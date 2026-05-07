@@ -5,6 +5,38 @@ maintained by a Claude Code routine. Each run diffs the current sitemap
 against the prior one, fetches changed pages, and writes a plain-language
 summary that a smart layperson can follow.
 
+## 2026-05-07T09-15Z
+
+**Fetch time:** 2026-05-07T09:17:05Z UTC | **Baseline:** 2026-05-07T09-01Z
+
+**TL;DR:** OpenAI's CMS ran a batch regeneration cycle between the bootstrap run and
+this one (~14 minutes apart), causing 34 pages to show fresh `<lastmod>` timestamps.
+Of those 34, only **one page had a real content change**: the `/index/podium/` customer
+story rotated a single "Keep reading" recommended-article link (swapped "Singular Bank"
+for "How frontier enterprises are building an AI advantage"). The other 33 were
+timestamp-only updates with identical content. No URLs were added or removed. No
+anomalies detected.
+
+### The one real content change
+
+- [https://openai.com/index/podium/](pages/openai.com/index/podium/index.md) —
+  "Keep reading" carousel updated: swapped out the
+  [Singular Bank story](pages/openai.com/index/singular-bank/index.md) in favour of
+  [How frontier enterprises are building an AI advantage](pages/openai.com/index/introducing-b2b-signals/index.md)
+  (both dated May 6, 2026). Main article body (GPT-5.1 powering AI agents for 10,000+ SMBs) unchanged.
+
+### Notable timestamp-only updates (no content change)
+
+34 pages had `<lastmod>` bumped from ~08:xx UTC to ~09:xx UTC — a CMS batch
+re-index signature. The most notable was `/index/our-principles/` (Sam Altman),
+whose timestamp crossed a day boundary (May 6 → May 7) but content was identical.
+See [runs/2026-05-07T09-15Z/analysis.md](runs/2026-05-07T09-15Z/analysis.md) for the
+full list.
+
+**Stats:** 1279 total URLs | +0 added | 34 lastmod changes (1 content change) | -0 removed | 0 anomalies | 34 sub-sitemaps
+
+---
+
 - **Sitemap monitored:** `https://openai.com/sitemap.xml` (sitemap-index → ~34 sub-sitemaps)
 - **Routine schedule:** daily
 - **What's tracked:** added / removed / updated URLs (per `<lastmod>`),

@@ -1,0 +1,188 @@
+{
+  "run_id": "2026-05-07T09-15Z",
+  "fetch_time": "2026-05-07T09:17:05Z",
+  "baseline": "2026-05-07T09-01Z",
+  "added": [],
+  "removed": [],
+  "updated": [
+    {
+      "url": "https://openai.com/academy/codex/",
+      "old_lastmod": "2026-05-07T08:52:29.012Z",
+      "new_lastmod": "2026-05-07T09:17:03.997Z"
+    },
+    {
+      "url": "https://openai.com/business/customer-stories/",
+      "old_lastmod": "2026-05-07T08:21:13.459Z",
+      "new_lastmod": "2026-05-07T09:04:27.305Z"
+    },
+    {
+      "url": "https://openai.com/careers/",
+      "old_lastmod": "2026-05-07T07:16:06.153Z",
+      "new_lastmod": "2026-05-07T09:08:08.779Z"
+    },
+    {
+      "url": "https://openai.com/index/balyasny-asset-management/",
+      "old_lastmod": "2026-05-07T08:12:16.265Z",
+      "new_lastmod": "2026-05-07T09:05:18.782Z"
+    },
+    {
+      "url": "https://openai.com/index/bbva-2025/",
+      "old_lastmod": "2026-05-07T08:11:46.577Z",
+      "new_lastmod": "2026-05-07T09:04:34.466Z"
+    },
+    {
+      "url": "https://openai.com/index/bbva/",
+      "old_lastmod": "2026-05-07T08:11:30.301Z",
+      "new_lastmod": "2026-05-07T09:04:54.903Z"
+    },
+    {
+      "url": "https://openai.com/index/bny/",
+      "old_lastmod": "2026-05-07T08:21:23.184Z",
+      "new_lastmod": "2026-05-07T09:04:55.944Z"
+    },
+    {
+      "url": "https://openai.com/index/chime-vineet-mehra/",
+      "old_lastmod": "2026-05-07T08:12:36.253Z",
+      "new_lastmod": "2026-05-07T09:05:23.309Z"
+    },
+    {
+      "url": "https://openai.com/index/commonwealth-bank-of-australia/",
+      "old_lastmod": "2026-05-07T08:12:17.241Z",
+      "new_lastmod": "2026-05-07T09:04:49.640Z"
+    },
+    {
+      "url": "https://openai.com/index/consensus/",
+      "old_lastmod": "2026-05-07T08:58:28.877Z",
+      "new_lastmod": "2026-05-07T09:17:04.399Z"
+    },
+    {
+      "url": "https://openai.com/index/cred-swamy-seetharaman/",
+      "old_lastmod": "2026-05-07T08:12:25.909Z",
+      "new_lastmod": "2026-05-07T09:04:28.943Z"
+    },
+    {
+      "url": "https://openai.com/index/endex/",
+      "old_lastmod": "2026-05-07T08:11:40.873Z",
+      "new_lastmod": "2026-05-07T09:04:24.901Z"
+    },
+    {
+      "url": "https://openai.com/index/gradient-labs/",
+      "old_lastmod": "2026-05-07T08:57:49.163Z",
+      "new_lastmod": "2026-05-07T09:05:00.615Z"
+    },
+    {
+      "url": "https://openai.com/index/hebbia/",
+      "old_lastmod": "2026-05-07T08:11:18.378Z",
+      "new_lastmod": "2026-05-07T09:05:05.623Z"
+    },
+    {
+      "url": "https://openai.com/index/hygh/",
+      "old_lastmod": "2026-05-07T08:11:24.981Z",
+      "new_lastmod": "2026-05-07T09:04:07.273Z"
+    },
+    {
+      "url": "https://openai.com/index/jetbrains-2025/",
+      "old_lastmod": "2026-05-07T08:12:05.409Z",
+      "new_lastmod": "2026-05-07T09:04:41.721Z"
+    },
+    {
+      "url": "https://openai.com/index/klarna/",
+      "old_lastmod": "2026-05-07T08:11:41.242Z",
+      "new_lastmod": "2026-05-07T09:04:52.134Z"
+    },
+    {
+      "url": "https://openai.com/index/mercado-libre/",
+      "old_lastmod": "2026-05-07T08:12:17.230Z",
+      "new_lastmod": "2026-05-07T09:04:12.848Z"
+    },
+    {
+      "url": "https://openai.com/index/model-ml-chaz-englander/",
+      "old_lastmod": "2026-05-07T08:11:37.634Z",
+      "new_lastmod": "2026-05-07T09:04:23.655Z"
+    },
+    {
+      "url": "https://openai.com/index/morgan-stanley/",
+      "old_lastmod": "2026-05-07T08:11:50.172Z",
+      "new_lastmod": "2026-05-07T09:04:32.886Z"
+    },
+    {
+      "url": "https://openai.com/index/neurogum/",
+      "old_lastmod": "2026-05-07T08:11:50.769Z",
+      "new_lastmod": "2026-05-07T09:04:06.314Z"
+    },
+    {
+      "url": "https://openai.com/index/nubank/",
+      "old_lastmod": "2026-05-07T08:12:23.230Z",
+      "new_lastmod": "2026-05-07T09:04:08.729Z"
+    },
+    {
+      "url": "https://openai.com/index/o1-economics/",
+      "old_lastmod": "2026-05-07T08:12:12.696Z",
+      "new_lastmod": "2026-05-07T09:04:25.256Z"
+    },
+    {
+      "url": "https://openai.com/index/our-principles/",
+      "old_lastmod": "2026-05-06T15:13:05.975Z",
+      "new_lastmod": "2026-05-07T09:14:15.467Z"
+    },
+    {
+      "url": "https://openai.com/index/plex-coffee/",
+      "old_lastmod": "2026-05-07T08:11:46.424Z",
+      "new_lastmod": "2026-05-07T09:04:06.212Z"
+    },
+    {
+      "url": "https://openai.com/index/podium/",
+      "old_lastmod": "2026-05-07T08:11:19.591Z",
+      "new_lastmod": "2026-05-07T09:04:07.693Z"
+    },
+    {
+      "url": "https://openai.com/index/rakuten/",
+      "old_lastmod": "2026-05-07T08:11:27.389Z",
+      "new_lastmod": "2026-05-07T09:04:28.576Z"
+    },
+    {
+      "url": "https://openai.com/index/rogo/",
+      "old_lastmod": "2026-05-07T08:11:43.652Z",
+      "new_lastmod": "2026-05-07T09:04:27.131Z"
+    },
+    {
+      "url": "https://openai.com/index/singular-bank/",
+      "old_lastmod": "2026-05-07T08:11:14.845Z",
+      "new_lastmod": "2026-05-07T09:03:25.530Z"
+    },
+    {
+      "url": "https://openai.com/index/steuerrecht/",
+      "old_lastmod": "2026-05-07T08:21:46.742Z",
+      "new_lastmod": "2026-05-07T09:04:14.011Z"
+    },
+    {
+      "url": "https://openai.com/index/trustbank/",
+      "old_lastmod": "2026-05-07T08:12:17.010Z",
+      "new_lastmod": "2026-05-07T09:05:04.499Z"
+    },
+    {
+      "url": "https://openai.com/index/vfl-wolfsburg/",
+      "old_lastmod": "2026-05-07T08:11:37.385Z",
+      "new_lastmod": "2026-05-07T09:04:12.827Z"
+    },
+    {
+      "url": "https://openai.com/index/wrtn/",
+      "old_lastmod": "2026-05-07T08:58:26.282Z",
+      "new_lastmod": "2026-05-07T09:17:04.691Z"
+    },
+    {
+      "url": "https://openai.com/startups/",
+      "old_lastmod": "2026-05-07T08:58:22.350Z",
+      "new_lastmod": "2026-05-07T09:16:29.869Z"
+    }
+  ],
+  "anomalies": [],
+  "fetch_failures": [],
+  "_notes": {
+    "actual_content_changed": [
+      "https://openai.com/index/podium/"
+    ],
+    "timestamp_only_changes": 33,
+    "cms_regen_pattern": "Most lastmod bumps are CMS batch re-indexing artifacts (same-day 08:xx->09:xx)"
+  }
+}
