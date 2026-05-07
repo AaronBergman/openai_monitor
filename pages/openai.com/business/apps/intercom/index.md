@@ -1,0 +1,179 @@
+Skip to main content
+
+[](</>)
+
+  * [Research](</research/index/>)
+  * Products
+  * [Business](</business/>)
+  * [Developers](</api/>)
+  * [Company](</about/>)
+  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
+
+
+
+Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
+
+  * Research
+  * Products
+  * Business
+  * Developers
+  * Company
+  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
+
+
+
+[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)Login
+
+OpenAI[View all apps](</business/apps/>)
+
+# Intercom
+
+Look up past user chats and tickets.
+
+[Add app(opens in a new window)](<http://chatgpt.com/apps>)[Contact sales](</contact-sales/>)
+
+Use case: [Go-to-Market](</business/apps/?tab=apps-go-to-market>)
+
+Made by: OpenAI
+
+Website: [intercom.com(opens in a new window)](<https://intercom.com>)
+
+## How it works
+
+Use customer conversations to reveal themes and key history, generating clear insights that help teams prepare respond, and improve across product, CX, and sales.
+
+### Resolve tickets faster with full context
+
+Summarize a long thread, extract key facts, and draft a response with next steps and tone guidance, reducing handle time and escalations while improving consistency across agents.
+
+### Surface product feedback and recurring issues
+
+Group conversations by topic, tag, or customer segment to identify top pain points and example quotes, giving product teams faster signal and reducing repeat support questions.
+
+### Prepare for customer calls in minutes
+
+Pull recent conversations and open tickets for an account, then generate a pre-call brief and follow-up email, so CSMs and support stay aligned on risks and next steps.
+
+## Sample prompts
+
+Draft help center content
+
+**@Intercom** Turn recurring questions in these conversations into a draft help center article with sections, troubleshooting steps, and common pitfalls.
+
+Highlight key product themes
+
+**@Intercom** Group conversations from the last 30 days by product pain point and include representative customer quotes per theme.
+
+Identify key risks and mitigation actions
+
+**@Intercom** I'm a CSM prepping for a renewal. Pull the most recent conversations and open tickets for this account and flag risks to address.
+
+## Resources
+
+### [Help centerRead more](<https://help.openai.com/en/articles/12562556-intercom-synced-connector>)
+
+### [App supportRead more](<https://www.intercom.com/help>)
+
+### [Privacy policyRead more](<https://www.intercom.com/legal/privacy>)
+
+## Get started with apps
+
+Bring your organization’s data and tools into OpenAI products and accelerate what your teams can do.
+
+[Try ChatGPT Business(opens in a new window)](<https://chatgpt.com/team-sign-up>)[Contact sales](</contact-sales/>)
+
+Our Research
+
+  * [Research Index](</research/index/>)
+  * [Research Overview](</research/>)
+  * [Research Residency](</residency/>)
+  * [Economic Research](</signals/>)
+
+
+
+Latest Advancements
+
+  * [GPT-5.5](</index/introducing-gpt-5-5/>)
+  * [GPT-5.4](</index/introducing-gpt-5-4/>)
+  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
+  * [GPT-5.3-Codex](</index/introducing-gpt-5-3-codex/>)
+
+
+
+Safety
+
+  * [Safety Approach](</safety/>)
+  * [Security & Privacy](</security-and-privacy/>)
+  * [Trust & Transparency](</trust-and-transparency/>)
+
+
+
+ChatGPT
+
+  * [Explore ChatGPT(opens in a new window)](<https://chatgpt.com/overview>)
+  * [Business](<https://chatgpt.com/business/business-plan>)
+  * [Enterprise](<https://chatgpt.com/business/enterprise>)
+  * [Education](<https://chatgpt.com/business/education>)
+  * [Pricing(opens in a new window)](<https://chatgpt.com/pricing>)
+  * [Download(opens in a new window)](<https://chatgpt.com/download>)
+
+
+
+API Platform
+
+  * [Platform Overview](</api/>)
+  * [Pricing](</api/pricing/>)
+  * [API log in(opens in a new window)](<https://platform.openai.com/login>)
+  * [Documentation(opens in a new window)](<https://developers.openai.com/api/docs>)
+  * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
+
+
+
+For Business
+
+  * [Business Overview](</business/>)
+  * [Solutions](</solutions/>)
+  * [Contact Sales](</contact-sales/>)
+
+
+
+Company
+
+  * [About Us](</about/>)
+  * [Our Charter](</charter/>)
+  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
+  * [Careers](</careers/>)
+  * [Brand](</brand/>)
+
+
+
+Support
+
+  * [Help Center(opens in a new window)](<https://help.openai.com/>)
+
+
+
+More
+
+  * [News](</news/>)
+  * [Stories](</stories/>)
+  * [Academy](</academy/>)
+  * [Livestreams](</live/>)
+  * [Podcast](</podcast/>)
+  * [RSS](<https://openai.com/news/rss.xml>)
+
+
+
+Terms & Policies
+
+  * [Terms of Use](</policies/terms-of-use/>)
+  * [Privacy Policy](</policies/privacy-policy/>)
+  * [Other Policies ](</policies/>)
+
+
+
+[(opens in a new window)](<https://x.com/OpenAI>)[(opens in a new window)](<https://www.youtube.com/OpenAI>)[(opens in a new window)](<https://www.linkedin.com/company/openai>)[(opens in a new window)](<https://github.com/openai>)[(opens in a new window)](<https://www.instagram.com/openai/>)[(opens in a new window)](<https://www.tiktok.com/@openai>)[(opens in a new window)](<https://discord.gg/openai>)
+
+OpenAI © 2015–2026Your privacy choices
+
+EnglishUnited States

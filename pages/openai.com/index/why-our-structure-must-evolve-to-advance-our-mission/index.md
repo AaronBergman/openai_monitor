@@ -1,0 +1,205 @@
+Skip to main content
+
+[](</>)
+
+  * [Research](</research/index/>)
+  * Products
+  * [Business](</business/>)
+  * [Developers](</api/>)
+  * [Company](</about/>)
+  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
+
+
+
+Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
+
+  * Research
+  * Products
+  * Business
+  * Developers
+  * Company
+  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
+
+
+
+[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)Login
+
+OpenAI
+
+December 27, 2024
+
+[Company](</news/company-announcements/>)
+
+# Why OpenAI’s structure must evolve to advance our mission
+
+A stronger non-profit supported by the for-profit’s success.
+
+Share
+
+OpenAI’s Board of Directors is evaluating our corporate structure in order to best support the mission of ensuring artificial general intelligence (AGI)1 benefits all of humanity, with three objectives:
+
+  1. Choose a non-profit / for-profit structure that is best for the long-term success of the mission.
+  2. Make the non-profit sustainable.
+  3. Equip each arm to do its part.
+
+
+
+We have a non-profit and a for-profit today, and we will continue to have both, with the for-profit’s success enabling the non-profit to be well funded, better sustained, and in a stronger position for the mission.
+
+We view this mission as the most important challenge of our time. It requires simultaneously advancing AI’s capability, safety, and positive impact in the world. In this post, we share the history of our current structure, why we think a change is necessary, and what specific change we are considering.
+
+## The past
+
+We began in 2015 as a research lab with a vision that AGI might really happen, and we wanted to help it go as well as possible. In these early days, we thought that progress relied on key ideas produced by top researchers and that supercomputing clusters were less important.
+
+We performed experiments ranging from [toolkits for game-playing AI](</index/universe/>) to [robotics research](</index/ingredients-for-robotics-research/>) and published papers. We had no products, no business, and no commercial revenue.
+
+Our [stated goal](</index/introducing-openai/>) was “advancing digital intelligence in the way most likely to benefit humanity as a whole, unconstrained by a need to generate financial return.” A non-profit structure seemed fitting, and we raised donations in various forms including cash ($137M, less than a third of which was from Elon) and compute credits and discounts ($1.8M from Amazon and $50M or more from each of Azure and Google Cloud).
+
+Eventually, it became clear that the most [advanced AI](</index/openai-five/>) would continuously use [more and more compute](</index/ai-and-compute/>) and that scaling large language models was a [promising path](</index/better-language-models/>) to AGI rooted in an understanding of humanity. We would need far more compute, and therefore far more capital, than we could obtain with donations in order to pursue our mission.
+
+## The present
+
+In 2019, we became more than a lab—we also became a startup. We estimated that we’d have to raise on the order of $10B to build AGI. This level of capital for compute and talent meant we needed to partner with investors in order to continue the non-profit’s mission.
+
+We created a bespoke structure: a [for-profit](</index/openai-lp/>), controlled by the non-profit, with a capped profit share for investors and employees. We intended to make [significant profits⁠(opens in a new window)](<https://news.ycombinator.com/item?id=19362353>) to pay back shareholders, who make our mission possible, and have the remainder flow to the non-profit. We rephrased our [mission](</index/openai-lp/>) to “ensure that artificial general intelligence benefits all of humanity” and planned to achieve it “primarily by attempting to build safe AGI and share the benefits with the world.” The words and approach changed to serve the same goal—benefiting humanity.
+
+That year, the for-profit raised an initial round of over $100M, followed by [$1 billion from Microsoft](</index/microsoft-invests-in-and-partners-with-openai/>).
+
+By 2020, to raise additional capital, we needed to demonstrate that our technology could generate revenue before reaching AGI. So we built our [first product](</index/openai-api/>). In the process, we learned how different [real-world safety](</index/our-approach-to-ai-safety/>) is from what we [expected in the lab](</index/language-model-safety-and-misuse/>). Meanwhile, we also began delivering the “benefits” part of our mission, rather than having to wait until after achieving AGI.
+
+In 2022, we launched [ChatGPT](</index/chatgpt/>), a product which made AI accessible to regular people and everyday life. Today, over 300 million people use it each week for productivity, learning, and more—most of them for free.
+
+In 2024, we discovered a new research paradigm, with our [o-series models](</o1/>) demonstrating new reasoning capabilities that scale with “thinking” compute, stacking together with compute for training.
+
+Our impact is not just what we create ourselves, but how we influence others. In part due to our [progress⁠(opens in a new window)](<https://www.forbes.com/sites/davidphelan/2023/01/23/how-chatgpt-suddenly-became-googles-code-red-prompting-return-of-page-and-brin/>), there’s [vibrant⁠(opens in a new window)](<https://altindex.com/news/meta-catches-up-to-chat-gpt>) [competition⁠(opens in a new window)](<https://menlovc.com/2024-the-state-of-generative-ai-in-the-enterprise/>) in the space, from commercial products similar to ChatGPT to open source LLMs, and vigorous [innovation⁠(opens in a new window)](<https://deepmind.google/discover/blog/introducing-the-frontier-safety-framework/>) [on⁠(opens in a new window)](<https://www.anthropic.com/news/announcing-our-updated-responsible-scaling-policy>) [safety⁠(opens in a new window)](<https://cdn.openai.com/openai-preparedness-framework-beta.pdf>). This activity is only the start of an AI-charged economy and shows how OpenAI’s pursuit of leadership in the field can inspire other organizations to advance the mission too.
+
+The [hundreds⁠(opens in a new window)](<https://www.investopedia.com/meta-says-it-is-making-progress-with-ai-as-spending-grows-8737166>) [of⁠(opens in a new window)](<https://www.bloomberg.com/news/articles/2024-04-16/deepmind-ceo-says-google-will-spend-more-than-100-billion-on-ai>) [billions⁠(opens in a new window)](<https://carboncredits.com/larry-ellisons-100-billion-bet-nuclear-power-to-drive-oracles-ai-revolution/>) [of⁠(opens in a new window)](<https://artsmart.ai/blog/how-much-has-microsoft-invested-in-ai/>) dollars that major companies are now investing into AI development show what it will really take for OpenAI to continue pursuing the mission. We once again need to raise more capital than we’d imagined. Investors want to back us but, at this scale of capital, need conventional equity and less structural bespokeness.
+
+## The future
+
+As we enter 2025, we will have to become more than a lab and a startup—we have to become an enduring company. The Board’s objectives as it considers, in consultation with outside legal and financial advisors, how to best structure OpenAI to advance the mission of ensuring AGI benefits all of humanity have been:
+
+  1. **Choose a non-profit / for-profit structure that is best for the long-term success of the mission.** Our plan is to transform our existing for-profit into a Delaware [Public Benefit Corporation⁠(opens in a new window)](<https://en.wikipedia.org/wiki/Benefit_corporation>) (PBC) with ordinary shares of stock and the OpenAI mission as its public benefit interest. The PBC is a [structure⁠(opens in a new window)](<https://www.theinformation.com/articles/musks-xai-incorporates-as-benefit-corporation-with-positive-impact-goal>) [used⁠](<https://openai.com/index/elon-musk-wanted-an-openai-for-profit/>) [by⁠(opens in a new window)](<https://en.wikipedia.org/wiki/Inflection_AI>) [many⁠(opens in a new window)](<https://www.anthropic.com/company>) [others⁠(opens in a new window)](<https://corpgov.law.harvard.edu/2022/02/18/converting-to-a-delaware-public-benefit-corporation-lessons-from-experience/>) that requires the company to balance shareholder interests, stakeholder interests, and a public benefit interest in its decisionmaking. It will enable us to raise the necessary capital with conventional terms like others in this space.
+  2. **Make the non-profit sustainable.** Our plan would result in one of the best resourced non-profits in history. The non-profit’s significant interest in the existing for-profit would take the form of shares in the PBC at a fair valuation determined by independent financial advisors. This will multiply the resources that our donors gave manyfold.
+  3. **Equip each arm to do its part.** Our current structure does not allow the Board to directly consider the interests of those who would finance the mission and does not enable the non-profit to easily do more than control the for-profit. The PBC will run and control OpenAI’s operations and business, while the non-profit will hire a leadership team and staff to pursue charitable initiatives in sectors such as health care, education, and science.
+
+
+
+We’ve learned to think of the mission as a [continuous objective](</index/planning-for-agi-and-beyond/>) rather than just building any single system. The world is moving to build out a new infrastructure of energy, land use, chips, datacenters, data, AI models, and AI systems for the 21st century economy. We seek to evolve in order to take the next step in our mission, helping to build the AGI economy and ensuring it benefits humanity.
+
+  * [Culture & Careers](</news/?tags=culture-careers>)
+  * [Global Affairs](</news/?tags=global-affairs>)
+  * [Partnerships](</news/?tags=partnerships>)
+  * [2024](</news/?tags=2024>)
+
+
+
+## Author
+
+OpenAI
+
+## Footnotes
+
+  1. 1
+
+A highly autonomous system that outperforms humans at most economically valuable work.
+
+
+
+
+Our Research
+
+  * [Research Index](</research/index/>)
+  * [Research Overview](</research/>)
+  * [Research Residency](</residency/>)
+  * [Economic Research](</signals/>)
+
+
+
+Latest Advancements
+
+  * [GPT-5.5](</index/introducing-gpt-5-5/>)
+  * [GPT-5.4](</index/introducing-gpt-5-4/>)
+  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
+  * [GPT-5.3-Codex](</index/introducing-gpt-5-3-codex/>)
+
+
+
+Safety
+
+  * [Safety Approach](</safety/>)
+  * [Security & Privacy](</security-and-privacy/>)
+  * [Trust & Transparency](</trust-and-transparency/>)
+
+
+
+ChatGPT
+
+  * [Explore ChatGPT(opens in a new window)](<https://chatgpt.com/overview>)
+  * [Business](<https://chatgpt.com/business/business-plan>)
+  * [Enterprise](<https://chatgpt.com/business/enterprise>)
+  * [Education](<https://chatgpt.com/business/education>)
+  * [Pricing(opens in a new window)](<https://chatgpt.com/pricing>)
+  * [Download(opens in a new window)](<https://chatgpt.com/download>)
+
+
+
+API Platform
+
+  * [Platform Overview](</api/>)
+  * [Pricing](</api/pricing/>)
+  * [API log in(opens in a new window)](<https://platform.openai.com/login>)
+  * [Documentation(opens in a new window)](<https://developers.openai.com/api/docs>)
+  * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
+
+
+
+For Business
+
+  * [Business Overview](</business/>)
+  * [Solutions](</solutions/>)
+  * [Contact Sales](</contact-sales/>)
+
+
+
+Company
+
+  * [About Us](</about/>)
+  * [Our Charter](</charter/>)
+  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
+  * [Careers](</careers/>)
+  * [Brand](</brand/>)
+
+
+
+Support
+
+  * [Help Center(opens in a new window)](<https://help.openai.com/>)
+
+
+
+More
+
+  * [News](</news/>)
+  * [Stories](</stories/>)
+  * [Academy](</academy/>)
+  * [Livestreams](</live/>)
+  * [Podcast](</podcast/>)
+  * [RSS](<https://openai.com/news/rss.xml>)
+
+
+
+Terms & Policies
+
+  * [Terms of Use](</policies/terms-of-use/>)
+  * [Privacy Policy](</policies/privacy-policy/>)
+  * [Other Policies ](</policies/>)
+
+
+
+[(opens in a new window)](<https://x.com/OpenAI>)[(opens in a new window)](<https://www.youtube.com/OpenAI>)[(opens in a new window)](<https://www.linkedin.com/company/openai>)[(opens in a new window)](<https://github.com/openai>)[(opens in a new window)](<https://www.instagram.com/openai/>)[(opens in a new window)](<https://www.tiktok.com/@openai>)[(opens in a new window)](<https://discord.gg/openai>)
+
+OpenAI © 2015–2026Your privacy choices
+
+EnglishUnited States

@@ -1,0 +1,262 @@
+Skip to main content
+
+[](</>)
+
+  * [Research](</research/index/>)
+  * Products
+  * [Business](</business/>)
+  * [Developers](</api/>)
+  * [Company](</about/>)
+  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
+
+
+
+Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
+
+  * Research
+  * Products
+  * Business
+  * Developers
+  * Company
+  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
+
+
+
+[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)Login
+
+OpenAI
+
+Select language
+
+…
+
+Updated: December 1, 2025
+
+# OpenAI Data Processing Addendum
+
+[Download PDF(opens in a new window)](<https://cdn.openai.com/pdf/openai-data-processing-addendum.pdf>)
+
+**Effective: January 1, 2026**
+
+([View previous data processing addendum](</policies/feb-2024-data-processing-addendum/>))
+
+This OpenAI Data Processing Addendum (“ _DPA_ ”) supplements, and is incorporated into, the OpenAI Services Agreement (“ _Agreement_ ”) governing use of the Services and is entered as of the Effective Date between the customer identified above (“ _Customer_ ”) and OpenAI OpCo, LLC, on its behalf and on behalf of its Affiliates, as appropriate, unless Customer is based within a European Economic Area country or Switzerland, in which case it is entered into with OpenAI Ireland Ltd., on its behalf and on behalf of its Affiliates, as appropriate (“ _OpenAI_ ”). Capitalized terms not defined in the DPA have the meanings provided in the Agreement. In this DPA, OpenAI and Customer are each referred to as a “ _Party_ ” and collectively as the “ _Parties_.” Customer represents it is lawfully able to enter into this Agreement and, if it is entering into the Agreement for an entity, that it has legal authority to bind that entity. By clicking “I agree,” accepting the Order Form, or using the Services, Customer agrees to this Agreement.
+
+## 1\. Details.
+
+  * 1.1 _Scope and Roles_. As part of providing the Services to the Customer under the Agreement, OpenAI may Process Customer Data on behalf of Customer. OpenAI acts as a Data Processor on the Customer’s behalf, and this DPA governs such Processing.
+  * 1.2 _Details of Processing_. OpenAI will only Process Customer Data for the purposes of delivering the Services to Customer pursuant to the Agreement and this DPA. Details regarding the nature, duration, as well as the types of Customer Data and categories of Data Subjects involved, are set out in Schedule 1 (Details of Processing) to this DPA. OpenAI and Customer each agree to comply with their respective obligations under Data Protection Laws in connection with the Services.
+
+
+
+## 2\. OpenAI Obligations.
+
+  * 2.1 _Customer Instructions_. The Parties agree that this DPA, the Agreement (including the Order Form), and any instructions provided via the configuration tools and other tools within the Services made available by OpenAI within the Services, constitute Customer’s documented instructions regarding OpenAI’s processing of Customer Data (“ _Customer Instructions_ ”). OpenAI will process Customer Data only in accordance with Customer Instructions, unless required to do so by applicable law to which OpenAI is subject, in which case OpenAI will inform Customer of this requirement prior to processing unless legally prohibited from doing so.
+  * 2.2 _Notices to Customer_. OpenAI will promptly inform Customer in writing if, in OpenAI’s opinion, a Customer Instruction violates Data Protection Laws. OpenAI will, to the extent legally permitted, inform Customer if OpenAI receives a legally binding request for disclosure of Customer Data by a law enforcement authority.
+  * 2.3 _Confidentiality_. OpenAI will ensure that all persons authorized by OpenAI to process Customer Data have committed themselves to confidentiality or are under an appropriate statutory obligation of confidentiality.
+  * 2.4 _Data Subject Requests_. OpenAI will, to the extent legally permitted, inform Customer if OpenAI receives a request to exercise data subject rights pursuant to Data Protection Laws (“ _Data Subject Request_ ”) in respect of Customer Data. OpenAI will not respond to any such request without Customer’s prior written authorization, except that Customer authorizes OpenAI to redirect Data Subject Requests as necessary to allow Customer to respond directly. Taking into account the nature of the processing, OpenAI will assist Customer by implementing appropriate technical and organizational measures, in so far as this is possible, to allow Customer to respond to Data Subject Requests.
+  * 2.5 _Security_. OpenAI will implement and maintain reasonable and appropriate organizational and technical security measures to protect Customer Data, as set forth in the Agreement.
+  * 2.6 _Assistance to Customer_. OpenAI will, taking into account the nature of the processing and the information available to OpenAI, provide reasonable assistance to Customer to help Customer comply with its obligations under Data Protection Laws including, where appropriate, the preparation of data protection impact assessments with respect to OpenAI’s processing of Customer Data and, where necessary, the Customer consulting with a supervisory authority with jurisdiction over such processing, if such consultation is required by Data Protection Laws.
+  * 2.7 _Personal Data Breaches_. OpenAI will notify Customer without undue delay after becoming aware of any Personal Data Breach. OpenAI will provide reasonable assistance to Customer to help Customer comply with its obligations under Data Protection Laws in respect of such Personal Data Breach.
+  * 2.8 _Assessing Compliance_. OpenAI will, on Customer’s reasonable written request and to the extent required by Data Protection Laws: (i) no more than once per year, provide Customer with OpenAI’s privacy and security policies and other such information necessary to demonstrate compliance with OpenAI’s obligations under this DPA; and (ii) provided that the Parties have an appropriate confidentiality agreement in place, allow for and contribute to audits or inspections by, or on behalf of, Customer at Customer’s sole expense. Such audit or inspection must be: (A) conducted in a manner that is minimally disruptive to OpenAI’s business; (B) necessary to confirm that OpenAI is processing Customer Data in a manner consistent with this DPA; and (C) occur no more than once per year. Where permitted by Data Protection Laws, OpenAI may instead make available to Customer a summary of the Audit Reports relevant to OpenAI’s compliance with this DPA. Such results and documentation, including the results of any audits or inspections, shall be the Confidential Information of OpenAI.
+  * 2.9 _Engagement of Sub-processors_. Customer hereby provides a general authorization to OpenAI to engage the Sub-Processors listed in the Sub-Processor List to process Customer Data in connection with the Services. OpenAI will notify Customer of any changes to the Sub-Processor List via blog post, notification within the Services or other reasonable means, or via email if Customer subscribes to email notifications on the Sub-Processor List site. Customer may object to the use of such additional Sub-processor within 30 days of receiving notice of the change by following the instructions set forth in the Sub-Processor List or by contacting privacy@openai.com. In such case, OpenAI will work with Customer to address its concerns and offer commercially reasonable alternatives or solutions. If none of the alternatives or solutions are commercially feasible, in OpenAI’s reasonable judgment, or if the objections have not been resolved to the satisfaction of the Parties within 30 days of OpenAI’s receipt of Customer’s objection notice, then either Party may terminate the Agreement or any Order Forms or usage regarding the Services that cannot be provided without the use of the new Sub-Processor. In such case, Customer will be refunded any applicable pre-paid fees to the extent they cover periods or terms following the date of such termination.
+  * 2.10 _Sub-processor obligations_. OpenAI shall enter into contractual arrangements with each Sub-Processor that imposes on them obligations comparable to those imposed on OpenAI under this DPA. Subject to the limitations of liability included in the Agreement, OpenAI will remain liable for the acts and omissions of its Sub-Processors to the same extent OpenAI would be liable under this DPA if it performed such acts or omissions itself.
+  * 2.11 _Data Return or Deletion_. Following expiry or termination of the Agreement, OpenAI will, at Customer’s instruction, return or delete Customer Data, and existing copies unless retention of Customer Data is required under applicable laws, in which case OpenAI will isolate and protect it from any further processing except to the extent required by applicable laws.
+
+
+
+## 3\. Customer Obligations.
+
+  * 3.1 _Notices and authorizations_. Customer represents, warrants and covenants that it has provided all necessary notices, and has and shall maintain throughout the Term all necessary rights, consents and authorizations, to the extent required under Data Protection Laws, to provide the Customer Data to OpenAI and to authorize OpenAI to process Customer Data in connection with the Agreement, including this DPA.
+  * 3.2 _Cooperation_. Customer shall reasonably cooperate with OpenAI to assist OpenAI in performing any of its obligations under applicable Data Protection Laws.
+  * 3.3 _Configurations_. Without prejudice to OpenAI’s security obligations in Section 2.5 of this DPA, Customer acknowledges and agrees that it is responsible for certain configurations and design decisions for the Services and for implementing such configurations and design decisions (e.g., retention periods, deletion, etc.) in a manner that complies with applicable Data Protection Laws.
+
+
+
+## 4\. International Data Transfers.
+
+  * 4.1 _EEA and Swiss Data_. Customer Data processed by OpenAI under this DPA may fall within the scope of the Data Protection Laws of the European Economic Area or Switzerland (“ _EEA and Swiss Data_ ”). Regardless of the OpenAI applicable contracting Party under this DPA, Customer hereby instructs OpenAI Ireland Limited to process any EEA and Swiss Data in compliance with this DPA. To the extent OpenAI Ireland Limited transfers EEA and Swiss Data to other OpenAI Affiliates or third parties outside the European Economic Area or Switzerland to provide the Services, it will do so on the basis of agreements containing SCCs that ensure appropriate safeguards for the protection of Customer Data are in place or an adequacy decision issued by the European Commission under Article 45 GDPR.
+  * 4.2 _UK Data_. Customer Data processed by OpenAI under this DPA may fall within the scope of the Data Protection Laws of the United Kingdom (“ _UK Data_ ”). Regardless of the OpenAI applicable contracting Party under this DPA, Customer hereby instructs OpenAI OpCo, LLC to process any UK Data in compliance with this DPA and with the SCCs as amended by the UK Addendum, which are deemed entered into (and incorporated into this DPA by this reference) and completed as described in Schedule 1.
+
+
+
+## 5\. Further Requirements. 
+
+To the extent U.S. Privacy Laws apply:
+
+  * 5.1 OpenAI agrees to (a) not provide Customer with monetary or other valuable consideration in exchange for Customer Data from Customer. The parties acknowledge and agree that Customer has not “sold” (as such term is defined by U.S. Privacy Laws) Customer Data to OpenAI; (b) not “sell” (as such term is defined by U.S. Privacy Laws) or “share” (as such term is defined by the CCPA) Personal Data; (c) to the extent that Customer permits or instructs OpenAI to process Customer Data subject to U.S. Privacy Laws in a de-identified form as part of the Services, OpenAI shall (i) adopt reasonable measures to prevent such deidentified data from being used to infer information about, or otherwise being linked to, a particular natural person or household; (ii) publicly commit to maintain and use such deidentified data in that form and not attempt to re-identify the information, except as may be permitted by U.S. Privacy Laws; and (iii) before sharing de-identified data with any other party, including Sub-Processors, contractually obligate any such recipients to comply with the requirements of this provision (c)(i)-(iii); and (d) where the Customer Data is subject to the CCPA (i) not retain, use, disclose, or otherwise process Customer Data except as necessary for the business purposes specified in the Agreement, including without limitation as set out in Schedule 1 of this DPA; (ii) not retain, use, disclose, or otherwise process Customer Data in any manner outside of the direct business relationship between OpenAI and Customer; (iii) not combine any Customer Data with Personal Data that OpenAI receives from or on behalf of any other third party or collects from OpenAI’s own interactions with individuals, provided that OpenAI may so combine Customer Data for a purpose permitted under the CCPA if directed to do so by Customer or as otherwise permitted by the CCPA; (iv) notify Customer without undue delay if OpenAI determines that it can no longer meet its obligations under the CCPA; and (v) if Customer reasonably believes that OpenAI’s Processing of Customer Data is not consistent with the requirements of the CCPA and upon Customer’s reasonable notification of the same to OpenAI, the Parties will work together in good faith to remedy the issue, or, if after working together Customer reasonably determines that the issue cannot be remedied, OpenAI will stop Processing the affected Customer Data upon written instruction from Customer.
+  * 5.2 Customer agrees to not take any action that would (a) render the provision of Customer Data to OpenAI a “sale” under U.S. Privacy Laws or a “share” under the CCPA (or equivalent concepts under U.S. Privacy Laws); or (ii) render OpenAI not a “service provider” under the CCPA or “processor” under U.S. Privacy Laws.
+
+
+
+## 6\. Definitions.
+
+“ _Customer Data_ ” means Personal Data processed by OpenAI on behalf of Customer to provide the Services.
+
+“ _Data Controller_ ” has the meaning assigned to the term “controller” (or another analogous term) under Data Protection Laws.
+
+“ _Data Processor_ ” has the meaning assigned to the term “processor” (or another analogous term) under Data Protection Laws.
+
+“ _Data Protection Laws_ ” means data privacy and data protection laws applicable to OpenAI’s processing of Customer Data in connection with the Services. 
+
+“ _Data Subject_ ” has the meaning assigned to the term “data subject” (or another analogous term) under Data Protection Laws.
+
+“ _GDPR_ ” means Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016
+
+“ _Personal Data_ ” has the meaning assigned to the term “personal data” or “personal information (or another analogous term) under Data Protection Laws.
+
+“ _Personal Data Breach_ ” means a breach of security leading to the accidental or unlawful destruction, loss, alteration, unauthorized disclosure of, or access to Customer Data stored, transmitted or otherwise processed by OpenAI, its Sub-Processors, or any other third parties acting on OpenAI’s behalf.
+
+“ _Processing_ ” has the meaning assigned to the term “processing” (or another analogous term) under Data Protection Laws.
+
+“ _SCCs_ ” means the standard contractual clauses for the transfer of personal data to third countries adopted by the EU Commission on June 4, 2021 (as may be amended, updated or replaced from time to time).
+
+“ _Sub-Processors_ ” means the sub-processors engaged by OpenAI to process Customer Data in connection with the Services, listed in the Sub-Processor List.
+
+“ _Sub-Processor List_ ” means the list available at the following address [_https://platform.openai.com/subprocessors_ ⁠(opens in a new window)](<https://platform.openai.com/subprocessors>).
+
+“ _UK Addendum_ ” means the UK addendum to the EU SCCs issued by the Information Commissioner under section 119A(1) of the Data Protection Act 2018.
+
+“ _U.S. Privacy Laws_ ” means the subset of Data Protection Laws applicable to residents of the United States, including without limitation the California Consumer Privacy Act (“ _CCPA_ ”).
+
+_**Schedule 1**_
+
+ _**Details of Processing**_
+
+1\. _Nature and Purpose_ : 
+
+The performance of the Services under the Agreement.
+
+2\. _Duration_ :
+
+The Term and such time required thereafter for the Parties to perform their applicable obligations following the end of the Term, including data deletion.
+
+3\. _Categories of Customer Data_ :
+
+Customer may submit Personal Data to the Services, the categories of which will depend upon Customer’s use of the Services which is determined and controlled by Customer in its sole discretion, but it may include, but is not limited to names, contact information, demographic information, or any other information provided by Customer’s End Users in unstructured data.
+
+4\. _Categories of data subjects_ :
+
+The data subjects may include, but are not limited to Customer’s employees, customers, suppliers and generally End Users.
+
+5\. _Sensitive data transferred (if applicable)_ :
+
+_Sensitive data transferred (if applicable) and applied restrictions or safeguards that fully take into consideration the nature of the data and the risks involved, such as for instance strict purpose limitation, access restrictions (including access only for staff having followed specialised training), keeping a record of access to the data, restrictions for onward transfers or additional security measures._
+
+No sensitive data is intended to be transferred unless the user includes it unexpectedly in unstructured data
+
+6\. _Frequency_ :
+
+_The frequency of the transfer (e.g. whether the data is transferred on a one-off or continuous basis)._
+
+Continuous basis depending on Customer’s use of the Services
+
+7\. _Transfers to Sub-Processors_ :
+
+_As per Article 2.9 of the DPA, Sub-Processors will Process Customer Data as necessary to perform the Services. Such Processing will be for the duration of the Agreement, unless otherwise agreed in writing._
+
+8\. _SCCs information for the transfer of UK Data under Section 4.2_ :
+
+  * 8.1 Module Two (Controller to Processor) of the SCCs apply when Customer is a Data Controller and OpenAI is processing Customer Data as a Data Processor. Module Three (Processor to Sub-Processor) of the SCCs apply when Customer is a Data Processor and OpenAI is processing Customer Data as a sub-processor.
+  * 8.2 For each module of the SCCs, where applicable, the following applies: (i) The optional docking clause in Clause 7 does not apply; (ii) In Clause 9, Option 2 (general written authorization) applies, and the minimum time period for prior notice of sub-processor changes shall be as set forth in Section 2.9 of the DPA; (iii) In Clause 11, the optional language does not apply; (iv) All square brackets in Clause 13 are hereby removed; (v) In Clause 17 (Option 1), the SCCs will be governed by the laws of England and Wales; (vi) In Clause 18(b), disputes will be resolved before the courts of England and Wales; (vii) This Schedule 1 contains the information required in Annex I and Annex III of the SCCs; (viii) Section 2.5 (Security) of the DPA contains the information required in Annex II of the SCCs, (ix) the competent supervisory authority is the Information Commissioner’s Office (“ICO”).
+  * 8.3 Data exporter(s): the Customer under the Agreement; Data importer(s): OpenAI OpCo, LLC, 1455 3rd Street, San Francisco, CA 94158, Data Protection Officer, [_privacy@openai.com_ ⁠](<mailto:privacy@openai.com>).
+
+
+
+[Execute Data Processing Agreement⁠(opens in a new window)](<https://ironcladapp.com/public-launch/63ffefa2bed6885f4536d0fe>)
+
+Our Research
+
+  * [Research Index](</research/index/>)
+  * [Research Overview](</research/>)
+  * [Research Residency](</residency/>)
+  * [Economic Research](</signals/>)
+
+
+
+Latest Advancements
+
+  * [GPT-5.5](</index/introducing-gpt-5-5/>)
+  * [GPT-5.4](</index/introducing-gpt-5-4/>)
+  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
+  * [GPT-5.3-Codex](</index/introducing-gpt-5-3-codex/>)
+
+
+
+Safety
+
+  * [Safety Approach](</safety/>)
+  * [Security & Privacy](</security-and-privacy/>)
+  * [Trust & Transparency](</trust-and-transparency/>)
+
+
+
+ChatGPT
+
+  * [Explore ChatGPT(opens in a new window)](<https://chatgpt.com/overview>)
+  * [Business](<https://chatgpt.com/business/business-plan>)
+  * [Enterprise](<https://chatgpt.com/business/enterprise>)
+  * [Education](<https://chatgpt.com/business/education>)
+  * [Pricing(opens in a new window)](<https://chatgpt.com/pricing>)
+  * [Download(opens in a new window)](<https://chatgpt.com/download>)
+
+
+
+API Platform
+
+  * [Platform Overview](</api/>)
+  * [Pricing](</api/pricing/>)
+  * [API log in(opens in a new window)](<https://platform.openai.com/login>)
+  * [Documentation(opens in a new window)](<https://developers.openai.com/api/docs>)
+  * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
+
+
+
+For Business
+
+  * [Business Overview](</business/>)
+  * [Solutions](</solutions/>)
+  * [Contact Sales](</contact-sales/>)
+
+
+
+Company
+
+  * [About Us](</about/>)
+  * [Our Charter](</charter/>)
+  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
+  * [Careers](</careers/>)
+  * [Brand](</brand/>)
+
+
+
+Support
+
+  * [Help Center(opens in a new window)](<https://help.openai.com/>)
+
+
+
+More
+
+  * [News](</news/>)
+  * [Stories](</stories/>)
+  * [Academy](</academy/>)
+  * [Livestreams](</live/>)
+  * [Podcast](</podcast/>)
+  * [RSS](<https://openai.com/news/rss.xml>)
+
+
+
+Terms & Policies
+
+  * [Terms of Use](</policies/terms-of-use/>)
+  * [Privacy Policy](</policies/privacy-policy/>)
+  * [Other Policies ](</policies/>)
+
+
+
+[(opens in a new window)](<https://x.com/OpenAI>)[(opens in a new window)](<https://www.youtube.com/OpenAI>)[(opens in a new window)](<https://www.linkedin.com/company/openai>)[(opens in a new window)](<https://github.com/openai>)[(opens in a new window)](<https://www.instagram.com/openai/>)[(opens in a new window)](<https://www.tiktok.com/@openai>)[(opens in a new window)](<https://discord.gg/openai>)
+
+OpenAI © 2015–2026Your privacy choices
+
+EnglishUnited States

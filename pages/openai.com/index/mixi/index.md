@@ -1,0 +1,230 @@
+Skip to main content
+
+[](</>)
+
+  * [Research](</research/index/>)
+  * Products
+  * [Business](</business/>)
+  * [Developers](</api/>)
+  * [Company](</about/>)
+  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
+
+
+
+Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
+
+  * Research
+  * Products
+  * Business
+  * Developers
+  * Company
+  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
+
+
+
+[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)Login
+
+OpenAI
+
+Table of contents
+
+  * Creating a safe environment for AI use
+  * A 45-day deployment, powered by hands‑on support
+  * Strengthening FamilyAlbum’s Message with GPTs
+  * Redirecting analyst hours toward human connection
+  * Everyone’s a developer: 1,600 GPTs and counting
+
+
+
+August 20, 2025
+
+# MIXI reimagines communication with ChatGPT
+
+Discover how MIXI deployed ChatGPT Enterprise in just 45 days, and scaled company-wide adoption.
+
+![MIXI logo in white centered on a textured red background with a close-up fabric-like pattern.](https://images.ctfassets.net/kftzwdyauwt9/5KApDgtZYoD6RF39ZKjUt/e3cf3533fe4a813ddbcf714271112907/oai_Mixi_16x9_v2__1_.png?w=3840&q=90&fm=webp)
+
+Loading…
+
+Share
+
+MIXI, once a pioneer of Japan’s early social networking scene, now primarily operates in the Lifestyle, Digital Entertainment, and Sports industries. The company is known for global successes like the mobile game “MONSTER STRIKE” and the family-focused photo and video-sharing app “FamilyAlbum.”
+
+Staying ahead of many other Japanese companies, MIXI collaborated with OpenAI to roll out ChatGPT Enterprise throughout the organization in just 45 days. The rollout to all employees moved swiftly, sparking numerous internal use cases, with some departmental projects achieving reductions of more than 90% in work hours.
+
+> “When operational efficiency rises, we win back time for imagination. And with that time we use AI again, accelerating the next idea.”
+
+Junpei Yoshino, CTO, MIXI
+
+![Junpei Yoshino, CTO of MIXI, speaking at a table \(left\) and walking with a colleague in front of a MIXI sign in a modern office \(right\).](https://images.ctfassets.net/kftzwdyauwt9/19wwDw3pE1pAGpFMXk14tl/b9071364461c4f4c2942900a3ee89840/oai_mixi_P1__1_.png?w=3840&q=90&fm=webp)
+
+## Creating a safe environment for AI use
+
+MIXI’s corporate purpose is “to enrich communication and inspire moments of joy,” and the company consistently delivers services aligned with this mission. Creating memorable experiences and fostering meaningful connections requires continuous innovation and fresh ideas.
+
+Recognizing this potential, MIXI swiftly embraced AI, subsidizing ChatGPT Plus subscriptions for over 1000 employees. However, challenges arose regarding consistent data-training settings and internal data handling guidelines. Tatsuma Murase, Director and Senior Corporate Officer, recalls: “We needed to check each employee's AI settings individually, and our rules for using company data were unclear. It was obvious we had to create a secure, unified environment for everyone to safely use AI.”
+
+With the company-wide adoption of ChatGPT Enterprise, employees now easily and securely share their expertise and GPTs. Having confidence to safely access internal data has enabled teams to work faster and more efficiently than ever before.
+
+## A 45-day deployment, powered by hands‑on support
+
+Rolling out any new platform to thousands of people usually takes quarters. MIXI finished in 45 days thanks to a tight partnership with OpenAI’s Customer Success team. When different departments raised concerns—from personal data handling to ensuring smooth operations—OpenAI provided mitigation playbooks drawn from other enterprise launches.
+
+After going live, MIXI and OpenAI ran three flagship enablement programs:
+
+  * **ChatGPT 101 training** : A live session for every employee, focused on day‑to‑day prompts that shorten real work.
+  * **New‑hire workshop** : A generative AI onboarding session for April 2025 graduates, building AI fluency from day one.
+  * **Hackathon** : A hands‑on sprint where engineers built apps with the OpenAI Agents SDK, turning theoretical interest into shipped prototypes.
+
+
+
+![Presentation on ChatGPT Enterprise, group collaboration around laptops, and close-up of a laptop screen showing the ChatGPT Codex page.](https://images.ctfassets.net/kftzwdyauwt9/5N2UYDwMCs2c5NH2egeJWK/dc4f2e9131c653dfd53ea2492bb630fe/oai_mixi_p2.png?w=3840&q=90&fm=webp)
+
+These comprehensive efforts allowed many MIXI employees to quickly adopt ChatGPT and OpenAI products, sparking essential use cases across diverse departments. 
+
+## Strengthening FamilyAlbum’s Message with GPTs
+
+FamilyAlbum is an app designed to help parents share photos and videos of their children with loved ones, and is one of MIXI’s most popular apps, with over 25 million users across 175 countries and regions, available in seven languages. The app helps families worldwide foster new ways of communication and connection.
+
+“In our advertising creative planning, we’re using GPTs to enhance brand understanding and design AB tests, resulting in a reduction of approximately 28 hours of work per month,” says Nobuhisa Hirata, Assistant Chief General Manager of the FamilyAlbum Business Department. “Our teams have developed GPTs that encourage a collaborative culture, where members actively test and refine prompts together.”
+
+Copy checkerCreative planning
+
+  * **Copy Checker GPT** :**** Reviews taglines to ensure they feel “FamilyAlbum‑like.” If a proposal includes strong or aggressive wording, the GPT suggests softer phrases aligned with the brand voice.
+  * **Creative Planning GPT** : Enables non‑native speakers to generate global ad copy that respects both brand values and local nuance. Users specify language and target persona; the GPT returns full headline‑to‑call‑to‑action sets.
+
+
+
+“While AI has already contributed to improving our operational efficiency, we’re now looking beyond that. We aim to evolve AI from being merely a partner within our teams to becoming an integral part of our products. Our goal is to deliver more personalized, warm, and intuitive experiences to families around the world. By combining AI technology with FamilyAlbum’s vision, we believe we can deepen and enrich family connections even further,” says Hirata.
+
+## Redirecting analyst hours toward human connection
+
+MIXI’s investment division invests in startups and funds, having invested in over 70 funds and holding a portfolio of over 3,000 companies, including indirect investments.
+
+“It has become impossible to manually monitor all of our numerous investment targets,” explains Gohshi Araki, Head of Corporate Development. “The capabilities provided by AI were indispensable. Now, we use ChatGPT for investment evaluations and monitoring, significantly aiding risk assessment and creating new value.”
+
+The investment division has developed a specialized GPT called “VC Fund Initial Review Support,” designed to structurally organize proposals submitted by VC funds. This tool substantially reduces the time spent on initial investment reviews and improves overall evaluation quality. Previously, evaluating a single investment took between 1 to 2 hours, but this GPT has shortened that time to just 5 to 10 minutes, ensuring consistent high-quality results across all team members. Moreover, the division has seen several instances where leveraging ChatGPT Enterprise has reduced workloads by over 70%.
+
+Mr. Araki highlights that the saved time is now effectively redirected toward interpersonal communications and relationship-building tasks—activities uniquely suited to human engagement.
+
+## Everyone’s a developer: 1,600 GPTs and counting
+
+Since MIXI implemented ChatGPT Enterprise company-wide, over 80% of employees became active weekly users within three months, creating more than 1,600 GPTs. Mr. Murase noted significant improvements: “Some projects have cut work hours by over 90%.” He added, “Employees can now build tools themselves instead of relying on developers. It’s like everyone has become a developer.”
+
+Yoshino echoes this sentiment, saying the organization’s capabilities have broadened since the rollout and that MIXI intends to keep using OpenAI products to craft new communication-focused experiences. “We plan to continue making full use of ChatGPT and the OpenAI API to create the space and opportunity for truly meaningful connections that MIXI champions.”
+
+![Left: Person in a blazer speaking during a meeting with a laptop. Right: Group of colleagues smiling and laughing while working on laptops.](https://images.ctfassets.net/kftzwdyauwt9/1Ja2BPMWMzJ0w4JbSz8wpd/bc5435b6b78e91a6e1ea242b88304690/oai_mixi_p3.png?w=3840&q=90&fm=webp)
+
+## Interested in learning more about ChatGPT for business?
+
+[Talk with our team](</contact-sales/>)
+
+## Keep reading
+
+![oai basis 1.1](https://images.ctfassets.net/kftzwdyauwt9/2Xv5cxfo7thUJMeGKb8h6t/aeb411884ce3ca0b1ad13d57404e01bb/oai_basis_1.1.png?w=3840&q=90&fm=webp)
+
+[Scaling accounting capacity with OpenAIAug 12, 2025](</index/basis/>)
+
+![Intercom cover image](https://images.ctfassets.net/kftzwdyauwt9/32rIG6b83UB8GU0atjwCLp/2859930e037889e03ffc8ca685d00d5a/oai_Intercom_1x1.png?w=3840&q=90&fm=webp)
+
+[Three lessons for creating a sustainable AI advantageJul 30, 2025](</index/intercom/>)
+
+![oai Outtake 1x1](https://images.ctfassets.net/kftzwdyauwt9/6ndUQXibUAMFP9MDEq2a3Z/c36faa5a2a1c9e7294820ae74035c31f/oai_Outtake_1x1.png?w=3840&q=90&fm=webp)
+
+[Resolving digital threats 100x faster with OpenAIJul 24, 2025](</index/outtake/>)
+
+Our Research
+
+  * [Research Index](</research/index/>)
+  * [Research Overview](</research/>)
+  * [Research Residency](</residency/>)
+  * [Economic Research](</signals/>)
+
+
+
+Latest Advancements
+
+  * [GPT-5.5](</index/introducing-gpt-5-5/>)
+  * [GPT-5.4](</index/introducing-gpt-5-4/>)
+  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
+  * [GPT-5.3-Codex](</index/introducing-gpt-5-3-codex/>)
+
+
+
+Safety
+
+  * [Safety Approach](</safety/>)
+  * [Security & Privacy](</security-and-privacy/>)
+  * [Trust & Transparency](</trust-and-transparency/>)
+
+
+
+ChatGPT
+
+  * [Explore ChatGPT(opens in a new window)](<https://chatgpt.com/overview>)
+  * [Business](<https://chatgpt.com/business/business-plan>)
+  * [Enterprise](<https://chatgpt.com/business/enterprise>)
+  * [Education](<https://chatgpt.com/business/education>)
+  * [Pricing(opens in a new window)](<https://chatgpt.com/pricing>)
+  * [Download(opens in a new window)](<https://chatgpt.com/download>)
+
+
+
+API Platform
+
+  * [Platform Overview](</api/>)
+  * [Pricing](</api/pricing/>)
+  * [API log in(opens in a new window)](<https://platform.openai.com/login>)
+  * [Documentation(opens in a new window)](<https://developers.openai.com/api/docs>)
+  * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
+
+
+
+For Business
+
+  * [Business Overview](</business/>)
+  * [Solutions](</solutions/>)
+  * [Contact Sales](</contact-sales/>)
+
+
+
+Company
+
+  * [About Us](</about/>)
+  * [Our Charter](</charter/>)
+  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
+  * [Careers](</careers/>)
+  * [Brand](</brand/>)
+
+
+
+Support
+
+  * [Help Center(opens in a new window)](<https://help.openai.com/>)
+
+
+
+More
+
+  * [News](</news/>)
+  * [Stories](</stories/>)
+  * [Academy](</academy/>)
+  * [Livestreams](</live/>)
+  * [Podcast](</podcast/>)
+  * [RSS](<https://openai.com/news/rss.xml>)
+
+
+
+Terms & Policies
+
+  * [Terms of Use](</policies/terms-of-use/>)
+  * [Privacy Policy](</policies/privacy-policy/>)
+  * [Other Policies ](</policies/>)
+
+
+
+[(opens in a new window)](<https://x.com/OpenAI>)[(opens in a new window)](<https://www.youtube.com/OpenAI>)[(opens in a new window)](<https://www.linkedin.com/company/openai>)[(opens in a new window)](<https://github.com/openai>)[(opens in a new window)](<https://www.instagram.com/openai/>)[(opens in a new window)](<https://www.tiktok.com/@openai>)[(opens in a new window)](<https://discord.gg/openai>)
+
+OpenAI © 2015–2026Your privacy choices
+
+EnglishUnited States

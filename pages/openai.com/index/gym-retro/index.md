@@ -1,0 +1,202 @@
+Skip to main content
+
+[](</>)
+
+  * [Research](</research/index/>)
+  * Products
+  * [Business](</business/>)
+  * [Developers](</api/>)
+  * [Company](</about/>)
+  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
+
+
+
+Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
+
+  * Research
+  * Products
+  * Business
+  * Developers
+  * Company
+  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
+
+
+
+[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)Login
+
+OpenAI
+
+Table of contents
+
+  * Integration tool
+  * Reward farming
+
+
+
+May 25, 2018
+
+[Release](</research/index/release/>)
+
+# Gym Retro
+
+![A colorful collage of square-dimension moving 2D video game interfaces](https://images.ctfassets.net/kftzwdyauwt9/6b6e589c-881e-4e54-495c70c78931/531069d4302b4832fc1106be9f08ba4b/image_138.png?w=3840&q=90&fm=webp)
+
+Loading…
+
+Share
+
+We’re releasing the full version of [Gym Retro⁠(opens in a new window)](<https://github.com/openai/retro>), a platform for reinforcement learning research on games. This brings our publicly-released game count from around 70 Atari games and 30 Sega games to over 1,000 games across a variety of backing emulators. We’re also releasing the tool we use to add new games to the platform.
+
+We use Gym Retro to conduct research on RL algorithms and study generalization. Prior research in RL has mostly focused on optimizing agents to solve single tasks. With Gym Retro, we can study the ability to generalize between games with similar concepts but different appearances.
+
+This release includes games from the Sega Genesis and Sega Master System, and Nintendo’s NES, SNES, and Game Boy consoles. It also includes preliminary support for the Sega Game Gear, Nintendo Game Boy Color, Nintendo Game Boy Advance, and NEC TurboGrafx. Some of the released game integrations, including those games in the `data/experimental` folder of Gym Retro, are in a beta state — please try them out and let us know if you encounter any bugs. Due to the large scale of the changes involved the code will only be available on a [branch⁠(opens in a new window)](<https://github.com/openai/retro>) for the time being. To avoid breaking contestants’ code we won’t be merging the branch until after the contest concludes.
+
+The ongoing [Retro Contest⁠(opens in a new window)](<https://contest.openai.com/>) (ending in a couple weeks!) and our recent [technical report⁠(opens in a new window)](<https://arxiv.org/abs/1804.03720>) focus on the easier problem of generalizing between different levels of the same game (Sonic The Hedgehog™). The full Gym Retro dataset takes this idea further and makes it possible to study the harder problem of generalization between different games. The scale of the dataset and difficulty of individual games makes it a formidable challenge, and we are looking forward to sharing our research progress over the next year. We also hope that some of the solutions developed by participants in the Retro Contest can be scaled up and applied to the full Gym Retro dataset.
+
+## Integration tool
+
+Loading...
+
+We’re also releasing the tool we use to integrate new games. Provided you have the ROM for a game, this tool lets you easily create save states, find memory locations, and design scenarios that reinforcement learning agents can then solve. We’ve written an [integrator’s guide⁠(opens in a new window)](<https://retro.readthedocs.io/en/latest/integration.html>) for people looking to add support for new games.
+
+The integration tool also supports recording and playing movie files that save all the button inputs to the game. These files are small because they only need the starting state and sequence of button presses, as opposed to storing each frame of the output. Movie files like these are useful for visualizing what your reinforcement learning agent is doing as well as storing human input to use as training data.
+
+Loading...
+
+## Reward farming
+
+While developing Gym Retro we’ve found numerous examples of games where the agent learns to farm for rewards (defined as the increase in game score) rather than completing the implicit mission. In the above clips, characters in  _Cheese Cat-Astrophe (left)_ and  _Blades of Vengeance (right)_ become trapped in infinite loops because they’re able to rapidly accrue rewards that way. This highlights a [phenomenon⁠(opens in a new window)](<https://blog.openai.com/faulty-reward-functions/>) we’ve discussed previously: the relatively simple reward functions we give to contemporary reinforcement learning algorithms, for instance by maximizing the score in a game, can lead to undesirable behaviors.
+
+Loading...
+
+For games with dense (frequent and incremental) rewards where most of the difficulty comes from needing fast reaction times, reinforcement learning algorithms such as PPO do very well.
+
+In a game such as Gradius (pictured on the right), you get points for each enemy you shoot, so it’s easy to get rewards and start learning. Surviving in a game like this is based on your ability to dodge enemies, which is no problem for reinforcement learning algorithms since they play the game one frame at a time.
+
+For games that have a sparse reward or require planning more than a few seconds into the future, existing algorithms have a hard time. Many of the games in the Gym Retro dataset have a sparse reward or require planning, so tackling the full dataset will likely require new techniques that have not been developed yet.
+
+If you are excited about conducting research on transfer learning and meta-learning with an unprecedentedly large dataset, then consider [joining OpenAI⁠](</careers/>).
+
+  * [Community & Collaboration](</research/index/?tags=community-collaboration>)
+  * [Exploration & Games](</research/index/?tags=exploration-game>)
+  * [Learning Paradigms](</research/index/?tags=learning-paradigms>)
+  * [Software & Engineering](</research/index/?tags=software-engineering>)
+  * [Simulated Environments](</research/index/?tags=simulated-environments>)
+
+
+
+## Authors
+
+Vicki Pfau, Alex Nichol, Christopher Hesse, Larissa Schiavo, John Schulman, Oleg Klimov
+
+## Related articles
+
+[View all](</news/>)
+
+![Scaling Laws For Reward Model Overoptimization](https://images.ctfassets.net/kftzwdyauwt9/a8801fe6-8892-472b-f746d1d9fb2d/547c46ed9a8a71e89efbb7a7963a8932/image-6.webp?w=3840&q=90&fm=webp)
+
+[Scaling laws for reward model overoptimizationPublicationOct 19, 2022](</index/scaling-laws-for-reward-model-overoptimization/>)
+
+![Whisper](https://images.ctfassets.net/kftzwdyauwt9/13c810cb-0592-442d-190ab7378bef/a7cb2299d034abe93023f662f8d32263/Speech_Rec_16_9.png?w=3840&q=90&fm=webp)
+
+[Introducing WhisperReleaseSep 21, 2022](</index/whisper/>)
+
+![Screenshot of a scene from Minecraft](https://images.ctfassets.net/kftzwdyauwt9/ef9fc360-1a5a-4ca3-5c25b83b3564/50c07940455cc86ef84d91526d9cf3e0/vpt.jpg?w=3840&q=90&fm=webp)
+
+[Learning to play Minecraft with Video PreTrainingConclusionJun 23, 2022](</index/vpt/>)
+
+Our Research
+
+  * [Research Index](</research/index/>)
+  * [Research Overview](</research/>)
+  * [Research Residency](</residency/>)
+  * [Economic Research](</signals/>)
+
+
+
+Latest Advancements
+
+  * [GPT-5.5](</index/introducing-gpt-5-5/>)
+  * [GPT-5.4](</index/introducing-gpt-5-4/>)
+  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
+  * [GPT-5.3-Codex](</index/introducing-gpt-5-3-codex/>)
+
+
+
+Safety
+
+  * [Safety Approach](</safety/>)
+  * [Security & Privacy](</security-and-privacy/>)
+  * [Trust & Transparency](</trust-and-transparency/>)
+
+
+
+ChatGPT
+
+  * [Explore ChatGPT(opens in a new window)](<https://chatgpt.com/overview>)
+  * [Business](<https://chatgpt.com/business/business-plan>)
+  * [Enterprise](<https://chatgpt.com/business/enterprise>)
+  * [Education](<https://chatgpt.com/business/education>)
+  * [Pricing(opens in a new window)](<https://chatgpt.com/pricing>)
+  * [Download(opens in a new window)](<https://chatgpt.com/download>)
+
+
+
+API Platform
+
+  * [Platform Overview](</api/>)
+  * [Pricing](</api/pricing/>)
+  * [API log in(opens in a new window)](<https://platform.openai.com/login>)
+  * [Documentation(opens in a new window)](<https://developers.openai.com/api/docs>)
+  * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
+
+
+
+For Business
+
+  * [Business Overview](</business/>)
+  * [Solutions](</solutions/>)
+  * [Contact Sales](</contact-sales/>)
+
+
+
+Company
+
+  * [About Us](</about/>)
+  * [Our Charter](</charter/>)
+  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
+  * [Careers](</careers/>)
+  * [Brand](</brand/>)
+
+
+
+Support
+
+  * [Help Center(opens in a new window)](<https://help.openai.com/>)
+
+
+
+More
+
+  * [News](</news/>)
+  * [Stories](</stories/>)
+  * [Academy](</academy/>)
+  * [Livestreams](</live/>)
+  * [Podcast](</podcast/>)
+  * [RSS](<https://openai.com/news/rss.xml>)
+
+
+
+Terms & Policies
+
+  * [Terms of Use](</policies/terms-of-use/>)
+  * [Privacy Policy](</policies/privacy-policy/>)
+  * [Other Policies ](</policies/>)
+
+
+
+[(opens in a new window)](<https://x.com/OpenAI>)[(opens in a new window)](<https://www.youtube.com/OpenAI>)[(opens in a new window)](<https://www.linkedin.com/company/openai>)[(opens in a new window)](<https://github.com/openai>)[(opens in a new window)](<https://www.instagram.com/openai/>)[(opens in a new window)](<https://www.tiktok.com/@openai>)[(opens in a new window)](<https://discord.gg/openai>)
+
+OpenAI © 2015–2026Your privacy choices
+
+EnglishUnited States

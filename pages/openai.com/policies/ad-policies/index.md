@@ -1,0 +1,277 @@
+Skip to main content
+
+[](</>)
+
+  * [Research](</research/index/>)
+  * Products
+  * [Business](</business/>)
+  * [Developers](</api/>)
+  * [Company](</about/>)
+  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
+
+
+
+Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
+
+  * Research
+  * Products
+  * Business
+  * Developers
+  * Company
+  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
+
+
+
+[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)Login
+
+OpenAI
+
+Select language
+
+…
+
+Updated: April 29, 2026
+
+# Ad policies
+
+** _Last updated - April 2026_** _:_ We refined our ads placement policy to apply a more precise approach in some regulated-advice contexts. Medical, legal, and financial advice contexts are no longer categorically blocked from ads by default. Sensitive conversations and other prohibited contexts remain ineligible for ads.
+
+## 1\. Ad placement policy 
+
+OpenAI’s policy is to allow ads to be placed near chats that are safe, appropriate, and consistent with user trust and brand safety. Our safeguards are designed to prevent ad placements in sensitive user contexts and brand unsafe contexts, including but not limited to the contexts described below.
+
+Sensitive user contexts are conversations involving personal, high-stakes, or emotionally vulnerable situations where ads could undermine user trust or create a poor experience.
+
+Brand unsafe contexts are conversations where ad adjacency would be unsuitable for advertisers, including contexts that violate OpenAI’s [_Usage Policies_ ⁠](<https://openai.com/policies/usage-policies/>), as well as contexts that map to widely recognized brand safety frameworks that advertisers commonly treat as unsuitable for ad placement.
+
+**❌ Contexts inappropriate for ads**| **❌ Sensitive user contexts**  
+---|---  
+No ads on conversations associated with inappropriate categories, including harmful or controversial topics.
+
+  * Child safety
+  * Circumventing safeguards
+  * Cyber abuse
+  * Dangerous activities
+  * Debated social content
+  * Fraud / deception
+  * Graphic or exploitative sexual content
+  * Graphic violence
+  * Hate / harassment
+  * Illicit content
+  * IP infringement
+  * Misinformation
+  * Obscenity / profanity
+  * Political content
+  * Privacy
+  * Regulated goods (e.g., gambling or tobacco products)
+  * Suicide / self-harm
+  * Terrorism
+  * Weapons
+
+| No ads on conversations exhibiting vulnerable user–model interactions.
+
+  * Emotionally reliant contexts
+  * Mental and personal health conversations
+  * Sensitive user journeys
+
+  
+  
+## 2\. Ad content policy
+
+Our ad content policies define the categories of advertising currently supported on ChatGPT. During the initial test period, ads are primarily limited to consumer verticals such as lifestyle and household goods, local services, travel and experiences, and digital products or education. These categories may expand over time.
+
+All other categories are disallowed at launch, including ads that violate OpenAI’s usage policies and those related to sensitive or regulated areas such as dating or sexual content, health claims, alcohol and drugs, healthcare, financial or legal services, gambling, and political content. This list may evolve as the program develops.
+
+These standards apply to all ad assets, including copy, images or video, and landing pages. Ads must be consistent end-to-end: approved creatives may not link to destinations that introduce disallowed content (for example, a food delivery ad linking to alcohol delivery).
+
+## Baseline ad standards
+
+The following standards apply to all ads regardless of category. An ad that violates these standards is prohibited even if the product category is otherwise allowed.
+
+#### Misleading or deceptive ads
+
+Ads must be truthful and not misleading, including unfounded claims about capabilities, pricing, outcomes, affiliations, or comparisons with other products or companies. Ads that exaggerate results, use false endorsements, or otherwise deceive users are prohibited regardless of category.
+
+#### Obscenities and offensive language
+
+Ads must use professional and non-offensive language and imagery. Ads containing obscene, vulgar, or shocking language—including in product names, event titles, or branding—may be rejected even if the underlying category is otherwise allowed.
+
+#### Discrimination, harassment, and bullying 
+
+Ads must not include derogatory, defamatory, or exclusionary content, including slurs or language that targets individuals or groups based on protected characteristics.
+
+#### Interface imitation
+
+Ads must be clearly distinguishable from the ChatGPT product experience. We may remove or require modification of ads that imitate the appearance, functionality, or voice of ChatGPT or other OpenAI interfaces in a way that could reasonably cause users to believe the ad is part of the product.
+
+OpenAI reserves the right to refuse to display ad content and website links for any reason. 
+
+## Disallowed ads
+
+Ads must comply with [_OpenAI’s Usage Policies_ ⁠](<https://openai.com/policies/usage-policies/>). In addition, ChatGPT applies stricter standards to advertising in certain regulated and sensitive categories to protect user trust and brand safety.
+
+#### Adult content
+
+Ads for adult content or services are currently disallowed. This includes dating apps, sexual services or products, adult companion apps or websites, adult-themed events, full nudity, sexual health products, and assets featuring sexualized poses or explicit/racy imagery.
+
+Ads for lingerie, underwear, or swimwear may be allowed when presented in a standard fashion or retail context and not framed to provoke sexual arousal.
+
+#### Alcohol & tobacco
+
+Ads that promote or facilitate the sale, use, or consumption of alcohol or tobacco are currently disallowed, including marketing for alcoholic beverages (products over 0.5% ABV), cigarettes, vaping, or nicotine products, as well as alcohol or tobacco-focused activities. Incidental references are acceptable only when alcohol is not the focus and the ad otherwise fits within “Safe” eligibility.
+
+#### Financial services
+
+Ads for financial products and services are restricted. At this time, we may allow ads from approved financial advertisers.
+
+Additionally, financial tools that do not promote financial products or transactions may be permitted. Examples include budgeting apps, general financial software, and educational courses or materials about finance that do not include offers for financial services.
+
+Ads for cryptocurrency, credit repair, debt settlement, and debt assistance services are disallowed. 
+
+#### Gambling
+
+Ads promoting products or services that involve wagering money on games of chance, skill, or uncertain outcomes are currently disallowed. This includes casino or betting promotions, online sports betting, lotteries, and poker or gaming platforms that offer cash prizes.
+
+Ads for casinos may be permitted only when promoting lodging, travel, or entertainment experiences where gambling is not the focus (e.g., a hotel stay at a casino resort). Digital games that do not involve real-money wagering or cash prizes may also be allowed.
+
+#### Graphic sexual or violent content
+
+Ads must not include explicit sexual content or graphic violence. Sexually explicit advertising—including pornography, sexual services, full nudity, explicit sexual acts, or imagery intended to provoke sexual arousal—is not permitted. This also includes tools that generate or manipulate sexual imagery (e.g., “nudify” or AI sexualization tools).
+
+Ads must also not depict graphic or realistic violence, including gore, severe injury, or death against humans or animals, particularly when presented for shock or sensationalism. Age-restricted entertainment (e.g., R-rated films, M-rated games) may be advertised if the ad creative and landing page are non-explicit and non-graphic. Stylized or cartoon violence without gore may also be allowed.
+
+#### Healthcare & medicine
+
+Ads for regulated medical products, services, or claims involving the prevention, diagnosis, or treatment of physical or mental health conditions are currently disallowed. This includes prescription drugs, clinical care providers, hospitals, prescription services, over-the-counter medications, and other medical products or services offered through healthcare providers or insurance networks.
+
+General health and wellness products that do not make medical claims may be permitted, such as fitness equipment, wearable devices, menstrual products, or incidental references to health or self-care. Health-related products that make unregulated wellness claims may be evaluated under the _Wellness Claims_ policy. 
+
+#### Legal services
+
+Ads for legal advice, representation, or legal services offered to individuals or businesses are not permitted. This includes services related to immigration, personal injury, legal claims, or document preparation.
+
+Ads for general legal education or media may be allowed where no legal services are offered. Examples include legal-themed podcasts or educational materials about law (e.g., LSAT preparation courses). 
+
+#### Political content
+
+Ads that advocate for or against political actors, elections, public policy, or contested social issues are currently disallowed.
+
+This includes advertising related to elections or electoral participation (e.g., support for or opposition to a candidate, political party, referendum, or encouragement or discouragement of voting); advocacy connected to public officials or government action (e.g., immigration enforcement, taxes, climate policy, or other legislative or regulatory matters); and advertising that frames contested social issues as matters of public controversy or political debate.
+
+#### Recreational drugs
+
+Ads for products or services that promote the use of substances intended to intoxicate or alter consciousness, including cannabis or psychedelics, are currently disallowed. This includes marijuana or THC products (e.g., THC gummies), psychedelic substances such as magic mushrooms, and related paraphernalia.
+
+Non-intoxicating hemp-derived products, such as CBD topicals with no THC (e.g., creams or oils) and hemp clothing, may be permitted where they do not promote intoxicating use. Note that illicit drugs are never eligible for advertising.
+
+#### Sensitive topics or events
+
+Ads must not exploit or sensationalize socially contested issues, major public tragedies, or other high-impact events where advertising could undermine user trust or create brand-safety risk. Advertising that meaningfully references sensitive social issues—such as abortion, immigration, race, religion, or gender identity—or promotes false or misleading narratives is not permitted.
+
+#### Wellness claims
+
+Ads must not promote wellness or health-adjacent products that make unsubstantiated health claims outside established medical or regulatory frameworks. This includes advertising for diet pills, detox programs, supplements marketed with unsupported health claims outside major retail channels, and services such as health coaching.
+
+General wellness and lifestyle advertising may be permitted where no medical claims are made, such as fitness equipment or workout programs, general nutrition products, and supplements widely sold through major retailers. 
+
+## Allowed ads
+
+During the early phases of advertising, we are focused on a limited set of consumer categories, including household and consumer goods, local services, travel and entertainment, and digital products and education.
+
+We expect to expand eligible categories over time as our safeguards, review systems, and compliance infrastructure mature.
+
+Our Research
+
+  * [Research Index](</research/index/>)
+  * [Research Overview](</research/>)
+  * [Research Residency](</residency/>)
+  * [Economic Research](</signals/>)
+
+
+
+Latest Advancements
+
+  * [GPT-5.5](</index/introducing-gpt-5-5/>)
+  * [GPT-5.4](</index/introducing-gpt-5-4/>)
+  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
+  * [GPT-5.3-Codex](</index/introducing-gpt-5-3-codex/>)
+
+
+
+Safety
+
+  * [Safety Approach](</safety/>)
+  * [Security & Privacy](</security-and-privacy/>)
+  * [Trust & Transparency](</trust-and-transparency/>)
+
+
+
+ChatGPT
+
+  * [Explore ChatGPT(opens in a new window)](<https://chatgpt.com/overview>)
+  * [Business](<https://chatgpt.com/business/business-plan>)
+  * [Enterprise](<https://chatgpt.com/business/enterprise>)
+  * [Education](<https://chatgpt.com/business/education>)
+  * [Pricing(opens in a new window)](<https://chatgpt.com/pricing>)
+  * [Download(opens in a new window)](<https://chatgpt.com/download>)
+
+
+
+API Platform
+
+  * [Platform Overview](</api/>)
+  * [Pricing](</api/pricing/>)
+  * [API log in(opens in a new window)](<https://platform.openai.com/login>)
+  * [Documentation(opens in a new window)](<https://developers.openai.com/api/docs>)
+  * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
+
+
+
+For Business
+
+  * [Business Overview](</business/>)
+  * [Solutions](</solutions/>)
+  * [Contact Sales](</contact-sales/>)
+
+
+
+Company
+
+  * [About Us](</about/>)
+  * [Our Charter](</charter/>)
+  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
+  * [Careers](</careers/>)
+  * [Brand](</brand/>)
+
+
+
+Support
+
+  * [Help Center(opens in a new window)](<https://help.openai.com/>)
+
+
+
+More
+
+  * [News](</news/>)
+  * [Stories](</stories/>)
+  * [Academy](</academy/>)
+  * [Livestreams](</live/>)
+  * [Podcast](</podcast/>)
+  * [RSS](<https://openai.com/news/rss.xml>)
+
+
+
+Terms & Policies
+
+  * [Terms of Use](</policies/terms-of-use/>)
+  * [Privacy Policy](</policies/privacy-policy/>)
+  * [Other Policies ](</policies/>)
+
+
+
+[(opens in a new window)](<https://x.com/OpenAI>)[(opens in a new window)](<https://www.youtube.com/OpenAI>)[(opens in a new window)](<https://www.linkedin.com/company/openai>)[(opens in a new window)](<https://github.com/openai>)[(opens in a new window)](<https://www.instagram.com/openai/>)[(opens in a new window)](<https://www.tiktok.com/@openai>)[(opens in a new window)](<https://discord.gg/openai>)
+
+OpenAI © 2015–2026Your privacy choices
+
+EnglishUnited States

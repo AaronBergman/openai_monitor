@@ -1,0 +1,239 @@
+Skip to main content
+
+[](</>)
+
+  * [Research](</research/index/>)
+  * Products
+  * [Business](</business/>)
+  * [Developers](</api/>)
+  * [Company](</about/>)
+  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
+
+
+
+Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
+
+  * Research
+  * Products
+  * Business
+  * Developers
+  * Company
+  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
+
+
+
+[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)Login
+
+OpenAI
+
+May 5, 2025
+
+# Lowe’s leverages AI to power home improvement retail
+
+A conversation with Chandhu Nair, Senior Vice President of Data, AI, and Innovation.
+
+[Contact sales](</contact-sales/>)
+
+![A pink, purple, orange, and blue gradient background displaying the text “Executive Function Ep 08” in white.](https://images.ctfassets.net/kftzwdyauwt9/48A6scKmmPQtueG1S4m4zx/27ce75835cbe76e668c8a910d2661480/EF__lowe-s_1.1.png?w=3840&q=90&fm=webp)
+
+Company size: Enterprise
+
+Region: North America
+
+Industry: Retail
+
+Products: API
+
+Results
+
+50+ 
+
+Machine learning models deployed across pricing, forecasting, and supply chain
+
+Loading…
+
+Share
+
+Our Executive Function series features perspectives from leaders driving transformation through AI.
+
+Lowe’s is a Fortune 50 home improvement company serving approximately 16 million customer transactions a week in the U.S. We spoke with Chandhu Nair about AI’s importance to Lowe’s, building AI fluency for employees, and its practical impact on the company’s day-to-day operations.
+
+#### Lowe’s is one of the largest home improvement retailers in the U.S.—where does AI fit into the broader strategy? Why is it so important for Lowe’s?
+
+Lowe’s has been helping customers solve problems and fulfill dreams for over 100 years. Unlike most retail experiences, shopping for home improvement is very different for our customers. Whether it’s a bathroom renovation or choosing the right paint, these projects require inspiration, validation, and guidance. The price, permanence, and personal nature of home projects make every decision significant.
+
+Our business is designed to support this journey at scale. With thousands of in-store products and thousands more online, our network of 1,700 stores spans millions of square feet. And every day, hundreds of thousands of red-vested Lowe’s associates are ready to help. This vast ecosystem serves DIYers, Pros, and everyone in between, with technology enhancing every interaction to be faster, smarter, and more personalized.
+
+That’s where AI comes in. It’s been a key focus of our investment for nearly a decade—not because it’s trendy, but because it enhances what we’ve always done. AI offers unique opportunities to reimagine how we shop, sell, and work. Generative AI democratizes expertise, helping customers solve home improvement challenges and visualize projects like never before. It also transforms retail operations in-store, automating new processes for greater efficiency. We’re excited about the future and the potential for AI to improve customer and associate experiences, driving business growth.
+
+#### How does this focus on solving problems—rather than just selling products—change the way Lowe’s approaches the customer experience?
+
+Exactly. At Lowe’s, most customers aren’t just buying a product—they’re tackling a project. They might come in for a faucet, but what they really need is help fixing a leak or remodeling a bathroom. That shift—from product to project—reshapes how we think about every part of the experience.
+
+Projects require expertise, step-by-step support, and the right combination of materials. AI helps us bring all of that together. It’s a way to democratize expertise, giving customers confidence and guidance at every stage. Mylow (opens in a new window) is a great example—it’s like having a red-vested associate in your pocket, walking you through a project, recommending the right products, and helping you feel prepared to move forward.
+
+We’re also using AI to give our store teams real superpowers. With Mylow Companion, associates can instantly access project steps, product details, and check availability—so they can support any customer, in any department, with confidence.
+
+Both tools were built in collaboration with OpenAI and grounded in Lowe’s 100 years of home improvement expertise.
+
+> “Everything that AI does is really about bringing the data together”
+
+Listen
+
+#### How have you approached deploying AI at Lowe’s, particularly from an infrastructure perspective? Where did you start, and were there any challenges along the way?
+
+Our AI journey began long before the hype. Through Lowe’s Innovation Labs, we’ve been exploring emerging technologies with a 3-to-5-year horizon, working with OpenAI on transformer models well before ChatGPT became widely known. We’ve already deployed over 50 machine learning models in areas like pricing, forecasting, and supply chain.
+
+However, when consumer expectations around AI shifted in late 2022 with ChatGPT, the internal conversation evolved. Suddenly, everyone—from store teams to senior leaders—wanted to know about our AI initiatives. To respond effectively, we established an AI governance committee and launched an AI Community of Practice. We knew AI adoption had to be purposeful, so we created a strategic framework centered on how our customers shop, how we sell, and how we work—three key areas that continue to guide our AI efforts.
+
+#### How has AI impacted how Lowe’s operates on a day-to-day basis?
+
+AI is enhancing how we operate across the business. It’s helping our teams access insights faster, plan more effectively, and make decisions with greater precision and confidence.
+
+From merchandising and supply chain to store operations and digital, AI supports the day-to-day work of our associates and teams. It helps us stay responsive, improve coordination, and continue delivering a seamless experience—both for our customers and the people powering the business behind the scenes.
+
+> “You have to think of this as business transformation, not just technology transformation [...]”
+
+Listen
+
+#### With such a large workforce, what’s been your strategy for building AI fluency across Lowe’s?
+
+We established a dedicated AI Transformation Office to bridge the gap between technology and business, emphasizing change management and building AI fluency throughout the organization. With OpenAI, we offer tailored training for business leaders—not only on using AI tools but on strategically applying them. We’ve also integrated AI fundamentals into our corporate learning curriculum, enabling associates across functions to stay current as the technology evolves.
+
+Simultaneously, we’ve cultivated a thriving internal AI community that fosters curiosity, innovation, and cross-functional collaboration. What began organically within our tech teams has now expanded across the company, driving strong adoption as teams find practical ways to use AI to solve real business challenges. It’s become a key part of our culture—accessible, collaborative, and focused on impact.
+
+#### As you continue to implement AI, how do you measure ROI? What kind of metrics do you focus on?
+
+We take a phased approach to measuring ROI, starting with leading indicators to track early adoption and impact. For instance, when we launched our store companion tool, we focused on usage metrics: Are associates using it regularly? Are they asking the right questions? Is customer feedback improving recommendations?
+
+As the tools mature, we shift focus to broader outcomes. ROI isn’t solely about financial return—it also includes employee productivity, customer satisfaction, and engagement. We track metrics like incremental sales and basket size, while also monitoring whether associates feel more confident and empowered to provide excellent service.
+
+Ultimately, our goal is to ensure AI drives business outcomes while enhancing the human experience—for both customers and the teams supporting them.
+
+> “You need to build [AI] in a place where it can scale [...]”
+
+Listen
+
+#### What’s next for Lowe’s in terms of AI and personalization?
+
+Personalization is a key part of our strategy. With AI, we can offer tailored product recommendations based on the customer’s project and the specific problem they’re solving. For example, if a customer asks for mulch, we can not only calculate how much they need but also suggest the best type for their region, considering factors like climate.
+
+Our goal is to provide meaningful personalization without being invasive. We continually refine this process, respecting customer privacy, being transparent about how we use their data, and ensuring we balance personalization with customer control.
+
+Lowe’s is using OpenAI’s APIs to power Mylow, the first AI-powered home improvement virtual advisors on Lowe’s.com, which gives customers trusted advice and product recommendations. OpenAI is also powering its Mylow Companion app for store associates so they can quickly answer a range of complex home improvement questions in any department.
+
+## Join the new era of work
+
+More than 1 million businesses around the world are achieving meaningful results with OpenAI.
+
+[Contact sales](</contact-sales/>)
+
+## Keep reading
+
+![Futures 1 1](https://images.ctfassets.net/kftzwdyauwt9/7l4mPpfnMDZNfjmksyuILI/5e280d8d490f625b3fc414d9824e96ac/Futures_1_1.png?w=3840&q=90&fm=webp)
+
+[Introducing ChatGPT Futures: Class of 2026CompanyMay 6, 2026](</index/introducing-chatgpt-futures-class-of-2026/>)
+
+![What frontier enterprises do differently > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/4kKQaeWGl9atcyE51ri1ZW/3aa677511fa40bc0a4b089ef6cd9698f/Frame.png?w=3840&q=90&fm=webp)
+
+[How frontier enterprises are building an AI advantageCompanyMay 6, 2026](</index/introducing-b2b-signals/>)
+
+![Uber customer story > 1x1 art card and hero image](https://images.ctfassets.net/kftzwdyauwt9/5jnteCaoVnc71jA02qX8gk/0f394157c43c443dd1523a7fab48bc69/oai_Uber_1x1.png?w=3840&q=90&fm=webp)
+
+[Uber uses OpenAI to help people earn smarter and book fasterMay 6, 2026](</index/uber/>)
+
+Our Research
+
+  * [Research Index](</research/index/>)
+  * [Research Overview](</research/>)
+  * [Research Residency](</residency/>)
+  * [Economic Research](</signals/>)
+
+
+
+Latest Advancements
+
+  * [GPT-5.5](</index/introducing-gpt-5-5/>)
+  * [GPT-5.4](</index/introducing-gpt-5-4/>)
+  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
+  * [GPT-5.3-Codex](</index/introducing-gpt-5-3-codex/>)
+
+
+
+Safety
+
+  * [Safety Approach](</safety/>)
+  * [Security & Privacy](</security-and-privacy/>)
+  * [Trust & Transparency](</trust-and-transparency/>)
+
+
+
+ChatGPT
+
+  * [Explore ChatGPT(opens in a new window)](<https://chatgpt.com/overview>)
+  * [Business](<https://chatgpt.com/business/business-plan>)
+  * [Enterprise](<https://chatgpt.com/business/enterprise>)
+  * [Education](<https://chatgpt.com/business/education>)
+  * [Pricing(opens in a new window)](<https://chatgpt.com/pricing>)
+  * [Download(opens in a new window)](<https://chatgpt.com/download>)
+
+
+
+API Platform
+
+  * [Platform Overview](</api/>)
+  * [Pricing](</api/pricing/>)
+  * [API log in(opens in a new window)](<https://platform.openai.com/login>)
+  * [Documentation(opens in a new window)](<https://developers.openai.com/api/docs>)
+  * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
+
+
+
+For Business
+
+  * [Business Overview](</business/>)
+  * [Solutions](</solutions/>)
+  * [Contact Sales](</contact-sales/>)
+
+
+
+Company
+
+  * [About Us](</about/>)
+  * [Our Charter](</charter/>)
+  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
+  * [Careers](</careers/>)
+  * [Brand](</brand/>)
+
+
+
+Support
+
+  * [Help Center(opens in a new window)](<https://help.openai.com/>)
+
+
+
+More
+
+  * [News](</news/>)
+  * [Stories](</stories/>)
+  * [Academy](</academy/>)
+  * [Livestreams](</live/>)
+  * [Podcast](</podcast/>)
+  * [RSS](<https://openai.com/news/rss.xml>)
+
+
+
+Terms & Policies
+
+  * [Terms of Use](</policies/terms-of-use/>)
+  * [Privacy Policy](</policies/privacy-policy/>)
+  * [Other Policies ](</policies/>)
+
+
+
+[(opens in a new window)](<https://x.com/OpenAI>)[(opens in a new window)](<https://www.youtube.com/OpenAI>)[(opens in a new window)](<https://www.linkedin.com/company/openai>)[(opens in a new window)](<https://github.com/openai>)[(opens in a new window)](<https://www.instagram.com/openai/>)[(opens in a new window)](<https://www.tiktok.com/@openai>)[(opens in a new window)](<https://discord.gg/openai>)
+
+OpenAI © 2015–2026Your privacy choices
+
+EnglishUnited States

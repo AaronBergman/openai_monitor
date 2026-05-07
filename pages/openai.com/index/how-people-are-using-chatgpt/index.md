@@ -1,0 +1,203 @@
+Skip to main content
+
+[](</>)
+
+  * [Research](</research/index/>)
+  * Products
+  * [Business](</business/>)
+  * [Developers](</api/>)
+  * [Company](</about/>)
+  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
+
+
+
+Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
+
+  * Research
+  * Products
+  * Business
+  * Developers
+  * Company
+  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
+
+
+
+[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)Login
+
+OpenAI
+
+Table of contents
+
+  * Who’s using it 
+  * What they’re using it for
+  * How use is evolving
+
+
+
+September 15, 2025
+
+[Research](</news/research/>)[Publication](</research/index/publication/>)[Global Affairs](</news/global-affairs/>)
+
+# How people are using ChatGPT
+
+Largest study to date of consumer ChatGPT usage shows demographic gaps shrinking, economic value being created through both personal and professional use.
+
+![Soft gradient background with flowing diagonal streaks of pink and blue, symbolizing growth, diversity, and the broadening adoption of ChatGPT across different communities.](https://images.ctfassets.net/kftzwdyauwt9/2khdUJJKQqjmai3Lv9PeOK/f8e084232f90b0278b0466d9f144bfbb/how-people-are-using-chatgpt-16.9.png?w=3840&q=90&fm=webp)
+
+Loading…
+
+Share
+
+We’re releasing the largest study to date of how people are using ChatGPT, offering a first-of-its-kind view into how this broadly democratized technology creates economic value through both increased productivity at work and personal benefit. 
+
+The findings show that consumer adoption has broadened beyond early-user groups, shrinking the gender gap in particular; that most conversations focus on everyday tasks like seeking information and practical guidance; and that usage continues to evolve in ways that create economic value through both personal and professional use. This widening adoption underscores our belief that access to AI should be treated as a basic right—a technology that people can access to unlock their potential and shape their own future.
+
+The study, a National Bureau of Economic Research (NBER) working paper by OpenAI’s Economic Research team and Harvard economist David Deming, draws on a large-scale, privacy-preserving analysis of 1.5 million conversations to track how consumer usage has evolved since ChatGPT’s launch three years ago. Given the sample size and 700 million weekly active users of ChatGPT, this is the most comprehensive study of actual consumer use of AI ever released. Notably, while the study covers consumer plans only, the results still highlight the creation of economic value both at work and outside of work.
+
+Some of the paper’s key takeaways:
+
+## Who’s using it 
+
+Usage gaps are closing as we increasingly democratize AI. As of mid-2025, ChatGPT’s early gender gaps have narrowed dramatically, with adoption resembling the general adult population. In January 2024, among users with names that could be classified as either masculine or feminine, 37% had typically feminine names. By July 2025, that share had risen to more than half (52%).
+
+ChatGPT has also become a broadly accessible global tool, with especially rapid growth in low- and middle-income countries. By May 2025, ChatGPT adoption growth rates in the lowest income countries were over 4x those in the highest income countries.
+
+## What they’re using it for
+
+ChatGPT consumer usage is largely about getting everyday tasks done. Three-quarters of conversations focus on practical guidance, seeking information, and writing—with writing being the most common work task, while coding and self-expression remain niche activities.
+
+Patterns of use can also be thought of in terms of _Asking, Doing,_ and _Expressing_. About half of messages (49%) are _“Asking,”_ a growing and highly rated category that shows people value ChatGPT most as an advisor rather than only for task completion. _Doing_(40% of usage, including about one third of use for work) encompasses task-oriented interactions such as drafting text, planning, or programming, where the model is enlisted to generate outputs or complete practical work. _Expressing_ (11% of usage) captures uses that are neither asking nor doing, usually involving personal reflection, exploration, and play.
+
+## How use is evolving
+
+ChatGPT’s economic impact extends to both work and personal life. Approximately 30% of consumer usage is work-related and approximately 70% is non-work—with both categories continuing to grow over time, underscoring ChatGPT’s dual role as both a productivity tool and a driver of value for consumers in daily life. In some cases, it’s generating value that traditional measures like GDP fail to capture.
+
+A key way that value is created is through decision support: ChatGPT helps improve judgment and productivity, especially in knowledge-intensive jobs. And as people discover these and other benefits, usage deepens—with user cohorts increasing their activity over time through improved models and new use-case discovery.
+
+Together, these findings from the largest study of ChatGPT consumer usage to date show not only who is using AI and what they’re using it for, but also how it is creating real economic value that is increasingly central to people’s work and everyday lives.
+
+**Read the paper:** For the complete results, methodology, and robustness checks, see [the full working paper⁠(opens in a new window)](<https://www.nber.org/papers/w34255>). We look forward to analyzing how these results may evolve as the product changes and new capabilities ship.
+
+**Notes on preserving user privacy:** In this study, researchers did not read user messages. We used automated tools that categorized usage patterns without need for human review of message content.
+
+  * [ChatGPT](</news/?tags=chatgpt>)
+  * [2025](</news/?tags=2025>)
+  * [GPT](</news/?tags=gpt>)
+
+
+
+## Author
+
+OpenAI
+
+## Keep reading
+
+[View all](</news/>)
+
+![What frontier enterprises do differently > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/4kKQaeWGl9atcyE51ri1ZW/3aa677511fa40bc0a4b089ef6cd9698f/Frame.png?w=3840&q=90&fm=webp)
+
+[How frontier enterprises are building an AI advantageCompanyMay 6, 2026](</index/introducing-b2b-signals/>)
+
+![System Card 1x1](https://images.ctfassets.net/kftzwdyauwt9/2VCkKLVmTyNs0XGbqdxGeA/33ff7738f4e795ae0ee41ed2b4a985d3/System_Card_1x1.jpg?w=3840&q=90&fm=webp)
+
+[GPT-5.5 Instant System CardSafetyMay 5, 2026](</index/gpt-5-5-instant-system-card/>)
+
+![OpenAI and PwC collaborate > Card Image](https://images.ctfassets.net/kftzwdyauwt9/6wn2wKTtoQqG8KwxsOYSZY/839c16e046322c6117810a569cc80540/Frame.png?w=3840&q=90&fm=webp)
+
+[OpenAI and PwC collaborate to reimagine the office of the CFOGlobal AffairsMay 4, 2026](</index/openai-pwc-finance-collaboration/>)
+
+Our Research
+
+  * [Research Index](</research/index/>)
+  * [Research Overview](</research/>)
+  * [Research Residency](</residency/>)
+  * [Economic Research](</signals/>)
+
+
+
+Latest Advancements
+
+  * [GPT-5.5](</index/introducing-gpt-5-5/>)
+  * [GPT-5.4](</index/introducing-gpt-5-4/>)
+  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
+  * [GPT-5.3-Codex](</index/introducing-gpt-5-3-codex/>)
+
+
+
+Safety
+
+  * [Safety Approach](</safety/>)
+  * [Security & Privacy](</security-and-privacy/>)
+  * [Trust & Transparency](</trust-and-transparency/>)
+
+
+
+ChatGPT
+
+  * [Explore ChatGPT(opens in a new window)](<https://chatgpt.com/overview>)
+  * [Business](<https://chatgpt.com/business/business-plan>)
+  * [Enterprise](<https://chatgpt.com/business/enterprise>)
+  * [Education](<https://chatgpt.com/business/education>)
+  * [Pricing(opens in a new window)](<https://chatgpt.com/pricing>)
+  * [Download(opens in a new window)](<https://chatgpt.com/download>)
+
+
+
+API Platform
+
+  * [Platform Overview](</api/>)
+  * [Pricing](</api/pricing/>)
+  * [API log in(opens in a new window)](<https://platform.openai.com/login>)
+  * [Documentation(opens in a new window)](<https://developers.openai.com/api/docs>)
+  * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
+
+
+
+For Business
+
+  * [Business Overview](</business/>)
+  * [Solutions](</solutions/>)
+  * [Contact Sales](</contact-sales/>)
+
+
+
+Company
+
+  * [About Us](</about/>)
+  * [Our Charter](</charter/>)
+  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
+  * [Careers](</careers/>)
+  * [Brand](</brand/>)
+
+
+
+Support
+
+  * [Help Center(opens in a new window)](<https://help.openai.com/>)
+
+
+
+More
+
+  * [News](</news/>)
+  * [Stories](</stories/>)
+  * [Academy](</academy/>)
+  * [Livestreams](</live/>)
+  * [Podcast](</podcast/>)
+  * [RSS](<https://openai.com/news/rss.xml>)
+
+
+
+Terms & Policies
+
+  * [Terms of Use](</policies/terms-of-use/>)
+  * [Privacy Policy](</policies/privacy-policy/>)
+  * [Other Policies ](</policies/>)
+
+
+
+[(opens in a new window)](<https://x.com/OpenAI>)[(opens in a new window)](<https://www.youtube.com/OpenAI>)[(opens in a new window)](<https://www.linkedin.com/company/openai>)[(opens in a new window)](<https://github.com/openai>)[(opens in a new window)](<https://www.instagram.com/openai/>)[(opens in a new window)](<https://www.tiktok.com/@openai>)[(opens in a new window)](<https://discord.gg/openai>)
+
+OpenAI © 2015–2026Your privacy choices
+
+EnglishUnited States

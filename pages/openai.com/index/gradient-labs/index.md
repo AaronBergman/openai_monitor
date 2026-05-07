@@ -1,0 +1,262 @@
+Skip to main content
+
+[](</>)
+
+  * [Research](</research/index/>)
+  * Products
+  * [Business](</business/>)
+  * [Developers](</api/>)
+  * [Company](</about/>)
+  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
+
+
+
+Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
+
+  * Research
+  * Products
+  * Business
+  * Developers
+  * Company
+  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
+
+
+
+[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)Login
+
+OpenAI
+
+Table of contents
+
+  * Moving from SOPs to real-time systems
+  * Proving reliability in high-risk environments
+  * Showing impact on day one, and the path ahead
+
+
+
+April 1, 2026
+
+Startup
+
+# Gradient Labs gives every bank customer an AI account manager
+
+Gradient Labs uses GPT‑4.1 and GPT‑5.4 mini and nano to run complex financial support workflows with high accuracy and low latency.
+
+[Start building](</startups/>)
+
+![Soft flowing gradient background in warm orange and yellow blending into teal with a white geometric cube icon beside the text "Gradient Labs" centered across the image.](https://images.ctfassets.net/kftzwdyauwt9/5KZQBYyY2LBtllikqf9aul/6143158d9c259eed5aafb47cdac9bcdd/oai_GradientLabs_1x1.png?w=3840&q=90&fm=webp)
+
+Company size: Startup
+
+Region: Europe & UK
+
+Industry: Technology, Finance
+
+Products: API
+
+Results
+
+10x
+
+Revenue growth
+
+Results
+
+98%
+
+Customer satisfaction with AI agent experience
+
+Results
+
++11%
+
+Higher accuracy with GPT-4.1 vs. next-best provider
+
+Loading…
+
+Share
+
+In banking, resolving a customer issue is rarely simple. Cases like fraud or blocked payments require strict adherence to complex procedures across multiple teams. When systems fall short, customers are passed between teams, wait in queues, and face delays at moments when the stakes are highest.
+
+[_Gradient Labs_ ⁠(opens in a new window)](<https://gradient-labs.ai>) is built to handle this complexity. The London-based company is building AI agents that give every bank customer the experience of a dedicated account manager. Founded by a team that previously led AI and data efforts at Monzo, the company’s platform is built on OpenAI models and is now shifting production traffic onto GPT‑5.4 mini and nano.
+
+“We’re seeing 500-millisecond latency with GPT‑5.4 mini and nano, which is exactly what we need for natural voice conversations,” says Danai Antoniou, Co-Founder and Chief Scientist at Gradient Labs. “We’re moving a significant portion of our workload over.”
+
+> “We needed three things simultaneously: accuracy at instruction-following, low hallucination rates, and function-calling reliability, all under voice latency constraints. OpenAI was the only provider that passed on all three.”
+
+Danai Antoniou, Co-Founder and Chief Scientist at Gradient Labs
+
+## Moving from SOPs to real-time systems
+
+In banking, customer interactions are governed by standard operating procedures (SOPs) that define what should happen at each step.
+
+A typical customer interaction might look like this:
+
+  1. A customer calls to report a stolen card.
+  2. The system verifies their identity, handling corrections and interruptions in real time.
+  3. Once verified, it freezes the card and initiates a replacement.
+  4. It answers follow-up questions, such as delivery timing, and suggests next steps.
+
+
+
+Each step follows a defined procedure, with decisions made in real time based on user input, context, running guardrails, and both customer and agent responses to ensure compliance.
+
+“The model needs to maintain procedure state across interruptions, backchannels, and topic switches while keeping response generation fast,” says Antoniou. “Most providers couldn't even attempt it.”
+
+Gradient Labs benchmarks providers on their most challenging procedures and evaluates them on what they call _trajectory accuracy_ : whether the system follows the correct path from start to finish.
+
+In one of their initial evals, GPT‑4.1 was the only model to hit 97% trajectory accuracy and consistency. The next closest provider was 88%.
+
+“In financial services, that’s the difference between resolving a call and creating a compliance incident,” Antoniou says.
+
+This result shaped how Gradient Labs designed its system. The team built a hybrid architecture that uses OpenAI models for reasoning-intensive steps and smaller models for faster, deterministic tasks, with routing that adapts based on complexity and latency constraints.
+
+Internally, the system is composed of specialized skills orchestrated by a central reasoning agent, allowing complex cases to move across workflows without losing context. 
+
+For every interaction, 15+ guardrail systems run in parallel to ensure conversations stay within defined procedures and compliance boundaries, including financial advice detection, vulnerability signals, complaints, and attempts to bypass verification or access sensitive data. 
+
+## Proving reliability in high-risk environments
+
+Financial institutions don’t deploy systems like this on faith. They need to see, step-by-step, that it behaves correctly under real-world conditions.
+
+“You have to architect from the ground up for no hallucinations,” says Antoniou. “That needs to be the guiding principle as you’re building.”
+
+To evaluate both new and existing models, the team replays real customer conversations and compares the system’s behavior against the expected procedure. They also generate synthetic conversations to test edge cases and rare scenarios before anything is deployed.
+
+Gradient Labs also gives teams control over how the system is introduced. They analyze historical support data to map out the types of customer issues a bank handles and how often they occur. Teams can then choose which categories the AI should handle, starting with lower-risk workflows and expanding over time.
+
+![Dashboard interface for a banking support tool showing a procedure titled Fraud impersonation callback with step by step instructions for verifying suspicious payments. A live call transcript appears on the right with messages between an AI agent and a customer confirming identity and sending a verification code to secure the account.](https://images.ctfassets.net/kftzwdyauwt9/qj3MJpS5LrlNkd5xLnKCH/a6caf281ac2c14e3da0b749609afd5f0/oai_Gradient_UI_16x9.png?w=3840&q=90&fm=webp)
+
+Before going live, customers can simulate conversations to review how the system responds across different scenarios, building confidence that it behaves as expected. 
+
+Deployment typically begins with a small percentage of traffic, with continuous monitoring and automated checks flagging conversations that may require human review. Over time, coverage expands as the system demonstrates consistent performance.
+
+## Showing impact on day one, and the path ahead
+
+Gradient Labs’ customers report CSAT scores as high as 98%, in some cases outperforming their best human agents. Most deployments start with over 50% resolution rates on day one, even for complex workflows like disputes, account verification, and fraud. 
+
+That impact is reflected in the company’s growth. Gradient Labs has increased revenue more than 10x over the past year, expanding from inbound support into outbound and back-office processes.
+
+Looking ahead, Gradient Labs is focused on systems that can carry context across interactions: understanding a customer’s history, tracking ongoing issues, and picking up where previous conversations left off. This direction is closely aligned with how Gradient Labs thinks about its long-term partnership with OpenAI. 
+
+> “We’re not just choosing a model for today. We’re building on a platform where we see the trajectory of reasoning models going in the same direction as our product.”
+
+Danai Antoniou, Co-Founder and Chief Scientist at Gradient Labs
+
+As models continue to improve, the range of procedures that can be safely automated expands. For Gradient Labs, that means moving closer to a system where every customer interaction is handled with the same consistency, judgment, and continuity as a top-tier human agent.
+
+## OpenAI <3 startups
+
+[Join the community](</leads/startup/>)[Start building(opens in a new window)](</startups>)
+
+## Keep reading
+
+[View all](</news/>)
+
+![Descript > 1x1 Card](https://images.ctfassets.net/kftzwdyauwt9/7wL94yXvqYUEQRfOpp68V8/4f6d4a21db6e98ddb2352cbc52ac3b77/oai_descript_1x1.png?w=3840&q=90&fm=webp)
+
+[How Descript engineers multilingual video dubbing at scaleStartupMar 6, 2026](</index/descript/>)
+
+![oai Praktika 1x1](https://images.ctfassets.net/kftzwdyauwt9/3eKqj0qRWjFon5U6cYkPqI/9b4f23cb7d154a7cb2ace1e8cff3d004/oai_Praktika_1x1.png?w=3840&q=90&fm=webp)
+
+[Inside Praktika's conversational approach to language learningStartupJan 22, 2026](</index/praktika/>)
+
+![Higgsfield > Card Image](https://images.ctfassets.net/kftzwdyauwt9/1QYuGKBKSzphKj2bCMG4Tp/aab097df8ead5298a1cbce05209801f7/oai_higgsfield_1x1.png?w=3840&q=90&fm=webp)
+
+[How Higgsfield turns simple ideas into cinematic social videosAPIJan 21, 2026](</index/higgsfield/>)
+
+Our Research
+
+  * [Research Index](</research/index/>)
+  * [Research Overview](</research/>)
+  * [Research Residency](</residency/>)
+  * [Economic Research](</signals/>)
+
+
+
+Latest Advancements
+
+  * [GPT-5.5](</index/introducing-gpt-5-5/>)
+  * [GPT-5.4](</index/introducing-gpt-5-4/>)
+  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
+  * [GPT-5.3-Codex](</index/introducing-gpt-5-3-codex/>)
+
+
+
+Safety
+
+  * [Safety Approach](</safety/>)
+  * [Security & Privacy](</security-and-privacy/>)
+  * [Trust & Transparency](</trust-and-transparency/>)
+
+
+
+ChatGPT
+
+  * [Explore ChatGPT(opens in a new window)](<https://chatgpt.com/overview>)
+  * [Business](<https://chatgpt.com/business/business-plan>)
+  * [Enterprise](<https://chatgpt.com/business/enterprise>)
+  * [Education](<https://chatgpt.com/business/education>)
+  * [Pricing(opens in a new window)](<https://chatgpt.com/pricing>)
+  * [Download(opens in a new window)](<https://chatgpt.com/download>)
+
+
+
+API Platform
+
+  * [Platform Overview](</api/>)
+  * [Pricing](</api/pricing/>)
+  * [API log in(opens in a new window)](<https://platform.openai.com/login>)
+  * [Documentation(opens in a new window)](<https://developers.openai.com/api/docs>)
+  * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
+
+
+
+For Business
+
+  * [Business Overview](</business/>)
+  * [Solutions](</solutions/>)
+  * [Contact Sales](</contact-sales/>)
+
+
+
+Company
+
+  * [About Us](</about/>)
+  * [Our Charter](</charter/>)
+  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
+  * [Careers](</careers/>)
+  * [Brand](</brand/>)
+
+
+
+Support
+
+  * [Help Center(opens in a new window)](<https://help.openai.com/>)
+
+
+
+More
+
+  * [News](</news/>)
+  * [Stories](</stories/>)
+  * [Academy](</academy/>)
+  * [Livestreams](</live/>)
+  * [Podcast](</podcast/>)
+  * [RSS](<https://openai.com/news/rss.xml>)
+
+
+
+Terms & Policies
+
+  * [Terms of Use](</policies/terms-of-use/>)
+  * [Privacy Policy](</policies/privacy-policy/>)
+  * [Other Policies ](</policies/>)
+
+
+
+[(opens in a new window)](<https://x.com/OpenAI>)[(opens in a new window)](<https://www.youtube.com/OpenAI>)[(opens in a new window)](<https://www.linkedin.com/company/openai>)[(opens in a new window)](<https://github.com/openai>)[(opens in a new window)](<https://www.instagram.com/openai/>)[(opens in a new window)](<https://www.tiktok.com/@openai>)[(opens in a new window)](<https://discord.gg/openai>)
+
+OpenAI © 2015–2026Your privacy choices
+
+EnglishUnited States

@@ -1,0 +1,211 @@
+Skip to main content
+
+[](</>)
+
+  * [Research](</research/index/>)
+  * Products
+  * [Business](</business/>)
+  * [Developers](</api/>)
+  * [Company](</about/>)
+  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
+
+
+
+Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
+
+  * Research
+  * Products
+  * Business
+  * Developers
+  * Company
+  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
+
+
+
+[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)Login
+
+OpenAI
+
+Table of contents
+
+  * Accelerating productivity with custom enterprise search
+  * Elevating customer service with GPT-4o
+  * Using vision to address and prevent fraud
+
+
+
+# Nubank elevates customer experiences with OpenAI
+
+![A digital image features the white lowercase letters "nu" in the center, set against a vibrant, abstract background of purple and pink brushstrokes with hints of orange and blue. The design resembles a painted texture with soft, blended shapes.](https://images.ctfassets.net/kftzwdyauwt9/5njJSLFodk0rzxMhmTshsp/178c1f10803f98ea1ee584b9bf8597b6/oai_nubank_16_9.png?w=3840&q=90&fm=webp)
+
+Loading…
+
+Share
+
+Since its founding in 2013, Nubank—one of the world’s largest digital financial services platforms—has changed how millions across Latin America manage their money, offering fee-free accounts, credit cards without annual fees, and seamless, personalized customer service. Today, Nubank serves over 114 million customers in Brazil, Mexico, and Colombia.
+
+By leveraging AI solutions developed with OpenAI, Nubank enhances both customer experiences and internal efficiency:
+
+  * **Internal enterprise knowledge search** : Provides employees with instant access to company insights, driving smarter, faster decisions.
+  * **Call center copilot** : Empowers human agents with conversation summaries and recommended answers, increasing customer satisfaction and reducing time spent on each ticket.
+  * **AI-powered assistant** : Resolves 55% of Tier 1 inquiries, handling over 2 million monthly chats and reducing chat response times by 70%.
+  * **Fraud quality assurance** : Uses GPT‑4o vision to analyze transactions and documents, streamlining fraud detection and delivering high quality of service.
+
+
+
+## Accelerating productivity with custom enterprise search
+
+Nubank first worked with OpenAI to create a custom enterprise search solution, giving employees quick access to FAQs, brand guidelines, and internal policies.
+
+Powered by GPT‑4o and GPT‑4o mini, the solution integrates Retrieval-Augmented Generation (RAG) techniques to fetch and prioritize relevant documents, delivering accurate answers without any need to navigate siloed and incomplete information repositories. 
+
+The solution also uses fine-tuned models trained on Nubank’s domain-specific content and semantic search to prioritize the most relevant results for user queries.
+
+With a chat-based interface, the tool has seen rapid adoption: **over 5,000 employees** use it monthly to boost productivity, accelerate onboarding, and resolve queries more efficiently. 
+
+Customer support agents, developers, and new hires all benefit from faster, more accurate access to information.
+
+![A screenshot of a chat interface where an assistant informs a customer, Maria, that her investment balance is R$ 15,098.78. The design features a purple theme.](https://images.ctfassets.net/kftzwdyauwt9/HxCix1nDubGtkUMEG0wPC/0539f5ec2785cd9fbfa4d5f49be38460/oai_nubank_interface_shuffle.png?w=3840&q=90&fm=webp)
+
+## Elevating customer service with GPT-4o
+
+The success of enterprise search set a robust foundation for knowledge retrieval and context-aware assistance, and allowed Nubank to take on a challenge many companies face today: Maintaining exceptional customer service as their user base grew. 
+
+Together, Nubank and OpenAI developed a **Call Center Copilot** to assist agents in real time by integrating the bank’s knowledge base and chat history. They built the copilot using GPT‑4o, which offers real-time multimodal capabilities, like text and speech, and fast yet context-aware response times–essential for good customer support.
+
+With the help of the copilot, agent support remains available 24 hours a day, and over 45% of Nubank agents use the copilot’s key features:
+
+  * **Next-reply suggestions** : Ensures accurate, empathetic responses by recommended best answers for human agents.
+  * **Chat summarization** : Provides quick context for ongoing or past conversations.
+  * **Step-by-step guidance** : Simplifies technical issues and complex queries, reducing the cognitive load on staff.
+  * **Chat powered by AI:** Handles over 2 million monthly chats and emails, resolving more than up to 50% of tier 1 inquiries without escalating to a human agent. With the help of OpenAI, Nubank reduced the chat response time by 70%, providing customers with a faster and more accurate experience.
+
+
+
+Nubank also built an **AI Assistant** powered by GPT‑4o to answer customers directly. The Assistant handles up to 5 automated interactions before escalating, managing over 2 million chats monthly and freeing agents for more complex issues.
+
+These solutions help Nubank resolve queries **2.3x faster** with higher accuracy, maintaining exceptional service and strong Transactional Net Promoter Scores (tNPS).
+
+## Using vision to address and prevent fraud
+
+As part of their continued journey to improve digital financial services for all, Nubank is piloting a solution to ensure more consistent and high-quality responses to fraud incidents with GPT‑4o vision.
+
+GPT‑4o vision combines natural language processing with image recognition, enabling the analysis of both text and visual data. Nubank is using this technology to scrutinize transaction records, customer communications, and submitted documents, identifying patterns and anomalies indicative of potential fraud. 
+
+This analysis is done in accordance with fraud prevention policies, regulatory requirements, and oversight from dedicated teams.
+
+## Interested in learning more about ChatGPT for business?
+
+[Talk with our team](</contact-sales/>)
+
+## Keep reading
+
+[View all](</stories/>)
+
+![Factory > Cover image](https://images.ctfassets.net/kftzwdyauwt9/2sewRmQoaHRlytlRWxeBsW/5292ff89fcc8c4540f0d9e8d7cf7c979/oai_Factory_hero__1_.png?w=3840&q=90&fm=webp)
+
+[Accelerating engineering cycles 20% with OpenAIMar 6, 2025](</index/factory/>)
+
+![Mercari > cover image](https://images.ctfassets.net/kftzwdyauwt9/6ZZlSrLOus8XVPQSONo2KM/fc65fe32a39ff8b6429ad04ff80815e4/oai_mercari_1-1.png?w=3840&q=90&fm=webp)
+
+[Supporting sellers with enhanced product listings](</index/mercari/>)
+
+![Endex > Hero > Media Item](https://images.ctfassets.net/kftzwdyauwt9/54SsiEcM61vPxEi3fPOhJ1/6af3d3c4a0eff1f425ec547fa2f0c348/oai_endex_16_9.png?w=3840&q=90&fm=webp)
+
+[Building an autonomous financial analyst with o1 and o3-mini](</index/endex/>)
+
+Our Research
+
+  * [Research Index](</research/index/>)
+  * [Research Overview](</research/>)
+  * [Research Residency](</residency/>)
+  * [Economic Research](</signals/>)
+
+
+
+Latest Advancements
+
+  * [GPT-5.5](</index/introducing-gpt-5-5/>)
+  * [GPT-5.4](</index/introducing-gpt-5-4/>)
+  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
+  * [GPT-5.3-Codex](</index/introducing-gpt-5-3-codex/>)
+
+
+
+Safety
+
+  * [Safety Approach](</safety/>)
+  * [Security & Privacy](</security-and-privacy/>)
+  * [Trust & Transparency](</trust-and-transparency/>)
+
+
+
+ChatGPT
+
+  * [Explore ChatGPT(opens in a new window)](<https://chatgpt.com/overview>)
+  * [Business](<https://chatgpt.com/business/business-plan>)
+  * [Enterprise](<https://chatgpt.com/business/enterprise>)
+  * [Education](<https://chatgpt.com/business/education>)
+  * [Pricing(opens in a new window)](<https://chatgpt.com/pricing>)
+  * [Download(opens in a new window)](<https://chatgpt.com/download>)
+
+
+
+API Platform
+
+  * [Platform Overview](</api/>)
+  * [Pricing](</api/pricing/>)
+  * [API log in(opens in a new window)](<https://platform.openai.com/login>)
+  * [Documentation(opens in a new window)](<https://developers.openai.com/api/docs>)
+  * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
+
+
+
+For Business
+
+  * [Business Overview](</business/>)
+  * [Solutions](</solutions/>)
+  * [Contact Sales](</contact-sales/>)
+
+
+
+Company
+
+  * [About Us](</about/>)
+  * [Our Charter](</charter/>)
+  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
+  * [Careers](</careers/>)
+  * [Brand](</brand/>)
+
+
+
+Support
+
+  * [Help Center(opens in a new window)](<https://help.openai.com/>)
+
+
+
+More
+
+  * [News](</news/>)
+  * [Stories](</stories/>)
+  * [Academy](</academy/>)
+  * [Livestreams](</live/>)
+  * [Podcast](</podcast/>)
+  * [RSS](<https://openai.com/news/rss.xml>)
+
+
+
+Terms & Policies
+
+  * [Terms of Use](</policies/terms-of-use/>)
+  * [Privacy Policy](</policies/privacy-policy/>)
+  * [Other Policies ](</policies/>)
+
+
+
+[(opens in a new window)](<https://x.com/OpenAI>)[(opens in a new window)](<https://www.youtube.com/OpenAI>)[(opens in a new window)](<https://www.linkedin.com/company/openai>)[(opens in a new window)](<https://github.com/openai>)[(opens in a new window)](<https://www.instagram.com/openai/>)[(opens in a new window)](<https://www.tiktok.com/@openai>)[(opens in a new window)](<https://discord.gg/openai>)
+
+OpenAI © 2015–2026Your privacy choices
+
+EnglishUnited States

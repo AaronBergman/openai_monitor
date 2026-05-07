@@ -1,0 +1,188 @@
+Skip to main content
+
+[](</>)
+
+  * [Research](</research/index/>)
+  * Products
+  * [Business](</business/>)
+  * [Developers](</api/>)
+  * [Company](</about/>)
+  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
+
+
+
+Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
+
+  * Research
+  * Products
+  * Business
+  * Developers
+  * Company
+  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
+
+
+
+[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)Login
+
+OpenAI
+
+September 22, 2025
+
+# Outbound coordinated disclosure policy
+
+## Purpose
+
+OpenAI is committed to enhancing global software security by responsibly disclosing vulnerabilities discovered in third-party software. This policy governs how OpenAI reports and discloses vulnerabilities we discover in third-party software to vendors and open source maintainers. In these reports we aim to be cooperative, impactful, and maintain high integrity standards.
+
+## Scope
+
+This policy lays out how we disclose issues found in open-source and commercial software through automated and manual code review, as well as discoveries arising from internal usage of third-party software and systems. Detection methods may include:
+
+  * AI- or agent-powered application security analysis.
+  * Security research, audits, and fuzzing of open-source software.
+  * Evaluations of vendor-supplied or third-party software used within OpenAI operations.
+  * Other methods as appropriate.
+
+
+
+## Principles
+
+**Ecosystem security:** A primary goal is to improve ecosystem security.
+
+**Cooperative:** Good faith, helpful engagements. Third party inbound disclosure processes are respected, subject to exceptions in this policy.
+
+**Discreet by default:** Initial disclosures are private. Public disclosures usually occur only after explicit vendor or open source maintainer consent, subject to exceptions set out below. 
+
+**High scale, low friction:** Validated, actionable disclosures are sent. 
+
+**Attribution when relevant:** Vulnerabilities will be credited as discovered by OpenAI Security Research - Aardvark. Where applicable, we may attribute discovery to specific individuals, systems, or agents.
+
+## Disclosure workflow
+
+  1.  _Identification and Validation  
+_ Upon discovery, each finding is validated for security impact. Reports typically include:
+     * Impact summary (e.g., denial‑of‑service, memory corruption)
+     * Affected versions / commit ranges
+     * Reproduction steps or a proof‑of‑concept (PoC) where possible
+     * Reproduction aids (e.g., Docker image) where feasible
+  2.  _Peer Review_  
+Each disclosure undergoes an internal review process prior to release, including peer review by a security engineer for accuracy, reproducibility, and quality.
+     * Where a vulnerability is discovered by an automated system, a security engineer reviews the disclosure before it is released.
+     * Where a vulnerability is discovered by a security engineer, a second security engineer reviews the disclosure.
+  3. A security program manager coordinates disclosures, maintains records, and manages vendor interactions.
+  4. _Disclosure Process_
+     * **Reporting Channel.** We will generally seek to follow the inbound disclosure procedures of the vendor or open source maintainer who is to receive the disclosure. We reserve the right to follow an alternate procedure at our discretion. Our preferred methods for disclosure include vendor security emails (e.g. the company’s Product Security Incident Response Team email intake), or private GitHub reporting. Submissions to public trackers such as GitHub Issues are avoided by default. We generally will not participate in Bug Bounty programs.
+     * **Internal Handling.** OpenAI’s outbound disclosure communications are managed through a mailing list dedicated for this purpose. Access to this mailing list will be internally restricted in the interest of confidentiality and discretion. Internally, a member of our disclosure team will examine our own use of the affected product or code. If use is found, we engage appropriate teams in accordance with our policies.
+     * **External Disclosures.** In certain circumstances, in the absence of consent from the vendor or open source maintainer, OpenAI may share information with appropriate third parties that play a role in receiving, analyzing or disseminating vulnerability information in addition to, or instead of, the vendor or open source maintainer. These may include disclosures to the public, or to a more limited set including to CERTs, CISA and other bodies within and outside the United States with responsibilities for ingestion and dissemination of vulnerability information.
+  5. _Public Disclosure Timeline  
+_ We do not commit to strict publication timelines. Public disclosures may occur in the following circumstances, where:
+     * Explicit vendor permission is obtained.
+     * There is credible evidence of active exploitation.
+     * Notifying or attempting to notify the vendor or open source maintainer may be futile, including because the recipient may not be reachable or may not be responsive.
+     * The vendor or open source maintainer is unlikely to take appropriate action or has not acted with appropriate diligence after receiving notice.
+     * Disclosure is essential for protecting the rights, privacy, safety, security or property of OpenAI, its users, third parties, or the public interest.
+     * Disclosure is required by law.
+
+
+
+There may be exceptions in certain cases. For example, if timelines shift or there is a material difference in views around severity or patching, we may proceed with disclosure to ensure transparency and consistency in our process.
+
+## Looking forward
+
+We reserve the right to change or deviate from this policy and our procedures implementing it. We anticipate that these will change substantially as security research and application security testing become increasingly automated with advances in AI. This policy does not create a contract, confer rights, or form the basis for reliance by any party.
+
+Our Research
+
+  * [Research Index](</research/index/>)
+  * [Research Overview](</research/>)
+  * [Research Residency](</residency/>)
+  * [Economic Research](</signals/>)
+
+
+
+Latest Advancements
+
+  * [GPT-5.5](</index/introducing-gpt-5-5/>)
+  * [GPT-5.4](</index/introducing-gpt-5-4/>)
+  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
+  * [GPT-5.3-Codex](</index/introducing-gpt-5-3-codex/>)
+
+
+
+Safety
+
+  * [Safety Approach](</safety/>)
+  * [Security & Privacy](</security-and-privacy/>)
+  * [Trust & Transparency](</trust-and-transparency/>)
+
+
+
+ChatGPT
+
+  * [Explore ChatGPT(opens in a new window)](<https://chatgpt.com/overview>)
+  * [Business](<https://chatgpt.com/business/business-plan>)
+  * [Enterprise](<https://chatgpt.com/business/enterprise>)
+  * [Education](<https://chatgpt.com/business/education>)
+  * [Pricing(opens in a new window)](<https://chatgpt.com/pricing>)
+  * [Download(opens in a new window)](<https://chatgpt.com/download>)
+
+
+
+API Platform
+
+  * [Platform Overview](</api/>)
+  * [Pricing](</api/pricing/>)
+  * [API log in(opens in a new window)](<https://platform.openai.com/login>)
+  * [Documentation(opens in a new window)](<https://developers.openai.com/api/docs>)
+  * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
+
+
+
+For Business
+
+  * [Business Overview](</business/>)
+  * [Solutions](</solutions/>)
+  * [Contact Sales](</contact-sales/>)
+
+
+
+Company
+
+  * [About Us](</about/>)
+  * [Our Charter](</charter/>)
+  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
+  * [Careers](</careers/>)
+  * [Brand](</brand/>)
+
+
+
+Support
+
+  * [Help Center(opens in a new window)](<https://help.openai.com/>)
+
+
+
+More
+
+  * [News](</news/>)
+  * [Stories](</stories/>)
+  * [Academy](</academy/>)
+  * [Livestreams](</live/>)
+  * [Podcast](</podcast/>)
+  * [RSS](<https://openai.com/news/rss.xml>)
+
+
+
+Terms & Policies
+
+  * [Terms of Use](</policies/terms-of-use/>)
+  * [Privacy Policy](</policies/privacy-policy/>)
+  * [Other Policies ](</policies/>)
+
+
+
+[(opens in a new window)](<https://x.com/OpenAI>)[(opens in a new window)](<https://www.youtube.com/OpenAI>)[(opens in a new window)](<https://www.linkedin.com/company/openai>)[(opens in a new window)](<https://github.com/openai>)[(opens in a new window)](<https://www.instagram.com/openai/>)[(opens in a new window)](<https://www.tiktok.com/@openai>)[(opens in a new window)](<https://discord.gg/openai>)
+
+OpenAI © 2015–2026Your privacy choices
+
+EnglishUnited States

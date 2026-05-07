@@ -1,0 +1,179 @@
+Skip to main content
+
+[](</>)
+
+  * [Research](</research/index/>)
+  * Products
+  * [Business](</business/>)
+  * [Developers](</api/>)
+  * [Company](</about/>)
+  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
+
+
+
+Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
+
+  * Research
+  * Products
+  * Business
+  * Developers
+  * Company
+  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
+
+
+
+[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)Login
+
+OpenAI[View all apps](</business/apps/>)
+
+# Clickup
+
+Sync ClickUp tasks and docs for use in ChatGPT.
+
+[Add app(opens in a new window)](<https://chatgpt.com/apps/clickup/connector_f9447fe87aae4b598f8ca9dc03483c9a>)[Contact sales](</contact-sales/>)
+
+Use case: [Project Management](</business/apps/?tab=apps-project-management>)
+
+Made by: ClickUp
+
+Website: [clickup.com(opens in a new window)](<https://clickup.com>)
+
+## How it works
+
+Let ChatGPT securely access ClickUp spaces, lists, and tasks to answer questions and create or update work items using synced ClickUp content.
+
+### View and update tasks
+
+Create and update tasks, subtasks, and lists in ClickUp through ChatGPT using synced workspace data.
+
+### Accelerate team workflows
+
+Ask questions about tasks, owners, statuses, and priorities and receive answers based on current ClickUp content.
+
+### Improve operational visibility
+
+Reference ClickUp project and workspace context in ChatGPT to understand how work is organized across teams.
+
+## Sample prompts
+
+Review overdue tasks and set priorities
+
+**@Clickup** Show my overdue tasks and recommend what to tackle first based on urgency and dependency.
+
+Summarize project status with key takeaways
+
+**@Clickup** Summarize the current project status for [client] and write it like a professional weekly update.
+
+Create sprint plan with next steps
+
+**@Clickup** Create a sprint plan from our backlog for the next 2 weeks and balance work across the team.
+
+## Resources
+
+### [Help centerRead more](<https://help.openai.com/en/articles/12628397-clickup-synced-connector>)
+
+### [App supportRead more](<https://help.clickup.com/hc/en-us>)
+
+### [Privacy policyRead more](<https://clickup.com/terms/privacy>)
+
+## Get started with apps
+
+Bring your organization’s data and tools into OpenAI products and accelerate what your teams can do.
+
+[Try ChatGPT Business(opens in a new window)](<https://chatgpt.com/team-sign-up>)[Contact sales](</contact-sales/>)
+
+Our Research
+
+  * [Research Index](</research/index/>)
+  * [Research Overview](</research/>)
+  * [Research Residency](</residency/>)
+  * [Economic Research](</signals/>)
+
+
+
+Latest Advancements
+
+  * [GPT-5.5](</index/introducing-gpt-5-5/>)
+  * [GPT-5.4](</index/introducing-gpt-5-4/>)
+  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
+  * [GPT-5.3-Codex](</index/introducing-gpt-5-3-codex/>)
+
+
+
+Safety
+
+  * [Safety Approach](</safety/>)
+  * [Security & Privacy](</security-and-privacy/>)
+  * [Trust & Transparency](</trust-and-transparency/>)
+
+
+
+ChatGPT
+
+  * [Explore ChatGPT(opens in a new window)](<https://chatgpt.com/overview>)
+  * [Business](<https://chatgpt.com/business/business-plan>)
+  * [Enterprise](<https://chatgpt.com/business/enterprise>)
+  * [Education](<https://chatgpt.com/business/education>)
+  * [Pricing(opens in a new window)](<https://chatgpt.com/pricing>)
+  * [Download(opens in a new window)](<https://chatgpt.com/download>)
+
+
+
+API Platform
+
+  * [Platform Overview](</api/>)
+  * [Pricing](</api/pricing/>)
+  * [API log in(opens in a new window)](<https://platform.openai.com/login>)
+  * [Documentation(opens in a new window)](<https://developers.openai.com/api/docs>)
+  * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
+
+
+
+For Business
+
+  * [Business Overview](</business/>)
+  * [Solutions](</solutions/>)
+  * [Contact Sales](</contact-sales/>)
+
+
+
+Company
+
+  * [About Us](</about/>)
+  * [Our Charter](</charter/>)
+  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
+  * [Careers](</careers/>)
+  * [Brand](</brand/>)
+
+
+
+Support
+
+  * [Help Center(opens in a new window)](<https://help.openai.com/>)
+
+
+
+More
+
+  * [News](</news/>)
+  * [Stories](</stories/>)
+  * [Academy](</academy/>)
+  * [Livestreams](</live/>)
+  * [Podcast](</podcast/>)
+  * [RSS](<https://openai.com/news/rss.xml>)
+
+
+
+Terms & Policies
+
+  * [Terms of Use](</policies/terms-of-use/>)
+  * [Privacy Policy](</policies/privacy-policy/>)
+  * [Other Policies ](</policies/>)
+
+
+
+[(opens in a new window)](<https://x.com/OpenAI>)[(opens in a new window)](<https://www.youtube.com/OpenAI>)[(opens in a new window)](<https://www.linkedin.com/company/openai>)[(opens in a new window)](<https://github.com/openai>)[(opens in a new window)](<https://www.instagram.com/openai/>)[(opens in a new window)](<https://www.tiktok.com/@openai>)[(opens in a new window)](<https://discord.gg/openai>)
+
+OpenAI © 2015–2026Your privacy choices
+
+EnglishUnited States

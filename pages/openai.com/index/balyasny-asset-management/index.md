@@ -1,0 +1,260 @@
+Skip to main content
+
+[](</>)
+
+  * [Research](</research/index/>)
+  * Products
+  * [Business](</business/>)
+  * [Developers](</api/>)
+  * [Company](</about/>)
+  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
+
+
+
+Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
+
+  * Research
+  * Products
+  * Business
+  * Developers
+  * Company
+  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
+
+
+
+[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)Login
+
+OpenAI
+
+Table of contents
+
+  * Inside the rollout
+  * Results at a glance
+  * Leadership lessons
+  * What’s next
+
+
+
+March 6, 2026
+
+# How Balyasny Asset Management built an AI research engine
+
+By combining rigorous model evaluation, full-platform use of OpenAI, and agent workflows, Balyasny is reinventing investment research.
+
+[Contact sales](</contact-sales/>)
+
+![Balyasny logo and wordmark over a blue abstract network and light particle background.](https://images.ctfassets.net/kftzwdyauwt9/27WMGhOq82XBzmCqqaHy6q/a6d1207128885eae6b1ed73c43809dd5/oai_Balyasny_1x1.png?w=3840&q=90&fm=webp)
+
+Company size: Enterprise
+
+Region: North America
+
+Industry: Finance
+
+Products: API
+
+Results
+
+95%
+
+Portion of investment team using the AI research system
+
+Results
+
+Days to hours
+
+With agents powered by OpenAI models, deep research tasks that once required days are now completed in hours
+
+Loading…
+
+Share
+
+[ _Balyasny Asset Management⁠_ ⁠(opens in a new window)](<https://www.bamfunds.com/>) (Balyasny) is a global, multi-strategy investment firm with approximately 180 investment teams across diverse asset classes and geographies. The firm operates in a highly competitive and dynamic industry where conviction, precision, and speed are all critical to success. Facing an increasingly complex market environment with surging volumes of financial data, Balyasny saw an opportunity to reimagine the investment research process using AI. 
+
+In late 2022, Balyasny established an Applied AI team: a centralized group of 20 researchers, engineers, and domain experts tasked with building AI-native tools that embed directly into team-level workflows. Their flagship product, an AI investment research system, is designed to reason, retrieve, and act like a skilled analyst.
+
+> “AI is enabling our teams to apply first principles thinking faster, across more data, and with more structure.”
+
+—Charlie Flanagan, Chief AI Officer
+
+## Inside the rollout
+
+Investment research is complex, high-stakes, and time-sensitive. Analysts must parse through thousands of documents, from market data and research to regulatory filings. Human expertise remains essential, but traditional methods are time-consuming and difficult to scale.
+
+Off-the-shelf AI tools often can’t handle structured and unstructured data together, lack workflow orchestration, and aren’t built to meet institutional compliance standards. Balyasny needed something purpose-built: an AI system that could think like an analyst, move at the speed of a machine, and work within strict compliance boundaries.
+
+> “We evaluate models the way we evaluate investments: on fundamentals. GPT-5.4 proved it could plan, reason, and execute with real rigor.”
+
+—Su Wang, Senior Research Scientist
+
+## Results at a glance
+
+Today, ~**95% of Balyasny investment teams actively use their AI platform,** with measurable impact across velocity, output quality, and analyst experience:
+
+  * **Deep research tasks** that once required days are now completed in hours, with agents synthesizing tens of thousands of documents, including filings, research, and earnings.
+  * A **Central Bank Speech Analyst** cut macroeconomic scenario analysis time from 2 days to ~30 minutes.
+  * A **Merger Arbitrage Superforecaster** agent now monitors and updates deal probabilities continuously, replacing bespoke spreadsheets and manual alerts.
+
+
+
+Just as importantly, analysts at Balyasny report higher confidence in outputs. With scoped tools, traceable reasoning paths, and testable agents, they use AI to deliver structured, explainable insights that increase conviction and inform human decision making. 
+
+## Leadership lessons
+
+#### 1\. Evaluate models before deploying them
+
+Before any models went into production, Balyasny built one of the most sophisticated evaluation pipelines in finance, measuring models across 12+ dimensions including forecasting accuracy, numerical reasoning, scenario analysis, and robustness to noisy inputs. These evaluations are run against Balyasny’s internal benchmarks, tools, and proprietary financial data.
+
+This rigorous process surfaced strengths in the GPT‑5.4 model family, particularly in **multi-step planning, tool execution, and hallucination reduction**. Today, Balyasny uses GPT‑5.4 as a reasoning engine within their AI system, alongside internal models, which are selected task-by-task based on empirical performance.
+
+#### 2\. Foster deep collaboration between users and AI partners
+
+Balyasny made a strategic decision to involve OpenAI directly in user-facing workflows. OpenAI teams observed directly how investment teams use their AI system: where it succeeds, where it struggles, and what high performance actually looks like in a commercial context.
+
+That visibility led to faster iterations, tighter product feedback loops, and better model behavior in finance-specific tasks. As a design partner for frontier model releases, Balyasny has influenced the OpenAI roadmap by surfacing insights from actual analysts, not test cases.
+
+#### 3\. Design for feedback loops, not static tools
+
+Because AI is deeply embedded in the day-to-day workflows of investment teams, they can collect structured feedback in real time on everything from user evaluations and outcome audits to tool execution quality. That loop drives rapid improvements to both models and the orchestration layer.
+
+For example, early feedback from merger arbitrage teams revealed that agents needed to continuously re-evaluate deal probabilities as new filings or press releases came in. The Balyasny team quickly extended agent planning capabilities and tool access, replacing a slow, manual workflow with real-time probabilistic monitoring.
+
+#### 4\. Centralize your AI system, and customize locally
+
+While each investment team has a distinct investment strategy, Balyasny took a centralized approach to AI deployment. Their Applied AI team develops core components, including agent frameworks, toolchains, and compliance guardrails, which are then deployed across teams with scoped access to data and tools.
+
+This “federated deployment” model means each investment team can develop and use AI agents tailored to their asset class (for example, macro, commodities, and equities), while the Applied AI team focuses on scaling architecture, research, and model evaluations. It also ensures that compliance and regulatory standards are universally respected—critical in an industry where risk management and data security are non-negotiable.  
+
+
+> “Our early investments in AI paid off. Today, every one of our investment teams can decide how to apply the latest AI to their process, in a secure environment and with real-time expert guidance.”
+
+—Kevin Byrne, Chief Operating Officer
+
+## What’s next
+
+Balyasny continues to expand its AI roadmap with a focus on:
+
+  * **Reinforcement Fine-Tuning (RFT)** to sharpen model behavior on complex, high-value tasks
+  * **Deeper agent orchestration** across financial domains
+  * **Multimodal inputs** including financial charts, statements, and filings
+
+
+
+Evaluation of **future frontier models** for domain fit  
+
+
+## Join the new era of work
+
+More than 1 million businesses around the world are achieving meaningful results with OpenAI.
+
+[Contact sales](</contact-sales/>)
+
+## Keep reading
+
+![Futures 1 1](https://images.ctfassets.net/kftzwdyauwt9/7l4mPpfnMDZNfjmksyuILI/5e280d8d490f625b3fc414d9824e96ac/Futures_1_1.png?w=3840&q=90&fm=webp)
+
+[Introducing ChatGPT Futures: Class of 2026CompanyMay 6, 2026](</index/introducing-chatgpt-futures-class-of-2026/>)
+
+![What frontier enterprises do differently > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/4kKQaeWGl9atcyE51ri1ZW/3aa677511fa40bc0a4b089ef6cd9698f/Frame.png?w=3840&q=90&fm=webp)
+
+[How frontier enterprises are building an AI advantageCompanyMay 6, 2026](</index/introducing-b2b-signals/>)
+
+![Uber customer story > 1x1 art card and hero image](https://images.ctfassets.net/kftzwdyauwt9/5jnteCaoVnc71jA02qX8gk/0f394157c43c443dd1523a7fab48bc69/oai_Uber_1x1.png?w=3840&q=90&fm=webp)
+
+[Uber uses OpenAI to help people earn smarter and book fasterMay 6, 2026](</index/uber/>)
+
+Our Research
+
+  * [Research Index](</research/index/>)
+  * [Research Overview](</research/>)
+  * [Research Residency](</residency/>)
+  * [Economic Research](</signals/>)
+
+
+
+Latest Advancements
+
+  * [GPT-5.5](</index/introducing-gpt-5-5/>)
+  * [GPT-5.4](</index/introducing-gpt-5-4/>)
+  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
+  * [GPT-5.3-Codex](</index/introducing-gpt-5-3-codex/>)
+
+
+
+Safety
+
+  * [Safety Approach](</safety/>)
+  * [Security & Privacy](</security-and-privacy/>)
+  * [Trust & Transparency](</trust-and-transparency/>)
+
+
+
+ChatGPT
+
+  * [Explore ChatGPT(opens in a new window)](<https://chatgpt.com/overview>)
+  * [Business](<https://chatgpt.com/business/business-plan>)
+  * [Enterprise](<https://chatgpt.com/business/enterprise>)
+  * [Education](<https://chatgpt.com/business/education>)
+  * [Pricing(opens in a new window)](<https://chatgpt.com/pricing>)
+  * [Download(opens in a new window)](<https://chatgpt.com/download>)
+
+
+
+API Platform
+
+  * [Platform Overview](</api/>)
+  * [Pricing](</api/pricing/>)
+  * [API log in(opens in a new window)](<https://platform.openai.com/login>)
+  * [Documentation(opens in a new window)](<https://developers.openai.com/api/docs>)
+  * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
+
+
+
+For Business
+
+  * [Business Overview](</business/>)
+  * [Solutions](</solutions/>)
+  * [Contact Sales](</contact-sales/>)
+
+
+
+Company
+
+  * [About Us](</about/>)
+  * [Our Charter](</charter/>)
+  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
+  * [Careers](</careers/>)
+  * [Brand](</brand/>)
+
+
+
+Support
+
+  * [Help Center(opens in a new window)](<https://help.openai.com/>)
+
+
+
+More
+
+  * [News](</news/>)
+  * [Stories](</stories/>)
+  * [Academy](</academy/>)
+  * [Livestreams](</live/>)
+  * [Podcast](</podcast/>)
+  * [RSS](<https://openai.com/news/rss.xml>)
+
+
+
+Terms & Policies
+
+  * [Terms of Use](</policies/terms-of-use/>)
+  * [Privacy Policy](</policies/privacy-policy/>)
+  * [Other Policies ](</policies/>)
+
+
+
+[(opens in a new window)](<https://x.com/OpenAI>)[(opens in a new window)](<https://www.youtube.com/OpenAI>)[(opens in a new window)](<https://www.linkedin.com/company/openai>)[(opens in a new window)](<https://github.com/openai>)[(opens in a new window)](<https://www.instagram.com/openai/>)[(opens in a new window)](<https://www.tiktok.com/@openai>)[(opens in a new window)](<https://discord.gg/openai>)
+
+OpenAI © 2015–2026Your privacy choices
+
+EnglishUnited States

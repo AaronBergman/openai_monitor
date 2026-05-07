@@ -1,0 +1,231 @@
+Skip to main content
+
+[](</>)
+
+  * [Research](</research/index/>)
+  * Products
+  * [Business](</business/>)
+  * [Developers](</api/>)
+  * [Company](</about/>)
+  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
+
+
+
+Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
+
+  * Research
+  * Products
+  * Business
+  * Developers
+  * Company
+  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
+
+
+
+[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)Login
+
+OpenAI
+
+Table of contents
+
+  * Environments
+  * Interactive and robust control
+  * Multiplayer
+  * See also
+
+
+
+May 15, 2017
+
+[Release](</research/index/release/>)
+
+# Roboschool
+
+We are releasing Roboschool: open-source software for robot simulation, integrated with OpenAI Gym.
+
+![A 3D render of a robot and assorted limbs running along a track](https://images.ctfassets.net/kftzwdyauwt9/0bfeb6bf-4a8d-4073-dbc357afd9c1/73b0e3b539c67f6d9b6e65bf16a12aaf/roboschool.jpg?w=3840&q=90&fm=webp)
+
+Loading…
+
+Share
+
+Loading...
+
+Roboschool provides new OpenAI Gym environments for controlling robots in simulation. Eight of these environments serve as free alternatives to pre-existing MuJoCo implementations, re-tuned to produce more realistic motion. We also include several new, challenging environments.
+
+Roboschool also makes it easy to train multiple agents together in the same environment.
+
+After we launched [Gym⁠(opens in a new window)](<https://gym.openai.com/>), one issue we heard from many users was that the [MuJoCo⁠(opens in a new window)](<https://mujoco.org/>) component required a paid license (though MuJoCo recently added [free⁠(opens in a new window)](<https://www.roboti.us/license.html>) student licenses for personal and class work). Roboschool removes this constraint, letting everyone conduct research regardless of their budget. Roboschool is based on the [Bullet Physics Engine⁠(opens in a new window)](<http://bulletphysics.org/>), an open-source, permissively [licensed⁠(opens in a new window)](<https://github.com/bulletphysics/bullet3/blob/master/LICENSE.txt>) physics library that has been used by other simulation software such as [Gazebo⁠(opens in a new window)](<http://gazebosim.org/>) and [V-REP⁠(opens in a new window)](<http://www.coppeliarobotics.com/>).
+
+## Environments
+
+Roboschool ships with twelve environments, including tasks familiar to Mujoco users as well as new challenges, such as harder versions of the Humanoid walker task, and a multi-player Pong environment. We plan to expand this collection over time and look forward to the community contributing as well.
+
+For the existing MuJoCo environments, besides porting them to Bullet, we have modified them to be more realistic. Here are three of the environments we ported, with explanations of how they differ from the existing environments.
+
+Loading...
+
+You can find trained policies for all of these environments in the `[agent_zoo](https://github.com/openai/roboschool/tree/master/agent_zoo)` folder in the GitHub repository. You can also access a `[demo_race](https://github.com/openai/roboschool/blob/master/agent_zoo/demo_race2.py)` script to initiate a race between three robots.
+
+## Interactive and robust control
+
+In several of the previous OpenAI Gym environments, the goal was to learn a walking controller. However, these environments involved a very basic version of the problem, where the goal is simply to move forward. In practice, the walking policies would learn a single cyclic trajectory and leave most of the state space unvisited. Furthermore, the final policies tended to be very fragile: a small push would often cause the robot to crash and fall.
+
+We have added two more environments with the 3D humanoid, which make the locomotion problem more interesting and challenging. These environments require  _interactive control_ — the robots must run towards a flag, whose position randomly varies over time.
+
+Loading...
+
+HumanoidFlagrun is designed to teach the robot to slow down and turn. The goal is to run towards the flag, whose position varies randomly.
+
+HumanoidFlagrunHarder in addition allows the robot to fall and gives it time to get back on foot. It also starts each episode upright or laying on the ground, and the robot is constantly bombarded by white cubes to push it off its trajectory.
+
+We ship trained policies for both 
+
+[HumanoidFlagrun⁠(opens in a new window)](<https://github.com/openai/roboschool/blob/master/agent_zoo/RoboschoolHumanoidFlagrun_v0_2017may.py>) and [HumanoidFlagrunHarder⁠(opens in a new window)](<https://github.com/openai/roboschool/blob/master/agent_zoo/RoboschoolHumanoidFlagrunHarder_v0_2017may.py>). The walks aren’t as fast and natural-looking as the ones we see from the regular humanoid, but these policies can recover from many situations, and they know how to steer. This policy itself is still a multilayer perceptron, which has no internal state, so we believe that in some cases the agent uses its arms to store information.
+
+## Multiplayer
+
+Roboschool lets you both run and train multiple agents in the same environment. We start with RoboschoolPong, with more environments to follow.
+
+With multiplayer training, you can train the same agent playing for both parties (so it plays with itself), you can train two different agents using the same algorithm, or you can even set two different algorithms against each other.
+
+Loading...
+
+The multi-agent setting presents some interesting challenges. If you train both players simultaneously, you’ll likely see a learning curve like the following one, obtained from a policy gradient method:
+
+![Image11](https://images.ctfassets.net/kftzwdyauwt9/5a9e7de3-b1e0-4249-576ecca397c2/42b93e28d88911b643f26406cf52f879/image11.png?w=3840&q=90&fm=webp)
+
+Learning curves for pong, where policies are updated with policy gradient algorithms running simultaneously.
+
+Here’s what’s happening:
+
+  * Agent1 (green) learns it can sometimes hit a ball at the top, so it moves to the top.
+  * Agent2 (purple) discovers that its adversary is at the top, so it sends the ball to the bottom and overfits to other agent being away.
+  * Agent1 eventually discovers it can defend itself by moving to the bottom, but now always stay at the bottom, because Agent2 always sends ball to the bottom.
+
+
+
+That way, the policies oscillated, and neither agent learned anything useful after hours of training. As in generative adversarial networks, learning in an adversarial setting is tricky, but we think it’s an interesting research problem because this interplay can lead to sophisticated strategies even in simple environments, and it can provide a natural curriculum.
+
+## See also
+
+There’s been a lot of work by the community to create [environments for OpenAI Gym⁠(opens in a new window)](<https://github.com/openai/gym/blob/master/docs/environments.md>), some of which are based on open-source physics simulators. In one recent project, researchers created a [fork of OpenAI Gym⁠(opens in a new window)](<https://github.com/DartEnv/dart-env>) that replaced MuJoCo by the open-source physics simulator [DART⁠(opens in a new window)](<https://dartsim.github.io/>). They [showed⁠(opens in a new window)](<https://github.com/DartEnv/dart-env/wiki/OpenAI-Gym-Environments>) that policies can even be transferred between the two physics simulators, MuJoCo and DART.
+
+  * [Simulated Environments](</research/index/?tags=simulated-environments>)
+  * [Robotics](</research/index/?tags=robotics>)
+  * [Software & Engineering](</research/index/?tags=software-engineering>)
+  * [Multi-agent](</research/index/?tags=multi-agent>)
+
+
+
+## Related articles
+
+[View all](</news/>)
+
+![Whisper](https://images.ctfassets.net/kftzwdyauwt9/13c810cb-0592-442d-190ab7378bef/a7cb2299d034abe93023f662f8d32263/Speech_Rec_16_9.png?w=3840&q=90&fm=webp)
+
+[Introducing WhisperReleaseSep 21, 2022](</index/whisper/>)
+
+![Techniques For Training Large Neural Networks](https://images.ctfassets.net/kftzwdyauwt9/62793de4-0f01-42fc-539325d9af36/bc1ac82499fc1dc43f59accdd31d0195/image-9.webp?w=3840&q=90&fm=webp)
+
+[Techniques for training large neural networksPublicationJun 9, 2022](</index/techniques-for-training-large-neural-networks/>)
+
+![Introducing Triton Open Source Gpu Programming For Neural Networks](https://images.ctfassets.net/kftzwdyauwt9/cdce1ebd-19a2-4848-a08ec8c44e18/55b924fc6628318148b7c5c4902551e7/image-18.webp?w=3840&q=90&fm=webp)
+
+[Introducing Triton: Open-source GPU programming for neural networksReleaseJul 28, 2021](</index/triton/>)
+
+Our Research
+
+  * [Research Index](</research/index/>)
+  * [Research Overview](</research/>)
+  * [Research Residency](</residency/>)
+  * [Economic Research](</signals/>)
+
+
+
+Latest Advancements
+
+  * [GPT-5.5](</index/introducing-gpt-5-5/>)
+  * [GPT-5.4](</index/introducing-gpt-5-4/>)
+  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
+  * [GPT-5.3-Codex](</index/introducing-gpt-5-3-codex/>)
+
+
+
+Safety
+
+  * [Safety Approach](</safety/>)
+  * [Security & Privacy](</security-and-privacy/>)
+  * [Trust & Transparency](</trust-and-transparency/>)
+
+
+
+ChatGPT
+
+  * [Explore ChatGPT(opens in a new window)](<https://chatgpt.com/overview>)
+  * [Business](<https://chatgpt.com/business/business-plan>)
+  * [Enterprise](<https://chatgpt.com/business/enterprise>)
+  * [Education](<https://chatgpt.com/business/education>)
+  * [Pricing(opens in a new window)](<https://chatgpt.com/pricing>)
+  * [Download(opens in a new window)](<https://chatgpt.com/download>)
+
+
+
+API Platform
+
+  * [Platform Overview](</api/>)
+  * [Pricing](</api/pricing/>)
+  * [API log in(opens in a new window)](<https://platform.openai.com/login>)
+  * [Documentation(opens in a new window)](<https://developers.openai.com/api/docs>)
+  * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
+
+
+
+For Business
+
+  * [Business Overview](</business/>)
+  * [Solutions](</solutions/>)
+  * [Contact Sales](</contact-sales/>)
+
+
+
+Company
+
+  * [About Us](</about/>)
+  * [Our Charter](</charter/>)
+  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
+  * [Careers](</careers/>)
+  * [Brand](</brand/>)
+
+
+
+Support
+
+  * [Help Center(opens in a new window)](<https://help.openai.com/>)
+
+
+
+More
+
+  * [News](</news/>)
+  * [Stories](</stories/>)
+  * [Academy](</academy/>)
+  * [Livestreams](</live/>)
+  * [Podcast](</podcast/>)
+  * [RSS](<https://openai.com/news/rss.xml>)
+
+
+
+Terms & Policies
+
+  * [Terms of Use](</policies/terms-of-use/>)
+  * [Privacy Policy](</policies/privacy-policy/>)
+  * [Other Policies ](</policies/>)
+
+
+
+[(opens in a new window)](<https://x.com/OpenAI>)[(opens in a new window)](<https://www.youtube.com/OpenAI>)[(opens in a new window)](<https://www.linkedin.com/company/openai>)[(opens in a new window)](<https://github.com/openai>)[(opens in a new window)](<https://www.instagram.com/openai/>)[(opens in a new window)](<https://www.tiktok.com/@openai>)[(opens in a new window)](<https://discord.gg/openai>)
+
+OpenAI © 2015–2026Your privacy choices
+
+EnglishUnited States

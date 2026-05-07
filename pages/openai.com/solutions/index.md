@@ -1,0 +1,209 @@
+Skip to main content
+
+[](</>)
+
+  * [Research](</research/index/>)
+  * Products
+  * [Business](</business/>)
+  * [Developers](</api/>)
+  * [Company](</about/>)
+  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
+
+
+
+[Try now(opens in a new window)](<https://chatgpt.com/team-sign-up>)[Contact sales](</contact-sales/>)
+
+  * Research
+  * Products
+  * Business
+  * Developers
+  * Company
+  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
+
+
+
+[Contact sales](</contact-sales/>)
+
+OpenAI
+
+# Put AI to work across your organization
+
+Explore proven ways to apply AI across your organization—built to fit how your teams work.
+
+[Try ChatGPT Business(opens in a new window)](<https://chatgpt.com/team-sign-up>)[Contact sales](</contact-sales/>)
+
+## Use cases
+
+![coding hero](https://images.ctfassets.net/kftzwdyauwt9/tkSHlFEfwqpbwSCGuikll/6659aa9a6b4ade6ea5bffb9d609d8afd/Wallpaper-coding-hero.png?w=3840&q=90&fm=webp)
+
+[CodingBuild, debug, and ship faster.](</solutions/use-case/coding/>)
+
+![solution-contentcreation-hero](https://images.ctfassets.net/kftzwdyauwt9/11AhW3RqHajVdmOwUXEAny/bd20fa9b7b4fe0fbcba6229a4c5544de/solution-contentcreation-hero.png?w=3840&q=90&fm=webp)
+
+[Content creationCreate clear, consistent content at scale.](</solutions/use-case/content-creation/>)
+
+![solution-research-hero](https://images.ctfassets.net/kftzwdyauwt9/38z3k9r5tK4dxXibazoG3p/4fd45dfad4fa1014a558196675a830ee/solution-research-hero.png?w=3840&q=90&fm=webp)
+
+[ResearchGather and synthesize knowledge instantly.](</solutions/use-case/research/>)
+
+![solution-automation-hero](https://images.ctfassets.net/kftzwdyauwt9/Jn0IOO9cRvbzrQ7bQfUSm/7519a0ae71d48b547d6fd47c0548517b/solution-automation-hero.png?w=3840&q=90&fm=webp)
+
+[AgentsExtend your team with agents that take action.](</solutions/use-case/agents/>)
+
+![solution-data analysis-hero](https://images.ctfassets.net/kftzwdyauwt9/7I5bqgWC7nLBDTC2rkXfjP/ac7a07972ffcf44b54065fcd6e2a164c/solution-data_analysis-hero.png?w=3840&q=90&fm=webp)
+
+[Data analysisUncover insights that drive smarter decisions.](</solutions/use-case/data-analysis/>)
+
+## Industries
+
+![Financial Services > Hero > Media > Image](https://images.ctfassets.net/kftzwdyauwt9/4yxnqdKmyr8iLfsDB5Rq9v/3d088473e569e609637a68abef46753b/openai_Solutions_FIncialServices_HeroImage.png?w=3840&q=90&fm=webp)
+
+[Financial servicesBuild trust and stay ahead in any market.](</solutions/industries/financial-services/>)
+
+![Soultions for Healthcare Hero](https://images.ctfassets.net/kftzwdyauwt9/u1PVXOVRZ1GXMdsv8UEmM/da02288549d77638aac43786f8a00787/Soultions_for_Healthcare_Hero.png?w=3840&q=90&fm=webp)
+
+[HealthcareImprove outcomes and deliver better care.](</solutions/industries/healthcare/>)
+
+![life sciences hero](https://images.ctfassets.net/kftzwdyauwt9/36LsxUTLzmAM5hyOzFBny9/27f0a496d4d6f5e5f90459ad02eeea19/life-sciences-hero.png?w=3840&q=90&fm=webp)
+
+[Life sciencesConnect science to patient impact.](</solutions/industries/life-sciences/>)
+
+![Soultions for Retail v3](https://images.ctfassets.net/kftzwdyauwt9/5nmNL9J9IXJ3PWkJXswpsi/74fc3710db8f3630bc94010b4e472934/Soultions_for_Retail_v3.jpg?w=3840&q=90&fm=webp)
+
+[RetailDeliver better shopping experiences.](</solutions/industries/retail/>)
+
+![image \(9\)-1x1](https://images.ctfassets.net/kftzwdyauwt9/5hUbKlAi71npWnxgYgWya1/ec53c89c3491bed93290ddff1ae7f67d/image__9_-1x1.png?w=3840&q=90&fm=webp)
+
+[GovernmentSupport essential public services.](</solutions/industries/government/>)
+
+## Blueprints
+
+![MCPKit > Cover image](https://images.ctfassets.net/kftzwdyauwt9/3dPHv7wBWSleh1Zlwdtjzp/98a7ad90806109dc245dc23c5c532040/MCPKit_Hero.png?w=3840&q=90&fm=webp)
+
+[MCPKitConnect data to ChatGPT with custom MCP Servers.](</solutions/blueprints/mcpkit/>)
+
+![Hero](https://images.ctfassets.net/kftzwdyauwt9/2briu94lsaszigOQS2v5qo/6f46409b3005d9716a3eb1928e5dabb6/knowledge_retrieval_Hero.png?w=3840&q=90&fm=webp)
+
+[Knowledge RetrievalProvide trusted answers, backed by your data.](</solutions/blueprints/knowledge-retrieval/>)
+
+## AI you can deploy with confidence
+
+Bring advanced intelligence into your organization with security, control, and transparency.
+
+### Connect your data
+
+Bring your business context into every prompt—delivering reliable, cited responses.
+
+[Explore apps](</business/apps/>)[Connect with MCP(opens in a new window)](<https://platform.openai.com/docs/mcp>)
+
+![A central icon representing data connections is linked by dotted lines to three surrounding service icons: SharePoint \(top right\), Google Drive \(bottom left\), and GitHub \(bottom right\). The background is a smooth blue gradient with soft white squares scattered throughout.](https://images.ctfassets.net/kftzwdyauwt9/72bUSPivEgoBquGs57nWab/4ab9b5aa798eb7d975838afd8e6c8126/Hero-v1.png?w=3840&q=90&fm=webp)
+
+### Built-in enterprise security
+
+Keep data private and in your control with encryption and configurable policies.
+
+[View enterprise privacy](</business-data/>)
+
+![Three compliance badges displayed on a green and cream gradient background: AICPA SOC, CCPA \(California Consumer Privacy Act\), and GDPR \(General Data Protection Regulation\), representing data privacy and security standards.](https://images.ctfassets.net/kftzwdyauwt9/26pXx3k5ulxjjEJ00rM1yP/f059c15f592c222c893e3652d68c7843/trust.png?w=3840&q=90&fm=webp)
+
+## Transform your organization with intelligent solutions
+
+See how OpenAI can help you scale AI securely and responsibly.
+
+[Try ChatGPT Business(opens in a new window)](<https://chatgpt.com/team-sign-up>)[Contact sales](</contact-sales/>)
+
+Our Research
+
+  * [Research Index](</research/index/>)
+  * [Research Overview](</research/>)
+  * [Research Residency](</residency/>)
+  * [Economic Research](</signals/>)
+
+
+
+Latest Advancements
+
+  * [GPT-5.5](</index/introducing-gpt-5-5/>)
+  * [GPT-5.4](</index/introducing-gpt-5-4/>)
+  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
+  * [GPT-5.3-Codex](</index/introducing-gpt-5-3-codex/>)
+
+
+
+Safety
+
+  * [Safety Approach](</safety/>)
+  * [Security & Privacy](</security-and-privacy/>)
+  * [Trust & Transparency](</trust-and-transparency/>)
+
+
+
+ChatGPT
+
+  * [Explore ChatGPT(opens in a new window)](<https://chatgpt.com/overview>)
+  * [Business](<https://chatgpt.com/business/business-plan>)
+  * [Enterprise](<https://chatgpt.com/business/enterprise>)
+  * [Education](<https://chatgpt.com/business/education>)
+  * [Pricing(opens in a new window)](<https://chatgpt.com/pricing>)
+  * [Download(opens in a new window)](<https://chatgpt.com/download>)
+
+
+
+API Platform
+
+  * [Platform Overview](</api/>)
+  * [Pricing](</api/pricing/>)
+  * [API log in(opens in a new window)](<https://platform.openai.com/login>)
+  * [Documentation(opens in a new window)](<https://developers.openai.com/api/docs>)
+  * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
+
+
+
+For Business
+
+  * [Business Overview](</business/>)
+  * [Solutions](</solutions/>)
+  * [Contact Sales](</contact-sales/>)
+
+
+
+Company
+
+  * [About Us](</about/>)
+  * [Our Charter](</charter/>)
+  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
+  * [Careers](</careers/>)
+  * [Brand](</brand/>)
+
+
+
+Support
+
+  * [Help Center(opens in a new window)](<https://help.openai.com/>)
+
+
+
+More
+
+  * [News](</news/>)
+  * [Stories](</stories/>)
+  * [Academy](</academy/>)
+  * [Livestreams](</live/>)
+  * [Podcast](</podcast/>)
+  * [RSS](<https://openai.com/news/rss.xml>)
+
+
+
+Terms & Policies
+
+  * [Terms of Use](</policies/terms-of-use/>)
+  * [Privacy Policy](</policies/privacy-policy/>)
+  * [Other Policies ](</policies/>)
+
+
+
+[(opens in a new window)](<https://x.com/OpenAI>)[(opens in a new window)](<https://www.youtube.com/OpenAI>)[(opens in a new window)](<https://www.linkedin.com/company/openai>)[(opens in a new window)](<https://github.com/openai>)[(opens in a new window)](<https://www.instagram.com/openai/>)[(opens in a new window)](<https://www.tiktok.com/@openai>)[(opens in a new window)](<https://discord.gg/openai>)
+
+OpenAI © 2015–2026Your privacy choices
+
+EnglishUnited States

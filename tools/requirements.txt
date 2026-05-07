@@ -1,0 +1,2 @@
+curl-cffi>=0.7
+html2text>=2024.2.26

@@ -1,0 +1,186 @@
+Skip to main content
+
+[](</>)
+
+  * [Research](</research/index/>)
+  * Products
+  * [Business](</business/>)
+  * [Developers](</api/>)
+  * [Company](</about/>)
+  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
+
+
+
+Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
+
+  * Research
+  * Products
+  * Business
+  * Developers
+  * Company
+  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
+
+
+
+[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)Login
+
+OpenAI
+
+April 8, 2026
+
+[Safety](</news/safety-alignment/>)[Global Affairs](</news/global-affairs/>)
+
+# Introducing the Child Safety Blueprint
+
+A framework for combatting and preventing AI-enabled Child Sexual Exploitation
+
+[Read the document(opens in a new window)](<https://cdn.openai.com/pdf/9886ee82-5a5e-4f0a-acaa-a47b01b0a68e/Child-Protection-Blueprint.pdf>)
+
+Share
+
+Child sexual exploitation is one of the most urgent challenges of the digital age. AI is rapidly changing both how these harms emerge across the industry and how they can be addressed at scale. 
+
+At OpenAI, we have built and continue to strengthen [safeguards to prevent misuse of our systems](</index/combating-online-child-sexual-exploitation-abuse/>), and we work closely with partners like the National Center for Missing and Exploited Children (NCMEC) and law enforcement to improve detection and reporting. This work has helped surface where stronger, shared standards are needed across the industry.
+
+Today, we’re introducing a policy blueprint that outlines a practical path forward for strengthening U.S. child protection frameworks in the age of AI. This blueprint reflects and incorporates feedback from several leading organizations and experts across the child safety ecosystem, including **NCMEC** , the **Attorney General Alliance and its AI Task Force co-chairs—North Carolina Attorney General Jeff Jackson and Utah Attorney General Derek Brown—** and **Thorn** to ensure it reflects their priorities and can facilitate more effective collaboration to prevent harm to children.
+
+The blueprint focuses on three key priorities: modernizing laws to address AI-generated and altered CSAM, improving provider reporting and coordination to support more effective investigations, and building safety-by-design measures directly into AI systems to prevent and detect misuse.
+
+No single intervention can address this challenge alone. This framework brings together legal, operational, and technical approaches to better identify risks, accelerate responses, and support accountability, while ensuring that enforcement authorities remain strong as technology evolves.
+
+Together, these steps enable the industry to address child safety earlier and more effectively. By interrupting exploitation attempts sooner, improving the quality of signals sent to law enforcement, and strengthening accountability across the ecosystem, this framework aims to prevent harm before it happens and help ensure faster protection for children when risks emerge.
+
+_“As Co-Chairs of the Attorney General Alliance 's AI Task Force, we welcome this blueprint as a meaningful step toward aligning the technology sector's child safety practices with the enforcement realities our offices confront every day. We are particularly encouraged by the framework's recognition that effective GenAI safeguards require layered defenses — not a single technical control, but a combination of detection, refusal mechanisms, human oversight, and continuous adaptation to emerging misuse patterns. This mirrors what we see in practice: the threat evolves constantly, and static solutions are insufficient. Getting the prevention architecture right upstream is the single highest-leverage investment the industry can make in child safety._
+
+_Ultimately, the strength of any voluntary framework depends on the specificity of its commitments and the willingness of industry to be held accountable against them. We look forward to continued partnership with OpenAI, NCMEC, and our fellow Attorneys General to ensure these recommendations translate into durable protections for children.”_
+
+—**State Attorneys General Jeff Jackson (North Carolina) and Derek Brown (Utah), Co-Chairs of the AI Task Force of the Attorney General Alliance.**
+
+_“The Attorney General Alliance is leading the way in protecting young people online by bringing together attorneys general, industry leaders, nonprofits, and global partners to advance practical, forward-looking solutions on AI and digital safety. Through collaboration and innovation, AGA is setting a strong standard for how we safeguard youth while responsibly embracing emerging technologies. We applaud OpenAI’s continuing commitment to safety and engagement with AGA and attorneys general in developing a highly valuable blueprint for child safety.”_
+
+**—Karen White, Executive Director of Attorney General Alliance**
+
+ _“Generative AI is accelerating the crime of online child sexual exploitation in deeply troubling ways - lowering barriers, increasing scale, and enabling new forms of harm. But at the same time, the National Center for Missing & Exploited Children (NCMEC) is encouraged to see companies like OpenAI reflect on how these tools can be designed more responsibly, with safeguards built in from the start_** _._**_No single organization, business or sector can address this alone. We remain committed to working with partners across industry, government, and the child protection community to advance solutions that reduce harm and better support children’s safe_ ty.”
+
+**—Michelle DeLaune, President & CEO, National Center for Missing & Exploited Children**
+
+  * [2026](</news/?tags=2026>)
+  * [User Safety & Control](</news/?tags=user-safety>)
+
+
+
+## Author
+
+OpenAI
+
+## Keep reading
+
+[View all](</news/>)
+
+![What frontier enterprises do differently > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/4kKQaeWGl9atcyE51ri1ZW/3aa677511fa40bc0a4b089ef6cd9698f/Frame.png?w=3840&q=90&fm=webp)
+
+[How frontier enterprises are building an AI advantageCompanyMay 6, 2026](</index/introducing-b2b-signals/>)
+
+![System Card 1x1](https://images.ctfassets.net/kftzwdyauwt9/2VCkKLVmTyNs0XGbqdxGeA/33ff7738f4e795ae0ee41ed2b4a985d3/System_Card_1x1.jpg?w=3840&q=90&fm=webp)
+
+[GPT-5.5 Instant System CardSafetyMay 5, 2026](</index/gpt-5-5-instant-system-card/>)
+
+![OpenAI and PwC collaborate > Card Image](https://images.ctfassets.net/kftzwdyauwt9/6wn2wKTtoQqG8KwxsOYSZY/839c16e046322c6117810a569cc80540/Frame.png?w=3840&q=90&fm=webp)
+
+[OpenAI and PwC collaborate to reimagine the office of the CFOGlobal AffairsMay 4, 2026](</index/openai-pwc-finance-collaboration/>)
+
+Our Research
+
+  * [Research Index](</research/index/>)
+  * [Research Overview](</research/>)
+  * [Research Residency](</residency/>)
+  * [Economic Research](</signals/>)
+
+
+
+Latest Advancements
+
+  * [GPT-5.5](</index/introducing-gpt-5-5/>)
+  * [GPT-5.4](</index/introducing-gpt-5-4/>)
+  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
+  * [GPT-5.3-Codex](</index/introducing-gpt-5-3-codex/>)
+
+
+
+Safety
+
+  * [Safety Approach](</safety/>)
+  * [Security & Privacy](</security-and-privacy/>)
+  * [Trust & Transparency](</trust-and-transparency/>)
+
+
+
+ChatGPT
+
+  * [Explore ChatGPT(opens in a new window)](<https://chatgpt.com/overview>)
+  * [Business](<https://chatgpt.com/business/business-plan>)
+  * [Enterprise](<https://chatgpt.com/business/enterprise>)
+  * [Education](<https://chatgpt.com/business/education>)
+  * [Pricing(opens in a new window)](<https://chatgpt.com/pricing>)
+  * [Download(opens in a new window)](<https://chatgpt.com/download>)
+
+
+
+API Platform
+
+  * [Platform Overview](</api/>)
+  * [Pricing](</api/pricing/>)
+  * [API log in(opens in a new window)](<https://platform.openai.com/login>)
+  * [Documentation(opens in a new window)](<https://developers.openai.com/api/docs>)
+  * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
+
+
+
+For Business
+
+  * [Business Overview](</business/>)
+  * [Solutions](</solutions/>)
+  * [Contact Sales](</contact-sales/>)
+
+
+
+Company
+
+  * [About Us](</about/>)
+  * [Our Charter](</charter/>)
+  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
+  * [Careers](</careers/>)
+  * [Brand](</brand/>)
+
+
+
+Support
+
+  * [Help Center(opens in a new window)](<https://help.openai.com/>)
+
+
+
+More
+
+  * [News](</news/>)
+  * [Stories](</stories/>)
+  * [Academy](</academy/>)
+  * [Livestreams](</live/>)
+  * [Podcast](</podcast/>)
+  * [RSS](<https://openai.com/news/rss.xml>)
+
+
+
+Terms & Policies
+
+  * [Terms of Use](</policies/terms-of-use/>)
+  * [Privacy Policy](</policies/privacy-policy/>)
+  * [Other Policies ](</policies/>)
+
+
+
+[(opens in a new window)](<https://x.com/OpenAI>)[(opens in a new window)](<https://www.youtube.com/OpenAI>)[(opens in a new window)](<https://www.linkedin.com/company/openai>)[(opens in a new window)](<https://github.com/openai>)[(opens in a new window)](<https://www.instagram.com/openai/>)[(opens in a new window)](<https://www.tiktok.com/@openai>)[(opens in a new window)](<https://discord.gg/openai>)
+
+OpenAI © 2015–2026Your privacy choices
+
+EnglishUnited States

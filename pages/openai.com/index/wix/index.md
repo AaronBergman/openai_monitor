@@ -1,0 +1,224 @@
+Skip to main content
+
+[](</>)
+
+  * [Research](</research/index/>)
+  * Products
+  * [Business](</business/>)
+  * [Developers](</api/>)
+  * [Company](</about/>)
+  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
+
+
+
+Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
+
+  * Research
+  * Products
+  * Business
+  * Developers
+  * Company
+  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
+
+
+
+[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)Login
+
+OpenAI
+
+Table of contents
+
+  * A conversational website builder for everyone 
+  * Populating quality site content with OpenAI’s API
+  * Making website creation accessible to everyone through ChatGPT
+  * Using AI to benefit every role
+
+
+
+May 29, 2025
+
+# Wix helps anyone create fully functional websites in minutes with GPT‑4o
+
+[Try now(opens in a new window)](<https://chatgpt.com/team-sign-up>)[Contact sales](</contact-sales/>)
+
+![Wix logo in white on a background of blue and green swathes of paint](https://images.ctfassets.net/kftzwdyauwt9/5K7WocSr7Gp8h5iy5j2CP9/4811daeb61ce637b81803fedd0e53d17/oai_Wix_hero_16x9.png?w=3840&q=90&fm=webp)
+
+Loading…
+
+Share
+
+Since its founding, [_Wix_ ⁠(opens in a new window)](<https://www.wix.com/>) has aimed to simplify website creation for individuals and businesses. In 2016, the company introduced Wix ADI (Artificial Design Intelligence), one of the first AI-driven solutions for generating a site’s UI. 
+
+Over the years, Wix has expanded its AI capabilities, integrating OpenAI models to enhance content generation, image processing, and customer support. By 2023, Wix launched AI text creator, which allowed users to generate website text, including headlines, taglines, and descriptions, by answering just a few prompts.
+
+This paved the way for Wix’s latest innovation: an AI website builder, powered by ChatGPT, that lets users create an entire website just by chatting with AI.
+
+## A conversational website builder for everyone 
+
+Today, Wix offers a fully-fledged [_AI website builder_ ⁠(opens in a new window)](<https://www.wix.com/ai-website-builder>) that makes creating a site as simple as having a conversation. 
+
+Users no longer need to manually design layouts or write content from scratch. Instead, they describe their business or project, and Wix generates a complete website, customizing the layout, images, text, and business apps automatically.
+
+OpenAI’s models power several key components of Wix’s AI website builder, including:
+
+  * **Content generation** : AI text creator crafts engaging website copy, blog posts, product descriptions, and SEO-friendly text.
+  * **Image processing** : GPT‑4o’s vision capabilities support image captioning and classification for portfolios and blog posts, as well as menu parsing from restaurant images.
+  * **Business management tools** : AI-driven report generators help users manage their operations with natural language queries.
+  * **Translation** :**** Powered by OpenAI’s models, the AI website builder is currently available in nine languages, ranging from English to Japanese to Turkish.
+
+
+
+By integrating OpenAI’s technology, Wix enables users to go from an idea to a fully functional website in minutes. “I think the biggest game-changer is the fact that you can easily create a stunning website, but you don’t need to understand layout, design, or anything to get a great working website right from the start,” says Wix’s Head of Product Yaara Asaf.
+
+![Chat UI on the left showing an the Wix AI assistant interpreting a brief for a website and explaining the layout it's creating. On the right, the actual visual layout is displayed.](https://images.ctfassets.net/kftzwdyauwt9/60LX1mmxmIICnlAoq7fi6X/6a09ef38d51e5cc9c21ae0a34aff8ee7/oai_WIX_UI_2.png?w=3840&q=90&fm=webp)
+
+## Populating quality site content with OpenAI’s API
+
+The key to a professional website is strong copy. Wix uses its technology, together with OpenAI, to power tools like their AI text creator and image generation within their platform.
+
+“We started building the AI text creator with GPT‑3.5 since it was the best and fastest tool available,” says Oz Golan, Product Manager at Wix. “We then customize prompts based on our expertise—essentially decades’ worth of experience—in writing content for websites and observing online behaviors.”
+
+Prompts within Wix’s AI text creator are engineered to generate the best titles, taglines, and paragraphs for their sites, and users benefit from receiving this contextual content, which is specific to their audience, business type, and intent.
+
+Powered by OpenAI’s models, the AI text creator can also write product descriptions, create social media captions, and even auto-generate SEO-friendly title tags and meta descriptions directly from the Wix platform. 
+
+The team behind the AI text creator initially scoped the tool to focus on producing a single paragraph or title, but was able to expand its capabilities to write a full page and then entire websites and metadata.
+
+“OpenAI’s APIs played a big role in making this possible,” says Golan. “They were simple to integrate and connect with the Wix infrastructure. They could also meet our requirements in all important aspects, from security to high throughput.”
+
+![Chat UI on the left showing a user requesting the Wix AI assistant to generate a new layout for a website.. On the right, the actual visual layout is displayed.](https://images.ctfassets.net/kftzwdyauwt9/3pNusrIzIvrm0suMNNQhLq/978c49d398a604f6ed6031f5f8e5c570/oai_WIX_UI_1.png?w=3840&q=90&fm=webp)
+
+## Making website creation accessible to everyone through ChatGPT
+
+Since the rollout of its AI text creator, tasks that may have taken users 10 hours may now only take 10 minutes. “By combining our website building expertise with OpenAI’s GPT models, Wix now provides users with unmatched text quality, which is key to a professional website,” says Hila Gat, Head of Data Science at Wix.
+
+To make this technology as broadly accessible as possible, Wix built a [_website builder GPT_ ⁠(opens in a new window)](<https://chatgpt.com/g/g-CP5IEz236-wix-ai-website-builder>) that brings the full capabilities of the AI website builder to all. Now anyone can create an enterprise-grade website conversationally, using the Website Builder GPT powered by ChatGPT Enterprise and OpenAI’s models. 
+
+“The feedback on the AI Website Builder has been incredible,” says Wix CEO and co-founder Avishai Abrahami. “Since its launch in 2024, hundreds of thousands of sites have been created using this tool. Now, users can create their digital visions in their preferred language.”
+
+## Using AI to benefit every role
+
+The team at Wix is just getting started. Using OpenAI’s LLMs, they want to expand their AI offerings to help every role:
+
+  * **Customer care** : Helping their customers handle customer tickets
+  * **Business managers** : Assisting managers in customer communications and generating reports that understand natural language queries
+  * **Entrepreneurs** : Expanding their businesses with smart, scalable business tools 
+  * **Marketers** : Enabling hyper-personalized content creation and campaigns 
+
+
+
+As Wix continues to optimize and expand its AI-powered features, the company is focused on helping users build website infrastructure even faster and more easily, giving them more time to focus on running their businesses.
+
+## Interested in learning more about ChatGPT for business?
+
+[Talk with our team](</contact-sales/>)
+
+## Keep reading
+
+![Coderabbit cover image](https://images.ctfassets.net/kftzwdyauwt9/7b5nc20N6oPfgjCUheFe2F/55fe1900f5ce545f22014a0dcfd4aad3/oai_coderabbit_1x1.png?w=3840&q=90&fm=webp)
+
+[ Shipping code faster with o3, o4-mini, and GPT-4.1May 22, 2025](</index/coderabbit/>)
+
+![San Antonio Spurs Cover Image](https://images.ctfassets.net/kftzwdyauwt9/3T53lsDpxxxZkP95bJqGlk/72b9117d5dddf09c24521dfee740ce13/oai_Spur_1x1.png?w=3840&q=90&fm=webp)
+
+[The San Antonio Spurs use ChatGPT to scale impact on and off the courtMay 7, 2025](</index/san-antonio-spurs/>)
+
+![Lowes > Cover media](https://images.ctfassets.net/kftzwdyauwt9/4X3HwsNsncluAzNEqlXFg3/558227ebd1d4edc388dc325ecbcd75f0/oai_Lowe_s_hero_4.5.png?w=3840&q=90&fm=webp)
+
+[Lowe’s puts project expertise into every hand May 7, 2025](</index/lowes/>)
+
+Our Research
+
+  * [Research Index](</research/index/>)
+  * [Research Overview](</research/>)
+  * [Research Residency](</residency/>)
+  * [Economic Research](</signals/>)
+
+
+
+Latest Advancements
+
+  * [GPT-5.5](</index/introducing-gpt-5-5/>)
+  * [GPT-5.4](</index/introducing-gpt-5-4/>)
+  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
+  * [GPT-5.3-Codex](</index/introducing-gpt-5-3-codex/>)
+
+
+
+Safety
+
+  * [Safety Approach](</safety/>)
+  * [Security & Privacy](</security-and-privacy/>)
+  * [Trust & Transparency](</trust-and-transparency/>)
+
+
+
+ChatGPT
+
+  * [Explore ChatGPT(opens in a new window)](<https://chatgpt.com/overview>)
+  * [Business](<https://chatgpt.com/business/business-plan>)
+  * [Enterprise](<https://chatgpt.com/business/enterprise>)
+  * [Education](<https://chatgpt.com/business/education>)
+  * [Pricing(opens in a new window)](<https://chatgpt.com/pricing>)
+  * [Download(opens in a new window)](<https://chatgpt.com/download>)
+
+
+
+API Platform
+
+  * [Platform Overview](</api/>)
+  * [Pricing](</api/pricing/>)
+  * [API log in(opens in a new window)](<https://platform.openai.com/login>)
+  * [Documentation(opens in a new window)](<https://developers.openai.com/api/docs>)
+  * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
+
+
+
+For Business
+
+  * [Business Overview](</business/>)
+  * [Solutions](</solutions/>)
+  * [Contact Sales](</contact-sales/>)
+
+
+
+Company
+
+  * [About Us](</about/>)
+  * [Our Charter](</charter/>)
+  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
+  * [Careers](</careers/>)
+  * [Brand](</brand/>)
+
+
+
+Support
+
+  * [Help Center(opens in a new window)](<https://help.openai.com/>)
+
+
+
+More
+
+  * [News](</news/>)
+  * [Stories](</stories/>)
+  * [Academy](</academy/>)
+  * [Livestreams](</live/>)
+  * [Podcast](</podcast/>)
+  * [RSS](<https://openai.com/news/rss.xml>)
+
+
+
+Terms & Policies
+
+  * [Terms of Use](</policies/terms-of-use/>)
+  * [Privacy Policy](</policies/privacy-policy/>)
+  * [Other Policies ](</policies/>)
+
+
+
+[(opens in a new window)](<https://x.com/OpenAI>)[(opens in a new window)](<https://www.youtube.com/OpenAI>)[(opens in a new window)](<https://www.linkedin.com/company/openai>)[(opens in a new window)](<https://github.com/openai>)[(opens in a new window)](<https://www.instagram.com/openai/>)[(opens in a new window)](<https://www.tiktok.com/@openai>)[(opens in a new window)](<https://discord.gg/openai>)
+
+OpenAI © 2015–2026Your privacy choices
+
+EnglishUnited States

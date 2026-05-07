@@ -1,0 +1,196 @@
+Skip to main content
+
+[](</>)
+
+  * [Research](</research/index/>)
+  * Products
+  * [Business](</business/>)
+  * [Developers](</api/>)
+  * [Company](</about/>)
+  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
+
+
+
+Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
+
+  * Research
+  * Products
+  * Business
+  * Developers
+  * Company
+  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
+
+
+
+[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)Login
+
+OpenAI
+
+Table of contents
+
+  * AI Foundations 
+  * ChatGPT Foundations for Teachers
+
+
+
+December 9, 2025
+
+[Global Affairs](</news/global-affairs/>)
+
+# Launching our first OpenAI Certifications courses
+
+Loading…
+
+Share
+
+AI will unlock more opportunities for more people than any technology in history—helping companies run more efficiently, empowering people to turn ideas into reality, and creating new kinds of jobs. More than 800 million people already use ChatGPT each week to build skills, find work, and solve real-world problems. AI is being incorporated into [_more workplaces_ ⁠(opens in a new window)](<https://cdn.openai.com/pdf/7ef17d82-96bf-4dd1-9df2-228f7f377a29/the-state-of-enterprise-ai_2025-report.pdf>), and [_research_ ⁠(opens in a new window)](<https://www.pwc.com/id/en/media-centre/press-release/2025/english/ai-linked-to-fourfold-productivity-growth-and-56-percent-wage-premium-jobs-grow-despite-automation-pwc-2025-global-ai-jobs-barometer.html?utm_source=chatgpt.com>) shows workers with AI skills earn about 50% more than those without them. We also know AI will be disruptive, leaving many people unsure which skills matter most or where to start. And while OpenAI can’t eliminate that disruption, we can help people everywhere prepare to navigate it successfully.
+
+Last September, we laid out our vision for [_expanding economic opportunity_ ⁠](<https://openai.com/index/expanding-economic-opportunity-with-ai/>) through the new OpenAI Certifications and the OpenAI Jobs Platform initiatives. Now, we’re taking the next step by launching a pair of new courses that will provide practical AI skills: AI Foundations, launching in ChatGPT through pilot programs with a group of leading employers and public-service partners, and ChatGPT Foundations for Teachers, [available today in Coursera⁠(opens in a new window)](<https://www.coursera.org/learn/chatgpt-foundations-for-teachers/>).
+
+AI Foundations focuses on providing workers with hands-on, real-world training on how to use today’s AI tools, while the course for teachers helps educators build AI expertise and put it to work in the classroom. With the launch of these courses, we’re accelerating our push to certify 10 million Americans by 2030.
+
+AI is a powerful productivity tool that can help people do more, learn faster, and unlock new kinds of work. But those gains only materialize when people have the skills to use the technology and when employers can find workers who know how to apply it. Our goal is to enable them to do so.
+
+## AI Foundations 
+
+Our starting point is the AI Foundations course, which is designed to help users learn core, practical AI skills that apply across roles and industries. For the first time, a full learning experience is available directly inside ChatGPT, where learners can practice real tasks, receive feedback in context, and reflect on their work in a single environment. ChatGPT acts as the tutor, the practice space, and the feedback loop. 
+
+As people complete AI Foundations, they’ll earn a certification verifying that they have job-ready AI skills. With additional courses and a hands-on project, they’ll build toward full OpenAI Certification. It’s a broader, more comprehensive credential that shows those skills in real-world settings and helps people grow in their current roles or move into new ones.
+
+AI Foundations is launching through pilot programs with leading employers and public-sector partners, including Walmart, John Deere, Lowe’s, Boston Consulting Group, Hearst, Russell Reynolds Associates, Upwork, Elevance Health, Accenture, the Office of the Governor of Delaware, and [_Choose New Jersey_ ⁠(opens in a new window)](<https://choosenj.com/>). 
+
+Coursera, ETS, and Credly by Pearson will help ensure our courses and certifications meet high standards for learning design, psychometric rigor, and real-world impact, allowing learners to earn high-value and portable evidence of their skill development. We’ll work with our initial partners over the next couple of months to learn more about what worked well and what could be improved, and then to expand access to the course so more people can develop – and show potential employers—their new AI skills. 
+
+As more young people enter a workforce increasingly shaped by AI, we’re giving college students in the ChatGPT Lab early access to AI Foundations. We are also piloting certifications with Arizona State University and the California State University system staff, faculty, and students to create pathways for students to hone their AI skills and showcase them to employers as they enter the job market. 
+
+## ChatGPT Foundations for Teachers
+
+Alongside AI Foundations, we’re also launching a [ChatGPT Foundations for Teachers⁠(opens in a new window)](<https://www.coursera.org/learn/chatgpt-foundations-for-teachers/>) course. [_Three in five_ ⁠(opens in a new window)](<https://news.gallup.com/poll/691967/three-teachers-weekly-saving-six-weeks-year.aspx>) teachers already use an AI tool, with many relying on it to save time, personalize classroom materials and lesson plans while also providing better support to their students. Teachers also play a central role in helping students and families learn how to use AI tools effectively, confidently, and responsibly.
+
+Built specifically for K-12 teachers, the new course introduces the essentials of how ChatGPT works, how to navigate and personalize the tool, and how to apply it to real classroom and administrative tasks. It will initially be available on Coursera, and we’re working to bring this experience directly into ChatGPT and ChatGPT for Teachers in early 2026 to create the same hands-on, practical learning environment. More teacher-focused certifications will follow.
+
+ChatGPT Foundations for Teachers is part of our effort to help educators use AI and fully harness its potential. It builds on our [_ChatGPT for Teachers_ ⁠](<https://openai.com/index/chatgpt-for-teachers/>) effort to make a custom version of ChatGPT free to educators, our partnership with the [_American Federation of Teachers_ ⁠(opens in a new window)](<https://www.aft.org/>) to equip 400,000 K-12 educators with practical AI skills, and our broader work to introduce new tools that are responsive to academic needs, like [study mode⁠](<https://openai.com/index/chatgpt-study-mode/>). It also reflects our belief that AI is reshaping nearly every industry and teachers will play an essential role in helping students learn to use the technology**.**
+
+Together, these two programs connect learning, certification, and real economic opportunity in one clear journey, laying the foundation for our upcoming OpenAI Jobs Platform. We’re excited to continue our collaboration with Indeed to help ensure these efforts expand opportunity for all. We’re also introducing a new partnership with Upwork, which will play a key role in our broader effort to train people in AI, make it easier for businesses to hire people with the specific skills they need, and ensure that technical expertise translates into new economic possibilities for millions of people everywhere. 
+
+We’re building fast, learning with partners, and expanding carefully—and we’re just getting started.
+
+  * [2025](</news/?tags=2025>)
+
+
+
+## Author
+
+OpenAI
+
+## Keep reading
+
+[View all](</news/>)
+
+![What frontier enterprises do differently > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/4kKQaeWGl9atcyE51ri1ZW/3aa677511fa40bc0a4b089ef6cd9698f/Frame.png?w=3840&q=90&fm=webp)
+
+[How frontier enterprises are building an AI advantageCompanyMay 6, 2026](</index/introducing-b2b-signals/>)
+
+![OpenAI and PwC collaborate > Card Image](https://images.ctfassets.net/kftzwdyauwt9/6wn2wKTtoQqG8KwxsOYSZY/839c16e046322c6117810a569cc80540/Frame.png?w=3840&q=90&fm=webp)
+
+[OpenAI and PwC collaborate to reimagine the office of the CFOGlobal AffairsMay 4, 2026](</index/openai-pwc-finance-collaboration/>)
+
+![Building the compute infrastructure for the Intelligence Age > Cover](https://images.ctfassets.net/kftzwdyauwt9/3YIKMdykxSwjeXudXfZUDk/614af02ee41e3088620c44b9e8bc5439/Frame__6_.png?w=3840&q=90&fm=webp)
+
+[Building the compute infrastructure for the Intelligence AgeGlobal AffairsApr 29, 2026](</index/building-the-compute-infrastructure-for-the-intelligence-age/>)
+
+Our Research
+
+  * [Research Index](</research/index/>)
+  * [Research Overview](</research/>)
+  * [Research Residency](</residency/>)
+  * [Economic Research](</signals/>)
+
+
+
+Latest Advancements
+
+  * [GPT-5.5](</index/introducing-gpt-5-5/>)
+  * [GPT-5.4](</index/introducing-gpt-5-4/>)
+  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
+  * [GPT-5.3-Codex](</index/introducing-gpt-5-3-codex/>)
+
+
+
+Safety
+
+  * [Safety Approach](</safety/>)
+  * [Security & Privacy](</security-and-privacy/>)
+  * [Trust & Transparency](</trust-and-transparency/>)
+
+
+
+ChatGPT
+
+  * [Explore ChatGPT(opens in a new window)](<https://chatgpt.com/overview>)
+  * [Business](<https://chatgpt.com/business/business-plan>)
+  * [Enterprise](<https://chatgpt.com/business/enterprise>)
+  * [Education](<https://chatgpt.com/business/education>)
+  * [Pricing(opens in a new window)](<https://chatgpt.com/pricing>)
+  * [Download(opens in a new window)](<https://chatgpt.com/download>)
+
+
+
+API Platform
+
+  * [Platform Overview](</api/>)
+  * [Pricing](</api/pricing/>)
+  * [API log in(opens in a new window)](<https://platform.openai.com/login>)
+  * [Documentation(opens in a new window)](<https://developers.openai.com/api/docs>)
+  * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
+
+
+
+For Business
+
+  * [Business Overview](</business/>)
+  * [Solutions](</solutions/>)
+  * [Contact Sales](</contact-sales/>)
+
+
+
+Company
+
+  * [About Us](</about/>)
+  * [Our Charter](</charter/>)
+  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
+  * [Careers](</careers/>)
+  * [Brand](</brand/>)
+
+
+
+Support
+
+  * [Help Center(opens in a new window)](<https://help.openai.com/>)
+
+
+
+More
+
+  * [News](</news/>)
+  * [Stories](</stories/>)
+  * [Academy](</academy/>)
+  * [Livestreams](</live/>)
+  * [Podcast](</podcast/>)
+  * [RSS](<https://openai.com/news/rss.xml>)
+
+
+
+Terms & Policies
+
+  * [Terms of Use](</policies/terms-of-use/>)
+  * [Privacy Policy](</policies/privacy-policy/>)
+  * [Other Policies ](</policies/>)
+
+
+
+[(opens in a new window)](<https://x.com/OpenAI>)[(opens in a new window)](<https://www.youtube.com/OpenAI>)[(opens in a new window)](<https://www.linkedin.com/company/openai>)[(opens in a new window)](<https://github.com/openai>)[(opens in a new window)](<https://www.instagram.com/openai/>)[(opens in a new window)](<https://www.tiktok.com/@openai>)[(opens in a new window)](<https://discord.gg/openai>)
+
+OpenAI © 2015–2026Your privacy choices
+
+EnglishUnited States
