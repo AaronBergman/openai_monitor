@@ -50,6 +50,7 @@ def main() -> int:
     ap.add_argument("input", nargs="?", help="Input HTML file (default: stdin)")
     ap.add_argument("output", nargs="?", help="Output markdown file (default: stdout)")
     ap.add_argument("--url", help="Fetch this URL (with curl-cffi Chrome impersonation) and convert it")
+    ap.add_argument("--output", dest="output_flag", help="Output markdown file (alternative to positional)")
     args = ap.parse_args()
 
     if args.url:
@@ -62,8 +63,9 @@ def main() -> int:
 
     md = html_to_md(html)
 
-    if args.output:
-        with open(args.output, "w", encoding="utf-8") as f:
+    out_path = args.output_flag or args.output
+    if out_path:
+        with open(out_path, "w", encoding="utf-8") as f:
             f.write(md)
     else:
         sys.stdout.write(md)
