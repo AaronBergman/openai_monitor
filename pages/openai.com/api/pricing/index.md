@@ -94,7 +94,7 @@ Learn more about [_Batch Processing_ ⁠(opens in a new window)](<https://develo
 
 Power applications across text, image, and audio with models built for real-time interaction and rich media generation. 
 
-## GPT-realtime-1.5
+## GPT-Realtime-2
 
 Our most capable model for realtime voice interactions.
 
@@ -108,13 +108,29 @@ $64.00 / 1M tokens for outputs
 Text:  
 $4.00 / 1M tokens for inputs  
 $0.40 / 1M tokens for cached inputs  
-$16.00 / 1M tokens for outputs  
+$24.00 / 1M tokens for outputs  
   
 Image:  
 $5.00 / 1M tokens for inputs  
 $0.50 / 1M tokens for cached inputs
 
-## GPT-image-2
+## GPT-Realtime-Translate
+
+A new live translation model that translates speech in real time and keeps pace with the speaker.
+
+### Price
+
+$0.034 per minute / $0.00057 per second
+
+## GPT-Realtime-Whisper
+
+A new streaming speech-to-text that transcribes speech live as the speaker talks.
+
+### Price
+
+$0.017 per minute / $0.00028 per second
+
+## GPT-Image-2
 
 State-of-the-art image generation model.
 

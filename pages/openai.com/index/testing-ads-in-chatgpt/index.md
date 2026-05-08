@@ -37,7 +37,7 @@ Table of contents
 
 
 
-February 9, 2026
+May 7, 2026
 
 [Company](</news/company-announcements/>)[Product](</news/product-releases/>)
 
@@ -49,7 +49,15 @@ Loading…
 
 Share
 
-** _Update on March 26, 2026:_**_Our ads pilot is focused on supporting broader access to ChatGPT while preserving consumer trust, usefulness, and user control. Guided by our_[ __ads principles__ ⁠](<https://openai.com/index/our-approach-to-advertising-and-expanding-access/>) _, the early results are encouraging. We’re seeing no impact on consumer trust metrics, low dismissal rates of ads, and ongoing improvements in the relevance of ads as we learn from feedback. These positive signals support moving into the next phase of our pilot._
+ _**Update on May 7, 2026**_ _: In the coming weeks, we plan to expand the ads pilot in ChatGPT in the United Kingdom, Mexico, Brazil, Japan, and South Korea._
+
+_These pilots will help us understand what works well in different regions, so we can continue improving the experience as we expand._
+
+_If you’re a business and interested in advertising in ChatGPT in these new markets, visit_[ __openai.com/advertisers/⁠__ ⁠](<https://openai.com/advertisers/>) _to sign up for more updates._
+
+* * *
+
+**_Update on March 26, 2026:_**_Our ads pilot is focused on supporting broader access to ChatGPT while preserving consumer trust, usefulness, and user control. Guided by our_[ __ads principles__ ⁠](<https://openai.com/index/our-approach-to-advertising-and-expanding-access/>) _, the early results are encouraging. We’re seeing no impact on consumer trust metrics, low dismissal rates of ads, and ongoing improvements in the relevance of ads as we learn from feedback. These positive signals support moving into the next phase of our pilot._
 
 _In the coming weeks, we’ll begin expanding beyond the U.S., starting with pilots in Canada, Australia, and New Zealand. We’ll roll this out thoughtfully in each market, learn from real-world usage, and adjust as we go. Our hope is to continue to expand to many more markets this year._
 
@@ -58,6 +66,8 @@ _If you’re a business and interested in advertising in ChatGPT in these new ma
 _As we expand our pilot, our core principles remain the same: ChatGPT’s answers remain independent and unbiased, conversations stay private, and people keep meaningful control over their experience._
 
 * * *
+
+_**Originally published on February 9, 2026**_
 
 Today, we’re beginning to test ads in ChatGPT in the U.S. The test will be for logged-in adult users on the Free and Go subscription tiers. Plus, Pro, Business, Enterprise, and Education tiers will not have ads. Ads do not influence the answers ChatGPT gives you, and we keep your conversations with ChatGPT private from advertisers. Our goal is for ads to support broader access to more powerful ChatGPT features while maintaining the trust people place in ChatGPT for important and personal tasks. We’re starting with a test to learn, listen, and make sure we get the experience right.
 
@@ -118,17 +128,17 @@ OpenAI
 
 [View all](</news/>)
 
+![OAI GPT-Realtime-2 Art Card 1x1](https://images.ctfassets.net/kftzwdyauwt9/4TtA6X4b6MbTFXSkoZXvqk/39930a05ebb333898ad1df6c28463465/OAI_GPT-Realtime-2_Art_Card_1x1.png?w=3840&q=90&fm=webp)
+
+[Advancing voice intelligence with new models in the APIProductMay 7, 2026](</index/advancing-voice-intelligence-with-new-models-in-the-api/>)
+
 ![Futures 1 1](https://images.ctfassets.net/kftzwdyauwt9/7l4mPpfnMDZNfjmksyuILI/5e280d8d490f625b3fc414d9824e96ac/Futures_1_1.png?w=3840&q=90&fm=webp)
 
 [Introducing ChatGPT Futures: Class of 2026CompanyMay 6, 2026](</index/introducing-chatgpt-futures-class-of-2026/>)
 
 ![What frontier enterprises do differently > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/4kKQaeWGl9atcyE51ri1ZW/3aa677511fa40bc0a4b089ef6cd9698f/Frame.png?w=3840&q=90&fm=webp)
 
-[How frontier enterprises are building an AI advantageCompanyMay 6, 2026](</index/introducing-b2b-signals/>)
-
-![20250826](https://images.ctfassets.net/kftzwdyauwt9/2H347RfdThVOeTfSBchxDx/8a053f4cfa92faeed7141265dd02e7dd/20250826.jpg?w=3840&q=90&fm=webp)
-
-[GPT-5.5 Instant: smarter, clearer, and more personalizedProductMay 5, 2026](</index/gpt-5-5-instant/>)
+[How frontier firms are pulling aheadCompanyMay 6, 2026](</index/introducing-b2b-signals/>)
 
 Our Research
 

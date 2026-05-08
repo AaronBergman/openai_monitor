@@ -76,7 +76,7 @@ Learn how AI is accelerating enterprise advantage through deeper integration, ag
 
 ![Signals Homepage > Layout > Group > Recent news > Cards > B2B Signals blog > Media > Asset](https://images.ctfassets.net/kftzwdyauwt9/4IzcV84U3LJqbYXVgixe4b/6c507d4b597e849b2291ad47a8931d62/Frame__1_.png?w=3840&q=90&fm=webp)
 
-[How frontier enterprises are building an AI advantage](<https://openai.com/index/introducing-b2b-signals/>)
+[How frontier firms are pulling ahead](<https://openai.com/index/introducing-b2b-signals/>)
 
 ![Signals Homepage > Layout > ... > Card > Understanding the Labor Market webinar > Media](https://images.ctfassets.net/kftzwdyauwt9/3HNrm9KNf7ON87kvBpVq4k/0382f0ef2f3c4fa69904cf8d5867674b/understanding-the-labor-market.png?w=3840&q=90&fm=webp)
 

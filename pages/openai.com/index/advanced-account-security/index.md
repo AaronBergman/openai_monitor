@@ -57,7 +57,7 @@ This effort is part of our broader [_cybersecurity action plan_ ⁠(opens in a n
 
 ## How Advanced Account Security works
 
-Advanced Account Security brings together a series of controls that strengthen sign-in protections, tighten account recovery, reduce exposure from compromised sessions, and give users more visibility into account activity. It’s available to opt into in the Security section of users’ ChatGPT accounts on web. Protection applies to both ChatGPT and Codex accounts that are accessed through that login.
+Advanced Account Security brings together a series of controls that strengthen sign-in protections, tighten account recovery, reduce exposure from compromised sessions, and give users more visibility into account activity. It’s available to opt into in the Security section of users’ ChatGPT accounts. Protection applies to both ChatGPT and Codex accounts that are accessed through that login.
 
 **Stronger sign-in methods**. Advanced Account Security requires passkeys or physical security keys while disabling password-based login, helping make phishing-resistant sign-in the default for people who need it most.
 
@@ -71,7 +71,7 @@ Advanced Account Security brings together a series of controls that strengthen s
 
 Using physical security keys, such as YubiKeys, is one of the strongest defenses against phishing. To make that level of protection easier to access, we have partnered with Yubico, a leader in hardware-based authentication and account protection, to offer our users preferred pricing on a customized bundle of best in class security keys. The YubiKey C Nano is designed to stay in your laptop for simple, low-friction daily authentication, and the YubiKey C NFC for backup, and use across laptops and mobile devices. 
 
-We’re launching this partnership as part of Advanced Account Security, but the bundle will be available to all eligible users in their security settings on web so more people can adopt stronger, phishing-resistant account protection. Users will also be able to use any other FIDO-compliant security key, or use software-based passkeys.
+We’re launching this partnership as part of Advanced Account Security, but the bundle will be available to all eligible users in their security settings so more people can adopt stronger, phishing-resistant account protection. Users will also be able to use any other FIDO-compliant security key, or use software-based passkeys.
 
 ## Protecting Trusted Access for Cyber
 
@@ -88,7 +88,7 @@ As AI becomes increasingly embedded in our lives, it is more important than ever
 Privacy and security are foundational to how we build all of our products and we’ll continue investing in protections that give people more control and stronger safeguards over time. We expect to extend this work to additional audiences, including enterprise environments, where stronger account security can matter just as much.
 
   
-OpenAI users who want additional protection can [_enroll in Advanced Account Security_ ⁠(opens in a new window)](<https://chatgpt.com/advanced-account-security>)on web starting today.
+OpenAI users who want additional protection can [_enroll in Advanced Account Security_ ⁠(opens in a new window)](<https://chatgpt.com/advanced-account-security>) starting today.
 
   * [2026](</news/?tags=2026>)
   * [ChatGPT](</news/?tags=chatgpt>)
@@ -103,17 +103,17 @@ OpenAI
 
 [View all](</news/>)
 
-![20250826](https://images.ctfassets.net/kftzwdyauwt9/2H347RfdThVOeTfSBchxDx/8a053f4cfa92faeed7141265dd02e7dd/20250826.jpg?w=3840&q=90&fm=webp)
+![Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber > Art Card Image](https://images.ctfassets.net/kftzwdyauwt9/6BHwtZlzRX7xMewO3wnC7d/b6e644be68469bc704bd3c99b13b42a8/art-card-trusted-access.png?w=3840&q=90&fm=webp)
 
-[GPT-5.5 Instant: smarter, clearer, and more personalizedProductMay 5, 2026](</index/gpt-5-5-instant/>)
+[Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-CyberSecurityMay 7, 2026](</index/gpt-5-5-with-trusted-access-for-cyber/>)
 
-![New ways to buy ChatGPT ads > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/3Rxyg8znQWIKixzNDvJtEE/87399a6c50caa6aaadbd664409021f82/ArtCard-ChatGPT-Ads.png?w=3840&q=90&fm=webp)
+![OAI GPT-Realtime-2 Art Card 1x1](https://images.ctfassets.net/kftzwdyauwt9/4TtA6X4b6MbTFXSkoZXvqk/39930a05ebb333898ad1df6c28463465/OAI_GPT-Realtime-2_Art_Card_1x1.png?w=3840&q=90&fm=webp)
 
-[New ways to buy ChatGPT adsProductMay 5, 2026](</index/new-ways-to-buy-chatgpt-ads/>)
+[Advancing voice intelligence with new models in the APIProductMay 7, 2026](</index/advancing-voice-intelligence-with-new-models-in-the-api/>)
 
-![Amazon Bedrock > card image](https://images.ctfassets.net/kftzwdyauwt9/5DqGp6lqqjI16dbVGV51bh/424a7571ca3dd889488e3422753e4e44/oai-aws-1x1.png?w=3840&q=90&fm=webp)
+![OAI AdsTest Blog ArtCard 1x1](https://images.ctfassets.net/kftzwdyauwt9/7drPwCnD6ied4wPzlJd7qa/d79ccfda974080bbca7d688ad9bcbc6f/OAI_AdsTest_Blog_ArtCard_1x1.png?w=3840&q=90&fm=webp)
 
-[OpenAI models, Codex, and Managed Agents come to AWSProductApr 28, 2026](</index/openai-on-aws/>)
+[Testing ads in ChatGPTCompanyMay 7, 2026](</index/testing-ads-in-chatgpt/>)
 
 Our Research
 
