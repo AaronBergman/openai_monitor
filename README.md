@@ -5,6 +5,81 @@ maintained by a Claude Code routine. Each run diffs the current sitemap
 against the prior one, fetches changed pages, and writes a plain-language
 summary that a smart layperson can follow.
 
+## 2026-05-09T09-15Z
+
+**Fetch time:** 2026-05-09T09:16:02Z UTC | **Baseline:** 2026-05-07T09-15Z
+
+**TL;DR:** A busy two days on openai.com. OpenAI published seven new articles across safety,
+security, and developer topics — including new real-time voice API models, a limited preview of
+GPT-5.5-Cyber for critical-infrastructure defenders, a "Trusted Contact" crisis-notification
+feature for ChatGPT users, and a bilingual English/French privacy explainer aimed at Canadian
+audiences. Multiple waves of coordinated updates touched privacy policies, Codex content, and
+the OpenAI Academy. One notable structural event: the sub-sitemap that listed ~122 B2B customer
+stories began returning HTTP 403 — those pages are still live but are no longer indexed through
+that endpoint. One metadata anomaly: the `enterprise-privacy/` page's claimed lastmod jumped 15
+months backward with no content change.
+
+### Anomalies
+
+1. **Backwards lastmod — `enterprise-privacy/`**
+   The sitemap's `<lastmod>` for `https://openai.com/enterprise-privacy/` regressed from
+   `2026-05-04` to `2025-01-31` (roughly 15 months backward). The page content is
+   byte-for-byte identical to the prior snapshot and the in-page "Updated: January 8, 2026"
+   date is unchanged. This is a CMS/metadata glitch, not a content rollback.
+
+2. **B2B customer-stories sub-sitemap now returns HTTP 403**
+   The sub-sitemap `https://openai.com/sitemap.xml/internal-use-show-on-b2b-customer-stories-hub/`
+   (which listed 122 `/index/` customer-story pages) returned HTTP 403 this run. Spot-checks
+   confirm the underlying pages (e.g., `/index/canva/`, `/index/cisco/`) remain live and
+   fully accessible. OpenAI appears to have restricted the sitemap endpoint itself — possibly
+   intentionally, given the "internal-use-" prefix in the sub-sitemap name. All 122 URLs are
+   preserved in `state/known_urls.json`.
+
+### New pages (7)
+
+| Page | Date | Summary |
+|---|---|---|
+| [Advancing voice intelligence with new models in the API](pages/openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api/index.md) | May 7 | Three new realtime audio API models: GPT-Realtime-2 (GPT-5-class reasoning in voice), GPT-Realtime-Translate (live 70→13 language translation), GPT-Realtime-Whisper (live streaming transcription) |
+| [GPT-5.5 with Trusted Access for Cyber](pages/openai.com/index/gpt-5-5-with-trusted-access-for-cyber/index.md) | May 7 | GPT-5.5-Cyber rolled out in limited preview to critical-infrastructure defenders; explains three-tier Trusted Access for Cyber framework; Advanced Account Security (phishing-resistant) required for top-tier access from June 1, 2026 |
+| [Running Codex safely at OpenAI](pages/openai.com/index/running-codex-safely/index.md) | May 8 | Technical guide to OpenAI's internal Codex governance: sandboxing, human-approval gates for high-risk actions, network policies, and agent-native audit trails |
+| [How ChatGPT learns about the world while protecting privacy](pages/openai.com/index/how-chatgpt-protects-privacy/index.md) | May 6 | Bilingual (English + French) plain-language privacy explainer covering training data practices, personal information handling, and user privacy controls — likely produced for Canadian regulatory context |
+| [Introducing Trusted Contact in ChatGPT](pages/openai.com/index/introducing-trusted-contact-in-chatgpt/index.md) | May 7 | New optional safety feature: adults 18+ can nominate a trusted person to receive automated notifications if OpenAI's systems detect serious self-harm risk; extends existing parental-alert system to all users |
+| [Advancing youth safety and wellbeing in EMEA](pages/openai.com/index/advancing-youth-safety-in-emea/index.md) | May 5 | European Youth Safety Blueprint (5 pillars for age-appropriate AI policy) and announcement of first EMEA Youth & Wellbeing Grant recipients |
+| [Parloa](pages/openai.com/index/parloa/index.md) | May 7 | Customer story: European startup Parloa builds enterprise voice-driven customer service agents using the OpenAI API |
+
+### Notable updates
+
+- **B2B Signals messaging rebrand** — [`signals/b2b/`](pages/openai.com/signals/b2b/index.md):
+  "AI advantage" replaced throughout with "frontier advantage"; intro rewritten to be more
+  concise. Deliberate positioning shift to align with OpenAI's "frontier model" branding.
+
+- **Privacy policy wave** (all updated May 7–8): `services-privacy-policy`, `communications-privacy-policy`,
+  `services-communications-privacy-policy`, `us-privacy-policy`, `cookie-policy`, and `usage-policies`
+  — six policy documents updated in a coordinated 24-hour window, coinciding with the new privacy explainer.
+
+- **API page** — new "Enterprise-ready solutions for real impact" section added with a three-tab
+  interface linking to use cases, industries, and blueprints.
+
+- **Codex ecosystem refresh** — ~15 Codex-related pages (codex/, codex/get-started/, gpt-5-2-codex through gpt-5-5-instant, introducing-upgrades-to-codex, codex-now-generally-available, etc.) all refreshed May 7–8, coordinated with Codex GA.
+
+- **Academy learning content** — ~21 OpenAI Academy course pages refreshed May 7–8 (codex, building-with-ai, chatgpt-for-education, customer-success, data-analysis, marketing, etc.).
+
+- **FedRAMP Moderate** — [`index/openai-available-at-fedramp-moderate/`](pages/openai.com/index/openai-available-at-fedramp-moderate/index.md):
+  Updated (May 9) to note that GPT-5.5 is now available in the FedRAMP environment, and that
+  Codex Cloud will soon be accessible via FedRAMP ChatGPT Enterprise workspace.
+
+- **Customer stories hub rotation** — [`business/customer-stories/`](pages/openai.com/business/customer-stories/index.md):
+  Added Parloa and Simplex to the featured list; VfL Wolfsburg and Axios Allison Murphy rotated out.
+
+### Removals
+
+0 pages confirmed removed. See anomaly #2 above for the 122 URLs now inaccessible via the
+b2b-customer-stories sub-sitemap.
+
+**Stats:** 1,164 current URLs | +7 added | 153 lastmod updates | 122 missing via 403 sub-sitemap (0 confirmed removed) | 2 anomalies | 33/34 sub-sitemaps fetched
+
+---
+
 ## 2026-05-07T09-15Z
 
 **Fetch time:** 2026-05-07T09:17:05Z UTC | **Baseline:** 2026-05-07T09-01Z

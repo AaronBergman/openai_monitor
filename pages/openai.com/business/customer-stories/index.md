@@ -100,13 +100,21 @@ One in a million: celebrating the customers shaping AI’s future
 
 Filter
 
-![Uber customer story > 1x1 art card and hero image](https://images.ctfassets.net/kftzwdyauwt9/5jnteCaoVnc71jA02qX8gk/0f394157c43c443dd1523a7fab48bc69/oai_Uber_1x1.png?w=3840&q=90&fm=webp)
+![Parloa > Card](https://images.ctfassets.net/kftzwdyauwt9/79CIP6zYxNAKgc3cJfSimj/cd0b9187ba78aeca8088ba6c11ce8b7e/oai_Parloa_1x1.png?w=3840&q=90&fm=webp)
 
-[Uber uses OpenAI to help people earn smarter and book fasterMay 6, 2026](</index/uber/>)
+[Parloa builds service agents customers want to talk toStartupMay 7, 2026](</index/parloa/>)
+
+![oai simplex 1x1](https://images.ctfassets.net/kftzwdyauwt9/7EYQLHWSLyDPZipWsruW76/8e0295766071c4d5b21e07fcb7b85996/oai_simplex_1x1.png?w=3840&q=90&fm=webp)
+
+[Simplex rethinks software development with CodexMay 7, 2026](</index/simplex/>)
 
 ![Singular Bank 1x1](https://images.ctfassets.net/kftzwdyauwt9/4z6thUXYDDAQfggvMdsr6v/bbc20a49d11c5f7b3216fec648214cef/oai_SingularBank_1x1.png?w=3840&q=90&fm=webp)
 
 [Singular Bank helps bankers move fast with ChatGPT and CodexMay 6, 2026](</index/singular-bank/>)
+
+![Uber customer story > 1x1 art card and hero image](https://images.ctfassets.net/kftzwdyauwt9/5jnteCaoVnc71jA02qX8gk/0f394157c43c443dd1523a7fab48bc69/oai_Uber_1x1.png?w=3840&q=90&fm=webp)
+
+[Uber uses OpenAI to help people earn smarter and book fasterMay 6, 2026](</index/uber/>)
 
 ![oai Choco 1x1](https://images.ctfassets.net/kftzwdyauwt9/2A9IYNIXnFR7s8lAQ9BKby/c98bd4af069478f3317f7d2d6aa98cc2/oai_Choco_1x1.png?w=3840&q=90&fm=webp)
 
@@ -139,14 +147,6 @@ Filter
 ![Descript > 1x1 Card](https://images.ctfassets.net/kftzwdyauwt9/7wL94yXvqYUEQRfOpp68V8/4f6d4a21db6e98ddb2352cbc52ac3b77/oai_descript_1x1.png?w=3840&q=90&fm=webp)
 
 [How Descript engineers multilingual video dubbing at scaleStartupMar 6, 2026](</index/descript/>)
-
-![oai Vfl Wolfsburg 1x1](https://images.ctfassets.net/kftzwdyauwt9/3DYUjiAAVmE8OiREpUtGHd/686e53542c7a01c0cdb82ab499f6eaeb/oai_Vfl_Wolfsburg__1x1.png?w=3840&q=90&fm=webp)
-
-[VfL Wolfsburg turns ChatGPT into a club-wide capabilityMar 5, 2026](</index/vfl-wolfsburg/>)
-
-![EF Ep19 1.1](https://images.ctfassets.net/kftzwdyauwt9/2wRYqybyKJt7rUW1UsO8M5/a5d088af69e5ccb4fdc5c58331139eda/EF_Ep19_1.1.png?w=3840&q=90&fm=webp)
-
-[How Axios uses AI to help deliver high-impact local journalism Mar 4, 2026](</index/axios-allison-murphy/>)
 
 Load more
 
