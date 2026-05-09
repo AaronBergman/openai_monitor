@@ -30,19 +30,17 @@ Published: May 6, 2026
 
 # OpenAI B2B Signals
 
-The AI advantage is beginning to compound.
+The frontier advantage is beginning to compound.
 
-Today we’re introducing B2B Signals, a business extension of [_OpenAI Signals_ ⁠](<https://openai.com/signals/>) that measures how AI is diffusing across organizations. It analyzes privacy-preserving usage patterns from Enterprise accounts to show how AI adoption is taking shape inside businesses.
+Today we’re introducing B2B Signals, a business extension of [_OpenAI Signals_ ⁠](<https://openai.com/signals/>) that measures how AI is diffusing across organizations. The early signal is clear, frontier firms are pulling ahead not just because they have access to AI, but because they are using it more deeply across work.
 
-The first phase of enterprise AI adoption was defined by access: which employees had access to AI tools, how many seats had been deployed, and whether employees were experimenting. Those questions still matter, but they no longer fully capture how AI is being used inside organizations. As adoption matures, the more important question is whether firms are using AI deeply enough to keep pace with the frontier. 
+B2B Signals is a recurring set of measures based on large-scale, privacy-preserving analysis of enterprise AI usage. It tracks the behaviors and patterns that can help organizations understand how to translate intelligence into business value.
 
-Earlier this year, OpenAI highlighted a [_capability overhang across countries_ ⁠](<https://openai.com/index/how-countries-can-end-the-capability-overhang/>): some economies are putting today’s AI tools to work more deeply, while others are using only a fraction of what current systems can do. B2B Signals finds a similar pattern inside the enterprise. 
-
-Frontier firms—those operating at the 95th percentile of AI use—use more intelligence per worker, adopt advanced tools more intensively, and embed AI more deeply into workflows. The AI advantage is beginning to compound for some firms, and the difference increasingly comes from depth of use. B2B Signals tracks the behaviors and patterns that drive deeper use, giving organizations a clearer view of how to translate intelligence into business value.
+Frontier firms—those operating at the 95th percentile of AI use—use more intelligence per worker, adopt advanced tools more intensively, and embed AI more deeply into workflows. The gap is beginning to compound for some firms, and the difference increasingly comes from depth of use.
 
 Key Takeaways
 
-  * **The AI advantage is starting to compound** : Frontier firms now use 3.5x the intelligence per worker compared to typical firms, up from 2x a year ago. 
+  * **The frontier advantage is starting to compound** : Frontier firms now use 3.5x the intelligence per worker compared to typical firms, up from 2x a year ago. 
   * **Frontier firms use AI more deeply, not just more often** : Message volume only explains 36% of the gap between frontier and typical firms. The majority of the frontier advantage comes from deeper usage. 
   * **Agentic workflows are becoming a marker of frontier adoption** : The gap is largest in advanced agentic tools, with frontier firms sending 16x as many Codex messages as typical firms. 
   * **Firms can close the frontier gap through organizational change:** To catch up, firms need to measure depth of use, prioritize governance, invest in enablement, scale what works, and move from chat-based assistance to delegated work with agents.
@@ -53,7 +51,7 @@ DepthBreadthReach
 
 ## Depth
 
-#### The AI advantage is starting to compound and firms using AI most deeply are increasing their lead
+#### The frontier advantage is starting to compound and firms using AI most deeply are increasing their lead
 
 Seat deployment is only the starting point for enterprises. The clearer signal is whether employees are using AI for deeper, more complex work. This chart compares tokens generated per worker at the frontier, defined as the 95th percentile, with the typical firm, defined as the 50th percentile.
 

@@ -28,7 +28,7 @@ OpenAI
 
 Table of contents
 
-  * The AI advantage is beginning to compound
+  * The frontier advantage is beginning to compound
   * Agentic workflows are becoming the next sign of maturity
   * AI use is broad, but increasingly specialized
   * What sets AI leaders apart
@@ -40,9 +40,9 @@ May 6, 2026
 
 [Company](</news/company-announcements/>)[Global Affairs](</news/global-affairs/>)
 
-# How frontier enterprises are building an AI advantage
+# How frontier firms are pulling ahead
 
-B2B Signals shows how the AI advantage is beginning to compound for firms using AI more deeply, more broadly, and in more delegated workflows.
+B2B Signals shows how the frontier advantage is beginning to compound for firms using AI more deeply, more broadly, and in more delegated workflows.
 
 [Read B2B Signals](</signals/b2b/>)[Contact sales](</contact-sales/>)
 
@@ -61,7 +61,7 @@ TLDR
 
 For many enterprises, the first phase of AI adoption was about access: who had AI tools, how many seats had been deployed, and whether employees were experimenting. That still matters. But access is no longer the differentiator. 
 
-Our latest research suggests the AI advantage is beginning to compound. Frontier firms are pulling ahead because they use more intelligence per worker, adopt advanced tools more intensively, and embed AI more deeply into workflows.
+Our latest research suggests the frontier advantage is beginning to compound. Frontier firms are pulling ahead because they use more intelligence per worker, adopt advanced tools more intensively, and embed AI more deeply into workflows.
 
 Today, we’re introducing B2B Signals, a business extension of OpenAI Signals. It provides a recurring measure of how AI is diffusing across businesses, based on privacy-preserving, aggregated signals from enterprise use of OpenAI products, including:
 
@@ -73,7 +73,7 @@ Today, we’re introducing B2B Signals, a business extension of OpenAI Signals. 
 
  _Note: All analyses in this report are based on de-identified, aggregated enterprise usage data. Message content was classified using automated systems, and no OpenAI employee reviewed individual enterprise, business, or API customer data as part of this analysis._
 
-##  The AI advantage is beginning to compound
+##  The frontier advantage is beginning to compound
 
 The clearest signal is depth. Frontier firms now use 3.5x as much intelligence per worker as typical firms, up from 2x in April 2025. Message volume explains only 36% of that gap; the majority comes from deeper usage. Workers at the frontier are asking AI to take on more complex work, providing richer context, and generating more substantive outputs.
 
@@ -135,17 +135,17 @@ OpenAI
 
 [View all](</news/>)
 
+![OAI AdsTest Blog ArtCard 1x1](https://images.ctfassets.net/kftzwdyauwt9/7drPwCnD6ied4wPzlJd7qa/d79ccfda974080bbca7d688ad9bcbc6f/OAI_AdsTest_Blog_ArtCard_1x1.png?w=3840&q=90&fm=webp)
+
+[Testing ads in ChatGPTCompanyMay 7, 2026](</index/testing-ads-in-chatgpt/>)
+
+![CA Privacy > card img](https://images.ctfassets.net/kftzwdyauwt9/3lWXxBR8sZQiOsh6oNJHf9/f7d47996c9f425621016ea27f3b8ad4e/how-chatgpt-protects-privacy-1_1.png?w=3840&q=90&fm=webp)
+
+[How ChatGPT learns about the world while protecting privacy Global AffairsMay 6, 2026](</index/how-chatgpt-protects-privacy/>)
+
 ![Futures 1 1](https://images.ctfassets.net/kftzwdyauwt9/7l4mPpfnMDZNfjmksyuILI/5e280d8d490f625b3fc414d9824e96ac/Futures_1_1.png?w=3840&q=90&fm=webp)
 
 [Introducing ChatGPT Futures: Class of 2026CompanyMay 6, 2026](</index/introducing-chatgpt-futures-class-of-2026/>)
-
-![OpenAI and PwC collaborate > Card Image](https://images.ctfassets.net/kftzwdyauwt9/6wn2wKTtoQqG8KwxsOYSZY/839c16e046322c6117810a569cc80540/Frame.png?w=3840&q=90&fm=webp)
-
-[OpenAI and PwC collaborate to reimagine the office of the CFOGlobal AffairsMay 4, 2026](</index/openai-pwc-finance-collaboration/>)
-
-![Building the compute infrastructure for the Intelligence Age > Cover](https://images.ctfassets.net/kftzwdyauwt9/3YIKMdykxSwjeXudXfZUDk/614af02ee41e3088620c44b9e8bc5439/Frame__6_.png?w=3840&q=90&fm=webp)
-
-[Building the compute infrastructure for the Intelligence AgeGlobal AffairsApr 29, 2026](</index/building-the-compute-infrastructure-for-the-intelligence-age/>)
 
 Our Research
 
