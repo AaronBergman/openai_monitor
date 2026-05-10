@@ -26,6 +26,12 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
+What can I help with?
+
+Message ChatGPT
+
+[Talk with ChatGPT](<https://chatgpt.com/?mode=voice>)[Research](</research/>)[API Platform](</api/>)[Stories](</stories/>)More
+
 ![""](https://images.ctfassets.net/kftzwdyauwt9/2Bh47W4cA48dvG5FbDtNQH/5897109fb0de6fc3125c0c35c4f60001/Hero_Art_Card_16x9.jpg?w=3840&q=90&fm=webp)
 
 [Introducing GPT-5.5Product18 min read](</index/introducing-gpt-5-5/>)
@@ -38,21 +44,25 @@ OpenAI
 
 [Introducing ChatGPT Images 2.0Product](</index/introducing-chatgpt-images-2-0/>)
 
+![OAI GPT-Realtime-2 Art Card 1x1](https://images.ctfassets.net/kftzwdyauwt9/4TtA6X4b6MbTFXSkoZXvqk/39930a05ebb333898ad1df6c28463465/OAI_GPT-Realtime-2_Art_Card_1x1.png?w=3840&q=90&fm=webp)
+
+[Advancing voice intelligence with new models in the APIProduct7 min read](</index/advancing-voice-intelligence-with-new-models-in-the-api/>)
+
 ![20250826](https://images.ctfassets.net/kftzwdyauwt9/2H347RfdThVOeTfSBchxDx/8a053f4cfa92faeed7141265dd02e7dd/20250826.jpg?w=3840&q=90&fm=webp)
 
 [GPT-5.5 Instant: smarter, clearer, and more personalizedProduct5 min read](</index/gpt-5-5-instant/>)
-
-![OAI Blog Agents Hero 1x1](https://images.ctfassets.net/kftzwdyauwt9/70CFPhmF2xCA4LB7KS3wCn/d79a86bd8ab1aaafdcf2052e3ee02ba1/OAI_Blog_Agents_Hero_1x1.png?w=3840&q=90&fm=webp)
-
-[Introducing workspace agents in ChatGPTProduct7 min read](</index/introducing-workspace-agents-in-chatgpt/>)
 
 ## Recent news
 
 [View more](</news/company-announcements/>)
 
+![Introducing Trusted Contact in ChatGPT > Art Card](https://images.ctfassets.net/kftzwdyauwt9/6cEIQkxxIQawI5tRwAwHPF/1eb5d89a9841b26aa45a1a71b534c409/ArtCard-Trusted-Contact-1080x1080.png?w=3840&q=90&fm=webp)
+
+[Introducing Trusted Contact in ChatGPTSafetyMay 7, 2026](</index/introducing-trusted-contact-in-chatgpt/>)
+
 ![What frontier enterprises do differently > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/4kKQaeWGl9atcyE51ri1ZW/3aa677511fa40bc0a4b089ef6cd9698f/Frame.png?w=3840&q=90&fm=webp)
 
-[How frontier enterprises are building an AI advantageCompanyMay 6, 2026](</index/introducing-b2b-signals/>)
+[How frontier firms are pulling aheadCompanyMay 6, 2026](</index/introducing-b2b-signals/>)
 
 ![New ways to buy ChatGPT ads > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/3Rxyg8znQWIKixzNDvJtEE/87399a6c50caa6aaadbd664409021f82/ArtCard-ChatGPT-Ads.png?w=3840&q=90&fm=webp)
 
@@ -69,16 +79,6 @@ OpenAI
 ![Amazon Bedrock > card image](https://images.ctfassets.net/kftzwdyauwt9/5DqGp6lqqjI16dbVGV51bh/424a7571ca3dd889488e3422753e4e44/oai-aws-1x1.png?w=3840&q=90&fm=webp)
 
 [OpenAI models, Codex, and Managed Agents come to AWSProductApr 28, 2026](</index/openai-on-aws/>)
-
-![Next Phase of MS OAI Partnership > card image](https://images.ctfassets.net/kftzwdyauwt9/6WWxPp3wjOGuogkWZBh89B/54c771f978bb831a0d90c0a9cff49ccc/oai-ms-1x1.png?w=3840&q=90&fm=webp)
-
-[The next phase of the Microsoft OpenAI partnershipCompanyApr 27, 2026](</index/next-phase-of-microsoft-partnership/>)
-
-What can I help with?
-
-Message ChatGPT
-
-[Learn about ChatGPT Business](</business/>)[Talk with ChatGPT](<https://chatgpt.com/?mode=voice>)[Research](</research/>)[API Platform](</api/>)More
 
 ## Stories
 

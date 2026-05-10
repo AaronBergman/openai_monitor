@@ -81,17 +81,17 @@ OpenAI
 
 [View all](</news/>)
 
-![System Card 1x1](https://images.ctfassets.net/kftzwdyauwt9/2VCkKLVmTyNs0XGbqdxGeA/33ff7738f4e795ae0ee41ed2b4a985d3/System_Card_1x1.jpg?w=3840&q=90&fm=webp)
+![Running Codex safely at OpenAI > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/76rTHgn2J3y6srtNd3ZrRs/71fc86af978baecda10b212fdb5d3609/Frame.png?w=3840&q=90&fm=webp)
 
-[GPT-5.5 Instant System CardSafetyMay 5, 2026](</index/gpt-5-5-instant-system-card/>)
+[Running Codex safely at OpenAISecurityMay 8, 2026](</index/running-codex-safely/>)
 
-![Introducing Advanced Account Security ](https://images.ctfassets.net/kftzwdyauwt9/4qS0zHVYqjyQCXbjR0GBgo/afaf8ff54069198f148dec57aa40461b/ArtCard-Introducing_Advanced_Account_Security_for_ChatGPT_accounts.png?w=3840&q=90&fm=webp)
+![Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber > Art Card Image](https://images.ctfassets.net/kftzwdyauwt9/6BHwtZlzRX7xMewO3wnC7d/b6e644be68469bc704bd3c99b13b42a8/art-card-trusted-access.png?w=3840&q=90&fm=webp)
 
-[Introducing Advanced Account SecurityProductApr 30, 2026](</index/advanced-account-security/>)
+[Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-CyberSecurityMay 7, 2026](</index/gpt-5-5-with-trusted-access-for-cyber/>)
 
-![community safety > card image](https://images.ctfassets.net/kftzwdyauwt9/4PQEkUjwzZCUh88wyOXoc9/d06376c2bc7249d357cbad6019ecccde/Frame.png?w=3840&q=90&fm=webp)
+![Introducing Trusted Contact in ChatGPT > Art Card](https://images.ctfassets.net/kftzwdyauwt9/6cEIQkxxIQawI5tRwAwHPF/1eb5d89a9841b26aa45a1a71b534c409/ArtCard-Trusted-Contact-1080x1080.png?w=3840&q=90&fm=webp)
 
-[Our commitment to community safetySafetyApr 28, 2026](</index/our-commitment-to-community-safety/>)
+[Introducing Trusted Contact in ChatGPTSafetyMay 7, 2026](</index/introducing-trusted-contact-in-chatgpt/>)
 
 Our Research
 

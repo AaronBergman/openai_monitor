@@ -46,6 +46,10 @@ Developers can now fine-tune GPT‑4o with images and text to improve vision cap
 
 Share
 
+** _Update on May 8, 2026_** _: OpenAI is winding down the fine-tuning platform. The platform is no longer accessible to new users but existing users of the fine-tuning platform will be able to create training jobs for the coming months. All fine-tuned models will remain available for inference until their base models are_[ _deprecated_ ⁠(opens in a new window)](<https://developers.openai.com/api/docs/deprecations>)_. The full timeline is_[ _here_ ⁠(opens in a new window)](<https://developers.openai.com/api/docs/deprecations>)_._
+
+* * *
+
 Today, we’re introducing [_vision fine-tuning_ ⁠(opens in a new window)](<http://platform.openai.com/docs/guides/fine-tuning/vision>) on GPT‑4o1, making it possible to fine-tune with images, in addition to text. Developers can customize the model to have stronger image understanding capabilities which enables applications like enhanced visual search functionality, improved object detection for autonomous vehicles or smart cities, and more accurate medical image analysis.
 
 Since we first introduced fine-tuning on GPT‑4o, hundreds of thousands of developers have customized our models using text-only datasets to improve performance on specific tasks. However, for many cases, fine-tuning models on text alone doesn’t provide the performance boost expected.
