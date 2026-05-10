@@ -38,6 +38,10 @@ Loading…
 
 Share
 
+** _Update on May 8, 2026_** _: OpenAI is winding down the fine-tuning platform. The platform is no longer accessible to new users but existing users of the fine-tuning platform will be able to create training jobs for the coming months. All fine-tuned models will remain available for inference until their base models are_[ _deprecated_ ⁠(opens in a new window)](<https://developers.openai.com/api/docs/deprecations>)_. The full timeline is_[ _here_ ⁠(opens in a new window)](<https://developers.openai.com/api/docs/deprecations>)_._
+
+* * *
+
 There are a [variety of techniques⁠(opens in a new window)](<https://www.youtube.com/watch?v=ahnGLM-RC1Y&list=PLOXw6I10VTv-exVCRuRjbT6bqkfO74rWz&index=4>) that developers can use to increase model performance in an effort to reduce latency, improve accuracy, and reduce costs. Whether it’s extending model knowledge with retrieval-augmented generation (RAG), customizing a model’s behavior with fine-tuning, or building a custom-trained model with new domain-specific knowledge, we have developed a range of options to support our customers’ AI implementations. Today, we’re launching new features to give developers more control over fine-tuning with the API and introducing more ways to work with our team of AI experts and researchers to build custom models.
 
 ## New fine-tuning API features

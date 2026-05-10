@@ -48,6 +48,10 @@ Loading…
 
 Share
 
+** _Update on May 8, 2026_** _: OpenAI is winding down the fine-tuning platform. The platform is no longer accessible to new users but existing users of the fine-tuning platform will be able to create training jobs for the coming months. All fine-tuned models will remain available for inference until their base models are_[ _deprecated_ ⁠(opens in a new window)](<https://developers.openai.com/api/docs/deprecations>)_. The full timeline is_[ _here_ ⁠(opens in a new window)](<https://developers.openai.com/api/docs/deprecations>)_._
+
+* * *
+
 Today, we’re launching fine-tuning for [_GPT‑4o_ ⁠](<https://openai.com/index/hello-gpt-4o/>), one of the most requested features from developers. We are also offering 1M training tokens per day for free for every organization through September 23.
 
 Developers can now fine-tune GPT‑4o with custom datasets to get higher performance at a lower cost for their specific use cases. Fine-tuning enables the model to customize structure and tone of responses, or to follow complex domain-specific instructions. Developers can already produce strong results for their applications with as little as a few dozen examples in their training data set.
