@@ -76,8 +76,6 @@ Expert content to spot AI opportunities and scale with confidence.
 
 Connect with other builders in person and online. Register for upcoming events like meetups, webinars, and AMAs.
 
-### [San Francisco Builder Lounge (May 7, 2026, 5pm PT, In-Person)Build alongside founders and developers at the OpenAI Builder Lounge with unlimited Codex access, OpenAI team Q&A, dinner, and demos.Sign Up Here](<https://luma.com/openai-builderlounge-sf-may7>)
-
 ### [Build Hour: GPT-Realtime-1.5 (May 12, 2026, 10am PT, Online)Create real-time voice applications using GPT-Realtime-1.5, our flagship audio model designed for voice agents and customer support systems.Tune In](<https://webinar.openai.com/buildhours/realtime/>)
 
 ### [OpenAI Codex Lab: Computer use, security, and new capabilities (May 19, 2026, 10am PT, Online)Build with Codex through GPT-5.5 updates, hands-on demos across computer use, security, UI testing, and dev workflow integrations, plus 201-level tips and live Q&A.Tune In](<https://openai.registration.goldcast.io/webinar/f4d5175f-233a-44f8-af6d-a7170dcf484c#Registration>)
@@ -94,6 +92,10 @@ Connect with other builders in person and online. Register for upcoming events l
 
 * * *
 
+![Parloa > Card](https://images.ctfassets.net/kftzwdyauwt9/79CIP6zYxNAKgc3cJfSimj/cd0b9187ba78aeca8088ba6c11ce8b7e/oai_Parloa_1x1.png?w=3840&q=90&fm=webp)
+
+[Parloa builds service agents customers want to talk toStartupMay 7, 2026](</index/parloa/>)
+
 ![oai GradientLabs 1x1](https://images.ctfassets.net/kftzwdyauwt9/5KZQBYyY2LBtllikqf9aul/6143158d9c259eed5aafb47cdac9bcdd/oai_GradientLabs_1x1.png?w=3840&q=90&fm=webp)
 
 [Gradient Labs gives every bank customer an AI account managerStartupApr 1, 2026](</index/gradient-labs/>)
@@ -105,10 +107,6 @@ Connect with other builders in person and online. Register for upcoming events l
 ![oai Praktika 1x1](https://images.ctfassets.net/kftzwdyauwt9/3eKqj0qRWjFon5U6cYkPqI/9b4f23cb7d154a7cb2ace1e8cff3d004/oai_Praktika_1x1.png?w=3840&q=90&fm=webp)
 
 [Inside Praktika's conversational approach to language learningStartupJan 22, 2026](</index/praktika/>)
-
-![Higgsfield > Card Image](https://images.ctfassets.net/kftzwdyauwt9/1QYuGKBKSzphKj2bCMG4Tp/aab097df8ead5298a1cbce05209801f7/oai_higgsfield_1x1.png?w=3840&q=90&fm=webp)
-
-[How Higgsfield turns simple ideas into cinematic social videosAPIJan 21, 2026](</index/higgsfield/>)
 
 ### You've got questions, we've got answers.
 

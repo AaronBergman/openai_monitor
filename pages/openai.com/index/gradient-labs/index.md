@@ -153,6 +153,10 @@ As models continue to improve, the range of procedures that can be safely automa
 
 [View all](</news/>)
 
+![Parloa > Card](https://images.ctfassets.net/kftzwdyauwt9/79CIP6zYxNAKgc3cJfSimj/cd0b9187ba78aeca8088ba6c11ce8b7e/oai_Parloa_1x1.png?w=3840&q=90&fm=webp)
+
+[Parloa builds service agents customers want to talk toStartupMay 7, 2026](</index/parloa/>)
+
 ![Descript > 1x1 Card](https://images.ctfassets.net/kftzwdyauwt9/7wL94yXvqYUEQRfOpp68V8/4f6d4a21db6e98ddb2352cbc52ac3b77/oai_descript_1x1.png?w=3840&q=90&fm=webp)
 
 [How Descript engineers multilingual video dubbing at scaleStartupMar 6, 2026](</index/descript/>)
@@ -160,10 +164,6 @@ As models continue to improve, the range of procedures that can be safely automa
 ![oai Praktika 1x1](https://images.ctfassets.net/kftzwdyauwt9/3eKqj0qRWjFon5U6cYkPqI/9b4f23cb7d154a7cb2ace1e8cff3d004/oai_Praktika_1x1.png?w=3840&q=90&fm=webp)
 
 [Inside Praktika's conversational approach to language learningStartupJan 22, 2026](</index/praktika/>)
-
-![Higgsfield > Card Image](https://images.ctfassets.net/kftzwdyauwt9/1QYuGKBKSzphKj2bCMG4Tp/aab097df8ead5298a1cbce05209801f7/oai_higgsfield_1x1.png?w=3840&q=90&fm=webp)
-
-[How Higgsfield turns simple ideas into cinematic social videosAPIJan 21, 2026](</index/higgsfield/>)
 
 Our Research
 

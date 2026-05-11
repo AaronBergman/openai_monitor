@@ -107,7 +107,7 @@ OpenAI
 
 [Running Codex safely at OpenAISecurityMay 8, 2026](</index/running-codex-safely/>)
 
-![Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber > Art Card Image](https://images.ctfassets.net/kftzwdyauwt9/6BHwtZlzRX7xMewO3wnC7d/b6e644be68469bc704bd3c99b13b42a8/art-card-trusted-access.png?w=3840&q=90&fm=webp)
+![Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber > Art Card Image](https://images.ctfassets.net/kftzwdyauwt9/6BHwtZlzRX7xMewO3wnC7d/c0331749e9a30c4861e063cb082abb53/Frame__10_.png?w=3840&q=90&fm=webp)
 
 [Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-CyberSecurityMay 7, 2026](</index/gpt-5-5-with-trusted-access-for-cyber/>)
 

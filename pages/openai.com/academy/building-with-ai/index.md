@@ -32,19 +32,19 @@ Build AI systems using tools, techniques, and real-world patterns.
 
 ![Academy building with AI landing page > Layout > Group > Topics > Cards > Grid > Codex for builders > Media > Asset](https://images.ctfassets.net/kftzwdyauwt9/kMKjSYknYr4Gf2gQtqjHO/310c67fa31b1791ba5ba1753a751336f/for-builders.png?w=3840&q=90&fm=webp)
 
-[Codex for buildersUsing Codex for real coding tasks and workflows.](<https://academy.openai.com/home/clubs/builders-etkn1/tags/codex-for-builders-69a092a5916a548dee49a6bd>)
+[Codex for buildersUsing Codex for real coding tasks and workflows.(opens in a new window)](<https://academy.openai.com/home/clubs/builders-etkn1/tags/codex-for-builders-69a092a5916a548dee49a6bd>)
 
 ![Academy building with AI landing page > Layout > Group > Topics > Cards > Grid > Technical learning tracks > Media > Asset](https://images.ctfassets.net/kftzwdyauwt9/55LIDFbkE55YVmGTtgvsKP/1eeb345e40fadae3c52419d1508077ef/technical-learning-tracks.png?w=3840&q=90&fm=webp)
 
-[Technical learning tracksStep-by-step tracks for building and using AI systems.](<https://academy.openai.com/home/clubs/builders-etkn1/tags/technical-learning-tracks-68a3cb3bb6735037ee532c79>)
+[Technical learning tracksStep-by-step tracks for building and using AI systems.(opens in a new window)](<https://academy.openai.com/home/clubs/builders-etkn1/tags/technical-learning-tracks-68a3cb3bb6735037ee532c79>)
 
 ![Academy building with AI landing page > Layout > Group > Topics > Cards > Grid > AI techniques > Media > Asset](https://images.ctfassets.net/kftzwdyauwt9/4dKFCy0mZpK1j5MfyBNL3p/08a0ce3067d2418be3bc7b848c02e09e/ai-techniques.png?w=3840&q=90&fm=webp)
 
-[AI techniquesMethods for building, prompting, and working with AI.](<https://academy.openai.com/home/clubs/builders-etkn1/tags/ai-techniques-6877d65781524bc22944d151>)
+[AI techniquesMethods for building, prompting, and working with AI.(opens in a new window)](<https://academy.openai.com/home/clubs/builders-etkn1/tags/ai-techniques-6877d65781524bc22944d151>)
 
 ![Academy building with AI landing page > Layout > Group > Topics > Cards > Grid > Solution packs and patterns > Media > Asset](https://images.ctfassets.net/kftzwdyauwt9/5xMpq7Q0JXMzdCm5GmMQc8/c32a4332c00d64537cc569e015587356/packs-patterns.png?w=3840&q=90&fm=webp)
 
-[Solution packs and patternsReusable patterns and solutions for real-world use.](<https://academy.openai.com/home/clubs/builders-etkn1/tags/solution-packs-and-patterns-68499fc6dfd75620a939e9eb>)
+[Solution packs and patternsReusable patterns and solutions for real-world use.(opens in a new window)](<https://academy.openai.com/home/clubs/builders-etkn1/tags/solution-packs-and-patterns-68499fc6dfd75620a939e9eb>)
 
 #### Explore more
 

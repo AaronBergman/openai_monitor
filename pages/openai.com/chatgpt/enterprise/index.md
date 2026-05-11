@@ -104,7 +104,7 @@ ChatGPT Enterprise
 
 Deploy enterprise-grade ChatGPT—powered by OpenAI’s industry-leading models, products, and expertise, and connected to your company’s data.
 
-[Contact sales](<https://chatgpt.com/contact-sales/>)[Contact sales](</contact-sales>)
+[Contact sales](</contact-sales>)
 
 ![A vertical toolbar with five icons \(peace sign, paintbrush, open book, alignment tool, and pencil with sparkle\) on a white, rounded panel. The background is a soft gradient of pink and orange, suggesting creative editing options.](https://images.ctfassets.net/kftzwdyauwt9/156wSXHPyFXNYE4YERzQ17/81b09ed99ca978c232e830a59e164344/Hero_Top_left.png?q=90&fm=webp)
 

@@ -132,21 +132,21 @@ Filter
 
 [STADLER reshapes knowledge work at a 230-year-old companyMar 27, 2026](</index/stadler/>)
 
-![oai wayfair 1x1](https://images.ctfassets.net/kftzwdyauwt9/1AHxshp97DsdLFaEA7wNFe/f11dd8a1aa25536c436b50c62fec9210/oai_wayfair_1x1.png?w=3840&q=90&fm=webp)
-
-[Wayfair boosts catalog accuracy and support speed with OpenAIMar 11, 2026](</index/wayfair/>)
-
 ![oai Rakuten 1x1](https://images.ctfassets.net/kftzwdyauwt9/5uPNx6tKKw9bfKsi7uepmm/9ac19cf10103ab0c10bd4407b7050e8b/oai_Rakuten_1x1.png?w=3840&q=90&fm=webp)
 
 [Rakuten fixes issues twice as fast with CodexMar 11, 2026](</index/rakuten/>)
 
-![oai Balyasny 1x1](https://images.ctfassets.net/kftzwdyauwt9/27WMGhOq82XBzmCqqaHy6q/a6d1207128885eae6b1ed73c43809dd5/oai_Balyasny_1x1.png?w=3840&q=90&fm=webp)
+![oai wayfair 1x1](https://images.ctfassets.net/kftzwdyauwt9/1AHxshp97DsdLFaEA7wNFe/f11dd8a1aa25536c436b50c62fec9210/oai_wayfair_1x1.png?w=3840&q=90&fm=webp)
 
-[How Balyasny Asset Management built an AI research engineMar 6, 2026](</index/balyasny-asset-management/>)
+[Wayfair boosts catalog accuracy and support speed with OpenAIMar 11, 2026](</index/wayfair/>)
 
 ![Descript > 1x1 Card](https://images.ctfassets.net/kftzwdyauwt9/7wL94yXvqYUEQRfOpp68V8/4f6d4a21db6e98ddb2352cbc52ac3b77/oai_descript_1x1.png?w=3840&q=90&fm=webp)
 
 [How Descript engineers multilingual video dubbing at scaleStartupMar 6, 2026](</index/descript/>)
+
+![oai Balyasny 1x1](https://images.ctfassets.net/kftzwdyauwt9/27WMGhOq82XBzmCqqaHy6q/a6d1207128885eae6b1ed73c43809dd5/oai_Balyasny_1x1.png?w=3840&q=90&fm=webp)
+
+[How Balyasny Asset Management built an AI research engineMar 6, 2026](</index/balyasny-asset-management/>)
 
 Load more
 

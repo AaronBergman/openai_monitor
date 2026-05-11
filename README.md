@@ -5,6 +5,41 @@ maintained by a Claude Code routine. Each run diffs the current sitemap
 against the prior one, fetches changed pages, and writes a plain-language
 summary that a smart layperson can follow.
 
+## 2026-05-11T09-15Z
+
+**Fetch time:** 2026-05-11T09:17:28Z UTC | **Baseline:** 2026-05-10T09-16Z
+
+**TL;DR:** This run catches up on activity from May 7–11. The most important developments: OpenAI launched **Trusted Contact** — a ChatGPT safety feature letting adults designate a trusted person to be notified in crisis situations — and **GPT‑5.5‑Cyber**, a specialized model for defenders of critical infrastructure. The **cookie policy** was updated to add `ads.openai.com` cookies, reflecting the ChatGPT ads rollout. The **OpenAI–Microsoft partnership was restructured**: Microsoft's API license is now non-exclusive, OpenAI can now serve all products on any cloud provider (not just Azure first), and Microsoft no longer pays OpenAI a revenue share. Two new pages appeared today (May 11): an enterprise scaling guide drawing on interviews with European executives, and an OpenAI Campus Network student club interest form. The bulk of the 122 lastmod updates are CMS metadata flushes across ~60 customer story pages with no content changes.
+
+### Anomalies
+
+None detected.
+
+### New Pages
+
+| Page | Date | Summary |
+|---|---|---|
+| [How enterprises are scaling AI](pages/openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai/index.md) | May 11 | Insights from European enterprise executives (Philips, BBVA, Mirakl, Scout24, JetBrains, Scania) on scaling AI. Five patterns: culture before tooling, governance as enabler, ownership over consumption, quality before scale, protecting judgment work. Downloadable PDF guide. |
+| [OpenAI Campus Network: Student club interest form](pages/openai.com/index/openai-campus-network-student-club-interest-form/index.md) | May 11 | OpenAI is partnering with student clubs at universities worldwide. Offers early access to tools, events support, and a global network of student leaders. |
+
+### Notable Updates
+
+- **Cookie policy revised** ([`/policies/cookie-policy/`](pages/openai.com/policies/cookie-policy/index.md)) — Updated May 6, 2026 (lastmod advanced from 2026-02-25 to 2026-05-08). Cookie table now lists `ads.openai.com` and `deploymentsafety.openai.com` as domains, reflecting the ads platform and deployment-safety features. Four other privacy/communications policy pages updated simultaneously on May 7.
+
+- **Microsoft partnership restructured** ([`/index/next-phase-of-microsoft-partnership/`](pages/openai.com/index/next-phase-of-microsoft-partnership/index.md)) — Lastmod refreshed to May 10. Key terms: Microsoft remains primary cloud partner with Azure-first commitment, but **OpenAI can now serve all products on any cloud**; Microsoft's license is now **non-exclusive**; Microsoft no longer pays revenue share to OpenAI; OpenAI's payments to Microsoft continue through 2030 with a total cap; Microsoft stays a major shareholder.
+
+- **Fine-tuning shutdown notices confirmed** — Three fine-tuning pages ([`gpt-4o-fine-tuning`](pages/openai.com/index/gpt-4o-fine-tuning/index.md), [`introducing-vision-to-the-fine-tuning-api`](pages/openai.com/index/introducing-vision-to-the-fine-tuning-api/index.md), [`introducing-improvements-to-the-fine-tuning-api`](pages/openai.com/index/introducing-improvements-to-the-fine-tuning-api-and-expanding-our-custom-models-program/index.md)) continue to carry the May 8 notice: *"OpenAI is winding down the fine-tuning platform. The platform is no longer accessible to new users."* Lastmod refreshed again today — no reversal.
+
+- **OpenAI Academy URL restructuring** — [`/academy/building-with-ai/`](pages/openai.com/academy/building-with-ai/index.md) and [`/academy/chatgpt-for-education/`](pages/openai.com/academy/chatgpt-for-education/index.md) updated: learning track links now point to `academy.openai.com/home/collections/...` instead of `/home/clubs/...` — internal URL migration, same content.
+
+- **Batch CMS refresh** — ~60 `/index/` customer story pages (Uber, Cisco, BBVA, Grab, Harvey, Klarna, etc.) all bumped to lastmod 2026-05-11 with no content changes. Routine metadata flush.
+
+**Stats:** 1289 total URLs | +2 added | 122 updated | -0 removed | 0 anomalies | 34 sub-sitemaps
+
+---
+
+
+
 ## 2026-05-10T09-16Z
 
 **Fetch time:** 2026-05-10T09:17:38Z UTC | **Baseline:** 2026-05-09T09-15Z
