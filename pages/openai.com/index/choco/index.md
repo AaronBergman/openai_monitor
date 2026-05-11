@@ -112,6 +112,12 @@ Implementation was fast and scalable. Using OpenAI’s SDKs and APIs, Choco rapi
 
 Adoption was driven by seamless integration across the entire ordering workflow. Customers didn’t need to change how they ordered—whether by phone, text, or email, the system adapted to them.
 
+> “Once customers saw it working with their own orders, trust followed quickly. That’s when adoption really accelerated.”
+
+—Daniel Khachab, Co-Founder & CEO
+
+With an optional “Autopilot” mode, distributors could automate order processing when confidence thresholds were met, while maintaining human review for edge cases. Over time, the system continuously learned from corrections, improving accuracy and reliability.
+
 ## Results at a glance
 
   * Processes over 8.8 million orders annually, eliminating millions of manual workflows
@@ -134,6 +140,10 @@ Adoption was driven by seamless integration across the entire ordering workflow.
 
 Choco is continuing to expand its AI capabilities across the food distribution ecosystem, deepening the role of agents in executing complex operational workflows. As AI systems take on more responsibility, the company is enabling a new class of users—non-engineers who act as “agent orchestrators,” designing and managing intelligent systems that drive business outcomes.
 
+> “We’re moving from software that supports work to systems that actually do the work. That shift lets our customers operate faster, leaner, and with far greater resilience.”
+
+—Daniel Khachab, Co-Founder & CEO
+
 Looking ahead, Choco plans to further scale its use of OpenAI APIs to power more autonomous, context-aware systems across sales, commerce, and supply chain operations—continuing its shift from workflow software to AI-powered execution infrastructure.
 
 ## Join the new era of work
@@ -144,17 +154,17 @@ More than 1 million businesses around the world are achieving meaningful results
 
 ## Keep reading
 
-![Futures 1 1](https://images.ctfassets.net/kftzwdyauwt9/7l4mPpfnMDZNfjmksyuILI/5e280d8d490f625b3fc414d9824e96ac/Futures_1_1.png?w=3840&q=90&fm=webp)
+![OpenAI Campus Network—Student Club Interest Form > card image](https://images.ctfassets.net/kftzwdyauwt9/3gVx8jMHtHwuFpYS10BWBF/b70c85eada669bdabf956c591dfe8bbf/OpenAI_Campus_Networkâ__Student_Club_Interest_Form_-_art_card.png?w=3840&q=90&fm=webp)
 
-[Introducing ChatGPT Futures: Class of 2026CompanyMay 6, 2026](</index/introducing-chatgpt-futures-class-of-2026/>)
+[OpenAI Campus Network: Student club interest formCompanyMay 11, 2026](</index/openai-campus-network-student-club-interest-form/>)
 
-![What frontier enterprises do differently > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/4kKQaeWGl9atcyE51ri1ZW/3aa677511fa40bc0a4b089ef6cd9698f/Frame.png?w=3840&q=90&fm=webp)
+![How enterprises are scaling AI > art card](https://images.ctfassets.net/kftzwdyauwt9/7bwFx4oZ7LkV7wTeDdAIbA/989f92a7be5c2bd36fafb94bbeef076f/Frame.png?w=3840&q=90&fm=webp)
 
-[How frontier enterprises are building an AI advantageCompanyMay 6, 2026](</index/introducing-b2b-signals/>)
+[ How enterprises are scaling AIGuidesMay 11, 2026](</business/guides-and-resources/how-enterprises-are-scaling-ai/>)
 
-![Uber customer story > 1x1 art card and hero image](https://images.ctfassets.net/kftzwdyauwt9/5jnteCaoVnc71jA02qX8gk/0f394157c43c443dd1523a7fab48bc69/oai_Uber_1x1.png?w=3840&q=90&fm=webp)
+![Running Codex safely at OpenAI > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/76rTHgn2J3y6srtNd3ZrRs/71fc86af978baecda10b212fdb5d3609/Frame.png?w=3840&q=90&fm=webp)
 
-[Uber uses OpenAI to help people earn smarter and book fasterMay 6, 2026](</index/uber/>)
+[Running Codex safely at OpenAISecurityMay 8, 2026](</index/running-codex-safely/>)
 
 Our Research
 

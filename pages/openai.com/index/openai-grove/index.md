@@ -52,17 +52,17 @@ OpenAI
 
 ## Keep reading
 
+![OpenAI Campus Network—Student Club Interest Form > card image](https://images.ctfassets.net/kftzwdyauwt9/3gVx8jMHtHwuFpYS10BWBF/b70c85eada669bdabf956c591dfe8bbf/OpenAI_Campus_Networkâ__Student_Club_Interest_Form_-_art_card.png?w=3840&q=90&fm=webp)
+
+[OpenAI Campus Network: Student club interest formCompanyMay 11, 2026](</index/openai-campus-network-student-club-interest-form/>)
+
+![How enterprises are scaling AI > art card](https://images.ctfassets.net/kftzwdyauwt9/7bwFx4oZ7LkV7wTeDdAIbA/989f92a7be5c2bd36fafb94bbeef076f/Frame.png?w=3840&q=90&fm=webp)
+
+[ How enterprises are scaling AIGuidesMay 11, 2026](</business/guides-and-resources/how-enterprises-are-scaling-ai/>)
+
 ![Running Codex safely at OpenAI > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/76rTHgn2J3y6srtNd3ZrRs/71fc86af978baecda10b212fdb5d3609/Frame.png?w=3840&q=90&fm=webp)
 
 [Running Codex safely at OpenAISecurityMay 8, 2026](</index/running-codex-safely/>)
-
-![Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber > Art Card Image](https://images.ctfassets.net/kftzwdyauwt9/6BHwtZlzRX7xMewO3wnC7d/b6e644be68469bc704bd3c99b13b42a8/art-card-trusted-access.png?w=3840&q=90&fm=webp)
-
-[Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-CyberSecurityMay 7, 2026](</index/gpt-5-5-with-trusted-access-for-cyber/>)
-
-![Parloa > Card](https://images.ctfassets.net/kftzwdyauwt9/79CIP6zYxNAKgc3cJfSimj/cd0b9187ba78aeca8088ba6c11ce8b7e/oai_Parloa_1x1.png?w=3840&q=90&fm=webp)
-
-[Parloa builds service agents customers want to talk toStartupMay 7, 2026](</index/parloa/>)
 
 Our Research
 

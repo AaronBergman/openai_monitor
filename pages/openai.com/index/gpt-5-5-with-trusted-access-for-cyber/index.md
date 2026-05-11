@@ -71,7 +71,7 @@ Here is a breakdown for how to think about the current trusted access levels:
 **Access**| **What changes**| **Intended use cases**  
 ---|---|---  
 GPT-5.5 (default)| Standard safeguards for general-purpose use| General-purpose, developer, and knowledge work  
-GPT-5.5 with TAC| More precise safeguards for verified defensive work in authorized environments| Most defensive security workflows, including secure code review, vulnerability triage, malware analysis, detection engineering, and patch validation  
+GPT-5.5 with Trusted Access for Cyber| More precise safeguards for verified defensive work in authorized environments| Most defensive security workflows, including secure code review, vulnerability triage, malware analysis, detection engineering, and patch validation  
 GPT-5.5-Cyber| Most permissive behavior for specialized authorized workflows, paired with stronger verification and account-level controls| Preview access for specialized workflows, including authorized red teaming, penetration testing, and controlled validation  
   
 The differences between model access levels are most pronounced when comparing prompts and responses. The first example illustrates how GPT‑5.5 compares to GPT‑5.5 with Trusted Access for Cyber on a defensive task: create a proof-of-concept from a published vulnerability to validate remediation within an authorized environment.

@@ -327,6 +327,10 @@ Learn how we help companies build scalable, responsible AI strategies.
 
 [View all](</news/>)
 
+![How enterprises are scaling AI > art card](https://images.ctfassets.net/kftzwdyauwt9/7bwFx4oZ7LkV7wTeDdAIbA/989f92a7be5c2bd36fafb94bbeef076f/Frame.png?w=3840&q=90&fm=webp)
+
+[ How enterprises are scaling AIGuidesMay 11, 2026](</business/guides-and-resources/how-enterprises-are-scaling-ai/>)
+
 ![State of Enterprise AI 2025 > cover image](https://images.ctfassets.net/kftzwdyauwt9/1zzmHm4xiyh99UAioTRe3o/448a21b0cb11cfbdf90198f231ee7bff/homepage_feature_v2.png?w=3840&q=90&fm=webp)
 
 [The state of enterprise AIGuidesDec 17, 2025](</business/guides-and-resources/the-state-of-enterprise-ai-2025-report/>)

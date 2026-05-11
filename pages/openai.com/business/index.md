@@ -34,12 +34,6 @@ OpenAI's frontier models help your business create, code, and innovate with conf
 
 [Try now(opens in a new window)](<https://chatgpt.com/team-sign-up>)[Contact sales](</contact-sales/>)
 
-## Enterprise-ready solutions for real impact
-
-[See all solutions](</solutions/>)
-
-Use casesIndustriesBlueprints
-
 ### ChatGPT for Business
 
 Empower your entire workforce with frontier AI.
