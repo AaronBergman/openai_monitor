@@ -78,7 +78,6 @@ AI solutions for
     * [Business](</business/business-plan/>)
     * [Enterprise](</business/enterprise/>)
     * [Higher Education](</business/education/>)
-    * [K–12 Teachers](</plans/k12-teachers/>)
 
   * [Download](</download/>)
 

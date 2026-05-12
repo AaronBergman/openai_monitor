@@ -5,6 +5,51 @@ maintained by a Claude Code routine. Each run diffs the current sitemap
 against the prior one, fetches changed pages, and writes a plain-language
 summary that a smart layperson can follow.
 
+## 2026-05-12T09-15Z
+
+**Two major platform launches dominated today's update: OpenAI officially entered the enterprise cybersecurity market with "Daybreak" — a branded AI-powered vulnerability scanning and cyber defense product — and launched the OpenAI Deployment Company, a new $4 billion majority-owned subsidiary that embeds specialized engineers directly inside enterprises to deploy AI into production workflows.** Together, these represent OpenAI's most significant structural expansion beyond selling model access: it is now offering a named security product and a professional-services company. A batch of 174 page updates accompanied the launches, mostly bulk CMS refreshes across customer stories and global-affairs content, but one notable change was the removal of the K–12 Teachers plan link from the ChatGPT pricing page.
+
+### Anomalies
+
+None detected.
+
+### New Pages
+
+**[OpenAI Daybreak](pages/openai.com/daybreak/index.md)** — A new cybersecurity product combining GPT-5.5, the Codex agentic harness, and security industry partners. It positions OpenAI as an active participant in enterprise cyber defense: finding and patching code vulnerabilities, threat modeling, and remediation at scale. Three model access tiers are offered: standard GPT-5.5, "Trusted Access for Cyber" (for verified defensive security work), and "GPT-5.5-Cyber" (preview access for red teaming and penetration testing). Trust partners listed include Cloudflare, Cisco, CrowdStrike, Palo Alto Networks, Oracle, Zscaler, Akamai, and Fortinet. A [lead-gen form](pages/openai.com/daybreak/request-a-vulnerability-scan/index.md) lets organizations request a vulnerability scan.
+
+**[OpenAI Launches the Deployment Company](pages/openai.com/index/openai-launches-the-deployment-company/index.md)** (dated May 11, 2026) — OpenAI is launching a new majority-owned subsidiary ("DeployCo") to embed Forward Deployed Engineers (FDEs) inside enterprises. It simultaneously announced the acquisition of Tomoro, an applied AI consulting firm (~150 engineers), whose clients include Tesco, Virgin Atlantic, and Supercell. Initial investment exceeds $4 billion, led by TPG with co-leads Advent, Bain Capital, and Brookfield. Consulting partners Bain & Company, Capgemini, and McKinsey & Company are included. The [companion business page](pages/openai.com/business/the-openai-deployment-company/index.md) describes the FDE model: embedding engineers to redesign critical workflows from diagnostic through production deployment.
+
+**[Signals Q1 2026 Research Update](pages/openai.com/signals/research/2026q1-update/index.md)** — OpenAI's economic research arm published Q1 2026 ChatGPT consumer adoption data. Users with typically feminine names now account for over half of gender-inferable users. Over-35 users gained share. Fastest-growing countries by per-capita usage include Dominican Republic, Haiti, Japan, Mexico, and Tanzania — showing broadening beyond Western markets. This page was published within minutes of the monitoring run.
+
+### Notable Updates
+
+**`/chatgpt/pricing/`** — The K–12 Teachers plan link (`/plans/k12-teachers/`) was **removed** from the pricing page navigation. This is a product-tier change affecting educational access visibility on the main pricing page.
+
+**`/business/frontier/`** — Updated to explicitly reference the new OpenAI Deployment Company, replacing "OpenAI Forward Deployed Engineers" with a link to the DeployCo page and adding text explaining the subsidiary's purpose.
+
+**`/about/`** — News carousel rotated; "Advancing voice intelligence with new models in the API" is now the lead story.
+
+**Cyber content sweep (08:33–08:35Z)**: Three cybersecurity pages (`/index/cybersecurity-in-the-intelligence-age/`, `/index/accelerating-cyber-defense-ecosystem/`, `/index/gpt-5-5-with-trusted-access-for-cyber/`) were refreshed in a tight window just before the Daybreak product pages were published — part of a coordinated launch sequence.
+
+### Removals
+
+None.
+
+### Stats
+
+| Metric | Value |
+|--------|-------|
+| Total URLs | 1,294 |
+| Added | 5 |
+| Updated | 174 |
+| Removed | 0 |
+| Anomalies | 0 |
+| Sub-sitemaps | 34 |
+
+Full analysis: [runs/2026-05-12T09-15Z/analysis.md](runs/2026-05-12T09-15Z/analysis.md)
+
+---
+
 ## 2026-05-11T09-15Z
 
 **Fetch time:** 2026-05-11T09:17:28Z UTC | **Baseline:** 2026-05-10T09-16Z

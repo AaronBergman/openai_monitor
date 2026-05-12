@@ -103,7 +103,9 @@ Accelerating call centers with a global AI service layer.
 
 ## Expertise alongside your center of excellence
 
-The Enterprise Frontier Program pairs OpenAI Forward Deployed Engineers with your team to design architectures, operationalize governance, and run agents in production—establishing repeatable patterns your team can own and extend over time.
+Enterprise Frontier Program pairs forward deployed engineers from [The OpenAI Deployment Company ](</business/the-openai-deployment-company/>)with your team to design architectures, operationalize governance, and run agents in production—establishing repeatable patterns your team can own and extend over time.
+
+The OpenAI Deployment Company exists to help organizations bring frontier AI into production and turn it into measurable business impact. Our teams embed directly with enterprises to integrate AI into critical systems, workflows, and decision processes, helping organizations move faster from pilots to production.
 
 ![Circular diagram illustrating a feedback loop between Research, Platform, and Deployment around a central circle labeled “Compounding enterprise advantage.” Arrows show how real-world usage informs research, research improves the platform, and a shared foundation accelerates AI deployments.](https://images.ctfassets.net/kftzwdyauwt9/4GjHz9xyfZnn7bIk9okYaM/b502086b0cf13861af6fa5853170fbc5/Group_2147261789.png?w=3840&q=90&fm=webp)
 
