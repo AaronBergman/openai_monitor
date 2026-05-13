@@ -60,9 +60,9 @@ We deploy Codex with a simple principle that it should be productive inside a bo
 
 Approvals and sandboxing work together. The sandbox defines the technical execution boundary, including where Codex can write, whether it can reach the network, and which paths remain protected. Approval policy determines when Codex must ask to perform an action, such as when it needs to do something outside of the sandbox. Users can approve the action once, or approve that type of action for that session.
 
-For routine approval requests, we are using [Auto-review mode⁠(opens in a new window)](<https://alignment.openai.com/auto-review/>), which is a feature that, when turned on, auto-approves certain kinds of requests to reduce how often users have to stop and approve Codex actions. Codex sends the planned action and recent context to the auto-approval subagent, which can automatically approve low-risk actions instead of interrupting the user. That keeps Codex moving on routine work while still stopping on higher-risk or actions with unintended consequences.
+For requests that cross the sandbox boundary, we are using [_Auto-review mode_ ⁠(opens in a new window)](<https://alignment.openai.com/auto-review/>), which is a feature that, when turned on, auto-approves certain kinds of requests to reduce how often users have to stop and approve Codex actions. Codex sends the planned action and recent context to the auto-approval subagent, which can automatically approve low-risk actions—or high-risk actions with sufficient level of user authorization—instead of interrupting the user. That keeps Codex moving on routine work while still stopping on higher-risk or actions with unintended consequences.
 
-#### Plain Text
+#### TOML
 
 `
     
@@ -120,7 +120,7 @@ For routine approval requests, we are using [Auto-review mode⁠(opens in a new 
 
 We do not run Codex with open-ended outbound access. Our managed network policy allows expected destinations, blocks destinations we do not want Codex reaching, and requires approval for unfamiliar domains. That lets Codex complete common, known-good workflows without giving it broad network access.
 
-#### Plain Text
+#### TOML
 
 `
     
@@ -189,7 +189,7 @@ We do not run Codex with open-ended outbound access. Our managed network policy 
 
 We also manage how Codex authenticates. CLI and MCP OAuth credentials are stored in the secure OS keyring, login is forced through ChatGPT, and access is pinned to our ChatGPT enterprise workspace. That keeps Codex usage tied to our workspace-level controls and makes Codex activity available in the ChatGPT Compliance Logs Platform for our enterprise workspace.
 
-#### Plain Text
+#### TOML
 
 `
     
@@ -241,7 +241,7 @@ We also manage how Codex authenticates. CLI and MCP OAuth credentials are stored
 
 We use rules so Codex does not treat every shell command as equally safe. Common benign commands that engineers use in day-to-day development are allowed without approval outside of the sandbox and specific dangerous commands can be blocked or require approval. That lets Codex move quickly through ordinary engineering tasks while still forcing review or blocking patterns we do not want to run outside the sandbox.
 
-#### Plain Text
+#### Starlark
 
 `
     
@@ -307,7 +307,7 @@ Control is only half the job. Once agents are deployed, security teams need visi
 
 Codex can give security teams a more agent-aware view. Codex supports OpenTelemetry log export for various Codex events such as user prompts, tool approval decisions, tool execution results, MCP server usage, and network proxy allow or deny events. Codex activity logs are also available through the OpenAI Compliance Platform for Enterprise and Edu customers.
 
-#### Plain Text
+#### TOML
 
 `
     

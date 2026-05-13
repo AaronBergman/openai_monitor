@@ -45,7 +45,7 @@ Simplex is using ChatGPT Enterprise and Codex to validate AI-driven development 
 
 ![White ‘Simplex Inc.’ serif logo centered on a dark, textured black surface background.](https://images.ctfassets.net/kftzwdyauwt9/7EYQLHWSLyDPZipWsruW76/8e0295766071c4d5b21e07fcb7b85996/oai_simplex_1x1.png?w=3840&q=90&fm=webp)
 
-Company size: Enterprise
+Company size: Mid-market
 
 Region: Asia-Pacific & Oceania
 
@@ -141,17 +141,17 @@ More than 1 million businesses around the world are achieving meaningful results
 
 ## Keep reading
 
-![Running Codex safely at OpenAI > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/76rTHgn2J3y6srtNd3ZrRs/71fc86af978baecda10b212fdb5d3609/Frame.png?w=3840&q=90&fm=webp)
+![Top 10 uses for Codex at work > card image](https://images.ctfassets.net/kftzwdyauwt9/23Axi2CAv85jqsBMZ98fAI/230757b8f4bcdc4de4ec24c50da3f5be/top-10-at-work.png?w=3840&q=90&fm=webp)
 
-[Running Codex safely at OpenAISecurityMay 8, 2026](</index/running-codex-safely/>)
+[How finance teams use CodexOpenAI AcademyMay 12, 2026](</academy/how-finance-teams-use-codex/>)
 
-![Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber > Art Card Image](https://images.ctfassets.net/kftzwdyauwt9/6BHwtZlzRX7xMewO3wnC7d/b6e644be68469bc704bd3c99b13b42a8/art-card-trusted-access.png?w=3840&q=90&fm=webp)
+![oai NVIDIA 1x1](https://images.ctfassets.net/kftzwdyauwt9/18GHaprA4I94HFrlZcgTxf/2f7dbfc079311cddbe6a76d22a9341b2/oai_NVIDIA_1x1.png?w=3840&q=90&fm=webp)
 
-[Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-CyberSecurityMay 7, 2026](</index/gpt-5-5-with-trusted-access-for-cyber/>)
+[How NVIDIA engineers and researchers build with CodexMay 12, 2026](</index/nvidia/>)
 
-![Parloa > Card](https://images.ctfassets.net/kftzwdyauwt9/79CIP6zYxNAKgc3cJfSimj/cd0b9187ba78aeca8088ba6c11ce8b7e/oai_Parloa_1x1.png?w=3840&q=90&fm=webp)
+![1 1](https://images.ctfassets.net/kftzwdyauwt9/6eaq9qftNBJJjryJnZGVRj/991b778132f449626fb9c768001f9009/1_1.png?w=3840&q=90&fm=webp)
 
-[Parloa builds service agents customers want to talk toStartupMay 7, 2026](</index/parloa/>)
+[What Parameter Golf taught usResearchMay 12, 2026](</index/what-parameter-golf-taught-us/>)
 
 Our Research
 

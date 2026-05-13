@@ -111,17 +111,17 @@ OpenAI
 
 [View all](</news/>)
 
-![What frontier enterprises do differently > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/4kKQaeWGl9atcyE51ri1ZW/3aa677511fa40bc0a4b089ef6cd9698f/Frame.png?w=3840&q=90&fm=webp)
+![OpenAI Campus Network—Student Club Interest Form > card image](https://images.ctfassets.net/kftzwdyauwt9/3gVx8jMHtHwuFpYS10BWBF/b70c85eada669bdabf956c591dfe8bbf/OpenAI_Campus_Networkâ__Student_Club_Interest_Form_-_art_card.png?w=3840&q=90&fm=webp)
 
-[How frontier enterprises are building an AI advantageCompanyMay 6, 2026](</index/introducing-b2b-signals/>)
+[OpenAI Campus Network: Student club interest formCompanyMay 11, 2026](</index/openai-campus-network-student-club-interest-form/>)
 
-![Futures 1 1](https://images.ctfassets.net/kftzwdyauwt9/7l4mPpfnMDZNfjmksyuILI/5e280d8d490f625b3fc414d9824e96ac/Futures_1_1.png?w=3840&q=90&fm=webp)
+![Frame \(5\)](https://images.ctfassets.net/kftzwdyauwt9/7KSkm3PHZ9SkIuuLVSqYvW/7944afb1603557d260415b456aea2779/Frame__5_.png?w=3840&q=90&fm=webp)
 
-[Introducing ChatGPT Futures: Class of 2026CompanyMay 6, 2026](</index/introducing-chatgpt-futures-class-of-2026/>)
+[OpenAI launches the OpenAI Deployment Company to help businesses build around intelligenceCompanyMay 11, 2026](</index/openai-launches-the-deployment-company/>)
 
-![Next Phase of MS OAI Partnership > card image](https://images.ctfassets.net/kftzwdyauwt9/6WWxPp3wjOGuogkWZBh89B/54c771f978bb831a0d90c0a9cff49ccc/oai-ms-1x1.png?w=3840&q=90&fm=webp)
+![OAI AdsTest Blog ArtCard 1x1](https://images.ctfassets.net/kftzwdyauwt9/7drPwCnD6ied4wPzlJd7qa/d79ccfda974080bbca7d688ad9bcbc6f/OAI_AdsTest_Blog_ArtCard_1x1.png?w=3840&q=90&fm=webp)
 
-[The next phase of the Microsoft OpenAI partnershipCompanyApr 27, 2026](</index/next-phase-of-microsoft-partnership/>)
+[Testing ads in ChatGPTCompanyMay 7, 2026](</index/testing-ads-in-chatgpt/>)
 
 Our Research
 

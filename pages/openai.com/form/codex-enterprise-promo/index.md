@@ -26,48 +26,57 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-November 19, 2025
+## Get Codex for your enterprise, free
 
-[Publication](</research/index/publication/>)[Safety](</news/safety-alignment/>)
+Bring Codex to more builders across your company. For the next 30 days, new Codex users on eligible enterprise accounts can get two months of free Codex usage. Tell us a little about your organization and our team will help route your request.
 
-# GPT‑5.1‑Codex‑Max System Card
+First name *
 
-[Read the System Card(opens in a new window)](<https://deploymentsafety.openai.com/gpt-5-1-codex-max>)
+Last name *
 
-Share
+Work email address *
 
-## Introduction
+Company name *
 
-GPT‑5.1‑Codex‑Max is our new frontier agentic coding model. It is built on an update to our foundational reasoning model trained on agentic tasks across software engineering, math, research, medicine, computer use and more. It is our first model natively trained to operate across multiple context windows through a process called compaction, coherently working over millions of tokens in a single task. Like its predecessors, GPT‑5.1‑Codex‑Max was trained on real-world software engineering tasks like PR creation, code review, frontend coding and Q&A.
+Are you currently an OpenAI customer? *
 
-This system card outlines the comprehensive safety measures implemented for GPT‑5.1-Codex-Max. It details both model-level mitigations, such as specialized safety training for harmful tasks and prompt injections, and product-level mitigations like agent sandboxing and configurable network access.
+Yes
 
-GPT‑5.1‑Codex‑Max was evaluated under our Preparedness Framework. It is very capable in the cybersecurity domain but does not reach High capability on cybersecurity. We expect current trends of rapidly increasing capability to continue, and for models to cross the High cybersecurity threshold in the near future. Like other recent models, it is being treated as High capability on biology, and is being deployed with the corresponding suite of safeguards we use for GPT‑5. It does not reach High capability on AI self-improvement.
+No
 
-  * [2025](</research/index/?tags=2025>)
-  * [System Cards](</research/index/?tags=system-cards>)
+Not sure
 
+Do you already work with an OpenAI account team? *
 
+Yes
 
-## Author
+No
 
-OpenAI
+Not sure
 
-## Keep reading
+Approximately how many new Codex users are you interested in adding? *
 
-[View all](</news/>)
+1-24
 
-![Running Codex safely at OpenAI > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/76rTHgn2J3y6srtNd3ZrRs/71fc86af978baecda10b212fdb5d3609/Frame.png?w=3840&q=90&fm=webp)
+25-99
 
-[Running Codex safely at OpenAISecurityMay 8, 2026](</index/running-codex-safely/>)
+100-499
 
-![Introducing Trusted Contact in ChatGPT > Art Card](https://images.ctfassets.net/kftzwdyauwt9/6cEIQkxxIQawI5tRwAwHPF/1eb5d89a9841b26aa45a1a71b534c409/ArtCard-Trusted-Contact-1080x1080.png?w=3840&q=90&fm=webp)
+500+
 
-[Introducing Trusted Contact in ChatGPTSafetyMay 7, 2026](</index/introducing-trusted-contact-in-chatgpt/>)
+Not sure yet
 
-![System Card 1x1](https://images.ctfassets.net/kftzwdyauwt9/2VCkKLVmTyNs0XGbqdxGeA/33ff7738f4e795ae0ee41ed2b4a985d3/System_Card_1x1.jpg?w=3840&q=90&fm=webp)
+What would you like help with? *
 
-[GPT-5.5 Instant System CardSafetyMay 5, 2026](</index/gpt-5-5-instant-system-card/>)
+Learn whether my organization is eligible for the Codex promo
+
+Get connected with the right OpenAI team
+
+Explore Codex for my enterprise more broadly
+
+Anything else you'd like us to know?
+
+Submit
 
 Our Research
 

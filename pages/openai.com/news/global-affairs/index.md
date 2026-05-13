@@ -50,9 +50,17 @@ Switch cards to show Media
 
 Switch cards to hide Media
 
+![CA Privacy > card img](https://images.ctfassets.net/kftzwdyauwt9/3lWXxBR8sZQiOsh6oNJHf9/f7d47996c9f425621016ea27f3b8ad4e/how-chatgpt-protects-privacy-1_1.png?w=3840&q=90&fm=webp)
+
+[How ChatGPT learns about the world while protecting privacy Global AffairsMay 6, 2026](</index/how-chatgpt-protects-privacy/>)
+
 ![What frontier enterprises do differently > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/4kKQaeWGl9atcyE51ri1ZW/3aa677511fa40bc0a4b089ef6cd9698f/Frame.png?w=3840&q=90&fm=webp)
 
-[How frontier enterprises are building an AI advantageCompanyMay 6, 2026](</index/introducing-b2b-signals/>)
+[How frontier firms are pulling aheadCompanyMay 6, 2026](</index/introducing-b2b-signals/>)
+
+![Advancing youth safety and wellbeing in EMEA > art card](https://images.ctfassets.net/kftzwdyauwt9/1iBPaxiGXSQUckSa1YNVB8/ea878f485d3ea1b8978451a90d316dba/Frame__20_.png?w=3840&q=90&fm=webp)
+
+[Advancing youth safety and wellbeing in EMEASafetyMay 5, 2026](</index/advancing-youth-safety-in-emea/>)
 
 ![OpenAI and PwC collaborate > Card Image](https://images.ctfassets.net/kftzwdyauwt9/6wn2wKTtoQqG8KwxsOYSZY/839c16e046322c6117810a569cc80540/Frame.png?w=3840&q=90&fm=webp)
 
@@ -62,7 +70,7 @@ Switch cards to hide Media
 
 [Building the compute infrastructure for the Intelligence AgeGlobal AffairsApr 29, 2026](</index/building-the-compute-infrastructure-for-the-intelligence-age/>)
 
-![Cybersecurity in the Intelligence Age > Cover](https://images.ctfassets.net/kftzwdyauwt9/35g40K8HHuADEDF7IwCMCT/550bcb17e6c7d91c38eec9148beddd2a/Cybersecurity_in_the_Intelligence_Age_1x1.png?w=3840&q=90&fm=webp)
+![Cybersecurity in the Intelligence Age > Cover](https://images.ctfassets.net/kftzwdyauwt9/35g40K8HHuADEDF7IwCMCT/2237007c711eb46c1d3f3b2c7307fc01/Frame__11_.png?w=3840&q=90&fm=webp)
 
 [Cybersecurity in the Intelligence AgeGlobal AffairsApr 29, 2026](</index/cybersecurity-in-the-intelligence-age/>)
 
@@ -77,16 +85,6 @@ Switch cards to hide Media
 ![Cloudflare OpenAI art card 1x1](https://images.ctfassets.net/kftzwdyauwt9/6g5hzhOoHM68zGjNYQ5H1D/344bc6c2f06a8b0793e9becffd4c8bc9/Cloudflare_OpenAI_art_card_1x1.png?w=3840&q=90&fm=webp)
 
 [Enterprises power agentic workflows in Cloudflare Agent Cloud with OpenAI Global AffairsApr 13, 2026](</index/cloudflare-openai-agent-cloud/>)
-
-![Child safety blueprint > card image](https://images.ctfassets.net/kftzwdyauwt9/5zGHUj1XpRugjiLTazgjCE/711bf4de1f14a1b2708ab1279a4a1b0e/Frame__9_.png?w=3840&q=90&fm=webp)
-
-[Introducing the Child Safety BlueprintSafetyApr 8, 2026](</index/introducing-child-safety-blueprint/>)
-
-![Frame](https://images.ctfassets.net/kftzwdyauwt9/5PD5E0PhvNP8ogbhvNxdKF/42a592f5b93580d940065610304c3f22/Frame.png?w=3840&q=90&fm=webp)
-
-Industrial policy for the Intelligence Age
-
-[Industrial policy for the Intelligence AgeGlobal AffairsApr 6, 2026](</index/industrial-policy-for-the-intelligence-age/>)
 
 Load more
 

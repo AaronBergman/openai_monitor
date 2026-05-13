@@ -130,17 +130,17 @@ OpenAI
 
 [View all](</news/>)
 
-![What frontier enterprises do differently > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/4kKQaeWGl9atcyE51ri1ZW/3aa677511fa40bc0a4b089ef6cd9698f/Frame.png?w=3840&q=90&fm=webp)
+![Running Codex safely at OpenAI > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/76rTHgn2J3y6srtNd3ZrRs/71fc86af978baecda10b212fdb5d3609/Frame.png?w=3840&q=90&fm=webp)
 
-[How frontier enterprises are building an AI advantageCompanyMay 6, 2026](</index/introducing-b2b-signals/>)
+[Running Codex safely at OpenAISecurityMay 8, 2026](</index/running-codex-safely/>)
 
-![System Card 1x1](https://images.ctfassets.net/kftzwdyauwt9/2VCkKLVmTyNs0XGbqdxGeA/33ff7738f4e795ae0ee41ed2b4a985d3/System_Card_1x1.jpg?w=3840&q=90&fm=webp)
+![Introducing Trusted Contact in ChatGPT > Art Card](https://images.ctfassets.net/kftzwdyauwt9/6cEIQkxxIQawI5tRwAwHPF/1eb5d89a9841b26aa45a1a71b534c409/ArtCard-Trusted-Contact-1080x1080.png?w=3840&q=90&fm=webp)
 
-[GPT-5.5 Instant System CardSafetyMay 5, 2026](</index/gpt-5-5-instant-system-card/>)
+[Introducing Trusted Contact in ChatGPTSafetyMay 7, 2026](</index/introducing-trusted-contact-in-chatgpt/>)
 
-![OpenAI and PwC collaborate > Card Image](https://images.ctfassets.net/kftzwdyauwt9/6wn2wKTtoQqG8KwxsOYSZY/839c16e046322c6117810a569cc80540/Frame.png?w=3840&q=90&fm=webp)
+![CA Privacy > card img](https://images.ctfassets.net/kftzwdyauwt9/3lWXxBR8sZQiOsh6oNJHf9/f7d47996c9f425621016ea27f3b8ad4e/how-chatgpt-protects-privacy-1_1.png?w=3840&q=90&fm=webp)
 
-[OpenAI and PwC collaborate to reimagine the office of the CFOGlobal AffairsMay 4, 2026](</index/openai-pwc-finance-collaboration/>)
+[How ChatGPT learns about the world while protecting privacy Global AffairsMay 6, 2026](</index/how-chatgpt-protects-privacy/>)
 
 Our Research
 

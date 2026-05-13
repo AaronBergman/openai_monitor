@@ -28,7 +28,7 @@ OpenAI
 
 Table of contents
 
-  * 1\. Create a daily chief of staff
+  * 1\. Create a daily work brief
   * 2\. Weekly summary
   * 3\. Draft slide decks
   * 4\. Research to decision memo
@@ -55,7 +55,7 @@ Share
 
 You’ve seen what Codex can do. Now it’s time to put it to work. These use cases show how to use Codex to do real work: create deliverables, pull together context from multiple tools, take action on real inputs, and move tasks forward faster. Start with the generic prompt if you want something you can use right away, then use the customization suggestions and example to make it your own.
 
-## 1\. Create a daily chief of staff
+## 1\. Create a daily work brief
 
 #### Why people use this
 
@@ -285,9 +285,9 @@ Discover additional guides and resources to help you build practical AI skills.
 
 [View all](</news/>)
 
-![What is Codex? > card image](https://images.ctfassets.net/kftzwdyauwt9/1UmriWebOfrrf0B43OooqE/973b3b7ee2ac96e537f2efb697c2f69c/what-is-codex.png?w=3840&q=90&fm=webp)
+![Top 10 uses for Codex at work > card image](https://images.ctfassets.net/kftzwdyauwt9/23Axi2CAv85jqsBMZ98fAI/230757b8f4bcdc4de4ec24c50da3f5be/top-10-at-work.png?w=3840&q=90&fm=webp)
 
-[What is Codex?OpenAI AcademyApr 23, 2026](</academy/what-is-codex/>)
+[How finance teams use CodexOpenAI AcademyMay 12, 2026](</academy/how-finance-teams-use-codex/>)
 
 ![Automations > card image](https://images.ctfassets.net/kftzwdyauwt9/WWbNfZvQUCV942pR9wPFw/69567e99135e87f695b94809ac026162/automations.png?w=3840&q=90&fm=webp)
 

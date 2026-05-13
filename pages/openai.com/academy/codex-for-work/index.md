@@ -72,6 +72,10 @@ Do your most ambitious work from start to finish.
 
 [Top 10 uses for Codex at workExplore 10 practical ways to use Codex for writing, synthesis, planning, research, and repeatable work.](</academy/top-10-use-cases-codex-for-work/>)
 
+![Top 10 uses for Codex at work > card image](https://images.ctfassets.net/kftzwdyauwt9/23Axi2CAv85jqsBMZ98fAI/230757b8f4bcdc4de4ec24c50da3f5be/top-10-at-work.png?w=3840&q=90&fm=webp)
+
+[How finance teams use CodexSee how finance teams can use Codex to build review-ready assets for monthly business reviews, reporting, variance analysis, and planning.](</academy/how-finance-teams-use-codex/>)
+
 ## Learn through events and workshops
 
 Join live and on-demand sessions to see Codex in action, explore real business workflows, and learn practical ways to use it in your work.

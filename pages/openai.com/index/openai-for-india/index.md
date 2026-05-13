@@ -92,17 +92,17 @@ _“India is already leading the way in AI adoption, and with its homegrown tech
 
 [View all](</news/>)
 
+![CA Privacy > card img](https://images.ctfassets.net/kftzwdyauwt9/3lWXxBR8sZQiOsh6oNJHf9/f7d47996c9f425621016ea27f3b8ad4e/how-chatgpt-protects-privacy-1_1.png?w=3840&q=90&fm=webp)
+
+[How ChatGPT learns about the world while protecting privacy Global AffairsMay 6, 2026](</index/how-chatgpt-protects-privacy/>)
+
 ![What frontier enterprises do differently > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/4kKQaeWGl9atcyE51ri1ZW/3aa677511fa40bc0a4b089ef6cd9698f/Frame.png?w=3840&q=90&fm=webp)
 
-[How frontier enterprises are building an AI advantageCompanyMay 6, 2026](</index/introducing-b2b-signals/>)
+[How frontier firms are pulling aheadCompanyMay 6, 2026](</index/introducing-b2b-signals/>)
 
-![OpenAI and PwC collaborate > Card Image](https://images.ctfassets.net/kftzwdyauwt9/6wn2wKTtoQqG8KwxsOYSZY/839c16e046322c6117810a569cc80540/Frame.png?w=3840&q=90&fm=webp)
+![Advancing youth safety and wellbeing in EMEA > art card](https://images.ctfassets.net/kftzwdyauwt9/1iBPaxiGXSQUckSa1YNVB8/ea878f485d3ea1b8978451a90d316dba/Frame__20_.png?w=3840&q=90&fm=webp)
 
-[OpenAI and PwC collaborate to reimagine the office of the CFOGlobal AffairsMay 4, 2026](</index/openai-pwc-finance-collaboration/>)
-
-![Building the compute infrastructure for the Intelligence Age > Cover](https://images.ctfassets.net/kftzwdyauwt9/3YIKMdykxSwjeXudXfZUDk/614af02ee41e3088620c44b9e8bc5439/Frame__6_.png?w=3840&q=90&fm=webp)
-
-[Building the compute infrastructure for the Intelligence AgeGlobal AffairsApr 29, 2026](</index/building-the-compute-infrastructure-for-the-intelligence-age/>)
+[Advancing youth safety and wellbeing in EMEASafetyMay 5, 2026](</index/advancing-youth-safety-in-emea/>)
 
 Our Research
 

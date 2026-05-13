@@ -458,6 +458,10 @@ Learn how we help companies build scalable, responsible AI strategies.
 
 [View all](</news/>)
 
+![How enterprises are scaling AI > art card](https://images.ctfassets.net/kftzwdyauwt9/7bwFx4oZ7LkV7wTeDdAIbA/989f92a7be5c2bd36fafb94bbeef076f/Frame.png?w=3840&q=90&fm=webp)
+
+[ How enterprises are scaling AIGuidesMay 11, 2026](</business/guides-and-resources/how-enterprises-are-scaling-ai/>)
+
 ![Business guides > Layout > Carousel > ChatGPT usage and adoption patterns at work > media > asset](https://images.ctfassets.net/kftzwdyauwt9/2rUSG4XSMDGLJMBdfgtVH/97f5474b4822fccb60211817a5cceb65/chatgpt-usage-and-adoption-patterns-at-work-IMAGE.png?w=3840&q=90&fm=webp)
 
 [ChatGPT usage and adoption patterns at workGuidesJan 22, 2026](</business/guides-and-resources/chatgpt-usage-and-adoption-patterns-at-work/>)
