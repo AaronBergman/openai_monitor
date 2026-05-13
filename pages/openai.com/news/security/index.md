@@ -50,6 +50,14 @@ Switch cards to show Media
 
 Switch cards to hide Media
 
+![Running Codex safely at OpenAI > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/76rTHgn2J3y6srtNd3ZrRs/71fc86af978baecda10b212fdb5d3609/Frame.png?w=3840&q=90&fm=webp)
+
+[Running Codex safely at OpenAISecurityMay 8, 2026](</index/running-codex-safely/>)
+
+![Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber > Art Card Image](https://images.ctfassets.net/kftzwdyauwt9/6BHwtZlzRX7xMewO3wnC7d/c0331749e9a30c4861e063cb082abb53/Frame__10_.png?w=3840&q=90&fm=webp)
+
+[Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-CyberSecurityMay 7, 2026](</index/gpt-5-5-with-trusted-access-for-cyber/>)
+
 ![Introducing Advanced Account Security ](https://images.ctfassets.net/kftzwdyauwt9/4qS0zHVYqjyQCXbjR0GBgo/afaf8ff54069198f148dec57aa40461b/ArtCard-Introducing_Advanced_Account_Security_for_ChatGPT_accounts.png?w=3840&q=90&fm=webp)
 
 [Introducing Advanced Account SecurityProductApr 30, 2026](</index/advanced-account-security/>)
@@ -77,14 +85,6 @@ Switch cards to hide Media
 ![Codex doesn't include SAST > art card ](https://images.ctfassets.net/kftzwdyauwt9/7aHFwQE8dl2qvEQi2aCZRR/4fa59e0ba84107ddc3c864eeb7ebb183/OAI_Why_Codex_Security_Doesnâ__t_Include_a_SAST_Report_Art_Card_1x1.png?w=3840&q=90&fm=webp)
 
 [Why Codex Security Doesn’t Include a SAST ReportProductMar 16, 2026](</index/why-codex-security-doesnt-include-sast/>)
-
-![Designing AI agents to resist prompt injection > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/1RDYuyU2BwlcY8yLsH8Ba8/cdea28b67da58dd9ab0e7d236bd149a4/OAI_Designing_AI_agentsto_resist_prompt_injection_Art_Card_1x1.png?w=3840&q=90&fm=webp)
-
-[Designing AI agents to resist prompt injectionSecurityMar 11, 2026](</index/designing-agents-to-resist-prompt-injection/>)
-
-![oai Blog Codex Security Art Card 1x1](https://images.ctfassets.net/kftzwdyauwt9/5BrJdBcEkCtafmi26Ib87o/594a2f25a926334519716cbe2c722594/oai_Blog_Codex_Security_Art_Card_1x1.png?w=3840&q=90&fm=webp)
-
-[Codex Security: now in research previewProductMar 6, 2026](</index/codex-security-now-in-research-preview/>)
 
 Load more
 

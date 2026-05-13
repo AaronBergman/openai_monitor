@@ -13,7 +13,7 @@ from datetime import datetime, timezone
 from pathlib import Path
 from urllib.parse import urlsplit
 
-import httpx
+from curl_cffi import requests as cffi_requests
 
 # Add tools to path
 sys.path.insert(0, str(Path(__file__).parent))
@@ -31,8 +31,8 @@ def sanitize_filename(url: str) -> str:
     return re.sub(r"[^A-Za-z0-9._-]", "_", url).strip("._") + ".xml"
 
 
-def fetch_xml(url: str, client: httpx.Client) -> str:
-    r = client.get(url, follow_redirects=True)
+def fetch_xml(url: str, client=None) -> str:
+    r = cffi_requests.get(url, impersonate="chrome", timeout=30, allow_redirects=True)
     r.raise_for_status()
     return r.text
 
@@ -104,8 +104,7 @@ def main():
 
     # --- STEP 2: Fetch + snapshot ---
     print("Fetching sitemap index...")
-    with httpx.Client(timeout=30, headers={"User-Agent": "Mozilla/5.0 (compatible; openai-monitor/1.0)"}) as client:
-        root_xml = fetch_xml("https://openai.com/sitemap.xml", client)
+    root_xml = fetch_xml("https://openai.com/sitemap.xml")
 
     # Save root index
     sitemap_dir = REPO_ROOT / "sitemaps/openai.com"
@@ -128,8 +127,7 @@ def main():
 
     def fetch_sub(sub_url):
         fname = sanitize_filename(sub_url)
-        with httpx.Client(timeout=30, headers={"User-Agent": "Mozilla/5.0 (compatible; openai-monitor/1.0)"}) as c:
-            xml_text = fetch_xml(sub_url, c)
+        xml_text = fetch_xml(sub_url)
         return sub_url, fname, xml_text
 
     with ThreadPoolExecutor(max_workers=10) as executor:

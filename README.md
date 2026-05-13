@@ -5,6 +5,70 @@ maintained by a Claude Code routine. Each run diffs the current sitemap
 against the prior one, fetches changed pages, and writes a plain-language
 summary that a smart layperson can follow.
 
+## 2026-05-13T09-15Z
+
+**Fetch time:** 2026-05-13T09:19:46Z UTC | **Baseline:** 2026-05-12T09-15Z
+
+**TL;DR:** Today's dominant story is a large sitemap restructure: OpenAI quietly dropped two "internal-use" sub-sitemaps that housed 152 B2B customer-story and brand-story URLs, de-indexing 121 enterprise case-study pages (Stripe, Klarna, Morgan Stanley, Cisco, Canva, Uber, Zendesk, and many more) while migrating 31 others into purpose-named sub-sitemaps. The net result is a leaner sitemap — 1,178 URLs, down from 1,294 — and those customer stories are no longer surfaced to search engines via the sitemap. Separately, a burst of five new Codex-focused pages signals an accelerating push: NVIDIA and AutoScout24 published case studies featuring Codex with GPT‑5.5, OpenAI added a finance-teams Codex guide, and the results of the "Parameter Golf" ML competition were published.
+
+### Anomalies
+
+Two form pages have `lastmod` timestamps set to within 160 milliseconds of our fetch time — in other words, to the instant the sitemap was generated. This is a CMS artifact where the sitemap generator writes the current timestamp as `lastmod` on every build for these pages, rather than recording a genuine edit time. Both timestamps are functionally simultaneous with the fetch, not evidence of a real future modification.
+
+- **future_lastmod** (CMS artifact): `https://openai.com/form/chatgpt-pro-community/` — lastmod `2026-05-13T09:19:46.160Z` vs. fetch at `2026-05-13T09:19:46Z` (160 ms gap)
+- **future_lastmod** (CMS artifact): `https://openai.com/form/100-chats-book-request/` — lastmod `2026-05-13T09:19:46.096Z` vs. fetch at `2026-05-13T09:19:46Z` (96 ms gap)
+
+### Sitemap Restructure: 121 Customer Stories De-indexed
+
+OpenAI's sitemap index dropped from 34 to 32 sub-sitemaps. The two removed sub-sitemaps — named `internal-use-show-on-b2b-customer-stories-hub` and `internal-use-show-on-brand-stories-hub` — were internal-facing classification buckets that contained 152 total URLs. Of those:
+
+- **31 URLs were migrated** to appropriate product-branded sub-sitemaps (`brand-stories-chatgpt`, `brand-stories-api`, `sora`, `startup`, `api`, `page`) — mostly GPT-5 / o1 brand stories and startup spotlights.
+- **121 URLs were completely removed** from the sitemap. These are predominantly older B2B enterprise customer-story pages. The pages may still exist on the site, but search engines will no longer find them via the sitemap. Representative removals include:
+
+  - Finance: `morgan-stanley`, `klarna`, `stripe`, `bny`, `singular-bank`, `balyasny-asset-management`
+  - Enterprise SaaS: `salesforce`, `cisco`, `zendesk`, `datadog`, `intercom`, `retool`, `typeform`, `notion`
+  - Consumer / retail: `canva`, `uber`, `doordash`, `booking-com`, `wayfair`, `estee-lauder`, `lowes`
+  - Healthcare / life-sciences: `moderna`, `philips`, `lifespan`, `color-health`, `promega`, `genmab`
+  - Education / government: `khan-academy`, `state-of-minnesota`, `government-of-iceland`, `duolingo`, `asu`
+  - Japanese companies: `mixi`, `ly-corporation`, `cyberagent`, `dai-nippon-printing`, `eneos-materials`, `taisei`, `zenken`, `mercari`
+  - Many others (see [runs/2026-05-13T09-15Z/diff.json](runs/2026-05-13T09-15Z/diff.json) for the full list)
+
+Last snapshots of these pages remain in git history under `pages/openai.com/index/<slug>/index.md`.
+
+### New Pages (Codex Push)
+
+**[How Finance Teams Use Codex](pages/openai.com/academy/how-finance-teams-use-codex/index.md)** — A new OpenAI Academy guide covering 10 detailed Codex use cases tailored to finance teams: monthly business review narratives, variance analysis, planning, and reporting. Includes copy-ready prompts and suggestions for Codex skills/plugins across a finance tech stack. Published ~05:00 UTC May 13.
+
+**[AutoScout24 Customer Story](pages/openai.com/index/autoscout24/index.md)** — Europe's largest online car marketplace (~30 M monthly users, 2,000 employees) adopted Codex for its ~1,000 engineering/data/product builders after a three-month evaluation. ChatGPT was deployed company-wide for AI literacy; Codex handles complex coding tasks in daily engineering workflows. Published ~06:45 UTC May 13.
+
+**[NVIDIA Customer Story](pages/openai.com/index/nvidia/index.md)** — NVIDIA's coding-agents team and AI researchers use Codex with **GPT‑5.5** for production engineering and ML research loops. The page directly quotes NVIDIA engineers praising GPT-5.5's autonomy and tool selection. Key quote: "GPT-5.5 has been a massive unlock as a creative partner, especially when it comes to knowledge work." This is one of the clearest public endorsements of GPT-5.5 from a named enterprise. Published ~06:44 UTC May 13.
+
+**[What Parameter Golf Taught Us](pages/openai.com/index/what-parameter-golf-taught-us/index.md)** — Post-competition analysis of OpenAI's "Parameter Golf" ML challenge (1,000+ participants, 2,000+ submissions). Covers record-track highlights (novel training optimizations), non-record creative approaches (non-autoregressive text modeling, dynamic tokenization), and lessons learned from running the challenge with coding agents. Published ~08:29 UTC May 13.
+
+**[Codex Enterprise Promo Form](pages/openai.com/form/codex-enterprise-promo/index.md)** — A new lead-generation form for enterprise Codex interest. Published ~08:48 UTC May 13.
+
+### Notable Page Updates (130 total)
+
+The 130 updated pages span routine CMS refresh timestamps and genuine edits. Highlights:
+
+- **`/business/guides-and-resources/the-state-of-enterprise-ai-2025-report/`** — Content grew from 38,341 to 38,635 chars; the enterprise AI report was expanded.
+- **`/business/guides-and-resources/staying-ahead-in-the-age-of-ai/`** — Grew from 24,175 to 24,469 chars.
+- **`/business/guides-and-resources/a-practical-guide-to-building-ai-agents/`** — Shrank from 39,340 to 39,156 chars (some content removed from the agents guide).
+- **`/amex-chatgpt-business/`** — Grew from 7,942 to 8,357 chars (the American Express co-branded ChatGPT page expanded).
+- **`/academy/codex-for-work/`** and **`/academy/codex-how-to-start/`** — Both expanded, consistent with the Codex content push.
+- **`/news/company-announcements/`**, **`/news/engineering/`**, **`/news/product-releases/`**, **`/news/safety-alignment/`**, **`/news/global-affairs/`**, **`/news/security/`** — All hub index pages refreshed.
+- Many `/global-affairs/` articles and `/index/` pages had bulk lastmod refreshes with unchanged content (CMS publish-wave artifact).
+
+### Removed from Sitemap (121 URLs)
+
+All 121 removed URLs are B2B enterprise and consumer customer-story pages at `openai.com/index/<company-name>/`. These were classified under the now-dropped `internal-use-show-on-b2b-customer-stories-hub` sub-sitemap. The pages are still in the git snapshot archive. A selection:
+
+`ada`, `altera`, `arco-education`, `asu`, `axios-allison-murphy`, `balyasny-asset-management`, `basis`, `bbva`, `bbva-2025`, `be-my-eyes`, `blue-j`, `bny`, `booking-com`, `canva`, `canva-cam-adams`, `chime-vineet-mehra`, `choco`, `cisco`, `clay`, `cna-walter-fernandez`, `coderabbit`, `color-health`, `commonwealth-bank-of-australia`, `consensus`, `cyberagent`, `dai-nippon-printing`, `datadog`, `decagon`, `digital-green`, `doordash-mariana-garavaglia`, `doppel`, `duolingo`, `eliseai-minna-song`, `endex`, `eneos-materials`, `estee-lauder`, `expedia-jochen-koedijk`, `factory`, `fanatics-betting-gaming-andrea-ellis`, `figma-david-kossnick`, `genmab`, `genspark`, `government-of-iceland`, `grab`, `harvey`, `healthify`, `hebbia`, `hibob`, `holiday-extras`, `hygh`, `indeed`, `indeed-maggie-hulce`, `intercom`, `invideo-ai`, `ironclad`, `jetbrains`, `jetbrains-2025`, `khan-academy`, `klarna`, `launchdarkly-claire-vo`, `lifespan`, `lowes`, `lowes-chandhu-nair`, `ly-corporation`, `match-group`, `mavenagi`, `mercado-libre`, `mercari`, `mirakl`, `mixi`, `moderna`, `morgan-stanley`, `netomi`, `neurogum`, `notion`, `nubank`, `oscar`, `outtake`, `paf`, `paradigm`, `philips`, `plex-coffee`, `podium`, `promega`, `retell-ai`, `retool`, `rogo`, `rox`, `safetykit`, `salesforce`, `san-antonio-spurs`, `scania`, `schoolai`, `scout24`, `singular-bank`, `stadler`, `state-of-minnesota`, `steuerrecht`, `stripe`, `summer-health`, `superhuman`, `taisei`, `trustbank`, `typeform`, `uber`, `uber-enables-outstanding-experiences`, `unify`, `upwork`, `vfl-wolfsburg`, `viable`, `wayfair`, `waymark`, `whoop`, `wix`, `wrtn`, `yabble`, `zalando`, `zelma`, `zendesk`, `zenken`, `10bedicu`
+
+**Stats:** 1,178 total URLs | +5 added | 130 updated | −121 removed | 2 anomalies (CMS artifacts) | 32 sub-sitemaps (was 34)
+
+---
+
 ## 2026-05-12T09-15Z
 
 **Two major platform launches dominated today's update: OpenAI officially entered the enterprise cybersecurity market with "Daybreak" — a branded AI-powered vulnerability scanning and cyber defense product — and launched the OpenAI Deployment Company, a new $4 billion majority-owned subsidiary that embeds specialized engineers directly inside enterprises to deploy AI into production workflows.** Together, these represent OpenAI's most significant structural expansion beyond selling model access: it is now offering a named security product and a professional-services company. A batch of 174 page updates accompanied the launches, mostly bulk CMS refreshes across customer stories and global-affairs content, but one notable change was the removal of the K–12 Teachers plan link from the ChatGPT pricing page.

@@ -30,7 +30,7 @@ Select language
 
 …
 
-Published: April 14, 2026
+Updated: May 11, 2026
 
 # Commerce policies
 
@@ -42,7 +42,7 @@ OpenAI reserves the right to remove products or sellers, and to restrict commerc
 
 ## Prohibited products and services
 
-#### Adult content & gambling
+#### Adult content and gambling
 
   * **Pornography or explicit sexual content** , including paid adult subscriptions, explicit video, or sites whose primary purpose is sexual arousal.
   * **Adult sexual products** , including sex toys and fetish-focused products.
@@ -50,7 +50,7 @@ OpenAI reserves the right to remove products or sellers, and to restrict commerc
 
 
 
-#### Drugs, medications & supplements
+#### Drugs‚ medications‚ and supplements
 
   * **Illegal or regulated drugs** , including cannabis/THC products, psychedelics, and similar controlled substances.
   * **Drug paraphernalia** primarily intended to produce, prepare, or consume controlled substances.
@@ -58,24 +58,26 @@ OpenAI reserves the right to remove products or sellers, and to restrict commerc
 
 
 
-#### Illicit goods
+#### Illicit and sensitive goods
 
   * **Counterfeit products** or replicas that infringe trademarks.
   * **Tools that facilitate financial fraud** , such as card skimmers or synthetic-ID tools.
   * **Pirated content or piracy-enabling tools** , including unauthorized streaming content and cracked software keys.
   * **Stolen goods** or items sold without clear provenance.
   * **Wildlife or environmental contraband** , including items restricted under conservation laws.
+  * **Products designed to evade laws,** regulations, testing, anti-theft measures, or required safety or compliance controls, or to **impersonate law enforcement** , emergency services, or government officials.
+  * **Human body parts** , remains, tissue, teeth, blood, breast milk, and other bodily fluids, including products made from or containing them.
 
 
 
-#### Surveillance, malware & unauthorized access
+#### Surveillance‚ malware‚ and unauthorized access
 
   * **Malware, spyware, or hacking tools** intended to gain unauthorized access, exfiltrate data, or control devices without consent.
   * **Covert surveillance or tracking equipment** marketed for clandestine monitoring or unauthorized access.
 
 
 
-#### Tobacco, nicotine & alcohol
+#### Tobacco‚ nicotine‚ and alcohol
 
   * **Alcoholic beverages** (over 0.5% ABV) or kits enabling distillation.
   * **Tobacco products** , including cigarettes, cigars, and smokeless tobacco.
@@ -83,13 +85,20 @@ OpenAI reserves the right to remove products or sellers, and to restrict commerc
 
 
 
-#### Weapons & harmful materials
+#### Weapons and harmful materials
 
   * **Firearms, ammunition, and firearm accessories** , including “80%” receivers and magazines.
   * **Explosives and explosive-related items** , including certain fireworks, blasting caps, and bomb precursors.
   * **Illegal or age-restricted weapons** where restricted by law (e.g., certain knives, brass knuckles, batons, or crossbows where prohibited).
   * **Self-defense weapons** (e.g., pepper spray, stun guns, tasers), given legal restrictions in many jurisdictions.
   * **Extremist merchandise or propaganda** that glorifies or supports violent extremist ideologies or designated terrorist groups.
+
+
+
+#### Recalled and unsafe products
+
+  * Recalled or unsafe products, including items subject to a manufacturer or government recall, stop-sale order, market withdrawal, safety alert, or similar official action based on product safety concerns.
+  * Products that present a clear serious safety hazard, especially for babies, children, or other vulnerable groups.
 
 
 

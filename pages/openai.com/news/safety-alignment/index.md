@@ -50,9 +50,21 @@ Switch cards to show Media
 
 Switch cards to hide Media
 
+![Running Codex safely at OpenAI > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/76rTHgn2J3y6srtNd3ZrRs/71fc86af978baecda10b212fdb5d3609/Frame.png?w=3840&q=90&fm=webp)
+
+[Running Codex safely at OpenAISecurityMay 8, 2026](</index/running-codex-safely/>)
+
+![Introducing Trusted Contact in ChatGPT > Art Card](https://images.ctfassets.net/kftzwdyauwt9/6cEIQkxxIQawI5tRwAwHPF/1eb5d89a9841b26aa45a1a71b534c409/ArtCard-Trusted-Contact-1080x1080.png?w=3840&q=90&fm=webp)
+
+[Introducing Trusted Contact in ChatGPTSafetyMay 7, 2026](</index/introducing-trusted-contact-in-chatgpt/>)
+
 ![System Card 1x1](https://images.ctfassets.net/kftzwdyauwt9/2VCkKLVmTyNs0XGbqdxGeA/33ff7738f4e795ae0ee41ed2b4a985d3/System_Card_1x1.jpg?w=3840&q=90&fm=webp)
 
 [GPT-5.5 Instant System CardSafetyMay 5, 2026](</index/gpt-5-5-instant-system-card/>)
+
+![Advancing youth safety and wellbeing in EMEA > art card](https://images.ctfassets.net/kftzwdyauwt9/1iBPaxiGXSQUckSa1YNVB8/ea878f485d3ea1b8978451a90d316dba/Frame__20_.png?w=3840&q=90&fm=webp)
+
+[Advancing youth safety and wellbeing in EMEASafetyMay 5, 2026](</index/advancing-youth-safety-in-emea/>)
 
 ![community safety > card image](https://images.ctfassets.net/kftzwdyauwt9/4PQEkUjwzZCUh88wyOXoc9/d06376c2bc7249d357cbad6019ecccde/Frame.png?w=3840&q=90&fm=webp)
 
@@ -73,18 +85,6 @@ Switch cards to hide Media
 ![Scaling our trusted access program for cyber defense 1x1](https://images.ctfassets.net/kftzwdyauwt9/50UlqbAamecQ6xsNAt3Qu0/8f6f87823b796b6860606a4a42efe4af/Scaling_our_trusted_access_program_for_cyber_defense_1x1.png?w=3840&q=90&fm=webp)
 
 [Trusted access for the next era of cyber defenseSecurityApr 14, 2026](</index/scaling-trusted-access-for-cyber-defense/>)
-
-![Child safety blueprint > card image](https://images.ctfassets.net/kftzwdyauwt9/5zGHUj1XpRugjiLTazgjCE/711bf4de1f14a1b2708ab1279a4a1b0e/Frame__9_.png?w=3840&q=90&fm=webp)
-
-[Introducing the Child Safety BlueprintSafetyApr 8, 2026](</index/introducing-child-safety-blueprint/>)
-
-![Introducing OpenAI Safety Fellowship > card image](https://images.ctfassets.net/kftzwdyauwt9/RIbHNOYdnwvrNGikxakXh/379a08cf8bc590a31270dc0d68802736/Frame__6_.png?w=3840&q=90&fm=webp)
-
-[Introducing the OpenAI Safety FellowshipSafetyApr 6, 2026](</index/introducing-openai-safety-fellowship/>)
-
-![Safety bug bounty > art card](https://images.ctfassets.net/kftzwdyauwt9/7djcETUqkUKMajmtUkeB7d/789b2e6b98a4cfab5e8c75249b295618/Frame__3_.png?w=3840&q=90&fm=webp)
-
-[Introducing the OpenAI Safety Bug Bounty programSafetyMar 25, 2026](</index/safety-bug-bounty/>)
 
 Load more
 
