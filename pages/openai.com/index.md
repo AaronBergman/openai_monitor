@@ -26,6 +26,12 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
+What can I help with?
+
+Message ChatGPT
+
+[Learn about ChatGPT Business](</business/>)[Talk with ChatGPT](<https://chatgpt.com/?mode=voice>)[Research](</research/>)[API Platform](</api/>)More
+
 ![""](https://images.ctfassets.net/kftzwdyauwt9/2Bh47W4cA48dvG5FbDtNQH/5897109fb0de6fc3125c0c35c4f60001/Hero_Art_Card_16x9.jpg?w=3840&q=90&fm=webp)
 
 [Introducing GPT-5.5Product18 min read](</index/introducing-gpt-5-5/>)
@@ -73,12 +79,6 @@ OpenAI
 ![Amazon Bedrock > card image](https://images.ctfassets.net/kftzwdyauwt9/5DqGp6lqqjI16dbVGV51bh/424a7571ca3dd889488e3422753e4e44/oai-aws-1x1.png?w=3840&q=90&fm=webp)
 
 [OpenAI models, Codex, and Managed Agents come to AWSProductApr 28, 2026](</index/openai-on-aws/>)
-
-What can I help with?
-
-Message ChatGPT
-
-[Talk with ChatGPT](<https://chatgpt.com/?mode=voice>)[Research](</research/>)[API Platform](</api/>)[Stories](</stories/>)More
 
 ## Stories
 
