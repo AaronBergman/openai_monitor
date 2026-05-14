@@ -5,6 +5,45 @@ maintained by a Claude Code routine. Each run diffs the current sitemap
 against the prior one, fetches changed pages, and writes a plain-language
 summary that a smart layperson can follow.
 
+## 2026-05-14T09-15Z
+
+**Fetch time:** 2026-05-14T09:15:53Z UTC | **Baseline:** 2026-05-13T09-15Z
+
+**TL;DR:** The headline today is a security disclosure: OpenAI published a detailed account of how two employee laptops were infected via the "Mini Shai-Hulud" supply chain attack against the TanStack npm library on May 11, exposing limited internal source code and code-signing certificates for iOS, macOS, and Windows apps. No user data was compromised, but **macOS users must update all OpenAI apps by June 12, 2026** or they will stop working. Two other new pages arrived alongside it: a deep-dive engineering post explaining how OpenAI built a custom Windows sandbox for the Codex coding agent, and a refreshed co-branded American Express page (the old `/amex-chatgpt-business/` URL was retired and replaced with `/business/amex-chatgpt-business-credit/` offering $300/year in statement credits for Amex Business Platinum/Gold cardholders). 340 URL timestamps refreshed but a representative sample shows no substantive content changes.
+
+### Anomalies
+
+Two existing pages show `lastmod` timestamps ~15–22 seconds ahead of our fetch time — a benign race condition where the CMS updated those pages' timestamps while the sitemap was mid-generation:
+
+- **near-future_lastmod** (CMS timing): `https://openai.com/index/accelerating-cyber-defense-ecosystem/` — lastmod `2026-05-14T09:16:15Z` vs. fetch at `2026-05-14T09:15:53Z` (22 sec gap)
+- **near-future_lastmod** (CMS timing): `https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber/` — lastmod `2026-05-14T09:16:11Z` vs. fetch at `2026-05-14T09:15:53Z` (18 sec gap)
+
+Both are known, existing cybersecurity-related pages. These are the same pages whose related-article carousels were updated to surface today's new security disclosure.
+
+### New Pages (3 added)
+
+**[Our Response to the TanStack npm Supply Chain Attack](pages/openai.com/index/our-response-to-the-tanstack-npm-supply-chain-attack/index.md)** — A security disclosure published May 13, 2026. The "Mini Shai-Hulud" attack compromised the TanStack npm library; two OpenAI employee devices were infected, leading to unauthorized access of a limited set of internal source code repositories. Code-signing certificates for iOS, macOS, and Windows were included in the exposed repos. OpenAI found no evidence of user data exposure or production system compromise. Key user action: **macOS users must update ChatGPT Desktop, Codex App, Codex CLI, and Atlas by June 12, 2026** — apps signed with the old certificate will stop launching after that date when it is revoked. (Windows and iOS users need not act.) OpenAI notes this is a repeat pattern, referencing the prior "Axios incident," and is accelerating supply-chain defenses.
+
+**[Building a Safe, Effective Sandbox to Enable Codex on Windows](pages/openai.com/index/building-codex-windows-sandbox/index.md)** — An engineering deep-dive by David Wiesen (Member of Technical Staff), published May 13, 2026. Before this work, Windows Codex users had to choose between approving every agent command (tedious) or granting full access (risky). The post walks through why Windows AppContainer, Windows Sandbox VM, and Mandatory Integrity Control labeling were all unsuitable, then describes the two-phase custom sandbox OpenAI built — starting with an "unelevated sandbox" using ACLs and low-integrity tokens, then redesigning as an "elevated sandbox" for better enterprise compatibility. The result brings Windows Codex to parity with macOS/Linux: writes limited to the workspace, no internet by default, without admin prompts.
+
+**[The First-of-Its-Kind ChatGPT Business Credit (Amex)](pages/openai.com/business/amex-chatgpt-business-credit/index.md)** — A refreshed co-branded landing page for American Express Business Platinum and Business Gold cardholders, offering up to $300/year in statement credits on US purchases of ChatGPT Business. This page replaces the old `/amex-chatgpt-business/` URL (removed), moving the content into the `/business/` URL hierarchy and adding specific "Business Credit" framing. Survey data cited: 87% of small business owners using AI save time, 81% reduce manual work, 73% improve productivity (Amex Trendex).
+
+### Removed from Sitemap (1)
+
+- **`https://openai.com/amex-chatgpt-business/`** — Retired and replaced by `https://openai.com/business/amex-chatgpt-business-credit/` (see above). Last known lastmod: 2026-05-12T16:14:03Z.
+
+### Notable Page Updates
+
+The homepage (`https://openai.com/`) received a minor CTA update: the hero section's quick-access button row now leads with a new **"Learn about ChatGPT Business"** link and dropped the **"Stories"** shortcut. The row now reads: Learn about ChatGPT Business | Talk with ChatGPT | Research | API Platform.
+
+The related-article carousels on the cybersecurity pages `/index/gpt-5-5-with-trusted-access-for-cyber/` and `/index/accelerating-cyber-defense-ecosystem/` were refreshed to surface today's two new security/engineering posts (TanStack and Codex Windows Sandbox) in place of older articles.
+
+All other 340 URL timestamp changes appear to be CMS cache-invalidation artifacts (zero substantive content changes found in the representative sample tested).
+
+**Stats:** 1,301 total URLs | +3 added | 340 updated (lastmod) | −1 removed | 2 anomalies (benign timing) | 32 sub-sitemaps
+
+---
+
 ## 2026-05-13T09-15Z
 
 **Fetch time:** 2026-05-13T09:19:46Z UTC | **Baseline:** 2026-05-12T09-15Z
