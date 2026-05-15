@@ -52,6 +52,10 @@ Switch cards to show Media
 
 Switch cards to hide Media
 
+![codex windows > art card](https://images.ctfassets.net/kftzwdyauwt9/6ZvTl8ZL23BOhoI6jz0EmR/49d6038b9f92773d4f866f4bfacabdbf/Art_Card__5_.png?w=3840&q=90&fm=webp)
+
+[Building a safe, effective sandbox to enable Codex on WindowsEngineeringMay 13, 2026](</index/building-codex-windows-sandbox/>)
+
 ![MRC 1_1](https://images.ctfassets.net/kftzwdyauwt9/IRqiqOUeNlFne8NPTbELM/9ab024f4581e7065eaf42aa18d14b724/Art_Card.png?w=3840&q=90&fm=webp)
 
 [Supercomputer networking to accelerate large scale AI trainingEngineeringMay 5, 2026](</index/mrc-supercomputer-networking/>)
@@ -83,10 +87,6 @@ Switch cards to hide Media
 ![Codex harness > card image](https://images.ctfassets.net/kftzwdyauwt9/1ySMLVHmxPk6E4hDn2Elef/4993bb3eafa6bca34f1de8c65f48bf9d/OAI_Unlocking_the_Codex_harness_Art_Card_1x1.png?w=3840&q=90&fm=webp)
 
 [Unlocking the Codex harness: how we built the App ServerEngineeringFeb 4, 2026](</index/unlocking-the-codex-harness/>)
-
-![kepler > card image](https://images.ctfassets.net/kftzwdyauwt9/2o8MnY1LncoqZZlWmDgJgL/1d0e33ec08b3fdd636fc698309abc39f/oai_in-house_data_agent_Art_Card_1x1.png?w=3840&q=90&fm=webp)
-
-[Inside OpenAI’s in-house data agentEngineeringJan 29, 2026](</index/inside-our-in-house-data-agent/>)
 
 Load more
 

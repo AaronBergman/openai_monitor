@@ -76,8 +76,6 @@ Expert content to spot AI opportunities and scale with confidence.
 
 Connect with other builders in person and online. Register for upcoming events like meetups, webinars, and AMAs.
 
-### [Build Hour: GPT-Realtime-1.5 (May 12, 2026, 10am PT, Online)Create real-time voice applications using GPT-Realtime-1.5, our flagship audio model designed for voice agents and customer support systems.Tune In](<https://webinar.openai.com/buildhours/realtime/>)
-
 ### [OpenAI Codex Lab: Computer use, security, and new capabilities (May 19, 2026, 10am PT, Online)Build with Codex through GPT-5.5 updates, hands-on demos across computer use, security, UI testing, and dev workflow integrations, plus 201-level tips and live Q&A.Tune In](<https://openai.registration.goldcast.io/webinar/f4d5175f-233a-44f8-af6d-a7170dcf484c#Registration>)
 
 ### [Build Hour: Agents SDK (May 28, 2026, 10am PT, Online)Build long-running agents with the updated Agents SDK, using a model-native harness designed for more capable agent workflows.Tune In](<https://webinar.openai.com/buildhours/agentsSDK/>)

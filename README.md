@@ -5,6 +5,47 @@ maintained by a Claude Code routine. Each run diffs the current sitemap
 against the prior one, fetches changed pages, and writes a plain-language
 summary that a smart layperson can follow.
 
+## 2026-05-15T09-15Z
+
+**Fetch time:** 2026-05-15T09:17:53Z UTC | **Baseline:** 2026-05-14T09-15Z
+
+**TL;DR:** Three parallel storylines dominated today. First, **Codex keeps expanding**: a new `codex/for-work/` landing page pitches Codex to non-developer business users (knowledge workers) for the first time, the main Codex page now links to it, and a product post announces Codex is coming to the ChatGPT mobile app (in preview) so users can supervise long-running agent tasks from their phones — OpenAI disclosed that 4 million people use Codex every week. Second, **a new advertising-infrastructure legal stack appeared**: three legal documents (Conversion Terms, Conversion DPA, and Conversion Sub-Processor List) were quietly published, indicating OpenAI is formalizing a conversion-tracking tool that lets advertisers share event data with OpenAI for measuring and optimizing ads — structurally similar to the Meta Pixel or Google Ads conversion API. Third, **a notable safety post** explained new ChatGPT features that carry short "safety summaries" across conversation sessions to better catch evolving risk signals in rare high-stakes scenarios (suicide, self-harm, harm-to-others). 395 URLs show updated lastmod timestamps; the vast majority are CMS cache-invalidation artifacts with no substantive content change.
+
+### Anomalies
+
+None detected. *(Note: the script flagged 1 "removed" URL — `https://openai.com/amex-chatgpt-business/` — but this is a stale-file artifact: that URL was genuinely removed in the May 13→14 run, and a legacy-named sub-sitemap file had lingered in `sitemaps/openai.com/sub/latest/`. It does not represent a new removal today.)*
+
+### New Pages (7 added)
+
+**[Codex for Work — "Get more done with Codex"](pages/openai.com/codex/for-work/index.md)** *(lastmod: 2026-05-14T22:45:49Z)* — A new `/codex/for-work/` landing page, distinct from the developer-facing `/codex/` page, aimed at non-technical business users. Pitches Codex as a general productivity layer: it can research topics, synthesize information, draft briefs and presentations, build weekly summaries from calendars/docs, and automate recurring tasks — all without requiring the user to write or understand code. Available as a desktop app for macOS and Windows. The main `/codex/` page was updated to cross-link here with an "Explore Codex for work" CTA.
+
+**[Work with Codex from anywhere](pages/openai.com/index/work-with-codex-from-anywhere/index.md)** *(lastmod: 2026-05-15T08:35:26Z)* — Announces Codex is now in the ChatGPT mobile app (preview), allowing users to monitor and steer ongoing Codex agent sessions from their phones while the work runs on a laptop, a Mac mini, or a remote devbox. Highlights the "4 million people use Codex every week" stat and frames mobile as critical for the emerging human-in-the-loop pattern where quick check-ins prevent unnecessary agent rework. Also covers enterprise deployment modes where Codex runs on managed remote infrastructure.
+
+**[Helping ChatGPT better recognize context in sensitive conversations](pages/openai.com/index/chatgpt-recognize-context-in-sensitive-conversations/index.md)** *(lastmod: 2026-05-15T04:13:15Z)* — Safety post describing two new features. (1) Cross-conversation safety summaries: a separate safety-reasoning model creates short factual notes about prior safety-relevant context (e.g., signs of distress) and passes them into subsequent sessions, scoped narrowly to high-risk scenarios and kept only for a limited time — not for general personalization. (2) Improved in-conversation context recognition trained with mental-health-expert guidance to detect escalating risk cues mid-conversation. Focus areas: suicide, self-harm, harm-to-others. OpenAI emphasizes these features fire rarely and are calibrated to avoid over-triggering on benign conversations.
+
+**[Sea's View on the Future of Agentic Software Development with Codex](pages/openai.com/index/sea-david-chen/index.md)** *(lastmod: 2026-05-15T03:35:04Z)* — Episode 20 of OpenAI's "Executive Function" interview series, featuring David Chen, Co-Founder of Sea (Singapore-based company behind Shopee, Garena, SeaMoney) and Chief Product Officer of Shopee. Chen discusses Sea rolling out Codex across its entire development organization. Strong internal usage reported in code understanding, debugging, and feature development. Sea is also hosting the first regional Codex Hackathon Series across Asia — starting in Singapore then moving to Indonesia, Taiwan, and Vietnam. A notable endorsement from one of Southeast Asia's largest tech companies.
+
+**[Conversion Terms](pages/openai.com/policies/conversion-terms/index.md)** *(effective: 2026-05-14; lastmod: 2026-05-15T09:14:15Z)* — Legal terms governing access to OpenAI's "Conversion Tools," which let advertisers provide "Conversion Data" (user event signals) to OpenAI. OpenAI uses this data to provide "Reporting Data," create custom audiences, and optimize/measure ad delivery. Comparable in structure to Meta's Conversion API or Google's Ads Data Hub. Advertisers must obtain necessary consents and cannot provide sensitive personal data.
+
+**[Conversion Data Processing Addendum](pages/openai.com/policies/conversion-dpa/index.md)** *(effective: 2026-05-14; lastmod: 2026-05-15T08:45:20Z)* — The GDPR-facing DPA supplement to the Conversion Terms. Designates OpenAI and the customer as independent data controllers for most processing, with OpenAI acting as processor only for "Restricted Processing." References the Conversion Sub-Processor List for downstream data sharing.
+
+**[Conversion Sub-Processor List](pages/openai.com/policies/conversion-subprocessors/index.md)** *(lastmod: 2026-05-15T08:15:37Z)* — Lists the third-party sub-processors OpenAI uses when handling Conversion Data in its processor capacity.
+
+### Notable Page Updates
+
+- **[openai.com/](pages/openai.com/index.md)** — Homepage hero carousel rotated: now surfaces "Work with Codex from anywhere" and "Helping ChatGPT better recognize context in sensitive conversations" (both new today). The prior featured items — "GPT-5.5 Instant" and the Amazon Bedrock/AWS partnership card — rolled off the front-page spotlight.
+
+- **[openai.com/codex/](pages/openai.com/codex/index.md)** — Added "Explore Codex for work" link pointing to the new `/codex/for-work/` page (+228 chars). Now also shows macOS/Windows download availability explicitly.
+
+- **[openai.com/business/](pages/openai.com/business/index.md)** — Minor update (+114 chars) mentioning Codex among the workspace-agent capabilities available on ChatGPT Business/Enterprise.
+
+All other 390+ URL timestamp changes show zero substantive content change on the representative sample tested — consistent with a CMS-wide cache-invalidation sweep.
+
+**Stats:** 1,308 total URLs | +7 added | 395 updated (lastmod) | 0 genuine removals | 0 anomalies | 32 sub-sitemaps
+
+*Full machine-readable diff: [runs/2026-05-15T09-15Z/diff.json](runs/2026-05-15T09-15Z/diff.json) | [runs/2026-05-15T09-15Z/analysis.md](runs/2026-05-15T09-15Z/analysis.md)*
+---
+
 ## 2026-05-14T09-15Z
 
 **Fetch time:** 2026-05-14T09:15:53Z UTC | **Baseline:** 2026-05-13T09-15Z

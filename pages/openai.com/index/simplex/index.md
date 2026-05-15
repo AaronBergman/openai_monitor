@@ -141,17 +141,17 @@ More than 1 million businesses around the world are achieving meaningful results
 
 ## Keep reading
 
-![Top 10 uses for Codex at work > card image](https://images.ctfassets.net/kftzwdyauwt9/23Axi2CAv85jqsBMZ98fAI/230757b8f4bcdc4de4ec24c50da3f5be/top-10-at-work.png?w=3840&q=90&fm=webp)
+![EF Ep20 1.1](https://images.ctfassets.net/kftzwdyauwt9/6Wp6DOKXObm4D5mzDZU7Q0/a612075495fe9f6854159364a3041bc2/EF_Ep20_1.1.png?w=3840&q=90&fm=webp)
 
-[How finance teams use CodexOpenAI AcademyMay 12, 2026](</academy/how-finance-teams-use-codex/>)
+[Sea's View on the Future of Agentic Software Development with CodexMay 14, 2026](</index/sea-david-chen/>)
 
-![oai NVIDIA 1x1](https://images.ctfassets.net/kftzwdyauwt9/18GHaprA4I94HFrlZcgTxf/2f7dbfc079311cddbe6a76d22a9341b2/oai_NVIDIA_1x1.png?w=3840&q=90&fm=webp)
+![1x1 Art Card](https://images.ctfassets.net/kftzwdyauwt9/7qVT9WlLKfgGLPC5W77ei6/a24fd3f13b754378759959aa77cd8f5d/1_1.png?w=3840&q=90&fm=webp)
 
-[How NVIDIA engineers and researchers build with CodexMay 12, 2026](</index/nvidia/>)
+[Work with Codex from anywhereProductMay 14, 2026](</index/work-with-codex-from-anywhere/>)
 
-![1 1](https://images.ctfassets.net/kftzwdyauwt9/6eaq9qftNBJJjryJnZGVRj/991b778132f449626fb9c768001f9009/1_1.png?w=3840&q=90&fm=webp)
+![Helping ChatGPT better recognize context in sensitive conversations > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/7x4viZ0DsQtxQpAgnYYheQ/8dfe028356aceac9e83da6cb837d6864/Saftey-Art-Card-1080x1080.png?w=3840&q=90&fm=webp)
 
-[What Parameter Golf taught usResearchMay 12, 2026](</index/what-parameter-golf-taught-us/>)
+[Helping ChatGPT better recognize context in sensitive conversationsSafetyMay 14, 2026](</index/chatgpt-recognize-context-in-sensitive-conversations/>)
 
 Our Research
 

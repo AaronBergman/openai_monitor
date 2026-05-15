@@ -91,6 +91,10 @@ Fidji Simo
 
 [View all](</news/>)
 
+![Frame](https://images.ctfassets.net/kftzwdyauwt9/32jPyVqUObkTrIIyA6tJV1/4eb384b5bb2f21ccea5de7665858a37a/Frame.png?w=3840&q=90&fm=webp)
+
+[Our response to the TanStack npm supply chain attackCompanyMay 13, 2026](</index/our-response-to-the-tanstack-npm-supply-chain-attack/>)
+
 ![OpenAI Campus Network—Student Club Interest Form > card image](https://images.ctfassets.net/kftzwdyauwt9/3gVx8jMHtHwuFpYS10BWBF/b70c85eada669bdabf956c591dfe8bbf/OpenAI_Campus_Networkâ__Student_Club_Interest_Form_-_art_card.png?w=3840&q=90&fm=webp)
 
 [OpenAI Campus Network: Student club interest formCompanyMay 11, 2026](</index/openai-campus-network-student-club-interest-form/>)
@@ -98,10 +102,6 @@ Fidji Simo
 ![Frame \(5\)](https://images.ctfassets.net/kftzwdyauwt9/7KSkm3PHZ9SkIuuLVSqYvW/7944afb1603557d260415b456aea2779/Frame__5_.png?w=3840&q=90&fm=webp)
 
 [OpenAI launches the OpenAI Deployment Company to help businesses build around intelligenceCompanyMay 11, 2026](</index/openai-launches-the-deployment-company/>)
-
-![OAI AdsTest Blog ArtCard 1x1](https://images.ctfassets.net/kftzwdyauwt9/7drPwCnD6ied4wPzlJd7qa/d79ccfda974080bbca7d688ad9bcbc6f/OAI_AdsTest_Blog_ArtCard_1x1.png?w=3840&q=90&fm=webp)
-
-[Testing ads in ChatGPTCompanyMay 7, 2026](</index/testing-ads-in-chatgpt/>)
 
 Our Research
 

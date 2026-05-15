@@ -120,17 +120,17 @@ OpenAI
 
 [View all](</news/>)
 
-![20250826](https://images.ctfassets.net/kftzwdyauwt9/2H347RfdThVOeTfSBchxDx/8a053f4cfa92faeed7141265dd02e7dd/20250826.jpg?w=3840&q=90&fm=webp)
+![1x1 Art Card](https://images.ctfassets.net/kftzwdyauwt9/7qVT9WlLKfgGLPC5W77ei6/a24fd3f13b754378759959aa77cd8f5d/1_1.png?w=3840&q=90&fm=webp)
 
-[GPT-5.5 Instant: smarter, clearer, and more personalizedProductMay 5, 2026](</index/gpt-5-5-instant/>)
+[Work with Codex from anywhereProductMay 14, 2026](</index/work-with-codex-from-anywhere/>)
 
-![System Card 1x1](https://images.ctfassets.net/kftzwdyauwt9/2VCkKLVmTyNs0XGbqdxGeA/33ff7738f4e795ae0ee41ed2b4a985d3/System_Card_1x1.jpg?w=3840&q=90&fm=webp)
+![Helping ChatGPT better recognize context in sensitive conversations > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/7x4viZ0DsQtxQpAgnYYheQ/8dfe028356aceac9e83da6cb837d6864/Saftey-Art-Card-1080x1080.png?w=3840&q=90&fm=webp)
 
-[GPT-5.5 Instant System CardSafetyMay 5, 2026](</index/gpt-5-5-instant-system-card/>)
+[Helping ChatGPT better recognize context in sensitive conversationsSafetyMay 14, 2026](</index/chatgpt-recognize-context-in-sensitive-conversations/>)
 
-![New ways to buy ChatGPT ads > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/3Rxyg8znQWIKixzNDvJtEE/87399a6c50caa6aaadbd664409021f82/ArtCard-ChatGPT-Ads.png?w=3840&q=90&fm=webp)
+![Running Codex safely at OpenAI > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/76rTHgn2J3y6srtNd3ZrRs/71fc86af978baecda10b212fdb5d3609/Frame.png?w=3840&q=90&fm=webp)
 
-[New ways to buy ChatGPT adsProductMay 5, 2026](</index/new-ways-to-buy-chatgpt-ads/>)
+[Running Codex safely at OpenAISecurityMay 8, 2026](</index/running-codex-safely/>)
 
 Our Research
 
