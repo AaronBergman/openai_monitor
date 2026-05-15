@@ -120,17 +120,17 @@ Leah Belsky
 
 [View all](</news/>)
 
-![What frontier enterprises do differently > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/4kKQaeWGl9atcyE51ri1ZW/3aa677511fa40bc0a4b089ef6cd9698f/Frame.png?w=3840&q=90&fm=webp)
+![Frame](https://images.ctfassets.net/kftzwdyauwt9/32jPyVqUObkTrIIyA6tJV1/4eb384b5bb2f21ccea5de7665858a37a/Frame.png?w=3840&q=90&fm=webp)
 
-[How frontier enterprises are building an AI advantageCompanyMay 6, 2026](</index/introducing-b2b-signals/>)
+[Our response to the TanStack npm supply chain attackCompanyMay 13, 2026](</index/our-response-to-the-tanstack-npm-supply-chain-attack/>)
 
-![Next Phase of MS OAI Partnership > card image](https://images.ctfassets.net/kftzwdyauwt9/6WWxPp3wjOGuogkWZBh89B/54c771f978bb831a0d90c0a9cff49ccc/oai-ms-1x1.png?w=3840&q=90&fm=webp)
+![OpenAI Campus Network—Student Club Interest Form > card image](https://images.ctfassets.net/kftzwdyauwt9/3gVx8jMHtHwuFpYS10BWBF/b70c85eada669bdabf956c591dfe8bbf/OpenAI_Campus_Networkâ__Student_Club_Interest_Form_-_art_card.png?w=3840&q=90&fm=webp)
 
-[The next phase of the Microsoft OpenAI partnershipCompanyApr 27, 2026](</index/next-phase-of-microsoft-partnership/>)
+[OpenAI Campus Network: Student club interest formCompanyMay 11, 2026](</index/openai-campus-network-student-club-interest-form/>)
 
-![Our Principles > card image](https://images.ctfassets.net/kftzwdyauwt9/51kSozt4hlmc3igCOUkeGw/67081a50c9b96ad81da937f08566f0d3/our-principles-1_1.png?w=3840&q=90&fm=webp)
+![Frame \(5\)](https://images.ctfassets.net/kftzwdyauwt9/7KSkm3PHZ9SkIuuLVSqYvW/7944afb1603557d260415b456aea2779/Frame__5_.png?w=3840&q=90&fm=webp)
 
-[Our principlesCompanyApr 26, 2026](</index/our-principles/>)
+[OpenAI launches the OpenAI Deployment Company to help businesses build around intelligenceCompanyMay 11, 2026](</index/openai-launches-the-deployment-company/>)
 
 Our Research
 

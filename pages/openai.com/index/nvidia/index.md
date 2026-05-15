@@ -42,7 +42,7 @@ Teams use Codex with GPT‑5.5 to ship production systems and turn research idea
 
 [Contact sales](</contact-sales/>)
 
-![NVIDIA logo on a green and black abstract background.](https://images.ctfassets.net/kftzwdyauwt9/18GHaprA4I94HFrlZcgTxf/2f7dbfc079311cddbe6a76d22a9341b2/oai_NVIDIA_1x1.png?w=3840&q=90&fm=webp)
+![NVIDIA logo on a green and black abstract background.](https://images.ctfassets.net/kftzwdyauwt9/1tvBNfKdMK7IcrsyMVqDoK/615e69bf52245acc9aefb72fdf47990d/oai_NVIDIA_1x1_v8.png?w=3840&q=90&fm=webp)
 
 Company size: Enterprise
 
@@ -118,17 +118,17 @@ More than 1 million businesses around the world are achieving meaningful results
 
 ## Keep reading
 
-![Top 10 uses for Codex at work > card image](https://images.ctfassets.net/kftzwdyauwt9/23Axi2CAv85jqsBMZ98fAI/230757b8f4bcdc4de4ec24c50da3f5be/top-10-at-work.png?w=3840&q=90&fm=webp)
+![EF Ep20 1.1](https://images.ctfassets.net/kftzwdyauwt9/6Wp6DOKXObm4D5mzDZU7Q0/a612075495fe9f6854159364a3041bc2/EF_Ep20_1.1.png?w=3840&q=90&fm=webp)
 
-[How finance teams use CodexOpenAI AcademyMay 12, 2026](</academy/how-finance-teams-use-codex/>)
+[Sea's View on the Future of Agentic Software Development with CodexMay 14, 2026](</index/sea-david-chen/>)
 
-![1 1](https://images.ctfassets.net/kftzwdyauwt9/6eaq9qftNBJJjryJnZGVRj/991b778132f449626fb9c768001f9009/1_1.png?w=3840&q=90&fm=webp)
+![1x1 Art Card](https://images.ctfassets.net/kftzwdyauwt9/7qVT9WlLKfgGLPC5W77ei6/a24fd3f13b754378759959aa77cd8f5d/1_1.png?w=3840&q=90&fm=webp)
 
-[What Parameter Golf taught usResearchMay 12, 2026](</index/what-parameter-golf-taught-us/>)
+[Work with Codex from anywhereProductMay 14, 2026](</index/work-with-codex-from-anywhere/>)
 
-![AutoScout24 customer story 1x1 image](https://images.ctfassets.net/kftzwdyauwt9/7kI3ADPRruoa3p3p4obr8y/f967c5c036a6d47bbe4f50ccc1e78c54/oai_AutoScout24_1x1.png?w=3840&q=90&fm=webp)
+![Helping ChatGPT better recognize context in sensitive conversations > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/7x4viZ0DsQtxQpAgnYYheQ/8dfe028356aceac9e83da6cb837d6864/Saftey-Art-Card-1080x1080.png?w=3840&q=90&fm=webp)
 
-[AutoScout24 scales engineering with AI-powered workflowsMay 12, 2026](</index/autoscout24/>)
+[Helping ChatGPT better recognize context in sensitive conversationsSafetyMay 14, 2026](</index/chatgpt-recognize-context-in-sensitive-conversations/>)
 
 Our Research
 

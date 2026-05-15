@@ -50,6 +50,10 @@ Switch cards to show Media
 
 Switch cards to hide Media
 
+![1x1 Art Card](https://images.ctfassets.net/kftzwdyauwt9/7qVT9WlLKfgGLPC5W77ei6/a24fd3f13b754378759959aa77cd8f5d/1_1.png?w=3840&q=90&fm=webp)
+
+[Work with Codex from anywhereProductMay 14, 2026](</index/work-with-codex-from-anywhere/>)
+
 ![OAI GPT-Realtime-2 Art Card 1x1](https://images.ctfassets.net/kftzwdyauwt9/4TtA6X4b6MbTFXSkoZXvqk/39930a05ebb333898ad1df6c28463465/OAI_GPT-Realtime-2_Art_Card_1x1.png?w=3840&q=90&fm=webp)
 
 [Advancing voice intelligence with new models in the APIProductMay 7, 2026](</index/advancing-voice-intelligence-with-new-models-in-the-api/>)
@@ -81,10 +85,6 @@ Switch cards to hide Media
 ![Making ChatGPT free for clinicians](https://images.ctfassets.net/kftzwdyauwt9/3zEoOmxWfemrEyDdV6Jmk7/02362f802128d38891b74c74d8d0b7e1/Art_Card_1080x1080.png?w=3840&q=90&fm=webp)
 
 [Making ChatGPT better for cliniciansProductApr 22, 2026](</index/making-chatgpt-better-for-clinicians/>)
-
-![OAI Blog Agents Hero 1x1](https://images.ctfassets.net/kftzwdyauwt9/70CFPhmF2xCA4LB7KS3wCn/d79a86bd8ab1aaafdcf2052e3ee02ba1/OAI_Blog_Agents_Hero_1x1.png?w=3840&q=90&fm=webp)
-
-[Introducing workspace agents in ChatGPTProductApr 22, 2026](</index/introducing-workspace-agents-in-chatgpt/>)
 
 Load more
 

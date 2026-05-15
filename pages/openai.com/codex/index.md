@@ -30,6 +30,10 @@ OpenAI
 
 A coding agent that helps you build and ship with AI—powered by ChatGPT.
 
+[Explore Codex for work](</codex/for-work/>)
+
+Available on [_macOS_](<https://persistent.oaistatic.com/codex-app-prod/Codex.dmg>) and [_Windows_](<https://get.microsoft.com/installer/download/9PLM9XGG6VKS?cid=website_cta_psi>)
+
 Earn up to $500 in credits for your team when they start using Codex.
 
 [Claim offer(opens in a new window)](<https://chatgpt.com/codex/team/start>)

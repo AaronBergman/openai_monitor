@@ -100,21 +100,29 @@ One in a million: celebrating the customers shaping AI’s future
 
 Filter
 
+![EF Ep20 1.1](https://images.ctfassets.net/kftzwdyauwt9/6Wp6DOKXObm4D5mzDZU7Q0/a612075495fe9f6854159364a3041bc2/EF_Ep20_1.1.png?w=3840&q=90&fm=webp)
+
+[Sea's View on the Future of Agentic Software Development with CodexMay 14, 2026](</index/sea-david-chen/>)
+
+![AutoScout24 customer story 1x1 image](https://images.ctfassets.net/kftzwdyauwt9/7kI3ADPRruoa3p3p4obr8y/f967c5c036a6d47bbe4f50ccc1e78c54/oai_AutoScout24_1x1.png?w=3840&q=90&fm=webp)
+
+[AutoScout24 scales engineering with AI-powered workflowsMay 12, 2026](</index/autoscout24/>)
+
+![oai NVIDIA 1x1 v8](https://images.ctfassets.net/kftzwdyauwt9/1tvBNfKdMK7IcrsyMVqDoK/615e69bf52245acc9aefb72fdf47990d/oai_NVIDIA_1x1_v8.png?w=3840&q=90&fm=webp)
+
+[How NVIDIA engineers and researchers build with CodexMay 12, 2026](</index/nvidia/>)
+
 ![Parloa > Card](https://images.ctfassets.net/kftzwdyauwt9/79CIP6zYxNAKgc3cJfSimj/cd0b9187ba78aeca8088ba6c11ce8b7e/oai_Parloa_1x1.png?w=3840&q=90&fm=webp)
 
 [Parloa builds service agents customers want to talk toStartupMay 7, 2026](</index/parloa/>)
 
-![oai simplex 1x1](https://images.ctfassets.net/kftzwdyauwt9/7EYQLHWSLyDPZipWsruW76/8e0295766071c4d5b21e07fcb7b85996/oai_simplex_1x1.png?w=3840&q=90&fm=webp)
+![Uber customer story > 1x1 art card and hero image](https://images.ctfassets.net/kftzwdyauwt9/5jnteCaoVnc71jA02qX8gk/0f394157c43c443dd1523a7fab48bc69/oai_Uber_1x1.png?w=3840&q=90&fm=webp)
 
-[Simplex rethinks software development with CodexMay 7, 2026](</index/simplex/>)
+[Uber uses OpenAI to help people earn smarter and book fasterMay 6, 2026](</index/uber/>)
 
 ![Singular Bank 1x1](https://images.ctfassets.net/kftzwdyauwt9/4z6thUXYDDAQfggvMdsr6v/bbc20a49d11c5f7b3216fec648214cef/oai_SingularBank_1x1.png?w=3840&q=90&fm=webp)
 
 [Singular Bank helps bankers move fast with ChatGPT and CodexMay 6, 2026](</index/singular-bank/>)
-
-![Uber customer story > 1x1 art card and hero image](https://images.ctfassets.net/kftzwdyauwt9/5jnteCaoVnc71jA02qX8gk/0f394157c43c443dd1523a7fab48bc69/oai_Uber_1x1.png?w=3840&q=90&fm=webp)
-
-[Uber uses OpenAI to help people earn smarter and book fasterMay 6, 2026](</index/uber/>)
 
 ![oai Choco 1x1](https://images.ctfassets.net/kftzwdyauwt9/2A9IYNIXnFR7s8lAQ9BKby/c98bd4af069478f3317f7d2d6aa98cc2/oai_Choco_1x1.png?w=3840&q=90&fm=webp)
 
@@ -132,10 +140,6 @@ Filter
 
 [STADLER reshapes knowledge work at a 230-year-old companyMar 27, 2026](</index/stadler/>)
 
-![oai Rakuten 1x1](https://images.ctfassets.net/kftzwdyauwt9/5uPNx6tKKw9bfKsi7uepmm/9ac19cf10103ab0c10bd4407b7050e8b/oai_Rakuten_1x1.png?w=3840&q=90&fm=webp)
-
-[Rakuten fixes issues twice as fast with CodexMar 11, 2026](</index/rakuten/>)
-
 ![oai wayfair 1x1](https://images.ctfassets.net/kftzwdyauwt9/1AHxshp97DsdLFaEA7wNFe/f11dd8a1aa25536c436b50c62fec9210/oai_wayfair_1x1.png?w=3840&q=90&fm=webp)
 
 [Wayfair boosts catalog accuracy and support speed with OpenAIMar 11, 2026](</index/wayfair/>)
@@ -143,10 +147,6 @@ Filter
 ![Descript > 1x1 Card](https://images.ctfassets.net/kftzwdyauwt9/7wL94yXvqYUEQRfOpp68V8/4f6d4a21db6e98ddb2352cbc52ac3b77/oai_descript_1x1.png?w=3840&q=90&fm=webp)
 
 [How Descript engineers multilingual video dubbing at scaleStartupMar 6, 2026](</index/descript/>)
-
-![oai Balyasny 1x1](https://images.ctfassets.net/kftzwdyauwt9/27WMGhOq82XBzmCqqaHy6q/a6d1207128885eae6b1ed73c43809dd5/oai_Balyasny_1x1.png?w=3840&q=90&fm=webp)
-
-[How Balyasny Asset Management built an AI research engineMar 6, 2026](</index/balyasny-asset-management/>)
 
 Load more
 

@@ -50,6 +50,10 @@ Switch cards to show Media
 
 Switch cards to hide Media
 
+![Helping ChatGPT better recognize context in sensitive conversations > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/7x4viZ0DsQtxQpAgnYYheQ/8dfe028356aceac9e83da6cb837d6864/Saftey-Art-Card-1080x1080.png?w=3840&q=90&fm=webp)
+
+[Helping ChatGPT better recognize context in sensitive conversationsSafetyMay 14, 2026](</index/chatgpt-recognize-context-in-sensitive-conversations/>)
+
 ![Running Codex safely at OpenAI > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/76rTHgn2J3y6srtNd3ZrRs/71fc86af978baecda10b212fdb5d3609/Frame.png?w=3840&q=90&fm=webp)
 
 [Running Codex safely at OpenAISecurityMay 8, 2026](</index/running-codex-safely/>)
@@ -81,10 +85,6 @@ Switch cards to hide Media
 ![accelerating-cyber-defense-ecosystem-1x1](https://images.ctfassets.net/kftzwdyauwt9/1TzwLMgMx0r6t1GQsFAiHH/ff5d38b5bc11d22a2442bb0f151ee83f/accelerating-cyber-defense-ecosystem-1x1.png?w=3840&q=90&fm=webp)
 
 [Accelerating the cyber defense ecosystem that protects us allSecurityApr 16, 2026](</index/accelerating-cyber-defense-ecosystem/>)
-
-![Scaling our trusted access program for cyber defense 1x1](https://images.ctfassets.net/kftzwdyauwt9/50UlqbAamecQ6xsNAt3Qu0/8f6f87823b796b6860606a4a42efe4af/Scaling_our_trusted_access_program_for_cyber_defense_1x1.png?w=3840&q=90&fm=webp)
-
-[Trusted access for the next era of cyber defenseSecurityApr 14, 2026](</index/scaling-trusted-access-for-cyber-defense/>)
 
 Load more
 

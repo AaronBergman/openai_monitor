@@ -34,6 +34,8 @@ OpenAI’s Economic Research and Global Affairs teams periodically publish repor
 
 Explore the latest resources below, including country-focused Signals reports, research on how people use ChatGPT, and briefings on enterprise adoption and productivity outcomes.
 
+### [How ChatGPT adoption broadened in early 2026May 2026 | Q1 data shows consumer adoption growth among users over 35 and those with typically feminine names.Learn more](<https://openai.com/signals/research/2026q1-update/>)
+
 ### [Main Street entrepreneurship, powered by ChatGPTMay 2026 | Empowering entrepreneurs with ChatGPT.Learn more](<https://cdn.openai.com/pdf/32153121-f87f-4320-a725-9c94ee8d9b30/empowering-entrepreneurship-in-chatgpt-report.pdf>)
 
 ### [The AI jobs transition frameworkApril 2026 | Mapping AI’s near-term impact on jobs.Learn more](<https://cdn.openai.com/pdf/the-ai-jobs-transition-framework_report.pdf>)

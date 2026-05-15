@@ -48,6 +48,12 @@ Switch cards to hide Media
 
 Product
 
+May 7, 2026
+
+[Advancing voice intelligence with new models in the APIExplore new realtime voice models in the OpenAI API that can reason, translate, and transcribe speech, enabling more natural and intelligent voice experiences.](</index/advancing-voice-intelligence-with-new-models-in-the-api/>)
+
+Product
+
 May 5, 2026
 
 [GPT-5.5 Instant: smarter, clearer, and more personalizedGPT-5.5 Instant updates ChatGPT’s default model with smarter, more accurate answers, reduced hallucinations, and improved personalization controls.](</index/gpt-5-5-instant/>)
@@ -93,12 +99,6 @@ Product
 Feb 12, 2026
 
 [Introducing GPT-5.3-Codex-SparkIntroducing GPT-5.3-Codex-Spark—our first real-time coding model. 15x faster generation, 128k context, now in research preview for ChatGPT Pro users.](</index/introducing-gpt-5-3-codex-spark/>)
-
-Product
-
-Feb 5, 2026
-
-[Introducing GPT-5.3-CodexGPT-5.3-Codex is a Codex-native agent that pairs frontier coding performance with general reasoning to support long-horizon, real-world technical work.](</index/introducing-gpt-5-3-codex/>)
 
 Load more
 

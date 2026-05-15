@@ -43,6 +43,8 @@ OpenAI
   * [Applicant Arbitration Agreement⁠(opens in a new window)](<https://cdn.openai.com/pdf/applicant-arbitration-agreement.pdf>): Arbitration Agreement for U.S. applicants.
   * [Serving civil subpoenas or other civil requests for user data on OpenAI](</policies/civil-user-data-requests/>): Procedures for requesting user data in civil matters.
   * [Advertising Terms](</policies/advertising-terms/>): Terms that govern use of OpenAI's Advertising Services.
+  * [Conversion Terms](</policies/conversion-terms/>): Terms that govern use of OpenAI's Conversion Tools
+  * [Conversion data processing addendum](</policies/conversion-dpa/>): Addendum that governs the processing of personal data through OpenAI's Conversion Tools.
 
 
 
