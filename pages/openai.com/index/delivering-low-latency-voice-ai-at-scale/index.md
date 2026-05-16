@@ -231,6 +231,10 @@ Yi Zhang, William McDonald
 
 [View all](</news/>)
 
+![codex windows > art card](https://images.ctfassets.net/kftzwdyauwt9/6ZvTl8ZL23BOhoI6jz0EmR/49d6038b9f92773d4f866f4bfacabdbf/Art_Card__5_.png?w=3840&q=90&fm=webp)
+
+[Building a safe, effective sandbox to enable Codex on WindowsEngineeringMay 13, 2026](</index/building-codex-windows-sandbox/>)
+
 ![MRC 1_1](https://images.ctfassets.net/kftzwdyauwt9/IRqiqOUeNlFne8NPTbELM/9ab024f4581e7065eaf42aa18d14b724/Art_Card.png?w=3840&q=90&fm=webp)
 
 [Supercomputer networking to accelerate large scale AI trainingEngineeringMay 5, 2026](</index/mrc-supercomputer-networking/>)
@@ -238,10 +242,6 @@ Yi Zhang, William McDonald
 ![An open-source spec for orchestration: Symphony > art card](https://images.ctfassets.net/kftzwdyauwt9/4p40cWGcpyi6xRY3U4advn/d977f47ed621f80de31c931b0b8223f0/Symphony_art_card__1_.png?w=3840&q=90&fm=webp)
 
 [An open-source spec for orchestration: SymphonyEngineeringApr 27, 2026](</index/open-source-codex-orchestration-symphony/>)
-
-![WebSocket > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/6LosFlEPrOVPjLQHXLuMuI/ae6df51e50a6ad0b238d55c0dfcaf5a0/Websocket_Art_Card_1x1.png?w=3840&q=90&fm=webp)
-
-[Speeding up agentic workflows with WebSockets in the Responses APIEngineeringApr 22, 2026](</index/speeding-up-agentic-workflows-with-websockets/>)
 
 Our Research
 

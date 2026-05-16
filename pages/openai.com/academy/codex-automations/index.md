@@ -34,6 +34,8 @@ OpenAI Academy
 
 Run recurring tasks automatically using schedules and triggers in Codex.
 
+[Download Codex(opens in a new window)](<https://chatgpt.com/codex/for-work/>)
+
 Loading…
 
 Share
@@ -81,23 +83,23 @@ Start by chatting back and forth with Codex to zero in on the exact kind of beha
 
 Discover additional guides and resources to help you build practical AI skills.
 
-[View all topics](</academy/>)
+[View all topics](</academy/>)[Explore Codex for work](</academy/codex-for-work/>)
 
 ## Keep reading
 
 [View all](</news/>)
 
-![What is Codex? > card image](https://images.ctfassets.net/kftzwdyauwt9/1UmriWebOfrrf0B43OooqE/973b3b7ee2ac96e537f2efb697c2f69c/what-is-codex.png?w=3840&q=90&fm=webp)
+![How business operations teams use Codex > card image](https://images.ctfassets.net/kftzwdyauwt9/JR9MMoyTo7eFFF8Nv13Qc/43414ee0c762db49e36bda8ae0d35e39/bus_ops_teams.png?w=3840&q=90&fm=webp)
 
-[What is Codex?OpenAI AcademyApr 23, 2026](</academy/what-is-codex/>)
+[How business operations teams use CodexOpenAI AcademyMay 15, 2026](</academy/codex-for-work/how-business-operations-teams-use-codex/>)
 
-![Top 10 uses for Codex at work > card image](https://images.ctfassets.net/kftzwdyauwt9/23Axi2CAv85jqsBMZ98fAI/230757b8f4bcdc4de4ec24c50da3f5be/top-10-at-work.png?w=3840&q=90&fm=webp)
+![How data science teams use Codex > card image](https://images.ctfassets.net/kftzwdyauwt9/xyevYnp4Ptaa1eMgBDNjS/75fea80018f321b89809d893f1a5786d/data_science_teams.png?w=3840&q=90&fm=webp)
 
-[Top 10 uses for Codex at workOpenAI AcademyApr 23, 2026](</academy/top-10-use-cases-codex-for-work/>)
+[How data science teams use CodexOpenAI AcademyMay 15, 2026](</academy/codex-for-work/how-data-science-teams-use-codex/>)
 
-![Plugins > card image](https://images.ctfassets.net/kftzwdyauwt9/7r2o2rTyjurYOamZ2sKDY1/5373d74efd317af8de9cc71fa7479778/plugins.png?w=3840&q=90&fm=webp)
+![How sales teams use Codex > card image](https://images.ctfassets.net/kftzwdyauwt9/1O4te2wMh6O77eDV6kapG3/02845b054a09297b9fada40c4cc9a71f/sales_teams.png?w=3840&q=90&fm=webp)
 
-[Plugins and skillsOpenAI AcademyApr 23, 2026](</academy/codex-plugins-and-skills/>)
+[How sales teams use CodexOpenAI AcademyMay 15, 2026](</academy/codex-for-work/how-sales-teams-use-codex/>)
 
 Our Research
 

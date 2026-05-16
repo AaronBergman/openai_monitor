@@ -72,9 +72,21 @@ Do your most ambitious work from start to finish.
 
 [Top 10 uses for Codex at workExplore 10 practical ways to use Codex for writing, synthesis, planning, research, and repeatable work.](</academy/top-10-use-cases-codex-for-work/>)
 
-![Top 10 uses for Codex at work > card image](https://images.ctfassets.net/kftzwdyauwt9/23Axi2CAv85jqsBMZ98fAI/230757b8f4bcdc4de4ec24c50da3f5be/top-10-at-work.png?w=3840&q=90&fm=webp)
+![How finance teams use Codex > card image](https://images.ctfassets.net/kftzwdyauwt9/4VU5At1ybQhEoHRaoWSJzK/b2909183102b81eef94eb9d9541d4841/finance_teams.png?w=3840&q=90&fm=webp)
 
 [How finance teams use CodexSee how finance teams can use Codex to build review-ready assets for monthly business reviews, reporting, variance analysis, and planning.](</academy/how-finance-teams-use-codex/>)
+
+![How data science teams use Codex > card image](https://images.ctfassets.net/kftzwdyauwt9/xyevYnp4Ptaa1eMgBDNjS/75fea80018f321b89809d893f1a5786d/data_science_teams.png?w=3840&q=90&fm=webp)
+
+[How data science teams use CodexSee how data science teams can use Codex to turn questions, dashboards, and raw data into review-ready analysis assets.](</academy/codex-for-work/how-data-science-teams-use-codex/>)
+
+![How sales teams use Codex > card image](https://images.ctfassets.net/kftzwdyauwt9/1O4te2wMh6O77eDV6kapG3/02845b054a09297b9fada40c4cc9a71f/sales_teams.png?w=3840&q=90&fm=webp)
+
+[How sales teams use CodexExplore how sales teams can use Codex to turn account context, customer conversations, and deal signals into pipeline briefs, meeting packs, forecast reviews, and account plans.](</academy/codex-for-work/how-sales-teams-use-codex/>)
+
+![How business operations teams use Codex > card image](https://images.ctfassets.net/kftzwdyauwt9/JR9MMoyTo7eFFF8Nv13Qc/43414ee0c762db49e36bda8ae0d35e39/bus_ops_teams.png?w=3840&q=90&fm=webp)
+
+[How business operations teams use CodexExplore how business operations teams can use Codex to turn scattered initiative context, metrics, trackers, and stakeholder input into decision-ready briefs, updates, packets, and tradeoff models.](</academy/codex-for-work/how-business-operations-teams-use-codex/>)
 
 ## Learn through events and workshops
 

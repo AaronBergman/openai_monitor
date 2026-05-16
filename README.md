@@ -5,6 +5,52 @@ maintained by a Claude Code routine. Each run diffs the current sitemap
 against the prior one, fetches changed pages, and writes a plain-language
 summary that a smart layperson can follow.
 
+## 2026-05-16T09-15Z
+
+**Fetch time:** 2026-05-16T09:17:04Z UTC | **Baseline:** 2026-05-15T09-15Z
+
+**TL;DR:** Two headline launches today. First, OpenAI unveiled a **personal finance experience in ChatGPT** — Pro users in the U.S. can now connect their bank accounts and investment portfolios (via Plaid, 12,000+ institutions) and ask ChatGPT context-grounded questions about spending, goals, and tradeoffs. This is a major product step into personal financial services, directly competing with apps like Mint/Copilot/Monarch Money. Second, **Databricks published a case study** showing GPT-5.5 is now state-of-the-art on their OfficeQA Pro enterprise benchmark — 50% accuracy, 46% error reduction vs. GPT-5.4 — particularly for parsing scanned PDFs and legacy enterprise documents in long-running agent workflows. On the educational content side, OpenAI's Codex-for-work academy section kept expanding: three new role-specific guides appeared (for sales, data science, and business operations teams), and several existing Codex Academy pages were substantially expanded with cross-links and additional use cases. The stale `/amex-chatgpt-business/` URL (replaced by a `/business/`-hierarchy URL in the May 14 run) was finally cleaned from the sitemap. No anomalies.
+
+### Anomalies
+
+None detected.
+
+### New Pages (5 added)
+
+**[A new personal finance experience in ChatGPT](pages/openai.com/index/personal-finance-chatgpt/index.md)** *(lastmod: 2026-05-15T22:55:41Z)* — Announces a preview of a major new ChatGPT capability: Pro users in the U.S. can securely connect their financial accounts through Plaid (Intuit support coming), see a live dashboard of spending/portfolio/subscriptions, and ask ChatGPT questions grounded in their real financial data. The page touts ChatGPT's existing scale (200 million monthly users already asking money questions) and positions GPT-5.5's stronger reasoning as enabling more nuanced financial analysis. Supports saving "Financial memories" (e.g., ongoing savings goals) so context carries across conversations. OpenAI explicitly notes this is not a replacement for professional financial advice. Currently rolling out as a preview to Pro users before expanding to Plus and free tiers. Homepage carousel has been updated to feature this launch prominently.
+
+**[Databricks brings GPT‑5.5 to enterprise agent workflows](pages/openai.com/index/databricks/index.md)** *(lastmod: 2026-05-16T00:28:31Z)* — Customer case study published May 15. Databricks integrated GPT-5.5 into their production agent harness after the model set a new state-of-the-art on OfficeQA Pro, their benchmark for complex enterprise document tasks (scanned PDFs, legacy files, long-context). Key metrics: **50% accuracy** on OfficeQA Pro (first model to cross that threshold) and **46% error reduction** vs. GPT-5.4. The gains are concentrated in parsing-heavy workflows where earlier models lost numerical precision on scanned digits. Databricks is now making GPT-5.5 available to their customer agent workflow builders.
+
+**[How business operations teams use Codex](pages/openai.com/academy/codex-for-work/how-business-operations-teams-use-codex/index.md)** *(lastmod: 2026-05-16T07:17:13Z)* — Third entry in OpenAI Academy's role-specific Codex guides (the section was introduced May 14–15). Covers five use cases: off-track initiative briefs, strategic initiative health updates, leadership decision packets, board/company progress updates, and scenario/tradeoff models. Each use case shows how Codex aggregates scattered inputs (project trackers, KPI dashboards, meeting notes, Slack threads, spreadsheets) and produces the first working draft, with human judgment still owning the final recommendation.
+
+**[How data science teams use Codex](pages/openai.com/academy/codex-for-work/how-data-science-teams-use-codex/index.md)** *(lastmod: 2026-05-16T07:17:12Z)* — Five use cases for data teams: KPI root-cause analysis, business impact readouts, analytics request agents, executive KPI reviews, and dashboard builder/monitor. Framing emphasizes that Codex handles the scaffolding (query structure, result formatting, presentation prep) while the data scientist owns analytical interpretation.
+
+**[How sales teams use Codex](pages/openai.com/academy/codex-for-work/how-sales-teams-use-codex/index.md)** *(lastmod: 2026-05-16T07:17:06Z)* — Five use cases for sales: pipeline prioritization from underworked accounts, meeting prep and follow-up, forecast review and commit risk monitoring, strategic account plan refresh, and stalled deal diagnosis. Part of the same wave of role-specific Academy content; together these three guides represent OpenAI systematically building enablement material for the Codex-for-work non-developer audience introduced May 14.
+
+### Notable Page Updates
+
+- **[openai.com/](pages/openai.com/index.md)** (+68 chars) — Hero carousel rotated again: now leads with the personal finance feature ("A new personal finance experience in ChatGPT"). The previous featured story rolled off.
+
+- **[openai.com/academy/codex-for-work/](pages/openai.com/academy/codex-for-work/index.md)** (+1,343 chars) — Hub page for the Codex-for-work section substantially expanded: now shows cards/previews for all three new role-specific guides (sales, data science, business operations) alongside the existing finance-teams guide.
+
+- **[openai.com/academy/top-10-use-cases-codex-for-work/](pages/openai.com/academy/top-10-use-cases-codex-for-work/index.md)** (+3,479 chars) — The "Top 10 use cases" mega-page expanded significantly, now cross-linking to all new role-specific guides.
+
+- **[openai.com/academy/how-finance-teams-use-codex/](pages/openai.com/academy/how-finance-teams-use-codex/index.md)** (+713 chars) — Finance teams guide updated with new related-content links pointing to the freshly published sales, data science, and business operations guides.
+
+- Multiple other Codex Academy pages (codex-automations, codex-plugins-and-skills, what-is-codex, working-with-codex, etc.) received smaller updates (+43 to +299 chars) — primarily new "Explore Codex for work" navigation links and updated related-article cards pointing to the new role-specific guides.
+
+All other timestamp changes (350+ URLs) show zero substantive content change — consistent with a routine CMS cache-invalidation sweep.
+
+### Removed from Sitemap (1)
+
+- **`https://openai.com/amex-chatgpt-business/`** — Cleanup: this URL was replaced by `/business/amex-chatgpt-business-credit/` in the May 14 run; the stale entry lingered in the sitemap one extra day before being removed.
+
+**Stats:** 1,313 total URLs | +5 added | 391 updated (lastmod) | -1 removed | 0 anomalies | 32 sub-sitemaps
+
+*Full machine-readable diff: [runs/2026-05-16T09-15Z/diff.json](runs/2026-05-16T09-15Z/diff.json) | [runs/2026-05-16T09-15Z/analysis.md](runs/2026-05-16T09-15Z/analysis.md)*
+
+---
+
 ## 2026-05-15T09-15Z
 
 **Fetch time:** 2026-05-15T09:17:53Z UTC | **Baseline:** 2026-05-14T09-15Z
