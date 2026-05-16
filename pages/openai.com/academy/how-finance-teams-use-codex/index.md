@@ -28,13 +28,13 @@ OpenAI
 
 Table of contents
 
-  * Top 10 Codex use cases for finance teams
+  * Top Codex use cases for finance teams
   * 1\. Monthly business review narrative
   * 2\. Finance model cleanup and analysis
   * 3\. Recurring CFO and board reporting pack
   * 4\. Variance driver bridge
   * 5\. Forecast refresh and scenario planning
-  * Keep learning
+  * More resources 
 
 
 
@@ -52,182 +52,171 @@ Loading…
 
 Share
 
-With Codex, finance teams can just build things. Start with the close workbooks, revenue and expense dashboards, forecast updates, prior MBRs, and owner notes you already use. Codex can help turn that context into tangible assets your team can review, refine, and share, no coding required. Use it to spend less time assembling the first pass and more time shaping the story, checking the numbers, and preparing for the decisions ahead.
+With Codex, finance teams can just build things. Start with the close workbooks, revenue and expense dashboards, forecast updates, prior MBRs, and owner notes you already use. Codex helps turn that context into tangible outputs your team can review, refine, and share—no coding required. Spend less time assembling the first pass and more time shaping the story, validating the numbers, and preparing for the decisions ahead.
 
 Learn more about using Codex for everyday work in our [on-demand webinar⁠(opens in a new window)](<https://academy.openai.com/home/clubs/work-users-ynjqu/videos/codex-for-everyday-work-recording-2026-05-06>).
 
-## Top 10 Codex use cases for finance teams
+## Top Codex use cases for finance teams
 
-Ready to try Codex with real finance work? Start with a copy-ready prompt, then use the fully built example to see how that same prompt gets stronger with real files, systems, constraints, and review expectations. Each use case also includes suggested skills and plugins to help Codex work across your tech stack, so your team can get to a reviewable first pass faster and spend more time on the judgment, analysis, and decisions that matter.
+Ready to try Codex with real finance work? Start with a starter prompt, then explore a fully built example that shows how the same workflow becomes more powerful with real files, systems, constraints, and review expectations. Each use case also includes suggested skills and plugins to help Codex work across your tech stack, so your team can get to a reviewable first pass faster and spend more time on the judgment, analysis, and decisions that matter.
 
 ## 1\. Monthly business review narrative
 
-#### Why people use this
+**Use this when:** You need a CFO-ready story that explains performance, key variances, risks, and follow-ups after close.
 
-Turn close outputs, forecast updates, and owner commentary into a CFO-ready monthly business review narrative.
+**What you bring**| **What Codex returns**  
+---|---  
+Close workbook, revenue and expense dashboards, forecast update, prior MBR, owner notes, finance close context| A review-ready MBR narrative document with key variances, risks, CFO prep questions, source citations, and owner follow-ups  
+  
+**Suggested plugins:** Google Drive, SharePoint, Box, Spreadsheets, Presentations, Documents, Slack, Teams, Gmail, Outlook Email.
 
 #### How it works
 
-  1. Review close workbooks, dashboards, forecast updates, prior MBRs, and owner notes.
-  2. Identify key variances, what changed since forecast, risks, and CFO prep questions.
-  3. Draft the narrative with source-backed numbers and owner follow-ups.
+  1. Codex reviews close workbooks, dashboards, forecast updates, prior MBRs, and owner notes.
+  2. It identifies key variances, changes since forecast, risks, and CFO prep questions.
+  3. It creates a review-ready narrative document with source-backed numbers and owner follow-ups.
 
 
 
-#### Prompt to try
+#### Starter prompt
 
 Try it out
 
 Prepare the [month/quarter] management business review story for [business/team]. Use the close workbook, revenue and expense dashboards, forecast update, prior MBR, owner notes, and finance close context I provide. Draft an executive-ready narrative with key variances, what changed since forecast, risks, CFO prep questions, and follow-ups by owner. Cite a workbook tab, dashboard, or source note for every material number.
 
-#### How to customize it
+##### Real-world example
 
-Swap in the real month or quarter, business team, close workbook, dashboards, forecast update, prior MBR, and owner notes. Tell Codex what audience the narrative is for, which metrics matter most, and how every number should be cited. Ask it to flag missing support, stale prior-month language, risks, and CFO prep questions.
-
-**Suggested plugins:** Google Drive, SharePoint, Box, Spreadsheets, Presentations, Documents, Slack, Teams, Gmail, Outlook Email.
-
-**Example:**
-
-_Prepare Acme’s April management business review story for the Enterprise Sales team. Use “April Close Workbook.xlsx,” “April Revenue Dashboard,” “April Forecast Update,” “March MBR Deck.pptx,” owner notes in “April MBR Owner Inputs,” #finance-close from April 22 through April 30, and any related close context I provide._
+ _Prepare Acme’s April management business review story for the Enterprise Sales team. Use “April Close Workbook.xlsx,” “April Revenue Dashboard,” “April Forecast Update,” “March MBR Deck.pptx,” owner notes in “April MBR Owner Inputs,” #finance-close from April 22 through April 30, and any related close context I provide._
 
 _Draft an executive-ready narrative with key revenue and expense variances, what changed since forecast, risks, CFO prep questions, and follow-ups by owner. Cite a workbook tab, dashboard, or source note for every material number. Create the draft as a Microsoft Word document named “Monthly Business Review Narrative.”_
 
 ##  2\. Finance model cleanup and analysis
 
-#### Why people use this
+**Use this when:** You need to improve a model’s reliability before a high-stakes review by checking formulas, structure, sources, and assumptions.
 
-Improve model reliability _before_ high-stakes reviews by catching formula, structure, source, and assumption issues.
+**What you bring**| **What Codex returns**  
+---|---  
+Financial model, supporting source files, review audience, priority tabs, cleanup rules, and assumptions that require finance-owner review| A cleaned workbook where safe, plus a severity-ranked QA memo with issues found, fixes made, remaining assumptions, and cells or tabs needing review  
+  
+**Suggested plugins:** Spreadsheets, Google Drive, SharePoint, Box, Documents, Slack, Teams, Gmail, Outlook Email.
 
 #### How it works
 
-  1. Review workbook structure, formulas, hardcodes, links, checks, and output tabs.
-  2. Make safe cleanup changes and flag assumptions that require finance-owner review.
-  3. Return a cleaned model where appropriate plus a severity-ranked QA memo.
+  1. Codex reviews workbook structure, formulas, hardcodes, links, checks, source tie-outs, and output tabs.
+  2. It makes safe cleanup changes where appropriate and flags assumptions that require finance-owner review.
+  3. It creates a cleaned model where safe, plus a QA memo with high-risk issues, fixes made, and remaining review items.
 
 
 
-#### Prompt to try
+#### Starter prompt
 
 Try it out
 
 Clean and review [model name] before it goes to [audience]. Check workbook structure, formulas, hardcodes, broken links, circulars, sign conventions, period labels, source tie-outs, checks, and output tabs. Make safe cleanup changes where appropriate, but do not change business assumptions without calling them out. Return a cleaned model if safe, plus a QA memo with high-risk issues, fixes made, remaining assumptions, and cells or tabs that need finance-owner review.
 
-#### How to customize it
+##### Real-world example
 
-Swap in the actual model name, audience, and supporting source files. Tell Codex which tabs matter most, what kinds of cleanup are safe, and which business assumptions should not be changed without review. Ask for both a cleaned workbook and a severity-ranked QA memo.
-
-**Suggested plugins:** Spreadsheets, Google Drive, SharePoint, Box, Documents, Slack, Teams, Gmail, Outlook Email.
-
-**Example:**
-
-_Clean and review “FY27 Operating Plan Model.xlsx” before it goes to the leadership team. Check workbook structure, formulas, hardcodes, broken links, circular references, sign conventions, period labels, source tie-outs, model checks, and output tabs._
+ _Clean and review “FY27 Operating Plan Model.xlsx” before it goes to the leadership team. Check workbook structure, formulas, hardcodes, broken links, circular references, sign conventions, period labels, source tie-outs, model checks, and output tabs._
 
 _Make safe cleanup changes where appropriate, but do not change business assumptions without calling them out. Return a cleaned workbook if safe, plus a QA memo with high-risk issues, fixes made, remaining assumptions, and cells or tabs that need finance-owner review. Pay special attention to the “Revenue Drivers,” “Headcount Plan,” “Cash Forecast,” and “Exec Summary” tabs._
 
 ##  3\. Recurring CFO and board reporting pack
 
-#### Why people use this
+**Use this when:** Speed recurring executive reporting by refreshing metrics, commentary, and open questions from the latest source materials.
 
-Speed recurring executive reporting by refreshing metrics, commentary, and open questions from the latest source materials.
+**What you bring**| **What Codex returns**  
+---|---  
+Latest forecast model, KPI dashboard, prior reporting pack, cash view, forecast notes, owner inputs, and open questions| A refreshed reporting pack with updated metrics, deltas, charts, commentary, open assumptions, owner-input needs, and executive review notes  
+  
+**Suggested plugins:** Presentations, Spreadsheets, Google Drive, SharePoint, Box, Documents, Slack, Teams, Gmail, Outlook Email.
 
 #### How it works
 
-  1. Review the latest forecast model, KPI dashboard, prior pack, cash view, and owner inputs.
-  2. Update metrics, deltas, charts, and commentary.
-  3. Summarize what changed, what remains open, and which sections need executive review.
+  1. Codex reviews the latest forecast model, KPI dashboard, prior pack, cash view, forecast notes, and owner inputs.
+  2. It updates metrics, deltas, charts, commentary, and open questions.
+  3. It creates a refreshed CFO or board reporting pack with a summary of what changed, what still needs input, and which sections need executive review.
 
 
 
-#### Prompt to try
+#### Starter prompt
 
 Try it out
 
 Refresh the [CFO/board] reporting pack for [month/quarter]. Use the latest forecast model, KPI dashboard, prior pack, cash view, forecast notes, owner inputs, and open questions I provide. Update key metrics, deltas, charts, and commentary. Create a pack summary that explains what changed, what needs owner input, which assumptions remain open, and which slides or sections need executive review.
 
-#### How to customize it
+##### Real-world example
 
-Swap in the reporting period, latest forecast model, KPI dashboard, prior pack, cash view, forecast notes, and owner inputs. Tell Codex which slides or sections should be refreshed, what should stay unchanged, and how open assumptions or missing owner inputs should be flagged.
-
-**Suggested plugins:** Presentations, Spreadsheets, Google Drive, SharePoint, Box, Documents, Slack, Teams, Gmail, Outlook Email.
-
-**Example:**
-
-_Refresh Acme’s May CFO reporting pack. Use “May Forecast Model.xlsx,” “May KPI Dashboard,” “April Board Pack.pptx,” “May Cash View,” “Forecast Notes - May,” owner inputs in “CFO Pack Open Questions,” and related discussion from #cfo-staff._
+ _Refresh Acme’s May CFO reporting pack. Use “May Forecast Model.xlsx,” “May KPI Dashboard,” “April Board Pack.pptx,” “May Cash View,” “Forecast Notes - May,” owner inputs in “CFO Pack Open Questions,” and related discussion from #cfo-staff._
 
 _Update the key metrics, deltas, charts, and commentary. Create a CFO-ready pack summary that explains what changed since the April board pack, what still needs owner input, which assumptions remain open, and which slides or sections need executive review. Do not invent metrics. Flag any number that cannot be tied back to the forecast model, KPI dashboard, cash view, or owner notes._
 
 ##  4\. Variance driver bridge
 
-##### Why people use this
+**Use this when:** You need to explain what drove movement between actuals, budget, and forecast across revenue, expense, cash, or KPI lines.
 
-Turn budget, forecast, and actuals movement into a clear variance bridge leaders can trust and act on.
+**What you bring**| **What Codex returns**  
+---|---  
+Actuals, budget, forecast, prior forecast, KPI dashboard, variance thresholds, owner notes, and relevant source files| A variance bridge deliverable with driver-ranked movements, source-backed explanations, flagged anomalies, open questions, and owner follow-ups  
+  
+**Suggested plugins:** Spreadsheets, Documents, Presentations, Google Drive, SharePoint, Box, Slack, Teams, Gmail, Outlook Email.
 
 #### How it works
 
-  1. Review close workbooks, budgets, forecasts, dashboards, trackers, and owner notes.
-  2. Build a driver bridge across revenue, margin, opex, cash flow, and balance-sheet items where relevant.
-  3. Flag unsupported variances and draft owner-ready follow-up questions.
+  1. Codex compares actuals, budget, forecast, prior forecast, KPI data, and owner notes.
+  2. It identifies the largest drivers, anomalies, source-backed explanations, and open questions.
+  3. It creates a variance bridge deliverable with ranked drivers, commentary, owner follow-ups, and optional chart or slide-ready summary.
 
 
 
-#### Prompt to try
+#### Starter prompt
 
 Try it out
 
 Explain the [period] variance between [actual/budget/forecast/prior forecast]. Use the close workbook, budget file, prior forecast, revenue dashboard, opex tracker, cash view, and finance owner notes I provide. Build a variance bridge across revenue, gross margin, opex, EBITDA, free cash flow, and balance-sheet drivers where relevant. Draft owner-ready questions, reconcile source breaks, and flag any variance that is not supported by a source.
 
-#### How to customize it
+##### Real-world example
 
-Swap in the comparison period, actuals, budget, prior forecast, dashboards, trackers, and finance owner notes. Tell Codex which P&L, cash flow, or balance-sheet lines to bridge and how to handle unsupported variances. Ask it to separate confirmed drivers from questions for owners.
-
-**Suggested plugins:** Spreadsheets, Google Drive, SharePoint, Box, Documents, Slack, Teams, Gmail, Outlook Email.  
-
-
-**Example:**
-
-_Explain Acme’s April forecast-to-actual movement. Use “April Close Workbook.xlsx,” “FY26 Budget.xlsx,” “March Forecast.xlsx,” “April Revenue Dashboard,” “April Opex Tracker,” “April Cash View,” and finance owner notes from #finance-close._
+ _Explain Acme’s April forecast-to-actual movement. Use “April Close Workbook.xlsx,” “FY26 Budget.xlsx,” “March Forecast.xlsx,” “April Revenue Dashboard,” “April Opex Tracker,” “April Cash View,” and finance owner notes from #finance-close._
 
 _Build a variance bridge across revenue, gross margin, opex, EBITDA, free cash flow, and balance-sheet drivers where relevant. Draft owner-ready follow-up questions, reconcile source breaks, and flag any variance that is not supported by a source. Cite the workbook tab, dashboard, tracker, or owner note behind each material driver._
 
 ##  5\. Forecast refresh and scenario planning
 
-#### Why people use this
+**Use this when:** You need to update a forecast with new assumptions, compare scenarios, and turn the results into a review-ready planning artifact.
 
-Help finance teams update forecasts and compare scenarios quickly as assumptions, actuals, and leadership priorities change.
+**What you bring**| **What Codex returns**  
+---|---  
+Forecast model, latest actuals, assumption updates, business-owner inputs, scenario rules, planning calendar, and prior forecast| A refreshed forecast and scenario planning deliverable with base, upside, and downside cases; assumption changes; key sensitivities; risks; and review notes  
+  
+**Suggested plugins:** Spreadsheets, Documents, Presentations, Google Drive, SharePoint, Box, Slack, Teams, Gmail, Outlook Email.
 
 #### How it works
 
-  1. Review the operating model, driver model, headcount plan, cash forecast, actuals, and assumptions.
-  2. Build base, downside, and upside scenarios with key sensitivities.
-  3. Summarize cash impact, hiring implications, trigger points, and approval needs.
+  1. Codex reviews the prior forecast, latest actuals, assumption updates, owner inputs, and scenario rules.
+  2. It updates the forecast where safe, builds or compares scenarios, and identifies key sensitivities, risks, and open assumptions.
+  3. It creates a refreshed forecast and scenario planning deliverable with review notes, source-backed assumption changes, and optional chart or slide-ready summary.
 
 
 
-#### Prompt to try
+#### Starter prompt
 
 Try it out
 
 Refresh the [forecast or operating plan] for [business]. Use the operating model, revenue driver model, headcount plan, cash forecast, latest actuals, approved planning assumptions, and leadership notes I provide. Create base, downside, and upside scenarios with key drivers, cash impact, hiring implications, trigger points, and a recommendation. Include a sensitivity table and list assumptions that need approval before the plan is shared.
 
-#### How to customize it
+##### Real-world example
 
-Swap in the forecast or operating plan, driver model, headcount plan, cash forecast, latest actuals, approved assumptions, and leadership notes. Tell Codex which scenarios to build, what assumptions require approval, and what outputs leadership needs to compare. Ask for cash impact, hiring implications, trigger points, and a sensitivity table.
-
-**Suggested plugins:** Spreadsheets, Google Drive, SharePoint, Box, Documents, Presentations (optional), Slack, Teams, Gmail, Outlook Email.
-
-**Example:**
-
-_Refresh Acme’s FY27 forecast for the Enterprise business. Use “FY27 Operating Plan Model.xlsx,” “Revenue Driver Model.xlsx,” “Headcount Plan.xlsx,” “13 Week Cash Forecast.xlsx,” April actuals, approved planning assumptions in “FY27 Planning Assumptions,” and leadership notes from #fy27-planning._
+ _Refresh Acme’s FY27 forecast for the Enterprise business. Use “FY27 Operating Plan Model.xlsx,” “Revenue Driver Model.xlsx,” “Headcount Plan.xlsx,” “13 Week Cash Forecast.xlsx,” April actuals, approved planning assumptions in “FY27 Planning Assumptions,” and leadership notes from #fy27-planning._
 
 _Create base, downside, and upside scenarios with the key revenue, margin, hiring, and cash drivers. Summarize cash impact, hiring implications, trigger points, and your recommendation. Include a sensitivity table and list assumptions that need approval before the plan is shared. Do not overwrite business assumptions without flagging them for review._
 
-##  Keep learning
+##  More resources 
 
-Continue exploring Codex for work with these resources:
+Keep exploring Codex for work with these resources:
 
-  * [Codex for Work hub](</academy/codex-for-work/>)
+  * [Codex for work hub](</academy/codex-for-work/>)
   * [Codex for everyday work on-demand webinar⁠(opens in a new window)](<https://academy.openai.com/home/clubs/work-users-ynjqu/videos/codex-for-everyday-work-recording-2026-05-06>)
-  * [Top 10 Codex for Work use cases](</academy/top-10-use-cases-codex-for-work/>)
+  * [Top 10 uses for Codex at work](</academy/top-10-use-cases-codex-for-work/>)
 
 
 
@@ -235,23 +224,23 @@ Continue exploring Codex for work with these resources:
 
 Discover additional guides and resources to help you build practical AI skills.
 
-[View all topics](</academy/>)
+[View all topics](</academy/>)[Explore Codex for work](</academy/codex-for-work/>)
 
 ## Keep reading
 
 [View all](</news/>)
 
-![Automations > card image](https://images.ctfassets.net/kftzwdyauwt9/WWbNfZvQUCV942pR9wPFw/69567e99135e87f695b94809ac026162/automations.png?w=3840&q=90&fm=webp)
+![How business operations teams use Codex > card image](https://images.ctfassets.net/kftzwdyauwt9/JR9MMoyTo7eFFF8Nv13Qc/43414ee0c762db49e36bda8ae0d35e39/bus_ops_teams.png?w=3840&q=90&fm=webp)
 
-[AutomationsOpenAI AcademyApr 23, 2026](</academy/codex-automations/>)
+[How business operations teams use CodexOpenAI AcademyMay 15, 2026](</academy/codex-for-work/how-business-operations-teams-use-codex/>)
 
-![Top 10 uses for Codex at work > card image](https://images.ctfassets.net/kftzwdyauwt9/23Axi2CAv85jqsBMZ98fAI/230757b8f4bcdc4de4ec24c50da3f5be/top-10-at-work.png?w=3840&q=90&fm=webp)
+![How data science teams use Codex > card image](https://images.ctfassets.net/kftzwdyauwt9/xyevYnp4Ptaa1eMgBDNjS/75fea80018f321b89809d893f1a5786d/data_science_teams.png?w=3840&q=90&fm=webp)
 
-[Top 10 uses for Codex at workOpenAI AcademyApr 23, 2026](</academy/top-10-use-cases-codex-for-work/>)
+[How data science teams use CodexOpenAI AcademyMay 15, 2026](</academy/codex-for-work/how-data-science-teams-use-codex/>)
 
-![Plugins > card image](https://images.ctfassets.net/kftzwdyauwt9/7r2o2rTyjurYOamZ2sKDY1/5373d74efd317af8de9cc71fa7479778/plugins.png?w=3840&q=90&fm=webp)
+![How sales teams use Codex > card image](https://images.ctfassets.net/kftzwdyauwt9/1O4te2wMh6O77eDV6kapG3/02845b054a09297b9fada40c4cc9a71f/sales_teams.png?w=3840&q=90&fm=webp)
 
-[Plugins and skillsOpenAI AcademyApr 23, 2026](</academy/codex-plugins-and-skills/>)
+[How sales teams use CodexOpenAI AcademyMay 15, 2026](</academy/codex-for-work/how-sales-teams-use-codex/>)
 
 Our Research
 

@@ -328,6 +328,10 @@ OpenAI
 
 [View all](</news/>)
 
+![Personal finance in ChatGPT > Media > Cover](https://images.ctfassets.net/kftzwdyauwt9/4zSr4YNWXIEYz20piN2bxf/6f9a561be6055802914aee0a3bb671d7/ArtCard-Personal-Finance.png?w=3840&q=90&fm=webp)
+
+[A new personal finance experience in ChatGPTProductMay 15, 2026](</index/personal-finance-chatgpt/>)
+
 ![1x1 Art Card](https://images.ctfassets.net/kftzwdyauwt9/7qVT9WlLKfgGLPC5W77ei6/a24fd3f13b754378759959aa77cd8f5d/1_1.png?w=3840&q=90&fm=webp)
 
 [Work with Codex from anywhereProductMay 14, 2026](</index/work-with-codex-from-anywhere/>)
@@ -335,10 +339,6 @@ OpenAI
 ![OAI GPT-Realtime-2 Art Card 1x1](https://images.ctfassets.net/kftzwdyauwt9/4TtA6X4b6MbTFXSkoZXvqk/39930a05ebb333898ad1df6c28463465/OAI_GPT-Realtime-2_Art_Card_1x1.png?w=3840&q=90&fm=webp)
 
 [Advancing voice intelligence with new models in the APIProductMay 7, 2026](</index/advancing-voice-intelligence-with-new-models-in-the-api/>)
-
-![OAI AdsTest Blog ArtCard 1x1](https://images.ctfassets.net/kftzwdyauwt9/7drPwCnD6ied4wPzlJd7qa/d79ccfda974080bbca7d688ad9bcbc6f/OAI_AdsTest_Blog_ArtCard_1x1.png?w=3840&q=90&fm=webp)
-
-[Testing ads in ChatGPTCompanyMay 7, 2026](</index/testing-ads-in-chatgpt/>)
 
 Our Research
 

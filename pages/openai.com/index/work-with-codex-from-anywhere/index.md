@@ -53,7 +53,7 @@ Codex is now in the ChatGPT mobile app so you can stay in the loop from anywhere
 
 As agents take on longer-running work, a new rhythm for collaboration is emerging. To keep work moving, you need to be able to easily answer a question, review what Codex found, change direction, approve what comes next, or add a new idea.
 
-More than 4 million people now use Codex every week, and we’re seeing how much those small moments matter. A quick check-in can keep a thread moving, prevent unnecessary rework, or help Codex make progress with the right context. Now you can do that from your phone.
+More than 4 million people now use Codex every week, and we’re seeing how much those small moments matter. A quick check-in can keep a thread moving, prevent unnecessary rework, or help Codex make progress with the right context. Now you can do that from your phone. Get started [here⁠(opens in a new window)](<https://developers.openai.com/codex/remote-connections>).
 
 ## Stay connected to active work from anywhere
 
@@ -86,7 +86,7 @@ Once connected, those environments can become accessible across your authorized 
 
 We’re also releasing several updates that expand how teams can automate, customize, and manage Codex at scale:
 
-  * **Programmatic access tokens** provide scoped credentials that can be issued directly from ChatGPT workspace settings for CI pipelines, release workflows, and internal automations.
+  * [**Programmatic access tokens** ⁠(opens in a new window)](<https://developers.openai.com/codex/enterprise/access-tokens>) provide scoped credentials that can be issued directly from ChatGPT workspace settings for CI pipelines, release workflows, and internal automations.
   * [**Hooks** ⁠(opens in a new window)](<https://developers.openai.com/codex/hooks>) are now generally available and can be used to scan prompts for secrets, run validators, log conversations, create memories, or customize Codex behavior for specific repositories and directories.
   * **Support for HIPAA-compliant use of Codex in local environments** (CLI, IDE, App) for ChatGPT Enterprise workspaces, enabling healthcare organizations to support patient care and operational workflows with greater speed and confidence.
 
@@ -111,6 +111,10 @@ OpenAI
 
 [View all](</news/>)
 
+![Personal finance in ChatGPT > Media > Cover](https://images.ctfassets.net/kftzwdyauwt9/4zSr4YNWXIEYz20piN2bxf/6f9a561be6055802914aee0a3bb671d7/ArtCard-Personal-Finance.png?w=3840&q=90&fm=webp)
+
+[A new personal finance experience in ChatGPTProductMay 15, 2026](</index/personal-finance-chatgpt/>)
+
 ![OAI GPT-Realtime-2 Art Card 1x1](https://images.ctfassets.net/kftzwdyauwt9/4TtA6X4b6MbTFXSkoZXvqk/39930a05ebb333898ad1df6c28463465/OAI_GPT-Realtime-2_Art_Card_1x1.png?w=3840&q=90&fm=webp)
 
 [Advancing voice intelligence with new models in the APIProductMay 7, 2026](</index/advancing-voice-intelligence-with-new-models-in-the-api/>)
@@ -118,10 +122,6 @@ OpenAI
 ![OAI AdsTest Blog ArtCard 1x1](https://images.ctfassets.net/kftzwdyauwt9/7drPwCnD6ied4wPzlJd7qa/d79ccfda974080bbca7d688ad9bcbc6f/OAI_AdsTest_Blog_ArtCard_1x1.png?w=3840&q=90&fm=webp)
 
 [Testing ads in ChatGPTCompanyMay 7, 2026](</index/testing-ads-in-chatgpt/>)
-
-![20250826](https://images.ctfassets.net/kftzwdyauwt9/2H347RfdThVOeTfSBchxDx/8a053f4cfa92faeed7141265dd02e7dd/20250826.jpg?w=3840&q=90&fm=webp)
-
-[GPT-5.5 Instant: smarter, clearer, and more personalizedProductMay 5, 2026](</index/gpt-5-5-instant/>)
 
 Our Research
 

@@ -26,7 +26,7 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Published: May 7, 2026
+Published: July 16, 2025
 
 # Unauthorized OpenAI Equity Transactions
 

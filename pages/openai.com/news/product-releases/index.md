@@ -50,6 +50,10 @@ Switch cards to show Media
 
 Switch cards to hide Media
 
+![Personal finance in ChatGPT > Media > Cover](https://images.ctfassets.net/kftzwdyauwt9/4zSr4YNWXIEYz20piN2bxf/6f9a561be6055802914aee0a3bb671d7/ArtCard-Personal-Finance.png?w=3840&q=90&fm=webp)
+
+[A new personal finance experience in ChatGPTProductMay 15, 2026](</index/personal-finance-chatgpt/>)
+
 ![1x1 Art Card](https://images.ctfassets.net/kftzwdyauwt9/7qVT9WlLKfgGLPC5W77ei6/a24fd3f13b754378759959aa77cd8f5d/1_1.png?w=3840&q=90&fm=webp)
 
 [Work with Codex from anywhereProductMay 14, 2026](</index/work-with-codex-from-anywhere/>)
@@ -81,10 +85,6 @@ Switch cards to hide Media
 ![Hero Art Card SEO 1x1](https://images.ctfassets.net/kftzwdyauwt9/cut4wyUCuBENXfd5CSI7Z/d934ffb49d8b39abea0bc33bb1a5b916/Hero_Art_Card_SEO_1x1.jpg?w=3840&q=90&fm=webp)
 
 [Introducing GPT-5.5ProductApr 23, 2026](</index/introducing-gpt-5-5/>)
-
-![Making ChatGPT free for clinicians](https://images.ctfassets.net/kftzwdyauwt9/3zEoOmxWfemrEyDdV6Jmk7/02362f802128d38891b74c74d8d0b7e1/Art_Card_1080x1080.png?w=3840&q=90&fm=webp)
-
-[Making ChatGPT better for cliniciansProductApr 22, 2026](</index/making-chatgpt-better-for-clinicians/>)
 
 Load more
 

@@ -34,11 +34,13 @@ December 18, 2025
 
 A teen’s guide to using ChatGPT thoughtfully—plus tips for parents to support healthy, responsible use.
 
-[Download the family guide(opens in a new window)](<https://cdn.openai.com/pdf/a-family-guide-to-help-teens-use-ai-responsibly.pdf>)[Download tips for parents(opens in a new window)](<https://cdn.openai.com/pdf/tips-for-talking-to-your-teen-about-ai.pdf>)
-
 Loading…
 
 Share
+
+ _Update from May 14: We 've added a new parent guide for using ChatGPT at home for family life, learning, and everyday support. _[Learn more here⁠⁠(opens in a new window)](<https://cdn.openai.com/pdf/chatgpt-at-home.pdf>)
+
+* * *
 
 We’re sharing two new AI literacy resources to help families use ChatGPT thoughtfully, safely, and confidently. First is a family-friendly guide that explains—in plain language—how AI models are trained, why AI can sometimes get things wrong, and the importance of double checking the information received. It also includes practical tips for responsible use, like how to write better prompts, why you might get different answers to the same question, and how to manage your data and settings.
 
