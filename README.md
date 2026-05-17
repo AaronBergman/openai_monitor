@@ -5,6 +5,40 @@ maintained by a Claude Code routine. Each run diffs the current sitemap
 against the prior one, fetches changed pages, and writes a plain-language
 summary that a smart layperson can follow.
 
+## 2026-05-17T09-15Z
+
+**Fetch time:** 2026-05-17T09:15:42Z UTC | **Baseline:** 2026-05-16T09-15Z
+
+**TL;DR:** One new article today: Malta and OpenAI announced a "world's first" national partnership under the OpenAI for Countries program — every Maltese citizen can get free ChatGPT Plus for one year after completing a government-backed AI literacy course developed by the University of Malta. The initiative, called "AI for All," is managed by the Malta Digital Innovation Authority and launches in May 2026. George Osborne is identified as "Head of OpenAI for Countries," signaling this is a named, dedicated OpenAI program (already active in Estonia and Greece for education). Elsewhere, 33 URLs received lastmod updates, but content diffs show only one substantive change: the Astral acquisition article's "Keep reading" recommendation carousel rotated to show more recent articles (TanStack npm security post, Deployment Company launch, Campus Network interest form), and the global-affairs news hub now lists the Malta article. All other timestamp bumps — including a batch sweep of 16 teen-safety pages at ~05:35 UTC and a sweep of news hubs, policy pages, and the podcast page — show no visible content change. The `amex-chatgpt-business/` URL continues to appear as "removed" due to a legacy-file artifact in the repository; it has been absent from OpenAI's live sitemap since May 14. No anomalies.
+
+### Anomalies
+
+None detected.
+
+### New Pages (1 added)
+
+**[OpenAI and Malta partner to bring ChatGPT Plus to all citizens](pages/openai.com/index/malta-chatgpt-plus-partnership/index.md)** *(lastmod: 2026-05-16T10:31:32Z; Global Affairs)* — Malta and OpenAI announced what they call the world's first national partnership of this type: Maltese citizens who complete a free AI literacy course (developed by the University of Malta, covering what AI is, what it can't do, and how to use it responsibly at home and work) unlock one year of ChatGPT Plus at no cost to them. Distribution is managed by the Malta Digital Innovation Authority; the first phase launches in May 2026. The partnership is branded as part of **OpenAI for Countries** — a named program designed to take governments from early AI interest to strategic national adoption, with tailored priorities (education, workforce training, AI literacy) rather than a one-size-fits-all model. Malta's angle is civic AI literacy at population scale, with the University-designed course as the gating mechanism. The article explicitly positions this as a model for other countries: "Where Malta leads, I hope others will follow" (George Osborne, Head of OpenAI for Countries). Malta joins Estonia and Greece already cited as OpenAI for Countries partners.
+
+### Notable Page Updates
+
+- **[openai.com/index/openai-to-acquire-astral/](pages/openai.com/index/openai-to-acquire-astral/index.md)** — "Keep reading" recommendation carousel at the bottom of the page rotated. Previous recommendations (from May 6 and Apr 27 posts) replaced with: "Our response to the TanStack npm supply chain attack" (May 13), "OpenAI Campus Network: Student club interest form" (May 11), and "OpenAI launches the Deployment Company" (May 11). Article content unchanged.
+
+- **[openai.com/news/global-affairs/](pages/openai.com/news/global-affairs/index.md)** — Malta article now appears in the hub listing. The older Cloudflare OpenAI Agent Cloud article (Apr 13) rotated off the featured section.
+
+- **16 teen-safety and child-safety pages** received simultaneous lastmod bumps around 05:35 UTC with no visible content change — consistent with a CMS batch refresh of the teen-safety content cluster published in recent weeks.
+
+- **Policy pages** (`/policies/conversion-dpa/`, `/policies/conversion-subprocessors/`, `/policies/conversion-terms/`, `/policies/kr-privacy-policy/`) and **`/podcast/`** received lastmod updates with no visible content change.
+
+### Removed from Sitemap (1, artifact)
+
+- **`https://openai.com/amex-chatgpt-business/`** — Recurring artifact: this URL has been absent from OpenAI's live sitemap since May 14. It keeps appearing in the baseline because legacy-named files from early runs remain in `sitemaps/openai.com/sub/latest/`. State records `last_seen = 2026-05-13T09-15Z`.
+
+**Stats:** 1,314 total URLs | +1 added | 33 updated (lastmod) | 1 removed (artifact) | 0 anomalies | 32 sub-sitemaps
+
+*Full machine-readable diff: [runs/2026-05-17T09-15Z/diff.json](runs/2026-05-17T09-15Z/diff.json) | [runs/2026-05-17T09-15Z/analysis.md](runs/2026-05-17T09-15Z/analysis.md)*
+
+---
+
 ## 2026-05-16T09-15Z
 
 **Fetch time:** 2026-05-16T09:17:04Z UTC | **Baseline:** 2026-05-15T09-15Z
