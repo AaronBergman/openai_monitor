@@ -50,6 +50,10 @@ Switch cards to show Media
 
 Switch cards to hide Media
 
+![malta partnership > art card](https://images.ctfassets.net/kftzwdyauwt9/640ky2MygwV3jpGjE153fQ/a98bc57773bf3518328afb5f5ffafaad/Art_Card__6_.png?w=3840&q=90&fm=webp)
+
+[OpenAI and Malta partner to bring ChatGPT Plus to all citizensGlobal AffairsMay 16, 2026](</index/malta-chatgpt-plus-partnership/>)
+
 ![CA Privacy > card img](https://images.ctfassets.net/kftzwdyauwt9/3lWXxBR8sZQiOsh6oNJHf9/f7d47996c9f425621016ea27f3b8ad4e/how-chatgpt-protects-privacy-1_1.png?w=3840&q=90&fm=webp)
 
 [How ChatGPT learns about the world while protecting privacy Global AffairsMay 6, 2026](</index/how-chatgpt-protects-privacy/>)
@@ -81,10 +85,6 @@ Switch cards to hide Media
 ![openai-helps-hyatt-advance-ai-among-colleagues-1x1](https://images.ctfassets.net/kftzwdyauwt9/45zB27aEEnu214lZyhgfBn/193494dcf16e6ec2bfdeb2ddb3674254/openai-helps-hyatt-advance-ai-among-colleagues-1x1.png?w=3840&q=90&fm=webp)
 
 [OpenAI helps Hyatt advance AI among colleagues Global AffairsApr 20, 2026](</index/hyatt-advances-ai-with-chatgpt-enterprise/>)
-
-![Cloudflare OpenAI art card 1x1](https://images.ctfassets.net/kftzwdyauwt9/6g5hzhOoHM68zGjNYQ5H1D/344bc6c2f06a8b0793e9becffd4c8bc9/Cloudflare_OpenAI_art_card_1x1.png?w=3840&q=90&fm=webp)
-
-[Enterprises power agentic workflows in Cloudflare Agent Cloud with OpenAI Global AffairsApr 13, 2026](</index/cloudflare-openai-agent-cloud/>)
 
 Load more
 
