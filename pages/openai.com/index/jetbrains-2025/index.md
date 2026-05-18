@@ -127,17 +127,17 @@ More than 1 million businesses around the world are achieving meaningful results
 
 ## Keep reading
 
-![Personal finance in ChatGPT > Media > Cover](https://images.ctfassets.net/kftzwdyauwt9/4zSr4YNWXIEYz20piN2bxf/6f9a561be6055802914aee0a3bb671d7/ArtCard-Personal-Finance.png?w=3840&q=90&fm=webp)
+![malta partnership > art card](https://images.ctfassets.net/kftzwdyauwt9/640ky2MygwV3jpGjE153fQ/a98bc57773bf3518328afb5f5ffafaad/Art_Card__6_.png?w=3840&q=90&fm=webp)
 
-[A new personal finance experience in ChatGPTProductMay 15, 2026](</index/personal-finance-chatgpt/>)
+[OpenAI and Malta partner to bring ChatGPT Plus to all citizensGlobal AffairsMay 16, 2026](</index/malta-chatgpt-plus-partnership/>)
+
+![How business operations teams use Codex > card image](https://images.ctfassets.net/kftzwdyauwt9/JR9MMoyTo7eFFF8Nv13Qc/43414ee0c762db49e36bda8ae0d35e39/bus_ops_teams.png?w=3840&q=90&fm=webp)
+
+[How business operations teams use CodexOpenAI AcademyMay 15, 2026](</academy/codex-for-work/how-business-operations-teams-use-codex/>)
 
 ![Databricks customer story > Hero image](https://images.ctfassets.net/kftzwdyauwt9/zSMR7MjYs8dfmIqajAVyK/996ec87e2e6d26dc5c327441f9dd8ea1/oai_Databricks_1x1.png?w=3840&q=90&fm=webp)
 
 [Databricks brings GPT-5.5 to enterprise agent workflowsMay 15, 2026](</index/databricks/>)
-
-![EF Ep20 1.1](https://images.ctfassets.net/kftzwdyauwt9/6Wp6DOKXObm4D5mzDZU7Q0/a612075495fe9f6854159364a3041bc2/EF_Ep20_1.1.png?w=3840&q=90&fm=webp)
-
-[Sea's View on the Future of Agentic Software Development with CodexMay 14, 2026](</index/sea-david-chen/>)
 
 Our Research
 
