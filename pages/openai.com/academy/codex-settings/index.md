@@ -34,6 +34,8 @@ OpenAI Academy
 
 Make Codex work the way you want, with fewer interruptions.
 
+[Download Codex(opens in a new window)](<https://chatgpt.com/codex/for-work/>)
+
 Loading…
 
 Share
@@ -56,23 +58,23 @@ You do not need to master every setting before using Codex. Start with these, ke
 
 Discover additional guides and resources to help you build practical AI skills.
 
-[View all topics](</academy/>)
+[View all topics](</academy/>)[Explore Codex for work](</academy/codex-for-work/>)
 
 ## Keep reading
 
 [View all](</news/>)
 
-![Top 10 uses for Codex at work > card image](https://images.ctfassets.net/kftzwdyauwt9/23Axi2CAv85jqsBMZ98fAI/230757b8f4bcdc4de4ec24c50da3f5be/top-10-at-work.png?w=3840&q=90&fm=webp)
+![How business operations teams use Codex > card image](https://images.ctfassets.net/kftzwdyauwt9/JR9MMoyTo7eFFF8Nv13Qc/43414ee0c762db49e36bda8ae0d35e39/bus_ops_teams.png?w=3840&q=90&fm=webp)
 
-[How finance teams use CodexOpenAI AcademyMay 12, 2026](</academy/how-finance-teams-use-codex/>)
+[How business operations teams use CodexOpenAI AcademyMay 15, 2026](</academy/codex-for-work/how-business-operations-teams-use-codex/>)
 
-![Automations > card image](https://images.ctfassets.net/kftzwdyauwt9/WWbNfZvQUCV942pR9wPFw/69567e99135e87f695b94809ac026162/automations.png?w=3840&q=90&fm=webp)
+![How data science teams use Codex > card image](https://images.ctfassets.net/kftzwdyauwt9/xyevYnp4Ptaa1eMgBDNjS/75fea80018f321b89809d893f1a5786d/data_science_teams.png?w=3840&q=90&fm=webp)
 
-[AutomationsOpenAI AcademyApr 23, 2026](</academy/codex-automations/>)
+[How data science teams use CodexOpenAI AcademyMay 15, 2026](</academy/codex-for-work/how-data-science-teams-use-codex/>)
 
-![Top 10 uses for Codex at work > card image](https://images.ctfassets.net/kftzwdyauwt9/23Axi2CAv85jqsBMZ98fAI/230757b8f4bcdc4de4ec24c50da3f5be/top-10-at-work.png?w=3840&q=90&fm=webp)
+![How sales teams use Codex > card image](https://images.ctfassets.net/kftzwdyauwt9/1O4te2wMh6O77eDV6kapG3/02845b054a09297b9fada40c4cc9a71f/sales_teams.png?w=3840&q=90&fm=webp)
 
-[Top 10 uses for Codex at workOpenAI AcademyApr 23, 2026](</academy/top-10-use-cases-codex-for-work/>)
+[How sales teams use CodexOpenAI AcademyMay 15, 2026](</academy/codex-for-work/how-sales-teams-use-codex/>)
 
 Our Research
 

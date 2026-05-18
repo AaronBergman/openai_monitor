@@ -43,6 +43,8 @@ OpenAI Academy
 
 Learn how to set up your Codex workspace and start working with threads and projects.
 
+[Download Codex(opens in a new window)](<https://chatgpt.com/codex/for-work/>)
+
 Loading…
 
 Share
@@ -87,7 +89,7 @@ You can also run multiple Codex tasks at the same time. In fact, most users do. 
 
 Discover additional guides and resources to help you build practical AI skills.
 
-[View all topics](</academy/>)
+[View all topics](</academy/>)[Explore Codex for work](</academy/codex-for-work/>)
 
 ## Keep reading
 

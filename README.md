@@ -39,6 +39,38 @@ None detected.
 
 ---
 
+## 2026-05-18T09-15Z
+
+**Fetch time:** 2026-05-18T09:16:52Z UTC | **Baseline:** 2026-05-17T09-15Z
+
+**TL;DR:** No new pages or removals today. The 36 `<lastmod>` updates break into three clusters: (1) a **teen/child safety content sweep** — 15 safety-section pages had their sitemap timestamps refreshed again around 08:33 UTC (this is the third consecutive daily batch sweep of this cluster; content diffs show only the "Keep reading" recommendation carousels rotating, not new substantive text); (2) a **routine CMS refresh** of six news-hub landing pages and four product pages including `running-codex-safely`, `work-with-codex-from-anywhere`, and the GPT-5.5 article (the GPT-5.5 "Keep reading" box swapped out the "Testing ads in ChatGPT" link for "A new personal finance experience in ChatGPT," reflecting the May 15 launch); and (3) a **Conversion policy trio** (`conversion-terms`, `conversion-dpa`, `conversion-subprocessors`) quietly refreshed early this morning — the published date still reads May 14 and no text changed, so this looks like a backend CMS touch rather than a legal update. The `introducing-prism` page also got a lastmod bump (from May 5 → May 18) but no visible content change was detected. No anomalies.
+
+### Anomalies
+
+None detected.
+
+### Notable Page Updates
+
+- **Teen/child safety cluster (15 pages)** — For the third day running, the entire teen-safety content cluster received a simultaneous lastmod sweep (~08:33–34 UTC). Pages include `introducing-the-teen-safety-blueprint`, `updating-model-spec-with-teen-protections`, `teen-safety-policies-gpt-oss-safeguard`, `ai-literacy-resources-for-teens-and-parents`, `japan-teen-safety-blueprint`, and nine more. Content diffs show no substantive change; the `Keep reading` carousels rotated to surface more recent articles. This is likely an automated CMS republish triggered whenever the teen-safety content cluster is touched (possibly as OpenAI continues rolling out related work behind the scenes).
+
+- **[/index/introducing-gpt-5-5/](pages/openai.com/index/introducing-gpt-5-5/index.md)** — The "Keep reading" section at the bottom of the GPT-5.5 release page was updated. The "Testing ads in ChatGPT" (May 7) recommendation was replaced with "A new personal finance experience in ChatGPT" (May 15). The main article content is unchanged. This is a routine carousel rotation.
+
+- **[/index/introducing-prism/](pages/openai.com/index/introducing-prism/index.md)** — lastmod jumped from `2026-05-05` to `2026-05-18T08:05Z` — a 13-day gap, larger than other sweep items. No text differences detected in the rendered markdown. Could be a backend metadata or asset update. Prism is OpenAI's free AI-native scientific writing platform (a LaTeX workspace powered by GPT-5.2, built on the acquired Crixet platform).
+
+- **[/form/enterprise-trusted-access-for-cyber/](pages/openai.com/form/enterprise-trusted-access-for-cyber/index.md)** — The "Trusted Access for Cyber" application form was refreshed (lastmod `2026-05-17T09:40Z`). This form lets vetted enterprise customers and cybersecurity practitioners apply for access to OpenAI's higher-risk dual-use cybersecurity capabilities — the pitch is that these tools are "powerful force multipliers for network defenders." Applicants must prove identity, professional use case, and OpenAI organization ID. This update follows the recent Axios and TanStack npm supply-chain security disclosures published on the same site.
+
+- **[/form/codex-for-oss/](pages/openai.com/form/codex-for-oss/index.md)** — The open-source maintainer access form for Codex was also refreshed (lastmod `2026-05-17T09:39Z`). Selected maintainers get 6 months of ChatGPT Pro (includes Codex), conditional access to Codex Security, and API credits for coding/maintenance workflows.
+
+- **Security posts** (`/index/axios-developer-tool-compromise/`, `/index/our-response-to-the-tanstack-npm-supply-chain-attack/`) — Both received lastmod bumps around 07:26 UTC with no visible content change. The Axios post advises macOS users to update apps before May 8 (already past); the TanStack post covers a North Korea-linked supply chain attack on the TanStack npm package.
+
+- **Conversion policy trio** (`/policies/conversion-terms/`, `/policies/conversion-dpa/`, `/policies/conversion-subprocessors/`) — All three refreshed between 05:13–09:14 UTC. Published dates unchanged (May 14); no text differences detected. These govern how advertisers provide conversion data to OpenAI (part of OpenAI's advertising/measurement infrastructure launched with the Conversion Tools product).
+
+**Stats:** 1,314 total URLs | +0 added | 36 updated (lastmod) | 0 removed | 0 anomalies | 32 sub-sitemaps
+
+*Full machine-readable diff: [runs/2026-05-18T09-15Z/diff.json](runs/2026-05-18T09-15Z/diff.json) | [runs/2026-05-18T09-15Z/analysis.md](runs/2026-05-18T09-15Z/analysis.md)*
+
+---
+
 ## 2026-05-16T09-15Z
 
 **Fetch time:** 2026-05-16T09:17:04Z UTC | **Baseline:** 2026-05-15T09-15Z
