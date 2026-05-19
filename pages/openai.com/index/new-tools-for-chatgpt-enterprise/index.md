@@ -130,9 +130,9 @@ We continue to invest deeply in enterprise security. In addition to these new to
 
 
 
-If you’re interested in [_ChatGPT Enterprise_](</chatgpt/enterprise/>) , please [_reach out to our team_](</contact-sales/>) to learn how we partner with organizations on AI strategy, use case development, and workforce enablement. We’ve worked with hundreds of global enterprises to support effective AI deployments securely and at scale.
+If you’re interested in [_ChatGPT Enterprise_ ⁠(opens in a new window)](<https://chatgpt.com/business/enterprise>), please [_reach out to our team_](</contact-sales/>) to learn how we partner with organizations on AI strategy, use case development, and workforce enablement. We’ve worked with hundreds of global enterprises to support effective AI deployments securely and at scale.
 
-These tools are also available in [_ChatGPT Edu_](</chatgpt/education/>) , an accessible option for universities to bring AI to campus at scale. 
+These tools are also available in [_ChatGPT Edu_ ⁠(opens in a new window)](<https://chatgpt.com/business/education>), an accessible option for universities to bring AI to campus at scale. 
 
 ## Related articles
 

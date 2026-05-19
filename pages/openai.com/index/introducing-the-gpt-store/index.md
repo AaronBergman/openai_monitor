@@ -88,7 +88,7 @@ In Q1 we will launch a GPT builder revenue program. As a first step, US builders
 
 ## Team and Enterprise customers can manage GPTs
 
-Today, we announced our new [ChatGPT Team](</chatgpt/team/>) plan for teams of all sizes. Team customers have access to a private section of the GPT Store which includes GPTs securely published to your workspace. The GPT Store will be available soon for [ChatGPT Enterprise](</chatgpt/enterprise/>) customers and will include enhanced admin controls like choosing how internal-only GPTs are shared and which external GPTs may be used inside your business. Like all usage on ChatGPT Team and Enterprise, we do not use your conversations with GPTs to improve our models.
+Today, we announced our new [ChatGPT Team⁠(opens in a new window)](<https://chatgpt.com/business/business-plan>) plan for teams of all sizes. Team customers have access to a private section of the GPT Store which includes GPTs securely published to your workspace. The GPT Store will be available soon for [ChatGPT Enterprise⁠(opens in a new window)](<https://chatgpt.com/business/enterprise>) customers and will include enhanced admin controls like choosing how internal-only GPTs are shared and which external GPTs may be used inside your business. Like all usage on ChatGPT Team and Enterprise, we do not use your conversations with GPTs to improve our models.
 
 Explore GPTs at [chatgpt.com/gpts⁠(opens in a new window)](<https://chatgpt.com/gpts>).
 

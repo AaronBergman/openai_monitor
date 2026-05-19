@@ -127,7 +127,7 @@ We also think that this track benefits especially from the availability of stron
 
 A major difference between Parameter Golf and earlier competitions like it was the widespread use of coding agents. The vast majority of submitters mentioned using agents as part of their work.
 
-That lowered the barrier to entry. Participants could set up experiments faster, inspect unfamiliar code, and test ideas with less friction. RunPod’s sponsorship of $1,000,000 in compute also played a major role in making the challenge accessible to more people.
+That lowered the barrier to entry. Participants could set up experiments faster, inspect unfamiliar code, and test ideas with less friction. Runpod’s sponsorship of $1,000,000 in compute also played a major role in making the challenge accessible to more people.
 
 At the same time, agent use created new issues for submission and scoring. Many submissions were small changes to existing top scorers, rather than fundamentally new approaches. This was often useful: strong ideas spread quickly and were refined by others. But it also created noise. When submissions that fell outside the competition guidelines produced unusually strong scores, other agents sometimes copied those ideas and continued down the same invalid path.
 

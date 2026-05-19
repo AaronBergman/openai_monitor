@@ -86,6 +86,10 @@ Switch cards to hide Media
 
 [Advancing voice intelligence with new models in the APIProductMay 7, 2026](</index/advancing-voice-intelligence-with-new-models-in-the-api/>)
 
+![dell](https://images.ctfassets.net/kftzwdyauwt9/17U8SngLERoATdFhOjWbDK/da377e6850f8241ea7814a347bad0a3a/Frame.png?w=3840&q=90&fm=webp)
+
+[OpenAI and Dell Technologies partner to bring Codex to hybrid and on-premises enterprise environmentsCompanyMay 18, 2026](</index/dell-codex-enterprise-partnership/>)
+
 ![Frame](https://images.ctfassets.net/kftzwdyauwt9/32jPyVqUObkTrIIyA6tJV1/4eb384b5bb2f21ccea5de7665858a37a/Frame.png?w=3840&q=90&fm=webp)
 
 [Our response to the TanStack npm supply chain attackCompanyMay 13, 2026](</index/our-response-to-the-tanstack-npm-supply-chain-attack/>)
@@ -117,10 +121,6 @@ Switch cards to hide Media
 ![Our Principles > card image](https://images.ctfassets.net/kftzwdyauwt9/51kSozt4hlmc3igCOUkeGw/67081a50c9b96ad81da937f08566f0d3/our-principles-1_1.png?w=3840&q=90&fm=webp)
 
 [Our principlesCompanyApr 26, 2026](</index/our-principles/>)
-
-![Introducing Codex Transformation Partners > card image ](https://images.ctfassets.net/kftzwdyauwt9/4Klqw4sYFLJgVVKfaVtLLj/81b59bc5dd9e18d56b6050da3c0d89eb/Frame__11_.png?w=3840&q=90&fm=webp)
-
-[Scaling Codex to enterprises worldwideCompanyApr 21, 2026](</index/scaling-codex-to-enterprises-worldwide/>)
 
 Load more
 

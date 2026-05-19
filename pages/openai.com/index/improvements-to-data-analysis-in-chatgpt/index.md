@@ -80,7 +80,7 @@ These new interactive features cover many chart types. ChatGPT will generate a s
 
 ## Comprehensive security and privacy
 
-As with any feature in ChatGPT, trust and data privacy are at the core of OpenAI’s mission. We don’t train on data from ChatGPT [Team](</chatgpt/team/>) and [Enterprise](</chatgpt/enterprise/>) customers, and ChatGPT Plus users can opt out of training through their [Data Controls⁠(opens in a new window)](<https://help.openai.com/en/articles/5722486-how-your-data-is-used-to-improve-model-performance>). Learn more about our [privacy and security policies⁠](<https://openai.com/enterprise-privacy>), including SAML SSO, compliance, and data encryption for ChatGPT Enterprise. 
+As with any feature in ChatGPT, trust and data privacy are at the core of OpenAI’s mission. We don’t train on data from ChatGPT [Team⁠(opens in a new window)](<https://chatgpt.com/business/business-plan>) and [Enterprise⁠(opens in a new window)](<https://chatgpt.com/business/enterprise>) customers, and ChatGPT Plus users can opt out of training through their [Data Controls⁠(opens in a new window)](<https://help.openai.com/en/articles/5722486-how-your-data-is-used-to-improve-model-performance>). Learn more about our [privacy and security policies⁠](<https://openai.com/enterprise-privacy>), including SAML SSO, compliance, and data encryption for ChatGPT Enterprise. 
 
   * [ChatGPT](</news/?tags=chatgpt>)
   * [2024](</news/?tags=2024>)
