@@ -34,7 +34,7 @@ August 28, 2023
 
 Get enterprise-grade security & privacy and the most powerful version of ChatGPT yet.
 
-[Contact sales](</contact-sales/>)[Learn more](</chatgpt/enterprise/>)
+[Contact sales](</contact-sales/>)[Learn more](<https://chatgpt.com/business/enterprise>)
 
 ![ChatGPT Enterprise](https://images.ctfassets.net/kftzwdyauwt9/232hTCFXhGdH0P1AOQMUuS/b3a3711fbf2e6fd639c66beed7bc57fd/21.png?w=3840&q=90&fm=webp)
 
@@ -111,7 +111,7 @@ Danny Wu, Head of AI Products at Canva
 
 We look forward to sharing an even more detailed roadmap with prospective customers and continuing to evolve ChatGPT Enterprise based on your feedback.
 
-We’re onboarding as many enterprises as we can over the next few weeks. [Learn more on our website](</chatgpt/enterprise/>) and connect with our sales team to get started.
+We’re onboarding as many enterprises as we can over the next few weeks. [Learn more on our website⁠(opens in a new window)](<https://chatgpt.com/business/enterprise>) and connect with our sales team to get started.
 
   * [ChatGPT](</news/?tags=chatgpt>)
   * [2023](</news/?tags=2023>)

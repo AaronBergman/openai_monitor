@@ -100,7 +100,7 @@ Tabytha “Taby” Scott
 
 ## Start something new with ChatGPT.
 
-[Get started(opens in a new window)](<https://chatgpt.com/>)[Learn more](</chatgpt/overview/>)
+[Get started(opens in a new window)](<https://chatgpt.com/>)[Learn more](<https://chatgpt.com/overview>)
 
 ## Related articles
 

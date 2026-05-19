@@ -50,6 +50,10 @@ Switch cards to show Media
 
 Switch cards to hide Media
 
+![dell](https://images.ctfassets.net/kftzwdyauwt9/17U8SngLERoATdFhOjWbDK/da377e6850f8241ea7814a347bad0a3a/Frame.png?w=3840&q=90&fm=webp)
+
+[OpenAI and Dell Technologies partner to bring Codex to hybrid and on-premises enterprise environmentsCompanyMay 18, 2026](</index/dell-codex-enterprise-partnership/>)
+
 ![Personal finance in ChatGPT > Media > Cover](https://images.ctfassets.net/kftzwdyauwt9/4zSr4YNWXIEYz20piN2bxf/6f9a561be6055802914aee0a3bb671d7/ArtCard-Personal-Finance.png?w=3840&q=90&fm=webp)
 
 [A new personal finance experience in ChatGPTProductMay 15, 2026](</index/personal-finance-chatgpt/>)
@@ -81,10 +85,6 @@ Switch cards to hide Media
 ![Frame \(5\)](https://images.ctfassets.net/kftzwdyauwt9/7KSkm3PHZ9SkIuuLVSqYvW/7944afb1603557d260415b456aea2779/Frame__5_.png?w=3840&q=90&fm=webp)
 
 [OpenAI launches the OpenAI Deployment Company to help businesses build around intelligenceCompanyMay 11, 2026](</index/openai-launches-the-deployment-company/>)
-
-![Running Codex safely at OpenAI > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/76rTHgn2J3y6srtNd3ZrRs/71fc86af978baecda10b212fdb5d3609/Frame.png?w=3840&q=90&fm=webp)
-
-[Running Codex safely at OpenAISecurityMay 8, 2026](</index/running-codex-safely/>)
 
 Load more
 

@@ -5,6 +5,42 @@ maintained by a Claude Code routine. Each run diffs the current sitemap
 against the prior one, fetches changed pages, and writes a plain-language
 summary that a smart layperson can follow.
 
+## 2026-05-19T09-16Z
+
+**Fetch time:** 2026-05-19T09:19:02Z UTC | **Baseline:** 2026-05-18T09-15Z
+
+**TL;DR:** The most notable event today is the removal of 7 core ChatGPT product pages from OpenAI's sitemap — including the `/chatgpt/overview/`, `/chatgpt/pricing/`, `/chatgpt/team/`, `/chatgpt/enterprise/`, `/chatgpt/desktop/`, `/chatgpt/education/`, and a student writing guide. These were major marketing/product pages, all present since the start of monitoring on May 7, with several having been actively updated as recently as May 12. Some content appears to have migrated to parallel paths (`/business/chatgpt-pricing/`, `/academy/chatgpt-for-education/` remain indexed), but the main `/chatgpt/` product section — the hub for ChatGPT plan-shopping and desktop/education pages — has been deindexed. The other 106 changes are all metadata-only timestamp refreshes with no visible text changes: 11 Codex Academy pages were swept at ~07:55 UTC, 25 global-affairs articles were swept yesterday at ~09:38 UTC, and 70 index/news pages were updated throughout May 18. No anomalies.
+
+### Removed from Sitemap (7 — significant)
+
+All removed from the `/sitemap.xml/page/` sub-sitemap. Present in every daily run since 2026-05-07.
+
+| URL | Last known title | Last lastmod |
+|-----|-----------------|-------------|
+| [`/chatgpt/overview/`](pages/openai.com/chatgpt/overview/index.md) | Get answers. Find inspiration. Be more productive. | 2026-05-10 |
+| [`/chatgpt/pricing/`](pages/openai.com/chatgpt/pricing/index.md) | Pricing | 2026-05-12 |
+| [`/chatgpt/team/`](pages/openai.com/chatgpt/team/index.md) | ChatGPT for business, powered by OpenAI's most advanced models | 2026-05-12 |
+| [`/chatgpt/enterprise/`](pages/openai.com/chatgpt/enterprise/index.md) | Frontier AI built for enterprise | 2026-05-07 |
+| [`/chatgpt/desktop/`](pages/openai.com/chatgpt/desktop/index.md) | ChatGPT on your desktop | 2026-04-09 |
+| [`/chatgpt/education/`](pages/openai.com/chatgpt/education/index.md) | Bring AI to campus at scale | 2026-04-22 |
+| [`/chatgpt/use-cases/student-writing-guide/`](pages/openai.com/chatgpt/use-cases/student-writing-guide/index.md) | A Student's Guide to Writing with ChatGPT | 2026-04-20 |
+
+The `/chatgpt/` path is not fully gone — `/chatgpt/download/`, `/chatgpt/use-cases/writing-with-ai/`, and `/chatgpt/search-product-discovery/` remain indexed. Last-good snapshots of all removed pages are preserved in git history.
+
+### Updated Pages (106 — all metadata-only)
+
+All 106 pages showed zero content change; only lastmod timestamps moved. Three sweep clusters:
+
+- **Codex Academy (11 pages, ~07:55 UTC today):** All Codex for Work tutorials refreshed from ~May 16 to today. Automated CMS republish pattern — 11 pages touched in a 60-second window.
+- **Global Affairs (25 pages, ~09:38 UTC yesterday):** All global-affairs policy/governance posts swept from ~May 15 to ~May 18.
+- **Index + News (70 pages, throughout May 18):** Wide sweep of product announcements, safety/security content, economic blueprints, and teen-safety posts. Includes GPT-5.5 cyber page, Stargate announcement, and many others. No text changes detected.
+
+Full list in [runs/2026-05-19T09-16Z/analysis.md](runs/2026-05-19T09-16Z/analysis.md).
+
+**Stats:** 1,309 total URLs | +0 added | 106 updated (all metadata) | −7 removed | 0 anomalies | 32 sub-sitemaps
+
+---
+
 ## 2026-05-17T09-15Z
 
 **Fetch time:** 2026-05-17T09:15:42Z UTC | **Baseline:** 2026-05-16T09-15Z

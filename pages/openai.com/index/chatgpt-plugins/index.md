@@ -49,7 +49,7 @@ Loading…
 
 Share
 
- _Note: OpenAI plugins have been deprecated. For more information about our products, check out_[ _ChatGPT for everyone_](</chatgpt/overview/>) _,_[_for Teams_](</chatgpt/team/>) _, and_[ _for Enterprises_](</chatgpt/enterprise/>) _, plus our_[ _APIs_](</api/>) _for developers._
+ _Note: OpenAI plugins have been deprecated. For more information about our products, check out_[ _ChatGPT for everyone_ ⁠(opens in a new window)](<https://chatgpt.com/overview>)_,_[_for Teams_ ⁠(opens in a new window)](<https://chatgpt.com/business/business-plan>)_, and_[ _for Enterprises_ ⁠(opens in a new window)](<https://chatgpt.com/business/enterprise>)_, plus our_[ _APIs_](</api/>) _for developers._
 
 We’ve implemented initial support for plugins in ChatGPT. Plugins are tools designed specifically for language models with safety as a core principle, and help ChatGPT access up-to-date information, run computations, or use third-party services.
 

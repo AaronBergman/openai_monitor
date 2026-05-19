@@ -61,7 +61,7 @@ Today we’re releasing [_Operator_ ⁠(opens in a new window)](<https://operato
 
 Operator can be asked to handle a wide variety of repetitive browser tasks such as filling out forms, ordering groceries, and even creating memes. The ability to use the same interfaces and tools that humans interact with on a daily basis broadens the utility of AI, helping people save time on everyday tasks while opening up new engagement opportunities for businesses.
 
-To ensure a safe and iterative rollout, we are starting small. Starting today, Operator is available to [_Pro_](</chatgpt/pricing/>) users in the U.S. at [_operator.chatgpt.com_ ⁠(opens in a new window)](<https://operator.chatgpt.com>). This research preview allows us to learn from our users and the broader ecosystem, refining and improving as we go. Our plan is to expand to Plus, Team, and Enterprise users and integrate these capabilities into ChatGPT in the future.
+To ensure a safe and iterative rollout, we are starting small. Starting today, Operator is available to [_Pro_ ⁠(opens in a new window)](<https://chatgpt.com/pricing>) users in the U.S. at [_operator.chatgpt.com_ ⁠(opens in a new window)](<https://operator.chatgpt.com>). This research preview allows us to learn from our users and the broader ecosystem, refining and improving as we go. Our plan is to expand to Plus, Team, and Enterprise users and integrate these capabilities into ChatGPT in the future.
 
 ## How Operator works
 
