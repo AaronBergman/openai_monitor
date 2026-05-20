@@ -718,3 +718,35 @@ Terms & Policies
 OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
+
+### How does ChatGPT’s pricing work?
+
+The free version of ChatGPT is available to everyone. Paid plans (Go, Plus, Business, and Enterprise) are priced per user per month. We offer monthly plans for Go, Plus and Business and annual plans for Business and Enterprise.
+
+### Is ChatGPT free to use?
+
+The free version of ChatGPT is available to everyone. Upgrading to Go, Plus, Business, or Enterprise offers a more powerful experience through additional features and access to GPT‑5.4.
+
+### Does OpenAI offer a ChatGPT plan for educational institutions?
+
+Yes. We offer [ChatGPT for Teachers⁠(opens in a new window)](<https://chatgpt.com/plans/k12-teachers/>), a free plan for verified U.S. K–12 educators through June 2027, and [ChatGPT Edu⁠(opens in a new window)](<https://chatgpt.com/business/education/>), an affordable plan that lets universities deploy AI across their campus communities. Both plans include enhanced security and privacy controls, with additional administrative features available for schools, districts, and universities. [Contact our team](</contact-sales/>) to learn more.
+
+### Does OpenAI offer a discount for nonprofits?
+
+_Yes. Through OpenAI for Nonprofits, nonprofits can now access up to a 75% discount on ChatGPT Business or_ ChatGPT Enterprise. [Contact our sales team⁠(opens in a new window)](<https://chatgpt.com/contact-sales>) to get started.
+
+### How many users are supported on each subscription plan?
+
+Go, Free, and Plus plans are designed to be used by individuals. Business and Enterprise are for businesses. Business plans are available starting at 2 users. Please [contact sales](</contact-sales/>) to learn more about our Enterprise plan.
+
+### What are my payment options?
+
+You can purchase ChatGPT Go, Plus, Pro, or Business with any major credit card. For ChatGPT Enterprise, please [contact sales](</contact-sales/>) for alternative payment options such as invoicing.
+
+### How secure is ChatGPT?
+
+All data is encrypted in transit (TLS 1.2). Data at rest is encrypted at rest (AES-256), and strict access controls are used to limit who can access data. Our security team has an on-call rotation that has 24/7/365 coverage and is paged in case of any potential security incident. We offer a [Bug Bounty Program](</index/bug-bounty-program/>) for responsible disclosure of vulnerabilities discovered on our platform and products. Please visit our [Trust Portal⁠(opens in a new window)](<https://trust.openai.com/>) for more details.
+
+### How does ChatGPT use my data?
+
+We give you control over your data. Read more about [how your data is used](</policies/how-your-data-is-used-to-improve-model-performance/>) and our [Enterprise privacy](</enterprise-privacy/>).
