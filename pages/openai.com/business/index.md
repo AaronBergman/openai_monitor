@@ -34,12 +34,6 @@ OpenAI's frontier models help your business create, code, and innovate with conf
 
 [Try now(opens in a new window)](<https://chatgpt.com/team-sign-up>)[Contact sales](</contact-sales/>)
 
-## Enterprise-ready solutions for real impact
-
-[See all solutions](</solutions/>)
-
-Use casesIndustriesBlueprints
-
 ### ChatGPT for Business
 
 Empower your entire workforce with frontier AI.
@@ -107,7 +101,7 @@ Create AI applications, experiences, and automated operations.
 
 
 
-[Try ChatGPT Business(opens in a new window)](<https://chatgpt.com/team-sign-up>)[Learn about ChatGPT Enterprise](</chatgpt/enterprise/>)
+[Try ChatGPT Business(opens in a new window)](<https://chatgpt.com/team-sign-up>)[Learn about ChatGPT Enterprise](<https://chatgpt.com/business/enterprise>)
 
 ![Business > Two up + Media > Custom AI > Media item > Desktop asset](https://images.ctfassets.net/kftzwdyauwt9/3MKLDFZR051r15geSfWh7t/f43ea9ff29294218daf6cf5289b10810/01_businesses_workload_desktop.png?w=3840&q=90&fm=webp)
 

@@ -308,3 +308,68 @@ Terms & Policies
 OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
+
+### Which model should I use?
+
+We recommend that developers use our large and mini GPT models for everyday tasks. Our large GPT models generally perform better on a wide range of tasks, while our mini GPT models are fast and inexpensive for simpler tasks.
+
+Our large and mini reasoning models are ideal for complex, multi-step tasks and STEM use cases that require deep thinking about tough problems. You can choose the mini reasoning model if you're looking for a faster, more inexpensive option.
+
+We recommend experimenting with all of these models in the [Playground⁠⁠(opens in a new window)](<https://platform.openai.com/playground>) to explore which models provide the best price performance trade-off for your usage.
+
+### Do you offer an enterprise package or SLAs?
+
+We offer different tiers of access to our enterprise customers that include SLAs, lower latency, and more. Please [_contact our sales team_ ⁠](<https://openai.com/contact-sales/>) to learn more.
+
+### Will I be charged for API usage in the Playground? 
+
+Yes, we treat Playground usage the same as regular API usage. You will be billed at the per-token input and output prices mentioned above.
+
+### How will I know how many tokens I’ve used each month?
+
+A token is a mathematical representation of natural language. Log in to your account to view your [_usage tracking dashboard_ ⁠(opens in a new window)](<https://platform.openai.com/account/usage>). This dashboard will show you how many tokens you’ve used during the current and past billing cycles.
+
+### How can I manage my spending on the API platform?
+
+You can set a monthly budget in [_your billing settings⁠_ ⁠(opens in a new window)](<https://platform.openai.com/settings/organization/limits>), after which we’ll stop serving your requests. There may be a delay in enforcing the limit, and you are responsible for any overage incurred. You can also configure an email notification threshold to receive an email alert once you cross that threshold each month. We recommend checking your [_usage tracking dashboard_ ⁠(opens in a new window)](<https://platform.openai.com/account/usage>) regularly to monitor your spend.
+
+For customers managing work with Projects, you can [_set and manage billing restrictions per project_ ⁠(opens in a new window)](<https://help.openai.com/en/articles/9186755-managing-your-work-in-the-api-platform-with-projects>)⁠ in the Dashboard.
+
+### Is access to the API included in ChatGPT Plus, Business, Enterprise or Edu?
+
+No, OpenAI APIs are billed separately from ChatGPT Plus, Business, Enterprise and Edu. ChatGPT subscription pricing can be found at [_openai.com/chatgpt/pricing/_ ⁠](<https://openai.com/chatgpt/pricing/>). 
+
+### How is pricing calculated for images?
+
+Images are converted into tokens and charged per token. Text models price image tokens at standard text token rates, while GPT Image and gpt-realtime uses a separate image token rate. Models like gpt-4.1-mini, gpt-4.1-nano, and o4-mini convert images into tokens differently. [Learn more in our docs⁠(opens in a new window)](<https://platform.openai.com/docs/guides/images-vision?api-mode=chat#calculating-costs>).
+
+Pricing calculator
+
+Set model
+
+gpt-5gpt-5.1gpt-5.2gpt-5-minigpt-5-nanogpt-5-chat-latestgpt-4.1gpt-4.1-minigpt-4.1-nanoo3o3-deep-researcho3-pro-2025-06-10o4-minio4-mini-deep-researcho1o1-progpt-4ogpt-4o-2024-05-13gpt-4o-minicomputer-use-previewgpt-4.5-previewcodex-mini-latestgpt-5-codex
+
+Set width
+
+px
+
+by
+
+Set height
+
+px
+
+=$0.000263
+
+Low resolution
+
+=$0.000263
+
+Price per 1M tokens (fixed)| $1.25  
+---|---  
+512 × 512 tiles| 1 × 1  
+Total tiles| 1  
+Base tokens| 70  
+Tile tokens| 140 × 1 = 140  
+Total tokens| 210  
+Total price| $0.000263
