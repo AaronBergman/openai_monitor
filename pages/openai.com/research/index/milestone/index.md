@@ -46,6 +46,12 @@ Switch cards to show Media
 
 Switch cards to hide Media
 
+Research
+
+May 20, 2026
+
+[An OpenAI model has disproved a central conjecture in discrete geometryAn OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematics.](</index/model-disproves-discrete-geometry-conjecture/>)
+
 Safety
 
 Feb 12, 2025
@@ -93,12 +99,6 @@ Milestone
 Jul 7, 2021
 
 [Evaluating large language models trained on code](</index/evaluating-large-language-models-trained-on-code/>)
-
-Milestone
-
-Mar 4, 2021
-
-[Multimodal neurons in artificial neural networksWe’ve discovered neurons in CLIP that respond to the same concept whether presented literally, symbolically, or conceptually. This may explain CLIP’s accuracy in classifying surprising visual renditions of concepts, and is also an important step toward understanding the associations and biases that CLIP and similar models learn.](</index/multimodal-neurons/>)
 
 Load more
 

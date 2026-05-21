@@ -34,7 +34,7 @@ Upload an image to check for signals that it was generated with OpenAI tools.
 
 Upload an imageDrag and drop or click to upload an image here.Supported formats: PNG, JPG, WEBP
 
-By uploading a file, you agree to our[Terms](</policies/terms-of-use/>)and have read our[Privacy Policy](</policies/privacy-policy/>)
+By uploading a file, you agree to our [Terms](</policies/terms-of-use/>) and have read our [Privacy Policy](</policies/privacy-policy/>).
 
 ![icon depicting pulse](https://images.ctfassets.net/kftzwdyauwt9/2mBpq75rMXfpQQTbBnhtG5/270dd29b4afe06468a90aa3621d0dced/pulse.svg?w=3840&q=90)
 

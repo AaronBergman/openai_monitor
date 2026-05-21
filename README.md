@@ -1,5 +1,64 @@
 # openai_monitor
 
+
+## 2026-05-21 — AI Proves 80-Year-Old Math Conjecture; ChatGPT Pages Migrate to chatgpt.com
+
+**TL;DR:** The headline today is a genuine AI research milestone: an internal OpenAI reasoning model autonomously **disproved the planar unit distance conjecture**, a famous open problem in combinatorial geometry that Paul Erdős posed in 1946. Fields medalist Tim Gowers calls it "a milestone in AI mathematics." Separately, the six main ChatGPT product pages on openai.com (enterprise, team, education, overview, pricing, desktop) were removed from the sitemap — continuing the migration of ChatGPT product content from openai.com to chatgpt.com. The 174 other "updated" URLs are a CMS artifact: ~100 had zero content change and the rest only rotated which articles appear in "Keep reading" carousels.
+
+### Anomalies
+
+None. No future-dated lastmods, no timestamps moving backwards, no reappeared URLs.
+
+### Flagship New Page: AI Disproves Erdős Geometry Conjecture
+
+**[An OpenAI model has disproved a central conjecture in discrete geometry](pages/openai.com/index/model-disproves-discrete-geometry-conjecture/index.md)** *(Research / Milestone, published May 20, 2026)*
+
+For 80 years, mathematicians believed the "square grid" construction was essentially the best way to arrange n points in the plane to maximize the number of unit-distance pairs (pairs of points exactly distance 1 apart). An OpenAI general-purpose reasoning model — not a system trained specifically for math — disproved this conjecture by constructing configurations with polynomially more unit-distance pairs than any square-grid arrangement. The proof uses sophisticated tools from **algebraic number theory** (infinite class field towers, Golod–Shafarevich theory) that specialists had never connected to this geometric problem.
+
+External verification: The proof was reviewed by leading mathematicians including Fields medalist Tim Gowers, Noga Alon (Princeton), and Arul Shankar (Princeton). Gowers says he would recommend it for the Annals of Mathematics "without any hesitation." The full proof, companion remarks, and an abridged model chain-of-thought are available as PDFs on OpenAI's CDN.
+
+**Why this matters:** OpenAI frames this as the first time AI has autonomously resolved a prominent open problem at the center of an active mathematical subfield — not just verified a human proof, but discovered new mathematics. They position this as evidence that the same deep reasoning ability that works in mathematics can transfer to biology, physics, materials science, and medicine.
+
+### New Brand Story: Ramp + Codex
+
+**[How Ramp engineers accelerate code review with Codex](pages/openai.com/index/ramp/index.md)** *(Brand story, May 20, 2026)*
+
+Ramp, an enterprise expense management company, describes using Codex with GPT-5.5 for code review and internal agentic tooling. Austin Ray (AI DevEx lead) says Codex is "industry gold standard" and reviews PRs in minutes with a "level of thoroughness that most human reviewers don't have time for." Follows similar case studies for Databricks, Dell, and Sea's David Chen.
+
+### Structural Change: ChatGPT Pages Leaving openai.com
+
+**7 URLs removed** from the sitemap, all in the `/chatgpt/` section:
+
+| Removed from openai.com | Likely now at chatgpt.com |
+|---|---|
+| `/chatgpt/desktop/` | `chatgpt.com/download` |
+| `/chatgpt/education/` | `chatgpt.com/business/education` |
+| `/chatgpt/enterprise/` | `chatgpt.com/business/enterprise` |
+| `/chatgpt/overview/` | `chatgpt.com/overview` |
+| `/chatgpt/pricing/` | `chatgpt.com/pricing` |
+| `/chatgpt/team/` | `chatgpt.com/business/business-plan` |
+| `/chatgpt/use-cases/student-writing-guide/` | unclear |
+
+This continues the brand separation first observed May 20: openai.com is becoming a research/API/company hub while chatgpt.com handles consumer and business product experiences. The footer of today's pages confirms this routing. Snapshots of all removed pages are preserved in this repo's git history.
+
+### Notable Content Updates
+
+- **`/solutions/use-case/content-creation/`**: Added a new content block about creating UI/UX mockups and concept visuals with ChatGPT. Substantive addition.
+- **`/startups/`**: Added ~20 lines of how-to guidance for getting started on the OpenAI platform. Substantive addition.
+- **`/deployco/`** (still unresolved): In the sitemap again (lastmod advanced to 2026-05-21T00:05Z), but the page is still returning invalid content when fetched. Monitoring continues.
+
+### What the "174 Updates" Really Mean
+
+The sitemap showed 174 lastmod changes, but inspection shows three distinct clusters with very different meanings:
+
+1. **~100 pages at 02:13 UTC**: Zero content change. Likely a CMS deployment that touches all metadata. Do not interpret as editorial updates.
+2. **~70 pages at 07:30–09:17 UTC**: Only the "Keep reading" article carousel changed (rotating in the geometry conjecture post and Ramp story). No article body content changed.
+3. **Small set with real changes**: `/solutions/use-case/content-creation/`, `/startups/`, and a few minor typographic/asset fixes.
+
+**Stats:** 1318 total URLs | +2 added | ~174 lastmod-changed (mostly CMS artifact) | -7 removed | 0 anomalies | 1 fetch failure (`/deployco/`) | 32 sub-sitemaps
+
+---
+
 Daily changelog of [openai.com](https://openai.com)'s public website,
 maintained by a Claude Code routine. Each run diffs the current sitemap
 against the prior one, fetches changed pages, and writes a plain-language

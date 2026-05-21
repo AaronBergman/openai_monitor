@@ -26,19 +26,21 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Published: February 20, 2026
+Updated: May 11, 2026
 
-# Signals data
+# Signals consumer data
 
 Browse the data to see global consumer ChatGPT adoption patterns, geographic distribution, and work and non-work use.
 
 How people use ChatGPTUsage by regionUsage by different groups
 
-On this page, you can find regularly updated, privacy-preserving insights on adoption and real-world use of commercial ChatGPT use. This analysis is based on a sample of messages between July 2024 and the end of 2025. Over time, the information on this page may expand to include new breakdowns and additional measures of usage.
+On this page, you can find regularly updated, privacy-preserving insights on adoption and real-world use of consumer ChatGPT use. This analysis is based on a sample of messages between July 2024 and March 2026. This dataset reflects only messages within ChatGPT free, Go, Plus, and Pro accounts, which are accounts generally purchased by individuals rather than institutions. For more information about how businesses use ChatGPT you can see our new Signals business data [here](</signals/b2b/>).
+
+Find the time series data to download for your own research [_here_ ⁠](<https://openai.com/signals/data-download/>).
 
 ## How people use ChatGPT
 
-The data available here offers an insight into how consumer ChatGPT is being used at work and for personal projects. This includes the high-level topics of conversation that occur most frequently, as well as whether users’ messages are focused on requesting a chatbot to do something, asking a chatbot questions or for information, or expressing themselves. **This dataset only includes consumer ChatGPT messages, not enterprise, and so likely underestimates enterprise usage.**
+The data available here offers an insight into how consumer ChatGPT is being used at work and for personal projects. This includes the high-level topics of conversation that occur most frequently, as well as whether users’ messages are focused on requesting a chatbot to do something, asking a chatbot questions or for information, or expressing themselves. **This dataset includes only consumer ChatGPT messages, excluding enterprise and Codex usage, and therefore likely underrepresents business and technical use cases.**
 
 ## Overall usage
 
@@ -46,7 +48,7 @@ This section looks at overall usage of ChatGPT across work and non-work settings
 
 ## ChatGPT at work
 
-This section explores how consumer ChatGPT plans are used for work purposes, in particular what topics people focus on in work messages and the types of tasks they ask ChatGPT to perform. **This dataset only includes consumer ChatGPT messages, not enterprise, and so likely underestimates enterprise usage.**
+This section explores how consumer ChatGPT plans are used for work purposes, in particular what topics people focus on in work messages and the types of tasks they ask ChatGPT to perform. **This dataset includes only consumer ChatGPT messages, excluding enterprise and Codex usage, and therefore likely underrepresents business and technical use cases.**
 
 This chart shows the likelihood that a message is work-related given the plan being used, which gives us a sense of what models people look to for work versus other purposes. In this chart, data begins in September 2024, not July 2024.
 
@@ -64,7 +66,7 @@ This analysis is limited to countries with a population of 5 million or more. Op
 
 ## Usage by different groups
 
-This section offers data on how different groups of users are using ChatGPT. In particular, we look at the share of users by self-reported age and typically masculine/feminine first name, as well as which topics of conversation are more or less frequent depending on the self-reported age group or type of name. This helps us understand how different demographic groups interact with consumer ChatGPT. 
+This section offers data on how different groups of users are using ChatGPT. In particular, we look at the share of users by self-reported age and typically masculine/feminine first name, as well as which topics of conversation are more or less frequent depending on the self-reported age group or type of name. This helps us understand how different demographic groups interact with consumer ChatGPT.
 
 ## Usage by self-reported age
 

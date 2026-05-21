@@ -69,7 +69,7 @@ Codex acts as a localised knowledge engine, drastically reducing the time it tak
 
 #### Internal feedback points to strong usage across code understanding, debugging, and feature development. What does that reveal about how developers are using Codex day to day, and how AI agents are beginning to change software development at Sea?
 
-It has been encouraging to see the Codex adoption trends among our developers, particularly among frequent users, with many citing improvements in experimentation speed and development workflows. Based on internal feedback among developers who rated Codex 4 or 5 out of 5, 73% said they would recommend it to colleagues.
+It has been encouraging to see the Codex adoption trends among our developers, particularly among frequent users, with many citing improvements in experimentation speed and development workflows. 
 
 The most profound shift is realizing our developers are using Codex to 'think better', not just type faster. We are actively transitioning from using AI as a passive autocomplete mechanism to integrated agentic workflows. 
 
@@ -97,17 +97,17 @@ This is about building a compounding AI-native talent ecosystem. By upskilling t
 
 ## Keep reading
 
-![1x1 Art Card](https://images.ctfassets.net/kftzwdyauwt9/7qVT9WlLKfgGLPC5W77ei6/a24fd3f13b754378759959aa77cd8f5d/1_1.png?w=3840&q=90&fm=webp)
+![Next phase of OpenAI for countries > art card](https://images.ctfassets.net/kftzwdyauwt9/D3j1QLEUWCW6QvlwihC2v/2e1f92d8dd5d4aa1b656849aba4531f8/Art_Card2.png?w=3840&q=90&fm=webp)
 
-[Work with Codex from anywhereProductMay 14, 2026](</index/work-with-codex-from-anywhere/>)
+[The next phase of OpenAI’s Education for CountriesGlobal AffairsMay 20, 2026](</index/the-next-phase-of-education-for-countries/>)
 
-![Helping ChatGPT better recognize context in sensitive conversations > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/7x4viZ0DsQtxQpAgnYYheQ/8dfe028356aceac9e83da6cb837d6864/Saftey-Art-Card-1080x1080.png?w=3840&q=90&fm=webp)
+![Geometry > ArtCard > Polynomial Construction](https://images.ctfassets.net/kftzwdyauwt9/6PqehRMmS1oVuin6e3VWYq/b96f1c7b5a2ac2c08a887591b8486ed3/ArtCard-Polynomial-Construction.png?w=3840&q=90&fm=webp)
 
-[Helping ChatGPT better recognize context in sensitive conversationsSafetyMay 14, 2026](</index/chatgpt-recognize-context-in-sensitive-conversations/>)
+[An OpenAI model has disproved a central conjecture in discrete geometryResearchMay 20, 2026](</index/model-disproves-discrete-geometry-conjecture/>)
 
-![codex windows > art card](https://images.ctfassets.net/kftzwdyauwt9/6ZvTl8ZL23BOhoI6jz0EmR/49d6038b9f92773d4f866f4bfacabdbf/Art_Card__5_.png?w=3840&q=90&fm=webp)
+![Ramp customer story > Hero media > 1x1](https://images.ctfassets.net/kftzwdyauwt9/2FIcBGapiag2CMnbtEEQ2T/68089dc4c97b9f8f88f9fc80e74a6850/oai_Ramp_1x1.png?w=3840&q=90&fm=webp)
 
-[Building a safe, effective sandbox to enable Codex on WindowsEngineeringMay 13, 2026](</index/building-codex-windows-sandbox/>)
+[How Ramp engineers accelerate code review with CodexMay 20, 2026](</index/ramp/>)
 
 Our Research
 

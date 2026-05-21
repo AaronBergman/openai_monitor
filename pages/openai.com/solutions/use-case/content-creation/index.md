@@ -232,3 +232,33 @@ Terms & Policies
 OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
+
+![Chat interface on a blue gradient background showing a Product Requirements Document \(PRD\). The user asks to create a reusable PRD template with section prompts and structure guidance.](https://images.ctfassets.net/kftzwdyauwt9/EaHOJDa48s0OiHAVoITwB/f913c377969d1a285519a314841d346a/solution-contentcreation-accordion-01.png?w=3840&q=90&fm=webp)
+
+![A mobile app mockup titled “Road Trip Planner.” The chat prompt requests a UI design for a road-trip app that suggests interesting stops. The interface lists attractions like Meow Wolf and museums.](https://images.ctfassets.net/kftzwdyauwt9/7eDMRhEAWk0XYOhX4CLF9Q/d5c2a23e4bb87ae0f98a4c962d931548/solution-contentcreation-accordion-02.png?w=3840&q=90&fm=webp)
+
+![A chat interface on a blue background showing a request to draft a white paper on AI-powered automation in healthcare administration. Below, a generated document appears titled “AI-Powered Automation in Healthcare Administration” with an executive summary.](https://images.ctfassets.net/kftzwdyauwt9/5PHL4iNaWFONgaSxFqGSVN/14ffbd6f8e656918553832655b1eae23/solution-contentcreation-accordion-03.png?w=3840&q=90&fm=webp)
+
+![A 3D animated conductor stands before an orchestra, with sketches below showing storyboard drawings of the same scene. The image represents animation or creative production workflows.](https://images.ctfassets.net/kftzwdyauwt9/76BA4rMcqmoKeDssElUDtK/a5ea84c7aebf6a945dc2a89e57ae059c/solution-contentcreation-accordion-04.png?w=3840&q=90&fm=webp)
+
+![A translation interface labeled “Localize Content” showing English text about mRNA research. The target language is set to Korean with a button labeled “Translate with GPT-5.”](https://images.ctfassets.net/kftzwdyauwt9/52qomN7s3WMYBMAHbJR3d/d1d91a30426eceb9e3136a45b62efef9/solution-contentcreation-accordion-05.png?w=3840&q=90&fm=webp)
+
+### Refine communication and reports
+
+Upload contracts, analyses, or technical drafts and ChatGPT refines tone, structure, and clarity to align with organizational standards.
+
+### Design mockups
+
+Create high-fidelity UI/UX mockups or concept visuals in seconds with ChatGPT—no design experience required—to explore ideas, iterate on features, and enhance user testing.
+
+### Draft and adapt written content
+
+Create clear, compliant, and consistent written materials—from internal memos to whitepapers and user guides.
+
+### Turn static ideas into motion
+
+Transform a storyboard or mood board into expressive, cinematic sequences before production starts with Sora 2 —no animation skills required. 
+
+### Automate localization 
+
+Connect the API to your CMS to translate and adapt approved content instantly across regions and formats.

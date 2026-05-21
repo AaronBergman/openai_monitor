@@ -46,23 +46,29 @@ Switch cards to show Media
 
 Switch cards to hide Media
 
+Research
+
+May 20, 2026
+
+[An OpenAI model has disproved a central conjecture in discrete geometryAn OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematics.](</index/model-disproves-discrete-geometry-conjecture/>)
+
 Product
 
 May 7, 2026
 
 [Advancing voice intelligence with new models in the APIExplore new realtime voice models in the OpenAI API that can reason, translate, and transcribe speech, enabling more natural and intelligent voice experiences.](</index/advancing-voice-intelligence-with-new-models-in-the-api/>)
 
-Safety
-
-May 5, 2026
-
-[GPT-5.5 Instant System Card](</index/gpt-5-5-instant-system-card/>)
-
 Product
 
 May 5, 2026
 
 [GPT-5.5 Instant: smarter, clearer, and more personalizedGPT-5.5 Instant updates ChatGPT’s default model with smarter, more accurate answers, reduced hallucinations, and improved personalization controls.](</index/gpt-5-5-instant/>)
+
+Safety
+
+May 5, 2026
+
+[GPT-5.5 Instant System Card](</index/gpt-5-5-instant-system-card/>)
 
 Publication
 
@@ -93,12 +99,6 @@ Product
 Apr 21, 2026
 
 [Introducing ChatGPT Images 2.0ChatGPT Images 2.0 introduces a state-of-the-art image generation model with improved text rendering, multilingual support, and advanced visual reasoning.](</index/introducing-chatgpt-images-2-0/>)
-
-Research
-
-Apr 16, 2026
-
-[Introducing GPT-Rosalind for life sciences researchOpenAI introduces GPT-Rosalind, a frontier reasoning model built to accelerate drug discovery, genomics analysis, protein reasoning, and scientific research workflows.](</index/introducing-gpt-rosalind/>)
 
 Load more
 

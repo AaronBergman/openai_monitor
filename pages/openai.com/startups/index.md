@@ -207,3 +207,88 @@ Terms & Policies
 OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
+
+### I'm interested in building a startup—where should I start?
+
+You're in the right place! We recommend checking out [Build Hours⁠(opens in a new window)](<https://webinar.openai.com/buildhours/>) and [code repos⁠(opens in a new window)](<https://github.com/OPENAI>). These resources give you a head start building with OpenAI models with practical tips from founders. You can also sign up for the [Startup Drop newsletter⁠](</leads/startup/>) to get updates, events, and resources right to your inbox each month. Find more of our resources for startups here⁠. 
+
+### How do I create an OpenAI account for my startup? 
+
+Head over to the [_sign up page_ ⁠(opens in a new window)](<https://platform.openai.com/>) on the OpenAI site. You can use your Google or Microsoft account, or sign up with an email and password. Use whatever gets you building fastest.
+
+### My startup is backed by a VC. What does that unlock for my startup?
+
+Congrats on the funding. That’s a big milestone! Some VCs, like Thrive Capital, Sequoia, a16z, Kleiner Perkins, and Conviction Partners, are part of our partner network. The portfolio companies of these firms get access to additional resources.
+
+If you’re not sure whether your VC (venture capital firm) is a partner, just ask them. They’ll know if they’re in our network and how to access OpenAI resources.
+
+If they are, your startup may be eligible for benefits like free API credits, rate limit upgrades, and time with our solutions engineers or other technical team members. You’ll also be invited to exclusive events and get a direct line to the Startup team.
+
+### I’m ready to start building with the API. Do you offer API credits?
+
+Yes! Please reach out to your VC to learn how to unlock OpenAI API credits.
+
+Track your credit usage [_here_ ⁠(opens in a new window)](<https://platform.openai.com/settings/organization/billing/credit-grants>).
+
+### I’m ready to apply for credits. What should I have on hand?
+
+You won’t need a pitch deck but we will ask for:
+
+  * A unique referral code from your VC
+
+  * A description of your product and how you plan to use the API
+
+  * Company name and key team contacts, including a valid business email
+
+  * Basic funding details
+
+
+
+
+That’s it. We keep it simple so you can focus on building.
+
+### How do I find my OpenAI org ID?
+
+We ask for your org ID when applying for credits or at events where we give credits out, like hackathons. It’s a unique identifier tied to your OpenAI account.
+
+To find it:
+
+  1. Log in to the [_OpenAI platform_ ⁠(opens in a new window)](<https://platform.openai.com/>)
+
+  2. Click the cog icon (or your org name) in the top-right corner.
+
+  3. Go to Settings → [Organization settings⁠(opens in a new window)](<https://platform.openai.com/settings/organization/general>).
+
+  4. Under the General tab, you’ll see your unique Organization ID.
+
+
+
+
+### As a founder, what kind of events and resources can I tap into?
+
+We run Build Hours (live technical deep dives and demos) and roundtable sessions with builders and technical staff at OpenAI to go deep on topics that impact what you are building. You’ll also get starter repos, cookbooks, and guidance from teams already shipping with OpenAI.
+
+Check the calendar⁠ and resources⁠ above to get started.
+
+### What happens when I use up my credits?
+
+Running out of credits usually means you’re getting traction. Once your credits run out, you’ll automatically switch to standard billing. No downtime, no surprises. If you’re growing fast or hitting limits, our team may be able to help with upgraded rate limits or enterprise plans. 
+
+If you’ve hit a snag, check out our [_Help Center_ ⁠(opens in a new window)](<https://help.openai.com/>) to find the answers you’re looking for. 
+
+### Does OpenAI offer Zero Data Retention (ZDR) for startups?
+
+Yes. On paid plans, you can request ZDR so your prompts and responses aren’t stored or used for training. 
+
+This can help with compliance needs (like HIPAA or GDPR) and gives you more control over sensitive data. This may limit some functionality like personalization. 
+
+Find more information on this topic [_here_ ⁠(opens in a new window)](<https://help.openai.com/en/articles/8660679-how-can-i-get-a-business-associate-agreement-baa-with-openai-for-the-api-services>).
+
+### I'm building in a regulated domain. How can I navigate data privacy, security & compliance?
+
+We’ve seen what matters most to leading enterprises - and when you build with OpenAI, you get the same security and privacy foundations they rely on. It signals credibility to your customers from day one. Security and privacy are core to our mission, trusted by companies like Morgan Stanley, Amgen, and BBVA, plus countless startups selling to large enterprises.
+
+To dig into the details, you can read more about our [business data policies⁠](<https://openai.com/business-data/>) and [enterprise privacy commitments⁠](<https://openai.com/enterprise-privacy/>), and head over to our [Trust Portal⁠(opens in a new window)](<https://trust.openai.com/>) for detailed documentation.
+
+  
+
