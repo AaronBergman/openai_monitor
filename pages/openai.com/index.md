@@ -100,17 +100,17 @@ Message ChatGPT
 
 [View all](</research/index/>)
 
-![Safety research the challenge > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/1dWPvCSG0V25TAlDws6dGU/214b389f0862c168692cdf8d467a1b53/art_card__1_.png?w=3840&q=90&fm=webp)
+![Geometry > ArtCard > Polynomial Construction](https://images.ctfassets.net/kftzwdyauwt9/6PqehRMmS1oVuin6e3VWYq/b96f1c7b5a2ac2c08a887591b8486ed3/ArtCard-Polynomial-Construction.png?w=3840&q=90&fm=webp)
 
-[Improving instruction hierarchy in frontier LLMsResearchMar 10, 2026](</index/instruction-hierarchy-challenge/>)
+[An OpenAI model has disproved a central conjecture in discrete geometryResearchMay 20, 2026](</index/model-disproves-discrete-geometry-conjecture/>)
 
-![CoT controllability > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/7AkyH6nozJkoGaWK1VjBoj/adeeeeb93985405d47244c597ee82777/OAI_Reasoning_Models_Struggle_to_Control_their_Chains_of_Thought__and_thatâ__s_Good_Art_Card_1x1.png?w=3840&q=90&fm=webp)
+![OAI GPT-Rosaling Art Card 1x1](https://images.ctfassets.net/kftzwdyauwt9/6DOv5mMIaI2sbsgdDbeiiY/d2d071aac3555468336b870cfeb9736e/OAI_GPT-Rosaling_Art_Card_1x1.png?w=3840&q=90&fm=webp)
 
-[Reasoning models struggle to control their chains of thought, and that’s goodResearchMar 5, 2026](</index/reasoning-models-chain-of-thought-controllability/>)
+[Introducing GPT-Rosalind for life sciences researchResearchApr 16, 2026](</index/introducing-gpt-rosalind/>)
 
-![graviton paper release > card image ](https://images.ctfassets.net/kftzwdyauwt9/6GCHLf07ktUKcPeuulBOzk/0eba07515452c739fabbbf6d13981012/Graviton_art_card.png?w=3840&q=90&fm=webp)
+![OAI Monitoring internal deployments for loss of control risks Art Card 1x1](https://images.ctfassets.net/kftzwdyauwt9/5GCZHArpg3FLRTissb13aX/50b2716c198dbbc4cf241b05faeee97c/OAI_Monitoring_internal_deployments_for_loss_of_control_risks_Art_Card_1x1.png?w=3840&q=90&fm=webp)
 
-[Extending single-minus amplitudes to gravitonsResearchMar 4, 2026](</index/extending-single-minus-amplitudes-to-gravitons/>)
+[How we monitor internal coding agents for misalignmentSafetyMar 19, 2026](</index/how-we-monitor-internal-coding-agents-misalignment/>)
 
 ## OpenAI for business
 

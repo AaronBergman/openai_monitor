@@ -496,3 +496,56 @@ Terms & Policies
 OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
+
+### Are the tasks well-specified?
+
+Evaluated models are expected to generate a patch given the _problem statement_ and codebase. If the _problem statement_ is poorly specified, it can be significantly harder, or in some cases impossible, to generate a patch that solves the problem. 
+
+We label the problem statement with these 4 possible labels:
+
+  * 0: The issue is well-specified and it is clear what is required for a successful solution.
+
+  * 1: There are some blanks to fill in about the issue, but there is a sensible interpretation of what is required for a successful solution.
+
+  * 2: The issue is vague and there is room for ambiguity. It is unclear what a successful solution would look like.
+
+  * 3: It is almost impossible to understand what you are being asked to do without further information.
+
+
+
+
+### How valid are the evaluation criteria?
+
+To evaluate a model’s proposed solution, the model’s generated patch is applied to the codebase and then the FAIL_TO_PASS and PASS_TO_PASS unit tests are executed. If the patch can be applied successfully and all of the tests pass, then the proposed solution is considered to have successfully resolved the issue.
+
+We check if the FAIL_TO_PASS tests might fail even when a valid solution is provided, resulting in a false negative.
+
+We label the tests with these 4 possible labels:
+
+  * 0: The tests perfectly cover all possible solutions.
+
+  * 1: The tests cover the majority of correct solutions, however some unusual solutions may be missed.
+
+  * 2: The tests work but some perfectly reasonable solutions may be missed by the tests.
+
+  * 3: The tests are too narrow/broad or they look for something different than what the issue is about.
+
+
+
+
+### How difficult are the tasks?
+
+As supplementary information (not used for dataset filtering), we further ask annotators to estimate how much time it would take an experienced software engineer who has had a few hours to familiarize themselves with the codebase to write a patch solving the issue. This allows us to understand the difficulty distribution of SWE-bench tasks. _Note that this may overestimate the difficulty for a LLM, which may have memorized aspects of codebases and PRs._ We ensemble difficulty annotations by taking the majority choice for a sample, or the median if there is no majority.
+
+There are 4 possible labels for difficulty:
+
+  * <15 min fix (e.g., a trivial change adding some assertions to a function)
+
+  * 15 min–1 hour (e.g., a small change that requires a bit of thought)
+
+  * 1–4 hours (e.g., substantially rewriting a function or editing multiple files)
+
+  * >4 hours (e.g., a very esoteric issue that clearly requires a substantial amount of research to fix, changing >100 lines of code)
+
+
+

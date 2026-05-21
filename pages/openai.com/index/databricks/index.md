@@ -101,17 +101,17 @@ More than 1 million businesses around the world are achieving meaningful results
 
 ## Keep reading
 
-![How sales teams use Codex > card image](https://images.ctfassets.net/kftzwdyauwt9/1O4te2wMh6O77eDV6kapG3/02845b054a09297b9fada40c4cc9a71f/sales_teams.png?w=3840&q=90&fm=webp)
+![Next phase of OpenAI for countries > art card](https://images.ctfassets.net/kftzwdyauwt9/D3j1QLEUWCW6QvlwihC2v/2e1f92d8dd5d4aa1b656849aba4531f8/Art_Card2.png?w=3840&q=90&fm=webp)
 
-[How sales teams use CodexOpenAI AcademyMay 15, 2026](</academy/codex-for-work/how-sales-teams-use-codex/>)
+[The next phase of OpenAI’s Education for CountriesGlobal AffairsMay 20, 2026](</index/the-next-phase-of-education-for-countries/>)
 
-![How business operations teams use Codex > card image](https://images.ctfassets.net/kftzwdyauwt9/JR9MMoyTo7eFFF8Nv13Qc/43414ee0c762db49e36bda8ae0d35e39/bus_ops_teams.png?w=3840&q=90&fm=webp)
+![Geometry > ArtCard > Polynomial Construction](https://images.ctfassets.net/kftzwdyauwt9/6PqehRMmS1oVuin6e3VWYq/b96f1c7b5a2ac2c08a887591b8486ed3/ArtCard-Polynomial-Construction.png?w=3840&q=90&fm=webp)
 
-[How business operations teams use CodexOpenAI AcademyMay 15, 2026](</academy/codex-for-work/how-business-operations-teams-use-codex/>)
+[An OpenAI model has disproved a central conjecture in discrete geometryResearchMay 20, 2026](</index/model-disproves-discrete-geometry-conjecture/>)
 
-![How data science teams use Codex > card image](https://images.ctfassets.net/kftzwdyauwt9/xyevYnp4Ptaa1eMgBDNjS/75fea80018f321b89809d893f1a5786d/data_science_teams.png?w=3840&q=90&fm=webp)
+![Ramp customer story > Hero media > 1x1](https://images.ctfassets.net/kftzwdyauwt9/2FIcBGapiag2CMnbtEEQ2T/68089dc4c97b9f8f88f9fc80e74a6850/oai_Ramp_1x1.png?w=3840&q=90&fm=webp)
 
-[How data science teams use CodexOpenAI AcademyMay 15, 2026](</academy/codex-for-work/how-data-science-teams-use-codex/>)
+[How Ramp engineers accelerate code review with CodexMay 20, 2026](</index/ramp/>)
 
 Our Research
 

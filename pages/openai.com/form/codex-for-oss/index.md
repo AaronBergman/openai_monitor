@@ -182,3 +182,43 @@ Terms & Policies
 OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
+
+### Who can apply
+
+  * Maintainers of active open-source projects can apply. 
+
+  * We look for projects with meaningful usage, broad adoption, or clear importance to the software ecosystem.
+
+
+
+
+### What we look for
+
+  * We review signals such as repository usage, ecosystem importance, and evidence of active maintenance. 
+
+  * That can include pull request review, issue triage, release management, and other ongoing responsibilities carried by primary or core maintainers.
+
+
+
+
+### What selected maintainers receive
+
+  * Selected maintainers may receive API credits for projects using Codex in pull request review, maintainer automation, release workflows, or other core OSS work. 
+
+  * They also get six months of ChatGPT Pro, covering Codex usage for day-to-day coding, triage, review, and maintainer workflows. 
+
+  * Qualified repositories may also be considered for conditional access to Codex Security where deeper security coverage is needed.
+
+
+
+
+### How applications work
+
+  * Applications are reviewed on a rolling basis.
+
+  * Developers can apply for their own project or nominate another maintainer. 
+
+  * If a project does not neatly fit the criteria but plays an important role in the ecosystem, applicants should still apply and explain why.
+
+
+

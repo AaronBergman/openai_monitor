@@ -40,7 +40,7 @@ A salvage yard in Nevada![A worker wearing a yellow high-visibility vest and har
 
 ## A seed farm in South Carolina
 
-## Farming today means juggling weather shifts, equipment upkeep, labor planning, and tight timelines–with decisions that can’t wait.
+#### Farming today means juggling weather shifts, equipment upkeep, labor planning, and tight timelines–with decisions that can’t wait.
 
 Rachael Sharp is preparing to take over Sharp & Sharp Certified Seed, her family’s farm in Allendale, South Carolina. Along with the land, she’s inheriting decades of hard-earned knowledge, including her father’s handwritten crop ledger, kept since 1971: “It’s so much data, it almost scares you away.” Rather than letting that history stay locked in notebooks, Rachael decided to turn it into something she could use day to day, digitizing it and making it searchable with ChatGPT.
 
@@ -104,7 +104,7 @@ I’ve created a map of the middle building with the lots labeled and organized.
 
 ## A tamale shop in California
 
-## Learning how to grow while keeping a family business true to itself.
+#### Learning how to grow while keeping a family business true to itself.
 
 The Original Tamale Co. began in a garage in California. The first generation made tamales by hand, selling them out of the trunks of their cars; the second generation turned the business into a factory. Today, the third generation are finding ways to modernize the business—deliberately and on their own terms.
 
@@ -382,7 +382,7 @@ Yep — this one’s actually pretty common on **gas ovens** , and it’s usuall
 
 ## A salvage yard in Nevada
 
-## To keep an 86-year-old salvage yard running, you have to solve problems as fast as they show up.
+#### To keep an 86-year-old salvage yard running, you have to solve problems as fast as they show up.
 
 Salvage yards are unpredictable by nature. Loads arrive mislabeled. Machines break mid-shift. Customers ask technical questions across industries. For Richard Lane, a manager at Reno Salvage, the job is less about long-term planning and more about constant decision-making in real time.
 

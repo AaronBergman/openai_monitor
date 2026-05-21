@@ -97,35 +97,35 @@ Switch cards to hide Media
 
 [How Amgen uses GPT-5APIAug 7, 2025](</index/gpt-5-amgen/>)
 
-![OAI GPT5 Thumbnail clean API Vibes 1920x1920](https://images.ctfassets.net/kftzwdyauwt9/EsMfQCOwOBOkcRZLjqILn/893c40c010e653048b7c1f580350d7fc/OAI_GPT5_Thumbnail_clean_API_Vibes_1920x1920.png?w=3840&q=90&fm=webp)
-
-[First look at GPT-5ChatGPTAug 7, 2025](</index/gpt-5-first-look/>)
-
 ![OAI GPT5 Thumbnail clean API Cursor 1920x1920](https://images.ctfassets.net/kftzwdyauwt9/cAyIeBIUN19SJolxcNqGW/a230e14df09e1233b70114f2b5d09a4d/OAI_GPT5_Thumbnail_clean_API_Cursor_1920x1920.png?w=3840&q=90&fm=webp)
 
 [How Cursor uses GPT-5APIAug 7, 2025](</index/gpt-5-cursor/>)
+
+![OAI GPT5 Thumbnail clean API Vibes 1920x1920](https://images.ctfassets.net/kftzwdyauwt9/EsMfQCOwOBOkcRZLjqILn/893c40c010e653048b7c1f580350d7fc/OAI_GPT5_Thumbnail_clean_API_Vibes_1920x1920.png?w=3840&q=90&fm=webp)
+
+[First look at GPT-5ChatGPTAug 7, 2025](</index/gpt-5-first-look/>)
 
 ![Ten tiny canvases > Media > Cover](https://images.ctfassets.net/kftzwdyauwt9/16VYfNV8RPoKM0nqEG4OrP/5ba2052acfb2a64a141ad161f5b92a38/Ten_tiny_canvases_.jpg?w=3840&q=90&fm=webp)
 
 [Creating nail art with ChatGPTChatGPTFeb 4, 2025](</index/ten-tiny-canvases/>)
 
-![Fishing for first timers > Cover](https://images.ctfassets.net/kftzwdyauwt9/6cl3M6bIMNc5gIRSsJCQT4/92a5e4927ab415cee7a364320384a94d/Fishing_for_first_timers.jpg?w=3840&q=90&fm=webp)
-
-[Catching halibut with ChatGPTChatGPTFeb 4, 2025](</index/fishing-for-first-timers/>)
-
 ![Math Tutor > Cover media ](https://images.ctfassets.net/kftzwdyauwt9/2oDKH92TW20YedrGjlZ2bO/aee7f60283553fa4f600d6f38fddbd0f/My_dog__the_math_tutor.jpg?w=3840&q=90&fm=webp)
 
 [Building a custom math tutor powered by ChatGPTChatGPTFeb 4, 2025](</index/my-dog-the-math-tutor/>)
+
+![Fishing for first timers > Cover](https://images.ctfassets.net/kftzwdyauwt9/6cl3M6bIMNc5gIRSsJCQT4/92a5e4927ab415cee7a364320384a94d/Fishing_for_first_timers.jpg?w=3840&q=90&fm=webp)
+
+[Catching halibut with ChatGPTChatGPTFeb 4, 2025](</index/fishing-for-first-timers/>)
 
 ![oai deep-research bain](https://images.ctfassets.net/kftzwdyauwt9/5tCYZqzCTYSDtYiIjx61FJ/2369d97a94e3777fa6405838b739b585/oai_deep-research_bain.png?w=3840&q=90&fm=webp)
 
 [Understanding complex trends with deep researchChatGPTFeb 2, 2025](</index/deep-research/>)
 
-[Animator Lyndon Barrois creates new worlds with SoraSoraDec 9, 2024](</index/sora-lyndon-barrois/>)
-
 ![Vallée Duhamel & Sora](https://images.ctfassets.net/kftzwdyauwt9/6GlLsh9hADQbSNr9EdsgmM/0bd2a28fe93677e2fbb845047a2f40a9/Vallée_Duhamel___Sora.jpg?w=3840&q=90&fm=webp)
 
 [Vallée Duhamel & SoraSoraDec 9, 2024](</index/sora-vallee-duhamel/>)
+
+[Animator Lyndon Barrois creates new worlds with SoraSoraDec 9, 2024](</index/sora-lyndon-barrois/>)
 
 Load more
 
