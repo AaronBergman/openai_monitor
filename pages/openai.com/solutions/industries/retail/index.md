@@ -205,3 +205,41 @@ Terms & Policies
 OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
+
+![Shopping assistant interface asking for gift budget preferences, with selectable options like “Up to $25” and “Up to $50,” and a prompt for shopping research.](https://images.ctfassets.net/kftzwdyauwt9/4Jy2cOmSfeGqgtqcLIoT14/7e10605b4f43acc86033e06fc3272583/Changing_how_consumers_shop.png?w=3840&q=90&fm=webp)
+
+![Conversational retail assistant recommending an alternative grill product, “X-Grill 500,” after confirming another item is out of stock.](https://images.ctfassets.net/kftzwdyauwt9/6QNAooMe9umpu9t4ZKDug7/a5194fc64e9438f00d7a3b03ee4fc6d6/Equip_store_teams_with_an_intelligent_companion.png?w=3840&q=90&fm=webp)
+
+![Marketing creative interface displaying a coffee cup promo image and text reading “Aussie Coffee. Come Say G’day on Open Day 17 March 9am,” alongside a prompt to create a promotional image.](https://images.ctfassets.net/kftzwdyauwt9/3aD0gQszmpVW6BnnLb5HXT/702baae976ba31a319daab8692d52d4d/Accelerate_and_localize_marketing_creative.png?w=3840&q=90&fm=webp)
+
+![Interface mockup showing a conversational shopping assistant answering a customer question about winter pants to pair with a jacket, with an agent panel labeled “Fashion Agent.”](https://images.ctfassets.net/kftzwdyauwt9/3skmmAlH3yXbMnNvDoUzfB/ad01297148fc808683ab46acb5cb6da1/Create_conversational_shopping_experiences.png?w=3840&q=90&fm=webp)
+
+![Supplier analytics view ranking top suppliers to prioritize, with a chat prompt asking which suppliers to focus outreach on and a ranked explanation shown in the background.](https://images.ctfassets.net/kftzwdyauwt9/3TwrXtzNCkfTO7WiU8ljVF/3adce7398b3ea3b8e65575aecd985d6d/Strengthen_supplier_negotiations.png?w=3840&q=90&fm=webp)
+
+![Store visit report interface with an action plan table listing issues, impact levels, and recommended actions, alongside uploaded photos and notes from a store walk.](https://images.ctfassets.net/kftzwdyauwt9/2fFz7oNTIwYvnGvaUPqylh/22f9b07ab702bcf529e3fd7fde473034/Optimize_store_visits_with_actionable_insights.png?w=3840&q=90&fm=webp)
+
+### Change how consumers shop
+
+Hundreds of millions of people use ChatGPT to find products. ChatGPT shopping research gives them in-depth comparisons, constraints, and tradeoffs.
+
+[Learn more⁠](<https://openai.com/index/chatgpt-shopping-research/>)
+
+### Equip store teams with an intelligent companion
+
+Associates receive instant, multilingual answers to product, policy, and operational questions—and can guide shoppers to the right items or alternatives—reducing training time and improving service consistency.
+
+### Accelerate and localize marketing creative
+
+Teams can generate concepts, adapt assets for every channel or market, and iterate visual styles in seconds, speeding up production and improving personalization.
+
+### Create conversational shopping experiences
+
+Shoppers can describe what they need in their own words and receive accurate product suggestions that increase conversion and reduce returns.
+
+### Strengthen supplier negotiations
+
+AI synthesizes sales, margin, inventory, and delivery inputs into negotiation-ready analyses and talking points, increasing merchant bandwidth and improving financial outcomes.
+
+### Optimize store visits with actionable insights
+
+Regional leaders can turn notes and photos from in-person visits into clear insights and prioritized action plans, helping raise service quality across stores.

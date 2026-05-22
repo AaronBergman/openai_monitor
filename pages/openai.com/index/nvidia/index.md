@@ -118,17 +118,17 @@ More than 1 million businesses around the world are achieving meaningful results
 
 ## Keep reading
 
-![Next phase of OpenAI for countries > art card](https://images.ctfassets.net/kftzwdyauwt9/D3j1QLEUWCW6QvlwihC2v/2e1f92d8dd5d4aa1b656849aba4531f8/Art_Card2.png?w=3840&q=90&fm=webp)
+![oai_Advent Health_1x1.png](https://images.ctfassets.net/kftzwdyauwt9/7JAhWgW7oUTEYgJDl2tCh5/055dcb04ca201674b674dc62ebb91bb4/oai_Advent_Health_1x1.png?w=3840&q=90&fm=webp)
 
-[The next phase of OpenAI’s Education for CountriesGlobal AffairsMay 20, 2026](</index/the-next-phase-of-education-for-countries/>)
-
-![Geometry > ArtCard > Polynomial Construction](https://images.ctfassets.net/kftzwdyauwt9/6PqehRMmS1oVuin6e3VWYq/b96f1c7b5a2ac2c08a887591b8486ed3/ArtCard-Polynomial-Construction.png?w=3840&q=90&fm=webp)
-
-[An OpenAI model has disproved a central conjecture in discrete geometryResearchMay 20, 2026](</index/model-disproves-discrete-geometry-conjecture/>)
+[AdventHealth advances whole-person care with OpenAIMay 21, 2026](</index/adventhealth/>)
 
 ![Ramp customer story > Hero media > 1x1](https://images.ctfassets.net/kftzwdyauwt9/2FIcBGapiag2CMnbtEEQ2T/68089dc4c97b9f8f88f9fc80e74a6850/oai_Ramp_1x1.png?w=3840&q=90&fm=webp)
 
 [How Ramp engineers accelerate code review with CodexMay 20, 2026](</index/ramp/>)
+
+![Next phase of OpenAI for countries > art card](https://images.ctfassets.net/kftzwdyauwt9/D3j1QLEUWCW6QvlwihC2v/2e1f92d8dd5d4aa1b656849aba4531f8/Art_Card2.png?w=3840&q=90&fm=webp)
+
+[The next phase of OpenAI’s Education for CountriesGlobal AffairsMay 20, 2026](</index/the-next-phase-of-education-for-countries/>)
 
 Our Research
 

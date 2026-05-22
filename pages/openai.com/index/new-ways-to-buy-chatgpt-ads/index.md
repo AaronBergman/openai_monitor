@@ -59,7 +59,7 @@ We have been collaborating with leading agency partners including Dentsu, Omnico
 
 Through these partners, advertisers can access ChatGPT ads through tools and processes they already use to grow their businesses. These partners help support campaign budgeting, bidding and advertising creative, while OpenAI’s ads system controls all delivery decisions.
 
-Today, we’re beginning to roll out a beta self-serve Ads Manager that allows advertisers in the US to sign up and purchase ads directly to appear in ChatGPT.
+Today, we’re beginning to roll out a beta self-serve Ads Manager that allows advertisers to sign up and purchase ads directly to appear in ChatGPT.
 
 Ads Manager makes it easier for companies of all sizes, from SMBs and startups to global brands, to grow their businesses via ChatGPT. Businesses can register as advertisers, add payment information, set budgets, bids and pacing, upload ads, launch and manage campaigns, and view performance in the portal.
 
@@ -101,17 +101,17 @@ OpenAI
 
 [View all](</news/>)
 
-![20250826](https://images.ctfassets.net/kftzwdyauwt9/2H347RfdThVOeTfSBchxDx/8a053f4cfa92faeed7141265dd02e7dd/20250826.jpg?w=3840&q=90&fm=webp)
+![Personal finance in ChatGPT > Media > Cover](https://images.ctfassets.net/kftzwdyauwt9/4zSr4YNWXIEYz20piN2bxf/6f9a561be6055802914aee0a3bb671d7/ArtCard-Personal-Finance.png?w=3840&q=90&fm=webp)
 
-[GPT-5.5 Instant: smarter, clearer, and more personalizedProductMay 5, 2026](</index/gpt-5-5-instant/>)
+[A new personal finance experience in ChatGPTProductMay 15, 2026](</index/personal-finance-chatgpt/>)
 
-![Introducing Advanced Account Security ](https://images.ctfassets.net/kftzwdyauwt9/4qS0zHVYqjyQCXbjR0GBgo/afaf8ff54069198f148dec57aa40461b/ArtCard-Introducing_Advanced_Account_Security_for_ChatGPT_accounts.png?w=3840&q=90&fm=webp)
+![1x1 Art Card](https://images.ctfassets.net/kftzwdyauwt9/7qVT9WlLKfgGLPC5W77ei6/a24fd3f13b754378759959aa77cd8f5d/1_1.png?w=3840&q=90&fm=webp)
 
-[Introducing Advanced Account SecurityProductApr 30, 2026](</index/advanced-account-security/>)
+[Work with Codex from anywhereProductMay 14, 2026](</index/work-with-codex-from-anywhere/>)
 
-![Amazon Bedrock > card image](https://images.ctfassets.net/kftzwdyauwt9/5DqGp6lqqjI16dbVGV51bh/424a7571ca3dd889488e3422753e4e44/oai-aws-1x1.png?w=3840&q=90&fm=webp)
+![OAI GPT-Realtime-2 Art Card 1x1](https://images.ctfassets.net/kftzwdyauwt9/4TtA6X4b6MbTFXSkoZXvqk/39930a05ebb333898ad1df6c28463465/OAI_GPT-Realtime-2_Art_Card_1x1.png?w=3840&q=90&fm=webp)
 
-[OpenAI models, Codex, and Managed Agents come to AWSProductApr 28, 2026](</index/openai-on-aws/>)
+[Advancing voice intelligence with new models in the APIProductMay 7, 2026](</index/advancing-voice-intelligence-with-new-models-in-the-api/>)
 
 Our Research
 
