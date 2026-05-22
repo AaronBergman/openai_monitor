@@ -1,6 +1,56 @@
 # openai_monitor
 
 
+## 2026-05-22 — AdventHealth Case Study; Retail & Agents Pages Expanded; DeployCo Legal Pages Pre-Staged
+
+**TL;DR:** Today's most substantive changes are on OpenAI's solutions pages: the **Retail industry page** grew by six new concrete AI use-case descriptions (shopping research, store teams, marketing creative, conversational shopping, supplier negotiations, store visits), and the **Agents use-case page** added four new enterprise workflow examples (lead qualification, IT requests, marketing content, product feedback). A new healthcare **customer story for AdventHealth** went live — a 9-state hospital system reporting 80% reduction in administrative task time using ChatGPT for Healthcare. The **Guaranteed Capacity sign-up form** was significantly redesigned, expanding from 3 endpoint regions to 10+ (US, EU, UK, Middle East, Japan, Korea, India, ANZ, ASEAN) and removing the TPM capacity estimate field. Most intriguingly, two new **DeployCo legal pages** (Privacy Policy + Terms of Use) appeared in the sitemap alongside the existing DeployCo landing page — all three return HTTP 404, now for the third consecutive day, suggesting an imminent launch of whatever "DeployCo" is. The Plugin Terms of Use was quietly removed from the sitemap. Of 131 lastmod-changed URLs, only 20 had true content differences; 110 were CMS timestamp-only touches.
+
+### Anomalies
+
+None. No future-dated lastmods, no backwards timestamp movements, no disappeared-then-reappeared URLs.
+
+### Fetch Failures (Ongoing — DeployCo Mystery)
+
+**`https://openai.com/deployco/`** (updated in sitemap, HTTP 404 — day 3)  
+**`https://openai.com/deployco/privacy-policy/`** (new in sitemap, HTTP 404)  
+**`https://openai.com/deployco/terms-of-use/`** (new in sitemap, HTTP 404)
+
+DeployCo first appeared in the sitemap on May 20 and has returned 404 every day since. Today, legal pages for Privacy Policy and Terms of Use were added to the sitemap — also 404. The addition of legal pages strongly indicates this is a complete product entity (or newly-acquired company) being prepared for launch. The parent URL received a fresh lastmod timestamp today (`2026-05-22T00:07:03Z`), showing active CMS backend work. Assessment: launch appears imminent, likely within days.
+
+### New Page: AdventHealth Case Study
+
+**[AdventHealth advances whole-person care with OpenAI](pages/openai.com/index/adventhealth/index.md)** *(published May 21, 2026)*
+
+AdventHealth is a hospital system across 9 states. They deployed ChatGPT for Healthcare to reduce administrative burden for physicians and operational staff. Key stats and claims:
+
+- **80% reduction in time spent on administrative tasks** (headline figure)
+- Main use case: utilization management — AI generates structured summaries of patient charts and drafts clinical rationales; the clinician makes the final call
+- Framing: "We don't talk about AI as automation. We talk about time back."
+- Success metric: messages per user per business day, tracked like any other KPI
+- Rollout model: domain-based peer groups (finance with finance, HR with HR) rather than centralized training
+- Quotes Rob Purinton, Chief AI Officer: "Adoption is not 'go use the product.' It's change leadership."
+- Product used: ChatGPT Enterprise → ChatGPT for Healthcare
+
+This is the third healthcare-focused case study in recent weeks, alongside broader enterprise vertical expansion. It fits with the pattern of OpenAI building out industry-specific ChatGPT variants.
+
+### Notable Content Updates
+
+**[Retail Industry Solutions](pages/openai.com/solutions/industries/retail/index.md)** — The retail page added six substantial new use-case sections (+3,355 chars). Topics: ChatGPT shopping research for consumers, AI companion tools for store associates, localized marketing creative generation, conversational product discovery, AI-assisted supplier negotiations, and converting store-visit field notes into action plans.
+
+**[Agents Use Case](pages/openai.com/solutions/use-case/agents/index.md)** — Added four new concrete agent workflow examples (+2,039 chars): qualifying and routing leads (research → score → CRM update), reviewing IT requests (evaluate → compare approved systems → document in Slack), creating marketing content at scale (brief → multi-format drafts), and analyzing product feedback (aggregate → summarize → create tickets). All are multi-step, cross-tool workflows.
+
+**[Guaranteed Capacity Form](pages/openai.com/form/guaranteed-capacity/index.md)** — Significant form redesign. Workload dropdown options renamed (e.g., "Codex BYOK" → "Codex", "Customer-facing product" → "API production environment"). Endpoint/region options expanded from 3 to 10+: now includes EU, UK, Middle East, Japan, Korea, India, ANZ, ASEAN alongside US and global. The "Estimated guaranteed capacity need" field (with TPM tiers up to 500M–1B) was removed entirely. This signals active enterprise sales expansion across Asia-Pacific and the Middle East.
+
+**Keep Reading / Related Articles refreshed** — Multiple article pages (gpt-5-2-codex, databricks, nvidia, and others) had their "Keep reading" carousels updated to feature the new AdventHealth story and other recent posts. Ten OpenAI Academy Codex pages reordered their "How sales teams use Codex" link to the top of their related articles section. These are CMS-level content rotation changes with no body text changes.
+
+### Removed
+
+**`https://openai.com/policies/plugin-terms/`** — ChatGPT Plugins were deprecated in 2024; this is the Plugin Terms of Use document being removed from the sitemap. Final cleanup of plugin-era legal documents. Last snapshot preserved in git history.
+
+**Stats:** 1,320 total URLs | +3 added | 131 lastmod-changed (20 true content changes, 110 CMS-only) | -1 removed | 0 anomalies | 3 fetch failures (all DeployCo) | 32 sub-sitemaps
+
+---
+
 ## 2026-05-21 — AI Proves 80-Year-Old Math Conjecture; ChatGPT Pages Migrate to chatgpt.com
 
 **TL;DR:** The headline today is a genuine AI research milestone: an internal OpenAI reasoning model autonomously **disproved the planar unit distance conjecture**, a famous open problem in combinatorial geometry that Paul Erdős posed in 1946. Fields medalist Tim Gowers calls it "a milestone in AI mathematics." Separately, the six main ChatGPT product pages on openai.com (enterprise, team, education, overview, pricing, desktop) were removed from the sitemap — continuing the migration of ChatGPT product content from openai.com to chatgpt.com. The 174 other "updated" URLs are a CMS artifact: ~100 had zero content change and the rest only rotated which articles appear in "Keep reading" carousels.

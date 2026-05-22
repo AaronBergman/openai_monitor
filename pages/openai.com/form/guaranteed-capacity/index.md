@@ -63,13 +63,13 @@ Not sure
 
 What primary workload would use Guaranteed Capacity? *
 
-Customer-facing product
+API production environment
 
-Internal workflow
+API internal workflow
 
-Platform / infrastructure
+Codex
 
-Codex BYOK
+ChatGPT
 
 Not sure
 
@@ -77,27 +77,29 @@ Other
 
 What endpoint or data residency do you require? *
 
-US endpoint
+US
 
-Global endpoint
+EU
 
-Non-US data residency required
+UK
+
+Middle East
+
+Japan
+
+Korea
+
+India
+
+ANZ
+
+ASEAN
+
+Other Global endpoint
 
 Not sure
 
-Estimated guaranteed capacity need *
-
-<100M TPM
-
-100-250M TPM
-
-250-500M TPM
-
-500M-1B TPM
-
-1B+ TPM
-
-Not sure
+Estimated monthly usage in USD *
 
 Can you share more about your business needs and challenges?
 

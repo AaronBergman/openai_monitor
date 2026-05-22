@@ -232,3 +232,27 @@ Terms & Policies
 OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
+
+![A dashboard screen titled “Evaluate traces” showing a trace entry labeled “trace_id_abc,” with a POST request and sample user input complaining about a canceled flight. Blue gradient header background.](https://images.ctfassets.net/kftzwdyauwt9/2PyD6HfZAI5bdhAst56Kzj/10bc312539d6102f46c0c468f991b810/Qualify_and_route_inbound_leads.png?w=3840&q=90&fm=webp)
+
+![Interface labeled “Evaluate traces” displaying an API log with customer complaint text about a canceled flight and the AI-generated response apologizing for the issue.](https://images.ctfassets.net/kftzwdyauwt9/1QQXlNyG3cxMPKWJE27ATH/d7198eb473f1390a75ac2c447994f935/Review_and_respond_to_IT_requests.png?w=3840&q=90&fm=webp)
+
+![Table interface for grading AI outputs with columns for tone, feedback, and accuracy, including pass and fail results highlighted in green and red.](https://images.ctfassets.net/kftzwdyauwt9/7xzLlEN7YlGMSBoVLDiSTs/83ce7344f80f39c941ec6b925007b608/Create_draft_marketing_content_at_scale.png?w=3840&q=90&fm=webp)
+
+![ChatGPT interface confirming a scheduled meeting with Acme Co, showing a daily calendar view with events for lunch, a meeting, and a team standup.](https://images.ctfassets.net/kftzwdyauwt9/5G1pYKIBDPbpCApSWYdGkI/a2dbf1304b46566fbb059c6538ba2cb4/Analyze_feedback_and_surface_product_priorities.png?w=3840&q=90&fm=webp)
+
+### Qualify and route inbound leads
+
+Research prospects, score them against your qualification rubric, send personalized outreach, and update your CRM with the right approvals.
+
+### Review and respond to IT requests
+
+Evaluate incoming tool requests from employees, compare against approved systems, respond in Slack, and document decisions across internal systems.
+
+### Create draft marketing content at scale
+
+Turn a single brief into draft blog posts, social content, emails, and landing pages — ready for team review.
+
+### Analyze feedback and surface product priorities
+
+Aggregate signals from support channels and forums, generate structured summaries, and create prioritized tickets for the product team.
