@@ -99,7 +99,7 @@ CloudflareCiscoCrowdStrikePalo Alto NetworksOracleZscalerAkamaiFortinet
 
 [Introducing Trusted Access for CyberSecurityFeb 5, 2026](</index/trusted-access-for-cyber/>)
 
-![Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber > Art Card Image](https://images.ctfassets.net/kftzwdyauwt9/6BHwtZlzRX7xMewO3wnC7d/c0331749e9a30c4861e063cb082abb53/Frame__10_.png?w=3840&q=90&fm=webp)
+![Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber > Art Card Image](https://images.ctfassets.net/kftzwdyauwt9/6BHwtZlzRX7xMewO3wnC7d/67c616a7b8371dab9939110da0b8e0e2/art-card-trusted-access.png?w=3840&q=90&fm=webp)
 
 [Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-CyberSecurityMay 7, 2026](</index/gpt-5-5-with-trusted-access-for-cyber/>)
 
@@ -208,3 +208,15 @@ Terms & Policies
 OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
+
+### Find and fix vulnerabilities
+
+Codex Security builds an editable threat model from your repository, then focuses analysis on realistic attack paths and high-impact code.
+
+### Burn down the backlog
+
+Validate likely vulnerabilities in an isolated environment, so teams can prioritize real, reproducible issues over noisy alerts.
+
+### Automate detection and response
+
+Use AI to spot higher risk vulnerabilities and automate monitoring for them end-to-end.
