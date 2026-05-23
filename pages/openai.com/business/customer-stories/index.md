@@ -100,6 +100,22 @@ One in a million: celebrating the customers shaping AI’s future
 
 Filter
 
+![Virgin Atlantic customer story hero image 1x1](https://images.ctfassets.net/kftzwdyauwt9/6WNcKcxQ4YROa131BHbMqK/3abfa2f73d5eed41b9fcb723c6e24e1e/virgin-atlantic-hero.png?w=3840&q=90&fm=webp)
+
+[How Virgin Atlantic ships faster with CodexMay 22, 2026](</index/virgin-atlantic/>)
+
+![oai_Advent Health_1x1.png](https://images.ctfassets.net/kftzwdyauwt9/7JAhWgW7oUTEYgJDl2tCh5/055dcb04ca201674b674dc62ebb91bb4/oai_Advent_Health_1x1.png?w=3840&q=90&fm=webp)
+
+[AdventHealth advances whole-person care with OpenAIMay 21, 2026](</index/adventhealth/>)
+
+![Ramp customer story > Hero media > 1x1](https://images.ctfassets.net/kftzwdyauwt9/2FIcBGapiag2CMnbtEEQ2T/68089dc4c97b9f8f88f9fc80e74a6850/oai_Ramp_1x1.png?w=3840&q=90&fm=webp)
+
+[How Ramp engineers accelerate code review with CodexMay 20, 2026](</index/ramp/>)
+
+![Databricks customer story > Hero image](https://images.ctfassets.net/kftzwdyauwt9/zSMR7MjYs8dfmIqajAVyK/996ec87e2e6d26dc5c327441f9dd8ea1/oai_Databricks_1x1.png?w=3840&q=90&fm=webp)
+
+[Databricks brings GPT-5.5 to enterprise agent workflowsMay 15, 2026](</index/databricks/>)
+
 ![EF Ep20 1.1](https://images.ctfassets.net/kftzwdyauwt9/6Wp6DOKXObm4D5mzDZU7Q0/a612075495fe9f6854159364a3041bc2/EF_Ep20_1.1.png?w=3840&q=90&fm=webp)
 
 [Sea's View on the Future of Agentic Software Development with CodexMay 14, 2026](</index/sea-david-chen/>)
@@ -116,6 +132,10 @@ Filter
 
 [Parloa builds service agents customers want to talk toStartupMay 7, 2026](</index/parloa/>)
 
+![oai simplex 1x1](https://images.ctfassets.net/kftzwdyauwt9/7EYQLHWSLyDPZipWsruW76/8e0295766071c4d5b21e07fcb7b85996/oai_simplex_1x1.png?w=3840&q=90&fm=webp)
+
+[Simplex rethinks software development with CodexMay 7, 2026](</index/simplex/>)
+
 ![Uber customer story > 1x1 art card and hero image](https://images.ctfassets.net/kftzwdyauwt9/5jnteCaoVnc71jA02qX8gk/0f394157c43c443dd1523a7fab48bc69/oai_Uber_1x1.png?w=3840&q=90&fm=webp)
 
 [Uber uses OpenAI to help people earn smarter and book fasterMay 6, 2026](</index/uber/>)
@@ -127,26 +147,6 @@ Filter
 ![oai Choco 1x1](https://images.ctfassets.net/kftzwdyauwt9/2A9IYNIXnFR7s8lAQ9BKby/c98bd4af069478f3317f7d2d6aa98cc2/oai_Choco_1x1.png?w=3840&q=90&fm=webp)
 
 [Choco automates food distribution with AI agentsApr 27, 2026](</index/choco/>)
-
-![oai CyberAgent 1x1](https://images.ctfassets.net/kftzwdyauwt9/4QsBeXNSb2qFXZHe4SQ1hb/6cf266e7e4e2482688290cbc159b762c/oai_CyberAgent_1x1.png?w=3840&q=90&fm=webp)
-
-[CyberAgent moves faster with ChatGPT Enterprise and CodexApr 9, 2026](</index/cyberagent/>)
-
-![oai GradientLabs 1x1](https://images.ctfassets.net/kftzwdyauwt9/5KZQBYyY2LBtllikqf9aul/6143158d9c259eed5aafb47cdac9bcdd/oai_GradientLabs_1x1.png?w=3840&q=90&fm=webp)
-
-[Gradient Labs gives every bank customer an AI account managerStartupApr 1, 2026](</index/gradient-labs/>)
-
-![oai Stadler 1x1](https://images.ctfassets.net/kftzwdyauwt9/6SI7KKCG1ntvb374JBZwiu/0d02c99ab6156e2bba4fd43b50c149f8/oai_Stadler_1x1.png?w=3840&q=90&fm=webp)
-
-[STADLER reshapes knowledge work at a 230-year-old companyMar 27, 2026](</index/stadler/>)
-
-![oai wayfair 1x1](https://images.ctfassets.net/kftzwdyauwt9/1AHxshp97DsdLFaEA7wNFe/f11dd8a1aa25536c436b50c62fec9210/oai_wayfair_1x1.png?w=3840&q=90&fm=webp)
-
-[Wayfair boosts catalog accuracy and support speed with OpenAIMar 11, 2026](</index/wayfair/>)
-
-![Descript > 1x1 Card](https://images.ctfassets.net/kftzwdyauwt9/7wL94yXvqYUEQRfOpp68V8/4f6d4a21db6e98ddb2352cbc52ac3b77/oai_descript_1x1.png?w=3840&q=90&fm=webp)
-
-[How Descript engineers multilingual video dubbing at scaleStartupMar 6, 2026](</index/descript/>)
 
 Load more
 

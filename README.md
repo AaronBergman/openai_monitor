@@ -1,6 +1,47 @@
 # openai_monitor
 
 
+## 2026-05-23 — Gartner Names OpenAI a Leader in Enterprise AI Coding Agents; Virgin Atlantic Codex Story; Codex Security Features Added
+
+**TL;DR:** The headline today is a Gartner analyst recognition: OpenAI published an announcement and a gated report download page declaring it has been named a **Leader in the Gartner® Magic Quadrant™ for Enterprise AI Coding Agents** (Gartner's evaluation was done in April 2026, report published May 20). The announcement claims Codex has **4 million weekly users** and enterprise customers including Cisco, Datadog, Dell, and NVIDIA; a limited-time promotion (through June 12) offers enterprise accounts 2 months of free Codex for new users. A **Virgin Atlantic customer story** went live detailing how the airline shipped its revamped mobile app with zero P1 defects, reduced legacy codebases by 78–80%, and cut 2-week refactors to 30 minutes — all using Codex. The **Daybreak page** received a real content addition: three new Codex Security feature descriptions (threat-model builder, vulnerability validation, automated detection). The **customer stories listing page** was refreshed with 5 new entries rotating off 4 older ones. On the anomaly front: **88% of all indexed URLs had their lastmod timestamps updated** overnight in a clear CMS-wide rebuild event with no real content change; and the two Deployco legal pages (Privacy Policy, Terms of Use) that appeared in the sitemap yesterday are still returning HTTP 404 — the mystery deepens.
+
+### Anomalies
+
+**ANOMALY — Mass CMS Timestamp Flood (88% of all URLs):** 1,169 of 1,323 URLs had lastmod updated between 2026-05-22T18:00Z and 2026-05-23T09:00Z. The largest wave (886 URLs) hit at 2026-05-22T18–19Z; a second wave (266 URLs) ran 2026-05-23T00–08Z. Spot-checked pages showed zero content change. This is consistent with a CMS rebuild or cache purge and does not represent 1,169 real edits. This pattern repeats from prior runs; flagging here for awareness.
+
+**ANOMALY — Deployco Pages: HTTP 404 for Day 4 (sitemap ghost URLs):** `https://openai.com/deployco/privacy-policy/` and `https://openai.com/deployco/terms-of-use/` remain in the sitemap with updated timestamps (latest: 2026-05-23T08:57Z and 03:12Z respectively) but return HTTP 404 when fetched. This is the 4th consecutive day that at least one Deployco URL has been live in the sitemap but unreachable. No prior snapshot exists to preserve. Needs follow-up.
+
+### New Pages (3 Added)
+
+**[OpenAI named a Leader in enterprise coding agents by Gartner](pages/openai.com/index/gartner-2026-agentic-coding-leader/index.md)** *(AI Adoption, May 22, 2026)*
+
+OpenAI was named a Leader in the **Gartner® Magic Quadrant™ for Enterprise AI Coding Agents** (Gartner evaluated in April 2026, published May 20). Key claims in the announcement: Codex has **4 million weekly users**; Cisco used Codex to build "the majority of its AI Defense security platform," cutting delivery time from several quarters to weeks. A temporary promo runs until June 12: enterprise accounts that contact sales can get 2 months of free Codex for new users. Denise Dresser (CRO) calls Codex "one of OpenAI's fastest-growing enterprise products." Gartner's citation: Magic Quadrant for Enterprise AI Coding Agents, Phillip Walsh et al., May 20, 2026.
+
+**[Download the Gartner Magic Quadrant (gated form)](pages/openai.com/business/learn/gartner-2026-agentic-coding-leader/index.md)** *(Lead-gen, May 22, 2026)*
+
+Paired landing page with a form (work email, name, company, size, existing customer) to download the full Gartner report. This is the gated companion to the public announcement above — a standard analyst-report lead-gen page.
+
+**[How Virgin Atlantic ships faster with Codex](pages/openai.com/index/virgin-atlantic/index.md)** *(Customer Story, May 22, 2026)*
+
+Virgin Atlantic deployed Codex to ship its revamped mobile app in time for the Christmas travel rush. Key metrics: **78–80% codebase size reduction** on legacy refactors; **~100% unit test coverage** on new app; **2-week refactors now take 30 minutes**; **zero P1 defects at launch**. Neil Letchford (VP Digital Engineering): "The ability to utilize Codex to improve the quality of the application before it got into the hands of our customers was a game-changer." The story also covers Codex unblocking data warehouse migrations and enabling analyst teams to build internal apps directly. Follows AdventHealth (May 21), Ramp (May 20), and Databricks (May 15) in a rapid cadence of enterprise Codex stories.
+
+### Notable Content Updates
+
+**[Daybreak](pages/openai.com/daybreak/index.md)** — Real content addition: three new Codex Security feature descriptions added to the page: "Find and fix vulnerabilities" (builds editable threat model from repo, focuses on realistic attack paths), "Burn down the backlog" (validates vulnerabilities in isolated environment to prioritize real issues over alert noise), "Automate detection and response" (AI-driven monitoring for high-risk vulnerabilities). Image asset also updated. This reinforces Codex Security as a distinct product capability within the Daybreak/security umbrella.
+
+**[Customer Stories listing](pages/openai.com/business/customer-stories/index.md)** — Refreshed to show 5 new stories (Virgin Atlantic, AdventHealth, Ramp, Databricks, Simplex) while rotating 4 older ones off the listing (CyberAgent, Gradient Labs, STADLER, Wayfair). The rotated-off stories still exist individually in the sitemap; only the listing page changed. All 5 new featured stories are Codex-focused.
+
+### Fetch Failures
+
+| URL | Status |
+|-----|--------|
+| https://openai.com/deployco/privacy-policy/ | HTTP 404 — day 4 in sitemap, still unreachable |
+| https://openai.com/deployco/terms-of-use/ | HTTP 404 — day 4 in sitemap, still unreachable |
+
+**Stats:** 1,323 total URLs | +3 added | 1,169 lastmod-changed (mass CMS rebuild, ~0 real content changes on sampled pages; 2 real updates confirmed: `/daybreak/`, `/business/customer-stories/`) | 0 removed | 3 anomalies | 2 fetch failures | 32 sub-sitemaps
+
+---
+
 ## 2026-05-22 — AdventHealth Case Study; Retail & Agents Pages Expanded; DeployCo Legal Pages Pre-Staged
 
 **TL;DR:** Today's most substantive changes are on OpenAI's solutions pages: the **Retail industry page** grew by six new concrete AI use-case descriptions (shopping research, store teams, marketing creative, conversational shopping, supplier negotiations, store visits), and the **Agents use-case page** added four new enterprise workflow examples (lead qualification, IT requests, marketing content, product feedback). A new healthcare **customer story for AdventHealth** went live — a 9-state hospital system reporting 80% reduction in administrative task time using ChatGPT for Healthcare. The **Guaranteed Capacity sign-up form** was significantly redesigned, expanding from 3 endpoint regions to 10+ (US, EU, UK, Middle East, Japan, Korea, India, ANZ, ASEAN) and removing the TPM capacity estimate field. Most intriguingly, two new **DeployCo legal pages** (Privacy Policy + Terms of Use) appeared in the sitemap alongside the existing DeployCo landing page — all three return HTTP 404, now for the third consecutive day, suggesting an imminent launch of whatever "DeployCo" is. The Plugin Terms of Use was quietly removed from the sitemap. Of 131 lastmod-changed URLs, only 20 had true content differences; 110 were CMS timestamp-only touches.
