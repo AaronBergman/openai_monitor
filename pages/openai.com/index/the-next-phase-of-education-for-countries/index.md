@@ -43,8 +43,6 @@ At the Education World Forum in London, OpenAI shares early learnings from Educa
 
 Loading…
 
-Share
-
 A new era of agentic AI is here. With more than 900 million people using ChatGPT each week, and more than 4 million using Codex, agents have the potential to place far greater creative, intellectual, and technical power in the hands of every student - helping young people turn ideas into action, pursue ambitions that once felt out of reach, and become the creators and builders of what comes next. OpenAI cares deeply about how AI affects cognition, learning, and development over time; as these tools advance rapidly, responsible deployment cannot be an afterthought. It requires large-scale, government-led research partnerships that tailor AI to educational contexts in close partnership with educators, build confidence in responsible adoption, and create the evidence base for safe and effective use.
 
 This is the model OpenAI has pioneered through [Education for Countries](</index/edu-for-countries/>), launched at Davos earlier this year. Our first cohort brings together a community of countries united by a shared ambition: to improve learning outcomes and unlock economic opportunity. Estonia, Greece, Italy’s CRUI, Slovakia, Trinidad & Tobago, Kazakhstan, the UAE, and Jordan are now advancing this work across three core pillars:

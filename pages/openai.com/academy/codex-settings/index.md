@@ -38,8 +38,6 @@ Make Codex work the way you want, with fewer interruptions.
 
 Loading…
 
-Share
-
 You can access settings from the menu in the bottom left corner of Codex.
 
 For your first few tasks, focus on a few key settings: personalization, prevent sleep, detail level, and appearance.

@@ -47,8 +47,6 @@ Learn how to set up your Codex workspace and start working with threads and proj
 
 Loading…
 
-Share
-
 When you open Codex, you’ll see a few core elements: a sidebar menu, projects, settings, and a chat window. You don’t need to understand everything right away, but we’ll cover the basics here.
 
 ## Sidebar menu

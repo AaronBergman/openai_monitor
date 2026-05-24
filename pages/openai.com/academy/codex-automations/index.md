@@ -38,8 +38,6 @@ Run recurring tasks automatically using schedules and triggers in Codex.
 
 Loading…
 
-Share
-
 Codex can automatically run tasks on a schedule.
 
 This makes Codex proactive. Instead of waiting for you to come back and ask for an update, Codex can return at the scheduled time, do the work, and surface the result for you to review.

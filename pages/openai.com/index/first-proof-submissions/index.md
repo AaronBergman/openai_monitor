@@ -68,17 +68,17 @@ OpenAI
 
 [View all](</news/>)
 
+![Geometry > ArtCard > Polynomial Construction](https://images.ctfassets.net/kftzwdyauwt9/6PqehRMmS1oVuin6e3VWYq/b96f1c7b5a2ac2c08a887591b8486ed3/ArtCard-Polynomial-Construction.png?w=3840&q=90&fm=webp)
+
+[An OpenAI model has disproved a central conjecture in discrete geometryResearchMay 20, 2026](</index/model-disproves-discrete-geometry-conjecture/>)
+
+![1 1](https://images.ctfassets.net/kftzwdyauwt9/6eaq9qftNBJJjryJnZGVRj/991b778132f449626fb9c768001f9009/1_1.png?w=3840&q=90&fm=webp)
+
+[What Parameter Golf taught usResearchMay 12, 2026](</index/what-parameter-golf-taught-us/>)
+
 ![Introducing OpenAI Privacy Filter](https://images.ctfassets.net/kftzwdyauwt9/1QC19b0SnrQJTDqGRfze1s/e1eb7f76da62522b1bd0c9a6f553833d/ArtCard-Introducing-OpenAI-Filter.png?w=3840&q=90&fm=webp)
 
 [Introducing OpenAI Privacy FilterResearchApr 22, 2026](</index/introducing-openai-privacy-filter/>)
-
-![OAI GPT-Rosaling Art Card 1x1](https://images.ctfassets.net/kftzwdyauwt9/6DOv5mMIaI2sbsgdDbeiiY/d2d071aac3555468336b870cfeb9736e/OAI_GPT-Rosaling_Art_Card_1x1.png?w=3840&q=90&fm=webp)
-
-[Introducing GPT-Rosalind for life sciences researchResearchApr 16, 2026](</index/introducing-gpt-rosalind/>)
-
-![model spec > art card](https://images.ctfassets.net/kftzwdyauwt9/3ZlINT9EhkfY55coSIdBWq/64c9eaca9767f231ff2902685b4092ea/oai_model_spec_1x1.png?w=3840&q=90&fm=webp)
-
-[Inside our approach to the Model SpecResearchMar 25, 2026](</index/our-approach-to-the-model-spec/>)
 
 Our Research
 

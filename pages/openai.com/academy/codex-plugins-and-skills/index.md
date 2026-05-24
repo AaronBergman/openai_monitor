@@ -45,8 +45,6 @@ Plugins and skills help Codex do more specific kinds of work.
 
 Loading…
 
-Share
-
 ## Plugins
 
 **Plugins** help Codex connect to other tools and sources of information. For example, a plugin might help Codex reference files in Google Drive, scan your email inbox, or work with information from another tool you use.

@@ -50,8 +50,6 @@ See how finance teams can use Codex to build review-ready assets for monthly bus
 
 Loading…
 
-Share
-
 With Codex, finance teams can just build things. Start with the close workbooks, revenue and expense dashboards, forecast updates, prior MBRs, and owner notes you already use. Codex helps turn that context into tangible outputs your team can review, refine, and share—no coding required. Spend less time assembling the first pass and more time shaping the story, validating the numbers, and preparing for the decisions ahead.
 
 Learn more about using Codex for everyday work in our [on-demand webinar⁠(opens in a new window)](<https://academy.openai.com/home/clubs/work-users-ynjqu/videos/codex-for-everyday-work-recording-2026-05-06>).

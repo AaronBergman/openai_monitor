@@ -40,6 +40,10 @@ All Signals data is licensed for use under the [Creative Commons CC BY 4.0 licen
 
 The details of our methodology can be found in the attached [data dictionary⁠(opens in a new window)](<https://cdn.openai.com/signals/data-dictionary.pdf>).
 
+## Report data and methodology
+
+[Download data for the AI Jobs Transition Framework⁠(opens in a new window)](<http://cdn.openai.com/signals/ai-job-transition-framework-data-download.zip>).
+
 ### Stay updated
 
 If you're interested in learning more about OpenAI's Economic Research work and future updates to this dataset, please sign up below.
