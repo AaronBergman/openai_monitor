@@ -38,8 +38,6 @@ Tips to set up Codex, create your first project, and start completing real tasks
 
 Loading…
 
-Share
-
 Start by downloading the [_Codex desktop app_](</codex/>) and signing in with your ChatGPT account.
 
 Once you open Codex, create your first thread. A thread is like a chat in ChatGPT: a space where you go back and forth with Codex to accomplish a task.

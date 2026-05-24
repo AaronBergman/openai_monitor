@@ -50,8 +50,6 @@ See how data science teams can use Codex to turn questions, dashboards, and raw 
 
 Loading…
 
-Share
-
 With Codex, data science teams can turn scattered inputs into usable analysis assets faster. Starting from dashboards, metric definitions, exports, experiment notes, and business context, Codex helps assemble a first draft of the deliverable—including charts, caveats, source links, and review questions—so teams can validate the work and share it with confidence.
 
 Learn more about using Codex for everyday work in our [on-demand webinar⁠(opens in a new window)](<https://academy.openai.com/home/clubs/work-users-ynjqu/videos/codex-for-everyday-work-recording-2026-05-06>).

@@ -48,8 +48,6 @@ We’ve made updates to the Model Spec based on external feedback and our contin
 
 Loading…
 
-Share
-
 We’re sharing a major update to the Model Spec, a document which defines how we want our AI models to behave. This update reinforces our commitments to customizability, transparency, and intellectual freedom to explore, debate, and create with AI without arbitrary restrictions—while ensuring that guardrails remain in place to reduce the risk of real harm. It builds on the foundations we introduced [_last May_](</index/introducing-the-model-spec/>) , drawing from our experience applying it in varied contexts from alignment research to serving users across the world. 
 
 We’re also sharing some early results on model adherence with the Model Spec’s principles across a broad range of scenarios. These findings highlight progress over time, as well as areas where we can still improve. The Model Spec—like our models—will continue to evolve as we apply it, share it, and listen to feedback from stakeholders. To support broad use and collaboration, we’re releasing this version of the Model Spec into the public domain under a Creative Commons CC0 license. This means developers and researchers can freely use, adapt, and build on it in their own work.

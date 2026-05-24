@@ -50,8 +50,6 @@ Explore how business operations teams can use Codex to turn scattered initiative
 
 Loading…
 
-Share
-
 Business operations work often starts across project trackers, KPI dashboards, planning docs, meeting notes, Slack threads, spreadsheets, and executive asks. Codex helps pull that context together and produce the first usable version of the artifact: an off-track brief, strategic initiative update, leadership decision packet, progress update, or scenario model. Your team still owns the judgment and recommendation; Codex helps get the working draft in front of the right people faster.
 
 Learn more about using Codex for everyday work in our [on-demand webinar⁠(opens in a new window)](<https://academy.openai.com/home/clubs/work-users-ynjqu/videos/codex-for-everyday-work-recording-2026-05-06>).

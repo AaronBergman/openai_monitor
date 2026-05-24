@@ -72,17 +72,17 @@ More than 1 million businesses around the world are achieving meaningful results
 
 ## Keep reading
 
-![malta partnership > art card](https://images.ctfassets.net/kftzwdyauwt9/640ky2MygwV3jpGjE153fQ/a98bc57773bf3518328afb5f5ffafaad/Art_Card__6_.png?w=3840&q=90&fm=webp)
+![Gartner MQ > Art Card](https://images.ctfassets.net/kftzwdyauwt9/6GUkmRON5hyvikNSF3IEmH/78ea7491689ec5d07cd6a6c2ad6f0254/Gartner-MQ-ArtCard.png?w=3840&q=90&fm=webp)
 
-[OpenAI and Malta partner to bring ChatGPT Plus to all citizensGlobal AffairsMay 16, 2026](</index/malta-chatgpt-plus-partnership/>)
+[OpenAI named a Leader in enterprise coding agents by GartnerAI AdoptionMay 22, 2026](</index/gartner-2026-agentic-coding-leader/>)
 
-![How business operations teams use Codex > card image](https://images.ctfassets.net/kftzwdyauwt9/JR9MMoyTo7eFFF8Nv13Qc/43414ee0c762db49e36bda8ae0d35e39/bus_ops_teams.png?w=3840&q=90&fm=webp)
+![Virgin Atlantic customer story hero image 1x1](https://images.ctfassets.net/kftzwdyauwt9/6WNcKcxQ4YROa131BHbMqK/3abfa2f73d5eed41b9fcb723c6e24e1e/virgin-atlantic-hero.png?w=3840&q=90&fm=webp)
 
-[How business operations teams use CodexOpenAI AcademyMay 15, 2026](</academy/codex-for-work/how-business-operations-teams-use-codex/>)
+[How Virgin Atlantic ships faster with CodexMay 22, 2026](</index/virgin-atlantic/>)
 
-![Databricks customer story > Hero image](https://images.ctfassets.net/kftzwdyauwt9/zSMR7MjYs8dfmIqajAVyK/996ec87e2e6d26dc5c327441f9dd8ea1/oai_Databricks_1x1.png?w=3840&q=90&fm=webp)
+![oai_Advent Health_1x1.png](https://images.ctfassets.net/kftzwdyauwt9/7JAhWgW7oUTEYgJDl2tCh5/055dcb04ca201674b674dc62ebb91bb4/oai_Advent_Health_1x1.png?w=3840&q=90&fm=webp)
 
-[Databricks brings GPT-5.5 to enterprise agent workflowsMay 15, 2026](</index/databricks/>)
+[AdventHealth advances whole-person care with OpenAIMay 21, 2026](</index/adventhealth/>)
 
 Our Research
 

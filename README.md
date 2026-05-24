@@ -1,6 +1,35 @@
 # openai_monitor
 
 
+## 2026-05-24 — Signals Data Download Expands; Codex Academy Share Buttons Removed; Sitemap Lists 404 DeployCo Privacy Policy (Day 5)
+
+**TL;DR:** A quiet day with no new pages and no removals. The one genuinely new piece of content is on the **OpenAI Signals** data-download page, which added a download link for the **AI Jobs Transition Framework** dataset — an extension of the economic research initiative that previously only offered ChatGPT usage data. Thirteen Codex Academy pages had their "Share" button removed in a minor UI cleanup. The bulk of the 157 lastmod-bumped URLs are CMS metadata touches (126 with no rendered content change) and sitewide "related articles" widget rotations updating to surface newer posts like the Gartner/Codex leader announcement and the discrete-geometry conjecture result. One lingering anomaly: `deployco/privacy-policy/` remains in the sitemap with a fresh today's timestamp but returns HTTP 404 — now five days running.
+
+### Anomalies
+
+**ANOMALY — `deployco/privacy-policy/` still 404 (day 5 in sitemap):** The page `https://openai.com/deployco/privacy-policy/` was listed in today's sitemap with lastmod `2026-05-24T05:46:28.870Z` but returns HTTP 404. This is the fifth consecutive day this URL has appeared in the sitemap without a live page. The `deployco/terms-of-use/` page is no longer in the current sitemap (last seen 2026-05-23), but the privacy-policy remains. The sitemap is making a fresh claim (today's timestamp) about a page that doesn't exist. Prior content preserved in git history.
+
+### Notable Content Update
+
+**[Signals data download](pages/openai.com/signals/data-download/index.md)** — A new section "Report data and methodology" was appended, adding a download link for the [AI Jobs Transition Framework data](http://cdn.openai.com/signals/ai-job-transition-framework-data-download.zip). Previously the page only offered ChatGPT usage data (CSV files + data dictionary, citing an NBER working paper on "How People Use ChatGPT"). The AI Jobs Transition Framework is a separate OpenAI research initiative examining how AI affects employment transitions; making the underlying data publicly downloadable is a meaningful expansion of the Signals open-data commitment.
+
+### Routine Updates
+
+- **13 Codex Academy pages**: "Share" button removed from rendered output (UI cleanup). Affected pages: `codex-automations/`, all `codex-for-work/*` sub-pages, `codex-how-to-start/`, `codex-plugins-and-skills/`, `codex-settings/`, `how-finance-teams-use-codex/`, `top-10-use-cases-codex-for-work/`, `what-is-codex/`, `working-with-codex/`, plus the education article and model-spec post.
+- **~17 customer story and research pages**: "Related articles" widgets rotated to surface newer content: "OpenAI named a Leader in enterprise coding agents by Gartner" (May 22), "How Virgin Atlantic ships faster with Codex" (May 22), "AdventHealth advances whole-person care with OpenAI" (May 21), "An OpenAI model has disproved a central conjecture in discrete geometry" (May 20).
+- **126 pages**: Lastmod bumped, no visible content change (CMS metadata-only touches across research papers and customer stories, in two waves: ~06:34–06:36 UTC and ~07:29–07:31 UTC).
+- **`research/index/` and `news/research/`**: "Introducing GPT-5.5" and "GPT-5.5 System Card" swapped display order — no content change, just listing reordering.
+
+### Fetch Failures
+
+| URL | Status |
+|-----|--------|
+| https://openai.com/deployco/privacy-policy/ | HTTP 404 — listed in sitemap with today's lastmod but page does not exist (day 5) |
+
+**Stats:** 1,323 total URLs | +0 added | 157 lastmod-changed (1 substantive content addition, 13 UI changes, 143 CMS/widget touches) | 0 removed | 1 anomaly | 1 fetch failure | 32 sub-sitemaps
+
+---
+
 ## 2026-05-23 — Gartner Names OpenAI a Leader in Enterprise AI Coding Agents; Virgin Atlantic Codex Story; Codex Security Features Added
 
 **TL;DR:** The headline today is a Gartner analyst recognition: OpenAI published an announcement and a gated report download page declaring it has been named a **Leader in the Gartner® Magic Quadrant™ for Enterprise AI Coding Agents** (Gartner's evaluation was done in April 2026, report published May 20). The announcement claims Codex has **4 million weekly users** and enterprise customers including Cisco, Datadog, Dell, and NVIDIA; a limited-time promotion (through June 12) offers enterprise accounts 2 months of free Codex for new users. A **Virgin Atlantic customer story** went live detailing how the airline shipped its revamped mobile app with zero P1 defects, reduced legacy codebases by 78–80%, and cut 2-week refactors to 30 minutes — all using Codex. The **Daybreak page** received a real content addition: three new Codex Security feature descriptions (threat-model builder, vulnerability validation, automated detection). The **customer stories listing page** was refreshed with 5 new entries rotating off 4 older ones. On the anomaly front: **88% of all indexed URLs had their lastmod timestamps updated** overnight in a clear CMS-wide rebuild event with no real content change; and the two Deployco legal pages (Privacy Policy, Terms of Use) that appeared in the sitemap yesterday are still returning HTTP 404 — the mystery deepens.

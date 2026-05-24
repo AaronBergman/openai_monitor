@@ -55,8 +55,6 @@ Explore how teams can use Codex to turn everyday work inputs into review-ready b
 
 Loading…
 
-Share
-
 Codex is most useful when the work already has real context behind it: calendars, messages, emails, docs, dashboards, spreadsheets, trackers, decks, and discussion history. Instead of starting from a blank prompt, give Codex the materials your team already uses and ask it to produce the first usable version of the artifact. That might be a daily brief, weekly update, decision memo, launch kit, financial review, or workflow audit your team can inspect, edit, and put to work.
 
 ## Watch our webinar

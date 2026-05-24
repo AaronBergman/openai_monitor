@@ -50,8 +50,6 @@ Explore how sales teams can use Codex to turn account context, customer conversa
 
 Loading…
 
-Share
-
 Sales work often lives across CRM fields, call notes, email threads, Slack discussions, decks, customer docs, and account signals. Codex helps pull that context together and produce the first usable version of the artifact, whether that is a prioritized account brief, meeting prep packet, forecast risk review, account strategy pack, or stalled-deal diagnosis. Sellers and managers still own the relationship strategy and judgment; Codex helps get the working draft in front of the team faster.
 
 Learn more about using Codex for everyday work in our [on-demand webinar⁠(opens in a new window)](<https://academy.openai.com/home/clubs/work-users-ynjqu/videos/codex-for-everyday-work-recording-2026-05-06>).

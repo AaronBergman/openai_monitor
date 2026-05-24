@@ -38,8 +38,6 @@ Understand what Codex is and how it fits into your work
 
 Loading…
 
-Share
-
 Codex is an AI agent that you can delegate real work to.
 
 ChatGPT is great for asking questions, brainstorming, and drafting in conversation. Codex is designed for a different kind of task—it can work across files, tools, and repeatable workflows to help move work forward.

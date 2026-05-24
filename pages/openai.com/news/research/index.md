@@ -70,13 +70,13 @@ Switch cards to hide Media
 
 [Where the goblins came fromPublicationApr 29, 2026](</index/where-the-goblins-came-from/>)
 
-![System Card Card SEO 1x1](https://images.ctfassets.net/kftzwdyauwt9/7qMrOFCWWMweIDBUpYFr79/7741661650df6eb935acb5bda179b091/System_Card_Card_SEO_1x1.jpg?w=3840&q=90&fm=webp)
-
-[GPT-5.5 System CardSafetyApr 23, 2026](</index/gpt-5-5-system-card/>)
-
 ![Hero Art Card SEO 1x1](https://images.ctfassets.net/kftzwdyauwt9/cut4wyUCuBENXfd5CSI7Z/d934ffb49d8b39abea0bc33bb1a5b916/Hero_Art_Card_SEO_1x1.jpg?w=3840&q=90&fm=webp)
 
 [Introducing GPT-5.5ProductApr 23, 2026](</index/introducing-gpt-5-5/>)
+
+![System Card Card SEO 1x1](https://images.ctfassets.net/kftzwdyauwt9/7qMrOFCWWMweIDBUpYFr79/7741661650df6eb935acb5bda179b091/System_Card_Card_SEO_1x1.jpg?w=3840&q=90&fm=webp)
+
+[GPT-5.5 System CardSafetyApr 23, 2026](</index/gpt-5-5-system-card/>)
 
 ![Introducing OpenAI Privacy Filter](https://images.ctfassets.net/kftzwdyauwt9/1QC19b0SnrQJTDqGRfze1s/e1eb7f76da62522b1bd0c9a6f553833d/ArtCard-Introducing-OpenAI-Filter.png?w=3840&q=90&fm=webp)
 
