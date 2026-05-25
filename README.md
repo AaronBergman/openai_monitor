@@ -1,6 +1,36 @@
 # openai_monitor
 
 
+## 2026-05-25 — All Quiet: 158 Timestamp Bumps, No Content Changes; DeployCo Privacy Policy Still 404 (Day 6)
+
+**TL;DR:** Today's run found no new pages and no removals — just 158 URLs whose `<lastmod>` timestamps changed, none of which reflected actual content edits. The changes cluster into four CMS/CDN deployment waves: a large batch of ~117 legacy research and publication pages all touched within a 2.5-minute window on the evening of May 24 UTC (classic backend deploy fingerprint), 22 customer story pages refreshed together this morning, 11 Codex Academy tutorial pages updated in the early hours, and 5 Signals product pages touched across the morning. Spot-checks on all four waves confirmed zero visible content change. The only genuine flag is the same as yesterday: `deployco/privacy-policy/` is still listed in the sitemap — now with a very fresh timestamp from just minutes before this run — but the page continues to return HTTP 404. That's six consecutive days in the sitemap without a live page.
+
+### Anomalies
+
+**ANOMALY — `deployco/privacy-policy/` returns 404 (day 6):** The URL `https://openai.com/deployco/privacy-policy/` appears in today's sitemap with lastmod `2026-05-25T09:10:04.929Z` — a timestamp only 6 minutes before this run's fetch. The page still returns HTTP 404. This is now the sixth consecutive day this URL has been in the sitemap without resolving to a live page. DeployCo is an OpenAI subsidiary involved in AI deployment services; the persistent sitemap presence with refreshing timestamps suggests an active publishing pipeline that has not yet made the page public. Needs continued monitoring.
+
+### Batch Update Summary (All Timestamp-Only — No Content Changes Detected)
+
+| Batch | Time cluster (UTC) | # Pages | Category |
+|---|---|---|---|
+| Research/publication CMS deploy | 2026-05-24T21:48–21:50 | 117 | Legacy research papers, announcements, old model posts |
+| Customer stories | 2026-05-25T08:12–08:45 | 22 | Brand-stories and index/ customer case studies, + business/customer-stories/ |
+| Academy / Codex tutorials | 2026-05-25T04:34–05:03 | 11 | Codex how-to and use-case guides |
+| Signals product pages | 2026-05-25T05:57–09:04 | 5 | signals/, signals/b2b/, signals/data/, signals/research/, signals/data-download/ |
+| Other | various | 3 | form/guaranteed-capacity/, index/the-next-phase-of-education-for-countries/, about/ |
+
+The research batch is the most notable by size: ~117 pages all with new timestamps within 2.5 minutes of each other suggests a single CMS deployment pass. Sampled pages (GPT-4 Research, Sora, Hello GPT-4o) show zero content difference vs. prior snapshots.
+
+### Fetch Failures
+
+| URL | Status |
+|-----|--------|
+| https://openai.com/deployco/privacy-policy/ | HTTP 404 — in sitemap with lastmod 2026-05-25T09:10Z, page not found (day 6) |
+
+**Stats:** 1,323 total URLs | +0 added | 158 lastmod-changed (all CMS/CDN deploys, 0 substantive content changes) | 0 removed | 1 anomaly | 1 fetch failure | 32 sub-sitemaps
+
+---
+
 ## 2026-05-24 — Signals Data Download Expands; Codex Academy Share Buttons Removed; Sitemap Lists 404 DeployCo Privacy Policy (Day 5)
 
 **TL;DR:** A quiet day with no new pages and no removals. The one genuinely new piece of content is on the **OpenAI Signals** data-download page, which added a download link for the **AI Jobs Transition Framework** dataset — an extension of the economic research initiative that previously only offered ChatGPT usage data. Thirteen Codex Academy pages had their "Share" button removed in a minor UI cleanup. The bulk of the 157 lastmod-bumped URLs are CMS metadata touches (126 with no rendered content change) and sitewide "related articles" widget rotations updating to surface newer posts like the Gartner/Codex leader announcement and the discrete-geometry conjecture result. One lingering anomaly: `deployco/privacy-policy/` remains in the sitemap with a fresh today's timestamp but returns HTTP 404 — now five days running.
