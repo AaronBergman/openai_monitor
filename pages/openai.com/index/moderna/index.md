@@ -30,7 +30,7 @@ OpenAI
 
 Moderna and OpenAI partner to accelerate the development of life-saving treatments.
 
-[View product](</chatgpt/enterprise/>)
+[View product](<https://chatgpt.com/business/enterprise>)
 
 ![Moderna logo overlaid on abstract photo](https://images.ctfassets.net/kftzwdyauwt9/3aVZ0u49UsE1Y31nA79uRq/10fa981e7abfe87e130e009e050e57fe/oai_moderna_hero.png?w=3840&q=90&fm=webp)
 

@@ -85,21 +85,11 @@ Explore tools built for every stage of development—from early exploration to s
 
 [Start building](</api/>)
 
-## Powered by our best coding models
+## Powered by our best coding model
 
-Trained with a focus on agentic coding in real-world software engineering tasks, GPT‑5.4 and GPT‑5.3‑Codex are our most capable coding models to date. 
+A new class of intelligence for real work. Built for everyday coding, GPT‑5.5 combines strong coding, reasoning, and tool use to handle real-world tasks across code, documents, and systems with fewer iterations.
 
-#### GPT 5.4
-
-Built for everyday coding. It combines strong coding, reasoning, and tool use to handle real-world tasks across code, documents, and systems with fewer iterations.
-
-[Learn more](</index/introducing-gpt-5-4/>)
-
-#### GPT-5.3-Codex
-
-Optimized for agentic coding workflows. It pairs in the editor or CLI while delivering persistent autonomous execution for complex builds, large-scale refactors, and code reviews.
-
-[Learn more](</index/introducing-gpt-5-3-codex/>)
+[Learn more](</index/introducing-gpt-5-5/>)
 
 ## Built for the full development lifecycle
 
@@ -248,3 +238,33 @@ Terms & Policies
 OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
+
+![Code review interface showing a Python file pull_request_manager.py with highlighted lines and a bot comment from @codex approving changes, suggesting fixes across the codebase.](https://images.ctfassets.net/kftzwdyauwt9/5rdYANgjj29W3asBebeeoY/2f49b0c249d41e4d46edd2a364ff32a7/Use_cases-coding-accordion-01.png?w=3840&q=90&fm=webp)
+
+![Terminal interface showing OpenAI Codex v0.34.0 running with the GPT-5 model. A command “Hey Codex, implement dark mode” appears, representing coding with natural language commands.](https://images.ctfassets.net/kftzwdyauwt9/6eEdpOhNljfjp3jUg38p0U/70315d675a5eb1e28fba9482e320f1ea/Use_cases-coding-accordion-02.png?w=3840&q=90&fm=webp)
+
+![Chat interface showing code changes with file names slider.tsx and page.tsx, displaying +123 and -42 edits. The message “Looks great, add tests!” is shown below.](https://images.ctfassets.net/kftzwdyauwt9/1LiUxX6PFi3pgBNc1Mbml1/7a77343ba7ec36fe7121f4fcf6706017/Use_cases-coding-accordion-03.png?w=3840&q=90&fm=webp)
+
+![Chat interface on a blue background showing code for OnboardingFlow.tsx and a prompt requesting to “Turn this product feedback into working code for the new onboarding flow.”](https://images.ctfassets.net/kftzwdyauwt9/7h3L5ej9k6sEspFWJmDToH/ae6dc9a39ee7d3c6cb45863f2ee2a2dd/Use_cases-coding-accordion-04.png?w=3840&q=90&fm=webp)
+
+![ChatGPT interface displaying a document titled Onboarding flow.pdf and a message asking for three architecture directions. The AI outputs three options for onboarding system design.](https://images.ctfassets.net/kftzwdyauwt9/XIYMpcpaVm1mYVexgnxtP/7321463682ec1f4959dad16334b77ebc/Use_cases-coding-accordion-05.png?w=3840&q=90&fm=webp)
+
+### Understand complex codebases in minutes
+
+Get up to speed quickly by mapping unfamiliar systems. Locate core logic, trace data flow, surface service interactions, and uncover missing documentation to support onboarding, debugging, or incident response.
+
+### Refactor and migrate confidently at scale
+
+Apply consistent updates across large codebases. Automate multi-file transformations, modernize legacy patterns, split oversized modules, and prepare systems for new APIs, frameworks, or dependencies.
+
+### Improve test coverage and code reliability
+
+Generate unit, integration, and property-based tests that capture edge cases, boundary conditions, and common failure modes. Strengthen reliability by expanding test suites where coverage is thin or missing.
+
+### Accelerate development and delivery
+
+Speed up both early and late phases of development—scaffold new features, generate boilerplate, triage bugs, fill implementation gaps, and turn specs or product feedback into workable code.
+
+### Explore alternatives and validate design decisions
+
+Evaluate different architectural options, uncover unfamiliar patterns, identify related bugs, and pressure-test assumptions. Expand design possibilities and make more informed decisions.

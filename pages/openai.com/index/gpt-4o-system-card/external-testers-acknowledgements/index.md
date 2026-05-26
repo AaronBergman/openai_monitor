@@ -30,8 +30,6 @@ OpenAI
 
 # GPT‑4o System Card External Testers Acknowledgements
 
-Share
-
   * [GPT](</research/index/?tags=gpt>)
   * [Community & Collaboration](</research/index/?tags=community-collaboration>)
 

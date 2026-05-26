@@ -227,3 +227,33 @@ Terms & Policies
 OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
+
+![Microsoft Excel window showing a financial valuation model spreadsheet with balance sheet data and projections across several years, while a ChatGPT sidebar assistant analyzes a prompt about Robinhood Ventures Fund holdings and models potential impacts on revenue, EPS, and price targets.](https://images.ctfassets.net/kftzwdyauwt9/12mFS1N7aehIROx90THz9S/6a29f0bb7e820c378e693a488ccb2fba/BasisPoint.png?w=3840&q=90&fm=webp)
+
+![Interface showing a spreadsheet file named “Financial_Data.xlsx” with a prompt to run a Monte Carlo simulation modeling potential portfolio values from an initial $1 million investment. In the background, a histogram chart displays the distribution of terminal portfolio values over 12 months with markers for the initial value, mean, and 5th percentile.](https://images.ctfassets.net/kftzwdyauwt9/7JEOPnZK6Zl9sz6WfR9nPw/4b2ecd4772adfbc574dae02badc6b381/ChatGPT_For_Financial_Services.png?w=3840&q=90&fm=webp)
+
+![Diagram showing three input document types—income statement, identification, and bank statements—flowing into a “Processing” block, which outputs a structured loan application table with fields like name, DOB, and income.](https://images.ctfassets.net/kftzwdyauwt9/4b7Mp1WkalkBpvcfAuyUQ9/63d5a9eb4155e52b8a245da474c23226/Automate_Document_Workflows.png?w=3840&q=90&fm=webp)
+
+![Terminal-style interface showing OpenAI Codex \(v0.46.0\) running with the model “gpt-5.3-codex” in a project directory, prompting the user to describe a task or initialize a project with an AGENTS.md file.](https://images.ctfassets.net/kftzwdyauwt9/2YRaK3fEkc2btBUgT4Vx9B/c1359d803aab71bc52a5d9d90723db85/Modernize_legacy_systems.png?w=3840&q=90&fm=webp)
+
+### Build, update, and stress-test models faster
+
+Create valuations, run scenarios, and trace drivers inside workbooks so analysts spend less time on manual Excel work.
+
+### Simplify research and analysis
+
+Pull from filings, transcripts, decks, spreadsheets, and connected data to produce structured, cited outputs. 
+
+### Automate document processing
+
+Extract and process KYC, loan, and compliance files to streamline reviews.
+
+  
+
+
+### Modernize legacy systems
+
+Migrate COBOL and other legacy code to deliver innovation projects faster and save developer time.
+
+  
+

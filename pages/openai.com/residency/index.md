@@ -187,3 +187,53 @@ Terms & Policies
 OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
+
+###  Is the Residency an internship?
+
+No. The Residency is not an internship. For those Residents who perform well we extend full-time offers to join OpenAI immediately upon completion of the six-months Residency.
+
+### Can I pursue the Residency while enrolled in school or higher education studies?
+
+No. Residents are full-time employees and therefore cannot be actively enrolled in any school programs while employed at OpenAI.
+
+If a student is interested in pursuing the Residency they can either elect to: 
+
+  * Leave their educational program.
+
+  * Wait to apply until closer to the end of their studies (~3 months out is a good timeline).
+
+
+
+
+### How long is the Residency program?
+
+6 months.
+
+### When does the Residency program start?
+
+Start dates are flexible and occur on a rolling basis throughout the year.
+
+### Where is the Residency program based?
+
+This program is based in our San Francisco, California HQ. We offer a flexible work environment, encouraging Residents to come into the office at least 3 days a week. We will also provide relocation assistance as needed. We do not allow Residents to work remotely or from our satellite offices.
+
+### Does OpenAI sponsor visas or US work authorization?
+
+Yes. OpenAI will provide immigration and sponsorship support based on an individual’s unique circumstances.
+
+### What is the salary of a Resident?
+
+The salary for this role is $18,333 monthly. Benefits are included.
+
+### What does the application process look like?
+
+Our application process is adaptive to our business needs, so we open Residency spots and hire on a rolling basis. For updates on application openings, check our careers site and follow our social media accounts.
+
+### Do Residents choose their own projects?
+
+Residents collaborate closely with their mentors to define and scope meaningful projects. These projects are essential to OpenAI’s mission and are also designed to help Residents develop core AI research skills.
+
+### What is the mentor’s role in the Residency?
+
+Mentors play a key role in providing Residents with the guidance, resources, and feedback needed to succeed. Throughout the program, mentors offer ongoing feedback to ensure Residents are supported and set up for success.  
+

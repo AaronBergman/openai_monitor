@@ -1,6 +1,45 @@
 # openai_monitor
 
 
+
+## 2026-05-26 — Brazil Media Partnership Announced; Plugin Terms Removed; Priority API Pricing Expanded
+
+**Fetch time:** 2026-05-26T09:18:05Z UTC | **Baseline:** 2026-05-25T09-15Z
+
+**TL;DR:** The headline addition today is OpenAI's first media partnership in Brazil — a new page announcing a content deal with Grupo Folha (publisher of Folha de S.Paulo) and Grupo UOL, giving ChatGPT's 900M+ weekly users access to Brazilian journalism. Separately, the Plugin Terms policy page was quietly removed, consistent with the long-deprecation of the ChatGPT Plugins platform. The most substantive content change is to the [Priority Processing API page](pages/openai.com/api-priority-processing/index.md), which grew by ~4KB to add a comprehensive pricing table covering 15+ model tiers (GPT-5.5, GPT-5.4, GPT-5.2, GPT-5.1, GPT-5.1 Codex, GPT-5 Codex, GPT-4.1 series, o3, o4-mini) with input/output token costs, uptime SLAs (99.9%), and latency guarantees. The bulk of the 656 "updated" URLs are CMS timestamp refreshes with no visible content changes — 540 pages swept on May 22 and further batches of customer stories and Codex Academy content from May 24–26. The `deployco/privacy-policy/` fetch failure persists (day 7).
+
+### New Pages
+
+- [https://openai.com/index/grupo-folha-grupo-uol-partnership/](pages/openai.com/index/grupo-folha-grupo-uol-partnership/index.md) — **OpenAI, Grupo Folha, and Grupo UOL announce strategic content partnership** (published 2026-05-25). OpenAI's first Brazil media deal; Folha de S.Paulo and UOL journalism will appear as sourced summaries in ChatGPT. Brazil has >50M monthly ChatGPT users and ~140M messages/day.
+
+### Substantive Content Changes
+
+- [**api-priority-processing**](pages/openai.com/api-priority-processing/index.md) — Content grew +3,922 chars (6,402→10,324). A new detailed pricing table was added listing Priority Processing rates for 15+ model tiers: GPT-5.5 ($12.50/$75 per 1M tokens), GPT-5.4 mini ($1.50/$9), GPT-5.4 ($5/$30), GPT-5.2 ($3.50/$28), GPT-5.1 ($2.50/$20), GPT-5.1 Codex, GPT-5 Codex, GPT-4.1/mini/nano, GPT-4o, o3, o4-mini. Includes 99.9% uptime SLA and per-tier p50 latency SLA. Also adds a new "What are the rate limits?" FAQ section.
+- [**agent-platform**](pages/openai.com/agent-platform/index.md) — Navigation sidebar restructured (+1,408 chars); SDKs/CLI and Voice Activity Detection links reorganized.
+- [**homepage**](pages/openai.com/index.md) — Minor nav change: "Learn about ChatGPT Business" link removed from headline navigation area (−22 chars).
+
+### Removed URLs
+
+- `https://openai.com/policies/plugin-terms/` — Plugin Terms policy page removed. ChatGPT Plugins were deprecated in early 2024; this is final cleanup of the associated legal terms.
+
+### Batch Timestamp Updates (No Content Changes)
+
+656 URLs had lastmod bumps; nearly all are CMS/pipeline noise:
+
+| Wave | Date | # Pages | Notes |
+|---|---|---|---|
+| Academy + site-wide CMS deploy | 2026-05-22 | ~540 | All academy courses, product pages, research pages — zero content delta |
+| Legacy research + company pages | 2026-05-24 | ~67 | Old research publications, historical announcements |
+| Customer stories + Codex Academy | 2026-05-25 | ~16 | BNY, Mercado Libre, Klarna, Rogo, etc. + Codex workflow guides |
+| Customer stories (new batch) + misc | 2026-05-26 | ~24 | Balyasny, BBVA, Chime, Commonwealth Bank, Endex, Hebbia, JetBrains, etc. |
+
+### Fetch Failures
+
+- `https://openai.com/deployco/privacy-policy/` — Fetch failed (day 7 of sitemap presence without a live page)
+
+**Stats:** 1,324 total URLs | +1 added | 656 lastmod-changed (2 with substantive content) | -1 removed | 0 anomalies | 32 sub-sitemaps
+
+---
 ## 2026-05-25 — All Quiet: 158 Timestamp Bumps, No Content Changes; DeployCo Privacy Policy Still 404 (Day 6)
 
 **TL;DR:** Today's run found no new pages and no removals — just 158 URLs whose `<lastmod>` timestamps changed, none of which reflected actual content edits. The changes cluster into four CMS/CDN deployment waves: a large batch of ~117 legacy research and publication pages all touched within a 2.5-minute window on the evening of May 24 UTC (classic backend deploy fingerprint), 22 customer story pages refreshed together this morning, 11 Codex Academy tutorial pages updated in the early hours, and 5 Signals product pages touched across the morning. Spot-checks on all four waves confirmed zero visible content change. The only genuine flag is the same as yesterday: `deployco/privacy-policy/` is still listed in the sitemap — now with a very fresh timestamp from just minutes before this run — but the page continues to return HTTP 404. That's six consecutive days in the sitemap without a live page.

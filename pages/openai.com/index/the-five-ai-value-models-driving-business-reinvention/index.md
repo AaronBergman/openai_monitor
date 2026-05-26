@@ -47,8 +47,6 @@ AI Adoption
 
 Loading…
 
-Share
-
 Most organizations still manage AI as a series of use cases: a pilot here, a workflow there, a promising tool inside one function. That approach can generate local wins but it rarely transforms how a business creates value.
 
 It is akin to creating interactive banners and drip email campaigns with the arrival of the internet, and missing the point of the eCommerce revolution.
@@ -222,6 +220,10 @@ The call to action doesn't need to be where AI can help in the legacy model. Ask
 ## Keep reading
 
 [View all](</news/>)
+
+![Gartner MQ > Art Card](https://images.ctfassets.net/kftzwdyauwt9/6GUkmRON5hyvikNSF3IEmH/78ea7491689ec5d07cd6a6c2ad6f0254/Gartner-MQ-ArtCard.png?w=3840&q=90&fm=webp)
+
+[OpenAI named a Leader in enterprise coding agents by GartnerAI AdoptionMay 22, 2026](</index/gartner-2026-agentic-coding-leader/>)
 
 ![OAI Introducing the Adoption news channel 1x1 Art Card](https://images.ctfassets.net/kftzwdyauwt9/79zIP6sPhcvVb6hKK1z9nC/1130bf97d24100ccc5aacd74ad48b92d/OAI_Introducing_the_Adoption_news_channel_1x1_Art_Card.png?w=3840&q=90&fm=webp)
 

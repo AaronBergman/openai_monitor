@@ -223,3 +223,27 @@ Terms & Policies
 OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
+
+![Clinical workflow interface displaying a prompt that summarizes cognitive evaluation guidance, with links to organizational knowledge sources and a SharePoint PDF.](https://images.ctfassets.net/kftzwdyauwt9/3PA8t3sQeEnmchPkiXXim8/d5d312b3e48edc9d30f59356ef77ba38/Static_1_â___Integrations_with_existing_systems.png?w=3840&q=90&fm=webp)
+
+![Clinical reasoning view showing a differential diagnosis table for post-stroke cognitive impairment, with likelihood ratings and cited medical literature sources.](https://images.ctfassets.net/kftzwdyauwt9/cagoubYhwz3ixmlzWzMmU/98a33f6840096387427cc58d4f2c1338/Static_2_â___Clinical_reasoning_support.png?w=3840&q=90&fm=webp)
+
+![Interface showing a prompt to draft a cardiology referral letter using uploaded patient documents, with a generated clinical letter visible beneath.](https://images.ctfassets.net/kftzwdyauwt9/2ofdvY37qA7xOfTlWU6497/f9d88fe6cc7dfb74031fe5546886d37c/Static_3_â___Automate_high-quality_clinical_and_administrative_letters.png?w=3840&q=90&fm=webp)
+
+![Interface showing a prompt to generate patient-friendly discharge instructions from a visit summary PDF, paired with a personalized discharge document for a named patient.](https://images.ctfassets.net/kftzwdyauwt9/1RKLE61nIgOinisu7zCGOL/61d69f41479c201e1d02162f90a02162/Static_4_â___Personalized_patient_instructions.png?w=3840&q=90&fm=webp)
+
+### Support clinical decision-making 
+
+Reduce time spent searching and rechecking by bringing your organization’s care pathways into one, trusted view at the point of care.
+
+### Cited, patient-specific clinical support
+
+Structure a differential diagnosis and outline a next-step evaluation grounded in cited clinical guidelines and key studies.
+
+### Automate high-quality clinical and administrative letters
+
+Generate referral letters, prior authorization letters, and forms from a patient summary—cutting manual rewriting and back-and-forth.
+
+### Personalized patient instructions
+
+Generate patient-friendly instructions from clinical notes, tailored to each patient’s language, literacy, and situation.

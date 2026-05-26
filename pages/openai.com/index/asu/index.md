@@ -43,7 +43,7 @@ Share
 
 [ _Arizona State University_ ⁠(opens in a new window)](<https://www.asu.edu/>) (ASU) is one of the largest public universities in the United States, serving 181,000 students in a given year and offering over 800 degree options. For nine straight years, _U.S. News and World Report_ has named ASU the most innovative university in America. 
 
-Today, ASU is enhancing educational outcomes by integrating [ChatGPT Edu](</chatgpt/education/>) into projects across teaching, research, and operations. Guided by the ASU charter, which prioritizes inclusion over exclusion, research benefiting the public, and responsibility for the communities they serve, ASU collaborates with OpenAI to use technology to deliver lifelong learning and drive human potential at a social scale.   
+Today, ASU is enhancing educational outcomes by integrating [ChatGPT Edu⁠(opens in a new window)](<https://chatgpt.com/business/education>) into projects across teaching, research, and operations. Guided by the ASU charter, which prioritizes inclusion over exclusion, research benefiting the public, and responsibility for the communities they serve, ASU collaborates with OpenAI to use technology to deliver lifelong learning and drive human potential at a social scale.   
 
 
 ![ASU > Media > Professor Asset > Media Item](https://images.ctfassets.net/kftzwdyauwt9/7zwIUBTBSm6d9OTES2y5c1/da084c9781de96e44dd185d559b72597/ASU-Professor_Asset_Desktop.png?w=3840&q=90&fm=webp)
@@ -108,7 +108,7 @@ This mindset has translated to even more opportunities for students. “After se
 
 ## Bring ChatGPT Edu to your campus
 
-[Talk with our team](<https://chatgpt.com/contact-sales>)[Learn more](</chatgpt/education/>)
+[Talk with our team](<https://chatgpt.com/contact-sales>)[Learn more](<https://chatgpt.com/business/education>)
 
 Our Research
 

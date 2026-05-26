@@ -40,7 +40,7 @@ Loading…
 
 Share
 
-[We're announcing ChatGPT Edu, a version of ChatGPT built for universities to responsibly deploy AI to students, faculty, researchers, and campus operations.](</chatgpt/education/>) Powered by GPT‑4o, ChatGPT Edu can reason across text and vision and use advanced tools such as data analysis. This new offering includes enterprise-level security and controls and is affordable for educational institutions. 
+[We're announcing ChatGPT Edu, a version of ChatGPT built for universities to responsibly deploy AI to students, faculty, researchers, and campus operations.⁠(opens in a new window)](<https://chatgpt.com/business/education>) Powered by GPT‑4o, ChatGPT Edu can reason across text and vision and use advanced tools such as data analysis. This new offering includes enterprise-level security and controls and is affordable for educational institutions. 
 
 We built ChatGPT Edu because we saw the success universities like the University of Oxford, [_Wharton School of the University of Pennsylvania_ ⁠(opens in a new window)](<https://news.wharton.upenn.edu/press-releases/2024/05/the-wharton-school-makes-strategic-investment-in-artificial-intelligence-research-and-teaching/>), University of Texas at Austin, [_Arizona State University_ ⁠(opens in a new window)](<https://tech.asu.edu/features/a-step-forward-in-charting-the-future-of-AI-in-higher-education>), and Columbia University in the City of New York were having with ChatGPT Enterprise.
 

@@ -47,7 +47,7 @@ Share
 
  _August 29, 2025 update: ChatGPT Team is now called ChatGPT Business. We heard from customers this name was clearer. Features and pricing haven’t changed._
 
-We launched ChatGPT Enterprise a few months ago and industry leaders like Block, Canva, Carlyle, The Estée Lauder Companies, PwC, and Zapier are already using it to redefine how their organizations operate. Today, we’re adding a new self-serve plan: [ChatGPT Team](</chatgpt/team/>).
+We launched ChatGPT Enterprise a few months ago and industry leaders like Block, Canva, Carlyle, The Estée Lauder Companies, PwC, and Zapier are already using it to redefine how their organizations operate. Today, we’re adding a new self-serve plan: [ChatGPT Team⁠(opens in a new window)](<https://chatgpt.com/business/business-plan>).
 
 ChatGPT Team offers access to our advanced models like GPT‑4 and DALL·E 3, and tools like Advanced Data Analysis. It additionally includes a dedicated collaborative workspace for your team and admin tools for team management. As with ChatGPT Enterprise, you own and control your business data—we do not train on your business data or conversations, and our models don’t learn from your usage. More details on our data privacy practices can be found on our [privacy page⁠](</enterprise-privacy/>) and [Trust Portal⁠(opens in a new window)](<https://trust.openai.com/>).
 
@@ -81,7 +81,7 @@ Connor O’Brien, VP of GTM Strategy & Operations at Sourcegraph, shares, "We us
 
 Dr. John Brownstein, Chief Innovation Officer at Boston Children’s Hospital says, “With ChatGPT Team, we’ve been able to pilot innovative GPTs that enhance our team’s productivity and collaboration. As we integrate GPTs safely and responsibly across internal operations, we know the transformative impact this will have in strengthening the systems that enable our doctors, researchers, students, and administrative staff to provide exceptional care to every patient that walks through our doors.”
 
-ChatGPT Team costs $25/month per user when billed annually, or $30/month per user when billed monthly. You can [explore the details](</chatgpt/team/>) or get started now by upgrading in your ChatGPT settings.
+ChatGPT Team costs $25/month per user when billed annually, or $30/month per user when billed monthly. You can [explore the details⁠(opens in a new window)](<https://chatgpt.com/business/business-plan>) or get started now by upgrading in your ChatGPT settings.
 
   * [Explore ChatGPT Team](</chatgpt/team/>)
   * [Try now(opens in a new window)](<https://chatgpt.com/team-sign-up>)

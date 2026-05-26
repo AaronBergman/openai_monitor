@@ -26,6 +26,12 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
+What can I help with?
+
+Message ChatGPT
+
+[Talk with ChatGPT](<https://chatgpt.com/?mode=voice>)[Research](</research/>)[API Platform](</api/>)[Stories](</stories/>)More
+
 ![""](https://images.ctfassets.net/kftzwdyauwt9/2Bh47W4cA48dvG5FbDtNQH/5897109fb0de6fc3125c0c35c4f60001/Hero_Art_Card_16x9.jpg?w=3840&q=90&fm=webp)
 
 [Introducing GPT-5.5Product18 min read](</index/introducing-gpt-5-5/>)
@@ -38,47 +44,41 @@ OpenAI
 
 [Introducing ChatGPT Images 2.0Product](</index/introducing-chatgpt-images-2-0/>)
 
-![20250826](https://images.ctfassets.net/kftzwdyauwt9/2H347RfdThVOeTfSBchxDx/8a053f4cfa92faeed7141265dd02e7dd/20250826.jpg?w=3840&q=90&fm=webp)
+![1x1 Art Card](https://images.ctfassets.net/kftzwdyauwt9/7qVT9WlLKfgGLPC5W77ei6/a24fd3f13b754378759959aa77cd8f5d/1_1.png?w=3840&q=90&fm=webp)
 
-[GPT-5.5 Instant: smarter, clearer, and more personalizedProduct5 min read](</index/gpt-5-5-instant/>)
+[Work with Codex from anywhereProduct5 min read](</index/work-with-codex-from-anywhere/>)
 
-![OAI Blog Agents Hero 1x1](https://images.ctfassets.net/kftzwdyauwt9/70CFPhmF2xCA4LB7KS3wCn/d79a86bd8ab1aaafdcf2052e3ee02ba1/OAI_Blog_Agents_Hero_1x1.png?w=3840&q=90&fm=webp)
+![OAI GPT-Realtime-2 Art Card 1x1](https://images.ctfassets.net/kftzwdyauwt9/4TtA6X4b6MbTFXSkoZXvqk/39930a05ebb333898ad1df6c28463465/OAI_GPT-Realtime-2_Art_Card_1x1.png?w=3840&q=90&fm=webp)
 
-[Introducing workspace agents in ChatGPTProduct7 min read](</index/introducing-workspace-agents-in-chatgpt/>)
+[Advancing voice intelligence with new models in the APIProduct7 min read](</index/advancing-voice-intelligence-with-new-models-in-the-api/>)
 
 ## Recent news
 
 [View more](</news/company-announcements/>)
 
+![Art card \(4\)](https://images.ctfassets.net/kftzwdyauwt9/26wgJNYWk0soRoyZvBmYmo/dc80fc33c0a60bd566816f2323f31dc2/Art_card__4_.png?w=3840&q=90&fm=webp)
+
+[Advancing content provenance for a safer, more transparent AI ecosystemSafetyMay 19, 2026](</index/advancing-content-provenance/>)
+
+![Personal finance in ChatGPT > Media > Cover](https://images.ctfassets.net/kftzwdyauwt9/4zSr4YNWXIEYz20piN2bxf/6f9a561be6055802914aee0a3bb671d7/ArtCard-Personal-Finance.png?w=3840&q=90&fm=webp)
+
+[A new personal finance experience in ChatGPTProductMay 15, 2026](</index/personal-finance-chatgpt/>)
+
+![Helping ChatGPT better recognize context in sensitive conversations > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/7x4viZ0DsQtxQpAgnYYheQ/8dfe028356aceac9e83da6cb837d6864/Saftey-Art-Card-1080x1080.png?w=3840&q=90&fm=webp)
+
+[Helping ChatGPT better recognize context in sensitive conversationsSafetyMay 14, 2026](</index/chatgpt-recognize-context-in-sensitive-conversations/>)
+
+![Introducing Trusted Contact in ChatGPT > Art Card](https://images.ctfassets.net/kftzwdyauwt9/6cEIQkxxIQawI5tRwAwHPF/1eb5d89a9841b26aa45a1a71b534c409/ArtCard-Trusted-Contact-1080x1080.png?w=3840&q=90&fm=webp)
+
+[Introducing Trusted Contact in ChatGPTSafetyMay 7, 2026](</index/introducing-trusted-contact-in-chatgpt/>)
+
 ![What frontier enterprises do differently > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/4kKQaeWGl9atcyE51ri1ZW/3aa677511fa40bc0a4b089ef6cd9698f/Frame.png?w=3840&q=90&fm=webp)
 
-[How frontier enterprises are building an AI advantageCompanyMay 6, 2026](</index/introducing-b2b-signals/>)
+[How frontier firms are pulling aheadCompanyMay 6, 2026](</index/introducing-b2b-signals/>)
 
 ![New ways to buy ChatGPT ads > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/3Rxyg8znQWIKixzNDvJtEE/87399a6c50caa6aaadbd664409021f82/ArtCard-ChatGPT-Ads.png?w=3840&q=90&fm=webp)
 
 [New ways to buy ChatGPT adsProductMay 5, 2026](</index/new-ways-to-buy-chatgpt-ads/>)
-
-![Introducing Advanced Account Security ](https://images.ctfassets.net/kftzwdyauwt9/4qS0zHVYqjyQCXbjR0GBgo/afaf8ff54069198f148dec57aa40461b/ArtCard-Introducing_Advanced_Account_Security_for_ChatGPT_accounts.png?w=3840&q=90&fm=webp)
-
-[Introducing Advanced Account SecurityProductApr 30, 2026](</index/advanced-account-security/>)
-
-![oai goblins](https://images.ctfassets.net/kftzwdyauwt9/1UA2Ru5dt5rwdQfwl6B6m3/13c19cd49b106f8a39d5a2a132343b77/Goblins-1_1_Art_Card.jpg?w=3840&q=90&fm=webp)
-
-[Where the goblins came fromPublicationApr 29, 2026](</index/where-the-goblins-came-from/>)
-
-![Amazon Bedrock > card image](https://images.ctfassets.net/kftzwdyauwt9/5DqGp6lqqjI16dbVGV51bh/424a7571ca3dd889488e3422753e4e44/oai-aws-1x1.png?w=3840&q=90&fm=webp)
-
-[OpenAI models, Codex, and Managed Agents come to AWSProductApr 28, 2026](</index/openai-on-aws/>)
-
-![Next Phase of MS OAI Partnership > card image](https://images.ctfassets.net/kftzwdyauwt9/6WWxPp3wjOGuogkWZBh89B/54c771f978bb831a0d90c0a9cff49ccc/oai-ms-1x1.png?w=3840&q=90&fm=webp)
-
-[The next phase of the Microsoft OpenAI partnershipCompanyApr 27, 2026](</index/next-phase-of-microsoft-partnership/>)
-
-What can I help with?
-
-Message ChatGPT
-
-[Learn about ChatGPT Business](</business/>)[Talk with ChatGPT](<https://chatgpt.com/?mode=voice>)[Research](</research/>)[API Platform](</api/>)More
 
 ## Stories
 
@@ -100,17 +100,17 @@ Message ChatGPT
 
 [View all](</research/index/>)
 
-![Safety research the challenge > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/1dWPvCSG0V25TAlDws6dGU/214b389f0862c168692cdf8d467a1b53/art_card__1_.png?w=3840&q=90&fm=webp)
+![Geometry > ArtCard > Polynomial Construction](https://images.ctfassets.net/kftzwdyauwt9/6PqehRMmS1oVuin6e3VWYq/b96f1c7b5a2ac2c08a887591b8486ed3/ArtCard-Polynomial-Construction.png?w=3840&q=90&fm=webp)
 
-[Improving instruction hierarchy in frontier LLMsResearchMar 10, 2026](</index/instruction-hierarchy-challenge/>)
+[An OpenAI model has disproved a central conjecture in discrete geometryResearchMay 20, 2026](</index/model-disproves-discrete-geometry-conjecture/>)
 
-![CoT controllability > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/7AkyH6nozJkoGaWK1VjBoj/adeeeeb93985405d47244c597ee82777/OAI_Reasoning_Models_Struggle_to_Control_their_Chains_of_Thought__and_thatâ__s_Good_Art_Card_1x1.png?w=3840&q=90&fm=webp)
+![OAI GPT-Rosaling Art Card 1x1](https://images.ctfassets.net/kftzwdyauwt9/6DOv5mMIaI2sbsgdDbeiiY/d2d071aac3555468336b870cfeb9736e/OAI_GPT-Rosaling_Art_Card_1x1.png?w=3840&q=90&fm=webp)
 
-[Reasoning models struggle to control their chains of thought, and that’s goodResearchMar 5, 2026](</index/reasoning-models-chain-of-thought-controllability/>)
+[Introducing GPT-Rosalind for life sciences researchResearchApr 16, 2026](</index/introducing-gpt-rosalind/>)
 
-![graviton paper release > card image ](https://images.ctfassets.net/kftzwdyauwt9/6GCHLf07ktUKcPeuulBOzk/0eba07515452c739fabbbf6d13981012/Graviton_art_card.png?w=3840&q=90&fm=webp)
+![OAI Monitoring internal deployments for loss of control risks Art Card 1x1](https://images.ctfassets.net/kftzwdyauwt9/5GCZHArpg3FLRTissb13aX/50b2716c198dbbc4cf241b05faeee97c/OAI_Monitoring_internal_deployments_for_loss_of_control_risks_Art_Card_1x1.png?w=3840&q=90&fm=webp)
 
-[Extending single-minus amplitudes to gravitonsResearchMar 4, 2026](</index/extending-single-minus-amplitudes-to-gravitons/>)
+[How we monitor internal coding agents for misalignmentSafetyMar 19, 2026](</index/how-we-monitor-internal-coding-agents-misalignment/>)
 
 ## OpenAI for business
 

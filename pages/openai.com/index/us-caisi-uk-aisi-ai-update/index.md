@@ -130,17 +130,17 @@ OpenAI
 
 [View all](</news/>)
 
-![malta partnership > art card](https://images.ctfassets.net/kftzwdyauwt9/640ky2MygwV3jpGjE153fQ/a98bc57773bf3518328afb5f5ffafaad/Art_Card__6_.png?w=3840&q=90&fm=webp)
+![Grup-ArtCard](https://images.ctfassets.net/kftzwdyauwt9/6EEi4oJJ36NPbiw2Mkm1xZ/ee9da167bf08278df2759445f6bea88a/Grup-ArtCard.png?w=3840&q=90&fm=webp)
 
-[OpenAI and Malta partner to bring ChatGPT Plus to all citizensGlobal AffairsMay 16, 2026](</index/malta-chatgpt-plus-partnership/>)
+[OpenAI, Grupo Folha, and Grupo UOL announce strategic content partnershipGlobal AffairsMay 25, 2026](</index/grupo-folha-grupo-uol-partnership/>)
 
-![Helping ChatGPT better recognize context in sensitive conversations > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/7x4viZ0DsQtxQpAgnYYheQ/8dfe028356aceac9e83da6cb837d6864/Saftey-Art-Card-1080x1080.png?w=3840&q=90&fm=webp)
+![Next phase of OpenAI for countries > art card](https://images.ctfassets.net/kftzwdyauwt9/D3j1QLEUWCW6QvlwihC2v/2e1f92d8dd5d4aa1b656849aba4531f8/Art_Card2.png?w=3840&q=90&fm=webp)
 
-[Helping ChatGPT better recognize context in sensitive conversationsSafetyMay 14, 2026](</index/chatgpt-recognize-context-in-sensitive-conversations/>)
+[The next phase of OpenAI’s Education for CountriesGlobal AffairsMay 20, 2026](</index/the-next-phase-of-education-for-countries/>)
 
-![Running Codex safely at OpenAI > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/76rTHgn2J3y6srtNd3ZrRs/71fc86af978baecda10b212fdb5d3609/Frame.png?w=3840&q=90&fm=webp)
+![Frame](https://images.ctfassets.net/kftzwdyauwt9/5JFad06WGFRNSvmwt2IEYt/fc85c02c580da98144575675105dc647/release-cover-frame.png?w=3840&q=90&fm=webp)
 
-[Running Codex safely at OpenAISecurityMay 8, 2026](</index/running-codex-safely/>)
+[Introducing OpenAI for SingaporeGlobal AffairsMay 19, 2026](</index/introducing-openai-for-singapore/>)
 
 Our Research
 

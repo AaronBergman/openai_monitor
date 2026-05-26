@@ -97,6 +97,10 @@ OpenAI
 
 [View all](</news/>)
 
+![Grup-ArtCard](https://images.ctfassets.net/kftzwdyauwt9/6EEi4oJJ36NPbiw2Mkm1xZ/ee9da167bf08278df2759445f6bea88a/Grup-ArtCard.png?w=3840&q=90&fm=webp)
+
+[OpenAI, Grupo Folha, and Grupo UOL announce strategic content partnershipGlobal AffairsMay 25, 2026](</index/grupo-folha-grupo-uol-partnership/>)
+
 ![Frame](https://images.ctfassets.net/kftzwdyauwt9/5JFad06WGFRNSvmwt2IEYt/fc85c02c580da98144575675105dc647/release-cover-frame.png?w=3840&q=90&fm=webp)
 
 [Introducing OpenAI for SingaporeGlobal AffairsMay 19, 2026](</index/introducing-openai-for-singapore/>)
@@ -104,10 +108,6 @@ OpenAI
 ![malta partnership > art card](https://images.ctfassets.net/kftzwdyauwt9/640ky2MygwV3jpGjE153fQ/a98bc57773bf3518328afb5f5ffafaad/Art_Card__6_.png?w=3840&q=90&fm=webp)
 
 [OpenAI and Malta partner to bring ChatGPT Plus to all citizensGlobal AffairsMay 16, 2026](</index/malta-chatgpt-plus-partnership/>)
-
-![CA Privacy > card img](https://images.ctfassets.net/kftzwdyauwt9/3lWXxBR8sZQiOsh6oNJHf9/f7d47996c9f425621016ea27f3b8ad4e/how-chatgpt-protects-privacy-1_1.png?w=3840&q=90&fm=webp)
-
-[How ChatGPT learns about the world while protecting privacy Global AffairsMay 6, 2026](</index/how-chatgpt-protects-privacy/>)
 
 Our Research
 
