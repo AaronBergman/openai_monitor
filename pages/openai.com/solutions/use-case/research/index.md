@@ -234,3 +234,27 @@ Terms & Policies
 OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
+
+![ChatGPT interface displaying a financial comparison table titled “Nubank vs. Fintech Peers: Q3 2025 Growth Metrics,” listing revenue, customer growth, and financial data for Nubank, SoFi, and PayPal.](https://images.ctfassets.net/kftzwdyauwt9/7B5z5nLqPyVVUkgK49InJs/cb2ec58ff92d7576b3ccfad57e22905e/solution-research-accordion-01.png?w=3840&q=90&fm=webp)
+
+![ChatGPT dashboard showing “user preferences” in the vector store, with details like ID, usage, and attached file “leher-preferences.txt” on a blue gradient background.](https://images.ctfassets.net/kftzwdyauwt9/dLUmQJLGBqtBhf4PPK073/26d6c909bd86ec3c0d1648cad92e7069/solution-research-accordion-02.png?w=3840&q=90&fm=webp)
+
+![ChatGPT interface summarizing sustainable glass companies, listing Belu, Ardagh Group, and GreenBottle with their positioning in the sustainable packaging industry.](https://images.ctfassets.net/kftzwdyauwt9/RUbitAxVaYVtVJsPOHzYe/96d4c532f4722afdc10e214596646520/solution-research-accordion-03.png?w=3840&q=90&fm=webp)
+
+![ChatGPT interface showing instructions for a research assistant to create an executive summary about new EU tax legislation \(2025\), including goals and summary sections with policy details.](https://images.ctfassets.net/kftzwdyauwt9/5yq4Nq7NeQRbp9aopIk0Zd/f4ac838c5b31f0c6ed1b311d8881c66d/solution-research-accordion-04.png?w=3840&q=90&fm=webp)
+
+### Synthesize multi-source information
+
+Combine data, documents, and external sources to reveal trends, contradictions, and insights with clear citations.
+
+### Automate your knowledge
+
+Connect to internal or external databases through the API to automatically update and organize information into shareable briefs, dashboards, or repositories.
+
+### Generate structured, cited reports
+
+Launch research agents that fetch and verify information from trusted sources to produce reports in your preferred style or format. 
+
+### Surface hidden insights
+
+Surface weak signals or emerging trends across research papers, news, and datasets to reveal opportunities or risks before they’re widely recognized.

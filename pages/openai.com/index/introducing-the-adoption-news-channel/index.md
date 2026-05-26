@@ -81,6 +81,10 @@ Welcome to Adoption news. Follow us to start building your advantage.
 
 [View all](</news/>)
 
+![Gartner MQ > Art Card](https://images.ctfassets.net/kftzwdyauwt9/6GUkmRON5hyvikNSF3IEmH/78ea7491689ec5d07cd6a6c2ad6f0254/Gartner-MQ-ArtCard.png?w=3840&q=90&fm=webp)
+
+[OpenAI named a Leader in enterprise coding agents by GartnerAI AdoptionMay 22, 2026](</index/gartner-2026-agentic-coding-leader/>)
+
 ![OAI The five AI value models driving business reinvention 1x1 Art Card](https://images.ctfassets.net/kftzwdyauwt9/2YclNMGFgInYk2vt0sjI4W/dcaa7d202589cf3ba0f588592f7fb10b/OAI_The_five_AI_value_modelsdriving_business_reinvention_1x1_Art_Card.png?w=3840&q=90&fm=webp)
 
 [The five AI value models driving business reinventionAI AdoptionMar 5, 2026](</index/the-five-ai-value-models-driving-business-reinvention/>)

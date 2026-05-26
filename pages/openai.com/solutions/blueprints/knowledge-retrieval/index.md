@@ -195,3 +195,27 @@ Terms & Policies
 OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
+
+![A mockup shows a chatbot answering an IT helpdesk question about setting up a VPN, listing setup steps. On the right, a panel titled “IT Helpdesk Assistant” displays cited sources like “Internal IT handbook” and “Network policy.” The background is blue and white.](https://images.ctfassets.net/kftzwdyauwt9/d1B1RcOkvJKgWGun6K4QY/71f05eb32fb9218594d526d3f50e8369/Enterprise-wide_search.png?w=3840&q=90&fm=webp)
+
+![A chatbot answers a customer question about switching to a new plan with a numbered list of steps. The right panel titled “Support Assistant” shows cited sources “Help Center” and “Subscriptions policy FAQ.” Background features a light blue gradient.](https://images.ctfassets.net/kftzwdyauwt9/3R9Zlxkbj6B8mRYMGUlKUN/05317b6f9fc5ff446549d640b51e161c/Customer_support_Q_A.png?w=3840&q=90&fm=webp)
+
+![A chatbot provides steps for setting up automatic recurring investments, including navigation paths and setup options. The panel on the right, titled “Banking Advisor,” lists files “Wealth management help” and “Investment guidance.” The background has a soft blue tone.](https://images.ctfassets.net/kftzwdyauwt9/1kxwLVoufy954LG1cr5YAY/ed6b607e1e690cabe5982693c70a47c3/In-product_assistance.png?w=3840&q=90&fm=webp)
+
+![A chatbot interface summarizes biotech clinical risk highlights for Q4, such as elevated dropout rates and mild liver enzyme elevations. On the right, a panel titled “Expert Advisor” cites “Clinical research reports” and “FDA regulatory filings.” The background is blue.](https://images.ctfassets.net/kftzwdyauwt9/7rHV593r2mvYvEVDWYO6nF/c6efc0746cc3b943485c2fa149ff2ea0/Expert_insights_and_analysis.png?w=3840&q=90&fm=webp)
+
+### Internal knowledge search
+
+Find answers instantly across internal docs, wikis, policies, and systems.
+
+### Customer support Q&A
+
+Give support teams a source of truth for fast, consistent resolutions.
+
+### In-product assistance
+
+Deliver guidance inside your app and tailored to your users.
+
+### Expert insights and analysis
+
+Surface precise insights from deep domain data to speed up expert decision making.

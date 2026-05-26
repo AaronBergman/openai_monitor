@@ -52,17 +52,17 @@ OpenAI
 
 ## Keep reading
 
-![How sales teams use Codex > card image](https://images.ctfassets.net/kftzwdyauwt9/1O4te2wMh6O77eDV6kapG3/02845b054a09297b9fada40c4cc9a71f/sales_teams.png?w=3840&q=90&fm=webp)
+![Grup-ArtCard](https://images.ctfassets.net/kftzwdyauwt9/6EEi4oJJ36NPbiw2Mkm1xZ/ee9da167bf08278df2759445f6bea88a/Grup-ArtCard.png?w=3840&q=90&fm=webp)
 
-[How sales teams use CodexOpenAI AcademyMay 15, 2026](</academy/codex-for-work/how-sales-teams-use-codex/>)
+[OpenAI, Grupo Folha, and Grupo UOL announce strategic content partnershipGlobal AffairsMay 25, 2026](</index/grupo-folha-grupo-uol-partnership/>)
 
-![How business operations teams use Codex > card image](https://images.ctfassets.net/kftzwdyauwt9/JR9MMoyTo7eFFF8Nv13Qc/43414ee0c762db49e36bda8ae0d35e39/bus_ops_teams.png?w=3840&q=90&fm=webp)
+![Virgin Atlantic customer story hero image 1x1](https://images.ctfassets.net/kftzwdyauwt9/6WNcKcxQ4YROa131BHbMqK/3abfa2f73d5eed41b9fcb723c6e24e1e/virgin-atlantic-hero.png?w=3840&q=90&fm=webp)
 
-[How business operations teams use CodexOpenAI AcademyMay 15, 2026](</academy/codex-for-work/how-business-operations-teams-use-codex/>)
+[How Virgin Atlantic ships faster with CodexMay 22, 2026](</index/virgin-atlantic/>)
 
-![How data science teams use Codex > card image](https://images.ctfassets.net/kftzwdyauwt9/xyevYnp4Ptaa1eMgBDNjS/75fea80018f321b89809d893f1a5786d/data_science_teams.png?w=3840&q=90&fm=webp)
+![Gartner MQ > Art Card](https://images.ctfassets.net/kftzwdyauwt9/6GUkmRON5hyvikNSF3IEmH/78ea7491689ec5d07cd6a6c2ad6f0254/Gartner-MQ-ArtCard.png?w=3840&q=90&fm=webp)
 
-[How data science teams use CodexOpenAI AcademyMay 15, 2026](</academy/codex-for-work/how-data-science-teams-use-codex/>)
+[OpenAI named a Leader in enterprise coding agents by GartnerAI AdoptionMay 22, 2026](</index/gartner-2026-agentic-coding-leader/>)
 
 Our Research
 
@@ -159,3 +159,37 @@ Terms & Policies
 OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
+
+### When is the application deadline?
+
+Applications are due by January 12th, 2026.
+
+### What are the program dates?
+
+The program runs Thursday, January 22nd, 2026 to Friday, February 27th, 2026.
+
+Participants should plan for required in-person sessions during the first and last week, with an additional 4–6 hours of asynchronous work each week in between.
+
+### I’m working with someone, can we apply as a team?
+
+Yes, we welcome groups to apply. Please let us know of your group entry via the form below.
+
+### Does my product need to be built on top of OpenAI’s APIs?
+
+No. The program is for anyone building or aspiring to build with AI.
+
+### What is the time commitment?
+
+Approximately 4–6 hours a week.
+
+### What are the program benefits?
+
+The Grove is a community-based program designed to connect you to the mentors, resources, and peers that can accelerate your journey. As you build, we will offer additional benefits such as credits and introductions to raise capital.
+
+### Is the program in person?
+
+The first and last week of the program take place in San Francisco. We will cover travel costs for these weeks. Other weeks will be completed asynchronously.
+
+### How is this program different from other startup programs?
+
+OpenAI Grove is designed for founders at the very earliest stages—whether you’re pre-idea, just starting out, or preparing to launch a company. [_Pioneers_](</index/openai-pioneers-program/>) and [_OpenAI for Startups_](</startups/>) are for established companies building in a specific domain.

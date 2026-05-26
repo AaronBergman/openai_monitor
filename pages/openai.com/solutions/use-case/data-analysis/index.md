@@ -232,3 +232,27 @@ Terms & Policies
 OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
+
+![ChatGPT interface showing a dataset correlation analysis table with variable pairs and correlation values from a CSV file named “FruitCup_Mkt_Data.csv.”](https://images.ctfassets.net/kftzwdyauwt9/2XhedH9Ba6LnpOSGVehBtO/9c760e251e7fbd60cca23bd6457eb755/.png?w=3840&q=90&fm=webp)
+
+![ChatGPT interface displaying an energy usage analysis with a bar chart showing a 6-month average of 1,083 kWh on a blue gradient background.](https://images.ctfassets.net/kftzwdyauwt9/zRIzeG7VJvOeVhEVMKfDq/b04ce654272eb30af974749f1afa850d/solution-data_analysis-accordion-02.png?w=3840&q=90&fm=webp)
+
+![ChatGPT interface presenting a quarterly sales data summary converted into an infographic slide with three pie charts labeled by region, product, and sales rep.](https://images.ctfassets.net/kftzwdyauwt9/6IuJxRz0pbcXXN4TMSqFIa/44bd0d7e0bfa8f18df8d03507aed4828/solution-data_analysis-accordion-03.png?w=3840&q=90&fm=webp)
+
+![ChatGPT interface showing a CSV file named “customer_usage_data.csv” and a prompt requesting analysis and visualization of customer usage data for a sales training deck.](https://images.ctfassets.net/kftzwdyauwt9/5kG43Xqpt7q6ZOtS1Q28tN/d993cda570b60aa5613038e37e271380/solution-data_analysis-accordion-04.png?w=3840&q=90&fm=webp)
+
+### Analyze campaign performance
+
+Track results across campaigns to identify emerging trends and optimization opportunities.
+
+### Embed visual reports into your app
+
+Create reports and dashboards with real-time data, built with ChatKit. 
+
+### Generate visuals and summaries
+
+Turn raw data into clear charts, concise takeaways, and actionable, presentation-ready slides.
+
+### Empower every team
+
+Enable every team—from sales to legal—to run queries in plain language and get instant summaries, forecasts, or performance breakdowns from connected systems. 

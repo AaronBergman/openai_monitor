@@ -298,7 +298,7 @@ Policies.
 
 “ _Personal Data_ ” is as defined in the DPA.
 
-“ _Pricing Page_ ” means the pages available at [https://openai.com/api/pricing](</api/pricing/>) or [https://openai.com/chatgpt/pricing](</chatgpt/pricing/>).
+“ _Pricing Page_ ” means the pages available at [https://openai.com/api/pricing](</api/pricing/>) or [https://openai.com/chatgpt/pricing⁠(opens in a new window)](<https://chatgpt.com/pricing>).
 
 “ _Protected Health Information_ ” is as defined under the HIPAA Privacy Rule (45 C.F.R. Section 160.103).
 

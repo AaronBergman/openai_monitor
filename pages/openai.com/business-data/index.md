@@ -101,7 +101,7 @@ ChatGPT Business & ChatGPT for Teachers features
 
 
 
-[Learn more about Business](</chatgpt/team/>)
+[Learn more about Business](<https://chatgpt.com/business/business-plan>)
 
 ChatGPT Enterprise, Edu, & ChatGPT for Healthcare features
 
@@ -118,7 +118,7 @@ ChatGPT Enterprise, Edu, & ChatGPT for Healthcare features
 
 
 
-[Learn more about Enterprise](</chatgpt/enterprise/>)
+[Learn more about Enterprise](<https://chatgpt.com/business/enterprise>)
 
 API Platform features
 
@@ -151,7 +151,7 @@ API Platform features
 
 ## Start your AI journey with OpenAI
 
-[Try ChatGPT Business](</chatgpt/team/>)[Talk with our team](</contact-sales/>)
+[Try ChatGPT Business](<https://chatgpt.com/business/business-plan>)[Talk with our team](</contact-sales/>)
 
 Our Research
 

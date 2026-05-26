@@ -46,7 +46,10 @@ responses createreasoning_effortrealtimeprompt caching
   * [ Quickstart ](</api/docs/quickstart>)
   * [ Models ](</api/docs/models>)
   * [ Pricing ](</api/docs/pricing>)
-  * [ Libraries ](</api/docs/libraries>)
+  * [ SDKs and CLI ](</api/docs/libraries>)
+    * [ OpenAI SDK ](</api/docs/libraries>)
+    * [ Agents SDK ](</api/docs/guides/agents>)
+    * [ OpenAI CLI ](</api/docs/libraries/openai-cli>)
   * [ Latest: GPT-5.5 ](</api/docs/guides/latest-model>)
   * [ Prompt guidance ](</api/docs/guides/prompt-guidance>)
 
@@ -96,6 +99,7 @@ responses createreasoning_effortrealtimeprompt caching
 
   * [ Web search ](</api/docs/guides/tools-web-search>)
   * [ MCP and Connectors ](</api/docs/guides/tools-connectors-mcp>)
+    * [ Secure MCP Tunnel ](</api/docs/guides/secure-mcp-tunnels>)
   * [ Skills ](</api/docs/guides/tools-skills>)
   * [ Shell ](</api/docs/guides/tools-shell>)
   * [ Computer use ](</api/docs/guides/tools-computer-use>)
@@ -127,6 +131,7 @@ responses createreasoning_effortrealtimeprompt caching
     * [ Overview ](</api/docs/guides/prompting>)
     * [ Prompt engineering ](</api/docs/guides/prompt-engineering>)
     * [ Citation formatting ](</api/docs/guides/citation-formatting>)
+    * [ Migration guide ](</api/docs/guides/prompting/migrate-from-prompt-object>)
   * Reasoning
     * [ Reasoning models ](</api/docs/guides/reasoning>)
     * [ Reasoning best practices ](</api/docs/guides/reasoning-best-practices>)
@@ -143,21 +148,26 @@ responses createreasoning_effortrealtimeprompt caching
 
 
 
-###  Realtime API 
+###  Realtime and audio 
 
   * [ Overview ](</api/docs/guides/realtime>)
-  * Connect
+  * [ Voice agents ](</api/docs/guides/voice-agents>)
+  * [ Live translation ](</api/docs/guides/realtime-translation>)
+  * Transcription
+    * [ Realtime transcription ](</api/docs/guides/realtime-transcription>)
+    * [ Speech to text ](</api/docs/guides/speech-to-text>)
+  * [ Speech generation ](</api/docs/guides/text-to-speech>)
+  * [ Realtime prompting guide ](</api/docs/guides/realtime-models-prompting>)
+  * Connection methods
     * [ WebRTC ](</api/docs/guides/realtime-webrtc>)
     * [ WebSocket ](</api/docs/guides/realtime-websocket>)
     * [ SIP ](</api/docs/guides/realtime-sip>)
-  * Usage
-    * [ Using realtime models ](</api/docs/guides/realtime-models-prompting>)
+  * Realtime sessions
     * [ Managing conversations ](</api/docs/guides/realtime-conversations>)
-    * [ MCP servers ](</api/docs/guides/realtime-mcp>)
+    * [ Voice activity detection ](</api/docs/guides/realtime-vad>)
+    * [ Realtime with tools ](</api/docs/guides/realtime-mcp>)
     * [ Webhooks and server-side controls ](</api/docs/guides/realtime-server-controls>)
     * [ Managing costs ](</api/docs/guides/realtime-costs>)
-    * [ Realtime transcription ](</api/docs/guides/realtime-transcription>)
-    * [ Voice agents ](</api/docs/guides/voice-agents>)
 
 
 
@@ -179,8 +189,6 @@ responses createreasoning_effortrealtimeprompt caching
 
   * [ Image generation ](</api/docs/guides/image-generation>)
   * [ Video generation ](</api/docs/guides/video-generation>)
-  * [ Text to speech ](</api/docs/guides/text-to-speech>)
-  * [ Speech to text ](</api/docs/guides/speech-to-text>)
   * [ Deep research ](</api/docs/guides/deep-research>)
   * [ Embeddings ](</api/docs/guides/embeddings>)
   * [ Moderation ](</api/docs/guides/moderation>)
@@ -254,6 +262,7 @@ Docs  Use cases
     * [ Memories ](</codex/memories>)
       * [ Chronicle ](</codex/memories/chronicle>)
     * [ Sandboxing ](</codex/concepts/sandboxing>)
+      * [ Auto-review ](</codex/concepts/sandboxing/auto-review>)
     * [ Subagents ](</codex/concepts/subagents>)
     * [ Workflows ](</codex/workflows>)
     * [ Models ](</codex/models>)
@@ -272,7 +281,9 @@ Docs  Use cases
     * [ Worktrees ](</codex/app/worktrees>)
     * [ Local Environments ](</codex/app/local-environments>)
     * [ In-app browser ](</codex/app/browser>)
+    * [ Chrome extension ](</codex/app/chrome-extension>)
     * [ Computer Use ](</codex/app/computer-use>)
+    * [ Appshots ](</codex/appshots>)
     * [ Commands ](</codex/app/commands>)
     * [ Windows ](</codex/app/windows>)
     * [ Troubleshooting ](</codex/app/troubleshooting>)
@@ -310,6 +321,7 @@ Docs  Use cases
     * [ Advanced Config ](</codex/config-advanced>)
     * [ Config Reference ](</codex/config-reference>)
     * [ Sample Config ](</codex/config-sample>)
+  * [ Permissions ](</codex/permissions>)
   * [ Speed ](</codex/speed>)
   * [ Rules ](</codex/rules>)
   * [ Hooks ](</codex/hooks>)
@@ -325,7 +337,9 @@ Docs  Use cases
 
 ###  Administration 
 
-  * [ Authentication ](</codex/auth>)
+  * Authentication
+    * [ Overview ](</codex/auth>)
+    * [ Access tokens ](</codex/enterprise/access-tokens>)
   * [ Agent approvals & security ](</codex/agent-approvals-security>)
   * [ Remote connections ](</codex/remote-connections>)
   * Enterprise
@@ -356,8 +370,8 @@ Docs  Use cases
     * [ Building frontend UIs with Codex and Figma ](</blog/building-frontend-uis-with-codex-and-figma>)
     * [ View all ](</blog/topic/codex>)
   * Cookbooks
-    * [ Codex Prompting Guide ](</cookbook/examples/gpt-5/codex_prompting_guide>)
-    * [ Modernizing your Codebase with Codex ](</cookbook/examples/codex/code_modernization>)
+    * [ Build an Agent Improvement Loop with Traces, Evals, and Codex ](</cookbook/examples/agents_sdk/agent_improvement_loop>)
+    * [ Build iterative repair loops with Codex ](</cookbook/examples/codex/build_iterative_repair_loops_with_codex>)
     * [ View all ](</cookbook/topic/codex>)
   * [ Building AI Teams ](</codex/guides/build-ai-native-engineering-team>)
 
@@ -557,6 +571,7 @@ Showcase  Blog  Cookbook  Learn  Community
 
 
   * [ Home ](</learn>)
+  * [ OpenAI Developers plugin ](</learn/developers-codex-plugin>)
   * [ Docs MCP ](</learn/docs-mcp>)
 
 
@@ -616,7 +631,10 @@ Showcase  Blog  Cookbook  Learn  Community
   * [ Quickstart  ](</api/docs/quickstart>)
   * [ Models  ](</api/docs/models>)
   * [ Pricing  ](</api/docs/pricing>)
-  * [ Libraries  ](</api/docs/libraries>)
+  * [ SDKs and CLI  ](</api/docs/libraries>)
+    * [ OpenAI SDK  ](</api/docs/libraries>)
+    * [ Agents SDK  ](</api/docs/guides/agents>)
+    * [ OpenAI CLI  ](</api/docs/libraries/openai-cli>)
   * [ Latest: GPT-5.5  ](</api/docs/guides/latest-model>)
   * [ Prompt guidance  ](</api/docs/guides/prompt-guidance>)
 
@@ -666,6 +684,7 @@ Showcase  Blog  Cookbook  Learn  Community
 
   * [ Web search  ](</api/docs/guides/tools-web-search>)
   * [ MCP and Connectors  ](</api/docs/guides/tools-connectors-mcp>)
+    * [ Secure MCP Tunnel  ](</api/docs/guides/secure-mcp-tunnels>)
   * [ Skills  ](</api/docs/guides/tools-skills>)
   * [ Shell  ](</api/docs/guides/tools-shell>)
   * [ Computer use  ](</api/docs/guides/tools-computer-use>)
@@ -697,6 +716,7 @@ Showcase  Blog  Cookbook  Learn  Community
     * [ Overview  ](</api/docs/guides/prompting>)
     * [ Prompt engineering  ](</api/docs/guides/prompt-engineering>)
     * [ Citation formatting  ](</api/docs/guides/citation-formatting>)
+    * [ Migration guide  ](</api/docs/guides/prompting/migrate-from-prompt-object>)
   * Reasoning
     * [ Reasoning models  ](</api/docs/guides/reasoning>)
     * [ Reasoning best practices  ](</api/docs/guides/reasoning-best-practices>)
@@ -713,21 +733,26 @@ Showcase  Blog  Cookbook  Learn  Community
 
 
 
-### Realtime API
+### Realtime and audio
 
   * [ Overview  ](</api/docs/guides/realtime>)
-  * Connect
+  * [ Voice agents  ](</api/docs/guides/voice-agents>)
+  * [ Live translation  ](</api/docs/guides/realtime-translation>)
+  * Transcription
+    * [ Realtime transcription  ](</api/docs/guides/realtime-transcription>)
+    * [ Speech to text  ](</api/docs/guides/speech-to-text>)
+  * [ Speech generation  ](</api/docs/guides/text-to-speech>)
+  * [ Realtime prompting guide  ](</api/docs/guides/realtime-models-prompting>)
+  * Connection methods
     * [ WebRTC  ](</api/docs/guides/realtime-webrtc>)
     * [ WebSocket  ](</api/docs/guides/realtime-websocket>)
     * [ SIP  ](</api/docs/guides/realtime-sip>)
-  * Usage
-    * [ Using realtime models  ](</api/docs/guides/realtime-models-prompting>)
+  * Realtime sessions
     * [ Managing conversations  ](</api/docs/guides/realtime-conversations>)
-    * [ MCP servers  ](</api/docs/guides/realtime-mcp>)
+    * [ Voice activity detection  ](</api/docs/guides/realtime-vad>)
+    * [ Realtime with tools  ](</api/docs/guides/realtime-mcp>)
     * [ Webhooks and server-side controls  ](</api/docs/guides/realtime-server-controls>)
     * [ Managing costs  ](</api/docs/guides/realtime-costs>)
-    * [ Realtime transcription  ](</api/docs/guides/realtime-transcription>)
-    * [ Voice agents  ](</api/docs/guides/voice-agents>)
 
 
 
@@ -749,8 +774,6 @@ Showcase  Blog  Cookbook  Learn  Community
 
   * [ Image generation  ](</api/docs/guides/image-generation>)
   * [ Video generation  ](</api/docs/guides/video-generation>)
-  * [ Text to speech  ](</api/docs/guides/text-to-speech>)
-  * [ Speech to text  ](</api/docs/guides/speech-to-text>)
   * [ Deep research  ](</api/docs/guides/deep-research>)
   * [ Embeddings  ](</api/docs/guides/embeddings>)
   * [ Moderation  ](</api/docs/guides/moderation>)

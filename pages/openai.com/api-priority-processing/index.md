@@ -183,3 +183,83 @@ Terms & Policies
 OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
+
+### (For Enterprise customers) How does this interact with Scale Tier?
+
+Scale Tier will remain separate from Priority processing.
+
+Requests sent to Priority processing will be billed separately and will not count against your purchased Scale Tier TPM bundles.
+
+### (For Enterprise customers) Can I automatically send my Scale Tier spill-over traffic to Priority processing?
+
+No. Traffic sent to Scale Tier will not automatically spill over to Priority processing.
+
+### (For Enterprise customers) Is my annual commitment tied to a specific processing mode?
+
+No. All processing modes count against your annual enterprise spend commitment.
+
+### Do I still get a discount on Cached input tokens?
+
+Yes! For a given model, Cached Inputs receive the same 50%, 75%, or 90% discount as they do in Standard processing.
+
+### How do I view my Priority processing usage and spend?
+
+To view tokens processed by Priority processing, go to the Usage dashboard, select Chat Completions or Responses, and Group by Service Tier.
+
+To view Priority processing cost, go to the Usage dashboard, and select Group by Line Item.
+
+### Is Priority processing available for long context, fine-tuned models, embeddings, etc.?
+
+Not at this time. We will evaluate in the future whether to offer Priority processing on additional products beyond our latest models.
+
+### How do other modalities work with Priority processing?
+
+Priority processing supports the same multimodal capabilities available on Standard. In particular, images can be used as inputs to Priority processing and are processed with the same fast latency.
+
+### Will future models be supported?
+
+Yes. We plan to offer Priority processing on new GPT models. We don’t guarantee that every model will be supported.
+
+### What are the rate limits?
+
+Priority processing consumption is treated the same as standard API traffic for rate limits.
+
+### What are the ramp rate limits?
+
+Priority processing has ramp rate limits to ensure consistently high performance for all customers, while still providing flexible, on-demand pricing. If (a) Priority processing performance is degraded AND (b) a customer’s traffic is ramping too quickly, then some Priority requests may be downgraded to Standard processing instead.
+
+The current Priority processing ramp rate limit is defined as processing at least 1M TPM, and increasing traffic by >50% Tokens Per Minute in less than 15 minutes.
+
+Requests processed by Standard service tier will be billed at standard rates, and are not eligible for Priority processing Service Level Objectives.
+
+Requests processed by Standard service tier will include service_tier=”Default” in the response.
+
+  
+**Best practices for staying within your ramp rate limit**
+
+  1. Gradually increase traffic when changing models. For example, if your application is transitioning from a previous snapshot to a new one, use a feature flag to transition traffic over the course of a few hours rather than all at once.
+
+  2. Avoid running large data processing or asynchronous jobs on Priority processing. These jobs can ramp traffic very quickly, and often do not need the improved performance of Priority processing.
+
+  3. If you routinely encounter ramp rate limits, consider purchasing Scale Tier capacity instead or in addition.
+
+
+
+
+### Are ramp rate limits shared across my projects or organizations?
+
+Yes. All of your traffic contributes to the same ramp rate limit.
+
+### (For Enterprise customers) What happens if it’s not meeting the latency target?
+
+For Enterprise customers, please reach out to your AD with any questions or concerns. 
+
+Priority processing SLAs will be treated the same as Scale Tier SLAs; service credits will be offered should we fail to meet those SLAs for customers on enterprise agreements during a given time window.
+
+### Is Priority processing compatible with Data Residency?
+
+Yes
+
+### Is Priority processing compatible with ZDR and the BAA?
+
+Yes

@@ -146,3 +146,39 @@ Terms & Policies
 OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
+
+### How do I check my token volume?
+
+Visit <https://platform.openai.com/usage>[⁠(opens in a new window)](<https://platform.openai.com/usage>) or reach out to your OpenAI Account Director.  
+
+
+### Do Codex tokens count towards this program?
+
+No, Tokens of Appreciation is focused on API tokens. But we’re excited to watch you keep building with Codex!  
+
+
+### My company name on OpenAI is my personal name but I want my token to be printed with my company name.
+
+Your token will be printed with the company name on your OpenAI account at the time of your account creation. Please reach out to your Account Director or log into your OpenAI account to update your account information before token production begins.
+
+### When will I receive my token?
+
+Tokens will be shipped within 4 weeks of redemption. A shipping confirmation email, including tracking details, will be sent as soon as the order is dispatched.
+
+### I received my token but it has the wrong company name.
+
+Your token was printed with the company name on your OpenAI account at the time of your account creation. If you feel this is incorrect, please reach out to support@andopen.co for review and support.
+
+### My token was lost or damaged in transit. How can I receive a replacement?
+
+Please reach out to the [_& Open Support team here_⁠(opens in a new window)](<http://andopen.co/support>) and share your name, email address used to redeem your token, and tracking details. The &Open team will be in touch as soon as possible to assist with next steps!
+
+### My token is in Customs clearance or delayed in transit.
+
+Please reach out to the [_& Open Support team here_⁠(opens in a new window)](<http://andopen.co/support>) and share your name, email address used to redeem your token, and tracking details. The &Open team will be in touch as soon as possible to assist with next steps.
+
+Please note, for some countries such as Türkiye, Serbia, Ukraine, and others, recipients may be responsible for Duties fees and hiring a broker may be required to facilitate delivery. Please reach out to &Open with any questions.
+
+### I want to buy additional tokens for other members of my team.
+
+We appreciate the interest. At this time, tokens are provided as a gift on behalf of OpenAI based on usage, and are not available for sale. 

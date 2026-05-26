@@ -50,6 +50,10 @@ Switch cards to show Media
 
 Switch cards to hide Media
 
+![Art card \(4\)](https://images.ctfassets.net/kftzwdyauwt9/26wgJNYWk0soRoyZvBmYmo/dc80fc33c0a60bd566816f2323f31dc2/Art_card__4_.png?w=3840&q=90&fm=webp)
+
+[Advancing content provenance for a safer, more transparent AI ecosystemSafetyMay 19, 2026](</index/advancing-content-provenance/>)
+
 ![Helping ChatGPT better recognize context in sensitive conversations > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/7x4viZ0DsQtxQpAgnYYheQ/8dfe028356aceac9e83da6cb837d6864/Saftey-Art-Card-1080x1080.png?w=3840&q=90&fm=webp)
 
 [Helping ChatGPT better recognize context in sensitive conversationsSafetyMay 14, 2026](</index/chatgpt-recognize-context-in-sensitive-conversations/>)
@@ -81,10 +85,6 @@ Switch cards to hide Media
 ![GPT-5.5 Bio Bug Bounty > art card](https://images.ctfassets.net/kftzwdyauwt9/2wba91t9mgdv1oBPai3LTb/b19dc82704bb2f6fa625c02bf34eca75/Frame__15_.png?w=3840&q=90&fm=webp)
 
 [GPT-5.5 Bio Bug BountySafetyApr 23, 2026](</index/gpt-5-5-bio-bug-bounty/>)
-
-![accelerating-cyber-defense-ecosystem-1x1](https://images.ctfassets.net/kftzwdyauwt9/1TzwLMgMx0r6t1GQsFAiHH/ff5d38b5bc11d22a2442bb0f151ee83f/accelerating-cyber-defense-ecosystem-1x1.png?w=3840&q=90&fm=webp)
-
-[Accelerating the cyber defense ecosystem that protects us allSecurityApr 16, 2026](</index/accelerating-cyber-defense-ecosystem/>)
 
 Load more
 

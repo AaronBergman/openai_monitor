@@ -188,3 +188,24 @@ Terms & Policies
 OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
+
+### Which subscription plans include apps?
+
+Apps are available in all paid plans, including ChatGPT Plus, Pro, Business, Enterprise, K–12 Teachers, and Edu. A limited set of apps is also available on the ChatGPT Free plan.
+
+### Who can enable or disable apps for my organization?
+
+Workspace admins control which apps are enabled and which users or RBAC groups can access them. Admins can also view which connectors respect domain enforcement.
+
+### Can I build private apps for my organization?
+
+Yes. Using developer mode, you can build custom private apps that connect proprietary data and tools to ChatGPT, or add MCP-based apps from other sources. Private apps can be built using the [_Apps SDK_ ⁠(opens in a new window)](<https://developers.openai.com/apps-sdk/>).
+
+### How do apps handle user data and privacy?
+
+Apps are designed to access information that users are already authorized to view in the connected service. Data shared through Apps is processed securely. By default, data is not used to train OpenAI models for Business, Enterprise, K–12 Teachers, and Edu plans. Admins should review each app’s data-access permissions before enabling it and can monitor activity through audit logs.
+
+### Will app data be used to train OpenAI models?
+
+No. By default, app data is not used to train OpenAI models for Business, Enterprise, or Edu customers.  
+

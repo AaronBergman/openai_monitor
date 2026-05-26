@@ -227,3 +227,33 @@ Terms & Policies
 OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
+
+![Card UI showing an agent named Spark with a star icon, described as researching inbound leads, scoring them, sending personalized emails, and updating a CRM. Below are integrations including Calendar, Gmail, Google Drive, Slack, Salesforce, Notion, Atlassian Rovo, and Web search.](https://images.ctfassets.net/kftzwdyauwt9/xNGzjSkZ2YjPoT23NqUov/77481d868fca0e98e0f82d9d2d027cde/Extend_the_power_of_your_team.png?w=3840&q=90&fm=webp)
+
+![Dashboard section titled ‘Keep work moving 24/7 with workspace agents’ displaying shared agent cards such as Spark, Slate, Tally, Scout, Trove, and Angle, with descriptions and team attribution.](https://images.ctfassets.net/kftzwdyauwt9/21Wd6eNhC9DxBKNWHbkNGf/094b48fb0e56ae25d2bb5a4047f6a83a/One_person_builds__everyone_benefits_WorkspaceAgents.png?w=3840&q=90&fm=webp)
+
+![Slack interface showing a conversation in a channel called #user-insights where a user asks for recent mobile app feedback and an agent named Scout replies with summarized themes such as offline mode requests.](https://images.ctfassets.net/kftzwdyauwt9/qd6RfyYHZqDjYysBsPxHq/c2ccac76441de651941f2acec294881f/Works_whereâ__and_howâ__you_work.png?w=3840&q=90&fm=webp)
+
+![Interface showing creation of an agent named Scout with a description about turning scattered product feedback into prioritized issues, summaries, and roadmap insights. The card highlights connected apps, skills, and files.](https://images.ctfassets.net/kftzwdyauwt9/1lPtDolKmRrI2F8JfkJJkJ/16aa5c66c9ea1e828de36234266663b9/Easy_to_create_and_deploy.png?w=3840&q=90&fm=webp)
+
+### Help your team move faster
+
+Build agents that take on repetitive tasks and support long-running, multi-step workflows, helping work move forward reliably from start to finish. 
+
+### One person builds, everyone benefits
+
+Scale expertise across the company by building agents that understand how a workflow should be done and sharing them with your entire organization. Teams will be less reliant on internal experts and can get work done faster, with fewer bottlenecks.
+
+  
+
+
+### Works where–and how–you work
+
+Agents operate directly in the tools your team already uses and follow your approved processes to get work done. They gather information and take action across Slack, Google Drive, Microsoft apps, and more.
+
+### Easy to create and deploy
+
+Anyone can create an agent in minutes. Define the job in plain language, connect to company context and approved apps, and set the guardrails and governance. 
+
+  
+

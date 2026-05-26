@@ -30,11 +30,13 @@ Select language
 
 …
 
-Updated: April 29, 2026
+Updated: May 22, 2026
 
 # Ad policies
 
-** _Last updated - April 2026_** _:_ We refined our ads placement policy to apply a more precise approach in some regulated-advice contexts. Medical, legal, and financial advice contexts are no longer categorically blocked from ads by default. Sensitive conversations and other prohibited contexts remain ineligible for ads.
+** _May 2026 update:_** A new section explains what standards we apply, how we implement these standards, and what happens when ads don’t meet our safety bar.  
+**_  
+April 2026 update_** _:_ We refined our ads placement policy to apply a more precise approach in some regulated-advice contexts. Medical, legal, and financial advice contexts are no longer categorically blocked from ads by default. Sensitive conversations and other prohibited contexts remain ineligible for ads.
 
 ## 1\. Ad placement policy 
 
@@ -120,6 +122,10 @@ Ads for lingerie, underwear, or swimwear may be allowed when presented in a stan
 
 Ads that promote or facilitate the sale, use, or consumption of alcohol or tobacco are currently disallowed, including marketing for alcoholic beverages (products over 0.5% ABV), cigarettes, vaping, or nicotine products, as well as alcohol or tobacco-focused activities. Incidental references are acceptable only when alcohol is not the focus and the ad otherwise fits within “Safe” eligibility.
 
+#### Counterfeit goods
+
+Ads promoting non-genuine products that copy or substantially imitate another brand’s trademark, logo, name, or distinctive features in order to appear genuine. This includes the promotion, sale, solicitation, or facilitation of knockoffs, replicas, imitations, or pirated products without authorization.
+
 #### Financial services
 
 Ads for financial products and services are restricted. At this time, we may allow ads from approved financial advertisers.
@@ -164,6 +170,10 @@ Ads for products or services that promote the use of substances intended to into
 
 Non-intoxicating hemp-derived products, such as CBD topicals with no THC (e.g., creams or oils) and hemp clothing, may be permitted where they do not promote intoxicating use. Note that illicit drugs are never eligible for advertising.
 
+#### Scams & fraud
+
+We prohibit ads that deceive, defraud, or exploit users to obtain money, personal information, or other valuable assets. This includes ads that impersonate individuals, brands, official entities, or trusted services; promote fraudulent or implausible offers such as guaranteed financial returns; use misleading claims to induce users into scams; or direct users to high-risk or deceptive destinations, including phishing sites, typosquat domains, or unverified messaging channels. 
+
 #### Sensitive topics or events
 
 Ads must not exploit or sensationalize socially contested issues, major public tragedies, or other high-impact events where advertising could undermine user trust or create brand-safety risk. Advertising that meaningfully references sensitive social issues—such as abortion, immigration, race, religion, or gender identity—or promotes false or misleading narratives is not permitted.
@@ -179,6 +189,52 @@ General wellness and lifestyle advertising may be permitted where no medical cla
 During the early phases of advertising, we are focused on a limited set of consumer categories, including household and consumer goods, local services, travel and entertainment, and digital products and education.
 
 We expect to expand eligible categories over time as our safeguards, review systems, and compliance infrastructure mature.
+
+## 3\. Ad integrity
+
+We’re building advertising in ChatGPT with a clear purpose: help make powerful AI accessible to more people while giving businesses of all sizes—from SMBs and startups to global brands—new ways to grow.
+
+From the start, we’ve taken a [_transparent and principled approach_ ⁠](<https://openai.com/index/our-approach-to-advertising-and-expanding-access/>) to our advertising business, with clear policies and processes that determine who can run ads, what kinds of ads are allowed, and where they can appear.
+
+This section explains what standards we apply, how we implement these standards, and what happens when ads don’t meet our safety bar.
+
+#### Review scope
+
+Our review process evaluates the full ad experience at three levels:
+
+  * **Advertisers:** When advertisers sign up on our ads manager platform, we verify their business and assess whether they fit within our allowed policy categories, and can safely participate in our ads ecosystem. We may also evaluate account quality and risk signals associated with scams, fraud, abuse, or deceptive behavior. 
+  * **Ad creative and landing pages** : When an ad is uploaded, we review the title, copy, media, and landing page for compliance with our policies. Ads are rejected if any of these assets promote or meaningfully reference disallowed policy categories (e.g., weapons, alcohol, deceptive practices) or otherwise violate our baseline policy standards.
+  * **Placement:** As a final step, we ensure approved ads only appear in relevant conversations that comply with our placement policy⁠.
+
+
+
+#### Review process
+
+Most reviews are conducted through scaled AI systems with human oversight and calibration. Ads or landing pages that cannot be reviewed or evaluated by our systems are not eligible to run.
+
+  * **Scaled review:** We use machine learning systems, including LLMs and classifiers, to review creatives, landing pages, and advertiser signals for policy compliance before ads are approved for distribution.
+  * **Human oversight** : We also use human review for borderline cases, complex policy areas, and high-severity violations. Reviewer feedback helps calibrate our systems over time, and we continuously refine our processes to improve accuracy and consistency.
+  * **Additional safeguards** : Restricted categories (e.g. financial services) may require additional safeguards, including enhanced advertiser verification or manual review.
+
+
+
+#### Monitoring & enforcement
+
+When our review finds that an ad or advertiser doesn’t meet our policies or integrity standards, we take steps to protect users and our services. Depending on severity, enforcement actions may include rejecting or removing an ad, limiting delivery, requiring edits or other remediation, or restricting an advertiser’s access to ads products. Severe, repeated, or deceptive violations may result in stronger measures, including suspension or termination of advertiser accounts. 
+
+After approval, we continue monitoring ads and advertiser activity using a combination of user feedback, automated metrics, and ongoing quality evaluations, and may take further action if we detect indicators of unsafe, misleading, or otherwise non-compliant behavior.
+
+#### Incident response
+
+No review system is perfect and the impact of policy-violations can be serious. For this reason, we plan for the possibility that a policy-violating ad may be shown. We proactively review user signals, users can report ads in-product they believe are unsafe, misleading, or otherwise problematic, and advertisers and partners can raise concerns through designated support or account channels. 
+
+We investigate and respond based on severity. When an issue is confirmed, we act quickly to protect users—up to and including pausing the ad during investigation for higher-severity cases. After an incident, we review what happened and use what we learn to strengthen our standards, detection, and enforcement over time.
+
+#### Responsible scaling
+
+We’re building the ChatGPT ads platform with safety and trust at the core, and we’ll keep strengthening our review, monitoring, and enforcement as the platform grows. As we expand access and capabilities, we’ll do so deliberately, using real-world performance and feedback to refine our approach.
+
+The goal is straightforward: make it possible for businesses of all sizes to use ChatGPT ads while keeping the experience useful, trustworthy, and aligned with how people rely on ChatGPT every day.
 
 Our Research
 

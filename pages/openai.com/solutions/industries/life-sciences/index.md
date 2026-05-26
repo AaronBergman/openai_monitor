@@ -213,3 +213,33 @@ Terms & Policies
 OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
+
+![A biomedical research assistant interface labeled “Target Investigation Co-Scientist.” The user can input a biological target and select sources like PubMed, Nature, or bioRxiv to generate a research report using deep research tools.](https://images.ctfassets.net/kftzwdyauwt9/4LMBCACXXfdjRrkMvfvfat/66a1df8a75276fd3b0718031471db451/oai_soultionspage_lifesciences_Discoveryandpreclinical.png?w=3840&q=90&fm=webp)
+
+![ChatGPT interface showing a spreadsheet titled “Patient_labs.csv” with a prompt asking for a summary of new Phase II and III prostate cancer trials related to enzalutamide competitors. The user requests comparison of trial designs, FDA fast-track statuses, and cross-referencing with internal oncology SOPs in SharePoint. The background shows part of a generated report titled “Recent Phase II/III Trial Updates for Apalutamide and Darolutamide.”](https://images.ctfassets.net/kftzwdyauwt9/3Jx2qPpAjBWXxDvoFMV0Sx/af3db6a4977753fb303f65cc56b4b993/clinical.png?w=3840&q=90&fm=webp)
+
+![Interface for CSR \(Clinical Study Report\) Management showing progress on a project titled “2024 Breast Cancer Therapy.” A pop-up displays a document generation progress tracker at 87%, with tasks like “Initializing draft generation” and “Analyzing study data” completed.](https://images.ctfassets.net/kftzwdyauwt9/43MqeIc1Jq19nuOqHdKNmU/47ac35b8e264f2539a73d5318ed1987d/regaffairs.png?w=3840&q=90&fm=webp)
+
+![ChatGPT interface showing a prompt to “Analyze and visualize overall downtime trends across all lines last quarter” with a file titled “Downtime logs MCP” and Connectors enabled. The background shows a generated report summarizing issues—Line B had the most downtime, weekly spikes occurred mid-July and late-August, and the top driver was Agitator Motor Failure. The section is titled “What happened last quarter \(all lines\).”](https://images.ctfassets.net/kftzwdyauwt9/3HHkLQjGRiIVwngIUAr9bw/edd2b5d166bc52536a4cb46810aa90ae/oai_soultionspage_lifesciences_manufacturingandquality__1_.png?w=3840&q=90&fm=webp)
+
+![Dashboard view of a “Pharma Operations Assistant” platform showing active and available agents. The “Billing & Payment Agent” is highlighted as active, with a dashboard below displaying monthly service charges and equipment usage metrics.](https://images.ctfassets.net/kftzwdyauwt9/1XGuLKnvYNjLpHjSBfLIWT/5b59858bee2f810f045c5c068d6f4bfe/commercial.png?w=3840&q=90&fm=webp)
+
+### Discovery and preclinical
+
+Design better molecules, predict properties, and extract insights to support quicker target identification and reduce late-stage failures.
+
+### Clinical development
+
+Simplify trial design, automate reporting, and expedite patient recruitment to shorten timelines and reduce risk.
+
+### Regulatory affairs
+
+Automate regulatory document drafting to streamline submissions.
+
+### Manufacturing and quality
+
+Optimize SOPs, surface answers to deviations, and improve response times to maintain quality and compliance.
+
+### Commercial launch and lifecycle
+
+Equip field teams with instant access to knowledge for faster, more personalized engagement to maximize commercial impact.
