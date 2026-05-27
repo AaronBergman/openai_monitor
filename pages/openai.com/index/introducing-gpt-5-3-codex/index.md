@@ -158,7 +158,7 @@ With GPT‑5.3‑Codex, Codex is moving beyond writing code to using it as a too
 ## Appendix
 
   
-| **GPT-5.3-Codex (xhigh)**| **GPT-5.2-Codex (xhigh)**| **GPT-5.2 (xhigh)**  
+| **GPT‑5.3‑Codex (xhigh)**| **GPT‑5.2‑Codex (xhigh)**| **GPT‑5.2 (xhigh)**  
 ---|---|---|---  
 **SWE-Bench Pro (Public)**|  56.8%| 56.4%| 55.6%  
 **Terminal-Bench 2.0**|  77.3%| 64.0%| 62.2%  

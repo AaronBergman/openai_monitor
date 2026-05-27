@@ -36,8 +36,6 @@ Introducing our most cost-efficient small model
 
 Loading…
 
-Share
-
 OpenAI is committed to making intelligence as broadly accessible as possible. Today, we're announcing GPT‑4o mini, our most cost-efficient small model. We expect GPT‑4o mini will significantly expand the range of applications built with AI by making intelligence much more affordable. GPT‑4o mini scores 82% on MMLU and currently outperforms GPT‑41 on chat preferences in [_LMSYS leaderboard_ ⁠(opens in a new window)](<https://arena.lmsys.org/>). It is priced at 15 cents per million input tokens and 60 cents per million output tokens, an order of magnitude more affordable than previous frontier models and more than 60% cheaper than GPT‑3.5 Turbo.
 
 GPT‑4o mini enables a broad range of tasks with its low cost and latency, such as applications that chain or parallelize multiple model calls (e.g., calling multiple APIs), pass a large volume of context to the model (e.g., full code base or conversation history), or interact with customers through fast, real-time text responses (e.g., customer support chatbots). 

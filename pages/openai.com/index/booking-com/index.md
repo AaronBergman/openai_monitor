@@ -92,7 +92,7 @@ The success of the AI Trip Planner laid the foundation for more AI-driven produc
 
 **Solution**| **Challenge it solves**| **How it works**  
 ---|---|---  
-Smart Filters| Traditional search relied on drop-down menus and checkboxes, limiting travelers to a small number of filters. | Uses GPT-4o mini to understand natural language prompts like “sunset views” or “great gym”.  
+Smart Filters| Traditional search relied on drop-down menus and checkboxes, limiting travelers to a small number of filters. | Uses GPT‑4o mini to understand natural language prompts like “sunset views” or “great gym”.  
   
 Goes beyond predefined filters by analyzing reviews, images, and listing details.  
   
@@ -102,7 +102,7 @@ Property Q&A| Many travelers have specific questions about properties that aren�
 Handles queries like “Is there a crib available?” or “Is the pool open in winter?”.  
   
 Adapts to ambiguity, such as different pet policies (e.g. what qualifies as a “large dog” at different properties).  
-AI Review Summaries| Travelers often struggle to sort through thousands of reviews when comparing properties.| GPT-4o mini analyzes and summarizes reviews into key themes (e.g. cleanliness, location, amenities).  
+AI Review Summaries| Travelers often struggle to sort through thousands of reviews when comparing properties.| GPT‑4o mini analyzes and summarizes reviews into key themes (e.g. cleanliness, location, amenities).  
   
 Generates short, digestible summaries, reducing time spent comparing properties and increasing booking confidence.  
 Help Me Reply| Manages guest communications efficiently and improves response times.| Built using OpenAI’s models to generate automated responses and customizable message templates.  

@@ -62,7 +62,7 @@ We are releasing GPT‑5.5 with our strongest set of safeguards to date, designe
 
 Today, GPT‑5.5 is rolling out to Plus, Pro, Business, and Enterprise users in ChatGPT and Codex, and GPT‑5.5 Pro is rolling out to Pro, Business, and Enterprise users in ChatGPT. API deployments require different safeguards and we are working closely with partners and customers on the safety and security requirements for serving it at scale. We'll bring GPT‑5.5 and GPT‑5.5 Pro to the API very soon.
 
-| **GPT-5.5**| **GPT-5.4**| **GPT-5.5 Pro**| **GPT-5.4 Pro**| **Claude Opus 4.7**| **Gemini 3.1 Pro**  
+| **GPT‑5.5**| **GPT‑5.4 **| **GPT‑5.5 Pro**| **GPT‑5.4 Pro**| **Claude Opus 4.7**| **Gemini 3.1 Pro**  
 ---|---|---|---|---|---|---  
 Terminal-Bench 2.0| **82.7%**|  75.1%| -| -| 69.4%| 68.5%  
 Expert-SWE (Internal)| **73.1%**|  68.5%| -| -| -| -  
@@ -256,7 +256,7 @@ While GPT‑5.5 is priced higher than GPT‑5.4, it is both more intelligent and
 
 ##### Coding
 
-**Eval**| **GPT-5.5**| **GPT‑5.4**| **GPT-5.5 Pro**| **GPT‑5.4 Pro**| **Claude Opus 4.7**| **Gemini 3.1 Pro**  
+**Eval**| **GPT‑5.5**| **GPT‑5.4**| **GPT‑5.5 Pro**| **GPT‑5.4 Pro**| **Claude Opus 4.7**| **Gemini 3.1 Pro**  
 ---|---|---|---|---|---|---  
 SWE-Bench Pro (Public) *| 58.6%| 57.7%| -| -| 64.3%| 54.2%  
 Terminal-Bench 2.0| 82.7%| 75.1%| -| -| 69.4%| 68.5%  
@@ -266,7 +266,7 @@ Expert-SWE (Internal)| 73.1%| 68.5%| -| -| -| -
 
 ##### Professional
 
-**Eval**| **GPT-5.5**| **GPT‑5.4**| **GPT-5.5 Pro**| **GPT‑5.4 Pro**| **Claude****Opus 4.7**| **Gemini 3.1 Pro**  
+**Eval**| **GPT‑5.5**| **GPT‑5.4**| **GPT‑5.5 Pro**| **GPT‑5.4 Pro**| **Claude****Opus 4.7**| **Gemini 3.1 Pro**  
 ---|---|---|---|---|---|---  
 GDPval (wins or ties)| 84.9%| 83.0%| 82.3%| 82.0%| 80.3%| 67.3%  
 FinanceAgent v1.1| 60.0%| 56.0%| -| 61.5%| 64.4%| 59.7%  
@@ -275,7 +275,7 @@ OfficeQA Pro| 54.1%| 53.2%| -| -| 43.6%| 18.1%
   
 ##### Computer use and vision
 
-**Eval**| **GPT-5.5**| **GPT‑5.4**| **GPT-5.5 Pro**| **GPT‑5.4 Pro**| **Claude****Opus 4.7**| **Gemini 3.1 Pro**  
+**Eval**| **GPT‑5.5**| **GPT‑5.4**| **GPT‑5.5 Pro**| **GPT‑5.4 Pro**| **Claude****Opus 4.7**| **Gemini 3.1 Pro**  
 ---|---|---|---|---|---|---  
 OSWorld-Verified| 78.7%| 75.0%| -| -| 78.0%| -  
 MMMU Pro (no tools)| 81.2%| 81.2%| -| -| -| 80.5%  
@@ -283,7 +283,7 @@ MMMU Pro (with tools)| 83.2%| 82.1%| -| -| -| -
   
 ##### Tool use
 
-**Eval**| **GPT-5.5**| **GPT‑5.4**| **GPT-5.5 Pro**| **GPT‑5.4 Pro**| **Claude****Opus 4.7**| **Gemini 3.1 Pro**  
+**Eval**| **GPT‑5.5**| **GPT‑5.4**| **GPT‑5.5 Pro**| **GPT‑5.4 Pro**| **Claude****Opus 4.7**| **Gemini 3.1 Pro**  
 ---|---|---|---|---|---|---  
 BrowseComp| 84.4%| 82.7%| 90.1%| 89.3%| 79.3%| 85.9%  
 MCP Atlas**| 75.3%| 70.6%| -| -| 79.1%| 78.2%  
@@ -296,7 +296,7 @@ Tau2-bench Telecom***
 
 ##### Academic
 
-**Eval**| **GPT-5.5**| **GPT‑5.4**| **GPT-5.5 Pro**| **GPT‑5.4 Pro**| **Claude****Opus 4.7**| **Gemini 3.1 Pro**  
+**Eval**| **GPT‑5.5**| **GPT‑5.4**| **GPT‑5.5 Pro**| **GPT‑5.4 Pro**| **Claude****Opus 4.7**| **Gemini 3.1 Pro**  
 ---|---|---|---|---|---|---  
 GeneBench| 25.0%| 19.0%| 33.2%| 25.6%| -| -  
 FrontierMath Tier 1–3| 51.7%| 47.6%| 52.4%| 50.0%| 43.8%| 36.9%  
@@ -308,7 +308,7 @@ Humanity's Last Exam (with tools)| 52.2%| 52.1%| 57.2%| 58.7%| 54.7%| 51.4%
   
 ##### Cybersecurity
 
-**Eval**| **GPT-5.5**| **GPT‑5.4**| **GPT-5.5 Pro**| **GPT‑5.4 Pro**| **Claude****Opus 4.7**| **Gemini 3.1 Pro**  
+**Eval**| **GPT‑5.5**| **GPT‑5.4**| **GPT‑5.5 Pro**| **GPT‑5.4 Pro**| **Claude****Opus 4.7**| **Gemini 3.1 Pro**  
 ---|---|---|---|---|---|---  
 Capture-the-Flags challenge tasks (Internal)****| 88.1%| 83.7%| -| -| -| -  
 CyberGym| 81.8%| 79.0%| -| -| 73.1%| -  
@@ -317,7 +317,7 @@ CyberGym| 81.8%| 79.0%| -| -| 73.1%| -
 
 ##### Long context
 
-**Eval**| **GPT-5.5**| **GPT‑5.4**| **GPT-5.5 Pro**| **GPT‑5.4 Pro**| **Claude****Opus 4.7**| **Gemini 3.1 Pro**  
+**Eval**| **GPT‑5.5**| **GPT‑5.4**| **GPT‑5.5 Pro**| **GPT‑5.4 Pro**| **Claude****Opus 4.7**| **Gemini 3.1 Pro**  
 ---|---|---|---|---|---|---  
 Graphwalks BFS 256k f1| 73.7%| 62.5%| -| -| 76.9%| -  
 Graphwalks BFS 1mil f1| 45.4%| 9.4%| -| -| 41.2% (Opus 4.6)| -  
@@ -334,7 +334,7 @@ OpenAI MRCR v2 8-needle 512K-1M| 74.0%| 36.6%| -| -| 32.2%| -
   
 ##### Abstract reasoning
 
-**Eval**| **GPT-5.5**| **GPT‑5.4**| **GPT-5.5 Pro**| **GPT‑5.4 Pro**| **Claude Opus 4.7**| **Gemini 3.1 Pro**  
+**Eval**| **GPT‑5.5**| **GPT‑5.4**| **GPT‑5.5 Pro**| **GPT‑5.4 Pro**| **Claude Opus 4.7**| **Gemini 3.1 Pro**  
 ---|---|---|---|---|---|---  
 ARC-AGI-1 (Verified)| 95.0%| 93.7%| -| 94.5%| 93.5%| 98.0%  
 ARC-AGI-2 (Verified)| 85.0%| 73.3%| -| 83.3%| 75.8%| 77.1%  

@@ -47,8 +47,6 @@ By Celia Chen, Member of the Technical Staff
 
 Loading…
 
-Share
-
 OpenAI’s coding agent Codex exists across many different surfaces: [the web app⁠(opens in a new window)](<https://chatgpt.com/codex>), [the CLI⁠(opens in a new window)](<https://github.com/openai/codex>), [the IDE extension⁠(opens in a new window)](<https://developers.openai.com/codex/ide/>), and [the new Codex macOS app](</index/introducing-the-codex-app/>). Under the hood, they’re all powered by the same Codex harness—the agent loop and logic that underlies all Codex experiences. The critical link between them? The [Codex App Server⁠(opens in a new window)](<https://developers.openai.com/codex/app-server>), a client-friendly, bidirectional JSON-RPC1 API.
 
 In this post, we’ll introduce the Codex App Server; we’ll share our learnings so far on the best ways to bring Codex’s capabilities into your product to help your users supercharge their workflows. We’ll cover the App Server’s architecture and protocol and how it integrates with different Codex surfaces, as well as tips on leveraging Codex, whether you want to turn Codex into a code reviewer, an SRE agent, or a coding assistant.
@@ -340,6 +338,10 @@ We use a “JSON‑RPC lite” variant: it keeps the request/response/notificati
 
 [View all](</news/>)
 
+![codex windows > art card](https://images.ctfassets.net/kftzwdyauwt9/6ZvTl8ZL23BOhoI6jz0EmR/49d6038b9f92773d4f866f4bfacabdbf/Art_Card__5_.png?w=3840&q=90&fm=webp)
+
+[Building a safe, effective sandbox to enable Codex on WindowsEngineeringMay 13, 2026](</index/building-codex-windows-sandbox/>)
+
 ![MRC 1_1](https://images.ctfassets.net/kftzwdyauwt9/IRqiqOUeNlFne8NPTbELM/9ab024f4581e7065eaf42aa18d14b724/Art_Card.png?w=3840&q=90&fm=webp)
 
 [Supercomputer networking to accelerate large scale AI trainingEngineeringMay 5, 2026](</index/mrc-supercomputer-networking/>)
@@ -347,10 +349,6 @@ We use a “JSON‑RPC lite” variant: it keeps the request/response/notificati
 ![How OpenAI delivers low-latency voice AI at scale > art card](https://images.ctfassets.net/kftzwdyauwt9/3ZT7WZXrDjX1tFlLjcTPXp/07d42ee6cc762208896f09c385853359/Voice_AI__art_card.png?w=3840&q=90&fm=webp)
 
 [How OpenAI delivers low-latency voice AI at scaleEngineeringMay 4, 2026](</index/delivering-low-latency-voice-ai-at-scale/>)
-
-![An open-source spec for orchestration: Symphony > art card](https://images.ctfassets.net/kftzwdyauwt9/4p40cWGcpyi6xRY3U4advn/d977f47ed621f80de31c931b0b8223f0/Symphony_art_card__1_.png?w=3840&q=90&fm=webp)
-
-[An open-source spec for orchestration: SymphonyEngineeringApr 27, 2026](</index/open-source-codex-orchestration-symphony/>)
 
 Our Research
 

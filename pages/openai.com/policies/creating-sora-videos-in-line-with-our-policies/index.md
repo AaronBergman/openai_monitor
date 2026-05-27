@@ -7,7 +7,7 @@
 
 # What to know about the Sora discontinuation
 
-Updated: 4 days ago
+Updated: 5 days ago
 
 ## When will Sora be discontinued?
 

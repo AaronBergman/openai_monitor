@@ -56,10 +56,10 @@ Already, the average ChatGPT Enterprise user [says⁠](<https://openai.com/index
 GPT‑5.2 sets a new state of the art across many benchmarks, including GDPval, where it outperforms industry professionals at well-specified knowledge work tasks spanning 44 occupations.
 
   
-| **GPT-5.2 Thinking**| **GPT-5.1 Thinking**  
+| **GPT‑5.2 Thinking **| **GPT‑5.1 Thinking**  
 ---|---|---  
 **GDPval (wins or ties)  
-** Knowledge work tasks| 70.9%| 38.8% (GPT-5)  
+** Knowledge work tasks| 70.9%| 38.8% (GPT‑5)  
 **SWE-Bench Pro (public)  
 ** Software engineering| 55.6%| 50.8%  
 **SWE-bench Verified  
@@ -252,10 +252,10 @@ GPT‑5.2 is one step in an ongoing series of improvements, and we’re far from
 #### Mental health evaluations
 
   
-| **GPT-5.2  
-Instant**| **GPT-5.1  
-Instant**| **GPT-5.2  
-Thinking**| **GPT-5.1  
+| **GPT‑5.2  
+Instant**| **GPT‑5.1   
+Instant**| **GPT‑5.2   
+Thinking**| **GPT‑5.1   
 Thinking**  
 ---|---|---|---|---  
 Mental health| 0.995| 0.883| 0.915| 0.684  
@@ -270,9 +270,9 @@ In ChatGPT, we’ll begin rolling out GPT‑5.2 (Instant, Thinking, and Pro) tod
 
 **ChatGPT**| **API**  
 ---|---  
-ChatGPT-5.2 Instant| GPT-5.2-chat-latest  
-ChatGPT-5.2 Thinking| GPT-5.2  
-ChatGPT-5.2 Pro| GPT-5.2 Pro  
+ChatGPT‑5.2 Instant| GPT‑5.2‑chat‑latest  
+ChatGPT‑5.2 Thinking| GPT‑5.2  
+ChatGPT‑5.2 Pro| GPT‑5.2 Pro  
   
 In our API Platform, GPT‑5.2 Thinking is available today in the Responses API and Chat Completions API as `gpt-5.2`, and GPT‑5.2 Instant as `gpt-5.2-chat-latest`. GPT‑5.2 Pro is available in the Responses API as `gpt-5.2-pro`. Developers can now set the reasoning parameter in GPT‑5.2 Pro, and both GPT‑5.2 Pro and GPT‑5.2 Thinking now support the new fifth reasoning effort of xhigh, for tasks where quality is most important.
 

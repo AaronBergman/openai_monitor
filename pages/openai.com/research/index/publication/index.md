@@ -82,17 +82,17 @@ Mar 10, 2026
 
 [Improving instruction hierarchy in frontier LLMsIH-Challenge trains models to prioritize trusted instructions, improving instruction hierarchy, safety steerability, and resistance to prompt injection attacks.](</index/instruction-hierarchy-challenge/>)
 
-Research
-
-Mar 5, 2026
-
-[Reasoning models struggle to control their chains of thought, and that’s goodOpenAI introduces CoT-Control and finds reasoning models struggle to control their chains of thought, reinforcing monitorability as an AI safety safeguard.](</index/reasoning-models-chain-of-thought-controllability/>)
-
 Publication
 
 Mar 5, 2026
 
 [GPT-5.4 Thinking System Card](</index/gpt-5-4-thinking-system-card/>)
+
+Research
+
+Mar 5, 2026
+
+[Reasoning models struggle to control their chains of thought, and that’s goodOpenAI introduces CoT-Control and finds reasoning models struggle to control their chains of thought, reinforcing monitorability as an AI safety safeguard.](</index/reasoning-models-chain-of-thought-controllability/>)
 
 Research
 

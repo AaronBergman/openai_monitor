@@ -144,6 +144,7 @@ responses createreasoning_effortrealtimeprompt caching
   * [ Working with evals ](</api/docs/guides/evals>)
   * [ Prompt optimizer ](</api/docs/guides/prompt-optimizer>)
   * [ External models ](</api/docs/guides/external-models>)
+  * [ Red teaming ](</api/docs/guides/red-teaming>)
   * [ Best practices ](</api/docs/guides/evaluation-best-practices>)
 
 
@@ -198,6 +199,13 @@ responses createreasoning_effortrealtimeprompt caching
 ###  Going live 
 
   * [ Production best practices ](</api/docs/guides/production-best-practices>)
+  * [ Workload identity federation ](</api/docs/guides/workload-identity-federation>)
+    * [ Overview ](</api/docs/guides/workload-identity-federation>)
+    * [ Kubernetes ](</api/docs/guides/workload-identity-federation/kubernetes>)
+    * [ AWS ](</api/docs/guides/workload-identity-federation/aws>)
+    * [ Microsoft Azure ](</api/docs/guides/workload-identity-federation/microsoft-azure>)
+    * [ Google Cloud ](</api/docs/guides/workload-identity-federation/google-cloud>)
+    * [ GitHub Actions ](</api/docs/guides/workload-identity-federation/github-actions>)
   * [ Deployment checklist ](</api/docs/guides/deployment-checklist>)
   * Latency optimization
     * [ Overview ](</api/docs/guides/latency-optimization>)
@@ -729,6 +737,7 @@ Showcase  Blog  Cookbook  Learn  Community
   * [ Working with evals  ](</api/docs/guides/evals>)
   * [ Prompt optimizer  ](</api/docs/guides/prompt-optimizer>)
   * [ External models  ](</api/docs/guides/external-models>)
+  * [ Red teaming  ](</api/docs/guides/red-teaming>)
   * [ Best practices  ](</api/docs/guides/evaluation-best-practices>)
 
 
@@ -783,6 +792,13 @@ Showcase  Blog  Cookbook  Learn  Community
 ### Going live
 
   * [ Production best practices  ](</api/docs/guides/production-best-practices>)
+  * [ Workload identity federation  ](</api/docs/guides/workload-identity-federation>)
+    * [ Overview  ](</api/docs/guides/workload-identity-federation>)
+    * [ Kubernetes  ](</api/docs/guides/workload-identity-federation/kubernetes>)
+    * [ AWS  ](</api/docs/guides/workload-identity-federation/aws>)
+    * [ Microsoft Azure  ](</api/docs/guides/workload-identity-federation/microsoft-azure>)
+    * [ Google Cloud  ](</api/docs/guides/workload-identity-federation/google-cloud>)
+    * [ GitHub Actions  ](</api/docs/guides/workload-identity-federation/github-actions>)
   * [ Deployment checklist  ](</api/docs/guides/deployment-checklist>)
   * Latency optimization
     * [ Overview  ](</api/docs/guides/latency-optimization>)

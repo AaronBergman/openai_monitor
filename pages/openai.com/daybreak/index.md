@@ -81,9 +81,9 @@ Contact the OpenAI team to align on the best model for your security workflows.
 
 **Access**| **What changes**| **Intended use cases**  
 ---|---|---  
-GPT-5.5 (default)| Standard safeguards for general-purpose use| General-purpose, developer, and knowledge work  
-GPT-5.5 with Trusted Access for Cyber| More precise safeguards for verified defensive work in authorized environments| Most defensive security workflows, including secure code review, vulnerability triage, malware analysis, detection engineering, and patch validation  
-GPT-5.5-Cyber| Most permissive behavior for specialized authorized workflows, paired with stronger verification and account-level controls| Preview access for specialized workflows, including authorized red teaming, penetration testing, and controlled validation  
+GPT‑5.5 (default)| Standard safeguards for general-purpose use| General-purpose, developer, and knowledge work  
+GPT‑5.5 with Trusted Access for Cyber| More precise safeguards for verified defensive work in authorized environments| Most defensive security workflows, including secure code review, vulnerability triage, malware analysis, detection engineering, and patch validation  
+GPT‑5.5‑Cyber| Most permissive behavior for specialized authorized workflows, paired with stronger verification and account-level controls| Preview access for specialized workflows, including authorized red teaming, penetration testing, and controlled validation  
   
 ## Trusted by leading security organizations
 

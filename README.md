@@ -1,6 +1,32 @@
 # openai_monitor
 
+## 2026-05-27 — ChatGPT Ads Expand Into Financial Services, Healthcare & Legal
 
+**Fetch time:** 2026-05-27T09:17:36Z UTC | **Baseline:** 2026-05-26T09-16Z
+
+**TL;DR:** The headline change today is a **significant expansion of OpenAI's ChatGPT advertising policy**: financial services, healthcare & medicine, and legal services advertisers can now be manually approved to run ads in ChatGPT — categories that were previously explicitly listed as prohibited. This is a notable move that opens ChatGPT's ad business to regulated professional verticals. Beyond that, a large CMS sweep (206 URLs, two waves: May 26 overnight + May 27 morning) refreshed "Keep Reading" / related-content sidebars across research pages, customer stories, and product pages to surface newer articles (Gartner MQ recognition, Virgin Atlantic/Codex story, Grupo Folha/UOL partnership). No new pages were added. The DeployCo sitemap anomaly continues for an 8th day.
+
+### Substantive Content Changes
+
+- [**Ad Policies**](pages/openai.com/policies/ad-policies/index.md) — **Policy expanded.** The ad content policy now states: *"We may approve ads from approved advertisers within the financial services, healthcare & medicine, and legal services categories. These categories are being rolled out gradually with approvals being reviewed manually on a case-by-case basis."* Previously, these three verticals were explicitly listed as disallowed at launch. This is a selective carve-out (manual approval only), suggesting OpenAI is quietly scaling ChatGPT's ad program into regulated industries. The page's "Updated" date changed from May 22 to May 26. (lastmod `2026-05-01` → `2026-05-27T09:15Z`)
+
+### Routine Updates (CMS/Carousel Refreshes — No Core Content Changes)
+
+**May 27 wave (~157 pages):** A broad CMS deploy updated "Keep Reading" sidebars to rotate in newer content. Removed from sidebars: Malta partnership (May 16), OpenAI Deployment Company launch (May 11), "Ramp code review with Codex" (May 20), "What Parameter Golf taught us" (May 12). Added to sidebars: Grupo Folha/UOL Brazil media partnership (May 25), Virgin Atlantic + Codex story (May 22), Gartner MQ Leader recognition (May 22), Dell Technologies + Codex partnership (May 18). Affects all news category index pages, research pages, customer story pages (Cisco, AdventHealth, BNY, Choco, Ramp, Healthify, Lifespan, Philips, Whoop, Oscar, Paradigm, Summer Health, Waymark, GenMab, Color Health, and ~140 more).
+
+**May 26 wave (~49 pages):** Overnight batch — customer stories (BNY, Cisco, Uber), business pages. No content change, CMS metadata only.
+
+### Continuing Anomaly: DeployCo Pages Not Live (Day 8)
+
+`https://openai.com/deployco/` (lastmod `2026-05-27T08:02Z`) and `https://openai.com/deployco/privacy-policy/` remain in the sitemap with fresh timestamps but return HTTP errors when fetched — not yet live. Eight consecutive days in the sitemap. The freshly updated timestamps suggest active publishing activity behind the scenes.
+
+### Removed Pages
+
+The Plugin Terms policy (`https://openai.com/policies/plugin-terms/`) was already removed as of the May 26 run; it continues to appear as "removed" due to stale baseline files from May 23. Actual removal occurred between May 23 and May 26.
+
+**Stats:** 1,324 total URLs | +0 added | ~206 lastmod-changed (1 with substantive content) | -1 removed | 0 anomalies | 2 fetch failures (both DeployCo) | 32 sub-sitemaps
+
+---
 
 ## 2026-05-26 — Brazil Media Partnership Announced; Plugin Terms Removed; Priority API Pricing Expanded
 

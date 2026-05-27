@@ -62,7 +62,7 @@ In Codex and the API, GPT‑5.4 is the first general-purpose model we’ve relea
 Together with advances in general reasoning, coding, and professional knowledge work, GPT‑5.4 enables more reliable agents, faster developer workflows, and higher-quality outputs across ChatGPT, the API, and Codex.
 
   
-| **GPT-5.4**| **GPT-5.3-Codex**| **GPT-5.2**  
+| **GPT‑5.4 **| **GPT‑5.3‑Codex**| **GPT‑5.2**  
 ---|---|---|---  
 GDPval (wins or ties)| 83.0%| 70.9%| 70.9%  
 SWE-Bench Pro (Public)| 57.7%| 56.8%| 55.6%  
@@ -325,7 +325,7 @@ ARC-AGI-2 (Verified)| 73.3%| 83.3%| —| 52.9%| 54.2% (high)
 
 **Eval**| **GPT‑5.4  
 (none)**| **GPT‑5.2  
-(none)**| **GPT-4.1**  
+(none)**| **GPT‑4.1**  
 ---|---|---|---  
 OmniDocBench (normalized edit distance)| 0.109| 0.140| —  
 Tau2-bench Telecom| 64.3%| 57.2%| 43.6%  
