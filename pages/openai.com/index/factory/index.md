@@ -75,10 +75,10 @@ Factory has integrated OpenAI's models strategically across different stages of 
 
 **Development stage**| **Key tasks**| **OpenAI models**| **Why this model**  
 ---|---|---|---  
-**Exploration**|  Understanding codebases, searching documentation| OpenAI o3-mini| Fast responses (10x quicker than larger models) with sufficient reasoning for contextual code understanding  
-**Prioritization**|  Bug triage, feature analysis| OpenAI o3-mini| Balance of reasoning capability and speed for evaluating complex dependencies  
+**Exploration**|  Understanding codebases, searching documentation| OpenAI o3‑mini| Fast responses (10x quicker than larger models) with sufficient reasoning for contextual code understanding  
+**Prioritization**|  Bug triage, feature analysis| OpenAI o3‑mini| Balance of reasoning capability and speed for evaluating complex dependencies  
 **Planning**|  Architecture decisions, system design| OpenAI o1| High reasoning capabilities for complex architectural decisions and system-level planning  
-**Execution**|  Code generation, editing, reviews| OpenAI o1OpenAI o3-miniGPT-4o| Using predicted outputs reduces latency by 50% for real-time coding assistance  
+**Execution**|  Code generation, editing, reviews| OpenAI o1OpenAI o3‑miniGPT‑4o| Using predicted outputs reduces latency by 50% for real-time coding assistance  
   
 “We've found that giving developers flexibility to choose the right model for their specific task is crucial,” says Reyes. “For quick code reviews, o3‑mini provides almost identical quality to larger models but at significantly faster speeds, while complex architectural planning benefits from o1's deeper reasoning capabilities.”
 

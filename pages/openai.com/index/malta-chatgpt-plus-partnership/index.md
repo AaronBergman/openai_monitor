@@ -54,6 +54,10 @@ The partnership, tailored to Malta’s needs and national AI priorities, is the 
 
 [View all](</news/>)
 
+![Grup-ArtCard](https://images.ctfassets.net/kftzwdyauwt9/6EEi4oJJ36NPbiw2Mkm1xZ/ee9da167bf08278df2759445f6bea88a/Grup-ArtCard.png?w=3840&q=90&fm=webp)
+
+[OpenAI, Grupo Folha, and Grupo UOL announce strategic content partnershipGlobal AffairsMay 25, 2026](</index/grupo-folha-grupo-uol-partnership/>)
+
 ![Next phase of OpenAI for countries > art card](https://images.ctfassets.net/kftzwdyauwt9/D3j1QLEUWCW6QvlwihC2v/2e1f92d8dd5d4aa1b656849aba4531f8/Art_Card2.png?w=3840&q=90&fm=webp)
 
 [The next phase of OpenAI’s Education for CountriesGlobal AffairsMay 20, 2026](</index/the-next-phase-of-education-for-countries/>)
@@ -61,10 +65,6 @@ The partnership, tailored to Malta’s needs and national AI priorities, is the 
 ![Frame](https://images.ctfassets.net/kftzwdyauwt9/5JFad06WGFRNSvmwt2IEYt/fc85c02c580da98144575675105dc647/release-cover-frame.png?w=3840&q=90&fm=webp)
 
 [Introducing OpenAI for SingaporeGlobal AffairsMay 19, 2026](</index/introducing-openai-for-singapore/>)
-
-![CA Privacy > card img](https://images.ctfassets.net/kftzwdyauwt9/3lWXxBR8sZQiOsh6oNJHf9/f7d47996c9f425621016ea27f3b8ad4e/how-chatgpt-protects-privacy-1_1.png?w=3840&q=90&fm=webp)
-
-[How ChatGPT learns about the world while protecting privacy Global AffairsMay 6, 2026](</index/how-chatgpt-protects-privacy/>)
 
 Our Research
 

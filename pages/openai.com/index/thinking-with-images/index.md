@@ -44,8 +44,6 @@ April 16, 2025
 
 Loading…
 
-Share
-
 [ _OpenAI o3 and o4-mini_](</index/introducing-o3-and-o4-mini/>) are the latest visual reasoning models in our o-series. For the first time, our models can think with images in their chain-of-thought—not just see them.
 
 Similar to our earlier OpenAI o1 model, o3 and o4-mini are trained to think for longer before answering—and use a long internal chain of thought before responding to the user. o3 and o4-mini further extend this capability by thinking with images in their chain-of-thought, which is achieved by transforming user uploaded images with tools, allowing them to crop, zoom in, and rotate, in addition to other simple image processing techniques. More importantly, these capabilities come natively, without relying on separate specialized models.

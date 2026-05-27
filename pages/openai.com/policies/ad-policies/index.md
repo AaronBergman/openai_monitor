@@ -30,7 +30,7 @@ Select language
 
 …
 
-Updated: May 22, 2026
+Updated: May 26, 2026
 
 # Ad policies
 
@@ -80,7 +80,7 @@ No ads on conversations associated with inappropriate categories, including harm
   
 ## 2\. Ad content policy
 
-Our ad content policies define the categories of advertising currently supported on ChatGPT. During the initial test period, ads are primarily limited to consumer verticals such as lifestyle and household goods, local services, travel and experiences, and digital products or education. These categories may expand over time.
+Our ad content policies define the categories of advertising currently supported on ChatGPT. During the initial test period, ads are primarily limited to consumer verticals such as lifestyle and household goods, local services, travel and experiences, and digital products or education. These categories may expand over time. We may approve ads from approved advertisers within the financial services, healthcare & medicine, and legal services categories. These categories are being rolled out gradually with approvals being reviewed manually on a case-by-base basis.
 
 All other categories are disallowed at launch, including ads that violate OpenAI’s usage policies and those related to sensitive or regulated areas such as dating or sexual content, health claims, alcohol and drugs, healthcare, financial or legal services, gambling, and political content. This list may evolve as the program develops.
 

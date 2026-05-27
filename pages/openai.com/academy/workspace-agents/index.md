@@ -49,8 +49,6 @@ Understand, build, and use agents for repeatable work in ChatGPT.
 
 Loading…
 
-Share
-
 Most ChatGPT users already know how to use AI for one-off tasks—like drafting, summarizing, brainstorming, or answering questions. The next phase of AI use is broader and more embedded in day-to-day work. Instead of helping with isolated moments, AI is increasingly being used to support repeatable workflows that depend on shared systems, standard handoffs, consistent outputs, and real-world constraints like timing, accuracy, and process.
 
 That’s where **workspace agents** in ChatGPT fit. They’re designed to be used for repeatable workflows—work you’d otherwise do manually, re-explaining the steps each time, and copying information between tools. Learn more about workspace agents in our [blog post](</index/introducing-workspace-agents-in-chatgpt/>).

@@ -176,9 +176,9 @@ Overall, we expect continued improvements to ChatGPT agent’s efficiency, depth
 **SpreadsheetBench**| | | |   
 ---|---|---|---|---  
 **Model**| **Evaluation environment**| **Soft restriction (%): Cell-level**| **Soft restriction (%): Sheet-level**| **Soft restriction (%): Overall**  
-GPT-4o| Windows, Excel| 15.03| 23.65| 18.35  
+GPT‑4o| Windows, Excel| 15.03| 23.65| 18.35  
 Copilot in Excel| Windows, Excel| 23.33| 15.00| 20.00  
-GPT-4o| OSX, LibreOffice| 15.86| 18.33| 16.81  
+GPT‑4o| OSX, LibreOffice| 15.86| 18.33| 16.81  
 OpenAI o3| OSX, LibreOffice| 22.40| 24.60| 23.25  
 ChatGPT agent| OSX, LibreOffice| 38.27| 30.48| **35.27**  
 ChatGPT agent with .xlsx| OSX, LibreOffice| 50.56| 37.51| **45.54**  

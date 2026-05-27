@@ -183,7 +183,7 @@ Below, we provide GPT‑4.5’s results on standard academic benchmarks to illus
 
 #### Model evaluation scores
 
-| **GPT-4.5**| **GPT-4o**| **OpenAI o3-mini (high)**  
+| **GPT‑4.5**| **GPT‑4o**| **OpenAI o3‑mini (high)**  
 ---|---|---|---  
 GPQA (science)| 71.4%| 53.6%| 79.7%  
 AIME ‘24 (math)| 36.7%| 9.3%| 87.3%  

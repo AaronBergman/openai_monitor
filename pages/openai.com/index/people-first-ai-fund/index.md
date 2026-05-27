@@ -105,17 +105,17 @@ OpenAI
 
 [View all](</news/>)
 
-![malta partnership > art card](https://images.ctfassets.net/kftzwdyauwt9/640ky2MygwV3jpGjE153fQ/a98bc57773bf3518328afb5f5ffafaad/Art_Card__6_.png?w=3840&q=90&fm=webp)
+![Grup-ArtCard](https://images.ctfassets.net/kftzwdyauwt9/6EEi4oJJ36NPbiw2Mkm1xZ/ee9da167bf08278df2759445f6bea88a/Grup-ArtCard.png?w=3840&q=90&fm=webp)
 
-[OpenAI and Malta partner to bring ChatGPT Plus to all citizensGlobal AffairsMay 16, 2026](</index/malta-chatgpt-plus-partnership/>)
+[OpenAI, Grupo Folha, and Grupo UOL announce strategic content partnershipGlobal AffairsMay 25, 2026](</index/grupo-folha-grupo-uol-partnership/>)
 
-![Frame](https://images.ctfassets.net/kftzwdyauwt9/32jPyVqUObkTrIIyA6tJV1/4eb384b5bb2f21ccea5de7665858a37a/Frame.png?w=3840&q=90&fm=webp)
+![Next phase of OpenAI for countries > art card](https://images.ctfassets.net/kftzwdyauwt9/D3j1QLEUWCW6QvlwihC2v/2e1f92d8dd5d4aa1b656849aba4531f8/Art_Card2.png?w=3840&q=90&fm=webp)
 
-[Our response to the TanStack npm supply chain attackCompanyMay 13, 2026](</index/our-response-to-the-tanstack-npm-supply-chain-attack/>)
+[The next phase of OpenAI’s Education for CountriesGlobal AffairsMay 20, 2026](</index/the-next-phase-of-education-for-countries/>)
 
-![OpenAI Campus Network—Student Club Interest Form > card image](https://images.ctfassets.net/kftzwdyauwt9/3gVx8jMHtHwuFpYS10BWBF/b70c85eada669bdabf956c591dfe8bbf/OpenAI_Campus_Networkâ__Student_Club_Interest_Form_-_art_card.png?w=3840&q=90&fm=webp)
+![Frame](https://images.ctfassets.net/kftzwdyauwt9/5JFad06WGFRNSvmwt2IEYt/fc85c02c580da98144575675105dc647/release-cover-frame.png?w=3840&q=90&fm=webp)
 
-[OpenAI Campus Network: Student club interest formCompanyMay 11, 2026](</index/openai-campus-network-student-club-interest-form/>)
+[Introducing OpenAI for SingaporeGlobal AffairsMay 19, 2026](</index/introducing-openai-for-singapore/>)
 
 Our Research
 

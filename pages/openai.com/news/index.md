@@ -50,6 +50,22 @@ Switch cards to show Media
 
 Switch cards to hide Media
 
+![Gartner MQ > Art Card](https://images.ctfassets.net/kftzwdyauwt9/6GUkmRON5hyvikNSF3IEmH/78ea7491689ec5d07cd6a6c2ad6f0254/Gartner-MQ-ArtCard.png?w=3840&q=90&fm=webp)
+
+[OpenAI named a Leader in enterprise coding agents by GartnerAI AdoptionMay 22, 2026](</index/gartner-2026-agentic-coding-leader/>)
+
+![Geometry > ArtCard > Polynomial Construction](https://images.ctfassets.net/kftzwdyauwt9/6PqehRMmS1oVuin6e3VWYq/b96f1c7b5a2ac2c08a887591b8486ed3/ArtCard-Polynomial-Construction.png?w=3840&q=90&fm=webp)
+
+[An OpenAI model has disproved a central conjecture in discrete geometryResearchMay 20, 2026](</index/model-disproves-discrete-geometry-conjecture/>)
+
+![Art card \(4\)](https://images.ctfassets.net/kftzwdyauwt9/26wgJNYWk0soRoyZvBmYmo/dc80fc33c0a60bd566816f2323f31dc2/Art_card__4_.png?w=3840&q=90&fm=webp)
+
+[Advancing content provenance for a safer, more transparent AI ecosystemSafetyMay 19, 2026](</index/advancing-content-provenance/>)
+
+![dell](https://images.ctfassets.net/kftzwdyauwt9/17U8SngLERoATdFhOjWbDK/da377e6850f8241ea7814a347bad0a3a/Frame.png?w=3840&q=90&fm=webp)
+
+[OpenAI and Dell Technologies partner to bring Codex to hybrid and on-premises enterprise environmentsCompanyMay 18, 2026](</index/dell-codex-enterprise-partnership/>)
+
 ![Personal finance in ChatGPT > Media > Cover](https://images.ctfassets.net/kftzwdyauwt9/4zSr4YNWXIEYz20piN2bxf/6f9a561be6055802914aee0a3bb671d7/ArtCard-Personal-Finance.png?w=3840&q=90&fm=webp)
 
 [A new personal finance experience in ChatGPTProductMay 15, 2026](</index/personal-finance-chatgpt/>)
@@ -69,22 +85,6 @@ Switch cards to hide Media
 ![Frame](https://images.ctfassets.net/kftzwdyauwt9/32jPyVqUObkTrIIyA6tJV1/4eb384b5bb2f21ccea5de7665858a37a/Frame.png?w=3840&q=90&fm=webp)
 
 [Our response to the TanStack npm supply chain attackCompanyMay 13, 2026](</index/our-response-to-the-tanstack-npm-supply-chain-attack/>)
-
-![1 1](https://images.ctfassets.net/kftzwdyauwt9/6eaq9qftNBJJjryJnZGVRj/991b778132f449626fb9c768001f9009/1_1.png?w=3840&q=90&fm=webp)
-
-[What Parameter Golf taught usResearchMay 12, 2026](</index/what-parameter-golf-taught-us/>)
-
-![OpenAI Campus Network—Student Club Interest Form > card image](https://images.ctfassets.net/kftzwdyauwt9/3gVx8jMHtHwuFpYS10BWBF/b70c85eada669bdabf956c591dfe8bbf/OpenAI_Campus_Networkâ__Student_Club_Interest_Form_-_art_card.png?w=3840&q=90&fm=webp)
-
-[OpenAI Campus Network: Student club interest formCompanyMay 11, 2026](</index/openai-campus-network-student-club-interest-form/>)
-
-![Frame \(5\)](https://images.ctfassets.net/kftzwdyauwt9/7KSkm3PHZ9SkIuuLVSqYvW/7944afb1603557d260415b456aea2779/Frame__5_.png?w=3840&q=90&fm=webp)
-
-[OpenAI launches the OpenAI Deployment Company to help businesses build around intelligenceCompanyMay 11, 2026](</index/openai-launches-the-deployment-company/>)
-
-![Running Codex safely at OpenAI > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/76rTHgn2J3y6srtNd3ZrRs/71fc86af978baecda10b212fdb5d3609/Frame.png?w=3840&q=90&fm=webp)
-
-[Running Codex safely at OpenAISecurityMay 8, 2026](</index/running-codex-safely/>)
 
 Load more
 

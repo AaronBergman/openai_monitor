@@ -52,8 +52,6 @@ August 8, 2024
 
 Loading…
 
-Share
-
 ## GPT-4o Scorecard
 
 Key Areas of Risk Evaluation & Mitigation
@@ -201,9 +199,9 @@ For observed safety challenges outlined below, we provide a description of the r
 **Risk**| **Mitigations**  
 ---|---  
 Unauthorized voice generation| In all of our post-training audio data, we supervise ideal completions using the voice sample in the system message as the base voice.We only allow the model to use certain pre-selected voices and use an output classifier to detect if the model deviates from that.  
-Speaker identification| We post-trained GPT-4o to refuse to comply with requests to identify someone based on a voice in an audio input, while still complying with requests to identify people associated with famous quotes.  
-Generating copyrighted content| We trained GPT-4o to refuse requests for copyrighted content, including audio, consistent with our broader practices.To account for GPT-4o’s audio modality, we also updated certain text-based filters to work on audio conversations, built filters to detect and block outputs containing music, and for our limited alpha of ChatGPT’s Advanced Voice Mode, instructed the model to not sing at all.  
-Ungrounded inference / Sensitive trait attribution| We post-trained GPT-4o to refuse requests for ungrounded inference, such as “how intelligent is this speaker?”.We post-trained GPT-4o to safely comply with requests for sensitive trait attribution by hedging answers, such as “what is this speaker’s accent” → “Based on the audio, they sound like they have a British accent.”  
+Speaker identification| We post-trained GPT‑4o to refuse to comply with requests to identify someone based on a voice in an audio input, while still complying with requests to identify people associated with famous quotes.  
+Generating copyrighted content| We trained GPT‑4o to refuse requests for copyrighted content, including audio, consistent with our broader practices.To account for GPT‑4o’s audio modality, we also updated certain text-based filters to work on audio conversations, built filters to detect and block outputs containing music, and for our limited alpha of ChatGPT’s Advanced Voice Mode, instructed the model to not sing at all.  
+Ungrounded inference / Sensitive trait attribution| We post-trained GPT‑4o to refuse requests for ungrounded inference, such as “how intelligent is this speaker?”.We post-trained GPT‑4o to safely comply with requests for sensitive trait attribution by hedging answers, such as “what is this speaker’s accent” → “Based on the audio, they sound like they have a British accent.”  
 Disallowed content in audio output| We run our existing moderation classifier over text transcriptions of audio prompts and generations, and block the output for certain high-severity categories.  
 Erotic and violent speech output| We run our existing moderation classifier over text transcriptions of audio prompts, and block the output if the prompt contains erotic or violent language.  
   
@@ -243,7 +241,7 @@ Our voice output classifier performance over a conversation by languageH:
 
 The former means the model will almost always correctly refuse to identify a speaker based on their voice, mitigating the potential privacy issue. The latter means there may be situations in which the model incorrectly refuses to identify the speaker of a famous quote.
 
-| GPT-4o-early | GPT-4o-deployed   
+| GPT‑4o‑early | GPT‑4o‑deployed  
 ---|---|---  
 should_refuse| 0.83| **0.98******  
 should_comply| 0.70| **0.83******  
@@ -289,7 +287,7 @@ Jailbreak example demonstrating sensitive trait attribution during GPT-4o-early 
 **Evaluation:  
 ** Compared to our initial model, we saw a 24 point improvement in the model correctly responding to requests to identify sensitive traits (i.e., refusing UGI and safely complying with STA).
 
-| GPT-4o-early| GPT-4o-deployed  
+| GPT‑4o‑early| GPT‑4o‑deployed  
 ---|---|---  
 Accuracy| 0.60| **0.84**  
   
@@ -520,7 +518,7 @@ Omni models can potentially widen access to health-related information and impro
 
 To better characterize the clinical knowledge of GPT‑4o, we ran 22 text-based evaluations based on 11 datasets, shown in the table below. All evaluations were run with 0-shot or 5-shot prompting only, without hyperparameter tuning. We observe that GPT‑4o performance improves over the final GPT‑4T model for 21/22 evaluations, often by a substantial margin. For example, for the popular _MedQA USMLE 4 options_ dataset, 0-shot accuracy improves from 78.2% to 89.4%. This exceeds the performance of existing specialized medical models using few-shot prompting43, 42, e.g., 84.0% for Med-Gemini-L 1.0 and 79.7% for Med-PaLM 2. Note that we do not apply sophisticated prompting and task-specific training to improve results on these benchmarks40, 43.
 
-| GPT-4T (May 2024)| GPT-4o  
+| GPT‑4T (May 2024)| GPT‑4o  
 ---|---|---  
 MedQA USMLE 4 Options (0-shot)| 0.78| **0.89**  
 MedQA USMLE 4 Options (5-shot)| 0.81| **0.89**  
@@ -620,27 +618,27 @@ Translated ARC-Easy (%, higher is better), 0-shot
 **Model**| **English (n=523)**| **Amharic (n=518)**| **Hausa (n=475)**| **Northern Sotho (n=520)**| **Swahili (n=520)**| **Yoruba (n=520)**  
 ---|---|---|---|---|---|---  
 GPT 3.5 Turbo| 80.3| 6.1| 26.1| 26.9| 62.1| 27.3  
-GPT-4o mini| 93.9| 42.7| 58.5| 37.4| 76.9| 43.8  
-GPT-4| 89.7| 27.4| 28.8| 30| 83.5| 31.7  
-GPT-4o| **94.8**| **71.4**| **75.4**| **70**| **86.5**| **65.8**  
+GPT‑4o mini| 93.9| 42.7| 58.5| 37.4| 76.9| 43.8  
+GPT‑4| 89.7| 27.4| 28.8| 30| 83.5| 31.7  
+GPT‑4o| **94.8**| **71.4**| **75.4**| **70**| **86.5**| **65.8**  
   
 Translated TruthfulQA (%, higher is better), 0-shot
 
 **Model**| **English (n=809)**| **Amharic (n=808)**| **Hausa (n=808)**| **Northern Sotho (n=809)**| **Swahili (n=808)**| **Yoruba (n=809)**  
 ---|---|---|---|---|---|---  
 GPT 3.5 Turbo| 53.6| 26.1| 29.1| 29.3| 40| 28.3  
-GPT-4o mini| 66.5| 33.9| 42.1| 36.1| 48.4| 35.8  
-GPT-4| 81.3| 42.6| 37.6| 42.9| 62| 41.3  
-GPT-4o| **81.4**| **55.4**| **59.2**| **59.1**| **64.4**| **51.1**  
+GPT‑4o mini| 66.5| 33.9| 42.1| 36.1| 48.4| 35.8  
+GPT‑4| 81.3| 42.6| 37.6| 42.9| 62| 41.3  
+GPT‑4o| **81.4**| **55.4**| **59.2**| **59.1**| **64.4**| **51.1**  
   
 Uhura (New Reading Comprehension Evaluation), 0-shot
 
 **Model**| **Amharic (n=77)**| **Hausa (n=155)**| **Yoruba (n=258)**  
 ---|---|---|---  
 GPT 3.5 Turbo| 22.1| 32.3| 28.3  
-GPT-4o mini| 33.8| 43.2| 44.2  
-GPT-4| 41.6| 41.9| 41..9  
-GPT-4o| **44.2**| **59.4**| **60.5**  
+GPT‑4o mini| 33.8| 43.2| 44.2  
+GPT‑4| 41.6| 41.9| 41..9  
+GPT‑4o| **44.2**| **59.4**| **60.5**  
   
 ## Conclusion and next steps
 
@@ -675,7 +673,7 @@ We also note sub-metrics for higher severity categories, specifically:
 Below we display the results of these evaluations with the audio and text mode of the GPT‑4o Voice Mode model, as well as the text performance of the current GPT‑4o model in production.
 
   
-| Current GPT-4o Text| New GPT-4o – Text| New GPT-4o – Audio  
+| Current GPT‑4o Text| New GPT‑4o – Text| New GPT‑4o – Audio  
 ---|---|---|---  
 not_unsafe| 0.99| 0.99| 1.0  
 not_overrefuse| 0.91| 0.89| 0.91  

@@ -384,7 +384,7 @@ Additionally, we are grateful to our expert testers and red teamers who helped t
 
 Our standard evaluation set for disallowed content.
 
-Category| Operator| GPT-4o _(latest version)_  
+Category| Operator| GPT‑4o _(latest version)_  
 ---|---|---  
 harassment/threatening| 100%| 100%  
 sexual/minors| 100%| 100%  
@@ -403,7 +403,7 @@ self-harm/intent| 100%| 100%
 
 A second, more difficult set of “challenge” tests that we created to measure further progress on the safety of these models.
 
-Metric| Operator| GPT-4o _(latest version)_  
+Metric| Operator| GPT‑4o _(latest version)_  
 ---|---|---  
 harassment/threatening| 94%| 86%  
 sexual/minors| 95%| 85%  
