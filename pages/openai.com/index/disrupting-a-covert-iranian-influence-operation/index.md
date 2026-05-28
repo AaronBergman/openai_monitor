@@ -36,8 +36,6 @@ We banned accounts linked to an Iranian influence operation using ChatGPT to gen
 
 Loading…
 
-Share
-
 OpenAI is committed to preventing abuse and improving transparency around AI-generated content. This includes our work to detect and stop [_covert influence operations_ ⁠](<https://openai.com/index/disrupting-malicious-uses-of-ai-by-state-affiliated-threat-actors/>) (IO), which try to manipulate public opinion or influence political outcomes while hiding the true identity or intentions of the actors behind them. This is especially important in the context of the many elections being held in 2024. We have expanded our work in this area throughout the year, including by leveraging our own AI models to better detect and understand abuse. 
 
 This week we identified and took down a cluster of ChatGPT accounts that were generating content for a covert Iranian influence operation identified as [_Storm-2035_ ⁠(opens in a new window)](<https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/final/en-us/microsoft-brand/documents/5bc57431-a7a9-49ad-944d-b93b7d35d0fc.pdf>). We have banned these accounts from using our services, and we continue to monitor for any further attempts to violate our policies. The operation used ChatGPT to generate content focused on a number of topics—including commentary on candidates on both sides in the U.S. presidential election – which it then shared via social media accounts and websites. 

@@ -50,6 +50,10 @@ Switch cards to show Media
 
 Switch cards to hide Media
 
+![Election-information-and-safeguards-2026-1x1](https://images.ctfassets.net/kftzwdyauwt9/1PIOFxgdB0GHT27el6DgMC/185fc0824187abd3b5739eaa121b5a4b/Election-information-and-safeguards-2026-1x1.png?w=3840&q=90&fm=webp)
+
+[Election information and safeguards in 2026Global AffairsMay 27, 2026](</index/election-safeguards-2026/>)
+
 ![Grup-ArtCard](https://images.ctfassets.net/kftzwdyauwt9/6EEi4oJJ36NPbiw2Mkm1xZ/ee9da167bf08278df2759445f6bea88a/Grup-ArtCard.png?w=3840&q=90&fm=webp)
 
 [OpenAI, Grupo Folha, and Grupo UOL announce strategic content partnershipGlobal AffairsMay 25, 2026](</index/grupo-folha-grupo-uol-partnership/>)
@@ -81,10 +85,6 @@ Switch cards to hide Media
 ![OpenAI and PwC collaborate > Card Image](https://images.ctfassets.net/kftzwdyauwt9/6wn2wKTtoQqG8KwxsOYSZY/839c16e046322c6117810a569cc80540/Frame.png?w=3840&q=90&fm=webp)
 
 [OpenAI and PwC collaborate to reimagine the office of the CFOGlobal AffairsMay 4, 2026](</index/openai-pwc-finance-collaboration/>)
-
-![Building the compute infrastructure for the Intelligence Age > Cover](https://images.ctfassets.net/kftzwdyauwt9/3YIKMdykxSwjeXudXfZUDk/614af02ee41e3088620c44b9e8bc5439/Frame__6_.png?w=3840&q=90&fm=webp)
-
-[Building the compute infrastructure for the Intelligence AgeGlobal AffairsApr 29, 2026](</index/building-the-compute-infrastructure-for-the-intelligence-age/>)
 
 Load more
 

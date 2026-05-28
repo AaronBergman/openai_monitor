@@ -47,8 +47,6 @@ Create reusable workflows that guide ChatGPT through recurring tasks.
 
 Loading…
 
-Share
-
 Skills turn the way you already work into reusable workflows that ChatGPT can follow consistently—so you spend less time re-explaining steps, formats, and requirements, and more time getting to a solid result.
 
 If you’ve ever found yourself reusing the same prompt or pasting the same template again and again, skills are designed to fix that.

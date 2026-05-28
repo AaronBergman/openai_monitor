@@ -1,5 +1,57 @@
 # openai_monitor
 
+## 2026-05-28 — Privacy Policy Consolidation, "Intelligence at Work" Livestream, Safety Page Expands Election Commitments
+
+**Fetch time:** 2026-05-28T09:17Z UTC | **Baseline:** 2026-05-27T09-17Z
+
+**TL;DR:** Today's headline changes are a quiet privacy policy consolidation (two legacy region-specific policies retired, all traffic redirected to the unified US Privacy Policy), the announcement of an "Intelligence at Work" livestream on June 2 featuring Sam Altman, and the Safety page gaining three new public commitments about AI content governance. The 805 "updated" sitemap entries are a mass CMS sweep reflecting the day's new content in carousel sidebars site-wide — no substantive edits to those pages. Two flagged anomalies are CMS timing artifacts (lastmod is within 6 seconds of fetch; not meaningful). The OpenAI Deployment Company (`deployco/`) remains in the sitemap for a ninth consecutive day but still returns HTTP errors.
+
+### Anomalies (CMS Timing Artifacts — Not Meaningful)
+Two URLs showed `future_lastmod` by 6–11 seconds: `introducing-the-stateful-runtime-environment-for-agents-in-amazon-bedrock/` and `gpt-4o-system-card/`. The gap is less than the time it takes to load a sitemap. This is the CMS recording lastmod at the instant the sitemap is generated, slightly after our fetch time was recorded. No editorial significance.
+
+### New Pages
+
+- [**Intelligence at Work livestream**](pages/openai.com/business/intelligence-at-work/index.md) (`/business/intelligence-at-work/`) — Landing page for an enterprise-focused live event on **June 2 at 11:30am ET**. Denise Dresser (CRO) and product leadership will demo new capabilities coming to the OpenAI platform, discuss enterprise AI strategy, and take questions. Sam Altman is listed as a special guest. First business-focused live event announced on the site since the Codex launch webinars.
+
+- [**Building self-improving tax agents with Codex**](pages/openai.com/index/building-self-improving-tax-agents-with-codex/index.md) (`/index/building-self-improving-tax-agents-with-codex/`) — Engineering post by OpenAI forward-deployed engineers and Thrive Holdings staff. Documents how Tax AI for Crete's 30+ accounting firm network was built using a Codex self-improvement loop: production failures are automatically converted into evals, which Codex then uses to improve itself autonomously. The post frames this as a repeatable pattern for production agentic systems and includes a how-to guide.
+
+- [**Election safeguards 2026**](pages/openai.com/index/election-safeguards-2026/index.md) (`/index/election-safeguards-2026/`) — Global Affairs post (dated May 27) describing OpenAI's election-integrity measures ahead of global 2026 elections: helping voters access authoritative information, supporting cyber defenders, and increasing AI transparency. Part of a recurring pattern of pre-election policy disclosure; prior versions exist for 2024.
+
+- [**How to use Codex for everyday work**](pages/openai.com/academy/how-to-use-codex-for-everyday-work/index.md) (`/academy/how-to-use-codex-for-everyday-work/`) — New Academy page (replaces the removed `top-10-use-cases-codex-for-work` page, same concept refreshed) with 10 Codex use cases for non-technical roles: daily work briefs, weekly summaries, slide decks, research-to-decision memos, file cleanup, spreadsheet consolidation, book-of-business prioritization, and month-end financial review. Targeted at business users, not developers.
+
+- [**Warp customer story**](pages/openai.com/index/warp/index.md) (`/index/warp/`) — Developer tool company Warp uses GPT-5.5 to orchestrate agents across local, cloud, and open-source development workflows. Key metric: 30% fewer tokens per task versus prior models. Highlights agentic orchestration via "Oz," their internal system, and the integration of Codex into open source development at scale.
+
+### Substantive Content Changes
+
+- [**Safety page**](pages/openai.com/safety/index.md) — Three new bullet points added to OpenAI's public safety commitments: *"Improving transparency in AI content,"* *"Rigorously evaluating content to avoid reinforcing biases or stereotypes,"* and *"Partnering with governments to combat disinformation globally."* The last bullet is new and directly relevant to the election safeguards post published the same day.
+
+- [**Privacy policy**](pages/openai.com/policies/privacy-policy/index.md) — Substantive change is only URL normalization (all `help.openai.com/en/articles/...` links replaced with `help.openai.com/articles/...` — removing the `/en/` segment). No policy language changed. The lastmod jumped from Feb 25 to May 28, which is misleading; this appears to be a publishing infrastructure change, not a policy revision.
+
+- [**Consumer privacy page**](pages/openai.com/consumer-privacy/index.md) — The link labeled "Privacy policy" was updated to point to `/policies/privacy-policy/` instead of the now-removed `/policies/row-privacy-policy/`. This is the redirect confirming the consolidation described below.
+
+### Removed Pages (Policy Consolidation + Plugin Cleanup)
+
+- `https://openai.com/policies/row-privacy-policy/` — The "Rest of World" (non-EU/UK/Switzerland) privacy policy was a separate page. Removing it and updating the `consumer-privacy` page to point to the unified `/policies/privacy-policy/` indicates the ROW-specific variant has been merged into the main policy. The last snapshot is in git history.
+
+- `https://openai.com/policies/services-privacy-policy/` — A second legacy variant removed in the same cleanup. Last snapshot in git.
+
+- `https://openai.com/academy/top-10-use-cases-codex-for-work/` — Replaced by the newly-added `how-to-use-codex-for-everyday-work` Academy page (same concept, refreshed content and URL). A clean swap, not a content removal.
+
+- `https://openai.com/policies/plugin-terms/` — ChatGPT plugins were deprecated in 2024; removing the terms page is a long-overdue cleanup. Last snapshot in git.
+
+### Routine Updates (CMS Carousel Refreshes — 801 pages)
+
+All 801 remaining "updated" pages show identical patterns: "Keep Reading" sidebars swapped to surface today's new content (Warp story, Cisco + Codex, building tax agents with Codex). No editorial changes to the pages themselves. The mass lastmod update is the CMS recording the current timestamp when regenerating sidebars.
+
+### Continuing Issue: OpenAI Deployment Company (Day 9)
+
+`https://openai.com/deployco/` (first seen May 20), `deployco/privacy-policy/`, and `deployco/terms-of-use/` (first seen May 22) remain in the sitemap with fresh timestamps but all three return HTTP errors when fetched. Nine consecutive days in the sitemap. The timestamps continue to be refreshed daily, suggesting active publishing work behind the scenes.
+
+**Stats:** 1326 total URLs | +5 added | ~805 updated (801 CMS sweeps + 4 substantive) | -4 removed | 2 anomalies (CMS artifacts) | 3 fetch failures (deployco/)
+
+---
+
+
 ## 2026-05-27 — ChatGPT Ads Expand Into Financial Services, Healthcare & Legal
 
 **Fetch time:** 2026-05-27T09:17:36Z UTC | **Baseline:** 2026-05-26T09-16Z

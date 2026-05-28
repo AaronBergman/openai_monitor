@@ -26,7 +26,7 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-May 27, 2026
+May 28, 2026
 
 # California privacy rights reporting
 

@@ -28,25 +28,56 @@ OpenAI
 
 Table of contents
 
+  * Building AI Defense with Codex
   * Evaluating agentic AI in complex codebases
   * Using Codex for critical engineering workflows
-  * Shaping Codex's roadmap for the enterprise
+  * Shaping Codex’s roadmap for the enterprise
 
 
 
-January 20, 2026
+May 27, 2026
 
-# Cisco and OpenAI redefine enterprise engineering with AI agents
+# Cisco and OpenAI redefine enterprise engineering with Codex
 
 By deploying Codex broadly, Cisco made AI-native development a core part of how enterprise software gets built.
 
-![Cisco logo on blue background](https://images.ctfassets.net/kftzwdyauwt9/aXivyLqkrKODEpDJqv8hq/8848eb56e35c7d58768c385c8551feec/oai_Cisco_9x16.png?w=3840&q=90&fm=webp)
+[Contact sales](</contact-sales/>)
+
+![Cisco logo on a blue background.](https://images.ctfassets.net/kftzwdyauwt9/34uiao4dZziOAyyKO40gSJ/cb6842aa761bc32b495d19976ced17bd/oai_Cisco_1x1.png?w=3840&q=90&fm=webp)
+
+Company size: Enterprise
+
+Region: Global, North America
+
+Industry: Technology, Services
+
+Products: API, Codex
+
+Results
+
+95%+
+
+Of new AI features written by Codex
+
+Results
+
+10-15x
+
+Increase in defect resolution throughput using Codex CLI
+
+Results
+
+1,500+
+
+Engineering hours saved per month
 
 Loading…
 
+Share
+
 For decades, Cisco has built and operated some of the world’s most complex, mission-critical software systems. As generative AI matured from experimentation to real operational capability, Cisco leaned into what it knows best: **scaling advanced technology inside demanding, real-world environments**.
 
-That mindset led Cisco to begin working closely with OpenAI around Codex, helping define what enterprise-grade AI for software engineering should look like in practice—and how Codex could be applied to real, large-scale engineering work inside complex production environments.
+That approach is already shaping how Cisco builds new products, including **AI Defense** , where Codex helped compress critical engineering work from several quarters to weeks.
 
 Rather than treat Codex as a standalone developer tool, Cisco began integrating it directly into production engineering workflows, exposing it to massive multi-repository systems, C/C++-heavy codebases, and the security, compliance, and governance requirements of a global enterprise.
 
@@ -55,6 +86,20 @@ In the process, Cisco helped shape Codex into something fundamentally different 
 > "I’ve loved discovering new opportunities to integrate Codex into Cisco's enterprise software lifecycle workflows. Collaborating with the OpenAI team to get Codex enterprise production ready has been rewarding as well."
 
 —Ching Ho, a member of Cisco's engineering leadership
+
+## Building AI Defense with Codex
+
+Cisco’s work on AI Defense shows what that model can look like in practice. AI Defense is Cisco’s end-to-end AI security solution that protects against safety and security risks introduced by AI.
+
+Codex was used by Cisco’s team to write the majority of AI Defense and **nearly every new feature** that Cisco is building.
+
+> “Features that would have taken several quarters to get into customers’ hands dropped to weeks.”
+
+—DJ Sampath, SVP/GM, AI Software and Platform, Cisco
+
+This work also reflects Cisco’s broader role in advancing AI security. Cisco is among the leading security organizations working with OpenAI’s Daybreak initiative, which brings together OpenAI models, Codex, and security partners to accelerate cyber defense and continuously secure software. As part of this program, they have governed access to GPT‑5.5‑Cyber, a model for cyber defenders.
+
+Cisco also used Codex to help build their Defense Squad, an open-source tool that moved from ideation to the developer community in under one week.
 
 ## Evaluating agentic AI in complex codebases
 
@@ -83,31 +128,37 @@ Once Codex was embedded into everyday engineering work, teams began applying it 
 
 —Ryan Brady, a Principal Engineer in Cisco's Splunk group
 
-## Shaping Codex's roadmap for the enterprise
+## Shaping Codex’s roadmap for the enterprise
 
 Cisco provided continuous feedback from real production use that helped OpenAI accelerate Codex’s readiness for large enterprises—particularly in areas like compliance, long-running task management, and integration with existing development pipelines.
 
 For Cisco, the collaboration established a repeatable model for adopting next-generation AI: **deep technical partnership, real workloads, and leadership alignment from day one**.
 
+Today, Codex is used across multiple Cisco business units, improving productivity, code quality, and time-to-resolution. Instead of sizing work only by traditional measures of effort, teams are increasingly asking, “How long will that Codex run take?”
+
 > “Codex has become a meaningful part of how we think about AI-assisted development and operations going forward.”
 
 —Brad Murphy, a VP leading Cisco’s Splunk Engineering team
 
-In the months ahead, Cisco and OpenAI will continue to collaborate closely on Codex and beyond to advance their shared mission of AI-native engineering at enterprise scale.
+## Join the new era of work
+
+More than 1 million businesses around the world are achieving meaningful results with OpenAI.
+
+[Contact sales](</contact-sales/>)
 
 ## Keep reading
 
-![Grup-ArtCard](https://images.ctfassets.net/kftzwdyauwt9/6EEi4oJJ36NPbiw2Mkm1xZ/ee9da167bf08278df2759445f6bea88a/Grup-ArtCard.png?w=3840&q=90&fm=webp)
+![Tax Agent > Art Card](https://images.ctfassets.net/kftzwdyauwt9/6ojJ6B55QUlmNdaLifgMkQ/22e429ec7b3fdd119a2499358af899b7/Art_Card.png?w=3840&q=90&fm=webp)
 
-[OpenAI, Grupo Folha, and Grupo UOL announce strategic content partnershipGlobal AffairsMay 25, 2026](</index/grupo-folha-grupo-uol-partnership/>)
+[Building self-improving tax agents with CodexEngineeringMay 27, 2026](</index/building-self-improving-tax-agents-with-codex/>)
 
-![Gartner MQ > Art Card](https://images.ctfassets.net/kftzwdyauwt9/6GUkmRON5hyvikNSF3IEmH/78ea7491689ec5d07cd6a6c2ad6f0254/Gartner-MQ-ArtCard.png?w=3840&q=90&fm=webp)
+![Warp customer story 1x1 hero art card](https://images.ctfassets.net/kftzwdyauwt9/3DK9g0hpubvAEz7lDs0nUf/713989b24b9d377312714303868b9126/oai_Warp_1x1.png?w=3840&q=90&fm=webp)
 
-[OpenAI named a Leader in enterprise coding agents by GartnerAI AdoptionMay 22, 2026](</index/gartner-2026-agentic-coding-leader/>)
+[Warp’s big bet on building open source with GPT-5.5StartupMay 27, 2026](</index/warp/>)
 
-![Virgin Atlantic customer story hero image 1x1](https://images.ctfassets.net/kftzwdyauwt9/6WNcKcxQ4YROa131BHbMqK/3abfa2f73d5eed41b9fcb723c6e24e1e/virgin-atlantic-hero.png?w=3840&q=90&fm=webp)
+![Election-information-and-safeguards-2026-1x1](https://images.ctfassets.net/kftzwdyauwt9/1PIOFxgdB0GHT27el6DgMC/185fc0824187abd3b5739eaa121b5a4b/Election-information-and-safeguards-2026-1x1.png?w=3840&q=90&fm=webp)
 
-[How Virgin Atlantic ships faster with CodexMay 22, 2026](</index/virgin-atlantic/>)
+[Election information and safeguards in 2026Global AffairsMay 27, 2026](</index/election-safeguards-2026/>)
 
 Our Research
 

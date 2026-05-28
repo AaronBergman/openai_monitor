@@ -118,17 +118,17 @@ More than 1 million businesses around the world are achieving meaningful results
 
 ## Keep reading
 
-![Gartner MQ > Art Card](https://images.ctfassets.net/kftzwdyauwt9/6GUkmRON5hyvikNSF3IEmH/78ea7491689ec5d07cd6a6c2ad6f0254/Gartner-MQ-ArtCard.png?w=3840&q=90&fm=webp)
+![oai Cisco 1x1](https://images.ctfassets.net/kftzwdyauwt9/34uiao4dZziOAyyKO40gSJ/cb6842aa761bc32b495d19976ced17bd/oai_Cisco_1x1.png?w=3840&q=90&fm=webp)
 
-[OpenAI named a Leader in enterprise coding agents by GartnerAI AdoptionMay 22, 2026](</index/gartner-2026-agentic-coding-leader/>)
+[Cisco and OpenAI redefine enterprise engineering with CodexMay 27, 2026](</index/cisco/>)
 
-![oai_Advent Health_1x1.png](https://images.ctfassets.net/kftzwdyauwt9/7JAhWgW7oUTEYgJDl2tCh5/055dcb04ca201674b674dc62ebb91bb4/oai_Advent_Health_1x1.png?w=3840&q=90&fm=webp)
+![Tax Agent > Art Card](https://images.ctfassets.net/kftzwdyauwt9/6ojJ6B55QUlmNdaLifgMkQ/22e429ec7b3fdd119a2499358af899b7/Art_Card.png?w=3840&q=90&fm=webp)
 
-[AdventHealth advances whole-person care with OpenAIMay 21, 2026](</index/adventhealth/>)
+[Building self-improving tax agents with CodexEngineeringMay 27, 2026](</index/building-self-improving-tax-agents-with-codex/>)
 
-![Geometry > ArtCard > Polynomial Construction](https://images.ctfassets.net/kftzwdyauwt9/6PqehRMmS1oVuin6e3VWYq/b96f1c7b5a2ac2c08a887591b8486ed3/ArtCard-Polynomial-Construction.png?w=3840&q=90&fm=webp)
+![Warp customer story 1x1 hero art card](https://images.ctfassets.net/kftzwdyauwt9/3DK9g0hpubvAEz7lDs0nUf/713989b24b9d377312714303868b9126/oai_Warp_1x1.png?w=3840&q=90&fm=webp)
 
-[An OpenAI model has disproved a central conjecture in discrete geometryResearchMay 20, 2026](</index/model-disproves-discrete-geometry-conjecture/>)
+[Warp’s big bet on building open source with GPT-5.5StartupMay 27, 2026](</index/warp/>)
 
 Our Research
 

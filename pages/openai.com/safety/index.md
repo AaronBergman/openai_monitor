@@ -104,17 +104,23 @@ Read more
 
 #### Deep fakes
 
+Improving transparency in AI content. 
+
 Read more
 
 ![An abstract illustration featuring a tilted balance scale and directional arrows, representing the concept of bias in decision-making or evaluation.](https://images.ctfassets.net/kftzwdyauwt9/2TPsjs9yTPSHETTNatJetJ/2c57e7b997687bcdd1f184052f0061b7/Bias_light.svg?w=3840&q=90)
 
 #### Bias
 
+Rigorously evaluating content to avoid reinforcing biases or stereotypes.
+
 Read more
 
 ![A stylized illustration depicting a ballot box with a check-marked paper being inserted, symbolizing the voting process in an election.](https://images.ctfassets.net/kftzwdyauwt9/3ELUkC9OslwmbT0seo5VUF/74469164d582f4916c260111da6744ff/Elections_light.svg?w=3840&q=90)
 
 #### Elections
+
+Partnering with governments to combat disinformation globally. 
 
 Read more
 

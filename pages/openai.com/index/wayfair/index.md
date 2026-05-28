@@ -165,17 +165,17 @@ More than 1 million businesses around the world are achieving meaningful results
 
 ## Keep reading
 
-![Grup-ArtCard](https://images.ctfassets.net/kftzwdyauwt9/6EEi4oJJ36NPbiw2Mkm1xZ/ee9da167bf08278df2759445f6bea88a/Grup-ArtCard.png?w=3840&q=90&fm=webp)
+![oai Cisco 1x1](https://images.ctfassets.net/kftzwdyauwt9/34uiao4dZziOAyyKO40gSJ/cb6842aa761bc32b495d19976ced17bd/oai_Cisco_1x1.png?w=3840&q=90&fm=webp)
 
-[OpenAI, Grupo Folha, and Grupo UOL announce strategic content partnershipGlobal AffairsMay 25, 2026](</index/grupo-folha-grupo-uol-partnership/>)
+[Cisco and OpenAI redefine enterprise engineering with CodexMay 27, 2026](</index/cisco/>)
 
-![Virgin Atlantic customer story hero image 1x1](https://images.ctfassets.net/kftzwdyauwt9/6WNcKcxQ4YROa131BHbMqK/3abfa2f73d5eed41b9fcb723c6e24e1e/virgin-atlantic-hero.png?w=3840&q=90&fm=webp)
+![Tax Agent > Art Card](https://images.ctfassets.net/kftzwdyauwt9/6ojJ6B55QUlmNdaLifgMkQ/22e429ec7b3fdd119a2499358af899b7/Art_Card.png?w=3840&q=90&fm=webp)
 
-[How Virgin Atlantic ships faster with CodexMay 22, 2026](</index/virgin-atlantic/>)
+[Building self-improving tax agents with CodexEngineeringMay 27, 2026](</index/building-self-improving-tax-agents-with-codex/>)
 
-![Gartner MQ > Art Card](https://images.ctfassets.net/kftzwdyauwt9/6GUkmRON5hyvikNSF3IEmH/78ea7491689ec5d07cd6a6c2ad6f0254/Gartner-MQ-ArtCard.png?w=3840&q=90&fm=webp)
+![Election-information-and-safeguards-2026-1x1](https://images.ctfassets.net/kftzwdyauwt9/1PIOFxgdB0GHT27el6DgMC/185fc0824187abd3b5739eaa121b5a4b/Election-information-and-safeguards-2026-1x1.png?w=3840&q=90&fm=webp)
 
-[OpenAI named a Leader in enterprise coding agents by GartnerAI AdoptionMay 22, 2026](</index/gartner-2026-agentic-coding-leader/>)
+[Election information and safeguards in 2026Global AffairsMay 27, 2026](</index/election-safeguards-2026/>)
 
 Our Research
 

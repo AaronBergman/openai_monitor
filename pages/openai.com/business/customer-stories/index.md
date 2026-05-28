@@ -100,6 +100,14 @@ One in a million: celebrating the customers shaping AI’s future
 
 Filter
 
+![oai Cisco 1x1](https://images.ctfassets.net/kftzwdyauwt9/34uiao4dZziOAyyKO40gSJ/cb6842aa761bc32b495d19976ced17bd/oai_Cisco_1x1.png?w=3840&q=90&fm=webp)
+
+[Cisco and OpenAI redefine enterprise engineering with CodexMay 27, 2026](</index/cisco/>)
+
+![Warp customer story 1x1 hero art card](https://images.ctfassets.net/kftzwdyauwt9/3DK9g0hpubvAEz7lDs0nUf/713989b24b9d377312714303868b9126/oai_Warp_1x1.png?w=3840&q=90&fm=webp)
+
+[Warp’s big bet on building open source with GPT-5.5StartupMay 27, 2026](</index/warp/>)
+
 ![Virgin Atlantic customer story hero image 1x1](https://images.ctfassets.net/kftzwdyauwt9/6WNcKcxQ4YROa131BHbMqK/3abfa2f73d5eed41b9fcb723c6e24e1e/virgin-atlantic-hero.png?w=3840&q=90&fm=webp)
 
 [How Virgin Atlantic ships faster with CodexMay 22, 2026](</index/virgin-atlantic/>)
@@ -120,13 +128,13 @@ Filter
 
 [Sea's View on the Future of Agentic Software Development with CodexMay 14, 2026](</index/sea-david-chen/>)
 
-![AutoScout24 customer story 1x1 image](https://images.ctfassets.net/kftzwdyauwt9/7kI3ADPRruoa3p3p4obr8y/f967c5c036a6d47bbe4f50ccc1e78c54/oai_AutoScout24_1x1.png?w=3840&q=90&fm=webp)
-
-[AutoScout24 scales engineering with AI-powered workflowsMay 12, 2026](</index/autoscout24/>)
-
 ![oai NVIDIA 1x1 v8](https://images.ctfassets.net/kftzwdyauwt9/1tvBNfKdMK7IcrsyMVqDoK/615e69bf52245acc9aefb72fdf47990d/oai_NVIDIA_1x1_v8.png?w=3840&q=90&fm=webp)
 
 [How NVIDIA engineers and researchers build with CodexMay 12, 2026](</index/nvidia/>)
+
+![AutoScout24 customer story 1x1 image](https://images.ctfassets.net/kftzwdyauwt9/7kI3ADPRruoa3p3p4obr8y/f967c5c036a6d47bbe4f50ccc1e78c54/oai_AutoScout24_1x1.png?w=3840&q=90&fm=webp)
+
+[AutoScout24 scales engineering with AI-powered workflowsMay 12, 2026](</index/autoscout24/>)
 
 ![Parloa > Card](https://images.ctfassets.net/kftzwdyauwt9/79CIP6zYxNAKgc3cJfSimj/cd0b9187ba78aeca8088ba6c11ce8b7e/oai_Parloa_1x1.png?w=3840&q=90&fm=webp)
 
@@ -139,14 +147,6 @@ Filter
 ![Uber customer story > 1x1 art card and hero image](https://images.ctfassets.net/kftzwdyauwt9/5jnteCaoVnc71jA02qX8gk/0f394157c43c443dd1523a7fab48bc69/oai_Uber_1x1.png?w=3840&q=90&fm=webp)
 
 [Uber uses OpenAI to help people earn smarter and book fasterMay 6, 2026](</index/uber/>)
-
-![Singular Bank 1x1](https://images.ctfassets.net/kftzwdyauwt9/4z6thUXYDDAQfggvMdsr6v/bbc20a49d11c5f7b3216fec648214cef/oai_SingularBank_1x1.png?w=3840&q=90&fm=webp)
-
-[Singular Bank helps bankers move fast with ChatGPT and CodexMay 6, 2026](</index/singular-bank/>)
-
-![oai Choco 1x1](https://images.ctfassets.net/kftzwdyauwt9/2A9IYNIXnFR7s8lAQ9BKby/c98bd4af069478f3317f7d2d6aa98cc2/oai_Choco_1x1.png?w=3840&q=90&fm=webp)
-
-[Choco automates food distribution with AI agentsApr 27, 2026](</index/choco/>)
 
 Load more
 
