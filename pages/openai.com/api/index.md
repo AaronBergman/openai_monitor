@@ -86,27 +86,27 @@ Learn how to migrate from other OpenAI models to GPT‑5.
 
 ## The all-in-one platform for agents
 
-Build, deploy, and optimize production-ready agents faster with pre-built components or from scratch.
+Build agents that use your context and tools to get work done across your systems.
 
 [Learn more](</agent-platform/>)[Start building(opens in a new window)](<https://platform.openai.com/?utm_internal_source=openai_api>)
 
-![Screenshot of a visual workflow titled “Utility Comparison,” showing connected modules labeled “Start” and “Customer lookup Connector” in a flowchart interface on a light background.](https://images.ctfassets.net/kftzwdyauwt9/2TIS720GJeviUqZHCA8UIY/7bedb748e29d54cecad9f8e19b63f7b8/API_Refresh_Static_card_Build.png?w=3840&q=90&fm=webp)
+![Dark-themed code editor showing a Python agent configuration script on a blue gradient background.](https://images.ctfassets.net/kftzwdyauwt9/3I12fE7PL620U4Z2RWXzgt/b009dc530e9588875b9842ed77f95211/1.png?w=3840&q=90&fm=webp)
 
 Build
 
-Build agents on a visual-first canvas with Agent Builder or in a code-first environment with the Agents SDK.
+Create agent workflows with the Agents SDK and Responses API, and add voice with the Realtime API.
 
-![Utility analysis card showing a 6-month average energy usage of 1,082 kWh. Text notes the home used ~22% more energy than comparable homes, with largest differences in July and August. Green and blue bar chart displayed below.](https://images.ctfassets.net/kftzwdyauwt9/5xvZgaX1W9iY0tH4wWAHgY/05bd1396a79f47941a89818b6b152207/API_Refresh_Static_card_Deploy.png?w=3840&q=90&fm=webp)
+![Six rounded square tool icons on a blue gradient background, including code, globe, sparkle, and image symbols.](https://images.ctfassets.net/kftzwdyauwt9/18GNHAsLWZApZeDaUTjW3E/0e1463c1f522a4d67446848d590cdfe7/2.png?w=3840&q=90&fm=webp)
 
-Deploy
+Ground
 
-Create customizable, front-end agentic experiences with ChatKit.
+Give agents relevant context through built-in tools like web search, file search, and remote MCP servers.
 
-![Interface titled “Create a grader” showing evaluation criteria for responses, including fields like “Was the response accurate” and grader results marked “Pass” for reasoning-based checks, on a light background.](https://images.ctfassets.net/kftzwdyauwt9/6Hfl1n3Wraf2TPbl9Iggj5/0da5d80a18aa9c4daa32e40d581f94b7/API_Refresh_Static_card_Optimize.png?w=3840&q=90&fm=webp)
+![Four app icons — Slack, Gmail, Salesforce, and GitHub — displayed on a blue gradient background.](https://images.ctfassets.net/kftzwdyauwt9/2hI24cj2yRuL8tSfJBiuvC/d52aff0410eea90ad609312e2a2e1e50/3.png?w=3840&q=90&fm=webp)
 
-Optimize
+Act
 
-Run evals to measure agentic performance, and improve results with prompt optimization.
+Connect agents securely to business systems so they can take action across workflows.
 
 ## Bring AI experiences to life
 

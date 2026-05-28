@@ -74,7 +74,7 @@ Read more
 
 ![Privacy Policy > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/18f70667-c0bb-48cb-9019b85f7933/00c78ca3319ed31b3f4fbef9776bb10f/Privacy_policy_at_OpenAI_1x1.png?w=3840&q=90&fm=webp)
 
-[Privacy policy](</policies/row-privacy-policy/>)
+[Privacy Policy](</policies/privacy-policy/>)
 
 ![Security and privacy > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/4cY05ttTCaPvDK37ZdvGk/b9f6d878317d743214be4f664f36a3f6/IMG_0162.png?w=3840&q=90&fm=webp)
 
@@ -82,7 +82,7 @@ Read more
 
 ![Soft abstract gradient blending peach, pink, and light blue tones.](https://images.ctfassets.net/kftzwdyauwt9/6xIxm2Pn2aZ0eIq12Oad0c/188593e64100eb69bc6016d6be824a79/Frame.png?w=3840&q=90&fm=webp)
 
-[Data usage for consumer services FAQ](<https://help.openai.com/en/articles/7039943-data-usage-for-consumer-services-faq?utm_source=chatgpt.com>)
+[Data usage for consumer services FAQ](<https://help.openai.com/articles/7039943-data-usage-for-consumer-services-faq?utm_source=chatgpt.com>)
 
 Our Research
 

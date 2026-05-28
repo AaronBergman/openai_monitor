@@ -106,9 +106,9 @@ Yes
 
 No
 
-OpenAI Organization ID
+OpenAI Organization ID *
 
-([click to find yours)⁠(opens in a new window)](<https://platform.openai.com/settings/organization/general>)
+[Find your organization ID here⁠(opens in a new window)](<https://platform.openai.com/settings/organization/general>). If you do not have an existing OpenAI Organization ID, please select "N/A".
 
 Select where you would like to use GPT-Rosalind. *Check all that apply
 
@@ -133,7 +133,9 @@ Final attestation *
 
 I certify
 
-Submit
+ _Note: After submitting, you 'll complete a brief verification step to confirm your identity, including a government ID check and providing basic business information._
+
+Submit and start verification
 
 Our Research
 

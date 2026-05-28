@@ -54,6 +54,10 @@ The partnership, tailored to Malta’s needs and national AI priorities, is the 
 
 [View all](</news/>)
 
+![Election-information-and-safeguards-2026-1x1](https://images.ctfassets.net/kftzwdyauwt9/1PIOFxgdB0GHT27el6DgMC/185fc0824187abd3b5739eaa121b5a4b/Election-information-and-safeguards-2026-1x1.png?w=3840&q=90&fm=webp)
+
+[Election information and safeguards in 2026Global AffairsMay 27, 2026](</index/election-safeguards-2026/>)
+
 ![Grup-ArtCard](https://images.ctfassets.net/kftzwdyauwt9/6EEi4oJJ36NPbiw2Mkm1xZ/ee9da167bf08278df2759445f6bea88a/Grup-ArtCard.png?w=3840&q=90&fm=webp)
 
 [OpenAI, Grupo Folha, and Grupo UOL announce strategic content partnershipGlobal AffairsMay 25, 2026](</index/grupo-folha-grupo-uol-partnership/>)
@@ -61,10 +65,6 @@ The partnership, tailored to Malta’s needs and national AI priorities, is the 
 ![Next phase of OpenAI for countries > art card](https://images.ctfassets.net/kftzwdyauwt9/D3j1QLEUWCW6QvlwihC2v/2e1f92d8dd5d4aa1b656849aba4531f8/Art_Card2.png?w=3840&q=90&fm=webp)
 
 [The next phase of OpenAI’s Education for CountriesGlobal AffairsMay 20, 2026](</index/the-next-phase-of-education-for-countries/>)
-
-![Frame](https://images.ctfassets.net/kftzwdyauwt9/5JFad06WGFRNSvmwt2IEYt/fc85c02c580da98144575675105dc647/release-cover-frame.png?w=3840&q=90&fm=webp)
-
-[Introducing OpenAI for SingaporeGlobal AffairsMay 19, 2026](</index/introducing-openai-for-singapore/>)
 
 Our Research
 

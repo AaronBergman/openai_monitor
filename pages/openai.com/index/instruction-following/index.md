@@ -46,8 +46,6 @@ January 27, 2022
 
 Loading…
 
-Share
-
 We’ve trained language models that are much better at following user intentions than GPT‑3 while also making them more truthful and less toxic, using techniques developed through our alignment research. These  _InstructGPT_ models, which are trained with humans in the loop, are now deployed as the default language models on our API.
 
 Loading...

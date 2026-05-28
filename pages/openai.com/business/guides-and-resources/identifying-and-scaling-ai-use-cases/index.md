@@ -45,8 +45,6 @@ How early adopters focus their AI efforts
 
 [Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)[Contact sales](</contact-sales/>)
 
-Share
-
 #### Foreword
 
 In just two years
@@ -488,17 +486,17 @@ Learn how we help companies build scalable, responsible AI strategies.
 
 ## Keep reading
 
-![Personal finance in ChatGPT > Media > Cover](https://images.ctfassets.net/kftzwdyauwt9/4zSr4YNWXIEYz20piN2bxf/6f9a561be6055802914aee0a3bb671d7/ArtCard-Personal-Finance.png?w=3840&q=90&fm=webp)
+![oai Cisco 1x1](https://images.ctfassets.net/kftzwdyauwt9/34uiao4dZziOAyyKO40gSJ/cb6842aa761bc32b495d19976ced17bd/oai_Cisco_1x1.png?w=3840&q=90&fm=webp)
 
-[A new personal finance experience in ChatGPTProductMay 15, 2026](</index/personal-finance-chatgpt/>)
+[Cisco and OpenAI redefine enterprise engineering with CodexMay 27, 2026](</index/cisco/>)
 
-![Databricks customer story > Hero image](https://images.ctfassets.net/kftzwdyauwt9/zSMR7MjYs8dfmIqajAVyK/996ec87e2e6d26dc5c327441f9dd8ea1/oai_Databricks_1x1.png?w=3840&q=90&fm=webp)
+![Tax Agent > Art Card](https://images.ctfassets.net/kftzwdyauwt9/6ojJ6B55QUlmNdaLifgMkQ/22e429ec7b3fdd119a2499358af899b7/Art_Card.png?w=3840&q=90&fm=webp)
 
-[Databricks brings GPT-5.5 to enterprise agent workflowsMay 15, 2026](</index/databricks/>)
+[Building self-improving tax agents with CodexEngineeringMay 27, 2026](</index/building-self-improving-tax-agents-with-codex/>)
 
-![EF Ep20 1.1](https://images.ctfassets.net/kftzwdyauwt9/6Wp6DOKXObm4D5mzDZU7Q0/a612075495fe9f6854159364a3041bc2/EF_Ep20_1.1.png?w=3840&q=90&fm=webp)
+![Election-information-and-safeguards-2026-1x1](https://images.ctfassets.net/kftzwdyauwt9/1PIOFxgdB0GHT27el6DgMC/185fc0824187abd3b5739eaa121b5a4b/Election-information-and-safeguards-2026-1x1.png?w=3840&q=90&fm=webp)
 
-[Sea's View on the Future of Agentic Software Development with CodexMay 14, 2026](</index/sea-david-chen/>)
+[Election information and safeguards in 2026Global AffairsMay 27, 2026](</index/election-safeguards-2026/>)
 
 Our Research
 

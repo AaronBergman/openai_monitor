@@ -153,6 +153,10 @@ As models continue to improve, the range of procedures that can be safely automa
 
 [View all](</news/>)
 
+![Warp customer story 1x1 hero art card](https://images.ctfassets.net/kftzwdyauwt9/3DK9g0hpubvAEz7lDs0nUf/713989b24b9d377312714303868b9126/oai_Warp_1x1.png?w=3840&q=90&fm=webp)
+
+[Warp’s big bet on building open source with GPT-5.5StartupMay 27, 2026](</index/warp/>)
+
 ![Parloa > Card](https://images.ctfassets.net/kftzwdyauwt9/79CIP6zYxNAKgc3cJfSimj/cd0b9187ba78aeca8088ba6c11ce8b7e/oai_Parloa_1x1.png?w=3840&q=90&fm=webp)
 
 [Parloa builds service agents customers want to talk toStartupMay 7, 2026](</index/parloa/>)
@@ -160,10 +164,6 @@ As models continue to improve, the range of procedures that can be safely automa
 ![Descript > 1x1 Card](https://images.ctfassets.net/kftzwdyauwt9/7wL94yXvqYUEQRfOpp68V8/4f6d4a21db6e98ddb2352cbc52ac3b77/oai_descript_1x1.png?w=3840&q=90&fm=webp)
 
 [How Descript engineers multilingual video dubbing at scaleStartupMar 6, 2026](</index/descript/>)
-
-![oai Praktika 1x1](https://images.ctfassets.net/kftzwdyauwt9/3eKqj0qRWjFon5U6cYkPqI/9b4f23cb7d154a7cb2ace1e8cff3d004/oai_Praktika_1x1.png?w=3840&q=90&fm=webp)
-
-[Inside Praktika's conversational approach to language learningStartupJan 22, 2026](</index/praktika/>)
 
 Our Research
 

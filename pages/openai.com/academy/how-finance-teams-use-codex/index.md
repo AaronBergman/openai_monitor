@@ -214,7 +214,7 @@ Keep exploring Codex for work with these resources:
 
   * [Codex for work hub](</academy/codex-for-work/>)
   * [Codex for everyday work on-demand webinar⁠(opens in a new window)](<https://academy.openai.com/home/clubs/work-users-ynjqu/videos/codex-for-everyday-work-recording-2026-05-06>)
-  * [Top 10 uses for Codex at work](</academy/top-10-use-cases-codex-for-work/>)
+  * [Top 10 uses for Codex at work](</academy/how-to-use-codex-for-everyday-work/>)
 
 
 
