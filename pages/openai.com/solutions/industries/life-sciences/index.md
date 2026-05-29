@@ -38,6 +38,8 @@ Apply enterprise-ready solutions that streamline R&D, clinical, and commercial o
 
 ### Trusted by leading innovators in life sciences
 
+### Accelerate development—from discovery to delivery
+
 ### AI you can deploy with confidence
 
 Built for the rigor and scale that modern research demands.
@@ -91,8 +93,6 @@ Use the API Platform and Codex to build custom solutions that automate scientifi
 Integrate lab, research, and enterprise data into every prompt with native apps or MCP.
 
 [Explore apps](</business/apps/>)[Connect with MCP(opens in a new window)](<https://platform.openai.com/docs/mcp>)
-
-### Accelerate development—from discovery to delivery
 
 ### Learn from industry leaders driving change
 

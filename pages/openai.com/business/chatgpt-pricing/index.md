@@ -11,7 +11,7 @@ Skip to main content
 
 
 
-Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
+[Try now(opens in a new window)](<https://chatgpt.com/team-sign-up>)[Contact sales](</contact-sales/>)
 
   * Research
   * Products
@@ -22,7 +22,7 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 
 
-[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)Login
+[Contact sales](</contact-sales/>)
 
 OpenAI
 

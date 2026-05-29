@@ -28,10 +28,9 @@ OpenAI
 
 Table of contents
 
-  * Inside the rollout
-  * Results at a glance
-  * Leadership lessons
-  * What’s next
+  * Addressing limitations of legacy research workflows
+  * Four lessons from Balyasny’s approach to AI at scale
+  * A playbook delivering results in hours—not days
 
 
 
@@ -77,29 +76,13 @@ In late 2022, Balyasny established an Applied AI team: a centralized group of 20
 
 —Charlie Flanagan, Chief AI Officer
 
-## Inside the rollout
+## Addressing limitations of legacy research workflows
 
 Investment research is complex, high-stakes, and time-sensitive. Analysts must parse through thousands of documents, from market data and research to regulatory filings. Human expertise remains essential, but traditional methods are time-consuming and difficult to scale.
 
 Off-the-shelf AI tools often can’t handle structured and unstructured data together, lack workflow orchestration, and aren’t built to meet institutional compliance standards. Balyasny needed something purpose-built: an AI system that could think like an analyst, move at the speed of a machine, and work within strict compliance boundaries.
 
-> “We evaluate models the way we evaluate investments: on fundamentals. GPT-5.4 proved it could plan, reason, and execute with real rigor.”
-
-—Su Wang, Senior Research Scientist
-
-## Results at a glance
-
-Today, ~**95% of Balyasny investment teams actively use their AI platform,** with measurable impact across velocity, output quality, and analyst experience:
-
-  * **Deep research tasks** that once required days are now completed in hours, with agents synthesizing tens of thousands of documents, including filings, research, and earnings.
-  * A **Central Bank Speech Analyst** cut macroeconomic scenario analysis time from 2 days to ~30 minutes.
-  * A **Merger Arbitrage Superforecaster** agent now monitors and updates deal probabilities continuously, replacing bespoke spreadsheets and manual alerts.
-
-
-
-Just as importantly, analysts at Balyasny report higher confidence in outputs. With scoped tools, traceable reasoning paths, and testable agents, they use AI to deliver structured, explainable insights that increase conviction and inform human decision making. 
-
-## Leadership lessons
+## Four lessons from Balyasny’s approach to AI at scale
 
 #### 1\. Evaluate models before deploying them
 
@@ -107,11 +90,19 @@ Before any models went into production, Balyasny built one of the most sophistic
 
 This rigorous process surfaced strengths in the GPT‑5.4 model family, particularly in **multi-step planning, tool execution, and hallucination reduction**. Today, Balyasny uses GPT‑5.4 as a reasoning engine within their AI system, alongside internal models, which are selected task-by-task based on empirical performance.
 
+> “We evaluate models the way we evaluate investments: on fundamentals. GPT-5.4 proved it could plan, reason, and execute with real rigor.”
+
+—Su Wang, Senior Research Scientist
+
 #### 2\. Foster deep collaboration between users and AI partners
 
 Balyasny made a strategic decision to involve OpenAI directly in user-facing workflows. OpenAI teams observed directly how investment teams use their AI system: where it succeeds, where it struggles, and what high performance actually looks like in a commercial context.
 
 That visibility led to faster iterations, tighter product feedback loops, and better model behavior in finance-specific tasks. As a design partner for frontier model releases, Balyasny has influenced the OpenAI roadmap by surfacing insights from actual analysts, not test cases.
+
+> “We didn’t just tell OpenAI what we needed. We showed them. And that made all the difference.”
+
+—Jonathan Park, Product Manager
 
 #### 3\. Design for feedback loops, not static tools
 
@@ -123,14 +114,23 @@ For example, early feedback from merger arbitrage teams revealed that agents nee
 
 While each investment team has a distinct investment strategy, Balyasny took a centralized approach to AI deployment. Their Applied AI team develops core components, including agent frameworks, toolchains, and compliance guardrails, which are then deployed across teams with scoped access to data and tools.
 
-This “federated deployment” model means each investment team can develop and use AI agents tailored to their asset class (for example, macro, commodities, and equities), while the Applied AI team focuses on scaling architecture, research, and model evaluations. It also ensures that compliance and regulatory standards are universally respected—critical in an industry where risk management and data security are non-negotiable.  
-
+This “federated deployment” model means each investment team can develop and use AI agents tailored to their asset class (for example, macro, commodities, and equities), while the Applied AI team focuses on scaling architecture, research, and model evaluations. It also ensures that compliance and regulatory standards are universally respected—critical in an industry where risk management and data security are non-negotiable.
 
 > “Our early investments in AI paid off. Today, every one of our investment teams can decide how to apply the latest AI to their process, in a secure environment and with real-time expert guidance.”
 
 —Kevin Byrne, Chief Operating Officer
 
-## What’s next
+## A playbook delivering results in hours—not days
+
+Today, ~**95% of Balyasny investment teams actively use their AI platform,** with measurable impact across velocity, output quality, and analyst experience:
+
+  * **Deep research tasks** that once required days are now completed in hours, with agents synthesizing tens of thousands of documents, including filings, research, and earnings.
+  * A **Central Bank Speech Analyst** cut macroeconomic scenario analysis time from 2 days to ~30 minutes.
+  * A **Merger Arbitrage Superforecaster** agent now monitors and updates deal probabilities continuously, replacing bespoke spreadsheets and manual alerts.
+
+
+
+Just as importantly, analysts at Balyasny report higher confidence in outputs. With scoped tools, traceable reasoning paths, and testable agents, they use AI to deliver structured, explainable insights that increase conviction and inform human decision making. 
 
 Balyasny continues to expand its AI roadmap with a focus on:
 
@@ -140,8 +140,11 @@ Balyasny continues to expand its AI roadmap with a focus on:
 
 
 
-Evaluation of **future frontier models** for domain fit  
+Evaluation of **future frontier models** for domain fit.
 
+> “It’s like adding a teammate who never forgets, always cites sources, and double-checks the details before sending anything back.”
+
+—Charlie Sweat, Portfolio Manager
 
 ## Join the new era of work
 
@@ -151,17 +154,17 @@ More than 1 million businesses around the world are achieving meaningful results
 
 ## Keep reading
 
-![oai Cisco 1x1](https://images.ctfassets.net/kftzwdyauwt9/34uiao4dZziOAyyKO40gSJ/cb6842aa761bc32b495d19976ced17bd/oai_Cisco_1x1.png?w=3840&q=90&fm=webp)
+![oai Endava 1x1](https://images.ctfassets.net/kftzwdyauwt9/2R1En1qK4AOSKcuZRpKxco/64ddf998210a4e3f1a3b4c08acba25e2/oai_endava_1x1.png?w=3840&q=90&fm=webp)
 
-[Cisco and OpenAI redefine enterprise engineering with CodexMay 27, 2026](</index/cisco/>)
+[How Endava builds an agentic organization with CodexMay 28, 2026](</index/endava/>)
 
-![Tax Agent > Art Card](https://images.ctfassets.net/kftzwdyauwt9/6ojJ6B55QUlmNdaLifgMkQ/22e429ec7b3fdd119a2499358af899b7/Art_Card.png?w=3840&q=90&fm=webp)
+![MUFG customer story 1x1 hero and card image](https://images.ctfassets.net/kftzwdyauwt9/NuwuwCk19PIxGLHg92dkW/92c24518bb5432f9491b801b006fa7e4/oai_MUFG_1x1.png?w=3840&q=90&fm=webp)
 
-[Building self-improving tax agents with CodexEngineeringMay 27, 2026](</index/building-self-improving-tax-agents-with-codex/>)
+[MUFG aims to become AI-native with OpenAIMay 28, 2026](</index/mufg/>)
 
-![Warp customer story 1x1 hero art card](https://images.ctfassets.net/kftzwdyauwt9/3DK9g0hpubvAEz7lDs0nUf/713989b24b9d377312714303868b9126/oai_Warp_1x1.png?w=3840&q=90&fm=webp)
+![Frontier Governance Framework > card image ](https://images.ctfassets.net/kftzwdyauwt9/2KoiHuErR5YxXGUnhCU8VY/e392c6249ec4644e07e944edea22e837/Frame2.png?w=3840&q=90&fm=webp)
 
-[Warp’s big bet on building open source with GPT-5.5StartupMay 27, 2026](</index/warp/>)
+[OpenAI’s Frontier Governance FrameworkSafetyMay 28, 2026](</index/openai-frontier-governance-framework/>)
 
 Our Research
 

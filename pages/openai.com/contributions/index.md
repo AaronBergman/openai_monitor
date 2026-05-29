@@ -26,6 +26,16 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
+![](https://images.ctfassets.net/kftzwdyauwt9/1sav9Tlgsbq82WD1elMWNn/dbb8c7f80c74cd5d23ef732b097bbfa9/takeover-poster.png?w=3840&q=50&fm=webp)
+
+# Chip Ganassi Racing × OpenAI
+
+Discover how Chip Ganassi Racing and OpenAI are teaming up to transform racing with AI.
+
+[Read the story](</index/chip-ganassi-racing/>)
+
+Close
+
 What can I help with?
 
 Message ChatGPT

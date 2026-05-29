@@ -148,17 +148,17 @@ More than 1 million businesses around the world are achieving meaningful results
 
 ## Keep reading
 
-![Tax Agent > Art Card](https://images.ctfassets.net/kftzwdyauwt9/6ojJ6B55QUlmNdaLifgMkQ/22e429ec7b3fdd119a2499358af899b7/Art_Card.png?w=3840&q=90&fm=webp)
+![oai Endava 1x1](https://images.ctfassets.net/kftzwdyauwt9/2R1En1qK4AOSKcuZRpKxco/64ddf998210a4e3f1a3b4c08acba25e2/oai_endava_1x1.png?w=3840&q=90&fm=webp)
 
-[Building self-improving tax agents with CodexEngineeringMay 27, 2026](</index/building-self-improving-tax-agents-with-codex/>)
+[How Endava builds an agentic organization with CodexMay 28, 2026](</index/endava/>)
 
-![Warp customer story 1x1 hero art card](https://images.ctfassets.net/kftzwdyauwt9/3DK9g0hpubvAEz7lDs0nUf/713989b24b9d377312714303868b9126/oai_Warp_1x1.png?w=3840&q=90&fm=webp)
+![Frontier Governance Framework > card image ](https://images.ctfassets.net/kftzwdyauwt9/2KoiHuErR5YxXGUnhCU8VY/e392c6249ec4644e07e944edea22e837/Frame2.png?w=3840&q=90&fm=webp)
 
-[Warp’s big bet on building open source with GPT-5.5StartupMay 27, 2026](</index/warp/>)
+[OpenAI’s Frontier Governance FrameworkSafetyMay 28, 2026](</index/openai-frontier-governance-framework/>)
 
-![Election-information-and-safeguards-2026-1x1](https://images.ctfassets.net/kftzwdyauwt9/1PIOFxgdB0GHT27el6DgMC/185fc0824187abd3b5739eaa121b5a4b/Election-information-and-safeguards-2026-1x1.png?w=3840&q=90&fm=webp)
+![MUFG customer story 1x1 hero and card image](https://images.ctfassets.net/kftzwdyauwt9/NuwuwCk19PIxGLHg92dkW/92c24518bb5432f9491b801b006fa7e4/oai_MUFG_1x1.png?w=3840&q=90&fm=webp)
 
-[Election information and safeguards in 2026Global AffairsMay 27, 2026](</index/election-safeguards-2026/>)
+[MUFG aims to become AI-native with OpenAIMay 28, 2026](</index/mufg/>)
 
 Our Research
 

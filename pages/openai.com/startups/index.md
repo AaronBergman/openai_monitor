@@ -76,8 +76,6 @@ Expert content to spot AI opportunities and scale with confidence.
 
 Connect with other builders in person and online. Register for upcoming events like meetups, webinars, and AMAs.
 
-### [Build Hour: Agents SDK (May 28, 2026, 10am PT, Online)Build long-running agents with the updated Agents SDK, using a model-native harness designed for more capable agent workflows.Tune In](<https://webinar.openai.com/buildhours/agentsSDK/>)
-
 ### [OpenAI Builder Lounge #NYTechWeek (June 4, 2026, 2pm ET, In-person)Build alongside other founders and developers at the OpenAI Builder Lounge for #NYTechWeek with unlimited Codex access, OpenAI team Q&A, and demos.Sign Up Here](<https://events.openai.com/builderlounge-ny-techweek>)
 
 ### [Build Hours (On Demand)Build with session materials from past Build Hours, including demos, starter code, and examples across agent workflows, integrations, and deployment patterns.Catch Up](<https://webinar.openai.com/buildhours/>)

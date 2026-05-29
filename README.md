@@ -1,5 +1,39 @@
 # openai_monitor
 
+## 2026-05-29 — Frontier Governance Framework, MUFG/Endava/CGR Customer Stories, Policy Cleanup
+
+**Fetch time:** 2026-05-29T09:17Z UTC | **Baseline:** 2026-05-28T09-17Z
+
+**TL;DR:** The big story today is OpenAI publishing its [Frontier Governance Framework](pages/openai.com/index/openai-frontier-governance-framework/index.md) — a formal document mapping their AI safety practices onto California's Transparency in Frontier AI Act and the EU AI Act's Code of Practice, making this OpenAI's first compliance-oriented safety document. Three new customer stories also appeared: Japanese banking giant MUFG deploying ChatGPT Enterprise to 35,000 employees, UK tech services firm Endava scaling engineering with Codex, and motorsport team Chip Ganassi Racing (now featured on the homepage). Four legacy policy pages were quietly retired (plugin terms, two regional privacy policy variants, and an old Codex Academy article). The 855 "updated" sitemap entries are a CMS timestamp sweep — content diffs show minimal actual changes. Three "Deployco" pages remain in the sitemap but return HTTP 404 for the second consecutive day.
+
+### Notable: Deployco pages — sitemap present, HTTP 404
+
+`/deployco/`, `/deployco/privacy-policy/`, and `/deployco/terms-of-use/` are listed in the sitemap with today's lastmod (2026-05-29) but return 404 when fetched. "Deployco" is not yet an announced product. This could indicate an unreleased product, a recently removed service, or a CMS artifact. Monitor closely.
+
+### New Pages
+
+- [**OpenAI's Frontier Governance Framework**](pages/openai.com/index/openai-frontier-governance-framework/index.md) (`/index/openai-frontier-governance-framework/`, lastmod: 2026-05-28) — Published May 28. A formal governance doc explaining how OpenAI's safety practices map to: (1) California's Transparency in Frontier AI Act and (2) the EU AI Act's Code of Practice for GPAI. Covers risk assessment for cyber offense, CBRN, harmful manipulation, and loss of control; also covers model reporting, incident response, and external expert input. Linked as a PDF. This is OpenAI's first document explicitly designed to satisfy legal/regulatory compliance obligations rather than explain internal philosophy.
+
+- [**MUFG × OpenAI**](pages/openai.com/index/mufg/index.md) (`/index/mufg/`, lastmod: 2026-05-28) — Mitsubishi UFJ Financial Group deploys ChatGPT Enterprise to ~35,000 employees at Mitsubishi UFJ Bank. Focus: AI-native transformation, employee enablement, new retail banking customer experiences. MUFG is one of the world's largest banks (Asia-Pacific).
+
+- [**Chip Ganassi Racing × OpenAI**](pages/openai.com/index/chip-ganassi-racing/index.md) (`/index/chip-ganassi-racing/`, lastmod: 2026-05-28) — In-depth feature on the partnership with the IndyCar/IMSA team. Originated from a chance meeting at a Women in Motorsports event. AI is used to analyze sensor data, race telemetry, and pit crew performance. The homepage now features this story prominently.
+
+- [**Endava × OpenAI**](pages/openai.com/index/endava/index.md) (`/index/endava/`, lastmod: 2026-05-28) — UK tech services company Endava uses Codex to scale senior engineering expertise across its delivery lifecycle; claims weeks of work compressed into days. Part of the ongoing Codex enterprise customer story push.
+
+### Removed Pages
+
+- `https://openai.com/academy/top-10-use-cases-codex-for-work/` — Academy article; likely replaced by newer Codex content.
+- `https://openai.com/policies/plugin-terms/` — ChatGPT plugin terms; expected cleanup as plugins were deprecated.
+- `https://openai.com/policies/row-privacy-policy/` — Rest-of-World privacy policy variant; consolidated into main privacy policy.
+- `https://openai.com/policies/services-privacy-policy/` — Services-specific privacy policy; also consolidated.
+
+### Homepage Update
+
+The [homepage](pages/openai.com/index.md) now features a Chip Ganassi Racing × OpenAI takeover/feature section (lastmod bumped from May 20 to May 28).
+
+**Stats:** 1330 total URLs | +4 added | ~855 updated (mostly CMS timestamp sweep) | -4 removed | 0 anomalies | 32 sub-sitemaps
+
+---
 ## 2026-05-28 — Privacy Policy Consolidation, "Intelligence at Work" Livestream, Safety Page Expands Election Commitments
 
 **Fetch time:** 2026-05-28T09:17Z UTC | **Baseline:** 2026-05-27T09-17Z

@@ -100,6 +100,14 @@ One in a million: celebrating the customers shaping AI’s future
 
 Filter
 
+![oai Endava 1x1](https://images.ctfassets.net/kftzwdyauwt9/2R1En1qK4AOSKcuZRpKxco/64ddf998210a4e3f1a3b4c08acba25e2/oai_endava_1x1.png?w=3840&q=90&fm=webp)
+
+[How Endava builds an agentic organization with CodexMay 28, 2026](</index/endava/>)
+
+![MUFG customer story 1x1 hero and card image](https://images.ctfassets.net/kftzwdyauwt9/NuwuwCk19PIxGLHg92dkW/92c24518bb5432f9491b801b006fa7e4/oai_MUFG_1x1.png?w=3840&q=90&fm=webp)
+
+[MUFG aims to become AI-native with OpenAIMay 28, 2026](</index/mufg/>)
+
 ![oai Cisco 1x1](https://images.ctfassets.net/kftzwdyauwt9/34uiao4dZziOAyyKO40gSJ/cb6842aa761bc32b495d19976ced17bd/oai_Cisco_1x1.png?w=3840&q=90&fm=webp)
 
 [Cisco and OpenAI redefine enterprise engineering with CodexMay 27, 2026](</index/cisco/>)
@@ -139,14 +147,6 @@ Filter
 ![Parloa > Card](https://images.ctfassets.net/kftzwdyauwt9/79CIP6zYxNAKgc3cJfSimj/cd0b9187ba78aeca8088ba6c11ce8b7e/oai_Parloa_1x1.png?w=3840&q=90&fm=webp)
 
 [Parloa builds service agents customers want to talk toStartupMay 7, 2026](</index/parloa/>)
-
-![oai simplex 1x1](https://images.ctfassets.net/kftzwdyauwt9/7EYQLHWSLyDPZipWsruW76/8e0295766071c4d5b21e07fcb7b85996/oai_simplex_1x1.png?w=3840&q=90&fm=webp)
-
-[Simplex rethinks software development with CodexMay 7, 2026](</index/simplex/>)
-
-![Uber customer story > 1x1 art card and hero image](https://images.ctfassets.net/kftzwdyauwt9/5jnteCaoVnc71jA02qX8gk/0f394157c43c443dd1523a7fab48bc69/oai_Uber_1x1.png?w=3840&q=90&fm=webp)
-
-[Uber uses OpenAI to help people earn smarter and book fasterMay 6, 2026](</index/uber/>)
 
 Load more
 

@@ -45,6 +45,10 @@ Switch cards to show Media
 
 Switch cards to hide Media
 
+![OpenAI Ganassi 1x1](https://images.ctfassets.net/kftzwdyauwt9/2sMgyKsbMrlLNgBeM8SYAh/83460e94830cfb5865cddb57e6fe837f/OpenAI_Ganassi_1x1.jpg?w=3840&q=90&fm=webp)
+
+[Chip Ganassi Racing × OpenAIAPIMay 28, 2026](</index/chip-ganassi-racing/>)
+
 ![frontier-builders > cover image](https://images.ctfassets.net/kftzwdyauwt9/3F5TbrGy9fybfrp1gqrDIH/74aa1addfe0a0e859572fc036a85dcc6/Square.png?w=3840&q=90&fm=webp)
 
 [Frontier BuildersAPIJan 22, 2026](</index/frontier-builders/>)

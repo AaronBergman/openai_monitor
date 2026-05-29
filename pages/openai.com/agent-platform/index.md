@@ -316,8 +316,10 @@ Docs  Use cases
     * [ Linear ](</codex/integrations/linear>)
   * Codex Security
     * [ Overview ](</codex/security>)
-    * [ Setup ](</codex/security/setup>)
-    * [ Improving the threat model ](</codex/security/threat-model>)
+    * [ Codex Security plugin ](</codex/security/plugin>)
+    * Codex Security cloud
+      * [ Setup ](</codex/security/setup>)
+      * [ Improving the threat model ](</codex/security/threat-model>)
     * [ FAQ ](</codex/security/faq>)
 
 
