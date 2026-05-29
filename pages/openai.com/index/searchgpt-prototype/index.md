@@ -50,7 +50,7 @@ Getting answers on the web can take a lot of effort, often requiring multiple at
 
 SearchGPT will quickly and directly respond to your questions with up-to-date information from the web while giving you clear links to relevant sources. 
 
-![A video showing how SearchGPT directly responds to questions with up-to-date information from the web while providing clear links to relevant sources.](https://images.ctfassets.net/kftzwdyauwt9/1tsQj0UZKjBylhnwOWbegB/b39246fd3ef28f8936653df0bd00b446/ChatGPT_Search.png?w=3840&q=90&fm=webp)
+![A video showing how SearchGPT directly responds to questions with up-to-date information from the web while providing clear links to relevant sources.](https://cdn.openai.com/ctf-cdn/SearchGPT_Sources.mp4?w=3840&q=90&fm=webp)
 
 You’ll be able to ask follow-up questions, like you would in a conversation with a person, with the shared context building with each query. 
 

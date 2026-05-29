@@ -45,27 +45,15 @@ Switch cards to show Media
 
 Switch cards to hide Media
 
-![A person standing in a wide, sunlit field of crops, looking down at a smartphone. The OpenAI logo appears on the left side of the image and the word ‘ChatGPT’ appears on the right, overlaid on the landscape.](https://images.ctfassets.net/kftzwdyauwt9/73XngmCyPCbyIdruJ9QoG2/082d2476629db65016060159e00db3b8/Farm_Thumbnail.jpg?w=3840&q=90&fm=webp)
+![OpenAI Ganassi 1x1](https://images.ctfassets.net/kftzwdyauwt9/2sMgyKsbMrlLNgBeM8SYAh/83460e94830cfb5865cddb57e6fe837f/OpenAI_Ganassi_1x1.jpg?w=3840&q=90&fm=webp)
 
-[Small businesses are getting more done with ChatGPTChatGPTFeb 4, 2026](</index/small-business-stories/>)
+[Chip Ganassi Racing × OpenAIAPIMay 28, 2026](</index/chip-ganassi-racing/>)
 
-![A person standing in a wide, sunlit field of crops, looking down at a smartphone. The OpenAI logo appears on the left side of the image and the word ‘ChatGPT’ appears on the right, overlaid on the landscape.](https://images.ctfassets.net/kftzwdyauwt9/73XngmCyPCbyIdruJ9QoG2/082d2476629db65016060159e00db3b8/Farm_Thumbnail.jpg?w=3840&q=90&fm=webp)
+![OpenAI Ganassi 1x1](https://images.ctfassets.net/kftzwdyauwt9/2sMgyKsbMrlLNgBeM8SYAh/83460e94830cfb5865cddb57e6fe837f/OpenAI_Ganassi_1x1.jpg?w=3840&q=90&fm=webp)
 
-[Small businesses are getting more done with ChatGPTChatGPTFeb 4, 2026](</index/small-business-stories/>)
+[Chip Ganassi Racing × OpenAIAPIMay 28, 2026](</index/chip-ganassi-racing/>)
 
-![Health Liz Thumbnail 1x1 \(1\)](https://images.ctfassets.net/kftzwdyauwt9/5LcO0z0rcFn1MAgQQQhc9j/d7cc9654df9e5b89e59b2b268c672932/Health_Liz_Thumbnail_1x1__1_.png?w=3840&q=90&fm=webp)
-
-[Navigating health questions with ChatGPTChatGPTFeb 5, 2026](</index/navigating-health-questions/>)
-
-![OAI GPT5 Thumbnail clean Alpha Pietro 1920x1920](https://images.ctfassets.net/kftzwdyauwt9/496VF4LFnpzfKxdvxNPEkS/8d787bbf4ba89748fd566f8546384658/OAI_GPT5_Thumbnail_clean_Alpha_Pietro_1920x1920.png?w=3840&q=90&fm=webp)
-
-[Coding and design with GPT-5APIAug 7, 2025](</index/gpt-5-coding-design/>)
-
-![Minne Atairu & Sora](https://images.ctfassets.net/kftzwdyauwt9/4lIwZakY4SEB4JsT74WLtU/816b01aafecf3e632478c0a81d3b09da/Minne_Atairu___Sora.jpg?w=3840&q=90&fm=webp)
-
-[Minne Atairu & SoraSoraDec 9, 2024](</index/sora-minne-atairu/>)
-
-![A person standing in a wide, sunlit field of crops, looking down at a smartphone. The OpenAI logo appears on the left side of the image and the word ‘ChatGPT’ appears on the right, overlaid on the landscape.](https://images.ctfassets.net/kftzwdyauwt9/73XngmCyPCbyIdruJ9QoG2/082d2476629db65016060159e00db3b8/Farm_Thumbnail.jpg?w=3840&q=90&fm=webp)
+![SHARP 1x1 COMBINE](https://images.ctfassets.net/kftzwdyauwt9/6yOmkiVrFE8fk9ciEdFLyt/6cec40169a9c3d33c82b7a2935050d9e/SHARP_1x1_COMBINE.png?w=3840&q=90&fm=webp)
 
 [Small businesses are getting more done with ChatGPTChatGPTFeb 4, 2026](</index/small-business-stories/>)
 
@@ -77,9 +65,21 @@ Switch cards to hide Media
 
 [Coding and design with GPT-5APIAug 7, 2025](</index/gpt-5-coding-design/>)
 
-![Minne Atairu & Sora](https://images.ctfassets.net/kftzwdyauwt9/4lIwZakY4SEB4JsT74WLtU/816b01aafecf3e632478c0a81d3b09da/Minne_Atairu___Sora.jpg?w=3840&q=90&fm=webp)
+![OpenAI Ganassi 1x1](https://images.ctfassets.net/kftzwdyauwt9/2sMgyKsbMrlLNgBeM8SYAh/83460e94830cfb5865cddb57e6fe837f/OpenAI_Ganassi_1x1.jpg?w=3840&q=90&fm=webp)
 
-[Minne Atairu & SoraSoraDec 9, 2024](</index/sora-minne-atairu/>)
+[Chip Ganassi Racing × OpenAIAPIMay 28, 2026](</index/chip-ganassi-racing/>)
+
+![SHARP 1x1 COMBINE](https://images.ctfassets.net/kftzwdyauwt9/6yOmkiVrFE8fk9ciEdFLyt/6cec40169a9c3d33c82b7a2935050d9e/SHARP_1x1_COMBINE.png?w=3840&q=90&fm=webp)
+
+[Small businesses are getting more done with ChatGPTChatGPTFeb 4, 2026](</index/small-business-stories/>)
+
+![Health Liz Thumbnail 1x1 \(1\)](https://images.ctfassets.net/kftzwdyauwt9/5LcO0z0rcFn1MAgQQQhc9j/d7cc9654df9e5b89e59b2b268c672932/Health_Liz_Thumbnail_1x1__1_.png?w=3840&q=90&fm=webp)
+
+[Navigating health questions with ChatGPTChatGPTFeb 5, 2026](</index/navigating-health-questions/>)
+
+![OAI GPT5 Thumbnail clean Alpha Pietro 1920x1920](https://images.ctfassets.net/kftzwdyauwt9/496VF4LFnpzfKxdvxNPEkS/8d787bbf4ba89748fd566f8546384658/OAI_GPT5_Thumbnail_clean_Alpha_Pietro_1920x1920.png?w=3840&q=90&fm=webp)
+
+[Coding and design with GPT-5APIAug 7, 2025](</index/gpt-5-coding-design/>)
 
 ![frontier-builders > cover image](https://images.ctfassets.net/kftzwdyauwt9/3F5TbrGy9fybfrp1gqrDIH/74aa1addfe0a0e859572fc036a85dcc6/Square.png?w=3840&q=90&fm=webp)
 
