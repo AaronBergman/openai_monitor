@@ -1,5 +1,51 @@
 # openai_monitor
 
+## 2026-05-30 — Rosalind Biodefense Launch, Boston Children's + Braintrust Stories, Major Site Cleanup
+
+**Fetch time:** 2026-05-30T09:16Z UTC | **Baseline:** 2026-05-29T09-16Z
+
+**TL;DR:** The headline today is the launch of **Rosalind Biodefense** — OpenAI's new dedicated program to accelerate AI-powered biodefense and pandemic preparedness. The initiative includes a purpose-built model called GPT‑Rosalind, an open application program for vetted developers building biodefense tools, and expanded access for U.S. government and allied partners. Accompanying the launch: two new customer stories (Boston Children's Hospital using AI to diagnose previously undiagnosable rare diseases; Braintrust using Codex + GPT‑5.5 to turn customer requests into code in minutes) and a safety publication on designing trustworthy third-party model evaluations. The homepage cycled off the Chip Ganassi Racing feature, replaced by Boston Children's Hospital and Braintrust. A large site cleanup removed 28 pages — most notably the entire DeployCo section (which was returning 404s yesterday), plus `/agent-platform/`, `/science/`, `/foundation/`, `/safety/evaluations-hub/`, `/advertisers/`, and several deprecated policies. The 826 "updated" sitemap entries reflect a site-wide CMS cascade: nearly every customer story and index page had its "related content" carousel updated to feature the new Boston Children's Hospital and Braintrust stories; actual content changes are minimal on those pages.
+
+### Featured Launch: Rosalind Biodefense
+
+- [**Strengthening societal resilience with Rosalind Biodefense**](pages/openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense/index.md) (`/index/strengthening-societal-resilience-with-rosalind-biodefense/`, lastmod: 2026-05-30) — Announced May 29. OpenAI is launching two new steps for "defensive acceleration in biology": (1) the **Rosalind Biodefense program**, an open application process for vetted developers to build new biodefense and pandemic preparedness applications; (2) expanded access to **GPT‑Rosalind** for select U.S. government and allied partners. The article emphasizes putting frontier AI in the hands of defenders — pandemic preparedness, medical countermeasures, biosurveillance — with responsible deployment structures and trusted access models. Named after Rosalind Franklin.
+
+- [**Rosalind Biodefense Application Form**](pages/openai.com/form/rosalind-biodefense-program/index.md) (`/form/rosalind-biodefense-program/`) — The application form for vetted developers to join the program.
+
+- **Life Sciences industry page updated** ([`/solutions/industries/life-sciences/`](pages/openai.com/solutions/industries/life-sciences/index.md)) — The page was substantially redesigned around the Rosalind announcement. The old headline "Advance the next generation of treatments" was replaced with a new section titled **"GPT‑Rosalind"** described as "a purpose-built model to accelerate scientific research and drug discovery." The life-sciences access form now accepts both "Life sciences institutions" and "Government institutions."
+
+### New Customer Stories
+
+- [**Boston Children's Hospital**](pages/openai.com/index/boston-childrens-hospital/index.md) (`/index/boston-childrens-hospital/`, May 29) — Enterprise story: The hospital treats AI as core infrastructure to cut costs, expand capacity, and diagnose cases previously thought impossible. Focus areas include rare disease diagnosis, genetic research workflows, and scaling care across operations. This story is now featured on the homepage.
+
+- [**Braintrust**](pages/openai.com/index/braintrust/index.md) (`/index/braintrust/`, May 29) — Braintrust engineers use Codex with GPT‑5.5 to turn inbound customer feature requests into working preview branches in minutes, and run larger-scale engineering experiments. Part of the ongoing Codex enterprise customer story push.
+
+### Safety Publication
+
+- [**A shared playbook for trustworthy third-party evaluations**](pages/openai.com/index/trustworthy-third-party-evaluations-foundations/index.md) (`/index/trustworthy-third-party-evaluations-foundations/`, May 29) — A safety research post about how to design valid independent evaluations of frontier AI models. Key insight: today's frontier models operate in complex "harness" environments (tools, multi-step workflows, etc.), so evaluation validity depends heavily on how the harness is set up — not just the model's raw responses. The post proposes a shared framework for claims (capability elicitation, mitigation effectiveness, risk assessment) and flags known hazards that distort evaluation results.
+
+### Homepage Change
+
+The [homepage](pages/openai.com/index.md) cycled off the Chip Ganassi Racing × OpenAI feature (promoted yesterday) and now features Boston Children's Hospital and Braintrust as the top customer stories.
+
+### Removed Pages (Notable)
+
+- **DeployCo section entirely removed**: `/deployco/`, `/deployco/privacy-policy/`, `/deployco/terms-of-use/` — These were in the sitemap but returning HTTP 404 yesterday; now they are gone from the sitemap entirely. The "Deployment Company" product appears to have been quietly retired.
+- `/agent-platform/` — The agent platform landing page is gone.
+- `/science/` — The science section removed.
+- `/foundation/` — The OpenAI Foundation landing page removed (the Foundation itself still exists at openaifoundation.org).
+- `/safety/evaluations-hub/` — Evaluations hub removed from the safety section.
+- `/advertisers/` — Advertisers page removed.
+- `/chatgpt/download/` — ChatGPT download page removed (likely superseded by app store links).
+- `/solutions/healthcare/` — Old healthcare URL removed (the new path is `/solutions/industries/healthcare/`).
+- `/business/guides-and-resources/` — Index page for the guides section removed.
+- `/reserved-capacity/` and `/policies/sora-usage-policies/` — Capacity reservation page and Sora-specific usage policy removed.
+- 8 more legacy/deprecated policy and content pages removed.
+
+**Stats:** 1311 total URLs | +5 added | ~826 updated (CMS cascade; ~800 are related-content carousel refreshes) | -28 removed | 0 anomalies | 0 fetch failures | 32 sub-sitemaps
+
+---
+
 ## 2026-05-29 — Frontier Governance Framework, MUFG/Endava/CGR Customer Stories, Policy Cleanup
 
 **Fetch time:** 2026-05-29T09:17Z UTC | **Baseline:** 2026-05-28T09-17Z

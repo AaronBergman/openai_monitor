@@ -48,6 +48,12 @@ Switch cards to hide Media
 
 Product
 
+May 29, 2026
+
+[Strengthening societal resilience with Rosalind BiodefenseOpenAI launches Rosalind Biodefense, expanding trusted access to GPT-Rosalind for vetted developers and U.S. government partners advancing biodefense, public health, and pandemic preparedness through frontier AI.](</index/strengthening-societal-resilience-with-rosalind-biodefense/>)
+
+Product
+
 May 7, 2026
 
 [Advancing voice intelligence with new models in the APIExplore new realtime voice models in the OpenAI API that can reason, translate, and transcribe speech, enabling more natural and intelligent voice experiences.](</index/advancing-voice-intelligence-with-new-models-in-the-api/>)
@@ -93,12 +99,6 @@ Product
 Mar 3, 2026
 
 [GPT-5.3 Instant: Smoother, more useful everyday conversations](</index/gpt-5-3-instant/>)
-
-Product
-
-Feb 12, 2026
-
-[Introducing GPT-5.3-Codex-SparkIntroducing GPT-5.3-Codex-Spark—our first real-time coding model. 15x faster generation, 128k context, now in research preview for ChatGPT Pro users.](</index/introducing-gpt-5-3-codex-spark/>)
 
 Load more
 

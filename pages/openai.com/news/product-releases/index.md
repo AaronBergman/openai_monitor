@@ -50,6 +50,10 @@ Switch cards to show Media
 
 Switch cards to hide Media
 
+![1x1](https://images.ctfassets.net/kftzwdyauwt9/6ui4uYfTTbR4xbiFRcqEfo/81d973f14bea720820f692271f6c6834/square.png?w=3840&q=90&fm=webp)
+
+[Strengthening societal resilience with Rosalind BiodefenseProductMay 29, 2026](</index/strengthening-societal-resilience-with-rosalind-biodefense/>)
+
 ![Personal finance in ChatGPT > Media > Cover](https://images.ctfassets.net/kftzwdyauwt9/4zSr4YNWXIEYz20piN2bxf/6f9a561be6055802914aee0a3bb671d7/ArtCard-Personal-Finance.png?w=3840&q=90&fm=webp)
 
 [A new personal finance experience in ChatGPTProductMay 15, 2026](</index/personal-finance-chatgpt/>)
@@ -81,10 +85,6 @@ Switch cards to hide Media
 ![Amazon Bedrock > card image](https://images.ctfassets.net/kftzwdyauwt9/5DqGp6lqqjI16dbVGV51bh/424a7571ca3dd889488e3422753e4e44/oai-aws-1x1.png?w=3840&q=90&fm=webp)
 
 [OpenAI models, Codex, and Managed Agents come to AWSProductApr 28, 2026](</index/openai-on-aws/>)
-
-![Hero Art Card SEO 1x1](https://images.ctfassets.net/kftzwdyauwt9/cut4wyUCuBENXfd5CSI7Z/d934ffb49d8b39abea0bc33bb1a5b916/Hero_Art_Card_SEO_1x1.jpg?w=3840&q=90&fm=webp)
-
-[Introducing GPT-5.5ProductApr 23, 2026](</index/introducing-gpt-5-5/>)
 
 Load more
 
