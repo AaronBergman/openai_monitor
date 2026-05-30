@@ -63,6 +63,10 @@ Developing safe and beneficial AI requires people from a wide range of disciplin
 
 * * *
 
+![1x1](https://images.ctfassets.net/kftzwdyauwt9/6ui4uYfTTbR4xbiFRcqEfo/81d973f14bea720820f692271f6c6834/square.png?w=3840&q=90&fm=webp)
+
+[Strengthening societal resilience with Rosalind BiodefenseProduct](</index/strengthening-societal-resilience-with-rosalind-biodefense/>)
+
 ![Geometry > ArtCard > Polynomial Construction](https://images.ctfassets.net/kftzwdyauwt9/6PqehRMmS1oVuin6e3VWYq/b96f1c7b5a2ac2c08a887591b8486ed3/ArtCard-Polynomial-Construction.png?w=3840&q=90&fm=webp)
 
 [An OpenAI model has disproved a central conjecture in discrete geometryResearch](</index/model-disproves-discrete-geometry-conjecture/>)
@@ -74,10 +78,6 @@ Developing safe and beneficial AI requires people from a wide range of disciplin
 ![System Card 1x1](https://images.ctfassets.net/kftzwdyauwt9/2VCkKLVmTyNs0XGbqdxGeA/33ff7738f4e795ae0ee41ed2b4a985d3/System_Card_1x1.jpg?w=3840&q=90&fm=webp)
 
 [GPT-5.5 Instant System CardSafety](</index/gpt-5-5-instant-system-card/>)
-
-![20250826](https://images.ctfassets.net/kftzwdyauwt9/2H347RfdThVOeTfSBchxDx/8a053f4cfa92faeed7141265dd02e7dd/20250826.jpg?w=3840&q=90&fm=webp)
-
-[GPT-5.5 Instant: smarter, clearer, and more personalizedProduct](</index/gpt-5-5-instant/>)
 
   * [Read more](</news/company-announcements/>)
 

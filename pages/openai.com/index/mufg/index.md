@@ -67,7 +67,7 @@ MUFG is one of Japan's largest financial groups, with Mitsubishi UFJ Bank at its
 
 For MUFG, AI is more than an efficiency tool. The company sees it as a way to extend human thinking and creativity, helping employees and AI learn together as they build better financial services. To advance that vision, MUFG is working with OpenAI to roll out ChatGPT Enterprise across Mitsubishi UFJ Bank and create new AI-powered customer experiences.
 
-In October 2024, MUFG began working with OpenAI to modernize financial operations and improve efficiency with generative AI. Beginning in 2026, Mitsubishi UFJ Bank began a phased rollout of ChatGPT Enterprise so that approximately 35,000 employees could use it in their daily work, as MUFG continues its journey toward becoming an AI-native company.
+In October 2024, MUFG began working with OpenAI to modernize financial operations and improve efficiency with generative AI. Beginning in 2026, Mitsubishi UFJ Bank began a phased rollout of ChatGPT Enterprise so that approximately 35,000 employees could use it in their daily work, as MUFG continues its journey toward becoming an AI-native company. 
 
 ## Building an AI-native foundation with OpenAI
 
@@ -145,17 +145,17 @@ More than 1 million businesses around the world are achieving meaningful results
 
 ## Keep reading
 
-![oai Endava 1x1](https://images.ctfassets.net/kftzwdyauwt9/2R1En1qK4AOSKcuZRpKxco/64ddf998210a4e3f1a3b4c08acba25e2/oai_endava_1x1.png?w=3840&q=90&fm=webp)
+![Boston Children’s Hospital card image](https://images.ctfassets.net/kftzwdyauwt9/4ROfsRLHlfzYGOnvawnoKG/ced960114b4b5c599cd1394513403b31/boston-childrens-card-1x1.png?w=3840&q=90&fm=webp)
 
-[How Endava builds an agentic organization with CodexMay 28, 2026](</index/endava/>)
+[Boston Children’s uses AI to unlock new diagnosesMay 29, 2026](</index/boston-childrens-hospital/>)
 
-![Frontier Governance Framework > card image ](https://images.ctfassets.net/kftzwdyauwt9/2KoiHuErR5YxXGUnhCU8VY/e392c6249ec4644e07e944edea22e837/Frame2.png?w=3840&q=90&fm=webp)
+![Braintrust customer story art card 1x1](https://images.ctfassets.net/kftzwdyauwt9/7hFHaiuRbzcpJRR9SP9ojI/663748f3a33b4f26f4cfd42cfd1ec250/oai_braintrust_1x1.png?w=3840&q=90&fm=webp)
 
-[OpenAI’s Frontier Governance FrameworkSafetyMay 28, 2026](</index/openai-frontier-governance-framework/>)
+[How Braintrust turns customer requests into code with CodexMay 29, 2026](</index/braintrust/>)
 
-![oai Cisco 1x1](https://images.ctfassets.net/kftzwdyauwt9/34uiao4dZziOAyyKO40gSJ/cb6842aa761bc32b495d19976ced17bd/oai_Cisco_1x1.png?w=3840&q=90&fm=webp)
+![1x1](https://images.ctfassets.net/kftzwdyauwt9/6ui4uYfTTbR4xbiFRcqEfo/81d973f14bea720820f692271f6c6834/square.png?w=3840&q=90&fm=webp)
 
-[Cisco and OpenAI redefine enterprise engineering with CodexMay 27, 2026](</index/cisco/>)
+[Strengthening societal resilience with Rosalind BiodefenseProductMay 29, 2026](</index/strengthening-societal-resilience-with-rosalind-biodefense/>)
 
 Our Research
 

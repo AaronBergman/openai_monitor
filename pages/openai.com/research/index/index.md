@@ -46,6 +46,12 @@ Switch cards to show Media
 
 Switch cards to hide Media
 
+Product
+
+May 29, 2026
+
+[Strengthening societal resilience with Rosalind BiodefenseOpenAI launches Rosalind Biodefense, expanding trusted access to GPT-Rosalind for vetted developers and U.S. government partners advancing biodefense, public health, and pandemic preparedness through frontier AI.](</index/strengthening-societal-resilience-with-rosalind-biodefense/>)
+
 Research
 
 May 20, 2026
@@ -58,17 +64,17 @@ May 7, 2026
 
 [Advancing voice intelligence with new models in the APIExplore new realtime voice models in the OpenAI API that can reason, translate, and transcribe speech, enabling more natural and intelligent voice experiences.](</index/advancing-voice-intelligence-with-new-models-in-the-api/>)
 
-Product
-
-May 5, 2026
-
-[GPT-5.5 Instant: smarter, clearer, and more personalizedGPT-5.5 Instant updates ChatGPT’s default model with smarter, more accurate answers, reduced hallucinations, and improved personalization controls.](</index/gpt-5-5-instant/>)
-
 Safety
 
 May 5, 2026
 
 [GPT-5.5 Instant System Card](</index/gpt-5-5-instant-system-card/>)
+
+Product
+
+May 5, 2026
+
+[GPT-5.5 Instant: smarter, clearer, and more personalizedGPT-5.5 Instant updates ChatGPT’s default model with smarter, more accurate answers, reduced hallucinations, and improved personalization controls.](</index/gpt-5-5-instant/>)
 
 Publication
 
@@ -76,29 +82,23 @@ Apr 29, 2026
 
 [Where the goblins came fromHow goblin outputs spread in AI models: timeline, root cause, and fixes behind personality-driven quirks in GPT-5 behavior.](</index/where-the-goblins-came-from/>)
 
-Product
-
-Apr 23, 2026
-
-[Introducing GPT-5.5Introducing GPT-5.5, our smartest model yet—faster, more capable, and built for complex tasks like coding, research, and data analysis across tools.](</index/introducing-gpt-5-5/>)
-
 Safety
 
 Apr 23, 2026
 
 [GPT-5.5 System Card](</index/gpt-5-5-system-card/>)
 
+Product
+
+Apr 23, 2026
+
+[Introducing GPT-5.5Introducing GPT-5.5, our smartest model yet—faster, more capable, and built for complex tasks like coding, research, and data analysis across tools.](</index/introducing-gpt-5-5/>)
+
 Research
 
 Apr 22, 2026
 
 [Introducing OpenAI Privacy FilterOpenAI Privacy Filter is an open-weight model for detecting and redacting personally identifiable information (PII) in text with state-of-the-art accuracy](</index/introducing-openai-privacy-filter/>)
-
-Product
-
-Apr 21, 2026
-
-[Introducing ChatGPT Images 2.0ChatGPT Images 2.0 introduces a state-of-the-art image generation model with improved text rendering, multilingual support, and advanced visual reasoning.](</index/introducing-chatgpt-images-2-0/>)
 
 Load more
 
