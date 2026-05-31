@@ -40,7 +40,7 @@ Loading…
 
 Share
 
-OpenAI is proud to work with Estonia’s government on a world-first initiative to provide all students and teachers in the secondary school system with access to [_ChatGPT Edu_](</chatgpt/education/>) , a version of ChatGPT customized for education systems, starting with 10th and 11th graders by September 2025. 
+OpenAI is proud to work with Estonia’s government on a world-first initiative to provide all students and teachers in the secondary school system with access to [_ChatGPT Edu_ ⁠(opens in a new window)](<https://chatgpt.com/business/education>), a version of ChatGPT customized for education systems, starting with 10th and 11th graders by September 2025. 
 
 To date, ChatGPT has become a go-to tool for students globally to personalize their education and advance their personal development. Most ChatGPT users—nearly four in five—are under the age of 35 and the majority of conversations are focused on learning and schoolwork. By supporting AI literacy programs, expanding access to AI, and developing policies to make AI training accessible and affordable, we can ensure students will be better equipped as the workforce of the future.
 

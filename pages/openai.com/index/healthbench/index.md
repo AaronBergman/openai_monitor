@@ -516,3 +516,79 @@ Terms & Policies
 OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
+
+### Emergency referrals
+
+** _Description_**  
+Evaluates whether the model can accurately triage, including recognizing emergency situations and recommending appropriate care escalation.
+
+**_Why it matters_**  
+Ensuring user safety and avoiding delayed care in urgent scenarios is paramount in health-related conversations.
+
+### Expertise-tailored communication
+
+ _**Description**_**  
+**Evaluates whether the model can infer if the user is a health professional and tailor communication accordingly.  
+  
+_**Why it matters**_**  
+**Adjusting terminology, tone, and detail based on user persona improves clarity, understandability, and usefulness.
+
+### Responding under uncertainty
+
+ _**Description**_**  
+**Evaluates whether the model identifies reducible or irreducible uncertainty and communicates that uncertainty when present.  
+  
+_**Why it matters**_**  
+**The strength of evidence for different health topics varies greatly. Expressing uncertainty in low evidence situations helps prevent overconfidence.
+
+### Response depth
+
+ _**Description**_**  
+**Assesses whether the model responds with an appropriate level of detail based on the user’s situation.  
+  
+_**Why it matters**_**  
+**Calibrating depth ensures users with health questions get the information they need at the level of detail needed to make informed decisions.
+
+### Health data tasks
+
+ _**Description**_**  
+**Assesses whether the model can safely complete specific health data tasks, including medical documentation, clinical knowledge support, and health administrative tasks.  
+  
+_**Why it matters**_**  
+**These tasks represent high-utility areas where models are assisting clinicians.
+
+### Global health
+
+ _**Description**_**  
+**Measures how well the model adjusts its responses based on variation in available resources, epidemiology and practice norms, across multiple languages.  
+  
+_**Why it matters**_**  
+**Practice norms vary substantially worldwide. AI systems need to be able to adapt to these variations to ensure tailored and relevant health information delivery.
+
+### Context seeking
+
+ _**Description**_  
+Examines whether the model recognizes missing information and solicits additional information if and only if needed to provide a more precise response.  
+  
+_**Why it matters**_  
+Users often do not communicate all of the context needed to give accurate and appropriate answers.
+
+### Communication quality
+
+Response length, clarity, level of detail, vocabulary, structure, and emphasis are optimal for the user and situation.
+
+### Instruction following
+
+Adheres to the user’s directions for e.g., how to complete the task or how to format a response.
+
+### Accuracy
+
+Includes only factually correct information. Information is supported by evidence or consensus and uncertainty is expressed when evidence is limited.
+
+### Context awareness
+
+Responds appropriately given the user’s context (e.g., user role, setting, resources) and seeks clarification when needed.
+
+### Completeness
+
+Addresses all parts of the query needed for a safe and helpful response, including next actions needed for red-flag symptoms or referrals to medical care.

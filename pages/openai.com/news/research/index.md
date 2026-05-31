@@ -50,6 +50,10 @@ Switch cards to show Media
 
 Switch cards to hide Media
 
+![1x1](https://images.ctfassets.net/kftzwdyauwt9/6ui4uYfTTbR4xbiFRcqEfo/81d973f14bea720820f692271f6c6834/square.png?w=3840&q=90&fm=webp)
+
+[Strengthening societal resilience with Rosalind BiodefenseProductMay 29, 2026](</index/strengthening-societal-resilience-with-rosalind-biodefense/>)
+
 ![Geometry > ArtCard > Polynomial Construction](https://images.ctfassets.net/kftzwdyauwt9/6PqehRMmS1oVuin6e3VWYq/b96f1c7b5a2ac2c08a887591b8486ed3/ArtCard-Polynomial-Construction.png?w=3840&q=90&fm=webp)
 
 [An OpenAI model has disproved a central conjecture in discrete geometryResearchMay 20, 2026](</index/model-disproves-discrete-geometry-conjecture/>)
@@ -70,21 +74,17 @@ Switch cards to hide Media
 
 [Where the goblins came fromPublicationApr 29, 2026](</index/where-the-goblins-came-from/>)
 
-![Hero Art Card SEO 1x1](https://images.ctfassets.net/kftzwdyauwt9/cut4wyUCuBENXfd5CSI7Z/d934ffb49d8b39abea0bc33bb1a5b916/Hero_Art_Card_SEO_1x1.jpg?w=3840&q=90&fm=webp)
-
-[Introducing GPT-5.5ProductApr 23, 2026](</index/introducing-gpt-5-5/>)
-
 ![System Card Card SEO 1x1](https://images.ctfassets.net/kftzwdyauwt9/7qMrOFCWWMweIDBUpYFr79/7741661650df6eb935acb5bda179b091/System_Card_Card_SEO_1x1.jpg?w=3840&q=90&fm=webp)
 
 [GPT-5.5 System CardSafetyApr 23, 2026](</index/gpt-5-5-system-card/>)
 
+![Hero Art Card SEO 1x1](https://images.ctfassets.net/kftzwdyauwt9/cut4wyUCuBENXfd5CSI7Z/d934ffb49d8b39abea0bc33bb1a5b916/Hero_Art_Card_SEO_1x1.jpg?w=3840&q=90&fm=webp)
+
+[Introducing GPT-5.5ProductApr 23, 2026](</index/introducing-gpt-5-5/>)
+
 ![Introducing OpenAI Privacy Filter](https://images.ctfassets.net/kftzwdyauwt9/1QC19b0SnrQJTDqGRfze1s/e1eb7f76da62522b1bd0c9a6f553833d/ArtCard-Introducing-OpenAI-Filter.png?w=3840&q=90&fm=webp)
 
 [Introducing OpenAI Privacy FilterResearchApr 22, 2026](</index/introducing-openai-privacy-filter/>)
-
-![Images 2.0 blog art card](https://images.ctfassets.net/kftzwdyauwt9/7fPF7LU0YzPr5PrlNT6lo3/823a11178d4aac15d4f4260b9fcc490d/Blog_art_card.png?w=3840&q=90&fm=webp)
-
-[Introducing ChatGPT Images 2.0ProductApr 21, 2026](</index/introducing-chatgpt-images-2-0/>)
 
 Load more
 

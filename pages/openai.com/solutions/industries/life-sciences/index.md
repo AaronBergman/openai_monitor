@@ -28,13 +28,13 @@ OpenAI
 
 OpenAI for life sciences
 
-# Advance the next generation of treatments
+# GPT‑Rosalind
 
-Apply enterprise-ready solutions that streamline R&D, clinical, and commercial operations to bring breakthroughs to market faster.
+A purpose-built model to accelerate scientific research and drug discovery.
 
-[Contact sales](<https://openai.com/contact-sales/?utm_medium=content&utm_source=solutions&utm_campaign=WEB-industries_life_sciences>)
+[Contact sales](<https://openai.com/contact-sales/?utm_medium=content&utm_source=solutions&utm_campaign=WEB-industries_life_sciences>)[Request access](</form/life-sciences-access/>)
 
-![Three scientists in lab coats examining data on a screen or sample closely. The group includes a man and two women, all focused intently, in a modern laboratory setting.](https://images.ctfassets.net/kftzwdyauwt9/68ZEaNcm5rETZIRz59q6FW/c2b0dc91b6bf83e74ca8141178f6590c/hero.png?w=3840&q=90&fm=webp)
+![Three scientists in lab coats examining data on a screen or sample closely. The group includes a man and two women, all focused intently, in a modern laboratory setting.](https://images.ctfassets.net/kftzwdyauwt9/1D6nnZ4EvlhS7bGdCna7OC/b3fade9e482d3bc9cacdea118cf8e5f3/hero.png?w=3840&q=90&fm=webp)
 
 ### Trusted by leading innovators in life sciences
 

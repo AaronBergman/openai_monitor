@@ -86,17 +86,17 @@ OpenAI
 
 [View all](</news/>)
 
-![Futures 1 1](https://images.ctfassets.net/kftzwdyauwt9/7l4mPpfnMDZNfjmksyuILI/5e280d8d490f625b3fc414d9824e96ac/Futures_1_1.png?w=3840&q=90&fm=webp)
+![Technical foundations > Art Card](https://images.ctfassets.net/kftzwdyauwt9/6gugGfSiM1oO6UHxxwnqTk/c7173a5a2c096a8f8a24c258ddfa22dd/ArtCard-TechnicalFoundations.png?w=3840&q=90&fm=webp)
 
-[Introducing ChatGPT Futures: Class of 2026CompanyMay 6, 2026](</index/introducing-chatgpt-futures-class-of-2026/>)
+[A shared playbook for trustworthy third party evaluationsSafetyMay 29, 2026](</index/trustworthy-third-party-evaluations-foundations/>)
 
-![What frontier enterprises do differently > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/4kKQaeWGl9atcyE51ri1ZW/3aa677511fa40bc0a4b089ef6cd9698f/Frame.png?w=3840&q=90&fm=webp)
+![Frontier Governance Framework > card image ](https://images.ctfassets.net/kftzwdyauwt9/2KoiHuErR5YxXGUnhCU8VY/e392c6249ec4644e07e944edea22e837/Frame2.png?w=3840&q=90&fm=webp)
 
-[How frontier enterprises are building an AI advantageCompanyMay 6, 2026](</index/introducing-b2b-signals/>)
+[OpenAI’s Frontier Governance FrameworkSafetyMay 28, 2026](</index/openai-frontier-governance-framework/>)
 
-![System Card 1x1](https://images.ctfassets.net/kftzwdyauwt9/2VCkKLVmTyNs0XGbqdxGeA/33ff7738f4e795ae0ee41ed2b4a985d3/System_Card_1x1.jpg?w=3840&q=90&fm=webp)
+![Art card \(4\)](https://images.ctfassets.net/kftzwdyauwt9/26wgJNYWk0soRoyZvBmYmo/dc80fc33c0a60bd566816f2323f31dc2/Art_card__4_.png?w=3840&q=90&fm=webp)
 
-[GPT-5.5 Instant System CardSafetyMay 5, 2026](</index/gpt-5-5-instant-system-card/>)
+[Advancing content provenance for a safer, more transparent AI ecosystemSafetyMay 19, 2026](</index/advancing-content-provenance/>)
 
 Our Research
 
@@ -193,3 +193,68 @@ Terms & Policies
 OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
+
+### What kinds of topics are you looking for?
+
+We present these potential topics of exploration as examples, but this is not meant to be a comprehensive list of all potential research directions. Successful proposals can pertain to topics that are not included on this list. 
+
+Potential areas of interest include:
+
+  * _How expressions of distress, delusion, or other mental health-related language vary across cultures and languages, and how these differences affect detection or interpretation by AI systems_
+
+  *  _Perspectives from individuals with lived experience on what feels safe, supportive, or harmful when interacting with AI-powered chatbots_
+
+  *  _How mental healthcare providers currently use AI tools, including what is effective, what falls short, and where safety risks emerge_
+
+  *  _The potential of AI systems to promote healthy, pro-social behaviors and reduce harm_
+
+  *  _The robustness of existing AI model safeguards to vernacular, slang, and under-represented linguistic patterns—particularly in low-resource languages_
+
+  *  _How AI systems should adjust tone, style, and framing when responding to youth and adolescents to ensure that guidance feels age-appropriate, respectful, and accessible, with deliverables such as evaluation rubrics, style guidelines, or annotated examples of effective vs. ineffective phrasing across age groups_
+
+  *  _How stigma associated with mental illness may surface in language model recommendations or interaction styles_
+
+  *  _How AI systems interpret or respond to visual indicators related to body dysmorphia or eating disorders, including the creation of ethically collected, annotated multimodal datasets and evaluation tasks that capture common real-world patterns of distress_
+
+  *  _How AI systems can provide compassionate, sensitive support to individuals experiencing grief -- helping them process loss, maintain connections, and access coping resources -- along with deliverables such as exemplar response patterns, tone/style guidelines, or evaluation rubrics for assessing supportive grief-related interactions_
+
+
+
+
+### What kinds of outputs are you expecting from funded projects?
+
+We’re sharing illustrative examples of deliverables below to help spark proposals, but these are by no means exhaustive:
+
+  * _Research papers that aim to gather evidence around the above areas of interest, or related matters_
+
+  *  _Taxonomies of model behavior in sensitive contexts that could be further improved_
+
+  *  _Culturally or linguistically diverse datasets_
+
+  *  _Prototype interaction flows showing contextually appropriate conversational patterns_
+
+
+
+
+### What are the eligibility criteria for this funding?
+
+  * Must be 18 or older 
+
+  * Affiliated with a research institution or organization, and/or significant experience with mental health
+
+  * We are seeking to fund research rather than for-profit initiatives, so we will not prioritize for profit organizations at this time
+
+
+
+
+### What budgets are available for each project?
+
+We will award targeted research grants with proposed budgets between $5,000 and $100,000, totaling up to $2 million.
+
+### Are these grants funded by OpenAI Foundation or OpenAI Group PBC?
+
+The grants are funded and administered by OpenAI Group PBC. This program is separate from our [_People-First AI Fund_ ⁠](<https://openai.com/index/people-first-ai-fund/>) and other initiatives from the OpenAI Foundation.
+
+### Who can I contact for any questions about this grant?
+
+Email [mentalhealthresearchgrants@openai.com⁠](<mentalhealthresearchgrants@openai.com>). Note that we will not be providing status updates for individual applications that are not selected.

@@ -1,5 +1,44 @@
 # openai_monitor
 
+
+## 2026-05-31T09-17Z — Rosalind Biodefense Launches, DeployCo De-listed, 24 Pages Removed
+
+**TL;DR:** OpenAI publicly launched "Rosalind Biodefense" — a vetted-access program granting free API access to a named model variant called GPT-Rosalind for defensive biology research. This is the first time a "Rosalind" model variant has appeared on OpenAI's public website. Five new pages were added (the blog post, an application form, two customer case studies for Boston Children's Hospital and Braintrust, and a technical paper on third-party evaluations). More notably, 24 pages were quietly removed from the sitemap, including the ChatGPT advertisers page, all three "DeployCo" sub-brand pages (which debuted just 11 days ago and are already gone), the OpenAI agent-platform developer page, the Foundation landing page, two Sora policy pages, the current business-terms URL, and the healthcare solutions page. The 271 "updated" URLs are a routine CMS ripple from new content being featured in sidebars across the site. No anomalies.
+
+### New Pages
+
+- [**Strengthening societal resilience with Rosalind Biodefense**](pages/openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense/index.md) (`/index/strengthening-societal-resilience-with-rosalind-biodefense/`, lastmod: 2026-05-29) — Blog post announcing "Rosalind Biodefense," a trusted-access program deploying a named model variant (GPT-Rosalind) for defensive biology use cases — biosurveillance, epidemiological modeling, preparedness, non-pharmaceutical interventions, and MCM development. Access is gated through a formal vetting process. First appearance of a "Rosalind" model name on the public site.
+
+- [**Rosalind Biodefense Program application form**](pages/openai.com/form/rosalind-biodefense-program/index.md) (`/form/rosalind-biodefense-program/`, lastmod: 2026-05-29) — The companion application form for the program above. Offers free GPT-Rosalind API access to vetted researchers, public health teams, and mission-driven organizations.
+
+- [**Boston Children's Hospital uses AI to unlock new diagnoses**](pages/openai.com/index/boston-childrens-hospital/index.md) (`/index/boston-childrens-hospital/`, lastmod: 2026-05-30) — Customer case study. One of the world's largest pediatric hospitals (~1M outpatient visits/year) deployed an enterprise AI layer for supply chain, billing, and operations. Healthcare vertical story.
+
+- [**How Braintrust turns customer requests into code with Codex**](pages/openai.com/index/braintrust/index.md) (`/index/braintrust/`, lastmod: 2026-05-30) — Case study. Braintrust (AI evaluation platform) uses Codex + GPT-5.5 to convert customer feature requests into preview branches in minutes. Emphasizes speed enabling "autonomous problem-solving."
+
+- [**A shared playbook for trustworthy third party evaluations**](pages/openai.com/index/trustworthy-third-party-evaluations-foundations/index.md) (`/index/trustworthy-third-party-evaluations-foundations/`, lastmod: 2026-05-31) — Technical paper on harness design for independent AI evaluations, particularly for multi-step agentic systems. Part of OpenAI's push for credible external evaluation methodology.
+
+### Notable Updates
+
+- **https://openai.com/research/index/** and **https://openai.com/news/research/**: Research/news indexes now lead with "Rosalind Biodefense," replacing "ChatGPT Images 2.0." Routine editorial rotation.
+- **271 total updated pages**: Virtually all are sidebar/related-content refreshes — Boston Children's Hospital and Rosalind Biodefense now appear in "Related stories" widgets across the site, bumping the CMS lastmod for each page they appear on.
+
+### Removed Pages (24)
+
+- **`openai.com/advertisers/`** — ChatGPT advertising product page. Marketed ChatGPT as an ad channel ("Reach people as they explore options, compare choices, and make decisions in ChatGPT"). Notable removal; may signal a strategy shift on the ads product.
+- **`openai.com/deployco/`** + `/deployco/privacy-policy/` + `/deployco/terms-of-use/` — "DeployCo" sub-brand debuted 2026-05-20 (11 days ago) and is already de-listed. Had its own privacy policy and ToU suggesting a distinct legal identity. Very short lifespan; likely renamed or scrapped.
+- **`openai.com/business/the-openai-deployment-company/`** — Paired with DeployCo; marketing page for the "OpenAI Deployment Company" concept.
+- **`openai.com/agent-platform/`** — Developer-facing agent platform page. Likely part of a developer portal restructuring.
+- **`openai.com/foundation/`** — OpenAI Foundation landing page; Foundation content migrating to its own domain (openaifoundation.org).
+- **`openai.com/policies/business-terms/`** — The "current" business terms URL de-listed; historical versions (nov-2023, aug-2023, may-2025) remain. The page had "Effective: January 1, 2026."
+- **`openai.com/policies/sora-usage-policies/`** + `/policies/creating-sora-videos-in-line-with-our-policies/`** — Both Sora-specific policy pages removed; likely merged into general usage policies.
+- **`openai.com/safety/evaluations-hub/`** — Was actually served from deploymentsafety.openai.com; removal from openai.com sitemap confirms migration to that subdomain.
+- **`openai.com/science/`** — Science section de-listed; likely merged into /research/.
+- **`openai.com/solutions/healthcare/`** — Healthcare vertical solutions page removed.
+- Other: `chatgpt/download/`, `chatgpt/search-product-discovery/`, `contributions/`, `devday/directory/`, `form/custom-models/`, `newsroom/global-affairs/`, `newsroom/security/`, `reserved-capacity/`, `index/gpt-5-2-codex/`, `index/parameter-golf/`, `business/guides-and-resources/`
+
+**Stats:** 1311 total URLs | 5 added | 271 updated (CMS propagation) | 24 removed | 0 anomalies | 32 sub-sitemaps
+
+---
 ## 2026-05-29 — Frontier Governance Framework, MUFG/Endava/CGR Customer Stories, Policy Cleanup
 
 **Fetch time:** 2026-05-29T09:17Z UTC | **Baseline:** 2026-05-28T09-17Z

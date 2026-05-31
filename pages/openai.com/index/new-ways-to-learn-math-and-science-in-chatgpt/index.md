@@ -73,62 +73,6 @@ To try it out, you can ask ChatGPT:
 
 Mirror EquationPythagorean TheoremIdeal Gas Law
 
-[Explain the binomial square formula(opens in a new window)](<https://chatgpt.com/?q=Explain+the+binomial+square+formula>)
-
-[Calculate circumference of a circle(opens in a new window)](<https://chatgpt.com/?q=Calculate+circumference+of+a+circle>)
-
-[Surface area of a cone formula(opens in a new window)](<https://chatgpt.com/?q=Surface+area+of+a+cone+formula>)
-
-[How does Coulomb’s law work(opens in a new window)](<https://chatgpt.com/?q=How+does+Coulomb%E2%80%99s+law+work>)
-
-[Difference of squares formula(opens in a new window)](<https://chatgpt.com/?q=Difference+of+squares+formula>)
-
-[Explain the trig angle sum identities(opens in a new window)](<https://chatgpt.com/?q=Explain+the+trig+angle+sum+identities>)
-
-[Understand exponential decay(opens in a new window)](<https://chatgpt.com/?q=Understand+exponential+decay>)
-
-[Explain the binomial square formula(opens in a new window)](<https://chatgpt.com/?q=Explain+the+binomial+square+formula>)
-
-[Calculate circumference of a circle(opens in a new window)](<https://chatgpt.com/?q=Calculate+circumference+of+a+circle>)
-
-[Surface area of a cone formula(opens in a new window)](<https://chatgpt.com/?q=Surface+area+of+a+cone+formula>)
-
-[How does Coulomb’s law work(opens in a new window)](<https://chatgpt.com/?q=How+does+Coulomb%E2%80%99s+law+work>)
-
-[Difference of squares formula(opens in a new window)](<https://chatgpt.com/?q=Difference+of+squares+formula>)
-
-[Explain the trig angle sum identities(opens in a new window)](<https://chatgpt.com/?q=Explain+the+trig+angle+sum+identities>)
-
-[Understand exponential decay(opens in a new window)](<https://chatgpt.com/?q=Understand+exponential+decay>)
-
-[Explain what a graphable function is(opens in a new window)](<https://chatgpt.com/?q=Explain+what+a+graphable+function+is>)
-
-[Hooke’s law explanation(opens in a new window)](<https://chatgpt.com/?q=Hooke%E2%80%99s+law+explanation>)
-
-[Help me understand kinetic energy(opens in a new window)](<https://chatgpt.com/?q=Help+me+understand+kinetic+energy>)
-
-[Period–frequency relation(opens in a new window)](<https://chatgpt.com/?q=Period%E2%80%93frequency+relation>)
-
-[Explain potential energy(opens in a new window)](<https://chatgpt.com/?q=Explain+potential+energy>)
-
-[Understand the slope formula(opens in a new window)](<https://chatgpt.com/?q=Understand+the+slope+formula>)
-
-[Show me the lens equation(opens in a new window)](<https://chatgpt.com/?q=Show+me+the+lens+equation>)
-
-[Explain what a graphable function is(opens in a new window)](<https://chatgpt.com/?q=Explain+what+a+graphable+function+is>)
-
-[Hooke’s law explanation(opens in a new window)](<https://chatgpt.com/?q=Hooke%E2%80%99s+law+explanation>)
-
-[Help me understand kinetic energy(opens in a new window)](<https://chatgpt.com/?q=Help+me+understand+kinetic+energy>)
-
-[Period–frequency relation(opens in a new window)](<https://chatgpt.com/?q=Period%E2%80%93frequency+relation>)
-
-[Explain potential energy(opens in a new window)](<https://chatgpt.com/?q=Explain+potential+energy>)
-
-[Understand the slope formula(opens in a new window)](<https://chatgpt.com/?q=Understand+the+slope+formula>)
-
-[Show me the lens equation(opens in a new window)](<https://chatgpt.com/?q=Show+me+the+lens+equation>)
-
 ## Our work to strengthen learning with ChatGPT
 
 Helping people explore ideas, experiment with concepts, and build deeper understanding is one of the most meaningful ways we can bring the benefits of AI to people everywhere.
@@ -139,7 +83,7 @@ This is just the beginning. Over time, we plan to expand interactive learning wi
 
 The research landscape on how AI affects learning is still taking shape, but recent studies—including our findings on [_study mode_ ⁠](<https://openai.com/index/understanding-ai-and-learning-outcomes/>)—show promising early signals. Through partners in OpenAI’s [_NextGenAI_ ⁠](<https://openai.com/index/introducing-nextgenai/>) initiative and the [_OpenAI Learning Lab_ ⁠](<https://openai.com/index/understanding-ai-and-learning-outcomes/>), we will continue to advance research to better understand how AI shapes learning over time. We intend to publish findings, shape future product experiences based on these insights, and work side by side with the broader education ecosystem to ensure AI benefits learners worldwide.
 
-_Editor’s note: Interactive learning is r_ _olling out starting today to all logged-in ChatGPT users_ _. Today, the list of math and science topics is most relevant to high school and college age learners, and includes topics like binomial square, Charles’ law, circle area, circle equation, compound interest, cone surface area, cone volume, Coulomb’s law, cylinder volume, degrees of freedom, difference of squares, exponential decay, Hooke’s law, kinetic energy, lens equation, linear equation, Ohm’s law, period–frequency relation, potential energy, PV = nRT equation, Pythagorean theorem, slope–intercept form, surface area of sphere, triangle area, trig angle sum identity, and others._
+_Editor’s note: Interactive learning is rolling out starting today to all logged-in ChatGPT users. Today, the list of math and science topics is most relevant to high school and college age learners, and includes topics like binomial square, Charles’ law, circle area, circle equation, compound interest, cone surface area, cone volume, Coulomb’s law, cylinder volume, degrees of freedom, difference of squares, exponential decay, Hooke’s law, kinetic energy, lens equation, linear equation, Ohm’s law, period–frequency relation, potential energy, PV = nRT equation, Pythagorean theorem, slope–intercept form, surface area of sphere, triangle area, trig angle sum identity, and others._
 
   * [2026](</news/?tags=2026>)
   * [ChatGPT](</news/?tags=chatgpt>)
@@ -154,6 +98,10 @@ OpenAI
 
 [View all](</news/>)
 
+![1x1](https://images.ctfassets.net/kftzwdyauwt9/6ui4uYfTTbR4xbiFRcqEfo/81d973f14bea720820f692271f6c6834/square.png?w=3840&q=90&fm=webp)
+
+[Strengthening societal resilience with Rosalind BiodefenseProductMay 29, 2026](</index/strengthening-societal-resilience-with-rosalind-biodefense/>)
+
 ![Personal finance in ChatGPT > Media > Cover](https://images.ctfassets.net/kftzwdyauwt9/4zSr4YNWXIEYz20piN2bxf/6f9a561be6055802914aee0a3bb671d7/ArtCard-Personal-Finance.png?w=3840&q=90&fm=webp)
 
 [A new personal finance experience in ChatGPTProductMay 15, 2026](</index/personal-finance-chatgpt/>)
@@ -161,10 +109,6 @@ OpenAI
 ![1x1 Art Card](https://images.ctfassets.net/kftzwdyauwt9/7qVT9WlLKfgGLPC5W77ei6/a24fd3f13b754378759959aa77cd8f5d/1_1.png?w=3840&q=90&fm=webp)
 
 [Work with Codex from anywhereProductMay 14, 2026](</index/work-with-codex-from-anywhere/>)
-
-![OAI GPT-Realtime-2 Art Card 1x1](https://images.ctfassets.net/kftzwdyauwt9/4TtA6X4b6MbTFXSkoZXvqk/39930a05ebb333898ad1df6c28463465/OAI_GPT-Realtime-2_Art_Card_1x1.png?w=3840&q=90&fm=webp)
-
-[Advancing voice intelligence with new models in the APIProductMay 7, 2026](</index/advancing-voice-intelligence-with-new-models-in-the-api/>)
 
 Our Research
 
