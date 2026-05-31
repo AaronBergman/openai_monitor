@@ -100,6 +100,14 @@ One in a million: celebrating the customers shaping AI’s future
 
 Filter
 
+![Boston Children’s Hospital card image](https://images.ctfassets.net/kftzwdyauwt9/4ROfsRLHlfzYGOnvawnoKG/ced960114b4b5c599cd1394513403b31/boston-childrens-card-1x1.png?w=3840&q=90&fm=webp)
+
+[Boston Children’s uses AI to unlock new diagnosesMay 29, 2026](</index/boston-childrens-hospital/>)
+
+![Braintrust customer story art card 1x1](https://images.ctfassets.net/kftzwdyauwt9/7hFHaiuRbzcpJRR9SP9ojI/663748f3a33b4f26f4cfd42cfd1ec250/oai_braintrust_1x1.png?w=3840&q=90&fm=webp)
+
+[How Braintrust turns customer requests into code with CodexMay 29, 2026](</index/braintrust/>)
+
 ![oai Endava 1x1](https://images.ctfassets.net/kftzwdyauwt9/2R1En1qK4AOSKcuZRpKxco/64ddf998210a4e3f1a3b4c08acba25e2/oai_endava_1x1.png?w=3840&q=90&fm=webp)
 
 [How Endava builds an agentic organization with CodexMay 28, 2026](</index/endava/>)
@@ -136,17 +144,9 @@ Filter
 
 [Sea's View on the Future of Agentic Software Development with CodexMay 14, 2026](</index/sea-david-chen/>)
 
-![oai NVIDIA 1x1 v8](https://images.ctfassets.net/kftzwdyauwt9/1tvBNfKdMK7IcrsyMVqDoK/615e69bf52245acc9aefb72fdf47990d/oai_NVIDIA_1x1_v8.png?w=3840&q=90&fm=webp)
-
-[How NVIDIA engineers and researchers build with CodexMay 12, 2026](</index/nvidia/>)
-
 ![AutoScout24 customer story 1x1 image](https://images.ctfassets.net/kftzwdyauwt9/7kI3ADPRruoa3p3p4obr8y/f967c5c036a6d47bbe4f50ccc1e78c54/oai_AutoScout24_1x1.png?w=3840&q=90&fm=webp)
 
 [AutoScout24 scales engineering with AI-powered workflowsMay 12, 2026](</index/autoscout24/>)
-
-![Parloa > Card](https://images.ctfassets.net/kftzwdyauwt9/79CIP6zYxNAKgc3cJfSimj/cd0b9187ba78aeca8088ba6c11ce8b7e/oai_Parloa_1x1.png?w=3840&q=90&fm=webp)
-
-[Parloa builds service agents customers want to talk toStartupMay 7, 2026](</index/parloa/>)
 
 Load more
 

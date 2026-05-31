@@ -46,6 +46,8 @@ Connecting you to someone you trust when it matters most.
 
 Loading…
 
+Share
+
 People use ChatGPT to learn, explore ideas, solve problems, and reflect on personal questions. Sometimes those conversations can involve moments when someone may be struggling or looking for support. Our goal is to design systems that respond thoughtfully to sensitive conversations and encourage people to connect with real-world help when needed.
 
 Today we are starting to roll out **Trusted Contact,** ​​an optional safety feature in ChatGPT that allows adults to nominate someone they trust, such as a friend, family member, or caregiver, who may be notified if our automated systems and trained reviewers detect the enrolled person may have discussed harming themselves in a way that indicates a serious safety concern. Trusted Contact is designed to offer another layer of support alongside the [_localized helplines_ ⁠](<https://openai.com/index/helping-people-when-they-need-it-most/?utm_source=chatgpt.com>) already available in ChatGPT, by helping users connect to a person they trust when they are in crisis.
@@ -115,17 +117,17 @@ OpenAI
 
 [View all](</news/>)
 
+![Technical foundations > Art Card](https://images.ctfassets.net/kftzwdyauwt9/6gugGfSiM1oO6UHxxwnqTk/c7173a5a2c096a8f8a24c258ddfa22dd/ArtCard-TechnicalFoundations.png?w=3840&q=90&fm=webp)
+
+[A shared playbook for trustworthy third party evaluationsSafetyMay 29, 2026](</index/trustworthy-third-party-evaluations-foundations/>)
+
+![Frontier Governance Framework > card image ](https://images.ctfassets.net/kftzwdyauwt9/2KoiHuErR5YxXGUnhCU8VY/e392c6249ec4644e07e944edea22e837/Frame2.png?w=3840&q=90&fm=webp)
+
+[OpenAI’s Frontier Governance FrameworkSafetyMay 28, 2026](</index/openai-frontier-governance-framework/>)
+
 ![Art card \(4\)](https://images.ctfassets.net/kftzwdyauwt9/26wgJNYWk0soRoyZvBmYmo/dc80fc33c0a60bd566816f2323f31dc2/Art_card__4_.png?w=3840&q=90&fm=webp)
 
 [Advancing content provenance for a safer, more transparent AI ecosystemSafetyMay 19, 2026](</index/advancing-content-provenance/>)
-
-![Helping ChatGPT better recognize context in sensitive conversations > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/7x4viZ0DsQtxQpAgnYYheQ/8dfe028356aceac9e83da6cb837d6864/Saftey-Art-Card-1080x1080.png?w=3840&q=90&fm=webp)
-
-[Helping ChatGPT better recognize context in sensitive conversationsSafetyMay 14, 2026](</index/chatgpt-recognize-context-in-sensitive-conversations/>)
-
-![Running Codex safely at OpenAI > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/76rTHgn2J3y6srtNd3ZrRs/71fc86af978baecda10b212fdb5d3609/Frame.png?w=3840&q=90&fm=webp)
-
-[Running Codex safely at OpenAISecurityMay 8, 2026](</index/running-codex-safely/>)
 
 Our Research
 

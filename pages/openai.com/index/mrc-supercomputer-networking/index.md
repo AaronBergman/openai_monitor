@@ -180,6 +180,10 @@ Cross-industry collaboration will continue to be essential to solving many of AI
 
 [View all](</news/>)
 
+![Tax Agent > Art Card](https://images.ctfassets.net/kftzwdyauwt9/6ojJ6B55QUlmNdaLifgMkQ/22e429ec7b3fdd119a2499358af899b7/Art_Card.png?w=3840&q=90&fm=webp)
+
+[Building self-improving tax agents with CodexEngineeringMay 27, 2026](</index/building-self-improving-tax-agents-with-codex/>)
+
 ![codex windows > art card](https://images.ctfassets.net/kftzwdyauwt9/6ZvTl8ZL23BOhoI6jz0EmR/49d6038b9f92773d4f866f4bfacabdbf/Art_Card__5_.png?w=3840&q=90&fm=webp)
 
 [Building a safe, effective sandbox to enable Codex on WindowsEngineeringMay 13, 2026](</index/building-codex-windows-sandbox/>)
@@ -187,10 +191,6 @@ Cross-industry collaboration will continue to be essential to solving many of AI
 ![How OpenAI delivers low-latency voice AI at scale > art card](https://images.ctfassets.net/kftzwdyauwt9/3ZT7WZXrDjX1tFlLjcTPXp/07d42ee6cc762208896f09c385853359/Voice_AI__art_card.png?w=3840&q=90&fm=webp)
 
 [How OpenAI delivers low-latency voice AI at scaleEngineeringMay 4, 2026](</index/delivering-low-latency-voice-ai-at-scale/>)
-
-![An open-source spec for orchestration: Symphony > art card](https://images.ctfassets.net/kftzwdyauwt9/4p40cWGcpyi6xRY3U4advn/d977f47ed621f80de31c931b0b8223f0/Symphony_art_card__1_.png?w=3840&q=90&fm=webp)
-
-[An open-source spec for orchestration: SymphonyEngineeringApr 27, 2026](</index/open-source-codex-orchestration-symphony/>)
 
 Our Research
 

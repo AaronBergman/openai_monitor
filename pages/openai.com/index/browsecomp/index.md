@@ -111,9 +111,9 @@ We evaluated a range of models on BrowseComp, including models without browsing�
 
 Model| Accuracy (%)  
 ---|---  
-GPT-4o| 0.6  
-GPT-4o w/ browsing| 1.9  
-GPT-4.5| 0.9  
+GPT‑4o| 0.6  
+GPT‑4o w/ browsing| 1.9  
+GPT‑4.5| 0.9  
 OpenAI o1| 9.9  
 Deep research*| 51.5  
   

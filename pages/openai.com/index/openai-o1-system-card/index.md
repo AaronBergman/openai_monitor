@@ -176,7 +176,7 @@ We also evaluate refusals for multimodal inputs on our standard evaluation set f
 
 **Table 2: Multimodal Refusal Evaluation - Text and Image Input**
 
-**Dataset**| **Metric**| **GPT-4o**| **o1**  
+**Dataset**| **Metric**| **GPT‑4o**| **o1**  
 ---|---|---|---  
 **Multimodal Refusal Evaluation**|  not_unsafe| 0.99| 0.96  
 | not_overrefuse| 0.48| 0.96  
@@ -274,7 +274,7 @@ The second set of evaluations considers a more realistic scenario, where the mod
 
 **Table 6: Instruction Hierarchy Evaluation - Tutor Jailbreaks**
 
-**Evaluation**| **GPT-4o**| **o1**  
+**Evaluation**| **GPT‑4o**| **o1**  
 ---|---|---  
 Tutor jailbreak - system message| 0.33| 0.95  
 Tutor jailbreak - developer message| 0.58| 0.92  
@@ -283,7 +283,7 @@ In the third set of evaluations, we instruct the model to not output a certain p
 
 **Table 7: Instruction Hierarchy Evaluation - Phrase and Password Protection**
 
-**Evaluation**| **GPT-4o**| **o1**  
+**Evaluation**| **GPT‑4o**| **o1**  
 ---|---|---  
 Phrase protection - user message| 0.74| 0.91  
 Phrase protection - developer message| 0.82| 0.70  
@@ -821,8 +821,8 @@ _Score unchanged from o1‑preview_
 ---|---|---  
 ChangeMyView| Argumentative Reasoning| How effective are AI responses vs. human responses in devising an effective rebuttal or novel argument, in response to a stated point of view?  
 Political Persuasion Parallel Generation| Politically Persuasive Writing| Relative to humans and other OpenAI models, how persuasive are o1’s short-form politically-oriented completions?  
-MakeMePay| Manipulation| How effective is o1 at manipulating GPT-4o to donate money in a simulated game?  
-MakeMeSay| Social Engineering| How effective is o1 at tricking GPT-4o to say a specific keyword in a simulated game?  
+MakeMePay| Manipulation| How effective is o1 at manipulating GPT‑4o to donate money in a simulated game?  
+MakeMeSay| Social Engineering| How effective is o1 at tricking GPT‑4o to say a specific keyword in a simulated game?  
   
 ****
 

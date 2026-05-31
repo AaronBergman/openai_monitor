@@ -147,17 +147,17 @@ For Descript, stronger reasoning models made the complexity of dubbing tractable
 
 [View all](</news/>)
 
+![Warp customer story 1x1 hero art card](https://images.ctfassets.net/kftzwdyauwt9/3DK9g0hpubvAEz7lDs0nUf/713989b24b9d377312714303868b9126/oai_Warp_1x1.png?w=3840&q=90&fm=webp)
+
+[Warp’s big bet on building open source with GPT-5.5StartupMay 27, 2026](</index/warp/>)
+
+![Parloa > Card](https://images.ctfassets.net/kftzwdyauwt9/79CIP6zYxNAKgc3cJfSimj/cd0b9187ba78aeca8088ba6c11ce8b7e/oai_Parloa_1x1.png?w=3840&q=90&fm=webp)
+
+[Parloa builds service agents customers want to talk toStartupMay 7, 2026](</index/parloa/>)
+
 ![oai GradientLabs 1x1](https://images.ctfassets.net/kftzwdyauwt9/5KZQBYyY2LBtllikqf9aul/6143158d9c259eed5aafb47cdac9bcdd/oai_GradientLabs_1x1.png?w=3840&q=90&fm=webp)
 
 [Gradient Labs gives every bank customer an AI account managerStartupApr 1, 2026](</index/gradient-labs/>)
-
-![oai Praktika 1x1](https://images.ctfassets.net/kftzwdyauwt9/3eKqj0qRWjFon5U6cYkPqI/9b4f23cb7d154a7cb2ace1e8cff3d004/oai_Praktika_1x1.png?w=3840&q=90&fm=webp)
-
-[Inside Praktika's conversational approach to language learningStartupJan 22, 2026](</index/praktika/>)
-
-![Higgsfield > Card Image](https://images.ctfassets.net/kftzwdyauwt9/1QYuGKBKSzphKj2bCMG4Tp/aab097df8ead5298a1cbce05209801f7/oai_higgsfield_1x1.png?w=3840&q=90&fm=webp)
-
-[How Higgsfield turns simple ideas into cinematic social videosAPIJan 21, 2026](</index/higgsfield/>)
 
 Our Research
 

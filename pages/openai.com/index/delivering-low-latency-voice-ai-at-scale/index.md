@@ -231,6 +231,10 @@ Yi Zhang, William McDonald
 
 [View all](</news/>)
 
+![Tax Agent > Art Card](https://images.ctfassets.net/kftzwdyauwt9/6ojJ6B55QUlmNdaLifgMkQ/22e429ec7b3fdd119a2499358af899b7/Art_Card.png?w=3840&q=90&fm=webp)
+
+[Building self-improving tax agents with CodexEngineeringMay 27, 2026](</index/building-self-improving-tax-agents-with-codex/>)
+
 ![codex windows > art card](https://images.ctfassets.net/kftzwdyauwt9/6ZvTl8ZL23BOhoI6jz0EmR/49d6038b9f92773d4f866f4bfacabdbf/Art_Card__5_.png?w=3840&q=90&fm=webp)
 
 [Building a safe, effective sandbox to enable Codex on WindowsEngineeringMay 13, 2026](</index/building-codex-windows-sandbox/>)
@@ -238,10 +242,6 @@ Yi Zhang, William McDonald
 ![MRC 1_1](https://images.ctfassets.net/kftzwdyauwt9/IRqiqOUeNlFne8NPTbELM/9ab024f4581e7065eaf42aa18d14b724/Art_Card.png?w=3840&q=90&fm=webp)
 
 [Supercomputer networking to accelerate large scale AI trainingEngineeringMay 5, 2026](</index/mrc-supercomputer-networking/>)
-
-![An open-source spec for orchestration: Symphony > art card](https://images.ctfassets.net/kftzwdyauwt9/4p40cWGcpyi6xRY3U4advn/d977f47ed621f80de31c931b0b8223f0/Symphony_art_card__1_.png?w=3840&q=90&fm=webp)
-
-[An open-source spec for orchestration: SymphonyEngineeringApr 27, 2026](</index/open-source-codex-orchestration-symphony/>)
 
 Our Research
 
