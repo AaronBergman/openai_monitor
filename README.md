@@ -1,5 +1,32 @@
 # openai_monitor
 
+## 2026-06-01T09-15Z — GPT-5.5 Entry Reordered on Research Pages; Mass CMS Timestamp Refresh
+
+**Fetch time:** 2026-06-01T09:17:27Z | **Baseline:** 2026-05-31T09-17Z
+
+**TL;DR:** A quiet day for substantive content. The sitemap shows 245 URLs with updated `lastmod` timestamps, but inspecting the actual page snapshots reveals only **two pages with real content changes** — both research listing pages where OpenAI reordered the Apr 23 GPT-5.5 entries, placing "Introducing GPT-5.5" (Product) above "GPT-5.5 System Card" (Safety). The remaining 243 timestamp bumps are a routine CMS sweep with no visible changes to the underlying HTML. No pages added or removed. No anomalies.
+
+### Actual Content Change
+
+- **[Research news listing](pages/openai.com/news/research/index.md)** and **[Research hub](pages/openai.com/research/index/index.md)**: The ordering of two same-date (Apr 23, 2026) GPT-5.5 entries was swapped. "Introducing GPT-5.5" (tagged as Product) now appears before "GPT-5.5 System Card" (tagged as Safety). This is an editorial choice — leading with the product announcement rather than the safety documentation when listing the GPT-5.5 launch items.
+
+### Routine CMS Timestamp Refresh (no content change)
+
+245 URLs had their `lastmod` field bumped in the sitemap. Notable pages in this group with no actual content change include:
+- `https://openai.com/codex/` (bumped to 2026-06-01T09:06Z)
+- `https://openai.com/about/` (bumped to 2026-06-01T01:14Z)
+- `https://openai.com/index/gpt-5-first-look/`, `/gpt-5-amgen/`, `/gpt-5-cursor/`, `/gpt-5-coding-design/`
+- `https://openai.com/form/rosalind-biodefense-program/` (bumped to 2026-06-01T09:17Z, close to fetch time)
+- `https://openai.com/form/stargate-infrastructure/`, `/form/codex-enterprise-promo/`
+- `https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense/`
+- `https://openai.com/safety/`, `https://openai.com/trust-and-transparency/`
+
+This mass-timestamp pattern is consistent with prior runs (May 31: 271 updated; May 29: 855 updated) and reflects OpenAI's CMS regenerating records without meaningful content edits.
+
+---
+*Stats: 1311 total URLs | 0 added | 245 updated (2 with actual content change) | 0 removed | 0 anomalies | 32 sub-sitemaps*
+
+
 
 ## 2026-05-31T09-17Z — Rosalind Biodefense Launches, DeployCo De-listed, 24 Pages Removed
 
