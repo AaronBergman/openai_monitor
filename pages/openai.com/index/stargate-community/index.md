@@ -87,17 +87,17 @@ OpenAI
 
 [View all](</news/>)
 
-![Election-information-and-safeguards-2026-1x1](https://images.ctfassets.net/kftzwdyauwt9/1PIOFxgdB0GHT27el6DgMC/185fc0824187abd3b5739eaa121b5a4b/Election-information-and-safeguards-2026-1x1.png?w=3840&q=90&fm=webp)
+![Codex for Knowledge Work > Card Img](https://images.ctfassets.net/kftzwdyauwt9/4LfVgOW71KEQsVp1RS5abU/25f5ee8c4bbeaeaaa73f311e736d4485/codex_for_knowledge_1x1.png?w=3840&q=90&fm=webp)
 
-[Election information and safeguards in 2026Global AffairsMay 27, 2026](</index/election-safeguards-2026/>)
+[Codex is becoming a productivity tool for everyoneGlobal AffairsJun 2, 2026](</index/codex-for-knowledge-work/>)
 
-![Grup-ArtCard](https://images.ctfassets.net/kftzwdyauwt9/6EEi4oJJ36NPbiw2Mkm1xZ/ee9da167bf08278df2759445f6bea88a/Grup-ArtCard.png?w=3840&q=90&fm=webp)
+![political-advocacy-1x1](https://images.ctfassets.net/kftzwdyauwt9/6iFKA29gSZlUpKEV8cHkSa/77f679c2f634e4c35f789debf339610b/political-advocacy-1x1.png?w=3840&q=90&fm=webp)
 
-[OpenAI, Grupo Folha, and Grupo UOL announce strategic content partnershipGlobal AffairsMay 25, 2026](</index/grupo-folha-grupo-uol-partnership/>)
+[Our views on AI policy and political advocacyGlobal AffairsJun 1, 2026](</index/our-views-on-ai-policy-and-political-advocacy/>)
 
-![Next phase of OpenAI for countries > art card](https://images.ctfassets.net/kftzwdyauwt9/D3j1QLEUWCW6QvlwihC2v/2e1f92d8dd5d4aa1b656849aba4531f8/Art_Card2.png?w=3840&q=90&fm=webp)
+![Building the infrastructure for the Intelligence Age in Michigan > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/4ky5b1SDOya3ZpkcZxRr8S/4cea852b9d54b0efeb7a68b4db3c1691/infrastructure-michigan-1x1.png?w=3840&q=90&fm=webp)
 
-[The next phase of OpenAI’s Education for CountriesGlobal AffairsMay 20, 2026](</index/the-next-phase-of-education-for-countries/>)
+[Building the infrastructure for the Intelligence Age in MichiganGlobal AffairsJun 1, 2026](</index/stargate-michigan-data-center/>)
 
 Our Research
 
