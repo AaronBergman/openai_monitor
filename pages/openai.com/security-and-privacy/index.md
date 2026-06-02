@@ -142,7 +142,7 @@ OpenAI invites security researchers and ethical hackers to help us keep our syst
 
 [Business data privacy, security, and compliance](</business-data/>)
 
-![Enterprise privacy > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/1uDbosfgyRFzdIN0ybSJsC/6db2081be382f4495082a12dd55f0fc5/Enterprise-1.png?w=3840&q=90&fm=webp)
+![Enterprise privacy > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/1uDbosfgyRFzdIN0ybSJsC/af4a487c11054c9e50bdeb66c5c3bc43/Frame.png?w=3840&q=90&fm=webp)
 
 [Enterprise privacy at OpenAI](</enterprise-privacy/>)
 

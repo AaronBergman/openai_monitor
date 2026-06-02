@@ -64,7 +64,7 @@ Explore proven ways to apply AI across your organization—built to fit how your
 
 [HealthcareImprove outcomes and deliver better care.](</solutions/industries/healthcare/>)
 
-![life sciences hero](https://images.ctfassets.net/kftzwdyauwt9/36LsxUTLzmAM5hyOzFBny9/27f0a496d4d6f5e5f90459ad02eeea19/life-sciences-hero.png?w=3840&q=90&fm=webp)
+![1x1](https://images.ctfassets.net/kftzwdyauwt9/1D6nnZ4EvlhS7bGdCna7OC/b3fade9e482d3bc9cacdea118cf8e5f3/hero.png?w=3840&q=90&fm=webp)
 
 [Life sciencesConnect science to patient impact.](</solutions/industries/life-sciences/>)
 

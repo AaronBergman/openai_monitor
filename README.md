@@ -1,5 +1,49 @@
 # openai_monitor
 
+## 2026-06-02 — Four New Articles, Major Sitemap Cleanup (28 Removals)
+
+**Fetch time:** 2026-06-02T09:18:36Z | **Baseline:** 2026-06-01T09-15Z
+
+**TL;DR:** OpenAI published four articles on June 1–2 (Stargate Michigan groundbreaking, Codex crossing 5M weekly users, a political-neutrality statement distancing the company from outside PACs, and OpenAI models going live on AWS). More significantly, 28 pages were quietly removed from the sitemap — including the entire DeployCo sub-brand, the agent-platform landing page, six policy documents, the Foundation page, the evaluations hub, the healthcare solutions page, and several older blog posts. The 849 "updated" URLs are almost entirely a CMS ripple from new articles being featured in every page’s "Keep reading" carousel; only a handful have real content changes. The homepage gained a prominent "Learn about ChatGPT Business" link. No anomalies detected.
+
+### New Articles (4)
+
+- [**Building the infrastructure for the Intelligence Age in Michigan**](pages/openai.com/index/stargate-michigan-data-center/index.md) (`/index/stargate-michigan-data-center/`, June 1) — Groundbreaking on *The Barn*, a 1 GW Stargate data center campus in Saline, MI, with Oracle/Related Digital/Walbridge. Commitments: no cost to local ratepayers, closed-loop cooling, 2,500+ union construction jobs + 450 permanent on-site.
+- [**Codex is becoming a productivity tool for everyone**](pages/openai.com/index/codex-for-knowledge-work/index.md) (`/index/codex-for-knowledge-work/`, June 2) — Report: Codex now has 5M+ weekly active users (6× since February). Knowledge workers are ~20% of users and growing 3× faster than developers. Top uses: reports, spreadsheets, research, data analysis, workflow automation.
+- [**Our views on AI policy and political advocacy**](pages/openai.com/index/our-views-on-ai-policy-and-political-advocacy/index.md) (`/index/our-views-on-ai-policy-and-political-advocacy/`, June 1) — OpenAI explicitly states it has donated to no super PACs or campaigns. Greg Brockman’s personal association with *Leading the Future (LTF)* is described as personal, not on behalf of the company. "No outside political group speaks for OpenAI."
+- [**OpenAI frontier models and Codex are now available on AWS**](pages/openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws/index.md) (`/index/openai-frontier-models-and-codex-are-now-available-on-aws/`, June 1) — OpenAI models and Codex are generally available on Amazon Bedrock for enterprise customers. Cyber/security features flagged as coming soon on AWS.
+
+### Notable Content Updates
+
+- **Homepage (`/`)**: Added "Learn about ChatGPT Business" as a prominent hero-area link (now appears before "Talk with ChatGPT"). Significant merchandising shift toward enterprise.
+- **About page (`/about/`)**: Featured news card changed from *GPT-5.5 Instant* (product) to the *GPT-5.5 Instant System Card* (safety). Slight editorial lean toward safety documentation.
+- **146 article pages**: "Keep reading" carousels updated to feature the new June 1–2 articles — routine CMS behavior, not individual edits.
+
+### Removals (28 pages)
+
+Significant sitemap cleanup. Grouped by theme:
+
+**DeployCo retired (4 pages):** `/deployco/`, `/deployco/privacy-policy/`, `/deployco/terms-of-use/`, `/business/the-openai-deployment-company/` — The enterprise deployment sub-brand introduced ~11 days before the May 31 run is now entirely gone from the sitemap.
+
+**Agent Platform removed (1):** `/agent-platform/` — Standalone landing page removed; agent content likely consolidated into API docs.
+
+**Policy consolidation (6 pages):** `/policies/plugin-terms/` (plugins deprecated), `/policies/sora-usage-policies/`, `/policies/row-privacy-policy/` (Rest of World), `/policies/services-privacy-policy/`, `/policies/business-terms/`, `/policies/creating-sora-videos-in-line-with-our-policies/`
+
+**Foundation & safety (3 pages):** `/foundation/` (navbar now links to external `openaifoundation.org`), `/safety/evaluations-hub/`, `/science/` (historical "Pioneering research on the path to AGI" page)
+
+**Product/feature (5 pages):** `/index/gpt-5-2-codex/`, `/index/parameter-golf/`, `/chatgpt/download/`, `/chatgpt/search-product-discovery/`, `/solutions/healthcare/`
+
+**Commercial (5 pages):** `/advertisers/`, `/contributions/`, `/business/guides-and-resources/`, `/reserved-capacity/`, `/form/custom-models/`
+
+**Other (4 pages):** `/newsroom/security/`, `/newsroom/global-affairs/`, `/devday/directory/`, `/academy/top-10-use-cases-codex-for-work/`
+
+*Last snapshots of removed pages are preserved in git history under `pages/openai.com/`. Full details: [runs/2026-06-02T09-16Z/analysis.md](runs/2026-06-02T09-16Z/analysis.md)*
+
+---
+*Stats: 1,315 total URLs | +4 added | ~849 lastmod updates (146 with content changes) | −28 removed | 0 anomalies | 32 sub-sitemaps*
+
+---
+
 ## 2026-06-01T09-15Z — GPT-5.5 Entry Reordered on Research Pages; Mass CMS Timestamp Refresh
 
 **Fetch time:** 2026-06-01T09:17:27Z | **Baseline:** 2026-05-31T09-17Z

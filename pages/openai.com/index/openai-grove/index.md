@@ -52,17 +52,17 @@ OpenAI
 
 ## Keep reading
 
-![Boston Children’s Hospital card image](https://images.ctfassets.net/kftzwdyauwt9/4ROfsRLHlfzYGOnvawnoKG/ced960114b4b5c599cd1394513403b31/boston-childrens-card-1x1.png?w=3840&q=90&fm=webp)
+![political-advocacy-1x1](https://images.ctfassets.net/kftzwdyauwt9/6iFKA29gSZlUpKEV8cHkSa/77f679c2f634e4c35f789debf339610b/political-advocacy-1x1.png?w=3840&q=90&fm=webp)
 
-[Boston Children’s uses AI to unlock new diagnosesMay 29, 2026](</index/boston-childrens-hospital/>)
+[Our views on AI policy and political advocacyGlobal AffairsJun 1, 2026](</index/our-views-on-ai-policy-and-political-advocacy/>)
 
-![Braintrust customer story art card 1x1](https://images.ctfassets.net/kftzwdyauwt9/7hFHaiuRbzcpJRR9SP9ojI/663748f3a33b4f26f4cfd42cfd1ec250/oai_braintrust_1x1.png?w=3840&q=90&fm=webp)
+![Building the infrastructure for the Intelligence Age in Michigan > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/4ky5b1SDOya3ZpkcZxRr8S/4cea852b9d54b0efeb7a68b4db3c1691/infrastructure-michigan-1x1.png?w=3840&q=90&fm=webp)
 
-[How Braintrust turns customer requests into code with CodexMay 29, 2026](</index/braintrust/>)
+[Building the infrastructure for the Intelligence Age in MichiganGlobal AffairsJun 1, 2026](</index/stargate-michigan-data-center/>)
 
-![1x1](https://images.ctfassets.net/kftzwdyauwt9/6ui4uYfTTbR4xbiFRcqEfo/81d973f14bea720820f692271f6c6834/square.png?w=3840&q=90&fm=webp)
+![Open AI > AWS > Card Img](https://images.ctfassets.net/kftzwdyauwt9/4DyPHqWFzvKSbt5XNS0cCb/4b5da512c5bc9d6950c64d3ab2b85126/OAI_AWS_Partnership_1x1_Art_Card.png?w=3840&q=90&fm=webp)
 
-[Strengthening societal resilience with Rosalind BiodefenseProductMay 29, 2026](</index/strengthening-societal-resilience-with-rosalind-biodefense/>)
+[OpenAI frontier models and Codex are now available on AWSProductJun 1, 2026](</index/openai-frontier-models-and-codex-are-now-available-on-aws/>)
 
 Our Research
 
