@@ -26,27 +26,25 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-## Intelligence at Work: an OpenAI livestream
+OpenAI Livestream
+
+# Intelligence at Work
 
 Join Denise Dresser, CRO, and OpenAI product leadership for a live look at how enterprises are bringing AI into teams, workflows, and systems.
 
-We’ll preview new capabilities coming to the OpenAI platform, share where we see enterprise AI headed, and show plenty of live demos of what we’re building for work.
+## Thanks for watching
 
-You’ll also hear from special guests, including Sam Altman, CEO, and come away with new ideas for what your business can try next.
-
-Register in advance to watch live June 2 starting at 11:30 a.m. ET / 8:30 a.m. PT.
+If you would like to learn more about bringing transformative AI into your organization, contact us.
 
 ![](https://images.ctfassets.net/kftzwdyauwt9/6mMqOu1O0wX5PsB5opmuaT/19b83f3cb1ba1479e7e6f4b13f22788c/intelligence-at-work-backdrop.png?w=3840&q=90&fm=webp)
 
-June 2, 202611:30 a.m. ET / 8:30 a.m. PT
-
-Register to watch live on June 2
+Get in touch
 
 Company size
 
 Company size1-5051-250251-500501-1,0001,001-5,0005,001-10,00010,001-20,00020,001+
 
-Register
+Submit
 
 Our Research
 

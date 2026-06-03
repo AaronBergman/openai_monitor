@@ -28,7 +28,7 @@ OpenAI
 
 May 22, 2026
 
-AI Adoption
+[AI Adoption](</news/ai-adoption/>)
 
 # OpenAI named a Leader in enterprise coding agents by Gartner
 
@@ -60,8 +60,8 @@ This recognition comes as Codex continues to improve for enterprises, with recen
 
 You can [_read the Gartner report_ ⁠](<https://openai.com/business/learn/gartner-2026-agentic-coding-leader/>) today. For enterprises ready to try Codex, there’s never been a better time to switch. Until June 12, eligible enterprise accounts can [_contact our sales team_ ⁠](<https://openai.com/form/codex-enterprise-promo/>) to request two months of free Codex usage for new users, making it easier to bring Codex to more builders across your company.
 
-  * Codex
-  * 2026
+  * [Codex](</news/?tags=codex>)
+  * [2026](</news/?tags=2026>)
 
 
 

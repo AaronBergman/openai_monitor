@@ -1,5 +1,49 @@
 # openai_monitor
 
+## 2026-06-03T09-15Z — Codex Goes Mass-Market, Stargate Michigan Breaks Ground, Service Terms Updated for On-Prem Deployments
+
+**Fetch time:** 2026-06-03T09:22:47Z | **Baseline:** 2026-06-01T09-15Z
+
+**TL;DR:** A major content day centered on Codex expanding beyond developers and OpenAI's infrastructure ambitions. Nine new pages appeared — two Codex announcements (5M+ weekly users, new plugins and website-creation for non-technical roles), an AWS partnership going GA, a Michigan data center groundbreaking (1GW "The Barn"), a Travelers Insurance customer story, a G7 youth safety piece, and a political-transparency statement addressing Greg Brockman's personal ties to Leading the Future. Two new legal documents also appeared: terms for the new ChatGPT Sites feature, and an EU-specific privacy policy. On the legal/compliance side, the Service Terms were updated for the first time since January to add a new "Licensed Materials" section governing on-premises software deployments — a notable signal about enterprise self-hosted offerings. The Sub-processor list also got its first update since February, adding Cloudflare as a web host for ChatGPT Sites and expanding moderation operations to the US. The June 2 "Intelligence at Work" livestream with Sam Altman and Denise Dresser has wrapped.
+
+**Anomalies:** None.
+
+### Notable New Pages
+
+- **[Codex for every role, tool, and workflow](pages/openai.com/index/codex-for-every-role-tool-workflow/index.md)** — Product announcement: Codex now has 5M+ weekly users (6x since February), with non-developers growing 3x faster than developers. Introduces 6 new role-specific plugins (for analysts, marketers, finance, legal), in-place annotations, and a preview of **ChatGPT Sites** — an embedded web-app builder that lets you share interactive sites via URL.
+
+- **[Codex is becoming a productivity tool for everyone](pages/openai.com/index/codex-for-knowledge-work/index.md)** — Accompanying report "The Next Era of Knowledge Work." Non-developers are ~20% of Codex users. Top tasks: reports, spreadsheets, presentations, data analysis. Fastest growing: data analysis and research. Users increasingly run multiple Codex tasks in parallel.
+
+- **[Stargate Michigan data center](pages/openai.com/index/stargate-michigan-data-center/index.md)** — Groundbreaking for "The Barn," a **1GW data center campus** in Saline, Michigan alongside Oracle, Related Digital, Walbridge, and Governor Whitmer. Community commitments: no cost pass-through to ratepayers; closed-loop cooling; **2,500+ union construction jobs** + 450 permanent; **$10M** to Saline Recreation Center; **$1B projected tax revenue** over the lease term.
+
+- **[OpenAI frontier models and Codex now available on AWS](pages/openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws/index.md)** — General availability for enterprise customers. OpenAI capabilities run within existing AWS security, compliance, procurement, and governance workflows, including GovCloud regions.
+
+- **[Travelers deploys AI-powered claims countrywide](pages/openai.com/index/travelers/index.md)** — Insurance customer story. Travelers built a fully autonomous voice assistant using **OpenAI Realtime API** that handles auto property damage claim filings end-to-end. **85–90% of customers complete claims through AI.** Rolled out from 8 states to nationwide in 2 months.
+
+- **[Advancing youth safety and opportunity through global leadership](pages/openai.com/index/advancing-youth-safety-and-opportunity-through-global-leadership/index.md)** — Policy piece timed to the G7 Leaders' Summit in Évian, France. OpenAI calls for an **international youth AI safety institute** with a sustained mandate, drawing on examples like Estonia's national ChatGPT school rollout.
+
+- **[Our views on AI policy and political advocacy](pages/openai.com/index/our-views-on-ai-policy-and-political-advocacy/index.md)** — Transparency statement: OpenAI has made no super PAC donations and has no employee PAC. Clarifies that Greg Brockman's personal support for Leading the Future (LTF) is "in a personal capacity, not on behalf of the company" and that "OpenAI does not direct the activities of LTF."
+
+- **[ChatGPT Sites Terms](pages/openai.com/policies/chatgpt-sites-terms/index.md)** — New legal terms for the Sites feature. You retain content ownership; you grant OpenAI a royalty-free worldwide license to host it; you're responsible for end-user compliance.
+
+- **[EU Services Privacy Policy](pages/openai.com/policies/eu-services-privacy-policy/index.md)** — EU/EEA/UK/Switzerland-specific privacy policy. Notes ads for "Free and Go" users in the EU.
+
+### Key Legal/Compliance Changes
+
+- **[Service Terms updated June 2](pages/openai.com/policies/service-terms/index.md)** — First update since January 9. New **Section 10 "Licensed Materials"** covers customers downloading/installing OpenAI software onto their own infrastructure. Limited, non-exclusive, non-sublicensable license; terminates at end of term. This is the first formal on-premises deployment language in OpenAI's standard service terms — significant for enterprise deals requiring data locality.
+
+- **[Sub-processor list updated June 2](pages/openai.com/policies/sub-processor-list/index.md)** — First update since February 11. Cloudflare now listed as a **Web Hosting** processor for ChatGPT Sites pages (with classifier runs on hosted content). Content moderation scope expanded to include United States (previously Canada + Philippines only). Subscriber notification form migrated to HubSpot.
+
+### Other Updates
+
+- **Homepage / News listings:** Featured hero content rotated from GPT-5.5 to "Codex for every role." Research listing reordered GPT-5.5 Instant entries (same editorial rotation pattern as June 1).
+- **Intelligence at Work page:** Switched from pre-event ("register to watch live June 2") to post-event ("Thanks for watching"). The Sam Altman / Denise Dresser enterprise livestream occurred June 2 as scheduled.
+- **Customer stories:** Travelers added to the featured listing; AutoScout24 rotated out.
+- **~25 customer story pages:** Bulk Contentful CDN image-hash rotation (no substantive content change).
+
+*Stats: 1320 total URLs | +9 added | ~296 updated | -0 removed | 0 anomalies | 32 sub-sitemaps*
+
+---
 ## 2026-06-01T09-15Z — GPT-5.5 Entry Reordered on Research Pages; Mass CMS Timestamp Refresh
 
 **Fetch time:** 2026-06-01T09:17:27Z | **Baseline:** 2026-05-31T09-17Z

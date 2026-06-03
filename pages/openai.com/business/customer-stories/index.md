@@ -100,11 +100,15 @@ One in a million: celebrating the customers shaping AI’s future
 
 Filter
 
+![oai Travelers 1x1](https://images.ctfassets.net/kftzwdyauwt9/1P6tCWotXVaO6PzSQrpLvz/fff24dc652764a3a7cbc6b059232b3be/oai_Travelers_1x1.png?w=3840&q=90&fm=webp)
+
+[Travelers deploys AI-powered claims countrywide with OpenAIJun 2, 2026](</index/travelers/>)
+
 ![Boston Children’s Hospital card image](https://images.ctfassets.net/kftzwdyauwt9/4ROfsRLHlfzYGOnvawnoKG/ced960114b4b5c599cd1394513403b31/boston-childrens-card-1x1.png?w=3840&q=90&fm=webp)
 
 [Boston Children’s uses AI to unlock new diagnosesMay 29, 2026](</index/boston-childrens-hospital/>)
 
-![Braintrust customer story art card 1x1](https://images.ctfassets.net/kftzwdyauwt9/7hFHaiuRbzcpJRR9SP9ojI/663748f3a33b4f26f4cfd42cfd1ec250/oai_braintrust_1x1.png?w=3840&q=90&fm=webp)
+![Braintrust customer story art card 1x1](https://images.ctfassets.net/kftzwdyauwt9/7hFHaiuRbzcpJRR9SP9ojI/7ea7e178330cd87d5cd1b00891151ed5/oai_braintrust_1x1.png?w=3840&q=90&fm=webp)
 
 [How Braintrust turns customer requests into code with CodexMay 29, 2026](</index/braintrust/>)
 
@@ -143,10 +147,6 @@ Filter
 ![EF Ep20 1.1](https://images.ctfassets.net/kftzwdyauwt9/6Wp6DOKXObm4D5mzDZU7Q0/a612075495fe9f6854159364a3041bc2/EF_Ep20_1.1.png?w=3840&q=90&fm=webp)
 
 [Sea's View on the Future of Agentic Software Development with CodexMay 14, 2026](</index/sea-david-chen/>)
-
-![AutoScout24 customer story 1x1 image](https://images.ctfassets.net/kftzwdyauwt9/7kI3ADPRruoa3p3p4obr8y/f967c5c036a6d47bbe4f50ccc1e78c54/oai_AutoScout24_1x1.png?w=3840&q=90&fm=webp)
-
-[AutoScout24 scales engineering with AI-powered workflowsMay 12, 2026](</index/autoscout24/>)
 
 Load more
 

@@ -28,7 +28,7 @@ OpenAI
 
 April 21, 2026
 
-# Livestream
+# OpenAI livestreams
 
   * [Read the Images 2.0 blog](</index/introducing-chatgpt-images-2-0/>)
 
