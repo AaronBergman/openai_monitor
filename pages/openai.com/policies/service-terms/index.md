@@ -30,17 +30,17 @@ Select language
 
 …
 
-Updated: January 9, 2026
+Updated: June 2, 2026
 
 # Service terms
 
-These Service Terms govern your use of the Services. Capitalized terms not defined here will have the meanings in the Terms of Use, [the OpenAI Services Agreement⁠](</policies/services-agreement/>), or other agreement you have with us governing your use of the Services (“Agreement”). If there is a conflict between the Service Terms and your Agreement, the Service Terms will control. For purposes of these Terms, “Content” includes “Customer Content.”
+These Service Terms govern your use of the Services. Capitalized terms not defined here will have the meanings in the Terms of Use, [_the OpenAI Services Agreement⁠_ ⁠](<https://openai.com/policies/services-agreement/>), or other agreement you have with us governing your use of the Services (“Agreement”). If there is a conflict between the Service Terms and your Agreement, the Service Terms will control. For purposes of these Terms, “Content” includes “Customer Content.”
 
 ## 1\. API
 
 OpenAI’s indemnification obligations to API customers under the Agreement include any third party claim that Customer’s use or distribution of Output infringes a third party’s intellectual property right. This indemnity does not apply where: (i) Customer or Customer’s End Users knew or should have known the Output was infringing or likely to infringe, (ii) Customer or Customer’s End Users disabled, ignored, or did not use any relevant citation, filtering or safety features or restrictions provided by OpenAI, (iii) Output was modified, transformed, or used in combination with products or services not provided by or on behalf of OpenAI, (iv) Customer or its End Users did not have the right to use the Input or fine-tuning files to generate the allegedly infringing Output, (v) the claim alleges violation of trademark or related rights based on Customer’s or its End Users’ use of Output in trade or commerce, and (vi) the allegedly infringing Output is from content from a Third Party Offering.
 
-Customer will only, and will ensure that its End Users only, use APIs in accordance with the applicable documentation at [https://platform.openai.com/docs⁠⁠(opens in a new window)](<https://platform.openai.com/docs>).
+Customer will only, and will ensure that its End Users only, use APIs in accordance with the applicable documentation at [_https://platform.openai.com/docs⁠⁠_ ⁠(opens in a new window)](<https://platform.openai.com/docs>).
 
 ## 2\. Beta Services
 
@@ -50,39 +50,39 @@ OpenAI makes no representations or warranties for Beta Services, including any w
 
 ## 3\. ChatGPT Enterprise, Edu, Healthcare and Business
 
-(a) **Administrators**. ChatGPT Enterprise, ChatGPT Edu, and ChatGPT for Healthcare (collectively, “Enterprise”) and ChatGPT Business accounts are managed by End Users with administrative privileges (“Administrators”). Administrators may be able to add, remove and suspend End Users’ access to the organization’s workspace. In addition, ChatGPT Enterprise Administrators may be able to (a) access, share and remove Content; and (b) access logging and information about End Users’ use of ChatGPT Enterprise. Customers are responsible for obtaining and maintaining all necessary consents from End Users to take the actions above and to allow OpenAI to deliver the Services.
+(a) **Administrators.** ChatGPT Enterprise, ChatGPT Edu, and ChatGPT for Healthcare (collectively, “Enterprise”) and ChatGPT Business accounts are managed by End Users with administrative privileges (“Administrators”). Administrators may be able to add, remove and suspend End Users’ access to the organization’s workspace. In addition, ChatGPT Enterprise Administrators may be able to (a) access, share and remove Content; and (b) access logging and information about End Users’ use of ChatGPT Enterprise. Customers are responsible for obtaining and maintaining all necessary consents from End Users to take the actions above and to allow OpenAI to deliver the Services.
 
-(b) **Output indemnity**. OpenAI’s indemnification obligations to Enterprise customers under the Agreement include claims that Customer’s use or distribution of Output infringes a third party’s intellectual property right. This indemnity does not apply where: (i) Customer or Customer’s End Users knew or should have known the Output was infringing or likely to infringe, (ii) Customer or Customer’s End Users disabled, ignored, or did not use any relevant citation, filtering or safety features or restrictions provided by OpenAI, (iii) Output was modified, transformed, or used in combination with products or services not provided by or on behalf of OpenAI, (iv) Customer or its End Users did not have the right to use the Input or fine-tuning files to generate the allegedly infringing Output, (v) the claim alleges violation of trademark or related rights based on Customer’s or its End Users’ use of Output in trade or commerce, and (vi) the allegedly infringing Output is from content from a Third Party Offering.
+(b) **Output indemnity.** OpenAI’s indemnification obligations to Enterprise customers under the Agreement include claims that Customer’s use or distribution of Output infringes a third party’s intellectual property right. This indemnity does not apply where: (i) Customer or Customer’s End Users knew or should have known the Output was infringing or likely to infringe, (ii) Customer or Customer’s End Users disabled, ignored, or did not use any relevant citation, filtering or safety features or restrictions provided by OpenAI, (iii) Output was modified, transformed, or used in combination with products or services not provided by or on behalf of OpenAI, (iv) Customer or its End Users did not have the right to use the Input or fine-tuning files to generate the allegedly infringing Output, (v) the claim alleges violation of trademark or related rights based on Customer’s or its End Users’ use of Output in trade or commerce, and (vi) the allegedly infringing Output is from content from a Third Party Offering.
 
 (c) **ChatGPT for Healthcare.** (i) You should always verify the information provided by ChatGPT for Healthcare and exercise independent professional judgment in decision-making about a patient without relying primarily or solely on the output. Do not use ChatGPT for Healthcare to analyze medical images or patterns/signals from signal acquisition systems or in vitro diagnostic devices (such as an ECG waveforms or genomic sequences). (ii) Customer’s Business Associate and Healthcare Addendum applies to Customer’s use of ChatGPT for Healthcare.
 
 ## 4\. Codex and Code Generation
 
-Output generated by code generation features of our Services, including [OpenAI Codex⁠⁠](</index/openai-codex/>), may be subject to third party licenses, including, without limitation, open source licenses.
+Output generated by code generation features of our Services, including [_OpenAI Codex⁠⁠_ ⁠](<https://openai.com/index/openai-codex/>), may be subject to third party licenses, including, without limitation, open source licenses.
 
 ## 5\. GPTs
 
 Users can create and share access to their own customized versions of ChatGPT called “GPTs”.
 
-For Builders of GPTs:
+#### For Builders of GPTs:
 
-(a) **GPT Content**. The information or content that you upload to or include with your GPT (for example your GPT name, instructions, and description) (“GPT Content”) is your Content. As between you and OpenAI, you are solely responsible for your GPT Content, Actions, and configurations that you use or enable to create your GPT as well as any Output that is based on your GPT Content, Actions, and configurations. You must ensure your GPT complies with the Agreement and our [Usage Policies⁠⁠](</policies/usage-policies/>).
+(a) **GPT Content.** The information or content that you upload to or include with your GPT (for example your GPT name, instructions, and description) (“GPT Content”) is your Content. As between you and OpenAI, you are solely responsible for your GPT Content, Actions, and configurations that you use or enable to create your GPT as well as any Output that is based on your GPT Content, Actions, and configurations. You must ensure your GPT complies with the Agreement and our [_Usage Policies⁠⁠_ ⁠](<https://openai.com/policies/usage-policies/>).
 
-(b) **Distribution and Promotion of GPTs**. By sharing your GPT with others, you grant a nonexclusive, worldwide, irrevocable, royalty-free license: (i) to OpenAI to use, test, store, copy, translate, display, modify, distribute, promote, and otherwise make available to other users all or any part of your GPT (including GPT Content); and (ii) to the extent Output from your GPT includes your GPT Content, to users of your GPT to use, store, copy, display, distribute, prepare derivative works of and otherwise use your GPT Content. You will ensure that all information that you publish about your GPT is, at all times, complete, accurate, and not misleading.
+(b)**Distribution and Promotion of GPTs.** By sharing your GPT with others, you grant a nonexclusive, worldwide, irrevocable, royalty-free license: (i) to OpenAI to use, test, store, copy, translate, display, modify, distribute, promote, and otherwise make available to other users all or any part of your GPT (including GPT Content); and (ii) to the extent Output from your GPT includes your GPT Content, to users of your GPT to use, store, copy, display, distribute, prepare derivative works of and otherwise use your GPT Content. You will ensure that all information that you publish about your GPT is, at all times, complete, accurate, and not misleading.
 
-(c) **Actions**. Any API, website, or service that interacts with a GPT (an “Action”) is subject to our [_App Developer Terms_ ⁠](<https://openai.com/policies/connectors-actions-terms/>) and you are responsible for ensuring that any Action included with your GPT operates in compliance with those terms.
+(c) **Actions.** Any API, website, or service that interacts with a GPT (an “Action”) is subject to our [_App Developer Terms⁠_ ⁠](<https://openai.com/policies/connectors-actions-terms/>) and you are responsible for ensuring that any Action included with your GPT operates in compliance with those terms.
 
-(d) **Removal**. We may reject or remove any GPT from our Services at any time for any reason without notice to you, such as for legal or security reasons or if your GPT violates our Terms. 
+(d) **Removal.** We may reject or remove any GPT from our Services at any time for any reason without notice to you, such as for legal or security reasons or if your GPT violates our Terms.
 
-For Users of GPTs:
+#### For Users of GPTs:
 
-(a) **Third Party GPTs**. Except where OpenAI is identified as the builder of a GPT, GPTs are created by other users and they may rely on content or third party applications that are not controlled by OpenAI. Use of “GPT” in the name of a GPT created by other users does not imply that OpenAI created, supports or endorses the GPT. Only use GPTs that you know and trust.
+(a) **Third Party GPTs.** Except where OpenAI is identified as the builder of a GPT, GPTs are created by other users and they may rely on content or third party applications that are not controlled by OpenAI. Use of “GPT” in the name of a GPT created by other users does not imply that OpenAI created, supports or endorses the GPT. Only use GPTs that you know and trust.
 
-(b) **Abuse Reporting**. You can report GPTs that violate our [Usage Policies⁠⁠](</policies/usage-policies/>) using our reporting feature within ChatGPT.
+(b) **Abuse Reporting.** You can report GPTs that violate our [_Usage Policies⁠⁠_ ⁠](<https://openai.com/policies/usage-policies/>) using our reporting feature within ChatGPT.
 
-(c) **Actions**. GPTs may allow you to interact with Actions. Those Actions are subject to our terms for Apps and Actions below.
+(c) **Actions.** GPTs may allow you to interact with Actions. Those Actions are subject to our terms for Apps and Actions below.
 
-(d) **Changes and Removal**. OpenAI and creators of GPTs can remove GPTs at any time for any reason without prior notice.
+(d) **Changes and Removal.** OpenAI and creators of GPTs can remove GPTs at any time for any reason without prior notice.
 
 ## 6\. Image and Video Capabilities
 
@@ -90,7 +90,7 @@ Our models can accept images and videos as part of Inputs to the Services (“Vi
 
 ## 7\. Apps and Actions
 
-(a) **Overview**. Apps and Actions (together “Apps”) allow ChatGPT to send and receive information from a third-party application or website (“Application”). You may take action on an Application through one or more Apps (for example, to request a reservation on a restaurant’s website). You are solely responsible for the actions you take using Apps or adding custom Apps, and you can control whether an App is enabled in your workspace. Any custom App is subject to our [_App Developer Terms_ ⁠](<https://openai.com/policies/connectors-actions-terms/>) and you are responsible for ensuring that your App and its connected Application operate in compliance with those terms. OpenAI may (but will have no obligation to) review, refuse, or remove Applications from ChatGPT. Third-party Apps are not developed or verified by OpenAI, and may expose you to Applications or content that you may find offensive, inappropriate or objectionable. You agree that you use Apps at your own risk. DO NOT ADD OR ENABLE AN APP UNLESS YOU KNOW AND TRUST THE UNDERLYING APPLICATION AND HAVE REVIEWED ITS TERMS AND PRIVACY POLICY.
+(a) **Overview.** Apps and Actions (together “Apps”) allow ChatGPT to send and receive information from a third-party application or website (“Application”). You may take action on an Application through one or more Apps (for example, to request a reservation on a restaurant’s website). You are solely responsible for the actions you take using Apps or adding custom Apps, and you can control whether an App is enabled in your workspace. Any custom App is subject to our [_App Developer Terms⁠_ ⁠](<https://openai.com/policies/connectors-actions-terms/>) and you are responsible for ensuring that your App and its connected Application operate in compliance with those terms. OpenAI may (but will have no obligation to) review, refuse, or remove Applications from ChatGPT. Third-party Apps are not developed or verified by OpenAI, and may expose you to Applications or content that you may find offensive, inappropriate or objectionable. You agree that you use Apps at your own risk. DO NOT ADD OR ENABLE AN APP UNLESS YOU KNOW AND TRUST THE UNDERLYING APPLICATION AND HAVE REVIEWED ITS TERMS AND PRIVACY POLICY.
 
 (b) **App Operation and Content.** When you add or enable an App, the Services may send applicable portions of your Content and certain information such as your country and state (“App Data”) via the App to the Application. By using or enabling the App, you authorize and instruct us to send your App Data to the applicable Application, which will be handled in accordance with its terms. We are not responsible for App Data after it has been provided to an Application other than Applications owned by us. The App may retrieve information and content from the Application, which may be included in Output you receive from the Services. This information and content included in the Output is not owned by you or OpenAI, and may be subject to the terms of the Application.
 
@@ -101,6 +101,22 @@ Voice conversations is a ChatGPT feature that allows you to speak to our models 
 ## 9\. Medical Use
 
 Our Services are not intended for use in the diagnosis or treatment of any health condition. You are responsible for complying with applicable laws for any use of our Services in a medical or healthcare context.
+
+## 10\. Licensed Materials
+
+Some OpenAI Services may involve Customer downloading and installing software, packages, code, containers, or other modules that are delivered as source code, object code, data, and/or other works (“Licensed Materials”) on local machines, private cloud infrastructure, or other customer-managed systems (“Customer Systems”). These terms apply to Customer’s use of the Licensed Materials.
+
+(a) **License**. OpenAI hereby grants to Customer during the Term a limited non-exclusive license to copy, install, and use the Licensed Materials solely on Customer Systems and in accordance with the Agreement. This license is non-transferable (except in connection with a permitted assignment) and non-sublicensable and will terminate at the end of the Term or upon written notice to Customer. You may not modify, redistribute, or sublicense the Licensed Materials. If any component of the Licensed Materials are offered under an open source license, to the extent the provisions of that license grant Customer additional rights, those provisions will expressly override some terms of the Agreement solely with respect to that component of the Software.
+
+(b) **Scope of Use**. You may not use the Licensed Materials except in connection with your permitted use of the Services in accordance with the Agreement. Your use of the Licensed Materials must comply at all times with any restrictions applicable to the Services, generally, and must be used in accordance with any applicable documentation. You may access and use the Licensed Materials solely for the purposes of using the Licensed Materials with or connecting to the Services. If you do not agree to these terms, or if you do not have the requisite authority to agree to the Licensed Materials Agreement on behalf of the Customer, you may not view or use the Licensed Materials.
+
+(c) **Termination**. Upon termination, you must permanently delete the Licensed Materials and all copies thereof.
+
+(d) **Incorporation**. The Licensed Materials are considered a part of the Services and subject to the disclaimers and limitations of liability set forth therein.
+
+## 11\. ChatGPT Sites
+
+ChatGPT Sites is a feature that enables users to create, publish, and maintain websites or web applications. The use of ChatGPT Sites is subject to the [ChatGPT Sites Terms](</policies/chatgpt-sites-terms/>)[⁠⁠(opens in a new window)](<https://openai-dotcom-preview.vercel.app/policies/chatgpt-sites-terms/>).
 
 Our Research
 

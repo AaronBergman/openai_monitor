@@ -75,9 +75,9 @@ Developing safe and beneficial AI requires people from a wide range of disciplin
 
 [Advancing voice intelligence with new models in the APIProduct](</index/advancing-voice-intelligence-with-new-models-in-the-api/>)
 
-![20250826](https://images.ctfassets.net/kftzwdyauwt9/2H347RfdThVOeTfSBchxDx/8a053f4cfa92faeed7141265dd02e7dd/20250826.jpg?w=3840&q=90&fm=webp)
+![System Card 1x1](https://images.ctfassets.net/kftzwdyauwt9/2VCkKLVmTyNs0XGbqdxGeA/33ff7738f4e795ae0ee41ed2b4a985d3/System_Card_1x1.jpg?w=3840&q=90&fm=webp)
 
-[GPT-5.5 Instant: smarter, clearer, and more personalizedProduct](</index/gpt-5-5-instant/>)
+[GPT-5.5 Instant System CardSafety](</index/gpt-5-5-instant-system-card/>)
 
   * [Read more](</news/company-announcements/>)
 

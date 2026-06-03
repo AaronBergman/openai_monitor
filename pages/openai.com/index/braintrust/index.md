@@ -41,7 +41,7 @@ Braintrust engineers use Codex with GPT‑5.5 to turn customer feature requests 
 
 [Contact sales](</contact-sales/>)
 
-![Braintrust logo on an abstract blue background.](https://images.ctfassets.net/kftzwdyauwt9/7hFHaiuRbzcpJRR9SP9ojI/663748f3a33b4f26f4cfd42cfd1ec250/oai_braintrust_1x1.png?w=3840&q=90&fm=webp)
+![Braintrust logo on an abstract blue background.](https://images.ctfassets.net/kftzwdyauwt9/7hFHaiuRbzcpJRR9SP9ojI/7ea7e178330cd87d5cd1b00891151ed5/oai_braintrust_1x1.png?w=3840&q=90&fm=webp)
 
 Company size: Enterprise
 
@@ -103,17 +103,17 @@ More than 1 million businesses around the world are achieving meaningful results
 
 ## Keep reading
 
-![Boston Children’s Hospital card image](https://images.ctfassets.net/kftzwdyauwt9/4ROfsRLHlfzYGOnvawnoKG/ced960114b4b5c599cd1394513403b31/boston-childrens-card-1x1.png?w=3840&q=90&fm=webp)
+![oai Travelers 1x1](https://images.ctfassets.net/kftzwdyauwt9/1P6tCWotXVaO6PzSQrpLvz/fff24dc652764a3a7cbc6b059232b3be/oai_Travelers_1x1.png?w=3840&q=90&fm=webp)
 
-[Boston Children’s uses AI to unlock new diagnosesMay 29, 2026](</index/boston-childrens-hospital/>)
+[Travelers deploys AI-powered claims countrywide with OpenAIJun 2, 2026](</index/travelers/>)
 
-![1x1](https://images.ctfassets.net/kftzwdyauwt9/6ui4uYfTTbR4xbiFRcqEfo/81d973f14bea720820f692271f6c6834/square.png?w=3840&q=90&fm=webp)
+![1 1 Art Card](https://images.ctfassets.net/kftzwdyauwt9/4xugzd9dTDMUzIUmuamtO3/1f40af4e50ab8b2bdd64d5b491964961/1_1_Art_Card.png?w=3840&q=90&fm=webp)
 
-[Strengthening societal resilience with Rosalind BiodefenseProductMay 29, 2026](</index/strengthening-societal-resilience-with-rosalind-biodefense/>)
+[Codex for every role, tool, and workflowProductJun 2, 2026](</index/codex-for-every-role-tool-workflow/>)
 
-![Technical foundations > Art Card](https://images.ctfassets.net/kftzwdyauwt9/6gugGfSiM1oO6UHxxwnqTk/c7173a5a2c096a8f8a24c258ddfa22dd/ArtCard-TechnicalFoundations.png?w=3840&q=90&fm=webp)
+![oai 1x1](https://images.ctfassets.net/kftzwdyauwt9/7eONRWq61MKUix4tK4t88Y/170085acc9b241a0bdfba429bd217907/oai_1x1.png?w=3840&q=90&fm=webp)
 
-[A shared playbook for trustworthy third party evaluationsSafetyMay 29, 2026](</index/trustworthy-third-party-evaluations-foundations/>)
+[Advancing youth safety and opportunity through global leadershipGlobal AffairsJun 2, 2026](</index/advancing-youth-safety-and-opportunity-through-global-leadership/>)
 
 Our Research
 

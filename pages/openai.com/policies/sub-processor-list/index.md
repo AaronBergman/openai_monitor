@@ -30,20 +30,20 @@ Select language
 
 …
 
-Last updated: February 11, 2026
+Last updated: June 2, 2026
 
-# OpenAI Sub-processor List
+# OpenAI Sub-processor list
 
 OpenAI engages the following entities to provide processing activities for Customer Data (as defined in the OpenAI Data Processing Agreement).
 
-## Third Party Sub-processors
+## Third party Sub-processors
 
 **Entity Name**| **OpenAI Product or Service**| **Location of Processing**| **Purpose of Processing**  
 ---|---|---|---  
 Cloudflare, Ltd.| API  
 ChatGPT Enterprise  
 ChatGPT Edu  
-ChatGPT Business| Processing is performed at the [_data center_ ⁠(opens in a new window)](<https://www.cloudflare.com/network/>)that is closest to the End User| Content delivery network provider  
+ChatGPT Business| Processing is performed at the [_data center_ ⁠(opens in a new window)](<https://www.cloudflare.com/network/>) that is closest to the End User| Content delivery network providerWeb Hosting  
 Microsoft Corporation| API  
 ChatGPT Enterprise  
 ChatGPT Edu  
@@ -105,7 +105,7 @@ ChatGPT Enterprise
 ChatGPT Edu  
 ChatGPT Business| United States  
 Canada| Cloud infrastructure  
-Snowflake, Inc.| API*   
+Snowflake, Inc.| API*  
 ChatGPT Enterprise  
 ChatGPT Edu  
 ChatGPT Business| United States| Data warehousing  
@@ -113,9 +113,10 @@ TaskUs, LLC| API
 ChatGPT Enterprise  
 ChatGPT Edu  
 ChatGPT Business| Philippines| **All Services** :  
-Customer Support**API & ChatGPT Business:  
-**Moderation of content**ChatGPT Enterprise, Edu** & **ChatGPT Business** :  
+Customer support**API & ChatGPT Business:  
+**Moderation of content**ChatGPT Enterprise, Edu** & **ChatGPT Business** :   
 Moderation of GPTs  
+  
 Intercom, Inc.| API  
 ChatGPT Enterprise  
 ChatGPT Edu  
@@ -148,8 +149,10 @@ ChatGPT Edu| United States| Customer support***
 Accenture International Limited| API  
 ChatGPT Enterprise  
 ChatGPT Edu  
-ChatGPT Business| Canada  
-Philippines| Customer support  
+ChatGPT Business| United States  
+Canada  
+Philippines| Customer support**API & ChatGPT Business:  
+**Moderation of content  
 Fivetran, Inc.| Assistants API| United States| ETL provider  
 Confluent| API*  
 ChatGPT Enterprise  
@@ -186,7 +189,7 @@ United States| Infrastructure management
 ** At election of customer  
 ***At election of customer; applicable to premium support only
 
-#### Detail about Processing Purposes:
+#### Detail about processing purposes:
 
 _Customer Support_ : Customer Support services are initiated by the Customer, and Customer Data is only processed to the extent Customer explicitly elects to share such data in the course of the support case. 
 
@@ -194,9 +197,11 @@ _Customer Support_ : Customer Support services are initiated by the Customer, an
 
 For GPTs that are kept private to an individual or workspace, moderation activities must be initiated by the Customer, for instance if a user within the Customer’s workspace reports the GPT or appeals an action taken on the GPT. For GPTs published to the public, moderation may also be conducted if OpenAI determines the GPT may violate our policies. 
 
- _Infrastructure management_ : Merge API is only used when the Customer chooses to enable [_Connectors in ChatGPT_ ⁠(opens in a new window)](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>).
+ _Web Hosting:_ Hosting of ChatGPT Sites created web pages. Applicable subprocessors may run security and safety classifiers on web pages and share results with OpenAI.
 
-## OpenAI Entities
+_Infrastructure management_ : Merge API is only used when the Customer chooses to enable [_Connectors in ChatGPT_ ⁠(opens in a new window)](<https://help.openai.com/articles/11487775-connectors-in-chatgpt>).
+
+## OpenAI entities
 
 The following OpenAI affiliate companies provide technical and operational support for the Services. We use the Standard Contractual Clauses as a valid transfer mechanism among affiliates.
 
@@ -225,10 +230,9 @@ ChatGPT Business| Japan| OpenAI, LLC
   
 ## Subscribe to new Sub-processor notifications
 
-Sign up to receive notification of new third party Sub-processors by filling out [this form⁠](<https://openai.com/form/subscribe-to-new-sub-processors/>). 
+Sign up to receive notification of new third party Subprocessors by filling out [this form⁠(opens in a new window)](<https://share.hsforms.com/12eQCIydyQYSBVsV-pan8yQ4sk30>). 
 
-Please contact [privacy@openai.com⁠](<mailto:privacy@openai.com>) with any questions or concerns.   
-
+Please contact privacy@openai.com with any questions or concerns.
 
 Our Research
 
