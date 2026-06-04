@@ -63,17 +63,17 @@ OpenAI
 
 [View all](</news/>)
 
+![OpenAI’s public policy agenda > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/CdH7XdsXfpUaYZJpeCwwz/76b975c66fce3ce5ec4a901b4f675369/Frame.png?w=3840&q=90&fm=webp)
+
+[OpenAI public policy agendaGlobal AffairsJun 3, 2026](</index/public-policy-agenda/>)
+
+![Frontier Safety Blueprint > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/6zU111Ouj65b8iZJnswHBe/a705de1c90ab048510532db2f53f12f3/Frame.png?w=3840&q=90&fm=webp)
+
+[A blueprint for democratic governance of frontier AIGlobal AffairsJun 3, 2026](</index/frontier-safety-blueprint/>)
+
 ![oai 1x1](https://images.ctfassets.net/kftzwdyauwt9/7eONRWq61MKUix4tK4t88Y/170085acc9b241a0bdfba429bd217907/oai_1x1.png?w=3840&q=90&fm=webp)
 
 [Advancing youth safety and opportunity through global leadershipGlobal AffairsJun 2, 2026](</index/advancing-youth-safety-and-opportunity-through-global-leadership/>)
-
-![political-advocacy-1x1](https://images.ctfassets.net/kftzwdyauwt9/6iFKA29gSZlUpKEV8cHkSa/77f679c2f634e4c35f789debf339610b/political-advocacy-1x1.png?w=3840&q=90&fm=webp)
-
-[Our views on AI policy and political advocacyGlobal AffairsJun 1, 2026](</index/our-views-on-ai-policy-and-political-advocacy/>)
-
-![Building the infrastructure for the Intelligence Age in Michigan > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/4ky5b1SDOya3ZpkcZxRr8S/4cea852b9d54b0efeb7a68b4db3c1691/infrastructure-michigan-1x1.png?w=3840&q=90&fm=webp)
-
-[Building the infrastructure for the Intelligence Age in MichiganGlobal AffairsJun 1, 2026](</index/stargate-michigan-data-center/>)
 
 Our Research
 

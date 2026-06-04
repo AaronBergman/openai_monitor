@@ -60,12 +60,12 @@ Codex is most useful when it works the way your team does: connected to the tool
 Plugins help Codex work with the tools, context, and workflows your team already uses. Today, we’re launching six new role-specific plugins that make Codex useful for more kinds of knowledge work, no coding required:
 
   * Each [role-specific plugin⁠(opens in a new window)](<https://github.com/openai/role-based-plugins>) bundles the relevant apps, skills, instructions, and workflows. Together, they include 62 popular apps and 110 skills.
-  * The **data analytics plugin** helps analysts and business teams answer questions with data. They can explore product and business data, explain why key metrics changed, and create reports and dashboards using tools like Snowflake, Databricks Genie, Hex, and Tableau, with more coming soon.
-  * The **creative production plugin** helps marketing and creative teams turn a brief into assets they can review. Teams can create campaign boards, make and refine display ad variations, and produce product lifestyle shots or ecommerce-ready image sets with tools like Figma, Canva, Shutterstock, Picsart, and Fal.
-  * The **sales plugin** helps sales teams bring customer context into the work that moves deals forward. Sales teams can find high-priority accounts and signals, prepare for customer meetings, complete follow-ups, update customer records, build close plans, and review deals at risk using tools like Salesforce, HubSpot, Slack, Outreach, Clay, Rox, and Actively.
-  * The **product design plugin** is built for turning early ideas into prototypes teams can review. Teams can explore product directions, audit user flows, prototype from a live URL, and make static screenshots interactive, with work that can be carried forward in tools like Figma and Canva.
-  * The **public equity investing plugin** helps investors make sense of market and company information. They can review earnings, compare companies, track signals, and assess whether an investment thesis is strengthening or weakening using information from Moody’s, Daloopa, Datasite, FactSet, LSEG, S&P, PitchBook, and Hebbia.
-  * The **investment banking plugin** helps bankers turn research and diligence into client-ready materials. They can prepare pitch materials, analyze comparable companies and transactions, and turn diligence into recommendations using trusted data.
+  * The [**data analytics plugin** ⁠(opens in a new window)](<https://chatgpt.com/plugins/share/32687761205248ae9b517f3d30ad8dd1>) helps analysts and business teams answer questions with data. They can explore product and business data, explain why key metrics changed, and create reports and dashboards using tools like Snowflake, Databricks Genie, Hex, and Tableau, with more coming soon.
+  * The [**creative production plugin** ⁠(opens in a new window)](<https://chatgpt.com/plugins/share/a826391706e14c90816f2ceba9cc8b49>)**** helps marketing and creative teams turn a brief into assets they can review. Teams can create campaign boards, make and refine display ad variations, and produce product lifestyle shots or ecommerce-ready image sets with tools like Figma, Canva, Shutterstock, Picsart, and Fal.
+  * The [**sales plugin** ⁠(opens in a new window)](<https://chatgpt.com/plugins/share/22ec24462a4a410bba1c56c099f6101c>) helps sales teams bring customer context into the work that moves deals forward. Sales teams can find high-priority accounts and signals, prepare for customer meetings, complete follow-ups, update customer records, build close plans, and review deals at risk using tools like Salesforce, HubSpot, Slack, Outreach, Clay, Rox, and Actively.
+  * The [**product design plugin** ⁠(opens in a new window)](<https://chatgpt.com/plugins/share/37f657dbc41f408d9b05b52d30b8b527>) is built for turning early ideas into prototypes teams can review. Teams can explore product directions, audit user flows, prototype from a live URL, and make static screenshots interactive, with work that can be carried forward in tools like Figma and Canva.
+  * The [**public equity investing plugin** ⁠(opens in a new window)](<https://chatgpt.com/plugins/share/8f2f2fb7215f4688a0853afd038f2a1a>) helps investors make sense of market and company information. They can review earnings, compare companies, track signals, and assess whether an investment thesis is strengthening or weakening using information from Moody’s, Daloopa, Datasite, FactSet, LSEG, S&P, PitchBook, and Hebbia.
+  * The [**investment banking plugin** ⁠(opens in a new window)](<https://chatgpt.com/plugins/share/479468a8d5224cb2976c0fe6c6e599b5>) helps bankers turn research and diligence into client-ready materials. They can prepare pitch materials, analyze comparable companies and transactions, and turn diligence into recommendations using trusted data.
 
 
 
@@ -608,6 +608,10 @@ OpenAI
 
 [View all](</news/>)
 
+![Rosalind5.5 ArtCard](https://images.ctfassets.net/kftzwdyauwt9/6USIQM1B7TggUvvTFxxwoi/0176ac6633c8bdc24641d25d1d2db824/GPT-Rosalind_ArtCard.png?w=3840&q=90&fm=webp)
+
+[Introducing new capabilities to GPT-RosalindProductJun 3, 2026](</index/introducing-new-capabilities-to-gpt-rosalind/>)
+
 ![Open AI > AWS > Card Img](https://images.ctfassets.net/kftzwdyauwt9/4DyPHqWFzvKSbt5XNS0cCb/4b5da512c5bc9d6950c64d3ab2b85126/OAI_AWS_Partnership_1x1_Art_Card.png?w=3840&q=90&fm=webp)
 
 [OpenAI frontier models and Codex are now available on AWSProductJun 1, 2026](</index/openai-frontier-models-and-codex-are-now-available-on-aws/>)
@@ -615,10 +619,6 @@ OpenAI
 ![1x1](https://images.ctfassets.net/kftzwdyauwt9/6ui4uYfTTbR4xbiFRcqEfo/81d973f14bea720820f692271f6c6834/square.png?w=3840&q=90&fm=webp)
 
 [Strengthening societal resilience with Rosalind BiodefenseProductMay 29, 2026](</index/strengthening-societal-resilience-with-rosalind-biodefense/>)
-
-![Personal finance in ChatGPT > Media > Cover](https://images.ctfassets.net/kftzwdyauwt9/4zSr4YNWXIEYz20piN2bxf/6f9a561be6055802914aee0a3bb671d7/ArtCard-Personal-Finance.png?w=3840&q=90&fm=webp)
-
-[A new personal finance experience in ChatGPTProductMay 15, 2026](</index/personal-finance-chatgpt/>)
 
 Our Research
 
