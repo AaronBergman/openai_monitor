@@ -1,5 +1,47 @@
 # openai_monitor
 
+## 2026-06-04T09-15Z — GPT-Rosalind Biodefense Launches, Frontier Safety Blueprint Published, Merchant Commerce Terms Signal Shopping Push
+
+**Fetch time:** 2026-06-04T09:22Z | **Baseline:** 2026-06-03T09-15Z
+
+**TL;DR:** A dense policy and product day. Seven new pages appeared and 200 URLs were refreshed. The biggest news: OpenAI published the landing page for **GPT-Rosalind**, a purpose-built life-sciences AI model, and announced new capabilities alongside the **Rosalind Biodefense Program** — giving trusted developers and US government/allied partners access to GPT-Rosalind for pandemic preparedness and biodefense applications. On the governance front, OpenAI released a **Frontier Safety Blueprint** (proposing a US federal AI governance framework tied to state laws and a White House executive order) and a formal **Public Policy Agenda** — the first time OpenAI has published such a document on its main site. A brand new **Merchant Feed Terms of Service** document codifies how merchants can supply product catalogs to OpenAI for use in ChatGPT shopping recommendations. Codex Academy pages received a broad content refresh for non-technical audiences. Two new customer stories appeared (Endava, Wasmer). No pages were removed and no anomalies were detected.
+
+**Anomalies:** None.
+
+### Notable New Pages
+
+- **[GPT-Rosalind product page](pages/openai.com/gpt-rosalind/index.md)** — Dedicated product page for OpenAI's life-sciences AI model: reasoning across biology, proteins, genes, pathways, scientific evidence, and tools. Benchmarks show 53.7% improvement on Genebench, 18% on Medchem Bench, 19.6% on Labworkbench. Complemented by an access request form and the Rosalind Biodefense Program announcement. CTA: "Contact sales / Request access."
+
+- **[Introducing new capabilities to GPT-Rosalind](pages/openai.com/index/introducing-new-capabilities-to-gpt-rosalind/index.md)** — Announcement of expanded capabilities alongside the product launch.
+
+- **[A blueprint for democratic governance of frontier AI](pages/openai.com/index/frontier-safety-blueprint/index.md)** — OpenAI's blueprint for how the US can build a durable federal AI governance framework. Three-part strategy: align with emerging state laws (CA SB 53, NY RAISE Act, IL SB 315); strengthen CAISI as the primary federal AI safety institution; mobilize a broader national resilience plan. Timed with a White House executive order on *Promoting Advanced Artificial Intelligence Innovation and Security*.
+
+- **[OpenAI public policy agenda](pages/openai.com/index/public-policy-agenda/index.md)** — First comprehensive public policy statement on OpenAI's website. Five principles: Democratization, Empowerment, Universal Prosperity, Resilience, Adaptability. Policy priorities cover safety, youth safety, AI resilience, and AI infrastructure/energy.
+
+- **[Merchant Feed Terms of Service](pages/openai.com/policies/merchant-feed-terms-of-service/index.md)** — New legal terms for merchants who submit product feeds to OpenAI. Merchants grant OpenAI a royalty-free worldwide license to use their product content (name, brand, logos, trademarks) to surface/recommend products in ChatGPT. References a feed spec at `developers.openai.com/commerce/specs/feed` and compliance with OpenAI's Prohibited Products Policies. **Signals OpenAI building formal product-search/shopping infrastructure in ChatGPT.**
+
+- **[Endava Frontiers customer story](pages/openai.com/index/endava-frontiers/index.md)** — How Endava (global IT services) is redesigning software delivery workflows using ChatGPT + Codex as AI agents.
+
+- **[Wasmer customer story](pages/openai.com/index/wasmer/index.md)** — How Wasmer used Codex to build a Node.js runtime for the edge.
+
+### Key Updates
+
+- **[Codex Academy pages](pages/openai.com/academy/)** — 10+ pages updated June 4: what-is-codex, codex-how-to-start, codex-automations, codex-settings, codex-plugins-and-skills, how-finance/sales/data-science/business-ops-teams-use-codex, working-with-codex, how-to-use-codex-for-everyday-work. Reflects continuing push to expand Codex adoption among non-technical workers.
+
+- **[Customer stories index](pages/openai.com/business/customer-stories/index.md)** — Updated June 4. Wasmer added; Sea/David Chen story rotated out. 40+ individual customer story pages also received lastmod bumps June 4.
+
+- **[Stories section](pages/openai.com/stories/index.md)** — `/stories/`, `/stories/chatgpt/`, `/stories/api/`, `/stories/sora/` all refreshed June 4 with new entries.
+
+- **Policies updated June 3:** Service Terms, EU Services Privacy Policy (updated June 2), Privacy Policy, Sub-processor list — all received updates.
+
+### Removals
+
+None in this run.
+
+*Stats: 1327 total URLs | +7 added | 200 updated | 0 removed | 0 anomalies | 32 sub-sitemaps*
+
+---
+
 ## 2026-06-03T09-15Z — Codex Goes Mass-Market, Stargate Michigan Breaks Ground, Service Terms Updated for On-Prem Deployments
 
 **Fetch time:** 2026-06-03T09:22:47Z | **Baseline:** 2026-06-01T09-15Z

@@ -100,6 +100,10 @@ One in a million: celebrating the customers shaping AI’s future
 
 Filter
 
+![Wasmer Customer stories > oai 1x1](https://images.ctfassets.net/kftzwdyauwt9/7JgSY9kXOlq1H4hc83F7CW/823218f0976b5a81cdc777d5da5ed804/oai_wasmer_1x1.png?w=3840&q=90&fm=webp)
+
+[How Wasmer used Codex to build a Node.js runtime for the edgeJun 3, 2026](</index/wasmer/>)
+
 ![oai Travelers 1x1](https://images.ctfassets.net/kftzwdyauwt9/1P6tCWotXVaO6PzSQrpLvz/fff24dc652764a3a7cbc6b059232b3be/oai_Travelers_1x1.png?w=3840&q=90&fm=webp)
 
 [Travelers deploys AI-powered claims countrywide with OpenAIJun 2, 2026](</index/travelers/>)
@@ -143,10 +147,6 @@ Filter
 ![Databricks customer story > Hero image](https://images.ctfassets.net/kftzwdyauwt9/zSMR7MjYs8dfmIqajAVyK/996ec87e2e6d26dc5c327441f9dd8ea1/oai_Databricks_1x1.png?w=3840&q=90&fm=webp)
 
 [Databricks brings GPT-5.5 to enterprise agent workflowsMay 15, 2026](</index/databricks/>)
-
-![EF Ep20 1.1](https://images.ctfassets.net/kftzwdyauwt9/6Wp6DOKXObm4D5mzDZU7Q0/a612075495fe9f6854159364a3041bc2/EF_Ep20_1.1.png?w=3840&q=90&fm=webp)
-
-[Sea's View on the Future of Agentic Software Development with CodexMay 14, 2026](</index/sea-david-chen/>)
 
 Load more
 
