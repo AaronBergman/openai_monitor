@@ -34,12 +34,6 @@ OpenAI's frontier models help your business create, code, and innovate with conf
 
 [Try now(opens in a new window)](<https://chatgpt.com/team-sign-up>)[Contact sales](</contact-sales/>)
 
-## Enterprise-ready solutions for real impact
-
-[See all solutions](</solutions/>)
-
-Use casesIndustriesBlueprints
-
 ### ChatGPT for Business
 
 Empower your entire workforce with frontier AI.
@@ -163,11 +157,10 @@ Gabe Pereyra, AI Researcher and Co-founder, Harvey
 
 [Enabling a data-driven workforceWebinarAug 8, 2024](</business/enabling-a-data-driven-workforce-webinar/>)
 
-Our Research
+Research
 
   * [Research Index](</research/index/>)
   * [Research Overview](</research/>)
-  * [Research Residency](</residency/>)
   * [Economic Research](</signals/>)
 
 
@@ -177,44 +170,52 @@ Latest Advancements
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
   * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
-  * [GPT-5.3-Codex](</index/introducing-gpt-5-3-codex/>)
 
 
 
 Safety
 
   * [Safety Approach](</safety/>)
+  * [Deployment Safety(opens in a new window)](<https://deploymentsafety.openai.com/>)
   * [Security & Privacy](</security-and-privacy/>)
   * [Trust & Transparency](</trust-and-transparency/>)
 
 
 
-ChatGPT
+Products
 
-  * [Explore ChatGPT(opens in a new window)](<https://chatgpt.com/overview>)
-  * [Business](<https://chatgpt.com/business/business-plan>)
-  * [Enterprise](<https://chatgpt.com/business/enterprise>)
-  * [Education](<https://chatgpt.com/business/education>)
-  * [Pricing(opens in a new window)](<https://chatgpt.com/pricing>)
-  * [Download(opens in a new window)](<https://chatgpt.com/download>)
+  * [ChatGPT(opens in a new window)](<https://chatgpt.com/>)
+  * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
+  * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
+  * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
+  * [Codex](</codex/>)
 
 
 
 API Platform
 
-  * [Platform Overview](</api/>)
-  * [Pricing](</api/pricing/>)
-  * [API log in(opens in a new window)](<https://platform.openai.com/login>)
-  * [Documentation(opens in a new window)](<https://developers.openai.com/api/docs>)
-  * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
+  * [Overview](</api/>)
+  * [API Log In(opens in a new window)](<https://platform.openai.com/login>)
+  * [Docs(opens in a new window)](<https://developers.openai.com/api/docs>)
 
 
 
-For Business
+Business
 
-  * [Business Overview](</business/>)
+  * [Overview](</business/>)
   * [Solutions](</solutions/>)
+  * [Resources](</business/learn/>)
   * [Contact Sales](</contact-sales/>)
+
+
+
+Developers
+
+  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
+  * [Open Models](</open-models/>)
+  * [Docs(opens in a new window)](<https://developers.openai.com/>)
+  * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
+  * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
 
 
 
@@ -222,9 +223,8 @@ Company
 
   * [About Us](</about/>)
   * [Our Charter](</charter/>)
-  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
   * [Careers](</careers/>)
-  * [Brand](</brand/>)
+  * [News](</news/>)
 
 
 
@@ -236,7 +236,6 @@ Support
 
 More
 
-  * [News](</news/>)
   * [Stories](</stories/>)
   * [Academy](</academy/>)
   * [Livestreams](</live/>)
@@ -258,33 +257,3 @@ Terms & Policies
 OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
-
-![Coding cover image](https://images.ctfassets.net/kftzwdyauwt9/1cnZsax1BxlDpLAJu71sPl/20cc00572cd6fb29a02d7febab8117f4/Wallpaper-coding-hero.png?w=3840&q=90&fm=webp)
-
-![Content creation cover image](https://images.ctfassets.net/kftzwdyauwt9/11AhW3RqHajVdmOwUXEAny/bd20fa9b7b4fe0fbcba6229a4c5544de/solution-contentcreation-hero.png?w=3840&q=90&fm=webp)
-
-![Research cover image](https://images.ctfassets.net/kftzwdyauwt9/38z3k9r5tK4dxXibazoG3p/4fd45dfad4fa1014a558196675a830ee/solution-research-hero.png?w=3840&q=90&fm=webp)
-
-![Agents cover image](https://images.ctfassets.net/kftzwdyauwt9/Jn0IOO9cRvbzrQ7bQfUSm/7519a0ae71d48b547d6fd47c0548517b/solution-automation-hero.png?w=3840&q=90&fm=webp)
-
-![Data analysis cover image](https://images.ctfassets.net/kftzwdyauwt9/7I5bqgWC7nLBDTC2rkXfjP/ac7a07972ffcf44b54065fcd6e2a164c/solution-data_analysis-hero.png?w=3840&q=90&fm=webp)
-
-### Coding
-
-Build, debug, and ship faster.
-
-### Content Creation 
-
-Create clear, consistent content at scale.
-
-### Research
-
-Gather and synthesize knowledge instantly.
-
-### Agents
-
-Extend your team with agents that take action.
-
-### Data analysis
-
-Uncover insights that drive smarter decisions.

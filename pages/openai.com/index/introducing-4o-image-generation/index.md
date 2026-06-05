@@ -227,7 +227,401 @@ Code-generated imageCocktail recipesWeather infographicWhale guideMatcha instruc
 
 **Code Example (Three.js)**
 
-Unknown component type: componentCodeExample
+#### HTML
+
+`
+    
+    
+    1
+    
+    <!DOCTYPE html>
+    
+    2
+    
+    <html lang="en">
+    
+    3
+    
+      <head>
+    
+    4
+    
+        <meta charset="UTF-8" />
+    
+    5
+    
+        <title>OpenAI Banner</title>
+    
+    6
+    
+        <style>
+    
+    7
+    
+          body { margin: 0; overflow: hidden; }
+    
+    8
+    
+          canvas { display: block; }
+    
+    9
+    
+        </style>
+    
+    10
+    
+      </head>
+    
+    11
+    
+      <body>
+    
+    12
+    
+        <script type="module">
+    
+    13
+    
+          import * as THREE from 'https://cdn.jsdelivr.net/npm/three@0.160.0/build/three.module.js';
+    
+    14
+    
+          import { OrbitControls } from 'https://cdn.jsdelivr.net/npm/three@0.160.0/examples/jsm/controls/OrbitControls.js';
+    
+    15
+    
+          import { FontLoader } from 'https://cdn.jsdelivr.net/npm/three@0.160.0/examples/jsm/loaders/FontLoader.js';
+    
+    16
+    
+          import { TextGeometry } from 'https://cdn.jsdelivr.net/npm/three@0.160.0/examples/jsm/geometries/TextGeometry.js';
+    
+    17
+    
+      
+    
+    
+    18
+    
+          const scene = new THREE.Scene();
+    
+    19
+    
+          const camera = new THREE.PerspectiveCamera(45, window.innerWidth / window.innerHeight, 0.1, 1000);
+    
+    20
+    
+          const renderer = new THREE.WebGLRenderer({ antialias: true });
+    
+    21
+    
+          renderer.setSize(window.innerWidth, window.innerHeight);
+    
+    22
+    
+          document.body.appendChild(renderer.domElement);
+    
+    23
+    
+      
+    
+    
+    24
+    
+          // Lighting
+    
+    25
+    
+          const light = new THREE.AmbientLight(0xffffff, 1);
+    
+    26
+    
+          scene.add(light);
+    
+    27
+    
+      
+    
+    
+    28
+    
+          const dirLight = new THREE.DirectionalLight(0xffffff, 1);
+    
+    29
+    
+          dirLight.position.set(0, 5, 10);
+    
+    30
+    
+          scene.add(dirLight);
+    
+    31
+    
+      
+    
+    
+    32
+    
+          // Camera position
+    
+    33
+    
+          camera.position.z = 20;
+    
+    34
+    
+      
+    
+    
+    35
+    
+          // Controls
+    
+    36
+    
+          const controls = new OrbitControls(camera, renderer.domElement);
+    
+    37
+    
+      
+    
+    
+    38
+    
+          // Banner background
+    
+    39
+    
+          const bannerGeometry = new THREE.PlaneGeometry(20, 10);
+    
+    40
+    
+          const bannerMaterial = new THREE.MeshStandardMaterial({ color: 0x1a1a1a });
+    
+    41
+    
+          const banner = new THREE.Mesh(bannerGeometry, bannerMaterial);
+    
+    42
+    
+          scene.add(banner);
+    
+    43
+    
+      
+    
+    
+    44
+    
+          // OpenAI Logo texture (placeholder)
+    
+    45
+    
+          const loader = new THREE.TextureLoader();
+    
+    46
+    
+          loader.load('https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg', texture => {
+    
+    47
+    
+            const logoGeometry = new THREE.PlaneGeometry(4, 4);
+    
+    48
+    
+            const logoMaterial = new THREE.MeshBasicMaterial({ map: texture, transparent: true });
+    
+    49
+    
+            const logo = new THREE.Mesh(logoGeometry, logoMaterial);
+    
+    50
+    
+            logo.position.set(-5, 0, 0.1); // Slightly in front of the banner
+    
+    51
+    
+            scene.add(logo);
+    
+    52
+    
+          });
+    
+    53
+    
+      
+    
+    
+    54
+    
+          // Load font and add text
+    
+    55
+    
+          const fontLoader = new FontLoader();
+    
+    56
+    
+          fontLoader.load('https://threejs.org/examples/fonts/helvetiker_regular.typeface.json', font => {
+    
+    57
+    
+            const textGeometry = new TextGeometry("I am 4-o", {
+    
+    58
+    
+              font: font,
+    
+    59
+    
+              size: 1,
+    
+    60
+    
+              height: 0.2,
+    
+    61
+    
+              curveSegments: 12,
+    
+    62
+    
+              bevelEnabled: true,
+    
+    63
+    
+              bevelThickness: 0.02,
+    
+    64
+    
+              bevelSize: 0.02,
+    
+    65
+    
+              bevelOffset: 0,
+    
+    66
+    
+              bevelSegments: 5
+    
+    67
+    
+            });
+    
+    68
+    
+      
+    
+    
+    69
+    
+            textGeometry.center();
+    
+    70
+    
+      
+    
+    
+    71
+    
+            const textMaterial = new THREE.MeshStandardMaterial({ color: 0x00ffcc });
+    
+    72
+    
+            const textMesh = new THREE.Mesh(textGeometry, textMaterial);
+    
+    73
+    
+            textMesh.position.set(5, -0.5, 0.1); // Opposite side of logo
+    
+    74
+    
+            scene.add(textMesh);
+    
+    75
+    
+          });
+    
+    76
+    
+      
+    
+    
+    77
+    
+          // Resize handler
+    
+    78
+    
+          window.addEventListener('resize', () => {
+    
+    79
+    
+            camera.aspect = window.innerWidth / window.innerHeight;
+    
+    80
+    
+            camera.updateProjectionMatrix();
+    
+    81
+    
+            renderer.setSize(window.innerWidth, window.innerHeight);
+    
+    82
+    
+          });
+    
+    83
+    
+      
+    
+    
+    84
+    
+          // Render loop
+    
+    85
+    
+          function animate() {
+    
+    86
+    
+            requestAnimationFrame(animate);
+    
+    87
+    
+            controls.update();
+    
+    88
+    
+            renderer.render(scene, camera);
+    
+    89
+    
+          }
+    
+    90
+    
+      
+    
+    
+    91
+    
+          animate();
+    
+    92
+    
+        </script>
+    
+    93
+    
+      </body>
+    
+    94
+    
+    </html>
+
+`
 
 make an image of what this means to you
 
@@ -652,11 +1046,10 @@ Adam Brandon, Adam Koppel, Angela Baek, Cary Hudson, Dana Palmie, Freddie Sulit,
 
 Aditya Ramesh, Aidan Clark, Alex Beutel, Ben Newhouse, Ben Rossen, Che Chang, Greg Brockman, Hannah Wong, Ishaan Singal, Jason Kwon, Jiacheng Feng, Jiahui Yu, Joanne Jang, Johannes Heidecke, Kevin Weil, Mark Chen, Mia Glaese, Nick Turley, Raul Puri, Reiichiro Nakano, Rui Shu, Sam Altman, Shuchao Bi, Vinnie Monaco
 
-Our Research
+Research
 
   * [Research Index](</research/index/>)
   * [Research Overview](</research/>)
-  * [Research Residency](</residency/>)
   * [Economic Research](</signals/>)
 
 
@@ -666,44 +1059,52 @@ Latest Advancements
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
   * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
-  * [GPT-5.3-Codex](</index/introducing-gpt-5-3-codex/>)
 
 
 
 Safety
 
   * [Safety Approach](</safety/>)
+  * [Deployment Safety(opens in a new window)](<https://deploymentsafety.openai.com/>)
   * [Security & Privacy](</security-and-privacy/>)
   * [Trust & Transparency](</trust-and-transparency/>)
 
 
 
-ChatGPT
+Products
 
-  * [Explore ChatGPT(opens in a new window)](<https://chatgpt.com/overview>)
-  * [Business](<https://chatgpt.com/business/business-plan>)
-  * [Enterprise](<https://chatgpt.com/business/enterprise>)
-  * [Education](<https://chatgpt.com/business/education>)
-  * [Pricing(opens in a new window)](<https://chatgpt.com/pricing>)
-  * [Download(opens in a new window)](<https://chatgpt.com/download>)
+  * [ChatGPT(opens in a new window)](<https://chatgpt.com/>)
+  * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
+  * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
+  * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
+  * [Codex](</codex/>)
 
 
 
 API Platform
 
-  * [Platform Overview](</api/>)
-  * [Pricing](</api/pricing/>)
-  * [API log in(opens in a new window)](<https://platform.openai.com/login>)
-  * [Documentation(opens in a new window)](<https://developers.openai.com/api/docs>)
-  * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
+  * [Overview](</api/>)
+  * [API Log In(opens in a new window)](<https://platform.openai.com/login>)
+  * [Docs(opens in a new window)](<https://developers.openai.com/api/docs>)
 
 
 
-For Business
+Business
 
-  * [Business Overview](</business/>)
+  * [Overview](</business/>)
   * [Solutions](</solutions/>)
+  * [Resources](</business/learn/>)
   * [Contact Sales](</contact-sales/>)
+
+
+
+Developers
+
+  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
+  * [Open Models](</open-models/>)
+  * [Docs(opens in a new window)](<https://developers.openai.com/>)
+  * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
+  * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
 
 
 
@@ -711,9 +1112,8 @@ Company
 
   * [About Us](</about/>)
   * [Our Charter](</charter/>)
-  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
   * [Careers](</careers/>)
-  * [Brand](</brand/>)
+  * [News](</news/>)
 
 
 
@@ -725,7 +1125,6 @@ Support
 
 More
 
-  * [News](</news/>)
   * [Stories](</stories/>)
   * [Academy](</academy/>)
   * [Livestreams](</live/>)

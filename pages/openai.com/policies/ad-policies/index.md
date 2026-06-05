@@ -30,7 +30,7 @@ Select language
 
 …
 
-Updated: May 26, 2026
+Updated: June 4, 2026
 
 # Ad policies
 
@@ -80,7 +80,7 @@ No ads on conversations associated with inappropriate categories, including harm
   
 ## 2\. Ad content policy
 
-Our ad content policies define the categories of advertising currently supported on ChatGPT. During the initial test period, ads are primarily limited to consumer verticals such as lifestyle and household goods, local services, travel and experiences, and digital products or education. These categories may expand over time. We may approve ads from approved advertisers within the financial services, healthcare & medicine, and legal services categories. These categories are being rolled out gradually with approvals being reviewed manually on a case-by-base basis.
+Our ad content policies define the categories of advertising currently supported on ChatGPT. During the initial test period, ads are primarily limited to consumer verticals such as lifestyle and household goods, local services, travel and experiences, and digital products or education. These categories may expand over time. We may approve ads from approved advertisers within the financial services, healthcare & medicine, and legal services categories. These categories are being rolled out gradually with approvals being reviewed manually on a case-by-case basis.
 
 All other categories are disallowed at launch, including ads that violate OpenAI’s usage policies and those related to sensitive or regulated areas such as dating or sexual content, health claims, alcohol and drugs, healthcare, financial or legal services, gambling, and political content. This list may evolve as the program develops.
 
@@ -203,7 +203,7 @@ This section explains what standards we apply, how we implement these standards,
 Our review process evaluates the full ad experience at three levels:
 
   * **Advertisers:** When advertisers sign up on our ads manager platform, we verify their business and assess whether they fit within our allowed policy categories, and can safely participate in our ads ecosystem. We may also evaluate account quality and risk signals associated with scams, fraud, abuse, or deceptive behavior. 
-  * **Ad creative and landing pages** : When an ad is uploaded, we review the title, copy, media, and landing page for compliance with our policies. Ads are rejected if any of these assets promote or meaningfully reference disallowed policy categories (e.g., weapons, alcohol, deceptive practices) or otherwise violate our baseline policy standards.
+  * **Ad creative and landing pages** : When an ad is uploaded, we review the title, copy, media, and landing page for compliance with our policies. Ads are rejected if any of these assets promote or meaningfully reference disallowed policy categories (e.g., weapons, alcohol, deceptive practices), contain landing pages that do not match the products or services depicted in the ad creative, or otherwise violate our baseline policy standards.
   * **Placement:** As a final step, we ensure approved ads only appear in relevant conversations that comply with our placement policy⁠.
 
 
@@ -236,11 +236,10 @@ We’re building the ChatGPT ads platform with safety and trust at the core, and
 
 The goal is straightforward: make it possible for businesses of all sizes to use ChatGPT ads while keeping the experience useful, trustworthy, and aligned with how people rely on ChatGPT every day.
 
-Our Research
+Research
 
   * [Research Index](</research/index/>)
   * [Research Overview](</research/>)
-  * [Research Residency](</residency/>)
   * [Economic Research](</signals/>)
 
 
@@ -250,44 +249,52 @@ Latest Advancements
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
   * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
-  * [GPT-5.3-Codex](</index/introducing-gpt-5-3-codex/>)
 
 
 
 Safety
 
   * [Safety Approach](</safety/>)
+  * [Deployment Safety(opens in a new window)](<https://deploymentsafety.openai.com/>)
   * [Security & Privacy](</security-and-privacy/>)
   * [Trust & Transparency](</trust-and-transparency/>)
 
 
 
-ChatGPT
+Products
 
-  * [Explore ChatGPT(opens in a new window)](<https://chatgpt.com/overview>)
-  * [Business](<https://chatgpt.com/business/business-plan>)
-  * [Enterprise](<https://chatgpt.com/business/enterprise>)
-  * [Education](<https://chatgpt.com/business/education>)
-  * [Pricing(opens in a new window)](<https://chatgpt.com/pricing>)
-  * [Download(opens in a new window)](<https://chatgpt.com/download>)
+  * [ChatGPT(opens in a new window)](<https://chatgpt.com/>)
+  * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
+  * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
+  * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
+  * [Codex](</codex/>)
 
 
 
 API Platform
 
-  * [Platform Overview](</api/>)
-  * [Pricing](</api/pricing/>)
-  * [API log in(opens in a new window)](<https://platform.openai.com/login>)
-  * [Documentation(opens in a new window)](<https://developers.openai.com/api/docs>)
-  * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
+  * [Overview](</api/>)
+  * [API Log In(opens in a new window)](<https://platform.openai.com/login>)
+  * [Docs(opens in a new window)](<https://developers.openai.com/api/docs>)
 
 
 
-For Business
+Business
 
-  * [Business Overview](</business/>)
+  * [Overview](</business/>)
   * [Solutions](</solutions/>)
+  * [Resources](</business/learn/>)
   * [Contact Sales](</contact-sales/>)
+
+
+
+Developers
+
+  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
+  * [Open Models](</open-models/>)
+  * [Docs(opens in a new window)](<https://developers.openai.com/>)
+  * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
+  * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
 
 
 
@@ -295,9 +302,8 @@ Company
 
   * [About Us](</about/>)
   * [Our Charter](</charter/>)
-  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
   * [Careers](</careers/>)
-  * [Brand](</brand/>)
+  * [News](</news/>)
 
 
 
@@ -309,7 +315,6 @@ Support
 
 More
 
-  * [News](</news/>)
   * [Stories](</stories/>)
   * [Academy](</academy/>)
   * [Livestreams](</live/>)

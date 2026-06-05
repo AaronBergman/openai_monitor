@@ -32,19 +32,19 @@ Build AI systems using tools, techniques, and real-world patterns.
 
 ![Academy building with AI landing page > Layout > Group > Topics > Cards > Grid > Codex for builders > Media > Asset](https://images.ctfassets.net/kftzwdyauwt9/kMKjSYknYr4Gf2gQtqjHO/310c67fa31b1791ba5ba1753a751336f/for-builders.png?w=3840&q=90&fm=webp)
 
-[Codex for buildersUsing Codex for real coding tasks and workflows.(opens in a new window)](<https://academy.openai.com/home/clubs/builders-etkn1/tags/codex-for-builders-69a092a5916a548dee49a6bd>)
+[Codex for buildersUsing Codex for real coding tasks and workflows.(opens in a new window)](<https://academy.openai.com/public/clubs/builders-etkn1/tags/codex-for-builders-6a1f09c4a9f06c84af305c74>)
 
 ![Academy building with AI landing page > Layout > Group > Topics > Cards > Grid > Technical learning tracks > Media > Asset](https://images.ctfassets.net/kftzwdyauwt9/55LIDFbkE55YVmGTtgvsKP/1eeb345e40fadae3c52419d1508077ef/technical-learning-tracks.png?w=3840&q=90&fm=webp)
 
-[Technical learning tracksStep-by-step tracks for building and using AI systems.(opens in a new window)](<https://academy.openai.com/home/clubs/builders-etkn1/tags/technical-learning-tracks-68a3cb3bb6735037ee532c79>)
+[Technical learning tracksStep-by-step tracks for building and using AI systems.(opens in a new window)](<https://academy.openai.com/home/clubs/builders-etkn1/overview>)
 
 ![Academy building with AI landing page > Layout > Group > Topics > Cards > Grid > AI techniques > Media > Asset](https://images.ctfassets.net/kftzwdyauwt9/4dKFCy0mZpK1j5MfyBNL3p/08a0ce3067d2418be3bc7b848c02e09e/ai-techniques.png?w=3840&q=90&fm=webp)
 
-[AI techniquesMethods for building, prompting, and working with AI.(opens in a new window)](<https://academy.openai.com/home/clubs/builders-etkn1/tags/ai-techniques-6877d65781524bc22944d151>)
+[AI techniquesMethods for building, prompting, and working with AI.(opens in a new window)](<https://academy.openai.com/home/clubs/builders-etkn1/tags/ai-techniques-6a1f709a38f22101e30170c7>)
 
 ![Academy building with AI landing page > Layout > Group > Topics > Cards > Grid > Solution packs and patterns > Media > Asset](https://images.ctfassets.net/kftzwdyauwt9/5xMpq7Q0JXMzdCm5GmMQc8/c32a4332c00d64537cc569e015587356/packs-patterns.png?w=3840&q=90&fm=webp)
 
-[Solution packs and patternsReusable patterns and solutions for real-world use.(opens in a new window)](<https://academy.openai.com/home/clubs/builders-etkn1/tags/solution-packs-and-patterns-68499fc6dfd75620a939e9eb>)
+[Solution packs and patternsReusable patterns and solutions for real-world use.(opens in a new window)](<https://academy.openai.com/home/clubs/builders-etkn1/tags/solution-packs-and-patterns-6a1f713838f22101e3017263>)
 
 #### Explore more
 
@@ -78,11 +78,10 @@ Connect with a community of peers exploring and building with AI.
 
 [Learn more(opens in a new window)](<https://academy.openai.com/>)
 
-Our Research
+Research
 
   * [Research Index](</research/index/>)
   * [Research Overview](</research/>)
-  * [Research Residency](</residency/>)
   * [Economic Research](</signals/>)
 
 
@@ -92,44 +91,52 @@ Latest Advancements
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
   * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
-  * [GPT-5.3-Codex](</index/introducing-gpt-5-3-codex/>)
 
 
 
 Safety
 
   * [Safety Approach](</safety/>)
+  * [Deployment Safety(opens in a new window)](<https://deploymentsafety.openai.com/>)
   * [Security & Privacy](</security-and-privacy/>)
   * [Trust & Transparency](</trust-and-transparency/>)
 
 
 
-ChatGPT
+Products
 
-  * [Explore ChatGPT(opens in a new window)](<https://chatgpt.com/overview>)
-  * [Business](<https://chatgpt.com/business/business-plan>)
-  * [Enterprise](<https://chatgpt.com/business/enterprise>)
-  * [Education](<https://chatgpt.com/business/education>)
-  * [Pricing(opens in a new window)](<https://chatgpt.com/pricing>)
-  * [Download(opens in a new window)](<https://chatgpt.com/download>)
+  * [ChatGPT(opens in a new window)](<https://chatgpt.com/>)
+  * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
+  * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
+  * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
+  * [Codex](</codex/>)
 
 
 
 API Platform
 
-  * [Platform Overview](</api/>)
-  * [Pricing](</api/pricing/>)
-  * [API log in(opens in a new window)](<https://platform.openai.com/login>)
-  * [Documentation(opens in a new window)](<https://developers.openai.com/api/docs>)
-  * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
+  * [Overview](</api/>)
+  * [API Log In(opens in a new window)](<https://platform.openai.com/login>)
+  * [Docs(opens in a new window)](<https://developers.openai.com/api/docs>)
 
 
 
-For Business
+Business
 
-  * [Business Overview](</business/>)
+  * [Overview](</business/>)
   * [Solutions](</solutions/>)
+  * [Resources](</business/learn/>)
   * [Contact Sales](</contact-sales/>)
+
+
+
+Developers
+
+  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
+  * [Open Models](</open-models/>)
+  * [Docs(opens in a new window)](<https://developers.openai.com/>)
+  * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
+  * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
 
 
 
@@ -137,9 +144,8 @@ Company
 
   * [About Us](</about/>)
   * [Our Charter](</charter/>)
-  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
   * [Careers](</careers/>)
-  * [Brand](</brand/>)
+  * [News](</news/>)
 
 
 
@@ -151,7 +157,6 @@ Support
 
 More
 
-  * [News](</news/>)
   * [Stories](</stories/>)
   * [Academy](</academy/>)
   * [Livestreams](</live/>)

@@ -1,5 +1,78 @@
 # openai_monitor
 
+
+## 2026-06-05T09-15Z — Promptfoo Acquisition, GPT-Rosalind Expansion, Biodefense Plan, Sitewide Nav Redesign
+
+**Fetch time:** 2026-06-05T09:18:21Z | **Baseline:** 2026-06-03T09-15Z | **Total URLs:** 1330 | **Added:** 10 | **Updated:** 823 | **Removed:** 28 | **Anomalies:** 2 (timing artifacts) | **Sub-sitemaps:** 32
+
+**TL;DR:** A big content day. OpenAI announced an acquisition (Promptfoo, an AI security-testing company), published a GPT-Rosalind product page plus new model capabilities targeting the life sciences, released a biodefense action plan and federal AI governance blueprint, launched a new business pricing page, and added Merchant Feed terms of service — a signal of expanded commerce integrations. A sitewide navigation redesign touched 800+ pages (most changes are structural nav link updates, not substantive content). 28 pages were removed including the entire DeployCo subdomain, several deprecated product/policy pages, and the `/science/`, `/foundation/`, and `/safety/evaluations-hub/` pages.
+
+### Anomalies — Timing Artifacts (Not Significant)
+
+Two `future_lastmod` flags appeared, both false positives caused by sub-second clock skew: the sitemap's `<lastmod>` timestamps were set to "now" at the exact millisecond OpenAI was publishing these pages, overlapping with our fetch. Both are legitimate new pages published today.
+
+- **future_lastmod** (62ms): `https://openai.com/index/openai-to-acquire-promptfoo/` — lastmod `2026-06-05T09:18:21.062Z` vs. fetch `2026-06-05T09:18:21Z`. This page was literally going live as we fetched.
+- **future_lastmod** (493ms): `https://openai.com/policies/eu-services-privacy-policy/` — lastmod `2026-06-05T09:18:21.493Z` vs. fetch `2026-06-05T09:18:21Z`. Same timing artifact; the EU privacy policy was updated today.
+
+### Notable New Pages
+
+- **[OpenAI to acquire Promptfoo](pages/openai.com/index/openai-to-acquire-promptfoo/index.md)** (`https://openai.com/index/openai-to-acquire-promptfoo/`, lastmod: 2026-06-05)  
+  OpenAI is acquiring Promptfoo, an AI security platform used by 25%+ of Fortune 500 companies for red-teaming and LLM vulnerability testing. The technology will be integrated into **OpenAI Frontier** (the enterprise AI-coworker platform). Promptfoo will continue maintaining its popular open-source CLI. Acquisition still subject to closing conditions. Led by Ian Webster and Michael D'Angelo.
+
+- **[GPT-Rosalind product page](pages/openai.com/gpt-rosalind/index.md)** (`https://openai.com/gpt-rosalind/`, lastmod: 2026-06-05)  
+  New dedicated product page for GPT-Rosalind, described as "AI for life sciences research" — a purpose-built model for reasoning across biology, drug discovery, and translational medicine. Supports tools, datasets, and repeatable lab workflows. Contact-sales / access-request model (not self-serve).
+
+- **[Introducing new capabilities to GPT-Rosalind](pages/openai.com/index/introducing-new-capabilities-to-gpt-rosalind/index.md)** (`https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind/`, lastmod: 2026-06-05)  
+  Model update bringing GPT-5.5's agentic coding and tool-use to Rosalind with stronger performance in medicinal chemistry, genomics, wet-lab troubleshooting, and quantitative biology. OpenAI introduces **LifeSciBench**, a new expert-judged benchmark for life-sciences work. Available in research preview to eligible organizations globally.
+
+- **[Biodefense in the Intelligence Age](pages/openai.com/index/biodefense-in-the-intelligence-age/index.md)** (`https://openai.com/index/biodefense-in-the-intelligence-age/`, lastmod: 2026-06-04)  
+  OpenAI's action plan for AI-powered biological resilience — detection, countermeasures, and crisis response. Published alongside a full PDF. Directly references Rosalind Biodefense (announced May) and the dual-use tension: the same capabilities that help scientists develop therapies also create biosecurity risks.
+
+- **[A blueprint for democratic governance of frontier AI](pages/openai.com/index/frontier-safety-blueprint/index.md)** (`https://openai.com/index/frontier-safety-blueprint/`, lastmod: 2026-06-05)  
+  Published June 3 (appeared in sitemap today). PDF blueprint outlining a three-part U.S. federal strategy: (1) build on emerging state frontier-safety laws (CA SB 53, NY RAISE Act, IL SB 315); (2) strengthen CAISI as the primary federal AI safety institution; (3) mobilize a national resilience plan. References the new White House executive order on AI innovation and security.
+
+- **[OpenAI public policy agenda](pages/openai.com/index/public-policy-agenda/index.md)** (`https://openai.com/index/public-policy-agenda/`, lastmod: 2026-06-04)  
+  OpenAI's formal statement of policy priorities: safety, youth safety, AI resilience, and infrastructure/energy. Anchored to five company principles (democratization, empowerment, universal prosperity, resilience, adaptability).
+
+- **[Business Pricing page](pages/openai.com/business/pricing/index.md)** (`https://openai.com/business/pricing/`, lastmod: 2026-06-04)  
+  New dedicated pricing page for business plans. Highlights **BusinessCodex**: pay-as-you-go (no fixed seat fee), includes AI software engineering, automated code/security reviews, multi-agent workflows, SAML SSO, and MFA. No training on customer data.
+
+- **[Merchant Feed Terms of Service](pages/openai.com/policies/merchant-feed-terms-of-service/index.md)** (`https://openai.com/policies/merchant-feed-terms-of-service/`, lastmod: 2026-06-05)  
+  New legal terms for merchants supplying product feeds to OpenAI for shopping/commerce integration. Merchants grant OpenAI a royalty-free worldwide license to use product content. References `developers.openai.com/commerce/specs/feed` — an e-commerce product feed spec. Signals continued build-out of OpenAI's commerce/shopping capabilities.
+
+- **[Dreaming: Better memory for a more helpful ChatGPT](pages/openai.com/index/chatgpt-memory-dreaming/index.md)** (`https://openai.com/index/chatgpt-memory-dreaming/`, lastmod: 2026-06-05)  
+  New memory synthesis system addressing staleness, correctness, and scalability problems. Rolling out to Plus and Pro users in the US today; Free and Go users coming over next weeks. Optimizes for freshness, continuity, and relevance across hundreds of millions of users and multi-year time horizons.
+
+- **[Endava case study](pages/openai.com/index/endava-frontiers/index.md)** and **[Wasmer / Codex case study](pages/openai.com/index/wasmer/index.md)** — Two new Frontier/Codex enterprise customer stories.
+
+### Sitewide Navigation Redesign (~800 pages affected)
+
+823 pages show updated `<lastmod>` timestamps. Content changes are nearly identical across all — a navigation menu restructure, not substantive page rewrites. Key changes:
+
+- **New link added:** "Deployment Safety" (`https://deploymentsafety.openai.com/`) in the products nav
+- **Link text changed:** "ChatGPT for Education" updated to open in new window with new URL (`https://chatgpt.com/business/education/`)
+- **Links removed from nav:** "API log in" (`platform.openai.com/login`), "Explore ChatGPT" (`chatgpt.com/overview`), "Download" (`chatgpt.com/download`)
+- **Link renamed:** "Platform Overview" → "Overview" under Developers; documentation link updated
+
+### Notable Removals (28 total)
+
+- **DeployCo subdomain retired:** `/deployco/`, `/deployco/privacy-policy/`, `/deployco/terms-of-use/` — all three DeployCo pages removed. Last snapshots in git history.
+- **`/business/the-openai-deployment-company/`** — companion marketing page for DeployCo also gone.
+- **`/agent-platform/`** — Agent Platform marketing page removed.
+- **`/advertisers/`** — Advertisers page removed.
+- **`/foundation/`** — OpenAI Foundation page removed from sitemap (foundation still lives at `openaifoundation.org`).
+- **`/science/`** — Science overview page removed.
+- **`/safety/evaluations-hub/`** — Evaluations Hub removed from safety section.
+- **`/chatgpt/download/`** and `/chatgpt/search-product-discovery/` — Product sub-pages removed.
+- **`/policies/business-terms/`** — Business Terms removed (likely consolidated).
+- **`/policies/plugin-terms/`** — Plugin Terms removed (plugins feature deprecated).
+- **`/policies/row-privacy-policy/`** and `/policies/services-privacy-policy/` — Privacy policy consolidation; older generic versions retired as EU-specific policy goes live.
+- **`/policies/creating-sora-videos-in-line-with-our-policies/`** and `/policies/sora-usage-policies/` — Sora usage policies removed.
+- **`/reserved-capacity/`**, `/contributions/`, `/devday/directory/`, `/form/custom-models/`, `/newsroom/global-affairs/`, `/newsroom/security/`, `/index/gpt-5-2-codex/`, `/index/parameter-golf/` — Various deprecated or event-expired pages removed.
+
+**Stats:** 1330 total URLs | +10 added | 823 updated (mostly nav) | -28 removed | 2 anomalies (timing artifacts) | 32 sub-sitemaps
+
+---
 ## 2026-06-03T09-15Z — Codex Goes Mass-Market, Stargate Michigan Breaks Ground, Service Terms Updated for On-Prem Deployments
 
 **Fetch time:** 2026-06-03T09:22:47Z | **Baseline:** 2026-06-01T09-15Z
