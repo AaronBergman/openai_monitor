@@ -98,29 +98,25 @@ Learn how AI is accelerating enterprise advantage through deeper integration, ag
 
 ## Recent news
 
-![Signals Homepage > Layout > Group > Recent news > Cards > B2B Signals blog > Media > Asset](https://images.ctfassets.net/kftzwdyauwt9/4IzcV84U3LJqbYXVgixe4b/6c507d4b597e849b2291ad47a8931d62/Frame__1_.png?w=3840&q=90&fm=webp)
+![Abstract illustration of compute capacity and infrastructure.](https://images.ctfassets.net/kftzwdyauwt9/2HOZcGYPMfIdz0JkzHQhcb/9142e08a9561450294d58800a58e86b5/a-call-for-strategic-compute-capacity.webp?w=3840&q=90&fm=webp)
 
-[How frontier firms are pulling ahead](<https://openai.com/index/introducing-b2b-signals/>)
+[A Call for Strategic Compute Capacity](<https://openaiglobalaffairs.substack.com/p/a-call-for-strategic-compute-capacity>)
+
+![Construction worker using a laptop on a job site.](https://images.ctfassets.net/kftzwdyauwt9/4KUkS3l8L9tbFoRxFyNc42/a34aa4b2c6f4b729f315573dda7b1b43/a-back-office-for-construction-work.jpeg?w=3840&q=90&fm=webp)
+
+[A Back Office for Construction Work](<https://academy.openai.com/public/blogs/how-chatgpt-became-a-contractors-back-office-2026-05-07>)
 
 ![Signals Homepage > Layout > ... > Card > Understanding the Labor Market webinar > Media](https://images.ctfassets.net/kftzwdyauwt9/3HNrm9KNf7ON87kvBpVq4k/0382f0ef2f3c4fa69904cf8d5867674b/understanding-the-labor-market.png?w=3840&q=90&fm=webp)
 
 [Understanding the labor market](<https://forum.openai.com/public/events/virtual-event-understanding-the-labor-market-through-real-world-usage-data-znewubf1vb>)
 
-![The Price of Work, Visible for All](https://images.ctfassets.net/kftzwdyauwt9/3LrHSzcyFZNdk1B6T6PUEI/f3db89fc73a8f8c119f093c3d6a377bb/4866e622-c961-49bb-ae0d-d8bd5c8bd87a_3072x2048.webp?w=3840&q=90&fm=webp)
+![Signals Homepage > Layout > Group > Recent news > Cards > B2B Signals blog > Media > Asset](https://images.ctfassets.net/kftzwdyauwt9/4IzcV84U3LJqbYXVgixe4b/6c507d4b597e849b2291ad47a8931d62/Frame__1_.png?w=3840&q=90&fm=webp)
 
-[The price of work, visible for all](<https://openaiglobalaffairs.substack.com/p/the-price-of-work-visible-for-all>)
+[How frontier firms are pulling ahead](<https://openai.com/index/introducing-b2b-signals/>)
 
 ![Getting to the Story Faster](https://images.ctfassets.net/kftzwdyauwt9/24rc7IrbOh7k8u3yqCMX5Y/50b4d93e08f139fc318d76d29b61f03e/042500ff-13ab-4c89-be9f-8e2b0a764595_3072x2048.webp?w=3840&q=90&fm=webp)
 
 [Getting to the story faster](<https://openaiglobalaffairs.substack.com/p/getting-to-the-story-faster>)
-
-![Terence Tao: AI is Ready for Primetime](https://images.ctfassets.net/kftzwdyauwt9/O9tyBrC9snAStVK1JEqXb/085ad0a890b2790138437ed2ecbf8352/tao.jpeg?w=3840&q=90&fm=webp)
-
-[Terence Tao: AI is ready for primetime](<https://academy.openai.com/public/blogs/terence-tao-ai-is-ready-for-primetime-in-math-and-theoretical-physics-2026-03-06>)
-
-![Signals Homepage > Layout > Group > Recent news > Cards > How India uses ChatGPT > Media > Asset](https://images.ctfassets.net/kftzwdyauwt9/6BCpBm1QkDRxaGN0rkjTwb/cc58963686d55bee9b74c3c73e1901ab/OpenAI_For_India_1x1.png?w=3840&q=90&fm=webp)
-
-[How India uses ChatGPT](<https://cdn.openai.com/signals/how-india-uses-chatgpt.pdf>)
 
 ### Reports
 
@@ -206,11 +202,10 @@ Research and analysis on how AI is being adopted and its impact on the economy a
 
 [Go to Substack(opens in a new window)](<https://openaiglobalaffairs.substack.com/>)
 
-Our Research
+Research
 
   * [Research Index](</research/index/>)
   * [Research Overview](</research/>)
-  * [Research Residency](</residency/>)
   * [Economic Research](</signals/>)
 
 
@@ -220,44 +215,53 @@ Latest Advancements
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
   * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
-  * [GPT-5.3-Codex](</index/introducing-gpt-5-3-codex/>)
 
 
 
 Safety
 
   * [Safety Approach](</safety/>)
+  * [Deployment Safety(opens in a new window)](<https://deploymentsafety.openai.com/>)
   * [Security & Privacy](</security-and-privacy/>)
   * [Trust & Transparency](</trust-and-transparency/>)
 
 
 
-ChatGPT
+Products
 
-  * [Explore ChatGPT(opens in a new window)](<https://chatgpt.com/overview>)
-  * [Business](<https://chatgpt.com/business/business-plan>)
-  * [Enterprise](<https://chatgpt.com/business/enterprise>)
-  * [Education](<https://chatgpt.com/business/education>)
-  * [Pricing(opens in a new window)](<https://chatgpt.com/pricing>)
-  * [Download(opens in a new window)](<https://chatgpt.com/download>)
+  * [ChatGPT(opens in a new window)](<https://chatgpt.com/>)
+  * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
+  * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
+  * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
+  * [Codex](</codex/>)
+  * [Release Notes](</products/release-notes/>)
 
 
 
 API Platform
 
-  * [Platform Overview](</api/>)
-  * [Pricing](</api/pricing/>)
-  * [API log in(opens in a new window)](<https://platform.openai.com/login>)
-  * [Documentation(opens in a new window)](<https://developers.openai.com/api/docs>)
-  * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
+  * [Overview](</api/>)
+  * [API Log In(opens in a new window)](<https://platform.openai.com/login>)
+  * [Docs(opens in a new window)](<https://developers.openai.com/api/docs>)
 
 
 
-For Business
+Business
 
-  * [Business Overview](</business/>)
+  * [Overview](</business/>)
   * [Solutions](</solutions/>)
+  * [Resources](</business/learn/>)
   * [Contact Sales](</contact-sales/>)
+
+
+
+Developers
+
+  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
+  * [Open Models](</open-models/>)
+  * [Docs(opens in a new window)](<https://developers.openai.com/>)
+  * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
+  * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
 
 
 
@@ -265,9 +269,8 @@ Company
 
   * [About Us](</about/>)
   * [Our Charter](</charter/>)
-  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
   * [Careers](</careers/>)
-  * [Brand](</brand/>)
+  * [News](</news/>)
 
 
 
@@ -279,7 +282,6 @@ Support
 
 More
 
-  * [News](</news/>)
   * [Stories](</stories/>)
   * [Academy](</academy/>)
   * [Livestreams](</live/>)

@@ -26,7 +26,7 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Published: June 2, 2026
+Published: June 5, 2026
 
 # ChatGPT Sites Terms
 
@@ -37,7 +37,7 @@ These ChatGPT Sites Terms supplement and apply in addition to the [_Terms of Use
 ## 1\. Website Content
 
   * 1.1 _Ownership_. You may provide, upload, enable, display, or otherwise include information or content on your ChatGPT Sites (for example, text, images, audio, code, and other materials) (“Website Content”). This Website Content includes content provided by users or visitors of your ChatGPT Sites (“End Users”). As between you and OpenAI, and to the extent permitted by applicable law, Website Content is your Content. You retain any ownership rights you have in Website Content.
-  * 1.2 _Our Use_. By creating or publishing ChatGPT Sites, you grant OpenAI (including our third-party hosting providers acting on our behalf) a non-exclusive, worldwide, irrevocable, royalty-free license to host, store, use, reproduce, modify, translate, display, perform, distribute, and otherwise make your Website Content available to others. 
+  * 1.2. _Our Use_. By creating or publishing a ChatGPT Site, you grant OpenAI (including our third-party hosting providers acting on our behalf) a non-exclusive, worldwide, irrevocable, royalty-free license to host, store, use, reproduce, modify, translate, display, perform, distribute, and**** otherwise make your Website Content available, solely to the extent necessary to provide and operate ChatGPT Sites in accordance with the sharing and publication settings you select**.**
   * 1.3 _Attribution_. We may display attribution text or links in your website footer or toolbar, such as noting that your website is powered by ChatGPT.
 
 
@@ -62,7 +62,7 @@ These ChatGPT Sites Terms supplement and apply in addition to the [_Terms of Use
 
 ## 4\. Publicity
 
-  * 4.1 _User License_. You grant us a non-exclusive, non-transferable, non-sublicensable license to use the names, logos, product names, service names, and other brand identifiers included in the Website Content (the “Website Assets”) for the limited purpose of promoting or featuring your website. All goodwill derived from our use of Website Assets will inure to your sole benefit. Except as described in this Agreement, we may not otherwise use the Website Assets without your prior written consent. You represent and warrant you have the necessary rights to grant the licenses and consents in this Section.
+  * 4.1 _User License_. By choosing to make a ChatGPT Site publicly available, you grant us a non-exclusive, non-transferable, non-sublicensable license to use the names, logos, product names, service names, and other brand identifiers included in the Website Content of that site (the “Website Assets”) for the limited purpose of promoting or featuring your website. All goodwill derived from our use of Website Assets will inure to your sole benefit. Except as described in this Agreement, we may not otherwise use the Website Assets without your prior written consent. You represent and warrant you have the necessary rights to grant the licenses and consents in this Section.
   * 4.2 _OpenAI Brand Guidelines_. We may make available to you, for your usage in connection with the promotion of your ChatGPT Sites, certain names, logos, product names, service names, or other brand identifiers owned or used by us to identify the Services (the “OpenAI Assets”). Your usage of the OpenAI Assets is subject in all events to the OpenAI branding guidelines found at [_https://openai.com/brand⁠_ ⁠](<https://openai.com/brand/>) and any other marketing guidelines we make available (the “Brand Guidelines”).
   * 4.3 _No Implied Endorsement_. You may not make, publish, or permit any statement or design choice that could reasonably lead a third party to believe that your ChatGPT Sites are created, supported, certified, or endorsed by OpenAI, or that you are partnering or working with OpenAI on a joint product, feature, or business initiative, unless we have otherwise agreed in writing to such a statement or design choice.
 
@@ -76,11 +76,10 @@ These ChatGPT Sites Terms supplement and apply in addition to the [_Terms of Use
 
 
 
-Our Research
+Research
 
   * [Research Index](</research/index/>)
   * [Research Overview](</research/>)
-  * [Research Residency](</residency/>)
   * [Economic Research](</signals/>)
 
 
@@ -90,44 +89,53 @@ Latest Advancements
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
   * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
-  * [GPT-5.3-Codex](</index/introducing-gpt-5-3-codex/>)
 
 
 
 Safety
 
   * [Safety Approach](</safety/>)
+  * [Deployment Safety(opens in a new window)](<https://deploymentsafety.openai.com/>)
   * [Security & Privacy](</security-and-privacy/>)
   * [Trust & Transparency](</trust-and-transparency/>)
 
 
 
-ChatGPT
+Products
 
-  * [Explore ChatGPT(opens in a new window)](<https://chatgpt.com/overview>)
-  * [Business](<https://chatgpt.com/business/business-plan>)
-  * [Enterprise](<https://chatgpt.com/business/enterprise>)
-  * [Education](<https://chatgpt.com/business/education>)
-  * [Pricing(opens in a new window)](<https://chatgpt.com/pricing>)
-  * [Download(opens in a new window)](<https://chatgpt.com/download>)
+  * [ChatGPT(opens in a new window)](<https://chatgpt.com/>)
+  * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
+  * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
+  * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
+  * [Codex](</codex/>)
+  * [Release Notes](</products/release-notes/>)
 
 
 
 API Platform
 
-  * [Platform Overview](</api/>)
-  * [Pricing](</api/pricing/>)
-  * [API log in(opens in a new window)](<https://platform.openai.com/login>)
-  * [Documentation(opens in a new window)](<https://developers.openai.com/api/docs>)
-  * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
+  * [Overview](</api/>)
+  * [API Log In(opens in a new window)](<https://platform.openai.com/login>)
+  * [Docs(opens in a new window)](<https://developers.openai.com/api/docs>)
 
 
 
-For Business
+Business
 
-  * [Business Overview](</business/>)
+  * [Overview](</business/>)
   * [Solutions](</solutions/>)
+  * [Resources](</business/learn/>)
   * [Contact Sales](</contact-sales/>)
+
+
+
+Developers
+
+  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
+  * [Open Models](</open-models/>)
+  * [Docs(opens in a new window)](<https://developers.openai.com/>)
+  * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
+  * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
 
 
 
@@ -135,9 +143,8 @@ Company
 
   * [About Us](</about/>)
   * [Our Charter](</charter/>)
-  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
   * [Careers](</careers/>)
-  * [Brand](</brand/>)
+  * [News](</news/>)
 
 
 
@@ -149,7 +156,6 @@ Support
 
 More
 
-  * [News](</news/>)
   * [Stories](</stories/>)
   * [Academy](</academy/>)
   * [Livestreams](</live/>)

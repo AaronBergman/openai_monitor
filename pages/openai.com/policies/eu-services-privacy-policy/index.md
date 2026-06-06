@@ -30,7 +30,7 @@ Select language
 
 …
 
-Updated: June 2, 2026
+Updated: June 4, 2026
 
 # Privacy policy
 
@@ -160,31 +160,33 @@ You have the following statutory rights in relation to your Personal Data:
   * Rectify or update your Personal Data.
   * Transfer your Personal Data to a third party (right to data portability).
   * Restrict how we process your Personal Data.
-  * Withdraw your consent—where we rely on consent as the legal basis for processing. 
-  * Lodge a complaint with your local data protection authority (see below). 
+  * Withdraw your consent—where we rely on consent as the legal basis for processing.
+  * Lodge a complaint with your local data protection authority (see below).
 
 
 
 You have the following rights to object:
 
-  * Object to our processing of your Personal Data for direct marketing. 
+  * Object to our processing of your Personal Data for direct marketing.
   * Object to how we process your Personal Data when our processing is based on legitimate interests.
 
 
 
-You can exercise some of these rights through your OpenAI account using the tools described in the Data controls section. If you are unable to exercise your rights through your account, please submit your request through [_privacy.openai.com_ ⁠(opens in a new window)](<http://privacy.openai.com>) or send it to _dsar@openai.com_.
+You can exercise some of these rights through your OpenAI account using the tools described in the Data controls section. If you are unable to exercise your rights through your account, please submit your request through [_privacy.openai.com_ ⁠(opens in a new window)](<https://privacy.openai.com/>) or send it to [_dsar@openai.com_ ⁠](<mailto:dsar@openai.com>). If you have any other concerns regarding our processing of your Personal Data, you can write to us at privacy@openai.com.
 
-We hope that we are able to address any questions or concerns you may have. If you have any unresolved complaints with us or our Data Protection Officer: 
+We hope that we are able to address any questions or concerns you may have. If you have any unresolved complaints with us or our Data Protection Officer:
 
-  * If you reside in the European Economic Area, you can reach out to the [_Irish Data Protection Commission_ ⁠(opens in a new window)](<https://www.dataprotection.ie/>) as our lead supervisory authority, or your [_local supervisory authority_ ⁠(opens in a new window)](<https://edpb.europa.eu/about-edpb/about-edpb/members_en>); 
-  * If you reside in the UK, you can reach out to the [_Information Commissioner 's Office_⁠(opens in a new window)](<https://ico.org.uk/>); 
-  * If you reside in Switzerland, you can reach out to the [_Federal Data Protection and Information Commissioner_ ⁠(opens in a new window)](<https://www.edoeb.admin.ch/edoeb/en/home.html>). 
+  * If you reside in the European Economic Area, you can reach out to the [_Irish Data Protection Commission_ ⁠(opens in a new window)](<https://www.dataprotection.ie/en>) as our lead supervisory authority, or your [_local supervisory authority_ ⁠(opens in a new window)](<https://www.edpb.europa.eu/about-edpb/about-edpb/members_en>);
+  * If you reside in the UK, you can reach out to the [_Information Commissioner’s Office_ ⁠(opens in a new window)](<https://ico.org.uk/>);
+  * If you reside in Switzerland, you can reach out to the [_Federal Data Protection and Information Commissioner_ ⁠(opens in a new window)](<https://www.edoeb.admin.ch/en>).
 
 
 
-A note about accuracy: Services like ChatGPT generate responses by reading a user’s request and, in response, predicting the words most likely to appear next. In some cases, the words most likely to appear next may not be the most factually accurate. For this reason, you should not rely on the factual accuracy of output from our models. If you notice that ChatGPT output contains factually inaccurate information about you and you would like to request a correction or removal of the information, you can submit these requests through privacy.openai.com or to _dsar@openai.com_ , and we will consider your request based on applicable law and the technical capabilities of our models.
+A note about accuracy: Services like ChatGPT generate responses by reading a user’s request and, in response, predicting the words most likely to appear next. In some cases, the words most likely to appear next may not be the most factually accurate. For this reason, you should not rely on the factual accuracy of output from our models.
 
-For information on how to exercise your rights with respect to data we have collected from the internet to train our models, please see this [notice⁠(opens in a new window)](<https://help.openai.com/articles/7842364-how-chatgpt-and-our-language-models-are-developed>).
+If you notice that ChatGPT output contains factually inaccurate information about you and you would like to request a correction or removal of the information, you can submit these requests through privacy.openai.com or to dsar@openai.com, and we will consider your request based on applicable law and the technical capabilities of our models.
+
+For information on how to exercise your rights with respect to data we have collected from the internet to train our models, please see this [_notice_ ⁠(opens in a new window)](<https://help.openai.com/articles/7842364-how-chatgpt-and-our-language-models-are-developed>).
 
 ## 7\. Children
 
@@ -340,7 +342,7 @@ To comply with legal obligations and to protect the rights, privacy, safety, or 
   * Retaining billing information to comply with financial requirements.
   * Providing information to law enforcement when required by a valid legal request.
   * Investigating and enforcing violations of our Terms of Use, including by monitoring content submitted or exchanged on our platforms (learn more [here](<https://openai.com/transparency-and-content-moderation/>)).
-  * Taking steps to prevent harm, for example notifying parents/guardians or authorities when we detect a risk of harm to teen users with linked accounts.
+  * Taking steps to prevent harm, for example notifying parents/guardians when we detect a risk of harm to teen users with linked accounts.
   * Estimating your age to give you an age-appropriate experience.
 
 | 
@@ -398,11 +400,10 @@ You can contact our Data Protection Officer at dpo@openai.com in matters related
 
 [_Health Privacy Notice_ ⁠](<https://openai.com/policies/health-privacy-policy/>)
 
-Our Research
+Research
 
   * [Research Index](</research/index/>)
   * [Research Overview](</research/>)
-  * [Research Residency](</residency/>)
   * [Economic Research](</signals/>)
 
 
@@ -412,44 +413,53 @@ Latest Advancements
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
   * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
-  * [GPT-5.3-Codex](</index/introducing-gpt-5-3-codex/>)
 
 
 
 Safety
 
   * [Safety Approach](</safety/>)
+  * [Deployment Safety(opens in a new window)](<https://deploymentsafety.openai.com/>)
   * [Security & Privacy](</security-and-privacy/>)
   * [Trust & Transparency](</trust-and-transparency/>)
 
 
 
-ChatGPT
+Products
 
-  * [Explore ChatGPT(opens in a new window)](<https://chatgpt.com/overview>)
-  * [Business](<https://chatgpt.com/business/business-plan>)
-  * [Enterprise](<https://chatgpt.com/business/enterprise>)
-  * [Education](<https://chatgpt.com/business/education>)
-  * [Pricing(opens in a new window)](<https://chatgpt.com/pricing>)
-  * [Download(opens in a new window)](<https://chatgpt.com/download>)
+  * [ChatGPT(opens in a new window)](<https://chatgpt.com/>)
+  * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
+  * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
+  * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
+  * [Codex](</codex/>)
+  * [Release Notes](</products/release-notes/>)
 
 
 
 API Platform
 
-  * [Platform Overview](</api/>)
-  * [Pricing](</api/pricing/>)
-  * [API log in(opens in a new window)](<https://platform.openai.com/login>)
-  * [Documentation(opens in a new window)](<https://developers.openai.com/api/docs>)
-  * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
+  * [Overview](</api/>)
+  * [API Log In(opens in a new window)](<https://platform.openai.com/login>)
+  * [Docs(opens in a new window)](<https://developers.openai.com/api/docs>)
 
 
 
-For Business
+Business
 
-  * [Business Overview](</business/>)
+  * [Overview](</business/>)
   * [Solutions](</solutions/>)
+  * [Resources](</business/learn/>)
   * [Contact Sales](</contact-sales/>)
+
+
+
+Developers
+
+  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
+  * [Open Models](</open-models/>)
+  * [Docs(opens in a new window)](<https://developers.openai.com/>)
+  * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
+  * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
 
 
 
@@ -457,9 +467,8 @@ Company
 
   * [About Us](</about/>)
   * [Our Charter](</charter/>)
-  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
   * [Careers](</careers/>)
-  * [Brand](</brand/>)
+  * [News](</news/>)
 
 
 
@@ -471,7 +480,6 @@ Support
 
 More
 
-  * [News](</news/>)
   * [Stories](</stories/>)
   * [Academy](</academy/>)
   * [Livestreams](</live/>)

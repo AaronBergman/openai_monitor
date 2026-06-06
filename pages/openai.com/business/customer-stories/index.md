@@ -100,6 +100,14 @@ One in a million: celebrating the customers shaping AI’s future
 
 Filter
 
+![oai endava 1x1](https://images.ctfassets.net/kftzwdyauwt9/6CJMPcvmo9FlUZMnAetSGl/9686223d1bd7d90b9926c0bedd4e8fb9/oai_endava_1x1.png?w=3840&q=90&fm=webp)
+
+[How Endava is redesigning software delivery around AI agentsJun 4, 2026](</index/endava-frontiers/>)
+
+![Wasmer Customer stories > oai 1x1](https://images.ctfassets.net/kftzwdyauwt9/7JgSY9kXOlq1H4hc83F7CW/823218f0976b5a81cdc777d5da5ed804/oai_wasmer_1x1.png?w=3840&q=90&fm=webp)
+
+[How Wasmer used Codex to build a Node.js runtime for the edgeJun 3, 2026](</index/wasmer/>)
+
 ![oai Travelers 1x1](https://images.ctfassets.net/kftzwdyauwt9/1P6tCWotXVaO6PzSQrpLvz/fff24dc652764a3a7cbc6b059232b3be/oai_Travelers_1x1.png?w=3840&q=90&fm=webp)
 
 [Travelers deploys AI-powered claims countrywide with OpenAIJun 2, 2026](</index/travelers/>)
@@ -140,21 +148,12 @@ Filter
 
 [How Ramp engineers accelerate code review with CodexMay 20, 2026](</index/ramp/>)
 
-![Databricks customer story > Hero image](https://images.ctfassets.net/kftzwdyauwt9/zSMR7MjYs8dfmIqajAVyK/996ec87e2e6d26dc5c327441f9dd8ea1/oai_Databricks_1x1.png?w=3840&q=90&fm=webp)
-
-[Databricks brings GPT-5.5 to enterprise agent workflowsMay 15, 2026](</index/databricks/>)
-
-![EF Ep20 1.1](https://images.ctfassets.net/kftzwdyauwt9/6Wp6DOKXObm4D5mzDZU7Q0/a612075495fe9f6854159364a3041bc2/EF_Ep20_1.1.png?w=3840&q=90&fm=webp)
-
-[Sea's View on the Future of Agentic Software Development with CodexMay 14, 2026](</index/sea-david-chen/>)
-
 Load more
 
-Our Research
+Research
 
   * [Research Index](</research/index/>)
   * [Research Overview](</research/>)
-  * [Research Residency](</residency/>)
   * [Economic Research](</signals/>)
 
 
@@ -164,44 +163,53 @@ Latest Advancements
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
   * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
-  * [GPT-5.3-Codex](</index/introducing-gpt-5-3-codex/>)
 
 
 
 Safety
 
   * [Safety Approach](</safety/>)
+  * [Deployment Safety(opens in a new window)](<https://deploymentsafety.openai.com/>)
   * [Security & Privacy](</security-and-privacy/>)
   * [Trust & Transparency](</trust-and-transparency/>)
 
 
 
-ChatGPT
+Products
 
-  * [Explore ChatGPT(opens in a new window)](<https://chatgpt.com/overview>)
-  * [Business](<https://chatgpt.com/business/business-plan>)
-  * [Enterprise](<https://chatgpt.com/business/enterprise>)
-  * [Education](<https://chatgpt.com/business/education>)
-  * [Pricing(opens in a new window)](<https://chatgpt.com/pricing>)
-  * [Download(opens in a new window)](<https://chatgpt.com/download>)
+  * [ChatGPT(opens in a new window)](<https://chatgpt.com/>)
+  * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
+  * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
+  * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
+  * [Codex](</codex/>)
+  * [Release Notes](</products/release-notes/>)
 
 
 
 API Platform
 
-  * [Platform Overview](</api/>)
-  * [Pricing](</api/pricing/>)
-  * [API log in(opens in a new window)](<https://platform.openai.com/login>)
-  * [Documentation(opens in a new window)](<https://developers.openai.com/api/docs>)
-  * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
+  * [Overview](</api/>)
+  * [API Log In(opens in a new window)](<https://platform.openai.com/login>)
+  * [Docs(opens in a new window)](<https://developers.openai.com/api/docs>)
 
 
 
-For Business
+Business
 
-  * [Business Overview](</business/>)
+  * [Overview](</business/>)
   * [Solutions](</solutions/>)
+  * [Resources](</business/learn/>)
   * [Contact Sales](</contact-sales/>)
+
+
+
+Developers
+
+  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
+  * [Open Models](</open-models/>)
+  * [Docs(opens in a new window)](<https://developers.openai.com/>)
+  * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
+  * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
 
 
 
@@ -209,9 +217,8 @@ Company
 
   * [About Us](</about/>)
   * [Our Charter](</charter/>)
-  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
   * [Careers](</careers/>)
-  * [Brand](</brand/>)
+  * [News](</news/>)
 
 
 
@@ -223,7 +230,6 @@ Support
 
 More
 
-  * [News](</news/>)
   * [Stories](</stories/>)
   * [Academy](</academy/>)
   * [Livestreams](</live/>)
