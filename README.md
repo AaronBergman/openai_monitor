@@ -1,5 +1,61 @@
 # openai_monitor
 
+## 2026-06-06T09-16Z — GPT-Rosalind Gets a Product Page, Policy Week Publishes AI Governance Blueprints, Deployment Company Subdomain Removed
+
+**Fetch time:** 2026-06-06T09:16:16Z | **Baseline:** 2026-06-03T09-15Z (3 days)
+
+**TL;DR:** A policy-intensive three-day window (June 3–6) produced a cluster of major publications: OpenAI's full public policy agenda, a blueprint for U.S. federal AI governance referencing new state laws (California SB 53, NY RAISE Act, Illinois SB 315) and a White House executive order, a biodefense action plan built around GPT-Rosalind, and a new GPT-Rosalind product landing page formalizing the company's life sciences vertical. On the infrastructure side, a new Merchant Feed Terms of Service appeared — legal plumbing for merchant product data in ChatGPT shopping. A sitewide navigation template update (touching ~837 pages) added "Deployment Safety" and "Apps SDK" links while removing "Research Residency." Notably, the entire `/deployco/` subdomain (OpenAI's "Deployment Company" entity) was removed from the sitemap alongside 27 other URLs representing retired pages, old policies, and defunct section hubs. No anomalies detected.
+
+### Anomalies
+None.
+
+### Notable New Pages
+
+- **[GPT-Rosalind product landing page](pages/openai.com/gpt-rosalind/index.md)** — OpenAI's life sciences AI model now has a dedicated product page. GPT-Rosalind is built for biological reasoning (molecules, proteins, genes, pathways, disease biology), with Codex integration for repeatable scientific workflows, and benchmarks: +53.7% on Genebench, +18% Medchem Bench, +19.6% Labworkbench. Features enterprise access and a **Rosalind Biodefense** program for public-health teams. Partners quoted: Amgen.
+
+- **[Biodefense in the Intelligence Age](pages/openai.com/index/biodefense-in-the-intelligence-age/index.md)** (Jun 4) — An "action plan for AI-powered biological resilience." Argues that the same capabilities enabling biological science advances have biosecurity implications, and that responsible defenders should be equipped with advanced AI alongside governance safeguards. Links to a full PDF plan.
+
+- **[A Blueprint for Democratic Governance of Frontier AI](pages/openai.com/index/frontier-safety-blueprint/index.md)** (Jun 3) — OpenAI's proposal for a durable U.S. federal framework for frontier AI governance. Three-part strategy: leverage state-law consensus (CA SB 53, NY RAISE Act, IL SB 315); strengthen CAISI as the primary federal AI safety institution; broader national resilience plan. References a White House executive order on AI signed June 2026.
+
+- **[OpenAI Public Policy Agenda](pages/openai.com/index/public-policy-agenda/index.md)** (Jun 3) — Comprehensive structured document covering OpenAI's full policy stance: mission and principles, policy priorities, safety, youth safety, AI resilience, and AI infrastructure/energy.
+
+- **[ChatGPT Memory "Dreaming"](pages/openai.com/index/chatgpt-memory-dreaming/index.md)** (Jun 4) — Research/Product post on a "dreaming" mechanism for improving ChatGPT memory synthesis, optimizing for freshness, continuity, and relevance.
+
+- **[Merchant Feed Terms of Service](pages/openai.com/policies/merchant-feed-terms-of-service/index.md)** (Jun 3) — New legal terms governing merchant product catalog data shared with OpenAI for use in its products (ChatGPT shopping). References a feed spec at `developers.openai.com/commerce/specs/feed`.
+
+- **[Products: Release Notes hub](pages/openai.com/products/release-notes/index.md)** — New centralized release notes page at `/products/release-notes/`, now linked from sitewide navigation.
+
+- **[Business Pricing](pages/openai.com/business/pricing/index.md)** — Dedicated pricing page for business/enterprise plans, showing Codex-based usage pricing.
+
+- **[Endava: Redesigning Software Delivery Around AI Agents](pages/openai.com/index/endava-frontiers/index.md)** (Jun 4) — Case study on Endava using ChatGPT + Codex to accelerate delivery and reshape enterprise workflows.
+
+- **[Wasmer: Node.js Runtime for the Edge with Codex](pages/openai.com/index/wasmer/index.md)** (Jun 3) — Wasmer used Codex to build a Node.js runtime for the edge.
+
+- **[New Capabilities for GPT-Rosalind](pages/openai.com/index/introducing-new-capabilities-to-gpt-rosalind/index.md)** — Companion post detailing new evals and capabilities for the life sciences model.
+
+### Notable Updates
+
+- **Sitewide navigation template refresh (~837 pages):** Template-level update across most pages. Added to nav: "Deployment Safety" (→ `deploymentsafety.openai.com`), "Apps SDK" (→ `developers.openai.com/apps-sdk`), "Release Notes" (→ `/products/release-notes/`). Removed: "Research Residency." "Foundation" now links to `openaifoundation.org`. Most page body content is unchanged; the diff reflects header/footer/nav template.
+- **[Customer Stories](pages/openai.com/business/customer-stories/index.md)** — Added new entries: Wasmer (Jun 3) and Endava (Jun 4).
+
+### Removed Pages (28 total)
+
+**Deployment Company wound down:** The entire `/deployco/` subdomain and its associated business page were removed: `/deployco/`, `/deployco/privacy-policy/`, `/deployco/terms-of-use/`, `/business/the-openai-deployment-company/`.
+
+**Retired product/infrastructure pages:** `/reserved-capacity/`, `/agent-platform/`, `/chatgpt/download/`, `/advertisers/`
+
+**Retired section hubs:** `/science/`, `/foundation/` (Foundation now at `openaifoundation.org`), `/safety/evaluations-hub/`, `/contributions/`
+
+**Stale redirects retired:** `/newsroom/security/`, `/newsroom/global-affairs/` (already migrated to `/news/security/` and `/news/global-affairs/`)
+
+**Superseded policies removed:** `/policies/plugin-terms/`, `/policies/sora-usage-policies/`, `/policies/creating-sora-videos-in-line-with-our-policies/`, `/policies/business-terms/`, `/policies/row-privacy-policy/`, `/policies/services-privacy-policy/`
+
+**Other:** `/solutions/healthcare/` (→ `/solutions/industries/healthcare/`), `/business/guides-and-resources/` (→ `/business/learn/`), `/chatgpt/search-product-discovery/`, `/form/custom-models/`, `/academy/top-10-use-cases-codex-for-work/`
+
+**Stats:** 1331 total URLs | +11 added | ~837 updated | -28 removed | 0 anomalies | 32 sub-sitemaps
+
+---
+
 ## 2026-06-03T09-15Z — Codex Goes Mass-Market, Stargate Michigan Breaks Ground, Service Terms Updated for On-Prem Deployments
 
 **Fetch time:** 2026-06-03T09:22:47Z | **Baseline:** 2026-06-01T09-15Z

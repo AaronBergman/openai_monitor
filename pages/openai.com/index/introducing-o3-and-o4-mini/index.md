@@ -26,7 +26,7 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Table of contents
+What’s changed
 
   * What’s changed
   * Continuing to scale reinforcement learning
@@ -124,27 +124,169 @@ Reasoned about polynomial construction for 55 seconds
 
 Analyzed
 
-Unknown component type: componentCodeExample
+#### Python
+
+`
+    
+    
+    1
+    
+    from math import comb, cos, acos
+    
+    2
+    
+    # Let's compute Dickson D_n(x,a=1) recursively
+    
+    3
+    
+    def dickson(n,x,a=1):
+    
+    4
+    
+        if n==0:
+    
+    5
+    
+            return 2
+    
+    6
+    
+        if n==1:
+    
+    7
+    
+            return x
+    
+    8
+    
+        Dm2=2
+    
+    9
+    
+        Dm1=x
+    
+    10
+    
+        for k in range(2,n+1):
+    
+    11
+    
+            D= x*Dm1 - a*Dm2
+    
+    12
+    
+            Dm2, Dm1 = Dm1, D
+    
+    13
+    
+        return Dm1
+    
+    14
+    
+      
+    
+    
+    15
+    
+    d19 = dickson(19,19,1)
+    
+    16
+    
+    d19
+
+`
+
+1876572071974094803391179
 
 Analyzed
 
-Unknown component type: componentCodeExample
+#### Python
+
+`
+    
+    
+    1
+    
+    d19
+
+`
+
+1876572071974094803391179
 
 Analyzed
 
-Unknown component type: componentCodeExample
+#### Python
+
+`
+    
+    
+    1
+    
+    import locale, sys, math, json, textwrap, re, decimal
+
+`
 
 Analyzed
 
-Unknown component type: componentCodeExample
+#### Python
+
+`
+    
+    
+    1
+    
+    "{:,}".format(d19)
+
+`
+
+'1,876,572,071,974,094,803,391,179'
 
 Analyzed
 
-Unknown component type: componentCodeExample
+#### Python
+
+`
+    
+    
+    1
+    
+    # compute coefficients of Dickson polynomial D_n(x,1) via recurrence polynomial representation
+    
+    2
+    
+    from sympy import symbols, Poly
+    
+    3
+    
+      
+    
+    
+    4
+    
+    x = symbols('x')
+    
+    5
+    
+    def dickson_poly(n):
+
+`
+
+Poly(x**19 - 19*x**17 + 152*x**15 - 665*x**13 + 1729*x**11 - 2717*x**9 + 2508*x**7 - 1254*x**5 + 285*x**3 - 19*x, x, 
 
 Analyzed
 
-Unknown component type: componentCodeExample
+#### Python
+
+`
+    
+    
+    1
+    
+    poly19.as_expr()
+
+`
+
+x**19 - 19*x**17 + 152*x**15 - 665*x**13 + 1729*x**11 - 2717*x**9 + 2508*x**7 - 1254*x**5 + 285*x**3 - 19*x
 
 Done
 
@@ -422,11 +564,10 @@ _Finally, our evaluations with browsing may not be perfectly reproducible in the
 
 Aaditya Singh, Aaron Schlesinger, Adam Fry, Adam Lerer, Adam Perelman, Adam Walker, Ahmed El-Kishky, Aidan Clark, Aidan McLaughlin, Aiden Low, Akila Welihinda, Akshay Nathan, Aleksander Madry, Aleksandra Spyra, Alex Karpenko, Alex Neitz, Alex Tachard Passos, Alex Wei, Alexander Prokofiev, Alexander Zielenski, Alexandra Barr, Alexey Ivanov, Alexi Christakis, Alfred Xue, Allison Tam, Ally Bennett, Ally Bennett , Amelia Liu, Amy McDonald Sandjideh, Ananya Kumar, Andre Saraiva, Andrea Vallone, Andrew Chen, Andrew Duberstein, Andrew Gibiansky, Andrew Kondrich, Andrew Tulloch, Andrey Mishchenko, Andy Applebaum, Andy Wang, Angela Baek, Annie Wei, Anting Shen, Antoine Pelisse, Anuj Saharan, Arun Vijayvergiya, Ashley Tyra, Ashvin Nair, Avi Nayak, Avital Oliver, Behrooz Ghorbani, Belinda Truong, Ben Sokolowsky, Beth Hoover, Bo Xu, Boaz Barak, Bohan Zhang, Borys Minaiev, Botao Hao, Bowen Baker, Bowen Cheng, Brandon McKinzie, Brandon Wang, Brian Hsu, Brian Yang, Brian Yu, Brian Zhang, Camillo Lugaresi, Carolina Paz, Carpus Chang, Cary Bassin , Cary Hudson, Casey Chu, Chak Li, Charles Zhao, Charlie Jatt, Charlotte Cole, Chelsea Voss, Chen Shen, Chengxu Zhuang, Chris Colby, Chris Hallacy , Chris Koch, Christina Kaplan, Christina Kim, Colin Reid, Colin Wei, Cristina Scheau, D. Sculley, Damien Deville, Dan Roberts, Dana Palmie, Dane Stuckey, Daniel Levine, David Hu, David Martin, David Robinson, David Sasaki, Davis Wu, Derek Chen, Dibya Bhattacharjee, Dimitris Tsipras, Dinghua Li, DJ Strouse, dmed Medina, Drew Hintz, Eddie Zhang, Edmund Wong, Elaine Ya Le, Eli Yani , Elizabeth Proehl, Emily Sokolova, Enoch Cheung, Eri Schwartz, Eric Mitchell, Eric Ning, Eric Sigler, Eric Wallace, Eugenio Panero, Evan Mays, Evgenii Nikishin, Fan Wang, Fangyuan Li, Filippo Raso, Foivos Tsimpourlas, Fouad Matin, Francis Song, Francis Zhang, Gary Yang, Gene Oden, Giambattista Parascandolo, Gildas Chabot, Grace Kim, Grace Zhao, Greg Brockman, Gregory Valiant, Guillaume Leclerc, Hadi Salman, Haitang Hu, Hannah Sheahan, Hao Sheng, Haoyu Wang, Henrique Ponde de Oliveira Pinto, Henry Aspegren, Heqing Yan, Hessam Bagherinezhad, Hongyu Ren, Hunter Lightman, Hyeonwoo Noh, Ian Kivlichan, Ian Sohl, Ignasi Clavera, Ikai Lan, Ilge Akkaya, Ilya Kostrikov, Irina Kofman, Isa Fulford, Jake Brill, Jakub Pachocki, James Betker, James Lee, James Qin, Jamie Kiros, Jason Ai, Jay Wang, Jean Harb, Jeff Mickey, Jeffrey Han, Jeffrey Wang, Jeremy Chen, Jerry Tworek, Jessica Liang, Jessica Shieh, Ji Lin, Jiahui Yu, Jianfeng Wang, Jie Tang, Jihan Yin, Jing Li, Joanne Jang, Joel Morris, Johannes Ferstad, Johannes Heidecke, John Fishbein, Jon Okun, Jonathan Gordon, Joost Huizinga, Jos Kraaijeveld, Joseph Mo, Josh Lawson , Josh Tobin, Junhua Mao, Kai Chen, Kai Hayashi, Karan Singhal, Karina Nguyen, Katy Shi, Kelly Stirman, Kenji Hata, Kenny Nguyen, Keren Gu-Lemberg, Kevin Gladstone, Kevin King, Kevin Liu, Kevin Lu, Kevin Park, Kevin Stone, Kevin Weil, Kevin Whinnery, Kevin Yu, Kote Mushegiani, Kristen Ying, Kristian Georgiev, Kshitij Gupta, Kyle Kosic, Lama Ahmad, Larry Lv, Lauren Itow, Lauren Yang, Lee Byron, Leo Chen, Leo Liu, Leon Maksin, Leyton Ho, Li Jing, Liang Xiong, Lin Yang, Linden Li, Lorenz Kuhn, Louis Feuvrier, Lu Zhang, Łukasz Kaiser, Mahmoud Eariby, Maja Trębacz, Manas Joglekar, Manoli Liodakis, Manuka Stratta, Mark Chen, Mark Hudnall, Mark Sun, Mark Wang, Martin Li, Marvin Zhang, Mateusz Litwin, Matt Jones, Matt Lim, Max Johnson, Max Schwarzer, Mayank Gupta, Meghan Shah, Mengqing Wang, Mengyuan Yan, Mia Glaese, Michael Bolin, Michael Lampe, Michael Malek, Michael Sharman, Michael Zhang, Michele Wang, Michelle Pokrass, Miguel Oom Temudo de Castro, Mihai Florian, Mike McClay, Mike Trpcic, Miki Habryn, Miles Wang, Ming Chen, Mingxuan Wang, Minnia Feng, Mitchell Gordon, Mo Bavarian, Mostafa Rohaninejad, Nacho Soto, Nakul Khanna, Nat McAleese, Natalie Staudacher, Natan LaFontaine, Neel Ajjarapu, Nick Felt, Nick Turley, Nikil Pancha, Nikita Mikhaylin, Niko Felix, Nikunj Handa, Ning Liu, Nishant Rai, Noah Jorgensen, Noam Brown, Oleg Boiko, Oleg Murk, Olivia Watkins, Olivier Godement, Oona Gleeson, Paul Ashbourne, Pavel Belov, Peter Flockhart, Peter Hoeschele, Peter Zhokhov, Philip Pronin, Phillip Guo, Phoebe Thacker, Prafulla Dhariwal, Prashanth R, Rachel Dias, Rahul Arora, Rajkumar Samuel, Rasmus Rygaard, Ravi Teja Mullapudi, Raymond Li, Raz Gaon, Reah Miyara, Reiichiro Nakano, Reimar Leike, Rennie Song, Rhythm Garg, RJ Marsan, Robert Xiong, Robin Brown, Roman Tsiupa, Rui Shu, Ruslan Nigmatullin, Saachi Jain, Saagar Patel, Sam Altman, Sam Toizer, Sam Toyer, Samir Ahmed, Samuel Miserendino, Samuel Wolrich , Sandhini Agarwal, Santiago Hernández, Sarah Dong, Savannah Heon, Scott Ethersmith, Scott Mayer McKinney, Sean Fitzgerald, Sever Banesiu, Shamez Hemani, Shengjia Zhao, Shengli Hu, Shibani Santurkar, Shreyas Krishnaswamy, Shuchao Bi, Shunyu Yao, Shuyuan Zhang, Simón Posada Fishman, Spencer Papay, Spug Golden, Srinivas Narayanan, Stanley Hsieh, Stephen Logsdon, Sundeep Tirumalareddy, Tal Stramer, Tao Wang, Tao Xin, Taylor Gordon, Tejal Patwardhan, Thibault Sottiaux, Tina Sriskandarajah, Tony Casparro, Tony Zhao, Trapit Bansal, Trevor Creech, Uzair Navid Iftikhar, Valerie Qi, Vineet Kosaraju, Vishal Kuo, Vitchyr Pong, Vivek Verma, Vlad Petrov, Wenda Zhou, Wenlei Xie, Wenting Zhan, Will DePue, Will Ellsworth, William Sheu, Wyatt Thompson, Yaming Lin, Yann Dubois, Yaodong Yu, Yara Khakbaz, Yash Patil, Yifan Wu, Yilong Qin, Yining Chen, Yirui Zhang, Yo Shavit , Young Cha, Yunyun Wang, Yushi Wang, Zack Sultan, Zehao Dou, Zewei Chu, Zheng Shao, Zhigang Wang, Zhishuai Zhang, Zihao Zhang
 
-Our Research
+Research
 
   * [Research Index](</research/index/>)
   * [Research Overview](</research/>)
-  * [Research Residency](</residency/>)
   * [Economic Research](</signals/>)
 
 
@@ -436,44 +577,53 @@ Latest Advancements
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
   * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
-  * [GPT-5.3-Codex](</index/introducing-gpt-5-3-codex/>)
 
 
 
 Safety
 
   * [Safety Approach](</safety/>)
+  * [Deployment Safety(opens in a new window)](<https://deploymentsafety.openai.com/>)
   * [Security & Privacy](</security-and-privacy/>)
   * [Trust & Transparency](</trust-and-transparency/>)
 
 
 
-ChatGPT
+Products
 
-  * [Explore ChatGPT(opens in a new window)](<https://chatgpt.com/overview>)
-  * [Business](<https://chatgpt.com/business/business-plan>)
-  * [Enterprise](<https://chatgpt.com/business/enterprise>)
-  * [Education](<https://chatgpt.com/business/education>)
-  * [Pricing(opens in a new window)](<https://chatgpt.com/pricing>)
-  * [Download(opens in a new window)](<https://chatgpt.com/download>)
+  * [ChatGPT(opens in a new window)](<https://chatgpt.com/>)
+  * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
+  * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
+  * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
+  * [Codex](</codex/>)
+  * [Release Notes](</products/release-notes/>)
 
 
 
 API Platform
 
-  * [Platform Overview](</api/>)
-  * [Pricing](</api/pricing/>)
-  * [API log in(opens in a new window)](<https://platform.openai.com/login>)
-  * [Documentation(opens in a new window)](<https://developers.openai.com/api/docs>)
-  * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
+  * [Overview](</api/>)
+  * [API Log In(opens in a new window)](<https://platform.openai.com/login>)
+  * [Docs(opens in a new window)](<https://developers.openai.com/api/docs>)
 
 
 
-For Business
+Business
 
-  * [Business Overview](</business/>)
+  * [Overview](</business/>)
   * [Solutions](</solutions/>)
+  * [Resources](</business/learn/>)
   * [Contact Sales](</contact-sales/>)
+
+
+
+Developers
+
+  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
+  * [Open Models](</open-models/>)
+  * [Docs(opens in a new window)](<https://developers.openai.com/>)
+  * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
+  * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
 
 
 
@@ -481,9 +631,8 @@ Company
 
   * [About Us](</about/>)
   * [Our Charter](</charter/>)
-  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
   * [Careers](</careers/>)
-  * [Brand](</brand/>)
+  * [News](</news/>)
 
 
 
@@ -495,7 +644,6 @@ Support
 
 More
 
-  * [News](</news/>)
   * [Stories](</stories/>)
   * [Academy](</academy/>)
   * [Livestreams](</live/>)
