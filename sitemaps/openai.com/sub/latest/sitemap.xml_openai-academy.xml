@@ -2,852 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://openai.com/academy/how-finance-teams-use-codex/</loc>
-    <lastmod>2026-06-05T15:32:32.108Z</lastmod>
-    <xhtml:link
-      rel="alternate"
-      hreflang="kn-IN"
-      href="https://openai.com/kn-IN/academy/how-finance-teams-use-codex/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ur-IN"
-      href="https://openai.com/ur-IN/academy/how-finance-teams-use-codex/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ml-IN"
-      href="https://openai.com/ml-IN/academy/how-finance-teams-use-codex/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ko-KR"
-      href="https://openai.com/ko-KR/academy/how-finance-teams-use-codex/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ta-IN"
-      href="https://openai.com/ta-IN/academy/how-finance-teams-use-codex/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="fr-FR"
-      href="https://openai.com/fr-FR/academy/how-finance-teams-use-codex/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="es-ES"
-      href="https://openai.com/es-ES/academy/how-finance-teams-use-codex/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="de-DE"
-      href="https://openai.com/de-DE/academy/how-finance-teams-use-codex/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ja-JP"
-      href="https://openai.com/ja-JP/academy/how-finance-teams-use-codex/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="es-419"
-      href="https://openai.com/es-419/academy/how-finance-teams-use-codex/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="nb-NO"
-      href="https://openai.com/nb-NO/academy/how-finance-teams-use-codex/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="te-IN"
-      href="https://openai.com/te-IN/academy/how-finance-teams-use-codex/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="mr-IN"
-      href="https://openai.com/mr-IN/academy/how-finance-teams-use-codex/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="it-IT"
-      href="https://openai.com/it-IT/academy/how-finance-teams-use-codex/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="hi-IN"
-      href="https://openai.com/hi-IN/academy/how-finance-teams-use-codex/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="fr-CA"
-      href="https://openai.com/fr-CA/academy/how-finance-teams-use-codex/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="pt-BR"
-      href="https://openai.com/pt-BR/academy/how-finance-teams-use-codex/"
-    />
-  </url>
-  <url>
-    <loc>https://openai.com/academy/codex-automations/</loc>
-    <lastmod>2026-06-05T15:31:43.580Z</lastmod>
-    <xhtml:link
-      rel="alternate"
-      hreflang="ar"
-      href="https://openai.com/ar/academy/codex-automations/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="es-ES"
-      href="https://openai.com/es-ES/academy/codex-automations/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="nb-NO"
-      href="https://openai.com/nb-NO/academy/codex-automations/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ja-JP"
-      href="https://openai.com/ja-JP/academy/codex-automations/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="hi-IN"
-      href="https://openai.com/hi-IN/academy/codex-automations/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ur-IN"
-      href="https://openai.com/ur-IN/academy/codex-automations/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ml-IN"
-      href="https://openai.com/ml-IN/academy/codex-automations/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="fr-CA"
-      href="https://openai.com/fr-CA/academy/codex-automations/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="te-IN"
-      href="https://openai.com/te-IN/academy/codex-automations/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ta-IN"
-      href="https://openai.com/ta-IN/academy/codex-automations/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="mr-IN"
-      href="https://openai.com/mr-IN/academy/codex-automations/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="pt-BR"
-      href="https://openai.com/pt-BR/academy/codex-automations/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="es-419"
-      href="https://openai.com/es-419/academy/codex-automations/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="de-DE"
-      href="https://openai.com/de-DE/academy/codex-automations/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="fr-FR"
-      href="https://openai.com/fr-FR/academy/codex-automations/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ko-KR"
-      href="https://openai.com/ko-KR/academy/codex-automations/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="kn-IN"
-      href="https://openai.com/kn-IN/academy/codex-automations/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="it-IT"
-      href="https://openai.com/it-IT/academy/codex-automations/"
-    />
-  </url>
-  <url>
-    <loc>https://openai.com/academy/codex-plugins-and-skills/</loc>
-    <lastmod>2026-06-05T15:31:37.978Z</lastmod>
-    <xhtml:link
-      rel="alternate"
-      hreflang="de-DE"
-      href="https://openai.com/de-DE/academy/codex-plugins-and-skills/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="it-IT"
-      href="https://openai.com/it-IT/academy/codex-plugins-and-skills/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="es-ES"
-      href="https://openai.com/es-ES/academy/codex-plugins-and-skills/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="fr-FR"
-      href="https://openai.com/fr-FR/academy/codex-plugins-and-skills/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="mr-IN"
-      href="https://openai.com/mr-IN/academy/codex-plugins-and-skills/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ar"
-      href="https://openai.com/ar/academy/codex-plugins-and-skills/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ja-JP"
-      href="https://openai.com/ja-JP/academy/codex-plugins-and-skills/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="hi-IN"
-      href="https://openai.com/hi-IN/academy/codex-plugins-and-skills/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="nb-NO"
-      href="https://openai.com/nb-NO/academy/codex-plugins-and-skills/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ta-IN"
-      href="https://openai.com/ta-IN/academy/codex-plugins-and-skills/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="fr-CA"
-      href="https://openai.com/fr-CA/academy/codex-plugins-and-skills/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ur-IN"
-      href="https://openai.com/ur-IN/academy/codex-plugins-and-skills/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ml-IN"
-      href="https://openai.com/ml-IN/academy/codex-plugins-and-skills/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="te-IN"
-      href="https://openai.com/te-IN/academy/codex-plugins-and-skills/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ko-KR"
-      href="https://openai.com/ko-KR/academy/codex-plugins-and-skills/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="pt-BR"
-      href="https://openai.com/pt-BR/academy/codex-plugins-and-skills/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="es-419"
-      href="https://openai.com/es-419/academy/codex-plugins-and-skills/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="kn-IN"
-      href="https://openai.com/kn-IN/academy/codex-plugins-and-skills/"
-    />
-  </url>
-  <url>
-    <loc>https://openai.com/academy/what-is-codex/</loc>
-    <lastmod>2026-06-05T15:31:35.692Z</lastmod>
-    <xhtml:link
-      rel="alternate"
-      hreflang="hi-IN"
-      href="https://openai.com/hi-IN/academy/what-is-codex/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ta-IN"
-      href="https://openai.com/ta-IN/academy/what-is-codex/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="es-ES"
-      href="https://openai.com/es-ES/academy/what-is-codex/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="mr-IN"
-      href="https://openai.com/mr-IN/academy/what-is-codex/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ur-IN"
-      href="https://openai.com/ur-IN/academy/what-is-codex/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="fr-CA"
-      href="https://openai.com/fr-CA/academy/what-is-codex/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="de-DE"
-      href="https://openai.com/de-DE/academy/what-is-codex/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="pt-BR"
-      href="https://openai.com/pt-BR/academy/what-is-codex/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ml-IN"
-      href="https://openai.com/ml-IN/academy/what-is-codex/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="te-IN"
-      href="https://openai.com/te-IN/academy/what-is-codex/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="fr-FR"
-      href="https://openai.com/fr-FR/academy/what-is-codex/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ja-JP"
-      href="https://openai.com/ja-JP/academy/what-is-codex/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="kn-IN"
-      href="https://openai.com/kn-IN/academy/what-is-codex/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="nb-NO"
-      href="https://openai.com/nb-NO/academy/what-is-codex/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="it-IT"
-      href="https://openai.com/it-IT/academy/what-is-codex/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ar"
-      href="https://openai.com/ar/academy/what-is-codex/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="es-419"
-      href="https://openai.com/es-419/academy/what-is-codex/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ko-KR"
-      href="https://openai.com/ko-KR/academy/what-is-codex/"
-    />
-  </url>
-  <url>
-    <loc>https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex/</loc>
-    <lastmod>2026-06-05T15:31:34.589Z</lastmod>
-    <xhtml:link
-      rel="alternate"
-      hreflang="it-IT"
-      href="https://openai.com/it-IT/academy/codex-for-work/how-business-operations-teams-use-codex/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="es-419"
-      href="https://openai.com/es-419/academy/codex-for-work/how-business-operations-teams-use-codex/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="es-ES"
-      href="https://openai.com/es-ES/academy/codex-for-work/how-business-operations-teams-use-codex/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="nb-NO"
-      href="https://openai.com/nb-NO/academy/codex-for-work/how-business-operations-teams-use-codex/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="te-IN"
-      href="https://openai.com/te-IN/academy/codex-for-work/how-business-operations-teams-use-codex/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="fr-CA"
-      href="https://openai.com/fr-CA/academy/codex-for-work/how-business-operations-teams-use-codex/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ko-KR"
-      href="https://openai.com/ko-KR/academy/codex-for-work/how-business-operations-teams-use-codex/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="pt-BR"
-      href="https://openai.com/pt-BR/academy/codex-for-work/how-business-operations-teams-use-codex/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ml-IN"
-      href="https://openai.com/ml-IN/academy/codex-for-work/how-business-operations-teams-use-codex/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="hi-IN"
-      href="https://openai.com/hi-IN/academy/codex-for-work/how-business-operations-teams-use-codex/"
-    />
-  </url>
-  <url>
-    <loc>https://openai.com/academy/codex-settings/</loc>
-    <lastmod>2026-06-05T15:31:33.978Z</lastmod>
-    <xhtml:link
-      rel="alternate"
-      hreflang="ar"
-      href="https://openai.com/ar/academy/codex-settings/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="es-ES"
-      href="https://openai.com/es-ES/academy/codex-settings/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="kn-IN"
-      href="https://openai.com/kn-IN/academy/codex-settings/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="te-IN"
-      href="https://openai.com/te-IN/academy/codex-settings/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ml-IN"
-      href="https://openai.com/ml-IN/academy/codex-settings/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="mr-IN"
-      href="https://openai.com/mr-IN/academy/codex-settings/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="fr-CA"
-      href="https://openai.com/fr-CA/academy/codex-settings/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="hi-IN"
-      href="https://openai.com/hi-IN/academy/codex-settings/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="es-419"
-      href="https://openai.com/es-419/academy/codex-settings/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ur-IN"
-      href="https://openai.com/ur-IN/academy/codex-settings/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ja-JP"
-      href="https://openai.com/ja-JP/academy/codex-settings/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ta-IN"
-      href="https://openai.com/ta-IN/academy/codex-settings/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="fr-FR"
-      href="https://openai.com/fr-FR/academy/codex-settings/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="nb-NO"
-      href="https://openai.com/nb-NO/academy/codex-settings/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="pt-BR"
-      href="https://openai.com/pt-BR/academy/codex-settings/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ko-KR"
-      href="https://openai.com/ko-KR/academy/codex-settings/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="it-IT"
-      href="https://openai.com/it-IT/academy/codex-settings/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="de-DE"
-      href="https://openai.com/de-DE/academy/codex-settings/"
-    />
-  </url>
-  <url>
-    <loc>https://openai.com/academy/working-with-codex/</loc>
-    <lastmod>2026-06-05T15:31:33.900Z</lastmod>
-    <xhtml:link
-      rel="alternate"
-      hreflang="ko-KR"
-      href="https://openai.com/ko-KR/academy/working-with-codex/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ja-JP"
-      href="https://openai.com/ja-JP/academy/working-with-codex/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="fr-CA"
-      href="https://openai.com/fr-CA/academy/working-with-codex/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="te-IN"
-      href="https://openai.com/te-IN/academy/working-with-codex/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="kn-IN"
-      href="https://openai.com/kn-IN/academy/working-with-codex/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="fr-FR"
-      href="https://openai.com/fr-FR/academy/working-with-codex/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="nb-NO"
-      href="https://openai.com/nb-NO/academy/working-with-codex/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ml-IN"
-      href="https://openai.com/ml-IN/academy/working-with-codex/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="es-ES"
-      href="https://openai.com/es-ES/academy/working-with-codex/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ar"
-      href="https://openai.com/ar/academy/working-with-codex/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="pt-BR"
-      href="https://openai.com/pt-BR/academy/working-with-codex/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="hi-IN"
-      href="https://openai.com/hi-IN/academy/working-with-codex/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="de-DE"
-      href="https://openai.com/de-DE/academy/working-with-codex/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="it-IT"
-      href="https://openai.com/it-IT/academy/working-with-codex/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="mr-IN"
-      href="https://openai.com/mr-IN/academy/working-with-codex/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ta-IN"
-      href="https://openai.com/ta-IN/academy/working-with-codex/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ur-IN"
-      href="https://openai.com/ur-IN/academy/working-with-codex/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="es-419"
-      href="https://openai.com/es-419/academy/working-with-codex/"
-    />
-  </url>
-  <url>
-    <loc>https://openai.com/academy/codex-how-to-start/</loc>
-    <lastmod>2026-06-05T15:31:33.082Z</lastmod>
-    <xhtml:link
-      rel="alternate"
-      hreflang="te-IN"
-      href="https://openai.com/te-IN/academy/codex-how-to-start/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="fr-FR"
-      href="https://openai.com/fr-FR/academy/codex-how-to-start/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="it-IT"
-      href="https://openai.com/it-IT/academy/codex-how-to-start/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ko-KR"
-      href="https://openai.com/ko-KR/academy/codex-how-to-start/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="de-DE"
-      href="https://openai.com/de-DE/academy/codex-how-to-start/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="fr-CA"
-      href="https://openai.com/fr-CA/academy/codex-how-to-start/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="es-ES"
-      href="https://openai.com/es-ES/academy/codex-how-to-start/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ar"
-      href="https://openai.com/ar/academy/codex-how-to-start/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="pt-BR"
-      href="https://openai.com/pt-BR/academy/codex-how-to-start/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="nb-NO"
-      href="https://openai.com/nb-NO/academy/codex-how-to-start/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ta-IN"
-      href="https://openai.com/ta-IN/academy/codex-how-to-start/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="es-419"
-      href="https://openai.com/es-419/academy/codex-how-to-start/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ml-IN"
-      href="https://openai.com/ml-IN/academy/codex-how-to-start/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="mr-IN"
-      href="https://openai.com/mr-IN/academy/codex-how-to-start/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="hi-IN"
-      href="https://openai.com/hi-IN/academy/codex-how-to-start/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ja-JP"
-      href="https://openai.com/ja-JP/academy/codex-how-to-start/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ur-IN"
-      href="https://openai.com/ur-IN/academy/codex-how-to-start/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="kn-IN"
-      href="https://openai.com/kn-IN/academy/codex-how-to-start/"
-    />
-  </url>
-  <url>
-    <loc>https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex/</loc>
-    <lastmod>2026-06-05T15:31:32.508Z</lastmod>
-    <xhtml:link
-      rel="alternate"
-      hreflang="es-ES"
-      href="https://openai.com/es-ES/academy/codex-for-work/how-data-science-teams-use-codex/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ml-IN"
-      href="https://openai.com/ml-IN/academy/codex-for-work/how-data-science-teams-use-codex/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="hi-IN"
-      href="https://openai.com/hi-IN/academy/codex-for-work/how-data-science-teams-use-codex/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="te-IN"
-      href="https://openai.com/te-IN/academy/codex-for-work/how-data-science-teams-use-codex/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="es-419"
-      href="https://openai.com/es-419/academy/codex-for-work/how-data-science-teams-use-codex/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="it-IT"
-      href="https://openai.com/it-IT/academy/codex-for-work/how-data-science-teams-use-codex/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="pt-BR"
-      href="https://openai.com/pt-BR/academy/codex-for-work/how-data-science-teams-use-codex/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ko-KR"
-      href="https://openai.com/ko-KR/academy/codex-for-work/how-data-science-teams-use-codex/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="nb-NO"
-      href="https://openai.com/nb-NO/academy/codex-for-work/how-data-science-teams-use-codex/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="fr-CA"
-      href="https://openai.com/fr-CA/academy/codex-for-work/how-data-science-teams-use-codex/"
-    />
-  </url>
-  <url>
-    <loc>https://openai.com/academy/codex-for-work/how-sales-teams-use-codex/</loc>
-    <lastmod>2026-06-05T15:31:32.310Z</lastmod>
-    <xhtml:link
-      rel="alternate"
-      hreflang="ko-KR"
-      href="https://openai.com/ko-KR/academy/codex-for-work/how-sales-teams-use-codex/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="es-419"
-      href="https://openai.com/es-419/academy/codex-for-work/how-sales-teams-use-codex/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="es-ES"
-      href="https://openai.com/es-ES/academy/codex-for-work/how-sales-teams-use-codex/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="it-IT"
-      href="https://openai.com/it-IT/academy/codex-for-work/how-sales-teams-use-codex/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="nb-NO"
-      href="https://openai.com/nb-NO/academy/codex-for-work/how-sales-teams-use-codex/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="te-IN"
-      href="https://openai.com/te-IN/academy/codex-for-work/how-sales-teams-use-codex/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="pt-BR"
-      href="https://openai.com/pt-BR/academy/codex-for-work/how-sales-teams-use-codex/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ml-IN"
-      href="https://openai.com/ml-IN/academy/codex-for-work/how-sales-teams-use-codex/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="fr-CA"
-      href="https://openai.com/fr-CA/academy/codex-for-work/how-sales-teams-use-codex/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="hi-IN"
-      href="https://openai.com/hi-IN/academy/codex-for-work/how-sales-teams-use-codex/"
-    />
-  </url>
-  <url>
     <loc>https://openai.com/academy/how-to-use-codex-for-everyday-work/</loc>
-    <lastmod>2026-06-05T15:31:17.767Z</lastmod>
+    <lastmod>2026-06-07T06:17:16.504Z</lastmod>
     <xhtml:link
       rel="alternate"
-      hreflang="zh-Hans-CN"
-      href="https://openai.com/zh-Hans-CN/academy/how-to-use-codex-for-everyday-work/"
+      hreflang="de-DE"
+      href="https://openai.com/de-DE/academy/how-to-use-codex-for-everyday-work/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="te-IN"
       href="https://openai.com/te-IN/academy/how-to-use-codex-for-everyday-work/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="nb-NO"
-      href="https://openai.com/nb-NO/academy/how-to-use-codex-for-everyday-work/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="zh-Hant-HK"
-      href="https://openai.com/zh-Hant-HK/academy/how-to-use-codex-for-everyday-work/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="am-ET"
-      href="https://openai.com/am-ET/academy/how-to-use-codex-for-everyday-work/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ja-JP"
-      href="https://openai.com/ja-JP/academy/how-to-use-codex-for-everyday-work/"
     />
     <xhtml:link
       rel="alternate"
@@ -876,8 +41,43 @@
     />
     <xhtml:link
       rel="alternate"
+      hreflang="pt-BR"
+      href="https://openai.com/pt-BR/academy/how-to-use-codex-for-everyday-work/"
+    />
+    <xhtml:link
+      rel="alternate"
       hreflang="ar"
       href="https://openai.com/ar/academy/how-to-use-codex-for-everyday-work/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="nb-NO"
+      href="https://openai.com/nb-NO/academy/how-to-use-codex-for-everyday-work/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ur-IN"
+      href="https://openai.com/ur-IN/academy/how-to-use-codex-for-everyday-work/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ko-KR"
+      href="https://openai.com/ko-KR/academy/how-to-use-codex-for-everyday-work/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="kn-IN"
+      href="https://openai.com/kn-IN/academy/how-to-use-codex-for-everyday-work/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="am-ET"
+      href="https://openai.com/am-ET/academy/how-to-use-codex-for-everyday-work/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ja-JP"
+      href="https://openai.com/ja-JP/academy/how-to-use-codex-for-everyday-work/"
     />
     <xhtml:link
       rel="alternate"
@@ -891,26 +91,6 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="ml-IN"
-      href="https://openai.com/ml-IN/academy/how-to-use-codex-for-everyday-work/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ko-KR"
-      href="https://openai.com/ko-KR/academy/how-to-use-codex-for-everyday-work/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="pt-BR"
-      href="https://openai.com/pt-BR/academy/how-to-use-codex-for-everyday-work/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ur-IN"
-      href="https://openai.com/ur-IN/academy/how-to-use-codex-for-everyday-work/"
-    />
-    <xhtml:link
-      rel="alternate"
       hreflang="fr-FR"
       href="https://openai.com/fr-FR/academy/how-to-use-codex-for-everyday-work/"
     />
@@ -921,13 +101,833 @@
     />
     <xhtml:link
       rel="alternate"
+      hreflang="zh-Hans-CN"
+      href="https://openai.com/zh-Hans-CN/academy/how-to-use-codex-for-everyday-work/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ml-IN"
+      href="https://openai.com/ml-IN/academy/how-to-use-codex-for-everyday-work/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-Hant-HK"
+      href="https://openai.com/zh-Hant-HK/academy/how-to-use-codex-for-everyday-work/"
+    />
+  </url>
+  <url>
+    <loc>https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex/</loc>
+    <lastmod>2026-06-07T06:16:55.703Z</lastmod>
+    <xhtml:link
+      rel="alternate"
+      hreflang="nb-NO"
+      href="https://openai.com/nb-NO/academy/codex-for-work/how-business-operations-teams-use-codex/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr-CA"
+      href="https://openai.com/fr-CA/academy/codex-for-work/how-business-operations-teams-use-codex/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="pt-BR"
+      href="https://openai.com/pt-BR/academy/codex-for-work/how-business-operations-teams-use-codex/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="it-IT"
+      href="https://openai.com/it-IT/academy/codex-for-work/how-business-operations-teams-use-codex/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ko-KR"
+      href="https://openai.com/ko-KR/academy/codex-for-work/how-business-operations-teams-use-codex/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ml-IN"
+      href="https://openai.com/ml-IN/academy/codex-for-work/how-business-operations-teams-use-codex/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="hi-IN"
+      href="https://openai.com/hi-IN/academy/codex-for-work/how-business-operations-teams-use-codex/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="te-IN"
+      href="https://openai.com/te-IN/academy/codex-for-work/how-business-operations-teams-use-codex/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es-419"
+      href="https://openai.com/es-419/academy/codex-for-work/how-business-operations-teams-use-codex/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es-ES"
+      href="https://openai.com/es-ES/academy/codex-for-work/how-business-operations-teams-use-codex/"
+    />
+  </url>
+  <url>
+    <loc>https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex/</loc>
+    <lastmod>2026-06-07T06:16:55.482Z</lastmod>
+    <xhtml:link
+      rel="alternate"
+      hreflang="es-ES"
+      href="https://openai.com/es-ES/academy/codex-for-work/how-data-science-teams-use-codex/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr-CA"
+      href="https://openai.com/fr-CA/academy/codex-for-work/how-data-science-teams-use-codex/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="te-IN"
+      href="https://openai.com/te-IN/academy/codex-for-work/how-data-science-teams-use-codex/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="pt-BR"
+      href="https://openai.com/pt-BR/academy/codex-for-work/how-data-science-teams-use-codex/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="nb-NO"
+      href="https://openai.com/nb-NO/academy/codex-for-work/how-data-science-teams-use-codex/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="it-IT"
+      href="https://openai.com/it-IT/academy/codex-for-work/how-data-science-teams-use-codex/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es-419"
+      href="https://openai.com/es-419/academy/codex-for-work/how-data-science-teams-use-codex/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ml-IN"
+      href="https://openai.com/ml-IN/academy/codex-for-work/how-data-science-teams-use-codex/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="hi-IN"
+      href="https://openai.com/hi-IN/academy/codex-for-work/how-data-science-teams-use-codex/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ko-KR"
+      href="https://openai.com/ko-KR/academy/codex-for-work/how-data-science-teams-use-codex/"
+    />
+  </url>
+  <url>
+    <loc>https://openai.com/academy/what-is-codex/</loc>
+    <lastmod>2026-06-07T06:16:55.478Z</lastmod>
+    <xhtml:link
+      rel="alternate"
+      hreflang="ur-IN"
+      href="https://openai.com/ur-IN/academy/what-is-codex/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es-ES"
+      href="https://openai.com/es-ES/academy/what-is-codex/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es-419"
+      href="https://openai.com/es-419/academy/what-is-codex/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ta-IN"
+      href="https://openai.com/ta-IN/academy/what-is-codex/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="hi-IN"
+      href="https://openai.com/hi-IN/academy/what-is-codex/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="mr-IN"
+      href="https://openai.com/mr-IN/academy/what-is-codex/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr-CA"
+      href="https://openai.com/fr-CA/academy/what-is-codex/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ml-IN"
+      href="https://openai.com/ml-IN/academy/what-is-codex/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ar"
+      href="https://openai.com/ar/academy/what-is-codex/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="pt-BR"
+      href="https://openai.com/pt-BR/academy/what-is-codex/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr-FR"
+      href="https://openai.com/fr-FR/academy/what-is-codex/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="nb-NO"
+      href="https://openai.com/nb-NO/academy/what-is-codex/"
+    />
+    <xhtml:link
+      rel="alternate"
       hreflang="de-DE"
-      href="https://openai.com/de-DE/academy/how-to-use-codex-for-everyday-work/"
+      href="https://openai.com/de-DE/academy/what-is-codex/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="it-IT"
+      href="https://openai.com/it-IT/academy/what-is-codex/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ko-KR"
+      href="https://openai.com/ko-KR/academy/what-is-codex/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="kn-IN"
-      href="https://openai.com/kn-IN/academy/how-to-use-codex-for-everyday-work/"
+      href="https://openai.com/kn-IN/academy/what-is-codex/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="te-IN"
+      href="https://openai.com/te-IN/academy/what-is-codex/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ja-JP"
+      href="https://openai.com/ja-JP/academy/what-is-codex/"
+    />
+  </url>
+  <url>
+    <loc>https://openai.com/academy/codex-plugins-and-skills/</loc>
+    <lastmod>2026-06-07T06:16:49.134Z</lastmod>
+    <xhtml:link
+      rel="alternate"
+      hreflang="es-419"
+      href="https://openai.com/es-419/academy/codex-plugins-and-skills/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="te-IN"
+      href="https://openai.com/te-IN/academy/codex-plugins-and-skills/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="de-DE"
+      href="https://openai.com/de-DE/academy/codex-plugins-and-skills/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="it-IT"
+      href="https://openai.com/it-IT/academy/codex-plugins-and-skills/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ar"
+      href="https://openai.com/ar/academy/codex-plugins-and-skills/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="kn-IN"
+      href="https://openai.com/kn-IN/academy/codex-plugins-and-skills/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ja-JP"
+      href="https://openai.com/ja-JP/academy/codex-plugins-and-skills/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="mr-IN"
+      href="https://openai.com/mr-IN/academy/codex-plugins-and-skills/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="hi-IN"
+      href="https://openai.com/hi-IN/academy/codex-plugins-and-skills/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ur-IN"
+      href="https://openai.com/ur-IN/academy/codex-plugins-and-skills/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ta-IN"
+      href="https://openai.com/ta-IN/academy/codex-plugins-and-skills/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="nb-NO"
+      href="https://openai.com/nb-NO/academy/codex-plugins-and-skills/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ml-IN"
+      href="https://openai.com/ml-IN/academy/codex-plugins-and-skills/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es-ES"
+      href="https://openai.com/es-ES/academy/codex-plugins-and-skills/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="pt-BR"
+      href="https://openai.com/pt-BR/academy/codex-plugins-and-skills/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr-CA"
+      href="https://openai.com/fr-CA/academy/codex-plugins-and-skills/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr-FR"
+      href="https://openai.com/fr-FR/academy/codex-plugins-and-skills/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ko-KR"
+      href="https://openai.com/ko-KR/academy/codex-plugins-and-skills/"
+    />
+  </url>
+  <url>
+    <loc>https://openai.com/academy/codex-for-work/how-sales-teams-use-codex/</loc>
+    <lastmod>2026-06-07T06:16:47.650Z</lastmod>
+    <xhtml:link
+      rel="alternate"
+      hreflang="hi-IN"
+      href="https://openai.com/hi-IN/academy/codex-for-work/how-sales-teams-use-codex/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="it-IT"
+      href="https://openai.com/it-IT/academy/codex-for-work/how-sales-teams-use-codex/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es-419"
+      href="https://openai.com/es-419/academy/codex-for-work/how-sales-teams-use-codex/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="te-IN"
+      href="https://openai.com/te-IN/academy/codex-for-work/how-sales-teams-use-codex/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr-CA"
+      href="https://openai.com/fr-CA/academy/codex-for-work/how-sales-teams-use-codex/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es-ES"
+      href="https://openai.com/es-ES/academy/codex-for-work/how-sales-teams-use-codex/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ml-IN"
+      href="https://openai.com/ml-IN/academy/codex-for-work/how-sales-teams-use-codex/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="pt-BR"
+      href="https://openai.com/pt-BR/academy/codex-for-work/how-sales-teams-use-codex/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ko-KR"
+      href="https://openai.com/ko-KR/academy/codex-for-work/how-sales-teams-use-codex/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="nb-NO"
+      href="https://openai.com/nb-NO/academy/codex-for-work/how-sales-teams-use-codex/"
+    />
+  </url>
+  <url>
+    <loc>https://openai.com/academy/working-with-codex/</loc>
+    <lastmod>2026-06-07T06:16:47.383Z</lastmod>
+    <xhtml:link
+      rel="alternate"
+      hreflang="kn-IN"
+      href="https://openai.com/kn-IN/academy/working-with-codex/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es-419"
+      href="https://openai.com/es-419/academy/working-with-codex/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr-FR"
+      href="https://openai.com/fr-FR/academy/working-with-codex/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="pt-BR"
+      href="https://openai.com/pt-BR/academy/working-with-codex/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ko-KR"
+      href="https://openai.com/ko-KR/academy/working-with-codex/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es-ES"
+      href="https://openai.com/es-ES/academy/working-with-codex/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="it-IT"
+      href="https://openai.com/it-IT/academy/working-with-codex/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="hi-IN"
+      href="https://openai.com/hi-IN/academy/working-with-codex/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="te-IN"
+      href="https://openai.com/te-IN/academy/working-with-codex/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr-CA"
+      href="https://openai.com/fr-CA/academy/working-with-codex/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ja-JP"
+      href="https://openai.com/ja-JP/academy/working-with-codex/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="de-DE"
+      href="https://openai.com/de-DE/academy/working-with-codex/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ta-IN"
+      href="https://openai.com/ta-IN/academy/working-with-codex/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ur-IN"
+      href="https://openai.com/ur-IN/academy/working-with-codex/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ml-IN"
+      href="https://openai.com/ml-IN/academy/working-with-codex/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="nb-NO"
+      href="https://openai.com/nb-NO/academy/working-with-codex/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ar"
+      href="https://openai.com/ar/academy/working-with-codex/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="mr-IN"
+      href="https://openai.com/mr-IN/academy/working-with-codex/"
+    />
+  </url>
+  <url>
+    <loc>https://openai.com/academy/codex-automations/</loc>
+    <lastmod>2026-06-07T06:16:47.222Z</lastmod>
+    <xhtml:link
+      rel="alternate"
+      hreflang="ja-JP"
+      href="https://openai.com/ja-JP/academy/codex-automations/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ta-IN"
+      href="https://openai.com/ta-IN/academy/codex-automations/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="hi-IN"
+      href="https://openai.com/hi-IN/academy/codex-automations/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr-FR"
+      href="https://openai.com/fr-FR/academy/codex-automations/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="mr-IN"
+      href="https://openai.com/mr-IN/academy/codex-automations/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="kn-IN"
+      href="https://openai.com/kn-IN/academy/codex-automations/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es-419"
+      href="https://openai.com/es-419/academy/codex-automations/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="te-IN"
+      href="https://openai.com/te-IN/academy/codex-automations/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ko-KR"
+      href="https://openai.com/ko-KR/academy/codex-automations/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="pt-BR"
+      href="https://openai.com/pt-BR/academy/codex-automations/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ml-IN"
+      href="https://openai.com/ml-IN/academy/codex-automations/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ar"
+      href="https://openai.com/ar/academy/codex-automations/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr-CA"
+      href="https://openai.com/fr-CA/academy/codex-automations/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ur-IN"
+      href="https://openai.com/ur-IN/academy/codex-automations/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="it-IT"
+      href="https://openai.com/it-IT/academy/codex-automations/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="de-DE"
+      href="https://openai.com/de-DE/academy/codex-automations/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es-ES"
+      href="https://openai.com/es-ES/academy/codex-automations/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="nb-NO"
+      href="https://openai.com/nb-NO/academy/codex-automations/"
+    />
+  </url>
+  <url>
+    <loc>https://openai.com/academy/codex-how-to-start/</loc>
+    <lastmod>2026-06-07T06:16:46.873Z</lastmod>
+    <xhtml:link
+      rel="alternate"
+      hreflang="hi-IN"
+      href="https://openai.com/hi-IN/academy/codex-how-to-start/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="pt-BR"
+      href="https://openai.com/pt-BR/academy/codex-how-to-start/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr-CA"
+      href="https://openai.com/fr-CA/academy/codex-how-to-start/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ko-KR"
+      href="https://openai.com/ko-KR/academy/codex-how-to-start/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="it-IT"
+      href="https://openai.com/it-IT/academy/codex-how-to-start/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ar"
+      href="https://openai.com/ar/academy/codex-how-to-start/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr-FR"
+      href="https://openai.com/fr-FR/academy/codex-how-to-start/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="kn-IN"
+      href="https://openai.com/kn-IN/academy/codex-how-to-start/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="de-DE"
+      href="https://openai.com/de-DE/academy/codex-how-to-start/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es-ES"
+      href="https://openai.com/es-ES/academy/codex-how-to-start/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="nb-NO"
+      href="https://openai.com/nb-NO/academy/codex-how-to-start/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ta-IN"
+      href="https://openai.com/ta-IN/academy/codex-how-to-start/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es-419"
+      href="https://openai.com/es-419/academy/codex-how-to-start/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ml-IN"
+      href="https://openai.com/ml-IN/academy/codex-how-to-start/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="mr-IN"
+      href="https://openai.com/mr-IN/academy/codex-how-to-start/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="te-IN"
+      href="https://openai.com/te-IN/academy/codex-how-to-start/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ja-JP"
+      href="https://openai.com/ja-JP/academy/codex-how-to-start/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ur-IN"
+      href="https://openai.com/ur-IN/academy/codex-how-to-start/"
+    />
+  </url>
+  <url>
+    <loc>https://openai.com/academy/codex-settings/</loc>
+    <lastmod>2026-06-07T06:16:46.588Z</lastmod>
+    <xhtml:link
+      rel="alternate"
+      hreflang="nb-NO"
+      href="https://openai.com/nb-NO/academy/codex-settings/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es-ES"
+      href="https://openai.com/es-ES/academy/codex-settings/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es-419"
+      href="https://openai.com/es-419/academy/codex-settings/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ko-KR"
+      href="https://openai.com/ko-KR/academy/codex-settings/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ar"
+      href="https://openai.com/ar/academy/codex-settings/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="mr-IN"
+      href="https://openai.com/mr-IN/academy/codex-settings/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="hi-IN"
+      href="https://openai.com/hi-IN/academy/codex-settings/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ta-IN"
+      href="https://openai.com/ta-IN/academy/codex-settings/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ml-IN"
+      href="https://openai.com/ml-IN/academy/codex-settings/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ja-JP"
+      href="https://openai.com/ja-JP/academy/codex-settings/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="it-IT"
+      href="https://openai.com/it-IT/academy/codex-settings/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="pt-BR"
+      href="https://openai.com/pt-BR/academy/codex-settings/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ur-IN"
+      href="https://openai.com/ur-IN/academy/codex-settings/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr-FR"
+      href="https://openai.com/fr-FR/academy/codex-settings/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr-CA"
+      href="https://openai.com/fr-CA/academy/codex-settings/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="te-IN"
+      href="https://openai.com/te-IN/academy/codex-settings/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="kn-IN"
+      href="https://openai.com/kn-IN/academy/codex-settings/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="de-DE"
+      href="https://openai.com/de-DE/academy/codex-settings/"
+    />
+  </url>
+  <url>
+    <loc>https://openai.com/academy/how-finance-teams-use-codex/</loc>
+    <lastmod>2026-06-07T06:16:43.953Z</lastmod>
+    <xhtml:link
+      rel="alternate"
+      hreflang="it-IT"
+      href="https://openai.com/it-IT/academy/how-finance-teams-use-codex/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ur-IN"
+      href="https://openai.com/ur-IN/academy/how-finance-teams-use-codex/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="nb-NO"
+      href="https://openai.com/nb-NO/academy/how-finance-teams-use-codex/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ml-IN"
+      href="https://openai.com/ml-IN/academy/how-finance-teams-use-codex/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es-419"
+      href="https://openai.com/es-419/academy/how-finance-teams-use-codex/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="pt-BR"
+      href="https://openai.com/pt-BR/academy/how-finance-teams-use-codex/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr-FR"
+      href="https://openai.com/fr-FR/academy/how-finance-teams-use-codex/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="te-IN"
+      href="https://openai.com/te-IN/academy/how-finance-teams-use-codex/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="hi-IN"
+      href="https://openai.com/hi-IN/academy/how-finance-teams-use-codex/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ta-IN"
+      href="https://openai.com/ta-IN/academy/how-finance-teams-use-codex/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="kn-IN"
+      href="https://openai.com/kn-IN/academy/how-finance-teams-use-codex/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr-CA"
+      href="https://openai.com/fr-CA/academy/how-finance-teams-use-codex/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ja-JP"
+      href="https://openai.com/ja-JP/academy/how-finance-teams-use-codex/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es-ES"
+      href="https://openai.com/es-ES/academy/how-finance-teams-use-codex/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="mr-IN"
+      href="https://openai.com/mr-IN/academy/how-finance-teams-use-codex/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="de-DE"
+      href="https://openai.com/de-DE/academy/how-finance-teams-use-codex/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ko-KR"
+      href="https://openai.com/ko-KR/academy/how-finance-teams-use-codex/"
     />
   </url>
   <url>
@@ -935,78 +935,8 @@
     <lastmod>2026-05-29T21:39:00.244Z</lastmod>
     <xhtml:link
       rel="alternate"
-      hreflang="it-IT"
-      href="https://openai.com/it-IT/academy/prompting/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="te-IN"
-      href="https://openai.com/te-IN/academy/prompting/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="mr-IN"
-      href="https://openai.com/mr-IN/academy/prompting/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ml-IN"
-      href="https://openai.com/ml-IN/academy/prompting/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="es-419"
-      href="https://openai.com/es-419/academy/prompting/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ko-KR"
-      href="https://openai.com/ko-KR/academy/prompting/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="de-DE"
-      href="https://openai.com/de-DE/academy/prompting/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ja-JP"
-      href="https://openai.com/ja-JP/academy/prompting/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="fr-CA"
-      href="https://openai.com/fr-CA/academy/prompting/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ar"
-      href="https://openai.com/ar/academy/prompting/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ur-IN"
-      href="https://openai.com/ur-IN/academy/prompting/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="hi-IN"
-      href="https://openai.com/hi-IN/academy/prompting/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="kn-IN"
-      href="https://openai.com/kn-IN/academy/prompting/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ta-IN"
-      href="https://openai.com/ta-IN/academy/prompting/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="nb-NO"
-      href="https://openai.com/nb-NO/academy/prompting/"
+      hreflang="fr-FR"
+      href="https://openai.com/fr-FR/academy/prompting/"
     />
     <xhtml:link
       rel="alternate"
@@ -1015,13 +945,83 @@
     />
     <xhtml:link
       rel="alternate"
+      hreflang="mr-IN"
+      href="https://openai.com/mr-IN/academy/prompting/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="kn-IN"
+      href="https://openai.com/kn-IN/academy/prompting/"
+    />
+    <xhtml:link
+      rel="alternate"
       hreflang="pt-BR"
       href="https://openai.com/pt-BR/academy/prompting/"
     />
     <xhtml:link
       rel="alternate"
-      hreflang="fr-FR"
-      href="https://openai.com/fr-FR/academy/prompting/"
+      hreflang="ja-JP"
+      href="https://openai.com/ja-JP/academy/prompting/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="de-DE"
+      href="https://openai.com/de-DE/academy/prompting/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr-CA"
+      href="https://openai.com/fr-CA/academy/prompting/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ml-IN"
+      href="https://openai.com/ml-IN/academy/prompting/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ta-IN"
+      href="https://openai.com/ta-IN/academy/prompting/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="it-IT"
+      href="https://openai.com/it-IT/academy/prompting/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="nb-NO"
+      href="https://openai.com/nb-NO/academy/prompting/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ar"
+      href="https://openai.com/ar/academy/prompting/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ko-KR"
+      href="https://openai.com/ko-KR/academy/prompting/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="hi-IN"
+      href="https://openai.com/hi-IN/academy/prompting/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es-419"
+      href="https://openai.com/es-419/academy/prompting/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ur-IN"
+      href="https://openai.com/ur-IN/academy/prompting/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="te-IN"
+      href="https://openai.com/te-IN/academy/prompting/"
     />
   </url>
   <url>
@@ -1029,33 +1029,13 @@
     <lastmod>2026-05-29T21:38:17.490Z</lastmod>
     <xhtml:link
       rel="alternate"
-      hreflang="mr-IN"
-      href="https://openai.com/mr-IN/academy/research/"
+      hreflang="fr-FR"
+      href="https://openai.com/fr-FR/academy/research/"
     />
     <xhtml:link
       rel="alternate"
-      hreflang="kn-IN"
-      href="https://openai.com/kn-IN/academy/research/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="es-419"
-      href="https://openai.com/es-419/academy/research/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="fr-CA"
-      href="https://openai.com/fr-CA/academy/research/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ko-KR"
-      href="https://openai.com/ko-KR/academy/research/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ta-IN"
-      href="https://openai.com/ta-IN/academy/research/"
+      hreflang="es-ES"
+      href="https://openai.com/es-ES/academy/research/"
     />
     <xhtml:link
       rel="alternate"
@@ -1074,8 +1054,8 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="fr-FR"
-      href="https://openai.com/fr-FR/academy/research/"
+      hreflang="hi-IN"
+      href="https://openai.com/hi-IN/academy/research/"
     />
     <xhtml:link
       rel="alternate"
@@ -1084,23 +1064,8 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="ml-IN"
-      href="https://openai.com/ml-IN/academy/research/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="hi-IN"
-      href="https://openai.com/hi-IN/academy/research/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="de-DE"
-      href="https://openai.com/de-DE/academy/research/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="nb-NO"
-      href="https://openai.com/nb-NO/academy/research/"
+      hreflang="fr-CA"
+      href="https://openai.com/fr-CA/academy/research/"
     />
     <xhtml:link
       rel="alternate"
@@ -1109,13 +1074,48 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="es-ES"
-      href="https://openai.com/es-ES/academy/research/"
+      hreflang="kn-IN"
+      href="https://openai.com/kn-IN/academy/research/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it-IT"
       href="https://openai.com/it-IT/academy/research/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="nb-NO"
+      href="https://openai.com/nb-NO/academy/research/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ml-IN"
+      href="https://openai.com/ml-IN/academy/research/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ko-KR"
+      href="https://openai.com/ko-KR/academy/research/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es-419"
+      href="https://openai.com/es-419/academy/research/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="mr-IN"
+      href="https://openai.com/mr-IN/academy/research/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ta-IN"
+      href="https://openai.com/ta-IN/academy/research/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="de-DE"
+      href="https://openai.com/de-DE/academy/research/"
     />
   </url>
   <url>
@@ -1123,28 +1123,8 @@
     <lastmod>2026-05-29T21:31:21.925Z</lastmod>
     <xhtml:link
       rel="alternate"
-      hreflang="ar"
-      href="https://openai.com/ar/academy/writing/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="kn-IN"
-      href="https://openai.com/kn-IN/academy/writing/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="de-DE"
-      href="https://openai.com/de-DE/academy/writing/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="pt-BR"
-      href="https://openai.com/pt-BR/academy/writing/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ta-IN"
-      href="https://openai.com/ta-IN/academy/writing/"
+      hreflang="hi-IN"
+      href="https://openai.com/hi-IN/academy/writing/"
     />
     <xhtml:link
       rel="alternate"
@@ -1153,13 +1133,53 @@
     />
     <xhtml:link
       rel="alternate"
+      hreflang="de-DE"
+      href="https://openai.com/de-DE/academy/writing/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="te-IN"
+      href="https://openai.com/te-IN/academy/writing/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ta-IN"
+      href="https://openai.com/ta-IN/academy/writing/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ml-IN"
+      href="https://openai.com/ml-IN/academy/writing/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="pt-BR"
+      href="https://openai.com/pt-BR/academy/writing/"
+    />
+    <xhtml:link
+      rel="alternate"
       hreflang="nb-NO"
       href="https://openai.com/nb-NO/academy/writing/"
     />
     <xhtml:link
       rel="alternate"
+      hreflang="kn-IN"
+      href="https://openai.com/kn-IN/academy/writing/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ar"
+      href="https://openai.com/ar/academy/writing/"
+    />
+    <xhtml:link
+      rel="alternate"
       hreflang="ko-KR"
       href="https://openai.com/ko-KR/academy/writing/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr-FR"
+      href="https://openai.com/fr-FR/academy/writing/"
     />
     <xhtml:link
       rel="alternate"
@@ -1173,28 +1193,8 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="hi-IN"
-      href="https://openai.com/hi-IN/academy/writing/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="it-IT"
-      href="https://openai.com/it-IT/academy/writing/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="fr-FR"
-      href="https://openai.com/fr-FR/academy/writing/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="te-IN"
-      href="https://openai.com/te-IN/academy/writing/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ml-IN"
-      href="https://openai.com/ml-IN/academy/writing/"
+      hreflang="fr-CA"
+      href="https://openai.com/fr-CA/academy/writing/"
     />
     <xhtml:link
       rel="alternate"
@@ -1203,8 +1203,8 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="fr-CA"
-      href="https://openai.com/fr-CA/academy/writing/"
+      hreflang="it-IT"
+      href="https://openai.com/it-IT/academy/writing/"
     />
     <xhtml:link
       rel="alternate"
@@ -1217,13 +1217,8 @@
     <lastmod>2026-05-29T21:30:25.620Z</lastmod>
     <xhtml:link
       rel="alternate"
-      hreflang="es-ES"
-      href="https://openai.com/es-ES/academy/sales/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="mr-IN"
-      href="https://openai.com/mr-IN/academy/sales/"
+      hreflang="es-419"
+      href="https://openai.com/es-419/academy/sales/"
     />
     <xhtml:link
       rel="alternate"
@@ -1232,8 +1227,13 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="kn-IN"
-      href="https://openai.com/kn-IN/academy/sales/"
+      hreflang="pt-BR"
+      href="https://openai.com/pt-BR/academy/sales/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es-ES"
+      href="https://openai.com/es-ES/academy/sales/"
     />
     <xhtml:link
       rel="alternate"
@@ -1242,18 +1242,8 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="de-DE"
-      href="https://openai.com/de-DE/academy/sales/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ar"
-      href="https://openai.com/ar/academy/sales/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="es-419"
-      href="https://openai.com/es-419/academy/sales/"
+      hreflang="te-IN"
+      href="https://openai.com/te-IN/academy/sales/"
     />
     <xhtml:link
       rel="alternate"
@@ -1262,18 +1252,18 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="nb-NO"
-      href="https://openai.com/nb-NO/academy/sales/"
+      hreflang="mr-IN"
+      href="https://openai.com/mr-IN/academy/sales/"
     />
     <xhtml:link
       rel="alternate"
-      hreflang="te-IN"
-      href="https://openai.com/te-IN/academy/sales/"
+      hreflang="kn-IN"
+      href="https://openai.com/kn-IN/academy/sales/"
     />
     <xhtml:link
       rel="alternate"
-      hreflang="pt-BR"
-      href="https://openai.com/pt-BR/academy/sales/"
+      hreflang="fr-FR"
+      href="https://openai.com/fr-FR/academy/sales/"
     />
     <xhtml:link
       rel="alternate"
@@ -1282,8 +1272,13 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="hi-IN"
-      href="https://openai.com/hi-IN/academy/sales/"
+      hreflang="nb-NO"
+      href="https://openai.com/nb-NO/academy/sales/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr-CA"
+      href="https://openai.com/fr-CA/academy/sales/"
     />
     <xhtml:link
       rel="alternate"
@@ -1297,13 +1292,18 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="fr-CA"
-      href="https://openai.com/fr-CA/academy/sales/"
+      hreflang="hi-IN"
+      href="https://openai.com/hi-IN/academy/sales/"
     />
     <xhtml:link
       rel="alternate"
-      hreflang="fr-FR"
-      href="https://openai.com/fr-FR/academy/sales/"
+      hreflang="de-DE"
+      href="https://openai.com/de-DE/academy/sales/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ar"
+      href="https://openai.com/ar/academy/sales/"
     />
   </url>
   <url>
@@ -1311,28 +1311,8 @@
     <lastmod>2026-05-27T18:02:17.253Z</lastmod>
     <xhtml:link
       rel="alternate"
-      hreflang="ur-IN"
-      href="https://openai.com/ur-IN/academy/workspace-agents/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="hi-IN"
-      href="https://openai.com/hi-IN/academy/workspace-agents/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ko-KR"
-      href="https://openai.com/ko-KR/academy/workspace-agents/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="es-ES"
-      href="https://openai.com/es-ES/academy/workspace-agents/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ta-IN"
-      href="https://openai.com/ta-IN/academy/workspace-agents/"
+      hreflang="fr-CA"
+      href="https://openai.com/fr-CA/academy/workspace-agents/"
     />
     <xhtml:link
       rel="alternate"
@@ -1346,23 +1326,23 @@
     />
     <xhtml:link
       rel="alternate"
+      hreflang="mr-IN"
+      href="https://openai.com/mr-IN/academy/workspace-agents/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ur-IN"
+      href="https://openai.com/ur-IN/academy/workspace-agents/"
+    />
+    <xhtml:link
+      rel="alternate"
       hreflang="ja-JP"
       href="https://openai.com/ja-JP/academy/workspace-agents/"
     />
     <xhtml:link
       rel="alternate"
-      hreflang="es-419"
-      href="https://openai.com/es-419/academy/workspace-agents/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="fr-CA"
-      href="https://openai.com/fr-CA/academy/workspace-agents/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="te-IN"
-      href="https://openai.com/te-IN/academy/workspace-agents/"
+      hreflang="hi-IN"
+      href="https://openai.com/hi-IN/academy/workspace-agents/"
     />
     <xhtml:link
       rel="alternate"
@@ -1371,13 +1351,13 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="ar"
-      href="https://openai.com/ar/academy/workspace-agents/"
+      hreflang="ta-IN"
+      href="https://openai.com/ta-IN/academy/workspace-agents/"
     />
     <xhtml:link
       rel="alternate"
-      hreflang="nb-NO"
-      href="https://openai.com/nb-NO/academy/workspace-agents/"
+      hreflang="es-419"
+      href="https://openai.com/es-419/academy/workspace-agents/"
     />
     <xhtml:link
       rel="alternate"
@@ -1386,13 +1366,33 @@
     />
     <xhtml:link
       rel="alternate"
+      hreflang="te-IN"
+      href="https://openai.com/te-IN/academy/workspace-agents/"
+    />
+    <xhtml:link
+      rel="alternate"
       hreflang="it-IT"
       href="https://openai.com/it-IT/academy/workspace-agents/"
     />
     <xhtml:link
       rel="alternate"
-      hreflang="mr-IN"
-      href="https://openai.com/mr-IN/academy/workspace-agents/"
+      hreflang="es-ES"
+      href="https://openai.com/es-ES/academy/workspace-agents/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="nb-NO"
+      href="https://openai.com/nb-NO/academy/workspace-agents/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ar"
+      href="https://openai.com/ar/academy/workspace-agents/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ko-KR"
+      href="https://openai.com/ko-KR/academy/workspace-agents/"
     />
     <xhtml:link
       rel="alternate"
@@ -1405,23 +1405,8 @@
     <lastmod>2026-05-27T18:01:26.160Z</lastmod>
     <xhtml:link
       rel="alternate"
-      hreflang="ko-KR"
-      href="https://openai.com/ko-KR/academy/skills/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="te-IN"
-      href="https://openai.com/te-IN/academy/skills/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="fr-CA"
-      href="https://openai.com/fr-CA/academy/skills/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="kn-IN"
-      href="https://openai.com/kn-IN/academy/skills/"
+      hreflang="hi-IN"
+      href="https://openai.com/hi-IN/academy/skills/"
     />
     <xhtml:link
       rel="alternate"
@@ -1430,23 +1415,8 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="ar"
-      href="https://openai.com/ar/academy/skills/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="es-ES"
-      href="https://openai.com/es-ES/academy/skills/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="it-IT"
-      href="https://openai.com/it-IT/academy/skills/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="pt-BR"
-      href="https://openai.com/pt-BR/academy/skills/"
+      hreflang="nb-NO"
+      href="https://openai.com/nb-NO/academy/skills/"
     />
     <xhtml:link
       rel="alternate"
@@ -1455,18 +1425,8 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="hi-IN"
-      href="https://openai.com/hi-IN/academy/skills/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="es-419"
-      href="https://openai.com/es-419/academy/skills/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="mr-IN"
-      href="https://openai.com/mr-IN/academy/skills/"
+      hreflang="fr-CA"
+      href="https://openai.com/fr-CA/academy/skills/"
     />
     <xhtml:link
       rel="alternate"
@@ -1475,13 +1435,18 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="de-DE"
-      href="https://openai.com/de-DE/academy/skills/"
+      hreflang="mr-IN"
+      href="https://openai.com/mr-IN/academy/skills/"
     />
     <xhtml:link
       rel="alternate"
-      hreflang="ja-JP"
-      href="https://openai.com/ja-JP/academy/skills/"
+      hreflang="kn-IN"
+      href="https://openai.com/kn-IN/academy/skills/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es-419"
+      href="https://openai.com/es-419/academy/skills/"
     />
     <xhtml:link
       rel="alternate"
@@ -1490,8 +1455,43 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="nb-NO"
-      href="https://openai.com/nb-NO/academy/skills/"
+      hreflang="es-ES"
+      href="https://openai.com/es-ES/academy/skills/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="te-IN"
+      href="https://openai.com/te-IN/academy/skills/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="pt-BR"
+      href="https://openai.com/pt-BR/academy/skills/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ja-JP"
+      href="https://openai.com/ja-JP/academy/skills/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ko-KR"
+      href="https://openai.com/ko-KR/academy/skills/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ar"
+      href="https://openai.com/ar/academy/skills/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="de-DE"
+      href="https://openai.com/de-DE/academy/skills/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="it-IT"
+      href="https://openai.com/it-IT/academy/skills/"
     />
   </url>
   <url>
@@ -1499,33 +1499,8 @@
     <lastmod>2026-05-22T19:10:40.639Z</lastmod>
     <xhtml:link
       rel="alternate"
-      hreflang="hi-IN"
-      href="https://openai.com/hi-IN/academy/brainstorming/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ja-JP"
-      href="https://openai.com/ja-JP/academy/brainstorming/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ta-IN"
-      href="https://openai.com/ta-IN/academy/brainstorming/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ml-IN"
-      href="https://openai.com/ml-IN/academy/brainstorming/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="pt-BR"
-      href="https://openai.com/pt-BR/academy/brainstorming/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="kn-IN"
-      href="https://openai.com/kn-IN/academy/brainstorming/"
+      hreflang="fr-FR"
+      href="https://openai.com/fr-FR/academy/brainstorming/"
     />
     <xhtml:link
       rel="alternate"
@@ -1534,38 +1509,13 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="te-IN"
-      href="https://openai.com/te-IN/academy/brainstorming/"
+      hreflang="kn-IN"
+      href="https://openai.com/kn-IN/academy/brainstorming/"
     />
     <xhtml:link
       rel="alternate"
-      hreflang="it-IT"
-      href="https://openai.com/it-IT/academy/brainstorming/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="fr-FR"
-      href="https://openai.com/fr-FR/academy/brainstorming/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ko-KR"
-      href="https://openai.com/ko-KR/academy/brainstorming/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ar"
-      href="https://openai.com/ar/academy/brainstorming/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="es-419"
-      href="https://openai.com/es-419/academy/brainstorming/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="es-ES"
-      href="https://openai.com/es-ES/academy/brainstorming/"
+      hreflang="ja-JP"
+      href="https://openai.com/ja-JP/academy/brainstorming/"
     />
     <xhtml:link
       rel="alternate"
@@ -1579,13 +1529,63 @@
     />
     <xhtml:link
       rel="alternate"
+      hreflang="es-419"
+      href="https://openai.com/es-419/academy/brainstorming/"
+    />
+    <xhtml:link
+      rel="alternate"
       hreflang="ur-IN"
       href="https://openai.com/ur-IN/academy/brainstorming/"
     />
     <xhtml:link
       rel="alternate"
+      hreflang="pt-BR"
+      href="https://openai.com/pt-BR/academy/brainstorming/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ml-IN"
+      href="https://openai.com/ml-IN/academy/brainstorming/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ta-IN"
+      href="https://openai.com/ta-IN/academy/brainstorming/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="hi-IN"
+      href="https://openai.com/hi-IN/academy/brainstorming/"
+    />
+    <xhtml:link
+      rel="alternate"
       hreflang="fr-CA"
       href="https://openai.com/fr-CA/academy/brainstorming/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ko-KR"
+      href="https://openai.com/ko-KR/academy/brainstorming/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es-ES"
+      href="https://openai.com/es-ES/academy/brainstorming/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="it-IT"
+      href="https://openai.com/it-IT/academy/brainstorming/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="te-IN"
+      href="https://openai.com/te-IN/academy/brainstorming/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ar"
+      href="https://openai.com/ar/academy/brainstorming/"
     />
   </url>
   <url>
@@ -1593,38 +1593,8 @@
     <lastmod>2026-05-22T19:10:38.792Z</lastmod>
     <xhtml:link
       rel="alternate"
-      hreflang="es-419"
-      href="https://openai.com/es-419/academy/what-is-ai/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ar"
-      href="https://openai.com/ar/academy/what-is-ai/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="hi-IN"
-      href="https://openai.com/hi-IN/academy/what-is-ai/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ta-IN"
-      href="https://openai.com/ta-IN/academy/what-is-ai/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="fr-CA"
-      href="https://openai.com/fr-CA/academy/what-is-ai/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="it-IT"
-      href="https://openai.com/it-IT/academy/what-is-ai/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="te-IN"
-      href="https://openai.com/te-IN/academy/what-is-ai/"
+      hreflang="es-ES"
+      href="https://openai.com/es-ES/academy/what-is-ai/"
     />
     <xhtml:link
       rel="alternate"
@@ -1633,23 +1603,13 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="pt-BR"
-      href="https://openai.com/pt-BR/academy/what-is-ai/"
+      hreflang="ja-JP"
+      href="https://openai.com/ja-JP/academy/what-is-ai/"
     />
     <xhtml:link
       rel="alternate"
-      hreflang="ur-IN"
-      href="https://openai.com/ur-IN/academy/what-is-ai/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="mr-IN"
-      href="https://openai.com/mr-IN/academy/what-is-ai/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ml-IN"
-      href="https://openai.com/ml-IN/academy/what-is-ai/"
+      hreflang="it-IT"
+      href="https://openai.com/it-IT/academy/what-is-ai/"
     />
     <xhtml:link
       rel="alternate"
@@ -1658,18 +1618,43 @@
     />
     <xhtml:link
       rel="alternate"
+      hreflang="ur-IN"
+      href="https://openai.com/ur-IN/academy/what-is-ai/"
+    />
+    <xhtml:link
+      rel="alternate"
       hreflang="kn-IN"
       href="https://openai.com/kn-IN/academy/what-is-ai/"
     />
     <xhtml:link
       rel="alternate"
-      hreflang="es-ES"
-      href="https://openai.com/es-ES/academy/what-is-ai/"
+      hreflang="ml-IN"
+      href="https://openai.com/ml-IN/academy/what-is-ai/"
     />
     <xhtml:link
       rel="alternate"
-      hreflang="nb-NO"
-      href="https://openai.com/nb-NO/academy/what-is-ai/"
+      hreflang="mr-IN"
+      href="https://openai.com/mr-IN/academy/what-is-ai/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ar"
+      href="https://openai.com/ar/academy/what-is-ai/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="pt-BR"
+      href="https://openai.com/pt-BR/academy/what-is-ai/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="hi-IN"
+      href="https://openai.com/hi-IN/academy/what-is-ai/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="te-IN"
+      href="https://openai.com/te-IN/academy/what-is-ai/"
     />
     <xhtml:link
       rel="alternate"
@@ -1678,8 +1663,23 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="ja-JP"
-      href="https://openai.com/ja-JP/academy/what-is-ai/"
+      hreflang="es-419"
+      href="https://openai.com/es-419/academy/what-is-ai/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr-CA"
+      href="https://openai.com/fr-CA/academy/what-is-ai/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ta-IN"
+      href="https://openai.com/ta-IN/academy/what-is-ai/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="nb-NO"
+      href="https://openai.com/nb-NO/academy/what-is-ai/"
     />
   </url>
   <url>
@@ -1687,28 +1687,18 @@
     <lastmod>2026-05-22T19:10:19.852Z</lastmod>
     <xhtml:link
       rel="alternate"
-      hreflang="mr-IN"
-      href="https://openai.com/mr-IN/academy/custom-gpts/"
+      hreflang="ur-IN"
+      href="https://openai.com/ur-IN/academy/custom-gpts/"
     />
     <xhtml:link
       rel="alternate"
-      hreflang="nb-NO"
-      href="https://openai.com/nb-NO/academy/custom-gpts/"
+      hreflang="es-419"
+      href="https://openai.com/es-419/academy/custom-gpts/"
     />
     <xhtml:link
       rel="alternate"
-      hreflang="it-IT"
-      href="https://openai.com/it-IT/academy/custom-gpts/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ar"
-      href="https://openai.com/ar/academy/custom-gpts/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ko-KR"
-      href="https://openai.com/ko-KR/academy/custom-gpts/"
+      hreflang="pt-BR"
+      href="https://openai.com/pt-BR/academy/custom-gpts/"
     />
     <xhtml:link
       rel="alternate"
@@ -1717,8 +1707,58 @@
     />
     <xhtml:link
       rel="alternate"
+      hreflang="ko-KR"
+      href="https://openai.com/ko-KR/academy/custom-gpts/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr-CA"
+      href="https://openai.com/fr-CA/academy/custom-gpts/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr-FR"
+      href="https://openai.com/fr-FR/academy/custom-gpts/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es-ES"
+      href="https://openai.com/es-ES/academy/custom-gpts/"
+    />
+    <xhtml:link
+      rel="alternate"
       hreflang="ml-IN"
       href="https://openai.com/ml-IN/academy/custom-gpts/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="mr-IN"
+      href="https://openai.com/mr-IN/academy/custom-gpts/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ar"
+      href="https://openai.com/ar/academy/custom-gpts/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ta-IN"
+      href="https://openai.com/ta-IN/academy/custom-gpts/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="nb-NO"
+      href="https://openai.com/nb-NO/academy/custom-gpts/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="hi-IN"
+      href="https://openai.com/hi-IN/academy/custom-gpts/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="it-IT"
+      href="https://openai.com/it-IT/academy/custom-gpts/"
     />
     <xhtml:link
       rel="alternate"
@@ -1732,48 +1772,8 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="ta-IN"
-      href="https://openai.com/ta-IN/academy/custom-gpts/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="hi-IN"
-      href="https://openai.com/hi-IN/academy/custom-gpts/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="fr-FR"
-      href="https://openai.com/fr-FR/academy/custom-gpts/"
-    />
-    <xhtml:link
-      rel="alternate"
       hreflang="kn-IN"
       href="https://openai.com/kn-IN/academy/custom-gpts/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ur-IN"
-      href="https://openai.com/ur-IN/academy/custom-gpts/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="es-419"
-      href="https://openai.com/es-419/academy/custom-gpts/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="fr-CA"
-      href="https://openai.com/fr-CA/academy/custom-gpts/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="pt-BR"
-      href="https://openai.com/pt-BR/academy/custom-gpts/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="es-ES"
-      href="https://openai.com/es-ES/academy/custom-gpts/"
     />
   </url>
   <url>
@@ -1781,13 +1781,23 @@
     <lastmod>2026-05-22T19:10:14.341Z</lastmod>
     <xhtml:link
       rel="alternate"
+      hreflang="te-IN"
+      href="https://openai.com/te-IN/academy/image-generation/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ko-KR"
+      href="https://openai.com/ko-KR/academy/image-generation/"
+    />
+    <xhtml:link
+      rel="alternate"
       hreflang="ta-IN"
       href="https://openai.com/ta-IN/academy/image-generation/"
     />
     <xhtml:link
       rel="alternate"
-      hreflang="ja-JP"
-      href="https://openai.com/ja-JP/academy/image-generation/"
+      hreflang="ml-IN"
+      href="https://openai.com/ml-IN/academy/image-generation/"
     />
     <xhtml:link
       rel="alternate"
@@ -1796,28 +1806,13 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="fr-CA"
-      href="https://openai.com/fr-CA/academy/image-generation/"
+      hreflang="fr-FR"
+      href="https://openai.com/fr-FR/academy/image-generation/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="nb-NO"
       href="https://openai.com/nb-NO/academy/image-generation/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="hi-IN"
-      href="https://openai.com/hi-IN/academy/image-generation/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ar"
-      href="https://openai.com/ar/academy/image-generation/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="kn-IN"
-      href="https://openai.com/kn-IN/academy/image-generation/"
     />
     <xhtml:link
       rel="alternate"
@@ -1831,13 +1826,8 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="te-IN"
-      href="https://openai.com/te-IN/academy/image-generation/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="fr-FR"
-      href="https://openai.com/fr-FR/academy/image-generation/"
+      hreflang="ur-IN"
+      href="https://openai.com/ur-IN/academy/image-generation/"
     />
     <xhtml:link
       rel="alternate"
@@ -1846,28 +1836,38 @@
     />
     <xhtml:link
       rel="alternate"
+      hreflang="fr-CA"
+      href="https://openai.com/fr-CA/academy/image-generation/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ja-JP"
+      href="https://openai.com/ja-JP/academy/image-generation/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="kn-IN"
+      href="https://openai.com/kn-IN/academy/image-generation/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="hi-IN"
+      href="https://openai.com/hi-IN/academy/image-generation/"
+    />
+    <xhtml:link
+      rel="alternate"
       hreflang="es-ES"
       href="https://openai.com/es-ES/academy/image-generation/"
     />
     <xhtml:link
       rel="alternate"
-      hreflang="ko-KR"
-      href="https://openai.com/ko-KR/academy/image-generation/"
+      hreflang="ar"
+      href="https://openai.com/ar/academy/image-generation/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="es-419"
       href="https://openai.com/es-419/academy/image-generation/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ur-IN"
-      href="https://openai.com/ur-IN/academy/image-generation/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ml-IN"
-      href="https://openai.com/ml-IN/academy/image-generation/"
     />
   </url>
   <url>
@@ -1875,18 +1875,13 @@
     <lastmod>2026-05-22T19:10:13.748Z</lastmod>
     <xhtml:link
       rel="alternate"
-      hreflang="ar"
-      href="https://openai.com/ar/academy/managers/"
+      hreflang="es-ES"
+      href="https://openai.com/es-ES/academy/managers/"
     />
     <xhtml:link
       rel="alternate"
-      hreflang="ta-IN"
-      href="https://openai.com/ta-IN/academy/managers/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ur-IN"
-      href="https://openai.com/ur-IN/academy/managers/"
+      hreflang="fr-FR"
+      href="https://openai.com/fr-FR/academy/managers/"
     />
     <xhtml:link
       rel="alternate"
@@ -1895,23 +1890,13 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="hi-IN"
-      href="https://openai.com/hi-IN/academy/managers/"
+      hreflang="fr-CA"
+      href="https://openai.com/fr-CA/academy/managers/"
     />
     <xhtml:link
       rel="alternate"
-      hreflang="de-DE"
-      href="https://openai.com/de-DE/academy/managers/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ml-IN"
-      href="https://openai.com/ml-IN/academy/managers/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="es-ES"
-      href="https://openai.com/es-ES/academy/managers/"
+      hreflang="nb-NO"
+      href="https://openai.com/nb-NO/academy/managers/"
     />
     <xhtml:link
       rel="alternate"
@@ -1925,23 +1910,13 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="mr-IN"
-      href="https://openai.com/mr-IN/academy/managers/"
+      hreflang="ko-KR"
+      href="https://openai.com/ko-KR/academy/managers/"
     />
     <xhtml:link
       rel="alternate"
-      hreflang="it-IT"
-      href="https://openai.com/it-IT/academy/managers/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="fr-CA"
-      href="https://openai.com/fr-CA/academy/managers/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="fr-FR"
-      href="https://openai.com/fr-FR/academy/managers/"
+      hreflang="ar"
+      href="https://openai.com/ar/academy/managers/"
     />
     <xhtml:link
       rel="alternate"
@@ -1950,18 +1925,43 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="ko-KR"
-      href="https://openai.com/ko-KR/academy/managers/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="nb-NO"
-      href="https://openai.com/nb-NO/academy/managers/"
+      hreflang="hi-IN"
+      href="https://openai.com/hi-IN/academy/managers/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="te-IN"
       href="https://openai.com/te-IN/academy/managers/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="de-DE"
+      href="https://openai.com/de-DE/academy/managers/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="it-IT"
+      href="https://openai.com/it-IT/academy/managers/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ml-IN"
+      href="https://openai.com/ml-IN/academy/managers/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="mr-IN"
+      href="https://openai.com/mr-IN/academy/managers/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ta-IN"
+      href="https://openai.com/ta-IN/academy/managers/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ur-IN"
+      href="https://openai.com/ur-IN/academy/managers/"
     />
   </url>
   <url>
@@ -1969,18 +1969,18 @@
     <lastmod>2026-05-22T19:10:05.677Z</lastmod>
     <xhtml:link
       rel="alternate"
+      hreflang="ta-IN"
+      href="https://openai.com/ta-IN/academy/responsible-and-safe-use/"
+    />
+    <xhtml:link
+      rel="alternate"
       hreflang="hi-IN"
       href="https://openai.com/hi-IN/academy/responsible-and-safe-use/"
     />
     <xhtml:link
       rel="alternate"
-      hreflang="te-IN"
-      href="https://openai.com/te-IN/academy/responsible-and-safe-use/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ml-IN"
-      href="https://openai.com/ml-IN/academy/responsible-and-safe-use/"
+      hreflang="ar"
+      href="https://openai.com/ar/academy/responsible-and-safe-use/"
     />
     <xhtml:link
       rel="alternate"
@@ -1989,28 +1989,8 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="ta-IN"
-      href="https://openai.com/ta-IN/academy/responsible-and-safe-use/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ko-KR"
-      href="https://openai.com/ko-KR/academy/responsible-and-safe-use/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="fr-FR"
-      href="https://openai.com/fr-FR/academy/responsible-and-safe-use/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="it-IT"
-      href="https://openai.com/it-IT/academy/responsible-and-safe-use/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="kn-IN"
-      href="https://openai.com/kn-IN/academy/responsible-and-safe-use/"
+      hreflang="ml-IN"
+      href="https://openai.com/ml-IN/academy/responsible-and-safe-use/"
     />
     <xhtml:link
       rel="alternate"
@@ -2019,8 +1999,8 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="fr-CA"
-      href="https://openai.com/fr-CA/academy/responsible-and-safe-use/"
+      hreflang="ko-KR"
+      href="https://openai.com/ko-KR/academy/responsible-and-safe-use/"
     />
     <xhtml:link
       rel="alternate"
@@ -2029,13 +2009,13 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="mr-IN"
-      href="https://openai.com/mr-IN/academy/responsible-and-safe-use/"
+      hreflang="kn-IN"
+      href="https://openai.com/kn-IN/academy/responsible-and-safe-use/"
     />
     <xhtml:link
       rel="alternate"
-      hreflang="ur-IN"
-      href="https://openai.com/ur-IN/academy/responsible-and-safe-use/"
+      hreflang="mr-IN"
+      href="https://openai.com/mr-IN/academy/responsible-and-safe-use/"
     />
     <xhtml:link
       rel="alternate"
@@ -2049,13 +2029,33 @@
     />
     <xhtml:link
       rel="alternate"
+      hreflang="te-IN"
+      href="https://openai.com/te-IN/academy/responsible-and-safe-use/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr-FR"
+      href="https://openai.com/fr-FR/academy/responsible-and-safe-use/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr-CA"
+      href="https://openai.com/fr-CA/academy/responsible-and-safe-use/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ur-IN"
+      href="https://openai.com/ur-IN/academy/responsible-and-safe-use/"
+    />
+    <xhtml:link
+      rel="alternate"
       hreflang="es-419"
       href="https://openai.com/es-419/academy/responsible-and-safe-use/"
     />
     <xhtml:link
       rel="alternate"
-      hreflang="ar"
-      href="https://openai.com/ar/academy/responsible-and-safe-use/"
+      hreflang="it-IT"
+      href="https://openai.com/it-IT/academy/responsible-and-safe-use/"
     />
   </url>
   <url>
@@ -2063,13 +2063,13 @@
     <lastmod>2026-05-22T19:10:05.138Z</lastmod>
     <xhtml:link
       rel="alternate"
-      hreflang="hi-IN"
-      href="https://openai.com/hi-IN/academy/healthcare/"
+      hreflang="kn-IN"
+      href="https://openai.com/kn-IN/academy/healthcare/"
     />
     <xhtml:link
       rel="alternate"
-      hreflang="kn-IN"
-      href="https://openai.com/kn-IN/academy/healthcare/"
+      hreflang="ur-IN"
+      href="https://openai.com/ur-IN/academy/healthcare/"
     />
     <xhtml:link
       rel="alternate"
@@ -2083,8 +2083,13 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="es-ES"
-      href="https://openai.com/es-ES/academy/healthcare/"
+      hreflang="es-419"
+      href="https://openai.com/es-419/academy/healthcare/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr-CA"
+      href="https://openai.com/fr-CA/academy/healthcare/"
     />
     <xhtml:link
       rel="alternate"
@@ -2093,28 +2098,8 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="de-DE"
-      href="https://openai.com/de-DE/academy/healthcare/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ja-JP"
-      href="https://openai.com/ja-JP/academy/healthcare/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ar"
-      href="https://openai.com/ar/academy/healthcare/"
-    />
-    <xhtml:link
-      rel="alternate"
       hreflang="mr-IN"
       href="https://openai.com/mr-IN/academy/healthcare/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ml-IN"
-      href="https://openai.com/ml-IN/academy/healthcare/"
     />
     <xhtml:link
       rel="alternate"
@@ -2123,8 +2108,38 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="fr-CA"
-      href="https://openai.com/fr-CA/academy/healthcare/"
+      hreflang="hi-IN"
+      href="https://openai.com/hi-IN/academy/healthcare/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es-ES"
+      href="https://openai.com/es-ES/academy/healthcare/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr-FR"
+      href="https://openai.com/fr-FR/academy/healthcare/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ja-JP"
+      href="https://openai.com/ja-JP/academy/healthcare/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="de-DE"
+      href="https://openai.com/de-DE/academy/healthcare/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ml-IN"
+      href="https://openai.com/ml-IN/academy/healthcare/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ar"
+      href="https://openai.com/ar/academy/healthcare/"
     />
     <xhtml:link
       rel="alternate"
@@ -2136,90 +2151,10 @@
       hreflang="ko-KR"
       href="https://openai.com/ko-KR/academy/healthcare/"
     />
-    <xhtml:link
-      rel="alternate"
-      hreflang="es-419"
-      href="https://openai.com/es-419/academy/healthcare/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="fr-FR"
-      href="https://openai.com/fr-FR/academy/healthcare/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ur-IN"
-      href="https://openai.com/ur-IN/academy/healthcare/"
-    />
   </url>
   <url>
     <loc>https://openai.com/academy/getting-started/</loc>
     <lastmod>2026-05-22T19:10:04.785Z</lastmod>
-    <xhtml:link
-      rel="alternate"
-      hreflang="fr-FR"
-      href="https://openai.com/fr-FR/academy/getting-started/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ur-IN"
-      href="https://openai.com/ur-IN/academy/getting-started/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ja-JP"
-      href="https://openai.com/ja-JP/academy/getting-started/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="kn-IN"
-      href="https://openai.com/kn-IN/academy/getting-started/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ta-IN"
-      href="https://openai.com/ta-IN/academy/getting-started/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="fr-CA"
-      href="https://openai.com/fr-CA/academy/getting-started/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="es-419"
-      href="https://openai.com/es-419/academy/getting-started/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="it-IT"
-      href="https://openai.com/it-IT/academy/getting-started/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ml-IN"
-      href="https://openai.com/ml-IN/academy/getting-started/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ko-KR"
-      href="https://openai.com/ko-KR/academy/getting-started/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="te-IN"
-      href="https://openai.com/te-IN/academy/getting-started/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="hi-IN"
-      href="https://openai.com/hi-IN/academy/getting-started/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="de-DE"
-      href="https://openai.com/de-DE/academy/getting-started/"
-    />
     <xhtml:link
       rel="alternate"
       hreflang="pt-BR"
@@ -2232,8 +2167,23 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="ar"
-      href="https://openai.com/ar/academy/getting-started/"
+      hreflang="es-419"
+      href="https://openai.com/es-419/academy/getting-started/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr-CA"
+      href="https://openai.com/fr-CA/academy/getting-started/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="de-DE"
+      href="https://openai.com/de-DE/academy/getting-started/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="nb-NO"
+      href="https://openai.com/nb-NO/academy/getting-started/"
     />
     <xhtml:link
       rel="alternate"
@@ -2242,8 +2192,58 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="nb-NO"
-      href="https://openai.com/nb-NO/academy/getting-started/"
+      hreflang="hi-IN"
+      href="https://openai.com/hi-IN/academy/getting-started/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ta-IN"
+      href="https://openai.com/ta-IN/academy/getting-started/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr-FR"
+      href="https://openai.com/fr-FR/academy/getting-started/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ko-KR"
+      href="https://openai.com/ko-KR/academy/getting-started/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="kn-IN"
+      href="https://openai.com/kn-IN/academy/getting-started/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="it-IT"
+      href="https://openai.com/it-IT/academy/getting-started/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ar"
+      href="https://openai.com/ar/academy/getting-started/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ja-JP"
+      href="https://openai.com/ja-JP/academy/getting-started/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ml-IN"
+      href="https://openai.com/ml-IN/academy/getting-started/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ur-IN"
+      href="https://openai.com/ur-IN/academy/getting-started/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="te-IN"
+      href="https://openai.com/te-IN/academy/getting-started/"
     />
   </url>
   <url>
@@ -2251,43 +2251,8 @@
     <lastmod>2026-05-22T19:10:04.588Z</lastmod>
     <xhtml:link
       rel="alternate"
-      hreflang="ta-IN"
-      href="https://openai.com/ta-IN/academy/working-with-files/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ja-JP"
-      href="https://openai.com/ja-JP/academy/working-with-files/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="pt-BR"
-      href="https://openai.com/pt-BR/academy/working-with-files/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="kn-IN"
-      href="https://openai.com/kn-IN/academy/working-with-files/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="it-IT"
-      href="https://openai.com/it-IT/academy/working-with-files/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="fr-CA"
-      href="https://openai.com/fr-CA/academy/working-with-files/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ml-IN"
-      href="https://openai.com/ml-IN/academy/working-with-files/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ar"
-      href="https://openai.com/ar/academy/working-with-files/"
+      hreflang="de-DE"
+      href="https://openai.com/de-DE/academy/working-with-files/"
     />
     <xhtml:link
       rel="alternate"
@@ -2296,8 +2261,8 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="fr-FR"
-      href="https://openai.com/fr-FR/academy/working-with-files/"
+      hreflang="mr-IN"
+      href="https://openai.com/mr-IN/academy/working-with-files/"
     />
     <xhtml:link
       rel="alternate"
@@ -2306,18 +2271,13 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="de-DE"
-      href="https://openai.com/de-DE/academy/working-with-files/"
+      hreflang="es-ES"
+      href="https://openai.com/es-ES/academy/working-with-files/"
     />
     <xhtml:link
       rel="alternate"
-      hreflang="nb-NO"
-      href="https://openai.com/nb-NO/academy/working-with-files/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="es-419"
-      href="https://openai.com/es-419/academy/working-with-files/"
+      hreflang="ta-IN"
+      href="https://openai.com/ta-IN/academy/working-with-files/"
     />
     <xhtml:link
       rel="alternate"
@@ -2326,18 +2286,58 @@
     />
     <xhtml:link
       rel="alternate"
+      hreflang="es-419"
+      href="https://openai.com/es-419/academy/working-with-files/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ml-IN"
+      href="https://openai.com/ml-IN/academy/working-with-files/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ja-JP"
+      href="https://openai.com/ja-JP/academy/working-with-files/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="nb-NO"
+      href="https://openai.com/nb-NO/academy/working-with-files/"
+    />
+    <xhtml:link
+      rel="alternate"
       hreflang="ko-KR"
       href="https://openai.com/ko-KR/academy/working-with-files/"
     />
     <xhtml:link
       rel="alternate"
-      hreflang="es-ES"
-      href="https://openai.com/es-ES/academy/working-with-files/"
+      hreflang="kn-IN"
+      href="https://openai.com/kn-IN/academy/working-with-files/"
     />
     <xhtml:link
       rel="alternate"
-      hreflang="mr-IN"
-      href="https://openai.com/mr-IN/academy/working-with-files/"
+      hreflang="ar"
+      href="https://openai.com/ar/academy/working-with-files/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="pt-BR"
+      href="https://openai.com/pt-BR/academy/working-with-files/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr-FR"
+      href="https://openai.com/fr-FR/academy/working-with-files/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr-CA"
+      href="https://openai.com/fr-CA/academy/working-with-files/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="it-IT"
+      href="https://openai.com/it-IT/academy/working-with-files/"
     />
   </url>
   <url>
@@ -2345,13 +2345,13 @@
     <lastmod>2026-05-22T19:10:03.672Z</lastmod>
     <xhtml:link
       rel="alternate"
-      hreflang="nb-NO"
-      href="https://openai.com/nb-NO/academy/applications-of-ai/"
+      hreflang="ar"
+      href="https://openai.com/ar/academy/applications-of-ai/"
     />
     <xhtml:link
       rel="alternate"
-      hreflang="kn-IN"
-      href="https://openai.com/kn-IN/academy/applications-of-ai/"
+      hreflang="ja-JP"
+      href="https://openai.com/ja-JP/academy/applications-of-ai/"
     />
     <xhtml:link
       rel="alternate"
@@ -2360,23 +2360,13 @@
     />
     <xhtml:link
       rel="alternate"
+      hreflang="ur-IN"
+      href="https://openai.com/ur-IN/academy/applications-of-ai/"
+    />
+    <xhtml:link
+      rel="alternate"
       hreflang="ko-KR"
       href="https://openai.com/ko-KR/academy/applications-of-ai/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="pt-BR"
-      href="https://openai.com/pt-BR/academy/applications-of-ai/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="it-IT"
-      href="https://openai.com/it-IT/academy/applications-of-ai/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ar"
-      href="https://openai.com/ar/academy/applications-of-ai/"
     />
     <xhtml:link
       rel="alternate"
@@ -2390,38 +2380,13 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="de-DE"
-      href="https://openai.com/de-DE/academy/applications-of-ai/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="mr-IN"
-      href="https://openai.com/mr-IN/academy/applications-of-ai/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="hi-IN"
-      href="https://openai.com/hi-IN/academy/applications-of-ai/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ur-IN"
-      href="https://openai.com/ur-IN/academy/applications-of-ai/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="es-419"
-      href="https://openai.com/es-419/academy/applications-of-ai/"
-    />
-    <xhtml:link
-      rel="alternate"
       hreflang="ta-IN"
       href="https://openai.com/ta-IN/academy/applications-of-ai/"
     />
     <xhtml:link
       rel="alternate"
-      hreflang="fr-CA"
-      href="https://openai.com/fr-CA/academy/applications-of-ai/"
+      hreflang="kn-IN"
+      href="https://openai.com/kn-IN/academy/applications-of-ai/"
     />
     <xhtml:link
       rel="alternate"
@@ -2430,8 +2395,43 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="ja-JP"
-      href="https://openai.com/ja-JP/academy/applications-of-ai/"
+      hreflang="it-IT"
+      href="https://openai.com/it-IT/academy/applications-of-ai/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="mr-IN"
+      href="https://openai.com/mr-IN/academy/applications-of-ai/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es-419"
+      href="https://openai.com/es-419/academy/applications-of-ai/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="de-DE"
+      href="https://openai.com/de-DE/academy/applications-of-ai/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="pt-BR"
+      href="https://openai.com/pt-BR/academy/applications-of-ai/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="hi-IN"
+      href="https://openai.com/hi-IN/academy/applications-of-ai/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr-CA"
+      href="https://openai.com/fr-CA/academy/applications-of-ai/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="nb-NO"
+      href="https://openai.com/nb-NO/academy/applications-of-ai/"
     />
   </url>
   <url>
@@ -2439,23 +2439,8 @@
     <lastmod>2026-05-22T19:10:03.452Z</lastmod>
     <xhtml:link
       rel="alternate"
-      hreflang="fr-CA"
-      href="https://openai.com/fr-CA/academy/personalization/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ar"
-      href="https://openai.com/ar/academy/personalization/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="nb-NO"
-      href="https://openai.com/nb-NO/academy/personalization/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="mr-IN"
-      href="https://openai.com/mr-IN/academy/personalization/"
+      hreflang="kn-IN"
+      href="https://openai.com/kn-IN/academy/personalization/"
     />
     <xhtml:link
       rel="alternate"
@@ -2464,28 +2449,13 @@
     />
     <xhtml:link
       rel="alternate"
+      hreflang="es-419"
+      href="https://openai.com/es-419/academy/personalization/"
+    />
+    <xhtml:link
+      rel="alternate"
       hreflang="ml-IN"
       href="https://openai.com/ml-IN/academy/personalization/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ur-IN"
-      href="https://openai.com/ur-IN/academy/personalization/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ja-JP"
-      href="https://openai.com/ja-JP/academy/personalization/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="kn-IN"
-      href="https://openai.com/kn-IN/academy/personalization/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="hi-IN"
-      href="https://openai.com/hi-IN/academy/personalization/"
     />
     <xhtml:link
       rel="alternate"
@@ -2494,13 +2464,28 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="es-ES"
-      href="https://openai.com/es-ES/academy/personalization/"
+      hreflang="ja-JP"
+      href="https://openai.com/ja-JP/academy/personalization/"
     />
     <xhtml:link
       rel="alternate"
-      hreflang="de-DE"
-      href="https://openai.com/de-DE/academy/personalization/"
+      hreflang="fr-CA"
+      href="https://openai.com/fr-CA/academy/personalization/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="hi-IN"
+      href="https://openai.com/hi-IN/academy/personalization/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ur-IN"
+      href="https://openai.com/ur-IN/academy/personalization/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es-ES"
+      href="https://openai.com/es-ES/academy/personalization/"
     />
     <xhtml:link
       rel="alternate"
@@ -2509,8 +2494,13 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="es-419"
-      href="https://openai.com/es-419/academy/personalization/"
+      hreflang="pt-BR"
+      href="https://openai.com/pt-BR/academy/personalization/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="mr-IN"
+      href="https://openai.com/mr-IN/academy/personalization/"
     />
     <xhtml:link
       rel="alternate"
@@ -2519,13 +2509,23 @@
     />
     <xhtml:link
       rel="alternate"
+      hreflang="nb-NO"
+      href="https://openai.com/nb-NO/academy/personalization/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="de-DE"
+      href="https://openai.com/de-DE/academy/personalization/"
+    />
+    <xhtml:link
+      rel="alternate"
       hreflang="it-IT"
       href="https://openai.com/it-IT/academy/personalization/"
     />
     <xhtml:link
       rel="alternate"
-      hreflang="pt-BR"
-      href="https://openai.com/pt-BR/academy/personalization/"
+      hreflang="ar"
+      href="https://openai.com/ar/academy/personalization/"
     />
   </url>
   <url>
@@ -2533,43 +2533,18 @@
     <lastmod>2026-05-22T19:09:57.431Z</lastmod>
     <xhtml:link
       rel="alternate"
-      hreflang="ko-KR"
-      href="https://openai.com/ko-KR/academy/marketing/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ur-IN"
-      href="https://openai.com/ur-IN/academy/marketing/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ml-IN"
-      href="https://openai.com/ml-IN/academy/marketing/"
-    />
-    <xhtml:link
-      rel="alternate"
       hreflang="de-DE"
       href="https://openai.com/de-DE/academy/marketing/"
     />
     <xhtml:link
       rel="alternate"
-      hreflang="hi-IN"
-      href="https://openai.com/hi-IN/academy/marketing/"
+      hreflang="ja-JP"
+      href="https://openai.com/ja-JP/academy/marketing/"
     />
     <xhtml:link
       rel="alternate"
-      hreflang="ar"
-      href="https://openai.com/ar/academy/marketing/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="it-IT"
-      href="https://openai.com/it-IT/academy/marketing/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="mr-IN"
-      href="https://openai.com/mr-IN/academy/marketing/"
+      hreflang="es-ES"
+      href="https://openai.com/es-ES/academy/marketing/"
     />
     <xhtml:link
       rel="alternate"
@@ -2578,8 +2553,23 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="fr-FR"
-      href="https://openai.com/fr-FR/academy/marketing/"
+      hreflang="fr-CA"
+      href="https://openai.com/fr-CA/academy/marketing/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ml-IN"
+      href="https://openai.com/ml-IN/academy/marketing/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="kn-IN"
+      href="https://openai.com/kn-IN/academy/marketing/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="hi-IN"
+      href="https://openai.com/hi-IN/academy/marketing/"
     />
     <xhtml:link
       rel="alternate"
@@ -2593,28 +2583,38 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="kn-IN"
-      href="https://openai.com/kn-IN/academy/marketing/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="fr-CA"
-      href="https://openai.com/fr-CA/academy/marketing/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="es-ES"
-      href="https://openai.com/es-ES/academy/marketing/"
-    />
-    <xhtml:link
-      rel="alternate"
       hreflang="ta-IN"
       href="https://openai.com/ta-IN/academy/marketing/"
     />
     <xhtml:link
       rel="alternate"
-      hreflang="ja-JP"
-      href="https://openai.com/ja-JP/academy/marketing/"
+      hreflang="ko-KR"
+      href="https://openai.com/ko-KR/academy/marketing/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr-FR"
+      href="https://openai.com/fr-FR/academy/marketing/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="mr-IN"
+      href="https://openai.com/mr-IN/academy/marketing/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ur-IN"
+      href="https://openai.com/ur-IN/academy/marketing/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ar"
+      href="https://openai.com/ar/academy/marketing/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="it-IT"
+      href="https://openai.com/it-IT/academy/marketing/"
     />
     <xhtml:link
       rel="alternate"
@@ -2627,38 +2627,13 @@
     <lastmod>2026-05-22T19:09:54.706Z</lastmod>
     <xhtml:link
       rel="alternate"
-      hreflang="te-IN"
-      href="https://openai.com/te-IN/academy/operations/"
-    />
-    <xhtml:link
-      rel="alternate"
       hreflang="kn-IN"
       href="https://openai.com/kn-IN/academy/operations/"
     />
     <xhtml:link
       rel="alternate"
-      hreflang="de-DE"
-      href="https://openai.com/de-DE/academy/operations/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="es-419"
-      href="https://openai.com/es-419/academy/operations/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="nb-NO"
-      href="https://openai.com/nb-NO/academy/operations/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="pt-BR"
-      href="https://openai.com/pt-BR/academy/operations/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="hi-IN"
-      href="https://openai.com/hi-IN/academy/operations/"
+      hreflang="fr-CA"
+      href="https://openai.com/fr-CA/academy/operations/"
     />
     <xhtml:link
       rel="alternate"
@@ -2667,38 +2642,8 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="ar"
-      href="https://openai.com/ar/academy/operations/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="fr-FR"
-      href="https://openai.com/fr-FR/academy/operations/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ko-KR"
-      href="https://openai.com/ko-KR/academy/operations/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ja-JP"
-      href="https://openai.com/ja-JP/academy/operations/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="mr-IN"
-      href="https://openai.com/mr-IN/academy/operations/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="es-ES"
-      href="https://openai.com/es-ES/academy/operations/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="it-IT"
-      href="https://openai.com/it-IT/academy/operations/"
+      hreflang="ta-IN"
+      href="https://openai.com/ta-IN/academy/operations/"
     />
     <xhtml:link
       rel="alternate"
@@ -2707,13 +2652,68 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="ta-IN"
-      href="https://openai.com/ta-IN/academy/operations/"
+      hreflang="ar"
+      href="https://openai.com/ar/academy/operations/"
     />
     <xhtml:link
       rel="alternate"
-      hreflang="fr-CA"
-      href="https://openai.com/fr-CA/academy/operations/"
+      hreflang="pt-BR"
+      href="https://openai.com/pt-BR/academy/operations/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="it-IT"
+      href="https://openai.com/it-IT/academy/operations/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr-FR"
+      href="https://openai.com/fr-FR/academy/operations/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es-419"
+      href="https://openai.com/es-419/academy/operations/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ja-JP"
+      href="https://openai.com/ja-JP/academy/operations/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="de-DE"
+      href="https://openai.com/de-DE/academy/operations/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="mr-IN"
+      href="https://openai.com/mr-IN/academy/operations/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="hi-IN"
+      href="https://openai.com/hi-IN/academy/operations/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="te-IN"
+      href="https://openai.com/te-IN/academy/operations/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es-ES"
+      href="https://openai.com/es-ES/academy/operations/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ko-KR"
+      href="https://openai.com/ko-KR/academy/operations/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="nb-NO"
+      href="https://openai.com/nb-NO/academy/operations/"
     />
   </url>
   <url>
@@ -2721,23 +2721,48 @@
     <lastmod>2026-05-22T19:09:53.484Z</lastmod>
     <xhtml:link
       rel="alternate"
-      hreflang="fr-CA"
-      href="https://openai.com/fr-CA/academy/financial-services/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="nb-NO"
-      href="https://openai.com/nb-NO/academy/financial-services/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="te-IN"
-      href="https://openai.com/te-IN/academy/financial-services/"
+      hreflang="ja-JP"
+      href="https://openai.com/ja-JP/academy/financial-services/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ur-IN"
       href="https://openai.com/ur-IN/academy/financial-services/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ta-IN"
+      href="https://openai.com/ta-IN/academy/financial-services/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="it-IT"
+      href="https://openai.com/it-IT/academy/financial-services/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="de-DE"
+      href="https://openai.com/de-DE/academy/financial-services/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es-ES"
+      href="https://openai.com/es-ES/academy/financial-services/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="kn-IN"
+      href="https://openai.com/kn-IN/academy/financial-services/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="pt-BR"
+      href="https://openai.com/pt-BR/academy/financial-services/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ml-IN"
+      href="https://openai.com/ml-IN/academy/financial-services/"
     />
     <xhtml:link
       rel="alternate"
@@ -2751,53 +2776,8 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="ta-IN"
-      href="https://openai.com/ta-IN/academy/financial-services/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="de-DE"
-      href="https://openai.com/de-DE/academy/financial-services/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="kn-IN"
-      href="https://openai.com/kn-IN/academy/financial-services/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ja-JP"
-      href="https://openai.com/ja-JP/academy/financial-services/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="es-ES"
-      href="https://openai.com/es-ES/academy/financial-services/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="fr-FR"
-      href="https://openai.com/fr-FR/academy/financial-services/"
-    />
-    <xhtml:link
-      rel="alternate"
       hreflang="mr-IN"
       href="https://openai.com/mr-IN/academy/financial-services/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ml-IN"
-      href="https://openai.com/ml-IN/academy/financial-services/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="pt-BR"
-      href="https://openai.com/pt-BR/academy/financial-services/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="it-IT"
-      href="https://openai.com/it-IT/academy/financial-services/"
     />
     <xhtml:link
       rel="alternate"
@@ -2809,14 +2789,54 @@
       hreflang="ko-KR"
       href="https://openai.com/ko-KR/academy/financial-services/"
     />
+    <xhtml:link
+      rel="alternate"
+      hreflang="nb-NO"
+      href="https://openai.com/nb-NO/academy/financial-services/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr-FR"
+      href="https://openai.com/fr-FR/academy/financial-services/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr-CA"
+      href="https://openai.com/fr-CA/academy/financial-services/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="te-IN"
+      href="https://openai.com/te-IN/academy/financial-services/"
+    />
   </url>
   <url>
     <loc>https://openai.com/academy/finance/</loc>
     <lastmod>2026-05-22T19:09:52.333Z</lastmod>
     <xhtml:link
       rel="alternate"
-      hreflang="ja-JP"
-      href="https://openai.com/ja-JP/academy/finance/"
+      hreflang="ko-KR"
+      href="https://openai.com/ko-KR/academy/finance/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ml-IN"
+      href="https://openai.com/ml-IN/academy/finance/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="it-IT"
+      href="https://openai.com/it-IT/academy/finance/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="mr-IN"
+      href="https://openai.com/mr-IN/academy/finance/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="pt-BR"
+      href="https://openai.com/pt-BR/academy/finance/"
     />
     <xhtml:link
       rel="alternate"
@@ -2825,33 +2845,13 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="kn-IN"
-      href="https://openai.com/kn-IN/academy/finance/"
+      hreflang="ur-IN"
+      href="https://openai.com/ur-IN/academy/finance/"
     />
     <xhtml:link
       rel="alternate"
-      hreflang="ko-KR"
-      href="https://openai.com/ko-KR/academy/finance/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ta-IN"
-      href="https://openai.com/ta-IN/academy/finance/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="es-419"
-      href="https://openai.com/es-419/academy/finance/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="es-ES"
-      href="https://openai.com/es-ES/academy/finance/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="mr-IN"
-      href="https://openai.com/mr-IN/academy/finance/"
+      hreflang="ja-JP"
+      href="https://openai.com/ja-JP/academy/finance/"
     />
     <xhtml:link
       rel="alternate"
@@ -2865,33 +2865,8 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="pt-BR"
-      href="https://openai.com/pt-BR/academy/finance/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ur-IN"
-      href="https://openai.com/ur-IN/academy/finance/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="de-DE"
-      href="https://openai.com/de-DE/academy/finance/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="it-IT"
-      href="https://openai.com/it-IT/academy/finance/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ml-IN"
-      href="https://openai.com/ml-IN/academy/finance/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ar"
-      href="https://openai.com/ar/academy/finance/"
+      hreflang="ta-IN"
+      href="https://openai.com/ta-IN/academy/finance/"
     />
     <xhtml:link
       rel="alternate"
@@ -2900,8 +2875,33 @@
     />
     <xhtml:link
       rel="alternate"
+      hreflang="de-DE"
+      href="https://openai.com/de-DE/academy/finance/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="kn-IN"
+      href="https://openai.com/kn-IN/academy/finance/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ar"
+      href="https://openai.com/ar/academy/finance/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es-419"
+      href="https://openai.com/es-419/academy/finance/"
+    />
+    <xhtml:link
+      rel="alternate"
       hreflang="hi-IN"
       href="https://openai.com/hi-IN/academy/finance/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es-ES"
+      href="https://openai.com/es-ES/academy/finance/"
     />
   </url>
   <url>
@@ -2909,68 +2909,8 @@
     <lastmod>2026-05-22T19:09:49.448Z</lastmod>
     <xhtml:link
       rel="alternate"
-      hreflang="ja-JP"
-      href="https://openai.com/ja-JP/academy/customer-success/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="de-DE"
-      href="https://openai.com/de-DE/academy/customer-success/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="nb-NO"
-      href="https://openai.com/nb-NO/academy/customer-success/"
-    />
-    <xhtml:link
-      rel="alternate"
       hreflang="es-419"
       href="https://openai.com/es-419/academy/customer-success/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="te-IN"
-      href="https://openai.com/te-IN/academy/customer-success/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="hi-IN"
-      href="https://openai.com/hi-IN/academy/customer-success/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="fr-CA"
-      href="https://openai.com/fr-CA/academy/customer-success/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ko-KR"
-      href="https://openai.com/ko-KR/academy/customer-success/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="mr-IN"
-      href="https://openai.com/mr-IN/academy/customer-success/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="es-ES"
-      href="https://openai.com/es-ES/academy/customer-success/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ar"
-      href="https://openai.com/ar/academy/customer-success/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ml-IN"
-      href="https://openai.com/ml-IN/academy/customer-success/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ta-IN"
-      href="https://openai.com/ta-IN/academy/customer-success/"
     />
     <xhtml:link
       rel="alternate"
@@ -2984,8 +2924,28 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="fr-FR"
-      href="https://openai.com/fr-FR/academy/customer-success/"
+      hreflang="de-DE"
+      href="https://openai.com/de-DE/academy/customer-success/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es-ES"
+      href="https://openai.com/es-ES/academy/customer-success/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="mr-IN"
+      href="https://openai.com/mr-IN/academy/customer-success/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr-CA"
+      href="https://openai.com/fr-CA/academy/customer-success/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="kn-IN"
+      href="https://openai.com/kn-IN/academy/customer-success/"
     />
     <xhtml:link
       rel="alternate"
@@ -2994,8 +2954,48 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="kn-IN"
-      href="https://openai.com/kn-IN/academy/customer-success/"
+      hreflang="nb-NO"
+      href="https://openai.com/nb-NO/academy/customer-success/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ml-IN"
+      href="https://openai.com/ml-IN/academy/customer-success/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="te-IN"
+      href="https://openai.com/te-IN/academy/customer-success/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="hi-IN"
+      href="https://openai.com/hi-IN/academy/customer-success/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ko-KR"
+      href="https://openai.com/ko-KR/academy/customer-success/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ja-JP"
+      href="https://openai.com/ja-JP/academy/customer-success/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr-FR"
+      href="https://openai.com/fr-FR/academy/customer-success/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ar"
+      href="https://openai.com/ar/academy/customer-success/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ta-IN"
+      href="https://openai.com/ta-IN/academy/customer-success/"
     />
   </url>
   <url>
@@ -3003,8 +3003,23 @@
     <lastmod>2026-05-08T21:45:48.904Z</lastmod>
     <xhtml:link
       rel="alternate"
-      hreflang="ml-IN"
-      href="https://openai.com/ml-IN/academy/data-analysis/"
+      hreflang="ja-JP"
+      href="https://openai.com/ja-JP/academy/data-analysis/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ko-KR"
+      href="https://openai.com/ko-KR/academy/data-analysis/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="nb-NO"
+      href="https://openai.com/nb-NO/academy/data-analysis/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="de-DE"
+      href="https://openai.com/de-DE/academy/data-analysis/"
     />
     <xhtml:link
       rel="alternate"
@@ -3013,18 +3028,8 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="pt-BR"
-      href="https://openai.com/pt-BR/academy/data-analysis/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ja-JP"
-      href="https://openai.com/ja-JP/academy/data-analysis/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="es-ES"
-      href="https://openai.com/es-ES/academy/data-analysis/"
+      hreflang="fr-FR"
+      href="https://openai.com/fr-FR/academy/data-analysis/"
     />
     <xhtml:link
       rel="alternate"
@@ -3033,8 +3038,18 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="de-DE"
-      href="https://openai.com/de-DE/academy/data-analysis/"
+      hreflang="pt-BR"
+      href="https://openai.com/pt-BR/academy/data-analysis/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ta-IN"
+      href="https://openai.com/ta-IN/academy/data-analysis/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="mr-IN"
+      href="https://openai.com/mr-IN/academy/data-analysis/"
     />
     <xhtml:link
       rel="alternate"
@@ -3048,33 +3063,13 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="fr-CA"
-      href="https://openai.com/fr-CA/academy/data-analysis/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="mr-IN"
-      href="https://openai.com/mr-IN/academy/data-analysis/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="nb-NO"
-      href="https://openai.com/nb-NO/academy/data-analysis/"
-    />
-    <xhtml:link
-      rel="alternate"
       hreflang="es-419"
       href="https://openai.com/es-419/academy/data-analysis/"
     />
     <xhtml:link
       rel="alternate"
-      hreflang="ta-IN"
-      href="https://openai.com/ta-IN/academy/data-analysis/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="te-IN"
-      href="https://openai.com/te-IN/academy/data-analysis/"
+      hreflang="es-ES"
+      href="https://openai.com/es-ES/academy/data-analysis/"
     />
     <xhtml:link
       rel="alternate"
@@ -3083,13 +3078,18 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="fr-FR"
-      href="https://openai.com/fr-FR/academy/data-analysis/"
+      hreflang="fr-CA"
+      href="https://openai.com/fr-CA/academy/data-analysis/"
     />
     <xhtml:link
       rel="alternate"
-      hreflang="ko-KR"
-      href="https://openai.com/ko-KR/academy/data-analysis/"
+      hreflang="ml-IN"
+      href="https://openai.com/ml-IN/academy/data-analysis/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="te-IN"
+      href="https://openai.com/te-IN/academy/data-analysis/"
     />
   </url>
   <url>
@@ -3097,73 +3097,8 @@
     <lastmod>2026-05-06T14:54:20.616Z</lastmod>
     <xhtml:link
       rel="alternate"
-      hreflang="hi-IN"
-      href="https://openai.com/hi-IN/academy/projects/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="es-419"
-      href="https://openai.com/es-419/academy/projects/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ja-JP"
-      href="https://openai.com/ja-JP/academy/projects/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="mr-IN"
-      href="https://openai.com/mr-IN/academy/projects/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="pt-BR"
-      href="https://openai.com/pt-BR/academy/projects/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ml-IN"
-      href="https://openai.com/ml-IN/academy/projects/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="te-IN"
-      href="https://openai.com/te-IN/academy/projects/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ko-KR"
-      href="https://openai.com/ko-KR/academy/projects/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="it-IT"
-      href="https://openai.com/it-IT/academy/projects/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ar"
-      href="https://openai.com/ar/academy/projects/"
-    />
-    <xhtml:link
-      rel="alternate"
       hreflang="nb-NO"
       href="https://openai.com/nb-NO/academy/projects/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="fr-CA"
-      href="https://openai.com/fr-CA/academy/projects/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="de-DE"
-      href="https://openai.com/de-DE/academy/projects/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ta-IN"
-      href="https://openai.com/ta-IN/academy/projects/"
     />
     <xhtml:link
       rel="alternate"
@@ -3172,8 +3107,43 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="kn-IN"
-      href="https://openai.com/kn-IN/academy/projects/"
+      hreflang="de-DE"
+      href="https://openai.com/de-DE/academy/projects/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr-CA"
+      href="https://openai.com/fr-CA/academy/projects/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ar"
+      href="https://openai.com/ar/academy/projects/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="it-IT"
+      href="https://openai.com/it-IT/academy/projects/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ko-KR"
+      href="https://openai.com/ko-KR/academy/projects/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="pt-BR"
+      href="https://openai.com/pt-BR/academy/projects/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="hi-IN"
+      href="https://openai.com/hi-IN/academy/projects/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ja-JP"
+      href="https://openai.com/ja-JP/academy/projects/"
     />
     <xhtml:link
       rel="alternate"
@@ -3182,8 +3152,38 @@
     />
     <xhtml:link
       rel="alternate"
+      hreflang="ta-IN"
+      href="https://openai.com/ta-IN/academy/projects/"
+    />
+    <xhtml:link
+      rel="alternate"
       hreflang="ur-IN"
       href="https://openai.com/ur-IN/academy/projects/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="kn-IN"
+      href="https://openai.com/kn-IN/academy/projects/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="te-IN"
+      href="https://openai.com/te-IN/academy/projects/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="mr-IN"
+      href="https://openai.com/mr-IN/academy/projects/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es-419"
+      href="https://openai.com/es-419/academy/projects/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ml-IN"
+      href="https://openai.com/ml-IN/academy/projects/"
     />
   </url>
   <url>
@@ -3191,78 +3191,13 @@
     <lastmod>2026-05-06T14:54:13.532Z</lastmod>
     <xhtml:link
       rel="alternate"
-      hreflang="ko-KR"
-      href="https://openai.com/ko-KR/academy/search-and-deep-research/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="de-DE"
-      href="https://openai.com/de-DE/academy/search-and-deep-research/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ar"
-      href="https://openai.com/ar/academy/search-and-deep-research/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="es-ES"
-      href="https://openai.com/es-ES/academy/search-and-deep-research/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="kn-IN"
-      href="https://openai.com/kn-IN/academy/search-and-deep-research/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ja-JP"
-      href="https://openai.com/ja-JP/academy/search-and-deep-research/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ml-IN"
-      href="https://openai.com/ml-IN/academy/search-and-deep-research/"
-    />
-    <xhtml:link
-      rel="alternate"
       hreflang="pt-BR"
       href="https://openai.com/pt-BR/academy/search-and-deep-research/"
     />
     <xhtml:link
       rel="alternate"
-      hreflang="it-IT"
-      href="https://openai.com/it-IT/academy/search-and-deep-research/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="hi-IN"
-      href="https://openai.com/hi-IN/academy/search-and-deep-research/"
-    />
-    <xhtml:link
-      rel="alternate"
       hreflang="fr-FR"
       href="https://openai.com/fr-FR/academy/search-and-deep-research/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ta-IN"
-      href="https://openai.com/ta-IN/academy/search-and-deep-research/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="mr-IN"
-      href="https://openai.com/mr-IN/academy/search-and-deep-research/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="nb-NO"
-      href="https://openai.com/nb-NO/academy/search-and-deep-research/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ur-IN"
-      href="https://openai.com/ur-IN/academy/search-and-deep-research/"
     />
     <xhtml:link
       rel="alternate"
@@ -3278,6 +3213,71 @@
       rel="alternate"
       hreflang="te-IN"
       href="https://openai.com/te-IN/academy/search-and-deep-research/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ko-KR"
+      href="https://openai.com/ko-KR/academy/search-and-deep-research/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="it-IT"
+      href="https://openai.com/it-IT/academy/search-and-deep-research/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es-ES"
+      href="https://openai.com/es-ES/academy/search-and-deep-research/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="hi-IN"
+      href="https://openai.com/hi-IN/academy/search-and-deep-research/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ml-IN"
+      href="https://openai.com/ml-IN/academy/search-and-deep-research/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ur-IN"
+      href="https://openai.com/ur-IN/academy/search-and-deep-research/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ta-IN"
+      href="https://openai.com/ta-IN/academy/search-and-deep-research/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ar"
+      href="https://openai.com/ar/academy/search-and-deep-research/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="kn-IN"
+      href="https://openai.com/kn-IN/academy/search-and-deep-research/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="mr-IN"
+      href="https://openai.com/mr-IN/academy/search-and-deep-research/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ja-JP"
+      href="https://openai.com/ja-JP/academy/search-and-deep-research/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="de-DE"
+      href="https://openai.com/de-DE/academy/search-and-deep-research/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="nb-NO"
+      href="https://openai.com/nb-NO/academy/search-and-deep-research/"
     />
   </url>
 </urlset>

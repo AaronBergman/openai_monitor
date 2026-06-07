@@ -3,7 +3,7 @@
         xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://openai.com/stories/</loc>
-    <lastmod>2026-06-06T08:19:48.979Z</lastmod>
+    <lastmod>2026-06-06T18:45:47.401Z</lastmod>
     <xhtml:link
       rel="alternate"
       hreflang="ur-IN"
@@ -81,11 +81,6 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="hr-HR"
-      href="https://openai.com/hr-HR/stories/"
-    />
-    <xhtml:link
-      rel="alternate"
       hreflang="ms-BN"
       href="https://openai.com/ms-BN/stories/"
     />
@@ -123,6 +118,11 @@
       rel="alternate"
       hreflang="kk-Cyrl"
       href="https://openai.com/kk-Cyrl/stories/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="hr-HR"
+      href="https://openai.com/hr-HR/stories/"
     />
     <xhtml:link
       rel="alternate"
@@ -211,23 +211,23 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="pt-PT"
-      href="https://openai.com/pt-PT/stories/"
-    />
-    <xhtml:link
-      rel="alternate"
       hreflang="sq-AL"
       href="https://openai.com/sq-AL/stories/"
     />
     <xhtml:link
       rel="alternate"
-      hreflang="id-ID"
-      href="https://openai.com/id-ID/stories/"
+      hreflang="pt-PT"
+      href="https://openai.com/pt-PT/stories/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="jv-ID"
       href="https://openai.com/jv-ID/stories/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="id-ID"
+      href="https://openai.com/id-ID/stories/"
     />
     <xhtml:link
       rel="alternate"
@@ -246,13 +246,13 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="ru-RU"
-      href="https://openai.com/ru-RU/stories/"
+      hreflang="sk-SK"
+      href="https://openai.com/sk-SK/stories/"
     />
     <xhtml:link
       rel="alternate"
-      hreflang="sk-SK"
-      href="https://openai.com/sk-SK/stories/"
+      hreflang="ru-RU"
+      href="https://openai.com/ru-RU/stories/"
     />
     <xhtml:link
       rel="alternate"
@@ -352,7 +352,7 @@
   </url>
   <url>
     <loc>https://openai.com/stories/chatgpt/</loc>
-    <lastmod>2026-06-06T08:19:43.459Z</lastmod>
+    <lastmod>2026-06-06T18:45:38.022Z</lastmod>
     <xhtml:link
       rel="alternate"
       hreflang="bn-BD"
@@ -410,8 +410,8 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="zh-Hant"
-      href="https://openai.com/zh-Hant/stories/chatgpt/"
+      hreflang="ka-GE"
+      href="https://openai.com/ka-GE/stories/chatgpt/"
     />
     <xhtml:link
       rel="alternate"
@@ -460,18 +460,18 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="ka-GE"
-      href="https://openai.com/ka-GE/stories/chatgpt/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="hi-IN"
-      href="https://openai.com/hi-IN/stories/chatgpt/"
+      hreflang="zh-Hant"
+      href="https://openai.com/zh-Hant/stories/chatgpt/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="es-419"
       href="https://openai.com/es-419/stories/chatgpt/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="hi-IN"
+      href="https://openai.com/hi-IN/stories/chatgpt/"
     />
     <xhtml:link
       rel="alternate"
@@ -505,13 +505,13 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="fr-FR"
-      href="https://openai.com/fr-FR/stories/chatgpt/"
+      hreflang="da-DK"
+      href="https://openai.com/da-DK/stories/chatgpt/"
     />
     <xhtml:link
       rel="alternate"
-      hreflang="da-DK"
-      href="https://openai.com/da-DK/stories/chatgpt/"
+      hreflang="fr-FR"
+      href="https://openai.com/fr-FR/stories/chatgpt/"
     />
     <xhtml:link
       rel="alternate"
@@ -761,8 +761,8 @@
     <lastmod>2026-05-06T20:58:08.245Z</lastmod>
     <xhtml:link
       rel="alternate"
-      hreflang="fi-FI"
-      href="https://openai.com/fi-FI/index/building-openai-with-openai/"
+      hreflang="mr-IN"
+      href="https://openai.com/mr-IN/index/building-openai-with-openai/"
     />
     <xhtml:link
       rel="alternate"
@@ -791,13 +791,13 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="da-DK"
-      href="https://openai.com/da-DK/index/building-openai-with-openai/"
+      hreflang="nb-NO"
+      href="https://openai.com/nb-NO/index/building-openai-with-openai/"
     />
     <xhtml:link
       rel="alternate"
-      hreflang="nb-NO"
-      href="https://openai.com/nb-NO/index/building-openai-with-openai/"
+      hreflang="da-DK"
+      href="https://openai.com/da-DK/index/building-openai-with-openai/"
     />
     <xhtml:link
       rel="alternate"
@@ -831,8 +831,8 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="ta-IN"
-      href="https://openai.com/ta-IN/index/building-openai-with-openai/"
+      hreflang="pt-BR"
+      href="https://openai.com/pt-BR/index/building-openai-with-openai/"
     />
     <xhtml:link
       rel="alternate"
@@ -841,8 +841,8 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="pt-BR"
-      href="https://openai.com/pt-BR/index/building-openai-with-openai/"
+      hreflang="nl-NL"
+      href="https://openai.com/nl-NL/index/building-openai-with-openai/"
     />
     <xhtml:link
       rel="alternate"
@@ -851,8 +851,8 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="nl-NL"
-      href="https://openai.com/nl-NL/index/building-openai-with-openai/"
+      hreflang="zh-Hans-CN"
+      href="https://openai.com/zh-Hans-CN/index/building-openai-with-openai/"
     />
     <xhtml:link
       rel="alternate"
@@ -866,18 +866,18 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="zh-Hans-CN"
-      href="https://openai.com/zh-Hans-CN/index/building-openai-with-openai/"
-    />
-    <xhtml:link
-      rel="alternate"
       hreflang="sv-SE"
       href="https://openai.com/sv-SE/index/building-openai-with-openai/"
     />
     <xhtml:link
       rel="alternate"
-      hreflang="mr-IN"
-      href="https://openai.com/mr-IN/index/building-openai-with-openai/"
+      hreflang="ta-IN"
+      href="https://openai.com/ta-IN/index/building-openai-with-openai/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="tr-TR"
+      href="https://openai.com/tr-TR/index/building-openai-with-openai/"
     />
     <xhtml:link
       rel="alternate"
@@ -891,8 +891,8 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="tr-TR"
-      href="https://openai.com/tr-TR/index/building-openai-with-openai/"
+      hreflang="fi-FI"
+      href="https://openai.com/fi-FI/index/building-openai-with-openai/"
     />
   </url>
 </urlset>

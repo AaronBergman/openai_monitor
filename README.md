@@ -1,3 +1,33 @@
+## 2026-06-07 — Run `2026-06-07T09-15Z`
+
+**TL;DR:** No new or removed pages today — the sitemap URL count held steady at 1,331. A sitewide navigation template refresh touched ~357 pages (though only 68 got a sitemap lastmod bump, a consistent pattern for OpenAI template deploys). The most notable substantive change: a previously broken code example on the `chain-of-thought-monitoring` research page now renders correctly, revealing a Rust code snippet that illustrates how a verification function can be trivially bypassed — a key visual in OpenAI's research on reward hacking. The Codex Academy section (11 pages) received a batch refresh, and the editorial "Related Articles" spotlight rotated to feature biodefense and AI governance content.
+
+### Sitewide Navigation Template Refresh (~357 pages)
+
+The same template update propagated across most of the site:
+
+- **"Related Articles" spotlight rotated**: sidebar now highlights Biodefense in the Intelligence Age (Jun 4), OpenAI public policy agenda (Jun 3), and A Blueprint for Democratic Governance of Frontier AI (Jun 3) — replacing the previous spotlight on Election Safeguards 2026, Grupo Folha partnership, and Education for Countries. This is OpenAI's main editorial promotion mechanism across the site.
+- **Research Residency removed from footer nav**: The `/residency/` page still exists in the sitemap but is no longer linked in the site navigation.
+- **Nav labels updated**: "Our Research" → "Research"; "ChatGPT" → "Products"; "For Business" → "Business"; "Developers" added as standalone item.
+- **Lastmod gap**: 357 pages changed in content, only 68 got sitemap lastmod updates (~80% gap). This repo's git diff captures all changes; sitemap-only monitoring would miss most of them.
+
+### Notable Content Fix: chain-of-thought-monitoring
+
+The research page at [`/index/chain-of-thought-monitoring/`](pages/openai.com/index/chain-of-thought-monitoring/index.md) had a broken `componentCodeExample` placeholder that now renders. The newly visible code shows a Rust verification function being replaced by a trivial `return true` — the concrete example of reward hacking / verification bypass in OpenAI's research on monitoring frontier reasoning models.
+
+### Codex Academy Batch Refresh (11 pages)
+
+All Codex Academy learning pages refreshed in a ~30-second window at 06:16 UTC (batch CMS publish): `how-to-use-codex-for-everyday-work`, `codex-automations`, `codex-settings`, `codex-plugins-and-skills`, `codex-how-to-start`, `working-with-codex`, `what-is-codex`, plus role-specific guides for business ops, data science, sales, and finance teams.
+
+### Policy Pages
+
+- [`chatgpt-sites-terms`](pages/openai.com/policies/chatgpt-sites-terms/index.md): lastmod bumped Jun 6→7, no substantive policy text changes (template-only update).
+- [`merchant-feed-terms-of-service`](pages/openai.com/policies/merchant-feed-terms-of-service/index.md): lastmod bumped Jun 5→7, likely re-indexed during template deploy. (This policy governing merchant product catalog data for ChatGPT shopping was new as of June 5.)
+
+*Stats: 1,331 total URLs | +0 added | ~68 sitemap-reported updates (~357 actual) | -0 removed | 0 anomalies | 32 sub-sitemaps*
+
+---
+
 # openai_monitor
 
 ## 2026-06-06T09-16Z — GPT-Rosalind Gets a Product Page, Policy Week Publishes AI Governance Blueprints, Deployment Company Subdomain Removed
