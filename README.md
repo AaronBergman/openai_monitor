@@ -1,3 +1,44 @@
+## 2026-06-08 — Run `2026-06-08T09-15Z`
+
+**TL;DR:** No new or removed pages today — the URL count holds at 1,331. A CMS navigation overhaul touched 109 pages (but only 2 had any visible content change). The real news is in the release notes: OpenAI published a cluster of security and AI-capability updates dated June 2–4, including a new Active Sessions security feature, Lockdown Mode expanded to all users, ads launching in the UK for free-tier users, an upgraded memory system for ChatGPT, and moderation scores added directly to the Responses API. The site-wide footer nav was also restructured, with a new "Developers" standalone section and GPT-5.3-Codex quietly removed from the featured model list.
+
+### Anomalies
+None.
+
+### Substantive Content Changes (2 pages)
+
+**[Release Notes](pages/openai.com/products/release-notes/index.md)** — Five new release notes surfaced for June 2–4:
+
+- **Active account session controls** (ChatGPT, Jun 2): New security feature in Settings > Security > Active sessions. Users can review all first-party sessions (device, location, sign-in time, trusted-device status) and sign out remotely. Covers ChatGPT, Codex, and API Platform sessions; does not cover Codex CLI or third-party app sessions.
+
+- **Lockdown Mode for all users** (ChatGPT, Jun 4): Previously limited access, now available to all logged-in users across account types. Opt-in from Settings > Security. Disables web browsing, deep research, agent mode, file downloads, and web-derived image support to guard against prompt-injection data-exfiltration.
+
+- **Ads rolling out in the UK** (ChatGPT, Jun 4): Free and Go plan users in the UK will begin seeing ads. Paid plans (Plus, Pro, Business, Enterprise, Education) remain ad-free.
+
+- **Upgraded ChatGPT memory** (ChatGPT, Jun 4): New memory system that automatically stays current, reduces stale/contradictory memories, and tracks preferences and ongoing work. Plus/Pro US rollout first, capacity doubled for those tiers. Legacy saved-memories system remains as opt-out fallback.
+
+- **Moderation scores in API** (API, Jun 4): Responses API and Chat Completions API now accept a `moderation` object, returning moderation results for both input and output in the same response (eliminating a separate API call).
+
+*The prior top entry — Codex app updates 26.602 (Jun 4, activity insights, Computer Use fixes) — was pushed below "Load more."*
+
+**[DALL-E 3 page](pages/openai.com/index/dall-e-3/index.md)** (representative of site-wide footer nav change) — Footer navigation restructured across 109 pages:
+- **New "Developers" section** added: Apps SDK, Open Models, Docs, Resources, Developer Forum
+- **"ChatGPT" → "Products"**: Codex and Release Notes added; links updated to canonical URLs
+- **GPT-5.3-Codex removed** from "Latest Advancements" featured model list
+- **Deployment Safety** added to Safety section
+- **Research Residency** (`/residency/`) removed from Research section
+- **Company section**: Foundation and Brand links removed; News added
+- **"API Platform"** simplified (Pricing and Developer Forum links removed)
+
+### Routine Sitemap Updates (107 pages — lastmod bumped, no visible content change)
+
+Sections affected: `index/` (81 pages, mostly case studies and research), `academy/` (11), `policies/` (5), `stories/` (4), `business/` (2), `form/` (2), plus `gpt-rosalind/`, `podcast/`, `startups/`, `products/`. All reflect the CMS publishing the footer nav update. Policy pages with lastmod bumps but no text change: `privacy-policy`, `ad-policies`, `chatgpt-sites-terms`, `eu-services-privacy-policy`, `merchant-feed-terms-of-service`.
+
+See full URL list in [runs/2026-06-08T09-15Z/analysis.md](runs/2026-06-08T09-15Z/analysis.md).
+
+---
+*Stats: 1,331 total URLs | +0 added | ~109 sitemap-updated (2 actual content changes) | -0 removed | 0 anomalies | 32 sub-sitemaps*
+
 ## 2026-06-07 — Run `2026-06-07T09-15Z`
 
 **TL;DR:** No new or removed pages today — the sitemap URL count held steady at 1,331. A sitewide navigation template refresh touched ~357 pages (though only 68 got a sitemap lastmod bump, a consistent pattern for OpenAI template deploys). The most notable substantive change: a previously broken code example on the `chain-of-thought-monitoring` research page now renders correctly, revealing a Rust code snippet that illustrates how a verification function can be trivially bypassed — a key visual in OpenAI's research on reward hacking. The Codex Academy section (11 pages) received a batch refresh, and the editorial "Related Articles" spotlight rotated to feature biodefense and AI governance content.

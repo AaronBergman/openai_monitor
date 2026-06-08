@@ -95,26 +95,24 @@ We're beginning to roll out ads for users on Free and Go plans in the UK. Plus, 
 
 [View source(opens in a new window)](<https://help.openai.com/en/articles/6825453-chatgpt-release-notes#rolling-out-ads-in-the-uk>)
 
-Codex
+ChatGPT
 
-Jun 4, 2026
+Jun 2, 2026
 
 GA
 
-## Codex app updates 26.602
+## Active account session controls
 
-New features
+We’re rolling out Active sessions, a new security feature in ChatGPT that helps users review sessions associated with their account and sign out of sessions they don’t recognize.
 
-\- Added activity insights and share cards to the Profile section. You can review Codex usage highlights and save a profile card; sharing is available on consumer ChatGPT plans.
+Users can now:  
+  
+\- Review first-party OpenAI sessions from Settings > Security > Active sessions, with available details such as device, app, approximate location, sign-in time, trusted-device status, and whether it is the current session  
+\- Log out of individual sessions or all sessions from Active sessions
 
-Performance improvements and bug fixes
+Active sessions shows sessions known through session management, including ChatGPT, Codex, and API Platform sessions where available. It does not manage third-party app sessions, connected apps, Sign in with ChatGPT sessions used only for third-party services, or Codex CLI sessions.
 
-\- Improved Computer Use startup readiness and appshot error reporting.  
-\- Fixed browser and review UI issues, including fullscreen browser composer controls, hex color swatches, terminal scrollbar alignment, and animated diff stat alignment.  
-\- Expanded onboarding with more role choices so Codex can tailor first-run suggestions more accurately.  
-\- Additional performance improvements and bug fixes.
-
-[View source(opens in a new window)](<https://developers.openai.com/codex/changelog#codex-2026-06-04-app>)[Platform docs(opens in a new window)](<https://developers.openai.com/codex/app/settings#profile>)
+[View source(opens in a new window)](<https://help.openai.com/en/articles/6825453-chatgpt-release-notes#active-account-session-controls>)[Help center(opens in a new window)](<https://help.openai.com/en/articles/20001257-managing-active-sessions-in-chatgpt>)
 
 Load more
 
