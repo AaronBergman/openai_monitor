@@ -45,7 +45,7 @@ How early adopters focus their AI efforts
 
 [Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)[Contact sales](</contact-sales/>)
 
-#### Foreword
+### Foreword
 
 In just two years
 
@@ -92,7 +92,7 @@ It’s important to recognize that AI adoption means much more than just finding
 
 Erik Brynjolfsson, Stanford University, in “AI In the Workplace”, McKinsey, January 2025
 
-#### Key principles for finding new use cases
+### Key principles for finding new use cases
 
 Keep these three principles in mind. They're the backdrop to all the practical guidance you'll find ahead.
 
@@ -107,7 +107,7 @@ Keep these three principles in mind. They're the backdrop to all the practical g
 
 Let’s walk through the best steps for sourcing use cases for your teams.
 
-#### Identifying opportunities for AI impact
+### Identifying opportunities for AI impact
 
 Step one is finding parts of your business that can be immediately improved with AI.
 
@@ -126,7 +126,7 @@ To identify potential AI use cases, focus on common workplace challenges in thes
 
 Let’s walk through the best steps for sourcing use cases for your teams.
 
-#### Repetitive, low value tasks
+### Repetitive, low value tasks
 
 Be specific on why AI adoption is key to your company's future, whether it's keeping pace with competitors, responding to evolving customer expectations, or sustaining growth. When employees hear a thoughtful “why,” it creates trust and clarity, helping them see how these changes align with their own work and goals.
 
@@ -134,7 +134,7 @@ Be specific on why AI adoption is key to your company's future, whether it's kee
 
 Claire Vo Chief, Product and Technology Officer, Launch Darkly
 
-#### Skill bottlenecks
+### Skill bottlenecks
 
 Be specific on why AI adoption is key to your company's future, whether it's keeping pace with competitors, responding to evolving customer expectations, or sustaining growth. When employees hear a thoughtful “why,” it creates trust and clarity, helping them see how these changes align with their own work and goals.
 
@@ -142,7 +142,7 @@ Example
 
 Our product manager use AI to create interactive prototypes without needing to slow down to wait for other teams to help.
 
-#### Navigating ambiguity
+### Navigating ambiguity
 
 Knowledge work often involves ambiguity and open-ended challenges. Employees may struggle to get started or become blocked, causing projects to stall. Here AI can act as a catalyst, helping to generate ideas, analyze data, and propose next steps when the path is unclear. 
 
@@ -158,7 +158,7 @@ Focusing on these types of work can help you quickly identify high-impact AI opp
 
 Andrea Ellis, Chief Financial Officer, Fanatics Betting and Gaming
 
-#### Action items
+### Action items
 
 Ask your teams to list scenarios and tasks where they:
 
@@ -179,7 +179,7 @@ Or, use this prompt to ask ChatGPT for some interesting use cases:
 
 [PromptI am a [role] at [company]. We recently implemented ChatGPT at our organization. What are the best use cases for my role?](<https://chatgpt.com/?prompt=I%20am%20a%20%5Brole%5D%20at%20%5Bcompany%5D.%20We%20recently%20implemented%20ChatGPT%20at%20our%20organization.%20What%20are%20the%20best%20use%20cases%20for%20my%20role?>)
 
-#### Teaching your teams the six use case primitives
+### Teaching your teams the six use case primitives
 
 Once you’ve given your teams a framework for identifying new AI opportunities, the next step is to train them on the fundamental ways they can use AI. To help with this, we analyzed over 600 use cases sourced from our customers. Most use cases fall into one of six 'primitives'—fundamental use case types that apply across all departments and disciplines:
 
@@ -197,7 +197,7 @@ AI can automatically write in your company’s style and apply your tone of voic
 
 When writing, AI can take in the complete context of a conversation or consider a set of uploaded documents to shape the output. For example, try uploading your writing guide or use your five best blog posts, then prompt ChatGPT to create a detailed writing guide based on those examples.
 
-#### Content creation use cases to get started with:
+### Content creation use cases to get started with:
 
 **Marketing**|  Create campaign strategies, headlines or email campaigns. Generate content outlines and first drafts. Repurpose content for different audiences or channels.  
 ---|---  
@@ -223,7 +223,7 @@ One of the biggest advantages of using AI for research is that you can specify t
 
 AI’s attention to detail and ability to follow instructions makes it a great research assistant.
 
-#### Research use cases to get started with:
+### Research use cases to get started with:
 
 **Sales and Marketing**|  Investigate new industries, understand competitors better, and research new audiences.  
 ---|---  
@@ -242,7 +242,7 @@ Many software engineers are power users of AI. They use it for debugging, genera
 
 We’re also seeing many non-coders take up coding with the assistance of AI tools. Just by using natural language, marketers and finance teams are able to build Python scripts to automate processes, SQL queries to retrieve data, or even visualizations with front-end code for websites or internal presentations. 
 
-#### Coding use cases to start with:
+### Coding use cases to start with:
 
 **Software Engineers**|  Debug or rubber duck code, port it to other languages, and research API endpoints.  
 ---|---  
@@ -266,7 +266,7 @@ AI helps anyone harmonize data from different sources, identify insights and tre
 
 You can provide AI with multiple spreadsheets or screenshots of dashboards to support quick analysis. It can interpret spreadsheet data, understand visual charts, and even help format your output for reporting. You can also guide how results are structured, such as specifying preferred chart types, summary formats, or comparison logic.
 
-#### Data analysis use cases to get started with:
+### Data analysis use cases to get started with:
 
 **Marketing**|  Upload webinar attendance data and quickly visualize it. Summarize key trends from a dashboard screenshot.  
 ---|---  
@@ -284,7 +284,7 @@ Poshmark, the fashion marketplace, used ChatGPT to generate the Python code that
 
 Rodrigo Brumana, CFO, Poshmark
 
-###### 
+##### 
 
 ## Primitive 05: Ideation and strategy
 
@@ -294,7 +294,7 @@ As AI models become more multimodal, we’re seeing teams use voice and vision t
 
 And as models become more capable of thinking through complex problems, we’re seeing many teams build strategic plans with them, taking into account their data, goals, context, constraints, and dependencies.
 
-#### Ideation and strategy use cases to get started with:
+### Ideation and strategy use cases to get started with:
 
 **Marketing**|  Brainstorm campaign ideas based on new opportunities. Upload your marketing brief and ask what’s missing. Prompt for a go-to-market plan for a product launch.  
 ---|---  
@@ -308,7 +308,7 @@ Match Group, the global leader in online dating, is experimenting with GPT‑4�
 
 ![Abstract blue square](https://images.ctfassets.net/kftzwdyauwt9/6NRiPNB4aUauLEaRn8T1UW/98699738ea86db53f56c979049ab4af4/Media__6_.png?w=3840&q=90&fm=webp)
 
-###### 
+##### 
 
 ## Primitive 06: Automations
 
@@ -318,7 +318,7 @@ Memory and custom instructions are the key to automating these kinds of processe
 
 Today these automations are often individual tasks, but with products like deep research and Operator, we’re moving into a world where AI can take on multi-step tasks independently and on schedule.
 
-#### Automation use cases to get started with:
+### Automation use cases to get started with:
 
 **Marketing**|  Create a standard report and visualizations for quick webinar readouts. Or build Slack update summaries from meeting notes or transcripts.  
 ---|---  
@@ -332,7 +332,7 @@ BBVA’s Credit Analysis Pro GPT helps credit risk analysts accelerate their ass
 
 ![Abstract blue square](https://images.ctfassets.net/kftzwdyauwt9/6NRiPNB4aUauLEaRn8T1UW/98699738ea86db53f56c979049ab4af4/Media__6_.png?w=3840&q=90&fm=webp)
 
-#### Action items
+### Action items
 
   * Teach your teams the fundamentals of each primitive and provide examples for each department.
 
@@ -345,7 +345,7 @@ BBVA’s Credit Analysis Pro GPT helps credit risk analysts accelerate their ass
 
 
 
-#### How Estée Lauder Corporation built a repeatable GPT development process
+### How Estée Lauder Corporation built a repeatable GPT development process
 
 Estée Lauder’s GPT Lab starts with cross-discipline teams—including a business user, a subject matter expert, and a technical lead—to identify and develop high-impact use cases. Their process is simple and repeatable:
 
@@ -368,7 +368,7 @@ Stéphane Bancel, CEO, Moderna
 
 For more detail, read about the [Estée Lauder GPT Lab⁠](<https://openai.com/index/estee-lauder/>).
 
-#### Gathering and prioritizing use cases
+### Gathering and prioritizing use cases
 
 Once teams understand key use cases and begin identifying problems to solve, use cases tend to multiply quickly. 
 
@@ -376,7 +376,7 @@ The challenge then shifts from discovery to prioritization. Which use cases can 
 
 Our customer success teams use this Impact/Effort Framework to help enterprise customers prioritize use cases. It’s a simple quadrant that scores each use case against the value to the company and the degree of effort it requires.
 
-#### Impact/effort framework
+### Impact/effort framework
 
 **High ROI focus**|  Quick wins with strong impact and low effort—often the best place to start building momentum.  
 ---|---  
@@ -407,13 +407,13 @@ Evaluating and prioritizing your AI use case opportunities in this way helps acc
 
 
 
-#### The next move: Department workflow mapping
+### The next move: Department workflow mapping
 
 Most teams begin by using AI for individual tasks: editing blog posts, generating campaign briefs, or drafting policies. It’s easier to think of AI in the context of specific, discrete tasks.
 
 But as we watch power users embed AI into everything they do, we often see them find use cases that start to span multi-step workflows.
 
-#### Here’s how a multi-step flow might take shape:
+### Here’s how a multi-step flow might take shape:
 
   * Use deep research to explore market trends
 
@@ -445,7 +445,7 @@ An example:
 
 
 
-#### Action items
+### Action items
 
   * Encourage power users to: break workflows into individual tasks, identify core use cases (primitives), and clearly map each step.
 
@@ -486,19 +486,17 @@ Learn how we help companies build scalable, responsible AI strategies.
 
 ## Keep reading
 
-![oai endava 1x1](https://images.ctfassets.net/kftzwdyauwt9/6CJMPcvmo9FlUZMnAetSGl/9686223d1bd7d90b9926c0bedd4e8fb9/oai_endava_1x1.png?w=3840&q=90&fm=webp)
+![Confidential submission of draft S-1 to the SEC > cover image](https://images.ctfassets.net/kftzwdyauwt9/36doI12YCwUtp1hzD4d8bj/84e67c565f39e7d5ca3ee011efa69756/confidential-submission-of-draft-s-1-to-the-sec-1x1.png?w=3840&q=90&fm=webp)
 
-[How Endava is redesigning software delivery around AI agentsJun 4, 2026](</index/endava-frontiers/>)
+[Confidential submission of draft S-1 to the SECCompanyJun 8, 2026](</index/openai-submits-confidential-s-1/>)
 
-![Art Card 1080x1080 \(3\)](https://images.ctfassets.net/kftzwdyauwt9/3JLNH7ejJFnxLmX2LpzoKD/19f9e3c4d36cc9d677ba88e842ad2db2/Art_Card_1080x1080__4_.png?w=3840&q=90&fm=webp)
+![Built for broad benefit > cover](https://images.ctfassets.net/kftzwdyauwt9/bEe28mW3dEOj9pKJsPp2u/13f7bed9e86b0667ba924479d62f98e4/Art_Card_1080x1080_1.png?w=3840&q=90&fm=webp)
 
-Better memory for a more helpful ChatGPT
+[Built to benefit everyone: our planCompanyJun 8, 2026](</index/built-to-benefit-everyone-our-plan/>)
 
-[Dreaming: Better memory for a more helpful ChatGPTResearchJun 4, 2026](</index/chatgpt-memory-dreaming/>)
+![Economic research forum > art card ](https://images.ctfassets.net/kftzwdyauwt9/2DpNjvjdVuCrLKNOrFrWJ7/1aefe1cbe252bcd9ba42035469fc8a0f/art_card.png?w=3840&q=90&fm=webp)
 
-![oai 1x1 Biodefense in the Intelligence Age](https://images.ctfassets.net/kftzwdyauwt9/6A4rrCBs9rrlbzm9JWIvSi/8a4ae56849fcd0b16e90b59b8babc613/oai_1x1_Biodefense_in_the_Intelligence_Age.png?w=3840&q=90&fm=webp)
-
-[Biodefense in the Intelligence AgeGlobal AffairsJun 4, 2026](</index/biodefense-in-the-intelligence-age/>)
+[Introducing the OpenAI Economic Research ExchangeCompanyJun 8, 2026](</index/economic-research-exchange/>)
 
 Research
 

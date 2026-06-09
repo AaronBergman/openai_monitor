@@ -140,11 +140,11 @@ Learn more about configuring the new controls in the [_admin guide_ ⁠(opens in
 
 ## Codex at work
 
-#### Cisco: 50% faster code reviews
+### Cisco: 50% faster code reviews
 
 At Cisco, engineers are using Codex to speed up the review of complex pull requests, reducing review times by up to 50%. By spending less time on manual checks, they can devote more energy to meaningful, transformative work. Codex supports them by reviewing both human-written code and its own output, helping engineers maintain high standards while enabling faster, more ambitious product releases.
 
-#### Instacart: Automating code cleanup 
+### Instacart: Automating code cleanup 
 
 At Instacart, the Codex SDK is integrated with Olive, their background coding agent platform. Engineers spin up a remote development environment and complete end-to-end tasks with a single click, using Codex to edit and test changes. Codex automatically cleans up tech debt like dead code and expired experiments, improving code quality and reducing latency across codebases. It also takes on repetitive, well-understood changes, reducing backlog and significantly accelerating engineering velocity.
 

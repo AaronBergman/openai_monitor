@@ -60,7 +60,7 @@ In this post, we highlight some of the submissions we found surprising and inter
 
 ## Technical impressions
 
-#### Record track
+### Record track
 
 We judged and independently reproduced each submission on the record-track leaderboard, and verified that each submission was record-breaking at the time it was submitted. Several themes stood out.
 
@@ -103,7 +103,7 @@ A few submissions introduced modeling or data ideas that were especially creativ
   
 We chose to highlight these nine submissions because they represent the range of results we hoped the challenge would surface. Some participants found wins through careful tuning. Others pushed quantization and low-rank techniques. Some explored edges of the evaluation rules. And several introduced modeling or data ideas, from the literature or from scratch, that produced unexpected gains.
 
-#### Nonrecord track
+### Nonrecord track
 
 The nonrecord track was home to many creative submissions. We highlighted 15 favorites, including approaches ranging from non-autoregressive text modeling to dynamic tokenization.
 

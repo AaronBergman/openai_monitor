@@ -78,7 +78,7 @@ Step-by-step revisions help maintain consistency as you refine the image. You ca
 
 ## Advanced guidance 
 
-#### Using multiple uploaded images
+### Using multiple uploaded images
 
 You can upload multiple images to guide generation or editing, but a small set is usually easier to manage than a large one. Refer to each image by order and explain how they relate to each other.
 
@@ -86,7 +86,7 @@ For example: _“Image 1 is a photo of my desk setup. Image 2 is a style referen
 
 When combining elements, use clear spatial language—such as left, right, foreground, and background—to describe relationships.
 
-#### Text in images (titles, labels, headlines)
+### Text in images (titles, labels, headlines)
 
 Text works best when instructions are very specific:
 
@@ -99,7 +99,7 @@ Text works best when instructions are very specific:
 
 For example:_ "Add the headline “WEEKLY PLAN” in bold sans-serif, white, centered at the top, 72pt. No other text."_
 
-#### Infographics and dense layouts
+### Infographics and dense layouts
 
 Infographics are useful for explainers, posters, labeled diagrams, timelines, and “visual wiki” assets. For dense layouts or heavy in-image text, emphasize “sharp text rendering,” and consider polishing in design tools if needed.
 

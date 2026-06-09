@@ -60,7 +60,7 @@ Neuro started in a downtown Los Angeles apartment, where co-founders Ryan Chen a
 
 "We're a nine-figure brand with under seventy people," says Chen. "To compete in consumer goods at this scale, we need leverage in every part of the company." ChatGPT Business gives Neuro the leverage to do more with less. Employees first experimented with ChatGPT on their own, but it quickly became company policy.
 
-#### Saving tens of thousands with a second brain
+### Saving tens of thousands with a second brain
 
 In consumer goods, you're juggling a dozen specialties before you can afford a dozen specialists. "Everyone has to be a generalist," says Tyler Gianesini, Chief Operating Officer. "ChatGPT acts like a second brain that fills the gaps."
 
@@ -74,7 +74,7 @@ But the real win is momentum. "We're a distributed team," Chen says. "I can't Sl
 
 ![Person smiling and holding a piece of Neuro Energy & Focus mint while seated, wearing a pink shirt and cap, with a matching pink product pouch in hand.](https://images.ctfassets.net/kftzwdyauwt9/7ogQGhioP7kB2TPghTp5Gz/92657aaf14fd2b39ae9b95248f53f81b/2025_04_22_NeuroXSteveAoki_Talent_Setup_01_0686.jpg?w=3840&q=90&fm=webp)
 
-#### Finding revenue opportunities hidden in the data
+### Finding revenue opportunities hidden in the data
 
 Listening to customers has always shaped Neuro's roadmap; with ChatGPT Business, the company can now process reviews and run sentiment analysis at scale. "We can identify things like a subset of customers asking for fruit flavors and act on it quickly," Chen says. That process led to the launch of a strawberry cake flavor, and the team sees potential to extend AI use into supply chain forecasting by uploading invoices and order data.
 
@@ -84,7 +84,7 @@ ChatGPT also helps Neuro cut through the noise of marketing and e-commerce data.
 
 That storytelling power helped Neuro prove to CVS that TikTok virality drove real-world sales -- securing upcoming premium checkout placement in every U.S. store.
 
-#### Turning product details into campaigns that land
+### Turning product details into campaigns that land
 
 For the marketing team, ChatGPT is a creative partner, helping them reframe the brand from the customer's point of view. Yoshimura studied neuroscience, and Chen studied chemistry, "so we'd geek out on the science, but lose people."
 
@@ -98,7 +98,7 @@ That same flexibility extends to Neuro's network of creators. Thousands of TikTo
 
 ![Tin of Neuro x PADI mints placed on sand surrounded by coral, rocks, and seashells, designed with an ocean-inspired illustration featuring fish and waves.](https://images.ctfassets.net/kftzwdyauwt9/4rWCGB2ptUStNZHWW2bGak/9827816b0bd5745581074b97f7b5fae2/Q2TvP8hA.jpeg?w=3840&q=90&fm=webp)
 
-#### Staying lean while scaling
+### Staying lean while scaling
 
 Neuro is beginning to use the ChatGPT deep research feature for thorny finance questions, like modeling cap tables, sizing stock option pools, and structuring investor agreements. In these situations, "instead of a quick answer, I like deep research that gives me a very thorough analysis," Chen explains. "It's amazing because it's thinking of things that I couldn't have thought of."
 
@@ -118,19 +118,17 @@ More than 1 million businesses around the world are achieving meaningful results
 
 ## Keep reading
 
-![oai endava 1x1](https://images.ctfassets.net/kftzwdyauwt9/6CJMPcvmo9FlUZMnAetSGl/9686223d1bd7d90b9926c0bedd4e8fb9/oai_endava_1x1.png?w=3840&q=90&fm=webp)
+![Confidential submission of draft S-1 to the SEC > cover image](https://images.ctfassets.net/kftzwdyauwt9/36doI12YCwUtp1hzD4d8bj/84e67c565f39e7d5ca3ee011efa69756/confidential-submission-of-draft-s-1-to-the-sec-1x1.png?w=3840&q=90&fm=webp)
 
-[How Endava is redesigning software delivery around AI agentsJun 4, 2026](</index/endava-frontiers/>)
+[Confidential submission of draft S-1 to the SECCompanyJun 8, 2026](</index/openai-submits-confidential-s-1/>)
 
-![Art Card 1080x1080 \(3\)](https://images.ctfassets.net/kftzwdyauwt9/3JLNH7ejJFnxLmX2LpzoKD/19f9e3c4d36cc9d677ba88e842ad2db2/Art_Card_1080x1080__4_.png?w=3840&q=90&fm=webp)
+![Built for broad benefit > cover](https://images.ctfassets.net/kftzwdyauwt9/bEe28mW3dEOj9pKJsPp2u/13f7bed9e86b0667ba924479d62f98e4/Art_Card_1080x1080_1.png?w=3840&q=90&fm=webp)
 
-Better memory for a more helpful ChatGPT
+[Built to benefit everyone: our planCompanyJun 8, 2026](</index/built-to-benefit-everyone-our-plan/>)
 
-[Dreaming: Better memory for a more helpful ChatGPTResearchJun 4, 2026](</index/chatgpt-memory-dreaming/>)
+![Economic research forum > art card ](https://images.ctfassets.net/kftzwdyauwt9/2DpNjvjdVuCrLKNOrFrWJ7/1aefe1cbe252bcd9ba42035469fc8a0f/art_card.png?w=3840&q=90&fm=webp)
 
-![oai 1x1 Biodefense in the Intelligence Age](https://images.ctfassets.net/kftzwdyauwt9/6A4rrCBs9rrlbzm9JWIvSi/8a4ae56849fcd0b16e90b59b8babc613/oai_1x1_Biodefense_in_the_Intelligence_Age.png?w=3840&q=90&fm=webp)
-
-[Biodefense in the Intelligence AgeGlobal AffairsJun 4, 2026](</index/biodefense-in-the-intelligence-age/>)
+[Introducing the OpenAI Economic Research ExchangeCompanyJun 8, 2026](</index/economic-research-exchange/>)
 
 Research
 

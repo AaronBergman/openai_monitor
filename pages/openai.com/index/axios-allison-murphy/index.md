@@ -51,7 +51,7 @@ Axios is a media company delivering vital, trustworthy news and analysis in the 
 
 We spoke with Allison Murphy, Chief Operating Officer at Axios, about AI supporting high-impact local journalism and serving communities better. 
 
-#### How is AI helping Axios Local reporters deliver more high-impact journalism?
+### How is AI helping Axios Local reporters deliver more high-impact journalism?
 
 AI is already a huge part of how Axios Local works. At the core, what we’re trying to do is prove that you can run a sustainable, profitable local news model that delivers high-quality journalism to every community in America. That means solving for scale and efficiency—and that’s exactly what AI is good at. So there’s a really natural fit between what OpenAI is building and what we’re building at Axios Local.
 
@@ -67,7 +67,7 @@ The result is that everyone—reporters and editors alike—gets more time to fo
 
 Listen
 
-#### With AI, what kinds of local stories or community services become possible that weren’t before?
+### With AI, what kinds of local stories or community services become possible that weren’t before?
 
 There are a lot of ways to think about this, but it really comes down to both coverage and how we work. Our goal is to let reporters spend their time doing what only humans can do—talking to sources, digging into data, and telling great stories. Every minute we save them on production, formatting, or busywork is a win.
 
@@ -75,7 +75,7 @@ That efficiency lets us reach more communities. If we can launch a new city with
 
 With AI-powered workflows behind the scenes, a single reporter can produce a great local news product. It means more local coverage, in more places, with the same high bar for quality.
 
-#### The news business has been under a lot of strain and change. How essential has AI been in helping you navigate those financial pressures?
+### The news business has been under a lot of strain and change. How essential has AI been in helping you navigate those financial pressures?
 
 At its core, the local news crisis is really an economic one. Great local journalism has to be deeply tailored to each community, which makes it hard to get the cost efficiencies that other industries rely on. You can’t just copy-and-paste a newsroom.
 
@@ -91,7 +91,7 @@ That means great reporters can cover more ground, uncover more stories, and serv
 
 Listen
 
-#### How do you keep the community’s voice strong while using tools that standardize so much of the work?
+### How do you keep the community’s voice strong while using tools that standardize so much of the work?
 
 Human reporters are always going to be at the center of Axios. That’s non-negotiable. They’re what create trust with readers. They’re what make Axios feel like a neighbor in your pocket—someone who knows your community and tells you what really matters. If you lose that human voice, you lose the whole product.
 
@@ -99,7 +99,7 @@ What we standardize is everything around them. We use technology to make the sty
 
 By building tools that handle that for them—clean charts, vetted math, transparent comparisons—we give every reporter access to capabilities that used to be uneven or hard to scale. That way, every community gets the same high-quality data-driven journalism, while the reporting itself stays local, human, and deeply rooted in the place.
 
-#### What are some of the most meaningful ways AI is helping Axios Local reporters work faster and serve their communities better?
+### What are some of the most meaningful ways AI is helping Axios Local reporters work faster and serve their communities better?
 
 One of the things we’ve really focused on is identifying the parts of our newsletters that readers love—and then figuring out how to make those easier to produce.
 
@@ -119,7 +119,7 @@ It’s not flashy, but it’s powerful. It keeps us tightly connected to our rea
 
 Listen
 
-#### What’s your vision for where journalism is headed over the next five to ten years as AI moves deeper into newsroom workflows?
+### What’s your vision for where journalism is headed over the next five to ten years as AI moves deeper into newsroom workflows?
 
 The value of truly original, expert journalism is only going to keep rising. No AI can build a source relationship or break a scoop. That human trust is irreplaceable, and it’s what great reporting will always be built on.
 
@@ -134,19 +134,17 @@ _Axios uses ChatGPT to support research, analysis, and drafts of internal commun
 
 ## Keep reading
 
-![oai endava 1x1](https://images.ctfassets.net/kftzwdyauwt9/6CJMPcvmo9FlUZMnAetSGl/9686223d1bd7d90b9926c0bedd4e8fb9/oai_endava_1x1.png?w=3840&q=90&fm=webp)
+![Confidential submission of draft S-1 to the SEC > cover image](https://images.ctfassets.net/kftzwdyauwt9/36doI12YCwUtp1hzD4d8bj/84e67c565f39e7d5ca3ee011efa69756/confidential-submission-of-draft-s-1-to-the-sec-1x1.png?w=3840&q=90&fm=webp)
 
-[How Endava is redesigning software delivery around AI agentsJun 4, 2026](</index/endava-frontiers/>)
+[Confidential submission of draft S-1 to the SECCompanyJun 8, 2026](</index/openai-submits-confidential-s-1/>)
 
-![Art Card 1080x1080 \(3\)](https://images.ctfassets.net/kftzwdyauwt9/3JLNH7ejJFnxLmX2LpzoKD/19f9e3c4d36cc9d677ba88e842ad2db2/Art_Card_1080x1080__4_.png?w=3840&q=90&fm=webp)
+![Built for broad benefit > cover](https://images.ctfassets.net/kftzwdyauwt9/bEe28mW3dEOj9pKJsPp2u/13f7bed9e86b0667ba924479d62f98e4/Art_Card_1080x1080_1.png?w=3840&q=90&fm=webp)
 
-Better memory for a more helpful ChatGPT
+[Built to benefit everyone: our planCompanyJun 8, 2026](</index/built-to-benefit-everyone-our-plan/>)
 
-[Dreaming: Better memory for a more helpful ChatGPTResearchJun 4, 2026](</index/chatgpt-memory-dreaming/>)
+![Economic research forum > art card ](https://images.ctfassets.net/kftzwdyauwt9/2DpNjvjdVuCrLKNOrFrWJ7/1aefe1cbe252bcd9ba42035469fc8a0f/art_card.png?w=3840&q=90&fm=webp)
 
-![oai 1x1 Biodefense in the Intelligence Age](https://images.ctfassets.net/kftzwdyauwt9/6A4rrCBs9rrlbzm9JWIvSi/8a4ae56849fcd0b16e90b59b8babc613/oai_1x1_Biodefense_in_the_Intelligence_Age.png?w=3840&q=90&fm=webp)
-
-[Biodefense in the Intelligence AgeGlobal AffairsJun 4, 2026](</index/biodefense-in-the-intelligence-age/>)
+[Introducing the OpenAI Economic Research ExchangeCompanyJun 8, 2026](</index/economic-research-exchange/>)
 
 Research
 

@@ -40,15 +40,15 @@ The following terms and conditions (these “**Teacher Access Terms** ”) form 
 
 ## 1\. Eligibility 
 
-#### 1.1 You’re acting for your school/institution
+### 1.1 You’re acting for your school/institution
 
 By agreeing to these Terms, you represent and warrant to us: (a) you are a teacher in a region in which OpenAI has decided, in its sole discretion, to offer the Services; (b) you have received all authorizations necessary from the school, school district, or other similar educational institution (“**School** ”) with which you are currently employed to accept these Terms on behalf of your School and to register and use the Services; (c) you are at least 18 years old; (d) you have not previously been suspended or removed from the Services or any of our other products or services; and (e) your registration and your use of the Services is in compliance with all applicable laws and regulations. If your School has a separate written agreement with OpenAI, that agreement will govern our relationship with you.
 
-#### 1.2 Registration
+### 1.2 Registration
 
 When you register for an account for the Services (“**Teacher Account** ”), you may be required to provide us with some information about yourself, and we may ask you to verify your employment status at your School. For example, we may ask you to validate a school email domain or provide information to a third-party identity verification provider. You must provide accurate and complete information to register for a Teacher Account. If we cannot verify your employment status at your School, we may deny you the right to use the Services. (See our right to limit or suspend access for policy or legal reasons in Section 9.) You may not share your account credentials or make your Teacher Account available to anyone else and you are responsible for all activities that occur under your Teacher Account. If you create a Teacher Account or use the Services on behalf of another person or entity, you must have the authority to accept these Terms on their behalf.
 
-#### 1.3 Workspace End Users
+### 1.3 Workspace End Users
 
 If you create a workspace under your Teacher Account, then by default you will manage the workspace’s settings. As the manager of the workspace’s settings (“**Admin** ”), you may add other individuals from your School as members of your workspace. If you invite an individual to your workspace, then that individual will need an account for the Services to access the workspace. As the Admin, you may transfer your management rights for the workspace to another member of the workspace. You agree to seek and maintain any permissions needed from invitees and your School to manage any workspace you create.
 

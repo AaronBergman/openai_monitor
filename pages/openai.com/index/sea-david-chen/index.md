@@ -47,7 +47,7 @@ A conversation with David Chen, Co-Founder of Sea and Chief Product Officer at S
 
 Share
 
-#### Our Executive Function series features perspectives from leaders driving transformation through AI.
+### Our Executive Function series features perspectives from leaders driving transformation through AI.
 
 Sea Limited (Sea) is a leading global tech company founded in Singapore, with businesses spanning digital entertainment, e-commerce, and digital financial services. Its engineering teams build and operate products at significant scale across some of the world’s most dynamic markets.
 
@@ -55,19 +55,19 @@ Sea is rolling out Codex across its developer organisation, with our internal da
 
 We spoke with David Chen, Co-Founder of Sea and Chief Product Officer at Sea's e-commerce business, Shopee, about why the company is making this bet, how AI agents are changing how its developers work, and what AI-native software development could mean for Southeast Asia and the broader Asia Pacific region.
 
-#### David, Sea operates across some of the most dynamic markets in Southeast Asia. What was the strategic thinking behind rolling out Codex across your entire development organisation, and what stood out about the product?
+### David, Sea operates across some of the most dynamic markets in Southeast Asia. What was the strategic thinking behind rolling out Codex across your entire development organisation, and what stood out about the product?
 
 At Sea’s scale, engineering isn't just about writing code. It’s about managing large-scale systemic complexity across fragmented, hyper-localized markets. We see the ongoing developments in AI leading to a fundamental shift in how software is created and how our engineering teams operate at scale. 
 
 Agentic AI coding tools like Codex are not just about improving localised productivity. They represent a structural multiplier that can help our engineering organisation ramp up speed, responsiveness, and effectiveness amid an increasingly complex operating environment.
 
-#### What stood out about Codex in particular? 
+### What stood out about Codex in particular? 
 
 What stood out was its ability to go beyond autocomplete and provide deep contextual awareness of our large and disparate codebases. In a massive microservices architecture, the friction is not typing syntax. It is tracing dependencies, understanding legacy logic, and maintaining reliability under peak loads.
 
 Codex acts as a localised knowledge engine, drastically reducing the time it takes an engineer to navigate unfamiliar services and allowing our teams to shift their cognitive load to higher-level tasks such as architectural design and product innovation.
 
-#### Internal feedback points to strong usage across code understanding, debugging, and feature development. What does that reveal about how developers are using Codex day to day, and how AI agents are beginning to change software development at Sea?
+### Internal feedback points to strong usage across code understanding, debugging, and feature development. What does that reveal about how developers are using Codex day to day, and how AI agents are beginning to change software development at Sea?
 
 It has been encouraging to see the Codex adoption trends among our developers, particularly among frequent users, with many citing improvements in experimentation speed and development workflows. 
 
@@ -77,7 +77,7 @@ In practical terms, this means AI agents are increasingly operating within our C
 
 Many assume AI simply increases velocity. But at Sea, we are also using it to drive engineering discipline. By allowing AI to rapidly prototype alternative implementations and generate exhaustive test coverage, we are moving faster and are systematically paying down technical debt and shipping more resilient systems.
 
-#### Looking ahead, what role do you think Southeast Asia and the broader Asia region will play in shaping the next generation of AI-native software development? How do you see AI agents changing the structure of software teams, and what would you say to other technology leaders in Asia considering this shift?
+### Looking ahead, what role do you think Southeast Asia and the broader Asia region will play in shaping the next generation of AI-native software development? How do you see AI agents changing the structure of software teams, and what would you say to other technology leaders in Asia considering this shift?
 
 If you look at past technology revolutions, Southeast Asia has consistently leapfrogged traditional technology adoption cycles, such as the move directly to mobile-first and super-app ecosystems. Because developers here must solve highly complex, multilingual problems across fragmented commerce, payment, logistics, and communication networks, Southeast Asia is the perfect proving ground for AI-native software development. 
 
@@ -87,7 +87,7 @@ At the same time, development cycles will likely become more iterative and conti
 
 For technology leaders, I would say that this is not simply a tooling upgrade; it is an organizational paradigm shift. The winners will be those who relentlessly redesign their engineering culture and workflows around human-AI collaboration today, rather than bolting it onto legacy processes tomorrow.
 
-#### Beyond Sea’s own internal adoption, the company has partnered with OpenAI to host the first regional Codex Hackathon Series across Asia, beginning in Singapore before heading to markets including Indonesia, Taiwan, and Vietnam. Why was it important to bring this to the broader developer community?
+### Beyond Sea’s own internal adoption, the company has partnered with OpenAI to host the first regional Codex Hackathon Series across Asia, beginning in Singapore before heading to markets including Indonesia, Taiwan, and Vietnam. Why was it important to bring this to the broader developer community?
 
 Southeast Asia has an incredibly vibrant builder ecosystem, but the tooling gap has historically constrained execution speed. Internally, we have seen how AI-assisted workflows can help engineers learn faster, experiment more freely, and move from ideas to implementation more efficiently. 
 
@@ -97,19 +97,17 @@ This is about building a compounding AI-native talent ecosystem. By upskilling t
 
 ## Keep reading
 
-![oai endava 1x1](https://images.ctfassets.net/kftzwdyauwt9/6CJMPcvmo9FlUZMnAetSGl/9686223d1bd7d90b9926c0bedd4e8fb9/oai_endava_1x1.png?w=3840&q=90&fm=webp)
+![Confidential submission of draft S-1 to the SEC > cover image](https://images.ctfassets.net/kftzwdyauwt9/36doI12YCwUtp1hzD4d8bj/84e67c565f39e7d5ca3ee011efa69756/confidential-submission-of-draft-s-1-to-the-sec-1x1.png?w=3840&q=90&fm=webp)
 
-[How Endava is redesigning software delivery around AI agentsJun 4, 2026](</index/endava-frontiers/>)
+[Confidential submission of draft S-1 to the SECCompanyJun 8, 2026](</index/openai-submits-confidential-s-1/>)
 
-![Art Card 1080x1080 \(3\)](https://images.ctfassets.net/kftzwdyauwt9/3JLNH7ejJFnxLmX2LpzoKD/19f9e3c4d36cc9d677ba88e842ad2db2/Art_Card_1080x1080__4_.png?w=3840&q=90&fm=webp)
+![Built for broad benefit > cover](https://images.ctfassets.net/kftzwdyauwt9/bEe28mW3dEOj9pKJsPp2u/13f7bed9e86b0667ba924479d62f98e4/Art_Card_1080x1080_1.png?w=3840&q=90&fm=webp)
 
-Better memory for a more helpful ChatGPT
+[Built to benefit everyone: our planCompanyJun 8, 2026](</index/built-to-benefit-everyone-our-plan/>)
 
-[Dreaming: Better memory for a more helpful ChatGPTResearchJun 4, 2026](</index/chatgpt-memory-dreaming/>)
+![Economic research forum > art card ](https://images.ctfassets.net/kftzwdyauwt9/2DpNjvjdVuCrLKNOrFrWJ7/1aefe1cbe252bcd9ba42035469fc8a0f/art_card.png?w=3840&q=90&fm=webp)
 
-![oai 1x1 Biodefense in the Intelligence Age](https://images.ctfassets.net/kftzwdyauwt9/6A4rrCBs9rrlbzm9JWIvSi/8a4ae56849fcd0b16e90b59b8babc613/oai_1x1_Biodefense_in_the_Intelligence_Age.png?w=3840&q=90&fm=webp)
-
-[Biodefense in the Intelligence AgeGlobal AffairsJun 4, 2026](</index/biodefense-in-the-intelligence-age/>)
+[Introducing the OpenAI Economic Research ExchangeCompanyJun 8, 2026](</index/economic-research-exchange/>)
 
 Research
 

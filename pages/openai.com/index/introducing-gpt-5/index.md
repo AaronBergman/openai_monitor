@@ -64,7 +64,7 @@ GPT‑5 is a unified system with a**smart, efficient model** that answers most q
 
 GPT‑5 not only outperforms previous models on benchmarks and answers questions more quickly, but—most importantly—is more useful for real-world queries. We’ve made significant advances in reducing hallucinations, improving instruction following, and minimizing sycophancy, while leveling up GPT‑5’s performance in three of ChatGPT’s most common uses: writing, coding, and health.
 
-#### Coding
+### Coding
 
 GPT‑5 is our strongest coding model to date. It shows particular improvements in **complex front‑end generation** and **debugging larger repositories**. It can often create beautiful and responsive websites, apps, and games with an eye for aesthetic sensibility in just one prompt, intuitively and tastefully turning ideas into reality. Early testers also noted its design choices, with a much better understanding of things like spacing, typography, and white space. [See here](</index/introducing-gpt-5-for-developers/>) for full details on what GPT‑5 unlocks for developers.
 
@@ -80,11 +80,11 @@ Rolling ball minigamePixel artTyping gameDrum simulatorLofi visualizer
 \- The characters should look cartoonish and be fun to watch.  
 \- The game should be enjoyable for everyone.
 
-#### Creative expression and writing
+### Creative expression and writing
 
 GPT‑5 is our most capable writing collaborator yet, able to help you steer and translate rough ideas into **compelling, resonant writing** with literary depth and rhythm. It more reliably handles writing that involves structural ambiguity, such as sustaining unrhymed iambic pentameter or free verse that flows naturally, combining respect for form with expressive clarity. These improved writing capabilities mean that ChatGPT is better at helping you with everyday tasks like drafting and editing reports, emails, memos, and more. The writing styles of GPT‑5 and GPT‑4o can be compared in the table below.
 
-#### Health
+### Health
 
 GPT‑5 is our best model yet for health-related questions, empowering users to be informed about and advocate for their health. The model scores significantly higher than any previous model on [**_HealthBench_** ⁠](<https://openai.com/index/healthbench/>), an evaluation we published earlier this year based on realistic scenarios and physician-defined criteria. Compared to previous models, it acts more like an active thought partner, proactively flagging potential concerns and asking questions to give more helpful answers. The model also now provides more precise and reliable responses, adapting to the user’s context, knowledge level, and geography, enabling it to provide safer and more helpful responses in a wide range of scenarios. Importantly, ChatGPT does not replace a medical professional—think of it as a partner to help you understand results, ask the right questions in the time you have with providers, and weigh options as you make decisions. 
 
@@ -144,21 +144,21 @@ GPT‑5 is much smarter across the board, as reflected by its performance on aca
 
 _*AIME results with tools should not be compared directly to the performance of models without tool access; they are an example of how effectively GPT‑5 leverages available tools._
 
-####  Coding
+###  Coding
 
  _All SWE-bench evaluation runs use a fixed subset of n=477 verified tasks which have been validated on our internal infrastructure._
 
-####  Instruction following and agentic tool use
+###  Instruction following and agentic tool use
 
 GPT‑5 shows significant gains in benchmarks that test instruction following and agentic tool use, the kinds of capabilities that let it reliably carry out multi-step requests, coordinate across different tools, and adapt to changes in context. In practice, this means it’s better at handling complex, evolving tasks; GPT‑5 can follow your instructions more faithfully and get more of the work done end-to-end using the tools at its disposal.
 
-#### Multimodal
+### Multimodal
 
 The model excels across a range of multimodal benchmarks, spanning visual, video-based, spatial, and scientific reasoning. Stronger multimodal performance means ChatGPT can reason more accurately over images and other non-text inputs—whether that’s interpreting a chart, summarizing a photo of a presentation, or answering questions about a diagram.
 
-#### Health
+### Health
 
-#### Economically important tasks
+### Economically important tasks
 
 GPT‑5 is also our best performing model on an internal benchmark measuring performance on complex, economically valuable knowledge work. When using reasoning, GPT‑5 is comparable to or better than experts in roughly half the cases, while outperforming o3 and ChatGPT Agent, across tasks spanning over 40 occupations including law, logistics, sales, and engineering.
 
@@ -172,13 +172,13 @@ GPT‑5 was trained on Microsoft Azure AI supercomputers.
 
 ## Building a more robust, reliable, and helpful model
 
-#### More accurate answers to real-world queries
+### More accurate answers to real-world queries
 
 GPT‑5 is significantly less likely to hallucinate than our previous models. With web search enabled on anonymized prompts representative of ChatGPT production traffic, GPT‑5’s responses are ~45% less likely to contain a factual error than GPT‑4o, and when thinking, GPT‑5’s responses are ~80% less likely to contain a factual error than OpenAI o3.
 
 We’ve particularly invested in making our models more reliable when reasoning on complex, open-ended questions. Accordingly, we’ve added new evaluations to stress‑test open-ended factuality. We measured GPT‑5’s hallucination rate when thinking on open-ended fact-seeking prompts from two public factuality benchmarks: [_LongFact_ ⁠(opens in a new window)](<https://arxiv.org/abs/2403.18802>) (concepts and objects) and [_FActScore_ ⁠(opens in a new window)](<https://arxiv.org/abs/2305.14251>). Across all of these benchmarks, “GPT‑5 thinking” shows a sharp drop in hallucinations—about six times fewer than o3—marking a clear leap forward in producing consistently accurate long-form content. Implementation and grading details for our evaluations on these benchmarks can be found in the [system card](</index/gpt-5-system-card/>).
 
-#### More honest responses
+### More honest responses
 
 Alongside improved factuality, GPT‑5 (with thinking) more honestly communicates its actions and capabilities to the user—especially for tasks which are impossible, underspecified, or missing key tools. In order to achieve a high reward during training, reasoning models may learn to lie about successfully completing a task or be overly confident about an uncertain answer. For example, to test this, we removed all the images from the prompts of the multimodal benchmark CharXiv, and found that OpenAI o3 still gave confident answers about non-existent images 86.7% of the time, compared to just 9% for GPT‑5.
 
@@ -229,7 +229,7 @@ Because of that, any attempt to open or use /dev/rfkill with this code will rais
 
 If you want to use `RfkillManager` to unblock Wi-Fi on your own machine, you can run the snippet above on a Linux system where you have sufficient permissions and `/dev/rfkill` is present. In this environment, I can show you how to call the code, but I cannot actually enable your Wi-Fi radio, as I can’t open or write to `/dev/rfkill` here.
 
-#### Safer, more helpful responses
+### Safer, more helpful responses
 
 GPT‑5 advances the frontier on safety. In the past, ChatGPT relied primarily on refusal-based safety training: based on the user’s prompt, the model should either comply or refuse. While this type of training works well for explicitly malicious prompts, it can struggle to handle situations where the user’s intent is unclear, or information could be used in benign or malicious ways. Refusal training is especially inflexible for dual-use domains such as virology, where a benign request can be safely completed at a high level, but might enable a bad actor if completed in detail.
 
@@ -237,7 +237,7 @@ For GPT‑5, we introduced a new form of safety-training — safe completions �
 
 Safety and helpfulness (given safe responses) across prompt intent types. GPT‑5 (with thinking) demonstrates both higher safety and greater helpfulness across all prompt intent types.
 
-#### Reducing sycophancy and refining style 
+### Reducing sycophancy and refining style 
 
 Overall, GPT‑5 is **less effusively agreeable** , uses **fewer unnecessary emojis** , and is more subtle and thoughtful in follow‑ups compared to GPT‑4o. It should feel less like “talking to AI” and more like **chatting with a helpful friend** with PhD‑level intelligence.
 
@@ -250,7 +250,7 @@ Earlier this year, we [_released an update to GPT‑4o_ ⁠](<https://openai.com
 
 In targeted sycophancy evaluations using prompts specifically designed to elicit sycophantic responses, GPT‑5 meaningfully reduced sycophantic replies (from 14.5% to less than 6%). At times, reducing sycophancy can come with reductions in user satisfaction, but the improvements we made cut sycophancy by more than half while also delivering other measurable gains, so users continue to have high-quality, constructive conversations—in line with our goal to [_help people use ChatGPT well_ ⁠](</index/how-we're-optimizing-chatgpt/>).
 
-#### More ways to customize ChatGPT 
+### More ways to customize ChatGPT 
 
 GPT‑5 is significantly better at instruction following, and we see a corresponding improvement in its ability to follow custom instructions.
 
@@ -260,7 +260,7 @@ All of these new personalities meet or exceed our bar on internal evals for redu
 
 We look forward to learning and iterating based on early feedback.
 
-#### Comprehensive safeguards for biological risk
+### Comprehensive safeguards for biological risk
 
 We decided to treat the “GPT‑5 thinking” model as High capability in the Biological and Chemical domain, and have implemented strong safeguards to sufficiently minimize the associated risks. We rigorously tested the model with our safety evaluations under our [_Preparedness Framework⁠_ ⁠](<https://openai.com/index/updating-our-preparedness-framework/>), completing 5,000 hours of red-teaming with partners like the CAISI and UK AISI. 
 

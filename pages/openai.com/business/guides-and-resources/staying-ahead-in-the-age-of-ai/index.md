@@ -54,7 +54,7 @@ Share
 
 ## Foreword
 
-#### Artificial intelligence is accelerating on every front
+### Artificial intelligence is accelerating on every front
 
 The pace of AI progress is unlike anything we’ve seen in technology. Early adopters are already growing revenue [1.5× faster than peers⁠(opens in a new window)](<https://web-assets.bcg.com/a5/37/be4ddf26420e95aa7107a35aae8d/bcg-wheres-the-value-in-ai.pdf>), yet many companies feel the pace is too fast to plan for effectively. One of the questions we hear most is how to keep up, enable employees to adopt AI, and build an AI-first organization. D rawing on the experience OpenAI has had with leaders at companies like Estée Lauder, Notion, the San Antonio Spurs, and BBVA, this playbook shares five practical steps - Align, Activate, Amplify, Accelerate, and Govern - to help your organization move quickly and confidently as AI continues to advance.
 
@@ -78,7 +78,7 @@ Adoption
 
 * * *
 
-#### What we'll cover in this guide
+### What we'll cover in this guide
 
 We’ve captured these 5 principles from conversations with our customers and we’ll share guidance, practical tips, and customer stories throughout.
 
@@ -103,13 +103,13 @@ By the end of this guide you should have clear next steps on how to keep ahead o
 
 Employees adopt change faster when they clearly see how new AI initiatives enhance their skills, enable more meaningful work, and contribute to their company’s competitive advantage. Leaders play a critical role in driving this alignment by explicitly communicating the purpose behind AI initiatives, demonstrating their commitment, and actively supporting employees throughout the transition.
 
-#### Alignment practices we’ve seen work
+### Alignment practices we’ve seen work
 
-###### Executive storytelling to set the vision
+##### Executive storytelling to set the vision
 
 Be specific on why AI adoption is key to your company's future, whether it's keeping pace with competitors, responding to evolving customer expectations, or sustaining growth. When employees hear a thoughtful “why,” it creates trust and clarity, helping them see how these changes align with their own work and goals.
 
-###### Set a company-wide AI adoption goal
+##### Set a company-wide AI adoption goal
 
 Define a measurable goal that connects AI adoption to everyday work. This could be new use cases, frequency of AI tool usage, or setting benchmarks for team experimentation, and incorporate these goals into company planning and KPIs. Communicate this goal through allhands or company updates to build momentum and signal that AI is part of how work gets done.
 
@@ -117,7 +117,7 @@ Example
 
 The CEO of Moderna set a clear expectation that employees should be using ChatGPT 20 times a day, reinforcing AI adoption as a core part of how work gets done across the company.
 
-###### Leaders role-modeling AI use
+##### Leaders role-modeling AI use
 
 Ask senior executives to regularly share how they use AI in their roles. Hearing directly from leadership about how AI helps them stay ahead of market trends or quickly analyze customer insights normalizes and encourages AI use and experimentation.
 
@@ -125,7 +125,7 @@ Example
 
 Our very own CFO, Sarah Friar, regularly shares how she uses ChatGPT and actively encourages her team to experiment, making them one of the most advanced AI adopters at OpenAI.
 
-###### Functional leader sessions
+##### Functional leader sessions
 
 Line-of-business leaders are best placed to connect AI initiatives to the realities of each team’s work. Encourage them to hold sessions that highlight relevant use cases, invite feedback, and answer questions. This helps employees connect AI to their everyday work and understand its value.
 
@@ -133,7 +133,7 @@ Tip
 
 Try out the GPT “ChatGPT Use Cases for Work” to identify ways that different teams can use generative AI in their roles.
 
-#### Reflection questions and how to get started
+### Reflection questions and how to get started
 
   * **Do employees understand why AI is critical to our strategy?** Run periodic pulse surveys to gauge employee clarity on AI strategy.
 
@@ -150,9 +150,9 @@ Try out the GPT “ChatGPT Use Cases for Work” to identify ways that different
 
 [Nearly half of employees say they lack the training and support needed to confidently adopt generative AI. Yet, they rank training as the single most important factor for successful adoption.⁠(opens in a new window)](<https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/superagency-in-the-workplace-empowering-people-to-unlock-ais-full-potential-at-work>) Companies that move fast invest in supporting their employees' learning. This means making space for experimentation, equipping teams with department specific training, and normalizing the need for learning.
 
-#### How to activate AI use at your organization
+### How to activate AI use at your organization
 
-###### Launch a structured AI skills program
+##### Launch a structured AI skills program
 
 Ask your Learning & Development team to create clear, role-specific training that moves employees from basic AI awareness to hands-on use, prioritizing skills that directly support real workflows rather than abstract concepts. For example, the San Antonio Spurs [boosted AI fluency from 14% to 85%⁠](<https://openai.com/index/san-antonio-spurs/>) by embedding training into the flow of daily work instead of treating it as a separate initiative.
 
@@ -160,7 +160,7 @@ Tip
 
 Join the [OpenAI Academy ⁠(opens in a new window)](<https://academy.openai.com/public/clubs/work-users-ynjqu/overview>)for access to training content and community forums
 
-###### Establish an AI champions network
+##### Establish an AI champions network
 
 Identify and train passionate employees to serve as internal AI mentors. These champions help colleagues become confident AI users through workshops, informal coaching, and spreading enthusiasm.
 
@@ -168,7 +168,7 @@ Tip
 
 Assign one owner to join OpenAI’s Champion Network (available to API and ChatGPT Enterprise customers) to access resources and ideas for launching and activating your internal network.
 
-###### Make experimentation routine
+##### Make experimentation routine
 
 Give employees regular time to explore AI tools. Try dedicating the first Friday of each month for teams to workshop how AI could improve their work. Pair this with no-code hackathons where cross-functional teams can prototype real solutions, and fast approvals to ensure promising ideas move forward.
 
@@ -176,11 +176,11 @@ Example
 
 Notion [used a focused AI hackathon to prototype what became Notion AI, now core to their product.⁠](<https://openai.com/index/notion/>) Many teams at OpenAI also share new use cases at weekly, or monthly meetings.
 
-###### Make it count
+##### Make it count
 
 Directly link AI engagement to performance evaluations and career growth. Use OKRs or similar mechanisms to set clear, role-specific goals, like identifying workflows to enhance with AI or piloting new use cases. Highlight meaningful AI contributions during promotion and recognition conversations, so employees see experimentation as central to their professional success.
 
-#### Reflection questions and how to get started
+### Reflection questions and how to get started
 
   * **Are employees actively using AI tools and leveraging learning opportunities?** Track Daily and Weekly active users, or GPT shares along with enrollment and completion rates for training programs. Provide support to teams with lower adoption.
 
@@ -197,9 +197,9 @@ Directly link AI engagement to performance evaluations and career growth. Use OK
 
 The fastest way to scale AI impact is to stop solving the same problems in silos. Amplifying progress means turning scattered wins into shared knowledge, documenting successful prompts, workflows, and use cases so other teams can reuse, improve, and build on them.
 
-#### Strategies to scale and amplify AI wins across your company
+### Strategies to scale and amplify AI wins across your company
 
-###### Launch a centralized AI knowledge hub
+##### Launch a centralized AI knowledge hub
 
 Build a single, easy-to-access hub (e.g., in Confluence, Notion, or SharePoint) where employees can find everything related to AI: training resources, hackathon dates, policies, guides, and best practices. A centralized hub reduces confusion, saves time, and prevents teams from reinventing the wheel.
 
@@ -207,7 +207,7 @@ Tip
 
 Use [ChatGPT Connectors⁠(opens in a new window)](<https://help.openai.com/en/articles/11487775-apps-in-chatgpt>) to surface this knowledge directly where employees work.
 
-###### Consistently share success stories
+##### Consistently share success stories
 
 Regularly highlight impactful AI projects, practical lessons, and easily replicable wins through monthly newsletters, internal webinars, or short segments in all-hands meetings. Showcase a balance of big breakthroughs and smaller, everyday successes. Share the steps teams took so others can easily apply these insights to their own workflows.
 
@@ -215,11 +215,11 @@ Tip
 
 Set up an “AI Newsletter” project in ChatGPT to quickly turn raw notes, updates, or success stories into a polished, consistent newsletter format each month.
 
-###### Build active internal communities
+##### Build active internal communities
 
 Establish dedicated communities (such as Slack or Teams groups, or an internal AI Center of Excellence) to promote peer-to-peer learning, realtime collaboration, and rapid sharing of insights. Lean on your AI champions to regularly encourage discussion, share useful resources, and keep the conversation active and engaging.
 
-###### Reinforce wins at the team level
+##### Reinforce wins at the team level
 
 Directly link AI engagement to performance evaluations and career growth. Use OKRs or similar mechanisms to set clear, role-specific goals, like identifying workflows to enhance with AI or piloting new use cases. Highlight meaningful AI contributions during promotion and recognition conversations, so employees see experimentation as central to their professional success.
 
@@ -227,7 +227,7 @@ Tip
 
 Encourage employees and leaders to publicly share their AI successes on social networks, creating positive feedback loops and recognition for teams demonstrating progress.
 
-#### Reflection questions and how to get started
+### Reflection questions and how to get started
 
   * **Is there a clear, consistent rhythm for sharing what’s working with AI?** Aim to share at least three new AI wins, use cases, or resources per month across the company, through newsletters, internal posts, or team meetings.
 
@@ -244,13 +244,13 @@ Encourage employees and leaders to publicly share their AI successes on social n
 
 In order to scale quickly, teams need flexible infrastructure, clear decision-making authority, and lightweight approvals. Accelerating means removing friction and ensuring good ideas move quickly from pilot to production.
 
-#### Tips to accelerate AI projects from pilot to production
+### Tips to accelerate AI projects from pilot to production
 
-###### Unblock access to AI tools and data
+##### Unblock access to AI tools and data
 
 Make sure teams can quickly access the data and AI tools they need to test and build. If it still takes weeks, or months to get approval for basic tooling or to pull clean data, your infrastructure is holding you back. Many companies are increasingly empowering employees to recommend the AI tools they find most valuable, accelerating adoption and productivity.
 
-###### Build a clear AI intake and prioritization process
+##### Build a clear AI intake and prioritization process
 
 Create a simple, transparent way for teams to submit AI project ideas, get quick feedback, and understand how priorities are set. This reduces confusion, avoids duplicated efforts, and ensures energy goes to the most promising use cases.
 
@@ -262,7 +262,7 @@ Tip
 
 Use ChatGPT to draft your intake form, project brief template, and prioritization rubric. Then use ChatGPT s reasoning capabilities to test potential projects against the rubric for an initial assessment.
 
-###### Stand up a cross functional AI council
+##### Stand up a cross functional AI council
 
 Create a small, executive-sponsored group with authority to unblock projects surfaced through your intake process, resolve cross-functional issues quickly, and fast-track approvals for high-potential initiatives. The council s role is to remove friction while keeping efforts aligned with broader company goals and ensuring that risk, compliance, and governance considerations are addressed early.
 
@@ -270,7 +270,7 @@ Example
 
 BBVA [formed a central AI network⁠](<https://openai.com/index/bbva/>) to review ideas, prioritize high-value use cases, and ensure smooth collaboration across departments. This approach has helped them move projects from proof-of-concept to production faster while keeping teams aligned on business impact.
 
-###### Reward success to speed up innovation
+##### Reward success to speed up innovation
 
 When specific teams create efficiencies or cost savings with AI, give them the resources or time to reinvest in further innovation. Recognizing and rewarding these wins not only accelerates progress but also signals that high-impact teams earn the freedom to keep pushing boundaries.
 
@@ -278,7 +278,7 @@ Example
 
 Promega democratized AI access and then encouraged consistent usage. [They then tracked usage to identify and invest in high usage teams and encourage innovation.⁠](<https://openai.com/index/promega/>)
 
-#### Reflection questions and how to get started
+### Reflection questions and how to get started
 
   * **Are teams able to move quickly from idea to pilot to production?** Track time-to-production for AI projects. Review stuck or stalled efforts monthly to identify systemic blockers.
 
@@ -295,9 +295,9 @@ Promega democratized AI access and then encouraged consistent usage. [They then 
 
 Moving fast doesn’t mean ignoring risks. It means having clear, practical guidelines so teams can move quickly within established safeguards. Good governance should support rapid action, not create new roadblocks.
 
-#### How to embed responsible AI practices without slowing teams down
+### How to embed responsible AI practices without slowing teams down
 
-###### Create and share a simple responsible AI playbook
+##### Create and share a simple responsible AI playbook
 
 Document practical, easy-to-follow guidelines that help teams use AI responsibly, and make decisions consistent with those guidelines instead of needing manual compliance reviews each time. Focus on what’s “safe to try” and what requires escalation.
 
@@ -305,7 +305,7 @@ Tip
 
 Create a custom GPT with knowledge of your responsible AI playbook so employees can ask quick, policy-related questions in plain language without needing to ping compliance for every minor decision. You can also give the GPT ground rules to follow, such as to suggest employees reach out to their compliance team if the question is sensitive or significant.
 
-###### Run regular reviews of your AI practices
+##### Run regular reviews of your AI practices
 
 Hold lightweight quarterly audits of your AI systems, processes, and governance guidelines. Focus on whether current protocols still make sense, both in protecting the business and enabling teams to move fast.
 
@@ -313,7 +313,7 @@ Tip
 
 Use the ChatGPT deep research feature to stay current on evolving AI governance standards. Ask it to review recent industry guidance, regulatory updates, and best practices, then summarize what’s most relevant to your organization.
 
-#### Reflection questions and how to get started
+### Reflection questions and how to get started
 
   * **Are our governance protocols clear, practical, and consistently applied?** Use short check-ins or project reviews to confirm teams can apply “safe-to-try” guidelines without additional oversight. Track where clarification or support is repeatedly needed.
 
@@ -330,25 +330,25 @@ Use the ChatGPT deep research feature to stay current on evolving AI governance 
 
 AI adoption is moving faster than most leaders ever imagined. Staying ahead is about creating the right conditions for your people and teams to adapt with confidence. The companies that will thrive are the ones that treat AI not just as a tool, but as a new way of working. 
 
-#### Here are the five essentials to keep in focus:
+### Here are the five essentials to keep in focus:
 
-###### Align
+##### Align
 
 Start with clarity of purpose. Show your teams why AI matters, set company-wide goals, and role-model adoption at every level. Alignment builds trust and helps employees connect their daily work to your broader AI strategy.
 
-###### Activate
+##### Activate
 
 Make learning real and practical. Invest in structured training, create AI champions, and give people room to experiment. When employees see AI as part of their growth and success, adoption becomes natural.
 
-###### Amplify
+##### Amplify
 
 Don’t let wins live in silos. Share success stories widely, build knowledge hubs, and create active communities so everyone can learn from what’s working. Momentum spreads fastest when people see peers succeeding.
 
-###### Accelerate
+##### Accelerate
 
 Remove friction. Make it easy for teams to access tools, submit ideas, and move projects from pilot to production. Empower decision-making and reward teams who push ideas forward.
 
-###### Govern
+##### Govern
 
 Balance speed with responsibility. Clear, lightweight guidelines ensure progress without unnecessary bottlenecks. When governance is practical and evolving, it protects the business while keeping innovation alive.
 

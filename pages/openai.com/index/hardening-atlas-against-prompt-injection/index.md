@@ -58,7 +58,7 @@ In this post, we explain how prompt-injection risk can arise for web-based agent
 
 We view prompt injection as a long-term AI security challenge, and we’ll need to continuously strengthen our defenses against it (much like ever-evolving online scams that target humans). Our latest rapid response cycle is showing early promise as a critical tool on that journey: **we’re discovering novel attack strategies internally before they show up in the wild**. Our long-term vision is to fully leverage (1) our white-box access to our models, (2) deep understanding of our defenses, and (3) compute scale to stay ahead of external attackers—finding exploits earlier, shipping mitigations faster, and continuously tightening the loop. Combined with frontier research on new techniques to address prompt injection and increased investment in other security controls, this compounding cycle can make attacks increasingly difficult and costly, materially reducing real-world prompt-injection risk. Ultimately, our goal is for you to be able to trust a ChatGPT agent to use your browser the way you’d trust a highly competent, security-aware colleague or friend.
 
-#### Prompt injection as an open challenge for agent security
+### Prompt injection as an open challenge for agent security
 
 A prompt injection attack targets AI agents by embedding malicious instructions into content the agent processes. Those instructions are crafted to override or redirect the agent’s behavior—hijacking it into following an attacker’s intent, rather than the user’s.
 
@@ -70,7 +70,7 @@ This is just one specific scenario. The same generality that makes browser agent
 
 We’ve made progress defending against prompt injection through multiple layers of safeguards, as we shared in [_an earlier post_ ⁠](<https://openai.com/index/prompt-injections/>). However, prompt injection remains an open challenge for agent security, and one we expect to continue working on for years to come.
 
-#### Automated prompt injection attack discovery through end-to-end and high-compute reinforcement learning
+### Automated prompt injection attack discovery through end-to-end and high-compute reinforcement learning
 
 To strengthen our defenses, we’ve been continuously searching for novel prompt injection attacks against agent systems in production. Finding these attacks is a necessary prerequisite for building robust mitigations: it helps us understand real-world risk, exposes gaps in our defenses, and drives concrete patches.
 
@@ -115,7 +115,7 @@ The nature of prompt injection makes deterministic security guarantees challengi
 
 We're sharing this demo to help users and researchers better understand the nature of these attacks—and how we are actively defending against them. We believe this represents the frontier of what automated red teaming can accomplish, and we are extremely excited to continue our research. 
 
-#### Hardening ChatGPT Atlas with a proactive rapid response loop
+### Hardening ChatGPT Atlas with a proactive rapid response loop
 
 Our automated red teaming is driving a proactive rapid response loop: when the automated attacker discovers a new class of successful prompt injection attacks, it immediately creates a concrete target for improving our defenses.
 
@@ -125,7 +125,7 @@ Our automated red teaming is driving a proactive rapid response loop: when the a
 
 **Responding to active attacks.** This loop can also help better respond to active attacks in the wild. As we look across our global footprint for potential attacks, we can take the techniques and tactics we observe external adversaries using, feed them into this loop, emulate their activity, and drive defensive change across our platform. 
 
-#### Outlook: our long-term commitment to agent security
+### Outlook: our long-term commitment to agent security
 
 Strengthening our ability to red team agents and using our most capable models to automate parts of that work—helps make the Atlas browser agent more robust by scaling the discovery-to-fix loop. This hardening effort reinforces a familiar lesson from security: a well-worn path to stronger protection is to continuously pressure-test real systems, react to failures, and ship concrete fixes.
 
@@ -135,7 +135,7 @@ Agent mode in ChatGPT Atlas is powerful—and it also expands the security threa
 
 We’ll continue investing across research and deployment, developing better automated red teaming methods, rolling out layered mitigations, and iterating quickly as we learn. We’ll also share what we can with the broader community.
 
-#### Recommendations for using agents safely
+### Recommendations for using agents safely
 
 While we continue to strengthen Atlas at the system level, there are steps users can take to reduce risk when using agents. 
 

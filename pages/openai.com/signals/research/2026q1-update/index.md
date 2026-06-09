@@ -60,7 +60,7 @@ The number of messages from all age groups increased with ChatGPT’s [_overall 
 
 We [_rank countries_ ⁠](<https://openai.com/signals/data/>) by the number of messages sent per capita to track relative country-level usage patterns. Many of the largest gains in rank this quarter came from countries outside the most established markets. The 10 fastest-rising countries point to a broadening pattern of adoption across Latin America and the Caribbean, Asia-Pacific, and Africa. These changes reflect relative movement, not total usage.
 
-#### Countries with the largest increases in ChatGPT messages per capita ranking
+### Countries with the largest increases in ChatGPT messages per capita ranking
 
 **Country**| **2025Q4 Rank**| **2026Q1 Rank**| **Change**  
 ---|---|---|---  

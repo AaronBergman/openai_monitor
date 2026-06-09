@@ -61,7 +61,7 @@ Since we launched Codex in April 2025, the way developers work with agents has f
 
 This new way of building coupled with new model capabilities demands a different kind of tool, which is why we are introducing the Codex desktop app, a command center for agents.
 
-#### Work with multiple agents in parallel
+### Work with multiple agents in parallel
 
 The Codex app provides a focused space for multi-tasking with agents. Agents run in separate threads organized by projects, so you can seamlessly switch between tasks without losing context. The app lets you review the agent’s changes in the thread, comment on the diff, and even open it in your editor to make manual changes.
 
@@ -69,7 +69,7 @@ It also includes built-in support for worktrees, so multiple agents can work on 
 
 The app picks up your session history and configuration from the Codex CLI and IDE extension, so you can immediately start using it with your existing projects.
 
-#### Go beyond code generation with skills
+### Go beyond code generation with skills
 
 Codex is evolving from an agent that writes code into one that uses code to get work done on your computer. With [skills⁠(opens in a new window)](<https://agentskills.io/home>), you can easily extend Codex beyond code generation to tasks that require gathering and synthesizing information, problem-solving, writing, and more.
 
@@ -110,7 +110,7 @@ Managing your issue backlog with Linear
 
 When you create a new skill in the app, Codex can use it wherever you work: in the app, CLI or in your IDE extension. You can also check skills into your repository to make them available to your entire team. Read more about sharing skills using team config [here⁠(opens in a new window)](<https://developers.openai.com/codex/enterprise/admin-setup#team-config>).
 
-#### Delegate repetitive work with Automations
+### Delegate repetitive work with Automations
 
 With the Codex app, you can also set up Automations that let Codex work in the background on an automatic schedule. Automations combine instructions with optional skills, running on a schedule you define. When an Automation finishes, the results land in a review queue so you can jump back in and continue working if needed.
 
@@ -118,7 +118,7 @@ At OpenAI, we’ve been using Automations to handle the repetitive but important
 
 Setting up an automation to periodically create new skills
 
-#### A personality that fits how you work
+### A personality that fits how you work
 
 Developers have different preferences in how they work with an agent. Some want a blunt, execution-focused partner; others prefer more communicative, engaging interactions. Codex now lets developers choose between two personalities—a terse, pragmatic style and a more conversational, empathetic one, without any change in capabilities, to fit the approach you like the most. Just use the /personality command in the app, CLI, and IDE extension.
 

@@ -68,7 +68,7 @@ Executive ask, initiative docs, KPI dashboards, project tracker, financial model
   
 **Suggested plugins:** Google Drive, Slack, Gmail, Documents, Spreadsheets, Presentations
 
-#### How it works
+### How it works
 
   1. Codex reviews the initiative context, KPI movement, project status, financial model, and stakeholder updates.
   2. It identifies what changed, likely causes, execution gaps, risks, options, and owners.
@@ -76,11 +76,11 @@ Executive ask, initiative docs, KPI dashboards, project tracker, financial model
 
 
 
-#### Starter prompt
+### Starter prompt
 
 Diagnose whether [initiative/program] is off track. Use the executive ask, initiative docs, KPI dashboards, program tracker, financial model, meeting notes, stakeholder updates, and any related context I provide. Create an executive-ready brief with what changed, likely causes, options, tradeoffs, risks, owners, recommendation, and decision ask. Separate confirmed facts from interpretation and flag anything that needs owner review.
 
-##### Real-world example
+#### Real-world example
 
  _Diagnose whether Acme’s pricing rollout is off track. Use the executive ask, initiative docs, KPI dashboards, program tracker, financial model, meeting notes, pricing rollout discussion notes, and any related context I provide. Create an executive-ready brief with what changed, likely causes, options, tradeoffs, risks, owners, recommendation, and decision ask. Separate sourced facts from interpretation._
 
@@ -94,7 +94,7 @@ Project tracker, initiative docs, KPI changes, prior briefs, owner notes, decisi
   
 **Suggested plugins:** Google Drive, Slack, Gmail, Documents, Spreadsheets
 
-#### How it works
+### How it works
 
   1. Codex reviews the latest tracker, initiative materials, KPI changes, prior updates, owner notes, and decision history.
   2. It identifies what changed, what is blocked, which decisions are open, and which items are stale.
@@ -102,11 +102,11 @@ Project tracker, initiative docs, KPI changes, prior briefs, owner notes, decisi
 
 
 
-#### Starter prompt
+### Starter prompt
 
 Prepare the [weekly/monthly] strategic initiative update for [initiative]. Use the project tracker, initiative docs, KPI changes, prior briefs, owner notes, decision log, stakeholder threads, and any related context I provide. Draft a leadership-ready update with progress, deltas, risks, blockers, decisions needed, next actions, and stale items to chase. Keep material claims grounded in the source context.
 
-##### Real-world example
+#### Real-world example
 
  _Prepare this week’s strategic initiative update for Acme’s pricing rollout. Use the project tracker, pricing rollout docs, KPI changes, prior briefs, owner notes, decision log, stakeholder discussion notes, and any related context I provide. Draft a strategy brief plus a stakeholder-ready update with deltas, risks, blockers, decisions needed, next actions, and stale items to chase._
 
@@ -120,7 +120,7 @@ Decision memo, source analysis, open comments, financial model, KPI dashboard, s
   
 **Suggested plugins:** Google Drive, Slack, Gmail, Documents, Spreadsheets, Presentations, Google Calendar
 
-#### How it works
+### How it works
 
   1. Codex reviews the decision memo, supporting analysis, comments, models, dashboards, meeting notes, and open questions.
   2. It organizes the decision around recommendation, rationale, options, tradeoffs, assumptions, risks, and unresolved issues.
@@ -128,11 +128,11 @@ Decision memo, source analysis, open comments, financial model, KPI dashboard, s
 
 
 
-#### Starter prompt
+### Starter prompt
 
 Prepare a leadership decision packet for [decision/topic]. Use the decision memo, source analysis, open comments, financial model, KPI dashboard, stakeholder debate, prior meeting notes, and unresolved questions I provide. Create a pre-read with recommendation, rationale, options, tradeoffs, assumptions, risks, decision log, and open questions. Flag claims, numbers, or assumptions that need owner confirmation.
 
-##### Real-world example
+#### Real-world example
 
  _Prepare the May 15 leadership decision packet for Acme’s support model change. Use the decision memo, source analysis, open comments, financial model, KPI dashboard, support model debate notes, prior meeting notes, and open questions I provide. Create a pre-read with recommendation, rationale, options, tradeoffs, assumptions, risks, decision log, and unresolved questions._
 
@@ -146,7 +146,7 @@ Progress outline, prior board or company update, initiative trackers, metric sna
   
 **Suggested plugins:** Google Drive, Slack, Gmail, Documents, Spreadsheets, Presentations
 
-#### How it works
+### How it works
 
   1. Codex reviews the update outline, prior materials, initiative trackers, metric snapshots, leadership notes, and source docs.
   2. It identifies the through-line, proof points, risks, watch items, and next milestones.
@@ -154,11 +154,11 @@ Progress outline, prior board or company update, initiative trackers, metric sna
 
 
 
-#### Starter prompt
+### Starter prompt
 
 Create the [board/company/executive] progress update for [period/topic]. Use the progress outline, prior update, initiative trackers, metric snapshots, leadership notes, source docs, owner commentary, and any related context I provide. Identify the through-line, draft slide copy or memo sections, add proof points, and call out risks, watch items, and next milestones. Flag any claims or numbers that need owner confirmation.
 
-##### Real-world example
+#### Real-world example
 
  _Create Acme’s Q2 progress update. Use “Q2 Progress Outline,” the prior board deck, initiative trackers, metric snapshots, leadership notes, key background docs, and any related context I provide. Identify the through-line, draft slide copy or memo sections, add proof points, and call out risks, watch items, and next milestones. Flag any claims that need owner confirmation._
 
@@ -172,7 +172,7 @@ Financial model, KPI dashboard, planning docs, market context, stakeholder notes
   
 **Suggested plugins:** Google Drive, Slack, Gmail, Documents, Spreadsheets, Presentations
 
-#### How it works
+### How it works
 
   1. Codex reviews the model, KPI context, planning docs, stakeholder notes, operational data, and decision criteria.
   2. It stress-tests assumptions, compares scenarios, and maps tradeoffs across cost, timing, risk, ownership, and impact.
@@ -180,11 +180,11 @@ Financial model, KPI dashboard, planning docs, market context, stakeholder notes
 
 
 
-#### Starter prompt
+### Starter prompt
 
 Compare [number] paths for [decision/topic]. Use the financial model, KPI dashboard, planning docs, market context, stakeholder notes, operational data, decision criteria, and any related context I provide. Stress-test assumptions, draft scenarios, create a prioritization matrix, and recommend a path. Include cost, timing, risk, ownership, customer impact, and assumptions leadership should inspect before deciding.
 
-##### Real-world example
+#### Real-world example
 
  _Compare three paths for Acme’s customer support model. Use the financial model, KPI dashboard, planning docs, market context, stakeholder notes, support volume data, and any related context I provide. Stress-test assumptions, draft scenarios, create a prioritization matrix, and recommend a path. Include cost, timing, risk, ownership, customer impact, and assumptions leadership should inspect._
 

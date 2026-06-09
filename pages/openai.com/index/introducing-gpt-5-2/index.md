@@ -87,7 +87,7 @@ Overall, GPT‑5.2 brings significant improvements in general intelligence, long
 
 ## Model performance
 
-#### Economically valuable tasks 
+### Economically valuable tasks 
 
 GPT‑5.2 Thinking is the best model yet for real-world, professional use. On [GDPval⁠](<https://openai.com/index/gdpval/>), an eval measuring well-specified knowledge work tasks across 44 occupations, GPT‑5.2 Thinking sets a new state-of-the-art score, and is our first model that performs at or above a human expert level. Specifically, GPT‑5.2 Thinking beats or ties top industry professionals on 70.9% of comparisons on GDPval knowledge work tasks, according to expert human judges. These tasks include making presentations, spreadsheets, and other artifacts. GPT‑5.2 Thinking produced outputs for GDPval tasks at >11x the speed and <1% the cost of expert professionals, suggesting that when paired with human oversight, GPT‑5.2 can help with professional work. Speed and cost estimates are based on historical metrics; speed in ChatGPT may vary.
 
@@ -107,7 +107,7 @@ Workforce plannerCap tableProject management
 
 To use the new spreadsheet and presentation capabilities in ChatGPT, you must be on a Plus, Pro, Business, or Enterprise plan and select either **GPT‑5.2 Thinking** or **Pro**. Complex generations can take many minutes to produce.
 
-#### Coding
+### Coding
 
 GPT‑5.2 Thinking sets a new state of the art of 55.6% on SWE-Bench Pro, a rigorous evaluation of real-world software engineering. Unlike SWE-bench Verified, which only tests Python, SWE-Bench Pro tests four languages and aims to be more contamination-resistant, challenging, diverse, and industrially relevant.
 
@@ -135,7 +135,7 @@ WindsurfWarpJetBrainsAugment CodeClineCharlie LabsKiloAzad
 
 Jeff Wang, CEO, Windsurf
 
-#### Factuality
+### Factuality
 
 GPT‑5.2 Thinking hallucinates less than GPT‑5.1 Thinking. On a set of de-identified queries from ChatGPT, responses with errors were 30%rel less common. For professionals, this means fewer mistakes when using the model for research, writing, analysis, and decision support—making the model more dependable for everyday knowledge work.
 
@@ -143,7 +143,7 @@ _Reasoning effort was set to the maximum available and a search tool was enabled
 
 Like all models, GPT‑5.2 Thinking is imperfect. For anything critical, double check its answers.
 
-#### Long context
+### Long context
 
 GPT‑5.2 Thinking sets a new state of the art in long-context reasoning, achieving leading performance on OpenAI MRCRv2—an evaluation that tests a model’s ability to integrate information spread across long documents. On real-world tasks like deep document analysis, which require related information across hundreds of thousands of tokens, GPT‑5.2 Thinking is substantially more accurate than GPT‑5.1 Thinking. In particular, it’s the first model we’ve seen that achieves near 100% accuracy on the 4-needle MRCR variant (out to 256k tokens).
 
@@ -153,7 +153,7 @@ _In_[ _OpenAI-MRCR⁠_ ⁠(opens in a new window)](<https://huggingface.co/datas
 
 For tasks that benefit from thinking beyond the maximum context window, GPT‑5.2 Thinking is compatible with our new Responses `/compact` endpoint, which extends the model’s effective context window. This lets GPT‑5.2 Thinking tackle more tool-heavy, long-running workflows that would otherwise be limited by context length. Read more in our [API documentation⁠(opens in a new window)](<https://platform.openai.com/docs/api-reference/responses/compact>).
 
-#### Vision
+### Vision
 
 GPT‑5.2 Thinking is our strongest vision model yet, cutting error rates roughly in half on chart reasoning and software interface understanding.
 
@@ -175,7 +175,7 @@ Compared to previous models, GPT‑5.2 Thinking has a stronger grasp of how elem
 
 ## 
 
-#### Tool calling
+### Tool calling
 
 GPT‑5.2 Thinking achieves a new state of the art of 98.7% on Tau2-bench Telecom, demonstrating its ability to reliably use tools across long, multi-turn tasks.
 
@@ -199,7 +199,7 @@ My flight from Paris to New York was delayed, and I missed my connection to Aust
 
 ## 
 
-#### Science & math
+### Science & math
 
 One of our hopes for AI is that it will accelerate scientific research for the benefit of everyone. Toward this, we’ve been working with and listening to scientists to see how AI can speed up their work, and last month we shared some early collaborative experiments [here⁠](<https://openai.com/index/accelerating-science-gpt-5/>).
 
@@ -213,7 +213,7 @@ _In_[ _FrontierMath_ ⁠(opens in a new window)](<https://epoch.ai/frontiermath>
 
 We're beginning to see AI models meaningfully accelerate progress in math and science in tangible ways. For example, in [recent work⁠](<https://openai.com/index/gpt-5-2-for-science-and-math/>) with GPT‑5.2 Pro, researchers explored an open question in statistical learning theory. In a narrow, well-specified setting, the model proposed a proof that was subsequently verified by the authors and reviewed with external experts, illustrating how frontier models can assist mathematical research under close human oversight.
 
-#### ARC-AGI 2
+### ARC-AGI 2
 
 On ARC-AGI-1 (Verified), a benchmark designed to measure general reasoning ability, GPT‑5.2 Pro is the first model to cross the 90% threshold, improving from [87%⁠(opens in a new window)](<https://arcprize.org/blog/oai-o3-pub-breakthrough>) by o3‑preview last year while reducing the cost of achieving that performance by roughly 390×.
 
@@ -249,7 +249,7 @@ We’re in the early stages of rolling out our [age prediction model⁠](<https:
 
 GPT‑5.2 is one step in an ongoing series of improvements, and we’re far from done. While this release delivers meaningful gains in intelligence and productivity, we know there are areas where people want more. In ChatGPT, we’re working on known issues like over-refusals, while continuing to raise the bar on safety and reliability overall. These changes are complex, and we’re focused on getting them right.
 
-#### Mental health evaluations
+### Mental health evaluations
 
   
 | **GPT‑5.2  
@@ -266,7 +266,7 @@ Self-harm| 0.938| 0.925| 0.963| 0.937
 
 In ChatGPT, we’ll begin rolling out GPT‑5.2 (Instant, Thinking, and Pro) today, starting with paid plans (Plus, Pro, Go, Business, Enterprise). We deploy GPT‑5.2 gradually to keep ChatGPT as smooth and reliable as we can; if you don’t see it at first, please try again later. In ChatGPT, GPT‑5.1 will still be available to paid users for three months under legacy models, after which we will sunset GPT‑5.1.
 
-#### Model naming across ChatGPT & API
+### Model naming across ChatGPT & API
 
 **ChatGPT**| **API**  
 ---|---  
@@ -280,7 +280,7 @@ GPT‑5.2 is priced at $1.75/1M input tokens and $14/1M output tokens, with a 90
 
 While ChatGPT subscription pricing remains the same, in the API GPT‑5.2 is priced higher per token than GPT‑5.1 because it is a more capable model. It’s still priced below other frontier models, so people can continue to use it deeply in their daily work and core applications.
 
-#### Price per million tokens
+### Price per million tokens
 
 **Model**| **Input**| **Cached input**| **Output**  
 ---|---|---|---  
@@ -299,7 +299,7 @@ GPT‑5.2 was built in collaboration with our long-standing partners NVIDIA and 
 
 ## Appendix
 
-#### Detailed benchmarks
+### Detailed benchmarks
 
 Below, we report comprehensive benchmark scores for GPT‑5.2 Thinking, along with a subset for GPT‑5.2 Pro.
 

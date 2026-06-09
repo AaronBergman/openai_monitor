@@ -69,7 +69,7 @@ Retrieval systemsAPI platformInfrastructure services
 
 Performance Engineer, Retrieval Systems
 
-###### Try using Codex for code understanding with these sample prompts:
+##### Try using Codex for code understanding with these sample prompts:
 
   * Where is the authentication logic implemented in this repo?
 
@@ -96,7 +96,7 @@ ChatGPT web ChatGPT Enterprise
 
 Backend Engineer, ChatGPT Web
 
-###### Try using Codex for refactoring and migrations with these sample prompts:
+##### Try using Codex for refactoring and migrations with these sample prompts:
 
   * **Split this file into separate modules by concern and generate tests for each one.**
 
@@ -121,7 +121,7 @@ API ReliabilityModel Serving
 
 Infrastructure Engineer, API Reliability
 
-###### Try using Codex for performance optimization with these sample prompts:
+##### Try using Codex for performance optimization with these sample prompts:
 
   * **Optimize this loop for memory efficiency and explain why your version is faster.**
 
@@ -148,7 +148,7 @@ ChatGPT DesktopPayments & Billing
 
 Frontend Engineer, ChatGPT Desktop
 
-###### Try using Codex for performance optimization with these sample prompts:
+##### Try using Codex for performance optimization with these sample prompts:
 
   * **Write unit tests for this function, including edge cases and failure paths.**
 
@@ -175,7 +175,7 @@ ChatGPT EnterpriseInternal Tools
 
 Product Engineer, ChatGPT Enterprise
 
-###### Try using Codex for increasing development velocity with these sample prompts:
+##### Try using Codex for increasing development velocity with these sample prompts:
 
   * **Scaffold a new API route for POST /events with basic validation and logging.**
 
@@ -197,7 +197,7 @@ ChatGPT APIInfrastructure Observability
 
 Backend Engineer, ChatGPT API
 
-###### Try using Codex for staying in flow with these sample prompts:
+##### Try using Codex for staying in flow with these sample prompts:
 
 ## Use case 7: Exploration and ideation
 
@@ -211,7 +211,7 @@ ChatGPT DesktopRetrieval systems
 
 Product Engineer, ChatGPT Desktop
 
-###### Try using Codex for exploration and ideation with these sample prompts:
+##### Try using Codex for exploration and ideation with these sample prompts:
 
   * **How would this work if the system were event-driven instead of request/response?**
 
@@ -228,27 +228,27 @@ Product Engineer, ChatGPT Desktop
 
 Codex works best when it’s given structure, context, and room to iterate. Here are some of the habits OpenAI teams are cultivating to get consistent value out of it in day-to-day work.
 
-#### Start with Ask Mode
+### Start with Ask Mode
 
 For large changes, start by prompting Codex for an implementation plan using Ask mode, which then becomes the input for follow-up prompts when you switch to Code Mode. This two-step flow keeps Codex grounded and helps avoid errors in its output. Codex works best with well-scoped tasks that would take you or a teammate about an hour to complete or a few hundred lines of code to implement. As models improve, expect the size of the tasks it can take on to increase.
 
-#### Iteratively improve Codex’s development environment
+### Iteratively improve Codex’s development environment
 
 Setting a startup script, environment variables, and internet access significantly reduces Codex’s error rate. As you run tasks, look for build errors that can be corrected in Codex’s environment configuration. This may take a few iterations, but gives significant efficiency gains in the long run.
 
-#### Structure your prompt as if you are writing a Github Issue
+### Structure your prompt as if you are writing a Github Issue
 
 Codex responds better when prompts mirror how you’d describe a change in a PR or issue. That means including file paths, component names, diffs, and doc snippets when relevant. Prompting with patterns like “Implement this the same way it’s done in [module X]” improves results.
 
-#### Use the Codex task queue as a lightweight backlog
+### Use the Codex task queue as a lightweight backlog
 
 Fire off tasks to capture tangential ideas, partial work, or incidental fixes. There’s no pressure to generate a full PR in one go. Codex works well as a staging area you can return to when you’re back in focus.
 
-#### Use AGENTS.md to supply persistent context
+### Use AGENTS.md to supply persistent context
 
 Maintain an AGENTS.md file to help Codex operate more effectively in your repo across prompts. These files typically include naming conventions, business logic, known quirks, or dependencies Codex can’t infer from the code alone. Learn more on structuring your AGENTS.md file in the docs.
 
-#### Leverage “Best of N” to improve output
+### Leverage “Best of N” to improve output
 
 The Best-of-N feature lets you simultaneously generate multiple responses for a single task to quickly explore multiple solutions and pick the best one. For more complicated tasks, you can review several iterations and combine parts of different responses to get a stronger result.
 
@@ -268,19 +268,17 @@ Learn how we help companies build scalable, responsible AI strategies.
 
 ## Keep reading
 
-![oai endava 1x1](https://images.ctfassets.net/kftzwdyauwt9/6CJMPcvmo9FlUZMnAetSGl/9686223d1bd7d90b9926c0bedd4e8fb9/oai_endava_1x1.png?w=3840&q=90&fm=webp)
+![Confidential submission of draft S-1 to the SEC > cover image](https://images.ctfassets.net/kftzwdyauwt9/36doI12YCwUtp1hzD4d8bj/84e67c565f39e7d5ca3ee011efa69756/confidential-submission-of-draft-s-1-to-the-sec-1x1.png?w=3840&q=90&fm=webp)
 
-[How Endava is redesigning software delivery around AI agentsJun 4, 2026](</index/endava-frontiers/>)
+[Confidential submission of draft S-1 to the SECCompanyJun 8, 2026](</index/openai-submits-confidential-s-1/>)
 
-![Art Card 1080x1080 \(3\)](https://images.ctfassets.net/kftzwdyauwt9/3JLNH7ejJFnxLmX2LpzoKD/19f9e3c4d36cc9d677ba88e842ad2db2/Art_Card_1080x1080__4_.png?w=3840&q=90&fm=webp)
+![Built for broad benefit > cover](https://images.ctfassets.net/kftzwdyauwt9/bEe28mW3dEOj9pKJsPp2u/13f7bed9e86b0667ba924479d62f98e4/Art_Card_1080x1080_1.png?w=3840&q=90&fm=webp)
 
-Better memory for a more helpful ChatGPT
+[Built to benefit everyone: our planCompanyJun 8, 2026](</index/built-to-benefit-everyone-our-plan/>)
 
-[Dreaming: Better memory for a more helpful ChatGPTResearchJun 4, 2026](</index/chatgpt-memory-dreaming/>)
+![Economic research forum > art card ](https://images.ctfassets.net/kftzwdyauwt9/2DpNjvjdVuCrLKNOrFrWJ7/1aefe1cbe252bcd9ba42035469fc8a0f/art_card.png?w=3840&q=90&fm=webp)
 
-![oai 1x1 Biodefense in the Intelligence Age](https://images.ctfassets.net/kftzwdyauwt9/6A4rrCBs9rrlbzm9JWIvSi/8a4ae56849fcd0b16e90b59b8babc613/oai_1x1_Biodefense_in_the_Intelligence_Age.png?w=3840&q=90&fm=webp)
-
-[Biodefense in the Intelligence AgeGlobal AffairsJun 4, 2026](</index/biodefense-in-the-intelligence-age/>)
+[Introducing the OpenAI Economic Research ExchangeCompanyJun 8, 2026](</index/economic-research-exchange/>)
 
 Research
 

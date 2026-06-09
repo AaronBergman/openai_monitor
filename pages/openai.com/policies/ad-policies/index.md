@@ -90,19 +90,19 @@ These standards apply to all ad assets, including copy, images or video, and lan
 
 The following standards apply to all ads regardless of category. An ad that violates these standards is prohibited even if the product category is otherwise allowed.
 
-#### Misleading or deceptive ads
+### Misleading or deceptive ads
 
 Ads must be truthful and not misleading, including unfounded claims about capabilities, pricing, outcomes, affiliations, or comparisons with other products or companies. Ads that exaggerate results, use false endorsements, or otherwise deceive users are prohibited regardless of category.
 
-#### Obscenities and offensive language
+### Obscenities and offensive language
 
 Ads must use professional and non-offensive language and imagery. Ads containing obscene, vulgar, or shocking language—including in product names, event titles, or branding—may be rejected even if the underlying category is otherwise allowed.
 
-#### Discrimination, harassment, and bullying 
+### Discrimination, harassment, and bullying 
 
 Ads must not include derogatory, defamatory, or exclusionary content, including slurs or language that targets individuals or groups based on protected characteristics.
 
-#### Interface imitation
+### Interface imitation
 
 Ads must be clearly distinguishable from the ChatGPT product experience. We may remove or require modification of ads that imitate the appearance, functionality, or voice of ChatGPT or other OpenAI interfaces in a way that could reasonably cause users to believe the ad is part of the product.
 
@@ -112,21 +112,21 @@ OpenAI reserves the right to refuse to display ad content and website links for 
 
 Ads must comply with [_OpenAI’s Usage Policies_ ⁠](<https://openai.com/policies/usage-policies/>). In addition, ChatGPT applies stricter standards to advertising in certain regulated and sensitive categories to protect user trust and brand safety.
 
-#### Adult content
+### Adult content
 
 Ads for adult content or services are currently disallowed. This includes dating apps, sexual services or products, adult companion apps or websites, adult-themed events, full nudity, sexual health products, and assets featuring sexualized poses or explicit/racy imagery.
 
 Ads for lingerie, underwear, or swimwear may be allowed when presented in a standard fashion or retail context and not framed to provoke sexual arousal.
 
-#### Alcohol & tobacco
+### Alcohol & tobacco
 
 Ads that promote or facilitate the sale, use, or consumption of alcohol or tobacco are currently disallowed, including marketing for alcoholic beverages (products over 0.5% ABV), cigarettes, vaping, or nicotine products, as well as alcohol or tobacco-focused activities. Incidental references are acceptable only when alcohol is not the focus and the ad otherwise fits within “Safe” eligibility.
 
-#### Counterfeit goods
+### Counterfeit goods
 
 Ads promoting non-genuine products that copy or substantially imitate another brand’s trademark, logo, name, or distinctive features in order to appear genuine. This includes the promotion, sale, solicitation, or facilitation of knockoffs, replicas, imitations, or pirated products without authorization.
 
-#### Financial services
+### Financial services
 
 Ads for financial products and services are restricted. At this time, we may allow ads from approved financial advertisers.
 
@@ -134,51 +134,51 @@ Additionally, financial tools that do not promote financial products or transact
 
 Ads for cryptocurrency, credit repair, debt settlement, and debt assistance services are disallowed. 
 
-#### Gambling
+### Gambling
 
 Ads promoting products or services that involve wagering money on games of chance, skill, or uncertain outcomes are currently disallowed. This includes casino or betting promotions, online sports betting, lotteries, and poker or gaming platforms that offer cash prizes.
 
 Ads for casinos may be permitted only when promoting lodging, travel, or entertainment experiences where gambling is not the focus (e.g., a hotel stay at a casino resort). Digital games that do not involve real-money wagering or cash prizes may also be allowed.
 
-#### Graphic sexual or violent content
+### Graphic sexual or violent content
 
 Ads must not include explicit sexual content or graphic violence. Sexually explicit advertising—including pornography, sexual services, full nudity, explicit sexual acts, or imagery intended to provoke sexual arousal—is not permitted. This also includes tools that generate or manipulate sexual imagery (e.g., “nudify” or AI sexualization tools).
 
 Ads must also not depict graphic or realistic violence, including gore, severe injury, or death against humans or animals, particularly when presented for shock or sensationalism. Age-restricted entertainment (e.g., R-rated films, M-rated games) may be advertised if the ad creative and landing page are non-explicit and non-graphic. Stylized or cartoon violence without gore may also be allowed.
 
-#### Healthcare & medicine
+### Healthcare & medicine
 
 Ads for regulated medical products, services, or claims involving the prevention, diagnosis, or treatment of physical or mental health conditions are currently disallowed. This includes prescription drugs, clinical care providers, hospitals, prescription services, over-the-counter medications, and other medical products or services offered through healthcare providers or insurance networks.
 
 General health and wellness products that do not make medical claims may be permitted, such as fitness equipment, wearable devices, menstrual products, or incidental references to health or self-care. Health-related products that make unregulated wellness claims may be evaluated under the _Wellness Claims_ policy. 
 
-#### Legal services
+### Legal services
 
 Ads for legal advice, representation, or legal services offered to individuals or businesses are not permitted. This includes services related to immigration, personal injury, legal claims, or document preparation.
 
 Ads for general legal education or media may be allowed where no legal services are offered. Examples include legal-themed podcasts or educational materials about law (e.g., LSAT preparation courses). 
 
-#### Political content
+### Political content
 
 Ads that advocate for or against political actors, elections, public policy, or contested social issues are currently disallowed.
 
 This includes advertising related to elections or electoral participation (e.g., support for or opposition to a candidate, political party, referendum, or encouragement or discouragement of voting); advocacy connected to public officials or government action (e.g., immigration enforcement, taxes, climate policy, or other legislative or regulatory matters); and advertising that frames contested social issues as matters of public controversy or political debate.
 
-#### Recreational drugs
+### Recreational drugs
 
 Ads for products or services that promote the use of substances intended to intoxicate or alter consciousness, including cannabis or psychedelics, are currently disallowed. This includes marijuana or THC products (e.g., THC gummies), psychedelic substances such as magic mushrooms, and related paraphernalia.
 
 Non-intoxicating hemp-derived products, such as CBD topicals with no THC (e.g., creams or oils) and hemp clothing, may be permitted where they do not promote intoxicating use. Note that illicit drugs are never eligible for advertising.
 
-#### Scams & fraud
+### Scams & fraud
 
 We prohibit ads that deceive, defraud, or exploit users to obtain money, personal information, or other valuable assets. This includes ads that impersonate individuals, brands, official entities, or trusted services; promote fraudulent or implausible offers such as guaranteed financial returns; use misleading claims to induce users into scams; or direct users to high-risk or deceptive destinations, including phishing sites, typosquat domains, or unverified messaging channels. 
 
-#### Sensitive topics or events
+### Sensitive topics or events
 
 Ads must not exploit or sensationalize socially contested issues, major public tragedies, or other high-impact events where advertising could undermine user trust or create brand-safety risk. Advertising that meaningfully references sensitive social issues—such as abortion, immigration, race, religion, or gender identity—or promotes false or misleading narratives is not permitted.
 
-#### Wellness claims
+### Wellness claims
 
 Ads must not promote wellness or health-adjacent products that make unsubstantiated health claims outside established medical or regulatory frameworks. This includes advertising for diet pills, detox programs, supplements marketed with unsupported health claims outside major retail channels, and services such as health coaching.
 
@@ -198,7 +198,7 @@ From the start, we’ve taken a [_transparent and principled approach_ ⁠](<htt
 
 This section explains what standards we apply, how we implement these standards, and what happens when ads don’t meet our safety bar.
 
-#### Review scope
+### Review scope
 
 Our review process evaluates the full ad experience at three levels:
 
@@ -208,7 +208,7 @@ Our review process evaluates the full ad experience at three levels:
 
 
 
-#### Review process
+### Review process
 
 Most reviews are conducted through scaled AI systems with human oversight and calibration. Ads or landing pages that cannot be reviewed or evaluated by our systems are not eligible to run.
 
@@ -218,19 +218,19 @@ Most reviews are conducted through scaled AI systems with human oversight and ca
 
 
 
-#### Monitoring & enforcement
+### Monitoring & enforcement
 
 When our review finds that an ad or advertiser doesn’t meet our policies or integrity standards, we take steps to protect users and our services. Depending on severity, enforcement actions may include rejecting or removing an ad, limiting delivery, requiring edits or other remediation, or restricting an advertiser’s access to ads products. Severe, repeated, or deceptive violations may result in stronger measures, including suspension or termination of advertiser accounts. 
 
 After approval, we continue monitoring ads and advertiser activity using a combination of user feedback, automated metrics, and ongoing quality evaluations, and may take further action if we detect indicators of unsafe, misleading, or otherwise non-compliant behavior.
 
-#### Incident response
+### Incident response
 
 No review system is perfect and the impact of policy-violations can be serious. For this reason, we plan for the possibility that a policy-violating ad may be shown. We proactively review user signals, users can report ads in-product they believe are unsafe, misleading, or otherwise problematic, and advertisers and partners can raise concerns through designated support or account channels. 
 
 We investigate and respond based on severity. When an issue is confirmed, we act quickly to protect users—up to and including pausing the ad during investigation for higher-severity cases. After an incident, we review what happened and use what we learn to strengthen our standards, detection, and enforcement over time.
 
-#### Responsible scaling
+### Responsible scaling
 
 We’re building the ChatGPT ads platform with safety and trust at the core, and we’ll keep strengthening our review, monitoring, and enforcement as the platform grows. As we expand access and capabilities, we’ll do so deliberately, using real-world performance and feedback to refine our approach.
 

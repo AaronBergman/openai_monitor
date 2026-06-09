@@ -55,7 +55,7 @@ We spoke with Oliver Byers, Chief Financial Officer at Virgin Atlantic, about ho
   
 Our Executive Function series features perspectives from leaders driving transformation through AI._
 
-####  CFOs often have a high bar to pass to support investing in new technologies. As CFO, what convinced you that AI was worth prioritizing across the business initially and at a larger scale?
+###  CFOs often have a high bar to pass to support investing in new technologies. As CFO, what convinced you that AI was worth prioritizing across the business initially and at a larger scale?
 
 At Virgin Atlantic, we’ve always seen ourselves as a challenger—willing to take bold bets that help us stand apart. AI fits that philosophy perfectly. Being a smaller airline compared to our global competitors means we need to find smart ways to offset scale disadvantages. Leading-edge technology gives us that edge.
 
@@ -67,7 +67,7 @@ Listen
 
 Once you see the returns—from faster processes to happier people—you can’t ignore it. As a CFO, that makes the investment decision easy.
 
-#### Internally, your teams are already seeing major productivity gains from using Codex and ChatGPT Enterprise across a range of functions and use cases. What are some of your favorite examples of AI adoption across the business?
+### Internally, your teams are already seeing major productivity gains from using Codex and ChatGPT Enterprise across a range of functions and use cases. What are some of your favorite examples of AI adoption across the business?
 
 The clearest wins came from our digital and software development teams. Using AI, we’re writing and testing code faster, shipping features more quickly, and improving customer experience at speed. In aviation, that’s a huge differentiator—whether it’s our mobile app, check-in experience, or loyalty program. Cycle times are shorter, and customers feel that progress.
 
@@ -79,7 +79,7 @@ What excites me most is how these smaller wins add up. Each one improves product
 
 Listen
 
-#### Virgin Atlantic has always been a forward-thinking brand focused on people. How do you equip your team members to get the most out of your AI investments?
+### Virgin Atlantic has always been a forward-thinking brand focused on people. How do you equip your team members to get the most out of your AI investments?
 
 Culture comes first. Shai (our CEO) and I talk about AI constantly with our teams. We want to create a mindset that sees AI as an opportunity, a tool that empowers our teams, makes us faster and smarter, and helps us deliver brilliantly different experiences for our customers.
 
@@ -91,7 +91,7 @@ We’ve built a network of AI champions—colleagues who love experimenting and 
 
 Then come the guardrails—a trusting approach that protects sensitive areas but still encourages experimentation. Finally, we continuously iterate: what works, what doesn’t, how we can improve. It’s a living framework that evolves as our people and the technology evolve.
 
-#### Virgin Atlantic’s new digital concierge shows how AI can reimagine brand experiences in a way that feels distinctly human and on-brand. How do you think about designing AI solutions that enhance the brand experience and build business value?
+### Virgin Atlantic’s new digital concierge shows how AI can reimagine brand experiences in a way that feels distinctly human and on-brand. How do you think about designing AI solutions that enhance the brand experience and build business value?
 
 The digital concierge is one of the most exciting things we’ve built. The vision is for every customer to have one place they can go—to get inspiration for travel, manage their booking, resolve queries, or explore loyalty benefits—whether they’re flying Virgin Atlantic or booking a holiday.
 
@@ -103,7 +103,7 @@ Equally important is knowing when AI shouldn’t act alone. The concierge handle
 
 Listen
 
-#### What frameworks or measures do you use to judge whether AI is delivering ROI—both in the short term and as a longer-term strategic bet?
+### What frameworks or measures do you use to judge whether AI is delivering ROI—both in the short term and as a longer-term strategic bet?
 
 We measure ROI on two levels: short-term productivity gains and long-term strategic impact.
 
@@ -111,7 +111,7 @@ For smaller use cases, we track time savings and productivity gains from the gro
 
 In a smaller use case—say, marketing teams using AI to create content—we track the number of assets, time to produce them, and overall time saved. For enterprise-scale initiatives like our concierge, we tie metrics directly to outcomes: reductions in customer center wait times, improved self-service rates, and revenue growth.
 
-#### Do you have any advice for other CFOs and business leaders to ensure they see successful AI adoption across the business?
+### Do you have any advice for other CFOs and business leaders to ensure they see successful AI adoption across the business?
 
 First, be ambitious. This technology evolves at incredible speed, so think on a three-year horizon and be bold about what you want to achieve.
 
@@ -123,19 +123,17 @@ _Virgin Atlantic uses ChatGPT Enterprise and Codex across its operations, and le
 
 ## Keep reading
 
-![oai endava 1x1](https://images.ctfassets.net/kftzwdyauwt9/6CJMPcvmo9FlUZMnAetSGl/9686223d1bd7d90b9926c0bedd4e8fb9/oai_endava_1x1.png?w=3840&q=90&fm=webp)
+![Confidential submission of draft S-1 to the SEC > cover image](https://images.ctfassets.net/kftzwdyauwt9/36doI12YCwUtp1hzD4d8bj/84e67c565f39e7d5ca3ee011efa69756/confidential-submission-of-draft-s-1-to-the-sec-1x1.png?w=3840&q=90&fm=webp)
 
-[How Endava is redesigning software delivery around AI agentsJun 4, 2026](</index/endava-frontiers/>)
+[Confidential submission of draft S-1 to the SECCompanyJun 8, 2026](</index/openai-submits-confidential-s-1/>)
 
-![Art Card 1080x1080 \(3\)](https://images.ctfassets.net/kftzwdyauwt9/3JLNH7ejJFnxLmX2LpzoKD/19f9e3c4d36cc9d677ba88e842ad2db2/Art_Card_1080x1080__4_.png?w=3840&q=90&fm=webp)
+![Built for broad benefit > cover](https://images.ctfassets.net/kftzwdyauwt9/bEe28mW3dEOj9pKJsPp2u/13f7bed9e86b0667ba924479d62f98e4/Art_Card_1080x1080_1.png?w=3840&q=90&fm=webp)
 
-Better memory for a more helpful ChatGPT
+[Built to benefit everyone: our planCompanyJun 8, 2026](</index/built-to-benefit-everyone-our-plan/>)
 
-[Dreaming: Better memory for a more helpful ChatGPTResearchJun 4, 2026](</index/chatgpt-memory-dreaming/>)
+![Economic research forum > art card ](https://images.ctfassets.net/kftzwdyauwt9/2DpNjvjdVuCrLKNOrFrWJ7/1aefe1cbe252bcd9ba42035469fc8a0f/art_card.png?w=3840&q=90&fm=webp)
 
-![oai 1x1 Biodefense in the Intelligence Age](https://images.ctfassets.net/kftzwdyauwt9/6A4rrCBs9rrlbzm9JWIvSi/8a4ae56849fcd0b16e90b59b8babc613/oai_1x1_Biodefense_in_the_Intelligence_Age.png?w=3840&q=90&fm=webp)
-
-[Biodefense in the Intelligence AgeGlobal AffairsJun 4, 2026](</index/biodefense-in-the-intelligence-age/>)
+[Introducing the OpenAI Economic Research ExchangeCompanyJun 8, 2026](</index/economic-research-exchange/>)
 
 Research
 

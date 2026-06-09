@@ -103,7 +103,7 @@ In addition, we found that small changes in buffering, energy regeneration compo
 
 Finally, the cost structure itself shaped what mattered. In CFPS, costs are now dominated by lysate and DNA. That means yield is the highest-leverage strategy. If you can boost protein output per unit of expensive input, you make meaningful progress on cost even before you chase marginal savings elsewhere.
 
-#### Autonomous lab iteration cuts cost while raising protein yield
+### Autonomous lab iteration cuts cost while raising protein yield
 
  _Across six rounds of autonomous experimentation, the system steadily improved cell-free protein synthesis, driving costs down while increasing protein yield. Results are shown as reaction cost versus protein titer for each round, with the best tradeoffs forming a frontier. Larger points mark the lowest cost-per-gram achieved in each round, and the star/dotted reference indicates the prior state-of-the-art benchmark in 384-well plates (Olsen et al., 2025). A closer look at the later rounds highlights the final gains, and a round-by-round summary shows the best cost-per-gram decreasing over time._
 

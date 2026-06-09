@@ -36,7 +36,7 @@ OpenAI is committed to complying with the [_UK Online Safety Act_ ⁠(opens in a
 
 We aim to balance delivering helpful and accessible information to all users while mitigating the risks of online harm. We use a range of procedures and tools to protect users from illegal and harmful content. 
 
-#### Illegal content 
+### Illegal content 
 
 This includes measures to prevent, detect, respond to, and take enforcement action against illegal content, such as terrorism content, child sexual exploitation and abuse content and other illegal content. 
 
@@ -44,7 +44,7 @@ We aim to review and remove illegal content as swiftly as possible when we becom
 
 More information on our moderation and enforcement processes is set out in our [_Transparency & Content Moderation page_⁠](<https://openai.com/transparency-and-content-moderation/>). Please see our [_Reporting content page_ ⁠(opens in a new window)](<https://help.openai.com/en/articles/10245791-reporting-content-in-chatgpt-and-openai-platforms>), for details about how you can report content, including illegal content, on our services.
 
-#### Harmful content 
+### Harmful content 
 
 We aim to provide a safe online experience for all our users, and take action to protect all users (including users under 18) from harmful content that violates our policies. This includes content the [_UK Online Safety Act_ ⁠(opens in a new window)](<https://www.legislation.gov.uk/ukpga/2023/50>) recognises as content harmful to children*.
 
@@ -59,7 +59,7 @@ If you think you have encountered such content on our services, please [_report 
 
 There are also third party resources [_recommended by Ofcom_ ⁠(opens in a new window)](<https://www.ofcom.org.uk/online-safety/illegal-and-harmful-content/support?sjid=5129624447839075428-NA>) available to you, if you or someone you know has experienced serious harm online.
 
-#### Our use of proactive technology 
+### Our use of proactive technology 
 
 We use proactive technology to help prevent users encountering illegal content and harmful content on our services. This includes the use of model training and policies, content classifiers, reasoning models, hash-matching, blocklists, and other automated systems to identify content that may violate our terms or policies. 
 
@@ -71,7 +71,7 @@ If you’re in the UK and think OpenAI isn't complying with its obligations unde
 
 We will review your report and consider how your feedback may help us improve our processes. We aim to review reports within 10 business days although this process may take longer for more complex reports. We’ll follow up with you only if we need more information or have additional information to share with you.
 
-#### Appealing content moderation decisions
+### Appealing content moderation decisions
 
 If we take enforcement action based on your content or activity (including following our use of proactive technology), and you think we have a mistake, you can report this to us and appeal our decision. Further information on how to appeal is set out on our [_Transparency & Content Moderation page_⁠](<https://openai.com/transparency-and-content-moderation/>). 
 

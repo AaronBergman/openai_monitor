@@ -58,7 +58,7 @@ Now, when you ask for edits to an uploaded image, the model adheres to your inte
 
 This unlocks results that match your intent—more useful **photo edits** , more believable clothing and hairstyle **try-ons** , alongside **stylistic** **filters and** **conceptual transformations** that retain the essence of the original image. Together, these improvements mean ChatGPT can act as a creative studio in your pocket, capable of both practical edits and expressive reimaginings.
 
-#### Editing
+### Editing
 
 The model excels at different types of editing—including adding, subtracting, combining, blending, and transposing—so you get the changes you want without losing what makes the image special. 
 
@@ -88,7 +88,7 @@ Now remove the two men, just keep the dog, and put them in an OpenAI livestream 
 
 ![chatgpt-images-example-1-output-5](//images.ctfassets.net/kftzwdyauwt9/knEVvEnwmh6Y34ilARz8L/45f421babe24542d797359e0ccdcc557/livestream.png?w=1920&q=90&fm=webp)
 
-#### Creative transformations
+### Creative transformations
 
 The model’s creativity shines through transformations that change and add elements—like text and layout—to bring ideas to life, while preserving important details. These transformations work for both simple and more intricate concepts, and are easy to try using preset styles and ideas in the new [ChatGPT Images⁠(opens in a new window)](<http://chatgpt.com/images>) feature—no written prompt required.
 
@@ -106,7 +106,7 @@ Read more
 
 ![chatgpt-images-example-3-output-2](//images.ctfassets.net/kftzwdyauwt9/3clHZx77q5d4oU2yP93p9Z/4fc98e68d06ab23af6d4407172d8380e/codex-redux.png?w=1080&q=90&fm=webp)
 
-#### Instruction following 
+### Instruction following 
 
 The model follows instructions more reliably than our initial version. This enables more precise edits as well as more intricate original compositions, where relationships between elements are preserved as intended.
 
@@ -154,7 +154,7 @@ Read more
 
 ![chatgpt-images-instruction-following-old](//images.ctfassets.net/kftzwdyauwt9/6qWPFn4eWtiWhrDGdw9A4O/13b276a24e7ac23e0cde6e14fca0a776/chatgpt-images-instruction-following-old.png?w=1080&q=90&fm=webp)
 
-#### Text rendering
+### Text rendering
 
 The model takes another step ahead in text rendering, capable of handling denser and smaller text. 
 
@@ -268,7 +268,7 @@ Read more
 
 ![chatgpt-images-text-rendering-3](//images.ctfassets.net/kftzwdyauwt9/3qG8z6RRO8GpUVM974J1a6/898fd15b1f08464edca95b194925c71c/image1.5.png?w=1080&q=90&fm=webp)
 
-#### Additional quality improvements 
+### Additional quality improvements 
 
 The model also improves on additional dimensions that translate to more immediately usable outputs, like rendering many small faces and how natural outputs look. 
 

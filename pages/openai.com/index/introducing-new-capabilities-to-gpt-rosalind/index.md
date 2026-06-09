@@ -136,19 +136,19 @@ Notes patient-selection/generalizability gaps, including anti-AAV9 exclusion, ex
 
 ## Stronger scientific reasoning
 
-#### Medicinal chemistry
+### Medicinal chemistry
 
 GPT‑Rosalind achieves industry-leading performance in medicinal chemistry, a field focused on turning molecules into useful drugs. We designed MedChemBench to reflect realistic medicinal chemistry workflows, evaluating multimodal chemical structure understanding; structure-activity relationship (SAR); prediction of drug potency, toxicity, and absorption, distribution, metabolism, excretion (ADME); multiparameter lead-optimization decision-making; and retrosynthesis. GPT‑Rosalind out-performs GPT‑5.5 at 27.5% vs. 25.1% on MedChemBench, while using 7.2% fewer tokens.
 
 GPT‑Rosalind shows better multimodal synthesis and mechanistic reasoning in medicinal chemistry.
 
-#### Genomics and quantitative biology
+### Genomics and quantitative biology
 
 On GeneBench, our agentic evaluation on long horizon, end-to-end analysis in genomics and quantitative biology, GPT‑Rosalind uses 31% fewer tokens than GPT‑5.5 while achieving a higher accuracy of 21.6% vs. 20.4%. GeneBench assesses agentic performance on long-horizon quantitative tasks: based on realistic scientific data, can an agent plan valid analysis, QC, modeling, and corrections to arrive at decision-relative answers? Included problems span a variety of domains, including functional genomics, spatial transcriptomics, proteomics, epigenomics, and applied genetics.
 
 GPT‑Rosalind uses 31% fewer tokens than GPT‑5.5 while improving accuracy.
 
-#### Assisting real-world lab work
+### Assisting real-world lab work
 
 We introduce a new evaluation to test GPT‑Rosalind’s ability to help scientists conducting lab work in the real world. LabWorkBench tests the model's ability to link perturbations to experimental outcomes in real wet lab protocols used by scientists, for the purposes ranging from troubleshooting to optimization. The data used by LabWorkBench are proprietary and thus uncontaminated. GPT‑Rosalind scores 63.2% vs. GPT‑5.5 at 55.8%, while using 5.3% fewer tokens.
 

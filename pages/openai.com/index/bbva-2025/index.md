@@ -80,7 +80,7 @@ We sat down with Antonio Bravo and Elena Alfaro, Head of Global AI Adoption, to 
 
 —Antonio Bravo, Global Head of Data & AI, BBVA
 
-#### Inside the rollout
+### Inside the rollout
 
 BBVA built its AI program on trust, governance, and structured learning—enabling scale without compromising security. “We created this atmosphere of being in a safe place to learn and to use AI,” says Alfaro.
 
@@ -103,7 +103,7 @@ Once employees experienced value, engagement accelerated organically—to the po
 
 —Antonio Bravo, Global Head of Data & AI, BBVA
 
-#### Results at a glance
+### Results at a glance
 
   * ~3 hours saved per employee per week
   * 83% weekly active usage
@@ -112,7 +112,7 @@ Once employees experienced value, engagement accelerated organically—to the po
 
 
 
-#### Leadership lessons
+### Leadership lessons
 
   * Leadership sets the tone: 250 senior leaders, including the chairman and CEO, learned hands-on.
   * Build governance as a foundation: Security, legal, and compliance were partners from day one—enabling scale, not slowing it.
@@ -122,7 +122,7 @@ Once employees experienced value, engagement accelerated organically—to the po
 
 
 
-#### What’s next
+### What’s next
 
 BBVA has rolled out a roadmap, known as ‘The Eight,’ aimed at ramping up the use of artificial intelligence (AI) to evolve the way the bank interacts with customers, manages risk, automates processes, and strengthens its technological capabilities. This decisive step forward in its transformation will enable the bank to radically improve its range of products and services through innovation and to structurally enhance its ways of working to boost value creation.
 
@@ -136,19 +136,17 @@ More than 1 million businesses around the world are achieving meaningful results
 
 ## Keep reading
 
-![oai endava 1x1](https://images.ctfassets.net/kftzwdyauwt9/6CJMPcvmo9FlUZMnAetSGl/9686223d1bd7d90b9926c0bedd4e8fb9/oai_endava_1x1.png?w=3840&q=90&fm=webp)
+![Confidential submission of draft S-1 to the SEC > cover image](https://images.ctfassets.net/kftzwdyauwt9/36doI12YCwUtp1hzD4d8bj/84e67c565f39e7d5ca3ee011efa69756/confidential-submission-of-draft-s-1-to-the-sec-1x1.png?w=3840&q=90&fm=webp)
 
-[How Endava is redesigning software delivery around AI agentsJun 4, 2026](</index/endava-frontiers/>)
+[Confidential submission of draft S-1 to the SECCompanyJun 8, 2026](</index/openai-submits-confidential-s-1/>)
 
-![Art Card 1080x1080 \(3\)](https://images.ctfassets.net/kftzwdyauwt9/3JLNH7ejJFnxLmX2LpzoKD/19f9e3c4d36cc9d677ba88e842ad2db2/Art_Card_1080x1080__4_.png?w=3840&q=90&fm=webp)
+![Built for broad benefit > cover](https://images.ctfassets.net/kftzwdyauwt9/bEe28mW3dEOj9pKJsPp2u/13f7bed9e86b0667ba924479d62f98e4/Art_Card_1080x1080_1.png?w=3840&q=90&fm=webp)
 
-Better memory for a more helpful ChatGPT
+[Built to benefit everyone: our planCompanyJun 8, 2026](</index/built-to-benefit-everyone-our-plan/>)
 
-[Dreaming: Better memory for a more helpful ChatGPTResearchJun 4, 2026](</index/chatgpt-memory-dreaming/>)
+![Economic research forum > art card ](https://images.ctfassets.net/kftzwdyauwt9/2DpNjvjdVuCrLKNOrFrWJ7/1aefe1cbe252bcd9ba42035469fc8a0f/art_card.png?w=3840&q=90&fm=webp)
 
-![oai 1x1 Biodefense in the Intelligence Age](https://images.ctfassets.net/kftzwdyauwt9/6A4rrCBs9rrlbzm9JWIvSi/8a4ae56849fcd0b16e90b59b8babc613/oai_1x1_Biodefense_in_the_Intelligence_Age.png?w=3840&q=90&fm=webp)
-
-[Biodefense in the Intelligence AgeGlobal AffairsJun 4, 2026](</index/biodefense-in-the-intelligence-age/>)
+[Introducing the OpenAI Economic Research ExchangeCompanyJun 8, 2026](</index/economic-research-exchange/>)
 
 Research
 

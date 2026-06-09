@@ -68,7 +68,7 @@ Account list or segment, CRM records or exports, account notes, call transcripts
   
 **Suggested plugins:** Gmail, Slack, Gong, Google Drive, Spreadsheets, Documents
 
-#### How it works
+### How it works
 
   1. Codex reviews account records, owner portfolios, call notes, email threads, usage signals, and relevant account context.
   2. It ranks accounts by trigger, pain, stakeholder access, urgency, and likely next action.
@@ -76,11 +76,11 @@ Account list or segment, CRM records or exports, account notes, call transcripts
 
 
 
-#### Starter prompt
+### Starter prompt
 
 Find pipeline opportunities from these underworked accounts: [account list or segment]. Use CRM records or exports, account notes, call transcripts, email threads, usage signals, GTM updates, account pages, and any other approved context I provide. Rank accounts by trigger, pain, stakeholder access, urgency, and recommended next action. Create a prioritized account brief, stakeholder map, outreach sequence, and CRM-ready next steps. Separate sourced facts from inferred opportunity.
 
-##### Real-world example
+#### Real-world example
 
  _Find pipeline opportunities from Acme’s underworked enterprise accounts. Use the Salesforce owner portfolio export, account signal spreadsheet, latest customer call transcripts, open email threads, Slack account mentions, GTM updates, account pages, and any related context I provide. Rank accounts by trigger, pain, stakeholder access, and next action. Create a prioritized account brief, stakeholder map, three-touch outreach sequence, and CRM-ready next steps for sales manager review._
 
@@ -94,7 +94,7 @@ Calendar context, account notes, call history, email threads, usage dashboards, 
   
 **Suggested plugins:** Google Calendar, Gmail, Slack, Gong, Google Drive, Documents, Presentations
 
-#### How it works
+### How it works
 
   1. Codex reviews account history, prior conversations, open threads, usage or support context, and meeting goals.
   2. It identifies customer priorities, likely questions, risks, open asks, and recommended meeting moves.
@@ -102,11 +102,11 @@ Calendar context, account notes, call history, email threads, usage dashboards, 
 
 
 
-#### Starter prompt
+### Starter prompt
 
 Prepare for the [customer/account] meeting on [date]. Use calendar context, CRM notes or exports, prior calls, email threads, account materials, usage or support context, open workstreams, and strategy notes I provide. Create a meeting brief with goals, customer context, likely priorities, risks, questions, and proposed asks. If post-meeting notes or a transcript are available, draft the customer follow-up, internal recap, and CRM-ready update. If not, stop after the prep brief and tell me what to provide after the meeting.
 
-##### Real-world example
+#### Real-world example
 
  _Prepare for the May 12 Acme renewal meeting. Use the calendar invite, Salesforce account notes export, latest Gong call transcripts, open Gmail threads, usage dashboard, support escalation notes, renewal deck template, recent company news, and any related account context I provide. Create the meeting brief and questions. If post-meeting notes or a transcript exist, draft the customer follow-up, CRM-ready update, and internal Slack recap. If they do not exist yet, stop after the prep brief and tell me what to provide after the call. Do not invent dates or commitments._
 
@@ -120,7 +120,7 @@ Forecast snapshot, CRM opportunity records, call notes, deal threads, email cont
   
 **Suggested plugins:** Gmail, Slack, Gong, Google Drive, Spreadsheets, Documents
 
-#### How it works
+### How it works
 
   1. Codex reviews forecast snapshots, opportunity details, customer conversations, deal threads, and risk context.
   2. It compares sourced facts against forecast position, stage, activity, customer urgency, blockers, and close path.
@@ -128,11 +128,11 @@ Forecast snapshot, CRM opportunity records, call notes, deal threads, email cont
 
 
 
-#### Starter prompt
+### Starter prompt
 
 Review [deals/accounts] for the [forecast period] forecast call. Use CRM opportunity records or exports, forecast snapshots, call notes, email threads, Slack deal context, support escalations, legal or procurement status, usage signals, and owner notes I provide. Recommend what should stay in commit, move to upside, or get pulled. Separate sourced facts from inferred risk, explain the rationale by deal, and end with owner follow-ups.
 
-##### Real-world example
+#### Real-world example
 
  _Review Acme, Globex, and Initech for this week’s forecast call. Use Salesforce as the source of truth through the opportunity export, plus forecast snapshots, Gong notes, Slack deal threads, support escalations, legal status, recent email context, and anything else explaining deal risk. Tell me what should stay in commit, move to upside, or get pulled. Separate sourced facts from inferred risk and end with owner follow-ups._
 
@@ -146,7 +146,7 @@ Account and opportunity records, recent calls, account threads, customer emails,
   
 **Suggested plugins:** Gmail, Slack, Gong, Google Drive, Documents, Presentations
 
-#### How it works
+### How it works
 
   1. Codex reviews recent account activity, opportunity context, customer conversations, usage notes, and prior plans.
   2. It identifies stakeholder dynamics, discovery gaps, risks, objections, proof points, and value hypothesis.
@@ -154,11 +154,11 @@ Account and opportunity records, recent calls, account threads, customer emails,
 
 
 
-#### Starter prompt
+### Starter prompt
 
 Refresh the account plan for [account]. Use CRM account and opportunity records or exports, recent call transcripts, account threads, email context, customer docs, usage notes, prior account plans, product needs, and relevant company context I provide. Create a strategic account plan with stakeholder map, discovery gaps, risks, value hypothesis, objections, proof points, and next-best actions. Flag assumptions, stale information, and areas that need account-owner review.
 
-##### Real-world example
+#### Real-world example
 
  _Refresh the Acme enterprise account plan. Use the Salesforce account and opportunity export, Gong calls from the last 90 days, Slack account threads, Drive and Notion docs, approved solutions examples, usage notes, recent customer emails, and recent company news I provide. Create a deal strategy pack with stakeholder map, discovery gaps, risks, value hypothesis, objections, proof points, and next-best actions. Flag anything that needs AE or manager confirmation._
 
@@ -172,7 +172,7 @@ Opportunity stage history, closed activities, call transcripts, email threads, d
   
 **Suggested plugins:** Gmail, Slack, Gong, Google Drive, Documents
 
-#### How it works
+### How it works
 
   1. Codex reviews stage history, activity records, customer conversations, internal deal threads, and blocker context.
   2. It identifies the likely blocker, prior attempts, missing information, internal experts, and assets that could unblock the deal.
@@ -180,11 +180,11 @@ Opportunity stage history, closed activities, call transcripts, email threads, d
 
 
 
-#### Starter prompt
+### Starter prompt
 
 Diagnose why the [account/deal] opportunity is stalled. Use CRM stage history or exports, closed activities, call transcripts, email threads, internal deal threads, security notes, legal status, procurement context, account notes, and any other relevant materials I provide. Classify the real blocker, summarize prior attempts, identify missing information or internal experts, and draft a customer-facing next step plus internal escalation plan. Separate confirmed facts from interpretation.
 
-##### Real-world example
+#### Real-world example
 
  _Diagnose why the Acme expansion deal is stuck. Use Salesforce stage history, closed activities, Gong calls, Gmail threads, Slack deal threads, security notes, legal status, procurement notes, and any related account context I provide. Classify the real blocker, summarize prior attempts, find the right internal expert or asset, and draft a customer-facing next step plus internal escalation plan. Separate sourced facts from inferred blockers._
 

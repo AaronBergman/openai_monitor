@@ -51,7 +51,7 @@ There’s no single “perfect” way to write a prompt. Think of it as a conver
 
 ## Simple steps for writing a good prompt
 
-#### 1\. Outline the task 
+### 1\. Outline the task 
 
 Be clear about what you need ChatGPT to do. Outline what you want, who it’s for, and why it matters. _Tip: Use an action verb, like “plan” or “draft” or “research.”_
 
@@ -60,7 +60,7 @@ Be clear about what you need ChatGPT to do. Outline what you want, who it’s fo
 
 
 
-####  2\. Give helpful context
+###  2\. Give helpful context
 
 Add any background or documentation that will help, including external sources like files, images, or documents. Learn more about [working with files or apps](</academy/working-with-files/>).
 
@@ -69,7 +69,7 @@ Add any background or documentation that will help, including external sources l
 
 
 
-####  3\. Describe your ideal output 
+###  3\. Describe your ideal output 
 
 Tell ChatGPT how you want the response. Include details like tone, format, length, audience, and any constraints so the output matches your needs.
 
@@ -99,7 +99,7 @@ Explain machine learning. | Explain how machine learning works using a simple ev
 
   
   
-#### More helpful tips for writing prompts
+### More helpful tips for writing prompts
 
   * **Break big tasks into smaller steps:** If your request has multiple parts, try splitting it up. This makes it easier for ChatGPT to give clear, focused answers.
   * **Be specific, but keep it simple:** More detail can improve the response, but focus on what matters most. Too much extra information can sometimes make the answer less helpful.

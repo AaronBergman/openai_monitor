@@ -52,7 +52,7 @@ Chime is a leading financial technology company that addresses the spending, sav
 
 We spoke with Vineet Mehra, Chief Marketing Officer at Chime about technology enabling a golden era of marketing, marketers developing AI literacy, and driving AI adoption from the top.
 
-#### As someone with experience leading marketing teams in multiple industries, how have you seen the role of marketing and the CMO evolve?
+### As someone with experience leading marketing teams in multiple industries, how have you seen the role of marketing and the CMO evolve?
 
 We are entering the era of AI and the Agentification of Marketing—the next paradigm shift for CMOs. AI is not just another tool—it’s redefining the marketing operating model. The traditional campaign-centric structure is giving way to an agentic model, where AI agents operate as an extension of the brand—adapting in real time, personalizing at scale, and optimizing spend with unprecedented precision. These agents will fundamentally reshape how marketing organizations are designed, shifting from static teams built around execution to dynamic teams orchestrating AI-driven systems that continuously learn and improve. This is, in many ways, the best-positioned CMOs have ever been to fulfill their core mandate: allocating capital to maximize efficient growth. The challenge now is speed—CMOs must rapidly adapt their organizations, capabilities, and decision-making to fully leverage this new paradigm. The future belongs to those who can make the shift—fast.
 
@@ -60,7 +60,7 @@ We are entering the era of AI and the Agentification of Marketing—the next par
 
 Listen
 
-#### You’ve argued that instead of being under threat, CMOs are entering a “golden era of marketing.” What do you mean by that?
+### You’ve argued that instead of being under threat, CMOs are entering a “golden era of marketing.” What do you mean by that?
 
 There is no doubt that we are now entering the golden age of marketing. More than ever, CMOs have the opportunity to drive profitable growth with greater efficiency than at any point in history.
 
@@ -68,7 +68,7 @@ AI is also breaking down traditional silos between brand, performance, and lifec
 
 This next era offers the potential to unlock growth like never before. The role of the CMO has never been more impactful, and the ability to drive real business growth has never been more within our control. With more tools, data, and AI-driven intelligence at our fingertips, marketers are now more empowered than ever to make smarter decisions, move faster, and create lasting impact.
 
-#### What advice would you give to marketing leaders looking to leverage AI effectively?
+### What advice would you give to marketing leaders looking to leverage AI effectively?
 
 The most successful AI adoption strategy is built around a clear, structured framework that ensures AI isn’t just a series of disconnected tools but an integrated system that amplifies marketing’s impact. It starts with three key principles:
 
@@ -82,7 +82,7 @@ The most successful AI adoption strategy is built around a clear, structured fra
 
 Listen
 
-#### How is AI reshaping the way your marketing organization works?
+### How is AI reshaping the way your marketing organization works?
 
 AI is transforming how our marketing organization operates by making us faster, more adaptive, and more precise in how we create, optimize, and learn. At Chime, we’ve embedded AI across many of our marketing workflows to drive greater efficiency and impact, with the biggest changes happening in three areas:
 
@@ -114,19 +114,17 @@ More than 1 million businesses around the world are achieving meaningful results
 
 ## Keep reading
 
-![oai endava 1x1](https://images.ctfassets.net/kftzwdyauwt9/6CJMPcvmo9FlUZMnAetSGl/9686223d1bd7d90b9926c0bedd4e8fb9/oai_endava_1x1.png?w=3840&q=90&fm=webp)
+![Confidential submission of draft S-1 to the SEC > cover image](https://images.ctfassets.net/kftzwdyauwt9/36doI12YCwUtp1hzD4d8bj/84e67c565f39e7d5ca3ee011efa69756/confidential-submission-of-draft-s-1-to-the-sec-1x1.png?w=3840&q=90&fm=webp)
 
-[How Endava is redesigning software delivery around AI agentsJun 4, 2026](</index/endava-frontiers/>)
+[Confidential submission of draft S-1 to the SECCompanyJun 8, 2026](</index/openai-submits-confidential-s-1/>)
 
-![Art Card 1080x1080 \(3\)](https://images.ctfassets.net/kftzwdyauwt9/3JLNH7ejJFnxLmX2LpzoKD/19f9e3c4d36cc9d677ba88e842ad2db2/Art_Card_1080x1080__4_.png?w=3840&q=90&fm=webp)
+![Built for broad benefit > cover](https://images.ctfassets.net/kftzwdyauwt9/bEe28mW3dEOj9pKJsPp2u/13f7bed9e86b0667ba924479d62f98e4/Art_Card_1080x1080_1.png?w=3840&q=90&fm=webp)
 
-Better memory for a more helpful ChatGPT
+[Built to benefit everyone: our planCompanyJun 8, 2026](</index/built-to-benefit-everyone-our-plan/>)
 
-[Dreaming: Better memory for a more helpful ChatGPTResearchJun 4, 2026](</index/chatgpt-memory-dreaming/>)
+![Economic research forum > art card ](https://images.ctfassets.net/kftzwdyauwt9/2DpNjvjdVuCrLKNOrFrWJ7/1aefe1cbe252bcd9ba42035469fc8a0f/art_card.png?w=3840&q=90&fm=webp)
 
-![oai 1x1 Biodefense in the Intelligence Age](https://images.ctfassets.net/kftzwdyauwt9/6A4rrCBs9rrlbzm9JWIvSi/8a4ae56849fcd0b16e90b59b8babc613/oai_1x1_Biodefense_in_the_Intelligence_Age.png?w=3840&q=90&fm=webp)
-
-[Biodefense in the Intelligence AgeGlobal AffairsJun 4, 2026](</index/biodefense-in-the-intelligence-age/>)
+[Introducing the OpenAI Economic Research ExchangeCompanyJun 8, 2026](</index/economic-research-exchange/>)
 
 Research
 

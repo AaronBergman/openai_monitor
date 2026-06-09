@@ -44,25 +44,25 @@ We expect AI to enable some incredible high-level outcomes—such as double-digi
 
 ## OpenAI’s principles for managing the capability overhang
 
-##### 1\. First to truth
+#### 1\. First to truth
 
 In periods of rapid change, accurate information creates agency. People, businesses, and policymakers can make better decisions given well-grounded, credible data about what is actually happening: which roles are growing or shrinking, how AI is being used in practice, and where productivity gains are emerging. We don’t have all the answers, but we can help.
 
 That’s why we’ve been making public our foundational economic data based insights, including a measurement of how AI tools match up in terms of performance with humans across a range of tasks.
 
-##### 2\. Access
+#### 2\. Access
 
 As AI increasingly shapes economic outcomes, access to core tools will help people achieve more. Businesses need practical ways to adopt AI at scale, and countries need a systematic way for AI to be applied in their jurisdiction. AI’s usefulness will scale directly with compute power, and thus every individual, business, and country needs ways of accessing their own slice of compute.
 
 That’s why we **created a free tier of ChatGPT, supported by advertising** , towards our mission of ensuring AGI benefits all of humanity. We created a new industry-standard API for developers to build applications on top of. We work with many institutions large and small—including governments—to support broad access to frontier AI capabilities.
 
-##### 3\. Self empowerment
+#### 3\. Self empowerment
 
 We build tools which people can use to shape the future. That means putting a lot of power into people’s hands and designing our tools to be customizable and usable in ways we didn’t anticipate.
 
 This approach is useful for **everyday users and small businesses** , where we design product experiences that help people do more than they thought they could—optimize a family’s budget, find jobs more effectively, develop ideas for a future business. It’s also useful for unlocking the next wave of innovation, such as for**builders and founders** , where we support high-agency people who turn frontier capability into new companies, products, and markets.
 
-###### —
+##### —
 
 We believe this is how the Intelligence Age can expand opportunity for everyone, and result in a future that is much better than the present. We believe everyone should focus on managing the capability overhang so as many people, businesses, and countries empower themselves to participate in and benefit from the positive transformative potential of AI.
 
@@ -72,19 +72,17 @@ OpenAI
 
 ## Keep reading
 
-![oai endava 1x1](https://images.ctfassets.net/kftzwdyauwt9/6CJMPcvmo9FlUZMnAetSGl/9686223d1bd7d90b9926c0bedd4e8fb9/oai_endava_1x1.png?w=3840&q=90&fm=webp)
+![Confidential submission of draft S-1 to the SEC > cover image](https://images.ctfassets.net/kftzwdyauwt9/36doI12YCwUtp1hzD4d8bj/84e67c565f39e7d5ca3ee011efa69756/confidential-submission-of-draft-s-1-to-the-sec-1x1.png?w=3840&q=90&fm=webp)
 
-[How Endava is redesigning software delivery around AI agentsJun 4, 2026](</index/endava-frontiers/>)
+[Confidential submission of draft S-1 to the SECCompanyJun 8, 2026](</index/openai-submits-confidential-s-1/>)
 
-![Art Card 1080x1080 \(3\)](https://images.ctfassets.net/kftzwdyauwt9/3JLNH7ejJFnxLmX2LpzoKD/19f9e3c4d36cc9d677ba88e842ad2db2/Art_Card_1080x1080__4_.png?w=3840&q=90&fm=webp)
+![Built for broad benefit > cover](https://images.ctfassets.net/kftzwdyauwt9/bEe28mW3dEOj9pKJsPp2u/13f7bed9e86b0667ba924479d62f98e4/Art_Card_1080x1080_1.png?w=3840&q=90&fm=webp)
 
-Better memory for a more helpful ChatGPT
+[Built to benefit everyone: our planCompanyJun 8, 2026](</index/built-to-benefit-everyone-our-plan/>)
 
-[Dreaming: Better memory for a more helpful ChatGPTResearchJun 4, 2026](</index/chatgpt-memory-dreaming/>)
+![Economic research forum > art card ](https://images.ctfassets.net/kftzwdyauwt9/2DpNjvjdVuCrLKNOrFrWJ7/1aefe1cbe252bcd9ba42035469fc8a0f/art_card.png?w=3840&q=90&fm=webp)
 
-![oai 1x1 Biodefense in the Intelligence Age](https://images.ctfassets.net/kftzwdyauwt9/6A4rrCBs9rrlbzm9JWIvSi/8a4ae56849fcd0b16e90b59b8babc613/oai_1x1_Biodefense_in_the_Intelligence_Age.png?w=3840&q=90&fm=webp)
-
-[Biodefense in the Intelligence AgeGlobal AffairsJun 4, 2026](</index/biodefense-in-the-intelligence-age/>)
+[Introducing the OpenAI Economic Research ExchangeCompanyJun 8, 2026](</index/economic-research-exchange/>)
 
 Research
 

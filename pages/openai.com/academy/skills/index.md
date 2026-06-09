@@ -94,7 +94,7 @@ A typical SKILL.md file defines:
 
 ## How to build and use skills
 
-#### 1) Think of a repeatable task
+### 1) Think of a repeatable task
 
 Good first skills come from work you already do often—especially where consistency matters. This might include monthly reporting, recurring executive updates, or compliance-safe summaries. 
 
@@ -110,7 +110,7 @@ There are a few different patterns we usually see in skills:
 
 _Design tip:_**__**_Skills often work best as_** _small building blocks_** _you can mix and match, rather than one massive end-to-end skill. For complex workflows, consider splitting them into smaller skills._
 
-####  2) Write down the instructions
+###  2) Write down the instructions
 
  _If you’re new to building skills, start by opening a new chat and prompting ChatGPT with “Build me a skill…”. You can also build skills outside of ChatGPT and_[ _upload them_ ⁠(opens in a new window)](<https://help.openai.com/articles/20001066-skills-in-chatgpt>)_._
 
@@ -126,15 +126,15 @@ Ask ChatGPT to create a skill, and fill in the rest of the prompt with a descrip
 
  _Tip: Drafting the workflow by speaking or dictating to ChatGPT can help generate a first version more quickly._
 
-####  3) Review and install the skill
+###  3) Review and install the skill
 
 ChatGPT will generate a draft of the skill and present an option to install it. Review the draft, refine the instructions if needed, and select **Install** to add it to your workspace..
 
-#### 4) Use it in day-to-day work
+### 4) Use it in day-to-day work
 
 Once enabled in your workspace, ChatGPT can use a relevant skill automatically—or you can select one explicitly by @-mentioning it. 
 
-#### 5) Share or keep it personal
+### 5) Share or keep it personal
 
 If supported by your workspace settings, you can share your skill with others in your workspace, or even install it on their behalf. Note that workspace owners have full control of who can share and install skills.
 

@@ -79,7 +79,7 @@ If you find yourself reusing the same prompt, re-uploading the same files, or re
   
 ## How to build a custom GPT 
 
-#### 1\. Identify strong use cases
+### 1\. Identify strong use cases
 
 Good GPTs usually begin with a simple, repeatable need. Focus on workflows that occur regularly—such as drafting the same type of message, summarizing recurring meetings, answering common questions, or turning raw data into a consistent weekly report.
 
@@ -93,7 +93,7 @@ Example use cases:
 
 
 
-#### 2\. Create GPT
+### 2\. Create GPT
 
 To get started, open **GPTs** from the ChatGPT sidebar, then select **Create** to open the GPT builder. 
 
@@ -115,7 +115,7 @@ Writing instructions is often the most challenging step, as it requires translat
 
 **Tip** _:_ To configure custom actions, see the comprehensive guide on the[ _OpenAI Cookbook._ ⁠(opens in a new window)](<https://cookbook.openai.com/examples/chatgpt/gpt_actions_library/.gpt_action_getting_started>)
 
-#### 3\. Test your GPT’s performance
+### 3\. Test your GPT’s performance
 
 Before[ sharing your GPT⁠(opens in a new window)](<https://help.openai.com/articles/9083988-how-to-share-gpts-within-workspaces>), it is important to check that it works as expected. You can do this with evals, a simple way to assess its outputs.
 

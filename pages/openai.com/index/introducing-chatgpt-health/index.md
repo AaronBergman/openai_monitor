@@ -70,13 +70,13 @@ Medical record integrations and some apps are available in the U.S. only, and co
 
 Your health information is deeply personal. That’s why Health is built as a dedicated space with added protections for sensitive health information and easy-to-use controls.
 
-#### A dedicated space for Health
+### A dedicated space for Health
 
 Health lives in its own space within ChatGPT, where your conversations, connected apps, and files are stored separately from your other chats. Health has separate memories, ensuring that your health context stays contained within the space. You’ll still see health chats in your chat history so you can easily return to them, but the information itself stays within Health.
 
 When helpful, ChatGPT may use context from your non-Health chats—like a recent move or lifestyle change—to make a health conversation more relevant. However, Health information and memories never flow back into your non-Health chats, and conversations outside of Health can’t access files, conversations, or memories created within Health. You can view or delete Health memories at any time within Health or the “Personalization” section of Settings.
 
-#### Protections and controls for sensitive information
+### Protections and controls for sensitive information
 
 We recognize that people share personal and sensitive information with ChatGPT. That understanding shapes how we design the security, privacy, and [data controls⁠](<https://openai.com/consumer-privacy/>) for all of our products—from the start. Even before introducing ChatGPT Health, we built foundational protections across ChatGPT to give you meaningful control over your data, including temporary chats, the ability to delete chats from OpenAI’s systems within 30 days, and training our models not to retain personal information from user chats.
 
@@ -84,7 +84,7 @@ Conversations and files across ChatGPT are encrypted by default at rest and in t
 
 You can further strengthen access controls by [enabling multi-factor authentication (MFA)⁠(opens in a new window)](<https://chatgpt.com#settings/Security>), which adds an extra layer of protection to help prevent unauthorized access.
 
-#### Securely connecting your information
+### Securely connecting your information
 
 When you choose to connect your health data, such as medical records or wellness apps, your responses are grounded in your own health information. To enable access to trusted U.S. healthcare providers, we partner with b.well, the largest and most secure network of live, connected health data for U.S. consumers. b.well adheres to the highest industry standards in data security and privacy. You can remove access to medical records at any time in the "Apps" section of Settings.
 
@@ -104,13 +104,13 @@ This evaluation-driven approach helps ensure the model performs well on the task
 
 You can sign up for the [waitlist⁠(opens in a new window)](<https://chatgpt.com/health/waitlist>) to request access.
 
-#### Once you have access
+### Once you have access
 
 Select ‘Health’ from the sidebar menu in ChatGPT.
 
 ![Desktop ChatGPT interface with a left sidebar showing navigation items including New chat, Search chats, Library, Health \(highlighted\), Codex, and GPTs, while the main panel displays a Health view with a prompt asking how the user is feeling and options to connect medical records or understand lab results.](https://images.ctfassets.net/kftzwdyauwt9/4XRlgv6c3jHpFYqWS3C5q5/1bb4beeaae428129b3fe2a2d511e01d2/OAI_ChatGPT_Health_Wayfinding_16-9.png?w=3840&q=90&fm=webp)
 
-#### Bring your information in
+### Bring your information in
 
 Bring your medical records and the apps you use to track your health and wellness into Health. You can upload files directly, connect from tools (+) or “Apps” in Settings.
 
@@ -125,11 +125,11 @@ Bring your medical records and the apps you use to track your health and wellnes
 
 
 
-#### Chat about your health
+### Chat about your health
 
 Health conversations feel just like chatting with ChatGPT—but grounded in the information you’ve connected. You can upload photos and files and use search, deep research, voice mode and dictation. When relevant, ChatGPT can automatically reference your connected information to provide more relevant and personalized responses. For example, you might ask: _“How’s my cholesterol trending?”_ or _“Can you summarize my latest bloodwork before my appointment?”_ To use a connected app you can start your question with it, select it from tools (+) or ChatGPT may suggest one when helpful. 
 
-#### Customize your experience
+### Customize your experience
 
 You can add custom instructions in Health to help ChatGPT know what to focus on, to avoid mentioning sensitive topics, or change how responses are framed. These instructions only apply to Health chats, and you can update or remove any time in Health or Settings.
 
@@ -162,19 +162,17 @@ OpenAI
 
 [View all](</news/>)
 
-![Art Card 1080x1080 \(3\)](https://images.ctfassets.net/kftzwdyauwt9/3JLNH7ejJFnxLmX2LpzoKD/19f9e3c4d36cc9d677ba88e842ad2db2/Art_Card_1080x1080__4_.png?w=3840&q=90&fm=webp)
+![Confidential submission of draft S-1 to the SEC > cover image](https://images.ctfassets.net/kftzwdyauwt9/36doI12YCwUtp1hzD4d8bj/84e67c565f39e7d5ca3ee011efa69756/confidential-submission-of-draft-s-1-to-the-sec-1x1.png?w=3840&q=90&fm=webp)
 
-Better memory for a more helpful ChatGPT
+[Confidential submission of draft S-1 to the SECCompanyJun 8, 2026](</index/openai-submits-confidential-s-1/>)
 
-[Dreaming: Better memory for a more helpful ChatGPTResearchJun 4, 2026](</index/chatgpt-memory-dreaming/>)
+![Built for broad benefit > cover](https://images.ctfassets.net/kftzwdyauwt9/bEe28mW3dEOj9pKJsPp2u/13f7bed9e86b0667ba924479d62f98e4/Art_Card_1080x1080_1.png?w=3840&q=90&fm=webp)
 
-![Rosalind5.5 ArtCard](https://images.ctfassets.net/kftzwdyauwt9/6USIQM1B7TggUvvTFxxwoi/0176ac6633c8bdc24641d25d1d2db824/GPT-Rosalind_ArtCard.png?w=3840&q=90&fm=webp)
+[Built to benefit everyone: our planCompanyJun 8, 2026](</index/built-to-benefit-everyone-our-plan/>)
 
-[Introducing new capabilities to GPT-RosalindProductJun 3, 2026](</index/introducing-new-capabilities-to-gpt-rosalind/>)
+![Economic research forum > art card ](https://images.ctfassets.net/kftzwdyauwt9/2DpNjvjdVuCrLKNOrFrWJ7/1aefe1cbe252bcd9ba42035469fc8a0f/art_card.png?w=3840&q=90&fm=webp)
 
-![1 1 Art Card](https://images.ctfassets.net/kftzwdyauwt9/4xugzd9dTDMUzIUmuamtO3/1f40af4e50ab8b2bdd64d5b491964961/1_1_Art_Card.png?w=3840&q=90&fm=webp)
-
-[Codex for every role, tool, and workflowProductJun 2, 2026](</index/codex-for-every-role-tool-workflow/>)
+[Introducing the OpenAI Economic Research ExchangeCompanyJun 8, 2026](</index/economic-research-exchange/>)
 
 Research
 

@@ -58,7 +58,7 @@ Our Executive Function series features perspectives from leaders driving transfo
 
 Lowe’s is a Fortune 50 home improvement company serving approximately 16 million customer transactions a week in the U.S. We spoke with Chandhu Nair about AI’s importance to Lowe’s, building AI fluency for employees, and its practical impact on the company’s day-to-day operations.
 
-#### Lowe’s is one of the largest home improvement retailers in the U.S.—where does AI fit into the broader strategy? Why is it so important for Lowe’s?
+### Lowe’s is one of the largest home improvement retailers in the U.S.—where does AI fit into the broader strategy? Why is it so important for Lowe’s?
 
 Lowe’s has been helping customers solve problems and fulfill dreams for over 100 years. Unlike most retail experiences, shopping for home improvement is very different for our customers. Whether it’s a bathroom renovation or choosing the right paint, these projects require inspiration, validation, and guidance. The price, permanence, and personal nature of home projects make every decision significant.
 
@@ -66,7 +66,7 @@ Our business is designed to support this journey at scale. With thousands of in-
 
 That’s where AI comes in. It’s been a key focus of our investment for nearly a decade—not because it’s trendy, but because it enhances what we’ve always done. AI offers unique opportunities to reimagine how we shop, sell, and work. Generative AI democratizes expertise, helping customers solve home improvement challenges and visualize projects like never before. It also transforms retail operations in-store, automating new processes for greater efficiency. We’re excited about the future and the potential for AI to improve customer and associate experiences, driving business growth.
 
-#### How does this focus on solving problems—rather than just selling products—change the way Lowe’s approaches the customer experience?
+### How does this focus on solving problems—rather than just selling products—change the way Lowe’s approaches the customer experience?
 
 Exactly. At Lowe’s, most customers aren’t just buying a product—they’re tackling a project. They might come in for a faucet, but what they really need is help fixing a leak or remodeling a bathroom. That shift—from product to project—reshapes how we think about every part of the experience.
 
@@ -80,13 +80,13 @@ Both tools were built in collaboration with OpenAI and grounded in Lowe’s 100 
 
 Listen
 
-#### How have you approached deploying AI at Lowe’s, particularly from an infrastructure perspective? Where did you start, and were there any challenges along the way?
+### How have you approached deploying AI at Lowe’s, particularly from an infrastructure perspective? Where did you start, and were there any challenges along the way?
 
 Our AI journey began long before the hype. Through Lowe’s Innovation Labs, we’ve been exploring emerging technologies with a 3-to-5-year horizon, working with OpenAI on transformer models well before ChatGPT became widely known. We’ve already deployed over 50 machine learning models in areas like pricing, forecasting, and supply chain.
 
 However, when consumer expectations around AI shifted in late 2022 with ChatGPT, the internal conversation evolved. Suddenly, everyone—from store teams to senior leaders—wanted to know about our AI initiatives. To respond effectively, we established an AI governance committee and launched an AI Community of Practice. We knew AI adoption had to be purposeful, so we created a strategic framework centered on how our customers shop, how we sell, and how we work—three key areas that continue to guide our AI efforts.
 
-#### How has AI impacted how Lowe’s operates on a day-to-day basis?
+### How has AI impacted how Lowe’s operates on a day-to-day basis?
 
 AI is enhancing how we operate across the business. It’s helping our teams access insights faster, plan more effectively, and make decisions with greater precision and confidence.
 
@@ -96,13 +96,13 @@ From merchandising and supply chain to store operations and digital, AI supports
 
 Listen
 
-#### With such a large workforce, what’s been your strategy for building AI fluency across Lowe’s?
+### With such a large workforce, what’s been your strategy for building AI fluency across Lowe’s?
 
 We established a dedicated AI Transformation Office to bridge the gap between technology and business, emphasizing change management and building AI fluency throughout the organization. With OpenAI, we offer tailored training for business leaders—not only on using AI tools but on strategically applying them. We’ve also integrated AI fundamentals into our corporate learning curriculum, enabling associates across functions to stay current as the technology evolves.
 
 Simultaneously, we’ve cultivated a thriving internal AI community that fosters curiosity, innovation, and cross-functional collaboration. What began organically within our tech teams has now expanded across the company, driving strong adoption as teams find practical ways to use AI to solve real business challenges. It’s become a key part of our culture—accessible, collaborative, and focused on impact.
 
-#### As you continue to implement AI, how do you measure ROI? What kind of metrics do you focus on?
+### As you continue to implement AI, how do you measure ROI? What kind of metrics do you focus on?
 
 We take a phased approach to measuring ROI, starting with leading indicators to track early adoption and impact. For instance, when we launched our store companion tool, we focused on usage metrics: Are associates using it regularly? Are they asking the right questions? Is customer feedback improving recommendations?
 
@@ -114,7 +114,7 @@ Ultimately, our goal is to ensure AI drives business outcomes while enhancing th
 
 Listen
 
-#### What’s next for Lowe’s in terms of AI and personalization?
+### What’s next for Lowe’s in terms of AI and personalization?
 
 Personalization is a key part of our strategy. With AI, we can offer tailored product recommendations based on the customer’s project and the specific problem they’re solving. For example, if a customer asks for mulch, we can not only calculate how much they need but also suggest the best type for their region, considering factors like climate.
 
@@ -130,19 +130,17 @@ More than 1 million businesses around the world are achieving meaningful results
 
 ## Keep reading
 
-![oai endava 1x1](https://images.ctfassets.net/kftzwdyauwt9/6CJMPcvmo9FlUZMnAetSGl/9686223d1bd7d90b9926c0bedd4e8fb9/oai_endava_1x1.png?w=3840&q=90&fm=webp)
+![Confidential submission of draft S-1 to the SEC > cover image](https://images.ctfassets.net/kftzwdyauwt9/36doI12YCwUtp1hzD4d8bj/84e67c565f39e7d5ca3ee011efa69756/confidential-submission-of-draft-s-1-to-the-sec-1x1.png?w=3840&q=90&fm=webp)
 
-[How Endava is redesigning software delivery around AI agentsJun 4, 2026](</index/endava-frontiers/>)
+[Confidential submission of draft S-1 to the SECCompanyJun 8, 2026](</index/openai-submits-confidential-s-1/>)
 
-![Art Card 1080x1080 \(3\)](https://images.ctfassets.net/kftzwdyauwt9/3JLNH7ejJFnxLmX2LpzoKD/19f9e3c4d36cc9d677ba88e842ad2db2/Art_Card_1080x1080__4_.png?w=3840&q=90&fm=webp)
+![Built for broad benefit > cover](https://images.ctfassets.net/kftzwdyauwt9/bEe28mW3dEOj9pKJsPp2u/13f7bed9e86b0667ba924479d62f98e4/Art_Card_1080x1080_1.png?w=3840&q=90&fm=webp)
 
-Better memory for a more helpful ChatGPT
+[Built to benefit everyone: our planCompanyJun 8, 2026](</index/built-to-benefit-everyone-our-plan/>)
 
-[Dreaming: Better memory for a more helpful ChatGPTResearchJun 4, 2026](</index/chatgpt-memory-dreaming/>)
+![Economic research forum > art card ](https://images.ctfassets.net/kftzwdyauwt9/2DpNjvjdVuCrLKNOrFrWJ7/1aefe1cbe252bcd9ba42035469fc8a0f/art_card.png?w=3840&q=90&fm=webp)
 
-![oai 1x1 Biodefense in the Intelligence Age](https://images.ctfassets.net/kftzwdyauwt9/6A4rrCBs9rrlbzm9JWIvSi/8a4ae56849fcd0b16e90b59b8babc613/oai_1x1_Biodefense_in_the_Intelligence_Age.png?w=3840&q=90&fm=webp)
-
-[Biodefense in the Intelligence AgeGlobal AffairsJun 4, 2026](</index/biodefense-in-the-intelligence-age/>)
+[Introducing the OpenAI Economic Research ExchangeCompanyJun 8, 2026](</index/economic-research-exchange/>)
 
 Research
 
