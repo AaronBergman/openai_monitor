@@ -54,7 +54,7 @@ Channel NewsAsia (CNA) is a global news network based in Singapore that reaches 
 
 We spoke to Walter Fernandez about the journey CNA is taking with AI, how it’s transforming the way its journalists work with AI and what the future looks like within the newsroom with AI. 
 
-#### Walter, today, every part of the newsroom at CNA is using AI. Looking back to when you were first starting this journey, what was the vision you had, and how does it compare to where you are today?
+### Walter, today, every part of the newsroom at CNA is using AI. Looking back to when you were first starting this journey, what was the vision you had, and how does it compare to where you are today?
 
 We started experimenting with AI back in 2019—long before ChatGPT took the world by storm. Even then, we saw tremendous potential for AI to transform newsrooms. At that time, most editors saw AI as an assistive technology, something on the side to help them.
 
@@ -70,7 +70,7 @@ Listen
 
 AI is now central to our disinformation work, in surfacing hidden stories in vast data, and in delivering content across multiple formats and languages.
 
-#### I find it especially interesting that you started experimenting back in 2019. Adopting AI is very much about experimentation and learning. Among all the ways you’re using AI, what’s one major example you can share?
+### I find it especially interesting that you started experimenting back in 2019. Adopting AI is very much about experimentation and learning. Among all the ways you’re using AI, what’s one major example you can share?
 
 Let me use Singapore’s recent General Election as an example. That was a time when we really deployed ChatGPT in our coverage.
 
@@ -80,7 +80,7 @@ Second, we used OpenAI’s advanced reasoning models to analyze election campaig
 
 That’s what excites us about ChatGPT—the ability to do things in the newsroom we simply couldn’t do before.
 
-#### That’s a powerful example. And for citizens, having accurate, timely information during elections is critical. But I remember that at the beginning, there was some hesitation in your newsroom about AI tools. How did you shift the culture and get buy-in?
+### That’s a powerful example. And for citizens, having accurate, timely information during elections is critical. But I remember that at the beginning, there was some hesitation in your newsroom about AI tools. How did you shift the culture and get buy-in?
 
 The turning point was finding the first real newsroom use case. We asked journalists “what is your biggest pain point”. There were many, but one stood out—covering Parliament.
 
@@ -92,7 +92,7 @@ Listen
 
 To date, it’s incredible to see that the team has created over twenty custom GPTs, including a general purpose GPT “Newsroom Buddy” to help journalists brainstorm ideas and check against the CNA style guide. This has been one of the most popular GPTs so far.
 
-#### One of the things I’ve noticed is how your newsroom has changed—not just workflows, but culture. Looking ahead, not just for CNA but for the media industry globally, how do you see AI adoption evolving?
+### One of the things I’ve noticed is how your newsroom has changed—not just workflows, but culture. Looking ahead, not just for CNA but for the media industry globally, how do you see AI adoption evolving?
 
 > “Enablement and culture are critical pillars of how you use AI in the newsroom, and they take time. The most important thing is mass adoption.”
 
@@ -100,7 +100,7 @@ Listen
 
 We’ve rolled out more than 500 enterprise licenses across CNA and another 2,000 at group level. Everyone is using the tools—but training is just as important. We run basic and advanced training with the OpenAI team, hackathons, and encourage cross-functional teams. It’s not just for the “AI team.” Editors, journalists, audience teams, everyone is involved.
 
-#### What message would you share with your peers across APAC? 
+### What message would you share with your peers across APAC? 
 
 We have a vision to build a fully AI-enabled newsroom, in which we leverage AI effectively in every process. In an era where AI tools can generate an infinite amount of content and clone our physical and audio likeness in minutes, the true differentiating factor for newsrooms will no longer be about language, format or the medium they publish or broadcast in. In a sea of “AI slop” it will be all about the quality and relevance of our content. 
 

@@ -60,11 +60,11 @@ With GPT‑5.3‑Codex, Codex goes from an agent that can write and review code 
 
 GPT‑5.3‑Codex sets a new industry high on SWE-Bench Pro and Terminal-Bench, and shows strong performance on OSWorld and GDPval, four benchmarks we use to measure coding, agentic and real-world capabilities. 
 
-#### Coding
+### Coding
 
 GPT‑5.3‑Codex achieves state-of-the-art performance on SWE-Bench Pro, a rigorous evaluation of real-world software engineering. Where SWE‑bench Verified only tests Python, SWE‑Bench Pro spans four languages and is more contamination‑resistant, challenging, diverse and industry-relevant. It also far exceeds the previous state-of-the-art performance on Terminal-Bench 2.0, which measures the terminal skills a coding agent like Codex needs. Notably, GPT‑5.3‑Codex does so with fewer tokens than any prior model, letting users build more.
 
-#### Web development
+### Web development
 
 Combining frontier coding capabilities, improvements in aesthetics, and compaction results in a model that can do striking work, building highly functional complex games and apps from scratch over the course of days. To test the model’s web development and long-running agentic capabilities, we asked GPT‑5.3‑Codex to build us two games: version two of the racing game from the [_Codex app launch_ ⁠](<https://openai.com/index/introducing-the-codex-app/>), and a diving game. Using the develop web game skill and preselected, generic follow-up prompts like "fix the bug" or "improve the game", GPT‑5.3‑Codex iterated on the games autonomously over millions of tokens. Watch the trailers and play the games for yourself to see what Codex can do.
 
@@ -83,7 +83,7 @@ GPT-5.3-CodexGPT-5.2-Codex
 \- Buttons soft corners, 14px radius, strong focus states.  
 \- Add one tasteful scroll based reveal.
 
-#### Beyond coding
+### Beyond coding
 
 Software engineers, designers, product managers, and data scientists do far more than generate code. GPT‑5.3‑Codex is built to support all of the work in the software lifecycle—debugging, deploying, monitoring, writing PRDs, editing copy, user research, tests, metrics, and more. Its agentic capabilities go beyond software, helping you build whatever you want to build—whether it’s slide decks or analyzing data in sheets.
 

@@ -67,7 +67,7 @@ This is how organizations move from isolated AI wins to broader business reinven
 
 This is the fastest value model to activate. It spreads practical AI capability across the workforce, creating near-term productivity gains while **building the fluency required for deeper transformation**. The larger benefit is not faster drafting, synthesis, or analysis but organizational readiness. HR can enable, Legal can govern, Finance can fund, and business teams can collaborate with a shared understanding of where AI works and how to use it safely.
 
-##### What to measure
+#### What to measure
 
   * Repeated use by role, and proficiency level
   * Reusable prompts, workflows, and assets across teams
@@ -76,11 +76,11 @@ This is the fastest value model to activate. It spreads practical AI capability 
 
 
 
-##### Common failure mode
+#### Common failure mode
 
 A two-tier workforce: a small group of power users moves ahead while the rest of the organization stalls.
 
-##### Leadership move
+#### Leadership move
 
 Build a champions network and starter workflows, such as performance evaluation, contract management and procure to pay, that make best practices relatable and inspiring.
 
@@ -88,7 +88,7 @@ Build a champions network and starter workflows, such as performance evaluation,
 
 This model matters because AI is **changing how customers discover, evaluate, and choose products and services** with an entirely new level of engagement. In AI-native channels, conversion increasingly happens inside a conversation. That shifts the growth question from reach to trust and presence at moments of intent. The winners will not simply be the most visible. They will be the most useful, credible, and well-timed when a decision is being made.
 
-##### What to measure
+#### What to measure
 
   * Qualified intent, and number of iterations before user commitment
   * Conversion quality, including retention, upsell, and lifetime value
@@ -97,11 +97,11 @@ This model matters because AI is **changing how customers discover, evaluate, an
 
 
 
-##### Common failure mode
+#### Common failure mode
 
 Treating AI-native distribution like a legacy demand funnel and optimizing for volume at the expense of relevance and durable trust.
 
-##### Leadership move
+#### Leadership move
 
 Pick one surface such as a vertical experience, an embedded app, or a specific ad objective, and define conversion quality before scaling your investment.
 
@@ -109,7 +109,7 @@ Pick one surface such as a vertical experience, an embedded app, or a specific a
 
 This model inserts specialized AI capability into research, creative, and domain-heavy work. Near term, it compresses expert bottlenecks. Over time, it changes the operating model: teams shift from producing first drafts themselves to directing, reviewing, and integrating high-quality outputs generated in real-time. The value comes from **expanding what the team can examine, test, or produce** in an environment that enables every insight to be investigated with action plans and ROI potential instead of prioritizing upstream on intuition alone.
 
-##### What to measure
+#### What to measure
 
   * Cycle-time reduction on expert bottlenecks
   * Quality lift, including reviewer scores, error rates, and rework
@@ -118,11 +118,11 @@ This model inserts specialized AI capability into research, creative, and domain
 
 
 
-##### Common failure mode
+#### Common failure mode
 
 Treating expert capability like a demo rather than embedding it in a real workflow with clear accountability.
 
-##### Leadership move
+#### Leadership move
 
 Choose one expert bottleneck and focus the value proposition on the decision makers who sign off, with a clear agreement on what evidence is required to turn a new concept into the next building block of your business.
 
@@ -130,7 +130,7 @@ Choose one expert bottleneck and focus the value proposition on the decision mak
 
 Coding agents are the clearest current example, but the larger value model is safe upgrades across interconnected systems of work. Over time, organizations will want the same capability applied not just to code, but to SOPs, contracts, policy documents, customer narratives, onboarding flows, and other artifacts that must stay consistent as they evolve. This is less about generation than control: faster updates, fewer downstream breakages, stronger compliance, and better auditability.
 
-##### What to measure
+#### What to measure
 
   * Time to safe change across connected artifacts and version conflict resolutions
   * Audit readiness, including traceability of edits, approvals, and evidence
@@ -139,11 +139,11 @@ Coding agents are the clearest current example, but the larger value model is sa
 
 
 
-##### Common failure mode
+#### Common failure mode
 
 Scaling content or code generation faster than governance, creating systemic debt that will need painstaking resolution down the line.
 
-##### Leadership move
+#### Leadership move
 
 Start with one high-dependency domain and define the dependency graph, approval path, and evidence requirements before automating changes with an AI control layer.
 
@@ -153,7 +153,7 @@ This is the slowest model to scale and often the most transformative. Here, agen
 
 The payoff is once again much larger than mere efficiency. Re-engineering a workflow forces your organization to revisit what the process is for, where judgment belongs, and where new value can be created. This is the hidden door where business-model change begins.
 
-##### What to measure
+#### What to measure
 
   * End-to-end cycle time
   * Exception rate and resolution time
@@ -162,11 +162,11 @@ The payoff is once again much larger than mere efficiency. Re-engineering a work
 
 
 
-##### Common failure mode
+#### Common failure mode
 
 Trying to automate end-to-end workflows before permissions, controls, and accountability are mature.
 
-##### Leadership move
+#### Leadership move
 
 Pick one workflow and run a readiness assessment across identity, entitlements, tool integration, logging, exception handling, and ownership.
 
@@ -191,7 +191,7 @@ A few examples:
 
 If you are leading an AI strategy today, keep it simple with three stages.
 
-##### Phase 1: Build fluency and trust
+#### Phase 1: Build fluency and trust
 
   * Empower the broad workforce with role-based workflows and a champions network.
   * Establish the governance basics: what is allowed, what is reviewed, what is logged, and who owns adoption.
@@ -199,7 +199,7 @@ If you are leading an AI strategy today, keep it simple with three stages.
 
 
 
-##### Phase 2: Capture value and raise the ceiling
+#### Phase 2: Capture value and raise the ceiling
 
   * Pick a small number of high-value motions: one distribution play, one expert bottleneck, and one workflow with visible ROI.
   * Measure value in business terms: conversion quality, cycle-time reduction, quality lift, risk reduction, and new revenue potential.
@@ -207,7 +207,7 @@ If you are leading an AI strategy today, keep it simple with three stages.
 
 
 
-##### Phase 3: Scale with confidence and reinvent
+#### Phase 3: Scale with confidence and reinvent
 
   * Extend AI into high-dependency systems and end-to-end workflows only when permissions, auditability, and exception handling are real.
   * Use those foundations to redesign the operating model, not just accelerate the old one.

@@ -36,7 +36,7 @@ OpenAI is committed to complying with the [_Australian Online Safety Act⁠_ ⁠
 
 We aim to balance delivering helpful and accessible information to all users while mitigating the risks of online harm. We use a range of procedures and tools to protect users from illegal and harmful content. 
 
-#### Illegal content
+### Illegal content
 
 This includes measures to prevent, detect, respond to, and take enforcement action against illegal content, such as terrorism content, child sexual exploitation and abuse content, extreme violence content and other illegal content. 
 
@@ -44,7 +44,7 @@ We aim to review and remove illegal content as swiftly as possible when we becom
 
 More information on our moderation and enforcement processes is set out in our [_Transparency & Content Moderation page_](</transparency-and-content-moderation/>). Please see our [_Reporting Content page_ ⁠(opens in a new window)](<https://help.openai.com/en/articles/10245791-reporting-content-in-chatgpt-and-openai-platforms>), for details about how you can report content, including illegal content, on our services.
 
-#### Harmful content 
+### Harmful content 
 
 We aim to provide a safe online experience for all our users, and take action to protect all users (including users under 18) from harmful content that violates our policies. This includes content the Australian Online Safety Act recognises as illegal and restricted online content.
 
@@ -59,7 +59,7 @@ There are also third party support resources [_recommended by eSafety_ ⁠(opens
 
 
 
-#### Our use of proactive technology 
+### Our use of proactive technology 
 
 We use proactive technology to help prevent users generating, encountering and accessing illegal and harmful content on our services. This includes the use of model training and policies, content classifiers, reasoning models, hash-matching, blocklists, and other automated systems to identify content that may violate our terms or policies. 
 
@@ -75,7 +75,7 @@ The eSafety Commissioner is Australia’s independent regulator for online safet
 
 You can [_directly report_ ⁠(opens in a new window)](<https://www.esafety.gov.au/report>) cyberbullying, adult cyber abuse, image-based abuse, illegal and restricted online content, or your concerns about OpenAI’s compliance with the Australian Online Safety Act to eSafety.
 
-#### Appealing content moderation decisions
+### Appealing content moderation decisions
 
 If we take enforcement action based on your content or activity (including following our use of proactive technology), and you think we have a mistake, you can report this to us and appeal our decision. Further information on how to appeal is set out on our [_Transparency & Content Moderation page_](</transparency-and-content-moderation/>). 
 

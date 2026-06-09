@@ -75,19 +75,19 @@ OpenAI has invested early in applying AI to defensive cybersecurity use cases an
 
 Alongside these collaborations, we are establishing a set of efforts designed to help defenders move faster, ground our safeguards in real-world needs, and accelerate responsible remediation at scale.
 
-#### Trusted access programs for cyberdefense
+### Trusted access programs for cyberdefense
 
 We will soon introduce a trusted access program where we explore providing qualifying users and customers working on cyberdefense with tiered access to enhanced capabilities in our latest models for defensive use cases. We're still exploring the right boundary of which capabilities we can provide broad access to and which ones require tiered restrictions, which may influence the future design of this program. We aim for this trusted access program to be a building block towards a resilient ecosystem.
 
-#### Expanding defensive capacity with Aardvark
+### Expanding defensive capacity with Aardvark
 
 [Aardvark](</index/introducing-aardvark/>), our agentic security researcher that helps developers and security teams find and fix vulnerabilities at scale, is now in private beta. It scans codebases for vulnerabilities and proposes patches that maintainers can adopt quickly. It has already identified novel CVEs in open-source software by reasoning over entire codebases. We plan to offer free coverage to select non-commercial open source repositories to contribute to the security of the open source software ecosystem and supply chain. Apply to participate [here](</form/aardvark-beta-signup/>).
 
-#### Frontier Risk Council
+### Frontier Risk Council
 
 We will be establishing the Frontier Risk Council, an advisory group that will bring experienced cyber defenders and security practitioners into close collaboration with our teams. This council will start with a focus on cybersecurity, and expand into other frontier capability domains in the future. Members will advise on the boundary between useful, responsible capability and potential misuse, and these learnings will directly inform our evaluations and safeguards. We will share more on the council soon. 
 
-#### Developing a shared understanding on threat models with the industry
+### Developing a shared understanding on threat models with the industry
 
 Finally, we anticipate cyber misuse may be viable from any frontier model in the industry. To address this, we work with other frontier labs through the Frontier Model Forum, a nonprofit backed by leading AI labs and industry partners, to develop a shared understanding of threat models and best practices. In this context, threat modeling helps mitigate risk by identifying how AI capabilities could be weaponized, where critical bottlenecks exist for different threat actors, and how frontier models might provide meaningful uplift. This collaboration aims to build a consistent, ecosystem-wide understanding of threat actors and attack pathways, enabling labs, maintainers, and defenders to better improve their mitigations and ensure critical security insights propagate quickly across the ecosystem. We are also engaging with external teams to develop [cybersecurity evaluations⁠(opens in a new window)](<https://www.irregular.com/publications/spell-bound-technical-case-study>). We hope an ecosystem of independent evaluations will further help build a shared understanding of model capabilities.
 

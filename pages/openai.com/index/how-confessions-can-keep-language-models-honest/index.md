@@ -61,7 +61,7 @@ A confession is a second output, separate from the model’s main answer to the 
 
 In our tests, we found that the confessions method significantly improves the visibility of model misbehavior. Averaging across our evaluations designed to induce misbehaviors, the probability of “false negatives” (i.e., the model not complying with instructions and then not confessing to it) is only 4.4%.
 
-##### Confession accuracy
+#### Confession accuracy
 
 Accuracy of our “proof of concept” confession model on a number of adversarial datasets. Outcomes are categorized as complied and didn’t confess (true negative), complied and confessed (false positive), didn’t comply and didn’t confess (false negative), and didn’t comply and confessed (true positive).
 

@@ -84,7 +84,7 @@ The models were post-trained using a similar process as used for o4-mini, includ
 
 Similar to the OpenAI o-series reasoning models in the API, the two open-weight models support three reasoning efforts—low, medium, and high—which trade off latency vs. performance. Developers can easily set the reasoning effort with one sentence in the system message. 
 
-#### Evaluations
+### Evaluations
 
 We evaluated gpt-oss-120b and gpt-oss-20b across standard academic benchmarks to measure their capabilities in coding, competition math, health, and agentic tool use when compared to other OpenAI reasoning models including o3, o3‑mini and o4-mini.
 
@@ -147,7 +147,7 @@ The specifications describe the **gpt‑oss‑120b** as a 120 B‑parameter mixt
 
 gpt-oss-120b is able to quickly aggregate up-to-date information using a browsing tool, including chaining together 10s of subsequent calls.
 
-#### Chain-of-thought (CoT)
+### Chain-of-thought (CoT)
 
 Our [_recent research_ ⁠](<https://openai.com/index/chain-of-thought-monitoring/>) has shown that monitoring a reasoning model’s CoT can be helpful for detecting misbehavior as long as the model was not trained with direct supervision for aligning the CoT. This perspective is [_shared_ ⁠(opens in a new window)](<https://arxiv.org/html/2507.11473v1>) by others in the industry as well. In line with our principles since launching [_OpenAI o1‑preview_ ⁠](<https://openai.com/index/introducing-openai-o1-preview/>), we did not put any direct supervision on the CoT for either gpt-oss model. We believe this is critical to monitor model misbehavior, deception and misuse. Our hope is that releasing an open model with a non-supervised chain of thought gives developers and researchers the opportunity to research and implement their own CoT monitoring systems.
 

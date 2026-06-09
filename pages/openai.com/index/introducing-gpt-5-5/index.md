@@ -82,7 +82,7 @@ Across these domains, GPT‑5.5 is not just more intelligent; it is more efficie
 
 The [Artificial Analysis Intelligence Index⁠(opens in a new window)](<https://artificialanalysis.ai/methodology/intelligence-benchmarking>) is a weighted average of 10 evals ran by an external party: AA-LCR, AA-Omniscience, CritPt, GDPval-AA, GPQA Diamond, Humanity’s Last Exam, IFBench, SciCode, Terminal-Bench Hard, τ²-Bench Telecom.
 
-#### Agentic coding
+### Agentic coding
 
 GPT‑5.5 is our strongest agentic coding model to date. On **Terminal-Bench 2.0,** which tests complex command-line workflows requiring planning, iteration, and tool coordination, it achieves a state-of-the-art accuracy of 82.7%. On **SWE-Bench Pro** , which evaluates real-world GitHub issue resolution, it reaches 58.6%, solving more tasks end-to-end in a single pass than previous models. On **Expert-SWE** , our internal frontier eval for long-horizon coding tasks with a median estimated human completion time of 20 hours, GPT‑5.5 also outperforms GPT‑5.4.
 
@@ -130,7 +130,7 @@ CursorLovableCognitionWindsurfGitHubJetBrainsSonar
 
 — Michael Truell, Co-founder & CEO at Cursor
 
-#### Knowledge work
+### Knowledge work
 
 The same strengths that make GPT‑5.5 great at coding also make it powerful for everyday work on a computer. Because the model is better at understanding intent, it can move more naturally through the full loop of knowledge work: finding information, understanding what matters, using tools, checking the output, and turning raw material into something useful.
 
@@ -154,7 +154,7 @@ NVIDIACiscoAbridgeDatabricksHarveyBoxLowe’sGleanPalo Alto NetworksRampPerplexi
 
 — Justin Boitano, VP of Enterprise AI at NVIDIA
 
-#### Scientific research
+### Scientific research
 
 GPT‑5.5 also shows gains on scientific and technical research workflows, which require more than answering a hard question. Researchers need to explore an idea, gather evidence, test assumptions, interpret results, and decide what to try next. GPT‑5.5 is better at persisting across that loop than other models.
 
@@ -254,7 +254,7 @@ While GPT‑5.5 is priced higher than GPT‑5.4, it is both more intelligent and
 
 ## Evaluations
 
-##### Coding
+### Coding
 
 **Eval**| **GPT‑5.5**| **GPT‑5.4**| **GPT‑5.5 Pro**| **GPT‑5.4 Pro**| **Claude Opus 4.7**| **Gemini 3.1 Pro**  
 ---|---|---|---|---|---|---  
@@ -264,7 +264,7 @@ Expert-SWE (Internal)| 73.1%| 68.5%| -| -| -| -
   
 *Labs have noted [evidence of memorization⁠(opens in a new window)](<https://www.anthropic.com/news/claude-opus-4-7>) on this eval
 
-##### Professional
+### Professional
 
 **Eval**| **GPT‑5.5**| **GPT‑5.4**| **GPT‑5.5 Pro**| **GPT‑5.4 Pro**| **Claude****Opus 4.7**| **Gemini 3.1 Pro**  
 ---|---|---|---|---|---|---  
@@ -273,7 +273,7 @@ FinanceAgent v1.1| 60.0%| 56.0%| -| 61.5%| 64.4%| 59.7%
 Investment Banking Modeling Tasks (Internal)| 88.5%| 87.3%| 88.6%| 83.6%| -| -  
 OfficeQA Pro| 54.1%| 53.2%| -| -| 43.6%| 18.1%  
   
-##### Computer use and vision
+### Computer use and vision
 
 **Eval**| **GPT‑5.5**| **GPT‑5.4**| **GPT‑5.5 Pro**| **GPT‑5.4 Pro**| **Claude****Opus 4.7**| **Gemini 3.1 Pro**  
 ---|---|---|---|---|---|---  
@@ -281,7 +281,7 @@ OSWorld-Verified| 78.7%| 75.0%| -| -| 78.0%| -
 MMMU Pro (no tools)| 81.2%| 81.2%| -| -| -| 80.5%  
 MMMU Pro (with tools)| 83.2%| 82.1%| -| -| -| -  
   
-##### Tool use
+### Tool use
 
 **Eval**| **GPT‑5.5**| **GPT‑5.4**| **GPT‑5.5 Pro**| **GPT‑5.4 Pro**| **Claude****Opus 4.7**| **Gemini 3.1 Pro**  
 ---|---|---|---|---|---|---  
@@ -294,7 +294,7 @@ Tau2-bench Telecom***
 ** MCP Atlas: results from Scale AI after the latest 2026 April update.   
 *** Tau2-bench telecom: results for 5.5 and 5.4 with original prompts i.e no prompt adjustment. This omits results from other labs that were evaluated with prompt adjustments.
 
-##### Academic
+### Academic
 
 **Eval**| **GPT‑5.5**| **GPT‑5.4**| **GPT‑5.5 Pro**| **GPT‑5.4 Pro**| **Claude****Opus 4.7**| **Gemini 3.1 Pro**  
 ---|---|---|---|---|---|---  
@@ -306,7 +306,7 @@ GPQA Diamond| 93.6%| 92.8%| -| 94.4%| 94.2%| 94.3%
 Humanity's Last Exam (no tools)| 41.4%| 39.8%| 43.1%| 42.7%| 46.9%| 44.4%  
 Humanity's Last Exam (with tools)| 52.2%| 52.1%| 57.2%| 58.7%| 54.7%| 51.4%  
   
-##### Cybersecurity
+### Cybersecurity
 
 **Eval**| **GPT‑5.5**| **GPT‑5.4**| **GPT‑5.5 Pro**| **GPT‑5.4 Pro**| **Claude****Opus 4.7**| **Gemini 3.1 Pro**  
 ---|---|---|---|---|---|---  
@@ -315,7 +315,7 @@ CyberGym| 81.8%| 79.0%| -| -| 73.1%| -
   
 **** An expansion of the hardest CTFs used in system cards with additional hard challenges.
 
-##### Long context
+### Long context
 
 **Eval**| **GPT‑5.5**| **GPT‑5.4**| **GPT‑5.5 Pro**| **GPT‑5.4 Pro**| **Claude****Opus 4.7**| **Gemini 3.1 Pro**  
 ---|---|---|---|---|---|---  
@@ -332,7 +332,7 @@ OpenAI MRCR v2 8-needle 128K-256K| 87.5%| 79.3%| -| -| 59.2%| -
 OpenAI MRCR v2 8-needle 256K-512K| 81.5%| 57.5%| -| -| -| -  
 OpenAI MRCR v2 8-needle 512K-1M| 74.0%| 36.6%| -| -| 32.2%| -  
   
-##### Abstract reasoning
+### Abstract reasoning
 
 **Eval**| **GPT‑5.5**| **GPT‑5.4**| **GPT‑5.5 Pro**| **GPT‑5.4 Pro**| **Claude Opus 4.7**| **Gemini 3.1 Pro**  
 ---|---|---|---|---|---|---  

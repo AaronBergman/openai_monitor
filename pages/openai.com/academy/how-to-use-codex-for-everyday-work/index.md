@@ -79,7 +79,7 @@ Calendar, unread messages, unread email, open follow-ups, notes, and priority co
   
 **Suggested plugins:** Google Calendar, Gmail, Slack, Google Drive, Documents
 
-#### How it works
+### How it works
 
   1. ChatGPT Codex reviews the day’s calendar, recent messages, email, notes, and follow-up sources.
   2. It identifies priorities, meeting prep needs, reply-worthy messages, open decisions, and useful FYIs.
@@ -87,13 +87,13 @@ Calendar, unread messages, unread email, open follow-ups, notes, and priority co
 
 
 
-#### Starter prompt
+### Starter prompt
 
 Try it out
 
 Set up a weekday work brief that starts in the morning and keeps checking throughout the day. At the start of the day, review today's calendar, unread direct messages and mentions from the last 24 hours, unread email from the last 24 hours, my running list of open follow-ups, and any recent context that affects today's priorities. Create a short brief with priorities, meeting prep, messages that need replies, decisions I owe, and useful FYIs. Then check back every hour until the end of the workday for new replies, meeting changes, or follow-ups that need attention. Only update me when something changes or needs action. Draft replies only when the next step is clear, and flag anything you cannot access or cannot confirm.
 
-##### Real-world example
+#### Real-world example
 
  _Set up a weekday heartbeat called “Morning Work Brief” that starts at 8:30 AM local time and keeps checking throughout the workday. At 8:30, use today’s calendar, unread Slack DMs and mentions from the previous 24 hours, unread Gmail from the previous 24 hours, my Google Doc “Open Follow-Ups,” and any recent context that affects today. Create a brief with priorities, meeting prep, messages needing reply, decisions I owe, and FYIs. Then check every hour until 5 PM for new replies, meeting changes, or follow-ups I need to handle. Only update me when something changes or needs my attention. Draft replies only when the next step is clear. Flag missing access or uncertainty._
 
@@ -105,7 +105,7 @@ Set up a weekday work brief that starts in the morning and keeps checking throug
 ---|---  
 Calendar, edited docs, sent messages, planning tracker, project notes, and relevant weekly context| A weekly update with completed work, decisions, changes, blockers, follow-ups, next priorities, and source links  
   
-#### How it works
+### How it works
 
   1. ChatGPT Codex reviews the week’s meetings, documents, messages, trackers, and project context.
   2. It identifies completed work, decisions, important changes, blockers, follow-ups, and next priorities.
@@ -113,13 +113,13 @@ Calendar, edited docs, sent messages, planning tracker, project notes, and relev
 
 
 
-#### Starter prompt
+### Starter prompt
 
 Try it out
 
 I'm writing my weekly update. Use my calendar, documents I edited, messages I sent in work channels, my main tracker or planning doc, and anything else that looks relevant to this week. Write a manager-ready summary that covers work completed, decisions made, important changes, blockers, follow-ups, and next week's priorities. Include source links where possible, and separate confirmed facts from anything that is an inference.
 
-##### Real-world example
+#### Real-world example
 
  _I’m writing my Friday update for the week of April 20. Use my calendar, Google Docs I edited, Slack messages I sent in #launch-planning and #sales-enablement, “Q2 Workstream Tracker,” and anything else that looks relevant to my week. Write a manager-ready summary with work finished, decisions, important changes, blockers, follow-ups, and next week 's priorities. Include source links. Separate confirmed facts from inferences._
 
@@ -133,13 +133,13 @@ Project brief, source docs, metrics, customer or audience context, slide templat
   
 **Suggested plugins:** Google Drive, Presentations, Documents, Figma, Canva
 
-#### Prompt to try
+### Prompt to try
 
 Try it
 
 I need a draft slide deck for an upcoming customer onboarding review. Use the main project brief, any summaries of customer pain points, the latest onboarding metrics, any available slide template, and related context. Create a seven-slide PowerPoint with an executive summary, the core customer problem, the main issues, an example workflow, adoption or usage signals, an improvement plan, and open decisions. Keep the text editable, add speaker notes, and render the slides so you can fix overflow, crowded layouts, and unreadable charts. Do not invent metrics, and flag any missing data.
 
-##### Real-world example
+#### Real-world example
 
  _I need a draft deck for the April 23 customer onboarding review. Use “Customer Onboarding Brief,” “Top Customer Onboarding Issues,” “April Onboarding Metrics,” the attached “Simple Company Template.pptx,” and related onboarding context. Create a 7-slide PowerPoint with an exec summary, customer problem, top issues, example workflow, adoption signals, improvement plan, and open decisions. Keep text editable. Add speaker notes. Render the slides and fix overflow, crowded layouts, or unreadable charts. Do not invent metrics. Flag missing data._
 
@@ -153,7 +153,7 @@ Prior recaps, planning docs, ROI model, audience or account list, budget guardra
   
 **Suggested plugins:** Google Drive, Documents, Notion, SharePoint, Box
 
-#### How it works
+### How it works
 
   1. ChatGPT Codex reviews internal files, planning context, budget constraints, and requested external research areas.
   2. It separates internal evidence from outside research, open questions, and interpretation.
@@ -161,13 +161,13 @@ Prior recaps, planning docs, ROI model, audience or account list, budget guardra
 
 
 
-#### Starter prompt
+### Starter prompt
 
 Try it
 
 I'm deciding whether our team should sponsor or invest in a major industry event next year. Use prior event recaps, the event ROI model, the target account or audience list, budget guardrails, and related planning notes. Search the web for current event dates, audience details, sponsorship options, pricing information if available, and competitor presence. Write a one-page decision memo with a recommendation, supporting evidence, tradeoffs, cost, risks, missing information, and source links. Make it clear what came from internal files and what came from web research.
 
-##### Real-world example
+#### Real-world example
 
  _I’m deciding whether Acme should sponsor SaaStr Annual 2026. Use “2025 SaaStr Recap,” “Event ROI Model - Q4,” “FY26 Target Account List,” “Events Budget Guardrails,” and related event planning notes. Research current SaaStr dates, audience, sponsorship options, pricing if available, and competitor presence. Write a one-page decision memo with a recommendation, evidence, tradeoffs, cost, risks, missing information, and source links. Make clear what came from our files and what came from outside research._
 
@@ -181,7 +181,7 @@ CSVs, spreadsheets, mapping notes, source files, cleanup rules, required field o
   
 **Suggested plugins:** Google Drive, Spreadsheets, Documents, SharePoint, Box
 
-#### How it works
+### How it works
 
   1. ChatGPT Codex reviews source files, mapping notes, duplicate rules, required fields, and cleanup constraints.
   2. It standardizes fields, removes duplicates, reformats records, and isolates missing or conflicting rows.
@@ -189,13 +189,13 @@ CSVs, spreadsheets, mapping notes, source files, cleanup rules, required field o
 
 
 
-#### Starter prompt
+### Starter prompt
 
 Try it
 
 I attached several source files that need to be cleaned and combined into one workbook. Standardize the attendee data so fields like name, company, title, country, segment, source, and attendance status are consistent. Remove duplicates using email as the primary key. Create an upload-ready CSV using the field order from the mapping notes, and put missing or conflicting rows in a “Needs Review” tab. Do not guess missing emails or other critical identifiers. Add a short change log explaining what you cleaned or merged.
 
-##### Real-world example
+#### Real-world example
 
  _Clean “Q2 Webinar Attendee Export.csv,” “Manual Registration Edits.xlsx,” “Partner Invite List.xlsx,” “Field Mapping Notes.docx,” and any related attached file into one workbook. Standardize name, company, title, country, segment, source, and attendance status. Remove duplicates by email. Create an upload-ready CSV using the column order in “Field Mapping Notes.docx.” Put missing or conflicting rows in a “Needs Review” tab. Do not guess missing emails. Add a short change log._
 
@@ -209,7 +209,7 @@ Spreadsheet exports, account or record keys, targets, segment files, reporting r
   
 **Suggested plugins:** Google Drive, Spreadsheets, Documents, SharePoint, Box
 
-#### How it works
+### How it works
 
   1. ChatGPT Codex reviews the exports, join keys, targets, segment definitions, and reporting requirements.
   2. It consolidates files, cleans duplicates, calculates key views, and surfaces mismatched records.
@@ -217,13 +217,13 @@ Spreadsheet exports, account or record keys, targets, segment files, reporting r
 
 
 
-#### Starter prompt
+### Starter prompt
 
 Try it
 
 I attached multiple spreadsheet exports that need to be consolidated into one updateable workbook. Join the data on account ID, clean duplicate accounts, calculate pipeline by region and segment, compare current pipeline to target, and create a dashboard with charts and plain-English insights. Include assumptions, refresh instructions, and a review section for any mismatched account IDs or records that could not be joined cleanly.
 
-##### Real-world example
+#### Real-world example
 
  _Consolidate “Q1 Pipeline by Region.csv,” “Q2 Pipeline by Region.csv,” “Account Segments.xlsx,” “FY26 Sales Targets.xlsx,” and any related attached file into an updateable workbook. Join on account ID, clean duplicate accounts, calculate pipeline by region and segment, compare Q2 pipeline to target, and create a dashboard with charts and plain-English insights. Add assumptions, refresh instructions, and mismatched account IDs to review._
 
@@ -237,7 +237,7 @@ CRM export, call transcripts, customer emails, usage dashboard, account plans, r
   
 **Suggested plugins:** Gong, Gmail, Slack, Google Drive, Spreadsheets, Documents
 
-#### How it works
+### How it works
 
   1. ChatGPT Codex reviews account records, customer conversations, email threads, usage signals, and account plans.
   2. It identifies which accounts need attention based on risk, upside, urgency, and missing context.
@@ -245,13 +245,13 @@ CRM export, call transcripts, customer emails, usage dashboard, account plans, r
 
 
 
-#### Starter prompt
+### Starter prompt
 
 Try it
 
 I'm planning my week for my top renewal accounts. Use the latest CRM account export, recent call transcripts, open customer email threads, the usage dashboard, account plans, and anything else that explains renewal risk or upside. Create a priority brief ranking the ten accounts I should focus on first. For each account, include why it matters now, the main risk or upside, the recommended next action, source links, and any stale or missing context. Draft customer follow-up notes only where the next step is clear, and mark anything that needs account executive or manager review.
 
-##### Real-world example
+#### Real-world example
 
  _I’m an account manager planning my week for my top renewal accounts. Use Salesforce export “April Renewal Account Export,” Gong transcripts from the last 30 days, open buyer email threads, “Renewal Usage Dashboard,” “Q2 Renewal Plans,” and anything else that explains renewal risk or upside. Create a book-of-business priority brief ranking the 10 accounts I should focus on. For each account, include why now, risk or upside, next action, source links, and stale or missing context. Draft customer follow-up notes only where the next step is clear, and mark anything needing AE review._
 
@@ -265,7 +265,7 @@ Close workbook, dashboard, support folder, prior deck, close-period messages, an
   
 **Suggested plugins:** Google Drive, Spreadsheets, Presentations, Slack, Documents
 
-#### How it works
+### How it works
 
   1. ChatGPT Codex reviews close materials, dashboards, support files, prior decks, and close-period discussion.
   2. It updates actuals, key movements, speaker notes, executive questions, and source citations.
@@ -273,13 +273,13 @@ Close workbook, dashboard, support folder, prior deck, close-period messages, an
 
 
 
-#### Starter prompt
+### Starter prompt
 
 Try it
 
 I'm preparing this month's month-end review. Use the close workbook, the revenue or performance dashboard, the close support folder, the prior month deck, messages from the finance close period, and any related close notes. Refresh the month-end review slides with this month's actuals, key movements, speaker notes, and executive prep questions. Cite a workbook tab or dashboard for every number, and list assumptions, missing support, stale labels, and anything a finance lead should review before the meeting.
 
-##### Real-world example
+#### Real-world example
 
  _Prepare the April month-end review. Use “April Close Workbook,” “April Revenue Dashboard,” “April Close Support Folder,” “March Close Deck,” finance-close messages from April 20 through April 24, and related April close notes. Refresh the month-end review slides with April actuals, key movements, speaker notes, and CFO prep questions. Cite a workbook tab or dashboard for every number. List assumptions, missing support, stale labels, and items a finance lead should review._
 
@@ -293,7 +293,7 @@ Launch plan, product notes, launch tracker, creative brief outline, page links, 
   
 **Suggested plugins:** Google Drive, Slack, Gmail, Documents, Presentations, Canva
 
-#### How it works
+### How it works
 
   1. ChatGPT Codex reviews launch plans, product notes, tracker status, creative inputs, page context, and team discussions.
   2. It identifies required assets, unverified claims, staging page issues, and review needs.
@@ -301,13 +301,13 @@ Launch plan, product notes, launch tracker, creative brief outline, page links, 
 
 
 
-#### Starter prompt
+### Starter prompt
 
 Try it
 
 I'm working on a product launch and need a first-draft campaign kit. Use the launch plan, product notes, the launch tracker, any agency or creative brief outline, staging page links, team launch discussions, and anything else relevant. Check the current product page before you draft anything. Create a launch kit with a launch review brief, customer email, internal announcement, social post, a two-week content plan, an agency brief, a staging page fix list, and a team status update. Flag any claims that need product or legal review and anything that is still unverified.
 
-##### Real-world example
+#### Real-world example
 
  _Create a first-draft launch kit for the Team Spaces launch. Use “Team Spaces Launch Doc,” “Team Spaces Product Notes,” “Team Spaces Launch Tracker,” “Agency Brief Outline,” the three Team Spaces staging page links, team launch discussion notes, and anything else relevant. Check the current Team Spaces product page. Create a launch review brief, customer email, internal announcement, social post, two-week content plan, agency brief, staging page fix list, and team status update. Flag claims needing product or legal review and anything unverified._
 
@@ -321,7 +321,7 @@ Current tracker, process docs, handoff notes, KPI dashboard, ticket history, tea
   
 **Suggested plugins:** Google Drive, Slack, Gmail, Google Calendar, Documents, Spreadsheets, Linear
 
-#### How it works
+### How it works
 
   1. ChatGPT Codex reviews the current workflow across trackers, docs, dashboards, tickets, handoffs, and team discussion.
   2. It identifies current steps, stuck points, owners, repeated questions, missing data, and automation candidates.
@@ -329,13 +329,13 @@ Current tracker, process docs, handoff notes, KPI dashboard, ticket history, tea
 
 
 
-#### Starter prompt
+### Starter prompt
 
 Try it
 
 I'm auditing an onboarding workflow before the next cohort starts. Use the current tracker, the existing process documentation, handoff notes, the KPI dashboard, support ticket history, team discussion history, and anything else that explains how the workflow currently operates. Create a workflow audit brief that covers the current steps, stuck points, owners, repeated questions, missing data, and likely automation candidates. Then draft an updated process doc and a short automation spec for the two most repetitive manual steps. Flag any outdated or conflicting sources.
 
-##### Real-world example
+#### Real-world example
 
  _Audit contractor onboarding before the next cohort. Use “Contractor Onboarding Tracker,” “Contractor Onboarding Process Doc,” “Handoff Notes from Recruiting Ops,” “April Onboarding KPI Dashboard,” “Contractor Support Ticket Export.csv,” contractor onboarding operations discussion notes, and anything else that explains the current workflow. Create a workflow audit brief with current steps, stuck points, owners, repeated questions, missing data, and automation candidates. Then draft an updated process doc and short automation spec for the two most repetitive manual steps. Flag outdated sources._
 

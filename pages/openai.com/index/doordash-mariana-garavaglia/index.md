@@ -52,7 +52,7 @@ Share
 
 DoorDash is one of the world's leading local commerce platforms that helps businesses of all kinds grow and innovate, connects consumers to the best of their neighborhoods, and gives people fast, flexible ways to earn. We spoke with Mariana Garavaglia, Chief People Officer about measuring AI literacy, using AI to augment human judgment, and how it is helping employees make an even deeper impact. 
 
-#### You’ve previously described HR operating more like a product team or R&D lab. How has AI enabled or accelerated that kind of transformation at a company like DoorDash?
+### You’ve previously described HR operating more like a product team or R&D lab. How has AI enabled or accelerated that kind of transformation at a company like DoorDash?
 
 First, it helps to understand how we operate at DoorDash overall—it’s an operator culture. 
 
@@ -62,7 +62,7 @@ Tooling is a core responsibility for my HR and IT teams, and AI plays a key role
 
 As a People team, we believe it’s important to raise both access and literacy around AI across the org. We’re responsible for helping employees be as productive, engaged, and effective as possible across their experience and workflows. It’s an incredibly exciting time—our work impacts both our internal team and the broader enterprise.
 
-#### What AI tools or capabilities have been most impactful to your operations or for employees day-to-day?
+### What AI tools or capabilities have been most impactful to your operations or for employees day-to-day?
 
 Even enterprise chat tools have had a huge impact. What’s really exciting is how they’ve enabled more employees to become technical creators. For example, someone on our people ops team built a script to automate document uploads—something they used to do manually one by one. That’s a huge shift. It democratizes automation and workflow creation that used to require engineering help.
 
@@ -80,7 +80,7 @@ We’re also thinking about distribution—who has access to licenses, how evenl
 
 Each function is measuring impact at its own pace. Engineering teams are ahead. Other functions will get there over time. The tools are evolving quickly, so we’re starting with durable metrics and expanding from there.
 
-#### How should HR leaders think about how AI is changing employee experience and engagement?
+### How should HR leaders think about how AI is changing employee experience and engagement?
 
 While a lot of the focus has been on delivering services more efficiently, I’m really excited about how AI can enable people to grow and drive more impact in their work.
 
@@ -92,7 +92,7 @@ Eventually, we’ll be able to offer personalized, scalable employee development
 
 Listen
 
-#### You’ve emphasized that AI should augment—not replace—human judgment. Can you share examples?
+### You’ve emphasized that AI should augment—not replace—human judgment. Can you share examples?
 
 Absolutely. Two great examples are performance reviews and employee surveys.
 
@@ -100,7 +100,7 @@ With performance reviews, our system collects a lot of feedback—but it's been 
 
 With surveys, we used to read thousands of responses manually. AI now helps us identify patterns and generate actionable summaries for managers. We've even built workflows that generate Mad Libs-style action plans tailored to individual managers, showing how their team responses have changed over time. It's boosted our people analytics work and made feedback more actionable.
 
-#### Are you doing anything with AI around skill leveling, executive coaching, or upskilling?
+### Are you doing anything with AI around skill leveling, executive coaching, or upskilling?
 
 We’re not using AI for executive coaching directly yet, but we are building predictive models to assess executive performance—both for internal promotions and external hires. We use cohort data, interview assessments, and reference checks to predict success. Executive coaching is one data point among many.
 
@@ -108,13 +108,13 @@ The idea is that AI can help us predict success with more confidence, and then c
 
 > “AI now gives us the ability to move from reacting, learning—adult learning and development and one-size-fits-all programs—to much more individual growth paths, which I think is amazing.”
 
-#### Looking ahead, what AI trends are you most focused on over the next 12–24 months?
+### Looking ahead, what AI trends are you most focused on over the next 12–24 months?
 
 For the HR team specifically, we’re still early in our agents journey, especially around core people workflows. That includes helping employees get policy answers, supporting development, enabling managers, and more.
 
 The most exciting frontier is around personalization tech—how we deliver tailored experiences and support to every employee. That’s where we see the biggest potential.
 
-#### Who on your team is responsible for building up the stack as you go deeper—from base tools to agentic capabilities?
+### Who on your team is responsible for building up the stack as you go deeper—from base tools to agentic capabilities?
 
 We’re lucky at DoorDash that our HR and IT teams include dedicated engineers and engineering resources focused on internal workflows. Not every HR team has that, but it’s been a huge enabler for us. It lets us move faster and iterate more. It also means we can take a unified strategy and actually deliver it.
 

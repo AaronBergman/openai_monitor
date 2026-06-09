@@ -64,7 +64,7 @@ We’re releasing GPT‑5 in three sizes in the API—`gpt-5`, `gpt-5-mini`, and
 
 To read about GPT‑5 in ChatGPT, and learn more about other ChatGPT improvements, see our [research blog](</index/introducing-gpt-5/>). For more on how enterprises are excited to use GPT‑5, see our [_enterprise blog_ ⁠](<https://openai.com/index/gpt-5-new-era-of-work/>).
 
-#### Coding
+### Coding
 
 GPT‑5 is the strongest coding model we’ve ever released. It outperforms o3 across coding benchmarks and real-world use cases, and has been fine-tuned to shine in agentic coding products like Cursor, Windsurf, GitHub Copilot, and Codex CLI. GPT‑5 impressed our alpha testers, setting records on many of their private internal evals. 
 
@@ -86,7 +86,7 @@ In [Aider polygot⁠(opens in a new window)](<https://aider.chat/2024/12/21/poly
 
 We’ve also found GPT‑5 to be excellent at digging deep into codebases to answer questions about how various pieces work or interoperate. In a codebase as complicated as OpenAI’s reinforcement learning stack, we’re finding that GPT‑5 can help us reason about and answer questions about our code, accelerating our own day-to-day work. 
 
-#### Frontend engineering
+### Frontend engineering
 
 When producing frontend code for web apps, GPT‑5 is more aesthetically-minded, ambitious, and accurate. In side-by-side comparisons with o3, GPT‑5 was preferred by our testers 70% of the time.
 
@@ -98,7 +98,7 @@ Espresso Lab websiteAudio step sequencer appOuter space game
 
 See more examples by GPT‑5 in our gallery [_here_ ⁠(opens in a new window)](<https://platform.openai.com/docs/guides/latest-model?gallery=open>).
 
-#### Coding collaboration
+### Coding collaboration
 
 GPT‑5 is a better collaborator, particularly in agentic coding products like Cursor, Windsurf, GitHub Copilot, and Codex CLI. While it works, GPT‑5 can output plans, updates, and recaps in between tool calls. Relative to our past models, GPT‑5 is more proactive at completing ambitious tasks without pausing for your go-ahead or balking at high complexity.
 
@@ -106,7 +106,7 @@ Here’s an example of how GPT‑5 can look while tackling a complex task (in th
 
 After the user asks for a website for their restaurant, GPT‑5 shares a quick plan, scaffolds the app, installs dependencies, creates the site content, runs a build to check for compilation errors, summarizes its work, and suggests potential next steps. This video has been sped up ~3x to save you the wait; the full duration to create the website was about three minutes.
 
-#### Agentic tasks
+### Agentic tasks
 
 Beyond agentic coding, GPT‑5 is better at agentic tasks generally. GPT‑5 sets new records on benchmarks of instruction following (69.6% on Scale MultiChallenge, as graded by o3‑mini) and tool calling (96.7% on τ2-bench telecom). Improved tool intelligence allows GPT‑5 to more reliably chain together actions to accomplish real-world tasks.
 
@@ -118,13 +118,13 @@ ManusMercado LibreNotionGensparkInditexZendeskCanvaAtlassianHarveyBBVAClayUber
 
 Yichao ‘Peak’ Ji, Co-Founder & Chief Scientist at Manus
 
-#### Instruction following
+### Instruction following
 
 GPT‑5 follows instructions more reliably than any of its predecessors, scoring highly on COLLIE, Scale MultiChallenge, and our internal instruction following eval.
 
 In [COLLIE⁠(opens in a new window)](<https://arxiv.org/pdf/2307.08689>), models must write text that meets various constraints. In [Scale MultiChallenge⁠(opens in a new window)](<https://arxiv.org/abs/2501.17399>), models are challenged on multi-turn conversations to properly use four types of information from previous messages. Our scores come from using o3‑mini as a grader, which was more accurate than GPT‑4o. In our internal OpenAI API instruction following eval, models must follow difficult instructions derived from real developer feedback. Reasoning models were run with high reasoning effort.
 
-#### Tool calling
+### Tool calling
 
 We worked hard to improve tool calling in the ways that matter to developers. GPT‑5 is better at following tool instructions, better at dealing with tool errors, and better at proactively making many tool calls in sequence or in parallel. When instructed, GPT‑5 can also output preamble messages before and between tool calls to update users on progress during longer agentic tasks.
 
@@ -140,7 +140,7 @@ We’re also open sourcing [_BrowseComp Long Context_ ⁠(opens in a new window)
 
 In the API, all GPT‑5 models can accept a maximum of 272,000 input tokens and emit a maximum of 128,000 reasoning & output tokens, for a total context length of 400,000 tokens.
 
-#### Factuality
+### Factuality
 
 GPT‑5 is more trustworthy than our prior models. On prompts from LongFact and FactScore benchmarks, GPT‑5 makes ~80% fewer factual errors than o3. This makes it better suited for agentic use cases where correctness matters—especially in code, data, and decision-making.
 
@@ -150,7 +150,7 @@ Generally, GPT‑5 has been trained to be more self-aware of its own limitations
 
 ## New features
 
-#### Minimal reasoning effort
+### Minimal reasoning effort
 
 Developers can control GPT‑5’s thinking time via the `reasoning_effort` parameter in the API. In addition to the prior values—`low`, `medium` (default), and `high`—GPT‑5 also supports `minimal`, which minimizes GPT‑5’s reasoning to return an answer quickly.
 
@@ -160,7 +160,7 @@ For example, reasoning above `low` adds little to relatively simple long-context
 
 GPT‑5’s reasoning effort yields different benefits on different tasks. For CharXiv Reasoning, GPT‑5 was given access to a python tool.
 
-#### Verbosity
+### Verbosity
 
 To help steer the default length of GPT‑5’s answers, we’ve introduced a new API parameter `verbosity`, which takes values of `low`, `medium` (default), and `high`. If explicit instructions conflict with the verbosity parameters, explicit instructions take precedent. For example, if you ask GPT‑5 to “write a 5 paragraph essay”, the model’s response should always be 5 paragraphs regardless of the verbosity level (however, the paragraphs themselves may be longer or shorter).
 
@@ -226,11 +226,11 @@ Other influences:
 
 If Earth had no atmosphere, there would be nothing to scatter sunlight, and the sky would appear black even in daytime, with the Sun as a bright disk.
 
-#### Preamble messages before tool calls
+### Preamble messages before tool calls
 
 If instructed, GPT‑5 will output user-visible preamble messages before and between tool calls. Unlike hidden reasoning messages, these visible messages allow GPT‑5 to communicate plans and progress to the user, helping end users understand its approach and intent behind the tool calls.
 
-#### Custom tools
+### Custom tools
 
 We’re introducing a new tool type—custom tools—that allows GPT‑5 to call a tool with plaintext instead of JSON. To constrain GPT‑5 to follow custom tool formats, developers can supply a regex, or even a more fully specified [_context-free grammar_ ⁠(opens in a new window)](<https://platform.openai.com/docs/guides/function-calling#context-free-grammars>).
 

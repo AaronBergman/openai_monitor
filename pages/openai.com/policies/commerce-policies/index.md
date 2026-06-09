@@ -42,7 +42,7 @@ OpenAI reserves the right to remove products or sellers, and to restrict commerc
 
 ## Prohibited products and services
 
-#### Adult content and gambling
+### Adult content and gambling
 
   * **Pornography or explicit sexual content** , including paid adult subscriptions, explicit video, or sites whose primary purpose is sexual arousal.
   * **Adult sexual products** , including sex toys and fetish-focused products.
@@ -50,7 +50,7 @@ OpenAI reserves the right to remove products or sellers, and to restrict commerc
 
 
 
-#### Drugs‚ medications‚ and supplements
+### Drugs‚ medications‚ and supplements
 
   * **Illegal or regulated drugs** , including cannabis/THC products, psychedelics, and similar controlled substances.
   * **Drug paraphernalia** primarily intended to produce, prepare, or consume controlled substances.
@@ -58,7 +58,7 @@ OpenAI reserves the right to remove products or sellers, and to restrict commerc
 
 
 
-#### Illicit and sensitive goods
+### Illicit and sensitive goods
 
   * **Counterfeit products** or replicas that infringe trademarks.
   * **Tools that facilitate financial fraud** , such as card skimmers or synthetic-ID tools.
@@ -70,14 +70,14 @@ OpenAI reserves the right to remove products or sellers, and to restrict commerc
 
 
 
-#### Surveillance‚ malware‚ and unauthorized access
+### Surveillance‚ malware‚ and unauthorized access
 
   * **Malware, spyware, or hacking tools** intended to gain unauthorized access, exfiltrate data, or control devices without consent.
   * **Covert surveillance or tracking equipment** marketed for clandestine monitoring or unauthorized access.
 
 
 
-#### Tobacco‚ nicotine‚ and alcohol
+### Tobacco‚ nicotine‚ and alcohol
 
   * **Alcoholic beverages** (over 0.5% ABV) or kits enabling distillation.
   * **Tobacco products** , including cigarettes, cigars, and smokeless tobacco.
@@ -85,7 +85,7 @@ OpenAI reserves the right to remove products or sellers, and to restrict commerc
 
 
 
-#### Weapons and harmful materials
+### Weapons and harmful materials
 
   * **Firearms, ammunition, and firearm accessories** , including “80%” receivers and magazines.
   * **Explosives and explosive-related items** , including certain fireworks, blasting caps, and bomb precursors.
@@ -95,14 +95,14 @@ OpenAI reserves the right to remove products or sellers, and to restrict commerc
 
 
 
-#### Recalled and unsafe products
+### Recalled and unsafe products
 
   * Recalled or unsafe products, including items subject to a manufacturer or government recall, stop-sale order, market withdrawal, safety alert, or similar official action based on product safety concerns.
   * Products that present a clear serious safety hazard, especially for babies, children, or other vulnerable groups.
 
 
 
-#### Payment-network restricted businesses and products
+### Payment-network restricted businesses and products
 
 In addition to the categories above, we do not allow certain products or services that are commonly restricted by payment networks and financial partners. These include:
 

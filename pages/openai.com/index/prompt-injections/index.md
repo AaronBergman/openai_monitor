@@ -71,31 +71,31 @@ Defending against prompt injection is a challenge across the AI industry and a c
 
 To protect our users, and to help improve our models against these attacks, we take a multi-layered approach, including the following:
 
-#### Safety training
+### Safety training
 
 We want AI that recognizes prompt injections and doesn’t fall for them. However, robustness to adversarial attacks is a long-standing challenge for machine learning and AI, making this a hard, open problem. We have developed research called [_Instruction Hierarchy_ ⁠](<https://openai.com/index/the-instruction-hierarchy/>) to work towards models distinguishing between instructions that are trusted and untrusted. We continue to develop new approaches to train models to better recognize prompt injection patterns so they can ignore them or flag them to users. One of the techniques we apply is automated red-teaming, an area we've been [_studying_ ⁠(opens in a new window)](<https://cdn.openai.com/papers/diverse-and-effective-red-teaming.pdf>) for years, to develop novel prompt injection attacks.
 
-#### Monitoring
+### Monitoring
 
 We have developed multiple automated AI-powered [_monitors_ ⁠](<https://openai.com/index/introducing-gpt-oss-safeguard/#how-we-use-safety-reasoning-internally>) to identify and block prompt injection attacks. These complement the safety training approaches because they can be updated rapidly to quickly block any new attacks we uncover. These monitors not only help identify potential prompt injection attacks against our users, but can also allow us to catch adversarial prompt injection research and testing using our platform, before those attacks are deployed in the wild. 
 
-#### Security protections
+### Security protections
 
 We have designed our products and infrastructure with various overlapping security protections to help safeguard user data. These features, which we will explore in more technical detail in future posts, are tailored on a per-product basis. For example, to help you avoid untrusted sites, we will ask you to approve certain links in ChatGPT, especially on [_websites that ask us not to catalogue them_ ⁠(opens in a new window)](<https://help.openai.com/en/articles/10984597-chatgpt-generated-links>), before they can be visited. When our AI uses tools to run other programs or code (as in Canvas, or our development tool Codex), we use a technique called sandboxing to prevent the model from making harmful changes that might be the result of a prompt injection. 
 
-#### Give users control
+### Give users control
 
 We include built-in controls in our products to help users protect themselves. For example, in ChatGPT Atlas, you can select logged-out mode which allows ChatGPT agent to start tasks without being logged-in to sites. ChatGPT agent also pauses and asks for confirmation prior to taking sensitive steps such as completing a purchase. When agent is operating on sensitive sites, we have also implemented a “Watch Mode” that alerts you to the sensitive nature of the site and requires you have the tab active to watch the agent do its work. Agent will pause if you move away from the tab with sensitive information. This ensures you stay aware—and in control—of what actions the agent is performing.
 
-#### Red-teaming
+### Red-teaming
 
 We perform extensive red-teaming with internal and external teams to test and improve our defenses, emulate attacker behavior, and find new ways to improve our security. This includes thousands of hours focused specifically on prompt injection. As we have discovered new techniques and attacks, our teams proactively address security vulnerabilities and improve our model mitigations.
 
-#### Bug bounty
+### Bug bounty
 
 To encourage good-faith independent security researchers to help us discover new prompt injection techniques and attacks, we offer financial rewards under our [_bug bounty program_ ⁠(opens in a new window)](<https://bugcrowd.com/engagements/openai>) when they show a realistic attack path that could result in unintended user data exposure. We incentivize external contributors to surface these issues quickly so we can resolve them and further strengthen our defenses.
 
-#### Let users decide
+### Let users decide
 
 We educate users of the risks of using certain features in the product so users can make informed decisions. For example, when connecting ChatGPT to other apps, we explain what data may be accessed, how it may be used, and what risks could arise such as a site trying to steal your data, along with a link to learn how to stay safer. We also give organizations control over which features may be enabled or used by users in their workspaces.
 
@@ -103,23 +103,23 @@ We educate users of the risks of using certain features in the product so users 
 
 Prompt injection is a frontier security challenge that we expect to continue to evolve over time. New levels of intelligence and capability require the technology, society, and the risk mitigation strategy to co-evolve. And as with computer viruses in the early 2000s, we think it’s important for everyone to understand the threat of prompt injections and how to navigate the risk , so we can all learn to benefit from this technology safely. Staying aware and being cautious helps keep your data safer when using AI and agentic features that can act on your behalf.
 
-#### Use built in features to limit access to sensitive data
+### Use built in features to limit access to sensitive data
 
 Where possible, limit an agent’s access to only the sensitive data or credentials it needs to complete the task. For example, when using agent mode in ChatGPT Atlas to do vacation research, if the agent is only doing research and doesn’t need logged in access, use “logged out” mode.
 
-#### When an agent asks for confirmation, carefully review that it is about to do the right thing
+### When an agent asks for confirmation, carefully review that it is about to do the right thing
 
 We often design agents to get a final confirmation from you before taking certain consequential actions like completing a purchase or sending an email. When an agent asks you to confirm an action, carefully check that the action looks right and that any information being shared is appropriate to share in that context.
 
 When an agent is operating on a sensitive site, such as your bank, watch the agent perform its work. This is akin to monitoring a self-driving car by keeping your hands on the wheel. 
 
-#### When possible, give an agent explicit instructions
+### When possible, give an agent explicit instructions
 
 Giving an agent a very broad instruction such as "review my emails and take whatever action is needed" can make it easier for hidden malicious content to mislead the model, even though it is designed to check with you before taking sensitive actions.
 
 It’s safer to ask your agent to do specific things, and not to give it wide latitude to potentially follow harmful instructions from elsewhere like emails. While this doesn't guarantee there won't be attacks, it makes it harder for attackers to be successful.
 
-#### Stay informed and follow security best practices
+### Stay informed and follow security best practices
 
 As AI technology evolves, new risks and safeguards will emerge. Follow updates from OpenAI and other trusted sources to learn about best practices.
 

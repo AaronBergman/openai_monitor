@@ -52,19 +52,19 @@ Submit invoices directly to accounts payable. Questions? Reach out to accounts p
 
 ## Invoice requirements
 
-##### Supplier information
+### Supplier information
 
 **Supplier Name & Address**| Ensure the name and address matches the legal entity registered in the invoice system.  
 ---|---  
 **VAT/GST Number**|  Only applicable if you are VAT/GST registered. Make sure it’s correctly formatted per your country’s requirements.  
   
-##### OpenAI details
+### OpenAI details
 
 **OpenAI****Subsidiary & Address**| Verify which OpenAI entity and billing address is listed in the PO or contract.  
 ---|---  
 **Purchase Order (PO) Number**|  _All goods and services require a PO. If you do not have one, coordinate with your OpenAI business contact to obtain it before starting the service or delivering goods._**_Note:_**_Simple Legal invoices are PO exempt._  
   
-##### Invoice specific details
+### Invoice specific details
 
 **Invoice Number**|  Use a unique and sequential invoice number.  
 ---|---  
@@ -75,14 +75,14 @@ Submit invoices directly to accounts payable. Questions? Reach out to accounts p
 **Project Code**|  Include this if your business contact has provided one.  
 **OpenAI Project Contact**|  Name of the person who can confirm receipt of goods/services.  
   
-##### Goods invoices
+### Goods invoices
 
 **Quantity**|  Match the quantities in your invoice with the approved PO.  
 ---|---  
 **Price Per Item**|  Ensure this matches the agreed rates on the PO.  
 **Tax/VAT Rate Per Item**|  Apply the correct rate, and ensure you have accurate tax details if applicable.  
   
-##### Services invoices
+### Services invoices
 
 **Coverage Period**|  Include the service period that corresponds to the work completed.  
 ---|---  
@@ -90,7 +90,7 @@ Submit invoices directly to accounts payable. Questions? Reach out to accounts p
   
 ## Bank detail
 
-##### Bank information
+### Bank information
 
 **Bank Name**|  Ensure this matches the name on the account.  
 ---|---  
@@ -112,7 +112,7 @@ _💡 Mismatches between the invoice and PO entity will result in return and rew
 
 _If you are unsure which entity to bill, confirm with your OpenAI business contact_** _before submitting your invoice._**
 
-##### OpenAI entities
+### OpenAI entities
 
 ** _OpenAI OpCo, LLC  
 🇺🇸 Most goods and services_**| 1455 Third Street  

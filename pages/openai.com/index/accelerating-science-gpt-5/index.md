@@ -95,13 +95,13 @@ We are beyond the point where models only summarize existing knowledge. Now, ear
 
 ## What this looks like in practice: a few case studies
 
-#### Independent rediscovery of known results at the scientific frontier
+### Independent rediscovery of known results at the scientific frontier
 
-#### Deep literature search
+### Deep literature search
 
-#### Working in tandem with AI
+### Working in tandem with AI
 
-#### New scientific results obtained with AI
+### New scientific results obtained with AI
 
 ## Limitations
 

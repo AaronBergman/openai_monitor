@@ -60,7 +60,7 @@ Today, we’re sharing an overview of how the measurement suite works and why it
 
 –Susanna Loeb, Professor of Education and Faculty Director, SCALE Initiative at Stanford University
 
-#### Summary of takeaways
+### Summary of takeaways
 
   * Today’s research methods on the impact of AI on learning show promising signals about performance, but don’t capture the full picture of how AI affects learning outcomes over time.
   * The Learning Outcomes Measurement Suite will, for the first time, provide a standard framework for longitudinal studies that help educators, researchers, and institutions understand how AI shapes learning and outcomes across different contexts.
@@ -68,7 +68,7 @@ Today, we’re sharing an overview of how the measurement suite works and why it
 
 
 
-#### Origins and early research
+### Origins and early research
 
 When students use AI tools to study and learn, it can mean many different things—from going to AI for quick answers to using it to work through problems step by step with tutor-like guidance. To encourage users to engage with ChatGPT in ways that support deeper understanding and skill-building, OpenAI introduced [_study mode_ ⁠](<https://openai.com/index/chatgpt-study-mode/>) last year. Under the hood, study mode is powered by custom system instructions we’ve written in collaboration with teachers, scientists, and pedagogy experts to reflect a core set of behaviors that support true learning, not just answers—using scaffolding, checks for understanding, and guided practice.
 
@@ -89,7 +89,7 @@ We measured performance on each exam separately. In our randomized study, improv
 
 
 
-#### Study mode (variants A & B) vs Control (no AI group): Adjusted mean exam scores
+### Study mode (variants A & B) vs Control (no AI group): Adjusted mean exam scores
 
 The effect remains consistent when we compare each study mode variant separately with the control.
 

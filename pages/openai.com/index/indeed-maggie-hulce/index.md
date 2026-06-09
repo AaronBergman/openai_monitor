@@ -53,7 +53,7 @@ Indeed is a platform that helps people find jobs and helps employers find the ri
 
 We spoke with Maggie Hulce, Chief Revenue Officer at Indeed, about how AI is unlocking opportunities for employers and job seekers, driving internal AI adoption, and shaping the future of talent acquisition.
 
-#### Given Indeed’s stated goal of moving both quickly and cautiously with AI, what opportunities are you most excited about in this balanced approach, and are you already seeing it unlock or unblock anything for employers and job seekers?
+### Given Indeed’s stated goal of moving both quickly and cautiously with AI, what opportunities are you most excited about in this balanced approach, and are you already seeing it unlock or unblock anything for employers and job seekers?
 
 AI is core to our mission of helping people get jobs. For nearly 20 years, we’ve used AI to power billions of connections between job seekers and employers, all with the goal of making hiring simpler, faster, and more human.
 
@@ -63,7 +63,7 @@ We push ourselves to move fast—using the data we collect to continuously impro
 
 In just the last few months, we’ve launched a number of new AI features, including two AI agents—Career Scout, which acts like a personal career coach for job seekers, and Talent Scout for employers, helping automate the most time-consuming parts of recruiting. We also announced new AI-powered capabilities through Indeed Connect, like Advanced Screening and Sourcing. There’s a lot happening right now.
 
-#### How is AI changing the way your internal teams work - freeing them up to be more creative or strategic - and what inspiring shifts have you seen as a result?
+### How is AI changing the way your internal teams work - freeing them up to be more creative or strategic - and what inspiring shifts have you seen as a result?
 
 There’s a lot of excitement across our teams about AI—especially where it helps eliminate repetitive work and frees people up to focus on more creative and strategic tasks. In marketing, it’s helping us move faster on creative generation, testing, and brand research. In sales and client success, teams are using AI both through our core tools and by building their own agents—for things like account planning, personalized outreach, and proposal generation—alongside internal models that surface next-best actions and real-time signals.
 
@@ -75,7 +75,7 @@ On the R&D side, adoption of agentic coding tools has taken off, with over 80% o
 
 Listen
 
-#### As AI becomes more central to how Indeed operates, what are you doing to help employees build AI fluency and confidence - so they understand not just how to use AI, but how to innovate with it and lead in this new era of work?
+### As AI becomes more central to how Indeed operates, what are you doing to help employees build AI fluency and confidence - so they understand not just how to use AI, but how to innovate with it and lead in this new era of work?
 
 When it comes to AI, we want our culture to be rooted in curiosity, open-mindedness, and continuous learning. We know there’s some natural apprehension—people wonder what AI means for them and how to use it well—so we’re being very intentional about how we approach this.
 
@@ -85,7 +85,7 @@ What’s been especially powerful is bottom-up sharing. In sales, for example, t
 
 We want to fuel that energy. To encourage it, we’ve launched an internal hackathon and a monthly contest through the end of the year, with incentives and company-wide recognition, to celebrate ideas, demos, and real business impact. We’re intentionally trying to make AI adoption both practical and fun.
 
-#### You’ve mentioned that AI at Indeed is meant to enhance human decision-making - how are you seeing it open up new and better ways for recruiters to work?
+### You’ve mentioned that AI at Indeed is meant to enhance human decision-making - how are you seeing it open up new and better ways for recruiters to work?
 
 Recruiters have always spent a huge amount of time on administrative work like sourcing, screening, and scheduling. Tools like Talent Scout and Smart Sourcing are designed to take on that repetitive work so recruiters can focus on what really matters—building relationships, understanding candidate motivations, and creating better experiences for everyone involved. We’re already hearing from customers that AI is helping them engage with candidates earlier and more deeply, move faster through the process, and ultimately make better hiring decisions. 
 
@@ -95,13 +95,13 @@ Recruiters have always spent a huge amount of time on administrative work like s
 
 Listen
 
-#### You’ve outlined clear responsible AI principles—what positive customer outcomes have you already seen as a result of your commitment to fairness and transparency?
+### You’ve outlined clear responsible AI principles—what positive customer outcomes have you already seen as a result of your commitment to fairness and transparency?
 
 Responsible AI has been a focus for us for years—we published our principles early on—and at the core, it really comes down to keeping humans at the center of hiring. Employers remain the final decision-makers, while AI supports better, more objective decisions. We don’t view responsible AI as just about efficiency or risk mitigation; it’s foundational to our mission of helping _all_ people get jobs.
 
 In practice, this means designing AI experiences that prioritize fairness, transparency, and accountability. On the employer side, AI helps match candidates to roles using more objective, skills-based criteria, which can broaden talent pools and improve fairness. On the job seeker side, it enables more personalized and transparent recommendations, helping people better understand why certain roles are a good fit. When both sides use these AI capabilities, we consistently see better outcomes—which reinforces that responsible AI leads to better hiring for everyone.
 
-#### As some customers feel hesitant about AI replacing human judgment, how are you helping enterprise clients feel confident and inspired adopting AI-powered hiring tools—and what feedback makes you most proud of the progress you’re making?
+### As some customers feel hesitant about AI replacing human judgment, how are you helping enterprise clients feel confident and inspired adopting AI-powered hiring tools—and what feedback makes you most proud of the progress you’re making?
 
 Ultimately, we’re trying to solve long-standing hiring problems—finding quality candidates faster and with less friction—and AI is simply a powerful new tool to help do that. Our goal is for AI to feel like it gives employers superpowers, while they always stay in control. The process is transparent, the criteria are theirs, and the decisions remain human—it never feels like a black box.
 
@@ -109,7 +109,7 @@ What’s been most encouraging is how clearly this shows up in outcomes. For exa
 
 We’re also seeing strong validation from customers. We’ve had positive results from companies testing Talent Scout, including BrightSpring Health Services, which filled 45% more hard-to-fill healthcare roles in just four weeks while saving teams eight hours a week. When customers see results like that—getting days of work back each week—it builds real confidence and reinforces that AI is helping them hire better, faster, and easier.
 
-#### Which AI-powered products or features are already driving the biggest wins for customers and contributing most to Indeed’s growth?
+### Which AI-powered products or features are already driving the biggest wins for customers and contributing most to Indeed’s growth?
 
 AI is embedded across nearly all of our job seeker– and employer-facing products, and we’re already seeing meaningful impact at scale. In our flagship product, Sponsored Jobs, about 70% of sponsored applications now come from AI-powered recommendations. In another core product, Smart Sourcing, employers who use AI capabilities are hiring 40% faster.
 
@@ -123,7 +123,7 @@ On the job seeker side, early testing of Career Scout showed that people are fin
 
 Listen
 
-####   
+###   
 Looking three to five years ahead, what excites you most about how AI could reshape talent acquisition and how Indeed can help millions of people find better work faster?
 
 I’m genuinely optimistic about how AI will reshape work. It’s already enabling people to be more creative, learn faster, and take on work that used to require entire teams. We’re seeing roles blur in real time—sales reps building their own agents for account planning, or client success teams using multilingual AI to support customers in dozens of languages. Things that once needed dedicated product and engineering teams are now being done directly by the people closest to the work.
@@ -143,19 +143,17 @@ More than 1 million businesses around the world are achieving meaningful results
 
 ## Keep reading
 
-![oai endava 1x1](https://images.ctfassets.net/kftzwdyauwt9/6CJMPcvmo9FlUZMnAetSGl/9686223d1bd7d90b9926c0bedd4e8fb9/oai_endava_1x1.png?w=3840&q=90&fm=webp)
+![Confidential submission of draft S-1 to the SEC > cover image](https://images.ctfassets.net/kftzwdyauwt9/36doI12YCwUtp1hzD4d8bj/84e67c565f39e7d5ca3ee011efa69756/confidential-submission-of-draft-s-1-to-the-sec-1x1.png?w=3840&q=90&fm=webp)
 
-[How Endava is redesigning software delivery around AI agentsJun 4, 2026](</index/endava-frontiers/>)
+[Confidential submission of draft S-1 to the SECCompanyJun 8, 2026](</index/openai-submits-confidential-s-1/>)
 
-![Art Card 1080x1080 \(3\)](https://images.ctfassets.net/kftzwdyauwt9/3JLNH7ejJFnxLmX2LpzoKD/19f9e3c4d36cc9d677ba88e842ad2db2/Art_Card_1080x1080__4_.png?w=3840&q=90&fm=webp)
+![Built for broad benefit > cover](https://images.ctfassets.net/kftzwdyauwt9/bEe28mW3dEOj9pKJsPp2u/13f7bed9e86b0667ba924479d62f98e4/Art_Card_1080x1080_1.png?w=3840&q=90&fm=webp)
 
-Better memory for a more helpful ChatGPT
+[Built to benefit everyone: our planCompanyJun 8, 2026](</index/built-to-benefit-everyone-our-plan/>)
 
-[Dreaming: Better memory for a more helpful ChatGPTResearchJun 4, 2026](</index/chatgpt-memory-dreaming/>)
+![Economic research forum > art card ](https://images.ctfassets.net/kftzwdyauwt9/2DpNjvjdVuCrLKNOrFrWJ7/1aefe1cbe252bcd9ba42035469fc8a0f/art_card.png?w=3840&q=90&fm=webp)
 
-![oai 1x1 Biodefense in the Intelligence Age](https://images.ctfassets.net/kftzwdyauwt9/6A4rrCBs9rrlbzm9JWIvSi/8a4ae56849fcd0b16e90b59b8babc613/oai_1x1_Biodefense_in_the_Intelligence_Age.png?w=3840&q=90&fm=webp)
-
-[Biodefense in the Intelligence AgeGlobal AffairsJun 4, 2026](</index/biodefense-in-the-intelligence-age/>)
+[Introducing the OpenAI Economic Research ExchangeCompanyJun 8, 2026](</index/economic-research-exchange/>)
 
 Research
 

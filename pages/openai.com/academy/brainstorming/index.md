@@ -62,7 +62,7 @@ Most brainstorming gets stuck in one of two places: not enough ideas, or too man
 
 ## How to get started
 
-#### 1) Start with the decision 
+### 1) Start with the decision 
 
 Instead of asking for general ideas, define what you are trying to decide:
 
@@ -74,13 +74,13 @@ Instead of asking for general ideas, define what you are trying to decide:
 
 This makes the brainstorm feel purposeful and keeps outputs usable.
 
-#### 2) Add constraints
+### 2) Add constraints
 
 Provide a small set of constraints to make ideas more realistic. Share who the audience is, what the timeline looks like, how much capacity you have, which channels are available, and how success will be measured. Even a short sentence like, “This needs to work for a team of three within four weeks,” dramatically improves feasibility.
 
 You can also include prior context: what you’ve tried, what worked or failed, and any non-negotiables. This helps ChatGPT avoid repetition and build on existing thinking.
 
-#### 3) Use a “wide → narrow” flow
+### 3) Use a “wide → narrow” flow
 
 A simple pattern that works well is to intentionally separate idea generation from evaluation. 
 

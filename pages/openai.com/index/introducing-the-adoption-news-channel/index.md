@@ -57,7 +57,7 @@ That is why we are launching the Adoption channel, a new OpenAI business blog fo
 
 This channel is for leaders navigating that transition: C Level executives, heads of AI, transformation and adoption leaders, and the operators and advisors helping enterprises adapt to an AI-native world.
 
-#### What you'll find here
+### What you'll find here
 
   1. **Where AI creates value and what "good" looks like**: Clear thinking on where AI drives meaningful business value, how leaders should evaluate opportunity, and what strong execution looks like in practice.
   2. **How organizations successfully scale AI** : Practical insight into what helps adoption spread, what causes it to stall, and how leading organizations move from experimentation to real operating change.
@@ -69,7 +69,7 @@ This channel is for leaders navigating that transition: C Level executives, head
 
 For this, we will explore and share frameworks, decision lenses, operating patterns, and examples from the field. More than anything else, we'll share concrete explanations of what leading organizations are doing differently. Our goal is not just to describe where AI is going, but to help leaders decide what to do next.
 
-#### How we'll support you going forward
+### How we'll support you going forward
 
 We'll keep the writing direct, rigorous, and useful: short enough for executives to read, substantive enough to help you decide, and grounded in implementation realities.
 

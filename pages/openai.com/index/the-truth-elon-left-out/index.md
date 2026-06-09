@@ -44,11 +44,11 @@ We did find a path to advance the mission, with OpenAI [_now structured_ ⁠](<h
 
 Elon’s latest variant of this lawsuit is his fourth [_attempt_ ⁠(opens in a new window)](<https://storage.courtlistener.com/recap/gov.uscourts.cand.433688/gov.uscourts.cand.433688.1.0_1.pdf>) [_at_ ⁠(opens in a new window)](<https://storage.courtlistener.com/recap/gov.uscourts.cand.433688/gov.uscourts.cand.433688.32.0_1.pdf>) [_these_ ⁠(opens in a new window)](<https://storage.courtlistener.com/recap/gov.uscourts.cand.433688/gov.uscourts.cand.433688.170.0.pdf>) [_particular_ ⁠(opens in a new window)](<https://www.courthousenews.com/wp-content/uploads/2024/02/musk-v-altman-openai-complaint-sf.pdf>) claims, and part of a broader [_strategy of harassment_ ⁠](<https://openai.com/elon-musk/>) aimed at slowing us down and advantaging his own AI company, xAI. He is now grossly misrepresenting the written record to further his harassment; this post shows just a few examples of the truth that Elon isn’t telling.
 
-#### From Elon’s court filing
+### From Elon’s court filing
 
 > In 2017, OpenAI’s founders became concerned that developing artificial general intelligence would require more resources than a nonprofit could raise through charitable donations. Ex. 38. They discussed numerous ideas, including creating a for-profit arm for OpenAI, collaborating with an existing company, or restructuring in some other manner. Ex. 1 (Musk Tr.) at 70:6-72:15, 78:18- 79:14, 95:8-16. Musk insisted that any new entity “support[ ] the nonprofit’s mission” and that OpenAI remain “essentially [a] philanthropic endeavor.”
 
-#### The actual September 2017 call notes:
+### The actual September 2017 call notes:
 
 gdb: over upcoming weeks, how much of your time should we plan for?  
 elon: coming weeks, top priority. gotta figure out how do we transition from non-profit to something which is essentially philanthropic endeavor and is B-corp or C-corp or something. must tell the story and not lose moral high ground. absolutely vital.  
@@ -66,7 +66,7 @@ elon: alright cool. i’m gonna figure out the details of the whole B-corp thing
 blue _= quote shown in Elon’s court filing  
 _ red _= emphasis added_
 
-####  Commentary
+###  Commentary
 
 Elon did not think that OpenAI needed to remain solely a non-profit. As the context shows, he agreed that OpenAI needed both a non-profit and a for-profit entity—the exact structure OpenAI has today, and that Elon is now suing OpenAI over. At the time, he said only that the non-profit should continue to exist “in some form.” Ilya, not Elon, suggested that the for-profit should have a connection to the OpenAI mission. Shortly after this call, Elon actually [_created_ ⁠](<https://openai.com/index/elon-musk-wanted-an-openai-for-profit/#september-2017-elon-created-the-public-benefit-corporation-called-open-artificial-intelligence-technologies-inc>) an OpenAI PBC (or “B-corp”).
 
@@ -76,11 +76,11 @@ Discussions about OpenAI’s structure—and Elon’s proposal that he lead and 
 
 Even before negotiations over OpenAI’s structure began, Elon leveraged OpenAI for the benefit of his for-profit ventures. For example, in early 2017, he asked OpenAI to send a team to help fix Tesla’s self-driving program, Autopilot. Scott Gray, Ilya, Greg, and Andrej Karpathy ended up devoting significant time to improving Autopilot, which led to Elon recruiting Andrej to join Tesla fulltime. Elon never truly treated OpenAI as an independent non-profit.
 
-#### From Elon’s court filing
+### From Elon’s court filing
 
 > But Musk’s co-founders secretly had other plans. On November 6, 2017, following a meeting with Sutskever, Brockman admitted in his private diary that their “conclusion is we truly want the [for-profit] b-corp.”
 
-#### The actual November 6, 2017 notes:
+### The actual November 6, 2017 notes:
 
 \- sam: say, we wanna do openai, if you wanna do inside tesla it’s ok. if weirdly competitive should revisit.  
 \- ilya: was thinking, what we need.  
@@ -102,7 +102,7 @@ Even before negotiations over OpenAI’s structure began, Elon leveraged OpenAI 
 blue _= quote shown in Elon’s court filing  
 _ red _= emphasis added_
 
-####  Commentary
+###  Commentary
 
 While Greg and Ilya preferred the B-corp, they were open to pursuing the mission within the standalone non-profit—if it could raise enough funding. Their preference was not a secret; the thinking was shared with Elon and his key staff.
 
@@ -112,11 +112,11 @@ A few weeks later, Elon told us that it was a happy accident that the for-profit
 
 By early November, we were trying to figure out a path forward that didn’t involve ending up at Tesla. The November 6, 2017 entry goes through more thinking (e.g. “**the answer is that we would have preferred the b-corp, but we prefer the non-profit to tesla.** ”) and eventually comes to an ordered list of options for how to move forward: “**[1] b-corp w/ appropriate control structure [2] non-profit w/ lots of funding [3] us quitting and doing our own thing** ”.
 
-#### From Elon’s court filing
+### From Elon’s court filing
 
 > Brockman privately fretted about concealing their plans from Musk. “[C]annot say that we are committed to the non-profit. don’t wanna say that we’re committed. if three months later we’re doing b-corp then it was a lie.” Ex. 43 at 2. “[Musk’s] story will correctly be that we weren’t honest with him in the end about still wanting to do the for profit.” Id. at 3. “[I]t’d be wrong to steal the non-profit from [Musk]. to convert to a b-corp without him. that’d be pretty morally bankrupt.”
 
-#### The actual November 6, 2017 notes:
+### The actual November 6, 2017 notes:
 
 if he starts the competitor going to be less
 
@@ -152,7 +152,7 @@ purple = _Greg’s notes on what Elon said_
 blue _= quote shown in Elon’s court filing  
 _ red _= emphasis added_
 
-####  Commentary
+###  Commentary
 
 In this entry, Greg and Ilya were still considering Elon’s demand that they “commit” to the non-profit by accepting his terms—something that, again, **never happened**. There was a chance that Elon would resume funding if they agreed to his conditions; there was a chance he’d resign to go create an AGI competitor within Tesla. Greg and Ilya felt that it’d be deceptive to accept Elon’s terms and then later create a for-profit without his approval. So they were nervous that, by accepting, they’d get stuck in a structure that was unable to raise sufficient capital while Elon left to pursue his own AGI project at Tesla. **That’s why they decided not to accept his proposal**. No one ever lied to Elon; no one ever told him they’d accepted his terms when they hadn’t.
 

@@ -189,7 +189,7 @@ United States| Infrastructure management
 ** At election of customer  
 ***At election of customer; applicable to premium support only
 
-#### Detail about processing purposes:
+### Detail about processing purposes:
 
 _Customer Support_ : Customer Support services are initiated by the Customer, and Customer Data is only processed to the extent Customer explicitly elects to share such data in the course of the support case. 
 

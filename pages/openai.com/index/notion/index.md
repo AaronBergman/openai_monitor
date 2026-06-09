@@ -60,7 +60,7 @@ But as models advanced - and users began asking agents to complete entire workfl
 
 Sarah Sachs, Head of AI Modeling at Notion
 
-#### Inside the rollout
+### Inside the rollout
 
 Rebuilding for reasoning models, not retrofitting around them
 
@@ -68,7 +68,7 @@ Instead of patching their existing stack, Notion rebuilt it. They replaced task-
 
 With their launch of Notion 3.0, AI isn’t just embedded in workflows; it can now run them. Users assign a broad task - for example, compiling stakeholder feedback - and their agent plans, executes, and reports back. The shift toward agents that choose how to work meant designing for model autonomy from the start.
 
-#### Results at a glance
+### Results at a glance
 
 Testing GPT‑5 with real product workloads
 
@@ -95,7 +95,7 @@ These evaluations helped Notion identify where GPT‑5 added value - for example
 
 ![A group of nine people sit and smile around a conference table in a bright office meeting room, some holding laptops and making peace signs. A large screen on the right shows a video call with three remote participants. Everyone looks relaxed and happy, suggesting a collaborative hybrid team meeting.](https://images.ctfassets.net/kftzwdyauwt9/5pRMngLODa02aEtv5nKJzP/3ce1507fd00c411c845a5009b314cc2c/Notion___OpenAI_team_photo.jpeg?w=3840&q=90&fm=webp)
 
-#### Leadership lessons
+### Leadership lessons
 
 Lessons for teams building with GPT‑5
 
@@ -121,19 +121,17 @@ More than 1 million businesses around the world are achieving meaningful results
 
 ## Keep reading
 
-![oai endava 1x1](https://images.ctfassets.net/kftzwdyauwt9/6CJMPcvmo9FlUZMnAetSGl/9686223d1bd7d90b9926c0bedd4e8fb9/oai_endava_1x1.png?w=3840&q=90&fm=webp)
+![Confidential submission of draft S-1 to the SEC > cover image](https://images.ctfassets.net/kftzwdyauwt9/36doI12YCwUtp1hzD4d8bj/84e67c565f39e7d5ca3ee011efa69756/confidential-submission-of-draft-s-1-to-the-sec-1x1.png?w=3840&q=90&fm=webp)
 
-[How Endava is redesigning software delivery around AI agentsJun 4, 2026](</index/endava-frontiers/>)
+[Confidential submission of draft S-1 to the SECCompanyJun 8, 2026](</index/openai-submits-confidential-s-1/>)
 
-![Art Card 1080x1080 \(3\)](https://images.ctfassets.net/kftzwdyauwt9/3JLNH7ejJFnxLmX2LpzoKD/19f9e3c4d36cc9d677ba88e842ad2db2/Art_Card_1080x1080__4_.png?w=3840&q=90&fm=webp)
+![Built for broad benefit > cover](https://images.ctfassets.net/kftzwdyauwt9/bEe28mW3dEOj9pKJsPp2u/13f7bed9e86b0667ba924479d62f98e4/Art_Card_1080x1080_1.png?w=3840&q=90&fm=webp)
 
-Better memory for a more helpful ChatGPT
+[Built to benefit everyone: our planCompanyJun 8, 2026](</index/built-to-benefit-everyone-our-plan/>)
 
-[Dreaming: Better memory for a more helpful ChatGPTResearchJun 4, 2026](</index/chatgpt-memory-dreaming/>)
+![Economic research forum > art card ](https://images.ctfassets.net/kftzwdyauwt9/2DpNjvjdVuCrLKNOrFrWJ7/1aefe1cbe252bcd9ba42035469fc8a0f/art_card.png?w=3840&q=90&fm=webp)
 
-![oai 1x1 Biodefense in the Intelligence Age](https://images.ctfassets.net/kftzwdyauwt9/6A4rrCBs9rrlbzm9JWIvSi/8a4ae56849fcd0b16e90b59b8babc613/oai_1x1_Biodefense_in_the_Intelligence_Age.png?w=3840&q=90&fm=webp)
-
-[Biodefense in the Intelligence AgeGlobal AffairsJun 4, 2026](</index/biodefense-in-the-intelligence-age/>)
+[Introducing the OpenAI Economic Research ExchangeCompanyJun 8, 2026](</index/economic-research-exchange/>)
 
 Research
 

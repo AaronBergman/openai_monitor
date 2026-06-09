@@ -66,7 +66,7 @@ ZillowT-MobileStubHubOscar HealthLemonade
 
 The new speech-to-speech model—`gpt-realtime`—is our most advanced, production-ready voice model. We trained the model in close collaboration with customers to excel at real-world tasks like customer support, personal assistance, and education—aligning the model to how developers build and deploy voice agents. The model shows improvements across audio quality, intelligence, instruction following, and function calling.
 
-#### Audio quality
+### Audio quality
 
 Natural-sounding conversation is critical for deploying voice agents in the real world. Models need to speak with the intonation, emotion, and pace of a human to create an enjoyable experience and encourage continuous conversation with users. We trained `gpt-realtime` to produce higher-quality speech that sounds more natural and can follow fine-grained instructions, such as “speak quickly and professionally” or “speak empathetically in a French accent.”
 
@@ -76,19 +76,19 @@ Voice sample - Marin
 
 Voice sample - Cedar
 
-#### Intelligence and comprehension
+### Intelligence and comprehension
 
 `gpt-realtime` shows higher intelligence and can comprehend native audio with greater accuracy. The model can capture non-verbal cues (like laughs), switch languages mid-sentence, and adapt tone (“snappy and professional” vs. “kind and empathetic”). According to internal evaluations, the model also shows more accurate performance in detecting alphanumeric sequences (such as phone numbers, VINs, etc) in other languages, including Spanish, Chinese, Japanese, and French. On the Big Bench Audio eval measuring reasoning capabilities, `gpt-realtime` scores 82.8% accuracy—beating our previous model from December 2024, which scores 65.6%.
 
 The [Big Bench Audio⁠(opens in a new window)](<https://huggingface.co/datasets/ArtificialAnalysis/big_bench_audio>) benchmark is an evaluation dataset for assessing the reasoning capabilities of language models that support audio input. This dataset adapts questions from Big Bench Hard—chosen for its rigorous testing of advanced reasoning—into the audio domain.
 
-#### Instruction following
+### Instruction following
 
 When building a speech-to-speech application, developers give a set of instructions to the model on how to behave, including how to speak, what to say in a certain situation, and what to do or not do. We’ve focused our improvements on the adherence to these instructions, so that even minor directions carry more signal for the model. On the MultiChallenge audio benchmark measuring instruction following accuracy, `gpt-realtime` scores 30.5%, a significant improvement over our previous model from December 2024, which scores 20.6%.
 
 [MultiChallenge⁠(opens in a new window)](<https://arxiv.org/abs/2501.17399>) evaluates how well LLMs handle multi-turn conversations with humans. It focuses on four categories of realistic challenges that current frontier models struggle with. These challenges require models to combine instruction-following, context management, and in-context reasoning simultaneously. We converted an audio-friendly subset of the test questions from text-to-speech to create an audio version of this evaluation.
 
-#### Function calling
+### Function calling
 
 To build a capable voice agent with a speech-to-speech model, the model needs to be able to call the right tools at the right time to be useful in production. We’ve improved function calling on three axes: calling relevant functions, calling functions at the appropriate time, and calling functions with appropriate arguments (resulting in higher accuracy). On the ComplexFuncBench audio eval measuring function calling performance, `gpt-realtime` scores 66.5%, while our previous model from December 2024 scores 49.7%.
 
@@ -98,7 +98,7 @@ We’ve also made improvements to [asynchronous function calling⁠(opens in a n
 
 ## New in the Realtime API
 
-#### Remote MCP server support
+### Remote MCP server support
 
 You can enable MCP support in a Realtime API session by passing the URL of a remote MCP server into the session configuration. Once connected, the API automatically handles the tool calls for you, so there’s no need to wire up integrations manually.
 
@@ -176,7 +176,7 @@ This setup makes it easy to extend your agent with new capabilities—just point
 
 `
 
-#### Image input
+### Image input
 
 With image inputs now supported in `gpt-realtime`, you can add images, photos, and screenshots alongside audio or text to a Realtime API session. Now the model can ground the conversation in what the user is actually seeing, enabling users to ask questions like “what do you see?” or “read the text in this screenshot.”
 
@@ -252,7 +252,7 @@ Check out our [_docs_ ⁠(opens in a new window)](<http://platform.openai.com/do
 
 `
 
-#### Additional capabilities
+### Additional capabilities
 
 We’ve added several other features to make the Realtime API easier to integrate and more flexible for production use. 
 

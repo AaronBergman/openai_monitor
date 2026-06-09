@@ -1,3 +1,71 @@
+## 2026-06-09 — Run `2026-06-09T09-15Z`
+
+**TL;DR:** A landmark day on openai.com. June 8, 2026, OpenAI announced it has confidentially submitted a draft S-1 to the SEC — the formal first step toward a public offering — while simultaneously publishing a major strategic vision essay by Sam Altman and Jakub Pachocki declaring OpenAI's "third phase" and a new Economic Research Exchange for academic study of AI's economic impacts. Alongside the announcements: 28 pages removed (including the entire DeployCo brand, the advertiser portal landing page, the OpenAI Foundation page, the Safety Evaluations Hub, and a raft of deprecated policy and product pages), 6 new pages added, and a sitewide CMS republish touched 672 URLs (142 with actual visible content changes).
+
+### Anomalies
+None detected.
+
+### Major New Pages (6)
+
+**[Confidential Submission of Draft S-1 to the SEC](pages/openai.com/index/openai-submits-confidential-s-1/index.md)** (Jun 8, 2026)  
+OpenAI has filed a confidential S-1 with the SEC — the standard first step toward an IPO. The announcement is unusually candid: *"We expect it to leak so we're just announcing it."* Timing is undecided; they note some things "are likely easier as a private company." Includes a boilerplate Rule 135 disclaimer (not an offer to sell). A confidential S-1 gives the SEC a chance to review the filing before it becomes public; OpenAI can withdraw it if they decide not to proceed.
+
+**[Built to Benefit Everyone: Our Plan](pages/openai.com/index/built-to-benefit-everyone-our-plan/index.md)** (Jun 8, 2026, by Sam Altman and Jakub Pachocki)  
+A long-form strategic essay declaring OpenAI is entering its "third phase": from research org → product company → now making AI universally abundant. Three stated goals: (1) build an automated AI researcher (internal expectation: *"by March of 2028, a significant fraction of our research may be done by AI systems in tandem with our own researchers"*); (2) accelerate the economy with widely-shared gains; (3) give every person on Earth a personal AGI. The document argues AI must broaden rather than concentrate power, calls for an international governance body capable of slowing frontier development, and explicitly rejects full automation: *"entirely automating everything is not the future we want."*
+
+**[Introducing the OpenAI Economic Research Exchange](pages/openai.com/index/economic-research-exchange/index.md)** (Jun 8, 2026)  
+A new program for external academics to conduct rigorous empirical research on AI's economic effects using OpenAI tools and data, under formal data governance. Applications open now at `/form/economic-research-exchange/`; close July 5, 2026; decisions by July 31. Fields sought: labor economics, productivity, inequality, regional economics, development, and related. Builds on the existing OpenAI Signals data publication effort.
+
+**[OpenAI Academy: Champion Programs](pages/openai.com/academy/champion-programs/index.md)** (Jun 9, 2026)  
+A new enterprise change-management offering from OpenAI Academy targeting the people inside organizations who drive AI adoption — "OpenAI Champions." Structured learning journey: foundations → apply to work → connect with peers → shape strategy. Appears to formalize a previously informal role into a named program with curriculum and community.
+
+*Also new:* [Economic Research Exchange RFP details](pages/openai.com/index/economic-research-exchange-request-for-proposals/index.md) and [application form](pages/openai.com/form/economic-research-exchange/index.md).
+
+---
+
+### Notable Content Changes
+
+**[Release Notes](pages/openai.com/products/release-notes/index.md)** — New entry now at the top of the visible window (the previous "Active account session controls" entry from Jun 2 has scrolled below the fold):
+
+- **Codex app updates: profile insights and share cards** (Codex, Jun 4): Activity insights and share cards added to the Profile section; users can review usage highlights and save/share a profile card (sharing on consumer ChatGPT plans). Bug fixes: Computer Use startup, browser/review UI issues, expanded onboarding role choices.
+
+**[openai.com homepage](pages/openai.com/index.md)** — The top news spotlight has rotated. The previous featured stories ("How frontier firms are pulling ahead," "New ways to buy ChatGPT ads") have been replaced by the S-1 announcement, the Altman/Pachocki vision essay, and the Economic Research Exchange. The "Learn about ChatGPT Business" CTA has been removed from the nav strip.
+
+---
+
+### Significant Removals (28 total)
+
+**DeployCo brand fully retired** — `/deployco/`, `/deployco/privacy-policy/`, `/deployco/terms-of-use/`, and `/business/the-openai-deployment-company/` all removed. The white-label enterprise deployment company brand has been completely scrubbed from openai.com.
+
+**Advertisers portal removed** — `/advertisers/` (the "Advertise in ChatGPT" landing page describing ChatGPT's ad product and linking to `ads.openai.com`) has been removed from the sitemap. The advertising product itself may still exist, but OpenAI is no longer promoting it via a dedicated page on openai.com.
+
+**OpenAI Foundation page removed** — `/foundation/` removed. The Foundation continues to operate at `openaifoundation.org` (still linked from the header), so this is likely a consolidation: the organization has its own domain and no longer needs a mirror page on openai.com.
+
+**Safety Evaluations Hub removed** — `/safety/evaluations-hub/` (the "Deployment Safety" hub listing evaluation reports and risk measurements) removed. Content likely reorganized under `/trust-and-transparency/` or `/safety/`.
+
+**Policy consolidation (6 pages):**
+- `/policies/row-privacy-policy/` — Rest-of-World privacy policy removed (consolidated into `/policies/privacy-policy/`).
+- `/policies/services-privacy-policy/` — Services communications privacy policy removed.
+- `/policies/business-terms/` — Older business terms superseded.
+- `/policies/plugin-terms/` — Plugin terms removed (plugins deprecated).
+- `/policies/sora-usage-policies/` and `/policies/creating-sora-videos-in-line-with-our-policies/` — Sora-specific policy pages removed.
+
+**Other removals:** `/chatgpt/download/`, `/chatgpt/search-product-discovery/`, `/science/`, `/solutions/healthcare/`, `/reserved-capacity/`, `/contributions/`, `/form/custom-models/`, `/devday/directory/`, `/newsroom/global-affairs/`, `/newsroom/security/`, `/index/gpt-5-2-codex/`, `/index/parameter-golf/`, `/academy/top-10-use-cases-codex-for-work/`, `/business/guides-and-resources/`, `/agent-platform/`.
+
+---
+
+### Routine Updates
+
+672 sitemap lastmod changes (142 with actual visible content changes) reflect the June 8 sitewide CMS republish — consistent with a global navigation/template update triggered by the S-1 day announcements. Most visible changes are the new S-1 and vision essay appearing in "Keep reading" / related content sidebars across the site.
+
+---
+
+*Stats: 1,337 total URLs | +6 added | ~672 sitemap-updated (142 actual content changes) | -28 removed | 0 anomalies | 32 sub-sitemaps*
+
+*Full analysis: [runs/2026-06-09T09-15Z/analysis.md](runs/2026-06-09T09-15Z/analysis.md)*
+
+---
+
 ## 2026-06-08 — Run `2026-06-08T09-15Z`
 
 **TL;DR:** No new or removed pages today — the URL count holds at 1,331. A CMS navigation overhaul touched 109 pages (but only 2 had any visible content change). The real news is in the release notes: OpenAI published a cluster of security and AI-capability updates dated June 2–4, including a new Active Sessions security feature, Lockdown Mode expanded to all users, ads launching in the UK for free-tier users, an upgraded memory system for ChatGPT, and moderation scores added directly to the Responses API. The site-wide footer nav was also restructured, with a new "Developers" standalone section and GPT-5.3-Codex quietly removed from the featured model list.
@@ -1236,3 +1304,4 @@ Both will be re-checked every daily run. State changes (404 → 200, or
 disappearance from the sitemap entirely) will be flagged.
 
 See [`runs/2026-05-07T09-01Z/analysis.md`](runs/2026-05-07T09-01Z/analysis.md) for the full bootstrap report.
+

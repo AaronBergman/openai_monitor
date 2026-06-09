@@ -84,7 +84,7 @@ Off-the-shelf AI tools often can’t handle structured and unstructured data tog
 
 ## Four lessons from Balyasny’s approach to AI at scale
 
-#### 1\. Evaluate models before deploying them
+### 1\. Evaluate models before deploying them
 
 Before any models went into production, Balyasny built one of the most sophisticated evaluation pipelines in finance, measuring models across 12+ dimensions including forecasting accuracy, numerical reasoning, scenario analysis, and robustness to noisy inputs. These evaluations are run against Balyasny’s internal benchmarks, tools, and proprietary financial data.
 
@@ -94,7 +94,7 @@ This rigorous process surfaced strengths in the GPT‑5.4 model family, particul
 
 —Su Wang, Senior Research Scientist
 
-#### 2\. Foster deep collaboration between users and AI partners
+### 2\. Foster deep collaboration between users and AI partners
 
 Balyasny made a strategic decision to involve OpenAI directly in user-facing workflows. OpenAI teams observed directly how investment teams use their AI system: where it succeeds, where it struggles, and what high performance actually looks like in a commercial context.
 
@@ -104,13 +104,13 @@ That visibility led to faster iterations, tighter product feedback loops, and be
 
 —Jonathan Park, Product Manager
 
-#### 3\. Design for feedback loops, not static tools
+### 3\. Design for feedback loops, not static tools
 
 Because AI is deeply embedded in the day-to-day workflows of investment teams, they can collect structured feedback in real time on everything from user evaluations and outcome audits to tool execution quality. That loop drives rapid improvements to both models and the orchestration layer.
 
 For example, early feedback from merger arbitrage teams revealed that agents needed to continuously re-evaluate deal probabilities as new filings or press releases came in. The Balyasny team quickly extended agent planning capabilities and tool access, replacing a slow, manual workflow with real-time probabilistic monitoring.
 
-#### 4\. Centralize your AI system, and customize locally
+### 4\. Centralize your AI system, and customize locally
 
 While each investment team has a distinct investment strategy, Balyasny took a centralized approach to AI deployment. Their Applied AI team develops core components, including agent frameworks, toolchains, and compliance guardrails, which are then deployed across teams with scoped access to data and tools.
 
@@ -154,19 +154,17 @@ More than 1 million businesses around the world are achieving meaningful results
 
 ## Keep reading
 
-![oai endava 1x1](https://images.ctfassets.net/kftzwdyauwt9/6CJMPcvmo9FlUZMnAetSGl/9686223d1bd7d90b9926c0bedd4e8fb9/oai_endava_1x1.png?w=3840&q=90&fm=webp)
+![Confidential submission of draft S-1 to the SEC > cover image](https://images.ctfassets.net/kftzwdyauwt9/36doI12YCwUtp1hzD4d8bj/84e67c565f39e7d5ca3ee011efa69756/confidential-submission-of-draft-s-1-to-the-sec-1x1.png?w=3840&q=90&fm=webp)
 
-[How Endava is redesigning software delivery around AI agentsJun 4, 2026](</index/endava-frontiers/>)
+[Confidential submission of draft S-1 to the SECCompanyJun 8, 2026](</index/openai-submits-confidential-s-1/>)
 
-![Art Card 1080x1080 \(3\)](https://images.ctfassets.net/kftzwdyauwt9/3JLNH7ejJFnxLmX2LpzoKD/19f9e3c4d36cc9d677ba88e842ad2db2/Art_Card_1080x1080__4_.png?w=3840&q=90&fm=webp)
+![Built for broad benefit > cover](https://images.ctfassets.net/kftzwdyauwt9/bEe28mW3dEOj9pKJsPp2u/13f7bed9e86b0667ba924479d62f98e4/Art_Card_1080x1080_1.png?w=3840&q=90&fm=webp)
 
-Better memory for a more helpful ChatGPT
+[Built to benefit everyone: our planCompanyJun 8, 2026](</index/built-to-benefit-everyone-our-plan/>)
 
-[Dreaming: Better memory for a more helpful ChatGPTResearchJun 4, 2026](</index/chatgpt-memory-dreaming/>)
+![Economic research forum > art card ](https://images.ctfassets.net/kftzwdyauwt9/2DpNjvjdVuCrLKNOrFrWJ7/1aefe1cbe252bcd9ba42035469fc8a0f/art_card.png?w=3840&q=90&fm=webp)
 
-![oai 1x1 Biodefense in the Intelligence Age](https://images.ctfassets.net/kftzwdyauwt9/6A4rrCBs9rrlbzm9JWIvSi/8a4ae56849fcd0b16e90b59b8babc613/oai_1x1_Biodefense_in_the_Intelligence_Age.png?w=3840&q=90&fm=webp)
-
-[Biodefense in the Intelligence AgeGlobal AffairsJun 4, 2026](</index/biodefense-in-the-intelligence-age/>)
+[Introducing the OpenAI Economic Research ExchangeCompanyJun 8, 2026](</index/economic-research-exchange/>)
 
 Research
 

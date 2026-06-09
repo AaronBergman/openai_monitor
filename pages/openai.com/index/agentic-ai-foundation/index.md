@@ -51,7 +51,7 @@ Today, OpenAI is co-founding the [Agentic AI Foundation (AAIF)⁠(opens in a new
 
 As part of this effort, we’re contributing [_AGENTS.md_ ⁠(opens in a new window)](<http://agents.md>)—a simple, open format for providing agents with project-specific instructions and context—to the foundation to ensure long-term support and adoption across the community.
 
-#### Why Open Standards Matter
+### Why Open Standards Matter
 
 Developers are rapidly adopting AI to build more capable agentic systems—from coding assistants to workflow automation and customer service agents. In 2025, these systems have begun to move from prototypes into tools that handle real work in business and consumer settings.
 
@@ -61,7 +61,7 @@ As more agents begin handling real responsibility, the cost of fragmentation inc
 
 AAIF was created to address this moment.
 
-#### Building an Open Ecosystem
+### Building an Open Ecosystem
 
 Over the past year, OpenAI has made significant contributions to building agentic infrastructure in the open—working alongside developers, researchers, and other companies across the ecosystem to prove that open protocols can work in practice.
 
@@ -71,7 +71,7 @@ We’ve also been early adopters and core contributors to the Model Context Prot
 
 These efforts laid the groundwork for AAIF by demonstrating that open, interoperable infrastructure can gain real adoption across tools and communities.
 
-#### Donating [_AGENTS.md_ ⁠(opens in a new window)](<http://agents.md>)
+### Donating [_AGENTS.md_ ⁠(opens in a new window)](<http://agents.md>)
 
 AGENTS.md began as a practical solution to a familiar problem. Codex needed a predictable way to find project-specific instructions—such as coding conventions, build steps, and testing requirements—to help agents work safely and effectively in a codebase.
 
@@ -89,7 +89,7 @@ Contributing AGENTS.md to the AAIF ensures that:
 
 In addition to [_AGENTS.md_ ⁠(opens in a new window)](<http://agents.md>), the AAIF co-founders will each be contributing a project to the foundation: Anthropic’s [_Model Context Protocol (MCP)_ ⁠(opens in a new window)](<https://github.com/modelcontextprotocol>) and Block’s [_goose_ ⁠(opens in a new window)](<https://block.github.io/goose>).
 
-#### What the Agentic AI Foundation enables
+### What the Agentic AI Foundation enables
 
 The AAIF provides a neutral home where agent interoperability standards can be developed, governed, and extended collaboratively. Our goal for the AAIF is simple: establish a shared, neutral platform for building agentic systems that benefit developers, enterprises, and the broader open-source community.
 

@@ -98,13 +98,17 @@ Learn how AI is accelerating enterprise advantage through deeper integration, ag
 
 ## Recent news
 
+![Signals Homepage > Layout > Group > Recent news > Cards > Introducing the OpenAI Economic Research Exchange > Media > Asset](https://images.ctfassets.net/kftzwdyauwt9/1DxA8pHgu1AqA4E9tYh9Cs/6de7e05d428fc91fccbf2a92b7e06077/art_card.png?w=3840&q=90&fm=webp)
+
+[Introducing the OpenAI Economic Research Exchange](<https://openai.com/index/economic-research-exchange/>)
+
 ![Abstract illustration of compute capacity and infrastructure.](https://images.ctfassets.net/kftzwdyauwt9/2HOZcGYPMfIdz0JkzHQhcb/9142e08a9561450294d58800a58e86b5/a-call-for-strategic-compute-capacity.webp?w=3840&q=90&fm=webp)
 
-[A Call for Strategic Compute Capacity](<https://openaiglobalaffairs.substack.com/p/a-call-for-strategic-compute-capacity>)
+[A call for strategic compute capacity](<https://openaiglobalaffairs.substack.com/p/a-call-for-strategic-compute-capacity>)
 
 ![Construction worker using a laptop on a job site.](https://images.ctfassets.net/kftzwdyauwt9/4KUkS3l8L9tbFoRxFyNc42/a34aa4b2c6f4b729f315573dda7b1b43/a-back-office-for-construction-work.jpeg?w=3840&q=90&fm=webp)
 
-[A Back Office for Construction Work](<https://academy.openai.com/public/blogs/how-chatgpt-became-a-contractors-back-office-2026-05-07>)
+[A back office for construction work](<https://academy.openai.com/public/blogs/how-chatgpt-became-a-contractors-back-office-2026-05-07>)
 
 ![Signals Homepage > Layout > ... > Card > Understanding the Labor Market webinar > Media](https://images.ctfassets.net/kftzwdyauwt9/3HNrm9KNf7ON87kvBpVq4k/0382f0ef2f3c4fa69904cf8d5867674b/understanding-the-labor-market.png?w=3840&q=90&fm=webp)
 
@@ -113,10 +117,6 @@ Learn how AI is accelerating enterprise advantage through deeper integration, ag
 ![Signals Homepage > Layout > Group > Recent news > Cards > B2B Signals blog > Media > Asset](https://images.ctfassets.net/kftzwdyauwt9/4IzcV84U3LJqbYXVgixe4b/6c507d4b597e849b2291ad47a8931d62/Frame__1_.png?w=3840&q=90&fm=webp)
 
 [How frontier firms are pulling ahead](<https://openai.com/index/introducing-b2b-signals/>)
-
-![Getting to the Story Faster](https://images.ctfassets.net/kftzwdyauwt9/24rc7IrbOh7k8u3yqCMX5Y/50b4d93e08f139fc318d76d29b61f03e/042500ff-13ab-4c89-be9f-8e2b0a764595_3072x2048.webp?w=3840&q=90&fm=webp)
-
-[Getting to the story faster](<https://openaiglobalaffairs.substack.com/p/getting-to-the-story-faster>)
 
 ### Reports
 

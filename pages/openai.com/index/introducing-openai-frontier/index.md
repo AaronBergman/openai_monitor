@@ -91,13 +91,13 @@ The superpower of this approach is that AI coworkers are accessible and useful t
 
 ![Layered architecture diagram showing ChatGPT Enterprise, OpenAI Atlas, and Business Applications at the top; Your Agents, OpenAI Agents, and Third-Party Agents beneath; and foundational layers for Evaluation and Optimization, Agent Execution, and Business Context supporting enterprise AI workflows.](https://images.ctfassets.net/kftzwdyauwt9/74VrBsnsEegjyFCyN2CDdb/56a9e9a98745c87d08d4f4036a41badd/Desktop_Lightmode__1_.png?w=3840&q=90&fm=webp)
 
-#### Understand the work
+### Understand the work
 
 Every effective employee knows how the business works, where information lives, and what good decisions look like.
 
 Frontier connects siloed data warehouses, CRM systems, ticketing tools, and internal applications to give AI coworkers that same shared **business context**. They understand how information flows, where decisions happen, and what outcomes matter. It becomes a semantic layer for the enterprise that all AI coworkers can reference to operate and communicate effectively. 
 
-#### Plan, act, and solve problems
+### Plan, act, and solve problems
 
 With shared context in place, agents need to be able to actually do the work.
 
@@ -105,7 +105,7 @@ Teams across the organization, technical and non-technical, can use Frontier to 
 
 Once deployed, AI coworkers can run across local environments, enterprise cloud infrastructure, and OpenAI-hosted runtimes without forcing teams to reinvent how work gets done. And for time-sensitive work, Frontier prioritizes low-latency access to OpenAI’s models so responses stay quick and consistent.
 
-#### Improve quality on real work
+### Improve quality on real work
 
 For agents to be useful over time, they need to learn from experience, just like people do.
 
@@ -113,7 +113,7 @@ Built-in ways to **evaluate and optimize** performance make it clear to human ma
 
 This is how agents move from impressive demos to dependable teammates.
 
-#### Identity, permissions, and boundaries
+### Identity, permissions, and boundaries
 
 Frontier makes sure AI coworkers operate within clear boundaries. Each AI coworker has its own identity, with explicit permissions and guardrails. That makes it possible to use them confidently in sensitive and regulated environments. [_Enterprise security and governance_ ⁠](<https://openai.com/business-data/>) are built in, so teams can scale without losing control.
 
@@ -175,19 +175,17 @@ OpenAI
 
 [View all](</news/>)
 
-![Art Card 1080x1080 \(3\)](https://images.ctfassets.net/kftzwdyauwt9/3JLNH7ejJFnxLmX2LpzoKD/19f9e3c4d36cc9d677ba88e842ad2db2/Art_Card_1080x1080__4_.png?w=3840&q=90&fm=webp)
+![Confidential submission of draft S-1 to the SEC > cover image](https://images.ctfassets.net/kftzwdyauwt9/36doI12YCwUtp1hzD4d8bj/84e67c565f39e7d5ca3ee011efa69756/confidential-submission-of-draft-s-1-to-the-sec-1x1.png?w=3840&q=90&fm=webp)
 
-Better memory for a more helpful ChatGPT
+[Confidential submission of draft S-1 to the SECCompanyJun 8, 2026](</index/openai-submits-confidential-s-1/>)
 
-[Dreaming: Better memory for a more helpful ChatGPTResearchJun 4, 2026](</index/chatgpt-memory-dreaming/>)
+![Built for broad benefit > cover](https://images.ctfassets.net/kftzwdyauwt9/bEe28mW3dEOj9pKJsPp2u/13f7bed9e86b0667ba924479d62f98e4/Art_Card_1080x1080_1.png?w=3840&q=90&fm=webp)
 
-![Rosalind5.5 ArtCard](https://images.ctfassets.net/kftzwdyauwt9/6USIQM1B7TggUvvTFxxwoi/0176ac6633c8bdc24641d25d1d2db824/GPT-Rosalind_ArtCard.png?w=3840&q=90&fm=webp)
+[Built to benefit everyone: our planCompanyJun 8, 2026](</index/built-to-benefit-everyone-our-plan/>)
 
-[Introducing new capabilities to GPT-RosalindProductJun 3, 2026](</index/introducing-new-capabilities-to-gpt-rosalind/>)
+![Economic research forum > art card ](https://images.ctfassets.net/kftzwdyauwt9/2DpNjvjdVuCrLKNOrFrWJ7/1aefe1cbe252bcd9ba42035469fc8a0f/art_card.png?w=3840&q=90&fm=webp)
 
-![1 1 Art Card](https://images.ctfassets.net/kftzwdyauwt9/4xugzd9dTDMUzIUmuamtO3/1f40af4e50ab8b2bdd64d5b491964961/1_1_Art_Card.png?w=3840&q=90&fm=webp)
-
-[Codex for every role, tool, and workflowProductJun 2, 2026](</index/codex-for-every-role-tool-workflow/>)
+[Introducing the OpenAI Economic Research ExchangeCompanyJun 8, 2026](</index/economic-research-exchange/>)
 
 Research
 

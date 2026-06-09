@@ -50,6 +50,18 @@ Switch cards to show Media
 
 Switch cards to hide Media
 
+![Confidential submission of draft S-1 to the SEC > cover image](https://images.ctfassets.net/kftzwdyauwt9/36doI12YCwUtp1hzD4d8bj/84e67c565f39e7d5ca3ee011efa69756/confidential-submission-of-draft-s-1-to-the-sec-1x1.png?w=3840&q=90&fm=webp)
+
+[Confidential submission of draft S-1 to the SECCompanyJun 8, 2026](</index/openai-submits-confidential-s-1/>)
+
+![Built for broad benefit > cover](https://images.ctfassets.net/kftzwdyauwt9/bEe28mW3dEOj9pKJsPp2u/13f7bed9e86b0667ba924479d62f98e4/Art_Card_1080x1080_1.png?w=3840&q=90&fm=webp)
+
+[Built to benefit everyone: our planCompanyJun 8, 2026](</index/built-to-benefit-everyone-our-plan/>)
+
+![Economic research forum > art card ](https://images.ctfassets.net/kftzwdyauwt9/2DpNjvjdVuCrLKNOrFrWJ7/1aefe1cbe252bcd9ba42035469fc8a0f/art_card.png?w=3840&q=90&fm=webp)
+
+[Introducing the OpenAI Economic Research ExchangeCompanyJun 8, 2026](</index/economic-research-exchange/>)
+
 ![Art Card 1080x1080 \(3\)](https://images.ctfassets.net/kftzwdyauwt9/3JLNH7ejJFnxLmX2LpzoKD/19f9e3c4d36cc9d677ba88e842ad2db2/Art_Card_1080x1080__4_.png?w=3840&q=90&fm=webp)
 
 Better memory for a more helpful ChatGPT
@@ -75,18 +87,6 @@ Better memory for a more helpful ChatGPT
 ![1x1](https://images.ctfassets.net/kftzwdyauwt9/6ui4uYfTTbR4xbiFRcqEfo/81d973f14bea720820f692271f6c6834/square.png?w=3840&q=90&fm=webp)
 
 [Strengthening societal resilience with Rosalind BiodefenseProductMay 29, 2026](</index/strengthening-societal-resilience-with-rosalind-biodefense/>)
-
-![Technical foundations > Art Card](https://images.ctfassets.net/kftzwdyauwt9/6gugGfSiM1oO6UHxxwnqTk/c7173a5a2c096a8f8a24c258ddfa22dd/ArtCard-TechnicalFoundations.png?w=3840&q=90&fm=webp)
-
-[A shared playbook for trustworthy third party evaluationsSafetyMay 29, 2026](</index/trustworthy-third-party-evaluations-foundations/>)
-
-![Frontier Governance Framework > card image ](https://images.ctfassets.net/kftzwdyauwt9/2KoiHuErR5YxXGUnhCU8VY/e392c6249ec4644e07e944edea22e837/Frame2.png?w=3840&q=90&fm=webp)
-
-[OpenAI’s Frontier Governance FrameworkSafetyMay 28, 2026](</index/openai-frontier-governance-framework/>)
-
-![Tax Agent > Art Card](https://images.ctfassets.net/kftzwdyauwt9/6ojJ6B55QUlmNdaLifgMkQ/22e429ec7b3fdd119a2499358af899b7/Art_Card.png?w=3840&q=90&fm=webp)
-
-[Building self-improving tax agents with CodexEngineeringMay 27, 2026](</index/building-self-improving-tax-agents-with-codex/>)
 
 Load more
 

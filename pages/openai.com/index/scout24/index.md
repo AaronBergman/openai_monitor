@@ -53,7 +53,7 @@ We sat down with Gertrud Kolb, Chief Technology Officer at Scout24, to hear how 
 
 —Gertrud Kolb, Chief Technology Officer, Scout24
 
-#### Results at a glance
+### Results at a glance
 
   * GPT‑5 powering Scout24’s conversational search assistant HeyImmo
   * Adaptive answer formats: concise summaries, bullet points, or direct listings with image previews
@@ -64,7 +64,7 @@ We sat down with Gertrud Kolb, Chief Technology Officer at Scout24, to hear how 
 
 
 
-#### Inside the rollout
+### Inside the rollout
 
 Scout24’s first priority was search—the core function of its platform. But as the team began prototyping with OpenAI they realised that customers wanted more than improved results. They wanted guidance. “We saw very quickly it’s not only about search. We needed a real-estate expert assistant—a sparring partner—which guides you through the whole platform experience” said Gertrud.
 
@@ -78,7 +78,7 @@ Throughout development, Scout24 worked closely with the OpenAI team. Gertrud des
 
 This combination of iterative engineering, rigorous evaluation, and broad testing set the foundation for a customer experience that feels both intelligent and trustworthy.
 
-#### Leadership lessons from Scout24
+### Leadership lessons from Scout24
 
   * Start where AI can transform the core of your product—and iterate from there.
   * Quality matters: define “good enough” and build the tools to measure it.
@@ -88,7 +88,7 @@ This combination of iterative engineering, rigorous evaluation, and broad testin
 
 
 
-#### What’s next
+### What’s next
 
 Scout24’s focus now is on interconnectivity: expanding the real-estate assistant across seekers, landlords, homeowners, and agents. From helping agents produce verified floor plans to giving seekers more personalized guidance, the team sees many opportunities to deepen the experience and strengthen network effects across the marketplace.
 
@@ -104,19 +104,17 @@ More than 1 million businesses around the world are achieving meaningful results
 
 ## Keep reading
 
-![oai endava 1x1](https://images.ctfassets.net/kftzwdyauwt9/6CJMPcvmo9FlUZMnAetSGl/9686223d1bd7d90b9926c0bedd4e8fb9/oai_endava_1x1.png?w=3840&q=90&fm=webp)
+![Confidential submission of draft S-1 to the SEC > cover image](https://images.ctfassets.net/kftzwdyauwt9/36doI12YCwUtp1hzD4d8bj/84e67c565f39e7d5ca3ee011efa69756/confidential-submission-of-draft-s-1-to-the-sec-1x1.png?w=3840&q=90&fm=webp)
 
-[How Endava is redesigning software delivery around AI agentsJun 4, 2026](</index/endava-frontiers/>)
+[Confidential submission of draft S-1 to the SECCompanyJun 8, 2026](</index/openai-submits-confidential-s-1/>)
 
-![Art Card 1080x1080 \(3\)](https://images.ctfassets.net/kftzwdyauwt9/3JLNH7ejJFnxLmX2LpzoKD/19f9e3c4d36cc9d677ba88e842ad2db2/Art_Card_1080x1080__4_.png?w=3840&q=90&fm=webp)
+![Built for broad benefit > cover](https://images.ctfassets.net/kftzwdyauwt9/bEe28mW3dEOj9pKJsPp2u/13f7bed9e86b0667ba924479d62f98e4/Art_Card_1080x1080_1.png?w=3840&q=90&fm=webp)
 
-Better memory for a more helpful ChatGPT
+[Built to benefit everyone: our planCompanyJun 8, 2026](</index/built-to-benefit-everyone-our-plan/>)
 
-[Dreaming: Better memory for a more helpful ChatGPTResearchJun 4, 2026](</index/chatgpt-memory-dreaming/>)
+![Economic research forum > art card ](https://images.ctfassets.net/kftzwdyauwt9/2DpNjvjdVuCrLKNOrFrWJ7/1aefe1cbe252bcd9ba42035469fc8a0f/art_card.png?w=3840&q=90&fm=webp)
 
-![oai 1x1 Biodefense in the Intelligence Age](https://images.ctfassets.net/kftzwdyauwt9/6A4rrCBs9rrlbzm9JWIvSi/8a4ae56849fcd0b16e90b59b8babc613/oai_1x1_Biodefense_in_the_Intelligence_Age.png?w=3840&q=90&fm=webp)
-
-[Biodefense in the Intelligence AgeGlobal AffairsJun 4, 2026](</index/biodefense-in-the-intelligence-age/>)
+[Introducing the OpenAI Economic Research ExchangeCompanyJun 8, 2026](</index/economic-research-exchange/>)
 
 Research
 

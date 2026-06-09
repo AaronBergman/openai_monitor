@@ -71,15 +71,15 @@ For OpenAI, this reflects how we think about building OpenAI for Science. Progre
 
 Over the past year, we’ve been working closely with scientists across the DOE national lab system to understand where frontier models help, where they fall short, and what it takes to integrate them into real research settings.
 
-#### Putting frontier models in the hands of scientists
+### Putting frontier models in the hands of scientists
 
 Together with DOE’s national labs, we convened the [_1,000 Scientist AI Jam Session_ ⁠](<https://openai.com/global-affairs/1000-scientist-ai-jam-session/>)—a first-of-its-kind event across nine labs where more than 1,000 scientists used frontier AI models to test domain-specific problems, evaluate model responses, and provide structured feedback to inform future system development. This model of collaboration allows researchers to stress-test AI on the problems that matter in their work, and help shape how these tools evolve. 
 
-#### Deploying frontier models on national lab supercomputers
+### Deploying frontier models on national lab supercomputers
 
 We partner with the[ _National Nuclear Security Administration (NNSA) laboratories_ ⁠](<https://openai.com/index/strengthening-americas-ai-leadership-with-the-us-national-laboratories/>), including Los Alamos National Laboratory, Lawrence Livermore National Laboratory, and Sandia National Laboratories, to support scientific and technical research. As part of this work, OpenAI has deployed advanced reasoning models on the Venado supercomputer at Los Alamos National Laboratory, where it serves as a shared resource for researchers across the NNSA labs. This collaboration focuses on applying frontier AI models in high-performance computing environments to support complex scientific and national research challenges.
 
-#### Measuring bioscience capabilities in realistic settings
+### Measuring bioscience capabilities in realistic settings
 
 We also partnered with [_Los Alamos National Laboratory_ ⁠](<https://openai.com/index/openai-and-los-alamos-national-laboratory-work-together/>) to develop evaluations that study how multimodal AI systems can be used safely by scientists in laboratory settings. That work is designed to move beyond purely text-based assessments and toward more realistic measurements of how models may influence outcomes in high-consequence domains, grounded in expert oversight, careful study design, and a clear commitment to risk reduction.
 

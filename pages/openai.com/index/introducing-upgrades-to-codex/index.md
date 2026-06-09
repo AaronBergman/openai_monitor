@@ -83,7 +83,7 @@ GPT‑5‑Codex was purpose-built for Codex CLI, the Codex IDE extension, the Co
 
 We also recently made some updates to make Codex a better pair programmer, with a revamped Codex CLI and the new Codex IDE extension.
 
-#### Codex CLI
+### Codex CLI
 
 Codex CLI is open-source, and community feedback over the last few months has been invaluable in shaping its evolution. With this feedback, we’ve rebuilt Codex CLI around agentic coding workflows to harness our models into more capable and reliable partners. You can now attach and share images—screenshots, wireframes, and diagrams—right in the CLI to build shared context on design decisions and get exactly what you want. When doing more complex work, Codex now tracks progress with a to-do list, and includes tools like web search and MCP for connecting to external systems, with more accurate tool use overall.
 
@@ -91,13 +91,13 @@ The terminal UI has also been upgraded: tool calls and diffs are better formatte
 
 Check out the [_Codex CLI quickstart_ ⁠(opens in a new window)](<https://developers.openai.com/codex/cli>) to learn more.
 
-#### The Codex IDE extension
+### The Codex IDE extension
 
 Codex meets you where you already work, including in your IDE. The IDE extension brings the Codex agent into VS Code, Cursor, and other VS Code forks, so that you can seamlessly preview local changes and edit code with Codex. When you use Codex in your IDE, you can write shorter prompts and get faster results because Codex can use context like the files you’ve opened or the code you’ve selected.
 
 The Codex IDE extension also lets you move work smoothly between the cloud and your local environment. You can create new cloud tasks, track in‑progress work, and review completed tasks without leaving your editor. To make finishing touches, you can open cloud tasks in your IDE, and Codex maintains context. Learn more on how to get the most out of the IDE extension in the [_quickstart_ ⁠(opens in a new window)](<https://developers.openai.com/codex/ide>).
 
-#### Codex cloud
+### Codex cloud
 
 In addition to Codex CLI, the new IDE extension and GitHub integration bring the Codex cloud agent closer to developer workflows so you can now delegate tasks without switching away from your editor or GitHub.
 
@@ -105,7 +105,7 @@ Behind the scenes, we’ve also been continuously improving cloud infrastructure
 
 Like in the CLI and IDE extension, you can now use images to share frontend design specs or explain UI bugs. As it builds for you, Codex can spin up its own browser, look at what it built, iterate, and attach a screenshot of the result to the task and GitHub PR. For more details, check out the [_docs_ ⁠(opens in a new window)](<https://developers.openai.com/codex/cloud>).
 
-#### Code review
+### Code review
 
 Codex also now includes code review capabilities trained to catch critical flaws. Unlike static analysis tools, it matches the stated intent of a PR to the actual diff, reasons over the entire codebase and dependencies, and executes code and tests to validate behavior. Only the most thorough human reviewers put this level of effort into every PR they review, so Codex fills the gap—helping teams find problems earlier, reduce reviewer load, and ship with more confidence.
 

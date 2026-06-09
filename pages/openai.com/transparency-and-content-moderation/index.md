@@ -42,7 +42,7 @@ Last updated: May 4, 2026
 
 To promote safe and responsible use of our products, we use a range of procedures and tools to address content that may violate the law or our terms and policies.
 
-#### How we monitor and enforce
+### How we monitor and enforce
 
 We use a combination of automated technologies and human review to monitor activity on our services, in line with our [Privacy Policy⁠](<https://openai.com/policies/privacy-policy/>). Our methods include:
 
@@ -52,7 +52,7 @@ We use a combination of automated technologies and human review to monitor activ
 
 
 
-#### Enforcement actions
+### Enforcement actions
 
 When we identify content that violates our terms or policies, we may take actions such as:
 
@@ -67,17 +67,17 @@ When we identify content that violates our terms or policies, we may take action
 
 We consider factors like legal requirements, the severity of the violation, and past or repeat violations, when determining enforcement actions.
 
-#### Appeals process
+### Appeals process
 
 If we take enforcement action based on your content or activity, we may notify you with details and reasons for our decision. If you think we have made a mistake, you can report to us or appeal by emailing [trustandsafety@openai.com⁠⁠](<mailto:trustandsafety@openai.com>) or [contacting Support⁠⁠(opens in a new window)](<https://help.openai.com/en/articles/6614161-how-can-i-contact-support>). We may reassess, considering any additional information you provide. If your appeal is successful, we will reverse the enforcement action.
 
 Please note that misuse of the complaints process, such as submitting manifestly unfounded notices, may also result in action.
 
-#### Continuous improvement
+### Continuous improvement
 
 Our integrity and safety teams continuously monitor and refine our policies, processes, and tools to enhance our approach as our products evolve globally.
 
-#### Explore feed prioritization
+### Explore feed prioritization
 
 Content in the Explore feed is prioritized based on a number of factors, including:
 
@@ -93,7 +93,7 @@ We use automated technology and human review to determine what appears in the Ex
 
 Search results may be displayed in a conversation when users ask ChatGPT to search the web, or when ChatGPT decides to search the web to provide a relevant response.
 
-#### How search results are determined
+### How search results are determined
 
 Search results are displayed using the following measures:
 
@@ -104,7 +104,7 @@ Search results are displayed using the following measures:
 
 
 
-#### Safety standards
+### Safety standards
 
 We aim to deliver helpful information while upholding our safety standards. We may not link to or surface certain websites containing illegal, harmful, or sensitive content, such as explicit material involving minors, exposed personal data, or instructions for violence.
 
@@ -112,7 +112,7 @@ We aim to deliver helpful information while upholding our safety standards. We m
 
 When a user’s query suggests shopping intent (e.g., “I’m looking to buy a dog costume”), ChatGPT search may display relevant product options with links to learn more or make a purchase.
 
-#### How products are selected
+### How products are selected
 
 Products are displayed based on:
 

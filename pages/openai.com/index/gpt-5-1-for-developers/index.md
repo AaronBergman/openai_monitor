@@ -59,7 +59,7 @@ GPT‑5.1 is the next advancement in the GPT‑5 series, and we plan to continue
 
 ## Efficient reasoning across tasks
 
-#### Adaptive reasoning
+### Adaptive reasoning
 
 To make GPT‑5.1 faster, we overhauled the way we trained it to think. On straightforward tasks, GPT‑5.1 spends fewer tokens thinking, enabling snappier product experiences and lower token bills. On difficult tasks that require extra thinking, GPT‑5.1 remains persistent, exploring options and checking its work in order to maximize reliability.
 
@@ -88,13 +88,13 @@ You can list globally installed npm packages with:
 
 The first one is usually what you want.
 
-#### New “no reasoning” mode
+### New “no reasoning” mode
 
 Developers can now use GPT‑5.1 without reasoning by setting reasoning_effort to 'none'. This makes the model behave like a non-reasoning model for latency-sensitive use cases, with the high intelligence of GPT‑5.1 and added bonus of performant tool-calling. Relative to GPT‑5 with 'minimal' reasoning, GPT‑5.1 with no reasoning is better at parallel tool calling (which itself increases end-to-end task completion speed), coding tasks, following instructions, and using search tools—and supports [web search⁠(opens in a new window)](<https://platform.openai.com/docs/guides/tools-web-search?api-mode=responses>) in our API platform. [**Sierra** ⁠(opens in a new window)](<https://sierra.ai>) shared that GPT‑5.1 on “no reasoning” mode showed a “20% improvement on low-latency tool calling performance compared to GPT‑5 minimal reasoning” in their real-world evals.
 
 With the introduction of 'none' as a value in reasoning_effort, developers now have even more flexibility and control over the balance between speed, cost, and intelligence for their use case. GPT‑5.1 defaults to 'none', which is ideal for latency-sensitive workloads. We recommend developers choose 'low' or 'medium' for tasks of higher complexity and 'high' when intelligence and reliability matter more than speed.
 
-#### Extended prompt caching
+### Extended prompt caching
 
 Extended caching improves reasoning efficiency by allowing prompts to remain active in the cache for up to 24 hours, rather than the few minutes supported today. With a longer retention window, more follow-up requests can leverage cached context—resulting in lower latency, reduced cost, and smoother performance for long-running interactions such as multi-turn chat, coding sessions, or knowledge retrieval workflows.
 
@@ -127,13 +127,13 @@ We got early feedback on GPT‑5.1 from a handful of coding companies. Here are 
 
 We’re introducing two new tools with GPT‑5.1 to help developers get the most out of the model in the Responses API: a freeform `**apply_patch**`**tool** to make code edits even more reliable without the need for JSON escaping, and a **shell** **tool** that lets the model write commands to run on your local machine.
 
-#### Apply_patch tool
+### Apply_patch tool
 
 The freeform `apply_patch` tool lets GPT‑5.1 create, update, and delete files in a codebase using structured diffs. Instead of just suggesting edits, the model emits patch operations that an application applies and reports back on, enabling iterative, multi-step code editing workflows. 
 
 To use the `apply_patch` tool in the Responses API, include it in the tools array with `"tools": [{“type”: “apply_patch”}]` and either include file content in your input or give the model tools for interacting with your file system. The model will generate `apply_patch_call` items for creating, updating, or deleting files that contain diffs that you apply on your file system. For more information on how to integrate with the apply_patch tool, check out our [developer documentation⁠(opens in a new window)](<https://platform.openai.com/docs/guides/tools-apply-patch>).
 
-#### Shell tool
+### Shell tool
 
 The shell tool allows the model to interact with a local computer through a controlled command-line interface. The model proposes shell commands; a developer’s integration executes them and returns the outputs. This creates a simple plan-execute loop that lets models inspect the system, run utilities, and gather data until they can finish the task.
 

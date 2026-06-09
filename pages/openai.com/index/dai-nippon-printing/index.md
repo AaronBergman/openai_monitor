@@ -84,7 +84,7 @@ As part of this commitment, DNP has long embraced emerging technologies. In Apri
 
 
 
-#### Accelerating adoption through strategic deployment
+### Accelerating adoption through strategic deployment
 
 To fully realize the benefits of generative AI, DNP targeted ten departments with the highest potential impact. The company established clear benchmarks: each employee should use ChatGPT at least 100 times per week, and over 50% automation rate for task time reduction.
 
@@ -96,7 +96,7 @@ As a result, individual improvements spread across teams through custom GPTs and
 
 ![Modern glass office buildings with “DNP” logos under a clear blue sky, surrounded by trees and city structures.](https://images.ctfassets.net/kftzwdyauwt9/1dGUQOMg1YfLMk2eOrbuzE/68049b35c4571eca6dcfccc8a57f5f46/DNP_ã__ã__ã__.jpg?w=3840&q=90&fm=webp)
 
-#### Cutting patent research time by 95%
+### Cutting patent research time by 95%
 
 In the departments where ChatGPT Enterprise was introduced, the greatest impact was seen in the ICT research and development division. Yohei Ishida, General Manager of P&I Innovation Research and Development Unit, Advanced Business Center, led his team to automate and improve patent research and filing strategies, replacing manual tasks.
 
@@ -114,7 +114,7 @@ By elevating IP strategy, DNP is strengthening the foundations of product unique
 
 —Yohei Ishida, General Manager of P&I Innovation Research and Development Unit, Advanced Business Center
 
-#### Building Python scripts with zero prior experience
+### Building Python scripts with zero prior experience
 
 DNP's research division promoting production technology advances QCD (quality, cost, delivery) innovation to enhance the value of existing products and services, and pursues the development of new products and services. In areas that require advanced analytical and evaluation techniques, DNP has significantly reduced the time traditionally needed for tasks such as operating experimental equipment for material evaluation, conducting measurements, and performing analyses by leveraging ChatGPT Enterprise.
 
@@ -127,7 +127,7 @@ Key outcomes include:
 
 A particularly notable use case involved employees with no prior experience in Python, who were able to generate code and analyze data without any learning cost. Development work that would traditionally take more than a year was implemented within just a few days. By combining these capabilities with researchers' expertise and knowledge, new insights were discovered, delivering significant impact across the entire division.
 
-#### Enhancing IT compliance and cloud operations
+### Enhancing IT compliance and cloud operations
 
 DNP is modernizing IT governance with ChatGPT Enterprise. Masahiro Kobayashi, General Manager of System Infrastructure Development Division, ICT Center, Information Innovation Operations, highlighted improvements in tasks that were once manual and inconsistent:
 
@@ -143,7 +143,7 @@ DNP is modernizing IT governance with ChatGPT Enterprise. Masahiro Kobayashi, Ge
 
 He adds that AI will not replace human oversight: "Verification and final checks remain the responsibility of people."
 
-#### Preserving institutional knowledge through AI
+### Preserving institutional knowledge through AI
 
 One of DNP's biggest challenges is knowledge loss. Expertise often lives in the minds of experienced employees, or buried in analog documents.
 
@@ -153,7 +153,7 @@ His team uses ChatGPT Enterprise to structure and digitize unstructured data fro
 
 "Our goal is to turn generational knowledge into digital labor," Osawa says. That shift not only offsets labor shortages but builds long-term capacity for innovation.
 
-#### Results at a glance
+### Results at a glance
 
   * 90% of use cases showed measurable results
   * 100% weekly active usage rate
@@ -163,7 +163,7 @@ His team uses ChatGPT Enterprise to structure and digitize unstructured data fro
 
 
 
-#### What's next
+### What's next
 
 "AI agents will blend seamlessly into various situations, allowing everyone to benefit from AI without even being conscious of it," says Otake. He envisions a shift from human and AI collaboration to a foundation where parts of business run through AI to AI interaction. As robotics advances, this trend will accelerate, leading to a future where physical AI works in the real world.
 
@@ -179,19 +179,17 @@ More than 1 million businesses around the world are achieving meaningful results
 
 ## Keep reading
 
-![oai endava 1x1](https://images.ctfassets.net/kftzwdyauwt9/6CJMPcvmo9FlUZMnAetSGl/9686223d1bd7d90b9926c0bedd4e8fb9/oai_endava_1x1.png?w=3840&q=90&fm=webp)
+![Confidential submission of draft S-1 to the SEC > cover image](https://images.ctfassets.net/kftzwdyauwt9/36doI12YCwUtp1hzD4d8bj/84e67c565f39e7d5ca3ee011efa69756/confidential-submission-of-draft-s-1-to-the-sec-1x1.png?w=3840&q=90&fm=webp)
 
-[How Endava is redesigning software delivery around AI agentsJun 4, 2026](</index/endava-frontiers/>)
+[Confidential submission of draft S-1 to the SECCompanyJun 8, 2026](</index/openai-submits-confidential-s-1/>)
 
-![Art Card 1080x1080 \(3\)](https://images.ctfassets.net/kftzwdyauwt9/3JLNH7ejJFnxLmX2LpzoKD/19f9e3c4d36cc9d677ba88e842ad2db2/Art_Card_1080x1080__4_.png?w=3840&q=90&fm=webp)
+![Built for broad benefit > cover](https://images.ctfassets.net/kftzwdyauwt9/bEe28mW3dEOj9pKJsPp2u/13f7bed9e86b0667ba924479d62f98e4/Art_Card_1080x1080_1.png?w=3840&q=90&fm=webp)
 
-Better memory for a more helpful ChatGPT
+[Built to benefit everyone: our planCompanyJun 8, 2026](</index/built-to-benefit-everyone-our-plan/>)
 
-[Dreaming: Better memory for a more helpful ChatGPTResearchJun 4, 2026](</index/chatgpt-memory-dreaming/>)
+![Economic research forum > art card ](https://images.ctfassets.net/kftzwdyauwt9/2DpNjvjdVuCrLKNOrFrWJ7/1aefe1cbe252bcd9ba42035469fc8a0f/art_card.png?w=3840&q=90&fm=webp)
 
-![oai 1x1 Biodefense in the Intelligence Age](https://images.ctfassets.net/kftzwdyauwt9/6A4rrCBs9rrlbzm9JWIvSi/8a4ae56849fcd0b16e90b59b8babc613/oai_1x1_Biodefense_in_the_Intelligence_Age.png?w=3840&q=90&fm=webp)
-
-[Biodefense in the Intelligence AgeGlobal AffairsJun 4, 2026](</index/biodefense-in-the-intelligence-age/>)
+[Introducing the OpenAI Economic Research ExchangeCompanyJun 8, 2026](</index/economic-research-exchange/>)
 
 Research
 

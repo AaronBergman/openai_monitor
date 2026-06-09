@@ -164,7 +164,7 @@ CursorGitHubJetBrainsAugment CodeWindsurf
 
 With GPT‑5.4, we’ve significantly improved how models work with external tools. Agents can now operate across larger tool ecosystems, choose the right tools more reliably, and complete multi-step workflows with lower cost and latency.
 
-#### Tool search
+### Tool search
 
 In the API, GPT‑5.4 introduces [**tool search** ⁠(opens in a new window)](<https://developers.openai.com/api/docs/guides/tools-tool-search>), which allows models to work efficiently when given many tools.
 
@@ -178,7 +178,7 @@ To demonstrate the efficiency gains, we evaluated 250 tasks from Scale’s [MCP 
 
 _Example token counts come from averaging 250 tasks in the MCP-Atlas public dataset._
 
-####  Agentic tool calling
+###  Agentic tool calling
 
 GPT‑5.4 also improves **tool calling** , making it more accurate and efficient when deciding when and how to use tools during reasoning, particularly in the API. Compared to GPT‑5.2, it achieves higher accuracy in fewer turns on Toolathlon, a benchmark that tests how well AI agents can use real-world tools and APIs to complete multi-step tasks. For example, an agent needs to read emails, extract assignment attachments, upload them, grade them and record results in a spreadsheet.
 
@@ -188,7 +188,7 @@ For latency-sensitive use cases where reasoning effort None is preferred, GPT‑
 
 _In_[ _τ2-bench⁠_ ⁠(opens in a new window)](<https://arxiv.org/pdf/2506.07982>)_, a model must use tools to accomplish a customer service task, where there may be a simulated user who can communicate and take actions on the world state. Reasoning effort was set to None._
 
-####  Improved web search
+###  Improved web search
 
 GPT‑5.4 is better at agentic web search. On BrowseComp, a measurement of how well AI agents can persistently browse the web to find hard-to-locate information, GPT‑5.4 leaps 17%abs over GPT‑5.2, and GPT‑5.4 Pro sets a new state of the art of 89.3%.
 
@@ -239,7 +239,7 @@ gpt-5.4-pro| $30 / M tokens| -| $180 / M tokens
   
 ## Evaluations
 
-##### Professional
+### Professional
 
 **Eval**| **GPT‑5.4**| **GPT‑5.4  
 Pro**| **GPT‑5.3-Codex**| **GPT‑5.2**| **GPT‑5.2  
@@ -250,7 +250,7 @@ FinanceAgent v1.1| 56.0%| 61.5%| 54.0%| 59.5%| —
 Investment Banking Modeling Tasks (Internal)| 87.3%| 83.6%| 79.3%| 68.4%| 71.7%  
 OfficeQA| 68.1%| —| 65.1%| 63.1%| —  
   
-##### Coding
+### Coding
 
 **Eval**| **GPT‑5.4**| **GPT‑5.4  
 Pro**| **GPT‑5.3-Codex**| **GPT‑5.2**| **GPT‑5.2  
@@ -259,7 +259,7 @@ Pro**
 SWE-Bench Pro (Public)| 57.7%| —| 56.8%| 55.6%| —  
 Terminal-Bench 2.0| 75.1%| —| 77.3%| 62.2%| —  
   
-##### Computer use and vision
+### Computer use and vision
 
 **Eval**| **GPT‑5.4**| **GPT‑5.4  
 Pro**| **GPT‑5.3-Codex**| **GPT‑5.2**| **GPT‑5.2  
@@ -269,7 +269,7 @@ OSWorld-Verified| 75.0%| —| 74.0%| 47.3%| —
 MMMU Pro (no tools)| 81.2%| —| —| 79.5%| —  
 MMMU Pro (with tools)| 82.1%| —| —| 80.4%| —  
   
-##### Tool use
+### Tool use
 
 **Eval**| **GPT‑5.4**| **GPT‑5.4  
 Pro**| **GPT‑5.3-Codex**| **GPT‑5.2**| **GPT‑5.2  
@@ -280,7 +280,7 @@ MCP Atlas| 67.2%| —| —| 60.6%| —
 Toolathlon| 54.6%| —| 51.9%| 45.7%| —  
 Tau2-bench Telecom| 98.9%| —| —| 98.7%| —  
   
-##### Academic
+### Academic
 
 **Eval**| **GPT‑5.4**| **GPT‑5.4  
 Pro**| **GPT‑5.3-Codex**| **GPT‑5.2**| **GPT‑5.2  
@@ -293,7 +293,7 @@ GPQA Diamond| 92.8%| 94.4%| 92.6%| 92.4%| 93.2%
 Humanity's Last Exam (no tools)| 39.8%| 42.7%| —| 34.5%| 36.6%  
 Humanity's Last Exam (with tools)| 52.1%| 58.7%| —| 45.5%| 50.0%  
   
-##### Long context
+### Long context
 
 **Eval**| **GPT‑5.4**| **GPT‑5.4  
 Pro**| **GPT‑5.3-Codex**| **GPT‑5.2**| **GPT‑5.2  
@@ -312,7 +312,7 @@ OpenAI MRCR v2 8-needle 128K–256K| 79.3%| —| —| 77.0%| —
 OpenAI MRCR v2 8-needle 256K–512K| 57.5%| —| —| —| —  
 OpenAI MRCR v2 8-needle 512K–1M| 36.6%| —| —| —| —  
   
-##### Abstract reasoning
+### Abstract reasoning
 
 **Eval**| **GPT‑5.4**| **GPT‑5.4  
 Pro**| **GPT‑5.3-Codex**| **GPT‑5.2**| **GPT‑5.2  
@@ -321,7 +321,7 @@ Pro**
 ARC-AGI-1 (Verified)| 93.7%| 94.5%| —| 86.2%| 90.5%  
 ARC-AGI-2 (Verified)| 73.3%| 83.3%| —| 52.9%| 54.2% (high)  
   
-##### Evals without reasoning
+### Evals without reasoning
 
 **Eval**| **GPT‑5.4  
 (none)**| **GPT‑5.2  
