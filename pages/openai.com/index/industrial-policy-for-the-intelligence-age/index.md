@@ -26,7 +26,7 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-April 6, 2026
+June 9, 2026
 
 [Global Affairs](</news/global-affairs/>)
 
@@ -37,6 +37,10 @@ Ideas to keep people first.
 [Read the document(opens in a new window)](<https://cdn.openai.com/pdf/561e7512-253e-424b-9734-ef4098440601/Industrial%20Policy%20for%20the%20Intelligence%20Age.pdf>)
 
 Share
+
+ _Update from June 9: We’re grateful for the significant interest in Industrial Policy for the Intelligence Age. After receiving more than 400 responses, we are no longer accepting additional submissions through the inbox_[ _newindustrialpolicy@openai.com_ ⁠](<mailto:newindustrialpolicy@openai.com>) _and are currently reviewing potential grant recipients._
+
+* * *
 
 As we move toward superintelligence, incremental policy updates won’t be enough. To kick-start this much needed conversation, OpenAI is offering [a slate of people-first policy ideas⁠(opens in a new window)](<http://cdn.openai.com/pdf/561e7512-253e-424b-9734-ef4098440601/Industrial%20Policy%20for%20the%20Intelligence%20Age.pdf>) designed to expand opportunity, share prosperity, and build resilient institutions—ensuring that advanced AI benefits everyone.
 
@@ -67,13 +71,13 @@ OpenAI
 
 [Biodefense in the Intelligence AgeGlobal AffairsJun 4, 2026](</index/biodefense-in-the-intelligence-age/>)
 
-![OpenAI’s public policy agenda > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/CdH7XdsXfpUaYZJpeCwwz/76b975c66fce3ce5ec4a901b4f675369/Frame.png?w=3840&q=90&fm=webp)
-
-[OpenAI public policy agendaGlobal AffairsJun 3, 2026](</index/public-policy-agenda/>)
-
 ![Frontier Safety Blueprint > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/6zU111Ouj65b8iZJnswHBe/a705de1c90ab048510532db2f53f12f3/Frame.png?w=3840&q=90&fm=webp)
 
 [A blueprint for democratic governance of frontier AIGlobal AffairsJun 3, 2026](</index/frontier-safety-blueprint/>)
+
+![OpenAI’s public policy agenda > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/CdH7XdsXfpUaYZJpeCwwz/76b975c66fce3ce5ec4a901b4f675369/Frame.png?w=3840&q=90&fm=webp)
+
+[OpenAI public policy agendaGlobal AffairsJun 3, 2026](</index/public-policy-agenda/>)
 
 Research
 

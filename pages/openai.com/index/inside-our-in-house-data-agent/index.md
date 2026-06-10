@@ -26,7 +26,7 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Table of contents
+Why we needed a custom tool
 
   * Why we needed a custom tool
   * How it works
@@ -48,8 +48,6 @@ January 29, 2026
 By Bonnie Xu, Aravind Suresh, and Emma Tang
 
 Loading…
-
-Share
 
 Data powers how systems learn, products evolve, and how companies make choices. But getting answers quickly, correctly, and with the right context is often harder than it should be. To make this easier as OpenAI scales, we built **our own bespoke in-house AI data agent** that explores and reasons over our own platform**.**
 
@@ -117,14 +115,14 @@ To avoid these failure modes, the agent is built around **multiple layers of con
 
 ![Diagram titled “Data agent’s layers of context” showing six stacked tiers: 1\) Table Usage, 2\) Human Annotations, 3\) Codex Enrichment, 4\) Institutional Knowledge, 5\) Memory, and 6\) Runtime Context. Each layer appears as a horizontal bar in a pyramid shape.](https://images.ctfassets.net/kftzwdyauwt9/j1pgiSbUmd9Ie3mkTjGpE/43822e3b21d480cde08b3bbc1827a3f5/oai_OpenAI_conversational_in-house_data_agent_Layers_of_context_desktop-light.svg?w=3840&q=90)
 
-####  Layer #1: Table Usage
+###  Layer #1: Table Usage
 
   * **Metadata grounding:** The agent relies on schema metadata (column names and data types) to inform SQL writing and uses table lineage (e.g., upstream and downstream table relationships) to provide context on how different tables relate.
   * **Query inference:** Ingesting historical queries helps the agent understand how to write its own queries and which tables are typically joined together.
 
 
 
-#### Layer #2: Human Annotations
+### Layer #2: Human Annotations
 
   * **Curated descriptions** of tables and columns provided by domain experts, capturing intent, semantics, business meaning, and known caveats that are not easily inferred from schemas or past queries.
 
@@ -132,7 +130,7 @@ To avoid these failure modes, the agent is built around **multiple layers of con
 
 Metadata alone isn’t enough. To really tell tables apart, you need to understand how they were created and where they originate.
 
-#### Layer #3: Codex Enrichment
+### Layer #3: Codex Enrichment
 
   * By deriving a code-level definition of a table, the agent builds a deeper understanding of what the data actually contains. 
     * Nuances on what is stored in the table and how it is derived from an analytics event provides extra information. For example, it can give context on the uniqueness of values, how often the table data is updated, the scope of the data (e.g., if the table excludes certain fields, it has this level of granularity), etc.
@@ -143,7 +141,7 @@ Metadata alone isn’t enough. To really tell tables apart, you need to understa
 
 ![Diagram titled “Codex-enriched knowledge pipeline.” Popular tables feed into multiple Codex tasks, which extract details from the OpenAI codebase, including a table’s purpose, grain and primary keys, downstream usage patterns, alternate table options, and data freshness.](https://images.ctfassets.net/kftzwdyauwt9/2xpmOicZsx3fAISr1HKhrb/3b3b7a816674768a59a82b2b9f1b5d85/oai_in-house_data_agent_codex-enriched_knowledge_pipeline_desktop-light.svg?w=3840&q=90)
 
-#### Layer #4: Institutional Knowledge 
+### Layer #4: Institutional Knowledge 
 
   * The agent can access Slack, Google Docs, and Notion, which capture critical company context such as launches, reliability incidents, internal codenames and tools, and the canonical definitions and computation logic for key metrics.
   * These documents are ingested, embedded, and stored with metadata and permissions. A retrieval service handles access control and caching at runtime, enabling the agent to efficiently and safely pull in this information.
@@ -152,7 +150,7 @@ Metadata alone isn’t enough. To really tell tables apart, you need to understa
 
 ![Screenshot of a user asking why connector usage dipped in December. The agent explains the drop was due to a logging issue starting Nov 13, 2025, causing undercounted usage after the ChatGPT 5.1 launch. Legacy telemetry went empty until a newer event became the source of truth.](https://images.ctfassets.net/kftzwdyauwt9/Q0yb97tXi8nt2FcDGO73J/53583b626e77ee5cd3128309a72a759b/Desktop-Light.png?w=3840&q=90&fm=webp)
 
-#### Layer #5: Memory
+### Layer #5: Memory
 
   * When the agent is given corrections or discovers nuances about certain data questions, it's able to save these learnings for next time, allowing it to constantly improve with its users. 
     * As a result, future answers begin from a more accurate baseline rather than repeatedly encountering the same issues.
@@ -166,7 +164,7 @@ Metadata alone isn’t enough. To really tell tables apart, you need to understa
 
 ![Notification banner showing “Data agent wants to save 2 learnings to memory,” with a labeled item “ChatGPT Top-level Metrics” and a confirmation message on the right that reads “Saved to global memory” with a green checkmark.](https://images.ctfassets.net/kftzwdyauwt9/5udD56WbDXFurK7bM5jQfl/ed4a20eb8ade048ac2a1e96d5fe2884a/Desktop-Light.png?w=3840&q=90&fm=webp)
 
-#### Layer #6: Runtime Context
+### Layer #6: Runtime Context
 
   * When no prior context exists for a table or when existing information is stale, the agent can issue live queries to the data warehouse to inspect and query the table directly. This allows it to validate schemas, understand the data in real-time, and respond accordingly.
   * The agent is also able to talk to other Data Platform systems (metadata service, Airflow, Spark) as needed to get broader data context that exists outside the warehouse.
@@ -221,15 +219,15 @@ Finally, it's built for transparency. Like any system, it can make mistakes. It 
 
 Building our agent from scratch surfaced practical lessons about how agents behave, where they struggle, and what actually makes them reliable at scale.
 
-##### Lesson #1: **Less is More**
+#### Lesson #1: **Less is More**
 
 Early on, we exposed our full tool set to the agent, and quickly ran into problems with overlapping functionality. While this redundancy can be helpful for specific custom cases and is more obvious to a human when manually invoking, it’s confusing to agents. To reduce ambiguity and improve reliability, we restricted and consolidated certain tool calls.
 
-##### Lesson #2: **Guide the Goal, Not the Path**
+#### Lesson #2: **Guide the Goal, Not the Path**
 
 We also discovered that highly prescriptive prompting degraded results. While many questions share a general analytical shape, the details vary enough that rigid instructions often pushed the agent down incorrect paths. By shifting to higher-level guidance and relying on GPT‑5’s reasoning to choose the appropriate execution path, the agent became more robust and produced better results.
 
-##### Lesson #3: **Meaning Lives in Code**
+#### Lesson #3: **Meaning Lives in Code**
 
 Schemas and query history describe a table’s shape and usage, but its true meaning lives in the code that produces it. Pipeline logic captures assumptions, freshness guarantees, and business intent that never surface in SQL or metadata. By crawling the codebase with Codex, our agent understands how datasets are actually constructed and is able to better reason about what each table actually contains. It can answer “what’s in here” and “when can I use it” far more accurately than from warehouse signals alone. 
 
@@ -255,23 +253,22 @@ Special thanks to the Data Productivity and Data Science teams, as well as to ou
 
 [View all](</news/>)
 
+![Tax Agent > Art Card](https://images.ctfassets.net/kftzwdyauwt9/6ojJ6B55QUlmNdaLifgMkQ/22e429ec7b3fdd119a2499358af899b7/Art_Card.png?w=3840&q=90&fm=webp)
+
+[Building self-improving tax agents with CodexEngineeringMay 27, 2026](</index/building-self-improving-tax-agents-with-codex/>)
+
+![codex windows > art card](https://images.ctfassets.net/kftzwdyauwt9/6ZvTl8ZL23BOhoI6jz0EmR/49d6038b9f92773d4f866f4bfacabdbf/Art_Card__5_.png?w=3840&q=90&fm=webp)
+
+[Building a safe, effective sandbox to enable Codex on WindowsEngineeringMay 13, 2026](</index/building-codex-windows-sandbox/>)
+
 ![MRC 1_1](https://images.ctfassets.net/kftzwdyauwt9/IRqiqOUeNlFne8NPTbELM/9ab024f4581e7065eaf42aa18d14b724/Art_Card.png?w=3840&q=90&fm=webp)
 
 [Supercomputer networking to accelerate large scale AI trainingEngineeringMay 5, 2026](</index/mrc-supercomputer-networking/>)
 
-![How OpenAI delivers low-latency voice AI at scale > art card](https://images.ctfassets.net/kftzwdyauwt9/3ZT7WZXrDjX1tFlLjcTPXp/07d42ee6cc762208896f09c385853359/Voice_AI__art_card.png?w=3840&q=90&fm=webp)
-
-[How OpenAI delivers low-latency voice AI at scaleEngineeringMay 4, 2026](</index/delivering-low-latency-voice-ai-at-scale/>)
-
-![An open-source spec for orchestration: Symphony > art card](https://images.ctfassets.net/kftzwdyauwt9/4p40cWGcpyi6xRY3U4advn/d977f47ed621f80de31c931b0b8223f0/Symphony_art_card__1_.png?w=3840&q=90&fm=webp)
-
-[An open-source spec for orchestration: SymphonyEngineeringApr 27, 2026](</index/open-source-codex-orchestration-symphony/>)
-
-Our Research
+Research
 
   * [Research Index](</research/index/>)
   * [Research Overview](</research/>)
-  * [Research Residency](</residency/>)
   * [Economic Research](</signals/>)
 
 
@@ -281,44 +278,53 @@ Latest Advancements
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
   * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
-  * [GPT-5.3-Codex](</index/introducing-gpt-5-3-codex/>)
 
 
 
 Safety
 
   * [Safety Approach](</safety/>)
+  * [Deployment Safety(opens in a new window)](<https://deploymentsafety.openai.com/>)
   * [Security & Privacy](</security-and-privacy/>)
   * [Trust & Transparency](</trust-and-transparency/>)
 
 
 
-ChatGPT
+Products
 
-  * [Explore ChatGPT(opens in a new window)](<https://chatgpt.com/overview>)
-  * [Business](<https://chatgpt.com/business/business-plan>)
-  * [Enterprise](<https://chatgpt.com/business/enterprise>)
-  * [Education](<https://chatgpt.com/business/education>)
-  * [Pricing(opens in a new window)](<https://chatgpt.com/pricing>)
-  * [Download(opens in a new window)](<https://chatgpt.com/download>)
+  * [ChatGPT(opens in a new window)](<https://chatgpt.com/>)
+  * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
+  * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
+  * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
+  * [Codex](</codex/>)
+  * [Release Notes](</products/release-notes/>)
 
 
 
 API Platform
 
-  * [Platform Overview](</api/>)
-  * [Pricing](</api/pricing/>)
-  * [API log in(opens in a new window)](<https://platform.openai.com/login>)
-  * [Documentation(opens in a new window)](<https://developers.openai.com/api/docs>)
-  * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
+  * [Overview](</api/>)
+  * [API Log In(opens in a new window)](<https://platform.openai.com/login>)
+  * [Docs(opens in a new window)](<https://developers.openai.com/api/docs>)
 
 
 
-For Business
+Business
 
-  * [Business Overview](</business/>)
+  * [Overview](</business/>)
   * [Solutions](</solutions/>)
+  * [Resources](</business/learn/>)
   * [Contact Sales](</contact-sales/>)
+
+
+
+Developers
+
+  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
+  * [Open Models](</open-models/>)
+  * [Docs(opens in a new window)](<https://developers.openai.com/>)
+  * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
+  * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
 
 
 
@@ -326,9 +332,8 @@ Company
 
   * [About Us](</about/>)
   * [Our Charter](</charter/>)
-  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
   * [Careers](</careers/>)
-  * [Brand](</brand/>)
+  * [News](</news/>)
 
 
 
@@ -340,7 +345,6 @@ Support
 
 More
 
-  * [News](</news/>)
   * [Stories](</stories/>)
   * [Academy](</academy/>)
   * [Livestreams](</live/>)

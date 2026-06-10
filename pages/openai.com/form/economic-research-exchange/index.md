@@ -50,7 +50,7 @@ Research proposal *
 
 Please provide a link to a concise proposal in a Google Doc shared with [econresearch@openai.com⁠](<mailto:econresearch@openai.com>). The proposal should include the research question, motivation, empirical strategy, expected contribution, and why the project fits the OpenAI Economic Research Exchange. Proposals should be no more than three pages, excluding references and appendices.
 
-Select the question areas most relevant to your proposal. *
+Select the question area most relevant to your proposal. *
 
 Labor market impacts
 
@@ -76,9 +76,9 @@ Data needs *
 
 Does the project require approved usage data from ChatGPT, the API, Codex, or another OpenAI product? Be specific about the granularity of the data, the unit of analysis, whether linkage to external data would be needed, and how the proposed design would preserve privacy.
 
-Designated researcher  *
+Designated researcher *
 
-Enter the name of the designated researcher or RA who would join to support on the project. 
+Enter the name of the designated researcher or RA who would join to support on the project.
 
 Research team *
 
