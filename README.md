@@ -1,3 +1,56 @@
+## 2026-06-10 — Run `2026-06-10T09-15Z`
+
+**TL;DR:** Two new customer stories published (LSEG and Nextdoor on Codex), but the bigger news is what disappeared: 29 more pages were removed from the sitemap today — the second large batch in two days, bringing the two-day total to 57 removals. The most significant removals are the OpenAI Foundation page (which has fully migrated to its own domain `openaifoundation.org`), the ChatGPT Advertisers portal, all three DeployCo pages plus the Deployment Company business page, multiple deprecated policy pages (plugin terms, Sora policies, ROW and Services privacy policies), the Safety Evaluations Hub, the OpenAI Science page, and the Healthcare Solutions page. OpenAI's site navigation was also restructured across ~100+ pages, adding "Apps SDK" as a first-class menu item. The Industrial Policy for the Intelligence Age page was updated to note that its grant program received 400+ applications and has closed.
+
+### Anomalies
+None detected.
+
+### New Pages (2)
+
+**[LSEG: "From data to decisions: how LSEG is scaling trusted AI"](pages/openai.com/index/lseg/index.md)** (Jun 10, 2026)  
+London Stock Exchange Group customer story. LSEG serves 40,000+ customers and 400,000+ end users across 190 markets. Using ChatGPT and the API, they compressed product release cycles from ~6 months to ~2 weeks, and customer-request-to-production from months to ~4 weeks. Joins a growing roster of financial services enterprise customers.
+
+**[Nextdoor: "How engineers at Nextdoor use Codex to build without limits"](pages/openai.com/index/nextdoor/index.md)** (Jun 9, 2026)  
+Nextdoor (110M users, 11 countries) platform engineering story. Codex enables "outcome engineering" — engineers describe what they want (screenshots, performance targets) rather than specifying implementation. One engineer now builds features that previously required 3 teams. Codex also handles hard debugging: embedded Rust databases, race conditions, Kubernetes pod failures. *"The bottleneck is no longer engineering, but the hard strategic questions about what to build next."*
+
+---
+
+### Notable Removals (29 total)
+
+**Foundation page fully exits openai.com** — `/foundation/` removed. The OpenAI Foundation has its own domain (`openaifoundation.org`) and is now linked from the nav as an external site, confirming organizational separation following the nonprofit-to-PBC restructuring. The $25B program and $50M People-First AI Fund continue under the independent foundation.
+
+**Advertisers page removed** — `/advertisers/` (the "Advertise in ChatGPT" portal) removed from openai.com. The advertising program appears to have moved to `ads.openai.com`.
+
+**DeployCo brand fully gone** — Today's run removes the remaining DeployCo pages: `/deployco/`, `/deployco/privacy-policy/`, `/deployco/terms-of-use/`, and `/business/the-openai-deployment-company/` (the "OpenAI Deployment Company" landing). Combined with yesterday's removals, the entire DeployCo sub-brand is now scrubbed from openai.com.
+
+**Policy cleanup** — Removed: plugin terms (final cleanup of deprecated ChatGPT Plugins ecosystem), ROW privacy policy, Services privacy policy, Sora usage policies, Sora video creation policy, business terms, invoice submission guidelines.
+
+**Safety Evaluations Hub removed** — `/safety/evaluations-hub/` removed from sitemap. The hub itself lives at its own URL; the openai.com portal page is gone.
+
+**Science & Healthcare pages removed** — `/science/` and `/solutions/healthcare/` removed; vertical solution pages appear to be consolidating into the core business pages.
+
+**Other removals:** `/agent-platform/`, `/chatgpt/download/`, `/chatgpt/search-product-discovery/`, `/reserved-capacity/`, `/devday/directory/`, `/form/custom-models/`, `/contributions/`, `/newsroom/global-affairs/`, `/newsroom/security/`, `/index/gpt-5-2-codex/`, `/index/parameter-golf/`, `/academy/top-10-use-cases-codex-for-work/`, `/business/guides-and-resources/`.
+
+---
+
+### Notable Updates
+
+**Navigation restructured across ~100+ pages** — The site nav was updated: "API Log In" (capitalized), "Apps SDK" added as a first-class developer nav item linking to the Apps SDK docs, and ChatGPT business tiers (Business, Enterprise, Education) restructured as distinct links. "Brand" link removed from developer nav.
+
+**Industrial Policy for the Intelligence Age — grant inbox closed** — The June 9 policy paper's feedback/grant program received 400+ responses and closed submissions. Grant recipients are now under review.
+
+**GPT-5.5 Instant personalization rolling to Free tier** — Update added: personalization is now available on ChatGPT Free (with a reduced set of past chats vs. paid tiers).
+
+**New sub-sitemap: `global-affairs-news-listed`** — A new sub-sitemap appeared alongside the existing `global-affairs` sub-sitemap, providing alternate-language (`xhtml:link`) entries for Global Affairs news articles. Likely an SEO internationalization improvement.
+
+---
+
+*Stats: 1,338 total URLs | +2 added | ~319 sitemap-updated (56 actual content changes) | -29 removed | 0 anomalies | 0 fetch failures | 33 sub-sitemaps*
+
+*Full analysis: [runs/2026-06-10T09-15Z/analysis.md](runs/2026-06-10T09-15Z/analysis.md)*
+
+---
+
 ## 2026-06-09 — Run `2026-06-09T09-15Z`
 
 **TL;DR:** A landmark day on openai.com. June 8, 2026, OpenAI announced it has confidentially submitted a draft S-1 to the SEC — the formal first step toward a public offering — while simultaneously publishing a major strategic vision essay by Sam Altman and Jakub Pachocki declaring OpenAI's "third phase" and a new Economic Research Exchange for academic study of AI's economic impacts. Alongside the announcements: 28 pages removed (including the entire DeployCo brand, the advertiser portal landing page, the OpenAI Foundation page, the Safety Evaluations Hub, and a raft of deprecated policy and product pages), 6 new pages added, and a sitewide CMS republish touched 672 URLs (142 with actual visible content changes).

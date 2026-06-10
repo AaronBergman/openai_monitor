@@ -132,7 +132,7 @@ We train a model on IH‑Challenge and produce an internal model, which we call 
 
 This is what makes the approach especially compelling for safety: by directly training models to resolve instruction conflicts correctly on IH-challenge tasks, we get IH improvements that generalize to new attacks and new situations.
 
-##### Robustness on academic benchmarks
+### Robustness on academic benchmarks
 
 **Eval**| **GPT‑5‑Mini**| **GPT‑5 Mini-R**  
 ---|---|---  
@@ -144,7 +144,7 @@ RealGuardrails (Distractors)| 0.88| 0.95 **(+0.07)**
 RealGuardrails (Handwritten)| 0.82| 0.89 **(+0.07)**  
 System IFEval| 0.92| 0.96 **(+0.04)**  
   
-##### Robustness on internal benchmarks
+### Robustness on internal benchmarks
 
 **Eval**| **GPT‑5‑Mini**| **GPT‑5 Mini-R**  
 ---|---|---  
@@ -154,7 +154,7 @@ System <> User Conflict| 0.84| 0.95 **(+0.11)**
 System <> Developer Conflict| 0.86| 0.86 **(+0)**  
 Developer <> User Conflict| 0.83| 0.95**(+0.12)**  
   
-##### No capability regressions
+### No capability regressions
 
 **Eval**| **GPT‑5‑Mini**| **GPT‑5 Mini-R**  
 ---|---|---  
@@ -169,7 +169,7 @@ Preference Score| 0.46| 0.40**(-0.06)**
 
 Stronger instruction hierarchy delivers multiple safety benefits at once, including in safety steerability and prompt injection robustness.
 
-#### Safety steerability
+### Safety steerability
 
 We evaluate safety steerability by adding category-specific safety specifications to the system prompt and measuring behavior on OpenAI’s safety Production Benchmarks (a set of safety-sensitive conversations representative of ChatGPT in production).
 
@@ -177,7 +177,7 @@ The IH-trained model shows a consistent improvement: with the safety spec presen
 
 ![Diagram titled “Safety steering” showing a prompt with a safety system rule and user request flowing to two outcomes: a baseline model response labeled “Unsafe compliance,” and a trained model response labeled “Refusal + safe completion.”](https://images.ctfassets.net/kftzwdyauwt9/1Cv2qIXduisxUKHyh3QFib/6e4904209b77953d6711ddff8fd3097b/Safety_steering__1_.png?w=3840&q=90&fm=webp)
 
-#### Prompt injection robustness: stronger resistance to malicious tool instructions
+### Prompt injection robustness: stronger resistance to malicious tool instructions
 
 ![Diagram titled “Prompt injection” showing a system, user, agent, and tool flow. The baseline model outputs “ACCESS GRANTED,” while the trained model ignores malicious content and returns the correct next scheduled event.](https://images.ctfassets.net/kftzwdyauwt9/7bmzNu5q3rEa9tuRyxuywJ/7b5f2f29ef8cbe302097ca1232828328/Prompt_injection__1_.png?w=3840&q=90&fm=webp)
 

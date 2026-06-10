@@ -100,6 +100,18 @@ One in a million: celebrating the customers shaping AI’s future
 
 Filter
 
+![lseg > oai 1x1](https://images.ctfassets.net/kftzwdyauwt9/6wykEE6NmMzJHGPdxuhPV7/b85d4a7e59cd01a710f4b8b9213f88f8/oai_LSEG_1x1.png?w=3840&q=90&fm=webp)
+
+[From data to decisions: how LSEG is scaling trusted AIJun 10, 2026](</index/lseg/>)
+
+![Nextdoor customer stories > oai 1x1](https://images.ctfassets.net/kftzwdyauwt9/2VQiKydNUVAutnHRuCIV4S/3262cc8deff3fe49c6b512f854e14dcf/oai_Nextdoor_1x1.png?w=3840&q=90&fm=webp)
+
+[How engineers at Nextdoor use Codex to build without limitsJun 9, 2026](</index/nextdoor/>)
+
+![Notion > cover image](https://images.ctfassets.net/kftzwdyauwt9/2HBxiM1dDPpM1W56ehwgNi/01dc3dafe6aedcabc9808446492523ea/oai_Notion_1x1.png?w=3840&q=90&fm=webp)
+
+[What Codex unlocks for NotionJun 9, 2026](</index/notion/>)
+
 ![oai endava 1x1](https://images.ctfassets.net/kftzwdyauwt9/6CJMPcvmo9FlUZMnAetSGl/9686223d1bd7d90b9926c0bedd4e8fb9/oai_endava_1x1.png?w=3840&q=90&fm=webp)
 
 [How Endava is redesigning software delivery around AI agentsJun 4, 2026](</index/endava-frontiers/>)
@@ -135,18 +147,6 @@ Filter
 ![Warp customer story 1x1 hero art card](https://images.ctfassets.net/kftzwdyauwt9/3DK9g0hpubvAEz7lDs0nUf/713989b24b9d377312714303868b9126/oai_Warp_1x1.png?w=3840&q=90&fm=webp)
 
 [Warp’s big bet on building open source with GPT-5.5StartupMay 27, 2026](</index/warp/>)
-
-![Virgin Atlantic customer story hero image 1x1](https://images.ctfassets.net/kftzwdyauwt9/6WNcKcxQ4YROa131BHbMqK/3abfa2f73d5eed41b9fcb723c6e24e1e/virgin-atlantic-hero.png?w=3840&q=90&fm=webp)
-
-[How Virgin Atlantic ships faster with CodexMay 22, 2026](</index/virgin-atlantic/>)
-
-![oai_Advent Health_1x1.png](https://images.ctfassets.net/kftzwdyauwt9/7JAhWgW7oUTEYgJDl2tCh5/055dcb04ca201674b674dc62ebb91bb4/oai_Advent_Health_1x1.png?w=3840&q=90&fm=webp)
-
-[AdventHealth advances whole-person care with OpenAIMay 21, 2026](</index/adventhealth/>)
-
-![Ramp customer story > Hero media > 1x1](https://images.ctfassets.net/kftzwdyauwt9/2FIcBGapiag2CMnbtEEQ2T/68089dc4c97b9f8f88f9fc80e74a6850/oai_Ramp_1x1.png?w=3840&q=90&fm=webp)
-
-[How Ramp engineers accelerate code review with CodexMay 20, 2026](</index/ramp/>)
 
 Load more
 

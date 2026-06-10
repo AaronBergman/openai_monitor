@@ -46,6 +46,10 @@ Loading…
 
 Share
 
+ _**Update on**_** _June 9, 2026:_**_Personalization improvements are now rolling out to ChatGPT Go & Free. Responses on the Free tier will draw from a reduced set of past chats._
+
+* * *
+
 We’re updating ChatGPT’s default model, available to everyone, to be **smarter and more accurate** , with **clearer, more concise answers** that feel **better tailored to you.**
 
 Because Instant is the daily driver for hundreds of millions of people, small improvements make a big difference. This update makes everyday interactions more useful and more enjoyable: stronger and tighter answers across subject areas, a more natural conversational tone, and better use of the context you’ve already shared when personalization can help.
