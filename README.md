@@ -1,3 +1,60 @@
+## 2026-06-11 — Run `2026-06-11T09-16Z`
+
+**TL;DR:** OpenAI launched a new "Applied AI" content section today — a distinct editorial category for real-world AI application stories, complete with its own sitemap sub-section (the 34th, up from 33). The inaugural article showcases a computational astrophysicist using Codex to generate and test mathematical algorithms for black hole simulations that are 1000× faster than current methods. Alongside that, a ChatGPT user story features a man training to become the first person to cycle Antarctica solo. On the policy front: OpenAI announced formal support for the EU's Code of Practice on AI-generated content transparency (part of EU AI Act implementation), published a threat report on PRC-linked influence operations targeting US AI debates, and announced an Oracle Cloud partnership allowing OCI customers to pay for OpenAI models with their existing Oracle credits. No pages removed; 0 anomalies.
+
+### Anomalies
+None detected.
+
+### Structural Change: New "Applied AI" Sub-Sitemap
+
+A new sub-sitemap (`sitemap.xml/applied-ai/`) appeared in the sitemap index today, bringing the total from 33 to 34. The corresponding news section page at `/news/applied-ai/` joins the existing news categories (Company, Research, Product, Safety, Engineering, Security, Global Affairs, AI Adoption). Currently the Applied AI section contains one article—the astrophysicist/Codex piece—suggesting this is a newly launched content vertical.
+
+### New Pages (7)
+
+**[How an astrophysicist uses Codex to help simulate black holes](pages/openai.com/index/using-codex-to-simulate-black-holes/index.md)** (Jun 11, 2026) — Applied AI (new category)  
+The inaugural "Applied AI" article. Astrophysicist Chi-kwan "CK" Chan (University of Arizona / Event Horizon Telescope) uses Codex to derive and test new numerical algorithms for simulating black hole plasma. Standard algorithms must track every microscopic spiral of charged particles, making even supercomputers impractical. Codex generates candidate mathematical transformations in minutes vs. ~10 days by hand—though many fail and Chan tests each one rigorously. Quote: *"We don't accept an idea because it came from Einstein, from a bright student, or from an AI model. We accept it only after repeated testing."* If successful, the algorithms could unlock simulations of trillions of particles that are currently impossible.
+
+**[Creating new simulations of black holes with Codex](pages/openai.com/index/creating-new-simulations-black-holes/index.md)** (Jun 11, 2026)  
+Visual/photo essay companion to the above ("Project Owl" storytelling format, photos from Kitt Peak National Observatory). Adds context: Codex can speed up calculations "by a factor of 1000," Chan and his team are currently gathering data, and their goal is to release the first *moving image* of a black hole in 2027. Quote: *"It would take me ten days to come up with ten new approximations. With Codex, this can be done in minutes."*
+
+**[Training to cycle across Antarctica with ChatGPT](pages/openai.com/index/cycling-across-antarctica/index.md)** (Jun 11, 2026)  
+James Benson-King plans to attempt (November 2026) the first solo, unsupported cycle from the edge of Antarctica to the South Pole—up to 60 days. No standard training plan exists. He used ChatGPT to build a unified training system covering endurance, strength, cold-weather skills, and technical cycling simultaneously. Quote: *"Within just over a year, I feel competent enough to tackle Antarctica... I think I've managed to turn around in one year what potentially would have taken me two, three years."*
+
+**[Supporting Europe's work in ensuring a trustworthy AI ecosystem](pages/openai.com/index/supporting-eu-trustworthy-ai-ecosystem/index.md)** (Jun 11, 2026) — Global Affairs  
+OpenAI formally endorses the European Commission's Code of Practice on Transparency of AI-Generated Content (implementing the EU AI Act). Details the multi-layered approach: C2PA metadata on DALL·E 3 images (since 2024), SynthID watermarks on all ChatGPT/Codex/API-generated images, and a public verification tool at [openai.com/verify](/research/verify/). Acknowledges that metadata can be stripped and that provenance is "a nascent field" requiring continued ecosystem cooperation.
+
+**[PRC-linked influence operations are targeting AI debates in the US](pages/openai.com/index/prc-linked-influence-operations-ai-debates/index.md)** (Jun 10, 2026) — Global Affairs  
+OpenAI threat report: two clusters of ChatGPT accounts likely originating from China were identified and banned for using the model in covert influence operations targeting US AI/tech policy debates. **"Data Center Bandwagon"**: generated content claiming AI data center buildouts raised electricity prices for families. **"Tech and Tariffs"**: generated anti-tariff content (with instructions to exclude Xi Jinping from outputs), connected to accounts spreading false claims that ChatGPT user data was compromised. OpenAI found no evidence either campaign broke out beyond its own activity. Full PDF report linked. The report emphasizes these campaigns were testing narratives against "AI infrastructure — a foundation of US technological leadership."
+
+**[Access OpenAI models and Codex through your Oracle cloud commitment](pages/openai.com/index/openai-on-oracle-cloud/index.md)** (Jun 10, 2026) — Partnerships / API Platform / Codex  
+Oracle Cloud Infrastructure customers will be able to apply existing Oracle Universal Credits toward OpenAI frontier models and Codex. Availability "in the coming weeks." Framed as reducing procurement friction for enterprises already committed to Oracle. Contact your Oracle sales rep for details.
+
+**[Applied AI news section](pages/openai.com/news/applied-ai/index.md)** — New section landing page  
+The new `/news/applied-ai/` section page, added to the news category navigation. Currently lists one article (the black holes/Codex piece).
+
+---
+
+### Notable Updates
+
+**Homepage** — Featured stories updated: Antarctica cycling and black holes/Codex stories now prominently featured. Chip Ganassi Racing story (May 28) also in rotation. Earlier small-business and farm stories demoted.
+
+**`/news/ai-adoption/`** — "Applied AI" added as a navigation tab in the news category bar.
+
+**Signals pages** (`/signals/`, `/signals/b2b/`, `/signals/research/`, `/signals/data/`, `/signals/data-download/`) — Timestamp bumps, likely CMS republishing triggered by today's additions.
+
+---
+
+### Removals
+None.
+
+---
+
+*Stats: 1,345 total URLs | +7 added | 245 sitemap-updated | 0 removed | 0 anomalies | 0 fetch failures | 34 sub-sitemaps (+1 new: applied-ai)*
+
+*Full analysis: [runs/2026-06-11T09-16Z/analysis.md](runs/2026-06-11T09-16Z/analysis.md)*
+
+---
+
 ## 2026-06-10 — Run `2026-06-10T09-15Z`
 
 **TL;DR:** Two new customer stories published (LSEG and Nextdoor on Codex), but the bigger news is what disappeared: 29 more pages were removed from the sitemap today — the second large batch in two days, bringing the two-day total to 57 removals. The most significant removals are the OpenAI Foundation page (which has fully migrated to its own domain `openaifoundation.org`), the ChatGPT Advertisers portal, all three DeployCo pages plus the Deployment Company business page, multiple deprecated policy pages (plugin terms, Sora policies, ROW and Services privacy policies), the Safety Evaluations Hub, the OpenAI Science page, and the Healthcare Solutions page. OpenAI's site navigation was also restructured across ~100+ pages, adding "Apps SDK" as a first-class menu item. The Industrial Policy for the Intelligence Age page was updated to note that its grant program received 400+ applications and has closed.

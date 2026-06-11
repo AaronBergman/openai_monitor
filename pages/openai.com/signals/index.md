@@ -102,21 +102,21 @@ Learn how AI is accelerating enterprise advantage through deeper integration, ag
 
 [Introducing the OpenAI Economic Research Exchange](<https://openai.com/index/economic-research-exchange/>)
 
-![Abstract illustration of compute capacity and infrastructure.](https://images.ctfassets.net/kftzwdyauwt9/2HOZcGYPMfIdz0JkzHQhcb/9142e08a9561450294d58800a58e86b5/a-call-for-strategic-compute-capacity.webp?w=3840&q=90&fm=webp)
-
-[A call for strategic compute capacity](<https://openaiglobalaffairs.substack.com/p/a-call-for-strategic-compute-capacity>)
-
-![Construction worker using a laptop on a job site.](https://images.ctfassets.net/kftzwdyauwt9/4KUkS3l8L9tbFoRxFyNc42/a34aa4b2c6f4b729f315573dda7b1b43/a-back-office-for-construction-work.jpeg?w=3840&q=90&fm=webp)
-
-[A back office for construction work](<https://academy.openai.com/public/blogs/how-chatgpt-became-a-contractors-back-office-2026-05-07>)
-
-![Signals Homepage > Layout > ... > Card > Understanding the Labor Market webinar > Media](https://images.ctfassets.net/kftzwdyauwt9/3HNrm9KNf7ON87kvBpVq4k/0382f0ef2f3c4fa69904cf8d5867674b/understanding-the-labor-market.png?w=3840&q=90&fm=webp)
-
-[Understanding the labor market](<https://forum.openai.com/public/events/virtual-event-understanding-the-labor-market-through-real-world-usage-data-znewubf1vb>)
-
 ![Signals Homepage > Layout > Group > Recent news > Cards > B2B Signals blog > Media > Asset](https://images.ctfassets.net/kftzwdyauwt9/4IzcV84U3LJqbYXVgixe4b/6c507d4b597e849b2291ad47a8931d62/Frame__1_.png?w=3840&q=90&fm=webp)
 
 [How frontier firms are pulling ahead](<https://openai.com/index/introducing-b2b-signals/>)
+
+![Signals Homepage > Layout > Group > Recent news > Cards > Equipping workers with insights about compensation > Media > Asset](https://images.ctfassets.net/kftzwdyauwt9/2vK2fWMx2CL8D5CH8fOJPJ/27c19bbc4e180ae256852ca7d972284b/Equipping_workers_1x1.png?w=3840&q=90&fm=webp)
+
+[Equipping workers with insights about compensation](<https://openai.com/index/equipping-workers-with-insights-about-compensation/>)
+
+![Signals Homepage > Layout > Group > Recent news > Cards > New tools for understanding AI and learning outcomes > Media > Asset](https://images.ctfassets.net/kftzwdyauwt9/7oZEAMeUH1OOEBkABMc3MI/ca2e25176cb5ef434b04aee40e5caa08/OAI_New_tools_for_understanding_AIand_learning_outcomes_Art_Card_1x1.png?w=3840&q=90&fm=webp)
+
+[New tools for understanding AI and learning outcomes](<https://openai.com/index/understanding-ai-and-learning-outcomes/>)
+
+![Signals Homepage > Layout > Group > Recent news > Cards > Scaling social science research > Media > Asset](https://images.ctfassets.net/kftzwdyauwt9/1o6uZjX7hIjMEFZhXBhgXy/1bd6bd4ce0cfe98e01ad43592030a4f8/Scaling-social-science_1x1.png?w=3840&q=90&fm=webp)
+
+[Scaling social science research](<https://openai.com/index/scaling-social-science-research/>)
 
 ### Reports
 
@@ -138,47 +138,9 @@ Learn how AI is accelerating enterprise advantage through deeper integration, ag
 
 ### [State of enterprise AI 2025December 2025 | A comprehensive look at how enterprises are adopting AI.Learn more](<https://cdn.openai.com/pdf/7ef17d82-96bf-4dd1-9df2-228f7f377a29/the-state-of-enterprise-ai_2025-report.pdf>)
 
-### [Workforce blueprintOctober 2025 | Proposals and policies to prepare for the Intelligence Age.Learn more](<https://cdn.openai.com/global-affairs/f319686f-cf21-4b8e-b8bc-84dd9bbfb999/oai-workforce-blueprint-oct-2025.pdf>)
-
   * [View all](</signals/research/>)
 
 
-
-## User stories
-
-[View all(opens in a new window)](<https://academy.openai.com/public/collections/science-ai?linkMenu=Science>)
-
-![Signals Homepage > Layout > Group > User stories > Cards > Turning high school students > Media > Asset](https://images.ctfassets.net/kftzwdyauwt9/7uAgsvQRxVmjtWiLvRnboo/3386335ef6013512f89bedc00a3ba426/img_01.png?w=3840&q=90&fm=webp)
-
-[Turning high school students’ curiosity into engaged writing](<https://academy.openai.com/public/blogs/turning-high-school-students-curiosity-into-engaged-writing>)
-
-![Signals Homepage > Layout > Group > User stories > Cards > Practicing medicine where doctors are scarce > Media > Asset](https://images.ctfassets.net/kftzwdyauwt9/6Yow5EBEZfFo6eUuhTv4BL/6f103c30594c7cc8bfb5bb0548fd25f1/img_02.png?w=3840&q=90&fm=webp)
-
-[Practicing medicine where doctors are scarce](<https://academy.openai.com/public/clubs/stories-au9zt/blogs/practicing-medicine-where-doctors-are-scarce-montana-chatgpt-2026-01-22>)
-
-![Signals Homepage > Layout > Group > User stories > Cards > Junevity startup longevity > Media > Asset](https://images.ctfassets.net/kftzwdyauwt9/2m1Xh3MkOzds5GRWkHiNTz/ce93de7b491d4eb035d8cdbc057dd442/img_03.png?w=3840&q=90&fm=webp)
-
-[Cell reprogramming for longer, healthier lives](<https://academy.openai.com/public/blogs/junevity-startup-longevity>)
-
-![Signals Homepage > Layout > Group > User stories > Cards > Row 1 > Jasmine Hudson > Media > Asset](https://images.ctfassets.net/kftzwdyauwt9/3vPmGrQBLX26y8wDiRURh2/1a191f69ec00ae627be3dce84df4240c/IMG_0176.jpg?w=3840&q=90&fm=webp)
-
-[A cultural remix of Christmas, built for the shelves](<https://academy.openai.com/public/blogs/a-cultural-remix-of-christmas-built-for-the-shelves-2026-01-06>)
-
-![Signals Homepage > Layout > Group > User stories > Cards > Equipment procurement > Media > Asset](https://images.ctfassets.net/kftzwdyauwt9/2k6KM8CsYaW6XZQ3zdQvsY/5f5547398c0e799573d5cf61e194a3b1/img_05.png?w=3840&q=90&fm=webp)
-
-[How GPT‑5 turns capital equipment procurement into a lever for US reindustrialization](<https://academy.openai.com/public/blogs/how-gpt-5-turns-capital-equipment-procurement-into-a-lever-for-us-reindustrialization>)
-
-![Signals Homepage > Layout > Group > User stories > Cards > Breaking things, building a business > Media > Asset](https://images.ctfassets.net/kftzwdyauwt9/2X0cUzDpsPf3Lj1JFEc3mq/ce9204448b4862c0372e10b658783bec/img_06.png?w=3840&q=90&fm=webp)
-
-[Breaking things, building a business](<https://academy.openai.com/public/blogs/breaking-things-building-a-business>)
-
-![Signals Homepage > Layout > Group > User stories > Cards > Alex Lupsasca > Media > Asset](https://images.ctfassets.net/kftzwdyauwt9/7pC9aZNfsWcY92HLp4eB68/af9a482a07a4965a26e278d03adbf700/img_07.png?w=3840&q=90&fm=webp)
-
-[How Alex Lupsasca learned to trust AI for real physics](<https://academy.openai.com/public/blogs/alex-lupsasca-gpt-5-pro-black-hole-physics-hidden-symmetries>)
-
-![Signals Homepage > Layout > Group > User stories > Cards > Discovering the emotional map of recovery > Media > Asset](https://images.ctfassets.net/kftzwdyauwt9/5Jwq2svIS1q9JlQ3GpiSHU/d0a0bbcee9dadb2ef41e1fb8b7e48f86/img_08.png?w=3840&q=90&fm=webp)
-
-[Discovering the emotional map of recovery](<https://academy.openai.com/public/blogs/designing-the-emotional-map-of-recovery-2026-01-05>)
 
 ### Discover more
 
@@ -198,9 +160,19 @@ Research and analysis on how AI is being adopted and its impact on the economy a
 
 [Learn more](</signals/research/>)
 
-## Read more on The Prompt
+### Stay updated
 
-[Go to Substack(opens in a new window)](<https://openaiglobalaffairs.substack.com/>)
+If you're interested in learning more about OpenAI's Economic Research work and future updates to this dataset, please sign up below.
+
+First name *
+
+Last name *
+
+Email *
+
+Sign up
+
+![Abstract blue gradient background with soft green and purple hues blending from the corners, forming a smooth, radiant light effect.](https://images.ctfassets.net/kftzwdyauwt9/1kAozxhcP7BMPmhVC5bXkg/ccbbe3dd6779a6cb0d72c3745d23e92f/newsletter.png?w=3840&q=90&fm=webp)
 
 Research
 

@@ -26,38 +26,46 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-## All
+June 10, 2026
 
-  * [Company](</news/company-announcements/>)
-  * [Research](</news/research/>)
-  * [Product](</news/product-releases/>)
-  * [Safety](</news/safety-alignment/>)
-  * [Engineering](</news/engineering/>)
-  * [Security](</news/security/>)
-  * [Global Affairs](</news/global-affairs/>)
-  * [AI Adoption](</news/ai-adoption/>)
-  * [Applied AI](</news/applied-ai/>)
-  * [All](</news/>)
+[Company](</news/company-announcements/>)
+
+# Access OpenAI models and Codex through your Oracle cloud commitment
+
+Use your existing Oracle cloud commitment to give teams access to OpenAI’s most advanced models and Codex, without creating a new purchasing path.
+
+Loading…
+
+Share
+
+Enterprises often want to deploy AI through the procurement processes and governance frameworks they already trust. To help make that happen, OpenAI and Oracle are partnering to make OpenAI frontier models and Codex easier to access for Oracle Cloud Infrastructure (OCI) customers.
+
+In the coming weeks, Oracle customers will be able to apply eligible Oracle Universal Credits toward OpenAI models and Codex through OCI. This gives customers a path to access OpenAI models under their existing purchasing workflow and cloud commitment.
+
+With OpenAI models, teams can build AI applications, analyze complex information, automate workflows, and create new customer and employee experiences.
+
+For organizations with existing Oracle commitments, the partnership can help align AI adoption with planned cloud investments and established enterprise processes. The goal is to reduce friction for teams that are ready to bring advanced AI into their businesses, while meeting customers where they already manage critical technology decisions.
+
+By expanding access through OCI, OpenAI and Oracle are making it easier for more enterprises to move from AI ambition to production impact.
+
+Availability will begin in the coming weeks.
+
+Contact your Oracle sales representative for details, timing, and availability.
+
+  * [Partnerships](</news/?tags=partnerships>)
+  * [2026](</news/?tags=2026>)
+  * [Codex](</news/?tags=codex>)
+  * [API Platform](</news/?tags=api-platform>)
 
 
 
-* * *
+## Author
 
-Filter
+OpenAI
 
-Sort
+## Keep reading
 
-Switch cards to show Media
-
-Switch cards to hide Media
-
-![Frame \(4\)](https://images.ctfassets.net/kftzwdyauwt9/1cXwxAxok14lQF5HiEO4zi/567dbae4950956776ef4a28f9790df4c/Frame__4_.png?w=3840&q=90&fm=webp)
-
-[How an astrophysicist uses Codex to help simulate black holesApplied AIJun 11, 2026](</index/using-codex-to-simulate-black-holes/>)
-
-![Oracle partnership 1x1 art card](https://images.ctfassets.net/kftzwdyauwt9/7zjGwFPBZMvK6zwFSMVWRm/6721ac33e5b1aaf88a9b705a3d10c90a/OAI_Oracle_Partnership_1x1_Art_Card.png?w=3840&q=90&fm=webp)
-
-[Access OpenAI models and Codex through your Oracle cloud commitmentCompanyJun 10, 2026](</index/openai-on-oracle-cloud/>)
+[View all](</news/>)
 
 ![Confidential submission of draft S-1 to the SEC > cover image](https://images.ctfassets.net/kftzwdyauwt9/36doI12YCwUtp1hzD4d8bj/84e67c565f39e7d5ca3ee011efa69756/confidential-submission-of-draft-s-1-to-the-sec-1x1.png?w=3840&q=90&fm=webp)
 
@@ -70,26 +78,6 @@ Switch cards to hide Media
 ![Economic research forum > art card ](https://images.ctfassets.net/kftzwdyauwt9/2DpNjvjdVuCrLKNOrFrWJ7/1aefe1cbe252bcd9ba42035469fc8a0f/art_card.png?w=3840&q=90&fm=webp)
 
 [Introducing the OpenAI Economic Research ExchangeCompanyJun 8, 2026](</index/economic-research-exchange/>)
-
-![Art Card 1080x1080 \(3\)](https://images.ctfassets.net/kftzwdyauwt9/3JLNH7ejJFnxLmX2LpzoKD/19f9e3c4d36cc9d677ba88e842ad2db2/Art_Card_1080x1080__4_.png?w=3840&q=90&fm=webp)
-
-Better memory for a more helpful ChatGPT
-
-[Dreaming: Better memory for a more helpful ChatGPTResearchJun 4, 2026](</index/chatgpt-memory-dreaming/>)
-
-![Rosalind5.5 ArtCard](https://images.ctfassets.net/kftzwdyauwt9/6USIQM1B7TggUvvTFxxwoi/0176ac6633c8bdc24641d25d1d2db824/GPT-Rosalind_ArtCard.png?w=3840&q=90&fm=webp)
-
-[Introducing new capabilities to GPT-RosalindProductJun 3, 2026](</index/introducing-new-capabilities-to-gpt-rosalind/>)
-
-![1 1 Art Card](https://images.ctfassets.net/kftzwdyauwt9/4xugzd9dTDMUzIUmuamtO3/1f40af4e50ab8b2bdd64d5b491964961/1_1_Art_Card.png?w=3840&q=90&fm=webp)
-
-[Codex for every role, tool, and workflowProductJun 2, 2026](</index/codex-for-every-role-tool-workflow/>)
-
-![oai 1x1](https://images.ctfassets.net/kftzwdyauwt9/7eONRWq61MKUix4tK4t88Y/170085acc9b241a0bdfba429bd217907/oai_1x1.png?w=3840&q=90&fm=webp)
-
-[Advancing youth safety and opportunity through global leadershipGlobal AffairsJun 2, 2026](</index/advancing-youth-safety-and-opportunity-through-global-leadership/>)
-
-Load more
 
 Research
 

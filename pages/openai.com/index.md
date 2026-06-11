@@ -30,7 +30,7 @@ What can I help with?
 
 Message ChatGPT
 
-[Talk with ChatGPT](<https://chatgpt.com/?mode=voice>)[Research](</research/>)[API Platform](</api/>)[Stories](</stories/>)More
+[Learn about ChatGPT Business](</business/>)[Talk with ChatGPT](<https://chatgpt.com/?mode=voice>)[Research](</research/>)[API Platform](</api/>)More
 
 ![1 1 Art Card](https://images.ctfassets.net/kftzwdyauwt9/4xugzd9dTDMUzIUmuamtO3/1f40af4e50ab8b2bdd64d5b491964961/1_1_Art_Card.png?w=3840&q=90&fm=webp)
 
@@ -86,17 +86,17 @@ Better memory for a more helpful ChatGPT
 
 [View all](</stories/>)
 
-![A photograph of a salvage yard that uses ChatGPT](https://images.ctfassets.net/kftzwdyauwt9/7FEtIL0cIrDdIW5XGc2tCq/edf96f04ca7406977a96d7ec739b4911/Media.png?w=3840&q=90&fm=webp)
+![OpenAI Falcon Cover](https://images.ctfassets.net/kftzwdyauwt9/2tgWg3FVo92ztow3wQjynu/6803dbad048ec780c8f0c7c46347ebe9/OpenAI_Falcon_1x1.jpg?w=3840&q=90&fm=webp)
 
-[A salvage yard in Nevada](<https://openai.com/index/small-business-stories/#a-salvage-yard-in-nevada>)
+[Training to cycle across Antarctica with ChatGPTJun 11, 2026](</index/cycling-across-antarctica/>)
 
-![A photograph of a woman using ChatGPT to help her work on a seed farm](https://images.ctfassets.net/kftzwdyauwt9/4oc0vUwW6AaVePuwbMDODo/e8d1ed43aaaa8caa8769d7ebe908c268/Media.png?w=3840&q=90&fm=webp)
+![Owl story hero image](https://images.ctfassets.net/kftzwdyauwt9/5Owa7Jyi5pMx1lDrvN1B2C/3036661e68edf2e77d2d5d2454653740/2026_04_Gardi_ProjectOwl_KittPeak_Day1_02144.jpg?w=3840&q=90&fm=webp)
 
-[A seed farm in South Carolina](<https://openai.com/index/small-business-stories/#a-seed-farm-in-south-carolina>)
+[Creating new simulations of black holes with CodexJun 11, 2026](</index/creating-new-simulations-black-holes/>)
 
-![A photograph of a family using ChatGPT to run their tamale shop](https://images.ctfassets.net/kftzwdyauwt9/6JmoE3YM1XGL5Bozqcgs0p/f523f6726472d136181577a897283a0a/Media.png?w=3840&q=90&fm=webp)
+![OpenAI Ganassi 1x1](https://images.ctfassets.net/kftzwdyauwt9/2sMgyKsbMrlLNgBeM8SYAh/83460e94830cfb5865cddb57e6fe837f/OpenAI_Ganassi_1x1.jpg?w=3840&q=90&fm=webp)
 
-[A tamale shop in California](<https://openai.com/index/small-business-stories/#a-tamale-shop-in-california>)
+[Chip Ganassi Racing × OpenAIAPIMay 28, 2026](</index/chip-ganassi-racing/>)
 
 ## Latest research
 
