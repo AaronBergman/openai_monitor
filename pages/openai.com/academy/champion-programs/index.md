@@ -76,7 +76,7 @@ Explore educational content, attend webinars, access reusable resources and part
 
 **Helpful links:**
 
-  * [**The AI Champion Role** ⁠(opens in a new window)](<https://academy.openai.com/home/clubs/champions-ecqup/resources/the-ai-champion-role>)**:** Read to learn more about how Champions influence adoption.
+  * ****[**Champion Pathways** ⁠(opens in a new window)](<https://academy.openai.com/pages/openai-champion-programs-7ggypa>): Read to learn more about champion roles and learning pathways.
 
   * [**Upcoming Champion Community Events** ⁠(opens in a new window)](<https://academy.openai.com/home/clubs/champions-ecqup/events>)**:** RSVP to learn more from other Champions. We’re always adding new events so be sure to check this page regularly.
 

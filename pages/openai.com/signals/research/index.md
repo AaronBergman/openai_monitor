@@ -52,13 +52,9 @@ Explore the latest resources below, including country-focused Signals reports, r
 
 ### [State of enterprise AI 2025December 2025 | A comprehensive look at how enterprises are adopting AI.Learn more](<https://cdn.openai.com/pdf/7ef17d82-96bf-4dd1-9df2-228f7f377a29/the-state-of-enterprise-ai_2025-report.pdf>)
 
-### [Workforce blueprintOctober 2025 | Proposals and policies to prepare for the Intelligence Age.Learn more](<https://cdn.openai.com/global-affairs/f319686f-cf21-4b8e-b8bc-84dd9bbfb999/oai-workforce-blueprint-oct-2025.pdf>)
-
 ### [How people use ChatGPTSeptember 2025 | The Economic Research Teams’ NBER paper on how people are using ChatGPT.Learn more](<https://cdn.openai.com/pdf/a253471f-8260-40c6-a2cc-aa93fe9f142e/economic-research-chatgpt-usage-paper.pdf>)
 
 ### [How people are using ChatGPTSeptember 2025 | Our OpenAI blog explaining the largest study to date how people are using ChatGPT.Learn more](<https://openai.com/index/how-people-are-using-chatgpt/>)
-
-### [Jobs of the Intelligence AgeSeptember 2025 | How AI is changing work and creating new roles.Learn more](<https://cdn.openai.com/global-affairs/06025361-1ede-4402-97d2-daf1e5918b43/jobs-in-the-intelligence-age-sept-2025.pdf?utm_source=substack&utm_medium=email>)
 
 ### [Unlocking economic opportunityJuly 2025 | A first look at ChatGPT-powered productivityLearn more](<https://cdn.openai.com/global-affairs/be0fe9e0-eb97-43d1-9614-99f2bd948bcc/OpenAI_Productivity-Note_Jul-2025.pdf>)
 
