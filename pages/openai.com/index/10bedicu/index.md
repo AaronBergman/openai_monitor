@@ -26,13 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Delivering care in a time of great need
-
-  * Delivering care in a time of great need
-  * Building on OpenAI models
-
-
-
 # 10BedICU
 
 10BedICU uses OpenAI’s API to improve India’s critical care infrastructure.
@@ -40,6 +33,20 @@ Delivering care in a time of great need
 ![A white 10BedICU logo superimposed on a teal background.](https://images.ctfassets.net/kftzwdyauwt9/Uw8hmWd17OgUKHrKg02r6/1b8c9fdf236bd3f01f6945a8d382ed8f/10BedICU.png?w=3840&q=90&fm=webp)
 
 Share
+
+Delivering care in a time of great need
+
+  * Delivering care in a time of great need
+  * Building on OpenAI models
+
+
+
+Table of contents
+
+  * Delivering care in a time of great need
+  * Building on OpenAI models
+
+
 
 India faces a significant challenge in healthcare accessibility due to a high doctor-to-patient ratio, geographic barriers, and economic constraints. For instance, the ratio of oncologists to cancer patients in India is approximately [1:2,000⁠(opens in a new window)](<https://www.business-standard.com/article/current-affairs/india-has-1-8-mn-cancer-patients-but-only-one-oncologist-to-treat-every-2-000-114052401140_1.html>), a stark contrast to the United States’ 1:100. 10BedICU was founded as an initiative of the [eGov Foundation⁠(opens in a new window)](<https://egov.org.in/>) to address these disparities. 10BedICU aims to elevate India’s critical care infrastructure, widening access to quality healthcare to India’s most underserved communities. 10BedICU is now using OpenAI models to meet the high‑stakes demands of critical‑care workflows and let clinicians reach more patients.
 

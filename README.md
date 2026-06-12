@@ -1,3 +1,41 @@
+## 2026-06-12 — Run `2026-06-12T09-15Z`
+
+**TL;DR:** OpenAI announced the **acquisition of Ona**, a cloud-execution and orchestration company, in what is the biggest news on OpenAI's site today. Ona's technology lets Codex agents run continuously inside a customer's own cloud environment even after the user's laptop is closed — addressing a key enterprise requirement for long-running agentic work. Codex now claims 5 million weekly users, up 400% from earlier this year. A new brand story for Preply (language learning) also launched. The 273 other `<lastmod>` changes across the sitemap appear to be a CMS rebuild artifact with no observable content changes. Zero anomalies, zero removals.
+
+### Anomalies
+None detected.
+
+### New Pages (2)
+
+**[OpenAI to acquire Ona](pages/openai.com/index/openai-to-acquire-ona/index.md)** ⭐ (Jun 11, 2026) — Company Announcement  
+OpenAI is acquiring **Ona** (ona.com), a company that has given 2 million developers secure, reproducible cloud development environments. The deal is framed as giving Codex a "persistent place to work" — agents will be able to continue executing inside a customer's own cloud infrastructure beyond any single session, with the organization retaining control over where code runs, what it can access, how credentials are scoped, and how activity is logged. Ona's customer-controlled execution model is described as complementary to OpenAI's model intelligence and orchestration. The acquisition is subject to regulatory approval; until closing the companies remain independent. After closing, Ona's team joins OpenAI's Codex team. Quoted: Johannes Landgraf (Ona CEO): *"Agents need more than intelligence; they need a trusted workspace."* Thibault Sottiaux (OpenAI Core Products Lead): *"Enterprises want powerful agents that can do real work while meeting the security and control requirements of their environments."* This follows the Dell Codex partnership (May 18), the Oracle cloud commitment (Jun 10), and the confidential S-1 filing (Jun 8) — a clear pattern of enterprise-infrastructure moves ahead of IPO.
+
+**[How Preply combines AI and human tutors to personalize learning](pages/openai.com/index/preply/index.md)** (Jun 12, 2026) — Brand Story  
+New customer case study for **Preply**, a global language learning platform. Key reported metrics: 95% ChatGPT weekly active usage among Preply employees; 70%+ of tutors actively use the AI-powered Lesson Insights feature. Preply uses ChatGPT, the API, and Codex. Industry: Technology/Education. The article focuses on AI-generated lesson summaries that provide personalized feedback to language learners and their tutors.
+
+---
+
+### Notable Updates
+
+**`/index/built-to-benefit-everyone-our-plan/`** — "Keep reading" section rotated: Ona acquisition is now the lead featured story, displacing the S-1 filing. Standard news ticker update.
+
+**`/business/customer-stories/`** — Grid refreshed: **BBVA** banking story ("BBVA puts AI at the core of banking with OpenAI") added to featured cards; **Warp** story rotated off the grid (page still exists in sitemap).
+
+**Pricing pages** (`/business/pricing/`, `/business/chatgpt-pricing/`, `/api/pricing/`) — `<lastmod>` timestamps updated; no content changes detected.
+
+---
+
+### Removals
+None.
+
+---
+
+*Stats: 1,347 total URLs | +2 added | 273 sitemap-updated | 0 removed | 0 anomalies | 0 fetch failures | 34 sub-sitemaps*
+
+*Full analysis: [runs/2026-06-12T09-15Z/analysis.md](runs/2026-06-12T09-15Z/analysis.md)*
+
+---
+
 ## 2026-06-11 — Run `2026-06-11T09-16Z`
 
 **TL;DR:** OpenAI launched a new "Applied AI" content section today — a distinct editorial category for real-world AI application stories, complete with its own sitemap sub-section (the 34th, up from 33). The inaugural article showcases a computational astrophysicist using Codex to generate and test mathematical algorithms for black hole simulations that are 1000× faster than current methods. Alongside that, a ChatGPT user story features a man training to become the first person to cycle Antarctica solo. On the policy front: OpenAI announced formal support for the EU's Code of Practice on AI-generated content transparency (part of EU AI Act implementation), published a threat report on PRC-linked influence operations targeting US AI debates, and announced an Oracle Cloud partnership allowing OCI customers to pay for OpenAI models with their existing Oracle credits. No pages removed; 0 anomalies.

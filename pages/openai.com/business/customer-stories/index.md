@@ -100,6 +100,10 @@ One in a million: celebrating the customers shaping AI’s future
 
 Filter
 
+![BBVA  > oai bbva 1x1](https://images.ctfassets.net/kftzwdyauwt9/4Ygin6jpvTgfSBwBXZOJCb/b35ada397a08df55eda8dfc9a8ae7cdd/oai_BBVA_1x1.png?w=3840&q=90&fm=webp)
+
+[BBVA puts AI at the core of banking with OpenAIJun 11, 2026](</index/bbva/>)
+
 ![lseg > oai 1x1](https://images.ctfassets.net/kftzwdyauwt9/6wykEE6NmMzJHGPdxuhPV7/b85d4a7e59cd01a710f4b8b9213f88f8/oai_LSEG_1x1.png?w=3840&q=90&fm=webp)
 
 [From data to decisions: how LSEG is scaling trusted AIJun 10, 2026](</index/lseg/>)
@@ -143,10 +147,6 @@ Filter
 ![oai Cisco 1x1](https://images.ctfassets.net/kftzwdyauwt9/34uiao4dZziOAyyKO40gSJ/cb6842aa761bc32b495d19976ced17bd/oai_Cisco_1x1.png?w=3840&q=90&fm=webp)
 
 [Cisco and OpenAI redefine enterprise engineering with CodexMay 27, 2026](</index/cisco/>)
-
-![Warp customer story 1x1 hero art card](https://images.ctfassets.net/kftzwdyauwt9/3DK9g0hpubvAEz7lDs0nUf/713989b24b9d377312714303868b9126/oai_Warp_1x1.png?w=3840&q=90&fm=webp)
-
-[Warp’s big bet on building open source with GPT-5.5StartupMay 27, 2026](</index/warp/>)
 
 Load more
 
