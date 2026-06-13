@@ -26,14 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-The next generation of collaborative software development
-
-  * The next generation of collaborative software development
-  * Agentic orchestration with Oz
-  * Building the infrastructure for agentic development
-
-
-
 May 27, 2026
 
 Startup
@@ -65,6 +57,22 @@ Of internal pull requests created with agents
 Loading…
 
 Share
+
+The next generation of collaborative software development
+
+  * The next generation of collaborative software development
+  * Agentic orchestration with Oz
+  * Building the infrastructure for agentic development
+
+
+
+Table of contents
+
+  * The next generation of collaborative software development
+  * Agentic orchestration with Oz
+  * Building the infrastructure for agentic development
+
+
 
 [Warp⁠(opens in a new window)](<https://warp.dev>) started as a modern terminal, earning early love from developers for its speed, collaboration features, command workflows, and AI-native interface. As coding agents moved from experiments to everyday engineering workflows, Warp saw the terminal becoming a natural place for developers to work with agents: where commands, context, collaboration, and review already meet.
 

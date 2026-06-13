@@ -1,3 +1,56 @@
+## 2026-06-13 — Run `2026-06-13T09-15Z`
+
+**TL;DR:** OpenAI launched a comprehensive advertising platform today, upgrading the narrow "Conversion Tools" product into a full "Ad Tools" suite that now includes **audience targeting** (upload your customer list, OpenAI builds custom audiences) and **AI Creative Tools** (use OpenAI's models to generate and optimize ad creatives). Three new policy pages published June 12–13; two older Conversion pages removed and superseded. Separately, OpenAI Academy got a major refresh — new "Applying AI at Work" courses announced, completion certificates added, and all Academy pages updated. Codex gained **Windows support** today (previously macOS-only). The homepage removed its "Learn about ChatGPT Business" hero link and promoted "Stories" instead. 170 total sitemap updates, mostly nav/template refreshes across the site. Zero anomalies.
+
+### Anomalies
+None detected.
+
+### New Pages (4)
+
+**[OpenAI Ad Tools Terms](pages/openai.com/policies/ad-tools-terms/index.md)** ⭐ (published June 12, 2026) — Policy  
+Establishes the legal framework for OpenAI's expanded advertising platform. Three tools covered: **(1) Conversion Tools** — unchanged from prior Conversion Terms, now incorporated by reference. **(2) Audience Data tools** — advertisers can upload first-party customer data so OpenAI builds custom audiences for ad targeting; strict rules: no data brokers, no third-party data enrichment, no inferring sensitive info about people, expressly prohibiting re-identification of OpenAI users. **(3) AI Creative Tools** — advertisers use OpenAI's AI to generate, modify, optimize, localize, and translate ads from their own brand materials; advertiser is fully responsible for verifying all factual claims in AI-generated creatives, including pricing, endorsements, and qualifications. This is a significant expansion: OpenAI now has the contractual framework for audience-targeted advertising (akin to Facebook Custom Audiences) and AI-generated ad creative (a new product category).
+
+**[OpenAI Ad Tools Data Processing Addendum](pages/openai.com/policies/ad-tools-dpa/index.md)** ⭐ (effective June 12, 2026) — Policy  
+The GDPR-compliant companion to the Ad Tools Terms. Establishes that OpenAI and advertisers are **independent data controllers** for most ad processing — not joint controllers and not processor/controller — with a narrow carve-out for "Restricted Processing" where OpenAI acts as data processor under the advertiser's instructions. Replaces the old Conversion DPA (effective May 14, 2026).
+
+**[OpenAI Ad Tools Sub-Processor List](pages/openai.com/policies/ad-tools-subprocessors/index.md)** (updated June 12, 2026) — Policy  
+Lists entities processing personal data for Ad Tools. Includes Cloudflare (CDN) and Microsoft (cloud infrastructure). Replaces the old Conversion Sub-Processor List.
+
+**[New OpenAI Academy courses for the next era of work](pages/openai.com/index/academy-courses-applying-ai-at-work/index.md)** (June 12, 2026) — AI Adoption  
+Product announcement for a refreshed Academy curriculum. Structured courses from AI fundamentals to repeatable workflows, completion certificates, organization-level enrollment for enterprises.
+
+---
+
+### Notable Updates
+
+**[Codex](pages/openai.com/codex/index.md) — Now Available on Windows** (updated June 12, 2026)  
+The Codex product page now reads "Available on macOS and Windows" with a new Microsoft Store installer link. Previously macOS-only.
+
+**[OpenAI Academy](pages/openai.com/academy/index.md) — Major Refresh** (updated June 12, 2026)  
+All eight Academy category pages updated simultaneously alongside the new course announcement. The Academy homepage now highlights "completion certificates" as a key feature. The "Codex for Everyday Work" article got new content about giving Codex rich workplace context (calendars, emails, docs, spreadsheets) rather than blank prompts.
+
+**[Homepage](pages/openai.com/index.md)** (updated June 12, 2026) — "Learn about ChatGPT Business" hero link removed; "Stories" link added in its place.
+
+**[Business Customer Stories](pages/openai.com/business/customer-stories/index.md)** (updated June 12, 2026) — **Preply** added ("How Preply combines AI and human tutors to personalize learning" — language learning platform with 95% weekly-active ChatGPT usage among employees). BBVA also newly featured.
+
+**Bulk nav/template updates (~128 pages)** — The "Stories" link was added to hero sections across the site, and some footer links updated (e.g., `chatgpt.com/business/business-plan` → `/business/`). Template-wide propagation accompanying the Academy relaunch.
+
+---
+
+### Removals (2)
+
+Superseded by new Ad Tools equivalents:
+
+- `https://openai.com/policies/conversion-dpa/` → replaced by `/policies/ad-tools-dpa/`
+- `https://openai.com/policies/conversion-subprocessors/` → replaced by `/policies/ad-tools-subprocessors/`
+
+---
+
+*Stats: 1,349 total URLs | +4 added | 170 updated | 2 removed | 0 anomalies | 0 fetch failures | 34 sub-sitemaps*
+
+*Full analysis: [runs/2026-06-13T09-15Z/analysis.md](runs/2026-06-13T09-15Z/analysis.md)*
+
+---
 ## 2026-06-12 — Run `2026-06-12T09-15Z`
 
 **TL;DR:** OpenAI announced the **acquisition of Ona**, a cloud-execution and orchestration company, in what is the biggest news on OpenAI's site today. Ona's technology lets Codex agents run continuously inside a customer's own cloud environment even after the user's laptop is closed — addressing a key enterprise requirement for long-running agentic work. Codex now claims 5 million weekly users, up 400% from earlier this year. A new brand story for Preply (language learning) also launched. The 273 other `<lastmod>` changes across the sitemap appear to be a CMS rebuild artifact with no observable content changes. Zero anomalies, zero removals.

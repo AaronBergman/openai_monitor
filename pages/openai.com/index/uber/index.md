@@ -26,16 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Turning complex marketplace data into real-time guidance for drivers
-
-  * Turning complex marketplace data into real-time guidance for drivers
-  * Building trust at scale with a multi-agent AI system
-  * Broadening accessibility with voice
-  * Faster iteration, stronger teams, better products
-  * Scaling intelligence across the marketplace
-
-
-
 May 6, 2026
 
 # Uber uses OpenAI to help people earn smarter and book faster
@@ -55,6 +45,26 @@ Products: API
 Loading…
 
 Share
+
+Turning complex marketplace data into real-time guidance for drivers
+
+  * Turning complex marketplace data into real-time guidance for drivers
+  * Building trust at scale with a multi-agent AI system
+  * Broadening accessibility with voice
+  * Faster iteration, stronger teams, better products
+  * Scaling intelligence across the marketplace
+
+
+
+Table of contents
+
+  * Turning complex marketplace data into real-time guidance for drivers
+  * Building trust at scale with a multi-agent AI system
+  * Broadening accessibility with voice
+  * Faster iteration, stronger teams, better products
+  * Scaling intelligence across the marketplace
+
+
 
 Every day, millions of people rely on Uber to book rides, order meals, send packages, and earn flexibly. Behind every tap is a complex real-time marketplace shaped by traffic, weather, airport arrivals, local events, and demand. Uber operates at massive scale: 40 million trips per day, 10 million drivers and couriers across 15,000 cities in over 70 countries. Each city has its own operating dynamics, regulations, and rider behavior, creating a system that must adapt continuously at global scale.
 
@@ -162,17 +172,17 @@ More than 1 million businesses around the world are achieving meaningful results
 
 ## Keep reading
 
-![Confidential submission of draft S-1 to the SEC > cover image](https://images.ctfassets.net/kftzwdyauwt9/36doI12YCwUtp1hzD4d8bj/84e67c565f39e7d5ca3ee011efa69756/confidential-submission-of-draft-s-1-to-the-sec-1x1.png?w=3840&q=90&fm=webp)
+![Introducing OpenAI Academy courses > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/2mmXo430NiaNqyi6YrRtnh/715ab11fa5003dd50acff55adcb4a5fd/Frame.png?w=3840&q=90&fm=webp)
 
-[Confidential submission of draft S-1 to the SECCompanyJun 8, 2026](</index/openai-submits-confidential-s-1/>)
+[New OpenAI Academy courses for the next era of workAI AdoptionJun 12, 2026](</index/academy-courses-applying-ai-at-work/>)
 
-![Built for broad benefit > cover](https://images.ctfassets.net/kftzwdyauwt9/bEe28mW3dEOj9pKJsPp2u/13f7bed9e86b0667ba924479d62f98e4/Art_Card_1080x1080_1.png?w=3840&q=90&fm=webp)
+![Preply Customer story > oai preply 1x1](https://images.ctfassets.net/kftzwdyauwt9/6PmaSoARNrmSZ6QRM8G4Ev/08a3dd4653efbda42894c90b374b6bcf/oai_Preply_1x1.png?w=3840&q=90&fm=webp)
 
-[Built to benefit everyone: our planCompanyJun 8, 2026](</index/built-to-benefit-everyone-our-plan/>)
+[How Preply combines AI and human tutors to personalize learningJun 12, 2026](</index/preply/>)
 
-![Economic research forum > art card ](https://images.ctfassets.net/kftzwdyauwt9/2DpNjvjdVuCrLKNOrFrWJ7/1aefe1cbe252bcd9ba42035469fc8a0f/art_card.png?w=3840&q=90&fm=webp)
+![Supporting Europe’s work in ensuring a trustworthy AI ecosystem  > art card](https://images.ctfassets.net/kftzwdyauwt9/U3OuQtdga2BaxWxb0e2ge/2fdc2fb1cf5c70a8f77fc4b55236aa78/Frame2.png?w=3840&q=90&fm=webp)
 
-[Introducing the OpenAI Economic Research ExchangeCompanyJun 8, 2026](</index/economic-research-exchange/>)
+[Supporting Europe’s work in ensuring a trustworthy AI ecosystem Global AffairsJun 11, 2026](</index/supporting-eu-trustworthy-ai-ecosystem/>)
 
 Research
 

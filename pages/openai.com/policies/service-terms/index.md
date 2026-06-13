@@ -30,7 +30,7 @@ Select language
 
 …
 
-Updated: June 2, 2026
+Updated: June 12, 2026
 
 # Service terms
 
@@ -117,6 +117,14 @@ Some OpenAI Services may involve Customer downloading and installing software, p
 ## 11\. ChatGPT Sites
 
 ChatGPT Sites is a feature that enables users to create, publish, and maintain websites or web applications. The use of ChatGPT Sites is subject to the [ChatGPT Sites Terms](</policies/chatgpt-sites-terms/>)[⁠⁠(opens in a new window)](<https://openai-dotcom-preview.vercel.app/policies/chatgpt-sites-terms/>).
+
+## 12\. OpenAI Academy
+
+OpenAI Academy is a free learning hub and community for users of OpenAI products and services. Use of OpenAI Academy is subject to OpenAI’s[ Terms of Use⁠](<https://openai.com/policies/row-terms-of-use/>) and OpenAI Academy’s [Terms of Use and Code of Conduct⁠(opens in a new window)](<https://academy.openai.com/home/resources/openai-academy-code-of-conduct-2025-10-08>).
+
+For users with accounts associated with a business or enterprise workspace, the OpenAI Services Agreement or other business or enterprise terms do not apply to use of OpenAI Academy, even if a user uses Sign in with ChatGPT with their workspace account.
+
+If you use an email address or account associated with an organization, including through Sign in with ChatGPT, OpenAI may share information about your OpenAI Academy activity, such as enrollment, engagement, progress, and completion status, with your organization’s owners or administrators.
 
 Research
 

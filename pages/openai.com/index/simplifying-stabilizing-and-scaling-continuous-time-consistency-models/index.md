@@ -26,15 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Introduction
-
-  * Introduction
-  * How it works
-  * Limitations
-  * What's next
-
-
-
 October 23, 2024
 
 [Milestone](</research/index/milestone/>)
@@ -48,6 +39,24 @@ Continuous-time consistency models with sample quality comparable to leading dif
 Loading…
 
 Share
+
+Introduction
+
+  * Introduction
+  * How it works
+  * Limitations
+  * What's next
+
+
+
+Table of contents
+
+  * Introduction
+  * How it works
+  * Limitations
+  * What's next
+
+
 
 Diffusion models have revolutionized generative AI, enabling remarkable advances in generating realistic images, 3D models, audio, and video. However, despite their impressive results, these models are slow at sampling. 
 

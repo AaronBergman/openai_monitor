@@ -26,19 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Background
-
-  * Background
-  * Universe Infrastructure
-  * Environments
-  * Future integrations
-  * Running an environment
-  * Validating the Universe infrastructure
-  * Looking forward
-  * Help us improve Universe
-
-
-
 December 5, 2016
 
 [Release](</research/index/release/>)
@@ -54,6 +41,32 @@ We’re releasing Universe, a software platform for measuring and training an AI
 Loading…
 
 Share
+
+Background
+
+  * Background
+  * Universe Infrastructure
+  * Environments
+  * Future integrations
+  * Running an environment
+  * Validating the Universe infrastructure
+  * Looking forward
+  * Help us improve Universe
+
+
+
+Table of contents
+
+  * Background
+  * Universe Infrastructure
+  * Environments
+  * Future integrations
+  * Running an environment
+  * Validating the Universe infrastructure
+  * Looking forward
+  * Help us improve Universe
+
+
 
 Universe allows an AI [agent⁠(opens in a new window)](<https://en.wikipedia.org/wiki/Intelligent_agent>) to use a computer like a human does: by looking at screen pixels and operating a virtual keyboard and mouse. We must train AI systems on the full range of tasks we expect them to solve, and Universe lets us train a single agent on any task a human can complete with a computer.
 

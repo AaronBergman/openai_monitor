@@ -26,15 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Our commitment to secure AI
-
-  * Our commitment to secure AI
-  * Introducing the Bug Bounty Program
-  * Incentives and rewards
-  * Staying secure together
-
-
-
 April 11, 2023
 
 [Security](</news/security/>)
@@ -48,6 +39,24 @@ April 11, 2023
 Loading…
 
 Share
+
+Our commitment to secure AI
+
+  * Our commitment to secure AI
+  * Introducing the Bug Bounty Program
+  * Incentives and rewards
+  * Staying secure together
+
+
+
+Table of contents
+
+  * Our commitment to secure AI
+  * Introducing the Bug Bounty Program
+  * Incentives and rewards
+  * Staying secure together
+
+
 
 ## Our commitment to secure AI
 

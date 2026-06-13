@@ -26,10 +26,24 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
+April 23, 2026
+
+OpenAI Academy
+
+# How to use Codex for everyday work
+
+Explore how teams can use Codex to turn everyday work inputs into review-ready briefs, summaries, decks, workbooks, plans, and process docs.
+
+[Download Codex(opens in a new window)](<https://chatgpt.com/codex/for-work/>)
+
+Loading…
+
+Share
+
 Watch our webinar
 
   * Watch our webinar
-  * Top ChatGPT Codex use cases for everyday work
+  * Top Codex use cases for everyday work
   * 1\. Create a daily work brief
   * 2\. Weekly summary
   * 3\. Draft slide decks
@@ -43,31 +57,34 @@ Watch our webinar
 
 
 
-April 23, 2026
+Table of contents
 
-OpenAI Academy
+  * Watch our webinar
+  * Top Codex use cases for everyday work
+  * 1\. Create a daily work brief
+  * 2\. Weekly summary
+  * 3\. Draft slide decks
+  * 4\. Research to decision memo
+  * 5\. File cleanup and reformatting
+  * 6\. Spreadsheet consolidation
+  * 7\. Book of business prioritization
+  * 8\. Month-end financial review
+  * 9\. Launch campaign kit
+  * 10\. Workflow audit and automation spec
 
-# How to use Codex for everyday work
 
-Explore how teams can use ChatGPT Codex to turn everyday work inputs into review-ready briefs, summaries, decks, workbooks, plans, and process docs.
 
-[Download Codex(opens in a new window)](<https://chatgpt.com/codex/for-work/>)
-
-Loading…
-
-Share
-
-ChatGPT Codex is most useful when the work already has real context behind it: calendars, messages, emails, docs, dashboards, spreadsheets, trackers, decks, and discussion history. Instead of starting from a blank prompt, give ChatGPT Codex the materials your team already uses and ask it to produce the first usable version of the artifact. That might be a daily brief, weekly update, decision memo, launch kit, financial review, or workflow audit your team can inspect, edit, and put to work.
+Codex is most useful when the work already has real context behind it: calendars, messages, emails, docs, dashboards, spreadsheets, trackers, decks, and discussion history. Instead of starting from a blank prompt, give Codex the materials your team already uses and ask it to produce the first usable version of the artifact. That might be a daily brief, weekly update, decision memo, launch kit, financial review, or workflow audit your team can inspect, edit, and put to work.
 
 ## Watch our webinar
 
 ![Cover image for Codex for everyday work webinar](https://images.ctfassets.net/kftzwdyauwt9/eLUB43b2rguVNaaYwmALi/8d973d33b1e366d274e4c8831c0d28c9/codexforworkcover.jpg?w=3840&q=90&fm=webp)
 
-Learn more about using ChatGPT Codex for everyday work in our [on-demand webinar⁠(opens in a new window)](<https://academy.openai.com/home/clubs/work-users-ynjqu/videos/codex-for-everyday-work-recording-2026-05-06>).
+Learn more about using Codex for everyday work in our [on-demand webinar⁠(opens in a new window)](<https://academy.openai.com/home/clubs/work-users-ynjqu/videos/codex-for-everyday-work-recording-2026-05-06>).
 
-## Top ChatGPT Codex use cases for everyday work
+## Top Codex use cases for everyday work
 
-Use these prompts to move from scattered inputs to concrete outputs. Give ChatGPT Codex the source materials, constraints, review expectations, and destination format behind the task, then ask for a first pass someone can actually use. From there, your team can check the evidence, refine the judgment, resolve open questions, and decide what needs to happen next.
+Use these prompts to move from scattered inputs to concrete outputs. Give Codex the source materials, constraints, review expectations, and destination format behind the task, then ask for a first pass someone can actually use. From there, your team can check the evidence, refine the judgment, resolve open questions, and decide what needs to happen next.
 
 ## 1\. Create a daily work brief
 
@@ -81,7 +98,7 @@ Calendar, unread messages, unread email, open follow-ups, notes, and priority co
 
 ### How it works
 
-  1. ChatGPT Codex reviews the day’s calendar, recent messages, email, notes, and follow-up sources.
+  1. Codex reviews the day’s calendar, recent messages, email, notes, and follow-up sources.
   2. It identifies priorities, meeting prep needs, reply-worthy messages, open decisions, and useful FYIs.
   3. It creates a daily work brief and can monitor for changes that need attention.
 
@@ -107,7 +124,7 @@ Calendar, edited docs, sent messages, planning tracker, project notes, and relev
   
 ### How it works
 
-  1. ChatGPT Codex reviews the week’s meetings, documents, messages, trackers, and project context.
+  1. Codex reviews the week’s meetings, documents, messages, trackers, and project context.
   2. It identifies completed work, decisions, important changes, blockers, follow-ups, and next priorities.
   3. It creates a manager-ready weekly summary with source links and clear inference flags.
 
@@ -127,7 +144,7 @@ I'm writing my weekly update. Use my calendar, documents I edited, messages I se
 
 **Use this when:** You have the source material for a presentation but need an editable deck with structure, speaker notes, and layout checks.
 
-**What you bring**| **What codex returns**  
+**What you bring**| **What Codex returns**  
 ---|---  
 Project brief, source docs, metrics, customer or audience context, slide template, and review expectations| An editable draft deck with slide structure, speaker notes, charts or visuals, layout fixes, and missing-data flags  
   
@@ -155,7 +172,7 @@ Prior recaps, planning docs, ROI model, audience or account list, budget guardra
 
 ### How it works
 
-  1. ChatGPT Codex reviews internal files, planning context, budget constraints, and requested external research areas.
+  1. Codex reviews internal files, planning context, budget constraints, and requested external research areas.
   2. It separates internal evidence from outside research, open questions, and interpretation.
   3. It creates a decision memo with a recommendation, tradeoffs, risks, source links, and missing information.
 
@@ -183,7 +200,7 @@ CSVs, spreadsheets, mapping notes, source files, cleanup rules, required field o
 
 ### How it works
 
-  1. ChatGPT Codex reviews source files, mapping notes, duplicate rules, required fields, and cleanup constraints.
+  1. Codex reviews source files, mapping notes, duplicate rules, required fields, and cleanup constraints.
   2. It standardizes fields, removes duplicates, reformats records, and isolates missing or conflicting rows.
   3. It creates a cleaned workbook or CSV with a review tab and change log.
 
@@ -211,7 +228,7 @@ Spreadsheet exports, account or record keys, targets, segment files, reporting r
 
 ### How it works
 
-  1. ChatGPT Codex reviews the exports, join keys, targets, segment definitions, and reporting requirements.
+  1. Codex reviews the exports, join keys, targets, segment definitions, and reporting requirements.
   2. It consolidates files, cleans duplicates, calculates key views, and surfaces mismatched records.
   3. It creates an updateable workbook with charts, insights, assumptions, and refresh instructions.
 
@@ -239,7 +256,7 @@ CRM export, call transcripts, customer emails, usage dashboard, account plans, r
 
 ### How it works
 
-  1. ChatGPT Codex reviews account records, customer conversations, email threads, usage signals, and account plans.
+  1. Codex reviews account records, customer conversations, email threads, usage signals, and account plans.
   2. It identifies which accounts need attention based on risk, upside, urgency, and missing context.
   3. It creates a priority brief with recommended next actions and draft follow-ups where appropriate.
 
@@ -267,7 +284,7 @@ Close workbook, dashboard, support folder, prior deck, close-period messages, an
 
 ### How it works
 
-  1. ChatGPT Codex reviews close materials, dashboards, support files, prior decks, and close-period discussion.
+  1. Codex reviews close materials, dashboards, support files, prior decks, and close-period discussion.
   2. It updates actuals, key movements, speaker notes, executive questions, and source citations.
   3. It creates a refreshed review deck and flags unsupported numbers, stale labels, and assumptions.
 
@@ -295,7 +312,7 @@ Launch plan, product notes, launch tracker, creative brief outline, page links, 
 
 ### How it works
 
-  1. ChatGPT Codex reviews launch plans, product notes, tracker status, creative inputs, page context, and team discussions.
+  1. Codex reviews launch plans, product notes, tracker status, creative inputs, page context, and team discussions.
   2. It identifies required assets, unverified claims, staging page issues, and review needs.
   3. It creates a first-draft launch kit with campaign assets and approval flags.
 
@@ -323,7 +340,7 @@ Current tracker, process docs, handoff notes, KPI dashboard, ticket history, tea
 
 ### How it works
 
-  1. ChatGPT Codex reviews the current workflow across trackers, docs, dashboards, tickets, handoffs, and team discussion.
+  1. Codex reviews the current workflow across trackers, docs, dashboards, tickets, handoffs, and team discussion.
   2. It identifies current steps, stuck points, owners, repeated questions, missing data, and automation candidates.
   3. It creates a workflow audit brief, updated process doc, and short automation spec.
 

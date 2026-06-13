@@ -26,14 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Building, submitting and monetizing apps
-
-  * Building, submitting and monetizing apps
-  * Safety and privacy
-  * Looking ahead
-
-
-
 December 17, 2025
 
 [Product](</news/product-releases/>)[Company](</news/company-announcements/>)
@@ -43,6 +35,22 @@ December 17, 2025
 We’re opening app submissions for review and publication in ChatGPT, and users can discover apps in the app directory.
 
 Share
+
+Building, submitting and monetizing apps
+
+  * Building, submitting and monetizing apps
+  * Safety and privacy
+  * Looking ahead
+
+
+
+Table of contents
+
+  * Building, submitting and monetizing apps
+  * Safety and privacy
+  * Looking ahead
+
+
 
 Earlier this year at DevDay, we introduced apps in ChatGPT. Starting today, developers can submit apps for review and publication in ChatGPT by following our [app submission guidelines⁠(opens in a new window)](<https://developers.openai.com/apps-sdk/app-developer-guidelines>). Apps extend ChatGPT conversations by bringing in new context and letting users take actions like order groceries, turn an outline into a slide deck, or search for an apartment. We’ve published resources to help developers build high-quality apps that users will love—based on what we’ve learned since DevDay—like best practices on [what makes a great ChatGPT app⁠(opens in a new window)](<https://developers.openai.com/blog/what-makes-a-great-chatgpt-app>), [open-source example apps⁠(opens in a new window)](<https://github.com/openai/openai-apps-sdk-examples>), an [open-sourced UI library⁠(opens in a new window)](<https://github.com/openai/apps-sdk-ui>) for chat-native interfaces, and a step-by-step [quickstart guide⁠(opens in a new window)](<https://developers.openai.com/apps-sdk/quickstart/>). 
 

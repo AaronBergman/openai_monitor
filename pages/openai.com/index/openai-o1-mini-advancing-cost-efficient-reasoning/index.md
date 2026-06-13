@@ -26,15 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Optimized for STEM Reasoning
-
-  * Optimized for STEM Reasoning
-  * Model Speed
-  * Safety
-  * Limitations and What’s Next
-
-
-
 September 12, 2024
 
 [Release](</research/index/release/>)
@@ -48,6 +39,24 @@ Advancing cost-efficient reasoning.
 Loading…
 
 Share
+
+Optimized for STEM Reasoning
+
+  * Optimized for STEM Reasoning
+  * Model Speed
+  * Safety
+  * Limitations and What’s Next
+
+
+
+Table of contents
+
+  * Optimized for STEM Reasoning
+  * Model Speed
+  * Safety
+  * Limitations and What’s Next
+
+
 
 We're releasing OpenAI o1‑mini, a cost-efficient reasoning model. o1‑mini excels at STEM, especially math and coding—nearly matching the performance of [OpenAI o1](</index/introducing-openai-o1-preview/>) on evaluation benchmarks such as AIME and Codeforces. We expect o1‑mini will be a faster, cost-effective model for applications that require reasoning without broad world knowledge.
 

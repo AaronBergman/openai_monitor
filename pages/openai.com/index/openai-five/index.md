@@ -26,6 +26,20 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
+June 25, 2018
+
+[Milestone](</research/index/milestone/>)
+
+# OpenAI Five
+
+Our team of five neural networks, OpenAI Five, has started to defeat amateur human teams at Dota 2.
+
+![A group of people seated facing a large monitor showing the Dota 2 interface](https://images.ctfassets.net/kftzwdyauwt9/16faabb9-51a6-4f88-95288038cbd1/0c6fc97768e17d1c40ce86e26367128d/openai-five.jpg?w=3840&q=90&fm=webp)
+
+Loading…
+
+Share
+
 The problem
 
   * The problem
@@ -41,19 +55,20 @@ The problem
 
 
 
-June 25, 2018
+Table of contents
 
-[Milestone](</research/index/milestone/>)
+  * The problem
+  * Our approach
+  * Model structure
+  * Exploration
+  * Coordination
+  * Rapid
+  * The games
+  * Differences versus humans
+  * Surprising findings
+  * What’s next
 
-# OpenAI Five
 
-Our team of five neural networks, OpenAI Five, has started to defeat amateur human teams at Dota 2.
-
-![A group of people seated facing a large monitor showing the Dota 2 interface](https://images.ctfassets.net/kftzwdyauwt9/16faabb9-51a6-4f88-95288038cbd1/0c6fc97768e17d1c40ce86e26367128d/openai-five.jpg?w=3840&q=90&fm=webp)
-
-Loading…
-
-Share
 
 Our team of five neural networks, OpenAI Five, has started to [defeat⁠](</index/openai-five/#thegames>) amateur human teams at [Dota 2⁠(opens in a new window)](<http://www.dota2.com/play/>). While today we play with [restrictions⁠](</index/openai-five/#restricted>), we aim to beat a team of top professionals at [The International⁠(opens in a new window)](<https://en.wikipedia.org/wiki/The_International_\(Dota_2\)>) in August subject only to a limited set of heroes. We may not succeed: Dota 2 is one of the most popular and [complex⁠(opens in a new window)](<https://purgegamers.true.io/g/dota-2-guide>) esports games in the world, with creative and motivated professionals who [train⁠(opens in a new window)](<https://venturebeat.com/2017/02/12/dota-evil-geniuses/>) year-round to earn part of Dota’s annual $40M [prize pool⁠(opens in a new window)](<https://www.esportsearnings.com/history/2017/games>) (the largest of any esports game).
 

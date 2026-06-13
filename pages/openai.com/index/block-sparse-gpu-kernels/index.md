@@ -26,17 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-The kernels
-
-  * The kernels
-  * Using the kernels
-  * Small-world LSTMs
-  * Sentiment representation learning
-  * Compression results
-  * Research directions
-
-
-
 December 6, 2017
 
 [Release](</research/index/release/>)
@@ -52,6 +41,28 @@ Illustration: Ben Barry
 Loading…
 
 Share
+
+The kernels
+
+  * The kernels
+  * Using the kernels
+  * Small-world LSTMs
+  * Sentiment representation learning
+  * Compression results
+  * Research directions
+
+
+
+Table of contents
+
+  * The kernels
+  * Using the kernels
+  * Small-world LSTMs
+  * Sentiment representation learning
+  * Compression results
+  * Research directions
+
+
 
 We’re releasing highly-optimized GPU kernels for an underexplored class of neural network architectures: networks with block-sparse weights. Depending on the chosen sparsity, these kernels can run orders of magnitude faster than cuBLAS or cuSPARSE. We’ve used them to attain state-of-the-art results in text sentiment analysis and generative modeling of text and images.
 

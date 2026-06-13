@@ -48,7 +48,7 @@ Build AI systems using tools, techniques, and real-world patterns.
 
 #### Explore more
 
-![Academy Hub > Layout > Group > Categories > Codex > Media > Asset](https://images.ctfassets.net/kftzwdyauwt9/4a0UlJKsQXDLL6k7khzEmr/ddac544c58137463e3963b22de3317c5/Cover-codex.png?w=3840&q=90&fm=webp)
+![Academy Hub > Layout > Group > Categories > Codex > Media > Asset](https://images.ctfassets.net/kftzwdyauwt9/4a0UlJKsQXDLL6k7khzEmr/e7428c71d17da9184f986ff9a120211b/Codex_1_1.png?w=3840&q=90&fm=webp)
 
 ### Codex
 
@@ -56,7 +56,7 @@ Guidance for coding, tasks, and workflows with Codex.
 
 [Learn more](</academy/codex/>)
 
-![Academy Hub > Layout > Group > Categories > Using ChatGPT > Media > Asset](https://images.ctfassets.net/kftzwdyauwt9/3UaiZFr75wVkOCJsHTd21x/54b2631e52804edcce8bc6ffbdd15722/Cover-using-chatgpt.png?w=3840&q=90&fm=webp)
+![Academy Hub > Layout > Group > Categories > Using ChatGPT > Media > Asset](https://images.ctfassets.net/kftzwdyauwt9/3UaiZFr75wVkOCJsHTd21x/1d1e7699325940e3b00c03d2ea9c70ac/using_chatgpt_1_1.png?w=3840&q=90&fm=webp)
 
 ### Getting started with ChatGPT
 
@@ -64,7 +64,7 @@ Practical skills for prompting, tools, and everyday use.
 
 [Learn more](</academy/using-chatgpt/>)
 
-![Academy Hub > Layout > Group > Categories > ChatGPT for work > Media > Asset](https://images.ctfassets.net/kftzwdyauwt9/4isWF93VlOu8b5EpVONDeo/4ace7b74dc5d84236657e954f09c005f/Cover-work.png?w=3840&q=90&fm=webp)
+![Academy Hub > Layout > Group > Categories > ChatGPT for work > Media > Asset](https://images.ctfassets.net/kftzwdyauwt9/4isWF93VlOu8b5EpVONDeo/49c15b4f7808ecf53df0e3eef5dc126a/Work_1_1.png?w=3840&q=90&fm=webp)
 
 ### ChatGPT for work
 

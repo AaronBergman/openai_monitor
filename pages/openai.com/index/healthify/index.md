@@ -26,15 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Healthify’s AI journey
-
-  * Healthify’s AI journey
-  * Using GPT-Vision and embeddings to instantly track food and scale coaching
-  * Millions of lives improved with increased engagement
-  * Saving a million lives
-
-
-
 # Healthify
 
 Healthify collaborates with OpenAI to improve millions of lives with sustainable weight loss.
@@ -46,6 +37,24 @@ Healthify collaborates with OpenAI to improve millions of lives with sustainable
 Loading…
 
 Share
+
+Healthify’s AI journey
+
+  * Healthify’s AI journey
+  * Using GPT-Vision and embeddings to instantly track food and scale coaching
+  * Millions of lives improved with increased engagement
+  * Saving a million lives
+
+
+
+Table of contents
+
+  * Healthify’s AI journey
+  * Using GPT-Vision and embeddings to instantly track food and scale coaching
+  * Millions of lives improved with increased engagement
+  * Saving a million lives
+
+
 
 With over 40 million users, [Healthify⁠(opens in a new window)](<https://www.healthifyme.com/us/>) is India’s largest health platform, providing health tracking and AI-enhanced health coaching to help users become fit and reverse metabolic disease. Since introducing AI in its coaching and tracking components, Healthify has already helped users lose an aggregate of 25 million+ pounds and with OpenAI’s API, Healthify is greatly simplifying tracking and scaling up coaching.
 

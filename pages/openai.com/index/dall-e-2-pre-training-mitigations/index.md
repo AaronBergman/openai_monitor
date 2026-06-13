@@ -26,15 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Reducing graphic and explicit training data
-
-  * Reducing graphic and explicit training data
-  * Fixing bias introduced by data filters
-  * Preventing image regurgitation
-  * Next steps
-
-
-
 June 28, 2022
 
 [Publication](</research/index/publication/>)
@@ -48,6 +39,24 @@ DALL·E
 Loading…
 
 Share
+
+Reducing graphic and explicit training data
+
+  * Reducing graphic and explicit training data
+  * Fixing bias introduced by data filters
+  * Preventing image regurgitation
+  * Next steps
+
+
+
+Table of contents
+
+  * Reducing graphic and explicit training data
+  * Fixing bias introduced by data filters
+  * Preventing image regurgitation
+  * Next steps
+
+
 
 In order to share the magic of [DALL·E 2⁠](</index/dall-e-2/>) with a broad audience, we needed to reduce the risks associated with powerful image generation models. To this end, we put various [guardrails⁠(opens in a new window)](<https://github.com/openai/dalle-2-preview/blob/main/system-card.md>) in place to prevent generated images from violating our [content policy⁠(opens in a new window)](<https://labs.openai.com/policies/content-policy>).
 

@@ -26,6 +26,18 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
+January 25, 2021
+
+[Conclusion](</research/index/conclusion/>)
+
+# Scaling Kubernetes to 7,500 nodes
+
+![Scaling Kubernetes To 7 500 Nodes](https://images.ctfassets.net/kftzwdyauwt9/84745f0a-d786-4066-99f031ec2cb2/be1d8d7357f9f5bc35970e058f42c8d0/image-25.webp?w=3840&q=90&fm=webp)
+
+Loading…
+
+Share
+
 Our workload
 
   * Our workload
@@ -40,17 +52,19 @@ Our workload
 
 
 
-January 25, 2021
+Table of contents
 
-[Conclusion](</research/index/conclusion/>)
+  * Our workload
+  * Networking
+  * API servers
+  * Time-series metrics with Prometheus and Grafana
+  * Healthchecks
+  * Quotas & resource usage
+  * Gang scheduling
+  * Unsolved problems
+  * Conclusions
 
-# Scaling Kubernetes to 7,500 nodes
 
-![Scaling Kubernetes To 7 500 Nodes](https://images.ctfassets.net/kftzwdyauwt9/84745f0a-d786-4066-99f031ec2cb2/be1d8d7357f9f5bc35970e058f42c8d0/image-25.webp?w=3840&q=90&fm=webp)
-
-Loading…
-
-Share
 
 We’ve scaled Kubernetes clusters to 7,500 nodes, producing a scalable infrastructure for large models like [GPT‑3⁠(opens in a new window)](<https://arxiv.org/abs/2005.14165>), [CLIP⁠](</index/clip/>), and [DALL·E⁠](</index/dall-e/>), but also for rapid small-scale iterative research such as [Scaling Laws for Neural Language Models⁠(opens in a new window)](<https://arxiv.org/abs/2001.08361>).
 

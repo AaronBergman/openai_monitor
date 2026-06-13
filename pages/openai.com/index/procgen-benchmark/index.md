@@ -26,18 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Getting started
-
-  * Getting started
-  * Environment diversity is key
-  * Procgen Benchmark
-  * Design principles
-  * Evaluating generalization
-  * An ablation with deterministic levels
-  * Next steps
-
-
-
 December 3, 2019
 
 [Release](</research/index/release/>)
@@ -53,6 +41,30 @@ We’re releasing Procgen Benchmark, 16 simple-to-use procedurally-generated env
 Loading…
 
 Share
+
+Getting started
+
+  * Getting started
+  * Environment diversity is key
+  * Procgen Benchmark
+  * Design principles
+  * Evaluating generalization
+  * An ablation with deterministic levels
+  * Next steps
+
+
+
+Table of contents
+
+  * Getting started
+  * Environment diversity is key
+  * Procgen Benchmark
+  * Design principles
+  * Evaluating generalization
+  * An ablation with deterministic levels
+  * Next steps
+
+
 
 00:00
 

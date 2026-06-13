@@ -26,15 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Prompt injection is evolving
-
-  * Prompt injection is evolving
-  * Social engineering and AI agents
-  * How this informs our defenses in ChatGPT
-  * Looking ahead
-
-
-
 March 11, 2026
 
 [Security](</news/security/>)
@@ -46,6 +37,24 @@ What social engineering teaches us about securing AI agents.
 Loading…
 
 Share
+
+Prompt injection is evolving
+
+  * Prompt injection is evolving
+  * Social engineering and AI agents
+  * How this informs our defenses in ChatGPT
+  * Looking ahead
+
+
+
+Table of contents
+
+  * Prompt injection is evolving
+  * Social engineering and AI agents
+  * How this informs our defenses in ChatGPT
+  * Looking ahead
+
+
 
 AI agents are increasingly able to browse the web, retrieve information, and take actions on a user’s behalf. Those capabilities are useful, but they also create new ways for attackers to try to manipulate the system.
 

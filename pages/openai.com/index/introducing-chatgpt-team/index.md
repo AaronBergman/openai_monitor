@@ -26,13 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Customize ChatGPT for any type of work
-
-  * Customize ChatGPT for any type of work
-  * Improve team efficiency and work quality
-
-
-
 January 10, 2024
 
 [Product](</news/product-releases/>)
@@ -44,6 +37,20 @@ January 10, 2024
 Loading…
 
 Share
+
+Customize ChatGPT for any type of work
+
+  * Customize ChatGPT for any type of work
+  * Improve team efficiency and work quality
+
+
+
+Table of contents
+
+  * Customize ChatGPT for any type of work
+  * Improve team efficiency and work quality
+
+
 
  _August 29, 2025 update: ChatGPT Team is now called ChatGPT Business. We heard from customers this name was clearer. Features and pricing haven’t changed._
 

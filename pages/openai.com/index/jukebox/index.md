@@ -26,16 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Curated samples
-
-  * Curated samples
-  * Motivation and prior work
-  * Approach
-  * Limitations
-  * Future directions
-
-
-
 April 30, 2020
 
 [Release](</research/index/release/>)
@@ -51,6 +41,26 @@ Illustration: Ben Barry
 Loading…
 
 Share
+
+Curated samples
+
+  * Curated samples
+  * Motivation and prior work
+  * Approach
+  * Limitations
+  * Future directions
+
+
+
+Table of contents
+
+  * Curated samples
+  * Motivation and prior work
+  * Approach
+  * Limitations
+  * Future directions
+
+
 
 We’re introducing Jukebox, a neural net that generates music, including rudimentary singing, as raw audio in a variety of genres and artist styles. We’re releasing the model weights and code, along with a tool to explore the generated samples.
 

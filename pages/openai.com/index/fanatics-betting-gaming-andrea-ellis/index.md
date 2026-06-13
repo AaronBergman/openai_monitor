@@ -26,6 +26,18 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
+February 13, 2025
+
+# Using AI to focus on the big picture
+
+A conversation with Andrea Ellis, Chief Financial Officer of Fanatics Betting and Gaming.
+
+![An abstract background with blended orange, purple, and green hues. The text ‘Executive Function’ appears on the left, and ‘Ep 02’ on the right, indicating the second episode of a series.](https://images.ctfassets.net/kftzwdyauwt9/4ees89KOlUbxX1vrtf7hTt/3aa15359652b70c1c89314133c408eb1/EF_Fanatics_Website_Card_16.9.png?w=3840&q=90&fm=webp)
+
+Loading…
+
+Share
+
 How have you seen the CFO role evolve?
 
   * How have you seen the CFO role evolve?
@@ -39,19 +51,20 @@ How have you seen the CFO role evolve?
 
 
 
-February 13, 2025
+Table of contents
 
-# Using AI to focus on the big picture
+  * How have you seen the CFO role evolve?
+  * How do you ensure your finance team is operating at peak performance?
+  * How do you think AI can contribute to the success of your team?
+  * You took a bit of a different approach to AI adoption than other companies. Can you tell us how you got started?
+  * But you also took a more structured approach as an organization?
+  * Can you share some specific use cases where AI has delivered significant value?
+  * How do you see the way you use AI evolving at Fanatics?
+  * How has AI impacted you personally as a CFO?
 
-A conversation with Andrea Ellis, Chief Financial Officer of Fanatics Betting and Gaming.
 
-![An abstract background with blended orange, purple, and green hues. The text ‘Executive Function’ appears on the left, and ‘Ep 02’ on the right, indicating the second episode of a series.](https://images.ctfassets.net/kftzwdyauwt9/4ees89KOlUbxX1vrtf7hTt/3aa15359652b70c1c89314133c408eb1/EF_Fanatics_Website_Card_16.9.png?w=3840&q=90&fm=webp)
 
-Loading…
-
-Share
-
-** _Our Executive Function series features perspectives from leaders driving transformation through AI._**
+**_Our Executive Function series features perspectives from leaders driving transformation through AI._**
 
 [_Fanatics Betting and Gaming_ ⁠(opens in a new window)](<https://www.fanaticsinc.com/fanatics-betting-gaming>) is the online and retail sports betting subsidiary of Fanatics, Inc., a global digital sports platform. We spoke with Andrea Ellis about the expanding role of the CFO, building internal enthusiasm for AI, and using AI to free up focus for higher-impact work.
 
@@ -145,9 +158,7 @@ OpenAI
 
 [Boosting the customer retail experience with GPT-4o miniDec 11, 2024](</index/zalando/>)
 
-![\[2.0\] Card > Media > BBVA](https://images.ctfassets.net/kftzwdyauwt9/68CWIJNeDPYLc9UFRsaiLY/724c0a211983b43bd989af3d9d814300/oai_BBVA_1_1.png?w=3840&q=90&fm=webp)
-
-[Empowering a global org with ChatGPTNov 21, 2024](</index/bbva/>)
+[](<>)
 
 Research
 

@@ -26,16 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-How ChatGPT Enterprise enabled secure AI adoption
-
-  * How ChatGPT Enterprise enabled secure AI adoption
-  * Why adoption spread without being forced
-  * How Codex is improving decisions before implementation
-  * How Codex is helping teams move faster with more confidence
-  * What’s next 
-
-
-
 April 9, 2026
 
 # CyberAgent moves faster with ChatGPT Enterprise and Codex
@@ -63,6 +53,26 @@ Monthly active usage of ChatGPT Enterprise
 Loading…
 
 Share
+
+How ChatGPT Enterprise enabled secure AI adoption
+
+  * How ChatGPT Enterprise enabled secure AI adoption
+  * Why adoption spread without being forced
+  * How Codex is improving decisions before implementation
+  * How Codex is helping teams move faster with more confidence
+  * What’s next 
+
+
+
+Table of contents
+
+  * How ChatGPT Enterprise enabled secure AI adoption
+  * Why adoption spread without being forced
+  * How Codex is improving decisions before implementation
+  * How Codex is helping teams move faster with more confidence
+  * What’s next 
+
+
 
 CyberAgent is a Japanese internet company engaged in businesses such as internet advertising, media & IP, and gaming. Guided by its vision of “creating a company that represents the 21st century,” the company leverages its strengths in technology and creativity to generate new value both domestically and internationally.
 
@@ -144,19 +154,17 @@ What stands out about CyberAgent’s approach is not only the scale of adoption,
 
 ## Keep reading
 
-![Nextdoor customer stories > oai 1x1](https://images.ctfassets.net/kftzwdyauwt9/2VQiKydNUVAutnHRuCIV4S/3262cc8deff3fe49c6b512f854e14dcf/oai_Nextdoor_1x1.png?w=3840&q=90&fm=webp)
+![Introducing OpenAI Academy courses > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/2mmXo430NiaNqyi6YrRtnh/715ab11fa5003dd50acff55adcb4a5fd/Frame.png?w=3840&q=90&fm=webp)
 
-[How engineers at Nextdoor use Codex to build without limitsJun 9, 2026](</index/nextdoor/>)
+[New OpenAI Academy courses for the next era of workAI AdoptionJun 12, 2026](</index/academy-courses-applying-ai-at-work/>)
 
-![Notion > cover image](https://images.ctfassets.net/kftzwdyauwt9/2HBxiM1dDPpM1W56ehwgNi/01dc3dafe6aedcabc9808446492523ea/oai_Notion_1x1.png?w=3840&q=90&fm=webp)
+![Preply Customer story > oai preply 1x1](https://images.ctfassets.net/kftzwdyauwt9/6PmaSoARNrmSZ6QRM8G4Ev/08a3dd4653efbda42894c90b374b6bcf/oai_Preply_1x1.png?w=3840&q=90&fm=webp)
 
-[What Codex unlocks for NotionJun 9, 2026](</index/notion/>)
+[How Preply combines AI and human tutors to personalize learningJun 12, 2026](</index/preply/>)
 
-![Frame](https://images.ctfassets.net/kftzwdyauwt9/5PD5E0PhvNP8ogbhvNxdKF/42a592f5b93580d940065610304c3f22/Frame.png?w=3840&q=90&fm=webp)
+![Supporting Europe’s work in ensuring a trustworthy AI ecosystem  > art card](https://images.ctfassets.net/kftzwdyauwt9/U3OuQtdga2BaxWxb0e2ge/2fdc2fb1cf5c70a8f77fc4b55236aa78/Frame2.png?w=3840&q=90&fm=webp)
 
-Industrial policy for the Intelligence Age
-
-[Industrial policy for the Intelligence AgeGlobal AffairsJun 9, 2026](</index/industrial-policy-for-the-intelligence-age/>)
+[Supporting Europe’s work in ensuring a trustworthy AI ecosystem Global AffairsJun 11, 2026](</index/supporting-eu-trustworthy-ai-ecosystem/>)
 
 Research
 

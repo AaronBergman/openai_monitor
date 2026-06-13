@@ -36,6 +36,7 @@ OpenAI
   * [Security](</news/security/>)
   * [Global Affairs](</news/global-affairs/>)
   * [AI Adoption](</news/ai-adoption/>)
+  * [Applied AI](</news/applied-ai/>)
   * [All](</news/>)
 
 
@@ -49,6 +50,20 @@ Sort
 Switch cards to show Media
 
 Switch cards to hide Media
+
+![Supporting Europe’s work in ensuring a trustworthy AI ecosystem  > art card](https://images.ctfassets.net/kftzwdyauwt9/U3OuQtdga2BaxWxb0e2ge/2fdc2fb1cf5c70a8f77fc4b55236aa78/Frame2.png?w=3840&q=90&fm=webp)
+
+[Supporting Europe’s work in ensuring a trustworthy AI ecosystem Global AffairsJun 11, 2026](</index/supporting-eu-trustworthy-ai-ecosystem/>)
+
+![PRC-linked influence > Art Card](https://images.ctfassets.net/kftzwdyauwt9/2WkDQ2w51892xwY7QHwkRC/ec5f7b504805e36db928c06cb313f53c/Threat-Intelligence-Repart-ArtCard.png?w=3840&q=90&fm=webp)
+
+[PRC-linked influence operations are targeting AI debates in the USGlobal AffairsJun 10, 2026](</index/prc-linked-influence-operations-ai-debates/>)
+
+![Frame](https://images.ctfassets.net/kftzwdyauwt9/5PD5E0PhvNP8ogbhvNxdKF/42a592f5b93580d940065610304c3f22/Frame.png?w=3840&q=90&fm=webp)
+
+Industrial policy for the Intelligence Age
+
+[Industrial policy for the Intelligence AgeGlobal AffairsJun 9, 2026](</index/industrial-policy-for-the-intelligence-age/>)
 
 ![oai 1x1 Biodefense in the Intelligence Age](https://images.ctfassets.net/kftzwdyauwt9/6A4rrCBs9rrlbzm9JWIvSi/8a4ae56849fcd0b16e90b59b8babc613/oai_1x1_Biodefense_in_the_Intelligence_Age.png?w=3840&q=90&fm=webp)
 
@@ -73,18 +88,6 @@ Switch cards to hide Media
 ![political-advocacy-1x1](https://images.ctfassets.net/kftzwdyauwt9/6iFKA29gSZlUpKEV8cHkSa/77f679c2f634e4c35f789debf339610b/political-advocacy-1x1.png?w=3840&q=90&fm=webp)
 
 [Our views on AI policy and political advocacyGlobal AffairsJun 1, 2026](</index/our-views-on-ai-policy-and-political-advocacy/>)
-
-![Building the infrastructure for the Intelligence Age in Michigan > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/4ky5b1SDOya3ZpkcZxRr8S/4cea852b9d54b0efeb7a68b4db3c1691/infrastructure-michigan-1x1.png?w=3840&q=90&fm=webp)
-
-[Building the infrastructure for the Intelligence Age in MichiganGlobal AffairsJun 1, 2026](</index/stargate-michigan-data-center/>)
-
-![Election-information-and-safeguards-2026-1x1](https://images.ctfassets.net/kftzwdyauwt9/1PIOFxgdB0GHT27el6DgMC/185fc0824187abd3b5739eaa121b5a4b/Election-information-and-safeguards-2026-1x1.png?w=3840&q=90&fm=webp)
-
-[Election information and safeguards in 2026Global AffairsMay 27, 2026](</index/election-safeguards-2026/>)
-
-![Grup-ArtCard](https://images.ctfassets.net/kftzwdyauwt9/6EEi4oJJ36NPbiw2Mkm1xZ/ee9da167bf08278df2759445f6bea88a/Grup-ArtCard.png?w=3840&q=90&fm=webp)
-
-[OpenAI, Grupo Folha, and Grupo UOL announce strategic content partnershipGlobal AffairsMay 25, 2026](</index/grupo-folha-grupo-uol-partnership/>)
 
 Load more
 

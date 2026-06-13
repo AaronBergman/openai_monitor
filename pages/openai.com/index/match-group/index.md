@@ -26,6 +26,14 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
+# Match Group
+
+![Match Group 1](https://images.ctfassets.net/kftzwdyauwt9/d55aa98f-f99d-4097-9f60dc24cf91/8a79be075a89ba5b0fbc90e46d681ff4/match_group.png?w=3840&q=90&fm=webp)
+
+Loading…
+
+Share
+
 Building great products is about more than tech
 
   * Building great products is about more than tech
@@ -34,13 +42,13 @@ Building great products is about more than tech
 
 
 
-# Match Group
+Table of contents
 
-![Match Group 1](https://images.ctfassets.net/kftzwdyauwt9/d55aa98f-f99d-4097-9f60dc24cf91/8a79be075a89ba5b0fbc90e46d681ff4/match_group.png?w=3840&q=90&fm=webp)
+  * Building great products is about more than tech
+  * Leveraging ChatGPT Enterprise for a happier, more productive company
+  * Supercharging people and products
 
-Loading…
 
-Share
 
 Match Group is the global leader in online dating with a portfolio of products including Tinder, Hinge, and OkCupid. They’re incorporating a new era of AI into their products and internal operations, finding that ChatGPT Enterprise is making their employees happier, more creative, and more successful.
 

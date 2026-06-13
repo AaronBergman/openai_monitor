@@ -26,16 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Improving performance on scientifically-valuable tasks
-
-  * Improving performance on scientifically-valuable tasks
-  * Stronger scientific reasoning
-  * From reasoning to executed workflows
-  * Expanded access for trusted organizations
-  * What’s next
-
-
-
 June 3, 2026
 
 [Product](</news/product-releases/>)[Research](</news/research/>)[Release](</research/index/release/>)
@@ -47,6 +37,26 @@ Bringing greater intelligence grounded in real scientific workflows for the life
 [Request access](</form/life-sciences-access/>)
 
 Share
+
+Improving performance on scientifically-valuable tasks
+
+  * Improving performance on scientifically-valuable tasks
+  * Stronger scientific reasoning
+  * From reasoning to executed workflows
+  * Expanded access for trusted organizations
+  * What’s next
+
+
+
+Table of contents
+
+  * Improving performance on scientifically-valuable tasks
+  * Stronger scientific reasoning
+  * From reasoning to executed workflows
+  * Expanded access for trusted organizations
+  * What’s next
+
+
 
 We’re introducing a new model update to our [GPT‑Rosalind](</gpt-rosalind/>) series purpose-built for life sciences research at enterprise scale. It combines GPT‑5.5’s agentic coding and tool-use capabilities with stronger model intelligence in core drug-discovery domains such as medicinal chemistry and genomics, while advancing performance across broader life sciences analysis, design, and experimental workflows.
 

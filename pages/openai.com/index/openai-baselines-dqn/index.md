@@ -26,14 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Best practices
-
-  * Best practices
-  * Deep Q-Learning
-  * Benchmarks
-
-
-
 May 24, 2017
 
 [Release](</research/index/release/>)
@@ -49,6 +41,22 @@ Illustration: Ben Barry
 Loading…
 
 Share
+
+Best practices
+
+  * Best practices
+  * Deep Q-Learning
+  * Benchmarks
+
+
+
+Table of contents
+
+  * Best practices
+  * Deep Q-Learning
+  * Benchmarks
+
+
 
 We’re open-sourcing OpenAI Baselines, our internal effort to reproduce reinforcement learning algorithms with performance on par with published results. We’ll release the algorithms over upcoming months; today’s release includes DQN and three of its variants.
 

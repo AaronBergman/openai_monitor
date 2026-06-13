@@ -100,7 +100,11 @@ One in a million: celebrating the customers shaping AI’s future
 
 Filter
 
-![BBVA  > oai bbva 1x1](https://images.ctfassets.net/kftzwdyauwt9/4Ygin6jpvTgfSBwBXZOJCb/b35ada397a08df55eda8dfc9a8ae7cdd/oai_BBVA_1x1.png?w=3840&q=90&fm=webp)
+![Preply Customer story > oai preply 1x1](https://images.ctfassets.net/kftzwdyauwt9/6PmaSoARNrmSZ6QRM8G4Ev/08a3dd4653efbda42894c90b374b6bcf/oai_Preply_1x1.png?w=3840&q=90&fm=webp)
+
+[How Preply combines AI and human tutors to personalize learningJun 12, 2026](</index/preply/>)
+
+![BBVA  > oai bbva 1x1](https://images.ctfassets.net/kftzwdyauwt9/4Ygin6jpvTgfSBwBXZOJCb/76cb2f180b135e568c6f2b73cb97b236/oai_BBVA_1x1.png?w=3840&q=90&fm=webp)
 
 [BBVA puts AI at the core of banking with OpenAIJun 11, 2026](</index/bbva/>)
 
@@ -143,10 +147,6 @@ Filter
 ![MUFG customer story 1x1 hero and card image](https://images.ctfassets.net/kftzwdyauwt9/NuwuwCk19PIxGLHg92dkW/92c24518bb5432f9491b801b006fa7e4/oai_MUFG_1x1.png?w=3840&q=90&fm=webp)
 
 [MUFG aims to become AI-native with OpenAIMay 28, 2026](</index/mufg/>)
-
-![oai Cisco 1x1](https://images.ctfassets.net/kftzwdyauwt9/34uiao4dZziOAyyKO40gSJ/cb6842aa761bc32b495d19976ced17bd/oai_Cisco_1x1.png?w=3840&q=90&fm=webp)
-
-[Cisco and OpenAI redefine enterprise engineering with CodexMay 27, 2026](</index/cisco/>)
 
 Load more
 

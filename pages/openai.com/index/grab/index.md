@@ -26,6 +26,14 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
+# Grab builds smarter maps for Southeast Asia with vision fine-tuning 
+
+![Grab logo overlaid on a photo of grass](https://images.ctfassets.net/kftzwdyauwt9/1x5OOM2XxDjctQLwlSS4iK/2f7821bed65eff740cd32114d3cf9add/oai_grab_hero.png?w=3840&q=90&fm=webp)
+
+Loading…
+
+Share
+
 Mapping Southeast Asia for better mobility
 
   * Mapping Southeast Asia for better mobility
@@ -35,13 +43,14 @@ Mapping Southeast Asia for better mobility
 
 
 
-# Grab builds smarter maps for Southeast Asia with vision fine-tuning 
+Table of contents
 
-![Grab logo overlaid on a photo of grass](https://images.ctfassets.net/kftzwdyauwt9/1x5OOM2XxDjctQLwlSS4iK/2f7821bed65eff740cd32114d3cf9add/oai_grab_hero.png?w=3840&q=90&fm=webp)
+  * Mapping Southeast Asia for better mobility
+  * Using vision fine-tuning to automate mapmaking
+  * Reducing costs and driving trust in data
+  * Expanding to greater accessibility and responsiveness
 
-Loading…
 
-Share
 
 [ _Grab_ ⁠(opens in a new window)](<https://www.grab.com/sg/>) is a leading food delivery and rideshare company in Southeast Asia, servicing almost 42 million monthly users across eight countries.
 

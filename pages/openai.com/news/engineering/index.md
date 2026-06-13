@@ -38,6 +38,7 @@ Stories about the technology and builders at OpenAI.
   * [Security](</news/security/>)
   * [Global Affairs](</news/global-affairs/>)
   * [AI Adoption](</news/ai-adoption/>)
+  * [Applied AI](</news/applied-ai/>)
   * [All](</news/>)
 
 

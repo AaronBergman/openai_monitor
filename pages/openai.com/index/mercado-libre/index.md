@@ -26,6 +26,14 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
+# Mercado Libre introduces Verdi, an AI developer platform powered by GPT‑4o
+
+![Mercado > Hero > Media](https://images.ctfassets.net/kftzwdyauwt9/56H4Y3LMFVk1mmgdOgYq1Z/3a1df82967404f0bd189400cb4de1f2f/oai_mercado_hero.png?w=3840&q=90&fm=webp)
+
+Loading…
+
+Share
+
 Driving productivity and efficiency gains with OpenAI
 
   * Driving productivity and efficiency gains with OpenAI
@@ -36,13 +44,15 @@ Driving productivity and efficiency gains with OpenAI
 
 
 
-# Mercado Libre introduces Verdi, an AI developer platform powered by GPT‑4o
+Table of contents
 
-![Mercado > Hero > Media](https://images.ctfassets.net/kftzwdyauwt9/56H4Y3LMFVk1mmgdOgYq1Z/3a1df82967404f0bd189400cb4de1f2f/oai_mercado_hero.png?w=3840&q=90&fm=webp)
+  * Driving productivity and efficiency gains with OpenAI
+  * Saving millions with a new development platform 
+  * Delivering a new standard with security and routing logic 
+  * Building Verdi for simplicity and scale
+  * Expanding Verdi to solve any problem
 
-Loading…
 
-Share
 
 [ _Mercado Libre_ ⁠(opens in a new window)](<https://mercadolibre.com/>) is Latin America’s largest e-commerce and fintech company. In their 25-year history, Mercado Libre has grown exponentially, earning them the title of most valuable company in LATAM.
 

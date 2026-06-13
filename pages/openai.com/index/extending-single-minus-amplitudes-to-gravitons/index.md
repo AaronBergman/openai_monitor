@@ -26,14 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Understanding single-minus amplitudes in gravity
-
-  * Understanding single-minus amplitudes in gravity
-  * Methodology and verification
-  * What’s next
-
-
-
 March 4, 2026
 
 [Research](</news/research/>)[Publication](</research/index/publication/>)
@@ -47,6 +39,22 @@ Researchers used GPT‑5.2 Pro to help find a new mathematical result describing
 Loading…
 
 Share
+
+Understanding single-minus amplitudes in gravity
+
+  * Understanding single-minus amplitudes in gravity
+  * Methodology and verification
+  * What’s next
+
+
+
+Table of contents
+
+  * Understanding single-minus amplitudes in gravity
+  * Methodology and verification
+  * What’s next
+
+
 
 We’ve published a new preprint studying scattering amplitudes in quantum gravity, extending [recent results obtained for gluons](</index/new-result-theoretical-physics/>) to the gravitational setting. The work shows that a class of graviton interactions long assumed to vanish can in fact arise under well-defined kinematic conditions. The preprint is available [here⁠(opens in a new window)](<https://cdn.openai.com/pdf/graviton.pdf>). We welcome feedback from the community.
 
