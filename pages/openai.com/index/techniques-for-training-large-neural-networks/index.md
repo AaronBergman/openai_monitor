@@ -26,17 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-No parallelism
-
-  * No parallelism
-  * Data parallelism
-  * Pipeline parallelism
-  * Tensor parallelism
-  * Mixture-of-Experts (MoE)
-  * Other memory saving designs
-
-
-
 June 9, 2022
 
 [Publication](</research/index/publication/>)
@@ -48,6 +37,28 @@ June 9, 2022
 Loading…
 
 Share
+
+No parallelism
+
+  * No parallelism
+  * Data parallelism
+  * Pipeline parallelism
+  * Tensor parallelism
+  * Mixture-of-Experts (MoE)
+  * Other memory saving designs
+
+
+
+Table of contents
+
+  * No parallelism
+  * Data parallelism
+  * Pipeline parallelism
+  * Tensor parallelism
+  * Mixture-of-Experts (MoE)
+  * Other memory saving designs
+
+
 
 Large neural networks are at the core of many recent advances in AI, but training them is a difficult engineering and research challenge which requires orchestrating a cluster of GPUs to perform a single synchronized calculation.
 

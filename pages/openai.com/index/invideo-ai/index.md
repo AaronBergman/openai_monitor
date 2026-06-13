@@ -26,14 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Turning OpenAI models into a video production system
-
-  * Turning OpenAI models into a video production system
-  * Optimizing performance for any platform or audience with GPT-4.1, gpt-image-1, and text-to-speech models
-  * Scaling alongside OpenAI’s evolving model ecosystem
-
-
-
 July 17, 2025
 
 # Invideo AI enables anyone with an idea to produce high-quality videos
@@ -45,6 +37,22 @@ Built on GPT‑4.1, image generation in the API, and text-to-speech models, invi
 Loading…
 
 Share
+
+Turning OpenAI models into a video production system
+
+  * Turning OpenAI models into a video production system
+  * Optimizing performance for any platform or audience with GPT-4.1, gpt-image-1, and text-to-speech models
+  * Scaling alongside OpenAI’s evolving model ecosystem
+
+
+
+Table of contents
+
+  * Turning OpenAI models into a video production system
+  * Optimizing performance for any platform or audience with GPT-4.1, gpt-image-1, and text-to-speech models
+  * Scaling alongside OpenAI’s evolving model ecosystem
+
+
 
 Creating high-quality videos for marketing, sales, and social media has traditionally required working across complex software with manual timelines, which can be time-intensive for small teams and solo creators. 
 

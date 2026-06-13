@@ -26,19 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Background on SWE-bench
-
-  * Background on SWE-bench
-  * Adapting SWE-bench as a Preparedness Evaluation
-  * SWE-bench Verified
-  * Our Approach
-  * Annotation Results
-  * Performance on SWE-bench Verified
-  * Discussion & Limitations
-  * Data downloads
-
-
-
 August 13, 2024
 
 [Milestone](</research/index/milestone/>)
@@ -52,6 +39,32 @@ We’re releasing a human-validated subset of SWE-bench that more reliably evalu
 Loading…
 
 Share
+
+Background on SWE-bench
+
+  * Background on SWE-bench
+  * Adapting SWE-bench as a Preparedness Evaluation
+  * SWE-bench Verified
+  * Our Approach
+  * Annotation Results
+  * Performance on SWE-bench Verified
+  * Discussion & Limitations
+  * Data downloads
+
+
+
+Table of contents
+
+  * Background on SWE-bench
+  * Adapting SWE-bench as a Preparedness Evaluation
+  * SWE-bench Verified
+  * Our Approach
+  * Annotation Results
+  * Performance on SWE-bench Verified
+  * Discussion & Limitations
+  * Data downloads
+
+
 
  _Updated February 24, 2025_
 

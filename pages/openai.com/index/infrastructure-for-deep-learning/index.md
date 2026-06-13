@@ -26,15 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-The use case
-
-  * The use case
-  * An example
-  * Infrastructure
-  * kubernetes-ec2-autoscaler
-
-
-
 August 29, 2016
 
 [Conclusion](</research/index/conclusion/>)
@@ -48,6 +39,24 @@ Illustration: Ludwig Pettersson
 Loading…
 
 Share
+
+The use case
+
+  * The use case
+  * An example
+  * Infrastructure
+  * kubernetes-ec2-autoscaler
+
+
+
+Table of contents
+
+  * The use case
+  * An example
+  * Infrastructure
+  * kubernetes-ec2-autoscaler
+
+
 
 Deep learning is an empirical science, and the quality of a group’s infrastructure is a multiplier on progress. Fortunately, today’s open-source ecosystem makes it possible for anyone to build great deep learning infrastructure.
 

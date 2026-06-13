@@ -26,6 +26,16 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
+# Rox goes “all in” on OpenAI
+
+By combining commercial experience and deep LLM expertise with OpenAI’s models, Rox makes every seller a top 1% seller.
+
+![Rox logo overlaid on an abstract photograph](https://images.ctfassets.net/kftzwdyauwt9/2yttJGS23UEhNnVHwdDNhK/77a1c679e013d7a58d690a72119d7c53/oai_rox_hero.png?w=3840&q=90&fm=webp)
+
+Loading…
+
+Share
+
 Addressing revenue teams’ evolving needs
 
   * Addressing revenue teams’ evolving needs
@@ -36,15 +46,15 @@ Addressing revenue teams’ evolving needs
 
 
 
-# Rox goes “all in” on OpenAI
+Table of contents
 
-By combining commercial experience and deep LLM expertise with OpenAI’s models, Rox makes every seller a top 1% seller.
+  * Addressing revenue teams’ evolving needs
+  * Building Rox: A configurable revenue platform informed by top sellers
+  * Doubling sales-accepted pipeline 
+  * Building with the right partner 
+  * Maximizing GTM revenue potential with OpenAI
 
-![Rox logo overlaid on an abstract photograph](https://images.ctfassets.net/kftzwdyauwt9/2yttJGS23UEhNnVHwdDNhK/77a1c679e013d7a58d690a72119d7c53/oai_rox_hero.png?w=3840&q=90&fm=webp)
 
-Loading…
-
-Share
 
 [ _Rox_ ⁠(opens in a new window)](<https://www.rox.com/>) is reshaping how sales teams manage and grow revenue. Their platform combines fragmented data into a unified system of record and delivers insights through always-on AI agents swarms powered by OpenAI.
 

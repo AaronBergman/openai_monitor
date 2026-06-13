@@ -26,6 +26,10 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
+Select language
+
+…
+
 Updated: December 1, 2025
 
 # OpenAI Services Agreement
@@ -34,9 +38,7 @@ Updated: December 1, 2025
 
 **Effective: January 1, 2026**
 
-* * *
-
- _This OpenAI Services Agreement only applies to use of OpenAI 's APIs, ChatGPT Enterprise, ChatGPT Business, ChatGPT for Clinicians, and other services for customers who are businesses and developers, and does not apply to OpenAI services used by consumers or individuals unless specified above._
+ _This OpenAI Services Agreement only applies to use of OpenAI’s APIs, ChatGPT Enterprise, ChatGPT Business, ChatGPT for Clinicians, and other services for customers who are businesses and developers, and does not apply to OpenAI services used by consumers or individuals unless specified above._
 
 * * *
 
@@ -168,7 +170,7 @@ This OpenAI Services Agreement (“ _Agreement_ ”) is entered as of the Effect
 ## 15\. Dispute Resolution.
 
   * 15.1. _Mandatory Arbitration_. Customer and OpenAI agree to resolve any Disputes, regardless of when they arose, even if it was before this Agreement existed, through final and binding arbitration.
-  * 15.2. _Informal Dispute Resolution_. OpenAI wants to understand and address Customer concerns prior to formal legal action. The Parties agree to try to resolve Disputes informally before filing a claim against one another. Customer will do so by completing the Informal Dispute Resolution Form. OpenAI will do so by notifying Customer at the Account email address. If the Parties cannot resolve a Dispute within sixty days, either Party may initiate arbitration. Both Parties also agree to attend an individual settlement conference if either Party requests one during this time. Any statute of limitations will be tolled during this informal resolution process.
+  * 15.2. [_Informal Dispute Resolution_ ⁠](<https://openai.com/form/informal-dispute/>). OpenAI wants to understand and address Customer concerns prior to formal legal action. The Parties agree to try to resolve Disputes informally before filing a claim against one another. Customer will do so by completing the [Informal Dispute Resolution Form⁠](<https://openai.com/form/informal-dispute/>). OpenAI will do so by notifying Customer at the Account email address. If the Parties cannot resolve a Dispute within sixty days, either Party may initiate arbitration. Both Parties also agree to attend an individual settlement conference if either Party requests one during this time. Any statute of limitations will be tolled during this informal resolution process.
   * 15.3. _Generally_. Customer and OpenAI agree to resolve any Disputes through final and binding arbitration, except as set forth below. Either Party may commence binding arbitration through NAM, or, if NAM is not available, an alternative arbitral forum selected by the Parties. The initiating Party will pay all filing fees for the arbitration and payment for other administrative and arbitrator’s costs will be governed by the arbitration provider’s rules. If a Party’s claim is determined to be frivolous, the Party who initiated the frivolous claim is responsible for reimbursing the other Party for all administrative, hearing, and other fees incurred as a result of the frivolous claim.
   * 15.4. _Procedure_. The arbitration will be conducted by telephone, based on written submissions, video conference, or in person in San Francisco, California or at another mutually agreed location. The arbitration will be conducted by a sole arbitrator by NAM under its then-prevailing rules. All issues are for the arbitrator to decide, except a California court has the authority to determine: (a) if a provision of this arbitration section should be severed and the consequences of that severance; (b) whether the Parties have complied with conditions precedent to arbitration; and (c) whether an arbitration provider is available to hear the arbitration. The amount of any settlement offer will not be disclosed to the arbitrator by either party until after the arbitrator determines the final award, if any.
   * 15.5. _Exceptions_. Nothing in this Agreement requires arbitration of the following claims: (a) individual claims brought in small claims court; and (b) injunctive or other equitable relief to stop unauthorized use or abuse of the Services or intellectual property infringement.
@@ -202,6 +204,7 @@ Policies.
 
 ## 17\. Definitions.
 
+  
 “ _Abusive Customer Content_ ” means Inputs or Outputs that violate Section 3.3.
 
 “ _Account_ ” means an administrative account provided to Customer by OpenAI for the purpose of administering the Services.
@@ -254,7 +257,7 @@ Policies.
 
 “ _Healthcare Addendum_ ” means the OpenAI Healthcare Addendum and Business Associate Agreement provided by OpenAI to Customer.
 
-“ _Informal Dispute Resolution Form_ ” means the form located at [this link⁠(opens in a new window)](<https://docs.google.com/forms/d/e/1FAIpQLSe6iKNzSYs6mc8CRR1EIGk1yzh9S6BhJUperYaWr5FaElrk0g/viewform>).
+“ _Informal Dispute Resolution Form_ ” means the form located at [this link⁠](<https://openai.com/form/informal-dispute/>).
 
 “ _Initial Term_ ” means the initial term for the Services beginning on the Start Date and continuing for the duration set forth on the Order Form.
 
@@ -309,7 +312,7 @@ jurisdiction, inside or outside the U.S., now or in the future.
 
 “ _Start Date_ ” means the date an Initial Term, or Renewal Term, begins. Start Dates are listed on the Order Form. Note that if Customer renews without a new Order Form, the Start Date for that Renewal Term will be calculated based on the original Start Date.
 
-“ _Supported Countries and Territories_ ” means the countries and territories for which OpenAI supports access to API Services and our ChatGPT services. These countries and territories are available at: [https://help.openai.com/en/articles/5347006-openai-api-supported-countries-and-territories⁠(opens in a new window)](<https://help.openai.com/en/articles/5347006-openai-api-supported-countries-and-territories>) (for API) or [https://help.openai.com/en/articles/7947663-chatgpt-supported-countries⁠(opens in a new window)](<https://help.openai.com/en/articles/7947663-chatgpt-supported-countries>) (for ChatGPT), and may be updated from time to time.
+“ _Supported Countries and Territories_ ” means the countries and territories for which OpenAI supports access to API Services and our ChatGPT services. These countries and territories are available at: [https://help.openai.com/articles/5347006-openai-api-supported-countries-and-territories⁠(opens in a new window)](<https://help.openai.com/articles/5347006-openai-api-supported-countries-and-territories>) (for API) or [https://help.openai.com/articles/7947663-chatgpt-supported-countries⁠(opens in a new window)](<https://help.openai.com/articles/7947663-chatgpt-supported-countries>) (for ChatGPT), and may be updated from time to time.
 
 “ _Term_ ” means the term of the Agreement, which will begin on the Effective Date and continue until the earlier of: (i) the end of the Services Term; or (ii) termination of the Agreement as set forth herein.
 

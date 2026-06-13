@@ -26,14 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Addressing limitations of legacy research workflows
-
-  * Addressing limitations of legacy research workflows
-  * Four lessons from Balyasny’s approach to AI at scale
-  * A playbook delivering results in hours—not days
-
-
-
 March 6, 2026
 
 # How Balyasny Asset Management built an AI research engine
@@ -67,6 +59,22 @@ With agents powered by OpenAI models, deep research tasks that once required day
 Loading…
 
 Share
+
+Addressing limitations of legacy research workflows
+
+  * Addressing limitations of legacy research workflows
+  * Four lessons from Balyasny’s approach to AI at scale
+  * A playbook delivering results in hours—not days
+
+
+
+Table of contents
+
+  * Addressing limitations of legacy research workflows
+  * Four lessons from Balyasny’s approach to AI at scale
+  * A playbook delivering results in hours—not days
+
+
 
 [ _Balyasny Asset Management⁠_ ⁠(opens in a new window)](<https://www.bamfunds.com/>) (Balyasny) is a global, multi-strategy investment firm with approximately 180 investment teams across diverse asset classes and geographies. The firm operates in a highly competitive and dynamic industry where conviction, precision, and speed are all critical to success. Facing an increasingly complex market environment with surging volumes of financial data, Balyasny saw an opportunity to reimagine the investment research process using AI. 
 
@@ -154,19 +162,17 @@ More than 1 million businesses around the world are achieving meaningful results
 
 ## Keep reading
 
-![Nextdoor customer stories > oai 1x1](https://images.ctfassets.net/kftzwdyauwt9/2VQiKydNUVAutnHRuCIV4S/3262cc8deff3fe49c6b512f854e14dcf/oai_Nextdoor_1x1.png?w=3840&q=90&fm=webp)
+![Introducing OpenAI Academy courses > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/2mmXo430NiaNqyi6YrRtnh/715ab11fa5003dd50acff55adcb4a5fd/Frame.png?w=3840&q=90&fm=webp)
 
-[How engineers at Nextdoor use Codex to build without limitsJun 9, 2026](</index/nextdoor/>)
+[New OpenAI Academy courses for the next era of workAI AdoptionJun 12, 2026](</index/academy-courses-applying-ai-at-work/>)
 
-![Notion > cover image](https://images.ctfassets.net/kftzwdyauwt9/2HBxiM1dDPpM1W56ehwgNi/01dc3dafe6aedcabc9808446492523ea/oai_Notion_1x1.png?w=3840&q=90&fm=webp)
+![Preply Customer story > oai preply 1x1](https://images.ctfassets.net/kftzwdyauwt9/6PmaSoARNrmSZ6QRM8G4Ev/08a3dd4653efbda42894c90b374b6bcf/oai_Preply_1x1.png?w=3840&q=90&fm=webp)
 
-[What Codex unlocks for NotionJun 9, 2026](</index/notion/>)
+[How Preply combines AI and human tutors to personalize learningJun 12, 2026](</index/preply/>)
 
-![Frame](https://images.ctfassets.net/kftzwdyauwt9/5PD5E0PhvNP8ogbhvNxdKF/42a592f5b93580d940065610304c3f22/Frame.png?w=3840&q=90&fm=webp)
+![Supporting Europe’s work in ensuring a trustworthy AI ecosystem  > art card](https://images.ctfassets.net/kftzwdyauwt9/U3OuQtdga2BaxWxb0e2ge/2fdc2fb1cf5c70a8f77fc4b55236aa78/Frame2.png?w=3840&q=90&fm=webp)
 
-Industrial policy for the Intelligence Age
-
-[Industrial policy for the Intelligence AgeGlobal AffairsJun 9, 2026](</index/industrial-policy-for-the-intelligence-age/>)
+[Supporting Europe’s work in ensuring a trustworthy AI ecosystem Global AffairsJun 11, 2026](</index/supporting-eu-trustworthy-ai-ecosystem/>)
 
 Research
 

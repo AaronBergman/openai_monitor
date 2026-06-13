@@ -26,14 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Why provenance matters
-
-  * Why provenance matters
-  * OpenAI’s multi-layered approach to provenance
-  * Making content transparency work in practice
-
-
-
 June 11, 2026
 
 [Global Affairs](</news/global-affairs/>)
@@ -45,6 +37,22 @@ OpenAI announces support for the EU Code of Practice on Transparency of AI-gener
 Loading…
 
 Share
+
+Why provenance matters
+
+  * Why provenance matters
+  * OpenAI’s multi-layered approach to provenance
+  * Making content transparency work in practice
+
+
+
+Table of contents
+
+  * Why provenance matters
+  * OpenAI’s multi-layered approach to provenance
+  * Making content transparency work in practice
+
+
 
 People are using AI to create and edit content in new ways. As these tools become more capable and more widely used, people should have context about the content they see online.
 

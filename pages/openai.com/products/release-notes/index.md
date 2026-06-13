@@ -43,78 +43,104 @@ Sort
 
 API
 
-Jun 4, 2026
+Jun 9, 2026
 
 GA
 
-## Added moderation scores to API generation requests
+## Web search image results for the Responses API
 
-Added moderation scores to the Responses API and Chat Completions API. Pass a moderation object in a generation request to receive moderation results for both the model input and generated output in the same response.
+Web search can now return image results alongside regular text results. Use image search when your application needs current or web-grounded visuals, such as product photos, landmarks, places, events, or visual references.
 
-[View source(opens in a new window)](<https://developers.openai.com/api/docs/guides/moderation#moderate-generated-content>)
-
-ChatGPT
-
-Jun 4, 2026
-
-GA
-
-## Memory that stays more up to date
-
-We’ve upgraded memory so ChatGPT can better keep your context up to date, helping responses stay more relevant. This makes memory more useful by reducing stale or contradictory saved memories and helps ChatGPT better understand your preferences, goals, and ongoing work. You can review the memories that ChatGPT may use to personalize responses through sources or in your memory summary.
-
-Memories are now updated automatically, with ChatGPT keeping track of the details it determines are most important so it can continue building on the context you’ve already shared. If you prefer to revert to the legacy saved memories system, go to Settings > Memory > Saved memories.
-
-This update is rolling out to Plus and Pro users in the US today. To access it on iOS or Android, update your ChatGPT app to the latest version. We’ll expand to Free and Go plans and additional countries over the next few weeks. Users will receive an in-product notice when the update becomes available to them. For Plus and Pro users, ChatGPT can also remember more useful context, with twice as much memory capacity.
-
-[View source(opens in a new window)](<https://help.openai.com/en/articles/6825453-chatgpt-release-notes#memory-that-stays-more-up-to-date>)
-
-ChatGPT
-
-Jun 4, 2026
-
-GA
-
-## Lockdown Mode is now available to all logged-in users
-
-Lockdown Mode is now available to all logged-in users across account types and workspaces. It is an optional opt-in advanced security setting that limits access to the web and external services to help reduce the risk of data exfiltration from prompt injection attacks.
-
-When Lockdown Mode is on, ChatGPT restricts network-enabled capabilities such as live web browsing, deep research, agent mode, file downloads, and some web-derived image support. Personal users can turn it on from Settings > Security. Workspace admins can configure access for members through workspace settings and role-based access controls.
-
-[View source(opens in a new window)](<https://help.openai.com/en/articles/6825453-chatgpt-release-notes#lockdown-mode-is-now-available-to-all-logged-in-users>)[Help center(opens in a new window)](<https://help.openai.com/en/articles/20001061-lockdown-mode>)
-
-ChatGPT
-
-Jun 4, 2026
-
-GA
-
-## Rolling out ads in the UK
-
-We're beginning to roll out ads for users on Free and Go plans in the UK. Plus, Pro, Business, Enterprise, and Education plans will remain ad-free.
-
-[View source(opens in a new window)](<https://help.openai.com/en/articles/6825453-chatgpt-release-notes#rolling-out-ads-in-the-uk>)
+[View source(opens in a new window)](<https://developers.openai.com/api/docs/guides/tools-web-search>)
 
 Codex
 
-Jun 4, 2026
+Jun 9, 2026
 
 GA
 
-## Codex app updates: profile insights and share cards
+## ChatGPT for iOS updates: worktrees, Codex profiles, goals, and inline review comments
 
 New features
 
-\- Added activity insights and share cards to the Profile section. You can review Codex usage highlights and save a profile card; sharing is available on consumer ChatGPT plans.
+\- Added support for choosing a branch, creating a worktree, and running an environment setup script for new threads.  
+\- Added a Codex profile screen with usage stats and token activity charts.  
+\- Added /goal support for creating and managing goals from Codex Mobile.  
+\- Added inline review comments when viewing changed files.  
+\- Added support for asking in side chat from selected transcript text.  
+\- Added support for editing the latest sent prompt.
 
-Performance improvements and bug fixes
+Improvements and bug fixes
 
-\- Improved Computer Use startup readiness and appshot error reporting.  
-\- Fixed browser and review UI issues, including fullscreen browser composer controls, hex color swatches, terminal scrollbar alignment, and animated diff stat alignment.  
-\- Expanded onboarding with more role choices so Codex can tailor first-run suggestions more accurately.  
-\- Additional performance improvements and bug fixes.
+\- Improved attachment support on Windows hosts.  
+\- Skills and plugins now appear directly inline in the composer.  
+\- Improved side chat and queued prompt visibility while a thread is running.  
+\- Improved message styling, navigation, tool activity, Face ID behavior, archived-thread browsing, and thread UI polish.
 
-[View source(opens in a new window)](<https://developers.openai.com/codex/changelog#codex-2026-06-04-app>)[Platform docs(opens in a new window)](<https://developers.openai.com/codex/app/settings#profile>)
+[View source(opens in a new window)](<https://developers.openai.com/codex/changelog#codex-2026-06-09-mobile>)
+
+ChatGPT
+
+Jun 8, 2026
+
+GA
+
+## App permissions for connected apps
+
+Workspace admins can now use App permissions, where available, to choose when ChatGPT asks members before using connected apps. Admins can set a workspace-wide default and choose a different permission for individual apps, with options such as Always ask, Any changes, and Important actions.
+
+Important actions is the default and allows ChatGPT to read from apps automatically while asking before actions that may have a meaningful effect outside ChatGPT, expose sensitive information, or be difficult to undo. App permissions replace the previous Action consent setting where available, while app access, RBAC, and Action control remain separate admin controls.
+
+[View source(opens in a new window)](<https://help.openai.com/en/articles/10128477-chatgpt-enterprise-edu-release-notes#app-permissions-for-connected-apps>)[Help center(opens in a new window)](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)[Help center(opens in a new window)](<https://help.openai.com/en/articles/11509118-admin-controls-security-and-compliance-in-apps-enterprise-edu-and-business>)
+
+ChatGPT
+
+Jun 8, 2026
+
+GA
+
+## ChatGPT app experience updates
+
+Improvement to charts, table of contents and full screen writing. Also fixes long-standing issues around editing messages with attachments, and various other bug fixes.
+
+Web, iOS, and Android
+
+\- Interactive charts in answers: ChatGPT can now turn some answers into rich and interactive bar, line, pie, and scatter charts directly in the conversation. Ask for a chart, or ChatGPT may include one when it helps make trends and comparisons easier to understand.
+
+Web
+
+\- Table of contents in longer conversations: Conversations longer than five responses can now include a table of contents, so you can scan sections and jump to the part you need.  
+\- Full-screen writing blocks for longer-form work: Writing blocks now cover long-form writing use cases, including essays, PRDs, reports, blog posts, notes, and other document work. Longer writing can now open in a focused full-screen editor. You can save your document to the Library, so you can find, reuse, or edit documents later.
+
+The experience also adds a wider document layout, cleaner titles, a table of contents for long documents, download support, undo and redo fixes, improved save behavior, and clearer loading states.
+
+\- Send an email directly from within a chat: If you’ve connected Gmail or Outlook, you can now ask ChatGPT to draft and send emails directly from the same conversation. ChatGPT will create a draft and you can choose to send it without leaving ChatGPT. Sending emails is available on the web for users on Plus, Pro, Business, and Enterprise plans with Gmail or Outlook connected.
+
+iOS
+
+\- Edit messages with attachments: You can now edit messages that include attachments, so you can revise your prompt without starting over.  
+\- Long-press send to choose a model: Users on paid plans can now long-press the send button to choose a model for a one-off message without changing their default model.  
+\- Autocorrection applies before sending: Last-second auto-corrections now automatically apply as before your message is sent to avoid typos.  
+\- Immediate image previews after sending: When you upload an image on iOS, ChatGPT used to show a grey box after you sent your message. Now it shows the preview right away so that it’s clear which photo you sent.  
+\- Cleaned up logged-out mobile web experience: Logged-out users now see a composer in the middle of the screen to avoid being blocked by popups. The sidebar has also been simplified.
+
+Android
+
+\- Cleaner edit-message flow: Android now makes it clearer when you’re editing a previous message.
+
+[View source(opens in a new window)](<https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-app-experience-updates>)
+
+API
+
+Jun 5, 2026
+
+GA
+
+## Redesigned navigation for the OpenAI API platform
+
+Released a redesigned navigation for the OpenAI API platform.
+
+[View source(opens in a new window)](<https://platform.openai.com/>)
 
 Load more
 

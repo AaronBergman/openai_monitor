@@ -26,13 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Background
-
-  * Background
-  * Exploiting Nonlinearities with Evolution Strategies
-
-
-
 September 29, 2017
 
 [Conclusion](</research/index/conclusion/>)
@@ -44,6 +37,20 @@ September 29, 2017
 Loading…
 
 Share
+
+Background
+
+  * Background
+  * Exploiting Nonlinearities with Evolution Strategies
+
+
+
+Table of contents
+
+  * Background
+  * Exploiting Nonlinearities with Evolution Strategies
+
+
 
 We’ve shown that deep linear networks—as implemented using floating-point arithmetic—are not actually linear and can perform nonlinear computation. We used [evolution strategies⁠](</index/nonlinear-computation-in-linear-networks/#ES>) to find parameters in linear networks that exploit this trait, letting us solve non-trivial problems.
 

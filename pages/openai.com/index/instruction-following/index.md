@@ -26,6 +26,16 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
+January 27, 2022
+
+[Publication](</research/index/publication/>)
+
+# Aligning language models to follow instructions
+
+[Read paper(opens in a new window)](<https://arxiv.org/abs/2203.02155>)[View model card(opens in a new window)](<https://github.com/openai/following-instructions-human-feedback>)
+
+Loading…
+
 Results
 
   * Results
@@ -36,15 +46,15 @@ Results
 
 
 
-January 27, 2022
+Table of contents
 
-[Publication](</research/index/publication/>)
+  * Results
+  * Methods
+  * Generalizing to broader preferences
+  * Limitations
+  * Next steps
 
-# Aligning language models to follow instructions
 
-[Read paper(opens in a new window)](<https://arxiv.org/abs/2203.02155>)[View model card(opens in a new window)](<https://github.com/openai/following-instructions-human-feedback>)
-
-Loading…
 
 We’ve trained language models that are much better at following user intentions than GPT‑3 while also making them more truthful and less toxic, using techniques developed through our alignment research. These  _InstructGPT_ models, which are trained with humans in the loop, are now deployed as the default language models on our API.
 

@@ -26,15 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Enhanced enterprise-grade security
-
-  * Enhanced enterprise-grade security
-  * Better administrative control
-  * Assistants API improvements
-  * More options for cost management
-
-
-
 April 23, 2024
 
 [Product](</news/product-releases/>)
@@ -46,6 +37,24 @@ April 23, 2024
 Loading…
 
 Share
+
+Enhanced enterprise-grade security
+
+  * Enhanced enterprise-grade security
+  * Better administrative control
+  * Assistants API improvements
+  * More options for cost management
+
+
+
+Table of contents
+
+  * Enhanced enterprise-grade security
+  * Better administrative control
+  * Assistants API improvements
+  * More options for cost management
+
+
 
 We work with many enterprises like [Klarna⁠](<https://openai.com/customer-stories/klarna>), [Morgan Stanley⁠](<https://openai.com/customer-stories/morgan-stanley>), [Oscar⁠](<https://openai.com/customer-stories/oscar>), [Salesforce⁠](<https://openai.com/customer-stories/salesforce>), and [Wix⁠](<https://openai.com/customer-stories/wix>) to help them build AI solutions from scratch and safely deploy AI across their organizations and products. We’re deepening our support for enterprises with new features that are useful for both large businesses and any developers who are scaling quickly on our platform.  
 

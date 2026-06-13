@@ -26,16 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Why do you think AI is especially critical for ecommerce?
-
-  * Why do you think AI is especially critical for ecommerce?
-  * Beyond customer improvements, how is Wayfair fostering AI fluency within the organization?
-  * How do you measure the success of these AI initiatives?
-  * What’s next for AI at Wayfair?
-  * How do you see AI reshaping the future of ecommerce?
-
-
-
 February 13, 2025
 
 [ChatGPT](</stories/chatgpt/>)[API](</stories/api/>)
@@ -50,7 +40,27 @@ Loading…
 
 Share
 
- _**Our Executive Function series features perspectives from leaders driving transformation through AI.**_
+Why do you think AI is especially critical for ecommerce?
+
+  * Why do you think AI is especially critical for ecommerce?
+  * Beyond customer improvements, how is Wayfair fostering AI fluency within the organization?
+  * How do you measure the success of these AI initiatives?
+  * What’s next for AI at Wayfair?
+  * How do you see AI reshaping the future of ecommerce?
+
+
+
+Table of contents
+
+  * Why do you think AI is especially critical for ecommerce?
+  * Beyond customer improvements, how is Wayfair fostering AI fluency within the organization?
+  * How do you measure the success of these AI initiatives?
+  * What’s next for AI at Wayfair?
+  * How do you see AI reshaping the future of ecommerce?
+
+
+
+_**Our Executive Function series features perspectives from leaders driving transformation through AI.**_
 
 [_Wayfair_ ⁠(opens in a new window)](<https://www.wayfair.com/>) is a U.S. ecommerce company based in Boston, Massachusetts, specializing in selling a wide range of furniture, home decor, and other household goods online and, more recently, in physical stores. We spoke with Fiona Tan, Chief Technology Officer, about AI reshaping the customer experience, streamlining operations, and its impact on employee upskilling.
 
@@ -144,9 +154,7 @@ OpenAI
 
 [Boosting the customer retail experience with GPT-4o miniDec 11, 2024](</index/zalando/>)
 
-![\[2.0\] Card > Media > BBVA](https://images.ctfassets.net/kftzwdyauwt9/68CWIJNeDPYLc9UFRsaiLY/724c0a211983b43bd989af3d9d814300/oai_BBVA_1_1.png?w=3840&q=90&fm=webp)
-
-[Empowering a global org with ChatGPTNov 21, 2024](</index/bbva/>)
+[](<>)
 
 Research
 

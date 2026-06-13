@@ -26,15 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Designing AMP for enterprise builders
-
-  * Designing AMP for enterprise builders
-  * An evaluation-first approach
-  * Building for voice at global scale
-  * Changing tech for changing customer journeys
-
-
-
 May 7, 2026
 
 Startup
@@ -58,6 +49,24 @@ Products: API
 Loading…
 
 Share
+
+Designing AMP for enterprise builders
+
+  * Designing AMP for enterprise builders
+  * An evaluation-first approach
+  * Building for voice at global scale
+  * Changing tech for changing customer journeys
+
+
+
+Table of contents
+
+  * Designing AMP for enterprise builders
+  * An evaluation-first approach
+  * Building for voice at global scale
+  * Changing tech for changing customer journeys
+
+
 
 In Parloa’s early days, Co-founder Stefan Ostwald spent a day inside an insurance call center, where his team had been building early voice experiences. Sitting alongside agents, he listened to the same conversations play out again and again: password resets, policy questions, routine changes. He realized much of that work could be automated.
 

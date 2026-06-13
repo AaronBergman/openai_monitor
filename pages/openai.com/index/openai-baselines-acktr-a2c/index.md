@@ -26,14 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Sample and computational efficiency
-
-  * Sample and computational efficiency
-  * Baseline and benchmarks
-  * A2C and A3C
-
-
-
 August 18, 2017
 
 [Release](</research/index/release/>)
@@ -49,6 +41,22 @@ Illustration: Ben Barry
 Loading…
 
 Share
+
+Sample and computational efficiency
+
+  * Sample and computational efficiency
+  * Baseline and benchmarks
+  * A2C and A3C
+
+
+
+Table of contents
+
+  * Sample and computational efficiency
+  * Baseline and benchmarks
+  * A2C and A3C
+
+
 
 We’re releasing two new OpenAI Baselines implementations: ACKTR and A2C. A2C is a synchronous, deterministic variant of Asynchronous Advantage Actor Critic (A3C) which we’ve found gives equal performance. ACKTR is a more sample-efficient reinforcement learning algorithm than TRPO and A2C, and requires only slightly more computation than A2C per update.
 

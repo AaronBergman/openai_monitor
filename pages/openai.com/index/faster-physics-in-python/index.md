@@ -26,15 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Batched simulation
-
-  * Batched simulation
-  * High performance texture randomization
-  * Virtual Reality with mujoco-py
-  * API and usage
-
-
-
 June 28, 2017
 
 [Release](</research/index/release/>)
@@ -50,6 +41,24 @@ We’re open-sourcing a high-performance Python library for robotic simulation u
 Loading…
 
 Share
+
+Batched simulation
+
+  * Batched simulation
+  * High performance texture randomization
+  * Virtual Reality with mujoco-py
+  * API and usage
+
+
+
+Table of contents
+
+  * Batched simulation
+  * High performance texture randomization
+  * Virtual Reality with mujoco-py
+  * API and usage
+
+
 
 This library is one of our core tools for deep learning [robotics research⁠(opens in a new window)](<https://blog.openai.com/robots-that-learn/>), which we’ve now released as a major version of [mujoco-py⁠(opens in a new window)](<https://github.com/openai/mujoco-py>), our Python 3 bindings for MuJoCo. mujoco-py [1.50.1.0⁠(opens in a new window)](<https://github.com/openai/mujoco-py/releases>) brings a number of new capabilities and significant performance boosts. New features include:
 

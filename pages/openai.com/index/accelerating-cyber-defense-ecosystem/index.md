@@ -26,13 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Investing in the broader ecosystem
-
-  * Investing in the broader ecosystem
-  * Building resilience together
-
-
-
 April 16, 2026
 
 [Security](</news/security/>)[Safety](</news/safety-alignment/>)
@@ -42,6 +35,20 @@ April 16, 2026
 Loading…
 
 Share
+
+Investing in the broader ecosystem
+
+  * Investing in the broader ecosystem
+  * Building resilience together
+
+
+
+Table of contents
+
+  * Investing in the broader ecosystem
+  * Building resilience together
+
+
 
 [ _Trusted Access for Cyber_ ⁠](<https://openai.com/index/scaling-trusted-access-for-cyber-defense>) is designed around a simple premise: advanced cyber capabilities should reach defenders broadly, but access should scale with trust, validation, and safeguards. Today we’re sharing the first organizations helping put that approach into practice, from open-source security teams and vulnerability researchers to enterprises operating some of the world’s most complex digital environments.
 

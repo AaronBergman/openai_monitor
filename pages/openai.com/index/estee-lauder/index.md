@@ -26,6 +26,12 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
+# Data-driven beauty: How The Estée Lauder Companies unlocks insights with ChatGPT
+
+Loading…
+
+Share
+
 Using AI in a data-rich environment
 
   * Using AI in a data-rich environment
@@ -36,13 +42,17 @@ Using AI in a data-rich environment
 
 
 
-# Data-driven beauty: How The Estée Lauder Companies unlocks insights with ChatGPT
+Table of contents
 
-Loading…
+  * Using AI in a data-rich environment
+  * Surging AI adoption with the GPT Lab
+  * Unlocking consumer insights with ChatGPT
+  * Taking a product-led approach to GPT creation
+  * AI’s impact on creativity and speed-to-market 
 
-Share
 
-[ _The Estée Lauder Companies_ ⁠(opens in a new window)](<https://www.elcompanies.com/en>) (ELC) is a global leader in prestige beauty, with a portfolio of more than 20 iconic brands including Clinique, La Mer, Bobbi Brown Cosmetics, and Aveda. The company and its brands are known for leading beauty products paired with high-touch, personalized experiences for its global consumers.
+
+[_The Estée Lauder Companies_ ⁠(opens in a new window)](<https://www.elcompanies.com/en>) (ELC) is a global leader in prestige beauty, with a portfolio of more than 20 iconic brands including Clinique, La Mer, Bobbi Brown Cosmetics, and Aveda. The company and its brands are known for leading beauty products paired with high-touch, personalized experiences for its global consumers.
 
 As the world of beauty trends toward hyper-personalization, so has the company's approach to research and technology. ELC’s widespread adoption of ChatGPT Enterprise is helping the company empower employee creativity and unlock insights to better serve today’s consumers.
 

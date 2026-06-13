@@ -26,7 +26,11 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Published: May 14, 2026
+Select language
+
+…
+
+Published: June 12, 2026
 
 # Conversion Terms
 
@@ -50,7 +54,7 @@ OpenAI will maintain commercially reasonable processes and procedures designed t
 
 ## 5\. Processing of Personal Data
 
-By using or enabling the Conversion Tools, you agree that you and OpenAI each act as an independent Data Controller with respect to any Personal Data Processed through the Conversion Tools, except solely with respect to Restricted Processing. For Restricted Processing only, OpenAI will act as a Data Processor. Any Processing of Personal Data will be in accordance with the Conversion DPA, which is hereby incorporated by reference.
+The Conversion Tools are Covered Ad Tools under the Ad Tools DPA. Except for Restricted Processing, you and OpenAI each act as independent Data Controllers with respect to any Personal Data Processed through the Conversion Tools. For Restricted Processing only, you are the Data Controller and OpenAI is the Data Processor. Processing of Personal Data through the Conversion Tools is subject to the Ad Tools DPA, which is incorporated by reference.
 
 ## 6\. Indemnification
 
@@ -60,29 +64,29 @@ You will indemnify, defend, and hold harmless OpenAI and its Affiliates and lice
 
 “ _Access Purpose_ ” means OpenAI’s and its Affiliates’ development, provision, and improvement of their products or services. 
 
+“ _Ad Tools DPA_ ” means OpenAI’s Ad Tools Data Processing Addendum available at [_https://openai.com/policies/ad-tools-dpa_ ⁠](<https://openai.com/policies/conversion-dpa>). 
+
+“ _Ad Tools Terms_ ” means OpenAI’s Ad Tools Terms available at [_https://openai.com/policies/ad-tools-terms_ ⁠](<https://openai.com/policies/ad-tools-terms>).
+
 “ _Affiliate_ ” means, with respect to a Party, any other person or entity that directly or indirectly controls, is controlled by, or is under common control with, that Party.
 
 “ _Agreement_ ” means the agreement, online terms, or other written terms between you and OpenAI or its Affiliate that govern your use of the Services and under which OpenAI makes the Conversion Tools available to you. 
 
 “ _Claim_ ” means legal proceedings filed by a third party. 
 
-“ _Confidential Information_ ” has the meaning given in the Agreement and includes Reporting Data. 
+“ _Confidential Information_ ” has the meaning given in the Agreement. 
 
 “ _Conversion Data_ ” means (a) information that may personally identify an individual, such as email addresses, cookies, phone numbers, and other identifiers, and (b) data regarding transactions and actions that individuals take on your (or third party) websites, apps or stores, including website visits, app installations, and purchases of your products. 
-
-“ _Conversion DPA_ ” means OpenAI’s Conversion Data Processing Addendum at [_https://openai.com/policies/conversion-dpa_ ⁠](<https://openai.com/policies/conversion-dpa>).
 
 “ _Conversion Tools_ ” means an API, pixel, software development kit, data integration, or similar data ingestion tool provided by OpenAI for you to provide Conversion Data to OpenAI. 
 
 “ _OpenAI Policies_ ” means the policies that OpenAI makes available and that apply to the Services or these Conversion Terms, in each case as updated from time to time. 
 
-“ _Prohibited Data_ ” means (a) data relating to, or collected from services directed to children, as defined by applicable laws; (b) data relating to sensitive information, as defined by applicable laws; and (c) data that could constitute “Consumer Health Data” under the Washington My Health My Data Act, data subject to similar health-related privacy laws, or data that could otherwise identify an individual’s past, present, or future physical or mental health status. 
+“ _Prohibited Data_ ” has the meaning given in the Ad Tools Terms. 
 
 “ _Reporting Data_ ” means reports, analytics, metrics, insights, or other information provided or made available to you in connection with the Conversion Tools. Reporting Data is OpenAI’s Confidential Information. 
 
-“ _Restricted Jurisdiction_ ” means the EEA, Switzerland, UK, and any U.S. state that has enacted comprehensive consumer privacy legislation, including, as of the effective date, California, Colorado, Connecticut, Delaware, Florida, Indiana, Iowa, Kentucky, Maryland, Minnesota, Montana, Nebraska, New Hampshire, New Jersey, Oregon, Rhode Island, Tennessee, Texas, Utah, and Virginia. 
-
-“ _Restricted Processing_ ” means the Processing of Personal Data via the Conversion Tools where (a) you provide the Personal Data with an opt-out flag based on an opt-out choice made by the individual, and (b) the Personal Data relates to an individual located in a Restricted Jurisdiction.
+“ _Restricted Processing_ ” has the meaning given in the Ad Tools DPA. 
 
 “ _Reverse Engineer_ ” means reverse assemble, reverse compile, decompile, translate, engage in model extraction or stealing attacks, or otherwise attempt to discover the source code or underlying components of the Conversion Tools, algorithms, and systems of the Conversion Tools (except to the extent these restrictions are contrary to applicable law). 
 

@@ -26,14 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Evaluating the relationship between adversarial robustness and inference-time compute
-
-  * Evaluating the relationship between adversarial robustness and inference-time compute
-  * Limitations
-  * Conclusion
-
-
-
 January 22, 2025
 
 [Publication](</research/index/publication/>)
@@ -47,6 +39,22 @@ Initial evidence that reasoning models such as o1 become more robust to adversar
 Loading…
 
 Share
+
+Evaluating the relationship between adversarial robustness and inference-time compute
+
+  * Evaluating the relationship between adversarial robustness and inference-time compute
+  * Limitations
+  * Conclusion
+
+
+
+Table of contents
+
+  * Evaluating the relationship between adversarial robustness and inference-time compute
+  * Limitations
+  * Conclusion
+
+
 
 [ _Robustness to adversarial attacks_ ⁠(opens in a new window)](<https://en.m.wikipedia.org/wiki/Adversarial_machine_learning#Adversarial_examples>) has been one of the thorns in AI’s side for more than a decade. In 2014, researchers [_showed_ ⁠(opens in a new window)](<https://arxiv.org/abs/1312.6199>) that imperceptible perturbations—subtle alterations undetectable to the human eye—can cause models to misclassify images, illustrating one example of a model’s vulnerability to adversarial attacks. Addressing this weakness has become more urgent as models are being used for high stakes applications and acting as _agents_ that can browse the web and take actions on behalf of their users.
 

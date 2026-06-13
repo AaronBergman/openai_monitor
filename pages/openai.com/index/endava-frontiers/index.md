@@ -26,6 +26,26 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
+June 4, 2026
+
+# How Endava is redesigning software delivery around AI agents
+
+By making AI part of daily work, Endava is accelerating delivery and reshaping enterprise workflows.
+
+[Contact sales](</contact-sales/>)
+
+Company size: Enterprise
+
+Region: Global
+
+Industry: Technology, Services
+
+Products: ChatGPT, Codex
+
+Loading…
+
+Share
+
 Inside the rollout
 
   * Inside the rollout
@@ -35,25 +55,14 @@ Inside the rollout
 
 
 
-June 4, 2026
+Table of contents
 
-# How Endava is redesigning software delivery around AI agents
+  * Inside the rollout
+  * Results at a glance
+  * Lessons learned from Endava
+  * What’s next
 
-By making AI part of daily work, Endava is accelerating delivery and reshaping enterprise workflows.
 
-[Contact sales](</contact-sales/>)
-
-Products: ChatGPT, Codex
-
-Company size: Enterprise
-
-Region: Global
-
-Industry: Technology, Services
-
-Loading…
-
-Share
 
 Endava is a global technology services company that has spent more than 25 years helping enterprises solve complex business problems through technology. Today, that mission increasingly centers on AI.
 
@@ -140,17 +149,17 @@ More than 1 million businesses around the world are achieving meaningful results
 
 ## Keep reading
 
-![lseg > oai 1x1](https://images.ctfassets.net/kftzwdyauwt9/6wykEE6NmMzJHGPdxuhPV7/b85d4a7e59cd01a710f4b8b9213f88f8/oai_LSEG_1x1.png?w=3840&q=90&fm=webp)
+![Introducing OpenAI Academy courses > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/2mmXo430NiaNqyi6YrRtnh/715ab11fa5003dd50acff55adcb4a5fd/Frame.png?w=3840&q=90&fm=webp)
 
-[From data to decisions: how LSEG is scaling trusted AIJun 10, 2026](</index/lseg/>)
+[New OpenAI Academy courses for the next era of workAI AdoptionJun 12, 2026](</index/academy-courses-applying-ai-at-work/>)
 
-![Nextdoor customer stories > oai 1x1](https://images.ctfassets.net/kftzwdyauwt9/2VQiKydNUVAutnHRuCIV4S/3262cc8deff3fe49c6b512f854e14dcf/oai_Nextdoor_1x1.png?w=3840&q=90&fm=webp)
+![Preply Customer story > oai preply 1x1](https://images.ctfassets.net/kftzwdyauwt9/6PmaSoARNrmSZ6QRM8G4Ev/08a3dd4653efbda42894c90b374b6bcf/oai_Preply_1x1.png?w=3840&q=90&fm=webp)
 
-[How engineers at Nextdoor use Codex to build without limitsJun 9, 2026](</index/nextdoor/>)
+[How Preply combines AI and human tutors to personalize learningJun 12, 2026](</index/preply/>)
 
-![Notion > cover image](https://images.ctfassets.net/kftzwdyauwt9/2HBxiM1dDPpM1W56ehwgNi/01dc3dafe6aedcabc9808446492523ea/oai_Notion_1x1.png?w=3840&q=90&fm=webp)
+![Supporting Europe’s work in ensuring a trustworthy AI ecosystem  > art card](https://images.ctfassets.net/kftzwdyauwt9/U3OuQtdga2BaxWxb0e2ge/2fdc2fb1cf5c70a8f77fc4b55236aa78/Frame2.png?w=3840&q=90&fm=webp)
 
-[What Codex unlocks for NotionJun 9, 2026](</index/notion/>)
+[Supporting Europe’s work in ensuring a trustworthy AI ecosystem Global AffairsJun 11, 2026](</index/supporting-eu-trustworthy-ai-ecosystem/>)
 
 Research
 

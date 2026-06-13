@@ -26,15 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Where dubbing started to break down
-
-  * Where dubbing started to break down
-  * Optimizing translations for timing, not just meaning
-  * Defining and measuring natural pacing
-  * Unlocking large-scale video localization
-
-
-
 March 6, 2026
 
 Startup
@@ -70,6 +61,24 @@ Increase in dubbed exports post-rollout
 Loading…
 
 Share
+
+Where dubbing started to break down
+
+  * Where dubbing started to break down
+  * Optimizing translations for timing, not just meaning
+  * Defining and measuring natural pacing
+  * Unlocking large-scale video localization
+
+
+
+Table of contents
+
+  * Where dubbing started to break down
+  * Optimizing translations for timing, not just meaning
+  * Defining and measuring natural pacing
+  * Unlocking large-scale video localization
+
+
 
 [ _Descript_ ⁠(opens in a new window)](<http://descript.com>) is an AI-native video editor built around a simple idea: if you can edit text, you should be able to edit video. Since Descript’s early days, AI has powered every aspect of the product: transcription, editing, audio cleanup, and increasingly complex creative workflows. They’ve built on OpenAI for years, using Whisper for transcription and GPT series models inside their co-editor Underlord. 
 

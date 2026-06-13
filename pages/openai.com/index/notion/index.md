@@ -26,92 +26,65 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-November 7, 2025
+June 9, 2026
 
-# Notion’s GPT‑5 rebuild unlocks autonomous AI workflows
+# What Codex unlocks for Notion
 
-By rebuilding their agent system with GPT‑5, Notion created an AI workspace that can reason, act, and adapt across workflows.
+How Notion uses Codex to one-shot specs and multiply its engineering power.
 
 [Contact sales](</contact-sales/>)
 
-Company size: Mid-market
+Company size: Enterprise
 
 Region: North America
 
-Industry: Technology
+Industry: Software & Engineering, Productivity
 
-Products: API
+Products: Codex
 
-Results
+2 Weeks → 3 hours
 
-7.6%
-
-Improvement over state-of-the-art models on outputs aligned with real user feedback
+Codex reduced development time
 
 Loading…
 
-Share
+At Notion, Codex is changing how engineers build. The company is rethinking the software primitives and abstractions it builds so that agents can use them. When bringing a new engineer onto the team, they're hiring for curiosity and open-mindedness, since the years of experience the field would normally call for don't exist yet. And managers who hadn't written production code in years are back in the codebase, shipping alongside their teams.
 
-In late 2022, within weeks of getting access to GPT‑4, Notion had already shipped a writing assistant, rolled out workspace-wide Q&A features, and integrated OpenAI models deeply across its search, content, and planning tools.
+Ryan Nystrom runs AI Product Engineering at Notion. In his year-plus tenure, his team has built or touched nearly every AI feature in the product. They’re finding that turning to Codex has unlocked new possibilities for what they can take on.
 
-But as models advanced - and users began asking agents to complete entire workflows - Notion’s team saw limits in their system architecture. The old pattern of prompting models to do isolated tasks was limiting the ceiling of what was capable on their platform. Agents needed to make decisions, orchestrate tools, and reason through ambiguity, and that shift required more than prompt engineering.
+> “What I appreciate about Codex is that it takes its time to figure things out before actually building. The result is that usually what it builds is to our codebase’s standards off the bat, rather than me having to go back and clean up a bunch of its work.”
 
-> “We didn’t want to retrofit the system. We needed an architecture that actually supports how reasoning models work.”
+—Ryan Nystrom, AI Product Engineering, Notion
 
-Sarah Sachs, Head of AI Modeling at Notion
+### Building Notion’s AI voice input on the web
 
-### Inside the rollout
+Codex’s ability to autonomously execute showed up clearly in a recent project. Ryan exclusively used Codex to bring Notion’s AI voice input to the web.
 
-Rebuilding for reasoning models, not retrofitting around them
+"When we talk, we can provide so much more context," he says. "If I'm typing, I'm thinking about my prose, what words I'm using. By giving this feature to users on Notion, they're able to ask more organic questions and include a lot more context. We wanted to bring that to Notion AI."
 
-Instead of patching their existing stack, Notion rebuilt it. They replaced task-specific prompt chains with a central reasoning model that coordinates modular sub-agents. These agents can search across Notion, Slack, or the web; add to or edit databases; and synthesize responses using whatever tools the task requires.
+When the feature request came in, Notion's mobile app already had a functional version, but the desktop and web client didn't. Even though Ryan wasn't entirely sure how the feature worked on mobile, he was able to give the problem to Codex. He pointed it at the mobile codebase, gave it a clear description of how it would need to look on the web, and provided a way to verify the result. Codex came back with a complete first cut of the web implementation, in one shot, that matched Notion's codebase conventions closely enough to ship the next day.
 
-With their launch of Notion 3.0, AI isn’t just embedded in workflows; it can now run them. Users assign a broad task - for example, compiling stakeholder feedback - and their agent plans, executes, and reports back. The shift toward agents that choose how to work meant designing for model autonomy from the start.
+"If I were to build the Notion voice input feature two years ago, this is a project that would've taken me and maybe another engineer two weeks," Ryan says. "With Codex, I was able to build this in maybe three or four hours, entirely by myself."
 
-### Results at a glance
+> “It spent a bunch of time exploring our mobile code, and then finally came back and wrote the entire feature basically in one shot. I shipped it the next day and immediately started letting users test it.”
 
-Testing GPT‑5 with real product workloads
+—Ryan Nystrom, AI Product Engineering, Notion
 
-To validate the architectural shift, Notion evaluated GPT‑5 against other state-of-the-art models using actual user tasks.
+### How the work has changed
 
-Evaluations were grounded in feedback Notion had already marked as high priority, including questions that surfaced in Research Mode, long-form tasks that required multi-step reasoning, and ambiguous or outdated content where model judgment mattered.
+Engineers at Notion can routinely hand Codex a set of tasks and a way to check its work, then step away while it runs. "I've almost found myself spending a lot more time writing these spec documents that I can hand to Codex and let it work on," Ryan says. "Honestly, I don't really write code by hand anymore."
 
-The team used a combination of LLM-as-judge scoring, structured test fixtures, and human-labeled feedback.
+Before Codex, each engineer on the team could really focus on only one task at a time, squeezed between meetings and supporting peers. Now they're running multiple tasks in parallel, firing off work without losing any of the team support that used to be the bottleneck.
 
-Key results:
+"I manage a team of people, and traditionally managers haven't had time to write code," he says. "The fact that I can build a feature solo while still supporting my team is crazy. I've been managing for five-plus years and never been able to go this deep on coding problems."
 
-  * 7.6% improvement over state-of-the-art models on outputs aligned with real user feedback
-  * 15% better performance on difficult Research Mode questions
-  * 100%+ improvement on multi-step, structured tasks like deadline updates and competitor research
-  * Only model to fully saturate benchmarks with conflicting or outdated inputs
+Now he can simply queue up a task, head into a block of meetings, and come back to a finished feature. Or he and his team get a manager who can ship alongside them, and Ryan gets back a part of the job he'd assumed he had traded away. This availability runs past the workday, too. He'll pose a research question before bed, let Codex run overnight, and wake up to a finished report.
 
+Codex has reset the baseline for what a small team (even a team of one!) can ship, and given Notion's engineers more room to focus on the work they care about most.
 
+> “Whenever I need to research a task, fix a bug, or make a little tweak, Codex is just there, ready and willing. Basically, I’ve got an intern available at Notion 24/7.”
 
-These evaluations helped Notion identify where GPT‑5 added value - for example, in reasoning, ambiguity, research - and where environment-specific tuning would improve results.
-
-> “We didn’t cherry-pick tasks. These were high-signal workflows from our product....That’s where model differences actually show up.”
-
-—Sarah Sachs, Head of AI Modeling at Notion
-
-![A group of nine people sit and smile around a conference table in a bright office meeting room, some holding laptops and making peace signs. A large screen on the right shows a video call with three remote participants. Everyone looks relaxed and happy, suggesting a collaborative hybrid team meeting.](https://images.ctfassets.net/kftzwdyauwt9/5pRMngLODa02aEtv5nKJzP/3ce1507fd00c411c845a5009b314cc2c/Notion___OpenAI_team_photo.jpeg?w=3840&q=90&fm=webp)
-
-### Leadership lessons
-
-Lessons for teams building with GPT‑5
-
-Notion’s rebuild wasn’t just about launching Notion 3.0. It was about designing a system that could support new model capabilities and adapt as those models get smarter. Their approach offers a clear roadmap for other teams deploying agentic AI in production:
-
-  * Evaluate what matters. Use tasks your users actually do, not synthetic benchmarks.
-  * Test the hard stuff. GPT‑5 shines when information is ambiguous, outdated, or multi-step.
-  * Architect for autonomy. If agents are making decisions, your system has to give them room to reason and tools to act.
-  * Clarity drives performance. Even top models fall short without clean tool descriptions and good interface design.
-  * Rebuilding is better than patching. If your system was built for completion models, it might not scale to agents.
-
-
-
-> “We’re already seeing returns from the rebuild....If the next model unlocks something new, we’ll do what it takes to support it.”
-
-—Sarah Sachs, Head of AI Modeling at Notion
+—Ryan Nystrom, AI Product Engineering, Notion
 
 ## Join the new era of work
 
@@ -121,17 +94,17 @@ More than 1 million businesses around the world are achieving meaningful results
 
 ## Keep reading
 
-![Confidential submission of draft S-1 to the SEC > cover image](https://images.ctfassets.net/kftzwdyauwt9/36doI12YCwUtp1hzD4d8bj/84e67c565f39e7d5ca3ee011efa69756/confidential-submission-of-draft-s-1-to-the-sec-1x1.png?w=3840&q=90&fm=webp)
+![Introducing OpenAI Academy courses > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/2mmXo430NiaNqyi6YrRtnh/715ab11fa5003dd50acff55adcb4a5fd/Frame.png?w=3840&q=90&fm=webp)
 
-[Confidential submission of draft S-1 to the SECCompanyJun 8, 2026](</index/openai-submits-confidential-s-1/>)
+[New OpenAI Academy courses for the next era of workAI AdoptionJun 12, 2026](</index/academy-courses-applying-ai-at-work/>)
 
-![Built for broad benefit > cover](https://images.ctfassets.net/kftzwdyauwt9/bEe28mW3dEOj9pKJsPp2u/13f7bed9e86b0667ba924479d62f98e4/Art_Card_1080x1080_1.png?w=3840&q=90&fm=webp)
+![Preply Customer story > oai preply 1x1](https://images.ctfassets.net/kftzwdyauwt9/6PmaSoARNrmSZ6QRM8G4Ev/08a3dd4653efbda42894c90b374b6bcf/oai_Preply_1x1.png?w=3840&q=90&fm=webp)
 
-[Built to benefit everyone: our planCompanyJun 8, 2026](</index/built-to-benefit-everyone-our-plan/>)
+[How Preply combines AI and human tutors to personalize learningJun 12, 2026](</index/preply/>)
 
-![Economic research forum > art card ](https://images.ctfassets.net/kftzwdyauwt9/2DpNjvjdVuCrLKNOrFrWJ7/1aefe1cbe252bcd9ba42035469fc8a0f/art_card.png?w=3840&q=90&fm=webp)
+![Supporting Europe’s work in ensuring a trustworthy AI ecosystem  > art card](https://images.ctfassets.net/kftzwdyauwt9/U3OuQtdga2BaxWxb0e2ge/2fdc2fb1cf5c70a8f77fc4b55236aa78/Frame2.png?w=3840&q=90&fm=webp)
 
-[Introducing the OpenAI Economic Research ExchangeCompanyJun 8, 2026](</index/economic-research-exchange/>)
+[Supporting Europe’s work in ensuring a trustworthy AI ecosystem Global AffairsJun 11, 2026](</index/supporting-eu-trustworthy-ai-ecosystem/>)
 
 Research
 

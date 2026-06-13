@@ -26,6 +26,14 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
+# LY Corporation
+
+Driving growth and ‘WOW’ moments with OpenAI.
+
+![Close-up of fish scales in shades of orange, yellow, and white with the text ‘LINEヤフー’ \(LINE Yahoo\) overlaid in bold white font.](https://images.ctfassets.net/kftzwdyauwt9/4VLjeRVfxtGTD5ZatlMoRO/40e6bce2d746299d0ef7865a9e54eeee/oai_LY_hero_2.png?w=3840&q=90&fm=webp)
+
+Share
+
 Competing in a new, AI-driven digital economy
 
   * Competing in a new, AI-driven digital economy
@@ -36,13 +44,15 @@ Competing in a new, AI-driven digital economy
 
 
 
-# LY Corporation
+Table of contents
 
-Driving growth and ‘WOW’ moments with OpenAI.
+  * Competing in a new, AI-driven digital economy
+  * Identifying key priorities to make way for AI
+  * Strong evaluations lay the groundwork for 32 use cases 
+  * Improving user experiences with LINE AI Assistant and Yahoo! JAPAN Search
+  * Increasing annual revenue ¥110B yen with AI
 
-![Close-up of fish scales in shades of orange, yellow, and white with the text ‘LINEヤフー’ \(LINE Yahoo\) overlaid in bold white font.](https://images.ctfassets.net/kftzwdyauwt9/4VLjeRVfxtGTD5ZatlMoRO/40e6bce2d746299d0ef7865a9e54eeee/oai_LY_hero_2.png?w=3840&q=90&fm=webp)
 
-Share
 
 LY Corporation is one of Japan’s largest tech companies, delivering news, e-commerce, advertising, and membership programs to enrich users’ lives.
 

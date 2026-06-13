@@ -26,6 +26,14 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
+# Mercari enhances product listings and better supports sellers with GPT‑4o mini
+
+![Mercari logo over a background of three bold, colorful 3D blocks in red, blue, and yellow, creating a dynamic and modern design.](https://images.ctfassets.net/kftzwdyauwt9/COE5tDNaALEORKR6aSDiQ/c0afafd9694fa841cb07b834b7e6236d/oai_mercari_hero_16-9.png?w=3840&q=90&fm=webp)
+
+Loading…
+
+Share
+
 Optimizing product listings to drive sales with the Mercari AI Assistant
 
   * Optimizing product listings to drive sales with the Mercari AI Assistant
@@ -34,13 +42,13 @@ Optimizing product listings to drive sales with the Mercari AI Assistant
 
 
 
-# Mercari enhances product listings and better supports sellers with GPT‑4o mini
+Table of contents
 
-![Mercari logo over a background of three bold, colorful 3D blocks in red, blue, and yellow, creating a dynamic and modern design.](https://images.ctfassets.net/kftzwdyauwt9/COE5tDNaALEORKR6aSDiQ/c0afafd9694fa841cb07b834b7e6236d/oai_mercari_hero_16-9.png?w=3840&q=90&fm=webp)
+  * Optimizing product listings to drive sales with the Mercari AI Assistant
+  * Investing in AI with a top-down and bottom-up approach 
+  * The Future of AI at Mercari
 
-Loading…
 
-Share
 
 Mercari, one of Japan’s leading online marketplaces, saw downloads soar after expanding into the U.S. in 2014. By integrating GPT‑4o mini and other models, Mercari is redefining how users buy and sell secondhand goods, making the process more seamless and accessible worldwide.
 

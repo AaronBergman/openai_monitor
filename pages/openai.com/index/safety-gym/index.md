@@ -26,16 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Exploration is risky
-
-  * Exploration is risky
-  * Constrained reinforcement learning
-  * Safety Gym
-  * Benchmark
-  * Open problems
-
-
-
 November 21, 2019
 
 [Release](</research/index/release/>)
@@ -53,6 +43,26 @@ Illustration: Richard Perez & Jennifer DeRosa
 Loading…
 
 Share
+
+Exploration is risky
+
+  * Exploration is risky
+  * Constrained reinforcement learning
+  * Safety Gym
+  * Benchmark
+  * Open problems
+
+
+
+Table of contents
+
+  * Exploration is risky
+  * Constrained reinforcement learning
+  * Safety Gym
+  * Benchmark
+  * Open problems
+
+
 
 We also provide a standardized method of comparing algorithms and how well they avoid costly mistakes while learning. If deep reinforcement learning is applied to the real world, whether in robotics or internet-based tasks, it will be important to have algorithms that are safe even while learning—like a self-driving car that can learn to avoid accidents without actually having to experience them.
 

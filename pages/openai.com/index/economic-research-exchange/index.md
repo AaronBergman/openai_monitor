@@ -67,17 +67,17 @@ OpenAI
 
 [View all](</news/>)
 
+![OpenAI acquires Ona > oai 1x1](https://images.ctfassets.net/kftzwdyauwt9/6SkgXCQ08f4AYarun2I3oU/24414c9962c945767f783bdb63006841/OAI-Ona-ArtCard.png?w=3840&q=90&fm=webp)
+
+[OpenAI to acquire OnaCompanyJun 11, 2026](</index/openai-to-acquire-ona/>)
+
+![Oracle partnership 1x1 art card](https://images.ctfassets.net/kftzwdyauwt9/7zjGwFPBZMvK6zwFSMVWRm/6721ac33e5b1aaf88a9b705a3d10c90a/OAI_Oracle_Partnership_1x1_Art_Card.png?w=3840&q=90&fm=webp)
+
+[Access OpenAI models and Codex through your Oracle cloud commitmentCompanyJun 10, 2026](</index/openai-on-oracle-cloud/>)
+
 ![Confidential submission of draft S-1 to the SEC > cover image](https://images.ctfassets.net/kftzwdyauwt9/36doI12YCwUtp1hzD4d8bj/84e67c565f39e7d5ca3ee011efa69756/confidential-submission-of-draft-s-1-to-the-sec-1x1.png?w=3840&q=90&fm=webp)
 
 [Confidential submission of draft S-1 to the SECCompanyJun 8, 2026](</index/openai-submits-confidential-s-1/>)
-
-![Built for broad benefit > cover](https://images.ctfassets.net/kftzwdyauwt9/bEe28mW3dEOj9pKJsPp2u/13f7bed9e86b0667ba924479d62f98e4/Art_Card_1080x1080_1.png?w=3840&q=90&fm=webp)
-
-[Built to benefit everyone: our planCompanyJun 8, 2026](</index/built-to-benefit-everyone-our-plan/>)
-
-![dell](https://images.ctfassets.net/kftzwdyauwt9/17U8SngLERoATdFhOjWbDK/da377e6850f8241ea7814a347bad0a3a/Frame.png?w=3840&q=90&fm=webp)
-
-[OpenAI and Dell Technologies partner to bring Codex to hybrid and on-premises enterprise environmentsCompanyMay 18, 2026](</index/dell-codex-enterprise-partnership/>)
 
 Research
 

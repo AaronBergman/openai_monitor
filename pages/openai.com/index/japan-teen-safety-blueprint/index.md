@@ -26,14 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Key pillars of the Japan Teen Safety Blueprint
-
-  * Key pillars of the Japan Teen Safety Blueprint
-  * Existing safeguards
-  * Working with Japanese society
-
-
-
 March 17, 2026
 
 [Safety](</news/safety-alignment/>)
@@ -43,6 +35,22 @@ March 17, 2026
 Strengthening age-appropriate protections, parental support, and well-being-centered design in Japan. 
 
 [ブループリントを読む(opens in a new window)](<https://cdn.openai.com/pdf/openai-teen-safety-blueprint-japan-jp.pdf>)[Read paper(opens in a new window)](<https://cdn.openai.com/pdf/openai-teen-safety-blueprint-japan-en.pdf>)
+
+Key pillars of the Japan Teen Safety Blueprint
+
+  * Key pillars of the Japan Teen Safety Blueprint
+  * Existing safeguards
+  * Working with Japanese society
+
+
+
+Table of contents
+
+  * Key pillars of the Japan Teen Safety Blueprint
+  * Existing safeguards
+  * Working with Japanese society
+
+
 
 OpenAI Japan today announced the Japan Teen Safety Blueprint, a new framework to help teens use generative AI safely and with confidence.
 

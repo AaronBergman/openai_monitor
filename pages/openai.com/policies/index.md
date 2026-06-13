@@ -43,8 +43,9 @@ OpenAI
   * [Applicant Arbitration Agreement⁠(opens in a new window)](<https://cdn.openai.com/pdf/applicant-arbitration-agreement.pdf>): Arbitration Agreement for U.S. applicants.
   * [Serving civil subpoenas or other civil requests for user data on OpenAI](</policies/civil-user-data-requests/>): Procedures for requesting user data in civil matters.
   * [Advertising Terms](</policies/advertising-terms/>): Terms that govern use of OpenAI's Advertising Services.
-  * [Conversion Terms](</policies/conversion-terms/>): Terms that govern use of OpenAI's Conversion Tools
-  * [Conversion data processing addendum](</policies/conversion-dpa/>): Addendum that governs the processing of personal data through OpenAI's Conversion Tools.
+  * [Ad Tools Terms](</policies/ad-tools-terms/>): Terms that govern use of supplemental ad tools and features.
+  * [Ad Tools data processing addendum](</policies/ad-tools-dpa/>): Addendum that governs the processing of personal data through certain Ad Tools.
+  * [Conversion Terms](</policies/conversion-terms/>): Terms that govern use of OpenAI's Conversion Tools.
   * [Merchant Feed Terms](</policies/merchant-feed-terms-of-service/>): Terms that govern use of merchant product and services feeds in connection with OpenAI Services.
 
 

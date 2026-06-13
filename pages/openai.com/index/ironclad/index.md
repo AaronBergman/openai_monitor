@@ -26,13 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-A remarkable boost for legal teams
-
-  * A remarkable boost for legal teams
-  * A tipping point in the legal field
-
-
-
 # Ironclad
 
 Ironclad uses GPT‑4 to simplify the contract review process.
@@ -44,6 +37,20 @@ Ironclad uses GPT‑4 to simplify the contract review process.
 Loading…
 
 Share
+
+A remarkable boost for legal teams
+
+  * A remarkable boost for legal teams
+  * A tipping point in the legal field
+
+
+
+Table of contents
+
+  * A remarkable boost for legal teams
+  * A tipping point in the legal field
+
+
 
 Ironclad is a contract lifecycle management platform used by companies to handle every type of contract workflow. Its founders believed that AI could revolutionize the way legal teams work on contracts. When Ironclad’s engineers started exploring OpenAI’s technology, they immediately saw the potential to bring more of that vision to life.
 

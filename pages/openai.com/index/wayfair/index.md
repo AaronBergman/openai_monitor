@@ -26,16 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Solving catalog quality at scale
-
-  * Solving catalog quality at scale
-  * Building a reusable AI architecture
-  * Rethinking supplier support workflows with Wilma
-  * Results at a glance
-  * What’s next 
-
-
-
 March 11, 2026
 
 # Wayfair boosts catalog accuracy and support speed with OpenAI
@@ -75,6 +65,26 @@ ChatGPT Enterprise seats deployed
 Loading…
 
 Share
+
+Solving catalog quality at scale
+
+  * Solving catalog quality at scale
+  * Building a reusable AI architecture
+  * Rethinking supplier support workflows with Wilma
+  * Results at a glance
+  * What’s next 
+
+
+
+Table of contents
+
+  * Solving catalog quality at scale
+  * Building a reusable AI architecture
+  * Rethinking supplier support workflows with Wilma
+  * Results at a glance
+  * What’s next 
+
+
 
 Wayfair, one of the world’s largest home goods retailers, has integrated OpenAI models into critical internal systems to improve supplier support workflows and product catalog quality at scale. What began as value-testing small scale releases in 2024 has evolved into a full production system that reduces manual effort, accelerates decision-making and improves data quality across millions of products.
 
@@ -165,17 +175,17 @@ More than 1 million businesses around the world are achieving meaningful results
 
 ## Keep reading
 
-![Confidential submission of draft S-1 to the SEC > cover image](https://images.ctfassets.net/kftzwdyauwt9/36doI12YCwUtp1hzD4d8bj/84e67c565f39e7d5ca3ee011efa69756/confidential-submission-of-draft-s-1-to-the-sec-1x1.png?w=3840&q=90&fm=webp)
+![Introducing OpenAI Academy courses > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/2mmXo430NiaNqyi6YrRtnh/715ab11fa5003dd50acff55adcb4a5fd/Frame.png?w=3840&q=90&fm=webp)
 
-[Confidential submission of draft S-1 to the SECCompanyJun 8, 2026](</index/openai-submits-confidential-s-1/>)
+[New OpenAI Academy courses for the next era of workAI AdoptionJun 12, 2026](</index/academy-courses-applying-ai-at-work/>)
 
-![Built for broad benefit > cover](https://images.ctfassets.net/kftzwdyauwt9/bEe28mW3dEOj9pKJsPp2u/13f7bed9e86b0667ba924479d62f98e4/Art_Card_1080x1080_1.png?w=3840&q=90&fm=webp)
+![Preply Customer story > oai preply 1x1](https://images.ctfassets.net/kftzwdyauwt9/6PmaSoARNrmSZ6QRM8G4Ev/08a3dd4653efbda42894c90b374b6bcf/oai_Preply_1x1.png?w=3840&q=90&fm=webp)
 
-[Built to benefit everyone: our planCompanyJun 8, 2026](</index/built-to-benefit-everyone-our-plan/>)
+[How Preply combines AI and human tutors to personalize learningJun 12, 2026](</index/preply/>)
 
-![Economic research forum > art card ](https://images.ctfassets.net/kftzwdyauwt9/2DpNjvjdVuCrLKNOrFrWJ7/1aefe1cbe252bcd9ba42035469fc8a0f/art_card.png?w=3840&q=90&fm=webp)
+![Supporting Europe’s work in ensuring a trustworthy AI ecosystem  > art card](https://images.ctfassets.net/kftzwdyauwt9/U3OuQtdga2BaxWxb0e2ge/2fdc2fb1cf5c70a8f77fc4b55236aa78/Frame2.png?w=3840&q=90&fm=webp)
 
-[Introducing the OpenAI Economic Research ExchangeCompanyJun 8, 2026](</index/economic-research-exchange/>)
+[Supporting Europe’s work in ensuring a trustworthy AI ecosystem Global AffairsJun 11, 2026](</index/supporting-eu-trustworthy-ai-ecosystem/>)
 
 Research
 

@@ -26,88 +26,159 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-# BBVA puts AI in the hands of every team with OpenAI
+June 11, 2026
 
-By granting widespread access and permission to experiment, BBVA empowers their global org with ChatGPT Enterprise.
+# BBVA puts AI at the core of banking with OpenAI
+
+Through a strategic collaboration with OpenAI, BBVA is redesigning banking around AI across customer experience, operations, and work.
+
+[Contact sales](</contact-sales/>)
+
+![BBVA logo on blue waves.](https://images.ctfassets.net/kftzwdyauwt9/4Ygin6jpvTgfSBwBXZOJCb/76cb2f180b135e568c6f2b73cb97b236/oai_BBVA_1x1.png?w=3840&q=90&fm=webp)
+
+Products: ChatGPT
+
+Company size: Enterprise
+
+Region: Global
+
+Industry: Finance
+
+Results
+
+~100,000
+
+employees using ChatGPT Enterprise globally
+
+Results
+
++70%
+
+monthly active usage
+
+~3hrs
+
+saved per employee, per week
+
+Results
+
+↑80%
+
+efficiency gains in selected workflows
 
 Loading…
 
 Share
 
-[ _BBVA_ ⁠(opens in a new window)](<https://www.bbva.com/es/>) is a global financial institution supporting people and businesses across Europe, Central and South America, and the U.S.
+Founded in 1857, BBVA is a global financial institution supporting people and businesses across Europe, Mexico, South America, Turkey, and the U.S., serving tens of millions of customers worldwide. After pioneering digital and mobile banking over the last decade, BBVA is now entering a new phase: transforming banking around artificial intelligence.
 
-In just 5 months, and by working closely and consistently with legal, compliance, and IT security teams to ensure safe and responsible use, BBVA has widely adopted ChatGPT Enterprise, creating thousands of custom GPTs that boost efficiency, spark creativity, and share expert knowledge across their organization of 125,000.
+To accelerate that transformation, BBVA and OpenAI have formed a strategic collaboration designed to integrate AI across customer experiences, operations, software development, and the day-to-day work of employees throughout the organization. The collaboration marks a new level of partnership between a global financial institution and OpenAI, with teams from both companies working together on shared priorities and long-term transformation initiatives.
+
+By the end of 2025, that collaboration had evolved into a broader strategic alliance centered around "The Eight," BBVA's AI transformation roadmap for redesigning banking end-to-end—from customer experience and commercial banking to risk, operations, software development, and employee productivity.
+
+Rather than approaching AI as a standalone technology initiative, BBVA is rethinking how the bank operates across every layer of the organization: how customers interact with financial services, how employees make decisions, how risk is analyzed, and how operations are executed at scale.
+
+> “Our alliance with OpenAI accelerates the native integration of artificial intelligence across the bank to create a smarter, more proactive, and completely personalized banking experience, anticipating the needs of every client.”
+
+—Carlos Torres Vila, Chair of BBVA
+
+The initiative spans every layer of the bank: from AI-powered financial assistants capable of anticipating customer needs, to tools that help bankers and risk analysts make faster and more informed decisions, to systems that automate operations and accelerate software development across the organization.
+
+Through the collaboration, OpenAI is working closely with BBVA teams across engineering, research, product development, and operations to help develop and scale these AI capabilities securely across a global banking organization.
+
+> “‘The Eight’ is about building a more proactive, intelligent, and personalized bank. Working closely with OpenAI allows us to rethink customer experience, operations, and employee capabilities at a scale that was not possible before.”
+
+—Antonio Bravo, Head of AI Transformation at BBVA
+
+### From enterprise adoption to strategic transformation
+
+The relationship between BBVA and OpenAI began in 2024 with an initial deployment of ChatGPT Enterprise to 3,000 employees across multiple countries and business areas. As adoption accelerated organically, BBVA expanded access across the organization.
+
+Today more than 100,000 employees globally use ChatGPT Enterprise, making BBVA one of the largest enterprise adopters of generative AI in the financial sector.
+
+Teams across legal, risk, engineering, operations, finance, marketing, and customer service integrated ChatGPT into everyday workflows. The deployment demonstrated how generative AI could scale securely inside a highly regulated organization while delivering measurable operational impact across the business.
+
+For a highly regulated global bank, scaling AI required more than simply deploying licenses. BBVA built its AI adoption strategy around three core pillars: trust, governance, and structured learning. From the beginning, BBVA aligned security, legal, compliance, and technology teams to ensure employees had access to trusted AI tools within clear governance frameworks.
+
+Rather than allowing unauthorized experimentation with consumer AI tools, the bank chose to provide employees with secure enterprise-grade access and formal enablement programs.
+
+To support adoption at scale, BBVA created a structured enablement framework that included an organization-wide AI champions network, along with advanced users known internally as AI “wizards.” These teams lead hands-on workshops, help colleagues integrate ChatGPT into everyday workflows, and identify valuable use cases across the organization.
+
+Leadership participation became a major accelerator for adoption. BBVA provided specific training to 250 leaders, including the CEO and chairman, and today members of the executive committee are among the company's most active ChatGPT users.
 
 > “We consider our investment in ChatGPT an investment in our people. AI amplifies our potential and helps us be more efficient and creative.”
 
-Elena Alfaro, Head of Global AI Adoption at BBVA
+—Elena Alfaro, Head of Global AI Adoption at BBVA
 
-## Moving AI from core systems to employees
+Once employees began seeing practical value in their daily work, adoption expanded organically across the company.
 
-BBVA has long embraced technology to enhance service, from pioneering ATM deposits to award-winning mobile apps. The bank operates specific development centers for advanced analytics and AI to respond to their industry’s most complex challenges.
+### Empowering every department with expert knowledge
 
-With ChatGPT, the bank saw potential to democratize this expertise and put AI in the hands of employees. “Normally, in a business like ours, building even a prototype requires technical resources and time,” says Elena Alfaro, Head of Global AI Adoption at BBVA. “With custom GPTs, anyone can create apps to solve unique problems—it’s very easy to start.”
+As adoption expanded, employees across BBVA began building custom GPTs tailored to specialized workflows across legal, risk, customer service, finance, and marketing. To date, employees have created more than 20,000 GPTs across the organization, with approximately 4,000 used frequently by teams around the world.
 
-In 5 months, BBVA employees created over 2,900 custom GPTs—some of which reduce project and process timelines from weeks to hours.
+In credit risk, BBVA developed Credit Analysis Pro GPT, which accelerates assessments by extracting and analyzing unstructured data from annual reports, ESG disclosures, and media coverage—work that was previously manual and time-intensive. By automating these tasks, analysts can focus more on strategic analysis and higher-value work, including how ESG factors are incorporated into risk models.
 
-“ChatGPT helps us get from idea to prototype in a way that was impossible before,” says Ricardo Martín Manjón, Global Head of Data at BBVA. “Everyone from Uruguay to Mexico to Türkiye can build solutions with these capabilities simultaneously.” 
+In legal services, BBVA created a Retail Banking Legal Assistant GPT to help respond to approximately 40,000 annual client-related legal inquiries received from branch managers. The GPT drafts responses by pulling from multiple internal knowledge sources, dramatically reducing manual research time for the nine-person legal team.
 
-Credit Analysis Pro GPTCraft Opti Pro GPTLegal Assistant GPT
+In Mexico, a Client Experience Assistant GPT analyzes thousands of open-ended customer survey responses, accelerating sentiment analysis, surfacing key themes, and recommending actions that help improve customer experience faster and at scale.
 
-## Empowering every department with expert knowledge
+In Peru, more than 3,000 employees now use an internal AI assistant that has reduced average query handling times from approximately 7.5 minutes to around 1 minute—an efficiency improvement of roughly 80%.
 
-Since launching ChatGPT, BBVA employees in legal, risk, marketing, talent, and finance have built custom GPTs that accelerate data analysis and content creation, freeing experts for high-value work:
+These examples illustrate a broader shift underway at BBVA. What began as employee productivity gains is increasingly becoming a foundation for how the bank delivers services, makes decisions, and scales expertise across the organization.
 
-  * The **Credit Analysis Pro GPT** helps BBVA’s credit risk analysts accelerate their assessments by pulling unstructured data from a variety of sources, such as companies’ annual reports, ESG assessments, and press. Previously, the analysis of these documents was a manual, time-consuming task. The GPT automates much of this work, quickly extracting the relevant data and comparing it with peers. “By automating these tasks, we can focus more on strategic analysis and creativity—for instance, when considering how to integrate ESG factors into our risk models,” says Ignacio Sueiro, Principal Manager of BBVA’s GRM Risk Strategy.
-  * Sueiro also developed the **Craft Opti Pro GPT** to help users refine basic prompts. “This is especially helpful for our risk analysts, where precise questions and prompting lead to better outputs,” says Sueiro. “ChatGPT Enterprise provides a secure space to explore and allows us to scale solutions while continuously improving them based on user feedback.”
-  * The bank created the **BBVA Retail Banking Legal Assistant GPT** to draft answers for the 40K client questions that the legal services team receives from branch managers annually. The GPT provides faster and more accurate answers to clients, giving substantial time back to the small team of nine. “Before this GPT was created, our lawyers had to research from multiple sources and draft responses from scratch,” says Elena Chávarri, Head of Talent & Culture, Strategy & Performance at BBVA. “In the future, we plan to build one GPT per type of product: asset-side products, liability-side products, and so on.”
-  * Developed in Mexico to enhance customer service, the **Client Experience Assistant GPT** accelerates sentiment analysis by processing thousands of open-ended responses from NPS surveys, distilling key insights and recommending actionable steps. This approach helps BBVA better understand and respond to customer needs.
+> “We created a secure environment for learning and using AI.”
+
+—Elena Alfaro, Head of Global AI Adoption at BBVA
+
+### Results at a glance
+
+  * 100,000 employees using ChatGPT Enterprise globally
+  * 70%+ weekly active usage across deployed employees
+  * ~3 hours saved per employee, per week
+  * Up to 80% efficiency gains in selected workflows
+  * 250 senior leaders trained, including the CEO and chairman
+  * Security, legal, and compliance aligned from day one
+  * Employee-led AI adoption across business functions
+  * 8 major transformation initiatives under “The Eight”
 
 
 
-## Adoption framework for driving high ChatGPT usage 
+### Leadership lessons
 
-Led by Alfaro and her team, BBVA took a democratized approach to AI adoption, distributing 3,000 ChatGPT licenses across roles and regions and allowing employees to tailor solutions to their needs.
+  * **Treat AI as business transformation:** BBVA approached AI as a redesign of customer experience, operations, and ways of working across the organization — not as a standalone innovation effort.
+  * **Build with domain expertise:** The collaboration combines OpenAI’s frontier AI capabilities with BBVA’s deep expertise in banking, risk, operations, and customer experience.
+  * **Scale securely from day one:** Transforming a global financial institution with AI requires governance, data architecture, and security frameworks designed to scale across the organization.
+  * **Empower employees with AI:** By extending AI capabilities broadly across the workforce, BBVA is enabling employees to become active participants in the bank’s transformation.
+  * **Train leadership early:** AI adoption accelerates when senior leaders actively use the technology themselves. Early training programs for executives — including the CEO and chairman — help establish AI as a strategic priority across the organization.
+  * **Move from reactive to proactive banking:** The long-term ambition is not simply greater efficiency, but a more intelligent and personalized banking experience capable of anticipating customer needs.
 
-“Our strategy is focused on putting people at the heart of everything that we do,” Alfaro says. “We gave licenses directly to the people who are in front of the problems, because they’re the ones who know where the opportunities lie.”
 
-A team of champions from 21 domains and regions, along with advanced users known as AI “wizards,” lead hands-on workshops, helping colleagues integrate ChatGPT into daily work and identifying valuable use cases and challenges.
 
-![AI adoption structure: Global AI Team led by Elena Alfaro, AI Network with leaders and advanced users, and a Community of 3,000 ChatGPT Enterprise pilot users, supported by security, data, and compliance teams.](https://images.ctfassets.net/kftzwdyauwt9/C27C189uopJijw9coZXVx/90f12a0196eb0ae4149bee292982519b/BBVA_Chart_Update.svg?w=3840&q=90)
+### What’s next
 
-## Metrics for tracking AI success
+For BBVA, ChatGPT Enterprise adoption is only one part of a much larger transformation. Through "The Eight," the bank is pursuing a long-term vision for redesigning banking around AI—from customer engagement and commercial banking to risk, operations, software development, and employee productivity.
 
-To measure the initiative’s success, BBVA tracks engagement, productivity, and feedback. Employees actively participate in training and feedback surveys, and adoption data shows that 83% of ChatGPT users use it weekly for productivity and efficiency gains.
+Working closely with OpenAI, BBVA is continuing to explore how AI can help create a more proactive, intelligent, and personalized banking experience while improving how work gets done across the organization. The goal is not simply to deploy AI tools, but to rethink how a global bank operates in an AI-native era.
 
-Beyond efficiency, ChatGPT has sparked creativity and teamwork. BBVA created an internal GPT Store—a growing library of around 700 GPTs that are available to all users—to enable employees to discover and enhance each other’s solutions. 
+## Join the new era of work
 
-“People see a GPT someone else made, reach out, and build on it with their own ideas,” Alfaro notes. “It’s been very important to create spaces where people can collaborate and share what they are learning.”
+More than 1 million businesses around the world are achieving meaningful results with OpenAI.
 
-## Delivering a multimodal banking experience
-
-With foundational applications already proving impactful, BBVA plans to continue scaling its use of ChatGPT, further personalizing services with conversational AI that is more responsive and interactive. 
-
-“What’s coming next is the opportunity to deliver more personalization and more convenience to all of our customers,” says Martín Manjón. “Soon all apps will be multimodal, interacting through text, voice, and even visual elements. This kind of rich experience is incredibly exciting.”
-
-“We really feel that this is the start of a new era of collaboration between humans and machines,” agrees Alfaro. “When I think it has only been five months since we started, it’s unbelievable.”
-
-## Interested in learning more about ChatGPT for business?
-
-[Talk with our team](</contact-sales/>)
+[Contact sales](</contact-sales/>)
 
 ## Keep reading
 
-![\[2.0\] Card > Media > Grab](https://images.ctfassets.net/kftzwdyauwt9/1oU3yr7ION7tdcVrPThcXv/5fcc97973d4b33cd95ca4cf335163cb4/oai_grab_1_1.jpg?w=3840&q=90&fm=webp)
+![Introducing OpenAI Academy courses > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/2mmXo430NiaNqyi6YrRtnh/715ab11fa5003dd50acff55adcb4a5fd/Frame.png?w=3840&q=90&fm=webp)
 
-[ Building smarter maps with GPT-4o vision fine-tuningNov 20, 2024](</index/grab/>)
+[New OpenAI Academy courses for the next era of workAI AdoptionJun 12, 2026](</index/academy-courses-applying-ai-at-work/>)
 
-![\[2.0\] Card > Media > Rox](https://images.ctfassets.net/kftzwdyauwt9/5LfsJRQ4mOiE4uCccU53Yc/182d111570f399dd1ae1679f7c77ca6a/oai_rox_1_1.jpg?w=3840&q=90&fm=webp)
+![Preply Customer story > oai preply 1x1](https://images.ctfassets.net/kftzwdyauwt9/6PmaSoARNrmSZ6QRM8G4Ev/08a3dd4653efbda42894c90b374b6bcf/oai_Preply_1x1.png?w=3840&q=90&fm=webp)
 
-[Rox goes “all in” on OpenAINov 19, 2024](</index/rox/>)
+[How Preply combines AI and human tutors to personalize learningJun 12, 2026](</index/preply/>)
 
-![\[2.0\] Card > Media > Estee Lauder](https://images.ctfassets.net/kftzwdyauwt9/5r8WffR8g3bbiYmlugUs9c/d9232bfac9f79ed6ad2fa79327822878/oai_esteelauder_1_1.jpg?w=3840&q=90&fm=webp)
+![Supporting Europe’s work in ensuring a trustworthy AI ecosystem  > art card](https://images.ctfassets.net/kftzwdyauwt9/U3OuQtdga2BaxWxb0e2ge/2fdc2fb1cf5c70a8f77fc4b55236aa78/Frame2.png?w=3840&q=90&fm=webp)
 
-[Data-driven beauty and creativity with ChatGPTNov 13, 2024](</index/estee-lauder/>)
+[Supporting Europe’s work in ensuring a trustworthy AI ecosystem Global AffairsJun 11, 2026](</index/supporting-eu-trustworthy-ai-ecosystem/>)
 
 Research
 

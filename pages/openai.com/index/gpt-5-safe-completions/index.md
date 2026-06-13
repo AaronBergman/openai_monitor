@@ -26,14 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-How it works
-
-  * How it works
-  * Results
-  * Conclusions
-
-
-
 August 7, 2025
 
 [Safety](</news/safety-alignment/>)[Release](</research/index/release/>)[Publication](</research/index/publication/>)
@@ -45,6 +37,22 @@ Introduced in GPT‑5, safe-completion is a new safety-training approach to maxi
 [Read the paper(opens in a new window)](<https://cdn.openai.com/pdf/be60c07b-6bc2-4f54-bcee-4141e1d6c69a/gpt-5-safe_completions.pdf>)
 
 Share
+
+How it works
+
+  * How it works
+  * Results
+  * Conclusions
+
+
+
+Table of contents
+
+  * How it works
+  * Results
+  * Conclusions
+
+
 
 **If a user asks ChatGPT for the minimum energy needed to ignite a firework display, should it give a helpful answer?** The user could be preparing for a July 4th display or a research project for school … or build explosives. As a result, giving a helpful answer could be harmless or harmful depending on the user’s (apparent) intent. This kind of prompt is _dual-use_ : a question with unclear intent, where information could be used in benign or malicious ways. Dual-use problems are especially prevalent in risk areas such as biology and cybersecurity.
 

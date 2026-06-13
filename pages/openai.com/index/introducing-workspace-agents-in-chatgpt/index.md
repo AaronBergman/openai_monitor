@@ -26,19 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Build a powerful workspace agent in minutes
-
-  * Build a powerful workspace agent in minutes
-  * Put agents to work across tools and teams
-  * Turn best practices into shared agents
-  * Stay in control, with the right safeguards
-  * Enterprise governance and visibility
-  * Early feedback from customers
-  * Availability and pricing
-  * What’s next
-
-
-
 April 22, 2026
 
 [Product](</news/product-releases/>)
@@ -52,6 +39,32 @@ Codex-powered agents for teams.
 Loading…
 
 Share
+
+Build a powerful workspace agent in minutes
+
+  * Build a powerful workspace agent in minutes
+  * Put agents to work across tools and teams
+  * Turn best practices into shared agents
+  * Stay in control, with the right safeguards
+  * Enterprise governance and visibility
+  * Early feedback from customers
+  * Availability and pricing
+  * What’s next
+
+
+
+Table of contents
+
+  * Build a powerful workspace agent in minutes
+  * Put agents to work across tools and teams
+  * Turn best practices into shared agents
+  * Stay in control, with the right safeguards
+  * Enterprise governance and visibility
+  * Early feedback from customers
+  * Availability and pricing
+  * What’s next
+
+
 
 Today, we’re introducing workspace agents in ChatGPT. Teams can now create shared agents that handle complex tasks and long-running workflows, all while operating within the permissions and controls set by their organization.
 

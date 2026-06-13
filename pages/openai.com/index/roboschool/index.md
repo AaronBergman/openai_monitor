@@ -26,15 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Environments
-
-  * Environments
-  * Interactive and robust control
-  * Multiplayer
-  * See also
-
-
-
 May 15, 2017
 
 [Release](</research/index/release/>)
@@ -48,6 +39,24 @@ We are releasing Roboschool: open-source software for robot simulation, integrat
 Loading…
 
 Share
+
+Environments
+
+  * Environments
+  * Interactive and robust control
+  * Multiplayer
+  * See also
+
+
+
+Table of contents
+
+  * Environments
+  * Interactive and robust control
+  * Multiplayer
+  * See also
+
+
 
 Loading...
 

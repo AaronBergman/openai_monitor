@@ -70,23 +70,23 @@ Do your most ambitious work from start to finish.
 
 ![Top 10 uses for Codex at work > card image](https://images.ctfassets.net/kftzwdyauwt9/23Axi2CAv85jqsBMZ98fAI/230757b8f4bcdc4de4ec24c50da3f5be/top-10-at-work.png?w=3840&q=90&fm=webp)
 
-[Top 10 uses for Codex at workExplore 10 practical ways to use Codex for writing, synthesis, planning, research, and repeatable work.](</academy/top-10-use-cases-codex-for-work/>)
+[Top 10 uses for Codex at workExplore 10 practical ways to use Codex.](</academy/how-to-use-codex-for-everyday-work/>)
 
 ![How finance teams use Codex > card image](https://images.ctfassets.net/kftzwdyauwt9/4VU5At1ybQhEoHRaoWSJzK/b2909183102b81eef94eb9d9541d4841/finance_teams.png?w=3840&q=90&fm=webp)
 
-[How finance teams use CodexSee how finance teams can use Codex to build review-ready assets for monthly business reviews, reporting, variance analysis, and planning.](</academy/how-finance-teams-use-codex/>)
+[How finance teams use CodexAccelerate reporting, planning, and business reviews.](</academy/how-finance-teams-use-codex/>)
 
 ![How data science teams use Codex > card image](https://images.ctfassets.net/kftzwdyauwt9/xyevYnp4Ptaa1eMgBDNjS/75fea80018f321b89809d893f1a5786d/data_science_teams.png?w=3840&q=90&fm=webp)
 
-[How data science teams use CodexSee how data science teams can use Codex to turn questions, dashboards, and raw data into review-ready analysis assets.](</academy/codex-for-work/how-data-science-teams-use-codex/>)
+[How data science teams use CodexMove from dashboards to actionable analysis faster.](</academy/codex-for-work/how-data-science-teams-use-codex/>)
 
 ![How sales teams use Codex > card image](https://images.ctfassets.net/kftzwdyauwt9/1O4te2wMh6O77eDV6kapG3/02845b054a09297b9fada40c4cc9a71f/sales_teams.png?w=3840&q=90&fm=webp)
 
-[How sales teams use CodexExplore how sales teams can use Codex to turn account context, customer conversations, and deal signals into pipeline briefs, meeting packs, forecast reviews, and account plans.](</academy/codex-for-work/how-sales-teams-use-codex/>)
+[How sales teams use CodexPrepare smarter account plans and forecast reviews.](</academy/codex-for-work/how-sales-teams-use-codex/>)
 
 ![How business operations teams use Codex > card image](https://images.ctfassets.net/kftzwdyauwt9/JR9MMoyTo7eFFF8Nv13Qc/43414ee0c762db49e36bda8ae0d35e39/bus_ops_teams.png?w=3840&q=90&fm=webp)
 
-[How business operations teams use CodexExplore how business operations teams can use Codex to turn scattered initiative context, metrics, trackers, and stakeholder input into decision-ready briefs, updates, packets, and tradeoff models.](</academy/codex-for-work/how-business-operations-teams-use-codex/>)
+[How business operations teams use CodexKeep initiatives aligned with clearer operational briefs.](</academy/codex-for-work/how-business-operations-teams-use-codex/>)
 
 ## Learn through events and workshops
 
@@ -96,7 +96,7 @@ Join live and on-demand sessions to see Codex in action, explore real business w
 
 #### Explore more
 
-![Academy Hub > Layout > Group > Categories > AI fundamentals > Media > Asset](https://images.ctfassets.net/kftzwdyauwt9/7rejk8WKElp9L5xYFBO1Zk/a0cf6457b6fbcf6c26e8ce2e257dddc1/Cover-fundamentals.png?w=3840&q=90&fm=webp)
+![Academy V2 > Group > Courses > 3-card grid > Applied AI foundations > Media > Asset](https://images.ctfassets.net/kftzwdyauwt9/7rejk8WKElp9L5xYFBO1Zk/c8eb8e46dd564723e2eaaa5b203f26f7/Build_1_1__1_.png?w=3840&q=90&fm=webp)
 
 ### AI fundamentals
 
@@ -104,7 +104,7 @@ An introduction to how AI works, where it’s applied, and how to use it respons
 
 [Learn more](</academy/ai-fundamentals/>)
 
-![Academy Hub > Layout > Group > Categories > ChatGPT for work > Media > Asset](https://images.ctfassets.net/kftzwdyauwt9/4isWF93VlOu8b5EpVONDeo/4ace7b74dc5d84236657e954f09c005f/Cover-work.png?w=3840&q=90&fm=webp)
+![Academy Hub > Layout > Group > Categories > ChatGPT for work > Media > Asset](https://images.ctfassets.net/kftzwdyauwt9/4isWF93VlOu8b5EpVONDeo/49c15b4f7808ecf53df0e3eef5dc126a/Work_1_1.png?w=3840&q=90&fm=webp)
 
 ### ChatGPT for work
 
@@ -112,7 +112,7 @@ How teams use ChatGPT across roles and industries.
 
 [Learn more](</academy/chatgpt-for-work/>)
 
-![Academy Hub > Layout > Group > Categories > Codex > Media > Asset](https://images.ctfassets.net/kftzwdyauwt9/4a0UlJKsQXDLL6k7khzEmr/ddac544c58137463e3963b22de3317c5/Cover-codex.png?w=3840&q=90&fm=webp)
+![Academy Hub > Layout > Group > Categories > Codex > Media > Asset](https://images.ctfassets.net/kftzwdyauwt9/4a0UlJKsQXDLL6k7khzEmr/e7428c71d17da9184f986ff9a120211b/Codex_1_1.png?w=3840&q=90&fm=webp)
 
 ### Codex
 
@@ -126,11 +126,10 @@ Connect with a community of peers exploring and building with AI.
 
 [Learn more(opens in a new window)](<https://academy.openai.com/>)
 
-Our Research
+Research
 
   * [Research Index](</research/index/>)
   * [Research Overview](</research/>)
-  * [Research Residency](</residency/>)
   * [Economic Research](</signals/>)
 
 
@@ -140,44 +139,53 @@ Latest Advancements
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
   * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
-  * [GPT-5.3-Codex](</index/introducing-gpt-5-3-codex/>)
 
 
 
 Safety
 
   * [Safety Approach](</safety/>)
+  * [Deployment Safety(opens in a new window)](<https://deploymentsafety.openai.com/>)
   * [Security & Privacy](</security-and-privacy/>)
   * [Trust & Transparency](</trust-and-transparency/>)
 
 
 
-ChatGPT
+Products
 
-  * [Explore ChatGPT(opens in a new window)](<https://chatgpt.com/overview>)
-  * [Business](<https://chatgpt.com/business/business-plan>)
-  * [Enterprise](<https://chatgpt.com/business/enterprise>)
-  * [Education](<https://chatgpt.com/business/education>)
-  * [Pricing(opens in a new window)](<https://chatgpt.com/pricing>)
-  * [Download(opens in a new window)](<https://chatgpt.com/download>)
+  * [ChatGPT(opens in a new window)](<https://chatgpt.com/>)
+  * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
+  * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
+  * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
+  * [Codex](</codex/>)
+  * [Release Notes](</products/release-notes/>)
 
 
 
 API Platform
 
-  * [Platform Overview](</api/>)
-  * [Pricing](</api/pricing/>)
-  * [API log in(opens in a new window)](<https://platform.openai.com/login>)
-  * [Documentation(opens in a new window)](<https://developers.openai.com/api/docs>)
-  * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
+  * [Overview](</api/>)
+  * [API Log In(opens in a new window)](<https://platform.openai.com/login>)
+  * [Docs(opens in a new window)](<https://developers.openai.com/api/docs>)
 
 
 
-For Business
+Business
 
-  * [Business Overview](</business/>)
+  * [Overview](</business/>)
   * [Solutions](</solutions/>)
+  * [Resources](</business/learn/>)
   * [Contact Sales](</contact-sales/>)
+
+
+
+Developers
+
+  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
+  * [Open Models](</open-models/>)
+  * [Docs(opens in a new window)](<https://developers.openai.com/>)
+  * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
+  * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
 
 
 
@@ -185,9 +193,8 @@ Company
 
   * [About Us](</about/>)
   * [Our Charter](</charter/>)
-  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
   * [Careers](</careers/>)
-  * [Brand](</brand/>)
+  * [News](</news/>)
 
 
 
@@ -199,7 +206,6 @@ Support
 
 More
 
-  * [News](</news/>)
   * [Stories](</stories/>)
   * [Academy](</academy/>)
   * [Livestreams](</live/>)

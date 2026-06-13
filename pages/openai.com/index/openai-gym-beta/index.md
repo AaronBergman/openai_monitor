@@ -26,15 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Getting started
-
-  * Getting started
-  * Why RL?
-  * The environments
-  * Evaluations
-
-
-
 April 27, 2016
 
 [Release](</research/index/release/>)
@@ -48,6 +39,24 @@ April 27, 2016
 Loading…
 
 Share
+
+Getting started
+
+  * Getting started
+  * Why RL?
+  * The environments
+  * Evaluations
+
+
+
+Table of contents
+
+  * Getting started
+  * Why RL?
+  * The environments
+  * Evaluations
+
+
 
 We’re releasing the public beta of OpenAI Gym, a toolkit for developing and comparing reinforcement learning (RL) algorithms. It consists of a growing suite of environments (from simulated robots to Atari games), and a site for comparing and reproducing results.
 

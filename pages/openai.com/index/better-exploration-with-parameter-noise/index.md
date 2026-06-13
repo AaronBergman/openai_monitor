@@ -26,13 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Baselines and benchmarks
-
-  * Baselines and benchmarks
-  * Development
-
-
-
 July 27, 2017
 
 [Publication](</research/index/publication/>)
@@ -48,6 +41,20 @@ Illustration: Ben Barry
 Loading…
 
 Share
+
+Baselines and benchmarks
+
+  * Baselines and benchmarks
+  * Development
+
+
+
+Table of contents
+
+  * Baselines and benchmarks
+  * Development
+
+
 
 We’ve found that adding adaptive noise to the parameters of reinforcement learning algorithms frequently boosts performance. This exploration method is simple to implement and very rarely decreases performance, so it’s worth trying on any problem.
 

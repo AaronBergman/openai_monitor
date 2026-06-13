@@ -26,17 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-The challenges of GPU programming
-
-  * The challenges of GPU programming
-  * Programming model
-  * Matrix multiplication
-  * High-level system architecture
-  * Compiler backend
-  * Contributing
-
-
-
 July 28, 2021
 
 [Release](</research/index/release/>)
@@ -50,6 +39,28 @@ July 28, 2021
 Loading…
 
 Share
+
+The challenges of GPU programming
+
+  * The challenges of GPU programming
+  * Programming model
+  * Matrix multiplication
+  * High-level system architecture
+  * Compiler backend
+  * Contributing
+
+
+
+Table of contents
+
+  * The challenges of GPU programming
+  * Programming model
+  * Matrix multiplication
+  * High-level system architecture
+  * Compiler backend
+  * Contributing
+
+
 
 We’re releasing Triton 1.0, an open-source Python-like programming language which enables researchers with no CUDA experience to write highly efficient GPU code—most of the time on par with what an expert would be able to produce.
 

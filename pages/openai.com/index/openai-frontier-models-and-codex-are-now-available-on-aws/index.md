@@ -26,14 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Bringing OpenAI capabilities into AWS environments
-
-  * Bringing OpenAI capabilities into AWS environments
-  * Helping customers move from interest to implementation
-  * What’s next, including cyber availability
-
-
-
 June 1, 2026
 
 [Product](</news/product-releases/>)
@@ -45,6 +37,22 @@ Helping enterprises bring AI into production through their existing security, go
 [Get started with OpenAI on AWS(opens in a new window)](<https://aws.amazon.com/bedrock/openai/>)
 
 Share
+
+Bringing OpenAI capabilities into AWS environments
+
+  * Bringing OpenAI capabilities into AWS environments
+  * Helping customers move from interest to implementation
+  * What’s next, including cyber availability
+
+
+
+Table of contents
+
+  * Bringing OpenAI capabilities into AWS environments
+  * Helping customers move from interest to implementation
+  * What’s next, including cyber availability
+
+
 
 Today, OpenAI frontier models and Codex are generally available on AWS, opening a new path for millions of AWS customers to build with OpenAI through the platform they already use to run their business.  
   

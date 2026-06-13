@@ -26,16 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-The task
-
-  * The task
-  * The International
-  * Bot exploits
-  * Infrastructure
-  * 5v5
-
-
-
 August 16, 2017
 
 [Milestone](</research/index/milestone/>)
@@ -47,6 +37,26 @@ August 16, 2017
 Loading…
 
 Share
+
+The task
+
+  * The task
+  * The International
+  * Bot exploits
+  * Infrastructure
+  * 5v5
+
+
+
+Table of contents
+
+  * The task
+  * The International
+  * Bot exploits
+  * Infrastructure
+  * 5v5
+
+
 
 Our Dota 2 result shows that self-play can catapult the performance of machine learning systems from far below human level to superhuman, given sufficient compute. In the span of a month, our system went from barely matching a high-ranked player to beating the top pros and has continued to improve since then. Supervised deep learning systems can only be as good as their training datasets, but in self-play systems, the available data improves automatically as the agent gets better.
 

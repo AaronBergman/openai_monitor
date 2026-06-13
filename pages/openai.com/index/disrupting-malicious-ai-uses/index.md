@@ -36,8 +36,6 @@ Our latest report featuring case studies of how we’re detecting and preventing
 
 [Read the report(opens in a new window)](<https://cdn.openai.com/pdf/df438d70-e3fe-4a6c-a403-ff632def8f79/disrupting-malicious-uses-of-ai.pdf>)
 
-Share
-
 In the two years since we began publishing these threat reports, we have gained important insights into the ways threat actors attempt to abuse AI models. In particular, the case studies in this report, as in our earlier reports, illustrate how threat actors typically use AI in combination with other, more traditional tools such as websites and social media accounts. Threat activity is seldom limited to one platform; as our report on a Chinese influence operator shows, it is not always limited to one AI model. Rather, threat actors may use different AI models at various points in their operational workflow. We share these insights in our threat reports so that our industry, and wider society, can be better placed to identify and avoid such threats. 
 
 Read the full report [here⁠(opens in a new window)](<https://cdn.openai.com/pdf/df438d70-e3fe-4a6c-a403-ff632def8f79/disrupting-malicious-uses-of-ai.pdf>).
@@ -54,23 +52,22 @@ OpenAI
 
 [View all](</news/>)
 
-![Introducing Advanced Account Security ](https://images.ctfassets.net/kftzwdyauwt9/4qS0zHVYqjyQCXbjR0GBgo/afaf8ff54069198f148dec57aa40461b/ArtCard-Introducing_Advanced_Account_Security_for_ChatGPT_accounts.png?w=3840&q=90&fm=webp)
+![codex windows > art card](https://images.ctfassets.net/kftzwdyauwt9/6ZvTl8ZL23BOhoI6jz0EmR/49d6038b9f92773d4f866f4bfacabdbf/Art_Card__5_.png?w=3840&q=90&fm=webp)
 
-[Introducing Advanced Account SecurityProductApr 30, 2026](</index/advanced-account-security/>)
+[Building a safe, effective sandbox to enable Codex on WindowsEngineeringMay 13, 2026](</index/building-codex-windows-sandbox/>)
 
-![Introducing OpenAI Privacy Filter](https://images.ctfassets.net/kftzwdyauwt9/1QC19b0SnrQJTDqGRfze1s/e1eb7f76da62522b1bd0c9a6f553833d/ArtCard-Introducing-OpenAI-Filter.png?w=3840&q=90&fm=webp)
+![Frame](https://images.ctfassets.net/kftzwdyauwt9/32jPyVqUObkTrIIyA6tJV1/4eb384b5bb2f21ccea5de7665858a37a/Frame.png?w=3840&q=90&fm=webp)
 
-[Introducing OpenAI Privacy FilterResearchApr 22, 2026](</index/introducing-openai-privacy-filter/>)
+[Our response to the TanStack npm supply chain attackCompanyMay 13, 2026](</index/our-response-to-the-tanstack-npm-supply-chain-attack/>)
 
-![accelerating-cyber-defense-ecosystem-1x1](https://images.ctfassets.net/kftzwdyauwt9/1TzwLMgMx0r6t1GQsFAiHH/ff5d38b5bc11d22a2442bb0f151ee83f/accelerating-cyber-defense-ecosystem-1x1.png?w=3840&q=90&fm=webp)
+![Running Codex safely at OpenAI > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/76rTHgn2J3y6srtNd3ZrRs/71fc86af978baecda10b212fdb5d3609/Frame.png?w=3840&q=90&fm=webp)
 
-[Accelerating the cyber defense ecosystem that protects us allSecurityApr 16, 2026](</index/accelerating-cyber-defense-ecosystem/>)
+[Running Codex safely at OpenAISecurityMay 8, 2026](</index/running-codex-safely/>)
 
-Our Research
+Research
 
   * [Research Index](</research/index/>)
   * [Research Overview](</research/>)
-  * [Research Residency](</residency/>)
   * [Economic Research](</signals/>)
 
 
@@ -80,44 +77,53 @@ Latest Advancements
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
   * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
-  * [GPT-5.3-Codex](</index/introducing-gpt-5-3-codex/>)
 
 
 
 Safety
 
   * [Safety Approach](</safety/>)
+  * [Deployment Safety(opens in a new window)](<https://deploymentsafety.openai.com/>)
   * [Security & Privacy](</security-and-privacy/>)
   * [Trust & Transparency](</trust-and-transparency/>)
 
 
 
-ChatGPT
+Products
 
-  * [Explore ChatGPT(opens in a new window)](<https://chatgpt.com/overview>)
-  * [Business](<https://chatgpt.com/business/business-plan>)
-  * [Enterprise](<https://chatgpt.com/business/enterprise>)
-  * [Education](<https://chatgpt.com/business/education>)
-  * [Pricing(opens in a new window)](<https://chatgpt.com/pricing>)
-  * [Download(opens in a new window)](<https://chatgpt.com/download>)
+  * [ChatGPT(opens in a new window)](<https://chatgpt.com/>)
+  * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
+  * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
+  * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
+  * [Codex](</codex/>)
+  * [Release Notes](</products/release-notes/>)
 
 
 
 API Platform
 
-  * [Platform Overview](</api/>)
-  * [Pricing](</api/pricing/>)
-  * [API log in(opens in a new window)](<https://platform.openai.com/login>)
-  * [Documentation(opens in a new window)](<https://developers.openai.com/api/docs>)
-  * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
+  * [Overview](</api/>)
+  * [API Log In(opens in a new window)](<https://platform.openai.com/login>)
+  * [Docs(opens in a new window)](<https://developers.openai.com/api/docs>)
 
 
 
-For Business
+Business
 
-  * [Business Overview](</business/>)
+  * [Overview](</business/>)
   * [Solutions](</solutions/>)
+  * [Resources](</business/learn/>)
   * [Contact Sales](</contact-sales/>)
+
+
+
+Developers
+
+  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
+  * [Open Models](</open-models/>)
+  * [Docs(opens in a new window)](<https://developers.openai.com/>)
+  * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
+  * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
 
 
 
@@ -125,9 +131,8 @@ Company
 
   * [About Us](</about/>)
   * [Our Charter](</charter/>)
-  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
   * [Careers](</careers/>)
-  * [Brand](</brand/>)
+  * [News](</news/>)
 
 
 
@@ -139,7 +144,6 @@ Support
 
 More
 
-  * [News](</news/>)
   * [Stories](</stories/>)
   * [Academy](</academy/>)
   * [Livestreams](</live/>)

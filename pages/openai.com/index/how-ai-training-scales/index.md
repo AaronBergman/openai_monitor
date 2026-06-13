@@ -26,13 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Patterns in the gradient noise scale
-
-  * Patterns in the gradient noise scale
-  * Implications
-
-
-
 December 14, 2018
 
 [Milestone](</research/index/milestone/>)
@@ -46,6 +39,20 @@ December 14, 2018
 Loading…
 
 Share
+
+Patterns in the gradient noise scale
+
+  * Patterns in the gradient noise scale
+  * Implications
+
+
+
+Table of contents
+
+  * Patterns in the gradient noise scale
+  * Implications
+
+
 
 We’ve discovered that the gradient noise scale, a simple statistical metric, predicts the parallelizability of neural network training on a wide range of tasks. Since complex tasks tend to have noisier gradients, increasingly large batch sizes are likely to become useful in the future, removing one potential limit to further growth of AI systems. More broadly, these results show that neural network training need not be considered a mysterious art, but can be rigorized and systematized.
 

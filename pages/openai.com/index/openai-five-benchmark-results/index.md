@@ -26,15 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Overview of the day
-
-  * Overview of the day
-  * Training
-  * Peaking at the model
-  * What’s next
-
-
-
 August 6, 2018
 
 [Milestone](</research/index/milestone/>)
@@ -46,6 +37,24 @@ August 6, 2018
 Loading…
 
 Share
+
+Overview of the day
+
+  * Overview of the day
+  * Training
+  * Peaking at the model
+  * What’s next
+
+
+
+Table of contents
+
+  * Overview of the day
+  * Training
+  * Peaking at the model
+  * What’s next
+
+
 
 Yesterday, [OpenAI Five⁠](</index/openai-five/>) won a best-of-three against a team of 99.95th percentile Dota players: [Blitz⁠(opens in a new window)](<https://liquipedia.net/dota2/Blitz>), [Cap⁠(opens in a new window)](<https://liquipedia.net/dota2/Capitalist>), [Fogged⁠(opens in a new window)](<https://liquipedia.net/dota2/Fogged>), [Merlini⁠(opens in a new window)](<https://liquipedia.net/dota2/Merlini>), and [MoonMeander⁠(opens in a new window)](<https://liquipedia.net/dota2/MoonMeander>)—four of whom have played Dota professionally—in front of a live audience and 100,000 concurrent livestream viewers.
 

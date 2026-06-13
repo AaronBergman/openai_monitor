@@ -26,6 +26,18 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
+April 15, 2019
+
+[Milestone](</research/index/milestone/>)
+
+# OpenAI Five defeats Dota 2 world champions
+
+![OpenAI Five competitive event in a large, dim venue with bright spotlights and a large audience](https://images.ctfassets.net/kftzwdyauwt9/12b8cb5b-dbf2-4e54-54ed702c36f5/692053b6fc20292d8868af782748fa4a/openai-five-defeats-dota-2-world-champions.jpg?w=3840&q=90&fm=webp)
+
+Loading…
+
+Share
+
 Why Dota?
 
   * Why Dota?
@@ -38,17 +50,17 @@ Why Dota?
 
 
 
-April 15, 2019
+Table of contents
 
-[Milestone](</research/index/milestone/>)
+  * Why Dota?
+  * Compute
+  * Transfer learning
+  * More heroes
+  * Cooperative mode
+  * Arena
+  * What’s next
 
-# OpenAI Five defeats Dota 2 world champions
 
-![OpenAI Five competitive event in a large, dim venue with bright spotlights and a large audience](https://images.ctfassets.net/kftzwdyauwt9/12b8cb5b-dbf2-4e54-54ed702c36f5/692053b6fc20292d8868af782748fa4a/openai-five-defeats-dota-2-world-champions.jpg?w=3840&q=90&fm=webp)
-
-Loading…
-
-Share
 
 OpenAI Five is the first AI to beat the world champions in an esports game, having won two back-to-back games versus the world champion Dota 2 team, [OG⁠(opens in a new window)](<https://twitter.com/OGesports>), at [Finals⁠](</index/openai-five-finals/>) this weekend. Both OpenAI Five and DeepMind’s AlphaStar had previously beaten good pros privately but lost their live pro matches, making this also the first time an AI has beaten esports pros on livestream.
 

@@ -26,16 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Motivation
-
-  * Motivation
-  * Results
-  * Contribution
-  * Scale
-  * Directions for research
-
-
-
 July 9, 2018
 
 [Milestone](</research/index/milestone/>)
@@ -49,6 +39,26 @@ July 9, 2018
 Loading…
 
 Share
+
+Motivation
+
+  * Motivation
+  * Results
+  * Contribution
+  * Scale
+  * Directions for research
+
+
+
+Table of contents
+
+  * Motivation
+  * Results
+  * Contribution
+  * Scale
+  * Directions for research
+
+
 
 We introduce  _Glow_ , a reversible generative model which uses invertible 1x1 convolutions. It extends [previous⁠(opens in a new window)](<https://arxiv.org/abs/1410.8516>) [work⁠(opens in a new window)](<https://arxiv.org/abs/1605.08803>) on reversible generative models and simplifies the architecture. Our model can generate realistic high resolution images, supports efficient sampling, and discovers features that can be used to manipulate attributes of data. We’re releasing code for the model and an online visualization tool so people can explore and build on these results.
 

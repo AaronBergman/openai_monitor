@@ -26,16 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-etcd
-
-  * etcd
-  * Kube masters
-  * Docker image pulls
-  * Networking
-  * ARP cache
-
-
-
 January 18, 2018
 
 [Conclusion](</research/index/conclusion/>)
@@ -47,6 +37,26 @@ January 18, 2018
 Loading…
 
 Share
+
+etcd
+
+  * etcd
+  * Kube masters
+  * Docker image pulls
+  * Networking
+  * ARP cache
+
+
+
+Table of contents
+
+  * etcd
+  * Kube masters
+  * Docker image pulls
+  * Networking
+  * ARP cache
+
+
 
 We’ve been [running⁠(opens in a new window)](<https://blog.openai.com/infrastructure-for-deep-learning/>) [Kubernetes⁠(opens in a new window)](<https://kubernetes.io/>) for deep learning research for over two years. While our largest-scale workloads manage bare cloud VMs directly, Kubernetes provides a fast iteration cycle, reasonable scalability, and a lack of boilerplate which makes it ideal for most of our experiments. We now operate several Kubernetes clusters (some in the cloud and some on physical hardware), the largest of which we’ve pushed to over 2,500 nodes. This cluster runs in Azure on a combination of D15v2 and NC24 VMs.
 

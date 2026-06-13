@@ -26,14 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-PPO
-
-  * PPO
-  * Controllable, complicated robots
-  * Baselines: PPO, PPO2, ACER, and TRPO
-
-
-
 July 20, 2017
 
 [Release](</research/index/release/>)
@@ -49,6 +41,22 @@ Illustration: Ben Barry
 Loading…
 
 Share
+
+PPO
+
+  * PPO
+  * Controllable, complicated robots
+  * Baselines: PPO, PPO2, ACER, and TRPO
+
+
+
+Table of contents
+
+  * PPO
+  * Controllable, complicated robots
+  * Baselines: PPO, PPO2, ACER, and TRPO
+
+
 
 We’re releasing a new class of reinforcement learning algorithms, Proximal Policy Optimization (PPO), which perform comparably or better than state-of-the-art approaches while being much simpler to implement and tune. PPO has become the default reinforcement learning algorithm at OpenAI because of its ease of use and good performance.
 
