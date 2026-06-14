@@ -123,7 +123,7 @@ By making business processes at Moderna more efficient and accurate, the use of 
 
 ![Notion > cover image](https://images.ctfassets.net/kftzwdyauwt9/2HBxiM1dDPpM1W56ehwgNi/01dc3dafe6aedcabc9808446492523ea/oai_Notion_1x1.png?w=3840&q=90&fm=webp)
 
-[Notion’s GPT‑5 rebuild unlocks autonomous AI workflowsAPI](</index/notion/>)
+[What Codex unlocks for NotionAPI](</index/notion/>)
 
 ![harvey](https://images.ctfassets.net/kftzwdyauwt9/3Bre17thWaoDDc2jrKbMB7/3599c43369575e04ad1a7a4a9eea2d36/harvey.png?w=3840&q=90&fm=webp)
 

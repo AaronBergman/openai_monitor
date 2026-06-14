@@ -26,14 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-What ChatGPT is designed to do
-
-  * What ChatGPT is designed to do
-  * Where our systems can fall short, why, and how we’re addressing
-  * What we are planning for the future
-
-
-
 August 26, 2025
 
 [Safety](</news/safety-alignment/>)[Product](</news/product-releases/>)
@@ -43,6 +35,22 @@ August 26, 2025
 Loading…
 
 Share
+
+What ChatGPT is designed to do
+
+  * What ChatGPT is designed to do
+  * Where our systems can fall short, why, and how we’re addressing
+  * What we are planning for the future
+
+
+
+Table of contents
+
+  * What ChatGPT is designed to do
+  * Where our systems can fall short, why, and how we’re addressing
+  * What we are planning for the future
+
+
 
 As ChatGPT adoption has grown worldwide, we’ve seen people turn to it not just for search, coding, and writing—but also deeply personal decisions that include [life advice⁠(opens in a new window)](<https://www.reddit.com/r/ChatGPT/comments/1k1dxpp/chatgpt_has_helped_me_more_than_15_years_of/>), [coaching⁠(opens in a new window)](<https://www.reddit.com/r/ChatGPT/comments/1h5y9nq/how_i_turned_chatgpt_into_my_personal/>), and [support⁠(opens in a new window)](<https://www.reddit.com/r/ChatGPT/comments/1kqwte8/chatgpt_is_actually_amazing_for_mental_health/>).
 

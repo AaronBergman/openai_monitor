@@ -1,3 +1,46 @@
+## 2026-06-14 — Run `2026-06-14T09-17Z`
+
+**TL;DR:** No new or removed URLs today. The 131 lastmod updates are almost entirely explained by a **sitewide navigation and template redesign** that rolled out June 13–14 across openai.com. The most meaningful signals: **Codex now appears in the global footer as a first-class product** alongside ChatGPT (a positioning upgrade, not just a feature mention); the **Research Residency program link was removed sitewide** (suggesting it's no longer active); a new **"Developers" section** was added to the footer navigation; and the Notion case study was quietly re-titled to center Codex rather than GPT-5. On the technical side, "Pro" tier pricing links switched from internal relative paths (`/chatgpt/pricing/`) to external absolute URLs (`chatgpt.com/pricing`), accelerating the structural separation between openai.com and chatgpt.com. No anomalies. Zero page additions or removals.
+
+### Anomalies
+None.
+
+### Sitewide Navigation Redesign (131 lastmod updates)
+
+OpenAI rolled out a sitewide footer overhaul across 131 pages in two waves (June 13 and June 14). Only 35 pages showed visible markdown content changes; the rest had invisible changes (CSS, JS bundles, CMS metadata).
+
+**What changed in the footer navigation:**
+
+- **"Our Research" → "Research"** (renamed)
+- **"ChatGPT" → "Products"** (renamed and expanded — now explicitly lists Codex and Release Notes)
+- **"For Business" → "Business"** (renamed)
+- **New "Developers" section added** — Apps SDK, Open Models, Docs, Resources, Developer Forum
+- **Safety section** now includes "Deployment Safety" as a distinct link (`deploymentsafety.openai.com`)
+- **Removed:** "Research Residency" link, "API Pricing" link, "GPT-5.3-Codex" from Latest Advancements
+
+**Article template:** Table of contents now renders at the top of blog/research posts rather than inline, causing a duplicate-TOC appearance in diffs. Layout-only change.
+
+**"Pro" pricing link:** Changed from internal `/chatgpt/pricing/` to external `chatgpt.com/pricing` on all affected pages — another step in the architectural separation of ChatGPT from openai.com.
+
+### Notable Individual Changes
+
+**[Moderna brand story](pages/openai.com/index/moderna/index.md)** — A related-stories card changed title: "Notion's GPT-5 rebuild unlocks autonomous AI workflows" → **"What Codex unlocks for Notion"**. The Notion case study was retroactively re-framed around Codex rather than GPT-5, signaling how OpenAI wants Codex perceived as the enterprise narrative thread.
+
+**[Cybersecurity in the Intelligence Age](pages/openai.com/index/cybersecurity-in-the-intelligence-age/index.md)** — Related articles rotated to show more recent pieces: "PRC-linked influence operations targeting AI debates" (Jun 10) and "Supporting Europe's trustworthy AI ecosystem" (Jun 11) replaced older articles.
+
+**[Teen Safety, Freedom and Privacy](pages/openai.com/index/teen-safety-freedom-and-privacy/index.md)** — Related articles updated to include "Confidential submission of draft S-1 to the SEC" and Oracle partnership announcement.
+
+**[Research / Publication index](pages/openai.com/research/index/publication/index.md)** — Minor: "GPT-5.4 Thinking System Card" and "Reasoning models struggle to control their chains of thought" swapped order.
+
+### Strategic Interpretation
+
+Codex's addition to the global product footer is the clearest signal this run. Together with last week's Astral acquisition (Python tooling) and the Ona acquisition (persistent cloud execution for agents, first seen Jun 12), OpenAI is assembling a distinct Codex product line with its own infrastructure layer — not just a ChatGPT feature. The Research Residency removal is the quietest but potentially most significant: the program was OpenAI's main pathway for training next-generation AI researchers; retiring it from public navigation suggests the company no longer needs it for talent acquisition at its current scale.
+
+*Full analysis: [runs/2026-06-14T09-17Z/analysis.md](runs/2026-06-14T09-17Z/analysis.md) | Diff: [runs/2026-06-14T09-17Z/diff.json](runs/2026-06-14T09-17Z/diff.json)*
+
+*Stats: 1,349 total URLs | 0 added | 131 updated | 0 removed | 0 anomalies | 34 sub-sitemaps*
+
+---
 ## 2026-06-13 — Run `2026-06-13T09-15Z`
 
 **TL;DR:** OpenAI launched a comprehensive advertising platform today, upgrading the narrow "Conversion Tools" product into a full "Ad Tools" suite that now includes **audience targeting** (upload your customer list, OpenAI builds custom audiences) and **AI Creative Tools** (use OpenAI's models to generate and optimize ad creatives). Three new policy pages published June 12–13; two older Conversion pages removed and superseded. Separately, OpenAI Academy got a major refresh — new "Applying AI at Work" courses announced, completion certificates added, and all Academy pages updated. Codex gained **Windows support** today (previously macOS-only). The homepage removed its "Learn about ChatGPT Business" hero link and promoted "Stories" instead. 170 total sitemap updates, mostly nav/template refreshes across the site. Zero anomalies.

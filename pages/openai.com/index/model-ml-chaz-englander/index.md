@@ -26,16 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-What was your first meaningful encounter with AI, and how did it influence the creation of Model ML?
-
-  * What was your first meaningful encounter with AI, and how did it influence the creation of Model ML?
-  * What are you seeing change inside financial services firms?
-  * How does Model ML stand out compared to general-purpose AI tools, and how are new model capabilities benefiting your customers?
-  * Looking ahead 12 months, what do you think will change the most?
-  * How do you keep your team agile as AI evolves so quickly?
-
-
-
 July 23, 2025
 
 [API](</stories/api/>)
@@ -50,13 +40,33 @@ Loading…
 
 Share
 
-** _Our Executive Function series features perspectives from leaders on the frontier of AI adoption._**
+What was your first meaningful encounter with AI, and how did it influence the creation of Model ML?
+
+  * What was your first meaningful encounter with AI, and how did it influence the creation of Model ML?
+  * What are you seeing change inside financial services firms?
+  * How does Model ML stand out compared to general-purpose AI tools, and how are new model capabilities benefiting your customers?
+  * Looking ahead 12 months, what do you think will change the most?
+  * How do you keep your team agile as AI evolves so quickly?
+
+
+
+Table of contents
+
+  * What was your first meaningful encounter with AI, and how did it influence the creation of Model ML?
+  * What are you seeing change inside financial services firms?
+  * How does Model ML stand out compared to general-purpose AI tools, and how are new model capabilities benefiting your customers?
+  * Looking ahead 12 months, what do you think will change the most?
+  * How do you keep your team agile as AI evolves so quickly?
+
+
+
+**_Our Executive Function series features perspectives from leaders on the frontier of AI adoption._**
 
 Model ML is building AI infrastructure transforming how leading financial services firms operate. Model ML’s platform features purpose-built agents and an application that automates end-to-end workflows as well as bespoke research and analysis. 
 
 We spoke with CEO and co-founder Chaz Englander about how financial firms are evolving, and how recent AI advances are automating and streamlining their operations.
 
-#### What was your first meaningful encounter with AI, and how did it influence the creation of Model ML?
+### What was your first meaningful encounter with AI, and how did it influence the creation of Model ML?
 
 After selling our last company, my brother and I realized we didn’t like investing but became obsessed with automating the investment process through GPT‑powered function calling.
 
@@ -64,7 +74,7 @@ We were a six-person family office, but with these GPT‑3.5‑powered LLMs, it 
 
 We built a prototype of Model ML for ourselves and didn’t plan to commercialize it. But once we saw the insight gains and efficiency from automating research workflows, we knew we were onto something.
 
-#### What are you seeing change inside financial services firms?
+### What are you seeing change inside financial services firms?
 
 There are tasks that historically used to take days, weeks, or even months, and some of those now can be done in minutes or hours. For example, preparing quarterly earnings summaries used to take hours. Now, agents handle this entire process: they pull the data, format the slides, and publish the Powerpoint to SharePoint, all without human intervention. I think that’s going to be the biggest shift we see this year… that you’re going to come in in the morning and your work will already be there.
 
@@ -82,7 +92,7 @@ Listen
 
 We are seeing the people within financial firms are more impactful now, not less. With automation taking on the grunt work, people can focus on relationships and strategic thinking. The firms that win will be the ones who rethink their entire operating structure to take advantage of that shift.
 
-#### How does Model ML stand out compared to general-purpose AI tools, and how are new model capabilities benefiting your customers?
+### How does Model ML stand out compared to general-purpose AI tools, and how are new model capabilities benefiting your customers?
 
 In finance, accuracy, compliance, and workflow-fit aren’t optional–they’re table-stakes. That specificity is where general-purpose tools fall short. Model ML was purpose-built for financial services from day one at two critical levels.
 
@@ -96,7 +106,7 @@ We’ve seen significant step-changes with every new model release that we’ve 
 
 Listen
 
-#### Looking ahead 12 months, what do you think will change the most?
+### Looking ahead 12 months, what do you think will change the most?
 
 I think the most profound shift ahead is the rise of end-to-end workflow automation, where your systems act as control towers overseeing an army of digital workers. As these agents take on more complex, multi-step tasks across your entire digital universe, even the UI and the way we interact with hardware will start to change. This is likely a step beyond the next 12 months, but it’s where we’re heading.
 
@@ -106,7 +116,7 @@ The real shift is that these workflows will run end-to-end, automatically, with 
 
 This is the future: autonomous digital teams running the workflows that drive your business—better, faster, and always on.
 
-#### How do you keep your team agile as AI evolves so quickly?
+### How do you keep your team agile as AI evolves so quickly?
 
 Our belief is that AI-native companies will look structurally different. Fewer layers, faster cycles, tighter feedback loops. We’ve embraced a flat structure. Arnie [my cofounder] and I each have double-digit direct reports. That might sound wild, but AI makes it manageable. All one-on-ones are AI-assisted. Notes, to-dos, context, it’s all streamlined. It lets us move faster and stay close to the product. We think that’s how modern companies will run: more like control towers than siloed hierarchies.
 
