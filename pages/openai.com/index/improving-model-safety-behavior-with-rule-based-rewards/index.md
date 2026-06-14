@@ -26,15 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-How it works
-
-  * How it works
-  * Results
-  * Limitations
-  * Conclusions
-
-
-
 July 24, 2024
 
 [Publication](</research/index/publication/>)
@@ -48,6 +39,24 @@ We've developed and applied a new method leveraging Rule-Based Rewards (RBRs) th
 Loading…
 
 Share
+
+How it works
+
+  * How it works
+  * Results
+  * Limitations
+  * Conclusions
+
+
+
+Table of contents
+
+  * How it works
+  * Results
+  * Limitations
+  * Conclusions
+
+
 
 Our research shows that Rule-Based Rewards (RBRs) significantly enhance the safety of our AI systems, making them safer and more reliable for people and developers to use every day. This is part of our work to explore more ways we can [_apply our own AI to make AI safer_ ⁠](<https://openai.com/blog/using-gpt-4-for-content-moderation>). 
 
