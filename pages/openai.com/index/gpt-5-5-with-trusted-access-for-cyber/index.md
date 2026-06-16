@@ -26,6 +26,16 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
+May 7, 2026
+
+[Security](</news/security/>)
+
+# Scaling Trusted Access for Cyber with GPT‑5.5 and GPT‑5.5‑Cyber
+
+How our latest models help each layer of the defensive ecosystem and accelerate the security flywheel.
+
+Loading…
+
 How trusted access works
 
   * How trusted access works
@@ -36,15 +46,15 @@ How trusted access works
 
 
 
-May 7, 2026
+Table of contents
 
-[Security](</news/security/>)
+  * How trusted access works
+  * How GPT-5.5 and GPT-5.5-Cyber perform on cyber tasks
+  * Scaling defensive capability across the security ecosystem
+  * Codex Security for open source and defenders
+  * Looking ahead
 
-# Scaling Trusted Access for Cyber with GPT‑5.5 and GPT‑5.5‑Cyber
 
-How our latest models help each layer of the defensive ecosystem and accelerate the security flywheel.
-
-Loading…
 
 For [years](</index/openai-cybersecurity-grant-program/>) we’ve been chronicling our work to [_accelerate_](</index/accelerating-cyber-defense-ecosystem/>) cybersecurity defenders, as part of our broader work to build the core infrastructure for AI. Last week, we released our action plan [_Cybersecurity in the Intelligence Age_](</index/cybersecurity-in-the-intelligence-age/>) , which lays out our vision for democratizing AI-powered defense. Two weeks ago, we released GPT‑5.5, our smartest and most intuitive model to date, which is already delivering powerful cybersecurity capabilities to developers and security teams through [_Trusted Access for Cyber_](</index/scaling-trusted-access-for-cyber-defense/>) (TAC).
 

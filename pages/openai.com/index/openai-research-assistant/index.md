@@ -26,6 +26,16 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
+September 29, 2025
+
+[API](</stories/api/>)[ChatGPT](</stories/chatgpt/>)OpenAI on OpenAI
+
+# Empowering teams to unlock insights faster at OpenAI
+
+Loading…
+
+Share
+
 Buried in the noise
 
   * Buried in the noise
@@ -37,15 +47,16 @@ Buried in the noise
 
 
 
-September 29, 2025
+Table of contents
 
-[API](</stories/api/>)[ChatGPT](</stories/chatgpt/>)OpenAI on OpenAI
+  * Buried in the noise
+  * A new way to ask 
+  * Making it reliable
+  * From tickets to turning points
+  * Compounding curiosity
+  * The operating model ahead
 
-# Empowering teams to unlock insights faster at OpenAI
 
-Loading…
-
-Share
 
  _This is part of our series sharing internal examples of how OpenAI is using its own technology and APIs. These tools are being used internally, only at OpenAI, and are shared here as illustrative examples of how frontier AI is supporting use cases across our teams. We’re also sharing the internal tool names for a clearer look at how frontier AI helps our teams get work done._
 

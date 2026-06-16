@@ -94,11 +94,11 @@ Apr 29, 2026
 
 [Where the goblins came fromHow goblin outputs spread in AI models: timeline, root cause, and fixes behind personality-driven quirks in GPT-5 behavior.](</index/where-the-goblins-came-from/>)
 
-Product
+Safety
 
 Apr 23, 2026
 
-[Introducing GPT-5.5Introducing GPT-5.5, our smartest model yet—faster, more capable, and built for complex tasks like coding, research, and data analysis across tools.](</index/introducing-gpt-5-5/>)
+[GPT-5.5 System Card](</index/gpt-5-5-system-card/>)
 
 Load more
 

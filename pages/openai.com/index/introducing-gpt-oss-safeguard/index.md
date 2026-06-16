@@ -26,16 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-System-level safety: the role of safety classifiers
-
-  * System-level safety: the role of safety classifiers
-  * How we use safety reasoning internally
-  * How gpt-oss-safeguard performs
-  * Limitations
-  * The road ahead: continuing to build with the community
-
-
-
 October 29, 2025
 
 [Product](</news/product-releases/>)[Release](</research/index/release/>)
@@ -47,6 +37,26 @@ New open safety reasoning models (120b and 20b) that support custom safety polic
 Loading…
 
 Share
+
+System-level safety: the role of safety classifiers
+
+  * System-level safety: the role of safety classifiers
+  * How we use safety reasoning internally
+  * How gpt-oss-safeguard performs
+  * Limitations
+  * The road ahead: continuing to build with the community
+
+
+
+Table of contents
+
+  * System-level safety: the role of safety classifiers
+  * How we use safety reasoning internally
+  * How gpt-oss-safeguard performs
+  * Limitations
+  * The road ahead: continuing to build with the community
+
+
 
 Today, we’re releasing a research preview of gpt-oss-safeguard, our open-weight reasoning models for safety classification tasks, available in two sizes: gpt-oss-safeguard-120b and gpt-oss-safeguard-20b. These models are fine-tuned versions of our [gpt-oss⁠](<https://openai.com/index/introducing-gpt-oss/>) open models and available under the same permissive Apache 2.0 license, allowing anyone to use, modify, and deploy them freely. Both models can be downloaded today from [Hugging Face⁠(opens in a new window)](<https://huggingface.co/collections/openai/gpt-oss-safeguard>). 
 

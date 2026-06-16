@@ -26,15 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Embedding AI into developer software
-
-  * Embedding AI into developer software
-  * Using OpenAI’s API to fast-track the software development process
-  * JetBrains AI Assistant accelerates developer performance
-  * Building the next generation of context-aware AI coding tools
-
-
-
 # JetBrains
 
 JetBrains uses OpenAI’s API to build its fastest-growing product ever.
@@ -44,6 +35,24 @@ JetBrains uses OpenAI’s API to build its fastest-growing product ever.
 Loading…
 
 Share
+
+Embedding AI into developer software
+
+  * Embedding AI into developer software
+  * Using OpenAI’s API to fast-track the software development process
+  * JetBrains AI Assistant accelerates developer performance
+  * Building the next generation of context-aware AI coding tools
+
+
+
+Table of contents
+
+  * Embedding AI into developer software
+  * Using OpenAI’s API to fast-track the software development process
+  * JetBrains AI Assistant accelerates developer performance
+  * Building the next generation of context-aware AI coding tools
+
+
 
 [JetBrains⁠(opens in a new window)](<https://www.jetbrains.com>) creates intelligent software development tools used by more than 15 million engineers around the world. Its product suite includes popular Integrated Development Environments (IDEs), such as PyCharm, IntelliJ IDEA, as well as the Kotlin programming language. 
 

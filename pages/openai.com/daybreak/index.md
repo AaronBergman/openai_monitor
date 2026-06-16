@@ -68,7 +68,7 @@ Generate and test patches directly in your repositories, with scoped access, mon
 
 Send results and audit-ready evidence back to your systems to track and verify remediation.
 
-## Deploy frontier cyber intelligence inside Codex Security
+## Deploy frontier cyber intelligence w/Codex and the @CodexSecurity Plugin
 
 ## Choose the right level of access
 
@@ -85,6 +85,11 @@ GPT‑5.5 (default)| Standard safeguards for general-purpose use| General-purpos
 GPT‑5.5 with Trusted Access for Cyber| More precise safeguards for verified defensive work in authorized environments| Most defensive security workflows, including secure code review, vulnerability triage, malware analysis, detection engineering, and patch validation  
 GPT‑5.5‑Cyber| Most permissive behavior for specialized authorized workflows, paired with stronger verification and account-level controls| Preview access for specialized workflows, including authorized red teaming, penetration testing, and controlled validation  
   
+Start a scan with the @CodexSecurity Plugin| Best for trying the workflow, reviewing a branch or investing one codebase| Start Scan with @CodexSecuirty Plugin  
+---|---|---  
+Continuously scan GitHub repositories with Codex Cloud Security| Best for connecting repositories, scanning new commits, and giving AppSec and engineering teams a shared workflow.| Connect GitHub  
+Contact Cyber Sales| For scanning multiple codebases, deploying across teams, advanced model access, custom integrations, compliance review, and rollout planning with OpenAI cyber experts| Contact Cyber Sales  
+  
 ## Trusted by leading security organizations
 
 CloudflareCiscoCrowdStrikePalo Alto NetworksOracleZscalerAkamaiFortinet
@@ -93,6 +98,18 @@ CloudflareCiscoCrowdStrikePalo Alto NetworksOracleZscalerAkamaiFortinet
 
 — Dane Knecht, CTO, Cloudflare
 
+## Controlled Access Models
+
+Some advanced cyber capabilities require a controlled access process. Through Trusted Access, approved teams can use these models in scoped environments with authorization, logging, verification, and stronger controls for higher-risk defensive workflows.
+
+[Contact Cyber sales](</contact-sales/>)
+
+Access| What changes| Intended use cases| Designed for| Availability  
+---|---|---|---|---  
+GPT‑5.5 (default)| Available by default, with strong capabilities for everyday secure development and most code security workflows in @CodexSecurity.| Secure coding, secure code review, vulnerability discovery and triage, remediation guidance, dependency risk analysis, and patch validation.| Every Developer and Application Security Team.| Start Scan with Codex Security Plugin  
+GPT‑5.5 with Trusted Access for Cyber| Specialized access for advanced defensive security workflows in authorized environments, with more precise controls for higher-risk analysis.| Advanced vulnerability triage, malware analysis, detection engineering, security investigations, incident analysis, and complex defensive validation.| Cyber teams conducting advanced defensive work, Cyber Product Vendors, System Integrators, Cyber Consultancies, and DevSecOps teams.| Contact for Trusted Access  
+GPT‑5.5‑Cyber| Preview access for specialized authorized testing workflows, with additional verification, scoping, logging, and controls.| Authorized red teaming, penetration testing, exploit validation, and controlled security testing.| Cyber teams and vendors conducting authorized red teaming, penetration testing, exploit validation, and controlled security testing.|   
+  
 ### Explore additional resources
 
 ![Trusted access for cyber > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/KHIJw5h0bhOZu0c7s790E/1ff937ce2413a1ec69c1e4b11f1c9613/Cyber_Security_News_Blog_Art.png?w=3840&q=90&fm=webp)
@@ -217,12 +234,12 @@ EnglishUnited States
 
 ### Find and fix vulnerabilities
 
-Codex Security builds an editable threat model from your repository, then focuses analysis on realistic attack paths and high-impact code.
+Build an editable threat model from a repository, then focus analysis on realistic attack paths and high-impact code.
 
-### Burn down the backlog
+### Prioritize the backlog
 
-Validate likely vulnerabilities in an isolated environment, so teams can prioritize real, reproducible issues over noisy alerts.
+Validate likely vulnerabilities in an isolated environment so AppSec teams can prioritize reproducible issues over noisy alerts.
 
-### Automate detection and response
+### Prove remediation
 
-Use AI to spot higher risk vulnerabilities and automate monitoring for them end-to-end.
+Return findings, patch status, and reviewer notes to the review and ticketing systems teams already use.

@@ -26,19 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-GPTs let you customize ChatGPT for a specific purpose
-
-  * GPTs let you customize ChatGPT for a specific purpose
-  * The best GPTs will be invented by the community
-  * The GPT Store is rolling out later this month
-  * We built GPTs with privacy and safety in mind
-  * Developers can connect GPTs to the real world
-  * Enterprise customers can deploy internal-only GPTs
-  * We want more people to shape how AI behaves
-  * We’ve made ChatGPT Plus fresher and simpler to use
-
-
-
 November 6, 2023
 
 [Product](</news/product-releases/>)
@@ -52,6 +39,32 @@ You can now create custom versions of ChatGPT that combine instructions, extra k
 Loading…
 
 Share
+
+GPTs let you customize ChatGPT for a specific purpose
+
+  * GPTs let you customize ChatGPT for a specific purpose
+  * The best GPTs will be invented by the community
+  * The GPT Store is rolling out later this month
+  * We built GPTs with privacy and safety in mind
+  * Developers can connect GPTs to the real world
+  * Enterprise customers can deploy internal-only GPTs
+  * We want more people to shape how AI behaves
+  * We’ve made ChatGPT Plus fresher and simpler to use
+
+
+
+Table of contents
+
+  * GPTs let you customize ChatGPT for a specific purpose
+  * The best GPTs will be invented by the community
+  * The GPT Store is rolling out later this month
+  * We built GPTs with privacy and safety in mind
+  * Developers can connect GPTs to the real world
+  * Enterprise customers can deploy internal-only GPTs
+  * We want more people to shape how AI behaves
+  * We’ve made ChatGPT Plus fresher and simpler to use
+
+
 
 We’re rolling out custom versions of ChatGPT that you can create for a specific purpose—called GPTs. GPTs are a new way for anyone to create a tailored version of ChatGPT to be more helpful in their daily life, at specific tasks, at work, or at home—and then share that creation with others. For example, GPTs can help you [learn the rules to any board game, help teach your kids math, or design stickers⁠](</chatgpt/#do-more-with-gpts>).
 

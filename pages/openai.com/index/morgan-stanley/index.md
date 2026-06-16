@@ -26,6 +26,14 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
+# Morgan Stanley uses AI evals to shape the future of financial services
+
+[Try now(opens in a new window)](<https://chatgpt.com/team-sign-up>)[Contact sales](</contact-sales/>)
+
+Loading…
+
+Share
+
 Building a foundation: evaluations that drive adoption
 
   * Building a foundation: evaluations that drive adoption
@@ -35,13 +43,14 @@ Building a foundation: evaluations that drive adoption
 
 
 
-# Morgan Stanley uses AI evals to shape the future of financial services
+Table of contents
 
-[Try now(opens in a new window)](<https://chatgpt.com/team-sign-up>)[Contact sales](</contact-sales/>)
+  * Building a foundation: evaluations that drive adoption
+  * Scaling success from pilot to firmwide use
+  * Strengthening trust with controls
+  * 98% adoption, increased engagement, and new services potential
 
-Loading…
 
-Share
 
 [ _Morgan Stanley_ ⁠(opens in a new window)](<http://www.morganstanley.com>) collaborated with OpenAI to build AI solutions that empower financial advisors with faster insights, more informed decisions, and efficient summarization tools to deepen client relationships. Their success was grounded in a robust evaluation framework that ensures AI performs reliably, consistently, and at the high standards advisors expect.
 

@@ -26,6 +26,16 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
+May 4, 2026
+
+[Engineering](</news/engineering/>)
+
+# How OpenAI delivers low-latency voice AI at scale
+
+By Yi Zhang and William McDonald, Members of Technical Staff
+
+Share
+
 WebRTC lets us make real-time AI products
 
   * WebRTC lets us make real-time AI products
@@ -39,15 +49,18 @@ WebRTC lets us make real-time AI products
 
 
 
-May 4, 2026
+Table of contents
 
-[Engineering](</news/engineering/>)
+  * WebRTC lets us make real-time AI products
+  * Choosing a media architecture
+  * The core deployment problem: WebRTC meets Kubernetes
+  * Architecture overview: relay + transceiver
+  * Routing on ICE credentials
+  * Global Relay and geo-steered signaling
+  * Relay implementation and performance
+  * Results and learnings
 
-# How OpenAI delivers low-latency voice AI at scale
 
-By Yi Zhang and William McDonald, Members of Technical Staff
-
-Share
 
 Voice AI only feels natural if conversation moves at the speed of speech. When the network gets in the way, people hear it immediately as awkward pauses, clipped interruptions, or delayed barge-in. That matters for ChatGPT voice, for developers building with the Realtime API, for agents working in interactive workflows, and for models that need to process audio while a user is still talking.
 
@@ -100,7 +113,7 @@ Operationally, the transceiver service does two jobs:
 
 We wanted the service to run like the rest of our infrastructure: on Kubernetes, where workloads can scale up and down, and move across hosts as demand changes. But the conventional one-port-per-session WebRTC model fits that environment poorly, because it depends on large public UDP port ranges that are difficult to expose, secure, and preserve as pods are added, removed, or rescheduled.2
 
-#### Port exhaustion
+### Port exhaustion
 
 The first problem was the one-port-per-session model itself. At high concurrency, that means exposing and managing very large UDP port ranges.
 
@@ -112,7 +125,7 @@ The first problem was the one-port-per-session model itself. At high concurrency
 
 This is why many WebRTC systems move toward a single UDP port per server, with application-level demultiplexing behind that port.5
 
-#### State stickiness
+### State stickiness
 
 Single-port-per-server designs solve port count, but they introduce a second problem: preserving ownership of each session across a fleet.
 
@@ -120,7 +133,7 @@ ICE and DTLS are stateful protocols. The process that created a session needs to
 
 That gave us a specific target: expose a small, fixed UDP surface to the public internet, while still routing every packet to the transceiver that owns the corresponding WebRTC session.
 
-#### Comparison of WebRTC media architectures
+### Comparison of WebRTC media architectures
 
 We evaluated several ways to get there, including TURN (Traversal Using Relays around NAT), where an edge relay terminates client allocations and forwards traffic on their behalf.2
 

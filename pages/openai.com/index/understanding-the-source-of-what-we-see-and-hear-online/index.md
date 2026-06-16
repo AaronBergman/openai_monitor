@@ -26,14 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Contributing to authenticity standards
-
-  * Contributing to authenticity standards
-  * What we are building: new tools to identify content created by our services 
-  * What’s next for content authentication
-
-
-
 May 7, 2024
 
 [Publication](</research/index/publication/>)
@@ -47,6 +39,22 @@ We’re introducing new tools to help researchers study content authenticity and
 Loading…
 
 Share
+
+Contributing to authenticity standards
+
+  * Contributing to authenticity standards
+  * What we are building: new tools to identify content created by our services 
+  * What’s next for content authentication
+
+
+
+Table of contents
+
+  * Contributing to authenticity standards
+  * What we are building: new tools to identify content created by our services 
+  * What’s next for content authentication
+
+
 
 ** _Update on August 4, 2024_**
 

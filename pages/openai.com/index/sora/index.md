@@ -26,8 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-[Milestone](</research/index/milestone/>)
-
 # Creating video from text
 
 [Read technical report](</index/video-generation-models-as-world-simulators/>)[Start now](</sora/>)

@@ -64,7 +64,7 @@ OpenAI and Accenture will collaborate on new enterprise solutions focused on key
 
 The goal of the program is to enable joint clients to adopt OpenAI’s agentic capabilities—innovative products, model advances and new workflows—faster and with deeper integration across their organizations.
 
-It also builds on OpenAI’s work with many of the world’s largest and most established enterprises, including [_Walmart_ ⁠(opens in a new window)](<https://corporate.walmart.com/news/2025/10/14/walmart-partners-with-openai-to-create-ai-first-shopping-experiences>), [_Salesforce_ ⁠(opens in a new window)](<https://www.salesforce.com/news/press-releases/2025/10/14/openai-partnership-expansion-announcement/>), [_PayPal_ ⁠(opens in a new window)](<https://newsroom.paypal-corp.com/2025-10-28-OpenAI-and-PayPal-Team-Up-to-Power-Instant-Checkout-and-Agentic-Commerce-in-ChatGPT>), [_Intuit_](</index/intuit-partnership/>) , [_Target_](</index/target-partnership/>) , [_Thermo Fisher_ ⁠(opens in a new window)](<https://corporate.thermofisher.com/us/en/index/newsroom/Our-stories/Thermo-fisher-scientific-open-ai-collaboration.html>), [_BNY_ ⁠(opens in a new window)](<https://www.wsj.com/articles/bny-americas-oldest-bank-signs-multiyear-deal-with-openai-74987d1d?gaa_at=eafs&gaa_n=AWEtsqfSmObbQFCZOy4JBHnm1deYz6_WcJa0ETCyryA8EMyIAT7C9Nc1ZUZGLm2Oejw%3D&gaa_ts=69209805&gaa_sig=xrOe0zyM-gm4Sh4iPKjx6PFtsWjVmHwHOqdO2nCiVeINJqnTWfAUeX5z8MJYum0EeWnrHHwU0CBiVmHp_p_Y6g%3D%3D>), [_Morgan Stanley_](</index/morgan-stanley/>) , [_BBVA_](</index/bbva/>) , and many more.
+It also builds on OpenAI’s work with many of the world’s largest and most established enterprises, including [_Walmart_ ⁠(opens in a new window)](<https://corporate.walmart.com/news/2025/10/14/walmart-partners-with-openai-to-create-ai-first-shopping-experiences>), [_Salesforce_ ⁠(opens in a new window)](<https://www.salesforce.com/news/press-releases/2025/10/14/openai-partnership-expansion-announcement/>), [_PayPal_ ⁠(opens in a new window)](<https://newsroom.paypal-corp.com/2025-10-28-OpenAI-and-PayPal-Team-Up-to-Power-Instant-Checkout-and-Agentic-Commerce-in-ChatGPT>), [_Intuit_](</index/intuit-partnership/>) , [_Target_](</index/target-partnership/>) , [_Thermo Fisher_ ⁠(opens in a new window)](<https://corporate.thermofisher.com/us/en/index/newsroom/Our-stories/Thermo-fisher-scientific-open-ai-collaboration.html>), [_BNY_ ⁠(opens in a new window)](<https://www.wsj.com/articles/bny-americas-oldest-bank-signs-multiyear-deal-with-openai-74987d1d?gaa_at=eafs&gaa_n=AWEtsqfSmObbQFCZOy4JBHnm1deYz6_WcJa0ETCyryA8EMyIAT7C9Nc1ZUZGLm2Oejw%3D&gaa_ts=69209805&gaa_sig=xrOe0zyM-gm4Sh4iPKjx6PFtsWjVmHwHOqdO2nCiVeINJqnTWfAUeX5z8MJYum0EeWnrHHwU0CBiVmHp_p_Y6g%3D%3D>), [_Morgan Stanley_](</index/morgan-stanley/>) , _BBVA_ , and many more.
 
   * [2025](</news/?tags=2025>)
   * [Partnerships](</news/?tags=partnerships>)
@@ -79,17 +79,17 @@ OpenAI
 
 [View all](</news/>)
 
-![dell](https://images.ctfassets.net/kftzwdyauwt9/17U8SngLERoATdFhOjWbDK/da377e6850f8241ea7814a347bad0a3a/Frame.png?w=3840&q=90&fm=webp)
+![OpenAI acquires Ona > oai 1x1](https://images.ctfassets.net/kftzwdyauwt9/6SkgXCQ08f4AYarun2I3oU/24414c9962c945767f783bdb63006841/OAI-Ona-ArtCard.png?w=3840&q=90&fm=webp)
 
-[OpenAI and Dell Technologies partner to bring Codex to hybrid and on-premises enterprise environmentsCompanyMay 18, 2026](</index/dell-codex-enterprise-partnership/>)
+[OpenAI to acquire OnaCompanyJun 11, 2026](</index/openai-to-acquire-ona/>)
 
-![Frame](https://images.ctfassets.net/kftzwdyauwt9/32jPyVqUObkTrIIyA6tJV1/4eb384b5bb2f21ccea5de7665858a37a/Frame.png?w=3840&q=90&fm=webp)
+![Oracle partnership 1x1 art card](https://images.ctfassets.net/kftzwdyauwt9/7zjGwFPBZMvK6zwFSMVWRm/6721ac33e5b1aaf88a9b705a3d10c90a/OAI_Oracle_Partnership_1x1_Art_Card.png?w=3840&q=90&fm=webp)
 
-[Our response to the TanStack npm supply chain attackCompanyMay 13, 2026](</index/our-response-to-the-tanstack-npm-supply-chain-attack/>)
+[Access OpenAI models and Codex through your Oracle cloud commitmentCompanyJun 10, 2026](</index/openai-on-oracle-cloud/>)
 
-![OpenAI Campus Network—Student Club Interest Form > card image](https://images.ctfassets.net/kftzwdyauwt9/3gVx8jMHtHwuFpYS10BWBF/b70c85eada669bdabf956c591dfe8bbf/OpenAI_Campus_Networkâ__Student_Club_Interest_Form_-_art_card.png?w=3840&q=90&fm=webp)
+![Confidential submission of draft S-1 to the SEC > cover image](https://images.ctfassets.net/kftzwdyauwt9/36doI12YCwUtp1hzD4d8bj/84e67c565f39e7d5ca3ee011efa69756/confidential-submission-of-draft-s-1-to-the-sec-1x1.png?w=3840&q=90&fm=webp)
 
-[OpenAI Campus Network: Student club interest formCompanyMay 11, 2026](</index/openai-campus-network-student-club-interest-form/>)
+[Confidential submission of draft S-1 to the SECCompanyJun 8, 2026](</index/openai-submits-confidential-s-1/>)
 
 Research
 

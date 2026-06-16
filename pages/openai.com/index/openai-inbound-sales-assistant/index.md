@@ -26,15 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Building the inbound sales assistant
-
-  * Building the inbound sales assistant
-  * Built with reps, for reps
-  * From missed leads to high growth 
-  * A new standard for engagement
-
-
-
 September 29, 2025
 
 [API](</stories/api/>)OpenAI on OpenAI
@@ -44,6 +35,24 @@ September 29, 2025
 Loading…
 
 Share
+
+Building the inbound sales assistant
+
+  * Building the inbound sales assistant
+  * Built with reps, for reps
+  * From missed leads to high growth 
+  * A new standard for engagement
+
+
+
+Table of contents
+
+  * Building the inbound sales assistant
+  * Built with reps, for reps
+  * From missed leads to high growth 
+  * A new standard for engagement
+
+
 
  _This is part of our series sharing internal examples of how OpenAI is using its own technology and APIs. These tools are being used internally, only at OpenAI, and are shared here as illustrative examples of how frontier AI is supporting use cases across our teams. We’re also sharing the internal tool names for a clearer look at how frontier AI helps our teams get work done._
 
