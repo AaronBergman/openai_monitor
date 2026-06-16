@@ -26,16 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Shaping Desired Model Behavior 
-
-  * Shaping Desired Model Behavior 
-  * Introducing the Model Spec
-  * How the Model Spec will be used
-  * What comes next
-  * Examples of the Model Spec applied to various use cases
-
-
-
 May 8, 2024
 
 [Safety](</news/safety-alignment/>)[Research](</news/research/>)
@@ -49,6 +39,26 @@ May 8, 2024
 Loading…
 
 Share
+
+Shaping Desired Model Behavior 
+
+  * Shaping Desired Model Behavior 
+  * Introducing the Model Spec
+  * How the Model Spec will be used
+  * What comes next
+  * Examples of the Model Spec applied to various use cases
+
+
+
+Table of contents
+
+  * Shaping Desired Model Behavior 
+  * Introducing the Model Spec
+  * How the Model Spec will be used
+  * What comes next
+  * Examples of the Model Spec applied to various use cases
+
+
 
 ** _Update on February 12, 2025_** _: We 've released an updated version of the Model Spec. This update reinforces our commitments to customizability, transparency, and intellectual freedom to explore, debate, and create with AI without arbitrary restrictions—while ensuring that guardrails remain in place to reduce the risk of real harm. It builds on the foundations we introduced last May, drawing from our experience applying it in varied contexts from alignment research to serving users across the world. You can read more about the update in _[_this blog post_](</index/sharing-the-latest-model-spec/>) _._
 

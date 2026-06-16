@@ -26,17 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Mission and principles 
-
-  * Mission and principles 
-  * Our policy priorities
-  * Safety
-  * Youth safety
-  * AI resilience in a changing world
-  * AI infrastructure and energy
-
-
-
 June 3, 2026
 
 [Global Affairs](</news/global-affairs/>)
@@ -46,6 +35,26 @@ June 3, 2026
 Loading…
 
 Share
+
+Mission and principles 
+
+  * Mission and principles 
+  * Our policy priorities
+  * Safety
+  * AI resilience in a changing world
+  * AI infrastructure and energy
+
+
+
+Table of contents
+
+  * Mission and principles 
+  * Our policy priorities
+  * Safety
+  * AI resilience in a changing world
+  * AI infrastructure and energy
+
+
 
 ## Mission and principles 
 
@@ -71,7 +80,7 @@ The following priorities reflect how we translate [_our mission_ ⁠](<https://o
 
 ## Safety
 
-#### Frontier model safety, security, and accountability
+### Frontier model safety, security, and accountability
 
 We believe frontier AI safety is a national security and public safety issue, particularly for the most advanced general-purpose AI models, which can create risks related to cyber, chemical, biological, radiological, and nuclear (CBRN) weapons. In the US, we support state efforts to align around common frameworks such as [_California SB 53_ ⁠(opens in a new window)](<https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260SB53>),the [_New York RAISE Act_ ⁠(opens in a new window)](<https://www.nysenate.gov/legislation/bills/2025/A6453/amendment/A>), and [_Illinois SB 315_ ⁠(opens in a new window)](<https://ilga.gov/Legislation/BillStatus/FullText?LegDocId=211186&DocName=10400SB0315sam004&DocNum=315&DocTypeID=SB&LegID=157797&GAID=18&SessionID=114&SpecSess=&Session=>) which emphasize transparency, public reporting around catastrophic-risk evaluations and safety incidents, whistleblower protections, and enforceable accountability for developers that fail to meet their safety and security responsibilities. These state-level approaches can help establish harmonized standards that reduce fragmentation and create a path toward an eventual federal framework. 
 
@@ -83,7 +92,7 @@ Looking to the future, we believe policymaker focus should begin considering [_m
 
 On [_cybersecurity_ ⁠(opens in a new window)](<https://cdn.openai.com/pdf/7ca95dce-4424-4b62-9eab-89233bb38f82/oai-cybersecurity-action-plan.pdf>) in particular, we support policies that expand trusted access to AI-powered cyber defense tools and stronger partnerships among governments, researchers, and industry to conduct evaluations, deepen information-sharing, and build resilience measures to strengthen cyber defense. We also support efforts to modernize outdated public-sector cybersecurity systems and are partnering with the U.S. government at the federal, state, and local levels, and with international partners as well.
 
-## Youth safety
+### Youth safety
 
 We believe AI can help young people learn, create, and develop the skills and entrepreneurial mindset they will need to thrive in the future economy—provided it is deployed with strong safeguards and age-appropriate protections. Teens should have access to [_safe and trustworthy AI_ ⁠(opens in a new window)](<https://cdn.openai.com/pdf/OAI%20Teen%20Safety%20Blueprint.pdf>) at home, at school, and as they prepare to join the workforce, and they should be protected from its potential harms. We support strong, enforceable, risk-based regulations for teen safety and frameworks that pair robust safeguards with transparency and tools that put families in control. 
 
@@ -97,17 +106,17 @@ Additionally, we support strong legal and technical protections against child se
 
 ## AI resilience in a changing world
 
-#### Education and AI literacy
+### Education and AI literacy
 
 AI will increasingly shape how people learn, work, and participate in civic life. Educational institutions will play a critical role in building [_AI literacy_ ⁠(opens in a new window)](<https://cdn.openai.com/pdf/openai-teen-literacy-blueprint.pdf>) and preparing students to navigate a world where AI is ubiquitous. We support policies that help students, teachers, families, and communities engage with AI safely, critically, and creatively, while ensuring educators remain central to classroom decision-making and set the pace for how AI is adopted in schools. That includes investments in AI literacy, strong core instruction in subjects like history, civics, math, science, literature, computer science, and career-technical education. It also includes teacher training and protected time for professional learning, workforce-aligned learning pathways, and expanded access to AI tools, broadband, devices, and educational resources for schools, libraries, and community institutions. We also support efforts to strengthen research into how AI impacts learning outcomes, student wellbeing, and educational equity and efforts to incorporate learnings into AI development and deployment.
 
-#### Workforce and economic transition
+### Workforce and economic transition
 
 We believe that everyone should have the ability to participate in the [_new opportunities that AI creates_ ⁠(opens in a new window)](<https://cdn.openai.com/global-affairs/f319686f-cf21-4b8e-b8bc-84dd9bbfb999/oai-workforce-blueprint-oct-2025.pdf>), and that’s why we make ChatGPT available for free. We support policies that expand affordable access to useful AI and help workers, entrepreneurs, educators, and small businesses adopt it through investments in workforce training and AI literacy. We also support the creation of regional AI hubs that connect employers, labor organizations, community colleges, universities, workforce boards, and local businesses, and small-business adoption programs that provide access to AI tools, technical support, and hands-on training.
 
 We also [_partner with labor organizations_ ⁠(opens in a new window)](<https://nabtu.org/press_releases/north-americas-building-trades-unions-announce-data-center-agreement/>) to expand [_access to training_ ⁠](<https://openai.com/global-affairs/aft/>) to help workers build practical AI skills and prepare for changes in the economy driven by increasingly capable AI systems, and we regularly publish data on how workers and employers are using our tools and we support workforce transparency measures that not only help policymakers and the public better understand how AI is reshaping work but also help identify pathways that help workers move into new roles and human-centered work. At the same time, we are committed to working with policymakers to develop and implement a more [_ambitious workforce and economic transition agenda_ ⁠(opens in a new window)](<https://cdn.openai.com/pdf/561e7512-253e-424b-9734-ef4098440601/Industrial%20Policy%20for%20the%20Intelligence%20Age.pdf>), which contemplates portable benefits, tax modernization, public wealth funds, and adaptive safety nets.
 
-#### Deepfakes and content provenance 
+### Deepfakes and content provenance 
 
 We believe AI can expand creative expression, empower artists and creators, enable new forms of expression, commentary, and creative transformation, and lower barriers for independent creators, small studios, and new voices to participate in the creative economy. At the same time, people should be able to understand where digital content came from and be protected from harmful deepfakes such as deceptive impersonation and unauthorized digital replicas. We support policies that promote transparency online, including requirements for AI tools to include provenance signals, such as those developed by the Coalition for Content Provenance and Authenticity (C2PA), in the audiovisual content they generate, and are working with partners across industry to advance interoperable provenance standards and content authenticity tools that help people better understand where digital content came from. We support policies that protect against the harmful misuse of voice and likeness while preserving important safeguards for free expression, parody, journalism, and other lawful uses. 
 
@@ -132,17 +141,19 @@ OpenAI
 
 [View all](</news/>)
 
-![oai 1x1 Biodefense in the Intelligence Age](https://images.ctfassets.net/kftzwdyauwt9/6A4rrCBs9rrlbzm9JWIvSi/8a4ae56849fcd0b16e90b59b8babc613/oai_1x1_Biodefense_in_the_Intelligence_Age.png?w=3840&q=90&fm=webp)
+![Supporting Europe’s work in ensuring a trustworthy AI ecosystem  > art card](https://images.ctfassets.net/kftzwdyauwt9/U3OuQtdga2BaxWxb0e2ge/2fdc2fb1cf5c70a8f77fc4b55236aa78/Frame2.png?w=3840&q=90&fm=webp)
 
-[Biodefense in the Intelligence AgeGlobal AffairsJun 4, 2026](</index/biodefense-in-the-intelligence-age/>)
+[Supporting Europe’s work in ensuring a trustworthy AI ecosystem Global AffairsJun 11, 2026](</index/supporting-eu-trustworthy-ai-ecosystem/>)
 
-![Frontier Safety Blueprint > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/6zU111Ouj65b8iZJnswHBe/a705de1c90ab048510532db2f53f12f3/Frame.png?w=3840&q=90&fm=webp)
+![PRC-linked influence > Art Card](https://images.ctfassets.net/kftzwdyauwt9/2WkDQ2w51892xwY7QHwkRC/ec5f7b504805e36db928c06cb313f53c/Threat-Intelligence-Repart-ArtCard.png?w=3840&q=90&fm=webp)
 
-[A blueprint for democratic governance of frontier AIGlobal AffairsJun 3, 2026](</index/frontier-safety-blueprint/>)
+[PRC-linked influence operations are targeting AI debates in the USGlobal AffairsJun 10, 2026](</index/prc-linked-influence-operations-ai-debates/>)
 
-![oai 1x1](https://images.ctfassets.net/kftzwdyauwt9/7eONRWq61MKUix4tK4t88Y/170085acc9b241a0bdfba429bd217907/oai_1x1.png?w=3840&q=90&fm=webp)
+![Frame](https://images.ctfassets.net/kftzwdyauwt9/5PD5E0PhvNP8ogbhvNxdKF/42a592f5b93580d940065610304c3f22/Frame.png?w=3840&q=90&fm=webp)
 
-[Advancing youth safety and opportunity through global leadershipGlobal AffairsJun 2, 2026](</index/advancing-youth-safety-and-opportunity-through-global-leadership/>)
+Industrial policy for the Intelligence Age
+
+[Industrial policy for the Intelligence AgeGlobal AffairsJun 9, 2026](</index/industrial-policy-for-the-intelligence-age/>)
 
 Research
 

@@ -1,3 +1,49 @@
+## 2026-06-16 — Run `2026-06-16T09-15Z`
+
+**TL;DR:** The biggest news since this run covers June 14–16 (no run on the 14th or 15th): OpenAI launched the **OpenAI Partner Network**, a formal tiered partner program backed by a **$150 million investment** and a goal of training 300,000 certified AI consultants by end of 2026. The network launches with Accenture, AWS, BCG, Bain, McKinsey, PwC, EY, Capgemini, Cognizant, Infosys, Databricks, Snowflake, and dozens more. Three new pages went live June 14 covering the announcement, the partner landing page, and a partner interest form. The **Daybreak cybersecurity** product page saw a significant content expansion: a new "Controlled Access Models" section now distinguishes between GPT-5.5 (standard, for everyday security coding), GPT-5.5 with Trusted Access (advanced defensive workflows, requires authorization), and GPT-5.5-Cyber (red team/pen testing/exploit validation, controlled access). The remaining 300 `<lastmod>` updates are a CMS batch republish with no detected content changes. Zero anomalies, zero removals.
+
+### Anomalies
+None detected.
+
+### New Pages (3)
+
+**[Introducing the OpenAI Partner Network](pages/openai.com/index/introducing-openai-partner-network/index.md)** ⭐ (June 14, 2026) — Product Announcement  
+OpenAI is launching a formal partner ecosystem backed by $150 million in investment. The program lets consulting firms, system integrators, and technology companies co-sell, build, and deploy AI solutions alongside OpenAI. Three tiers: **Select, Advanced, and Elite**, each requiring higher bars for sales performance, technical capability, co-sell engagement, and deployment experience. Partners can earn specializations in areas like Codex, cybersecurity, and agents. A "Forward Deployed Experts" pilot lets qualifying partner practitioners embed alongside OpenAI's own Forward Deployed Engineering teams on complex customer projects. Goal: **300,000 certified consultants by end of 2026**. Launch partners include Accenture, AWS, BCG, Bain & Company, McKinsey, PwC, EY, Capgemini, Cognizant, Infosys, Databricks, Snowflake, Globant, NTT DATA, Slalom, and others. Customer success stories featured: Agilent/BCG (AI deployment), eBay/Artium (AI customer service platform), Paychex/Bain (payroll AI with 80% wait-time reduction), T-Mobile/Accenture (CX intent/sentiment intelligence).
+
+**[OpenAI Partner Network landing page](pages/openai.com/business/partners/index.md)** ⭐ (June 14, 2026) — Business  
+New `/business/partners/` page listing all partner logos in a carousel. Includes a "Become a partner" CTA and a link to the partner portal at `partners.openai.com`. Sections: "Co-sell with OpenAI," "Build and deploy solutions," "Help customers move from ambition to outcome."
+
+**[Partner Network interest form](pages/openai.com/form/partner-network-interest/index.md)** (June 14, 2026) — Form  
+Application form for organizations interested in joining the OpenAI Partner Network. Collects company size and contact information.
+
+---
+
+### Notable Updates
+
+**[Daybreak (Cybersecurity Product)](pages/openai.com/daybreak/index.md) — Significant Expansion** (updated June 16, 2026)  
+The Daybreak page grew by ~2,200 characters with two major additions:  
+**(1) Three access tiers** for the CodexSecurity plugin: (a) Start a scan via the `@CodexSecurity` Plugin (individual developers, single codebase), (b) Continuously scan GitHub repositories with Codex Cloud Security (AppSec + engineering teams, shared workflow), (c) Contact Cyber Sales for multi-codebase enterprise deployments.  
+**(2) New "Controlled Access Models" table** distinguishing three model tiers: **GPT-5.5 (default)** — standard, for everyday secure coding, vulnerability discovery, and remediation guidance, available to all; **GPT-5.5 with Trusted Access for Cyber** — advanced defensive workflows including malware analysis, detection engineering, and security investigations, requires authorization with scoped environments and logging; **GPT-5.5-Cyber** — preview access for authorized red teaming, penetration testing, and exploit validation, additional verification and controls, currently contactable only. The CTA copy also changed: "Burn down the backlog" became "Prioritize the backlog" and "Automate detection and response" became "Prove remediation" — suggesting a shift in how OpenAI is positioning the product.
+
+**[Codex](pages/openai.com/codex/index.md)** (updated June 14, 2026) — New credit offer added: "Earn up to $500 in credits for your team when they start using Codex." Otherwise content stable.
+
+**[Business Customer Stories](pages/openai.com/business/customer-stories/index.md)** (updated June 16, 2026) — Grid refreshed to feature partner network launch and new joint case studies.
+
+**Bulk CMS republish (~300 pages)** — 215 `/index/` pages, 20 `/form/` pages, 14 `/global-affairs/` pages, 10 `/news/` pages, and 9 `/policies/` pages all show `<lastmod>` changes clustering around two minute-level timestamps on June 16 (07:22 UTC and 08:18 UTC), the classic CMS-rebuild pattern seen in prior runs. No content changes detected in spot-checks.
+
+---
+
+### Removals
+None.
+
+---
+
+*Stats: 1,352 total URLs | +3 added | 303 updated (300 CMS rebuild) | 0 removed | 0 anomalies | 0 fetch failures | 34 sub-sitemaps*
+
+*Full analysis: [runs/2026-06-16T09-15Z/analysis.md](runs/2026-06-16T09-15Z/analysis.md)*
+
+---
+
 ## 2026-06-13 — Run `2026-06-13T09-15Z`
 
 **TL;DR:** OpenAI launched a comprehensive advertising platform today, upgrading the narrow "Conversion Tools" product into a full "Ad Tools" suite that now includes **audience targeting** (upload your customer list, OpenAI builds custom audiences) and **AI Creative Tools** (use OpenAI's models to generate and optimize ad creatives). Three new policy pages published June 12–13; two older Conversion pages removed and superseded. Separately, OpenAI Academy got a major refresh — new "Applying AI at Work" courses announced, completion certificates added, and all Academy pages updated. Codex gained **Windows support** today (previously macOS-only). The homepage removed its "Learn about ChatGPT Business" hero link and promoted "Stories" instead. 170 total sitemap updates, mostly nav/template refreshes across the site. Zero anomalies.

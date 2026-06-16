@@ -26,16 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Why Korea and why now 
-
-  * Why Korea and why now 
-  * A dual-track strategy
-  * Priority areas for impact
-  * Enablers: infrastructure, operations, data, and law
-  * What success looks like
-
-
-
 October 23, 2025
 
 [Company](</news/company-announcements/>)[Global Affairs](</news/global-affairs/>)
@@ -51,6 +41,26 @@ The Blueprint outlines policy proposals for how South Korea can maximize AI’s 
 Loading…
 
 Share
+
+Why Korea and why now 
+
+  * Why Korea and why now 
+  * A dual-track strategy
+  * Priority areas for impact
+  * Enablers: infrastructure, operations, data, and law
+  * What success looks like
+
+
+
+Table of contents
+
+  * Why Korea and why now 
+  * A dual-track strategy
+  * Priority areas for impact
+  * Enablers: infrastructure, operations, data, and law
+  * What success looks like
+
+
 
 South Korea is poised to become one of the world’s next AI powerhouses. With world-class semiconductor manufacturing, dense digital infrastructure, highly educated talent, and a government that has made AI a national priority, the country has the ingredients to lead. Our new Economic Blueprint for Korea outlines how South Korea can translate those strengths into scaled, trusted AI adoption across its economy—while ensuring the benefits are broadly shared.
 
@@ -122,17 +132,17 @@ OpenAI
 
 [View all](</news/>)
 
-![oai 1x1 Biodefense in the Intelligence Age](https://images.ctfassets.net/kftzwdyauwt9/6A4rrCBs9rrlbzm9JWIvSi/8a4ae56849fcd0b16e90b59b8babc613/oai_1x1_Biodefense_in_the_Intelligence_Age.png?w=3840&q=90&fm=webp)
+![Supporting Europe’s work in ensuring a trustworthy AI ecosystem  > art card](https://images.ctfassets.net/kftzwdyauwt9/U3OuQtdga2BaxWxb0e2ge/2fdc2fb1cf5c70a8f77fc4b55236aa78/Frame2.png?w=3840&q=90&fm=webp)
 
-[Biodefense in the Intelligence AgeGlobal AffairsJun 4, 2026](</index/biodefense-in-the-intelligence-age/>)
+[Supporting Europe’s work in ensuring a trustworthy AI ecosystem Global AffairsJun 11, 2026](</index/supporting-eu-trustworthy-ai-ecosystem/>)
 
-![OpenAI’s public policy agenda > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/CdH7XdsXfpUaYZJpeCwwz/76b975c66fce3ce5ec4a901b4f675369/Frame.png?w=3840&q=90&fm=webp)
+![OpenAI acquires Ona > oai 1x1](https://images.ctfassets.net/kftzwdyauwt9/6SkgXCQ08f4AYarun2I3oU/24414c9962c945767f783bdb63006841/OAI-Ona-ArtCard.png?w=3840&q=90&fm=webp)
 
-[OpenAI public policy agendaGlobal AffairsJun 3, 2026](</index/public-policy-agenda/>)
+[OpenAI to acquire OnaCompanyJun 11, 2026](</index/openai-to-acquire-ona/>)
 
-![Frontier Safety Blueprint > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/6zU111Ouj65b8iZJnswHBe/a705de1c90ab048510532db2f53f12f3/Frame.png?w=3840&q=90&fm=webp)
+![Oracle partnership 1x1 art card](https://images.ctfassets.net/kftzwdyauwt9/7zjGwFPBZMvK6zwFSMVWRm/6721ac33e5b1aaf88a9b705a3d10c90a/OAI_Oracle_Partnership_1x1_Art_Card.png?w=3840&q=90&fm=webp)
 
-[A blueprint for democratic governance of frontier AIGlobal AffairsJun 3, 2026](</index/frontier-safety-blueprint/>)
+[Access OpenAI models and Codex through your Oracle cloud commitmentCompanyJun 10, 2026](</index/openai-on-oracle-cloud/>)
 
 Research
 

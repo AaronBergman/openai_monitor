@@ -26,14 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Table of contents
-
-  * Getting started
-  * Achieving state-of-the-art performance with GPT-4o fine-tuning
-  * Data Privacy and Safety
-
-
-
 August 20, 2024
 
 [Product](</news/product-releases/>)
@@ -46,7 +38,21 @@ Fine-tune custom versions of GPT‑4o to increase performance and accuracy for y
 
 Loading…
 
-Share
+Getting started
+
+  * Getting started
+  * Achieving state-of-the-art performance with GPT-4o fine-tuning
+  * Data Privacy and Safety
+
+
+
+Table of contents
+
+  * Getting started
+  * Achieving state-of-the-art performance with GPT-4o fine-tuning
+  * Data Privacy and Safety
+
+
 
 ** _Update on May 8, 2026_** _: OpenAI is winding down the fine-tuning platform. The platform is no longer accessible to new users but existing users of the fine-tuning platform will be able to create training jobs for the coming months. All fine-tuned models will remain available for inference until their base models are_[ _deprecated_ ⁠(opens in a new window)](<https://developers.openai.com/api/docs/deprecations>)_. The full timeline is_[ _here_ ⁠(opens in a new window)](<https://developers.openai.com/api/docs/deprecations>)_._
 
@@ -107,11 +113,10 @@ Andrew Peng, John Allard, Steven Heidel
 
 Adam Wells, Alec Gorge, Andrew Peng, Beth Hoover, Cary Hudson, Derek Chen, Dev Valladares, Elie Georges, Eric Wallace, Freddie Sulit, John Allard, Karen Li, Kevin Whinnery, Krithika Muthukumar, Lauren Workman, Leher Pathak, Lilian Weng, Lindsay McCallum, Lucy Chen, Michael Kolhede, Miles Brundage, Nick Pyne, Olivier Godement, Owen Cambpell-Moore, Pedro Aguilar, Ravi Teja Mullapudi, Scott Lessans, Sean Chang, Shyamal Anadkat, Steven Heidel, Tabarak Khan, Will Hang
 
-Our Research
+Research
 
   * [Research Index](</research/index/>)
   * [Research Overview](</research/>)
-  * [Research Residency](</residency/>)
   * [Economic Research](</signals/>)
 
 
@@ -121,44 +126,53 @@ Latest Advancements
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
   * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
-  * [GPT-5.3-Codex](</index/introducing-gpt-5-3-codex/>)
 
 
 
 Safety
 
   * [Safety Approach](</safety/>)
+  * [Deployment Safety(opens in a new window)](<https://deploymentsafety.openai.com/>)
   * [Security & Privacy](</security-and-privacy/>)
   * [Trust & Transparency](</trust-and-transparency/>)
 
 
 
-ChatGPT
+Products
 
-  * [Explore ChatGPT(opens in a new window)](<https://chatgpt.com/overview>)
-  * [Business](<https://chatgpt.com/business/business-plan>)
-  * [Enterprise](<https://chatgpt.com/business/enterprise>)
-  * [Education](<https://chatgpt.com/business/education>)
-  * [Pricing(opens in a new window)](<https://chatgpt.com/pricing>)
-  * [Download(opens in a new window)](<https://chatgpt.com/download>)
+  * [ChatGPT(opens in a new window)](<https://chatgpt.com/>)
+  * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
+  * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
+  * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
+  * [Codex](</codex/>)
+  * [Release Notes](</products/release-notes/>)
 
 
 
 API Platform
 
-  * [Platform Overview](</api/>)
-  * [Pricing](</api/pricing/>)
-  * [API log in(opens in a new window)](<https://platform.openai.com/login>)
-  * [Documentation(opens in a new window)](<https://developers.openai.com/api/docs>)
-  * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
+  * [Overview](</api/>)
+  * [API Log In(opens in a new window)](<https://platform.openai.com/login>)
+  * [Docs(opens in a new window)](<https://developers.openai.com/api/docs>)
 
 
 
-For Business
+Business
 
-  * [Business Overview](</business/>)
+  * [Overview](</business/>)
   * [Solutions](</solutions/>)
+  * [Resources](</business/learn/>)
   * [Contact Sales](</contact-sales/>)
+
+
+
+Developers
+
+  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
+  * [Open Models](</open-models/>)
+  * [Docs(opens in a new window)](<https://developers.openai.com/>)
+  * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
+  * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
 
 
 
@@ -166,9 +180,8 @@ Company
 
   * [About Us](</about/>)
   * [Our Charter](</charter/>)
-  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
   * [Careers](</careers/>)
-  * [Brand](</brand/>)
+  * [News](</news/>)
 
 
 
@@ -180,7 +193,6 @@ Support
 
 More
 
-  * [News](</news/>)
   * [Stories](</stories/>)
   * [Academy](</academy/>)
   * [Livestreams](</live/>)

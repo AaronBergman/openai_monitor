@@ -26,16 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Simplify getting agents into production
-
-  * Simplify getting agents into production
-  * What this unlocks
-  * Faster time to production for multi-step workflows
-  * A better fit for long-horizon work
-  * AWS-native deployment and governance
-
-
-
 February 27, 2026
 
 [Company](</news/company-announcements/>)
@@ -46,11 +36,31 @@ Loading…
 
 Share
 
+Simplify getting agents into production
+
+  * Simplify getting agents into production
+  * What this unlocks
+  * Faster time to production for multi-step workflows
+  * A better fit for long-horizon work
+  * AWS-native deployment and governance
+
+
+
+Table of contents
+
+  * Simplify getting agents into production
+  * What this unlocks
+  * Faster time to production for multi-step workflows
+  * A better fit for long-horizon work
+  * AWS-native deployment and governance
+
+
+
 AI agents excel at reasoning. The harder part is operational: running multi-step work reliably over time, across real tools and real systems, with the right controls.
 
 Today, we’re making this easier for customers through a partnership and joint collaboration with Amazon to deliver the new **Stateful Runtime Environment that runs natively in Amazon Bedrock.** AWS customers will have access to the Runtime Environment, powered by OpenAI models, optimized for AWS infrastructure and tailored for agentic workflows, with the state, reliability, and governance needed for production work.
 
-##### Simplify getting agents into production
+#### Simplify getting agents into production
 
 A lot of agent prototypes based on stateless APIs tackle simple use cases: one prompt, one answer, maybe one tool call. Production work is different. Real workflows unfold across many steps, require context from previous actions, depend on multiple tool outputs, approvals, and system state, and need trusted guardrails in secure environments.
 
@@ -58,19 +68,19 @@ Stateless APIs require building the supporting orchestration layer for agents. T
 
 The Stateful Runtime Environment is jointly designed to reduce that load. It runs **inside your AWS environment** and is optimized to work with AWS services. Now, instead of manually stitching together disconnected requests to make things work, your agents automatically execute complex steps with “working context” that carries forward memory/history, tool and workflow state, environment use, and identity/permission boundaries.
 
-##### What this unlocks
+#### What this unlocks
 
 It’s now easier than ever to deliver solutions like multi-system customer support, sales operations workflows, internal IT automation, and finance processes with approvals and audits.
 
-##### Faster time to production for multi-step workflows
+#### Faster time to production for multi-step workflows
 
 When the runtime handles persistent orchestration and state across steps, teams can focus on the workflow and the business logic instead of scaffolding.
 
-##### A better fit for long-horizon work
+#### A better fit for long-horizon work
 
 Stateful tasks are designed to run reliably over time, carrying forward the context and control boundaries needed for multi-step execution.
 
-##### AWS-native deployment and governance
+#### AWS-native deployment and governance
 
 The runtime is designed to operate within customers’ AWS environment to easily comply with the existing security posture, tooling integrations, and governance rules.
 
@@ -111,17 +121,17 @@ OpenAI
 
 [View all](</news/>)
 
-![dell](https://images.ctfassets.net/kftzwdyauwt9/17U8SngLERoATdFhOjWbDK/da377e6850f8241ea7814a347bad0a3a/Frame.png?w=3840&q=90&fm=webp)
+![OpenAI acquires Ona > oai 1x1](https://images.ctfassets.net/kftzwdyauwt9/6SkgXCQ08f4AYarun2I3oU/24414c9962c945767f783bdb63006841/OAI-Ona-ArtCard.png?w=3840&q=90&fm=webp)
 
-[OpenAI and Dell Technologies partner to bring Codex to hybrid and on-premises enterprise environmentsCompanyMay 18, 2026](</index/dell-codex-enterprise-partnership/>)
+[OpenAI to acquire OnaCompanyJun 11, 2026](</index/openai-to-acquire-ona/>)
 
-![Frame](https://images.ctfassets.net/kftzwdyauwt9/32jPyVqUObkTrIIyA6tJV1/4eb384b5bb2f21ccea5de7665858a37a/Frame.png?w=3840&q=90&fm=webp)
+![Oracle partnership 1x1 art card](https://images.ctfassets.net/kftzwdyauwt9/7zjGwFPBZMvK6zwFSMVWRm/6721ac33e5b1aaf88a9b705a3d10c90a/OAI_Oracle_Partnership_1x1_Art_Card.png?w=3840&q=90&fm=webp)
 
-[Our response to the TanStack npm supply chain attackCompanyMay 13, 2026](</index/our-response-to-the-tanstack-npm-supply-chain-attack/>)
+[Access OpenAI models and Codex through your Oracle cloud commitmentCompanyJun 10, 2026](</index/openai-on-oracle-cloud/>)
 
-![OpenAI Campus Network—Student Club Interest Form > card image](https://images.ctfassets.net/kftzwdyauwt9/3gVx8jMHtHwuFpYS10BWBF/b70c85eada669bdabf956c591dfe8bbf/OpenAI_Campus_Networkâ__Student_Club_Interest_Form_-_art_card.png?w=3840&q=90&fm=webp)
+![Confidential submission of draft S-1 to the SEC > cover image](https://images.ctfassets.net/kftzwdyauwt9/36doI12YCwUtp1hzD4d8bj/84e67c565f39e7d5ca3ee011efa69756/confidential-submission-of-draft-s-1-to-the-sec-1x1.png?w=3840&q=90&fm=webp)
 
-[OpenAI Campus Network: Student club interest formCompanyMay 11, 2026](</index/openai-campus-network-student-club-interest-form/>)
+[Confidential submission of draft S-1 to the SECCompanyJun 8, 2026](</index/openai-submits-confidential-s-1/>)
 
 Research
 

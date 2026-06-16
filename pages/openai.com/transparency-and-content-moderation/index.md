@@ -26,6 +26,10 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
+Last updated: May 4, 2026
+
+# Transparency & content moderation
+
 ChatGPT search functionality
 
   * ChatGPT search functionality
@@ -36,9 +40,15 @@ ChatGPT search functionality
 
 
 
-Last updated: May 4, 2026
+Table of contents
 
-# Transparency & content moderation
+  * ChatGPT search functionality
+  * Shopping results in ChatGPT search
+  * UK Online Safety Act
+  * Australia Online Safety Act
+  * The Brazilian Digital Statute for Children and Adolescents
+
+
 
 To promote safe and responsible use of our products, we use a range of procedures and tools to address content that may violate the law or our terms and policies.
 

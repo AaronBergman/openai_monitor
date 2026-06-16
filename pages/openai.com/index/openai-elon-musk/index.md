@@ -26,14 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-We realized building AGI will require far more resources than we’d initially imagined
-
-  * We realized building AGI will require far more resources than we’d initially imagined
-  * We and Elon recognized a for-profit entity would be necessary to acquire those resources
-  * We advance our mission by building widely-available beneficial tools
-
-
-
 March 5, 2024
 
 [Company](</news/company-announcements/>)
@@ -45,6 +37,22 @@ We are dedicated to the OpenAI mission and have pursued it every step of the way
 Loading…
 
 Share
+
+We realized building AGI will require far more resources than we’d initially imagined
+
+  * We realized building AGI will require far more resources than we’d initially imagined
+  * We and Elon recognized a for-profit entity would be necessary to acquire those resources
+  * We advance our mission by building widely-available beneficial tools
+
+
+
+Table of contents
+
+  * We realized building AGI will require far more resources than we’d initially imagined
+  * We and Elon recognized a for-profit entity would be necessary to acquire those resources
+  * We advance our mission by building widely-available beneficial tools
+
+
 
 The mission of OpenAI is to ensure AGI benefits all of humanity, which means both building safe and beneficial AGI and helping create broadly distributed benefits. We are now sharing what we've learned about achieving our mission, and some facts about our relationship with Elon. We intend to move to dismiss all of Elon’s claims.
 

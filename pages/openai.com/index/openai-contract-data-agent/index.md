@@ -26,6 +26,16 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
+September 29, 2025
+
+[API](</stories/api/>)OpenAI on OpenAI
+
+# Turning contracts into searchable data at OpenAI
+
+Loading…
+
+Share
+
 When contracts became the bottleneck
 
   * When contracts became the bottleneck
@@ -36,15 +46,15 @@ When contracts became the bottleneck
 
 
 
-September 29, 2025
+Table of contents
 
-[API](</stories/api/>)OpenAI on OpenAI
+  * When contracts became the bottleneck
+  * Building a smarter workflow
+  * Confident contract reviews
+  * Beyond contracts
+  * A new operating model for finance
 
-# Turning contracts into searchable data at OpenAI
 
-Loading…
-
-Share
 
  _This is part of our series sharing internal examples of how OpenAI is using its own technology and APIs. These tools are being used internally, only at OpenAI, and are shared here as illustrative examples of how frontier AI is supporting use cases across our teams. We’re also sharing the internal tool names for a clearer look at how frontier AI helps our teams get work done._
 

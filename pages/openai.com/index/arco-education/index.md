@@ -26,6 +26,14 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
+# Arco Educação uses GPT‑4 to improve teaching and learning in Brazil
+
+![The image shows the "arco" logo in white text with a simple, upward-pointing arrow design above it. The background is a soft, abstract blue watercolor with blurred shapes resembling floating books.](https://images.ctfassets.net/kftzwdyauwt9/LgothASVGSIWyShfABDxD/3dac556e2244a03e234589ed47a0b073/oai_arco_hero.png?w=3840&q=90&fm=webp)
+
+Loading…
+
+Share
+
 Taking a teacher-first approach
 
   * Taking a teacher-first approach
@@ -35,13 +43,14 @@ Taking a teacher-first approach
 
 
 
-# Arco Educação uses GPT‑4 to improve teaching and learning in Brazil
+Table of contents
 
-![The image shows the "arco" logo in white text with a simple, upward-pointing arrow design above it. The background is a soft, abstract blue watercolor with blurred shapes resembling floating books.](https://images.ctfassets.net/kftzwdyauwt9/LgothASVGSIWyShfABDxD/3dac556e2244a03e234589ed47a0b073/oai_arco_hero.png?w=3840&q=90&fm=webp)
+  * Taking a teacher-first approach
+  * Choosing OpenAI
+  * Introducing the Teacher Assistant
+  * Planning a bright future
 
-Loading…
 
-Share
 
 Arco Educação, Brazil’s largest educational operating system, is partnering with OpenAI to build tools that enable teachers to concentrate on what matters most: helping students learn. “Arco’s products were built by teachers, for teachers,” says CEO Ari de Sá Cavalcante. “Our AI strategy aims to free up educators’ time, enabling them to focus more on each student's unique learning journey.” 
 

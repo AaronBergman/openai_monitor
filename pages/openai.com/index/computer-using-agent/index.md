@@ -26,15 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Table of contents
-
-  * How it works
-  * Evaluations
-  * Safety
-  * Conclusion
-
-
-
 January 23, 2025
 
 [Release](</research/index/release/>)
@@ -47,7 +38,23 @@ Powering Operator with Computer-Using Agent, a universal interface for AI to int
 
 Loading…
 
-Share
+How it works
+
+  * How it works
+  * Evaluations
+  * Safety
+  * Conclusion
+
+
+
+Table of contents
+
+  * How it works
+  * Evaluations
+  * Safety
+  * Conclusion
+
+
 
 Today we introduced a research preview of [Operator⁠(opens in a new window)](<https://operator.chatgpt.com/>), an agent that can go to the web to perform tasks for you. Powering Operator is Computer-Using Agent (CUA), a model that combines GPT‑4o's vision capabilities with advanced reasoning through reinforcement learning. CUA is trained to interact with graphical user interfaces (GUIs)—the buttons, menus, and text fields people see on a screen—just as humans do. This gives it the flexibility to perform digital tasks without using OS-or web-specific APIs. 
 
@@ -55,7 +62,7 @@ CUA builds off of years of foundational research at the intersection of multimod
 
 While CUA is still early and has limitations, it sets new state-of-the-art benchmark results, achieving a 38.1% success rate on OSWorld for full computer use tasks, and 58.1% on WebArena and 87% on WebVoyager for web-based tasks. These results highlight CUA’s ability to navigate and operate across diverse environments using a single general action space. 
 
-We’ve developed CUA with safety as a top priority to address the challenges posed by an agent having access to the digital world, as detailed in our [Operator System Card](</index/operator-system-card/>). In line with our iterative deployment strategy, we are releasing CUA through a research preview of Operator at [operator.chatgpt.com⁠(opens in a new window)](<http://operator.chatgpt.com>) for [Pro](</chatgpt/pricing/>) Tier users in the U.S. to start. By gathering real-world feedback, we can refine safety measures and continuously improve as we prepare for a future with increasing use of digital agents.
+We’ve developed CUA with safety as a top priority to address the challenges posed by an agent having access to the digital world, as detailed in our [Operator System Card](</index/operator-system-card/>). In line with our iterative deployment strategy, we are releasing CUA through a research preview of Operator at [operator.chatgpt.com⁠(opens in a new window)](<http://operator.chatgpt.com>) for [Pro⁠(opens in a new window)](<https://chatgpt.com/pricing>) Tier users in the U.S. to start. By gathering real-world feedback, we can refine safety measures and continuously improve as we prepare for a future with increasing use of digital agents.
 
 ## How it works
 
@@ -112,7 +119,7 @@ Please do the following task: I want to learn python programming and my friend r
 
 ### CUA in Operator
 
-We’re making CUA available through a research preview of [Operator](</index/introducing-operator/>), an agent that can go to the web to perform tasks for you. Operator is available to [Pro](</chatgpt/pricing/>) users in the U.S. at [operator.chatgpt.com⁠(opens in a new window)](<https://operator.chatgpt.com>). This research preview is an opportunity to learn from our users and the broader ecosystem, refining and improving Operator iteratively. As with any early-stage technology, we don’t expect CUA to perform reliably in all scenarios just yet. However, it has already proven useful in a variety of cases, and we aim to extend that reliability across a wider range of tasks. By releasing CUA in Operator, we hope to gather valuable insights from our users, which will guide us in refining its capabilities and expanding its applications.
+We’re making CUA available through a research preview of [Operator](</index/introducing-operator/>), an agent that can go to the web to perform tasks for you. Operator is available to [Pro⁠(opens in a new window)](<https://chatgpt.com/pricing>) users in the U.S. at [operator.chatgpt.com⁠(opens in a new window)](<https://operator.chatgpt.com>). This research preview is an opportunity to learn from our users and the broader ecosystem, refining and improving Operator iteratively. As with any early-stage technology, we don’t expect CUA to perform reliably in all scenarios just yet. However, it has already proven useful in a variety of cases, and we aim to extend that reliability across a wider range of tasks. By releasing CUA in Operator, we hope to gather valuable insights from our users, which will guide us in refining its capabilities and expanding its applications.
 
 In the table below, we present CUA’s performance in Operator on a handful of trials given a prompt to illustrate its known strengths and weaknesses.
 
@@ -227,11 +234,10 @@ OpenAI
 
 Please cite OpenAI and use the following BibTeX for citation: [http://cdn.openai.com/cua/cua2025.bib⁠(opens in a new window)](<http://cdn.openai.com/cua/cua2025.bib>)
 
-Our Research
+Research
 
   * [Research Index](</research/index/>)
   * [Research Overview](</research/>)
-  * [Research Residency](</residency/>)
   * [Economic Research](</signals/>)
 
 
@@ -241,44 +247,53 @@ Latest Advancements
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
   * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
-  * [GPT-5.3-Codex](</index/introducing-gpt-5-3-codex/>)
 
 
 
 Safety
 
   * [Safety Approach](</safety/>)
+  * [Deployment Safety(opens in a new window)](<https://deploymentsafety.openai.com/>)
   * [Security & Privacy](</security-and-privacy/>)
   * [Trust & Transparency](</trust-and-transparency/>)
 
 
 
-ChatGPT
+Products
 
-  * [Explore ChatGPT(opens in a new window)](<https://chatgpt.com/overview>)
-  * [Business](<https://chatgpt.com/business/business-plan>)
-  * [Enterprise](<https://chatgpt.com/business/enterprise>)
-  * [Education](<https://chatgpt.com/business/education>)
-  * [Pricing(opens in a new window)](<https://chatgpt.com/pricing>)
-  * [Download(opens in a new window)](<https://chatgpt.com/download>)
+  * [ChatGPT(opens in a new window)](<https://chatgpt.com/>)
+  * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
+  * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
+  * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
+  * [Codex](</codex/>)
+  * [Release Notes](</products/release-notes/>)
 
 
 
 API Platform
 
-  * [Platform Overview](</api/>)
-  * [Pricing](</api/pricing/>)
-  * [API log in(opens in a new window)](<https://platform.openai.com/login>)
-  * [Documentation(opens in a new window)](<https://developers.openai.com/api/docs>)
-  * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
+  * [Overview](</api/>)
+  * [API Log In(opens in a new window)](<https://platform.openai.com/login>)
+  * [Docs(opens in a new window)](<https://developers.openai.com/api/docs>)
 
 
 
-For Business
+Business
 
-  * [Business Overview](</business/>)
+  * [Overview](</business/>)
   * [Solutions](</solutions/>)
+  * [Resources](</business/learn/>)
   * [Contact Sales](</contact-sales/>)
+
+
+
+Developers
+
+  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
+  * [Open Models](</open-models/>)
+  * [Docs(opens in a new window)](<https://developers.openai.com/>)
+  * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
+  * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
 
 
 
@@ -286,9 +301,8 @@ Company
 
   * [About Us](</about/>)
   * [Our Charter](</charter/>)
-  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
   * [Careers](</careers/>)
-  * [Brand](</brand/>)
+  * [News](</news/>)
 
 
 
@@ -300,7 +314,6 @@ Support
 
 More
 
-  * [News](</news/>)
   * [Stories](</stories/>)
   * [Academy](</academy/>)
   * [Livestreams](</live/>)

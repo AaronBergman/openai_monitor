@@ -26,6 +26,14 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
+# Paf’s engineering team creates 85 custom GPTs to surge developer productivity
+
+![Image of Paf logo on brand green](https://images.ctfassets.net/kftzwdyauwt9/2lxswGHhL0uRbrzVPxJQc5/b07d2b2c8350732d46a27edd74b1f7b6/Paf_logo.jpg?w=3840&q=90&fm=webp)
+
+Loading…
+
+Share
+
 Evaluating various AI models
 
   * Evaluating various AI models
@@ -35,13 +43,14 @@ Evaluating various AI models
 
 
 
-# Paf’s engineering team creates 85 custom GPTs to surge developer productivity
+Table of contents
 
-![Image of Paf logo on brand green](https://images.ctfassets.net/kftzwdyauwt9/2lxswGHhL0uRbrzVPxJQc5/b07d2b2c8350732d46a27edd74b1f7b6/Paf_logo.jpg?w=3840&q=90&fm=webp)
+  * Evaluating various AI models
+  * Creating custom GPTs to streamline the development process
+  * Empowering every engineer to be a systems architect
+  * ChatGPT delivers the equivalent output of 12 employees
 
-Loading…
 
-Share
 
 Paf adopted ChatGPT Enterprise across its entire company, with engineers using custom GPTs on a daily basis to speed up routine development tasks. Paf also integrated ChatGPT Enterprise into the grit:lab coding academy (gritlab.ax), training the next generation of software developers using an AI-augmented, systems-architecture mindset from day one. In addition to the wide range of use cases for developers and grit:lab students, 70% of Paf employees actively use ChatGPT Enterprise, spanning business teams like finance, HR, marketing, and customer support. 
 

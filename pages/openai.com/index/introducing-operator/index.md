@@ -26,17 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Table of contents
-
-  * How Operator works
-  * How to use
-  * Ecosystem & users
-  * Safety and privacy 
-  * Limitations
-  * What's next
-
-
-
 January 23, 2025
 
 [Product](</news/product-releases/>)
@@ -51,7 +40,27 @@ A research preview of an agent that can use its own browser to perform tasks for
 
 Loading…
 
-Share
+How Operator works
+
+  * How Operator works
+  * How to use
+  * Ecosystem & users
+  * Safety and privacy 
+  * Limitations
+  * What's next
+
+
+
+Table of contents
+
+  * How Operator works
+  * How to use
+  * Ecosystem & users
+  * Safety and privacy 
+  * Limitations
+  * What's next
+
+
 
  _**July 17, 2025 update**_ _: Operator is now fully integrated into ChatGPT as ChatGPT agent. To access these updated capabilities, simply select “agent mode” from the dropdown in the composer and enter your query directly within ChatGPT. As a result, the standalone Operator site (operator.chatgpt.com) will sunset on in the coming weeks._
 
@@ -61,7 +70,7 @@ Today we’re releasing [_Operator_ ⁠(opens in a new window)](<https://operato
 
 Operator can be asked to handle a wide variety of repetitive browser tasks such as filling out forms, ordering groceries, and even creating memes. The ability to use the same interfaces and tools that humans interact with on a daily basis broadens the utility of AI, helping people save time on everyday tasks while opening up new engagement opportunities for businesses.
 
-To ensure a safe and iterative rollout, we are starting small. Starting today, Operator is available to [_Pro_](</chatgpt/pricing/>) users in the U.S. at [_operator.chatgpt.com_ ⁠(opens in a new window)](<https://operator.chatgpt.com>). This research preview allows us to learn from our users and the broader ecosystem, refining and improving as we go. Our plan is to expand to Plus, Team, and Enterprise users and integrate these capabilities into ChatGPT in the future.
+To ensure a safe and iterative rollout, we are starting small. Starting today, Operator is available to [_Pro_ ⁠(opens in a new window)](<https://chatgpt.com/pricing>) users in the U.S. at [_operator.chatgpt.com_ ⁠(opens in a new window)](<https://operator.chatgpt.com>). This research preview allows us to learn from our users and the broader ecosystem, refining and improving as we go. Our plan is to expand to Plus, Team, and Enterprise users and integrate these capabilities into ChatGPT in the future.
 
 ## How Operator works
 
@@ -167,11 +176,10 @@ Adam Brandon, Adam Koppel, Adele Li, Ahmed El-Kishky, Akila Welihinda, Alex Karp
 
 Anna Makanju, Greg Brockman, Hannah Wong, Jerry Tworek, Liam Fedus, Mark Chen, Peter Welinder, Sam Altman, Wojciech Zaremba
 
-Our Research
+Research
 
   * [Research Index](</research/index/>)
   * [Research Overview](</research/>)
-  * [Research Residency](</residency/>)
   * [Economic Research](</signals/>)
 
 
@@ -181,44 +189,53 @@ Latest Advancements
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
   * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
-  * [GPT-5.3-Codex](</index/introducing-gpt-5-3-codex/>)
 
 
 
 Safety
 
   * [Safety Approach](</safety/>)
+  * [Deployment Safety(opens in a new window)](<https://deploymentsafety.openai.com/>)
   * [Security & Privacy](</security-and-privacy/>)
   * [Trust & Transparency](</trust-and-transparency/>)
 
 
 
-ChatGPT
+Products
 
-  * [Explore ChatGPT(opens in a new window)](<https://chatgpt.com/overview>)
-  * [Business](<https://chatgpt.com/business/business-plan>)
-  * [Enterprise](<https://chatgpt.com/business/enterprise>)
-  * [Education](<https://chatgpt.com/business/education>)
-  * [Pricing(opens in a new window)](<https://chatgpt.com/pricing>)
-  * [Download(opens in a new window)](<https://chatgpt.com/download>)
+  * [ChatGPT(opens in a new window)](<https://chatgpt.com/>)
+  * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
+  * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
+  * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
+  * [Codex](</codex/>)
+  * [Release Notes](</products/release-notes/>)
 
 
 
 API Platform
 
-  * [Platform Overview](</api/>)
-  * [Pricing](</api/pricing/>)
-  * [API log in(opens in a new window)](<https://platform.openai.com/login>)
-  * [Documentation(opens in a new window)](<https://developers.openai.com/api/docs>)
-  * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
+  * [Overview](</api/>)
+  * [API Log In(opens in a new window)](<https://platform.openai.com/login>)
+  * [Docs(opens in a new window)](<https://developers.openai.com/api/docs>)
 
 
 
-For Business
+Business
 
-  * [Business Overview](</business/>)
+  * [Overview](</business/>)
   * [Solutions](</solutions/>)
+  * [Resources](</business/learn/>)
   * [Contact Sales](</contact-sales/>)
+
+
+
+Developers
+
+  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
+  * [Open Models](</open-models/>)
+  * [Docs(opens in a new window)](<https://developers.openai.com/>)
+  * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
+  * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
 
 
 
@@ -226,9 +243,8 @@ Company
 
   * [About Us](</about/>)
   * [Our Charter](</charter/>)
-  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
   * [Careers](</careers/>)
-  * [Brand](</brand/>)
+  * [News](</news/>)
 
 
 
@@ -240,7 +256,6 @@ Support
 
 More
 
-  * [News](</news/>)
   * [Stories](</stories/>)
   * [Academy](</academy/>)
   * [Livestreams](</live/>)

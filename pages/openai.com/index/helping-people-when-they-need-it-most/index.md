@@ -26,14 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-What ChatGPT is designed to do
-
-  * What ChatGPT is designed to do
-  * Where our systems can fall short, why, and how we’re addressing
-  * What we are planning for the future
-
-
-
 August 26, 2025
 
 [Safety](</news/safety-alignment/>)[Product](</news/product-releases/>)
@@ -43,6 +35,22 @@ August 26, 2025
 Loading…
 
 Share
+
+What ChatGPT is designed to do
+
+  * What ChatGPT is designed to do
+  * Where our systems can fall short, why, and how we’re addressing
+  * What we are planning for the future
+
+
+
+Table of contents
+
+  * What ChatGPT is designed to do
+  * Where our systems can fall short, why, and how we’re addressing
+  * What we are planning for the future
+
+
 
 As ChatGPT adoption has grown worldwide, we’ve seen people turn to it not just for search, coding, and writing—but also deeply personal decisions that include [life advice⁠(opens in a new window)](<https://www.reddit.com/r/ChatGPT/comments/1k1dxpp/chatgpt_has_helped_me_more_than_15_years_of/>), [coaching⁠(opens in a new window)](<https://www.reddit.com/r/ChatGPT/comments/1h5y9nq/how_i_turned_chatgpt_into_my_personal/>), and [support⁠(opens in a new window)](<https://www.reddit.com/r/ChatGPT/comments/1kqwte8/chatgpt_is_actually_amazing_for_mental_health/>).
 
@@ -136,6 +144,10 @@ OpenAI
 
 [View all](</news/>)
 
+![Intro-OAI-Partner-ArtCard](https://images.ctfassets.net/kftzwdyauwt9/U6bb3rlwvYyhf2q835WWx/d50f5492dded3c21aa6d69c07d3b2a44/Introducing_OAI_Partner_Network_artcard.png?w=3840&q=90&fm=webp)
+
+[Introducing the OpenAI Partner NetworkProductJun 14, 2026](</index/introducing-openai-partner-network/>)
+
 ![Art Card 1080x1080 \(3\)](https://images.ctfassets.net/kftzwdyauwt9/3JLNH7ejJFnxLmX2LpzoKD/19f9e3c4d36cc9d677ba88e842ad2db2/Art_Card_1080x1080__4_.png?w=3840&q=90&fm=webp)
 
 Better memory for a more helpful ChatGPT
@@ -145,10 +157,6 @@ Better memory for a more helpful ChatGPT
 ![Rosalind5.5 ArtCard](https://images.ctfassets.net/kftzwdyauwt9/6USIQM1B7TggUvvTFxxwoi/0176ac6633c8bdc24641d25d1d2db824/GPT-Rosalind_ArtCard.png?w=3840&q=90&fm=webp)
 
 [Introducing new capabilities to GPT-RosalindProductJun 3, 2026](</index/introducing-new-capabilities-to-gpt-rosalind/>)
-
-![1 1 Art Card](https://images.ctfassets.net/kftzwdyauwt9/4xugzd9dTDMUzIUmuamtO3/1f40af4e50ab8b2bdd64d5b491964961/1_1_Art_Card.png?w=3840&q=90&fm=webp)
-
-[Codex for every role, tool, and workflowProductJun 2, 2026](</index/codex-for-every-role-tool-workflow/>)
 
 Research
 

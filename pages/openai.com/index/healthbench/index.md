@@ -26,16 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Dataset description
-
-  * Dataset description
-  * Performance of models
-  * Comparison against physician baselines
-  * Trustworthiness of HealthBench
-  * Where we go from here
-
-
-
 May 12, 2025
 
 [Publication](</research/index/publication/>)
@@ -49,6 +39,26 @@ An evaluation for AI systems and human health.
 Loading…
 
 Share
+
+Dataset description
+
+  * Dataset description
+  * Performance of models
+  * Comparison against physician baselines
+  * Trustworthiness of HealthBench
+  * Where we go from here
+
+
+
+Table of contents
+
+  * Dataset description
+  * Performance of models
+  * Comparison against physician baselines
+  * Trustworthiness of HealthBench
+  * Where we go from here
+
+
 
 Improving human health will be one of the defining impacts of AGI. If developed and deployed effectively, large language models have the potential to expand access to health information, support clinicians in delivering high-quality care, and help people advocate for their health and that of their communities.
 

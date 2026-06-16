@@ -26,17 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-EliseAI was founded in 2017, before AI became mainstream. Was there a specific moment you decided to go all in on AI, or did it happen early on?
-
-  * EliseAI was founded in 2017, before AI became mainstream. Was there a specific moment you decided to go all in on AI, or did it happen early on?
-  * What advice would you give to startups introducing AI to their customers, about doing it in a way that feels natural rather than disruptive?
-  * What technical breakthrough in AI has had the biggest impact on your product?
-  * When building a new AI-powered feature or tool, how do you measure success?
-  * How do you foster AI fluency within your team?
-  * How do you effectively plan for EliseAI’s future with AI evolving so fast?
-
-
-
 March 18, 2025
 
 # EliseAI improves housing and healthcare efficiency with AI
@@ -49,7 +38,29 @@ Loading…
 
 Share
 
-** _Our Executive Function series features perspectives from leaders driving transformation through AI._**
+EliseAI was founded in 2017, before AI became mainstream. Was there a specific moment you decided to go all in on AI, or did it happen early on?
+
+  * EliseAI was founded in 2017, before AI became mainstream. Was there a specific moment you decided to go all in on AI, or did it happen early on?
+  * What advice would you give to startups introducing AI to their customers, about doing it in a way that feels natural rather than disruptive?
+  * What technical breakthrough in AI has had the biggest impact on your product?
+  * When building a new AI-powered feature or tool, how do you measure success?
+  * How do you foster AI fluency within your team?
+  * How do you effectively plan for EliseAI’s future with AI evolving so fast?
+
+
+
+Table of contents
+
+  * EliseAI was founded in 2017, before AI became mainstream. Was there a specific moment you decided to go all in on AI, or did it happen early on?
+  * What advice would you give to startups introducing AI to their customers, about doing it in a way that feels natural rather than disruptive?
+  * What technical breakthrough in AI has had the biggest impact on your product?
+  * When building a new AI-powered feature or tool, how do you measure success?
+  * How do you foster AI fluency within your team?
+  * How do you effectively plan for EliseAI’s future with AI evolving so fast?
+
+
+
+**_Our Executive Function series features perspectives from leaders driving transformation through AI._**
 
 __[_EliseAI_ ⁠(opens in a new window)](<https://www.eliseai.com/>) uses conversational AI to drive efficiency for customers in the housing and healthcare industries. We spoke with Minna Song, CEO of EliseAI, about how AI is transforming these industries, the challenges of running a startup in this climate, and the future of automation.
 

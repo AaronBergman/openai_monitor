@@ -26,14 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Methods
-
-  * Methods
-  * Limitations
-  * Next Steps
-
-
-
 June 27, 2024
 
 [Publication](</research/index/publication/>)
@@ -47,6 +39,22 @@ CriticGPT, a model based on GPT‑4, writes critiques of ChatGPT responses to he
 Loading…
 
 Share
+
+Methods
+
+  * Methods
+  * Limitations
+  * Next Steps
+
+
+
+Table of contents
+
+  * Methods
+  * Limitations
+  * Next Steps
+
+
 
 We've trained a model, based on GPT‑4, called CriticGPT to catch errors in ChatGPT's code output. We found that when people get help from CriticGPT to review ChatGPT code they outperform those without help 60% of the time. We are beginning the work to integrate CriticGPT‑like models into our RLHF labeling pipeline, providing our trainers with explicit AI assistance. This is a step towards being able to evaluate outputs from advanced AI systems that can be difficult for people to rate without better tools.
 

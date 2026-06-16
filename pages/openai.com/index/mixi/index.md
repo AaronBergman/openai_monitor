@@ -26,16 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Creating a safe environment for AI use
-
-  * Creating a safe environment for AI use
-  * A 45-day deployment, powered by hands‑on support
-  * Strengthening FamilyAlbum’s Message with GPTs
-  * Redirecting analyst hours toward human connection
-  * Everyone’s a developer: 1,600 GPTs and counting
-
-
-
 August 20, 2025
 
 # MIXI reimagines communication with ChatGPT
@@ -47,6 +37,26 @@ Discover how MIXI deployed ChatGPT Enterprise in just 45 days, and scaled compan
 Loading…
 
 Share
+
+Creating a safe environment for AI use
+
+  * Creating a safe environment for AI use
+  * A 45-day deployment, powered by hands‑on support
+  * Strengthening FamilyAlbum’s Message with GPTs
+  * Redirecting analyst hours toward human connection
+  * Everyone’s a developer: 1,600 GPTs and counting
+
+
+
+Table of contents
+
+  * Creating a safe environment for AI use
+  * A 45-day deployment, powered by hands‑on support
+  * Strengthening FamilyAlbum’s Message with GPTs
+  * Redirecting analyst hours toward human connection
+  * Everyone’s a developer: 1,600 GPTs and counting
+
+
 
 MIXI, once a pioneer of Japan’s early social networking scene, now primarily operates in the Lifestyle, Digital Entertainment, and Sports industries. The company is known for global successes like the mobile game “MONSTER STRIKE” and the family-focused photo and video-sharing app “FamilyAlbum.”
 
