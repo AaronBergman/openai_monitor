@@ -26,6 +26,14 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
+# Color Health
+
+![Color logo on a dark blue background.](https://images.ctfassets.net/kftzwdyauwt9/59cTZypLgyWY3I2ZoFcW4b/230c7351e5bb6a9d1a2d02316e158528/Color-Health.png?w=3840&q=90&fm=webp)
+
+Loading…
+
+Share
+
 Color’s copilot is helping clinicians create customized, comprehensive plans to start cancer treatment
 
   * Color’s copilot is helping clinicians create customized, comprehensive plans to start cancer treatment
@@ -35,13 +43,14 @@ Color’s copilot is helping clinicians create customized, comprehensive plans t
 
 
 
-# Color Health
+Table of contents
 
-![Color logo on a dark blue background.](https://images.ctfassets.net/kftzwdyauwt9/59cTZypLgyWY3I2ZoFcW4b/230c7351e5bb6a9d1a2d02316e158528/Color-Health.png?w=3840&q=90&fm=webp)
+  * Color’s copilot is helping clinicians create customized, comprehensive plans to start cancer treatment
+  * Missed screenings and delayed cancer treatment impact patient outcomes 
+  * Building a fast, safe, and secure proof of concept with OpenAI
+  * Reducing time to treatment for cancer patients
 
-Loading…
 
-Share
 
 [ _Color Health_ ⁠(opens in a new window)](<https://www.color.com/?utm_source=google&utm_medium=cpc&utm_campaign=brand_search&utm_keyword=%7Bterm%7D&gclid=CjwKCAjwvIWzBhAlEiwAHHWgvWjZzJtryDpDsmt-pKVw2TvDyHufXMD3YyY5C3a5tlhw0KCMmh_xQRoCKU8QAvD_BwE>) is working with OpenAI to pioneer a new way of accelerating cancer patients’ access to treatment. Their new copilot application uses GPT‑4o to identify missing diagnostics and create tailored workup plans, enabling healthcare providers to make evidence-based decisions about cancer screening and treatment. 
 

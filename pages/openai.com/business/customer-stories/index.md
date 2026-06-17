@@ -32,69 +32,101 @@ Customer stories
 
 [Contact sales](</contact-sales/>)
 
-![Blue gradient background featuring a stylized blue payphone with an OpenAI logo on it at the top left, and at the top right a holographic OpenAI logo beneath a black oval graphic that reads “Universe at your fingertips” with an illustrated hand reaching toward scattered light.](https://images.ctfassets.net/kftzwdyauwt9/27o2jhvcIYeYnSwIAd7fwJ/cdbe1bd20ea5b3efc3f1375dcdf81d39/oai_million_hero_1x1.png?w=3840&q=90&fm=webp)
+![NVIDIA featured card image.](https://images.ctfassets.net/kftzwdyauwt9/5HtdVj1sIxhYm7RxX5iv3i/3ed63da9cd03a9363fd0e4b3f0cb9dee/oai_NVIDIA_1x1_Featured.jpg?w=3840&q=90&fm=webp)
 
-1M businesses use OpenAI
+10x
 
-One in a million: celebrating the customers shaping AI’s future
+## Speed improvement in end-to-end research workflows
 
-[Read more](</index/one-in-a-million-customers/>)
+[Read more](</index/nvidia/>)
 
-![White “Praktika” logo with a stylized speech-bubble “P” icon on a rich purple background with soft, flowing fabric-like waves.](https://images.ctfassets.net/kftzwdyauwt9/3VWFWTtGL1G5J9kNlei6Fn/225776b894191fbbee3c98179a8cc8e9/oai_Praktika_1x1_Hero.png?w=3840&q=90&fm=webp)
+![BBVA featured card image.](https://images.ctfassets.net/kftzwdyauwt9/4lix59W7tWJ8tE79w5PyDo/a216ff2cbed5fb052146adb32cc8d57a/oai_BBVA_1x1_Featured.jpg?w=3840&q=90&fm=webp)
 
-1M businesses use OpenAI
+10x
 
-One in a million: celebrating the customers shaping AI’s future
+## Speed improvement in end-to-end research workflows
 
-[Read more](</index/one-in-a-million-customers/>)
+[Read more](</index/nvidia/>)
 
-![White “BNY” logo with a right-pointing arrow mark on a dark blue abstract background featuring diagonal glowing blue light streaks.](https://images.ctfassets.net/kftzwdyauwt9/6lwLd15DdSGMih7hxftS9r/85145fc53cefff3075a1393631fde308/oai_BNY_1x1_Hero.png?w=3840&q=90&fm=webp)
+![Balyasny Asset Management featured card image.](https://images.ctfassets.net/kftzwdyauwt9/5RvYx3POt4gJ17TvlFMt4f/9f45672594d2e3afa954c88f969d1f83/oai_Balyasny_1x1_Featured.jpg?w=3840&q=90&fm=webp)
 
-1M businesses use OpenAI
+10x
 
-One in a million: celebrating the customers shaping AI’s future
+## Speed improvement in end-to-end research workflows
 
-[Read more](</index/one-in-a-million-customers/>)
+[Read more](</index/nvidia/>)
 
-![White “netomi” logo with a stylized “N” icon on a soft green abstract background with flowing, wave-like textures.](https://images.ctfassets.net/kftzwdyauwt9/2crelp5mxDDJjBFZsXBZy1/dac347205d04393247bf272398e19932/oai_netomi_1x1_HERO.png?w=3840&q=90&fm=webp)
+![Cisco featured card image.](https://images.ctfassets.net/kftzwdyauwt9/nchmg80Ezss5tVmMPjx54/bf44255eef7bf9f9c67b53cb2b3e713b/oai_Cisco_1x1_Featured__1_.png?w=3840&q=90&fm=webp)
 
-1M businesses use OpenAI
+10x
 
-One in a million: celebrating the customers shaping AI’s future
+## Speed improvement in end-to-end research workflows
 
-[Read more](</index/one-in-a-million-customers/>)
+[Read more](</index/nvidia/>)
 
-![Blue gradient background featuring a stylized blue payphone with an OpenAI logo on it at the top left, and at the top right a holographic OpenAI logo beneath a black oval graphic that reads “Universe at your fingertips” with an illustrated hand reaching toward scattered light.](https://images.ctfassets.net/kftzwdyauwt9/27o2jhvcIYeYnSwIAd7fwJ/cdbe1bd20ea5b3efc3f1375dcdf81d39/oai_million_hero_1x1.png?w=3840&q=90&fm=webp)
+![Virgin Atlantic featured card image.](https://images.ctfassets.net/kftzwdyauwt9/4syu8nj63KLb4QxUvBe8e2/ac282c37f99ad2e8d1713dd16d5d5c2b/oai_VirginAtlantic_1x1_Featured.jpg?w=3840&q=90&fm=webp)
 
-1M businesses use OpenAI
+10x
 
-One in a million: celebrating the customers shaping AI’s future
+## Speed improvement in end-to-end research workflows
 
-[Read more](</index/one-in-a-million-customers/>)
+[Read more](</index/nvidia/>)
 
-![White “Praktika” logo with a stylized speech-bubble “P” icon on a rich purple background with soft, flowing fabric-like waves.](https://images.ctfassets.net/kftzwdyauwt9/3VWFWTtGL1G5J9kNlei6Fn/225776b894191fbbee3c98179a8cc8e9/oai_Praktika_1x1_Hero.png?w=3840&q=90&fm=webp)
+![Warp featured card image.](https://images.ctfassets.net/kftzwdyauwt9/2Gt62oKJLF2N5F5xAx6o7i/aee7142c1c61b5f02673f969218e47df/oai_warp_1x1_Featured.jpg?w=3840&q=90&fm=webp)
 
-1M businesses use OpenAI
+10x
 
-One in a million: celebrating the customers shaping AI’s future
+## Speed improvement in end-to-end research workflows
 
-[Read more](</index/one-in-a-million-customers/>)
+[Read more](</index/nvidia/>)
 
-![White “BNY” logo with a right-pointing arrow mark on a dark blue abstract background featuring diagonal glowing blue light streaks.](https://images.ctfassets.net/kftzwdyauwt9/6lwLd15DdSGMih7hxftS9r/85145fc53cefff3075a1393631fde308/oai_BNY_1x1_Hero.png?w=3840&q=90&fm=webp)
+![NVIDIA featured card image.](https://images.ctfassets.net/kftzwdyauwt9/5HtdVj1sIxhYm7RxX5iv3i/3ed63da9cd03a9363fd0e4b3f0cb9dee/oai_NVIDIA_1x1_Featured.jpg?w=3840&q=90&fm=webp)
 
-1M businesses use OpenAI
+10x
 
-One in a million: celebrating the customers shaping AI’s future
+## Speed improvement in end-to-end research workflows
 
-[Read more](</index/one-in-a-million-customers/>)
+[Read more](</index/nvidia/>)
 
-![White “netomi” logo with a stylized “N” icon on a soft green abstract background with flowing, wave-like textures.](https://images.ctfassets.net/kftzwdyauwt9/2crelp5mxDDJjBFZsXBZy1/dac347205d04393247bf272398e19932/oai_netomi_1x1_HERO.png?w=3840&q=90&fm=webp)
+![BBVA featured card image.](https://images.ctfassets.net/kftzwdyauwt9/4lix59W7tWJ8tE79w5PyDo/a216ff2cbed5fb052146adb32cc8d57a/oai_BBVA_1x1_Featured.jpg?w=3840&q=90&fm=webp)
 
-1M businesses use OpenAI
+10x
 
-One in a million: celebrating the customers shaping AI’s future
+## Speed improvement in end-to-end research workflows
 
-[Read more](</index/one-in-a-million-customers/>)
+[Read more](</index/nvidia/>)
+
+![Balyasny Asset Management featured card image.](https://images.ctfassets.net/kftzwdyauwt9/5RvYx3POt4gJ17TvlFMt4f/9f45672594d2e3afa954c88f969d1f83/oai_Balyasny_1x1_Featured.jpg?w=3840&q=90&fm=webp)
+
+10x
+
+## Speed improvement in end-to-end research workflows
+
+[Read more](</index/nvidia/>)
+
+![Cisco featured card image.](https://images.ctfassets.net/kftzwdyauwt9/nchmg80Ezss5tVmMPjx54/bf44255eef7bf9f9c67b53cb2b3e713b/oai_Cisco_1x1_Featured__1_.png?w=3840&q=90&fm=webp)
+
+10x
+
+## Speed improvement in end-to-end research workflows
+
+[Read more](</index/nvidia/>)
+
+![Virgin Atlantic featured card image.](https://images.ctfassets.net/kftzwdyauwt9/4syu8nj63KLb4QxUvBe8e2/ac282c37f99ad2e8d1713dd16d5d5c2b/oai_VirginAtlantic_1x1_Featured.jpg?w=3840&q=90&fm=webp)
+
+10x
+
+## Speed improvement in end-to-end research workflows
+
+[Read more](</index/nvidia/>)
+
+![Warp featured card image.](https://images.ctfassets.net/kftzwdyauwt9/2Gt62oKJLF2N5F5xAx6o7i/aee7142c1c61b5f02673f969218e47df/oai_warp_1x1_Featured.jpg?w=3840&q=90&fm=webp)
+
+10x
+
+## Speed improvement in end-to-end research workflows
+
+[Read more](</index/nvidia/>)
 
 * * *
 

@@ -26,6 +26,14 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
+# Decagon and OpenAI deliver high-performance, fully automated customer support at scale
+
+![Decagon](https://images.ctfassets.net/kftzwdyauwt9/3XcP4wsSw7Bxx5HuAz2Ht9/524e1452a4784a62c8db436ac7451445/oai_decagon_1_1.jpg?w=3840&q=90&fm=webp)
+
+Loading…
+
+Share
+
 Delivering fast, nuanced, and scalable solutions with OpenAI
 
   * Delivering fast, nuanced, and scalable solutions with OpenAI
@@ -35,13 +43,14 @@ Delivering fast, nuanced, and scalable solutions with OpenAI
 
 
 
-# Decagon and OpenAI deliver high-performance, fully automated customer support at scale
+Table of contents
 
-![Decagon](https://images.ctfassets.net/kftzwdyauwt9/3XcP4wsSw7Bxx5HuAz2Ht9/524e1452a4784a62c8db436ac7451445/oai_decagon_1_1.jpg?w=3840&q=90&fm=webp)
+  * Delivering fast, nuanced, and scalable solutions with OpenAI
+  * Achieving optimal performance with GPTs and fine-tuning
+  * Superior accuracy and flexibility through strong evaluations
+  * Tackling the next customer service frontier with OpenAI
 
-Loading…
 
-Share
 
 Launched in 2023, [_Decagon_ ⁠(opens in a new window)](<https://decagon.ai/>) has quickly become a key player in automating customer support for companies like Curology, BILT, Duolingo, Eventbrite, Notion, and Substack. OpenAI’s models are crucial in their ability to deliver fast, reliable responses—without human intervention.
 

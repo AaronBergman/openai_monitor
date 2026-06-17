@@ -26,15 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Sidebar menu
-
-  * Sidebar menu
-  * Projects
-  * Settings
-  * Chat window
-
-
-
 April 23, 2026
 
 OpenAI Academy
@@ -46,6 +37,24 @@ Learn how to set up your Codex workspace and start working with threads and proj
 [Download Codex(opens in a new window)](<https://chatgpt.com/codex/for-work/>)
 
 Loading…
+
+Sidebar menu
+
+  * Sidebar menu
+  * Projects
+  * Settings
+  * Chat window
+
+
+
+Table of contents
+
+  * Sidebar menu
+  * Projects
+  * Settings
+  * Chat window
+
+
 
 When you open Codex, you’ll see a few core elements: a sidebar menu, projects, settings, and a chat window. You don’t need to understand everything right away, but we’ll cover the basics here.
 

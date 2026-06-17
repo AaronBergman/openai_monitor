@@ -26,13 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Simple tools for creating fast, high-quality commercials
-
-  * Simple tools for creating fast, high-quality commercials
-  * Using GPT-3 to create tailored scripts for every customer
-
-
-
 # Waymark
 
 ![Waymark](https://images.ctfassets.net/kftzwdyauwt9/5fc814d7-be40-4395-e08d1fb1a943/634e2e44cd474d3d23e9e5af2bbda0ac/waymark.png?w=3840&q=90&fm=webp)
@@ -40,6 +33,20 @@ Simple tools for creating fast, high-quality commercials
 Loading…
 
 Share
+
+Simple tools for creating fast, high-quality commercials
+
+  * Simple tools for creating fast, high-quality commercials
+  * Using GPT-3 to create tailored scripts for every customer
+
+
+
+Table of contents
+
+  * Simple tools for creating fast, high-quality commercials
+  * Using GPT-3 to create tailored scripts for every customer
+
+
 
 Waymark was perfecting their easy-to-use video creation platform. GPT‑3 helped them consistently produce stronger, more relevant scripts.
 

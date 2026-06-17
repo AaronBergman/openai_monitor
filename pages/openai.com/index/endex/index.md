@@ -26,6 +26,14 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
+# Endex builds the future of financial analysis, powered by OpenAI’s reasoning models
+
+![Endex](https://images.ctfassets.net/kftzwdyauwt9/54SsiEcM61vPxEi3fPOhJ1/6af3d3c4a0eff1f425ec547fa2f0c348/oai_endex_16_9.png?w=3840&q=90&fm=webp)
+
+Loading…
+
+Share
+
 Bringing analyst-level precision to AI-powered finance
 
   * Bringing analyst-level precision to AI-powered finance
@@ -35,13 +43,14 @@ Bringing analyst-level precision to AI-powered finance
 
 
 
-# Endex builds the future of financial analysis, powered by OpenAI’s reasoning models
+Table of contents
 
-![Endex](https://images.ctfassets.net/kftzwdyauwt9/54SsiEcM61vPxEi3fPOhJ1/6af3d3c4a0eff1f425ec547fa2f0c348/oai_endex_16_9.png?w=3840&q=90&fm=webp)
+  * Bringing analyst-level precision to AI-powered finance
+  * Achieving higher accuracy and automation for financial firms
+  * Developing financial agents with expert evaluations
+  * Scaling AI-powered financial analysis
 
-Loading…
 
-Share
 
 [ _Endex_ ⁠(opens in a new window)](<https://endex.ai/>), an AI platform for financial firms, is developing an AI Analyst that retrieves, synthesizes, and reasons through complex financial data. They work closely with OpenAI to reinvent the workflow of investment professionals.
 

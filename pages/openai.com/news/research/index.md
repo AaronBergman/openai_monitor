@@ -73,13 +73,13 @@ Better memory for a more helpful ChatGPT
 
 [Advancing voice intelligence with new models in the APIProductMay 7, 2026](</index/advancing-voice-intelligence-with-new-models-in-the-api/>)
 
-![20250826](https://images.ctfassets.net/kftzwdyauwt9/2H347RfdThVOeTfSBchxDx/8a053f4cfa92faeed7141265dd02e7dd/20250826.jpg?w=3840&q=90&fm=webp)
-
-[GPT-5.5 Instant: smarter, clearer, and more personalizedProductMay 5, 2026](</index/gpt-5-5-instant/>)
-
 ![System Card 1x1](https://images.ctfassets.net/kftzwdyauwt9/2VCkKLVmTyNs0XGbqdxGeA/33ff7738f4e795ae0ee41ed2b4a985d3/System_Card_1x1.jpg?w=3840&q=90&fm=webp)
 
 [GPT-5.5 Instant System CardSafetyMay 5, 2026](</index/gpt-5-5-instant-system-card/>)
+
+![20250826](https://images.ctfassets.net/kftzwdyauwt9/2H347RfdThVOeTfSBchxDx/8a053f4cfa92faeed7141265dd02e7dd/20250826.jpg?w=3840&q=90&fm=webp)
+
+[GPT-5.5 Instant: smarter, clearer, and more personalizedProductMay 5, 2026](</index/gpt-5-5-instant/>)
 
 ![oai goblins](https://images.ctfassets.net/kftzwdyauwt9/1UA2Ru5dt5rwdQfwl6B6m3/13c19cd49b106f8a39d5a2a132343b77/Goblins-1_1_Art_Card.jpg?w=3840&q=90&fm=webp)
 

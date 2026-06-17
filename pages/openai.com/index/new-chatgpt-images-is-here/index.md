@@ -26,16 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Precise edits that preserve what matter
-
-  * Precise edits that preserve what matter
-  * A new creation space
-  * Improvements and limitations
-  * GPT Image 1.5 in the API
-  * Availability
-
-
-
 December 16, 2025
 
 [Product](</news/product-releases/>)[Release](</research/index/release/>)
@@ -47,6 +37,26 @@ December 16, 2025
 Loading…
 
 Share
+
+Precise edits that preserve what matter
+
+  * Precise edits that preserve what matter
+  * A new creation space
+  * Improvements and limitations
+  * GPT Image 1.5 in the API
+  * Availability
+
+
+
+Table of contents
+
+  * Precise edits that preserve what matter
+  * A new creation space
+  * Improvements and limitations
+  * GPT Image 1.5 in the API
+  * Availability
+
+
 
 Today, we’re releasing a new version of [ChatGPT Images⁠(opens in a new window)](<http://chatgpt.com/images>), powered by our new flagship image generation model. Now, whether you’re creating something from scratch or editing a photo, you’ll get the output you’re picturing. It makes precise edits while keeping details intact, and generates images up to 4x faster. Alongside, we’re introducing a new [Images feature⁠(opens in a new window)](<http://chatgpt.com/images>) within ChatGPT, designed to make image generation delightful—to spark inspiration and make creative exploration effortless.
 

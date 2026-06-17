@@ -26,15 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-The mission comes first
-
-  * The mission comes first
-  * What OpenAI does
-  * Safety
-  * Who’s involved
-
-
-
 March 11, 2019
 
 [Company](</news/company-announcements/>)
@@ -46,6 +37,24 @@ March 11, 2019
 Loading…
 
 Share
+
+The mission comes first
+
+  * The mission comes first
+  * What OpenAI does
+  * Safety
+  * Who’s involved
+
+
+
+Table of contents
+
+  * The mission comes first
+  * What OpenAI does
+  * Safety
+  * Who’s involved
+
+
 
 Our mission is to ensure that artificial general intelligence (AGI) benefits all of humanity, primarily by attempting to build safe AGI and share the benefits with the world.
 

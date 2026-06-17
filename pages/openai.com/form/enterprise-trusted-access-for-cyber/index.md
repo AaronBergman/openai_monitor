@@ -99,8 +99,6 @@ Codex through OpenAI API
 
 In your own application via the OpenAI API
 
-Using a third-party AI coding agent
-
 Trusted Access for Cyber may be used only for authorized defensive cybersecurity work. Do all intended TAC uses involve systems, applications, accounts, networks, or data that you own, operate, or have explicit authorization to test or analyze? *Note that approved use cases only include security testing, vulnerability research, red teaming, malware analysis, threat intelligence, incident response, and related work when performed on systems you own, operate, or are explicitly authorized to test.
 
 Yes
@@ -109,9 +107,11 @@ No
 
 Not sure/mixed used case
 
-Do you attest to limiting TAC access to only users in your organization? *TAC is intended for use only by approved internal users of the applying organization. TAC-backed model access may not be made available to your external customers, downstream users, or other third parties through product embedded or other means.
+Will you use TAC to provide, facilitate, embed, route, resell, or otherwise make OpenAI model access available to your own customers or other third parties? *Note that TAC is intended for use only by approved internal users of the applying organization. TAC-backed model access may not be made available to your external customers, downstream users, or other third parties.
 
 Yes, TAC will be limited only to our internal users
+
+Yes, TAC access will be made available to external customers or third parties
 
 Select your intended use case(s)  *Check all that apply
 

@@ -26,6 +26,12 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
+# Arizona State University personalizes learning and advances research with ChatGPT
+
+Loading…
+
+Share
+
 Democratizing higher education and creating ‘lifelong learners’ 
 
   * Democratizing higher education and creating ‘lifelong learners’ 
@@ -35,11 +41,14 @@ Democratizing higher education and creating ‘lifelong learners’
 
 
 
-# Arizona State University personalizes learning and advances research with ChatGPT
+Table of contents
 
-Loading…
+  * Democratizing higher education and creating ‘lifelong learners’ 
+  * Deploying ChatGPT in over 200 projects
+  * Using ChatGPT to impact curriculum and research
+  * Enacting responsible AI practices to meet higher ed needs
 
-Share
+
 
 [ _Arizona State University_ ⁠(opens in a new window)](<https://www.asu.edu/>) (ASU) is one of the largest public universities in the United States, serving 181,000 students in a given year and offering over 800 degree options. For nine straight years, _U.S. News and World Report_ has named ASU the most innovative university in America. 
 

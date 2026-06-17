@@ -26,16 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Key findings from our research 
-
-  * Key findings from our research 
-  * Scheming is different from other machine learning failure modes
-  * Training not to scheme for the right reasons
-  * Measuring scheming is further complicated by Situational Awareness
-  * Conclusion
-
-
-
 September 17, 2025
 
 [Publication](</research/index/publication/>)[Research](</news/research/>)
@@ -47,6 +37,26 @@ Together with Apollo Research, we developed evaluations for hidden misalignment 
 [Read the paper(opens in a new window)](<https://antischeming.ai>)
 
 Share
+
+Key findings from our research 
+
+  * Key findings from our research 
+  * Scheming is different from other machine learning failure modes
+  * Training not to scheme for the right reasons
+  * Measuring scheming is further complicated by Situational Awareness
+  * Conclusion
+
+
+
+Table of contents
+
+  * Key findings from our research 
+  * Scheming is different from other machine learning failure modes
+  * Training not to scheme for the right reasons
+  * Measuring scheming is further complicated by Situational Awareness
+  * Conclusion
+
+
 
 AI scheming–pretending to be aligned while secretly pursuing some other agenda–is a significant risk that we’ve been studying. We’ve found behaviors consistent with scheming in controlled tests of frontier models, and developed a method to reduce scheming.
 
@@ -125,7 +135,7 @@ Consider the human analogy: someone punished for cheating might simply learn to 
 
 To try to avoid this, we explore a [_deliberative alignment_ ⁠](<https://openai.com/index/deliberative-alignment/?utm_source=chatgpt.com>) approach that aims to get the model to not scheme for the right reasons. We teach it a high-level anti-scheming specification and have it read and reason explicitly about that spec before acting, with the hope that it grounds its behavior in the stated safety principles which are designed to generalize broadly.
 
-##### Anti-scheming safety spec (abridged)
+### Anti-scheming safety spec (abridged)
 
 AS1| No covert actions or strategic deception, directly or indirectly.  
 ---|---  
@@ -217,6 +227,10 @@ OpenAI
 
 [View all](</news/>)
 
+![Production Resampling > Art Card](https://images.ctfassets.net/kftzwdyauwt9/6TwSElUf3XVkAiLOvIis8O/de2de5d4b9f94a3dea5403702a4f34ce/Art_Card.png?w=3840&q=90&fm=webp)
+
+[Predicting model behavior before release by simulating deploymentResearchJun 16, 2026](</index/deployment-simulation/>)
+
 ![Art Card 1080x1080 \(3\)](https://images.ctfassets.net/kftzwdyauwt9/3JLNH7ejJFnxLmX2LpzoKD/19f9e3c4d36cc9d677ba88e842ad2db2/Art_Card_1080x1080__4_.png?w=3840&q=90&fm=webp)
 
 Better memory for a more helpful ChatGPT
@@ -226,10 +240,6 @@ Better memory for a more helpful ChatGPT
 ![Rosalind5.5 ArtCard](https://images.ctfassets.net/kftzwdyauwt9/6USIQM1B7TggUvvTFxxwoi/0176ac6633c8bdc24641d25d1d2db824/GPT-Rosalind_ArtCard.png?w=3840&q=90&fm=webp)
 
 [Introducing new capabilities to GPT-RosalindProductJun 3, 2026](</index/introducing-new-capabilities-to-gpt-rosalind/>)
-
-![1x1](https://images.ctfassets.net/kftzwdyauwt9/6ui4uYfTTbR4xbiFRcqEfo/81d973f14bea720820f692271f6c6834/square.png?w=3840&q=90&fm=webp)
-
-[Strengthening societal resilience with Rosalind BiodefenseProductMay 29, 2026](</index/strengthening-societal-resilience-with-rosalind-biodefense/>)
 
 Research
 

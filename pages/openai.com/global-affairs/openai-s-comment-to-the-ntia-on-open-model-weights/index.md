@@ -26,6 +26,14 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
+Published: March 27, 2024
+
+# OpenAI’s comment to the NTIA on open model weights
+
+This comment was submitted by OpenAI in response to NTIA’s March 2024 Request for Information on Dual-Use Foundation Models with Widely Available Weights.
+
+Share
+
 There are many paths to safe and beneficial AI.
 
   * There are many paths to safe and beneficial AI.
@@ -35,13 +43,14 @@ There are many paths to safe and beneficial AI.
 
 
 
-Published: March 27, 2024
+Table of contents
 
-# OpenAI’s comment to the NTIA on open model weights
+  * There are many paths to safe and beneficial AI.
+  * Combining iterative deployment with a Preparedness Framework
+  * Practices for developers of highly capable AI
+  * We need a better science of AI risks
 
-This comment was submitted by OpenAI in response to NTIA’s March 2024 Request for Information on Dual-Use Foundation Models with Widely Available Weights.
 
-Share
 
 ## There are many paths to safe and beneficial AI.
 

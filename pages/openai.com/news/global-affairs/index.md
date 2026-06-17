@@ -69,13 +69,13 @@ Industrial policy for the Intelligence Age
 
 [Biodefense in the Intelligence AgeGlobal AffairsJun 4, 2026](</index/biodefense-in-the-intelligence-age/>)
 
-![OpenAI’s public policy agenda > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/CdH7XdsXfpUaYZJpeCwwz/76b975c66fce3ce5ec4a901b4f675369/Frame.png?w=3840&q=90&fm=webp)
-
-[OpenAI public policy agendaGlobal AffairsJun 3, 2026](</index/public-policy-agenda/>)
-
 ![Frontier Safety Blueprint > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/6zU111Ouj65b8iZJnswHBe/a705de1c90ab048510532db2f53f12f3/Frame.png?w=3840&q=90&fm=webp)
 
 [A blueprint for democratic governance of frontier AIGlobal AffairsJun 3, 2026](</index/frontier-safety-blueprint/>)
+
+![OpenAI’s public policy agenda > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/CdH7XdsXfpUaYZJpeCwwz/76b975c66fce3ce5ec4a901b4f675369/Frame.png?w=3840&q=90&fm=webp)
+
+[OpenAI public policy agendaGlobal AffairsJun 3, 2026](</index/public-policy-agenda/>)
 
 ![oai 1x1](https://images.ctfassets.net/kftzwdyauwt9/7eONRWq61MKUix4tK4t88Y/170085acc9b241a0bdfba429bd217907/oai_1x1.png?w=3840&q=90&fm=webp)
 

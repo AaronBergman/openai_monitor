@@ -45,25 +45,17 @@ Switch cards to show Media
 
 Switch cards to hide Media
 
-![OpenAI Ganassi 1x1](https://images.ctfassets.net/kftzwdyauwt9/2sMgyKsbMrlLNgBeM8SYAh/83460e94830cfb5865cddb57e6fe837f/OpenAI_Ganassi_1x1.jpg?w=3840&q=90&fm=webp)
+![OpenAI Falcon Cover](https://images.ctfassets.net/kftzwdyauwt9/2tgWg3FVo92ztow3wQjynu/6803dbad048ec780c8f0c7c46347ebe9/OpenAI_Falcon_1x1.jpg?w=3840&q=90&fm=webp)
 
-[Chip Ganassi Racing × OpenAIAPIMay 28, 2026](</index/chip-ganassi-racing/>)
+[Training to cycle across Antarctica with ChatGPTJun 11, 2026](</index/cycling-across-antarctica/>)
 
-![OpenAI Ganassi 1x1](https://images.ctfassets.net/kftzwdyauwt9/2sMgyKsbMrlLNgBeM8SYAh/83460e94830cfb5865cddb57e6fe837f/OpenAI_Ganassi_1x1.jpg?w=3840&q=90&fm=webp)
+![OpenAI Falcon Cover](https://images.ctfassets.net/kftzwdyauwt9/2tgWg3FVo92ztow3wQjynu/6803dbad048ec780c8f0c7c46347ebe9/OpenAI_Falcon_1x1.jpg?w=3840&q=90&fm=webp)
 
-[Chip Ganassi Racing × OpenAIAPIMay 28, 2026](</index/chip-ganassi-racing/>)
+[Training to cycle across Antarctica with ChatGPTJun 11, 2026](</index/cycling-across-antarctica/>)
 
-![SHARP 1x1 COMBINE](https://images.ctfassets.net/kftzwdyauwt9/6yOmkiVrFE8fk9ciEdFLyt/6cec40169a9c3d33c82b7a2935050d9e/SHARP_1x1_COMBINE.png?w=3840&q=90&fm=webp)
+![Owl story hero image](https://images.ctfassets.net/kftzwdyauwt9/5Owa7Jyi5pMx1lDrvN1B2C/3036661e68edf2e77d2d5d2454653740/2026_04_Gardi_ProjectOwl_KittPeak_Day1_02144.jpg?w=3840&q=90&fm=webp)
 
-[Small businesses are getting more done with ChatGPTChatGPTFeb 4, 2026](</index/small-business-stories/>)
-
-![Health Liz Thumbnail 1x1 \(1\)](https://images.ctfassets.net/kftzwdyauwt9/5LcO0z0rcFn1MAgQQQhc9j/d7cc9654df9e5b89e59b2b268c672932/Health_Liz_Thumbnail_1x1__1_.png?w=3840&q=90&fm=webp)
-
-[Navigating health questions with ChatGPTChatGPTFeb 5, 2026](</index/navigating-health-questions/>)
-
-![OAI GPT5 Thumbnail clean Alpha Pietro 1920x1920](https://images.ctfassets.net/kftzwdyauwt9/496VF4LFnpzfKxdvxNPEkS/8d787bbf4ba89748fd566f8546384658/OAI_GPT5_Thumbnail_clean_Alpha_Pietro_1920x1920.png?w=3840&q=90&fm=webp)
-
-[Coding and design with GPT-5APIAug 7, 2025](</index/gpt-5-coding-design/>)
+[Creating new simulations of black holes with CodexJun 11, 2026](</index/creating-new-simulations-black-holes/>)
 
 ![OpenAI Ganassi 1x1](https://images.ctfassets.net/kftzwdyauwt9/2sMgyKsbMrlLNgBeM8SYAh/83460e94830cfb5865cddb57e6fe837f/OpenAI_Ganassi_1x1.jpg?w=3840&q=90&fm=webp)
 
@@ -73,17 +65,29 @@ Switch cards to hide Media
 
 [Small businesses are getting more done with ChatGPTChatGPTFeb 4, 2026](</index/small-business-stories/>)
 
-![Health Liz Thumbnail 1x1 \(1\)](https://images.ctfassets.net/kftzwdyauwt9/5LcO0z0rcFn1MAgQQQhc9j/d7cc9654df9e5b89e59b2b268c672932/Health_Liz_Thumbnail_1x1__1_.png?w=3840&q=90&fm=webp)
+![OpenAI Falcon Cover](https://images.ctfassets.net/kftzwdyauwt9/2tgWg3FVo92ztow3wQjynu/6803dbad048ec780c8f0c7c46347ebe9/OpenAI_Falcon_1x1.jpg?w=3840&q=90&fm=webp)
 
-[Navigating health questions with ChatGPTChatGPTFeb 5, 2026](</index/navigating-health-questions/>)
+[Training to cycle across Antarctica with ChatGPTJun 11, 2026](</index/cycling-across-antarctica/>)
 
-![OAI GPT5 Thumbnail clean Alpha Pietro 1920x1920](https://images.ctfassets.net/kftzwdyauwt9/496VF4LFnpzfKxdvxNPEkS/8d787bbf4ba89748fd566f8546384658/OAI_GPT5_Thumbnail_clean_Alpha_Pietro_1920x1920.png?w=3840&q=90&fm=webp)
+![Owl story hero image](https://images.ctfassets.net/kftzwdyauwt9/5Owa7Jyi5pMx1lDrvN1B2C/3036661e68edf2e77d2d5d2454653740/2026_04_Gardi_ProjectOwl_KittPeak_Day1_02144.jpg?w=3840&q=90&fm=webp)
 
-[Coding and design with GPT-5APIAug 7, 2025](</index/gpt-5-coding-design/>)
+[Creating new simulations of black holes with CodexJun 11, 2026](</index/creating-new-simulations-black-holes/>)
+
+![OpenAI Ganassi 1x1](https://images.ctfassets.net/kftzwdyauwt9/2sMgyKsbMrlLNgBeM8SYAh/83460e94830cfb5865cddb57e6fe837f/OpenAI_Ganassi_1x1.jpg?w=3840&q=90&fm=webp)
+
+[Chip Ganassi Racing × OpenAIAPIMay 28, 2026](</index/chip-ganassi-racing/>)
+
+![SHARP 1x1 COMBINE](https://images.ctfassets.net/kftzwdyauwt9/6yOmkiVrFE8fk9ciEdFLyt/6cec40169a9c3d33c82b7a2935050d9e/SHARP_1x1_COMBINE.png?w=3840&q=90&fm=webp)
+
+[Small businesses are getting more done with ChatGPTChatGPTFeb 4, 2026](</index/small-business-stories/>)
 
 ![frontier-builders > cover image](https://images.ctfassets.net/kftzwdyauwt9/3F5TbrGy9fybfrp1gqrDIH/74aa1addfe0a0e859572fc036a85dcc6/Square.png?w=3840&q=90&fm=webp)
 
 [Frontier BuildersAPIJan 22, 2026](</index/frontier-builders/>)
+
+![OAI GPT5 Thumbnail clean Alpha Pietro 1920x1920](https://images.ctfassets.net/kftzwdyauwt9/496VF4LFnpzfKxdvxNPEkS/8d787bbf4ba89748fd566f8546384658/OAI_GPT5_Thumbnail_clean_Alpha_Pietro_1920x1920.png?w=3840&q=90&fm=webp)
+
+[Coding and design with GPT-5APIAug 7, 2025](</index/gpt-5-coding-design/>)
 
 ![OAI GPT5 Thumbnail clean Alpha Sarah 1920x1920](https://images.ctfassets.net/kftzwdyauwt9/4Bpd4VY4Y5MOsBKvC1oaIy/b1dd71e7b4d8e64f3717650956549e4a/OAI_GPT5_Thumbnail_clean_Alpha_Sarah_1920x1920.png?w=3840&q=90&fm=webp)
 
@@ -97,17 +101,13 @@ Switch cards to hide Media
 
 [How Cursor uses GPT-5APIAug 7, 2025](</index/gpt-5-cursor/>)
 
-![OAI GPT5 Thumbnail clean API Amgen 1920x1920](https://images.ctfassets.net/kftzwdyauwt9/4lO4u1Lnw6lkGbKlcyMiRV/ecc7d025b6d1bbed19fe33ce0cae4333/OAI_GPT5_Thumbnail_clean_API_Amgen_1920x1920.png?w=3840&q=90&fm=webp)
-
-[How Amgen uses GPT-5APIAug 7, 2025](</index/gpt-5-amgen/>)
-
 ![OAI GPT5 Thumbnail clean API Vibes 1920x1920](https://images.ctfassets.net/kftzwdyauwt9/EsMfQCOwOBOkcRZLjqILn/893c40c010e653048b7c1f580350d7fc/OAI_GPT5_Thumbnail_clean_API_Vibes_1920x1920.png?w=3840&q=90&fm=webp)
 
 [First look at GPT-5ChatGPTAug 7, 2025](</index/gpt-5-first-look/>)
 
-![Ten tiny canvases > Media > Cover](https://images.ctfassets.net/kftzwdyauwt9/16VYfNV8RPoKM0nqEG4OrP/5ba2052acfb2a64a141ad161f5b92a38/Ten_tiny_canvases_.jpg?w=3840&q=90&fm=webp)
+![OAI GPT5 Thumbnail clean API Amgen 1920x1920](https://images.ctfassets.net/kftzwdyauwt9/4lO4u1Lnw6lkGbKlcyMiRV/ecc7d025b6d1bbed19fe33ce0cae4333/OAI_GPT5_Thumbnail_clean_API_Amgen_1920x1920.png?w=3840&q=90&fm=webp)
 
-[Creating nail art with ChatGPTChatGPTFeb 4, 2025](</index/ten-tiny-canvases/>)
+[How Amgen uses GPT-5APIAug 7, 2025](</index/gpt-5-amgen/>)
 
 ![Math Tutor > Cover media ](https://images.ctfassets.net/kftzwdyauwt9/2oDKH92TW20YedrGjlZ2bO/aee7f60283553fa4f600d6f38fddbd0f/My_dog__the_math_tutor.jpg?w=3840&q=90&fm=webp)
 
@@ -117,6 +117,10 @@ Switch cards to hide Media
 
 [Catching halibut with ChatGPTChatGPTFeb 4, 2025](</index/fishing-for-first-timers/>)
 
+![Ten tiny canvases > Media > Cover](https://images.ctfassets.net/kftzwdyauwt9/16VYfNV8RPoKM0nqEG4OrP/5ba2052acfb2a64a141ad161f5b92a38/Ten_tiny_canvases_.jpg?w=3840&q=90&fm=webp)
+
+[Creating nail art with ChatGPTChatGPTFeb 4, 2025](</index/ten-tiny-canvases/>)
+
 ![oai deep-research bain](https://images.ctfassets.net/kftzwdyauwt9/5tCYZqzCTYSDtYiIjx61FJ/2369d97a94e3777fa6405838b739b585/oai_deep-research_bain.png?w=3840&q=90&fm=webp)
 
 [Understanding complex trends with deep researchChatGPTFeb 2, 2025](</index/deep-research/>)
@@ -124,8 +128,6 @@ Switch cards to hide Media
 ![Vallée Duhamel & Sora](https://images.ctfassets.net/kftzwdyauwt9/6GlLsh9hADQbSNr9EdsgmM/0bd2a28fe93677e2fbb845047a2f40a9/Vallée_Duhamel___Sora.jpg?w=3840&q=90&fm=webp)
 
 [Vallée Duhamel & SoraSoraDec 9, 2024](</index/sora-vallee-duhamel/>)
-
-[Animator Lyndon Barrois creates new worlds with SoraSoraDec 9, 2024](</index/sora-lyndon-barrois/>)
 
 Load more
 

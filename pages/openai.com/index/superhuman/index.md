@@ -26,15 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-The overflowing inbox
-
-  * The overflowing inbox
-  * Reimagining the email experience with OpenAI
-  * Getting to inbox zero 2x faster
-  * Pressing “forward” on the future of email
-
-
-
 # Superhuman
 
 Superhuman introduces a new era of email with OpenAI.
@@ -44,6 +35,24 @@ Superhuman introduces a new era of email with OpenAI.
 Loading…
 
 Share
+
+The overflowing inbox
+
+  * The overflowing inbox
+  * Reimagining the email experience with OpenAI
+  * Getting to inbox zero 2x faster
+  * Pressing “forward” on the future of email
+
+
+
+Table of contents
+
+  * The overflowing inbox
+  * Reimagining the email experience with OpenAI
+  * Getting to inbox zero 2x faster
+  * Pressing “forward” on the future of email
+
+
 
 The shift to online work has roughly 1 billion professionals spending close to [3 hours managing email each day⁠(opens in a new window)](<https://business.adobe.com/blog/perspectives/if-you-think-email-is-dead-think-again>). This works out to around 1 trillion human hours a year spent on email.
 

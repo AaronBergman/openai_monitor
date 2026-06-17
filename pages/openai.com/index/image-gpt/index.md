@@ -26,18 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Introduction
-
-  * Introduction
-  * From language GPT to image GPT
-  * Towards general unsupervised learning
-  * Approach
-  * Experimental results
-  * Limitations
-  * Conclusion
-
-
-
 June 17, 2020
 
 [Publication](</research/index/publication/>)
@@ -53,6 +41,30 @@ Illustration: Ben Barry
 Loading…
 
 Share
+
+Introduction
+
+  * Introduction
+  * From language GPT to image GPT
+  * Towards general unsupervised learning
+  * Approach
+  * Experimental results
+  * Limitations
+  * Conclusion
+
+
+
+Table of contents
+
+  * Introduction
+  * From language GPT to image GPT
+  * Towards general unsupervised learning
+  * Approach
+  * Experimental results
+  * Limitations
+  * Conclusion
+
+
 
 We find that, just as a large transformer model trained on language can generate coherent text, the same exact model trained on pixel sequences can generate coherent image [completions⁠](</index/image-gpt/#completions>) and [samples⁠](</index/image-gpt/#samples>). By establishing a correlation between sample quality and image classification accuracy, we show that our best generative model also contains features competitive with top convolutional nets in the unsupervised setting.
 

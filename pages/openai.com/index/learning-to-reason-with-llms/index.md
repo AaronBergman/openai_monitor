@@ -26,6 +26,16 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
+September 12, 2024
+
+[Release](</research/index/release/>)
+
+# Learning to reason with LLMs
+
+[Contributions](</openai-o1-contributions/>)[Use o1(opens in a new window)](<https://chatgpt.com/>)
+
+Loading…
+
 Evals
 
   * Evals
@@ -39,15 +49,18 @@ Evals
 
 
 
-September 12, 2024
+Table of contents
 
-[Release](</research/index/release/>)
+  * Evals
+  * Chain of Thought
+  * Coding
+  * Human preference evaluation
+  * Safety
+  * Hiding the Chains of Thought
+  * Conclusion
+  * Appendix A
 
-# Learning to reason with LLMs
 
-[Contributions](</openai-o1-contributions/>)[Use o1(opens in a new window)](<https://chatgpt.com/>)
-
-Loading…
 
 OpenAI o1 ranks in the 89th percentile on competitive programming questions (Codeforces), places among the top 500 students in the US in a qualifier for the USA Math Olympiad (AIME), and exceeds human PhD-level accuracy on a benchmark of physics, biology, and chemistry problems (GPQA). While the work needed to make this new model as easy to use as current models is still ongoing, we are releasing an early version of this model, OpenAI o1‑preview, for immediate use in ChatGPT and to [_trusted API users_ ⁠(opens in a new window)](<https://platform.openai.com/docs/guides/rate-limits/usage-tiers>).
 

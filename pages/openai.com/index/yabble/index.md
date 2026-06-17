@@ -26,14 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-AI-powered insights for smarter, quicker business strategy
-
-  * AI-powered insights for smarter, quicker business strategy
-  * Time-intensive coding that needs artificial intelligence
-  * Using GPT-3 to deliver more complex insights, more swiftly
-
-
-
 # Yabble
 
 Using GPT‑3 to deliver fast, nuanced insights from customer feedback.
@@ -43,6 +35,22 @@ Using GPT‑3 to deliver fast, nuanced insights from customer feedback.
 Loading…
 
 Share
+
+AI-powered insights for smarter, quicker business strategy
+
+  * AI-powered insights for smarter, quicker business strategy
+  * Time-intensive coding that needs artificial intelligence
+  * Using GPT-3 to deliver more complex insights, more swiftly
+
+
+
+Table of contents
+
+  * AI-powered insights for smarter, quicker business strategy
+  * Time-intensive coding that needs artificial intelligence
+  * Using GPT-3 to deliver more complex insights, more swiftly
+
+
 
 Yabble equips its users with vital customer insights to inform their business strategy. With OpenAI’s GPT‑3, they can deliver richer results more quickly.
 

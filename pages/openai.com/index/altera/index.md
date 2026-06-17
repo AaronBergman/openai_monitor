@@ -26,6 +26,14 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
+# Altera uses GPT‑4o to build a new area of human collaboration
+
+![Altera logo overlaid on a photo of a leaf](https://images.ctfassets.net/kftzwdyauwt9/v7cSdqUTNgqzzqN7DRDGv/bac8b5b2757a4d39496d49b44831825a/oai_altera_hero.png?w=3840&q=90&fm=webp)
+
+Loading…
+
+Share
+
 Tackling data degradation for long-term autonomy
 
   * Tackling data degradation for long-term autonomy
@@ -34,13 +42,13 @@ Tackling data degradation for long-term autonomy
 
 
 
-# Altera uses GPT‑4o to build a new area of human collaboration
+Table of contents
 
-![Altera logo overlaid on a photo of a leaf](https://images.ctfassets.net/kftzwdyauwt9/v7cSdqUTNgqzzqN7DRDGv/bac8b5b2757a4d39496d49b44831825a/oai_altera_hero.png?w=3840&q=90&fm=webp)
+  * Tackling data degradation for long-term autonomy
+  * Harnessing GPT-4 to enhance cognitive and emotional AI
+  * Creating the future: Building digital humans with purpose
 
-Loading…
 
-Share
 
 Dr.**** Robert Yang has spent half his life building AI inspired by the brain. 
 

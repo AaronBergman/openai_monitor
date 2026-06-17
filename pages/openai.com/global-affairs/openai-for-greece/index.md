@@ -26,13 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Supporting Education with AI
-
-  * Supporting Education with AI
-  * Accelerating Greek AI Startups
-
-
-
 September 5, 2025
 
 [Global Affairs](</news/global-affairs/>)
@@ -44,6 +37,20 @@ September 5, 2025
 Loading…
 
 Share
+
+Supporting Education with AI
+
+  * Supporting Education with AI
+  * Accelerating Greek AI Startups
+
+
+
+Table of contents
+
+  * Supporting Education with AI
+  * Accelerating Greek AI Startups
+
+
 
 Today we’re launching ‘OpenAI for Greece’—a new partnership between OpenAI, the Government of the Hellenic Republic, the Onassis Foundation, and Endeavor Greece to expand access to high-quality AI tools in secondary education and accelerate innovation across Greece’s start-up ecosystem.
 
@@ -84,7 +91,7 @@ The accelerator will prioritise start-ups developing AI solutions in sectors ali
 
 —
 
-#### About OpenAI for Countries
+### About OpenAI for Countries
 
 OpenAI for Greece is the latest deployment of our [OpenAI for Countries](</global-affairs/openai-for-countries/>) initiative. It follows the recent launch of our infrastructure partnership [Stargate Norway](</index/introducing-stargate-norway/>) to deliver sovereign AI capacity powered by renewable energy, an [MOU with the UK Government](</global-affairs/openai-and-uk-government-partnership/>) to accelerate AI adoption and explore ways to bolster the necessary infrastructure, and a [partnership with the Government of Estonia](</index/estonia-schools-and-chatgpt/>)⁠ to deploy ChatGPT across secondary schools. 
 
@@ -103,17 +110,19 @@ OpenAI
 
 [View all](</news/>)
 
-![oai 1x1 Biodefense in the Intelligence Age](https://images.ctfassets.net/kftzwdyauwt9/6A4rrCBs9rrlbzm9JWIvSi/8a4ae56849fcd0b16e90b59b8babc613/oai_1x1_Biodefense_in_the_Intelligence_Age.png?w=3840&q=90&fm=webp)
+![Supporting Europe’s work in ensuring a trustworthy AI ecosystem  > art card](https://images.ctfassets.net/kftzwdyauwt9/U3OuQtdga2BaxWxb0e2ge/2fdc2fb1cf5c70a8f77fc4b55236aa78/Frame2.png?w=3840&q=90&fm=webp)
 
-[Biodefense in the Intelligence AgeGlobal AffairsJun 4, 2026](</index/biodefense-in-the-intelligence-age/>)
+[Supporting Europe’s work in ensuring a trustworthy AI ecosystem Global AffairsJun 11, 2026](</index/supporting-eu-trustworthy-ai-ecosystem/>)
 
-![OpenAI’s public policy agenda > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/CdH7XdsXfpUaYZJpeCwwz/76b975c66fce3ce5ec4a901b4f675369/Frame.png?w=3840&q=90&fm=webp)
+![PRC-linked influence > Art Card](https://images.ctfassets.net/kftzwdyauwt9/2WkDQ2w51892xwY7QHwkRC/ec5f7b504805e36db928c06cb313f53c/Threat-Intelligence-Repart-ArtCard.png?w=3840&q=90&fm=webp)
 
-[OpenAI public policy agendaGlobal AffairsJun 3, 2026](</index/public-policy-agenda/>)
+[PRC-linked influence operations are targeting AI debates in the USGlobal AffairsJun 10, 2026](</index/prc-linked-influence-operations-ai-debates/>)
 
-![Frontier Safety Blueprint > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/6zU111Ouj65b8iZJnswHBe/a705de1c90ab048510532db2f53f12f3/Frame.png?w=3840&q=90&fm=webp)
+![Frame](https://images.ctfassets.net/kftzwdyauwt9/5PD5E0PhvNP8ogbhvNxdKF/42a592f5b93580d940065610304c3f22/Frame.png?w=3840&q=90&fm=webp)
 
-[A blueprint for democratic governance of frontier AIGlobal AffairsJun 3, 2026](</index/frontier-safety-blueprint/>)
+Industrial policy for the Intelligence Age
+
+[Industrial policy for the Intelligence AgeGlobal AffairsJun 9, 2026](</index/industrial-policy-for-the-intelligence-age/>)
 
 Research
 

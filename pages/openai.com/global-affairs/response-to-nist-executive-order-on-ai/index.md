@@ -26,7 +26,15 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Table of contents
+Submitted: February 2, 2024
+
+[Company](</news/company-announcements/>)[Global Affairs](</news/global-affairs/>)
+
+# Response to NIST Executive Order on AI
+
+The National Institute of Standards and Technology (NIST) request for information related to its assignments under sections 4.1, 4.5, and 11 of the Executive Order Concerning Artificial Intelligence.
+
+Evaluating dangerous capabilities in AI systems
 
   * Evaluating dangerous capabilities in AI systems
   * Red teaming to enable deployment of safe AI systems
@@ -42,15 +50,21 @@ Table of contents
 
 
 
-Submitted: February 2, 2024
+Table of contents
 
-[Company](</news/company-announcements/>)[Global Affairs](</news/global-affairs/>)
+  * Evaluating dangerous capabilities in AI systems
+  * Red teaming to enable deployment of safe AI systems
+  * What is red teaming?
+  * What is red teaming useful for?
+  * Iterative red teaming at OpenAI
+  * Limitations of red teaming
+  * Composition of red teams and domain prioritization
+  * Synthetic Media and Provenance
+  * OpenAI’s approaches to provenance
+  * C2PA metadata for DALL·E 3 images
+  * Experimental classifier for DALL·E 3 images
 
-# Response to NIST Executive Order on AI
 
-The National Institute of Standards and Technology (NIST) request for information related to its assignments under sections 4.1, 4.5, and 11 of the Executive Order Concerning Artificial Intelligence.
-
-Share
 
 OpenAI was created as a nonprofit in 2015 to ensure that artificial general intelligence—in short, AI that’s at least as smart as a person—benefits all of humanity. We research, develop, and release cutting-edge AI technology as well as tools and best practices for the safety, alignment, and governance of AI. We welcome this opportunity to inform NIST’s ongoing and critical work on AI.
 
@@ -215,11 +229,10 @@ We use the term “expert” to refer to expertise informed by a range of domain
 
 
 
-Our Research
+Research
 
   * [Research Index](</research/index/>)
   * [Research Overview](</research/>)
-  * [Research Residency](</residency/>)
   * [Economic Research](</signals/>)
 
 
@@ -229,44 +242,53 @@ Latest Advancements
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
   * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
-  * [GPT-5.3-Codex](</index/introducing-gpt-5-3-codex/>)
 
 
 
 Safety
 
   * [Safety Approach](</safety/>)
+  * [Deployment Safety(opens in a new window)](<https://deploymentsafety.openai.com/>)
   * [Security & Privacy](</security-and-privacy/>)
   * [Trust & Transparency](</trust-and-transparency/>)
 
 
 
-ChatGPT
+Products
 
-  * [Explore ChatGPT(opens in a new window)](<https://chatgpt.com/overview>)
-  * [Business](<https://chatgpt.com/business/business-plan>)
-  * [Enterprise](<https://chatgpt.com/business/enterprise>)
-  * [Education](<https://chatgpt.com/business/education>)
-  * [Pricing(opens in a new window)](<https://chatgpt.com/pricing>)
-  * [Download(opens in a new window)](<https://chatgpt.com/download>)
+  * [ChatGPT(opens in a new window)](<https://chatgpt.com/>)
+  * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
+  * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
+  * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
+  * [Codex](</codex/>)
+  * [Release Notes](</products/release-notes/>)
 
 
 
 API Platform
 
-  * [Platform Overview](</api/>)
-  * [Pricing](</api/pricing/>)
-  * [API log in(opens in a new window)](<https://platform.openai.com/login>)
-  * [Documentation(opens in a new window)](<https://developers.openai.com/api/docs>)
-  * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
+  * [Overview](</api/>)
+  * [API Log In(opens in a new window)](<https://platform.openai.com/login>)
+  * [Docs(opens in a new window)](<https://developers.openai.com/api/docs>)
 
 
 
-For Business
+Business
 
-  * [Business Overview](</business/>)
+  * [Overview](</business/>)
   * [Solutions](</solutions/>)
+  * [Resources](</business/learn/>)
   * [Contact Sales](</contact-sales/>)
+
+
+
+Developers
+
+  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
+  * [Open Models](</open-models/>)
+  * [Docs(opens in a new window)](<https://developers.openai.com/>)
+  * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
+  * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
 
 
 
@@ -274,9 +296,8 @@ Company
 
   * [About Us](</about/>)
   * [Our Charter](</charter/>)
-  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
   * [Careers](</careers/>)
-  * [Brand](</brand/>)
+  * [News](</news/>)
 
 
 
@@ -288,7 +309,6 @@ Support
 
 More
 
-  * [News](</news/>)
   * [Stories](</stories/>)
   * [Academy](</academy/>)
   * [Livestreams](</live/>)

@@ -68,7 +68,7 @@ Generate and test patches directly in your repositories, with scoped access, mon
 
 Send results and audit-ready evidence back to your systems to track and verify remediation.
 
-## Deploy frontier cyber intelligence inside Codex Security
+## Deploy frontier cyber intelligence w/Codex and the @CodexSecurity Plugin
 
 ## Choose the right level of access
 
@@ -217,12 +217,12 @@ EnglishUnited States
 
 ### Find and fix vulnerabilities
 
-Codex Security builds an editable threat model from your repository, then focuses analysis on realistic attack paths and high-impact code.
+Build an editable threat model from a repository, then focus analysis on realistic attack paths and high-impact code.
 
-### Burn down the backlog
+### Prioritize the backlog
 
-Validate likely vulnerabilities in an isolated environment, so teams can prioritize real, reproducible issues over noisy alerts.
+Validate likely vulnerabilities in an isolated environment so AppSec teams can prioritize reproducible issues over noisy alerts.
 
-### Automate detection and response
+### Prove remediation
 
-Use AI to spot higher risk vulnerabilities and automate monitoring for them end-to-end.
+Return findings, patch status, and reviewer notes to the review and ticketing systems teams already use.

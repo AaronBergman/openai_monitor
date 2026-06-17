@@ -26,15 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-How Voice Engine works
-
-  * How Voice Engine works
-  * We’ve been developing the model for over a year
-  * Building Voice Engine safely is a top priority
-  * Future synthetic voice safety
-
-
-
 June 7, 2024
 
 [Safety](</news/safety-alignment/>)
@@ -48,6 +39,24 @@ Exploring the technology behind our text-to-speech model.
 Loading…
 
 Share
+
+How Voice Engine works
+
+  * How Voice Engine works
+  * We’ve been developing the model for over a year
+  * Building Voice Engine safely is a top priority
+  * Future synthetic voice safety
+
+
+
+Table of contents
+
+  * How Voice Engine works
+  * We’ve been developing the model for over a year
+  * Building Voice Engine safely is a top priority
+  * Future synthetic voice safety
+
+
 
 We’re providing more insight into how Voice Engine works and our safety research to keep everyone updated on our progress. Voice Engine is a model capable of creating custom voices.
 

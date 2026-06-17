@@ -26,14 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Early AI experiments in job matching
-
-  * Early AI experiments in job matching
-  * Fine-tuning the OpenAI API for personalized match explanations
-  * GPT personalization leads to demonstrable growth 
-
-
-
 # Indeed uses OpenAI to deliver contextual job matching to millions of job seekers
 
 ![A white Indeed logo superimposed on an abstract painting with broad strokes of dark and light blues.](https://images.ctfassets.net/kftzwdyauwt9/4Z4HjWDOPAFMnPjXAkL9SJ/353cbeeb2f8df66383151a5c9706cf63/oai_indeed_hero.jpg?w=3840&q=90&fm=webp)
@@ -42,7 +34,23 @@ Loading…
 
 Share
 
-[ _Indeed_ ⁠(opens in a new window)](<https://www.indeed.com/about>), whose mission is to help people get jobs, is the world’s #1 job site1. Over 350 million unique visitors2 come to Indeed every month to connect with more than 3.5 million employers and over 32 million jobs. But what’s more is that every three seconds someone gets hired on Indeed3.
+Early AI experiments in job matching
+
+  * Early AI experiments in job matching
+  * Fine-tuning the OpenAI API for personalized match explanations
+  * GPT personalization leads to demonstrable growth 
+
+
+
+Table of contents
+
+  * Early AI experiments in job matching
+  * Fine-tuning the OpenAI API for personalized match explanations
+  * GPT personalization leads to demonstrable growth 
+
+
+
+[_Indeed_ ⁠(opens in a new window)](<https://www.indeed.com/about>), whose mission is to help people get jobs, is the world’s #1 job site1. Over 350 million unique visitors2 come to Indeed every month to connect with more than 3.5 million employers and over 32 million jobs. But what’s more is that every three seconds someone gets hired on Indeed3.
 
 Since Indeed’s inception, AI has powered the millions of connections between job seekers and employers on the platform, through features such as ‘Invite to Apply’ which sends AI-based job recommendations to job seekers based on their resume, Indeed Profile, and other qualifications. Improvements in AI—specifically generative AI—are helping match job seekers to jobs in new and exciting ways. Using OpenAI's GPT models and fine-tuning capabilities, Indeed enhanced the personalized language in the ‘Invite to Apply’ feature to better explain why a candidate’s background or previous work experience makes a job a good fit.  
 

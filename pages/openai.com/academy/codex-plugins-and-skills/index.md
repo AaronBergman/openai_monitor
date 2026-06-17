@@ -26,13 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Plugins
-
-  * Plugins
-  * Skills
-
-
-
 April 23, 2026
 
 OpenAI Academy
@@ -44,6 +37,20 @@ Plugins and skills help Codex do more specific kinds of work.
 [Download Codex(opens in a new window)](<https://chatgpt.com/codex/for-work/>)
 
 Loading…
+
+Plugins
+
+  * Plugins
+  * Skills
+
+
+
+Table of contents
+
+  * Plugins
+  * Skills
+
+
 
 ## Plugins
 

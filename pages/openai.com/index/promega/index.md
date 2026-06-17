@@ -26,6 +26,14 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
+# Promega’s top-down adoption of ChatGPT accelerates manufacturing, sales, and marketing
+
+![Promega](https://images.ctfassets.net/kftzwdyauwt9/6nmHlhPH7ZDcQjAldewFpJ/4a2873907763d0d626525aa47d417885/oai_promega_1_1.jpg?w=3840&q=90&fm=webp)
+
+Loading…
+
+Share
+
 Expanding ideation org-wide with OpenAI
 
   * Expanding ideation org-wide with OpenAI
@@ -36,13 +44,15 @@ Expanding ideation org-wide with OpenAI
 
 
 
-# Promega’s top-down adoption of ChatGPT accelerates manufacturing, sales, and marketing
+Table of contents
 
-![Promega](https://images.ctfassets.net/kftzwdyauwt9/6nmHlhPH7ZDcQjAldewFpJ/4a2873907763d0d626525aa47d417885/oai_promega_1_1.jpg?w=3840&q=90&fm=webp)
+  * Expanding ideation org-wide with OpenAI
+  * Enhancing anticipation and planning in manufacturing
+  * Enriching customer relationships with custom GPTs 
+  * Driving ChatGPT adoption through leadership
+  * Differentiating through AI proficiency
 
-Loading…
 
-Share
 
 [ _Promega_ ⁠(opens in a new window)](<https://www.promega.com/>) is an established leader in life sciences, providing pioneering biological reagents and integrated systems used in research and applied technology. Their products, used by companies worldwide, have led to significant advancements in areas of therapeutic discovery, clinical research, and forensics.
 

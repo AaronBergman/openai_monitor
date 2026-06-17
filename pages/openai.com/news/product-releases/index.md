@@ -51,6 +51,10 @@ Switch cards to show Media
 
 Switch cards to hide Media
 
+![Intro-OAI-Partner-ArtCard](https://images.ctfassets.net/kftzwdyauwt9/U6bb3rlwvYyhf2q835WWx/d50f5492dded3c21aa6d69c07d3b2a44/Introducing_OAI_Partner_Network_artcard.png?w=3840&q=90&fm=webp)
+
+[Introducing the OpenAI Partner NetworkProductJun 14, 2026](</index/introducing-openai-partner-network/>)
+
 ![Art Card 1080x1080 \(3\)](https://images.ctfassets.net/kftzwdyauwt9/3JLNH7ejJFnxLmX2LpzoKD/19f9e3c4d36cc9d677ba88e842ad2db2/Art_Card_1080x1080__4_.png?w=3840&q=90&fm=webp)
 
 Better memory for a more helpful ChatGPT
@@ -84,10 +88,6 @@ Better memory for a more helpful ChatGPT
 ![OAI GPT-Realtime-2 Art Card 1x1](https://images.ctfassets.net/kftzwdyauwt9/4TtA6X4b6MbTFXSkoZXvqk/39930a05ebb333898ad1df6c28463465/OAI_GPT-Realtime-2_Art_Card_1x1.png?w=3840&q=90&fm=webp)
 
 [Advancing voice intelligence with new models in the APIProductMay 7, 2026](</index/advancing-voice-intelligence-with-new-models-in-the-api/>)
-
-![OAI AdsTest Blog ArtCard 1x1](https://images.ctfassets.net/kftzwdyauwt9/7drPwCnD6ied4wPzlJd7qa/d79ccfda974080bbca7d688ad9bcbc6f/OAI_AdsTest_Blog_ArtCard_1x1.png?w=3840&q=90&fm=webp)
-
-[Testing ads in ChatGPTCompanyMay 7, 2026](</index/testing-ads-in-chatgpt/>)
 
 Load more
 

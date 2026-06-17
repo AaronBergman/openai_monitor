@@ -26,15 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-A conversational website builder for everyone 
-
-  * A conversational website builder for everyone 
-  * Populating quality site content with OpenAI’s API
-  * Making website creation accessible to everyone through ChatGPT
-  * Using AI to benefit every role
-
-
-
 May 29, 2025
 
 # Wix helps anyone create fully functional websites in minutes with GPT‑4o
@@ -46,6 +37,24 @@ May 29, 2025
 Loading…
 
 Share
+
+A conversational website builder for everyone 
+
+  * A conversational website builder for everyone 
+  * Populating quality site content with OpenAI’s API
+  * Making website creation accessible to everyone through ChatGPT
+  * Using AI to benefit every role
+
+
+
+Table of contents
+
+  * A conversational website builder for everyone 
+  * Populating quality site content with OpenAI’s API
+  * Making website creation accessible to everyone through ChatGPT
+  * Using AI to benefit every role
+
+
 
 Since its founding, [_Wix_ ⁠(opens in a new window)](<https://www.wix.com/>) has aimed to simplify website creation for individuals and businesses. In 2016, the company introduced Wix ADI (Artificial Design Intelligence), one of the first AI-driven solutions for generating a site’s UI. 
 

@@ -76,17 +76,17 @@ May 7, 2026
 
 [Advancing voice intelligence with new models in the APIExplore new realtime voice models in the OpenAI API that can reason, translate, and transcribe speech, enabling more natural and intelligent voice experiences.](</index/advancing-voice-intelligence-with-new-models-in-the-api/>)
 
-Product
-
-May 5, 2026
-
-[GPT-5.5 Instant: smarter, clearer, and more personalizedGPT-5.5 Instant updates ChatGPT’s default model with smarter, more accurate answers, reduced hallucinations, and improved personalization controls.](</index/gpt-5-5-instant/>)
-
 Safety
 
 May 5, 2026
 
 [GPT-5.5 Instant System Card](</index/gpt-5-5-instant-system-card/>)
+
+Product
+
+May 5, 2026
+
+[GPT-5.5 Instant: smarter, clearer, and more personalizedGPT-5.5 Instant updates ChatGPT’s default model with smarter, more accurate answers, reduced hallucinations, and improved personalization controls.](</index/gpt-5-5-instant/>)
 
 Publication
 

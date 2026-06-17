@@ -26,6 +26,18 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
+May 15, 2026
+
+OpenAI Academy
+
+# How business operations teams use Codex
+
+Explore how business operations teams can use Codex to turn scattered initiative context, metrics, trackers, and stakeholder input into decision-ready briefs, updates, packets, and tradeoff models.
+
+[Download Codex(opens in a new window)](<https://chatgpt.com/codex/for-work/>)
+
+Loading…
+
 Top Codex use cases for business operations teams
 
   * Top Codex use cases for business operations teams
@@ -38,17 +50,17 @@ Top Codex use cases for business operations teams
 
 
 
-May 15, 2026
+Table of contents
 
-OpenAI Academy
+  * Top Codex use cases for business operations teams
+  * 1\. Initiative off-track brief
+  * 2\. Strategic initiative health update
+  * 3\. Leadership decision packet
+  * 4\. Board or company progress update
+  * 5\. Scenario and tradeoff model
+  * More resources
 
-# How business operations teams use Codex
 
-Explore how business operations teams can use Codex to turn scattered initiative context, metrics, trackers, and stakeholder input into decision-ready briefs, updates, packets, and tradeoff models.
-
-[Download Codex(opens in a new window)](<https://chatgpt.com/codex/for-work/>)
-
-Loading…
 
 Business operations work often starts across project trackers, KPI dashboards, planning docs, meeting notes, Slack threads, spreadsheets, and executive asks. Codex helps pull that context together and produce the first usable version of the artifact: an off-track brief, strategic initiative update, leadership decision packet, progress update, or scenario model. Your team still owns the judgment and recommendation; Codex helps get the working draft in front of the right people faster.
 
