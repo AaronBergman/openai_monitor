@@ -26,6 +26,18 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
+Published: October 26, 2023
+
+[Company](</news/company-announcements/>)[Global Affairs](</news/global-affairs/>)
+
+# OpenAI’s Approach to Frontier Risk
+
+An Update for the UK AI Safety Summit
+
+Loading…
+
+Share
+
 Preparedness Framework
 
   * Preparedness Framework
@@ -40,17 +52,19 @@ Preparedness Framework
 
 
 
-Published: October 26, 2023
+Table of contents
 
-[Company](</news/company-announcements/>)[Global Affairs](</news/global-affairs/>)
+  * Preparedness Framework
+  * Priority research and investment on societal, safety, and security risks
+  * Model evaluations and red teaming
+  * Model reporting and information sharing
+  * Reporting structure for vulnerabilities found after model release
+  * Post-deployment monitoring for patterns of misuse
+  * Security controls including securing model weights
+  * Identifiers of AI-generated material
+  * Data Input Controls and Audit
 
-# OpenAI’s Approach to Frontier Risk
 
-An Update for the UK AI Safety Summit
-
-Loading…
-
-Share
 
 On July 21 2023, OpenAI joined other leading AI labs in making a set of voluntary commitments to promote safety, security, and trust in AI. These commitments encompassed a range of risk areas, centrally including the frontier risks that are the focus of the upcoming AI Safety Summit.
 

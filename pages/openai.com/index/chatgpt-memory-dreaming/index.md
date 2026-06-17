@@ -26,17 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-How memory has evolved
-
-  * How memory has evolved
-  * How we evaluate memory
-  * Carrying forward context
-  * Following preferences
-  * Staying current over time
-  * A more scalable foundation for the future
-
-
-
 June 4, 2026
 
 [Research](</news/research/>)[Product](</news/product-releases/>)[Release](</research/index/release/>)
@@ -48,6 +37,28 @@ Improving memory synthesis in ChatGPT to optimize for freshness, continuity and 
 Loading…
 
 Share
+
+How memory has evolved
+
+  * How memory has evolved
+  * How we evaluate memory
+  * Carrying forward context
+  * Following preferences
+  * Staying current over time
+  * A more scalable foundation for the future
+
+
+
+Table of contents
+
+  * How memory has evolved
+  * How we evaluate memory
+  * Carrying forward context
+  * Following preferences
+  * Staying current over time
+  * A more scalable foundation for the future
+
+
 
 Today we’re beginning to roll out a more capable and scalable system for synthesizing memory, developed to tackle the staleness, correctness, and scalability challenges that we observe when memory is applied to the hundreds of millions of users and multi-year time horizons in ChatGPT.
 
@@ -403,17 +414,17 @@ OpenAI
 
 [View all](</news/>)
 
+![Production Resampling > Art Card](https://images.ctfassets.net/kftzwdyauwt9/6TwSElUf3XVkAiLOvIis8O/de2de5d4b9f94a3dea5403702a4f34ce/Art_Card.png?w=3840&q=90&fm=webp)
+
+[Predicting model behavior before release by simulating deploymentResearchJun 16, 2026](</index/deployment-simulation/>)
+
+![Intro-OAI-Partner-ArtCard](https://images.ctfassets.net/kftzwdyauwt9/U6bb3rlwvYyhf2q835WWx/d50f5492dded3c21aa6d69c07d3b2a44/Introducing_OAI_Partner_Network_artcard.png?w=3840&q=90&fm=webp)
+
+[Introducing the OpenAI Partner NetworkProductJun 14, 2026](</index/introducing-openai-partner-network/>)
+
 ![Rosalind5.5 ArtCard](https://images.ctfassets.net/kftzwdyauwt9/6USIQM1B7TggUvvTFxxwoi/0176ac6633c8bdc24641d25d1d2db824/GPT-Rosalind_ArtCard.png?w=3840&q=90&fm=webp)
 
 [Introducing new capabilities to GPT-RosalindProductJun 3, 2026](</index/introducing-new-capabilities-to-gpt-rosalind/>)
-
-![1 1 Art Card](https://images.ctfassets.net/kftzwdyauwt9/4xugzd9dTDMUzIUmuamtO3/1f40af4e50ab8b2bdd64d5b491964961/1_1_Art_Card.png?w=3840&q=90&fm=webp)
-
-[Codex for every role, tool, and workflowProductJun 2, 2026](</index/codex-for-every-role-tool-workflow/>)
-
-![Open AI > AWS > Card Img](https://images.ctfassets.net/kftzwdyauwt9/4DyPHqWFzvKSbt5XNS0cCb/4b5da512c5bc9d6950c64d3ab2b85126/OAI_AWS_Partnership_1x1_Art_Card.png?w=3840&q=90&fm=webp)
-
-[OpenAI frontier models and Codex are now available on AWSProductJun 1, 2026](</index/openai-frontier-models-and-codex-are-now-available-on-aws/>)
 
 Research
 

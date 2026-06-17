@@ -26,57 +26,11 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-## Get Codex for your enterprise, free
+## The Codex enterprise promotion is now closed.
 
-Bring Codex to more builders across your company. For the next 30 days, new Codex users on eligible enterprise accounts can get two months of free Codex usage. Tell us a little about your organization and our team will help route your request.
-
-First name *
-
-Last name *
-
-Work email address *
-
-Company name *
-
-Are you currently an OpenAI customer? *
-
-Yes
-
-No
-
-Not sure
-
-Do you already work with an OpenAI account team? *
-
-Yes
-
-No
-
-Not sure
-
-Approximately how many new Codex users are you interested in adding? *
-
-1-24
-
-25-99
-
-100-499
-
-500+
-
-Not sure yet
-
-What would you like help with? *
-
-Learn whether my organization is eligible for the Codex promo
-
-Get connected with the right OpenAI team
-
-Explore Codex for my enterprise more broadly
-
-Anything else you'd like us to know?
-
-Submit
+Thanks for your interest. After a month of strong demand, we’re no longer accepting new enterprises for this promotional offer.  
+  
+If you're interested in bringing Codex to your organization, please reach out to your OpenAI account team directly or [contact sales⁠(opens in a new window)](<https://chatgpt.com/contact-sales/>).
 
 Research
 

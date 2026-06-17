@@ -26,6 +26,18 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
+August 6, 2024
+
+[Company](</news/company-announcements/>)
+
+# Introducing Structured Outputs in the API
+
+We are introducing Structured Outputs in the API—model outputs now reliably adhere to developer-supplied JSON Schemas.
+
+![The image shows an abstract pattern of small squares in varying shades of blue, green, and light yellow. The squares are arranged in a grid-like formation, creating a mosaic effect with a soft, pastel color palette.](https://images.ctfassets.net/kftzwdyauwt9/1XeXlBlWdUBSPFcVPsOmOD/dc8123f1031a0f9fe1b816790ee510a9/Structured_Outputs_Cover.png?w=3840&q=90&fm=webp)
+
+Share
+
 How to use Structured Outputs
 
   * How to use Structured Outputs
@@ -44,17 +56,23 @@ How to use Structured Outputs
 
 
 
-August 6, 2024
+Table of contents
 
-[Company](</news/company-announcements/>)
+  * How to use Structured Outputs
+  * Safe Structured Outputs
+  * Native SDK support
+  * Additional use cases
+  * Dynamically generating user interfaces based on the user’s intent
+  * Separating a final answer from supporting reasoning or additional commentary
+  * Extracting structured data from unstructured data
+  * Under the hood
+  * Constrained decoding
+  * Alternate approaches
+  * Limitations and restrictions
+  * Availability
+  * Acknowledgements
 
-# Introducing Structured Outputs in the API
 
-We are introducing Structured Outputs in the API—model outputs now reliably adhere to developer-supplied JSON Schemas.
-
-![The image shows an abstract pattern of small squares in varying shades of blue, green, and light yellow. The squares are arranged in a grid-like formation, creating a mosaic effect with a soft, pastel color palette.](https://images.ctfassets.net/kftzwdyauwt9/1XeXlBlWdUBSPFcVPsOmOD/dc8123f1031a0f9fe1b816790ee510a9/Structured_Outputs_Cover.png?w=3840&q=90&fm=webp)
-
-Share
 
 Last year at DevDay, we introduced JSON mode—a useful building block for developers looking to build reliable applications with our models. While JSON mode improves model reliability for generating valid JSON outputs, it does not guarantee that the model’s response will conform to a particular schema. Today we’re introducing Structured Outputs in the API, a new feature designed to ensure model-generated outputs will exactly match JSON Schemas provided by developers.
 

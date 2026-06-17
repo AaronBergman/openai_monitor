@@ -26,6 +26,18 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
+May 15, 2026
+
+OpenAI Academy
+
+# How data science teams use Codex
+
+See how data science teams can use Codex to turn questions, dashboards, and raw data into review-ready analysis assets.
+
+[Download Codex(opens in a new window)](<https://chatgpt.com/codex/for-work/>)
+
+Loading…
+
 Top Codex use cases for data science teams
 
   * Top Codex use cases for data science teams
@@ -38,17 +50,17 @@ Top Codex use cases for data science teams
 
 
 
-May 15, 2026
+Table of contents
 
-OpenAI Academy
+  * Top Codex use cases for data science teams
+  * 1\. KPI root-cause analysis
+  * 2\. Business impact readout
+  * 3\. Analytics request agent
+  * 4\. Executive KPI review
+  * 5\. Dashboard builder and monitor
+  * More resources
 
-# How data science teams use Codex
 
-See how data science teams can use Codex to turn questions, dashboards, and raw data into review-ready analysis assets.
-
-[Download Codex(opens in a new window)](<https://chatgpt.com/codex/for-work/>)
-
-Loading…
 
 With Codex, data science teams can turn scattered inputs into usable analysis assets faster. Starting from dashboards, metric definitions, exports, experiment notes, and business context, Codex helps assemble a first draft of the deliverable—including charts, caveats, source links, and review questions—so teams can validate the work and share it with confidence.
 

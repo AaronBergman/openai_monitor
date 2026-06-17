@@ -26,6 +26,14 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
+# Ada uses GPT‑4 to deliver a new customer service standard
+
+![Ada logo superimposed on an abstract painting with prominent blue and purple brushstrokes.](https://images.ctfassets.net/kftzwdyauwt9/3R4waZgDCIq8r9sStxfvx9/1714bf6acdd8ac2abfaf38f58a4f6a93/oai_ada_hero.png?w=3840&q=90&fm=webp)
+
+Loading…
+
+Share
+
 Developing a new customer service metric: resolution rate
 
   * Developing a new customer service metric: resolution rate
@@ -35,13 +43,14 @@ Developing a new customer service metric: resolution rate
 
 
 
-# Ada uses GPT‑4 to deliver a new customer service standard
+Table of contents
 
-![Ada logo superimposed on an abstract painting with prominent blue and purple brushstrokes.](https://images.ctfassets.net/kftzwdyauwt9/3R4waZgDCIq8r9sStxfvx9/1714bf6acdd8ac2abfaf38f58a4f6a93/oai_ada_hero.png?w=3840&q=90&fm=webp)
+  * Developing a new customer service metric: resolution rate
+  * Battle-testing models and choosing OpenAI
+  * Doubling resolution rates with OpenAI
+  * 100% resolution is achievable with AI
 
-Loading…
 
-Share
 
 Ada is fueling a [_$100B shift_ ⁠(opens in a new window)](<https://www.forbes.com/sites/louiscolumbus/2018/04/30/sizing-the-market-value-of-artificial-intelligence/?subId3=xid:fr1605104619702abi&sh=8ba4d26ffe97>) in customer service spend, and at the forefront of this transition is their AI-native customer service automation platform. Founded in 2016, [_Ada_ ⁠(opens in a new window)](<https://www.ada.cx/?utm_source=partner&utm_medium=referral&utm_campaign=openai-casestudy-2024>) is now valued at $1.2B with a total of $200M in funding; customers include Verizon, YETI, Canva, and Square.
 

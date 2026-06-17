@@ -118,19 +118,17 @@ More than 1 million businesses around the world are achieving meaningful results
 
 ## Keep reading
 
-![Nextdoor customer stories > oai 1x1](https://images.ctfassets.net/kftzwdyauwt9/2VQiKydNUVAutnHRuCIV4S/3262cc8deff3fe49c6b512f854e14dcf/oai_Nextdoor_1x1.png?w=3840&q=90&fm=webp)
+![Production Resampling > Art Card](https://images.ctfassets.net/kftzwdyauwt9/6TwSElUf3XVkAiLOvIis8O/de2de5d4b9f94a3dea5403702a4f34ce/Art_Card.png?w=3840&q=90&fm=webp)
 
-[How engineers at Nextdoor use Codex to build without limitsJun 9, 2026](</index/nextdoor/>)
+[Predicting model behavior before release by simulating deploymentResearchJun 16, 2026](</index/deployment-simulation/>)
 
-![Notion > cover image](https://images.ctfassets.net/kftzwdyauwt9/2HBxiM1dDPpM1W56ehwgNi/01dc3dafe6aedcabc9808446492523ea/oai_Notion_1x1.png?w=3840&q=90&fm=webp)
+![Intro-OAI-Partner-ArtCard](https://images.ctfassets.net/kftzwdyauwt9/U6bb3rlwvYyhf2q835WWx/d50f5492dded3c21aa6d69c07d3b2a44/Introducing_OAI_Partner_Network_artcard.png?w=3840&q=90&fm=webp)
 
-[What Codex unlocks for NotionJun 9, 2026](</index/notion/>)
+[Introducing the OpenAI Partner NetworkProductJun 14, 2026](</index/introducing-openai-partner-network/>)
 
-![Frame](https://images.ctfassets.net/kftzwdyauwt9/5PD5E0PhvNP8ogbhvNxdKF/42a592f5b93580d940065610304c3f22/Frame.png?w=3840&q=90&fm=webp)
+![Introducing OpenAI Academy courses > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/2mmXo430NiaNqyi6YrRtnh/715ab11fa5003dd50acff55adcb4a5fd/Frame.png?w=3840&q=90&fm=webp)
 
-Industrial policy for the Intelligence Age
-
-[Industrial policy for the Intelligence AgeGlobal AffairsJun 9, 2026](</index/industrial-policy-for-the-intelligence-age/>)
+[New OpenAI Academy courses for the next era of workAI AdoptionJun 12, 2026](</index/academy-courses-applying-ai-at-work/>)
 
 Research
 

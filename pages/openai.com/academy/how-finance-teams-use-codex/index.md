@@ -26,6 +26,18 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
+May 12, 2026
+
+OpenAI Academy
+
+# How finance teams use Codex
+
+See how finance teams can use Codex to build review-ready assets for monthly business reviews, reporting, variance analysis, and planning.
+
+[Download Codex(opens in a new window)](<https://chatgpt.com/codex/for-work/>)
+
+Loading…
+
 Top Codex use cases for finance teams
 
   * Top Codex use cases for finance teams
@@ -38,17 +50,17 @@ Top Codex use cases for finance teams
 
 
 
-May 12, 2026
+Table of contents
 
-OpenAI Academy
+  * Top Codex use cases for finance teams
+  * 1\. Monthly business review narrative
+  * 2\. Finance model cleanup and analysis
+  * 3\. Recurring CFO and board reporting pack
+  * 4\. Variance driver bridge
+  * 5\. Forecast refresh and scenario planning
+  * More resources 
 
-# How finance teams use Codex
 
-See how finance teams can use Codex to build review-ready assets for monthly business reviews, reporting, variance analysis, and planning.
-
-[Download Codex(opens in a new window)](<https://chatgpt.com/codex/for-work/>)
-
-Loading…
 
 With Codex, finance teams can just build things. Start with the close workbooks, revenue and expense dashboards, forecast updates, prior MBRs, and owner notes you already use. Codex helps turn that context into tangible outputs your team can review, refine, and share—no coding required. Spend less time assembling the first pass and more time shaping the story, validating the numbers, and preparing for the decisions ahead.
 

@@ -26,14 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-True comprehension requires context
-
-  * True comprehension requires context
-  * Analyzing data manually just isn't viable
-  * Unleashing the full potential of unstructured data
-
-
-
 # Viable
 
 [View product](</index/gpt-4/>)
@@ -43,6 +35,22 @@ True comprehension requires context
 Loading…
 
 Share
+
+True comprehension requires context
+
+  * True comprehension requires context
+  * Analyzing data manually just isn't viable
+  * Unleashing the full potential of unstructured data
+
+
+
+Table of contents
+
+  * True comprehension requires context
+  * Analyzing data manually just isn't viable
+  * Unleashing the full potential of unstructured data
+
+
 
 The shift to the cloud has led to a surge in data collection, but businesses are grappling to extract valuable insights, largely due to the unstructured nature of that data. 
 

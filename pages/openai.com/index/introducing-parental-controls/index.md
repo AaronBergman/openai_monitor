@@ -26,17 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Getting started
-
-  * Getting started
-  * Stronger safeguards for linked teen accounts
-  * Customizing your teen’s experience
-  * Notifications in parental controls
-  * Resources for parents
-  * Looking ahead
-
-
-
 September 29, 2025
 
 [Product](</news/product-releases/>)[Safety](</news/safety-alignment/>)
@@ -48,6 +37,28 @@ New tools and resources to support families, and notifications to keep teens saf
 Loading…
 
 Share
+
+Getting started
+
+  * Getting started
+  * Stronger safeguards for linked teen accounts
+  * Customizing your teen’s experience
+  * Notifications in parental controls
+  * Resources for parents
+  * Looking ahead
+
+
+
+Table of contents
+
+  * Getting started
+  * Stronger safeguards for linked teen accounts
+  * Customizing your teen’s experience
+  * Notifications in parental controls
+  * Resources for parents
+  * Looking ahead
+
+
 
  _**Update on September 30, 2025:**__We 've launched the Sora app with parental controls. Parents can adjust Sora settings for connected teen accounts in ChatGPT, including opting into a non-personalized feed, choosing whether their teen can send and receive direct messages, and the ability to control whether there is an uninterrupted feed of content while scrolling. Learn more in the _[__Sora 2 blog__ ⁠](</index/sora-2/>) _._
 

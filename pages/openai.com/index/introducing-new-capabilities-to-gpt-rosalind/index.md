@@ -216,19 +216,19 @@ We will continue building [GPT‑Rosalind](</gpt-rosalind/>) to become a more ca
 
 [View all](</news/>)
 
+![Production Resampling > Art Card](https://images.ctfassets.net/kftzwdyauwt9/6TwSElUf3XVkAiLOvIis8O/de2de5d4b9f94a3dea5403702a4f34ce/Art_Card.png?w=3840&q=90&fm=webp)
+
+[Predicting model behavior before release by simulating deploymentResearchJun 16, 2026](</index/deployment-simulation/>)
+
+![Intro-OAI-Partner-ArtCard](https://images.ctfassets.net/kftzwdyauwt9/U6bb3rlwvYyhf2q835WWx/d50f5492dded3c21aa6d69c07d3b2a44/Introducing_OAI_Partner_Network_artcard.png?w=3840&q=90&fm=webp)
+
+[Introducing the OpenAI Partner NetworkProductJun 14, 2026](</index/introducing-openai-partner-network/>)
+
 ![Art Card 1080x1080 \(3\)](https://images.ctfassets.net/kftzwdyauwt9/3JLNH7ejJFnxLmX2LpzoKD/19f9e3c4d36cc9d677ba88e842ad2db2/Art_Card_1080x1080__4_.png?w=3840&q=90&fm=webp)
 
 Better memory for a more helpful ChatGPT
 
 [Dreaming: Better memory for a more helpful ChatGPTResearchJun 4, 2026](</index/chatgpt-memory-dreaming/>)
-
-![1 1 Art Card](https://images.ctfassets.net/kftzwdyauwt9/4xugzd9dTDMUzIUmuamtO3/1f40af4e50ab8b2bdd64d5b491964961/1_1_Art_Card.png?w=3840&q=90&fm=webp)
-
-[Codex for every role, tool, and workflowProductJun 2, 2026](</index/codex-for-every-role-tool-workflow/>)
-
-![Open AI > AWS > Card Img](https://images.ctfassets.net/kftzwdyauwt9/4DyPHqWFzvKSbt5XNS0cCb/4b5da512c5bc9d6950c64d3ab2b85126/OAI_AWS_Partnership_1x1_Art_Card.png?w=3840&q=90&fm=webp)
-
-[OpenAI frontier models and Codex are now available on AWSProductJun 1, 2026](</index/openai-frontier-models-and-codex-are-now-available-on-aws/>)
 
 Research
 

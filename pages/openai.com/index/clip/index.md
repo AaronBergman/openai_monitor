@@ -26,17 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Background and related work
-
-  * Background and related work
-  * Approach
-  * Key takeaways
-  * Limitations
-  * Broader impacts
-  * Conclusion
-
-
-
 January 5, 2021
 
 [Milestone](</research/index/milestone/>)
@@ -52,6 +41,28 @@ Illustration: Justin Jay Wang
 Loading…
 
 Share
+
+Background and related work
+
+  * Background and related work
+  * Approach
+  * Key takeaways
+  * Limitations
+  * Broader impacts
+  * Conclusion
+
+
+
+Table of contents
+
+  * Background and related work
+  * Approach
+  * Key takeaways
+  * Limitations
+  * Broader impacts
+  * Conclusion
+
+
 
 We’re introducing a neural network called CLIP which efficiently learns visual concepts from natural language supervision. CLIP can be applied to any visual classification benchmark by simply providing the names of the visual categories to be recognized, similar to the “zero-shot” capabilities of GPT‑2 and GPT‑3.
 

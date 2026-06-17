@@ -26,15 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Clinical trial enrollment is broken
-
-  * Clinical trial enrollment is broken
-  * Using GPT-4 to evaluate clinical trial data sets
-  * GPT-4 improves product speed, data quality, and costs of operation
-  * Evaluating hundreds of patients per minute
-
-
-
 # Paradigm
 
 Paradigm uses OpenAI’s API to improve patient access to clinical trials.
@@ -46,6 +37,24 @@ Paradigm uses OpenAI’s API to improve patient access to clinical trials.
 Loading…
 
 Share
+
+Clinical trial enrollment is broken
+
+  * Clinical trial enrollment is broken
+  * Using GPT-4 to evaluate clinical trial data sets
+  * GPT-4 improves product speed, data quality, and costs of operation
+  * Evaluating hundreds of patients per minute
+
+
+
+Table of contents
+
+  * Clinical trial enrollment is broken
+  * Using GPT-4 to evaluate clinical trial data sets
+  * GPT-4 improves product speed, data quality, and costs of operation
+  * Evaluating hundreds of patients per minute
+
+
 
 Clinical trials are how we discover new cures, and they can be a life-saving form of treatment. [Paradigm⁠(opens in a new window)](<https://www.paradigm.inc/>) is breaking down barriers in the healthcare industry with technology that brings clinical trials to more people, such as cancer patients, while reducing the paperwork burden for doctors and nurses to address clinician burnout.
 

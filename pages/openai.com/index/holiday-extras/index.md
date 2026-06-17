@@ -26,14 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Empowering employees in a competitive industry
-
-  * Empowering employees in a competitive industry
-  * Building a data-driven, efficient culture with AI
-  * Achieving real productivity gains with ChatGPT Enterprise
-
-
-
 # Holiday Extras
 
 Holiday Extras rolls out ChatGPT Enterprise across every team, boosting productivity by 500 hours weekly.
@@ -43,6 +35,22 @@ Holiday Extras rolls out ChatGPT Enterprise across every team, boosting producti
 Loading…
 
 Share
+
+Empowering employees in a competitive industry
+
+  * Empowering employees in a competitive industry
+  * Building a data-driven, efficient culture with AI
+  * Achieving real productivity gains with ChatGPT Enterprise
+
+
+
+Table of contents
+
+  * Empowering employees in a competitive industry
+  * Building a data-driven, efficient culture with AI
+  * Achieving real productivity gains with ChatGPT Enterprise
+
+
 
 [Holiday Extras⁠(opens in a new window)](<https://www.holidayextras.com/>) is the European leader in travel extras, helping travelers find the best airport lounges, hotels, parking, and insurance. They’ve been around for over 40 years, but have stayed on the cutting edge of innovation in the travel industry. To keep ahead of the competition, they rolled out ChatGPT Enterprise to hundreds of employees to support innovation and creativity across the organization.
 

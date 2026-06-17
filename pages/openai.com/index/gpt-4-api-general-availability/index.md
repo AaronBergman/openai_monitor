@@ -26,16 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-GPT-4 API general availability
-
-  * GPT-4 API general availability
-  * Moving from text completions to chat completions
-  * Deprecation of older models in the Completions API
-  * Deprecation of older embeddings models
-  * Deprecation of the Edits API
-
-
-
 Updated: April 24, 2024
 
 [Product](</news/product-releases/>)
@@ -47,6 +37,26 @@ Updated: April 24, 2024
 Loading…
 
 Share
+
+GPT-4 API general availability
+
+  * GPT-4 API general availability
+  * Moving from text completions to chat completions
+  * Deprecation of older models in the Completions API
+  * Deprecation of older embeddings models
+  * Deprecation of the Edits API
+
+
+
+Table of contents
+
+  * GPT-4 API general availability
+  * Moving from text completions to chat completions
+  * Deprecation of older models in the Completions API
+  * Deprecation of older embeddings models
+  * Deprecation of the Edits API
+
+
 
 ** _Update on April 24, 2024: The ChatGPT API name has been discontinued. Mentions of the ChatGPT API in this blog refer to the GPT‑3.5 Turbo API._**
 

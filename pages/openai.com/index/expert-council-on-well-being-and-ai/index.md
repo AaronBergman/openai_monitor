@@ -26,14 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Meet the council members 
-
-  * Meet the council members 
-  * How we will work with the council members 
-  * Expanding our safety work 
-
-
-
 October 14, 2025
 
 [Company](</news/company-announcements/>)[Safety](</news/safety-alignment/>)
@@ -45,6 +37,22 @@ Introducing the members of the Expert Council on Well-Being and AI and how we’
 Loading…
 
 Share
+
+Meet the council members 
+
+  * Meet the council members 
+  * How we will work with the council members 
+  * Expanding our safety work 
+
+
+
+Table of contents
+
+  * Meet the council members 
+  * How we will work with the council members 
+  * Expanding our safety work 
+
+
 
 We’ve assembled the **Expert Council on Well-Being and AI** to help guide our ongoing work to [build more helpful ChatGPT and Sora experiences for everyone](</index/building-more-helpful-chatgpt-experiences-for-everyone/>). The council brings together leading researchers and experts with decades of experience studying how technology affects our emotions, motivation, and mental health. Their role is to advise us, pose questions and help define what healthy interactions with AI should look like for all ages.
 

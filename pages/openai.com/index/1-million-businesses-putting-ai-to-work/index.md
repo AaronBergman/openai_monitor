@@ -26,15 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-From personal use to companywide impact
-
-  * From personal use to companywide impact
-  * New tools, integrations, and capabilities for businesses
-  * Companies are seeing meaningful ROI 
-  * Where we’re heading next
-
-
-
 November 5, 2025
 
 [Company](</news/company-announcements/>)
@@ -48,6 +39,24 @@ Customers such as Amgen, Commonwealth Bank, Booking.com, Cisco, Lowe’s, Morgan
 Loading…
 
 Share
+
+From personal use to companywide impact
+
+  * From personal use to companywide impact
+  * New tools, integrations, and capabilities for businesses
+  * Companies are seeing meaningful ROI 
+  * Where we’re heading next
+
+
+
+Table of contents
+
+  * From personal use to companywide impact
+  * New tools, integrations, and capabilities for businesses
+  * Companies are seeing meaningful ROI 
+  * Where we’re heading next
+
+
 
 Today, we’re announcing that more than **1 million business customers around the world** are directly using OpenAI—the fastest-growing business platform in history. This includes all organizations that actively pay OpenAI for business use—either through ChatGPT for Work, or through direct consumption of our models through our developer platform. We’re proud to work with category leaders in industries like financial services, healthcare, retail, and more, where our technology is making intelligence central to their customer experiences, internal operations, and team-level workflows.
 
@@ -97,17 +106,17 @@ OpenAI
 
 [View all](</news/>)
 
-![dell](https://images.ctfassets.net/kftzwdyauwt9/17U8SngLERoATdFhOjWbDK/da377e6850f8241ea7814a347bad0a3a/Frame.png?w=3840&q=90&fm=webp)
+![OpenAI acquires Ona > oai 1x1](https://images.ctfassets.net/kftzwdyauwt9/6SkgXCQ08f4AYarun2I3oU/24414c9962c945767f783bdb63006841/OAI-Ona-ArtCard.png?w=3840&q=90&fm=webp)
 
-[OpenAI and Dell Technologies partner to bring Codex to hybrid and on-premises enterprise environmentsCompanyMay 18, 2026](</index/dell-codex-enterprise-partnership/>)
+[OpenAI to acquire OnaCompanyJun 11, 2026](</index/openai-to-acquire-ona/>)
 
-![Frame](https://images.ctfassets.net/kftzwdyauwt9/32jPyVqUObkTrIIyA6tJV1/4eb384b5bb2f21ccea5de7665858a37a/Frame.png?w=3840&q=90&fm=webp)
+![Oracle partnership 1x1 art card](https://images.ctfassets.net/kftzwdyauwt9/7zjGwFPBZMvK6zwFSMVWRm/6721ac33e5b1aaf88a9b705a3d10c90a/OAI_Oracle_Partnership_1x1_Art_Card.png?w=3840&q=90&fm=webp)
 
-[Our response to the TanStack npm supply chain attackCompanyMay 13, 2026](</index/our-response-to-the-tanstack-npm-supply-chain-attack/>)
+[Access OpenAI models and Codex through your Oracle cloud commitmentCompanyJun 10, 2026](</index/openai-on-oracle-cloud/>)
 
-![OpenAI Campus Network—Student Club Interest Form > card image](https://images.ctfassets.net/kftzwdyauwt9/3gVx8jMHtHwuFpYS10BWBF/b70c85eada669bdabf956c591dfe8bbf/OpenAI_Campus_Networkâ__Student_Club_Interest_Form_-_art_card.png?w=3840&q=90&fm=webp)
+![Confidential submission of draft S-1 to the SEC > cover image](https://images.ctfassets.net/kftzwdyauwt9/36doI12YCwUtp1hzD4d8bj/84e67c565f39e7d5ca3ee011efa69756/confidential-submission-of-draft-s-1-to-the-sec-1x1.png?w=3840&q=90&fm=webp)
 
-[OpenAI Campus Network: Student club interest formCompanyMay 11, 2026](</index/openai-campus-network-student-club-interest-form/>)
+[Confidential submission of draft S-1 to the SECCompanyJun 8, 2026](</index/openai-submits-confidential-s-1/>)
 
 Research
 

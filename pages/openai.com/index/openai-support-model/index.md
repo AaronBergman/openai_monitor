@@ -26,6 +26,16 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
+September 29, 2025
+
+[API](</stories/api/>)OpenAI on OpenAI
+
+# Improving support with every interaction at OpenAI
+
+Loading…
+
+Share
+
 More than tickets, a new operating model
 
   * More than tickets, a new operating model
@@ -37,15 +47,16 @@ More than tickets, a new operating model
 
 
 
-September 29, 2025
+Table of contents
 
-[API](</stories/api/>)OpenAI on OpenAI
+  * More than tickets, a new operating model
+  * Connecting a system of interactions
+  * Support reps as systems thinkers 
+  * From primitives to production
+  * Learning that compounds
+  * A blueprint for the future of support
 
-# Improving support with every interaction at OpenAI
 
-Loading…
-
-Share
 
  _This is part of our series sharing internal examples of how OpenAI is using its own technology and APIs. These tools are being used internally, only at OpenAI, and are shared here as illustrative examples of how frontier AI is supporting use cases across our teams. We’re also sharing the internal tool names for a clearer look at how frontier AI helps our teams get work done._
 

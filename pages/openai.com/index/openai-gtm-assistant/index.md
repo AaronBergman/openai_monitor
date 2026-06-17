@@ -26,6 +26,16 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
+September 29, 2025
+
+[API](</stories/api/>)OpenAI on OpenAI
+
+# Driving sales productivity and customer success at OpenAI
+
+Loading…
+
+Share
+
 Managing growth
 
   * Managing growth
@@ -37,15 +47,16 @@ Managing growth
 
 
 
-September 29, 2025
+Table of contents
 
-[API](</stories/api/>)OpenAI on OpenAI
+  * Managing growth
+  * A teammate, not another tool
+  * Defining what “great” looks like
+  * Impact you can feel
+  * From answers to actions
+  * Scaling excellence
 
-# Driving sales productivity and customer success at OpenAI
 
-Loading…
-
-Share
 
  _This is part of our series sharing internal examples of how OpenAI is using its own technology and APIs. These tools are being used internally, only at OpenAI, and are shared here as illustrative examples of how frontier AI is supporting use cases across our teams. We’re also sharing the internal tool names for a clearer look at how frontier AI helps our teams get work done._
 

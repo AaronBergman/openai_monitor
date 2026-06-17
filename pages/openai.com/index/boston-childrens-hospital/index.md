@@ -26,16 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Operating under pressure
-
-  * Operating under pressure
-  * Setting the foundation with an enterprise AI layer
-  * Redesigning workflows across operations
-  * Advancing rare disease diagnosis and genetic research
-  * AI-enabled care at scale
-
-
-
 May 29, 2026
 
 # Boston Children’s uses AI to unlock new diagnoses
@@ -79,6 +69,26 @@ automations supporting operational workflows
 Loading…
 
 Share
+
+Operating under pressure
+
+  * Operating under pressure
+  * Setting the foundation with an enterprise AI layer
+  * Redesigning workflows across operations
+  * Advancing rare disease diagnosis and genetic research
+  * AI-enabled care at scale
+
+
+
+Table of contents
+
+  * Operating under pressure
+  * Setting the foundation with an enterprise AI layer
+  * Redesigning workflows across operations
+  * Advancing rare disease diagnosis and genetic research
+  * AI-enabled care at scale
+
+
 
 Boston Children’s Hospital did not pursue artificial intelligence simply to experiment with new technology. The hospital embedded AI across the organization as a core part of its clinical and operational infrastructure to improve how care is delivered to its pediatric patients, particularly those with complex and rare conditions. By integrating AI into daily workflows, the team has reduced operational costs, improved access to care, and helped diagnose more than 40 rare conditions that had previously gone unresolved.
 
@@ -154,17 +164,17 @@ More than 1 million businesses around the world are achieving meaningful results
 
 ## Keep reading
 
-![lseg > oai 1x1](https://images.ctfassets.net/kftzwdyauwt9/6wykEE6NmMzJHGPdxuhPV7/b85d4a7e59cd01a710f4b8b9213f88f8/oai_LSEG_1x1.png?w=3840&q=90&fm=webp)
+![Production Resampling > Art Card](https://images.ctfassets.net/kftzwdyauwt9/6TwSElUf3XVkAiLOvIis8O/de2de5d4b9f94a3dea5403702a4f34ce/Art_Card.png?w=3840&q=90&fm=webp)
 
-[From data to decisions: how LSEG is scaling trusted AIJun 10, 2026](</index/lseg/>)
+[Predicting model behavior before release by simulating deploymentResearchJun 16, 2026](</index/deployment-simulation/>)
 
-![Nextdoor customer stories > oai 1x1](https://images.ctfassets.net/kftzwdyauwt9/2VQiKydNUVAutnHRuCIV4S/3262cc8deff3fe49c6b512f854e14dcf/oai_Nextdoor_1x1.png?w=3840&q=90&fm=webp)
+![Intro-OAI-Partner-ArtCard](https://images.ctfassets.net/kftzwdyauwt9/U6bb3rlwvYyhf2q835WWx/d50f5492dded3c21aa6d69c07d3b2a44/Introducing_OAI_Partner_Network_artcard.png?w=3840&q=90&fm=webp)
 
-[How engineers at Nextdoor use Codex to build without limitsJun 9, 2026](</index/nextdoor/>)
+[Introducing the OpenAI Partner NetworkProductJun 14, 2026](</index/introducing-openai-partner-network/>)
 
-![Notion > cover image](https://images.ctfassets.net/kftzwdyauwt9/2HBxiM1dDPpM1W56ehwgNi/01dc3dafe6aedcabc9808446492523ea/oai_Notion_1x1.png?w=3840&q=90&fm=webp)
+![Introducing OpenAI Academy courses > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/2mmXo430NiaNqyi6YrRtnh/715ab11fa5003dd50acff55adcb4a5fd/Frame.png?w=3840&q=90&fm=webp)
 
-[What Codex unlocks for NotionJun 9, 2026](</index/notion/>)
+[New OpenAI Academy courses for the next era of workAI AdoptionJun 12, 2026](</index/academy-courses-applying-ai-at-work/>)
 
 Research
 

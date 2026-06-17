@@ -26,14 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Selected projects 
-
-  * Selected projects 
-  * Empowering defenders with ChatGPT
-  * Apply now!
-
-
-
 June 20, 2024
 
 [Security](</news/security/>)
@@ -47,6 +39,22 @@ Highlighting innovative research and AI integration in cybersecurity.
 Loading…
 
 Share
+
+Selected projects 
+
+  * Selected projects 
+  * Empowering defenders with ChatGPT
+  * Apply now!
+
+
+
+Table of contents
+
+  * Selected projects 
+  * Empowering defenders with ChatGPT
+  * Apply now!
+
+
 
 We’re sharing more about the work we have sponsored in the last year under our [_Cybersecurity Grant Program_ ⁠](<https://openai.com/index/openai-cybersecurity-grant-program/>). 
 

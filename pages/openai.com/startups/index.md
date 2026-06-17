@@ -72,17 +72,17 @@ Expert content to spot AI opportunities and scale with confidence.
 
 ![Bright, airy indoor space with high arched ceilings, hanging lights, and a large circular window letting in natural light. Several people are seated or standing at tall tables labeled “Build Bar,” working on laptops or writing. The atmosphere resembles a collaborative workspace or event setup, with modern furniture and an open, inviting design.](https://images.ctfassets.net/kftzwdyauwt9/2B6TM5xRMLGqVqhsRkSxeA/d01619ef2db58c263be50662560376eb/DSCF2937-2.jpg?w=3840&q=90&fm=webp)
 
-### IRL and URL hangouts
+## Build with OpenAI live
 
-Connect with other builders in person and online. Register for upcoming events like meetups, webinars, and AMAs.
+Join upcoming events for hands-on building, technical support, and connecting with other founders.
 
-### [OpenAI Builder Lounge #NYTechWeek (June 4, 2026, 2pm ET, In-person)Build alongside other founders and developers at the OpenAI Builder Lounge for #NYTechWeek with unlimited Codex access, OpenAI team Q&A, and demos.Sign Up Here](<https://events.openai.com/builderlounge-ny-techweek>)
+### [Codex Lab: Goal mode, worktrees, and 201-level tips (June 24, 10 am PT, Virtual)Get more out of Codex with live demos, practical tips, and new capabilities that help you move faster and tackle bigger projects.Register here](<https://webinar.openai.com/register/codex-lab-june-24>)
+
+### [Build Hour: Image Gen 2 (July 23, 10 am PT, Virtual)Learn how gpt-image-2 uses text, images, and broad world knowledge to generate and edit images with strong instruction following and contextual awareness.Register here](<https://webinar.openai.com/buildhours/imagegen2/>)
+
+### [Build Hour: Building Agents (July 29, 10 am PT, Virtual)Learn how to build agentic apps with less orchestration overhead and more built-in support for real workflows.Register here](<https://webinar.openai.com/buildhours/buildingagents>)
 
 ### [Build Hours (On Demand)Build with session materials from past Build Hours, including demos, starter code, and examples across agent workflows, integrations, and deployment patterns.Catch Up](<https://webinar.openai.com/buildhours/>)
-
-#### Be the first to know about upcoming events
-
-[Get on the list](<https://openai.com/leads/startup/>)
 
 ## Learn from founders bringing bold ideas to life
 

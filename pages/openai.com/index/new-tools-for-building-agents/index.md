@@ -26,7 +26,17 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Table of contents
+March 11, 2025
+
+[Product](</news/product-releases/>)
+
+# New tools for building agents
+
+[Try in Playground(opens in a new window)](<https://platform.openai.com/playground/chat?preset=ks7kayjX55ehTBR9oyUviuJe>)
+
+![A sleek, minimal interface displaying a task list for an AI agent, including ‘triage_agent,’ ‘guardrail,’ and ‘update_salesforce_record,’ over a fluid blue abstract background.](https://images.ctfassets.net/kftzwdyauwt9/4QaBJvGYlSBY9iYMhWBN6I/c97e4a784aef38012d91e9a9cf2010c7/API_Agents_Hero_16.9.png?w=3840&q=90&fm=webp)
+
+Introducing the Responses API
 
   * Introducing the Responses API
   * What this means for existing APIs
@@ -39,17 +49,18 @@ Table of contents
 
 
 
-March 11, 2025
+Table of contents
 
-[Product](</news/product-releases/>)
+  * Introducing the Responses API
+  * What this means for existing APIs
+  * Introducing built-in tools in the Responses API
+  * Web search
+  * File search
+  * Computer use
+  * Agents SDK
+  * What’s next: building the platform for agents
 
-# New tools for building agents
 
-[Try in Playground(opens in a new window)](<https://platform.openai.com/playground/chat?preset=ks7kayjX55ehTBR9oyUviuJe>)
-
-![A sleek, minimal interface displaying a task list for an AI agent, including ‘triage_agent,’ ‘guardrail,’ and ‘update_salesforce_record,’ over a fluid blue abstract background.](https://images.ctfassets.net/kftzwdyauwt9/4QaBJvGYlSBY9iYMhWBN6I/c97e4a784aef38012d91e9a9cf2010c7/API_Agents_Hero_16.9.png?w=3840&q=90&fm=webp)
-
-Share
 
 Today, we’re releasing the first set of building blocks that will help developers and enterprises build useful and reliable agents. We view agents as systems that independently accomplish tasks on behalf of users. Over the past year, we’ve introduced new model capabilities—such as advanced reasoning, multimodal interactions, and new safety techniques—that have laid the foundation for our models to handle the complex, multi-step tasks required to build agents. However, customers have shared that turning these capabilities into production-ready agents can be challenging, often requiring extensive prompt iteration and custom orchestration logic without sufficient visibility or built-in support.
 
@@ -463,11 +474,10 @@ With today’s releases, we’re introducing the first building blocks to empowe
 
 OpenAI
 
-Our Research
+Research
 
   * [Research Index](</research/index/>)
   * [Research Overview](</research/>)
-  * [Research Residency](</residency/>)
   * [Economic Research](</signals/>)
 
 
@@ -477,44 +487,53 @@ Latest Advancements
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
   * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
-  * [GPT-5.3-Codex](</index/introducing-gpt-5-3-codex/>)
 
 
 
 Safety
 
   * [Safety Approach](</safety/>)
+  * [Deployment Safety(opens in a new window)](<https://deploymentsafety.openai.com/>)
   * [Security & Privacy](</security-and-privacy/>)
   * [Trust & Transparency](</trust-and-transparency/>)
 
 
 
-ChatGPT
+Products
 
-  * [Explore ChatGPT(opens in a new window)](<https://chatgpt.com/overview>)
-  * [Business](<https://chatgpt.com/business/business-plan>)
-  * [Enterprise](<https://chatgpt.com/business/enterprise>)
-  * [Education](<https://chatgpt.com/business/education>)
-  * [Pricing(opens in a new window)](<https://chatgpt.com/pricing>)
-  * [Download(opens in a new window)](<https://chatgpt.com/download>)
+  * [ChatGPT(opens in a new window)](<https://chatgpt.com/>)
+  * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
+  * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
+  * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
+  * [Codex](</codex/>)
+  * [Release Notes](</products/release-notes/>)
 
 
 
 API Platform
 
-  * [Platform Overview](</api/>)
-  * [Pricing](</api/pricing/>)
-  * [API log in(opens in a new window)](<https://platform.openai.com/login>)
-  * [Documentation(opens in a new window)](<https://developers.openai.com/api/docs>)
-  * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
+  * [Overview](</api/>)
+  * [API Log In(opens in a new window)](<https://platform.openai.com/login>)
+  * [Docs(opens in a new window)](<https://developers.openai.com/api/docs>)
 
 
 
-For Business
+Business
 
-  * [Business Overview](</business/>)
+  * [Overview](</business/>)
   * [Solutions](</solutions/>)
+  * [Resources](</business/learn/>)
   * [Contact Sales](</contact-sales/>)
+
+
+
+Developers
+
+  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
+  * [Open Models](</open-models/>)
+  * [Docs(opens in a new window)](<https://developers.openai.com/>)
+  * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
+  * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
 
 
 
@@ -522,9 +541,8 @@ Company
 
   * [About Us](</about/>)
   * [Our Charter](</charter/>)
-  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
   * [Careers](</careers/>)
-  * [Brand](</brand/>)
+  * [News](</news/>)
 
 
 
@@ -536,7 +554,6 @@ Support
 
 More
 
-  * [News](</news/>)
   * [Stories](</stories/>)
   * [Academy](</academy/>)
   * [Livestreams](</live/>)

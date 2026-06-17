@@ -34,6 +34,9 @@ Build agents in ChatGPT that take on entire workflows on their own, so your team
 
 W _orkspace agents are available in research preview for ChatGPT Business, Enterprise, Edu, and Teachers plans._
 
+  
+
+
 ![Team directory list view showing agents Spark, Slate, Tally, and Scout with icons, creator names, and short descriptions of their functions.](https://images.ctfassets.net/kftzwdyauwt9/4WzVxih3n4ifMlkpTrBhuU/db3e956db9ec955fe5d69207658bba1d/OpenAI_1X1_Hero.png?w=3840&q=90&fm=webp)
 
 ### Customizable agents that run real work

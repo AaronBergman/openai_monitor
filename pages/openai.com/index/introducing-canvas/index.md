@@ -26,15 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Better collaboration with ChatGPT
-
-  * Better collaboration with ChatGPT
-  * Coding in canvas
-  * Training the model to become a collaborator
-  * What’s next
-
-
-
 October 3, 2024
 
 [Product](</news/product-releases/>)
@@ -46,6 +37,24 @@ October 3, 2024
 Loading…
 
 Share
+
+Better collaboration with ChatGPT
+
+  * Better collaboration with ChatGPT
+  * Coding in canvas
+  * Training the model to become a collaborator
+  * What’s next
+
+
+
+Table of contents
+
+  * Better collaboration with ChatGPT
+  * Coding in canvas
+  * Training the model to become a collaborator
+  * What’s next
+
+
 
 We’re introducing canvas, a new interface for working with ChatGPT on writing and coding projects that go beyond simple chat. Canvas opens in a separate window, allowing you and ChatGPT to collaborate on a project. This early beta introduces a new way of working together—not just through conversation, but by creating and refining ideas side by side. 
 

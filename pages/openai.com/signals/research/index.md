@@ -30,7 +30,7 @@ OpenAI
 
 Research and analysis on how AI is being adopted and its impact on the economy and society.
 
-OpenAI’s Economic Research and Global Affairs teams periodically publish reports and analysis on the state of AI in the economy and society, which you can find here. These materials are intended to help policymakers, researchers, organizations, and the public understand how AI is being adopted in practice and to ground the broader conversation about AI’s economic and societal impacts in evidence.
+OpenAI’s Economic Research team periodically publishes reports and analysis on the state of AI in the economy and society, which you can find here. These materials are intended to help policymakers, researchers, organizations, and the public understand how AI is being adopted in practice and to ground the broader conversation about AI’s economic and societal impacts in evidence.
 
 Explore the latest resources below, including country-focused Signals reports, research on how people use ChatGPT, and briefings on enterprise adoption and productivity outcomes.
 

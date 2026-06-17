@@ -26,14 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-A new interface just for Sora
-
-  * A new interface just for Sora
-  * Sora availability and subscriptions
-  * Our approach to deployment
-
-
-
 December 9, 2024
 
 [Product](</news/product-releases/>)
@@ -47,6 +39,22 @@ We’re moving our video generation model out of research preview.
 Loading…
 
 Share
+
+A new interface just for Sora
+
+  * A new interface just for Sora
+  * Sora availability and subscriptions
+  * Our approach to deployment
+
+
+
+Table of contents
+
+  * A new interface just for Sora
+  * Sora availability and subscriptions
+  * Our approach to deployment
+
+
 
  _As of April 26, 2026, the Sora product is no longer available._
 

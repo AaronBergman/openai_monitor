@@ -26,17 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Mission alignment
-
-  * Mission alignment
-  * Answer independence
-  * Conversation privacy
-  * Choice and control
-  * Long-term value
-  * What’s next
-
-
-
 May 7, 2026
 
 [Company](</news/company-announcements/>)[Product](</news/product-releases/>)
@@ -48,6 +37,28 @@ Ads that support free access and don’t change ChatGPT answers.
 Loading…
 
 Share
+
+Mission alignment
+
+  * Mission alignment
+  * Answer independence
+  * Conversation privacy
+  * Choice and control
+  * Long-term value
+  * What’s next
+
+
+
+Table of contents
+
+  * Mission alignment
+  * Answer independence
+  * Conversation privacy
+  * Choice and control
+  * Long-term value
+  * What’s next
+
+
 
  _**Update on May 7, 2026**_ _: In the coming weeks, we plan to expand the ads pilot in ChatGPT in the United Kingdom, Mexico, Brazil, Japan, and South Korea._
 
@@ -128,17 +139,17 @@ OpenAI
 
 [View all](</news/>)
 
-![Confidential submission of draft S-1 to the SEC > cover image](https://images.ctfassets.net/kftzwdyauwt9/36doI12YCwUtp1hzD4d8bj/84e67c565f39e7d5ca3ee011efa69756/confidential-submission-of-draft-s-1-to-the-sec-1x1.png?w=3840&q=90&fm=webp)
+![Intro-OAI-Partner-ArtCard](https://images.ctfassets.net/kftzwdyauwt9/U6bb3rlwvYyhf2q835WWx/d50f5492dded3c21aa6d69c07d3b2a44/Introducing_OAI_Partner_Network_artcard.png?w=3840&q=90&fm=webp)
 
-[Confidential submission of draft S-1 to the SECCompanyJun 8, 2026](</index/openai-submits-confidential-s-1/>)
+[Introducing the OpenAI Partner NetworkProductJun 14, 2026](</index/introducing-openai-partner-network/>)
 
-![Built for broad benefit > cover](https://images.ctfassets.net/kftzwdyauwt9/bEe28mW3dEOj9pKJsPp2u/13f7bed9e86b0667ba924479d62f98e4/Art_Card_1080x1080_1.png?w=3840&q=90&fm=webp)
+![OpenAI acquires Ona > oai 1x1](https://images.ctfassets.net/kftzwdyauwt9/6SkgXCQ08f4AYarun2I3oU/24414c9962c945767f783bdb63006841/OAI-Ona-ArtCard.png?w=3840&q=90&fm=webp)
 
-[Built to benefit everyone: our planCompanyJun 8, 2026](</index/built-to-benefit-everyone-our-plan/>)
+[OpenAI to acquire OnaCompanyJun 11, 2026](</index/openai-to-acquire-ona/>)
 
-![Economic research forum > art card ](https://images.ctfassets.net/kftzwdyauwt9/2DpNjvjdVuCrLKNOrFrWJ7/1aefe1cbe252bcd9ba42035469fc8a0f/art_card.png?w=3840&q=90&fm=webp)
+![Oracle partnership 1x1 art card](https://images.ctfassets.net/kftzwdyauwt9/7zjGwFPBZMvK6zwFSMVWRm/6721ac33e5b1aaf88a9b705a3d10c90a/OAI_Oracle_Partnership_1x1_Art_Card.png?w=3840&q=90&fm=webp)
 
-[Introducing the OpenAI Economic Research ExchangeCompanyJun 8, 2026](</index/economic-research-exchange/>)
+[Access OpenAI models and Codex through your Oracle cloud commitmentCompanyJun 10, 2026](</index/openai-on-oracle-cloud/>)
 
 Research
 

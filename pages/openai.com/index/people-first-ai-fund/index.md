@@ -26,6 +26,18 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
+September 8, 2025
+
+[Company](</news/company-announcements/>)[Global Affairs](</news/global-affairs/>)
+
+# A People-First AI Fund: $50M to support nonprofits
+
+![Soft pastel gradient background with flowing pink, yellow, and mint tones blending together diagonally, creating a warm and uplifting effect.](https://images.ctfassets.net/kftzwdyauwt9/2rIvKwRilLSmyUWBKsXy7J/2c8d43b6a62de92be19df5d048bcc444/oai_GA_Stories_16.9.png?w=3840&q=90&fm=webp)
+
+Loading…
+
+Share
+
 What we’re funding
 
   * What we’re funding
@@ -34,19 +46,13 @@ What we’re funding
 
 
 
-September 8, 2025
+Table of contents
 
-[Company](</news/company-announcements/>)[Global Affairs](</news/global-affairs/>)
+  * What we’re funding
+  * Eligibility criteria
+  * How to apply
 
-# A People-First AI Fund: $50M to support nonprofits
 
-[Apply(opens in a new window)](<https://peoplefirst.fluxx.io/apply/rfp>)
-
-![Soft pastel gradient background with flowing pink, yellow, and mint tones blending together diagonally, creating a warm and uplifting effect.](https://images.ctfassets.net/kftzwdyauwt9/2rIvKwRilLSmyUWBKsXy7J/2c8d43b6a62de92be19df5d048bcc444/oai_GA_Stories_16.9.png?w=3840&q=90&fm=webp)
-
-Loading…
-
-Share
 
 At OpenAI, ensuring broad deployment of benefits and applying an iterative approach to innovation is core to who we are. We believe AI should help solve humanity’s hardest problems, and that we should listen to and learn from organizations already leading that work on the frontlines.
 
@@ -105,17 +111,17 @@ OpenAI
 
 [View all](</news/>)
 
-![oai 1x1 Biodefense in the Intelligence Age](https://images.ctfassets.net/kftzwdyauwt9/6A4rrCBs9rrlbzm9JWIvSi/8a4ae56849fcd0b16e90b59b8babc613/oai_1x1_Biodefense_in_the_Intelligence_Age.png?w=3840&q=90&fm=webp)
+![Supporting Europe’s work in ensuring a trustworthy AI ecosystem  > art card](https://images.ctfassets.net/kftzwdyauwt9/U3OuQtdga2BaxWxb0e2ge/2fdc2fb1cf5c70a8f77fc4b55236aa78/Frame2.png?w=3840&q=90&fm=webp)
 
-[Biodefense in the Intelligence AgeGlobal AffairsJun 4, 2026](</index/biodefense-in-the-intelligence-age/>)
+[Supporting Europe’s work in ensuring a trustworthy AI ecosystem Global AffairsJun 11, 2026](</index/supporting-eu-trustworthy-ai-ecosystem/>)
 
-![OpenAI’s public policy agenda > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/CdH7XdsXfpUaYZJpeCwwz/76b975c66fce3ce5ec4a901b4f675369/Frame.png?w=3840&q=90&fm=webp)
+![OpenAI acquires Ona > oai 1x1](https://images.ctfassets.net/kftzwdyauwt9/6SkgXCQ08f4AYarun2I3oU/24414c9962c945767f783bdb63006841/OAI-Ona-ArtCard.png?w=3840&q=90&fm=webp)
 
-[OpenAI public policy agendaGlobal AffairsJun 3, 2026](</index/public-policy-agenda/>)
+[OpenAI to acquire OnaCompanyJun 11, 2026](</index/openai-to-acquire-ona/>)
 
-![Frontier Safety Blueprint > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/6zU111Ouj65b8iZJnswHBe/a705de1c90ab048510532db2f53f12f3/Frame.png?w=3840&q=90&fm=webp)
+![Oracle partnership 1x1 art card](https://images.ctfassets.net/kftzwdyauwt9/7zjGwFPBZMvK6zwFSMVWRm/6721ac33e5b1aaf88a9b705a3d10c90a/OAI_Oracle_Partnership_1x1_Art_Card.png?w=3840&q=90&fm=webp)
 
-[A blueprint for democratic governance of frontier AIGlobal AffairsJun 3, 2026](</index/frontier-safety-blueprint/>)
+[Access OpenAI models and Codex through your Oracle cloud commitmentCompanyJun 10, 2026](</index/openai-on-oracle-cloud/>)
 
 Research
 

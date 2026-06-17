@@ -26,6 +26,14 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
+# Minnesota’s Enterprise Translation Office uses ChatGPT to bridge language gaps
+
+![State of Minnesota > Hero > Media](https://images.ctfassets.net/kftzwdyauwt9/5DUlXfFXrJKnjFfGGZWVID/cc56edff1e08b60840e382ff594c9af8/oai_minnesota_hero.png?w=3840&q=90&fm=webp)
+
+Loading…
+
+Share
+
 Using ChatGPT to improve accuracy, speed, and equity
 
   * Using ChatGPT to improve accuracy, speed, and equity
@@ -35,13 +43,14 @@ Using ChatGPT to improve accuracy, speed, and equity
 
 
 
-# Minnesota’s Enterprise Translation Office uses ChatGPT to bridge language gaps
+Table of contents
 
-![State of Minnesota > Hero > Media](https://images.ctfassets.net/kftzwdyauwt9/5DUlXfFXrJKnjFfGGZWVID/cc56edff1e08b60840e382ff594c9af8/oai_minnesota_hero.png?w=3840&q=90&fm=webp)
+  * Using ChatGPT to improve accuracy, speed, and equity
+  * Delivering tangible benefits to Minnesotans
+  * Supporting the Department of Administration with tailored language solutions
+  * Advancing inclusion through translation
 
-Loading…
 
-Share
 
 For government services to be truly effective, they must be accessible to all residents. Removing language barriers is essential to high quality public service. This is the founding principle of the State of Minnesota’s Enterprise Translations Office (ETO), established in 2023 to provide dedicated translation services for the state’s Executive Branch.
 

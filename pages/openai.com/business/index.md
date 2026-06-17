@@ -84,7 +84,7 @@ Create AI applications, experiences, and automated operations.
 
 ![Notion > cover image](https://images.ctfassets.net/kftzwdyauwt9/2HBxiM1dDPpM1W56ehwgNi/01dc3dafe6aedcabc9808446492523ea/oai_Notion_1x1.png?w=3840&q=90&fm=webp)
 
-[Notion’s GPT‑5 rebuild unlocks autonomous AI workflowsAPI](</index/notion/>)
+[What Codex unlocks for NotionAPI](</index/notion/>)
 
 ![zendesk > cover image](https://images.ctfassets.net/kftzwdyauwt9/48NTEow1OGyg7iLssq1xeW/d4e214fac769591d99f34269f25a4bea/oai_Zendesk_1_1.png?w=3840&q=90&fm=webp)
 

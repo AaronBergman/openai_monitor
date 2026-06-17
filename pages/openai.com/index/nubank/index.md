@@ -26,6 +26,14 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
+# Nubank elevates customer experiences with OpenAI
+
+![A digital image features the white lowercase letters "nu" in the center, set against a vibrant, abstract background of purple and pink brushstrokes with hints of orange and blue. The design resembles a painted texture with soft, blended shapes.](https://images.ctfassets.net/kftzwdyauwt9/5njJSLFodk0rzxMhmTshsp/178c1f10803f98ea1ee584b9bf8597b6/oai_nubank_16_9.png?w=3840&q=90&fm=webp)
+
+Loading…
+
+Share
+
 Accelerating productivity with custom enterprise search
 
   * Accelerating productivity with custom enterprise search
@@ -34,13 +42,13 @@ Accelerating productivity with custom enterprise search
 
 
 
-# Nubank elevates customer experiences with OpenAI
+Table of contents
 
-![A digital image features the white lowercase letters "nu" in the center, set against a vibrant, abstract background of purple and pink brushstrokes with hints of orange and blue. The design resembles a painted texture with soft, blended shapes.](https://images.ctfassets.net/kftzwdyauwt9/5njJSLFodk0rzxMhmTshsp/178c1f10803f98ea1ee584b9bf8597b6/oai_nubank_16_9.png?w=3840&q=90&fm=webp)
+  * Accelerating productivity with custom enterprise search
+  * Elevating customer service with GPT-4o
+  * Using vision to address and prevent fraud
 
-Loading…
 
-Share
 
 Since its founding in 2013, Nubank—one of the world’s largest digital financial services platforms—has changed how millions across Latin America manage their money, offering fee-free accounts, credit cards without annual fees, and seamless, personalized customer service. Today, Nubank serves over 114 million customers in Brazil, Mexico, and Colombia.
 

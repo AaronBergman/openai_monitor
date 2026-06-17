@@ -26,14 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-English to Icelandic
-
-  * English to Icelandic
-  * Cultural context
-  * Room for improvement
-
-
-
 # Government of Iceland
 
 [View product](</index/gpt-4/>)
@@ -43,6 +35,22 @@ English to Icelandic
 Loading…
 
 Share
+
+English to Icelandic
+
+  * English to Icelandic
+  * Cultural context
+  * Room for improvement
+
+
+
+Table of contents
+
+  * English to Icelandic
+  * Cultural context
+  * Room for improvement
+
+
 
 ![A photograph of a car drives along a narrow road flanked by water on both sides, with snow-capped mountains rising in the background under clear skies.](https://images.ctfassets.net/kftzwdyauwt9/7yKav4WSpyD0viJZKJAvgG/647b575ee05b7dbfb4e59c671e1fbc0a/iceland-scenery.jpg?w=3840&q=90&fm=webp)
 

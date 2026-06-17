@@ -57,7 +57,7 @@ We are updating our security certificates, which will require all macOS users to
 
 The security and privacy of your information are a top priority. We’re committed to being transparent and taking quick action when issues arise. We're sharing more technical details and FAQs below.
 
-#### What happened and what we are doing
+### What happened and what we are doing
 
 On March 31, 2026 (UTC), Axios, a widely used third-party developer library, [_was compromised as part of a broader software supply chain attack._ ⁠(opens in a new window)](<https://cloud.google.com/blog/topics/threat-intelligence/north-korea-threat-actor-targets-axios-npm-package>) At that time, a GitHub Actions workflow we use in the macOS app-signing process downloaded and executed a malicious version of Axios (version 1.14.1). This workflow had access to a certificate and notarization material used for signing macOS applications, including ChatGPT Desktop, Codex, Codex-cli, and Atlas. This certificate helps customers know that software comes from the legitimate developer, OpenAI. 
 
@@ -72,7 +72,7 @@ Effective May 8, 2026, older versions of our macOS desktop apps will no longer r
 
 
 
-#### Investigation and remediation efforts
+### Investigation and remediation efforts
 
 As part of our investigation and response, we engaged a third-party digital forensics and incident response firm, rotated our macOS code signing certificate, published new builds of all relevant macOS products with the new certificate, and are working with Apple to ensure software signed with the previous certificate cannot be newly notarized. We have also reviewed all notarization of software using our previous certificate to confirm no unexpected software notarization occurred with these keys, and validated that our published software did not have unauthorized modifications. At this time, we have found no evidence of compromise or risk to existing software installations.
 

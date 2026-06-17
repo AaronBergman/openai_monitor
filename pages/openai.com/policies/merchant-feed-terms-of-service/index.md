@@ -26,7 +26,11 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Published: June 3, 2026
+Select language
+
+…
+
+Published: June 15, 2026
 
 # OpenAI Merchant Feed Terms of Service
 
@@ -40,7 +44,7 @@ Merchant may submit (itself or through its agent(s)) product content (“ _Merch
 
   * Merchant is responsible for Merchant Content it submits to OpenAI.
   * Merchant will ensure that Merchant Content complies with (i) OpenAI’s Prohibited Products Policies at [_https://openai.com/policies/commerce-policies/_ ⁠](<https://openai.com/policies/commerce-policies/>) and all other policies made available by OpenAI to Merchant, as may be modified by OpenAI periodically (collectively, “ _Policies_ ”), (ii) these Terms and (iii) applicable law(s).
-  * If Merchant Content contains any Personal Data (as defined in Exhibit A) such as reviews, the parties will comply with Exhibit A with respect to such Personal Data. 
+  * If Merchant Content contains any Personal Data (as defined in Exhibit A) such as reviews, the parties will comply with Exhibit A with respect to such Personal Data.
 
 
 
@@ -56,7 +60,16 @@ Merchant may submit (itself or through its agent(s)) product content (“ _Merch
 
 
 
-## 4\. Warranties
+## 4\. Confidentiality
+
+  *  _Use and Disclosure_. Recipient will: (a) use discloser’s Confidential Information only to exercise its rights and fulfill its obligations under these Terms; (b) take reasonable measures to protect the confidentiality of discloser’s Confidential Information; and (c) not disclose discloser’s Confidential Information to any third party except as expressly permitted in these Terms. “ _Confidential Information_ ” means any business, technical or financial information, materials, or other subject matter disclosed by discloser to recipient that is: (a) identified as confidential at the time of disclosure; or (b) should be reasonably understood by recipient to be confidential under the circumstances. For clarity, the Merchant Content does not constitute Confidential Information.
+  * _Exceptions_. The obligations in this Section 4 do not apply to information that: (a) is or becomes generally available to the public through no fault of recipient; (b) was in recipient’s possession or known by it prior to receipt from discloser; (c) was rightfully disclosed to recipient without restriction by a third party; or (d) was independently developed without use of discloser’s Confidential Information. 
+  *  _Permitted Disclosure_. Recipient may disclose Confidential Information only to its Affiliates, employees, contractors, and agents who have a need to know and who are bound by confidentiality obligations at least as restrictive as those in these Terms. Recipient will be responsible for any breach of this Section 4 by its employees, contractors, and agents. Recipient may also disclose Confidential Information to the extent required by applicable law or legal process, and, where legally permitted, recipient will provide discloser reasonable notice and cooperation to seek protective treatment. 
+  *  _Remedies._ Recipient acknowledges that disclosure of Confidential Information in violation of these Terms would cause substantial harm for which damages alone would not be a sufficient remedy, and therefore upon any such disclosure by recipient, discloser will be entitled to seek appropriate equitable relief in addition to whatever other remedies it might have at law.
+
+
+
+## 5\. Warranties
 
   * Merchant warrants that it: (i) has full power and authority to enter into these Terms; and (ii) will comply with applicable law in the exercise of its rights and performance of its obligations under these Terms.
   * Merchant represents and warrants that:
@@ -71,46 +84,46 @@ Merchant may submit (itself or through its agent(s)) product content (“ _Merch
 
 
 
-##  5\. Limitation of Liability
+##  6\. Limitation of Liability
 
-  *  _Limitation on Indirect Liability_**. To the fullest extent permitted by law, except for (a) gross negligence/willful misconduct or (b) indemnification obligations, neither party is liable for indirect, incidental, special, consequential, or punitive damages (including lost profits), even if foreseeable.**
+  *  _Limitation on Indirect Liability_**. To the fullest extent permitted by law, except for (a) gross negligence/willful misconduct, (b) indemnification obligations, or (c) confidentiality obligations, neither party is liable for indirect, incidental, special, consequential, or punitive damages (including lost profits), even if foreseeable.**
   * _Liability Cap_**. To the fullest extent permitted by law, OpenAI’s total liability will not exceed $1,000.**
 
 
 
-##  6\. Indemnification
+##  7\. Indemnification
 
   * Merchant will indemnify, hold harmless, and defend OpenAI and its Affiliates (and their respective employees, officers, and directors) from and against all liabilities, damages, losses, costs, fees (including reasonable legal fees), and expenses relating to any third-party allegation, claim, action, suit, or proceeding (“ _Third Party Claim_ ”) arising out of or related to Merchant Content or any breach of these Terms by Merchant. 
   * OpenAI will provide prompt written notice when seeking indemnification, reasonable cooperation, and allow you sole control of the defense/settlement (with customary consent limits), provided that OpenAI may participate in its own defense at its sole expense.
 
 
 
-## 7\. Termination
+## 8\. Termination
 
 Either party may terminate these Terms by written notice to the other party for any reason or no reason upon 30 days’ written notice.**** Merchant may cease to provide the Merchant Content to OpenAI at any time. Neither termination of these Terms nor any other provision of these Terms will require OpenAI or its Affiliates to modify, delete, or cease providing any OpenAI Service (and Merchant hereby waives and agrees not to assert any claim for any equitable remedy, including injunctive relief, against OpenAI or any of Affiliates with respect to any of the foregoing matters).
 
-## 8\. Sanctions, Export Control, and International Trade Compliance
+## 9\. Sanctions, Export Control, and International Trade Compliance
 
 With respect to all of its activities pursuant to these Terms, Merchant, including its respective officers, directors, employees, subsidiaries, and/or any other person acting on its behalf: shall comply with all applicable international trade, economic sanctions, and export control laws and regulations with respect to its activities pursuant to these Terms, including U.S. (including the regulations administered by the U.S. Department of the Treasury’s Office of Foreign Asset Controls (“OFAC”) and the U.S. Department of Commerce’s Bureau of Industry and Security (“BIS”)), EU, UK, and UN laws, regulations, and resolutions (“International Trade Laws”); represents that neither Merchant nor any of its respective parents or subsidiaries is (1) included on any sanctioned party or export control restricted party list maintained by the United States, EU, UK, or UN (collectively, “Restricted Party Lists”; such persons on Restricted Party Lists, a “Restricted Party”), (2) owned or controlled by a Restricted Party, (3) owned or controlled by or acting on behalf of any individual or entity located or resident in or organized under the laws of Cuba, Iran, North Korea, or the Crimea region of Ukraine or the so-called Donetsk or Luhansk People’s Republics (each of these, a “Sanctioned Jurisdiction”); or (4) owned or controlled by or acting on behalf of the government of Venezuela; and represents and warrants that Merchant will not take any action pursuant to these Terms that will cause OpenAI to violate International Trade Laws, including with respect to their products; and will promptly notify, to the extent legally permissible, OpenAI of any known noncompliance with this provision.
 
-## 9\. Changes to Terms
+## 10\. Changes to Terms
 
 OpenAI may make non-material changes to these Terms at any time without notice, but OpenAI will provide advance notice of any changes to these Terms that materially impact Merchant’s rights or obligations. Changes to the Terms will not apply retroactively and will become effective at least 15 days after being posted or otherwise made available to Merchant. However, changes made for legal reasons or in urgent situations (such as preventing ongoing abuse) will be effective immediately upon notice.
 
-## 10\. Governing Law; Dispute Resolution
+## 11\. Governing Law; Dispute Resolution
 
-Before filing a claim, each party agrees to try to resolve the dispute by contacting the other party through the notice procedures in Section 11 below. If a dispute is not resolved within thirty days of such notice, Merchant or OpenAI may initiate a formal proceeding pursuant to this Section. These Terms will be governed by the laws of the State of California, without regard to its conflict of laws provisions. Any dispute, controversy, or claim arising out of or relating to these Terms or to a breach thereof, including its interpretation, performance, or termination, will be finally resolved by arbitration in San Francisco, California, using the English language in accordance with the Commercial Arbitration Rules of the American Arbitration Association, JAMS, or equivalent, by one independent, disinterested commercial arbitrator appointed in accordance with such rules. The prevailing party in the arbitration will be entitled to receive reimbursement of its reasonable expenses (including reasonable attorneys’ fees, expert witness fees and all other expenses) incurred in connection therewith. The parties agree that all claims will be brought solely in their individual capacities and not as plaintiffs or class members in any purported class, consolidated, or representative proceeding. The arbitrator may not consolidate more than one person’s claims or otherwise preside over any form of a representative or class proceeding.
+Before filing a claim, each party agrees to try to resolve the dispute by contacting the other party through the notice procedures in Section 12 below. If a dispute is not resolved within thirty days of such notice, Merchant or OpenAI may initiate a formal proceeding pursuant to this Section. These Terms will be governed by the laws of the State of California, without regard to its conflict of laws provisions. Any dispute, controversy, or claim arising out of or relating to these Terms or to a breach thereof, including its interpretation, performance, or termination, will be finally resolved by arbitration in San Francisco, California, using the English language in accordance with the Commercial Arbitration Rules of the American Arbitration Association, JAMS, or equivalent, by one independent, disinterested commercial arbitrator appointed in accordance with such rules. The prevailing party in the arbitration will be entitled to receive reimbursement of its reasonable expenses (including reasonable attorneys’ fees, expert witness fees and all other expenses) incurred in connection therewith. The parties agree that all claims will be brought solely in their individual capacities and not as plaintiffs or class members in any purported class, consolidated, or representative proceeding. The arbitrator may not consolidate more than one person’s claims or otherwise preside over any form of a representative or class proceeding.
 
-## 11\. Miscellaneous
+## 12\. Miscellaneous
 
   * (a) These Terms are the parties’ entire agreement relating to their subject matter and supersede any prior or contemporaneous agreements on those subjects. (b) Merchant may not make any public statement regarding the relationship contemplated by these Terms (except when required by law with notice to OpenAI). 
-  * (c) Except for modifications to the Terms by OpenAI under Section 9, any amendment to these Terms must be agreed to in writing by both parties and must expressly state that it is amending these Terms. 
+  * (c) Except for modifications to the Terms by OpenAI under Section 10, any amendment to these Terms must be agreed to in writing by both parties and must expressly state that it is amending these Terms. 
   * (d) Notices must be in writing and are deemed given when received, as confirmed by written or electronic means. Notices to OpenAI must be sent to: contract-notices@openai.com, with a copy to 1455 Third Street, San Francisco, CA 94158, Attn: Legal. Notices to Merchant will be addressed to Merchant’s Legal Department (or if the contact information for Merchant’s Legal Department is not known then to Merchant's primary contact or other address on file). 
   * (e) No waiver of any of the provisions of these Terms will constitute a waiver of any other provision (whether or not similar). No waiver will be binding unless executed in writing by the party to be bound by the waiver.
   * (f) If any provision of these Terms is found unenforceable, that provision will be severed and the remaining provisions of the Terms will continue in full force and effect. 
   * (g) Neither party may assign any of its rights or obligations under these Terms without the written consent of the other party, except to an Affiliate but only where (i) the assignee agrees in writing to be bound by these Terms, (ii) the assigning party remains liable for obligations under these Terms if the assignee defaults on them, and (iii) the assigning party has notified the other party in writing of the assignment. OpenAI may assign any of its rights or obligations under these Terms without consent or notice in the event of a corporate reorganization. Any other attempt to transfer or assign is void. 
   * (h) There are no third-party beneficiaries to these Terms. These Terms do not create any agency, partnership, joint venture or employment relationship among the parties. The parties do not intend to create any joint works under these Terms.
-  * (j)The following provisions will survive any expiration or termination of these Terms: 3-7 and 10-11. 
+  * (j)The following provisions will survive any expiration or termination of these Terms: 3-9, and 11-12.
 
 
 
@@ -126,7 +139,8 @@ The parties acknowledge and agree that the Merchant Content may include Personal
 
 To the extent the Merchant Content includes Personal Data, OpenAI understands the nature and sensitivity of such Personal Data and shall at all times: (i) comply with Data Protection Legislation, rules, and regulations in respect of its processing of the Personal Data; (ii) ensure that it has measures in place to provide accurate transparency information; and (iii) ensure that it has measures in place to comply with rights requests received from individuals in respect of individuals’ rights under Data Protection Legislation.
 
-Unless prohibited from doing so by applicable law, in the event that either party receives a request, enquiry or complaint from a regulator appointed under Data Protection Legislation or any other regulatory or governmental body in respect of Personal Data processed under these Terms, the other party shall, as requested, assist them in responding to any such complaints.
+Unless prohibited from doing so by applicable law, in the event that either party receives a request, enquiry or complaint from a regulator appointed under Data Protection Legislation or any other regulatory or governmental body in respect of Personal Data processed under these Terms, the other party shall, as requested, assist them in responding to any such complaints.  
+
 
 Research
 

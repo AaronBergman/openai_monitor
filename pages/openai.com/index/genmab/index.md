@@ -26,6 +26,12 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
+# Genmab launches “AI Everywhere” 
+
+Loading…
+
+Share
+
 Adopting ChatGPT across operations
 
   * Adopting ChatGPT across operations
@@ -34,11 +40,13 @@ Adopting ChatGPT across operations
 
 
 
-# Genmab launches “AI Everywhere” 
+Table of contents
 
-Loading…
+  * Adopting ChatGPT across operations
+  * Using ChatGPT for research, workflows, and translation 
+  * Building a meaningful partnership to advance science
 
-Share
+
 
 [Genmab⁠(opens in a new window)](<https://www.genmab.com/>), a leading global biotechnology company, is pioneering next-generation antibody therapies to treat cancer and other serious diseases. Their mission is ambitious: to revolutionize patient care with transformative “knock-your-socks-off” (KYSO®) antibody treatments. 
 
