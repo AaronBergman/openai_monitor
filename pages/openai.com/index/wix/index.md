@@ -41,18 +41,26 @@ Share
 A conversational website builder for everyone 
 
   * A conversational website builder for everyone 
+
   * Populating quality site content with OpenAI’s API
+
   * Making website creation accessible to everyone through ChatGPT
+
   * Using AI to benefit every role
+
 
 
 
 Table of contents
 
   * A conversational website builder for everyone 
+
   * Populating quality site content with OpenAI’s API
+
   * Making website creation accessible to everyone through ChatGPT
+
   * Using AI to benefit every role
+
 
 
 

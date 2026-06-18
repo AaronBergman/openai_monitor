@@ -39,16 +39,22 @@ Share
 AI-powered insights for smarter, quicker business strategy
 
   * AI-powered insights for smarter, quicker business strategy
+
   * Time-intensive coding that needs artificial intelligence
+
   * Using GPT-3 to deliver more complex insights, more swiftly
+
 
 
 
 Table of contents
 
   * AI-powered insights for smarter, quicker business strategy
+
   * Time-intensive coding that needs artificial intelligence
+
   * Using GPT-3 to deliver more complex insights, more swiftly
+
 
 
 

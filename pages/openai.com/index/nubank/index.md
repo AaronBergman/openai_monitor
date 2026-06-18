@@ -37,16 +37,22 @@ Share
 Accelerating productivity with custom enterprise search
 
   * Accelerating productivity with custom enterprise search
+
   * Elevating customer service with GPT-4o
+
   * Using vision to address and prevent fraud
+
 
 
 
 Table of contents
 
   * Accelerating productivity with custom enterprise search
+
   * Elevating customer service with GPT-4o
+
   * Using vision to address and prevent fraud
+
 
 
 

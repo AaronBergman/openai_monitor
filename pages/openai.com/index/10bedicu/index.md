@@ -37,14 +37,18 @@ Share
 Delivering care in a time of great need
 
   * Delivering care in a time of great need
+
   * Building on OpenAI models
+
 
 
 
 Table of contents
 
   * Delivering care in a time of great need
+
   * Building on OpenAI models
+
 
 
 

@@ -39,18 +39,26 @@ Share
 Helping enterprises move from ambition to outcome with AI
 
   * Helping enterprises move from ambition to outcome with AI
+
   * How the OpenAI Partner Network works
+
   * Building a global ecosystem for AI transformation
+
   * Expanding access to AI’s benefits
+
 
 
 
 Table of contents
 
   * Helping enterprises move from ambition to outcome with AI
+
   * How the OpenAI Partner Network works
+
   * Building a global ecosystem for AI transformation
+
   * Expanding access to AI’s benefits
+
 
 
 

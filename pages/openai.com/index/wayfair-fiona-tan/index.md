@@ -43,20 +43,30 @@ Share
 Why do you think AI is especially critical for ecommerce?
 
   * Why do you think AI is especially critical for ecommerce?
+
   * Beyond customer improvements, how is Wayfair fostering AI fluency within the organization?
+
   * How do you measure the success of these AI initiatives?
+
   * What’s next for AI at Wayfair?
+
   * How do you see AI reshaping the future of ecommerce?
+
 
 
 
 Table of contents
 
   * Why do you think AI is especially critical for ecommerce?
+
   * Beyond customer improvements, how is Wayfair fostering AI fluency within the organization?
+
   * How do you measure the success of these AI initiatives?
+
   * What’s next for AI at Wayfair?
+
   * How do you see AI reshaping the future of ecommerce?
+
 
 
 

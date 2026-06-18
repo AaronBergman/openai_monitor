@@ -26,20 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-When will the AI Act apply? 
-
-  * When will the AI Act apply? 
-  * Who is covered? 
-  * Application to companies established outside the EU 
-  * Risk-Based Regulation
-  * Prohibited AI Practices
-  * High-Risk AI Systems 
-  * Minimal or Minor-Risk AI Systems
-  * General Purpose AI (GPAI) 
-  * Next Steps and How to Prepare for Compliance 
-
-
-
 Published: July 30, 2024
 
 [Company](</news/company-announcements/>)[Global Affairs](</news/global-affairs/>)
@@ -50,7 +36,53 @@ We’re sharing a preliminary overview of the EU AI Act including upcoming deadl
 
 Share
 
-** _Update from July 11, 2025_** _: Following the publication of the final text of the Code of Practice for General Purpose AI, we’re sharing an overview of how we are approaching the entry into force of provisions applicable to General Purpose AI Models on August 2, 2025._
+When will the AI Act apply? 
+
+  * When will the AI Act apply? 
+
+  * Who is covered? 
+
+  * Application to companies established outside the EU 
+
+  * Risk-Based Regulation
+
+  * Prohibited AI Practices
+
+  * High-Risk AI Systems 
+
+  * Minimal or Minor-Risk AI Systems
+
+  * General Purpose AI (GPAI) 
+
+  * Next Steps and How to Prepare for Compliance 
+
+
+
+
+Table of contents
+
+  * When will the AI Act apply? 
+
+  * Who is covered? 
+
+  * Application to companies established outside the EU 
+
+  * Risk-Based Regulation
+
+  * Prohibited AI Practices
+
+  * High-Risk AI Systems 
+
+  * Minimal or Minor-Risk AI Systems
+
+  * General Purpose AI (GPAI) 
+
+  * Next Steps and How to Prepare for Compliance 
+
+
+
+
+**_Update from July 11, 2025_** _: Following the publication of the final text of the Code of Practice for General Purpose AI, we’re sharing an overview of how we are approaching the entry into force of provisions applicable to General Purpose AI Models on August 2, 2025._
 
 _Last year, we published this primer on the EU AI Act to lay out preliminary insight into how we were preparing for the implementation of these new legal requirements._
 

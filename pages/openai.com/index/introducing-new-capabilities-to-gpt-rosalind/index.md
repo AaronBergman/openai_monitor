@@ -41,20 +41,42 @@ Share
 Improving performance on scientifically-valuable tasks
 
   * Improving performance on scientifically-valuable tasks
+
   * Stronger scientific reasoning
+
+    * Medicinal chemistry
+
+    * Genomics and quantitative biology
+
+    * Assisting real-world lab work
+
   * From reasoning to executed workflows
+
   * Expanded access for trusted organizations
+
   * What’s next
+
 
 
 
 Table of contents
 
   * Improving performance on scientifically-valuable tasks
+
   * Stronger scientific reasoning
+
+    * Medicinal chemistry
+
+    * Genomics and quantitative biology
+
+    * Assisting real-world lab work
+
   * From reasoning to executed workflows
+
   * Expanded access for trusted organizations
+
   * What’s next
+
 
 
 
@@ -70,7 +92,7 @@ In order to measure and continuously improve the real-world impact of GPT‑Rosa
 
 GPT‑Rosalind leads performance across scientifically-valuable tasks identified by industry and academic experts.
 
-Evidence HandlingAnalysisDesign, Optimization, & PredictionReasoningValidation & OperationsTranslation & Scientific Communication
+Evidence HandlingAnalysisDesign, Optimization, & PredictionReasoningValidation & OperationsTranslationScientific Communication
 
 Extracting, reconciling, and auditing scientific evidence from papers, figures, tables, and experimental records.
 
@@ -216,19 +238,17 @@ We will continue building [GPT‑Rosalind](</gpt-rosalind/>) to become a more ca
 
 [View all](</news/>)
 
+![A near-autonomous AI chemist improves a challenging reaction](https://images.ctfassets.net/kftzwdyauwt9/QgPPg4etNE5C4Ao0G94sk/e5f2a50e5de4619d0e0fe8483698718b/molecule-one-art-card.png?w=3840&q=90&fm=webp)
+
+[A near-autonomous AI chemist improves a challenging reaction in medicinal chemistryResearchJun 17, 2026](</index/ai-chemist-improves-reaction/>)
+
+![LifeSciBench 1x1](https://images.ctfassets.net/kftzwdyauwt9/1iV0eZRf28MZRvIxYY4eLf/4379e20807f5ff44efccf518a97e480a/LifeSciBench_1x1.png?w=3840&q=90&fm=webp)
+
+[Introducing LifeSciBenchResearchJun 17, 2026](</index/introducing-life-sci-bench/>)
+
 ![Production Resampling > Art Card](https://images.ctfassets.net/kftzwdyauwt9/6TwSElUf3XVkAiLOvIis8O/de2de5d4b9f94a3dea5403702a4f34ce/Art_Card.png?w=3840&q=90&fm=webp)
 
 [Predicting model behavior before release by simulating deploymentResearchJun 16, 2026](</index/deployment-simulation/>)
-
-![Intro-OAI-Partner-ArtCard](https://images.ctfassets.net/kftzwdyauwt9/U6bb3rlwvYyhf2q835WWx/d50f5492dded3c21aa6d69c07d3b2a44/Introducing_OAI_Partner_Network_artcard.png?w=3840&q=90&fm=webp)
-
-[Introducing the OpenAI Partner NetworkProductJun 14, 2026](</index/introducing-openai-partner-network/>)
-
-![Art Card 1080x1080 \(3\)](https://images.ctfassets.net/kftzwdyauwt9/3JLNH7ejJFnxLmX2LpzoKD/19f9e3c4d36cc9d677ba88e842ad2db2/Art_Card_1080x1080__4_.png?w=3840&q=90&fm=webp)
-
-Better memory for a more helpful ChatGPT
-
-[Dreaming: Better memory for a more helpful ChatGPTResearchJun 4, 2026](</index/chatgpt-memory-dreaming/>)
 
 Research
 

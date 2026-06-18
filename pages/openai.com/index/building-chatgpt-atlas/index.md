@@ -26,16 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Shaping the foundation
-
-  * Shaping the foundation
-  * Rethinking the browser experience
-  * Our Solution: OWL
-  * How OWL works
-  * A new way to use the web
-
-
-
 October 30, 2025
 
 [Engineering](</news/engineering/>)
@@ -47,6 +37,48 @@ Inside our new process architecture, which ​​gives you a faster, smarter way
 Loading…
 
 Share
+
+Shaping the foundation
+
+  * Shaping the foundation
+
+  * Rethinking the browser experience
+
+  * Our Solution: OWL
+
+  * How OWL works
+
+    * Rendering: Getting pixels across the process boundary
+
+    * Input events: Cracking and forwarding
+
+    * Agent mode: Special cases
+
+  * A new way to use the web
+
+
+
+
+Table of contents
+
+  * Shaping the foundation
+
+  * Rethinking the browser experience
+
+  * Our Solution: OWL
+
+  * How OWL works
+
+    * Rendering: Getting pixels across the process boundary
+
+    * Input events: Cracking and forwarding
+
+    * Agent mode: Special cases
+
+  * A new way to use the web
+
+
+
 
 By _Ken Rockot, Member of the Technical Staff and Ben Goodger, Head of Engineering, ChatGPT Atlas_
 
@@ -104,7 +136,7 @@ The OWL client library exposes a simple public Swift API, which abstracts severa
 
 There’s also a wide range of service endpoints for managing high-level features like bookmarks, downloads, extensions, and autofill.
 
-#### Rendering: Getting pixels across the process boundary
+### Rendering: Getting pixels across the process boundary
 
 WebViews, which share a mutually exclusive presentation space in the client app are swapped in and out of a shared compositing container. For example, a browser window often has a single shared container visible and selecting a tab in the tab strip swaps that tab’s WebView into the container. On the Chromium side, this container corresponds to a `gfx::AcceleratedWidget` which is ultimately backed by a `CALayer`. We expose that layer’s context ID to the client, where an `NSView` embeds it using the private `CALayerHost` API.
 
@@ -116,7 +148,7 @@ OWL internally keeps view geometry in sync with the Chromium side, so the GPU co
 
 We also reuse this technique to selectively project elements of Chromium’s own native Views UI into Atlas (this is also useful for bootstrapping features like permission prompts quickly without building replacements from scratch in SwiftUI). This technique borrows heavily from Chromium’s existing infrastructure for installable web apps on macOS.
 
-#### Input events: Cracking and forwarding
+### Input events: Cracking and forwarding
 
 Chromium UI translates platform events (like macOS NSEvents) into Blink’s WebInputEvent model before forwarding them to renderers. But since OWL runs Chromium in a hidden process, we do that translation ourselves within the Swift client library and forward already-translated events down to Chromium.
 
@@ -124,7 +156,7 @@ Chromium UI translates platform events (like macOS NSEvents) into Blink’s WebI
 
 From there, they follow the same lifecycle that real input events would normally follow for web content. This includes having events _returned_ back to the client whenever a page indicates that it didn’t handle the event. When this happens, we re-synthesize an NSEvent and give the rest of the app a chance to handle the input.
 
-#### Agent mode: Special cases
+### Agent mode: Special cases
 
 Atlas’ agentic browsing feature poses some unique challenges for our approaches to rendering, input event forwarding, and data storage.
 

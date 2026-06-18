@@ -37,18 +37,26 @@ Share
 Taking a teacher-first approach
 
   * Taking a teacher-first approach
+
   * Choosing OpenAI
+
   * Introducing the Teacher Assistant
+
   * Planning a bright future
+
 
 
 
 Table of contents
 
   * Taking a teacher-first approach
+
   * Choosing OpenAI
+
   * Introducing the Teacher Assistant
+
   * Planning a bright future
+
 
 
 

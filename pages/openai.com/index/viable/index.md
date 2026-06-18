@@ -39,16 +39,22 @@ Share
 True comprehension requires context
 
   * True comprehension requires context
+
   * Analyzing data manually just isn't viable
+
   * Unleashing the full potential of unstructured data
+
 
 
 
 Table of contents
 
   * True comprehension requires context
+
   * Analyzing data manually just isn't viable
+
   * Unleashing the full potential of unstructured data
+
 
 
 

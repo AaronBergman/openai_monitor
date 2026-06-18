@@ -35,16 +35,22 @@ Share
 Adopting ChatGPT across operations
 
   * Adopting ChatGPT across operations
+
   * Using ChatGPT for research, workflows, and translation 
+
   * Building a meaningful partnership to advance science
+
 
 
 
 Table of contents
 
   * Adopting ChatGPT across operations
+
   * Using ChatGPT for research, workflows, and translation 
+
   * Building a meaningful partnership to advance science
+
 
 
 

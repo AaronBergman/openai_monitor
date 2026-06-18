@@ -34,6 +34,35 @@ None.
 *Full analysis: [runs/2026-06-17T09-15Z/analysis.md](runs/2026-06-17T09-15Z/analysis.md)*
 
 ---
+## 2026-06-18T09-15Z
+
+**TL;DR:** OpenAI published a new life science AI benchmark called **LifeSciBench** today — 750 expert-written research tasks across 7 biology domains created by 173 PhD scientists, designed to test whether AI can handle real wet-lab research workflows rather than trivia-style questions. The Business/Enterprise pricing pages were updated to explicitly call out "Usage analytics, budgeting, and spend controls" as a plan feature (previously the Business tier was described only as a "collaborative workspace"). 132 total URLs updated, mostly reflecting the new LifeSciBench content propagating through site-wide "recently published" sidebars. No anomalies.
+
+### New Pages
+
+**[Introducing LifeSciBench](pages/openai.com/index/introducing-life-sci-bench/index.md)** ⭐ (published June 17–18, 2026) — Research  
+OpenAI's new benchmark for evaluating AI on life science research tasks. Key facts:
+- **750 expert-authored tasks** across 7 research workflows (evidence handling, analysis, design & optimization, scientific reasoning, validation & operations, translation, scientific communication) and 7 biological domains
+- **173 PhD-level contributors** from biotech/pharma; each task went through ≥2 rounds of expert review (≥90% reviewer agreement required)
+- **1,062 attached artifacts** — figures, PDFs, sequence files, structure files, chemical files; 53% of tasks require interpreting at least one artifact
+- **79% of tasks require multi-step reasoning** (average 4 steps)
+- A [preprint PDF is available](https://cdn.openai.com/pdf/b4299379-0a97-4ffa-8b9b-c3fbb299caa9/lifescibench_preprint.pdf)
+- Contextualizes against: OpenAI's existing biosecurity/life-science push (Rosalind 5.5 released earlier this month, "Accelerating Biological Research in the Wet Lab" post)
+
+### Notable Updates
+
+**[ChatGPT Business Pricing](pages/openai.com/business/chatgpt-pricing/index.md)** and **[Business Pricing](pages/openai.com/business/pricing/index.md)** (updated June 18, 2026)  
+Both pages now list **"Usage analytics, budgeting, and spend controls"** as a key Business plan feature. The prior wording described the Business tier as "A secure, collaborative workspace for startups and growing businesses" — this new bullet is the first explicit mention of spend controls as a selling point, suggesting it's either a newly rolled out capability or newly prominent in their pitch to corporate buyers.
+
+**[Building ChatGPT Atlas](pages/openai.com/index/building-chatgpt-atlas/index.md)** (updated June 18, 2026)  
+This engineering deep-dive on the ChatGPT desktop renderer added a table of contents / in-page navigation section, making it easier to jump to specific sections like "Rendering: Getting pixels across the process boundary" and "Input events: Cracking and forwarding."
+
+**Site-wide "Latest Content" rotation (86 `page` + 11 `openai-academy` + others)**  
+The large wave of 132 updates is mostly sidebar churn: OpenAI's content templates include a "recently published" widget, and publishing LifeSciBench today triggered a repropagation across the site. The LifeSciBench thumbnail (asset ID `1iV0eZRf28MZRvIxYY`) now appears as the featured image on dozens of customer story and research pages, replacing the prior Rosalind 5.5 and Academy thumbnails.
+
+**Stats:** 1354 total URLs | +1 added | ~132 updated | -0 removed | 0 anomalies | 34 sub-sitemaps
+
+---
 ## 2026-06-13 — Run `2026-06-13T09-15Z`
 
 **TL;DR:** OpenAI launched a comprehensive advertising platform today, upgrading the narrow "Conversion Tools" product into a full "Ad Tools" suite that now includes **audience targeting** (upload your customer list, OpenAI builds custom audiences) and **AI Creative Tools** (use OpenAI's models to generate and optimize ad creatives). Three new policy pages published June 12–13; two older Conversion pages removed and superseded. Separately, OpenAI Academy got a major refresh — new "Applying AI at Work" courses announced, completion certificates added, and all Academy pages updated. Codex gained **Windows support** today (previously macOS-only). The homepage removed its "Learn about ChatGPT Business" hero link and promoted "Stories" instead. 170 total sitemap updates, mostly nav/template refreshes across the site. Zero anomalies.

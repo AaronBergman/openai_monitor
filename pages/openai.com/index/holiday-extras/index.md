@@ -39,16 +39,22 @@ Share
 Empowering employees in a competitive industry
 
   * Empowering employees in a competitive industry
+
   * Building a data-driven, efficient culture with AI
+
   * Achieving real productivity gains with ChatGPT Enterprise
+
 
 
 
 Table of contents
 
   * Empowering employees in a competitive industry
+
   * Building a data-driven, efficient culture with AI
+
   * Achieving real productivity gains with ChatGPT Enterprise
+
 
 
 

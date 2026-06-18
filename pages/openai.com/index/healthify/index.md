@@ -41,18 +41,26 @@ Share
 Healthify’s AI journey
 
   * Healthify’s AI journey
+
   * Using GPT-Vision and embeddings to instantly track food and scale coaching
+
   * Millions of lives improved with increased engagement
+
   * Saving a million lives
+
 
 
 
 Table of contents
 
   * Healthify’s AI journey
+
   * Using GPT-Vision and embeddings to instantly track food and scale coaching
+
   * Millions of lives improved with increased engagement
+
   * Saving a million lives
+
 
 
 

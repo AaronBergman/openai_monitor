@@ -26,15 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-The challenge of interpreting neural networks
-
-  * The challenge of interpreting neural networks
-  * Our research progress: large scale autoencoder training
-  * Limitations
-  * Looking ahead, and open sourcing our research
-
-
-
 June 6, 2024
 
 [Publication](</research/index/publication/>)
@@ -48,6 +39,32 @@ We used new scalable methods to decompose GPT‑4’s internal representations i
 Loading…
 
 Share
+
+The challenge of interpreting neural networks
+
+  * The challenge of interpreting neural networks
+
+  * Our research progress: large scale autoencoder training
+
+  * Limitations
+
+  * Looking ahead, and open sourcing our research
+
+
+
+
+Table of contents
+
+  * The challenge of interpreting neural networks
+
+  * Our research progress: large scale autoencoder training
+
+  * Limitations
+
+  * Looking ahead, and open sourcing our research
+
+
+
 
 We currently don't understand how to make sense of the neural activity within language models. Today, we are sharing improved methods for finding a large number of "features"—patterns of activity that we hope are human interpretable. Our methods scale better than existing work, and we use them to find 16 million features in GPT‑4. We are sharing a [_paper_ ⁠(opens in a new window)](<https://arxiv.org/abs/2406.04093>), [_code_ ⁠(opens in a new window)](<https://github.com/openai/sparse_autoencoder>), and [_feature visualizations_ ⁠(opens in a new window)](<https://openaipublic.blob.core.windows.net/sparse-autoencoder/sae-viewer/index.html>) with the research community to foster further exploration. 
 

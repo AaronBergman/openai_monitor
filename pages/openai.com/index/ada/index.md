@@ -37,18 +37,26 @@ Share
 Developing a new customer service metric: resolution rate
 
   * Developing a new customer service metric: resolution rate
+
   * Battle-testing models and choosing OpenAI
+
   * Doubling resolution rates with OpenAI
+
   * 100% resolution is achievable with AI
+
 
 
 
 Table of contents
 
   * Developing a new customer service metric: resolution rate
+
   * Battle-testing models and choosing OpenAI
+
   * Doubling resolution rates with OpenAI
+
   * 100% resolution is achievable with AI
+
 
 
 

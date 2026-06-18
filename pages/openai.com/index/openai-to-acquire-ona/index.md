@@ -41,16 +41,22 @@ Share
 Giving Codex a persistent place to work
 
   * Giving Codex a persistent place to work
+
   * Scaling Codex across production workflows
+
   * What’s next
+
 
 
 
 Table of contents
 
   * Giving Codex a persistent place to work
+
   * Scaling Codex across production workflows
+
   * What’s next
+
 
 
 
@@ -78,8 +84,6 @@ Organizations should be able to give people the benefits of persistent agentic w
 
 Ona’s customer-controlled execution model will allow agents to operate inside an organization’s own cloud environment while OpenAI provides the intelligence and orchestration that power the experience. This gives organizations greater control over their infrastructure, data, and security boundaries without limiting what Codex can accomplish.
 
-1 of 2
-
 > “Agents need more than intelligence; they need a trusted workspace. We built Ona to give agents cloud environments with the context, control and collaboration enterprises require. Joining OpenAI lets us bring that foundation into Codex, helping organizations deploy agents with confidence and giving humans more agency over their work.”
 
 —Johannes Landgraf, Co-Founder and CEO, Ona
@@ -87,6 +91,8 @@ Ona’s customer-controlled execution model will allow agents to operate inside 
 > “Enterprises want powerful agents that can do real work while meeting the security and control requirements of their environments. Ona will help us make Codex easier to deploy securely across production workflows for customers operating at the highest standards of trust and scale.”
 
 —Thibault Sottiaux, Core Products Lead, OpenAI
+
+1 of 2
 
 > “Agents need more than intelligence; they need a trusted workspace. We built Ona to give agents cloud environments with the context, control and collaboration enterprises require. Joining OpenAI lets us bring that foundation into Codex, helping organizations deploy agents with confidence and giving humans more agency over their work.”
 

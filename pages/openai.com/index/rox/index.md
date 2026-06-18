@@ -39,20 +39,30 @@ Share
 Addressing revenue teams’ evolving needs
 
   * Addressing revenue teams’ evolving needs
+
   * Building Rox: A configurable revenue platform informed by top sellers
+
   * Doubling sales-accepted pipeline 
+
   * Building with the right partner 
+
   * Maximizing GTM revenue potential with OpenAI
+
 
 
 
 Table of contents
 
   * Addressing revenue teams’ evolving needs
+
   * Building Rox: A configurable revenue platform informed by top sellers
+
   * Doubling sales-accepted pipeline 
+
   * Building with the right partner 
+
   * Maximizing GTM revenue potential with OpenAI
+
 
 
 

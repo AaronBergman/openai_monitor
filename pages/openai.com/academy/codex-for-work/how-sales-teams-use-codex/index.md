@@ -43,26 +43,82 @@ Share
 Install the sales plugin for Codex
 
   * Install the sales plugin for Codex
+
   * Top Codex use cases for sales teams
+
   * 1\. Pipeline prioritization from underworked accounts
+
+    * How it works
+
+    * Starter prompt
+
   * 2\. Meeting prep and follow-up
+
+    * How it works
+
+    * Starter prompt
+
   * 3\. Forecast review and commit risk monitor
+
+    * How it works
+
+    * Starter prompt
+
   * 4\. Strategic account plan refresh
+
+    * How it works
+
+    * Starter prompt
+
   * 5\. Stalled deal diagnosis
+
+    * How it works
+
+    * Starter prompt
+
   * More resources
+
 
 
 
 Table of contents
 
   * Install the sales plugin for Codex
+
   * Top Codex use cases for sales teams
+
   * 1\. Pipeline prioritization from underworked accounts
+
+    * How it works
+
+    * Starter prompt
+
   * 2\. Meeting prep and follow-up
+
+    * How it works
+
+    * Starter prompt
+
   * 3\. Forecast review and commit risk monitor
+
+    * How it works
+
+    * Starter prompt
+
   * 4\. Strategic account plan refresh
+
+    * How it works
+
+    * Starter prompt
+
   * 5\. Stalled deal diagnosis
+
+    * How it works
+
+    * Starter prompt
+
   * More resources
+
 
 
 

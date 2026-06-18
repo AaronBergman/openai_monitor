@@ -65,7 +65,7 @@ What's included:
 
 ### BusinessChatGPT & Codex
 
-A secure, collaborative workspace for startups and growing businesses 
+A secure workspace with company context and tools for teams, built for growing companies
 
 $20
 
@@ -75,21 +75,21 @@ $20
 
 What's included:
 
-  * Everything in ChatGPT Plus and Business Codex plans
+  * Access ChatGPT and Codex across desktop and mobile apps
 
-  * Unlimited core chat and access to the best models for work
+  * AI for chat, coding, analysis, and workflows
 
-  * 60+ apps that bring your tools and data into ChatGPT — like Slack, Google Drive, SharePoint, GitHub, Atlassian, and more
+  * Connect tools like Microsoft 365, Google Drive, Slack, Github, Linear, Figma, and more
 
-  * Business features like apps, data analysis, record mode, canvas, shared projects, and custom workspace GPTs
+  * Build on company knowledge and team context with custom team agent plugins
 
-  * Easy member, role, & billing management
+  * Centralized billing and administration
 
-  * A secure, dedicated workspace with essential admin controls, SAML SSO, and MFA
+  * Usage analytics, budgeting, and spend controls
 
-  * No training on your data; SAML security
+  * Secure workspace with SAML SSO and MFA
 
-  * Support for compliance with GDPR, CCPA, and other privacy laws. Aligned with CSA STAR⁠ and SOC 2 Type 2
+  * No training on your business data by default
 
 
 

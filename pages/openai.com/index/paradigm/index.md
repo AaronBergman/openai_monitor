@@ -41,18 +41,26 @@ Share
 Clinical trial enrollment is broken
 
   * Clinical trial enrollment is broken
+
   * Using GPT-4 to evaluate clinical trial data sets
+
   * GPT-4 improves product speed, data quality, and costs of operation
+
   * Evaluating hundreds of patients per minute
+
 
 
 
 Table of contents
 
   * Clinical trial enrollment is broken
+
   * Using GPT-4 to evaluate clinical trial data sets
+
   * GPT-4 improves product speed, data quality, and costs of operation
+
   * Evaluating hundreds of patients per minute
+
 
 
 

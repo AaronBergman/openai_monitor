@@ -41,18 +41,26 @@ Share
 What we’re funding
 
   * What we’re funding
+
   * Eligibility criteria
+
   * How to apply
+
 
 
 
 Table of contents
 
   * What we’re funding
+
   * Eligibility criteria
+
   * How to apply
 
 
+
+
+ _June 15th, 2026: F_ _or information about the 2026 People-First Fund, please see_[ _here_ ⁠(opens in a new window)](<https://openaifoundation.org/news/2026-people-first-ai-fund>)
 
 At OpenAI, ensuring broad deployment of benefits and applying an iterative approach to innovation is core to who we are. We believe AI should help solve humanity’s hardest problems, and that we should listen to and learn from organizations already leading that work on the frontlines.
 

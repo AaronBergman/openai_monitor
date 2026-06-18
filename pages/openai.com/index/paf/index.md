@@ -37,18 +37,26 @@ Share
 Evaluating various AI models
 
   * Evaluating various AI models
+
   * Creating custom GPTs to streamline the development process
+
   * Empowering every engineer to be a systems architect
+
   * ChatGPT delivers the equivalent output of 12 employees
+
 
 
 
 Table of contents
 
   * Evaluating various AI models
+
   * Creating custom GPTs to streamline the development process
+
   * Empowering every engineer to be a systems architect
+
   * ChatGPT delivers the equivalent output of 12 employees
+
 
 
 

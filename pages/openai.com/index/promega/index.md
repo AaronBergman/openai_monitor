@@ -37,20 +37,30 @@ Share
 Expanding ideation org-wide with OpenAI
 
   * Expanding ideation org-wide with OpenAI
+
   * Enhancing anticipation and planning in manufacturing
+
   * Enriching customer relationships with custom GPTs 
+
   * Driving ChatGPT adoption through leadership
+
   * Differentiating through AI proficiency
+
 
 
 
 Table of contents
 
   * Expanding ideation org-wide with OpenAI
+
   * Enhancing anticipation and planning in manufacturing
+
   * Enriching customer relationships with custom GPTs 
+
   * Driving ChatGPT adoption through leadership
+
   * Differentiating through AI proficiency
+
 
 
 
