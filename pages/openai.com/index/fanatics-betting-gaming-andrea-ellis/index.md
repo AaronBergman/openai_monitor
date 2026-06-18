@@ -41,26 +41,42 @@ Share
 How have you seen the CFO role evolve?
 
   * How have you seen the CFO role evolve?
+
   * How do you ensure your finance team is operating at peak performance?
+
   * How do you think AI can contribute to the success of your team?
+
   * You took a bit of a different approach to AI adoption than other companies. Can you tell us how you got started?
+
   * But you also took a more structured approach as an organization?
+
   * Can you share some specific use cases where AI has delivered significant value?
+
   * How do you see the way you use AI evolving at Fanatics?
+
   * How has AI impacted you personally as a CFO?
+
 
 
 
 Table of contents
 
   * How have you seen the CFO role evolve?
+
   * How do you ensure your finance team is operating at peak performance?
+
   * How do you think AI can contribute to the success of your team?
+
   * You took a bit of a different approach to AI adoption than other companies. Can you tell us how you got started?
+
   * But you also took a more structured approach as an organization?
+
   * Can you share some specific use cases where AI has delivered significant value?
+
   * How do you see the way you use AI evolving at Fanatics?
+
   * How has AI impacted you personally as a CFO?
+
 
 
 

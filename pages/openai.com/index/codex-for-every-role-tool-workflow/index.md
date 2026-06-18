@@ -26,15 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Make Codex work the way your team does
-
-  * Make Codex work the way your team does
-  * Share your work with sites
-  * Refine your work with annotations
-  * Availability and getting started
-
-
-
 June 2, 2026
 
 [Product](</news/product-releases/>)
@@ -46,6 +37,32 @@ New role-specific plugins, Sites, and annotations help teams do more with Codex.
 Loading…
 
 Share
+
+Make Codex work the way your team does
+
+  * Make Codex work the way your team does
+
+  * Share your work with sites
+
+  * Refine your work with annotations
+
+  * Availability and getting started
+
+
+
+
+Table of contents
+
+  * Make Codex work the way your team does
+
+  * Share your work with sites
+
+  * Refine your work with annotations
+
+  * Availability and getting started
+
+
+
 
 More than 5 million people now use Codex every week. Codex started as a tool for software development, but it's increasingly useful for more kinds of work. Non-developers—including analysts, marketers, operators, designers, researchers, investors, and bankers—[make up about 20% of overall Codex users⁠](</index/codex-for-knowledge-work/>) and are growing more than 3x as fast as developers.
 
@@ -608,6 +625,10 @@ OpenAI
 
 [View all](</news/>)
 
+![Intro-OAI-Partner-ArtCard](https://images.ctfassets.net/kftzwdyauwt9/U6bb3rlwvYyhf2q835WWx/d50f5492dded3c21aa6d69c07d3b2a44/Introducing_OAI_Partner_Network_artcard.png?w=3840&q=90&fm=webp)
+
+[Introducing the OpenAI Partner NetworkProductJun 14, 2026](</index/introducing-openai-partner-network/>)
+
 ![Art Card 1080x1080 \(3\)](https://images.ctfassets.net/kftzwdyauwt9/3JLNH7ejJFnxLmX2LpzoKD/19f9e3c4d36cc9d677ba88e842ad2db2/Art_Card_1080x1080__4_.png?w=3840&q=90&fm=webp)
 
 Better memory for a more helpful ChatGPT
@@ -617,10 +638,6 @@ Better memory for a more helpful ChatGPT
 ![Rosalind5.5 ArtCard](https://images.ctfassets.net/kftzwdyauwt9/6USIQM1B7TggUvvTFxxwoi/0176ac6633c8bdc24641d25d1d2db824/GPT-Rosalind_ArtCard.png?w=3840&q=90&fm=webp)
 
 [Introducing new capabilities to GPT-RosalindProductJun 3, 2026](</index/introducing-new-capabilities-to-gpt-rosalind/>)
-
-![Open AI > AWS > Card Img](https://images.ctfassets.net/kftzwdyauwt9/4DyPHqWFzvKSbt5XNS0cCb/4b5da512c5bc9d6950c64d3ab2b85126/OAI_AWS_Partnership_1x1_Art_Card.png?w=3840&q=90&fm=webp)
-
-[OpenAI frontier models and Codex are now available on AWSProductJun 1, 2026](</index/openai-frontier-models-and-codex-are-now-available-on-aws/>)
 
 Research
 

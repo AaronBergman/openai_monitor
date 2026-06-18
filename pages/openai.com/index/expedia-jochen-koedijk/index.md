@@ -26,18 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-You’ve led consumer marketing across multiple industries. How have you seen the role of marketing—and the CMO—evolve over time?
-
-  * You’ve led consumer marketing across multiple industries. How have you seen the role of marketing—and the CMO—evolve over time?
-  * How is AI specifically helping in your role as a CMO? What advice would you give other marketing leaders as they embrace this transformation?
-  * With those shifts in behavior, do you see agents playing a role in the future of travel marketing?
-  * Do you see opportunities for AI in strengthening customer relationships and loyalty?
-  * Companies sometimes struggle building AI fluency internally. How are you fostering that within your marketing organization?
-  * Have you seen tangible outcomes from this cultural shift?
-  * As we look to the future, what skills will marketers need to stay ahead in an AI-driven world?
-
-
-
 May 14, 2025
 
 # AI powers Expedia’s marketing evolution
@@ -50,7 +38,45 @@ Loading…
 
 Share
 
-** _Our Executive Function series features perspectives from leaders driving transformation through AI.  
+You’ve led consumer marketing across multiple industries. How have you seen the role of marketing—and the CMO—evolve over time?
+
+  * You’ve led consumer marketing across multiple industries. How have you seen the role of marketing—and the CMO—evolve over time?
+
+  * How is AI specifically helping in your role as a CMO? What advice would you give other marketing leaders as they embrace this transformation?
+
+  * With those shifts in behavior, do you see agents playing a role in the future of travel marketing?
+
+  * Do you see opportunities for AI in strengthening customer relationships and loyalty?
+
+  * Companies sometimes struggle building AI fluency internally. How are you fostering that within your marketing organization?
+
+  * Have you seen tangible outcomes from this cultural shift?
+
+  * As we look to the future, what skills will marketers need to stay ahead in an AI-driven world?
+
+
+
+
+Table of contents
+
+  * You’ve led consumer marketing across multiple industries. How have you seen the role of marketing—and the CMO—evolve over time?
+
+  * How is AI specifically helping in your role as a CMO? What advice would you give other marketing leaders as they embrace this transformation?
+
+  * With those shifts in behavior, do you see agents playing a role in the future of travel marketing?
+
+  * Do you see opportunities for AI in strengthening customer relationships and loyalty?
+
+  * Companies sometimes struggle building AI fluency internally. How are you fostering that within your marketing organization?
+
+  * Have you seen tangible outcomes from this cultural shift?
+
+  * As we look to the future, what skills will marketers need to stay ahead in an AI-driven world?
+
+
+
+
+**_Our Executive Function series features perspectives from leaders driving transformation through AI.  
   
 _** Expedia Group’s brands including Expedia, Hotels.com, and VRBO power travel around the world. We spoke with Jochen Koedijk about the evolving CMO role, agents supporting travel marketing, how marketers can stay ahead in an AI-driven world.
 
@@ -128,19 +154,17 @@ OpenAI
 
 ## Keep reading
 
-![Nextdoor customer stories > oai 1x1](https://images.ctfassets.net/kftzwdyauwt9/2VQiKydNUVAutnHRuCIV4S/3262cc8deff3fe49c6b512f854e14dcf/oai_Nextdoor_1x1.png?w=3840&q=90&fm=webp)
+![A near-autonomous AI chemist improves a challenging reaction](https://images.ctfassets.net/kftzwdyauwt9/QgPPg4etNE5C4Ao0G94sk/e5f2a50e5de4619d0e0fe8483698718b/molecule-one-art-card.png?w=3840&q=90&fm=webp)
 
-[How engineers at Nextdoor use Codex to build without limitsJun 9, 2026](</index/nextdoor/>)
+[A near-autonomous AI chemist improves a challenging reaction in medicinal chemistryResearchJun 17, 2026](</index/ai-chemist-improves-reaction/>)
 
-![Notion > cover image](https://images.ctfassets.net/kftzwdyauwt9/2HBxiM1dDPpM1W56ehwgNi/01dc3dafe6aedcabc9808446492523ea/oai_Notion_1x1.png?w=3840&q=90&fm=webp)
+![LifeSciBench 1x1](https://images.ctfassets.net/kftzwdyauwt9/1iV0eZRf28MZRvIxYY4eLf/4379e20807f5ff44efccf518a97e480a/LifeSciBench_1x1.png?w=3840&q=90&fm=webp)
 
-[What Codex unlocks for NotionJun 9, 2026](</index/notion/>)
+[Introducing LifeSciBenchResearchJun 17, 2026](</index/introducing-life-sci-bench/>)
 
-![Frame](https://images.ctfassets.net/kftzwdyauwt9/5PD5E0PhvNP8ogbhvNxdKF/42a592f5b93580d940065610304c3f22/Frame.png?w=3840&q=90&fm=webp)
+![Production Resampling > Art Card](https://images.ctfassets.net/kftzwdyauwt9/6TwSElUf3XVkAiLOvIis8O/de2de5d4b9f94a3dea5403702a4f34ce/Art_Card.png?w=3840&q=90&fm=webp)
 
-Industrial policy for the Intelligence Age
-
-[Industrial policy for the Intelligence AgeGlobal AffairsJun 9, 2026](</index/industrial-policy-for-the-intelligence-age/>)
+[Predicting model behavior before release by simulating deploymentResearchJun 16, 2026](</index/deployment-simulation/>)
 
 Research
 

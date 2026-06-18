@@ -37,18 +37,26 @@ Share
 Delivering fast, nuanced, and scalable solutions with OpenAI
 
   * Delivering fast, nuanced, and scalable solutions with OpenAI
+
   * Achieving optimal performance with GPTs and fine-tuning
+
   * Superior accuracy and flexibility through strong evaluations
+
   * Tackling the next customer service frontier with OpenAI
+
 
 
 
 Table of contents
 
   * Delivering fast, nuanced, and scalable solutions with OpenAI
+
   * Achieving optimal performance with GPTs and fine-tuning
+
   * Superior accuracy and flexibility through strong evaluations
+
   * Tackling the next customer service frontier with OpenAI
+
 
 
 

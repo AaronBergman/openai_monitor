@@ -43,34 +43,134 @@ Share
 Watch our webinar
 
   * Watch our webinar
+
   * Top Codex use cases for everyday work
+
   * 1\. Create a daily work brief
+
+    * How it works
+
+    * Starter prompt
+
   * 2\. Weekly summary
+
+    * How it works
+
+    * Starter prompt
+
   * 3\. Draft slide decks
+
+    * Prompt to try
+
   * 4\. Research to decision memo
+
+    * How it works
+
+    * Starter prompt
+
   * 5\. File cleanup and reformatting
+
+    * How it works
+
+    * Starter prompt
+
   * 6\. Spreadsheet consolidation
+
+    * How it works
+
+    * Starter prompt
+
   * 7\. Book of business prioritization
+
+    * How it works
+
+    * Starter prompt
+
   * 8\. Month-end financial review
+
+    * How it works
+
+    * Starter prompt
+
   * 9\. Launch campaign kit
+
+    * How it works
+
+    * Starter prompt
+
   * 10\. Workflow audit and automation spec
+
+    * How it works
+
+    * Starter prompt
+
 
 
 
 Table of contents
 
   * Watch our webinar
+
   * Top Codex use cases for everyday work
+
   * 1\. Create a daily work brief
+
+    * How it works
+
+    * Starter prompt
+
   * 2\. Weekly summary
+
+    * How it works
+
+    * Starter prompt
+
   * 3\. Draft slide decks
+
+    * Prompt to try
+
   * 4\. Research to decision memo
+
+    * How it works
+
+    * Starter prompt
+
   * 5\. File cleanup and reformatting
+
+    * How it works
+
+    * Starter prompt
+
   * 6\. Spreadsheet consolidation
+
+    * How it works
+
+    * Starter prompt
+
   * 7\. Book of business prioritization
+
+    * How it works
+
+    * Starter prompt
+
   * 8\. Month-end financial review
+
+    * How it works
+
+    * Starter prompt
+
   * 9\. Launch campaign kit
+
+    * How it works
+
+    * Starter prompt
+
   * 10\. Workflow audit and automation spec
+
+    * How it works
+
+    * Starter prompt
+
 
 
 

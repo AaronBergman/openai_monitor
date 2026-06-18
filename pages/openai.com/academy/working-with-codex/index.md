@@ -41,18 +41,26 @@ Loading…
 Sidebar menu
 
   * Sidebar menu
+
   * Projects
+
   * Settings
+
   * Chat window
+
 
 
 
 Table of contents
 
   * Sidebar menu
+
   * Projects
+
   * Settings
+
   * Chat window
+
 
 
 

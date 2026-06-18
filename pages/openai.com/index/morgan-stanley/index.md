@@ -37,18 +37,26 @@ Share
 Building a foundation: evaluations that drive adoption
 
   * Building a foundation: evaluations that drive adoption
+
   * Scaling success from pilot to firmwide use
+
   * Strengthening trust with controls
+
   * 98% adoption, increased engagement, and new services potential
+
 
 
 
 Table of contents
 
   * Building a foundation: evaluations that drive adoption
+
   * Scaling success from pilot to firmwide use
+
   * Strengthening trust with controls
+
   * 98% adoption, increased engagement, and new services potential
+
 
 
 

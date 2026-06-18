@@ -37,14 +37,18 @@ Share
 Simple tools for creating fast, high-quality commercials
 
   * Simple tools for creating fast, high-quality commercials
+
   * Using GPT-3 to create tailored scripts for every customer
+
 
 
 
 Table of contents
 
   * Simple tools for creating fast, high-quality commercials
+
   * Using GPT-3 to create tailored scripts for every customer
+
 
 
 

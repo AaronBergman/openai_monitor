@@ -41,24 +41,78 @@ Loading…
 Top Codex use cases for finance teams
 
   * Top Codex use cases for finance teams
+
   * 1\. Monthly business review narrative
+
+    * How it works
+
+    * Starter prompt
+
   * 2\. Finance model cleanup and analysis
+
+    * How it works
+
+    * Starter prompt
+
   * 3\. Recurring CFO and board reporting pack
+
+    * How it works
+
+    * Starter prompt
+
   * 4\. Variance driver bridge
+
+    * How it works
+
+    * Starter prompt
+
   * 5\. Forecast refresh and scenario planning
+
+    * How it works
+
+    * Starter prompt
+
   * More resources 
+
 
 
 
 Table of contents
 
   * Top Codex use cases for finance teams
+
   * 1\. Monthly business review narrative
+
+    * How it works
+
+    * Starter prompt
+
   * 2\. Finance model cleanup and analysis
+
+    * How it works
+
+    * Starter prompt
+
   * 3\. Recurring CFO and board reporting pack
+
+    * How it works
+
+    * Starter prompt
+
   * 4\. Variance driver bridge
+
+    * How it works
+
+    * Starter prompt
+
   * 5\. Forecast refresh and scenario planning
+
+    * How it works
+
+    * Starter prompt
+
   * More resources 
+
 
 
 

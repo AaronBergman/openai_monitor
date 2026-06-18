@@ -37,18 +37,26 @@ Share
 Color’s copilot is helping clinicians create customized, comprehensive plans to start cancer treatment
 
   * Color’s copilot is helping clinicians create customized, comprehensive plans to start cancer treatment
+
   * Missed screenings and delayed cancer treatment impact patient outcomes 
+
   * Building a fast, safe, and secure proof of concept with OpenAI
+
   * Reducing time to treatment for cancer patients
+
 
 
 
 Table of contents
 
   * Color’s copilot is helping clinicians create customized, comprehensive plans to start cancer treatment
+
   * Missed screenings and delayed cancer treatment impact patient outcomes 
+
   * Building a fast, safe, and secure proof of concept with OpenAI
+
   * Reducing time to treatment for cancer patients
+
 
 
 

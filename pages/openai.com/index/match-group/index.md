@@ -37,16 +37,22 @@ Share
 Building great products is about more than tech
 
   * Building great products is about more than tech
+
   * Leveraging ChatGPT Enterprise for a happier, more productive company
+
   * Supercharging people and products
+
 
 
 
 Table of contents
 
   * Building great products is about more than tech
+
   * Leveraging ChatGPT Enterprise for a happier, more productive company
+
   * Supercharging people and products
+
 
 
 

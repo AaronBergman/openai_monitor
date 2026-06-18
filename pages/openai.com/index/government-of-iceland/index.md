@@ -39,16 +39,22 @@ Share
 English to Icelandic
 
   * English to Icelandic
+
   * Cultural context
+
   * Room for improvement
+
 
 
 
 Table of contents
 
   * English to Icelandic
+
   * Cultural context
+
   * Room for improvement
+
 
 
 

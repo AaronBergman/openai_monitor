@@ -39,18 +39,26 @@ Share
 The overflowing inbox
 
   * The overflowing inbox
+
   * Reimagining the email experience with OpenAI
+
   * Getting to inbox zero 2x faster
+
   * Pressing “forward” on the future of email
+
 
 
 
 Table of contents
 
   * The overflowing inbox
+
   * Reimagining the email experience with OpenAI
+
   * Getting to inbox zero 2x faster
+
   * Pressing “forward” on the future of email
+
 
 
 

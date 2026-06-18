@@ -39,18 +39,26 @@ Share
 Embedding AI into developer software
 
   * Embedding AI into developer software
+
   * Using OpenAI’s API to fast-track the software development process
+
   * JetBrains AI Assistant accelerates developer performance
+
   * Building the next generation of context-aware AI coding tools
+
 
 
 
 Table of contents
 
   * Embedding AI into developer software
+
   * Using OpenAI’s API to fast-track the software development process
+
   * JetBrains AI Assistant accelerates developer performance
+
   * Building the next generation of context-aware AI coding tools
+
 
 
 

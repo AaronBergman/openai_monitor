@@ -37,16 +37,22 @@ Share
 Tackling data degradation for long-term autonomy
 
   * Tackling data degradation for long-term autonomy
+
   * Harnessing GPT-4 to enhance cognitive and emotional AI
+
   * Creating the future: Building digital humans with purpose
+
 
 
 
 Table of contents
 
   * Tackling data degradation for long-term autonomy
+
   * Harnessing GPT-4 to enhance cognitive and emotional AI
+
   * Creating the future: Building digital humans with purpose
+
 
 
 

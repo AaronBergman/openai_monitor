@@ -41,24 +41,78 @@ Loading…
 Top Codex use cases for business operations teams
 
   * Top Codex use cases for business operations teams
+
   * 1\. Initiative off-track brief
+
+    * How it works
+
+    * Starter prompt
+
   * 2\. Strategic initiative health update
+
+    * How it works
+
+    * Starter prompt
+
   * 3\. Leadership decision packet
+
+    * How it works
+
+    * Starter prompt
+
   * 4\. Board or company progress update
+
+    * How it works
+
+    * Starter prompt
+
   * 5\. Scenario and tradeoff model
+
+    * How it works
+
+    * Starter prompt
+
   * More resources
+
 
 
 
 Table of contents
 
   * Top Codex use cases for business operations teams
+
   * 1\. Initiative off-track brief
+
+    * How it works
+
+    * Starter prompt
+
   * 2\. Strategic initiative health update
+
+    * How it works
+
+    * Starter prompt
+
   * 3\. Leadership decision packet
+
+    * How it works
+
+    * Starter prompt
+
   * 4\. Board or company progress update
+
+    * How it works
+
+    * Starter prompt
+
   * 5\. Scenario and tradeoff model
+
+    * How it works
+
+    * Starter prompt
+
   * More resources
+
 
 
 

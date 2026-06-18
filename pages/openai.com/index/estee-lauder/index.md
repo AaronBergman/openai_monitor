@@ -35,20 +35,30 @@ Share
 Using AI in a data-rich environment
 
   * Using AI in a data-rich environment
+
   * Surging AI adoption with the GPT Lab
+
   * Unlocking consumer insights with ChatGPT
+
   * Taking a product-led approach to GPT creation
+
   * AI’s impact on creativity and speed-to-market 
+
 
 
 
 Table of contents
 
   * Using AI in a data-rich environment
+
   * Surging AI adoption with the GPT Lab
+
   * Unlocking consumer insights with ChatGPT
+
   * Taking a product-led approach to GPT creation
+
   * AI’s impact on creativity and speed-to-market 
+
 
 
 

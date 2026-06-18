@@ -37,20 +37,30 @@ Share
 Driving productivity and efficiency gains with OpenAI
 
   * Driving productivity and efficiency gains with OpenAI
+
   * Saving millions with a new development platform 
+
   * Delivering a new standard with security and routing logic 
+
   * Building Verdi for simplicity and scale
+
   * Expanding Verdi to solve any problem
+
 
 
 
 Table of contents
 
   * Driving productivity and efficiency gains with OpenAI
+
   * Saving millions with a new development platform 
+
   * Delivering a new standard with security and routing logic 
+
   * Building Verdi for simplicity and scale
+
   * Expanding Verdi to solve any problem
+
 
 
 

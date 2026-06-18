@@ -35,18 +35,26 @@ Share
 Democratizing higher education and creating ‘lifelong learners’ 
 
   * Democratizing higher education and creating ‘lifelong learners’ 
+
   * Deploying ChatGPT in over 200 projects
+
   * Using ChatGPT to impact curriculum and research
+
   * Enacting responsible AI practices to meet higher ed needs
+
 
 
 
 Table of contents
 
   * Democratizing higher education and creating ‘lifelong learners’ 
+
   * Deploying ChatGPT in over 200 projects
+
   * Using ChatGPT to impact curriculum and research
+
   * Enacting responsible AI practices to meet higher ed needs
+
 
 
 

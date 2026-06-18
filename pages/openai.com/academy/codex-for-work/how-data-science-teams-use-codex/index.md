@@ -41,24 +41,78 @@ Loading…
 Top Codex use cases for data science teams
 
   * Top Codex use cases for data science teams
+
   * 1\. KPI root-cause analysis
+
+    * How it works
+
+    * Starter prompt
+
   * 2\. Business impact readout
+
+    * How it works
+
+    * Starter prompt
+
   * 3\. Analytics request agent
+
+    * How it works
+
+    * Starter prompt
+
   * 4\. Executive KPI review
+
+    * How it works
+
+    * Starter prompt
+
   * 5\. Dashboard builder and monitor
+
+    * How it works
+
+    * Starter prompt
+
   * More resources
+
 
 
 
 Table of contents
 
   * Top Codex use cases for data science teams
+
   * 1\. KPI root-cause analysis
+
+    * How it works
+
+    * Starter prompt
+
   * 2\. Business impact readout
+
+    * How it works
+
+    * Starter prompt
+
   * 3\. Analytics request agent
+
+    * How it works
+
+    * Starter prompt
+
   * 4\. Executive KPI review
+
+    * How it works
+
+    * Starter prompt
+
   * 5\. Dashboard builder and monitor
+
+    * How it works
+
+    * Starter prompt
+
   * More resources
+
 
 
 
