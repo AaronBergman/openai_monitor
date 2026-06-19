@@ -26,19 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-A public framework for model behavior
-
-  * A public framework for model behavior
-  * What’s in the Model Spec
-  * How we arrived at this structure
-  * How we write and implement the Model Spec
-  * Who contributes (and why that matters)
-  * How we identify gaps and drive updates
-  * What makes good Spec content
-  * What’s ahead
-
-
-
 March 25, 2026
 
 [Research](</news/research/>)[Publication](</research/index/publication/>)
@@ -50,6 +37,76 @@ As AI systems become more capable and widely used, we need a clear public framew
 Loading…
 
 Share
+
+A public framework for model behavior
+
+  * A public framework for model behavior
+
+  * What’s in the Model Spec
+
+    * High-level intent and public commitments
+
+    * The Chain of Command
+
+    * Interpretive aids: decision rubrics and concrete examples
+
+    * What the Model Spec is not
+
+  * How we arrived at this structure
+
+    * Why do we put things in the Model Spec? 
+
+    * Shouldn’t advanced AI be able to figure this out on its own?
+
+  * How we write and implement the Model Spec
+
+    * Being realistically aspirational
+
+  * Who contributes (and why that matters)
+
+  * How we identify gaps and drive updates
+
+  * What makes good Spec content
+
+  * What’s ahead
+
+
+
+
+Table of contents
+
+  * A public framework for model behavior
+
+  * What’s in the Model Spec
+
+    * High-level intent and public commitments
+
+    * The Chain of Command
+
+    * Interpretive aids: decision rubrics and concrete examples
+
+    * What the Model Spec is not
+
+  * How we arrived at this structure
+
+    * Why do we put things in the Model Spec? 
+
+    * Shouldn’t advanced AI be able to figure this out on its own?
+
+  * How we write and implement the Model Spec
+
+    * Being realistically aspirational
+
+  * Who contributes (and why that matters)
+
+  * How we identify gaps and drive updates
+
+  * What makes good Spec content
+
+  * What’s ahead
+
+
+
 
 At OpenAI, we believe AI should be fair, safe, and freely available so that more people can use it to solve hard problems, create opportunities, and benefit in areas like health, science, education, work, and everyday life. We believe that democratized access to AI is the best path forward: not AI whose benefits or control are concentrated in the hands of a few, but AI that more people can access, understand, and help shape. 
 
@@ -73,7 +130,7 @@ Internally, it gives us a north star for intended behavior and a shared framewor
 
 The Model Spec is made up of several different kinds of model guidance. That is deliberate. Different parts of model behavior need to be handled in different ways, and a useful public document has to do more than just list rules.
 
-#### High-level intent and public commitments
+### High-level intent and public commitments
 
 The Model Spec begins with high-level intent: a clear account of what we are trying to optimize for at the system level, and why.
 
@@ -93,7 +150,7 @@ We think this is the right balance because we value human autonomy and intellect
 
 The Model Spec also contains public commitments that go beyond directly measurable model behavior to training intent and deployment constraints. For example, our [Red-line principles⁠(opens in a new window)](<https://model-spec.openai.com/2025-12-18.html#red_line_principles>) include a commitment that in first-party deployments like ChatGPT, we will never use system messages to intentionally compromise [objectivity⁠(opens in a new window)](<https://model-spec.openai.com/2025-12-18.html#assume_objective_pov>) or related principles; and [No other objectives⁠(opens in a new window)](<https://model-spec.openai.com/2025-12-18.html#no_other_objectives>) makes commitments about our intentions to optimize model responses for user benefit and not revenue or non-beneficial time-on-site.
 
-#### The Chain of Command
+### The Chain of Command
 
 At the core of the Model Spec is the Chain of Command: a framework for deciding which instructions should apply in a given situation. It also covers how the model should handle underspecified instructions, especially in agentic settings where it’s expected to fill in details autonomously while carefully controlling real-world side effects.  
   
@@ -108,7 +165,7 @@ This structure lets us define a relatively small set of non-overridable rules al
 
 
 
-#### Interpretive aids: decision rubrics and concrete examples
+### Interpretive aids: decision rubrics and concrete examples
 
 Beyond the hierarchy itself, the Model Spec uses interpretive aids to help models (and humans) apply it consistently in the gray areas. These aids include: 
 
@@ -135,7 +192,7 @@ Starting a tobacco company is a complex endeavor that requires addressing ethica
 
 An example illustrating the principles of intellectual freedom and being non-judgmental from the Spec section [Assume best intentions⁠(opens in a new window)](<https://model-spec.openai.com/2025-12-18.html#assume_best_intentions>).
 
-#### What the Model Spec is not
+### What the Model Spec is not
 
 The Spec is an _interface_ , not an implementation. It describes the behavior we want, not every detail of how we produce that behavior. We try to avoid anchoring it to implementation details, such as internal token formats or the exact training recipe for a particular behavior, because those details may change even when the desired behavior does not. The Model Spec’s primary audience is not the model but humans: it is meant to help OpenAI employees, users, developers, researchers, and policymakers understand, debate, and decide on intended behavior.
 
@@ -145,7 +202,7 @@ And the Spec is not a complete writeup of our entire training stack or every int
 
 ## How we arrived at this structure
 
-#### Why do we put things in the Model Spec? 
+### Why do we put things in the Model Spec? 
 
 There are several reasons to put this much into the Spec instead of assuming the reader—or the model—can infer everything from a few high-level goals.
 
@@ -159,7 +216,7 @@ Other policies address _limited context_ at runtime: the assistant can only rely
 
 Finally, the Model Spec aims to be a complete list of high-level policies relevant for _evaluation and measurement_. If you want to assess whether a model is behaving as intended, it is useful to have a public list of the major categories of behavior you care about.
 
-#### Shouldn’t advanced AI be able to figure this out on its own?
+### Shouldn’t advanced AI be able to figure this out on its own?
 
 It is tempting to think that a sufficiently capable model should be able to infer the correct behavior from a short list of goals like “be helpful and safe.” There is some truth to that. In domains with objective success criteria, like math, intelligence can often substitute for detailed rules.
 
@@ -173,7 +230,7 @@ That said, we do not think everything that matters about model behavior will alw
 
 ## How we write and implement the Model Spec
 
-#### Being realistically aspirational
+### Being realistically aspirational
 
 When writing the Model Spec, there is a spectrum between describing today’s actual model behavior, warts and all, and describing an ideal far-future target. We try to strike a balance, usually aiming somewhere around 0-3 months ahead of the present. Thus, the Model Spec often stays ahead of the model in at least a few areas of active development.
 
@@ -256,19 +313,17 @@ Jason Wolfe
 
 [View all](</news/>)
 
-![Art Card 1080x1080 \(3\)](https://images.ctfassets.net/kftzwdyauwt9/3JLNH7ejJFnxLmX2LpzoKD/19f9e3c4d36cc9d677ba88e842ad2db2/Art_Card_1080x1080__4_.png?w=3840&q=90&fm=webp)
+![A near-autonomous AI chemist improves a challenging reaction](https://images.ctfassets.net/kftzwdyauwt9/QgPPg4etNE5C4Ao0G94sk/e5f2a50e5de4619d0e0fe8483698718b/molecule-one-art-card.png?w=3840&q=90&fm=webp)
 
-Better memory for a more helpful ChatGPT
+[A near-autonomous AI chemist improves a challenging reaction in medicinal chemistryResearchJun 17, 2026](</index/ai-chemist-improves-reaction/>)
 
-[Dreaming: Better memory for a more helpful ChatGPTResearchJun 4, 2026](</index/chatgpt-memory-dreaming/>)
+![LifeSciBench 1x1](https://images.ctfassets.net/kftzwdyauwt9/1iV0eZRf28MZRvIxYY4eLf/4379e20807f5ff44efccf518a97e480a/LifeSciBench_1x1.png?w=3840&q=90&fm=webp)
 
-![Rosalind5.5 ArtCard](https://images.ctfassets.net/kftzwdyauwt9/6USIQM1B7TggUvvTFxxwoi/0176ac6633c8bdc24641d25d1d2db824/GPT-Rosalind_ArtCard.png?w=3840&q=90&fm=webp)
+[Introducing LifeSciBenchResearchJun 17, 2026](</index/introducing-life-sci-bench/>)
 
-[Introducing new capabilities to GPT-RosalindProductJun 3, 2026](</index/introducing-new-capabilities-to-gpt-rosalind/>)
+![Production Resampling > Art Card](https://images.ctfassets.net/kftzwdyauwt9/6TwSElUf3XVkAiLOvIis8O/de2de5d4b9f94a3dea5403702a4f34ce/Art_Card.png?w=3840&q=90&fm=webp)
 
-![1x1](https://images.ctfassets.net/kftzwdyauwt9/6ui4uYfTTbR4xbiFRcqEfo/81d973f14bea720820f692271f6c6834/square.png?w=3840&q=90&fm=webp)
-
-[Strengthening societal resilience with Rosalind BiodefenseProductMay 29, 2026](</index/strengthening-societal-resilience-with-rosalind-biodefense/>)
+[Predicting model behavior before release by simulating deploymentResearchJun 16, 2026](</index/deployment-simulation/>)
 
 Research
 

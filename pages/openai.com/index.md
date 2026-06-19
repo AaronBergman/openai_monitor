@@ -40,6 +40,10 @@ Message ChatGPT
 
 [Codex for every role, tool, and workflowProduct7 min read](</index/codex-for-every-role-tool-workflow/>)
 
+![1x1 Health Art 1](https://images.ctfassets.net/kftzwdyauwt9/25I93CBDfs6LgX4R4XCMBD/121ac551be0a9153314bf51fdbe91dae/1x1_Health_Art_1.png?w=3840&q=90&fm=webp)
+
+[Improving health intelligence in ChatGPTProduct](</index/improving-health-intelligence-in-chatgpt/>)
+
 ![Art Card 1080x1080 \(3\)](https://images.ctfassets.net/kftzwdyauwt9/3JLNH7ejJFnxLmX2LpzoKD/19f9e3c4d36cc9d677ba88e842ad2db2/Art_Card_1080x1080__4_.png?w=3840&q=90&fm=webp)
 
 Better memory for a more helpful ChatGPT
@@ -49,10 +53,6 @@ Better memory for a more helpful ChatGPT
 ![Hero Art Card SEO 1x1](https://images.ctfassets.net/kftzwdyauwt9/cut4wyUCuBENXfd5CSI7Z/d934ffb49d8b39abea0bc33bb1a5b916/Hero_Art_Card_SEO_1x1.jpg?w=3840&q=90&fm=webp)
 
 [Introducing GPT-5.5Product18 min read](</index/introducing-gpt-5-5/>)
-
-![Images 2.0 blog art card](https://images.ctfassets.net/kftzwdyauwt9/7fPF7LU0YzPr5PrlNT6lo3/823a11178d4aac15d4f4260b9fcc490d/Blog_art_card.png?w=3840&q=90&fm=webp)
-
-[Introducing ChatGPT Images 2.0Product](</index/introducing-chatgpt-images-2-0/>)
 
 ## Recent news
 

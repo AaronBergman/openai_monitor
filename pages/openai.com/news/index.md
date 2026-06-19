@@ -51,6 +51,26 @@ Switch cards to show Media
 
 Switch cards to hide Media
 
+![Spend Controls_Artcard.png](https://images.ctfassets.net/kftzwdyauwt9/3RkIKhLVsVWcJQ3czkTNMH/c63f9c43efd82ddf863f87d44edca201/Spend_Controls_Artcard.png?w=3840&q=90&fm=webp)
+
+[New usage analytics and updated spend controls for enterprisesProductJun 18, 2026](</index/chatgpt-enterprise-spend-controls/>)
+
+![1x1 Health Art 1](https://images.ctfassets.net/kftzwdyauwt9/25I93CBDfs6LgX4R4XCMBD/121ac551be0a9153314bf51fdbe91dae/1x1_Health_Art_1.png?w=3840&q=90&fm=webp)
+
+[Improving health intelligence in ChatGPTProductJun 18, 2026](</index/improving-health-intelligence-in-chatgpt/>)
+
+![Boston's Children Hospital NEJM > Cover image](https://images.ctfassets.net/kftzwdyauwt9/1VrF8z79R2Khy4PWmHRKME/38077532a039ebb39f054e84d6ae89c7/Art_Card.png?w=3840&q=90&fm=webp)
+
+[Using AI to help physicians diagnose rare genetic diseases affecting childrenApplied AIJun 18, 2026](</index/diagnose-rare-childhood-diseases/>)
+
+![A near-autonomous AI chemist improves a challenging reaction](https://images.ctfassets.net/kftzwdyauwt9/QgPPg4etNE5C4Ao0G94sk/e5f2a50e5de4619d0e0fe8483698718b/molecule-one-art-card.png?w=3840&q=90&fm=webp)
+
+[A near-autonomous AI chemist improves a challenging reaction in medicinal chemistryResearchJun 17, 2026](</index/ai-chemist-improves-reaction/>)
+
+![LifeSciBench 1x1](https://images.ctfassets.net/kftzwdyauwt9/1iV0eZRf28MZRvIxYY4eLf/4379e20807f5ff44efccf518a97e480a/LifeSciBench_1x1.png?w=3840&q=90&fm=webp)
+
+[Introducing LifeSciBenchResearchJun 17, 2026](</index/introducing-life-sci-bench/>)
+
 ![Production Resampling > Art Card](https://images.ctfassets.net/kftzwdyauwt9/6TwSElUf3XVkAiLOvIis8O/de2de5d4b9f94a3dea5403702a4f34ce/Art_Card.png?w=3840&q=90&fm=webp)
 
 [Predicting model behavior before release by simulating deploymentResearchJun 16, 2026](</index/deployment-simulation/>)
@@ -63,29 +83,9 @@ Switch cards to hide Media
 
 [New OpenAI Academy courses for the next era of workAI AdoptionJun 12, 2026](</index/academy-courses-applying-ai-at-work/>)
 
-![Frame \(4\)](https://images.ctfassets.net/kftzwdyauwt9/1cXwxAxok14lQF5HiEO4zi/567dbae4950956776ef4a28f9790df4c/Frame__4_.png?w=3840&q=90&fm=webp)
-
-[How an astrophysicist uses Codex to help simulate black holesApplied AIJun 11, 2026](</index/using-codex-to-simulate-black-holes/>)
-
 ![OpenAI acquires Ona > oai 1x1](https://images.ctfassets.net/kftzwdyauwt9/6SkgXCQ08f4AYarun2I3oU/24414c9962c945767f783bdb63006841/OAI-Ona-ArtCard.png?w=3840&q=90&fm=webp)
 
 [OpenAI to acquire OnaCompanyJun 11, 2026](</index/openai-to-acquire-ona/>)
-
-![Oracle partnership 1x1 art card](https://images.ctfassets.net/kftzwdyauwt9/7zjGwFPBZMvK6zwFSMVWRm/6721ac33e5b1aaf88a9b705a3d10c90a/OAI_Oracle_Partnership_1x1_Art_Card.png?w=3840&q=90&fm=webp)
-
-[Access OpenAI models and Codex through your Oracle cloud commitmentCompanyJun 10, 2026](</index/openai-on-oracle-cloud/>)
-
-![Confidential submission of draft S-1 to the SEC > cover image](https://images.ctfassets.net/kftzwdyauwt9/36doI12YCwUtp1hzD4d8bj/84e67c565f39e7d5ca3ee011efa69756/confidential-submission-of-draft-s-1-to-the-sec-1x1.png?w=3840&q=90&fm=webp)
-
-[Confidential submission of draft S-1 to the SECCompanyJun 8, 2026](</index/openai-submits-confidential-s-1/>)
-
-![Built for broad benefit > cover](https://images.ctfassets.net/kftzwdyauwt9/bEe28mW3dEOj9pKJsPp2u/13f7bed9e86b0667ba924479d62f98e4/Art_Card_1080x1080_1.png?w=3840&q=90&fm=webp)
-
-[Built to benefit everyone: our planCompanyJun 8, 2026](</index/built-to-benefit-everyone-our-plan/>)
-
-![Economic research forum > art card ](https://images.ctfassets.net/kftzwdyauwt9/2DpNjvjdVuCrLKNOrFrWJ7/1aefe1cbe252bcd9ba42035469fc8a0f/art_card.png?w=3840&q=90&fm=webp)
-
-[Introducing the OpenAI Economic Research ExchangeCompanyJun 8, 2026](</index/economic-research-exchange/>)
 
 Load more
 

@@ -1,3 +1,48 @@
+## 2026-06-19 — Run `2026-06-19T09-15Z`
+
+**TL;DR:** OpenAI made a coordinated health AI push today: three new pages announced **GPT-5.5 Instant**'s improved health capabilities for ChatGPT's 230M+ weekly health users, a peer-reviewed NEJM AI study using an OpenAI reasoning model to surface 18 diagnoses from 376 previously unsolved rare pediatric disease cases, and new enterprise spend controls for ChatGPT/Codex credit management. The model versioning page for GPT-5.5 Instant incidentally reveals a fuller model lineage: 5.3 Instant (March 2026) → 5.5 Instant (May 2026), plus 5.4 Thinking and 5.5 Thinking variants. A large batch of ~80 customer story pages received simultaneous CMS re-publishes with no content changes, plus ~10 Codex Academy pages similarly refreshed. No anomalies, no removals.
+
+### Anomalies
+None.
+
+### New Pages (3)
+
+**[Improving health intelligence in ChatGPT](pages/openai.com/index/improving-health-intelligence-in-chatgpt/index.md)** ⭐ (published June 18, 2026) — Product  
+OpenAI announces that GPT-5.5 Instant (released May 2026) delivers frontier-class health intelligence to all free ChatGPT users. Over 230 million people use ChatGPT for health and wellness questions weekly; this model now performs comparably to frontier Thinking models on HealthBench and HealthBench Professional — a substantial step forward from GPT-5.3 Instant (March 2026). The model was shaped by a global physician network that defines ideal health response behavior. Improvements include better recognition of urgent care situations, more relevant contextual questioning, and clearer communication of uncertainty. The page also confirms the existence of GPT-5.4 Thinking and GPT-5.5 Thinking as separate API-accessible variants, providing a more complete picture of the model family.
+
+**[Using AI to help physicians diagnose rare genetic diseases affecting children](pages/openai.com/index/diagnose-rare-childhood-diseases/index.md)** ⭐ (published June 18, 2026) — Applied AI  
+Documents a study published in NEJM AI (New England Journal of Medicine's AI journal) in which researchers used an OpenAI reasoning model to reanalyze 376 previously unsolved pediatric rare genetic disease cases. The model surfaced diagnostic leads for **18 cases** — diseases that had resisted prior analysis. The study is peer-reviewed and links to the abstract at ai.nejm.org. OpenAI categorizes this as "Applied AI," underscoring its push to demonstrate real-world clinical impact alongside consumer health improvements.
+
+**[New usage analytics and updated spend controls for enterprises](pages/openai.com/index/chatgpt-enterprise-spend-controls/index.md)** (published June 18, 2026) — Product  
+Enterprise admins now get a unified Global Admin Console that tracks ChatGPT and Codex credit consumption together, with breakdowns by user, product, and model. A new Cost API makes this data accessible to customer systems. Admins can set workspace defaults, group-level limits, and individual overrides; employees see their own usage versus budget and can request additional credits with context. Quote from Zipline co-founder confirms this was specifically requested by enterprise customers as Codex adoption spread beyond engineering into broader teams. This rounds out the "usage analytics" and "spend controls" features that first appeared as bullet points on the ChatGPT Business pricing page in yesterday's run.
+
+### Notable Updates
+
+**Homepage (`openai.com/`)** — Featured content updated: "Improving health intelligence in ChatGPT" (Jun 18) replaces "ChatGPT Images 2.0" in the hero/spotlight slot.
+
+**[GPT-5.1 page](pages/openai.com/index/gpt-5-1/index.md)** — Gained a table of contents (sections: "GPT-5.1 Instant", "GPT-5.1 Thinking", "Making ChatGPT uniquely yours", "What's next") indicating a structural expansion; also rotated featured articles to include today's spend controls and health intelligence pages.
+
+**[Business Partners page](pages/openai.com/business/partners/index.md)** — New partner logos added: HCLTech, Altimetrik, Accenture Federal Services, and Artefact. Footer link renamed from "Introducing Frontier Alliances" → "Introducing the OpenAI Partner Network," reflecting the rebrand/re-launch announced last week.
+
+**[Public Policy Agenda](pages/openai.com/index/public-policy-agenda/index.md)** — Got a detailed table of contents making 5 named policy areas prominent: Frontier model safety/security/accountability, Youth safety, Education and AI literacy, Workforce and economic transition, and Deepfakes and content provenance.
+
+**[EU Code of Practice](pages/openai.com/global-affairs/eu-code-of-practice/index.md)** — Related articles updated to reflect recent EU-focused content (supporting EU trustworthy AI ecosystem, PRC-linked influence operations).
+
+**~80 customer story / brand story pages** — Simultaneous lastmod refresh around 2026-06-19T04:47Z. No content changes detected in spot-checked pages; CMS batch republish.
+
+**~10 Codex Academy pages** — Simultaneous lastmod refresh around 2026-06-19T00:39Z. No content changes detected; likely a template or metadata update.
+
+### Removals
+None.
+
+---
+
+*Stats: 1,357 total URLs | +3 added | 132 lastmod-updated | 0 removed | 0 anomalies | 0 fetch failures | 34 sub-sitemaps*
+
+*Full analysis: [runs/2026-06-19T09-15Z/analysis.md](runs/2026-06-19T09-15Z/analysis.md)*
+
+---
+
 ## 2026-06-17 — Run `2026-06-17T09-15Z`
 
 **TL;DR:** OpenAI formally launched the **OpenAI Partner Network** today — its most significant B2B ecosystem move yet — pairing a $150 million investment with a tiered program that currently counts ~26 founding partners (Accenture, AWS, BCG, Bain, McKinsey, PwC, Snowflake, Databricks, Capgemini, and more). The goal is to train 300,000 certified AI consultants by end of 2026. Separately, OpenAI published safety research on **Deployment Simulation**, a method for replaying real user conversations against candidate models before release to surface safety blind spots. A site-wide sitemap rebuild touched 349 URLs with fresh timestamps — all today's date, no substantive content changes detected. Zero true anomalies, zero removals.
