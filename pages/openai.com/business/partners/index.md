@@ -140,6 +140,22 @@ Globant
 
 ![Globant logo](https://images.ctfassets.net/kftzwdyauwt9/3g7CfNzTofV5SvIkXBPy8z/16d01b259b539c863d7cdc5b02c7f078/Globant_logo_carousel_square.svg?w=3840&q=90)
 
+HCLTech
+
+![HCLTech logo](https://images.ctfassets.net/kftzwdyauwt9/13bLrqGD7Qh4VfGXTzNAEB/47ae68aca5f93bbe78ee7eb428b97740/hcltech-logo-carousel-square-light.svg?w=3840&q=90)
+
+Altimetrik
+
+![Altimetrik logo](https://images.ctfassets.net/kftzwdyauwt9/7LPbRqAlCqV2Nw4EvBabp4/a1bba85846976d2036a4dabe715dd1d4/altimetrik-logo-carousel-square-light.png?w=3840&q=90&fm=webp)
+
+Accenture Federal Services
+
+![Accenture Federal Services logo](https://images.ctfassets.net/kftzwdyauwt9/5ohrBxwS6ZYgSQfzif2rJ3/3b6d28bab0e1958cc1d2fc7b38cd74a2/afs-logo-carousel-square-light.svg?w=3840&q=90)
+
+Artefact
+
+![Artefact logo](https://images.ctfassets.net/kftzwdyauwt9/36CfeZNdvxrfSiAZA2BN6x/41e6ef1303c385943e27882b4914887c/artefact-logo-carousel-square-light.svg?w=3840&q=90)
+
 Accenture
 
 ![Accenture logo](https://images.ctfassets.net/kftzwdyauwt9/4Xx8SrT3tcYrOPKQvjoRQi/02fa3e8a2bf03d8a2f95eb08b1a7d929/Accenture_logo_NEW_carousel_square.svg?w=3840&q=90)
@@ -247,6 +263,22 @@ Unit8
 Globant
 
 ![Globant logo](https://images.ctfassets.net/kftzwdyauwt9/3g7CfNzTofV5SvIkXBPy8z/16d01b259b539c863d7cdc5b02c7f078/Globant_logo_carousel_square.svg?w=3840&q=90)
+
+HCLTech
+
+![HCLTech logo](https://images.ctfassets.net/kftzwdyauwt9/13bLrqGD7Qh4VfGXTzNAEB/47ae68aca5f93bbe78ee7eb428b97740/hcltech-logo-carousel-square-light.svg?w=3840&q=90)
+
+Altimetrik
+
+![Altimetrik logo](https://images.ctfassets.net/kftzwdyauwt9/7LPbRqAlCqV2Nw4EvBabp4/a1bba85846976d2036a4dabe715dd1d4/altimetrik-logo-carousel-square-light.png?w=3840&q=90&fm=webp)
+
+Accenture Federal Services
+
+![Accenture Federal Services logo](https://images.ctfassets.net/kftzwdyauwt9/5ohrBxwS6ZYgSQfzif2rJ3/3b6d28bab0e1958cc1d2fc7b38cd74a2/afs-logo-carousel-square-light.svg?w=3840&q=90)
+
+Artefact
+
+![Artefact logo](https://images.ctfassets.net/kftzwdyauwt9/36CfeZNdvxrfSiAZA2BN6x/41e6ef1303c385943e27882b4914887c/artefact-logo-carousel-square-light.svg?w=3840&q=90)
 
 ## A partner network built for outcomes
 
@@ -392,7 +424,7 @@ Tyson Cornell, US Advisory Leader, PwC
 
 ### Partner resources
 
-### [Introducing Frontier AlliancesLearn more](<https://openai.com/index/frontier-alliance-partners>)
+### [Introducing the OpenAI Partner NetworkLearn more](<https://openai.com/index/introducing-openai-partner-network/>)
 
 ### [Enterprise AI Adoption: Moving from Experimentation to Transformation with Bain & CompanyLearn more](<https://forum.openai.com/public/events/enterprise-ai-adoption-moving-from-experimentation-to-transformation-id9miiqyns>)
 

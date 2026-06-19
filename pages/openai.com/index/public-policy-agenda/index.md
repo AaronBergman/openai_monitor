@@ -39,20 +39,50 @@ Share
 Mission and principles 
 
   * Mission and principles 
+
   * Our policy priorities
+
   * Safety
+
+    * Frontier model safety, security, and accountability
+
+    * Youth safety
+
   * AI resilience in a changing world
+
+    * Education and AI literacy
+
+    * Workforce and economic transition
+
+    * Deepfakes and content provenance 
+
   * AI infrastructure and energy
+
 
 
 
 Table of contents
 
   * Mission and principles 
+
   * Our policy priorities
+
   * Safety
+
+    * Frontier model safety, security, and accountability
+
+    * Youth safety
+
   * AI resilience in a changing world
+
+    * Education and AI literacy
+
+    * Workforce and economic transition
+
+    * Deepfakes and content provenance 
+
   * AI infrastructure and energy
+
 
 
 

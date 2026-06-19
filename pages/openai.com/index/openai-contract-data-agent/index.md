@@ -39,20 +39,30 @@ Share
 When contracts became the bottleneck
 
   * When contracts became the bottleneck
+
   * Building a smarter workflow
+
   * Confident contract reviews
+
   * Beyond contracts
+
   * A new operating model for finance
+
 
 
 
 Table of contents
 
   * When contracts became the bottleneck
+
   * Building a smarter workflow
+
   * Confident contract reviews
+
   * Beyond contracts
+
   * A new operating model for finance
+
 
 
 
