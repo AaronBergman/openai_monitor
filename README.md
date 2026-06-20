@@ -1,3 +1,39 @@
+## 2026-06-20 — Run `2026-06-20T09-15Z`
+
+**TL;DR:** No pages were added or removed today. The dominant signal is a **sitewide CMS rollout on June 19** that touched 111 article and index pages with navigation/structure updates — most appear to be metadata-only re-publishes with no substantive content changes. Within that batch, the most meaningful change is on the **"Our approach to data and AI"** policy page, which received an expanded table of contents with new subsections: "We respect the choices of creators and content owners on AI," "We're building Media Manager so content owners can manage how their works are used in AI," and two new model-training subsections ("We design our AI models to be learning machines, not databases" / "We use broad and diverse data to build the best AI for everyone") — indicating this policy document was meaningfully restructured, possibly ahead of regulatory engagement. The **news/applied-ai** hub also updated to surface the rare pediatric disease diagnosis article added yesterday. A handful of pages received fresh lastmod timestamps dated today (June 20) with no visible content differences. No anomalies; no removals.
+
+### Anomalies
+None.
+
+### New Pages
+None.
+
+### Notable Updates
+
+**["Our approach to data and AI" policy page](pages/openai.com/index/approach-to-data-and-ai/index.md)** — lastmod `2026-05-22` → `2026-06-19`  
+The table of contents was substantively expanded. New top-level section: "We respect the choices of creators and content owners on AI." New subsections: "We're building Media Manager so content owners can manage how their works are used in AI," "We're building products to benefit users, creators and publishers in a vibrant ecosystem," "We design our AI models to be learning machines, not databases," "We use broad and diverse data to build the best AI for everyone." This signals a significant revision to OpenAI's public-facing data and copyright policy narrative, likely connected to ongoing regulatory and legal activity around training data.
+
+**[News / Applied AI hub](pages/openai.com/news/applied-ai/index.md)** — lastmod `2026-06-19`  
+New article card added to the listing: "Using AI to help physicians diagnose rare genetic diseases affecting children" (Applied AI, Jun 18, 2026), linking to `/index/diagnose-rare-childhood-diseases/` — the page added in yesterday's run now appears in the Applied AI feed.
+
+**[Booking.com case study](pages/openai.com/index/booking-com/index.md)** — lastmod `2026-06-08` → `2026-06-19`  
+Gained a detailed table of contents with five named sections: "Scoping a solution for discovery and intent," "Building the AI Trip Planner in weeks," "Simplifying travel with Smart Filters and review summaries," "Changing customer behavior with conversational travel tools," "Collaborating to create more connected travel experiences." Navigation restructure, body content unchanged.
+
+**~87 article/index pages** — Same-day metadata touch (June 19, ~04:47Z → ~14:16Z)  
+Batch re-publish affecting the majority of the 111 updated pages; no content differences detected in spot-checked pages. Pattern is consistent with a CMS template or SEO metadata update.
+
+**Pages refreshed today (June 20) with no content change:** `computer-using-agent`, `introducing-operator`, `introducing-the-stateful-runtime-environment-for-agents-in-amazon-bedrock`, `daybreak/request-a-vulnerability-scan`.
+
+### Stats
+
+- Total URLs: 1357
+- Added: 0 | Updated: 111 | Removed: 0
+- Anomalies: 0 | Fetch failures: 0
+- Sub-sitemaps: 34
+
+See full analysis: [runs/2026-06-20T09-15Z/analysis.md](runs/2026-06-20T09-15Z/analysis.md)
+
+---
 ## 2026-06-19 — Run `2026-06-19T09-15Z`
 
 **TL;DR:** OpenAI made a coordinated health AI push today: three new pages announced **GPT-5.5 Instant**'s improved health capabilities for ChatGPT's 230M+ weekly health users, a peer-reviewed NEJM AI study using an OpenAI reasoning model to surface 18 diagnoses from 376 previously unsolved rare pediatric disease cases, and new enterprise spend controls for ChatGPT/Codex credit management. The model versioning page for GPT-5.5 Instant incidentally reveals a fuller model lineage: 5.3 Instant (March 2026) → 5.5 Instant (May 2026), plus 5.4 Thinking and 5.5 Thinking variants. A large batch of ~80 customer story pages received simultaneous CMS re-publishes with no content changes, plus ~10 Codex Academy pages similarly refreshed. No anomalies, no removals.

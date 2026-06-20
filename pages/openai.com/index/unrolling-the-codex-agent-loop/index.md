@@ -26,14 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-The agent loop
-
-  * The agent loop
-  * Model inference
-  * Coming next
-
-
-
 January 23, 2026
 
 [Engineering](</news/engineering/>)
@@ -43,6 +35,40 @@ January 23, 2026
 By Michael Bolin, Member of the Technical Staff
 
 Loading…
+
+The agent loop
+
+  * The agent loop
+
+  * Model inference
+
+    * Building the initial prompt
+
+    * The first turn
+
+    * Performance considerations
+
+  * Coming next
+
+
+
+
+Table of contents
+
+  * The agent loop
+
+  * Model inference
+
+    * Building the initial prompt
+
+    * The first turn
+
+    * Performance considerations
+
+  * Coming next
+
+
+
 
 [ _Codex CLI_ ⁠(opens in a new window)](<https://developers.openai.com/codex/cli>) is our cross-platform local software agent, designed to produce high-quality, reliable software changes while operating safely and efficiently on your machine. We’ve learned a tremendous amount about how to build a world-class software agent [_since we first launched the CLI in April_ ⁠](<https://openai.com/index/introducing-o3-and-o4-mini/>). To unpack those insights, this is the first post in an ongoing series where we’ll explore various aspects of how Codex works, as well as hard-earned lessons. (For an even more granular view on how the Codex CLI is built, check out our open source repository at [_https://github.com/openai/codex_ ⁠(opens in a new window)](<https://github.com/openai/codex>). Many of the finer details of our design decisions are memorialized in GitHub issues and pull requests if you’d like to learn more.)
 
@@ -89,7 +115,7 @@ The Responses API endpoint that the Codex CLI uses is [_configurable_ ⁠(opens 
 
 Let’s explore how Codex creates the prompt for the first inference call in a conversation.
 
-#### Building the initial prompt
+### Building the initial prompt
 
 As an end user, you don’t specify the prompt used to sample the model verbatim when you query the Responses API. Instead, you specify various input types as part of your query, and the Responses API server decides how to structure this information into a prompt that the model is designed to consume. You can think of the prompt as a “list of items”; this section will explain how your query gets transformed into that list.
 
@@ -457,7 +483,7 @@ As you can see, the order of the first three items in the prompt is determined b
 
 Now that we have our prompt, we are ready to sample the model.
 
-#### The first turn
+### The first turn
 
 This HTTP request to the Responses API initiates the first “turn” of a conversation in Codex. The server replies with a Server-Sent Events ([_SSE_ ⁠(opens in a new window)](<https://en.wikipedia.org/wiki/Server-sent_events>)) stream. The `data` of each event is a JSON payload with a `"type"` that starts with `"response"`, which could be something like this (a full list of events can be found in our [_API docs_ ⁠(opens in a new window)](<https://platform.openai.com/docs/api-reference/responses-streaming>)):
 
@@ -725,7 +751,7 @@ Once again, because we are continuing a conversation, the length of the `input` 
 
 Let’s examine what this ever-growing prompt means for performance.
 
-#### Performance considerations
+### Performance considerations
 
 You might be asking yourself, “Wait, isn’t the agent loop _quadratic_ in terms of the amount of JSON sent to the Responses API over the course of the conversation?” And you would be right. While the Responses API does support an optional [`_previous_response_id_` ⁠(opens in a new window)](<https://platform.openai.com/docs/api-reference/responses/create#responses_create-previous_response_id>) parameter to mitigate this issue, Codex does not use it today, primarily to keep requests fully stateless and to support Zero Data Retention (ZDR) configurations.
 

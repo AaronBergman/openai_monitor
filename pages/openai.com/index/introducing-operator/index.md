@@ -43,22 +43,34 @@ Loading…
 How Operator works
 
   * How Operator works
+
   * How to use
+
   * Ecosystem & users
+
   * Safety and privacy 
+
   * Limitations
+
   * What's next
+
 
 
 
 Table of contents
 
   * How Operator works
+
   * How to use
+
   * Ecosystem & users
+
   * Safety and privacy 
+
   * Limitations
+
   * What's next
+
 
 
 

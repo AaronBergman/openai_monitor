@@ -41,16 +41,22 @@ Share
 Why provenance matters
 
   * Why provenance matters
+
   * OpenAI’s multi-layered approach to provenance
+
   * Making content transparency work in practice
+
 
 
 
 Table of contents
 
   * Why provenance matters
+
   * OpenAI’s multi-layered approach to provenance
+
   * Making content transparency work in practice
+
 
 
 

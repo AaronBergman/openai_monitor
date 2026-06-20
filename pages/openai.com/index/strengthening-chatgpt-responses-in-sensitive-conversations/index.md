@@ -26,17 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Guiding principles 
-
-  * Guiding principles 
-  * How we’re improving responses in ChatGPT 
-  * Measuring low prevalence events
-  * What we found
-  * Expert collaboration and evaluation 
-  * Looking ahead
-
-
-
 October 27, 2025
 
 [Safety](</news/safety-alignment/>)
@@ -48,6 +37,56 @@ We worked with more than 170 mental health experts to help ChatGPT more reliably
 Loading…
 
 Share
+
+Guiding principles 
+
+  * Guiding principles 
+
+  * How we’re improving responses in ChatGPT 
+
+  * Measuring low prevalence events
+
+  * What we found
+
+    * Psychosis, mania and other severe mental health symptoms 
+
+    * Self harm and suicide 
+
+    * Emotional reliance on AI 
+
+    * Examples of strengthened model responses
+
+  * Expert collaboration and evaluation 
+
+  * Looking ahead
+
+
+
+
+Table of contents
+
+  * Guiding principles 
+
+  * How we’re improving responses in ChatGPT 
+
+  * Measuring low prevalence events
+
+  * What we found
+
+    * Psychosis, mania and other severe mental health symptoms 
+
+    * Self harm and suicide 
+
+    * Emotional reliance on AI 
+
+    * Examples of strengthened model responses
+
+  * Expert collaboration and evaluation 
+
+  * Looking ahead
+
+
+
 
 We recently updated [_ChatGPT’s default model_ ⁠(opens in a new window)](<https://help.openai.com/en/articles/9624314-model-release-notes>) to better recognize and support people in moments of distress. Today we’re sharing how we made those improvements and how they are performing. Working with mental health experts who have real-world clinical experience, we’ve taught the model to better recognize distress, de-escalate conversations, and guide people toward professional care when appropriate. We’ve also expanded access to crisis hotlines, [_re-routed_ ⁠(opens in a new window)](<https://help.openai.com/en/articles/9624314-model-release-notes>) sensitive conversations originating from other models to safer models, and added gentle reminders to [_take breaks_ ⁠](<https://openai.com/index/optimizing-chatgpt/>) during long sessions.
 
@@ -83,7 +122,7 @@ Given the very low prevalence of relevant conversations, we don’t rely on real
 
 In service of further strengthening our models’ safeguards and understanding how people are using ChatGPT, we defined several areas of interest and quantified their size and associated model behaviors. In each of these three areas, we observe significant model behavior improvements in production traffic, automated evals, and evals graded by independent mental health clinicians. We estimate that the model now returns responses that do not fully comply with desired behavior under our taxonomies 65% to 80% less often across a range of mental health-related domains. 
 
-#### Psychosis, mania and other severe mental health symptoms 
+### Psychosis, mania and other severe mental health symptoms 
 
 Our mental health taxonomy is designed to identify when users may be showing signs of serious mental health concerns, such as psychosis and mania, as well as less severe signals, such as isolated delusions. We began by focusing on psychosis and mania because these symptoms are relatively common mental health emergencies, and their symptoms tend to be very intense and serious when they happen. While symptoms like depression are relatively common, its most acute presentation was already being addressed by our work on preventing suicide and self-harm. Clinicians we consulted validated our areas of focus. 
 
@@ -94,7 +133,7 @@ Our mental health taxonomy is designed to identify when users may be showing sig
 
 
 
-#### Self harm and suicide 
+### Self harm and suicide 
 
 We’ve built upon our [_existing work_ ⁠](<https://openai.com/index/helping-people-when-they-need-it-most/>) on preventing suicide and self-harm to detect when a user may be experiencing thoughts of suicide and self-harm or aggregate signs that would indicate interest in suicide. Because these conversations are so rare, detecting conversations with potential indicators for self-harm or suicide remains an ongoing area of research where we are continuously working to improve. 
 
@@ -108,7 +147,7 @@ We’ve built upon our [_existing work_ ⁠](<https://openai.com/index/helping-p
 
 In an evaluation of challenging long conversations asking for instructions for self-harm or suicide, gpt-5-oct-3 is safer and its safety holds up better over long conversations.
 
-#### Emotional reliance on AI 
+### Emotional reliance on AI 
 
 Our emotional reliance taxonomy (building on [_our prior work_ ⁠(opens in a new window)](<https://cdn.openai.com/papers/15987609-5f71-433c-9972-e91131f399a1/openai-affective-use-study.pdf>) in this space) distinguishes between healthy engagement and concerning patterns of use, such as when someone shows potential signs of exclusive attachment to the model at the expense of real-world relationships, their well-being, or obligations. 
 
@@ -119,7 +158,7 @@ Our emotional reliance taxonomy (building on [_our prior work_ ⁠(opens in a ne
 
 
 
-#### Examples of strengthened model responses
+### Examples of strengthened model responses
 
 For conversations indicating emotional reliance, we teach our models to encourage real-world connection:
 
