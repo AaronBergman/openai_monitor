@@ -39,18 +39,26 @@ Share
 Building the inbound sales assistant
 
   * Building the inbound sales assistant
+
   * Built with reps, for reps
+
   * From missed leads to high growth 
+
   * A new standard for engagement
+
 
 
 
 Table of contents
 
   * Building the inbound sales assistant
+
   * Built with reps, for reps
+
   * From missed leads to high growth 
+
   * A new standard for engagement
+
 
 
 

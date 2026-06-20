@@ -26,15 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-1\. We collaborate with news organizations and are creating new opportunities
-
-  * 1\. We collaborate with news organizations and are creating new opportunities
-  * 2\. Training is fair use, but we provide an opt-out because it’s the right thing to do
-  * 3\. “Regurgitation” is a rare bug that we are working to drive to zero
-  * 4\. The New York Times is not telling the full story
-
-
-
 January 8, 2024
 
 [Product](</news/product-releases/>)
@@ -50,6 +41,32 @@ Illustration: Justin Jay Wang × DALL·E
 Loading…
 
 Share
+
+1\. We collaborate with news organizations and are creating new opportunities
+
+  * 1\. We collaborate with news organizations and are creating new opportunities
+
+  * 2\. Training is fair use, but we provide an opt-out because it’s the right thing to do
+
+  * 3\. “Regurgitation” is a rare bug that we are working to drive to zero
+
+  * 4\. The New York Times is not telling the full story
+
+
+
+
+Table of contents
+
+  * 1\. We collaborate with news organizations and are creating new opportunities
+
+  * 2\. Training is fair use, but we provide an opt-out because it’s the right thing to do
+
+  * 3\. “Regurgitation” is a rare bug that we are working to drive to zero
+
+  * 4\. The New York Times is not telling the full story
+
+
+
 
 Our goal is to develop AI tools that [empower people⁠(opens in a new window)](<https://twitter.com/peakcooper/status/1639716822680236032?s=20>) to solve problems that are otherwise out of reach. People worldwide are already using our technology to [improve their daily lives⁠(opens in a new window)](<https://www.tiktok.com/@lucyedwards/video/7210863732203769093?lang=en>). Millions of developers and more than 92% of Fortune 500 are building on our products today.
 

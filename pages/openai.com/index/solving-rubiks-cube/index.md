@@ -26,15 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Our approach
-
-  * Our approach
-  * Analysis
-  * Challenges
-  * Next steps
-
-
-
 October 15, 2019
 
 [Milestone](</research/index/milestone/>)
@@ -50,6 +41,48 @@ Photo: Eric Haines
 Loading…
 
 Share
+
+Our approach
+
+  * Our approach
+
+  * Analysis
+
+    * Testing for robustness
+
+    * Emergent meta-learning
+
+    * Understanding our neural networks
+
+  * Challenges
+
+    * Behind the scenes: Rubik’s Cube prototypes
+
+  * Next steps
+
+
+
+
+Table of contents
+
+  * Our approach
+
+  * Analysis
+
+    * Testing for robustness
+
+    * Emergent meta-learning
+
+    * Understanding our neural networks
+
+  * Challenges
+
+    * Behind the scenes: Rubik’s Cube prototypes
+
+  * Next steps
+
+
+
 
 We’ve trained a pair of neural networks to solve the Rubik’s Cube with a human-like robot hand. The neural networks are trained entirely in simulation, using the same reinforcement learning code as [OpenAI Five⁠](</index/openai-five/>) paired with a new technique called Automatic Domain Randomization (ADR). The system can handle situations it never saw during training, such as being prodded by a [stuffed giraffe⁠](</index/solving-rubiks-cube/#perturbations>). This shows that reinforcement learning isn’t just a tool for virtual tasks, but can solve physical-world problems requiring unprecedented dexterity.
 
