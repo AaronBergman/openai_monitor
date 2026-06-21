@@ -61,16 +61,22 @@ Share
 The next generation of collaborative software development
 
   * The next generation of collaborative software development
+
   * Agentic orchestration with Oz
+
   * Building the infrastructure for agentic development
+
 
 
 
 Table of contents
 
   * The next generation of collaborative software development
+
   * Agentic orchestration with Oz
+
   * Building the infrastructure for agentic development
+
 
 
 

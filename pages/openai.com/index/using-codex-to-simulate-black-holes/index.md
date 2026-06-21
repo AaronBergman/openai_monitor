@@ -96,6 +96,14 @@ If the approaches that Chan is testing with Codex succeed, the new algorithms co
 
 OpenAI
 
+## Keep reading
+
+[View all](</news/>)
+
+![Boston's Children Hospital NEJM > Cover image](https://images.ctfassets.net/kftzwdyauwt9/1VrF8z79R2Khy4PWmHRKME/38077532a039ebb39f054e84d6ae89c7/Art_Card.png?w=3840&q=90&fm=webp)
+
+[Using AI to help physicians diagnose rare genetic diseases affecting childrenApplied AIJun 18, 2026](</index/diagnose-rare-childhood-diseases/>)
+
 Research
 
   * [Research Index](</research/index/>)

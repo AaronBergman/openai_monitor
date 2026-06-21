@@ -39,20 +39,30 @@ Share
 Simplify getting agents into production
 
   * Simplify getting agents into production
+
   * What this unlocks
+
   * Faster time to production for multi-step workflows
+
   * A better fit for long-horizon work
+
   * AWS-native deployment and governance
+
 
 
 
 Table of contents
 
   * Simplify getting agents into production
+
   * What this unlocks
+
   * Faster time to production for multi-step workflows
+
   * A better fit for long-horizon work
+
   * AWS-native deployment and governance
+
 
 
 

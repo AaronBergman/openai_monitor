@@ -49,6 +49,10 @@ Switch cards to show Media
 
 Switch cards to hide Media
 
+![Boston's Children Hospital NEJM > Cover image](https://images.ctfassets.net/kftzwdyauwt9/1VrF8z79R2Khy4PWmHRKME/38077532a039ebb39f054e84d6ae89c7/Art_Card.png?w=3840&q=90&fm=webp)
+
+[Using AI to help physicians diagnose rare genetic diseases affecting childrenApplied AIJun 18, 2026](</index/diagnose-rare-childhood-diseases/>)
+
 ![Frame \(4\)](https://images.ctfassets.net/kftzwdyauwt9/1cXwxAxok14lQF5HiEO4zi/567dbae4950956776ef4a28f9790df4c/Frame__4_.png?w=3840&q=90&fm=webp)
 
 [How an astrophysicist uses Codex to help simulate black holesApplied AIJun 11, 2026](</index/using-codex-to-simulate-black-holes/>)

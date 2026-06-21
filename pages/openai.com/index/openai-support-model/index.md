@@ -39,22 +39,34 @@ Share
 More than tickets, a new operating model
 
   * More than tickets, a new operating model
+
   * Connecting a system of interactions
+
   * Support reps as systems thinkers 
+
   * From primitives to production
+
   * Learning that compounds
+
   * A blueprint for the future of support
+
 
 
 
 Table of contents
 
   * More than tickets, a new operating model
+
   * Connecting a system of interactions
+
   * Support reps as systems thinkers 
+
   * From primitives to production
+
   * Learning that compounds
+
   * A blueprint for the future of support
+
 
 
 

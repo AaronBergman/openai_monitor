@@ -39,22 +39,34 @@ Share
 Managing growth
 
   * Managing growth
+
   * A teammate, not another tool
+
   * Defining what “great” looks like
+
   * Impact you can feel
+
   * From answers to actions
+
   * Scaling excellence
+
 
 
 
 Table of contents
 
   * Managing growth
+
   * A teammate, not another tool
+
   * Defining what “great” looks like
+
   * Impact you can feel
+
   * From answers to actions
+
   * Scaling excellence
+
 
 
 

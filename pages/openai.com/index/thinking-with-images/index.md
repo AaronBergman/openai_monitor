@@ -26,14 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Visual reasoning in action
-
-  * Visual reasoning in action
-  * Benchmark performance
-  * Limitations and what’s next
-
-
-
 April 16, 2025
 
 [Release](</research/index/release/>)
@@ -43,6 +35,28 @@ April 16, 2025
 [Try on ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 Loading…
+
+Visual reasoning in action
+
+  * Visual reasoning in action
+
+  * Benchmark performance
+
+  * Limitations and what’s next
+
+
+
+
+Table of contents
+
+  * Visual reasoning in action
+
+  * Benchmark performance
+
+  * Limitations and what’s next
+
+
+
 
 [ _OpenAI o3 and o4-mini_](</index/introducing-o3-and-o4-mini/>) are the latest visual reasoning models in our o-series. For the first time, our models can think with images in their chain-of-thought—not just see them.
 
