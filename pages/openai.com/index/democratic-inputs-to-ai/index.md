@@ -26,17 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-What do we mean by a “democratic process”?
-
-  * What do we mean by a “democratic process”?
-  * Instructions for participation
-  * Timeline
-  * Policy statements under consideration
-  * Application advisory committee
-  * Application review factors
-
-
-
 May 25, 2023
 
 [Publication](</research/index/publication/>)
@@ -48,6 +37,40 @@ May 25, 2023
 Loading…
 
 Share
+
+What do we mean by a “democratic process”?
+
+  * What do we mean by a “democratic process”?
+
+  * Instructions for participation
+
+  * Timeline
+
+  * Policy statements under consideration
+
+  * Application advisory committee
+
+  * Application review factors
+
+
+
+
+Table of contents
+
+  * What do we mean by a “democratic process”?
+
+  * Instructions for participation
+
+  * Timeline
+
+  * Policy statements under consideration
+
+  * Application advisory committee
+
+  * Application review factors
+
+
+
 
 Our nonprofit organization, OpenAI, Inc., is launching a program to award ten $100,000 grants to fund experiments in setting up a democratic process for deciding what rules AI systems should follow, within the bounds defined by the law.
 

@@ -1,3 +1,48 @@
+## 2026-06-21 — Run `2026-06-21T09-15Z`
+
+**TL;DR:** Quiet maintenance day. No new pages, no removals. 122 URLs show updated `<lastmod>` timestamps since the June 19 baseline, but the vast majority reflect CMS infrastructure noise: a site-wide template update that duplicates the table-of-contents block on article pages (cosmetic, no editorial change), automatic rotation of the "Keep reading" widget on most pages (now featuring the June 18 ChatGPT Enterprise spend controls, health intelligence, and rare-disease diagnosis articles), and backend metadata revalidation on several pages with identical rendered content. The only substantive editorial change is a minor heading-level fix in one Codex engineering post (`####` → `###`). Zero anomalies.
+
+### Anomalies
+None.
+
+### New Pages
+None.
+
+### Notable Updates
+
+**CMS Template Change — Duplicate TOC Rendering (62+ pages, ~2026-06-19T14:16 UTC)**  
+A site-wide template update caused 62+ article pages to show their table of contents twice in the rendered HTML: once before the article header and once afterward, now with an explicit "Table of contents" label. All affected pages also reordered their header metadata (date, category, title now appear above the TOC). The underlying article text on every page is unchanged. Representative affected pages:
+- [`/index/equip-responses-api-computer-environment/`](pages/openai.com/index/equip-responses-api-computer-environment/index.md) — Responses API computer environment (engineering)
+- [`/index/sharing-the-latest-model-spec/`](pages/openai.com/index/sharing-the-latest-model-spec/index.md) — Model Spec release post
+- [`/index/computer-using-agent/`](pages/openai.com/index/computer-using-agent/index.md) — CUA release post
+- [`/index/introducing-operator/`](pages/openai.com/index/introducing-operator/index.md) — Operator launch post
+- [`/index/emergent-tool-use/`](pages/openai.com/index/emergent-tool-use/index.md) — 2019 hide-and-seek research
+
+**"Keep Reading" Widget Rotation (site-wide)**  
+The three "Keep reading" cards at the bottom of most article pages rotated to highlight the newest June 18 content:
+- [New usage analytics and updated spend controls for enterprises](pages/openai.com/index/chatgpt-enterprise-spend-controls/index.md)
+- [Improving health intelligence in ChatGPT](pages/openai.com/index/improving-health-intelligence-in-chatgpt/index.md)
+- [Using AI to help physicians diagnose rare childhood diseases](pages/openai.com/index/diagnose-rare-childhood-diseases/index.md)
+
+The previous trio (AI chemist, LifeSciBench, Deployment Simulation) rotated out.
+
+**Heading Level Fix — Codex Agent Loop Engineering Post**  
+[`/index/unrolling-the-codex-agent-loop/`](pages/openai.com/index/unrolling-the-codex-agent-loop/index.md): Two section headings corrected from H4 (`####`) to H3 (`###`) — "Building the initial prompt" and "The first turn." Minor editorial formatting fix with no change to the actual text.
+
+**Pages with lastmod bumps and no detectable content change (backend-only)**  
+`/products/release-notes/` (new lastmod: 2026-06-21T09:07), `/policies/commerce-policies/` (2026-06-21T07:34), `/index/gpt-5-safe-completions/` (2026-06-21T05:06), `/index/introducing-life-sci-bench/` (2026-06-21T05:06), `/index/deployment-simulation/` (2026-06-21T04:57), `/index/diagnose-rare-childhood-diseases/` (2026-06-21T02:58), `/index/chatgpt-enterprise-spend-controls/` (2026-06-21T02:36), and ~25 more. Content identical to June 19 snapshot in all cases.
+
+### Removals
+None.
+
+---
+
+*Stats: 1,357 total URLs | +0 added | 122 lastmod-updated | 0 removed | 0 anomalies | 0 fetch failures | 34 sub-sitemaps*
+
+*Full analysis: [runs/2026-06-21T09-15Z/analysis.md](runs/2026-06-21T09-15Z/analysis.md)*
+
+---
+
 ## 2026-06-19 — Run `2026-06-19T09-15Z`
 
 **TL;DR:** OpenAI made a coordinated health AI push today: three new pages announced **GPT-5.5 Instant**'s improved health capabilities for ChatGPT's 230M+ weekly health users, a peer-reviewed NEJM AI study using an OpenAI reasoning model to surface 18 diagnoses from 376 previously unsolved rare pediatric disease cases, and new enterprise spend controls for ChatGPT/Codex credit management. The model versioning page for GPT-5.5 Instant incidentally reveals a fuller model lineage: 5.3 Instant (March 2026) → 5.5 Instant (May 2026), plus 5.4 Thinking and 5.5 Thinking variants. A large batch of ~80 customer story pages received simultaneous CMS re-publishes with no content changes, plus ~10 Codex Academy pages similarly refreshed. No anomalies, no removals.

@@ -26,16 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Autocurricula and emergent behavior
-
-  * Autocurricula and emergent behavior
-  * Training hide-and-seek agents
-  * Multi-agent competition vs. intrinsic motivation
-  * Transfer and fine-tuning as evaluation
-  * Surprising behaviors
-
-
-
 September 17, 2019
 
 [Milestone](</research/index/milestone/>)
@@ -51,6 +41,36 @@ Illustration: Ben Barry
 Loading…
 
 Share
+
+Autocurricula and emergent behavior
+
+  * Autocurricula and emergent behavior
+
+  * Training hide-and-seek agents
+
+  * Multi-agent competition vs. intrinsic motivation
+
+  * Transfer and fine-tuning as evaluation
+
+  * Surprising behaviors
+
+
+
+
+Table of contents
+
+  * Autocurricula and emergent behavior
+
+  * Training hide-and-seek agents
+
+  * Multi-agent competition vs. intrinsic motivation
+
+  * Transfer and fine-tuning as evaluation
+
+  * Surprising behaviors
+
+
+
 
 We’ve observed agents discovering progressively more complex tool use while playing a simple game of hide-and-seek. Through training in our new simulated hide-and-seek environment, agents build a series of six distinct strategies and counterstrategies, some of which we did not know our environment supported. The self-supervised emergent complexity in this simple environment further suggests that multi-agent co-adaptation may one day produce extremely complex and intelligent behavior.
 
