@@ -39,20 +39,30 @@ Loading…
 How trusted access works
 
   * How trusted access works
+
   * How GPT-5.5 and GPT-5.5-Cyber perform on cyber tasks
+
   * Scaling defensive capability across the security ecosystem
+
   * Codex Security for open source and defenders
+
   * Looking ahead
+
 
 
 
 Table of contents
 
   * How trusted access works
+
   * How GPT-5.5 and GPT-5.5-Cyber perform on cyber tasks
+
   * Scaling defensive capability across the security ecosystem
+
   * Codex Security for open source and defenders
+
   * Looking ahead
+
 
 
 

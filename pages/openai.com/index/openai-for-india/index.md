@@ -26,15 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Laying the foundation for India’s sovereign AI infrastructure
-
-  * Laying the foundation for India’s sovereign AI infrastructure
-  * Driving enterprise transformation across the Tata ecosystem and beyond
-  * Upskilling Indians and advancing education through certifications and curriculum development
-  * Expanding our local presence in India
-
-
-
 February 18, 2026
 
 [Global Affairs](</news/global-affairs/>)
@@ -44,6 +35,32 @@ February 18, 2026
 Loading…
 
 Share
+
+Laying the foundation for India’s sovereign AI infrastructure
+
+  * Laying the foundation for India’s sovereign AI infrastructure
+
+  * Driving enterprise transformation across the Tata ecosystem and beyond
+
+  * Upskilling Indians and advancing education through certifications and curriculum development
+
+  * Expanding our local presence in India
+
+
+
+
+Table of contents
+
+  * Laying the foundation for India’s sovereign AI infrastructure
+
+  * Driving enterprise transformation across the Tata ecosystem and beyond
+
+  * Upskilling Indians and advancing education through certifications and curriculum development
+
+  * Expanding our local presence in India
+
+
+
 
 Today at the India AI Impact Summit 2026 in Delhi, we’re launching OpenAI for India, a nationwide initiative with leading Indian partners to expand access to AI and unlock its economic and societal benefits in the world’s largest democracy. 
 
@@ -92,17 +109,19 @@ _“India is already leading the way in AI adoption, and with its homegrown tech
 
 [View all](</news/>)
 
-![oai 1x1 Biodefense in the Intelligence Age](https://images.ctfassets.net/kftzwdyauwt9/6A4rrCBs9rrlbzm9JWIvSi/8a4ae56849fcd0b16e90b59b8babc613/oai_1x1_Biodefense_in_the_Intelligence_Age.png?w=3840&q=90&fm=webp)
+![Supporting Europe’s work in ensuring a trustworthy AI ecosystem  > art card](https://images.ctfassets.net/kftzwdyauwt9/U3OuQtdga2BaxWxb0e2ge/2fdc2fb1cf5c70a8f77fc4b55236aa78/Frame2.png?w=3840&q=90&fm=webp)
 
-[Biodefense in the Intelligence AgeGlobal AffairsJun 4, 2026](</index/biodefense-in-the-intelligence-age/>)
+[Supporting Europe’s work in ensuring a trustworthy AI ecosystem Global AffairsJun 11, 2026](</index/supporting-eu-trustworthy-ai-ecosystem/>)
 
-![OpenAI’s public policy agenda > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/CdH7XdsXfpUaYZJpeCwwz/76b975c66fce3ce5ec4a901b4f675369/Frame.png?w=3840&q=90&fm=webp)
+![PRC-linked influence > Art Card](https://images.ctfassets.net/kftzwdyauwt9/2WkDQ2w51892xwY7QHwkRC/ec5f7b504805e36db928c06cb313f53c/Threat-Intelligence-Repart-ArtCard.png?w=3840&q=90&fm=webp)
 
-[OpenAI public policy agendaGlobal AffairsJun 3, 2026](</index/public-policy-agenda/>)
+[PRC-linked influence operations are targeting AI debates in the USGlobal AffairsJun 10, 2026](</index/prc-linked-influence-operations-ai-debates/>)
 
-![Frontier Safety Blueprint > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/6zU111Ouj65b8iZJnswHBe/a705de1c90ab048510532db2f53f12f3/Frame.png?w=3840&q=90&fm=webp)
+![Frame](https://images.ctfassets.net/kftzwdyauwt9/5PD5E0PhvNP8ogbhvNxdKF/42a592f5b93580d940065610304c3f22/Frame.png?w=3840&q=90&fm=webp)
 
-[A blueprint for democratic governance of frontier AIGlobal AffairsJun 3, 2026](</index/frontier-safety-blueprint/>)
+Industrial policy for the Intelligence Age
+
+[Industrial policy for the Intelligence AgeGlobal AffairsJun 9, 2026](</index/industrial-policy-for-the-intelligence-age/>)
 
 Research
 

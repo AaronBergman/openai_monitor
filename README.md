@@ -1,3 +1,49 @@
+## 2026-06-22 — Run `2026-06-22T09-15Z`
+
+**TL;DR:** The standout addition is a major enterprise deployment announcement: **Samsung Electronics** is rolling out ChatGPT Enterprise and Codex to all employees in Korea and all Device eXperience (DX) division employees worldwide — one of OpenAI's largest enterprise deployments ever, with Codex weekly active users in Korea up ~800% since February 2026. Beyond that, 123 URLs had their `<lastmod>` timestamps refreshed, but the vast majority reflect CMS-level touch-ups (sidebar/related-articles rotation) rather than body content changes. Pages from the past week worth noting include GPT-5.5-Cyber for critical infrastructure defenders, LifeSciBench (a new expert-written life-science AI benchmark), GPT-Rosalind capability updates, and new ChatGPT Enterprise spend controls. One benign anomaly: the Release Notes page reports a `<lastmod>` fractionally in the future — its CMS sets timestamps at serve time.
+
+### Anomalies
+
+**`openai.com/products/release-notes/` — CMS-dynamic `<lastmod>`:** The timestamp `2026-06-22T09:17:11.130Z` is milliseconds *after* our 09:17:11Z fetch time. OpenAI's CMS appears to write the current server time into `<lastmod>` at sitemap-serve time for this page. No actual content change. This is a known CMS anti-pattern; worth watching to see if it recurs on future runs.
+
+### New Pages (1)
+
+**[Samsung Electronics brings ChatGPT and Codex to employees](pages/openai.com/index/samsung-electronics-chatgpt-codex-deployment/index.md)** ⭐ (published June 21, 2026) — Company  
+Samsung Electronics is deploying ChatGPT Enterprise and Codex to all employees in Korea and all Device eXperience (DX) division employees globally — one of OpenAI's largest enterprise launches. Key stats: 5M+ people use Codex weekly; Codex weekly active users in Korea grew ~800% since February 1, 2026. Use cases span software development, marketing, manufacturing, and other non-technical functions. The deployment also expands an existing Samsung–OpenAI relationship that previously focused on AI infrastructure (Samsung supplying advanced memory chips). The same announcement notes ChatGPT Edu reaching Seoul National University's 47,000 members and integrations with KakaoTalk, LG Electronics, LG Uplus, and other Korean enterprises.
+
+### Notable Updates
+
+**~53 pages (bulk CMS republish, ~04:56–04:59 UTC):** A large batch of customer stories and brand pages received simultaneous timestamp bumps. Diffs confirm these are sidebar/related-articles rotations — the Samsung Electronics article was inserted into page carousels, displacing older articles. No body text changed.
+
+**[GPT-5.5 and GPT-5.5-Cyber for Cybersecurity Defenders](pages/openai.com/index/gpt-5-5-with-trusted-access-for-cyber/index.md)** — Published May 7, 2026; lastmod bumped from Jun 14 → Jun 22. Details the limited preview rollout of GPT-5.5-Cyber to defenders responsible for critical infrastructure, alongside Trusted Access for Cyber (TAC) safeguards. Diff: whitespace only.
+
+**[Introducing New Capabilities to GPT-Rosalind](pages/openai.com/index/introducing-new-capabilities-to-gpt-rosalind/index.md)** — Published June 3, 2026; lastmod bumped Jun 18 → Jun 22. Enhancements to OpenAI's life-sciences model: stronger reasoning in medicinal chemistry, genomics, quantitative biology, and real-world lab workflow integration. Sidebar-only diff.
+
+**[Introducing LifeSciBench](pages/openai.com/index/introducing-life-sci-bench/index.md)** — Published June 17, 2026; lastmod bumped Jun 18 → Jun 22. A new benchmark for evaluating AI on realistic life science research tasks — 750 expert-authored tasks, 173 scientist contributors, 19,020 rubric criteria across 7 workflow categories. Sidebar-only diff.
+
+**[ChatGPT Enterprise Spend Controls & Usage Analytics](pages/openai.com/index/chatgpt-enterprise-spend-controls/index.md)** — Published June 18, 2026; lastmod bumped Jun 19 → Jun 22. New Global Admin Console tracks ChatGPT + Codex credit usage together by user, product, and model. Admins set workspace/group/individual limits; employees can request overrides. Sidebar-only diff.
+
+**[Deployment Simulation](pages/openai.com/index/deployment-simulation/index.md)** — Published June 16, 2026; lastmod bumped Jun 19 → Jun 22. Safety research: predicts model behavior before release by replaying real prior conversations. Sidebar-only diff.
+
+**[Training to Cycle Across Antarctica with ChatGPT](pages/openai.com/index/cycling-across-antarctica/index.md)** — Human interest story about James Benson-King preparing to be the first to cycle solo and unsupported to the South Pole (planned November). Sidebar-only diff.
+
+**[Policies / Commerce Policies](pages/openai.com/policies/commerce-policies/index.md)** — lastmod bumped Jun 21. No content diff detected.
+
+**[OpenAI Partner Network](pages/openai.com/business/partners/index.md)** + **[Introducing the OpenAI Partner Network](pages/openai.com/index/introducing-openai-partner-network/index.md)** — lastmod bumped Jun 20. Partner network launched Jun 14; these pages received a minor sidebar refresh. No content change.
+
+**[Startups page](pages/openai.com/startups/index.md)** — lastmod bumped Jun 20. No content diff detected.
+
+### Removals
+None.
+
+---
+
+*Stats: 1,358 total URLs | +1 added | 123 lastmod-updated | 0 removed | 1 anomaly (dynamic CMS timestamp) | 0 fetch failures | 34 sub-sitemaps*
+
+*Full analysis: [runs/2026-06-22T09-15Z/analysis.md](runs/2026-06-22T09-15Z/analysis.md)*
+
+---
+
 ## 2026-06-19 — Run `2026-06-19T09-15Z`
 
 **TL;DR:** OpenAI made a coordinated health AI push today: three new pages announced **GPT-5.5 Instant**'s improved health capabilities for ChatGPT's 230M+ weekly health users, a peer-reviewed NEJM AI study using an OpenAI reasoning model to surface 18 diagnoses from 376 previously unsolved rare pediatric disease cases, and new enterprise spend controls for ChatGPT/Codex credit management. The model versioning page for GPT-5.5 Instant incidentally reveals a fuller model lineage: 5.3 Instant (March 2026) → 5.5 Instant (May 2026), plus 5.4 Thinking and 5.5 Thinking variants. A large batch of ~80 customer story pages received simultaneous CMS re-publishes with no content changes, plus ~10 Codex Academy pages similarly refreshed. No anomalies, no removals.
