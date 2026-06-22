@@ -39,22 +39,34 @@ Share
 Buried in the noise
 
   * Buried in the noise
+
   * A new way to ask 
+
   * Making it reliable
+
   * From tickets to turning points
+
   * Compounding curiosity
+
   * The operating model ahead
+
 
 
 
 Table of contents
 
   * Buried in the noise
+
   * A new way to ask 
+
   * Making it reliable
+
   * From tickets to turning points
+
   * Compounding curiosity
+
   * The operating model ahead
+
 
 
 

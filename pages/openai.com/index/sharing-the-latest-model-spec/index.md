@@ -26,16 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Objectives and principles
-
-  * Objectives and principles
-  * Upholding intellectual freedom
-  * Measuring progress
-  * Open sourcing the Model Spec
-  * What’s next?
-
-
-
 February 12, 2025
 
 [Safety](</news/safety-alignment/>)[Release](</research/index/release/>)[Milestone](</research/index/milestone/>)
@@ -47,6 +37,36 @@ We’ve made updates to the Model Spec based on external feedback and our contin
 [ Read the Model Spec(opens in a new window)](<https://model-spec.openai.com/2025-02-12.html>)
 
 Loading…
+
+Objectives and principles
+
+  * Objectives and principles
+
+  * Upholding intellectual freedom
+
+  * Measuring progress
+
+  * Open sourcing the Model Spec
+
+  * What’s next?
+
+
+
+
+Table of contents
+
+  * Objectives and principles
+
+  * Upholding intellectual freedom
+
+  * Measuring progress
+
+  * Open sourcing the Model Spec
+
+  * What’s next?
+
+
+
 
 We’re sharing a major update to the Model Spec, a document which defines how we want our AI models to behave. This update reinforces our commitments to customizability, transparency, and intellectual freedom to explore, debate, and create with AI without arbitrary restrictions—while ensuring that guardrails remain in place to reduce the risk of real harm. It builds on the foundations we introduced [_last May_](</index/introducing-the-model-spec/>) , drawing from our experience applying it in varied contexts from alignment research to serving users across the world. 
 
