@@ -121,15 +121,15 @@ AI is poised to become even more integral to the biopharmaceutical industry wher
 
 ## Keep reading
 
-![Arco Educação](https://images.ctfassets.net/kftzwdyauwt9/2B3BwVWKEvWadO4ceyIeV2/f25f780834f5f17bfab9b6f83955b2e5/oai_arco_thumbnail.png?w=3840&q=90&fm=webp)
+![The image shows the "arco" logo in white text with a simple, upward-pointing arrow design above it. The background is a soft, abstract blue watercolor with blurred shapes resembling floating books.](https://images.ctfassets.net/kftzwdyauwt9/2B3BwVWKEvWadO4ceyIeV2/f25f780834f5f17bfab9b6f83955b2e5/oai_arco_thumbnail.png?w=3840&q=90&fm=webp)
 
 [Using GPT‑4 to improve teaching and learning in BrazilStory](</index/arco-education/>)
 
-![Using GPT-4 to deliver a new customer service standard](https://images.ctfassets.net/kftzwdyauwt9/5mzHFZpnhcgSTQQkkKQFD6/e6193143c13e2a8bd3889f8807ab7bad/OAI_Ada_Blog_Card.png?w=3840&q=90&fm=webp)
+![Ada logo superimposed on an abstract painting with prominent blue and purple brushstrokes.](https://images.ctfassets.net/kftzwdyauwt9/5mzHFZpnhcgSTQQkkKQFD6/e6193143c13e2a8bd3889f8807ab7bad/OAI_Ada_Blog_Card.png?w=3840&q=90&fm=webp)
 
 [Using GPT‑4 to deliver a new customer service standardStory](</index/ada/>)
 
-![Lowes > Cover media](https://images.ctfassets.net/kftzwdyauwt9/4X3HwsNsncluAzNEqlXFg3/558227ebd1d4edc388dc325ecbcd75f0/oai_Lowe_s_hero_4.5.png?w=3840&q=90&fm=webp)
+![Lowes logo superimposed on an abstract painting with prominent blue brushstrokes.](https://images.ctfassets.net/kftzwdyauwt9/4X3HwsNsncluAzNEqlXFg3/558227ebd1d4edc388dc325ecbcd75f0/oai_Lowe_s_hero_4.5.png?w=3840&q=90&fm=webp)
 
 [Lowe’s puts project expertise into every hand](</index/lowes/>)
 

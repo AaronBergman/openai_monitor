@@ -124,15 +124,15 @@ The sense of possibility is mutual. “One thing that stands out at OpenAI compa
 
 ## Keep reading
 
-![Lowes > Cover media](https://images.ctfassets.net/kftzwdyauwt9/4X3HwsNsncluAzNEqlXFg3/558227ebd1d4edc388dc325ecbcd75f0/oai_Lowe_s_hero_4.5.png?w=3840&q=90&fm=webp)
+![Lowes logo superimposed on an abstract painting with prominent blue brushstrokes.](https://images.ctfassets.net/kftzwdyauwt9/4X3HwsNsncluAzNEqlXFg3/558227ebd1d4edc388dc325ecbcd75f0/oai_Lowe_s_hero_4.5.png?w=3840&q=90&fm=webp)
 
 [Lowe’s puts project expertise into every hand](</index/lowes/>)
 
-![\[2.0\] Card > Media > ASU](https://images.ctfassets.net/kftzwdyauwt9/4vptUJ0S3Obe7393zv7Asa/441e686de9465c8afe3cca3eda317e87/oai_ASU_1_1.jpg?w=3840&q=90&fm=webp)
+![ASU logo in white, featuring a sunburst design, placed over a close-up of a green succulent plant with smooth, curving leaves.](https://images.ctfassets.net/kftzwdyauwt9/4vptUJ0S3Obe7393zv7Asa/441e686de9465c8afe3cca3eda317e87/oai_ASU_1_1.jpg?w=3840&q=90&fm=webp)
 
 [Personalizing education with ChatGPTStory](</index/asu/>)
 
-![Putting AI to work at Upwork > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/5VmvMI3W7epy5R9TjyWpzf/2c30cc36021eafdf58117928c52ee213/OAI_Upwork_Blog_Card.png?w=3840&q=90&fm=webp)
+![The Upwork logo superimposed on an abstract painting with broad strokes of green, yellow, and blue.](https://images.ctfassets.net/kftzwdyauwt9/5VmvMI3W7epy5R9TjyWpzf/2c30cc36021eafdf58117928c52ee213/OAI_Upwork_Blog_Card.png?w=3840&q=90&fm=webp)
 
 [Putting AI to work at UpworkStory](</index/upwork/>)
 
