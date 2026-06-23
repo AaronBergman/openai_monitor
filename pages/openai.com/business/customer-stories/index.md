@@ -158,7 +158,7 @@ Filter
 
 ![Wasmer Customer stories > oai 1x1](https://images.ctfassets.net/kftzwdyauwt9/7JgSY9kXOlq1H4hc83F7CW/823218f0976b5a81cdc777d5da5ed804/oai_wasmer_1x1.png?w=3840&q=90&fm=webp)
 
-[How Wasmer used Codex to build a Node.js runtime for the edgeJun 3, 2026](</index/wasmer/>)
+[How Wasmer engineers used Codex to build Edge.jsJun 3, 2026](</index/wasmer/>)
 
 ![oai Travelers 1x1](https://images.ctfassets.net/kftzwdyauwt9/1P6tCWotXVaO6PzSQrpLvz/fff24dc652764a3a7cbc6b059232b3be/oai_Travelers_1x1.png?w=3840&q=90&fm=webp)
 

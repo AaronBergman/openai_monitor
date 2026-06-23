@@ -155,7 +155,7 @@ Their strong eval framework has also unlocked a flywheel for future solutions an
 
 [Building smarter maps with GPT‑4o vision fine-tuning](</index/grab/>)
 
-![\[2.0\] Card > Media > Rox](https://images.ctfassets.net/kftzwdyauwt9/5LfsJRQ4mOiE4uCccU53Yc/182d111570f399dd1ae1679f7c77ca6a/oai_rox_1_1.jpg?w=3840&q=90&fm=webp)
+![Rox logo in white, placed over a close-up of curved, textured yellow surfaces, creating a layered abstract background.](https://images.ctfassets.net/kftzwdyauwt9/5LfsJRQ4mOiE4uCccU53Yc/182d111570f399dd1ae1679f7c77ca6a/oai_rox_1_1.jpg?w=3840&q=90&fm=webp)
 
 [Rox goes “all in” on OpenAI](</index/rox/>)
 

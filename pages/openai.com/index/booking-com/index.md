@@ -26,16 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Scoping a solution for discovery and intent
-
-  * Scoping a solution for discovery and intent
-  * Building the AI Trip Planner in weeks
-  * Simplifying travel with Smart Filters and review summaries
-  * Changing customer behavior with conversational travel tools
-  * Collaborating to create more connected travel experiences
-
-
-
 # Booking.com and OpenAI personalize travel at scale
 
 By integrating its data systems with OpenAI’s LLMs, Booking.com delivers smarter search, faster support, and intent-driven travel experiences.
@@ -45,6 +35,36 @@ By integrating its data systems with OpenAI’s LLMs, Booking.com delivers smart
 Loading…
 
 Share
+
+Scoping a solution for discovery and intent
+
+  * Scoping a solution for discovery and intent
+
+  * Building the AI Trip Planner in weeks
+
+  * Simplifying travel with Smart Filters and review summaries
+
+  * Changing customer behavior with conversational travel tools
+
+  * Collaborating to create more connected travel experiences
+
+
+
+
+Table of contents
+
+  * Scoping a solution for discovery and intent
+
+  * Building the AI Trip Planner in weeks
+
+  * Simplifying travel with Smart Filters and review summaries
+
+  * Changing customer behavior with conversational travel tools
+
+  * Collaborating to create more connected travel experiences
+
+
+
 
 As one of the world’s largest travel marketplaces, Booking.com makes it easier for millions of travelers to experience the world, offering seamless access to flights, stays, and activities in one place.
 

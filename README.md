@@ -1,3 +1,59 @@
+## 2026-06-23 — Run `2026-06-23T09-17Z`
+
+**TL;DR:** OpenAI made a sweeping expansion of its **Daybreak** cybersecurity initiative on June 22, 2026, and the site reflects it today with 7 new pages, 1 removal, and 112 `<lastmod>` refreshes. The headline is a major product overhaul: the old "request a vulnerability scan" form is gone, replaced by a self-serve **Codex Security Plugin** (a step-by-step plugin for scanning your codebase in Codex), a dedicated enterprise **"Contact Cyber Sales"** form, and a new **Daybreak Partners** page listing 20+ security company partners including Akamai, Check Point, and Cato Networks. A flagship blog post titled "Daybreak: Tools for securing every organization in the world" introduces the full GPT-5.5-Cyber model and the "Patch the Planet" initiative to find and fix open-source vulnerabilities. OpenAI's homepage has been rotated to lead with Daybreak content, displacing GPT-5.5. Separately, a new **Omio** (global travel platform) customer story launched today, and a Codex whitepaper on managing long-running agentic work was published. No anomalies.
+
+### Anomalies
+None.
+
+### New Pages (7)
+
+**[Daybreak: Tools for securing every organization in the world](pages/openai.com/index/daybreak-securing-the-world/index.md)** ⭐ (published June 22, 2026) — Security + Company  
+The major Daybreak expansion announcement. Introduces: (1) **Codex Security plugin** for automated end-to-end vulnerability scanning; (2) the **full version of GPT-5.5-Cyber** (previously in limited preview for critical infrastructure defenders, now more widely available with Trusted Access for Cyber); (3) the **Daybreak Cyber Partner Program** with 20+ security company integrations; (4) **"Patch the Planet"** — an initiative to proactively find and fix vulnerabilities in widely-used open-source software (operating systems, networking, browsers). The theme is moving from *finding* vulnerabilities to *fixing* them through automated patch generation and coordinated disclosure.
+
+**[Get started with the Codex Security plugin](pages/openai.com/daybreak/codex-security-plugin/index.md)** — New product page  
+Step-by-step setup guide for the Codex Security Plugin. Two paths: (1) **Desktop Codex** (GUI): Install → Add plugin → "Try in chat" → pick folder → send scan prompt; (2) **Codex CLI** (one command). Plugin is installable at `chatgpt.com/plugins/share/676aca3811d54fa7bcdef5255236b3c4`. Replaces the old "request a vulnerability scan" form.
+
+**[Become a Daybreak partner](pages/openai.com/daybreak/partners/index.md)** — New partnership page  
+Lists 20 cybersecurity partner companies building Daybreak integrations. Includes quotes from Akamai (EVP Mani Sundaram), Cato Networks (co-founder Shlomo Kramer), and Check Point (CTO Jonathan Zanger). Goal: embed OpenAI's frontier AI into the products and workflows security teams already use. Includes a sign-up form for new partners.
+
+**[Contact cyber sales](pages/openai.com/daybreak/contact-cyber-sales/index.md)** — New enterprise sales form  
+Dedicated cyber-sales contact form separate from OpenAI's generic `/contact-sales/`. Covers scanning multiple codebases, advanced model access, compliance review, and custom integrations. Fields: company name/size, contact details, business needs.
+
+**[Patch the Planet: a Daybreak initiative to support open source maintainers](pages/openai.com/index/patch-the-planet/index.md)** ⭐ (published June 22, 2026) — Security  
+OpenAI is using Daybreak AI to proactively find vulnerabilities in open-source infrastructure — operating systems, networking software, browsers — and coordinate remediation with maintainers. Early field notes show findings already landing in major OS and network projects. The initiative directly addresses the collective-action problem in open-source security: many critical projects have few paid maintainers but serve everyone.
+
+**[Codex-maxxing for long-running work](pages/openai.com/index/codex-maxxing-long-running-work/index.md)** (published June 22, 2026) — AI Adoption  
+A whitepaper by Jason Liu on using Codex as a persistent AI workspace for complex, multi-step projects. Covers: breaking ambitious goals into verifiable steps, maintaining context across long workstreams, and when to delegate execution to Codex versus when human oversight matters most. PDF available: `cdn.openai.com/pdf/8a9f00cf-d379-4e20-b06f-dd7ba5196a11/OAI_WhitePaper_Codex-maxxing26.pdf`
+
+**[How Omio is building the future of conversational travel](pages/openai.com/index/omio/index.md)** (published June 23, 2026) — Customer story  
+Omio (global travel platform, 3000+ transportation providers, active in dozens of countries) is using ChatGPT, Codex, and the API to reinvent AI-powered trip planning and booking. Published today (June 23). Products: ChatGPT, Codex, API.
+
+### Removal (1)
+
+**`/daybreak/request-a-vulnerability-scan/`** — Removed. The self-serve vulnerability scan request form is gone, replaced by the Codex Security Plugin (`/daybreak/codex-security-plugin/`) for direct scanning and the new `/daybreak/contact-cyber-sales/` form for enterprise needs. This reflects the product graduating from manual-request-based scanning to automated plugin-driven scanning.
+
+### Notable Updates
+
+**[Daybreak product page `/daybreak/`](pages/openai.com/daybreak/index.md)** — Major rework. Old CTAs ("Request vulnerability scan" / "Contact sales") replaced by ("Start scan with Codex Security plugin" / "Contact Cyber sales"). The page body now describes three deployment options: (1) `@CodexSecurity plugin` for trying it out; (2) Codex Cloud GitHub integration for continuous scanning; (3) Contact Cyber Sales for enterprise. The description now emphasizes the full remediation loop (find → validate → fix) rather than just vulnerability discovery.
+
+**[Homepage `/`](pages/openai.com/index.md)** — Hero art card rotated. Old: GPT-5.5 launch card. New: "Daybreak: Tools for securing every organization" — the June 22 Daybreak announcement is now the top-of-site feature story.
+
+**[Introducing GPT-5.5 `/index/introducing-gpt-5-5/`](pages/openai.com/index/introducing-gpt-5-5/index.md)** — Gained a structured table of contents with three sections: Agentic coding, Knowledge work, Scientific research.
+
+**[ChatGPT Business Pricing](pages/openai.com/business/chatgpt-pricing/index.md)** and **[Business Pricing](pages/openai.com/business/pricing/index.md)** — Section header changed from "ChatGPT & Codex" to "Business" — simplified branding.
+
+**[Business Customer Stories](pages/openai.com/business/customer-stories/index.md)** — Wasmer story title updated: "How Wasmer used Codex to build a Node.js runtime for the edge" → "How Wasmer engineers used Codex to build Edge.js".
+
+**~105 other pages** — The Daybreak announcement propagated through "related articles" sidebars site-wide, touching customer stories, product pages, and the `/business/learn/` hub. No primary body text changes detected on spot-checked pages; this is the standard CMS carousel refresh pattern.
+
+---
+
+*Stats: 1,364 total URLs | +7 added | ~112 lastmod-updated | -1 removed | 0 anomalies | 0 fetch failures | 34 sub-sitemaps*
+
+*Full analysis: [runs/2026-06-23T09-17Z/analysis.md](runs/2026-06-23T09-17Z/analysis.md)*
+
+---
+
 ## 2026-06-22 — Run `2026-06-22T09-15Z`
 
 **TL;DR:** The standout addition is a major enterprise deployment announcement: **Samsung Electronics** is rolling out ChatGPT Enterprise and Codex to all employees in Korea and all Device eXperience (DX) division employees worldwide — one of OpenAI's largest enterprise deployments ever, with Codex weekly active users in Korea up ~800% since February 2026. Beyond that, 123 URLs had their `<lastmod>` timestamps refreshed, but the vast majority reflect CMS-level touch-ups (sidebar/related-articles rotation) rather than body content changes. Pages from the past week worth noting include GPT-5.5-Cyber for critical infrastructure defenders, LifeSciBench (a new expert-written life-science AI benchmark), GPT-Rosalind capability updates, and new ChatGPT Enterprise spend controls. One benign anomaly: the Release Notes page reports a `<lastmod>` fractionally in the future — its CMS sets timestamps at serve time.

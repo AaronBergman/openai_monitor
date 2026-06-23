@@ -106,15 +106,15 @@ Arco Educação’s commitment to leveraging AI and technology for educational q
 
 ## Keep reading
 
-![Using GPT-4 to deliver a new customer service standard](https://images.ctfassets.net/kftzwdyauwt9/5mzHFZpnhcgSTQQkkKQFD6/e6193143c13e2a8bd3889f8807ab7bad/OAI_Ada_Blog_Card.png?w=3840&q=90&fm=webp)
+![Ada logo superimposed on an abstract painting with prominent blue and purple brushstrokes.](https://images.ctfassets.net/kftzwdyauwt9/5mzHFZpnhcgSTQQkkKQFD6/e6193143c13e2a8bd3889f8807ab7bad/OAI_Ada_Blog_Card.png?w=3840&q=90&fm=webp)
 
 [Using GPT‑4 to deliver a new customer service standardStory](</index/ada/>)
 
-![Lowes > Cover media](https://images.ctfassets.net/kftzwdyauwt9/4X3HwsNsncluAzNEqlXFg3/558227ebd1d4edc388dc325ecbcd75f0/oai_Lowe_s_hero_4.5.png?w=3840&q=90&fm=webp)
+![Lowes logo superimposed on an abstract painting with prominent blue brushstrokes.](https://images.ctfassets.net/kftzwdyauwt9/4X3HwsNsncluAzNEqlXFg3/558227ebd1d4edc388dc325ecbcd75f0/oai_Lowe_s_hero_4.5.png?w=3840&q=90&fm=webp)
 
 [Lowe’s puts project expertise into every hand](</index/lowes/>)
 
-![\[2.0\] Card > Media > ASU](https://images.ctfassets.net/kftzwdyauwt9/4vptUJ0S3Obe7393zv7Asa/441e686de9465c8afe3cca3eda317e87/oai_ASU_1_1.jpg?w=3840&q=90&fm=webp)
+![ASU logo in white, featuring a sunburst design, placed over a close-up of a green succulent plant with smooth, curving leaves.](https://images.ctfassets.net/kftzwdyauwt9/4vptUJ0S3Obe7393zv7Asa/441e686de9465c8afe3cca3eda317e87/oai_ASU_1_1.jpg?w=3840&q=90&fm=webp)
 
 [Personalizing education with ChatGPTStory](</index/asu/>)
 

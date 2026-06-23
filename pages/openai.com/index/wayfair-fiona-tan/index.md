@@ -160,7 +160,7 @@ OpenAI
 
 [Fanatics Betting and Gaming uses AI to focus on the big pictureFeb 13, 2025](</index/fanatics-betting-gaming-andrea-ellis/>)
 
-![\[2.0\] Card > Media > Zalando](https://images.ctfassets.net/kftzwdyauwt9/6SOwtELA1S0TYqttuHDBux/39e0d269327c02d3a6cc83679170f882/oai_zalando_1_1.png?w=3840&q=90&fm=webp)
+![Zalando logo in white, centered over a textured blue surface resembling fabric or a synthetic material.](https://images.ctfassets.net/kftzwdyauwt9/6SOwtELA1S0TYqttuHDBux/39e0d269327c02d3a6cc83679170f882/oai_zalando_1_1.png?w=3840&q=90&fm=webp)
 
 [Boosting the customer retail experience with GPT-4o miniDec 11, 2024](</index/zalando/>)
 
