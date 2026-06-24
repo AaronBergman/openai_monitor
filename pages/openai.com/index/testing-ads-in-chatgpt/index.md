@@ -41,22 +41,34 @@ Share
 Mission alignment
 
   * Mission alignment
+
   * Answer independence
+
   * Conversation privacy
+
   * Choice and control
+
   * Long-term value
+
   * What’s next
+
 
 
 
 Table of contents
 
   * Mission alignment
+
   * Answer independence
+
   * Conversation privacy
+
   * Choice and control
+
   * Long-term value
+
   * What’s next
+
 
 
 
@@ -139,17 +151,17 @@ OpenAI
 
 [View all](</news/>)
 
-![Intro-OAI-Partner-ArtCard](https://images.ctfassets.net/kftzwdyauwt9/U6bb3rlwvYyhf2q835WWx/d50f5492dded3c21aa6d69c07d3b2a44/Introducing_OAI_Partner_Network_artcard.png?w=3840&q=90&fm=webp)
+![Expanding Daybreak Art Card](https://images.ctfassets.net/kftzwdyauwt9/735NOZviyogUBIFxd2EmWX/fa8baf9fc26e64f442ffa86d5fd9a41e/Art_Card__6_.png?w=3840&q=90&fm=webp)
 
-[Introducing the OpenAI Partner NetworkProductJun 14, 2026](</index/introducing-openai-partner-network/>)
+[Daybreak: Tools for securing every organization in the worldSecurityJun 22, 2026](</index/daybreak-securing-the-world/>)
 
-![OpenAI acquires Ona > oai 1x1](https://images.ctfassets.net/kftzwdyauwt9/6SkgXCQ08f4AYarun2I3oU/24414c9962c945767f783bdb63006841/OAI-Ona-ArtCard.png?w=3840&q=90&fm=webp)
+![Samsung Electronics ChatGPT and Codex card image](https://images.ctfassets.net/kftzwdyauwt9/1yLWuTdw8HyYoBldZk3ghx/85fe3f39213890099f6f72f41cec6d1b/samsung-electronics-1_1.png?w=3840&q=90&fm=webp)
 
-[OpenAI to acquire OnaCompanyJun 11, 2026](</index/openai-to-acquire-ona/>)
+[Samsung Electronics brings ChatGPT and Codex to employeesCompanyJun 21, 2026](</index/samsung-electronics-chatgpt-codex-deployment/>)
 
-![Oracle partnership 1x1 art card](https://images.ctfassets.net/kftzwdyauwt9/7zjGwFPBZMvK6zwFSMVWRm/6721ac33e5b1aaf88a9b705a3d10c90a/OAI_Oracle_Partnership_1x1_Art_Card.png?w=3840&q=90&fm=webp)
+![Spend Controls_Artcard.png](https://images.ctfassets.net/kftzwdyauwt9/3RkIKhLVsVWcJQ3czkTNMH/c63f9c43efd82ddf863f87d44edca201/Spend_Controls_Artcard.png?w=3840&q=90&fm=webp)
 
-[Access OpenAI models and Codex through your Oracle cloud commitmentCompanyJun 10, 2026](</index/openai-on-oracle-cloud/>)
+[New usage analytics and updated spend controls for enterprisesProductJun 18, 2026](</index/chatgpt-enterprise-spend-controls/>)
 
 Research
 

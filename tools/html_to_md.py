@@ -39,8 +39,12 @@ def html_to_md(html: str) -> str:
 
 def fetch_html(url: str, timeout: float = 30.0) -> str:
     """Fetch a URL with Cloudflare-bypassing TLS impersonation."""
+    import os
     from curl_cffi import requests
-    r = requests.get(url, impersonate="chrome", timeout=timeout, allow_redirects=True)
+    ca_bundle = os.environ.get("SSL_CERT_FILE") or os.environ.get("REQUESTS_CA_BUNDLE") or True
+    # Use chrome110 fingerprint — compatible with proxy TLS re-termination
+    r = requests.get(url, impersonate="chrome110", timeout=timeout, allow_redirects=True,
+                     verify=ca_bundle)
     r.raise_for_status()
     return r.text
 

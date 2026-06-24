@@ -62,6 +62,10 @@ OpenAI
 
 [View all](</news/>)
 
+![Helping build shared standards for advanced AI - card image](https://images.ctfassets.net/kftzwdyauwt9/3tqr0Vb3JnK38uBRBw7FAF/a3989888ee148ba286b834076aaa289b/helping-build-shared-standards-for-advanced-ai-1_1.png?w=3840&q=90&fm=webp)
+
+[Helping build shared standards for advanced AIGlobal AffairsJun 23, 2026](</index/helping-build-shared-standards-for-advanced-ai/>)
+
 ![Supporting Europe’s work in ensuring a trustworthy AI ecosystem  > art card](https://images.ctfassets.net/kftzwdyauwt9/U3OuQtdga2BaxWxb0e2ge/2fdc2fb1cf5c70a8f77fc4b55236aa78/Frame2.png?w=3840&q=90&fm=webp)
 
 [Supporting Europe’s work in ensuring a trustworthy AI ecosystem Global AffairsJun 11, 2026](</index/supporting-eu-trustworthy-ai-ecosystem/>)
@@ -71,10 +75,6 @@ OpenAI
 Industrial policy for the Intelligence Age
 
 [Industrial policy for the Intelligence AgeGlobal AffairsJun 9, 2026](</index/industrial-policy-for-the-intelligence-age/>)
-
-![oai 1x1 Biodefense in the Intelligence Age](https://images.ctfassets.net/kftzwdyauwt9/6A4rrCBs9rrlbzm9JWIvSi/8a4ae56849fcd0b16e90b59b8babc613/oai_1x1_Biodefense_in_the_Intelligence_Age.png?w=3840&q=90&fm=webp)
-
-[Biodefense in the Intelligence AgeGlobal AffairsJun 4, 2026](</index/biodefense-in-the-intelligence-age/>)
 
 Research
 

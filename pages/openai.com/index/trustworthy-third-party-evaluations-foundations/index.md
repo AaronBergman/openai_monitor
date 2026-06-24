@@ -26,15 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Selecting the right harness for an evaluation is crucial for optimal results
-
-  * Selecting the right harness for an evaluation is crucial for optimal results
-  * Assess validity by checking for known hazards that can distort results
-  * How we are supporting stronger evaluations
-  * What this means for evaluation standards and future research directions 
-
-
-
 May 29, 2026
 
 [Safety](</news/safety-alignment/>)
@@ -46,6 +37,32 @@ What matters for effective independent evaluations of safeguards and capabilitie
 Loading…
 
 Share
+
+Selecting the right harness for an evaluation is crucial for optimal results
+
+  * Selecting the right harness for an evaluation is crucial for optimal results
+
+  * Assess validity by checking for known hazards that can distort results
+
+  * How we are supporting stronger evaluations
+
+  * What this means for evaluation standards and future research directions 
+
+
+
+
+Table of contents
+
+  * Selecting the right harness for an evaluation is crucial for optimal results
+
+  * Assess validity by checking for known hazards that can distort results
+
+  * How we are supporting stronger evaluations
+
+  * What this means for evaluation standards and future research directions 
+
+
+
 
 Independent, trusted third party evaluations play a [_critical role_ ⁠](<https://openai.com/index/strengthening-safety-with-external-testing/>) in strengthening the safety ecosystem. These evaluations are conducted on frontier models to provide additional evidence for claims about critical capabilities and safety mitigations. In this post, we share lessons we’ve learned so far, and recommend approaches for designing evaluations that can validly assess frontier models that we hope help inform emerging standards in the space.
 

@@ -26,16 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Model capabilities
-
-  * Model capabilities
-  * Next-generation inference efficiency
-  * Advancing cybersecurity for everyone’s safety
-  * Availability and pricing
-  * Evaluations
-
-
-
 April 23, 2026
 
 [Product](</news/product-releases/>)[Release](</research/index/release/>)
@@ -47,6 +37,48 @@ A new class of intelligence for real work
 Loading…
 
 Share
+
+Model capabilities
+
+  * Model capabilities
+
+    * Agentic coding
+
+    * Knowledge work
+
+    * Scientific research
+
+  * Next-generation inference efficiency
+
+  * Advancing cybersecurity for everyone’s safety
+
+  * Availability and pricing
+
+  * Evaluations
+
+
+
+
+Table of contents
+
+  * Model capabilities
+
+    * Agentic coding
+
+    * Knowledge work
+
+    * Scientific research
+
+  * Next-generation inference efficiency
+
+  * Advancing cybersecurity for everyone’s safety
+
+  * Availability and pricing
+
+  * Evaluations
+
+
+
 
  _Update on April 24, 2026: GPT‑5.5 and GPT‑5.5 Pro are now available in the API._[_The system card_](</index/gpt-5-5-system-card/>) _has also been updated to describe the additional safeguards that apply._
 
@@ -353,19 +385,17 @@ OpenAI
 
 [View all](</news/>)
 
-![Art Card 1080x1080 \(3\)](https://images.ctfassets.net/kftzwdyauwt9/3JLNH7ejJFnxLmX2LpzoKD/19f9e3c4d36cc9d677ba88e842ad2db2/Art_Card_1080x1080__4_.png?w=3840&q=90&fm=webp)
+![Spend Controls_Artcard.png](https://images.ctfassets.net/kftzwdyauwt9/3RkIKhLVsVWcJQ3czkTNMH/c63f9c43efd82ddf863f87d44edca201/Spend_Controls_Artcard.png?w=3840&q=90&fm=webp)
 
-Better memory for a more helpful ChatGPT
+[New usage analytics and updated spend controls for enterprisesProductJun 18, 2026](</index/chatgpt-enterprise-spend-controls/>)
 
-[Dreaming: Better memory for a more helpful ChatGPTResearchJun 4, 2026](</index/chatgpt-memory-dreaming/>)
+![1x1 Health Art 1](https://images.ctfassets.net/kftzwdyauwt9/25I93CBDfs6LgX4R4XCMBD/121ac551be0a9153314bf51fdbe91dae/1x1_Health_Art_1.png?w=3840&q=90&fm=webp)
 
-![Rosalind5.5 ArtCard](https://images.ctfassets.net/kftzwdyauwt9/6USIQM1B7TggUvvTFxxwoi/0176ac6633c8bdc24641d25d1d2db824/GPT-Rosalind_ArtCard.png?w=3840&q=90&fm=webp)
+[Improving health intelligence in ChatGPTProductJun 18, 2026](</index/improving-health-intelligence-in-chatgpt/>)
 
-[Introducing new capabilities to GPT-RosalindProductJun 3, 2026](</index/introducing-new-capabilities-to-gpt-rosalind/>)
+![Intro-OAI-Partner-ArtCard](https://images.ctfassets.net/kftzwdyauwt9/U6bb3rlwvYyhf2q835WWx/d50f5492dded3c21aa6d69c07d3b2a44/Introducing_OAI_Partner_Network_artcard.png?w=3840&q=90&fm=webp)
 
-![1 1 Art Card](https://images.ctfassets.net/kftzwdyauwt9/4xugzd9dTDMUzIUmuamtO3/1f40af4e50ab8b2bdd64d5b491964961/1_1_Art_Card.png?w=3840&q=90&fm=webp)
-
-[Codex for every role, tool, and workflowProductJun 2, 2026](</index/codex-for-every-role-tool-workflow/>)
+[Introducing the OpenAI Partner NetworkProductJun 14, 2026](</index/introducing-openai-partner-network/>)
 
 Research
 

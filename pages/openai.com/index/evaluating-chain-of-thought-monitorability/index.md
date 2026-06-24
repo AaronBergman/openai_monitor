@@ -26,20 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-What is “Monitorability”?
-
-  * What is “Monitorability”?
-  * Why should chains-of-thought be monitorable?
-  * A framework for evaluating monitorability
-  * The effect of high compute reinforcement learning
-  * Effect of pretraining scale
-  * Agent versus monitor compute and scalable control
-  * Getting more monitorability out of chains-of-thought
-  * Limitations
-  * Conclusion
-
-
-
 December 18, 2025
 
 [Research](</news/research/>)[Publication](</research/index/publication/>)
@@ -53,6 +39,52 @@ We introduce evaluations for chain-of-thought monitorability and study how it sc
 Loading…
 
 Share
+
+What is “Monitorability”?
+
+  * What is “Monitorability”?
+
+  * Why should chains-of-thought be monitorable?
+
+  * A framework for evaluating monitorability
+
+  * The effect of high compute reinforcement learning
+
+  * Effect of pretraining scale
+
+  * Agent versus monitor compute and scalable control
+
+  * Getting more monitorability out of chains-of-thought
+
+  * Limitations
+
+  * Conclusion
+
+
+
+
+Table of contents
+
+  * What is “Monitorability”?
+
+  * Why should chains-of-thought be monitorable?
+
+  * A framework for evaluating monitorability
+
+  * The effect of high compute reinforcement learning
+
+  * Effect of pretraining scale
+
+  * Agent versus monitor compute and scalable control
+
+  * Getting more monitorability out of chains-of-thought
+
+  * Limitations
+
+  * Conclusion
+
+
+
 
 When AI systems make decisions that are difficult to supervise directly, it becomes important to understand how those decisions are made. One promising approach is to monitor a model’s internal reasoning, rather than only its actions or final outputs.
 
@@ -227,19 +259,17 @@ OpenAI
 
 [View all](</news/>)
 
-![Art Card 1080x1080 \(3\)](https://images.ctfassets.net/kftzwdyauwt9/3JLNH7ejJFnxLmX2LpzoKD/19f9e3c4d36cc9d677ba88e842ad2db2/Art_Card_1080x1080__4_.png?w=3840&q=90&fm=webp)
+![A near-autonomous AI chemist improves a challenging reaction](https://images.ctfassets.net/kftzwdyauwt9/QgPPg4etNE5C4Ao0G94sk/e5f2a50e5de4619d0e0fe8483698718b/molecule-one-art-card.png?w=3840&q=90&fm=webp)
 
-Better memory for a more helpful ChatGPT
+[A near-autonomous AI chemist improves a challenging reaction in medicinal chemistryResearchJun 17, 2026](</index/ai-chemist-improves-reaction/>)
 
-[Dreaming: Better memory for a more helpful ChatGPTResearchJun 4, 2026](</index/chatgpt-memory-dreaming/>)
+![LifeSciBench 1x1](https://images.ctfassets.net/kftzwdyauwt9/1iV0eZRf28MZRvIxYY4eLf/4379e20807f5ff44efccf518a97e480a/LifeSciBench_1x1.png?w=3840&q=90&fm=webp)
 
-![Rosalind5.5 ArtCard](https://images.ctfassets.net/kftzwdyauwt9/6USIQM1B7TggUvvTFxxwoi/0176ac6633c8bdc24641d25d1d2db824/GPT-Rosalind_ArtCard.png?w=3840&q=90&fm=webp)
+[Introducing LifeSciBenchResearchJun 17, 2026](</index/introducing-life-sci-bench/>)
 
-[Introducing new capabilities to GPT-RosalindProductJun 3, 2026](</index/introducing-new-capabilities-to-gpt-rosalind/>)
+![Production Resampling > Art Card](https://images.ctfassets.net/kftzwdyauwt9/6TwSElUf3XVkAiLOvIis8O/de2de5d4b9f94a3dea5403702a4f34ce/Art_Card.png?w=3840&q=90&fm=webp)
 
-![1x1](https://images.ctfassets.net/kftzwdyauwt9/6ui4uYfTTbR4xbiFRcqEfo/81d973f14bea720820f692271f6c6834/square.png?w=3840&q=90&fm=webp)
-
-[Strengthening societal resilience with Rosalind BiodefenseProductMay 29, 2026](</index/strengthening-societal-resilience-with-rosalind-biodefense/>)
+[Predicting model behavior before release by simulating deploymentResearchJun 16, 2026](</index/deployment-simulation/>)
 
 Research
 

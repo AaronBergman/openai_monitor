@@ -1,3 +1,75 @@
+# openai_monitor
+
+A daily log of every change to OpenAI's public website — what appeared, what disappeared, and what was quietly updated. Newest runs at the top.
+
+---
+
+## 2026-06-24 — Run `2026-06-24T09-15Z`
+
+**TL;DR:** OpenAI launched the full **Daybreak** cybersecurity platform today — a major expansion of its AI-for-defense initiative. Five new pages launched (a Codex Security plugin setup guide, a 20+ company partner directory, a contact-cyber-sales page, and two major blog posts), the old "request a vulnerability scan" page was retired and replaced by a structured enterprise funnel, and the homepage was updated to feature the Daybreak announcement. Alongside Daybreak, OpenAI published a GPT-5 immunology success story, a Codex whitepaper on long-running agentic work, a new Omio customer story, and an AI governance post announcing the Appia Foundation (a Linux Foundation-hosted body for shared AI safety standards). The API pricing page gained a processing-mode selector UI (Standard / Batch / Data residency), and 131 URLs total had their `<lastmod>` updated reflecting June 22–24 content refreshes. No anomalies detected.
+
+### New Pages (9)
+
+**⭐ [Daybreak: Tools for securing every organization in the world](pages/openai.com/index/daybreak-securing-the-world/index.md)** (June 22, 2026)  
+The anchor announcement for the full Daybreak launch. OpenAI is expanding its AI-powered cybersecurity initiative with Codex Security (AI vulnerability scanning + patch generation), the full release of GPT-5.5-Cyber (three tiers: default, Trusted Access for Cyber, and a restricted red-team mode), and a "Patch the Planet" initiative to auto-discover and patch vulnerabilities in major open-source projects (FreeBSD, Linux kernel, browsers). The stated goal: move past vulnerability *discovery* and into machine-speed end-to-end *patch automation*, with 20+ security company partners integrating these capabilities.
+
+**⭐ [Patch the Planet](pages/openai.com/index/patch-the-planet/index.md)** (June 22, 2026)  
+Dedicated post for the Daybreak open-source initiative. Describes a full pipeline — AI finds the bug, validates it, generates a patch, coordinates disclosure, and helps land the fix with the upstream maintainer. Early work covers OS-level vulnerabilities in FreeBSD and the Linux kernel, network infrastructure, and major browsers. Open-source maintainers are invited to participate.
+
+**[Daybreak platform hub](pages/openai.com/daybreak/index.md)** (updated, first seen earlier)  
+The `/daybreak/` hub page was significantly expanded with a GPT-5.5-Cyber tier comparison table, Codex Security plugin CTAs, a "Trusted by leading security organizations" section, and a grid of partner logos. Access tiers: GPT-5.5 (default, available now), GPT-5.5 with Trusted Access for Cyber (enterprise), GPT-5.5-Cyber (controlled preview for red-teamers/pentesters).
+
+**[Codex Security plugin setup guide](pages/openai.com/daybreak/codex-security-plugin/index.md)** (new, June 24)  
+Step-by-step guide to installing and running the @CodexSecurity plugin inside Codex (OpenAI's agentic coding tool) or via the Codex CLI. Self-serve vulnerability scanning, routing to the appropriate GPT-5.5-Cyber tier based on use case.
+
+**[Daybreak Cyber Partner Program](pages/openai.com/daybreak/partners/index.md)** (new, June 24)  
+Lists 20+ named security partners — including Akamai, Cato Networks, Check Point, CrowdStrike, Fortinet, Palo Alto Networks, Rapid7, and SentinelOne — integrating Daybreak/GPT-5.5 capabilities into their products. Includes quotes from CxOs at each partner and a "Become a partner" signup form.
+
+**[Contact Cyber sales](pages/openai.com/daybreak/contact-cyber-sales/index.md)** (new, June 24)  
+Enterprise sales contact page for Daybreak. Replaces the retired `/daybreak/request-a-vulnerability-scan/` page (see Removals).
+
+**[How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery](pages/openai.com/index/gpt-5-immunology-mystery/index.md)** (June 23, 2026)  
+Applied AI story: immunologist Dr. Unutmaz used GPT-5 Pro to surface literature connections that solved a years-old puzzle about immune cells involved in fighting cancer and infections. OpenAI's case for GPT-5 augmenting human expertise in specialized biomedical research.
+
+**[Codex-maxxing for long-running work](pages/openai.com/index/codex-maxxing-long-running-work/index.md)** (June 22, 2026)  
+A whitepaper (by Jason Liu) on using Codex as a persistent workspace for complex multi-session AI projects — breaking goals into verifiable steps, maintaining context across workstreams, and knowing when to delegate vs. apply human judgment. Links to a full PDF on the OpenAI CDN.
+
+**[Helping build shared standards for advanced AI](pages/openai.com/index/helping-build-shared-standards-for-advanced-ai/index.md)** (June 23, 2026)  
+OpenAI announces it helped found the **Appia Foundation** (hosted by the Linux Foundation), which will develop open, modular AI safety specifications enabling cross-jurisdiction third-party evaluations. Connects to the Preparedness Framework, Frontier Governance Framework, and OpenAI's existing standards work (ISO/IEC SC42, NIST AISIC, Frontier Model Forum, CoSAI, C2PA, IETF, FIDO Alliance).
+
+**[Omio customer story](pages/openai.com/index/omio/index.md)** (June 23, 2026)  
+Travel platform Omio using OpenAI for AI-powered trip planning and conversational booking. Mid-market enterprise story accompanying the major product launch cadence.
+
+### Removed Pages (1)
+
+**`/daybreak/request-a-vulnerability-scan/`** — Retired and replaced by the new `codex-security-plugin` (self-serve) and `contact-cyber-sales` (enterprise) pages. Signals a shift from one-off scan requests to a structured product-and-sales funnel.
+
+### Notable Updates
+
+**[API Pricing](pages/openai.com/api/pricing/index.md)** (lastmod Jun 11 → Jun 24)  
+Added a new "Choose your processing mode" selector (Standard / Batch -50% / Data residency +10%). Prices for GPT-5, GPT-5.4, and GPT-5.4 mini are unchanged. Formatting of the price table was compacted.
+
+**[Business Pricing](pages/openai.com/business/pricing/index.md)** (lastmod Jun 18 → Jun 24)  
+Section header changed from "ChatGPT & Codex" to "Business" — minor branding alignment.
+
+**[Homepage](pages/openai.com/index.md)** (lastmod Jun 18 → Jun 22)  
+Daybreak announcement now featured in the main news carousel.
+
+**~128 listing/news/customer-story pages** — Cascading `<lastmod>` bumps as the 9 new pages inserted themselves into site carousels and feeds. No substantive body content changes in spot-checked examples.
+
+### Fetch Failures (1)
+
+`/index/waymark/` — Transient TLS error during the batch fetch. Prior snapshot preserved in git. Will retry next run.
+
+---
+
+_Stats: 1,366 total URLs | +9 added | 131 lastmod-updated | 1 removed | 0 anomalies | 0 anomaly type | 34 sub-sitemaps_
+
+_Full analysis: [runs/2026-06-24T09-15Z/analysis.md](runs/2026-06-24T09-15Z/analysis.md)_
+
+---
+
+
 ## 2026-06-22 — Run `2026-06-22T09-15Z`
 
 **TL;DR:** The standout addition is a major enterprise deployment announcement: **Samsung Electronics** is rolling out ChatGPT Enterprise and Codex to all employees in Korea and all Device eXperience (DX) division employees worldwide — one of OpenAI's largest enterprise deployments ever, with Codex weekly active users in Korea up ~800% since February 2026. Beyond that, 123 URLs had their `<lastmod>` timestamps refreshed, but the vast majority reflect CMS-level touch-ups (sidebar/related-articles rotation) rather than body content changes. Pages from the past week worth noting include GPT-5.5-Cyber for critical infrastructure defenders, LifeSciBench (a new expert-written life-science AI benchmark), GPT-Rosalind capability updates, and new ChatGPT Enterprise spend controls. One benign anomaly: the Release Notes page reports a `<lastmod>` fractionally in the future — its CMS sets timestamps at serve time.
@@ -493,6 +565,3 @@ All Codex Academy learning pages refreshed in a ~30-second window at 06:16 UTC (
 *Stats: 1,331 total URLs | +0 added | ~68 sitemap-reported updates (~357 actual) | -0 removed | 0 anomalies | 32 sub-sitemaps*
 
 ---
-
-# openai_monitor
-

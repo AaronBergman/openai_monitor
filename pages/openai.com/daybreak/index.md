@@ -28,70 +28,67 @@ OpenAI
 
 # 
 
-Frontier AI for cyber defenders.
+Frontier AI for defenders.
 
-[Request vulnerability scan](</daybreak/request-a-vulnerability-scan/>)[Contact sales](</contact-sales/>)
+[Start scan with Codex Security plugin](</daybreak/codex-security-plugin/>)[Contact Cyber sales](</daybreak/contact-cyber-sales//>)
 
-## Safer software, resilient by design
+## Building the future of cyber defense
 
-OpenAI Daybreak is our vision to change the way software is built and defended.
+OpenAI Daybreak brings together frontier cyber models, Codex Security, trusted workflows, and ecosystem partnerships to help defenders keep pace with an accelerating threat landscape: finding, validating, and fixing vulnerabilities before attackers can exploit them.
 
-Daybreak is the first glimpse of sunlight in the morning. For cyber defense, it means seeing risk earlier, acting sooner, and helping make software resilient by design.
+The bottleneck in cybersecurity is shifting. AI can now help uncover more security issues across large, complex codebases, but reports alone do not make systems safer. Real protection comes from validated findings, tested patches, coordinated disclosure, maintainer review, and fixes that actually land.
 
-It starts from the premise that the next era of cyber defense should be built into software from the beginning by not only finding and patching vulnerabilities, but being resilient to them by design.
+Daybreak is built to accelerate that full remediation loop, working with the world’s leading cyber organizations as partners to bring trusted defensive capability into the tools, services, and workflows security teams already rely on. Through Codex Security, Patch the Planet, GPT‑5.5‑Cyber, and the Daybreak Cyber Partner Program, developers, maintainers, researchers, enterprises, and public institutions can turn frontier AI capability into measurable risk reduction.
 
-AI can now help defenders reason across codebases, identify subtle vulnerabilities, validate fixes, analyze unfamiliar systems, and move from discovery to remediation faster. Because those same capabilities can be misused, Daybreak pairs expanded defensive capability with trust, verification, proportional safeguards, and accountability.
+This work has to happen responsibly. Daybreak is designed around authorization, human judgment, monitoring, safeguards, and collaboration with the broader security community. Advanced access is available for verified defenders through Trusted Access for Cyber, pairing more capable and permissive defensive tools with stronger verification, scope controls, and oversight.
 
-The goal is simple: accelerate cyber defenders and continuously secure software.
+## Deploy frontier cyber intelligence with Codex and the @CodexSecurity plugin
 
-Daybreak combines the intelligence of OpenAI models, the extensibility of Codex as an agentic harness, and our partners across the security flywheel to help make the world safer for everyone. Defenders can bring secure code review, threat modeling, patch validation, dependency risk analysis, detection, and remediation guidance into the everyday development loop so software becomes more resilient from the start.
+## Ways to get started
 
-In the coming weeks, we’re working with our industry and government partners as we prepare to deploy increasingly more cyber-capable models as part of our approach to iterative deployment.
+#### Start a scan with the @CodexSecurity plugin
 
-## How to deploy AI in modern cyber defense
+Best for trying the workflow, reviewing a branch or investing one codebase.
 
-![icon of a bounding box](https://images.ctfassets.net/kftzwdyauwt9/6CXe1iCJZqYplgOK4yeVGL/fe031eb3987662421a5509301224d98a/bounds.svg?w=3840&q=90)
+[Start scan](</daybreak/codex-security-plugin/>)
 
-#### Focus on the threats that matter
+#### Continuously scan GitHub repositories with Codex Cloud
 
-Prioritize high-impact issues and reduce hours of analysis to minutes—with more efficient token usage.
+Best for trying the workflow, reviewing a branch or investing one codebase.
 
-![icon of a shield](https://images.ctfassets.net/kftzwdyauwt9/4jiWnWWSMBeqMwSJANlghs/6be7b78323c0bdc907284d0c05e52734/shield.svg?w=3840&q=90)
+[Connect GitHub(opens in a new window)](<https://developers.openai.com/codex/security/setup>)
 
-#### Patch safely, at scale
+#### Contact Cyber sales
 
-Generate and test patches directly in your repositories, with scoped access, monitoring, and review.
+Best for scanning multiple codebases, deploying across teams, advanced model access, custom integrations, compliance review, and rollout planning with OpenAI cyber experts.
 
-![Icon of a circle with a checkmark inside](https://images.ctfassets.net/kftzwdyauwt9/7u2dLcotT8lgGjmRSrHlaI/a4df05387cfae41a801f5a953115ba7c/checkmark-circle.svg?w=3840&q=90)
+[Contact Cyber sales](</daybreak/contact-cyber-sales/>)
 
-#### Verify every fix
+## Controlled Access Models
 
-Send results and audit-ready evidence back to your systems to track and verify remediation.
+Some advanced cyber capabilities require a controlled access process. Through Trusted Access, approved teams can use these models in scoped environments with authorization, logging, verification, and stronger controls for higher-risk defensive workflows.
 
-## Deploy frontier cyber intelligence w/Codex and the @CodexSecurity Plugin
+[Contact Cyber sales](</daybreak/contact-cyber-sales/>)
 
-## Choose the right level of access
-
-Contact the OpenAI team to align on the best model for your security workflows.
-
-  * [Request a vulnerability scan](</daybreak/request-a-vulnerability-scan/>)
-  * [Contact sales](</contact-sales/>)
-
-
-
-**Access**| **What changes**| **Intended use cases**  
----|---|---  
-GPT‑5.5 (default)| Standard safeguards for general-purpose use| General-purpose, developer, and knowledge work  
-GPT‑5.5 with Trusted Access for Cyber| More precise safeguards for verified defensive work in authorized environments| Most defensive security workflows, including secure code review, vulnerability triage, malware analysis, detection engineering, and patch validation  
-GPT‑5.5‑Cyber| Most permissive behavior for specialized authorized workflows, paired with stronger verification and account-level controls| Preview access for specialized workflows, including authorized red teaming, penetration testing, and controlled validation  
+Access| What changes| Intended use cases| Designed for| Availability  
+---|---|---|---|---  
+GPT‑5.5 (default)| Available by default, with strong capabilities for everyday secure development and most code security workflows in @CodexSecurity.| Secure coding, secure code review, vulnerability discovery and triage, remediation guidance, dependency risk analysis, patch validation.| All developers and application security teams| [Start scan with Codex Security plugin](</daybreak/codex-security-plugin/>)  
+GPT‑5.5 with Trusted Access for Cyber| Specialized access for advanced defensive security workflows in authorized environments, with more precise controls for higher-risk analysis.| Advanced vulnerability triage, malware analysis, detection engineering, security investigations, incident analysis, complex defensive validation.| Cyber teams conducting advanced defensive work, cyber product vendors, system integrators, cyber consultancies, DevSecOps teams| [Contact for Trusted Access](</form/enterprise-trusted-access-for-cyber/>)  
+GPT‑5.5‑Cyber| Preview access for specialized authorized testing workflows, with additional verification, scoping, logging, and controls.| Authorized red teaming, penetration testing, exploit validation, controlled security testing| Cyber teams and vendors conducting authorized red teaming, penetration testing, exploit validation, and controlled security testing.| [Contact for Trusted Access](</form/enterprise-trusted-access-for-cyber/>)  
   
 ## Trusted by leading security organizations
 
-CloudflareCiscoCrowdStrikePalo Alto NetworksOracleZscalerAkamaiFortinet
+CloudflareSalesforceCiscoCrowdStrikePalo Alto NetworksOracleZscalerAkamaiFortinet
 
 > “We’re excited about the potential of OpenAI’s cyber capabilities to bring stronger reasoning and more agentic execution into security workflows. It’s a big step forward for teams to be able to leverage frontier models not only to accelerate velocity, but also to improve their security posture.”
 
 — Dane Knecht, CTO, Cloudflare
+
+## Become a Daybreak partner
+
+Work with OpenAI to bring trusted, AI-powered cyber defense to more organizations through your products, services, and expertise.
+
+[Explore partnership opportunities](</daybreak/partners/>)
 
 ### Explore additional resources
 
@@ -106,12 +103,6 @@ CloudflareCiscoCrowdStrikePalo Alto NetworksOracleZscalerAkamaiFortinet
 ![Cybersecurity in the Intelligence Age > Cover](https://images.ctfassets.net/kftzwdyauwt9/35g40K8HHuADEDF7IwCMCT/2237007c711eb46c1d3f3b2c7307fc01/Frame__11_.png?w=3840&q=90&fm=webp)
 
 [Cybersecurity in the Intelligence AgeGlobal AffairsApr 29, 2026](</index/cybersecurity-in-the-intelligence-age/>)
-
-## Find your security vulnerabilities
-
-Request a scan to see where OpenAI can help your team prioritize, validate, and fix security issues.
-
-[Request a scan](</daybreak/request-a-vulnerability-scan/>)
 
 Research
 
