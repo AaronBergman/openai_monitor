@@ -154,17 +154,17 @@ OpenAI
 
 ## Keep reading
 
-![A near-autonomous AI chemist improves a challenging reaction](https://images.ctfassets.net/kftzwdyauwt9/QgPPg4etNE5C4Ao0G94sk/e5f2a50e5de4619d0e0fe8483698718b/molecule-one-art-card.png?w=3840&q=90&fm=webp)
+![Helping build shared standards for advanced AI - card image](https://images.ctfassets.net/kftzwdyauwt9/3tqr0Vb3JnK38uBRBw7FAF/a3989888ee148ba286b834076aaa289b/helping-build-shared-standards-for-advanced-ai-1_1.png?w=3840&q=90&fm=webp)
 
-[A near-autonomous AI chemist improves a challenging reaction in medicinal chemistryResearchJun 17, 2026](</index/ai-chemist-improves-reaction/>)
+[Helping build shared standards for advanced AIGlobal AffairsJun 23, 2026](</index/helping-build-shared-standards-for-advanced-ai/>)
 
-![LifeSciBench 1x1](https://images.ctfassets.net/kftzwdyauwt9/1iV0eZRf28MZRvIxYY4eLf/4379e20807f5ff44efccf518a97e480a/LifeSciBench_1x1.png?w=3840&q=90&fm=webp)
+![Derya Unutmaz card image](https://images.ctfassets.net/kftzwdyauwt9/6By12NX9sglstfwFKQTzYB/a28d6f84e91a8dae838f240db4c2524c/derya_1x1.png?w=3840&q=90&fm=webp)
 
-[Introducing LifeSciBenchResearchJun 17, 2026](</index/introducing-life-sci-bench/>)
+[How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mysteryApplied AIJun 23, 2026](</index/gpt-5-immunology-mystery/>)
 
-![Production Resampling > Art Card](https://images.ctfassets.net/kftzwdyauwt9/6TwSElUf3XVkAiLOvIis8O/de2de5d4b9f94a3dea5403702a4f34ce/Art_Card.png?w=3840&q=90&fm=webp)
+![Omio > oai omio 1x1 card](https://images.ctfassets.net/kftzwdyauwt9/2nAmJWUrmCwC3avCecsdYa/34ddcd27c1c89aae828a7e91539b29df/oai_Omio_1x1.png?w=3840&q=90&fm=webp)
 
-[Predicting model behavior before release by simulating deploymentResearchJun 16, 2026](</index/deployment-simulation/>)
+[How Omio is building the future of conversational travelJun 23, 2026](</index/omio/>)
 
 Research
 

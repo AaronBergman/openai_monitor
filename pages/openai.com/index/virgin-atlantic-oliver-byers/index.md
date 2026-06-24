@@ -26,17 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-CFOs often have a high bar to pass to support investing in new technologies. As CFO, what convinced you that AI was worth prioritizing across the business initially and at a larger scale?
-
-  * CFOs often have a high bar to pass to support investing in new technologies. As CFO, what convinced you that AI was worth prioritizing across the business initially and at a larger scale?
-  * Internally, your teams are already seeing major productivity gains from using Codex and ChatGPT Enterprise across a range of functions and use cases. What are some of your favorite examples of AI adoption across the business?
-  * Virgin Atlantic has always been a forward-thinking brand focused on people. How do you equip your team members to get the most out of your AI investments?
-  * Virgin Atlantic’s new digital concierge shows how AI can reimagine brand experiences in a way that feels distinctly human and on-brand. How do you think about designing AI solutions that enhance the brand experience and build business value?
-  * What frameworks or measures do you use to judge whether AI is delivering ROI—both in the short term and as a longer-term strategic bet?
-  * Do you have any advice for other CFOs and business leaders to ensure they see successful AI adoption across the business?
-
-
-
 December 8, 2025
 
 # How Virgin Atlantic uses AI to enhance every step of travel
@@ -48,6 +37,40 @@ A conversation with Oliver Byers, Chief Financial Officer, Virgin Atlantic
 Loading…
 
 Share
+
+CFOs often have a high bar to pass to support investing in new technologies. As CFO, what convinced you that AI was worth prioritizing across the business initially and at a larger scale?
+
+  * CFOs often have a high bar to pass to support investing in new technologies. As CFO, what convinced you that AI was worth prioritizing across the business initially and at a larger scale?
+
+  * Internally, your teams are already seeing major productivity gains from using Codex and ChatGPT Enterprise across a range of functions and use cases. What are some of your favorite examples of AI adoption across the business?
+
+  * Virgin Atlantic has always been a forward-thinking brand focused on people. How do you equip your team members to get the most out of your AI investments?
+
+  * Virgin Atlantic’s new digital concierge shows how AI can reimagine brand experiences in a way that feels distinctly human and on-brand. How do you think about designing AI solutions that enhance the brand experience and build business value?
+
+  * What frameworks or measures do you use to judge whether AI is delivering ROI—both in the short term and as a longer-term strategic bet?
+
+  * Do you have any advice for other CFOs and business leaders to ensure they see successful AI adoption across the business?
+
+
+
+
+Table of contents
+
+  * CFOs often have a high bar to pass to support investing in new technologies. As CFO, what convinced you that AI was worth prioritizing across the business initially and at a larger scale?
+
+  * Internally, your teams are already seeing major productivity gains from using Codex and ChatGPT Enterprise across a range of functions and use cases. What are some of your favorite examples of AI adoption across the business?
+
+  * Virgin Atlantic has always been a forward-thinking brand focused on people. How do you equip your team members to get the most out of your AI investments?
+
+  * Virgin Atlantic’s new digital concierge shows how AI can reimagine brand experiences in a way that feels distinctly human and on-brand. How do you think about designing AI solutions that enhance the brand experience and build business value?
+
+  * What frameworks or measures do you use to judge whether AI is delivering ROI—both in the short term and as a longer-term strategic bet?
+
+  * Do you have any advice for other CFOs and business leaders to ensure they see successful AI adoption across the business?
+
+
+
 
 Virgin Atlantic is a global airline known for delivering memorable travel experiences and connecting millions of people around the world.
 
@@ -123,17 +146,17 @@ _Virgin Atlantic uses ChatGPT Enterprise and Codex across its operations, and le
 
 ## Keep reading
 
-![Confidential submission of draft S-1 to the SEC > cover image](https://images.ctfassets.net/kftzwdyauwt9/36doI12YCwUtp1hzD4d8bj/84e67c565f39e7d5ca3ee011efa69756/confidential-submission-of-draft-s-1-to-the-sec-1x1.png?w=3840&q=90&fm=webp)
+![Helping build shared standards for advanced AI - card image](https://images.ctfassets.net/kftzwdyauwt9/3tqr0Vb3JnK38uBRBw7FAF/a3989888ee148ba286b834076aaa289b/helping-build-shared-standards-for-advanced-ai-1_1.png?w=3840&q=90&fm=webp)
 
-[Confidential submission of draft S-1 to the SECCompanyJun 8, 2026](</index/openai-submits-confidential-s-1/>)
+[Helping build shared standards for advanced AIGlobal AffairsJun 23, 2026](</index/helping-build-shared-standards-for-advanced-ai/>)
 
-![Built for broad benefit > cover](https://images.ctfassets.net/kftzwdyauwt9/bEe28mW3dEOj9pKJsPp2u/13f7bed9e86b0667ba924479d62f98e4/Art_Card_1080x1080_1.png?w=3840&q=90&fm=webp)
+![Derya Unutmaz card image](https://images.ctfassets.net/kftzwdyauwt9/6By12NX9sglstfwFKQTzYB/a28d6f84e91a8dae838f240db4c2524c/derya_1x1.png?w=3840&q=90&fm=webp)
 
-[Built to benefit everyone: our planCompanyJun 8, 2026](</index/built-to-benefit-everyone-our-plan/>)
+[How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mysteryApplied AIJun 23, 2026](</index/gpt-5-immunology-mystery/>)
 
-![Economic research forum > art card ](https://images.ctfassets.net/kftzwdyauwt9/2DpNjvjdVuCrLKNOrFrWJ7/1aefe1cbe252bcd9ba42035469fc8a0f/art_card.png?w=3840&q=90&fm=webp)
+![Omio > oai omio 1x1 card](https://images.ctfassets.net/kftzwdyauwt9/2nAmJWUrmCwC3avCecsdYa/34ddcd27c1c89aae828a7e91539b29df/oai_Omio_1x1.png?w=3840&q=90&fm=webp)
 
-[Introducing the OpenAI Economic Research ExchangeCompanyJun 8, 2026](</index/economic-research-exchange/>)
+[How Omio is building the future of conversational travelJun 23, 2026](</index/omio/>)
 
 Research
 

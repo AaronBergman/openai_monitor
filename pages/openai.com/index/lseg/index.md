@@ -57,22 +57,34 @@ Share
 Scaling insight across one of the world’s most complex data ecosystems
 
   * Scaling insight across one of the world’s most complex data ecosystems
+
   * Inside the rollout
+
   * Results at a glance
+
   * Leadership lessons
+
   * Tips
+
   * What’s next
+
 
 
 
 Table of contents
 
   * Scaling insight across one of the world’s most complex data ecosystems
+
   * Inside the rollout
+
   * Results at a glance
+
   * Leadership lessons
+
   * Tips
+
   * What’s next
+
 
 
 
@@ -172,17 +184,17 @@ Looking ahead, LSEG sees its greatest opportunity in scale: empowering its globa
 
 ## Keep reading
 
-![Production Resampling > Art Card](https://images.ctfassets.net/kftzwdyauwt9/6TwSElUf3XVkAiLOvIis8O/de2de5d4b9f94a3dea5403702a4f34ce/Art_Card.png?w=3840&q=90&fm=webp)
+![Helping build shared standards for advanced AI - card image](https://images.ctfassets.net/kftzwdyauwt9/3tqr0Vb3JnK38uBRBw7FAF/a3989888ee148ba286b834076aaa289b/helping-build-shared-standards-for-advanced-ai-1_1.png?w=3840&q=90&fm=webp)
 
-[Predicting model behavior before release by simulating deploymentResearchJun 16, 2026](</index/deployment-simulation/>)
+[Helping build shared standards for advanced AIGlobal AffairsJun 23, 2026](</index/helping-build-shared-standards-for-advanced-ai/>)
 
-![Intro-OAI-Partner-ArtCard](https://images.ctfassets.net/kftzwdyauwt9/U6bb3rlwvYyhf2q835WWx/d50f5492dded3c21aa6d69c07d3b2a44/Introducing_OAI_Partner_Network_artcard.png?w=3840&q=90&fm=webp)
+![Derya Unutmaz card image](https://images.ctfassets.net/kftzwdyauwt9/6By12NX9sglstfwFKQTzYB/a28d6f84e91a8dae838f240db4c2524c/derya_1x1.png?w=3840&q=90&fm=webp)
 
-[Introducing the OpenAI Partner NetworkProductJun 14, 2026](</index/introducing-openai-partner-network/>)
+[How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mysteryApplied AIJun 23, 2026](</index/gpt-5-immunology-mystery/>)
 
-![Introducing OpenAI Academy courses > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/2mmXo430NiaNqyi6YrRtnh/715ab11fa5003dd50acff55adcb4a5fd/Frame.png?w=3840&q=90&fm=webp)
+![Omio > oai omio 1x1 card](https://images.ctfassets.net/kftzwdyauwt9/2nAmJWUrmCwC3avCecsdYa/34ddcd27c1c89aae828a7e91539b29df/oai_Omio_1x1.png?w=3840&q=90&fm=webp)
 
-[New OpenAI Academy courses for the next era of workAI AdoptionJun 12, 2026](</index/academy-courses-applying-ai-at-work/>)
+[How Omio is building the future of conversational travelJun 23, 2026](</index/omio/>)
 
 Research
 

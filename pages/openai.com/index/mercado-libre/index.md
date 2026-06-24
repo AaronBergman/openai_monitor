@@ -129,15 +129,15 @@ They also plan to expand Verdi’s capabilities further, integrating more advanc
 
 ## Keep reading
 
-![Genmab > Cover](https://images.ctfassets.net/kftzwdyauwt9/5yh8gTLhVFcUsY9Nj0O02v/ab091a8b07f4c35f3ff19a58e4e18783/oai_Genmab_1_1.png?w=3840&q=90&fm=webp)
+![The Genmab logo on abstract artwork featuring swirling pastel shades of green, blue, and purple, resembling a DNA helix.](https://images.ctfassets.net/kftzwdyauwt9/5yh8gTLhVFcUsY9Nj0O02v/ab091a8b07f4c35f3ff19a58e4e18783/oai_Genmab_1_1.png?w=3840&q=90&fm=webp)
 
 [Genmab launches “AI Everywhere”Read story](</index/genmab/>)
 
-![Arco Educação](https://images.ctfassets.net/kftzwdyauwt9/2B3BwVWKEvWadO4ceyIeV2/f25f780834f5f17bfab9b6f83955b2e5/oai_arco_thumbnail.png?w=3840&q=90&fm=webp)
+![The image shows the "arco" logo in white text with a simple, upward-pointing arrow design above it. The background is a soft, abstract blue watercolor with blurred shapes resembling floating books.](https://images.ctfassets.net/kftzwdyauwt9/2B3BwVWKEvWadO4ceyIeV2/f25f780834f5f17bfab9b6f83955b2e5/oai_arco_thumbnail.png?w=3840&q=90&fm=webp)
 
 [Using GPT‑4 to improve teaching and learning in BrazilStory](</index/arco-education/>)
 
-![Using GPT-4 to deliver a new customer service standard](https://images.ctfassets.net/kftzwdyauwt9/5mzHFZpnhcgSTQQkkKQFD6/e6193143c13e2a8bd3889f8807ab7bad/OAI_Ada_Blog_Card.png?w=3840&q=90&fm=webp)
+![Ada logo superimposed on an abstract painting with prominent blue and purple brushstrokes.](https://images.ctfassets.net/kftzwdyauwt9/5mzHFZpnhcgSTQQkkKQFD6/e6193143c13e2a8bd3889f8807ab7bad/OAI_Ada_Blog_Card.png?w=3840&q=90&fm=webp)
 
 [Using GPT‑4 to deliver a new customer service standardStory](</index/ada/>)
 

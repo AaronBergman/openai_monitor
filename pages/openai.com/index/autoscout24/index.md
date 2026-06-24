@@ -26,16 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Rebuilding engineering for speed, scale, and complexity
-
-  * Rebuilding engineering for speed, scale, and complexity
-  * Inside the rollout
-  * Results at a glance
-  * Leadership lessons
-  * What’s next
-
-
-
 May 12, 2026
 
 # AutoScout24 scales engineering with AI-powered workflows
@@ -75,6 +65,36 @@ Builder roles using Codex.
 Loading…
 
 Share
+
+Rebuilding engineering for speed, scale, and complexity
+
+  * Rebuilding engineering for speed, scale, and complexity
+
+  * Inside the rollout
+
+  * Results at a glance
+
+  * Leadership lessons
+
+  * What’s next
+
+
+
+
+Table of contents
+
+  * Rebuilding engineering for speed, scale, and complexity
+
+  * Inside the rollout
+
+  * Results at a glance
+
+  * Leadership lessons
+
+  * What’s next
+
+
+
 
 ## Rebuilding engineering for speed, scale, and complexity
 
@@ -138,19 +158,17 @@ More than 1 million businesses around the world are achieving meaningful results
 
 ## Keep reading
 
-![Nextdoor customer stories > oai 1x1](https://images.ctfassets.net/kftzwdyauwt9/2VQiKydNUVAutnHRuCIV4S/3262cc8deff3fe49c6b512f854e14dcf/oai_Nextdoor_1x1.png?w=3840&q=90&fm=webp)
+![Helping build shared standards for advanced AI - card image](https://images.ctfassets.net/kftzwdyauwt9/3tqr0Vb3JnK38uBRBw7FAF/a3989888ee148ba286b834076aaa289b/helping-build-shared-standards-for-advanced-ai-1_1.png?w=3840&q=90&fm=webp)
 
-[How engineers at Nextdoor use Codex to build without limitsJun 9, 2026](</index/nextdoor/>)
+[Helping build shared standards for advanced AIGlobal AffairsJun 23, 2026](</index/helping-build-shared-standards-for-advanced-ai/>)
 
-![Notion > cover image](https://images.ctfassets.net/kftzwdyauwt9/2HBxiM1dDPpM1W56ehwgNi/01dc3dafe6aedcabc9808446492523ea/oai_Notion_1x1.png?w=3840&q=90&fm=webp)
+![Derya Unutmaz card image](https://images.ctfassets.net/kftzwdyauwt9/6By12NX9sglstfwFKQTzYB/a28d6f84e91a8dae838f240db4c2524c/derya_1x1.png?w=3840&q=90&fm=webp)
 
-[What Codex unlocks for NotionJun 9, 2026](</index/notion/>)
+[How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mysteryApplied AIJun 23, 2026](</index/gpt-5-immunology-mystery/>)
 
-![Frame](https://images.ctfassets.net/kftzwdyauwt9/5PD5E0PhvNP8ogbhvNxdKF/42a592f5b93580d940065610304c3f22/Frame.png?w=3840&q=90&fm=webp)
+![Omio > oai omio 1x1 card](https://images.ctfassets.net/kftzwdyauwt9/2nAmJWUrmCwC3avCecsdYa/34ddcd27c1c89aae828a7e91539b29df/oai_Omio_1x1.png?w=3840&q=90&fm=webp)
 
-Industrial policy for the Intelligence Age
-
-[Industrial policy for the Intelligence AgeGlobal AffairsJun 9, 2026](</index/industrial-policy-for-the-intelligence-age/>)
+[How Omio is building the future of conversational travelJun 23, 2026](</index/omio/>)
 
 Research
 

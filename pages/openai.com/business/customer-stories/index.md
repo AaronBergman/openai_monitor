@@ -132,6 +132,10 @@ Customer stories
 
 Filter
 
+![Omio > oai omio 1x1 card](https://images.ctfassets.net/kftzwdyauwt9/2nAmJWUrmCwC3avCecsdYa/34ddcd27c1c89aae828a7e91539b29df/oai_Omio_1x1.png?w=3840&q=90&fm=webp)
+
+[How Omio is building the future of conversational travelJun 23, 2026](</index/omio/>)
+
 ![Preply Customer story > oai preply 1x1](https://images.ctfassets.net/kftzwdyauwt9/6PmaSoARNrmSZ6QRM8G4Ev/08a3dd4653efbda42894c90b374b6bcf/oai_Preply_1x1.png?w=3840&q=90&fm=webp)
 
 [How Preply combines AI and human tutors to personalize learningJun 12, 2026](</index/preply/>)
@@ -158,7 +162,7 @@ Filter
 
 ![Wasmer Customer stories > oai 1x1](https://images.ctfassets.net/kftzwdyauwt9/7JgSY9kXOlq1H4hc83F7CW/823218f0976b5a81cdc777d5da5ed804/oai_wasmer_1x1.png?w=3840&q=90&fm=webp)
 
-[How Wasmer used Codex to build a Node.js runtime for the edgeJun 3, 2026](</index/wasmer/>)
+[How Wasmer engineers used Codex to build Edge.jsJun 3, 2026](</index/wasmer/>)
 
 ![oai Travelers 1x1](https://images.ctfassets.net/kftzwdyauwt9/1P6tCWotXVaO6PzSQrpLvz/fff24dc652764a3a7cbc6b059232b3be/oai_Travelers_1x1.png?w=3840&q=90&fm=webp)
 
@@ -175,10 +179,6 @@ Filter
 ![oai Endava 1x1](https://images.ctfassets.net/kftzwdyauwt9/2R1En1qK4AOSKcuZRpKxco/64ddf998210a4e3f1a3b4c08acba25e2/oai_endava_1x1.png?w=3840&q=90&fm=webp)
 
 [How Endava builds an agentic organization with CodexMay 28, 2026](</index/endava/>)
-
-![MUFG customer story 1x1 hero and card image](https://images.ctfassets.net/kftzwdyauwt9/NuwuwCk19PIxGLHg92dkW/92c24518bb5432f9491b801b006fa7e4/oai_MUFG_1x1.png?w=3840&q=90&fm=webp)
-
-[MUFG aims to become AI-native with OpenAIMay 28, 2026](</index/mufg/>)
 
 Load more
 

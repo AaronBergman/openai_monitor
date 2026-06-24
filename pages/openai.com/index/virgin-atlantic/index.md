@@ -26,14 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Landing the rollout
-
-  * Landing the rollout
-  * Beyond the mobile app
-  * What’s next
-
-
-
 May 22, 2026
 
 # How Virgin Atlantic ships faster with Codex
@@ -67,6 +59,28 @@ Minutes to refactor legacy codebases, down from 2 weeks
 Loading…
 
 Share
+
+Landing the rollout
+
+  * Landing the rollout
+
+  * Beyond the mobile app
+
+  * What’s next
+
+
+
+
+Table of contents
+
+  * Landing the rollout
+
+  * Beyond the mobile app
+
+  * What’s next
+
+
+
 
 Virgin Atlantic used Codex to ship its revamped mobile app in time for the Christmas travel rush—one of the highest-risk periods of the year for potentially introducing software bugs.
 
@@ -118,17 +132,17 @@ More than 1 million businesses around the world are achieving meaningful results
 
 ## Keep reading
 
-![Confidential submission of draft S-1 to the SEC > cover image](https://images.ctfassets.net/kftzwdyauwt9/36doI12YCwUtp1hzD4d8bj/84e67c565f39e7d5ca3ee011efa69756/confidential-submission-of-draft-s-1-to-the-sec-1x1.png?w=3840&q=90&fm=webp)
+![Helping build shared standards for advanced AI - card image](https://images.ctfassets.net/kftzwdyauwt9/3tqr0Vb3JnK38uBRBw7FAF/a3989888ee148ba286b834076aaa289b/helping-build-shared-standards-for-advanced-ai-1_1.png?w=3840&q=90&fm=webp)
 
-[Confidential submission of draft S-1 to the SECCompanyJun 8, 2026](</index/openai-submits-confidential-s-1/>)
+[Helping build shared standards for advanced AIGlobal AffairsJun 23, 2026](</index/helping-build-shared-standards-for-advanced-ai/>)
 
-![Built for broad benefit > cover](https://images.ctfassets.net/kftzwdyauwt9/bEe28mW3dEOj9pKJsPp2u/13f7bed9e86b0667ba924479d62f98e4/Art_Card_1080x1080_1.png?w=3840&q=90&fm=webp)
+![Derya Unutmaz card image](https://images.ctfassets.net/kftzwdyauwt9/6By12NX9sglstfwFKQTzYB/a28d6f84e91a8dae838f240db4c2524c/derya_1x1.png?w=3840&q=90&fm=webp)
 
-[Built to benefit everyone: our planCompanyJun 8, 2026](</index/built-to-benefit-everyone-our-plan/>)
+[How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mysteryApplied AIJun 23, 2026](</index/gpt-5-immunology-mystery/>)
 
-![Economic research forum > art card ](https://images.ctfassets.net/kftzwdyauwt9/2DpNjvjdVuCrLKNOrFrWJ7/1aefe1cbe252bcd9ba42035469fc8a0f/art_card.png?w=3840&q=90&fm=webp)
+![Omio > oai omio 1x1 card](https://images.ctfassets.net/kftzwdyauwt9/2nAmJWUrmCwC3avCecsdYa/34ddcd27c1c89aae828a7e91539b29df/oai_Omio_1x1.png?w=3840&q=90&fm=webp)
 
-[Introducing the OpenAI Economic Research ExchangeCompanyJun 8, 2026](</index/economic-research-exchange/>)
+[How Omio is building the future of conversational travelJun 23, 2026](</index/omio/>)
 
 Research
 

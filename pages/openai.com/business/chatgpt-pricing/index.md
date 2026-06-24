@@ -63,7 +63,7 @@ What's included:
 
 
 
-### BusinessChatGPT & Codex
+### Business
 
 A secure workspace with company context and tools for teams, built for growing companies
 

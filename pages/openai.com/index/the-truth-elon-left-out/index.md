@@ -34,6 +34,56 @@ Loading…
 
 Share
 
+From Elon’s court filing
+
+  * From Elon’s court filing
+
+  * The actual September 2017 call notes:
+
+  * Commentary
+
+  * From Elon’s court filing
+
+  * The actual November 6, 2017 notes:
+
+  * Commentary
+
+  * From Elon’s court filing
+
+  * The actual November 6, 2017 notes:
+
+  * Commentary
+
+  * What happened next
+
+
+
+
+Table of contents
+
+  * From Elon’s court filing
+
+  * The actual September 2017 call notes:
+
+  * Commentary
+
+  * From Elon’s court filing
+
+  * The actual November 6, 2017 notes:
+
+  * Commentary
+
+  * From Elon’s court filing
+
+  * The actual November 6, 2017 notes:
+
+  * Commentary
+
+  * What happened next
+
+
+
+
 ![Screenshot comparing a court filing summary with a longer excerpt of Elon Musk's actual 2017 remarks. The top box shows the filing's claiming that Elon wanted OpenAI to remain "essentially philanthropic," while the lower section highlights Musk's original comments about transitioning from a nonprofit to a "B-corp" or "C-corp". Blue highlights mark text shown in the court filing; red highlights mark added emphasis.](https://images.ctfassets.net/kftzwdyauwt9/i5W4vlX7N6jkUkFXJZq69/e56406ab7a6c8c1873539ab8967d11e3/OAI_Court_Filing_Excerpt_v3.1.png?w=3840&q=90&fm=webp)
 
 In his [latest court filing⁠(opens in a new window)](<https://storage.courtlistener.com/recap/gov.uscourts.cand.433688/gov.uscourts.cand.433688.379.59.pdf>), Elon cherry-picks and publishes snippets from Greg Brockman's private journal entries (obtained as part of legal discovery) which, when read with the surrounding context, tell a very different story from what Elon claims.

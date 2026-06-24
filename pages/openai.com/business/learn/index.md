@@ -36,13 +36,13 @@ GuidesOpenAI on OpenAIWebinarsDemos
 
 #### Guides
 
+![Codex maxxing 1x1](https://images.ctfassets.net/kftzwdyauwt9/5RFmrNey5oX93M1WyqCs4o/5b6ccdce4022764200e06739cda7c21f/Codex_maxxing_1x1.png?w=3840&q=90&fm=webp)
+
+[Codex-maxxing for long-running workHow Codex helps work continue beyond a single promptJun 22, 2026](</index/codex-maxxing-long-running-work/>)
+
 ![B2B Signals > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/4m1ZOzwi9LOdcI5VNCLZD1/e64d0e19ef2fe66e6121a5706c0fbc9f/b2b_signals.png?w=3840&q=90&fm=webp)
 
 [OpenAI B2B SignalsThe AI advantage is beginning to compound](</signals/b2b/>)
-
-![Abstract thumbnail with purple and pink shapes. ](https://images.ctfassets.net/kftzwdyauwt9/7ms4H2E6dhUfTOxB7hDY2Q/accb69ee3cfbd3206589e275d7e47680/AIintheEnterprise.png?w=3840&q=90&fm=webp)
-
-[AI in the EnterpriseLessons from seven frontier companies](<http://cdn.openai.com/business-guides-and-resources/ai-in-the-enterprise.pdf>)
 
 ![Abstract, softly blurred gradient with flowing shapes in blue, green, and yellow tones, resembling light waves or a smooth, colorful background.](https://images.ctfassets.net/kftzwdyauwt9/TIijWsWOQoRzYm6kYZIQH/3cbddddb5c9f516fe75196baf0da8852/reinventing-the-enterprise-product-delivery-lifecycle-for-an-agentic-world.png?w=3840&q=90&fm=webp)
 
@@ -120,19 +120,19 @@ GuidesOpenAI on OpenAIWebinarsDemos
 
 [How OpenAI uses ChatGPT Atlas at workWebinarNov 18, 2025](<https://vimeo.com/1139053006/6fe5a82b83>)
 
-![New in ChatGPT for Work: April 2025 Updates > cover image](https://images.ctfassets.net/kftzwdyauwt9/5ImPJ2upvC3DJ3BwulYU3Q/d77f81dbfb8aacb95191245f32b80624/oai_business_SEO_1x1.png?w=3840&q=90&fm=webp)
+![Light blue background with the OpenAI logo on the left and the text “ChatGPT for Business April Updates” on the right.](https://images.ctfassets.net/kftzwdyauwt9/5ImPJ2upvC3DJ3BwulYU3Q/d77f81dbfb8aacb95191245f32b80624/oai_business_SEO_1x1.png?w=3840&q=90&fm=webp)
 
 [New in ChatGPT for Business: April 2025WebinarApr 24, 2025](</business/new-in-chatgpt-for-business-april-updates-2025/>)
 
-![New in ChatGPT for Work: March Updates > cover image](https://images.ctfassets.net/kftzwdyauwt9/4WgxmdqlKSp7HwxMJ2pjjR/e844f2953d8413d0c5746e0ca05f52c9/oai_Business_1x1.png?w=3840&q=90&fm=webp)
+![Bright blue background with white text that reads “ChatGPT for Business March Updates.](https://images.ctfassets.net/kftzwdyauwt9/4WgxmdqlKSp7HwxMJ2pjjR/e844f2953d8413d0c5746e0ca05f52c9/oai_Business_1x1.png?w=3840&q=90&fm=webp)
 
 [New in ChatGPT for Business: March 2025WebinarMar 18, 2025](</business/new-in-chatgpt-for-work-march-updates-2025/>)
 
-![\[2.0\] Card image > AI for product team webinar](https://images.ctfassets.net/kftzwdyauwt9/5EPrkIbczdrao4h7spHESJ/c69bcdc4626bb28c715d4aaf23daa630/Put_AI_to_Work_For_your_Product_Team.png?w=3840&q=90&fm=webp)
+![Text on a smooth blue gradient background reads: ‘Put AI to Work’.](https://images.ctfassets.net/kftzwdyauwt9/5EPrkIbczdrao4h7spHESJ/c69bcdc4626bb28c715d4aaf23daa630/Put_AI_to_Work_For_your_Product_Team.png?w=3840&q=90&fm=webp)
 
 [Put AI to work for your product teamWebinarDec 9, 2024](</index/put-ai-to-work-for-your-product-team/>)
 
-![Put AI to Work for Marketing Teams > cover image](https://images.ctfassets.net/kftzwdyauwt9/7BO9pBY8PjHro5df2eIymk/32a00853e0b34d175c6fa413804b55db/oai_Business_1x1__4_.png?w=3840&q=90&fm=webp)
+![Text on a light blue and teal gradient background reads: ‘Put AI to Work for Marketing Teams’.](https://images.ctfassets.net/kftzwdyauwt9/7BO9pBY8PjHro5df2eIymk/32a00853e0b34d175c6fa413804b55db/oai_Business_1x1__4_.png?w=3840&q=90&fm=webp)
 
 [Put AI to work for marketing teamsWebinarOct 31, 2024](</business/put-ai-to-work-for-marketing-teams/>)
 
@@ -140,7 +140,7 @@ GuidesOpenAI on OpenAIWebinarsDemos
 
 [Solving complex problems with OpenAI o1 modelsWebinarOct 17, 2024](</business/solving-complex-problems-with-openai-o1-models/>)
 
-![Put AI to Work: Automate and Scale Financial Operations > cover image > red](https://images.ctfassets.net/kftzwdyauwt9/2kzOzYtDdSqdMsZ4gLkqwo/9ea2bb7ef79293fd947903146f973d07/Put_AI_to_work__automate_and_scale__financial_operations.png?w=3840&q=90&fm=webp)
+![Text on a soft aqua and teal gradient background reads: ‘Put AI to Work’.](https://images.ctfassets.net/kftzwdyauwt9/2kzOzYtDdSqdMsZ4gLkqwo/9ea2bb7ef79293fd947903146f973d07/Put_AI_to_work__automate_and_scale__financial_operations.png?w=3840&q=90&fm=webp)
 
 [Put AI to work: Automate and scale financial operationsWebinarSep 30, 2024](</business/put-ai-to-work-automate-and-scale-financial-operations/>)
 

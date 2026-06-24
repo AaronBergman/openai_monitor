@@ -30,7 +30,7 @@ Select language
 
 …
 
-Last updated: May 6, 2026
+Last updated: June 23, 2026
 
 # Cookie policy
 
@@ -101,9 +101,7 @@ ads.openai.com
 [OpenAI](<https://openai.com/policies/privacy-policy/>)| oai-client-auth-session| 10 minutes| User authentication| auth.openai.com  
 [OpenAI](<https://openai.com/policies/privacy-policy/>)| oai-disallowed-signup| 12 hours| User authentication| auth.openai.com  
 [OpenAI](<https://openai.com/policies/privacy-policy/>)| next-auth.csrf-token| Session| User authentication| chatgpt.com  
-sora.chatgpt.com  
 [OpenAI](<https://openai.com/policies/privacy-policy/>)| next-auth.callback-url| Session| User authentication| chatgpt.com  
-sora.chatgpt.com  
 [OpenAI](<https://openai.com/policies/privacy-policy/>)| next-auth.session-token| Session| User authentication| chatgpt.com  
 [OpenAI](<https://openai.com/policies/privacy-policy/>)| _umsid| 1 day| Service functionality| chatgpt.com  
 [OpenAI](<https://openai.com/policies/privacy-policy/>)| oai-consent-csrf_dev_*| 30 minutes| User authentication| auth.openai.com  
@@ -132,23 +130,18 @@ ads.openai.com
 [Cloudflare⁠⁠](<https://www.cloudflare.com/privacypolicy/>)| __cf_bm| 30 min| Security| auth.openai.com  
 chatgpt.com  
 openai.com  
-sora.chatgpt.com  
 platform.openai.com  
-videos.openai.com  
+devday.openai.com  
 [Cloudflare⁠⁠](<https://www.cloudflare.com/privacypolicy/>)| cf_clearance| 1 year| Security| openai.com  
 chatgpt.com  
-sora.chatgpt.com  
 platform.openai.com  
 auth.openai.com  
 [Cloudflare⁠⁠](<https://www.cloudflare.com/privacypolicy/>)| _cfuvid| Session| Security| openai.com  
 chatgpt.com  
-sora.chatgpt.com  
-videos.openai.com  
 auth.openai.com  
 platform.openai.com  
 [Cloudflare⁠⁠](<https://www.cloudflare.com/privacypolicy/>)| __cflb| 30 minutes| Security| chatgpt.com  
 auth.openai.com  
-sora.chatgpt.com  
 [Stripe⁠⁠⁠](<https://stripe.com/privacy?>)| __stripe_mid| 1 year| Payment| platform.openai.com  
 [Stripe⁠⁠⁠](<https://stripe.com/privacy?>)| __stripe_sid| 30 min| Payment| platform.openai.com  
 [Intercom⁠⁠⁠](<https://www.intercom.com/legal/privacy>)| intercom-device-id-dgkjq2bp| 270 days| Customer support| chatgpt.com  
@@ -158,12 +151,12 @@ platform.openai.com
 [Intercom⁠⁠](<https://www.intercom.com/legal/privacy>)| intercom-id-dgkjq2bp| 9 months| Customer support| openai.com  
 [Datadog⁠⁠⁠](<https://www.datadoghq.com/legal/privacy/>)| _dd_s| 4 hours| Error reporting| chatgpt.com  
 openai.com  
-sora.chatgpt.com  
 platform.openai.com  
-[Swoogo⁠⁠](<https://swoogo.events/legal/cookies/>)| cookieconsent_status| 1 year| Consent cookies| devday.openai.com  
-[Swoogo⁠⁠](<https://swoogo.events/legal/cookies/>)| PHPSESSID| Session| Service functionality| devday.openai.com  
-[Swoogo⁠⁠](<https://swoogo.events/legal/cookies/>)| _csrf| Session| Security| devday.openai.com  
-[Swoogo⁠⁠](<https://swoogo.events/legal/cookies/https://swoogo.events/legal/cookies/>)| AWSALB| 7 days| Security| devday.openai.com  
+[Swoogo⁠⁠](<https://swoogo.events/legal/cookies/>)| cookieconsent_status| 1 year| Consent cookies| events.openai.com  
+[Swoogo⁠⁠](<https://swoogo.events/legal/cookies/>)| PHPSESSID| Session| Service functionality| events.openai.com  
+[Swoogo⁠⁠](<https://swoogo.events/legal/cookies/>)| _csrf| Session| Security| events.openai.com  
+[Swoogo⁠⁠](<https://swoogo.events/legal/cookies/https://swoogo.events/legal/cookies/>)| AWSALB| 7 days| Security| events.openai.com  
+[Google](<https://policies.google.com/technologies/partner-sites/>)| g_state| 6 months| Service functionality| chatgpt.com  
   
 *Please note that the specific cookies and similar technologies we use may vary depending on your region, the Services you use, and your privacy choices.
 
@@ -173,15 +166,11 @@ These cookies help us understand how our Services perform and are used, such as 
 
 **Source**| **Cookie name**| **Duration**| **Purpose**| **Domain**  
 ---|---|---|---|---  
-[Google Analytics](<https://support.google.com/analytics/answer/7318509?hl=en>)| _ga| 6 months| Analytics| openai.com  
-chatgpt.com  
-[Google Analytics](<https://support.google.com/analytics/answer/7318509?hl=en>)| _ga_8MYC5SEFJ1| 6 months| Analytics| openai.com  
-chatgpt.com  
-[Swoogo](<https://swoogo.events/legal/cookies/>)| _pk_cvar| 30 minutes| Analytics| devday.openai.com  
-[Swoogo](<https://swoogo.events/legal/cookies/>)| _pk_hsr| 30 minutes| Analytics| devday.openai.com  
-[Swoogo](<https://swoogo.events/legal/cookies/>)| _pk_id| 13 months| Analytics| devday.openai.com  
-[Swoogo](<https://swoogo.events/legal/cookies/>)| _pk_ref| 6 months| Analytics| devday.openai.com  
-[Swoogo](<https://swoogo.events/legal/cookies/>)| _pk_ses| 30 minutes| Analytics| devday.openai.com  
+[Swoogo](<https://swoogo.events/legal/cookies/>)| _pk_cvar| 30 minutes| Analytics| events.openai.com  
+[Swoogo](<https://swoogo.events/legal/cookies/>)| _pk_hsr| 30 minutes| Analytics| events.openai.com  
+[Swoogo](<https://swoogo.events/legal/cookies/>)| _pk_id| 13 months| Analytics| events.openai.com  
+[Swoogo](<https://swoogo.events/legal/cookies/>)| _pk_ref| 6 months| Analytics| events.openai.com  
+[Swoogo](<https://swoogo.events/legal/cookies/>)| _pk_ses| 30 minutes| Analytics| events.openai.com  
   
 ## Marketing Performance cookies
 

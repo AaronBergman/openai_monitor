@@ -138,7 +138,7 @@ Read more
 
 [An update on disrupting deceptive uses of AISafetyOct 9, 2024](</global-affairs/an-update-on-disrupting-deceptive-uses-of-ai/>)
 
-![safety-blog-cover-02](https://images.ctfassets.net/kftzwdyauwt9/54pUOkZ0poSpo9udfZmN3g/e90a4235b3d8537bdddfcc7219b636d1/safety-blog-cover-02.jpg?w=3840&q=90&fm=webp)
+![An abstract painting of a soft, pastel-colored sky at sunset or sunrise. Shades of pink, purple, orange, and yellow blend together, with gentle cloud formations and a hint of blue near the horizon, creating a peaceful, serene atmosphere.](https://images.ctfassets.net/kftzwdyauwt9/54pUOkZ0poSpo9udfZmN3g/e90a4235b3d8537bdddfcc7219b636d1/safety-blog-cover-02.jpg?w=3840&q=90&fm=webp)
 
 [OpenAI safety practicesSafetyMay 21, 2024](</index/openai-safety-update/>)
 

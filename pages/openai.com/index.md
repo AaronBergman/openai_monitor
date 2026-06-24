@@ -30,7 +30,7 @@ What can I help with?
 
 Message ChatGPT
 
-[Talk with ChatGPT](<https://chatgpt.com/?mode=voice>)[Research](</research/>)[API Platform](</api/>)[Stories](</stories/>)More
+[Learn about ChatGPT Business](</business/>)[Talk with ChatGPT](<https://chatgpt.com/?mode=voice>)[Research](</research/>)[API Platform](</api/>)More
 
 ![1 1 Art Card](https://images.ctfassets.net/kftzwdyauwt9/4xugzd9dTDMUzIUmuamtO3/1f40af4e50ab8b2bdd64d5b491964961/1_1_Art_Card.png?w=3840&q=90&fm=webp)
 
@@ -39,6 +39,10 @@ Message ChatGPT
 ![1 1 Art Card](https://images.ctfassets.net/kftzwdyauwt9/4xugzd9dTDMUzIUmuamtO3/1f40af4e50ab8b2bdd64d5b491964961/1_1_Art_Card.png?w=3840&q=90&fm=webp)
 
 [Codex for every role, tool, and workflowProduct7 min read](</index/codex-for-every-role-tool-workflow/>)
+
+![Expanding Daybreak Art Card](https://images.ctfassets.net/kftzwdyauwt9/735NOZviyogUBIFxd2EmWX/fa8baf9fc26e64f442ffa86d5fd9a41e/Art_Card__6_.png?w=3840&q=90&fm=webp)
+
+[Daybreak: Tools for securing every organization in the worldSecurity8 min read](</index/daybreak-securing-the-world/>)
 
 ![1x1 Health Art 1](https://images.ctfassets.net/kftzwdyauwt9/25I93CBDfs6LgX4R4XCMBD/121ac551be0a9153314bf51fdbe91dae/1x1_Health_Art_1.png?w=3840&q=90&fm=webp)
 
@@ -49,10 +53,6 @@ Message ChatGPT
 Better memory for a more helpful ChatGPT
 
 [Dreaming: Better memory for a more helpful ChatGPTResearch5 min read](</index/chatgpt-memory-dreaming/>)
-
-![Hero Art Card SEO 1x1](https://images.ctfassets.net/kftzwdyauwt9/cut4wyUCuBENXfd5CSI7Z/d934ffb49d8b39abea0bc33bb1a5b916/Hero_Art_Card_SEO_1x1.jpg?w=3840&q=90&fm=webp)
-
-[Introducing GPT-5.5Product18 min read](</index/introducing-gpt-5-5/>)
 
 ## Recent news
 
@@ -74,11 +74,11 @@ Better memory for a more helpful ChatGPT
 
 [A new personal finance experience in ChatGPTProductMay 15, 2026](</index/personal-finance-chatgpt/>)
 
-![Helping ChatGPT better recognize context in sensitive conversations > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/7x4viZ0DsQtxQpAgnYYheQ/8dfe028356aceac9e83da6cb837d6864/Saftey-Art-Card-1080x1080.png?w=3840&q=90&fm=webp)
+![A soft, abstract gradient dominated by pink and blue hues, with gentle vertical blending and a warm orange-yellow glow](https://images.ctfassets.net/kftzwdyauwt9/7x4viZ0DsQtxQpAgnYYheQ/8dfe028356aceac9e83da6cb837d6864/Saftey-Art-Card-1080x1080.png?w=3840&q=90&fm=webp)
 
 [Helping ChatGPT better recognize context in sensitive conversationsSafetyMay 14, 2026](</index/chatgpt-recognize-context-in-sensitive-conversations/>)
 
-![Introducing Trusted Contact in ChatGPT > Art Card](https://images.ctfassets.net/kftzwdyauwt9/6cEIQkxxIQawI5tRwAwHPF/1eb5d89a9841b26aa45a1a71b534c409/ArtCard-Trusted-Contact-1080x1080.png?w=3840&q=90&fm=webp)
+![Soft abstract gradient background blending pastel pink, lavender, and light purple tones, with a warm orange glow near the lower right corner fading into a hint of blue along the edge.](https://images.ctfassets.net/kftzwdyauwt9/6cEIQkxxIQawI5tRwAwHPF/1eb5d89a9841b26aa45a1a71b534c409/ArtCard-Trusted-Contact-1080x1080.png?w=3840&q=90&fm=webp)
 
 [Introducing Trusted Contact in ChatGPTSafetyMay 7, 2026](</index/introducing-trusted-contact-in-chatgpt/>)
 
@@ -86,11 +86,11 @@ Better memory for a more helpful ChatGPT
 
 [View all](</stories/>)
 
-![OpenAI Falcon Cover](https://images.ctfassets.net/kftzwdyauwt9/2tgWg3FVo92ztow3wQjynu/6803dbad048ec780c8f0c7c46347ebe9/OpenAI_Falcon_1x1.jpg?w=3840&q=90&fm=webp)
+![A cyclist pushes a fat-tire bike across a wide snowy landscape.](https://images.ctfassets.net/kftzwdyauwt9/2tgWg3FVo92ztow3wQjynu/6803dbad048ec780c8f0c7c46347ebe9/OpenAI_Falcon_1x1.jpg?w=3840&q=90&fm=webp)
 
 [Training to cycle across Antarctica with ChatGPTJun 11, 2026](</index/cycling-across-antarctica/>)
 
-![Owl story hero image](https://images.ctfassets.net/kftzwdyauwt9/5Owa7Jyi5pMx1lDrvN1B2C/3036661e68edf2e77d2d5d2454653740/2026_04_Gardi_ProjectOwl_KittPeak_Day1_02144.jpg?w=3840&q=90&fm=webp)
+![CK Chan stands inside a large radio telescope dish.](https://images.ctfassets.net/kftzwdyauwt9/5Owa7Jyi5pMx1lDrvN1B2C/3036661e68edf2e77d2d5d2454653740/2026_04_Gardi_ProjectOwl_KittPeak_Day1_02144.jpg?w=3840&q=90&fm=webp)
 
 [Creating new simulations of black holes with CodexJun 11, 2026](</index/creating-new-simulations-black-holes/>)
 
