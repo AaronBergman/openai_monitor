@@ -4,6 +4,50 @@ A daily log of every change to OpenAI's public website — what appeared, what d
 
 ---
 
+## 2026-06-25 — Run `2026-06-25T09-15Z`
+
+**TL;DR:** Two major announcements dropped today. First and most significant: OpenAI and Broadcom unveiled **Jalapeño**, OpenAI's first custom AI inference chip — a ground-up LLM inference accelerator built in just 9 months and slated for gigawatt-scale deployment with Microsoft and other partners by end of 2026. Second: a new Economic Research paper documents that Codex has become the primary AI tool for **every department** at OpenAI (including Legal and Recruiting), with non-developer adoption growing 137–189× externally since August 2025. On the policy side, the Commerce Policies were tightened to explicitly ban shared subscription credentials, in-game currency/boost services, and account-recovery/modification work. DevDay 2026 applications are now open for San Francisco on September 29. The Codex Ambassadors sign-up form was quietly removed. No anomalies detected.
+
+### New Pages (2)
+
+**⭐ [OpenAI and Broadcom unveil LLM-optimized inference chip (Jalapeño)](pages/openai.com/index/openai-broadcom-jalapeno-inference-chip/index.md)** (June 24, 2026)  
+OpenAI's first custom silicon: **Jalapeño** is an AI accelerator built from scratch for LLM inference — not a repurposed general-purpose GPU. It was developed with Broadcom (silicon + networking) and Celestica (system integration) in just 9 months, described as the fastest high-performance ASIC development cycle ever achieved. Early testing shows performance-per-watt "substantially better than current state-of-the-art." The chip runs ML workloads including GPT-5.3-Codex-Spark at production target frequency. Deployment starts by end of 2026 at gigawatt scale with data center partners including Microsoft. Greg Brockman frames this as the capstone of OpenAI's full-stack strategy: products → models → chips. A detailed technical performance report is promised "in coming months."
+
+**⭐ [How agents are transforming work](pages/openai.com/index/how-agents-are-transforming-work/index.md)** (June 25, 2026)  
+OpenAI's Economic Research team publishes data on Codex's adoption trajectory. By May 2026: 80.6% of sampled users made at least one Codex request estimated to take a person 30+ minutes; 70.2% exceeded 1 hour; 25.6% exceeded 8 hours. Within OpenAI itself, Codex accounts for 99.8% of all output tokens. Legal, Finance, and Recruiting switched to Codex as their primary AI tool around April 2026. Non-developer individual user count grew 137× since August 2025; organizational non-developer users grew 189×. Includes a department-vs-work-type heat map and links to the full PDF research paper.
+
+### Removed Pages (1)
+
+**`/form/codex-ambassadors/`** — The Codex Ambassadors program sign-up form was removed from the sitemap (last seen June 23, 2026). No redirect or replacement page observed. The program may have closed enrollment, shifted to invitation-only, or been discontinued.
+
+### Notable Updates
+
+**[Commerce Policies](pages/openai.com/policies/commerce-policies/index.md)** (June 24 → June 25)  
+Three substantive tightenings: (1) Piracy prohibition now explicitly covers **"shared subscription credentials"** and **"unauthorized streaming access"** (not just cracked software). (2) Social media manipulation now explicitly names **"followers, likes, views, or boosts."** (3) The "Unsupported digital goods" category was renamed **"High-risk digital entitlements"** and now specifically covers in-game currency, account resources, and boosts; "Unsupported services" now explicitly targets account unlocking, recovery, boosting, and modification performed on someone else's behalf.
+
+**[DevDay 2026](pages/openai.com/devday/index.md)** (June 23 → June 25)  
+Call-to-action updated from generic "Learn about OpenAI DevDay 2026" to a prominent banner: **"Applications are open for OpenAI DevDay 2026! Join us in San Francisco on September 29."** The application portal is now live at devday.openai.com.
+
+**[Daybreak cybersecurity platform](pages/openai.com/daybreak/index.md)** (June 24 → June 25)  
+The GPT-5.5-Cyber access tier description dropped the word **"Preview"** — changed from "Preview access for specialized authorized testing workflows" to simply "Access." This suggests the GPT-5.5-Cyber offering has formally exited preview for eligible cyber customers.
+
+**[Signals / Economic Research hub](pages/openai.com/signals/index.md)** (June 17 → June 25)  
+Featured news section updated: "How agents are transforming work" now leads the carousel, replacing "Scaling social science research."
+
+**~61 other pages** — Cascading `<lastmod>` bumps from new article publication: the Jalapeño chip and Agents papers inserted themselves into "Keep reading" carousels across dozens of pages. No substantive body content changes found in spot-checked examples.
+
+### Anomalies
+
+None detected.
+
+---
+
+_Stats: 1,367 total URLs | +2 added | 65 lastmod-updated | 1 removed | 0 anomalies | 34 sub-sitemaps_
+
+_Full analysis: [runs/2026-06-25T09-15Z/analysis.md](runs/2026-06-25T09-15Z/analysis.md)_
+
+---
+
 ## 2026-06-24 — Run `2026-06-24T09-15Z`
 
 **TL;DR:** OpenAI launched the full **Daybreak** cybersecurity platform today — a major expansion of its AI-for-defense initiative. Five new pages launched (a Codex Security plugin setup guide, a 20+ company partner directory, a contact-cyber-sales page, and two major blog posts), the old "request a vulnerability scan" page was retired and replaced by a structured enterprise funnel, and the homepage was updated to feature the Daybreak announcement. Alongside Daybreak, OpenAI published a GPT-5 immunology success story, a Codex whitepaper on long-running agentic work, a new Omio customer story, and an AI governance post announcing the Appia Foundation (a Linux Foundation-hosted body for shared AI safety standards). The API pricing page gained a processing-mode selector UI (Standard / Batch / Data residency), and 131 URLs total had their `<lastmod>` updated reflecting June 22–24 content refreshes. No anomalies detected.

@@ -98,6 +98,10 @@ Learn how AI is accelerating enterprise advantage through deeper integration, ag
 
 ## Recent news
 
+![Signals Homepage > Layout > Group > Recent news > Cards > How agents are transforming work > Media > Asset](https://images.ctfassets.net/kftzwdyauwt9/2MFPzkCGY6PPH4hmpY83TX/6fd0d2a67f303b49141abd175ca181b6/Art_Card__1_.png?w=3840&q=90&fm=webp)
+
+[How agents are transforming work](<https://openai.com/index/how-agents-are-transforming-work/>)
+
 ![Signals Homepage > Layout > Group > Recent news > Cards > Introducing the OpenAI Economic Research Exchange > Media > Asset](https://images.ctfassets.net/kftzwdyauwt9/1DxA8pHgu1AqA4E9tYh9Cs/6de7e05d428fc91fccbf2a92b7e06077/art_card.png?w=3840&q=90&fm=webp)
 
 [Introducing the OpenAI Economic Research Exchange](<https://openai.com/index/economic-research-exchange/>)
@@ -113,10 +117,6 @@ Learn how AI is accelerating enterprise advantage through deeper integration, ag
 ![Signals Homepage > Layout > Group > Recent news > Cards > New tools for understanding AI and learning outcomes > Media > Asset](https://images.ctfassets.net/kftzwdyauwt9/7oZEAMeUH1OOEBkABMc3MI/ca2e25176cb5ef434b04aee40e5caa08/OAI_New_tools_for_understanding_AIand_learning_outcomes_Art_Card_1x1.png?w=3840&q=90&fm=webp)
 
 [New tools for understanding AI and learning outcomes](<https://openai.com/index/understanding-ai-and-learning-outcomes/>)
-
-![Signals Homepage > Layout > Group > Recent news > Cards > Scaling social science research > Media > Asset](https://images.ctfassets.net/kftzwdyauwt9/1o6uZjX7hIjMEFZhXBhgXy/1bd6bd4ce0cfe98e01ad43592030a4f8/Scaling-social-science_1x1.png?w=3840&q=90&fm=webp)
-
-[Scaling social science research](<https://openai.com/index/scaling-social-science-research/>)
 
 ### Reports
 

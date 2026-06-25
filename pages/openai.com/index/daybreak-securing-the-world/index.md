@@ -189,17 +189,17 @@ OpenAI
 
 [View all](</news/>)
 
+![How agents are transforming work > Cover image](https://images.ctfassets.net/kftzwdyauwt9/7hmtkjKv0DxS4Yt8mQZju2/c168bfa2010da64bcc9dd60d6b5491e8/Art_Card__1_.png?w=3840&q=90&fm=webp)
+
+[How agents are transforming workCompanyJun 25, 2026](</index/how-agents-are-transforming-work/>)
+
+![OpenAI and Broadcom Jalapeño inference chip card image](https://images.ctfassets.net/kftzwdyauwt9/21KcazqOHUF7Cq71Hpfcnc/81ad98a1978845b441ab14e008168c75/openai-broadcom-jalapeno-inference-chip-image-1_1.png?w=3840&q=90&fm=webp)
+
+[OpenAI and Broadcom unveil LLM-optimized inference chipCompanyJun 24, 2026](</index/openai-broadcom-jalapeno-inference-chip/>)
+
 ![Patch the Planet Art Card 1x1](https://images.ctfassets.net/kftzwdyauwt9/2PwBCyZF0Z5WLRtsbOpDdQ/338e19fbc39e5b9a63b1db664c006e74/Art_Card__5_.png?w=3840&q=90&fm=webp)
 
 [Patch the Planet: a Daybreak initiative to support open source maintainersSecurityJun 22, 2026](</index/patch-the-planet/>)
-
-![Samsung Electronics ChatGPT and Codex card image](https://images.ctfassets.net/kftzwdyauwt9/1yLWuTdw8HyYoBldZk3ghx/85fe3f39213890099f6f72f41cec6d1b/samsung-electronics-1_1.png?w=3840&q=90&fm=webp)
-
-[Samsung Electronics brings ChatGPT and Codex to employeesCompanyJun 21, 2026](</index/samsung-electronics-chatgpt-codex-deployment/>)
-
-![OpenAI acquires Ona > oai 1x1](https://images.ctfassets.net/kftzwdyauwt9/6SkgXCQ08f4AYarun2I3oU/24414c9962c945767f783bdb63006841/OAI-Ona-ArtCard.png?w=3840&q=90&fm=webp)
-
-[OpenAI to acquire OnaCompanyJun 11, 2026](</index/openai-to-acquire-ona/>)
 
 Research
 
