@@ -1,28 +1,28 @@
 Skip to main content
 
-[](</>)
+[](</>)[](</business/>)
 
-  * [Research](</research/index/>)
+  * Why OpenAI
   * Products
-  * [Business](</business/>)
-  * [Developers](</api/>)
-  * [Company](</about/>)
-  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
+  * Solutions
+  * Resources
+  * [Customers](</business/customer-stories/>)
+  * [Pricing](</business/pricing/>)
 
 
 
-[Try now(opens in a new window)](<https://chatgpt.com/team-sign-up>)[Contact sales](</contact-sales/>)
+Try OpenAI[Contact sales](</contact-sales/>)
 
-  * Research
+  * Why OpenAI
   * Products
-  * Business
-  * Developers
-  * Company
-  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
+  * Solutions
+  * Resources
+  * [Customers](</business/customer-stories/>)
+  * [Pricing](</business/pricing/>)
 
 
 
-[Contact sales](</contact-sales/>)
+[Contact sales](</contact-sales/>)Try OpenAI
 
 OpenAI
 
@@ -30,40 +30,13 @@ OpenAI
 
 See pricing for our business and enterprise plans.
 
-### BusinessCodex
+ChatGPTAPI
 
-A plan for development-focused teams with pay-as-you-go pricing 
-
-Usage pricing
-
-No fixed seat fee. Pay as you go based on usage.
-
-[Get started(opens in a new window)](<https://chatgpt.com/explore/codex_team>)
-
-What's included:
-
-  * AI-powered software engineering
-
-  * Automated code and security reviews
-
-  * Automate tasks on your computer
-
-  * Take action across your documents, tools, and codebases
-
-  * Built-in worktrees and cloud environments for multi-agent workflows
-
-  * No fixed seat fee; pay as you go based on usage
-
-  * A secure, dedicated workspace with essential admin controls, SAML SSO, and MFA
-
-  * No training on your data; SAML security
-
-  * Support for compliance with GDPR, CCPA, and other privacy laws. Aligned with CSA STAR⁠ and SOC 2 Type 2
-
-
-
+![](https://images.ctfassets.net/kftzwdyauwt9/5VpL5Fj00dC65H8mTi1jHn/9dded36b68c5120e69f1b101638d2529/chat-1.png?w=3840&q=90&fm=webp)
 
 ### Business
+
+ChatGPT & Codex
 
 A secure workspace with company context and tools for teams, built for growing companies
 
@@ -96,7 +69,11 @@ What's included:
 
 *2+ users, billed annually. $25.00 per user per month when billed monthly. Unlimited subject to abuse guardrails. [Learn more⁠(opens in a new window)](<https://help.openai.com/en/articles/8792828-what-is-chatgpt-team>)
 
-### EnterpriseChatGPT & Codex
+![](https://images.ctfassets.net/kftzwdyauwt9/s2GhJeU3baS4ToFbNYOTs/35171dcb81bd64418aec716692646f6e/chat-2.png?w=3840&q=90&fm=webp)
+
+### Enterprise
+
+ChatGPT & Codex
 
 Enterprise-grade AI, security, and support for businesses operating at scale
 
@@ -129,7 +106,7 @@ Visit ChatGPT.com for consumer pricing
 
 [Learn more(opens in a new window)](<https://chatgpt.com/pricing/>)
 
-## Trusted by teams at
+Compare all features
 
 Pricing
 
@@ -619,7 +596,13 @@ _*Usage must be reasonable and comply with our_[ _policies_ ⁠(opens in a new w
 
 _**Enterprise and Business can purchase credits for more access_
 
+## Trusted by teams at
+
 ## FAQ
+
+## Start creating with OpenAI’s powerful models.
+
+[Get started(opens in a new window)](<https://platform.openai.com/>)[Contact sales](</contact-sales/>)
 
 Research
 
@@ -670,6 +653,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 

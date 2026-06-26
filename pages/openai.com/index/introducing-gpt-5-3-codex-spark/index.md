@@ -26,17 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Speed and intelligence
-
-  * Speed and intelligence
-  * Coding
-  * Latency improvements for all models
-  * Powered by Cerebras
-  * Availability & details
-  * What’s next
-
-
-
 February 12, 2026
 
 [Product](</news/product-releases/>)[Release](</research/index/release/>)[Company](</news/company-announcements/>)
@@ -46,6 +35,40 @@ February 12, 2026
 An ultra-fast model for real-time coding in Codex.
 
 Loading…
+
+Speed and intelligence
+
+  * Speed and intelligence
+
+  * Coding
+
+  * Latency improvements for all models
+
+  * Powered by Cerebras
+
+  * Availability & details
+
+  * What’s next
+
+
+
+
+Table of contents
+
+  * Speed and intelligence
+
+  * Coding
+
+  * Latency improvements for all models
+
+  * Powered by Cerebras
+
+  * Availability & details
+
+  * What’s next
+
+
+
 
 Today, we’re releasing a research preview of GPT‑5.3‑Codex‑Spark, a smaller version of GPT‑5.3‑Codex, and our first model designed for real-time coding. Codex-Spark marks the first milestone in our partnership with Cerebras, which [_we announced in January_ ⁠](</index/cerebras-partnership/>). Codex-Spark is optimized to feel near-instant when served on ultra-low latency hardware—delivering more than 1000 tokens per second while remaining highly capable for real-world coding tasks.
 
@@ -169,6 +192,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 

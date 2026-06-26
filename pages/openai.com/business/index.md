@@ -1,167 +1,126 @@
 Skip to main content
 
-[](</>)
+[](</>)[](</business/>)
 
-  * [Research](</research/index/>)
+  * Why OpenAI
   * Products
-  * [Business](</business/>)
-  * [Developers](</api/>)
-  * [Company](</about/>)
-  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
+  * Solutions
+  * Resources
+  * [Customers](</business/customer-stories/>)
+  * [Pricing](</business/pricing/>)
 
 
 
-[Try now(opens in a new window)](<https://chatgpt.com/team-sign-up>)[Contact sales](</contact-sales/>)
+Try OpenAI[Contact sales](</contact-sales/>)
 
-  * Research
+  * Why OpenAI
   * Products
-  * Business
-  * Developers
-  * Company
-  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
+  * Solutions
+  * Resources
+  * [Customers](</business/customer-stories/>)
+  * [Pricing](</business/pricing/>)
 
 
 
-[Contact sales](</contact-sales/>)
+[Contact sales](</contact-sales/>)Try OpenAI
 
 OpenAI
 
-The next era of work is here
+# Frontier intelligenceeverywhere you work
 
-# Create, code, and innovate with OpenAI's tools and APIs
+Get started
 
-OpenAI's frontier models help your business create, code, and innovate with confidence.
+[Contact sales](</contact-sales/>)
 
-[Try now(opens in a new window)](<https://chatgpt.com/team-sign-up>)[Contact sales](</contact-sales/>)
+[![Cisco colleagues collaborating on a laptop beside studio windows](https://images.ctfassets.net/kftzwdyauwt9/1t5IYcEUHVv2SBqs85yOBz/dfb403dba368a453900bd928e2a14444/Cisco_Still_Frame_2.png?w=3840&q=90&fm=webp)![](https://images.ctfassets.net/kftzwdyauwt9/3bPrRHURUMOUbb4dQHHvDY/6c57bae691ce6d6bf52c5cae44505f24/cisco.svg?w=3840&q=90)Read story](</customer-stories/cisco/>)[![Morgan Stanley team meeting in a conference room](https://images.ctfassets.net/kftzwdyauwt9/5soIm5Bd0reFqgefqzyWZx/0837b0b651f2c7a56d95beb179ededcd/Morgan_Stanley_Still_Frame.png?w=3840&q=90&fm=webp)![](https://images.ctfassets.net/kftzwdyauwt9/2gHGfMDWnORWPsivIbh95o/a7c8a463a43d007875468a8c96e51d30/morgan-stanley-provided.svg?w=3840&q=90)Read story](</customer-stories/morgan-stanley/>)[![Designer sketching concepts in a studio workspace](https://images.ctfassets.net/kftzwdyauwt9/3mWM3h7M1diUabKhYgTF1I/ea13a3a8d3a334bab9c0178600ba9819/BNY_Still_Frame.jpg?w=3840&q=90&fm=webp)![](https://images.ctfassets.net/kftzwdyauwt9/F5VHdqUF5otxZ0Hewf8uQ/3c7402e993935631b6495cd1d592c28c/bny.svg?w=3840&q=90)Read story](</customer-stories/bny/>)[![Team meeting around a conference table](https://images.ctfassets.net/kftzwdyauwt9/lKG8etPMCAHMncytiKRVJ/64534fdc370babda6daf517d3a382e9a/Moderna_Still_Frame_2.png?w=3840&q=90&fm=webp)![](https://images.ctfassets.net/kftzwdyauwt9/1zcHIB7H1VIac6oWL5Q6Q1/9e46dd902429334f2763773553c2c697/moderna.svg?w=3840&q=90)Read story](</customer-stories/moderna/>)[![Driver looking ahead from inside a car](https://images.ctfassets.net/kftzwdyauwt9/2wBDjBWhNarSUHm8nj2wXU/1d609e2bfcac058e5c529f3899a5e5da/Uber_Still_Frame_2.jpg?w=3840&q=90&fm=webp)![](https://images.ctfassets.net/kftzwdyauwt9/35SaxPL9nDrnKlMvs7F2dp/6343177fddcec69a68a75f320e538b99/uber.svg?w=3840&q=90)Read story](</customer-stories/uber/>)
 
-## Enterprise-ready solutions for real impact
+## AI for every team
 
-[See all solutions](</solutions/>)
+Frontier models built for the work your teams do every day.
 
-Use casesIndustriesBlueprints
+### A complete AI platform for your business
 
-### ChatGPT for Business
+ChatGPTCodexAPI
 
-Empower your entire workforce with frontier AI.
+AI for writing, research, building, and problem-solving.
 
-  * Boost productivity with our [_Business_ ⁠(opens in a new window)](<https://chatgpt.com/business/business-plan>) and [_Enterprise_ ⁠](</chatgpt/enterprise/>) plans.
+[Explore detailed pricing⁠](<https://openai.com/business/pricing>) | [Learn more >⁠(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
 
-  * Unlimited chats and access to advanced models, tools, and capabilities.
+ChatGPT
 
-  * Specialized AI agents for your teams—including Codex for software development and workspace agents that can run shared workflows, handle recurring tasks, and keep work moving automatically across your team’s tools.
+ChatGPT
 
-  * Enterprise-grade security, admin controls, SAML SSO, and compliance with GDPR and CCPA.
+New chat
 
-  * App integrations for your company tools: \+ more
+Library
 
+Scheduled
 
+Plugins
 
+AgentsNew
 
-[See pricing](<https://openai.com/business/chatgpt-pricing/#business>)
+Projects
 
-![ChatGPT interface with connectors to Google Drive, Microsoft Teams, Sharepoint, and Dropbox](https://images.ctfassets.net/kftzwdyauwt9/2jzmGLSPyzEQ5NVH3SvAxl/e89b6dd7ac17fce09b0c5cc3605774cb/ChatGPT-Team.png?w=3840&q=90&fm=webp)
+Customer launch planQuarterly forecastBrand campaign
 
-### API Platform
+Chats
 
-Create AI applications, experiences, and automated operations.
+Friendly Professional EmailChange SVG Color With CSSProject Kickoff Notes Summary
 
-  * The fastest, most powerful [_API platform_ ⁠](</api/>) for building AI products.
+## What are you working on?
 
-  * Frontier models that think longer, ideal for complex, multi-step problems.
+Summarize customer notesTurn research into a concise briefDraft a launch planCreate messaging, milestones, and ownersAnalyze a spreadsheetFind patterns and next steps in dataCreate a concise briefShape ideas into a polished summary
 
-  * Supports text, image, audio (speech), and vision inputs for richer, context-aware applications. 
+ChatGPT
 
-  * GPT‑5, GPT‑5 mini, and GPT‑5 nano now available at different price points.
+ChatGPT
 
+New chat
 
+Library
 
+Scheduled
 
-[Start building](<https://platform.openai.com/>)[Contact sales](</contact-sales/>)
+Plugins
 
-![Mock user interface showing the ability to use the ChatGPT API in custom development](https://images.ctfassets.net/kftzwdyauwt9/1tSNVqPWeCflUf2yBkhWLN/9d6dedce533cbe3c83d8d1774352490a/API_Platform.png?w=3840&q=90&fm=webp)
+AgentsNew
 
-## The AI platform behind thousands of companies
+Projects
 
-![Notion > cover image](https://images.ctfassets.net/kftzwdyauwt9/2HBxiM1dDPpM1W56ehwgNi/01dc3dafe6aedcabc9808446492523ea/oai_Notion_1x1.png?w=3840&q=90&fm=webp)
+Customer launch planQuarterly forecastBrand campaign
 
-[What Codex unlocks for NotionAPI](</index/notion/>)
+Chats
 
-![zendesk > cover image](https://images.ctfassets.net/kftzwdyauwt9/48NTEow1OGyg7iLssq1xeW/d4e214fac769591d99f34269f25a4bea/oai_Zendesk_1_1.png?w=3840&q=90&fm=webp)
+Friendly Professional EmailChange SVG Color With CSSProject Kickoff Notes Summary
 
-[Moving from intent-based bots to proactive AI agentsAPI](</index/zendesk/>)
+## What are you working on?
 
-![booking.com > cover image](https://images.ctfassets.net/kftzwdyauwt9/1y5wiE3noEqlINRKqv4NdU/277f5b75ebfa67b8a44fa8fc18b113f6/oai_Booking_1x1.png?w=3840&q=90&fm=webp)
+Summarize customer notesTurn research into a concise briefDraft a launch planCreate messaging, milestones, and ownersAnalyze a spreadsheetFind patterns and next steps in dataCreate a concise briefShape ideas into a polished summary
 
-[Personalizing travel at scale with OpenAIAPI(opens in a new window)](</index/booking-com/>)
+## Explore more
 
-![\[2.0\] Card > Media > Estee Lauder](https://images.ctfassets.net/kftzwdyauwt9/5r8WffR8g3bbiYmlugUs9c/d9232bfac9f79ed6ad2fa79327822878/oai_esteelauder_1_1.jpg?w=3840&q=90&fm=webp)
+![Abstract orange illustration of an enterprise interface with a circular chart and connected data rows.](https://images.ctfassets.net/kftzwdyauwt9/5cUuj8h2Y8GkVgusNTWXnK/76708da52c63208b1ef259b833ccb3f6/Enterprise.png?w=3840&q=90&fm=webp)
 
-[Data-driven beauty and creativity with ChatGPTChatGPT(opens in a new window)](</index/estee-lauder/>)
+## [Enterprise](</business/why-openai/enterprises/>)
 
-### Enable your workforce with AI
+![Stylized blue chart showing small-business growth reaching 100% in July 2026.](https://images.ctfassets.net/kftzwdyauwt9/626Z0wcCqCWocNYaNoaCTG/e2ade3046e95b3609f708e30a6ea50c8/SMB.png?w=3840&q=90&fm=webp)
 
-  * Unlimited access to GPT‑5, with generous access to advanced models—plus the flexibility to add credits as needed for Enterprise
-  * Integrations with your apps for more personalized answers—Google Drive, SharePoint, GitHub, Dropbox, and more
-  * Business features like data analysis, canvas, shared projects, tasks, record mode, and custom workspace GPTs
-  * Access to Codex to generate and review code, and to customizable, shareable workspace agents that run real workflows across your tools.
+## [SMB](</business/why-openai/small-business/>)
 
+![Abstract teal illustration of a startup product interface with a highlighted content card.](https://images.ctfassets.net/kftzwdyauwt9/2yJShQrLIxVC2tO2yEkTyV/481aebf0dd424d89615bc7a806a6dc9e/Startups.png?w=3840&q=90&fm=webp)
 
+## [Startups](</business/why-openai/startups/>)
 
-[Try ChatGPT Business(opens in a new window)](<https://chatgpt.com/team-sign-up>)[Learn about ChatGPT Enterprise](<https://chatgpt.com/business/enterprise>)
+![Developers](https://images.ctfassets.net/kftzwdyauwt9/grGxBFxOV2O9uYOepq3lW/156f21d096cf499cb0a070a3f63750c1/Developers.png?w=3840&q=90&fm=webp)
 
-![Business > Two up + Media > Custom AI > Media item > Desktop asset](https://images.ctfassets.net/kftzwdyauwt9/3MKLDFZR051r15geSfWh7t/f43ea9ff29294218daf6cf5289b10810/01_businesses_workload_desktop.png?w=3840&q=90&fm=webp)
+[Developers](<https://developers.openai.com/>)
 
-### Build AI-native products and experiences
+## Interested in seeing how OpenAI works for your business?
 
-  * Accelerate your business with AI-powered solutions for customer service, knowledge management, recommendation engines, and more
-  * Get expert guidance on AI deployment and best practices from solutions architects
-  * Optimize model performance for your use case or industry using [fine-tuning⁠(opens in a new window)](<https://platform.openai.com/docs/guides/fine-tuning>).
+Get started
 
-
-
-[Learn about our APIs](</api/>)
-
-![Business > Two up + Media > A deep partnership > Media item > Desktop asset](https://images.ctfassets.net/kftzwdyauwt9/8o8tz5tgWdvQjf0RNnzrc/80b7d7c532d614aed2877417fc063e56/02_businesses_partners_desktop.png?w=3840&q=90&fm=webp)
-
-### Enterprise-grade data privacy, security, and admin controls
-
-  * No customer data or metadata in training pipeline for API, ChatGPT Business, or ChatGPT Enterprise customers
-  * Data encryption at rest and in transit
-  * Custom data retention window and zero data retention for API customers with qualifying use cases
-  * Single Sign-On (SSO) with domain verification
-  * CCPA, CSA STAR, and SOC 2 Type 2 compliance, HIPAA compliance support, and [_BAAs_ ⁠(opens in a new window)](<https://help.openai.com/en/articles/8660679-how-can-i-get-a-business-associate-agreement-baa-with-openai>)
-
-
-
-[View enterprise privacy](</business-data/>)
-
-![Business > Two up + Media > Enterprise-grade > Media item > Desktop asset](https://images.ctfassets.net/kftzwdyauwt9/23qTPqYBOtqeBznJJYS8II/244f53e77428ca4c9c10d804da36a1c2/03_businesses_privacy_desktop.png?w=3840&q=90&fm=webp)
-
-> "This was cutting-edge research. We needed a partner that was willing to invest resources to try something new. We looked at all options, but we only trusted building a custom-trained model with OpenAI."
-
-Gabe Pereyra, AI Researcher and Co-founder, Harvey
-
-## Guides and resources for integrating AI into your business
-
-[Learn more](</business/guides-and-resources/>)
-
-### Explore more
-
-![ChatGPT Business Blog > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/1II9dwsHsifMlXad8juRCW/d697cd9cd1a820070dd1149d67d838ae/chatgpt-biz-Hero_1x1.png?w=3840&q=90&fm=webp)
-
-[More ways to work with your team and tools in ChatGPTProductSep 25, 2025](</index/more-ways-to-work-with-your-team/>)
-
-![New in ChatGPT for Work: April 2025 Updates > cover image](https://images.ctfassets.net/kftzwdyauwt9/5ImPJ2upvC3DJ3BwulYU3Q/d77f81dbfb8aacb95191245f32b80624/oai_business_SEO_1x1.png?w=3840&q=90&fm=webp)
-
-[New in ChatGPT for Business: April 2025WebinarApr 24, 2025](</business/new-in-chatgpt-for-business-april-updates-2025/>)
-
-![New in ChatGPT for Work: March Updates > cover image](https://images.ctfassets.net/kftzwdyauwt9/4WgxmdqlKSp7HwxMJ2pjjR/e844f2953d8413d0c5746e0ca05f52c9/oai_Business_1x1.png?w=3840&q=90&fm=webp)
-
-[New in ChatGPT for Business: March 2025WebinarMar 18, 2025](</business/new-in-chatgpt-for-work-march-updates-2025/>)
-
-![business/enabling-a-data-driven-workforce-webinar > cover image > asset](https://images.ctfassets.net/kftzwdyauwt9/3tG7IAYpwYZ45dN5GmDR2r/5f9ce20609467152985e54cdd454b7c7/oai_Business_1x1__1_.png?w=3840&q=90&fm=webp)
-
-[Enabling a data-driven workforceWebinarAug 8, 2024](</business/enabling-a-data-driven-workforce-webinar/>)
+[Contact sales](</contact-sales/>)
 
 Research
 
@@ -212,6 +171,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -265,32 +226,30 @@ OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
 
-![Coding cover image](https://images.ctfassets.net/kftzwdyauwt9/1cnZsax1BxlDpLAJu71sPl/20cc00572cd6fb29a02d7febab8117f4/Wallpaper-coding-hero.png?w=3840&q=90&fm=webp)
+### Finance
 
-![Content creation cover image](https://images.ctfassets.net/kftzwdyauwt9/11AhW3RqHajVdmOwUXEAny/bd20fa9b7b4fe0fbcba6229a4c5544de/solution-contentcreation-hero.png?w=3840&q=90&fm=webp)
+Streamline analysis, reporting, forecasting, and operational workflows to improve speed and accuracy.
 
-![Research cover image](https://images.ctfassets.net/kftzwdyauwt9/38z3k9r5tK4dxXibazoG3p/4fd45dfad4fa1014a558196675a830ee/solution-research-hero.png?w=3840&q=90&fm=webp)
+### Data analytics
 
-![Agents cover image](https://images.ctfassets.net/kftzwdyauwt9/Jn0IOO9cRvbzrQ7bQfUSm/7519a0ae71d48b547d6fd47c0548517b/solution-automation-hero.png?w=3840&q=90&fm=webp)
+Data teams uncover insights faster and improve decision-making with AI-powered analysis, reporting, automation, and knowledge discovery.
 
-![Data analysis cover image](https://images.ctfassets.net/kftzwdyauwt9/7I5bqgWC7nLBDTC2rkXfjP/ac7a07972ffcf44b54065fcd6e2a164c/solution-data_analysis-hero.png?w=3840&q=90&fm=webp)
+### Design
 
-### Coding
+Move from concept to execution faster with AI-powered ideation, prototyping, content generation, and creative collaboration.
 
-Build, debug, and ship faster.
+### Sales
 
-### Content Creation 
+Close deals faster with automated account research, tailored outreach, and real-time customer insights.
 
-Create clear, consistent content at scale.
+### Marketing
 
-### Research
+Create higher-performing campaigns with AI-powered content generation, research, and personalization.
 
-Gather and synthesize knowledge instantly.
+### Engineering
 
-### Agents
+ChatGPT and Codex accelerate coding, debugging, documentation, and code reviews so engineering teams can ship faster.
 
-Extend your team with agents that take action.
+### Security
 
-### Data analysis
-
-Uncover insights that drive smarter decisions.
+Security teams can investigate threats faster, automate response workflows, and strengthen protection across tools, data, and teams.
