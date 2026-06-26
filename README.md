@@ -4,6 +4,58 @@ A daily log of every change to OpenAI's public website — what appeared, what d
 
 ---
 
+## 2026-06-26 — Run `2026-06-26T09-15Z`
+
+**Fetch time:** 2026-06-26T09:17:38Z  
+**Baseline:** 2026-06-24T09-15Z  
+**Stats:** 1375 total URLs | +12 added | 82 updated | -3 removed | 0 anomalies | 34 sub-sitemaps
+
+**TL;DR:** Two major posts dropped: OpenAI published an economic research piece showing Codex has entirely displaced ChatGPT as the primary AI tool inside OpenAI itself (99.8% of employee output tokens now go through Codex, including Legal and Recruiting), and announced a custom LLM inference chip co-developed with Broadcom code-named "Jalapeño." The business site got a structural overhaul — six new department-specific solution pages (finance, sales, marketing, design, data, engineering) and three new audience landing pages (enterprises, small business, startups) — with the old standalone `/startups/` page retired. The Codex ambassador form was quietly removed, and the trademark dispute form was renamed to explicitly scope it to trademark *counterfeiting*. 82 pages got lastmod bumps (continued post-Daybreak refresh), no anomalies.
+
+### New Pages (12)
+
+**⭐ [How agents are transforming work](pages/openai.com/index/how-agents-are-transforming-work/index.md)** (June 25, 2026)  
+OpenAI's Economic Research paper measuring Codex's impact at the frontier. Key stats: by May 2026, Codex accounts for 99.8% of weekly output tokens generated within OpenAI. Every department — including Legal, Finance, and Recruiting — now uses Codex as its *primary* AI tool (not ChatGPT). Non-developer user adoption grew 137× for individuals and 189× for organizations since August 2025. Tasks are growing in horizon: 70% of sampled users made at least one Codex request estimated to represent >1 hour of human work. The paper frames this as evidence that "agentic AI changes the unit of knowledge work from single interactions to delegated, long-horizon tasks."
+
+**⭐ [OpenAI and Broadcom unveil LLM-optimized inference chip ("Jalapeño")](pages/openai.com/index/openai-broadcom-jalapeno-inference-chip/index.md)** (June 24, 2026)  
+OpenAI and Broadcom announced a custom inference chip designed as "the best inference platform for LLMs," with a nine-month tape-out timeline that was itself accelerated by OpenAI models. The post describes this as the first generation of a multi-generation platform, framed around making advanced AI more broadly available. This is OpenAI's first disclosed custom silicon effort, competing with Google's TPUs and Amazon's Trainium.
+
+**Business site restructure — Solutions by department (6 new pages):**  
+New depth-of-funnel pages targeting buyers by business function, each with role-specific messaging and case studies:
+- [Finance](pages/openai.com/business/solutions/finance/index.md) — "Frontier AI for your finance team's most ambitious work"
+- [Sales](pages/openai.com/business/solutions/sales/index.md)
+- [Marketing](pages/openai.com/business/solutions/marketing/index.md)
+- [Design](pages/openai.com/business/solutions/design/index.md)
+- [Data](pages/openai.com/business/solutions/data/index.md)
+- [Engineering](pages/openai.com/business/solutions/engineering/index.md)
+
+**Business site restructure — Audience landing pages (3 new pages, 1 removed):**  
+New segmented landing pages replacing the old generic `/startups/`:
+- [For Enterprises](pages/openai.com/business/why-openai/enterprises/index.md)
+- [For Small Business](pages/openai.com/business/why-openai/small-business/index.md)
+- [For Startups](pages/openai.com/business/why-openai/startups/index.md) — replaces the removed `/startups/`
+
+**[Trademark & Counterfeit Disputes form](pages/openai.com/form/trademark-counterfeit-disputes/index.md)**  
+Replacement for the old `/form/trademark-disputes/` form. The new name specifically scopes it to trademark *counterfeiting*, suggesting the form was narrowed or restructured.
+
+### Removed Pages (3)
+
+- **`/form/codex-ambassadors/`** — Codex ambassador program form quietly removed. No replacement page announced.
+- **`/startups/`** — Replaced by `/business/why-openai/startups/` as part of the business site restructure.
+- **`/form/trademark-disputes/`** — Replaced by `/form/trademark-counterfeit-disputes/` (renamed with narrower scope).
+
+### Notable Updates
+
+- **[Daybreak hub](pages/openai.com/daybreak/index.md)** — Updated again (second consecutive day); Cyber tier table and partner section further refreshed.
+- **[Daybreak partner network](pages/openai.com/daybreak/partners/index.md)** — Updated; additional partner details added.
+- **[Release notes](pages/openai.com/products/release-notes/index.md)** — Updated June 26; new entries for recent product releases.
+- **[Supplier security measures policy](pages/openai.com/policies/supplier-security-measures/index.md)** — First update since April 6, 2026; policy document revised.
+- **[Commerce policies](pages/openai.com/policies/commerce-policies/index.md)** — Updated June 25; terms or prohibited-use language revised.
+- 62 additional pages with lastmod bumps (ongoing CMS refresh, mostly customer stories and product pages).
+
+Full analysis: [runs/2026-06-26T09-15Z/analysis.md](runs/2026-06-26T09-15Z/analysis.md)
+
+---
 ## 2026-06-24 — Run `2026-06-24T09-15Z`
 
 **TL;DR:** OpenAI launched the full **Daybreak** cybersecurity platform today — a major expansion of its AI-for-defense initiative. Five new pages launched (a Codex Security plugin setup guide, a 20+ company partner directory, a contact-cyber-sales page, and two major blog posts), the old "request a vulnerability scan" page was retired and replaced by a structured enterprise funnel, and the homepage was updated to feature the Daybreak announcement. Alongside Daybreak, OpenAI published a GPT-5 immunology success story, a Codex whitepaper on long-running agentic work, a new Omio customer story, and an AI governance post announcing the Appia Foundation (a Linux Foundation-hosted body for shared AI safety standards). The API pricing page gained a processing-mode selector UI (Standard / Batch / Data residency), and 131 URLs total had their `<lastmod>` updated reflecting June 22–24 content refreshes. No anomalies detected.

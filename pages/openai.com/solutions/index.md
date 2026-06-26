@@ -1,28 +1,28 @@
 Skip to main content
 
-[](</>)
+[](</>)[](</business/>)
 
-  * [Research](</research/index/>)
+  * Why OpenAI
   * Products
-  * [Business](</business/>)
-  * [Developers](</api/>)
-  * [Company](</about/>)
-  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
+  * Solutions
+  * Resources
+  * [Customers](</business/customer-stories/>)
+  * [Pricing](</business/pricing/>)
 
 
 
-[Try now(opens in a new window)](<https://chatgpt.com/team-sign-up>)[Contact sales](</contact-sales/>)
+Try OpenAI[Contact sales](</contact-sales/>)
 
-  * Research
+  * Why OpenAI
   * Products
-  * Business
-  * Developers
-  * Company
-  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
+  * Solutions
+  * Resources
+  * [Customers](</business/customer-stories/>)
+  * [Pricing](</business/pricing/>)
 
 
 
-[Contact sales](</contact-sales/>)
+[Contact sales](</contact-sales/>)Try OpenAI
 
 OpenAI
 
@@ -31,6 +31,32 @@ OpenAI
 Explore proven ways to apply AI across your organization—built to fit how your teams work.
 
 [Try ChatGPT Business(opens in a new window)](<https://chatgpt.com/team-sign-up>)[Contact sales](</contact-sales/>)
+
+## Departments
+
+![OpenAI for Finance art card.](https://images.ctfassets.net/kftzwdyauwt9/2UABLkelbsY8aLeITzA67o/774191c8c9665456b21fb342bb3a49d6/openai-for-finance-art-card-1x1.png?w=3840&q=90&fm=webp)
+
+[FinanceAlign planning with strategy.](</business/solutions/finance/>)
+
+![Red data illustration with charts and a Data label.](https://images.ctfassets.net/kftzwdyauwt9/16mgrl1gR637UfwaUSCDwF/8931f794e2ab0b251a7309b62b75f9ac/openai-for-data-leaders-art-card-1x1.png?w=3840&q=90&fm=webp)
+
+[Data AnalyticsTurn insights into decisions.](</business/solutions/data/>)
+
+![Teal design illustration with UI panels and a Design label.](https://images.ctfassets.net/kftzwdyauwt9/1yxcDQemevwiukyJiCdtie/8a7edff489d9ec2a7b40d932c70f90e2/openai-for-design-leaders-art-card-1x1.png?w=3840&q=90&fm=webp)
+
+[DesignBring ideas to life faster.](</business/solutions/design/>)
+
+![OpenAI for Sales art card 1x1](https://images.ctfassets.net/kftzwdyauwt9/2oKPbRYGS150hf1g2PQKwN/5beb1d4135e818ef1aa3d6141c6d5398/openai-for-sales-art-card-1x1.png?w=3840&q=90&fm=webp)
+
+[SalesMove opportunities to revenue.](</business/solutions/sales/>)
+
+![OpenAI for Marketing art card.](https://images.ctfassets.net/kftzwdyauwt9/53zarksEGnxTEATK3z6ORX/f81cb3d920a22e8c5443ecd6700fa3a5/openai-for-marketing-art-card-1x1.png?w=3840&q=90&fm=webp)
+
+[MarketingCreate, optimize, and scale campaigns.](</business/solutions/marketing/>)
+
+![Pink engineering illustration with code checklist rows and an Engineering label.](https://images.ctfassets.net/kftzwdyauwt9/6J9lr7qH7vG5meoBrQ6wAp/620069b9364384ac3682e4c241e19477/openai-for-software-engineering-art-card-1x1.png?w=3840&q=90&fm=webp)
+
+[EngineeringShip reliable software faster.](</business/solutions/engineering/>)
 
 ## Use cases
 
@@ -72,7 +98,7 @@ Explore proven ways to apply AI across your organization—built to fit how your
 
 [RetailDeliver better shopping experiences.](</solutions/industries/retail/>)
 
-![image \(9\)-1x1](https://images.ctfassets.net/kftzwdyauwt9/5hUbKlAi71npWnxgYgWya1/ec53c89c3491bed93290ddff1ae7f67d/image__9_-1x1.png?w=3840&q=90&fm=webp)
+![A woman smiles while typing on a laptop as she speaks with a man seated across from her at a desk, with papers spread out in a busy office environment.](https://images.ctfassets.net/kftzwdyauwt9/5hUbKlAi71npWnxgYgWya1/ec53c89c3491bed93290ddff1ae7f67d/image__9_-1x1.png?w=3840&q=90&fm=webp)
 
 [GovernmentSupport essential public services.](</solutions/industries/government/>)
 
@@ -82,7 +108,7 @@ Explore proven ways to apply AI across your organization—built to fit how your
 
 [MCPKitConnect data to ChatGPT with custom MCP Servers.](</solutions/blueprints/mcpkit/>)
 
-![Hero](https://images.ctfassets.net/kftzwdyauwt9/2briu94lsaszigOQS2v5qo/6f46409b3005d9716a3eb1928e5dabb6/knowledge_retrieval_Hero.png?w=3840&q=90&fm=webp)
+![A chatbot interface answers a question about risk management SLAs, listing key points like initial risk pre-check and full risk assessment turnaround times. Beside it, a knowledge base panel shows related files such as “10 Customer Support Policies” and “11 Risk Management.” The background is light blue with soft gradients.](https://images.ctfassets.net/kftzwdyauwt9/2briu94lsaszigOQS2v5qo/6f46409b3005d9716a3eb1928e5dabb6/knowledge_retrieval_Hero.png?w=3840&q=90&fm=webp)
 
 [Knowledge RetrievalProvide trusted answers, backed by your data.](</solutions/blueprints/knowledge-retrieval/>)
 
@@ -161,6 +187,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 

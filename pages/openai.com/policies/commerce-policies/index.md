@@ -30,7 +30,7 @@ Select language
 
 …
 
-Updated: June 17, 2026
+Updated: June 24, 2026
 
 # Commerce policies
 
@@ -65,7 +65,7 @@ OpenAI reserves the right to remove products or sellers, and to restrict commerc
 
   * **Counterfeit products** or replicas that infringe trademarks.
   * **Tools that facilitate financial fraud** , such as card skimmers or synthetic-ID tools.
-  * **Pirated content or piracy-enabling tools** , including unauthorized streaming content and cracked software keys.
+  * **Pirated content, piracy-enabling tools, and unauthorized digital access products** , including cracked software keys, shared subscription credentials, and unauthorized streaming access.
   * **Stolen goods** or items sold without clear provenance.
   * **Wildlife or environmental contraband** , including live animals and items restricted under conservation laws.
   * **Products designed to evade laws,** regulations, testing, anti-theft measures, or required safety or compliance controls, or to **impersonate law enforcement** , emergency services, or government officials.
@@ -112,7 +112,7 @@ OpenAI reserves the right to remove products or sellers, and to restrict commerc
 
   * **Fake IDs and documents** and services that make or sell false documents.
   * **Consumer lead and personal data lists,** including records containing contact details, demographic information, purchase intent, or similar personal attributes.
-  * **Social media manipulation services** that artificially inflate social media engagement, reach, or influence. 
+  * **Social media manipulation services** , including followers, likes, views, or boosts that artificially inflate engagement, reach, or influence.
 
 
 
@@ -131,8 +131,8 @@ In addition to the categories above, we do not allow certain products or service
 
 ### Unsupported commerce formats
 
-  * **Unsupported digital goods,** including credits, entitlements, memberships, subscriptions, downloadable files, templates, graphics, promotional kits, standalone ebooks, and similar digital products, except for conventional software, software licenses, and complete video games.
-  * **Unsupported services,** including consulting, professional, or remote services, and other purchases whose primary deliverable is labor, advice, access, authorization, processing, or other post-purchase work.
+  * **High-risk digital entitlements** , including in-game currency, account resources, boosts, top-ups, and other account-linked digital deliverables, except for conventional software, software licenses, and complete video games.
+  * **Unsupported services** whose primary deliverable is access, unlocking, recovery, boosting, account modification, or other post-purchase work performed on a user’s behalf.
 
 
 
@@ -196,6 +196,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 

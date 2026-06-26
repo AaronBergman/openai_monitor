@@ -26,16 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Our approach & how it works 
-
-  * Our approach & how it works 
-  * What we monitor for
-  * Limitations
-  * Towards a safety case with monitoring
-  * The road ahead
-
-
-
 March 19, 2026
 
 [Safety](</news/safety-alignment/>)[Publication](</research/index/publication/>)
@@ -45,6 +35,36 @@ March 19, 2026
 Using our most powerful models to detect and study misaligned behavior in real-world deployments.
 
 Share
+
+Our approach & how it works 
+
+  * Our approach & how it works 
+
+  * What we monitor for
+
+  * Limitations
+
+  * Towards a safety case with monitoring
+
+  * The road ahead
+
+
+
+
+Table of contents
+
+  * Our approach & how it works 
+
+  * What we monitor for
+
+  * Limitations
+
+  * Towards a safety case with monitoring
+
+  * The road ahead
+
+
+
 
 AI systems are beginning to act with greater autonomy in real-world environments at scale. As their capabilities advance, they are able to take on increasingly complex, high-impact tasks and interact with tools, systems, and workflows in ways that resemble human collaborators.
 
@@ -154,17 +174,17 @@ Marcus Williams, Hao Sun, Swetha Sekhar, Micah Carroll, David G. Robinson, Ian K
 
 [View all](</news/>)
 
+![A near-autonomous AI chemist improves a challenging reaction](https://images.ctfassets.net/kftzwdyauwt9/QgPPg4etNE5C4Ao0G94sk/e5f2a50e5de4619d0e0fe8483698718b/molecule-one-art-card.png?w=3840&q=90&fm=webp)
+
+[A near-autonomous AI chemist improves a challenging reaction in medicinal chemistryResearchJun 17, 2026](</index/ai-chemist-improves-reaction/>)
+
+![LifeSciBench 1x1](https://images.ctfassets.net/kftzwdyauwt9/1iV0eZRf28MZRvIxYY4eLf/4379e20807f5ff44efccf518a97e480a/LifeSciBench_1x1.png?w=3840&q=90&fm=webp)
+
+[Introducing LifeSciBenchResearchJun 17, 2026](</index/introducing-life-sci-bench/>)
+
 ![oai 1x1](https://images.ctfassets.net/kftzwdyauwt9/7eONRWq61MKUix4tK4t88Y/170085acc9b241a0bdfba429bd217907/oai_1x1.png?w=3840&q=90&fm=webp)
 
 [Advancing youth safety and opportunity through global leadershipGlobal AffairsJun 2, 2026](</index/advancing-youth-safety-and-opportunity-through-global-leadership/>)
-
-![Technical foundations > Art Card](https://images.ctfassets.net/kftzwdyauwt9/6gugGfSiM1oO6UHxxwnqTk/c7173a5a2c096a8f8a24c258ddfa22dd/ArtCard-TechnicalFoundations.png?w=3840&q=90&fm=webp)
-
-[A shared playbook for trustworthy third party evaluationsSafetyMay 29, 2026](</index/trustworthy-third-party-evaluations-foundations/>)
-
-![Frontier Governance Framework > card image ](https://images.ctfassets.net/kftzwdyauwt9/2KoiHuErR5YxXGUnhCU8VY/e392c6249ec4644e07e944edea22e837/Frame2.png?w=3840&q=90&fm=webp)
-
-[OpenAI’s Frontier Governance FrameworkSafetyMay 28, 2026](</index/openai-frontier-governance-framework/>)
 
 Research
 
@@ -215,6 +235,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 

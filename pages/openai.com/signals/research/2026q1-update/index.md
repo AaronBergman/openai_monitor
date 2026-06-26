@@ -26,16 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-ChatGPT usage broadened beyond early adopters
-
-  * ChatGPT usage broadened beyond early adopters
-  * ChatGPT use spread beyond the largest and most established markets
-  * Workplace use evolved
-  * Work-related usage on personal accounts became more consistent
-  * Stay engaged
-
-
-
 May 11, 2026
 
 # How ChatGPT adoption broadened in early 2026
@@ -45,6 +35,40 @@ Q1 data shows consumer adoption growth across inferred gender, age, and geograph
 Loading…
 
 Share
+
+ChatGPT usage broadened beyond early adopters
+
+  * ChatGPT usage broadened beyond early adopters
+
+  * ChatGPT use spread beyond the largest and most established markets
+
+    * Countries with the largest increases in ChatGPT messages per capita ranking
+
+  * Workplace use evolved
+
+  * Work-related usage on personal accounts became more consistent
+
+  * Stay engaged
+
+
+
+
+Table of contents
+
+  * ChatGPT usage broadened beyond early adopters
+
+  * ChatGPT use spread beyond the largest and most established markets
+
+    * Countries with the largest increases in ChatGPT messages per capita ranking
+
+  * Workplace use evolved
+
+  * Work-related usage on personal accounts became more consistent
+
+  * Stay engaged
+
+
+
 
 In the first quarter of 2026, consumer ChatGPT growth broadened across age groups, continued to rise among users with typically feminine names, and deepened in more countries. 
 
@@ -160,6 +184,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 

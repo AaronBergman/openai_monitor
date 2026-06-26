@@ -26,18 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Frontier agentic capabilities
-
-  * Frontier agentic capabilities
-  * An interactive collaborator
-  * How we used Codex to train and deploy GPT-5.3-Codex
-  * Securing the cyber frontier
-  * Availability & details
-  * What’s next
-  * Appendix
-
-
-
 February 5, 2026
 
 [Product](</news/product-releases/>)[Release](</research/index/release/>)[Company](</news/company-announcements/>)
@@ -49,6 +37,56 @@ Expanding Codex across the full spectrum of professional work on a computer.
 Loading…
 
 Share
+
+Frontier agentic capabilities
+
+  * Frontier agentic capabilities
+
+    * Coding
+
+    * Web development
+
+    * Beyond coding
+
+  * An interactive collaborator
+
+  * How we used Codex to train and deploy GPT-5.3-Codex
+
+  * Securing the cyber frontier
+
+  * Availability & details
+
+  * What’s next
+
+  * Appendix
+
+
+
+
+Table of contents
+
+  * Frontier agentic capabilities
+
+    * Coding
+
+    * Web development
+
+    * Beyond coding
+
+  * An interactive collaborator
+
+  * How we used Codex to train and deploy GPT-5.3-Codex
+
+  * Securing the cyber frontier
+
+  * Availability & details
+
+  * What’s next
+
+  * Appendix
+
+
+
 
 We’re introducing a new model that unlocks even more of what Codex can do: GPT‑5.3‑Codex, the most capable agentic coding model to date. The model advances both the frontier coding performance of GPT‑5.2‑Codex and the reasoning and professional knowledge capabilities of GPT‑5.2, together in one model, which is also 25% faster. This enables it to take on long-running tasks that involve research, tool use, and complex execution. Much like a colleague, you can steer and interact with GPT‑5.3‑Codex while it’s working, without losing context. 
 
@@ -245,6 +283,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 

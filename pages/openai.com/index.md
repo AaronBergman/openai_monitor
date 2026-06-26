@@ -58,6 +58,10 @@ Better memory for a more helpful ChatGPT
 
 [View more](</news/company-announcements/>)
 
+![How agents are transforming work > Cover image](https://images.ctfassets.net/kftzwdyauwt9/7hmtkjKv0DxS4Yt8mQZju2/c168bfa2010da64bcc9dd60d6b5491e8/Art_Card__1_.png?w=3840&q=90&fm=webp)
+
+[How agents are transforming workCompanyJun 25, 2026](</index/how-agents-are-transforming-work/>)
+
 ![Confidential submission of draft S-1 to the SEC > cover image](https://images.ctfassets.net/kftzwdyauwt9/36doI12YCwUtp1hzD4d8bj/84e67c565f39e7d5ca3ee011efa69756/confidential-submission-of-draft-s-1-to-the-sec-1x1.png?w=3840&q=90&fm=webp)
 
 [Confidential submission of draft S-1 to the SECCompanyJun 8, 2026](</index/openai-submits-confidential-s-1/>)
@@ -77,10 +81,6 @@ Better memory for a more helpful ChatGPT
 ![A soft, abstract gradient dominated by pink and blue hues, with gentle vertical blending and a warm orange-yellow glow](https://images.ctfassets.net/kftzwdyauwt9/7x4viZ0DsQtxQpAgnYYheQ/8dfe028356aceac9e83da6cb837d6864/Saftey-Art-Card-1080x1080.png?w=3840&q=90&fm=webp)
 
 [Helping ChatGPT better recognize context in sensitive conversationsSafetyMay 14, 2026](</index/chatgpt-recognize-context-in-sensitive-conversations/>)
-
-![Soft abstract gradient background blending pastel pink, lavender, and light purple tones, with a warm orange glow near the lower right corner fading into a hint of blue along the edge.](https://images.ctfassets.net/kftzwdyauwt9/6cEIQkxxIQawI5tRwAwHPF/1eb5d89a9841b26aa45a1a71b534c409/ArtCard-Trusted-Contact-1080x1080.png?w=3840&q=90&fm=webp)
-
-[Introducing Trusted Contact in ChatGPTSafetyMay 7, 2026](</index/introducing-trusted-contact-in-chatgpt/>)
 
 ## Stories
 
@@ -183,6 +183,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 

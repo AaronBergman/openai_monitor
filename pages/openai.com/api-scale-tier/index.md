@@ -43,7 +43,7 @@ By choosing Scale Tier, you can unlock:
 | Input bundle| Output bundle| Uptime SLA| Latency SLA  
 ---|---|---|---|---  
 GPT-5.5| 50,000 TPM  
-$750.00 per unit/day| N/A3| 99.9%| 99% > 100 tokens per second2  
+$750.00 per unit/day| N/A3| 99.9%| 99% > 50 tokens per second2  
 GPT-5.4 mini| 50,000 TPM  
 $100.00 per unit/day| N/A3| 99.9%| 99% > 100 tokens per second2  
 GPT-5.4excludes long-context4| 50,000 TPM  
@@ -180,6 +180,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
