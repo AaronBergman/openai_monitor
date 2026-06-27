@@ -4,6 +4,54 @@ A daily log of every change to OpenAI's public website — what appeared, what d
 
 ---
 
+## 2026-06-27 — Run `2026-06-27T09-15Z`
+
+**Fetch time:** 2026-06-27T09:16:44Z  
+**Baseline:** 2026-06-26T09-15Z  
+**Stats:** 1380 total URLs | +5 added | 53 updated | 0 removed | 114 anomalies (all subsitemap taxonomy migrations) | 34 sub-sitemaps
+
+**TL;DR:** Two major product announcements broke today. OpenAI previewed **GPT-5.6** — a new model family (Sol/Terra/Luna) coordinated with the U.S. government before release, with Sol being their strongest model yet and notable for new "ultra" multi-agent mode and cybersecurity capabilities that triggered the government coordination. Separately, the **Jalapeño chip page updated** (announced last run but freshly updated today with additional detail on performance). On the education front, OpenAI launched a new **Education solutions page** targeting campuses plus two new forms: a Campus Leaders community interest form and a Trusted Access for Biology Research form (extending vetted model access to life-sciences organizations below the Rosalind tier). The release notes gained two new entries: **Codex Remote is now generally available** on all ChatGPT plans with a new DigitalOcean plugin, and **memory improvements rolled out to ChatGPT Business**. Signals picked up a new research PDF on "The shift to agentic AI: evidence from Codex." The 114 flagged anomalies are all internal taxonomy changes — OpenAI reorganized their sitemap structure, moving ~100 URLs between sub-sitemaps into more logical categories (releases, security, global-affairs, research, webinars, etc.) — no content changed.
+
+### Anomaly Note: Sitemap Taxonomy Reorganization (114 migrations)
+
+OpenAI moved 114 URLs between sub-sitemaps today as part of a taxonomy cleanup. No content was added or removed — pages moved to semantically appropriate sub-sitemaps. Key patterns: release announcements consolidated into `sitemap.xml_release.xml`; security content into `sitemap.xml_security.xml`; global affairs and policy content into `sitemap.xml_global-affairs.xml`; learn-OpenAI-on-OpenAI demos into `sitemap.xml_learn-openai-on-openai.xml`; research publications into `sitemap.xml_publication.xml`. This appears to be a CMS/editorial taxonomy overhaul, not a content change.
+
+### New Pages (5)
+
+**⭐ [Previewing GPT-5.6 Sol: a next-generation model](pages/openai.com/index/previewing-gpt-5-6-sol/index.md)** (June 26, 2026)  
+OpenAI announced a limited preview of GPT-5.6, a new model family with three variants:
+- **Sol** — flagship, "strongest model yet"
+- **Terra** — balanced, competitive with GPT-5.5 but 2× cheaper  
+- **Luna** — fast and affordable, lowest cost
+
+New capabilities: a `max` reasoning effort giving Sol maximum thinking time, and a new `ultra` mode that uses subagents to parallelize complex work. Sol sets state-of-the-art on Terminal-Bench 2.1 (coding), GeneBench v1 (long-horizon genomics), and ExploitBench (cybersecurity). The cybersecurity improvement triggered unusual U.S. government coordination: at the government's request, OpenAI is staging access through "a small group of trusted partners whose participation has been shared with the government" before broad release. OpenAI says this approach should not become a long-term default but is a short-term measure while the Administration develops a cyber Executive Order framework. Broad availability expected "in the coming weeks." Safety: GPT-5.6 Sol does not cross the "Cyber Critical" threshold per OpenAI's preparedness framework; "most robust safety stack to date" with multi-week adversarial red-teaming.
+
+**[OpenAI for Education – solutions hub](pages/openai.com/business/solutions/education/index.md)** (new)  
+New dedicated landing page targeting universities, colleges, and K-12 institutions. Three pillars: build student capability, expand faculty/staff capacity, and accelerate research. Includes a link to ChatGPT for K-12 teachers. Some image alt-text still shows "FPO placeholder" — suggests a very fresh launch.
+
+**[Trusted Access for Biology Research form](pages/openai.com/form/trusted-access-for-biology-research/index.md)** (new)  
+A new trusted-access tier for vetted biology and life-sciences organizations seeking access to OpenAI's "mainline models" (distinct from GPT-Rosalind, which remains a separate premium tier for frontier bio research). Applicants must demonstrate organizational identity, institutional mission alignment, and willingness to provide additional documentation. Reflects OpenAI's ongoing effort to expand STEM/science access with appropriate governance.
+
+**[Campus Leaders Interest Form](pages/openai.com/form/openai-campus-leaders-interest-form/index.md)** (new)  
+Interest form for enrolled university/college students (18+, 1+ year remaining) to join OpenAI's Campus Leaders community — helping peers learn AI, ~6–8 hours/month commitment. Related to the new Education solutions page.
+
+**[Professional Services Security Measures policy](pages/openai.com/policies/professional-services-security-measures/index.md)** (new)  
+New policy document covering security requirements for OpenAI's professional services engagements. Tied to enterprise/professional services expansion.
+
+### Notable Updates
+
+- **[Products Release Notes](pages/openai.com/products/release-notes/index.md)** — Two new entries: (1) **Codex Remote now GA** on all ChatGPT plans (Jun 25); includes a new DigitalOcean Droplet Workspace plugin and updated QR-pairing authentication. (2) **Memory improvements for ChatGPT Business** (Jun 25): improved memory now uses context from past chats automatically; users can review a memory summary, see "View Sources" on personalized responses, and correct or delete memories. No extra cost.
+- **[Signals](pages/openai.com/signals/index.md) / [Signals Research](pages/openai.com/signals/research/index.md)** — New research report added: "The shift to agentic AI: evidence from Codex" (June 2026) — analysis of how agentic AI is shifting work patterns, especially inside organizations and at OpenAI. [PDF](https://cdn.openai.com/pdf/5d1e1489-21c0-43e4-9d42-f87efdbf0082/the-shift-to-agentic-ai-evidence-from-codex.pdf)
+- **[Home page](pages/openai.com/index.md)** — Featured article replaced: "Codex for every role, tool, and workflow" → "Previewing GPT-5.6 Sol." Hero image updated to Sol/Terra/Luna visual.
+- **[Company Announcements](pages/openai.com/news/company-announcements/index.md)** — Featured article updated to GPT-5.6 Sol.
+- **12 Academy/Codex pages** — Bulk lastmod update (CMS refresh); no substantive content changes.
+- **3 pricing pages** (API, business/pricing, chatgpt-pricing) — Lastmod updated; content unchanged (likely backend refresh ahead of GPT-5.6 pricing).
+- **9 business/solutions pages** — Minor lastmod updates; one small capitalization fix on engineering page ("codex" → "Codex").
+
+Full analysis: [runs/2026-06-27T09-15Z/analysis.md](runs/2026-06-27T09-15Z/analysis.md)
+
+---
+
 ## 2026-06-26 — Run `2026-06-26T09-15Z`
 
 **Fetch time:** 2026-06-26T09:17:38Z  

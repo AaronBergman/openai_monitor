@@ -186,7 +186,7 @@ Explore additional resources for getting started with OpenAI
 
 Whether you’re scaling an in-house engineering team or building software for customers, we can help you identify where to start.
 
-[Contact sales](</contact-sales/>)[Explore codex](</codex/>)
+[Contact sales](</contact-sales/>)[Explore Codex](</codex/>)
 
 Research
 
