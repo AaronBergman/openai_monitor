@@ -41,100 +41,88 @@ Filter
 
 Sort
 
-ChatGPT
+Codex
 
-Jun 22, 2026
+Jun 25, 2026
 
 GA
 
-## Large pastes are now attachments for Free and Go users
+## Codex Remote GA and DigitalOcean plugin
 
-Starting today for ChatGPT Free and Go users, long pastes are handled differently in ChatGPT.
+Codex Remote is now generally available on all ChatGPT plans. From the ChatGPT mobile app, users can start or continue work on a connected Mac or Windows host, review progress, and approve actions from their phone. Remote Control now uses authenticated one-to-one QR pairing between each supported mobile device and each host. Connections used since June 8 remain paired; older inactive connections need to pair again. Signing out turns off Remote Control without removing existing pairings.  
+The new DigitalOcean Droplet Workspace plugin lets Codex provision a DigitalOcean Droplet, configure SSH access, and connect it to the Codex app as a remote workspace. Users should update the ChatGPT mobile app and Codex app to the latest versions before connecting.
 
-If you paste more than 10k characters into the composer, ChatGPT will automatically convert the content into an attachment instead of inserting it directly into the text field. This keeps the composer cleaner and helps prevent large pastes from consuming your entire context window.  
-You can still move the content back into the message at any time by clicking on Show in text field to convert the attachment back to a direct paste.
-
-This is already available to ChatGPT Plus, Pro, and Business users. Previously if you sent more than 5k characters it was sent as an attachment. The threshold has now also been raised to 10k characters.
-
-[View source(opens in a new window)](<https://help.openai.com/en/articles/6825453-chatgpt-release-notes#large-pastes-are-now-handled-as-attachments-for-more-plans>)
+[View source(opens in a new window)](<https://help.openai.com/en/articles/6825453-chatgpt-release-notes#codex-remote-ga-and-digitalocean-plugin>)[ChatGPT(opens in a new window)](<https://chatgpt.com/g/g-689201e43a00819187056f4182373d62-digitalocean-droplet-workspace>)[Platform docs(opens in a new window)](<https://developers.openai.com/codex/docs/remote-connections>)
 
 ChatGPT
 
-Jun 12, 2026
-
-Sunset
-
-## Retiring GPT-5.2 models in ChatGPT
-
-As of June 12, 2026, GPT‑5.2 models are no longer available in ChatGPT.
-
-This applies to GPT‑5.2 Instant, GPT‑5.2 Thinking, and GPT‑5.2 Pro. Existing conversations that used GPT‑5.2 will automatically continue on the corresponding GPT‑5.5 model. GPT‑5.5 models remain available in ChatGPT.
-
-This retirement was previously announced with the release of GPT‑5.3 Instant. Models will generally remain available in ChatGPT for 90 days after a successor is released.
-
-[View source(opens in a new window)](<https://help.openai.com/en/articles/6825453-chatgpt-release-notes#retiring-gpt-52-models>)
-
-API
-
-Jun 9, 2026
+Jun 25, 2026
 
 GA
 
-## Web search image results for the Responses API
+## Memory improvements for ChatGPT Business
 
-Web search can now return image results alongside regular text results. Use image search when your application needs current or web-grounded visuals, such as product photos, landmarks, places, events, or visual references.
+We’re rolling out improved memory for ChatGPT Business. When memory is enabled, ChatGPT can use relevant context from past chats to keep memory current and make responses more relevant as work changes, rather than relying only on details saved manually.
 
-[View source(opens in a new window)](<https://developers.openai.com/api/docs/guides/tools-web-search>)
+Users can now:
+
+\- Review a memory summary showing information ChatGPT may use to personalize responses.  
+\- View Sources below personalized responses to see relevant context from memories, past chats, and custom instructions.  
+\- Correct memory, delete a referenced chat, mark a source as not relevant, turn memory off, or return to legacy Saved memories.
+
+The memory summary is a high-level view of relevant context and may not include everything ChatGPT can remember or reference.  
+This update does not affect Codex memory. Project-only memory remains contained within each project and does not use memories or conversations from outside that project. These improvements are available at no additional cost.
+
+[View source(opens in a new window)](<https://help.openai.com/en/articles/11391654-chatgpt-business-release-notes#memory-improvements-for-chatgpt-business>)[Blog(opens in a new window)](<https://research.openai.com>)
 
 Codex
 
-Jun 9, 2026
+Jun 25, 2026
 
 GA
 
-## ChatGPT for iOS updates: worktrees, Codex profiles, goals, and inline review comments
+## Codex Remote GA and DigitalOcean plugin for Business
 
-New features
+Codex Remote is now generally available to users in ChatGPT Business workspaces. From the ChatGPT mobile app, users can start or continue work on a connected Mac or Windows host, review progress, and approve actions from their phone. Remote Control now uses authenticated one-to-one QR pairing between each supported mobile device and each host. Connections used since June 8 remain paired; older inactive connections need to pair again. Signing out turns off Remote Control without removing existing pairings.  
+The new DigitalOcean Droplet Workspace plugin is also available to ChatGPT Business users. It lets Codex provision a DigitalOcean Droplet, configure SSH access, and connect it to the Codex app as a remote workspace. Users should update the ChatGPT mobile app and Codex app to the latest versions before connecting.
 
-\- Added support for choosing a branch, creating a worktree, and running an environment setup script for new threads.  
-\- Added a Codex profile screen with usage stats and token activity charts.  
-\- Added /goal support for creating and managing goals from Codex Mobile.  
-\- Added inline review comments when viewing changed files.  
-\- Added support for asking in side chat from selected transcript text.  
-\- Added support for editing the latest sent prompt.
+[View source(opens in a new window)](<https://help.openai.com/en/articles/11391654-chatgpt-business-release-notes#codex-remote-ga-and-digitalocean-plugin>)[ChatGPT(opens in a new window)](<https://chatgpt.com/g/g-689201e43a00819187056f4182373d62-digitalocean-droplet-workspace>)[Platform docs(opens in a new window)](<https://developers.openai.com/codex/docs/remote-connections>)
 
-Improvements and bug fixes
+ChatGPT
 
-\- Improved attachment support on Windows hosts.  
-\- Skills and plugins now appear directly inline in the composer.  
-\- Improved side chat and queued prompt visibility while a thread is running.  
-\- Improved message styling, navigation, tool activity, Face ID behavior, archived-thread browsing, and thread UI polish.
+Jun 25, 2026
 
-[View source(opens in a new window)](<https://developers.openai.com/codex/changelog#codex-2026-06-09-mobile>)
+GA
+
+## Memory improvements for ChatGPT Enterprise and Edu
+
+We’re rolling out improved memory for ChatGPT Enterprise and Edu. When memory is enabled, ChatGPT can use relevant context from past chats to keep memory current and make responses more relevant as work changes, rather than relying only on details saved manually.
+
+Users can now:
+
+\- Review a memory summary showing information ChatGPT may use to personalize responses.  
+\- View Sources below personalized responses to see relevant context from memories, past chats, and custom instructions.  
+\- Correct memory, delete a referenced chat, mark a source as not relevant, turn memory off, or return to legacy Saved memories.
+
+The memory summary is a high-level view of relevant context and may not include everything ChatGPT can remember or reference.  
+For ChatGPT Enterprise, the improved experience will begin with an early access period of approximately two weeks. During early access, admins can turn on Use improved memory in Workspace settings. After early access, it will turn on by default for eligible workspaces unless an admin opts out. Admins and users can switch back to legacy Saved memories.  
+This update does not affect Codex memory. Project-only memory remains contained within each project and does not use memories or conversations from outside that project. These improvements are available at no additional cost.
+
+[View source(opens in a new window)](<https://help.openai.com/en/articles/10128477-chatgpt-enterprise-edu-release-notes#memory-improvements-for-chatgpt-enterprise-and-edu>)[Blog(opens in a new window)](<https://research.openai.com>)
 
 Codex
 
-Jun 9, 2026
+Jun 25, 2026
 
 GA
 
-## Codex app updates: migration flows, plugin browsing, and settings search
+## Codex Remote GA and DigitalOcean workspaces for Enterprise and Edu
 
-New features
+Codex Remote is now generally available to users in ChatGPT Enterprise and Edu workspaces. From the ChatGPT mobile app, users can start or continue work on a connected Mac or Windows host, review progress, and approve actions from their phone. Remote Control now uses authenticated one-to-one QR pairing between each supported mobile device and each host. Connections used since June 8 remain paired; older inactive connections need to pair again.  
+Signing out turns off Remote Control without removing existing pairings.  
+The new DigitalOcean Droplet Workspace plugin is also available to ChatGPT Enterprise and Edu users. It lets Codex provision a DigitalOcean Droplet, configure SSH access, and connect it to the Codex app as a remote workspace. Users should update the ChatGPT mobile app and Codex app to the latest versions before connecting.
 
-\- Added Migrate to Codex flows for importing supported setup from Claude Code and Claude Cowork, including during onboarding.  
-\- Revamped plugins screen with separate tabs, marketplace and category filters, keyboard navigation, and clearer install actions.  
-\- Expanded Settings search to find options from more panels, including Git and pets.
-
-Performance improvements and bug fixes
-
-\- Fixed goal timer overlap in narrow layouts.  
-\- Reduced unread notifications while an active goal continues running.  
-\- Kept review diff ordering consistent with the file tree.  
-\- Improved window rendering on systems that don’t support translucent backdrops, including Windows 10.  
-\- Additional performance improvements and bug fixes.
-
-[View source(opens in a new window)](<https://developers.openai.com/codex/changelog#codex-2026-06-09-app>)
+[View source(opens in a new window)](<https://help.openai.com/en/articles/10128477-chatgpt-enterprise-edu-release-notes#codex-remote-ga-and-digitalocean-workspaces>)[ChatGPT(opens in a new window)](<https://chatgpt.com/g/g-689201e43a00819187056f4182373d62-digitalocean-droplet-workspace>)[Platform docs(opens in a new window)](<https://developers.openai.com/codex/docs/remote-connections>)
 
 Load more
 

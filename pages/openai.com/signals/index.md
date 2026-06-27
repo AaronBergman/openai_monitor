@@ -120,6 +120,8 @@ Learn how AI is accelerating enterprise advantage through deeper integration, ag
 
 ### Reports
 
+### [The shift to agentic AI: evidence from CodexJune 2026 | An analysis of Codex usage to understand how agentic AI is shifting work, especially in organizations and at OpenAI.Learn more](<https://cdn.openai.com/pdf/5d1e1489-21c0-43e4-9d42-f87efdbf0082/the-shift-to-agentic-ai-evidence-from-codex.pdf>)
+
 ### [How ChatGPT adoption broadened in early 2026May 2026 | Q1 data shows consumer adoption growth among users over 35 and those with typically feminine names.Learn more](<https://openai.com/signals/research/2026q1-update/>)
 
 ### [How frontier firms are pulling aheadMay 2026 | B2B Signals shows how the frontier advantage is beginning to compound for firms using AI more deeply, more broadly, and in more delegated workflows.Learn more](<https://openai.com/index/introducing-b2b-signals/>)

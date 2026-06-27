@@ -32,9 +32,13 @@ Message ChatGPT
 
 [Learn about ChatGPT Business](</business/>)[Talk with ChatGPT](<https://chatgpt.com/?mode=voice>)[Research](</research/>)[API Platform](</api/>)More
 
-![1 1 Art Card](https://images.ctfassets.net/kftzwdyauwt9/4xugzd9dTDMUzIUmuamtO3/1f40af4e50ab8b2bdd64d5b491964961/1_1_Art_Card.png?w=3840&q=90&fm=webp)
+![Sol Terra Luna](https://images.ctfassets.net/kftzwdyauwt9/3rB71m1PVnTOczSz4IL642/9c511cf4292a7391718ad64a612c8687/blog_16x9.png?w=3840&q=90&fm=webp)
 
-[Codex for every role, tool, and workflowProduct7 min read](</index/codex-for-every-role-tool-workflow/>)
+[Previewing GPT-5.6 Sol: a next-generation modelProduct12 min read](</index/previewing-gpt-5-6-sol/>)
+
+![Sol Terra Luna](https://images.ctfassets.net/kftzwdyauwt9/3rB71m1PVnTOczSz4IL642/9c511cf4292a7391718ad64a612c8687/blog_16x9.png?w=3840&q=90&fm=webp)
+
+[Previewing GPT-5.6 Sol: a next-generation modelProduct12 min read](</index/previewing-gpt-5-6-sol/>)
 
 ![1 1 Art Card](https://images.ctfassets.net/kftzwdyauwt9/4xugzd9dTDMUzIUmuamtO3/1f40af4e50ab8b2bdd64d5b491964961/1_1_Art_Card.png?w=3840&q=90&fm=webp)
 
@@ -47,12 +51,6 @@ Message ChatGPT
 ![1x1 Health Art 1](https://images.ctfassets.net/kftzwdyauwt9/25I93CBDfs6LgX4R4XCMBD/121ac551be0a9153314bf51fdbe91dae/1x1_Health_Art_1.png?w=3840&q=90&fm=webp)
 
 [Improving health intelligence in ChatGPTProduct](</index/improving-health-intelligence-in-chatgpt/>)
-
-![Art Card 1080x1080 \(3\)](https://images.ctfassets.net/kftzwdyauwt9/3JLNH7ejJFnxLmX2LpzoKD/19f9e3c4d36cc9d677ba88e842ad2db2/Art_Card_1080x1080__4_.png?w=3840&q=90&fm=webp)
-
-Better memory for a more helpful ChatGPT
-
-[Dreaming: Better memory for a more helpful ChatGPTResearch5 min read](</index/chatgpt-memory-dreaming/>)
 
 ## Recent news
 
