@@ -4,6 +4,39 @@ A daily log of every change to OpenAI's public website — what appeared, what d
 
 ---
 
+## 2026-06-28 — Run `2026-06-28T09-15Z`
+
+**Fetch time:** 2026-06-28T09:15:00Z  
+**Baseline:** 2026-06-27T09-15Z  
+**Stats:** 1380 total URLs | +0 added | 32 updated | 0 removed | 0 anomalies | 34 sub-sitemaps
+
+**TL;DR:** A quiet day with no new pages and no removals. All 32 URL updates carry freshened `<lastmod>` timestamps but the rendered content is byte-for-byte identical to yesterday — a routine CMS metadata-touch pattern, likely cache invalidations or backend publishing pipeline runs. The updates cluster into five recognizable batches: 11 OpenAI Academy Codex pages all touched around 06:42 UTC; three pricing pages (API, business, ChatGPT) touched together at ~16:50 UTC on Jun 27; five signup/interest forms batch-updated at ~22:30 UTC; three policy documents (UK Online Safety Act, Commerce Policies, Professional Services Security Measures) refreshed individually; and two Signals research pages updated at ~22:01 UTC. Five high-profile news articles — the GPT-5.6 Sol preview, the Jalapeño chip announcement, the Appia Foundation/AI standards post, the immunology mystery post, and the "how agents are transforming work" piece — all received minor timestamp bumps with no content change. No anomalies were detected.
+
+### Anomalies
+
+None.
+
+### New Pages
+
+None.
+
+### Notable Updates (all metadata-only — no content changes)
+
+- **11 Academy Codex pages** (`academy/codex-*`, `academy/how-*`, etc.) — Batch touch at ~06:42 UTC Jun 28. The full Codex Academy learning module received a coordinated CMS refresh with no visible changes.
+- **3 Pricing pages** (`api/pricing/`, `business/pricing/`, `business/chatgpt-pricing/`) — Batch touch at ~16:50-16:51 UTC Jun 27. No pricing changes observed. May reflect a backend update ahead of GPT-5.6 Sol broader rollout.
+- **3 Policy pages** — `policies/uk-online-safety-act/` (touched Jun 28 07:23), `policies/commerce-policies/` (touched Jun 27 13:29), `policies/professional-services-security-measures/` (touched Jun 28 07:33). All content unchanged.
+- **5 news articles** — Timestamps bumped on: [Previewing GPT-5.6 Sol](pages/openai.com/index/previewing-gpt-5-6-sol/index.md), [Jalapeño chip](pages/openai.com/index/openai-broadcom-jalapeno-inference-chip/index.md), [AI standards / Appia Foundation](pages/openai.com/index/helping-build-shared-standards-for-advanced-ai/index.md), [GPT-5 immunology mystery](pages/openai.com/index/gpt-5-immunology-mystery/index.md), [How agents are transforming work](pages/openai.com/index/how-agents-are-transforming-work/index.md). No content changes.
+- **Signals pages** — `signals/` and `signals/research/` touched at ~22:01 UTC Jun 27. Content unchanged; the signals/research page continues to feature the June 2026 "shift to agentic AI: evidence from Codex" report added in the prior run.
+- **5 form pages** — Batch touch at ~22:30 UTC Jun 27 (`form/100-chats-book-request/`, `form/chatgpt-pro-community/`, `form/life-sciences-access/`, `form/rosalind-biodefense-program/`, `index/openai-campus-network-student-club-interest-form/`). No content changes.
+
+### Removals
+
+None.
+
+Full analysis: [runs/2026-06-28T09-15Z/analysis.md](runs/2026-06-28T09-15Z/analysis.md)
+
+---
+
 ## 2026-06-27 — Run `2026-06-27T09-15Z`
 
 **Fetch time:** 2026-06-27T09:16:44Z  
