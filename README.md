@@ -4,6 +4,53 @@ A daily log of every change to OpenAI's public website — what appeared, what d
 
 ---
 
+## 2026-06-29 — Run `2026-06-29T09-15Z`
+
+**Fetch time:** 2026-06-29T09:17:03Z  
+**Baseline:** 2026-06-27T09-15Z  
+**Stats:** 1381 total URLs | +1 added | 46 updated | 0 removed | 0 anomalies | 34 sub-sitemaps
+
+**TL;DR:** One new page today: HP Inc. announced it is scaling its OpenAI Frontier enterprise partnership, following successful February 2026 pilots where one engineer cleared 122 pull requests in weeks and a security team compressed a month of bug remediation into a single day. The big contextual backdrop is pricing: ChatGPT Business dropped from $25 to $20/seat (announced June 24), and the associated pricing pages got another lastmod bump today, likely reflecting live pricing system updates. The GPT-5.6 Sol preview page was updated again — it has now received three consecutive lastmod refreshes in as many days, suggesting the team is actively editing the page as the phased rollout progresses. Eleven Codex Academy educational pages got a batch CMS refresh (June 28 timestamps, no apparent content change). The OpenAI Signals economic-research hub was updated, and a new top-level signals research PDF on agentic AI from Codex has now surfaced in the listing. Three policy pages were revised: professional-services security measures, UK Online Safety Act compliance page, and the California privacy rights report. No anomalies.
+
+### New Pages (1)
+
+**[HP Inc. launches Frontier strategic partnership with OpenAI](pages/openai.com/index/hp-frontier-partnership/index.md)** (June 28, 2026)  
+HP Inc. is scaling its OpenAI [Frontier](https://openai.com/business/frontier/) enterprise partnership across the company. The article describes a pilot phase that began in February 2026 with early wins: one engineer processed 122 pull requests across 43 projects in weeks using OpenAI models; a security team remediated critical software bugs in a single day (estimated at up to a month of traditional work). The post details the workstreams being scaled:
+- **Partner/store/customer support** — AI agents across HP's 100,000+ partner network for always-on guidance and faster resolution.
+- **Workforce Experience Platform (WXP) / device telemetry** — AI reasoning over fleet health signals (crashes, Wi-Fi, app hangs) for faster device management.
+- **Cybersecurity** — directional estimate of ~82 hours/week of security-team capacity unlocked; Frontier provides permissioning and deployment controls.
+- **ChatGPT and Codex** — broad knowledge work and software modernization across all departments.
+
+This is part of a pattern of large enterprise "Frontier" partnerships (HP joins a growing cohort; context: Frontier is OpenAI's highest tier of strategic enterprise access).
+
+### Notable Updates (46 pages)
+
+**⭐ [Previewing GPT-5.6 Sol](pages/openai.com/index/previewing-gpt-5-6-sol/index.md)** — Third consecutive lastmod update (now `2026-06-29T08:19:03.718Z`). The page was first published June 26 and has been touched every day since, suggesting ongoing edits as the limited preview expands. The page describes GPT-5.6 Sol, Terra, and Luna; the government-coordinated limited launch; and the layered cybersecurity safeguard stack.
+
+**Pricing pages** — API pricing (`/api/pricing/`), ChatGPT Business pricing (`/business/chatgpt-pricing/`), and general business pricing (`/business/pricing/`) all received fresh lastmod timestamps today (as late as `2026-06-29T09:16:52.925Z` — within the fetch window). This is consistent with live pricing infrastructure updates following the June 24 change that lowered ChatGPT Business from $25 to $20/seat and introduced Codex pay-as-you-go changes.
+
+**[Codex product page](pages/openai.com/codex/index.md)** — Updated to `2026-06-29T09:16:00.757Z`. Now prominently features a "$500 in credits" team referral offer and a "Claim offer" CTA. Available on macOS and Windows.
+
+**11 Codex Academy pages** — Batch lastmod update to June 28 timestamps, uniform across the board. The pages cover Codex automations, settings, plugins/skills, general use, and team-by-function guides (business ops, data science, sales, finance). Likely a CMS touch rather than content edits.
+
+**[OpenAI Signals](pages/openai.com/signals/index.md) / [Signals Research](pages/openai.com/signals/research/index.md)** — Both updated. The research listing now visibly leads with the "Shift to agentic AI: evidence from Codex" (June 2026 PDF), confirming the new study is surfaced as the featured item.
+
+**Policy pages:**
+- **[Professional Services Security Measures](pages/openai.com/policies/professional-services-security-measures/index.md)** — Updated June 29 (`2026-06-29T08:31:14.087Z`). Security requirements for OpenAI's professional-services subcontractors.
+- **[UK Online Safety Act](pages/openai.com/policies/uk-online-safety-act/index.md)** — Updated June 29 (`2026-06-29T09:04:39.232Z`). Compliance disclosure covering illegal content, child safety, and harmful content obligations under UK law.
+- **[California Privacy Rights Reporting](pages/openai.com/policies/privacy-policy/california-privacy-rights-reporting/index.md)** — Updated June 28; annual privacy reporting disclosure for California residents.
+- **[Commerce Policies](pages/openai.com/policies/commerce-policies/index.md)** — Updated June 29.
+
+**Customer story cross-links updated** — `/index/boston-childrens-hospital/` and `/index/omio/` had their "Keep reading" sections refreshed to surface the new HP partnership article. Several older Codex announcement posts (codex-now-generally-available, introducing-gpt-5-2-codex, gpt-5-1-codex-max, introducing-upgrades-to-codex, introducing-gpt-5-4) also received lastmod bumps, consistent with related-article panels being updated to link to the HP story.
+
+**[How agents are transforming work](pages/openai.com/index/how-agents-are-transforming-work/index.md)** — Updated June 28 (`2026-06-28T17:18:22.125Z`); likely minor content polish or related-article update after its June 25 publication.
+
+**Business solutions pages** — Marketing (`/business/solutions/marketing/`), Small Business (`/business/why-openai/small-business/`), and Startups (`/business/why-openai/startups/`) updated; consistent with nav and cross-link refreshes following the new HP story.
+
+Full analysis: [runs/2026-06-29T09-15Z/analysis.md](runs/2026-06-29T09-15Z/analysis.md)
+
+---
+
 ## 2026-06-27 — Run `2026-06-27T09-15Z`
 
 **Fetch time:** 2026-06-27T09:16:44Z  

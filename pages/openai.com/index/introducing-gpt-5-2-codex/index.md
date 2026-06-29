@@ -26,16 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Pushing the frontier on real-world software engineering
-
-  * Pushing the frontier on real-world software engineering
-  * Advancing the cyber frontier
-  * Real-world cyber capabilities
-  * Empowering cyberdefense through trusted access
-  * Conclusion
-
-
-
 December 18, 2025
 
 [Product](</news/product-releases/>)[Release](</research/index/release/>)[Company](</news/company-announcements/>)
@@ -49,6 +39,36 @@ Get started
 $ npm i -g @openai/codex
 
 Share
+
+Pushing the frontier on real-world software engineering
+
+  * Pushing the frontier on real-world software engineering
+
+  * Advancing the cyber frontier
+
+  * Real-world cyber capabilities
+
+  * Empowering cyberdefense through trusted access
+
+  * Conclusion
+
+
+
+
+Table of contents
+
+  * Pushing the frontier on real-world software engineering
+
+  * Advancing the cyber frontier
+
+  * Real-world cyber capabilities
+
+  * Empowering cyberdefense through trusted access
+
+  * Conclusion
+
+
+
 
 Today we’re releasing GPT‑5.2‑Codex, the most advanced agentic coding model yet for complex, real-world software engineering. GPT‑5.2‑Codex is a version of [_GPT‑5.2_ ⁠](<https://openai.com/index/introducing-gpt-5-2/>) further optimized for agentic coding in Codex, including improvements on long-horizon work through context compaction, stronger performance on large code changes like refactors and migrations, improved performance in Windows environments, and significantly stronger cybersecurity capabilities.
 
@@ -129,17 +149,17 @@ OpenAI
 
 [View all](</news/>)
 
-![Confidential submission of draft S-1 to the SEC > cover image](https://images.ctfassets.net/kftzwdyauwt9/36doI12YCwUtp1hzD4d8bj/84e67c565f39e7d5ca3ee011efa69756/confidential-submission-of-draft-s-1-to-the-sec-1x1.png?w=3840&q=90&fm=webp)
+![HP early AI wins — card image](https://images.ctfassets.net/kftzwdyauwt9/6phCuFzVSdCdVCh6YqXMa6/a4207917b5d7a43179a61f5de012168d/HP-1_1.png?w=3840&q=90&fm=webp)
 
-[Confidential submission of draft S-1 to the SECCompanyJun 8, 2026](</index/openai-submits-confidential-s-1/>)
+[How HP is scaling early AI wins across the enterpriseCompanyJun 28, 2026](</index/hp-frontier-partnership/>)
 
-![Built for broad benefit > cover](https://images.ctfassets.net/kftzwdyauwt9/bEe28mW3dEOj9pKJsPp2u/13f7bed9e86b0667ba924479d62f98e4/Art_Card_1080x1080_1.png?w=3840&q=90&fm=webp)
+![Art Card 1x1](https://images.ctfassets.net/kftzwdyauwt9/687HyyF4C0A2OsktQGlTZJ/1ca5b061daa5e22fd338e9910292dac5/blog_1x1.png?w=3840&q=90&fm=webp)
 
-[Built to benefit everyone: our planCompanyJun 8, 2026](</index/built-to-benefit-everyone-our-plan/>)
+[Previewing GPT-5.6 Sol: a next-generation modelProductJun 26, 2026](</index/previewing-gpt-5-6-sol/>)
 
-![Economic research forum > art card ](https://images.ctfassets.net/kftzwdyauwt9/2DpNjvjdVuCrLKNOrFrWJ7/1aefe1cbe252bcd9ba42035469fc8a0f/art_card.png?w=3840&q=90&fm=webp)
+![How agents are transforming work > Cover image](https://images.ctfassets.net/kftzwdyauwt9/7hmtkjKv0DxS4Yt8mQZju2/c168bfa2010da64bcc9dd60d6b5491e8/Art_Card__1_.png?w=3840&q=90&fm=webp)
 
-[Introducing the OpenAI Economic Research ExchangeCompanyJun 8, 2026](</index/economic-research-exchange/>)
+[How agents are transforming workCompanyJun 25, 2026](</index/how-agents-are-transforming-work/>)
 
 Research
 
@@ -190,6 +210,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 

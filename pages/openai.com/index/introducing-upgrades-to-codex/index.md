@@ -26,15 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-GPT-5-Codex
-
-  * GPT-5-Codex
-  * Updates to Codex
-  * Building safe and trustworthy AI agents
-  * Pricing and availability
-
-
-
 September 15, 2025
 
 [Release](</research/index/release/>)[Product](</news/product-releases/>)
@@ -52,6 +43,48 @@ $ npm i -g @openai/codex
 Loading…
 
 Share
+
+GPT-5-Codex
+
+  * GPT-5-Codex
+
+  * Updates to Codex
+
+    * Codex CLI
+
+    * The Codex IDE extension
+
+    * Codex cloud
+
+    * Code review
+
+  * Building safe and trustworthy AI agents
+
+  * Pricing and availability
+
+
+
+
+Table of contents
+
+  * GPT-5-Codex
+
+  * Updates to Codex
+
+    * Codex CLI
+
+    * The Codex IDE extension
+
+    * Codex cloud
+
+    * Code review
+
+  * Building safe and trustworthy AI agents
+
+  * Pricing and availability
+
+
+
 
  _**Update on September 23, 2025**_ _:__GPT‑5‑Codex is now available to developers using Codex via API key (in addition to being available to developers using Codex via their ChatGPT subscription). GPT‑5 Codex is available at the same price as GPT‑5, and is available in the Responses API only. The underlying model snapshot will be regularly updated. Check out the Codex_[ __developer documentation__ ⁠(opens in a new window)](<http://platform.openai.com/docs/models/gpt-5-codex>)_and_[ __changelog__ ⁠(opens in a new window)](<https://developers.openai.com/codex/changelog>)_for more details._
 
@@ -154,19 +187,17 @@ OpenAI
 
 [View all](</news/>)
 
-![Art Card 1080x1080 \(3\)](https://images.ctfassets.net/kftzwdyauwt9/3JLNH7ejJFnxLmX2LpzoKD/19f9e3c4d36cc9d677ba88e842ad2db2/Art_Card_1080x1080__4_.png?w=3840&q=90&fm=webp)
+![Art Card 1x1](https://images.ctfassets.net/kftzwdyauwt9/687HyyF4C0A2OsktQGlTZJ/1ca5b061daa5e22fd338e9910292dac5/blog_1x1.png?w=3840&q=90&fm=webp)
 
-Better memory for a more helpful ChatGPT
+[Previewing GPT-5.6 Sol: a next-generation modelProductJun 26, 2026](</index/previewing-gpt-5-6-sol/>)
 
-[Dreaming: Better memory for a more helpful ChatGPTResearchJun 4, 2026](</index/chatgpt-memory-dreaming/>)
+![Spend Controls_Artcard.png](https://images.ctfassets.net/kftzwdyauwt9/3RkIKhLVsVWcJQ3czkTNMH/c63f9c43efd82ddf863f87d44edca201/Spend_Controls_Artcard.png?w=3840&q=90&fm=webp)
 
-![Rosalind5.5 ArtCard](https://images.ctfassets.net/kftzwdyauwt9/6USIQM1B7TggUvvTFxxwoi/0176ac6633c8bdc24641d25d1d2db824/GPT-Rosalind_ArtCard.png?w=3840&q=90&fm=webp)
+[New usage analytics and updated spend controls for enterprisesProductJun 18, 2026](</index/chatgpt-enterprise-spend-controls/>)
 
-[Introducing new capabilities to GPT-RosalindProductJun 3, 2026](</index/introducing-new-capabilities-to-gpt-rosalind/>)
+![1x1 Health Art 1](https://images.ctfassets.net/kftzwdyauwt9/25I93CBDfs6LgX4R4XCMBD/121ac551be0a9153314bf51fdbe91dae/1x1_Health_Art_1.png?w=3840&q=90&fm=webp)
 
-![1 1 Art Card](https://images.ctfassets.net/kftzwdyauwt9/4xugzd9dTDMUzIUmuamtO3/1f40af4e50ab8b2bdd64d5b491964961/1_1_Art_Card.png?w=3840&q=90&fm=webp)
-
-[Codex for every role, tool, and workflowProductJun 2, 2026](</index/codex-for-every-role-tool-workflow/>)
+[Improving health intelligence in ChatGPTProductJun 18, 2026](</index/improving-health-intelligence-in-chatgpt/>)
 
 Research
 
@@ -217,6 +248,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 

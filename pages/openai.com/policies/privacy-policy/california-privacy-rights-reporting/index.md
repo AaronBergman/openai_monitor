@@ -26,40 +26,39 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-June 9, 2026
+June 28, 2026
 
 # California privacy rights reporting
 
-As described in our [_Privacy Policy_ ⁠](<https://openai.com/policies/row-privacy-policy/>), OpenAI provides tools for individuals to access, delete, and correct their data through its [_Privacy Portal_ ⁠(opens in a new window)](<http://privacy.openai.com>) and [_directly through ChatGPT_ ⁠(opens in a new window)](<https://help.openai.com/en/articles/7730893-data-controls-faq>). Individuals may also exercise their privacy rights by emailing dsar@openai.com. Below is information on the requests received, completed, and denied from all users globally between January 1, 2024 and December 31, 2024.
+As described in our [_Privacy Policy_](</policies/row-privacy-policy/>) , OpenAI enables individuals to request to access, delete, and correct their data through its [_Privacy Portal_ ⁠(opens in a new window)](<http://privacy.openai.com>), by emailing [_privacy@openai.com_ ⁠](<mailto:privacy@openai.com>), and [_directly through ChatGPT_ ⁠(opens in a new window)](<https://help.openai.com/en/articles/7730893-data-controls-faq>). Below is information on the requests received through these channels from users globally between January 1, 2025 and December 31, 2025.
 
 ## Data Access Requests
 
-Requests Received| 1,633,986  
+Requests Received| 5,986,331  
 ---|---  
-Requests Completed in Whole or in Part| 1,633,452  
-Requests Denied*| 534  
-Average Days to Respond| Less than 72 hours  
+Requests Completed in Whole or in Part| 5,982,553  
+Requests Denied*| 3,778  
+Average Days to Respond| Less than four days  
   
 ## Deletion Requests
 
-Requests Received| 751,976  
+Requests Received| 6,705,206  
 ---|---  
-Requests Completed in Whole or in Part| 739,248  
-Requests Denied*| 12,728  
-Average Days to Respond| Less than 72 hours  
+Requests Completed in Whole or in Part| 6,688,198  
+Requests Denied*| 17,008  
+Average Days to Respond| Less than three days  
   
 ## Correction Requests
 
-Requests Received| 76,626  
+Requests Received| 351,297  
 ---|---  
-Requests Completed in Whole or in Part| 75,560  
-Requests Denied*| 1,066  
-Average Days to Respond| Less than 72 hours  
+Requests Completed in Whole or in Part| 317,949  
+Requests Denied*| 32,083  
+Average Days to Respond| Less than two days  
   
 *Requests Denied: Requests may be denied due to factors such as the inability to verify the account.
 
-As explained in our [_Privacy Policy_ ⁠](<https://openai.com/policies/row-privacy-policy/>), OpenAI does not sell our users’ personal information and does not process sensitive personal information for the purposes of inferring characteristics about a consumer.  
-
+As explained in our [_Privacy Policy_](</policies/row-privacy-policy/>) , OpenAI does not sell our users’ personal information and does not process sensitive personal information for the purposes of inferring characteristics about a consumer.
 
 Research
 
@@ -110,6 +109,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
