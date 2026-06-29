@@ -1,0 +1,243 @@
+{
+  "run_id": "2026-06-29T09-15Z",
+  "fetch_time": "2026-06-29T09:17:03Z",
+  "baseline": "2026-06-27T09-15Z",
+  "added": [
+    "https://openai.com/index/hp-frontier-partnership/"
+  ],
+  "removed": [],
+  "updated": [
+    {
+      "url": "https://openai.com/academy/codex-automations/",
+      "old_lastmod": "2026-06-27T06:55:49.654Z",
+      "new_lastmod": "2026-06-28T14:29:45.225Z"
+    },
+    {
+      "url": "https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex/",
+      "old_lastmod": "2026-06-27T06:54:49.316Z",
+      "new_lastmod": "2026-06-28T14:29:46.645Z"
+    },
+    {
+      "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex/",
+      "old_lastmod": "2026-06-27T06:55:24.293Z",
+      "new_lastmod": "2026-06-28T14:29:42.989Z"
+    },
+    {
+      "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex/",
+      "old_lastmod": "2026-06-27T06:55:23.533Z",
+      "new_lastmod": "2026-06-28T14:29:47.623Z"
+    },
+    {
+      "url": "https://openai.com/academy/codex-how-to-start/",
+      "old_lastmod": "2026-06-27T06:55:55.039Z",
+      "new_lastmod": "2026-06-28T14:29:43.562Z"
+    },
+    {
+      "url": "https://openai.com/academy/codex-plugins-and-skills/",
+      "old_lastmod": "2026-06-27T06:55:23.532Z",
+      "new_lastmod": "2026-06-28T14:29:45.664Z"
+    },
+    {
+      "url": "https://openai.com/academy/codex-settings/",
+      "old_lastmod": "2026-06-27T06:55:23.533Z",
+      "new_lastmod": "2026-06-28T14:29:43.688Z"
+    },
+    {
+      "url": "https://openai.com/academy/how-finance-teams-use-codex/",
+      "old_lastmod": "2026-06-27T06:55:24.146Z",
+      "new_lastmod": "2026-06-28T14:29:49.317Z"
+    },
+    {
+      "url": "https://openai.com/academy/how-to-use-codex-for-everyday-work/",
+      "old_lastmod": "2026-06-27T06:54:29.115Z",
+      "new_lastmod": "2026-06-29T05:40:30.841Z"
+    },
+    {
+      "url": "https://openai.com/academy/what-is-codex/",
+      "old_lastmod": "2026-06-27T06:55:24.585Z",
+      "new_lastmod": "2026-06-28T14:29:45.102Z"
+    },
+    {
+      "url": "https://openai.com/academy/working-with-codex/",
+      "old_lastmod": "2026-06-27T06:55:54.488Z",
+      "new_lastmod": "2026-06-28T14:29:45.939Z"
+    },
+    {
+      "url": "https://openai.com/api/pricing/",
+      "old_lastmod": "2026-06-27T09:14:35.525Z",
+      "new_lastmod": "2026-06-29T08:01:41.745Z"
+    },
+    {
+      "url": "https://openai.com/business/chatgpt-pricing/",
+      "old_lastmod": "2026-06-27T09:14:32.183Z",
+      "new_lastmod": "2026-06-29T09:16:52.925Z"
+    },
+    {
+      "url": "https://openai.com/business/pricing/",
+      "old_lastmod": "2026-06-27T09:14:18.624Z",
+      "new_lastmod": "2026-06-29T09:16:32.861Z"
+    },
+    {
+      "url": "https://openai.com/business/solutions/marketing/",
+      "old_lastmod": "2026-06-26T12:18:28.348Z",
+      "new_lastmod": "2026-06-29T05:15:29.461Z"
+    },
+    {
+      "url": "https://openai.com/business/why-openai/small-business/",
+      "old_lastmod": "2026-06-26T11:17:23.982Z",
+      "new_lastmod": "2026-06-29T04:07:29.769Z"
+    },
+    {
+      "url": "https://openai.com/business/why-openai/startups/",
+      "old_lastmod": "2026-06-25T22:22:08.596Z",
+      "new_lastmod": "2026-06-29T04:05:52.295Z"
+    },
+    {
+      "url": "https://openai.com/codex/",
+      "old_lastmod": "2026-06-27T06:42:41.995Z",
+      "new_lastmod": "2026-06-29T09:16:00.757Z"
+    },
+    {
+      "url": "https://openai.com/form/100-chats-book-request/",
+      "old_lastmod": "2026-06-27T07:43:06.152Z",
+      "new_lastmod": "2026-06-28T15:24:43.534Z"
+    },
+    {
+      "url": "https://openai.com/form/chatgpt-pro-community/",
+      "old_lastmod": "2026-06-26T21:16:43.244Z",
+      "new_lastmod": "2026-06-28T15:24:53.616Z"
+    },
+    {
+      "url": "https://openai.com/form/life-sciences-access/",
+      "old_lastmod": "2026-06-26T21:16:55.014Z",
+      "new_lastmod": "2026-06-28T15:24:53.909Z"
+    },
+    {
+      "url": "https://openai.com/form/openai-campus-leaders-interest-form/",
+      "old_lastmod": "2026-06-27T08:05:17.088Z",
+      "new_lastmod": "2026-06-29T09:08:50.457Z"
+    },
+    {
+      "url": "https://openai.com/form/rosalind-biodefense-program/",
+      "old_lastmod": "2026-06-26T21:16:10.003Z",
+      "new_lastmod": "2026-06-28T15:25:11.751Z"
+    },
+    {
+      "url": "https://openai.com/form/trademark-counterfeit-disputes/",
+      "old_lastmod": "2026-06-27T08:20:59.533Z",
+      "new_lastmod": "2026-06-29T07:40:30.441Z"
+    },
+    {
+      "url": "https://openai.com/index/boston-childrens-hospital/",
+      "old_lastmod": "2026-06-15T18:19:22.678Z",
+      "new_lastmod": "2026-06-29T05:16:06.153Z"
+    },
+    {
+      "url": "https://openai.com/index/codex-flexible-pricing-for-teams/",
+      "old_lastmod": "2026-06-26T14:46:14.119Z",
+      "new_lastmod": "2026-06-29T05:23:42.653Z"
+    },
+    {
+      "url": "https://openai.com/index/codex-now-generally-available/",
+      "old_lastmod": "2026-05-22T19:16:18.119Z",
+      "new_lastmod": "2026-06-29T05:06:46.222Z"
+    },
+    {
+      "url": "https://openai.com/index/gpt-5-1-codex-max/",
+      "old_lastmod": "2026-06-09T21:12:32.369Z",
+      "new_lastmod": "2026-06-29T05:06:22.136Z"
+    },
+    {
+      "url": "https://openai.com/index/gpt-5-immunology-mystery/",
+      "old_lastmod": "2026-06-26T16:07:28.238Z",
+      "new_lastmod": "2026-06-29T00:18:45.276Z"
+    },
+    {
+      "url": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai/",
+      "old_lastmod": "2026-06-26T20:31:34.073Z",
+      "new_lastmod": "2026-06-28T05:23:38.954Z"
+    },
+    {
+      "url": "https://openai.com/index/how-agents-are-transforming-work/",
+      "old_lastmod": "2026-06-27T08:21:18.515Z",
+      "new_lastmod": "2026-06-28T17:18:22.125Z"
+    },
+    {
+      "url": "https://openai.com/index/introducing-gpt-5-2-codex/",
+      "old_lastmod": "2026-06-04T21:05:42.250Z",
+      "new_lastmod": "2026-06-29T05:06:25.825Z"
+    },
+    {
+      "url": "https://openai.com/index/introducing-gpt-5-4/",
+      "old_lastmod": "2026-06-10T16:46:50.218Z",
+      "new_lastmod": "2026-06-29T01:15:43.129Z"
+    },
+    {
+      "url": "https://openai.com/index/introducing-upgrades-to-codex/",
+      "old_lastmod": "2026-06-04T20:50:31.278Z",
+      "new_lastmod": "2026-06-29T05:06:43.057Z"
+    },
+    {
+      "url": "https://openai.com/index/omio/",
+      "old_lastmod": "2026-06-26T20:11:52.750Z",
+      "new_lastmod": "2026-06-28T23:26:28.873Z"
+    },
+    {
+      "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip/",
+      "old_lastmod": "2026-06-27T05:39:24.590Z",
+      "new_lastmod": "2026-06-28T21:56:30.090Z"
+    },
+    {
+      "url": "https://openai.com/index/openai-campus-network-student-club-interest-form/",
+      "old_lastmod": "2026-06-26T21:20:59.513Z",
+      "new_lastmod": "2026-06-28T15:25:17.920Z"
+    },
+    {
+      "url": "https://openai.com/index/plex-coffee/",
+      "old_lastmod": "2026-06-26T11:17:37.273Z",
+      "new_lastmod": "2026-06-29T04:06:32.578Z"
+    },
+    {
+      "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
+      "old_lastmod": "2026-06-27T09:04:04.355Z",
+      "new_lastmod": "2026-06-29T08:19:03.718Z"
+    },
+    {
+      "url": "https://openai.com/index/wasmer/",
+      "old_lastmod": "2026-06-25T23:05:49.777Z",
+      "new_lastmod": "2026-06-29T05:24:15.338Z"
+    },
+    {
+      "url": "https://openai.com/policies/commerce-policies/",
+      "old_lastmod": "2026-06-25T22:42:25.783Z",
+      "new_lastmod": "2026-06-29T04:12:59.853Z"
+    },
+    {
+      "url": "https://openai.com/policies/privacy-policy/california-privacy-rights-reporting/",
+      "old_lastmod": "2026-05-22T19:18:38.313Z",
+      "new_lastmod": "2026-06-28T23:59:37.579Z"
+    },
+    {
+      "url": "https://openai.com/policies/professional-services-security-measures/",
+      "old_lastmod": "2026-06-26T22:44:05.392Z",
+      "new_lastmod": "2026-06-29T08:31:14.087Z"
+    },
+    {
+      "url": "https://openai.com/policies/uk-online-safety-act/",
+      "old_lastmod": "2026-06-27T09:14:07.226Z",
+      "new_lastmod": "2026-06-29T09:04:39.232Z"
+    },
+    {
+      "url": "https://openai.com/signals/",
+      "old_lastmod": "2026-06-27T09:12:18.285Z",
+      "new_lastmod": "2026-06-29T09:11:56.830Z"
+    },
+    {
+      "url": "https://openai.com/signals/research/",
+      "old_lastmod": "2026-06-27T09:12:18.447Z",
+      "new_lastmod": "2026-06-29T09:12:18.287Z"
+    }
+  ],
+  "anomalies": [],
+  "fetch_failures": []
+}
