@@ -98,6 +98,10 @@ Learn how AI is accelerating enterprise advantage through deeper integration, ag
 
 ## Recent news
 
+![Mapping Europe’s AI Workforce Opportunity > Art Card](https://images.ctfassets.net/kftzwdyauwt9/MukVp4OT0P3dokVsonNLh/1f4e4fa8e4de0d941573f906340d6e9b/mapping-europes-ai-workforce-opportunity-art-card.png?w=3840&q=90&fm=webp)
+
+[Mapping Europe’s AI Workforce Opportunity](<https://openai.com/index/mapping-ai-jobs-transition-eu>)
+
 ![Signals Homepage > Layout > Group > Recent news > Cards > How agents are transforming work > Media > Asset](https://images.ctfassets.net/kftzwdyauwt9/2MFPzkCGY6PPH4hmpY83TX/6fd0d2a67f303b49141abd175ca181b6/Art_Card__1_.png?w=3840&q=90&fm=webp)
 
 [How agents are transforming work](<https://openai.com/index/how-agents-are-transforming-work/>)
@@ -113,10 +117,6 @@ Learn how AI is accelerating enterprise advantage through deeper integration, ag
 ![Signals Homepage > Layout > Group > Recent news > Cards > Equipping workers with insights about compensation > Media > Asset](https://images.ctfassets.net/kftzwdyauwt9/2vK2fWMx2CL8D5CH8fOJPJ/27c19bbc4e180ae256852ca7d972284b/Equipping_workers_1x1.png?w=3840&q=90&fm=webp)
 
 [Equipping workers with insights about compensation](<https://openai.com/index/equipping-workers-with-insights-about-compensation/>)
-
-![Signals Homepage > Layout > Group > Recent news > Cards > New tools for understanding AI and learning outcomes > Media > Asset](https://images.ctfassets.net/kftzwdyauwt9/7oZEAMeUH1OOEBkABMc3MI/ca2e25176cb5ef434b04aee40e5caa08/OAI_New_tools_for_understanding_AIand_learning_outcomes_Art_Card_1x1.png?w=3840&q=90&fm=webp)
-
-[New tools for understanding AI and learning outcomes](<https://openai.com/index/understanding-ai-and-learning-outcomes/>)
 
 ### Reports
 

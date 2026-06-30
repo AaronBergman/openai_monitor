@@ -26,33 +26,33 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Published: January 7, 2026
+Updated: June 29, 2026
 
 # Health Privacy Notice
 
 We at OpenAI (together with our affiliates, “OpenAI”, “we”, “our” or “us”) respect your privacy and are strongly committed to keeping secure any information we obtain from you or about you. 
 
-This notice explains our information and privacy practices when you use the Health feature in ChatGPT (“Health”) and supplements the [_OpenAI Privacy Policy_ ⁠](<https://openai.com/policies/row-privacy-policy/>). Some of the information you provide to Health in ChatGPT may constitute “Consumer Health Data” as that term is defined under Washington state’s My Health My Data Act and Nevada’s Consumer Health Data Privacy law, and this notice provides certain information required under those laws. 
+This notice explains our information and privacy practices when you use ChatGPT Health and Connect Health offerings in ChatGPT (together, “Health Features”), and supplements the [_OpenAI Privacy Policy_ ⁠](<https://openai.com/policies/privacy-policy/>). 
 
-We designed Health to provide you a dedicated, secure space for health and wellness-related topics, powered by ChatGPT and any apps you choose to connect. We encourage you to use Health for any health-related queries. 
+Health Features are only available to certain users at this time. For data practices outside of the Health Features please see the [_OpenAI Privacy Policy_ ⁠](<https://openai.com/policies/privacy-policy/>). 
 
-## 1\. Personal Data collected in Health
+Some of the information you provide to ChatGPT via Health Features may constitute “Consumer Health Data” as that term is defined under Washington state’s My Health My Data Act and Nevada’s Consumer Health Data Privacy law, and this notice provides certain information required under those laws. 
 
-Just like our regular ChatGPT service, we will collect Content (as that term is defined in our [_Privacy Policy_ ⁠](<https://openai.com/policies/row-privacy-policy/>)) you provide to Health. This includes any prompts or content you upload, such as documents, files, or images you make available to Health. Examples of information you might choose to provide to Health include: 
+## 1\. Personal Data collected via Health Features
 
-  * Medical records, lab and test results, and prescription information from your medical providers that you choose to upload, or connect to Health through integrations we offer, including information about diagnoses, symptoms, and treatments.
-  * Measurements of vital signs and movements, such as heart rate, sleep data, estimated calories burned, steps taken, and workout details, if you choose to connect other devices and services to Health, such as Apple Health or Strava.
-  * Other information you choose to provide through prompts and other Content you provide to Health about your physical or mental health status, such as information about your health history, symptoms, and health care services you have sought or seek to learn about, and fitness and wellness goals. 
+If you choose to use Health Features to link your accounts with third-party medical providers to your ChatGPT account, you can import medical records, lab and test results, prescription information, and other related data from linked accounts.
 
+Health Features may also enable you to connect your Apple Health data, which may contain, for example, measurements of vital signs, such as heart rate, bodily functions, and other data related to your physical or mental health status.
 
+We also collect other information you choose to provide about your physical or mental health status in ChatGPT Health or in conversations with Health Connect enabled, such as information about your health history, symptoms, and health care services you have sought or seek to learn about. 
 
-## 2\. How Personal Data in Health is used 
+## 2\. How Personal Data from Health Features is used 
 
-We use the information provided in Health to provide that service to you, including to help you learn about wellness and health topics, prepare for visits with medical providers, and interpret fitness metrics and work toward fitness goals. Health includes its own Memory feature that allows us to remember certain details and preferences from your past Health conversations and any connected apps or services, and provide you with more tailored responses. 
+We use the information received via Health Features to provide our Services to you, including to respond to questions you ask ChatGPT about that data, such as to help you learn about health topics and prepare for visits with medical providers. 
 
-By default, we do not use data in Health content to improve our foundational models that power ChatGPT. A limited number of authorized OpenAI personnel and trusted service providers might access Health content to improve model safety, unless you have [_opted out_ ⁠(opens in a new window)](<https://help.openai.com/en/articles/5722486-how-your-data-is-used-to-improve-model-performance>) in ChatGPT. [_Learn more_ ⁠(opens in a new window)](<https://help.openai.com/en/articles/7039943-data-usage-for-consumer-services-faq>) about the choices you have and when OpenAI might access your content.
+By default, we do not use the following data to improve our foundational models that power ChatGPT: medical records and health data received from third-party accounts connected through Health Features, conversations in ChatGPT Health, and conversations when Health Connect is enabled. A limited number of authorized OpenAI personnel and trusted service providers might access data received via Health Features to improve model safety, unless you have [_opted out_ ⁠(opens in a new window)](<https://help.openai.com/articles/5722486-how-your-data-is-used-to-improve-model-performance>) in ChatGPT. [_Learn more_ ⁠(opens in a new window)](<https://help.openai.com/articles/7039943-data-usage-for-consumer-services-faq>) about the choices you have and when OpenAI might access your content. 
 
-We also use the information provided in Health:
+We also use the information provided via Health Features:
 
   * To communicate with you, such as to provide you customer support;
   * To prevent fraud, illegal activity, or misuses of our services, and to protect the security of our systems and services; and
@@ -60,34 +60,33 @@ We also use the information provided in Health:
 
 
 
-## 3\. Disclosures of Personal Data in connection with Health 
+## 3\. Disclosures of Personal Data 
 
 To assist us in meeting business operations needs and to perform certain services and functions, we may disclose information we collect to vendors and service providers (called “processors” under some privacy laws), such as providers of hosting services, customer service vendors, cloud services, and support and safety monitoring and improvement services. Pursuant to our instructions, these parties will access, process, or store Personal Data only in the course of performing their duties to us.
 
-You may use Health to interact with connected apps (**“Apps”**) we offer within Health. Apps let you work with external tools like fitness trackers so you can get more done in Health conversations; for example, when connected Health can search and reference information from Apps, or run research across multiple connected Apps. [_Learn more_ ⁠(opens in a new window)](<https://help.openai.com/en/articles/11487775-apps-in-chatgpt>) about how Apps work generally in our services, including what information is shared with Apps and how our services use Apps data. Make sure you understand the terms and policies of connected Apps before you share information with them by connecting Apps with Health. You can also connect Health with your electronic medical records using OpenAI’s third-party partner, b.well. When connected, ChatGPT may send b.well information from your ChatGPT prompts so that b.well can retrieve relevant information from your medical records. Learn more about how b.well uses your data in their [_Terms of Service_ ⁠(opens in a new window)](<https://www.icanbwell.com/legal/terms-of-service/>) and [_Privacy Policy_ ⁠(opens in a new window)](<https://www.icanbwell.com/legal/privacy-and-security-statement/>).
-
 As described in our [_Privacy Policy_ ⁠](<https://openai.com/policies/privacy-policy/>), we may also disclose Personal Data: in connection with a business transaction; if required to do so to comply with a legal obligation, or in the good faith belief that such action is necessary to comply with a legal obligation; to protect and defend our rights or property; if we determine, in our sole discretion, that there is a violation of our terms, policies, or the law; to detect or prevent fraud or other illegal activity; to protect the safety, security, and integrity of our products, employees, users, or the public; or to protect against legal liability.
 
-We do not sell Personal Data of our users, including any Personal Data collected through Health. 
+We do not sell Personal Data of our users, including any Personal Data collected via Health Features. 
 
-## 4\. Choices and controls 
+## 4\. Choices and Controls 
 
-We’ve designed Health to give you control over the information it handles.
+We’ve designed Health Features to keep you in control. Here’s more information about your choices: 
 
-  * **Apps**. You may be able to connect Health with a variety of third-party data sources and tools, such as electronic health records, medical providers, fitness trackers, and other third-party apps. You control which Apps are integrated to your account and you can remove or add new Apps at any time in your account settings by navigating to the “Apps” section. 
-  * **Memories**. Health can store memories and incorporate any memories you have saved in your main ChatGPT account, all based on your account settings under “Personalization” and your instructions in Health. Your main ChatGPT account will not access memories you create just within Health. You can search, delete, and manage your Health memories in Health under “View Health Memories”. See more [_here_ ⁠(opens in a new window)](<https://help.openai.com/en/articles/20001036>). 
-  * **Training**. By default, we do not use content in Health to improve our foundational models. [_Learn more_ ⁠(opens in a new window)](<https://help.openai.com/en/articles/7039943-data-usage-for-consumer-services-faq>) about when OpenAI might access your Health content and the controls you have.
-  * **Deletion**. You can delete or archive any chats within Health at any time. See more [_here_ ⁠(opens in a new window)](<https://help.openai.com/en/articles/20001036>).
+  * **Linked Accounts**. You may be able to use Health Features to connect with a variety of third-party data sources and tools, such as electronic health records, medical providers, and other third-party apps. You control which accounts and data are integrated to your account and you can remove or add new accounts at any time. See more [here⁠(opens in a new window)](<https://help.openai.com/articles/20001036-what-is-chatgpt-health>).
+  * **Memories**. 
+    *  _ChatGPT Health_ includes its own memory feature that allows us to remember certain details and preferences from your past conversations in ChatGPT Health and any connected apps or services, and provide you with more tailored responses. ChatGPT Health can store memories and incorporate any memories you have saved in your main ChatGPT account, all based on your account settings under “Personalization” and your instructions in ChatGPT Health. Your main ChatGPT account will not access memories you create just within ChatGPT Health. You can search, delete, and manage your ChatGPT Health memories under “View Health Memories”. See more [_here_ ⁠(opens in a new window)](<https://help.openai.com/articles/20001036>). 
+    *  _Connect Health_ conversations are subject to your main ChatGPT account memory settings, which you can [_adjust_ ⁠(opens in a new window)](<https://help.openai.com/articles/8590148-memory-faq#how-do-i-enable-or-disable-saved-memories>) at any time.
+  * **Deletion**. You can delete any conversations or memories, including within your main ChatGPT account or within ChatGPT Health, at any time. See more [_here_ ⁠(opens in a new window)](<https://help.openai.com/articles/20001036>).
 
 
 
 ## 5\. How to exercise your rights
 
-OpenAI offers choices, including options to export or delete your Personal Data, through our [_Privacy Portal_ ⁠(opens in a new window)](<https://privacy.openai.com/policies>). When you make a request in our Privacy Portal, this will encompass Personal Data collected through Health. You can also contact us at [_dsar@openai.com_ ⁠](<mailto:dsar@openai.com>)⁠.
+OpenAI offers choices, including options to export or delete your Personal Data, through our [_Privacy Portal_ ⁠(opens in a new window)](<https://privacy.openai.com/policies>). When you make a request in our Privacy Portal, this will include Personal Data collected through Health Features. You can also contact us at [_dsar@openai.com_ ⁠](<mailto:dsar@openai.com>)⁠.
 
 ## 6\. Updates to this notice 
 
-We may update this notice from time to time. When we do, we will publish an updated version and effective date on this page. If we make material changes, we may provide you with additional notice such as sending you an email or notification. 
+We may update this notice from time to time. When we do, we will publish an updated version and effective date on this page. If we make material changes, we may provide you with additional notice such as sending you an email or notification.
 
 Research
 

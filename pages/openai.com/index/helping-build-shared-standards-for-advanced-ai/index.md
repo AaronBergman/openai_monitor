@@ -68,6 +68,10 @@ OpenAI
 
 [View all](</news/>)
 
+![Mapping Europe’s AI Workforce Opportunity art card](https://images.ctfassets.net/kftzwdyauwt9/1GzG1SsRjcjUPXXHjqfTAX/a7244ab2bd596fd917e4a2abf7ee71a6/mapping-europes-ai-workforce-opportunity-art-card.png?w=3840&q=90&fm=webp)
+
+[Mapping Europe’s AI Workforce OpportunityGlobal AffairsJun 29, 2026](</index/mapping-ai-jobs-transition-eu/>)
+
 ![Supporting Europe’s work in ensuring a trustworthy AI ecosystem  > art card](https://images.ctfassets.net/kftzwdyauwt9/U3OuQtdga2BaxWxb0e2ge/2fdc2fb1cf5c70a8f77fc4b55236aa78/Frame2.png?w=3840&q=90&fm=webp)
 
 [Supporting Europe’s work in ensuring a trustworthy AI ecosystem Global AffairsJun 11, 2026](</index/supporting-eu-trustworthy-ai-ecosystem/>)
@@ -75,12 +79,6 @@ OpenAI
 ![PRC-linked influence > Art Card](https://images.ctfassets.net/kftzwdyauwt9/2WkDQ2w51892xwY7QHwkRC/ec5f7b504805e36db928c06cb313f53c/Threat-Intelligence-Repart-ArtCard.png?w=3840&q=90&fm=webp)
 
 [PRC-linked influence operations are targeting AI debates in the USGlobal AffairsJun 10, 2026](</index/prc-linked-influence-operations-ai-debates/>)
-
-![Frame](https://images.ctfassets.net/kftzwdyauwt9/5PD5E0PhvNP8ogbhvNxdKF/42a592f5b93580d940065610304c3f22/Frame.png?w=3840&q=90&fm=webp)
-
-Industrial policy for the Intelligence Age
-
-[Industrial policy for the Intelligence AgeGlobal AffairsJun 9, 2026](</index/industrial-policy-for-the-intelligence-age/>)
 
 Research
 

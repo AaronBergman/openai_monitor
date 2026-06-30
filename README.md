@@ -4,6 +4,41 @@ A daily log of every change to OpenAI's public website — what appeared, what d
 
 ---
 
+## 2026-06-30 — Run `2026-06-30T09-15Z`
+
+**Fetch time:** 2026-06-30T09:15:00Z  
+**Baseline:** 2026-06-29T09-15Z  
+**Stats:** 1382 total URLs | +1 added | 35 updated | 0 removed | 0 anomalies | 34 sub-sitemaps
+
+**TL;DR:** One new publication today: OpenAI Economic Research extended its AI Jobs Transition Framework to the European Union, mapping how AI may affect occupations across EU member states using ESCO taxonomy and Eurostat data. The most substantively changed page is the **Health Privacy Policy**, which was rewritten to cover a new feature called "Connect Health" — a mode that lets health data from connected apps and providers flow into regular ChatGPT conversations (not just the dedicated ChatGPT Health space). The pricing pages received their third consecutive day of intraday lastmod bumps with no visible content change, consistent with ongoing backend pricing-system updates since the June 24 price reduction. Eleven Codex Academy pages received another batch CMS touch (no content change), continuing a pattern from the previous two days. Several article pages had their "Keep reading" related-article carousels refreshed to surface the new EU Jobs report. No anomalies.
+
+### New Pages (1)
+
+**[Mapping Europe's AI Workforce Opportunity](pages/openai.com/index/mapping-ai-jobs-transition-eu/index.md)** (June 29, 2026 — Global Affairs / Economic Research)  
+OpenAI Economic Research published the EU extension of its AI Jobs Transition Framework (the U.S. version launched in April 2026). Using the ESCO occupational taxonomy and Eurostat employment data, the report maps AI's likely labor-market impact across EU member states. Key findings: ~12% of EU employment is in occupations that may *grow* with AI; ~14% faces *higher near-term automation potential*; ~27% is likely to *reorganize* (AI changes how work is done but humans remain central); ~47% sees *less immediate change*. Country-level variation is notable: Sweden/Netherlands/Luxembourg skew toward AI-growth occupations; Germany/Greece/Italy have larger shares in higher-automation-potential jobs. The full PDF is linked from the page. This is now the featured card on OpenAI's Signals economic-research hub.
+
+### Notable Updates
+
+**⭐ [Health Privacy Policy](pages/openai.com/policies/health-privacy-policy/index.md)** — Substantially rewritten (`2026-06-26` → `2026-06-29T21:00Z`). Prior policy covered only the dedicated "Health" chatspace. New version covers two distinct offerings: **ChatGPT Health** (existing dedicated space with isolated memory, Apple Health/EHR integrations) and **Connect Health** (new — enables health data from connected sources to be used in *regular* ChatGPT conversations; uses main-account memory settings rather than a separate health memory store). The policy also now specifies clearly which data buckets are excluded from foundational model training: medical records from linked third-party accounts, conversations in ChatGPT Health, and conversations when Connect Health is enabled. The `b.well` EHR partner is no longer mentioned by name. Policy link updated from the row-specific privacy policy to the global `privacy-policy` URL. This is the first public signal that "Connect Health" is a distinct, named feature.
+
+**[Signals landing page](pages/openai.com/signals/index.md)** — Featured article card updated: "Mapping Europe's AI Workforce Opportunity" replaced "New tools for understanding AI and learning outcomes."
+
+**Pricing pages (no content change)** — `/api/pricing/`, `/business/pricing/`, `/business/chatgpt-pricing/` received another batch lastmod update (~18:39 UTC June 29). Third consecutive day of intraday pricing-page touches. No visible content change; likely live pricing-system backend updates.
+
+**Codex product page** — `/codex/` touched again (`2026-06-29T23:56Z`), no visible content change.
+
+**11 Codex Academy pages** — Batch lastmod update (~22:55 UTC June 29), no content change. Same pattern as previous two days.
+
+**Form pages** — 6 forms received batch lastmod updates (~22:05 UTC June 29), no content changes: `100-chats-book-request`, `chatgpt-pro-community`, `rosalind-biodefense-program`, `life-sciences-access`, `openai-campus-leaders-interest-form`, `openai-campus-network-student-club-interest-form`.
+
+**[GPT-5.6 Sol preview page](pages/openai.com/index/previewing-gpt-5-6-sol/index.md)** — Fourth consecutive daily lastmod touch, no content change. Still being updated as the limited preview progresses.
+
+**Article related-card rotations (no content change):** Samsung/Codex deployment page now features HP partnership article; "ChatGPT Enterprise spend controls" page now surfaces GPT-5.6 Sol preview; "Helping build shared standards for advanced AI" now features EU Jobs mapping.
+
+Full analysis: [runs/2026-06-30T09-15Z/analysis.md](runs/2026-06-30T09-15Z/analysis.md)
+
+---
+
 ## 2026-06-29 — Run `2026-06-29T09-15Z`
 
 **Fetch time:** 2026-06-29T09:17:03Z  
