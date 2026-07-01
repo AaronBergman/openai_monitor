@@ -187,17 +187,17 @@ More than 1 million businesses around the world are achieving meaningful results
 
 ## Keep reading
 
-![HP early AI wins — card image](https://images.ctfassets.net/kftzwdyauwt9/6phCuFzVSdCdVCh6YqXMa6/a4207917b5d7a43179a61f5de012168d/HP-1_1.png?w=3840&q=90&fm=webp)
+![Signals june update > Cover image](https://images.ctfassets.net/kftzwdyauwt9/6w2E1Bzj1zUr2xmW1TBK3l/1b7e0977246ac85ae1db5fbcd6eb1549/Frame.png?w=3840&q=90&fm=webp)
 
-[How HP is scaling early AI wins across the enterpriseCompanyJun 28, 2026](</index/hp-frontier-partnership/>)
+[How ChatGPT adoption has expandedGlobal AffairsJun 30, 2026](</index/how-chatgpt-adoption-has-expanded/>)
 
-![Art Card 1x1](https://images.ctfassets.net/kftzwdyauwt9/687HyyF4C0A2OsktQGlTZJ/1ca5b061daa5e22fd338e9910292dac5/blog_1x1.png?w=3840&q=90&fm=webp)
+![Introducing GeneBench-Pro > Cover image](https://images.ctfassets.net/kftzwdyauwt9/7sbJaKBi5qLXAqbewh72aK/93197556e903eac9df6f077eb12b7581/GenebenchPro_Blog_ArtCard.png?w=3840&q=90&fm=webp)
 
-[Previewing GPT-5.6 Sol: a next-generation modelProductJun 26, 2026](</index/previewing-gpt-5-6-sol/>)
+[Introducing GeneBench-ProResearchJun 30, 2026](</index/introducing-genebench-pro/>)
 
-![How agents are transforming work > Cover image](https://images.ctfassets.net/kftzwdyauwt9/7hmtkjKv0DxS4Yt8mQZju2/c168bfa2010da64bcc9dd60d6b5491e8/Art_Card__1_.png?w=3840&q=90&fm=webp)
+![Rockset > Art Card](https://images.ctfassets.net/kftzwdyauwt9/7qv6OiVDfumZUnibH5VTOU/d2d818ac6de1f7cb93dce7a343e456dc/Rockset-Art-Card.png?w=3840&q=90&fm=webp)
 
-[How agents are transforming workCompanyJun 25, 2026](</index/how-agents-are-transforming-work/>)
+[Core dump epidemiology: fixing an 18-year-old bugEngineeringJun 30, 2026](</index/core-dump-epidemiology-data-infrastructure-bug/>)
 
 Research
 
