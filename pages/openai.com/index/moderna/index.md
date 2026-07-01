@@ -60,10 +60,6 @@ Individual change management initiatives included in-depth research and listenin
 
 This work led to an early win with the launch of an internal AI chatbot tool, mChat, at the beginning of 2023. Built on OpenAI’s API, mChat was a success, adopted by more than 80% of employees across the company, building a solid foundation for the adoption of ChatGPT Enterprise. 
 
-> “90% of companies want to do GenAI, but only 10% of them are successful, and the reason they fail is because they haven’t built the mechanisms of actually transforming the workforce to adopt new technology and new capabilities.”
-
-Brad Miller, Chief Information Officer of Moderna
-
 ## Building momentum with ChatGPT Enterprise
 
 With the launch of ChatGPT Enterprise, Moderna had a decision to make: continue developing mChat as an all-purpose AI tool, or give employees access to ChatGPT Enterprise?“
@@ -182,6 +178,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 

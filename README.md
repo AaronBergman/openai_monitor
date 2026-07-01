@@ -4,6 +4,44 @@ A daily log of every change to OpenAI's public website — what appeared, what d
 
 ---
 
+## 2026-07-01 — Run `2026-07-01T09-15Z`
+
+**Fetch time:** 2026-07-01T09:16:32Z
+**Baseline:** 2026-06-29T09-15Z
+**Stats:** 1386 total URLs | +5 added | 42 updated | 0 removed | 0 anomalies | 34 sub-sitemaps
+
+**TL;DR:** A quiet, clean run: five new pages and no anomalies. The most interesting new page is an unusually candid engineering postmortem about a months-long crash hunt in OpenAI's internal search infrastructure, which turned out to be two unrelated bugs (bad server hardware plus an 18-year-old bug in a widely-used open-source library). OpenAI also introduced GeneBench-Pro, a tougher new benchmark for AI-driven computational biology research, plus two "Signals" data reports — one on how ChatGPT usage deepens over time and globalizes, another extending OpenAI's US "AI jobs transition" economic framework to the EU labor market. The Health Privacy Notice got a real rewrite (not just a timestamp bump), reflecting the recent "ChatGPT Health" product launch. **Also this run: we found and fixed a bug in our own monitoring tooling** — see the correction note below, which means some "sitemap taxonomy reorganization" anomalies logged in past entries (like June 27's "114 migrations") were likely false alarms, not real OpenAI-side changes.
+
+### Correction: past "sub-sitemap migration" anomalies were likely a tooling artifact, not real site changes
+
+We discovered that OpenAI's sitemap deliberately lists many URLs in **more than one** sub-sitemap at once (e.g., a single release announcement can legitimately appear in both the "product" and "release" sitemaps simultaneously — we verified 206 URLs currently belong to 2+ sub-sitemaps at once). Our previous diffing logic only remembered one sub-sitemap per URL, so when a multi-listed URL happened to be read in a different file order between two snapshots, it looked like the page had "migrated" categories — even though nothing on OpenAI's site had changed. This is the most likely explanation for the large migration counts reported on 2026-06-27 (114) and similar entries. We've rewritten the diff logic to track full set-membership per URL; under the fix, **today's genuine migration count is 0.** We're leaving prior log entries as written (this log is append-only) but flagging the caveat here for anyone reading the history.
+
+### New Pages (5)
+
+**⭐ [Core dump epidemiology: fixing an 18-year-old bug](pages/openai.com/index/core-dump-epidemiology-data-infrastructure-bug/index.md)** (June 30, 2026)
+An unusually detailed engineering postmortem. OpenAI's internal search/data system (Rockset, acquired 2024) was crashing mysteriously. Debugging one crash at a time went nowhere; the fix came from switching to a population-level analysis — having ChatGPT write a pipeline to bulk-process a year of crash reports — which revealed **two unrelated bugs hiding as one**: silent memory corruption on a single bad Azure server, and an 18-year-old race condition in GNU libunwind, a widely-used open-source library. A rare, technical look at OpenAI's own internal engineering culture and AI-assisted debugging.
+
+**[Introducing GeneBench-Pro](pages/openai.com/index/introducing-genebench-pro/index.md)** (June 30, 2026) + **[case studies](pages/openai.com/index/genebench-pro/case-studies/index.md)**
+A new, harder AI benchmark for computational biology: 129 questions across genomics, quantitative biology, and translational medicine. Designed to test "research taste" — judgment calls like picking the right analysis path or knowing when a result is decision-ready on messy real-world data — rather than just running a fixed procedure.
+
+**[How ChatGPT adoption has expanded](pages/openai.com/index/how-chatgpt-adoption-has-expanded/index.md)** (June 30, 2026)
+New usage-data report from OpenAI Signals: six months after signing up, users send 50% more messages per day and have tried 2x as many distinct capabilities. Growth has been fastest, in relative terms, in Africa and Asia and in lower-income countries — which OpenAI attributes partly to its free/low-cost tiers.
+
+**[Mapping Europe's AI Workforce Opportunity](pages/openai.com/index/mapping-ai-jobs-transition-eu/index.md)** (June 29, 2026)
+Extends OpenAI's US "AI Jobs Transition Framework" to the EU. Buckets EU employment into four categories: ~12% may grow with AI, ~14% at higher automation potential, ~27% likely to reorganize, ~47% with less immediate change — with the EU skewing less automation-exposed than the US overall.
+
+### Notable Updates (2 of 42)
+
+**[Health Privacy Notice](pages/openai.com/policies/health-privacy-policy/index.md)** — A genuine rewrite, not a timestamp touch (previous "Published: January 7, 2026" header now reads "Updated: June 29, 2026"). The single "Health" feature is split into two named products, **ChatGPT Health** and **Connect Health**, with expanded rules on memory handling and third-party medical-record linking. This is the privacy/legal paperwork catching up to the recently-launched ChatGPT Health product.
+
+**[Moderna customer story](pages/openai.com/index/moderna/index.md)** — A pull-quote from Moderna's CIO was quietly removed from the body copy (cause unknown); the site-wide footer nav also gained "Customer Stories" and "Partner Network" links under the Business section.
+
+The other 40 updated pages were routine: either "Keep reading" recirculation widgets refreshing to link the day's new articles (no body content changed), or pure CMS/CDN timestamp bumps with byte-identical markdown (9 Codex Academy pages, several pricing/business pages, several policy pages, several older `/index/` articles).
+
+Full analysis: [runs/2026-07-01T09-15Z/analysis.md](runs/2026-07-01T09-15Z/analysis.md)
+
+---
+
 ## 2026-06-29 — Run `2026-06-29T09-15Z`
 
 **Fetch time:** 2026-06-29T09:17:03Z  
