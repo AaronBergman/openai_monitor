@@ -1,0 +1,76 @@
+{
+  "run_id": "2026-07-02T09-15Z",
+  "fetch_time": "2026-07-02T09:17:52Z",
+  "baseline": "2026-07-01T09-15Z",
+  "added": [],
+  "removed": [],
+  "updated": [
+    {
+      "url": "https://openai.com/form/trademark-counterfeit-disputes/",
+      "old_lastmod": "2026-06-29T13:02:33.689Z",
+      "new_lastmod": "2026-07-01T19:55:27.720Z"
+    },
+    {
+      "url": "https://openai.com/index/how-agents-are-transforming-work/",
+      "old_lastmod": "2026-07-01T04:50:26.019Z",
+      "new_lastmod": "2026-07-01T22:45:29.203Z"
+    },
+    {
+      "url": "https://openai.com/index/hp-frontier-partnership/",
+      "old_lastmod": "2026-07-01T04:57:26.860Z",
+      "new_lastmod": "2026-07-01T23:23:03.958Z"
+    },
+    {
+      "url": "https://openai.com/codex/",
+      "old_lastmod": "2026-07-01T09:13:47.843Z",
+      "new_lastmod": "2026-07-01T23:33:31.105Z"
+    },
+    {
+      "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded/",
+      "old_lastmod": "2026-06-30T16:01:46.039Z",
+      "new_lastmod": "2026-07-01T18:21:26.437Z"
+    },
+    {
+      "url": "https://openai.com/index/gpt-5-immunology-mystery/",
+      "old_lastmod": "2026-07-01T09:06:46.327Z",
+      "new_lastmod": "2026-07-01T09:42:26.800Z"
+    },
+    {
+      "url": "https://openai.com/business-data/",
+      "old_lastmod": "2026-07-01T08:53:41.182Z",
+      "new_lastmod": "2026-07-01T23:03:47.737Z"
+    },
+    {
+      "url": "https://openai.com/index/genebench-pro/case-studies/",
+      "old_lastmod": "2026-07-01T09:16:08.687Z",
+      "new_lastmod": "2026-07-02T09:08:14.743Z"
+    },
+    {
+      "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
+      "old_lastmod": "2026-06-30T18:42:04.752Z",
+      "new_lastmod": "2026-07-01T23:15:29.963Z"
+    },
+    {
+      "url": "https://openai.com/index/introducing-genebench-pro/",
+      "old_lastmod": "2026-07-01T09:16:07.119Z",
+      "new_lastmod": "2026-07-02T09:08:27.145Z"
+    },
+    {
+      "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug/",
+      "old_lastmod": "2026-07-01T08:16:04.311Z",
+      "new_lastmod": "2026-07-02T08:57:34.367Z"
+    },
+    {
+      "url": "https://openai.com/policies/professional-services-security-measures/",
+      "old_lastmod": "2026-06-30T16:29:32.406Z",
+      "new_lastmod": "2026-07-01T18:51:37.891Z"
+    },
+    {
+      "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip/",
+      "old_lastmod": "2026-07-01T08:21:03.908Z",
+      "new_lastmod": "2026-07-02T06:28:47.433Z"
+    }
+  ],
+  "anomalies": [],
+  "fetch_failures": []
+}
