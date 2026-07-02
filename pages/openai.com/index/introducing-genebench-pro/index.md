@@ -34,7 +34,7 @@ June 30, 2026
 
 A research-level benchmark measuring how AI agents navigate ambiguity and make consequential judgments in computational biology.
 
-[Read the paper(opens in a new window)](<https://cdn.openai.com/pdf/21938268-21af-442f-af93-3b2249afb241/genebench-pro.pdf>)
+[Read the paper(opens in a new window)](<https://www.biorxiv.org/content/10.64898/2026.06.29.735386v2>)
 
 Loading…
 

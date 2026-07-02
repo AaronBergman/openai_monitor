@@ -4,6 +4,27 @@ A daily log of every change to OpenAI's public website — what appeared, what d
 
 ---
 
+## 2026-07-02 — Run `2026-07-02T09-15Z`
+
+**Fetch time:** 2026-07-02T09:17:52Z
+**Baseline:** 2026-07-01T09-15Z
+**Stats:** 1386 total URLs | +0 added | 13 updated | 0 removed | 0 anomalies | 34 sub-sitemaps
+
+**TL;DR:** The quietest run so far: zero pages added or removed, no anomalies, and of the 13 pages whose sitemap timestamp changed, 12 are byte-for-byte identical to yesterday's snapshot (routine CMS "related articles" sidebar touches). The lone real edit was cosmetic — the GeneBench-Pro announcement swapped its "Read the paper" link from an internal PDF to the paper's now-live bioRxiv preprint page, matching how the original GeneBench v1 paper is already cited on the same page.
+
+### No anomalies, no new or removed pages
+
+Full URL universe held steady at exactly 1386 for the second run in a row.
+
+### Routine Updates (13 lastmod bumps, 1 with visible content change)
+
+`/index/gpt-5-immunology-mystery/`, `/index/how-chatgpt-adoption-has-expanded/`, `/policies/professional-services-security-measures/`, `/form/trademark-counterfeit-disputes/`, `/index/how-agents-are-transforming-work/`, `/business-data/`, `/index/previewing-gpt-5-6-sol/`, `/index/hp-frontier-partnership/`, `/codex/`, `/index/openai-broadcom-jalapeno-inference-chip/`, `/index/core-dump-epidemiology-data-infrastructure-bug/`, and `/index/genebench-pro/case-studies/` all got fresh `<lastmod>` timestamps but no detectable change to page content — consistent with the sidebar/"Keep Reading" refresh pattern seen in prior runs.
+
+**[Introducing GeneBench-Pro](pages/openai.com/index/introducing-genebench-pro/index.md)** — the "Read the paper" link now points to `biorxiv.org/content/10.64898/2026.06.29.735386v2` instead of a `cdn.openai.com` PDF. Not a substantive change to the announcement; the paper has simply gone live on bioRxiv and OpenAI updated the citation to match.
+
+---
+*Stats: 1,386 total URLs | +0 added | 13 updated (1 with visible content change) | -0 removed | 0 anomalies | 34 sub-sitemaps*
+
 ## 2026-07-01 — Run `2026-07-01T09-15Z`
 
 **Fetch time:** 2026-07-01T09:16:32Z
