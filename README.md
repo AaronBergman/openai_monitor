@@ -4,6 +4,33 @@ A daily log of every change to OpenAI's public website — what appeared, what d
 
 ---
 
+## 2026-07-03 — Run `2026-07-03T09-16Z`
+
+**Fetch time:** 2026-07-03T09:16:00Z
+**Baseline:** 2026-07-02T09-15Z
+**Stats:** 1386 total URLs | +0 added | 6 updated | 0 removed | 0 anomalies | 34 sub-sitemaps
+
+**TL;DR:** The quietest run yet: no pages added or removed, no anomalies, and of the 6 pages with fresh sitemap timestamps, only two had any detectable content change — and both were minor. The engineering postmortem "Core dump epidemiology" got a genuine one-word copy-edit fixing a typo ("Fermat estimation" → "Fermi estimation"), and the Omio customer story's "Keep reading" sidebar rotated to spotlight the GeneBench-Pro articles. The other four updates were pure CMS timestamp bumps with byte-identical content.
+
+### No anomalies, no new or removed pages
+
+Total URL universe held steady at exactly 1386 for the third run in a row.
+
+### Notable Updates (2 of 6)
+
+**[Core dump epidemiology: fixing an 18-year-old bug](pages/openai.com/index/core-dump-epidemiology-data-infrastructure-bug/index.md)** — A genuine correction, not a timestamp touch: the postmortem's back-of-envelope probability estimate now correctly reads "we turned to **Fermi** estimation" (order-of-magnitude reasoning, named for physicist Enrico Fermi) instead of the original "Fermat estimation" — a typo that didn't fit the technique being described (Fermat's Last Theorem has nothing to do with race-condition probability estimates). Fixed three days after publication.
+
+**[Omio customer story](pages/openai.com/index/omio/index.md)** — The "Keep reading" recirculation panel rotated to surface "Inside Genebench-Pro" and "Introducing GeneBench-Pro" more prominently, dropping the older Rockset case-study link. Body copy of the Omio story itself is unchanged — same template-level cross-link refresh pattern seen in prior runs.
+
+### Routine Updates (4 pages, byte-identical content)
+
+`/business-data/`, `/business/`, `/index/genebench-pro/case-studies/`, and `/index/introducing-genebench-pro/` all got fresh `<lastmod>` timestamps but no detectable change to page content.
+
+Full analysis: [runs/2026-07-03T09-16Z/analysis.md](runs/2026-07-03T09-16Z/analysis.md)
+
+---
+*Stats: 1,386 total URLs | +0 added | 6 updated (2 with visible content change) | -0 removed | 0 anomalies | 34 sub-sitemaps*
+
 ## 2026-07-02 — Run `2026-07-02T09-15Z`
 
 **Fetch time:** 2026-07-02T09:17:52Z

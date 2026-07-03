@@ -191,13 +191,13 @@ More than 1 million businesses around the world are achieving meaningful results
 
 [How ChatGPT adoption has expandedGlobal AffairsJun 30, 2026](</index/how-chatgpt-adoption-has-expanded/>)
 
+![Inside Genebench-Pro > Cover image](https://images.ctfassets.net/kftzwdyauwt9/2qxhih5kwBs1TtdsZJjv6H/e27d81be57f4c8e602243df8f34b2bd6/GenebenchPro_LP_ArtCard.png?w=3840&q=90&fm=webp)
+
+[Inside Genebench-ProJun 30, 2026](</index/genebench-pro/case-studies/>)
+
 ![Introducing GeneBench-Pro > Cover image](https://images.ctfassets.net/kftzwdyauwt9/7sbJaKBi5qLXAqbewh72aK/93197556e903eac9df6f077eb12b7581/GenebenchPro_Blog_ArtCard.png?w=3840&q=90&fm=webp)
 
 [Introducing GeneBench-ProResearchJun 30, 2026](</index/introducing-genebench-pro/>)
-
-![Rockset > Art Card](https://images.ctfassets.net/kftzwdyauwt9/7qv6OiVDfumZUnibH5VTOU/d2d818ac6de1f7cb93dce7a343e456dc/Rockset-Art-Card.png?w=3840&q=90&fm=webp)
-
-[Core dump epidemiology: fixing an 18-year-old bugEngineeringJun 30, 2026](</index/core-dump-epidemiology-data-infrastructure-bug/>)
 
 Research
 

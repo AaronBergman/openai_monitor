@@ -287,7 +287,7 @@ In this case the vulnerable window is literally one instruction wide! A signal m
 
 When we found this race, our first reaction was that it must be too rare to explain the observed crash rate. We were seeing more than a dozen return-to-null crashes per day across the fleet. Could a one-instruction race during exception cleanup really account for that?
 
-We turned to Fermat estimation. If the vulnerable window is on the order of 10−1010^{-10}10−10 seconds and SIGUSR2 arrives every 10−210^{-2}10−2 seconds of CPU time, then each exception cleanup handler or catch block has a roughly 10−810^{-8}10−8 probability of losing the race.
+We turned to Fermi estimation. If the vulnerable window is on the order of 10−1010^{-10}10−10 seconds and SIGUSR2 arrives every 10−210^{-2}10−2 seconds of CPU time, then each exception cleanup handler or catch block has a roughly 10−810^{-8}10−8 probability of losing the race.
 
 Rockset uses exceptions as part of its internal ingest backpressure mechanism. A single overloaded host can throw on the order of 10410^{4}104 exceptions per second. That implies the mean time between failures of a host using backpressure is 10410^{4}104 seconds, or one crash every few hours. At fleet scale, that is more than enough to explain the observed crash frequency.
 

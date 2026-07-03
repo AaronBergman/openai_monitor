@@ -1,0 +1,49 @@
+{
+  "run_id": "2026-07-03T09-16Z",
+  "fetch_time": "2026-07-03T09:16:00Z",
+  "baseline": "2026-07-02T09-15Z",
+  "added": [],
+  "removed": [],
+  "updated": [
+    {
+      "url": "https://openai.com/business-data/",
+      "old_lastmod": "2026-07-01T23:03:47.737Z",
+      "new_lastmod": "2026-07-02T18:42:56.136Z",
+      "content_change": false
+    },
+    {
+      "url": "https://openai.com/business/",
+      "old_lastmod": "2026-06-30T23:30:35.032Z",
+      "new_lastmod": "2026-07-03T09:12:14.036Z",
+      "content_change": false
+    },
+    {
+      "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug/",
+      "old_lastmod": "2026-07-02T08:57:34.367Z",
+      "new_lastmod": "2026-07-03T02:39:36.084Z",
+      "content_change": true,
+      "content_change_summary": "Typo fix: 'Fermat estimation' corrected to 'Fermi estimation'."
+    },
+    {
+      "url": "https://openai.com/index/genebench-pro/case-studies/",
+      "old_lastmod": "2026-07-02T09:08:14.743Z",
+      "new_lastmod": "2026-07-02T22:57:25.390Z",
+      "content_change": false
+    },
+    {
+      "url": "https://openai.com/index/introducing-genebench-pro/",
+      "old_lastmod": "2026-07-02T09:08:27.145Z",
+      "new_lastmod": "2026-07-03T08:47:32.942Z",
+      "content_change": false
+    },
+    {
+      "url": "https://openai.com/index/omio/",
+      "old_lastmod": "2026-06-30T21:24:55.915Z",
+      "new_lastmod": "2026-07-02T10:26:26.295Z",
+      "content_change": true,
+      "content_change_summary": "'Keep reading' recirculation panel rotated to surface GeneBench-Pro articles; body copy unchanged."
+    }
+  ],
+  "anomalies": [],
+  "fetch_failures": []
+}
