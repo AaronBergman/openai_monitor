@@ -1,0 +1,19 @@
+{
+  "run_id": "2026-07-05T09-15Z",
+  "fetch_time": "2026-07-05T09:16:55Z",
+  "baseline": "2026-07-04T09-15Z",
+  "added": [],
+  "removed": [],
+  "updated": [
+    {"url": "https://openai.com/business/solutions/data/", "old_lastmod": "2026-07-01T08:12:07.370Z", "new_lastmod": "2026-07-04T11:47:53.880Z"},
+    {"url": "https://openai.com/business/solutions/design/", "old_lastmod": "2026-06-26T12:18:30.550Z", "new_lastmod": "2026-07-04T11:46:42.791Z"},
+    {"url": "https://openai.com/business/solutions/engineering/", "old_lastmod": "2026-06-26T21:24:39.517Z", "new_lastmod": "2026-07-04T11:47:15.695Z"},
+    {"url": "https://openai.com/business/solutions/finance/", "old_lastmod": "2026-06-26T12:18:27.829Z", "new_lastmod": "2026-07-04T11:48:21.205Z"},
+    {"url": "https://openai.com/business/solutions/marketing/", "old_lastmod": "2026-06-29T05:15:29.461Z", "new_lastmod": "2026-07-04T11:48:41.341Z"},
+    {"url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug/", "old_lastmod": "2026-07-04T04:10:44.389Z", "new_lastmod": "2026-07-05T09:09:26.257Z"},
+    {"url": "https://openai.com/index/mapping-ai-jobs-transition-eu/", "old_lastmod": "2026-07-04T06:22:39.878Z", "new_lastmod": "2026-07-05T04:25:10.191Z"},
+    {"url": "https://openai.com/solutions/", "old_lastmod": "2026-07-04T08:30:24.381Z", "new_lastmod": "2026-07-05T03:55:29.473Z"}
+  ],
+  "anomalies": [],
+  "fetch_failures": []
+}
