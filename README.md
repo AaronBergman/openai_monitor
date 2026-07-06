@@ -4,6 +4,33 @@ A daily log of every change to OpenAI's public website — what appeared, what d
 
 ---
 
+## 2026-07-06 — Run `2026-07-06T09-15Z`
+
+**Fetch time:** 2026-07-06T09:16:18Z
+**Baseline:** 2026-07-05T09-15Z
+**Stats:** 1386 total URLs | +0 added | 6 updated | 0 removed | 0 anomalies | 34 sub-sitemaps
+
+**TL;DR:** Another quiet day: no pages added or removed, no anomalies. Of the 6 pages with fresh sitemap timestamps, half are byte-for-byte identical to yesterday's snapshot (pure CMS republish noise), and the other three had only cosmetic changes — two picked up the now-familiar "Customer Stories"/"Partner Network" nav links, and one saw its "related articles" widget swap in a newer recommendation. No new claims, products, or announcements today.
+
+### No anomalies, no new or removed pages
+
+Total URL universe held steady at exactly 1386 for the sixth run in a row.
+
+### Notable Updates (3 of 6)
+
+**[Korea privacy policy](pages/openai.com/policies/kr-privacy-policy/index.md)** and **[Economic Research Exchange form](pages/openai.com/form/economic-research-exchange/index.md)** — both gained the "Customer Stories" and "Partner Network" nav links already rolled out to most of the site. No change to the policy or form content itself.
+
+**[Deployment simulation report](pages/openai.com/index/deployment-simulation/index.md)** — the "related articles" widget swapped "Dreaming: Better memory for a more helpful ChatGPT" for the newer "Introducing GeneBench-Pro" (published Jun 30). Both articles already existed in the sitemap; this is just the recommendation carousel refreshing, not a new publication.
+
+### Routine Updates (3 pages, byte-identical content)
+
+`/index/mapping-ai-jobs-transition-eu/`, `/solutions/`, and `/policies/usage-policies/` all got fresh `<lastmod>` timestamps but no detectable change to page content.
+
+Full analysis: [runs/2026-07-06T09-15Z/analysis.md](runs/2026-07-06T09-15Z/analysis.md)
+
+---
+*Stats: 1,386 total URLs | +0 added | 6 updated (3 with visible content change) | -0 removed | 0 anomalies | 34 sub-sitemaps*
+
 ## 2026-07-05 — Run `2026-07-05T09-15Z`
 
 **Fetch time:** 2026-07-05T09:16:55Z
