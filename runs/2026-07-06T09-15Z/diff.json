@@ -1,0 +1,41 @@
+{
+  "run_id": "2026-07-06T09-15Z",
+  "fetch_time": "2026-07-06T09:16:18.529618+00:00",
+  "baseline": "2026-07-05T09-15Z",
+  "added": [],
+  "removed": [],
+  "updated": [
+    {
+      "url": "https://openai.com/policies/kr-privacy-policy/",
+      "old_lastmod": "2026-06-17T14:50:32.519Z",
+      "new_lastmod": "2026-07-06T02:24:27.856Z"
+    },
+    {
+      "url": "https://openai.com/index/mapping-ai-jobs-transition-eu/",
+      "old_lastmod": "2026-07-05T04:25:10.191Z",
+      "new_lastmod": "2026-07-06T08:12:12.266Z"
+    },
+    {
+      "url": "https://openai.com/solutions/",
+      "old_lastmod": "2026-07-05T03:55:29.473Z",
+      "new_lastmod": "2026-07-06T08:20:24.922Z"
+    },
+    {
+      "url": "https://openai.com/index/deployment-simulation/",
+      "old_lastmod": "2026-06-25T15:33:31.672Z",
+      "new_lastmod": "2026-07-06T01:55:00.815Z"
+    },
+    {
+      "url": "https://openai.com/form/economic-research-exchange/",
+      "old_lastmod": "2026-06-15T00:00:35.740Z",
+      "new_lastmod": "2026-07-06T08:25:03.166Z"
+    },
+    {
+      "url": "https://openai.com/policies/usage-policies/",
+      "old_lastmod": "2026-06-24T19:03:26.540Z",
+      "new_lastmod": "2026-07-06T08:27:38.457Z"
+    }
+  ],
+  "anomalies": [],
+  "fetch_failures": []
+}
