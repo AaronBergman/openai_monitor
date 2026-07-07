@@ -53,6 +53,10 @@ Switch cards to show Media
 
 Switch cards to hide Media
 
+![Rockset > Art Card](https://images.ctfassets.net/kftzwdyauwt9/7qv6OiVDfumZUnibH5VTOU/d2d818ac6de1f7cb93dce7a343e456dc/Rockset-Art-Card.png?w=3840&q=90&fm=webp)
+
+[Core dump epidemiology: fixing an 18-year-old bugEngineeringJun 30, 2026](</index/core-dump-epidemiology-data-infrastructure-bug/>)
+
 ![Tax Agent > Art Card](https://images.ctfassets.net/kftzwdyauwt9/6ojJ6B55QUlmNdaLifgMkQ/22e429ec7b3fdd119a2499358af899b7/Art_Card.png?w=3840&q=90&fm=webp)
 
 [Building self-improving tax agents with CodexEngineeringMay 27, 2026](</index/building-self-improving-tax-agents-with-codex/>)
@@ -84,10 +88,6 @@ Switch cards to hide Media
 ![fin eng \(credits\) > card image](https://images.ctfassets.net/kftzwdyauwt9/7KaQ6wtBIG57umRltvuiea/f9530c5e10c107eaeee7d5bdb9f05b7a/FinEng_ArtCard.png?w=3840&q=90&fm=webp)
 
 [Beyond rate limits: scaling access to Codex and SoraEngineeringFeb 13, 2026](</index/beyond-rate-limits/>)
-
-![harness eng > card image](https://images.ctfassets.net/kftzwdyauwt9/5wcANSDd5Wq7L5uIzfid9y/da5305f3b3c49f16554bf289b3cafbfc/Art_Card.png?w=3840&q=90&fm=webp)
-
-[Harness engineering: leveraging Codex in an agent-first worldEngineeringFeb 11, 2026](</index/harness-engineering/>)
 
 Load more
 
@@ -140,6 +140,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 

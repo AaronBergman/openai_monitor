@@ -37,32 +37,54 @@ The National Institute of Standards and Technology (NIST) request for informatio
 Evaluating dangerous capabilities in AI systems
 
   * Evaluating dangerous capabilities in AI systems
+
   * Red teaming to enable deployment of safe AI systems
+
   * What is red teaming?
+
   * What is red teaming useful for?
+
   * Iterative red teaming at OpenAI
+
   * Limitations of red teaming
+
   * Composition of red teams and domain prioritization
+
   * Synthetic Media and Provenance
+
   * OpenAI’s approaches to provenance
+
   * C2PA metadata for DALL·E 3 images
+
   * Experimental classifier for DALL·E 3 images
+
 
 
 
 Table of contents
 
   * Evaluating dangerous capabilities in AI systems
+
   * Red teaming to enable deployment of safe AI systems
+
   * What is red teaming?
+
   * What is red teaming useful for?
+
   * Iterative red teaming at OpenAI
+
   * Limitations of red teaming
+
   * Composition of red teams and domain prioritization
+
   * Synthetic Media and Provenance
+
   * OpenAI’s approaches to provenance
+
   * C2PA metadata for DALL·E 3 images
+
   * Experimental classifier for DALL·E 3 images
+
 
 
 
@@ -278,6 +300,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 

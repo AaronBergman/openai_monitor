@@ -41,28 +41,46 @@ Share
 Preparedness Framework
 
   * Preparedness Framework
+
   * Priority research and investment on societal, safety, and security risks
+
   * Model evaluations and red teaming
+
   * Model reporting and information sharing
+
   * Reporting structure for vulnerabilities found after model release
+
   * Post-deployment monitoring for patterns of misuse
+
   * Security controls including securing model weights
+
   * Identifiers of AI-generated material
+
   * Data Input Controls and Audit
+
 
 
 
 Table of contents
 
   * Preparedness Framework
+
   * Priority research and investment on societal, safety, and security risks
+
   * Model evaluations and red teaming
+
   * Model reporting and information sharing
+
   * Reporting structure for vulnerabilities found after model release
+
   * Post-deployment monitoring for patterns of misuse
+
   * Security controls including securing model weights
+
   * Identifiers of AI-generated material
+
   * Data Input Controls and Audit
+
 
 
 
@@ -195,6 +213,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 

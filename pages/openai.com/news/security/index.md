@@ -51,6 +51,14 @@ Switch cards to show Media
 
 Switch cards to hide Media
 
+![Expanding Daybreak Art Card](https://images.ctfassets.net/kftzwdyauwt9/735NOZviyogUBIFxd2EmWX/fa8baf9fc26e64f442ffa86d5fd9a41e/Art_Card__6_.png?w=3840&q=90&fm=webp)
+
+[Daybreak: Tools for securing every organization in the worldSecurityJun 22, 2026](</index/daybreak-securing-the-world/>)
+
+![Patch the Planet Art Card 1x1](https://images.ctfassets.net/kftzwdyauwt9/2PwBCyZF0Z5WLRtsbOpDdQ/338e19fbc39e5b9a63b1db664c006e74/Art_Card__5_.png?w=3840&q=90&fm=webp)
+
+[Patch the Planet: a Daybreak initiative to support open source maintainersSecurityJun 22, 2026](</index/patch-the-planet/>)
+
 ![codex windows > art card](https://images.ctfassets.net/kftzwdyauwt9/6ZvTl8ZL23BOhoI6jz0EmR/49d6038b9f92773d4f866f4bfacabdbf/Art_Card__5_.png?w=3840&q=90&fm=webp)
 
 [Building a safe, effective sandbox to enable Codex on WindowsEngineeringMay 13, 2026](</index/building-codex-windows-sandbox/>)
@@ -67,7 +75,7 @@ Switch cards to hide Media
 
 [Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-CyberSecurityMay 7, 2026](</index/gpt-5-5-with-trusted-access-for-cyber/>)
 
-![Introducing Advanced Account Security ](https://images.ctfassets.net/kftzwdyauwt9/4qS0zHVYqjyQCXbjR0GBgo/afaf8ff54069198f148dec57aa40461b/ArtCard-Introducing_Advanced_Account_Security_for_ChatGPT_accounts.png?w=3840&q=90&fm=webp)
+![A soft, abstract gradient blending cool blue tones with hints of pink and green](https://images.ctfassets.net/kftzwdyauwt9/4qS0zHVYqjyQCXbjR0GBgo/afaf8ff54069198f148dec57aa40461b/ArtCard-Introducing_Advanced_Account_Security_for_ChatGPT_accounts.png?w=3840&q=90&fm=webp)
 
 [Introducing Advanced Account SecurityProductApr 30, 2026](</index/advanced-account-security/>)
 
@@ -78,14 +86,6 @@ Switch cards to hide Media
 ![accelerating-cyber-defense-ecosystem-1x1](https://images.ctfassets.net/kftzwdyauwt9/1TzwLMgMx0r6t1GQsFAiHH/ff5d38b5bc11d22a2442bb0f151ee83f/accelerating-cyber-defense-ecosystem-1x1.png?w=3840&q=90&fm=webp)
 
 [Accelerating the cyber defense ecosystem that protects us allSecurityApr 16, 2026](</index/accelerating-cyber-defense-ecosystem/>)
-
-![Scaling our trusted access program for cyber defense 1x1](https://images.ctfassets.net/kftzwdyauwt9/50UlqbAamecQ6xsNAt3Qu0/8f6f87823b796b6860606a4a42efe4af/Scaling_our_trusted_access_program_for_cyber_defense_1x1.png?w=3840&q=90&fm=webp)
-
-[Trusted access for the next era of cyber defenseSecurityApr 14, 2026](</index/scaling-trusted-access-for-cyber-defense/>)
-
-![axios-dev-tool-compromise-1x1](https://images.ctfassets.net/kftzwdyauwt9/6qK652sBXMQa7WpNrExPOT/afcd024e00e2d07bb1132e66881ea53d/axios-dev-tool-compromise-1x1.png?w=3840&q=90&fm=webp)
-
-[Our response to the Axios developer tool compromiseSecurityApr 10, 2026](</index/axios-developer-tool-compromise/>)
 
 Load more
 
@@ -138,6 +138,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 

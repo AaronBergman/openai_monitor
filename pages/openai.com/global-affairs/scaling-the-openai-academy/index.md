@@ -26,13 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Partnering to Scale Our Reach
-
-  * Partnering to Scale Our Reach
-  * What’s next
-
-
-
 March 25, 2025
 
 [Global Affairs](</news/global-affairs/>)
@@ -46,6 +39,24 @@ Online resource hub will support AI literacy and help people from all background
 Loading…
 
 Share
+
+Partnering to Scale Our Reach
+
+  * Partnering to Scale Our Reach
+
+  * What’s next
+
+
+
+
+Table of contents
+
+  * Partnering to Scale Our Reach
+
+  * What’s next
+
+
+
 
 Today, we’re announcing the next phase of the OpenAI Academy with [_a publicly available, free online resource hub_ ⁠(opens in a new window)](<https://academy.openai.com/>) to support AI literacy and help people from all backgrounds access tools, best practices, and peer insights to use AI more effectively and responsibly. Through a mix of online and in-person events, the OpenAI Academy will offer workshops, discussions and other digital content ranging from AI basics to advanced integration for engineers and developers. 
 
@@ -125,6 +136,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 

@@ -26,15 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Importance of studying economic impacts
-
-  * Importance of studying economic impacts
-  * Submission process for researchers
-  * Submission process for companies and users of OpenAI tools
-  * Additional information
-
-
-
 March 3, 2022
 
 [Company](</news/company-announcements/>)
@@ -50,6 +41,32 @@ Illustration: Justin Jay Wang × DALL·E
 Loading…
 
 Share
+
+Importance of studying economic impacts
+
+  * Importance of studying economic impacts
+
+  * Submission process for researchers
+
+  * Submission process for companies and users of OpenAI tools
+
+  * Additional information
+
+
+
+
+Table of contents
+
+  * Importance of studying economic impacts
+
+  * Submission process for researchers
+
+  * Submission process for companies and users of OpenAI tools
+
+  * Additional information
+
+
+
 
 Core to our mission of ensuring that artificial general intelligence benefits all of humanity is understanding the economic impacts that our models will have or are having on individuals and society as a whole. Developing tools to rigorously measure the economic impacts of our models is essential to making smarter development and deployment decisions and critical to informing public policy options that maximize human prosperity and minimize the risk of economic harms from AI. Our ability to generate high quality evidence to inform these decisions will be greatly enhanced by developing a range of productive research partnerships, and we firmly believe that AI developers need to support external researchers undertaking this work, rather than exclusively conducting research in-house.
 
@@ -187,6 +204,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 

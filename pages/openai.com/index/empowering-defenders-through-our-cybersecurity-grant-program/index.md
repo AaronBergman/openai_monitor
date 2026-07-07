@@ -43,16 +43,22 @@ Share
 Selected projects 
 
   * Selected projects 
+
   * Empowering defenders with ChatGPT
+
   * Apply now!
+
 
 
 
 Table of contents
 
   * Selected projects 
+
   * Empowering defenders with ChatGPT
+
   * Apply now!
+
 
 
 
@@ -170,6 +176,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 

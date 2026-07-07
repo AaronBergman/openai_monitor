@@ -37,18 +37,26 @@ Share
 There are many paths to safe and beneficial AI.
 
   * There are many paths to safe and beneficial AI.
+
   * Combining iterative deployment with a Preparedness Framework
+
   * Practices for developers of highly capable AI
+
   * We need a better science of AI risks
+
 
 
 
 Table of contents
 
   * There are many paths to safe and beneficial AI.
+
   * Combining iterative deployment with a Preparedness Framework
+
   * Practices for developers of highly capable AI
+
   * We need a better science of AI risks
+
 
 
 
@@ -152,6 +160,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 

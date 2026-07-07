@@ -44,13 +44,11 @@ GPT‑Rosalind is a purpose-built model for life sciences research, designed to 
 
 Explore molecules, proteins, genes, pathways, and disease biology in one reasoning flow.
 
-![icon depicting a wrench](https://images.ctfassets.net/kftzwdyauwt9/5rRtPBCQYoLN5poacJhfqp/ead486284c437b6863a00541434c114d/settings-wrench.svg?w=3840&q=90)
-
 #### Work with scientific tools
 
 Connect model reasoning to approved tools, datasets, and repeatable workflows.
 
-![Line icon representing specialized expertise.](https://images.ctfassets.net/kftzwdyauwt9/4CIIELoUwDJXbMRsbPQ3D3/d9d0cb53090475d5f727b351244bcb78/circle-grid-2x2-badge-plus.svg?w=3840&q=90)
+![Line icon representing specialized expertise.](https://images.ctfassets.net/kftzwdyauwt9/4CIIELoUwDJXbMRsbPQ3D3/445bda8c8df27439baf06df743a24a90/circle-grid-2x2-badge-plus-dark.svg?w=3840&q=90)
 
 #### Evaluate evidence
 
@@ -189,6 +187,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 

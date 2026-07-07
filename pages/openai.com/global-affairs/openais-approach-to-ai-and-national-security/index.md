@@ -26,14 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Delivering on our mission through democratic AI leadership
-
-  * Delivering on our mission through democratic AI leadership
-  * Our policies and values
-  * Looking ahead
-
-
-
 October 24, 2024
 
 [Safety](</news/safety-alignment/>)[Global Affairs](</news/global-affairs/>)
@@ -45,6 +37,28 @@ October 24, 2024
 Loading…
 
 Share
+
+Delivering on our mission through democratic AI leadership
+
+  * Delivering on our mission through democratic AI leadership
+
+  * Our policies and values
+
+  * Looking ahead
+
+
+
+
+Table of contents
+
+  * Delivering on our mission through democratic AI leadership
+
+  * Our policies and values
+
+  * Looking ahead
+
+
+
 
 Today, the White House released a [_National Security Memorandum (NSM) on Artificial Intelligence_ ⁠(opens in a new window)](<https://www.whitehouse.gov/briefing-room/presidential-actions/2024/10/24/memorandum-on-advancing-the-united-states-leadership-in-artificial-intelligence-harnessing-artificial-intelligence-to-fulfill-national-security-objectives-and-fostering-the-safety-security/>) outlining how the U.S. government can responsibly harness AI to advance national security while establishing essential guardrails for its use. The NSM also recognizes the importance of increasing the supply and access to semiconductor chips, power generation, and data center capacity – all of which we agree are essential to continued U.S. leadership on AI. 
 
@@ -136,6 +150,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 

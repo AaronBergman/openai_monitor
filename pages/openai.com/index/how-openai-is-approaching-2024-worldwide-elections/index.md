@@ -26,14 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Preventing abuse
-
-  * Preventing abuse
-  * Transparency around AI-generated content
-  * Improving access to authoritative voting information
-
-
-
 January 15, 2024
 
 [Company](</news/company-announcements/>)
@@ -49,6 +41,28 @@ Illustration: Justin Jay Wang × DALL·E
 Loading…
 
 Share
+
+Preventing abuse
+
+  * Preventing abuse
+
+  * Transparency around AI-generated content
+
+  * Improving access to authoritative voting information
+
+
+
+
+Table of contents
+
+  * Preventing abuse
+
+  * Transparency around AI-generated content
+
+  * Improving access to authoritative voting information
+
+
+
 
  _Update on November 8, 2024:_
 
@@ -215,6 +229,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 

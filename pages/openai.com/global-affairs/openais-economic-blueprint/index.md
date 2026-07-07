@@ -26,13 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-We’ve been here before
-
-  * We’ve been here before
-  * The path forward
-
-
-
 January 13, 2025
 
 [Company](</news/company-announcements/>)[Global Affairs](</news/global-affairs/>)
@@ -46,6 +39,24 @@ The Blueprint outlines policy proposals for how the US can maximize AI’s benef
 Loading…
 
 Share
+
+We’ve been here before
+
+  * We’ve been here before
+
+  * The path forward
+
+
+
+
+Table of contents
+
+  * We’ve been here before
+
+  * The path forward
+
+
+
 
 Today, OpenAI is releasing a new Economic Blueprint that lays out our policy proposals for extending America’s global leadership in AI innovation, ensuring equitable access to AI, and driving economic growth across communities nationwide. 
 
@@ -159,6 +170,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 

@@ -26,26 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-About OpenAI
-
-  * About OpenAI
-  * OpenAI Technology and Tools
-  * AI Continues to Improve People’s Lives
-  * AI Safety Practices
-  * Deployment Safety and Learning
-  * Privacy
-  * Children’s Safety
-  * Accuracy
-  * Disinformation
-  * Cybersecurity
-  * Continuing Improvements to Our Safety Approach
-  * Economic Impacts
-  * Working with Governments
-  * Conclusion
-  * Question for the Record
-
-
-
 Submitted: June 22, 2023
 
 # Testimony before the U.S. Senate
@@ -53,6 +33,76 @@ Submitted: June 22, 2023
 The following is the written testimony of Sam Altman, Chief Executive Officer of OpenAI, before the U.S. Senate Committee on the Judiciary (Subcommittee on Privacy, Technology, & the Law).
 
 Share
+
+About OpenAI
+
+  * About OpenAI
+
+  * OpenAI Technology and Tools
+
+  * AI Continues to Improve People’s Lives
+
+  * AI Safety Practices
+
+  * Deployment Safety and Learning
+
+  * Privacy
+
+  * Children’s Safety
+
+  * Accuracy
+
+  * Disinformation
+
+  * Cybersecurity
+
+  * Continuing Improvements to Our Safety Approach
+
+  * Economic Impacts
+
+  * Working with Governments
+
+  * Conclusion
+
+  * Question for the Record
+
+
+
+
+Table of contents
+
+  * About OpenAI
+
+  * OpenAI Technology and Tools
+
+  * AI Continues to Improve People’s Lives
+
+  * AI Safety Practices
+
+  * Deployment Safety and Learning
+
+  * Privacy
+
+  * Children’s Safety
+
+  * Accuracy
+
+  * Disinformation
+
+  * Cybersecurity
+
+  * Continuing Improvements to Our Safety Approach
+
+  * Economic Impacts
+
+  * Working with Governments
+
+  * Conclusion
+
+  * Question for the Record
+
+
+
 
 Chairman Blumenthal, Senator Hawley, and members of the Judiciary Committee, thank you for the opportunity to testify today about large neural networks. I am Sam Altman, Chief Executive Officer of OpenAI, a company that studies, builds, and deploys artificial intelligence (AI) and has created AI tools such as ChatGPT, Whisper, and DALL·E 2. OpenAI was founded on the belief that safe and beneficial AI offers tremendous possibilities for humanity. I am grateful for the opportunity to speak about our experiences developing cutting-edge AI technology and studying AI safety, and our interest in working collaboratively with governments to ensure the development and widespread availability of safe and beneficial AI tools. We believe it is essential to develop regulations that incentivize AI safety while ensuring that people are able to access the technology’s many benefits. 
 
@@ -439,6 +489,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 

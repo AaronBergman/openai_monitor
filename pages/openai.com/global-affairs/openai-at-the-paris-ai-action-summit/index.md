@@ -26,13 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Unlocking the opportunities of AI
-
-  * Unlocking the opportunities of AI
-  * Update on voluntary commitments
-
-
-
 February 7, 2025
 
 [Global Affairs](</news/global-affairs/>)
@@ -44,6 +37,24 @@ February 7, 2025
 Loading…
 
 Share
+
+Unlocking the opportunities of AI
+
+  * Unlocking the opportunities of AI
+
+  * Update on voluntary commitments
+
+
+
+
+Table of contents
+
+  * Unlocking the opportunities of AI
+
+  * Update on voluntary commitments
+
+
+
 
 We’re looking forward to the third AI Action Summit in Paris next week and in particular, to discussing how artificial intelligence and the innovations and breakthroughs AI will launch can drive economic growth.
 
@@ -150,6 +161,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 

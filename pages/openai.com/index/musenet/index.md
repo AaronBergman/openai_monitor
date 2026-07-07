@@ -26,16 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Samples
-
-  * Samples
-  * Composer and instrumentation tokens
-  * Long-term structure
-  * Dataset
-  * Embeddings
-
-
-
 April 25, 2019
 
 [Milestone](</research/index/milestone/>)
@@ -49,6 +39,36 @@ Illustration: Ben Barry
 Loading…
 
 Share
+
+Samples
+
+  * Samples
+
+  * Composer and instrumentation tokens
+
+  * Long-term structure
+
+  * Dataset
+
+  * Embeddings
+
+
+
+
+Table of contents
+
+  * Samples
+
+  * Composer and instrumentation tokens
+
+  * Long-term structure
+
+  * Dataset
+
+  * Embeddings
+
+
+
 
 We’ve created MuseNet, a deep neural network that can generate 4-minute musical compositions with 10 different instruments, and can combine styles from country to Mozart to the Beatles. MuseNet was not explicitly programmed with our understanding of music, but instead discovered patterns of harmony, rhythm, and style by learning to predict the next token in hundreds of thousands of MIDI files. MuseNet uses the same general-purpose unsupervised technology as [GPT‑2⁠](</index/better-language-models/>), a large-scale [transformer⁠(opens in a new window)](<https://arxiv.org/abs/1706.03762>) model trained to predict the next token in a sequence, whether audio or text.
 
@@ -139,7 +159,7 @@ We’re excited to hear what people create! If you create a piece you like, you 
 
 If you’re interested in learning more about OpenAI’s music work, consider [applying⁠](</careers/>) to join our team. Please feel free to [email us⁠](<mailto:musenet@openai.com>) with suggestions for the MuseNet demo. We’d also love to hear from you if you’re interested in composing with MuseNet in more depth, or if you have MIDI files you’d like to add to the training set.
 
-Loading...
+MuseNet played an experimental concert on April 25th, 2019, livestreamed on OpenAI’s [Twitch channel⁠(opens in a new window)](<https://www.twitch.tv/openai>), in which no human (including us) had heard the pieces before.
 
   * [GPT](</research/index/?tags=gpt>)
   * [Generative Models](</research/index/?tags=generative-models>)
@@ -233,6 +253,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
