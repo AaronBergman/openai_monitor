@@ -41,18 +41,26 @@ Share
 The mission comes first
 
   * The mission comes first
+
   * What OpenAI does
+
   * Safety
+
   * Who’s involved
+
 
 
 
 Table of contents
 
   * The mission comes first
+
   * What OpenAI does
+
   * Safety
+
   * Who’s involved
+
 
 
 
@@ -192,6 +200,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 

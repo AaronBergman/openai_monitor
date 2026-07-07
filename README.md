@@ -4,6 +4,35 @@ A daily log of every change to OpenAI's public website — what appeared, what d
 
 ---
 
+## 2026-07-07 — Run `2026-07-07T09-16Z`
+
+**Fetch time:** 2026-07-07T09:18:38Z
+**Baseline:** 2026-07-06T09-15Z
+**Stats:** 1386 total URLs | +0 added | 76 updated | 0 removed | 0 anomalies | 34 sub-sitemaps
+
+**TL;DR:** No pages added or removed, no anomalies — but a much busier day than the recent run of quiet ones: 76 pages picked up fresh timestamps as OpenAI finished rolling a footer/navigation update out to dozens of older pages, and `/api/pricing/` was rebuilt from a shared ChatGPT+API pricing page into its own dedicated page with a per-model pricing table and an interactive cost calculator. No new pages, no policy reversals, no anomalies.
+
+### No anomalies, no new or removed pages
+
+Total URL universe held steady at exactly 1386. No `<lastmod>` in the future, none moved backwards, nothing disappeared and reappeared, no sub-sitemap migrations.
+
+### Notable Updates
+
+**[`/api/pricing/`](pages/openai.com/api/pricing/index.md) rebuilt as a standalone API pricing page.** It used to show essentially the same combined ChatGPT+API pricing content as `/business/pricing/` (which is unchanged today and still shows that combined view). Now it has its own per-model token-pricing table, an interactive pricing calculator (pick a model, an image resolution, see the price), and an API-specific FAQ ("Which model should I use?", "How is pricing calculated for images?", spending-limit questions, etc.) in place of the old ChatGPT-subscription FAQ. Reads as OpenAI splitting API pricing from ChatGPT/Business pricing into two distinct destinations.
+
+**Footer nav rollout continues, plus a new "Table of Contents" widget.** Yesterday's run first spotted two new footer links — "Customer Stories" and "Partner Network" (both pointing to pages that already existed) — appearing on a few pages still running an older template. Today that rollout reached 68 more pages, mostly older `/global-affairs/`, `/index/`, `/news/`, and `/policies/` posts. A subset of about 13 of those pages (e.g. `openai-for-australia`, `japan-economic-blueprint`, `musenet`, `us-caisi-uk-aisi-ai-update`) also gained a "Table of Contents" sidebar for the first time — our markdown extraction shows their title block twice in a row as a side effect, which is a rendering artifact of the new page structure, not real duplicate content. Four pages that still had the *very old* pre-redesign header (`openai-lp`, `enterprise-privacy`, `business/why-openai/startups`, and one global-affairs archive page) were fully migrated to the current site template (the `Research / Business / Developers / Company / Foundation` nav that's already standard elsewhere on the site).
+
+**Small genuine text edit:** the [core-dump epidemiology postmortem](pages/openai.com/index/core-dump-epidemiology-data-infrastructure-bug/index.md) added a byline crediting Nathan Bronson, Member of Technical Staff — its only change today.
+
+### Routine Updates
+
+The rest of the touched pages show only expected noise: related-articles carousel rotation on old `/global-affairs/` and `/index/` posts (surfacing newer articles like "How ChatGPT adoption has expanded" and "Mapping Europe's AI Workforce Opportunity"), and the seven `/news/*` category pages refreshing their "latest posts" listings. Six pages (`business/pricing/`, `form/vc-partnerships-application/`, `index/diagnose-rare-childhood-diseases/`, `index/how-agents-are-transforming-work/`, `index/mapping-ai-jobs-transition-eu/`, `solutions/`) got a timestamp bump with zero detectable content change.
+
+Full analysis: [runs/2026-07-07T09-16Z/analysis.md](runs/2026-07-07T09-16Z/analysis.md)
+
+---
+*Stats: 1,386 total URLs | +0 added | 76 updated (70 with visible content change) | -0 removed | 0 anomalies | 34 sub-sitemaps*
+
 ## 2026-07-06 — Run `2026-07-06T09-15Z`
 
 **Fetch time:** 2026-07-06T09:16:18Z

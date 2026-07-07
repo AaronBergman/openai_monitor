@@ -41,18 +41,38 @@ Share
 Overview of the day
 
   * Overview of the day
+
+    * Audience game
+
+    * Games 1 and 2
+
+    * Game 3: audience draft
+
   * Training
+
   * Peaking at the model
+
   * What’s next
+
 
 
 
 Table of contents
 
   * Overview of the day
+
+    * Audience game
+
+    * Games 1 and 2
+
+    * Game 3: audience draft
+
   * Training
+
   * Peaking at the model
+
   * What’s next
+
 
 
 
@@ -61,8 +81,6 @@ Yesterday, [OpenAI Five⁠](</index/openai-five/>) won a best-of-three against a
 The human team won game three after the audience adversarially selected Five’s heroes. We also showed our preliminary work to introspect Five’s view of the game, including its probability of winning, which made predictions surprising to the human observers. These results show that Five is a step towards advanced AI systems which can handle the complexity and uncertainty of the [real world⁠](</index/learning-dexterity/>).
 
 _In case you missed it: the livestream from the Benchmark commentated by_ [ _Purge_ ⁠(opens in a new window)](<https://twitter.com/PurgeGamers>)  _and_ [ _ODPixel_ ⁠(opens in a new window)](<https://twitter.com/ODPixel>)_._ [ _Christy_ ⁠(opens in a new window)](<https://twitter.com/cbd/status/1026182729291812864>)  _and_ [ _Greg_ ⁠(opens in a new window)](<https://twitter.com/gdb/status/1026175234825547776>)  _also both livetweeted the event._
-
-Loading...
 
 ## Overview of the day
 
@@ -213,6 +231,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 

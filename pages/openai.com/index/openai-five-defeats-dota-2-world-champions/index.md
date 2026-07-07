@@ -41,24 +41,38 @@ Share
 Why Dota?
 
   * Why Dota?
+
   * Compute
+
   * Transfer learning
+
   * More heroes
+
   * Cooperative mode
+
   * Arena
+
   * What’s next
+
 
 
 
 Table of contents
 
   * Why Dota?
+
   * Compute
+
   * Transfer learning
+
   * More heroes
+
   * Cooperative mode
+
   * Arena
+
   * What’s next
+
 
 
 
@@ -72,8 +86,6 @@ At OpenAI Five Finals, we also shared two surprises:
   2. From April 18–21, we’re scaling up OpenAI Five to [play the Internet⁠(opens in a new window)](<https://arena.openai.com/>), whether as a competitor or teammate. This final test will let us answer an important research question—to what extent OpenAI Five is exploitable or can otherwise be reliably beaten—and be potentially the largest-ever deployment of a highly-competent deep reinforcement learning agent that people can knowingly interact with.
 
 
-
-Loading...
 
   * Replays + OpenAI Five planning view(opens in a new window)
 
@@ -120,8 +132,6 @@ We believe these issues are fundamentally solvable, and solving them could be in
 ![Bracket of two competing Dota teams: Sheever and Blitz versus Capitalist and ODPixel](https://images.ctfassets.net/kftzwdyauwt9/32f43b65-0baf-4687-67df2e91aa48/1434a9432c18920dea93c9c0b0372de5/coop-versus.png?w=3840&q=90&fm=webp)
 
 OpenAI Five’s ability to play with humans presents a compelling vision for the future of human-AI interaction, one where AI systems collaborate and enhance the human experience. Our testers reported feeling supported by their bot teammates, that they learned from playing alongside these advanced systems, and that it was generally a fun experience overall.
-
-Loading...
 
 Note that OpenAI Five exhibits zero-shot transfer learning—it was trained to have all heroes controlled by copies of itself, but generalizes to controlling a subset of heroes, playing with or against humans. We were very surprised this worked as well as it did. In fact, we’d considered doing a cooperative match at The International but assumed it’d require dedicated training.
 
@@ -238,6 +248,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 

@@ -26,16 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Empowering Japan’s next chapter of growth
-
-  * Empowering Japan’s next chapter of growth
-  * Building an AI-enabled future across industries
-  * Investing in Japan’s AI infrastructure
-  * Shaping a human-centered AI model for the world
-  * A shared commitment to prosperity
-
-
-
 October 22, 2025
 
 [Company](</news/company-announcements/>)[Global Affairs](</news/global-affairs/>)
@@ -51,6 +41,36 @@ The Blueprint outlines how Japan can harness AI to accelerate innovation, streng
 Loading…
 
 Share
+
+Empowering Japan’s next chapter of growth
+
+  * Empowering Japan’s next chapter of growth
+
+  * Building an AI-enabled future across industries
+
+  * Investing in Japan’s AI infrastructure
+
+  * Shaping a human-centered AI model for the world
+
+  * A shared commitment to prosperity
+
+
+
+
+Table of contents
+
+  * Empowering Japan’s next chapter of growth
+
+  * Building an AI-enabled future across industries
+
+  * Investing in Japan’s AI infrastructure
+
+  * Shaping a human-centered AI model for the world
+
+  * A shared commitment to prosperity
+
+
+
 
 OpenAI is releasing a new _Economic Blueprint for Japan_ that outlines a policy framework that sets out how Japan can fully utilize the economic and social potential of AI. The Blueprint reflects OpenAI’s commitment to supporting Japan’s long-term prosperity and leadership in the AI era, working alongside policymakers, industry leaders, and researchers to ensure AI benefits every sector and every generation.
 
@@ -103,17 +123,17 @@ OpenAI
 
 [View all](</news/>)
 
-![oai 1x1 Biodefense in the Intelligence Age](https://images.ctfassets.net/kftzwdyauwt9/6A4rrCBs9rrlbzm9JWIvSi/8a4ae56849fcd0b16e90b59b8babc613/oai_1x1_Biodefense_in_the_Intelligence_Age.png?w=3840&q=90&fm=webp)
+![Signals june update > Cover image](https://images.ctfassets.net/kftzwdyauwt9/6w2E1Bzj1zUr2xmW1TBK3l/1b7e0977246ac85ae1db5fbcd6eb1549/Frame.png?w=3840&q=90&fm=webp)
 
-[Biodefense in the Intelligence AgeGlobal AffairsJun 4, 2026](</index/biodefense-in-the-intelligence-age/>)
+[How ChatGPT adoption has expandedGlobal AffairsJun 30, 2026](</index/how-chatgpt-adoption-has-expanded/>)
 
-![OpenAI’s public policy agenda > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/CdH7XdsXfpUaYZJpeCwwz/76b975c66fce3ce5ec4a901b4f675369/Frame.png?w=3840&q=90&fm=webp)
+![Mapping Europe’s AI Workforce Opportunity art card](https://images.ctfassets.net/kftzwdyauwt9/1GzG1SsRjcjUPXXHjqfTAX/a7244ab2bd596fd917e4a2abf7ee71a6/mapping-europes-ai-workforce-opportunity-art-card.png?w=3840&q=90&fm=webp)
 
-[OpenAI public policy agendaGlobal AffairsJun 3, 2026](</index/public-policy-agenda/>)
+[Mapping Europe’s AI Workforce OpportunityGlobal AffairsJun 29, 2026](</index/mapping-ai-jobs-transition-eu/>)
 
-![Frontier Safety Blueprint > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/6zU111Ouj65b8iZJnswHBe/a705de1c90ab048510532db2f53f12f3/Frame.png?w=3840&q=90&fm=webp)
+![HP early AI wins — card image](https://images.ctfassets.net/kftzwdyauwt9/6phCuFzVSdCdVCh6YqXMa6/a4207917b5d7a43179a61f5de012168d/HP-1_1.png?w=3840&q=90&fm=webp)
 
-[A blueprint for democratic governance of frontier AIGlobal AffairsJun 3, 2026](</index/frontier-safety-blueprint/>)
+[How HP is scaling early AI wins across the enterpriseCompanyJun 28, 2026](</index/hp-frontier-partnership/>)
 
 Research
 
@@ -164,6 +184,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 

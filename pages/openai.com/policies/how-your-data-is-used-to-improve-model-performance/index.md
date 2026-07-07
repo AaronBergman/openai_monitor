@@ -26,14 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Services for individuals, such as ChatGPT, Sora, and Operator
-
-  * Services for individuals, such as ChatGPT, Sora, and Operator
-  * Services for businesses, such as ChatGPT Team, ChatGPT Enterprise, and our API Platform
-  * What the process looks like
-
-
-
 Select language
 
 …
@@ -43,6 +35,28 @@ Updated: March 13, 2026
 # How your data is used to improve model performance
 
 Learn more about how OpenAI uses content from our services to improve and train our models.
+
+Services for individuals, such as ChatGPT, Sora, and Operator
+
+  * Services for individuals, such as ChatGPT, Sora, and Operator
+
+  * Services for businesses, such as ChatGPT Team, ChatGPT Enterprise, and our API Platform
+
+  * What the process looks like
+
+
+
+
+Table of contents
+
+  * Services for individuals, such as ChatGPT, Sora, and Operator
+
+  * Services for businesses, such as ChatGPT Team, ChatGPT Enterprise, and our API Platform
+
+  * What the process looks like
+
+
+
 
 One of the most useful and promising features of AI models is that they can improve over time. We continuously improve our models through research breakthroughs as well as exposure to real-world problems and data. When you share your content with us, it helps our models become more accurate and better at solving your specific problems and it also helps improve their general capabilities and safety. ChatGPT, for instance, improves by further training on the conversations people have with it, unless you [opt out⁠(opens in a new window)](<https://help.openai.com/en/articles/7730893-data-controls-faq>).
 
@@ -117,6 +131,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 

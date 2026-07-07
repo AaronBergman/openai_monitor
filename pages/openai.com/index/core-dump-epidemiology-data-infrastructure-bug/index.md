@@ -96,6 +96,8 @@ Table of contents
 
 
 
+ _By Nathan Bronson, Member of Technical Staff_  
+  
 OpenAI’s models and agents increasingly rely on scalable data infrastructure in order to search for relevant data at inference time: when the models are thinking about your question. Some of these services are written in C++, whose low-level control of the system lets us maximize performance and minimize memory usage. Those efficiency benefits are important as we scale, but C++’s lack of memory safety means that bugs can cause crashes by writing to incorrect or non-existent memory addresses.
 
 A few months ago we observed some crashes from inside the Rockset service, a bespoke part of our ChatGPT data infrastructure which is key to many data plugins and to searching over conversations. In each of these crashes, a normal C++ function seemed to finish and then return to a bogus address, causing the kernel to stop the program because the instruction pointer no longer pointed at code. Sometimes the return address slot in the stack frame was NULL. Sometimes the stack pointer CPU register itself seemed to be off by 8 bytes, as if `%rsp` had somehow been decremented in the middle of normal execution. In both cases the crash happened on return.

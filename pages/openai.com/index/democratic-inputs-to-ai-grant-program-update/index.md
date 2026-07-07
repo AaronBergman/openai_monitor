@@ -26,14 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-How our grant recipients innovated on democratic technology
-
-  * How our grant recipients innovated on democratic technology
-  * Key learnings from the grant program so far
-  * Our implementation plans
-
-
-
 January 16, 2024
 
 [Safety](</news/safety-alignment/>)
@@ -45,6 +37,48 @@ January 16, 2024
 Loading…
 
 Share
+
+How our grant recipients innovated on democratic technology
+
+  * How our grant recipients innovated on democratic technology
+
+  * Key learnings from the grant program so far
+
+    * Public opinion can change frequently
+
+    * Bridging across the digital divide is still difficult and this can skew results
+
+    * Finding agreement within polarized groups
+
+    * Reaching consensus vs. representing diversity
+
+    * Hopes and anxieties about the future of AI governance
+
+  * Our implementation plans
+
+
+
+
+Table of contents
+
+  * How our grant recipients innovated on democratic technology
+
+  * Key learnings from the grant program so far
+
+    * Public opinion can change frequently
+
+    * Bridging across the digital divide is still difficult and this can skew results
+
+    * Finding agreement within polarized groups
+
+    * Reaching consensus vs. representing diversity
+
+    * Hopes and anxieties about the future of AI governance
+
+  * Our implementation plans
+
+
+
 
 We funded 10 teams from around the world to design ideas and tools to collectively govern AI. We summarize the innovations, outline our learnings, and call for researchers and engineers to join us as we continue this work.
 
@@ -231,6 +265,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
