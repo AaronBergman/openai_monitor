@@ -26,18 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Deep attention
-
-  * Deep attention
-  * Sparse attention
-  * Experimental results
-  * Generating images
-  * Generating raw audio waveforms
-  * Code release
-  * Future work and limitations
-
-
-
 April 23, 2019
 
 [Publication](</research/index/publication/>)
@@ -51,6 +39,44 @@ April 23, 2019
 Loading…
 
 Share
+
+Deep attention
+
+  * Deep attention
+
+  * Sparse attention
+
+  * Experimental results
+
+  * Generating images
+
+  * Generating raw audio waveforms
+
+  * Code release
+
+  * Future work and limitations
+
+
+
+
+Table of contents
+
+  * Deep attention
+
+  * Sparse attention
+
+  * Experimental results
+
+  * Generating images
+
+  * Generating raw audio waveforms
+
+  * Code release
+
+  * Future work and limitations
+
+
+
 
 We’ve developed the Sparse Transformer, a deep neural network which sets new records at predicting what comes next in a sequence—whether text, images, or sound. It uses an algorithmic improvement of the  _attention_ mechanism to extract patterns from sequences 30x longer than possible previously.
 
@@ -144,7 +170,11 @@ Sparse Transformers can also be adapted to generate raw audio instead of images 
 
 This model was trained on raw classical music clips and uses sparse attention to generate sequences of length 65,000. This corresponds to ~5 seconds of raw audio, and we have concatenated several samples together in each of the clips below.
 
-Loading...
+Sparse Transformer audio sample 1
+
+Sparse Transformer audio sample 2
+
+Sparse Transformer audio sample 3
 
 ## Code release
 
@@ -238,6 +268,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 

@@ -64,6 +64,18 @@ April 21, 2026
 
 ### [Introducing GPT-4.5February 27, 2025Watch the replay](<https://openai.com/index/introducing-gpt-4-5/#conclusion>)
 
+### Get notified when we go live
+
+Sign up to get notified an hour before our next livestream begins.
+
+First name *
+
+Last name *
+
+Work email *
+
+Submit
+
 Research
 
   * [Research Index](</research/index/>)
@@ -113,6 +125,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 

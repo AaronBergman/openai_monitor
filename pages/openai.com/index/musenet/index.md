@@ -74,11 +74,17 @@ We’ve created MuseNet, a deep neural network that can generate 4-minute musica
 
 ## Samples
 
-Loading...
+MuseNet audio sample 1
+
+MuseNet audio sample 2
+
+MuseNet audio sample 3
+
+MuseNet audio sample 4
 
 Since MuseNet knows many different styles, we can blend generations in novel ways.A Here the model is given the first 6 notes of a Chopin Nocturne, but is asked to generate a piece in a pop style with piano, drums, bass, and guitar. The model manages to blend the two styles convincingly, with the full band joining in at around the 30 second mark:
 
-Loading...
+MuseNet audio sample
 
 We’re excited to see how musicians and non-musicians alike will use MuseNet to create new compositions!1
 
@@ -97,11 +103,11 @@ Some of MuseNet’s limitations include:
 
 We created composer and instrumentation tokens to give more control over the kinds of samples MuseNet generates. During training time, these composer and instrumentation tokens were prepended to each sample, so the model would learn to use this information in making note predictions. At generation time, we can then condition the model to create samples in a chosen style by starting with a prompt such as a Rachmaninoff piano start:
 
-Loading...
+MuseNet audio sample
 
 Or prompted with the band Journey, with piano, bass, guitar, and drums:
 
-Loading...
+MuseNet audio sample
 
 We can visualize the embeddings from MuseNet to gain insight into what the model has learned. Here we use [t-SNE⁠(opens in a new window)](<https://lvdmaaten.github.io/tsne/>) to create a 2-D map of the cosine similarity of various musical composer and style embeddings.
 
@@ -111,11 +117,11 @@ Loading...
 
 MuseNet uses the recompute and optimized kernels of [Sparse Transformer⁠](</index/sparse-transformer/>) to train a 72-layer network with 24 attention heads—with full attention over a context of 4096 tokens. This long context may be one reason why it is able to remember long-term structure in a piece, like in the following sample imitating Chopin:
 
-Loading...
+MuseNet audio sample
 
 It can also create musical melodic structures, as in this sample imitating Mozart:
 
-Loading...
+MuseNet audio sample
 
 Music generation is a useful domain for testing the Sparse Transformer as it sits on a middle ground between text and images. It has the fluid token structure of text (in images you can look back N tokens and find the row above, whereas in music there’s not a fixed number for looking back to the previous measure). Yet we can easily hear whether the model is capturing long term structure on the order of hundreds to thousands of tokens. It’s much more obvious if a music model messes up structure by changing the rhythm, in a way that it’s less clear if a text model goes on a brief tangent.
 

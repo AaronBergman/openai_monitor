@@ -4,6 +4,44 @@ A daily log of every change to OpenAI's public website — what appeared, what d
 
 ---
 
+## 2026-07-08 — Run `2026-07-08T09-15Z`
+
+**Fetch time:** 2026-07-08T09:16:23Z
+**Baseline:** 2026-07-07T09-16Z
+**Stats:** 1387 total URLs | +1 added | 85 updated | 0 removed | 1 anomaly (pre-existing) | 34 sub-sitemaps
+
+**TL;DR:** One new customer story went up (Australian Payments Plus), and OpenAI is mid-rollout on a fairly significant navigation redesign: 67 of the 79 individual `/business/apps/<vendor>/` integration pages (Figma, GitHub, Stripe, HubSpot, etc.) now show a new top nav — "Why OpenAI / Products / Solutions / Resources / Customers / Pricing" with "Try OpenAI / Contact sales" buttons — replacing the old "Research / Products / Business / Developers / Company / Foundation" nav with "Log in / Try ChatGPT". The hub pages (`/business/`, `/business/apps/`, `/business/pricing/`) and 11 of the app pages haven't gotten it yet, so this looks like a redesign in progress rather than a finished launch. Also found (and dug into) a long-standing sitemap data-quality quirk: one URL has been listed twice with contradictory `<lastmod>` dates for at least four days running.
+
+### Anomaly: duplicate sitemap entry, contradictory timestamps (pre-existing, not new today)
+
+`https://openai.com/enterprise-privacy/` is listed **twice** in the same sub-sitemap (`sitemap.xml/page/`) with two different `<lastmod>` values — `2026-07-06T21:19:27.711Z` and `2025-01-31T01:52:00.485Z`. We checked back through every saved snapshot since 2026-07-05 and the duplicate pair has been there, unchanged, the whole time; it just hadn't been surfaced clearly before. It's a genuine inconsistency in OpenAI's own sitemap generation (two contradictory claims about when the same page last changed) but not something that happened today — noting it here for the record. This run's tooling now consistently prefers the freshest of two conflicting lastmod claims when this happens, so it won't register as a spurious "update" in future diffs.
+
+### Notable: business nav/footer redesign, mid-rollout
+
+67 `/business/apps/*` integration pages plus `/business/learn/gartner-2026-agentic-coding-leader/` got a new top nav and reorganized footer. New top nav: **Why OpenAI / Products / Solutions / Resources / Customers / Pricing**, with **Try OpenAI / Contact sales** buttons — swapping out the old **Research / Products / Business / Developers / Company / Foundation** nav and its consumer-facing **Log in / Try ChatGPT** buttons. Footer changes alongside it: a new standalone "Developers" column (Apps SDK, Open Models, Docs, Resources, Developer Forum), "Foundation" and "Research Residency" links dropped, "Deployment Safety" added under Safety, "News" moved from "More" into "Company", and "Customer Stories"/"Partner Network" links added under Business (continuing a rollout first spotted 2026-07-06).
+
+Not everywhere yet: the `/business/apps/` hub page, `/business/`, `/business/pricing/`, `/business/chatgpt-pricing/`, and 11 of the 79 app pages (Atlassian Rovo, Fireflies, Gmail, Google Calendar, Outlook Calendar, Outlook Email, Microsoft Teams, Notion, Slack, Zoom) still show the old nav — their `<lastmod>` bumped today but their content came back byte-identical to yesterday. The new `australian-payments-plus` customer story (below) also still has the old nav. Reads as a redesign in progress, currently concentrated on individual app-integration pages.
+
+### New page
+
+**[Australian Payments Plus moves faster with ChatGPT and Codex](pages/openai.com/index/australian-payments-plus/index.md)** — new customer story from AP+, Australia's national payments infrastructure operator. Headline numbers: 2+ hours/week saved for 77% of surveyed employees, 80% reporting improved creativity/work quality, working simulations built with Codex in 1 day (down from days/weeks), and payments-reconciliation investigations cut from 4 hours to 30 minutes. Continues the recent run of finance-sector customer stories (MUFG published a few weeks ago).
+
+### Small genuine content additions
+
+- **`/security-and-privacy/`** — added a row of compliance badges (SOC 2, ISO 27001, ISO 27701, ISO 42001, STAR Level One Self-Assessment).
+- **`/live/`** — added a "Get notified when we go live" email signup form to the livestream page.
+- **[`/index/mufg/`](pages/openai.com/index/mufg/index.md)** — the case study's byline date moved from May 28 to July 7, 2026 (re-dated/republished); top hero image removed; related-articles carousel rotated.
+
+### Routine updates
+
+Related-articles carousel rotation and "Customer Stories"/"Partner Network" footer link additions touched a handful of `/index/`, `/policies/`, and `/signals/` pages with no other substantive change (`introducing-gpt-5-5`, `openai-for-healthcare`, `oct-2024-row-terms`, `signals/b2b`, `signals/data`, `signals/data-download`). Two research pages (`/index/gdpval/`, `/index/sparse-transformer/`) and `/index/musenet/` showed large diffs that are purely rendering-order/hydration-timing artifacts (hero block reordered around the table of contents; "Loading…" placeholders resolved to real audio-sample labels) — no actual text changed. Several pages picked up a fresh `<lastmod>` with zero detectable content change: `/business/`, `/business/apps/`, `/business/chatgpt-pricing/`, `/business/pricing/`, `/index/mapping-ai-jobs-transition-eu/`, `/index/previewing-gpt-5-6-sol/`, `/signals/research/`, `/signals/research/2026q1-update/`, plus the 11 `/business/apps/*` pages that didn't get the nav redesign.
+
+### Removals
+
+None.
+
+---
+
 ## 2026-07-07 — Run `2026-07-07T09-16Z`
 
 **Fetch time:** 2026-07-07T09:18:38Z
