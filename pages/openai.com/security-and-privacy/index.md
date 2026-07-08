@@ -106,6 +106,8 @@ OpenAI maintains PCI-DSS compliance for the components of ChatGPT that support d
 
 ChatGPT business product services and the API Platform have been evaluated by the Cloud Security Alliance Security Trust Assurance and Risk (STAR) registry for key principles of transparency and cloud security best practices. 
 
+![Row of four security compliance badges: AICPA SOC 2, ISO 27001 Certified, ISO 27701 Certified, ISO 42001 Certified, and STAR Level One Self-Assessment.](https://images.ctfassets.net/kftzwdyauwt9/3cpw6z6cZriZib80SjB357/9cbea6cc640de3f2ff0f4fda8f3810f6/SecurityPrivacyLogos_White_Transparent.png?w=3840&q=90&fm=webp)
+
 ## Security at every step
 
 ![Icon of a shield and lock ](https://images.ctfassets.net/kftzwdyauwt9/6hDBeQy0YjEeXZlEdGEVBY/b79abda438ebf3b2a509f0116cefe100/shield-lock.svg?w=3840&q=90)
@@ -195,6 +197,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 

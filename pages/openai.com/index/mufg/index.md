@@ -26,24 +26,13 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Building an AI-native foundation with OpenAI
-
-  * Building an AI-native foundation with OpenAI
-  * Helping employees use AI with confidence
-  * Results at a glance
-  * Reimagining financial services through AI
-
-
-
-May 28, 2026
+July 7, 2026
 
 # MUFG aims to become AI-native with OpenAI
 
 MUFG has deployed ChatGPT Enterprise to approximately 35,000 employees at Mitsubishi UFJ Bank and, together with OpenAI, is advancing operational transformation and creating new customer experiences in the retail sector.
 
 [Contact sales](</contact-sales/>)
-
-![Abstract MUFG customer story artwork with geometric forms in red and white.](https://images.ctfassets.net/kftzwdyauwt9/NuwuwCk19PIxGLHg92dkW/92c24518bb5432f9491b801b006fa7e4/oai_MUFG_1x1.png?w=3840&q=90&fm=webp)
 
 Company size: Enterprise
 
@@ -62,6 +51,32 @@ MUFG employees using ChatGPT Enterprise
 Loading…
 
 Share
+
+Building an AI-native foundation with OpenAI
+
+  * Building an AI-native foundation with OpenAI
+
+  * Helping employees use AI with confidence
+
+  * Results at a glance
+
+  * Reimagining financial services through AI
+
+
+
+
+Table of contents
+
+  * Building an AI-native foundation with OpenAI
+
+  * Helping employees use AI with confidence
+
+  * Results at a glance
+
+  * Reimagining financial services through AI
+
+
+
 
 MUFG is one of Japan's largest financial groups, with Mitsubishi UFJ Bank at its core. Through banking, trust banking, securities, cards, leasing, and other financial services, MUFG supports individuals and businesses in Japan and around the world.
 
@@ -145,19 +160,17 @@ More than 1 million businesses around the world are achieving meaningful results
 
 ## Keep reading
 
-![Nextdoor customer stories > oai 1x1](https://images.ctfassets.net/kftzwdyauwt9/2VQiKydNUVAutnHRuCIV4S/3262cc8deff3fe49c6b512f854e14dcf/oai_Nextdoor_1x1.png?w=3840&q=90&fm=webp)
+![Australian Payments Plus hero 1x1](https://images.ctfassets.net/kftzwdyauwt9/4dOzo0MCH8IYZpHDieNgbg/8c27d9ee088b65ed45bef5a097c800e6/oai_Australian_Payments_Plus_1x1.png?w=3840&q=90&fm=webp)
 
-[How engineers at Nextdoor use Codex to build without limitsJun 9, 2026](</index/nextdoor/>)
+[Australian Payments Plus moves faster with ChatGPT and CodexJul 7, 2026](</index/australian-payments-plus/>)
 
-![Notion > cover image](https://images.ctfassets.net/kftzwdyauwt9/2HBxiM1dDPpM1W56ehwgNi/01dc3dafe6aedcabc9808446492523ea/oai_Notion_1x1.png?w=3840&q=90&fm=webp)
+![Signals june update > Cover image](https://images.ctfassets.net/kftzwdyauwt9/6w2E1Bzj1zUr2xmW1TBK3l/1b7e0977246ac85ae1db5fbcd6eb1549/Frame.png?w=3840&q=90&fm=webp)
 
-[What Codex unlocks for NotionJun 9, 2026](</index/notion/>)
+[How ChatGPT adoption has expandedGlobal AffairsJun 30, 2026](</index/how-chatgpt-adoption-has-expanded/>)
 
-![Frame](https://images.ctfassets.net/kftzwdyauwt9/5PD5E0PhvNP8ogbhvNxdKF/42a592f5b93580d940065610304c3f22/Frame.png?w=3840&q=90&fm=webp)
+![Rockset > Art Card](https://images.ctfassets.net/kftzwdyauwt9/7qv6OiVDfumZUnibH5VTOU/d2d818ac6de1f7cb93dce7a343e456dc/Rockset-Art-Card.png?w=3840&q=90&fm=webp)
 
-Industrial policy for the Intelligence Age
-
-[Industrial policy for the Intelligence AgeGlobal AffairsJun 9, 2026](</index/industrial-policy-for-the-intelligence-age/>)
+[Core dump epidemiology: fixing an 18-year-old bugEngineeringJun 30, 2026](</index/core-dump-epidemiology-data-infrastructure-bug/>)
 
 Research
 
@@ -208,6 +221,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 

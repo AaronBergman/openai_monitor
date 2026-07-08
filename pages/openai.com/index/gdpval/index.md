@@ -26,19 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-What GDPval measures
-
-  * What GDPval measures
-  * How we chose occupations
-  * How we built the dataset
-  * How we grade model performance
-  * Early results
-  * The future of work and AI 
-  * Limitations and what’s next
-  * Get involved
-
-
-
 September 25, 2025
 
 [Publication](</research/index/publication/>)[Research](</news/research/>)
@@ -50,6 +37,48 @@ We’re introducing GDPval, a new evaluation that measures model performance on 
 [Read the paper(opens in a new window)](<https://arxiv.org/abs/2510.04374>)[Visit evals.openai.com(opens in a new window)](<https://evals.openai.com>)
 
 Share
+
+What GDPval measures
+
+  * What GDPval measures
+
+  * How we chose occupations
+
+  * How we built the dataset
+
+  * How we grade model performance
+
+  * Early results
+
+  * The future of work and AI 
+
+  * Limitations and what’s next
+
+  * Get involved
+
+
+
+
+Table of contents
+
+  * What GDPval measures
+
+  * How we chose occupations
+
+  * How we built the dataset
+
+  * How we grade model performance
+
+  * Early results
+
+  * The future of work and AI 
+
+  * Limitations and what’s next
+
+  * Get involved
+
+
+
 
 Our mission is to ensure that artificial general intelligence benefits all of humanity. As part of our mission, we want to transparently communicate progress on how AI models can help people in the real world. That’s why we’re introducing GDPval: a new evaluation designed to help us track how well our models and others perform on economically valuable, real-world tasks. We call this evaluation GDPval because we started with the concept of Gross Domestic Product (GDP) as a key economic indicator and drew tasks from the key occupations in the industries that contribute most to GDP.
 
@@ -288,19 +317,17 @@ OpenAI
 
 [View all](</news/>)
 
-![Art Card 1080x1080 \(3\)](https://images.ctfassets.net/kftzwdyauwt9/3JLNH7ejJFnxLmX2LpzoKD/19f9e3c4d36cc9d677ba88e842ad2db2/Art_Card_1080x1080__4_.png?w=3840&q=90&fm=webp)
+![Introducing GeneBench-Pro > Cover image](https://images.ctfassets.net/kftzwdyauwt9/7sbJaKBi5qLXAqbewh72aK/93197556e903eac9df6f077eb12b7581/GenebenchPro_Blog_ArtCard.png?w=3840&q=90&fm=webp)
 
-Better memory for a more helpful ChatGPT
+[Introducing GeneBench-ProResearchJun 30, 2026](</index/introducing-genebench-pro/>)
 
-[Dreaming: Better memory for a more helpful ChatGPTResearchJun 4, 2026](</index/chatgpt-memory-dreaming/>)
+![A near-autonomous AI chemist improves a challenging reaction](https://images.ctfassets.net/kftzwdyauwt9/QgPPg4etNE5C4Ao0G94sk/e5f2a50e5de4619d0e0fe8483698718b/molecule-one-art-card.png?w=3840&q=90&fm=webp)
 
-![Rosalind5.5 ArtCard](https://images.ctfassets.net/kftzwdyauwt9/6USIQM1B7TggUvvTFxxwoi/0176ac6633c8bdc24641d25d1d2db824/GPT-Rosalind_ArtCard.png?w=3840&q=90&fm=webp)
+[A near-autonomous AI chemist improves a challenging reaction in medicinal chemistryResearchJun 17, 2026](</index/ai-chemist-improves-reaction/>)
 
-[Introducing new capabilities to GPT-RosalindProductJun 3, 2026](</index/introducing-new-capabilities-to-gpt-rosalind/>)
+![LifeSciBench 1x1](https://images.ctfassets.net/kftzwdyauwt9/1iV0eZRf28MZRvIxYY4eLf/4379e20807f5ff44efccf518a97e480a/LifeSciBench_1x1.png?w=3840&q=90&fm=webp)
 
-![1x1](https://images.ctfassets.net/kftzwdyauwt9/6ui4uYfTTbR4xbiFRcqEfo/81d973f14bea720820f692271f6c6834/square.png?w=3840&q=90&fm=webp)
-
-[Strengthening societal resilience with Rosalind BiodefenseProductMay 29, 2026](</index/strengthening-societal-resilience-with-rosalind-biodefense/>)
+[Introducing LifeSciBenchResearchJun 17, 2026](</index/introducing-life-sci-bench/>)
 
 Research
 
@@ -351,6 +378,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
