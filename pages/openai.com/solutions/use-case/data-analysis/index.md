@@ -1,28 +1,28 @@
 Skip to main content
 
-[](</>)
+[](</>)[](</business/>)
 
-  * [Research](</research/index/>)
+  * Why OpenAI
   * Products
-  * [Business](</business/>)
-  * [Developers](</api/>)
-  * [Company](</about/>)
-  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
+  * Solutions
+  * Resources
+  * [Customers](</business/customer-stories/>)
+  * [Pricing](</business/pricing/>)
 
 
 
-[Try now(opens in a new window)](<https://chatgpt.com/team-sign-up>)[Contact sales](</contact-sales/>)
+Try OpenAI[Contact sales](</contact-sales/>)
 
-  * Research
+  * Why OpenAI
   * Products
-  * Business
-  * Developers
-  * Company
-  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
+  * Solutions
+  * Resources
+  * [Customers](</business/customer-stories/>)
+  * [Pricing](</business/pricing/>)
 
 
 
-[Contact sales](</contact-sales/>)
+[Contact sales](</contact-sales/>)Try OpenAI
 
 OpenAI
 
@@ -115,11 +115,9 @@ Your organization’s data is never used to improve our models. It’s protected
 
 [Endex builds the future of financial analysisFeb 27, 2025](</index/endex/>)
 
-![\[2.0\] Card > Media > BBVA](https://images.ctfassets.net/kftzwdyauwt9/68CWIJNeDPYLc9UFRsaiLY/724c0a211983b43bd989af3d9d814300/oai_BBVA_1_1.png?w=3840&q=90&fm=webp)
+[BBVA puts AI in the hands of every team with OpenAI](<>)
 
-[BBVA puts AI in the hands of every team with OpenAINov 21, 2024](</index/bbva/>)
-
-![Paradigm Cover](https://images.ctfassets.net/kftzwdyauwt9/cf6137b5-e774-4a99-04d7fd2a1df5/957e95efcde59fd30d875737b00c052a/oai_paradigm-health_1_1.png?w=3840&q=90&fm=webp)
+![White Paradigm logo on a blue background](https://images.ctfassets.net/kftzwdyauwt9/cf6137b5-e774-4a99-04d7fd2a1df5/957e95efcde59fd30d875737b00c052a/oai_paradigm-health_1_1.png?w=3840&q=90&fm=webp)
 
 [Evaluating hundreds of patients per minuteMar 6, 2024](</index/paradigm/>)
 
@@ -186,6 +184,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 

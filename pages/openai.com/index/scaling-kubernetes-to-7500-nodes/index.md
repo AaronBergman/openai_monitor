@@ -41,28 +41,68 @@ Share
 Our workload
 
   * Our workload
+
   * Networking
+
   * API servers
+
   * Time-series metrics with Prometheus and Grafana
+
   * Healthchecks
+
+    * Passive healthchecks
+
+    * Active GPU tests
+
   * Quotas & resource usage
+
+    * Team taints
+
+    * CPU & GPU balloons
+
   * Gang scheduling
+
   * Unsolved problems
+
+    * Metrics
+
+    * Pod network traffic shaping
+
   * Conclusions
 
 
 
-Table of contents
 
   * Our workload
+
   * Networking
+
   * API servers
+
   * Time-series metrics with Prometheus and Grafana
+
   * Healthchecks
+
+    * Passive healthchecks
+
+    * Active GPU tests
+
   * Quotas & resource usage
+
+    * Team taints
+
+    * CPU & GPU balloons
+
   * Gang scheduling
+
   * Unsolved problems
+
+    * Metrics
+
+    * Pod network traffic shaping
+
   * Conclusions
+
 
 
 
@@ -343,6 +383,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 

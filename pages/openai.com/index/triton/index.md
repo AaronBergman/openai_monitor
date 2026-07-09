@@ -43,22 +43,32 @@ Share
 The challenges of GPU programming
 
   * The challenges of GPU programming
+
   * Programming model
+
   * Matrix multiplication
+
   * High-level system architecture
+
   * Compiler backend
+
   * Contributing
 
 
 
-Table of contents
 
   * The challenges of GPU programming
+
   * Programming model
+
   * Matrix multiplication
+
   * High-level system architecture
+
   * Compiler backend
+
   * Contributing
+
 
 
 
@@ -623,6 +633,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 

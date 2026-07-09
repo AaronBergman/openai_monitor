@@ -41,22 +41,32 @@ Share
 No parallelism
 
   * No parallelism
+
   * Data parallelism
+
   * Pipeline parallelism
+
   * Tensor parallelism
+
   * Mixture-of-Experts (MoE)
+
   * Other memory saving designs
 
 
 
-Table of contents
 
   * No parallelism
+
   * Data parallelism
+
   * Pipeline parallelism
+
   * Tensor parallelism
+
   * Mixture-of-Experts (MoE)
+
   * Other memory saving designs
+
 
 
 
@@ -214,6 +224,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 

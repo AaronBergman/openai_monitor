@@ -57,8 +57,6 @@ Overview of the day
 
 
 
-Table of contents
-
   * Overview of the day
 
     * Audience game

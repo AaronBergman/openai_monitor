@@ -43,18 +43,24 @@ Share
 Optimized for STEM Reasoning
 
   * Optimized for STEM Reasoning
+
   * Model Speed
+
   * Safety
+
   * Limitations and What’s Next
 
 
 
-Table of contents
 
   * Optimized for STEM Reasoning
+
   * Model Speed
+
   * Safety
+
   * Limitations and What’s Next
+
 
 
 
@@ -200,6 +206,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 

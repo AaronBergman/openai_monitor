@@ -43,30 +43,48 @@ Share
 The problem
 
   * The problem
+
   * Our approach
+
   * Model structure
+
   * Exploration
+
   * Coordination
+
   * Rapid
+
   * The games
+
   * Differences versus humans
+
   * Surprising findings
+
   * What’s next
 
 
 
-Table of contents
 
   * The problem
+
   * Our approach
+
   * Model structure
+
   * Exploration
+
   * Coordination
+
   * Rapid
+
   * The games
+
   * Differences versus humans
+
   * Surprising findings
+
   * What’s next
+
 
 
 
@@ -313,6 +331,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 

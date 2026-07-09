@@ -1,28 +1,28 @@
 Skip to main content
 
-[](</>)
+[](</>)[](</business/>)
 
-  * [Research](</research/index/>)
+  * Why OpenAI
   * Products
-  * [Business](</business/>)
-  * [Developers](</api/>)
-  * [Company](</about/>)
-  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
+  * Solutions
+  * Resources
+  * [Customers](</business/customer-stories/>)
+  * [Pricing](</business/pricing/>)
 
 
 
-[Try now(opens in a new window)](<https://chatgpt.com/team-sign-up>)[Contact sales](</contact-sales/>)
+Try OpenAI[Contact sales](</contact-sales/>)
 
-  * Research
+  * Why OpenAI
   * Products
-  * Business
-  * Developers
-  * Company
-  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
+  * Solutions
+  * Resources
+  * [Customers](</business/customer-stories/>)
+  * [Pricing](</business/pricing/>)
 
 
 
-[Contact sales](</contact-sales/>)
+[Contact sales](</contact-sales/>)Try OpenAI
 
 OpenAI
 
@@ -113,7 +113,7 @@ Your organization’s data is never used to improve our models. It’s protected
 
 ## Learn from companies driving change
 
-![oai deep-research bain](https://images.ctfassets.net/kftzwdyauwt9/5tCYZqzCTYSDtYiIjx61FJ/2369d97a94e3777fa6405838b739b585/oai_deep-research_bain.png?w=3840&q=90&fm=webp)
+![Reem Anchassi uses OpenAI deep research](https://images.ctfassets.net/kftzwdyauwt9/5tCYZqzCTYSDtYiIjx61FJ/2369d97a94e3777fa6405838b739b585/oai_deep-research_bain.png?w=3840&q=90&fm=webp)
 
 [How Bain uses GPT‑5 to scale consulting researchChatGPTFeb 2, 2025](</index/deep-research/>)
 
@@ -188,6 +188,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 

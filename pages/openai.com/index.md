@@ -26,6 +26,16 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
+![](https://images.ctfassets.net/kftzwdyauwt9/5eQ11zErjtYQomArKQcO3z/1a2c82b1789525e78340543279e41227/OAI_BiDi_HomepageTakeover_Wide_03_Generic_poster_edges_removed.jpg?w=3840&q=50&fm=webp)
+
+# Introducing GPT-Live
+
+A new generation of voice models for natural human-AI interaction, now powering ChatGPT Voice.
+
+[Read the blog](</index/introducing-gpt-live/>)
+
+Close
+
 What can I help with?
 
 Message ChatGPT

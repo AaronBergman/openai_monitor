@@ -43,18 +43,40 @@ Share
 The use case
 
   * The use case
+
   * An example
+
   * Infrastructure
+
+    * Software
+
+    * Hardware
+
+    * Provisioning
+
+    * Orchestration
+
   * kubernetes-ec2-autoscaler
 
 
 
-Table of contents
 
   * The use case
+
   * An example
+
   * Infrastructure
+
+    * Software
+
+    * Hardware
+
+    * Provisioning
+
+    * Orchestration
+
   * kubernetes-ec2-autoscaler
+
 
 
 
@@ -248,6 +270,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 

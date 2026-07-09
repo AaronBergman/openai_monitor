@@ -45,16 +45,20 @@ Share
 Sample and computational efficiency
 
   * Sample and computational efficiency
+
   * Baseline and benchmarks
+
   * A2C and A3C
 
 
 
-Table of contents
 
   * Sample and computational efficiency
+
   * Baseline and benchmarks
+
   * A2C and A3C
+
 
 
 
@@ -188,6 +192,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 

@@ -41,20 +41,28 @@ Share
 etcd
 
   * etcd
+
   * Kube masters
+
   * Docker image pulls
+
   * Networking
+
   * ARP cache
 
 
 
-Table of contents
 
   * etcd
+
   * Kube masters
+
   * Docker image pulls
+
   * Networking
+
   * ARP cache
+
 
 
 
@@ -329,6 +337,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 

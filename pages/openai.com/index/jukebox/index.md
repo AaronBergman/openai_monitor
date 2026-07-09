@@ -45,20 +45,48 @@ Share
 Curated samples
 
   * Curated samples
+
   * Motivation and prior work
+
   * Approach
+
+    * Compressing music to discrete codes
+
+    * Generating codes using transformers
+
+    * Dataset
+
+    * Artist and genre conditioning
+
+    * Lyrics conditioning
+
   * Limitations
+
   * Future directions
 
 
 
-Table of contents
 
   * Curated samples
+
   * Motivation and prior work
+
   * Approach
+
+    * Compressing music to discrete codes
+
+    * Generating codes using transformers
+
+    * Dataset
+
+    * Artist and genre conditioning
+
+    * Lyrics conditioning
+
   * Limitations
+
   * Future directions
+
 
 
 
@@ -413,6 +441,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 

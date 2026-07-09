@@ -4,6 +4,46 @@ A daily log of every change to OpenAI's public website — what appeared, what d
 
 ---
 
+## 2026-07-09 — Run `2026-07-09T09-15Z`
+
+**Fetch time:** 2026-07-09T09:16:52Z
+**Baseline:** 2026-07-08T09-15Z
+**Stats:** 1391 total URLs | +5 added | 138 updated | 1 removed | 0 anomalies | 34 sub-sitemaps
+
+**TL;DR:** OpenAI launched **GPT-Live**, a new full-duplex voice model family that now powers ChatGPT Voice (it can listen and talk at once instead of waiting its turn, and hands off deeper reasoning/search work to GPT-5.5 in the background), with a homepage takeover to match and an API waitlist form for developers. Alongside it: a new public "National Security Principles" policy document covering government/defense partnerships, a K-12 educator AI-training program with the Walton Family Foundation, a research post auditing the popular SWE-Bench Pro coding benchmark and finding ~30% of its tasks are broken, and a batch of new release-notes entries (GPT-Realtime-2.1, GPT-5.5 Instant Mini fallback, ChatGPT for PowerPoint GA). One old signup form ("OpenAI for Science") was removed. No anomalies.
+
+### New pages
+
+- **[Introducing GPT-Live](pages/openai.com/index/introducing-gpt-live/index.md)** — new full-duplex voice models (GPT-Live-1 and GPT-Live-1 mini) now powering ChatGPT Voice globally on iOS/Android/web. Unlike older "cascaded" (separate speech-to-text → LLM → text-to-speech) or "turn-based" voice systems, GPT-Live processes and generates audio continuously, so it can interject with "mhmm," stay quiet, or hand off to GPT-5.5 for search/reasoning without breaking the conversational flow. Reports gains over Advanced Voice Mode on GPQA, BrowseComp, and an internal telecom-support eval. New voice-specific safety testing (self-harm, psychosis, emotional reliance, teen protections). No video/screen-share support yet.
+- **[gpt-live-1-in-the-api sign-up form](pages/openai.com/form/gpt-live-1-in-the-api/index.md)** — waitlist for developers/enterprises wanting GPT-Live in the API ("coming soon").
+- **[Our approach to government and national security partnerships](pages/openai.com/index/government-national-security-partnerships/index.md)** — publishes OpenAI's "National Security Principles," developed with outside expert David Kris. Discloses existing cyber-defense "Trusted Access" partnerships (Australia, Canada, Japan, South Korea, France, Germany, Poland, Netherlands, EU's ENISA) under the "Daybreak" program, reaffirms contractual limits on its Department of War deal (no mass domestic surveillance, no autonomous-weapons direction, no high-stakes automated decisions), and calls for legislation on high-risk military AI uses.
+- **[Helping K–12 educators build practical AI skills](pages/openai.com/index/k-12-educators-practical-skills/index.md)** — OpenAI Academy + Walton Family Foundation "AI Skills Jam," 1,600+ teachers/administrators across US cities this summer.
+- **[Separating signal from noise in coding evaluations](pages/openai.com/index/separating-signal-from-noise-coding-evaluations/index.md)** — OpenAI audit of the SWE-Bench Pro coding benchmark estimates **~30% of its tasks are broken**, based on human-supervised agent review plus a human annotation campaign — notable public criticism of a widely-used third-party benchmark.
+
+### Notable updates
+
+- **[Release notes](pages/openai.com/products/release-notes/index.md)** — new Jul 6 entries: GPT-Realtime-2.1 / mini (updated realtime voice models), GPT-5.5 Instant Mini becomes the ChatGPT rate-limit fallback model, ChatGPT for PowerPoint reaches GA for Business (free through Aug 6, then token-based pricing), Workspace Agent runs move to token-based credit pricing, ChatGPT for iOS gains Codex task management.
+- **[Business customer stories](pages/openai.com/business/customer-stories/index.md)** — two case studies newly surfaced in the listing: Australian Payments Plus and MUFG (both dated Jul 7; the underlying pages were already known from prior runs).
+- **Homepage** — new hero takeover banner promoting GPT-Live.
+- **Business-section nav still unsettled.** Four `/business/apps/<vendor>/` pages flipped their top nav today in *both* directions: `hubspot` and `ramp` gained the business-specific nav ("Why OpenAI / Solutions / Resources / Customers / Pricing" + "Try OpenAI" CTA) that ~60 other app pages already have, while `fireflies` and `lseg` lost it, reverting to the older global site nav. Reads as an unfinished/unstable rollout rather than a one-way migration. The same business nav also newly appeared on several `/business/*` and `/solutions/use-case/*` pages (marketing-teams, solutions/data/design/engineering/finance/sales, use-case/agents/coding/content-creation/data-analysis/research, industries/retail), extending the redesign flagged in earlier runs further into the Solutions section.
+
+### Sub-sitemap migration
+
+4 URLs moved from `sitemap.xml/global-affairs/` to `sitemap.xml/global-affairs-news-listed/` (no content change, just a listing recategorization): `/global-affairs/new-economic-analysis/`, `/index/equipping-workers-with-insights-about-compensation/`, `/index/how-countries-can-end-the-capability-overhang/`, `/index/understanding-ai-and-learning-outcomes/`.
+
+### Routine updates
+
+Sitewide footer rollout (adds "Customer Stories" / "Partner Network" links) reached dozens more pages, mostly the legacy 2016–2018 research archive (Whisper, Jukebox, DALL-E 2, Dota 2/OpenAI Five, Gym, Roboschool, Triton, consistency models, etc.) plus several `/research/index/*` hub pages — no other change. A dozen more pages (`mapping-ai-jobs-transition-eu`, `gdpval`, `openai-for-healthcare`, `previewing-gpt-5-6-sol`, `cisco`, `boston-childrens-hospital`, `notion`, the `/news/*` and `/research/index/*` listing pages) only rotated their "keep reading" carousel to surface today's new articles. 69 `/business/apps/*` pages got a fresh `<lastmod>` with zero detectable content change — a scheduled CMS republish, not real edits.
+
+### Removal
+
+**`/form/openai-for-science/`** — the "Get involved with OpenAI for Science" signup form was removed from the sitemap (first seen 2026-05-07). No other `/science/`-related page was affected.
+
+Full analysis: [runs/2026-07-09T09-15Z/analysis.md](runs/2026-07-09T09-15Z/analysis.md)
+
+---
+*Stats: 1,391 total URLs | +5 added | 138 updated (69 with visible content change) | -1 removed | 0 anomalies | 34 sub-sitemaps*
+
 ## 2026-07-08 — Run `2026-07-08T09-15Z`
 
 **Fetch time:** 2026-07-08T09:16:23Z

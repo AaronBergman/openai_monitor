@@ -1,28 +1,28 @@
 Skip to main content
 
-[](</>)
+[](</>)[](</business/>)
 
-  * [Research](</research/index/>)
+  * Why OpenAI
   * Products
-  * [Business](</business/>)
-  * [Developers](</api/>)
-  * [Company](</about/>)
-  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
+  * Solutions
+  * Resources
+  * [Customers](</business/customer-stories/>)
+  * [Pricing](</business/pricing/>)
 
 
 
-[Try now(opens in a new window)](<https://chatgpt.com/team-sign-up>)[Contact sales](</contact-sales/>)
+Try OpenAI[Contact sales](</contact-sales/>)
 
-  * Research
+  * Why OpenAI
   * Products
-  * Business
-  * Developers
-  * Company
-  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
+  * Solutions
+  * Resources
+  * [Customers](</business/customer-stories/>)
+  * [Pricing](</business/pricing/>)
 
 
 
-[Contact sales](</contact-sales/>)
+[Contact sales](</contact-sales/>)Try OpenAI
 
 OpenAI
 
@@ -115,11 +115,11 @@ Your organization’s data is never used to improve our models. It’s protected
 
 [Figma uses AI to transform digital designAug 1, 2025](</index/figma-david-kossnick/>)
 
-![Invideo > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/3ENpuoD5KB8oejWnO6md1b/52f63a73ffd0928cc87b5e072205221c/oai_invideo_1x1.png?w=3840&q=90&fm=webp)
+![Invideo logo in white centered on a dark square background with colorful blue, pink, and red light streaks.](https://images.ctfassets.net/kftzwdyauwt9/3ENpuoD5KB8oejWnO6md1b/52f63a73ffd0928cc87b5e072205221c/oai_invideo_1x1.png?w=3840&q=90&fm=webp)
 
 [Invideo AI uses OpenAI models to create videos 10X fasterJul 17, 2025](</index/invideo-ai/>)
 
-![\[2.0\] Card > Media > Morgan Stanley](https://images.ctfassets.net/kftzwdyauwt9/5mCz669MifU0i9wCvVpIq1/7c67daad163769492a70a186fd606feb/oai_morganstanley_1_1.png?w=3840&q=90&fm=webp)
+![Morgan Stanley logo in white, displayed over a sleek blue-toned reflective surface with smooth, intersecting edges.](https://images.ctfassets.net/kftzwdyauwt9/5mCz669MifU0i9wCvVpIq1/7c67daad163769492a70a186fd606feb/oai_morganstanley_1_1.png?w=3840&q=90&fm=webp)
 
 [Morgan Stanley uses AI evals to shape the future of financial servicesDec 4, 2024](</index/morgan-stanley/>)
 
@@ -186,6 +186,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 

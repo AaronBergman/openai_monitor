@@ -55,8 +55,6 @@ ChatGPT for Healthcare
 
 
 
-Table of contents
-
   * ChatGPT for Healthcare
 
   * Early hospital partners
@@ -159,6 +157,10 @@ OpenAI
 
 [View all](</news/>)
 
+![Art Card 1 1](https://images.ctfassets.net/kftzwdyauwt9/4vJ1lSvYeKz0zM4RVCKwIC/855f7e54052d8a7635e4bf45adf41737/Art_Card_1_1.png?w=3840&q=90&fm=webp)
+
+[Introducing GPT-LiveProductJul 8, 2026](</index/introducing-gpt-live/>)
+
 ![HP early AI wins — card image](https://images.ctfassets.net/kftzwdyauwt9/6phCuFzVSdCdVCh6YqXMa6/a4207917b5d7a43179a61f5de012168d/HP-1_1.png?w=3840&q=90&fm=webp)
 
 [How HP is scaling early AI wins across the enterpriseCompanyJun 28, 2026](</index/hp-frontier-partnership/>)
@@ -166,10 +168,6 @@ OpenAI
 ![Art Card 1x1](https://images.ctfassets.net/kftzwdyauwt9/687HyyF4C0A2OsktQGlTZJ/1ca5b061daa5e22fd338e9910292dac5/blog_1x1.png?w=3840&q=90&fm=webp)
 
 [Previewing GPT-5.6 Sol: a next-generation modelProductJun 26, 2026](</index/previewing-gpt-5-6-sol/>)
-
-![How agents are transforming work > Cover image](https://images.ctfassets.net/kftzwdyauwt9/7hmtkjKv0DxS4Yt8mQZju2/c168bfa2010da64bcc9dd60d6b5491e8/Art_Card__1_.png?w=3840&q=90&fm=webp)
-
-[How agents are transforming workCompanyJun 25, 2026](</index/how-agents-are-transforming-work/>)
 
 Research
 

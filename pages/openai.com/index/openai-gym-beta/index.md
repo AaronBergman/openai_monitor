@@ -43,18 +43,24 @@ Share
 Getting started
 
   * Getting started
+
   * Why RL?
+
   * The environments
+
   * Evaluations
 
 
 
-Table of contents
 
   * Getting started
+
   * Why RL?
+
   * The environments
+
   * Evaluations
+
 
 
 
@@ -194,6 +200,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 

@@ -57,8 +57,6 @@ Why Dota?
 
 
 
-Table of contents
-
   * Why Dota?
 
   * Compute

@@ -41,14 +41,16 @@ Share
 Integration tool
 
   * Integration tool
+
   * Reward farming
 
 
 
-Table of contents
 
   * Integration tool
+
   * Reward farming
+
 
 
 
@@ -161,6 +163,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 

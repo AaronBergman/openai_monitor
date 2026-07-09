@@ -45,18 +45,24 @@ Share
 Batched simulation
 
   * Batched simulation
+
   * High performance texture randomization
+
   * Virtual Reality with mujoco-py
+
   * API and usage
 
 
 
-Table of contents
 
   * Batched simulation
+
   * High performance texture randomization
+
   * Virtual Reality with mujoco-py
+
   * API and usage
+
 
 
 
@@ -208,6 +214,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
