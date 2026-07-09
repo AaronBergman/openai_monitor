@@ -43,14 +43,16 @@ Share
 Patterns in the gradient noise scale
 
   * Patterns in the gradient noise scale
+
   * Implications
 
 
 
-Table of contents
 
   * Patterns in the gradient noise scale
+
   * Implications
+
 
 
 
@@ -194,6 +196,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 

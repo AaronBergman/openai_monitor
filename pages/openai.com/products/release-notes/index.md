@@ -41,88 +41,97 @@ Filter
 
 Sort
 
-Codex
+API
 
-Jun 25, 2026
+Jul 6, 2026
 
 GA
 
-## Codex Remote GA and DigitalOcean plugin
+## GPT-Realtime-2.1 and GPT-Realtime-2.1 mini for realtime voice applications
 
-Codex Remote is now generally available on all ChatGPT plans. From the ChatGPT mobile app, users can start or continue work on a connected Mac or Windows host, review progress, and approve actions from their phone. Remote Control now uses authenticated one-to-one QR pairing between each supported mobile device and each host. Connections used since June 8 remain paired; older inactive connections need to pair again. Signing out turns off Remote Control without removing existing pairings.  
-The new DigitalOcean Droplet Workspace plugin lets Codex provision a DigitalOcean Droplet, configure SSH access, and connect it to the Codex app as a remote workspace. Users should update the ChatGPT mobile app and Codex app to the latest versions before connecting.
+Released GPT‑Realtime‑2.1, an updated realtime reasoning model with improved alphanumeric recognition, silence and noise handling, and interruption behavior. Also released GPT‑Realtime‑2.1 mini, a faster, lower-cost distilled reasoning model for realtime voice applications.
 
-[View source(opens in a new window)](<https://help.openai.com/en/articles/6825453-chatgpt-release-notes#codex-remote-ga-and-digitalocean-plugin>)[ChatGPT(opens in a new window)](<https://chatgpt.com/g/g-689201e43a00819187056f4182373d62-digitalocean-droplet-workspace>)[Platform docs(opens in a new window)](<https://developers.openai.com/codex/docs/remote-connections>)
+[View source(opens in a new window)](<https://developers.openai.com/api/docs/models/gpt-realtime-2.1>)[Platform docs(opens in a new window)](<https://developers.openai.com/api/docs/models/gpt-realtime-2.1-mini>)
 
 ChatGPT
 
-Jun 25, 2026
+Jul 6, 2026
 
 GA
 
-## Memory improvements for ChatGPT Business
+## GPT-5.5 Instant Mini in ChatGPT
 
-We’re rolling out improved memory for ChatGPT Business. When memory is enabled, ChatGPT can use relevant context from past chats to keep memory current and make responses more relevant as work changes, rather than relying only on details saved manually.
+We’re rolling out GPT‑5.5 Instant Mini in ChatGPT. It replaces GPT‑5.3 Instant Mini as the fallback model users reach after hitting their GPT‑5.5 Instant or Auto rate limits. Because it serves as a fallback, it won’t appear in the model picker. This update does not affect the API or Codex.
 
-Users can now:
+Compared with GPT‑5.3 Instant Mini, GPT‑5.5 Instant Mini better tracks evolving user intent, calibrates tone, and avoids repetitive or overly structured responses. Testing also showed stronger personalization and fewer factual issues.
 
-\- Review a memory summary showing information ChatGPT may use to personalize responses.  
-\- View Sources below personalized responses to see relevant context from memories, past chats, and custom instructions.  
-\- Correct memory, delete a referenced chat, mark a source as not relevant, turn memory off, or return to legacy Saved memories.
-
-The memory summary is a high-level view of relevant context and may not include everything ChatGPT can remember or reference.  
-This update does not affect Codex memory. Project-only memory remains contained within each project and does not use memories or conversations from outside that project. These improvements are available at no additional cost.
-
-[View source(opens in a new window)](<https://help.openai.com/en/articles/11391654-chatgpt-business-release-notes#memory-improvements-for-chatgpt-business>)[Blog(opens in a new window)](<https://research.openai.com>)
-
-Codex
-
-Jun 25, 2026
-
-GA
-
-## Codex Remote GA and DigitalOcean plugin for Business
-
-Codex Remote is now generally available to users in ChatGPT Business workspaces. From the ChatGPT mobile app, users can start or continue work on a connected Mac or Windows host, review progress, and approve actions from their phone. Remote Control now uses authenticated one-to-one QR pairing between each supported mobile device and each host. Connections used since June 8 remain paired; older inactive connections need to pair again. Signing out turns off Remote Control without removing existing pairings.  
-The new DigitalOcean Droplet Workspace plugin is also available to ChatGPT Business users. It lets Codex provision a DigitalOcean Droplet, configure SSH access, and connect it to the Codex app as a remote workspace. Users should update the ChatGPT mobile app and Codex app to the latest versions before connecting.
-
-[View source(opens in a new window)](<https://help.openai.com/en/articles/11391654-chatgpt-business-release-notes#codex-remote-ga-and-digitalocean-plugin>)[ChatGPT(opens in a new window)](<https://chatgpt.com/g/g-689201e43a00819187056f4182373d62-digitalocean-droplet-workspace>)[Platform docs(opens in a new window)](<https://developers.openai.com/codex/docs/remote-connections>)
+[View source(opens in a new window)](<https://help.openai.com/en/articles/6825453-chatgpt-release-notes#gpt-55-instant-mini-in-chatgpt>)
 
 ChatGPT
 
-Jun 25, 2026
+Jul 6, 2026
 
 GA
 
-## Memory improvements for ChatGPT Enterprise and Edu
+## ChatGPT for PowerPoint GA and workspace agent pricing update
 
-We’re rolling out improved memory for ChatGPT Enterprise and Edu. When memory is enabled, ChatGPT can use relevant context from past chats to keep memory current and make responses more relevant as work changes, rather than relying only on details saved manually.
+ChatGPT Business: ChatGPT for PowerPoint is now generally available for Business workspaces. Teams can create and revise editable presentations directly in Microsoft PowerPoint, ask questions about deck structure and narrative, and use Skills and enabled apps to build slides from repeatable workflows and connected sources. Advanced edits and template matching may still require review. Workspace admins can enable ChatGPT for PowerPoint and control access to supported apps. Business usage remains free through August 6, 2026. After that, usage follows the flexible-pricing model and draws from the workspace credit pool after included usage.
 
-Users can now:
+As of July 6, 2026, Workspace Agent runs now use token-based pricing, with credit use based on input tokens, cached input tokens, and output tokens. Business plans include usage for ChatGPT Workspace Agents, ChatGPT for Excel, and ChatGPT for PowerPoint through the general Codex agentic usage pool as pricing takes effect for each feature. Flexible pricing can extend included limits.
 
-\- Review a memory summary showing information ChatGPT may use to personalize responses.  
-\- View Sources below personalized responses to see relevant context from memories, past chats, and custom instructions.  
-\- Correct memory, delete a referenced chat, mark a source as not relevant, turn memory off, or return to legacy Saved memories.
+ChatGPT Enterprise/Edu: ChatGPT for Excel/Sheets tasks now use token-based credit pricing for Enterprise and Edu workspaces. Workspace Agent runs also use token-based credit pricing for Enterprise workspaces. Credit use is based on input tokens, cached input tokens, and output tokens rather than a fixed credit cost.
 
-The memory summary is a high-level view of relevant context and may not include everything ChatGPT can remember or reference.  
-For ChatGPT Enterprise, the improved experience will begin with an early access period of approximately two weeks. During early access, admins can turn on Use improved memory in Workspace settings. After early access, it will turn on by default for eligible workspaces unless an admin opts out. Admins and users can switch back to legacy Saved memories.  
-This update does not affect Codex memory. Project-only memory remains contained within each project and does not use memories or conversations from outside that project. These improvements are available at no additional cost.
+ChatGPT for PowerPoint remains free for Enterprise customers through August 6, 2026. Charging starts after that date under the same token-based pricing model as ChatGPT for Excel/Sheets.
 
-[View source(opens in a new window)](<https://help.openai.com/en/articles/10128477-chatgpt-enterprise-edu-release-notes#memory-improvements-for-chatgpt-enterprise-and-edu>)[Blog(opens in a new window)](<https://research.openai.com>)
+[View source(opens in a new window)](<https://help.openai.com/en/articles/11391654-chatgpt-business-release-notes#chatgpt-for-powerpoint-is-now-generally-available>)[Help center(opens in a new window)](<https://help.openai.com/en/articles/10128477-chatgpt-enterprise-edu-release-notes#update-excelsheets-and-workspace-agent-pricing>)[Help center(opens in a new window)](<https://help.openai.com/en/articles/11481834-chatgpt-rate-card-business-enterpriseedu>)
 
 Codex
 
-Jun 25, 2026
+Jul 6, 2026
 
 GA
 
-## Codex Remote GA and DigitalOcean workspaces for Enterprise and Edu
+## ChatGPT for iOS updates: Codex task management, diff controls, attachments, and fixes
 
-Codex Remote is now generally available to users in ChatGPT Enterprise and Edu workspaces. From the ChatGPT mobile app, users can start or continue work on a connected Mac or Windows host, review progress, and approve actions from their phone. Remote Control now uses authenticated one-to-one QR pairing between each supported mobile device and each host. Connections used since June 8 remain paired; older inactive connections need to pair again.  
-Signing out turns off Remote Control without removing existing pairings.  
-The new DigitalOcean Droplet Workspace plugin is also available to ChatGPT Enterprise and Edu users. It lets Codex provision a DigitalOcean Droplet, configure SSH access, and connect it to the Codex app as a remote workspace. Users should update the ChatGPT mobile app and Codex app to the latest versions before connecting.
+New features
 
-[View source(opens in a new window)](<https://help.openai.com/en/articles/10128477-chatgpt-enterprise-edu-release-notes#codex-remote-ga-and-digitalocean-workspaces>)[ChatGPT(opens in a new window)](<https://chatgpt.com/g/g-689201e43a00819187056f4182373d62-digitalocean-droplet-workspace>)[Platform docs(opens in a new window)](<https://developers.openai.com/codex/docs/remote-connections>)
+\- Added support for creating, searching, opening, forking, and managing Codex tasks directly from a conversation.  
+\- Added filters for staged, unstaged, branch, and last-turn changes, with controls for comparing branches.  
+\- Added support for adding selected transcript text directly to the composer.  
+\- Added previews for image and file attachments before sending.  
+\- Added inline Photos and Camera pickers to the attachment menu.  
+\- Added a connection shortcut and support for SSH hosts using private keys or no credentials.  
+\- Added usage limits and credit details to the task menu.
+
+Improvements and bug fixes
+
+\- Improved the task list with consistent task terminology, clearer delegated task titles, and a Needs input status.  
+\- Improved initial task loading and foreground recovery.  
+\- Improved autocomplete by selecting the first result automatically and accepting it with Return.  
+\- Improved model, reasoning, and Fast settings so changes remain scoped to the current task.  
+\- Improved task-management and dynamic tool activity presentation.  
+\- Improved side chats to open directly when only one conversation is available.  
+\- Improved plugin autocomplete with installed plugins and their icons.  
+\- Improved workspace diff accuracy and expand-and-collapse navigation.  
+\- Improved recovery by preserving thread state across reconnects and host pairings across sign-out.  
+\- Fixed stuck thread-list loading, prompt mode deadlocks, stale images, and microphone permission alerts.  
+\- Fixed shake to undo and keyboard refocusing after sending a prompt.
+
+[View source(opens in a new window)](<https://developers.openai.com/codex/changelog#codex-2026-07-06-mobile>)
+
+ChatGPT
+
+Jun 26, 2026
+
+GA
+
+## Personal finance in ChatGPT expands to Plus users and Android
+
+The personal finance experience in ChatGPT is rolling out to Plus users in the U.S. on web and iOS. It is also now available on Android for Pro and Plus users in the U.S.
+
+Eligible users can securely connect supported financial accounts, view a dashboard of their finances, and ask ChatGPT questions grounded in their financial context
+
+[View source(opens in a new window)](<https://help.openai.com/en/articles/6825453-chatgpt-release-notes#personal-finance-in-chatgpt-expands-to-plus-users-and-android>)
 
 Load more
 

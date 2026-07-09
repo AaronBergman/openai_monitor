@@ -1,28 +1,28 @@
 Skip to main content
 
-[](</>)
+[](</>)[](</business/>)
 
-  * [Research](</research/index/>)
+  * Why OpenAI
   * Products
-  * [Business](</business/>)
-  * [Developers](</api/>)
-  * [Company](</about/>)
-  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
+  * Solutions
+  * Resources
+  * [Customers](</business/customer-stories/>)
+  * [Pricing](</business/pricing/>)
 
 
 
-[Try now(opens in a new window)](<https://chatgpt.com/team-sign-up>)[Contact sales](</contact-sales/>)
+Try OpenAI[Contact sales](</contact-sales/>)
 
-  * Research
+  * Why OpenAI
   * Products
-  * Business
-  * Developers
-  * Company
-  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
+  * Solutions
+  * Resources
+  * [Customers](</business/customer-stories/>)
+  * [Pricing](</business/pricing/>)
 
 
 
-[Contact sales](</contact-sales/>)
+[Contact sales](</contact-sales/>)Try OpenAI
 
 OpenAI
 
@@ -92,15 +92,15 @@ Securely bring together external signals, inventory trends, historical data, and
 
 ### Learn from leaders driving change
 
-![Lowes > Cover media](https://images.ctfassets.net/kftzwdyauwt9/4X3HwsNsncluAzNEqlXFg3/558227ebd1d4edc388dc325ecbcd75f0/oai_Lowe_s_hero_4.5.png?w=3840&q=90&fm=webp)
+![Lowes logo superimposed on an abstract painting with prominent blue brushstrokes.](https://images.ctfassets.net/kftzwdyauwt9/4X3HwsNsncluAzNEqlXFg3/558227ebd1d4edc388dc325ecbcd75f0/oai_Lowe_s_hero_4.5.png?w=3840&q=90&fm=webp)
 
 [Lowe’s puts project expertise into every hand ](</index/lowes/>)
 
-![Target Partnership > Cover](https://images.ctfassets.net/kftzwdyauwt9/6P5KRvvJ6ActnTBekWeF97/583436c7976f7823f04f731d1bb2172f/OpenAI_Target_Partnership_Blog_1-1.png?w=3840&q=90&fm=webp)
+![OpenAI | Target](https://images.ctfassets.net/kftzwdyauwt9/6P5KRvvJ6ActnTBekWeF97/583436c7976f7823f04f731d1bb2172f/OpenAI_Target_Partnership_Blog_1-1.png?w=3840&q=90&fm=webp)
 
 [OpenAI and Target team up on new AI-powered experiencesCompany](</index/target-partnership/>)
 
-![\[2.0\] Card > Media > Zalando](https://images.ctfassets.net/kftzwdyauwt9/6SOwtELA1S0TYqttuHDBux/39e0d269327c02d3a6cc83679170f882/oai_zalando_1_1.png?w=3840&q=90&fm=webp)
+![Zalando logo in white, centered over a textured blue surface resembling fabric or a synthetic material.](https://images.ctfassets.net/kftzwdyauwt9/6SOwtELA1S0TYqttuHDBux/39e0d269327c02d3a6cc83679170f882/oai_zalando_1_1.png?w=3840&q=90&fm=webp)
 
 [Boosting the customer retail experience with GPT-4o mini](</index/zalando/>)
 
@@ -159,6 +159,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 

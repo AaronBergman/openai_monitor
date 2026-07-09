@@ -43,18 +43,24 @@ Share
 Reducing graphic and explicit training data
 
   * Reducing graphic and explicit training data
+
   * Fixing bias introduced by data filters
+
   * Preventing image regurgitation
+
   * Next steps
 
 
 
-Table of contents
 
   * Reducing graphic and explicit training data
+
   * Fixing bias introduced by data filters
+
   * Preventing image regurgitation
+
   * Next steps
+
 
 
 
@@ -248,6 +254,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 

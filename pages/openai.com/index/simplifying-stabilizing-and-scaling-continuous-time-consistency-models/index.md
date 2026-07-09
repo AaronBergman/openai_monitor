@@ -43,18 +43,24 @@ Share
 Introduction
 
   * Introduction
+
   * How it works
+
   * Limitations
+
   * What's next
 
 
 
-Table of contents
 
   * Introduction
+
   * How it works
+
   * Limitations
+
   * What's next
+
 
 
 
@@ -271,6 +277,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 

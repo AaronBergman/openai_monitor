@@ -132,6 +132,14 @@ Customer stories
 
 Filter
 
+![Australian Payments Plus hero 1x1](https://images.ctfassets.net/kftzwdyauwt9/4dOzo0MCH8IYZpHDieNgbg/8c27d9ee088b65ed45bef5a097c800e6/oai_Australian_Payments_Plus_1x1.png?w=3840&q=90&fm=webp)
+
+[Australian Payments Plus moves faster with ChatGPT and CodexJul 7, 2026](</index/australian-payments-plus/>)
+
+![MUFG customer story 1x1 hero and card image](https://images.ctfassets.net/kftzwdyauwt9/NuwuwCk19PIxGLHg92dkW/92c24518bb5432f9491b801b006fa7e4/oai_MUFG_1x1.png?w=3840&q=90&fm=webp)
+
+[MUFG aims to become AI-native with OpenAIJul 7, 2026](</index/mufg/>)
+
 ![Omio > oai omio 1x1 card](https://images.ctfassets.net/kftzwdyauwt9/2nAmJWUrmCwC3avCecsdYa/34ddcd27c1c89aae828a7e91539b29df/oai_Omio_1x1.png?w=3840&q=90&fm=webp)
 
 [How Omio is building the future of conversational travelJun 23, 2026](</index/omio/>)
@@ -171,14 +179,6 @@ Filter
 ![Boston Children’s Hospital card image](https://images.ctfassets.net/kftzwdyauwt9/4ROfsRLHlfzYGOnvawnoKG/ced960114b4b5c599cd1394513403b31/boston-childrens-card-1x1.png?w=3840&q=90&fm=webp)
 
 [Boston Children’s uses AI to unlock new diagnosesMay 29, 2026](</index/boston-childrens-hospital/>)
-
-![Braintrust customer story art card 1x1](https://images.ctfassets.net/kftzwdyauwt9/7hFHaiuRbzcpJRR9SP9ojI/7ea7e178330cd87d5cd1b00891151ed5/oai_braintrust_1x1.png?w=3840&q=90&fm=webp)
-
-[How Braintrust turns customer requests into code with CodexMay 29, 2026](</index/braintrust/>)
-
-![oai Endava 1x1](https://images.ctfassets.net/kftzwdyauwt9/2R1En1qK4AOSKcuZRpKxco/64ddf998210a4e3f1a3b4c08acba25e2/oai_endava_1x1.png?w=3840&q=90&fm=webp)
-
-[How Endava builds an agentic organization with CodexMay 28, 2026](</index/endava/>)
 
 Load more
 

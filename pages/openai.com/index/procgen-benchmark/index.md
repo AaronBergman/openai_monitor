@@ -45,24 +45,36 @@ Share
 Getting started
 
   * Getting started
+
   * Environment diversity is key
+
   * Procgen Benchmark
+
   * Design principles
+
   * Evaluating generalization
+
   * An ablation with deterministic levels
+
   * Next steps
 
 
 
-Table of contents
 
   * Getting started
+
   * Environment diversity is key
+
   * Procgen Benchmark
+
   * Design principles
+
   * Evaluating generalization
+
   * An ablation with deterministic levels
+
   * Next steps
+
 
 
 
@@ -262,6 +274,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 

@@ -41,14 +41,16 @@ Share
 Background
 
   * Background
+
   * Exploiting Nonlinearities with Evolution Strategies
 
 
 
-Table of contents
 
   * Background
+
   * Exploiting Nonlinearities with Evolution Strategies
+
 
 
 
@@ -251,6 +253,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 

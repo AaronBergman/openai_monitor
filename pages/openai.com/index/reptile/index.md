@@ -43,14 +43,16 @@ Share
 How Reptile works
 
   * How Reptile works
+
   * Implementations
 
 
 
-Table of contents
 
   * How Reptile works
+
   * Implementations
+
 
 
 
@@ -163,6 +165,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 

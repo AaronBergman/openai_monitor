@@ -45,22 +45,32 @@ Share
 The kernels
 
   * The kernels
+
   * Using the kernels
+
   * Small-world LSTMs
+
   * Sentiment representation learning
+
   * Compression results
+
   * Research directions
 
 
 
-Table of contents
 
   * The kernels
+
   * Using the kernels
+
   * Small-world LSTMs
+
   * Sentiment representation learning
+
   * Compression results
+
   * Research directions
+
 
 
 
@@ -317,6 +327,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 

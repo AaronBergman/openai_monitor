@@ -45,16 +45,20 @@ Share
 Best practices
 
   * Best practices
+
   * Deep Q-Learning
+
   * Benchmarks
 
 
 
-Table of contents
 
   * Best practices
+
   * Deep Q-Learning
+
   * Benchmarks
+
 
 
 
@@ -225,6 +229,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 

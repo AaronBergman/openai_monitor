@@ -43,16 +43,20 @@ Share
 Evaluating the relationship between adversarial robustness and inference-time compute
 
   * Evaluating the relationship between adversarial robustness and inference-time compute
+
   * Limitations
+
   * Conclusion
 
 
 
-Table of contents
 
   * Evaluating the relationship between adversarial robustness and inference-time compute
+
   * Limitations
+
   * Conclusion
+
 
 
 
@@ -172,6 +176,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 

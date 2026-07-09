@@ -48,57 +48,57 @@ Switch cards to hide Media
 
 Research
 
-Jun 4, 2026
+Jul 8, 2026
 
-[Dreaming: Better memory for a more helpful ChatGPTChatGPT introduces a new memory system to better remember preferences, keeping context fresh and relevant across conversations.](</index/chatgpt-memory-dreaming/>)
-
-Product
-
-Jun 3, 2026
-
-[Introducing new capabilities to GPT-RosalindGPT-Rosalind advances life sciences research with enhanced biological reasoning, medicinal chemistry expertise, genomics analysis, and experimental workflow capabilities.](</index/introducing-new-capabilities-to-gpt-rosalind/>)
+[Separating signal from noise in coding evaluationsA new analysis from OpenAI reveals issues in SWE-Bench Pro, a popular coding benchmark, raising concerns about reliability and accuracy in evaluating AI models.](</index/separating-signal-from-noise-coding-evaluations/>)
 
 Product
 
-May 29, 2026
+Jul 8, 2026
 
-[Strengthening societal resilience with Rosalind BiodefenseOpenAI launches Rosalind Biodefense, expanding trusted access to GPT-Rosalind for vetted developers and U.S. government partners advancing biodefense, public health, and pandemic preparedness through frontier AI.](</index/strengthening-societal-resilience-with-rosalind-biodefense/>)
-
-Research
-
-May 20, 2026
-
-[An OpenAI model has disproved a central conjecture in discrete geometryAn OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematics.](</index/model-disproves-discrete-geometry-conjecture/>)
-
-Product
-
-May 7, 2026
-
-[Advancing voice intelligence with new models in the APIExplore new realtime voice models in the OpenAI API that can reason, translate, and transcribe speech, enabling more natural and intelligent voice experiences.](</index/advancing-voice-intelligence-with-new-models-in-the-api/>)
+[Introducing GPT-LiveA new generation of voice models for natural human-AI interaction, now powering ChatGPT Voice.](</index/introducing-gpt-live/>)
 
 Safety
 
-May 5, 2026
+Jul 8, 2026
 
-[GPT-5.5 Instant System Card](</index/gpt-5-5-instant-system-card/>)
+[GPT‑Live System CardGPT-Live-1 and GPT-Live-1 mini are a new generation of voice models designed to make conversations with AI feel more natural and intelligent.(opens in a new window)](<https://deploymentsafety.openai.com/gpt-live>)
 
-Product
+Research
 
-May 5, 2026
+Jun 30, 2026
 
-[GPT-5.5 Instant: smarter, clearer, and more personalizedGPT-5.5 Instant updates ChatGPT’s default model with smarter, more accurate answers, reduced hallucinations, and improved personalization controls.](</index/gpt-5-5-instant/>)
-
-Publication
-
-Apr 29, 2026
-
-[Where the goblins came fromHow goblin outputs spread in AI models: timeline, root cause, and fixes behind personality-driven quirks in GPT-5 behavior.](</index/where-the-goblins-came-from/>)
+[Introducing GeneBench-ProIntroducing GeneBench-Pro, a new benchmark testing AI performance in genomics, biology, and scientific research using complex, real-world datasets.](</index/introducing-genebench-pro/>)
 
 Product
 
-Apr 23, 2026
+Jun 26, 2026
 
-[Introducing GPT-5.5Introducing GPT-5.5, our smartest model yet—faster, more capable, and built for complex tasks like coding, research, and data analysis across tools.](</index/introducing-gpt-5-5/>)
+[Previewing GPT-5.6 Sol: a next-generation modelOpenAI previews GPT-5.6 Sol, a next-generation model with stronger capabilities in coding, science, and cybersecurity, paired with its most advanced safety stack.](</index/previewing-gpt-5-6-sol/>)
+
+Safety
+
+Jun 26, 2026
+
+[GPT‑5.6 Preview System CardGPT-5.6 is a new family of three models: Sol, our new flagship model; Terra, a capable lower-cost option; and Luna, our fastest and most cost-efficient model. The safeguards we have built for this launch – our most robust yet – are built to deliver these models safely and at scale, around the world.(opens in a new window)](<https://deploymentsafety.openai.com/gpt-5-6-preview>)
+
+Research
+
+Jun 17, 2026
+
+[A near-autonomous AI chemist improves a challenging reaction in medicinal chemistryOpenAI and Molecule.one show how a near-autonomous AI chemist using GPT-5.4 improved a key drug-making reaction, advancing medicinal chemistry research.](</index/ai-chemist-improves-reaction/>)
+
+Research
+
+Jun 17, 2026
+
+[Introducing LifeSciBenchIntroducing LifeSciBench, an expert-authored, expert-reviewed benchmark for evaluating how AI systems handle real-world life science research tasks and decisions.](</index/introducing-life-sci-bench/>)
+
+Research
+
+Jun 4, 2026
+
+[Dreaming: Better memory for a more helpful ChatGPTChatGPT introduces a new memory system to better remember preferences, keeping context fresh and relevant across conversations.](</index/chatgpt-memory-dreaming/>)
 
 Load more
 
@@ -151,6 +151,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 

@@ -46,6 +46,18 @@ Switch cards to show Media
 
 Switch cards to hide Media
 
+Product
+
+Jul 8, 2026
+
+[Introducing GPT-LiveA new generation of voice models for natural human-AI interaction, now powering ChatGPT Voice.](</index/introducing-gpt-live/>)
+
+Product
+
+Jun 26, 2026
+
+[Previewing GPT-5.6 Sol: a next-generation modelOpenAI previews GPT-5.6 Sol, a next-generation model with stronger capabilities in coding, science, and cybersecurity, paired with its most advanced safety stack.](</index/previewing-gpt-5-6-sol/>)
+
 Research
 
 Jun 4, 2026
@@ -87,18 +99,6 @@ Research
 Apr 22, 2026
 
 [Introducing OpenAI Privacy FilterOpenAI Privacy Filter is an open-weight model for detecting and redacting personally identifiable information (PII) in text with state-of-the-art accuracy](</index/introducing-openai-privacy-filter/>)
-
-Product
-
-Apr 21, 2026
-
-[Introducing ChatGPT Images 2.0ChatGPT Images 2.0 introduces a state-of-the-art image generation model with improved text rendering, multilingual support, and advanced visual reasoning.](</index/introducing-chatgpt-images-2-0/>)
-
-Research
-
-Apr 16, 2026
-
-[Introducing GPT-Rosalind for life sciences researchOpenAI introduces GPT-Rosalind, a frontier reasoning model built to accelerate drug discovery, genomics analysis, protein reasoning, and scientific research workflows.](</index/introducing-gpt-rosalind/>)
 
 Load more
 
@@ -151,6 +151,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 

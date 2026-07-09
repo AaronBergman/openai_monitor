@@ -43,26 +43,52 @@ Share
 Background on SWE-bench
 
   * Background on SWE-bench
+
   * Adapting SWE-bench as a Preparedness Evaluation
+
   * SWE-bench Verified
+
   * Our Approach
+
+    * Annotation Criteria
+
+    * Dataset construction
+
   * Annotation Results
+
   * Performance on SWE-bench Verified
+
+    * Performance stratified by difficulty
+
   * Discussion & Limitations
+
   * Data downloads
 
 
 
-Table of contents
 
   * Background on SWE-bench
+
   * Adapting SWE-bench as a Preparedness Evaluation
+
   * SWE-bench Verified
+
   * Our Approach
+
+    * Annotation Criteria
+
+    * Dataset construction
+
   * Annotation Results
+
   * Performance on SWE-bench Verified
+
+    * Performance stratified by difficulty
+
   * Discussion & Limitations
+
   * Data downloads
+
 
 
 
@@ -463,6 +489,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 

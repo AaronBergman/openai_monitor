@@ -45,14 +45,16 @@ Share
 Baselines and benchmarks
 
   * Baselines and benchmarks
+
   * Development
 
 
 
-Table of contents
 
   * Baselines and benchmarks
+
   * Development
+
 
 
 
@@ -172,6 +174,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 

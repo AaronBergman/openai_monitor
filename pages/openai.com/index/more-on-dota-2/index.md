@@ -41,20 +41,28 @@ Share
 The task
 
   * The task
+
   * The International
+
   * Bot exploits
+
   * Infrastructure
+
   * 5v5
 
 
 
-Table of contents
 
   * The task
+
   * The International
+
   * Bot exploits
+
   * Infrastructure
+
   * 5v5
+
 
 
 
@@ -214,6 +222,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 

@@ -1,28 +1,28 @@
 Skip to main content
 
-[](</>)
+[](</>)[](</business/>)
 
-  * [Research](</research/index/>)
+  * Why OpenAI
   * Products
-  * [Business](</business/>)
-  * [Developers](</api/>)
-  * [Company](</about/>)
-  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
+  * Solutions
+  * Resources
+  * [Customers](</business/customer-stories/>)
+  * [Pricing](</business/pricing/>)
 
 
 
-[Try now(opens in a new window)](<https://chatgpt.com/team-sign-up>)[Contact sales](</contact-sales/>)
+Try OpenAI[Contact sales](</contact-sales/>)
 
-  * Research
+  * Why OpenAI
   * Products
-  * Business
-  * Developers
-  * Company
-  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
+  * Solutions
+  * Resources
+  * [Customers](</business/customer-stories/>)
+  * [Pricing](</business/pricing/>)
 
 
 
-[Contact sales](</contact-sales/>)
+[Contact sales](</contact-sales/>)Try OpenAI
 
 OpenAI
 
@@ -119,7 +119,7 @@ Your organization’s data is never used to improve our models. It’s protected
 
 ![HYGH > Cover](https://images.ctfassets.net/kftzwdyauwt9/6x9wAoJk0NrMRUfbs3R0w/01105ca1fd669c1f89f6d030c7cedebe/oai_HYGH_1.1.png?w=3840&q=90&fm=webp)
 
-[HYGH speeds development and campaigns with ChatGPT BusinessOct 10, 2025](</index/hygh/>)
+[HYGH accelerates development and campaign delivery with ChatGPTOct 10, 2025](</index/hygh/>)
 
 ![OAI GPT5 Thumbnail clean API Cursor 1920x1920](https://images.ctfassets.net/kftzwdyauwt9/cAyIeBIUN19SJolxcNqGW/a230e14df09e1233b70114f2b5d09a4d/OAI_GPT5_Thumbnail_clean_API_Cursor_1920x1920.png?w=3840&q=90&fm=webp)
 
@@ -192,6 +192,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 

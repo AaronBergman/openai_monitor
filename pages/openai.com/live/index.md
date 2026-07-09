@@ -26,15 +26,13 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-April 21, 2026
+July 8, 2026
 
 # OpenAI livestreams
 
-  * [Read the Images 2.0 blog](</index/introducing-chatgpt-images-2-0/>)
-
-
-
 ## Past livestreams
+
+### [Introducing ChatGPT Images 2.0April 21, 2026Watch the replay](<https://www.youtube.com/watch?v=sWkGomJ3TLI>)
 
 ### [Built to benefit everyoneOctober 28, 2025Watch the replay](<https://openai.com/index/built-to-benefit-everyone/#livestream-replay>)
 
@@ -61,8 +59,6 @@ April 21, 2026
 ### [Introducing next-generation audio models in the APIMarch 20, 2025Watch the replay](<https://openai.com/index/introducing-our-next-generation-audio-models/#livestream-replay>)
 
 ### [New tools for building agentsMarch 11, 2025Watch the replay](<https://openai.com/index/new-tools-for-building-agents/#whats-next-building-the-platform-for-agents>)
-
-### [Introducing GPT-4.5February 27, 2025Watch the replay](<https://openai.com/index/introducing-gpt-4-5/#conclusion>)
 
 ### Get notified when we go live
 

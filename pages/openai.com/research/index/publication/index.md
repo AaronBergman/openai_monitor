@@ -46,6 +46,42 @@ Switch cards to show Media
 
 Switch cards to hide Media
 
+Research
+
+Jul 8, 2026
+
+[Separating signal from noise in coding evaluationsA new analysis from OpenAI reveals issues in SWE-Bench Pro, a popular coding benchmark, raising concerns about reliability and accuracy in evaluating AI models.](</index/separating-signal-from-noise-coding-evaluations/>)
+
+Safety
+
+Jul 8, 2026
+
+[GPT‑Live System CardGPT-Live-1 and GPT-Live-1 mini are a new generation of voice models designed to make conversations with AI feel more natural and intelligent.(opens in a new window)](<https://deploymentsafety.openai.com/gpt-live>)
+
+Research
+
+Jun 30, 2026
+
+[Introducing GeneBench-ProIntroducing GeneBench-Pro, a new benchmark testing AI performance in genomics, biology, and scientific research using complex, real-world datasets.](</index/introducing-genebench-pro/>)
+
+Safety
+
+Jun 26, 2026
+
+[GPT‑5.6 Preview System CardGPT-5.6 is a new family of three models: Sol, our new flagship model; Terra, a capable lower-cost option; and Luna, our fastest and most cost-efficient model. The safeguards we have built for this launch – our most robust yet – are built to deliver these models safely and at scale, around the world.(opens in a new window)](<https://deploymentsafety.openai.com/gpt-5-6-preview>)
+
+Research
+
+Jun 17, 2026
+
+[A near-autonomous AI chemist improves a challenging reaction in medicinal chemistryOpenAI and Molecule.one show how a near-autonomous AI chemist using GPT-5.4 improved a key drug-making reaction, advancing medicinal chemistry research.](</index/ai-chemist-improves-reaction/>)
+
+Research
+
+Jun 17, 2026
+
+[Introducing LifeSciBenchIntroducing LifeSciBench, an expert-authored, expert-reviewed benchmark for evaluating how AI systems handle real-world life science research tasks and decisions.](</index/introducing-life-sci-bench/>)
+
 Safety
 
 May 5, 2026
@@ -63,42 +99,6 @@ Safety
 Apr 23, 2026
 
 [GPT-5.5 System Card](</index/gpt-5-5-system-card/>)
-
-Research
-
-Mar 25, 2026
-
-[Inside our approach to the Model SpecLearn how OpenAI’s Model Spec serves as a public framework for model behavior, balancing safety, user freedom, and accountability as AI systems advance.](</index/our-approach-to-the-model-spec/>)
-
-Safety
-
-Mar 19, 2026
-
-[How we monitor internal coding agents for misalignmentHow OpenAI uses chain-of-thought monitoring to study misalignment in internal coding agents—analyzing real-world deployments to detect risks and strengthen AI safety safeguards.](</index/how-we-monitor-internal-coding-agents-misalignment/>)
-
-Research
-
-Mar 10, 2026
-
-[Improving instruction hierarchy in frontier LLMsIH-Challenge trains models to prioritize trusted instructions, improving instruction hierarchy, safety steerability, and resistance to prompt injection attacks.](</index/instruction-hierarchy-challenge/>)
-
-Publication
-
-Mar 5, 2026
-
-[GPT-5.4 Thinking System Card](</index/gpt-5-4-thinking-system-card/>)
-
-Research
-
-Mar 5, 2026
-
-[Reasoning models struggle to control their chains of thought, and that’s goodOpenAI introduces CoT-Control and finds reasoning models struggle to control their chains of thought, reinforcing monitorability as an AI safety safeguard.](</index/reasoning-models-chain-of-thought-controllability/>)
-
-Research
-
-Mar 4, 2026
-
-[Extending single-minus amplitudes to gravitonsA new preprint extends single-minus amplitudes to gravitons, with GPT-5.2 Pro helping derive and verify nonzero graviton tree amplitudes in quantum gravity.](</index/extending-single-minus-amplitudes-to-gravitons/>)
 
 Load more
 
@@ -151,6 +151,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 

@@ -45,26 +45,68 @@ Share
 Background
 
   * Background
+
   * Universe Infrastructure
+
   * Environments
+
+    * Atari games
+
+    * Flash games
+
+    * Browser tasks
+
   * Future integrations
+
   * Running an environment
+
   * Validating the Universe infrastructure
+
   * Looking forward
+
   * Help us improve Universe
 
+    * Grant us permission to use your game, program, website, or app.
+
+    * Train agents on Universe tasks.
+
+    * Integrate new environments. (Coming soon)
+
+    * Contribute demonstrations. (Coming soon)
 
 
-Table of contents
+
 
   * Background
+
   * Universe Infrastructure
+
   * Environments
+
+    * Atari games
+
+    * Flash games
+
+    * Browser tasks
+
   * Future integrations
+
   * Running an environment
+
   * Validating the Universe infrastructure
+
   * Looking forward
+
   * Help us improve Universe
+
+    * Grant us permission to use your game, program, website, or app.
+
+    * Train agents on Universe tasks.
+
+    * Integrate new environments. (Coming soon)
+
+    * Contribute demonstrations. (Coming soon)
+
 
 
 
@@ -485,6 +527,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 

@@ -47,20 +47,28 @@ Share
 Exploration is risky
 
   * Exploration is risky
+
   * Constrained reinforcement learning
+
   * Safety Gym
+
   * Benchmark
+
   * Open problems
 
 
 
-Table of contents
 
   * Exploration is risky
+
   * Constrained reinforcement learning
+
   * Safety Gym
+
   * Benchmark
+
   * Open problems
+
 
 
 
@@ -224,6 +232,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 

@@ -43,20 +43,36 @@ Share
 Motivation
 
   * Motivation
+
   * Results
+
+    * Interpolation in latent space
+
+    * Manipulation in latent space
+
   * Contribution
+
   * Scale
+
   * Directions for research
 
 
 
-Table of contents
 
   * Motivation
+
   * Results
+
+    * Interpolation in latent space
+
+    * Manipulation in latent space
+
   * Contribution
+
   * Scale
+
   * Directions for research
+
 
 
 
@@ -306,6 +322,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
