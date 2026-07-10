@@ -26,13 +26,21 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 OpenAI
 
-# Frontier AI for your finance team’s most ambitious work
+New
 
-OpenAI helps finance teams analyze performance, update forecasts, and move faster through close and cash management—with auditability built in.
+### Introducing ChatGPT Work: 
+
+A new agent in ChatGPT that helps teams turn ambitious goals into finished work—with enterprise controls and governance built in.
+
+[Learn more](</chatgpt-work/>)
+
+# AI for your finance team’s most ambitious work
+
+ChatGPT Work reconciles financial data, updates forecasts, and creates decision-ready reporting—so finance teams can close faster, manage cash with confidence, and guide the business with auditability built in.
 
 [Contact sales](</contact-sales/>)[Get started](<https://chatgpt.com/team-sign-up>)
 
-Explain the forecast miss, identify key drivers, and model the impact.
+Explain the forecast miss, identify key drivers, and model the impact
 
 ![Solutions for Finance hero chart.](https://images.ctfassets.net/kftzwdyauwt9/2cmQf5c1lwJHJ9MoBaBMlN/c3bc586d6b1a83103cc9673a6f5b6f17/finance-chart-1-1.png?w=3840&q=90&fm=webp)
 
@@ -58,17 +66,17 @@ Delegate manual work to agents across reporting, close, and operations so teams 
 
 Review cells and sources, approve changes before they’re made, and preserve formulas, formatting, and editable slide structure.
 
-## How finance teams put frontier AI to work
+## How finance teams get from numbers to decisions with ChatGPT Work
 
-Build and update modelsCash forecastingVariance reviewRevenue dashboard
+Monthly close BvA and reforecastingBuild and update modelsCash forecastingVariance reviewRevenue dashboard
 
-### Create, update, and analyze models directly in Excel.
+### Reconcile results and forecast what's next
 
-Review this financial model and source materials. Update assumptions, check formulas, summarize key drivers, and create a leadership-ready view with takeaways and risks.
+Reconcile @NetSuite actuals, @Salesforce renewals, and the @Databricks Genie model. Explain the variance, separate recurring performance from timing and risk, and produce a risk-weighted outlook using deal-level close probabilities.
 
 ## Work across your finance tools and context
 
-[View apps](</business/apps/>)
+[View plugins](</business/plugins/>)
 
 [](</business/apps/google-drive/>)
 
@@ -199,9 +207,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 

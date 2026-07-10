@@ -26,16 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Why have an unconference on machine learning?
-
-  * Why have an unconference on machine learning?
-  * Agenda
-  * Who should come?
-  * Logistics
-  * Attendees
-
-
-
 August 18, 2016
 
 [Company](</news/company-announcements/>)
@@ -49,6 +39,34 @@ The latest information about the Unconference is now available at the Unconferen
 Loading…
 
 Share
+
+Why have an unconference on machine learning?
+
+  * Why have an unconference on machine learning?
+
+  * Agenda
+
+  * Who should come?
+
+  * Logistics
+
+  * Attendees
+
+
+
+
+  * Why have an unconference on machine learning?
+
+  * Agenda
+
+  * Who should come?
+
+  * Logistics
+
+  * Attendees
+
+
+
 
 The latest information about the Unconference is now available at the [Unconference wiki⁠(opens in a new window)](<https://github.com/openai/mlu16/wiki>), which will be periodically updated with more information for attendees.
 
@@ -156,9 +174,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -195,6 +213,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 

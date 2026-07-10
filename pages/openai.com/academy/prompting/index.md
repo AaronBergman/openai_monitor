@@ -26,13 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Simple steps for writing a good prompt
-
-  * Simple steps for writing a good prompt
-  * Try it on your own
-
-
-
 April 10, 2026
 
 OpenAI Academy
@@ -44,6 +37,38 @@ Learn how to write clear prompts to get better, more useful responses.
 Loading…
 
 Share
+
+Simple steps for writing a good prompt
+
+  * Simple steps for writing a good prompt
+
+    * 1\. Outline the task 
+
+    * 2\. Give helpful context
+
+    * 3\. Describe your ideal output 
+
+  * Try it on your own
+
+    * More helpful tips for writing prompts
+
+
+
+
+  * Simple steps for writing a good prompt
+
+    * 1\. Outline the task 
+
+    * 2\. Give helpful context
+
+    * 3\. Describe your ideal output 
+
+  * Try it on your own
+
+    * More helpful tips for writing prompts
+
+
+
 
 **Prompt engineering** is the process of designing and refining your input in a way that helps ChatGPT give the best possible answer. It’s about figuring out how to ask so you get the result you want—whether that’s a clear summary, comprehensive report, or detailed analysis. ChatGPT works best when you give it clear instructions. 
 
@@ -120,15 +145,15 @@ Discover additional guides and resources to help you build practical AI skills.
 
 ![Academy > Personalizing ChatGPT > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/2s9rOdoSHProR3I6Ai5P5/8ca619f82211ade2d76316f04aa3fbcc/personalizing-chatgpt.png?w=3840&q=90&fm=webp)
 
-[Personalizing ChatGPTOpenAI AcademyApr 10, 2026](</academy/personalization/>)
+[Personalizing ChatGPT | OpenAIOpenAI AcademyApr 10, 2026](</academy/personalization/>)
 
 ![Academy > Using files > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/7FdLCJL2BCjS8ef2BJ8rG0/8307b0a6be94e0333b43dbed5b93d187/using-files.png?w=3840&q=90&fm=webp)
 
-[Working with files in ChatGPTOpenAI AcademyApr 10, 2026](</academy/working-with-files/>)
+[Working with files in ChatGPT | OpenAIOpenAI AcademyApr 10, 2026](</academy/working-with-files/>)
 
 ![Academy > Search and deep research > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/6vCtWVZH9dyolSQQhXzGyx/686abd0c6c92eb96129cb71f6ab7917e/search-deep-research.png?w=3840&q=90&fm=webp)
 
-[Research with ChatGPTOpenAI AcademyApr 10, 2026](</academy/search-and-deep-research/>)
+[Research with ChatGPT | OpenAIOpenAI AcademyApr 10, 2026](</academy/search-and-deep-research/>)
 
 Research
 
@@ -140,9 +165,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -179,6 +204,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 

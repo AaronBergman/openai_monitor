@@ -26,14 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Table of contents
-
-  * ChatGPT search
-  * Deep research
-  * Search vs. deep research
-
-
-
 April 10, 2026
 
 OpenAI Academy
@@ -46,6 +38,38 @@ Loading…
 
 Share
 
+ChatGPT search
+
+  * ChatGPT search
+
+    * How to use search in a chat
+
+    * Additional considerations
+
+  * Deep research
+
+    * How to use deep research in a chat
+
+  * Search vs. deep research
+
+
+
+
+  * ChatGPT search
+
+    * How to use search in a chat
+
+    * Additional considerations
+
+  * Deep research
+
+    * How to use deep research in a chat
+
+  * Search vs. deep research
+
+
+
+
 ChatGPT can be a helpful research partner because it quickly brings together information from many sources, making it easier to explore ideas, spot patterns, and understand complex topics. By reasoning through context, citing sources, and producing clear, structured summaries, it helps turn open questions into well-defined insights.
 
 There are two different ways to search the public internet with ChatGPT—**search** and **deep research**. Below is an explanation of both, and when to use each.
@@ -56,7 +80,7 @@ ChatGPT search allows ChatGPT to pull in the latest information from the interne
 
 Instead of toggling between multiple browser tabs and summarizing information yourself, search brings those updates directly into ChatGPT, streamlining your research and saving you time. It also makes it easy to combine fresh web data with the reasoning and summarization power of ChatGPT models.
 
-#### How to use search in a chat
+### How to use search in a chat
 
   1. Open a new chat in ChatGPT.
   2. Ask a question that requires current or detailed information (e.g., _“What are the top three AI trends in healthcare in 2025?”_), or click **Web Search** from your tools menu.
@@ -66,7 +90,7 @@ Instead of toggling between multiple browser tabs and summarizing information yo
 
 
 
-####  Additional considerations
+###  Additional considerations
 
   * **Citations** : Always review linked sources before making decisions, since search results reflect what’s available on the web.
   * **Scope** : Search won’t replace specialized databases (e.g., subscription research tools or proprietary data).
@@ -84,7 +108,7 @@ Every output is designed to be documented, with clear citations to sources, maki
 
 Unlike a traditional web search, deep research is **agentic** , meaning that it actively plans and carries out a multi-step research process—searching, evaluating sources, refining queries, and synthesizing findings—rather than simply returning a list of links. 
 
-#### How to use deep research in a chat
+### How to use deep research in a chat
 
 1\. Open ChatGPT and select **deep research** from your tools menu
 
@@ -126,68 +150,78 @@ Discover additional guides and resources to help you build practical AI skills.
 
 ![Academy > Image generation > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/4as9dmBmMnIulWoUEIBsOj/2441164935c8d325daa552d91c71f131/image-creation.png?w=3840&q=90&fm=webp)
 
-[Creating images with ChatGPTOpenAI AcademyApr 10, 2026](</academy/image-generation/>)
+[Creating images with ChatGPT | OpenAIOpenAI AcademyApr 10, 2026](</academy/image-generation/>)
 
 ![Academy > Projects > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/L0cSoOsBFybec07VSIDJw/27647c6494be7191e0e2168f5bf27044/projects.png?w=3840&q=90&fm=webp)
 
-[Using projects in ChatGPTOpenAI AcademyApr 10, 2026](</academy/projects/>)
+[Using projects in ChatGPT | OpenAIOpenAI AcademyApr 10, 2026](</academy/projects/>)
 
 ![Academy > Custom GPTs > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/2UV4fI7a8z34VgwSmpgzy1/2b09c857ffda3696fec60cad6fb18b86/custom-gpts.png?w=3840&q=90&fm=webp)
 
-[Using custom GPTsOpenAI AcademyApr 10, 2026](</academy/custom-gpts/>)
+[Using custom GPTs | OpenAIOpenAI AcademyApr 10, 2026](</academy/custom-gpts/>)
 
-Our Research
+Research
 
   * [Research Index](</research/index/>)
   * [Research Overview](</research/>)
-  * [Research Residency](</residency/>)
   * [Economic Research](</signals/>)
 
 
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
-  * [GPT-5.3-Codex](</index/introducing-gpt-5-3-codex/>)
 
 
 
 Safety
 
   * [Safety Approach](</safety/>)
+  * [Deployment Safety(opens in a new window)](<https://deploymentsafety.openai.com/>)
   * [Security & Privacy](</security-and-privacy/>)
   * [Trust & Transparency](</trust-and-transparency/>)
 
 
 
-ChatGPT
+Products
 
-  * [Explore ChatGPT(opens in a new window)](<https://chatgpt.com/overview>)
-  * [Business](<https://chatgpt.com/business/business-plan>)
-  * [Enterprise](<https://chatgpt.com/business/enterprise>)
-  * [Education](<https://chatgpt.com/business/education>)
-  * [Pricing(opens in a new window)](<https://chatgpt.com/pricing>)
-  * [Download(opens in a new window)](<https://chatgpt.com/download>)
+  * [ChatGPT(opens in a new window)](<https://chatgpt.com/>)
+  * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
+  * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
+  * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
+  * [Codex](</codex/>)
+  * [Release Notes](</products/release-notes/>)
 
 
 
 API Platform
 
-  * [Platform Overview](</api/>)
-  * [Pricing](</api/pricing/>)
-  * [API log in(opens in a new window)](<https://platform.openai.com/login>)
-  * [Documentation(opens in a new window)](<https://developers.openai.com/api/docs>)
-  * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
+  * [Overview](</api/>)
+  * [API Log In(opens in a new window)](<https://platform.openai.com/login>)
+  * [Docs(opens in a new window)](<https://developers.openai.com/api/docs>)
 
 
 
-For Business
+Business
 
-  * [Business Overview](</business/>)
+  * [Overview](</business/>)
   * [Solutions](</solutions/>)
+  * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
+
+
+
+Developers
+
+  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
+  * [Open Models](</open-models/>)
+  * [Docs(opens in a new window)](<https://developers.openai.com/>)
+  * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
+  * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
 
 
 
@@ -195,9 +229,8 @@ Company
 
   * [About Us](</about/>)
   * [Our Charter](</charter/>)
-  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
   * [Careers](</careers/>)
-  * [Brand](</brand/>)
+  * [News](</news/>)
 
 
 
@@ -209,7 +242,6 @@ Support
 
 More
 
-  * [News](</news/>)
   * [Stories](</stories/>)
   * [Academy](</academy/>)
   * [Livestreams](</live/>)

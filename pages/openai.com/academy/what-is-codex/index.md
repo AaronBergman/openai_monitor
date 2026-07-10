@@ -30,23 +30,25 @@ April 23, 2026
 
 OpenAI Academy
 
-# What is Codex?
+# What is ChatGPT Codex?
 
-Understand what Codex is and how it fits into your work
+Understand what ChatGPT Codex is and how it fits into your work
 
-[Download Codex(opens in a new window)](<https://chatgpt.com/codex/for-work/>)
+[Download ChatGPT Codex(opens in a new window)](<https://chatgpt.com/codex/for-work/>)
 
 Loading…
 
-Codex is an AI agent that you can delegate real work to.
+Share
 
-ChatGPT is great for asking questions, brainstorming, and drafting in conversation. Codex is designed for a different kind of task—it can work across files, tools, and repeatable workflows to help move work forward.
+ChatGPT Codex is an AI agent that you can delegate real work to.
 
-A simple way to think about it: ChatGPT helps you think through the work, while Codex helps you hand off parts of the work itself.
+ChatGPT is great for asking questions, brainstorming, and drafting in conversation. ChatGPT Codex is designed for a different kind of task—it can work across files, tools, and repeatable workflows to help move work forward.
 
-You don’t need to be a developer or working on software to use Codex. It goes beyond coding and is especially useful for tasks that require more than a single answer—like gathering information from multiple sources, creating and updating files, or producing outputs such as documents, slides, and spreadsheets. Codex can connect to tools, take action, and help you get things done.
+A simple way to think about it: ChatGPT helps you think through the work, while ChatGPT Codex helps you hand off parts of the work itself.
 
-For example, you might ask Codex to:
+You don’t need to be a developer or working on software to use ChatGPT Codex. It goes beyond coding and is especially useful for tasks that require more than a single answer—like gathering information from multiple sources, creating and updating files, or producing outputs such as documents, slides, and spreadsheets. ChatGPT Codex can connect to tools, take action, and help you get things done.
+
+For example, you might ask ChatGPT Codex to:
 
   * Pull information from your emails, Slack, notes, and dashboards
   * Make a slide deck from source materials
@@ -59,12 +61,12 @@ For example, you might ask Codex to:
 
 
 
-Codex is not a replacement for your judgment. Think of it like an eager, capable assistant on their first day: fast, helpful, and able to get a lot done, but still needing your direction on what matters most and your review before the work is final.
+ChatGPT Codex is not a replacement for your judgment. Think of it like an eager, capable assistant on their first day: fast, helpful, and able to get a lot done, but still needing your direction on what matters most and your review before the work is final.
 
 A simple way to think about it:
 
   * Use ChatGPT when you want help thinking through the work.
-  * Use Codex when you want help moving the work forward.
+  * Use ChatGPT Codex when you need help moving the work forward.
 
 
 
@@ -78,17 +80,17 @@ Discover additional guides and resources to help you build practical AI skills.
 
 [View all](</news/>)
 
-![How business operations teams use Codex > card image](https://images.ctfassets.net/kftzwdyauwt9/JR9MMoyTo7eFFF8Nv13Qc/43414ee0c762db49e36bda8ae0d35e39/bus_ops_teams.png?w=3840&q=90&fm=webp)
+![sites](https://images.ctfassets.net/kftzwdyauwt9/6fIs1au2N2RynrKQ3eXg0q/15d0fd6fc8d2b24837bed23fc76fc8c4/sites.png?w=3840&q=90&fm=webp)
 
-[How business operations teams use Codex | OpenAIOpenAI AcademyMay 15, 2026](</academy/codex-for-work/how-business-operations-teams-use-codex/>)
+[ChatGPT SitesOpenAI AcademyJun 2, 2026](</academy/chatgpt-sites/>)
 
 ![How sales teams use Codex > card image](https://images.ctfassets.net/kftzwdyauwt9/1O4te2wMh6O77eDV6kapG3/02845b054a09297b9fada40c4cc9a71f/sales_teams.png?w=3840&q=90&fm=webp)
 
-[How sales teams use ChatGPT Codex | OpenAIOpenAI AcademyMay 15, 2026](</academy/codex-for-work/how-sales-teams-use-codex/>)
+[How sales teams use ChatGPT Work | OpenAIOpenAI AcademyMay 15, 2026](</academy/codex-for-work/how-sales-teams-use-codex/>)
 
 ![How data science teams use Codex > card image](https://images.ctfassets.net/kftzwdyauwt9/xyevYnp4Ptaa1eMgBDNjS/75fea80018f321b89809d893f1a5786d/data_science_teams.png?w=3840&q=90&fm=webp)
 
-[How data science teams use Codex | OpenAIOpenAI AcademyMay 15, 2026](</academy/codex-for-work/how-data-science-teams-use-codex/>)
+[How data science teams use ChatGPT Work | OpenAIOpenAI AcademyMay 15, 2026](</academy/codex-for-work/how-data-science-teams-use-codex/>)
 
 Research
 
@@ -100,9 +102,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 

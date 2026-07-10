@@ -26,16 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Backstory
-
-  * Backstory
-  * How it works
-  * What we learn on Learning Day
-  * How we sustain it
-  * Learning Day beyond Robotics
-
-
-
 August 1, 2019
 
 [Company](</news/company-announcements/>)
@@ -51,6 +41,34 @@ Illustration: Ben Barry
 Loading…
 
 Share
+
+Backstory
+
+  * Backstory
+
+  * How it works
+
+  * What we learn on Learning Day
+
+  * How we sustain it
+
+  * Learning Day beyond Robotics
+
+
+
+
+  * Backstory
+
+  * How it works
+
+  * What we learn on Learning Day
+
+  * How we sustain it
+
+  * Learning Day beyond Robotics
+
+
+
 
 We’ve found that the biggest contributions at OpenAI come from cross-functional experts, so we either need to hire them or grow them here. Before Learning Day, we very rarely saw people grow cross-functionally—for example, employees coming from a software background rarely picked up machine learning (something equally rare in other organizations except academia). Since Learning Day, this kind of growth has become very common.
 
@@ -189,9 +207,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -228,6 +246,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 

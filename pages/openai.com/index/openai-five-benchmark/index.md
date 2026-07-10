@@ -26,14 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Game rules
-
-  * Game rules
-  * Event schedule
-  * Want to attend in person?
-
-
-
 July 18, 2018
 
 [Company](</news/company-announcements/>)
@@ -49,6 +41,26 @@ The OpenAI Five Benchmark match is now over!
 Loading…
 
 Share
+
+Game rules
+
+  * Game rules
+
+  * Event schedule
+
+  * Want to attend in person?
+
+
+
+
+  * Game rules
+
+  * Event schedule
+
+  * Want to attend in person?
+
+
+
 
 ![Benchmark](https://images.ctfassets.net/kftzwdyauwt9/03f3aa19-f679-4f73-33a7c7701e4e/215aa7bc7109c41541576088ac3fc206/benchmark.jpg?w=3840&q=90&fm=webp)
 
@@ -130,9 +142,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -169,6 +181,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 

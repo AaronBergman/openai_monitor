@@ -26,9 +26,17 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 OpenAI
 
-# Frontier AI for your marketing team’s most ambitious work
+New
 
-OpenAI helps marketing teams bring customer insights, campaign context, and brand standards together to create, launch, and improve campaigns.
+### Introducing ChatGPT Work: 
+
+A new agent in ChatGPT that helps teams turn ambitious goals into finished work—with enterprise controls and governance built in.
+
+[Learn more](</chatgpt-work/>)
+
+# AI for your marketing team’s most ambitious work
+
+ChatGPT Work uses customer insights, campaign context, and brand standards to create briefs, creative assets, and performance reports—so marketers can move from strategy to launch faster and improve campaigns with each cycle.
 
 [Contact sales](</contact-sales/>)
 
@@ -60,17 +68,17 @@ Apply your voice, messaging, and creative standards across channels, formats, an
 
 Analyze performance, identify the strongest directions, and refine what comes next.
 
-## How marketing teams put frontier AI to work
+## How marketing teams use campaign data to make launches better with ChatGPT Work
 
-Campaign concept boardsAd creative variationsProduct shot variations
+Campaign performance readoutCampaign concept boardsAd creative variationsProduct shot variations
 
-Turn briefs and product pages into visual campaign directions.
+Turn campaign results into an up-to-date leadership readout with clear recommendations for improving the next launch.
 
-Create a visual board to brainstorm ideas supporting the upcoming marketing campaign about the product.
+Review the recent marketing campaign performance document for our new product launch and our initial brief. [Insert document links] Create a deck for us to review the campaign’s performance with leadership using @Presentations
 
 ## Work across your marketing tools and context
 
-[View apps](</business/apps/>)
+[View plugins](</business/plugins/>)
 
 [](</business/apps/google-drive/>)
 
@@ -183,9 +191,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 

@@ -26,41 +26,31 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-![](https://images.ctfassets.net/kftzwdyauwt9/5eQ11zErjtYQomArKQcO3z/1a2c82b1789525e78340543279e41227/OAI_BiDi_HomepageTakeover_Wide_03_Generic_poster_edges_removed.jpg?w=3840&q=50&fm=webp)
-
-# Introducing GPT-Live
-
-A new generation of voice models for natural human-AI interaction, now powering ChatGPT Voice.
-
-[Read the blog](</index/introducing-gpt-live/>)
-
-Close
-
 What can I help with?
 
 Message ChatGPT
 
 [Learn about ChatGPT Business](</business/>)[Talk with ChatGPT](<https://chatgpt.com/?mode=voice>)[Research](</research/>)[API Platform](</api/>)More
 
-![Sol Terra Luna](https://images.ctfassets.net/kftzwdyauwt9/3rB71m1PVnTOczSz4IL642/9c511cf4292a7391718ad64a612c8687/blog_16x9.png?w=3840&q=90&fm=webp)
+![""](//images.ctfassets.net/kftzwdyauwt9/5uOBQ9CN3HA6yzWugjzzYZ/d65727d40c567318f9b366349a1b12a3/OAI_ChatGPTWork_ModelBlog_OpenGraph_16x9_1200x630.png?w=3840&q=90&fm=webp)
 
-[Previewing GPT-5.6 Sol: a next-generation modelProduct12 min read](</index/previewing-gpt-5-6-sol/>)
+[GPT-5.6: Frontier intelligence that scales with your ambitionProduct18 min read](</index/gpt-5-6/>)
 
-![Sol Terra Luna](https://images.ctfassets.net/kftzwdyauwt9/3rB71m1PVnTOczSz4IL642/9c511cf4292a7391718ad64a612c8687/blog_16x9.png?w=3840&q=90&fm=webp)
+![""](//images.ctfassets.net/kftzwdyauwt9/5uOBQ9CN3HA6yzWugjzzYZ/d65727d40c567318f9b366349a1b12a3/OAI_ChatGPTWork_ModelBlog_OpenGraph_16x9_1200x630.png?w=3840&q=90&fm=webp)
 
-[Previewing GPT-5.6 Sol: a next-generation modelProduct12 min read](</index/previewing-gpt-5-6-sol/>)
+[GPT-5.6: Frontier intelligence that scales with your ambitionProduct18 min read](</index/gpt-5-6/>)
 
-![1 1 Art Card](https://images.ctfassets.net/kftzwdyauwt9/4xugzd9dTDMUzIUmuamtO3/1f40af4e50ab8b2bdd64d5b491964961/1_1_Art_Card.png?w=3840&q=90&fm=webp)
+![ChatGPT Work menu in a browser window against a starry background, with Work selected and Codex, Scheduled, and Sites options shown.](//images.ctfassets.net/kftzwdyauwt9/2P4v0ivRnOu6z9sJqDrJj5/d28b76a7ed3a8a53261f8eba4c021740/Superapp_Blog_Art_Card_-_Motion.png?w=3840&q=90&fm=webp)
 
-[Codex for every role, tool, and workflowProduct7 min read](</index/codex-for-every-role-tool-workflow/>)
+[Take on your most ambitious work with ChatGPT5 min read](</chatgpt-work/>)
+
+![Art Card 1 1](https://images.ctfassets.net/kftzwdyauwt9/4vJ1lSvYeKz0zM4RVCKwIC/855f7e54052d8a7635e4bf45adf41737/Art_Card_1_1.png?w=3840&q=90&fm=webp)
+
+[Introducing GPT-LiveProduct7 min read](</index/introducing-gpt-live/>)
 
 ![Expanding Daybreak Art Card](https://images.ctfassets.net/kftzwdyauwt9/735NOZviyogUBIFxd2EmWX/fa8baf9fc26e64f442ffa86d5fd9a41e/Art_Card__6_.png?w=3840&q=90&fm=webp)
 
 [Daybreak: Tools for securing every organization in the worldSecurity8 min read](</index/daybreak-securing-the-world/>)
-
-![1x1 Health Art 1](https://images.ctfassets.net/kftzwdyauwt9/25I93CBDfs6LgX4R4XCMBD/121ac551be0a9153314bf51fdbe91dae/1x1_Health_Art_1.png?w=3840&q=90&fm=webp)
-
-[Improving health intelligence in ChatGPTProduct](</index/improving-health-intelligence-in-chatgpt/>)
 
 ## Recent news
 
@@ -152,9 +142,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 

@@ -26,17 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Building educational tools
-
-  * Building educational tools
-  * The crowd
-  * The talks
-  * The afternoon
-  * Our takeaways
-  * What’s next
-
-
-
 February 26, 2019
 
 [Company](</news/company-announcements/>)
@@ -50,6 +39,38 @@ On February 2, we held our first Spinning Up Workshop as part of our new educati
 Loading…
 
 Share
+
+Building educational tools
+
+  * Building educational tools
+
+  * The crowd
+
+  * The talks
+
+  * The afternoon
+
+  * Our takeaways
+
+  * What’s next
+
+
+
+
+  * Building educational tools
+
+  * The crowd
+
+  * The talks
+
+  * The afternoon
+
+  * Our takeaways
+
+  * What’s next
+
+
+
 
 We hosted ~90 people at our office and engaged nearly 300 more through our livestream. Participants came from a wide range of backgrounds, including academia, software engineering, data science, ML engineering, medicine, and education. This workshop built off our [Spinning Up in Deep RL⁠](</index/spinning-up-in-deep-rl/>) resource package and took a deeper dive into RL algorithm design, robotics, and building safe AI systems.
 
@@ -172,9 +193,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -211,6 +232,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 

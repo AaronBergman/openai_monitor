@@ -26,9 +26,17 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 OpenAI
 
-# Frontier AI for your sales team’s most ambitious work
+New
 
-OpenAI helps teams use CRM and customer context to prioritize the right accounts, prepare for meetings, follow up quickly, and spot forecast risk early—so sellers can focus on winning deals.
+### Introducing ChatGPT Work: 
+
+A new agent in ChatGPT that helps teams turn ambitious goals into finished work—with enterprise controls and governance built in.
+
+[Learn more](</chatgpt-work/>)
+
+# AI for your sales team’s most ambitious work
+
+ChatGPT Work uses CRM and customer context to prioritize accounts, prepare sellers for meetings, follow up quickly, and flag forecast risk early—so teams spend less time gathering context and more time winning deals.
 
 [Contact sales](</contact-sales/>)
 
@@ -60,17 +68,17 @@ Reduce research, meeting prep, and follow-up work so sellers can spend more time
 
 Bring deal activity, buyer engagement, call insights, and next steps together to see what is likely to close and where deals are at risk.
 
-## How sales teams put frontier AI to work
+## How sales teams use account context to move deals forward faster with ChatGPT Work
 
-Account strategy and executionMeeting prep and follow-upDeal strategyPipeline and forecast review
+Account strategy and executionAccount prioritization and engagementMeeting prep and follow-upDeal strategyPipeline and forecast review
 
-### Focus sellers where there is a real reason to engage.
+### Turn scattered account context into a live command center.
 
-Find my highest-priority accounts this week and recommend next steps. Then, prep me for my customer call using Salesforce, Calendar, and recent notes.
+@Sales Build an account map, strategy, and execution command center on @Sites for my customer. Then share a summary with the account team in @Slack and draft the email in @Gmail to the customer. Finally, create an automation that monitors for new account activity and updates this site every day at 8am.
 
 ## Work across your sales tools and customer context
 
-[View apps](</business/apps/>)
+[View plugins](</business/plugins/>)
 
 [](</business/apps/google-drive/>)
 
@@ -267,9 +275,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 

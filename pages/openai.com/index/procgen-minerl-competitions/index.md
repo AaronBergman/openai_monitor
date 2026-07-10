@@ -26,13 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Procgen Competition
-
-  * Procgen Competition
-  * MineRL Competition
-
-
-
 June 20, 2020
 
 [Company](</news/company-announcements/>)
@@ -46,6 +39,22 @@ We’re excited to announce that OpenAI is co-organizing two NeurIPS 2020 compet
 Loading…
 
 Share
+
+Procgen Competition
+
+  * Procgen Competition
+
+  * MineRL Competition
+
+
+
+
+  * Procgen Competition
+
+  * MineRL Competition
+
+
+
 
 We’re excited to announce that OpenAI is co-organizing two NeurIPS 2020 competitions with AIcrowd, Carnegie Mellon University, and DeepMind, using Procgen Benchmark and MineRL. We rely heavily on these environments internally for research on reinforcement learning, and we look forward to seeing the progress the community makes in these challenging competitions.
 
@@ -121,9 +130,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -160,6 +169,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 

@@ -36,8 +36,6 @@ ChatGPTAPI
 
 ### Business
 
-ChatGPT & Codex
-
 A secure workspace with company context and tools for teams, built for growing companies
 
 $20
@@ -72,8 +70,6 @@ What's included:
 ![](https://images.ctfassets.net/kftzwdyauwt9/s2GhJeU3baS4ToFbNYOTs/35171dcb81bd64418aec716692646f6e/chat-2.png?w=3840&q=90&fm=webp)
 
 ### Enterprise
-
-ChatGPT & Codex
 
 Enterprise-grade AI, security, and support for businesses operating at scale
 
@@ -124,15 +120,15 @@ Enterprise
 
 ###### Messages and interactions
 
-UnlimitedPlan: Business, Feature: Messages and interactions, Unlimited
+Unlimited*Plan: Business, Feature: Messages and interactions, Unlimited*
 
-UnlimitedPlan: Enterprise, Feature: Messages and interactions, Unlimited
+Unlimited*Plan: Enterprise, Feature: Messages and interactions, Unlimited*
 
 ###### Chat history
 
-UnlimitedPlan: Business, Feature: Chat history, Unlimited
+Unlimited*Plan: Business, Feature: Chat history, Unlimited*
 
-UnlimitedPlan: Enterprise, Feature: Chat history, Unlimited
+Unlimited*Plan: Enterprise, Feature: Chat history, Unlimited*
 
 ###### Access on web, iOS, Android
 
@@ -142,65 +138,47 @@ Plan: Enterprise, Feature: Access on web, iOS, Android, Yes
 
 ### Models
 
-###### GPT-5.2
+###### GPT-5.5 Instant
 
-Unlimited*Plan: Business, Feature: GPT-5.2, Unlimited*
+Unlimited*Plan: Business, Feature: GPT-5.5 Instant, Unlimited*
 
-Unlimited*Plan: Enterprise, Feature: GPT-5.2, Unlimited*
+Unlimited*Plan: Enterprise, Feature: GPT-5.5 Instant, Unlimited*
 
-###### GPT-5.2 thinking
+###### GPT-5.6 Sol
 
-Flexible**Plan: Business, Feature: GPT-5.2 thinking, Flexible**
+Flexible**Plan: Business, Feature: GPT-5.6 Sol, Flexible**
 
-Flexible**Plan: Enterprise, Feature: GPT-5.2 thinking, Flexible**
+Flexible**Plan: Enterprise, Feature: GPT-5.6 Sol, Flexible**
 
-###### GPT-5.2 pro
+###### GPT-5.6 Sol Pro
 
-Flexible**Plan: Business, Feature: GPT-5.2 pro, Flexible**
+Flexible**Plan: Business, Feature: GPT-5.6 Sol Pro, Flexible**
 
-Flexible**Plan: Enterprise, Feature: GPT-5.2 pro, Flexible**
+Flexible**Plan: Enterprise, Feature: GPT-5.6 Sol Pro, Flexible**
 
-###### GPT-5 thinking mini
+###### GPT-5.6 Terra
 
-Flexible**Plan: Business, Feature: GPT-5 thinking mini, Flexible**
+Flexible**Plan: Business, Feature: GPT-5.6 Terra, Flexible**
 
-Flexible**Plan: Enterprise, Feature: GPT-5 thinking mini, Flexible**
+Flexible**Plan: Enterprise, Feature: GPT-5.6 Terra, Flexible**
 
-###### GPT-4o
+###### GPT-5.6 Luna
 
-Unlimited*Plan: Business, Feature: GPT-4o, Unlimited*
+Flexible**Plan: Business, Feature: GPT-5.6 Luna, Flexible**
 
-Unlimited*Plan: Enterprise, Feature: GPT-4o, Unlimited*
+Flexible**Plan: Enterprise, Feature: GPT-5.6 Luna, Flexible**
 
-###### GPT-4.1
+###### GPT-5 Thinking Mini
 
-Flexible**Plan: Business, Feature: GPT-4.1, Flexible**
+Flexible**Plan: Business, Feature: GPT-5 Thinking Mini, Flexible**
 
-Flexible**Plan: Enterprise, Feature: GPT-4.1, Flexible**
+Flexible**Plan: Enterprise, Feature: GPT-5 Thinking Mini, Flexible**
 
-###### GPT-4.5
+###### Legacy models
 
-Plan: Business, Feature: GPT-4.5, No
+Plan: Business, Feature: Legacy models, Yes
 
-Flexible**Plan: Enterprise, Feature: GPT-4.5, Flexible**
-
-###### OpenAI o3
-
-Flexible**Plan: Business, Feature: OpenAI o3, Flexible**
-
-Flexible**Plan: Enterprise, Feature: OpenAI o3, Flexible**
-
-###### OpenAI o3 pro
-
-Plan: Business, Feature: OpenAI o3 pro, No
-
-Flexible**Plan: Enterprise, Feature: OpenAI o3 pro, Flexible**
-
-###### OpenAI o4-mini
-
-Flexible**Plan: Business, Feature: OpenAI o4-mini, Flexible**
-
-Flexible**Plan: Enterprise, Feature: OpenAI o4-mini, Flexible**
+Plan: Enterprise, Feature: Legacy models, Yes
 
 ###### Response times
 
@@ -208,49 +186,73 @@ FastPlan: Business, Feature: Response times, Fast
 
 FastestPlan: Enterprise, Feature: Response times, Fastest
 
-###### Context window non-reasoning
+###### GPT Instant total context window
 
-32KPlan: Business, Feature: Context window non-reasoning, 32K
+54KPlan: Business, Feature: GPT Instant total context window, 54K
 
-128KPlan: Enterprise, Feature: Context window non-reasoning, 128K
+128KPlan: Enterprise, Feature: GPT Instant total context window, 128K
 
-###### Context window reasoning
+###### GPT Instant input maximum***
 
-196KPlan: Business, Feature: Context window reasoning, 196K
+~40 pagesPlan: Business, Feature: GPT Instant input maximum***, ~40 pages
 
-196KPlan: Enterprise, Feature: Context window reasoning, 196K
+~250 pagesPlan: Enterprise, Feature: GPT Instant input maximum***, ~250 pages
 
-###### Regular quality & speed updates as models improve
+###### GPT Reasoning total context window
 
-Plan: Business, Feature: Regular quality & speed updates as models improve, Yes
+256KPlan: Business, Feature: GPT Reasoning total context window, 256K
 
-Plan: Enterprise, Feature: Regular quality & speed updates as models improve, Yes
+256KPlan: Enterprise, Feature: GPT Reasoning total context window, 256K
+
+###### GPT Reasoning input maximum***
+
+~320 pagesPlan: Business, Feature: GPT Reasoning input maximum***, ~320 pages
+
+~320 pagesPlan: Enterprise, Feature: GPT Reasoning input maximum***, ~320 pages
+
+###### Regular quality & speed updates
+
+Plan: Business, Feature: Regular quality & speed updates, Yes
+
+Plan: Enterprise, Feature: Regular quality & speed updates, Yes
 
 ### Features
 
-###### Advanced voice
+###### ChatGPT Work
 
-StandardPlan: Business, Feature: Advanced voice, Standard
+Desktop, web, and mobile Plan: Business, Feature: ChatGPT Work, Desktop, web, and mobile 
 
-Flexible*Plan: Enterprise, Feature: Advanced voice, Flexible*
+Desktop, web, and mobile Plan: Enterprise, Feature: ChatGPT Work, Desktop, web, and mobile 
 
-###### Advanced voice with video
+###### Codex
 
-Plan: Business, Feature: Advanced voice with video, Yes
+Plan: Business, Feature: Codex, Yes
 
-Plan: Enterprise, Feature: Advanced voice with video, Yes
+Plan: Enterprise, Feature: Codex, Yes
 
-###### Standard voice
+###### Plugins
 
-Plan: Business, Feature: Standard voice, Yes
+Plan: Business, Feature: Plugins, Yes
 
-Plan: Enterprise, Feature: Standard voice, Yes
+Plan: Enterprise, Feature: Plugins, Yes
 
-###### Apps
+###### Voice
 
-Plan: Business, Feature: Apps, Yes
+ExpandedPlan: Business, Feature: Voice, Expanded
 
-Plan: Enterprise, Feature: Apps, Yes
+Flexible**Plan: Enterprise, Feature: Voice, Flexible**
+
+###### Voice with video
+
+Plan: Business, Feature: Voice with video, Yes
+
+Plan: Enterprise, Feature: Voice with video, Yes
+
+###### Skills beta
+
+Plan: Business, Feature: Skills beta, Yes
+
+Plan: Enterprise, Feature: Skills beta, Yes
 
 ###### Memory
 
@@ -263,6 +265,12 @@ ExpandedPlan: Enterprise, Feature: Memory, Expanded
 Coming soonPlan: Business, Feature: Memory with past chats, Coming soon
 
 Coming soonPlan: Enterprise, Feature: Memory with past chats, Coming soon
+
+###### Memory sources
+
+Plan: Business, Feature: Memory sources, No
+
+Plan: Enterprise, Feature: Memory sources, No
 
 ###### Search
 
@@ -282,11 +290,11 @@ Plan: Business, Feature: Code edits on macOS, Yes
 
 Plan: Enterprise, Feature: Code edits on macOS, Yes
 
-###### Workspace agents (in research preview)
+###### File uploads
 
-Plan: Business, Feature: Workspace agents (in research preview), Yes
+Plan: Business, Feature: File uploads, Yes
 
-Plan: Enterprise, Feature: Workspace agents (in research preview), Yes
+Plan: Enterprise, Feature: File uploads, Yes
 
 ###### Projects
 
@@ -300,11 +308,29 @@ Plan: Business, Feature: Shared projects, Yes
 
 Plan: Enterprise, Feature: Shared projects, Yes
 
-###### Tasks
+###### Scheduled tasks
 
-Plan: Business, Feature: Tasks, Yes
+Plan: Business, Feature: Scheduled tasks, Yes
 
-Plan: Enterprise, Feature: Tasks, Yes
+Plan: Enterprise, Feature: Scheduled tasks, Yes
+
+###### Sites
+
+Plan: Business, Feature: Sites, Yes
+
+Plan: Enterprise, Feature: Sites, Yes
+
+###### Built-in browser
+
+Plan: Business, Feature: Built-in browser, Yes
+
+Plan: Enterprise, Feature: Built-in browser, Yes
+
+###### Workspace agents
+
+Plan: Business, Feature: Workspace agents, Yes
+
+Plan: Enterprise, Feature: Workspace agents, Yes
 
 ###### Data analysis
 
@@ -330,11 +356,11 @@ Plan: Business, Feature: Interactive apps, Yes
 
 Plan: Enterprise, Feature: Interactive apps, Yes
 
-###### App directory
+###### Excel, PowerPoint, and Google Sheets extensions
 
-Plan: Business, Feature: App directory, Yes
+Plan: Business, Feature: Excel, PowerPoint, and Google Sheets extensions, Yes
 
-Plan: Enterprise, Feature: App directory, Yes
+Plan: Enterprise, Feature: Excel, PowerPoint, and Google Sheets extensions, Yes
 
 ###### Company knowledge
 
@@ -353,12 +379,6 @@ Plan: Enterprise, Feature: Developer mode (beta), Yes
 Plan: Business, Feature: ChatGPT record mode, Yes
 
 Plan: Enterprise, Feature: ChatGPT record mode, Yes
-
-###### File uploads
-
-Plan: Business, Feature: File uploads, Yes
-
-Plan: Enterprise, Feature: File uploads, Yes
 
 ###### Discover & use GPTs
 
@@ -390,29 +410,23 @@ Plan: Business, Feature: Image generation, Yes
 
 Plan: Enterprise, Feature: Image generation, Yes
 
+###### Image generation with Thinking
+
+Plan: Business, Feature: Image generation with Thinking, Yes
+
+Plan: Enterprise, Feature: Image generation with Thinking, Yes
+
 ###### Interactive tables and charts
 
 Plan: Business, Feature: Interactive tables and charts, Yes
 
 Plan: Enterprise, Feature: Interactive tables and charts, Yes
 
-###### Sora 1
-
-Limited[Learn more](<https://openai.com/sora/>)Plan: Business, Feature: Sora 1, Limited
-
-Plan: Enterprise, Feature: Sora 1, No
-
-###### Codex agent
-
-Plan: Business, Feature: Codex agent, Yes
-
-Flexible**Plan: Enterprise, Feature: Codex agent, Flexible**
-
 ###### Deep research
 
 Plan: Business, Feature: Deep research, Yes
 
-Flexible**Plan: Enterprise, Feature: Deep research, Flexible**
+Plan: Enterprise, Feature: Deep research, Yes
 
 ###### Apps for deep research
 
@@ -425,12 +439,6 @@ Plan: Enterprise, Feature: Apps for deep research, Yes
 Plan: Business, Feature: Study mode, Yes
 
 Plan: Enterprise, Feature: Study mode, Yes
-
-###### ChatGPT Pulse
-
-Plan: Business, Feature: ChatGPT Pulse, No
-
-Plan: Enterprise, Feature: ChatGPT Pulse, No
 
 ### Privacy
 
@@ -596,6 +604,8 @@ _*Usage must be reasonable and comply with our_[ _policies_ ⁠(opens in a new w
 
 _**Enterprise and Business can purchase credits for more access_
 
+ _***ChatGPT manages a shared context window to understand your request, track the conversation, retrieve relevant information, and generate responses. The portion available for user input is smaller than the total window, as space is also used for system instructions (including tools and personality), memories (if enabled), and internal processing (reviewing information, reasoning, and response generation). The reported space for user input is an approximation and may change dynamically based on features in use and any memory content._
+
 ## Trusted by teams at
 
 ## FAQ
@@ -614,9 +624,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 

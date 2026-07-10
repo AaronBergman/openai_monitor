@@ -26,16 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Why this event?
-
-  * Why this event?
-  * The participants
-  * The talks
-  * Dexterity demo
-  * Next steps
-
-
-
 June 5, 2019
 
 [Company](</news/company-announcements/>)
@@ -51,6 +41,34 @@ Photo: Blake Tucker
 Loading…
 
 Share
+
+Why this event?
+
+  * Why this event?
+
+  * The participants
+
+  * The talks
+
+  * Dexterity demo
+
+  * Next steps
+
+
+
+
+  * Why this event?
+
+  * The participants
+
+  * The talks
+
+  * Dexterity demo
+
+  * Next steps
+
+
+
 
 Robots that learn are an exciting path forward, yet there are differing approaches and opinions on how to make progress. The event brought together a diverse set of people from both robotics and machine learning communities as well as academics and industry leaders to create a platform to exchange ideas and address open questions in building complex robot systems.
 
@@ -121,9 +139,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -160,6 +178,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 

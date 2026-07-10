@@ -26,9 +26,17 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 OpenAI
 
-# Frontier AI for your engineering team’s most ambitious work
+New
 
-Delegate work across the software lifecycle to agents—from routine PRs and tests to complex refactors and code migrations—while engineers stay in control of what ships.
+### Introducing ChatGPT Work: 
+
+A new agent in ChatGPT that helps teams turn ambitious goals into finished work—with enterprise controls and governance built in.
+
+[Learn more](</chatgpt-work/>)
+
+# AI for your engineering team’s most ambitious work
+
+Codex takes engineering work from issue to tested, review-ready code—handling everything from routine fixes and tests to complex refactors and migrations, while engineers stay in control of what ships.
 
 [Contact sales](</contact-sales/>)[Explore Codex](</codex/>)
 
@@ -58,17 +66,17 @@ Delegate routine fixes, test coverage, complex refactors, and large-scale migrat
 
 Strengthen code review, testing, and release validation while engineers stay in control of what ships.
 
-## How engineering teams put frontier AI to work
+## How engineering teams ship better software faster with Codex in ChatGPT
 
-Build and ship featuresDebug complex issuesReview and harden codeModernize and migrate systems
+Replicate bugs and build fixesBuild and ship featuresDebug complex issuesReview and harden codeModernize and migrate systems
 
-Ship product changes end-to-end with code, tests, and reviewable changes.
+Use Codex to find and reproduce a bug, build and validate the fix, and share a review-ready PR.
 
-Implement the saved-filters feature described in the issue. Update the API and UI, add tests, run them, and return a reviewable diff.
+Can you check @Linear for the seat selection bug and figure out a plan to fix it?
 
 ## Work across your engineering tools and context
 
-[View apps](</business/apps/>)
+[View plugins](</business/plugins/>)
 
 [](</business/apps/google-drive/>)
 
@@ -198,9 +206,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
