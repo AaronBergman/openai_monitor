@@ -4,6 +4,45 @@ A daily log of every change to OpenAI's public website — what appeared, what d
 
 ---
 
+## 2026-07-10 — Run `2026-07-10T09-16Z`
+
+**Fetch time:** 2026-07-10T09:16:38Z
+**Baseline:** 2026-07-09T09-15Z
+**Stats:** 1411 total URLs | +89 added | 98 updated | -69 removed | 6 anomalies (all low-severity) | 34 sub-sitemaps
+
+**TL;DR:** OpenAI's biggest launch day since monitoring began. **GPT‑5.6** (models Sol, Terra, Luna, plus a Sol Pro pricing tier) shipped for general availability and immediately became the preferred model in Microsoft 365 Copilot (Word/Excel/PowerPoint/Chat/Cowork). Alongside it, OpenAI launched **ChatGPT Work**, a new GPT‑5.6-powered "agent" aimed at enterprise teams that pulls in context from your tools/files to produce finished docs, decks, and spreadsheets — rolling out to desktop today, other platforms "over the next few days." And the whole business-integrations marketplace was renamed from **"Apps" to "Plugins"** (63 pages renamed 1:1, 12 new plugin pages added — Salesforce, Snowflake, Databricks Genie, BigQuery, and several use-case bundles — reviving the old 2023 "ChatGPT Plugins" name). Pricing pages, App Developer Terms, and multiple Academy guides were rewritten to match. No serious anomalies; two pricing pages show a recurring few-second "future lastmod" pattern that's been happening for weeks and looks like a CMS artifact, not a real backdating issue.
+
+### Big story: GPT‑5.6, ChatGPT Work, and the Plugins rebrand
+
+- **[GPT‑5.6: Frontier intelligence that scales with your ambition](pages/openai.com/index/gpt-5-6/index.md)** — GA launch of Sol (flagship), Terra (balanced), and Luna (cheapest), following the earlier limited preview. Claims new state-of-the-art on "Agents' Last Exam" and the Artificial Analysis Coding Agent Index, positioned against Anthropic's current Claude lineup (Fable 5, Opus 4.8) in OpenAI's own benchmark charts. Introduces `ultra`, a setting that runs up to 16 agents in parallel on demanding tasks, and Programmatic Tool Calling in the Responses API.
+- **[GPT‑5.6 becomes the preferred model in Microsoft 365 Copilot](pages/openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot/index.md)** — Microsoft is rolling GPT‑5.6 out across Word, Excel, PowerPoint, Chat, and Cowork via the OpenAI API.
+- **[ChatGPT Work](pages/openai.com/chatgpt-work/index.md)** ([announcement](pages/openai.com/index/chatgpt-for-your-most-ambitious-work/index.md)) — new agent product for "ambitious" enterprise work: gathers context across a team's tools/files and stays on a project for hours. Included with Business/Enterprise plans. The homepage hero and `/business/` hub were both updated to lead with it, replacing the prior GPT‑Live takeover banner. Four Academy "how [team] uses Codex" guides (sales, finance, business ops, data science) were rewritten around ChatGPT Work instead, trading a detailed 5-item Codex prompt playbook for shorter copy and a webinar link.
+- **["Apps" → "Plugins" rename](pages/openai.com/business/plugins/index.md)** — the entire business-integrations marketplace moved from `/business/apps/*` to `/business/plugins/*` (63 pages renamed 1:1 — Slack, GitHub, Notion, Stripe, Google Drive, etc.), plus 12 new pages: Salesforce, Snowflake, Databricks Genie, BigQuery, six use-case bundles (Data Analytics, Creative Production, Sales, Product Design, Public Equity Investing, Investment Banking), and an "OpenAI Certified" partner page. `agentforce-sales` was dropped without a replacement. The [App Developer Terms](pages/openai.com/policies/developer-apps-terms/index.md) were updated the day before (dated July 9) to fold "plugins" into the defined scope. Pricing pages ([API](pages/openai.com/api/pricing/index.md), [business](pages/openai.com/business/pricing/index.md), [ChatGPT](pages/openai.com/business/chatgpt-pricing/index.md)) got the largest content diffs of the run (up to 863 lines) to list the new GPT‑5.6 tiers, Plugins, and ChatGPT Work as plan features — `/api/pricing/` in particular now reads like a ChatGPT plan-comparison page rather than raw API token pricing, worth re-checking tomorrow.
+
+### Other notable new pages
+
+- **[Deutsche Telekom customer story](pages/openai.com/index/deutsche-telekom/index.md)** — new enterprise case study: 50,000+ monthly active users of ChatGPT/API across employee workflows, customer service, and network operations.
+- **[Dropbox partner page](pages/openai.com/business/partners/dropbox/index.md)** — a new `/business/partners/` track, distinct from the Dropbox integration/plugin page.
+- **[ChatGPT Sites](pages/openai.com/academy/chatgpt-sites/index.md)** — Academy guide for building lightweight internal websites/apps with Codex, paired with a new [ChatGPT Sites Data Processing Addendum](pages/openai.com/policies/chatgpt-sites-data-processing-addendum/index.md) legal page, suggesting it's a distinct named product surface.
+- **[OpenAI Build Week](pages/openai.com/build-week/index.md)** — a new Codex-focused hackathon/challenge with cash prizes and DevDay passes.
+- **[OpenAI Bio Bug Bounty](pages/openai.com/index/bio-bug-bounty/index.md)** — replaces the removed `gpt-5-5-bio-bug-bounty`; the biorisk jailbreak bounty program was generalized away from being tied to a specific model version.
+- Two older Global Affairs reports — [Modeling an AI jobs transition](pages/openai.com/index/modeling-ai-jobs-transition/index.md) and [AI is becoming a first hire for small businesses](pages/openai.com/index/ai-first-hire-small-business/index.md) — were newly indexed in the sitemap today despite on-page bylines from April/May 2026 (sitemap-indexing lag, not a backdated lastmod).
+
+### Anomalies (all low-severity)
+
+- Two pricing pages (`/business/chatgpt-pricing/`, `/business/pricing/`) again show a `<lastmod>` a few seconds after this run's fetch time — the same pages have re-bumped their lastmod on nearly every run for weeks, consistent with the CMS regenerating it near request time rather than a genuine future-dated claim.
+- 4 URLs migrated from `sitemap.xml/global-affairs/` to `sitemap.xml/global-affairs-news-listed/` — same recategorization pattern seen on 2026-07-09 with different URLs.
+- The pre-existing duplicate `enterprise-privacy/` sitemap entry (conflicting lastmods, first flagged 2026-07-08) is still present, unchanged.
+
+### Removals
+
+`/business/apps/*` (65 pages, superseded by `/business/plugins/*`), `/academy/how-to-use-codex-for-everyday-work/` (superseded by the new ChatGPT Work everyday-tasks guide), `/index/gpt-5-5-bio-bug-bounty/` (superseded by the generalized Bio Bug Bounty page), and two signup forms with no replacement found this run: `/form/codex-app/`, `/form/red-teaming-network/`.
+
+Full analysis: [runs/2026-07-10T09-16Z/analysis.md](runs/2026-07-10T09-16Z/analysis.md)
+
+---
+*Stats: 1,411 total URLs | +89 added | 98 updated (98 with visible content change) | -69 removed | 6 anomalies (all low-severity) | 34 sub-sitemaps*
+
 ## 2026-07-09 — Run `2026-07-09T09-15Z`
 
 **Fetch time:** 2026-07-09T09:16:52Z

@@ -53,8 +53,6 @@ Speed and intelligence
 
 
 
-Table of contents
-
   * Speed and intelligence
 
   * Coding
@@ -153,9 +151,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 

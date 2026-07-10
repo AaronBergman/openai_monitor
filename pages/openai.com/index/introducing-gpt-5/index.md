@@ -26,20 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-One unified system
-
-  * One unified system
-  * A smarter, more widely useful model
-  * Evaluations
-  * Faster, more efficient thinking 
-  * Building a more robust, reliable, and helpful model
-  * GPT-5 pro
-  * How to use GPT‑5
-  * Availability and access
-  * Livestream replay
-
-
-
 August 7, 2025
 
 [Release](</research/index/release/>)[Product](</news/product-releases/>)
@@ -53,6 +39,106 @@ Our smartest, fastest, most useful model yet, with built-in thinking that puts e
 Loading…
 
 Share
+
+One unified system
+
+  * One unified system
+
+  * A smarter, more widely useful model
+
+    * Coding
+
+    * Creative expression and writing
+
+    * Health
+
+  * Evaluations
+
+    * Coding
+
+    * Instruction following and agentic tool use
+
+    * Multimodal
+
+    * Health
+
+    * Economically important tasks
+
+  * Faster, more efficient thinking 
+
+  * Building a more robust, reliable, and helpful model
+
+    * More accurate answers to real-world queries
+
+    * More honest responses
+
+    * Safer, more helpful responses
+
+    * Reducing sycophancy and refining style 
+
+    * More ways to customize ChatGPT 
+
+    * Comprehensive safeguards for biological risk
+
+  * GPT-5 pro
+
+  * How to use GPT‑5
+
+  * Availability and access
+
+  * Livestream replay
+
+
+
+
+  * One unified system
+
+  * A smarter, more widely useful model
+
+    * Coding
+
+    * Creative expression and writing
+
+    * Health
+
+  * Evaluations
+
+    * Coding
+
+    * Instruction following and agentic tool use
+
+    * Multimodal
+
+    * Health
+
+    * Economically important tasks
+
+  * Faster, more efficient thinking 
+
+  * Building a more robust, reliable, and helpful model
+
+    * More accurate answers to real-world queries
+
+    * More honest responses
+
+    * Safer, more helpful responses
+
+    * Reducing sycophancy and refining style 
+
+    * More ways to customize ChatGPT 
+
+    * Comprehensive safeguards for biological risk
+
+  * GPT-5 pro
+
+  * How to use GPT‑5
+
+  * Availability and access
+
+  * Livestream replay
+
+
+
 
 We are introducing GPT‑5, our best AI system yet. GPT‑5 is a significant leap in intelligence over all our previous models, featuring state-of-the-art performance across coding, math, writing, health, visual perception, and more. It is a unified system that knows when to respond quickly and when to think longer to provide expert-level responses. GPT‑5 is available to all users, with Plus subscribers getting more usage, and Pro subscribers getting access to GPT‑5 pro, a version with extended reasoning for even more comprehensive and accurate answers.
 
@@ -311,19 +397,13 @@ Aaditya Singh, Adam Fry, Adam Perelman, Adam Tart, Adi Ganesh, Ahmed El-Kishky, 
 
 [View all](</news/>)
 
-![Art Card 1080x1080 \(3\)](https://images.ctfassets.net/kftzwdyauwt9/3JLNH7ejJFnxLmX2LpzoKD/19f9e3c4d36cc9d677ba88e842ad2db2/Art_Card_1080x1080__4_.png?w=3840&q=90&fm=webp)
+![GPT-5.6 is now the preferred model in Microsoft 365 Copilot > Cover image](https://images.ctfassets.net/kftzwdyauwt9/3MPipvFMxS8m3kTyCtwFgj/015747dcd34cb667a221688cfca64e0f/Frame.png?w=3840&q=90&fm=webp)
 
-Better memory for a more helpful ChatGPT
+[GPT-5.6 is now the preferred model in Microsoft 365 CopilotProductJul 9, 2026](</index/gpt-5-6-preferred-model-microsoft-365-copilot/>)
 
-[Dreaming: Better memory for a more helpful ChatGPTResearchJun 4, 2026](</index/chatgpt-memory-dreaming/>)
+[ChatGPT is now a partner for your most ambitious workProductJul 9, 2026](</index/chatgpt-for-your-most-ambitious-work/>)
 
-![Rosalind5.5 ArtCard](https://images.ctfassets.net/kftzwdyauwt9/6USIQM1B7TggUvvTFxxwoi/0176ac6633c8bdc24641d25d1d2db824/GPT-Rosalind_ArtCard.png?w=3840&q=90&fm=webp)
-
-[Introducing new capabilities to GPT-RosalindProductJun 3, 2026](</index/introducing-new-capabilities-to-gpt-rosalind/>)
-
-![1 1 Art Card](https://images.ctfassets.net/kftzwdyauwt9/4xugzd9dTDMUzIUmuamtO3/1f40af4e50ab8b2bdd64d5b491964961/1_1_Art_Card.png?w=3840&q=90&fm=webp)
-
-[Codex for every role, tool, and workflowProductJun 2, 2026](</index/codex-for-every-role-tool-workflow/>)
+[GPT-5.6: Frontier intelligence that scales with your ambitionProductJul 9, 2026](</index/gpt-5-6/>)
 
 Research
 
@@ -335,9 +415,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -374,6 +454,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 

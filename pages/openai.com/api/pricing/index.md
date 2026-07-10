@@ -1,179 +1,614 @@
 Skip to main content
 
-[](</>)
+[](</>)[](</business/>)
 
-  * [Research](</research/index/>)
+  * Why OpenAI
   * Products
-  * [Business](</business/>)
-  * [Developers](</api/>)
-  * [Company](</about/>)
-  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
+  * Solutions
+  * Resources
+  * [Customers](</business/customer-stories/>)
+  * [Pricing](</business/pricing/>)
 
 
 
-Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
+Try OpenAI[Contact sales](</contact-sales/>)
 
-  * Research
+  * Why OpenAI
   * Products
-  * Business
-  * Developers
-  * Company
-  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
+  * Solutions
+  * Resources
+  * [Customers](</business/customer-stories/>)
+  * [Pricing](</business/pricing/>)
 
 
 
-[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)Login
+[Contact sales](</contact-sales/>)Try OpenAI
 
 OpenAI
 
-# API Pricing
+# Pricing
+
+See pricing for our business and enterprise plans.
+
+ChatGPTAPI
+
+![](https://images.ctfassets.net/kftzwdyauwt9/5VpL5Fj00dC65H8mTi1jHn/9dded36b68c5120e69f1b101638d2529/chat-1.png?w=3840&q=90&fm=webp)
+
+### Business
+
+A secure workspace with company context and tools for teams, built for growing companies
+
+$20
+
+/ user / month
+
+[Get started(opens in a new window)](<https://chatgpt.com/team-sign-up>)
+
+What's included:
+
+  * Access ChatGPT and Codex across desktop and mobile apps
+
+  * AI for chat, coding, analysis, and workflows
+
+  * Connect tools like Microsoft 365, Google Drive, Slack, Github, Linear, Figma, and more
+
+  * Build on company knowledge and team context with custom team agent plugins
+
+  * Centralized billing and administration
+
+  * Usage analytics, budgeting, and spend controls
+
+  * Secure workspace with SAML SSO and MFA
+
+  * No training on your business data by default
+
+
+
+
+*2+ users, billed annually. $25.00 per user per month when billed monthly. Unlimited subject to abuse guardrails. [Learn more⁠(opens in a new window)](<https://help.openai.com/en/articles/8792828-what-is-chatgpt-team>)
+
+![](https://images.ctfassets.net/kftzwdyauwt9/s2GhJeU3baS4ToFbNYOTs/35171dcb81bd64418aec716692646f6e/chat-2.png?w=3840&q=90&fm=webp)
+
+### Enterprise
+
+Enterprise-grade AI, security, and support for businesses operating at scale
+
+Custom pricing
+
+Contact our sales team to discuss pricing.
 
 [Contact sales](</contact-sales/>)
 
-## Flagship models
+What's included:
 
-Our frontier models are designed to spend more time thinking before producing a response, making them ideal for complex, multi-step problems.
+  * Expanded context window that supports longer inputs and larger files
 
-Choose your processing mode
+  * Enterprise-level security and controls, including SCIM, EKM, user analytics, domain verification, and role-based access controls
 
-StandardBatch -50%Data residency +10%
+  * Advanced data privacy with custom data retention policies, encryption at rest and in transit, and no training on your business data by default. [Learn more⁠](<https://openai.com/business-data/>)
 
-## GPT-5.5 
+  * Support for data residency in ten regions
 
-A new class of intelligence for coding and professional work.
+  * 24/7 priority support, SLAs, custom legal terms, and access to AI advisors (eligible customers)
 
-### Price
+  * Invoicing and billing, volume discounts
 
-Input:$5.00 / 1M tokensCached input:$0.50 / 1M tokensOutput:$30.00 / 1M tokens
 
-## GPT-5.4
 
-A more affordable model for coding and professional work.
 
-### Price
+### Looking for personal plans?
 
-Input:$2.50 / 1M tokensCached input:$0.25 / 1M tokensOutput:$15.00 / 1M tokens
+Visit ChatGPT.com for consumer pricing
 
-## GPT-5.4 mini
+[Learn more(opens in a new window)](<https://chatgpt.com/pricing/>)
 
-Our strongest mini model yet for coding, computer use, and subagents.
+Compare all features
 
-### Price
+Pricing
 
-Input:$0.75 / 1M tokensCached input:$0.075 / 1M tokensOutput:$4.50 / 1M tokens
+## Compare features across plans
 
-Pricing above reflects standard processing rates for context lengths under 270K.  
-Learn more about [_Batch Processing_ ⁠(opens in a new window)](<https://developers.openai.com/api/docs/guides/batch>) and [_Data residency & Regional Processing_⁠(opens in a new window)](<https://developers.openai.com/api/docs/guides/your-data#how-does-data-residency-work>)
+Business
 
-  * [Explore detailed pricing(opens in a new window)](<https://developers.openai.com/api/docs/pricing>)
+[Try ChatGPT Business(opens in a new window)](<https://chatgpt.com/team-sign-up>)
 
+Enterprise
 
+[Contact sales(opens in a new window)](</contact-sales/>)
 
-### Multimodal models
+### Essentials
 
-Power applications across text, image, and audio with models built for real-time interaction and rich media generation. 
+###### Messages and interactions
 
-Choose your processing mode
+Unlimited*Plan: Business, Feature: Messages and interactions, Unlimited*
 
-StandardBatch -50%Data residency +10%
+Unlimited*Plan: Enterprise, Feature: Messages and interactions, Unlimited*
 
-## GPT-Realtime-2.1
+###### Chat history
 
-Our most capable model for realtime voice interactions with advanced reasoning built in.
+Unlimited*Plan: Business, Feature: Chat history, Unlimited*
 
-### Price
+Unlimited*Plan: Enterprise, Feature: Chat history, Unlimited*
 
-Audio:$32.00 / 1M tokens for inputs$0.40 / 1M tokens for cached inputs$64.00 / 1M tokens for outputsText:$4.00 / 1M tokens for inputs$0.40 / 1M tokens for cached inputs$24.00 / 1M tokens for outputsImage:$5.00 / 1M tokens for inputs$0.50 / 1M tokens for cached inputs
+###### Access on web, iOS, Android
 
-## GPT-Realtime-2.1 mini
+Plan: Business, Feature: Access on web, iOS, Android, Yes
 
-Our strongest mini model yet for realtime voice interactions with advanced reasoning built in.
+Plan: Enterprise, Feature: Access on web, iOS, Android, Yes
 
-### Price
+### Models
 
-Audio:$10.00 / 1M tokens for inputs$0.30 / 1M tokens for cached inputs$20.00 / 1M tokens for outputsText:$0.60 / 1M tokens for inputs$0.06 / 1M tokens for cached inputs$2.40 / 1M tokens for outputsImage:$0.80 / 1M tokens for inputs$0.08 / 1M tokens for cached inputs
+###### GPT-5.5 Instant
 
-## GPT-Realtime-Translate
+Unlimited*Plan: Business, Feature: GPT-5.5 Instant, Unlimited*
 
-A model that translates speech in real time and keeps pace with the speaker.
+Unlimited*Plan: Enterprise, Feature: GPT-5.5 Instant, Unlimited*
 
-### Price
+###### GPT-5.6 Sol
 
-$0.034 per minute / $0.00057 per second
+Flexible**Plan: Business, Feature: GPT-5.6 Sol, Flexible**
 
-## GPT-Realtime-Whisper
+Flexible**Plan: Enterprise, Feature: GPT-5.6 Sol, Flexible**
 
-A streaming speech-to-text model that transcribes speech live as the speaker talks.
+###### GPT-5.6 Sol Pro
 
-### Price
+Flexible**Plan: Business, Feature: GPT-5.6 Sol Pro, Flexible**
 
-$0.017 per minute / $0.00028 per second
+Flexible**Plan: Enterprise, Feature: GPT-5.6 Sol Pro, Flexible**
 
-## GPT-Image-2
+###### GPT-5.6 Terra
 
-State-of-the-art image generation model.
+Flexible**Plan: Business, Feature: GPT-5.6 Terra, Flexible**
 
-### Price
+Flexible**Plan: Enterprise, Feature: GPT-5.6 Terra, Flexible**
 
-Image:$8.00 / 1M tokens for inputs$2.00 / 1M tokens for cached inputs$30.00 / 1M tokens for outputsText:$5.00 / 1M tokens for inputs$1.25 / 1M tokens for cached inputs
+###### GPT-5.6 Luna
 
-### Tools
+Flexible**Plan: Business, Feature: GPT-5.6 Luna, Flexible**
 
-Extend model capabilities with built-in tools for retrieval, execution, and external data access. 
+Flexible**Plan: Enterprise, Feature: GPT-5.6 Luna, Flexible**
 
-## Web search
+###### GPT-5 Thinking Mini
 
-Retrieve up-to-date information from the web to ground model responses. 
+Flexible**Plan: Business, Feature: GPT-5 Thinking Mini, Flexible**
 
-### Price
+Flexible**Plan: Enterprise, Feature: GPT-5 Thinking Mini, Flexible**
 
-$10.00 / 1k callsSearch content tokens are free.
+###### Legacy models
 
-## Containers
+Plan: Business, Feature: Legacy models, Yes
 
-Run code and tools in secure, scalable environments alongside your models.
+Plan: Enterprise, Feature: Legacy models, Yes
 
-### Price
+###### Response times
 
-Now:1 GB for $0.03 / 64GB for $1.92 per containerStarting March 31, 2026:1 GB for $0.03 / 64GB for $1.92 per 20-minute session per container
+FastPlan: Business, Feature: Response times, Fast
 
-### Service tiers
+FastestPlan: Enterprise, Feature: Response times, Fastest
 
-Balance performance, predictable costs, and availability based on your needs.
+###### GPT Instant total context window
 
-![Stack icon](https://images.ctfassets.net/kftzwdyauwt9/63IFaqEsuiZRkZCc13Tork/a68b9165722e9f97d85dd644617f532f/stack.svg?w=3840&q=90)
+54KPlan: Business, Feature: GPT Instant total context window, 54K
 
-#### Batch API
+128KPlan: Enterprise, Feature: GPT Instant total context window, 128K
 
-Save 50% on inputs and outputs with the Batch API and run tasks asynchronously over 24 hours.
+###### GPT Instant input maximum***
 
-[Learn more(opens in a new window)](<https://platform.openai.com/docs/guides/batch>)
+~40 pagesPlan: Business, Feature: GPT Instant input maximum***, ~40 pages
 
-![Timer icon](https://images.ctfassets.net/kftzwdyauwt9/1Z5wlpPLNklcKRQYA1eZ6H/1974956da475b28cfb5e340a5313eff3/timer.svg?w=3840&q=90)
+~250 pagesPlan: Enterprise, Feature: GPT Instant input maximum***, ~250 pages
 
-#### Priority processing
+###### GPT Reasoning total context window
 
-Offers reliable, high-speed performance with the flexibility to pay-as-you-go.
+256KPlan: Business, Feature: GPT Reasoning total context window, 256K
 
-[Learn more(opens in a new window)](</api-priority-processing>)
+256KPlan: Enterprise, Feature: GPT Reasoning total context window, 256K
 
-![Arrow up and down icon](https://images.ctfassets.net/kftzwdyauwt9/6Sv3BxS2Sseug7quNfVRwD/cf9ec80df211cc8905bd4c7ac3d73ef2/arrow-down-arrow-up.svg?w=3840&q=90)
+###### GPT Reasoning input maximum***
 
-#### Flex processing
+~320 pagesPlan: Business, Feature: GPT Reasoning input maximum***, ~320 pages
 
-Provides lower costs for requests in exchange for slower response times and occasional resource unavailability. Ideal for non-production or lower priority tasks.
+~320 pagesPlan: Enterprise, Feature: GPT Reasoning input maximum***, ~320 pages
 
-[Learn more(opens in a new window)](<https://developers.openai.com/api/docs/guides/flex-processing>)
+###### Regular quality & speed updates
 
-### Enterprise offerings
+Plan: Business, Feature: Regular quality & speed updates, Yes
 
-Contact our sales team to learn more about [**_Data residency_** ⁠(opens in a new window)](<https://developers.openai.com/api/docs/guides/your-data#data-residency-controls>), [**_Scale Tier_** ⁠](<https://openai.com/api-scale-tier/>)**and**[** _Reserved Capacity_** ⁠](<https://openai.com/reserved-capacity/>) designed for cutting-edge customers running larger workloads.
+Plan: Enterprise, Feature: Regular quality & speed updates, Yes
 
-  * [Contact sales](</contact-sales/>)
+### Features
 
+###### ChatGPT Work
 
+Desktop, web, and mobile Plan: Business, Feature: ChatGPT Work, Desktop, web, and mobile 
 
-### FAQ
+Desktop, web, and mobile Plan: Enterprise, Feature: ChatGPT Work, Desktop, web, and mobile 
+
+###### Codex
+
+Plan: Business, Feature: Codex, Yes
+
+Plan: Enterprise, Feature: Codex, Yes
+
+###### Plugins
+
+Plan: Business, Feature: Plugins, Yes
+
+Plan: Enterprise, Feature: Plugins, Yes
+
+###### Voice
+
+ExpandedPlan: Business, Feature: Voice, Expanded
+
+Flexible**Plan: Enterprise, Feature: Voice, Flexible**
+
+###### Voice with video
+
+Plan: Business, Feature: Voice with video, Yes
+
+Plan: Enterprise, Feature: Voice with video, Yes
+
+###### Skills beta
+
+Plan: Business, Feature: Skills beta, Yes
+
+Plan: Enterprise, Feature: Skills beta, Yes
+
+###### Memory
+
+ExpandedPlan: Business, Feature: Memory, Expanded
+
+ExpandedPlan: Enterprise, Feature: Memory, Expanded
+
+###### Memory with past chats
+
+Coming soonPlan: Business, Feature: Memory with past chats, Coming soon
+
+Coming soonPlan: Enterprise, Feature: Memory with past chats, Coming soon
+
+###### Memory sources
+
+Plan: Business, Feature: Memory sources, No
+
+Plan: Enterprise, Feature: Memory sources, No
+
+###### Search
+
+Plan: Business, Feature: Search, Yes
+
+Plan: Enterprise, Feature: Search, Yes
+
+###### Canvas
+
+Plan: Business, Feature: Canvas, Yes
+
+Plan: Enterprise, Feature: Canvas, Yes
+
+###### Code edits on macOS
+
+Plan: Business, Feature: Code edits on macOS, Yes
+
+Plan: Enterprise, Feature: Code edits on macOS, Yes
+
+###### File uploads
+
+Plan: Business, Feature: File uploads, Yes
+
+Plan: Enterprise, Feature: File uploads, Yes
+
+###### Projects
+
+Plan: Business, Feature: Projects, Yes
+
+Plan: Enterprise, Feature: Projects, Yes
+
+###### Shared projects
+
+Plan: Business, Feature: Shared projects, Yes
+
+Plan: Enterprise, Feature: Shared projects, Yes
+
+###### Scheduled tasks
+
+Plan: Business, Feature: Scheduled tasks, Yes
+
+Plan: Enterprise, Feature: Scheduled tasks, Yes
+
+###### Sites
+
+Plan: Business, Feature: Sites, Yes
+
+Plan: Enterprise, Feature: Sites, Yes
+
+###### Built-in browser
+
+Plan: Business, Feature: Built-in browser, Yes
+
+Plan: Enterprise, Feature: Built-in browser, Yes
+
+###### Workspace agents
+
+Plan: Business, Feature: Workspace agents, Yes
+
+Plan: Enterprise, Feature: Workspace agents, Yes
+
+###### Data analysis
+
+Plan: Business, Feature: Data analysis, Yes
+
+Plan: Enterprise, Feature: Data analysis, Yes
+
+###### Vision
+
+Plan: Business, Feature: Vision, Yes
+
+Plan: Enterprise, Feature: Vision, Yes
+
+###### Apps connecting to internal tools
+
+Plan: Business, Feature: Apps connecting to internal tools, Yes
+
+Plan: Enterprise, Feature: Apps connecting to internal tools, Yes
+
+###### Interactive apps
+
+Plan: Business, Feature: Interactive apps, Yes
+
+Plan: Enterprise, Feature: Interactive apps, Yes
+
+###### Excel, PowerPoint, and Google Sheets extensions
+
+Plan: Business, Feature: Excel, PowerPoint, and Google Sheets extensions, Yes
+
+Plan: Enterprise, Feature: Excel, PowerPoint, and Google Sheets extensions, Yes
+
+###### Company knowledge
+
+Plan: Business, Feature: Company knowledge, Yes
+
+Plan: Enterprise, Feature: Company knowledge, Yes
+
+###### Developer mode (beta)
+
+Plan: Business, Feature: Developer mode (beta), Yes
+
+Plan: Enterprise, Feature: Developer mode (beta), Yes
+
+###### ChatGPT record mode
+
+Plan: Business, Feature: ChatGPT record mode, Yes
+
+Plan: Enterprise, Feature: ChatGPT record mode, Yes
+
+###### Discover & use GPTs
+
+Plan: Business, Feature: Discover & use GPTs, Yes
+
+Plan: Enterprise, Feature: Discover & use GPTs, Yes
+
+###### Create & share GPTs
+
+Plan: Business, Feature: Create & share GPTs, Yes
+
+Plan: Enterprise, Feature: Create & share GPTs, Yes
+
+###### Share GPTs with your workspace
+
+Plan: Business, Feature: Share GPTs with your workspace, Yes
+
+Plan: Enterprise, Feature: Share GPTs with your workspace, Yes
+
+###### Opportunities to test new features
+
+Plan: Business, Feature: Opportunities to test new features, Yes
+
+Plan: Enterprise, Feature: Opportunities to test new features, Yes
+
+###### Image generation
+
+Plan: Business, Feature: Image generation, Yes
+
+Plan: Enterprise, Feature: Image generation, Yes
+
+###### Image generation with Thinking
+
+Plan: Business, Feature: Image generation with Thinking, Yes
+
+Plan: Enterprise, Feature: Image generation with Thinking, Yes
+
+###### Interactive tables and charts
+
+Plan: Business, Feature: Interactive tables and charts, Yes
+
+Plan: Enterprise, Feature: Interactive tables and charts, Yes
+
+###### Deep research
+
+Plan: Business, Feature: Deep research, Yes
+
+Plan: Enterprise, Feature: Deep research, Yes
+
+###### Apps for deep research
+
+Plan: Business, Feature: Apps for deep research, Yes
+
+Plan: Enterprise, Feature: Apps for deep research, Yes
+
+###### Study mode
+
+Plan: Business, Feature: Study mode, Yes
+
+Plan: Enterprise, Feature: Study mode, Yes
+
+### Privacy
+
+###### Content is used to train our models
+
+No. [Read our Privacy commitment](<https://openai.com/enterprise-privacy/>)Plan: Business, Feature: Content is used to train our models, No. 
+
+No.[Read our Privacy commitment](<https://openai.com/enterprise-privacy/>)Plan: Enterprise, Feature: Content is used to train our models, No.
+
+### Security & Administration
+
+###### SAML SSO
+
+Plan: Business, Feature: SAML SSO, Yes
+
+Plan: Enterprise, Feature: SAML SSO, Yes
+
+###### Unified billing
+
+Plan: Business, Feature: Unified billing, Yes
+
+Plan: Enterprise, Feature: Unified billing, Yes
+
+###### Dedicated workspace
+
+Plan: Business, Feature: Dedicated workspace, Yes
+
+Plan: Enterprise, Feature: Dedicated workspace, Yes
+
+###### GPTs analytics and management 
+
+Plan: Business, Feature: GPTs analytics and management , Yes
+
+Plan: Enterprise, Feature: GPTs analytics and management , Yes
+
+###### Admin console
+
+Plan: Business, Feature: Admin console, Yes
+
+Plan: Enterprise, Feature: Admin console, Yes
+
+###### Bulk member management
+
+Plan: Business, Feature: Bulk member management, Yes
+
+Plan: Enterprise, Feature: Bulk member management, Yes
+
+###### Admin roles
+
+Plan: Business, Feature: Admin roles, Yes
+
+Plan: Enterprise, Feature: Admin roles, Yes
+
+###### Soc 2 Type 2 compliance
+
+Plan: Business, Feature: Soc 2 Type 2 compliance, Yes
+
+Plan: Enterprise, Feature: Soc 2 Type 2 compliance, Yes
+
+###### Domain verification
+
+Plan: Business, Feature: Domain verification, Yes
+
+Plan: Enterprise, Feature: Domain verification, Yes
+
+###### ISO 27001, 27017, 27018, and 27701 certified
+
+Plan: Business, Feature: ISO 27001, 27017, 27018, and 27701 certified, No
+
+Plan: Enterprise, Feature: ISO 27001, 27017, 27018, and 27701 certified, Yes
+
+###### SCIM
+
+Plan: Business, Feature: SCIM, No
+
+Plan: Enterprise, Feature: SCIM, Yes
+
+###### Enterprise Key Management
+
+Plan: Business, Feature: Enterprise Key Management, No
+
+Plan: Enterprise, Feature: Enterprise Key Management, Yes
+
+###### Role-based access controls
+
+Plan: Business, Feature: Role-based access controls, No
+
+Plan: Enterprise, Feature: Role-based access controls, Yes
+
+###### Analytics dashboard
+
+Plan: Business, Feature: Analytics dashboard, No
+
+Plan: Enterprise, Feature: Analytics dashboard, Yes
+
+###### Compliance API Logs Platform
+
+Plan: Business, Feature: Compliance API Logs Platform, No
+
+Plan: Enterprise, Feature: Compliance API Logs Platform, Yes
+
+###### IP allowlisting
+
+Plan: Business, Feature: IP allowlisting, No
+
+Plan: Enterprise, Feature: IP allowlisting, Yes
+
+###### Data residency in US, EU, UK, JP, CA, KR, SG, IN, AU, UAE
+
+Plan: Business, Feature: Data residency in US, EU, UK, JP, CA, KR, SG, IN, AU, UAE, No
+
+Plan: Enterprise, Feature: Data residency in US, EU, UK, JP, CA, KR, SG, IN, AU, UAE, Yes
+
+###### Branded workspace
+
+Plan: Business, Feature: Branded workspace, No
+
+Plan: Enterprise, Feature: Branded workspace, Yes
+
+###### Global admin console
+
+Plan: Business, Feature: Global admin console, No
+
+Plan: Enterprise, Feature: Global admin console, Yes
+
+###### Connector registry
+
+Plan: Business, Feature: Connector registry, No
+
+Plan: Enterprise, Feature: Connector registry, Yes
+
+### Customer Service
+
+###### Enhanced support
+
+Plan: Business, Feature: Enhanced support, No
+
+Plan: Enterprise, Feature: Enhanced support, Yes
+
+###### Dedicated onboarding
+
+Plan: Business, Feature: Dedicated onboarding, No
+
+Plan: Enterprise, Feature: Dedicated onboarding, Yes
+
+###### Ongoing account management
+
+Plan: Business, Feature: Ongoing account management, No
+
+Plan: Enterprise, Feature: Ongoing account management, Yes
+
+###### Custom security review
+
+Plan: Business, Feature: Custom security review, No
+
+Plan: Enterprise, Feature: Custom security review, Yes
+
+BusinessEnterprise
+
+[Try ChatGPT Business(opens in a new window)](<https://chatgpt.com/team-sign-up>)
+
+_*Usage must be reasonable and comply with our_[ _policies_ ⁠(opens in a new window)](<https://help.openai.com/en/articles/9793128>)
+
+_**Enterprise and Business can purchase credits for more access_
+
+ _***ChatGPT manages a shared context window to understand your request, track the conversation, retrieve relevant information, and generate responses. The portion available for user input is smaller than the total window, as space is also used for system instructions (including tools and personality), memories (if enabled), and internal processing (reviewing information, reasoning, and response generation). The reported space for user input is an approximation and may change dynamically based on features in use and any memory content._
+
+## Trusted by teams at
+
+## FAQ
 
 ## Start creating with OpenAI’s powerful models.
 
@@ -189,9 +624,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -283,67 +718,34 @@ OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
 
-### Which model should I use?
+### How does ChatGPT’s pricing work?
 
-We recommend that developers use our large and mini GPT models for everyday tasks. Our large GPT models generally perform better on a wide range of tasks, while our mini GPT models are fast and inexpensive for simpler tasks.
+The free version of ChatGPT is available to everyone. Paid plans (Go, Plus, Business, and Enterprise) are priced per user per month. We offer monthly plans for Go, Plus and Business and annual plans for Business and Enterprise.
 
-Our large and mini reasoning models are ideal for complex, multi-step tasks and STEM use cases that require deep thinking about tough problems. You can choose the mini reasoning model if you're looking for a faster, more inexpensive option.
+### Is ChatGPT free to use?
 
-We recommend experimenting with all of these models in the [Playground⁠⁠(opens in a new window)](<https://platform.openai.com/playground>) to explore which models provide the best price performance trade-off for your usage.
+The free version of ChatGPT is available to everyone. Upgrading to Go, Plus, Business, or Enterprise offers a more powerful experience through additional features and access to GPT‑5.4.
 
-### Do you offer an enterprise package or SLAs?
+### Does OpenAI offer a ChatGPT plan for educational institutions?
 
-We offer different tiers of access to our enterprise customers that include SLAs, lower latency, and more. Please [_contact our sales team_ ⁠](<https://openai.com/contact-sales/>) to learn more.
+Yes. We offer [ChatGPT for Teachers⁠(opens in a new window)](<https://chatgpt.com/plans/k12-teachers/>), a free plan for verified U.S. K–12 educators through June 2027, and [ChatGPT Edu⁠(opens in a new window)](<https://chatgpt.com/business/education/>), an affordable plan that lets universities deploy AI across their campus communities. Both plans include enhanced security and privacy controls, with additional administrative features available for schools, districts, and universities. [Contact our team](</contact-sales/>) to learn more.
 
-### Will I be charged for API usage in the Playground? 
+### Does OpenAI offer a discount for nonprofits?
 
-Yes, we treat Playground usage the same as regular API usage. You will be billed at the per-token input and output prices mentioned above.
+_Yes. Through OpenAI for Nonprofits, nonprofits can now access up to a 75% discount on ChatGPT Business or_ ChatGPT Enterprise. [Contact our sales team⁠(opens in a new window)](<https://chatgpt.com/contact-sales>) to get started.
 
-### How will I know how many tokens I’ve used each month?
+### How many users are supported on each subscription plan?
 
-A token is a mathematical representation of natural language. Log in to your account to view your [_usage tracking dashboard_ ⁠(opens in a new window)](<https://platform.openai.com/account/usage>). This dashboard will show you how many tokens you’ve used during the current and past billing cycles.
+Go, Free, and Plus plans are designed to be used by individuals. Business and Enterprise are for businesses. Business plans are available starting at 2 users. Please [contact sales](</contact-sales/>) to learn more about our Enterprise plan.
 
-### How can I manage my spending on the API platform?
+### What are my payment options?
 
-You can set a monthly budget in [_your billing settings⁠_ ⁠(opens in a new window)](<https://platform.openai.com/settings/organization/limits>), after which we’ll stop serving your requests. There may be a delay in enforcing the limit, and you are responsible for any overage incurred. You can also configure an email notification threshold to receive an email alert once you cross that threshold each month. We recommend checking your [_usage tracking dashboard_ ⁠(opens in a new window)](<https://platform.openai.com/account/usage>) regularly to monitor your spend.
+You can purchase ChatGPT Go, Plus, Pro, or Business with any major credit card. For ChatGPT Enterprise, please [contact sales](</contact-sales/>) for alternative payment options such as invoicing.
 
-For customers managing work with Projects, you can [_set and manage billing restrictions per project_ ⁠(opens in a new window)](<https://help.openai.com/en/articles/9186755-managing-your-work-in-the-api-platform-with-projects>)⁠ in the Dashboard.
+### How secure is ChatGPT?
 
-### Is access to the API included in ChatGPT Plus, Business, Enterprise or Edu?
+All data is encrypted in transit (TLS 1.2). Data at rest is encrypted at rest (AES-256), and strict access controls are used to limit who can access data. Our security team has an on-call rotation that has 24/7/365 coverage and is paged in case of any potential security incident. We offer a [Bug Bounty Program](</index/bug-bounty-program/>) for responsible disclosure of vulnerabilities discovered on our platform and products. Please visit our [Trust Portal⁠(opens in a new window)](<https://trust.openai.com/>) for more details.
 
-No, OpenAI APIs are billed separately from ChatGPT Plus, Business, Enterprise and Edu. ChatGPT subscription pricing can be found at [_openai.com/chatgpt/pricing/_ ⁠](<https://openai.com/chatgpt/pricing/>). 
+### How does ChatGPT use my data?
 
-### How is pricing calculated for images?
-
-Images are converted into tokens and charged per token. Text models price image tokens at standard text token rates, while GPT Image and gpt-realtime uses a separate image token rate. Models like gpt-4.1-mini, gpt-4.1-nano, and o4-mini convert images into tokens differently. [Learn more in our docs⁠(opens in a new window)](<https://platform.openai.com/docs/guides/images-vision?api-mode=chat#calculating-costs>).
-
-Pricing calculator
-
-Set model
-
-gpt-5gpt-5.1gpt-5.2gpt-5-minigpt-5-nanogpt-5-chat-latestgpt-4.1gpt-4.1-minigpt-4.1-nanoo3o3-deep-researcho3-pro-2025-06-10o4-minio4-mini-deep-researcho1o1-progpt-4ogpt-4o-2024-05-13gpt-4o-minicomputer-use-previewgpt-4.5-previewcodex-mini-latestgpt-5-codex
-
-Set width
-
-px
-
-by
-
-Set height
-
-px
-
-=$0.000263
-
-Low resolution
-
-=$0.000263
-
-Price per 1M tokens (fixed)| $1.25  
----|---  
-512 × 512 tiles| 1 × 1  
-Total tiles| 1  
-Base tokens| 70  
-Tile tokens| 140 × 1 = 140  
-Total tokens| 210  
-Total price| $0.000263
+We give you control over your data. Read more about [how your data is used](</policies/how-your-data-is-used-to-improve-model-performance/>) and our [Enterprise privacy](</enterprise-privacy/>).

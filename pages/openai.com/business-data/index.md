@@ -109,7 +109,9 @@ ChatGPT Enterprise, Edu, & ChatGPT for Healthcare features
 
   * [** _SCIM_** ⁠(opens in a new window)](<https://help.openai.com/en/articles/9627404-openai-chatgpt-scim-integration-faq>) enables IT administrators to automate provisioning and deprovisioning of user accounts
 
-  * ****[** _Role-based access controls⁠_** ⁠(opens in a new window)](<https://help.openai.com/en/articles/11750701-rbac>) to create and assign custom roles by group, and set permissions for tools like apps, shared projects, GPTs, and web search
+  * ****[** _Role-based access controls⁠_** ⁠(opens in a new window)](<https://help.openai.com/en/articles/11750701-rbac>) to create and assign custom roles by group, and set permissions for ChatGPT Work, Codex, connected tools, workspace agents, and more
+
+  * **Centralized spend controls** to manage Codex and ChatGPT Work usage with workspace defaults, group limits, individual overrides, and review of additional credit requests
 
   * **User analytics** for real-time visibility into adoption, engagement, and usage trends
 
@@ -163,9 +165,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 

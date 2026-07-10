@@ -30,13 +30,13 @@ Select language
 
 …
 
-Last updated: June 2, 2026
+Last updated: July 9, 2026
 
 # OpenAI Sub-processor list
 
 OpenAI engages the following entities to provide processing activities for Customer Data (as defined in the OpenAI Data Processing Agreement).
 
-## Third party Sub-processors
+## Third Party Sub-processors
 
 **Entity Name**| **OpenAI Product or Service**| **Location of Processing**| **Purpose of Processing**  
 ---|---|---|---  
@@ -201,6 +201,10 @@ For GPTs that are kept private to an individual or workspace, moderation activit
 
 _Infrastructure management_ : Merge API is only used when the Customer chooses to enable [_Connectors in ChatGPT_ ⁠(opens in a new window)](<https://help.openai.com/articles/11487775-connectors-in-chatgpt>).
 
+### Processing for ChatGPT Pro and Plus users:
+
+_ChatGPT Sites:_ The OpenAI Subprocessors listed above may provide web hosting, infrastructure, content moderation and support services for ChatGPT Sites created web pages. Web Hosting providers may run security and safety classifiers on web pages and share results with OpenAI and its subprocessors.
+
 ## OpenAI entities
 
 The following OpenAI affiliate companies provide technical and operational support for the Services. We use the Standard Contractual Clauses as a valid transfer mechanism among affiliates.
@@ -244,9 +248,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -283,6 +287,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 

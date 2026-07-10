@@ -26,6 +26,14 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 OpenAI
 
+New
+
+### Introducing ChatGPT Work: 
+
+A new agent in ChatGPT that helps teams turn ambitious goals into finished work—with enterprise controls and governance built in.
+
+[Learn more](</chatgpt-work/>)
+
 OpenAI for data analysis
 
 # Connect every dataset and team with intelligence that scales
@@ -99,7 +107,7 @@ Connect to your existing tools, while keeping data private and protected.
 
 Connect ChatGPT to your data sources and analytics tools using apps and MCP, or develop custom integrations that meet your needs.
 
-[Explore apps](</business/apps/>)[Connect with MCP](<https://platform.openai.com/docs/mcp>)
+[Explore apps](</business/plugins/>)[Connect with MCP](<https://platform.openai.com/docs/mcp>)
 
 ![Row of blue certification badges for CCPA, CSA STAR, GDPR, AICPA SOC 2, ISO 27001, and ISO 27701, representing compliance and data security standards.](https://images.ctfassets.net/kftzwdyauwt9/41efEX7uIrsnblWLorihtN/47b0f02a04f5e1aa5ca2963d7fffc1ab/Thumbnail-2up-card-02.png?w=3840&q=90&fm=webp)
 
@@ -115,7 +123,7 @@ Your organization’s data is never used to improve our models. It’s protected
 
 [Endex builds the future of financial analysisFeb 27, 2025](</index/endex/>)
 
-[BBVA puts AI in the hands of every team with OpenAI](<>)
+BBVA puts AI in the hands of every team with OpenAI
 
 ![White Paradigm logo on a blue background](https://images.ctfassets.net/kftzwdyauwt9/cf6137b5-e774-4a99-04d7fd2a1df5/957e95efcde59fd30d875737b00c052a/oai_paradigm-health_1_1.png?w=3840&q=90&fm=webp)
 
@@ -145,9 +153,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 

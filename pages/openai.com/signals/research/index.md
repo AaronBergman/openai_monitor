@@ -38,9 +38,9 @@ Explore the latest resources below, including country-focused Signals reports, r
 
 ### [How ChatGPT adoption broadened in early 2026May 2026 | Q1 data shows consumer adoption growth among users over 35 and those with typically feminine names.Learn more](<https://openai.com/signals/research/2026q1-update/>)
 
-### [Main Street entrepreneurship, powered by ChatGPTMay 2026 | Empowering entrepreneurs with ChatGPT.Learn more](<https://cdn.openai.com/pdf/32153121-f87f-4320-a725-9c94ee8d9b30/empowering-entrepreneurship-in-chatgpt-report.pdf>)
+### [Main Street entrepreneurship, powered by ChatGPTMay 2026 | Empowering entrepreneurs with ChatGPT.Learn more](<https://openai.com/index/ai-first-hire-small-business/>)
 
-### [The AI jobs transition frameworkApril 2026 | Mapping AI’s near-term impact on jobs.Learn more](<https://cdn.openai.com/pdf/the-ai-jobs-transition-framework_report.pdf>)
+### [The AI jobs transition frameworkApril 2026 | Mapping AI’s near-term impact on jobs.Learn more](<https://openai.com/index/modeling-ai-jobs-transition/>)
 
 ### [ChatGPT and the price of workMarch 2026 | How Americans use ChatGPT to help them close the wage information gap.Learn more](<https://cdn.openai.com/pdf/ChatGPT-and-the-price-of-work_report.pdf>)
 
@@ -104,9 +104,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 

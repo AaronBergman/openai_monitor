@@ -26,15 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Writing effective image prompts
-
-  * Writing effective image prompts
-  * Best practices to improve results
-  * Advanced guidance 
-  * Additional considerations
-
-
-
 April 10, 2026
 
 OpenAI Academy
@@ -46,6 +37,42 @@ Generate and refine images using clear, descriptive prompts.
 Loading…
 
 Share
+
+Writing effective image prompts
+
+  * Writing effective image prompts
+
+  * Best practices to improve results
+
+  * Advanced guidance 
+
+    * Using multiple uploaded images
+
+    * Text in images (titles, labels, headlines)
+
+    * Infographics and dense layouts
+
+  * Additional considerations
+
+
+
+
+  * Writing effective image prompts
+
+  * Best practices to improve results
+
+  * Advanced guidance 
+
+    * Using multiple uploaded images
+
+    * Text in images (titles, labels, headlines)
+
+    * Infographics and dense layouts
+
+  * Additional considerations
+
+
+
 
 ChatGPT can generate original images from plain-language prompts. You can iterate quickly—request variations, adjust composition or size, or explore new visual directions—and produce production-ready assets in minutes.
 
@@ -124,15 +151,15 @@ Discover additional guides and resources to help you build practical AI skills.
 
 ![Academy > Projects > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/L0cSoOsBFybec07VSIDJw/27647c6494be7191e0e2168f5bf27044/projects.png?w=3840&q=90&fm=webp)
 
-[Using projects in ChatGPTOpenAI AcademyApr 10, 2026](</academy/projects/>)
+[Using projects in ChatGPT | OpenAIOpenAI AcademyApr 10, 2026](</academy/projects/>)
 
 ![Academy > Custom GPTs > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/2UV4fI7a8z34VgwSmpgzy1/2b09c857ffda3696fec60cad6fb18b86/custom-gpts.png?w=3840&q=90&fm=webp)
 
-[Using custom GPTsOpenAI AcademyApr 10, 2026](</academy/custom-gpts/>)
+[Using custom GPTs | OpenAIOpenAI AcademyApr 10, 2026](</academy/custom-gpts/>)
 
 ![Academy > Skills > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/5HjfQo619jC918nhDM0S4p/a788f0e356c534e61f30e6607402b5ab/skills.png?w=3840&q=90&fm=webp)
 
-[Using skillsOpenAI AcademyApr 10, 2026](</academy/skills/>)
+[Using skills in ChatGPT | OpenAIOpenAI AcademyApr 10, 2026](</academy/skills/>)
 
 Research
 
@@ -144,9 +171,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -183,6 +210,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 

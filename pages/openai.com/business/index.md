@@ -26,6 +26,14 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 OpenAI
 
+New
+
+### Introducing ChatGPT Work: 
+
+A new agent in ChatGPT that helps teams turn ambitious goals into finished work—with enterprise controls and governance built in.
+
+[Learn more](</chatgpt-work/>)
+
 # Frontier intelligenceeverywhere you work
 
 Get started
@@ -34,69 +42,32 @@ Get started
 
 [![Cisco colleagues collaborating on a laptop beside studio windows](https://images.ctfassets.net/kftzwdyauwt9/1t5IYcEUHVv2SBqs85yOBz/dfb403dba368a453900bd928e2a14444/Cisco_Still_Frame_2.png?w=3840&q=90&fm=webp)![](https://images.ctfassets.net/kftzwdyauwt9/3bPrRHURUMOUbb4dQHHvDY/6c57bae691ce6d6bf52c5cae44505f24/cisco.svg?w=3840&q=90)Read story](</customer-stories/cisco/>)[![Morgan Stanley team meeting in a conference room](https://images.ctfassets.net/kftzwdyauwt9/5soIm5Bd0reFqgefqzyWZx/0837b0b651f2c7a56d95beb179ededcd/Morgan_Stanley_Still_Frame.png?w=3840&q=90&fm=webp)![](https://images.ctfassets.net/kftzwdyauwt9/2gHGfMDWnORWPsivIbh95o/a7c8a463a43d007875468a8c96e51d30/morgan-stanley-provided.svg?w=3840&q=90)Read story](</customer-stories/morgan-stanley/>)[![Designer sketching concepts in a studio workspace](https://images.ctfassets.net/kftzwdyauwt9/3mWM3h7M1diUabKhYgTF1I/ea13a3a8d3a334bab9c0178600ba9819/BNY_Still_Frame.jpg?w=3840&q=90&fm=webp)![](https://images.ctfassets.net/kftzwdyauwt9/F5VHdqUF5otxZ0Hewf8uQ/3c7402e993935631b6495cd1d592c28c/bny.svg?w=3840&q=90)Read story](</customer-stories/bny/>)[![Team meeting around a conference table](https://images.ctfassets.net/kftzwdyauwt9/lKG8etPMCAHMncytiKRVJ/64534fdc370babda6daf517d3a382e9a/Moderna_Still_Frame_2.png?w=3840&q=90&fm=webp)![](https://images.ctfassets.net/kftzwdyauwt9/1zcHIB7H1VIac6oWL5Q6Q1/9e46dd902429334f2763773553c2c697/moderna.svg?w=3840&q=90)Read story](</customer-stories/moderna/>)[![Driver looking ahead from inside a car](https://images.ctfassets.net/kftzwdyauwt9/2wBDjBWhNarSUHm8nj2wXU/1d609e2bfcac058e5c529f3899a5e5da/Uber_Still_Frame_2.jpg?w=3840&q=90&fm=webp)![](https://images.ctfassets.net/kftzwdyauwt9/35SaxPL9nDrnKlMvs7F2dp/6343177fddcec69a68a75f320e538b99/uber.svg?w=3840&q=90)Read story](</customer-stories/uber/>)
 
+### Introducing ChatGPT Work
+
+Take on your most ambitious work with enterprise controls and governance.
+
+  * Create polished docs, decks, and spreadsheets
+  * Automate tasks in the background
+  * Pairs with your preferred tools and plugins
+  * Included with ChatGPT Business and Enterprise plans
+
+
+
+[Learn more](</chatgpt-work/>)
+
 ## AI for every team
 
 Frontier models built for the work your teams do every day.
 
 ### A complete AI platform for your business
 
-ChatGPTCodexAPI
+ChatGPT WorkCodexAPI
 
-AI for writing, research, building, and problem-solving.
+Work faster with AI for writing, researching, creating, and everyday problem-solving.
 
 [Explore detailed pricing⁠](<https://openai.com/business/pricing>) | [Learn more >⁠(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
 
-ChatGPT
-
-ChatGPT
-
-New chat
-
-Library
-
-Scheduled
-
-Plugins
-
-AgentsNew
-
-Projects
-
-Customer launch planQuarterly forecastBrand campaign
-
-Chats
-
-Friendly Professional EmailChange SVG Color With CSSProject Kickoff Notes Summary
-
-## What are you working on?
-
-Summarize customer notesTurn research into a concise briefDraft a launch planCreate messaging, milestones, and ownersAnalyze a spreadsheetFind patterns and next steps in dataCreate a concise briefShape ideas into a polished summary
-
-ChatGPT
-
-ChatGPT
-
-New chat
-
-Library
-
-Scheduled
-
-Plugins
-
-AgentsNew
-
-Projects
-
-Customer launch planQuarterly forecastBrand campaign
-
-Chats
-
-Friendly Professional EmailChange SVG Color With CSSProject Kickoff Notes Summary
-
-## What are you working on?
-
-Summarize customer notesTurn research into a concise briefDraft a launch planCreate messaging, milestones, and ownersAnalyze a spreadsheetFind patterns and next steps in dataCreate a concise briefShape ideas into a polished summary
+![Screenshot of the ChatGPT Work interface.](https://images.ctfassets.net/kftzwdyauwt9/4AVbuPFymEnh3B3BxUxiN3/3373cdc98ce4acc73142360a81490b81/chatgpt_work__2_.png?w=3840&q=90&fm=webp)
 
 ## Explore more
 
@@ -132,9 +103,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -234,10 +205,6 @@ Streamline analysis, reporting, forecasting, and operational workflows to improv
 
 Data teams uncover insights faster and improve decision-making with AI-powered analysis, reporting, automation, and knowledge discovery.
 
-### Design
-
-Move from concept to execution faster with AI-powered ideation, prototyping, content generation, and creative collaboration.
-
 ### Sales
 
 Close deals faster with automated account research, tailored outreach, and real-time customer insights.
@@ -246,9 +213,17 @@ Close deals faster with automated account research, tailored outreach, and real-
 
 Create higher-performing campaigns with AI-powered content generation, research, and personalization.
 
+### Operations
+
+Streamline program management with AI that keeps planning, execution, and reporting in sync.
+
 ### Engineering
 
-ChatGPT and Codex accelerate coding, debugging, documentation, and code reviews so engineering teams can ship faster.
+Codex in ChatGPT accelerates coding, debugging, documentation, and code reviews so engineering teams can ship faster.
+
+### Design
+
+Move from concept to execution faster with AI-powered ideation, prototyping, content generation, and creative collaboration.
 
 ### Security
 

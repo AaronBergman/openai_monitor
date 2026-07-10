@@ -26,14 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-How to work with files 
-
-  * How to work with files 
-  * Connecting to other tools
-  * Further reading
-
-
-
 April 10, 2026
 
 OpenAI Academy
@@ -45,6 +37,26 @@ Upload and work with files to analyze, edit, and generate content.
 Loading…
 
 Share
+
+How to work with files 
+
+  * How to work with files 
+
+  * Connecting to other tools
+
+  * Further reading
+
+
+
+
+  * How to work with files 
+
+  * Connecting to other tools
+
+  * Further reading
+
+
+
 
 ChatGPT allows you to upload and work with files directly in your conversations. This means you can analyze spreadsheets, edit documents, summarize PDFs, or work with images without leaving your chat. 
 
@@ -101,15 +113,15 @@ Discover additional guides and resources to help you build practical AI skills.
 
 ![Academy > Search and deep research > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/6vCtWVZH9dyolSQQhXzGyx/686abd0c6c92eb96129cb71f6ab7917e/search-deep-research.png?w=3840&q=90&fm=webp)
 
-[Research with ChatGPTOpenAI AcademyApr 10, 2026](</academy/search-and-deep-research/>)
+[Research with ChatGPT | OpenAIOpenAI AcademyApr 10, 2026](</academy/search-and-deep-research/>)
 
 ![Academy > Image generation > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/4as9dmBmMnIulWoUEIBsOj/2441164935c8d325daa552d91c71f131/image-creation.png?w=3840&q=90&fm=webp)
 
-[Creating images with ChatGPTOpenAI AcademyApr 10, 2026](</academy/image-generation/>)
+[Creating images with ChatGPT | OpenAIOpenAI AcademyApr 10, 2026](</academy/image-generation/>)
 
 ![Academy > Projects > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/L0cSoOsBFybec07VSIDJw/27647c6494be7191e0e2168f5bf27044/projects.png?w=3840&q=90&fm=webp)
 
-[Using projects in ChatGPTOpenAI AcademyApr 10, 2026](</academy/projects/>)
+[Using projects in ChatGPT | OpenAIOpenAI AcademyApr 10, 2026](</academy/projects/>)
 
 Research
 
@@ -121,9 +133,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -160,6 +172,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 

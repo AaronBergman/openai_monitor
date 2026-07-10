@@ -26,9 +26,17 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 OpenAI
 
-# Frontier AI for your design team’s most ambitious work
+New
 
-OpenAI helps design teams turn rough ideas, files, and feedback into live prototypes—so they can test more directions, align earlier, and reduce rework.
+### Introducing ChatGPT Work: 
+
+A new agent in ChatGPT that helps teams turn ambitious goals into finished work—with enterprise controls and governance built in.
+
+[Learn more](</chatgpt-work/>)
+
+# AI for your design team’s most ambitious work
+
+ChatGPT Work turns rough ideas, source files, and feedback into live prototypes—so design teams can test more directions, align earlier, and reduce rework to bring better products to market faster.
 
 [Contact sales](</contact-sales/>)
 
@@ -60,7 +68,7 @@ Review flows, identify UX gaps, and build from approved patterns teams can reuse
 
 Surface usability, accessibility, and handoff gaps before they slow development or launch.
 
-## How design teams put frontier AI to work
+## How design teams turn rough ideas into better products faster with ChatGPT Work
 
 Screenshot to prototypeIdea to prototypeURL to prototypeUX flow audit
 
@@ -70,7 +78,7 @@ Make this a live working prototype, then add an interaction to open the cards in
 
 ## Work across your design tools and context
 
-[View apps](</business/apps/>)
+[View plugins](</business/plugins/>)
 
 [](</business/apps/google-drive/>)
 
@@ -183,9 +191,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 

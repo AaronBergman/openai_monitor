@@ -1,0 +1,227 @@
+Skip to main content
+
+[](</>)[](</business/>)
+
+  * Why OpenAI
+  * Products
+  * Solutions
+  * Resources
+  * [Customers](</business/customer-stories/>)
+  * [Pricing](</business/pricing/>)
+
+
+
+Try OpenAI[Contact sales](</contact-sales/>)
+
+  * Why OpenAI
+  * Products
+  * Solutions
+  * Resources
+  * [Customers](</business/customer-stories/>)
+  * [Pricing](</business/pricing/>)
+
+
+
+[Contact sales](</contact-sales/>)Try OpenAI
+
+OpenAI
+
+New
+
+### Introducing ChatGPT Work: 
+
+A new agent in ChatGPT that helps teams turn ambitious goals into finished work—with enterprise controls and governance built in.
+
+[Learn more](</chatgpt-work/>)
+
+# Connect your business plugins to your AI workflows
+
+Plugins bring context from your tools and data into ChatGPT and the API, helping you create, analyze, and take action in one place.
+
+[Try ChatGPT Business(opens in a new window)](<https://chatgpt.com/team-sign-up>)[Contact sales](</contact-sales/>)
+
+#### Explore available plugins
+
+  * All
+  * Collaboration
+  * File Sharing
+  * Project Management
+  * Go-to-Market
+  * Data
+  * Developer Tools
+  * Design
+  * Finance
+
+
+
+* * *
+
+Filter
+
+##### [Salesforce](</business/plugins/salesforce/>)##### [Snowflake](</business/plugins/snowflake/>)##### [Databricks Genie](</business/plugins/databricks/>)##### [BigQuery](</business/plugins/bigquery/>)##### [Data Analytics](</business/plugins/data-analytics/>)##### [Creative Production](</business/plugins/creative-production/>)##### [Sales](</business/plugins/sales/>)##### [Product Design](</business/plugins/product-design/>)##### [Public Equity Investing](</business/plugins/public-equity-investing/>)##### [Investment Banking](</business/plugins/investment-banking/>)##### [Google Drive](</business/plugins/google-drive/>)##### [Gmail](</business/plugins/gmail/>)##### [Google Calendar](</business/plugins/google-calendar/>)##### [Outlook Calendar](</business/plugins/microsoft-outlook-calendar/>)##### [Outlook Email](</business/plugins/microsoft-outlook-email/>)##### [SharePoint](</business/plugins/microsoft-sharepoint/>)##### [Microsoft Teams](</business/plugins/microsoft-teams/>)##### [Slack](</business/plugins/slack/>)##### [Box](</business/plugins/box/>)##### [Dropbox](</business/plugins/dropbox/>)##### [Stripe](</business/plugins/stripe/>)##### [GitHub](</business/plugins/github/>)##### [GitLab Issues](</business/plugins/gitlab-issues/>)##### [Azure Boards](</business/plugins/azure-boards/>)
+
+Load more
+
+### A unified workspace for your organization’s systems
+
+#### Work across your business plugins
+
+Use plugins to complete tasks—like updating an opportunity in Salesforce, analyzing messages from Slack, or researching SharePoint documents—all without switching tools.
+
+#### Bring deeper context to every answer
+
+Plugins pull in live details from CRMs, codebases, documents, and analytics platforms so responses are reliable, up-to-date, and grounded in your organization’s data.  
+
+
+#### Control who gets access
+
+Govern which plugins are enabled and who can access them, with full workspace visibility.
+
+### Enterprise-grade security and data protection 
+
+[View enterprise security](</business-data/>)
+
+#### Permissions and control
+
+Review each plugin's data access, capabilities, creator, and role-based permissions before enabling them.
+
+#### Audit logs
+
+Track plugin usage and activity through compliance APIs for monitoring and internal review.
+
+#### Data privacy
+
+Ensure plugins only access data users are authorized to view. By default, no plugin data is shared or used for model training.
+
+## Frequently asked questions
+
+## Get started with plugins
+
+Bring your organization’s data and tools into OpenAI products and accelerate what your teams can do.
+
+[Try ChatGPT Business(opens in a new window)](<https://chatgpt.com/team-sign-up>)[Contact sales](</contact-sales/>)
+
+Research
+
+  * [Research Index](</research/index/>)
+  * [Research Overview](</research/>)
+  * [Economic Research](</signals/>)
+
+
+
+Latest Advancements
+
+  * [GPT-5.6](</index/gpt-5-6/>)
+  * [GPT-5.5](</index/introducing-gpt-5-5/>)
+  * [GPT-5.4](</index/introducing-gpt-5-4/>)
+
+
+
+Safety
+
+  * [Safety Approach](</safety/>)
+  * [Deployment Safety(opens in a new window)](<https://deploymentsafety.openai.com/>)
+  * [Security & Privacy](</security-and-privacy/>)
+  * [Trust & Transparency](</trust-and-transparency/>)
+
+
+
+Products
+
+  * [ChatGPT(opens in a new window)](<https://chatgpt.com/>)
+  * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
+  * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
+  * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
+  * [Codex](</codex/>)
+  * [Release Notes](</products/release-notes/>)
+
+
+
+API Platform
+
+  * [Overview](</api/>)
+  * [API Log In(opens in a new window)](<https://platform.openai.com/login>)
+  * [Docs(opens in a new window)](<https://developers.openai.com/api/docs>)
+
+
+
+Business
+
+  * [Overview](</business/>)
+  * [Solutions](</solutions/>)
+  * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
+  * [Contact Sales](</contact-sales/>)
+
+
+
+Developers
+
+  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
+  * [Open Models](</open-models/>)
+  * [Docs(opens in a new window)](<https://developers.openai.com/>)
+  * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
+  * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
+
+
+
+Company
+
+  * [About Us](</about/>)
+  * [Our Charter](</charter/>)
+  * [Careers](</careers/>)
+  * [News](</news/>)
+
+
+
+Support
+
+  * [Help Center(opens in a new window)](<https://help.openai.com/>)
+
+
+
+More
+
+  * [Stories](</stories/>)
+  * [Academy](</academy/>)
+  * [Livestreams](</live/>)
+  * [Podcast](</podcast/>)
+  * [RSS](<https://openai.com/news/rss.xml>)
+
+
+
+Terms & Policies
+
+  * [Terms of Use](</policies/terms-of-use/>)
+  * [Privacy Policy](</policies/privacy-policy/>)
+  * [Other Policies ](</policies/>)
+
+
+
+[(opens in a new window)](<https://x.com/OpenAI>)[(opens in a new window)](<https://www.youtube.com/OpenAI>)[(opens in a new window)](<https://www.linkedin.com/company/openai>)[(opens in a new window)](<https://github.com/openai>)[(opens in a new window)](<https://www.instagram.com/openai/>)[(opens in a new window)](<https://www.tiktok.com/@openai>)[(opens in a new window)](<https://discord.gg/openai>)
+
+OpenAI © 2015–2026Your privacy choices
+
+EnglishUnited States
+
+### Which subscription plans include plugins?
+
+Plugins are available in all paid plans, including ChatGPT Plus, Pro, Business, Enterprise, K–12 Teachers, and Edu. A limited set of plugins is also available on the ChatGPT Free plan.
+
+### Who can enable or disable plugins for my organization?
+
+Workspace admins control which plugins are enabled and which users or RBAC groups can access them. Admins can also view which plugins respect domain enforcement.
+
+### Can I build private plugins for my organization?
+
+Yes. Using developer mode, you can build custom private plugins that connect proprietary data and tools to ChatGPT, or add MCP-based plugins from other sources. Private plugins can be built using the [_Apps SDK_ ⁠(opens in a new window)](<https://developers.openai.com/apps-sdk/>).
+
+### How do plugins handle user data and privacy?
+
+Plugins are designed to access information that users are already authorized to view in the connected service. Data shared through plugins is processed securely. By default, data is not used to train OpenAI models for Business, Enterprise, K–12 Teachers, and Edu plans. Admins should review each plugin’s data-access permissions before enabling it and can monitor activity through audit logs.
+
+### Will plugin data be used to train OpenAI models?
+
+No. By default, plugin data is not used to train OpenAI models for Business, Enterprise, or Edu customers.  
+

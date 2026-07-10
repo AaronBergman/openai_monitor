@@ -26,17 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Table of contents
-
-  * How to create a project
-  * Why projects can be helpful
-  * When to use a project
-  * Example use cases
-  * Project-only memory
-  * Shared projects
-
-
-
 April 10, 2026
 
 OpenAI Academy
@@ -48,6 +37,38 @@ Organize your work into dedicated spaces with shared context and history.
 Loading…
 
 Share
+
+How to create a project
+
+  * How to create a project
+
+  * Why projects can be helpful
+
+  * When to use a project
+
+  * Example use cases
+
+  * Project-only memory
+
+  * Shared projects
+
+
+
+
+  * How to create a project
+
+  * Why projects can be helpful
+
+  * When to use a project
+
+  * Example use cases
+
+  * Project-only memory
+
+  * Shared projects
+
+
+
 
 Projects in ChatGPT are dedicated spaces for a specific body of work or area of focus. A project can hold chats, files, instructions, and related context in one place, so you do not need to restate the same background every time you start a new conversation.
 
@@ -122,68 +143,78 @@ Discover additional guides and resources to help you build practical AI skills.
 
 ![Academy > Custom GPTs > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/2UV4fI7a8z34VgwSmpgzy1/2b09c857ffda3696fec60cad6fb18b86/custom-gpts.png?w=3840&q=90&fm=webp)
 
-[Using custom GPTsOpenAI AcademyApr 10, 2026](</academy/custom-gpts/>)
+[Using custom GPTs | OpenAIOpenAI AcademyApr 10, 2026](</academy/custom-gpts/>)
 
 ![Academy > Skills > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/5HjfQo619jC918nhDM0S4p/a788f0e356c534e61f30e6607402b5ab/skills.png?w=3840&q=90&fm=webp)
 
-[Using skillsOpenAI AcademyApr 10, 2026](</academy/skills/>)
+[Using skills in ChatGPT | OpenAIOpenAI AcademyApr 10, 2026](</academy/skills/>)
 
 ![Academy > Prompting > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/6KuWyesIgCbrJUzXckTYSx/20183733ba66b4b535fe978fc7ec985b/your-first-chat.png?w=3840&q=90&fm=webp)
 
-[Prompting fundamentalsOpenAI AcademyApr 10, 2026](</academy/prompting/>)
+[Prompting fundamentals | OpenAIOpenAI AcademyApr 10, 2026](</academy/prompting/>)
 
-Our Research
+Research
 
   * [Research Index](</research/index/>)
   * [Research Overview](</research/>)
-  * [Research Residency](</residency/>)
   * [Economic Research](</signals/>)
 
 
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
-  * [GPT-5.3-Codex](</index/introducing-gpt-5-3-codex/>)
 
 
 
 Safety
 
   * [Safety Approach](</safety/>)
+  * [Deployment Safety(opens in a new window)](<https://deploymentsafety.openai.com/>)
   * [Security & Privacy](</security-and-privacy/>)
   * [Trust & Transparency](</trust-and-transparency/>)
 
 
 
-ChatGPT
+Products
 
-  * [Explore ChatGPT(opens in a new window)](<https://chatgpt.com/overview>)
-  * [Business](<https://chatgpt.com/business/business-plan>)
-  * [Enterprise](<https://chatgpt.com/business/enterprise>)
-  * [Education](<https://chatgpt.com/business/education>)
-  * [Pricing(opens in a new window)](<https://chatgpt.com/pricing>)
-  * [Download(opens in a new window)](<https://chatgpt.com/download>)
+  * [ChatGPT(opens in a new window)](<https://chatgpt.com/>)
+  * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
+  * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
+  * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
+  * [Codex](</codex/>)
+  * [Release Notes](</products/release-notes/>)
 
 
 
 API Platform
 
-  * [Platform Overview](</api/>)
-  * [Pricing](</api/pricing/>)
-  * [API log in(opens in a new window)](<https://platform.openai.com/login>)
-  * [Documentation(opens in a new window)](<https://developers.openai.com/api/docs>)
-  * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
+  * [Overview](</api/>)
+  * [API Log In(opens in a new window)](<https://platform.openai.com/login>)
+  * [Docs(opens in a new window)](<https://developers.openai.com/api/docs>)
 
 
 
-For Business
+Business
 
-  * [Business Overview](</business/>)
+  * [Overview](</business/>)
   * [Solutions](</solutions/>)
+  * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
+
+
+
+Developers
+
+  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
+  * [Open Models](</open-models/>)
+  * [Docs(opens in a new window)](<https://developers.openai.com/>)
+  * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
+  * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
 
 
 
@@ -191,9 +222,8 @@ Company
 
   * [About Us](</about/>)
   * [Our Charter](</charter/>)
-  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
   * [Careers](</careers/>)
-  * [Brand](</brand/>)
+  * [News](</news/>)
 
 
 
@@ -205,7 +235,6 @@ Support
 
 More
 
-  * [News](</news/>)
   * [Stories](</stories/>)
   * [Academy](</academy/>)
   * [Livestreams](</live/>)

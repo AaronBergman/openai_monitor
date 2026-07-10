@@ -26,17 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-What are skills?
-
-  * What are skills?
-  * Why use skills?
-  * What’s a SKILL.md file?
-  * How to build and use skills
-  * How skills, GPTs, and projects work together
-  * Practical skill use cases for work
-
-
-
 April 10, 2026
 
 OpenAI Academy
@@ -46,6 +35,60 @@ OpenAI Academy
 Create reusable workflows that guide ChatGPT through recurring tasks.
 
 Loading…
+
+Share
+
+What are skills?
+
+  * What are skills?
+
+  * Why use skills?
+
+  * What’s a SKILL.md file?
+
+  * How to build and use skills
+
+    * 1) Think of a repeatable task
+
+    * 2) Write down the instructions
+
+    * 3) Review and install the skill
+
+    * 4) Use it in day-to-day work
+
+    * 5) Share or keep it personal
+
+  * How skills, GPTs, and projects work together
+
+  * Practical skill use cases for work
+
+
+
+
+  * What are skills?
+
+  * Why use skills?
+
+  * What’s a SKILL.md file?
+
+  * How to build and use skills
+
+    * 1) Think of a repeatable task
+
+    * 2) Write down the instructions
+
+    * 3) Review and install the skill
+
+    * 4) Use it in day-to-day work
+
+    * 5) Share or keep it personal
+
+  * How skills, GPTs, and projects work together
+
+  * Practical skill use cases for work
+
+
+
 
 Skills turn the way you already work into reusable workflows that ChatGPT can follow consistently—so you spend less time re-explaining steps, formats, and requirements, and more time getting to a solid result.
 
@@ -178,15 +221,15 @@ Discover additional guides and resources to help you build practical AI skills.
 
 ![Academy > Prompting > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/6KuWyesIgCbrJUzXckTYSx/20183733ba66b4b535fe978fc7ec985b/your-first-chat.png?w=3840&q=90&fm=webp)
 
-[Prompting fundamentalsOpenAI AcademyApr 10, 2026](</academy/prompting/>)
+[Prompting fundamentals | OpenAIOpenAI AcademyApr 10, 2026](</academy/prompting/>)
 
 ![Academy > Personalizing ChatGPT > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/2s9rOdoSHProR3I6Ai5P5/8ca619f82211ade2d76316f04aa3fbcc/personalizing-chatgpt.png?w=3840&q=90&fm=webp)
 
-[Personalizing ChatGPTOpenAI AcademyApr 10, 2026](</academy/personalization/>)
+[Personalizing ChatGPT | OpenAIOpenAI AcademyApr 10, 2026](</academy/personalization/>)
 
 ![Academy > Using files > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/7FdLCJL2BCjS8ef2BJ8rG0/8307b0a6be94e0333b43dbed5b93d187/using-files.png?w=3840&q=90&fm=webp)
 
-[Working with files in ChatGPTOpenAI AcademyApr 10, 2026](</academy/working-with-files/>)
+[Working with files in ChatGPT | OpenAIOpenAI AcademyApr 10, 2026](</academy/working-with-files/>)
 
 Research
 
@@ -198,9 +241,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -237,6 +280,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 

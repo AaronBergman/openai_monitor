@@ -26,17 +26,13 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
+![ChatGPT logo](https://images.ctfassets.net/kftzwdyauwt9/77tJ5U1tgxHMZflZ5m4Z24/ace4d8b6ad200d87ebcb69c466344343/Blossom_4k_Icon_1.png?w=3840&q=90&fm=webp)
+
 # Codex
 
-A coding agent that helps you build and ship with AI—powered by ChatGPT.
+The same powerful coding agent—now in ChatGPT.
 
-[Explore Codex for work](</codex/for-work/>)
-
-Available on [macOS](<https://persistent.oaistatic.com/codex-app-prod/Codex.dmg>) and [Windows](<https://get.microsoft.com/installer/download/9PLM9XGG6VKS?cid=website_cta_psi>)
-
-Earn up to $500 in credits for your team when they start using Codex.
-
-[Claim offer(opens in a new window)](<https://chatgpt.com/codex/team/start>)
+Trusted by top teams
 
 ## The best way to build with agents
 
@@ -44,59 +40,49 @@ Earn up to $500 in credits for your team when they start using Codex.
 
 From routine pull requests to your hardest problems, Codex reliably completes tasks end to end, like building features, complex refactors, migrations, and more, powered by OpenAI’s frontier coding models.
 
-![Soft gradient of blues and white](https://images.ctfassets.net/kftzwdyauwt9/1sQizg7uRlykaMovFWONEr/075d211cf2db83eccefa0b945fdc10d5/Section_1.jpg?w=3840&q=90&fm=webp)
-
-![Left-hand navigation panel listing workspaces and projects, including Codex, ChatGPT, and Sora, with active tasks such as onboarding polish and implementing dark mode.](https://images.ctfassets.net/kftzwdyauwt9/5NKYWYpG3A95VQaRV2mUr3/f8abccd639ee4bf6d9593db8d74a7943/tablet_m_feature01.png?w=3840&q=90&fm=webp)
+![Codex interface showing an engineering task with progress details and a changed-files review panel on a soft gradient background.](https://images.ctfassets.net/kftzwdyauwt9/3VNkIvFSqReRhjyqqBUOjd/cea1689f7e9ce0215dd3699e7befd6b0/Built.png?w=3840&q=90&fm=webp)
 
 ### Designed for multi-agent workflows
 
-The Codex app is a command center for agentic coding. With built-in worktrees and cloud environments, agents work in parallel across projects, completing weeks of work in days.
+Codex in ChatGPT is a command center for agentic coding. With built-in worktrees and cloud environments, agents work in parallel across projects, completing weeks of work in days.
 
-![Soft gradient of blues and white](https://images.ctfassets.net/kftzwdyauwt9/5PkWzv5DXYu555KbicOee2/28d1e4a3acd1c69057311b8a4447d8b9/Section_2.jpg?w=3840&q=90&fm=webp)
-
-![New skill creation modal offering options to create a skill with Codex from a thread or upload a skill file, with additional suggested skills listed below.](https://images.ctfassets.net/kftzwdyauwt9/212T6zWyTJxsZOe79RrI1a/8af0d0131ab9d1bcc90789fe0910de4e/tablet_m_feature02.png?w=3840&q=90&fm=webp)
+![Codex workspace showing multiple coding agents working in parallel across app and code contexts on a soft gradient background.](https://images.ctfassets.net/kftzwdyauwt9/UtVI8zlaSGX2kpwGW6pYH/d55ba8e59b2acf5758001feaf46a0449/Designed.png?w=3840&q=90&fm=webp)
 
 ### Adapts to how your team builds
 
-With Skills, Codex goes beyond writing code to directly contribute to the work that turns pull requests into products, like code understanding, prototyping, and documentation, aligned with your team’s standards.
+With Skills, you can teach Codex your team’s standards, workflows, and ways of working. Codex applies them consistently across tasks, so it can contribute more effectively with less supervision.
 
-![Soft gradient of blues and white](https://images.ctfassets.net/kftzwdyauwt9/1YvFjwleiGFnIRDK0kZrRO/dd1c0585ff4175b9274477e496f5ee75/Section_3.jpg?w=3840&q=90&fm=webp)
-
-![Interface showing a Codex skill workflow where the user asks to use the $openai-image style skill to turn website assets into clouds. The panel shows step-by-step status messages \(“Thought for 3s,” “Using skills”\), and a generated preview image of a dog formed from clouds against a blue sky.](https://images.ctfassets.net/kftzwdyauwt9/1EY62wnOpcJg29K48kUe3S/89fd8b5af782d28f5750b66ebca2f66f/tablet_m_feature03.png?w=3840&q=90&fm=webp)
+![Codex interface showing connected development context and output panels for team workflows on a soft gradient background.](https://images.ctfassets.net/kftzwdyauwt9/6ZHpURIvfkGDl4gt6WMCPc/a87365519609598bdf5d89cf6126eab7/Adapts_v2.png?w=3840&q=90&fm=webp)
 
 ### Made for always-on background work
 
-With Automations, Codex works unprompted, picking up routine but important work like issue triage, alert monitoring, CI/CD, and more, so you can stay focused on building.
+Schedule Codex to pick up routine but important work like issue triage, alert monitoring, CI/CD, and more, so your team can stay focused on building.
 
-![Soft gradient of blues and white](https://images.ctfassets.net/kftzwdyauwt9/2fRPgtLYylDCCETkrQ0aDU/55f59f2b347d97dfb16f4f78b591074c/Section_4.jpg?w=3840&q=90&fm=webp)
-
-![Commit dialog summarizing pending changes, branch name, number of files changed with line additions and removals, an input to describe changes, and buttons to commit or create a pull request](https://images.ctfassets.net/kftzwdyauwt9/5TNl4zdg2Zj3CIwI9PAeda/8f042fe9b87197006221ad30b78411d5/tablet_m_feature04.png?w=3840&q=90&fm=webp)
+![Codex automation workflow showing an inbox panel and generated work for always-on background tasks on a soft gradient background.](https://images.ctfassets.net/kftzwdyauwt9/6F8UWSzmwmGiAla39KwMI8/7e13f917ea442cbb07cf42d520fea8ca/Made_for.png?w=3840&q=90&fm=webp)
 
 ### Raises the bar across your team
 
 Codex raises baseline quality with more thorough designs, comprehensive testing, and high-signal code review—so issues are caught early and your team ships with confidence.
 
-![Soft gradient of blues and white](https://images.ctfassets.net/kftzwdyauwt9/1gI8lXqKIyPqlqPdxhrgZi/6e3a25c656d6b2a999fa25f1f8df883a/Section_5.jpg?w=3840&q=90&fm=webp)
+![Codex interface showing review and quality-focused engineering work with supporting panels on a soft gradient background.](https://images.ctfassets.net/kftzwdyauwt9/7eEkHwSfjAAJMP20Dcjh50/df2a67569f3f931dff3492c9993fef8d/Raise_the_bar.png?w=3840&q=90&fm=webp)
 
-![Confirmation panel indicating all changes applied to a local workspace, showing workspace name, branch, files changed with additions and deletions, and a primary action button to continue locally.](https://images.ctfassets.net/kftzwdyauwt9/6Bo30HhOOXdgODj1EjmXRo/a2a3b16c6350fa8c9eea5203d0d5a0dc/tablet_m_feature05.png?w=3840&q=90&fm=webp)
+## The same agent everywhere you code
 
-## The same agent everywhere you build
-
-Use Codex across multiple surfaces, all connected by your ChatGPT account.
+Use Codex across ChatGPT, your editor, and the terminal, all connected by your ChatGPT account.
 
 [Learn more in the developer docs(opens in a new window)](<https://developers.openai.com/codex/>)
 
-![App-style coding interface titled “Let’s code,” set to a weather app. A prompt reads “Add exponential backoff to the notifications API,” showing a developer using Codex to request a specific backend improvement.](https://images.ctfassets.net/kftzwdyauwt9/3G8qVyVJxJ8C8QD2wcSBgw/ef4163c22cbfffc69e71e7a881a76aa8/App.png?w=3840&q=90&fm=webp)
+![Codex app interface showing a coding task and agent progress inside ChatGPT.](https://images.ctfassets.net/kftzwdyauwt9/4VICAqwJvjaSSJZpERHfXo/12fec864cec9d3fa3b6dd47dd8c5059b/codex-landing-product-surfaces-app.png?w=3840&q=90&fm=webp)
 
-### Start in the Codex app
+### Codex in ChatGPT
 
-![Code review interface showing recent changes after implementing dark mode. Two files are edited with added and removed lines, and a message says “Looks great, add tests!” indicating collaborative review and iteration within a development workflow.](https://images.ctfassets.net/kftzwdyauwt9/6EkZdljA1TMFpWVydQtk2m/9de470f7fd63cb76c4cb236f685a30cb/Editor.png?w=3840&q=90&fm=webp)
+![Codex editor interface showing code changes and review context.](https://images.ctfassets.net/kftzwdyauwt9/67q8M6lUey7LslnSRTQD5o/0c08babf51e4b3615ff928cd6c380abb/codex-landing-product-surfaces-editor.png?w=3840&q=90&fm=webp)
 
-### Move to your editor
+### Codex IDE extension
 
-![Terminal-style interface showing OpenAI Codex \(v0.91.0\) with the model set to “gpt-5.2-codex medium.” A prompt reads “Hey Codex, implement dark mode,” indicating a developer asking Codex to modify code via the command line.](https://images.ctfassets.net/kftzwdyauwt9/5aiLnrEq7KwGOenVhp1L3O/0e1b4056952d752671f6b94a467280f6/Termial.png?w=3840&q=90&fm=webp)
+![Codex terminal interface showing command-line output and task progress.](https://images.ctfassets.net/kftzwdyauwt9/5zIp2sCdBS7Dwx6XEb6pUk/ab9cf89ace5573d99c8ed2712709e3bc/codex-landing-product-surfaces-terminal.png?w=3840&q=90&fm=webp)
 
-### Keep going in the terminal
+### Codex CLI
 
 ## What builders are saying
 
@@ -136,9 +122,9 @@ Aaron Wang, Senior Software Engineer, Duolingo
 
 Tres Wong-Godfrey, Tech Lead, Cisco Meraki
 
-## Try Codex today
+## Try Codex in ChatGPT today
 
-A coding agent that helps you build and ship with AI—powered by ChatGPT.
+Now available in the ChatGPT app.
 
 Research
 
@@ -150,9 +136,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 

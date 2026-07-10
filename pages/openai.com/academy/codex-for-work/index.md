@@ -58,11 +58,15 @@ Use connected tools, recurring tasks, and settings that help Codex fit the way y
 
 ![Plugins > card image](https://images.ctfassets.net/kftzwdyauwt9/7r2o2rTyjurYOamZ2sKDY1/5373d74efd317af8de9cc71fa7479778/plugins.png?w=3840&q=90&fm=webp)
 
-[Plugins and skillsConnect Codex to your tools and help it learn the way you work.](</academy/codex-plugins-and-skills/>)
+## [Plugins and skillsConnect Codex to your tools and help it learn the way you work.](</academy/codex-plugins-and-skills/>)
 
 ![Codex for Work Settings > card image](https://images.ctfassets.net/kftzwdyauwt9/3NQj95eRxxmebJ1Z9xjJu/c2d88b2ddf9c9b668450132d099ab97b/settings.png?w=3840&q=90&fm=webp)
 
-[SettingsMake Codex work the way you want, with fewer interruptions.](</academy/codex-settings/>)
+## [SettingsMake Codex work the way you want, with fewer interruptions.](</academy/codex-settings/>)
+
+![sites](https://images.ctfassets.net/kftzwdyauwt9/6fIs1au2N2RynrKQ3eXg0q/15d0fd6fc8d2b24837bed23fc76fc8c4/sites.png?w=3840&q=90&fm=webp)
+
+## [ChatGPT SitesMake Codex work the way you want, with fewer interruptions.](</academy/chatgpt-sites/>)
 
 #### Use cases
 
@@ -70,7 +74,7 @@ Do your most ambitious work from start to finish.
 
 ![Top 10 uses for Codex at work > card image](https://images.ctfassets.net/kftzwdyauwt9/23Axi2CAv85jqsBMZ98fAI/230757b8f4bcdc4de4ec24c50da3f5be/top-10-at-work.png?w=3840&q=90&fm=webp)
 
-[Top 10 uses for Codex at workExplore 10 practical ways to use Codex.](</academy/how-to-use-codex-for-everyday-work/>)
+[Top 10 uses for Codex at workExplore 10 practical ways to use Codex.](</academy/how-to-use-chatgpt-work-for-everyday-tasks/>)
 
 ![How finance teams use Codex > card image](https://images.ctfassets.net/kftzwdyauwt9/4VU5At1ybQhEoHRaoWSJzK/b2909183102b81eef94eb9d9541d4841/finance_teams.png?w=3840&q=90&fm=webp)
 
@@ -136,9 +140,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -175,6 +179,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 

@@ -36,31 +36,31 @@ Start building
 
 Our industry-leading models are designed for real-world utility, delivering advanced intelligence and multimodal capabilities.
 
-[![](https://cdn.openai.com/ctf-cdn/model-card-gpt-5-pro-2.png?w=3840&q=50&fm=webp)GPT-5.5
+[![](https://cdn.openai.com/ctf-cdn/1-model-card-gpt-5-6-sol.png?w=3840&q=50&fm=webp)GPT-5.6 Sol
 
   * Input: $5.00 per 1M tokens  
 Output: $30.00 per 1M tokens
   * 1.05M context length  
 128K max output tokens
-  * Knowledge cut-off: Dec 1, 2025
+  * Knowledge cut-off: Feb 16, 2026
 
-Learn more(opens in a new window)(opens in a new window)](<https://developers.openai.com/api/docs/models/gpt-5.5>)[![](https://cdn.openai.com/ctf-cdn/model-card-gpt-5-2.png?w=3840&q=50&fm=webp)GPT-5.4
+Learn more(opens in a new window)(opens in a new window)](<https://developers.openai.com/api/docs/models/gpt-5.6-sol>)[![](https://cdn.openai.com/ctf-cdn/2-model-card-gpt-5-6-terra.png?w=3840&q=50&fm=webp)GPT-5.6 Terra
 
   * Input: $2.50 per 1M tokens  
 Output: $15.00 per 1M tokens
   * 1.05M context length  
 128K max output tokens
-  * Knowledge cut-off: Aug 31, 2025
+  * Knowledge cut-off: Feb 16, 2026
 
-Learn more(opens in a new window)(opens in a new window)](<https://developers.openai.com/api/docs/models/gpt-5.4>)[![](https://cdn.openai.com/ctf-cdn/model-card-gpt-5-2.png?w=3840&q=50&fm=webp)GPT-5.4 mini
+Learn more(opens in a new window)(opens in a new window)](<https://developers.openai.com/api/docs/models/gpt-5.6-terra>)[![](https://cdn.openai.com/ctf-cdn/3-model-card-gpt-5-6-luna.png?w=3840&q=50&fm=webp)GPT-5.6 Luna
 
-  * Input: $0.75 per 1M tokens  
-Output: $4.50 per 1M tokens
-  * 400K context length  
+  * Input: $1.00 per 1M tokens  
+Output: $6.00 per 1M tokens
+  * 1.05M context length  
 128K max output tokens
-  * Knowledge cut-off: Aug 31, 2025
+  * Knowledge cut-off: Feb 16, 2026
 
-Learn more(opens in a new window)(opens in a new window)](<https://developers.openai.com/api/docs/models/gpt-5.4-mini>)
+Learn more(opens in a new window)(opens in a new window)](<https://developers.openai.com/api/docs/models/gpt-5.6-luna>)
 
 ### Start building with frontier models
 
@@ -258,9 +258,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -297,6 +297,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 

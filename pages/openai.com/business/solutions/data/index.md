@@ -26,10 +26,18 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 OpenAI
 
-# Frontier AI for your data team’s most ambitious work  
+New
+
+### Introducing ChatGPT Work: 
+
+A new agent in ChatGPT that helps teams turn ambitious goals into finished work—with enterprise controls and governance built in.
+
+[Learn more](</chatgpt-work/>)
+
+# AI for your data team’s most ambitious work  
 
 
-OpenAI helps data and business teams connect data, uncover what changed and why, and deliver decision-ready analysis, dashboards, and executive readouts faster.
+ChatGPT Work connects business data with company context, identifies what changed and why, and turns the findings into dashboards, recommendations, and action plans—so data teams spend less time reporting and more time shaping decisions.
 
 [Contact sales](</contact-sales/>)
 
@@ -61,17 +69,17 @@ Delegate recurring work to agents—from triaging requests and querying data to 
 
 Control access to approved data with RBAC, and get citations and reviews so teams trust the outputs.
 
-## How data teams put frontier AI to work
+## How data teams turn scattered data into decisions the business can act on with ChatGPT Work
 
-Business performance analysisMetric diagnosisKPI design and reportingDecision monitoring
+Product insights and recommendationsBusiness performance analysisMetric diagnosisKPI design and reportingDecision monitoring
 
-### Go from business question to decision-ready insight report.
+### Compare performance and recommend how to improve.
 
-Analyze which products are performing best and where we should focus next.
+Use @Databricks Genie metrics, @Salesforce data, and @Slack context to compare launch adoption and day-30 retention across products and customer segments. Build an interactive report with @Data Analytics and recommend what we should do next. Use the findings to create a PRD for improving the product.
 
 ## Work across your data tools and context
 
-[View apps](</business/apps/>)
+[View plugins](</business/plugins/>)
 
 [](</business/apps/google-drive/>)
 
@@ -211,9 +219,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 

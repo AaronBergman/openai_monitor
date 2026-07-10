@@ -26,19 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-What is an agent?
-
-  * What is an agent?
-  * Anatomy of an agent
-  * Agent workflow examples
-  * Using an agent in ChatGPT
-  * Building your own agent in ChatGPT
-  * Testing your agent using preview
-  * Editing your agent
-  * Scaling your agents to your team
-
-
-
 April 22, 2026
 
 OpenAI Academy
@@ -48,6 +35,48 @@ OpenAI Academy
 Understand, build, and use agents for repeatable work in ChatGPT.
 
 Loading…
+
+Share
+
+What is an agent?
+
+  * What is an agent?
+
+  * Anatomy of an agent
+
+  * Agent workflow examples
+
+  * Using an agent in ChatGPT
+
+  * Building your own agent in ChatGPT
+
+  * Testing your agent using preview
+
+  * Editing your agent
+
+  * Scaling your agents to your team
+
+
+
+
+  * What is an agent?
+
+  * Anatomy of an agent
+
+  * Agent workflow examples
+
+  * Using an agent in ChatGPT
+
+  * Building your own agent in ChatGPT
+
+  * Testing your agent using preview
+
+  * Editing your agent
+
+  * Scaling your agents to your team
+
+
+
 
 Most ChatGPT users already know how to use AI for one-off tasks—like drafting, summarizing, brainstorming, or answering questions. The next phase of AI use is broader and more embedded in day-to-day work. Instead of helping with isolated moments, AI is increasingly being used to support repeatable workflows that depend on shared systems, standard handoffs, consistent outputs, and real-world constraints like timing, accuracy, and process.
 
@@ -82,7 +111,7 @@ Agents are also different from traditional API workflows you may have built in t
 
 A helpful way to design a workspace agent is to break it into parts. Think about what you would clarify before handing work to a person: what they are responsible for, when they should begin, what should make them pause or stop, which tools and information they can use, the process they should follow, and the rules they must stay within.   
   
-An agent may require access to apps. Learn more about [apps in ChatGPT.⁠(opens in a new window)](<https://chatgpt.com/features/apps/>)
+An agent may require access to plugins. Learn more about [plugins in ChatGPT.⁠](<https://openai.com/business/apps/>)
 
 See some examples of agent breakdowns below:
 
@@ -165,15 +194,15 @@ Discover additional guides and resources to help you build practical AI skills.
 
 ![Academy > Custom GPTs > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/2UV4fI7a8z34VgwSmpgzy1/2b09c857ffda3696fec60cad6fb18b86/custom-gpts.png?w=3840&q=90&fm=webp)
 
-[Using custom GPTsOpenAI AcademyApr 10, 2026](</academy/custom-gpts/>)
+[Using custom GPTs | OpenAIOpenAI AcademyApr 10, 2026](</academy/custom-gpts/>)
 
 ![Academy > Projects > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/L0cSoOsBFybec07VSIDJw/27647c6494be7191e0e2168f5bf27044/projects.png?w=3840&q=90&fm=webp)
 
-[Using projects in ChatGPTOpenAI AcademyApr 10, 2026](</academy/projects/>)
+[Using projects in ChatGPT | OpenAIOpenAI AcademyApr 10, 2026](</academy/projects/>)
 
 ![Academy > Skills > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/5HjfQo619jC918nhDM0S4p/a788f0e356c534e61f30e6607402b5ab/skills.png?w=3840&q=90&fm=webp)
 
-[Using skillsOpenAI AcademyApr 10, 2026](</academy/skills/>)
+[Using skills in ChatGPT | OpenAIOpenAI AcademyApr 10, 2026](</academy/skills/>)
 
 Research
 
@@ -185,9 +214,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -224,6 +253,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 

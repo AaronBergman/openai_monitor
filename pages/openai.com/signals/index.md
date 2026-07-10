@@ -126,9 +126,9 @@ Learn how AI is accelerating enterprise advantage through deeper integration, ag
 
 ### [How frontier firms are pulling aheadMay 2026 | B2B Signals shows how the frontier advantage is beginning to compound for firms using AI more deeply, more broadly, and in more delegated workflows.Learn more](<https://openai.com/index/introducing-b2b-signals/>)
 
-### [Main Street entrepreneurship, powered by ChatGPTMay 2026 | Empowering entrepreneurs with ChatGPT.Learn more](<https://cdn.openai.com/pdf/32153121-f87f-4320-a725-9c94ee8d9b30/empowering-entrepreneurship-in-chatgpt-report.pdf>)
+### [Main Street entrepreneurship, powered by ChatGPTMay 2026 | Empowering entrepreneurs with ChatGPT.Learn more](<https://openai.com/index/ai-first-hire-small-business/>)
 
-### [The AI jobs transition frameworkApril 2026 | Mapping AI’s near-term impact on jobs.Learn more](<https://cdn.openai.com/pdf/the-ai-jobs-transition-framework_report.pdf>)
+### [The AI jobs transition frameworkApril 2026 | Mapping AI’s near-term impact on jobs.Learn more](<https://openai.com/index/modeling-ai-jobs-transition/>)
 
 ### [ChatGPT and the price of workMarch 2026 | How Americans use ChatGPT to help them close the wage information gap.Learn more](<https://cdn.openai.com/pdf/ChatGPT-and-the-price-of-work_report.pdf>)
 
@@ -186,9 +186,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 

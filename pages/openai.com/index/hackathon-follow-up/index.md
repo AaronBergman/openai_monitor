@@ -26,14 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-The crowd
-
-  * The crowd
-  * The talks
-  * The hacking
-
-
-
 March 15, 2018
 
 [Company](</news/company-announcements/>)
@@ -47,6 +39,26 @@ On March 3rd, we hosted our first hackathon with 100 members of the artificial i
 Loading…
 
 Share
+
+The crowd
+
+  * The crowd
+
+  * The talks
+
+  * The hacking
+
+
+
+
+  * The crowd
+
+  * The talks
+
+  * The hacking
+
+
+
 
 On March 3rd, we hosted our first [hackathon⁠(opens in a new window)](<https://blog.openai.com/hackathon/>) with 100 members of the artificial intelligence community. We had over 500 RSVPs arrive within two days of announcing the event—if you didn’t make it this time, please RSVP again in the future!
 
@@ -128,9 +140,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -167,6 +179,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 

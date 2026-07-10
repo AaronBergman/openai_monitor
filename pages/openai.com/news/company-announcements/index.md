@@ -51,37 +51,33 @@ Switch cards to show Media
 
 Switch cards to hide Media
 
-![""](https://images.ctfassets.net/kftzwdyauwt9/54glGpDpS58mKdx6Y3GobW/6ea5121851a36b8cf0505a96be2de994/bidi-art-card_16_9__1_.png?w=3840&q=90&fm=webp)
+![""](//images.ctfassets.net/kftzwdyauwt9/5uOBQ9CN3HA6yzWugjzzYZ/d65727d40c567318f9b366349a1b12a3/OAI_ChatGPTWork_ModelBlog_OpenGraph_16x9_1200x630.png?w=3840&q=90&fm=webp)
+
+[GPT-5.6: Frontier intelligence that scales with your ambitionProductJul 9, 2026](</index/gpt-5-6/>)
+
+![""](//images.ctfassets.net/kftzwdyauwt9/5uOBQ9CN3HA6yzWugjzzYZ/d65727d40c567318f9b366349a1b12a3/OAI_ChatGPTWork_ModelBlog_OpenGraph_16x9_1200x630.png?w=3840&q=90&fm=webp)
+
+[GPT-5.6: Frontier intelligence that scales with your ambitionProductJul 9, 2026](</index/gpt-5-6/>)
+
+[ChatGPT is now a partner for your most ambitious workProductJul 9, 2026](</index/chatgpt-for-your-most-ambitious-work/>)
+
+![Art Card 1 1](https://images.ctfassets.net/kftzwdyauwt9/4vJ1lSvYeKz0zM4RVCKwIC/855f7e54052d8a7635e4bf45adf41737/Art_Card_1_1.png?w=3840&q=90&fm=webp)
 
 [Introducing GPT-LiveProductJul 8, 2026](</index/introducing-gpt-live/>)
-
-![""](https://images.ctfassets.net/kftzwdyauwt9/54glGpDpS58mKdx6Y3GobW/6ea5121851a36b8cf0505a96be2de994/bidi-art-card_16_9__1_.png?w=3840&q=90&fm=webp)
-
-[Introducing GPT-LiveProductJul 8, 2026](</index/introducing-gpt-live/>)
-
-![Art Card 1x1](https://images.ctfassets.net/kftzwdyauwt9/687HyyF4C0A2OsktQGlTZJ/1ca5b061daa5e22fd338e9910292dac5/blog_1x1.png?w=3840&q=90&fm=webp)
-
-[Previewing GPT-5.6 Sol: a next-generation modelProductJun 26, 2026](</index/previewing-gpt-5-6-sol/>)
-
-![1 1 Art Card](https://images.ctfassets.net/kftzwdyauwt9/4xugzd9dTDMUzIUmuamtO3/1f40af4e50ab8b2bdd64d5b491964961/1_1_Art_Card.png?w=3840&q=90&fm=webp)
-
-[Codex for every role, tool, and workflowProductJun 2, 2026](</index/codex-for-every-role-tool-workflow/>)
 
 ![Expanding Daybreak Art Card](https://images.ctfassets.net/kftzwdyauwt9/735NOZviyogUBIFxd2EmWX/fa8baf9fc26e64f442ffa86d5fd9a41e/Art_Card__6_.png?w=3840&q=90&fm=webp)
 
 [Daybreak: Tools for securing every organization in the worldSecurityJun 22, 2026](</index/daybreak-securing-the-world/>)
 
-![""](https://images.ctfassets.net/kftzwdyauwt9/54glGpDpS58mKdx6Y3GobW/6ea5121851a36b8cf0505a96be2de994/bidi-art-card_16_9__1_.png?w=3840&q=90&fm=webp)
+![""](//images.ctfassets.net/kftzwdyauwt9/5uOBQ9CN3HA6yzWugjzzYZ/d65727d40c567318f9b366349a1b12a3/OAI_ChatGPTWork_ModelBlog_OpenGraph_16x9_1200x630.png?w=3840&q=90&fm=webp)
+
+[GPT-5.6: Frontier intelligence that scales with your ambitionProductJul 9, 2026](</index/gpt-5-6/>)
+
+[ChatGPT is now a partner for your most ambitious workProductJul 9, 2026](</index/chatgpt-for-your-most-ambitious-work/>)
+
+![Art Card 1 1](https://images.ctfassets.net/kftzwdyauwt9/4vJ1lSvYeKz0zM4RVCKwIC/855f7e54052d8a7635e4bf45adf41737/Art_Card_1_1.png?w=3840&q=90&fm=webp)
 
 [Introducing GPT-LiveProductJul 8, 2026](</index/introducing-gpt-live/>)
-
-![Art Card 1x1](https://images.ctfassets.net/kftzwdyauwt9/687HyyF4C0A2OsktQGlTZJ/1ca5b061daa5e22fd338e9910292dac5/blog_1x1.png?w=3840&q=90&fm=webp)
-
-[Previewing GPT-5.6 Sol: a next-generation modelProductJun 26, 2026](</index/previewing-gpt-5-6-sol/>)
-
-![1 1 Art Card](https://images.ctfassets.net/kftzwdyauwt9/4xugzd9dTDMUzIUmuamtO3/1f40af4e50ab8b2bdd64d5b491964961/1_1_Art_Card.png?w=3840&q=90&fm=webp)
-
-[Codex for every role, tool, and workflowProductJun 2, 2026](</index/codex-for-every-role-tool-workflow/>)
 
 ![Expanding Daybreak Art Card](https://images.ctfassets.net/kftzwdyauwt9/735NOZviyogUBIFxd2EmWX/fa8baf9fc26e64f442ffa86d5fd9a41e/Art_Card__6_.png?w=3840&q=90&fm=webp)
 
@@ -135,9 +131,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
