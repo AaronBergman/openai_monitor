@@ -26,15 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-From search engine to agentic assistant
-
-  * From search engine to agentic assistant
-  * Building with Responses API
-  * A consumer bet in a world of institutions
-  * Scaling with the science
-
-
-
 October 23, 2025
 
 # Consensus uses GPT‑5 and the Responses API to complete weeks of research in minutes
@@ -46,6 +37,30 @@ Using GPT‑5 and the Responses API, Consensus designed a multi-agent system tha
 Loading…
 
 Share
+
+From search engine to agentic assistant
+
+  * From search engine to agentic assistant
+
+  * Building with Responses API
+
+  * A consumer bet in a world of institutions
+
+  * Scaling with the science
+
+
+
+
+  * From search engine to agentic assistant
+
+  * Building with Responses API
+
+  * A consumer bet in a world of institutions
+
+  * Scaling with the science
+
+
+
 
 Every year, millions of new scientific papers are published—far more than any one person can read. 
 
@@ -120,19 +135,15 @@ Consensus’s architecture is intentionally modular, designed so new agents can 
 
 ## Keep reading
 
-![Nextdoor customer stories > oai 1x1](https://images.ctfassets.net/kftzwdyauwt9/2VQiKydNUVAutnHRuCIV4S/3262cc8deff3fe49c6b512f854e14dcf/oai_Nextdoor_1x1.png?w=3840&q=90&fm=webp)
+![deutsche telekom art card](https://images.ctfassets.net/kftzwdyauwt9/2iYZomUxcCPSikL5KsftP2/a3de110c6af0d68c342b60cee47091d1/oai_Deutsche_Telekom1x1.png?w=3840&q=90&fm=webp)
 
-[How engineers at Nextdoor use Codex to build without limitsJun 9, 2026](</index/nextdoor/>)
+[How Deutsche Telekom is rewiring telecommunications with AIJul 10, 2026](</index/deutsche-telekom/>)
 
-![Notion > cover image](https://images.ctfassets.net/kftzwdyauwt9/2HBxiM1dDPpM1W56ehwgNi/01dc3dafe6aedcabc9808446492523ea/oai_Notion_1x1.png?w=3840&q=90&fm=webp)
+![GPT-5.6 is now the preferred model in Microsoft 365 Copilot > Cover image](https://images.ctfassets.net/kftzwdyauwt9/3MPipvFMxS8m3kTyCtwFgj/015747dcd34cb667a221688cfca64e0f/Frame.png?w=3840&q=90&fm=webp)
 
-[What Codex unlocks for NotionJun 9, 2026](</index/notion/>)
+[GPT-5.6 is now the preferred model in Microsoft 365 CopilotProductJul 9, 2026](</index/gpt-5-6-preferred-model-microsoft-365-copilot/>)
 
-![Frame](https://images.ctfassets.net/kftzwdyauwt9/5PD5E0PhvNP8ogbhvNxdKF/42a592f5b93580d940065610304c3f22/Frame.png?w=3840&q=90&fm=webp)
-
-Industrial policy for the Intelligence Age
-
-[Industrial policy for the Intelligence AgeGlobal AffairsJun 9, 2026](</index/industrial-policy-for-the-intelligence-age/>)
+[GPT-5.6: Frontier intelligence that scales with your ambitionProductJul 9, 2026](</index/gpt-5-6/>)
 
 Research
 
@@ -144,9 +155,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -183,6 +194,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 

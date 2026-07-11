@@ -4,6 +4,38 @@ A daily log of every change to OpenAI's public website — what appeared, what d
 
 ---
 
+## 2026-07-11 — Run `2026-07-11T09-15Z`
+
+**Fetch time:** 2026-07-11T09:16:52Z
+**Baseline:** 2026-07-10T09-16Z
+**Stats:** 1412 total URLs | +1 added | 88 updated (8 with visible content change) | -0 removed | 2 anomalies (both low-severity) | 34 sub-sitemaps
+
+**TL;DR:** A quieter follow-on to yesterday's big GPT‑5.6/ChatGPT Work launch. The [release notes](pages/openai.com/products/release-notes/index.md) page rolled forward with the official writeups: GPT‑5.6 now fully live across ChatGPT/Codex/API, **ChatGPT Work** detailed as a long-running "finished work" agent, a new **unified ChatGPT desktop app** that folds the standalone Codex app into Chat + Work + Codex in one place, and **ChatGPT Sites** reaching public beta (Business/Enterprise can now publish sites via a public URL, not just share inside their workspace). Almost everything else was template noise — new "table of contents" widgets on article pages and refreshed "related posts" carousels, not real content changes. Two things worth watching: the `/form/codex-app/` Linux waitlist form, flagged removed yesterday, quietly came back; and five business pages briefly served a redesigned nav + a "New: ChatGPT Work" promo banner while sibling pages on the same templates stayed on the old nav — looks like a live A/B test, not a finished rollout.
+
+### Anomalies (both low-severity)
+
+- **`/form/codex-app/` reappeared** after being one of yesterday's 69 removals. Its `<lastmod>` (Jul 9, 17:08 UTC) predates the run that detected its removal, and the page content — a "Sign up for the Codex app" Linux waitlist form — is unchanged. Reads as a sitemap-generation flicker rather than a deliberate takedown-and-restore; makes sense in context, since the new release notes explain Codex now ships bundled in the desktop app for macOS/Windows, leaving Linux as the only platform still needing a separate signup.
+- **Business-nav A/B test.** [`/business/partners/`](pages/openai.com/business/partners/index.md), `/business/why-openai/startups/`, `/business/solutions/data/`, `/business/solutions/design/`, and `/business/plugins/clay/` came back with a new "Why OpenAI / Solutions / Resources / Customers / Pricing" nav, a "Try OpenAI" CTA (replacing "Try ChatGPT"), and a new promo banner — "**New: Introducing ChatGPT Work**" linking to `/chatgpt-work/`. But template-identical siblings (`/business/`, `/business/pricing/`, and the other four `/business/solutions/*` pages) came back **byte-for-byte identical** to yesterday, still on the old nav. Since OpenAI wouldn't plausibly ship a new global nav to less than half of one section, this looks like a live, randomized experiment rather than a completed redesign.
+
+### Notable updates
+
+- **[Release notes](pages/openai.com/products/release-notes/index.md)** — four new entries: (1) **GPT‑5.6 model family** (Sol/Terra/Luna) now generally available across ChatGPT, Codex, and the API, rolling out globally over ~24h; new API features include Programmatic Tool Calling, explicit prompt-caching controls, persisted reasoning, max reasoning effort, Pro mode, and beta multi-agent orchestration. (2) **ChatGPT Work** detailed as a long-running agent for research/analysis/document work with Scheduled Tasks, rolling out to paid plans (Free/Go excluded), with a two-week opt-out preview for Enterprise/Edu — also, the **App Directory is being replaced by a Plugin Directory**. (3) **New ChatGPT desktop app** merges Chat, Work, and Codex into one app (macOS/Windows, global); the previous app survives as "ChatGPT Classic" for existing Enterprise features. (4) **ChatGPT Sites reaches public beta** — Business/Enterprise can now publish a Site publicly via a shareable URL, not just inside their workspace.
+- **[GPT‑5.6 launch page](pages/openai.com/index/gpt-5-6/index.md)** — the CyberGym row was quietly dropped from the benchmark comparison table (had shown 84.5%); no explanation given, reads as a data-quality retraction.
+- **[Share your story form](pages/openai.com/form/share-your-story/index.md)** — dropped the "What OpenAI products do you use? (ChatGPT/Codex/Sora/Atlas/API)" checkbox question and generalized the intro copy from naming specific products to "OpenAI products."
+
+### Routine updates
+
+Roughly 80 of the 88 "updated" pages carried a bumped `<lastmod>` but no real content change once template boilerplate is stripped out: new in-page "table of contents" widgets appeared on several article pages (`building-codex-windows-sandbox`, `frontierscience`, `consensus`, `wrtn`, `introducing-company-knowledge`, `understanding-ai-and-learning-outcomes`, `how-people-are-using-chatgpt`, `introducing-b2b-signals`); "related posts" carousels refreshed to surface the last few days' new pages (GPT‑5.6, ChatGPT Work, etc.) on `economic-research-exchange`, `first-proof-submissions`, `new-result-theoretical-physics`, and a dozen more; and a sitewide footer swap replaced the `GPT-5.3 Instant` link with `GPT-5.6` and added `Customer Stories`/`Partner Network` links across many unrelated pages. The homepage, `/api/`, `/codex/`, most `/business/*` pages, and all the `/news/*` and `/policies/*` hub pages came back byte-identical despite a bumped lastmod — a CDN/CMS touch with no visible effect.
+
+### New pages / removals
+
+None net-new and none removed this run — the sole `added` URL is the `/form/codex-app/` reappearance covered above.
+
+Full analysis: [runs/2026-07-11T09-15Z/analysis.md](runs/2026-07-11T09-15Z/analysis.md)
+
+---
+*Stats: 1,412 total URLs | +1 added | 88 updated (8 with visible content change) | -0 removed | 2 anomalies (both low-severity) | 34 sub-sitemaps*
+
 ## 2026-07-10 — Run `2026-07-10T09-16Z`
 
 **Fetch time:** 2026-07-10T09:16:38Z

@@ -28,7 +28,7 @@ OpenAI
 
 ## Share your story
 
-We’re collecting real stories from people using OpenAI products like ChatGPT, Sora, Codex, and our API—what you’re building, learning, or figuring out along the way.
+We’re collecting real stories from people using OpenAI products - what you’re building, learning, or figuring out along the way.
 
 If that sounds like you (or someone you know), you can share a bit more in the form below.
 
@@ -55,18 +55,6 @@ Tell us about yourself or the person this is about: *A few sentences about who 
 How do you/they use OpenAI products? *For coding, writing, designing, learning, teaching, researching, scaling?
 
 1000 characters max.
-
-What OpenAI products do you/they use? (Check all that apply) *
-
-ChatGPT
-
-Codex
-
-Sora
-
-Atlas
-
-OpenAI API
 
 How has using OpenAI products helped you/them? *
 
@@ -96,7 +84,7 @@ Submit
 
 [Making a filmSoraDec 9, 2024](</index/sora-minne-atairu/>)
 
-![Health Liz Thumbnail 1x1 \(1\)](https://images.ctfassets.net/kftzwdyauwt9/5LcO0z0rcFn1MAgQQQhc9j/d7cc9654df9e5b89e59b2b268c672932/Health_Liz_Thumbnail_1x1__1_.png?w=3840&q=90&fm=webp)
+![Three people sit together on a couch in a living room, smiling and reacting as they watch something off-camera.](https://images.ctfassets.net/kftzwdyauwt9/5LcO0z0rcFn1MAgQQQhc9j/d7cc9654df9e5b89e59b2b268c672932/Health_Liz_Thumbnail_1x1__1_.png?w=3840&q=90&fm=webp)
 
 [Navigating healthChatGPTFeb 5, 2026](</index/navigating-health-questions/>)
 
@@ -110,9 +98,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -149,6 +137,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 

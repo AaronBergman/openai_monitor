@@ -98,7 +98,7 @@ Executive webinar
 
 Learn how to prioritize the right AI workflows across your organization.
 
-[Register now(opens in a new window)](<https://webinar.openai.com/enterprise-ai-value/>)
+[Register now(opens in a new window)](<https://webinar.openai.com/enterprise-ai-value/?utm_medium=webinar&utm_source=website&utm_campaign=WBR-enterprise-ai-value-chatgptwork-launch-hub>)
 
 ![Terminal prompt icon over a star field for Build Hour.](https://images.ctfassets.net/kftzwdyauwt9/7501PzAF1rWMU3q0MbfuIN/b1265e85a0d7a4daafdfc268ab03e930/chatgpt-work-build-hour-2x.png?w=3840&q=90&fm=webp)
 

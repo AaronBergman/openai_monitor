@@ -26,15 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Expanding AI into everyday life
-
-  * Expanding AI into everyday life
-  * Cracking nuanced localization for Korea
-  * Building AI products that scale with every release
-  * Making AI personalized for creativity and learning
-
-
-
 October 2, 2025
 
 # With GPT‑5, Wrtn builds lifestyle AI for millions in Korea
@@ -46,6 +37,30 @@ Wrtn scaled AI apps to 6.5 million users across Korea using GPT‑5—now they�
 Loading…
 
 Share
+
+Expanding AI into everyday life
+
+  * Expanding AI into everyday life
+
+  * Cracking nuanced localization for Korea
+
+  * Building AI products that scale with every release
+
+  * Making AI personalized for creativity and learning
+
+
+
+
+  * Expanding AI into everyday life
+
+  * Cracking nuanced localization for Korea
+
+  * Building AI products that scale with every release
+
+  * Making AI personalized for creativity and learning
+
+
+
 
 In Korea, millions of people turn to Wrtn’s AI apps to chat, learn, and get things done. What sets the company apart isn’t just better models—it’s how people keep discovering new ways to use its tools.
 
@@ -97,17 +112,15 @@ Each new OpenAI release pushes that mission forward. Wrtn builds systems that ke
 
 ## Keep reading
 
-![Confidential submission of draft S-1 to the SEC > cover image](https://images.ctfassets.net/kftzwdyauwt9/36doI12YCwUtp1hzD4d8bj/84e67c565f39e7d5ca3ee011efa69756/confidential-submission-of-draft-s-1-to-the-sec-1x1.png?w=3840&q=90&fm=webp)
+![deutsche telekom art card](https://images.ctfassets.net/kftzwdyauwt9/2iYZomUxcCPSikL5KsftP2/a3de110c6af0d68c342b60cee47091d1/oai_Deutsche_Telekom1x1.png?w=3840&q=90&fm=webp)
 
-[Confidential submission of draft S-1 to the SECCompanyJun 8, 2026](</index/openai-submits-confidential-s-1/>)
+[How Deutsche Telekom is rewiring telecommunications with AIJul 10, 2026](</index/deutsche-telekom/>)
 
-![Built for broad benefit > cover](https://images.ctfassets.net/kftzwdyauwt9/bEe28mW3dEOj9pKJsPp2u/13f7bed9e86b0667ba924479d62f98e4/Art_Card_1080x1080_1.png?w=3840&q=90&fm=webp)
+![GPT-5.6 is now the preferred model in Microsoft 365 Copilot > Cover image](https://images.ctfassets.net/kftzwdyauwt9/3MPipvFMxS8m3kTyCtwFgj/015747dcd34cb667a221688cfca64e0f/Frame.png?w=3840&q=90&fm=webp)
 
-[Built to benefit everyone: our planCompanyJun 8, 2026](</index/built-to-benefit-everyone-our-plan/>)
+[GPT-5.6 is now the preferred model in Microsoft 365 CopilotProductJul 9, 2026](</index/gpt-5-6-preferred-model-microsoft-365-copilot/>)
 
-![Economic research forum > art card ](https://images.ctfassets.net/kftzwdyauwt9/2DpNjvjdVuCrLKNOrFrWJ7/1aefe1cbe252bcd9ba42035469fc8a0f/art_card.png?w=3840&q=90&fm=webp)
-
-[Introducing the OpenAI Economic Research ExchangeCompanyJun 8, 2026](</index/economic-research-exchange/>)
+[GPT-5.6: Frontier intelligence that scales with your ambitionProductJul 9, 2026](</index/gpt-5-6/>)
 
 Research
 
@@ -119,9 +132,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -158,6 +171,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 

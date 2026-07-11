@@ -34,6 +34,8 @@ Share your interest to be considered for future partner opportunities.
 
 We’re especially interested in organizations with strong customer relationships, proven AI implementation experience, and a clear commitment to building with OpenAI.
 
+## OpenAI Partner Network Interest Form
+
 First name *
 
 Last name *
@@ -54,9 +56,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 

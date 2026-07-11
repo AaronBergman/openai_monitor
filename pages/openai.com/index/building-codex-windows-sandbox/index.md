@@ -26,15 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Where existing Windows tools fell short
-
-  * Where existing Windows tools fell short
-  * The first prototype: the "unelevated sandbox"
-  * The redesign: the "elevated sandbox"
-  * Balancing safety with actual usefulness
-
-
-
 May 13, 2026
 
 [Engineering](</news/engineering/>)[Security](</news/security/>)
@@ -46,6 +37,58 @@ By David Wiesen, Member of Technical Staff
 Loading…
 
 Share
+
+Where existing Windows tools fell short
+
+  * Where existing Windows tools fell short
+
+  * The first prototype: the "unelevated sandbox"
+
+    * Limiting file writes
+
+    * Limiting network access
+
+    * The unelevated approach came with tradeoffs
+
+    * Network suppression is too important
+
+  * The redesign: the "elevated sandbox"
+
+    * We now need a first-class setup step
+
+    * The command runner is a new binary that actually runs user commands
+
+    * The full picture
+
+  * Balancing safety with actual usefulness
+
+
+
+
+  * Where existing Windows tools fell short
+
+  * The first prototype: the "unelevated sandbox"
+
+    * Limiting file writes
+
+    * Limiting network access
+
+    * The unelevated approach came with tradeoffs
+
+    * Network suppression is too important
+
+  * The redesign: the "elevated sandbox"
+
+    * We now need a first-class setup step
+
+    * The command runner is a new binary that actually runs user commands
+
+    * The full picture
+
+  * Balancing safety with actual usefulness
+
+
+
 
 When I joined the Codex engineering team in September 2025, Codex for Windows didn’t have a sandbox implementation meaning that Windows users were forced to choose between two subpar options when using OpenAI's coding agents:
 
@@ -100,17 +143,17 @@ Having evaluated all of the options as non-starters, we started designing our ow
 
 Our first working prototype used a combination of Windows concepts and tools to implement the isolation we needed. From the beginning, one goal was to make this work without requiring _elevation_ , meaning that Codex would not need to prompt the user for administrator privileges just to set up or run the sandbox. That meant figuring out how to put reasonable limits on two things: file writes and network access.
 
-#### Limiting file writes
+### Limiting file writes
 
 If we didn't limit file writes at all, we'd have a safety issue. If we limited file writes too much, the sandbox would hurt user productivity, needing to ask for constant approval. To solve this problem, we relied on two important Windows building blocks: SIDs and write-restricted tokens.
 
-##### SIDs let us give the sandbox an identity
+#### SIDs let us give the sandbox an identity
 
 A SID, or security identifier, is the identity Windows ties to permissions. Each user has a SID, groups have SIDs, and even a single login session gets its own SID. For example, a current logged-in session might have a SID like `S-1-5-5-X-Y`. The SID assigned to the local administrators group might be `S-1-5-32-544`.
 
 Windows also lets you create synthetic SIDs that don't correspond to a real user but can still appear in ACLs (access control lists), which define who can read/write/execute specific files or directories. That makes SIDs a useful primitive for our sandbox: we can create SIDs exclusively for the Codex sandbox to use, without interfering with anything else on the machine.
 
-##### Write-restricted tokens limit where Codex can modify files
+#### Write-restricted tokens limit where Codex can modify files
 
 Process tokens are security objects in Windows that define identity and privileges for a running process. They determine what actions a process can perform. A _write-restricted token_ is a particular type of process token that makes Windows perform an additional access check on write operations.
 
@@ -141,7 +184,7 @@ With SIDs and write-restricted tokens, our unelevated sandbox worked like this:
 
 This flow effectively solved limiting file writes and seemed promising. Now we needed a solution for limiting the sandbox's network access.
 
-#### Limiting network access
+### Limiting network access
 
 Limiting network access is an important part of the sandbox; without it, malicious code could exfiltrate data from the machine up to the internet. Because we wanted to avoid an elevation requirement, we had limited options to strongly block network traffic. The tools we wanted to use, like Windows Firewall, generally could not be installed without admin permissions.
 
@@ -161,7 +204,7 @@ For example, here are some of the specific environment overrides we used to limi
 
 That caught a lot of normal tool-driven traffic, but it was still only advisory. A process could ignore the environment, bypass PATH, or just open sockets directly—too risky.
 
-#### The unelevated approach came with tradeoffs
+### The unelevated approach came with tradeoffs
 
 As with any interesting software implementation, the first prototype had some pros and cons. While it got the job done with only a few standard Windows capabilities, allowed for very explicit and granular filesystem writes, and ran unelevated—cutting the need for users to accept excessive elevation prompts or be admins on their local machine—it had some real drawbacks, some of which disqualified it from becoming our final design:
 
@@ -174,7 +217,7 @@ As with any interesting software implementation, the first prototype had some pr
 
 The first three issues are inherent to a custom sandbox implementation that's flexible enough for agentic flows. The network suppression story was different, though.
 
-#### Network suppression is too important
+### Network suppression is too important
 
 In addition to a malicious agent being able to easily circumvent the environment-based network suppression, plenty of good-intentioned code/binaries would also circumvent it simply if they didn’t honor the environment proxy variables, or if they implemented their own socket-based network code. We felt that this aspect was enough to consider investing in a better sandbox mode.
 
@@ -203,7 +246,7 @@ This seemingly small detail actually has big implications for the sandbox, who c
 
 It’s visually similar to the unelevated prototype, with the introduction of firewall rules and a dedicated Windows user, which actually runs the commands. (However, the introduction of these new concepts, means that there is more setup work to do before the sandbox can start running and protecting commands.)
 
-#### We now need a first-class setup step
+### We now need a first-class setup step
 
 The unelevated sandbox design had a simple setup step, but it was relatively small:
 
@@ -239,7 +282,7 @@ We encapsulated the setup logic in its own binary partly to cross the UAC bounda
 
 ![Diagram showing the first-class elevated sandbox setup step.](https://images.ctfassets.net/kftzwdyauwt9/1L0jHduyQ5wiNbQ9hAVXaz/b2e2c5871a5a8feb378fc10b70d08a1c/Diagram5-10column-desktop-light.svg?w=3840&q=90)
 
-#### The command runner is a new binary that actually runs user commands
+### The command runner is a new binary that actually runs user commands
 
 Because of how Windows user and token login boundaries work, we couldn't continue to create a restricted token and spawn a process under it the way we could with the unelevated sandbox. To actually spawn commands as a different Windows user, our first idea was the following flow:
 
@@ -270,7 +313,7 @@ That requirement led to `codex-command-runner.exe`, a new binary whose only job 
 
 ![Diagram showing the command runner flow for spawning restricted commands.](https://images.ctfassets.net/kftzwdyauwt9/3D3UDLteywxw2R6tFbrzRH/afafb32a8d8f39fbc1a35f4f576cf787/Diagram6-8column-desktop-light.svg?w=3840&q=90)
 
-#### The full picture
+### The full picture
 
 Albert Einstein said, “Everything should be made as simple as possible, but no simpler.” In that spirit, our design adequately solved each problem. The final architecture has the four layers we have previously covered:
 
@@ -303,17 +346,17 @@ Curious to see the Codex sandbox in action? [_Try it out_ ⁠](<https://openai.c
 
 [View all](</news/>)
 
-![Tax Agent > Art Card](https://images.ctfassets.net/kftzwdyauwt9/6ojJ6B55QUlmNdaLifgMkQ/22e429ec7b3fdd119a2499358af899b7/Art_Card.png?w=3840&q=90&fm=webp)
+![Rockset > Art Card](https://images.ctfassets.net/kftzwdyauwt9/7qv6OiVDfumZUnibH5VTOU/d2d818ac6de1f7cb93dce7a343e456dc/Rockset-Art-Card.png?w=3840&q=90&fm=webp)
 
-[Building self-improving tax agents with CodexEngineeringMay 27, 2026](</index/building-self-improving-tax-agents-with-codex/>)
+[Core dump epidemiology: fixing an 18-year-old bugEngineeringJun 30, 2026](</index/core-dump-epidemiology-data-infrastructure-bug/>)
 
-![Frame](https://images.ctfassets.net/kftzwdyauwt9/32jPyVqUObkTrIIyA6tJV1/4eb384b5bb2f21ccea5de7665858a37a/Frame.png?w=3840&q=90&fm=webp)
+![Expanding Daybreak Art Card](https://images.ctfassets.net/kftzwdyauwt9/735NOZviyogUBIFxd2EmWX/fa8baf9fc26e64f442ffa86d5fd9a41e/Art_Card__6_.png?w=3840&q=90&fm=webp)
 
-[Our response to the TanStack npm supply chain attackCompanyMay 13, 2026](</index/our-response-to-the-tanstack-npm-supply-chain-attack/>)
+[Daybreak: Tools for securing every organization in the worldSecurityJun 22, 2026](</index/daybreak-securing-the-world/>)
 
-![Running Codex safely at OpenAI > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/76rTHgn2J3y6srtNd3ZrRs/71fc86af978baecda10b212fdb5d3609/Frame.png?w=3840&q=90&fm=webp)
+![Patch the Planet Art Card 1x1](https://images.ctfassets.net/kftzwdyauwt9/2PwBCyZF0Z5WLRtsbOpDdQ/338e19fbc39e5b9a63b1db664c006e74/Art_Card__5_.png?w=3840&q=90&fm=webp)
 
-[Running Codex safely at OpenAISecurityMay 8, 2026](</index/running-codex-safely/>)
+[Patch the Planet: a Daybreak initiative to support open source maintainersSecurityJun 22, 2026](</index/patch-the-planet/>)
 
 Research
 
@@ -325,9 +368,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -364,6 +407,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 

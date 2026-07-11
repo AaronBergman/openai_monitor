@@ -26,14 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Who’s using it 
-
-  * Who’s using it 
-  * What they’re using it for
-  * How use is evolving
-
-
-
 September 15, 2025
 
 [Research](</news/research/>)[Publication](</research/index/publication/>)[Global Affairs](</news/global-affairs/>)
@@ -47,6 +39,26 @@ Largest study to date of consumer ChatGPT usage shows demographic gaps shrinking
 Loading…
 
 Share
+
+Who’s using it 
+
+  * Who’s using it 
+
+  * What they’re using it for
+
+  * How use is evolving
+
+
+
+
+  * Who’s using it 
+
+  * What they’re using it for
+
+  * How use is evolving
+
+
+
 
 We’re releasing the largest study to date of how people are using ChatGPT, offering a first-of-its-kind view into how this broadly democratized technology creates economic value through both increased productivity at work and personal benefit. 
 
@@ -95,19 +107,17 @@ OpenAI
 
 [View all](</news/>)
 
-![Art Card 1080x1080 \(3\)](https://images.ctfassets.net/kftzwdyauwt9/3JLNH7ejJFnxLmX2LpzoKD/19f9e3c4d36cc9d677ba88e842ad2db2/Art_Card_1080x1080__4_.png?w=3840&q=90&fm=webp)
+![Our approach to government and national security partnerships > Cover image](https://images.ctfassets.net/kftzwdyauwt9/6LpyyLCqWNpiRHwFZpCP7s/30674f74a4b776306398352664a5f3cc/Frame.png?w=3840&q=90&fm=webp)
 
-Better memory for a more helpful ChatGPT
+[Our approach to government and national security partnershipsGlobal AffairsJul 8, 2026](</index/government-national-security-partnerships/>)
 
-[Dreaming: Better memory for a more helpful ChatGPTResearchJun 4, 2026](</index/chatgpt-memory-dreaming/>)
+![Separating signal from noise > Art Card](https://images.ctfassets.net/kftzwdyauwt9/7j6M3prKIsTmV6cbMaHjhZ/e66f7cdd98c66c99546853cbc22cfe84/Seperating-signal-from-noise-card.png?w=3840&q=90&fm=webp)
 
-![oai 1x1 Biodefense in the Intelligence Age](https://images.ctfassets.net/kftzwdyauwt9/6A4rrCBs9rrlbzm9JWIvSi/8a4ae56849fcd0b16e90b59b8babc613/oai_1x1_Biodefense_in_the_Intelligence_Age.png?w=3840&q=90&fm=webp)
+[Separating signal from noise in coding evaluationsResearchJul 8, 2026](</index/separating-signal-from-noise-coding-evaluations/>)
 
-[Biodefense in the Intelligence AgeGlobal AffairsJun 4, 2026](</index/biodefense-in-the-intelligence-age/>)
+![Helping K–12 educators build practical AI skills > Cover image](https://images.ctfassets.net/kftzwdyauwt9/190wMCP1bPt9adqu2edDV9/106b863586b063e777539df3aa988c3f/Frame.png?w=3840&q=90&fm=webp)
 
-![Rosalind5.5 ArtCard](https://images.ctfassets.net/kftzwdyauwt9/6USIQM1B7TggUvvTFxxwoi/0176ac6633c8bdc24641d25d1d2db824/GPT-Rosalind_ArtCard.png?w=3840&q=90&fm=webp)
-
-[Introducing new capabilities to GPT-RosalindProductJun 3, 2026](</index/introducing-new-capabilities-to-gpt-rosalind/>)
+[Helping K–12 educators build practical AI skillsGlobal AffairsJul 8, 2026](</index/k-12-educators-practical-skills/>)
 
 Research
 
@@ -119,9 +129,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -158,6 +168,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 

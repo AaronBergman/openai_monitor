@@ -907,6 +907,8 @@ June 26, 2026
 
 # Previewing GPT‑5.6 Sol: a next-generation model
 
+[Read the launch post](</index/gpt-5-6/>)
+
 Loading…
 
 Share

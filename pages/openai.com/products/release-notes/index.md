@@ -43,95 +43,91 @@ Sort
 
 API
 
-Jul 6, 2026
+Jul 9, 2026
 
 GA
 
-## GPT-Realtime-2.1 and GPT-Realtime-2.1 mini for realtime voice applications
+## Introducing the GPT-5.6 model family 
 
-Released GPT‑Realtime‑2.1, an updated realtime reasoning model with improved alphanumeric recognition, silence and noise handling, and interruption behavior. Also released GPT‑Realtime‑2.1 mini, a faster, lower-cost distilled reasoning model for realtime voice applications.
+GPT‑5.6 is now available across ChatGPT, Codex, and the OpenAI API. The rollout is starting globally and will continue gradually toward full availability over the next 24 hours.
 
-[View source(opens in a new window)](<https://developers.openai.com/api/docs/models/gpt-realtime-2.1>)[Platform docs(opens in a new window)](<https://developers.openai.com/api/docs/models/gpt-realtime-2.1-mini>)
+The GPT‑5.6 model family, includes GPT‑5.6 Sol for frontier capability, GPT‑5.6 Terra for a balance of intelligence and cost, and GPT‑5.6 Luna for efficient, high-volume workloads. 
+
+In the API, The gpt-5.6 alias routes requests to gpt-5.6-sol. GPT‑5.6 also adds Programmatic Tool Calling, explicit prompt caching controls, persisted reasoning, max reasoning effort, Pro mode, and Multi-agent orchestration in beta for the Responses API. GPT‑5.6 also accepts images at their original dimensions with original or auto image detail.
+
+[View source](<https://openai.com/index/gpt-5-6/>)[Platform docs(opens in a new window)](<https://developers.openai.com/api/docs/guides/latest-model>)[Help center (opens in a new window)](<https://help.openai.com/en/articles/20001354-gpt-56-in-chatgpt>)
 
 ChatGPT
 
-Jul 6, 2026
+Jul 9, 2026
 
 GA
 
-## GPT-5.5 Instant Mini in ChatGPT
+## Introducing ChatGPT Work
 
-We’re rolling out GPT‑5.5 Instant Mini in ChatGPT. It replaces GPT‑5.3 Instant Mini as the fallback model users reach after hitting their GPT‑5.5 Instant or Auto rate limits. Because it serves as a fallback, it won’t appear in the model picker. This update does not affect the API or Codex.
+ChatGPT Work is an agent for longer, more involved tasks. It can research and analyze information, work across connected apps and files, and create finished documents, spreadsheets, presentations, reports, and Sites. Users can follow progress, answer questions, change direction, and approve important actions while it works.
 
-Compared with GPT‑5.3 Instant Mini, GPT‑5.5 Instant Mini better tracks evolving user intent, calibrates tone, and avoids repetitive or overly structured responses. Testing also showed stronger personalization and fewer factual issues.
+Work can also keep projects moving through Scheduled Tasks that run once, repeat on a schedule or trigger, or monitor for changes.
 
-[View source(opens in a new window)](<https://help.openai.com/en/articles/6825453-chatgpt-release-notes#gpt-55-instant-mini-in-chatgpt>)
+On web and mobile, Work is rolling out to paid plans except Free and Go. Pro, Pro Lite, Enterprise, and Edu users receive access first; Plus and Business users will follow over the coming days. Work is available in all supported regions.
+
+On web and mobile, Enterprise and Edu workspaces have a two-week preview period. Work is off by default during the preview, and admins can opt out before it turns on automatically at the end of the preview.
+
+The App Directory is being replaced with the Plugin Directory. Existing app connections are unaffected. Plugins can package skills, apps, and app templates for specific workflows, and are available from ChatGPT on web and desktop, including Work and Codex.
+
+[View source(opens in a new window)](<https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-chatgpt-work>)[Blog ](<https://openai.com/index/chatgpt-for-your-most-ambitious-work/>)
 
 ChatGPT
 
-Jul 6, 2026
+Jul 9, 2026
 
 GA
 
-## ChatGPT for PowerPoint GA and workspace agent pricing update
+## ChatGPT desktop app brings Chat, Work, and Codex together
 
-ChatGPT Business: ChatGPT for PowerPoint is now generally available for Business workspaces. Teams can create and revise editable presentations directly in Microsoft PowerPoint, ask questions about deck structure and narrative, and use Skills and enabled apps to build slides from repeatable workflows and connected sources. Advanced edits and template matching may still require review. Workspace admins can enable ChatGPT for PowerPoint and control access to supported apps. Business usage remains free through August 6, 2026. After that, usage follows the flexible-pricing model and draws from the workspace credit pool after included usage.
+The new ChatGPT desktop app is available globally for macOS and Windows. It combines Chat for questions and conversation, Work for research and finished deliverables, and Codex for software development in one app.
 
-As of July 6, 2026, Workspace Agent runs now use token-based pricing, with credit use based on input tokens, cached input tokens, and output tokens. Business plans include usage for ChatGPT Workspace Agents, ChatGPT for Excel, and ChatGPT for PowerPoint through the general Codex agentic usage pool as pricing takes effect for each feature. Flexible pricing can extend included limits.
+On desktop, Work can use local files and desktop apps with user permission. The built-in browser lets ChatGPT gather information from websites and work with supported web-based tools and files. Codex adds inline editing within diffs, pull-request review in the side panel, faster Computer Use, and support for multiple repositories in one project.
 
-ChatGPT Enterprise/Edu: ChatGPT for Excel/Sheets tasks now use token-based credit pricing for Enterprise and Edu workspaces. Workspace Agent runs also use token-based credit pricing for Enterprise workspaces. Credit use is based on input tokens, cached input tokens, and output tokens rather than a fixed credit cost.
+Existing Codex app users can update as usual and keep their projects, settings, and workflows. Users can make Codex the default view and, on macOS, keep the Codex app icon. Users of the previous ChatGPT desktop app can follow the prompt in the app to download the new version. The previous app may remain installed as ChatGPT Classic, which continues to receive model updates, bug fixes, security patches, and support for existing Enterprise capabilities, while new agent features such as Work and Codex are available in the new app.
 
-ChatGPT for PowerPoint remains free for Enterprise customers through August 6, 2026. Charging starts after that date under the same token-based pricing model as ChatGPT for Excel/Sheets.
+Codex-specific new features include editing Markdown and code directly in the app, using inline annotations, asking Codex to revise selected content, reviewing GitHub pull requests in the sidebar with reviewer feedback alongside the diff, and working across repositories in one project.
 
-[View source(opens in a new window)](<https://help.openai.com/en/articles/11391654-chatgpt-business-release-notes#chatgpt-for-powerpoint-is-now-generally-available>)[Help center(opens in a new window)](<https://help.openai.com/en/articles/10128477-chatgpt-enterprise-edu-release-notes#update-excelsheets-and-workspace-agent-pricing>)[Help center(opens in a new window)](<https://help.openai.com/en/articles/11481834-chatgpt-rate-card-business-enterpriseedu>)
+Codex performance improvements and fixes include faster Computer Use with GPT‑5.6, clearer task activity and progress, plugin management moved into Settings, improved mobile connection reliability, fixed video rendering for SSH projects, and additional performance improvements and bug fixes.
 
-Codex
-
-Jul 6, 2026
-
-GA
-
-## ChatGPT for iOS updates: Codex task management, diff controls, attachments, and fixes
-
-New features
-
-\- Added support for creating, searching, opening, forking, and managing Codex tasks directly from a conversation.  
-\- Added filters for staged, unstaged, branch, and last-turn changes, with controls for comparing branches.  
-\- Added support for adding selected transcript text directly to the composer.  
-\- Added previews for image and file attachments before sending.  
-\- Added inline Photos and Camera pickers to the attachment menu.  
-\- Added a connection shortcut and support for SSH hosts using private keys or no credentials.  
-\- Added usage limits and credit details to the task menu.
-
-Improvements and bug fixes
-
-\- Improved the task list with consistent task terminology, clearer delegated task titles, and a Needs input status.  
-\- Improved initial task loading and foreground recovery.  
-\- Improved autocomplete by selecting the first result automatically and accepting it with Return.  
-\- Improved model, reasoning, and Fast settings so changes remain scoped to the current task.  
-\- Improved task-management and dynamic tool activity presentation.  
-\- Improved side chats to open directly when only one conversation is available.  
-\- Improved plugin autocomplete with installed plugins and their icons.  
-\- Improved workspace diff accuracy and expand-and-collapse navigation.  
-\- Improved recovery by preserving thread state across reconnects and host pairings across sign-out.  
-\- Fixed stuck thread-list loading, prompt mode deadlocks, stale images, and microphone permission alerts.  
-\- Fixed shake to undo and keyboard refocusing after sending a prompt.
-
-[View source(opens in a new window)](<https://developers.openai.com/codex/changelog#codex-2026-07-06-mobile>)
+[View source(opens in a new window)](<https://help.openai.com/en/articles/6825453-chatgpt-release-notes#the-new-chatgpt-desktop-app-brings-chat-work-and-codex-together>)[Platform docs(opens in a new window)](<https://developers.openai.com/codex/changelog#codex-2026-07-09-app>)[Migration guidance (opens in a new window)](<https://help.openai.com/articles/20001276>)
 
 ChatGPT
 
-Jun 26, 2026
+Jul 9, 2026
 
-GA
+Beta
 
-## Personal finance in ChatGPT expands to Plus users and Android
+## ChatGPT Sites public beta
 
-The personal finance experience in ChatGPT is rolling out to Plus users in the U.S. on web and iOS. It is also now available on Android for Pro and Plus users in the U.S.
+ChatGPT Sites lets users turn work or ideas into an interactive website or lightweight app without leaving ChatGPT. Users can create dashboards, project trackers, launch calendars, prototypes, internal portals, and reports, then preview and refine the result with ChatGPT before sharing it.
 
-Eligible users can securely connect supported financial accounts, view a dashboard of their finances, and ask ChatGPT questions grounded in their financial context
+Business and Enterprise customers already have access to Sites. Starting today, they can also publish Sites publicly and share them with anyone through a URL, expanding Sites beyond people in their workspace.
 
-[View source(opens in a new window)](<https://help.openai.com/en/articles/6825453-chatgpt-release-notes#personal-finance-in-chatgpt-expands-to-plus-users-and-android>)
+To create a Site, users start in ChatGPT Work on the web or in Work or Codex in the ChatGPT desktop app, describe what they want to build, add relevant content, files, data, links, or constraints, and review the private preview before publishing.
+
+In Enterprise workspaces, public publishing is off by default and must be enabled by an admin. Sites is also rolling out in public beta to Pro, Pro Lite, and Edu users, with Plus users following over the coming days. Sites is not available on Free or Go plans. Public publishing and the expanded beta rollout are not available in the EEA, Switzerland, or the United Kingdom at launch.
+
+[View source(opens in a new window)](<https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-chatgpt-sites-in-public-beta>)
+
+ChatGPT
+
+Jul 9, 2026
+
+Sunset
+
+## Retiring group chats in ChatGPT
+
+Beginning July 9, 2026, users on web, iOS, and Android will no longer be able to create new group chats, turn existing conversations into group chats, or join a group chat through an invite link.
+
+Existing group chats will remain available and can continue to be used for now. When an existing group chat becomes read-only, users will retain access to the messages, files, and images already shared there. Individual ChatGPT conversations are unaffected.
+
+[View source(opens in a new window)](<https://help.openai.com/en/articles/6825453-chatgpt-release-notes#retiring-group-chats-in-chatgpt>)
 
 Load more
 
