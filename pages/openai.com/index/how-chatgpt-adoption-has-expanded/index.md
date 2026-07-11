@@ -53,8 +53,6 @@ ChatGPT users deepened and expanded their use over time
 
 
 
-Table of contents
-
   * ChatGPT users deepened and expanded their use over time
 
   * ChatGPT adoption accelerated across regions
@@ -133,17 +131,17 @@ This analysis excludes messages from names that are not typically masculine or t
 
 [View all](</news/>)
 
+![Our approach to government and national security partnerships > Cover image](https://images.ctfassets.net/kftzwdyauwt9/6LpyyLCqWNpiRHwFZpCP7s/30674f74a4b776306398352664a5f3cc/Frame.png?w=3840&q=90&fm=webp)
+
+[Our approach to government and national security partnershipsGlobal AffairsJul 8, 2026](</index/government-national-security-partnerships/>)
+
+![Helping K–12 educators build practical AI skills > Cover image](https://images.ctfassets.net/kftzwdyauwt9/190wMCP1bPt9adqu2edDV9/106b863586b063e777539df3aa988c3f/Frame.png?w=3840&q=90&fm=webp)
+
+[Helping K–12 educators build practical AI skillsGlobal AffairsJul 8, 2026](</index/k-12-educators-practical-skills/>)
+
 ![Mapping Europe’s AI Workforce Opportunity art card](https://images.ctfassets.net/kftzwdyauwt9/1GzG1SsRjcjUPXXHjqfTAX/a7244ab2bd596fd917e4a2abf7ee71a6/mapping-europes-ai-workforce-opportunity-art-card.png?w=3840&q=90&fm=webp)
 
 [Mapping Europe’s AI Workforce OpportunityGlobal AffairsJun 29, 2026](</index/mapping-ai-jobs-transition-eu/>)
-
-![Helping build shared standards for advanced AI - card image](https://images.ctfassets.net/kftzwdyauwt9/3tqr0Vb3JnK38uBRBw7FAF/a3989888ee148ba286b834076aaa289b/helping-build-shared-standards-for-advanced-ai-1_1.png?w=3840&q=90&fm=webp)
-
-[Helping build shared standards for advanced AIGlobal AffairsJun 23, 2026](</index/helping-build-shared-standards-for-advanced-ai/>)
-
-![Supporting Europe’s work in ensuring a trustworthy AI ecosystem  > art card](https://images.ctfassets.net/kftzwdyauwt9/U3OuQtdga2BaxWxb0e2ge/2fdc2fb1cf5c70a8f77fc4b55236aa78/Frame2.png?w=3840&q=90&fm=webp)
-
-[Supporting Europe’s work in ensuring a trustworthy AI ecosystem Global AffairsJun 11, 2026](</index/supporting-eu-trustworthy-ai-ecosystem/>)
 
 Research
 
@@ -155,9 +153,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
