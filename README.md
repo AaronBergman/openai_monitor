@@ -4,6 +4,37 @@ A daily log of every change to OpenAI's public website — what appeared, what d
 
 ---
 
+## 2026-07-12 — Run `2026-07-12T09-16Z`
+
+**Fetch time:** 2026-07-12T09:16:30Z
+**Baseline:** 2026-07-11T09-15Z
+**Stats:** 1412 total URLs | +0 added | 24 updated (1 with visible content change) | -0 removed | 0 anomalies | 34 sub-sitemaps
+
+**TL;DR:** The quietest day since monitoring began — no new pages, no removals, no suspicious timestamps. Of 24 pages that got a bumped last-modified date, only the [livestream replay page](pages/openai.com/live/index.md) actually changed anything visible (a swapped YouTube link). The other 23 were byte-for-byte identical to yesterday; about ten of them, all pre-existing Codex/GPT‑5.6 launch pages, got touched in a tight seven-minute window this morning, which looks like a routine site rebuild rather than any real edit. Also correcting the record: a "sub-sitemap migration" flagged on 2026-07-09 and 2026-07-10 turns out not to be a migration at all — see below.
+
+### Anomalies
+
+None new. One correction to a claim in the last two days' logs:
+
+- **The "global-affairs migration" wasn't a migration.** The 2026-07-09 and 2026-07-10 entries below both describe 4 URLs (`how-countries-can-end-the-capability-overhang`, `understanding-ai-and-learning-outcomes`, `equipping-workers-with-insights-about-compensation`, `global-affairs/new-economic-analysis`) as having moved from `sitemap.xml/global-affairs/` into `sitemap.xml/global-affairs-news-listed/`. Checking the raw XML directly (today's fetch and yesterday's committed snapshot via `git show`) shows all 4 URLs are listed in **both** sub-sitemaps at the same time, on both days — a stable duplicate cross-listing, not a one-way move. The "migration" reports came from a diff script that only tracked one sub-sitemap per URL and got confused by the duplication. No actual sitemap reorganization happened.
+
+### Notable updates
+
+- **[Live page](pages/openai.com/live/index.md)** — the only real content change this run. The "This is the new ChatGPT Voice, powered by GPT-Live" replay entry (from July 8) had its YouTube video link swapped to a different video ID. No other text changed — looks like a corrected/re-uploaded video, not a new stream.
+
+### Routine updates
+
+23 of 24 lastmod-bumped pages were unchanged content. About ten of them — all pre-existing Codex/GPT‑5.6 pages (`/codex/`, `/chatgpt-work/`, `/index/gpt-5-6/`, `/index/devday-2026/`, `/index/introducing-gpt-5-3-codex/`, `/index/introducing-gpt-5-3-codex-spark/`, `/index/introducing-the-codex-app/`, `/index/codex-flexible-pricing-for-teams/`, `/index/codex-for-almost-everything/`, `/index/separating-signal-from-noise-coding-evaluations/`) — got their lastmod bumped within the same 7-minute window (09:00–09:07 UTC) just before this run's fetch, with zero content change. Reads as a scheduled rebuild/redeploy of that page cluster, not an edit. The rest (Academy Codex guides, Build Week, several `/business/*` pricing/partner pages, the share-your-story form, and the ChatGPT Sites Terms policy page) were scattered lastmod bumps through the prior day, also with no visible change.
+
+### New pages / removals
+
+None this run.
+
+Full analysis: [runs/2026-07-12T09-16Z/analysis.md](runs/2026-07-12T09-16Z/analysis.md)
+
+---
+*Stats: 1,412 total URLs | +0 added | 24 updated (1 with visible content change) | -0 removed | 0 anomalies | 34 sub-sitemaps*
+
 ## 2026-07-11 — Run `2026-07-11T09-15Z`
 
 **Fetch time:** 2026-07-11T09:16:52Z

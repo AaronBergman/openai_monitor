@@ -1,0 +1,134 @@
+{
+  "run_id": "2026-07-12T09-16Z",
+  "fetch_time": "2026-07-12T09:16:30Z",
+  "baseline": "2026-07-11T09-15Z",
+  "added": [],
+  "removed": [],
+  "updated": [
+    {
+      "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex/",
+      "old_lastmod": "2026-07-11T08:03:37.159Z",
+      "new_lastmod": "2026-07-12T08:17:06.594Z"
+    },
+    {
+      "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex/",
+      "old_lastmod": "2026-07-11T03:41:17.093Z",
+      "new_lastmod": "2026-07-11T11:09:14.082Z"
+    },
+    {
+      "url": "https://openai.com/build-week/",
+      "old_lastmod": "2026-07-11T03:47:21.179Z",
+      "new_lastmod": "2026-07-11T20:53:24.380Z"
+    },
+    {
+      "url": "https://openai.com/business/chatgpt-pricing/",
+      "old_lastmod": "2026-07-11T00:44:57.661Z",
+      "new_lastmod": "2026-07-11T10:05:27.875Z"
+    },
+    {
+      "url": "https://openai.com/business/partners/dropbox/",
+      "old_lastmod": "2026-07-11T03:16:22.498Z",
+      "new_lastmod": "2026-07-11T14:30:25.659Z"
+    },
+    {
+      "url": "https://openai.com/business/plugins/",
+      "old_lastmod": "2026-07-10T18:44:49.589Z",
+      "new_lastmod": "2026-07-11T10:45:39.657Z"
+    },
+    {
+      "url": "https://openai.com/business/pricing/",
+      "old_lastmod": "2026-07-11T00:45:03.604Z",
+      "new_lastmod": "2026-07-11T10:05:27.068Z"
+    },
+    {
+      "url": "https://openai.com/chatgpt-work/",
+      "old_lastmod": "2026-07-11T08:10:33.509Z",
+      "new_lastmod": "2026-07-12T09:06:58.899Z"
+    },
+    {
+      "url": "https://openai.com/codex/",
+      "old_lastmod": "2026-07-11T08:10:13.449Z",
+      "new_lastmod": "2026-07-12T09:02:29.630Z"
+    },
+    {
+      "url": "https://openai.com/codex/get-started/",
+      "old_lastmod": "2026-07-11T08:04:52.871Z",
+      "new_lastmod": "2026-07-12T09:02:17.827Z"
+    },
+    {
+      "url": "https://openai.com/form/share-your-story/",
+      "old_lastmod": "2026-07-11T09:09:43.540Z",
+      "new_lastmod": "2026-07-12T03:23:34.713Z"
+    },
+    {
+      "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work/",
+      "old_lastmod": "2026-07-11T08:20:32.165Z",
+      "new_lastmod": "2026-07-12T07:39:30.749Z"
+    },
+    {
+      "url": "https://openai.com/index/codex-flexible-pricing-for-teams/",
+      "old_lastmod": "2026-07-11T08:06:57.214Z",
+      "new_lastmod": "2026-07-12T09:02:30.234Z"
+    },
+    {
+      "url": "https://openai.com/index/codex-for-almost-everything/",
+      "old_lastmod": "2026-07-11T08:07:05.350Z",
+      "new_lastmod": "2026-07-12T09:02:27.285Z"
+    },
+    {
+      "url": "https://openai.com/index/codex-for-every-role-tool-workflow/",
+      "old_lastmod": "2026-07-11T03:48:29.453Z",
+      "new_lastmod": "2026-07-12T06:20:36.306Z"
+    },
+    {
+      "url": "https://openai.com/index/devday-2026/",
+      "old_lastmod": "2026-07-11T08:10:12.398Z",
+      "new_lastmod": "2026-07-12T09:03:28.753Z"
+    },
+    {
+      "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot/",
+      "old_lastmod": "2026-07-11T05:24:38.649Z",
+      "new_lastmod": "2026-07-11T15:04:53.104Z"
+    },
+    {
+      "url": "https://openai.com/index/gpt-5-6/",
+      "old_lastmod": "2026-07-11T09:12:46.305Z",
+      "new_lastmod": "2026-07-12T09:06:58.964Z"
+    },
+    {
+      "url": "https://openai.com/index/introducing-gpt-5-3-codex-spark/",
+      "old_lastmod": "2026-07-11T08:05:43.991Z",
+      "new_lastmod": "2026-07-12T09:02:06.063Z"
+    },
+    {
+      "url": "https://openai.com/index/introducing-gpt-5-3-codex/",
+      "old_lastmod": "2026-07-11T08:11:42.917Z",
+      "new_lastmod": "2026-07-12T09:02:37.143Z"
+    },
+    {
+      "url": "https://openai.com/index/introducing-the-codex-app/",
+      "old_lastmod": "2026-07-11T08:06:16.540Z",
+      "new_lastmod": "2026-07-12T09:03:18.922Z"
+    },
+    {
+      "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations/",
+      "old_lastmod": "2026-07-10T21:39:04.775Z",
+      "new_lastmod": "2026-07-12T09:00:20.130Z"
+    },
+    {
+      "url": "https://openai.com/live/",
+      "old_lastmod": "2026-07-10T11:32:01.337Z",
+      "new_lastmod": "2026-07-11T13:46:55.610Z"
+    },
+    {
+      "url": "https://openai.com/policies/chatgpt-sites-terms/",
+      "old_lastmod": "2026-07-11T04:54:45.013Z",
+      "new_lastmod": "2026-07-11T09:26:27.541Z"
+    }
+  ],
+  "anomalies": [],
+  "fetch_failures": [],
+  "notes": {
+    "duplicate_cross_listing_clarification": "Prior runs (2026-07-09, 2026-07-10) flagged 4 URLs (equipping-workers-with-insights-about-compensation, understanding-ai-and-learning-outcomes, how-countries-can-end-the-capability-overhang, global-affairs/new-economic-analysis) as having *migrated* from sitemap.xml/global-affairs/ to sitemap.xml/global-affairs-news-listed/. Verified this run: all 4 URLs are present in BOTH sub-sitemaps simultaneously, in both this run and the prior committed snapshot (confirmed via git show HEAD). This is a persistent duplicate cross-listing, not a migration in either direction. The apparent migration in past runs was an artifact of a naive url->sub-sitemap map that only kept the last-seen sub-sitemap per URL. state/known_urls.json already correctly records sub_sitemaps as a list for these URLs."
+  }
+}
