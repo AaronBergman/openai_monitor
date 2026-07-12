@@ -32,7 +32,7 @@ July 9, 2026
 
 ## Past livestreams
 
-### [ This is the new ChatGPT Voice, powered by GPT-LiveJuly 8, 2026Watch the replay](<https://www.youtube.com/watch?v=EAN5Cj347PY>)
+### [ This is the new ChatGPT Voice, powered by GPT-LiveJuly 8, 2026Watch the replay](<https://www.youtube.com/watch?v=9f-Ew_lDtxc>)
 
 ### [Introducing ChatGPT Images 2.0April 21, 2026Watch the replay](<https://www.youtube.com/watch?v=sWkGomJ3TLI>)
 
