@@ -1,0 +1,147 @@
+{
+  "run_id": "2026-07-13T09-16Z",
+  "fetch_time": "2026-07-13T09:16:00Z",
+  "baseline": "2026-07-12T09-16Z",
+  "added": [],
+  "removed": [],
+  "updated": [
+    {
+      "url": "https://openai.com/build-week/",
+      "old_lastmod": "2026-07-11T20:53:24.380Z",
+      "new_lastmod": "2026-07-13T05:23:29.203Z"
+    },
+    {
+      "url": "https://openai.com/business-data/",
+      "old_lastmod": "2026-07-11T02:23:41.095Z",
+      "new_lastmod": "2026-07-12T19:01:28.083Z"
+    },
+    {
+      "url": "https://openai.com/business/",
+      "old_lastmod": "2026-07-11T06:07:45.256Z",
+      "new_lastmod": "2026-07-12T18:39:17.008Z"
+    },
+    {
+      "url": "https://openai.com/business/partners/dropbox/",
+      "old_lastmod": "2026-07-11T14:30:25.659Z",
+      "new_lastmod": "2026-07-12T22:16:25.673Z"
+    },
+    {
+      "url": "https://openai.com/business/solutions/data/",
+      "old_lastmod": "2026-07-11T04:25:26.073Z",
+      "new_lastmod": "2026-07-12T18:46:27.827Z"
+    },
+    {
+      "url": "https://openai.com/business/solutions/design/",
+      "old_lastmod": "2026-07-11T04:24:59.451Z",
+      "new_lastmod": "2026-07-12T18:44:04.368Z"
+    },
+    {
+      "url": "https://openai.com/business/solutions/finance/",
+      "old_lastmod": "2026-07-11T04:29:24.722Z",
+      "new_lastmod": "2026-07-12T18:33:29.785Z"
+    },
+    {
+      "url": "https://openai.com/business/solutions/marketing/",
+      "old_lastmod": "2026-07-11T04:24:19.949Z",
+      "new_lastmod": "2026-07-12T18:46:49.545Z"
+    },
+    {
+      "url": "https://openai.com/business/solutions/sales/",
+      "old_lastmod": "2026-07-11T04:24:21.429Z",
+      "new_lastmod": "2026-07-12T18:49:35.859Z"
+    },
+    {
+      "url": "https://openai.com/chatgpt-work/",
+      "old_lastmod": "2026-07-12T09:06:58.899Z",
+      "new_lastmod": "2026-07-13T07:58:00.912Z"
+    },
+    {
+      "url": "https://openai.com/codex/",
+      "old_lastmod": "2026-07-12T09:02:29.630Z",
+      "new_lastmod": "2026-07-13T07:53:31.451Z"
+    },
+    {
+      "url": "https://openai.com/codex/get-started/",
+      "old_lastmod": "2026-07-12T09:02:17.827Z",
+      "new_lastmod": "2026-07-13T07:53:23.094Z"
+    },
+    {
+      "url": "https://openai.com/form/share-your-story/",
+      "old_lastmod": "2026-07-12T03:23:34.713Z",
+      "new_lastmod": "2026-07-13T06:22:17.857Z"
+    },
+    {
+      "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work/",
+      "old_lastmod": "2026-07-12T07:39:30.749Z",
+      "new_lastmod": "2026-07-13T07:42:40.784Z"
+    },
+    {
+      "url": "https://openai.com/index/codex-flexible-pricing-for-teams/",
+      "old_lastmod": "2026-07-12T09:02:30.234Z",
+      "new_lastmod": "2026-07-13T07:53:34.126Z"
+    },
+    {
+      "url": "https://openai.com/index/codex-for-almost-everything/",
+      "old_lastmod": "2026-07-12T09:02:27.285Z",
+      "new_lastmod": "2026-07-13T07:53:32.846Z"
+    },
+    {
+      "url": "https://openai.com/index/codex-for-every-role-tool-workflow/",
+      "old_lastmod": "2026-07-12T06:20:36.306Z",
+      "new_lastmod": "2026-07-12T19:29:43.490Z"
+    },
+    {
+      "url": "https://openai.com/index/devday-2026/",
+      "old_lastmod": "2026-07-12T09:03:28.753Z",
+      "new_lastmod": "2026-07-13T07:54:02.009Z"
+    },
+    {
+      "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot/",
+      "old_lastmod": "2026-07-11T15:04:53.104Z",
+      "new_lastmod": "2026-07-12T22:07:44.731Z"
+    },
+    {
+      "url": "https://openai.com/index/gpt-5-6/",
+      "old_lastmod": "2026-07-12T09:06:58.964Z",
+      "new_lastmod": "2026-07-13T07:58:00.546Z"
+    },
+    {
+      "url": "https://openai.com/index/introducing-gpt-5-3-codex-spark/",
+      "old_lastmod": "2026-07-12T09:02:06.063Z",
+      "new_lastmod": "2026-07-13T07:53:36.086Z"
+    },
+    {
+      "url": "https://openai.com/index/introducing-gpt-5-3-codex/",
+      "old_lastmod": "2026-07-12T09:02:37.143Z",
+      "new_lastmod": "2026-07-13T07:54:02.129Z"
+    },
+    {
+      "url": "https://openai.com/index/introducing-the-codex-app/",
+      "old_lastmod": "2026-07-12T09:03:18.922Z",
+      "new_lastmod": "2026-07-13T07:53:40.973Z"
+    },
+    {
+      "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
+      "old_lastmod": "2026-07-11T09:06:23.884Z",
+      "new_lastmod": "2026-07-13T01:11:59.752Z"
+    },
+    {
+      "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations/",
+      "old_lastmod": "2026-07-12T09:00:20.130Z",
+      "new_lastmod": "2026-07-13T08:11:16.914Z"
+    }
+  ],
+  "anomalies": [
+    {
+      "kind": "rare_page_variant",
+      "url": "https://openai.com/business/",
+      "details": "One fetch out of 11 total returned a substantially different page redesign (new hero \u201cCreate, code, and innovate with OpenAI's tools and APIs\u201d, ChatGPT for Business + API Platform sections, Notion/Zendesk/Booking.com/Estee Lauder case studies, new nav Research/Products/Business/Developers/Company/Foundation). 10/11 fetches returned the known dominant variant. Consistent with a low-percentage canary/experiment, not a completed rollout."
+    },
+    {
+      "kind": "ab_test_progression",
+      "url": "https://openai.com/business/solutions/data/ ; https://openai.com/business/solutions/design/",
+      "details": "The business-nav A/B test first documented 2026-07-11 (Why OpenAI/Solutions/Resources nav + ChatGPT Work banner vs Research/Business/Developers/Company nav, no banner) has progressed: these two pages, previously dominant on the old nav, now return the Why OpenAI + ChatGPT Work banner variant as their dominant response, matching the trend predicted on 2026-07-11."
+    }
+  ],
+  "fetch_failures": []
+}
