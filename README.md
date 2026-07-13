@@ -4,6 +4,36 @@ A daily log of every change to OpenAI's public website — what appeared, what d
 
 ---
 
+## 2026-07-13 — Run `2026-07-13T09-16Z`
+
+**Fetch time:** 2026-07-13T09:16:00Z – 2026-07-13T09:22Z
+**Baseline:** 2026-07-12T09-16Z
+**Stats:** 1412 total URLs | +0 added | 25 updated (2 with visible content change) | -0 removed | 2 anomalies (both low-severity) | 34 sub-sitemaps
+
+**TL;DR:** Another quiet day on the surface — no new pages, no removals — but the ongoing business-site A/B test we first spotted on 2026-07-11 kept moving. Two more business pages ([`/business/solutions/data/`](pages/openai.com/business/solutions/data/index.md), [`/business/solutions/design/`](pages/openai.com/business/solutions/design/index.md)) flipped to the "Why OpenAI" nav + "New: Introducing ChatGPT Work" banner variant that used to be a minority render, and it's now the dominant response across the board — evidence the experiment is converging rather than staying 50/50. More interesting: one single fetch of the `/business/` homepage (out of 11 tried) returned a completely different, unseen page design — new "Create, code, and innovate with OpenAI's tools and APIs" framing, Notion/Zendesk/Booking.com/Estée Lauder case studies, and a broader nav — that looks like an early preview of a bigger redesign in progress at very low canary traffic. Everything else (23 of 25 lastmod-bumped pages) was byte-identical to yesterday, consistent with routine rebuild noise.
+
+### Anomalies (both low-severity)
+
+- **A previously-unseen `/business/` redesign, caught once.** Re-fetching the business homepage 11 times in a row returned the known/current page 10 times and a wholesale redesign once: new hero copy ("Create, code, and innovate with OpenAI's tools and APIs" / "The next era of work is here"), a two-pillar "ChatGPT for Business" + "API Platform" structure replacing the ChatGPT-Work-centric hero, new customer case studies (Notion, Zendesk, Booking.com, Estée Lauder), a new enterprise data-privacy section, and a shorter, more abstract footer solutions list (Coding/Content Creation/Research/Agents/Data analysis, down from 8 specific verticals). This didn't show up anywhere else and reverted on every retry — reads as an early-stage canary/experiment rather than a live change, not yet reflected in the saved snapshot. Worth checking again tomorrow.
+- **The 2026-07-11 business-nav A/B test is spreading.** Back on 2026-07-11, only 5 of 11 business pages showed the "Why OpenAI" nav + ChatGPT Work banner variant, with the note "worth watching... to see whether the new variant proportion grows." It has: `/business/solutions/data/` and `/business/solutions/design/`, both on the old nav as of yesterday, now return the new variant as their dominant response, and `/business/` itself returns it in 10 of 11 fetches (vs. the wholesale redesign covered above).
+
+### Notable updates
+
+- **[`/business/solutions/data/`](pages/openai.com/business/solutions/data/index.md)** and **[`/business/solutions/design/`](pages/openai.com/business/solutions/design/index.md)** — nav variant converged to "Why OpenAI" + ChatGPT Work promo banner (see anomaly above). No other body content changed.
+
+### Routine updates
+
+23 of the 25 lastmod-bumped pages were byte-identical to yesterday. Two clusters: about ten pre-existing Codex/GPT‑5.6 pages (`/codex/`, `/chatgpt-work/`, `/index/gpt-5-6/`, `/index/devday-2026/`, and related `/index/introducing-gpt-5-3-codex*`, `/index/codex-*` pages) bumped within a tight ~20-minute window (07:53–08:11 UTC today); seven `/business/*` pages (`business-data`, `business/partners/dropbox`, `business/solutions/{finance,marketing,sales}`) bumped within a ~3.5-hour window the evening before (18:33–22:16 UTC yesterday). Both read as scheduled CMS/CDN rebuilds, not edits.
+
+### New pages / removals
+
+None this run.
+
+Full analysis: [runs/2026-07-13T09-16Z/analysis.md](runs/2026-07-13T09-16Z/analysis.md)
+
+---
+*Stats: 1,412 total URLs | +0 added | 25 updated (2 with visible content change) | -0 removed | 2 anomalies (both low-severity) | 34 sub-sitemaps*
+
 ## 2026-07-12 — Run `2026-07-12T09-16Z`
 
 **Fetch time:** 2026-07-12T09:16:30Z
