@@ -26,17 +26,7 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-What is ChatGPT?
-
-  * What is ChatGPT?
-  * Navigate the ChatGPT interface
-  * Start your first conversation
-  * Finding good use cases for ChatGPT
-  * Use voice in ChatGPT
-
-
-
-April 10, 2026
+July 10, 2026
 
 OpenAI Academy
 
@@ -48,15 +38,43 @@ Loading…
 
 Share
 
+What is ChatGPT?
+
+  * What is ChatGPT?
+
+  * Start your first conversation
+
+  * Finding good use cases for ChatGPT
+
+  * Use voice in ChatGPT
+
+  * Take the course
+
+
+
+
+  * What is ChatGPT?
+
+  * Start your first conversation
+
+  * Finding good use cases for ChatGPT
+
+  * Use voice in ChatGPT
+
+  * Take the course
+
+
+
+
 ## What is ChatGPT?
 
 ChatGPT is a conversational AI assistant that helps you think, write, and solve problems by understanding natural language and generating human-like responses in real time.
 
 ChatGPT is built on large language models, enabling it to assist with a wide range of tasks. Learn more about large language models in [What is AI](</academy/what-is-ai/>).
 
-## Navigate the ChatGPT interface
+Use **Chat** when you want a quick answer, explanation, brainstorm, rewrite, or short draft. Use **Work** when you want ChatGPT to complete a larger task with a clear, reviewable output, like a brief, analysis, deck, spreadsheet, or recurring update. You can start simple in Chat, then move to Work when the task needs more context, tools, or follow-through.
 
-Take a look at the video below to learn about the different parts of the ChatGPT interface.
+Learn more about using ChatGPT [here⁠(opens in a new window)](<https://learn.chatgpt.com/docs/use-chatgpt>).
 
 ## Start your first conversation
 
@@ -68,13 +86,17 @@ Not sure where to begin? Copy and paste this prompt to see what ChatGPT can do f
 
 _Tell me how I can use ChatGPT to make my life easier. I’m a [description of you or your job]. Give me 5 things I can do right now, and a prompt for each one._
 
-Read the response, then refine it by asking follow-up questions or adding more detail. If you're ready to start experimenting with different prompt styles, check out our [prompting guide](</academy/prompting/>).
+Read the response, then refine it by asking follow-up questions or adding more detail. 
+
+Learn more about prompting basics [here⁠(opens in a new window)](<https://learn.chatgpt.com/docs/prompting>). 
 
 ## Finding good use cases for ChatGPT
 
 A good way to find useful ChatGPT use cases is to start with work you already do in chat form: writing a draft, brainstorming ideas, summarizing something long, turning rough notes into a clearer message, or thinking through a problem. These are good early use cases because they are easy to try, low risk, and immediately useful. If ChatGPT helps you get to a better first draft faster, organize your thinking, or reduce time spent staring at a blank page, that is usually a strong signal that the task is a good fit.
 
 From there, stronger use cases tend to be the ones that repeat often, involve multiple steps, or need context over time. That is where tools like Projects, custom GPTs, or Skills become more useful: they help you organize source materials, keep instructions consistent, and turn one-off prompts into repeatable workflows. A good rule of thumb is to start with simple chat tasks, notice what you do more than once, and then build toward more structured setups for work you want to do faster, more consistently, or at a higher quality.
+
+Explore ChatGPT use cases [here⁠(opens in a new window)](<https://learn.chatgpt.com/use-cases>).
 
 ## Use voice in ChatGPT
 
@@ -90,6 +112,10 @@ Audio and video clips from your voice chats are stored alongside the transcripti
   
 Learn more in the OpenAI Help Center: [_Voice Mode FAQ_ ⁠(opens in a new window)](<https://help.openai.com/articles/8400625-voice-mode-faq>)
 
+## Take the course
+
+Take the [AI Foundations course⁠(opens in a new window)](<https://academy.openai.com/home/courses/ai-foundations-juzjs>) to learn more about how AI works, where it can help, and how to use it responsibly. It’s a good next step if you’re new to ChatGPT or want a stronger grounding before exploring more advanced workflows.
+
 ## Continue learning with OpenAI Academy
 
 Discover additional guides and resources to help you build practical AI skills.
@@ -102,15 +128,15 @@ Discover additional guides and resources to help you build practical AI skills.
 
 ![Academy > Prompting > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/6KuWyesIgCbrJUzXckTYSx/20183733ba66b4b535fe978fc7ec985b/your-first-chat.png?w=3840&q=90&fm=webp)
 
-[Prompting fundamentalsOpenAI AcademyApr 10, 2026](</academy/prompting/>)
+[Prompting fundamentals | OpenAIOpenAI AcademyApr 10, 2026](</academy/prompting/>)
 
 ![Academy > Personalizing ChatGPT > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/2s9rOdoSHProR3I6Ai5P5/8ca619f82211ade2d76316f04aa3fbcc/personalizing-chatgpt.png?w=3840&q=90&fm=webp)
 
-[Personalizing ChatGPTOpenAI AcademyApr 10, 2026](</academy/personalization/>)
+[Personalizing ChatGPT | OpenAIOpenAI AcademyApr 10, 2026](</academy/personalization/>)
 
 ![Academy > Using files > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/7FdLCJL2BCjS8ef2BJ8rG0/8307b0a6be94e0333b43dbed5b93d187/using-files.png?w=3840&q=90&fm=webp)
 
-[Working with files in ChatGPTOpenAI AcademyApr 10, 2026](</academy/working-with-files/>)
+[Working with files in ChatGPT | OpenAIOpenAI AcademyApr 10, 2026](</academy/working-with-files/>)
 
 Research
 
@@ -122,9 +148,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -161,6 +187,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 

@@ -4,6 +4,42 @@ A daily log of every change to OpenAI's public website — what appeared, what d
 
 ---
 
+## 2026-07-14 — Run `2026-07-14T09-15Z`
+
+**Fetch time:** 2026-07-14T09:17:08Z
+**Baseline:** 2026-07-13T09-16Z
+**Stats:** 1449 total URLs | +39 added | 61 updated (~8 with visible content change) | -2 removed | 0 anomalies | 34 sub-sitemaps
+
+**TL;DR:** The busiest day in weeks, and it's a coordinated launch, not scattered noise. OpenAI stood up a big **Partner Network** — 37 new profile pages for consulting/systems-integrator partners (Accenture, McKinsey, BCG, Bain, PwC, KPMG, EY, Capgemini, Cognizant, Infosys, HCLTech, NTT DATA, and two dozen more) plus a rebuilt [`/business/partners/`](pages/openai.com/business/partners/index.md) hub with a "Find a partner" locator, client testimonials, and measurable-impact stats (80% faster support handling for Target, +16% booking value for Norwegian Cruise Line). Separately, the "Codex for work" product is being rebranded to **ChatGPT Work**, with about a dozen Academy pages rewritten to match and documentation starting to move off openai.com to a new `learn.chatgpt.com` docs site — consistent with the "Codex folds into the ChatGPT desktop app" story first spotted on 2026-07-11. The Linux "Codex app" waitlist form was retired in favor of a "ChatGPT app on Linux" waitlist. On the safety side, [parental controls](pages/openai.com/index/introducing-parental-controls/index.md) gained a new notification for parents when a linked teen's account is banned for violent activity, plus an in-product Study Mode toggle. The business-specific nav variant flagged as an A/B test on 2026-07-11 and converging on 2026-07-13 kept spreading today (now on `/business/learn/` and `/business/partners/` too). No anomalies: every new/changed timestamp lines up with when things were actually observed, and nothing reappeared or moved between sub-sitemaps.
+
+### Notable additions
+
+- **[OpenAI Partner Network](pages/openai.com/business/partners/index.md)** — 37 new partner profile pages went live under `/business/partners/<slug>/`, each a short page with logo, description, countries served, industry, and (for several) a "Partner Summit 2026 Award" category. Full roster: Accenture, Accenture Federal Services, AI Works, Algorithmic Intelligence, Altimetrik, Artefact, Artium, [Bain & Company](pages/openai.com/business/partners/bain-and-company/index.md), Boston Consulting Group, Capco, Capgemini, CGI, Cognizant, Deepsense, Dentsu Japan, Eliza Solutions Corp, Endava, Ernst & Young, Fellow Intelligence, Fractal, HCLTech, Infosys, KPMG, [McKinsey & Company](pages/openai.com/business/partners/mckinsey-and-company/index.md), ML6, NTT DATA, Pathfindr, PwC, Recursive, Reply, SB OAI Japan GK, SIA, Slalom, Statworx, Thinking Machines Data Science, Tribe AI, Unit8. A new `/business/partners/locator/` "Find a partner" tool was added alongside them.
+- **[`/form/chatgpt-app/`](pages/openai.com/form/chatgpt-app/index.md)** — "ChatGPT app on Linux" waitlist form, replacing the retired Codex-app waitlist (see removals).
+
+### Notable updates
+
+- **[`/business/partners/`](pages/openai.com/business/partners/index.md)** — rebuilt from a small logo strip into a full hub: "Find a partner" locator link, client testimonials (T-Mobile×Accenture, Agilent×BCG, Paychex×Bain, eBay×Artium, Cengage×Eliza, and more), partner-executive quotes, and an "Impact at a glance" stats block (Target -80% handling time, Norwegian Cruise Line +16% booking value, Docplanner +23% conversion).
+- **"Codex for work" → "ChatGPT Work" rebrand** across ~13 Academy pages ([`/academy/codex-for-work/`](pages/openai.com/academy/codex-for-work/index.md), [`/academy/getting-started/`](pages/openai.com/academy/getting-started/index.md), [`/academy/how-finance-teams-use-codex/`](pages/openai.com/academy/how-finance-teams-use-codex/index.md), and siblings): headings and copy changed from "Codex"/"Codex for work" to "ChatGPT Work"; one page now explicitly states "these workflows lived in the former Codex app. You can now follow along using ChatGPT Work at chatgpt.com or in the ChatGPT desktop app." Several pages now link out to a new external docs site, `learn.chatgpt.com`, instead of self-hosted Academy articles.
+- **[Parental controls](pages/openai.com/index/introducing-parental-controls/index.md)** — new July 13, 2026 update: parents with linked teen accounts now get notified if the teen's account is banned for violent activity (explicitly not triggered by fiction, gaming, news/political discussion, or general anger), and can now turn on Study Mode directly from Parental Controls.
+- **[`/solutions/`](pages/openai.com/solutions/index.md)** — "Life sciences" card retargeted from the now-removed `/solutions/industries/life-sciences/` to the existing `/gpt-rosalind/` page; a new "Education" card was added linking to `/business/solutions/education/`; the apps-explore link moved from `/business/apps/` to `/business/plugins/`.
+- **[`/build-week/`](pages/openai.com/build-week/index.md)** — daily livestream entries went from plain text to live links (X broadcasts, Discord, Academy webinars) as the event approaches; the July 20 session moved from 5 p.m. to 11 a.m. PDT.
+- The `/business/` nav variant flagged as an A/B test on 2026-07-11 (distinct "Why OpenAI/Products/Solutions/Resources/Customers/Pricing" header + "Try OpenAI" CTA) continues spreading — now also on `/business/learn/` and `/business/partners/`.
+
+### Routine updates
+
+34 of the 61 lastmod-bumped pages carried no real body change — just a site-wide footer refresh (the "Latest Advancements" list moved from GPT-5.5/5.4/5.3-Instant to **GPT-5.6**/5.5/5.4, and "Customer Stories"/"Partner Network" links were added to the Business footer column) plus, on a few pages, a client-side table-of-contents widget rendering fully instead of showing "Loading…" — a capture-timing artifact, not an edit. `/index/gpt-5-6/` itself only gained one hyperlink (to the Responses API multi-agent docs) with no text change.
+
+### Removals
+
+- **`/form/codex-app/`** — the Linux "Codex app" waitlist, superseded by the new `/form/chatgpt-app/` (see additions).
+- **`/solutions/industries/life-sciences/`** — consolidated into the pre-existing `/gpt-rosalind/` page, which `/solutions/` now links to instead. No content lost — last snapshot remains in git history, successor page already tracked since bootstrap.
+
+Full analysis: [runs/2026-07-14T09-15Z/analysis.md](runs/2026-07-14T09-15Z/analysis.md)
+
+---
+*Stats: 1,449 total URLs | +39 added | 61 updated (~8 with visible content change) | -2 removed | 0 anomalies | 34 sub-sitemaps*
+
 ## 2026-07-13 — Run `2026-07-13T09-16Z`
 
 **Fetch time:** 2026-07-13T09:16:00Z – 2026-07-13T09:22Z

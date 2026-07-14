@@ -1,30 +1,38 @@
 Skip to main content
 
-[](</>)
+[](</>)[](</business/>)
 
-  * [Research](</research/index/>)
+  * Why OpenAI
   * Products
-  * [Business](</business/>)
-  * [Developers](</api/>)
-  * [Company](</about/>)
-  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
+  * Solutions
+  * Resources
+  * [Customers](</business/customer-stories/>)
+  * [Pricing](</business/pricing/>)
 
 
 
-Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
+Try OpenAI[Contact sales](</contact-sales/>)
 
-  * Research
+  * Why OpenAI
   * Products
-  * Business
-  * Developers
-  * Company
-  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
+  * Solutions
+  * Resources
+  * [Customers](</business/customer-stories/>)
+  * [Pricing](</business/pricing/>)
 
 
 
-[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)Login
+[Contact sales](</contact-sales/>)Try OpenAI
 
 OpenAI
+
+New
+
+### Introducing ChatGPT Work: 
+
+A new agent in ChatGPT that helps teams turn ambitious goals into finished work—with enterprise controls and governance built in.
+
+[Learn more](</chatgpt-work/>)
 
 # Learn what AI can do for your business
 
@@ -176,7 +184,7 @@ GuidesOpenAI on OpenAIWebinarsDemos
 
 ![Gradient blue background with text ‘Use deep research with GitHub’ and a small telescope icon.](https://images.ctfassets.net/kftzwdyauwt9/4yvsb0UayWqITCuCpoFR5M/0dab929d7ff653aab010fc4d6d9bc23d/Use_deep_research_with_GitHub.png?w=3840&q=90&fm=webp)
 
-[Run faster code reviews with deep research for GitHub(opens in a new window)](<>)
+Run faster code reviews with deep research for GitHub
 
 ![Blue–purple gradient with the text ‘Personalize ChatGPT with custom instructions’ and a small person–heart icon](https://images.ctfassets.net/kftzwdyauwt9/dzSHqXzAQVRcG1Z8uh8XG/681e69195efa9f427f10d6579d1115fe/Personalize_ChatGPT_with_custom_instructions.png?w=3840&q=90&fm=webp)
 
@@ -220,9 +228,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -259,6 +267,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 

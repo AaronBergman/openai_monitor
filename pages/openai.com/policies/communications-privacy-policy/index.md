@@ -26,24 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-1\. Personal Data we collect
-
-  * 1\. Personal Data we collect
-  * 2\. How we use Personal Data
-  * 3\. Disclosure of Personal Data
-  * 4\. Retention
-  * 5\. Data controls
-  * 6\. Your rights
-  * 7\. Children
-  * 8\. Security
-  * 9\. Additional U.S. state disclosures
-  * 10\. Changes to the privacy policy
-  * 11\. Data controller
-  * 12\. How to contact us
-  * 13\. Useful resources
-
-
-
 Select language
 
 …
@@ -51,6 +33,66 @@ Select language
 Updated: April 28, 2026
 
 # Privacy policy
+
+1\. Personal Data we collect
+
+  * 1\. Personal Data we collect
+
+  * 2\. How we use Personal Data
+
+  * 3\. Disclosure of Personal Data
+
+  * 4\. Retention
+
+  * 5\. Data controls
+
+  * 6\. Your rights
+
+  * 7\. Children
+
+  * 8\. Security
+
+  * 9\. Additional U.S. state disclosures
+
+  * 10\. Changes to the privacy policy
+
+  * 11\. Data controller
+
+  * 12\. How to contact us
+
+  * 13\. Useful resources
+
+
+
+
+  * 1\. Personal Data we collect
+
+  * 2\. How we use Personal Data
+
+  * 3\. Disclosure of Personal Data
+
+  * 4\. Retention
+
+  * 5\. Data controls
+
+  * 6\. Your rights
+
+  * 7\. Children
+
+  * 8\. Security
+
+  * 9\. Additional U.S. state disclosures
+
+  * 10\. Changes to the privacy policy
+
+  * 11\. Data controller
+
+  * 12\. How to contact us
+
+  * 13\. Useful resources
+
+
+
 
 For individuals in the European Economic Area, United Kingdom, and Switzerland, you can read [_this version_ ⁠](<https://openai.com/policies/eu-privacy-policy/>) of our Privacy Policy.
 
@@ -293,9 +335,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -332,6 +374,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
