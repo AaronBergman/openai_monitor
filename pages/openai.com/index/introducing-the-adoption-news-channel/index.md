@@ -26,13 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-What you'll find here
-
-  * What you'll find here
-  * How we'll support you going forward
-
-
-
 March 5, 2026
 
 [AI Adoption](</news/ai-adoption/>)
@@ -44,6 +37,22 @@ Practical insights and frameworks to turn AI progress into business advantage
 Loading…
 
 Share
+
+What you'll find here
+
+  * What you'll find here
+
+  * How we'll support you going forward
+
+
+
+
+  * What you'll find here
+
+  * How we'll support you going forward
+
+
+
 
 A new phase of enterprise AI is underway.
 
@@ -81,13 +90,17 @@ Welcome to Adoption news. Follow us to start building your advantage.
 
 [View all](</news/>)
 
+![Codex maxxing 1x1](https://images.ctfassets.net/kftzwdyauwt9/5RFmrNey5oX93M1WyqCs4o/5b6ccdce4022764200e06739cda7c21f/Codex_maxxing_1x1.png?w=3840&q=90&fm=webp)
+
+[Codex-Maxxing for Long-Running WorkAI AdoptionJun 22, 2026](</index/codex-maxxing-long-running-work/>)
+
+![Introducing OpenAI Academy courses > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/2mmXo430NiaNqyi6YrRtnh/715ab11fa5003dd50acff55adcb4a5fd/Frame.png?w=3840&q=90&fm=webp)
+
+[New OpenAI Academy courses for the next era of workAI AdoptionJun 12, 2026](</index/academy-courses-applying-ai-at-work/>)
+
 ![Gartner MQ > Art Card](https://images.ctfassets.net/kftzwdyauwt9/6GUkmRON5hyvikNSF3IEmH/78ea7491689ec5d07cd6a6c2ad6f0254/Gartner-MQ-ArtCard.png?w=3840&q=90&fm=webp)
 
 [OpenAI named a Leader in enterprise coding agents by GartnerAI AdoptionMay 22, 2026](</index/gartner-2026-agentic-coding-leader/>)
-
-![OAI The five AI value models driving business reinvention 1x1 Art Card](https://images.ctfassets.net/kftzwdyauwt9/2YclNMGFgInYk2vt0sjI4W/dcaa7d202589cf3ba0f588592f7fb10b/OAI_The_five_AI_value_modelsdriving_business_reinvention_1x1_Art_Card.png?w=3840&q=90&fm=webp)
-
-[The five AI value models driving business reinventionAI AdoptionMar 5, 2026](</index/the-five-ai-value-models-driving-business-reinvention/>)
 
 Research
 
@@ -99,9 +112,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -138,6 +151,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 

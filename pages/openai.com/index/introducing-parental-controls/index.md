@@ -41,26 +41,38 @@ Share
 Getting started
 
   * Getting started
+
   * Stronger safeguards for linked teen accounts
+
   * Customizing your teen’s experience
+
   * Notifications in parental controls
+
   * Resources for parents
+
   * Looking ahead
 
 
 
-Table of contents
 
   * Getting started
+
   * Stronger safeguards for linked teen accounts
+
   * Customizing your teen’s experience
+
   * Notifications in parental controls
+
   * Resources for parents
+
   * Looking ahead
 
 
 
- _**Update on September 30, 2025:**__We 've launched the Sora app with parental controls. Parents can adjust Sora settings for connected teen accounts in ChatGPT, including opting into a non-personalized feed, choosing whether their teen can send and receive direct messages, and the ability to control whether there is an uninterrupted feed of content while scrolling. Learn more in the _[__Sora 2 blog__ ⁠](</index/sora-2/>) _._
+
+** _Update on July 13, 2026:_**_We are expanding parent safety notifications to cover additional situations where a teen may need urgent adult support. This includes alerting parents when their linked teen’s account is banned for violent activity. These notifications are designed to be narrow and are not intended to apply to content such as fictional writing, gaming, news discussion, political discussion, general anger, or abstract questions. Visit our_[ __FAQ__ ⁠(opens in a new window)](<https://help.openai.com/en/articles/12315553-parental-controls-on-chatgpt-faq>)_to learn more._
+
+_Now parents with linked teen accounts can also turn on_[ __Study Mode__ ⁠(opens in a new window)](<https://help.openai.com/en/articles/11780217-using-study-mode-in-chatgpt>)_directly from Parental Controls. When enabled there, it is on by default whenever a teen starts a new chat, giving families another way to guide how ChatGPT is used for schoolwork and study._
 
 We’re rolling out parental controls and a new [parent resource page⁠(opens in a new window)](<https://chatgpt.com/parent-resources>) to help families guide how ChatGPT works in their homes. Available to all ChatGPT users starting today, parental controls allow parents to link their account with their teen’s account and customize settings for a safe, age-appropriate experience. 
 
@@ -165,9 +177,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -204,6 +216,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 

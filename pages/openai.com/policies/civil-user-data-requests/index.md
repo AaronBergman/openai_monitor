@@ -26,19 +26,37 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
+Published: April 24, 2026
+
+# Serving civil subpoenas or other civil requests for user data on OpenAI
+
 Civil requests for user data in the United States
 
   * Civil requests for user data in the United States
+
   * Civil requests related to users located in the EEA and Switzerland
+
   * Requirements for all civil legal process
+
   * Contractual notices are different
+
   * Disclaimer
 
 
 
-Published: April 24, 2026
 
-# Serving civil subpoenas or other civil requests for user data on OpenAI
+  * Civil requests for user data in the United States
+
+  * Civil requests related to users located in the EEA and Switzerland
+
+  * Requirements for all civil legal process
+
+  * Contractual notices are different
+
+  * Disclaimer
+
+
+
 
 This page provides information for attorneys and individuals or parties seeking to serve OpenAI OpCo, LLC (OpenAI) with a request for user data in civil proceedings. OpenAI responds to civil requests for user data that are validly served on OpenAI in accordance with applicable law. We carefully review all such requests, and will produce information only as permitted under applicable laws. We will notify users before any data is disclosed, where legally possible and appropriate.
 
@@ -115,9 +133,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -154,6 +172,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 

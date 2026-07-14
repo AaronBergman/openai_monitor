@@ -39,18 +39,24 @@ Share
 From AI fundamentals to repeatable workflows 
 
   * From AI fundamentals to repeatable workflows 
+
   * Practical learning, directly from OpenAI
+
   * Recognize progress with course completion certificates
+
   * Bring Academy courses to your organization
 
 
 
-Table of contents
 
   * From AI fundamentals to repeatable workflows 
+
   * Practical learning, directly from OpenAI
+
   * Recognize progress with course completion certificates
+
   * Bring Academy courses to your organization
+
 
 
 
@@ -104,13 +110,13 @@ OpenAI
 
 [View all](</news/>)
 
+![Codex maxxing 1x1](https://images.ctfassets.net/kftzwdyauwt9/5RFmrNey5oX93M1WyqCs4o/5b6ccdce4022764200e06739cda7c21f/Codex_maxxing_1x1.png?w=3840&q=90&fm=webp)
+
+[Codex-Maxxing for Long-Running WorkAI AdoptionJun 22, 2026](</index/codex-maxxing-long-running-work/>)
+
 ![Gartner MQ > Art Card](https://images.ctfassets.net/kftzwdyauwt9/6GUkmRON5hyvikNSF3IEmH/78ea7491689ec5d07cd6a6c2ad6f0254/Gartner-MQ-ArtCard.png?w=3840&q=90&fm=webp)
 
 [OpenAI named a Leader in enterprise coding agents by GartnerAI AdoptionMay 22, 2026](</index/gartner-2026-agentic-coding-leader/>)
-
-![OAI The five AI value models driving business reinvention 1x1 Art Card](https://images.ctfassets.net/kftzwdyauwt9/2YclNMGFgInYk2vt0sjI4W/dcaa7d202589cf3ba0f588592f7fb10b/OAI_The_five_AI_value_modelsdriving_business_reinvention_1x1_Art_Card.png?w=3840&q=90&fm=webp)
-
-[The five AI value models driving business reinventionAI AdoptionMar 5, 2026](</index/the-five-ai-value-models-driving-business-reinvention/>)
 
 ![OAI Introducing the Adoption news channel 1x1 Art Card](https://images.ctfassets.net/kftzwdyauwt9/79zIP6sPhcvVb6hKK1z9nC/1130bf97d24100ccc5aacd74ad48b92d/OAI_Introducing_the_Adoption_news_channel_1x1_Art_Card.png?w=3840&q=90&fm=webp)
 
@@ -126,9 +132,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -165,6 +171,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 

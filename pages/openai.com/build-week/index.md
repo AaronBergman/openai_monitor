@@ -86,35 +86,35 @@ Member of Technical Staff, Clawfather
 
 #### Livestream with Corey Ching, Thibault Sottiaux, and Greg Brockman
 
-July 13 at 10 a.m. PDT
+[July 13 at 10 a.m. PDT(opens in a new window)](<https://x.com/i/broadcasts/1qJDzzEDBqoKV>)
 
 #### Livestream with Corey Ching and Peter Steinberger
 
-July 14 at 11 a.m. PDT
+[July 14 at 11 a.m. PDT(opens in a new window)](<https://x.com/i/broadcasts/1vJpPPXVRwZJE>)
 
 #### Office hours on Discord
 
-July 15 at 10 a.m. PDT
+[July 15 at 10 a.m. PDT(opens in a new window)](<https://discord.verify.openai.com/buildweek>)
 
 #### OpenAI Academy: Codex Sites
 
-July 16 at 12 p.m. PDT
+[July 16 at 12 p.m. PDT(opens in a new window)](<https://academy.openai.com/public/events/building-websites-with-codex-sites-lxyhwwl5ya>)
 
 #### Office hours on Discord
 
-July 17 at 8:30 p.m. PDT
+[July 17 at 8:30 p.m. PDT(opens in a new window)](<https://discord.verify.openai.com/buildweek>)
 
 #### Office hours on Discord
 
-July 20 at 10 a.m. PDT
+[July 20 at 10 a.m. PDT(opens in a new window)](<https://discord.verify.openai.com/buildweek>)
 
 #### Livestream with Corey Ching
 
-July 20 at 5 p.m. PDT
+[July 20 at 11 a.m. PDT(opens in a new window)](<https://x.com/i/broadcasts/1nJOLLqvroExR>)
 
 #### OpenAI Academy: Codex for Creative Building
 
-July 21 at 8:30 a.m. PDT
+[July 21 at 8:30 a.m. PDT(opens in a new window)](<https://academy.openai.com/public/events/codex-for-creative-building-gpye2yf0ny>)
 
 ## Build alongside the community
 
@@ -258,11 +258,11 @@ Yes. Team participation details are available on the [Devpost challenge page⁠(
 
 ### How do I register?
 
-Registration is managed through the [Devpost challenge page⁠(opens in a new window)](<https://openai.devpost.com>), where you’ll also find the official rules, challenge tracks, submission requirements, and important dates.
+Registration is managed through the [Devpost challenge page⁠(opens in a new window)](<https://openai.devpost.com>) or Devpost Hackathons Codex plugin, where you’ll also find the official rules, challenge tracks, submission requirements, and important dates.
 
 ### How do I submit a project?
 
-Projects are submitted through the [Devpost challenge page⁠(opens in a new window)](<https://openai.devpost.com>). Your submission should include a project description, demo video, code repository, and any additional materials required for judging.
+Projects are submitted through the [Devpost challenge page⁠(opens in a new window)](<https://openai.devpost.com>) or Devpost Hackathons Codex plugin. Your submission should include a project description, demo video, code repository, and any additional materials required for judging.
 
 ### How are projects evaluated?
 

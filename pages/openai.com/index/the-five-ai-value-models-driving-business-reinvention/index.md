@@ -26,19 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-From pilots to portfolios
-
-  * From pilots to portfolios
-  * 1\. Workforce empowerment (ChatGPT)
-  * 2\. AI-native distribution (verticals, apps, ads)
-  * 3\. Expert capability (Co-scientist, Sora)
-  * 4\. Systems and dependency management (Codex)
-  * 5\. Process re-engineering (Agents)
-  * Why and how the value models compound
-  * What to do next: a practical sequencing playbook
-
-
-
 March 5, 2026
 
 [AI Adoption](</news/ai-adoption/>)
@@ -46,6 +33,118 @@ March 5, 2026
 # The five AI value models driving business reinvention
 
 Loading…
+
+From pilots to portfolios
+
+  * From pilots to portfolios
+
+  * 1\. Workforce empowerment (ChatGPT)
+
+    * What to measure
+
+    * Common failure mode
+
+    * Leadership move
+
+  * 2\. AI-native distribution (verticals, apps, ads)
+
+    * What to measure
+
+    * Common failure mode
+
+    * Leadership move
+
+  * 3\. Expert capability (Co-scientist, Sora)
+
+    * What to measure
+
+    * Common failure mode
+
+    * Leadership move
+
+  * 4\. Systems and dependency management (Codex)
+
+    * What to measure
+
+    * Common failure mode
+
+    * Leadership move
+
+  * 5\. Process re-engineering (Agents)
+
+    * What to measure
+
+    * Common failure mode
+
+    * Leadership move
+
+  * Why and how the value models compound
+
+  * What to do next: a practical sequencing playbook
+
+    * Phase 1: Build fluency and trust
+
+    * Phase 2: Capture value and raise the ceiling
+
+    * Phase 3: Scale with confidence and reinvent
+
+
+
+
+  * From pilots to portfolios
+
+  * 1\. Workforce empowerment (ChatGPT)
+
+    * What to measure
+
+    * Common failure mode
+
+    * Leadership move
+
+  * 2\. AI-native distribution (verticals, apps, ads)
+
+    * What to measure
+
+    * Common failure mode
+
+    * Leadership move
+
+  * 3\. Expert capability (Co-scientist, Sora)
+
+    * What to measure
+
+    * Common failure mode
+
+    * Leadership move
+
+  * 4\. Systems and dependency management (Codex)
+
+    * What to measure
+
+    * Common failure mode
+
+    * Leadership move
+
+  * 5\. Process re-engineering (Agents)
+
+    * What to measure
+
+    * Common failure mode
+
+    * Leadership move
+
+  * Why and how the value models compound
+
+  * What to do next: a practical sequencing playbook
+
+    * Phase 1: Build fluency and trust
+
+    * Phase 2: Capture value and raise the ceiling
+
+    * Phase 3: Scale with confidence and reinvent
+
+
+
 
 Most organizations still manage AI as a series of use cases: a pilot here, a workflow there, a promising tool inside one function. That approach can generate local wins but it rarely transforms how a business creates value.
 
@@ -221,13 +320,17 @@ The call to action doesn't need to be where AI can help in the legacy model. Ask
 
 [View all](</news/>)
 
+![Codex maxxing 1x1](https://images.ctfassets.net/kftzwdyauwt9/5RFmrNey5oX93M1WyqCs4o/5b6ccdce4022764200e06739cda7c21f/Codex_maxxing_1x1.png?w=3840&q=90&fm=webp)
+
+[Codex-Maxxing for Long-Running WorkAI AdoptionJun 22, 2026](</index/codex-maxxing-long-running-work/>)
+
+![Introducing OpenAI Academy courses > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/2mmXo430NiaNqyi6YrRtnh/715ab11fa5003dd50acff55adcb4a5fd/Frame.png?w=3840&q=90&fm=webp)
+
+[New OpenAI Academy courses for the next era of workAI AdoptionJun 12, 2026](</index/academy-courses-applying-ai-at-work/>)
+
 ![Gartner MQ > Art Card](https://images.ctfassets.net/kftzwdyauwt9/6GUkmRON5hyvikNSF3IEmH/78ea7491689ec5d07cd6a6c2ad6f0254/Gartner-MQ-ArtCard.png?w=3840&q=90&fm=webp)
 
 [OpenAI named a Leader in enterprise coding agents by GartnerAI AdoptionMay 22, 2026](</index/gartner-2026-agentic-coding-leader/>)
-
-![OAI Introducing the Adoption news channel 1x1 Art Card](https://images.ctfassets.net/kftzwdyauwt9/79zIP6sPhcvVb6hKK1z9nC/1130bf97d24100ccc5aacd74ad48b92d/OAI_Introducing_the_Adoption_news_channel_1x1_Art_Card.png?w=3840&q=90&fm=webp)
-
-[Introducing the Adoption news channelAI AdoptionMar 5, 2026](</index/introducing-the-adoption-news-channel/>)
 
 Research
 
@@ -239,9 +342,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -278,6 +381,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 

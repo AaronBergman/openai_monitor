@@ -79,9 +79,13 @@ Gartner does not endorse any company, vendor, product or service depicted in its
 
 [View all](</news/>)
 
-![OAI The five AI value models driving business reinvention 1x1 Art Card](https://images.ctfassets.net/kftzwdyauwt9/2YclNMGFgInYk2vt0sjI4W/dcaa7d202589cf3ba0f588592f7fb10b/OAI_The_five_AI_value_modelsdriving_business_reinvention_1x1_Art_Card.png?w=3840&q=90&fm=webp)
+![Codex maxxing 1x1](https://images.ctfassets.net/kftzwdyauwt9/5RFmrNey5oX93M1WyqCs4o/5b6ccdce4022764200e06739cda7c21f/Codex_maxxing_1x1.png?w=3840&q=90&fm=webp)
 
-[The five AI value models driving business reinventionAI AdoptionMar 5, 2026](</index/the-five-ai-value-models-driving-business-reinvention/>)
+[Codex-Maxxing for Long-Running WorkAI AdoptionJun 22, 2026](</index/codex-maxxing-long-running-work/>)
+
+![Introducing OpenAI Academy courses > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/2mmXo430NiaNqyi6YrRtnh/715ab11fa5003dd50acff55adcb4a5fd/Frame.png?w=3840&q=90&fm=webp)
+
+[New OpenAI Academy courses for the next era of workAI AdoptionJun 12, 2026](</index/academy-courses-applying-ai-at-work/>)
 
 ![OAI Introducing the Adoption news channel 1x1 Art Card](https://images.ctfassets.net/kftzwdyauwt9/79zIP6sPhcvVb6hKK1z9nC/1130bf97d24100ccc5aacd74ad48b92d/OAI_Introducing_the_Adoption_news_channel_1x1_Art_Card.png?w=3840&q=90&fm=webp)
 
@@ -97,9 +101,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -136,6 +140,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 

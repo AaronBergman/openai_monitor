@@ -26,6 +26,14 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 OpenAI
 
+New
+
+### Introducing ChatGPT Work: 
+
+A new agent in ChatGPT that helps teams turn ambitious goals into finished work—with enterprise controls and governance built in.
+
+[Learn more](</chatgpt-work/>)
+
 # Put AI to work across your organization
 
 Explore proven ways to apply AI across your organization—built to fit how your teams work.
@@ -90,9 +98,9 @@ Explore proven ways to apply AI across your organization—built to fit how your
 
 [HealthcareImprove outcomes and deliver better care.](</solutions/industries/healthcare/>)
 
-![1x1](https://images.ctfassets.net/kftzwdyauwt9/1D6nnZ4EvlhS7bGdCna7OC/b3fade9e482d3bc9cacdea118cf8e5f3/hero.png?w=3840&q=90&fm=webp)
+![3 people in a science lab, in lab coats looking at a tablet](https://images.ctfassets.net/kftzwdyauwt9/1D6nnZ4EvlhS7bGdCna7OC/b3fade9e482d3bc9cacdea118cf8e5f3/hero.png?w=3840&q=90&fm=webp)
 
-[Life sciencesConnect science to patient impact.](</solutions/industries/life-sciences/>)
+[Life sciencesConnect science to patient impact.](</gpt-rosalind/>)
 
 ![Soultions for Retail v3](https://images.ctfassets.net/kftzwdyauwt9/5nmNL9J9IXJ3PWkJXswpsi/74fc3710db8f3630bc94010b4e472934/Soultions_for_Retail_v3.jpg?w=3840&q=90&fm=webp)
 
@@ -101,6 +109,10 @@ Explore proven ways to apply AI across your organization—built to fit how your
 ![A woman smiles while typing on a laptop as she speaks with a man seated across from her at a desk, with papers spread out in a busy office environment.](https://images.ctfassets.net/kftzwdyauwt9/5hUbKlAi71npWnxgYgWya1/ec53c89c3491bed93290ddff1ae7f67d/image__9_-1x1.png?w=3840&q=90&fm=webp)
 
 [GovernmentSupport essential public services.](</solutions/industries/government/>)
+
+![Three students smiling as they collaborate around a laptop at an outdoor campus table.](https://images.ctfassets.net/kftzwdyauwt9/4yjcnQ5Iofb9jCyqAWYCD2/1016789007213bcfc7a8890e08b0193a/students_group_4.png?w=3840&q=90&fm=webp)
+
+[EducationEmpower students, educators, and researchers.](</business/solutions/education/>)
 
 ## Blueprints
 
@@ -120,7 +132,7 @@ Bring advanced intelligence into your organization with security, control, and t
 
 Bring your business context into every prompt—delivering reliable, cited responses.
 
-[Explore apps](</business/apps/>)[Connect with MCP(opens in a new window)](<https://platform.openai.com/docs/mcp>)
+[Explore apps](</business/plugins/>)[Connect with MCP(opens in a new window)](<https://platform.openai.com/docs/mcp>)
 
 ![A central icon representing data connections is linked by dotted lines to three surrounding service icons: SharePoint \(top right\), Google Drive \(bottom left\), and GitHub \(bottom right\). The background is a smooth blue gradient with soft white squares scattered throughout.](https://images.ctfassets.net/kftzwdyauwt9/72bUSPivEgoBquGs57nWab/4ab9b5aa798eb7d975838afd8e6c8126/Hero-v1.png?w=3840&q=90&fm=webp)
 
@@ -148,9 +160,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 

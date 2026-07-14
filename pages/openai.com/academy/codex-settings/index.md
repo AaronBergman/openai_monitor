@@ -56,23 +56,23 @@ You do not need to master every setting before using ChatGPT Codex. Start with t
 
 Discover additional guides and resources to help you build practical AI skills.
 
-[View all topics](</academy/>)[Explore Codex for work](</academy/codex-for-work/>)
+[View all topics](</academy/>)[Explore ChatGPT Work(opens in a new window)](<https://learn.chatgpt.com/docs/get-started-with-work>)
 
 ## Keep reading
 
 [View all](</news/>)
 
+![Academy > Getting started > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/1Xk9723QKj2Vb9dC6RMebS/5e588c112042794e62178a224eaff418/getting-started.png?w=3840&q=90&fm=webp)
+
+[Getting started with ChatGPT | OpenAIOpenAI AcademyJul 10, 2026](</academy/getting-started/>)
+
 ![sites](https://images.ctfassets.net/kftzwdyauwt9/6fIs1au2N2RynrKQ3eXg0q/15d0fd6fc8d2b24837bed23fc76fc8c4/sites.png?w=3840&q=90&fm=webp)
 
 [ChatGPT SitesOpenAI AcademyJun 2, 2026](</academy/chatgpt-sites/>)
 
-![How sales teams use Codex > card image](https://images.ctfassets.net/kftzwdyauwt9/1O4te2wMh6O77eDV6kapG3/02845b054a09297b9fada40c4cc9a71f/sales_teams.png?w=3840&q=90&fm=webp)
+![How business operations teams use Codex > card image](https://images.ctfassets.net/kftzwdyauwt9/JR9MMoyTo7eFFF8Nv13Qc/43414ee0c762db49e36bda8ae0d35e39/bus_ops_teams.png?w=3840&q=90&fm=webp)
 
-[How sales teams use ChatGPT Work | OpenAIOpenAI AcademyMay 15, 2026](</academy/codex-for-work/how-sales-teams-use-codex/>)
-
-![How data science teams use Codex > card image](https://images.ctfassets.net/kftzwdyauwt9/xyevYnp4Ptaa1eMgBDNjS/75fea80018f321b89809d893f1a5786d/data_science_teams.png?w=3840&q=90&fm=webp)
-
-[How data science teams use ChatGPT Work | OpenAIOpenAI AcademyMay 15, 2026](</academy/codex-for-work/how-data-science-teams-use-codex/>)
+[How business operations teams use ChatGPT Work | OpenAIOpenAI AcademyMay 15, 2026](</academy/codex-for-work/how-business-operations-teams-use-codex/>)
 
 Research
 
