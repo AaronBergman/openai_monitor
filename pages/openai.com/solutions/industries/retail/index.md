@@ -26,6 +26,14 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 OpenAI
 
+New
+
+### Introducing ChatGPT Work: 
+
+A new agent in ChatGPT that helps teams turn ambitious goals into finished work—with enterprise controls and governance built in.
+
+[Learn more](</chatgpt-work/>)
+
 OpenAI for retail
 
 # Power every retail store, shopper, and channel with AI
@@ -86,7 +94,7 @@ Use the API Platform and Codex to create team assistants and automated workflows
 
 Securely bring together external signals, inventory trends, historical data, and internal knowledge to enrich every prompt and deliver more informed outputs.
 
-[Explore app integrations](</business/apps/>)[Connect with MCP](<https://platform.openai.com/docs/mcp>)
+[Explore app integrations](</business/plugins/>)[Connect with MCP](<https://platform.openai.com/docs/mcp>)
 
 ### High-impact use cases for retail
 
@@ -120,9 +128,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 

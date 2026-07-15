@@ -26,16 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Why managers use ChatGPT
-
-  * Why managers use ChatGPT
-  * Use cases for managers 
-  * How managers get the most value
-  * Key features for managers
-  * Measuring impact
-
-
-
 April 10, 2026
 
 OpenAI Academy
@@ -47,6 +37,34 @@ Prepare for conversations and manage team work more effectively with ChatGPT.
 Loading…
 
 Share
+
+Why managers use ChatGPT
+
+  * Why managers use ChatGPT
+
+  * Use cases for managers 
+
+  * How managers get the most value
+
+  * Key features for managers
+
+  * Measuring impact
+
+
+
+
+  * Why managers use ChatGPT
+
+  * Use cases for managers 
+
+  * How managers get the most value
+
+  * Key features for managers
+
+  * Measuring impact
+
+
+
 
 People management is a series of high-stakes moments: 1:1s, feedback, hiring decisions, performance cycles, team updates, and hard conversations. Much of the work is preparation and follow-through—capturing what you heard, deciding what to do next, and communicating clearly.
 
@@ -103,15 +121,9 @@ With concrete input, it can help structure thinking, clarify decisions, and prod
   
 [**Data analysis**](</academy/data-analysis/>): Spot patterns, surface risks early, and turn spreadsheets or raw data into decisions.| 
 
-  * Analyze engagement survey results./li][li]Review hiring funnel or attrition trends.
+  * Analyze engagement survey results.
+  * Review hiring funnel or attrition trends.
   * Summarize team capacity or workload data.
-
-  
-****[**Deep research**](</academy/search-and-deep-research/>): Tackle more complex questions that require synthesis, not just retrieval.| 
-
-  * Research market compensation or org design practices.
-  * Prepare for a strategic planning discussion with external context.
-  * Compare approaches to leadership development or team effectiveness.
 
   
 ****[**Image generation**](</academy/image-generation/>): Create and refine visual content to make materials more engaging.| 
@@ -222,15 +234,15 @@ Discover additional guides and resources to help you build practical AI skills.
 
 ![Academy > Financial services > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/4rAdwKviie1mydzTjs8y1P/6d4be3abda880c4b1fc4dd67f45debc4/financial.png?w=3840&q=90&fm=webp)
 
-[Financial servicesOpenAI AcademyApr 10, 2026](</academy/financial-services/>)
+[Financial services | OpenAI AcademyOpenAI AcademyApr 10, 2026](</academy/financial-services/>)
 
 ![Academy > Healthcare > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/4PiE6YggOhzl7SQezkdnSK/d1cf00d0269d1f9c061d0d4d4c925372/healthcare.png?w=3840&q=90&fm=webp)
 
-[HealthcareOpenAI AcademyApr 10, 2026](</academy/healthcare/>)
+[Healthcare | OpenAI AcademyOpenAI AcademyApr 10, 2026](</academy/healthcare/>)
 
 ![Academy > Writing > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/7cfiyKI1Hz4PtBIZ5yV2Po/53d6f365498046c4596a2b5953039ccb/writing.png?w=3840&q=90&fm=webp)
 
-[Writing with ChatGPTOpenAI AcademyApr 10, 2026](</academy/writing/>)
+[Writing with ChatGPT | OpenAIOpenAI AcademyApr 10, 2026](</academy/writing/>)
 
 Research
 
@@ -242,9 +254,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -281,6 +293,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 

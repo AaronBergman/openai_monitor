@@ -102,11 +102,11 @@ Guidance for coding, tasks, and workflows with Codex.
 
 [Learn more](</academy/codex/>)
 
-![Academy Hub > Layout > Group > Categories > Codex for work > Media > Asset](https://images.ctfassets.net/kftzwdyauwt9/2b3PBAK2QrcqJT5aYwkQKr/d975d75b7c00cbe548994b3c027e9ee6/Codex_1_1__1_.png?w=3840&q=90&fm=webp)
+![Academy Hub > Layout > Group > Categories > Codex for work > Media > Asset](https://images.ctfassets.net/kftzwdyauwt9/2b3PBAK2QrcqJT5aYwkQKr/01196197a6c2bbccf2fc4fc61c6768b5/codex-work-left-icon.png?w=3840&q=90&fm=webp)
 
-### Codex for work
+### ChatGPT Work
 
-Learn how to get started with ChatGPT Codex and use it for everyday work.
+Learn how to get started with ChatGPT Work and use it for everyday work.
 
 [Learn more](</academy/codex-for-work/>)
 

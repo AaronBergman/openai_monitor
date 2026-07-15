@@ -26,15 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Routing accounting tasks to the right OpenAI model
-
-  * Routing accounting tasks to the right OpenAI model
-  * Validating agent output with OpenAI reasoning 
-  * Driving model benchmarking with reasoning and reviewability
-  * Scaling trust, not just tasks, with OpenAI
-
-
-
 August 12, 2025
 
 # Basis scales accounting by turning OpenAI model progress into trusted agents
@@ -46,6 +37,30 @@ Built with OpenAI o3, o3‑Pro, GPT‑4.1, and GPT‑5, Basis’ AI agents help 
 Loading…
 
 Share
+
+Routing accounting tasks to the right OpenAI model
+
+  * Routing accounting tasks to the right OpenAI model
+
+  * Validating agent output with OpenAI reasoning 
+
+  * Driving model benchmarking with reasoning and reviewability
+
+  * Scaling trust, not just tasks, with OpenAI
+
+
+
+
+  * Routing accounting tasks to the right OpenAI model
+
+  * Validating agent output with OpenAI reasoning 
+
+  * Driving model benchmarking with reasoning and reviewability
+
+  * Scaling trust, not just tasks, with OpenAI
+
+
+
 
 Some startups use AI to solve a point-in-time problem. Others build systems that get better as AI improves. [_Basis_ ⁠(opens in a new window)](<https://www.getbasis.ai/>) is the latter.
 
@@ -123,9 +138,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -162,6 +177,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 

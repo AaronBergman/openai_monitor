@@ -26,7 +26,7 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-May 15, 2026
+July 14, 2026
 
 OpenAI Academy
 
@@ -34,7 +34,7 @@ OpenAI Academy
 
 Explore how sales teams can use ChatGPT Work to turn account context, customer conversations, and deal signals into pipeline briefs, meeting packs, forecast reviews, and account plans.
 
-[Download Codex(opens in a new window)](<https://chatgpt.com/codex/for-work/>)
+[Download ChatGPT Work(opens in a new window)](<https://chatgpt.com/codex/for-work/>)
 
 Loading…
 
@@ -44,23 +44,23 @@ Watch the on-demand webinar
 
   * Watch the on-demand webinar
 
-  * Install the sales plugin for Codex
+  * Install the sales plugin for ChatGPT Work
 
-  * Top Codex use cases for sales teams
+  * Top ChatGPT Work use cases for sales teams
 
 
 
 
   * Watch the on-demand webinar
 
-  * Install the sales plugin for Codex
+  * Install the sales plugin for ChatGPT Work
 
-  * Top Codex use cases for sales teams
-
-
+  * Top ChatGPT Work use cases for sales teams
 
 
-Sales work often lives across CRM fields, call notes, email threads, Slack discussions, decks, customer docs, and account signals. Codex helps pull that context together and produce the first usable version of the artifact, whether that is a prioritized account brief, meeting prep packet, forecast risk review, account strategy pack, or stalled-deal diagnosis. Sellers and managers still own the relationship strategy and judgment; Codex helps get the working draft in front of the team faster.
+
+
+Sales work often lives across CRM fields, call notes, email threads, Slack discussions, decks, customer docs, and account signals. ChatGPT Work helps pull that context together and produce the first usable version of the artifact, whether that is a prioritized account brief, meeting prep packet, forecast risk review, account strategy pack, or stalled-deal diagnosis. Sellers and managers still own the relationship strategy and judgment; ChatGPT Work helps get the working draft in front of the team faster.
 
 ## Watch the on-demand webinar
 
@@ -68,11 +68,11 @@ Watch **_How sales teams use Codex_** on-demand [**here** ⁠(opens in a new win
 
 **Note:** This webinar was recorded when these workflows lived in the former Codex app. You can now follow along using ChatGPT Work at chatgpt.com or in the ChatGPT desktop app.
 
-## Install the sales plugin for Codex
+## Install the sales plugin for ChatGPT Work
 
-The Codex **sales plugin** helps sales teams bring customer context into the work that moves deals forward. Sales teams can find high-priority accounts and signals, prepare for customer meetings, complete follow-ups, update customer records, build close plans, and review deals at risk using tools like Salesforce, HubSpot, Slack, Outreach, Clay, Rox, and Actively. Already have Codex installed? Click [**here** ⁠(opens in a new window)](<https://chatgpt.com/plugins/share/22ec24462a4a410bba1c56c099f6101c>) to install the Sales plugin.
+The ChatGPT Work **sales plugin** helps sales teams bring customer context into the work that moves deals forward. Sales teams can find high-priority accounts and signals, prepare for customer meetings, complete follow-ups, update customer records, build close plans, and review deals at risk using tools like Salesforce, HubSpot, Slack, Outreach, Clay, Rox, and Actively. Already have ChatGPT Work installed? Click [**here** ⁠(opens in a new window)](<https://chatgpt.com/plugins/share/22ec24462a4a410bba1c56c099f6101c>) to install the Sales plugin.
 
-## Top Codex use cases for sales teams
+## Top ChatGPT Work use cases for sales teams
 
 Ready to try ChatGPT Work on real sales work? Check out our use cases [here.⁠(opens in a new window)](<https://learn.chatgpt.com/use-cases/collections/sales>)
 
@@ -86,6 +86,10 @@ Discover additional guides and resources to help you build practical AI skills.
 
 [View all](</news/>)
 
+![How data science teams use Codex > card image](https://images.ctfassets.net/kftzwdyauwt9/xyevYnp4Ptaa1eMgBDNjS/75fea80018f321b89809d893f1a5786d/data_science_teams.png?w=3840&q=90&fm=webp)
+
+[How data science teams use ChatGPT Work | OpenAIOpenAI AcademyJul 14, 2026](</academy/codex-for-work/how-data-science-teams-use-codex/>)
+
 ![Academy > Getting started > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/1Xk9723QKj2Vb9dC6RMebS/5e588c112042794e62178a224eaff418/getting-started.png?w=3840&q=90&fm=webp)
 
 [Getting started with ChatGPT | OpenAIOpenAI AcademyJul 10, 2026](</academy/getting-started/>)
@@ -93,10 +97,6 @@ Discover additional guides and resources to help you build practical AI skills.
 ![sites](https://images.ctfassets.net/kftzwdyauwt9/6fIs1au2N2RynrKQ3eXg0q/15d0fd6fc8d2b24837bed23fc76fc8c4/sites.png?w=3840&q=90&fm=webp)
 
 [ChatGPT SitesOpenAI AcademyJun 2, 2026](</academy/chatgpt-sites/>)
-
-![How business operations teams use Codex > card image](https://images.ctfassets.net/kftzwdyauwt9/JR9MMoyTo7eFFF8Nv13Qc/43414ee0c762db49e36bda8ae0d35e39/bus_ops_teams.png?w=3840&q=90&fm=webp)
-
-[How business operations teams use ChatGPT Work | OpenAIOpenAI AcademyMay 15, 2026](</academy/codex-for-work/how-business-operations-teams-use-codex/>)
 
 Research
 

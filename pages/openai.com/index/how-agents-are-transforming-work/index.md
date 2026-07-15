@@ -55,7 +55,7 @@ Codex adoption grew in tandem with Codex’s capabilities. As Codex leveraged st
 
 ## Agents work longer hours on harder tasks
 
-Nearly a quarter of all Codex requests are for tasks that would take a person more than one hour to complete1. As Codex’s capacity for independent long-context work improved, users shifted from short interactions toward more difficult tasks with longer horizons. 
+In May 2026, more than 70% of users asked Codex to complete a task that would take a person more than one hour to complete1. As Codex’s capacity for independent long-context work improved, users shifted from short interactions toward more difficult tasks with longer horizons. 
 
 The chart below estimates the share of individual users that crossed four human-time thresholds: tasks that would take a person more than 30 minutes, more than one hour, more than four hours, and more than eight hours2. From December 2025 to May 2026, the share of users who made a request that was estimated to correspond to work that would take a person more than 30 minutes rose to 80.6%. The share making a request that would take a person more than one hour rose to 70.2%. The share requesting work that would take a person more than eight hours grew the fastest from a low base. 
 

@@ -58,6 +58,10 @@ OpenAI
 
 [View all](</news/>)
 
+![How to manage AI investments in the agentic era > Cover image](https://images.ctfassets.net/kftzwdyauwt9/1qXMreHMXalbFSVXr2CJXW/acbd7f4e05bd38b80a99523967ef69b7/Frame.png?w=3840&q=90&fm=webp)
+
+[How to manage AI investments in the agentic eraAI AdoptionJul 14, 2026](</index/managing-ai-investments-in-agentic-era/>)
+
 ![Introducing OpenAI Academy courses > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/2mmXo430NiaNqyi6YrRtnh/715ab11fa5003dd50acff55adcb4a5fd/Frame.png?w=3840&q=90&fm=webp)
 
 [New OpenAI Academy courses for the next era of workAI AdoptionJun 12, 2026](</index/academy-courses-applying-ai-at-work/>)
@@ -65,10 +69,6 @@ OpenAI
 ![Gartner MQ > Art Card](https://images.ctfassets.net/kftzwdyauwt9/6GUkmRON5hyvikNSF3IEmH/78ea7491689ec5d07cd6a6c2ad6f0254/Gartner-MQ-ArtCard.png?w=3840&q=90&fm=webp)
 
 [OpenAI named a Leader in enterprise coding agents by GartnerAI AdoptionMay 22, 2026](</index/gartner-2026-agentic-coding-leader/>)
-
-![OAI Introducing the Adoption news channel 1x1 Art Card](https://images.ctfassets.net/kftzwdyauwt9/79zIP6sPhcvVb6hKK1z9nC/1130bf97d24100ccc5aacd74ad48b92d/OAI_Introducing_the_Adoption_news_channel_1x1_Art_Card.png?w=3840&q=90&fm=webp)
-
-[Introducing the Adoption news channelAI AdoptionMar 5, 2026](</index/introducing-the-adoption-news-channel/>)
 
 Research
 

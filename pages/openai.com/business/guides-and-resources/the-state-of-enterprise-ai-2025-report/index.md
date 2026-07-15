@@ -1,30 +1,38 @@
 Skip to main content
 
-[](</>)
+[](</>)[](</business/>)
 
-  * [Research](</research/index/>)
+  * Why OpenAI
   * Products
-  * [Business](</business/>)
-  * [Developers](</api/>)
-  * [Company](</about/>)
-  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
+  * Solutions
+  * Resources
+  * [Customers](</business/customer-stories/>)
+  * [Pricing](</business/pricing/>)
 
 
 
-Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
+Try OpenAI[Contact sales](</contact-sales/>)
 
-  * Research
+  * Why OpenAI
   * Products
-  * Business
-  * Developers
-  * Company
-  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
+  * Solutions
+  * Resources
+  * [Customers](</business/customer-stories/>)
+  * [Pricing](</business/pricing/>)
 
 
 
-[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)Login
+[Contact sales](</contact-sales/>)Try OpenAI
 
 OpenAI
+
+New
+
+### Introducing ChatGPT Work: 
+
+A new agent in ChatGPT that helps teams turn ambitious goals into finished work—with enterprise controls and governance built in.
+
+[Learn more](</chatgpt-work/>)
 
 December 17, 2025
 
@@ -38,7 +46,7 @@ Share
 
 ## Foreword
 
-#### At OpenAI, our mission is to ensure that artificial intelligence benefits all of humanity, and helping enterprises solve problems is central to this mission.
+### At OpenAI, our mission is to ensure that artificial intelligence benefits all of humanity, and helping enterprises solve problems is central to this mission.
 
 The majority of economically valuable activity takes place inside organizations, where innovation translates directly into improved outcomes for workers, customers, and other stakeholders. Enterprise problems also present the hardest technical challenges for frontier intelligence, requiring reliability, safety, and security at scale. The revenue generated from solving these problems can help fund broad, free access to powerful AI for hundreds of millions of people worldwide.
 
@@ -50,7 +58,7 @@ More than 1 million business customers now use OpenAI’s tools. This report bri
 
 2025 report
 
-#### Four key findings stand out
+### Four key findings stand out
 
   1. **Enterprise usage is scaling, with deeper workflow integration.** ChatGPT message volume grew 8x and API reasoning token consumption per organization increased 320x year-over-year, demonstrating that more enterprises are using AI and their intensity of usage has increased.
 
@@ -71,13 +79,13 @@ More than 1 million business customers now use OpenAI’s tools. This report bri
 
 ## Introduction
 
-###### Over the past three years, enterprises have integrated AI systems across a wide range of use cases and operational workflows.
+##### Over the past three years, enterprises have integrated AI systems across a wide range of use cases and operational workflows.
 
 These deployments provide insights on how AI is shaping work, particularly in environments where accuracy standards are high, workflows are complex, and improvements in productivity or decision quality have direct economic outcomes. Because much of the world’s economically valuable activity occurs inside firms, enterprise adoption patterns provide a clear signal of where AI is delivering value today and where it will likely do so in the future.
 
 The scale and diversity of OpenAI’s more than 1 million business customers provides a distinctive view into this shift. This report summarizes key findings from across OpenAI’s enterprise customer base, and what those patterns suggest about the current state and trajectory of enterprise AI. By examining how adoption varies across industries and functions, the analysis also highlights where AI is becoming deeply embedded in firms, and where gaps are emerging.
 
-###### Findings are based on two primary data sources
+##### Findings are based on two primary data sources
 
   * Real-world usage data from enterprise customers of OpenAI.
 
@@ -96,7 +104,7 @@ Since November 2024, weekly Enterprise messages have grown approximately 8x in a
 
 Two shifts underscore the deepening integration of AI into core enterprise workflows.
 
-#### Custom GPTs and Projects are enabling deeper workflow integration
+### Custom GPTs and Projects are enabling deeper workflow integration
 
 GPTs and Projects are configurable interfaces built on ChatGPT that can be tailored with instructions, knowledge, and custom actions, enabling workers to execute repeatable, multi-step tasks.
 
@@ -111,13 +119,13 @@ Year-to-date increase in weekly users of Custom GPTs and Projects
 
 of all Enterprise messages were processed via a Custom GPT or Project
 
-#### Developer and API workflows are rapidly scaling
+### Developer and API workflows are rapidly scaling
 
 Companies build on the API to integrate models directly into their products and systems with a high degree of control and customization. As firms transition from experimentation to production deployments, API consumption has rapidly increased. More than 9,000 organizations have now processed over 10 billion tokens, and nearly 200 have exceeded 1 trillion tokens.
 
 Average reasoning token consumption per organization has increased by approximately 320x in the past 12 months, suggesting that more intelligent models are being systematically integrated into expanding products and services. Codex, while still early in its enterprise lifecycle, is gaining rapid traction as teams adopt it for end-to-end software tasks: code generation, refactoring, testing, and debugging.
 
-###### In the past six weeks, Codex engagement indicates growing penetration of AI-assisted development inside enterprises.
+##### In the past six weeks, Codex engagement indicates growing penetration of AI-assisted development inside enterprises.
 
 2x
 
@@ -131,11 +139,11 @@ Approximate increase in weekly messages
 
 In most settings, AI enables workers to produce higher quality work faster. However, productivity alone does not fully reflect how AI is reshaping work. Survey data from almost 100 enterprises highlights key operational gains across functions, and shifts in who performs specialized and technical work.
 
-#### Enterprise workers report time saved and improved outcomes across functions
+### Enterprise workers report time saved and improved outcomes across functions
 
 Seventy-five percent of surveyed workers report that using AI at work has improved either the speed or quality of their output. On average, ChatGPT Enterprise users attribute 40–60 minutes of time saved per active day to their use of AI, with data science, engineering, and communications workers saving more than average (60–80 minutes per day). Time saved per message varies by function: accounting and finance users report the largest benefits followed by analytics, communications, and engineering.
 
-###### These gains translate into broad operational improvements across functions
+##### These gains translate into broad operational improvements across functions
 
   * 87% of IT workers report faster IT issue resolution
 
@@ -150,7 +158,7 @@ Seventy-five percent of surveyed workers report that using AI at work has improv
 
 These results indicate that productivity benefits are already materializing across core enterprise functions, not only in early-adopting technical roles.
 
-#### Technical work expands beyond traditional role boundaries
+### Technical work expands beyond traditional role boundaries
 
 AI is not only accelerating existing work; it is also expanding the tasks and skills workers can perform. Several studies find that AI has an equalizing effect, disproportionately aiding lower performing workers.1 Consistent with these findings, 75% of workers report being able to complete tasks they previously could not perform, including programming support and code review, spreadsheet analysis and automation, technical tool development and troubleshooting, and custom GPT or agent design.
 
@@ -164,11 +172,11 @@ of users report being able to complete new tasks
 
 Average increase in coding-related messages outside of engineering, IT, and research
 
-#### Workers report greater productivity from more intensive AI use
+### Workers report greater productivity from more intensive AI use
 
 At the individual worker level, impact increases as workers deepen their use of AI. Across a large sample of workers, time saved is correlated with the use of more advanced ChatGPT features, including Deep Research, GPT‑5 Thinking, and Image Generation. Workers consuming the most intelligence (as measured by credits used2) report higher time savings. Workers who save more than 10 hours per week are not just using more intelligence, they are also using multiple models, engaging with more tools, and using AI across a wider range of tasks.
 
-###### Productivity gains increase with intensity of AI use
+##### Productivity gains increase with intensity of AI use
 
 ![Line chart showing relationship between intelligence consumed \(credits used\) and hours saved per week. As credits increase from roughly 150 to over 1,100, reported time savings rise from near zero to more than 10 hours per week. The >10 hours/week group uses 8x more credits than the 0 hours/week group.](https://images.ctfassets.net/kftzwdyauwt9/2S8XPjw6k6svGdDrwfj2Oq/e06ea27133b086a088776859dfa38e31/Productivity_gains_increase_with_intensity_of_AI_use.png?w=3840&q=90&fm=webp)
 
@@ -176,12 +184,12 @@ At the individual worker level, impact increases as workers deepen their use of 
 
 Over the last year we’ve seen overall rapid adoption as companies move from AI pilots to full deployments, and there are notable differences based on industry and geography.
 
-#### Growth is rapid across most industries
+### Growth is rapid across most industries
 
 OpenAI customer growth is broad-based across industries, with the median sector expanding more than 6x year-over-year and even the slowest-growing sector exceeding 2x.  
 
 
-###### AI adoption by industry: enterprise scale vs. year-over-year growth
+##### AI adoption by industry: enterprise scale vs. year-over-year growth
 
 ![Scatter plot showing OpenAI customer growth \(y/y\) versus scale \(log enterprise messages\) by industry. Technology has the highest growth \(~11x\). Manufacturing and Finance are above median growth, while Professional Services has large scale but lower growth \(~4x\). Healthcare and Construction are mid-scale with moderate growth. Educational services shows the lowest growth \(~2x\). Median lines divide the chart into quadrants.](https://images.ctfassets.net/kftzwdyauwt9/1aNZi645x9KwfaY0eqbM25/2aac78c342eb33227acef5246f7e59c3/AI_adoption_by_industry.png?w=3840&q=90&fm=webp)
 
@@ -248,7 +256,7 @@ often start with customer-support because support is a large, scalable cost cent
 
 
 
-#### Enterprise growth is global and accelerating
+### Enterprise growth is global and accelerating
 
 While early AI adoption was primarily U.S.-based, international growth is now accelerating rapidly:
 
@@ -283,7 +291,7 @@ Comparison of 95th percentile-to-median
 
 These differences matter. Usage data matched to survey results show that users who engage across roughly seven task types report five times more time saved than those who use only about four. In other words, the benefits users realize from AI scale directly with depth of use.
 
-#### Time savings increase as users engage across more distinct tasks
+### Time savings increase as users engage across more distinct tasks
 
 ![Line chart showing hours saved per week versus number of distinct AI tasks performed. As tasks increase from about 3 to 7, reported time savings rise from near zero to more than 10 hours per week, indicating greater productivity gains with broader task usage.](https://images.ctfassets.net/kftzwdyauwt9/4VkpgVGPMnFN6aRdrqSSeW/d7c42e683aa198e29e7ab095efc392a7/TIme_savings_increase.png?w=3840&q=90&fm=webp)
 
@@ -291,7 +299,7 @@ Even among active ChatGPT Enterprise users, many have not tried some of the most
 
 ![ Bar chart showing percent of enterprise users who have not used specific AI tools. Among monthly active users, 19% have not used data analysis, 14% have not used reasoning, and 12% have not used search. Among daily active users, non-usage drops to 3% for data analysis and 1% for reasoning and search.](https://images.ctfassets.net/kftzwdyauwt9/fjOlUTKe1jMMQmBigPfKk/de183163114f26ebf37b86c6779744ad/Enterprise_users_who_have_not_used_these_tools.png?w=3840&q=90&fm=webp)
 
-#### There’s significant headroom for firms to increase their AI maturity
+### There’s significant headroom for firms to increase their AI maturity
 
 At the firm level, gaps in adoption intensity mirror those observed at the individual level. Frontier firms (95th percentile) generate approximately 2x more messages per seat than the median enterprise and 7x more messages to GPTs, indicating markedly deeper organizational integration and workflow standardization. These firms invest systematically in the infrastructure and operating models required to embed AI as core organizational capability rather than a peripheral productivity tool.
 
@@ -305,7 +313,7 @@ These effects are not confined to a small set of firms, and external research sh
 
 A 2025 Boston Consulting Group (BCG) study found that over the past three years, AI leaders achieved 1.7x revenue growth, 3.6x greater total shareholder return, and 1.6x EBIT margin. They also outperformed on nonfinancial measures such as patent output and employee satisfaction, linking AI maturity to both financial and organizational strength. While this evidence is still early, it suggests that AI adoption is correlated with improved financial performance and organizational outcomes.
 
-##### Case studies
+### Case studies
 
 **Case studies**| **Company**  
 ---|---  
@@ -320,11 +328,11 @@ A 2025 Boston Consulting Group (BCG) study found that over the past three years,
 
 **Intercom used OpenAI’s Realtime API for Fin Voice, delivering a low-latency, enterprise-ready voice AI Agent**
 
-######  Challenge
+#####  Challenge
 
 Fin, Intercom’s AI agent for customer service, delivers industry-leading resolution rates across chat, email, and social channels, resolving millions of customer queries each month. But extending Fin to a new channel — the phone — introduced a new, critical challenge: latency. In phone support, where issues are often urgent, even brief pauses can destroy the customer experience, and lead callers to abandon the interaction or escalate to a human.
 
-###### Solution
+##### Solution
 
 Intercom built Fin Voice on OpenAI’s Realtime API to dramatically reduce latency and enable natural, interruption-friendly phone conversations. The Realtime API’s low time-to-first-token, strong instruction-following, and dependable tool-calling capabilities allow Fin Voice to navigate complex, multi-step requests with high quality and reliability.
 
@@ -342,11 +350,11 @@ Given that human-handled support conversations typically cost upwards of $5–$2
 
 **Lowe’s deployed Mylow and Mylow Companion to scale expert home-improvement guidance to every online visitor and in-store associate**
 
-######  Challenge
+#####  Challenge
 
 Lowe’s needed to scale expert home improvement guidance to online shoppers and help store associates, especially new hires, answer complex questions consistently across more than 1,700 stores.
 
-###### Solution
+##### Solution
 
 Lowe’s deployed Mylow on Lowes.com to provide customer project and product advice, and Mylow Companion for store associates in every store.
 
@@ -364,11 +372,11 @@ Mylow Companion is deployed in 100% of stores and answers hundreds of thousands 
 
 **Indeed uses GPT‑powered job matching and career coaching to improve hiring outcomes for job seekers and employers**
 
-######  Challenge
+#####  Challenge
 
 Indeed’s mission is to help people get jobs. Job seekers can face friction when searching, evaluating fit, and applying for roles, while employers want more qualified applicants for their open roles. Both sides benefit from deeper personalization and clearer context about what makes a strong match.
 
-###### Solution
+##### Solution
 
 To address this friction, Indeed launched a suite of AI-powered products, using its proprietary AI to match job seekers and employers coupled with GPT‑powered explanations that help explain why they’re a good fit. Indeed Invite to Apply uses AI to generate and send contextual, personalized job invitations at scale, helping candidates understand why a role is a strong match and improving employer reach. Indeed Career Scout acts as an AI career coach, accelerating job discovery and streamlining the application process for job seekers.
 
@@ -382,11 +390,11 @@ Early results show job seekers using Career Scout find and apply to relevant job
 
 **BBVA deployed a legal AI chatbot to instantly validate corporate signatory authority and unblock branch commercial operations**
 
-######  Challenge
+#####  Challenge
 
 In Mexico, BBVA must perform a legal check (also known as bastanteo) to confirm that a company representative has the authority to sign and act on behalf of the company before key transactions can proceed (e.g., opening accounts, signing contracts, issuing credit). Historically, this process relied on a specialist legal team responding to repetitive branch queries, creating delays, bottlenecks, and high demand for scarce legal capacity.
 
-###### Solution
+##### Solution
 
 BBVA built a generative AI chatbot that provides instant access to standardized, pre-validated legal FAQs and documentation guidance for common signatory-authority questions. The content was developed and reviewed by BBVA’s Legal Services team, reducing manual handling of daily inquiries and making approved legal guidance consistently available.
 
@@ -398,11 +406,11 @@ The solution built with ChatGPT Enterprise automates more than 9,000 queries ann
 
 **Oscar Health deployed member-facing chatbots to answer benefits, cost, and general health questions in real time and help members navigate the complexities of the healthcare system**
 
-######  Challenge
+#####  Challenge
 
 For many people, the healthcare system can be challenging to understand and navigate. Understanding benefits, finding the right doctor, estimating care costs, and getting clear answers to questions are often challenging and time consuming. This is partially because the data needed to make the right decisions often lives in different places, including portals, benefits documents, and doctors’ notes from past visits. Oscar wanted to create a single, trustworthy entry point that helped members better understand and navigate the healthcare system.
 
-###### Solution
+##### Solution
 
 Oscar developed a pair of member-facing chatbots to answer member benefits, costs and general health questions, on-demand and in realtime. Unlike general-purpose AI chatbots, these are integrated with Oscar systems and data, allowing them to draw from medical records, claims, and customer service interactions to personalize responses. Their chatbots can also assist with common tasks, including finding in-network doctors and refilling prescriptions.
 
@@ -414,11 +422,11 @@ The result is a platform that can address a wide array of questions and tasks, i
 
 **Moderna used AI to significantly compress Target Product Profile development time**
 
-######  Challenge
+#####  Challenge
 
 Writing a Target Product Profile (TPP) is typically a multi-week, cross-functional effort involving teams across clinical, product, and marketing roles. Teams must review and process large evidence packs, sometimes up to 300 pages of information, to create these blueprints for product development.
 
-###### Solution
+##### Solution
 
 Using ChatGPT Enterprise, Moderna has streamlined substantial parts of the TPP drafting and analysis workflow. The system helps extract key facts and assumptions from large data packages, generate structured draft sections, and flag important details or potential errors to the teams providing human oversight.
 
@@ -426,7 +434,7 @@ Using ChatGPT Enterprise, Moderna has streamlined substantial parts of the TPP d
 
 Delays or errors in TPPs can affect downstream activities such as research planning, cross-functional alignment, and product launch preparation. By reducing the time required to review, cross-reference, and integrate large evidence packages, teams can spend more time pressure-testing trade-offs and making higher-quality decisions earlier in the TPP creation process. Moderna reports that a core analytical step in this process has been reduced from weeks to hours in some cases, and believes that each day gained in early TPP planning can help the company deliver for patients more quickly.
 
-##### In practice, leading firms consistently do several things
+### In practice, leading firms consistently do several things
 
 **Practice**| **Description**  
 ---|---  
@@ -480,9 +488,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -519,6 +527,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 

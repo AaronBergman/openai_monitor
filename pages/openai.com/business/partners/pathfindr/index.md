@@ -36,6 +36,8 @@ OpenAI
 
 Pathfindr is an AI adoption and capability partner, helping organisations turn emerging AI technologies into measurable business outcomes. As OpenAI's official services partner in Australia and New Zealand, we support enterprise, government and industry to understand, adopt and accelerate with AI. Our accelerator programs build the capability and confidence leaders and teams need to reimagine workflows, spot high-impact opportunities, and lead their industry with AI. Combining hands-on enablement with end-to-end AI build solutions via our parent company Affinda, we help organisations reduce implementation risk and embed scalable AI that delivers lasting impact.
 
+![Advanced Partner](/images/partner-tier-badges/OAI_PartnerNetwork_AdvancedPartner.svg?dpl=dpl_Bt2QvgNvrDjuduwqx5NPqQxCos4N)
+
 Countries served
     Australia and New Zealand
 

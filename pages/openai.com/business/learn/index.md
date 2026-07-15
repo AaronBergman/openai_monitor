@@ -44,6 +44,18 @@ GuidesOpenAI on OpenAIWebinarsDemos
 
 #### Guides
 
+![How to manage AI investments in the agentic era > Cover image](https://images.ctfassets.net/kftzwdyauwt9/1qXMreHMXalbFSVXr2CJXW/acbd7f4e05bd38b80a99523967ef69b7/Frame.png?w=3840&q=90&fm=webp)
+
+[How to manage AI investments in the agentic eraFive practical steps to understand AI usage, control spend, and invest in the work that creates the most value.](</index/managing-ai-investments-in-agentic-era/>)
+
+![How agents are transforming work > Cover image](https://images.ctfassets.net/kftzwdyauwt9/7hmtkjKv0DxS4Yt8mQZju2/c168bfa2010da64bcc9dd60d6b5491e8/Art_Card__1_.png?w=3840&q=90&fm=webp)
+
+[How agents are transforming workA new Economic Research paper measuring Codex’s economic potential at the frontier.](</index/how-agents-are-transforming-work/>)
+
+![OAI The five AI value models driving business reinvention 1x1 Art Card](https://images.ctfassets.net/kftzwdyauwt9/2YclNMGFgInYk2vt0sjI4W/dcaa7d202589cf3ba0f588592f7fb10b/OAI_The_five_AI_value_modelsdriving_business_reinvention_1x1_Art_Card.png?w=3840&q=90&fm=webp)
+
+[AI value models driving business reinventionFive AI value models show how leaders can sequence AI from workforce fluency to process reinvention.](</index/the-five-ai-value-models-driving-business-reinvention/>)
+
 ![Codex maxxing 1x1](https://images.ctfassets.net/kftzwdyauwt9/5RFmrNey5oX93M1WyqCs4o/5b6ccdce4022764200e06739cda7c21f/Codex_maxxing_1x1.png?w=3840&q=90&fm=webp)
 
 [Codex-maxxing for long-running workHow Codex helps work continue beyond a single promptJun 22, 2026](</index/codex-maxxing-long-running-work/>)

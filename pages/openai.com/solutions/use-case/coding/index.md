@@ -26,6 +26,14 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 OpenAI
 
+New
+
+### Introducing ChatGPT Work: 
+
+A new agent in ChatGPT that helps teams turn ambitious goals into finished work—with enterprise controls and governance built in.
+
+[Learn more](</chatgpt-work/>)
+
 OpenAI for coding
 
 # AI for ambitious engineering teams
@@ -105,7 +113,7 @@ Connect to your existing tools and systems, while keeping data private and prote
 
 Use apps and MCP to link ChatGPT with your IDEs, repos, and pipelines—or create custom integrations for your team.
 
-[Explore apps](</business/apps/>)[Connect with MCP](<https://platform.openai.com/docs/mcp>)
+[Explore apps](</business/plugins/>)[Connect with MCP](<https://platform.openai.com/docs/mcp>)
 
 ![Row of blue certification badges for CCPA, CSA STAR, GDPR, AICPA SOC 2, ISO 27001, and ISO 27701, representing compliance and data security standards.](https://images.ctfassets.net/kftzwdyauwt9/41efEX7uIrsnblWLorihtN/47b0f02a04f5e1aa5ca2963d7fffc1ab/Thumbnail-2up-card-02.png?w=3840&q=90&fm=webp)
 
@@ -153,9 +161,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 

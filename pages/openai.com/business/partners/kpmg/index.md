@@ -36,6 +36,8 @@ OpenAI
 
 KPMG is one of the world’s leading professional services firms and the fastest growing Big Four accounting firm in the United States. With 90+ offices and more than 36,000 employees and partners throughout the US, we’re leading the industry in new and exciting ways. Our size and strength make us much more agile and responsive to changing trends.
 
+![Elite Partner](/images/partner-tier-badges/OAI_PartnerNetwork_ElitePartner.svg?dpl=dpl_Bt2QvgNvrDjuduwqx5NPqQxCos4N)
+
 Countries served
     Global
 

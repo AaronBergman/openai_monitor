@@ -41,22 +41,32 @@ Share
 EliseAI was founded in 2017, before AI became mainstream. Was there a specific moment you decided to go all in on AI, or did it happen early on?
 
   * EliseAI was founded in 2017, before AI became mainstream. Was there a specific moment you decided to go all in on AI, or did it happen early on?
+
   * What advice would you give to startups introducing AI to their customers, about doing it in a way that feels natural rather than disruptive?
+
   * What technical breakthrough in AI has had the biggest impact on your product?
+
   * When building a new AI-powered feature or tool, how do you measure success?
+
   * How do you foster AI fluency within your team?
+
   * How do you effectively plan for EliseAI’s future with AI evolving so fast?
 
 
 
-Table of contents
 
   * EliseAI was founded in 2017, before AI became mainstream. Was there a specific moment you decided to go all in on AI, or did it happen early on?
+
   * What advice would you give to startups introducing AI to their customers, about doing it in a way that feels natural rather than disruptive?
+
   * What technical breakthrough in AI has had the biggest impact on your product?
+
   * When building a new AI-powered feature or tool, how do you measure success?
+
   * How do you foster AI fluency within your team?
+
   * How do you effectively plan for EliseAI’s future with AI evolving so fast?
+
 
 
 
@@ -130,11 +140,11 @@ OpenAI
 
 ## Related articles
 
-![EF LaunchDarkly Web Card 1.1](https://images.ctfassets.net/kftzwdyauwt9/2cpF9RROp0adrJYodf58yu/ff2bbb83e2ab2d51ff46646c0cb1a6b4/EF_Uber_Web_Card_1.1.png?w=3840&q=90&fm=webp)
+![Artistic rendering of audio waveform with "Ep 04" written atop. ](https://images.ctfassets.net/kftzwdyauwt9/2cpF9RROp0adrJYodf58yu/ff2bbb83e2ab2d51ff46646c0cb1a6b4/EF_Uber_Web_Card_1.1.png?w=3840&q=90&fm=webp)
 
 [LaunchDarkly's approach to AI-powered product managementMar 4, 2025](</index/launchdarkly-claire-vo/>)
 
-![EF Uber Web Card 1.1](https://images.ctfassets.net/kftzwdyauwt9/6iZlnDQd7XJnOzVKqimqhm/50a382dc31a9cf028428a2d565caeb63/EF_Uber_Web_Card_1.1.png?w=3840&q=90&fm=webp)
+![An image of artfully rendered waveform with "Ep 03" written atop. ](https://images.ctfassets.net/kftzwdyauwt9/6iZlnDQd7XJnOzVKqimqhm/50a382dc31a9cf028428a2d565caeb63/EF_Uber_Web_Card_1.1.png?w=3840&q=90&fm=webp)
 
 [Uber enables outstanding on-demand experiences with AIFeb 20, 2025](</index/uber-enables-outstanding-experiences/>)
 
@@ -152,9 +162,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -191,6 +201,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 

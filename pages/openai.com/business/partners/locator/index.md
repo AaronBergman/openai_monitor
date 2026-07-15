@@ -34,7 +34,7 @@ A new agent in ChatGPT that helps teams turn ambitious goals into finished workâ
 
 [Learn more](</chatgpt-work/>)
 
-Partner locator
+Partner Locator
 
 # Find the right partner
 

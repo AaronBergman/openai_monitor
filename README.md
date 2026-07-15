@@ -4,6 +4,46 @@ A daily log of every change to OpenAI's public website — what appeared, what d
 
 ---
 
+## 2026-07-15 — Run `2026-07-15T09-16Z`
+
+**Fetch time:** 2026-07-15T09:17:58Z
+**Baseline:** 2026-07-14T09-15Z
+**Stats:** 1443 total URLs | +2 added | 170 updated (122 with a real content diff) | -8 removed | 0 anomalies | 34 sub-sitemaps
+
+**TL;DR:** Yesterday's big Partner Network launch got its finishing touch: 36 of the 37 new partner pages were assigned a tier badge — **Elite Partner** for Accenture, Bain, BCG, Capgemini, KPMG, and McKinsey (7 firms), **Advanced Partner** for the other 29 — and "Eliza Solutions Corp" quietly renamed itself to just "Eliza." OpenAI also published a new guide, [How to manage AI investments in the agentic era](pages/openai.com/index/managing-ai-investments-in-agentic-era/index.md), leaning on GPT‑5.6's efficiency gains (54% fewer output tokens, 57% less time per coding task). The Academy's Codex section got a cleanup — seven granular how-to pages were retired in favor of the broader `/academy/codex/` overview, and four more pages continued yesterday's "Codex" → "**ChatGPT Work**" rebrand. The `/business/` nav redesign spotted spreading over the last few days now covers the guides-and-resources report pages and several `/solutions/` pages too, and two of those guide pages lost their interactive "Try this prompt" buttons and stat call-out boxes along the way. Two smaller items are worth a second look: the GPT‑5.6 launch page quietly dropped a specific number ("700,000 A100e GPU hours") from its safety-testing claim in favor of a vaguer unit description, and a Codex usage stat was rewritten from "nearly a quarter of requests" to "more than 70% of users" — different metrics, not directly comparable. No timestamp anomalies today.
+
+### Notable additions
+
+- **[`/index/managing-ai-investments-in-agentic-era/`](pages/openai.com/index/managing-ai-investments-in-agentic-era/index.md)** — new guide (July 14, 2026), "five practical steps" for enterprise AI spend management: visibility into usage/spend, evaluating models by outcome ROI (not token price), governing agentic workflows before they scale, funding compounding workflows, and matching capacity to demand. Cites GPT‑5.6 beating its predecessor by 54% fewer output tokens and 57% less time per task on the Artificial Analysis Coding Agent Index. Immediately cross-promoted on `/business/learn/`, `/news/`, and `/news/ai-adoption/`.
+- **[`/business/partners/eliza/`](pages/openai.com/business/partners/eliza/index.md)** — not a new partner: this replaces `/business/partners/eliza-solutions-corp/` (see removals), same firm, now shown as an Advanced Partner.
+
+### Notable updates
+
+- **[Partner Network](pages/openai.com/business/partners/index.md) tier badges** — 36 of yesterday's 37 new partner pages gained an "Elite Partner" or "Advanced Partner" badge. Elite (7): Accenture, Accenture Federal Services, [Bain & Company](pages/openai.com/business/partners/bain-and-company/index.md), Boston Consulting Group, Capgemini, KPMG, [McKinsey & Company](pages/openai.com/business/partners/mckinsey-and-company/index.md). Advanced (29): everyone else in the roster, including the renamed Eliza.
+- **Academy Codex section consolidated** — seven detailed Codex how-to pages were retired (`academy/codex-automations/`, `academy/codex-how-to-start/`, `academy/codex-plugins-and-skills/`, `academy/codex-settings/`, `academy/prompting/`, `academy/what-is-codex/`, `academy/working-with-codex/`), with no direct one-to-one replacements — the content is now covered by the existing `/academy/codex/` overview and role-specific `/academy/codex-for-work/how-<team>-teams-use-codex/` pages.
+- **"Codex" → "ChatGPT Work" rebrand, round 2** — four more Academy pages (`academy/`, and the data-science/business-operations/sales `codex-for-work` guides) swapped "Codex"/"ChatGPT Codex" for "ChatGPT Work" in headings, download links, and body copy, with publish dates bumped to July 14, 2026. Continues the ~13-page rebrand first spotted 2026-07-14.
+- **Business-site nav redesign spreads further** — the "Why OpenAI / Products / Solutions / Resources" nav + "Introducing ChatGPT Work" banner (first seen 2026-07-11) now also appears on all five `/business/guides-and-resources/` report pages, `/business/customer-stories/`, and three `/solutions/` pages (`industries/retail`, `use-case/coding`, `use-case/research`), which also had their "Explore app integrations" link retargeted from `/business/apps/` to `/business/plugins/`.
+- **Two guide pages lost interactive widgets** — [`chatgpt-business-smb-guide`](pages/openai.com/business/guides-and-resources/chatgpt-business-smb-guide/index.md) and [`chatgpt-usage-and-adoption-patterns-at-work`](pages/openai.com/business/guides-and-resources/chatgpt-usage-and-adoption-patterns-at-work/index.md) both lost their inline "Try this prompt" CTA buttons (about 10 on the SMB guide); the usage-and-adoption report additionally lost several stat/ranking call-out boxes (departmental "Top tasks" rankings, "Top 3 tools by job category"). Prose and headings were untouched — this looks like a deliberate simplification tied to the redesign, not a fetch glitch, since two unrelated pages lost the identical kind of content while sibling guide pages didn't.
+- **[`academy/financial-services/`](pages/openai.com/academy/financial-services/index.md)** — the entire "Pre-built GPTs" section was removed, including its table of three example GPTs (KYC / AML Risk Screener GPT, Policy Interpreter GPT, Investment Research Assistant GPT).
+- **[`/index/gpt-5-6/`](pages/openai.com/index/gpt-5-6/index.md)** — a specific number quietly vanished from the safety section: "approximately 700,000 A100e GPU hours of black-box automated red teaming" became "approximately NVIDIA A100 Tensor Core GPU-equivalent hours of black-box automated red teaming" — same sentence, no more number.
+- **[`/index/how-agents-are-transforming-work/`](pages/openai.com/index/how-agents-are-transforming-work/index.md)** — a Codex-usage stat was rewritten: "Nearly a quarter of all Codex requests are for tasks that would take a person more than one hour" became "In May 2026, more than 70% of users asked Codex to complete a task that would take a person more than one hour." Note the metric changed shape (share of requests vs. share of users), so this is a replacement, not simple growth.
+- **Sora branding keeps folding into ChatGPT** — [`/solutions/use-case/content-creation/`](pages/openai.com/solutions/use-case/content-creation/index.md) changed "...with Sora 2" to "...with ChatGPT" in its storyboard-to-video blurb; `/stories/` dropped its "Sora" category tab (now just All/ChatGPT/API).
+- **[`/business/customer-stories/`](pages/openai.com/business/customer-stories/index.md)** and **[`/business/learn/`](pages/openai.com/business/learn/index.md)** carousels refreshed — Deutsche Telekom's story newly promoted on customer-stories (page itself unchanged, published Jul 10); three guides added to `/business/learn/`'s Guides section, all covered above or previously tracked.
+
+### Routine updates
+
+Most of the 170 lastmod-bumped pages (48 with no content change at all) only carried the ongoing site-wide footer refresh: the "Latest Advancements" list swapped GPT-5.3 Instant for **GPT-5.6**, and the Business footer gained "Customer Stories" and "Partner Network" links. A "GPT 5-6" promo tile was added to several unrelated "related content" carousels, and many partner/card link labels picked up an " | OpenAI" suffix (cosmetic SEO formatting) — none of this reflects unique per-page news.
+
+### Removals
+
+- Seven Academy Codex how-to pages, consolidated — see Notable updates above.
+- **`business/partners/eliza-solutions-corp/`** — renamed to `business/partners/eliza/` (see additions), not a genuine removal.
+
+Full analysis: [runs/2026-07-15T09-16Z/analysis.md](runs/2026-07-15T09-16Z/analysis.md)
+
+---
+*Stats: 1,443 total URLs | +2 added | 170 updated (122 with visible content change) | -8 removed | 0 anomalies | 34 sub-sitemaps*
+
 ## 2026-07-14 — Run `2026-07-14T09-15Z`
 
 **Fetch time:** 2026-07-14T09:17:08Z
