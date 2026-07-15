@@ -57,8 +57,6 @@ Uber is one of the largest mobility and delivery platforms in the world. Why is 
 
 
 
-Table of contents
-
   * Uber is one of the largest mobility and delivery platforms in the world. Why is AI important and how does it fit into Uber’s broader strategy?
 
   * Uber operates a multi-sided marketplace, balancing the needs of consumers, drivers, and merchants. How is AI applied to address the unique needs of these groups?
@@ -176,9 +174,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -215,6 +213,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 

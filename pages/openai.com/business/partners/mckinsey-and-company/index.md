@@ -1,28 +1,28 @@
 Skip to main content
 
-[](</>)
+[](</>)[](</business/>)
 
-  * [Research](</research/index/>)
+  * Why OpenAI
   * Products
-  * [Business](</business/>)
-  * [Developers](</api/>)
-  * [Company](</about/>)
-  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
+  * Solutions
+  * Resources
+  * [Customers](</business/customer-stories/>)
+  * [Pricing](</business/pricing/>)
 
 
 
-Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
+Try OpenAI[Contact sales](</contact-sales/>)
 
-  * Research
+  * Why OpenAI
   * Products
-  * Business
-  * Developers
-  * Company
-  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
+  * Solutions
+  * Resources
+  * [Customers](</business/customer-stories/>)
+  * [Pricing](</business/pricing/>)
 
 
 
-[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)Login
+[Contact sales](</contact-sales/>)Try OpenAI
 
 OpenAI
 
@@ -35,6 +35,8 @@ OpenAI
 [Visit website(opens in a new window)](<https://www.mckinsey.com/capabilities/tech-and-ai/how-we-help-clients>)
 
 McKinsey and OpenAI help organizations across all industries turn agentic AI ambition into sustained enterprise impact. We bring McKinsey’s expertise in strategy, industry, transformation, and change management, along with QuantumBlack’s leading AI delivery capabilities. Coordinated with OpenAI’s frontier technology, product, research, and forward-deployed engineering teams, we help clients rewire. We identify high-value use cases, redesign workflows, build and deploy production-grade agents, integrate tools such as Frontier, ChatGPT Enterprise, Codex, and APIs, and scale adoption with governance, evaluation, optimization, and value assurance.
+
+![Elite Partner](/images/partner-tier-badges/OAI_PartnerNetwork_ElitePartner.svg?dpl=dpl_Bt2QvgNvrDjuduwqx5NPqQxCos4N)
 
 Countries served
     Global

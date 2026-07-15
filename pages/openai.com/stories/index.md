@@ -11,7 +11,7 @@ Skip to main content
 
 
 
-[Try now(opens in a new window)](<https://chatgpt.com/team-sign-up>)[Contact sales](</contact-sales/>)
+Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
   * Research
   * Products
@@ -22,7 +22,7 @@ Skip to main content
 
 
 
-[Contact sales](</contact-sales/>)
+[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)Login
 
 OpenAI
 
@@ -31,7 +31,6 @@ OpenAI
   * [All](</stories/>)
   * [ChatGPT](</stories/chatgpt/>)
   * [API](</stories/api/>)
-  * [Sora](</stories/sora/>)
 
 
 
@@ -45,15 +44,15 @@ Switch cards to show Media
 
 Switch cards to hide Media
 
-![OpenAI Falcon Cover](https://images.ctfassets.net/kftzwdyauwt9/2tgWg3FVo92ztow3wQjynu/6803dbad048ec780c8f0c7c46347ebe9/OpenAI_Falcon_1x1.jpg?w=3840&q=90&fm=webp)
+![A cyclist pushes a fat-tire bike across a wide snowy landscape.](https://images.ctfassets.net/kftzwdyauwt9/2tgWg3FVo92ztow3wQjynu/6803dbad048ec780c8f0c7c46347ebe9/OpenAI_Falcon_1x1.jpg?w=3840&q=90&fm=webp)
 
 [Training to cycle across Antarctica with ChatGPTJun 11, 2026](</index/cycling-across-antarctica/>)
 
-![OpenAI Falcon Cover](https://images.ctfassets.net/kftzwdyauwt9/2tgWg3FVo92ztow3wQjynu/6803dbad048ec780c8f0c7c46347ebe9/OpenAI_Falcon_1x1.jpg?w=3840&q=90&fm=webp)
+![A cyclist pushes a fat-tire bike across a wide snowy landscape.](https://images.ctfassets.net/kftzwdyauwt9/2tgWg3FVo92ztow3wQjynu/6803dbad048ec780c8f0c7c46347ebe9/OpenAI_Falcon_1x1.jpg?w=3840&q=90&fm=webp)
 
 [Training to cycle across Antarctica with ChatGPTJun 11, 2026](</index/cycling-across-antarctica/>)
 
-![Owl story hero image](https://images.ctfassets.net/kftzwdyauwt9/5Owa7Jyi5pMx1lDrvN1B2C/3036661e68edf2e77d2d5d2454653740/2026_04_Gardi_ProjectOwl_KittPeak_Day1_02144.jpg?w=3840&q=90&fm=webp)
+![CK Chan stands inside a large radio telescope dish.](https://images.ctfassets.net/kftzwdyauwt9/5Owa7Jyi5pMx1lDrvN1B2C/3036661e68edf2e77d2d5d2454653740/2026_04_Gardi_ProjectOwl_KittPeak_Day1_02144.jpg?w=3840&q=90&fm=webp)
 
 [Creating new simulations of black holes with CodexJun 11, 2026](</index/creating-new-simulations-black-holes/>)
 
@@ -61,15 +60,15 @@ Switch cards to hide Media
 
 [Chip Ganassi Racing × OpenAIAPIMay 28, 2026](</index/chip-ganassi-racing/>)
 
-![SHARP 1x1 COMBINE](https://images.ctfassets.net/kftzwdyauwt9/6yOmkiVrFE8fk9ciEdFLyt/6cec40169a9c3d33c82b7a2935050d9e/SHARP_1x1_COMBINE.png?w=3840&q=90&fm=webp)
+![Two people stand beside a large red combine harvester in an open, harvested field under a wide blue sky.](https://images.ctfassets.net/kftzwdyauwt9/6yOmkiVrFE8fk9ciEdFLyt/6cec40169a9c3d33c82b7a2935050d9e/SHARP_1x1_COMBINE.png?w=3840&q=90&fm=webp)
 
 [Small businesses are getting more done with ChatGPTChatGPTFeb 4, 2026](</index/small-business-stories/>)
 
-![OpenAI Falcon Cover](https://images.ctfassets.net/kftzwdyauwt9/2tgWg3FVo92ztow3wQjynu/6803dbad048ec780c8f0c7c46347ebe9/OpenAI_Falcon_1x1.jpg?w=3840&q=90&fm=webp)
+![A cyclist pushes a fat-tire bike across a wide snowy landscape.](https://images.ctfassets.net/kftzwdyauwt9/2tgWg3FVo92ztow3wQjynu/6803dbad048ec780c8f0c7c46347ebe9/OpenAI_Falcon_1x1.jpg?w=3840&q=90&fm=webp)
 
 [Training to cycle across Antarctica with ChatGPTJun 11, 2026](</index/cycling-across-antarctica/>)
 
-![Owl story hero image](https://images.ctfassets.net/kftzwdyauwt9/5Owa7Jyi5pMx1lDrvN1B2C/3036661e68edf2e77d2d5d2454653740/2026_04_Gardi_ProjectOwl_KittPeak_Day1_02144.jpg?w=3840&q=90&fm=webp)
+![CK Chan stands inside a large radio telescope dish.](https://images.ctfassets.net/kftzwdyauwt9/5Owa7Jyi5pMx1lDrvN1B2C/3036661e68edf2e77d2d5d2454653740/2026_04_Gardi_ProjectOwl_KittPeak_Day1_02144.jpg?w=3840&q=90&fm=webp)
 
 [Creating new simulations of black holes with CodexJun 11, 2026](</index/creating-new-simulations-black-holes/>)
 
@@ -77,7 +76,7 @@ Switch cards to hide Media
 
 [Chip Ganassi Racing × OpenAIAPIMay 28, 2026](</index/chip-ganassi-racing/>)
 
-![SHARP 1x1 COMBINE](https://images.ctfassets.net/kftzwdyauwt9/6yOmkiVrFE8fk9ciEdFLyt/6cec40169a9c3d33c82b7a2935050d9e/SHARP_1x1_COMBINE.png?w=3840&q=90&fm=webp)
+![Two people stand beside a large red combine harvester in an open, harvested field under a wide blue sky.](https://images.ctfassets.net/kftzwdyauwt9/6yOmkiVrFE8fk9ciEdFLyt/6cec40169a9c3d33c82b7a2935050d9e/SHARP_1x1_COMBINE.png?w=3840&q=90&fm=webp)
 
 [Small businesses are getting more done with ChatGPTChatGPTFeb 4, 2026](</index/small-business-stories/>)
 
@@ -101,13 +100,17 @@ Switch cards to hide Media
 
 [How Cursor uses GPT-5APIAug 7, 2025](</index/gpt-5-cursor/>)
 
+![OAI GPT5 Thumbnail clean API Amgen 1920x1920](https://images.ctfassets.net/kftzwdyauwt9/4lO4u1Lnw6lkGbKlcyMiRV/ecc7d025b6d1bbed19fe33ce0cae4333/OAI_GPT5_Thumbnail_clean_API_Amgen_1920x1920.png?w=3840&q=90&fm=webp)
+
+[How Amgen uses GPT-5APIAug 7, 2025](</index/gpt-5-amgen/>)
+
 ![OAI GPT5 Thumbnail clean API Vibes 1920x1920](https://images.ctfassets.net/kftzwdyauwt9/EsMfQCOwOBOkcRZLjqILn/893c40c010e653048b7c1f580350d7fc/OAI_GPT5_Thumbnail_clean_API_Vibes_1920x1920.png?w=3840&q=90&fm=webp)
 
 [First look at GPT-5ChatGPTAug 7, 2025](</index/gpt-5-first-look/>)
 
-![OAI GPT5 Thumbnail clean API Amgen 1920x1920](https://images.ctfassets.net/kftzwdyauwt9/4lO4u1Lnw6lkGbKlcyMiRV/ecc7d025b6d1bbed19fe33ce0cae4333/OAI_GPT5_Thumbnail_clean_API_Amgen_1920x1920.png?w=3840&q=90&fm=webp)
+![Ten tiny canvases > Media > Cover](https://images.ctfassets.net/kftzwdyauwt9/16VYfNV8RPoKM0nqEG4OrP/5ba2052acfb2a64a141ad161f5b92a38/Ten_tiny_canvases_.jpg?w=3840&q=90&fm=webp)
 
-[How Amgen uses GPT-5APIAug 7, 2025](</index/gpt-5-amgen/>)
+[Creating nail art with ChatGPTChatGPTFeb 4, 2025](</index/ten-tiny-canvases/>)
 
 ![Math Tutor > Cover media ](https://images.ctfassets.net/kftzwdyauwt9/2oDKH92TW20YedrGjlZ2bO/aee7f60283553fa4f600d6f38fddbd0f/My_dog__the_math_tutor.jpg?w=3840&q=90&fm=webp)
 
@@ -117,11 +120,7 @@ Switch cards to hide Media
 
 [Catching halibut with ChatGPTChatGPTFeb 4, 2025](</index/fishing-for-first-timers/>)
 
-![Ten tiny canvases > Media > Cover](https://images.ctfassets.net/kftzwdyauwt9/16VYfNV8RPoKM0nqEG4OrP/5ba2052acfb2a64a141ad161f5b92a38/Ten_tiny_canvases_.jpg?w=3840&q=90&fm=webp)
-
-[Creating nail art with ChatGPTChatGPTFeb 4, 2025](</index/ten-tiny-canvases/>)
-
-![oai deep-research bain](https://images.ctfassets.net/kftzwdyauwt9/5tCYZqzCTYSDtYiIjx61FJ/2369d97a94e3777fa6405838b739b585/oai_deep-research_bain.png?w=3840&q=90&fm=webp)
+![Reem Anchassi uses OpenAI deep research](https://images.ctfassets.net/kftzwdyauwt9/5tCYZqzCTYSDtYiIjx61FJ/2369d97a94e3777fa6405838b739b585/oai_deep-research_bain.png?w=3840&q=90&fm=webp)
 
 [Understanding complex trends with deep researchChatGPTFeb 2, 2025](</index/deep-research/>)
 
@@ -141,9 +140,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -180,6 +179,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 

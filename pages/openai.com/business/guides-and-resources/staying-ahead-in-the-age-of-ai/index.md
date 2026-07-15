@@ -1,42 +1,38 @@
 Skip to main content
 
-[](</>)
+[](</>)[](</business/>)
 
-  * [Research](</research/index/>)
+  * Why OpenAI
   * Products
-  * [Business](</business/>)
-  * [Developers](</api/>)
-  * [Company](</about/>)
-  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
+  * Solutions
+  * Resources
+  * [Customers](</business/customer-stories/>)
+  * [Pricing](</business/pricing/>)
 
 
 
-Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
+Try OpenAI[Contact sales](</contact-sales/>)
 
-  * Research
+  * Why OpenAI
   * Products
-  * Business
-  * Developers
-  * Company
-  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
+  * Solutions
+  * Resources
+  * [Customers](</business/customer-stories/>)
+  * [Pricing](</business/pricing/>)
 
 
 
-[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)Login
+[Contact sales](</contact-sales/>)Try OpenAI
 
 OpenAI
 
-Foreword
+New
 
-  * Foreword
-  * Principle 01: Align
-  * Principle 02: Activate
-  * Principle 03: Amplify
-  * Principle 04: Accelerate
-  * Principle 05: Govern
-  * Conclusion
+### Introducing ChatGPT Work: 
 
+A new agent in ChatGPT that helps teams turn ambitious goals into finished work—with enterprise controls and governance built in.
 
+[Learn more](</chatgpt-work/>)
 
 December 16, 2025
 
@@ -51,6 +47,94 @@ A leadership guide
 Loading…
 
 Share
+
+Foreword
+
+  * Foreword
+
+    * Artificial intelligence is accelerating on every front
+
+    * What we'll cover in this guide
+
+  * Principle 01: Align
+
+    * Alignment practices we’ve seen work
+
+    * Reflection questions and how to get started
+
+  * Principle 02: Activate
+
+    * How to activate AI use at your organization
+
+    * Reflection questions and how to get started
+
+  * Principle 03: Amplify
+
+    * Strategies to scale and amplify AI wins across your company
+
+    * Reflection questions and how to get started
+
+  * Principle 04: Accelerate
+
+    * Tips to accelerate AI projects from pilot to production
+
+    * Reflection questions and how to get started
+
+  * Principle 05: Govern
+
+    * How to embed responsible AI practices without slowing teams down
+
+    * Reflection questions and how to get started
+
+  * Conclusion
+
+    * Here are the five essentials to keep in focus:
+
+
+
+
+  * Foreword
+
+    * Artificial intelligence is accelerating on every front
+
+    * What we'll cover in this guide
+
+  * Principle 01: Align
+
+    * Alignment practices we’ve seen work
+
+    * Reflection questions and how to get started
+
+  * Principle 02: Activate
+
+    * How to activate AI use at your organization
+
+    * Reflection questions and how to get started
+
+  * Principle 03: Amplify
+
+    * Strategies to scale and amplify AI wins across your company
+
+    * Reflection questions and how to get started
+
+  * Principle 04: Accelerate
+
+    * Tips to accelerate AI projects from pilot to production
+
+    * Reflection questions and how to get started
+
+  * Principle 05: Govern
+
+    * How to embed responsible AI practices without slowing teams down
+
+    * Reflection questions and how to get started
+
+  * Conclusion
+
+    * Here are the five essentials to keep in focus:
+
+
+
 
 ## Foreword
 
@@ -398,9 +482,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -437,6 +521,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 

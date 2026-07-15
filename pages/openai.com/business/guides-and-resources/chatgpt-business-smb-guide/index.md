@@ -1,42 +1,38 @@
 Skip to main content
 
-[](</>)
+[](</>)[](</business/>)
 
-  * [Research](</research/index/>)
+  * Why OpenAI
   * Products
-  * [Business](</business/>)
-  * [Developers](</api/>)
-  * [Company](</about/>)
-  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
+  * Solutions
+  * Resources
+  * [Customers](</business/customer-stories/>)
+  * [Pricing](</business/pricing/>)
 
 
 
-Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
+Try OpenAI[Contact sales](</contact-sales/>)
 
-  * Research
+  * Why OpenAI
   * Products
-  * Business
-  * Developers
-  * Company
-  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
+  * Solutions
+  * Resources
+  * [Customers](</business/customer-stories/>)
+  * [Pricing](</business/pricing/>)
 
 
 
-[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)Login
+[Contact sales](</contact-sales/>)Try OpenAI
 
 OpenAI
 
-There's never been a better time to be a small or growing team
+New
 
-  * There's never been a better time to be a small or growing team
-  * Analyze your data in seconds
-  * Ship polished marketing materials
-  * Build and maintain a budget
-  * Prepare and run productive meetings 
-  * Evaluate and select the right vendor
-  * Quick wins you can try today 
+### Introducing ChatGPT Work: 
 
+A new agent in ChatGPT that helps teams turn ambitious goals into finished work—with enterprise controls and governance built in.
 
+[Learn more](</chatgpt-work/>)
 
 Guides
 
@@ -48,13 +44,53 @@ Real examples and ready-to-use prompts for small and midsize businesses.
 
 Share
 
+There's never been a better time to be a small or growing team
+
+  * There's never been a better time to be a small or growing team
+
+    * Why GPT-5 is great for work: 
+
+  * Analyze your data in seconds
+
+  * Ship polished marketing materials
+
+  * Build and maintain a budget
+
+  * Prepare and run productive meetings 
+
+  * Evaluate and select the right vendor
+
+  * Quick wins you can try today 
+
+
+
+
+  * There's never been a better time to be a small or growing team
+
+    * Why GPT-5 is great for work: 
+
+  * Analyze your data in seconds
+
+  * Ship polished marketing materials
+
+  * Build and maintain a budget
+
+  * Prepare and run productive meetings 
+
+  * Evaluate and select the right vendor
+
+  * Quick wins you can try today 
+
+
+
+
 ## There's never been a better time to be a small or growing team
 
 With the right tools, a lean team can move faster, do more, and take on bigger opportunities with confidence.   
   
 That's why we built ChatGPT Business. It is a simple and secure way for companies to put frontier Al to work. And it's powered by our newest and most advanced model, GPT‑5, the engine behind everything you'll see in this guide.
 
-#### Why GPT‑5 is great for work: 
+### Why GPT‑5 is great for work: 
 
 **Marketing**|  Breaks down multi-step problems, explains its reasoning, and automatically adapts the depth of its analysis based on your prompt.   
 ---|---  
@@ -83,8 +119,6 @@ Try it yourself:
 
 
 
-[PromptExplain the top cost drivers in this spend data, highlight areas to reduce costs, and show the results in a bar chart with an executive summary.](<https://chatgpt.com/?prompt=Explain%20the%20top%20cost%20drivers%20in%20this%20spend%20data,%20highlight%20areas%20to%20reduce%20costs,%20and%20show%20the%20results%20in%20a%20bar%20chart%20with%20an%20executive%20summary.>)
-
 Pro tip
 
 [Connect⁠(opens in a new window)](<https://help.openai.com/en/articles/11487775-apps-in-chatgpt>) Google Drive or OneDrive so ChatGPT always works from your latest files.
@@ -112,8 +146,6 @@ Turn your product or event details into ready-to-use emails, social posts, and l
 
 
 
-[PromptCreate a campaign kit for [name of your launch]. Include: (1) an announcement email, (2) landing page copy, (3) Linkedln post, (4) lnstagram post, and (5) a short internal sales brief.](<https://chatgpt.com/?prompt=Create%20a%20campaign%20kit%20for%20%5Bname%20of%20your%20launch%5D.%20Include:%20\(1\)%20an%20announcement%20email,%20\(2\)%20landing%20page%20copy,%20\(3\)%20Linkedln%20post,%20\(4\)%20lnstagram%20post,%20and%20\(5\)%20a%20short%20internal%20sales%20brief.>)
-
 Pro tip
 
 Use [Canva with ChatGPT⁠(opens in a new window)](<https://chatgpt.com/g/g-alKfVrz9K-canva>) to instantly format your copy into beautiful visuals. 
@@ -136,8 +168,6 @@ Try it yourself:
 
 
 
-
-[PromptCompare each department's budget vs. actual spend. Highlight the biggest differences and explain what's causing them.](<https://chatgpt.com/?prompt=Compare%20each%20department's%20budget%20vs.%20actual%20spend.%20Highlight%20the%20biggest%20differences%20and%20explain%20what's%20causing%20them.>)
 
 Pro tip
 
@@ -167,8 +197,6 @@ Try it yourself:
 
 
 
-[PromptCreate a one-hour meeting agenda for [topic]. Add an impact vs. effort chart for our options, highlight items needing a decision, and note follow-ups.](<https://chatgpt.com/?prompt=Create%20a%20one-hour%20meeting%20agenda%20for%20%5Btopic%5D.%20Add%20an%20impact%20vs.%20effort%20chart%20for%20our%20options,%20highlight%20items%20needing%20a%20decision,%20and%20note%20follow-ups.>)
-
 Pro tip
 
 Use [ChatGPT record⁠(opens in a new window)](<https://help.openai.com/en/articles/11487532-chatgpt-record>) in the macOS desktop app to capture your meeting, get a transcript, and instantly generate a summary and action items.
@@ -192,8 +220,6 @@ Try it yourself:
 
 
 
-[PromptResearch and compare top [tool/service] options for a small business in [your industry]. Include features, pricing, integrations, and pros/cons. ](<https://chatgpt.com/?prompt=Research%20and%20compare%20top%20%5Btool/service%5D%20options%20for%20a%20small%20business%20in%20%5Byour%20industry%5D.%20Include%20features,%20pricing,%20integrations,%20and%20pros/cons.%20>)
-
 Pro tip
 
 Save comparisons in a Project to refresh reports as new data comes in. 
@@ -209,35 +235,25 @@ Save comparisons in a Project to refresh reports as new data comes in.
 
 
 
-[PromptRewrite this copy in a warmer, more conversational tone. Suggest one headline change to boost signups.](<https://chatgpt.com/?prompt=Rewrite%20this%20copy%20in%20a%20warmer,%20more%20conversational%20tone.%20Suggest%20one%20headline%20change%20to%20boost%20signups.>)
-
   * Connect your HubSpot or upload CRM dataUpload your sales data and ask for 3 actions to help close more deals this month. 
 
 
 
-
-[PromptBased on our deals and lead stages, which accounts are most likely to close in the next 30 days? What are three actions our sales team should take right now?](<https://chatgpt.com/?prompt=Based%20on%20our%20deals%20and%20lead%20stages,%20which%20accounts%20are%20most%20likely%20to%20close%20in%20the%20next%2030%20days?%20What%20are%20three%20actions%20our%20sales%20team%20should%20take%20right%20now?>)
 
   * Compare your product with a competitor's using both your docs and public info. 
 
 
 
 
-[PromptCreate a side-by-side comparison of our product offering with [Competitor] using our internal docs and public web sources.](<https://chatgpt.com/?prompt=Create%20a%20side-by-side%20comparison%20of%20our%20product%20offering%20with%20%5BCompetitor%5D%20using%20our%20internal%20docs%20and%20public%20web%20sources.>)
-
   * Scan your code (via the GitHub connector) for security risks and quick fixes. 
 
 
 
 
-[PromptScan our GitHub repositories for potential security risks. Summarize your findings in a clear risk report, and recommend practical, low-effort actions we can take to quickly improve our security posture.](<https://chatgpt.com/?prompt=Scan%20our%20GitHub%20repositories%20for%20potential%20security%20risks.%20Summarize%20your%20findings%20in%20a%20clear%20risk%20report,%20and%20recommend%20practical,%20low-effort%20actions%20we%20can%20take%20to%20quickly%20improve%20our%20security%20posture.>)
-
   * Turn meeting notes into a polished proposal email for a client. 
 
 
 
-
-[PromptSummarize this into a polished proposal email for the client, highlighting action items and our value.](<https://chatgpt.com/?prompt=Summarize%20this%20into%20a%20polished%20proposal%20email%20for%20the%20client,%20highlighting%20action%20items%20and%20our%20value.>)
 
 ## Interested in bringing AI to your business? 
 
@@ -271,9 +287,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -310,6 +326,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 

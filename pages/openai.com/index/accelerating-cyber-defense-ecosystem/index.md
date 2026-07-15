@@ -45,8 +45,6 @@ Investing in the broader ecosystem
 
 
 
-Table of contents
-
   * Investing in the broader ecosystem
 
   * Building resilience together
@@ -92,6 +90,10 @@ OpenAI
 
 [View all](</news/>)
 
+![GPT-5.5 Bio Bug Bounty > art card](https://images.ctfassets.net/kftzwdyauwt9/2wba91t9mgdv1oBPai3LTb/e48f5d6b5e44bdaafb0eac51f96458d1/bug_bounty_1_1.png?w=3840&q=90&fm=webp)
+
+[OpenAI Bio Bug BountySafetyJul 9, 2026](</index/bio-bug-bounty/>)
+
 ![Patch the Planet Art Card 1x1](https://images.ctfassets.net/kftzwdyauwt9/2PwBCyZF0Z5WLRtsbOpDdQ/338e19fbc39e5b9a63b1db664c006e74/Art_Card__5_.png?w=3840&q=90&fm=webp)
 
 [Patch the Planet: a Daybreak initiative to support open source maintainersSecurityJun 22, 2026](</index/patch-the-planet/>)
@@ -99,10 +101,6 @@ OpenAI
 ![Expanding Daybreak Art Card](https://images.ctfassets.net/kftzwdyauwt9/735NOZviyogUBIFxd2EmWX/fa8baf9fc26e64f442ffa86d5fd9a41e/Art_Card__6_.png?w=3840&q=90&fm=webp)
 
 [Daybreak: Tools for securing every organization in the worldSecurityJun 22, 2026](</index/daybreak-securing-the-world/>)
-
-![oai 1x1](https://images.ctfassets.net/kftzwdyauwt9/7eONRWq61MKUix4tK4t88Y/170085acc9b241a0bdfba429bd217907/oai_1x1.png?w=3840&q=90&fm=webp)
-
-[Advancing youth safety and opportunity through global leadershipGlobal AffairsJun 2, 2026](</index/advancing-youth-safety-and-opportunity-through-global-leadership/>)
 
 Research
 
@@ -114,9 +112,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 

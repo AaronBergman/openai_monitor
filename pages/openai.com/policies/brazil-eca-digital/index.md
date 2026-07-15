@@ -26,17 +26,29 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
+Published: May 4, 2026
+
+# The Brazilian Digital Statute for Children and Adolescents
+
 How we protect users
 
   * How we protect users
+
   * How to report content
+
   * Age appropriate access and experience
 
 
 
-Published: May 4, 2026
 
-# The Brazilian Digital Statute for Children and Adolescents
+  * How we protect users
+
+  * How to report content
+
+  * Age appropriate access and experience
+
+
+
 
 The[ _Brazil Estatuto da Criança e do Adolescente Digital_ ⁠(opens in a new window)](<https://infograficos.camara.leg.br/eca-digital/>) (“ECA Digital”) aims to protect children and adolescents in Brazil online.
 
@@ -80,9 +92,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -119,6 +131,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 

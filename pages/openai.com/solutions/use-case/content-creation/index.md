@@ -273,7 +273,7 @@ Create clear, compliant, and consistent written materials—from internal memos 
 
 ### Turn static ideas into motion
 
-Transform a storyboard or mood board into expressive, cinematic sequences before production starts with Sora 2 —no animation skills required. 
+Transform a storyboard or mood board into expressive, cinematic sequences before production starts with ChatGPT—no animation skills required. 
 
 ### Automate localization 
 

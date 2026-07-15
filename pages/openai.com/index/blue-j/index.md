@@ -26,15 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Leveraging domain expertise to build the solution no one else can
-
-  * Leveraging domain expertise to build the solution no one else can
-  * Scale trust through user feedback
-  * Design evaluations that raise the bar, not just test it
-  * Leverage your domain expertise as your advantage 
-
-
-
 August 21, 2025
 
 # Blue J’s approach for scaling fast in complex, regulated domains
@@ -46,6 +37,30 @@ Blue J scaled its AI-powered tax research system to three countries and more tha
 Loading…
 
 Share
+
+Leveraging domain expertise to build the solution no one else can
+
+  * Leveraging domain expertise to build the solution no one else can
+
+  * Scale trust through user feedback
+
+  * Design evaluations that raise the bar, not just test it
+
+  * Leverage your domain expertise as your advantage 
+
+
+
+
+  * Leveraging domain expertise to build the solution no one else can
+
+  * Scale trust through user feedback
+
+  * Design evaluations that raise the bar, not just test it
+
+  * Leverage your domain expertise as your advantage 
+
+
+
 
 Traditional tax research starts by sifting through hundreds of sources before even beginning to interpret them. Tax professionals then spend hours parsing statutes, regulations, rulings, case law, and expert commentary to piece together how the rules interact and distill them into an answer.
 
@@ -125,9 +140,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -164,6 +179,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 

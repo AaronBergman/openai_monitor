@@ -51,11 +51,11 @@ Switch cards to show Media
 
 Switch cards to hide Media
 
-![""](//images.ctfassets.net/kftzwdyauwt9/5uOBQ9CN3HA6yzWugjzzYZ/d65727d40c567318f9b366349a1b12a3/OAI_ChatGPTWork_ModelBlog_OpenGraph_16x9_1200x630.png?w=3840&q=90&fm=webp)
+![""](//images.ctfassets.net/kftzwdyauwt9/5uOBQ9CN3HA6yzWugjzzYZ/b5fe018bce4814a145bb9c8e57422db6/gpt-5-6-poster.png?w=3840&q=90&fm=webp)
 
 [GPT-5.6: Frontier intelligence that scales with your ambitionProductJul 9, 2026](</index/gpt-5-6/>)
 
-![""](//images.ctfassets.net/kftzwdyauwt9/5uOBQ9CN3HA6yzWugjzzYZ/d65727d40c567318f9b366349a1b12a3/OAI_ChatGPTWork_ModelBlog_OpenGraph_16x9_1200x630.png?w=3840&q=90&fm=webp)
+![""](//images.ctfassets.net/kftzwdyauwt9/5uOBQ9CN3HA6yzWugjzzYZ/b5fe018bce4814a145bb9c8e57422db6/gpt-5-6-poster.png?w=3840&q=90&fm=webp)
 
 [GPT-5.6: Frontier intelligence that scales with your ambitionProductJul 9, 2026](</index/gpt-5-6/>)
 
@@ -69,7 +69,7 @@ Switch cards to hide Media
 
 [Daybreak: Tools for securing every organization in the worldSecurityJun 22, 2026](</index/daybreak-securing-the-world/>)
 
-![""](//images.ctfassets.net/kftzwdyauwt9/5uOBQ9CN3HA6yzWugjzzYZ/d65727d40c567318f9b366349a1b12a3/OAI_ChatGPTWork_ModelBlog_OpenGraph_16x9_1200x630.png?w=3840&q=90&fm=webp)
+![""](//images.ctfassets.net/kftzwdyauwt9/5uOBQ9CN3HA6yzWugjzzYZ/b5fe018bce4814a145bb9c8e57422db6/gpt-5-6-poster.png?w=3840&q=90&fm=webp)
 
 [GPT-5.6: Frontier intelligence that scales with your ambitionProductJul 9, 2026](</index/gpt-5-6/>)
 

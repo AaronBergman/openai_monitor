@@ -231,6 +231,8 @@ OpenAI
 
 [ChatGPT is now a partner for your most ambitious workProductJul 9, 2026](</index/chatgpt-for-your-most-ambitious-work/>)
 
+![GPT 5-6 > Card](https://images.ctfassets.net/kftzwdyauwt9/1a9IPPV5nXWydTBosgmgYI/8e03f28ca04f26edc8bc81cdba387df1/5-6.jpg?w=3840&q=90&fm=webp)
+
 [GPT-5.6: Frontier intelligence that scales with your ambitionProductJul 9, 2026](</index/gpt-5-6/>)
 
 Research

@@ -57,8 +57,6 @@ Cyber defense at an inflection point
 
 
 
-Table of contents
-
   * Cyber defense at an inflection point
 
   * From findings to fixes with Codex Security
@@ -189,6 +187,10 @@ OpenAI
 
 [View all](</news/>)
 
+![HP early AI wins — card image](https://images.ctfassets.net/kftzwdyauwt9/6phCuFzVSdCdVCh6YqXMa6/a4207917b5d7a43179a61f5de012168d/HP-1_1.png?w=3840&q=90&fm=webp)
+
+[How HP is scaling early AI wins across the enterpriseCompanyJun 28, 2026](</index/hp-frontier-partnership/>)
+
 ![How agents are transforming work > Cover image](https://images.ctfassets.net/kftzwdyauwt9/7hmtkjKv0DxS4Yt8mQZju2/c168bfa2010da64bcc9dd60d6b5491e8/Art_Card__1_.png?w=3840&q=90&fm=webp)
 
 [How agents are transforming workCompanyJun 25, 2026](</index/how-agents-are-transforming-work/>)
@@ -196,10 +198,6 @@ OpenAI
 ![OpenAI and Broadcom Jalapeño inference chip card image](https://images.ctfassets.net/kftzwdyauwt9/21KcazqOHUF7Cq71Hpfcnc/81ad98a1978845b441ab14e008168c75/openai-broadcom-jalapeno-inference-chip-image-1_1.png?w=3840&q=90&fm=webp)
 
 [OpenAI and Broadcom unveil LLM-optimized inference chipCompanyJun 24, 2026](</index/openai-broadcom-jalapeno-inference-chip/>)
-
-![Patch the Planet Art Card 1x1](https://images.ctfassets.net/kftzwdyauwt9/2PwBCyZF0Z5WLRtsbOpDdQ/338e19fbc39e5b9a63b1db664c006e74/Art_Card__5_.png?w=3840&q=90&fm=webp)
-
-[Patch the Planet: a Daybreak initiative to support open source maintainersSecurityJun 22, 2026](</index/patch-the-planet/>)
 
 Research
 
@@ -211,9 +209,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 

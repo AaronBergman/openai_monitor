@@ -26,18 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-You’ve previously described HR operating more like a product team or R&D lab. How has AI enabled or accelerated that kind of transformation at a company like DoorDash?
-
-  * You’ve previously described HR operating more like a product team or R&D lab. How has AI enabled or accelerated that kind of transformation at a company like DoorDash?
-  * What AI tools or capabilities have been most impactful to your operations or for employees day-to-day?
-  * How should HR leaders think about how AI is changing employee experience and engagement?
-  * You’ve emphasized that AI should augment—not replace—human judgment. Can you share examples?
-  * Are you doing anything with AI around skill leveling, executive coaching, or upskilling?
-  * Looking ahead, what AI trends are you most focused on over the next 12–24 months?
-  * Who on your team is responsible for building up the stack as you go deeper—from base tools to agentic capabilities?
-
-
-
 August 18, 2025
 
 # How DoorDash is scaling AI to empower employees to build, learn, and innovate faster
@@ -48,7 +36,43 @@ A conversation with Mariana Garavaglia, Chief People Officer, DoorDash.
 
 Share
 
- _Our new Executive Function series features perspectives from leaders driving transformation through AI._
+You’ve previously described HR operating more like a product team or R&D lab. How has AI enabled or accelerated that kind of transformation at a company like DoorDash?
+
+  * You’ve previously described HR operating more like a product team or R&D lab. How has AI enabled or accelerated that kind of transformation at a company like DoorDash?
+
+  * What AI tools or capabilities have been most impactful to your operations or for employees day-to-day?
+
+  * How should HR leaders think about how AI is changing employee experience and engagement?
+
+  * You’ve emphasized that AI should augment—not replace—human judgment. Can you share examples?
+
+  * Are you doing anything with AI around skill leveling, executive coaching, or upskilling?
+
+  * Looking ahead, what AI trends are you most focused on over the next 12–24 months?
+
+  * Who on your team is responsible for building up the stack as you go deeper—from base tools to agentic capabilities?
+
+
+
+
+  * You’ve previously described HR operating more like a product team or R&D lab. How has AI enabled or accelerated that kind of transformation at a company like DoorDash?
+
+  * What AI tools or capabilities have been most impactful to your operations or for employees day-to-day?
+
+  * How should HR leaders think about how AI is changing employee experience and engagement?
+
+  * You’ve emphasized that AI should augment—not replace—human judgment. Can you share examples?
+
+  * Are you doing anything with AI around skill leveling, executive coaching, or upskilling?
+
+  * Looking ahead, what AI trends are you most focused on over the next 12–24 months?
+
+  * Who on your team is responsible for building up the stack as you go deeper—from base tools to agentic capabilities?
+
+
+
+
+_Our new Executive Function series features perspectives from leaders driving transformation through AI._
 
 DoorDash is one of the world's leading local commerce platforms that helps businesses of all kinds grow and innovate, connects consumers to the best of their neighborhoods, and gives people fast, flexible ways to earn. We spoke with Mariana Garavaglia, Chief People Officer about measuring AI literacy, using AI to augment human judgment, and how it is helping employees make an even deeper impact. 
 
@@ -150,9 +174,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -189,6 +213,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 

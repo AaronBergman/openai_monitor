@@ -108,7 +108,7 @@ Databricks
 
 Deepsense
 
-![Deepsense logo](https://images.ctfassets.net/kftzwdyauwt9/1orPk3yZu2O6kUnPNWbIpa/c33a5624d10c736e7b61a4c49428f5cc/deepsense-larger-light.png?w=3840&q=90&fm=webp)
+![deepsense.ai logo](https://images.ctfassets.net/kftzwdyauwt9/1orPk3yZu2O6kUnPNWbIpa/c33a5624d10c736e7b61a4c49428f5cc/deepsense-larger-light.png?w=3840&q=90&fm=webp)
 
 Dentsu Japan
 
@@ -116,7 +116,7 @@ Dentsu Japan
 
 Eliza Solutions Corp
 
-![Eliza Solutions Corp logo](https://images.ctfassets.net/kftzwdyauwt9/66QLSpv0l3MGOluz2t5g5X/b0b34c0c9bc7de2be19b31a9a56f891a/eliza-square-light.svg?w=3840&q=90)
+![Eliza logo](https://images.ctfassets.net/kftzwdyauwt9/66QLSpv0l3MGOluz2t5g5X/b0b34c0c9bc7de2be19b31a9a56f891a/eliza-square-light.svg?w=3840&q=90)
 
 Endava
 
@@ -196,7 +196,7 @@ Snowflake
 
 Statworx
 
-![Statworx logo](https://images.ctfassets.net/kftzwdyauwt9/Yx30LAXRjjMmlOsGr52fj/1141616753f711fc5451ac2a717d28d0/statworx-square-light.svg?w=3840&q=90)
+![statworx logo](https://images.ctfassets.net/kftzwdyauwt9/Yx30LAXRjjMmlOsGr52fj/1141616753f711fc5451ac2a717d28d0/statworx-square-light.svg?w=3840&q=90)
 
 TCS
 
@@ -280,7 +280,7 @@ Databricks
 
 Deepsense
 
-![Deepsense logo](https://images.ctfassets.net/kftzwdyauwt9/1orPk3yZu2O6kUnPNWbIpa/c33a5624d10c736e7b61a4c49428f5cc/deepsense-larger-light.png?w=3840&q=90&fm=webp)
+![deepsense.ai logo](https://images.ctfassets.net/kftzwdyauwt9/1orPk3yZu2O6kUnPNWbIpa/c33a5624d10c736e7b61a4c49428f5cc/deepsense-larger-light.png?w=3840&q=90&fm=webp)
 
 Dentsu Japan
 
@@ -288,7 +288,7 @@ Dentsu Japan
 
 Eliza Solutions Corp
 
-![Eliza Solutions Corp logo](https://images.ctfassets.net/kftzwdyauwt9/66QLSpv0l3MGOluz2t5g5X/b0b34c0c9bc7de2be19b31a9a56f891a/eliza-square-light.svg?w=3840&q=90)
+![Eliza logo](https://images.ctfassets.net/kftzwdyauwt9/66QLSpv0l3MGOluz2t5g5X/b0b34c0c9bc7de2be19b31a9a56f891a/eliza-square-light.svg?w=3840&q=90)
 
 Endava
 
@@ -368,7 +368,7 @@ Snowflake
 
 Statworx
 
-![Statworx logo](https://images.ctfassets.net/kftzwdyauwt9/Yx30LAXRjjMmlOsGr52fj/1141616753f711fc5451ac2a717d28d0/statworx-square-light.svg?w=3840&q=90)
+![statworx logo](https://images.ctfassets.net/kftzwdyauwt9/Yx30LAXRjjMmlOsGr52fj/1141616753f711fc5451ac2a717d28d0/statworx-square-light.svg?w=3840&q=90)
 
 TCS
 

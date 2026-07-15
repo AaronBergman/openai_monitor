@@ -26,18 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Introduction
-
-  * Introduction
-  * Methodology
-  * The rise of AI at work
-  * Who uses ChatGPT in the enterprise
-  * Roles shape usage patterns
-  * ChatGPT as an operating system for work
-  * What’s next for work
-
-
-
 January 22, 2026
 
 Guides
@@ -48,9 +36,77 @@ Guides
 
 Share
 
+Introduction
+
+  * Introduction
+
+    * ChatGPT is changing how work gets done.
+
+  * Methodology
+
+  * The rise of AI at work
+
+    * Enterprise adoption follows rapid consumer adoption 
+
+  * Who uses ChatGPT in the enterprise
+
+    * ChatGPT is being adopted across industries
+
+    * How departments use ChatGPT in their first 90 days
+
+    * Top tasks for ChatGPT technical users
+
+    * How Departments Used ChatGPT Enterprise in their First 90 Days
+
+    * Top tasks for ChatGPT go-to-market users
+
+  * Roles shape usage patterns
+
+    * Top 3 tools used within ChatGPT by job category
+
+  * ChatGPT as an operating system for work
+
+  * What’s next for work
+
+
+
+
+  * Introduction
+
+    * ChatGPT is changing how work gets done.
+
+  * Methodology
+
+  * The rise of AI at work
+
+    * Enterprise adoption follows rapid consumer adoption 
+
+  * Who uses ChatGPT in the enterprise
+
+    * ChatGPT is being adopted across industries
+
+    * How departments use ChatGPT in their first 90 days
+
+    * Top tasks for ChatGPT technical users
+
+    * How Departments Used ChatGPT Enterprise in their First 90 Days
+
+    * Top tasks for ChatGPT go-to-market users
+
+  * Roles shape usage patterns
+
+    * Top 3 tools used within ChatGPT by job category
+
+  * ChatGPT as an operating system for work
+
+  * What’s next for work
+
+
+
+
 ## Introduction
 
-#### ChatGPT is changing how work gets done.
+### ChatGPT is changing how work gets done.
 
 Launched just two and a half years ago, ChatGPT is used by workers across every industry, in every job function, and at companies of every size. Today, over a quarter of U.S. workers—and 45% of those with postgraduate degrees—report using ChatGPT for work. 
 
@@ -70,7 +126,7 @@ This report combines findings from independent third party industry-wide studies
 
 ## The rise of AI at work
 
-#### Enterprise adoption follows rapid consumer adoption 
+### Enterprise adoption follows rapid consumer adoption 
 
 When ChatGPT was released in November 2022, it mostly targeted a small group of AI researchers and enthusiasts. But within months, it had 100 million weekly active users, and today has over 700 million weekly active users, making it one of the world’s most visited websites. 
 
@@ -82,35 +138,11 @@ This is a path we've often seen before: software that gains traction with consum
 
 In just a few years, AI in the workplace has gone from niche to mainstream. The numbers tell the story:
 
-##### Adoption is skyrocketing...
-
-Today, 43% of U.S. knowledge workers use AI (Stanford), up from fewer than 1 in 10 in late 2022.
-
-##### ...and ChatGPT leads the shift.
-
-Pew reports 28% of employed adults are using ChatGPT at work, up from only 8% two years ago. 
-
-##### AI use is becoming habitual...
-
-More than half of workplace AI users engage four or more days a week. In the last year, daily usage has doubled (Stanford).
-
-##### ...and the benefits are real.
-
-A Federal Reserve Bank of St. Louis study found over half of AI users save 3+ hours per week, and a Harvard study found knowledge workers using AI produced 40% higher quality work.
-
-##### Usage correlates with education...
-
-More than half of workplace AI users engage four or more days a week. In the last year, daily usage has doubled (Stanford).
-
-##### ...and skews younger.
-
-Employees 18-29 are more than twice as likely to use ChatGPT at work as those over 50. 
-
 * * *
 
 ## Who uses ChatGPT in the enterprise
 
-#### ChatGPT is being adopted across industries
+### ChatGPT is being adopted across industries
 
 AI adoption isn’t unfolding evenly across the economy. Workers in some industries have moved quickly to embed ChatGPT into their operations, while others are proceeding more slowly. By looking at which sectors are embracing the tool fastest, we can see both the near-term opportunities and the areas where adoption may take longer to gain traction. 
 
@@ -126,7 +158,7 @@ Healthcare is a special case. Despite being one of the largest and most data-int
 
 ![Abstract, grainy gradient image with no distinct objects. Soft pastel colors blend horizontally, transitioning from pale lavender and light pink at the top to brighter pinks and purples in the middle, and fading into deeper blue and dark gray tones near the bottom, evoking a hazy sunset or atmospheric horizon.](https://images.ctfassets.net/kftzwdyauwt9/4jw7O0DGxOqj9YcSfayg0V/60e61393888e00784b65ecfd3c020f52/Gradient_Media.png?w=3840&q=90&fm=webp)
 
-#### How departments use ChatGPT in their first 90 days
+### How departments use ChatGPT in their first 90 days
 
 Adoption patterns vary across departments, but a few themes stand out. In the first three months, four categories dominate usage: writing, research, programming, and analysis. Together, they account for the majority of messages sent. This variety highlights the flexibility of ChatGPT; teams turn to it to draft communications, gather and synthesize information, write code, and interpret data.
 
@@ -134,61 +166,17 @@ Technical teams are among the heaviest users, with analytics, engineering, and I
 
 IT teams lean most heavily on research and troubleshooting, often using ChatGPT as an information resource before moving into automation.
 
-#### Top tasks for ChatGPT technical users
-
-#### Analytics
-
-  1. 1
-
-Coding
-  2. 2
-
-Writing
-  3. 3
-
-Research
-
-
-
-#### Engineering
-
-  1. 1
-
-Coding
-  2. 2
-
-Research
-  3. 3
-
-Writing
-
-
-
-#### IT
-
-  1. 1
-
-Coding
-  2. 2
-
-Research
-  3. 3
-
-Writing
-
-
+### Top tasks for ChatGPT technical users
 
 Example prompt for coding
 
-[PromptPlease review the following code and suggest improvements and bug fixes.](<https://chatgpt.com/?prompt=Please%20review%20the%20following%20code%20and%20suggest%20improvements%20and%20bug%20fixes.>)
-
-_Note: the above synthetic prompt is an example written specifically for this report solely for illustrative purposes_
+ _Note: the above synthetic prompt is an example written specifically for this report solely for illustrative purposes_
 
 People in go-to-market roles, including marketing, communications, sales, and customer experience, are also major adopters. These functions rely on ChatGPT primarily for writing, research, creative ideation, and media generation. 
 
 Across functions, the early usage pattern is consistent: AI is augmenting expertise, not replacing it. Engineers are iterating on prompts to debug code and generate unit tests. Analysts are using chain-of-thought prompting to clean and interpret datasets. Customer support teams are drafting thoughtful, brand-aligned responses. The common thread is that ChatGPT is extending the reach of specialized skills and becoming a partner in core workflows.
 
-#### How Departments Used ChatGPT Enterprise in their First 90 Days
+### How Departments Used ChatGPT Enterprise in their First 90 Days
 
 ![Heatmap table showing how ChatGPT use cases vary by capability and department. Rows list capabilities such as Writing & text generation, Factual & how-to, Computer programming, Media generation & analysis, Data analysis, Creative ideation, Translation, and others. Columns represent departments including Analytics, Engineering, IT, Research, Product, Sales, Marketing, Design, Operations, Finance, Legal, HR, Project management, and Administrative. Each cell shows a percentage and is shaded light to dark blue, with darker colors indicating higher usage. Writing & text generation is the most common use across nearly all departments, reaching about 40–50% in Marketing, Comms, HR, Project management, and Administrative roles. Programming is most prominent in Engineering and IT, while other capabilities appear at lower, more evenly distributed levels.](https://images.ctfassets.net/kftzwdyauwt9/6IdnOFLOG9JV3uiSOoM2Dl/bff44b57b3aad6f7991c057804da6b92/Chart_Media.png?w=3840&q=90&fm=webp)
 
@@ -203,7 +191,7 @@ Good writing is no longer a specialist function reserved for content teams. With
 
 Design teams stand out for their use of media generation, relying on it 2–4x more than other groups. The heavy use in these functions for core work tasks highlights an emerging role for ChatGPT beyond text. 
 
-#### Top tasks for ChatGPT go-to-market users
+### Top tasks for ChatGPT go-to-market users
 
   1. Writing
 
@@ -215,8 +203,6 @@ Design teams stand out for their use of media generation, relying on it 2–4x m
 
 
 All go-to-market teams use ChatGPT most for writing, research and media generation tasks, but in different ways. Here are some sample prompts indicating the type of queries we're seeing:
-
-[MarketingReturn 5 messaging ideas for how to market my product to finance teams.](<https://chatgpt.com/?prompt=Return%205%20messaging%20ideas%20for%20how%20to%20market%20my%20product%20to%20finance%20teams.>)[SalesYou are VP of Marketing at a prospect and I am selling an email deliverability platform, give me 5 objections you might have.](<https://chatgpt.com/?prompt=You%20are%20VP%20of%20Marketing%20at%20a%20prospect%20and%20I%20am%20selling%20an%20email%20deliverability%20platform,%20give%20me%205%20objections%20you%20might%20have.>)[CommunicationsDraft an announcement for a new company-wide sustainability initiative.](<https://chatgpt.com/?prompt=Draft%20an%20announcement%20for%20a%20new%20company-wide%20sustainability%20initiative.>)[Customer experienceIdentify the top issues in support tickets related to our mobile app and recommend solutions.](<https://chatgpt.com/?prompt=Identify%20the%20top%20issues%20in%20support%20tickets%20related%20to%20our%20mobile%20app%20and%20recommend%20solutions.>)
 
 _Note: the above synthetic prompts are examples written specifically for this report solely for illustrative purposes_
 
@@ -238,49 +224,7 @@ Two opportunities emerge from this data. First, advanced features remain underus
 
 Second, early champions in analytics, IT, legal, and engineering are already pushing into more complex workflows. As enablement programs expand and product improvements lower the barrier to entry, adoption will likely shift from core daily tasks toward deeper reasoning and collaborative workflows that reshape decision-making across the enterprise. 
 
-#### Top 3 tools used within ChatGPT by job category
-
-#### R&D
-
-  1. 1
-
-Search
-  2. 2
-
-Data analysis
-  3. 3
-
-Image upload
-
-
-
-#### Go-to-market
-
-  1. 1
-
-Search
-  2. 2
-
-Data analysis
-  3. 3
-
-Retrievel
-
-
-
-#### Administrative
-
-  1. 1
-
-Search
-  2. 2
-
-Data analysis
-  3. 3
-
-File upload
-
-
+### Top 3 tools used within ChatGPT by job category
 
 * * *
 
@@ -349,9 +293,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -388,6 +332,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 

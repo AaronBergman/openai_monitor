@@ -26,16 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Prompt pack for ChatGPT Enterprise
-
-  * Prompt pack for ChatGPT Enterprise
-  * Pre-built GPTs
-  * On-demand webinar
-  * Guides and whitepapers
-  * Get started
-
-
-
 April 10, 2026
 
 OpenAI Academy
@@ -47,6 +37,30 @@ Explore resources to evaluate, deploy, and scale AI in regulated financial envir
 Loading…
 
 Share
+
+Prompt pack for ChatGPT Enterprise
+
+  * Prompt pack for ChatGPT Enterprise
+
+  * On-demand webinar
+
+  * Guides and whitepapers
+
+  * Get started
+
+
+
+
+  * Prompt pack for ChatGPT Enterprise
+
+  * On-demand webinar
+
+  * Guides and whitepapers
+
+  * Get started
+
+
+
 
 This page brings together essential resources to help financial institutions evaluate, adopt, and scale AI in regulated environments. Whether you’re exploring early use cases or supporting teams already deploying AI, these tools, guides, and examples are designed to help you move forward with confidence.
 
@@ -68,16 +82,6 @@ These prompts are built to accelerate time-to-value while maintaining clarity, c
 
 [Get ChatGPT Enterprise prompt packs⁠(opens in a new window)](<https://cdn.openai.com/pdf/b96a6047-53b2-43bd-85b9-44885cf4007a%20/chatgpt-enterprise-prompt-pack-for-financial-services.pdf>). 
 
-## Pre-built GPTs
-
-GPTs are purpose-built AI assistants that follow defined instructions and guardrails, helping ensure analysis and decisions are consistent. They’re easy to create and can be adapted to your own workflows. We’ve built three examples to help you get started.
-
-**GPT**| **Use case**  
----|---  
-[KYC / AML Risk Screener GPT⁠(opens in a new window)](<https://chatgpt.com/g/g-69389cdd6630819180059b57e9ff0062-kyc-aml-risk-screener>)| Support customer due diligence and risk screening with structured analysis and consistent decision support.  
-[Policy Interpreter GPT⁠(opens in a new window)](<https://chatgpt.com/g/g-69389da64f78819180276f05e4241f36-policy-interpreter-gpt>)| Analyze and interpret internal policies and regulatory text with traceable, explainable outputs.  
-[Investment Research Assistant GPT⁠(opens in a new window)](<https://chatgpt.com/g/g-69389d6d21f481918007b589a33f25bf-investment-research-assistant>)| Performs structured, source-backed investment and market research using multi-turn web analysis.  
-  
 ## On-demand webinar
 
 Watch how financial institutions are applying AI in practice.
@@ -112,15 +116,15 @@ Discover additional guides and resources to help you build practical AI skills.
 
 ![Academy > Finance > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/5oD5aOV77eWiWp6ZLigAVN/d6ea39d836ba4832394f25e3e3fcc9e4/finance.png?w=3840&q=90&fm=webp)
 
-[ChatGPT for finance teamsOpenAI AcademyApr 10, 2026](</academy/finance/>)
+[ChatGPT for finance teams | OpenAIOpenAI AcademyApr 10, 2026](</academy/finance/>)
 
 ![Academy > Sales > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/1R29scy3v5zFLkNH0KaSVt/b8cf3723aecd035b28ce13081f5410cf/sales.png?w=3840&q=90&fm=webp)
 
-[ChatGPT for sales teamsOpenAI AcademyApr 10, 2026](</academy/sales/>)
+[ChatGPT for sales teams | OpenAIOpenAI AcademyApr 10, 2026](</academy/sales/>)
 
 ![Academy > Operations > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/66loCrCRxCGAdv5ElN6vc9/d844920d80ae903617bd7336fa6d99cc/operations.png?w=3840&q=90&fm=webp)
 
-[ChatGPT for operations teamsOpenAI AcademyApr 10, 2026](</academy/operations/>)
+[ChatGPT for operations teams | OpenAIOpenAI AcademyApr 10, 2026](</academy/operations/>)
 
 Research
 
@@ -132,9 +136,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -171,6 +175,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 

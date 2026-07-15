@@ -45,7 +45,7 @@ Switch cards to show Media
 
 Switch cards to hide Media
 
-![SHARP 1x1 COMBINE](https://images.ctfassets.net/kftzwdyauwt9/6yOmkiVrFE8fk9ciEdFLyt/6cec40169a9c3d33c82b7a2935050d9e/SHARP_1x1_COMBINE.png?w=3840&q=90&fm=webp)
+![Two people stand beside a large red combine harvester in an open, harvested field under a wide blue sky.](https://images.ctfassets.net/kftzwdyauwt9/6yOmkiVrFE8fk9ciEdFLyt/6cec40169a9c3d33c82b7a2935050d9e/SHARP_1x1_COMBINE.png?w=3840&q=90&fm=webp)
 
 [Small businesses are getting more done with ChatGPTChatGPTFeb 4, 2026](</index/small-business-stories/>)
 
@@ -61,6 +61,10 @@ Switch cards to hide Media
 
 [First look at GPT-5ChatGPTAug 7, 2025](</index/gpt-5-first-look/>)
 
+![Fishing for first timers > Cover](https://images.ctfassets.net/kftzwdyauwt9/6cl3M6bIMNc5gIRSsJCQT4/92a5e4927ab415cee7a364320384a94d/Fishing_for_first_timers.jpg?w=3840&q=90&fm=webp)
+
+[Catching halibut with ChatGPTChatGPTFeb 4, 2025](</index/fishing-for-first-timers/>)
+
 ![Ten tiny canvases > Media > Cover](https://images.ctfassets.net/kftzwdyauwt9/16VYfNV8RPoKM0nqEG4OrP/5ba2052acfb2a64a141ad161f5b92a38/Ten_tiny_canvases_.jpg?w=3840&q=90&fm=webp)
 
 [Creating nail art with ChatGPTChatGPTFeb 4, 2025](</index/ten-tiny-canvases/>)
@@ -69,21 +73,17 @@ Switch cards to hide Media
 
 [Building a custom math tutor powered by ChatGPTChatGPTFeb 4, 2025](</index/my-dog-the-math-tutor/>)
 
-![Fishing for first timers > Cover](https://images.ctfassets.net/kftzwdyauwt9/6cl3M6bIMNc5gIRSsJCQT4/92a5e4927ab415cee7a364320384a94d/Fishing_for_first_timers.jpg?w=3840&q=90&fm=webp)
-
-[Catching halibut with ChatGPTChatGPTFeb 4, 2025](</index/fishing-for-first-timers/>)
-
-![oai deep-research bain](https://images.ctfassets.net/kftzwdyauwt9/5tCYZqzCTYSDtYiIjx61FJ/2369d97a94e3777fa6405838b739b585/oai_deep-research_bain.png?w=3840&q=90&fm=webp)
+![Reem Anchassi uses OpenAI deep research](https://images.ctfassets.net/kftzwdyauwt9/5tCYZqzCTYSDtYiIjx61FJ/2369d97a94e3777fa6405838b739b585/oai_deep-research_bain.png?w=3840&q=90&fm=webp)
 
 [Understanding complex trends with deep researchChatGPTFeb 2, 2025](</index/deep-research/>)
-
-![Mario Krenn: OpenAI o1 & Quantum Physics](https://images.ctfassets.net/kftzwdyauwt9/5sXVoGJVlIpJGynfoaV8vx/8278683ee7b976c7ae1082bb74dbce61/quantum-physics-o1.png?w=3840&q=90&fm=webp)
-
-[Answering quantum physics questions with OpenAI o1ChatGPTSep 12, 2024](</index/o1-quantum-physics/>)
 
 ![Catherine Brownstein: OpenAI o1 & Genetics](https://images.ctfassets.net/kftzwdyauwt9/4W3BBKMuSvPTChFJElmtxI/ef544757c0e832ec57a9d2330c53399d/Media_4.png?w=3840&q=90&fm=webp)
 
 [Decoding genetics with OpenAI o1ChatGPTSep 12, 2024](</index/o1-genetics/>)
+
+![Mario Krenn: OpenAI o1 & Quantum Physics](https://images.ctfassets.net/kftzwdyauwt9/5sXVoGJVlIpJGynfoaV8vx/8278683ee7b976c7ae1082bb74dbce61/quantum-physics-o1.png?w=3840&q=90&fm=webp)
+
+[Answering quantum physics questions with OpenAI o1ChatGPTSep 12, 2024](</index/o1-quantum-physics/>)
 
 ![Tyler Cowen: OpenAI o1 & Economics](https://images.ctfassets.net/kftzwdyauwt9/RjA6hgCo6gPVKY91jdzg6/55bca90ce0324efd1e11ff24a0d455a6/Economics_and_reasoning_with_o1.jpg?w=3840&q=90&fm=webp)
 
@@ -103,9 +103,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -142,6 +142,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 

@@ -34,7 +34,13 @@ OpenAI
 
 [Visit website(opens in a new window)](<https://www.cgi.com>)
 
-CGI is one of the world's largest independent IT and business consulting services firms, helping organisations accelerate digital transformation and realise measurable value from AI. With deep expertise across government, financial services, healthcare, telecommunications, manufacturing and other regulated industries, CGI combines industry knowledge, data, technology and responsible AI practices to help clients move confidently from strategy to enterprise scale execution. Through our partnership with OpenAI, we design, deploy and scale secure agentic AI solutions that accelerate innovation, improve productivity, and deliver measurable business outcomes.
+CGI is one of the world's largest independent IT and business consulting services firms, helping organisations accelerate digital transformation and realise measurable value from AI.
+
+With deep expertise across government, financial services, healthcare, telecommunications, manufacturing and other regulated industries, CGI combines industry knowledge, data, technology and responsible AI practices to help clients move confidently from strategy to enterprise scale execution.
+
+Through our partnership with OpenAI, we design, deploy and scale secure agentic AI solutions that accelerate innovation, improve productivity, and deliver measurable business outcomes.
+
+![Advanced Partner](/images/partner-tier-badges/OAI_PartnerNetwork_AdvancedPartner.svg?dpl=dpl_Bt2QvgNvrDjuduwqx5NPqQxCos4N)
 
 Countries served
     Global

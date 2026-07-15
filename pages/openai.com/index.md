@@ -32,11 +32,11 @@ Message ChatGPT
 
 [Learn about ChatGPT Business](</business/>)[Talk with ChatGPT](<https://chatgpt.com/?mode=voice>)[Research](</research/>)[API Platform](</api/>)More
 
-![""](//images.ctfassets.net/kftzwdyauwt9/5uOBQ9CN3HA6yzWugjzzYZ/d65727d40c567318f9b366349a1b12a3/OAI_ChatGPTWork_ModelBlog_OpenGraph_16x9_1200x630.png?w=3840&q=90&fm=webp)
+![""](//images.ctfassets.net/kftzwdyauwt9/5uOBQ9CN3HA6yzWugjzzYZ/b5fe018bce4814a145bb9c8e57422db6/gpt-5-6-poster.png?w=3840&q=90&fm=webp)
 
 [GPT-5.6: Frontier intelligence that scales with your ambitionProduct18 min read](</index/gpt-5-6/>)
 
-![""](//images.ctfassets.net/kftzwdyauwt9/5uOBQ9CN3HA6yzWugjzzYZ/d65727d40c567318f9b366349a1b12a3/OAI_ChatGPTWork_ModelBlog_OpenGraph_16x9_1200x630.png?w=3840&q=90&fm=webp)
+![""](//images.ctfassets.net/kftzwdyauwt9/5uOBQ9CN3HA6yzWugjzzYZ/b5fe018bce4814a145bb9c8e57422db6/gpt-5-6-poster.png?w=3840&q=90&fm=webp)
 
 [GPT-5.6: Frontier intelligence that scales with your ambitionProduct18 min read](</index/gpt-5-6/>)
 

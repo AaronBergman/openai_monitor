@@ -41,20 +41,28 @@ Share
 Walter, today, every part of the newsroom at CNA is using AI. Looking back to when you were first starting this journey, what was the vision you had, and how does it compare to where you are today?
 
   * Walter, today, every part of the newsroom at CNA is using AI. Looking back to when you were first starting this journey, what was the vision you had, and how does it compare to where you are today?
+
   * I find it especially interesting that you started experimenting back in 2019. Adopting AI is very much about experimentation and learning. Among all the ways you’re using AI, what’s one major example you can share?
+
   * That’s a powerful example. And for citizens, having accurate, timely information during elections is critical. But I remember that at the beginning, there was some hesitation in your newsroom about AI tools. How did you shift the culture and get buy-in?
+
   * One of the things I’ve noticed is how your newsroom has changed—not just workflows, but culture. Looking ahead, not just for CNA but for the media industry globally, how do you see AI adoption evolving?
+
   * What message would you share with your peers across APAC? 
 
 
 
-Table of contents
 
   * Walter, today, every part of the newsroom at CNA is using AI. Looking back to when you were first starting this journey, what was the vision you had, and how does it compare to where you are today?
+
   * I find it especially interesting that you started experimenting back in 2019. Adopting AI is very much about experimentation and learning. Among all the ways you’re using AI, what’s one major example you can share?
+
   * That’s a powerful example. And for citizens, having accurate, timely information during elections is critical. But I remember that at the beginning, there was some hesitation in your newsroom about AI tools. How did you shift the culture and get buy-in?
+
   * One of the things I’ve noticed is how your newsroom has changed—not just workflows, but culture. Looking ahead, not just for CNA but for the media industry globally, how do you see AI adoption evolving?
+
   * What message would you share with your peers across APAC? 
+
 
 
 
@@ -142,9 +150,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -181,6 +189,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 

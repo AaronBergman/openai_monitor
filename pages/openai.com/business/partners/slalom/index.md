@@ -1,28 +1,28 @@
 Skip to main content
 
-[](</>)
+[](</>)[](</business/>)
 
-  * [Research](</research/index/>)
+  * Why OpenAI
   * Products
-  * [Business](</business/>)
-  * [Developers](</api/>)
-  * [Company](</about/>)
-  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
+  * Solutions
+  * Resources
+  * [Customers](</business/customer-stories/>)
+  * [Pricing](</business/pricing/>)
 
 
 
-Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
+Try OpenAI[Contact sales](</contact-sales/>)
 
-  * Research
+  * Why OpenAI
   * Products
-  * Business
-  * Developers
-  * Company
-  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
+  * Solutions
+  * Resources
+  * [Customers](</business/customer-stories/>)
+  * [Pricing](</business/pricing/>)
 
 
 
-[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)Login
+[Contact sales](</contact-sales/>)Try OpenAI
 
 OpenAI
 
@@ -35,6 +35,8 @@ OpenAI
 [Visit website(opens in a new window)](<https://www.slalom.com/us/en>)
 
 Slalom is a fiercely human business and technology consulting company that leads with outcomes and helps organizations realize what's possible with AI. As an OpenAI services partner, we partner with leaders from strategy through delivery to build AI solutions that create value today while preparing for what's next. Whether modernizing software development with Codex, reimagining customer and employee experiences, or bringing new AI-powered products to market, we help organizations innovate with confidence, adopt AI responsibly, and create lasting impact for their business, their customers, and their people.
+
+![Advanced Partner](/images/partner-tier-badges/OAI_PartnerNetwork_AdvancedPartner.svg?dpl=dpl_Bt2QvgNvrDjuduwqx5NPqQxCos4N)
 
 Countries served
     Global

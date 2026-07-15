@@ -115,7 +115,7 @@ OpenAI
 
 ## Related articles
 
-![EF Uber Web Card 1.1](https://images.ctfassets.net/kftzwdyauwt9/6iZlnDQd7XJnOzVKqimqhm/50a382dc31a9cf028428a2d565caeb63/EF_Uber_Web_Card_1.1.png?w=3840&q=90&fm=webp)
+![An image of artfully rendered waveform with "Ep 03" written atop. ](https://images.ctfassets.net/kftzwdyauwt9/6iZlnDQd7XJnOzVKqimqhm/50a382dc31a9cf028428a2d565caeb63/EF_Uber_Web_Card_1.1.png?w=3840&q=90&fm=webp)
 
 [Uber enables outstanding on-demand experiences with AIFeb 20, 2025](</index/uber-enables-outstanding-experiences/>)
 
@@ -137,9 +137,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -176,6 +176,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 

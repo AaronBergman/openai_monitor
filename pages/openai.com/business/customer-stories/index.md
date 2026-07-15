@@ -26,6 +26,14 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 OpenAI
 
+New
+
+### Introducing ChatGPT Work: 
+
+A new agent in ChatGPT that helps teams turn ambitious goals into finished work—with enterprise controls and governance built in.
+
+[Learn more](</chatgpt-work/>)
+
 Customer stories
 
 # How leading companies are putting intelligence to work
@@ -132,6 +140,10 @@ Customer stories
 
 Filter
 
+![deutsche telekom art card](https://images.ctfassets.net/kftzwdyauwt9/2iYZomUxcCPSikL5KsftP2/a3de110c6af0d68c342b60cee47091d1/oai_Deutsche_Telekom1x1.png?w=3840&q=90&fm=webp)
+
+[How Deutsche Telekom is rewiring telecommunications with AIJul 10, 2026](</index/deutsche-telekom/>)
+
 ![Australian Payments Plus hero 1x1](https://images.ctfassets.net/kftzwdyauwt9/4dOzo0MCH8IYZpHDieNgbg/8c27d9ee088b65ed45bef5a097c800e6/oai_Australian_Payments_Plus_1x1.png?w=3840&q=90&fm=webp)
 
 [Australian Payments Plus moves faster with ChatGPT and CodexJul 7, 2026](</index/australian-payments-plus/>)
@@ -176,10 +188,6 @@ Filter
 
 [Travelers deploys AI-powered claims countrywide with OpenAIJun 2, 2026](</index/travelers/>)
 
-![Boston Children’s Hospital card image](https://images.ctfassets.net/kftzwdyauwt9/4ROfsRLHlfzYGOnvawnoKG/ced960114b4b5c599cd1394513403b31/boston-childrens-card-1x1.png?w=3840&q=90&fm=webp)
-
-[Boston Children’s uses AI to unlock new diagnosesMay 29, 2026](</index/boston-childrens-hospital/>)
-
 Load more
 
 Research
@@ -192,9 +200,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
