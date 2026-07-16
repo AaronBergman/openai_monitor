@@ -144,13 +144,13 @@ Filter
 
 [How Deutsche Telekom is rewiring telecommunications with AIJul 10, 2026](</index/deutsche-telekom/>)
 
-![Australian Payments Plus hero 1x1](https://images.ctfassets.net/kftzwdyauwt9/4dOzo0MCH8IYZpHDieNgbg/8c27d9ee088b65ed45bef5a097c800e6/oai_Australian_Payments_Plus_1x1.png?w=3840&q=90&fm=webp)
-
-[Australian Payments Plus moves faster with ChatGPT and CodexJul 7, 2026](</index/australian-payments-plus/>)
-
 ![MUFG customer story 1x1 hero and card image](https://images.ctfassets.net/kftzwdyauwt9/NuwuwCk19PIxGLHg92dkW/92c24518bb5432f9491b801b006fa7e4/oai_MUFG_1x1.png?w=3840&q=90&fm=webp)
 
 [MUFG aims to become AI-native with OpenAIJul 7, 2026](</index/mufg/>)
+
+![Australian Payments Plus hero 1x1](https://images.ctfassets.net/kftzwdyauwt9/4dOzo0MCH8IYZpHDieNgbg/8c27d9ee088b65ed45bef5a097c800e6/oai_Australian_Payments_Plus_1x1.png?w=3840&q=90&fm=webp)
+
+[Australian Payments Plus moves faster with ChatGPT and CodexJul 7, 2026](</index/australian-payments-plus/>)
 
 ![Omio > oai omio 1x1 card](https://images.ctfassets.net/kftzwdyauwt9/2nAmJWUrmCwC3avCecsdYa/34ddcd27c1c89aae828a7e91539b29df/oai_Omio_1x1.png?w=3840&q=90&fm=webp)
 
@@ -274,6 +274,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

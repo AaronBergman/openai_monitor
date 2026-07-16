@@ -30,13 +30,9 @@ Select language
 
 …
 
-Updated: June 4, 2026
+Updated: July 15, 2026
 
 # Ad policies
-
-** _May 2026 update:_** A new section explains what standards we apply, how we implement these standards, and what happens when ads don’t meet our safety bar.  
-**_  
-April 2026 update_** _:_ We refined our ads placement policy to apply a more precise approach in some regulated-advice contexts. Medical, legal, and financial advice contexts are no longer categorically blocked from ads by default. Sensitive conversations and other prohibited contexts remain ineligible for ads.
 
 ## 1\. Ad placement policy 
 
@@ -128,11 +124,26 @@ Ads promoting non-genuine products that copy or substantially imitate another br
 
 ### Financial services
 
-Ads for financial products and services are restricted. At this time, we may allow ads from approved financial advertisers.
+Ads for financial products and services are restricted. In the US, we may allow ads from approved financial advertisers on a case-by-case basis for:
 
-Additionally, financial tools that do not promote financial products or transactions may be permitted. Examples include budgeting apps, general financial software, and educational courses or materials about finance that do not include offers for financial services.
+  * Auto loans and leasing
+  * Credit cards
+  * Credit monitoring
+  * Deposit accounts
+  * Financial planning
+  * Insurance
+  * Investment services and brokerages
+  * Mortgages
+  * Personal loans
+  * Payment services
 
-Ads for cryptocurrency, credit repair, debt settlement, and debt assistance services are disallowed. 
+
+
+Advertisers may be required to provide proof of licensure.
+
+Financial tools that do not promote financial products or transactions are generally permitted. Examples include budgeting apps, general financial software, and finance-related educational courses or materials that do not offer financial services.
+
+We do not allow ads for credit repair, debt settlement, debt assistance, or alternative investments such as bullion. Ads for financial services outside the US are generally prohibited.
 
 ### Gambling
 
@@ -146,11 +157,27 @@ Ads must not include explicit sexual content or graphic violence. Sexually expli
 
 Ads must also not depict graphic or realistic violence, including gore, severe injury, or death against humans or animals, particularly when presented for shock or sensationalism. Age-restricted entertainment (e.g., R-rated films, M-rated games) may be advertised if the ad creative and landing page are non-explicit and non-graphic. Stylized or cartoon violence without gore may also be allowed.
 
-### Healthcare & medicine
+### Health services
 
-Ads for regulated medical products, services, or claims involving the prevention, diagnosis, or treatment of physical or mental health conditions are currently disallowed. This includes prescription drugs, clinical care providers, hospitals, prescription services, over-the-counter medications, and other medical products or services offered through healthcare providers or insurance networks.
+Ads for regulated medical products and services, or claims related to the prevention, diagnosis, or treatment of physical or mental health conditions, are restricted. Ads for health services outside the US are generally prohibited. In the US, we may allow ads from approved advertisers on a case-by-case basis for:
 
-General health and wellness products that do not make medical claims may be permitted, such as fitness equipment, wearable devices, menstrual products, or incidental references to health or self-care. Health-related products that make unregulated wellness claims may be evaluated under the _Wellness Claims_ policy. 
+  * Consumer medical devices, wearables, and apps
+  * Dental services
+  * Dietary supplements
+  * Disease awareness campaigns that do not advocate for public policy
+  * Health insurance
+  * Hospitals and urgent care
+  * Medical testing and diagnostic products and services
+  * Minimally invasive cosmetic procedures
+  * Vision products and services
+
+
+
+Eligible ads must be lawful, factual, responsibly presented, and subject to appropriate review and compliance controls. Advertisers may be required to provide proof of licensure.
+
+We do not allow ads for unsafe or unapproved medical products; unsupported treatment claims; experimental or investigational therapies; invasive or high-risk medical procedures; adult-oriented sexual health services; or health-related products that exploit body-image concerns, distress, or other vulnerabilities.
+
+General health and wellness products that do not make medical claims may be permitted, including fitness equipment, wearable devices, menstrual products, and content with incidental references to health or self-care. Products that make unregulated health or wellness claims may be evaluated under the Wellness Claims policy.
 
 ### Legal services
 
@@ -190,51 +217,91 @@ During the early phases of advertising, we are focused on a limited set of consu
 
 We expect to expand eligible categories over time as our safeguards, review systems, and compliance infrastructure mature.
 
-## 3\. Ad integrity
+## 3\. Advertiser policies
+
+To advertise on OpenAI, advertisers must meet standards designed to protect users, maintain trust, and preserve the integrity of our services. These requirements apply throughout an advertiser's use of OpenAI Ads. We may restrict or remove advertisers that violate these policies.
+
+### Advertiser identity
+
+**Truthful identity and affiliation:** Advertisers must provide accurate information about their business identity, ownership, and affiliations. They may not misrepresent their relationship with another individual, organization, or brand.
+
+**Intellectual property and brand use:** Advertisers may use only the trademarks, logos, brand assets, and other intellectual property they own or are authorized to use. Advertisers may not impersonate another business or create a misleading impression of endorsement, sponsorship, or affiliation.
+
+**Destination integrity:** Ads must lead users to destinations that clearly relate to the advertiser and the offer being promoted. Landing pages and destinations must accurately represent the advertiser, product, or service described in the ad and may not mislead users through deceptive practices.
+
+### Advertiser trustworthiness
+
+**Abuse of OpenAI Ads:** Advertisers may not defraud the OpenAI Ads platform or attempt to circumvent our policies or enforcement processes. This includes activities intended to undermine the integrity or security of our advertising ecosystem.
+
+**Business conduct:** Advertisers are responsible for protecting consumers by maintaining safe and honest business practices. They must not engage in fraud, deception, or the promotion or sale of unsafe products or services.
+
+**Required qualifications:** Advertisers promoting products or services that require professional registrations, licenses, certifications, or similar authorizations must maintain those credentials and comply with applicable laws and regulations.
+
+### Advertiser eligibility 
+
+**Eligible products and services:** Advertisers may promote only products and services that are permitted under our Ads Content Policies. Advertisers whose primary business model or offerings fall within restricted or prohibited categories (e.g., healthcare, weapons) may be ineligible to advertise on our platform. 
+
+**Geographic compliance:** Advertisers must comply with applicable legal and policy requirements in the regions where they operate and target advertising. They may not misrepresent their business location, service area, or eligibility to advertise in particular markets.
+
+## 4\. Ad integrity
 
 We’re building advertising in ChatGPT with a clear purpose: help make powerful AI accessible to more people while giving businesses of all sizes—from SMBs and startups to global brands—new ways to grow.
 
-From the start, we’ve taken a [_transparent and principled approach_ ⁠](<https://openai.com/index/our-approach-to-advertising-and-expanding-access/>) to our advertising business, with clear policies and processes that determine who can run ads, what kinds of ads are allowed, and where they can appear.
+From the start, we’ve taken a [_transparent and principled approach_ ⁠](<https://openai.com/index/our-approach-to-advertising-and-expanding-access/>) to our advertising business, with clear policies and processes that determine who can run ads, where they can appear, and what kinds of ads are allowed.
 
-This section explains what standards we apply, how we implement these standards, and what happens when ads don’t meet our safety bar.
+This section explains how we implement these standards, including how we review and monitor ads, what standards we apply, and what happens when ads don’t meet our safety bar.
 
 ### Review scope
 
 Our review process evaluates the full ad experience at three levels:
 
-  * **Advertisers:** When advertisers sign up on our ads manager platform, we verify their business and assess whether they fit within our allowed policy categories, and can safely participate in our ads ecosystem. We may also evaluate account quality and risk signals associated with scams, fraud, abuse, or deceptive behavior. 
-  * **Ad creative and landing pages** : When an ad is uploaded, we review the title, copy, media, and landing page for compliance with our policies. Ads are rejected if any of these assets promote or meaningfully reference disallowed policy categories (e.g., weapons, alcohol, deceptive practices), contain landing pages that do not match the products or services depicted in the ad creative, or otherwise violate our baseline policy standards.
-  * **Placement:** As a final step, we ensure approved ads only appear in relevant conversations that comply with our placement policy⁠.
+  * **Advertisers:** When advertisers sign up on our ads manager platform, we assess whether they are legitimate businesses, comply with our advertiser eligibility requirements, and can safely participate in our ads ecosystem. This may include advertiser verification, account quality assessments, and analysis of risk signals associated with scams, fraud, abuse, or deceptive behavior.
+  * **Ad creative and landing pages** : When an ad is uploaded, we review the title, copy, media, and landing page for compliance with our policies. Ads are rejected if any of these assets promote or meaningfully reference disallowed policy categories (e.g., weapons, alcohol, deceptive practices) or otherwise violate our baseline policy standards.
+  * **Placement:** As a final step, we ensure approved ads only appear in conversations that comply with our placement policy.
 
 
 
-### Review process
+### Review & monitoring
 
-Most reviews are conducted through scaled AI systems with human oversight and calibration. Ads or landing pages that cannot be reviewed or evaluated by our systems are not eligible to run.
+Most reviews are conducted through automated systems with human oversight and calibration. 
 
-  * **Scaled review:** We use machine learning systems, including LLMs and classifiers, to review creatives, landing pages, and advertiser signals for policy compliance before ads are approved for distribution.
-  * **Human oversight** : We also use human review for borderline cases, complex policy areas, and high-severity violations. Reviewer feedback helps calibrate our systems over time, and we continuously refine our processes to improve accuracy and consistency.
-  * **Additional safeguards** : Restricted categories (e.g. financial services) may require additional safeguards, including enhanced advertiser verification or manual review.
+  * We use machine learning systems, including LLMs and classifiers, to review ads, landing pages, and advertiser signals for policy compliance before ads are eligible to run
+  * Some decisions are escalated for human review based on severity, confidence, or potential risk.
+  * Restricted categories (e.g. financial services) may require additional safeguards, including enhanced advertiser verification or manual review.
+  * Ads or landing pages that cannot be reviewed or evaluated by our systems are not eligible to run.
 
 
 
-### Monitoring & enforcement
+Review doesn’t stop once an ad is approved. We continuously monitor ads and advertiser activity using a combination of user feedback, automated metrics, and ongoing quality evaluations. 
 
-When our review finds that an ad or advertiser doesn’t meet our policies or integrity standards, we take steps to protect users and our services. Depending on severity, enforcement actions may include rejecting or removing an ad, limiting delivery, requiring edits or other remediation, or restricting an advertiser’s access to ads products. Severe, repeated, or deceptive violations may result in stronger measures, including suspension or termination of advertiser accounts. 
+If we detect indicators that an ad may be unsafe, misleading, or otherwise non-compliant, we may limit delivery, escalate for additional review, remove the ad, or take broader advertiser-level action as needed. We also use these insights to improve our review systems over time and identify repeat or coordinated abuse patterns.
 
-After approval, we continue monitoring ads and advertiser activity using a combination of user feedback, automated metrics, and ongoing quality evaluations, and may take further action if we detect indicators of unsafe, misleading, or otherwise non-compliant behavior.
+### Enforcement & reporting
+
+When an ad or advertiser doesn’t meet our policies or integrity standards, we take action to protect users and our services. Depending on the issue, this may include rejecting or removing an ad, limiting delivery, requiring edits or other remediation, or restricting an advertiser’s access to ads products. Severe, repeated, or deceptive violations may result in stronger action, including suspension or termination of advertiser accounts.
+
+In addition to our own detection systems, users can [_report_ ⁠(opens in a new window)](<https://help.openai.com/en/articles/20001047-ads-in-chatgpt#how-can-i-report-or-hide-an-ad>) ads in-product that they believe are unsafe, misleading, or otherwise problematic. Advertisers and partners can also [_raise concerns_ ⁠(opens in a new window)](<https://help.openai.com/en/articles/20001220-frequently-asked-questions#where-can-i-learn-more-or-troubleshoot-issues>) through designated support or account channels. These reports help us investigate issues and improve our ads integrity over time. 
 
 ### Incident response
 
-No review system is perfect and the impact of policy-violations can be serious. For this reason, we plan for the possibility that a policy-violating ad may be shown. We proactively review user signals, users can report ads in-product they believe are unsafe, misleading, or otherwise problematic, and advertisers and partners can raise concerns through designated support or account channels. 
+No review system is perfect, so we plan for the possibility that a policy-violating ad may be shown. We use monitoring, user reports, and other risk signals to identify potential misses, then investigate, and respond based on severity.
 
-We investigate and respond based on severity. When an issue is confirmed, we act quickly to protect users—up to and including pausing the ad during investigation for higher-severity cases. After an incident, we review what happened and use what we learn to strengthen our standards, detection, and enforcement over time.
+When an issue is confirmed, we act quickly to protect users, up to and including pausing the ad during investigation for higher-severity cases. After an incident, we review what happened and use what we learn to strengthen our standards, detection, and enforcement over time.
 
 ### Responsible scaling
 
 We’re building the ChatGPT ads platform with safety and trust at the core, and we’ll keep strengthening our review, monitoring, and enforcement as the platform grows. As we expand access and capabilities, we’ll do so deliberately, using real-world performance and feedback to refine our approach.
 
 The goal is straightforward: make it possible for businesses of all sizes to use ChatGPT ads while keeping the experience useful, trustworthy, and aligned with how people rely on ChatGPT every day.
+
+## Changelog
+
+  * v1.3 (July 2026): Introduced a new section on advertiser policies and updated the financial and health services sections to clarify eligible categories and markets.
+  * v1.2 (May 2026): A new section explains what standards we apply, how we implement these standards, and what happens when ads don’t meet our safety bar.
+  * v1.1 (April 2026): We refined our ads placement policy to apply a more precise approach in some regulated-advice contexts. Medical, legal, and financial advice contexts are no longer categorically blocked from ads by default. Sensitive conversations and other prohibited contexts remain ineligible for ads.
+  * v1.0 (Mar 2026): Initial publication of the OpenAI Ads Policies.
+
+
 
 Research
 
@@ -320,6 +387,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

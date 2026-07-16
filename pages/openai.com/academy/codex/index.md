@@ -50,7 +50,7 @@ Apply Codex to core coding work and workflows.
 
 ![Academy codex landing page > Layout > Group > Topics > Cards > Start using Codex > Grid > Work faster with the Codex app > Media > Asset](https://images.ctfassets.net/kftzwdyauwt9/2X2YDuHmP1dPfrPYk8BhS6/0efa2ae4c8505afe1f8b8398938db0a4/work-faster-codex.png?w=3840&q=90&fm=webp)
 
-[Work faster with the Codex appStreamline coding workflows with the Codex app.(opens in a new window)](<https://developers.openai.com/codex/app>)
+[Work faster with Codex in the ChatGPT appStreamline coding workflows with the Codex app.(opens in a new window)](<https://developers.openai.com/codex/app>)
 
 #### Build workflows with Codex
 
@@ -194,6 +194,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

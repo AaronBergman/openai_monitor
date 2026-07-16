@@ -41,6 +41,76 @@ Filter
 
 Sort
 
+ChatGPT
+
+Jul 14, 2026
+
+GA
+
+## Search across chats, projects, images, and files in ChatGPT
+
+We’ve rolled out a new way to search your chats, projects, images, and documents in ChatGPT on web, iOS, and Android. You can quickly find past chats, projects, images, and documents from one place.
+
+Start searching from the ChatGPT sidebar to find what you need across everything, or use filters to narrow results by content type. Select a result to open the chat, project, or file directly in ChatGPT.
+
+Available on all ChatGPT plans globally.
+
+[View source(opens in a new window)](<https://help.openai.com/en/articles/6825453-chatgpt-release-notes#search-across-chats-projects-and-files-is-now-supercharged>)
+
+ChatGPT
+
+Jul 13, 2026
+
+GA
+
+## ChatGPT returns to WhatsApp in the EEA
+
+ChatGPT is available again on WhatsApp in the European Economic Area (EEA). Users can get started without a ChatGPT account by messaging the verified 1-800-CHATGPT contact at +1-800-242-8478.
+
+On WhatsApp, users can message ChatGPT, upload images, send voice notes, create images, and use ChatGPT in many languages. Linking a ChatGPT account is optional and provides higher usage limits.
+
+Availability is based on the country code associated with the user's WhatsApp number and may roll out gradually. Usage limits apply.
+
+ChatGPT is also available on Kakao in South Korea and Viber in supported markets.
+
+[View source(opens in a new window)](<https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-returns-to-whatsapp-in-the-eea>)
+
+Codex
+
+Jul 13, 2026
+
+GA
+
+## ChatGPT for iOS updates: Codex inline visualizations and task controls
+
+### New features
+
+  * Added support for inline visualizations in Codex tasks.
+
+
+
+
+### Improvements and bug fixes
+
+  * Improved creating and managing tasks from conversations, with reliable links to newly created tasks.
+
+  * Improved tool activity styling and progress indicators.
+
+  * Improved file-opening feedback.
+
+  * Improved the composer so controls remain visible above the keyboard for long prompts and larger text sizes.
+
+  * Fixed Fast mode selection and restoration for each task.
+
+  * Fixed initial prompts ignoring the selected approval preset.
+
+  * Fixed autocomplete backgrounds and task rows becoming unresponsive during swipe gestures.
+
+
+
+
+[View source(opens in a new window)](<https://developers.openai.com/codex/changelog#codex-2026-07-13-mobile>)
+
 API
 
 Jul 9, 2026
@@ -76,58 +146,6 @@ On web and mobile, Enterprise and Edu workspaces have a two-week preview period.
 The App Directory is being replaced with the Plugin Directory. Existing app connections are unaffected. Plugins can package skills, apps, and app templates for specific workflows, and are available from ChatGPT on web and desktop, including Work and Codex.
 
 [View source(opens in a new window)](<https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-chatgpt-work>)[Blog ](<https://openai.com/index/chatgpt-for-your-most-ambitious-work/>)
-
-ChatGPT
-
-Jul 9, 2026
-
-GA
-
-## ChatGPT desktop app brings Chat, Work, and Codex together
-
-The new ChatGPT desktop app is available globally for macOS and Windows. It combines Chat for questions and conversation, Work for research and finished deliverables, and Codex for software development in one app.
-
-On desktop, Work can use local files and desktop apps with user permission. The built-in browser lets ChatGPT gather information from websites and work with supported web-based tools and files. Codex adds inline editing within diffs, pull-request review in the side panel, faster Computer Use, and support for multiple repositories in one project.
-
-Existing Codex app users can update as usual and keep their projects, settings, and workflows. Users can make Codex the default view and, on macOS, keep the Codex app icon. Users of the previous ChatGPT desktop app can follow the prompt in the app to download the new version. The previous app may remain installed as ChatGPT Classic, which continues to receive model updates, bug fixes, security patches, and support for existing Enterprise capabilities, while new agent features such as Work and Codex are available in the new app.
-
-Codex-specific new features include editing Markdown and code directly in the app, using inline annotations, asking Codex to revise selected content, reviewing GitHub pull requests in the sidebar with reviewer feedback alongside the diff, and working across repositories in one project.
-
-Codex performance improvements and fixes include faster Computer Use with GPT‑5.6, clearer task activity and progress, plugin management moved into Settings, improved mobile connection reliability, fixed video rendering for SSH projects, and additional performance improvements and bug fixes.
-
-[View source(opens in a new window)](<https://help.openai.com/en/articles/6825453-chatgpt-release-notes#the-new-chatgpt-desktop-app-brings-chat-work-and-codex-together>)[Platform docs(opens in a new window)](<https://developers.openai.com/codex/changelog#codex-2026-07-09-app>)[Migration guidance (opens in a new window)](<https://help.openai.com/articles/20001276>)
-
-ChatGPT
-
-Jul 9, 2026
-
-Beta
-
-## ChatGPT Sites public beta
-
-ChatGPT Sites lets users turn work or ideas into an interactive website or lightweight app without leaving ChatGPT. Users can create dashboards, project trackers, launch calendars, prototypes, internal portals, and reports, then preview and refine the result with ChatGPT before sharing it.
-
-Business and Enterprise customers already have access to Sites. Starting today, they can also publish Sites publicly and share them with anyone through a URL, expanding Sites beyond people in their workspace.
-
-To create a Site, users start in ChatGPT Work on the web or in Work or Codex in the ChatGPT desktop app, describe what they want to build, add relevant content, files, data, links, or constraints, and review the private preview before publishing.
-
-In Enterprise workspaces, public publishing is off by default and must be enabled by an admin. Sites is also rolling out in public beta to Pro, Pro Lite, and Edu users, with Plus users following over the coming days. Sites is not available on Free or Go plans. Public publishing and the expanded beta rollout are not available in the EEA, Switzerland, or the United Kingdom at launch.
-
-[View source(opens in a new window)](<https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-chatgpt-sites-in-public-beta>)
-
-ChatGPT
-
-Jul 9, 2026
-
-Sunset
-
-## Retiring group chats in ChatGPT
-
-Beginning July 9, 2026, users on web, iOS, and Android will no longer be able to create new group chats, turn existing conversations into group chats, or join a group chat through an invite link.
-
-Existing group chats will remain available and can continue to be used for now. When an existing group chat becomes read-only, users will retain access to the messages, files, and images already shared there. Individual ChatGPT conversations are unaffected.
-
-[View source(opens in a new window)](<https://help.openai.com/en/articles/6825453-chatgpt-release-notes#retiring-group-chats-in-chatgpt>)
 
 Load more
 
@@ -215,6 +233,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)
