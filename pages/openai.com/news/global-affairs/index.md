@@ -28,6 +28,8 @@ OpenAI
 
 ## Global Affairs
 
+Explore our principles and priorities for [public policy](</company/public-policy/>).
+
   * [Company](</news/company-announcements/>)
   * [Research](</news/research/>)
   * [Product](</news/product-releases/>)
@@ -50,6 +52,10 @@ Sort
 Switch cards to show Media
 
 Switch cards to hide Media
+
+![Helping build shared standards for advanced AI - card image](https://images.ctfassets.net/kftzwdyauwt9/5bSU7ItzcBWGtWhApmmJ6X/a818a91ef36b39ed07d62566ec318760/Frame2.png?w=3840&q=90&fm=webp)
+
+[The US is advancing AI safety through state and federal actionGlobal AffairsJul 15, 2026](</index/advancing-ai-safety-through-state-and-federal-action/>)
 
 ![Our approach to government and national security partnerships > Cover image](https://images.ctfassets.net/kftzwdyauwt9/6LpyyLCqWNpiRHwFZpCP7s/30674f74a4b776306398352664a5f3cc/Frame.png?w=3840&q=90&fm=webp)
 
@@ -84,10 +90,6 @@ Switch cards to hide Media
 Industrial policy for the Intelligence Age
 
 [Industrial policy for the Intelligence AgeGlobal AffairsJun 9, 2026](</index/industrial-policy-for-the-intelligence-age/>)
-
-![oai 1x1 Biodefense in the Intelligence Age](https://images.ctfassets.net/kftzwdyauwt9/6A4rrCBs9rrlbzm9JWIvSi/8a4ae56849fcd0b16e90b59b8babc613/oai_1x1_Biodefense_in_the_Intelligence_Age.png?w=3840&q=90&fm=webp)
-
-[Biodefense in the Intelligence AgeGlobal AffairsJun 4, 2026](</index/biodefense-in-the-intelligence-age/>)
 
 Load more
 
@@ -175,6 +177,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

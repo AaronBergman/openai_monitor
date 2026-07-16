@@ -70,18 +70,6 @@ Codex
 
 Ads
 
-What content are you reporting? ( e.g., description of content) *
-
-Add URL
-
-Please include URLs where available directly to the content you are reporting.
-
-Add another URL
-
-To help us better identify the content you are reporting, you can submit a screenshot here (optional)
-
-Browse
-
 Tell us why you are reporting this content *
 
 Violence and self-harm
@@ -99,6 +87,18 @@ Spam, fraud & deception
 Privacy violation
 
 Intellectual property/Copyright/Trademark
+
+What content are you reporting? ( e.g., description of content) *
+
+Add URL
+
+Please include URLs where available directly to the content you are reporting.
+
+Add another URL
+
+To help us better identify the content you are reporting, you can submit a screenshot here (optional)
+
+Browse
 
 Additional information (optional)
 
@@ -204,6 +204,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

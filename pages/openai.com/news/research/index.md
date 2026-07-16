@@ -51,6 +51,18 @@ Switch cards to show Media
 
 Switch cards to hide Media
 
+![GPT-Red art card](https://images.ctfassets.net/kftzwdyauwt9/6q32m87ClqE8Ovn6vD424h/05ced72e47bbe42711fbac6a082cbff2/Art_Card.png?w=3840&q=90&fm=webp)
+
+[GPT-Red: Unlocking Self-Improvement for RobustnessSafetyJul 15, 2026](</index/unlocking-self-improvement-gpt-red/>)
+
+![GPT 5-6 > Card](https://images.ctfassets.net/kftzwdyauwt9/1a9IPPV5nXWydTBosgmgYI/8e03f28ca04f26edc8bc81cdba387df1/5-6.jpg?w=3840&q=90&fm=webp)
+
+[GPT-5.6: Frontier intelligence that scales with your ambitionProductJul 9, 2026](</index/gpt-5-6/>)
+
+![""](https://images.ctfassets.net/kftzwdyauwt9/2ygRvL6yUYAvtHiZYmCT8K/91195cbe6f282c24026d154fe3ac422e/System_card_1_1.png?w=3840&q=90&fm=webp)
+
+[GPT‑5.6 System CardSafetyJul 9, 2026(opens in a new window)](<https://deploymentsafety.openai.com/gpt-5-6>)
+
 ![Separating signal from noise > Art Card](https://images.ctfassets.net/kftzwdyauwt9/7j6M3prKIsTmV6cbMaHjhZ/e66f7cdd98c66c99546853cbc22cfe84/Seperating-signal-from-noise-card.png?w=3840&q=90&fm=webp)
 
 [Separating signal from noise in coding evaluationsResearchJul 8, 2026](</index/separating-signal-from-noise-coding-evaluations/>)
@@ -75,20 +87,6 @@ Switch cards to hide Media
 
 [GPT‑5.6 Preview System CardSafetyJun 26, 2026(opens in a new window)](<https://deploymentsafety.openai.com/gpt-5-6-preview>)
 
-![A near-autonomous AI chemist improves a challenging reaction](https://images.ctfassets.net/kftzwdyauwt9/QgPPg4etNE5C4Ao0G94sk/e5f2a50e5de4619d0e0fe8483698718b/molecule-one-art-card.png?w=3840&q=90&fm=webp)
-
-[A near-autonomous AI chemist improves a challenging reaction in medicinal chemistryResearchJun 17, 2026](</index/ai-chemist-improves-reaction/>)
-
-![LifeSciBench 1x1](https://images.ctfassets.net/kftzwdyauwt9/1iV0eZRf28MZRvIxYY4eLf/4379e20807f5ff44efccf518a97e480a/LifeSciBench_1x1.png?w=3840&q=90&fm=webp)
-
-[Introducing LifeSciBenchResearchJun 17, 2026](</index/introducing-life-sci-bench/>)
-
-![Art Card 1080x1080 \(3\)](https://images.ctfassets.net/kftzwdyauwt9/3JLNH7ejJFnxLmX2LpzoKD/19f9e3c4d36cc9d677ba88e842ad2db2/Art_Card_1080x1080__4_.png?w=3840&q=90&fm=webp)
-
-Better memory for a more helpful ChatGPT
-
-[Dreaming: Better memory for a more helpful ChatGPTResearchJun 4, 2026](</index/chatgpt-memory-dreaming/>)
-
 Load more
 
 Research
@@ -101,9 +99,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -175,6 +173,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

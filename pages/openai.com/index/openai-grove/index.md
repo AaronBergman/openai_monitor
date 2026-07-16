@@ -52,17 +52,17 @@ OpenAI
 
 ## Keep reading
 
-![Signals june update > Cover image](https://images.ctfassets.net/kftzwdyauwt9/6w2E1Bzj1zUr2xmW1TBK3l/1b7e0977246ac85ae1db5fbcd6eb1549/Frame.png?w=3840&q=90&fm=webp)
+![Helping build shared standards for advanced AI - card image](https://images.ctfassets.net/kftzwdyauwt9/5bSU7ItzcBWGtWhApmmJ6X/a818a91ef36b39ed07d62566ec318760/Frame2.png?w=3840&q=90&fm=webp)
 
-[How ChatGPT adoption has expandedGlobal AffairsJun 30, 2026](</index/how-chatgpt-adoption-has-expanded/>)
+[The US is advancing AI safety through state and federal actionGlobal AffairsJul 15, 2026](</index/advancing-ai-safety-through-state-and-federal-action/>)
 
-![Rockset > Art Card](https://images.ctfassets.net/kftzwdyauwt9/7qv6OiVDfumZUnibH5VTOU/d2d818ac6de1f7cb93dce7a343e456dc/Rockset-Art-Card.png?w=3840&q=90&fm=webp)
+![GPT-Red art card](https://images.ctfassets.net/kftzwdyauwt9/6q32m87ClqE8Ovn6vD424h/05ced72e47bbe42711fbac6a082cbff2/Art_Card.png?w=3840&q=90&fm=webp)
 
-[Core dump epidemiology: fixing an 18-year-old bugEngineeringJun 30, 2026](</index/core-dump-epidemiology-data-infrastructure-bug/>)
+[GPT-Red: Unlocking Self-Improvement for RobustnessSafetyJul 15, 2026](</index/unlocking-self-improvement-gpt-red/>)
 
-![Introducing GeneBench-Pro > Cover image](https://images.ctfassets.net/kftzwdyauwt9/7sbJaKBi5qLXAqbewh72aK/93197556e903eac9df6f077eb12b7581/GenebenchPro_Blog_ArtCard.png?w=3840&q=90&fm=webp)
+![How to manage AI investments in the agentic era > Cover image](https://images.ctfassets.net/kftzwdyauwt9/1qXMreHMXalbFSVXr2CJXW/acbd7f4e05bd38b80a99523967ef69b7/Frame.png?w=3840&q=90&fm=webp)
 
-[Introducing GeneBench-ProResearchJun 30, 2026](</index/introducing-genebench-pro/>)
+[How to manage AI investments in the agentic eraAI AdoptionJul 14, 2026](</index/managing-ai-investments-in-agentic-era/>)
 
 Research
 
@@ -74,9 +74,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -148,6 +148,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

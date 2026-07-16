@@ -26,20 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-What’s changed
-
-  * What’s changed
-  * Continuing to scale reinforcement learning
-  * Thinking with images
-  * Toward agentic tool use
-  * Safety
-  * Codex CLI: frontier reasoning in the terminal
-  * Access
-  * What's next
-  * Livestream replay
-
-
-
 April 16, 2025
 
 [Release](</research/index/release/>)[Product](</news/product-releases/>)
@@ -51,6 +37,50 @@ April 16, 2025
 Loading…
 
 Share
+
+What’s changed
+
+  * What’s changed
+
+  * Continuing to scale reinforcement learning
+
+  * Thinking with images
+
+  * Toward agentic tool use
+
+  * Safety
+
+  * Codex CLI: frontier reasoning in the terminal
+
+  * Access
+
+  * What's next
+
+  * Livestream replay
+
+
+
+
+  * What’s changed
+
+  * Continuing to scale reinforcement learning
+
+  * Thinking with images
+
+  * Toward agentic tool use
+
+  * Safety
+
+  * Codex CLI: frontier reasoning in the terminal
+
+  * Access
+
+  * What's next
+
+  * Livestream replay
+
+
+
 
  _**Update on June 10, 2025:**___**_OpenAI o3‑pro is now available to Pro users in ChatGPT, as well as in our API_** _. Like OpenAI o1‑pro, o3‑pro is a version of our most intelligent model, OpenAI o3, designed to think longer and provide the most reliable responses. Full details can be found in our_[ __release notes__ ⁠(opens in a new window)](<https://help.openai.com/en/articles/9624314-model-release-notes>)_._
 
@@ -574,9 +604,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -613,6 +643,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -646,6 +678,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

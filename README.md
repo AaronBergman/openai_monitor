@@ -4,6 +4,43 @@ A daily log of every change to OpenAI's public website — what appeared, what d
 
 ---
 
+## 2026-07-16 — Run `2026-07-16T09-17Z`
+
+**Fetch time:** 2026-07-16T09:17:03Z
+**Baseline:** 2026-07-15T09-16Z
+**Stats:** 1456 total URLs | +14 added | 174 updated (109 with a non-trivial diff, 65 nav-link-only) | -1 removed | 0 anomalies | 34 sub-sitemaps
+
+**TL;DR:** OpenAI opened an online merch store, **Supply Co.**, selling ten Codex/ChatGPT/Research-branded products ($40–$100: totes, hats, hoodies, tees, socks, a basketball, a Nalgene) — that single launch explains most of today's page count, since the new footer "Supply Co." link rippled out to 65+ existing pages with no other change. Two more substantive things happened: the [ad policies page](pages/openai.com/policies/ad-policies/index.md) got a real rewrite opening up specific financial-services and health-services ad categories (with licensure requirements) and adding a whole new "Advertiser policies" section, and the [Partner Network](pages/openai.com/business/partners/index.md) roster changed — Capco dropped, EPAM added. Three new articles went up, including a new [public-policy hub](pages/openai.com/company/public-policy/index.md) and a new safety publication on automated red-teaming ([GPT-Red](pages/openai.com/index/unlocking-self-improvement-gpt-red/index.md)). One page was removed. No timestamp anomalies today — but a useful correction: several old model-announcement pages that appeared to have large rewrites turned out to be markdown-fetch rendering artifacts (a duplicated header/TOC block), not real edits.
+
+### Notable additions
+
+- **[OpenAI Supply Co.](pages/openai.com/supply/product/bloop-tote/index.md)** — a new Shopify-powered merch store launched with 10 products under `/supply/product/<slug>/`: Bloop Tote ($45), Blossom Hat ($40), Blossom Socks, ChatGPT Basketball ($70, tied to a "Pause. Play. Prompt." campaign), ChatGPT Longsleeve, Codex Bubble Cap, Codex Build Hoodie ($100), Codex Distressed Tee, Good Research Tee ($40), Pixel Nalgene, and Research Half-Zip. None of the product pages carry a `<lastmod>` yet, and there's no `/supply/` index page in the sitemap — just the individual products.
+- **[`/company/public-policy/`](pages/openai.com/company/public-policy/index.md)** — new hub page on OpenAI's AI-policy principles (Democratization, Empowerment, Prosperity, Resilience, Adaptability) and priorities, with a newsletter link to `openaiglobalaffairs.substack.com`.
+- **[`/index/advancing-ai-safety-through-state-and-federal-action/`](pages/openai.com/index/advancing-ai-safety-through-state-and-federal-action/index.md)** — Global Affairs op-ed by Chief Global Affairs Officer Chris Lehane on "reverse federalism": state AI-safety laws (California, New York, Illinois) converging with federal action toward a US-led global AI governance framework.
+- **[`/index/unlocking-self-improvement-gpt-red/`](pages/openai.com/index/unlocking-self-improvement-gpt-red/index.md)** — new safety research introducing "GPT-Red," a self-play-trained automated red-teamer for improving robustness against prompt injection.
+
+### Notable updates
+
+- **[Ad policies](pages/openai.com/policies/ad-policies/index.md) substantially rewritten** ("Updated" date: June 4 → July 15, 2026) — financial-services ads now explicitly allowed case-by-case (US only) for auto loans, credit cards, credit monitoring, deposit accounts, financial planning, insurance, investment services/brokerages, mortgages, personal loans, and payment services, with possible proof-of-licensure required; non-US financial ads now generally prohibited. Health-services ads (renamed from "Healthcare & medicine") similarly opened up for dental, health insurance, hospitals/urgent care, medical testing, minor cosmetic procedures, vision products, dietary supplements, and consumer medical devices/wearables — again case-by-case, US-only, with licensure caveats. A brand-new **"Advertiser policies"** section was added covering advertiser identity, trustworthiness, and eligibility requirements, and the old "Ad integrity" section was restructured. The prior "May 2026 update" / "April 2026 update" notes weren't deleted — they moved into a new versioned Changelog at the page bottom (v1.0 Mar 2026 → v1.3 Jul 2026).
+- **[Partner Network](pages/openai.com/business/partners/index.md) roster changed** — Capco was dropped from the partner logo carousel entirely; EPAM was added as a new partner. Three existing partners were relabeled with cleaner names: "Eliza Solutions Corp" → "Eliza", "Deepsense" → "deepsense.ai", "Statworx" → "statworx".
+- **[Release notes](pages/openai.com/products/release-notes/index.md)** gained three new entries: **Search across chats, projects, images, and files in ChatGPT** (Jul 14, web/iOS/Android, all plans), **ChatGPT returns to WhatsApp in the EEA** (Jul 13, via the verified 1-800-CHATGPT number, also live on Kakao in South Korea and Viber elsewhere), and **ChatGPT for iOS updates: Codex inline visualizations and task controls** (Jul 13).
+- **[`/solutions/industries/financial-services/`](pages/openai.com/solutions/industries/financial-services/index.md)** — picked up the current site nav template plus a new "Introducing ChatGPT Work" promo banner; dropped the BBVA customer-story card from its logo carousel and reworded the Morgan Stanley card's caption to "Morgan Stanley is shaping the future of financial services."
+- **[`/index/deployment-simulation/`](pages/openai.com/index/deployment-simulation/index.md)** — its "Read the paper" link switched from an internal PDF to a public arXiv listing (`arxiv.org/abs/2607.07184`) — the paper appears to have just been published.
+- **Correction — several "big diffs" were fetch artifacts, not rewrites.** `index/introducing-gpt-5-2/`, `index/introducing-o3-and-o4-mini/`, `index/running-codex-safely/`, `index/chatgpt-for-excel/`, `index/introducing-data-residency-in-asia/`, `index/expanding-data-residency-access-to-business-customers-worldwide/`, `index/openai-pwc-finance-collaboration/`, `index/gpt-5-safe-completions/`, and `form/report-content/` all showed large diffs that turned out to be a page-metadata header block or table-of-contents/form-field block rendered twice or reordered between fetches — no body prose actually changed on any of them.
+
+### Routine updates
+
+65 of the 174 lastmod-bumped pages carried no content change beyond the new `* [Supply Co.](</supply/>)` footer nav link. Most of the remaining ~103 flagged-as-different pages were rotating "related news" carousels (pointing at today's new articles) and the "Latest Advancements" model-badge list (GPT-5.6 added, GPT-5.3 Instant dropped) — routine recirculation, not new information.
+
+### Removals
+
+- **`/codex/get-started/`** — the Codex onboarding walkthrough page was removed with no direct successor found; likely folded into `/codex/` or the ongoing docs migration to `learn.chatgpt.com`.
+
+Full analysis: [runs/2026-07-16T09-17Z/analysis.md](runs/2026-07-16T09-17Z/analysis.md)
+
+---
+*Stats: 1,456 total URLs | +14 added | 174 updated (109 with a non-trivial diff) | -1 removed | 0 anomalies | 34 sub-sitemaps*
+
 ## 2026-07-15 — Run `2026-07-15T09-16Z`
 
 **Fetch time:** 2026-07-15T09:17:58Z

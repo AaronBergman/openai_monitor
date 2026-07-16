@@ -51,6 +51,10 @@ Switch cards to show Media
 
 Switch cards to hide Media
 
+![GPT-Red art card](https://images.ctfassets.net/kftzwdyauwt9/6q32m87ClqE8Ovn6vD424h/05ced72e47bbe42711fbac6a082cbff2/Art_Card.png?w=3840&q=90&fm=webp)
+
+[GPT-Red: Unlocking Self-Improvement for RobustnessSafetyJul 15, 2026](</index/unlocking-self-improvement-gpt-red/>)
+
 ![How to manage AI investments in the agentic era > Cover image](https://images.ctfassets.net/kftzwdyauwt9/1qXMreHMXalbFSVXr2CJXW/acbd7f4e05bd38b80a99523967ef69b7/Frame.png?w=3840&q=90&fm=webp)
 
 [How to manage AI investments in the agentic eraAI AdoptionJul 14, 2026](</index/managing-ai-investments-in-agentic-era/>)
@@ -59,15 +63,15 @@ Switch cards to hide Media
 
 [GPT-5.6 is now the preferred model in Microsoft 365 CopilotProductJul 9, 2026](</index/gpt-5-6-preferred-model-microsoft-365-copilot/>)
 
+![GPT 5-6 > Card](https://images.ctfassets.net/kftzwdyauwt9/1a9IPPV5nXWydTBosgmgYI/8e03f28ca04f26edc8bc81cdba387df1/5-6.jpg?w=3840&q=90&fm=webp)
+
+[GPT-5.6: Frontier intelligence that scales with your ambitionProductJul 9, 2026](</index/gpt-5-6/>)
+
 ![GPT-5.5 Bio Bug Bounty > art card](https://images.ctfassets.net/kftzwdyauwt9/2wba91t9mgdv1oBPai3LTb/e48f5d6b5e44bdaafb0eac51f96458d1/bug_bounty_1_1.png?w=3840&q=90&fm=webp)
 
 [OpenAI Bio Bug BountySafetyJul 9, 2026](</index/bio-bug-bounty/>)
 
 [ChatGPT is now a partner for your most ambitious workProductJul 9, 2026](</index/chatgpt-for-your-most-ambitious-work/>)
-
-![GPT 5-6 > Card](https://images.ctfassets.net/kftzwdyauwt9/1a9IPPV5nXWydTBosgmgYI/8e03f28ca04f26edc8bc81cdba387df1/5-6.jpg?w=3840&q=90&fm=webp)
-
-[GPT-5.6: Frontier intelligence that scales with your ambitionProductJul 9, 2026](</index/gpt-5-6/>)
 
 ![""](https://images.ctfassets.net/kftzwdyauwt9/2ygRvL6yUYAvtHiZYmCT8K/91195cbe6f282c24026d154fe3ac422e/System_card_1_1.png?w=3840&q=90&fm=webp)
 
@@ -80,10 +84,6 @@ Switch cards to hide Media
 ![Art Card 1 1](https://images.ctfassets.net/kftzwdyauwt9/4vJ1lSvYeKz0zM4RVCKwIC/855f7e54052d8a7635e4bf45adf41737/Art_Card_1_1.png?w=3840&q=90&fm=webp)
 
 [Introducing GPT-LiveProductJul 8, 2026](</index/introducing-gpt-live/>)
-
-![Four white rounded squares arranged in a horizontal row on a soft blue-to-white gradient background.](https://images.ctfassets.net/kftzwdyauwt9/6B2Ddp37H6lfMuxOjcvfa0/f65b4ba8a3550da03e1a5db26fe50ca0/System_Card_1x1__1_.jpg?w=3840&q=90&fm=webp)
-
-[GPT‑Live System CardSafetyJul 8, 2026(opens in a new window)](<https://deploymentsafety.openai.com/gpt-live>)
 
 Load more
 
@@ -171,6 +171,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)
