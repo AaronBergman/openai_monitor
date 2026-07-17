@@ -56,6 +56,10 @@ Message ChatGPT
 
 [View more](</news/company-announcements/>)
 
+![GPT-Red art card](https://images.ctfassets.net/kftzwdyauwt9/6q32m87ClqE8Ovn6vD424h/05ced72e47bbe42711fbac6a082cbff2/Art_Card.png?w=3840&q=90&fm=webp)
+
+[GPT-Red: Unlocking Self-Improvement for RobustnessSafetyJul 15, 2026](</index/unlocking-self-improvement-gpt-red/>)
+
 ![How agents are transforming work > Cover image](https://images.ctfassets.net/kftzwdyauwt9/7hmtkjKv0DxS4Yt8mQZju2/c168bfa2010da64bcc9dd60d6b5491e8/Art_Card__1_.png?w=3840&q=90&fm=webp)
 
 [How agents are transforming workCompanyJun 25, 2026](</index/how-agents-are-transforming-work/>)
@@ -75,10 +79,6 @@ Message ChatGPT
 ![Personal finance in ChatGPT > Media > Cover](https://images.ctfassets.net/kftzwdyauwt9/4zSr4YNWXIEYz20piN2bxf/6f9a561be6055802914aee0a3bb671d7/ArtCard-Personal-Finance.png?w=3840&q=90&fm=webp)
 
 [A new personal finance experience in ChatGPTProductMay 15, 2026](</index/personal-finance-chatgpt/>)
-
-![A soft, abstract gradient dominated by pink and blue hues, with gentle vertical blending and a warm orange-yellow glow](https://images.ctfassets.net/kftzwdyauwt9/7x4viZ0DsQtxQpAgnYYheQ/8dfe028356aceac9e83da6cb837d6864/Saftey-Art-Card-1080x1080.png?w=3840&q=90&fm=webp)
-
-[Helping ChatGPT better recognize context in sensitive conversationsSafetyMay 14, 2026](</index/chatgpt-recognize-context-in-sensitive-conversations/>)
 
 ## Stories
 
@@ -216,6 +216,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

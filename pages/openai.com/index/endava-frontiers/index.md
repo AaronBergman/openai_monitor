@@ -155,17 +155,17 @@ More than 1 million businesses around the world are achieving meaningful results
 
 ## Keep reading
 
-![How to manage AI investments in the agentic era > Cover image](https://images.ctfassets.net/kftzwdyauwt9/1qXMreHMXalbFSVXr2CJXW/acbd7f4e05bd38b80a99523967ef69b7/Frame.png?w=3840&q=90&fm=webp)
+![Why teens deserve access to safe AI — card image](https://images.ctfassets.net/kftzwdyauwt9/qMYBYjbkSSEYQbsQyyfRQ/d9fe2585ed8bbf73ffee5d6ed8bcc39e/why-teens-card.jpg?w=3840&q=90&fm=webp)
 
-[How to manage AI investments in the agentic eraAI AdoptionJul 14, 2026](</index/managing-ai-investments-in-agentic-era/>)
+[Why teens deserve access to safe AISafetyJul 16, 2026](</index/why-teens-deserve-access-safe-ai/>)
 
-![How data science teams use Codex > card image](https://images.ctfassets.net/kftzwdyauwt9/xyevYnp4Ptaa1eMgBDNjS/75fea80018f321b89809d893f1a5786d/data_science_teams.png?w=3840&q=90&fm=webp)
+![Cars24 — square customer story artwork](https://images.ctfassets.net/kftzwdyauwt9/2w9KeAF3eUGeTYbhIad57r/60d837660f6c59bdf46f82c28073469d/cars24-square.png?w=3840&q=90&fm=webp)
 
-[How data science teams use ChatGPT Work | OpenAIOpenAI AcademyJul 14, 2026](</academy/codex-for-work/how-data-science-teams-use-codex/>)
+[How Cars24 scales conversations and builds faster with OpenAIJul 16, 2026](</index/cars24/>)
 
-![How sales teams use Codex > card image](https://images.ctfassets.net/kftzwdyauwt9/1O4te2wMh6O77eDV6kapG3/02845b054a09297b9fada40c4cc9a71f/sales_teams.png?w=3840&q=90&fm=webp)
+![Helping build shared standards for advanced AI - card image](https://images.ctfassets.net/kftzwdyauwt9/5bSU7ItzcBWGtWhApmmJ6X/a818a91ef36b39ed07d62566ec318760/Frame2.png?w=3840&q=90&fm=webp)
 
-[How sales teams use ChatGPT Work | OpenAIOpenAI AcademyJul 14, 2026](</academy/codex-for-work/how-sales-teams-use-codex/>)
+[The US is advancing AI safety through state and federal actionGlobal AffairsJul 15, 2026](</index/advancing-ai-safety-through-state-and-federal-action/>)
 
 Research
 
@@ -251,6 +251,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

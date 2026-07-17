@@ -127,17 +127,17 @@ More than 1 million businesses around the world are achieving meaningful results
 
 ## Keep reading
 
-![Production Resampling > Art Card](https://images.ctfassets.net/kftzwdyauwt9/6TwSElUf3XVkAiLOvIis8O/de2de5d4b9f94a3dea5403702a4f34ce/Art_Card.png?w=3840&q=90&fm=webp)
+![Why teens deserve access to safe AI — card image](https://images.ctfassets.net/kftzwdyauwt9/qMYBYjbkSSEYQbsQyyfRQ/d9fe2585ed8bbf73ffee5d6ed8bcc39e/why-teens-card.jpg?w=3840&q=90&fm=webp)
 
-[Predicting model behavior before release by simulating deploymentResearchJun 16, 2026](</index/deployment-simulation/>)
+[Why teens deserve access to safe AISafetyJul 16, 2026](</index/why-teens-deserve-access-safe-ai/>)
 
-![Intro-OAI-Partner-ArtCard](https://images.ctfassets.net/kftzwdyauwt9/U6bb3rlwvYyhf2q835WWx/d50f5492dded3c21aa6d69c07d3b2a44/Introducing_OAI_Partner_Network_artcard.png?w=3840&q=90&fm=webp)
+![Cars24 — square customer story artwork](https://images.ctfassets.net/kftzwdyauwt9/2w9KeAF3eUGeTYbhIad57r/60d837660f6c59bdf46f82c28073469d/cars24-square.png?w=3840&q=90&fm=webp)
 
-[Introducing the OpenAI Partner NetworkProductJun 14, 2026](</index/introducing-openai-partner-network/>)
+[How Cars24 scales conversations and builds faster with OpenAIJul 16, 2026](</index/cars24/>)
 
-![Introducing OpenAI Academy courses > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/2mmXo430NiaNqyi6YrRtnh/715ab11fa5003dd50acff55adcb4a5fd/Frame.png?w=3840&q=90&fm=webp)
+![Helping build shared standards for advanced AI - card image](https://images.ctfassets.net/kftzwdyauwt9/5bSU7ItzcBWGtWhApmmJ6X/a818a91ef36b39ed07d62566ec318760/Frame2.png?w=3840&q=90&fm=webp)
 
-[New OpenAI Academy courses for the next era of workAI AdoptionJun 12, 2026](</index/academy-courses-applying-ai-at-work/>)
+[The US is advancing AI safety through state and federal actionGlobal AffairsJul 15, 2026](</index/advancing-ai-safety-through-state-and-federal-action/>)
 
 Research
 
@@ -149,9 +149,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -188,6 +188,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -221,6 +223,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

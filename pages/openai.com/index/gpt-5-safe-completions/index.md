@@ -49,8 +49,6 @@ How it works
 
 
 
-Table of contents
-
   * How it works
 
   * Results
@@ -153,19 +151,17 @@ Yuan Yuan, Tina Sriskandarajah, Anna-Luisa Brakman, Alec Helyar, Alex Beutel, An
 
 [View all](</news/>)
 
-![A near-autonomous AI chemist improves a challenging reaction](https://images.ctfassets.net/kftzwdyauwt9/QgPPg4etNE5C4Ao0G94sk/e5f2a50e5de4619d0e0fe8483698718b/molecule-one-art-card.png?w=3840&q=90&fm=webp)
+![Why teens deserve access to safe AI — card image](https://images.ctfassets.net/kftzwdyauwt9/qMYBYjbkSSEYQbsQyyfRQ/d9fe2585ed8bbf73ffee5d6ed8bcc39e/why-teens-card.jpg?w=3840&q=90&fm=webp)
 
-[A near-autonomous AI chemist improves a challenging reaction in medicinal chemistryResearchJun 17, 2026](</index/ai-chemist-improves-reaction/>)
+[Why teens deserve access to safe AISafetyJul 16, 2026](</index/why-teens-deserve-access-safe-ai/>)
 
-![LifeSciBench 1x1](https://images.ctfassets.net/kftzwdyauwt9/1iV0eZRf28MZRvIxYY4eLf/4379e20807f5ff44efccf518a97e480a/LifeSciBench_1x1.png?w=3840&q=90&fm=webp)
+![GPT-Red art card](https://images.ctfassets.net/kftzwdyauwt9/6q32m87ClqE8Ovn6vD424h/05ced72e47bbe42711fbac6a082cbff2/Art_Card.png?w=3840&q=90&fm=webp)
 
-[Introducing LifeSciBenchResearchJun 17, 2026](</index/introducing-life-sci-bench/>)
+[GPT-Red: Unlocking Self-Improvement for RobustnessSafetyJul 15, 2026](</index/unlocking-self-improvement-gpt-red/>)
 
-![Art Card 1080x1080 \(3\)](https://images.ctfassets.net/kftzwdyauwt9/3JLNH7ejJFnxLmX2LpzoKD/19f9e3c4d36cc9d677ba88e842ad2db2/Art_Card_1080x1080__4_.png?w=3840&q=90&fm=webp)
+![GPT-5.5 Bio Bug Bounty > art card](https://images.ctfassets.net/kftzwdyauwt9/2wba91t9mgdv1oBPai3LTb/e48f5d6b5e44bdaafb0eac51f96458d1/bug_bounty_1_1.png?w=3840&q=90&fm=webp)
 
-Better memory for a more helpful ChatGPT
-
-[Dreaming: Better memory for a more helpful ChatGPTResearchJun 4, 2026](</index/chatgpt-memory-dreaming/>)
+[OpenAI Bio Bug BountySafetyJul 9, 2026](</index/bio-bug-bounty/>)
 
 Research
 
@@ -177,9 +173,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -216,6 +212,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -249,6 +247,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

@@ -34,7 +34,7 @@ Powered by GPT‑5.6, ChatGPT Work brings together context from your team’s to
 
 [Contact sales](</contact-sales/>)
 
- _Available to all plans on desktop today, and rolling out to Plus, Pro, Business, Enterprise, and Edu on web and mobile over the next few days._
+ _Available to all plans on macOS and Windows desktop, and to Plus, Pro, Business, Enterprise, and Edu on web and mobile._
 
 ChatGPT WorkUse casesGPT-5.6
 
@@ -94,11 +94,11 @@ Vaneet Seth, R&D Efficiency Manager, RingCentral
 
 ![Microphone icon over a star field for the Executive webinar.](https://images.ctfassets.net/kftzwdyauwt9/78Nyn5ZCnZWgXojGnh2hV8/bc0c6b8c2c10e6fc1cc494186d9128bd/chatgpt-work-executive-webinar-2x.png?w=3840&q=90&fm=webp)
 
-Executive webinar
+Webinar series
 
-Learn how to prioritize the right AI workflows across your organization.
+See how OpenAI teams use ChatGPT Work to change how they operate.
 
-[Register now(opens in a new window)](<https://webinar.openai.com/enterprise-ai-value/?utm_medium=webinar&utm_source=website&utm_campaign=WBR-enterprise-ai-value-chatgptwork-launch-hub>)
+[Register now(opens in a new window)](<https://webinar.openai.com/chatgpt-work-series/?utm_medium=webinar&utm_source=website&utm_campaign=WBR-chatgpt-work-series-launch-hub>)
 
 ![Terminal prompt icon over a star field for Build Hour.](https://images.ctfassets.net/kftzwdyauwt9/7501PzAF1rWMU3q0MbfuIN/b1265e85a0d7a4daafdfc268ab03e930/chatgpt-work-build-hour-2x.png?w=3840&q=90&fm=webp)
 
@@ -206,6 +206,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

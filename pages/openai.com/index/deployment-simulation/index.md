@@ -34,7 +34,7 @@ June 16, 2026
 
 Using realistic conversation contexts to better estimate undesired model behavior before release.
 
-[Read the paper](<https://cdn.openai.com/pdf/predicting-llm-safety-before-release-by-simulating-deployment.pdf>)
+[Read the paper(opens in a new window)](<https://arxiv.org/abs/2607.07184>)
 
 Share
 
@@ -60,8 +60,6 @@ Introduction
 
 
 
-
-Table of contents
 
   * Introduction
 
@@ -220,6 +218,10 @@ OpenAI
 
 [View all](</news/>)
 
+![Separating signal from noise > Art Card](https://images.ctfassets.net/kftzwdyauwt9/7j6M3prKIsTmV6cbMaHjhZ/e66f7cdd98c66c99546853cbc22cfe84/Seperating-signal-from-noise-card.png?w=3840&q=90&fm=webp)
+
+[Separating signal from noise in coding evaluationsResearchJul 8, 2026](</index/separating-signal-from-noise-coding-evaluations/>)
+
 ![Introducing GeneBench-Pro > Cover image](https://images.ctfassets.net/kftzwdyauwt9/7sbJaKBi5qLXAqbewh72aK/93197556e903eac9df6f077eb12b7581/GenebenchPro_Blog_ArtCard.png?w=3840&q=90&fm=webp)
 
 [Introducing GeneBench-ProResearchJun 30, 2026](</index/introducing-genebench-pro/>)
@@ -227,10 +229,6 @@ OpenAI
 ![A near-autonomous AI chemist improves a challenging reaction](https://images.ctfassets.net/kftzwdyauwt9/QgPPg4etNE5C4Ao0G94sk/e5f2a50e5de4619d0e0fe8483698718b/molecule-one-art-card.png?w=3840&q=90&fm=webp)
 
 [A near-autonomous AI chemist improves a challenging reaction in medicinal chemistryResearchJun 17, 2026](</index/ai-chemist-improves-reaction/>)
-
-![LifeSciBench 1x1](https://images.ctfassets.net/kftzwdyauwt9/1iV0eZRf28MZRvIxYY4eLf/4379e20807f5ff44efccf518a97e480a/LifeSciBench_1x1.png?w=3840&q=90&fm=webp)
-
-[Introducing LifeSciBenchResearchJun 17, 2026](</index/introducing-life-sci-bench/>)
 
 Research
 
@@ -242,9 +240,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -316,6 +314,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

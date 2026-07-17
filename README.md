@@ -4,6 +4,48 @@ A daily log of every change to OpenAI's public website — what appeared, what d
 
 ---
 
+## 2026-07-17 — Run `2026-07-17T09-16Z`
+
+**Fetch time:** 2026-07-17T09:17Z
+**Baseline:** 2026-07-15T09-16Z (no run on 2026-07-16 — this covers ~2 days)
+**Stats:** 1458 total URLs | +19 added | 184 updated (~84 with a real content diff) | -4 removed | 0 anomalies | 34 sub-sitemaps
+
+**TL;DR:** A safety-and-policy-heavy couple of days. OpenAI published new research on [GPT‑Red](pages/openai.com/index/unlocking-self-improvement-gpt-red/index.md), an automated red-teaming model trained at frontier compute scale that's used to adversarially harden production models — GPT‑5.6 Sol reportedly gets 6x fewer failures on their hardest prompt-injection benchmark as a result. That landed alongside a teen-safety essay ([why teens deserve access to safe AI](pages/openai.com/index/why-teens-deserve-access-safe-ai/index.md)) and a state/federal AI-policy essay bylined by Chief Global Affairs Officer Chris Lehane, plus a new `/company/public-policy/` hub page. Separately, and worth watching, OpenAI quietly rewrote its [Ads Policies](pages/openai.com/policies/ad-policies/index.md) — the biggest single-page diff of this run — adding a whole new "Advertiser policies" section and opening up **financial and health-related ad categories** (auto loans, credit cards, mortgages, health insurance, hospitals, medical devices, and more) that were previously blanket-restricted or disallowed, now permitted case-by-case for US advertisers with proof of licensure. On the lighter side, OpenAI launched **Supply Co.**, a merch storefront (hoodies, totes, hats) at `/supply/`, and the Partner Network added EPAM as a new partner plus two slug renames (Reply → Cognita Reply, Thinking Machines Data Science Inc. → Thinking Machines Data Science). The `/products/release-notes/` changelog added three entries: cross-content search in ChatGPT, WhatsApp's return to the EEA (plus new Kakao/Viber availability), and iOS Codex updates. No anomalies detected. Most of the 184 "updated" pages are template catch-up noise — many hadn't been re-fetched since before the GPT‑5.6 footer swap and Customer Stories/Partner Network links first appeared on 2026-07-14/15, so those show up as "changed" here even though the underlying edit is old news.
+
+### Notable additions
+
+- **[`/index/unlocking-self-improvement-gpt-red/`](pages/openai.com/index/unlocking-self-improvement-gpt-red/index.md)** — new research on GPT‑Red, an automated red-teaming model used to adversarially train GPT‑5.6 against prompt injection; claims 6x fewer failures on OpenAI's hardest direct-injection benchmark vs. their best model from four months earlier.
+- **[`/index/why-teens-deserve-access-safe-ai/`](pages/openai.com/index/why-teens-deserve-access-safe-ai/index.md)** — policy essay arguing for teen AI access paired with age-appropriate protections; recaps this year's teen-safety features (age prediction, Parental Controls, family resources).
+- **[`/index/advancing-ai-safety-through-state-and-federal-action/`](pages/openai.com/index/advancing-ai-safety-through-state-and-federal-action/index.md)** — Chris Lehane essay framing California/New York/Illinois frontier-safety laws as "reverse federalism" building toward a US national AI standard.
+- **[`/company/public-policy/`](pages/openai.com/company/public-policy/index.md)** — new public-policy hub page (principles: Democratization, Empowerment, Prosperity, Resilience, Adaptability).
+- **[`/index/cars24/`](pages/openai.com/index/cars24/index.md)** — new customer story: Indian used-car marketplace Cars24 reports 1M+ monthly AI-agent conversation minutes and a 12% lift in recovered sales leads.
+- **[`/business/partners/epam/`](pages/openai.com/business/partners/epam/index.md)** — EPAM Systems joins the Partner Network as an Advanced Partner.
+- **OpenAI Supply Co.** — 11 new `/supply/product/<slug>/` merch pages (hoodies, totes, hats, apparel) on a Shopify-backed storefront; a "Supply Co." link was added to the sitewide footer nav as a result.
+
+### Notable updates
+
+- **[Ads Policies](pages/openai.com/policies/ad-policies/index.md) rewritten and expanded** (updated-date bumped June 4 → July 15, 2026) — new "Advertiser policies" section covering identity, trustworthiness, and eligibility standards; financial and health ad categories that were previously vague/blanket-restricted now have explicit, itemized US-only allow-lists (finance: auto loans, credit cards, mortgages, insurance, investment services, etc.; health: medical devices, dental, supplements, hospitals, vision products, etc.), each requiring proof of licensure. The biggest single-page content diff in this run.
+- **[`/products/release-notes/`](pages/openai.com/products/release-notes/index.md)** gained three entries: cross-content search across chats/projects/files in ChatGPT (web/iOS/Android), ChatGPT's return to WhatsApp in the EEA (plus new Kakao and Viber availability), and iOS updates (Codex inline visualizations, task-creation reliability, bug fixes).
+- **[Partner Network](pages/openai.com/business/partners/index.md)** — two renames treated as such, not remove+add: `business/partners/reply/` → [`cognita-reply/`](pages/openai.com/business/partners/cognita-reply/index.md) ("Reply" → "Cognita Reply"), and `business/partners/thinking-machines-data-science-inc/` → [`thinking-machines-data-science/`](pages/openai.com/business/partners/thinking-machines-data-science/index.md) (dropped "-inc"). The directory page also refreshed nearly every partner logo to a new consistent square-SVG format, and finally synced the "Eliza Solutions Corp" → "Eliza" label change first reported 2026-07-14/15.
+- **Nav A/B test moves in both directions** — `/solutions/industries/financial-services/` gained the newer "Why OpenAI / Solutions / Resources / Pricing" nav + "Introducing ChatGPT Work" banner, but `/business/solutions/sales/` reverted **back** to the classic nav, echoing `/stories/`'s reversal noted 2026-07-15. The test is not converging uniformly.
+- **[`/devday/terms-and-conditions/`](pages/openai.com/devday/terms-and-conditions/index.md)** — support contact emails switched to proper `mailto:` links; the general help address changed from `help@devday.openai.com` to `devday@openai.com`.
+
+### Routine updates
+
+Most of the 184 lastmod-bumped pages carried only template/footer churn: the new "Supply Co." footer link (sitewide, see above); "GPT-5.3 Instant" → "GPT-5.6" and new "Customer Stories"/"Partner Network" footer links catching up on pages not touched since those first shipped on 2026-07-14/15; related-content carousels refreshing to surface today's new posts; and a recurring "Table of contents" duplicate-block / footnote-renumbering rendering artifact on several pages (client-side hydration timing, not a content edit, consistent with prior runs).
+
+### Removals
+
+- **`business/partners/reply/`** — renamed to `business/partners/cognita-reply/` (see additions), not a genuine removal.
+- **`business/partners/thinking-machines-data-science-inc/`** — renamed to `business/partners/thinking-machines-data-science/` (see additions), not a genuine removal.
+- **`codex/get-started/`** — standalone Codex onboarding walkthrough removed with no direct replacement; continues the ongoing consolidation of narrow Codex how-to pages (flagged 2026-07-15).
+- **`tokens-of-appreciation/`** — "Tokens of Appreciation Program 2026" (API-usage awards page) removed with no replacement found.
+
+Full analysis: [runs/2026-07-17T09-16Z/analysis.md](runs/2026-07-17T09-16Z/analysis.md)
+
+---
+*Stats: 1,458 total URLs | +19 added | 184 updated (~84 with visible content change) | -4 removed | 0 anomalies | 34 sub-sitemaps*
+
 ## 2026-07-15 — Run `2026-07-15T09-16Z`
 
 **Fetch time:** 2026-07-15T09:17:58Z

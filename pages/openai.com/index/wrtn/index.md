@@ -112,15 +112,17 @@ Each new OpenAI release pushes that mission forward. Wrtn builds systems that ke
 
 ## Keep reading
 
-![deutsche telekom art card](https://images.ctfassets.net/kftzwdyauwt9/2iYZomUxcCPSikL5KsftP2/a3de110c6af0d68c342b60cee47091d1/oai_Deutsche_Telekom1x1.png?w=3840&q=90&fm=webp)
+![Why teens deserve access to safe AI — card image](https://images.ctfassets.net/kftzwdyauwt9/qMYBYjbkSSEYQbsQyyfRQ/d9fe2585ed8bbf73ffee5d6ed8bcc39e/why-teens-card.jpg?w=3840&q=90&fm=webp)
 
-[How Deutsche Telekom is rewiring telecommunications with AIJul 10, 2026](</index/deutsche-telekom/>)
+[Why teens deserve access to safe AISafetyJul 16, 2026](</index/why-teens-deserve-access-safe-ai/>)
 
-![GPT-5.6 is now the preferred model in Microsoft 365 Copilot > Cover image](https://images.ctfassets.net/kftzwdyauwt9/3MPipvFMxS8m3kTyCtwFgj/015747dcd34cb667a221688cfca64e0f/Frame.png?w=3840&q=90&fm=webp)
+![Cars24 — square customer story artwork](https://images.ctfassets.net/kftzwdyauwt9/2w9KeAF3eUGeTYbhIad57r/60d837660f6c59bdf46f82c28073469d/cars24-square.png?w=3840&q=90&fm=webp)
 
-[GPT-5.6 is now the preferred model in Microsoft 365 CopilotProductJul 9, 2026](</index/gpt-5-6-preferred-model-microsoft-365-copilot/>)
+[How Cars24 scales conversations and builds faster with OpenAIJul 16, 2026](</index/cars24/>)
 
-[GPT-5.6: Frontier intelligence that scales with your ambitionProductJul 9, 2026](</index/gpt-5-6/>)
+![Helping build shared standards for advanced AI - card image](https://images.ctfassets.net/kftzwdyauwt9/5bSU7ItzcBWGtWhApmmJ6X/a818a91ef36b39ed07d62566ec318760/Frame2.png?w=3840&q=90&fm=webp)
+
+[The US is advancing AI safety through state and federal actionGlobal AffairsJul 15, 2026](</index/advancing-ai-safety-through-state-and-federal-action/>)
 
 Research
 
@@ -206,6 +208,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)
