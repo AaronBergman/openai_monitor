@@ -92,7 +92,7 @@ Our research on applying AI to audio processing and audio generation has led to 
 
 [Introducing next-generation audio models in the APIVoice AgentsMar 20, 20256 min read](</index/introducing-our-next-generation-audio-models/>)
 
-![ Navigating the challenges > Media item](https://images.ctfassets.net/kftzwdyauwt9/3u7r7E3gFRGZIxdKucf7f6/c09e0f83b72d37dc10c1d0563bfc5c33/oai-synthetic-voices.png?w=3840&q=90&fm=webp)
+![Soft chalk pastels mimicking a dawn sky.](https://images.ctfassets.net/kftzwdyauwt9/3u7r7E3gFRGZIxdKucf7f6/c09e0f83b72d37dc10c1d0563bfc5c33/oai-synthetic-voices.png?w=3840&q=90&fm=webp)
 
 [Navigating the challenges and opportunities of synthetic voicesVoice EngineMar 29, 20248 min read](</index/navigating-the-challenges-and-opportunities-of-synthetic-voices/>)
 
@@ -108,11 +108,11 @@ Our text models are advanced language processing tools that can generate, classi
 
 [Aligning language models to follow instructionsPublicationJan 27, 20228 min read](</index/instruction-following/>)
 
-![Summarizing Books](https://images.ctfassets.net/kftzwdyauwt9/5a1f46b8-7e89-42f1-cb71b084ba93/524e90bcc1dfde4121a5ffb83c679bc9/summarizing-books.jpg?w=3840&q=90&fm=webp)
+![Five overlapping book covers cascading from the top left to the bottom right of the frame.](https://images.ctfassets.net/kftzwdyauwt9/5a1f46b8-7e89-42f1-cb71b084ba93/524e90bcc1dfde4121a5ffb83c679bc9/summarizing-books.jpg?w=3840&q=90&fm=webp)
 
 [Summarizing books with human feedbackPublicationSep 23, 20214 min read](</index/summarizing-books/>)
 
-![Language Models Are Few Shot Learners](https://images.ctfassets.net/kftzwdyauwt9/40660b0a-561d-412e-9adc992b9f69/9c841f18126a6af1e3b3d266988ab0e8/image_126.png?w=3840&q=90&fm=webp)
+![An abstract expressionist painting in a soft palette depicting a blue body of water and a vibrant orange sky.](https://images.ctfassets.net/kftzwdyauwt9/40660b0a-561d-412e-9adc992b9f69/9c841f18126a6af1e3b3d266988ab0e8/image_126.png?w=3840&q=90&fm=webp)
 
 [Language models are few-shot learnersMilestoneMay 28, 20203 min read](</index/language-models-are-few-shot-learners/>)
 
@@ -140,9 +140,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -179,6 +179,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -212,6 +214,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

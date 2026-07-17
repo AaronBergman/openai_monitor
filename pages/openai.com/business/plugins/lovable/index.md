@@ -46,7 +46,7 @@ Use case: [Developer Tools](</business/plugins/?tab=apps-developer-tools>)
 
 Made by: Lovable
 
-Website: [loveable.com(opens in a new window)](<https://loveable.com>)
+Website: [lovable.dev(opens in a new window)](<https://lovable.dev/>)
 
 ## How it works
 
@@ -176,6 +176,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

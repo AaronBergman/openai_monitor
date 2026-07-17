@@ -36,10 +36,10 @@ OpenAI
 
 Unit8 is a leading European data and AI services company helping non-digital native enterprises turn data into measurable business value. Our forward-deployed engineers work closely with business and technology teams, combining strategy, data science, analytics, AI engineering, scalable platforms and MLOps from use-case discovery to production. As an OpenAI Services Partner, Unit8 helps organizations move beyond experimentation and deploy secure, responsible GenAI solutions tailored to complex enterprise environments, with strong experience in financial services, healthcare and life sciences, and manufacturing.
 
-![Advanced Partner](/images/partner-tier-badges/OAI_PartnerNetwork_AdvancedPartner.svg?dpl=dpl_Bt2QvgNvrDjuduwqx5NPqQxCos4N)
+![Advanced Partner](/images/partner-tier-badges/OAI_PartnerNetwork_AdvancedPartner.svg?dpl=dpl_4izMgthakjpbJEatvJacZ6SKXDvx)
 
 Countries served
-    Switzerland, Germany, Austria, and France
+    Switzerland, Germany, Austria, France, United States, and Canada
 
 Industry
     Cross-industry
@@ -131,6 +131,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

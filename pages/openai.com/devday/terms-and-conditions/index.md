@@ -26,23 +26,47 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Tickets and Registration
-
-  * Tickets and Registration
-  * Check-in
-  * Recordings
-  * No Solicitation
-  * Liability
-  * Privacy Policy
-  * Code of Conduct
-
-
-
 # OpenAI Events Terms and Conditions
 
 Thank you for your interest in our event! Please note that by registering, you are agreeing to the below terms and conditions.
 
 Share
+
+Tickets and Registration
+
+  * Tickets and Registration
+
+  * Check-in
+
+  * Recordings
+
+  * No Solicitation
+
+  * Liability
+
+  * Privacy Policy
+
+  * Code of Conduct
+
+
+
+
+  * Tickets and Registration
+
+  * Check-in
+
+  * Recordings
+
+  * No Solicitation
+
+  * Liability
+
+  * Privacy Policy
+
+  * Code of Conduct
+
+
+
 
 ## Tickets and Registration
 
@@ -50,7 +74,7 @@ Share
   * We ask that you fill out the registration form accurately and to the best of your knowledge. Your name, company, and other information may be included on your attendee badge.
   * To register, you must be at least 16 years old at the time of the event.  
 If you are purchasing a ticket, the registration fee is not refundable or exchangeable.
-  * However, if you are unable to attend due to special circumstances, please reach out to help@devday.openai.com.
+  * However, if you are unable to attend due to special circumstances, please reach out to [devday@openai.com⁠](<mailto:devday@openai.com>).
   * Any hotel or travel expenses are separate from the registration fee and are not arranged by OpenAI.
 
 
@@ -65,7 +89,7 @@ If you are purchasing a ticket, the registration fee is not refundable or exchan
 ## Recordings
 
   * OpenAI will be making recordings of the event, which may include your image, likeness, or voice. By registering and participating in the event, you grant OpenAI permission to use these recordings for promotional, educational, or other purposes, without compensation to you.
-  * You’re welcome to take personal photos of the event. However, unless you’ve received prior written consent from the OpenAI team, you are not permitted to publicly stream or broadcast the event. If you’d like to request approved media access, please contact press@devday.openai.com.
+  * You’re welcome to take personal photos of the event. However, unless you’ve received prior written consent from the OpenAI team, you are not permitted to publicly stream or broadcast the event. If you’d like to request approved media access, please contact [press@devday.openai.com⁠](<mailto:press@devday.openai.com>).
 
 
 
@@ -95,9 +119,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -134,6 +158,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -167,6 +193,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

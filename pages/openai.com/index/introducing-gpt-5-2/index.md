@@ -26,17 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Model performance
-
-  * Model performance
-  * GPT-5.2 in ChatGPT
-  * Safety
-  * Availability & pricing
-  * Our partners
-  * Appendix
-
-
-
 December 11, 2025
 
 [Product](</news/product-releases/>)[Release](</research/index/release/>)
@@ -48,6 +37,86 @@ The most advanced frontier model for professional work and long-running agents.
 Loading…
 
 Share
+
+Model performance
+
+  * Model performance
+
+    * Economically valuable tasks 
+
+    * Coding
+
+    * Factuality
+
+    * Long context
+
+    * Vision
+
+  * Tool calling
+
+  * Science & math
+
+  * ARC-AGI 2
+
+  * GPT-5.2 in ChatGPT
+
+  * Safety
+
+    * Mental health evaluations
+
+  * Availability & pricing
+
+    * Model naming across ChatGPT & API
+
+    * Price per million tokens
+
+  * Our partners
+
+  * Appendix
+
+    * Detailed benchmarks
+
+
+
+
+  * Model performance
+
+    * Economically valuable tasks 
+
+    * Coding
+
+    * Factuality
+
+    * Long context
+
+    * Vision
+
+  * Tool calling
+
+  * Science & math
+
+  * ARC-AGI 2
+
+  * GPT-5.2 in ChatGPT
+
+  * Safety
+
+    * Mental health evaluations
+
+  * Availability & pricing
+
+    * Model naming across ChatGPT & API
+
+    * Price per million tokens
+
+  * Our partners
+
+  * Appendix
+
+    * Detailed benchmarks
+
+
+
 
 We are introducing GPT‑5.2, the most capable model series yet for professional knowledge work.
 
@@ -399,19 +468,15 @@ OpenAI
 
 [View all](</news/>)
 
-![Art Card 1080x1080 \(3\)](https://images.ctfassets.net/kftzwdyauwt9/3JLNH7ejJFnxLmX2LpzoKD/19f9e3c4d36cc9d677ba88e842ad2db2/Art_Card_1080x1080__4_.png?w=3840&q=90&fm=webp)
+![GPT-5.6 is now the preferred model in Microsoft 365 Copilot > Cover image](https://images.ctfassets.net/kftzwdyauwt9/3MPipvFMxS8m3kTyCtwFgj/015747dcd34cb667a221688cfca64e0f/Frame.png?w=3840&q=90&fm=webp)
 
-Better memory for a more helpful ChatGPT
+[GPT-5.6 is now the preferred model in Microsoft 365 CopilotProductJul 9, 2026](</index/gpt-5-6-preferred-model-microsoft-365-copilot/>)
 
-[Dreaming: Better memory for a more helpful ChatGPTResearchJun 4, 2026](</index/chatgpt-memory-dreaming/>)
+![GPT 5-6 > Card](https://images.ctfassets.net/kftzwdyauwt9/1a9IPPV5nXWydTBosgmgYI/8e03f28ca04f26edc8bc81cdba387df1/5-6.jpg?w=3840&q=90&fm=webp)
 
-![Rosalind5.5 ArtCard](https://images.ctfassets.net/kftzwdyauwt9/6USIQM1B7TggUvvTFxxwoi/0176ac6633c8bdc24641d25d1d2db824/GPT-Rosalind_ArtCard.png?w=3840&q=90&fm=webp)
+[GPT-5.6: Frontier intelligence that scales with your ambitionProductJul 9, 2026](</index/gpt-5-6/>)
 
-[Introducing new capabilities to GPT-RosalindProductJun 3, 2026](</index/introducing-new-capabilities-to-gpt-rosalind/>)
-
-![1 1 Art Card](https://images.ctfassets.net/kftzwdyauwt9/4xugzd9dTDMUzIUmuamtO3/1f40af4e50ab8b2bdd64d5b491964961/1_1_Art_Card.png?w=3840&q=90&fm=webp)
-
-[Codex for every role, tool, and workflowProductJun 2, 2026](</index/codex-for-every-role-tool-workflow/>)
+[ChatGPT is now a partner for your most ambitious workProductJul 9, 2026](</index/chatgpt-for-your-most-ambitious-work/>)
 
 Research
 
@@ -423,9 +488,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -462,6 +527,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -495,6 +562,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

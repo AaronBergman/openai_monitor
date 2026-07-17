@@ -1,30 +1,38 @@
 Skip to main content
 
-[](</>)
+[](</>)[](</business/>)
 
-  * [Research](</research/index/>)
+  * Why OpenAI
   * Products
-  * [Business](</business/>)
-  * [Developers](</api/>)
-  * [Company](</about/>)
-  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
+  * Solutions
+  * Resources
+  * [Customers](</business/customer-stories/>)
+  * [Pricing](</business/pricing/>)
 
 
 
-[Try now(opens in a new window)](<https://chatgpt.com/team-sign-up>)[Contact sales](</contact-sales/>)
+Try OpenAI[Contact sales](</contact-sales/>)
 
-  * Research
+  * Why OpenAI
   * Products
-  * Business
-  * Developers
-  * Company
-  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
+  * Solutions
+  * Resources
+  * [Customers](</business/customer-stories/>)
+  * [Pricing](</business/pricing/>)
 
 
 
-[Contact sales](</contact-sales/>)
+[Contact sales](</contact-sales/>)Try OpenAI
 
 OpenAI
+
+New
+
+### Introducing ChatGPT Work: 
+
+A new agent in ChatGPT that helps teams turn ambitious goals into finished work—with enterprise controls and governance built in.
+
+[Learn more](</chatgpt-work/>)
 
 OpenAI for financial services
 
@@ -114,17 +122,13 @@ HgBBVAWalleye CapitalBalyasny Asset Management (BAM)Fidelity InternationalMUFGCo
 
 [How Balyasny Asset Management built an AI research engine](</index/balyasny-asset-management/>)
 
-![\[2.0\] Card > Media > BBVA](https://images.ctfassets.net/kftzwdyauwt9/68CWIJNeDPYLc9UFRsaiLY/724c0a211983b43bd989af3d9d814300/oai_BBVA_1_1.png?w=3840&q=90&fm=webp)
-
-[Empowering a global org with ChatGPT](</index/bbva/>)
-
 ![oai BNY 1x1](https://images.ctfassets.net/kftzwdyauwt9/6pha2P5AVJHHqjh1dsjkmt/b2016686be8f596010974414726c7277/oai_BNY_1x1.png?w=3840&q=90&fm=webp)
 
 [BNY builds “AI for everyone, everywhere” with OpenAI](</index/bny/>)
 
-![\[2.0\] Card > Media > Morgan Stanley](https://images.ctfassets.net/kftzwdyauwt9/5mCz669MifU0i9wCvVpIq1/7c67daad163769492a70a186fd606feb/oai_morganstanley_1_1.png?w=3840&q=90&fm=webp)
+![Morgan Stanley logo in white, displayed over a sleek blue-toned reflective surface with smooth, intersecting edges.](https://images.ctfassets.net/kftzwdyauwt9/5mCz669MifU0i9wCvVpIq1/7c67daad163769492a70a186fd606feb/oai_morganstanley_1_1.png?w=3840&q=90&fm=webp)
 
-[Shaping the future of financial services](</index/morgan-stanley/>)
+[Morgan Stanley is shaping the future of financial services](</index/morgan-stanley/>)
 
 ## Power your institution with advanced intelligence
 
@@ -142,9 +146,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -181,6 +185,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -214,6 +220,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

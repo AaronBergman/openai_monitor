@@ -94,7 +94,7 @@ Apply ChatGPT in industry-specific contexts.
 
 ## Learn through events and workshops
 
-Join live and on-demand sessions to see Codex in action, explore real business workflows, and learn practical ways to use it in your work.
+Join live and on-demand sessions to see ChatGPT Work in action, explore real business workflows, and learn practical ways to use it in your work.
 
 [View events(opens in a new window)](<https://academy.openai.com/home/events?tag=Codex%2520for%2520Work-69e928720a0de1e2d4d241a4>)
 
@@ -140,9 +140,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -179,6 +179,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -212,6 +214,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

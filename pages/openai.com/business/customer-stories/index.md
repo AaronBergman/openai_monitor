@@ -140,6 +140,10 @@ Customer stories
 
 Filter
 
+![Cars24 — square customer story artwork](https://images.ctfassets.net/kftzwdyauwt9/2w9KeAF3eUGeTYbhIad57r/60d837660f6c59bdf46f82c28073469d/cars24-square.png?w=3840&q=90&fm=webp)
+
+[How Cars24 scales conversations and builds faster with OpenAIJul 16, 2026](</index/cars24/>)
+
 ![deutsche telekom art card](https://images.ctfassets.net/kftzwdyauwt9/2iYZomUxcCPSikL5KsftP2/a3de110c6af0d68c342b60cee47091d1/oai_Deutsche_Telekom1x1.png?w=3840&q=90&fm=webp)
 
 [How Deutsche Telekom is rewiring telecommunications with AIJul 10, 2026](</index/deutsche-telekom/>)
@@ -183,10 +187,6 @@ Filter
 ![Wasmer Customer stories > oai 1x1](https://images.ctfassets.net/kftzwdyauwt9/7JgSY9kXOlq1H4hc83F7CW/823218f0976b5a81cdc777d5da5ed804/oai_wasmer_1x1.png?w=3840&q=90&fm=webp)
 
 [How Wasmer engineers used Codex to build Edge.jsJun 3, 2026](</index/wasmer/>)
-
-![oai Travelers 1x1](https://images.ctfassets.net/kftzwdyauwt9/1P6tCWotXVaO6PzSQrpLvz/fff24dc652764a3a7cbc6b059232b3be/oai_Travelers_1x1.png?w=3840&q=90&fm=webp)
-
-[Travelers deploys AI-powered claims countrywide with OpenAIJun 2, 2026](</index/travelers/>)
 
 Load more
 
@@ -274,6 +274,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

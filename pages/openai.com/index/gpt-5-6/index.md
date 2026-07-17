@@ -96,7 +96,7 @@ Artificial Analysis Coding Agent Index v1.1Terminal-Bench 2.1DeepSWE v1.1
 
 GPT‑5.6 can write and run lightweight programs that coordinate tools, process intermediate results, monitor progress, and choose the next action as work unfolds. This lets tool-heavy tasks advance with fewer tokens, fewer model round trips, and less guidance. Instead of requiring developers to script every step or passing every tool response back through the model, [_Programmatic Tool Calling_ ⁠(opens in a new window)](<https://developers.openai.com/api/docs/guides/tools-programmatic-tool-calling>) in the Responses API can filter large amounts of intermediate data, retain only what matters, and adapt its workflow along the way. 
 
-For problems that reward a greater investment of time and compute, GPT‑5.6 can push beyond this efficient default. `max` gives GPT‑5.6 even more time than `xhigh` to reason and explore alternatives, run checks, and revise its approach. `ultra` goes further by coordinating four agents in parallel by default, trading higher token use for stronger results and faster time-to-result on demanding tasks. The charts below compare ultra’s default four-agent setup with a one-agent baseline across BrowseComp, SEC-Bench Pro, and Terminal-Bench 2.1; BrowseComp and SEC-Bench Pro also show 16-agent configurations. Across all three evaluations, adding parallel agents shifts the score-latency frontier upward and to the left, reaching stronger results in less time. In the API, developers can build ultra-like experiences using the [multi-agent⁠(opens in a new window)](<https://developers.openai.com/api/docs/guides/responses-multi-agent>) beta in the Responses API.
+For problems that reward a greater investment of time and compute, GPT‑5.6 can push beyond this efficient default. `max` gives GPT‑5.6 even more time than `xhigh` to reason and explore alternatives, run checks, and revise its approach. `ultra` goes further by coordinating four agents in parallel by default, trading higher token use for stronger results and faster time-to-result on demanding tasks. The charts below compare ultra’s default four-agent setup with a one-agent baseline across BrowseComp, SEC-Bench Pro, and Terminal-Bench 2.1; BrowseComp and SEC-Bench Pro also show 16-agent configurations. Across all three evaluations, adding parallel agents shifts the score-latency frontier upward and to the left, reaching stronger results in less time. In the API, developers can build ultra-like experiences using the [multi-agent⁠(opens in a new window)](<https://developers.openai.com/api/docs/guides/responses-multi-agent>) beta in the Responses API. 4, 5, 6
 
 BrowseComp (Multi-Agent)SEC-Bench Pro (Multi-Agent)Terminal-Bench 2.1 (Multi-Agent)
 
@@ -258,7 +258,7 @@ Early customers testing GPT‑5.6 saw improvements to knowledge work outputs acr
 
 ## Pushing the frontier on cyber and science
 
-GPT‑5.6 is our strongest cybersecurity model yet, achieving frontier performance with significantly fewer tokens. On **ExploitBench** 2, which measures progress from reaching vulnerable code through arbitrary code execution, it scores 73.5% versus GPT‑5.5’s 47.9% at a comparable output-token budget. On **ExploitGym** 3**,** which asks agents to turn real-world vulnerabilities into working exploits, it almost doubles GPT‑5.5’s peak pass rate, from 15.1% to 24.9% under the two-hour cap; with six hours, it reaches 33.7%. On **SEC-Bench Pro,** which tests proof-of-concept generation on complex software, it scores 71.2% versus GPT‑5.5’s 45.8% at an improved latency. 
+GPT‑5.6 is our strongest cybersecurity model yet, achieving frontier performance with significantly fewer tokens. On **ExploitBench**2, which measures progress from reaching vulnerable code through arbitrary code execution, it scores 73.5% versus GPT‑5.5’s 47.9% at a comparable output-token budget. On **ExploitGym**3**,** which asks agents to turn real-world vulnerabilities into working exploits, it almost doubles GPT‑5.5’s peak pass rate, from 15.1% to 24.9% under the two-hour cap; with six hours, it reaches 33.7%. On **SEC-Bench Pro,** which tests proof-of-concept generation on complex software, it scores 71.2% versus GPT‑5.5’s 45.8% at an improved latency.  1
 
 GPT‑5.6 supports important defensive tasks such as secure code review, patching, threat modeling, and blue teaming. Qualified individuals and organizations in [_OpenAI Daybreak’s Trusted Access for Cyber_ ⁠](<https://openai.com/index/daybreak-securing-the-world/>) program can access more of its defensive capability through more precise safeguards for verified work in authorized environments, including vulnerability triage and validation, malware analysis, detection engineering, and patch validation.
 
@@ -319,6 +319,8 @@ GPT‑5.6 is available starting today across ChatGPT, Codex, and the OpenAI API.
 GPT‑5.6 is priced per 1M tokens across three model sizes: Sol is $5 input / $30 output; Terra is $2.50 input / $15 output; and Luna is $1 input / $6 output. GPT‑5.6 also introduces more predictable prompt caching, including support for [_explicit cache breakpoints_ ⁠(opens in a new window)](<https://developers.openai.com/api/docs/guides/prompt-caching#prompt-cache-breakpoints>) and a 30-minute minimum cache life. For GPT‑5.6 and later models, cache writes are billed at 1.25x the model’s uncached input rate, while cache reads continue to receive the 90% cached-input discount.
 
 ## 
+
+7, 8
 
 ### Professional
 
@@ -424,21 +426,40 @@ OpenAI
 
 ## Footnotes
 
-1\. Cyber capabilities are evaluated with reduced safeguards. Users can join [_OpenAI Daybreak’s Trusted Access for Cyber program_ ⁠](<https://openai.com/index/daybreak-securing-the-world/>) for increased access to defensive cyber capabilities.
+  1. 1
 
-2\. All models are evaluated using the ExploitBench API harness with 5 seeds and reasoning continuity.
+Cyber capabilities are evaluated with reduced safeguards. Users can join [_OpenAI Daybreak’s Trusted Access for Cyber program_ ⁠](<https://openai.com/index/daybreak-securing-the-world/>) for increased access to defensive cyber capabilities. 
 
-3. We ran ExploitGym on our alpha API, which outputs responses faster than our public API, and then rescaled to match our public API. When rescaling latencies to the speeds expected for our public API, this causes some estimated latencies to exceed the two- and six-hour time limits, despite being correctly obeyed in the evaluation run. To get faster speeds for time-sensitive work, we offer priority processing⁠ in the API and fast mode⁠ in Codex.
+  2. 2
 
-4. We estimate latency and API cost by looking at the production behavior of our models, and simulating offline. These estimates account for tool call details, sampled tokens, and input tokens. Real-world results may vary substantially, and depend on many factors not captured in our simulation. We simulate latency at fast API speeds, and cost at regular API pricing.
+All models are evaluated using the ExploitBench API harness with 5 seeds and reasoning continuity. 
 
-5. Models without reported output tokens, latency or cost are plotted as horizontal dotted lines.
+  3. 3
 
-6. For multi-agent, latency is derived from the root agent, while output token and API-cost totals include all tokens. Ultra is run with 4 agents.
+We ran ExploitGym on our alpha API, which outputs responses faster than our public API, and then rescaled to match our public API. When rescaling latencies to the speeds expected for our public API, this causes some estimated latencies to exceed the two- and six-hour time limits, despite being correctly obeyed in the evaluation run. To get faster speeds for time-sensitive work, we offer priority processing⁠ in the API and fast mode⁠ in Codex. 
 
-7. We compute scores with the official scoring approach described in the HealthBench Professional paper, which is not comparable to results reported in Anthropic system cards.
+  4. 4
 
-8. ARC-AGI-3 for Opus 4.8 was run on high and not max reasoning effort, as this is the only published ARC-AGI-3 result.
+We estimate latency and API cost by looking at the production behavior of our models, and simulating offline. These estimates account for tool call details, sampled tokens, and input tokens. Real-world results may vary substantially, and depend on many factors not captured in our simulation. We simulate latency at fast API speeds, and cost at regular API pricing. 
+
+  5. 5
+
+Models without reported output tokens, latency or cost are plotted as horizontal dotted lines. 
+
+  6. 6
+
+For multi-agent, latency is derived from the root agent, while output token and API-cost totals include all tokens. Ultra is run with 4 agents. 
+
+  7. 7
+
+We compute scores with the official scoring approach described in the HealthBench Professional paper, which is not comparable to results reported in Anthropic system cards. 
+
+  8. 8
+
+ARC-AGI-3 for Opus 4.8 was run on high and not max reasoning effort, as this is the only published ARC-AGI-3 result. 
+
+
+
 
 ## Keep reading
 
@@ -538,6 +559,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

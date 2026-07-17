@@ -130,7 +130,7 @@ Ask questions, find collaborators, and stay up to date throughout Build Week.
 
 [Join Discord(opens in a new window)](<https://discord.verify.openai.com/buildweek>)
 
-![World map showing locations of OpenAI Build Week community events.](https://images.ctfassets.net/kftzwdyauwt9/pFYsg9kubFQIiIFDUEXHV/16dd09b370e1a6afa302d26dead5f007/05_aurora-event-field-3840x2160.png?w=3840&q=90&fm=webp)
+32[(opens in a new window)](<https://luma.com/575tlio7>)4[(opens in a new window)](<https://luma.com/3nojnrm2>)[(opens in a new window)](<https://luma.com/uwpmtuqu>)1053[(opens in a new window)](<https://luma.com/openai-build-week-manila>)[(opens in a new window)](<https://luma.com/leaoeauz>)2[(opens in a new window)](<https://luma.com/keng8c0n>)[(opens in a new window)](<https://luma.com/ijxmsg80>)442[(opens in a new window)](<https://luma.com/o78s4965>)[(opens in a new window)](<https://luma.com/7fhasbun>)2[(opens in a new window)](<https://luma.com/nakm1amb>)32[(opens in a new window)](<https://luma.com/rilvext6>)[(opens in a new window)](<https://luma.com/h1tnbguc>)[(opens in a new window)](<https://luma.com/wokhi19p>)2[(opens in a new window)](<https://luma.com/488dqysb>)[(opens in a new window)](<https://luma.com/boqix2zk>)[(opens in a new window)](<https://luma.com/yx3p1zxx>)[(opens in a new window)](<https://luma.com/yzoilzlq>)[(opens in a new window)](<https://luma.com/aow67tlz>)[(opens in a new window)](<https://luma.com/cr6ldqu4>)
 
 ## FAQ
 
@@ -224,6 +224,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

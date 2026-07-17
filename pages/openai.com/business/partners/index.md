@@ -52,11 +52,11 @@ Accenture Federal Services
 
 AI Works
 
-![AI Works logo](https://images.ctfassets.net/kftzwdyauwt9/71EyLcoWUFilfqixlD7NHh/90f6c772a9ca03766fe28597e002085c/ai-works-light-large.png?w=3840&q=90&fm=webp)
+![Aiworks logo](https://images.ctfassets.net/kftzwdyauwt9/1BFM7GTbhx2wh1BzVFoiDM/348f12a321bcbe6d06c3c4c521523ba7/aiworks-square-light.svg?w=3840&q=90)
 
 Algorithmic Intelligence
 
-![Algorithmic Intelligence logo](https://images.ctfassets.net/kftzwdyauwt9/3hXSwFyD66uLrTixokYu4K/d1ae42b0df842158d58c4a70e6dcf917/algorithmic-intelligence-light-large-90.png?w=3840&q=90&fm=webp)
+![Algorithmic Intelligence, Pte. Ltd. logo](https://images.ctfassets.net/kftzwdyauwt9/1J3EYnwuji3gkYwsFolOqc/b75f58ecebdcf4112bb2e4634525ca47/algorithmic-intelligence-square-light.svg?w=3840&q=90)
 
 Altimetrik
 
@@ -80,7 +80,7 @@ Bain & Company
 
 BCG
 
-![BCG logo](https://images.ctfassets.net/kftzwdyauwt9/6343xvG7AQOURvvV1B0QVb/822a53299d08d47c1dfebb7b236b9847/BCG.svg?w=3840&q=90)
+![Boston Consulting Group logo](https://images.ctfassets.net/kftzwdyauwt9/YGZBAwOPwnl7w1zlhojKH/1139fe3fc7bd98608a900d600eeb229b/bcg-square-light.svg?w=3840&q=90)
 
 Capco
 
@@ -88,15 +88,15 @@ Capco
 
 Capgemini
 
-![Capgemini logo](https://images.ctfassets.net/kftzwdyauwt9/2x0S2LuN5rELSBhnBQt3oJ/2f7410c8cc1f55185a89e8d1bcf3369d/Capgemini_full_logo_blue_NEW_transparent.svg?w=3840&q=90)
+![Capgemini logo](https://images.ctfassets.net/kftzwdyauwt9/4vR1Q4kfD1DSskol6Z1St2/50704efd170efcfe108d169a76c50e1d/capgemini-square-light.svg?w=3840&q=90)
 
 CGI
 
-![CGI logo](https://images.ctfassets.net/kftzwdyauwt9/1sOVKOdn7lVFOaCFL196Za/0cb74516bf8e4664c4e4072bfd3e42c9/cgi-square-light.svg?w=3840&q=90)
+![CGI logo](https://images.ctfassets.net/kftzwdyauwt9/4OyqFKpOMbw10mPHcLWFmn/0d4907540050fb709f8d5c364589d5a2/cgi-square-light.svg?w=3840&q=90)
 
 Cognita Reply
 
-![Cognita Reply logo](https://images.ctfassets.net/kftzwdyauwt9/3e5ActpPtKtCDHAl6zV1LY/c48705150268f5e8d52ec20514e17110/Cognita_Reply.svg?w=3840&q=90)
+![Cognita Reply logo](https://images.ctfassets.net/kftzwdyauwt9/partnerLocatorReplySquareLight20260714/cba66d9cf084a6eae756fe2a0d559e29/Cognita_Reply.svg?w=3840&q=90)
 
 Cognizant
 
@@ -106,25 +106,29 @@ Databricks
 
 ![Databricks logo](https://images.ctfassets.net/kftzwdyauwt9/61ZOn9gNWAWiYbgQMOaSSN/a20a577d32d57427e7f890152d0c7a35/Databricks.svg?w=3840&q=90)
 
-Deepsense
+deepsense.ai
 
-![deepsense.ai logo](https://images.ctfassets.net/kftzwdyauwt9/1orPk3yZu2O6kUnPNWbIpa/c33a5624d10c736e7b61a4c49428f5cc/deepsense-larger-light.png?w=3840&q=90&fm=webp)
+![deepsense.ai logo](https://images.ctfassets.net/kftzwdyauwt9/6LzIuojrKqcpRB7lQJ4eaE/3b36f504583e4c18143f0c154310905b/deepsense-square-light.svg?w=3840&q=90)
 
 Dentsu Japan
 
 ![Dentsu Japan logo](https://images.ctfassets.net/kftzwdyauwt9/1JADpGw9MIqHoyn1w3VfCX/2991ef7544e6b25961bd9200691dd8ed/dentsu-square-light.svg?w=3840&q=90)
 
-Eliza Solutions Corp
+Eliza
 
 ![Eliza logo](https://images.ctfassets.net/kftzwdyauwt9/66QLSpv0l3MGOluz2t5g5X/b0b34c0c9bc7de2be19b31a9a56f891a/eliza-square-light.svg?w=3840&q=90)
 
 Endava
 
-![Endava logo](https://images.ctfassets.net/kftzwdyauwt9/O1tKpCSDrPprnS4cDs5XL/c98a355f7d941f99aae542428317b0d4/endava-square-light.svg?w=3840&q=90)
+![Endava logo](https://images.ctfassets.net/kftzwdyauwt9/23kZ9A1DIl8OyyR4rzgHt3/60b3d4187870e3e1610c2ec3ffad1da8/endava-square-light.svg?w=3840&q=90)
 
-EY
+Ernst & Young
 
-![EY logo](https://images.ctfassets.net/kftzwdyauwt9/7LXha98sbU3Y1kztjggkIb/1911dba91670c844116586415d93d897/EY.svg?w=3840&q=90)
+![Ernst & Young logo](https://images.ctfassets.net/kftzwdyauwt9/6Suyj9Tjsnh3vfKerGQX4l/fb741971ff7a89de2adf3e6388accc55/ey-square-light.svg?w=3840&q=90)
+
+EPAM
+
+![EPAM logo](https://images.ctfassets.net/kftzwdyauwt9/1PKvv5gn0HzqrDcl9F7DyB/520eed0951f666fb9c37419bce2b133e/epam-square-light.svg?w=3840&q=90)
 
 Fellow Intelligence
 
@@ -148,11 +152,11 @@ HCLTech
 
 Infosys
 
-![Infosys logo](https://images.ctfassets.net/kftzwdyauwt9/7ISVJjwOJ7dgVearc4n1sf/f0b4b96af016ec1db911f34f95da313a/Infosys.svg?w=3840&q=90)
+![Infosys logo](https://images.ctfassets.net/kftzwdyauwt9/partnerLocatorInfosysSquareLight20260714/ced93869a47cf4b8bf2aecf0da3fdfc9/Infosys.svg?w=3840&q=90)
 
 KPMG
 
-![KPMG logo](https://images.ctfassets.net/kftzwdyauwt9/4DtWfrnLDJYp7bAdefahND/a5fe2eeeba91a9e6953346fc285b59c7/kpmg-light-larger-crop-safe.png?w=3840&q=90&fm=webp)
+![KPMG logo](https://images.ctfassets.net/kftzwdyauwt9/5L0vA3Wliji92xaqTcGlQi/af968e49adbbfb5962c93dc995c9a905/kpmg-square-light.svg?w=3840&q=90)
 
 McKinsey & Company
 
@@ -164,7 +168,7 @@ ML6
 
 NTT DATA
 
-![NTT DATA logo](https://images.ctfassets.net/kftzwdyauwt9/2wNmgerH4vMSE8u8qnigLe/254b7162a9bf8b36b000d969f9daff0a/ntt-data-logo-square-transparent-clean.png?w=3840&q=90&fm=webp)
+![NTT DATA logo](https://images.ctfassets.net/kftzwdyauwt9/4mU16WlH0VDLJE5rOMA8sw/2cd075f9af2dc5273f01fd605b1332d6/ntt-data-square-light.svg?w=3840&q=90)
 
 Pathfindr
 
@@ -184,7 +188,7 @@ SB OAI Japan GK
 
 SIA
 
-![SIA logo](https://images.ctfassets.net/kftzwdyauwt9/1PZVRJxbOfDhxLH6UE2DBr/51cd3b5850b17934941d9d23c4b16f75/SIA.svg?w=3840&q=90)
+![Sia logo](https://images.ctfassets.net/kftzwdyauwt9/17YTMrpfaiIKHQWppl4bJr/0f3f22de43c1aa61e4072d909977475f/sia-partners-square-light.svg?w=3840&q=90)
 
 Slalom
 
@@ -194,17 +198,17 @@ Snowflake
 
 ![Snowflake logo](https://images.ctfassets.net/kftzwdyauwt9/26PvuaJSYdk1I7hmbQuknS/2f5af8f43257560f83803406bc0debc0/Snowflake.svg?w=3840&q=90)
 
-Statworx
+statworx
 
 ![statworx logo](https://images.ctfassets.net/kftzwdyauwt9/Yx30LAXRjjMmlOsGr52fj/1141616753f711fc5451ac2a717d28d0/statworx-square-light.svg?w=3840&q=90)
 
 TCS
 
-![TCS logo](https://images.ctfassets.net/kftzwdyauwt9/2tWQEvLkbVwNmMBKFgjbag/f2506d6fd4056c402cb290f3b62671ed/TCS.svg?w=3840&q=90)
+![TCS logo](https://images.ctfassets.net/kftzwdyauwt9/55P4y3cpv0If7lYmQZCHOc/eda7195f9936d398c4ae891768b16741/tcs-square-light.svg?w=3840&q=90)
 
 Thinking Machines Data Science
 
-![Thinking Machines Data Science logo](https://images.ctfassets.net/kftzwdyauwt9/2jLy9DEuOgJvpoJIJq8ORH/251cd9d23363f99361fe6f954497e3a2/thinking-machines-larger-light.png?w=3840&q=90&fm=webp)
+![Thinking Machines Data Science logo](https://images.ctfassets.net/kftzwdyauwt9/UYLJLH7J6sZlWLWmXb5e2/7ca6490de7136f3f832382c550c57a89/thinking-machines-square-light.svg?w=3840&q=90)
 
 Tribe AI
 
@@ -224,11 +228,11 @@ Accenture Federal Services
 
 AI Works
 
-![AI Works logo](https://images.ctfassets.net/kftzwdyauwt9/71EyLcoWUFilfqixlD7NHh/90f6c772a9ca03766fe28597e002085c/ai-works-light-large.png?w=3840&q=90&fm=webp)
+![Aiworks logo](https://images.ctfassets.net/kftzwdyauwt9/1BFM7GTbhx2wh1BzVFoiDM/348f12a321bcbe6d06c3c4c521523ba7/aiworks-square-light.svg?w=3840&q=90)
 
 Algorithmic Intelligence
 
-![Algorithmic Intelligence logo](https://images.ctfassets.net/kftzwdyauwt9/3hXSwFyD66uLrTixokYu4K/d1ae42b0df842158d58c4a70e6dcf917/algorithmic-intelligence-light-large-90.png?w=3840&q=90&fm=webp)
+![Algorithmic Intelligence, Pte. Ltd. logo](https://images.ctfassets.net/kftzwdyauwt9/1J3EYnwuji3gkYwsFolOqc/b75f58ecebdcf4112bb2e4634525ca47/algorithmic-intelligence-square-light.svg?w=3840&q=90)
 
 Altimetrik
 
@@ -252,7 +256,7 @@ Bain & Company
 
 BCG
 
-![BCG logo](https://images.ctfassets.net/kftzwdyauwt9/6343xvG7AQOURvvV1B0QVb/822a53299d08d47c1dfebb7b236b9847/BCG.svg?w=3840&q=90)
+![Boston Consulting Group logo](https://images.ctfassets.net/kftzwdyauwt9/YGZBAwOPwnl7w1zlhojKH/1139fe3fc7bd98608a900d600eeb229b/bcg-square-light.svg?w=3840&q=90)
 
 Capco
 
@@ -260,15 +264,15 @@ Capco
 
 Capgemini
 
-![Capgemini logo](https://images.ctfassets.net/kftzwdyauwt9/2x0S2LuN5rELSBhnBQt3oJ/2f7410c8cc1f55185a89e8d1bcf3369d/Capgemini_full_logo_blue_NEW_transparent.svg?w=3840&q=90)
+![Capgemini logo](https://images.ctfassets.net/kftzwdyauwt9/4vR1Q4kfD1DSskol6Z1St2/50704efd170efcfe108d169a76c50e1d/capgemini-square-light.svg?w=3840&q=90)
 
 CGI
 
-![CGI logo](https://images.ctfassets.net/kftzwdyauwt9/1sOVKOdn7lVFOaCFL196Za/0cb74516bf8e4664c4e4072bfd3e42c9/cgi-square-light.svg?w=3840&q=90)
+![CGI logo](https://images.ctfassets.net/kftzwdyauwt9/4OyqFKpOMbw10mPHcLWFmn/0d4907540050fb709f8d5c364589d5a2/cgi-square-light.svg?w=3840&q=90)
 
 Cognita Reply
 
-![Cognita Reply logo](https://images.ctfassets.net/kftzwdyauwt9/3e5ActpPtKtCDHAl6zV1LY/c48705150268f5e8d52ec20514e17110/Cognita_Reply.svg?w=3840&q=90)
+![Cognita Reply logo](https://images.ctfassets.net/kftzwdyauwt9/partnerLocatorReplySquareLight20260714/cba66d9cf084a6eae756fe2a0d559e29/Cognita_Reply.svg?w=3840&q=90)
 
 Cognizant
 
@@ -278,25 +282,29 @@ Databricks
 
 ![Databricks logo](https://images.ctfassets.net/kftzwdyauwt9/61ZOn9gNWAWiYbgQMOaSSN/a20a577d32d57427e7f890152d0c7a35/Databricks.svg?w=3840&q=90)
 
-Deepsense
+deepsense.ai
 
-![deepsense.ai logo](https://images.ctfassets.net/kftzwdyauwt9/1orPk3yZu2O6kUnPNWbIpa/c33a5624d10c736e7b61a4c49428f5cc/deepsense-larger-light.png?w=3840&q=90&fm=webp)
+![deepsense.ai logo](https://images.ctfassets.net/kftzwdyauwt9/6LzIuojrKqcpRB7lQJ4eaE/3b36f504583e4c18143f0c154310905b/deepsense-square-light.svg?w=3840&q=90)
 
 Dentsu Japan
 
 ![Dentsu Japan logo](https://images.ctfassets.net/kftzwdyauwt9/1JADpGw9MIqHoyn1w3VfCX/2991ef7544e6b25961bd9200691dd8ed/dentsu-square-light.svg?w=3840&q=90)
 
-Eliza Solutions Corp
+Eliza
 
 ![Eliza logo](https://images.ctfassets.net/kftzwdyauwt9/66QLSpv0l3MGOluz2t5g5X/b0b34c0c9bc7de2be19b31a9a56f891a/eliza-square-light.svg?w=3840&q=90)
 
 Endava
 
-![Endava logo](https://images.ctfassets.net/kftzwdyauwt9/O1tKpCSDrPprnS4cDs5XL/c98a355f7d941f99aae542428317b0d4/endava-square-light.svg?w=3840&q=90)
+![Endava logo](https://images.ctfassets.net/kftzwdyauwt9/23kZ9A1DIl8OyyR4rzgHt3/60b3d4187870e3e1610c2ec3ffad1da8/endava-square-light.svg?w=3840&q=90)
 
-EY
+Ernst & Young
 
-![EY logo](https://images.ctfassets.net/kftzwdyauwt9/7LXha98sbU3Y1kztjggkIb/1911dba91670c844116586415d93d897/EY.svg?w=3840&q=90)
+![Ernst & Young logo](https://images.ctfassets.net/kftzwdyauwt9/6Suyj9Tjsnh3vfKerGQX4l/fb741971ff7a89de2adf3e6388accc55/ey-square-light.svg?w=3840&q=90)
+
+EPAM
+
+![EPAM logo](https://images.ctfassets.net/kftzwdyauwt9/1PKvv5gn0HzqrDcl9F7DyB/520eed0951f666fb9c37419bce2b133e/epam-square-light.svg?w=3840&q=90)
 
 Fellow Intelligence
 
@@ -320,11 +328,11 @@ HCLTech
 
 Infosys
 
-![Infosys logo](https://images.ctfassets.net/kftzwdyauwt9/7ISVJjwOJ7dgVearc4n1sf/f0b4b96af016ec1db911f34f95da313a/Infosys.svg?w=3840&q=90)
+![Infosys logo](https://images.ctfassets.net/kftzwdyauwt9/partnerLocatorInfosysSquareLight20260714/ced93869a47cf4b8bf2aecf0da3fdfc9/Infosys.svg?w=3840&q=90)
 
 KPMG
 
-![KPMG logo](https://images.ctfassets.net/kftzwdyauwt9/4DtWfrnLDJYp7bAdefahND/a5fe2eeeba91a9e6953346fc285b59c7/kpmg-light-larger-crop-safe.png?w=3840&q=90&fm=webp)
+![KPMG logo](https://images.ctfassets.net/kftzwdyauwt9/5L0vA3Wliji92xaqTcGlQi/af968e49adbbfb5962c93dc995c9a905/kpmg-square-light.svg?w=3840&q=90)
 
 McKinsey & Company
 
@@ -336,7 +344,7 @@ ML6
 
 NTT DATA
 
-![NTT DATA logo](https://images.ctfassets.net/kftzwdyauwt9/2wNmgerH4vMSE8u8qnigLe/254b7162a9bf8b36b000d969f9daff0a/ntt-data-logo-square-transparent-clean.png?w=3840&q=90&fm=webp)
+![NTT DATA logo](https://images.ctfassets.net/kftzwdyauwt9/4mU16WlH0VDLJE5rOMA8sw/2cd075f9af2dc5273f01fd605b1332d6/ntt-data-square-light.svg?w=3840&q=90)
 
 Pathfindr
 
@@ -356,7 +364,7 @@ SB OAI Japan GK
 
 SIA
 
-![SIA logo](https://images.ctfassets.net/kftzwdyauwt9/1PZVRJxbOfDhxLH6UE2DBr/51cd3b5850b17934941d9d23c4b16f75/SIA.svg?w=3840&q=90)
+![Sia logo](https://images.ctfassets.net/kftzwdyauwt9/17YTMrpfaiIKHQWppl4bJr/0f3f22de43c1aa61e4072d909977475f/sia-partners-square-light.svg?w=3840&q=90)
 
 Slalom
 
@@ -366,17 +374,17 @@ Snowflake
 
 ![Snowflake logo](https://images.ctfassets.net/kftzwdyauwt9/26PvuaJSYdk1I7hmbQuknS/2f5af8f43257560f83803406bc0debc0/Snowflake.svg?w=3840&q=90)
 
-Statworx
+statworx
 
 ![statworx logo](https://images.ctfassets.net/kftzwdyauwt9/Yx30LAXRjjMmlOsGr52fj/1141616753f711fc5451ac2a717d28d0/statworx-square-light.svg?w=3840&q=90)
 
 TCS
 
-![TCS logo](https://images.ctfassets.net/kftzwdyauwt9/2tWQEvLkbVwNmMBKFgjbag/f2506d6fd4056c402cb290f3b62671ed/TCS.svg?w=3840&q=90)
+![TCS logo](https://images.ctfassets.net/kftzwdyauwt9/55P4y3cpv0If7lYmQZCHOc/eda7195f9936d398c4ae891768b16741/tcs-square-light.svg?w=3840&q=90)
 
 Thinking Machines Data Science
 
-![Thinking Machines Data Science logo](https://images.ctfassets.net/kftzwdyauwt9/2jLy9DEuOgJvpoJIJq8ORH/251cd9d23363f99361fe6f954497e3a2/thinking-machines-larger-light.png?w=3840&q=90&fm=webp)
+![Thinking Machines Data Science logo](https://images.ctfassets.net/kftzwdyauwt9/UYLJLH7J6sZlWLWmXb5e2/7ca6490de7136f3f832382c550c57a89/thinking-machines-square-light.svg?w=3840&q=90)
 
 Tribe AI
 
@@ -684,6 +692,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)
