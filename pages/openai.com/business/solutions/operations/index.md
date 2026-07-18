@@ -26,14 +26,6 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 OpenAI
 
-New
-
-### Introducing ChatGPT Work: 
-
-A new agent in ChatGPT that helps teams turn ambitious goals into finished work—with enterprise controls and governance built in.
-
-[Learn more](</chatgpt-work/>)
-
 # AI for your operations team’s most ambitious work
 
 ChatGPT Work pulls project updates from across your systems, surfaces risks and next steps, and keeps weekly reviews current—so operations teams spend less time chasing information and more time moving priorities forward.

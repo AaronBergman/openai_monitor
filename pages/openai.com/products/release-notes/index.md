@@ -43,6 +43,32 @@ Sort
 
 ChatGPT
 
+Jul 15, 2026
+
+GA
+
+## Increased custom instructions limit in ChatGPT
+
+We’re increasing the character limit for custom instructions in ChatGPT. Plus, Pro, Enterprise, Business, and Education users can now save up to 5,000 characters, up from 1,500, giving them more room to customize ChatGPT’s response style and behavior.
+
+[View source(opens in a new window)](<https://help.openai.com/en/articles/6825453-chatgpt-release-notes#increased-custom-instructions-limit>)
+
+ChatGPT
+
+Jul 15, 2026
+
+GA
+
+## Apps with sync support EKM workspaces
+
+Apps with sync are now available for ChatGPT Enterprise and Edu workspaces with Enterprise Key Management (EKM) enabled. This update applies to all apps with sync.
+
+The supporting apps-with-sync documentation confirms that apps with sync are available for Enterprise and Edu workspaces with EKM enabled.
+
+[View source(opens in a new window)](<https://help.openai.com/en/articles/10128477-chatgpt-enterprise-edu-release-notes#apps-with-sync-now-support-ekm-workspaces>)[Help center(opens in a new window)](<https://help.openai.com/en/articles/10847137>)[Help center(opens in a new window)](<https://help.openai.com/en/articles/20000943>)
+
+ChatGPT
+
 Jul 14, 2026
 
 GA
@@ -110,42 +136,6 @@ GA
 
 
 [View source(opens in a new window)](<https://developers.openai.com/codex/changelog#codex-2026-07-13-mobile>)
-
-API
-
-Jul 9, 2026
-
-GA
-
-## Introducing the GPT-5.6 model family 
-
-GPT‑5.6 is now available across ChatGPT, Codex, and the OpenAI API. The rollout is starting globally and will continue gradually toward full availability over the next 24 hours.
-
-The GPT‑5.6 model family, includes GPT‑5.6 Sol for frontier capability, GPT‑5.6 Terra for a balance of intelligence and cost, and GPT‑5.6 Luna for efficient, high-volume workloads. 
-
-In the API, The gpt-5.6 alias routes requests to gpt-5.6-sol. GPT‑5.6 also adds Programmatic Tool Calling, explicit prompt caching controls, persisted reasoning, max reasoning effort, Pro mode, and Multi-agent orchestration in beta for the Responses API. GPT‑5.6 also accepts images at their original dimensions with original or auto image detail.
-
-[View source](<https://openai.com/index/gpt-5-6/>)[Platform docs(opens in a new window)](<https://developers.openai.com/api/docs/guides/latest-model>)[Help center (opens in a new window)](<https://help.openai.com/en/articles/20001354-gpt-56-in-chatgpt>)
-
-ChatGPT
-
-Jul 9, 2026
-
-GA
-
-## Introducing ChatGPT Work
-
-ChatGPT Work is an agent for longer, more involved tasks. It can research and analyze information, work across connected apps and files, and create finished documents, spreadsheets, presentations, reports, and Sites. Users can follow progress, answer questions, change direction, and approve important actions while it works.
-
-Work can also keep projects moving through Scheduled Tasks that run once, repeat on a schedule or trigger, or monitor for changes.
-
-On web and mobile, Work is rolling out to paid plans except Free and Go. Pro, Pro Lite, Enterprise, and Edu users receive access first; Plus and Business users will follow over the coming days. Work is available in all supported regions.
-
-On web and mobile, Enterprise and Edu workspaces have a two-week preview period. Work is off by default during the preview, and admins can opt out before it turns on automatically at the end of the preview.
-
-The App Directory is being replaced with the Plugin Directory. Existing app connections are unaffected. Plugins can package skills, apps, and app templates for specific workflows, and are available from ChatGPT on web and desktop, including Work and Codex.
-
-[View source(opens in a new window)](<https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-chatgpt-work>)[Blog ](<https://openai.com/index/chatgpt-for-your-most-ambitious-work/>)
 
 Load more
 

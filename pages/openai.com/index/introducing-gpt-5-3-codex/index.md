@@ -42,12 +42,6 @@ Frontier agentic capabilities
 
   * Frontier agentic capabilities
 
-    * Coding
-
-    * Web development
-
-    * Beyond coding
-
   * An interactive collaborator
 
   * How we used Codex to train and deploy GPT-5.3-Codex
@@ -64,12 +58,6 @@ Frontier agentic capabilities
 
 
   * Frontier agentic capabilities
-
-    * Coding
-
-    * Web development
-
-    * Beyond coding
 
   * An interactive collaborator
 

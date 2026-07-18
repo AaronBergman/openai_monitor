@@ -28,7 +28,7 @@ OpenAI
 
 [Back to OpenAI Partner Locator](</business/partners/locator/>)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/6yXYbzZ42zFo694WiSIRdj/ccee33081d8b6d03f47621b89cd7ed6f/bain-company-square-light.svg?w=3840&q=90)
+![](https://images.ctfassets.net/kftzwdyauwt9/6EKBRRuf3ZgQYv5UFtu0WJ/0ad835dd088f2c94e00d411aeb1724ce/bain___company_square_light.svg?w=3840&q=90)
 
 # Bain & Company
 
@@ -36,7 +36,7 @@ OpenAI
 
 Bain & Company is a global consultancy that helps the world’s most ambitious change makers define the future. Across 65 cities in 40 countries, we work alongside our clients as one team with a shared ambition to achieve extraordinary results, outperform the competition, and redefine industries. We complement our tailored, integrated expertise with a vibrant ecosystem of digital innovators to deliver better, faster, and more enduring outcomes. Since our founding in 1973, we have measured our success by the success of our clients and proudly maintain the highest level of client advocacy in the industry.
 
-![Elite Partner](/images/partner-tier-badges/OAI_PartnerNetwork_ElitePartner.svg?dpl=dpl_Bt2QvgNvrDjuduwqx5NPqQxCos4N)
+![Elite Partner](/images/partner-tier-badges/OAI_PartnerNetwork_ElitePartner.svg?dpl=dpl_CHFh1LwCXgnCNQCTTGqsqt4uVcyv)
 
 Countries served
     Global
@@ -131,6 +131,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)
