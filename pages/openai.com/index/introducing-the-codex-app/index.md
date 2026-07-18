@@ -42,14 +42,6 @@ The Codex app: A command center for agents
 
   * The Codex app: A command center for agents
 
-    * Work with multiple agents in parallel
-
-    * Go beyond code generation with skills
-
-    * Delegate repetitive work with Automations
-
-    * A personality that fits how you work
-
   * Secure by default, configurable by design
 
   * Availability & pricing
@@ -60,14 +52,6 @@ The Codex app: A command center for agents
 
 
   * The Codex app: A command center for agents
-
-    * Work with multiple agents in parallel
-
-    * Go beyond code generation with skills
-
-    * Delegate repetitive work with Automations
-
-    * A personality that fits how you work
 
   * Secure by default, configurable by design
 

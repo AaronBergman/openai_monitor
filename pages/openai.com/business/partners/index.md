@@ -26,14 +26,6 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 OpenAI
 
-New
-
-### Introducing ChatGPT Work: 
-
-A new agent in ChatGPT that helps teams turn ambitious goals into finished work—with enterprise controls and governance built in.
-
-[Learn more](</chatgpt-work/>)
-
 # OpenAI Partner Network
 
 Build, co-sell, and deliver AI solutions with OpenAI.
@@ -72,11 +64,11 @@ Artium
 
 AWS
 
-![AWS logo](https://images.ctfassets.net/kftzwdyauwt9/4g8rJNVCoikZYOouZ1AMUW/656c93aee6702e4496946ccfc130ebe1/aws-light-85.png?w=3840&q=90&fm=webp)
+![AWS logo](https://images.ctfassets.net/kftzwdyauwt9/2fzUGOqeA4gmwd3ZvfZ7Et/d9ecc3a1a0bf6e65fec5f67a83ffe28f/aws-light.svg?w=3840&q=90)
 
 Bain & Company
 
-![Bain & Company logo](https://images.ctfassets.net/kftzwdyauwt9/6yXYbzZ42zFo694WiSIRdj/ccee33081d8b6d03f47621b89cd7ed6f/bain-company-square-light.svg?w=3840&q=90)
+![Bain & Company logo](https://images.ctfassets.net/kftzwdyauwt9/6EKBRRuf3ZgQYv5UFtu0WJ/0ad835dd088f2c94e00d411aeb1724ce/bain___company_square_light.svg?w=3840&q=90)
 
 BCG
 
@@ -104,7 +96,7 @@ Cognizant
 
 Databricks
 
-![Databricks logo](https://images.ctfassets.net/kftzwdyauwt9/61ZOn9gNWAWiYbgQMOaSSN/a20a577d32d57427e7f890152d0c7a35/Databricks.svg?w=3840&q=90)
+![Databricks logo](https://images.ctfassets.net/kftzwdyauwt9/4RZpkFlKPZ3v1IAIXt11hb/650b4fb9cfe5cb1a788ba4d6649f0075/databricks-light.svg?w=3840&q=90)
 
 deepsense.ai
 
@@ -140,11 +132,11 @@ Fractal
 
 Fujitsu
 
-![Fujitsu logo](https://images.ctfassets.net/kftzwdyauwt9/6DIsyRtd7OsdhGgxrkfNBo/3abb5f421fd4947adb43f67332900adc/fujitsu-light-larger-crop-safe.png?w=3840&q=90&fm=webp)
+![Fujitsu logo](https://images.ctfassets.net/kftzwdyauwt9/4p8ZELPSleQuzkee5xc7vR/be6a7d927c271ab5155c33b822ef6634/fujitsu-light.svg?w=3840&q=90)
 
 Globant
 
-![Globant logo](https://images.ctfassets.net/kftzwdyauwt9/3g7CfNzTofV5SvIkXBPy8z/16d01b259b539c863d7cdc5b02c7f078/Globant_logo_carousel_square.svg?w=3840&q=90)
+![Globant logo](https://images.ctfassets.net/kftzwdyauwt9/5jBRRSmmRhrDA9y6O4Z3e1/66bbcc7da0f108e683deedefba9c3578/globant-light.svg?w=3840&q=90)
 
 HCLTech
 
@@ -196,7 +188,7 @@ Slalom
 
 Snowflake
 
-![Snowflake logo](https://images.ctfassets.net/kftzwdyauwt9/26PvuaJSYdk1I7hmbQuknS/2f5af8f43257560f83803406bc0debc0/Snowflake.svg?w=3840&q=90)
+![Snowflake logo](https://images.ctfassets.net/kftzwdyauwt9/7er955ZHkrHs8B4doJwzYf/f12394c0a5f59d6df2f81d2252d2138f/snowflake-light.svg?w=3840&q=90)
 
 statworx
 
@@ -248,11 +240,11 @@ Artium
 
 AWS
 
-![AWS logo](https://images.ctfassets.net/kftzwdyauwt9/4g8rJNVCoikZYOouZ1AMUW/656c93aee6702e4496946ccfc130ebe1/aws-light-85.png?w=3840&q=90&fm=webp)
+![AWS logo](https://images.ctfassets.net/kftzwdyauwt9/2fzUGOqeA4gmwd3ZvfZ7Et/d9ecc3a1a0bf6e65fec5f67a83ffe28f/aws-light.svg?w=3840&q=90)
 
 Bain & Company
 
-![Bain & Company logo](https://images.ctfassets.net/kftzwdyauwt9/6yXYbzZ42zFo694WiSIRdj/ccee33081d8b6d03f47621b89cd7ed6f/bain-company-square-light.svg?w=3840&q=90)
+![Bain & Company logo](https://images.ctfassets.net/kftzwdyauwt9/6EKBRRuf3ZgQYv5UFtu0WJ/0ad835dd088f2c94e00d411aeb1724ce/bain___company_square_light.svg?w=3840&q=90)
 
 BCG
 
@@ -280,7 +272,7 @@ Cognizant
 
 Databricks
 
-![Databricks logo](https://images.ctfassets.net/kftzwdyauwt9/61ZOn9gNWAWiYbgQMOaSSN/a20a577d32d57427e7f890152d0c7a35/Databricks.svg?w=3840&q=90)
+![Databricks logo](https://images.ctfassets.net/kftzwdyauwt9/4RZpkFlKPZ3v1IAIXt11hb/650b4fb9cfe5cb1a788ba4d6649f0075/databricks-light.svg?w=3840&q=90)
 
 deepsense.ai
 
@@ -316,11 +308,11 @@ Fractal
 
 Fujitsu
 
-![Fujitsu logo](https://images.ctfassets.net/kftzwdyauwt9/6DIsyRtd7OsdhGgxrkfNBo/3abb5f421fd4947adb43f67332900adc/fujitsu-light-larger-crop-safe.png?w=3840&q=90&fm=webp)
+![Fujitsu logo](https://images.ctfassets.net/kftzwdyauwt9/4p8ZELPSleQuzkee5xc7vR/be6a7d927c271ab5155c33b822ef6634/fujitsu-light.svg?w=3840&q=90)
 
 Globant
 
-![Globant logo](https://images.ctfassets.net/kftzwdyauwt9/3g7CfNzTofV5SvIkXBPy8z/16d01b259b539c863d7cdc5b02c7f078/Globant_logo_carousel_square.svg?w=3840&q=90)
+![Globant logo](https://images.ctfassets.net/kftzwdyauwt9/5jBRRSmmRhrDA9y6O4Z3e1/66bbcc7da0f108e683deedefba9c3578/globant-light.svg?w=3840&q=90)
 
 HCLTech
 
@@ -372,7 +364,7 @@ Slalom
 
 Snowflake
 
-![Snowflake logo](https://images.ctfassets.net/kftzwdyauwt9/26PvuaJSYdk1I7hmbQuknS/2f5af8f43257560f83803406bc0debc0/Snowflake.svg?w=3840&q=90)
+![Snowflake logo](https://images.ctfassets.net/kftzwdyauwt9/7er955ZHkrHs8B4doJwzYf/f12394c0a5f59d6df2f81d2252d2138f/snowflake-light.svg?w=3840&q=90)
 
 statworx
 

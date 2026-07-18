@@ -4,6 +4,37 @@ A daily log of every change to OpenAI's public website — what appeared, what d
 
 ---
 
+## 2026-07-18 — Run `2026-07-18T09-15Z`
+
+**Fetch time:** 2026-07-18T09:16:52Z
+**Baseline:** 2026-07-17T09-16Z (consecutive day)
+**Stats:** 1459 total URLs | +1 added | 23 updated (2 with a real content diff) | -0 removed | 0 anomalies | 34 sub-sitemaps
+
+**TL;DR:** A quiet day. The one new page is a CFO-bylined essay, [A scorecard for the AI age](pages/openai.com/index/a-scorecard-for-the-ai-age/index.md), pitching a "Useful Intelligence per Dollar" framework for evaluating AI ROI — a companion piece to the ChatGPT Work and GPT‑5.6 pushes covered here recently. The more interesting item is a callback: on 2026-07-15 this log flagged that the GPT‑5.6 launch page had quietly dropped its "700,000 A100e GPU hours" red-teaming compute figure, leaving a vague unit with no number. That number is back today, worded slightly differently ("approximately 700,000 NVIDIA A100 Tensor Core GPU-equivalent hours") — looks like a copy-editing fix rather than a retraction being walked back. Most of the other 22 "updated" pages are template catch-up noise (a few Partner Network pages losing the old "Introducing ChatGPT Work" promo banner and picking up nav/footer changes already reported here yesterday) or lastmod bumps with zero content change. No anomalies.
+
+### Notable additions
+
+- **[`/index/a-scorecard-for-the-ai-age/`](pages/openai.com/index/a-scorecard-for-the-ai-age/index.md)** — CFO Sarah Friar's essay introducing "Useful Intelligence per Dollar," a four-part framework (work completed, cost per successful task, dependability, value at scale) for evaluating enterprise AI ROI; uses GPT‑5.6's Sol/Terra/Luna tiers as the running example and claims GPT‑5.6 Sol beats "Claude Fable 5" 72.7% to 69.9% on the DeepSWE v1.1 long-horizon coding benchmark at 36.2% lower estimated API cost.
+
+### Notable updates
+
+- **[`/index/gpt-5-6/`](pages/openai.com/index/gpt-5-6/index.md) — the missing compute figure is restored.** The "approximately 700,000 A100e GPU hours" red-teaming stat that vanished (leaving no number) as of 2026-07-15 is back: "approximately 700,000 NVIDIA A100 Tensor Core GPU-equivalent hours of black-box automated red teaming."
+- **[`/index/why-teens-deserve-access-safe-ai/`](pages/openai.com/index/why-teens-deserve-access-safe-ai/index.md)** — a stat changed shape: "expanded those experiences to more than 250 new topics" became "expanded those experiences to more than 300 topics total" (not simply "50 more added since Jul 16" — the framing changed too).
+- **[`/products/release-notes/`](pages/openai.com/products/release-notes/index.md)** gained two entries (custom-instructions character limit raised from 1,500 to 5,000; apps-with-sync now supports Enterprise Key Management workspaces) and dropped its two oldest visible entries off the bottom of the rolling changelog window — not real removals, both source announcement pages are still live.
+
+### Routine updates
+
+Several Partner Network pages (`/business/partners/`, `accenture/`, `bain-and-company/`, `locator/`, `/business/solutions/operations/`) lost the "New: Introducing ChatGPT Work" promo banner and picked up the "Supply Co." footer link / redesigned top nav — both changes already reported in this log on 2026-07-17, these pages just hadn't been re-fetched since. A handful of partner-badge and logo images were swapped for new CDN asset IDs with no visible change. Nine pages (`/chatgpt-work/`, `/codex/`, `/company/public-policy/`, `/devday/terms-and-conditions/`, `/index/advancing-ai-safety-through-state-and-federal-action/`, `/index/codex-flexible-pricing-for-teams/`, `/index/codex-for-almost-everything/`, `/index/devday-2026/`, `/index/introducing-gpt-5-3-codex-spark/`, `/index/unlocking-self-improvement-gpt-red/`) had their sitemap `<lastmod>` bumped forward with byte-identical markdown — likely a redeploy touching timestamps without an edit.
+
+### Removals
+
+None this run.
+
+Full analysis: [runs/2026-07-18T09-15Z/analysis.md](runs/2026-07-18T09-15Z/analysis.md)
+
+---
+*Stats: 1,459 total URLs | +1 added | 23 updated (2 with visible content change) | -0 removed | 0 anomalies | 34 sub-sitemaps*
+
 ## 2026-07-17 — Run `2026-07-17T09-16Z`
 
 **Fetch time:** 2026-07-17T09:17Z
