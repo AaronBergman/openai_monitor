@@ -1,0 +1,24 @@
+{
+  "run_id": "2026-07-19T09-17Z",
+  "fetch_time": "2026-07-19T09:21:47Z",
+  "baseline": "2026-07-18T09-15Z",
+  "total_urls": 1459,
+  "sub_sitemaps_fetched": 34,
+  "sub_sitemaps_total": 34,
+  "added": [],
+  "removed": [],
+  "updated": [
+    {"url": "https://openai.com/api-priority-processing/", "old_lastmod": "2026-07-10T12:21:29.541Z", "new_lastmod": "2026-07-19T08:27:42.409Z", "content_change": "gained Supply Co. link in footer nav"},
+    {"url": "https://openai.com/devday/terms-and-conditions/", "old_lastmod": "2026-07-18T08:34:05.248Z", "new_lastmod": "2026-07-19T08:26:08.416Z", "content_change": "none (byte-identical)"},
+    {"url": "https://openai.com/index/a-scorecard-for-the-ai-age/", "old_lastmod": "2026-07-17T21:15:49.458Z", "new_lastmod": "2026-07-18T13:17:15.032Z", "content_change": "none (byte-identical)"},
+    {"url": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action/", "old_lastmod": "2026-07-17T14:02:34.421Z", "new_lastmod": "2026-07-18T14:27:13.055Z", "content_change": "none (byte-identical)"},
+    {"url": "https://openai.com/index/cars24/", "old_lastmod": "2026-07-18T08:11:39.400Z", "new_lastmod": "2026-07-19T01:28:14.536Z", "content_change": "none (byte-identical)"},
+    {"url": "https://openai.com/index/gpt-5-6/", "old_lastmod": "2026-07-18T08:08:52.358Z", "new_lastmod": "2026-07-19T01:39:52.487Z", "content_change": "none (byte-identical)"},
+    {"url": "https://openai.com/index/previewing-gpt-5-6-sol/", "old_lastmod": "2026-07-15T22:59:03.470Z", "new_lastmod": "2026-07-18T13:16:36.556Z", "content_change": "none (byte-identical)"},
+    {"url": "https://openai.com/index/unlocking-self-improvement-gpt-red/", "old_lastmod": "2026-07-18T06:28:27.194Z", "new_lastmod": "2026-07-18T13:55:28.109Z", "content_change": "none (byte-identical)"},
+    {"url": "https://openai.com/index/why-teens-deserve-access-safe-ai/", "old_lastmod": "2026-07-18T06:53:24.643Z", "new_lastmod": "2026-07-18T13:30:51.206Z", "content_change": "none (byte-identical)"},
+    {"url": "https://openai.com/products/release-notes/", "old_lastmod": "2026-07-18T08:28:31.086Z", "new_lastmod": "2026-07-19T07:26:48.238Z", "content_change": "none (byte-identical)"}
+  ],
+  "anomalies": [],
+  "fetch_failures": []
+}
