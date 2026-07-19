@@ -4,6 +4,35 @@ A daily log of every change to OpenAI's public website — what appeared, what d
 
 ---
 
+## 2026-07-19 — Run `2026-07-19T09-17Z`
+
+**Fetch time:** 2026-07-19T09:21:47Z
+**Baseline:** 2026-07-18T09-15Z (consecutive day)
+**Stats:** 1459 total URLs | +0 added | 10 updated (0 with a real content diff) | -0 removed | 0 anomalies | 34 sub-sitemaps
+
+**TL;DR:** The quietest run in weeks. No pages added or removed. Ten pages got a `<lastmod>` bump, but nine of them are byte-identical to yesterday's snapshot — pure backend timestamp noise. The tenth, [`/api-priority-processing/`](pages/openai.com/api-priority-processing/index.md), just picked up the "Supply Co." footer nav link that rolled out sitewide back on 2026-07-16 — this one page had simply been missed until now. No anomalies.
+
+### Notable additions
+
+None this run.
+
+### Notable updates
+
+None this run — see routine updates below.
+
+### Routine updates
+
+Ten pages had their sitemap `<lastmod>` bumped with no (or trivial) content change: `/api-priority-processing/` (gained the "Supply Co." footer link, catching up to the 2026-07-16 nav rollout), `/devday/terms-and-conditions/`, `/index/a-scorecard-for-the-ai-age/`, `/index/advancing-ai-safety-through-state-and-federal-action/`, `/index/cars24/`, `/index/gpt-5-6/`, `/index/previewing-gpt-5-6-sol/`, `/index/unlocking-self-improvement-gpt-red/`, `/index/why-teens-deserve-access-safe-ai/`, and `/products/release-notes/` — the latter nine are byte-identical to their prior snapshots.
+
+### Removals
+
+None this run.
+
+Full analysis: [runs/2026-07-19T09-17Z/analysis.md](runs/2026-07-19T09-17Z/analysis.md)
+
+---
+*Stats: 1,459 total URLs | +0 added | 10 updated (0 with visible content change) | -0 removed | 0 anomalies | 34 sub-sitemaps*
+
 ## 2026-07-18 — Run `2026-07-18T09-15Z`
 
 **Fetch time:** 2026-07-18T09:16:52Z
