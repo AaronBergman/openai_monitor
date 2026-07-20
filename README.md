@@ -4,6 +4,35 @@ A daily log of every change to OpenAI's public website — what appeared, what d
 
 ---
 
+## 2026-07-20 — Run `2026-07-20T09-16Z`
+
+**Fetch time:** 2026-07-20T09:18:53Z
+**Baseline:** 2026-07-19T09-17Z (consecutive day)
+**Stats:** 1459 total URLs | +0 added | 8 updated (1 with a real content diff) | -0 removed | 0 anomalies | 34 sub-sitemaps
+
+**TL;DR:** Another quiet day — no pages added or removed. Eight pages picked up a `<lastmod>` bump; seven are byte-identical to yesterday. The one real change is cosmetic: the [`/research/`](pages/openai.com/research/index.md) hub page swapped its hero image from a Contentful CDN URL to OpenAI's own `cdn.openai.com/ctf-cdn/` mirror and gave it real descriptive alt text (previously a raw CMS placeholder string). No anomalies.
+
+### Notable additions
+
+None this run.
+
+### Notable updates
+
+- **[`/research/`](pages/openai.com/research/index.md)** — hero image migrated from `downloads.ctfassets.net` (Contentful) to `cdn.openai.com/ctf-cdn/` (OpenAI's own asset mirror), and its alt text changed from a raw CMS field path (`[2.0] Research > Hero > Media Item`) to real descriptive text (`Illustration representing OpenAI research overview`). No copy or structural change — looks like ongoing asset-pipeline cleanup.
+
+### Routine updates
+
+Seven pages had their sitemap `<lastmod>` bumped with zero content change (byte-identical to the 2026-07-19 snapshot): `/devday/terms-and-conditions/`, `/index/why-teens-deserve-access-safe-ai/`, `/products/release-notes/`, `/index/gpt-5-6/`, `/index/cars24/`, `/index/unlocking-self-improvement-gpt-red/`, `/company/public-policy/`. These same pages have bumped their `<lastmod>` on nearly every run this week — consistent with a recurring backend re-render that touches timestamps without necessarily editing content.
+
+### Removals
+
+None this run.
+
+Full analysis: [runs/2026-07-20T09-16Z/analysis.md](runs/2026-07-20T09-16Z/analysis.md)
+
+---
+*Stats: 1,459 total URLs | +0 added | 8 updated (1 with visible content change) | -0 removed | 0 anomalies | 34 sub-sitemaps*
+
 ## 2026-07-19 — Run `2026-07-19T09-17Z`
 
 **Fetch time:** 2026-07-19T09:21:47Z

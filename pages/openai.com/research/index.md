@@ -34,7 +34,7 @@ We believe our research will eventually lead to artificial general intelligence,
 
 [View research index](</research/index/>)[Learn about safety](</safety/>)
 
-![\[2.0\] Research > Hero > Media Item](https://downloads.ctfassets.net/kftzwdyauwt9/4FnPiaiJdmc3R04H7kGR4N/8b115455fddf2921431f454f65b6ee22/Research_Hero.png?w=3840&q=90&fm=webp)
+![Illustration representing OpenAI research overview](https://cdn.openai.com/ctf-cdn/research/research-hero-2400.webp?w=3840&q=90&fm=webp)
 
 Focus areas
 

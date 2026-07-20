@@ -1,0 +1,60 @@
+{
+  "run_id": "2026-07-20T09-16Z",
+  "fetch_time": "2026-07-20T09:18:53Z",
+  "baseline": "2026-07-19T09-17Z",
+  "added": [],
+  "removed": [],
+  "updated": [
+    {
+      "url": "https://openai.com/devday/terms-and-conditions/",
+      "old_lastmod": "2026-07-19T08:26:08.416Z",
+      "new_lastmod": "2026-07-20T09:14:15.036Z",
+      "content_diff": false
+    },
+    {
+      "url": "https://openai.com/research/",
+      "old_lastmod": "2026-07-15T16:06:17.818Z",
+      "new_lastmod": "2026-07-20T03:27:18.407Z",
+      "content_diff": true,
+      "content_diff_summary": "Hero image alt text and CDN URL changed (Contentful -> cdn.openai.com/ctf-cdn mirror); no copy change."
+    },
+    {
+      "url": "https://openai.com/index/why-teens-deserve-access-safe-ai/",
+      "old_lastmod": "2026-07-18T13:30:51.206Z",
+      "new_lastmod": "2026-07-19T15:39:24.566Z",
+      "content_diff": false
+    },
+    {
+      "url": "https://openai.com/products/release-notes/",
+      "old_lastmod": "2026-07-19T07:26:48.238Z",
+      "new_lastmod": "2026-07-20T09:08:40.306Z",
+      "content_diff": false
+    },
+    {
+      "url": "https://openai.com/index/gpt-5-6/",
+      "old_lastmod": "2026-07-19T01:39:52.487Z",
+      "new_lastmod": "2026-07-20T08:25:08.256Z",
+      "content_diff": false
+    },
+    {
+      "url": "https://openai.com/index/cars24/",
+      "old_lastmod": "2026-07-19T01:28:14.536Z",
+      "new_lastmod": "2026-07-20T08:57:37.373Z",
+      "content_diff": false
+    },
+    {
+      "url": "https://openai.com/index/unlocking-self-improvement-gpt-red/",
+      "old_lastmod": "2026-07-18T13:55:28.109Z",
+      "new_lastmod": "2026-07-20T02:33:25.684Z",
+      "content_diff": false
+    },
+    {
+      "url": "https://openai.com/company/public-policy/",
+      "old_lastmod": "2026-07-17T22:07:41.460Z",
+      "new_lastmod": "2026-07-20T08:21:29.134Z",
+      "content_diff": false
+    }
+  ],
+  "anomalies": [],
+  "fetch_failures": []
+}
