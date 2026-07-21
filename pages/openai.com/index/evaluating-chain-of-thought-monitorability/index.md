@@ -43,44 +43,26 @@ Share
 What is “Monitorability”?
 
   * What is “Monitorability”?
-
   * Why should chains-of-thought be monitorable?
-
   * A framework for evaluating monitorability
-
   * The effect of high compute reinforcement learning
-
   * Effect of pretraining scale
-
   * Agent versus monitor compute and scalable control
-
   * Getting more monitorability out of chains-of-thought
-
   * Limitations
-
   * Conclusion
-
 
 
 
   * What is “Monitorability”?
-
   * Why should chains-of-thought be monitorable?
-
   * A framework for evaluating monitorability
-
   * The effect of high compute reinforcement learning
-
   * Effect of pretraining scale
-
   * Agent versus monitor compute and scalable control
-
   * Getting more monitorability out of chains-of-thought
-
   * Limitations
-
   * Conclusion
-
 
 
 

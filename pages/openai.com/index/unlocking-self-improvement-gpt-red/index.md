@@ -41,36 +41,22 @@ Share
 Sample prompt-injected conversations
 
   * Sample prompt-injected conversations
-
   * Training GPT‑Red through self-play
-
   * How strong is GPT‑Red?
-
   * Realistic red-teaming case studies
-
   * Improving robustness with GPT-Red
-
   * Robust while still being highly capable
-
   * Next steps
-
 
 
 
   * Sample prompt-injected conversations
-
   * Training GPT‑Red through self-play
-
   * How strong is GPT‑Red?
-
   * Realistic red-teaming case studies
-
   * Improving robustness with GPT-Red
-
   * Robust while still being highly capable
-
   * Next steps
-
 
 
 
@@ -238,6 +224,10 @@ OpenAI
 
 [View all](</news/>)
 
+![PIA safety > Cover image](https://images.ctfassets.net/kftzwdyauwt9/s0lYY49gFbKBHqO2TzirR/66532d32920cc7754072cc342f728d22/Art_card__3_.png?w=3840&q=90&fm=webp)
+
+[Safety and alignment in an era of long-horizon modelsSafetyJul 20, 2026](</index/safety-alignment-long-horizon-models/>)
+
 ![Why teens deserve access to safe AI — card image](https://images.ctfassets.net/kftzwdyauwt9/qMYBYjbkSSEYQbsQyyfRQ/d9fe2585ed8bbf73ffee5d6ed8bcc39e/why-teens-card.jpg?w=3840&q=90&fm=webp)
 
 [Why teens deserve access to safe AISafetyJul 16, 2026](</index/why-teens-deserve-access-safe-ai/>)
@@ -245,10 +235,6 @@ OpenAI
 ![GPT-5.5 Bio Bug Bounty > art card](https://images.ctfassets.net/kftzwdyauwt9/2wba91t9mgdv1oBPai3LTb/e48f5d6b5e44bdaafb0eac51f96458d1/bug_bounty_1_1.png?w=3840&q=90&fm=webp)
 
 [OpenAI Bio Bug BountySafetyJul 9, 2026](</index/bio-bug-bounty/>)
-
-![Separating signal from noise > Art Card](https://images.ctfassets.net/kftzwdyauwt9/7j6M3prKIsTmV6cbMaHjhZ/e66f7cdd98c66c99546853cbc22cfe84/Seperating-signal-from-noise-card.png?w=3840&q=90&fm=webp)
-
-[Separating signal from noise in coding evaluationsResearchJul 8, 2026](</index/separating-signal-from-noise-coding-evaluations/>)
 
 Research
 

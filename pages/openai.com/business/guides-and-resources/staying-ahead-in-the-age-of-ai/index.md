@@ -26,14 +26,6 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 OpenAI
 
-New
-
-### Introducing ChatGPT Work: 
-
-A new agent in ChatGPT that helps teams turn ambitious goals into finished work—with enterprise controls and governance built in.
-
-[Learn more](</chatgpt-work/>)
-
 December 16, 2025
 
 Guides
@@ -51,88 +43,48 @@ Share
 Foreword
 
   * Foreword
-
     * Artificial intelligence is accelerating on every front
-
     * What we'll cover in this guide
-
   * Principle 01: Align
-
     * Alignment practices we’ve seen work
-
     * Reflection questions and how to get started
-
   * Principle 02: Activate
-
     * How to activate AI use at your organization
-
     * Reflection questions and how to get started
-
   * Principle 03: Amplify
-
     * Strategies to scale and amplify AI wins across your company
-
     * Reflection questions and how to get started
-
   * Principle 04: Accelerate
-
     * Tips to accelerate AI projects from pilot to production
-
     * Reflection questions and how to get started
-
   * Principle 05: Govern
-
     * How to embed responsible AI practices without slowing teams down
-
     * Reflection questions and how to get started
-
   * Conclusion
-
     * Here are the five essentials to keep in focus:
-
 
 
 
   * Foreword
-
     * Artificial intelligence is accelerating on every front
-
     * What we'll cover in this guide
-
   * Principle 01: Align
-
     * Alignment practices we’ve seen work
-
     * Reflection questions and how to get started
-
   * Principle 02: Activate
-
     * How to activate AI use at your organization
-
     * Reflection questions and how to get started
-
   * Principle 03: Amplify
-
     * Strategies to scale and amplify AI wins across your company
-
     * Reflection questions and how to get started
-
   * Principle 04: Accelerate
-
     * Tips to accelerate AI projects from pilot to production
-
     * Reflection questions and how to get started
-
   * Principle 05: Govern
-
     * How to embed responsible AI practices without slowing teams down
-
     * Reflection questions and how to get started
-
   * Conclusion
-
     * Here are the five essentials to keep in focus:
-
 
 
 
@@ -556,6 +508,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

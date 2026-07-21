@@ -60,6 +60,10 @@ Use connected tools, recurring tasks, and settings that help ChatGPT Work fit th
 
 ## [SettingsMake ChatGPT Work work the way you want, with fewer interruptions.](<https://learn.chatgpt.com/docs/reference/settings>)
 
+![Academy _ What is ChatGPT Work](https://images.ctfassets.net/kftzwdyauwt9/6EuxX10EA7KsJ0FgINrjxT/4e9ae5bd5a80949d0f4b054368fc934e/Screenshot_2026-07-10_at_16.02.53.png?w=3840&q=90&fm=webp)
+
+## [ChatGPT SitesTurn your ideas into lightweight websites and apps.](<https://openai.com/academy/chatgpt-sites/>)
+
 #### Use cases
 
 Do your most ambitious work from start to finish.
@@ -206,6 +210,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

@@ -43,40 +43,24 @@ Share
 Work anywhere. Go further on desktop.
 
   * Work anywhere. Go further on desktop.
-
   * Create slides, sheets, docs, and Sites from your apps and workflows
-
   * Delegate repetitive tasks to focus on work that matters
-
   * Get work done faster across the web and your desktop apps
-
   * From goals to real outcomes across every team
-
   * Security and governance for organizations
-
   * Availability and pricing
-
   * What’s next
-
 
 
 
   * Work anywhere. Go further on desktop.
-
   * Create slides, sheets, docs, and Sites from your apps and workflows
-
   * Delegate repetitive tasks to focus on work that matters
-
   * Get work done faster across the web and your desktop apps
-
   * From goals to real outcomes across every team
-
   * Security and governance for organizations
-
   * Availability and pricing
-
   * What’s next
-
 
 
 
@@ -330,6 +314,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

@@ -39,30 +39,18 @@ Share
 Simplify getting agents into production
 
   * Simplify getting agents into production
-
   * What this unlocks
-
   * Faster time to production for multi-step workflows
-
   * A better fit for long-horizon work
-
   * AWS-native deployment and governance
 
 
-
-
-Table of contents
 
   * Simplify getting agents into production
-
   * What this unlocks
-
   * Faster time to production for multi-step workflows
-
   * A better fit for long-horizon work
-
   * AWS-native deployment and governance
-
 
 
 
@@ -131,17 +119,17 @@ OpenAI
 
 [View all](</news/>)
 
-![Expanding Daybreak Art Card](https://images.ctfassets.net/kftzwdyauwt9/735NOZviyogUBIFxd2EmWX/fa8baf9fc26e64f442ffa86d5fd9a41e/Art_Card__6_.png?w=3840&q=90&fm=webp)
+![Frame](https://images.ctfassets.net/kftzwdyauwt9/7zl9bYDSqJgGmnEXobKVKJ/07bf8fb08aed9759c6439170cd40de18/Frame.png?w=3840&q=90&fm=webp)
 
-[Daybreak: Tools for securing every organization in the worldSecurityJun 22, 2026](</index/daybreak-securing-the-world/>)
+[A scorecard for the AI ageCompanyJul 17, 2026](</index/a-scorecard-for-the-ai-age/>)
 
-![Samsung Electronics ChatGPT and Codex card image](https://images.ctfassets.net/kftzwdyauwt9/1yLWuTdw8HyYoBldZk3ghx/85fe3f39213890099f6f72f41cec6d1b/samsung-electronics-1_1.png?w=3840&q=90&fm=webp)
+![HP early AI wins — card image](https://images.ctfassets.net/kftzwdyauwt9/6phCuFzVSdCdVCh6YqXMa6/a4207917b5d7a43179a61f5de012168d/HP-1_1.png?w=3840&q=90&fm=webp)
 
-[Samsung Electronics brings ChatGPT and Codex to employeesCompanyJun 21, 2026](</index/samsung-electronics-chatgpt-codex-deployment/>)
+[How HP is scaling early AI wins across the enterpriseCompanyJun 28, 2026](</index/hp-frontier-partnership/>)
 
-![OpenAI acquires Ona > oai 1x1](https://images.ctfassets.net/kftzwdyauwt9/6SkgXCQ08f4AYarun2I3oU/24414c9962c945767f783bdb63006841/OAI-Ona-ArtCard.png?w=3840&q=90&fm=webp)
+![How agents are transforming work > Cover image](https://images.ctfassets.net/kftzwdyauwt9/7hmtkjKv0DxS4Yt8mQZju2/c168bfa2010da64bcc9dd60d6b5491e8/Art_Card__1_.png?w=3840&q=90&fm=webp)
 
-[OpenAI to acquire OnaCompanyJun 11, 2026](</index/openai-to-acquire-ona/>)
+[How agents are transforming workCompanyJun 25, 2026](</index/how-agents-are-transforming-work/>)
 
 Research
 
@@ -153,9 +141,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -192,6 +180,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -225,6 +215,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

@@ -41,24 +41,16 @@ Share
 Building for learning, not just answers
 
   * Building for learning, not just answers
-
   * Protecting teens with built-in safeguards
-
   * Working with outside experts, organizations, developers and regulators
-
   * Looking ahead
-
 
 
 
   * Building for learning, not just answers
-
   * Protecting teens with built-in safeguards
-
   * Working with outside experts, organizations, developers and regulators
-
   * Looking ahead
-
 
 
 
@@ -147,6 +139,10 @@ Lauren Jonas
 
 [View all](</news/>)
 
+![PIA safety > Cover image](https://images.ctfassets.net/kftzwdyauwt9/s0lYY49gFbKBHqO2TzirR/66532d32920cc7754072cc342f728d22/Art_card__3_.png?w=3840&q=90&fm=webp)
+
+[Safety and alignment in an era of long-horizon modelsSafetyJul 20, 2026](</index/safety-alignment-long-horizon-models/>)
+
 ![GPT-Red art card](https://images.ctfassets.net/kftzwdyauwt9/6q32m87ClqE8Ovn6vD424h/05ced72e47bbe42711fbac6a082cbff2/Art_Card.png?w=3840&q=90&fm=webp)
 
 [GPT-Red: Unlocking Self-Improvement for RobustnessSafetyJul 15, 2026](</index/unlocking-self-improvement-gpt-red/>)
@@ -154,10 +150,6 @@ Lauren Jonas
 ![GPT-5.5 Bio Bug Bounty > art card](https://images.ctfassets.net/kftzwdyauwt9/2wba91t9mgdv1oBPai3LTb/e48f5d6b5e44bdaafb0eac51f96458d1/bug_bounty_1_1.png?w=3840&q=90&fm=webp)
 
 [OpenAI Bio Bug BountySafetyJul 9, 2026](</index/bio-bug-bounty/>)
-
-![oai 1x1](https://images.ctfassets.net/kftzwdyauwt9/7eONRWq61MKUix4tK4t88Y/170085acc9b241a0bdfba429bd217907/oai_1x1.png?w=3840&q=90&fm=webp)
-
-[Advancing youth safety and opportunity through global leadershipGlobal AffairsJun 2, 2026](</index/advancing-youth-safety-and-opportunity-through-global-leadership/>)
 
 Research
 

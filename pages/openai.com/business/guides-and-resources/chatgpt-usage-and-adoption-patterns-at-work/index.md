@@ -1,28 +1,28 @@
 Skip to main content
 
-[](</>)
+[](</>)[](</business/>)
 
-  * [Research](</research/index/>)
+  * Why OpenAI
   * Products
-  * [Business](</business/>)
-  * [Developers](</api/>)
-  * [Company](</about/>)
-  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
+  * Solutions
+  * Resources
+  * [Customers](</business/customer-stories/>)
+  * [Pricing](</business/pricing/>)
 
 
 
-Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
+Try OpenAI[Contact sales](</contact-sales/>)
 
-  * Research
+  * Why OpenAI
   * Products
-  * Business
-  * Developers
-  * Company
-  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
+  * Solutions
+  * Resources
+  * [Customers](</business/customer-stories/>)
+  * [Pricing](</business/pricing/>)
 
 
 
-[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)Login
+[Contact sales](</contact-sales/>)Try OpenAI
 
 OpenAI
 
@@ -39,68 +39,38 @@ Share
 Introduction
 
   * Introduction
-
     * ChatGPT is changing how work gets done.
-
   * Methodology
-
   * The rise of AI at work
-
     * Enterprise adoption follows rapid consumer adoption 
-
   * Who uses ChatGPT in the enterprise
-
     * ChatGPT is being adopted across industries
-
     * How departments use ChatGPT in their first 90 days
-
     * Top tasks for ChatGPT technical users
-
     * How Departments Used ChatGPT Enterprise in their First 90 Days
-
     * Top tasks for ChatGPT go-to-market users
-
   * Roles shape usage patterns
-
     * Top 3 tools used within ChatGPT by job category
-
   * ChatGPT as an operating system for work
-
   * What’s next for work
-
 
 
 
   * Introduction
-
     * ChatGPT is changing how work gets done.
-
   * Methodology
-
   * The rise of AI at work
-
     * Enterprise adoption follows rapid consumer adoption 
-
   * Who uses ChatGPT in the enterprise
-
     * ChatGPT is being adopted across industries
-
     * How departments use ChatGPT in their first 90 days
-
     * Top tasks for ChatGPT technical users
-
     * How Departments Used ChatGPT Enterprise in their First 90 Days
-
     * Top tasks for ChatGPT go-to-market users
-
   * Roles shape usage patterns
-
     * Top 3 tools used within ChatGPT by job category
-
   * ChatGPT as an operating system for work
-
   * What’s next for work
-
 
 
 
@@ -367,6 +337,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

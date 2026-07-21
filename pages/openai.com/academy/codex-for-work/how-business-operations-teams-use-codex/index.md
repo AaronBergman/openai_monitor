@@ -43,16 +43,12 @@ Share
 Watch the on-demand webinar
 
   * Watch the on-demand webinar
-
   * Top ChatGPT Work use cases for business operations teams
-
 
 
 
   * Watch the on-demand webinar
-
   * Top ChatGPT Work use cases for business operations teams
-
 
 
 
@@ -174,6 +170,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

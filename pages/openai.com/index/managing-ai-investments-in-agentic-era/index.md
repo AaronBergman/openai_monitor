@@ -41,28 +41,18 @@ Share
 1\. Sharpen visibility into usage and spend
 
   * 1\. Sharpen visibility into usage and spend
-
   * 2\. Evaluate model efficiency by outcome ROI
-
   * 3\. Govern advanced workflows before they scale
-
   * 4\. Fund workflows that can compound
-
   * 5\. Match capacity to proven demand
-
 
 
 
   * 1\. Sharpen visibility into usage and spend
-
   * 2\. Evaluate model efficiency by outcome ROI
-
   * 3\. Govern advanced workflows before they scale
-
   * 4\. Fund workflows that can compound
-
   * 5\. Match capacity to proven demand
-
 
 
 

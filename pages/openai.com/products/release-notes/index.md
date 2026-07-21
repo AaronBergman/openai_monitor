@@ -43,6 +43,35 @@ Sort
 
 ChatGPT
 
+Jul 16, 2026
+
+GA
+
+## ChatGPT desktop app experience updates
+
+We’ve updated the ChatGPT desktop app to make it easier to choose between Chat and Work, find your conversations and Projects, and continue Work across devices. These updates are now live for all plans on macOS and Windows.
+
+### macOS and Windows
+
+  * A clearer desktop layout: A global switcher lets you choose between ChatGPT and Codex. In ChatGPT, choose Chat for quick questions and conversational help, or Work to complete tasks end to end.
+
+  * Unified Recents: Chat and Work conversations now appear together in Recents, where you can sort, filter, and pin them.
+
+  * Projects in the desktop app: Your existing ChatGPT Projects now appear in the app. You can start a Chat conversation inside a Project or begin a Work thread using Project context.
+
+  * Continue Work across devices: Cloud Work conversations now sync across web, mobile, and desktop, so you can start on one surface and continue on another. Local conversations stay on your computer.
+
+  * Codex remains unchanged: As part of this update, Codex remains a separate view, and its workflows and history are unchanged. Quick Chats remain available for fast conversations.
+
+  * No changes to workspace controls: Existing workspace access permissions, security settings, governance, and spend controls are unchanged.
+
+
+
+
+[View source(opens in a new window)](<https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-desktop-app-experience-updates>)[Help center(opens in a new window)](<https://help.openai.com/en/articles/11391654-chatgpt-business-release-notes#chatgpt-desktop-app-experience-updates>)[Help center(opens in a new window)](<https://help.openai.com/en/articles/10128477-chatgpt-enterprise-edu-release-notes#chatgpt-desktop-app-experience-updates>)
+
+ChatGPT
+
 Jul 15, 2026
 
 GA
@@ -100,42 +129,6 @@ Availability is based on the country code associated with the user's WhatsApp nu
 ChatGPT is also available on Kakao in South Korea and Viber in supported markets.
 
 [View source(opens in a new window)](<https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-returns-to-whatsapp-in-the-eea>)
-
-Codex
-
-Jul 13, 2026
-
-GA
-
-## ChatGPT for iOS updates: Codex inline visualizations and task controls
-
-### New features
-
-  * Added support for inline visualizations in Codex tasks.
-
-
-
-
-### Improvements and bug fixes
-
-  * Improved creating and managing tasks from conversations, with reliable links to newly created tasks.
-
-  * Improved tool activity styling and progress indicators.
-
-  * Improved file-opening feedback.
-
-  * Improved the composer so controls remain visible above the keyboard for long prompts and larger text sizes.
-
-  * Fixed Fast mode selection and restoration for each task.
-
-  * Fixed initial prompts ignoring the selected approval preset.
-
-  * Fixed autocomplete backgrounds and task rows becoming unresponsive during swipe gestures.
-
-
-
-
-[View source(opens in a new window)](<https://developers.openai.com/codex/changelog#codex-2026-07-13-mobile>)
 
 Load more
 

@@ -173,7 +173,7 @@ These Trusted Access for Cyber Terms (these “**Terms** ”), together with the
 
   1. _Representations and Warranties_. Customer represents and warrants that the information in the Intake Form is true and correct in all respects, and Customer will notify OpenAI if there are any material changes to the information submitted in the Intake Form during the term in which TAC is used. Customer acknowledges and agrees that provision of false or misleading information in the Intake Form, or any failure to notify OpenAI in writing if any information provided in the Intake Form has changed or is no longer complete and accurate, will constitute a material breach of the TAC Addendum and the Agreement.
 
-  2. _Approved Use Cases_. Participation in TAC comes with heightened responsibility. Access to advanced cyber capabilities is granted only for legitimate, defensive, and authorized security purposes (“**Approved Use Cases** ”). Approved Use Cases are intended to enable real-world security testing, vulnerability research, and defensive readiness and do not include uses that may cause harm, disruption, or unauthorized access. Customer is only authorized to use TAC to enable its own employees to engage in Approved Use Cases and only in compliance with OpenAI’s usage policies at: [https://openai.com/policies/usage-policies/⁠](<https://openai.com/policies/usage-policies/⁠>)⁠, as well as OpenAI’s Cyber Abuse Policy.
+  2. _Approved Use Cases_. Participation in TAC comes with heightened responsibility. Access to advanced cyber capabilities is granted only for legitimate, defensive, and authorized security purposes (“**Approved Use Cases** ”). Approved Use Cases are intended to enable real-world security testing, vulnerability research, and defensive readiness and do not include uses that may cause harm, disruption, or unauthorized access. Customer is only authorized to use TAC to enable its own employees to engage in Approved Use Cases and only in compliance with OpenAI’s usage policies at: [https://openai.com/policies/usage-policies/](</policies/usage-policies/>)⁠, as well as OpenAI’s Cyber Abuse Policy.
 
   3. _Cyber Abuse Policy_. We disallow use of our Services to facilitate Cyber Abuse. “**Cyber Abuse** ” means unauthorized access, exploitation, credential theft, data exfiltration, malware or destructive capabilities, social engineering, evasion, lateral movement, denial-of-service activity, or assistance to any sanctioned entities or identified malicious cyber actors. This does not prohibit benign defensive, educational, research, privacy-protective, incident response, or authorized security testing uses, including malware or vulnerability analysis, responsible disclosure, and red-team planning, so long as the activity does not enable real-world harm, target live systems without authorization or provide actionable assistance for abuse. 
 
@@ -236,9 +236,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -310,6 +310,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

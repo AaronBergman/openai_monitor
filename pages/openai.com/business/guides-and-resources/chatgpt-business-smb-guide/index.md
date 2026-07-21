@@ -26,14 +26,6 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 OpenAI
 
-New
-
-### Introducing ChatGPT Work: 
-
-A new agent in ChatGPT that helps teams turn ambitious goals into finished work—with enterprise controls and governance built in.
-
-[Learn more](</chatgpt-work/>)
-
 Guides
 
 # Think Bigger: How Small Teams Win with ChatGPT
@@ -47,40 +39,24 @@ Share
 There's never been a better time to be a small or growing team
 
   * There's never been a better time to be a small or growing team
-
     * Why GPT-5 is great for work: 
-
   * Analyze your data in seconds
-
   * Ship polished marketing materials
-
   * Build and maintain a budget
-
   * Prepare and run productive meetings 
-
   * Evaluate and select the right vendor
-
   * Quick wins you can try today 
-
 
 
 
   * There's never been a better time to be a small or growing team
-
     * Why GPT-5 is great for work: 
-
   * Analyze your data in seconds
-
   * Ship polished marketing materials
-
   * Build and maintain a budget
-
   * Prepare and run productive meetings 
-
   * Evaluate and select the right vendor
-
   * Quick wins you can try today 
-
 
 
 
@@ -361,6 +337,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

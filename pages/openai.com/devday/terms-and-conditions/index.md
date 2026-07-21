@@ -35,36 +35,22 @@ Share
 Tickets and Registration
 
   * Tickets and Registration
-
   * Check-in
-
   * Recordings
-
   * No Solicitation
-
   * Liability
-
   * Privacy Policy
-
   * Code of Conduct
-
 
 
 
   * Tickets and Registration
-
   * Check-in
-
   * Recordings
-
   * No Solicitation
-
   * Liability
-
   * Privacy Policy
-
   * Code of Conduct
-
 
 
 

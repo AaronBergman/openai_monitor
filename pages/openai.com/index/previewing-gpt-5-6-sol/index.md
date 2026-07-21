@@ -916,28 +916,18 @@ Share
 Capabilities
 
   * Capabilities
-
   * Stronger cyber capabilities with stronger safeguards
-
   * A layered safeguard stack
-
   * Improving robustness with automated red-teaming
-
   * Availability and pricing
-
 
 
 
   * Capabilities
-
   * Stronger cyber capabilities with stronger safeguards
-
   * A layered safeguard stack
-
   * Improving robustness with automated red-teaming
-
   * Availability and pricing
-
 
 
 

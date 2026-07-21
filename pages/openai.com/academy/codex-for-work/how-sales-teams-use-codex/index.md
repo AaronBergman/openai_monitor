@@ -43,20 +43,14 @@ Share
 Watch the on-demand webinar
 
   * Watch the on-demand webinar
-
   * Install the sales plugin for ChatGPT Work
-
   * Top ChatGPT Work use cases for sales teams
-
 
 
 
   * Watch the on-demand webinar
-
   * Install the sales plugin for ChatGPT Work
-
   * Top ChatGPT Work use cases for sales teams
-
 
 
 
@@ -182,6 +176,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)
