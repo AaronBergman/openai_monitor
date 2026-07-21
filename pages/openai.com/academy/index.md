@@ -138,9 +138,11 @@ Connect with others learning, sharing, and growing with AI.
 
 ### [Help CenterAccount help, billing, troubleshooting, and product guidance.Visit Help Center](<https://help.openai.com/>)
 
-### [Codex documentationDocumentation and guides for using and integrating Codex.View docs](<https://developers.openai.com/codex>)
+### [ChatGPT Work and CodexDocumentation and guides for using ChatGPT Work and Codex.View docs](<https://developers.openai.com/codex>)
 
 ### [API documentationReference documentation, guides, and examples for building with the OpenAI API.View docs](<https://developers.openai.com/api/docs>)
+
+### [Admin resourcesHow to set up and manage your ChatGPT and Codex for your team.View docs](<https://learn.chatgpt.com/docs/administration>)
 
 ### [Release notesStay up to date on product updates, new features, and platform changes.View release notes](<https://openai.com/products/release-notes/>)
 

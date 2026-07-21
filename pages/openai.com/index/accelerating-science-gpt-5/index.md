@@ -45,48 +45,28 @@ Share
 What is OpenAI for Science? 
 
   * What is OpenAI for Science? 
-
   * How scientists are working with GPT-5 today
-
   * The current state of GPT-5 in scientific work 
-
   * What this looks like in practice: a few case studies
-
     * Independent rediscovery of known results at the scientific frontier
-
     * Deep literature search
-
     * Working in tandem with AI
-
     * New scientific results obtained with AI
-
   * Limitations
-
   * What’s next
-
 
 
 
   * What is OpenAI for Science? 
-
   * How scientists are working with GPT-5 today
-
   * The current state of GPT-5 in scientific work 
-
   * What this looks like in practice: a few case studies
-
     * Independent rediscovery of known results at the scientific frontier
-
     * Deep literature search
-
     * Working in tandem with AI
-
     * New scientific results obtained with AI
-
   * Limitations
-
   * What’s next
-
 
 
 
@@ -162,6 +142,10 @@ Kevin Weil
 
 [View all](</news/>)
 
+![GPT-Red art card](https://images.ctfassets.net/kftzwdyauwt9/6q32m87ClqE8Ovn6vD424h/05ced72e47bbe42711fbac6a082cbff2/Art_Card.png?w=3840&q=90&fm=webp)
+
+[GPT-Red: Unlocking Self-Improvement for RobustnessSafetyJul 15, 2026](</index/unlocking-self-improvement-gpt-red/>)
+
 ![Separating signal from noise > Art Card](https://images.ctfassets.net/kftzwdyauwt9/7j6M3prKIsTmV6cbMaHjhZ/e66f7cdd98c66c99546853cbc22cfe84/Seperating-signal-from-noise-card.png?w=3840&q=90&fm=webp)
 
 [Separating signal from noise in coding evaluationsResearchJul 8, 2026](</index/separating-signal-from-noise-coding-evaluations/>)
@@ -169,10 +153,6 @@ Kevin Weil
 ![Introducing GeneBench-Pro > Cover image](https://images.ctfassets.net/kftzwdyauwt9/7sbJaKBi5qLXAqbewh72aK/93197556e903eac9df6f077eb12b7581/GenebenchPro_Blog_ArtCard.png?w=3840&q=90&fm=webp)
 
 [Introducing GeneBench-ProResearchJun 30, 2026](</index/introducing-genebench-pro/>)
-
-![A near-autonomous AI chemist improves a challenging reaction](https://images.ctfassets.net/kftzwdyauwt9/QgPPg4etNE5C4Ao0G94sk/e5f2a50e5de4619d0e0fe8483698718b/molecule-one-art-card.png?w=3840&q=90&fm=webp)
-
-[A near-autonomous AI chemist improves a challenging reaction in medicinal chemistryResearchJun 17, 2026](</index/ai-chemist-improves-reaction/>)
 
 Research
 
@@ -258,6 +238,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

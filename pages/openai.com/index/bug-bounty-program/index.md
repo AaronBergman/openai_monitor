@@ -32,7 +32,7 @@ April 11, 2023
 
 # Announcing OpenAI’s Bug Bounty Program
 
-[Participate in our Bug Bounty Program](<https://bugcrowd.com/openai>)
+[Participate in our Bug Bounty Program(opens in a new window)](<https://bugcrowd.com/openai>)
 
 ![Bug Bounty Program](https://images.ctfassets.net/kftzwdyauwt9/33edbc89-4974-4992-74b6aa90d27c/c998eedd39aa16653a7a0ac3e77ca9f1/bug-bounty-program.png?w=3840&q=90&fm=webp)
 
@@ -48,8 +48,6 @@ Our commitment to secure AI
   * Staying secure together
 
 
-
-Table of contents
 
   * Our commitment to secure AI
   * Introducing the Bug Bounty Program
@@ -119,9 +117,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -158,6 +156,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -191,6 +191,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

@@ -67,28 +67,18 @@ Share
 Scaling a complex, conversation-driven marketplace
 
   * Scaling a complex, conversation-driven marketplace
-
   * Automating the full customer journey with AI agents
-
   * Embedding Codex into the software development lifecycle
-
   * Extending agentic workflows to every team
-
   * Building an AI-first operating model
-
 
 
 
   * Scaling a complex, conversation-driven marketplace
-
   * Automating the full customer journey with AI agents
-
   * Embedding Codex into the software development lifecycle
-
   * Extending agentic workflows to every team
-
   * Building an AI-first operating model
-
 
 
 
@@ -156,6 +146,10 @@ More than 1 million businesses around the world are achieving meaningful results
 
 ## Keep reading
 
+![PIA safety > Cover image](https://images.ctfassets.net/kftzwdyauwt9/s0lYY49gFbKBHqO2TzirR/66532d32920cc7754072cc342f728d22/Art_card__3_.png?w=3840&q=90&fm=webp)
+
+[Safety and alignment in an era of long-horizon modelsSafetyJul 20, 2026](</index/safety-alignment-long-horizon-models/>)
+
 ![Frame](https://images.ctfassets.net/kftzwdyauwt9/7zl9bYDSqJgGmnEXobKVKJ/07bf8fb08aed9759c6439170cd40de18/Frame.png?w=3840&q=90&fm=webp)
 
 [A scorecard for the AI ageCompanyJul 17, 2026](</index/a-scorecard-for-the-ai-age/>)
@@ -163,10 +157,6 @@ More than 1 million businesses around the world are achieving meaningful results
 ![Why teens deserve access to safe AI — card image](https://images.ctfassets.net/kftzwdyauwt9/qMYBYjbkSSEYQbsQyyfRQ/d9fe2585ed8bbf73ffee5d6ed8bcc39e/why-teens-card.jpg?w=3840&q=90&fm=webp)
 
 [Why teens deserve access to safe AISafetyJul 16, 2026](</index/why-teens-deserve-access-safe-ai/>)
-
-![Helping build shared standards for advanced AI - card image](https://images.ctfassets.net/kftzwdyauwt9/5bSU7ItzcBWGtWhApmmJ6X/a818a91ef36b39ed07d62566ec318760/Frame2.png?w=3840&q=90&fm=webp)
-
-[The US is advancing AI safety through state and federal actionGlobal AffairsJul 15, 2026](</index/advancing-ai-safety-through-state-and-federal-action/>)
 
 Research
 

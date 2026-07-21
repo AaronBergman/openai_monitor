@@ -39,28 +39,18 @@ Share
 1\. How much useful work gets done?
 
   * 1\. How much useful work gets done?
-
   * 2\. What does a successful task actually cost?
-
   * 3\. How often does AI get the work right?
-
   * 4\. Does each AI dollar buy more work as usage grows?
-
   * A scorecard for the AI age
-
 
 
 
   * 1\. How much useful work gets done?
-
   * 2\. What does a successful task actually cost?
-
   * 3\. How often does AI get the work right?
-
   * 4\. Does each AI dollar buy more work as usage grows?
-
   * A scorecard for the AI age
-
 
 
 

@@ -41,36 +41,22 @@ Share
 Efficient by default, maximum performance on demand
 
   * Efficient by default, maximum performance on demand
-
   * A leap forward in design
-
   * End-to-end knowledge work
-
   * Pushing the frontier on cyber and science
-
   * GPT-5.6 accelerates OpenAI
-
   * Scaling safety and security with capability 
-
   * Availability and pricing
-
 
 
 
   * Efficient by default, maximum performance on demand
-
   * A leap forward in design
-
   * End-to-end knowledge work
-
   * Pushing the frontier on cyber and science
-
   * GPT-5.6 accelerates OpenAI
-
   * Scaling safety and security with capability 
-
   * Availability and pricing
-
 
 
 

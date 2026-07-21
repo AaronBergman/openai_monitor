@@ -43,28 +43,18 @@ Share
 Adoption is accelerating and deepening
 
   * Adoption is accelerating and deepening
-
   * Growth is rapid across industries and geographies
-
   * Workers report measurable value from using AI
-
   * Frontier users and organizations are pulling ahead
-
   * Looking ahead: AI reshaping the modern enterprise
-
 
 
 
   * Adoption is accelerating and deepening
-
   * Growth is rapid across industries and geographies
-
   * Workers report measurable value from using AI
-
   * Frontier users and organizations are pulling ahead
-
   * Looking ahead: AI reshaping the modern enterprise
-
 
 
 
@@ -160,6 +150,10 @@ OpenAI
 
 [View all](</news/>)
 
+![Helping build shared standards for advanced AI - card image](https://images.ctfassets.net/kftzwdyauwt9/5bSU7ItzcBWGtWhApmmJ6X/a818a91ef36b39ed07d62566ec318760/Frame2.png?w=3840&q=90&fm=webp)
+
+[The US is advancing AI safety through state and federal actionGlobal AffairsJul 15, 2026](</index/advancing-ai-safety-through-state-and-federal-action/>)
+
 ![Our approach to government and national security partnerships > Cover image](https://images.ctfassets.net/kftzwdyauwt9/6LpyyLCqWNpiRHwFZpCP7s/30674f74a4b776306398352664a5f3cc/Frame.png?w=3840&q=90&fm=webp)
 
 [Our approach to government and national security partnershipsGlobal AffairsJul 8, 2026](</index/government-national-security-partnerships/>)
@@ -167,10 +161,6 @@ OpenAI
 ![Separating signal from noise > Art Card](https://images.ctfassets.net/kftzwdyauwt9/7j6M3prKIsTmV6cbMaHjhZ/e66f7cdd98c66c99546853cbc22cfe84/Seperating-signal-from-noise-card.png?w=3840&q=90&fm=webp)
 
 [Separating signal from noise in coding evaluationsResearchJul 8, 2026](</index/separating-signal-from-noise-coding-evaluations/>)
-
-![Helping K–12 educators build practical AI skills > Cover image](https://images.ctfassets.net/kftzwdyauwt9/190wMCP1bPt9adqu2edDV9/106b863586b063e777539df3aa988c3f/Frame.png?w=3840&q=90&fm=webp)
-
-[Helping K–12 educators build practical AI skillsGlobal AffairsJul 8, 2026](</index/k-12-educators-practical-skills/>)
 
 Research
 
@@ -256,6 +246,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)
