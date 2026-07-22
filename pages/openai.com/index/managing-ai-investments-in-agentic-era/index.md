@@ -126,6 +126,10 @@ OpenAI
 
 [View all](</news/>)
 
+![Building AI for the ambitions of small businesses > Card image](https://images.ctfassets.net/kftzwdyauwt9/7wmfLwQnQQpV1xogqASUpR/76c80831b475e17a187ba35a7e0a46c8/SMB_launch_blog_1x1.png?w=3840&q=90&fm=webp)
+
+[Introducing the ChatGPT for small business programAI AdoptionJul 21, 2026](</index/introducing-chatgpt-small-business-program/>)
+
 ![Codex maxxing 1x1](https://images.ctfassets.net/kftzwdyauwt9/5RFmrNey5oX93M1WyqCs4o/5b6ccdce4022764200e06739cda7c21f/Codex_maxxing_1x1.png?w=3840&q=90&fm=webp)
 
 [Codex-Maxxing for Long-Running WorkAI AdoptionJun 22, 2026](</index/codex-maxxing-long-running-work/>)
@@ -133,10 +137,6 @@ OpenAI
 ![Introducing OpenAI Academy courses > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/2mmXo430NiaNqyi6YrRtnh/715ab11fa5003dd50acff55adcb4a5fd/Frame.png?w=3840&q=90&fm=webp)
 
 [New OpenAI Academy courses for the next era of workAI AdoptionJun 12, 2026](</index/academy-courses-applying-ai-at-work/>)
-
-![Gartner MQ > Art Card](https://images.ctfassets.net/kftzwdyauwt9/6GUkmRON5hyvikNSF3IEmH/78ea7491689ec5d07cd6a6c2ad6f0254/Gartner-MQ-ArtCard.png?w=3840&q=90&fm=webp)
-
-[OpenAI named a Leader in enterprise coding agents by GartnerAI AdoptionMay 22, 2026](</index/gartner-2026-agentic-coding-leader/>)
 
 Research
 

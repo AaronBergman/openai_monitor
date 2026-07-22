@@ -127,6 +127,10 @@ These thresholds are model-estimated, so they should be treated as directional r
 
 [View all](</news/>)
 
+![David Vélez and Robin Vince 1x1](https://images.ctfassets.net/kftzwdyauwt9/7wQKVPmXFJk1gTBLmJTO6N/f90d79c4e011e05fb0d06aebfa3a265c/c47f1f6d-440a-4f0b-a669-50ca79ce1064.png?w=3840&q=90&fm=webp)
+
+[David Vélez and Robin Vince join OpenAI boardsCompanyJul 21, 2026](</index/david-velez-robin-vince-join-openai-boards/>)
+
 ![Frame](https://images.ctfassets.net/kftzwdyauwt9/7zl9bYDSqJgGmnEXobKVKJ/07bf8fb08aed9759c6439170cd40de18/Frame.png?w=3840&q=90&fm=webp)
 
 [A scorecard for the AI ageCompanyJul 17, 2026](</index/a-scorecard-for-the-ai-age/>)
@@ -134,10 +138,6 @@ These thresholds are model-estimated, so they should be treated as directional r
 ![HP early AI wins — card image](https://images.ctfassets.net/kftzwdyauwt9/6phCuFzVSdCdVCh6YqXMa6/a4207917b5d7a43179a61f5de012168d/HP-1_1.png?w=3840&q=90&fm=webp)
 
 [How HP is scaling early AI wins across the enterpriseCompanyJun 28, 2026](</index/hp-frontier-partnership/>)
-
-![OpenAI and Broadcom Jalapeño inference chip card image](https://images.ctfassets.net/kftzwdyauwt9/21KcazqOHUF7Cq71Hpfcnc/81ad98a1978845b441ab14e008168c75/openai-broadcom-jalapeno-inference-chip-image-1_1.png?w=3840&q=90&fm=webp)
-
-[OpenAI and Broadcom unveil LLM-optimized inference chipCompanyJun 24, 2026](</index/openai-broadcom-jalapeno-inference-chip/>)
 
 Research
 

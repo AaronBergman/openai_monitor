@@ -30,7 +30,7 @@ OpenAI
 
 A week for exploring what’s possible with Codex
 
-[Register now(opens in a new window)](<https://openai.devpost.com/>)[Download Codex](<https://openai.com/codex>)
+[Registration closed(opens in a new window)](<https://openai.devpost.com/>)[Download Codex](<https://openai.com/codex>)
 
 00:00:00:00
 
@@ -138,7 +138,7 @@ Ask questions, find collaborators, and stay up to date throughout Build Week.
 
 Join OpenAI Build Week and see what’s possible with Codex.
 
-[Register now(opens in a new window)](<https://openai.devpost.com/>)[Download Codex](</codex/>)
+[Registration closed(opens in a new window)](<https://openai.devpost.com/>)[Download Codex](</codex/>)
 
 Research
 
@@ -259,7 +259,7 @@ Yes. Team participation details are available on the [Devpost challenge page⁠(
 
 ### How do I register?
 
-Registration is managed through the [Devpost challenge page⁠(opens in a new window)](<https://openai.devpost.com>) or Devpost Hackathons Codex plugin, where you’ll also find the official rules, challenge tracks, submission requirements, and important dates.
+Registration is now closed. Final program logistics and participation details will be hosted on [DevPost⁠(opens in a new window)](<https://openai.devpost.com/>).
 
 ### How do I submit a project?
 

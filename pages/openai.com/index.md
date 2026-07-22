@@ -56,6 +56,10 @@ Message ChatGPT
 
 [View more](</news/company-announcements/>)
 
+![David Vélez and Robin Vince 1x1](https://images.ctfassets.net/kftzwdyauwt9/7wQKVPmXFJk1gTBLmJTO6N/f90d79c4e011e05fb0d06aebfa3a265c/c47f1f6d-440a-4f0b-a669-50ca79ce1064.png?w=3840&q=90&fm=webp)
+
+[David Vélez and Robin Vince join OpenAI boardsCompanyJul 21, 2026](</index/david-velez-robin-vince-join-openai-boards/>)
+
 ![GPT-Red art card](https://images.ctfassets.net/kftzwdyauwt9/6q32m87ClqE8Ovn6vD424h/05ced72e47bbe42711fbac6a082cbff2/Art_Card.png?w=3840&q=90&fm=webp)
 
 [GPT-Red: Unlocking Self-Improvement for RobustnessSafetyJul 15, 2026](</index/unlocking-self-improvement-gpt-red/>)
@@ -75,10 +79,6 @@ Message ChatGPT
 ![Art card \(4\)](https://images.ctfassets.net/kftzwdyauwt9/26wgJNYWk0soRoyZvBmYmo/dc80fc33c0a60bd566816f2323f31dc2/Art_card__4_.png?w=3840&q=90&fm=webp)
 
 [Advancing content provenance for a safer, more transparent AI ecosystemSafetyMay 19, 2026](</index/advancing-content-provenance/>)
-
-![Personal finance in ChatGPT > Media > Cover](https://images.ctfassets.net/kftzwdyauwt9/4zSr4YNWXIEYz20piN2bxf/6f9a561be6055802914aee0a3bb671d7/ArtCard-Personal-Finance.png?w=3840&q=90&fm=webp)
-
-[A new personal finance experience in ChatGPTProductMay 15, 2026](</index/personal-finance-chatgpt/>)
 
 ## Stories
 

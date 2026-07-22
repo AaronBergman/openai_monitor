@@ -41,52 +41,30 @@ Share
 Knowledge work
 
   * Knowledge work
-
   * Computer use and vision
-
   * Coding
-
   * Tool use
-
     * Tool search
-
     * Agentic tool calling
-
     * Improved web search
-
   * Steerability
-
   * Safety
-
   * Availability and pricing
-
   * Evaluations
-
 
 
 
   * Knowledge work
-
   * Computer use and vision
-
   * Coding
-
   * Tool use
-
     * Tool search
-
     * Agentic tool calling
-
     * Improved web search
-
   * Steerability
-
   * Safety
-
   * Availability and pricing
-
   * Evaluations
-
 
 
 

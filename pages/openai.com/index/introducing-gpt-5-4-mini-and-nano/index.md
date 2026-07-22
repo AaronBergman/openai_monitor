@@ -26,14 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Coding
-
-  * Coding
-  * Computer use
-  * Availability & pricing
-
-
-
 March 17, 2026
 
 [Company](</news/company-announcements/>)[Product](</news/product-releases/>)
@@ -45,6 +37,22 @@ Fast and efficient models optimized for coding and subagents
 Loading…
 
 Share
+
+Coding
+
+  * Coding
+    * Subagents
+  * Computer use
+  * Availability & pricing
+
+
+
+  * Coding
+    * Subagents
+  * Computer use
+  * Availability & pricing
+
+
 
 Today we’re releasing GPT‑5.4 mini and nano, our most capable small models yet. They bring many of the strengths of GPT‑5.4 to faster, more efficient models designed for high-volume workloads.
 
@@ -163,17 +171,17 @@ OpenAI
 
 [View all](</news/>)
 
-![Confidential submission of draft S-1 to the SEC > cover image](https://images.ctfassets.net/kftzwdyauwt9/36doI12YCwUtp1hzD4d8bj/84e67c565f39e7d5ca3ee011efa69756/confidential-submission-of-draft-s-1-to-the-sec-1x1.png?w=3840&q=90&fm=webp)
+![David Vélez and Robin Vince 1x1](https://images.ctfassets.net/kftzwdyauwt9/7wQKVPmXFJk1gTBLmJTO6N/f90d79c4e011e05fb0d06aebfa3a265c/c47f1f6d-440a-4f0b-a669-50ca79ce1064.png?w=3840&q=90&fm=webp)
 
-[Confidential submission of draft S-1 to the SECCompanyJun 8, 2026](</index/openai-submits-confidential-s-1/>)
+[David Vélez and Robin Vince join OpenAI boardsCompanyJul 21, 2026](</index/david-velez-robin-vince-join-openai-boards/>)
 
-![Built for broad benefit > cover](https://images.ctfassets.net/kftzwdyauwt9/bEe28mW3dEOj9pKJsPp2u/13f7bed9e86b0667ba924479d62f98e4/Art_Card_1080x1080_1.png?w=3840&q=90&fm=webp)
+![Frame](https://images.ctfassets.net/kftzwdyauwt9/7zl9bYDSqJgGmnEXobKVKJ/07bf8fb08aed9759c6439170cd40de18/Frame.png?w=3840&q=90&fm=webp)
 
-[Built to benefit everyone: our planCompanyJun 8, 2026](</index/built-to-benefit-everyone-our-plan/>)
+[A scorecard for the AI ageCompanyJul 17, 2026](</index/a-scorecard-for-the-ai-age/>)
 
-![Economic research forum > art card ](https://images.ctfassets.net/kftzwdyauwt9/2DpNjvjdVuCrLKNOrFrWJ7/1aefe1cbe252bcd9ba42035469fc8a0f/art_card.png?w=3840&q=90&fm=webp)
+![GPT-5.6 is now the preferred model in Microsoft 365 Copilot > Cover image](https://images.ctfassets.net/kftzwdyauwt9/3MPipvFMxS8m3kTyCtwFgj/015747dcd34cb667a221688cfca64e0f/Frame.png?w=3840&q=90&fm=webp)
 
-[Introducing the OpenAI Economic Research ExchangeCompanyJun 8, 2026](</index/economic-research-exchange/>)
+[GPT-5.6 is now the preferred model in Microsoft 365 CopilotProductJul 9, 2026](</index/gpt-5-6-preferred-model-microsoft-365-copilot/>)
 
 Research
 
@@ -185,9 +193,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -224,6 +232,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -257,6 +267,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

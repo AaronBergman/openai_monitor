@@ -34,9 +34,11 @@ OpenAI
 
 [Visit website(opens in a new window)](<https://kpmg.com/>)
 
-KPMG is one of the world’s leading professional services firms and the fastest growing Big Four accounting firm in the United States. With 90+ offices and more than 36,000 employees and partners throughout the US, we’re leading the industry in new and exciting ways. Our size and strength make us much more agile and responsive to changing trends.
+KPMG LLP is the U.S. firm of the KPMG global organization of independent professional services firms providing Audit, Tax and Advisory services. KPMG firms operate in 142 countries and territories with more than 276,000 partners and professionals worldwide. Each KPMG firm is a legally distinct and separate entity and describes itself as such.
 
-![Elite Partner](/images/partner-tier-badges/OAI_PartnerNetwork_ElitePartner.svg?dpl=dpl_Bt2QvgNvrDjuduwqx5NPqQxCos4N)
+This combination of global reach and local presence enables KPMG firms to help clients address complex business challenges and evolving market conditions. By bringing together industry knowledge, technical experience, and a collaborative approach, KPMG professionals support organizations in navigating transformation, identifying opportunities for growth, and making informed business decisions.
+
+![Elite Partner](/images/partner-tier-badges/OAI_PartnerNetwork_ElitePartner.svg?dpl=dpl_ESxHN76qfvgEcbN7MVKHXYL4wpx1)
 
 Countries served
     Global
@@ -128,6 +130,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)
