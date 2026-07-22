@@ -56,7 +56,7 @@ This OpenAI Ad Tools Data Processing Addendum (“ _Ad Tools DPA_ ”) supplemen
 
 
 
-3\. International Data Transfers
+## 3\. International Data Transfers
 
   * 3.1. _General_. Each Party will comply with Data Protection Laws applicable to its international transfers of Personal Data under this Ad Tools DPA.
   * 3.2. _Independent Controller Processing_. For Personal Data Processed under Section 1, to the extent Customer transfers Personal Data to OpenAI in a jurisdiction that does not provide an adequate level of protection under applicable Data Protection Laws, the Parties will rely on Module One of the SCCs, unless another valid transfer mechanism applies.
@@ -73,7 +73,7 @@ In the event of a conflict between the SCCs, the Ad Tools Terms, and this Ad Too
 
 “ _Ad Tools Sub-Processor List_ ” means the list available at [_https://openai.com/policies/ad-tools-subprocessors_ ⁠](<https://openai.com/policies/conversion-subprocessors>).
 
-“ _Ad Tools Terms_ ” means OpenAI’s Ad Tools Terms available at [_https://opeani.com/policies/ad-tools-terms_ ⁠(opens in a new window)](<https://opeani.com/policies/ad-tools-terms>). . 
+“ _Ad Tools Terms_ ” means OpenAI’s Ad Tools Terms available at [https://openai.com/policies/ad-tools-terms⁠](<https://openai.com/policies/ad-tools-terms>).
 
 “ _Covered Ad Tools_ ” means the Conversion Tools, Audience Tools, and any other Ad Tool for which OpenAI expressly states that this Ad Tools DPA applies.
 
@@ -134,9 +134,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -173,6 +173,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -206,6 +208,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

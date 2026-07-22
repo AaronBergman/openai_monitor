@@ -42,7 +42,7 @@ FiltersSort
 
 A global program for partners to build, sell, and deliver AI solutions with OpenAI.
 
-[Enroll now(opens in a new window)](<https://partners.openai.com/>)
+[Enroll now(opens in a new window)](<https://partners.openai.com/>)[Learn more](</business/partners/>)
 
 Research
 

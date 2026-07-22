@@ -26,65 +26,53 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 OpenAI
 
-New
+### ChatGPT Work for small businesses:
 
-### Introducing ChatGPT Work: 
+Learn practical ways ChatGPT can help you save time, amplify your expertise, and build with AI.
 
-A new agent in ChatGPT that helps teams turn ambitious goals into finished work—with enterprise controls and governance built in.
+[Register here(opens in a new window)](<https://webinar.openai.com/small-business/chatgpt-work/?>)
 
-[Learn more](</chatgpt-work/>)
+OpenAI for small business
 
-# Work at the scale of your ambition
+# Be bold. Be ambitious. Build with ChatGPT.
 
-ChatGPT Business helps teams easily use agents in everyday work—customer follow-ups, finance prep, marketing, and operations—to create effective workflows they can trust.
-
-[Try ChatGPT Business(opens in a new window)](<https://chatgpt.com/team-sign-up>)
-
-# Why businesses choose OpenAI
-
-OpenAI gives small businesses practical tools to reduce busywork, improve customer experience, and unlock growth.
-
-#### Built for everyday work
-
-Turn requests into final drafts, spreadsheets, and analyses, so your team can move from idea to output faster with ChatGPT.
-
-#### Add capacity without adding complexity
-
-Help your team cover more work across marketing, sales, customer support, operations, finance, and engineering with agents in Codex, so you don't have to hire a specialist for every task.
-
-#### Move fast with security and control built in
-
-Help employees find answers, reuse approved work, and move faster in one shared workspace, while admin controls, SSO, and permissions keep company data protected.
-
-## See what teams achieve with ChatGPT Business
-
-Whether you run a small business or an engineering department, ChatGPT Business helps you deliver faster, higher-quality work with the team you have.
-
-Small business ownerMarketingAnalyticsITEngineering
-
-### Do more with your small team
-
-Draft customer emails, create budgets, write job postings, and project monthly revenue in minutes. Free up time to focus on customers and growth while routine work gets handled by ChatGPT.
-
-![A financial analysis summary showing a table of department budgets followed by a written breakdown. The analysis highlights month-end variance reporting for March 2025, with insights on flagged variances over 7%. Key sections include interactive summary tables and variance formula explanations.](https://images.ctfassets.net/kftzwdyauwt9/2IlXC4gbg2LZrHZjNGdmJd/05cdb2345d863e561cbe0fa9e2ce57f4/chatgpt-business-small-business.jpg?w=3840&q=90&fm=webp)
-
-Real SMB customers
-
-# How small businesses scale with OpenAI
-
-Learn how small teams are using AI to save time and operate more efficiently.
-
-> “OpenAI is helping us operationalize AI across the business by embedding it directly into the systems our teams use every day. From customer service and scheduling to QA, reporting, and operations, we’re saving time on every customer interaction while reducing complexity and software spend.”
-
-— William J. (John) Berger, CEO Otovo
-
-### The AI workspace for growing businesses
-
-ChatGPT for Business gives teams a secure workspace to automate everyday work and bring AI into the tools and workflows they already use.
+ChatGPT Business helps teams use agents in everyday work to manage customers, prepare financial reports, create marketing materials and run operations.
 
 [Try ChatGPT Business(opens in a new window)](<https://chatgpt.com/team-sign-up>)[Contact sales](</contact-sales/>)
 
-![close up abstract product screen](https://images.ctfassets.net/kftzwdyauwt9/7mt7APiWwnryYU9G5GajPS/e224e9d46c68a7ee10529c6ba2a3064a/Visual.png?w=3840&q=90&fm=webp)
+Real SMB customers
+
+# How customers of all sizes are building with ChatGPT
+
+Learn how small teams are using AI to save time and operate more efficiently.
+
+> “ChatGPT basically told us to master our home market first. That advice helped us focus our limited resources where they’d have the biggest impact.”
+
+—Becky Lane, founder, The Floral Hire
+
+# What small businesses only get with OpenAI
+
+Small businesses have a suite of tools to reduce busywork, improve customer experiences, and unlock growth.
+
+#### The best AI, wherever work happens
+
+Give your team access to OpenAI’s most capable models across web, mobile, and desktop—so they can think, create, analyze, and move work forward from anywhere.
+
+#### One platform for every job to be done
+
+Use ChatGPT to think and create, to complete complex tasks, and to build anything you need—all from a single platform.
+
+#### Frontier intelligence meets Frontier security
+
+Move fast with powerful AI in a secure workspace with admin controls, SSO, roles, encryption, and no training on your business data by default.
+
+Meet the new ChatGPT Work for small businesses
+
+## How small businesses can put ChatGPT Work into practice
+
+Join OpenAI to learn how our latest product, ChatGPT Work, helps small businesses save time, move work forward, and be more ambitious.
+
+[Register here(opens in a new window)](<https://webinar.openai.com/small-business/chatgpt-work/>)
 
 # Security and controls your business can trust
 
@@ -103,7 +91,7 @@ Deploy AI confidently with secure workspaces, admin controls, encryption, and bu
 
 #### Manage AI across your team
 
-  * A dedicated workspace with admin console
+  * A dedicated workspace with an admin console
 
   * Control who has access with user roles
 
@@ -127,25 +115,39 @@ Deploy AI confidently with secure workspaces, admin controls, encryption, and bu
 
 
 
+### Live and virtual events
+
+WebinarsEvents
+
+### [Inside OpenAI: How Our Sales Team Uses ChatGPT Work (July 30, 9:30 AM PT)Learn how sales teams can use ChatGPT to research prospects, prepare for customer conversations, personalize outreach, and create clear follow-ups.Register here](<https://webinar.openai.com/chatgpt-work-series/sales/>)
+
+### [How Small Businesses Can Put ChatGPT Work Into Practice (August 6, 2026 at 9:30AM PT)See how small teams can use ChatGPT Work to handle everyday tasks, move ambitious projects forward, and turn ideas into finished deliverables.Register here](<https://webinar.openai.com/small-business/chatgpt-work/>)
+
+### [Launch Smarter on Shopify with ChatGPT and Codex (August 19, 2026 at 9:30AM PT)Join OpenAI and Shopify to learn how ChatGPT and Codex can turn scattered product information and launch plans into repeatable, Shopify-ready workflows—no development experience required.Register here](<https://webinar.openai.com/launch-smarter-shopify/?>)
+
+### [Use QuickBooks in ChatGPT to Make Better Financial Decisions (August 25, 2026 at 9:30AM PT)Join OpenAI and Intuit to learn how QuickBooks in ChatGPT can turn financial data into a clear view of business health and practical next steps.Register here](<https://webinar.openai.com/quickbooks-chatgpt/>)
+
+### [A Practical Introduction to Codex for Developers at Small Businesses (August 27, 2026 at 9:30AM PT)Join OpenAI to see how Codex helps lean engineering teams understand code, build features, and ship high-quality software faster.Register here](<https://webinar.openai.com/small-business/introduction-to-codex/>)
+
 # Learn how teams are using AI today
 
 ![oai neurogum](https://images.ctfassets.net/kftzwdyauwt9/2eN8BnG7eYMOxenscO3YWf/281c7e0f69c5b5995f268de5fc467006/oai_neurogum.png?w=3840&q=90&fm=webp)
 
-[Neuro drives national retail wins with ChatGPT Business](</index/neurogum/>)
+## [Neuro drives national retail wins with ChatGPT Business](</index/neurogum/>)
 
 ![oai plex 1.1](https://images.ctfassets.net/kftzwdyauwt9/6hwfvwp8kxW3xS64zZgRWp/2012aafb8d7b33c0438eed05af1337d1/oai_plex_1.1.png?w=3840&q=90&fm=webp)
 
-[Plex Coffee delivers fast, personal service with ChatGPT](</index/plex-coffee/>)
+## [Plex Coffee delivers fast, personal service with ChatGPT](</index/plex-coffee/>)
 
 ![Singular Bank 1x1](https://images.ctfassets.net/kftzwdyauwt9/4z6thUXYDDAQfggvMdsr6v/bbc20a49d11c5f7b3216fec648214cef/oai_SingularBank_1x1.png?w=3840&q=90&fm=webp)
 
-[Singular Bank helps bankers move fast with ChatGPT and Codex](</index/singular-bank/>)
+## [Singular Bank helps bankers move fast with ChatGPT and Codex](</index/singular-bank/>)
 
 ## Build what’s next
 
 If you have the ambition to build a company, our team is here to support you.
 
-[Try ChatGPT Business(opens in a new window)](<https://chatgpt.com/team-sign-up>)
+[Try ChatGPT Business(opens in a new window)](<https://chatgpt.com/team-sign-up>)[Contact sales](</contact-sales/>)
 
 Research
 
@@ -231,6 +233,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

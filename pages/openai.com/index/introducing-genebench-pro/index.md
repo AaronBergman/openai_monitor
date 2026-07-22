@@ -241,7 +241,7 @@ Return the JSON object in your final answer:
 
 Because we control the full data-generation process, we can grade correctness deterministically against known targets, avoiding model-choice variability and verbosity effects found in standard rubric-based evaluation.
 
-Each problem also comes with rich metadata, including the intended analysis structure, attached data files, a detailed multi-page case study, and expert review outcomes. We are fully open-sourcing 10 representative GeneBench-Pro questions on [_Hugging Face_ ⁠(opens in a new window)](<https://huggingface.co/datasets/ajh-oai/genebench-pro-public-package>), with an [_interactive web interface_](</index/genebench-pro/case-studies/>) for browsing them. Finally, we will provide a 50-question subset to [_Artificial Analysis_ ⁠(opens in a new window)](<https://artificialanalysis.ai/>) for independent, third-party benchmarking in the near future.
+Each problem also comes with rich metadata, including the intended analysis structure, attached data files, a detailed multi-page case study, and expert review outcomes. We are fully open-sourcing 10 representative GeneBench-Pro questions on [_Hugging Face_ ⁠(opens in a new window)](<https://huggingface.co/datasets/openai/genebench-pro-public-package>), with an [_interactive web interface_](</index/genebench-pro/case-studies/>) for browsing them. Finally, we will provide a 50-question subset to [_Artificial Analysis_ ⁠(opens in a new window)](<https://artificialanalysis.ai/>) for independent, third-party benchmarking in the near future.
 
 ## Results
 

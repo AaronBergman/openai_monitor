@@ -26,16 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Why we’re doing this
-
-  * Why we’re doing this
-  * Resources we’ll provide
-  * Meet the mentors
-  * Expectations
-  * What we’re looking for
-
-
-
 March 6, 2018
 
 [Company](</news/company-announcements/>)
@@ -51,6 +41,28 @@ Photo: Blake Tucker
 Loading…
 
 Share
+
+Why we’re doing this
+
+  * Why we’re doing this
+  * Resources we’ll provide
+  * Meet the mentors
+  * Expectations
+  * What we’re looking for
+
+
+
+  * Why we’re doing this
+  * Resources we’ll provide
+  * Meet the mentors
+  * Expectations
+  * What we’re looking for
+
+
+
+ _Update: Applications for the Summer 2018 Scholars cohort are now closed. We will be reaching out to applicants regarding their admissions status by April 16th._
+
+* * *
 
 We’re providing 6–10 stipends and mentorship to individuals from underrepresented groups to study deep learning full-time for 3 months and open-source a project.
 
@@ -112,8 +124,6 @@ Questions? Email [scholars@openai.com⁠](<mailto:scholars@openai.com>).
 
 Applications are open starting immediately, and starting March 14th we will begin reviewing applications, contacting people for follow-up, and filling positions on a rolling basis. Applications will close no later than 11:59pm PT on March 31st, with decision sent no later than April 16th. [Apply⁠(opens in a new window)](<https://jobs.lever.co/openai/2153959a-77bf-443e-bc07-e36da36c98ce/apply>) now!
 
-_Update: Applications for the Summer 2018 Scholars cohort are now closed. We will be reaching out to applicants regarding their admissions status by April 16th._
-
   * [Community](</news/?tags=community>)
   * [Culture & Careers](</news/?tags=culture-careers>)
   * [2018](</news/?tags=2018>)
@@ -150,9 +160,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -189,6 +199,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -222,6 +234,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)
