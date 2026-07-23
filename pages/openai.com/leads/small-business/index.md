@@ -28,7 +28,7 @@ OpenAI
 
 # Join the ChatGPT small business program
 
-Get updates on upcoming events, practical AI guidance from mentors and peers, and resources to help your business save time and work smarter with ChatGPT.
+Get updates on upcoming OpenAI events, practical guidance from mentors and peers, and resources to help your business save time and work smarter with AI.
 
 First name *
 
@@ -38,7 +38,7 @@ Work email *
 
 Company name *
 
-Title *
+Title
 
 Company website
 

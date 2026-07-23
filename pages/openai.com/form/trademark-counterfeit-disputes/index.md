@@ -62,7 +62,7 @@ Trademark holder’s address *
 
 Trademark holder’s country *
 
-Select a country…AfghanistanÅland IslandsAlbaniaAlgeriaAndorraAngolaAntigua & BarbudaArgentinaArmeniaArubaAustraliaAustriaAzerbaijanBahamasBahrainBangladeshBarbadosBelarusBelgiumBelizeBeninBermudaBhutanBoliviaBosnia & HerzegovinaBotswanaBrazilBruneiBulgariaBurkina FasoBurundiCape VerdeCambodiaCameroonCanadaCayman IslandsCentral African RepublicChadChileChinaColombiaComorosCongo - BrazzavilleCosta RicaCôte d’IvoireCroatiaCubaCyprusCzechiaCongo - KinshasaDenmarkDjiboutiDominicaDominican RepublicEcuadorEgyptEl SalvadorEquatorial GuineaEritreaEstoniaEswatiniEthiopiaFaroe IslandsFijiFinlandFranceFrench GuianaFrench PolynesiaFrench Southern TerritoriesGabonGambiaGeorgiaGermanyGhanaGreeceGreenlandGrenadaGuadeloupeGuatemalaGuineaGuinea-BissauGuyanaHaitiVatican CityHondurasHungaryIcelandIndiaIndonesiaIranIraqIrelandIsraelItalyJamaicaJapanJordanKazakhstanKenyaKiribatiKuwaitKyrgyzstanLaosLatviaLebanonLesothoLiberiaLibyaLiechtensteinLithuaniaLuxembourgMadagascarMalawiMalaysiaMaldivesMaliMaltaMarshall IslandsMartiniqueMauritaniaMauritiusMayotteMexicoMicronesiaMoldovaMonacoMongoliaMontenegroMoroccoMozambiqueMyanmar (Burma)NamibiaNauruNepalNetherlandsNew CaledoniaNew ZealandNicaraguaNigerNigeriaNorth KoreaNorth MacedoniaNorwayOmanPakistanPalauPalestinePanamaPapua New GuineaParaguayPeruPhilippinesPolandPortugalQatarRéunionRomaniaRussiaRwandaSt. BarthélemySt. HelenaSt. Kitts & NevisSt. LuciaSt. MartinSt. Pierre & MiquelonSt. Vincent & GrenadinesSamoaSan MarinoSão Tomé & PríncipeSaudi ArabiaSenegalSerbiaSeychellesSierra LeoneSingaporeSlovakiaSloveniaSolomon IslandsSomaliaSouth AfricaSouth KoreaSouth SudanSpainSri LankaSudanSurinameSvalbard & Jan MayenSwedenSwitzerlandSyriaTaiwanTajikistanTanzaniaThailandTimor-LesteTogoTongaTrinidad & TobagoTunisiaTürkiyeTurkmenistanTuvaluUgandaUkraineUnited Arab EmiratesUnited KingdomUnited StatesUruguayUzbekistanVanuatuVenezuelaVietnamWallis & FutunaYemenZambiaZimbabwe
+Select a country…AfghanistanAland IslandsAlbaniaAlgeriaAndorraAngolaAntigua and BarbudaArgentinaArmeniaArubaAustraliaAustriaAzerbaijanBahamasBahrainBangladeshBarbadosBelgiumBelizeBeninBermudaBhutanBoliviaBosnia and HerzegovinaBotswanaBrazilBruneiBulgariaBurkina FasoBurundiCabo VerdeCambodiaCameroonCanadaCayman IslandsCentral African RepublicChadChileColombiaComorosCongo (Brazzaville)Congo (DRC)Costa RicaCôte d'IvoireCroatiaCyprusCzechia (Czech Republic)DenmarkDjiboutiDominicaDominican RepublicEcuadorEgyptEl SalvadorEquatorial GuineaEritreaEstoniaEswatini (Swaziland)EthiopiaFaroe IslandsFijiFinlandFranceFrench GuianaFrench PolynesiaFrench Southern TerritoriesGabonGambiaGeorgiaGermanyGhanaGreeceGreenlandGrenadaGuadeloupeGuatemalaGuineaGuinea-BissauGuyanaHaitiHoly See (Vatican City)HondurasHungaryIcelandIndiaIndonesiaIraqIrelandIsraelItalyJamaicaJapanJordanKazakhstanKenyaKiribatiKuwaitKyrgyzstanLaosLatviaLebanonLesothoLiberiaLibyaLiechtensteinLithuaniaLuxembourgMadagascarMalawiMalaysiaMaldivesMaliMaltaMarshall IslandsMartiniqueMauritaniaMauritiusMayotteMexicoMicronesiaMoldovaMonacoMongoliaMontenegroMoroccoMozambiqueMyanmarNamibiaNauruNepalNetherlandsNew CaledoniaNew ZealandNicaraguaNigerNigeriaNorth MacedoniaNorwayOmanPakistanPalauPalestinePanamaPapua New GuineaParaguayPeruPhilippinesPolandPortugalQatarRéunionRomaniaRwandaSaint BarthelemySaint HelenaSaint Kitts and NevisSaint LuciaSaint Martin (French part)Saint Pierre and MiquelonSaint Vincent and the GrenadinesSamoaSan MarinoSao Tome and PrincipeSaudi ArabiaSenegalSerbiaSeychellesSierra LeoneSingaporeSlovakiaSloveniaSolomon IslandsSomaliaSouth AfricaSouth KoreaSouth SudanSpainSri LankaSudanSurinameSvalbard and Jan MayenSwedenSwitzerlandTaiwanTajikistanTanzaniaThailandTimor-Leste (East Timor)TogoTongaTrinidad and TobagoTunisiaTurkeyTurkmenistanTuvaluUgandaUkraineUnited Arab EmiratesUnited KingdomUnited States of AmericaUruguayUzbekistanVanuatuVietnamWallis and FutunaYemenZambiaZimbabwe
 
 Trademark holder’s website *
 
@@ -82,11 +82,15 @@ Material that is hosted on OpenAI’s platform, including a GPT
 
 Material that is accessible through a link or reference in ChatGPT search or Browse, or SearchGPT
 
-## Your information
+Please include a link/URL to the content *
+
+Add another URL
+
+##### Your information
 
 Please provide any additional information that will help us understand your request. *
 
-## Declaration statement
+##### Declaration statement
 
 By submitting this notice, you state that you have a good faith belief that the reported use described above, in the manner you have complained of, is not authorized by the intellectual property rights owner, its agent, or the law; that the information contained in this notice is accurate; and, under penalty of perjury, that you are authorized to act on behalf of the owner of the intellectual property rights at issue.
 
@@ -106,9 +110,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -180,6 +184,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

@@ -4,6 +4,48 @@ A daily log of every change to OpenAI's public website — what appeared, what d
 
 ---
 
+## 2026-07-23 — Run `2026-07-23T09-17Z`
+
+**Fetch time:** 2026-07-23T09:17:00Z
+**Baseline:** 2026-07-22T09-16Z (consecutive day)
+**Stats:** 1470 total URLs | +6 added | 48 updated | -0 removed | 0 anomalies | 34 sub-sitemaps
+
+**TL;DR:** OpenAI launched a new enterprise product, **OpenAI Presence** — a "trusted AI agents" platform for customer-facing and internal voice/chat workflows, backed by customer quotes from BBVA Mexico, SoftBank, and Australian insurer IAG. Alongside it: a $17M+ package of Codex/API/GPT-Rosalind commitments to the U.S. Department of Energy's Genesis Mission for national-lab science, a new Georgia data-center project ("Project Camellia," 3.2 GW, Effingham County) with community-benefit and no-rate-hike commitments, a PR roundup of news organizations using OpenAI tools, and a new NTT DATA customer story (Codex cut an incident-analysis task from 3 days to 30 minutes). On the quieter side: a coordinated "ChatGPT Work" webinar series rolled out across five business-function solutions pages, the Enterprises solutions page re-routed its "Life Sciences" link to the GPT-Rosalind product page, and the automated-red-teaming paper referenced two runs ago is now published. No anomalies.
+
+### Anomalies
+
+None this run.
+
+### Notable additions
+
+- **[Introducing OpenAI Presence](pages/openai.com/index/introducing-openai-presence/index.md)** + **[business landing page](pages/openai.com/business/openai-presence/index.md)** — new enterprise product for deploying "trusted AI agents" across voice/chat customer and internal workflows, with policy/guardrail/escalation controls and a Codex-driven continuous-improvement loop. Design partners quoted: BBVA Mexico (financial services), SoftBank (Japanese-language customer service), and IAG (Australian insurer, claims support during severe-weather events). The most substantial product announcement since the recent Codex app / GPT-5.6 wave.
+- **[Advancing the next era of national science](pages/openai.com/index/advancing-the-next-era-of-national-science/index.md)** — commitments to the U.S. DOE's Genesis Mission: $4M in Codex access for ~2,000 National Lab/university researchers, $3M in API support for two scientific campaigns, up to $10M in matched API usage, GPT-Rosalind bioscience access for eligible national-lab biology projects, early model access for trusted lab leaders, and expanded cyber-research access.
+- **[Building AI infrastructure with the Effingham County community](pages/openai.com/index/building-ai-infrastructure-with-the-effingham-county-community/index.md)** — announces **Project Camellia**, a new 3.2 GW data center in Effingham County, Georgia (with Georgia Power, phased 2028–2032). Commitments: no local rate increases, closed-loop low-water-use cooling, $80M in community benefits, up to $71M in Codex credits for Georgia students, and an independent annual audit. Same community-commitment format used for the Abilene, TX campus.
+- **[How news organizations are using AI](pages/openai.com/index/how-news-organizations-are-using-ai/index.md)** — PR roundup covering how AP, POLITICO, Axios, The Philadelphia Inquirer, Axel Springer, Le Monde, PRISA Media, The Daily Beast, and the American Journalism Project use OpenAI tools in reporting and business workflows; references a same-day-announced renewed AJP local-news partnership.
+- **[NTT DATA Group cuts incident analysis to 30 minutes with Codex](pages/openai.com/index/ntt-data/index.md)** — new customer story: Codex rolled out to ~9,000 NTT DATA employees after companywide ChatGPT Enterprise adoption; headline metric is a -99.3% time reduction on an incident-analysis task (5 engineers × 3 days → 30 minutes).
+
+### Notable updates
+
+- **"ChatGPT Work" webinar series** launched across five team-specific solutions pages, each replacing the old generic "Introducing ChatGPT Work" banner with a **live webinar** promo tied to that team: [`/business/solutions/data/`](pages/openai.com/business/solutions/data/index.md) (Aug 11), [`/business/solutions/finance/`](pages/openai.com/business/solutions/finance/index.md) (Aug 4), [`/business/solutions/marketing/`](pages/openai.com/business/solutions/marketing/index.md) (Aug 25), [`/business/solutions/operations/`](pages/openai.com/business/solutions/operations/index.md) (Aug 18), and [`/business/solutions/sales/`](pages/openai.com/business/solutions/sales/index.md) (Jul 30). [`/business/why-openai/enterprises/`](pages/openai.com/business/why-openai/enterprises/index.md) and [`/solutions/`](pages/openai.com/solutions/index.md) simply dropped the old promo banner with no replacement.
+- **[`/business/why-openai/enterprises/`](pages/openai.com/business/why-openai/enterprises/index.md)** re-pointed its "Life Sciences" card from the generic `/solutions/industries/life-sciences/` page to **`/gpt-rosalind/`** — GPT-Rosalind (OpenAI's bioscience model, launched ~June 2026) is now the enterprise front door for the Life Sciences vertical, consistent with today's Genesis Mission announcement also citing GPT-Rosalind for national-lab biology work.
+- **[`/products/release-notes/`](pages/openai.com/products/release-notes/index.md)** added a Jul 20 GA entry: "Organization and project spend limits for the OpenAI API platform" (monthly spend caps, with hard enforcement once a limit is hit). The oldest visible entry ("ChatGPT returns to WhatsApp in the EEA," Jul 13) rolled off the page's fixed-length list — pagination, not a retraction.
+- **[`/index/unlocking-self-improvement-gpt-red/`](pages/openai.com/index/unlocking-self-improvement-gpt-red/index.md)** — the automated red-teaming research paper referenced as "coming later this week" is now published; the page swapped that placeholder text for a working PDF link.
+- **[`/form/enterprise-trusted-access-for-cyber/`](pages/openai.com/form/enterprise-trusted-access-for-cyber/index.md)** dropped the required "OpenAI Organization ID" field, making the form submittable without an existing paid API org.
+- Sitewide: **"Supply Co."** (the existing `/supply/` merch store) was added to the global footer nav on many pages it was previously missing from; the Products flyout swapped "GPT-5.3 Instant" for "GPT-5.6" on several form pages — both look like the tail end of rollouts started in prior runs.
+
+### Routine updates
+
+23 of the 48 `<lastmod>`-bumped pages were byte-identical to yesterday's snapshot (no detectable content change). The customer-stories carousel rotated in the new NTT DATA story and rotated out the older Wasmer story (Wasmer's own page is untouched, just no longer featured). The small-business leads form softened some copy and made its "Title" field optional. The trademark/counterfeit-disputes form added a required content-URL field and re-localized its country picker (e.g. "Turkey" → "Türkiye" reverted to "Turkey", "Congo (DRC)" formatting) — looks like a country-list library update rather than a policy change. Homepage and several article pages' "Keep reading" rails rotated to surface today's new posts, as usual after new publications.
+
+### Removals
+
+None this run.
+
+Full analysis: [runs/2026-07-23T09-17Z/analysis.md](runs/2026-07-23T09-17Z/analysis.md)
+
+---
+*Stats: 1,470 total URLs | +6 added | 48 updated | -0 removed | 0 anomalies | 34 sub-sitemaps*
+
 ## 2026-07-22 — Run `2026-07-22T09-16Z`
 
 **Fetch time:** 2026-07-22T09:17:02Z

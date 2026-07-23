@@ -26,14 +26,6 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 OpenAI
 
-New
-
-### Introducing ChatGPT Work: 
-
-A new agent in ChatGPT that helps teams turn ambitious goals into finished work—with enterprise controls and governance built in.
-
-[Learn more](</chatgpt-work/>)
-
 # Frontier AI for the most ambitious enterprises
 
 OpenAI gives enterprises the intelligence and deployment expertise to tackle problems that once felt out of reach.
@@ -152,9 +144,9 @@ Explore product announcements, customer stories, and deployment guidance for lea
 
 [Healthcare](</solutions/industries/healthcare/>)
 
-![1x1](https://images.ctfassets.net/kftzwdyauwt9/1D6nnZ4EvlhS7bGdCna7OC/b3fade9e482d3bc9cacdea118cf8e5f3/hero.png?w=3840&q=90&fm=webp)
+![3 people in a science lab, in lab coats looking at a tablet](https://images.ctfassets.net/kftzwdyauwt9/1D6nnZ4EvlhS7bGdCna7OC/b3fade9e482d3bc9cacdea118cf8e5f3/hero.png?w=3840&q=90&fm=webp)
 
-[Life Sciences](</solutions/industries/life-sciences/>)
+[Life Sciences](</gpt-rosalind/>)
 
 ![Soultions for Retail v3](https://images.ctfassets.net/kftzwdyauwt9/5nmNL9J9IXJ3PWkJXswpsi/74fc3710db8f3630bc94010b4e472934/Soultions_for_Retail_v3.jpg?w=3840&q=90&fm=webp)
 
@@ -254,6 +246,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

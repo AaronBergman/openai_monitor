@@ -26,13 +26,11 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 OpenAI
 
-New
+### [Live webinar] Join us August 4, 2026 at 9:30 AM PT
 
-### Introducing ChatGPT Work: 
+to see how OpenAI's Finance team uses ChatGPT Work to explain variance and turn close data into a decision-ready forecast.
 
-A new agent in ChatGPT that helps teams turn ambitious goals into finished work—with enterprise controls and governance built in.
-
-[Learn more](</chatgpt-work/>)
+[Register now(opens in a new window)](<https://webinar.openai.com/chatgpt-work-series/finance/?utm_medium=website&utm_campaign=WBR-chatgpt-work-series-finance-banner>)
 
 # AI for your finance team’s most ambitious work
 
@@ -179,6 +177,10 @@ Amr Ellabban, PhD, Head of AI, Hg
 
 Explore additional resources for getting started with OpenAI.
 
+![Abstract blue art card for ChatGPT Work webinar resources.](https://images.ctfassets.net/kftzwdyauwt9/6Ha7QQ4NC6ajzW0cJwlzzp/7a6339ffc1cd5cf02d2b58e8cac019ec/Webinar_art_card.png?w=3840&q=90&fm=webp)
+
+## [Watch webinarSee how our Finance team uses ChatGPT Work to explain variance and build forecasts leaders can act on.(opens in a new window)](<https://webinar.openai.com/chatgpt-work-series/finance/?utm_medium=website&utm_campaign=WBR-chatgpt-work-series-finance-resources>)
+
 ![How finance teams use Codex > card image](https://images.ctfassets.net/kftzwdyauwt9/4VU5At1ybQhEoHRaoWSJzK/b2909183102b81eef94eb9d9541d4841/finance_teams.png?w=3840&q=90&fm=webp)
 
 [AcademyBuild AI skills with hands-on lessons and learning paths from OpenAI.](</academy/how-finance-teams-use-codex/>)
@@ -186,10 +188,6 @@ Explore additional resources for getting started with OpenAI.
 ![Business Learning Hub 1x1](https://images.ctfassets.net/kftzwdyauwt9/3WaN0u4u87BK3dXsD569qh/f40a4e250dc00d0bbf5ec418be81fc9c/Business_Learning_Hub_1x1.png?w=3840&q=90&fm=webp)
 
 [Guides & ResourcesExplore business guides for adopting AI securley and at scale.](</business/learn/>)
-
-![Developer Hub media background graphic.](https://images.ctfassets.net/kftzwdyauwt9/2rZQgRuZRhSpILqckkFPB9/ab2be880009cc96ff5a49514738dae5c/Developers_Hub_media_background1x1.png?w=3840&q=90&fm=webp)
-
-[Developer HubFind docs, examples, and tools for building with OpenAI.](<https://developers.openai.com>)
 
 ## See what OpenAI can do for finance teams
 
@@ -281,6 +279,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

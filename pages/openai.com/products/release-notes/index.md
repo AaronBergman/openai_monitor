@@ -41,6 +41,18 @@ Filter
 
 Sort
 
+API
+
+Jul 20, 2026
+
+GA
+
+## Organization and project spend limits for the OpenAI API platform
+
+Added organization and project spend limits for the OpenAI API platform. Set monthly spend limits to monitor API costs, or enforce hard limits so API responses fail after an organization or project reaches its limit.
+
+[View source(opens in a new window)](<https://developers.openai.com/api/docs/guides/spend-limits>)
+
 ChatGPT
 
 Jul 16, 2026
@@ -111,24 +123,6 @@ Start searching from the ChatGPT sidebar to find what you need across everything
 Available on all ChatGPT plans globally.
 
 [View source(opens in a new window)](<https://help.openai.com/en/articles/6825453-chatgpt-release-notes#search-across-chats-projects-and-files-is-now-supercharged>)
-
-ChatGPT
-
-Jul 13, 2026
-
-GA
-
-## ChatGPT returns to WhatsApp in the EEA
-
-ChatGPT is available again on WhatsApp in the European Economic Area (EEA). Users can get started without a ChatGPT account by messaging the verified 1-800-CHATGPT contact at +1-800-242-8478.
-
-On WhatsApp, users can message ChatGPT, upload images, send voice notes, create images, and use ChatGPT in many languages. Linking a ChatGPT account is optional and provides higher usage limits.
-
-Availability is based on the country code associated with the user's WhatsApp number and may roll out gradually. Usage limits apply.
-
-ChatGPT is also available on Kakao in South Korea and Viber in supported markets.
-
-[View source(opens in a new window)](<https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-returns-to-whatsapp-in-the-eea>)
 
 Load more
 

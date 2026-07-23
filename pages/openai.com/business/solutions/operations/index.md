@@ -26,6 +26,12 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 OpenAI
 
+### [Live webinar] Join us August 18, 2026 at 9:30 AM PT
+
+to see how OpenAI's Business Operations team uses ChatGPT Work to surface risks and prepare leadership-ready weekly reviews.
+
+[Register now(opens in a new window)](<https://webinar.openai.com/chatgpt-work-series/business-operations/?utm_medium=website&utm_campaign=WBR-chatgpt-work-series-business-operations-banner>)
+
 # AI for your operations team’s most ambitious work
 
 ChatGPT Work pulls project updates from across your systems, surfaces risks and next steps, and keeps weekly reviews current—so operations teams spend less time chasing information and more time moving priorities forward.
@@ -141,6 +147,10 @@ Graham Ganssle, Supplier Support Operations, Wayfair
 
 ## Operations resources
 
+![Abstract blue art card for ChatGPT Work webinar resources.](https://images.ctfassets.net/kftzwdyauwt9/6Ha7QQ4NC6ajzW0cJwlzzp/7a6339ffc1cd5cf02d2b58e8cac019ec/Webinar_art_card.png?w=3840&q=90&fm=webp)
+
+## [Watch webinarSee how our Business Operations team uses ChatGPT Work to surface risks early and turn weekly reviews into clear decisions.(opens in a new window)](<https://webinar.openai.com/chatgpt-work-series/business-operations/?utm_medium=website&utm_campaign=WBR-chatgpt-work-series-business-operations-resources>)
+
 ![How business operations teams use Codex > card image](https://images.ctfassets.net/kftzwdyauwt9/JR9MMoyTo7eFFF8Nv13Qc/43414ee0c762db49e36bda8ae0d35e39/bus_ops_teams.png?w=3840&q=90&fm=webp)
 
 [AcademyBuild AI skills with hands-on lessons and learning paths from OpenAI.May 15, 2026](</academy/codex-for-work/how-business-operations-teams-use-codex/>)
@@ -148,10 +158,6 @@ Graham Ganssle, Supplier Support Operations, Wayfair
 ![Business Learning Hub 1x1](https://images.ctfassets.net/kftzwdyauwt9/3WaN0u4u87BK3dXsD569qh/f40a4e250dc00d0bbf5ec418be81fc9c/Business_Learning_Hub_1x1.png?w=3840&q=90&fm=webp)
 
 [Guides and resourcesExplore business guides for adopting AI securely and at scale.](</business/learn/>)
-
-![Developer Hub media background graphic.](https://images.ctfassets.net/kftzwdyauwt9/2rZQgRuZRhSpILqckkFPB9/ab2be880009cc96ff5a49514738dae5c/Developers_Hub_media_background1x1.png?w=3840&q=90&fm=webp)
-
-[Developer hubFind docs, examples, and tools for building with OpenAI.](<https://developers.openai.com/>)
 
 ## See what OpenAI can do for operations teams
 
