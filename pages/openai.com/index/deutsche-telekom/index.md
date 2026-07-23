@@ -53,32 +53,20 @@ Share
 Inside the rollout
 
   * Inside the rollout
-
   * Results at a glance
-
   * The next frontier is reinventing voice
-
   * Leadership lessons
-
   * Tips
-
   * What's next
-
 
 
 
   * Inside the rollout
-
   * Results at a glance
-
   * The next frontier is reinventing voice
-
   * Leadership lessons
-
   * Tips
-
   * What's next
-
 
 
 
@@ -159,13 +147,17 @@ More than 1 million businesses around the world are achieving meaningful results
 
 ## Keep reading
 
-![GPT-5.6 is now the preferred model in Microsoft 365 Copilot > Cover image](https://images.ctfassets.net/kftzwdyauwt9/3MPipvFMxS8m3kTyCtwFgj/015747dcd34cb667a221688cfca64e0f/Frame.png?w=3840&q=90&fm=webp)
+![effingham county 1x1](https://images.ctfassets.net/kftzwdyauwt9/3f1fyaaSZELql3zECUImW3/1733a5ee7f07da894b993dcff75bea66/effingham_county_1x1.png?w=3840&q=90&fm=webp)
 
-[GPT-5.6 is now the preferred model in Microsoft 365 CopilotProductJul 9, 2026](</index/gpt-5-6-preferred-model-microsoft-365-copilot/>)
+[Building AI infrastructure with the Effingham County communityGlobal AffairsJul 22, 2026](</index/building-ai-infrastructure-with-the-effingham-county-community/>)
 
-[GPT-5.6: Frontier intelligence that scales with your ambitionProductJul 9, 2026](</index/gpt-5-6/>)
+![How news organizations are using AI > Card Image](https://images.ctfassets.net/kftzwdyauwt9/5nTzxwRy4Is9PQSluyYkWP/d6e7953a692a5a8c926885e2f50a3427/how_news_orgs_use_AI_1x1.png?w=3840&q=90&fm=webp)
 
-[ChatGPT is now a partner for your most ambitious workProductJul 9, 2026](</index/chatgpt-for-your-most-ambitious-work/>)
+[How news organizations use AI to advance their vital missionsCompanyJul 22, 2026](</index/how-news-organizations-are-using-ai/>)
+
+![Advancing the next era of national science card image](https://images.ctfassets.net/kftzwdyauwt9/1aUcaaPHlPQbaN0EzEUrEc/95d5f6d78ab308305bf4781c07ccc4fd/Advancing_the_next_era_of_national_science_1x1.png?w=3840&q=90&fm=webp)
+
+[Advancing the next era of national scienceGlobal AffairsJul 22, 2026](</index/advancing-the-next-era-of-national-science/>)
 
 Research
 
@@ -251,6 +243,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

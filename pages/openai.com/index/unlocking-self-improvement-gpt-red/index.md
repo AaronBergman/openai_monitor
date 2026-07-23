@@ -34,6 +34,8 @@ July 15, 2026
 
 Training strong automated safety red-teamers to improve robustness.
 
+[Read the paper(opens in a new window)](<https://cdn.openai.com/pdf/gpt-red-automated-red-teaming-via-self-play-at-scale.pdf>)
+
 Loading…
 
 Share
@@ -208,8 +210,6 @@ We thoroughly evaluate both general frontier capabilities along with targeted ov
 ## Next steps
 
 AI agents are already being used to improve the capabilities of our next-generation models. We believe with GPT‑Red that we have started to unlock a similar flywheel for safety, where today’s models can be used to make tomorrow’s models more robust, aligned, and trustworthy. We will continue to scale compute and data while making algorithmic improvements, to train future versions of GPT‑Red that are stronger than today’s model. And in turn, these models will help make future GPT releases safer.
-
-We will be releasing a pre-print with more details later this week.
 
   * [2026](</news/?tags=2026>)
   * [Alignment](</news/?tags=alignment>)

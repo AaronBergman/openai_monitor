@@ -132,6 +132,10 @@ Customer stories
 
 Filter
 
+![NTT DATA customer story 1x1 image](https://images.ctfassets.net/kftzwdyauwt9/2e11pEijIgQbsAMT8mLr6d/06e7ceab590f1e8b8abd9dc4e644f990/ntt-data-1x1-contentful.png?w=3840&q=90&fm=webp)
+
+[NTT DATA Group cuts incident analysis to 30 minutes with CodexJul 22, 2026](</index/ntt-data/>)
+
 ![Cars24 — square customer story artwork](https://images.ctfassets.net/kftzwdyauwt9/2w9KeAF3eUGeTYbhIad57r/60d837660f6c59bdf46f82c28073469d/cars24-square.png?w=3840&q=90&fm=webp)
 
 [How Cars24 scales conversations and builds faster with OpenAIJul 16, 2026](</index/cars24/>)
@@ -175,10 +179,6 @@ Filter
 ![oai endava 1x1](https://images.ctfassets.net/kftzwdyauwt9/6CJMPcvmo9FlUZMnAetSGl/9686223d1bd7d90b9926c0bedd4e8fb9/oai_endava_1x1.png?w=3840&q=90&fm=webp)
 
 [How Endava is redesigning software delivery around AI agentsJun 4, 2026](</index/endava-frontiers/>)
-
-![Wasmer Customer stories > oai 1x1](https://images.ctfassets.net/kftzwdyauwt9/7JgSY9kXOlq1H4hc83F7CW/823218f0976b5a81cdc777d5da5ed804/oai_wasmer_1x1.png?w=3840&q=90&fm=webp)
-
-[How Wasmer engineers used Codex to build Edge.jsJun 3, 2026](</index/wasmer/>)
 
 Load more
 

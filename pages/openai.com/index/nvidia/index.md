@@ -122,17 +122,17 @@ More than 1 million businesses around the world are achieving meaningful results
 
 ## Keep reading
 
-![Building AI for the ambitions of small businesses > Card image](https://images.ctfassets.net/kftzwdyauwt9/7wmfLwQnQQpV1xogqASUpR/76c80831b475e17a187ba35a7e0a46c8/SMB_launch_blog_1x1.png?w=3840&q=90&fm=webp)
+![effingham county 1x1](https://images.ctfassets.net/kftzwdyauwt9/3f1fyaaSZELql3zECUImW3/1733a5ee7f07da894b993dcff75bea66/effingham_county_1x1.png?w=3840&q=90&fm=webp)
 
-[Introducing the ChatGPT for small business programAI AdoptionJul 21, 2026](</index/introducing-chatgpt-small-business-program/>)
+[Building AI infrastructure with the Effingham County communityGlobal AffairsJul 22, 2026](</index/building-ai-infrastructure-with-the-effingham-county-community/>)
 
-![Hugging Face Security Incident 1x1](https://images.ctfassets.net/kftzwdyauwt9/1H0bdkoSFFcqNTx4DSNpal/56f4b7575c012f0698b1be0dafb379f0/Hugging_Face_Security_Incident_1x1.png?w=3840&q=90&fm=webp)
+![How news organizations are using AI > Card Image](https://images.ctfassets.net/kftzwdyauwt9/5nTzxwRy4Is9PQSluyYkWP/d6e7953a692a5a8c926885e2f50a3427/how_news_orgs_use_AI_1x1.png?w=3840&q=90&fm=webp)
 
-[OpenAI and Hugging Face address security incidentSecurityJul 21, 2026](</index/hugging-face-model-evaluation-security-incident/>)
+[How news organizations use AI to advance their vital missionsCompanyJul 22, 2026](</index/how-news-organizations-are-using-ai/>)
 
-![David Vélez and Robin Vince 1x1](https://images.ctfassets.net/kftzwdyauwt9/7wQKVPmXFJk1gTBLmJTO6N/f90d79c4e011e05fb0d06aebfa3a265c/c47f1f6d-440a-4f0b-a669-50ca79ce1064.png?w=3840&q=90&fm=webp)
+![Advancing the next era of national science card image](https://images.ctfassets.net/kftzwdyauwt9/1aUcaaPHlPQbaN0EzEUrEc/95d5f6d78ab308305bf4781c07ccc4fd/Advancing_the_next_era_of_national_science_1x1.png?w=3840&q=90&fm=webp)
 
-[David Vélez and Robin Vince join OpenAI boardsCompanyJul 21, 2026](</index/david-velez-robin-vince-join-openai-boards/>)
+[Advancing the next era of national scienceGlobal AffairsJul 22, 2026](</index/advancing-the-next-era-of-national-science/>)
 
 Research
 

@@ -49,10 +49,6 @@ Common name / DBA (if applicable)
 
 Public website *
 
-OpenAI Organization ID *
-
-[_Click here_ ⁠(opens in a new window)](<https://platform.openai.com/settings/organization/general>) to find yours.
-
 Are you a government entity or is this request in direct support of work being done on behalf of a government entity? *
 
 No
