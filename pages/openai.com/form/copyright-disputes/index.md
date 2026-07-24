@@ -52,10 +52,6 @@ Material that is hosted on OpenAI’s platform, including a GPT
 
 Material that is accessible through a link or reference in ChatGPT search or Browse, or SearchGPT
 
-Please provide a link/URL to the material claimed to be infringing. *
-
-Add another URL
-
 Do you wish to provide any additional information that will help us understand your request?
 
 First name *
@@ -96,9 +92,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -135,6 +131,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -168,6 +166,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

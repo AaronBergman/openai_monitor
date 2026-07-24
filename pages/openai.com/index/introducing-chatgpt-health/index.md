@@ -34,8 +34,6 @@ January 7, 2026
 
 A dedicated experience in ChatGPT designed for health and wellness.
 
-[Join the waitlist(opens in a new window)](<https://chatgpt.com/health/waitlist>)
-
 Loading…
 
 Share
@@ -43,59 +41,37 @@ Share
 A dedicated health experience
 
   * A dedicated health experience
-
   * Designed with privacy and security at the core
-
     * A dedicated space for Health
-
     * Protections and controls for sensitive information
-
     * Securely connecting your information
-
   * Built with physicians
-
   * How to get started
-
     * Once you have access
-
     * Bring your information in
-
     * Chat about your health
-
     * Customize your experience
-
   * Just the start 
-
 
 
 
   * A dedicated health experience
-
   * Designed with privacy and security at the core
-
     * A dedicated space for Health
-
     * Protections and controls for sensitive information
-
     * Securely connecting your information
-
   * Built with physicians
-
   * How to get started
-
     * Once you have access
-
     * Bring your information in
-
     * Chat about your health
-
     * Customize your experience
-
   * Just the start 
 
 
 
-
+_**Update on July 23, 2026:**__Health in ChatGPT is launching to U.S. users 18 and older on web and iOS. Learn more in our_[ _latest update_](</index/health-in-chatgpt/>) _._  
+  
 We’re introducing ChatGPT Health, a dedicated experience that securely brings your health information and ChatGPT’s intelligence together, to help you feel more informed, prepared, and confident navigating your health.
 
 Health is already one of the most common ways people use ChatGPT, with hundreds of millions of people asking health and wellness questions each week. ChatGPT Health builds on the strong privacy, security, and data controls across ChatGPT with additional, layered protections designed specifically for health— including purpose-built encryption and isolation to keep health conversations protected and compartmentalized. You can securely connect medical records and wellness apps to ground conversations in your own health information, so responses are more relevant and useful to you. Designed in close collaboration with physicians, ChatGPT Health helps people take a more active role in understanding and managing their health and wellness—while supporting, not replacing, care from clinicians.
@@ -208,13 +184,17 @@ OpenAI
 
 [View all](</news/>)
 
-![GPT-5.6 is now the preferred model in Microsoft 365 Copilot > Cover image](https://images.ctfassets.net/kftzwdyauwt9/3MPipvFMxS8m3kTyCtwFgj/015747dcd34cb667a221688cfca64e0f/Frame.png?w=3840&q=90&fm=webp)
+![Health in ChatGPT > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/48aIp3cQOKJ57vpQeqOb8y/2e8732bcad5ceea1c7b20cf001bd2823/1_1_Art_Card.png?w=3840&q=90&fm=webp)
 
-[GPT-5.6 is now the preferred model in Microsoft 365 CopilotProductJul 9, 2026](</index/gpt-5-6-preferred-model-microsoft-365-copilot/>)
+[Launching Health in ChatGPT ProductJul 23, 2026](</index/health-in-chatgpt/>)
 
-[GPT-5.6: Frontier intelligence that scales with your ambitionProductJul 9, 2026](</index/gpt-5-6/>)
+![How news organizations are using AI > Card Image](https://images.ctfassets.net/kftzwdyauwt9/5nTzxwRy4Is9PQSluyYkWP/d6e7953a692a5a8c926885e2f50a3427/how_news_orgs_use_AI_1x1.png?w=3840&q=90&fm=webp)
 
-[ChatGPT is now a partner for your most ambitious workProductJul 9, 2026](</index/chatgpt-for-your-most-ambitious-work/>)
+[How news organizations use AI to advance their vital missionsCompanyJul 22, 2026](</index/how-news-organizations-are-using-ai/>)
+
+![OpenAI Presence 1x1](https://images.ctfassets.net/kftzwdyauwt9/5JBDenSGI6wx5CMPPlaM5J/da9d8e27a0bd70d845a816b28ac641a9/OpenAI_Presence_1x1.png?w=3840&q=90&fm=webp)
+
+[Introducing OpenAI PresenceProductJul 22, 2026](</index/introducing-openai-presence/>)
 
 Research
 
@@ -300,6 +280,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

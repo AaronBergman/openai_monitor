@@ -41,6 +41,24 @@ Filter
 
 Sort
 
+ChatGPT
+
+Jul 23, 2026
+
+GA
+
+## Health in ChatGPT expands to eligible U.S. users
+
+We’re starting to roll out a new health experience in ChatGPT. Logged-in Free, Go, Plus, and Pro users in the United States who are 18 or older can securely connect supported health records and Apple Health data, see a dashboard of their health information, and ask questions grounded in their personal health context.
+
+Available on web and iOS, Health lets you view lab results, medications, activity, sleep, and other health information in one place. You can ask questions directly in ChatGPT or use the Health tab to explore trends, prepare for appointments, understand test results, track wellness goals, and think through questions to discuss with a healthcare professional. The experience builds on feedback from early testers and gives you control over what you connect and when ChatGPT can use it.
+
+Health is built with layered privacy and security safeguards. Connected medical records and Apple Health information, and conversations that use it, are not used to train our foundation models or target ads.
+
+ChatGPT Health is designed to support, not replace, medical care and is not intended for diagnosis or treatment.
+
+[View source(opens in a new window)](<https://help.openai.com/en/articles/6825453-chatgpt-release-notes#health-in-chatgpt>)[Help center(opens in a new window)](<https://help.openai.com/en/articles/20001036-what-is-chatgpt-health>)[Blog](<https://openai.com/index/introducing-chatgpt-health/>)
+
 API
 
 Jul 20, 2026
@@ -52,6 +70,48 @@ GA
 Added organization and project spend limits for the OpenAI API platform. Set monthly spend limits to monitor API costs, or enforce hard limits so API responses fail after an organization or project reaches its limit.
 
 [View source(opens in a new window)](<https://developers.openai.com/api/docs/guides/spend-limits>)
+
+Codex
+
+Jul 20, 2026
+
+GA
+
+## ChatGPT for iOS updates: Mermaid diagrams, interactive forms, prompt recovery, and task improvements
+
+### New features
+
+  * Added support for rendering Mermaid diagrams inline in task transcripts.
+
+  * Added support for interactive forms in Codex tasks.
+
+  * Added support for restoring unsent prompts when switching between tasks, hosts, and workspaces.
+
+
+
+
+### Improvements and bug fixes
+
+  * Improved task lists to sort by recent activity and show unavailable hosts when creating a task.
+
+  * Improved the composer with selected-text previews and smoother new-task transitions.
+
+  * Improved goals with support for resuming blocked or usage-limited runs.
+
+  * Improved plan progress, Fast controls, and inline dictation.
+
+  * Improved Remote onboarding, composer guidance, and iPad navigation.
+
+  * Fixed an issue that could close the app when duplicate task-list entries appeared while starting a task.
+
+  * Fixed iOS 18 task actions and task-list styling.
+
+  * Fixed composer spacing, attachment menu padding, and duplicate transcription indicators.
+
+
+
+
+[View source(opens in a new window)](<https://developers.openai.com/codex/changelog#codex-2026-07-20-mobile>)
 
 ChatGPT
 
@@ -93,36 +153,6 @@ GA
 We’re increasing the character limit for custom instructions in ChatGPT. Plus, Pro, Enterprise, Business, and Education users can now save up to 5,000 characters, up from 1,500, giving them more room to customize ChatGPT’s response style and behavior.
 
 [View source(opens in a new window)](<https://help.openai.com/en/articles/6825453-chatgpt-release-notes#increased-custom-instructions-limit>)
-
-ChatGPT
-
-Jul 15, 2026
-
-GA
-
-## Apps with sync support EKM workspaces
-
-Apps with sync are now available for ChatGPT Enterprise and Edu workspaces with Enterprise Key Management (EKM) enabled. This update applies to all apps with sync.
-
-The supporting apps-with-sync documentation confirms that apps with sync are available for Enterprise and Edu workspaces with EKM enabled.
-
-[View source(opens in a new window)](<https://help.openai.com/en/articles/10128477-chatgpt-enterprise-edu-release-notes#apps-with-sync-now-support-ekm-workspaces>)[Help center(opens in a new window)](<https://help.openai.com/en/articles/10847137>)[Help center(opens in a new window)](<https://help.openai.com/en/articles/20000943>)
-
-ChatGPT
-
-Jul 14, 2026
-
-GA
-
-## Search across chats, projects, images, and files in ChatGPT
-
-We’ve rolled out a new way to search your chats, projects, images, and documents in ChatGPT on web, iOS, and Android. You can quickly find past chats, projects, images, and documents from one place.
-
-Start searching from the ChatGPT sidebar to find what you need across everything, or use filters to narrow results by content type. Select a result to open the chat, project, or file directly in ChatGPT.
-
-Available on all ChatGPT plans globally.
-
-[View source(opens in a new window)](<https://help.openai.com/en/articles/6825453-chatgpt-release-notes#search-across-chats-projects-and-files-is-now-supercharged>)
 
 Load more
 

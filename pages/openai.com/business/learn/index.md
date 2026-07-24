@@ -26,14 +26,6 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 OpenAI
 
-New
-
-### Introducing ChatGPT Work: 
-
-A new agent in ChatGPT that helps teams turn ambitious goals into finished work—with enterprise controls and governance built in.
-
-[Learn more](</chatgpt-work/>)
-
 # Learn what AI can do for your business
 
 Explore guides and resources to deploy AI with confidence.
@@ -106,6 +98,10 @@ GuidesOpenAI on OpenAIWebinarsDemos
 
 #### OpenAI on OpenAI
 
+![OAIonOAI ChadNelson 1x1](https://images.ctfassets.net/kftzwdyauwt9/2mUBSQZ1FwfTFJR5Yco4nQ/9a775c8c69a1d1e161bd7f56f4fdb7e7/OAIonOAI_ChadNelson_1x1.png?w=3840&q=90&fm=webp)
+
+[How Codex became a collaborator for OpenAI’s creative teamOpenAI on OpenAIJul 16, 2026](</index/codex-collaborator-creative-team/>)
+
 ![OpenAI on OpenAI: Scaling contract reviews > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/4TTjWs8vyNerpHOxrLOK6o/b55be40615c811a72af1d1eb991067f9/DocuGPT_-_Website_Stories_Post_-_1x1__1_.png?w=3840&q=90&fm=webp)
 
 [Turning contracts into searchable data at OpenAIAPISep 29, 2025](</index/openai-contract-data-agent/>)
@@ -125,10 +121,6 @@ GuidesOpenAI on OpenAIWebinarsDemos
 ![OpenAI on OpenAI: User Support > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/76CnrtKKvngPIfdfXYcXG8/cb789b59d9f7dd8e3b385b532be76a77/oai_SupportAgent_1x1.png?w=3840&q=90&fm=webp)
 
 [Improving support with every interaction at OpenAIAPISep 29, 2025](</index/openai-support-model/>)
-
-![OpenAI on OpenAI > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/5gbagfbtROvYfi0cQlpEM3/89367ef5dca927d48e541f6f430ea212/oai_GC_1x1__1_.png?w=3840&q=90&fm=webp)
-
-[Building OpenAI with OpenAIChatGPTSep 29, 2025](</index/building-openai-with-openai/>)
 
 #### Webinars
 
