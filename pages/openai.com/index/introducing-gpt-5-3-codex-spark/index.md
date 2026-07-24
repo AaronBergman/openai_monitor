@@ -39,32 +39,20 @@ Loading…
 Speed and intelligence
 
   * Speed and intelligence
-
   * Coding
-
   * Latency improvements for all models
-
   * Powered by Cerebras
-
   * Availability & details
-
   * What’s next
-
 
 
 
   * Speed and intelligence
-
   * Coding
-
   * Latency improvements for all models
-
   * Powered by Cerebras
-
   * Availability & details
-
   * What’s next
-
 
 
 

@@ -34,6 +34,10 @@ OpenAI’s Economic Research team periodically publishes reports and analysis on
 
 Explore the latest resources below, including country-focused Signals reports, research on how people use ChatGPT, and briefings on enterprise adoption and productivity outcomes.
 
+### [The AI jobs transition framework for the EUJune 2026 | A map of near-term job impacts of AI in the EU labor market.Learn more](<https://cdn.openai.com/pdf/the-ai-jobs-transition-framework-for-the-eu.pdf>)
+
+### [How ChatGPT adoption has expandedJune 2026 | A new picture of global AI adoption.Learn more](<https://openai.com/index/how-chatgpt-adoption-has-expanded/>)
+
 ### [The shift to agentic AI: evidence from CodexJune 2026 | An analysis of Codex usage to understand how agentic AI is shifting work, especially in organizations and at OpenAI.Learn more](<https://cdn.openai.com/pdf/5d1e1489-21c0-43e4-9d42-f87efdbf0082/the-shift-to-agentic-ai-evidence-from-codex.pdf>)
 
 ### [How ChatGPT adoption broadened in early 2026May 2026 | Q1 data shows consumer adoption growth among users over 35 and those with typically feminine names.Learn more](<https://openai.com/signals/research/2026q1-update/>)
@@ -57,8 +61,6 @@ Explore the latest resources below, including country-focused Signals reports, r
 ### [How people use ChatGPTSeptember 2025 | The Economic Research Teams’ NBER paper on how people are using ChatGPT.Learn more](<https://cdn.openai.com/pdf/a253471f-8260-40c6-a2cc-aa93fe9f142e/economic-research-chatgpt-usage-paper.pdf>)
 
 ### [How people are using ChatGPTSeptember 2025 | Our OpenAI blog explaining the largest study to date how people are using ChatGPT.Learn more](<https://openai.com/index/how-people-are-using-chatgpt/>)
-
-### [Unlocking economic opportunityJuly 2025 | A first look at ChatGPT-powered productivityLearn more](<https://cdn.openai.com/global-affairs/be0fe9e0-eb97-43d1-9614-99f2bd948bcc/OpenAI_Productivity-Note_Jul-2025.pdf>)
 
 ### Discover more
 
@@ -178,6 +180,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

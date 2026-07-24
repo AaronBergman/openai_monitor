@@ -100,6 +100,14 @@ See how OpenAI teams use ChatGPT Work to change how they operate.
 
 [Register now(opens in a new window)](<https://webinar.openai.com/chatgpt-work-series/?utm_medium=webinar&utm_source=website&utm_campaign=WBR-chatgpt-work-series-launch-hub>)
 
+![Calendar icon over a star field for OpenAI Build Week.](https://images.ctfassets.net/kftzwdyauwt9/71k6vD6ApKcudsNMblSInT/daa5d57db96ae40bd9e509e50e292651/chatgpt-work-openai-build-week-2x.png?w=3840&q=90&fm=webp)
+
+Academy webinars
+
+Explore hands-on learning sessions designed to build practical skills and help you get more from ChatGPT Work.
+
+[Register now(opens in a new window)](<https://academy.openai.com/public/events?tag=ChatGPT%2520for%2520Work-6a39cfbcd72d84004e0cae37>)
+
 ![Terminal prompt icon over a star field for Build Hour.](https://images.ctfassets.net/kftzwdyauwt9/7501PzAF1rWMU3q0MbfuIN/b1265e85a0d7a4daafdfc268ab03e930/chatgpt-work-build-hour-2x.png?w=3840&q=90&fm=webp)
 
 Build Hour
@@ -107,14 +115,6 @@ Build Hour
 Learn how to get the most out of GPT‑5.6 in ChatGPT and the API.
 
 [Register now(opens in a new window)](<https://webinar.openai.com/buildhours/>)
-
-![Calendar icon over a star field for OpenAI Build Week.](https://images.ctfassets.net/kftzwdyauwt9/71k6vD6ApKcudsNMblSInT/daa5d57db96ae40bd9e509e50e292651/chatgpt-work-openai-build-week-2x.png?w=3840&q=90&fm=webp)
-
-OpenAI Build Week
-
-Get hands on with ChatGPT Work and GPT‑5.6 by participating in our virtual build challenges, global events, and livestreams.
-
-[Register now](<https://openai.com/build-week>)
 
 ## Try ChatGPT Work
 
@@ -253,9 +253,7 @@ With more than 1,400 plugins available, ChatGPT can pull context from the tools 
 
 ### Keep projects moving on your schedule
 
-Create one-time or recurring tasks, monitor updates, and check progress from your phone when you’re away from your desk.*
-
-*Web and mobile access is rolling out to Plus, Pro, Business, and Enterprise users.
+Create one-time or recurring tasks, monitor updates, and check progress from your phone when you’re away from your desk.
 
 ### Iterate on work side-by-side in ChatGPT
 

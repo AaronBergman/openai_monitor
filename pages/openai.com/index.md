@@ -40,7 +40,12 @@ Message ChatGPT
 
 [GPT-5.6: Frontier intelligence that scales with your ambitionProduct18 min read](</index/gpt-5-6/>)
 
-![ChatGPT Work menu in a browser window against a starry background, with Work selected and Codex, Scheduled, and Sites options shown.](//images.ctfassets.net/kftzwdyauwt9/2P4v0ivRnOu6z9sJqDrJj5/d28b76a7ed3a8a53261f8eba4c021740/Superapp_Blog_Art_Card_-_Motion.png?w=3840&q=90&fm=webp)
+![Health in ChatGPT > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/48aIp3cQOKJ57vpQeqOb8y/2e8732bcad5ceea1c7b20cf001bd2823/1_1_Art_Card.png?w=3840&q=90&fm=webp)
+
+## [Launching Health in ChatGPT  
+ProductJul 23, 2026](</index/health-in-chatgpt/>)
+
+![ChatGPT Work menu in a browser window against a starry background, with Work selected and Codex, Scheduled, and Sites options shown.](https://images.ctfassets.net/kftzwdyauwt9/4hWm54F91fSSwX6YKm7Dqk/8db6b474726138fd000a34b0f67f41f8/ChatGPT_Work_1x1.png?w=3840&q=90&fm=webp)
 
 [Take on your most ambitious work with ChatGPT5 min read](</chatgpt-work/>)
 
@@ -48,13 +53,13 @@ Message ChatGPT
 
 [Introducing GPT-LiveProduct7 min read](</index/introducing-gpt-live/>)
 
-![Expanding Daybreak Art Card](https://images.ctfassets.net/kftzwdyauwt9/735NOZviyogUBIFxd2EmWX/fa8baf9fc26e64f442ffa86d5fd9a41e/Art_Card__6_.png?w=3840&q=90&fm=webp)
-
-[Daybreak: Tools for securing every organization in the worldSecurity8 min read](</index/daybreak-securing-the-world/>)
-
 ## Recent news
 
 [View more](</news/company-announcements/>)
+
+![Expanding Daybreak Art Card](https://images.ctfassets.net/kftzwdyauwt9/735NOZviyogUBIFxd2EmWX/fa8baf9fc26e64f442ffa86d5fd9a41e/Art_Card__6_.png?w=3840&q=90&fm=webp)
+
+[Daybreak: Tools for securing every organization in the worldSecurity8 min read](</index/daybreak-securing-the-world/>)
 
 ![OpenAI Presence 1x1](https://images.ctfassets.net/kftzwdyauwt9/5JBDenSGI6wx5CMPPlaM5J/da9d8e27a0bd70d845a816b28ac641a9/OpenAI_Presence_1x1.png?w=3840&q=90&fm=webp)
 
@@ -75,10 +80,6 @@ Message ChatGPT
 ![Confidential submission of draft S-1 to the SEC > cover image](https://images.ctfassets.net/kftzwdyauwt9/36doI12YCwUtp1hzD4d8bj/84e67c565f39e7d5ca3ee011efa69756/confidential-submission-of-draft-s-1-to-the-sec-1x1.png?w=3840&q=90&fm=webp)
 
 [Confidential submission of draft S-1 to the SECCompanyJun 8, 2026](</index/openai-submits-confidential-s-1/>)
-
-![Built for broad benefit > cover](https://images.ctfassets.net/kftzwdyauwt9/bEe28mW3dEOj9pKJsPp2u/13f7bed9e86b0667ba924479d62f98e4/Art_Card_1080x1080_1.png?w=3840&q=90&fm=webp)
-
-[Built to benefit everyone: our planCompanyJun 8, 2026](</index/built-to-benefit-everyone-our-plan/>)
 
 ## Stories
 

@@ -4,6 +4,50 @@ A daily log of every change to OpenAI's public website — what appeared, what d
 
 ---
 
+## 2026-07-24 — Run `2026-07-24T09-16Z`
+
+**Fetch time:** 2026-07-24T09:17:13Z
+**Baseline:** 2026-07-23T09-17Z (consecutive day)
+**Stats:** 1472 total URLs | +2 added | 51 updated | -0 removed | 0 anomalies | 34 sub-sitemaps
+
+**TL;DR:** OpenAI took its previously waitlisted "ChatGPT Health" experience to general availability as **Health in ChatGPT**, letting logged-in U.S. users 18+ connect Apple Health and supported medical records so ChatGPT can draw on that context in any conversation, not just a dedicated Health tab — the older announcement post was retroactively edited to point here and the "join the waitlist" link removed. Quieter but arguably more consequential long-term: OpenAI updated its **ChatGPT Sites Terms of Service** to allow site builders to sell goods and collect payments through third-party payment providers, reversing language that used to flatly ban financial transactions on ChatGPT Sites — likely legal groundwork tied to the ongoing "Supply Co." merch-store nav rollout. Also: a new "OpenAI on OpenAI" case study on Codex use by OpenAI's own creative team, continued wind-down of the "ChatGPT Work" promo banner (now apparently fully rolled out rather than partial), and a refreshed Signals resource library (new EU jobs-impact report). No anomalies.
+
+### Anomalies
+
+None this run.
+
+### Notable additions
+
+- **[Launching Health in ChatGPT](pages/openai.com/index/health-in-chatgpt/index.md)** — GA rollout of Health in ChatGPT to logged-in U.S. users 18+ (Free/Go/Plus/Pro, web + iOS). Connect Apple Health and supported medical records (One Medical, Function Health, U.S. hospital systems) so ChatGPT can use that context across any conversation. Connected health data and conversations using it are excluded from model training/ad targeting, with 30-day deletion on disconnect. GPT‑5.6 Sol is positioned as OpenAI's strongest model yet for health; GPT‑5.5 Instant covers the free tier.
+- **[How Codex became a collaborator for OpenAI's creative team](pages/openai.com/index/codex-collaborator-creative-team/index.md)** — "OpenAI on OpenAI" internal case study: Creative Specialist Chad Nelson uses Codex (not just ChatGPT) to build custom creative tooling — camera/lighting/shadow controls grounded in brand books and campaign briefs.
+
+### Notable updates
+
+- **[`/policies/chatgpt-sites-terms/`](pages/openai.com/policies/chatgpt-sites-terms/index.md)** updated (Jul 9 → Jul 23) to add a new **Section 2.6 "E-Commerce"**: site builders may now use third-party payment providers to sell goods/services and collect payments through a ChatGPT Site, with the builder responsible for fulfillment, refunds, and tax compliance. This narrows the old blanket ban on "money transfers, cryptocurrency transfers, or other financial or investment transactions" on ChatGPT Sites. Also added sanctions/export-control representations and extended the HIPAA/PCI-DSS carve-out to payment-processor-handled data.
+- **[`/index/introducing-chatgpt-health/`](pages/openai.com/index/introducing-chatgpt-health/index.md)** (the original limited-waitlist announcement) retroactively edited with a note pointing to today's GA launch; the "Join the waitlist" link was removed.
+- **[`/products/release-notes/`](pages/openai.com/products/release-notes/index.md)** added a matching GA entry for Health in ChatGPT, plus a separate iOS Codex app update (inline Mermaid diagrams in task transcripts, interactive forms in Codex tasks, prompt recovery when switching tasks/hosts/workspaces). Two older entries rolled off the bottom (rolling-window pagination).
+- **"ChatGPT Work" promo wind-down continues:** [`/business/learn/`](pages/openai.com/business/learn/index.md) and [`/business/solutions/design/`](pages/openai.com/business/solutions/design/index.md) dropped the "Introducing ChatGPT Work" banner (following the same removal on other pages yesterday). Separately, [`/chatgpt-work/`](pages/openai.com/chatgpt-work/index.md) added a third "Academy webinars" events card and removed the caveat "Web and mobile access is rolling out to Plus, Pro, Business, and Enterprise users" from its task-management pitch — reads as that rollout now being complete.
+- **[`/signals/`](pages/openai.com/signals/index.md)** and **[`/signals/research/`](pages/openai.com/signals/research/index.md)** added a new report, "The AI jobs transition framework for the EU" (June 2026), and an event-replay video from a Jul 14 livestream on internal Codex usage; the older "Unlocking economic opportunity" (Jul 2025) report rolled off the list.
+- **[`/business/learn/`](pages/openai.com/business/learn/index.md)** rotated its "OpenAI on OpenAI" carousel card to feature today's new Codex/creative-team story in place of an older "Building OpenAI with OpenAI" post.
+- Sitewide nav/footer template rollout (first seen 2026-07-23) continues propagating: "GPT-5.6" replacing "GPT-5.3 Instant" in the Products flyout, "Customer Stories"/"Partner Network" added to the Business footer column, and "Supply Co." added to the footer — on `careers`, `open-model-feedback`, `api-scale-tier`, `form/copyright-disputes`, and several guide/case-study pages that hadn't picked it up yet.
+
+### Lower-confidence observation
+
+- **[`/form/copyright-disputes/`](pages/openai.com/form/copyright-disputes/index.md)** appears to have lost a required "link/URL to the material claimed to be infringing" field under one of its dispute categories. This could be a real field removal or an artifact of the form rendering a different default category/dropdown state on this fetch. Watching for whether it stays gone tomorrow before treating it as confirmed.
+
+### Routine updates
+
+24 of the 51 `<lastmod>`-bumped pages were byte-identical to yesterday's snapshot — the usual backend republish noise, plus continued "Keep reading"/"Recent news" carousel rotation across roughly a dozen index/ pages and the homepage to surface today's Health in ChatGPT launch.
+
+### Removals
+
+None this run.
+
+Full analysis: [runs/2026-07-24T09-16Z/analysis.md](runs/2026-07-24T09-16Z/analysis.md)
+
+---
+*Stats: 1,472 total URLs | +2 added | 51 updated | -0 removed | 0 anomalies | 34 sub-sitemaps*
+
 ## 2026-07-23 — Run `2026-07-23T09-17Z`
 
 **Fetch time:** 2026-07-23T09:17:00Z

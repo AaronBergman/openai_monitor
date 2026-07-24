@@ -48,7 +48,7 @@ Reem Anchassi, Director of Research & Data Services, Bain & Company
 
 [Deep research System CardSafetyFeb 25, 2025](</index/deep-research-system-card/>)
 
-![Two people sitting in a sun-filled meeting room with planters and large windows, one person talking while the other listens and looks on](https://images.ctfassets.net/kftzwdyauwt9/522d2eaf-74eb-4df8-3753ba79c044/1ba374444a315b804b84ec9af986c3d7/stangel-2022-1640.jpg?w=3840&q=90&fm=webp)
+![Two people sitting in a sun filled room](https://images.ctfassets.net/kftzwdyauwt9/522d2eaf-74eb-4df8-3753ba79c044/1ba374444a315b804b84ec9af986c3d7/stangel-2022-1640.jpg?w=3840&q=90&fm=webp)
 
 [Our research approach](</research/>)
 
@@ -136,6 +136,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

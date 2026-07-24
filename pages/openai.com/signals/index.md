@@ -98,6 +98,10 @@ Learn how AI is accelerating enterprise advantage through deeper integration, ag
 
 ## Recent news
 
+![Signals Homepage > Layout > Group > Recent news > Cards > Inside OpenAI: How OpenAI teams use Codex to do more > Media > Asset](https://images.ctfassets.net/kftzwdyauwt9/6wZT5PD2pKnXO2X533kQbB/30245193410300dbb52d85ffc22567f8/Frame.png?w=3840&q=90&fm=webp)
+
+[Inside OpenAI: How OpenAI teams use Codex to do more](<https://forum.openai.com/public/videos/event-replay-inside-openai-how-openai-teams-use-codex-to-do-more-2026-07-14>)
+
 ![Signals Homepage > Layout > Group > Recent news > Cards > Signals june update blog > Media > Asset](https://images.ctfassets.net/kftzwdyauwt9/6O2E6Oad4j1bt6skVFRR0i/733f5023343b8590c43db513dc381c00/Frame.png?w=3840&q=90&fm=webp)
 
 [How ChatGPT adoption has expanded](<https://openai.com/index/how-chatgpt-adoption-has-expanded/>)
@@ -119,6 +123,10 @@ Learn how AI is accelerating enterprise advantage through deeper integration, ag
 [How frontier firms are pulling ahead](<https://openai.com/index/introducing-b2b-signals/>)
 
 ### Reports
+
+### [The AI jobs transition framework for the EUJune 2026 | A map of near-term job impacts of AI in the EU labor market.Learn more](<https://cdn.openai.com/pdf/the-ai-jobs-transition-framework-for-the-eu.pdf>)
+
+### [How ChatGPT adoption has expandedJune 2026 | A new picture of global AI adoption.Learn more](<https://openai.com/index/how-chatgpt-adoption-has-expanded/>)
 
 ### [The shift to agentic AI: evidence from CodexJune 2026 | An analysis of Codex usage to understand how agentic AI is shifting work, especially in organizations and at OpenAI.Learn more](<https://cdn.openai.com/pdf/5d1e1489-21c0-43e4-9d42-f87efdbf0082/the-shift-to-agentic-ai-evidence-from-codex.pdf>)
 
@@ -260,6 +268,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

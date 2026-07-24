@@ -41,28 +41,18 @@ Share
 Technical impressions
 
   * Technical impressions
-
     * Record track
-
     * Nonrecord track
-
   * Takeaways
-
   * What’s next?
-
 
 
 
   * Technical impressions
-
     * Record track
-
     * Nonrecord track
-
   * Takeaways
-
   * What’s next?
-
 
 
 
@@ -270,6 +260,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

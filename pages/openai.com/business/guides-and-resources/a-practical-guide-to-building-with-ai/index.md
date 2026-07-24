@@ -1,40 +1,30 @@
 Skip to main content
 
-[](</>)
+[](</>)[](</business/>)
 
-  * [Research](</research/index/>)
+  * Why OpenAI
   * Products
-  * [Business](</business/>)
-  * [Developers](</api/>)
-  * [Company](</about/>)
-  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
+  * Solutions
+  * Resources
+  * [Customers](</business/customer-stories/>)
+  * [Pricing](</business/pricing/>)
 
 
 
-Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
+Try OpenAI[Contact sales](</contact-sales/>)
 
-  * Research
+  * Why OpenAI
   * Products
-  * Business
-  * Developers
-  * Company
-  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
+  * Solutions
+  * Resources
+  * [Customers](</business/customer-stories/>)
+  * [Pricing](</business/pricing/>)
 
 
 
-[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)Login
+[Contact sales](</contact-sales/>)Try OpenAI
 
 OpenAI
-
-Table of contents
-
-  * Meet GPT-5: our most powerful, most steerable model yet.
-  * Step 01: Migrate to the Responses API
-  * Step 02: Optimize prompting
-  * Step 03: Steer GPT-5 with reasoning, verbosity, and new capabilities
-  * Step 04: Troubleshoot using common patterns
-
-
 
 # A practical guide to building with GPT‑5
 
@@ -42,7 +32,27 @@ Proven startup strategies to migrate, prompt, and scale with OpenAI’s newest f
 
 [Try ChatGPT(opens in a new window)](<https://chat.openai.com/>)[Contact sales](</contact-sales/>)
 
-Share
+Meet GPT-5: our most powerful, most steerable model yet.
+
+  * Meet GPT-5: our most powerful, most steerable model yet.
+    * What we’ll cover in this guide
+  * Step 01: Migrate to the Responses API
+  * Step 02: Optimize prompting
+  * Step 03: Steer GPT-5 with reasoning, verbosity, and new capabilities
+  * Step 04: Troubleshoot using common patterns
+    * About the authors
+
+
+
+  * Meet GPT-5: our most powerful, most steerable model yet.
+    * What we’ll cover in this guide
+  * Step 01: Migrate to the Responses API
+  * Step 02: Optimize prompting
+  * Step 03: Steer GPT-5 with reasoning, verbosity, and new capabilities
+  * Step 04: Troubleshoot using common patterns
+    * About the authors
+
+
 
 ## Meet GPT‑5: our most powerful, most steerable model yet.
 
@@ -54,7 +64,7 @@ Our newest flagship model represents a major leap forward in what startups can a
 
 * * *
 
-#### What we’ll cover in this guide
+### What we’ll cover in this guide
 
 In this guide, we’ll share proven techniques to get the most out of GPT‑5 based on our work with leading startups with technical resources and actionable steps to get started.
 
@@ -79,15 +89,15 @@ Your first step to unlocking GPT‑5’s full intelligence is to build on the in
 
 This means every request to the model has access to its complete internal context, significantly boosting performance and improving caching to lower costs—capabilities the Chat Completions API simply doesn’t support.
 
-###### Velocity
+##### Velocity
 
 Smarter tool use and built-in state management reduce glue code and orchestration. You ship faster with fewer engineers and focus more time on your product and customers.
 
-###### Scale without drag
+##### Scale without drag
 
 Full-context reasoning plus faster performance and higher cache-hit rates lower infrastructure costs and latency as you grow. With zero-data retention (ZDR) compatibility, you’re not locked into today’s deployment pattern—you’re ready for the agentic workflows that will define tomorrow’s applications.
 
-###### Future-proofing
+##### Future-proofing
 
 The Responses API is the path forward for new reasoning capabilities. Building here keeps you off legacy APIs when the most powerful features ship and aligns your codebase with where OpenAI is investing most heavily, giving you long-term stability as the ecosystem evolves.
 
@@ -115,19 +125,19 @@ Moving to GPT‑5 isn’t just about adopting a new model – it’s about maste
 
 ![Screenshot of a tweet by alex duffy \(@alxai_\), verified. The tweet says that good prompting is more important with GPT-5 because it is highly steerable: mediocre prompts give worse results, great prompts give better ones. It notes a performance gap for GPT-5 with minimal reasoning, with optimized prompts shown in red and baseline in gray. Below the text is a dark-themed box-and-whisker chart titled “Model Performance as France,” showing multiple model configurations along the x-axis and game score on the y-axis. Red \(optimized\) distributions generally appear higher than gray \(baseline\), highlighting performance differences, with some model groups outlined for emphasis.](https://images.ctfassets.net/kftzwdyauwt9/76Jw7jCUMiZ2dLaQGm70Nw/fb792962120058aaf1c5fed4d2292d6d/Twitter_Alex_Duffy.png?w=3840&q=90&fm=webp)
 
-###### Start with evals
+##### Start with evals
 
 Begin by running your existing prompts as is against your evals to establish a baseline and see where outputs diverge from expectations.
 
-###### Inspect the model’s reasoning
+##### Inspect the model’s reasoning
 
 For specific failure cases, loop the eval again and stream reasoning summaries with GPT‑5 in the Responses API. Watching the model reason helps you pinpoint where it needs more steering.
 
-###### Metaprompt and simplify
+##### Metaprompt and simplify
 
 GPT‑5 is skilled at metaprompting—use the model to improve its own prompts as you iterate. Often, it requires less scaffolding than older models; shorter, clearer instructions can perform better.
 
-###### Template and document
+##### Template and document
 
 When prompts work reliably, lock them into reusable templates or a prompt library. Document what good vs. bad outputs look like so the team can build consistently, and revisit periodically as techniques evolve.
 
@@ -145,15 +155,15 @@ When prompts work reliably, lock them into reusable templates or a prompt librar
 
 GPT‑5 introduces new controls that let you fine-tune how the model reasons and communicates. These capabilities help startups match model effort and output to the unique complexity of their products.
 
-###### Reasoning effort
+##### Reasoning effort
 
 `reasoning_effort` controls how much the model thinks (and how readily it calls tools). The default is `medium;` options are `minimal`, `low`, `medium`, and `high`. Experiment to right-size effort to the complexity of your task and measure against your evals using the [prompting guide⁠(opens in a new window)](<https://cookbook.openai.com/examples/gpt-5/gpt-5_prompting_guide>).
 
-###### Verbosity
+##### Verbosity
 
 `verbosity` influences the length of the model’s output. Options are `low`, `medium`, and `high`. You can also add prompt instructions for scenarios where you want the model to override the default.
 
-###### Experimentation guidance
+##### Experimentation guidance
 
 GPT‑5 is highly steerable. These parameters give you more control over model behavior. There’s no single deterministic best configuration - systematically experiment and evaluate to identify what works best for your use case.
 
@@ -179,7 +189,7 @@ From working closely with hundreds of startups, we see recurring issues such as 
 
 * * *
 
-#### About the authors
+### About the authors
 
 This guide was developed by [Hillary Bush⁠(opens in a new window)](<https://www.linkedin.com/in/hillarybush/>), Startups Account Director, and [Prashant Mital⁠(opens in a new window)](<https://www.linkedin.com/in/pmital/>), Startup Solutions Architect, based on their experience working with top startups leveraging GPT‑5. 
 
@@ -204,70 +214,80 @@ Learn how we help companies build scalable, responsible AI strategies.
 
 ## Keep reading
 
-![Futures 1 1](https://images.ctfassets.net/kftzwdyauwt9/7l4mPpfnMDZNfjmksyuILI/5e280d8d490f625b3fc414d9824e96ac/Futures_1_1.png?w=3840&q=90&fm=webp)
+![Health in ChatGPT > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/48aIp3cQOKJ57vpQeqOb8y/2e8732bcad5ceea1c7b20cf001bd2823/1_1_Art_Card.png?w=3840&q=90&fm=webp)
 
-[Introducing ChatGPT Futures: Class of 2026CompanyMay 6, 2026](</index/introducing-chatgpt-futures-class-of-2026/>)
+[Launching Health in ChatGPT ProductJul 23, 2026](</index/health-in-chatgpt/>)
 
-![What frontier enterprises do differently > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/4kKQaeWGl9atcyE51ri1ZW/3aa677511fa40bc0a4b089ef6cd9698f/Frame.png?w=3840&q=90&fm=webp)
+![effingham county 1x1](https://images.ctfassets.net/kftzwdyauwt9/3f1fyaaSZELql3zECUImW3/1733a5ee7f07da894b993dcff75bea66/effingham_county_1x1.png?w=3840&q=90&fm=webp)
 
-[How frontier enterprises are building an AI advantageCompanyMay 6, 2026](</index/introducing-b2b-signals/>)
+[Building AI infrastructure with the Effingham County communityGlobal AffairsJul 22, 2026](</index/building-ai-infrastructure-with-the-effingham-county-community/>)
 
-![Uber customer story > 1x1 art card and hero image](https://images.ctfassets.net/kftzwdyauwt9/5jnteCaoVnc71jA02qX8gk/0f394157c43c443dd1523a7fab48bc69/oai_Uber_1x1.png?w=3840&q=90&fm=webp)
+![How news organizations are using AI > Card Image](https://images.ctfassets.net/kftzwdyauwt9/5nTzxwRy4Is9PQSluyYkWP/d6e7953a692a5a8c926885e2f50a3427/how_news_orgs_use_AI_1x1.png?w=3840&q=90&fm=webp)
 
-[Uber uses OpenAI to help people earn smarter and book fasterMay 6, 2026](</index/uber/>)
+[How news organizations use AI to advance their vital missionsCompanyJul 22, 2026](</index/how-news-organizations-are-using-ai/>)
 
-Our Research
+Research
 
   * [Research Index](</research/index/>)
   * [Research Overview](</research/>)
-  * [Research Residency](</residency/>)
   * [Economic Research](</signals/>)
 
 
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
-  * [GPT-5.3-Codex](</index/introducing-gpt-5-3-codex/>)
 
 
 
 Safety
 
   * [Safety Approach](</safety/>)
+  * [Deployment Safety(opens in a new window)](<https://deploymentsafety.openai.com/>)
   * [Security & Privacy](</security-and-privacy/>)
   * [Trust & Transparency](</trust-and-transparency/>)
 
 
 
-ChatGPT
+Products
 
-  * [Explore ChatGPT(opens in a new window)](<https://chatgpt.com/overview>)
-  * [Business](<https://chatgpt.com/business/business-plan>)
-  * [Enterprise](<https://chatgpt.com/business/enterprise>)
-  * [Education](<https://chatgpt.com/business/education>)
-  * [Pricing(opens in a new window)](<https://chatgpt.com/pricing>)
-  * [Download(opens in a new window)](<https://chatgpt.com/download>)
+  * [ChatGPT(opens in a new window)](<https://chatgpt.com/>)
+  * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
+  * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
+  * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
+  * [Codex](</codex/>)
+  * [Release Notes](</products/release-notes/>)
 
 
 
 API Platform
 
-  * [Platform Overview](</api/>)
-  * [Pricing](</api/pricing/>)
-  * [API log in(opens in a new window)](<https://platform.openai.com/login>)
-  * [Documentation(opens in a new window)](<https://developers.openai.com/api/docs>)
-  * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
+  * [Overview](</api/>)
+  * [API Log In(opens in a new window)](<https://platform.openai.com/login>)
+  * [Docs(opens in a new window)](<https://developers.openai.com/api/docs>)
 
 
 
-For Business
+Business
 
-  * [Business Overview](</business/>)
+  * [Overview](</business/>)
   * [Solutions](</solutions/>)
+  * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
+
+
+
+Developers
+
+  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
+  * [Open Models](</open-models/>)
+  * [Docs(opens in a new window)](<https://developers.openai.com/>)
+  * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
+  * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
 
 
 
@@ -275,9 +295,8 @@ Company
 
   * [About Us](</about/>)
   * [Our Charter](</charter/>)
-  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
   * [Careers](</careers/>)
-  * [Brand](</brand/>)
+  * [News](</news/>)
 
 
 
@@ -289,9 +308,9 @@ Support
 
 More
 
-  * [News](</news/>)
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)
