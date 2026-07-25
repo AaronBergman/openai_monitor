@@ -51,7 +51,7 @@ We’re already seeing how AI can support public servants. In a recent [_pilot p
 As part of this initiative, OpenAI will provide:
 
   * **Universal Access to ChatGPT Enterprise:** Every participating U.S. federal agency will have access to our leading frontier models through ChatGPT Enterprise for a nominal fee of $1 for the next year. For an additional 60 day period, OpenAI will provide unlimited use of advanced models and features, like Deep Research and Advanced Voice Mode.
-  * **Educational Tools and Training:** To help federal employees feel confident using AI, we have set up a dedicated [_government user community_ ⁠(opens in a new window)](<https://academy.openai.com/home/clubs/government>) and[ _tailored introductory trainings through the OpenAI Academy_ ⁠(opens in a new window)](<https://academy.openai.com/home/collections/government>). Custom training platforms and guided learning – either directly or through partner-led sessions – are also available to help employees explore and leverage AI. And, to help federal agencies make the most of ChatGPT, we're teaming up with experienced partners Slalom and Boston Consulting Group to support secure, responsible deployment and trainings.
+  * **Educational Tools and Training:** To help federal employees feel confident using AI, we have set up a dedicated [_government user community_ ⁠(opens in a new window)](<https://academy.openai.com/home/clubs/government>) and[ _tailored introductory trainings through the OpenAI Academy_ ⁠(opens in a new window)](<https://academy.openai.com/home/collections/government>). Custom training platforms and guided learning – either directly or through partner-led sessions – are also available to help employees explore and leverage AI. And, to help federal agencies make the most of ChatGPT, we’re teaming up with experienced partners Slalom and Boston Consulting Group to support secure, responsible deployment and trainings.
   * **Security and Compliance:** Protecting sensitive information is critical. Our goal is to ensure agencies can use AI securely and responsibly. ChatGPT Enterprise already does not use business data, including inputs or outputs, to train or improve OpenAI models. The same safeguards will apply to federal use.
 
 
@@ -64,17 +64,17 @@ Agencies interested in learning more about this partnership should have their CI
 
 [View all](</news/>)
 
-![oai 1x1 Biodefense in the Intelligence Age](https://images.ctfassets.net/kftzwdyauwt9/6A4rrCBs9rrlbzm9JWIvSi/8a4ae56849fcd0b16e90b59b8babc613/oai_1x1_Biodefense_in_the_Intelligence_Age.png?w=3840&q=90&fm=webp)
+![effingham county 1x1](https://images.ctfassets.net/kftzwdyauwt9/3f1fyaaSZELql3zECUImW3/1733a5ee7f07da894b993dcff75bea66/effingham_county_1x1.png?w=3840&q=90&fm=webp)
 
-[Biodefense in the Intelligence AgeGlobal AffairsJun 4, 2026](</index/biodefense-in-the-intelligence-age/>)
+[Building AI infrastructure with the Effingham County communityGlobal AffairsJul 22, 2026](</index/building-ai-infrastructure-with-the-effingham-county-community/>)
 
-![OpenAI’s public policy agenda > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/CdH7XdsXfpUaYZJpeCwwz/76b975c66fce3ce5ec4a901b4f675369/Frame.png?w=3840&q=90&fm=webp)
+![How news organizations are using AI > Card Image](https://images.ctfassets.net/kftzwdyauwt9/5nTzxwRy4Is9PQSluyYkWP/d6e7953a692a5a8c926885e2f50a3427/how_news_orgs_use_AI_1x1.png?w=3840&q=90&fm=webp)
 
-[OpenAI public policy agendaGlobal AffairsJun 3, 2026](</index/public-policy-agenda/>)
+[How news organizations use AI to advance their vital missionsCompanyJul 22, 2026](</index/how-news-organizations-are-using-ai/>)
 
-![Frontier Safety Blueprint > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/6zU111Ouj65b8iZJnswHBe/a705de1c90ab048510532db2f53f12f3/Frame.png?w=3840&q=90&fm=webp)
+![Advancing the next era of national science card image](https://images.ctfassets.net/kftzwdyauwt9/1aUcaaPHlPQbaN0EzEUrEc/95d5f6d78ab308305bf4781c07ccc4fd/Advancing_the_next_era_of_national_science_1x1.png?w=3840&q=90&fm=webp)
 
-[A blueprint for democratic governance of frontier AIGlobal AffairsJun 3, 2026](</index/frontier-safety-blueprint/>)
+[Advancing the next era of national scienceGlobal AffairsJul 22, 2026](</index/advancing-the-next-era-of-national-science/>)
 
 Research
 
@@ -86,9 +86,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -125,6 +125,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -158,6 +160,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

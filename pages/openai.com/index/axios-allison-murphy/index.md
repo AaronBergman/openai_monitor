@@ -26,6 +26,16 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
+March 4, 2026
+
+# How Axios uses AI to help deliver high-impact local journalism 
+
+A conversation with Allison Murphy, Chief Operating Officer, Axios. 
+
+![Deep blue abstract gradient background with soft, blurry shapes. White text reads ‘Executive Function’ on the left and ‘Ep 19’ on the right.](https://images.ctfassets.net/kftzwdyauwt9/4Sy9STpO47cS5wGOZDCUeo/e16403170cddc3cf8608d39ed2fbb250/EF_Ep19_16.9.png?w=3840&q=90&fm=webp)
+
+Share
+
 How is AI helping Axios Local reporters deliver more high-impact journalism?
 
   * How is AI helping Axios Local reporters deliver more high-impact journalism?
@@ -37,15 +47,14 @@ How is AI helping Axios Local reporters deliver more high-impact journalism?
 
 
 
-March 4, 2026
+  * How is AI helping Axios Local reporters deliver more high-impact journalism?
+  * With AI, what kinds of local stories or community services become possible that weren’t before?
+  * The news business has been under a lot of strain and change. How essential has AI been in helping you navigate those financial pressures?
+  * How do you keep the community’s voice strong while using tools that standardize so much of the work?
+  * What are some of the most meaningful ways AI is helping Axios Local reporters work faster and serve their communities better?
+  * What’s your vision for where journalism is headed over the next five to ten years as AI moves deeper into newsroom workflows?
 
-# How Axios uses AI to help deliver high-impact local journalism 
 
-A conversation with Allison Murphy, Chief Operating Officer, Axios. 
-
-![Deep blue abstract gradient background with soft, blurry shapes. White text reads ‘Executive Function’ on the left and ‘Ep 19’ on the right.](https://images.ctfassets.net/kftzwdyauwt9/4Sy9STpO47cS5wGOZDCUeo/e16403170cddc3cf8608d39ed2fbb250/EF_Ep19_16.9.png?w=3840&q=90&fm=webp)
-
-Share
 
 Axios is a media company delivering vital, trustworthy news and analysis in the most efficient, illuminating and shareable ways possible. It offers a mix of original and smartly narrated coverage of media trends, tech, business and politics with expertise, voice and smart brevity. 
 
@@ -113,7 +122,7 @@ Another great example is how we listen to readers. We run quarterly surveys acro
 
 It’s not flashy, but it’s powerful. It keeps us tightly connected to our readers—and it helps every reporter deliver a better local product.
 
-> “It's absolutely critical that we have AI in the hands of the journalists [...]”
+> “It’s absolutely critical that we have AI in the hands of the journalists [...]”
 
 —Allison Murphy, Chief Operating Officer, Axios
 
@@ -134,17 +143,17 @@ _Axios uses ChatGPT to support research, analysis, and drafts of internal commun
 
 ## Keep reading
 
-![Confidential submission of draft S-1 to the SEC > cover image](https://images.ctfassets.net/kftzwdyauwt9/36doI12YCwUtp1hzD4d8bj/84e67c565f39e7d5ca3ee011efa69756/confidential-submission-of-draft-s-1-to-the-sec-1x1.png?w=3840&q=90&fm=webp)
+![Health in ChatGPT > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/48aIp3cQOKJ57vpQeqOb8y/2e8732bcad5ceea1c7b20cf001bd2823/1_1_Art_Card.png?w=3840&q=90&fm=webp)
 
-[Confidential submission of draft S-1 to the SECCompanyJun 8, 2026](</index/openai-submits-confidential-s-1/>)
+[Launching Health in ChatGPT ProductJul 23, 2026](</index/health-in-chatgpt/>)
 
-![Built for broad benefit > cover](https://images.ctfassets.net/kftzwdyauwt9/bEe28mW3dEOj9pKJsPp2u/13f7bed9e86b0667ba924479d62f98e4/Art_Card_1080x1080_1.png?w=3840&q=90&fm=webp)
+![effingham county 1x1](https://images.ctfassets.net/kftzwdyauwt9/3f1fyaaSZELql3zECUImW3/1733a5ee7f07da894b993dcff75bea66/effingham_county_1x1.png?w=3840&q=90&fm=webp)
 
-[Built to benefit everyone: our planCompanyJun 8, 2026](</index/built-to-benefit-everyone-our-plan/>)
+[Building AI infrastructure with the Effingham County communityGlobal AffairsJul 22, 2026](</index/building-ai-infrastructure-with-the-effingham-county-community/>)
 
-![Economic research forum > art card ](https://images.ctfassets.net/kftzwdyauwt9/2DpNjvjdVuCrLKNOrFrWJ7/1aefe1cbe252bcd9ba42035469fc8a0f/art_card.png?w=3840&q=90&fm=webp)
+![How news organizations are using AI > Card Image](https://images.ctfassets.net/kftzwdyauwt9/5nTzxwRy4Is9PQSluyYkWP/d6e7953a692a5a8c926885e2f50a3427/how_news_orgs_use_AI_1x1.png?w=3840&q=90&fm=webp)
 
-[Introducing the OpenAI Economic Research ExchangeCompanyJun 8, 2026](</index/economic-research-exchange/>)
+[How news organizations use AI to advance their vital missionsCompanyJul 22, 2026](</index/how-news-organizations-are-using-ai/>)
 
 Research
 
@@ -156,9 +165,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -195,6 +204,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -228,6 +239,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

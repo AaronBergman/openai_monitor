@@ -41,32 +41,20 @@ Share
 EliseAI was founded in 2017, before AI became mainstream. Was there a specific moment you decided to go all in on AI, or did it happen early on?
 
   * EliseAI was founded in 2017, before AI became mainstream. Was there a specific moment you decided to go all in on AI, or did it happen early on?
-
   * What advice would you give to startups introducing AI to their customers, about doing it in a way that feels natural rather than disruptive?
-
   * What technical breakthrough in AI has had the biggest impact on your product?
-
   * When building a new AI-powered feature or tool, how do you measure success?
-
   * How do you foster AI fluency within your team?
-
   * How do you effectively plan for EliseAI’s future with AI evolving so fast?
-
 
 
 
   * EliseAI was founded in 2017, before AI became mainstream. Was there a specific moment you decided to go all in on AI, or did it happen early on?
-
   * What advice would you give to startups introducing AI to their customers, about doing it in a way that feels natural rather than disruptive?
-
   * What technical breakthrough in AI has had the biggest impact on your product?
-
   * When building a new AI-powered feature or tool, how do you measure success?
-
   * How do you foster AI fluency within your team?
-
   * How do you effectively plan for EliseAI’s future with AI evolving so fast?
-
 
 
 
@@ -92,7 +80,7 @@ It really depends on your audience and what "natural" means to them. For us, we 
 
 Many people in these industries aren’t familiar with modern tools, so we designed AI to replicate existing workflows. We made sure it felt familiar to the user—like, “I was doing this task, and now AI is doing it exactly how I used to, just quicker.” 
 
-But now, we don't have to do that as much because people are more familiar with AI. They understand our brand and what we're trying to accomplish in the industry. So, it's less about a segment-by-segment approach and more about promising major changes in their day-to-day business—rethinking processes altogether using automation. I think you have to toe the line, especially if you're introducing a brand-new application.
+But now, we don’t have to do that as much because people are more familiar with AI. They understand our brand and what we’re trying to accomplish in the industry. So, it’s less about a segment-by-segment approach and more about promising major changes in their day-to-day business—rethinking processes altogether using automation. I think you have to toe the line, especially if you’re introducing a brand-new application.
 
 ## What technical breakthrough in AI has had the biggest impact on your product?
 
@@ -120,7 +108,7 @@ That’s what I consider fluency—understanding what AI can do today, what prob
 
 For me personally, a big part of my job as CEO is helping people understand the company’s vision, mission, and why we work so hard to achieve those goals. That requires a lot of communication, so I use AI to create a lot of that content, that refines and shares ideas.
 
-> “It's really my job to make sure that everyone is aligned and working and driving in the same direction.”
+> “It’s really my job to make sure that everyone is aligned and working and driving in the same direction.”
 
 Listen
 

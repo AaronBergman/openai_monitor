@@ -40,7 +40,7 @@ Loading…
 
 Share
 
-We've introduced the ability to turn off chat history in ChatGPT. Conversations that are started when chat history is disabled won’t be used to train and improve our models, and won’t appear in the history sidebar. These controls, which are rolling out to all users starting today, can be found in ChatGPT’s settings and can be changed at any time. We hope this provides an easier way to manage your data than our existing opt-out process. When chat history is disabled, we will retain new conversations for 30 days and review them only when needed to monitor for abuse, before permanently deleting.
+We’ve introduced the ability to turn off chat history in ChatGPT. Conversations that are started when chat history is disabled won’t be used to train and improve our models, and won’t appear in the history sidebar. These controls, which are rolling out to all users starting today, can be found in ChatGPT’s settings and can be changed at any time. We hope this provides an easier way to manage your data than our existing opt-out process. When chat history is disabled, we will retain new conversations for 30 days and review them only when needed to monitor for abuse, before permanently deleting.
 
 Loading...
 
@@ -83,9 +83,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -122,6 +122,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -155,6 +157,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

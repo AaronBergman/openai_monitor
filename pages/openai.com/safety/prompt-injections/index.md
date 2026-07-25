@@ -28,7 +28,7 @@ OpenAI
 
 # Understanding prompt injections
 
-Prompt injections are an evolving security challenge for AI. We're building protections to reduce risk and sharing some ways you can stay safer.
+Prompt injections are an evolving security challenge for AI. We’re building protections to reduce risk and sharing some ways you can stay safer.
 
 ![A minimalist envelope icon with a warning triangle overlay, symbolizing a potential issue or alert in message content or AI input.](https://images.ctfassets.net/kftzwdyauwt9/5vlWAgq9nNKOa1bzC5mkyF/27140f7c5b48a0f706d9d0d138371930/Prompt_injections_Header_Light.png?w=3840&q=90&fm=webp)
 
@@ -53,7 +53,7 @@ Manipulated recommendationsUnauthorized data sharing
 ** The attacker hides a prompt injection in an apartment listing, tricking the AI into recommending that listing regardless of your preferences. 
 
   * **Potential result  
-** The AI may incorrectly recommend an apartment that isn't the best match for your needs.
+** The AI may incorrectly recommend an apartment that isn’t the best match for your needs.
 
 
 
@@ -142,9 +142,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -181,6 +181,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -214,6 +216,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

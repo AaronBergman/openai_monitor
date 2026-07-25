@@ -44,11 +44,11 @@ I’m excited to share that we’ve acquired [_TBPN_ ⁠(opens in a new window)]
 
 TBPN has built something pretty special. It’s one of the places where the conversation about AI and builders is actually happening day to day. A lot of you already watch it, and rely on it to stay close to what’s going on.
 
-As I've been thinking about the future of how we communicate at OpenAI, one thing that's become clear is that the standard communications playbook just doesn't apply to us. We're not a typical company. We're driving a really big technological shift. And with our mission to ensure artificial general intelligence benefits all of humanity comes a responsibility to help create a space for a real, constructive conversation about the changes AI creates—with builders and people using the technology at the center.
+As I’ve been thinking about the future of how we communicate at OpenAI, one thing that’s become clear is that the standard communications playbook just doesn’t apply to us. We’re not a typical company. We’re driving a really big technological shift. And with our mission to ensure artificial general intelligence benefits all of humanity comes a responsibility to help create a space for a real, constructive conversation about the changes AI creates—with builders and people using the technology at the center.
 
 That’s exactly what TBPN has built. So rather than trying to recreate that ourselves, it made a lot of sense to bring them in, support what they’re doing, and help them scale—while keeping what makes them special. A core part of this is editorial independence. TBPN will continue to run their programming, choose their guests, and make their own editorial decisions. That’s foundational to their credibility, and it’s something we’re explicitly protecting as part of this agreement.
 
-I'm also excited to bring their amazing comms and marketing instincts to the team. They've helped many brands market online and because they have a strong pulse on where the industry is going, their comms and marketing ideas have really impressed me. I can't wait to leverage their talent outside of the show to innovate on how we bring AI to the world in a way that helps people understand the full impact of this technology on their daily lives.
+I’m also excited to bring their amazing comms and marketing instincts to the team. They’ve helped many brands market online and because they have a strong pulse on where the industry is going, their comms and marketing ideas have really impressed me. I can’t wait to leverage their talent outside of the show to innovate on how we bring AI to the world in a way that helps people understand the full impact of this technology on their daily lives.
 
 TBPN will sit within our Strategy org, reporting to Chris Lehane. Really excited to welcome Jordi, John, Dylan, and the broader team.
 
@@ -67,17 +67,17 @@ Technology Business Programming Network (TBPN) is a daily, live tech talk show a
 
 [View all](</news/>)
 
-![dell](https://images.ctfassets.net/kftzwdyauwt9/17U8SngLERoATdFhOjWbDK/da377e6850f8241ea7814a347bad0a3a/Frame.png?w=3840&q=90&fm=webp)
+![How news organizations are using AI > Card Image](https://images.ctfassets.net/kftzwdyauwt9/5nTzxwRy4Is9PQSluyYkWP/d6e7953a692a5a8c926885e2f50a3427/how_news_orgs_use_AI_1x1.png?w=3840&q=90&fm=webp)
 
-[OpenAI and Dell Technologies partner to bring Codex to hybrid and on-premises enterprise environmentsCompanyMay 18, 2026](</index/dell-codex-enterprise-partnership/>)
+[How news organizations use AI to advance their vital missionsCompanyJul 22, 2026](</index/how-news-organizations-are-using-ai/>)
 
-![Frame](https://images.ctfassets.net/kftzwdyauwt9/32jPyVqUObkTrIIyA6tJV1/4eb384b5bb2f21ccea5de7665858a37a/Frame.png?w=3840&q=90&fm=webp)
+![OpenAI Presence 1x1](https://images.ctfassets.net/kftzwdyauwt9/5JBDenSGI6wx5CMPPlaM5J/da9d8e27a0bd70d845a816b28ac641a9/OpenAI_Presence_1x1.png?w=3840&q=90&fm=webp)
 
-[Our response to the TanStack npm supply chain attackCompanyMay 13, 2026](</index/our-response-to-the-tanstack-npm-supply-chain-attack/>)
+[Introducing OpenAI PresenceProductJul 22, 2026](</index/introducing-openai-presence/>)
 
-![OpenAI Campus Network—Student Club Interest Form > card image](https://images.ctfassets.net/kftzwdyauwt9/3gVx8jMHtHwuFpYS10BWBF/b70c85eada669bdabf956c591dfe8bbf/OpenAI_Campus_Networkâ__Student_Club_Interest_Form_-_art_card.png?w=3840&q=90&fm=webp)
+![David Vélez and Robin Vince 1x1](https://images.ctfassets.net/kftzwdyauwt9/7wQKVPmXFJk1gTBLmJTO6N/f90d79c4e011e05fb0d06aebfa3a265c/c47f1f6d-440a-4f0b-a669-50ca79ce1064.png?w=3840&q=90&fm=webp)
 
-[OpenAI Campus Network: Student club interest formCompanyMay 11, 2026](</index/openai-campus-network-student-club-interest-form/>)
+[David Vélez and Robin Vince join OpenAI boardsCompanyJul 21, 2026](</index/david-velez-robin-vince-join-openai-boards/>)
 
 Research
 
@@ -89,9 +89,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -128,6 +128,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -161,6 +163,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

@@ -26,14 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Challenges in content moderation
-
-  * Challenges in content moderation
-  * Using large language models
-  * Limitations
-
-
-
 August 15, 2023
 
 [Safety](</news/safety-alignment/>)
@@ -48,6 +40,20 @@ Loading…
 
 Share
 
+Challenges in content moderation
+
+  * Challenges in content moderation
+  * Using large language models
+  * Limitations
+
+
+
+  * Challenges in content moderation
+  * Using large language models
+  * Limitations
+
+
+
 Content moderation plays a crucial role in sustaining the health of digital platforms. A content moderation system using GPT‑4 results in much faster iteration on policy changes, reducing the cycle from months to hours. GPT‑4 is also able to interpret rules and nuances in long content policy documentation and adapt instantly to policy updates, resulting in more consistent labeling. We believe this offers a more positive vision of the future of digital platforms, where AI can help moderate online traffic according to platform-specific policy and relieve the mental burden of a large number of human moderators. Anyone with OpenAI API access can implement this approach to create their own AI-assisted moderation system.
 
 ## Challenges in content moderation
@@ -56,7 +62,7 @@ Content moderation demands meticulous effort, sensitivity, a profound understand
 
 ## Using large language models
 
-We're exploring the use of LLMs to address these challenges. Our large language models like GPT‑4 can understand and generate natural language, making them applicable to content moderation. The models can make moderation judgments based on policy guidelines provided to them.
+We’re exploring the use of LLMs to address these challenges. Our large language models like GPT‑4 can understand and generate natural language, making them applicable to content moderation. The models can make moderation judgments based on policy guidelines provided to them.
 
 With this system, the process of developing and customizing content policies is trimmed down from months to hours. 
 
@@ -128,9 +134,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -167,6 +173,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -200,6 +208,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

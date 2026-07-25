@@ -35,22 +35,14 @@ Share
 Adopting ChatGPT across operations
 
   * Adopting ChatGPT across operations
-
   * Using ChatGPT for research, workflows, and translation 
-
   * Building a meaningful partnership to advance science
 
 
-
-
-Table of contents
 
   * Adopting ChatGPT across operations
-
   * Using ChatGPT for research, workflows, and translation 
-
   * Building a meaningful partnership to advance science
-
 
 
 
@@ -113,7 +105,7 @@ Working directly with OpenAI means Genmab gets to work hands-on with AI experts 
 
 AI is poised to become even more integral to the biopharmaceutical industry where advancements are expected to include significantly more powerful and efficient models capable of unprecedented levels of reasoning and understanding,
 
-“Our vision goes beyond just streamlining processes; we're aiming to fundamentally transform how we discover, develop, and deliver treatments to patients,” said Scott Ogden, Head of Genmab’s AI Lab.
+“Our vision goes beyond just streamlining processes; we’re aiming to fundamentally transform how we discover, develop, and deliver treatments to patients,” said Scott Ogden, Head of Genmab’s AI Lab.
 
 ## Interested in learning more about ChatGPT for business?
 
@@ -143,9 +135,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -182,6 +174,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -215,6 +209,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

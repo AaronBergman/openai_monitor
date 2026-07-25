@@ -102,7 +102,7 @@ What makes BNY’s approach different is how governance is fully integrated into
 
 ## Empowering every employee through training and community
 
-At BNY, governance isn't just about oversight - it’s how employees engage with AI every day. Eliza enforces responsible use by design. All employees complete mandatory training before they can use it, and that foundation is reinforced with additional trainings, tools, challenges, and community support. The company now has 99% of its workforce trained on Gen AI, with many more advanced enablement opportunities available.
+At BNY, governance isn’t just about oversight - it’s how employees engage with AI every day. Eliza enforces responsible use by design. All employees complete mandatory training before they can use it, and that foundation is reinforced with additional trainings, tools, challenges, and community support. The company now has 99% of its workforce trained on Gen AI, with many more advanced enablement opportunities available.
 
 “We introduced a number of different learning solutions to meet people where they are and to bring them along on the journey,” says Michelle O’Reilly, Global Head of Talent.
 
@@ -158,8 +158,8 @@ BNY’s governance strategy offers a blueprint for enterprise AI teams navigatin
   * Leverage existing risk frameworks: Instead of creating generative AI-specific governance from scratch, BNY extended its mature legal and compliance processes to cover new use cases.
   * Create shared responsibility: Cross-functional councils review AI use cases, ensuring domain-specific risks are considered in real-time.
   * Make governance visible and accessible: Eliza’s interface enforces tagging, telemetry, approval flows, and access controls - without burdening end users with manual steps.
-  * Invest in culture and consistency: Nearly 99% of employees have completed responsible AI training and received Eliza access. “Unless you already know how the AI and how the platform works, you're not going to be able to really think about the risks and also the possibilities,” Wanapha notes.
-  * Build with the right partner: “With AI, we are all encountering new questions that have not been answered,” says Wanapha. “So it's very important to have the right partner and an open channel of communication.”
+  * Invest in culture and consistency: Nearly 99% of employees have completed responsible AI training and received Eliza access. “Unless you already know how the AI and how the platform works, you’re not going to be able to really think about the risks and also the possibilities,” Wanapha notes.
+  * Build with the right partner: “With AI, we are all encountering new questions that have not been answered,” says Wanapha. “So it’s very important to have the right partner and an open channel of communication.”
 
 
 
@@ -173,15 +173,17 @@ More than 1 million businesses around the world are achieving meaningful results
 
 ## Keep reading
 
-![deutsche telekom art card](https://images.ctfassets.net/kftzwdyauwt9/2iYZomUxcCPSikL5KsftP2/a3de110c6af0d68c342b60cee47091d1/oai_Deutsche_Telekom1x1.png?w=3840&q=90&fm=webp)
+![Health in ChatGPT > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/48aIp3cQOKJ57vpQeqOb8y/2e8732bcad5ceea1c7b20cf001bd2823/1_1_Art_Card.png?w=3840&q=90&fm=webp)
 
-[How Deutsche Telekom is rewiring telecommunications with AIJul 10, 2026](</index/deutsche-telekom/>)
+[Launching Health in ChatGPT ProductJul 23, 2026](</index/health-in-chatgpt/>)
 
-![GPT-5.6 is now the preferred model in Microsoft 365 Copilot > Cover image](https://images.ctfassets.net/kftzwdyauwt9/3MPipvFMxS8m3kTyCtwFgj/015747dcd34cb667a221688cfca64e0f/Frame.png?w=3840&q=90&fm=webp)
+![effingham county 1x1](https://images.ctfassets.net/kftzwdyauwt9/3f1fyaaSZELql3zECUImW3/1733a5ee7f07da894b993dcff75bea66/effingham_county_1x1.png?w=3840&q=90&fm=webp)
 
-[GPT-5.6 is now the preferred model in Microsoft 365 CopilotProductJul 9, 2026](</index/gpt-5-6-preferred-model-microsoft-365-copilot/>)
+[Building AI infrastructure with the Effingham County communityGlobal AffairsJul 22, 2026](</index/building-ai-infrastructure-with-the-effingham-county-community/>)
 
-[GPT-5.6: Frontier intelligence that scales with your ambitionProductJul 9, 2026](</index/gpt-5-6/>)
+![How news organizations are using AI > Card Image](https://images.ctfassets.net/kftzwdyauwt9/5nTzxwRy4Is9PQSluyYkWP/d6e7953a692a5a8c926885e2f50a3427/how_news_orgs_use_AI_1x1.png?w=3840&q=90&fm=webp)
+
+[How news organizations use AI to advance their vital missionsCompanyJul 22, 2026](</index/how-news-organizations-are-using-ai/>)
 
 Research
 
@@ -267,6 +269,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

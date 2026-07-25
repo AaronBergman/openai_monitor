@@ -39,20 +39,14 @@ Share
 English to Icelandic
 
   * English to Icelandic
-
   * Cultural context
-
   * Room for improvement
-
 
 
 
   * English to Icelandic
-
   * Cultural context
-
   * Room for improvement
-
 
 
 
@@ -70,7 +64,7 @@ The partnership was envisioned not only as a way to boost GPT‑4’s ability to
 
 “We want to make sure that artificial intelligence will be used not only to help preserve language, culture and history, but also to underpin economic prosperity,” says Jóhanna Vigdís Guðmundsdóttir, chief executive officer of [Almannarómur⁠(opens in a new window)](<https://almannaromur.is/en>), a non-profit language technology center. “Icelandic is a bit of a peculiar case,” she admits, “but we saw the opportunity to become a trailblazer for other long-tail languages, help create a level playing field, and avoid an ‘AI divide’. It is not enough to gather data and build software locally for Icelandic; we have to get our language into the software and applications people use every day.”
 
-OpenAI’s GPT models are trained on vast quantities of text on the internet. Accordingly, most of the model’s training set is in English and other major languages, which means that GPT doesn't have the same abilities or breadth of understanding in smaller languages. The models have improved over time, but they don’t consistently produce clear and correct Icelandic translations.
+OpenAI’s GPT models are trained on vast quantities of text on the internet. Accordingly, most of the model’s training set is in English and other major languages, which means that GPT doesn’t have the same abilities or breadth of understanding in smaller languages. The models have improved over time, but they don’t consistently produce clear and correct Icelandic translations.
 
 ![Stjorn Almannaroms](https://images.ctfassets.net/kftzwdyauwt9/e00d6b3f-d086-45ce-42eef2be7b01/8f0f7cbab5e012029eee52fe86ba180d/2021.10.27StjornAlmannaroms2021-222.jpeg?w=3840&q=90&fm=webp)
 

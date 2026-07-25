@@ -57,7 +57,7 @@ Inside the rollout
   * The next frontier is reinventing voice
   * Leadership lessons
   * Tips
-  * What's next
+  * What’s next
 
 
 
@@ -66,7 +66,7 @@ Inside the rollout
   * The next frontier is reinventing voice
   * Leadership lessons
   * Tips
-  * What's next
+  * What’s next
 
 
 
@@ -131,7 +131,7 @@ The company sees this as part of a broader mission to democratize access to AI t
 
 
 
-## What's next
+## What’s next
 
 Deutsche Telekom's AI-native transformation is already delivering tangible impact across customer service, network operations, and employee workflows. What began as AI adoption has evolved into a broader effort to redesign how the company operates at scale.
 

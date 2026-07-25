@@ -26,17 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Building increasingly safe AI systems
-
-  * Building increasingly safe AI systems
-  * Learning from real-world use to improve safeguards
-  * Protecting children
-  * Respecting privacy
-  * Improving factual accuracy
-  * Continued research and engagement
-
-
-
 April 5, 2023
 
 [Safety](</news/safety-alignment/>)
@@ -52,6 +41,26 @@ Illustration: Justin Jay Wang × DALL·E
 Loading…
 
 Share
+
+Building increasingly safe AI systems
+
+  * Building increasingly safe AI systems
+  * Learning from real-world use to improve safeguards
+  * Protecting children
+  * Respecting privacy
+  * Improving factual accuracy
+  * Continued research and engagement
+
+
+
+  * Building increasingly safe AI systems
+  * Learning from real-world use to improve safeguards
+  * Protecting children
+  * Respecting privacy
+  * Improving factual accuracy
+  * Continued research and engagement
+
+
 
 OpenAI is committed to keeping powerful AI [safe and broadly beneficial⁠](</charter/>). We know our AI tools provide many benefits to people today. Our users around the world have told us that ChatGPT helps to increase their productivity, enhance their creativity, and offer tailored learning experiences. We also recognize that, like any technology, these tools come with real risks—so we work to ensure safety is built into our system at all levels.
 
@@ -151,9 +160,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -190,6 +199,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -223,6 +234,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

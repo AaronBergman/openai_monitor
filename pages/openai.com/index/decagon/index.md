@@ -37,26 +37,16 @@ Share
 Delivering fast, nuanced, and scalable solutions with OpenAI
 
   * Delivering fast, nuanced, and scalable solutions with OpenAI
-
   * Achieving optimal performance with GPTs and fine-tuning
-
   * Superior accuracy and flexibility through strong evaluations
-
   * Tackling the next customer service frontier with OpenAI
 
 
-
-
-Table of contents
 
   * Delivering fast, nuanced, and scalable solutions with OpenAI
-
   * Achieving optimal performance with GPTs and fine-tuning
-
   * Superior accuracy and flexibility through strong evaluations
-
   * Tackling the next customer service frontier with OpenAI
-
 
 
 
@@ -68,7 +58,7 @@ From enterprises to tech-forward startups, Decagon helps businesses globally han
 
 Decagon’s customers require scalable, high-quality support that can handle complex inquiries. Their two founders, having successfully exited AI companies previously, recognized the need for a support solution that went beyond basic automation to deliver nuanced yet fast responses across vast numbers of interactions.
 
-“We know that latency has a direct impact on customer satisfaction. Every second counts when you're dealing with real-time customer support,” says Ashwin Sreenivas, Decagon’s co-founder and CTO.
+“We know that latency has a direct impact on customer satisfaction. Every second counts when you’re dealing with real-time customer support,” says Ashwin Sreenivas, Decagon’s co-founder and CTO.
 
 But maintaining a high level of automation while ensuring precision required more than just traditional automation tools—it required advanced AI models capable of reasoning through complex tasks. With OpenAI’s models, the Decagon team was able to architect a flexible solution that allows clients to fully customize their workflows to their needs.
 
@@ -80,7 +70,7 @@ For example, Decagon fine-tuned GPT‑3.5 to rewrite customer queries before the
 
 In other workflows, the company uses GPT‑4 for complex decision-making tasks, allowing the platform to process API requests and other intricate operations efficiently.
 
-Decagon’s approach ensures that each part of the customer interaction pipeline is supported by the most suitable model for the task, enhancing both speed and accuracy. Says Jesse Zhang, Decagon’s co-founder and CEO, “This allows us to both capture customers' business logic and create all the software surface area around the agent that just wasn't possible before LLMs.”
+Decagon’s approach ensures that each part of the customer interaction pipeline is supported by the most suitable model for the task, enhancing both speed and accuracy. Says Jesse Zhang, Decagon’s co-founder and CEO, “This allows us to both capture customers' business logic and create all the software surface area around the agent that just wasn’t possible before LLMs.”
 
 ![Decagon > Media > Product UI](https://images.ctfassets.net/kftzwdyauwt9/7vY7AVFlLkJSV9c8twmTsc/7b224d461b294a4f7b91fff192c6c126/decagon_ui.png?w=3840&q=90&fm=webp)
 
@@ -130,9 +120,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -169,6 +159,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -202,6 +194,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

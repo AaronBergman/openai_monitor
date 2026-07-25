@@ -30,7 +30,7 @@ OpenAI DevDay 2024
 
 # OpenAI DevDay
 
-We're bringing developers together to explore new tools and exchange ideas.
+We’re bringing developers together to explore new tools and exchange ideas.
 
 Share
 
@@ -40,11 +40,11 @@ Share
 
 ## Product announcements
 
-![Introducing the Realtime API > Card image](https://images.ctfassets.net/kftzwdyauwt9/139I6Ga8xl6qTXGPL9lWyc/82838b1ef1a26a4946a27d656de0c806/01_Realtime_API.png?w=3840&q=90&fm=webp)
+![DALL·E generated impressionist oil painting of undulating orange audio waves creating a harmonious, layered composition](https://images.ctfassets.net/kftzwdyauwt9/139I6Ga8xl6qTXGPL9lWyc/82838b1ef1a26a4946a27d656de0c806/01_Realtime_API.png?w=3840&q=90&fm=webp)
 
 [Introducing the Realtime APIProductOct 1, 2024](</index/introducing-the-realtime-api/>)
 
-![Introducing vision to the fine-tuning API > Cover image](https://images.ctfassets.net/kftzwdyauwt9/3no98Bze1KP8jLc4t2bEYc/e41bd6427baec73e988972b2723fe555/02_Vision_Fine-tuning.png?w=3840&q=90&fm=webp)
+![DALL·E generated impressionist oil painting of overlapping translucent rectangles blending in sky blue hues](https://images.ctfassets.net/kftzwdyauwt9/3no98Bze1KP8jLc4t2bEYc/e41bd6427baec73e988972b2723fe555/02_Vision_Fine-tuning.png?w=3840&q=90&fm=webp)
 
 [Introducing vision to the fine-tuning APIProductOct 1, 2024](</index/introducing-vision-to-the-fine-tuning-api/>)
 
@@ -52,7 +52,7 @@ Share
 
 [Prompt Caching in the APIProductOct 1, 2024](</index/api-prompt-caching/>)
 
-![Model Distillation in the API > Media](https://images.ctfassets.net/kftzwdyauwt9/WAfhxKn1jlwPcmkHH4sl6/5e82e35f685a447799791a1f777a9e24/04_Model_Distillation.png?w=3840&q=90&fm=webp)
+![DALL·E generated impressionist oil painting of stacked light green rectangles serving as columns, with emerald streams weaving repeatedly through each tier](https://images.ctfassets.net/kftzwdyauwt9/WAfhxKn1jlwPcmkHH4sl6/5e82e35f685a447799791a1f777a9e24/04_Model_Distillation.png?w=3840&q=90&fm=webp)
 
 [Model Distillation in the APIProductOct 1, 2024](</index/api-model-distillation/>)
 
@@ -84,9 +84,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -123,6 +123,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -156,6 +158,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

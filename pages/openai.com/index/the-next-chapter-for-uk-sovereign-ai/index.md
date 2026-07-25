@@ -26,13 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-UK Ministry of Justice 
-
-  * UK Ministry of Justice 
-  * Introducing UK data residency
-
-
-
 October 22, 2025
 
 [Global Affairs](</news/global-affairs/>)
@@ -42,6 +35,18 @@ October 22, 2025
 Loading…
 
 Share
+
+UK Ministry of Justice 
+
+  * UK Ministry of Justice 
+  * Introducing UK data residency
+
+
+
+  * UK Ministry of Justice 
+  * Introducing UK data residency
+
+
 
 Earlier this year, we signed an MOU with the UK Government to help more British people, businesses and institutions benefit from the potential of AI technology, and to deliver on the goals of the UK AI Action Plan. Together with the Government, we want to drive AI-led growth, accelerate adoption across the private and public sector, and expand the UK’s sovereign AI capabilities so that AI is widely available and served in the UK, for the UK.
 
@@ -57,7 +62,7 @@ Elsewhere in the UK Government, OpenAI technology already powers several tools, 
 
 **Deputy Prime Minister and Lord Chancellor David Lammy said:** “Our partnership with OpenAI places Britain firmly in the driving seat of the global tech revolution—leading the world in innovation and using technology to deliver fairness and opportunity for every corner of the United Kingdom.” 
 
-**Sam Altman, CEO of OpenAI, said:** “The number of people using our products in the UK has increased fourfold in the past year. It’s exciting to see them using AI to save time, increase productivity, and get more done. Civil servants are using ChatGPT to improve public services and established firms are reimagining operations. We're proud to continue supporting the UK and the Government's AI plan.”
+**Sam Altman, CEO of OpenAI, said:** “The number of people using our products in the UK has increased fourfold in the past year. It’s exciting to see them using AI to save time, increase productivity, and get more done. Civil servants are using ChatGPT to improve public services and established firms are reimagining operations. We’re proud to continue supporting the UK and the Government's AI plan.”
 
 ## Introducing UK data residency
 
@@ -83,17 +88,17 @@ OpenAI
 
 [View all](</news/>)
 
-![oai 1x1 Biodefense in the Intelligence Age](https://images.ctfassets.net/kftzwdyauwt9/6A4rrCBs9rrlbzm9JWIvSi/8a4ae56849fcd0b16e90b59b8babc613/oai_1x1_Biodefense_in_the_Intelligence_Age.png?w=3840&q=90&fm=webp)
+![effingham county 1x1](https://images.ctfassets.net/kftzwdyauwt9/3f1fyaaSZELql3zECUImW3/1733a5ee7f07da894b993dcff75bea66/effingham_county_1x1.png?w=3840&q=90&fm=webp)
 
-[Biodefense in the Intelligence AgeGlobal AffairsJun 4, 2026](</index/biodefense-in-the-intelligence-age/>)
+[Building AI infrastructure with the Effingham County communityGlobal AffairsJul 22, 2026](</index/building-ai-infrastructure-with-the-effingham-county-community/>)
 
-![OpenAI’s public policy agenda > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/CdH7XdsXfpUaYZJpeCwwz/76b975c66fce3ce5ec4a901b4f675369/Frame.png?w=3840&q=90&fm=webp)
+![Advancing the next era of national science card image](https://images.ctfassets.net/kftzwdyauwt9/1aUcaaPHlPQbaN0EzEUrEc/95d5f6d78ab308305bf4781c07ccc4fd/Advancing_the_next_era_of_national_science_1x1.png?w=3840&q=90&fm=webp)
 
-[OpenAI public policy agendaGlobal AffairsJun 3, 2026](</index/public-policy-agenda/>)
+[Advancing the next era of national scienceGlobal AffairsJul 22, 2026](</index/advancing-the-next-era-of-national-science/>)
 
-![Frontier Safety Blueprint > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/6zU111Ouj65b8iZJnswHBe/a705de1c90ab048510532db2f53f12f3/Frame.png?w=3840&q=90&fm=webp)
+![Helping build shared standards for advanced AI - card image](https://images.ctfassets.net/kftzwdyauwt9/5bSU7ItzcBWGtWhApmmJ6X/a818a91ef36b39ed07d62566ec318760/Frame2.png?w=3840&q=90&fm=webp)
 
-[A blueprint for democratic governance of frontier AIGlobal AffairsJun 3, 2026](</index/frontier-safety-blueprint/>)
+[The US is advancing AI safety through state and federal actionGlobal AffairsJul 15, 2026](</index/advancing-ai-safety-through-state-and-federal-action/>)
 
 Research
 
@@ -105,9 +110,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -144,6 +149,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -177,6 +184,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

@@ -26,17 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Finding the right products
-
-  * Finding the right products
-  * How to use it
-  * How it works
-  * Transparency and trust
-  * Limitations
-  * Just the start
-
-
-
 November 24, 2025
 
 [Product](</news/product-releases/>)[Company](</news/company-announcements/>)
@@ -50,6 +39,32 @@ A new shopping experience that helps you find the right products for you.
 Loading…
 
 Share
+
+Finding the right products
+
+  * Finding the right products
+  * How to use it
+    * Describe what you need
+    * Guide the research
+    * Receive a personalized buyer’s guide
+  * How it works
+  * Transparency and trust
+  * Limitations
+  * Just the start
+
+
+
+  * Finding the right products
+  * How to use it
+    * Describe what you need
+    * Guide the research
+    * Receive a personalized buyer’s guide
+  * How it works
+  * Transparency and trust
+  * Limitations
+  * Just the start
+
+
 
 Today, we’re introducing shopping research, a new experience in ChatGPT that does the research for you to help you find the right products. Instead of sifting through dozens of sites, you can just describe what you’re looking for—“Find the quietest cordless stick vacuum for a small apartment,” “Help me choose between these three bikes,” or “I need a gift for my four year old niece who loves art”—and shopping research builds a thoughtful guide to help you decide. It asks smart clarifying questions, researches deeply across the internet, reviews quality sources, and builds on ChatGPT’s understanding of you from past conversations and your ChatGPT memory to deliver a personalized buyer’s guide in minutes.
 
@@ -152,17 +167,17 @@ OpenAI
 
 [View all](</news/>)
 
-![Confidential submission of draft S-1 to the SEC > cover image](https://images.ctfassets.net/kftzwdyauwt9/36doI12YCwUtp1hzD4d8bj/84e67c565f39e7d5ca3ee011efa69756/confidential-submission-of-draft-s-1-to-the-sec-1x1.png?w=3840&q=90&fm=webp)
+![Health in ChatGPT > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/48aIp3cQOKJ57vpQeqOb8y/2e8732bcad5ceea1c7b20cf001bd2823/1_1_Art_Card.png?w=3840&q=90&fm=webp)
 
-[Confidential submission of draft S-1 to the SECCompanyJun 8, 2026](</index/openai-submits-confidential-s-1/>)
+[Launching Health in ChatGPT ProductJul 23, 2026](</index/health-in-chatgpt/>)
 
-![Built for broad benefit > cover](https://images.ctfassets.net/kftzwdyauwt9/bEe28mW3dEOj9pKJsPp2u/13f7bed9e86b0667ba924479d62f98e4/Art_Card_1080x1080_1.png?w=3840&q=90&fm=webp)
+![How news organizations are using AI > Card Image](https://images.ctfassets.net/kftzwdyauwt9/5nTzxwRy4Is9PQSluyYkWP/d6e7953a692a5a8c926885e2f50a3427/how_news_orgs_use_AI_1x1.png?w=3840&q=90&fm=webp)
 
-[Built to benefit everyone: our planCompanyJun 8, 2026](</index/built-to-benefit-everyone-our-plan/>)
+[How news organizations use AI to advance their vital missionsCompanyJul 22, 2026](</index/how-news-organizations-are-using-ai/>)
 
-![Economic research forum > art card ](https://images.ctfassets.net/kftzwdyauwt9/2DpNjvjdVuCrLKNOrFrWJ7/1aefe1cbe252bcd9ba42035469fc8a0f/art_card.png?w=3840&q=90&fm=webp)
+![OpenAI Presence 1x1](https://images.ctfassets.net/kftzwdyauwt9/5JBDenSGI6wx5CMPPlaM5J/da9d8e27a0bd70d845a816b28ac641a9/OpenAI_Presence_1x1.png?w=3840&q=90&fm=webp)
 
-[Introducing the OpenAI Economic Research ExchangeCompanyJun 8, 2026](</index/economic-research-exchange/>)
+[Introducing OpenAI PresenceProductJul 22, 2026](</index/introducing-openai-presence/>)
 
 Research
 
@@ -174,9 +189,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -213,6 +228,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -246,6 +263,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

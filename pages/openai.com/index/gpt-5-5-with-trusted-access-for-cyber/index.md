@@ -41,30 +41,18 @@ Share
 How trusted access works
 
   * How trusted access works
-
   * How GPT-5.5 and GPT-5.5-Cyber perform on cyber tasks
-
   * Scaling defensive capability across the security ecosystem
-
   * Codex Security for open source and defenders
-
   * Looking ahead
 
 
-
-
-Table of contents
 
   * How trusted access works
-
   * How GPT-5.5 and GPT-5.5-Cyber perform on cyber tasks
-
   * Scaling defensive capability across the security ecosystem
-
   * Codex Security for open source and defenders
-
   * Looking ahead
-
 
 
 
@@ -200,7 +188,7 @@ We’re working with these partners to help us evaluate how those capabilities t
 
 CiscoCrowdStrikePalo Alto NetworksOracleZscalerCloudflareAkamaiFortinet
 
-> “At Cisco, we view frontier models as a powerful force multiplier for defenders. Models like GPT-5.5 are fundamentally changing the velocity of our operations, enabling us to move faster on everything from incident investigation to proactive exposure reduction. But speed cannot be traded for trust. The true value of this technology isn't found in the model alone, but in the enterprise-ready framework we wrap around it. A framework that helps us make more secure products. Our focus is on transforming our secure development and operations processes with these new capabilities. For us, it's about enabling innovation that is as reliable as it is fast.”
+> “At Cisco, we view frontier models as a powerful force multiplier for defenders. Models like GPT-5.5 are fundamentally changing the velocity of our operations, enabling us to move faster on everything from incident investigation to proactive exposure reduction. But speed cannot be traded for trust. The true value of this technology isn’t found in the model alone, but in the enterprise-ready framework we wrap around it. A framework that helps us make more secure products. Our focus is on transforming our secure development and operations processes with these new capabilities. For us, it’s about enabling innovation that is as reliable as it is fast.”
 
 — Anthony Grieco, SVP, Chief Security & Trust Officer, Cisco
 
@@ -276,6 +264,10 @@ OpenAI
 
 [View all](</news/>)
 
+![Hugging Face Security Incident 1x1](https://images.ctfassets.net/kftzwdyauwt9/1H0bdkoSFFcqNTx4DSNpal/56f4b7575c012f0698b1be0dafb379f0/Hugging_Face_Security_Incident_1x1.png?w=3840&q=90&fm=webp)
+
+[OpenAI and Hugging Face address security incidentSecurityJul 21, 2026](</index/hugging-face-model-evaluation-security-incident/>)
+
 ![Expanding Daybreak Art Card](https://images.ctfassets.net/kftzwdyauwt9/735NOZviyogUBIFxd2EmWX/fa8baf9fc26e64f442ffa86d5fd9a41e/Art_Card__6_.png?w=3840&q=90&fm=webp)
 
 [Daybreak: Tools for securing every organization in the worldSecurityJun 22, 2026](</index/daybreak-securing-the-world/>)
@@ -283,10 +275,6 @@ OpenAI
 ![Patch the Planet Art Card 1x1](https://images.ctfassets.net/kftzwdyauwt9/2PwBCyZF0Z5WLRtsbOpDdQ/338e19fbc39e5b9a63b1db664c006e74/Art_Card__5_.png?w=3840&q=90&fm=webp)
 
 [Patch the Planet: a Daybreak initiative to support open source maintainersSecurityJun 22, 2026](</index/patch-the-planet/>)
-
-![codex windows > art card](https://images.ctfassets.net/kftzwdyauwt9/6ZvTl8ZL23BOhoI6jz0EmR/49d6038b9f92773d4f866f4bfacabdbf/Art_Card__5_.png?w=3840&q=90&fm=webp)
-
-[Building a safe, effective sandbox to enable Codex on WindowsEngineeringMay 13, 2026](</index/building-codex-windows-sandbox/>)
 
 Research
 
@@ -298,9 +286,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -372,6 +360,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

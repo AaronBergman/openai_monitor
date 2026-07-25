@@ -41,36 +41,22 @@ Share
 Cyber defense at an inflection point
 
   * Cyber defense at an inflection point
-
   * From findings to fixes with Codex Security
-
   * Updating GPT-5.5-Cyber: pairing capability with permissiveness
-
   * Working with the security ecosystem
-
   * Patch the Planet: landing fixes in open-source
-
   * Protecting critical infrastructure and sensitive systems
-
   * What comes next
-
 
 
 
   * Cyber defense at an inflection point
-
   * From findings to fixes with Codex Security
-
   * Updating GPT-5.5-Cyber: pairing capability with permissiveness
-
   * Working with the security ecosystem
-
   * Patch the Planet: landing fixes in open-source
-
   * Protecting critical infrastructure and sensitive systems
-
   * What comes next
-
 
 
 
@@ -141,7 +127,7 @@ As part of this expansion, we’re also launching the [_OpenAI Daybreak Cyber Pa
 
 ![Logo cloud on an orange-to-yellow gradient background showing customer or partner logos, including Accenture, Akamai, NCC Group, Capgemini, Cato Networks, Check Point, Cisco, Cloudflare, Cognizant, CrowdStrike, Darktrace, Elastic, EY, Fortinet, GuidePoint Security, IBM, KPMG, Okta, Palo Alto Networks, Proofpoint, PwC, SentinelOne, SpecterOps, Sophos, Tenable, Trend AI, Wiz, and Zscaler.](https://images.ctfassets.net/kftzwdyauwt9/6A6qyFaSLcyO8EjX0W5Id8/f8e9bede5a46a16d220f71f181e91b40/logo_cloud_for_codex_final.png?w=3840&q=90&fm=webp)
 
-We will also collaborate with program partners to continue to strengthen the safeguards, monitoring, and abuse-prevention standards needed to deploy these capabilities responsibly across the security ecosystem. We're rolling this out with an initial set of [_partners_ ⁠](</daybreak/partners/>) and plan to continue expanding to more organizations in the coming months.
+We will also collaborate with program partners to continue to strengthen the safeguards, monitoring, and abuse-prevention standards needed to deploy these capabilities responsibly across the security ecosystem. We’re rolling this out with an initial set of [_partners_ ⁠](</daybreak/partners/>) and plan to continue expanding to more organizations in the coming months.
 
 ## Patch the Planet: landing fixes in open-source
 
@@ -187,17 +173,17 @@ OpenAI
 
 [View all](</news/>)
 
-![HP early AI wins — card image](https://images.ctfassets.net/kftzwdyauwt9/6phCuFzVSdCdVCh6YqXMa6/a4207917b5d7a43179a61f5de012168d/HP-1_1.png?w=3840&q=90&fm=webp)
+![How news organizations are using AI > Card Image](https://images.ctfassets.net/kftzwdyauwt9/5nTzxwRy4Is9PQSluyYkWP/d6e7953a692a5a8c926885e2f50a3427/how_news_orgs_use_AI_1x1.png?w=3840&q=90&fm=webp)
 
-[How HP is scaling early AI wins across the enterpriseCompanyJun 28, 2026](</index/hp-frontier-partnership/>)
+[How news organizations use AI to advance their vital missionsCompanyJul 22, 2026](</index/how-news-organizations-are-using-ai/>)
 
-![How agents are transforming work > Cover image](https://images.ctfassets.net/kftzwdyauwt9/7hmtkjKv0DxS4Yt8mQZju2/c168bfa2010da64bcc9dd60d6b5491e8/Art_Card__1_.png?w=3840&q=90&fm=webp)
+![OpenAI Presence 1x1](https://images.ctfassets.net/kftzwdyauwt9/5JBDenSGI6wx5CMPPlaM5J/da9d8e27a0bd70d845a816b28ac641a9/OpenAI_Presence_1x1.png?w=3840&q=90&fm=webp)
 
-[How agents are transforming workCompanyJun 25, 2026](</index/how-agents-are-transforming-work/>)
+[Introducing OpenAI PresenceProductJul 22, 2026](</index/introducing-openai-presence/>)
 
-![OpenAI and Broadcom Jalapeño inference chip card image](https://images.ctfassets.net/kftzwdyauwt9/21KcazqOHUF7Cq71Hpfcnc/81ad98a1978845b441ab14e008168c75/openai-broadcom-jalapeno-inference-chip-image-1_1.png?w=3840&q=90&fm=webp)
+![Hugging Face Security Incident 1x1](https://images.ctfassets.net/kftzwdyauwt9/1H0bdkoSFFcqNTx4DSNpal/56f4b7575c012f0698b1be0dafb379f0/Hugging_Face_Security_Incident_1x1.png?w=3840&q=90&fm=webp)
 
-[OpenAI and Broadcom unveil LLM-optimized inference chipCompanyJun 24, 2026](</index/openai-broadcom-jalapeno-inference-chip/>)
+[OpenAI and Hugging Face address security incidentSecurityJul 21, 2026](</index/hugging-face-model-evaluation-security-incident/>)
 
 Research
 
@@ -283,6 +269,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

@@ -44,7 +44,7 @@ Please join us for our first developer conference, OpenAI DevDay, on November 6,
 
 The one-day event will bring hundreds of developers from around the world together with the team at OpenAI to preview new tools and exchange ideas. In-person attendees will also be able to join breakout sessions led by members of OpenAI’s technical staff.
 
-Since launching our API in 2020, we’ve continuously updated it to include our most advanced models, making it easier than ever for developers to integrate cutting-edge AI into their projects with a simple API call. Today, over 2 million developers are using GPT‑4, GPT‑3.5, DALL·E and Whisper for a wide range of use cases—from [integrating smart assistants⁠](</index/introducing-chatgpt-and-whisper-apis/>) into existing applications to building [entirely new applications⁠](</index/function-calling-and-other-api-updates/>) and [services that weren't possible before⁠](</index/gpt-3-5-turbo-fine-tuning-and-api-updates/>).
+Since launching our API in 2020, we’ve continuously updated it to include our most advanced models, making it easier than ever for developers to integrate cutting-edge AI into their projects with a simple API call. Today, over 2 million developers are using GPT‑4, GPT‑3.5, DALL·E and Whisper for a wide range of use cases—from [integrating smart assistants⁠](</index/introducing-chatgpt-and-whisper-apis/>) into existing applications to building [entirely new applications⁠](</index/function-calling-and-other-api-updates/>) and [services that weren’t possible before⁠](</index/gpt-3-5-turbo-fine-tuning-and-api-updates/>).
 
 “We’re looking forward to showing our latest work to enable developers to build new things,” said Sam Altman, CEO of OpenAI. 
 

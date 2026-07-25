@@ -63,7 +63,7 @@ Why does this repository qualify? *Include information such as GitHub stars, mo
 
 Maximum 500 characters.
 
-I'm interested in...
+I’m interested in...
 
 Codex Security
 

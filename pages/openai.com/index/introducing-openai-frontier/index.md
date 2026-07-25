@@ -26,16 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-The AI opportunity gap
-
-  * The AI opportunity gap
-  * OpenAI Frontier
-  * Combining technology with know-how
-  * Opening the AI ecosystem
-  * Let’s build
-
-
-
 February 5, 2026
 
 [Product](</news/product-releases/>)[Company](</news/company-announcements/>)
@@ -45,6 +35,32 @@ February 5, 2026
 Loading…
 
 Share
+
+The AI opportunity gap
+
+  * The AI opportunity gap
+  * OpenAI Frontier
+    * Understand the work
+    * Plan, act, and solve problems
+    * Improve quality on real work
+    * Identity, permissions, and boundaries
+  * Combining technology with know-how
+  * Opening the AI ecosystem
+  * Let’s build
+
+
+
+  * The AI opportunity gap
+  * OpenAI Frontier
+    * Understand the work
+    * Plan, act, and solve problems
+    * Improve quality on real work
+    * Identity, permissions, and boundaries
+  * Combining technology with know-how
+  * Opening the AI ecosystem
+  * Let’s build
+
+
 
 AI has let teams take on things they used to talk about but never execute. In fact, 75% of enterprise workers say AI helped them do tasks they couldn’t do before. We’re hearing this from every department, not just technical teams. The way work gets done has changed, and enterprises are starting to feel it in big ways.
 
@@ -72,7 +88,7 @@ Enterprises are feeling the pressure to figure this out now, because the gap bet
 
 ## OpenAI Frontier
 
-We've learned that teams don't just need better tools that solve pieces of the puzzle. They needed help getting agents into production with an end-to-end approach to build, deploy, and manage agents.
+We’ve learned that teams don’t just need better tools that solve pieces of the puzzle. They needed help getting agents into production with an end-to-end approach to build, deploy, and manage agents.
 
 We started by looking at how enterprises already scale people. They create onboarding processes. They teach institutional knowledge and internal language. They allow learning through experience and improve performance through feedback. They grant access to the right systems and set boundaries. AI coworkers need the same things.
 
@@ -175,17 +191,17 @@ OpenAI
 
 [View all](</news/>)
 
-![Confidential submission of draft S-1 to the SEC > cover image](https://images.ctfassets.net/kftzwdyauwt9/36doI12YCwUtp1hzD4d8bj/84e67c565f39e7d5ca3ee011efa69756/confidential-submission-of-draft-s-1-to-the-sec-1x1.png?w=3840&q=90&fm=webp)
+![Health in ChatGPT > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/48aIp3cQOKJ57vpQeqOb8y/2e8732bcad5ceea1c7b20cf001bd2823/1_1_Art_Card.png?w=3840&q=90&fm=webp)
 
-[Confidential submission of draft S-1 to the SECCompanyJun 8, 2026](</index/openai-submits-confidential-s-1/>)
+[Launching Health in ChatGPT ProductJul 23, 2026](</index/health-in-chatgpt/>)
 
-![Built for broad benefit > cover](https://images.ctfassets.net/kftzwdyauwt9/bEe28mW3dEOj9pKJsPp2u/13f7bed9e86b0667ba924479d62f98e4/Art_Card_1080x1080_1.png?w=3840&q=90&fm=webp)
+![How news organizations are using AI > Card Image](https://images.ctfassets.net/kftzwdyauwt9/5nTzxwRy4Is9PQSluyYkWP/d6e7953a692a5a8c926885e2f50a3427/how_news_orgs_use_AI_1x1.png?w=3840&q=90&fm=webp)
 
-[Built to benefit everyone: our planCompanyJun 8, 2026](</index/built-to-benefit-everyone-our-plan/>)
+[How news organizations use AI to advance their vital missionsCompanyJul 22, 2026](</index/how-news-organizations-are-using-ai/>)
 
-![Economic research forum > art card ](https://images.ctfassets.net/kftzwdyauwt9/2DpNjvjdVuCrLKNOrFrWJ7/1aefe1cbe252bcd9ba42035469fc8a0f/art_card.png?w=3840&q=90&fm=webp)
+![OpenAI Presence 1x1](https://images.ctfassets.net/kftzwdyauwt9/5JBDenSGI6wx5CMPPlaM5J/da9d8e27a0bd70d845a816b28ac641a9/OpenAI_Presence_1x1.png?w=3840&q=90&fm=webp)
 
-[Introducing the OpenAI Economic Research ExchangeCompanyJun 8, 2026](</index/economic-research-exchange/>)
+[Introducing OpenAI PresenceProductJul 22, 2026](</index/introducing-openai-presence/>)
 
 Research
 
@@ -197,9 +213,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -236,6 +252,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -269,6 +287,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

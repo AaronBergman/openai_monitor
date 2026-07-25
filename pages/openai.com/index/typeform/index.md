@@ -60,7 +60,7 @@ Finally, Formless makes it easier than ever to learn valuable insights from cust
 
 ![Typeform Form](https://images.ctfassets.net/kftzwdyauwt9/a810f05f-d90e-4885-361297cf2331/266ff13fa7f1634b6df3336ffcfe3357/typeform_form.png?w=3840&q=90&fm=webp)
 
-Formless was built from the ground up on OpenAI’s newest models, and most likely wouldn’t be possible without GPT‑4. It’s a significant achievement for the Typeform team, whose investment in OpenAI’s technology isn’t new. “We've been working with GPT since 2.0, when the team was working on VideoAsk.com,” said Oji Udezue, Chief Product Officer. “And now: Formless.ai. Formless is our revolutionary new product that makes forms basically disappear entirely. It's the culmination of our obsession with making the web itself more conversational—and we’ve only just scratched the surface.”
+Formless was built from the ground up on OpenAI’s newest models, and most likely wouldn’t be possible without GPT‑4. It’s a significant achievement for the Typeform team, whose investment in OpenAI’s technology isn’t new. “We’ve been working with GPT since 2.0, when the team was working on VideoAsk.com,” said Oji Udezue, Chief Product Officer. “And now: Formless.ai. Formless is our revolutionary new product that makes forms basically disappear entirely. It’s the culmination of our obsession with making the web itself more conversational—and we’ve only just scratched the surface.”
 
 ## Interested in learning more about ChatGPT for business?
 
@@ -90,9 +90,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -129,6 +129,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -162,6 +164,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

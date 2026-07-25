@@ -419,9 +419,9 @@ OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
 
-### I'm interested in building a startup—where should I start?
+### I’m interested in building a startup—where should I start?
 
-You're in the right place! We recommend checking out [Build Hours⁠(opens in a new window)](<https://webinar.openai.com/buildhours/>) and [code repos⁠(opens in a new window)](<https://github.com/OPENAI>). These resources give you a head start building with OpenAI models with practical tips from founders. You can also sign up for the [Startup Drop newsletter⁠](</leads/startup/>) to get updates, events, and resources right to your inbox each month. Find more of our resources for startups here⁠. 
+You’re in the right place! We recommend checking out [Build Hours⁠(opens in a new window)](<https://webinar.openai.com/buildhours/>) and [code repos⁠(opens in a new window)](<https://github.com/OPENAI>). These resources give you a head start building with OpenAI models with practical tips from founders. You can also sign up for the [Startup Drop newsletter⁠](</leads/startup/>) to get updates, events, and resources right to your inbox each month. Find more of our resources for startups here⁠. 
 
 ### How do I create an OpenAI account for my startup? 
 
@@ -495,7 +495,7 @@ This can help with compliance needs (like HIPAA or GDPR) and gives you more cont
 
 Find more information on this topic [_here_ ⁠(opens in a new window)](<https://help.openai.com/en/articles/8660679-how-can-i-get-a-business-associate-agreement-baa-with-openai-for-the-api-services>).
 
-### I'm building in a regulated domain. How can I navigate data privacy, security & compliance?
+### I’m building in a regulated domain. How can I navigate data privacy, security & compliance?
 
 We’ve seen what matters most to leading enterprises - and when you build with OpenAI, you get the same security and privacy foundations they rely on. It signals credibility to your customers from day one. Security and privacy are core to our mission, trusted by companies like Morgan Stanley, Amgen, and BBVA, plus countless startups selling to large enterprises.
 

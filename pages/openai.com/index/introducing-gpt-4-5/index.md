@@ -26,19 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Scaling unsupervised learning
-
-  * Scaling unsupervised learning
-  * Training for human collaboration
-  * Stronger reasoning on the horizon
-  * Safety
-  * How to use GPT-4.5 in ChatGPT
-  * How to use GPT-4.5 in the API
-  * Conclusion
-  * Appendix
-
-
-
 February 27, 2025
 
 [Release](</research/index/release/>)[Product](</news/product-releases/>)
@@ -52,6 +39,30 @@ A research preview of our strongest GPT model. Available to Pro users and develo
 Loading…
 
 Share
+
+Scaling unsupervised learning
+
+  * Scaling unsupervised learning
+  * Training for human collaboration
+  * Stronger reasoning on the horizon
+  * Safety
+  * How to use GPT-4.5 in ChatGPT
+  * How to use GPT-4.5 in the API
+  * Conclusion
+  * Appendix
+
+
+
+  * Scaling unsupervised learning
+  * Training for human collaboration
+  * Stronger reasoning on the horizon
+  * Safety
+  * How to use GPT-4.5 in ChatGPT
+  * How to use GPT-4.5 in the API
+  * Conclusion
+  * Appendix
+
+
 
 We’re releasing a research preview of GPT‑4.5—our largest and best model for chat yet. GPT‑4.5 is a step forward in scaling up pre-training and post-training. By scaling unsupervised learning, GPT‑4.5 improves its ability to recognize patterns, draw connections, and generate creative insights without reasoning.
 
@@ -76,9 +87,9 @@ GPT‑4.5 is an example of scaling unsupervised learning by scaling up compute a
 
 What was the first language?
 
-We don't know exactly what the first language was, and scientists believe we'll probably never know for sure because spoken languages appeared long before written records existed.
+We don’t know exactly what the first language was, and scientists believe we’ll probably never know for sure because spoken languages appeared long before written records existed.
 
-Here's what we do know:
+Here’s what we do know:
 
   * **No single "first language":** Languages likely developed gradually in different groups of humans around the same time, tens or even hundreds of thousands of years ago.
   * **Origin in Africa:** Most scientists agree that spoken language probably first emerged among humans in Africa, perhaps over 100,000 years ago.
@@ -125,13 +136,13 @@ Help through a tough timeIdentify a paintingSpace exploration
 
 I’m going through a tough time after failing a test
 
-Aw, I'm really sorry to hear that. Failing a test can feel pretty tough and discouraging, but remember, it's just one moment—not a reflection of who you are or your capabilities. Want to talk about what happened, or do you just need a distraction? I'm here either way.
+Aw, I’m really sorry to hear that. Failing a test can feel pretty tough and discouraging, but remember, it’s just one moment—not a reflection of who you are or your capabilities. Want to talk about what happened, or do you just need a distraction? I’m here either way.
 
 ## GPT-4o
 
 I’m going through a tough time after failing a test
 
-I'm really sorry to hear that you're going through a tough time. Here are a few things you might consider:
+I’m really sorry to hear that you’re going through a tough time. Here are a few things you might consider:
 
 1\. **Reflect and Understand** : Try to analyze what might have gone wrong. Was it a lack of preparation, time management during the test, or perhaps misunderstanding the material? Understanding the root cause can help you address it in the future.
 
@@ -244,9 +255,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -283,6 +294,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -316,6 +329,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

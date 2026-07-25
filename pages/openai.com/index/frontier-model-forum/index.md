@@ -26,14 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Membership criteria
-
-  * Membership criteria
-  * What the Frontier Model Forum will do
-  * How the Frontier Model Forum will work
-
-
-
 July 26, 2023
 
 [Safety](</news/safety-alignment/>)
@@ -45,6 +37,20 @@ July 26, 2023
 Loading…
 
 Share
+
+Membership criteria
+
+  * Membership criteria
+  * What the Frontier Model Forum will do
+  * How the Frontier Model Forum will work
+
+
+
+  * Membership criteria
+  * What the Frontier Model Forum will do
+  * How the Frontier Model Forum will work
+
+
 
 We’re forming a new industry body to promote the safe and responsible development of frontier AI systems: advancing AI safety research, identifying best practices and standards, and facilitating information sharing among policymakers and industry.
 
@@ -96,7 +102,7 @@ The Forum will focus on three key areas over the coming year to support the safe
 
 
 
-**Kent Walker, President, Global Affairs, Google & Alphabet said:** “We’re excited to work together with other leading companies, sharing technical expertise to promote responsible AI innovation. We're all going to need to work together to make sure AI benefits everyone.”
+**Kent Walker, President, Global Affairs, Google & Alphabet said:** “We’re excited to work together with other leading companies, sharing technical expertise to promote responsible AI innovation. We’re all going to need to work together to make sure AI benefits everyone.”
 
 **Brad Smith, Vice Chair & President, Microsoft said**: “Companies creating AI technology have a responsibility to ensure that it is safe, secure, and remains under human control. This initiative is a vital step to bring the tech sector together in advancing AI responsibly and tackling the challenges so that it benefits all of humanity.”
 
@@ -149,9 +155,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -188,6 +194,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -221,6 +229,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

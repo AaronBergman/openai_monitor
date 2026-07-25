@@ -74,7 +74,7 @@ Bartley Richardson, Chief AI and Autonomous Systems Officer, Crowdstrike
 
 Ed Jennings, CEO, Darktrace
 
-> “Defenders are drowning in data and still missing the attacks that matter. Through the OpenAI Daybreak Cyber Partner Program, GPT‑5.5 brings new reasoning power into Elastic capabilities like Attack Discovery, helping analysts cut through the noise and move from signal to action faster. Paired with original threat research from Elastic Security Labs, it means the adversary behavior we track translates directly into better protection for our customers. And we're doing this responsibly: with the monitoring and abuse-prevention standards that advanced AI deployment actually requires.”
+> “Defenders are drowning in data and still missing the attacks that matter. Through the OpenAI Daybreak Cyber Partner Program, GPT‑5.5 brings new reasoning power into Elastic capabilities like Attack Discovery, helping analysts cut through the noise and move from signal to action faster. Paired with original threat research from Elastic Security Labs, it means the adversary behavior we track translates directly into better protection for our customers. And we’re doing this responsibly: with the monitoring and abuse-prevention standards that advanced AI deployment actually requires.”
 
 Mike Nichols, General Manager, Security, Elastic
 
@@ -90,7 +90,7 @@ Mark Hughes, Global Managing Partner, Cybersecurity Services, IBM Consulting
 
 Ric Smith, President, Products and Technology, Okta
 
-> “As defenders face increasingly sophisticated threats, GPT‑5.5 with trusted access enables security teams to move faster by enhancing the tools and workflows they already rely on—from investigation and analysis to prioritization and response. Through our participation in the OpenAI Daybreak Cyber Partner Program, we're delivering these capabilities as part of Palo Alto Networks Frontier AI Defense offering. This work is helping to establish the safeguards, monitoring, and abuse prevention standards needed to ensure AI is deployed responsibly and securely across the broader software ecosystem.”
+> “As defenders face increasingly sophisticated threats, GPT‑5.5 with trusted access enables security teams to move faster by enhancing the tools and workflows they already rely on—from investigation and analysis to prioritization and response. Through our participation in the OpenAI Daybreak Cyber Partner Program, we’re delivering these capabilities as part of Palo Alto Networks Frontier AI Defense offering. This work is helping to establish the safeguards, monitoring, and abuse prevention standards needed to ensure AI is deployed responsibly and securely across the broader software ecosystem.”
 
 Lee Klarich, Chief Product & Technology Officer, Palo Alto Networks
 

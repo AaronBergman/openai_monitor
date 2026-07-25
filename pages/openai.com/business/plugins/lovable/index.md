@@ -24,17 +24,7 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 [Contact sales](</contact-sales/>)Try OpenAI
 
-OpenAI
-
-New
-
-### Introducing ChatGPT Work: 
-
-A new agent in ChatGPT that helps teams turn ambitious goals into finished work—with enterprise controls and governance built in.
-
-[Learn more](</chatgpt-work/>)
-
-[View all plugins](</business/plugins/>)
+OpenAI[View all plugins](</business/plugins/>)
 
 # Lovable
 
@@ -46,7 +36,7 @@ Use case: [Developer Tools](</business/plugins/?tab=apps-developer-tools>)
 
 Made by: Lovable
 
-Website: [lovable.dev(opens in a new window)](<https://lovable.dev/>)
+Website: [lovable.dev(opens in a new window)](<https://lovable.dev>)
 
 ## How it works
 

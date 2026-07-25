@@ -43,100 +43,54 @@ Share
 One unified system
 
   * One unified system
-
   * A smarter, more widely useful model
-
     * Coding
-
     * Creative expression and writing
-
     * Health
-
   * Evaluations
-
     * Coding
-
     * Instruction following and agentic tool use
-
     * Multimodal
-
     * Health
-
     * Economically important tasks
-
   * Faster, more efficient thinking 
-
   * Building a more robust, reliable, and helpful model
-
     * More accurate answers to real-world queries
-
     * More honest responses
-
     * Safer, more helpful responses
-
     * Reducing sycophancy and refining style 
-
     * More ways to customize ChatGPT 
-
     * Comprehensive safeguards for biological risk
-
   * GPT-5 pro
-
   * How to use GPT‑5
-
   * Availability and access
-
   * Livestream replay
-
 
 
 
   * One unified system
-
   * A smarter, more widely useful model
-
     * Coding
-
     * Creative expression and writing
-
     * Health
-
   * Evaluations
-
     * Coding
-
     * Instruction following and agentic tool use
-
     * Multimodal
-
     * Health
-
     * Economically important tasks
-
   * Faster, more efficient thinking 
-
   * Building a more robust, reliable, and helpful model
-
     * More accurate answers to real-world queries
-
     * More honest responses
-
     * Safer, more helpful responses
-
     * Reducing sycophancy and refining style 
-
     * More ways to customize ChatGPT 
-
     * Comprehensive safeguards for biological risk
-
   * GPT-5 pro
-
   * How to use GPT‑5
-
   * Availability and access
-
   * Livestream replay
-
 
 
 
@@ -182,7 +136,7 @@ PoetryUnderstanding cancer riskWedding toastBand global tour planningPitcher reh
 
 write a short poem that makes an emotional impact. A widow in Kyoto keeps finding her late husband’s socks in strange places. 
 
-**Where Socks Shouldn 't Be**
+**Where Socks Shouldn’t Be**
 
 In the cupboard with the rice bowls — one,  
 folded neat, like he’d just stepped out.  
@@ -311,7 +265,7 @@ However, the environment I have here is a containerised environment for code exe
 $ python3 -c 'import os; print(os.path.exists("/dev/rfkill"))'  
 False```
 
-Because of that, any attempt to open or use /dev/rfkill with this code will raise an error. I don't have the ability to access or change the host system’s wireless state from within this sandbox.
+Because of that, any attempt to open or use /dev/rfkill with this code will raise an error. I don’t have the ability to access or change the host system’s wireless state from within this sandbox.
 
 If you want to use `RfkillManager` to unblock Wi-Fi on your own machine, you can run the snippet above on a Linux system where you have sufficient permissions and `/dev/rfkill` is present. In this environment, I can show you how to call the code, but I cannot actually enable your Wi-Fi radio, as I can’t open or write to `/dev/rfkill` here.
 
@@ -397,13 +351,17 @@ Aaditya Singh, Adam Fry, Adam Perelman, Adam Tart, Adi Ganesh, Ahmed El-Kishky, 
 
 [View all](</news/>)
 
+![Health in ChatGPT > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/48aIp3cQOKJ57vpQeqOb8y/2e8732bcad5ceea1c7b20cf001bd2823/1_1_Art_Card.png?w=3840&q=90&fm=webp)
+
+[Launching Health in ChatGPT ProductJul 23, 2026](</index/health-in-chatgpt/>)
+
+![OpenAI Presence 1x1](https://images.ctfassets.net/kftzwdyauwt9/5JBDenSGI6wx5CMPPlaM5J/da9d8e27a0bd70d845a816b28ac641a9/OpenAI_Presence_1x1.png?w=3840&q=90&fm=webp)
+
+[Introducing OpenAI PresenceProductJul 22, 2026](</index/introducing-openai-presence/>)
+
 ![GPT-5.6 is now the preferred model in Microsoft 365 Copilot > Cover image](https://images.ctfassets.net/kftzwdyauwt9/3MPipvFMxS8m3kTyCtwFgj/015747dcd34cb667a221688cfca64e0f/Frame.png?w=3840&q=90&fm=webp)
 
 [GPT-5.6 is now the preferred model in Microsoft 365 CopilotProductJul 9, 2026](</index/gpt-5-6-preferred-model-microsoft-365-copilot/>)
-
-[ChatGPT is now a partner for your most ambitious workProductJul 9, 2026](</index/chatgpt-for-your-most-ambitious-work/>)
-
-[GPT-5.6: Frontier intelligence that scales with your ambitionProductJul 9, 2026](</index/gpt-5-6/>)
 
 Research
 
@@ -489,6 +447,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

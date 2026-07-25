@@ -90,7 +90,7 @@ OpenAI is an AI research and deployment company. Our mission is to ensure that a
 
 **Similarity of content.** Due to the nature of our Services and artificial intelligence generally, output may not be unique and other users may receive similar output from our Services. Our assignment above does not extend to other users’ output or any Third Party Output. 
 
-**Our use of content.** We may use Content to provide, maintain, develop, and improve our Services, comply with applicable law, enforce our terms and policies, and keep our Services safe. If you're using ChatGPT through Apple's integrations, see [this Help Center article⁠(opens in a new window)](<https://help.openai.com/en/articles/9737562>) for how we handle your Content.
+**Our use of content.** We may use Content to provide, maintain, develop, and improve our Services, comply with applicable law, enforce our terms and policies, and keep our Services safe. If you’re using ChatGPT through Apple's integrations, see [this Help Center article⁠(opens in a new window)](<https://help.openai.com/en/articles/9737562>) for how we handle your Content.
 
 **Opt out.** If you do not want us to use your Content to train our models, you can opt out by following the instructions in [this article](</policies/how-your-data-is-used-to-improve-model-performance/>). Please note that in some cases this may limit the ability of our Services to better address your specific use case.
 
@@ -229,9 +229,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -303,6 +303,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

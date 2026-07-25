@@ -39,36 +39,22 @@ Share
 You’ve previously described HR operating more like a product team or R&D lab. How has AI enabled or accelerated that kind of transformation at a company like DoorDash?
 
   * You’ve previously described HR operating more like a product team or R&D lab. How has AI enabled or accelerated that kind of transformation at a company like DoorDash?
-
   * What AI tools or capabilities have been most impactful to your operations or for employees day-to-day?
-
   * How should HR leaders think about how AI is changing employee experience and engagement?
-
   * You’ve emphasized that AI should augment—not replace—human judgment. Can you share examples?
-
   * Are you doing anything with AI around skill leveling, executive coaching, or upskilling?
-
   * Looking ahead, what AI trends are you most focused on over the next 12–24 months?
-
   * Who on your team is responsible for building up the stack as you go deeper—from base tools to agentic capabilities?
-
 
 
 
   * You’ve previously described HR operating more like a product team or R&D lab. How has AI enabled or accelerated that kind of transformation at a company like DoorDash?
-
   * What AI tools or capabilities have been most impactful to your operations or for employees day-to-day?
-
   * How should HR leaders think about how AI is changing employee experience and engagement?
-
   * You’ve emphasized that AI should augment—not replace—human judgment. Can you share examples?
-
   * Are you doing anything with AI around skill leveling, executive coaching, or upskilling?
-
   * Looking ahead, what AI trends are you most focused on over the next 12–24 months?
-
   * Who on your team is responsible for building up the stack as you go deeper—from base tools to agentic capabilities?
-
 
 
 
@@ -92,7 +78,7 @@ Even enterprise chat tools have had a huge impact. What’s really exciting is h
 
 These changes are hard to measure in the moment, but even small examples show how AI can empower individuals to drive value in their workflows. Now, non-engineers can quickly build solutions tailored to their use cases.
 
-> “Across all teams, we're super excited about how AI is enabling us to accelerate building these experiences. It really accelerates the speed with which we can learn and test and iterate.”
+> “Across all teams, we’re super excited about how AI is enabling us to accelerate building these experiences. It really accelerates the speed with which we can learn and test and iterate.”
 
 Listen
 
@@ -120,9 +106,9 @@ Listen
 
 Absolutely. Two great examples are performance reviews and employee surveys.
 
-With performance reviews, our system collects a lot of feedback—but it's been hard to synthesize. AI helps us surface key themes, areas of strength, and areas for growth, so employees get clearer takeaways, not just raw feedback.
+With performance reviews, our system collects a lot of feedback—but it’s been hard to synthesize. AI helps us surface key themes, areas of strength, and areas for growth, so employees get clearer takeaways, not just raw feedback.
 
-With surveys, we used to read thousands of responses manually. AI now helps us identify patterns and generate actionable summaries for managers. We've even built workflows that generate Mad Libs-style action plans tailored to individual managers, showing how their team responses have changed over time. It's boosted our people analytics work and made feedback more actionable.
+With surveys, we used to read thousands of responses manually. AI now helps us identify patterns and generate actionable summaries for managers. We’ve even built workflows that generate Mad Libs-style action plans tailored to individual managers, showing how their team responses have changed over time. It’s boosted our people analytics work and made feedback more actionable.
 
 ### Are you doing anything with AI around skill leveling, executive coaching, or upskilling?
 

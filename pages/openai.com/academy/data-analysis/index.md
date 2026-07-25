@@ -41,26 +41,20 @@ Share
 Data analysis directly in ChatGPT
 
   * Data analysis directly in ChatGPT
-
   * Data analysis in Excel or Google Sheets
-
   * Tips for success
-
 
 
 
   * Data analysis directly in ChatGPT
-
   * Data analysis in Excel or Google Sheets
-
   * Tips for success
-
 
 
 
 ChatGPT can help you move from raw data to useful insights with minimal setup. You can upload a CSV or Excel file directly in ChatGPT, paste in a table, or connect a data source (if supported in your workspace), then start asking questions in plain language. You can also use ChatGPT within Excel and Google Sheets, provided your workspace settings allow it.
 
-Instead of building formulas, pivot tables, or dashboards for every question, you can quickly explore data, clean up tables, generate simple visualizations, and extract key takeaways in a format that's easy to share. It’s especially useful early in the process—when you’re still figuring out what’s in the data, identifying anomalies, and deciding where to dig deeper. It also helps translate findings into summaries others can review and act on.
+Instead of building formulas, pivot tables, or dashboards for every question, you can quickly explore data, clean up tables, generate simple visualizations, and extract key takeaways in a format that’s easy to share. It’s especially useful early in the process—when you’re still figuring out what’s in the data, identifying anomalies, and deciding where to dig deeper. It also helps translate findings into summaries others can review and act on.
 
 ## Data analysis directly in ChatGPT
 
@@ -235,6 +229,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

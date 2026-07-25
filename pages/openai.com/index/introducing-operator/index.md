@@ -47,18 +47,16 @@ How Operator works
   * Ecosystem & users
   * Safety and privacy 
   * Limitations
-  * What's next
+  * What’s next
 
 
-
-Table of contents
 
   * How Operator works
   * How to use
   * Ecosystem & users
   * Safety and privacy 
   * Limitations
-  * What's next
+  * What’s next
 
 
 
@@ -94,7 +92,7 @@ CustomizingOptimizing
 
 [ _Operator_ ⁠(opens in a new window)](<https://operator.chatgpt.com>) transforms AI from a passive tool to an active participant in the digital ecosystem. It will streamline tasks for users and bring the benefits of agents to companies that want innovative customer experiences and desire higher rates of conversion. We’re collaborating with companies like DoorDash, Instacart, OpenTable, Priceline, StubHub, Thumbtack, Uber, and others to ensure Operator addresses real-world needs while respecting established norms. In addition to these collaborations, we see a lot of potential to improve the accessibility and efficiency of certain workflows, particularly in public sector applications. To explore these use cases further, we’re working with organizations like the [_City of Stockton_ ⁠(opens in a new window)](<https://www.stocktonca.gov/>) to make it easier to enroll in city services and programs.
 
-> “As we learn more about Operator during its research preview, we'll be better equipped to identify ways that AI can make civic engagement even easier for our residents.”
+> “As we learn more about Operator during its research preview, we’ll be better equipped to identify ways that AI can make civic engagement even easier for our residents.”
 
 Jamil Niazi, Director of Information Technology at City of Stockton
 
@@ -140,7 +138,7 @@ While Operator is designed with these safeguards, no system is flawless and this
 
 Operator is currently in an early research preview, and while it’s already capable of handling a wide range of tasks, it’s still learning, evolving and may make mistakes. For instance, it currently encounters challenges with complex interfaces like creating slideshows or managing calendars. Early user feedback will play a vital role in enhancing its accuracy, reliability, and safety, helping us make Operator better for everyone.
 
-## What's next
+## What’s next
 
 **CUA in the API:** We plan to expose the model powering Operator, [CUA](</index/computer-using-agent/>), in the API soon so that developers can use it to build their own computer-using agents. 
 
@@ -186,9 +184,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -225,6 +223,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -258,6 +258,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

@@ -26,6 +26,18 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
+February 13, 2024
+
+[Product](</news/product-releases/>)
+
+# Memory and new controls for ChatGPT
+
+![A minimal abstract painting featuring soft, cloud-like forms in muted pink, peach, and tan against a gradient background of blue and beige.](https://images.ctfassets.net/kftzwdyauwt9/2lW7hRxuHUPhPhneJvRHda/e45e7e76c1046d72f1223d5769feb649/Memory_and_new__controls_for_ChatGPT.png?w=3840&q=90&fm=webp)
+
+Loading…
+
+Share
+
 How memory works
 
   * How memory works
@@ -38,17 +50,15 @@ How memory works
 
 
 
-February 13, 2024
+  * How memory works
+  * You’re in control
+  * Use temporary chat for conversations without memory
+  * Custom instructions also allow ChatGPT to be more helpful
+  * Evolving our privacy and safety standards
+  * Team and Enterprise customers can work more efficiently
+  * GPTs will also have memory
 
-[Product](</news/product-releases/>)
 
-# Memory and new controls for ChatGPT
-
-![A minimal abstract painting featuring soft, cloud-like forms in muted pink, peach, and tan against a gradient background of blue and beige.](https://images.ctfassets.net/kftzwdyauwt9/2lW7hRxuHUPhPhneJvRHda/e45e7e76c1046d72f1223d5769feb649/Memory_and_new__controls_for_ChatGPT.png?w=3840&q=90&fm=webp)
-
-Loading…
-
-Share
 
   *  _June 3, 2025 update: Memory improvements are starting to roll out for free users. In addition to the saved memories that were there before, ChatGPT now references your recent conversations to provide more personalized responses._
   * _Free users have a lightweight version of memory improvements that provides short term continuity across conversations. Memory for Plus and Pro users provides a longer term understanding of the user._
@@ -80,7 +90,7 @@ We are rolling out to a small portion of ChatGPT free and Plus users this week t
 
 ## How memory works
 
-As you chat with ChatGPT, you can ask it to remember something specific or let it pick up details itself. ChatGPT’s memory will get better the more you use it and you'll start to notice the improvements over time. For example: 
+As you chat with ChatGPT, you can ask it to remember something specific or let it pick up details itself. ChatGPT’s memory will get better the more you use it and you’ll start to notice the improvements over time. For example: 
 
   * You’ve explained that you prefer meeting notes to have headlines, bullets and action items summarized at the bottom. ChatGPT remembers this and recaps meetings this way.
   * You’ve told ChatGPT you own a neighborhood coffee shop. When brainstorming messaging for a social post celebrating a new location, ChatGPT knows where to start. 
@@ -91,19 +101,19 @@ As you chat with ChatGPT, you can ask it to remember something specific or let i
 
 ## You’re in control
 
-You can turn off memory at any time (Settings > Personalization > Memory). While memory is off, you won't create or use memories.
+You can turn off memory at any time (Settings > Personalization > Memory). While memory is off, you won’t create or use memories.
 
 Loading...
 
-If you want ChatGPT to forget something, just tell it. You can also view and delete specific memories or clear all memories in settings (Settings > Personalization > Manage Memory). ChatGPT's memories evolve with your interactions and aren't linked to specific conversations. Deleting a chat doesn't erase its memories; you must delete the memory itself. You can find more details in our [Help Center⁠(opens in a new window)](<https://help.openai.com/en/articles/8590148-memory-faq>).
+If you want ChatGPT to forget something, just tell it. You can also view and delete specific memories or clear all memories in settings (Settings > Personalization > Manage Memory). ChatGPT's memories evolve with your interactions and aren’t linked to specific conversations. Deleting a chat doesn’t erase its memories; you must delete the memory itself. You can find more details in our [Help Center⁠(opens in a new window)](<https://help.openai.com/en/articles/8590148-memory-faq>).
 
 Loading...
 
-We may use content that you provide to ChatGPT, including memories, to improve our models for everyone. If you’d like, you can turn this off through your Data Controls. As always, we won't train on content from ChatGPT Team and Enterprise customers. Learn more about how we use content to train our models and your choices in our [Help Center⁠(opens in a new window)](<https://help.openai.com/en/articles/5722486-how-your-data-is-used-to-improve-model-performance>).
+We may use content that you provide to ChatGPT, including memories, to improve our models for everyone. If you’d like, you can turn this off through your Data Controls. As always, we won’t train on content from ChatGPT Team and Enterprise customers. Learn more about how we use content to train our models and your choices in our [Help Center⁠(opens in a new window)](<https://help.openai.com/en/articles/5722486-how-your-data-is-used-to-improve-model-performance>).
 
 ## Use temporary chat for conversations without memory
 
-If you’d like to have a conversation without using memory, use temporary chat. Temporary chats won't appear in history, won't use memory, and won't be used to train our models. Learn more about temporary chats in our [Help Center⁠(opens in a new window)](<https://help.openai.com/en/articles/8914046-temporary-chat-faq>).
+If you’d like to have a conversation without using memory, use temporary chat. Temporary chats won’t appear in history, won’t use memory, and won’t be used to train our models. Learn more about temporary chats in our [Help Center⁠(opens in a new window)](<https://help.openai.com/en/articles/8914046-temporary-chat-faq>).
 
 Loading...
 
@@ -139,7 +149,7 @@ GPTs will have their own distinct memory. Builders will have the option to enabl
 
 Each GPT has its own memory, so you might need to repeat details you’ve previously shared with ChatGPT. For example:
 
-  * If you're using the [Artful Greeting Card GPT⁠(opens in a new window)](<https://chat.openai.com/g/g-SnF78wo4p-artful-greeting-ai-cards>) to create a birthday card for your daughter, it won’t know her age or that she loves jellyfish. You’ll need to tell it the relevant details.
+  * If you’re using the [Artful Greeting Card GPT⁠(opens in a new window)](<https://chat.openai.com/g/g-SnF78wo4p-artful-greeting-ai-cards>) to create a birthday card for your daughter, it won’t know her age or that she loves jellyfish. You’ll need to tell it the relevant details.
 
 
 
@@ -181,9 +191,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -220,6 +230,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -253,6 +265,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

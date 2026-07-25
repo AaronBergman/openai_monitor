@@ -26,15 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-More capability, more control
-
-  * More capability, more control
-  * Get work done for you
-  * What’s next
-  * Livestream replay
-
-
-
 October 21, 2025
 
 [Product](</news/product-releases/>)
@@ -48,6 +39,22 @@ The browser with ChatGPT built in.
 Loading…
 
 Share
+
+More capability, more control
+
+  * More capability, more control
+  * Get work done for you
+  * What’s next
+  * Livestream replay
+
+
+
+  * More capability, more control
+  * Get work done for you
+  * What’s next
+  * Livestream replay
+
+
 
 Today we’re introducing ChatGPT Atlas, a new web browser built with ChatGPT at its core.
 
@@ -93,7 +100,7 @@ Browser memories are private to your ChatGPT account and under your control. You
 
 ![Browser window showing a security dropdown menu with connection and privacy options. The highlighted setting is ‘ChatGPT page visibility,’ with sub-options ‘Allowed’ and ‘Not Allowed’—the latter currently selected. A note below explains that when disabled, ChatGPT can’t see the contents of the website.](https://images.ctfassets.net/kftzwdyauwt9/7oEsl7Rm4g1yhZXbmKHquL/c4c63c00f03707310708d103aa8963d9/Privacy.png?w=3840&q=90&fm=webp)
 
-By default, we don’t use the content you browse to train our models. If you choose to opt-in this content, you can enable “include web browsing” in your data controls settings. Note, even if you opt into training, webpages that opt out of GPTBot, will not be trained on. If you've enabled training for chats in your ChatGPT account, training will also be enabled for chats in Atlas. This includes website content you've attached when using the Ask ChatGPT sidebar and browser memories that inform your chats.
+By default, we don’t use the content you browse to train our models. If you choose to opt-in this content, you can enable “include web browsing” in your data controls settings. Note, even if you opt into training, webpages that opt out of GPTBot, will not be trained on. If you’ve enabled training for chats in your ChatGPT account, training will also be enabled for chats in Atlas. This includes website content you’ve attached when using the Ask ChatGPT sidebar and browser memories that inform your chats.
 
 Parental controls work in Atlas, too. If a parent has set up parental controls for ChatGPT, these settings will carry over to conversations with ChatGPT in Atlas. We’re also introducing new parental controls in Atlas, including the option for parents to turn off browser memories and agent mode.
 
@@ -101,13 +108,13 @@ Parental controls work in Atlas, too. If a parent has set up parental controls f
 
 In Atlas, you can now ask ChatGPT to take action and do things for you right in your own browser.
 
-Earlier this year, we introduced [ChatGPT agent⁠](</index/introducing-chatgpt-agent/>), and now we've made it work faster and natively in Atlas.
+Earlier this year, we introduced [ChatGPT agent⁠](</index/introducing-chatgpt-agent/>), and now we’ve made it work faster and natively in Atlas.
 
 Imagine you’re planning a dinner party and you have a recipe in mind. You can give the recipe to ChatGPT and ask it to find a grocery store, add all the ingredients to a cart, and order them to your house. At work, you can ask ChatGPT to open and read through past team documents, perform new competitive research, and compile insights into a team brief.
 
 When you ask a question, ChatGPT may ask you if it should start opening tabs and clicking in your browser to complete the task. You can also select the agent mode button to have ChatGPT start.
 
-Starting today, agent mode in Atlas is launching in preview to Plus, Pro and Business users. It is an early experience and may make mistakes on complex workflows. We're rapidly improving reliability, latency and complex task success.
+Starting today, agent mode in Atlas is launching in preview to Plus, Pro and Business users. It is an early experience and may make mistakes on complex workflows. We’re rapidly improving reliability, latency and complex task success.
 
 ![Desktop browser window showing an Instacart integration with ChatGPT. On the left, the Instacart store page for Power Sporting Goods lists categories like Shoes, Sports Gear, and Camping, with product deals including sunscreen, pickleballs, beach towels, and a black bucket hat. On the right, ChatGPT responds to the prompt ‘Heading to the beach with the kids tomorrow! Can you grab the usual beach-day stuff?’ by confirming it’s fulfilling a beach essentials request and explaining its item choices, such as SPF 50 sunscreen.](https://images.ctfassets.net/kftzwdyauwt9/7vBVya3XA6w2Sbq74ENNIi/b65385435d060532d89225d937942e77/Agent__5_.png?w=3840&q=90&fm=webp)
 
@@ -115,14 +122,14 @@ We prioritized safety as we built ChatGPT’s agent capabilities in Atlas, and a
 
   * It cannot run code in the browser, download files, or install extensions
   * It cannot access other apps on your computer or file system
-  * It will pause to ensure you're watching it take actions on specific sensitive sites such as financial institutions
+  * It will pause to ensure you’re watching it take actions on specific sensitive sites such as financial institutions
   * You can use agent in logged out mode to limit its access to sensitive data and the risk of it taking actions as you on websites
 
 
 
-ChatGPT's agent capabilities still carry risk. Besides simply making mistakes when acting on your behalf, agents are susceptible to hidden malicious instructions, which may be hidden in places such as a webpage or email with the intention that the instructions override ChatGPT agent’s intended behavior. This could lead to stealing data from sites you're logged into or taking actions you didn't intend.
+ChatGPT's agent capabilities still carry risk. Besides simply making mistakes when acting on your behalf, agents are susceptible to hidden malicious instructions, which may be hidden in places such as a webpage or email with the intention that the instructions override ChatGPT agent’s intended behavior. This could lead to stealing data from sites you’re logged into or taking actions you didn’t intend.
 
-As outlined in the ChatGPT agent [system card⁠](</index/chatgpt-agent-system-card/>), we've run thousands of hours of focused red-teaming and have placed a particular emphasis on safeguarding ChatGPT from such attacks, including designing our safeguards so they can be quickly adapted to novel attacks, but our safeguards will not stop every attack that emerges as AI agents grow in popularity. Users should weigh the tradeoffs when deciding what information to provide to the agent, as well as take steps to minimize their exposure to these risks such as using ChatGPT agent in logged-out mode in Atlas and monitoring agent’s activities. We will continually monitor and patch any vulnerabilities that we discover. 
+As outlined in the ChatGPT agent [system card⁠](</index/chatgpt-agent-system-card/>), we’ve run thousands of hours of focused red-teaming and have placed a particular emphasis on safeguarding ChatGPT from such attacks, including designing our safeguards so they can be quickly adapted to novel attacks, but our safeguards will not stop every attack that emerges as AI agents grow in popularity. Users should weigh the tradeoffs when deciding what information to provide to the agent, as well as take steps to minimize their exposure to these risks such as using ChatGPT agent in logged-out mode in Atlas and monitoring agent’s activities. We will continually monitor and patch any vulnerabilities that we discover. 
 
 This launch marks a step toward a future where most web use happens through agentic systems—where you can delegate the routine and stay focused on what matters most.
 
@@ -149,19 +156,17 @@ OpenAI
 
 [View all](</news/>)
 
-![Art Card 1080x1080 \(3\)](https://images.ctfassets.net/kftzwdyauwt9/3JLNH7ejJFnxLmX2LpzoKD/19f9e3c4d36cc9d677ba88e842ad2db2/Art_Card_1080x1080__4_.png?w=3840&q=90&fm=webp)
+![Health in ChatGPT > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/48aIp3cQOKJ57vpQeqOb8y/2e8732bcad5ceea1c7b20cf001bd2823/1_1_Art_Card.png?w=3840&q=90&fm=webp)
 
-Better memory for a more helpful ChatGPT
+[Launching Health in ChatGPT ProductJul 23, 2026](</index/health-in-chatgpt/>)
 
-[Dreaming: Better memory for a more helpful ChatGPTResearchJun 4, 2026](</index/chatgpt-memory-dreaming/>)
+![OpenAI Presence 1x1](https://images.ctfassets.net/kftzwdyauwt9/5JBDenSGI6wx5CMPPlaM5J/da9d8e27a0bd70d845a816b28ac641a9/OpenAI_Presence_1x1.png?w=3840&q=90&fm=webp)
 
-![Rosalind5.5 ArtCard](https://images.ctfassets.net/kftzwdyauwt9/6USIQM1B7TggUvvTFxxwoi/0176ac6633c8bdc24641d25d1d2db824/GPT-Rosalind_ArtCard.png?w=3840&q=90&fm=webp)
+[Introducing OpenAI PresenceProductJul 22, 2026](</index/introducing-openai-presence/>)
 
-[Introducing new capabilities to GPT-RosalindProductJun 3, 2026](</index/introducing-new-capabilities-to-gpt-rosalind/>)
+![GPT-5.6 is now the preferred model in Microsoft 365 Copilot > Cover image](https://images.ctfassets.net/kftzwdyauwt9/3MPipvFMxS8m3kTyCtwFgj/015747dcd34cb667a221688cfca64e0f/Frame.png?w=3840&q=90&fm=webp)
 
-![1 1 Art Card](https://images.ctfassets.net/kftzwdyauwt9/4xugzd9dTDMUzIUmuamtO3/1f40af4e50ab8b2bdd64d5b491964961/1_1_Art_Card.png?w=3840&q=90&fm=webp)
-
-[Codex for every role, tool, and workflowProductJun 2, 2026](</index/codex-for-every-role-tool-workflow/>)
+[GPT-5.6 is now the preferred model in Microsoft 365 CopilotProductJul 9, 2026](</index/gpt-5-6-preferred-model-microsoft-365-copilot/>)
 
 Research
 
@@ -173,9 +178,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -212,6 +217,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -245,6 +252,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

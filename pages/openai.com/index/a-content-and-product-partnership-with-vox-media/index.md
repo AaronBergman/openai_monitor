@@ -50,7 +50,7 @@ Vox Media will also use OpenAI technology to extend the leadership of Forte, its
 
 “As the media and technology landscapes change, it’s vital that accurate, trustworthy information reaches the public, and this partnership recognizes that human creativity and quality journalism are a key part of responsible deployment of generative AI,” said Pam Wasserstein, president of Vox Media.
 
-"We're excited to partner with Vox Media to give our audiences the best experiences at the intersection of AI and media. Working together, we can drive forward with innovation while amplifying the work of journalists," said Brad Lightcap, COO, OpenAI.
+"We’re excited to partner with Vox Media to give our audiences the best experiences at the intersection of AI and media. Working together, we can drive forward with innovation while amplifying the work of journalists," said Brad Lightcap, COO, OpenAI.
 
   * [Partnerships](</news/?tags=partnerships>)
   * [2024](</news/?tags=2024>)
@@ -71,9 +71,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -110,6 +110,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -143,6 +145,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

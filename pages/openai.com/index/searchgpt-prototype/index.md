@@ -59,7 +59,7 @@ You’ll be able to ask follow-up questions, like you would in a conversation wi
 We are committed to a thriving ecosystem of publishers and creators. We hope to help users discover publisher sites and experiences, while bringing more choice to search. For decades, search has been a foundational way for publishers and creators to reach users. Now, we’re using AI to enhance this experience by highlighting high quality content in a conversational interface with multiple opportunities for users to engage.  
 
 
-> “AI search is going to become one of the key ways that people navigate the internet, and it's crucial, in these early days, that the technology is built in a way that values, respects, and protects journalism and publishers. We look forward to partnering with OpenAI in the process, and creating a new way for readers to discover The Atlantic.”
+> “AI search is going to become one of the key ways that people navigate the internet, and it’s crucial, in these early days, that the technology is built in a way that values, respects, and protects journalism and publishers. We look forward to partnering with OpenAI in the process, and creating a new way for readers to discover The Atlantic.”
 
 Nicholas Thompson, CEO of The Atlantic
 
@@ -98,9 +98,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -137,6 +137,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -170,6 +172,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

@@ -58,7 +58,7 @@ MavenAGI works by training GPT‑4 to the context of customer service in three s
 
 
 
-“One of the advantages of this generation of AI versus the last generation models is actually you don't really need that much data for any given customer,” CTO Sami Shalabi says. “Evaluation at scale is the magic sauce. The Maven approach has been validated with over 1M customer interactions. Our platform provides the tools that the head of support, CX, and product need to confidently answer any question their customers throw at it.”
+“One of the advantages of this generation of AI versus the last generation models is actually you don’t really need that much data for any given customer,” CTO Sami Shalabi says. “Evaluation at scale is the magic sauce. The Maven approach has been validated with over 1M customer interactions. Our platform provides the tools that the head of support, CX, and product need to confidently answer any question their customers throw at it.”
 
 ## Improving support at several touchpoints
 
@@ -106,9 +106,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -145,6 +145,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -178,6 +180,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

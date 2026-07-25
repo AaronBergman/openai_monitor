@@ -69,28 +69,18 @@ Share
 Solving catalog quality at scale
 
   * Solving catalog quality at scale
-
   * Building a reusable AI architecture
-
   * Rethinking supplier support workflows with Wilma
-
   * Results at a glance
-
   * What’s next 
-
 
 
 
   * Solving catalog quality at scale
-
   * Building a reusable AI architecture
-
   * Rethinking supplier support workflows with Wilma
-
   * Results at a glance
-
   * What’s next 
-
 
 
 
@@ -107,7 +97,7 @@ Solving catalog quality at scale
 
 Wayfair’s catalog team manages tens of millions of products across nearly a thousand different product classes. Consistent and accurate product attribute tags—such as color, material, size or specific features—are essential for search, recommendations and merchandising. 
 
-"The better our data quality, the more trust we build with the customer. It's essential because it empowers shoppers to make the right buying decisions, directly reducing costly downstream issues like returns from misrepresented products," said Jessica D'Arcy, Associate Director of Catalog Merchandising at Wayfair. 
+"The better our data quality, the more trust we build with the customer. It’s essential because it empowers shoppers to make the right buying decisions, directly reducing costly downstream issues like returns from misrepresented products," said Jessica D'Arcy, Associate Director of Catalog Merchandising at Wayfair. 
 
 Before OpenAI, tagging improvements primarily relied on suppliers and customers to tell Wayfair that something looked wrong. Manual effort could not keep up with the volume. Early custom AI models for individual tags were effective, but proved expensive to build and maintain. “We started by building bespoke models for individual tags, and technically that worked,” said Carolyn Phillips, Wayfair’s staff machine learning scientist. “But when you’re looking at 47,000 tags, that approach just doesn’t scale.”
 
@@ -120,7 +110,7 @@ To get beyond one-off models, Wayfair created a tag-agnostic system built on a s
 
 The system has now run in production on more than 1 million products. And the first wave of products with enhanced attributes has now been live long enough to measure the impact of improving data quality on the customer journey. “When you improve attribute completeness, it’s not abstract. You see it show up in SEO and PLA performance—in how customers discover products,” said Phillips. A controlled A/B test showed a substantial and significant increase in impressions, clicks, and page rank in the treatment group.
 
-However, Wayfair didn't simply hand off decisions on correcting product data to the model. “Our objective is to build trust so that customers are completely confident in what they are purchasing,” said Phillips. The company developed structured testing using a hands-on audit process in which associates physically inspect samples to validate model output, and worked with suppliers to validate changes. Now, when data-based confidence is high, automated systems will overwrite the content directly and notify the supplier of the change. And, when a high standard is not met or the tag is deemed high risk, Wayfair first seeks supplier confirmation before making the change.
+However, Wayfair didn’t simply hand off decisions on correcting product data to the model. “Our objective is to build trust so that customers are completely confident in what they are purchasing,” said Phillips. The company developed structured testing using a hands-on audit process in which associates physically inspect samples to validate model output, and worked with suppliers to validate changes. Now, when data-based confidence is high, automated systems will overwrite the content directly and notify the supplier of the change. And, when a high standard is not met or the tag is deemed high risk, Wayfair first seeks supplier confirmation before making the change.
 
 ## Rethinking supplier support workflows with Wilma
 
@@ -183,17 +173,17 @@ More than 1 million businesses around the world are achieving meaningful results
 
 ## Keep reading
 
-![How to manage AI investments in the agentic era > Cover image](https://images.ctfassets.net/kftzwdyauwt9/1qXMreHMXalbFSVXr2CJXW/acbd7f4e05bd38b80a99523967ef69b7/Frame.png?w=3840&q=90&fm=webp)
+![Health in ChatGPT > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/48aIp3cQOKJ57vpQeqOb8y/2e8732bcad5ceea1c7b20cf001bd2823/1_1_Art_Card.png?w=3840&q=90&fm=webp)
 
-[How to manage AI investments in the agentic eraAI AdoptionJul 14, 2026](</index/managing-ai-investments-in-agentic-era/>)
+[Launching Health in ChatGPT ProductJul 23, 2026](</index/health-in-chatgpt/>)
 
-![How data science teams use Codex > card image](https://images.ctfassets.net/kftzwdyauwt9/xyevYnp4Ptaa1eMgBDNjS/75fea80018f321b89809d893f1a5786d/data_science_teams.png?w=3840&q=90&fm=webp)
+![effingham county 1x1](https://images.ctfassets.net/kftzwdyauwt9/3f1fyaaSZELql3zECUImW3/1733a5ee7f07da894b993dcff75bea66/effingham_county_1x1.png?w=3840&q=90&fm=webp)
 
-[How data science teams use ChatGPT Work | OpenAIOpenAI AcademyJul 14, 2026](</academy/codex-for-work/how-data-science-teams-use-codex/>)
+[Building AI infrastructure with the Effingham County communityGlobal AffairsJul 22, 2026](</index/building-ai-infrastructure-with-the-effingham-county-community/>)
 
-![How sales teams use Codex > card image](https://images.ctfassets.net/kftzwdyauwt9/1O4te2wMh6O77eDV6kapG3/02845b054a09297b9fada40c4cc9a71f/sales_teams.png?w=3840&q=90&fm=webp)
+![How news organizations are using AI > Card Image](https://images.ctfassets.net/kftzwdyauwt9/5nTzxwRy4Is9PQSluyYkWP/d6e7953a692a5a8c926885e2f50a3427/how_news_orgs_use_AI_1x1.png?w=3840&q=90&fm=webp)
 
-[How sales teams use ChatGPT Work | OpenAIOpenAI AcademyJul 14, 2026](</academy/codex-for-work/how-sales-teams-use-codex/>)
+[How news organizations use AI to advance their vital missionsCompanyJul 22, 2026](</index/how-news-organizations-are-using-ai/>)
 
 Research
 
@@ -279,6 +269,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

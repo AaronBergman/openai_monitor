@@ -44,7 +44,7 @@ Foreword
 
   * Foreword
     * Artificial intelligence is accelerating on every front
-    * What we'll cover in this guide
+    * What we’ll cover in this guide
   * Principle 01: Align
     * Alignment practices we’ve seen work
     * Reflection questions and how to get started
@@ -67,7 +67,7 @@ Foreword
 
   * Foreword
     * Artificial intelligence is accelerating on every front
-    * What we'll cover in this guide
+    * What we’ll cover in this guide
   * Principle 01: Align
     * Alignment practices we’ve seen work
     * Reflection questions and how to get started
@@ -114,7 +114,7 @@ Adoption
 
 * * *
 
-### What we'll cover in this guide
+### What we’ll cover in this guide
 
 We’ve captured these 5 principles from conversations with our customers and we’ll share guidance, practical tips, and customer stories throughout.
 
@@ -143,7 +143,7 @@ Employees adopt change faster when they clearly see how new AI initiatives enhan
 
 ##### Executive storytelling to set the vision
 
-Be specific on why AI adoption is key to your company's future, whether it's keeping pace with competitors, responding to evolving customer expectations, or sustaining growth. When employees hear a thoughtful “why,” it creates trust and clarity, helping them see how these changes align with their own work and goals.
+Be specific on why AI adoption is key to your company's future, whether it’s keeping pace with competitors, responding to evolving customer expectations, or sustaining growth. When employees hear a thoughtful “why,” it creates trust and clarity, helping them see how these changes align with their own work and goals.
 
 ##### Set a company-wide AI adoption goal
 

@@ -26,15 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Objectivity by default 
-
-  * Objectivity by default 
-  * Upholding intellectual freedom
-  * Customization you control
-  * Evaluating our work so we can improve 
-
-
-
 July 15, 2025
 
 [Global Affairs](</news/global-affairs/>)
@@ -48,6 +39,22 @@ ChatGPT is designed to be useful, trustworthy, and adaptable so you can make it 
 Loading…
 
 Share
+
+Objectivity by default 
+
+  * Objectivity by default 
+  * Upholding intellectual freedom
+  * Customization you control
+  * Evaluating our work so we can improve 
+
+
+
+  * Objectivity by default 
+  * Upholding intellectual freedom
+  * Customization you control
+  * Evaluating our work so we can improve 
+
+
 
 Millions of people around the world use ChatGPT every day. The most common reason people turn to it is simple: to learn. As AI becomes not just more powerful, but more widely used across cultures, professions, and political perspectives, it’s critical that these tools support intellectual freedom. That means helping people ask their own questions, follow their own reasoning, and make up their own minds.
 
@@ -81,7 +88,7 @@ Getting this right is an ongoing effort and we’re not doing it alone.
 
 Over the past several months, we’ve held feedback sessions with users and civil society organizations across the political spectrum to better understand how ChatGPT performs in real-world conversations. These sessions have helped surface gaps, given us a better understanding of user expectations, and are informing how we evaluate the model’s behavior going forward.
 
-We’ve also launched a new initiative to improve how we assess political bias and objectivity. Traditional evaluations—tests run to measure model responses against a rubric—don't necessarily reflect how people actually use ChatGPT. Most users don't ask ChatGPT to pick an option in a multiple-choice compass test, nor even directly ask ChatGPT questions about its beliefs. So we’re developing new evaluations designed specifically to identify political bias, grounded in everyday use: how people ask questions, explore ideas, and learn. This will give us a clearer understanding of what balance, accuracy, and trustworthiness look like in practice—not just in theory.
+We’ve also launched a new initiative to improve how we assess political bias and objectivity. Traditional evaluations—tests run to measure model responses against a rubric—don’t necessarily reflect how people actually use ChatGPT. Most users don’t ask ChatGPT to pick an option in a multiple-choice compass test, nor even directly ask ChatGPT questions about its beliefs. So we’re developing new evaluations designed specifically to identify political bias, grounded in everyday use: how people ask questions, explore ideas, and learn. This will give us a clearer understanding of what balance, accuracy, and trustworthiness look like in practice—not just in theory.
 
 Bias evaluation is complex and requires nuance; we don’t expect to get everything right in a vacuum. We welcome feedback and will share more soon about our approach, which we hope will be helpful to others working on this challenge across the AI ecosystem.
 
@@ -97,17 +104,17 @@ OpenAI
 
 [View all](</news/>)
 
-![oai 1x1 Biodefense in the Intelligence Age](https://images.ctfassets.net/kftzwdyauwt9/6A4rrCBs9rrlbzm9JWIvSi/8a4ae56849fcd0b16e90b59b8babc613/oai_1x1_Biodefense_in_the_Intelligence_Age.png?w=3840&q=90&fm=webp)
+![effingham county 1x1](https://images.ctfassets.net/kftzwdyauwt9/3f1fyaaSZELql3zECUImW3/1733a5ee7f07da894b993dcff75bea66/effingham_county_1x1.png?w=3840&q=90&fm=webp)
 
-[Biodefense in the Intelligence AgeGlobal AffairsJun 4, 2026](</index/biodefense-in-the-intelligence-age/>)
+[Building AI infrastructure with the Effingham County communityGlobal AffairsJul 22, 2026](</index/building-ai-infrastructure-with-the-effingham-county-community/>)
 
-![OpenAI’s public policy agenda > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/CdH7XdsXfpUaYZJpeCwwz/76b975c66fce3ce5ec4a901b4f675369/Frame.png?w=3840&q=90&fm=webp)
+![Advancing the next era of national science card image](https://images.ctfassets.net/kftzwdyauwt9/1aUcaaPHlPQbaN0EzEUrEc/95d5f6d78ab308305bf4781c07ccc4fd/Advancing_the_next_era_of_national_science_1x1.png?w=3840&q=90&fm=webp)
 
-[OpenAI public policy agendaGlobal AffairsJun 3, 2026](</index/public-policy-agenda/>)
+[Advancing the next era of national scienceGlobal AffairsJul 22, 2026](</index/advancing-the-next-era-of-national-science/>)
 
-![Frontier Safety Blueprint > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/6zU111Ouj65b8iZJnswHBe/a705de1c90ab048510532db2f53f12f3/Frame.png?w=3840&q=90&fm=webp)
+![Helping build shared standards for advanced AI - card image](https://images.ctfassets.net/kftzwdyauwt9/5bSU7ItzcBWGtWhApmmJ6X/a818a91ef36b39ed07d62566ec318760/Frame2.png?w=3840&q=90&fm=webp)
 
-[A blueprint for democratic governance of frontier AIGlobal AffairsJun 3, 2026](</index/frontier-safety-blueprint/>)
+[The US is advancing AI safety through state and federal actionGlobal AffairsJul 15, 2026](</index/advancing-ai-safety-through-state-and-federal-action/>)
 
 Research
 
@@ -119,9 +126,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -158,6 +165,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -191,6 +200,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

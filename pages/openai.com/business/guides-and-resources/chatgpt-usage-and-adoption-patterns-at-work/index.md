@@ -102,7 +102,7 @@ When ChatGPT was released in November 2022, it mostly targeted a small group of 
 
 Widespread personal use rapidly spread to the workplace. As the statistics show, consumer adoption is very likely advancing AI at work. 
 
-This is a path we've often seen before: software that gains traction with consumers makes its way into the workplace, often driven most heavily by younger employees. ChatGPT is following that same pattern, reflected in its rapid growth in weekly active users, high penetration with workers under 30, and frequent-often daily-use.
+This is a path we’ve often seen before: software that gains traction with consumers makes its way into the workplace, often driven most heavily by younger employees. ChatGPT is following that same pattern, reflected in its rapid growth in weekly active users, high penetration with workers under 30, and frequent-often daily-use.
 
 ![Alt text: Line chart titled “ChatGPT Weekly Active Users \(Nov ’23 – July ’25\).” The chart shows steady growth in weekly active users over time. Users increase from about 90 million in November 2023 to roughly 110 million in December 2023, around 130 million in January 2024, and about 150 million by mid-2024. Growth accelerates through late 2024, reaching roughly 190 million in September and about 235 million in November 2024. In 2025, growth steepens sharply: around 300 million in January, about 400 million in February, approximately 510 million in March, 600 million in May, and nearly 680 million by July 2025. The overall trend is strongly upward, with the steepest increases occurring in early to mid-2025.](https://images.ctfassets.net/kftzwdyauwt9/4uEvWcmvZOpQIOoptJ4baD/bee120679f105f6d71b00d06375baec6/Group_2147225538.png?w=3840&q=90&fm=webp)
 
@@ -172,7 +172,7 @@ Design teams stand out for their use of media generation, relying on it 2–4x m
 
 
 
-All go-to-market teams use ChatGPT most for writing, research and media generation tasks, but in different ways. Here are some sample prompts indicating the type of queries we're seeing:
+All go-to-market teams use ChatGPT most for writing, research and media generation tasks, but in different ways. Here are some sample prompts indicating the type of queries we’re seeing:
 
 _Note: the above synthetic prompts are examples written specifically for this report solely for illustrative purposes_
 

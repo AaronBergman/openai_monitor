@@ -26,6 +26,16 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
+May 14, 2026
+
+# Sea's View on the Future of Agentic Software Development with Codex
+
+A conversation with David Chen, Co-Founder of Sea and Chief Product Officer at Shopee.
+
+![Deep blue and orange abstract gradient background with soft, blurry vertical shapes. White text reads ‘Executive Function’ on the left and ‘Ep 20’ on the right.](https://images.ctfassets.net/kftzwdyauwt9/3GtC4ObJd8RLwLe2OIIsyb/06f9c687583df8c348fa7c9ceac493ab/EF_Ep20_16.9.png?w=3840&q=90&fm=webp)
+
+Share
+
 Our Executive Function series features perspectives from leaders driving transformation through AI.
 
   * Our Executive Function series features perspectives from leaders driving transformation through AI.
@@ -37,15 +47,14 @@ Our Executive Function series features perspectives from leaders driving transfo
 
 
 
-May 14, 2026
+  * Our Executive Function series features perspectives from leaders driving transformation through AI.
+  * David, Sea operates across some of the most dynamic markets in Southeast Asia. What was the strategic thinking behind rolling out Codex across your entire development organisation, and what stood out about the product?
+  * What stood out about Codex in particular? 
+  * Internal feedback points to strong usage across code understanding, debugging, and feature development. What does that reveal about how developers are using Codex day to day, and how AI agents are beginning to change software development at Sea?
+  * Looking ahead, what role do you think Southeast Asia and the broader Asia region will play in shaping the next generation of AI-native software development? How do you see AI agents changing the structure of software teams, and what would you say to other technology leaders in Asia considering this shift?
+  * Beyond Sea’s own internal adoption, the company has partnered with OpenAI to host the first regional Codex Hackathon Series across Asia, beginning in Singapore before heading to markets including Indonesia, Taiwan, and Vietnam. Why was it important to bring this to the broader developer community?
 
-# Sea's View on the Future of Agentic Software Development with Codex
 
-A conversation with David Chen, Co-Founder of Sea and Chief Product Officer at Shopee.
-
-![Deep blue and orange abstract gradient background with soft, blurry vertical shapes. White text reads ‘Executive Function’ on the left and ‘Ep 20’ on the right.](https://images.ctfassets.net/kftzwdyauwt9/3GtC4ObJd8RLwLe2OIIsyb/06f9c687583df8c348fa7c9ceac493ab/EF_Ep20_16.9.png?w=3840&q=90&fm=webp)
-
-Share
 
 ### Our Executive Function series features perspectives from leaders driving transformation through AI.
 
@@ -57,7 +66,7 @@ We spoke with David Chen, Co-Founder of Sea and Chief Product Officer at Sea's e
 
 ### David, Sea operates across some of the most dynamic markets in Southeast Asia. What was the strategic thinking behind rolling out Codex across your entire development organisation, and what stood out about the product?
 
-At Sea’s scale, engineering isn't just about writing code. It’s about managing large-scale systemic complexity across fragmented, hyper-localized markets. We see the ongoing developments in AI leading to a fundamental shift in how software is created and how our engineering teams operate at scale. 
+At Sea’s scale, engineering isn’t just about writing code. It’s about managing large-scale systemic complexity across fragmented, hyper-localized markets. We see the ongoing developments in AI leading to a fundamental shift in how software is created and how our engineering teams operate at scale. 
 
 Agentic AI coding tools like Codex are not just about improving localised productivity. They represent a structural multiplier that can help our engineering organisation ramp up speed, responsiveness, and effectiveness amid an increasingly complex operating environment.
 
@@ -97,17 +106,17 @@ This is about building a compounding AI-native talent ecosystem. By upskilling t
 
 ## Keep reading
 
-![Confidential submission of draft S-1 to the SEC > cover image](https://images.ctfassets.net/kftzwdyauwt9/36doI12YCwUtp1hzD4d8bj/84e67c565f39e7d5ca3ee011efa69756/confidential-submission-of-draft-s-1-to-the-sec-1x1.png?w=3840&q=90&fm=webp)
+![Health in ChatGPT > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/48aIp3cQOKJ57vpQeqOb8y/2e8732bcad5ceea1c7b20cf001bd2823/1_1_Art_Card.png?w=3840&q=90&fm=webp)
 
-[Confidential submission of draft S-1 to the SECCompanyJun 8, 2026](</index/openai-submits-confidential-s-1/>)
+[Launching Health in ChatGPT ProductJul 23, 2026](</index/health-in-chatgpt/>)
 
-![Built for broad benefit > cover](https://images.ctfassets.net/kftzwdyauwt9/bEe28mW3dEOj9pKJsPp2u/13f7bed9e86b0667ba924479d62f98e4/Art_Card_1080x1080_1.png?w=3840&q=90&fm=webp)
+![effingham county 1x1](https://images.ctfassets.net/kftzwdyauwt9/3f1fyaaSZELql3zECUImW3/1733a5ee7f07da894b993dcff75bea66/effingham_county_1x1.png?w=3840&q=90&fm=webp)
 
-[Built to benefit everyone: our planCompanyJun 8, 2026](</index/built-to-benefit-everyone-our-plan/>)
+[Building AI infrastructure with the Effingham County communityGlobal AffairsJul 22, 2026](</index/building-ai-infrastructure-with-the-effingham-county-community/>)
 
-![Economic research forum > art card ](https://images.ctfassets.net/kftzwdyauwt9/2DpNjvjdVuCrLKNOrFrWJ7/1aefe1cbe252bcd9ba42035469fc8a0f/art_card.png?w=3840&q=90&fm=webp)
+![How news organizations are using AI > Card Image](https://images.ctfassets.net/kftzwdyauwt9/5nTzxwRy4Is9PQSluyYkWP/d6e7953a692a5a8c926885e2f50a3427/how_news_orgs_use_AI_1x1.png?w=3840&q=90&fm=webp)
 
-[Introducing the OpenAI Economic Research ExchangeCompanyJun 8, 2026](</index/economic-research-exchange/>)
+[How news organizations use AI to advance their vital missionsCompanyJul 22, 2026](</index/how-news-organizations-are-using-ai/>)
 
 Research
 
@@ -119,9 +128,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -158,6 +167,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -191,6 +202,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

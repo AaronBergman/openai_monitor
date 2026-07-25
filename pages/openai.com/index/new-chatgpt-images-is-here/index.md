@@ -41,6 +41,11 @@ Share
 Precise edits that preserve what matter
 
   * Precise edits that preserve what matter
+    * Editing
+    * Creative transformations
+    * Instruction following 
+    * Text rendering
+    * Additional quality improvements 
   * A new creation space
   * Improvements and limitations
   * GPT Image 1.5 in the API
@@ -48,9 +53,12 @@ Precise edits that preserve what matter
 
 
 
-Table of contents
-
   * Precise edits that preserve what matter
+    * Editing
+    * Creative transformations
+    * Instruction following 
+    * Text rendering
+    * Additional quality improvements 
   * A new creation space
   * Improvements and limitations
   * GPT Image 1.5 in the API
@@ -458,9 +466,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -497,6 +505,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -530,6 +540,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

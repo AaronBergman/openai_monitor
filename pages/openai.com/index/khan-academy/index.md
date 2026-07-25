@@ -58,7 +58,7 @@ Khan Academy is running Khanmigo as a pilot to explore AI responsibly. Early par
 
 One of GPT‑4’s chief capabilities is being able to understand freeform questions and prompts. That ability—to have a human-like back and forth—provides Khan Academy with perhaps the most key capability: asking each student individualized questions to prompt deeper learning.
 
-“One of the things we and all educational technology companies struggle with is how to get students thinking deeply about the content that they’re learning,” DiCerbo says. “To think about questions like, ‘Why did you answer that way? Why do you think that's true? What would happen _if_ —?’ So we’re making sure students aren't just understanding how to do the problem, but really understanding the concepts behind them.”
+“One of the things we and all educational technology companies struggle with is how to get students thinking deeply about the content that they’re learning,” DiCerbo says. “To think about questions like, ‘Why did you answer that way? Why do you think that’s true? What would happen _if_ —?’ So we’re making sure students aren’t just understanding how to do the problem, but really understanding the concepts behind them.”
 
 Early testing by Khan Academy indicates that GPT‑4 may soon be able to help students contextualize the greater relevance of what they’re studying or teach specific points of computer programming.
 
@@ -68,7 +68,7 @@ Adapting GPT‑4 for teachers is also top of mind for Khan Academy. The nonprofi
 
 “What’s even more exciting is the potential to help teachers tailor learning for every student quickly and easily,” said director of program and product management, Ricky Chandarana. “We think teachers could use GPT‑4 to get a snapshot of how every student in their class is doing on Khan Academy on any given day. We’re going to test out that feature in the very near future.”
 
-“How often do students say, ‘Why should I learn this? Why should I even care?’” DiCerbo says. “And just in our early testing in putting GPT‑4 in front of them, they're asking those questions. And GPT‑4 is answering specifically _for them_ , so a student can say, ‘Hey I'm interested in X-kinds of things’ and GPT‑4 can provide them with that specific motivation.”
+“How often do students say, ‘Why should I learn this? Why should I even care?’” DiCerbo says. “And just in our early testing in putting GPT‑4 in front of them, they’re asking those questions. And GPT‑4 is answering specifically _for them_ , so a student can say, ‘Hey I’m interested in X-kinds of things’ and GPT‑4 can provide them with that specific motivation.”
 
 ## Interested in learning more about ChatGPT for business?
 
@@ -98,9 +98,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -137,6 +137,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -170,6 +172,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

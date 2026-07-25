@@ -40,7 +40,7 @@ ChatGPT powered by GPT-5
 
 ## Expert intelligence for everyone
 
-GPT‑5 is smarter across the board, providing more useful responses across math, science, finance, law, and more. It's like having a team of experts on call for whatever you want to know.
+GPT‑5 is smarter across the board, providing more useful responses across math, science, finance, law, and more. It’s like having a team of experts on call for whatever you want to know.
 
 #### See how people are using GPT-5
 
@@ -148,9 +148,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -187,6 +187,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -220,6 +222,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

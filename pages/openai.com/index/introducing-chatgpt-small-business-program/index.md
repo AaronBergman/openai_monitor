@@ -49,7 +49,7 @@ We’re announcing the launch of our [ChatGPT for small businesses program](</bu
 
 
 
-Join us on this journey. Share feedback directly with our product and go-to-market teams through webinar Q&As, conversations at local events, and surveys. We’d love to know what’s working, what's missing, and what you'd like to see next. Your input will help shape our product roadmap, future resources, and the experiences we build for small businesses.
+Join us on this journey. Share feedback directly with our product and go-to-market teams through webinar Q&As, conversations at local events, and surveys. We’d love to know what’s working, what’s missing, and what you’d like to see next. Your input will help shape our product roadmap, future resources, and the experiences we build for small businesses.
 
 Sign up to receive updates and opportunities to participate. [Fill out this form](</leads/small-business/>) to get the latest updates right in your inbox.
 

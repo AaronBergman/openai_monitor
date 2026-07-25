@@ -76,7 +76,7 @@ You can now customize and interact with bar, line, pie, and scatter plot charts 
 
 For example, you can select a Google Sheet with your company's latest user data directly from Google Drive and ask ChatGPT to create a chart showing retention rates by cohort.
 
-These new interactive features cover many chart types. ChatGPT will generate a static version for charts that aren't supported.
+These new interactive features cover many chart types. ChatGPT will generate a static version for charts that aren’t supported.
 
 ## Comprehensive security and privacy
 
@@ -101,9 +101,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -140,6 +140,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -173,6 +175,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

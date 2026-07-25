@@ -26,13 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Strengthening security in a dynamic landscape
-
-  * Strengthening security in a dynamic landscape
-  * Looking ahead
-
-
-
 March 26, 2025
 
 [Security](</news/security/>)
@@ -44,6 +37,18 @@ Updates on OpenAI’s Cybersecurity Grant Program, Bug Bounties and Security Ini
 Loading…
 
 Share
+
+Strengthening security in a dynamic landscape
+
+  * Strengthening security in a dynamic landscape
+  * Looking ahead
+
+
+
+  * Strengthening security in a dynamic landscape
+  * Looking ahead
+
+
 
 We’re sharing developments that reflect our progress, momentum and forward-looking commitment to security excellence on our ambitious path toward AGI.
 
@@ -122,9 +127,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -161,6 +166,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -194,6 +201,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

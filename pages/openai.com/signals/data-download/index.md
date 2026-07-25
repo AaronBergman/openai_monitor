@@ -46,7 +46,7 @@ The details of our methodology can be found in the attached [data dictionary⁠(
 
 ### Stay updated
 
-If you're interested in learning more about OpenAI's Economic Research work and future updates to this dataset, please sign up below.
+If you’re interested in learning more about OpenAI's Economic Research work and future updates to this dataset, please sign up below.
 
 First name *
 
@@ -176,6 +176,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

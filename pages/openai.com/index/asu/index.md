@@ -35,26 +35,16 @@ Share
 Democratizing higher education and creating ‘lifelong learners’ 
 
   * Democratizing higher education and creating ‘lifelong learners’ 
-
   * Deploying ChatGPT in over 200 projects
-
   * Using ChatGPT to impact curriculum and research
-
   * Enacting responsible AI practices to meet higher ed needs
 
 
-
-
-Table of contents
 
   * Democratizing higher education and creating ‘lifelong learners’ 
-
   * Deploying ChatGPT in over 200 projects
-
   * Using ChatGPT to impact curriculum and research
-
   * Enacting responsible AI practices to meet higher ed needs
-
 
 
 
@@ -85,7 +75,7 @@ The [_AI Innovation Challenge_ ⁠(opens in a new window)](<http://ai.asu.edu>) 
 
 
 
-Within weeks, the ASU team received proposals representing more than 80% of ASU’s schools and colleges. “We thought we'd get a few early adopters,” says Gonick. “Our few adopters quickly became hundreds of faculty interested in using ChatGPT for research and in the classroom.” The demand was so high that in March, ASU initiated a second round of proposals that included student researchers. 
+Within weeks, the ASU team received proposals representing more than 80% of ASU’s schools and colleges. “We thought we’d get a few early adopters,” says Gonick. “Our few adopters quickly became hundreds of faculty interested in using ChatGPT for research and in the classroom.” The demand was so high that in March, ASU initiated a second round of proposals that included student researchers. 
 
 By July, ASU had received over 400 proposals, with more than 200 projects activated across the majority of their departments and colleges.
 
@@ -93,7 +83,7 @@ ASU GPT LibraryWriting CompanionResearch Recruitment Support GPT
 
 ## Using ChatGPT to impact curriculum and research
 
-The projects range from AI-driven behavioral health training to bias detection and enhanced workforce development. “While we expected that ChatGPT would find a home in engineering and the sciences, we've been surprised by just how diverse adoption has been across almost every department,” Gonick notes.
+The projects range from AI-driven behavioral health training to bias detection and enhanced workforce development. “While we expected that ChatGPT would find a home in engineering and the sciences, we’ve been surprised by just how diverse adoption has been across almost every department,” Gonick notes.
 
 In under a semester, ChatGPT is guiding students through personalized learning experiences and giving time back to faculty:
 
@@ -104,7 +94,7 @@ In under a semester, ChatGPT is guiding students through personalized learning e
 
 ASU is also seeing excitement for how OpenAI’s technologies influence research and operations: 
 
-  * Ph.D. student Amber Hedquist is exploring how ChatGPT can support effective and ethical participant recruitment as part of her work in managing '[_Research Plus Me_ ⁠(opens in a new window)](<https://researchplusme.asu.edu/>)' at ASU. “When researchers need members of the community to participate in their research study, it can be hard to reach out to the population and convey what opportunity you're offering in a way that is understandable and ethical,” says Hedquist. “This GPT helps to ensure that the reading level is comprehensible and properly highlights the opportunity without a lot of scientific jargon.”
+  * Ph.D. student Amber Hedquist is exploring how ChatGPT can support effective and ethical participant recruitment as part of her work in managing '[_Research Plus Me_ ⁠(opens in a new window)](<https://researchplusme.asu.edu/>)' at ASU. “When researchers need members of the community to participate in their research study, it can be hard to reach out to the population and convey what opportunity you’re offering in a way that is understandable and ethical,” says Hedquist. “This GPT helps to ensure that the reading level is comprehensible and properly highlights the opportunity without a lot of scientific jargon.”
 
 
 
@@ -115,7 +105,7 @@ ASU is also seeing excitement for how OpenAI’s technologies influence research
 
 ## Enacting responsible AI practices to meet higher ed needs
 
-As with any technology ASU considers, maintaining faculty and student privacy is key. “The introduction of OpenAI’s product for education, in the form of ChatGPT Edu, was enormously important,” says Gonick. “It helps us protect our student privacy, protect our research output which is our intellectual property, and supports our security requirements, whether that's in the research or in the teaching and learning environments. And that is something that every CIO—and every university president—needs to be mindful of.”
+As with any technology ASU considers, maintaining faculty and student privacy is key. “The introduction of OpenAI’s product for education, in the form of ChatGPT Edu, was enormously important,” says Gonick. “It helps us protect our student privacy, protect our research output which is our intellectual property, and supports our security requirements, whether that’s in the research or in the teaching and learning environments. And that is something that every CIO—and every university president—needs to be mindful of.”
 
 ![ASU ChatGPT > Media > Lev Gonick > Desktop](https://images.ctfassets.net/kftzwdyauwt9/3uMtDymK4TmFLs1182UewV/60fa8050b0bd885453055a3f988252d2/AUS-Lev.png?w=3840&q=90&fm=webp)
 
@@ -137,9 +127,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -176,6 +166,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -209,6 +201,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

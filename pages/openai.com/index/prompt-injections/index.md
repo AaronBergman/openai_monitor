@@ -26,15 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-What is a prompt injection?
-
-  * What is a prompt injection?
-  * Our approach to protecting users
-  * Steps you can take to stay safer
-  * Looking ahead
-
-
-
 November 7, 2025
 
 [Security](</news/security/>)
@@ -42,6 +33,44 @@ November 7, 2025
 # Understanding prompt injections: a frontier security challenge
 
 Share
+
+What is a prompt injection?
+
+  * What is a prompt injection?
+  * Our approach to protecting users
+    * Safety training
+    * Monitoring
+    * Security protections
+    * Give users control
+    * Red-teaming
+    * Bug bounty
+    * Let users decide
+  * Steps you can take to stay safer
+    * Use built in features to limit access to sensitive data
+    * When an agent asks for confirmation, carefully review that it is about to do the right thing
+    * When possible, give an agent explicit instructions
+    * Stay informed and follow security best practices
+  * Looking ahead
+
+
+
+  * What is a prompt injection?
+  * Our approach to protecting users
+    * Safety training
+    * Monitoring
+    * Security protections
+    * Give users control
+    * Red-teaming
+    * Bug bounty
+    * Let users decide
+  * Steps you can take to stay safer
+    * Use built in features to limit access to sensitive data
+    * When an agent asks for confirmation, carefully review that it is about to do the right thing
+    * When possible, give an agent explicit instructions
+    * Stay informed and follow security best practices
+  * Looking ahead
+
+
 
 AI tools are starting to do more than respond to questions. They can now browse the web, help with research, plan trips, and help buy products. As they become more capable, with the ability to access your data in other apps and take actions on your behalf, new security challenges emerge. One we’re heavily focused on is prompt injection.
 
@@ -73,7 +102,7 @@ To protect our users, and to help improve our models against these attacks, we t
 
 ### Safety training
 
-We want AI that recognizes prompt injections and doesn’t fall for them. However, robustness to adversarial attacks is a long-standing challenge for machine learning and AI, making this a hard, open problem. We have developed research called [_Instruction Hierarchy_ ⁠](<https://openai.com/index/the-instruction-hierarchy/>) to work towards models distinguishing between instructions that are trusted and untrusted. We continue to develop new approaches to train models to better recognize prompt injection patterns so they can ignore them or flag them to users. One of the techniques we apply is automated red-teaming, an area we've been [_studying_ ⁠(opens in a new window)](<https://cdn.openai.com/papers/diverse-and-effective-red-teaming.pdf>) for years, to develop novel prompt injection attacks.
+We want AI that recognizes prompt injections and doesn’t fall for them. However, robustness to adversarial attacks is a long-standing challenge for machine learning and AI, making this a hard, open problem. We have developed research called [_Instruction Hierarchy_ ⁠](<https://openai.com/index/the-instruction-hierarchy/>) to work towards models distinguishing between instructions that are trusted and untrusted. We continue to develop new approaches to train models to better recognize prompt injection patterns so they can ignore them or flag them to users. One of the techniques we apply is automated red-teaming, an area we’ve been [_studying_ ⁠(opens in a new window)](<https://cdn.openai.com/papers/diverse-and-effective-red-teaming.pdf>) for years, to develop novel prompt injection attacks.
 
 ### Monitoring
 
@@ -117,7 +146,7 @@ When an agent is operating on a sensitive site, such as your bank, watch the age
 
 Giving an agent a very broad instruction such as "review my emails and take whatever action is needed" can make it easier for hidden malicious content to mislead the model, even though it is designed to check with you before taking sensitive actions.
 
-It’s safer to ask your agent to do specific things, and not to give it wide latitude to potentially follow harmful instructions from elsewhere like emails. While this doesn't guarantee there won't be attacks, it makes it harder for attackers to be successful.
+It’s safer to ask your agent to do specific things, and not to give it wide latitude to potentially follow harmful instructions from elsewhere like emails. While this doesn’t guarantee there won’t be attacks, it makes it harder for attackers to be successful.
 
 ### Stay informed and follow security best practices
 
@@ -133,17 +162,17 @@ Our goal is to make these systems as reliable and safe as working with your most
 
 [View all](</news/>)
 
-![codex windows > art card](https://images.ctfassets.net/kftzwdyauwt9/6ZvTl8ZL23BOhoI6jz0EmR/49d6038b9f92773d4f866f4bfacabdbf/Art_Card__5_.png?w=3840&q=90&fm=webp)
+![Hugging Face Security Incident 1x1](https://images.ctfassets.net/kftzwdyauwt9/1H0bdkoSFFcqNTx4DSNpal/56f4b7575c012f0698b1be0dafb379f0/Hugging_Face_Security_Incident_1x1.png?w=3840&q=90&fm=webp)
 
-[Building a safe, effective sandbox to enable Codex on WindowsEngineeringMay 13, 2026](</index/building-codex-windows-sandbox/>)
+[OpenAI and Hugging Face address security incidentSecurityJul 21, 2026](</index/hugging-face-model-evaluation-security-incident/>)
 
-![Frame](https://images.ctfassets.net/kftzwdyauwt9/32jPyVqUObkTrIIyA6tJV1/4eb384b5bb2f21ccea5de7665858a37a/Frame.png?w=3840&q=90&fm=webp)
+![Expanding Daybreak Art Card](https://images.ctfassets.net/kftzwdyauwt9/735NOZviyogUBIFxd2EmWX/fa8baf9fc26e64f442ffa86d5fd9a41e/Art_Card__6_.png?w=3840&q=90&fm=webp)
 
-[Our response to the TanStack npm supply chain attackCompanyMay 13, 2026](</index/our-response-to-the-tanstack-npm-supply-chain-attack/>)
+[Daybreak: Tools for securing every organization in the worldSecurityJun 22, 2026](</index/daybreak-securing-the-world/>)
 
-![Running Codex safely at OpenAI > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/76rTHgn2J3y6srtNd3ZrRs/71fc86af978baecda10b212fdb5d3609/Frame.png?w=3840&q=90&fm=webp)
+![Patch the Planet Art Card 1x1](https://images.ctfassets.net/kftzwdyauwt9/2PwBCyZF0Z5WLRtsbOpDdQ/338e19fbc39e5b9a63b1db664c006e74/Art_Card__5_.png?w=3840&q=90&fm=webp)
 
-[Running Codex safely at OpenAISecurityMay 8, 2026](</index/running-codex-safely/>)
+[Patch the Planet: a Daybreak initiative to support open source maintainersSecurityJun 22, 2026](</index/patch-the-planet/>)
 
 Research
 
@@ -155,9 +184,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -194,6 +223,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -227,6 +258,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

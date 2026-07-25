@@ -42,7 +42,7 @@ Loading…
 
 Share
 
-Since the release of ChatGPT, we've heard from users that they love using ChatGPT on the go. Today, we’re launching the ChatGPT app for iOS.
+Since the release of ChatGPT, we’ve heard from users that they love using ChatGPT on the go. Today, we’re launching the ChatGPT app for iOS.
 
 The ChatGPT app is free to use and syncs your history across devices. It also integrates [Whisper⁠](</index/whisper/>), our open-source speech-recognition system, enabling voice input. [ChatGPT Plus subscribers⁠](</index/chatgpt-plus/>) get exclusive access to [GPT‑4’s capabilities⁠](</product/gpt-4/>), early access to features and faster response times, all on iOS.
 
@@ -56,11 +56,11 @@ Discover the versatility of ChatGPT:
 
 
 
-We're starting our rollout in the US and will expand to additional countries in the coming weeks. We’re eager to see how you use the app. As we gather user feedback, we’re committed to continuous feature and safety improvements for ChatGPT.
+We’re starting our rollout in the US and will expand to additional countries in the coming weeks. We’re eager to see how you use the app. As we gather user feedback, we’re committed to continuous feature and safety improvements for ChatGPT.
 
 With the ChatGPT app for iOS, we’re taking another step towards [our mission⁠](</about/>) by transforming state-of-the-art research into useful tools that empower people, while continuously making them more accessible. 
 
-P.S. Android users, you're next! ChatGPT will be coming to your devices soon.
+P.S. Android users, you’re next! ChatGPT will be coming to your devices soon.
 
   * [Download on the App Store(opens in a new window)](<https://apps.apple.com/app/openai-chatgpt/id6448311069>)
 
@@ -97,9 +97,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -136,6 +136,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -169,6 +171,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

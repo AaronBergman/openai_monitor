@@ -26,16 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Plugins
-
-  * Plugins
-  * Beta
-  * Safety
-  * Privacy
-  * Try it now
-
-
-
 July 20, 2023
 
 [Product](</news/product-releases/>)
@@ -50,13 +40,31 @@ Loading…
 
 Share
 
+Plugins
+
+  * Plugins
+  * Beta
+  * Safety
+  * Privacy
+  * Try it now
+
+
+
+  * Plugins
+  * Beta
+  * Safety
+  * Privacy
+  * Try it now
+
+
+
 We’re introducing custom instructions so that you can tailor ChatGPT to better meet your needs. This feature will be available in beta starting with the Plus plan today, expanding to all users in the coming weeks. Custom instructions allow you to add preferences or requirements that you’d like ChatGPT to consider when generating its responses.
 
 We’ve heard your feedback about the friction of starting each ChatGPT conversation afresh. Through our conversations with [users across 22 countries⁠](</index/insights-from-global-conversations/>), we’ve deepened our understanding of the essential role steerability plays in enabling our models to effectively reflect the diverse contexts and unique needs of each person.
 
 ChatGPT will consider your custom instructions for every conversation going forward. The model will consider the instructions every time it responds, so you won’t have to repeat your preferences or information in every conversation. 
 
-For example, a teacher crafting a lesson plan no longer has to repeat that they're teaching 3rd grade science. A developer preferring efficient code in a language that’s not Python – they can say it once, and it's understood. Grocery shopping for a big family becomes easier, with the model accounting for 6 servings in the grocery list.
+For example, a teacher crafting a lesson plan no longer has to repeat that they’re teaching 3rd grade science. A developer preferring efficient code in a language that’s not Python – they can say it once, and it’s understood. Grocery shopping for a big family becomes easier, with the model accounting for 6 servings in the grocery list.
 
 Loading...
 
@@ -70,7 +78,7 @@ Especially during the beta period, ChatGPT won’t always interpret custom instr
 
 ## Safety
 
-We’ve adapted our safety measures to account for the new ways that users can instruct the model. For example, our Moderation API is designed to help ensure instructions won't be saved if they violate our [Usage Policies⁠](</policies/usage-policies/>). The model can also refuse or ignore instructions that lead to responses that violate our usage policies.
+We’ve adapted our safety measures to account for the new ways that users can instruct the model. For example, our Moderation API is designed to help ensure instructions won’t be saved if they violate our [Usage Policies⁠](</policies/usage-policies/>). The model can also refuse or ignore instructions that lead to responses that violate our usage policies.
 
 ## Privacy
 
@@ -122,9 +130,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -161,6 +169,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -194,6 +204,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

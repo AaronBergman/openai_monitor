@@ -41,7 +41,7 @@ Last name *
 
 Email associated with your ChatGPT account *
 
-Contact email *We'll only use this email if we have follow-up questions about your submission.
+Contact email *We’ll only use this email if we have follow-up questions about your submission.
 
 What is your professional field? *
 
@@ -100,7 +100,7 @@ I agree
 
 #### YOUR INTERESTS
 
-Tell us how you'd like to engage with us.
+Tell us how you’d like to engage with us.
 
 Which of the following are you interested in? *Select all that apply.
 

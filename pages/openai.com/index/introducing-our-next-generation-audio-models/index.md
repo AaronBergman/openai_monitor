@@ -26,19 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-More about our latest audio models
-
-  * More about our latest audio models
-  * Technical innovations behind the models
-  * Pretraining with authentic audio datasets
-  * Advanced distillation methodologies
-  * Reinforcement learning paradigm
-  * API availability
-  * What’s next
-  * Livestream replay
-
-
-
 March 20, 2025
 
 [Release](</research/index/release/>)[Product](</news/product-releases/>)
@@ -54,6 +41,34 @@ A new suite of audio models to power voice agents, now available to developers w
 Loading…
 
 Share
+
+More about our latest audio models
+
+  * More about our latest audio models
+    * New speech-to-text models
+    * New text-to-speech model
+  * Technical innovations behind the models
+  * Pretraining with authentic audio datasets
+  * Advanced distillation methodologies
+  * Reinforcement learning paradigm
+  * API availability
+  * What’s next
+  * Livestream replay
+
+
+
+  * More about our latest audio models
+    * New speech-to-text models
+    * New text-to-speech model
+  * Technical innovations behind the models
+  * Pretraining with authentic audio datasets
+  * Advanced distillation methodologies
+  * Reinforcement learning paradigm
+  * API availability
+  * What’s next
+  * Livestream replay
+
+
 
  _Update on August 28, 2025: We announced the general availability of the Realtime API._[_Learn more here_](</index/introducing-gpt-realtime/>) _._
 
@@ -159,9 +174,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -198,6 +213,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -231,6 +248,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

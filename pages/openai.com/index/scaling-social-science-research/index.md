@@ -42,7 +42,7 @@ Share
 
 A core part of our work at OpenAI is enabling scientists to move faster and solve harder problems. Today, our Economic Research Team is releasing GABRIEL: an open-source toolkit that uses GPT to turn unstructured text and images into quantitative measurements. It is designed for economists, social scientists, and data scientists to study qualitative data at scale.
 
-Qualitative data tells the richest stories about the world—what people say, write, teach, argue, and experience. It spans everything from syllabi and interviews to social media and photographs. There is a tremendous amount of it. But transforming that type of data into rigorous evidence is incredibly time-consuming. Often it isn't feasible at all. In too many cases, social scientists are forced to forego important avenues of research, not because the data doesn’t exist, but because it’s impossible to analyze.
+Qualitative data tells the richest stories about the world—what people say, write, teach, argue, and experience. It spans everything from syllabi and interviews to social media and photographs. There is a tremendous amount of it. But transforming that type of data into rigorous evidence is incredibly time-consuming. Often it isn’t feasible at all. In too many cases, social scientists are forced to forego important avenues of research, not because the data doesn’t exist, but because it’s impossible to analyze.
 
 GABRIEL is built to make qualitative data much more accessible. It allows researchers to describe what they want to measure in everyday words—like “how family-friendly is this job listing?”—and then applies that same question consistently across thousands (or millions) of documents, returning a score for each one. This lets researchers spend less time on repetitive data labeling and more time on the work that actually requires expertise: choosing what to measure, validating results, and drawing careful conclusions.
 
@@ -65,17 +65,17 @@ OpenAI
 
 [View all](</news/>)
 
-![Our approach to government and national security partnerships > Cover image](https://images.ctfassets.net/kftzwdyauwt9/6LpyyLCqWNpiRHwFZpCP7s/30674f74a4b776306398352664a5f3cc/Frame.png?w=3840&q=90&fm=webp)
+![effingham county 1x1](https://images.ctfassets.net/kftzwdyauwt9/3f1fyaaSZELql3zECUImW3/1733a5ee7f07da894b993dcff75bea66/effingham_county_1x1.png?w=3840&q=90&fm=webp)
 
-[Our approach to government and national security partnershipsGlobal AffairsJul 8, 2026](</index/government-national-security-partnerships/>)
+[Building AI infrastructure with the Effingham County communityGlobal AffairsJul 22, 2026](</index/building-ai-infrastructure-with-the-effingham-county-community/>)
 
-![Separating signal from noise > Art Card](https://images.ctfassets.net/kftzwdyauwt9/7j6M3prKIsTmV6cbMaHjhZ/e66f7cdd98c66c99546853cbc22cfe84/Seperating-signal-from-noise-card.png?w=3840&q=90&fm=webp)
+![Advancing the next era of national science card image](https://images.ctfassets.net/kftzwdyauwt9/1aUcaaPHlPQbaN0EzEUrEc/95d5f6d78ab308305bf4781c07ccc4fd/Advancing_the_next_era_of_national_science_1x1.png?w=3840&q=90&fm=webp)
 
-[Separating signal from noise in coding evaluationsResearchJul 8, 2026](</index/separating-signal-from-noise-coding-evaluations/>)
+[Advancing the next era of national scienceGlobal AffairsJul 22, 2026](</index/advancing-the-next-era-of-national-science/>)
 
-![Helping K–12 educators build practical AI skills > Cover image](https://images.ctfassets.net/kftzwdyauwt9/190wMCP1bPt9adqu2edDV9/106b863586b063e777539df3aa988c3f/Frame.png?w=3840&q=90&fm=webp)
+![Helping build shared standards for advanced AI - card image](https://images.ctfassets.net/kftzwdyauwt9/5bSU7ItzcBWGtWhApmmJ6X/a818a91ef36b39ed07d62566ec318760/Frame2.png?w=3840&q=90&fm=webp)
 
-[Helping K–12 educators build practical AI skillsGlobal AffairsJul 8, 2026](</index/k-12-educators-practical-skills/>)
+[The US is advancing AI safety through state and federal actionGlobal AffairsJul 15, 2026](</index/advancing-ai-safety-through-state-and-federal-action/>)
 
 Research
 
@@ -161,6 +161,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

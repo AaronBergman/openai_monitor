@@ -34,7 +34,7 @@ OpenAI gives enterprises the intelligence and deployment expertise to tackle pro
 
 ## Built for business. Backed by frontier AI.
 
-OpenAI combines leading research and models to build enterprise-ready products people can use every day, helping you redesign work around what's possible.
+OpenAI combines leading research and models to build enterprise-ready products people can use every day, helping you redesign work around what’s possible.
 
 #### Frontier intelligence
 

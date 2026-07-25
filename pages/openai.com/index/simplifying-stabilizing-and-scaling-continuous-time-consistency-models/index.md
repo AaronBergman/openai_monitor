@@ -43,24 +43,16 @@ Share
 Introduction
 
   * Introduction
-
   * How it works
-
   * Limitations
-
-  * What's next
-
+  * What’s next
 
 
 
   * Introduction
-
   * How it works
-
   * Limitations
-
-  * What's next
-
+  * What’s next
 
 
 
@@ -94,7 +86,7 @@ Consistency models offer a faster alternative to traditional diffusion models fo
 
 Illustration on diffusion model sampling (red) and consistency model sampling (blue).
 
-We've trained a continuous-time consistency model with 1.5B parameters on ImageNet 512x512, and provided two-step samples from this model to demonstrate its capabilities.
+We’ve trained a continuous-time consistency model with 1.5B parameters on ImageNet 512x512, and provided two-step samples from this model to demonstrate its capabilities.
 
 ![Consistency Model > Media carousel > Gallery > Image 54 > Asset](https://images.ctfassets.net/kftzwdyauwt9/2QFDUxr71HBpK5HVk8RFbE/bc3808b652fc8d7562a89709ace0b2ba/54.png?w=3840&q=90&fm=webp)
 
@@ -150,7 +142,7 @@ sCM scales commensurately with teacher diffusion models.
 
 The best sCMs still rely on pre-trained diffusion models for initialization and distillation, resulting in a small but consistent gap in sample quality compared to the teacher diffusion model. Additionally, FID as a metric for sample quality has its own limitations; being close in FID scores does not always reflect actual sample quality, and vice versa. Therefore, the quality of sCMs may need to be assessed differently depending on the requirements of specific applications.
 
-## What's next
+## What’s next
 
 We will continue to work toward developing better generative models with both improved inference speed and sample quality. We believe these advancements will unlock new possibilities for real-time, high-quality generative AI across a wide range of domains.
 
@@ -238,9 +230,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -312,6 +304,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

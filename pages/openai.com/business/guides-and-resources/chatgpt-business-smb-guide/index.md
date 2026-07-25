@@ -36,9 +36,9 @@ Real examples and ready-to-use prompts for small and midsize businesses.
 
 Share
 
-There's never been a better time to be a small or growing team
+There’s never been a better time to be a small or growing team
 
-  * There's never been a better time to be a small or growing team
+  * There’s never been a better time to be a small or growing team
     * Why GPT-5 is great for work: 
   * Analyze your data in seconds
   * Ship polished marketing materials
@@ -49,7 +49,7 @@ There's never been a better time to be a small or growing team
 
 
 
-  * There's never been a better time to be a small or growing team
+  * There’s never been a better time to be a small or growing team
     * Why GPT-5 is great for work: 
   * Analyze your data in seconds
   * Ship polished marketing materials
@@ -60,11 +60,11 @@ There's never been a better time to be a small or growing team
 
 
 
-## There's never been a better time to be a small or growing team
+## There’s never been a better time to be a small or growing team
 
 With the right tools, a lean team can move faster, do more, and take on bigger opportunities with confidence.   
   
-That's why we built ChatGPT Business. It is a simple and secure way for companies to put frontier Al to work. And it's powered by our newest and most advanced model, GPT‑5, the engine behind everything you'll see in this guide.
+That’s why we built ChatGPT Business. It is a simple and secure way for companies to put frontier Al to work. And it’s powered by our newest and most advanced model, GPT‑5, the engine behind everything you’ll see in this guide.
 
 ### Why GPT‑5 is great for work: 
 

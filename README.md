@@ -4,6 +4,49 @@ A daily log of every change to OpenAI's public website — what appeared, what d
 
 ---
 
+## 2026-07-25 — Run `2026-07-25T09-15Z`
+
+**Fetch time:** 2026-07-25T09:18:00Z
+**Baseline:** 2026-07-24T09-16Z (consecutive day)
+**Stats:** 1484 total URLs | +14 added | 398 updated | -2 removed | 122 anomalies | 34 sub-sitemaps
+
+**TL;DR:** By far the biggest event today isn't editorial content — it's a backend redeploy. OpenAI reorganized its site taxonomy, reassigning **122 URLs** between sitemap sections in one shot (mostly breaking up the old catch-all "company" bucket into more specific verticals: policy/economic posts → **global-affairs**, product-launch posts → a new **release** type, security-flavored posts → a new **security** type), and simultaneously re-rendered roughly **⅓ of the entire site** (299 pages in one 45-minute window) with template fixes — smart-quote normalization, corrected section navigation on Business guide pages, and continued propagation of footer/nav updates (GPT‑5.6, Customer Stories, Partner Network, Supply Co.) to stragglers. None of that changes what any page actually says. Buried under all that noise, the one genuine product change: OpenAI split its API capacity-purchasing plans — the existing **Scale Tier** is now capped to pre-GPT‑5.6 models, and a new **Reserved Tier** (dollars-per-minute provisioned throughput, Enterprise-only) takes over for GPT‑5.6 and future models, alongside billing-mechanics changes (folded into standard invoicing, new Project Settings toggle, a grandfathered "spillover" rule for pre-July-21 customers). Also: the `/business/plugins/` integrations catalog (~72 pages) fully dropped its "ChatGPT Work" promo banner, and 13 new partner-directory listings appeared (Fujitsu the only recognizable name). Two pages were quietly removed. No timestamp-integrity red flags (no future or backdated lastmods), but the sheer scale of the migration + redeploy is unusual enough to flag prominently.
+
+### Anomalies
+
+- **122 URLs migrated between sitemap sections** — an order of magnitude above normal. Reads as a deliberate CMS taxonomy reorg: `company` (57 URLs) and `product` (34 URLs) were the biggest sources; `global-affairs` (34), `release` (30), and a brand-new `security` type (18) were the biggest destinations. Every migrated URL still resolves to the same content — this is a categorization change, not a content change. Full from/to breakdown in [`runs/2026-07-25T09-15Z/analysis.md`](runs/2026-07-25T09-15Z/analysis.md).
+- **299 of the 398 `<lastmod>`-bumped pages cluster in a single 07:00–07:45 UTC hour today** (plus a separate 72-page cluster at 16:00–17:00 UTC *yesterday*, only visible now because it postdates yesterday's fetch) — roughly a third of the crawled site touched in one 45-minute window. All lastmods are legitimate (monotonically increasing, none in the future, none backdated), so this doesn't trip the strict timestamp-anomaly rules, but the scale points to one coordinated frontend/CMS redeploy rather than organic editorial activity. A diff-size-ranked sample confirms the changes are overwhelmingly non-substantive (quote normalization, heading-level/TOC markup shifts, nav template corrections) — see analysis for the sampling methodology and the genuine changes found underneath it.
+
+### Notable additions
+
+- **[Reserved Tier for API Customers](pages/openai.com/api-reserved-tier/index.md)** — new Enterprise-only capacity product: pre-purchase provisioned throughput denominated in **dollars per minute** for a specific model (vs. tokens/minute on the old Scale Tier), usable flexibly across Standard/Priority processing, context lengths, and regions. Sales-contact only. Positioned as the successor to Scale Tier for GPT‑5.6 and later models — see Notable updates below.
+- **13 new partner-directory listings** under `/business/partners/`: Blank Metal, Blend360, Cloudwerx, Corca, **Fujitsu**, Globant, Insurgence, Merantix Momentum, Nablon AI, Rosetree Solutions, Snorkel AI, Tredence, ZS. Standard locator-template pages; Fujitsu is the one widely-recognized name in the batch.
+
+### Notable updates
+
+- **[`/api-scale-tier/`](pages/openai.com/api-scale-tier/index.md)** now states Scale Tier is only available on models released **before GPT‑5.6**; a new banner points GPT‑5.6+ customers to the new Reserved Tier (above). Bundled with that split: minimum top-tier throughput raised 50→100 tokens/sec, capacity management moved to **Organization Settings → Capacity Management** with a new "Scale Tier Enabled" toggle in Project Settings (replacing the old console purchase flow), billing folded into the standard OpenAI invoice (no more separate monthly-arrears billing), and a grandfathered "spillover" rule for customers with Scale Tier active before **July 21, 2026** (their overage bills at Standard rather than Priority pay-as-you-go rates unless they opt in to the new behavior).
+- **`/business/plugins/*` catalog (~72 pages)** — every third-party integration listing (Notion, Slack, Salesforce, GitHub, Figma, Snowflake, etc.) dropped the "New — Introducing ChatGPT Work" promo banner with no replacement, completing the piecemeal wind-down tracked across the 2026-07-22 through 07-24 runs. Same batch added the "Supply Co." footer link across the catalog.
+- **Section-nav correction on `/business/guides-and-resources/*` and `/business/solutions/*` pages** (e.g. [`inside-gpt5-our-best-model-for-work`](pages/openai.com/business/guides-and-resources/inside-gpt5-our-best-model-for-work/index.md)): several guide pages that were rendering with the generic sitewide top nav now correctly show the Business-section subnav and, in some cases, their hero header for the first time in our snapshots — reads like a template-assignment bug fix rather than an editorial change.
+- Continued sitewide footer/nav propagation (GPT‑5.6 in the Products flyout, Customer Stories/Partner Network in the Business footer, Supply Co. in the global footer) reaching most of the remaining pages that hadn't picked it up yet — this is why today's update count (398) is roughly 8x a normal day.
+
+### Lower-confidence observation
+
+- New partner listing **[Blank Metal](pages/openai.com/business/partners/blank-metal/index.md)** has a visibly mis-encoded em dash (`‚Äî`) in its About paragraph — a UTF-8/Latin-1 mojibake artifact isolated to this one page (not present on any other partner listing, old or new), so likely a copy-paste/encoding slip on OpenAI's end rather than a systemic issue. Watching for a fix.
+
+### Routine updates
+
+24 of the 398 `<lastmod>`-bumped pages were byte-identical to yesterday's snapshot (pure republish, no visible change). Of the remaining 374 with a detectable diff, a representative sample (largest post-noise-filtered diffs, all new pages, and the two most-affected taxonomy categories) found the overwhelming majority to be the redeploy noise described in Anomalies above — smart-quote normalization, heading-level/TOC markup churn (e.g. `/index/openai-anthropic-safety-evaluation/` had every `####` become `###` with no wording change), and nav/footer template propagation — rather than new editorial content. Given the scale, this run did not hand-diff all 374 pages individually; see [`runs/2026-07-25T09-15Z/analysis.md`](runs/2026-07-25T09-15Z/analysis.md) for the sampling method.
+
+### Removals
+
+- `/business/plugins/gitlab-issues/` — GitLab Issues plugin listing removed from the integrations catalog the same day the rest of the catalog got its banner refresh.
+- `/form/partnerintake/` — a partner-intake lead form, present since bootstrap, removed with no obvious replacement.
+
+Full analysis: [runs/2026-07-25T09-15Z/analysis.md](runs/2026-07-25T09-15Z/analysis.md)
+
+---
+*Stats: 1,484 total URLs | +14 added | 398 updated | -2 removed | 122 anomalies | 34 sub-sitemaps*
+
 ## 2026-07-24 — Run `2026-07-24T09-16Z`
 
 **Fetch time:** 2026-07-24T09:17:13Z

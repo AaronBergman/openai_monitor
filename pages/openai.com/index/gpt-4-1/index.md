@@ -26,6 +26,20 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
+April 14, 2025
+
+[Product](</news/product-releases/>)[Research](</news/research/>)[Publication](</research/index/publication/>)
+
+# Introducing GPT‑4.1 in the API
+
+A new series of GPT models featuring major improvements on coding, instruction following, and long context—plus our first-ever nano model.
+
+[Try in Playground](<https://platform.openai.com/playground/p/HqaxY9MEZ8Ta0zFbzfASn5bJ?mode=chat>)
+
+Loading…
+
+Share
+
 Coding
 
   * Coding
@@ -42,19 +56,19 @@ Coding
 
 
 
-April 14, 2025
+  * Coding
+  * Real world examples
+  * Instruction following
+  * Real world examples
+  * Long Context
+  * Real world examples
+  * Vision
+  * Pricing
+  * Conclusion
+  * Appendix
+  * Livestream replay
 
-[Product](</news/product-releases/>)[Research](</news/research/>)[Publication](</research/index/publication/>)
 
-# Introducing GPT‑4.1 in the API
-
-A new series of GPT models featuring major improvements on coding, instruction following, and long context—plus our first-ever nano model.
-
-[Try in Playground](<https://platform.openai.com/playground/p/HqaxY9MEZ8Ta0zFbzfASn5bJ?mode=chat>)
-
-Loading…
-
-Share
 
 Today, we’re launching three new models in the API: GPT‑4.1, GPT‑4.1 mini, and GPT‑4.1 nano. These models outperform GPT‑4o and GPT‑4o mini across the board, with major gains in coding and instruction following. They also have larger context windows—supporting up to 1 million tokens of context—and are able to better use that context with improved long-context comprehension. They feature a refreshed knowledge cutoff of June 2024.
 
@@ -123,7 +137,7 @@ We developed an internal eval for instruction following to track model performan
   * **Ordered instructions.** Providing a set of instructions the model must follow in a given order. (Example: “First ask for the user's name, then ask for their email”)
   * **Content requirements.** Outputting content that includes certain information. (Example: “Always include amount of protein when writing a nutrition plan”)
   * **Ranking.** Ordering the output in a particular way. (Example: “Sort the response by population count”)
-  * **Overconfidence.** Instructing the model to say “I don't know” or similar if requested information isn't available, or the request doesn’t fall in a given category. (Example: “If you do not know the answer, provide the support contact email”)
+  * **Overconfidence.** Instructing the model to say “I don’t know” or similar if requested information isn’t available, or the request doesn’t fall in a given category. (Example: “If you do not know the answer, provide the support contact email”)
 
 
 
@@ -189,7 +203,7 @@ Benchmarks don’t tell the full story, so we worked with alpha partners to test
 
 [**Carlyle** ⁠(opens in a new window)](<https://www.carlyle.com/>)**:** Carlyle used GPT‑4.1 to accurately extract granular financial data across multiple, lengthy documents—including PDFs, Excel files, and other complex formats. Based on their internal evaluations, it performed 50% better on retrieval from very large documents with dense data and was the first model to successfully overcome key limitations seen with other available models, including needle-in-the-haystack retrieval, lost-in-the-middle errors, and multi-hop reasoning across documents.
 
-In addition to model performance and accuracy, developers also need models that respond quickly to keep up with and meet users’ needs. We've improved our inference stack to reduce the time to first token, and with prompt caching, you can cut latency even further while saving on costs. In our initial testing, latency to first token for GPT‑4.1 was approximately fifteen seconds with 128,000 tokens of context, and a minute for a million tokens of context. GPT‑4.1 mini and nano are faster, e.g., GPT‑4.1 nano most often returns the first token in less than five seconds for queries with 128,000 input tokens.
+In addition to model performance and accuracy, developers also need models that respond quickly to keep up with and meet users’ needs. We’ve improved our inference stack to reduce the time to first token, and with prompt caching, you can cut latency even further while saving on costs. In our initial testing, latency to first token for GPT‑4.1 was approximately fifteen seconds with 128,000 tokens of context, and a minute for a million tokens of context. GPT‑4.1 mini and nano are faster, e.g., GPT‑4.1 nano most often returns the first token in less than five seconds for queries with 128,000 input tokens.
 
 ## Vision
 
@@ -358,9 +372,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -397,6 +411,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -430,6 +446,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

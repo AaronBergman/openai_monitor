@@ -36,7 +36,7 @@ A new series of AI models designed to spend more time thinking before they respo
 
 [Learning to reason with LLMsRelease](</index/learning-to-reason-with-llms/>)
 
-![o1 System Card > cover image 20241205](https://images.ctfassets.net/kftzwdyauwt9/3DBIYA8knxEYZHQcrdDRHM/a169585e99cba1bdca5f85fce0449974/o1-systems_blog_card_v2__1_.png?w=3840&q=90&fm=webp)
+![The image shows four white squares aligned horizontally on a background with swirling gradients of blue and yellow. The colors blend in a circular pattern, creating a smooth and vibrant effect.](https://images.ctfassets.net/kftzwdyauwt9/3DBIYA8knxEYZHQcrdDRHM/a169585e99cba1bdca5f85fce0449974/o1-systems_blog_card_v2__1_.png?w=3840&q=90&fm=webp)
 
 [OpenAI o1 System CardPublication](</index/openai-o1-system-card/>)
 
@@ -50,9 +50,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -89,6 +89,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -122,6 +124,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

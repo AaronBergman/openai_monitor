@@ -26,14 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Explorations of capabilities
-
-  * Explorations of capabilities
-  * Model evaluations
-  * ChatGPT-4o Risk Scorecard
-
-
-
 May 13, 2024
 
 [Milestone](</research/index/milestone/>)
@@ -55,6 +47,22 @@ More Resources
 Loading…
 
 Share
+
+Explorations of capabilities
+
+  * Explorations of capabilities
+  * Model evaluations
+    * Language tokenization
+  * ChatGPT-4o Risk Scorecard
+
+
+
+  * Explorations of capabilities
+  * Model evaluations
+    * Language tokenization
+  * ChatGPT-4o Risk Scorecard
+
+
 
 GPT‑4o (“o” for “omni”) is a step towards much more natural human-computer interaction—it accepts as input any combination of text, audio, image, and video and generates any combination of text, audio, and image outputs. It can respond to audio inputs in as little as 232 milliseconds, with an average of 320 milliseconds, which is similar to [human response time⁠(opens in a new window)](<https://www.pnas.org/doi/10.1073/pnas.0903616106>) in a conversation. It matches GPT‑4 Turbo performance on text in English and code, with significant improvement on text in non-English languages, while also being much faster and 50% cheaper in the API. GPT‑4o is especially better at vision and audio understanding compared to existing models.
 
@@ -256,7 +264,7 @@ As part of our [Preparedness Framework⁠](<https://openai.com/preparedness/>), 
 
 GPT‑4o is our latest step in pushing the boundaries of deep learning, this time in the direction of practical usability. We spent a lot of effort over the last two years working on efficiency improvements at every layer of the stack. As a first fruit of this research, we’re able to make a GPT‑4 level model available much more broadly. GPT‑4o’s capabilities will be rolled out iteratively (with extended red team access starting today). 
 
-GPT‑4o’s text and image capabilities are starting to roll out today in ChatGPT. We are making GPT‑4o available in the free tier, and to Plus users with up to 5x higher message limits. We'll roll out a new version of Voice Mode with GPT‑4o in alpha within ChatGPT Plus in the coming weeks.
+GPT‑4o’s text and image capabilities are starting to roll out today in ChatGPT. We are making GPT‑4o available in the free tier, and to Plus users with up to 5x higher message limits. We’ll roll out a new version of Voice Mode with GPT‑4o in alpha within ChatGPT Plus in the coming weeks.
 
 Developers can also now access GPT‑4o in the API as a text and vision model. GPT‑4o is 2x faster, half the price, and has 5x higher rate limits compared to GPT‑4 Turbo. We plan to launch support for GPT‑4o's new audio and video capabilities to a small group of trusted partners in the API in the coming weeks.
 
@@ -283,9 +291,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -322,6 +330,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -355,6 +365,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

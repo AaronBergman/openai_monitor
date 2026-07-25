@@ -30,7 +30,7 @@ December 20, 2024
 
 # Early access for safety testing
 
-We're offering safety and security researchers early access to our next frontier models.
+We’re offering safety and security researchers early access to our next frontier models.
 
 We’re inviting safety researchers to apply for early access to our next frontier models. This early access program complements our existing frontier model testing process, which includes rigorous internal safety testing, external red teaming such as our [_Red Teaming Network_ ⁠](</index/red-teaming-network/>) and collaborations with third-party testing organizations, as well the U.S. AI Safety Institute and the UK AI Safety Institute. As models become more capable, we are hopeful that insights from the broader safety community can bring fresh perspectives, deepen our understanding of emerging risks, develop new evaluations, and highlight areas to advance safety research.
 
@@ -75,9 +75,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -114,6 +114,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -147,6 +149,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

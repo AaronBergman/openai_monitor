@@ -26,15 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Model Spec changes
-
-  * Model Spec changes
-  * What we did
-  * Conclusion
-  * Appendix: Demographic data
-
-
-
 August 27, 2025
 
 [Publication](</research/index/publication/>)
@@ -50,6 +41,36 @@ We surveyed over 1,000 people worldwide on how our models should behave and comp
 Loading…
 
 Share
+
+Model Spec changes
+
+  * Model Spec changes
+    * Proposed changes that were adopted
+    * Proposed changes that were not adopted
+  * What we did
+    * Collecting external feedback
+    * Proposing Model Spec changes
+      * Inferring rules from data
+      * Moving from proposed rules to changes in practice
+    * Limitations
+  * Conclusion
+  * Appendix: Demographic data
+
+
+
+  * Model Spec changes
+    * Proposed changes that were adopted
+    * Proposed changes that were not adopted
+  * What we did
+    * Collecting external feedback
+    * Proposing Model Spec changes
+      * Inferring rules from data
+      * Moving from proposed rules to changes in practice
+    * Limitations
+  * Conclusion
+  * Appendix: Demographic data
+
+
 
 No single person or institution should define how an ideal AI should behave for everyone.
 
@@ -89,7 +110,7 @@ By and large, we found that the crowd views were aligned with the Model Spec Ran
 
 _Figure 1: We used GPT‑5 Thinking to grade on a scale of 1–5 how relevant each conversation in our dataset is to a section of the spec, and calculate section-level agreement where relevance grades were 5 (error bars represent bootstrapped 95% confidence intervals)._
 
-####  Proposed changes that were adopted
+###  Proposed changes that were adopted
 
 Using the collected input, we will be updating the Spec. These changes will come out soon in the next Model Spec release:
 
@@ -108,7 +129,7 @@ However, general persuasive political content — including content that support
 
 However, political content that is crafted for an unspecified or broad audience is allowed, as long as it does not exploit the unique characteristics of a particular individual or demographic for manipulative purposes. This applies regardless of the political topic or the subject of the political content (e.g. a specific politician, party or campaign). See also #no_agenda for related principles on general persuasiveness.
 
-#### Proposed changes that were not adopted
+### Proposed changes that were not adopted
 
 While some divergences between crowd preferences and the Spec led to clarifications or updates, others raised practical challenges that kept us from adopting them at this stage. Two areas stood out:
 
@@ -119,7 +140,7 @@ While some divergences between crowd preferences and the Spec led to clarificati
 
 ## What we did
 
-#### Collecting external feedback
+### Collecting external feedback
 
 We recruited ~1,000 participants to review model behavior in value‑sensitive domains. Participants lived in 19 countries (originally hailing from 50+), met an English‑reading inclusion criterion, and could write justifications in their native language. About a third lived in the US, with others from Mexico, South Africa, the Netherlands, Chile, the UK, India, Kenya, Japan, and more. The participant pool included a wide spread of perspectives across age, gender, race, education, and AI usage for a first test. You can view aggregated statistics about the participants below.
 
@@ -129,9 +150,9 @@ Rather than asking participants to read and comment on the entire Spec, we asked
 
 _Figure 2: Participants ranked model responses where ideal behavior might be subjective. We turned their rankings, justifications, and rubric items into proposed Model Spec changes._
 
-####  Proposing Model Spec changes
+###  Proposing Model Spec changes
 
-##### Inferring rules from data
+#### Inferring rules from data
 
 We examined ways to turn participant feedback into concrete Model Spec proposals by testing two complementary approaches, focused on the biggest gaps between participants’ views and the Model Spec Ranker’s output from the current Spec.
 
@@ -146,7 +167,7 @@ In the fully-automated loop, we tried two Spec related proposal algorithms. Both
 
 Both the human-first and fully-automated loop are limited. Deciding whether conversation-level justifications support a more general Spec update is not an exact science. To get the ground truth would require going back to ask humans directly about the proposed change, as well as its downstream effects on model behavior.
 
-##### Moving from proposed rules to changes in practice
+#### Moving from proposed rules to changes in practice
 
 Moving from observed preferences to Spec changes in practice included moving through OpenAI’s internal review processes. Deliberation during the review weighed crowd preferences alongside various product or behavior changes already in flight, our safety policy, and risks that are not directly observable within our dataset—e.g., whether permissive rules could enable mass-scale manipulation on our platform, whether the model could reliably infer a user’s intent, and practical deployment constraints. Additionally, our study was designed to reveal individual preferences on specific prompts, without necessarily considering broader social factors (e.g., the possibility for scaled targeted political persuasion) that factor into the current Model Spec policies. Therefore more deliberation and expert input is needed before making more consequential changes.
 
@@ -154,7 +175,7 @@ Throughout these discussions, the research team manually iterated on the proposa
 
 Spec update proposals and validation are active research areas and are inherently part of a noisy sociotechnical process. We believe our methods bring our Spec more closely in alignment to public preferences, but there is more work to be done. This represents a first iteration of an end-to-end collective alignment process, where future work will focus on scaling and improving each stage of elicitation, analysis, validation, and governance. We look forward to improving our alignment with the public as we scale into the future.
 
-#### Limitations
+### Limitations
 
 This work is an early-stage experiment, and it comes with clear limitations:
 
@@ -198,17 +219,17 @@ Adam Kalai, AJ Ostrow, Andrea Vallone, Anna-Luisa Brakman, Boaz Barak, Brent Ban
 
 [View all](</news/>)
 
-![System Card 1x1](https://images.ctfassets.net/kftzwdyauwt9/2VCkKLVmTyNs0XGbqdxGeA/33ff7738f4e795ae0ee41ed2b4a985d3/System_Card_1x1.jpg?w=3840&q=90&fm=webp)
+![GPT-Red art card](https://images.ctfassets.net/kftzwdyauwt9/6q32m87ClqE8Ovn6vD424h/05ced72e47bbe42711fbac6a082cbff2/Art_Card.png?w=3840&q=90&fm=webp)
 
-[GPT-5.5 Instant System CardSafetyMay 5, 2026](</index/gpt-5-5-instant-system-card/>)
+[GPT-Red: Unlocking Self-Improvement for RobustnessSafetyJul 15, 2026](</index/unlocking-self-improvement-gpt-red/>)
 
-![oai goblins](https://images.ctfassets.net/kftzwdyauwt9/1UA2Ru5dt5rwdQfwl6B6m3/13c19cd49b106f8a39d5a2a132343b77/Goblins-1_1_Art_Card.jpg?w=3840&q=90&fm=webp)
+![Separating signal from noise > Art Card](https://images.ctfassets.net/kftzwdyauwt9/7j6M3prKIsTmV6cbMaHjhZ/e66f7cdd98c66c99546853cbc22cfe84/Seperating-signal-from-noise-card.png?w=3840&q=90&fm=webp)
 
-[Where the goblins came fromPublicationApr 29, 2026](</index/where-the-goblins-came-from/>)
+[Separating signal from noise in coding evaluationsResearchJul 8, 2026](</index/separating-signal-from-noise-coding-evaluations/>)
 
-![System Card Card SEO 1x1](https://images.ctfassets.net/kftzwdyauwt9/7qMrOFCWWMweIDBUpYFr79/7741661650df6eb935acb5bda179b091/System_Card_Card_SEO_1x1.jpg?w=3840&q=90&fm=webp)
+![Introducing GeneBench-Pro > Cover image](https://images.ctfassets.net/kftzwdyauwt9/7sbJaKBi5qLXAqbewh72aK/93197556e903eac9df6f077eb12b7581/GenebenchPro_Blog_ArtCard.png?w=3840&q=90&fm=webp)
 
-[GPT-5.5 System CardSafetyApr 23, 2026](</index/gpt-5-5-system-card/>)
+[Introducing GeneBench-ProResearchJun 30, 2026](</index/introducing-genebench-pro/>)
 
 Research
 
@@ -220,9 +241,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -259,6 +280,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -292,6 +315,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

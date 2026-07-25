@@ -26,6 +26,14 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
+# Factory builds the Command Center for software development with OpenAI’s reasoning models
+
+![Factory](https://images.ctfassets.net/kftzwdyauwt9/2sewRmQoaHRlytlRWxeBsW/5292ff89fcc8c4540f0d9e8d7cf7c979/oai_Factory_hero__1_.png?w=3840&q=90&fm=webp)
+
+Loading…
+
+Share
+
 Tackling inefficiencies in software development
 
   * Tackling inefficiencies in software development
@@ -35,13 +43,12 @@ Tackling inefficiencies in software development
 
 
 
-# Factory builds the Command Center for software development with OpenAI’s reasoning models
+  * Tackling inefficiencies in software development
+  * Optimizing the software development lifecycle with the right models
+  * Faster developing and better engineering outcomes with OpenAI
+  * Building for autonomous software development
 
-![Factory](https://images.ctfassets.net/kftzwdyauwt9/2sewRmQoaHRlytlRWxeBsW/5292ff89fcc8c4540f0d9e8d7cf7c979/oai_Factory_hero__1_.png?w=3840&q=90&fm=webp)
 
-Loading…
-
-Share
 
 [ _Factory_ ⁠(opens in a new window)](<https://www.factory.ai/>), founded in 2023 by Matan Grinberg and Eno Reyes, uses OpenAI’s reasoning models to change how organizations build and maintain software.
 
@@ -80,7 +87,7 @@ Factory has integrated OpenAI's models strategically across different stages of 
 **Planning**|  Architecture decisions, system design| OpenAI o1| High reasoning capabilities for complex architectural decisions and system-level planning  
 **Execution**|  Code generation, editing, reviews| OpenAI o1OpenAI o3‑miniGPT‑4o| Using predicted outputs reduces latency by 50% for real-time coding assistance  
   
-“We've found that giving developers flexibility to choose the right model for their specific task is crucial,” says Reyes. “For quick code reviews, o3‑mini provides almost identical quality to larger models but at significantly faster speeds, while complex architectural planning benefits from o1's deeper reasoning capabilities.”
+“We’ve found that giving developers flexibility to choose the right model for their specific task is crucial,” says Reyes. “For quick code reviews, o3‑mini provides almost identical quality to larger models but at significantly faster speeds, while complex architectural planning benefits from o1's deeper reasoning capabilities.”
 
 Factory is also experimenting with reinforcement fine-tuning o3‑mini for code reranking and auto-injecting lightweight guidance to improve model compliance—enhancing precision in production-grade AI development.
 
@@ -102,7 +109,7 @@ Instead of switching between multiple tools, developers can find everything they
 
 Factory's next focus is making AI-powered development even more autonomous.
 
-Through integrating native tools across source control, project management, team communication, error monitoring, and continuous delivery pipelines, combined with reasoning models, they're building AI systems that can proactively plan, execute, and refine engineering tasks across the entire software development lifecycle.
+Through integrating native tools across source control, project management, team communication, error monitoring, and continuous delivery pipelines, combined with reasoning models, they’re building AI systems that can proactively plan, execute, and refine engineering tasks across the entire software development lifecycle.
 
 > “The software of the future will be built by humans and AI, together, in one platform. With OpenAI’s reasoning models, we’re enabling developers to focus on higher-leverage work while AI handles the complexity.”
 
@@ -136,9 +143,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -175,6 +182,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -208,6 +217,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

@@ -40,7 +40,7 @@ Loading…
 
 Share
 
-We're building AI to help people solve hard problems, including by using AI to accelerate scientific discovery. Through [_our collaboration with the U.S. Department of Energy’s national labs_](</index/strengthening-americas-ai-leadership-with-the-us-national-laboratories/>) , we’re making our advanced AI models available to researchers pushing the frontiers of science and technology while strengthening U.S. leadership in AI. 
+We’re building AI to help people solve hard problems, including by using AI to accelerate scientific discovery. Through [_our collaboration with the U.S. Department of Energy’s national labs_](</index/strengthening-americas-ai-leadership-with-the-us-national-laboratories/>) , we’re making our advanced AI models available to researchers pushing the frontiers of science and technology while strengthening U.S. leadership in AI. 
 
 Together, we organized a “1,000 Scientist AI Jam Session”—a first-of-its-kind event taking place today across nine national labs, bringing together over 1,000 scientists for a day to use AI to accelerate scientific discovery. 
 
@@ -72,9 +72,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -111,6 +111,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -144,6 +146,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

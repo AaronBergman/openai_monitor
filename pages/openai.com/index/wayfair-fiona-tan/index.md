@@ -43,30 +43,18 @@ Share
 Why do you think AI is especially critical for ecommerce?
 
   * Why do you think AI is especially critical for ecommerce?
-
   * Beyond customer improvements, how is Wayfair fostering AI fluency within the organization?
-
   * How do you measure the success of these AI initiatives?
-
   * What’s next for AI at Wayfair?
-
   * How do you see AI reshaping the future of ecommerce?
 
 
-
-
-Table of contents
 
   * Why do you think AI is especially critical for ecommerce?
-
   * Beyond customer improvements, how is Wayfair fostering AI fluency within the organization?
-
   * How do you measure the success of these AI initiatives?
-
   * What’s next for AI at Wayfair?
-
   * How do you see AI reshaping the future of ecommerce?
-
 
 
 
@@ -118,7 +106,7 @@ The potential applications are nearly limitless. As models grow more advanced, w
 
 Beyond internal use, we’re focused on transforming customer experiences. By integrating conversational interfaces, multimodal search capabilities, and hyper-personalization, we aim to set new standards for ecommerce.
 
-> “Inasmuch as we can allow folks to become more and more familiar with what the capabilities are, it'll allow us to make some of these disruptive changes.”
+> “Inasmuch as we can allow folks to become more and more familiar with what the capabilities are, it’ll allow us to make some of these disruptive changes.”
 
 Listen
 
@@ -164,8 +152,6 @@ OpenAI
 
 [Boosting the customer retail experience with GPT-4o miniDec 11, 2024](</index/zalando/>)
 
-[](<>)
-
 Research
 
   * [Research Index](</research/index/>)
@@ -176,9 +162,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -215,6 +201,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -248,6 +236,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

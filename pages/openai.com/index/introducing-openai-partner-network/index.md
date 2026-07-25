@@ -39,24 +39,16 @@ Share
 Helping enterprises move from ambition to outcome with AI
 
   * Helping enterprises move from ambition to outcome with AI
-
   * How the OpenAI Partner Network works
-
   * Building a global ecosystem for AI transformation
-
   * Expanding access to AI’s benefits
-
 
 
 
   * Helping enterprises move from ambition to outcome with AI
-
   * How the OpenAI Partner Network works
-
   * Building a global ecosystem for AI transformation
-
   * Expanding access to AI’s benefits
-
 
 
 
@@ -92,7 +84,7 @@ Dan Leiva, Vice President, Customer Service & Marketing Technology, eBay
 
 David Wilson, Vice President, Platform and Technology Services, Paychex
 
-> “Our collaboration with Accenture and OpenAI is helping us explore the next generation of AI-enabled customer experiences. Through our IntentCX work, we're evaluating how real-time intent and sentiment intelligence can enable faster, more personalized, and more seamless interactions for customers.”
+> “Our collaboration with Accenture and OpenAI is helping us explore the next generation of AI-enabled customer experiences. Through our IntentCX work, we’re evaluating how real-time intent and sentiment intelligence can enable faster, more personalized, and more seamless interactions for customers.”
 
 Grant Ries, Chief Data & AI Officer of T-Mobile
 
@@ -134,11 +126,11 @@ Hear what our partners have to say:
 
 Dr. Lan Guan, Chief AI and Data Officer, Accenture
 
-> “We're proud to be part of OpenAI's Partner Network and to build on our longstanding partnership that has delivered measurable impact for clients around the world. Together, OpenAI and Bain are helping organizations move from AI ambition to enterprise-wide impact. By combining OpenAI's frontier AI technology with Bain's expertise in strategy, technology, and enterprise transformation, we help clients deploy and scale AI more effectively, delivering measurable business impact and lasting competitive advantage.”
+> “We’re proud to be part of OpenAI's Partner Network and to build on our longstanding partnership that has delivered measurable impact for clients around the world. Together, OpenAI and Bain are helping organizations move from AI ambition to enterprise-wide impact. By combining OpenAI's frontier AI technology with Bain's expertise in strategy, technology, and enterprise transformation, we help clients deploy and scale AI more effectively, delivering measurable business impact and lasting competitive advantage.”
 
 Chuck Whitten, Global Head of Bain’s Digital Practices and Capabilities
 
-> “Our partnership with OpenAI brings together frontier AI, BCG’s expertise in transformation across industries and functions, and BCG X’s technology capabilities and forward deployed engineering talent. Together, we're helping clients move beyond pilots to build and deploy applied AI at scale and deliver measurable business impact. We're excited to be a part of the OpenAI Partner Network and extend that transformative impact to more organizations globally.”
+> “Our partnership with OpenAI brings together frontier AI, BCG’s expertise in transformation across industries and functions, and BCG X’s technology capabilities and forward deployed engineering talent. Together, we’re helping clients move beyond pilots to build and deploy applied AI at scale and deliver measurable business impact. We’re excited to be a part of the OpenAI Partner Network and extend that transformative impact to more organizations globally.”
 
 Sylvain Duranton, Managing Director & Senior Partner at BCG and Global Leader of BCG X
 
@@ -150,7 +142,7 @@ Stephen Garden, CEO, Eliza
 
 Ben Ellencweig, Global Leader of Alliances, Acquisitions, and Partnerships at QuantumBlack, AI by McKinsey
 
-> “Unlocking AI's full value takes more than technology, it takes the right strategy, operating model, governance, and execution. By combining OpenAI's frontier capabilities with PwC's transformation expertise, we're helping clients build the intelligent enterprise: deploying AI responsibly, at scale, and with lasting impact. We're proud to deepen our partnership with OpenAI and accelerate that journey.”
+> “Unlocking AI's full value takes more than technology, it takes the right strategy, operating model, governance, and execution. By combining OpenAI's frontier capabilities with PwC's transformation expertise, we’re helping clients build the intelligent enterprise: deploying AI responsibly, at scale, and with lasting impact. We’re proud to deepen our partnership with OpenAI and accelerate that journey.”
 
 Tyson Cornell, US Advisory Leader, PwC
 
@@ -201,15 +193,17 @@ OpenAI
 
 [View all](</news/>)
 
+![Health in ChatGPT > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/48aIp3cQOKJ57vpQeqOb8y/2e8732bcad5ceea1c7b20cf001bd2823/1_1_Art_Card.png?w=3840&q=90&fm=webp)
+
+[Launching Health in ChatGPT ProductJul 23, 2026](</index/health-in-chatgpt/>)
+
+![OpenAI Presence 1x1](https://images.ctfassets.net/kftzwdyauwt9/5JBDenSGI6wx5CMPPlaM5J/da9d8e27a0bd70d845a816b28ac641a9/OpenAI_Presence_1x1.png?w=3840&q=90&fm=webp)
+
+[Introducing OpenAI PresenceProductJul 22, 2026](</index/introducing-openai-presence/>)
+
 ![GPT-5.6 is now the preferred model in Microsoft 365 Copilot > Cover image](https://images.ctfassets.net/kftzwdyauwt9/3MPipvFMxS8m3kTyCtwFgj/015747dcd34cb667a221688cfca64e0f/Frame.png?w=3840&q=90&fm=webp)
 
 [GPT-5.6 is now the preferred model in Microsoft 365 CopilotProductJul 9, 2026](</index/gpt-5-6-preferred-model-microsoft-365-copilot/>)
-
-[ChatGPT is now a partner for your most ambitious workProductJul 9, 2026](</index/chatgpt-for-your-most-ambitious-work/>)
-
-![GPT 5-6 > Card](https://images.ctfassets.net/kftzwdyauwt9/1a9IPPV5nXWydTBosgmgYI/8e03f28ca04f26edc8bc81cdba387df1/5-6.jpg?w=3840&q=90&fm=webp)
-
-[GPT-5.6: Frontier intelligence that scales with your ambitionProductJul 9, 2026](</index/gpt-5-6/>)
 
 Research
 

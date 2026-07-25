@@ -26,13 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Message from Sam to the company
-
-  * Message from Sam to the company
-  * Message from Bret to the company
-
-
-
 November 29, 2023
 
 [Company](</news/company-announcements/>)
@@ -47,6 +40,18 @@ Loading…
 
 Share
 
+Message from Sam to the company
+
+  * Message from Sam to the company
+  * Message from Bret to the company
+
+
+
+  * Message from Sam to the company
+  * Message from Bret to the company
+
+
+
  _Below are messages CEO Sam Altman and board chair Bret Taylor shared with the company this afternoon._
 
 ## Message from Sam to the company
@@ -57,7 +62,7 @@ I have never been more excited about the future. I am extremely grateful for eve
 
 Before getting to what comes next, I’d like to share some thanks.
 
-I love and respect Ilya, I think he's a guiding light of the field and a gem of a human being. I harbor zero ill will towards him. While Ilya will no longer serve on the board, we hope to continue our working relationship and are discussing how he can continue his work at OpenAI.
+I love and respect Ilya, I think he’s a guiding light of the field and a gem of a human being. I harbor zero ill will towards him. While Ilya will no longer serve on the board, we hope to continue our working relationship and are discussing how he can continue his work at OpenAI.
 
 I am grateful to Adam, Tasha, and Helen for working with us to come to this solution that best serves the mission. I’m excited to continue to work with Adam and am sincerely thankful to Helen and Tasha for investing a huge amount of effort in this process.
 
@@ -156,9 +161,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -195,6 +200,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -228,6 +235,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

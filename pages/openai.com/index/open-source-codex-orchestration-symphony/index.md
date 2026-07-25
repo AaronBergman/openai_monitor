@@ -52,7 +52,7 @@ This post explains how we created Symphony—resulting in a 500% increase in lan
 
 Even as they get easier to use, coding agents—whether accessed through web apps or CLI—are still interactive tools.
 
-As the scale of agentic work increased at OpenAI, we found a new kind of burden. Each engineer would open a few Codex sessions, assign tasks, review the output, steer the agent, and repeat. In practice, most people could comfortably manage three to five sessions at a time before context switching became painful. Beyond that, productivity dropped. We'd forget which session was doing what, jump between terminals to nudge agents back on track, and debug long-running tasks that stalled halfway through.
+As the scale of agentic work increased at OpenAI, we found a new kind of burden. Each engineer would open a few Codex sessions, assign tasks, review the output, steer the agent, and repeat. In practice, most people could comfortably manage three to five sessions at a time before context switching became painful. Beyond that, productivity dropped. We’d forget which session was doing what, jump between terminals to nudge agents back on track, and debug long-running tasks that stalled halfway through.
 
 The agents were fast, but we had a system bottleneck: human attention. We had effectively built a team of extremely capable junior engineers, then assigned our human engineers to micromanaging them. That wasn’t going to scale.
 
@@ -97,7 +97,7 @@ When observing the effects of working with Symphony, the most obvious change was
 
 When our engineers no longer spend time supervising Codex sessions, the economics of code changes completely. The perceived cost of each change drops because we’re no longer investing human effort in driving the implementation itself.
 
-That changed our behavior. It's become trivial to spin up speculative tasks in Symphony. Try an idea, explore a refactor, test a hypothesis, and only keep the results that look promising.
+That changed our behavior. It’s become trivial to spin up speculative tasks in Symphony. Try an idea, explore a refactor, test a hypothesis, and only keep the results that look promising.
 
 It also broadens who can initiate work. Our product manager and designer can now file feature requests directly into Symphony. They don’t need to check out the repo or manage a Codex session. They describe the feature and get back a review packet that includes a video walkthrough of the feature working inside the real product.
 
@@ -5942,7 +5942,7 @@ Through the process of building Symphony, we removed a lot of incidental complex
 
 > For every open task, guarantee that an agent is running in its own workspace.
 
-In addition to helping with the active work, the development workflow is now something agents know and follow. The development workflow—work on an issue, check out a repo, put it in progress so the PM knows it's being worked on, add the PR, move it to the **Review** status, attach videos, etc.—is now captured in a simple `WORKFLOW.md` file. All of this is a process that humans followed, but it was never documented. Rather than relying on this implicit set of steps, we now document it, and Symphony ensures agents follow it. This lets us build agents that work alongside us. If we decide that agents should also attach self-reflection to finished work, we'll add that to the `WORKFLOW.md`, and Symphony will guide the agents to that step.
+In addition to helping with the active work, the development workflow is now something agents know and follow. The development workflow—work on an issue, check out a repo, put it in progress so the PM knows it’s being worked on, add the PR, move it to the **Review** status, attach videos, etc.—is now captured in a simple `WORKFLOW.md` file. All of this is a process that humans followed, but it was never documented. Rather than relying on this implicit set of steps, we now document it, and Symphony ensures agents follow it. This lets us build agents that work alongside us. If we decide that agents should also attach self-reflection to finished work, we’ll add that to the `WORKFLOW.md`, and Symphony will guide the agents to that step.
 
 We also got to use Codex in [app server mode⁠(opens in a new window)](<https://developers.openai.com/codex/app-server/>), a built-in headless mode for Codex. This mode allowed us to run Codex and talk to it programmatically via a well documented JSON-RPC API for things like starting a thread or reacting to turns. It’s more convenient and scalable than trying to interact with Codex via CLI or live `tmux` sessions.
 
@@ -5950,13 +5950,13 @@ Codex App Server was a perfect fit for our use case: we take advantage of the ha
 
 ### What’s next
 
-Symphony is an intentionally minimal orchestration layer. We’re open sourcing it to demonstrate the power of Codex App Server when paired with different workflow tools, like Linear. As such, we don't plan to maintain Symphony as a standalone product. Think of it as a reference implementation. Similar to how many developers pointed their coding agents at the harness engineering post to scaffold their repositories, we hope you point your favorite coding agent at the Symphony [spec⁠(opens in a new window)](<https://github.com/openai/symphony/blob/main/SPEC.md>) and [repository⁠(opens in a new window)](<https://github.com/openai/symphony>) to build your own versions tailored to your environments.
+Symphony is an intentionally minimal orchestration layer. We’re open sourcing it to demonstrate the power of Codex App Server when paired with different workflow tools, like Linear. As such, we don’t plan to maintain Symphony as a standalone product. Think of it as a reference implementation. Similar to how many developers pointed their coding agents at the harness engineering post to scaffold their repositories, we hope you point your favorite coding agent at the Symphony [spec⁠(opens in a new window)](<https://github.com/openai/symphony/blob/main/SPEC.md>) and [repository⁠(opens in a new window)](<https://github.com/openai/symphony>) to build your own versions tailored to your environments.
 
 The power comes from Codex and its app server. Symphony was a way to connect Codex to Linear, two things we already used, to solve the work management problem. As coding agents become better at reasoning and following instructions, we suspect the bottleneck at other companies will shift from writing code toward managing agentic work, too. The exciting part is that the barrier to experimenting with these coding agent systems is now surprisingly low. You can just build things with Codex.
 
 ### Community shoutouts
 
-We're thrilled to see the engineering community using Symphony in the weeks since release, garnering over [15K GitHub stars⁠(opens in a new window)](<https://github.com/openai/symphony>) as of April 23.
+We’re thrilled to see the engineering community using Symphony in the weeks since release, garnering over [15K GitHub stars⁠(opens in a new window)](<https://github.com/openai/symphony>) as of April 23.
 
 Research
 
@@ -5968,9 +5968,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -6007,6 +6007,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -6040,6 +6042,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

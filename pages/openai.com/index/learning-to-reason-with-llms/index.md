@@ -49,8 +49,6 @@ Evals
 
 
 
-Table of contents
-
   * Evals
   * Chain of Thought
   * Coding
@@ -159,7 +157,7 @@ Use the example above to decode:
 
 oyekaijzdf aaptcg suaokybhai ouow aqht mynznvaatzacdfoulxxz
 
-Thought for 5 seconds
+Thought for 0 seconds
 
 First, what is going on here?  
   
@@ -175,9 +173,9 @@ Our task is: Use the example above to decode: "oyekaijzdf aaptcg suaokybhai ouow
   
 So the first part is to figure out how "oyfjdnisdr rtqwainr acxz mynzbhhx" is decoded into "Think step by step"  
   
-Observation 1: The phrase "Think step by step" is 18 letters (excluding spaces) . Let's count the letters.  
+Observation 1: The phrase "Think step by step" is 18 letters (excluding spaces) . Let’s count the letters.  
   
-Similarly, let's count the letters in "oyfjdnisdr rtqwainr acxz mynzbhhx"  
+Similarly, let’s count the letters in "oyfjdnisdr rtqwainr acxz mynzbhhx"  
   
 Original Ciphertext:  
   
@@ -191,7 +189,7 @@ First, break down the letters:
   
 Ciphertext letters: o y f j d n i s d r r t q w a i n r a c x z m y n z b h h x  
   
-Total letters: Let's count the letters in the ciphertext.  
+Total letters: Let’s count the letters in the ciphertext.  
   
 First word: oyfjdnisdr (10 letters)  
   
@@ -235,7 +233,7 @@ Option 1: Try to find mapping from letters to letters.
   
 Do any letters match?  
   
-First, let's write down the ciphertext and plaintext letters on top of each other.  
+First, let’s write down the ciphertext and plaintext letters on top of each other.  
   
 Ciphertext: o y f j d n i s d r r t q w a i n r a c x z m y n z b h h x  
   
@@ -275,11 +273,11 @@ It seems that the ciphertext words are exactly twice as long as the plaintext wo
   
 Idea: Maybe we need to take every other letter or rebuild the plaintext from the ciphertext accordingly.  
   
-Let's test this theory.  
+Let’s test this theory.  
   
-If we take every other letter from the ciphertext words, maybe we'll get the plaintext.  
+If we take every other letter from the ciphertext words, maybe we’ll get the plaintext.  
   
-Let's try this for the first word:  
+Let’s try this for the first word:  
   
 Ciphertext word: o y f j d n i s d r (10 letters)  
   
@@ -289,7 +287,7 @@ First letters (positions 1,3,5,7,9): o f d i d
   
 Second letters (positions 2,4,6,8,10): y j n s r  
   
-Wait: Let's try taking every second letter or first letter.  
+Wait: Let’s try taking every second letter or first letter.  
   
 Option 1: Take the odd positions:  
   
@@ -343,11 +341,11 @@ If this is the mapping, perhaps each pair of letters maps to one plaintext lette
   
 Similarly for other words.  
   
-Let's test this mapping.  
+Let’s test this mapping.  
   
 Is there a consistent mapping from pairs to letters?  
   
-Let's make a table of pairs and corresponding letters.  
+Let’s make a table of pairs and corresponding letters.  
   
 First, make the pairs from the first word and their corresponding plaintext letters:  
   
@@ -363,7 +361,7 @@ is -> n
   
 dr -> k  
   
-Now, what's the mapping from "oy" to 'T'?  
+Now, what’s the mapping from "oy" to 'T'?  
   
 Is there a way to map 'oy' to 'T'?  
   
@@ -377,7 +375,7 @@ Option 1: Sum of the letters.
   
 Convert letters to numbers (A=1, B=2, ..., Z=26)  
   
-So let's try to get to 'T' from 'o' and 'y'  
+So let’s try to get to 'T' from 'o' and 'y'  
   
 o = 15  
   
@@ -401,7 +399,7 @@ Alternatively, perhaps if we overlay the word 'Think' over the cipher pairs 'oy'
   
 Alternatively, perhaps consider the 'original' letters.  
   
-Let's look at the letters between the word "Think" and "oyfjdnisdr"  
+Let’s look at the letters between the word "Think" and "oyfjdnisdr"  
   
 Perhaps we can spot that "oyfjdnisdr" is an anagram for "Thinkfiles"?  
   
@@ -431,17 +429,17 @@ Then 40 mod 26 = 14
   
 14 corresponds to 'N'  
   
-Doesn't match.  
+Doesn’t match.  
   
 Alternatively, see if the cipher pairs correspond to something else.  
   
 Alternatively, perhaps the pair 'oy' corresponds to 'T' via key.  
   
-Alternatively, perhaps it's as simple as 'oy' is 'T'.  
+Alternatively, perhaps it’s as simple as 'oy' is 'T'.  
   
 But 'o' corresponds to 'T', subtracting 'o' ASCII code from 'T'.  
   
-Now, let's think in terms of symmetric letters.  
+Now, let’s think in terms of symmetric letters.  
   
 Alternatively, perhaps we can spot that the letters correspond to the first letters of words.  
   
@@ -449,7 +447,7 @@ But perhaps an easier way is to look at the word positions.
   
 Alternatively, perhaps we can see that the ciphertext letters are offsets from the plaintext letters.  
   
-So let's try to map the pairs to the plaintext letters.  
+So let’s try to map the pairs to the plaintext letters.  
   
 First pair 'oy' and plaintext letter 'T'  
   
@@ -477,7 +475,7 @@ First pair: 'o' (15) + 'y' (25) = 40
   
 So perhaps the average of the letters in the pair corresponds to the plaintext letter.  
   
-Let's check this with the second pair.  
+Let’s check this with the second pair.  
   
 Second pair: 'fj' corresponding to 'h'  
   
@@ -539,7 +537,7 @@ Alternatively, the average of the numeric values of the letters corresponds to t
   
 This seems to be a valid method.  
   
-Now let's test this with the other words.  
+Now let’s test this with the other words.  
   
 Second word ciphertext: rtqwainr  
   
@@ -555,7 +553,7 @@ nr -> ?
   
 Corresponding to plaintext letters 's', 't', 'e', 'p'  
   
-So let's take the pairs:  
+So let’s take the pairs:  
   
 1\. 'rt' corresponds to 's'  
   
@@ -723,7 +721,7 @@ So perhaps in our supplied ciphertext, we need to divide the letters into words 
   
 Ciphertext: o y e k a i j z d f a a p t c g s u a o k y b h a i o u o w a q h t m y n z n v a a t z a c d f o u l x x z  
   
-First, let's write the letters in order:  
+First, let’s write the letters in order:  
   
 1) oyekaijzdf (10 letters) -> word of 5 letters  
   
@@ -987,11 +985,11 @@ l x
   
 x z  
   
-Let's list them properly.  
+Let’s list them properly.  
   
 Wait, earlier I missed some letters there.  
   
-Let's re-express the sixth word letters:  
+Let’s re-express the sixth word letters:  
   
 m y n z n v a a t z a c d f o u l x x z  
   
@@ -1021,7 +1019,7 @@ Pairs:
   
 11\. z  
   
-Wait, that's 21 letters.  
+Wait, that’s 21 letters.  
   
 But in total, we have 22 letters; I think I have a mismatch.  
   
@@ -1029,7 +1027,7 @@ Wait, in the problem the sixth word is:
   
 mynznvaatzacdfoulxxz  
   
-Let's separate the letters:  
+Let’s separate the letters:  
   
 m y n z n v a a t z a c d f o u l x x z  
   
@@ -1085,9 +1083,9 @@ So maybe the letters are:
   
 11\. z (left alone?)  
   
-But then we're missing a letter.  
+But then we’re missing a letter.  
   
-Alternatively, perhaps the 'z' at the end is an extra letter or it's paired with the previous 'x'.  
+Alternatively, perhaps the 'z' at the end is an extra letter or it’s paired with the previous 'x'.  
   
 Alternatively, perhaps there is a mistake.  
   
@@ -1157,7 +1155,7 @@ But we need 11 pairs.
   
 I think for this to work, we need to create 11 pairs from the 22 letters.  
   
-So let's try pairing letters in order, taking two letters at a time.  
+So let’s try pairing letters in order, taking two letters at a time.  
   
 1\. m y  
   
@@ -1185,11 +1183,11 @@ But again, last pair only has one letter 'z'
   
 Alternatively, we might need to adjust the pairs.  
   
-Perhaps it's 'ou', 'lx', 'xz', and there is no extra 'x'.  
+Perhaps it’s 'ou', 'lx', 'xz', and there is no extra 'x'.  
   
 Maybe I miswrote.  
   
-Wait, let's write the letters as they come:  
+Wait, let’s write the letters as they come:  
   
 m y n z n v a a t z a c d f o u l x x z  
   
@@ -1373,7 +1371,7 @@ Average=25
   
 So the tenth word is 'S', 'T', 'R', 'A', 'W', 'B', 'E', 'R', 'R', 'Y'  
   
-Wait that's 10 letters  
+Wait that’s 10 letters  
   
 So the sixth word is 'STRAWBERRY', which makes sense.  
   
@@ -1385,7 +1383,7 @@ Second word: 'ARE'
   
 Third word: 'THREE'  
   
-Fourth word: 'RS' (? Doesn't make sense)  
+Fourth word: 'RS' (? Doesn’t make sense)  
   
 Wait, the fourth word, the pairs were:  
   
@@ -1421,7 +1419,7 @@ So the message so far is
   
 And then 'STRAWBERRY'  
   
-Wait, let's put the words together:  
+Wait, let’s put the words together:  
   
 'THERE ARE THREE Rs IN STRAWBERRY'  
   
@@ -1685,9 +1683,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -1724,6 +1722,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -1757,6 +1757,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

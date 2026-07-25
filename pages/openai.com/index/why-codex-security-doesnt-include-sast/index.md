@@ -26,9 +26,19 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
+March 16, 2026
+
+[Product](</news/product-releases/>)[Security](</news/security/>)
+
+# Why Codex Security Doesn’t Include a SAST Report
+
+Share
+
 The problem: SAST is optimized for dataflow
 
   * The problem: SAST is optimized for dataflow
+    * Where static analysis struggles: constraints and semantics
+    * Did the defense really work?
   * Example: validation before decoding
   * Our approach: start from behavior, then validate
   * Why we don’t seed Codex Security with a SAST report
@@ -37,13 +47,16 @@ The problem: SAST is optimized for dataflow
 
 
 
-March 16, 2026
+  * The problem: SAST is optimized for dataflow
+    * Where static analysis struggles: constraints and semantics
+    * Did the defense really work?
+  * Example: validation before decoding
+  * Our approach: start from behavior, then validate
+  * Why we don’t seed Codex Security with a SAST report
+  * SAST tools are still very important
+  * Looking ahead
 
-[Product](</news/product-releases/>)[Security](</news/security/>)
 
-# Why Codex Security Doesn’t Include a SAST Report
-
-Share
 
 For decades, static application security testing (SAST) has been one of the most effective ways security teams scale code review. 
 
@@ -61,11 +74,11 @@ That, by itself, is not why Codex Security doesn’t start with a SAST report.
 
 The deeper issue is what happens after you successfully trace a source to a sink.
 
-#### Where static analysis struggles: constraints and semantics
+### Where static analysis struggles: constraints and semantics
 
 Even when static analysis correctly traces input across multiple functions and layers, it still has to answer the question that actually determines whether a vulnerability exists:
 
-#### Did the defense really work?
+### Did the defense really work?
 
 Take a common pattern: code calls something like `sanitize_html()` before rendering untrusted content. A static analyzer can see that the sanitizer ran. What it usually can’t determine is whether that sanitizer is actually sufficient for the specific rendering context, template engine, encoding behavior, and downstream transformations involved.
 
@@ -104,7 +117,7 @@ In practice, that tends to look like a mix of:
   * Reading the relevant code path with full repository context, the way a security researcher would, and looking for mismatches between intent and implementation. This includes comments, but the model does not necessarily believe comments so adding _//Halvar says: this is not a bug_ above your code does not confuse it, if there really is a bug.
   * Reducing the problem to the smallest testable slice (for example, the transformation pipeline around a single input), so you can reason about it without the rest of the system in the way. In this sense, Codex Security pulls out tiny code slices and then writes micro-fuzzers for them.
   * Reasoning about constraints across transformations, rather than treating each check independently. Where appropriate, this can include formalization as a satisfiability question. In other words, we give the model access to a Python environment with z3-solver and it is good at using it when needed, just as a human would have to when answering a particularly complicated input constraint problem. This is especially useful for looking at integer overflows or similar bugs on non-standard architectures.
-  * Executing hypotheses in a sandboxed validation environment when possible, to distinguish “this could be a problem” from “this is a problem”. There's no better proof than a full end-to-end PoC with the code compiled in debug mode. 
+  * Executing hypotheses in a sandboxed validation environment when possible, to distinguish “this could be a problem” from “this is a problem”. There’s no better proof than a full end-to-end PoC with the code compiled in debug mode. 
 
 
 
@@ -152,19 +165,17 @@ OpenAI
 
 [View all](</news/>)
 
-![Art Card 1080x1080 \(3\)](https://images.ctfassets.net/kftzwdyauwt9/3JLNH7ejJFnxLmX2LpzoKD/19f9e3c4d36cc9d677ba88e842ad2db2/Art_Card_1080x1080__4_.png?w=3840&q=90&fm=webp)
+![Health in ChatGPT > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/48aIp3cQOKJ57vpQeqOb8y/2e8732bcad5ceea1c7b20cf001bd2823/1_1_Art_Card.png?w=3840&q=90&fm=webp)
 
-Better memory for a more helpful ChatGPT
+[Launching Health in ChatGPT ProductJul 23, 2026](</index/health-in-chatgpt/>)
 
-[Dreaming: Better memory for a more helpful ChatGPTResearchJun 4, 2026](</index/chatgpt-memory-dreaming/>)
+![OpenAI Presence 1x1](https://images.ctfassets.net/kftzwdyauwt9/5JBDenSGI6wx5CMPPlaM5J/da9d8e27a0bd70d845a816b28ac641a9/OpenAI_Presence_1x1.png?w=3840&q=90&fm=webp)
 
-![Rosalind5.5 ArtCard](https://images.ctfassets.net/kftzwdyauwt9/6USIQM1B7TggUvvTFxxwoi/0176ac6633c8bdc24641d25d1d2db824/GPT-Rosalind_ArtCard.png?w=3840&q=90&fm=webp)
+[Introducing OpenAI PresenceProductJul 22, 2026](</index/introducing-openai-presence/>)
 
-[Introducing new capabilities to GPT-RosalindProductJun 3, 2026](</index/introducing-new-capabilities-to-gpt-rosalind/>)
+![Hugging Face Security Incident 1x1](https://images.ctfassets.net/kftzwdyauwt9/1H0bdkoSFFcqNTx4DSNpal/56f4b7575c012f0698b1be0dafb379f0/Hugging_Face_Security_Incident_1x1.png?w=3840&q=90&fm=webp)
 
-![1 1 Art Card](https://images.ctfassets.net/kftzwdyauwt9/4xugzd9dTDMUzIUmuamtO3/1f40af4e50ab8b2bdd64d5b491964961/1_1_Art_Card.png?w=3840&q=90&fm=webp)
-
-[Codex for every role, tool, and workflowProductJun 2, 2026](</index/codex-for-every-role-tool-workflow/>)
+[OpenAI and Hugging Face address security incidentSecurityJul 21, 2026](</index/hugging-face-model-evaluation-security-incident/>)
 
 Research
 
@@ -176,9 +187,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -215,6 +226,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -248,6 +261,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

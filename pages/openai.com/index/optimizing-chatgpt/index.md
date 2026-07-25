@@ -26,14 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-On healthy use
-
-  * On healthy use
-  * Learning from experts
-  * Looking ahead
-
-
-
 August 4, 2025
 
 [Safety](</news/safety-alignment/>)[Product](</news/product-releases/>)
@@ -45,6 +37,20 @@ We design ChatGPT to help you make progress, learn something new, and solve prob
 Loading…
 
 Share
+
+On healthy use
+
+  * On healthy use
+  * Learning from experts
+  * Looking ahead
+
+
+
+  * On healthy use
+  * Learning from experts
+  * Looking ahead
+
+
 
 We build ChatGPT to help you thrive in all the ways you want. To make progress, learn something new, or solve a problem — and then get back to your life. Our goal isn’t to hold your attention, but to help you use it well.
 
@@ -74,7 +80,7 @@ We also know that AI can feel more responsive and personal than prior technologi
 
 That’s why we’ve been working on the following changes to ChatGPT:
 
-  * **Supporting you when you’re struggling.** ChatGPT is trained to respond with grounded honesty. There have been instances where our 4o model fell short in recognizing signs of delusion or emotional dependency. While rare, we're continuing to improve our models and are developing tools to better detect signs of mental or emotional distress so ChatGPT can respond appropriately and point people to evidence-based resources when needed.
+  * **Supporting you when you’re struggling.** ChatGPT is trained to respond with grounded honesty. There have been instances where our 4o model fell short in recognizing signs of delusion or emotional dependency. While rare, we’re continuing to improve our models and are developing tools to better detect signs of mental or emotional distress so ChatGPT can respond appropriately and point people to evidence-based resources when needed.
   * **Keeping you in control of your time.** Starting today, you’ll see gentle reminders during long sessions to encourage breaks. We’ll keep tuning when and how they show up so they feel natural and helpful.
   * **Helping you solve personal challenges**. When you ask something like “Should I break up with my boyfriend?” ChatGPT shouldn’t give you an answer. It should help you think it through—asking questions, weighing pros and cons. New behavior for high-stakes personal decisions is rolling out soon.
 
@@ -85,7 +91,7 @@ That’s why we’ve been working on the following changes to ChatGPT:
 We’re working closely with experts to improve how ChatGPT responds in critical moments—for example, when someone shows signs of mental or emotional distress.
 
   * **Medical expertise.** We worked with over 90 physicians across over 30 countries—psychiatrists, pediatricians, and general practitioners — to build custom rubrics for evaluating complex, multi-turn conversations.
-  * **Research collaboration.** We're engaging human-computer-interaction (HCI) researchers and clinicians to give feedback on how we've identified concerning behaviors, refine our evaluation methods, and stress-test our product safeguards.
+  * **Research collaboration.** We’re engaging human-computer-interaction (HCI) researchers and clinicians to give feedback on how we’ve identified concerning behaviors, refine our evaluation methods, and stress-test our product safeguards.
   * **Advisory group.** We’re convening an advisory group of experts in mental health, youth development, and HCI. This group will help ensure our approach reflects the latest research and best practices.
 
 
@@ -111,19 +117,17 @@ OpenAI
 
 [View all](</news/>)
 
-![Art Card 1080x1080 \(3\)](https://images.ctfassets.net/kftzwdyauwt9/3JLNH7ejJFnxLmX2LpzoKD/19f9e3c4d36cc9d677ba88e842ad2db2/Art_Card_1080x1080__4_.png?w=3840&q=90&fm=webp)
+![Health in ChatGPT > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/48aIp3cQOKJ57vpQeqOb8y/2e8732bcad5ceea1c7b20cf001bd2823/1_1_Art_Card.png?w=3840&q=90&fm=webp)
 
-Better memory for a more helpful ChatGPT
+[Launching Health in ChatGPT ProductJul 23, 2026](</index/health-in-chatgpt/>)
 
-[Dreaming: Better memory for a more helpful ChatGPTResearchJun 4, 2026](</index/chatgpt-memory-dreaming/>)
+![OpenAI Presence 1x1](https://images.ctfassets.net/kftzwdyauwt9/5JBDenSGI6wx5CMPPlaM5J/da9d8e27a0bd70d845a816b28ac641a9/OpenAI_Presence_1x1.png?w=3840&q=90&fm=webp)
 
-![Rosalind5.5 ArtCard](https://images.ctfassets.net/kftzwdyauwt9/6USIQM1B7TggUvvTFxxwoi/0176ac6633c8bdc24641d25d1d2db824/GPT-Rosalind_ArtCard.png?w=3840&q=90&fm=webp)
+[Introducing OpenAI PresenceProductJul 22, 2026](</index/introducing-openai-presence/>)
 
-[Introducing new capabilities to GPT-RosalindProductJun 3, 2026](</index/introducing-new-capabilities-to-gpt-rosalind/>)
+![PIA safety > Cover image](https://images.ctfassets.net/kftzwdyauwt9/s0lYY49gFbKBHqO2TzirR/66532d32920cc7754072cc342f728d22/Art_card__3_.png?w=3840&q=90&fm=webp)
 
-![1 1 Art Card](https://images.ctfassets.net/kftzwdyauwt9/4xugzd9dTDMUzIUmuamtO3/1f40af4e50ab8b2bdd64d5b491964961/1_1_Art_Card.png?w=3840&q=90&fm=webp)
-
-[Codex for every role, tool, and workflowProductJun 2, 2026](</index/codex-for-every-role-tool-workflow/>)
+[Safety and alignment in an era of long-horizon modelsSafetyJul 20, 2026](</index/safety-alignment-long-horizon-models/>)
 
 Research
 
@@ -135,9 +139,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -174,6 +178,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -207,6 +213,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

@@ -37,68 +37,38 @@ Share
 About OpenAI
 
   * About OpenAI
-
   * OpenAI Technology and Tools
-
   * AI Continues to Improve People’s Lives
-
   * AI Safety Practices
-
   * Deployment Safety and Learning
-
   * Privacy
-
   * Children’s Safety
-
   * Accuracy
-
   * Disinformation
-
   * Cybersecurity
-
   * Continuing Improvements to Our Safety Approach
-
   * Economic Impacts
-
   * Working with Governments
-
   * Conclusion
-
   * Question for the Record
-
 
 
 
   * About OpenAI
-
   * OpenAI Technology and Tools
-
   * AI Continues to Improve People’s Lives
-
   * AI Safety Practices
-
   * Deployment Safety and Learning
-
   * Privacy
-
   * Children’s Safety
-
   * Accuracy
-
   * Disinformation
-
   * Cybersecurity
-
   * Continuing Improvements to Our Safety Approach
-
   * Economic Impacts
-
   * Working with Governments
-
   * Conclusion
-
   * Question for the Record
-
 
 
 
@@ -157,12 +127,12 @@ In each of these areas, we developed mitigations to increase safety in significa
 
 ## Deployment Safety and Learning
 
-We work hard to understand and prevent risks before deployment.29 However, we can't anticipate every beneficial use, potential abuse, or failure of the technology. This is in large part because these systems are still human-directed—they try to follow user instructions to carry out tasks. Learning from and responding to real-world use by actual people is vital for creating safer AI systems.30 Our deployment practices involve cautiously and gradually releasing new AI models—with substantial safeguards in place—to gradually larger groups of people, making continuous improvements based on the lessons learned. We also make our most capable models available through our own services (and through an API), which allows us to monitor for and take action on misuse, and continually build mitigations that respond to the real ways people misuse our systems. As described in our Usage Policies, OpenAI expressly prohibits the use of its tools for certain activities, including but not limited to, generation of violent content, malware, fraudulent activity, high-volume political campaigning, and many other unwelcome areas.31We use a combination of automated detection systems and human review to detect potentially violating behavior in order to warn users or take enforcement actions. We use our newest models to help to identify unsafe content—this reduces the need for human moderators to be exposed to harmful or explicit content, helps us to quickly refine our moderation policies, and reduces the time needed to build safety tools. We also provide a free suite of moderation and safety tools to our developers to integrate into their products. We strive to be agile and responsive to customer concerns. We are continuously updating and improving our models and products based on feedback from our customers, users, the public, and other stakeholder groups, including governments. Iterative deployment has other advantages for AI safety. We believe that people and our institutions need time to update and adjust to increasingly capable AI, and that everyone who is affected by this technology should have a significant say in how AI develops further. The public dialogue on generative AI has advanced dramatically since OpenAI launched ChatGPT last November. Iterative deployment has helped us bring various stakeholders into the conversation about the adoption of AI technology more effectively than if they hadn't had firsthand experience with these tools.32  
+We work hard to understand and prevent risks before deployment.29 However, we can’t anticipate every beneficial use, potential abuse, or failure of the technology. This is in large part because these systems are still human-directed—they try to follow user instructions to carry out tasks. Learning from and responding to real-world use by actual people is vital for creating safer AI systems.30 Our deployment practices involve cautiously and gradually releasing new AI models—with substantial safeguards in place—to gradually larger groups of people, making continuous improvements based on the lessons learned. We also make our most capable models available through our own services (and through an API), which allows us to monitor for and take action on misuse, and continually build mitigations that respond to the real ways people misuse our systems. As described in our Usage Policies, OpenAI expressly prohibits the use of its tools for certain activities, including but not limited to, generation of violent content, malware, fraudulent activity, high-volume political campaigning, and many other unwelcome areas.31We use a combination of automated detection systems and human review to detect potentially violating behavior in order to warn users or take enforcement actions. We use our newest models to help to identify unsafe content—this reduces the need for human moderators to be exposed to harmful or explicit content, helps us to quickly refine our moderation policies, and reduces the time needed to build safety tools. We also provide a free suite of moderation and safety tools to our developers to integrate into their products. We strive to be agile and responsive to customer concerns. We are continuously updating and improving our models and products based on feedback from our customers, users, the public, and other stakeholder groups, including governments. Iterative deployment has other advantages for AI safety. We believe that people and our institutions need time to update and adjust to increasingly capable AI, and that everyone who is affected by this technology should have a significant say in how AI develops further. The public dialogue on generative AI has advanced dramatically since OpenAI launched ChatGPT last November. Iterative deployment has helped us bring various stakeholders into the conversation about the adoption of AI technology more effectively than if they hadn’t had firsthand experience with these tools.32  
 
 
 ## Privacy
 
-OpenAI takes the privacy of its users seriously and has taken a number of steps to facilitate transparent and responsible use of data. First, we don't use any user data to build profiles of people for the purposes of advertising, promoting our services, or selling data to third parties. We also do not use data submitted by customers via our API to train or improve our models, unless customers explicitly ask us to do this. We may use ChatGPT conversations to help improve our models, but we provide users with several ways to control how their conversations are used. Any ChatGPT user can opt-out of having their conversations be used to improve our models.33 Users can delete their accounts,34 delete specific conversations from the history sidebar, and disable their chat history at any time.35
+OpenAI takes the privacy of its users seriously and has taken a number of steps to facilitate transparent and responsible use of data. First, we don’t use any user data to build profiles of people for the purposes of advertising, promoting our services, or selling data to third parties. We also do not use data submitted by customers via our API to train or improve our models, unless customers explicitly ask us to do this. We may use ChatGPT conversations to help improve our models, but we provide users with several ways to control how their conversations are used. Any ChatGPT user can opt-out of having their conversations be used to improve our models.33 Users can delete their accounts,34 delete specific conversations from the history sidebar, and disable their chat history at any time.35
 
 While some of the information we use to train our models may include personal information that is available on the public internet, we work to remove personal information from the training dataset where feasible, teach our models to reject requests for personal information of private individuals, and respond to requests from individuals to remove their personal information from our systems. These steps reduce the likelihood that our models might generate responses that include the personal information of private individuals.
 

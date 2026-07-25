@@ -26,6 +26,14 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
+March 3, 2026
+
+[Product](</news/product-releases/>)[Release](</research/index/release/>)
+
+# GPT‑5.3 Instant: Smoother, more useful everyday conversations
+
+Loading…
+
 Better judgment around refusals and fewer disclaimers
 
   * Better judgment around refusals and fewer disclaimers
@@ -38,13 +46,15 @@ Better judgment around refusals and fewer disclaimers
 
 
 
-March 3, 2026
+  * Better judgment around refusals and fewer disclaimers
+  * More useful, well-synthesized answers when using the web
+  * A smoother, more to-the-point conversational style
+  * More reliably accurate responses
+  * Stronger writing, with more range and texture
+  * Limitations
+  * Availability
 
-[Product](</news/product-releases/>)[Release](</research/index/release/>)
 
-# GPT‑5.3 Instant: Smoother, more useful everyday conversations
-
-Loading…
 
 Today, we’re releasing an update to ChatGPT’s most-used model that makes everyday conversations more consistently helpful and fluid. GPT‑5.3 Instant delivers more accurate answers, richer and better-contextualized results when searching the web, and reduces unnecessary dead ends, caveats, and overly declarative phrasing that can interrupt the flow of conversation.
 
@@ -450,7 +460,7 @@ This update has a more focused yet natural conversational style, cutting back on
 
 As always, you can adjust the model’s response tone, like its warmth and enthusiasm, within settings.
 
-why can't i find love in san francisco
+why can’t i find love in san francisco
 
 ## GPT-5.2 Instant
 
@@ -546,7 +556,7 @@ When people say they “can’t find love” in SF, it’s often one of these:
 
 
 
-None of those mean you're unlovable.
+None of those mean you’re unlovable.
 
 * * *
 
@@ -680,7 +690,7 @@ Which raises the bar.
 
 * * *
 
-##### **6\. Apps work worse here than you 'd expect**
+##### **6\. Apps work worse here than you’d expect**
 
 Even though the population is tech-heavy, dating apps in SF often lead to:
 
@@ -695,9 +705,9 @@ People can stay in “dating mode” indefinitely.
 
 * * *
 
-##### **7\. Ironically, it 's harder for ****_high-quality_****people**
+##### **7\. Ironically, it’s harder for**** _high-quality_****people**
 
-This sounds counterintuitive, but it's common:
+This sounds counterintuitive, but it’s common:
 
 People who are:
 
@@ -752,13 +762,13 @@ Reasons:
 
 
 
-You're actually moving to New York soon — and a lot of people report a real difference.
+You’re actually moving to New York soon — and a lot of people report a real difference.
 
 * * *
 
 ##### **Honest answer**
 
-It's usually some mix of:
+It’s usually some mix of:
 
   * City culture
   * Timing
@@ -775,10 +785,10 @@ If you want a sharper take, here’s a real question:
 
 **Do you feel like the problem is:**
 
-  * You don't meet people you like?
-  * People don't pursue you?
-  * Things start but don't deepen?
-  * People like you but you don't like them?
+  * You don’t meet people you like?
+  * People don’t pursue you?
+  * Things start but don’t deepen?
+  * People like you but you don’t like them?
 
 
 
@@ -886,19 +896,17 @@ OpenAI
 
 [View all](</news/>)
 
-![Art Card 1080x1080 \(3\)](https://images.ctfassets.net/kftzwdyauwt9/3JLNH7ejJFnxLmX2LpzoKD/19f9e3c4d36cc9d677ba88e842ad2db2/Art_Card_1080x1080__4_.png?w=3840&q=90&fm=webp)
+![Health in ChatGPT > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/48aIp3cQOKJ57vpQeqOb8y/2e8732bcad5ceea1c7b20cf001bd2823/1_1_Art_Card.png?w=3840&q=90&fm=webp)
 
-Better memory for a more helpful ChatGPT
+[Launching Health in ChatGPT ProductJul 23, 2026](</index/health-in-chatgpt/>)
 
-[Dreaming: Better memory for a more helpful ChatGPTResearchJun 4, 2026](</index/chatgpt-memory-dreaming/>)
+![OpenAI Presence 1x1](https://images.ctfassets.net/kftzwdyauwt9/5JBDenSGI6wx5CMPPlaM5J/da9d8e27a0bd70d845a816b28ac641a9/OpenAI_Presence_1x1.png?w=3840&q=90&fm=webp)
 
-![Rosalind5.5 ArtCard](https://images.ctfassets.net/kftzwdyauwt9/6USIQM1B7TggUvvTFxxwoi/0176ac6633c8bdc24641d25d1d2db824/GPT-Rosalind_ArtCard.png?w=3840&q=90&fm=webp)
+[Introducing OpenAI PresenceProductJul 22, 2026](</index/introducing-openai-presence/>)
 
-[Introducing new capabilities to GPT-RosalindProductJun 3, 2026](</index/introducing-new-capabilities-to-gpt-rosalind/>)
+![GPT-5.6 is now the preferred model in Microsoft 365 Copilot > Cover image](https://images.ctfassets.net/kftzwdyauwt9/3MPipvFMxS8m3kTyCtwFgj/015747dcd34cb667a221688cfca64e0f/Frame.png?w=3840&q=90&fm=webp)
 
-![1 1 Art Card](https://images.ctfassets.net/kftzwdyauwt9/4xugzd9dTDMUzIUmuamtO3/1f40af4e50ab8b2bdd64d5b491964961/1_1_Art_Card.png?w=3840&q=90&fm=webp)
-
-[Codex for every role, tool, and workflowProductJun 2, 2026](</index/codex-for-every-role-tool-workflow/>)
+[GPT-5.6 is now the preferred model in Microsoft 365 CopilotProductJul 9, 2026](</index/gpt-5-6-preferred-model-microsoft-365-copilot/>)
 
 Research
 
@@ -910,9 +918,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -949,6 +957,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -982,6 +992,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

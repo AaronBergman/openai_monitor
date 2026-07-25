@@ -26,6 +26,18 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
+December 9, 2024
+
+[Publication](</research/index/publication/>)[Safety](</news/safety-alignment/>)
+
+# Sora System Card
+
+[Read announcement](</index/sora-is-here/>)
+
+Loading…
+
+Share
+
 Introduction
 
   * Introduction
@@ -38,17 +50,15 @@ Introduction
 
 
 
-December 9, 2024
+  * Introduction
+  * Model Data
+  * Risk Identification And Deployment Preparation
+  * Sora Mitigation Stack
+  * Specific Risk Areas and Mitigations 
+  * Future Work
+  * Acknowledgements
 
-[Publication](</research/index/publication/>)[Safety](</news/safety-alignment/>)
 
-# Sora System Card
-
-[Read announcement](</index/sora-is-here/>)
-
-Loading…
-
-Share
 
 ## Introduction
 
@@ -242,7 +252,7 @@ Our policies prohibit the use of Sora for the generation of explicit sexual cont
 
 **Likeness Misuse and Harmful Deepfakes**
 
-Sora’s moderation monitor for likeness-based prompts is intended to flag potentially harmful deepfake content, with the intent that videos involving recognizable individuals are closely reviewed. The Likeness Misuse filter further flags prompts that attempt to modify or depict individuals in potentially harmful or misleading ways. Sora’s general prompt transformations further reduce the risk that Sora will generate the unwanted likeness of a private individual based on a prompt containing someone's name.
+Sora’s moderation monitor for likeness-based prompts is intended to flag potentially harmful deepfake content, with the intent that videos involving recognizable individuals are closely reviewed. The Likeness Misuse filter further flags prompts that attempt to modify or depict individuals in potentially harmful or misleading ways. Sora’s general prompt transformations further reduce the risk that Sora will generate the unwanted likeness of a private individual based on a prompt containing someone’s name.
 
 **Deceptive Content**
 
@@ -258,7 +268,7 @@ Deceptive Election Content| 98.23%| 88.80%| Block generating output
 
 **Investments in Provenance**
 
-Given that many risks associated with Sora, such as harmful deepfake content, are heavily context dependent, we've prioritized enhancing our provenance tools. We recognize that there is not a single solution to provenance, but are committed to improving the provenance ecosystem and helping build context and transparency to content created from Sora. 
+Given that many risks associated with Sora, such as harmful deepfake content, are heavily context dependent, we’ve prioritized enhancing our provenance tools. We recognize that there is not a single solution to provenance, but are committed to improving the provenance ecosystem and helping build context and transparency to content created from Sora. 
 
 For general availability, our provenance safety tooling will include:
 
@@ -359,9 +369,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -398,6 +408,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -431,6 +443,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

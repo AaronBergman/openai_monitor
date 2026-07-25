@@ -1,42 +1,30 @@
 Skip to main content
 
-[](</>)
+[](</>)[](</business/>)
 
-  * [Research](</research/index/>)
+  * Why OpenAI
   * Products
-  * [Business](</business/>)
-  * [Developers](</api/>)
-  * [Company](</about/>)
-  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
+  * Solutions
+  * Resources
+  * [Customers](</business/customer-stories/>)
+  * [Pricing](</business/pricing/>)
 
 
 
-Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
+Try OpenAI[Contact sales](</contact-sales/>)
 
-  * Research
+  * Why OpenAI
   * Products
-  * Business
-  * Developers
-  * Company
-  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
+  * Solutions
+  * Resources
+  * [Customers](</business/customer-stories/>)
+  * [Pricing](</business/pricing/>)
 
 
 
-[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)Login
+[Contact sales](</contact-sales/>)Try OpenAI
 
 OpenAI
-
-Table of contents
-
-  * Our smartest, most reliable model yet
-  * Benchmarking GPT-5 Performance
-  * Impact from GPT-5 deployments
-  * What this looks like in practice 
-  * Enterprise-ready from day one
-  * How to evaluate GPT-5 for your business
-  * Your next step
-
-
 
 # Inside GPT‑5 for work
 
@@ -46,25 +34,43 @@ ChatGPT for business.
 
 ![Promotional hero image with a soft, abstract gradient background blending pink, orange, yellow, purple, and light blue tones. Centered on the image is a rounded white card displaying the text “GPT-5” in bold, with the subtitle “Flagship model” beneath it, conveying the branding of OpenAI’s GPT-5 model.](https://images.ctfassets.net/kftzwdyauwt9/3KX4Cf6oQpNxqGAPOif7oJ/118a3de4c65d45861251853f57a19a4d/Hero_Media.png?w=3840&q=90&fm=webp)
 
-Share
+Our smartest, most reliable model yet
+
+  * Our smartest, most reliable model yet
+    * Why it matters for your business:
+  * Benchmarking GPT-5 Performance
+    * What’s new
+  * Impact from GPT-5 deployments
+    * Save time
+    * Move faster
+    * Grow smarter
+  * What this looks like in practice 
+  * Enterprise-ready from day one
+  * How to evaluate GPT-5 for your business
+  * Your next step
+
+
+
+  * Our smartest, most reliable model yet
+    * Why it matters for your business:
+  * Benchmarking GPT-5 Performance
+    * What’s new
+  * Impact from GPT-5 deployments
+    * Save time
+    * Move faster
+    * Grow smarter
+  * What this looks like in practice 
+  * Enterprise-ready from day one
+  * How to evaluate GPT-5 for your business
+  * Your next step
+
+
 
 ## Our smartest, most reliable model yet
 
 GPT‑5 brings together all our research breakthroughs into a unified ChatGPT experience-ready to use from day one, with no model selection required. Teams can do more with less effort. 
 
-#### Why it matters for your business:
-
-## Smarter at essential work
-
-Helps every team, from marketing to engineering, do their best work.
-
-## Useful intelligence
-
-Isn't just smarter but easier for every employee to use.
-
-## More accurate and professional
-
-Teams can now confidently offload more work to ChatGPT.
+### Why it matters for your business:
 
 * * *
 
@@ -72,7 +78,7 @@ Teams can now confidently offload more work to ChatGPT.
 
 GPT‑5 marks a step change for Al in the enterprise, evolving ChatGPT from an assistant into a trusted PhD-level expert in every employee's pocket.
 
-#### What’s new
+### What’s new
 
   * **One powerful model** for every task-no model selection, no setup.
 
@@ -97,7 +103,7 @@ GPT‑5 is smarter and more reliable at tasks businesses rely on like writing, r
 
 ## Impact from GPT‑5 deployments
 
-#### Save time
+### Save time
 
 Offload tasks that take up hours of your team's day, so they can spend time on higher-impact work.
 
@@ -105,7 +111,7 @@ Offload tasks that take up hours of your team's day, so they can spend time on h
 
 _\- Elena Alfaro, Head of Global Al Adoption, BBVA_
 
-####  Move faster
+###  Move faster
 
 Move from idea to execution in minutes, not hours. Let every team unblock itself.
 
@@ -113,7 +119,7 @@ Move from idea to execution in minutes, not hours. Let every team unblock itself
 
 _\- Seemantini Godbole, CIO, Lowe 's _
 
-#### Grow smarter
+### Grow smarter
 
 From product launches to client decks, GPT‑5 helps you move fast without sacrificing quality. 
 
@@ -125,7 +131,7 @@ _\- Gene Rapoport, Partner & Co-Head of the Private Equity Al Practice, Bain _
 
 ## What this looks like in practice 
 
-Team| Problem| GPT-5 solves| Output  
+Team| Problem| GPT‑5 solves| Output  
 ---|---|---|---  
 Marketing| CMO needs a board-ready launch plan| Analyzes market, drafts plan, messaging, and sales content| GTM brief + talking points  
 Engineering| SVP needs a live incident dashboard| Builds dashboard from plain-English prompt| Live app with real-time data  
@@ -186,70 +192,80 @@ Learn how we help companies build scalable, responsible AI strategies.
 
 ## Keep reading
 
-![Futures 1 1](https://images.ctfassets.net/kftzwdyauwt9/7l4mPpfnMDZNfjmksyuILI/5e280d8d490f625b3fc414d9824e96ac/Futures_1_1.png?w=3840&q=90&fm=webp)
+![Health in ChatGPT > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/48aIp3cQOKJ57vpQeqOb8y/2e8732bcad5ceea1c7b20cf001bd2823/1_1_Art_Card.png?w=3840&q=90&fm=webp)
 
-[Introducing ChatGPT Futures: Class of 2026CompanyMay 6, 2026](</index/introducing-chatgpt-futures-class-of-2026/>)
+[Launching Health in ChatGPT ProductJul 23, 2026](</index/health-in-chatgpt/>)
 
-![Singular Bank 1x1](https://images.ctfassets.net/kftzwdyauwt9/4z6thUXYDDAQfggvMdsr6v/bbc20a49d11c5f7b3216fec648214cef/oai_SingularBank_1x1.png?w=3840&q=90&fm=webp)
+![effingham county 1x1](https://images.ctfassets.net/kftzwdyauwt9/3f1fyaaSZELql3zECUImW3/1733a5ee7f07da894b993dcff75bea66/effingham_county_1x1.png?w=3840&q=90&fm=webp)
 
-[Singular Bank helps bankers move fast with ChatGPT and CodexMay 6, 2026](</index/singular-bank/>)
+[Building AI infrastructure with the Effingham County communityGlobal AffairsJul 22, 2026](</index/building-ai-infrastructure-with-the-effingham-county-community/>)
 
-![Uber customer story > 1x1 art card and hero image](https://images.ctfassets.net/kftzwdyauwt9/5jnteCaoVnc71jA02qX8gk/0f394157c43c443dd1523a7fab48bc69/oai_Uber_1x1.png?w=3840&q=90&fm=webp)
+![How news organizations are using AI > Card Image](https://images.ctfassets.net/kftzwdyauwt9/5nTzxwRy4Is9PQSluyYkWP/d6e7953a692a5a8c926885e2f50a3427/how_news_orgs_use_AI_1x1.png?w=3840&q=90&fm=webp)
 
-[Uber uses OpenAI to help people earn smarter and book fasterMay 6, 2026](</index/uber/>)
+[How news organizations use AI to advance their vital missionsCompanyJul 22, 2026](</index/how-news-organizations-are-using-ai/>)
 
-Our Research
+Research
 
   * [Research Index](</research/index/>)
   * [Research Overview](</research/>)
-  * [Research Residency](</residency/>)
   * [Economic Research](</signals/>)
 
 
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
-  * [GPT-5.3-Codex](</index/introducing-gpt-5-3-codex/>)
 
 
 
 Safety
 
   * [Safety Approach](</safety/>)
+  * [Deployment Safety(opens in a new window)](<https://deploymentsafety.openai.com/>)
   * [Security & Privacy](</security-and-privacy/>)
   * [Trust & Transparency](</trust-and-transparency/>)
 
 
 
-ChatGPT
+Products
 
-  * [Explore ChatGPT(opens in a new window)](<https://chatgpt.com/overview>)
-  * [Business](<https://chatgpt.com/business/business-plan>)
-  * [Enterprise](<https://chatgpt.com/business/enterprise>)
-  * [Education](<https://chatgpt.com/business/education>)
-  * [Pricing(opens in a new window)](<https://chatgpt.com/pricing>)
-  * [Download(opens in a new window)](<https://chatgpt.com/download>)
+  * [ChatGPT(opens in a new window)](<https://chatgpt.com/>)
+  * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
+  * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
+  * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
+  * [Codex](</codex/>)
+  * [Release Notes](</products/release-notes/>)
 
 
 
 API Platform
 
-  * [Platform Overview](</api/>)
-  * [Pricing](</api/pricing/>)
-  * [API log in(opens in a new window)](<https://platform.openai.com/login>)
-  * [Documentation(opens in a new window)](<https://developers.openai.com/api/docs>)
-  * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
+  * [Overview](</api/>)
+  * [API Log In(opens in a new window)](<https://platform.openai.com/login>)
+  * [Docs(opens in a new window)](<https://developers.openai.com/api/docs>)
 
 
 
-For Business
+Business
 
-  * [Business Overview](</business/>)
+  * [Overview](</business/>)
   * [Solutions](</solutions/>)
+  * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
+
+
+
+Developers
+
+  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
+  * [Open Models](</open-models/>)
+  * [Docs(opens in a new window)](<https://developers.openai.com/>)
+  * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
+  * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
 
 
 
@@ -257,9 +273,8 @@ Company
 
   * [About Us](</about/>)
   * [Our Charter](</charter/>)
-  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
   * [Careers](</careers/>)
-  * [Brand](</brand/>)
+  * [News](</news/>)
 
 
 
@@ -271,9 +286,9 @@ Support
 
 More
 
-  * [News](</news/>)
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

@@ -30,7 +30,7 @@ OpenAI
 
 Thanks for your interest. After a month of strong demand, we’re no longer accepting new enterprises for this promotional offer.  
   
-If you're interested in bringing Codex to your organization, please reach out to your OpenAI account team directly or [contact sales⁠(opens in a new window)](<https://chatgpt.com/contact-sales/>).
+If you’re interested in bringing Codex to your organization, please reach out to your OpenAI account team directly or [contact sales⁠(opens in a new window)](<https://chatgpt.com/contact-sales/>).
 
 Research
 
@@ -42,9 +42,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -81,6 +81,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -114,6 +116,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

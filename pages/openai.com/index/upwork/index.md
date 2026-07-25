@@ -44,7 +44,7 @@ Upwork saw the potential for AI to transform every facet of its business. After 
 
 ## Upwork improves the customer experience with new features built on the latest OpenAI models
 
-Upwork's internal AI incubator, Upwork Labs, began harnessing AI to tackle key customer challenges, starting with the difficulty of creating effective job posts for complex projects. This initiative led to the launch of Job Post Generator, Upwork's first OpenAI-based product. Leveraging GPT‑3.5, it streamlines job post creation, reducing the time by 80%. Clients using Job Post Generator also spend 9% more on Upwork than those who don't.
+Upwork's internal AI incubator, Upwork Labs, began harnessing AI to tackle key customer challenges, starting with the difficulty of creating effective job posts for complex projects. This initiative led to the launch of Job Post Generator, Upwork's first OpenAI-based product. Leveraging GPT‑3.5, it streamlines job post creation, reducing the time by 80%. Clients using Job Post Generator also spend 9% more on Upwork than those who don’t.
 
 ![A demonstration of a user typing "I need a dev to build an AI chatbot for a mobile app" into a search bar resulting in a job post template preview in a variety of tonal options.](https://downloads.ctfassets.net/kftzwdyauwt9/55B544GqX5CoQ18hLCAbHy/1c249cd5e0db80396828e1a214b8d890/Upwork_2.gif?w=3840&q=90&fm=webp)
 

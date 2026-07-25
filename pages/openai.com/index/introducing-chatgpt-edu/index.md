@@ -40,7 +40,7 @@ Loading…
 
 Share
 
-[We're announcing ChatGPT Edu, a version of ChatGPT built for universities to responsibly deploy AI to students, faculty, researchers, and campus operations.⁠(opens in a new window)](<https://chatgpt.com/business/education>) Powered by GPT‑4o, ChatGPT Edu can reason across text and vision and use advanced tools such as data analysis. This new offering includes enterprise-level security and controls and is affordable for educational institutions. 
+[We’re announcing ChatGPT Edu, a version of ChatGPT built for universities to responsibly deploy AI to students, faculty, researchers, and campus operations.⁠(opens in a new window)](<https://chatgpt.com/business/education>) Powered by GPT‑4o, ChatGPT Edu can reason across text and vision and use advanced tools such as data analysis. This new offering includes enterprise-level security and controls and is affordable for educational institutions. 
 
 We built ChatGPT Edu because we saw the success universities like the University of Oxford, [_Wharton School of the University of Pennsylvania_ ⁠(opens in a new window)](<https://news.wharton.upenn.edu/press-releases/2024/05/the-wharton-school-makes-strategic-investment-in-artificial-intelligence-research-and-teaching/>), University of Texas at Austin, [_Arizona State University_ ⁠(opens in a new window)](<https://tech.asu.edu/features/a-step-forward-in-charting-the-future-of-AI-in-higher-education>), and Columbia University in the City of New York were having with ChatGPT Enterprise.
 
@@ -70,7 +70,7 @@ ChatGPT Edu includes:
 
 
 
-> “Integrating OpenAI's technology into our educational and operational frameworks accelerates transformation at ASU. We're collaborating across our community to harness these tools, extending our learnings as a scalable model for other institutions.”
+> “Integrating OpenAI's technology into our educational and operational frameworks accelerates transformation at ASU. We’re collaborating across our community to harness these tools, extending our learnings as a scalable model for other institutions.”
 
 —Kyle Bowen, Deputy CIO at Arizona State University
 
@@ -104,9 +104,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -143,6 +143,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -176,6 +178,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

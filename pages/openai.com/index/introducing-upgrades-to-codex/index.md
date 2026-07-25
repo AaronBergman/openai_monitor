@@ -47,40 +47,24 @@ Share
 GPT-5-Codex
 
   * GPT-5-Codex
-
   * Updates to Codex
-
     * Codex CLI
-
     * The Codex IDE extension
-
     * Codex cloud
-
     * Code review
-
   * Building safe and trustworthy AI agents
-
   * Pricing and availability
-
 
 
 
   * GPT-5-Codex
-
   * Updates to Codex
-
     * Codex CLI
-
     * The Codex IDE extension
-
     * Codex cloud
-
     * Code review
-
   * Building safe and trustworthy AI agents
-
   * Pricing and availability
-
 
 
 
@@ -100,7 +84,7 @@ GPT‑5‑Codex is a version of GPT‑5 further optimized for agentic software e
 
 **_Code refactoring tasks:_**_Our code refactoring evaluation contains refactor-style tasks from large, established repositories and includes tasks in Python, Go and even OCaml. An example task is the_[ _following pull request from Gitea_ ⁠(opens in a new window)](<https://github.com/go-gitea/gitea/commit/fd7d83ace60258acf7139c4c787aa8af75b7ba8c>)_which changes 232 files and 3,541 lines to thread a ctx variable through the application logic._
 
-GPT‑5‑Codex adapts how much time it spends thinking more dynamically based on the complexity of the task. The model combines two essential skills for a coding agent: pairing with developers in interactive sessions, and persistent, independent execution on longer tasks. That means Codex will feel snappier on small, well-defined requests or while you are chatting with it, and will work for longer on complex tasks like big refactors. During testing, we've seen GPT‑5‑Codex work independently for more than 7 hours at a time on large, complex tasks, iterating on its implementation, fixing test failures, and ultimately delivering a successful implementation.
+GPT‑5‑Codex adapts how much time it spends thinking more dynamically based on the complexity of the task. The model combines two essential skills for a coding agent: pairing with developers in interactive sessions, and persistent, independent execution on longer tasks. That means Codex will feel snappier on small, well-defined requests or while you are chatting with it, and will work for longer on complex tasks like big refactors. During testing, we’ve seen GPT‑5‑Codex work independently for more than 7 hours at a time on large, complex tasks, iterating on its implementation, fixing test failures, and ultimately delivering a successful implementation.
 
 On OpenAI employee traffic, we see that for the bottom 10% of user turns sorted by model-generated tokens (including hidden reasoning and final output), GPT‑5‑Codex uses 93.7% fewer tokens than GPT‑5. Conversely, for the top 10%, GPT‑5‑Codex thinks more, spending twice as long reasoning, editing and testing code, and iterating.
 
@@ -185,15 +169,17 @@ OpenAI
 
 [View all](</news/>)
 
+![Health in ChatGPT > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/48aIp3cQOKJ57vpQeqOb8y/2e8732bcad5ceea1c7b20cf001bd2823/1_1_Art_Card.png?w=3840&q=90&fm=webp)
+
+[Launching Health in ChatGPT ProductJul 23, 2026](</index/health-in-chatgpt/>)
+
+![OpenAI Presence 1x1](https://images.ctfassets.net/kftzwdyauwt9/5JBDenSGI6wx5CMPPlaM5J/da9d8e27a0bd70d845a816b28ac641a9/OpenAI_Presence_1x1.png?w=3840&q=90&fm=webp)
+
+[Introducing OpenAI PresenceProductJul 22, 2026](</index/introducing-openai-presence/>)
+
 ![GPT-5.6 is now the preferred model in Microsoft 365 Copilot > Cover image](https://images.ctfassets.net/kftzwdyauwt9/3MPipvFMxS8m3kTyCtwFgj/015747dcd34cb667a221688cfca64e0f/Frame.png?w=3840&q=90&fm=webp)
 
 [GPT-5.6 is now the preferred model in Microsoft 365 CopilotProductJul 9, 2026](</index/gpt-5-6-preferred-model-microsoft-365-copilot/>)
-
-![GPT 5-6 > Card](https://images.ctfassets.net/kftzwdyauwt9/1a9IPPV5nXWydTBosgmgYI/8e03f28ca04f26edc8bc81cdba387df1/5-6.jpg?w=3840&q=90&fm=webp)
-
-[GPT-5.6: Frontier intelligence that scales with your ambitionProductJul 9, 2026](</index/gpt-5-6/>)
-
-[ChatGPT is now a partner for your most ambitious workProductJul 9, 2026](</index/chatgpt-for-your-most-ambitious-work/>)
 
 Research
 

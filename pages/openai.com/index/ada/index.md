@@ -37,24 +37,16 @@ Share
 Developing a new customer service metric: resolution rate
 
   * Developing a new customer service metric: resolution rate
-
   * Battle-testing models and choosing OpenAI
-
   * Doubling resolution rates with OpenAI
-
   * 100% resolution is achievable with AI
-
 
 
 
   * Developing a new customer service metric: resolution rate
-
   * Battle-testing models and choosing OpenAI
-
   * Doubling resolution rates with OpenAI
-
   * 100% resolution is achievable with AI
-
 
 
 
@@ -86,7 +78,7 @@ Ada had used OpenAI’s models before, mostly to generate training data for thei
 
   * **Quality of inference:** Ada has built a synthetic test framework that simulates hundreds of thousands of end customers talking to their system, so they stress test models on scalability and quality. “We evaluate every major model on a regular basis, within a few weeks of them being released, and so far no one has bested OpenAI on our evaluation set,” Gozzo said. 
   * **Latency:** To ensure the best performance for Ada’s voice use cases, low-latency models are key. “For real-time reasoning, we’ve seen a big leap in latency and overall quality with GPT‑4o,” Gozzo said.
-  * **Fine-tuning:** Ada uses OpenAI’s fine-tuning API to provide a confidence score about the level of hallucinations in a given response, and uses that score in the rest of the toolchain to minimize the number of hallucinations in the system. “We're also excited about the possibility over time of using fine tuning to further improve our system's ability to reason, and the potential for the technique to allow for smaller, less expensive models to mimic the performance of frontier models,” Gozzo said. 
+  * **Fine-tuning:** Ada uses OpenAI’s fine-tuning API to provide a confidence score about the level of hallucinations in a given response, and uses that score in the rest of the toolchain to minimize the number of hallucinations in the system. “We’re also excited about the possibility over time of using fine tuning to further improve our system's ability to reason, and the potential for the technique to allow for smaller, less expensive models to mimic the performance of frontier models,” Gozzo said. 
 
 
 

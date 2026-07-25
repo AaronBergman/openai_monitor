@@ -32,7 +32,7 @@ July 24, 2024
 
 # Improving Model Safety Behavior with Rule-Based Rewards
 
-We've developed and applied a new method leveraging Rule-Based Rewards (RBRs) that aligns models to behave safely without extensive human data collection.
+We’ve developed and applied a new method leveraging Rule-Based Rewards (RBRs) that aligns models to behave safely without extensive human data collection.
 
 [Read paper(opens in a new window)](<https://cdn.openai.com/rule-based-rewards-for-language-model-safety.pdf>)[View code(opens in a new window)](<https://github.com/openai/safety-rbr-code-and-data>)
 
@@ -49,8 +49,6 @@ How it works
 
 
 
-Table of contents
-
   * How it works
   * Results
   * Limitations
@@ -62,7 +60,7 @@ Our research shows that Rule-Based Rewards (RBRs) significantly enhance the safe
 
 Traditionally, fine-tuning language models using [_reinforcement learning from human feedback (RLHF)_ ⁠](<https://openai.com/index/learning-from-human-preferences/>) has been the go-to method for ensuring they [_follow instructions_ ⁠](<https://openai.com/index/instruction-following/>) accurately. OpenAI has been at the forefront of developing these alignment methods to create smarter and safer AI models.
 
-To ensure AI systems behave safely and align with human values, we define desired behaviors and collect human feedback to train a "reward model." This model guides the AI by signaling desirable actions. However, collecting this human feedback for routine and repetitive tasks is often inefficient. Additionally, if our safety policies change, the feedback we've already collected might become outdated, requiring new data.
+To ensure AI systems behave safely and align with human values, we define desired behaviors and collect human feedback to train a "reward model." This model guides the AI by signaling desirable actions. However, collecting this human feedback for routine and repetitive tasks is often inefficient. Additionally, if our safety policies change, the feedback we’ve already collected might become outdated, requiring new data.
 
 Thus, we introduce Rule-Based Rewards (RBRs) as a key component of OpenAI’s safety stack to align model behavior with desired safe behavior. Unlike human feedback, RBRs uses clear, simple, and step-by-step rules to evaluate if the model's outputs meet safety standards. When plugged into the standard RLHF pipeline, it helps maintain a good balance between being helpful while preventing harm, to ensure the model behaves safely and effectively without the inefficiencies of recurrent human inputs. We have used RBRs as part of our safety stack since our [_GPT‑4_ ⁠](<https://openai.com/index/gpt-4/>) launch, including [_GPT‑4o mini_ ⁠](<https://openai.com/index/gpt-4o-mini-advancing-cost-efficient-intelligence/>), and we plan to implement it in our models moving forward.
 
@@ -255,7 +253,7 @@ _Integration of RBRs with traditional reward models during reinforcement learnin
 
 In our experiments, RBR-trained models demonstrated safety performance comparable to those trained with human feedback. They also reduced instances of incorrectly refusing safe requests (“overrefuse”) without affecting evaluation metrics on common capability benchmarks. RBRs also significantly reduce the need for extensive human data, making the training process faster and more cost-effective. In addition, as model capabilities and safety guidelines evolve, RBRs can be quickly updated by modifying or adding new rules, without the need for extensive retraining.
 
-We are evaluating our model safety behavior in a framework where we can easily track the trade-off between helpfulness and harmfulness. On one hand, it's easy to be safe if the model refuses everything, but the utility of the model is zero. On the other hand, we don't want to build a model that optimizes for maximum utility, but is unsafe or harmful. An optimally aligned model should thread this needle between helpfulness and harmfulness.
+We are evaluating our model safety behavior in a framework where we can easily track the trade-off between helpfulness and harmfulness. On one hand, it’s easy to be safe if the model refuses everything, but the utility of the model is zero. On the other hand, we don’t want to build a model that optimizes for maximum utility, but is unsafe or harmful. An optimally aligned model should thread this needle between helpfulness and harmfulness.
 
 ![The image shows a scatter plot comparing safety \(x-axis\) and usefulness \(y-axis\). Points include "RBR" and "HumanRM + RBR" stars in the safe and useful region, with baseline markers for helpfulness and human performance in lower quadrants.](https://images.ctfassets.net/kftzwdyauwt9/4hCDiUGLvUbmZP8ziDPJqE/0861701c2cbdeeed7c612e1048f65f4a/Chart_Desktop_Light_Updated.svg?w=3840&q=90)
 
@@ -263,7 +261,7 @@ _The plot shows the tradeoff between usefulness (measured by % of safe prompts t
 
 ## Limitations
 
-While RBRs work well for tasks with clear, straightforward rules, they can be tricky to apply to more subjective tasks like writing a high-quality essay. However, RBRs can be combined with human feedback to balance these challenges. For instance, RBRs can enforce specific guidelines (like "Don't use slang" or rules in [_the Model Spec_ ⁠](<https://openai.com/index/introducing-the-model-spec/>)), while human feedback can help with more nuanced aspects (like overall coherence). The strength of the RBR is optimized to correctly enforce safety preferences but not impact the final reward score more than needed - in this way the RLHF reward model can still provide strong signal on e.g. writing style.
+While RBRs work well for tasks with clear, straightforward rules, they can be tricky to apply to more subjective tasks like writing a high-quality essay. However, RBRs can be combined with human feedback to balance these challenges. For instance, RBRs can enforce specific guidelines (like "Don’t use slang" or rules in [_the Model Spec_ ⁠](<https://openai.com/index/introducing-the-model-spec/>)), while human feedback can help with more nuanced aspects (like overall coherence). The strength of the RBR is optimized to correctly enforce safety preferences but not impact the final reward score more than needed - in this way the RLHF reward model can still provide strong signal on e.g. writing style.
 
 _Ethical Considerations_ : Shifting safety checks from humans to AI can reduce human oversight of AI safety and might amplify potential biases in the models if biased models are used to provide RBR rewards. To address this, researchers should carefully design RBRs to ensure fairness and accuracy, and consider using a combination of RBRs and human feedback to minimize risks.
 
@@ -301,9 +299,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -340,6 +338,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -373,6 +373,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

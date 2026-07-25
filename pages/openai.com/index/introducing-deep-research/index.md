@@ -26,17 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Why we built deep research 
-
-  * Why we built deep research 
-  * How to use deep research
-  * How it works
-  * Limitations
-  * Access
-  * What's next
-
-
-
 February 2, 2025
 
 [Release](</research/index/release/>)
@@ -48,6 +37,26 @@ February 2, 2025
 Loading…
 
 Share
+
+Why we built deep research 
+
+  * Why we built deep research 
+  * How to use deep research
+  * How it works
+  * Limitations
+  * Access
+  * What’s next
+
+
+
+  * Why we built deep research 
+  * How to use deep research
+  * How it works
+  * Limitations
+  * Access
+  * What’s next
+
+
 
  _**February 10, 2026 update:**__You can now connect deep research to any MCP or app and restrict web searches to trusted sites, so you can focus on authenticated, industry-standard sources. You can also now track progress in real-time and interrupt to refine with follow-up prompts or new sources. We 've updated the visual experience so it's easier to start, track, and review your research from end to end._
 
@@ -240,7 +249,7 @@ Deep Research (cons@64)| 78.66| 73.21| 58.03| 72.57
 
 Level 1Level 2Level 3
 
-In Nature journal's Scientific Reports conference proceedings from 2012, in the article that did not mention plasmons or plasmonics, what nano-compound is studied? Don't use the prefix nano in your answer if there is one.
+In Nature journal's Scientific Reports conference proceedings from 2012, in the article that did not mention plasmons or plasmonics, what nano-compound is studied? Don’t use the prefix nano in your answer if there is one.
 
 [The remaining Chain-of-Thought messages and the final answer are hidden to protect the benchmark's ground truth answer.]
 
@@ -250,7 +259,7 @@ I’m piecing together the request for an article from 2012 in _Scientific Repor
 
 **Piecing together details**
 
-I'm sub-searching "Scientific Reports 2012 nanoparticle," likely seeking nano-compounds. Interested in filtering out plasmon-related topics, possibly focusing on silver, graphene, or quantum dots.
+I’m sub-searching "Scientific Reports 2012 nanoparticle," likely seeking nano-compounds. Interested in filtering out plasmon-related topics, possibly focusing on silver, graphene, or quantum dots.
 
 [search action]
 
@@ -266,19 +275,19 @@ The search results reveal a conference proceeding titled "2D quasiperiodic plasm
 
 **Reflecting on potential issues**
 
-I'm considering the reasons behind a web page misconception, likely due to an outdated agent type or inadvertent blockage.
+I’m considering the reasons behind a web page misconception, likely due to an outdated agent type or inadvertent blockage.
 
 [browse action]
 
 **Considering dynamic options**
 
-I'm thinking about a nature site with dynamic content or a cached version. Alternatively, trying a search for specific phrases might help.
+I’m thinking about a nature site with dynamic content or a cached version. Alternatively, trying a search for specific phrases might help.
 
 [search action]
 
 **Pinpointing key features**
 
-OK, I'm identifying four conference proceedings from 2012 in Sci Rep. Notably, some mention "plasmonic" and should be excluded.
+OK, I’m identifying four conference proceedings from 2012 in Sci Rep. Notably, some mention "plasmonic" and should be excluded.
 
 [browse action]
 
@@ -330,13 +339,13 @@ Thinking about special issue E-MRS 2012 Sci rep invited paper Monticone and meta
 
 **Assessing accessibility**
 
-I'm gathering info on potential site access issues, considering outdated status or blockages. Also, evaluating the Monticone site for a list reference.
+I’m gathering info on potential site access issues, considering outdated status or blockages. Also, evaluating the Monticone site for a list reference.
 
 [browse action]
 
 **Piecing together E-MRS 2012**
 
-I'm trying to link "Layered Plasmonic Cloaks" to E-MRS 2012. Considering other possible topics like graphene and catalysis.
+I’m trying to link "Layered Plasmonic Cloaks" to E-MRS 2012. Considering other possible topics like graphene and catalysis.
 
 [browse action]
 
@@ -355,13 +364,13 @@ I’m broadening the search parameters by entering specific site and scholar ide
 
 **Identifying non-plasmonic possibilities**
 
-I'm narrowing down the search to identify articles from the 2012 E-MRS special issue in Scientific Reports. This involves checking titles for non-plasmonic topics, like graphene or functional oxides. Progress is evident through focused searches and exclusion of plasmonic articles.
+I’m narrowing down the search to identify articles from the 2012 E-MRS special issue in Scientific Reports. This involves checking titles for non-plasmonic topics, like graphene or functional oxides. Progress is evident through focused searches and exclusion of plasmonic articles.
 
 [search action]
 
 **Piecing together clues**
 
-I'm analyzing interactions in a graphene superlattice, likely from a Sci Rep article. Considering titles by authors like Padooru, Yakovlev, Chen, and Alu.
+I’m analyzing interactions in a graphene superlattice, likely from a Sci Rep article. Considering titles by authors like Padooru, Yakovlev, Chen, and Alu.
 
 [search action]
 
@@ -434,7 +443,7 @@ I’m examining the lab report to understand Henry's law constant, Langmuir affi
 
 **Piecing together**
 
-I'm working through the possibility that "Equation (3)" and "Equation (4)" might be images or formula displays and considering consulting the PDF or searching for earlier references to understand them better. 
+I’m working through the possibility that "Equation (3)" and "Equation (4)" might be images or formula displays and considering consulting the PDF or searching for earlier references to understand them better. 
 
 [browse action]
 
@@ -446,7 +455,7 @@ I’m verifying if the document from Freeman and Koros (1980) specifically match
 
 **Examining article connections**
 
-I noticed that the result from "pmc.ncbi.nlm.nih.gov" is likely the same MDPI article, and I'm curious to see if it presents the text or a simplified version. 
+I noticed that the result from "pmc.ncbi.nlm.nih.gov" is likely the same MDPI article, and I’m curious to see if it presents the text or a simplified version. 
 
 [browse action]
 
@@ -456,7 +465,7 @@ I noticed that the result from "pmc.ncbi.nlm.nih.gov" is likely the same MDPI ar
 
 **Gathering info**
 
-I'm gathering information about pure and mixed gas sorption in glassy polymers. This is a critical step in understanding the material's behavior under different gas environments.
+I’m gathering information about pure and mixed gas sorption in glassy polymers. This is a critical step in understanding the material's behavior under different gas environments.
 
 [search action]
 
@@ -474,7 +483,7 @@ I’m thinking through how the term "extended dual mode equation mixture" might 
 
 **Requesting review details**
 
-I'm noting the request to review "Theories of Sorption and Transport in Polymer Membrane."
+I’m noting the request to review "Theories of Sorption and Transport in Polymer Membrane."
 
 [browse action]
 
@@ -492,7 +501,7 @@ The dual-mode model anticipates that adding a second gas reduces sorption at a c
 
 **Fetching a PDF**
 
-I'm gathering info on a nature.com PDF, possibly an older Yampol'ski article, but thinking about alternative sources like the University of Texas at Austin repository for a text snippet.
+I’m gathering info on a nature.com PDF, possibly an older Yampol'ski article, but thinking about alternative sources like the University of Texas at Austin repository for a text snippet.
 
 [browse action]
 
@@ -504,7 +513,7 @@ I’ve discovered that the UT repository result might not display correctly. Sea
 
 **Refining the focus**
 
-I'm adjusting my approach to ensure the search targets the right context.
+I’m adjusting my approach to ensure the search targets the right context.
 
 [search action]
 
@@ -522,7 +531,7 @@ Thinking through hero.epa.gov's potential abstract or content.
 
 **Refining the model**
 
-I'm gathering insights on pure and mixed gas sorption, considering factors like competition, plasticization, and parameter stability. Incorporating mixed-gas data for more accurate predictions.
+I’m gathering insights on pure and mixed gas sorption, considering factors like competition, plasticization, and parameter stability. Incorporating mixed-gas data for more accurate predictions.
 
 [browse action]
 
@@ -540,13 +549,13 @@ I’m quantifying nonideal CO2-CH4 solubility in 6FDA-mPDA, showing mixed gas ef
 
 **Incorporating references**
 
-I'm gathering citations, focusing on open-source materials like MDPI 2019 and Vopicka 2014, to support the discussion on differences and challenges in the dual-mode model for gas sorption in polymeric membranes. 
+I’m gathering citations, focusing on open-source materials like MDPI 2019 and Vopicka 2014, to support the discussion on differences and challenges in the dual-mode model for gas sorption in polymeric membranes. 
 
 [browse action]
 
 **Proposing sections**
 
-I'm organizing sections on pure vs mixed-gas sorption, exploring the dual-mode sorption model, and detailing challenges like parameter uncertainty and mixed gas prediction.
+I’m organizing sections on pure vs mixed-gas sorption, exploring the dual-mode sorption model, and detailing challenges like parameter uncertainty and mixed gas prediction.
 
 **Organizing content**
 
@@ -565,7 +574,7 @@ I’m piecing together parameter names to avoid confusion. Sticking with (k), (C
 
 **Addressing challenges**
 
-I'm tackling multi-solution parameter fits, polymer plasticization, and temporal effects. These intricacies make predicting pure and mixed gas sorption tricky.  
+I’m tackling multi-solution parameter fits, polymer plasticization, and temporal effects. These intricacies make predicting pure and mixed gas sorption tricky.  
 
 
 **Piecing together**
@@ -598,7 +607,7 @@ All paid users will soon get significantly higher rate limits when we release a 
 
 In the coming weeks and months, we’ll be working on the technical infrastructure, closely monitoring the current release, and conducting even more rigorous testing. This aligns with our principle of iterative deployment. If all safety checks continue to meet our release standards, we anticipate releasing deep research to Plus users in about a month.
 
-## What's next
+## What’s next
 
 Deep research is available today on ChatGPT web, and will be rolled out to mobile and desktop apps within the month. Currently, deep research can access the open web and any uploaded files. In the future, you’ll be able to connect to more specialized data sources—expanding its access to subscription-based or internal resources—to make its output even more robust and personalized.
 
@@ -669,9 +678,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -708,6 +717,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -741,6 +752,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

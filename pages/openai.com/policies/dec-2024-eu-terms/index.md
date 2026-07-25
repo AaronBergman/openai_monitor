@@ -110,7 +110,7 @@ Our [Transparency and Content Moderation](</transparency-and-content-moderation/
 
 **Similarity of content.** Due to the nature of our Services and artificial intelligence generally, Output may not be unique and other users may receive similar output from our Services. Our assignment above does not extend to other users’ output or any Third Party Output. 
 
-**Our use of content.** We can use your Content worldwide to provide, maintain, develop, and improve our Services, comply with applicable law, enforce our terms and policies and keep our Services safe. If you're using ChatGPT through Apple's integrations, see [this Help Center article⁠(opens in a new window)](<https://help.openai.com/en/articles/9737562>) for how we handle your Content.
+**Our use of content.** We can use your Content worldwide to provide, maintain, develop, and improve our Services, comply with applicable law, enforce our terms and policies and keep our Services safe. If you’re using ChatGPT through Apple's integrations, see [this Help Center article⁠(opens in a new window)](<https://help.openai.com/en/articles/9737562>) for how we handle your Content.
 
 **Content moderation.** We use both algorithmic and human interventions to detect and address Content that may violate these Terms, including our Usage Policies. When we become aware of violative Content we may take enforcement action, including removing or restricting access to your Content, removing or restricting your access to certain features, or terminating or suspending your user account as described under Termination and Suspension below. 
 
@@ -259,9 +259,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -333,6 +333,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

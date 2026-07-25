@@ -26,15 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Building a multi-agent tutoring system that adapts and improvises
-
-  * Building a multi-agent tutoring system that adapts and improvises
-  * Making AI conversations feel like a live exchange 
-  * Turning model improvements into more effective learning experiences
-  * What's next
-
-
-
 January 22, 2026
 
 Startup
@@ -70,6 +61,22 @@ Revenue growth from new multi-agent system
 Loading…
 
 Share
+
+Building a multi-agent tutoring system that adapts and improvises
+
+  * Building a multi-agent tutoring system that adapts and improvises
+  * Making AI conversations feel like a live exchange 
+  * Turning model improvements into more effective learning experiences
+  * What’s next
+
+
+
+  * Building a multi-agent tutoring system that adapts and improvises
+  * Making AI conversations feel like a live exchange 
+  * Turning model improvements into more effective learning experiences
+  * What’s next
+
+
 
 Praktika was born from a deeply personal insight: language unlocks opportunity. 
 
@@ -121,7 +128,7 @@ Those improvements translated directly into user and business results. After int
 
 More recently, Praktika began using GPT‑5.2 models to power its architecture. GPT‑5.2 now powers the primary conversation agent, while GPT‑5.2 Pro handles supervisory reasoning and GPT‑5 mini supports continuous progress tracking. Together, these models allow the system to reason in parallel, balancing conversation quality, pedagogy, and efficiency at scale.
 
-## What's next
+## What’s next
 
 Today, Praktika supports millions of learners across nine languages, with more on the way. With its agentic foundation in place, Praktika is now focused on expanding what an AI tutor can understand, remember, and create alongside each learner.
 
@@ -157,9 +164,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -196,6 +203,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -229,6 +238,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

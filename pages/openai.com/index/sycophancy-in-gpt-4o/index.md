@@ -26,14 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-What happened
-
-  * What happened
-  * Why this matters
-  * How we’re addressing sycophancy
-
-
-
 April 29, 2025
 
 [Product](</news/product-releases/>)
@@ -45,6 +37,20 @@ April 29, 2025
 Loading…
 
 Share
+
+What happened
+
+  * What happened
+  * Why this matters
+  * How we’re addressing sycophancy
+
+
+
+  * What happened
+  * Why this matters
+  * How we’re addressing sycophancy
+
+
 
 We have rolled back last week’s GPT‑4o update in ChatGPT so people are now using an earlier version with more balanced behavior. The update we removed was overly flattering or agreeable—often described as sycophantic. 
 
@@ -81,9 +87,9 @@ Beyond rolling back the latest GPT‑4o update, we’re taking more steps to rea
 
 We also believe users should have more control over how ChatGPT behaves and, to the extent that it is safe and feasible, make adjustments if they don’t agree with the default behavior.
 
-Today, users can give the model specific instructions to shape its behavior with features like custom instructions. We're also building new, easier ways for users to do this. For example, users will be able to give real-time feedback to directly influence their interactions and choose from multiple default personalities.
+Today, users can give the model specific instructions to shape its behavior with features like custom instructions. We’re also building new, easier ways for users to do this. For example, users will be able to give real-time feedback to directly influence their interactions and choose from multiple default personalities.
 
-And, we’re exploring new ways to incorporate broader, democratic feedback into ChatGPT’s default behaviors. We hope the feedback will help us better reflect diverse cultural values around the world and understand how you'd like ChatGPT to evolve—not just interaction by interaction, but over time.
+And, we’re exploring new ways to incorporate broader, democratic feedback into ChatGPT’s default behaviors. We hope the feedback will help us better reflect diverse cultural values around the world and understand how you’d like ChatGPT to evolve—not just interaction by interaction, but over time.
 
 We are grateful to everyone who’s spoken up about this. It’s helping us build more helpful and better tools for you.
 
@@ -105,9 +111,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -144,6 +150,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -177,6 +185,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

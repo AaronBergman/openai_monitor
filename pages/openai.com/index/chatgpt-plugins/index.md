@@ -26,15 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Overview
-
-  * Overview
-  * Safety and broader implications
-  * Retrieval
-  * Looking forward
-
-
-
 March 23, 2023
 
 [Product](</news/product-releases/>)
@@ -48,6 +39,28 @@ March 23, 2023
 Loading…
 
 Share
+
+Overview
+
+  * Overview
+  * Safety and broader implications
+    * Safety considerations
+    * Safety considerations
+  * Retrieval
+    * Security considerations
+  * Looking forward
+
+
+
+  * Overview
+  * Safety and broader implications
+    * Safety considerations
+    * Safety considerations
+  * Retrieval
+    * Security considerations
+  * Looking forward
+
+
 
  _Note: OpenAI plugins have been deprecated. For more information about our products, check out_[ _ChatGPT for everyone_ ⁠(opens in a new window)](<https://chatgpt.com/overview>)_,_[_for Teams_ ⁠(opens in a new window)](<https://chatgpt.com/business/business-plan>)_, and_[ _for Enterprises_ ⁠(opens in a new window)](<https://chatgpt.com/business/enterprise>)_, plus our_[ _APIs_](</api/>) _for developers._
 
@@ -89,7 +102,7 @@ At the same time, there’s a risk that plugins could increase safety challenges
 
 > “From day one, these factors have guided the development of our plugin platform, and we have implemented several safeguards.”
 
-We’ve performed red-teaming exercises, both internally and with external collaborators, that have revealed a number of possible concerning scenarios. For example, our red teamers discovered ways for plugins—if released without safeguards—to perform sophisticated prompt injection, send fraudulent and spam emails, bypass safety restrictions, or misuse information sent to the plugin. We’re using these findings to inform safety-by-design mitigations that restrict risky plugin behaviors and improve transparency of how and when they're operating as part of the user experience. We're also using these findings to inform our decision to gradually deploy access to plugins.
+We’ve performed red-teaming exercises, both internally and with external collaborators, that have revealed a number of possible concerning scenarios. For example, our red teamers discovered ways for plugins—if released without safeguards—to perform sophisticated prompt injection, send fraudulent and spam emails, bypass safety restrictions, or misuse information sent to the plugin. We’re using these findings to inform safety-by-design mitigations that restrict risky plugin behaviors and improve transparency of how and when they’re operating as part of the user experience. We’re also using these findings to inform our decision to gradually deploy access to plugins.
 
 If you’re a researcher interested in studying safety risks or mitigations in this area, we encourage you to make use of our [Researcher Access Program⁠](</form/researcher-access-program/>). We also invite developers and researchers to submit plugin-related safety and capability evaluations as part of our recently open-sourced [Evals framework⁠(opens in a new window)](<https://github.com/openai/evals>).
 
@@ -271,9 +284,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -310,6 +323,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -343,6 +358,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

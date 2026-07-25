@@ -26,6 +26,20 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
+July 17, 2025
+
+[Product](</news/product-releases/>)[Release](</research/index/release/>)
+
+# Introducing ChatGPT agent: bridging research and action
+
+ChatGPT now thinks and acts, proactively choosing from a toolbox of agentic skills to complete tasks for you using its own computer.
+
+[Try on ChatGPT(opens in a new window)](<https://chatgpt.com/>)
+
+Loading…
+
+Share
+
 A natural evolution of Operator and deep research
 
   * A natural evolution of Operator and deep research
@@ -41,19 +55,18 @@ A natural evolution of Operator and deep research
 
 
 
-July 17, 2025
+  * A natural evolution of Operator and deep research
+  * An agent that works for you, with you 
+  * Broadening real-world utility 
+  * How to use
+  * Novel capabilities, novel risks 
+  * Our strongest safety stack yet for biological risk 
+  * Availability
+  * Limitations and looking ahead 
+  * Appendix
+  * Livestream replay
 
-[Product](</news/product-releases/>)[Release](</research/index/release/>)
 
-# Introducing ChatGPT agent: bridging research and action
-
-ChatGPT now thinks and acts, proactively choosing from a toolbox of agentic skills to complete tasks for you using its own computer.
-
-[Try on ChatGPT(opens in a new window)](<https://chatgpt.com/>)
-
-Loading…
-
-Share
 
 ChatGPT can now do work for you using its own computer, handling complex tasks from start to finish.
 
@@ -167,7 +180,7 @@ The Operator research preview site will remain functional for a few more weeks, 
 
 ChatGPT agent is still in its early stages. It’s capable of taking on a range of complex tasks, but it can still make mistakes. 
 
-While we see significant potential in its ability to generate slideshows, this functionality is currently in beta. At the moment, outputs can sometimes feel rudimentary in its formatting and polish, particularly when starting without an existing document. We focused the model’s initial capabilities on generating artifacts that organize information in a flow and format suitable for presentations, with elements like text, charts, images, and shapes that are natively and easily editable after export, optimizing for structure and flexibility. Currently, there are also occasional discrepancies between the slides in the viewer and the exported powerpoint that we are working to reduce. Additionally, while you can currently upload an existing spreadsheet for ChatGPT to edit or use as a template, this capability isn't yet available for slideshows. We’re already training the next iteration of ChatGPT's slideshow creation to produce more polished, sophisticated outputs, with broader capabilities and improved formatting.
+While we see significant potential in its ability to generate slideshows, this functionality is currently in beta. At the moment, outputs can sometimes feel rudimentary in its formatting and polish, particularly when starting without an existing document. We focused the model’s initial capabilities on generating artifacts that organize information in a flow and format suitable for presentations, with elements like text, charts, images, and shapes that are natively and easily editable after export, optimizing for structure and flexibility. Currently, there are also occasional discrepancies between the slides in the viewer and the exported powerpoint that we are working to reduce. Additionally, while you can currently upload an existing spreadsheet for ChatGPT to edit or use as a template, this capability isn’t yet available for slideshows. We’re already training the next iteration of ChatGPT's slideshow creation to produce more polished, sophisticated outputs, with broader capabilities and improved formatting.
 
 Overall, we expect continued improvements to ChatGPT agent’s efficiency, depth, and versatility over time, including more seamless interactions as we continue to adjust the amount of oversight required from the user to make it more useful while ensuring it’s safe to use.
 
@@ -211,19 +224,17 @@ _**OpenAI has exclusive access to 237 out of 290 private questions on the Tier 1
 
 [View all](</news/>)
 
-![Art Card 1080x1080 \(3\)](https://images.ctfassets.net/kftzwdyauwt9/3JLNH7ejJFnxLmX2LpzoKD/19f9e3c4d36cc9d677ba88e842ad2db2/Art_Card_1080x1080__4_.png?w=3840&q=90&fm=webp)
+![Health in ChatGPT > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/48aIp3cQOKJ57vpQeqOb8y/2e8732bcad5ceea1c7b20cf001bd2823/1_1_Art_Card.png?w=3840&q=90&fm=webp)
 
-Better memory for a more helpful ChatGPT
+[Launching Health in ChatGPT ProductJul 23, 2026](</index/health-in-chatgpt/>)
 
-[Dreaming: Better memory for a more helpful ChatGPTResearchJun 4, 2026](</index/chatgpt-memory-dreaming/>)
+![OpenAI Presence 1x1](https://images.ctfassets.net/kftzwdyauwt9/5JBDenSGI6wx5CMPPlaM5J/da9d8e27a0bd70d845a816b28ac641a9/OpenAI_Presence_1x1.png?w=3840&q=90&fm=webp)
 
-![Rosalind5.5 ArtCard](https://images.ctfassets.net/kftzwdyauwt9/6USIQM1B7TggUvvTFxxwoi/0176ac6633c8bdc24641d25d1d2db824/GPT-Rosalind_ArtCard.png?w=3840&q=90&fm=webp)
+[Introducing OpenAI PresenceProductJul 22, 2026](</index/introducing-openai-presence/>)
 
-[Introducing new capabilities to GPT-RosalindProductJun 3, 2026](</index/introducing-new-capabilities-to-gpt-rosalind/>)
+![GPT-5.6 is now the preferred model in Microsoft 365 Copilot > Cover image](https://images.ctfassets.net/kftzwdyauwt9/3MPipvFMxS8m3kTyCtwFgj/015747dcd34cb667a221688cfca64e0f/Frame.png?w=3840&q=90&fm=webp)
 
-![1 1 Art Card](https://images.ctfassets.net/kftzwdyauwt9/4xugzd9dTDMUzIUmuamtO3/1f40af4e50ab8b2bdd64d5b491964961/1_1_Art_Card.png?w=3840&q=90&fm=webp)
-
-[Codex for every role, tool, and workflowProductJun 2, 2026](</index/codex-for-every-role-tool-workflow/>)
+[GPT-5.6 is now the preferred model in Microsoft 365 CopilotProductJul 9, 2026](</index/gpt-5-6-preferred-model-microsoft-365-copilot/>)
 
 Research
 
@@ -235,9 +246,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -274,6 +285,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -307,6 +320,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

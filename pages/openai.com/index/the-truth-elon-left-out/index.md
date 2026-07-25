@@ -37,50 +37,28 @@ Share
 From Elon’s court filing
 
   * From Elon’s court filing
-
   * The actual September 2017 call notes:
-
   * Commentary
-
   * From Elon’s court filing
-
   * The actual November 6, 2017 notes:
-
   * Commentary
-
   * From Elon’s court filing
-
   * The actual November 6, 2017 notes:
-
   * Commentary
-
   * What happened next
 
 
 
-
-Table of contents
-
   * From Elon’s court filing
-
   * The actual September 2017 call notes:
-
   * Commentary
-
   * From Elon’s court filing
-
   * The actual November 6, 2017 notes:
-
   * Commentary
-
   * From Elon’s court filing
-
   * The actual November 6, 2017 notes:
-
   * Commentary
-
   * What happened next
-
 
 
 
@@ -212,7 +190,7 @@ Still, though we felt Elon’s departure would have facilitated pursuit of the m
 
 ## What happened next
 
-Over the next few months, we worked on fundraising and brainstorming ideas to obtain the next level of funding necessary to pursue and achieve the mission. In mid-January 2018, Elon congratulated us on a successful fundraise, agreed we should do an initial coin offering (“ICO”) to raise $10B—which would involve a for-profit subsidiary—and told us that we'd solved the long-term funding problem. By the end of January, however, he told us he no longer supported the ICO (which we’d soured on too by then) and that OpenAI was “on a path of certain failure relative to Google.”
+Over the next few months, we worked on fundraising and brainstorming ideas to obtain the next level of funding necessary to pursue and achieve the mission. In mid-January 2018, Elon congratulated us on a successful fundraise, agreed we should do an initial coin offering (“ICO”) to raise $10B—which would involve a for-profit subsidiary—and told us that we’d solved the long-term funding problem. By the end of January, however, he told us he no longer supported the ICO (which we’d soured on too by then) and that OpenAI was “on a path of certain failure relative to Google.”
 
 By February 2018, Elon had decided that OpenAI would not be able to raise sufficient funding. That month, he quit even though we [_told him_ ⁠](<https://openai.com/index/elon-musk-wanted-an-openai-for-profit/#january-2018-elon-said-openai-was-on-a-path-for-certain-failure-unless-we-merged-into-tesla>) that we’d “**been working on a fundraising structure that does not rely on a public offering, and we will be curious to hear your feedback**.” On Elon’s way out, he said that he supported us pursuing the path we saw to raising billions of dollars—he just didn’t think we could succeed and he would instead focus on building AGI at Tesla for that reason.
 
@@ -234,9 +212,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -308,6 +286,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

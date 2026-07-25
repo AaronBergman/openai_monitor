@@ -28,7 +28,7 @@ OpenAI
 
 # Codex Use & Feedback
 
-Share details about what you're building with Codex and provide your valuable feedback on the experience.
+Share details about what you’re building with Codex and provide your valuable feedback on the experience.
 
 First name *
 
@@ -48,7 +48,7 @@ What is your current experience level with Codex? *
 
 Choose your experience levelNever heard of itHeard of it but never triedTried it once or twiceOccasional userRegular/Frequent user
 
-Please describe what you've tried using Codex for. (e.g., generating documents, coding, translating languages, connecting systems, designing experiences)
+Please describe what you’ve tried using Codex for. (e.g., generating documents, coding, translating languages, connecting systems, designing experiences)
 
 If applicable, please share a link to your project or related resource (e.g., GitHub repository, demo video, documentation).
 
