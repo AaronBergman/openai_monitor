@@ -26,13 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-How evals work: Specify → Measure → Improve
-
-  * How evals work: Specify → Measure → Improve
-  * What evals mean for business leaders
-
-
-
 November 19, 2025
 
 [Research](</news/research/>)
@@ -44,6 +37,24 @@ This primer teaches business leaders how evaluation frameworks (“evals”) tur
 Loading…
 
 Share
+
+How evals work: Specify → Measure → Improve
+
+  * How evals work: Specify → Measure → Improve
+    * 1\. Specify: Define what “great” means
+    * 2\. Measure: Test against real-world conditions
+    * 3\. Improve: Learn from errors
+  * What evals mean for business leaders
+
+
+
+  * How evals work: Specify → Measure → Improve
+    * 1\. Specify: Define what “great” means
+    * 2\. Measure: Test against real-world conditions
+    * 3\. Improve: Learn from errors
+  * What evals mean for business leaders
+
+
 
 Over [_one million businesses_ ⁠](<https://openai.com/index/1-million-businesses-putting-ai-to-work/>) around the world are leveraging AI to drive greater efficiency and value creation. But some organizations have struggled to get the results they are expecting. What is causing the gap?
 
@@ -59,7 +70,7 @@ This is a primer for business leaders looking to apply evals in their organizati
 
 ![Diagram titled “Eval Blog” showing a flow of evaluation components and processes, set on a light background with colored blocks and arrows representing model evaluation logic.](https://images.ctfassets.net/kftzwdyauwt9/5NnfoyNbQcCkWHbaqG8bMS/d0a168d37e76d73168878675a4d20b1e/Eval_Blog_Diagram_Desktop_Light.svg?w=3840&q=90)
 
-#### 1\. Specify: Define what “great” means
+### 1\. Specify: Define what “great” means
 
 Start with a small, empowered team that can write down the purpose of your AI system in plain terms, for example: “Convert qualified inbound emails into scheduled demos while staying on brand.”
 
@@ -69,7 +80,7 @@ Do not get overwhelmed with a cold start or try to solve it all at once. The pro
 
 This process is not purely technical—it’s cross-functional and centered on defining business goals and desired processes. Technical teams should not be asked in isolation to judge what best serves customers or the needs of other teams like product, sales, or HR. Consequently, domain experts, technical leads, and other key stakeholders should share ownership. 
 
-#### 2\. Measure: Test against real-world conditions
+### 2\. Measure: Test against real-world conditions
 
 The next step is to measure. The goal of measurement is to reliably surface concrete examples of how and when the system is failing. To do that, create a dedicated test environment that closely mirrors real-world conditions—not just a demo or prompt playground. Evaluate performance against your golden set and error analysis under the same pressures and edge cases your system will actually face.
 
@@ -81,7 +92,7 @@ Some evals can be scaled through the use of an **LLM grader** , an AI model that
 
 Evals can help you decide when a system is ready to launch, but they do not stop at launch. You should continuously measure the quality of your system's real outputs generated from real inputs. As with any product, signals from your end-users (whether external or internal) are especially important and should be built into your eval.
 
-#### 3\. Improve: Learn from errors
+### 3\. Improve: Learn from errors
 
 The last step is to set up a process for continuous improvement. Addressing problems uncovered by your eval can take on many forms: refining prompts, adjusting data access, updating the eval itself to better reflect your goals, and so forth. As you uncover new types of errors, add them to your error analysis and address them. Each iteration compounds upon the last: new criteria and clearer expectations of system behavior help reveal new edge cases and subtle, stubborn issues to correct.
 
@@ -126,19 +137,17 @@ If you would like to support our work building the next generation of AI models,
 
 [View all](</news/>)
 
-![Art Card 1080x1080 \(3\)](https://images.ctfassets.net/kftzwdyauwt9/3JLNH7ejJFnxLmX2LpzoKD/19f9e3c4d36cc9d677ba88e842ad2db2/Art_Card_1080x1080__4_.png?w=3840&q=90&fm=webp)
+![Separating signal from noise > Art Card](https://images.ctfassets.net/kftzwdyauwt9/7j6M3prKIsTmV6cbMaHjhZ/e66f7cdd98c66c99546853cbc22cfe84/Seperating-signal-from-noise-card.png?w=3840&q=90&fm=webp)
 
-Better memory for a more helpful ChatGPT
+[Separating signal from noise in coding evaluationsResearchJul 8, 2026](</index/separating-signal-from-noise-coding-evaluations/>)
 
-[Dreaming: Better memory for a more helpful ChatGPTResearchJun 4, 2026](</index/chatgpt-memory-dreaming/>)
+![Introducing GeneBench-Pro > Cover image](https://images.ctfassets.net/kftzwdyauwt9/7sbJaKBi5qLXAqbewh72aK/93197556e903eac9df6f077eb12b7581/GenebenchPro_Blog_ArtCard.png?w=3840&q=90&fm=webp)
 
-![Rosalind5.5 ArtCard](https://images.ctfassets.net/kftzwdyauwt9/6USIQM1B7TggUvvTFxxwoi/0176ac6633c8bdc24641d25d1d2db824/GPT-Rosalind_ArtCard.png?w=3840&q=90&fm=webp)
+[Introducing GeneBench-ProResearchJun 30, 2026](</index/introducing-genebench-pro/>)
 
-[Introducing new capabilities to GPT-RosalindProductJun 3, 2026](</index/introducing-new-capabilities-to-gpt-rosalind/>)
+![A near-autonomous AI chemist improves a challenging reaction](https://images.ctfassets.net/kftzwdyauwt9/QgPPg4etNE5C4Ao0G94sk/e5f2a50e5de4619d0e0fe8483698718b/molecule-one-art-card.png?w=3840&q=90&fm=webp)
 
-![1x1](https://images.ctfassets.net/kftzwdyauwt9/6ui4uYfTTbR4xbiFRcqEfo/81d973f14bea720820f692271f6c6834/square.png?w=3840&q=90&fm=webp)
-
-[Strengthening societal resilience with Rosalind BiodefenseProductMay 29, 2026](</index/strengthening-societal-resilience-with-rosalind-biodefense/>)
+[A near-autonomous AI chemist improves a challenging reaction in medicinal chemistryResearchJun 17, 2026](</index/ai-chemist-improves-reaction/>)
 
 Research
 
@@ -150,9 +159,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -189,6 +198,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -222,6 +233,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

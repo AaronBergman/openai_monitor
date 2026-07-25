@@ -36,7 +36,7 @@ May 19, 2024
 
 Share
 
- _May 22, 2024 update: We want to provide additional information about the timeline, so we 've updated it with additional milestones and dates, including Sam's initial outreach to Ms. Johansson._
+ _May 22, 2024 update: We want to provide additional information about the timeline, so we’ve updated it with additional milestones and dates, including Sam 's initial outreach to Ms. Johansson._
 
 _A statement from our CEO, Sam Altman, on May 20, 2024: “The voice of Sky is not Scarlett Johansson 's, and it was never intended to resemble hers. We cast the voice actor behind Sky’s voice before any outreach to Ms. Johansson. Out of respect for Ms. Johansson, we have paused using Sky’s voice in our products. We are sorry to Ms. Johansson that we didn’t communicate better.” _
 
@@ -115,9 +115,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -154,6 +154,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -187,6 +189,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

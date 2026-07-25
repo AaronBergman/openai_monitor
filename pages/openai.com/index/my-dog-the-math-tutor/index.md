@@ -90,7 +90,7 @@ This last minute idea made his GPT something truly special for his daughter, Dai
 
 After studying with Izzy, the Math Tutor, Daisy’s grasp of her weak points in math got stronger and stronger. In England, there is a test students take at the end of primary school to qualify for secondary school. Daisy passed with flying colors. 
 
-“Daisy smashed her SATs exam for maths. She got a certificate back from a teacher saying how much progress she'd made on maths. And the whole thing was fun. It was like, you know, it just gave us something exciting to do rather than.”
+“Daisy smashed her SATs exam for maths. She got a certificate back from a teacher saying how much progress she’d made on maths. And the whole thing was fun. It was like, you know, it just gave us something exciting to do rather than.”
 
 With her high scores, Daisy has since placed well into her next school. Phil recently shared his ChatGPT math tutor idea on social media to inspire other parents to build their own GPTs and help their children in whatever subject they need. And to add a little personality to their project.
 
@@ -98,7 +98,7 @@ With her high scores, Daisy has since placed well into her next school. Phil rec
 
 ![test](https://images.ctfassets.net/kftzwdyauwt9/1zoDFnHCzMi2fdS5w1icEl/67dd1504212929340b3d8e645ce12b20/2.png?w=3840&q=90&fm=webp)
 
-“Rather than just a, like a boring textbook revision guide. It kind of really, like, really brought it to life and it made it feel like part of the family like that had this thing that was an extension of our dog… You know, it's just really about putting more of what you love into what you learn.”
+“Rather than just a, like a boring textbook revision guide. It kind of really, like, really brought it to life and it made it feel like part of the family like that had this thing that was an extension of our dog… You know, it’s just really about putting more of what you love into what you learn.”
 
 If you’re wondering, the real Izzy still could care less about long division.
 
@@ -132,9 +132,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -171,6 +171,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -204,6 +206,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

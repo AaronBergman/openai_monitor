@@ -38,7 +38,7 @@ Loading…
 
 Share
 
-We're excited to welcome Scott Schools as OpenAI's Chief Compliance Officer, which builds on our ongoing efforts to responsibly advance AI.
+We’re excited to welcome Scott Schools as OpenAI's Chief Compliance Officer, which builds on our ongoing efforts to responsibly advance AI.
 
 Scott will work closely with teams across OpenAI and collaborate with our Board of Directors, further strengthening our efforts to thoughtfully drive and navigate the evolving landscape.
 

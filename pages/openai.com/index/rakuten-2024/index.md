@@ -64,7 +64,7 @@ That’s why Rakuten considered it critical to find a partner that took security
   
 As Rakuten continues to explore ways to innovate with models and data, they’ve put privacy and security above all else. “In everything we do, we are making sure we have the guardrails in place to the highest standard to protect our users and clients,” Kaji said. 
 
-![The image shows a Rakuten AI interface where the user selects the "GPT 4-Omni" model. Options include image/chart understanding, file search, web search, and Wikipedia search. There's a text box for instructions and a save button at the bottom.](https://images.ctfassets.net/kftzwdyauwt9/2qL93dwkoAcoNJlz3Et9Vc/8201f6e6763ecfa9aeaad3469c32bfe1/Rakuten_AI_UI.png?w=3840&q=90&fm=webp)
+![The image shows a Rakuten AI interface where the user selects the "GPT 4-Omni" model. Options include image/chart understanding, file search, web search, and Wikipedia search. There’s a text box for instructions and a save button at the bottom.](https://images.ctfassets.net/kftzwdyauwt9/2qL93dwkoAcoNJlz3Et9Vc/8201f6e6763ecfa9aeaad3469c32bfe1/Rakuten_AI_UI.png?w=3840&q=90&fm=webp)
 
 ## Reaching AI empowerment with OpenAI
 

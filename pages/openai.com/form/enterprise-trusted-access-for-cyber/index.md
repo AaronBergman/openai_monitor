@@ -105,7 +105,7 @@ Not sure/mixed used case
 
 Will you use TAC to provide, facilitate, embed, route, resell, or otherwise make OpenAI model access available to your own customers or other third parties? *Note that TAC is intended for use only by approved internal users of the applying organization. TAC-backed model access may not be made available to your external customers, downstream users, or other third parties.
 
-Yes, TAC will be limited only to our internal users
+No, TAC will be limited only to our internal users
 
 Yes, TAC access will be made available to external customers or third parties
 

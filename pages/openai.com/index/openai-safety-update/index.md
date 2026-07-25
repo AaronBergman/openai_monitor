@@ -46,7 +46,7 @@ More than a hundred million users and millions of developers rely on the work of
 
 We believe in a balanced, scientific approach where safety measures are integrated into the development process from the outset. This ensures that our AI systems are both innovative and reliable, and can deliver benefits to society.
 
-At today’s AI Seoul Summit, we're joining industry leaders, government officials, and members of civil society to discuss AI safety. While there is still more work to do, we are encouraged by the additional Frontier AI Safety Commitments that OpenAI and other companies agreed upon today. The Commitments call on companies to safely develop and deploy their frontier AI models while sharing information about their risk mitigation measures, aligning with steps we have already taken. These include a pledge to publish safety frameworks like the [Preparedness Framework⁠(opens in a new window)](<https://cdn.openai.com/openai-preparedness-framework-beta.pdf>) we developed and adopted last year. 
+At today’s AI Seoul Summit, we’re joining industry leaders, government officials, and members of civil society to discuss AI safety. While there is still more work to do, we are encouraged by the additional Frontier AI Safety Commitments that OpenAI and other companies agreed upon today. The Commitments call on companies to safely develop and deploy their frontier AI models while sharing information about their risk mitigation measures, aligning with steps we have already taken. These include a pledge to publish safety frameworks like the [Preparedness Framework⁠(opens in a new window)](<https://cdn.openai.com/openai-preparedness-framework-beta.pdf>) we developed and adopted last year. 
 
 We are sharing 10 practices we actively use and improve upon.
 
@@ -86,9 +86,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -125,6 +125,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -158,6 +160,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

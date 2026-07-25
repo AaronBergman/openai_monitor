@@ -55,7 +55,7 @@ Further, Bertelsmann established an AI Hub to define AI priorities across the co
 
 
 
-“Bertelsmann is one of the world's leaders in media, services, and education and we're thrilled to be working together at the intersection of AI and media,” said Brad Lightcap, Chief Operating Officer at OpenAI. “With Bertelsmann, we look forward to inspiring creativity and innovation across the broader AI and creative ecosystems.”
+“Bertelsmann is one of the world's leaders in media, services, and education and we’re thrilled to be working together at the intersection of AI and media,” said Brad Lightcap, Chief Operating Officer at OpenAI. “With Bertelsmann, we look forward to inspiring creativity and innovation across the broader AI and creative ecosystems.”
 
 ## Authors
 
@@ -71,9 +71,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -110,6 +110,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -143,6 +145,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

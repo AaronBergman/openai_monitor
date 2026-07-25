@@ -133,7 +133,7 @@ Presence is also designed to learn with you—improving as your business, custom
 
 OpenAI Presence is available to eligible enterprise customers as a deployed product through a limited general availability program. Deployments are led by OpenAI Forward Deployed Engineers and select global systems integrators. Presence is not yet available as a self-serve product.
 
-As we introduce OpenAI Presence, we'll continue supporting voice customers with access to our frontier models through the OpenAI API.
+As we introduce OpenAI Presence, we’ll continue supporting voice customers with access to our frontier models through the OpenAI API.
 
 To explore whether Presence is right for your organization, contact your OpenAI account team.
 

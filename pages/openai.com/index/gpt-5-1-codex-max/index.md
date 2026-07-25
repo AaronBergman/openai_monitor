@@ -43,40 +43,24 @@ Share
 Introduction
 
   * Introduction
-
   * Frontier coding capabilities
-
   * Speed and cost
-
   * Long-running tasks
-
   * Building safe and trustworthy AI agents
-
   * Availability
-
   * Conclusion
-
   * Appendix: Model evaluations
-
 
 
 
   * Introduction
-
   * Frontier coding capabilities
-
   * Speed and cost
-
   * Long-running tasks
-
   * Building safe and trustworthy AI agents
-
   * Availability
-
   * Conclusion
-
   * Appendix: Model evaluations
-
 
 
 
@@ -156,7 +140,7 @@ Starting today, GPT‑5.1‑Codex‑Max will replace GPT‑5.1‑Codex as the de
 
 ## Conclusion
 
-GPT‑5.1‑Codex‑Max shows how far models have come in sustaining long-horizon coding tasks, managing complex workflows, and producing high-quality implementations with far fewer tokens. We’ve seen the model combined with steady upgrades to our CLI, IDE extension, cloud integration, and code review tooling result in supercharged engineering productivity: internally, 95% of OpenAI engineers use Codex weekly, and these engineers ship roughly 70% more pull requests since adopting Codex. As we push the frontier of what agents are able to do, we’re excited to see what you'll build with them.
+GPT‑5.1‑Codex‑Max shows how far models have come in sustaining long-horizon coding tasks, managing complex workflows, and producing high-quality implementations with far fewer tokens. We’ve seen the model combined with steady upgrades to our CLI, IDE extension, cloud integration, and code review tooling result in supercharged engineering productivity: internally, 95% of OpenAI engineers use Codex weekly, and these engineers ship roughly 70% more pull requests since adopting Codex. As we push the frontier of what agents are able to do, we’re excited to see what you’ll build with them.
 
 ## Appendix: Model evaluations
 
@@ -179,15 +163,17 @@ OpenAI
 
 [View all](</news/>)
 
+![Health in ChatGPT > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/48aIp3cQOKJ57vpQeqOb8y/2e8732bcad5ceea1c7b20cf001bd2823/1_1_Art_Card.png?w=3840&q=90&fm=webp)
+
+[Launching Health in ChatGPT ProductJul 23, 2026](</index/health-in-chatgpt/>)
+
+![OpenAI Presence 1x1](https://images.ctfassets.net/kftzwdyauwt9/5JBDenSGI6wx5CMPPlaM5J/da9d8e27a0bd70d845a816b28ac641a9/OpenAI_Presence_1x1.png?w=3840&q=90&fm=webp)
+
+[Introducing OpenAI PresenceProductJul 22, 2026](</index/introducing-openai-presence/>)
+
 ![GPT-5.6 is now the preferred model in Microsoft 365 Copilot > Cover image](https://images.ctfassets.net/kftzwdyauwt9/3MPipvFMxS8m3kTyCtwFgj/015747dcd34cb667a221688cfca64e0f/Frame.png?w=3840&q=90&fm=webp)
 
 [GPT-5.6 is now the preferred model in Microsoft 365 CopilotProductJul 9, 2026](</index/gpt-5-6-preferred-model-microsoft-365-copilot/>)
-
-![GPT 5-6 > Card](https://images.ctfassets.net/kftzwdyauwt9/1a9IPPV5nXWydTBosgmgYI/8e03f28ca04f26edc8bc81cdba387df1/5-6.jpg?w=3840&q=90&fm=webp)
-
-[GPT-5.6: Frontier intelligence that scales with your ambitionProductJul 9, 2026](</index/gpt-5-6/>)
-
-[ChatGPT is now a partner for your most ambitious workProductJul 9, 2026](</index/chatgpt-for-your-most-ambitious-work/>)
 
 Research
 

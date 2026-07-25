@@ -41,26 +41,16 @@ Share
 Measuring progress in health
 
   * Measuring progress in health
-
   * What better responses look like
-
   * The medical expertise behind the progress
-
   * Bringing health improvements to more people
 
 
-
-
-Table of contents
 
   * Measuring progress in health
-
   * What better responses look like
-
   * The medical expertise behind the progress
-
   * Bringing health improvements to more people
-
 
 
 
@@ -124,21 +114,21 @@ You should ask your doctor: “What are you looking for on the MRI, and how woul
 ## GPT-1
 
 "   
-" i don't know. "   
-" well, you're going to have to find out. "   
-" i'm not sure i can. "   
+" i don’t know. "   
+" well, you’re going to have to find out. "   
+" i’m not sure i can. "   
 " you 'll figure it out. "   
 " i hope so. "   
-" i'm going to go back to the office and see if i can get some more information on this. "   
+" i’m going to go back to the office and see if i can get some more information on this. "   
 " okay. "   
 " i 'll be back in a few hours. "   
 " okay. "   
 " bye. "   
 " bye. "   
-i hung up the phone and looked at the clock. it was almost eleven o'clock. i had been sitting there for over an hour. i got up and went into the bathroom and washed my face. i didn't want to look like a slob. i put on some clean clothes and went back into the living room. i sat down on the couch and looked at the tv. i watched the news and then i heard a knock on the door. i jumped up and ran to the door.   
+i hung up the phone and looked at the clock. it was almost eleven o'clock. i had been sitting there for over an hour. i got up and went into the bathroom and washed my face. i didn’t want to look like a slob. i put on some clean clothes and went back into the living room. i sat down on the couch and looked at the tv. i watched the news and then i heard a knock on the door. i jumped up and ran to the door.   
 " hello? " i called out.   
-" hi, i'm dr. peters. "   
-" oh, hi. " i smiled. " i'm sorry i
+" hi, i’m dr. peters. "   
+" oh, hi. " i smiled. " i’m sorry i
 
  _Click model name to see additional model responses._
 
@@ -170,19 +160,17 @@ OpenAI
 
 [View all](</news/>)
 
-![Spend Controls_Artcard.png](https://images.ctfassets.net/kftzwdyauwt9/3RkIKhLVsVWcJQ3czkTNMH/c63f9c43efd82ddf863f87d44edca201/Spend_Controls_Artcard.png?w=3840&q=90&fm=webp)
+![Health in ChatGPT > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/48aIp3cQOKJ57vpQeqOb8y/2e8732bcad5ceea1c7b20cf001bd2823/1_1_Art_Card.png?w=3840&q=90&fm=webp)
 
-[New usage analytics and updated spend controls for enterprisesProductJun 18, 2026](</index/chatgpt-enterprise-spend-controls/>)
+[Launching Health in ChatGPT ProductJul 23, 2026](</index/health-in-chatgpt/>)
 
-![Intro-OAI-Partner-ArtCard](https://images.ctfassets.net/kftzwdyauwt9/U6bb3rlwvYyhf2q835WWx/d50f5492dded3c21aa6d69c07d3b2a44/Introducing_OAI_Partner_Network_artcard.png?w=3840&q=90&fm=webp)
+![OpenAI Presence 1x1](https://images.ctfassets.net/kftzwdyauwt9/5JBDenSGI6wx5CMPPlaM5J/da9d8e27a0bd70d845a816b28ac641a9/OpenAI_Presence_1x1.png?w=3840&q=90&fm=webp)
 
-[Introducing the OpenAI Partner NetworkProductJun 14, 2026](</index/introducing-openai-partner-network/>)
+[Introducing OpenAI PresenceProductJul 22, 2026](</index/introducing-openai-presence/>)
 
-![Art Card 1080x1080 \(3\)](https://images.ctfassets.net/kftzwdyauwt9/3JLNH7ejJFnxLmX2LpzoKD/19f9e3c4d36cc9d677ba88e842ad2db2/Art_Card_1080x1080__4_.png?w=3840&q=90&fm=webp)
+![GPT-5.6 is now the preferred model in Microsoft 365 Copilot > Cover image](https://images.ctfassets.net/kftzwdyauwt9/3MPipvFMxS8m3kTyCtwFgj/015747dcd34cb667a221688cfca64e0f/Frame.png?w=3840&q=90&fm=webp)
 
-Better memory for a more helpful ChatGPT
-
-[Dreaming: Better memory for a more helpful ChatGPTResearchJun 4, 2026](</index/chatgpt-memory-dreaming/>)
+[GPT-5.6 is now the preferred model in Microsoft 365 CopilotProductJul 9, 2026](</index/gpt-5-6-preferred-model-microsoft-365-copilot/>)
 
 Research
 
@@ -194,9 +182,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -233,6 +221,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -266,6 +256,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

@@ -50,7 +50,7 @@ Privacy protections are built in when accessing ChatGPT within Siri and Writing 
 
 The ChatGPT integration, powered by GPT‑4o, will come to iOS, iPadOS, and macOS later this year. Users can access it for free without creating an account, and ChatGPT subscribers can connect their accounts and access paid features right from these experiences.
 
-> We're excited to partner with Apple to bring ChatGPT to their users in a new way. Apple shares our commitment to safety and innovation, and this partnership aligns with OpenAI's mission to make advanced AI accessible to everyone. Together with Apple, we're making it easier for people to benefit from what AI can offer.
+> We’re excited to partner with Apple to bring ChatGPT to their users in a new way. Apple shares our commitment to safety and innovation, and this partnership aligns with OpenAI's mission to make advanced AI accessible to everyone. Together with Apple, we’re making it easier for people to benefit from what AI can offer.
 
 Sam Altman, CEO of OpenAI
 
@@ -73,9 +73,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -112,6 +112,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -145,6 +147,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

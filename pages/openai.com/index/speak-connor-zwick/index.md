@@ -26,19 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-What was your first meaningful encounter with AI and how did it shape your plans for Speak?
-
-  * What was your first meaningful encounter with AI and how did it shape your plans for Speak?
-  * When you set out to build that AI language tutor, how did you think about injecting AI into the platform in a way that felt natural to language learners?
-  * AI evolves really quickly—in that kind of environment, how do you think about effectively planning your product roadmap for the future?
-  * What is the most recent technical breakthrough in AI that has changed your thinking on what's possible for Speak?
-  * Are there any other areas of AI progress that might not seem relevant to Speak but are actually exciting for you?
-  * How do you see the role of language teachers evolving in this AI-driven landscape?
-  * As Speak scales, how do you foster AI fluency within your team?
-  * What AI trends will most significantly shape language learning next?
-
-
-
 April 22, 2025
 
 [API](</stories/api/>)
@@ -53,7 +40,31 @@ Loading…
 
 Share
 
-** _Our Executive Function series features perspectives from leaders driving transformation through AI._**
+What was your first meaningful encounter with AI and how did it shape your plans for Speak?
+
+  * What was your first meaningful encounter with AI and how did it shape your plans for Speak?
+  * When you set out to build that AI language tutor, how did you think about injecting AI into the platform in a way that felt natural to language learners?
+  * AI evolves really quickly—in that kind of environment, how do you think about effectively planning your product roadmap for the future?
+  * What is the most recent technical breakthrough in AI that has changed your thinking on what's possible for Speak?
+  * Are there any other areas of AI progress that might not seem relevant to Speak but are actually exciting for you?
+  * How do you see the role of language teachers evolving in this AI-driven landscape?
+  * As Speak scales, how do you foster AI fluency within your team?
+  * What AI trends will most significantly shape language learning next?
+
+
+
+  * What was your first meaningful encounter with AI and how did it shape your plans for Speak?
+  * When you set out to build that AI language tutor, how did you think about injecting AI into the platform in a way that felt natural to language learners?
+  * AI evolves really quickly—in that kind of environment, how do you think about effectively planning your product roadmap for the future?
+  * What is the most recent technical breakthrough in AI that has changed your thinking on what's possible for Speak?
+  * Are there any other areas of AI progress that might not seem relevant to Speak but are actually exciting for you?
+  * How do you see the role of language teachers evolving in this AI-driven landscape?
+  * As Speak scales, how do you foster AI fluency within your team?
+  * What AI trends will most significantly shape language learning next?
+
+
+
+**_Our Executive Function series features perspectives from leaders driving transformation through AI._**
 
 __[_Speak_ ⁠(opens in a new window)](<https://www.speak.com/>) is a language learning app that sets users on the path to fluency with the world’s most advanced AI tutor. We spoke with Connor Zwick, CEO of Speak, about how AI is reshaping language learning, the breakthroughs enabling more natural AI tutors, and the challenges of scaling an AI startup in a rapidly evolving technical landscape.
 
@@ -141,7 +152,7 @@ OpenAI
 
 [EliseAI improves housing and healthcare efficiency with AIMar 18, 2025](</index/eliseai-minna-song/>)
 
-![EF LaunchDarkly Web Card 1.1](https://images.ctfassets.net/kftzwdyauwt9/2cpF9RROp0adrJYodf58yu/ff2bbb83e2ab2d51ff46646c0cb1a6b4/EF_Uber_Web_Card_1.1.png?w=3840&q=90&fm=webp)
+![Artistic rendering of audio waveform with "Ep 04" written atop. ](https://images.ctfassets.net/kftzwdyauwt9/2cpF9RROp0adrJYodf58yu/ff2bbb83e2ab2d51ff46646c0cb1a6b4/EF_Uber_Web_Card_1.1.png?w=3840&q=90&fm=webp)
 
 [LaunchDarkly's approach to AI-powered product managementMar 4, 2025](</index/launchdarkly-claire-vo/>)
 
@@ -155,9 +166,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -194,6 +205,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -227,6 +240,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

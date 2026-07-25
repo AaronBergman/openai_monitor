@@ -39,34 +39,20 @@ Share
 Buried in the noise
 
   * Buried in the noise
-
   * A new way to ask 
-
   * Making it reliable
-
   * From tickets to turning points
-
   * Compounding curiosity
-
   * The operating model ahead
 
 
-
-
-Table of contents
 
   * Buried in the noise
-
   * A new way to ask 
-
   * Making it reliable
-
   * From tickets to turning points
-
   * Compounding curiosity
-
   * The operating model ahead
-
 
 
 
@@ -96,7 +82,7 @@ We built it by blending what already worked. On one side, classifiers and charts
 
 In minutes, the system returns a report sizing the problem, showing prevalence, and highlighting friction points. Leaders no longer have to borrow bandwidth or view static dashboards. Anyone can follow their own questions wherever they lead. For product teams, that means faster iteration on real feedback—knowing what’s working, what isn’t, and drawing clear insights to guide both product launches and long-term roadmaps.
 
-> “The magic is that you don't have to predefine your questions, you can just follow your curiosity.”
+> “The magic is that you don’t have to predefine your questions, you can just follow your curiosity.”
 
 Molly Jackman, Head of Business Data
 
@@ -168,9 +154,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -207,6 +193,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -240,6 +228,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

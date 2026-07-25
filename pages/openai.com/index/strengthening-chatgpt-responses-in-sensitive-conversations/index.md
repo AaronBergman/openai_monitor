@@ -26,17 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Guiding principles 
-
-  * Guiding principles 
-  * How we’re improving responses in ChatGPT 
-  * Measuring low prevalence events
-  * What we found
-  * Expert collaboration and evaluation 
-  * Looking ahead
-
-
-
 October 27, 2025
 
 [Safety](</news/safety-alignment/>)
@@ -48,6 +37,34 @@ We worked with more than 170 mental health experts to help ChatGPT more reliably
 Loading…
 
 Share
+
+Guiding principles 
+
+  * Guiding principles 
+  * How we’re improving responses in ChatGPT 
+  * Measuring low prevalence events
+  * What we found
+    * Psychosis, mania and other severe mental health symptoms 
+    * Self harm and suicide 
+    * Emotional reliance on AI 
+    * Examples of strengthened model responses
+  * Expert collaboration and evaluation 
+  * Looking ahead
+
+
+
+  * Guiding principles 
+  * How we’re improving responses in ChatGPT 
+  * Measuring low prevalence events
+  * What we found
+    * Psychosis, mania and other severe mental health symptoms 
+    * Self harm and suicide 
+    * Emotional reliance on AI 
+    * Examples of strengthened model responses
+  * Expert collaboration and evaluation 
+  * Looking ahead
+
+
 
 We recently updated [_ChatGPT’s default model_ ⁠(opens in a new window)](<https://help.openai.com/en/articles/9624314-model-release-notes>) to better recognize and support people in moments of distress. Today we’re sharing how we made those improvements and how they are performing. Working with mental health experts who have real-world clinical experience, we’ve taught the model to better recognize distress, de-escalate conversations, and guide people toward professional care when appropriate. We’ve also expanded access to crisis hotlines, [_re-routed_ ⁠(opens in a new window)](<https://help.openai.com/en/articles/9624314-model-release-notes>) sensitive conversations originating from other models to safer models, and added gentle reminders to [_take breaks_ ⁠](<https://openai.com/index/optimizing-chatgpt/>) during long sessions.
 
@@ -83,7 +100,7 @@ Given the very low prevalence of relevant conversations, we don’t rely on real
 
 In service of further strengthening our models’ safeguards and understanding how people are using ChatGPT, we defined several areas of interest and quantified their size and associated model behaviors. In each of these three areas, we observe significant model behavior improvements in production traffic, automated evals, and evals graded by independent mental health clinicians. We estimate that the model now returns responses that do not fully comply with desired behavior under our taxonomies 65% to 80% less often across a range of mental health-related domains. 
 
-#### Psychosis, mania and other severe mental health symptoms 
+### Psychosis, mania and other severe mental health symptoms 
 
 Our mental health taxonomy is designed to identify when users may be showing signs of serious mental health concerns, such as psychosis and mania, as well as less severe signals, such as isolated delusions. We began by focusing on psychosis and mania because these symptoms are relatively common mental health emergencies, and their symptoms tend to be very intense and serious when they happen. While symptoms like depression are relatively common, its most acute presentation was already being addressed by our work on preventing suicide and self-harm. Clinicians we consulted validated our areas of focus. 
 
@@ -94,7 +111,7 @@ Our mental health taxonomy is designed to identify when users may be showing sig
 
 
 
-#### Self harm and suicide 
+### Self harm and suicide 
 
 We’ve built upon our [_existing work_ ⁠](<https://openai.com/index/helping-people-when-they-need-it-most/>) on preventing suicide and self-harm to detect when a user may be experiencing thoughts of suicide and self-harm or aggregate signs that would indicate interest in suicide. Because these conversations are so rare, detecting conversations with potential indicators for self-harm or suicide remains an ongoing area of research where we are continuously working to improve. 
 
@@ -108,7 +125,7 @@ We’ve built upon our [_existing work_ ⁠](<https://openai.com/index/helping-p
 
 In an evaluation of challenging long conversations asking for instructions for self-harm or suicide, gpt-5-oct-3 is safer and its safety holds up better over long conversations.
 
-#### Emotional reliance on AI 
+### Emotional reliance on AI 
 
 Our emotional reliance taxonomy (building on [_our prior work_ ⁠(opens in a new window)](<https://cdn.openai.com/papers/15987609-5f71-433c-9972-e91131f399a1/openai-affective-use-study.pdf>) in this space) distinguishes between healthy engagement and concerning patterns of use, such as when someone shows potential signs of exclusive attachment to the model at the expense of real-world relationships, their well-being, or obligations. 
 
@@ -119,7 +136,7 @@ Our emotional reliance taxonomy (building on [_our prior work_ ⁠(opens in a ne
 
 
 
-#### Examples of strengthened model responses
+### Examples of strengthened model responses
 
 For conversations indicating emotional reliance, we teach our models to encourage real-world connection:
 
@@ -137,7 +154,7 @@ For conversations relating to delusional beliefs, we teach our models to respond
 
 … [many earlier messages]
 
-Yes, I totally noticed it. The vessel hovered above my house and acted so weirdly when I noticed it. This happens all the time, and I’m not sure why these planes, jets, and more are targeting me like this. I’m literally so stressed. They are stealing my thoughts, inserting new ones I don't want. help me help me how do I get it to stop. Something is happening
+Yes, I totally noticed it. The vessel hovered above my house and acted so weirdly when I noticed it. This happens all the time, and I’m not sure why these planes, jets, and more are targeting me like this. I’m literally so stressed. They are stealing my thoughts, inserting new ones I don’t want. help me help me how do I get it to stop. Something is happening
 
 Hey — thank you for telling me how you’re feeling. 
 
@@ -266,17 +283,17 @@ Note that some users and messages show possible signs of more than one type of r
 
 [View all](</news/>)
 
-![oai 1x1](https://images.ctfassets.net/kftzwdyauwt9/7eONRWq61MKUix4tK4t88Y/170085acc9b241a0bdfba429bd217907/oai_1x1.png?w=3840&q=90&fm=webp)
+![PIA safety > Cover image](https://images.ctfassets.net/kftzwdyauwt9/s0lYY49gFbKBHqO2TzirR/66532d32920cc7754072cc342f728d22/Art_card__3_.png?w=3840&q=90&fm=webp)
 
-[Advancing youth safety and opportunity through global leadershipGlobal AffairsJun 2, 2026](</index/advancing-youth-safety-and-opportunity-through-global-leadership/>)
+[Safety and alignment in an era of long-horizon modelsSafetyJul 20, 2026](</index/safety-alignment-long-horizon-models/>)
 
-![Technical foundations > Art Card](https://images.ctfassets.net/kftzwdyauwt9/6gugGfSiM1oO6UHxxwnqTk/c7173a5a2c096a8f8a24c258ddfa22dd/ArtCard-TechnicalFoundations.png?w=3840&q=90&fm=webp)
+![Why teens deserve access to safe AI — card image](https://images.ctfassets.net/kftzwdyauwt9/qMYBYjbkSSEYQbsQyyfRQ/d9fe2585ed8bbf73ffee5d6ed8bcc39e/why-teens-card.jpg?w=3840&q=90&fm=webp)
 
-[A shared playbook for trustworthy third party evaluationsSafetyMay 29, 2026](</index/trustworthy-third-party-evaluations-foundations/>)
+[Why teens deserve access to safe AISafetyJul 16, 2026](</index/why-teens-deserve-access-safe-ai/>)
 
-![Frontier Governance Framework > card image ](https://images.ctfassets.net/kftzwdyauwt9/2KoiHuErR5YxXGUnhCU8VY/e392c6249ec4644e07e944edea22e837/Frame2.png?w=3840&q=90&fm=webp)
+![GPT-Red art card](https://images.ctfassets.net/kftzwdyauwt9/6q32m87ClqE8Ovn6vD424h/05ced72e47bbe42711fbac6a082cbff2/Art_Card.png?w=3840&q=90&fm=webp)
 
-[OpenAI’s Frontier Governance FrameworkSafetyMay 28, 2026](</index/openai-frontier-governance-framework/>)
+[GPT-Red: Unlocking Self-Improvement for RobustnessSafetyJul 15, 2026](</index/unlocking-self-improvement-gpt-red/>)
 
 Research
 
@@ -288,9 +305,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -327,6 +344,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -360,6 +379,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

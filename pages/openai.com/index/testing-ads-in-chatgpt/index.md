@@ -41,34 +41,20 @@ Share
 Mission alignment
 
   * Mission alignment
-
   * Answer independence
-
   * Conversation privacy
-
   * Choice and control
-
   * Long-term value
-
   * What’s next
 
 
-
-
-Table of contents
 
   * Mission alignment
-
   * Answer independence
-
   * Conversation privacy
-
   * Choice and control
-
   * Long-term value
-
   * What’s next
-
 
 
 
@@ -104,7 +90,7 @@ ChatGPT is used by hundreds of millions of people for learning, work, and everyd
 
 Ads do not influence the answers ChatGPT gives you. Answers are optimized based on what’s most helpful to you. When you see an ad, they are always clearly labeled as sponsored and visually separated from the organic answer.
 
-During the test, we decide which ad to show by matching ads submitted by advertisers with the topic of your conversation, your past chats, and past interactions with ads. For example, if you're researching recipes, you may see ads for meal kits or grocery delivery. If there are multiple advertisers, we'll select the one that is most relevant to your chat to show you first.
+During the test, we decide which ad to show by matching ads submitted by advertisers with the topic of your conversation, your past chats, and past interactions with ads. For example, if you’re researching recipes, you may see ads for meal kits or grocery delivery. If there are multiple advertisers, we’ll select the one that is most relevant to your chat to show you first.
 
 ![Chat interface showing potluck planning tips followed by a clearly labeled sponsored listing from Heirloom Groceries featuring a La Mesa Roja Enchilada Kit with price and cook time, plus a note stating that ads do not influence ChatGPT’s answers and chats remain private.](https://images.ctfassets.net/kftzwdyauwt9/4A3jICYim83c9WUZG3vapA/0039df14fd68cebc447f689effce8e83/10.png?w=3840&q=90&fm=webp)
 
@@ -134,7 +120,7 @@ More broadly, we see an opportunity for advertising in ChatGPT to be uniquely va
 
 Our focus with this test is learning. We’re paying close attention to feedback so we can make sure ads feel useful and fit naturally into the ChatGPT experience before expanding.
 
-For businesses, we are just beginning to explore the ways different types of organizations can participate in the ChatGPT experience in an additive way. Over time, we will evolve our advertising program to support additional formats, objectives and buying models and build new ways for businesses to interact with consumers in ChatGPT. If you're a business and interested in advertising in ChatGPT, visit [_openai.com/advertisers_ ⁠](</advertisers/>) to sign up for more updates.
+For businesses, we are just beginning to explore the ways different types of organizations can participate in the ChatGPT experience in an additive way. Over time, we will evolve our advertising program to support additional formats, objectives and buying models and build new ways for businesses to interact with consumers in ChatGPT. If you’re a business and interested in advertising in ChatGPT, visit [_openai.com/advertisers_ ⁠](</advertisers/>) to sign up for more updates.
 
 What will always remain true: ChatGPT’s answers remain independent and unbiased, conversations stay private, and people keep meaningful control over their experience.
 
@@ -151,17 +137,17 @@ OpenAI
 
 [View all](</news/>)
 
-![Art Card 1x1](https://images.ctfassets.net/kftzwdyauwt9/687HyyF4C0A2OsktQGlTZJ/1ca5b061daa5e22fd338e9910292dac5/blog_1x1.png?w=3840&q=90&fm=webp)
+![Health in ChatGPT > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/48aIp3cQOKJ57vpQeqOb8y/2e8732bcad5ceea1c7b20cf001bd2823/1_1_Art_Card.png?w=3840&q=90&fm=webp)
 
-[Previewing GPT-5.6 Sol: a next-generation modelProductJun 26, 2026](</index/previewing-gpt-5-6-sol/>)
+[Launching Health in ChatGPT ProductJul 23, 2026](</index/health-in-chatgpt/>)
 
-![How agents are transforming work > Cover image](https://images.ctfassets.net/kftzwdyauwt9/7hmtkjKv0DxS4Yt8mQZju2/c168bfa2010da64bcc9dd60d6b5491e8/Art_Card__1_.png?w=3840&q=90&fm=webp)
+![How news organizations are using AI > Card Image](https://images.ctfassets.net/kftzwdyauwt9/5nTzxwRy4Is9PQSluyYkWP/d6e7953a692a5a8c926885e2f50a3427/how_news_orgs_use_AI_1x1.png?w=3840&q=90&fm=webp)
 
-[How agents are transforming workCompanyJun 25, 2026](</index/how-agents-are-transforming-work/>)
+[How news organizations use AI to advance their vital missionsCompanyJul 22, 2026](</index/how-news-organizations-are-using-ai/>)
 
-![OpenAI and Broadcom Jalapeño inference chip card image](https://images.ctfassets.net/kftzwdyauwt9/21KcazqOHUF7Cq71Hpfcnc/81ad98a1978845b441ab14e008168c75/openai-broadcom-jalapeno-inference-chip-image-1_1.png?w=3840&q=90&fm=webp)
+![OpenAI Presence 1x1](https://images.ctfassets.net/kftzwdyauwt9/5JBDenSGI6wx5CMPPlaM5J/da9d8e27a0bd70d845a816b28ac641a9/OpenAI_Presence_1x1.png?w=3840&q=90&fm=webp)
 
-[OpenAI and Broadcom unveil LLM-optimized inference chipCompanyJun 24, 2026](</index/openai-broadcom-jalapeno-inference-chip/>)
+[Introducing OpenAI PresenceProductJul 22, 2026](</index/introducing-openai-presence/>)
 
 Research
 
@@ -173,9 +159,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -247,6 +233,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

@@ -39,22 +39,14 @@ Share
 True comprehension requires context
 
   * True comprehension requires context
-
-  * Analyzing data manually just isn't viable
-
+  * Analyzing data manually just isn’t viable
   * Unleashing the full potential of unstructured data
 
 
-
-
-Table of contents
 
   * True comprehension requires context
-
-  * Analyzing data manually just isn't viable
-
+  * Analyzing data manually just isn’t viable
   * Unleashing the full potential of unstructured data
-
 
 
 
@@ -72,7 +64,7 @@ Viable has tackled this challenge by [fine-tuning OpenAI’s LLMs⁠(opens in a 
 
 ![Viable Net Promoter Score](https://images.ctfassets.net/kftzwdyauwt9/df161c45-eec7-4c14-c86620001318/b0f5d75bb34ac776a476cebc9ac9ca3d/viable-net-promoter-score.png?w=3840&q=90&fm=webp)
 
-## Analyzing data manually just isn't viable
+## Analyzing data manually just isn’t viable
 
 Viable was founded in 2020 with the initial aim of helping businesses achieve product-market fit. They quickly realized that even the most data-driven organizations were unable to make full use of their qualitative data in decision-making. 
 
@@ -90,7 +82,7 @@ OpenAI’s LLMs have enabled Viable to fine-tune their analysis of unstructured 
 
 Viable’s platform makes it effortless for customers to extract insights from their unstructured data in platforms like Zendesk, Intercom, Gong, and more through their seamless integrations, continuous syncing, and automated analysis. In just a few clicks, the platform categorizes data into themes, and provides a week-over-week analysis to help customers understand the context behind their data, churn risk, and even the user profiles of those delivering that specific feedback. Viable's customers can also ask the AI more complex questions about their data and receive insights based on the relevant data set.
 
-Viable's customers have [saved nearly 1,000 hours per year⁠(opens in a new window)](<https://www.askviable.com/blog/how-viables-data-analysis-saves-latchs-product-team-936-hours-a-year>), reduced support ticket volumes, and decreased customer churn since implementing their insights. “With Viable, we've been able to analyze unstructured data on a scale that was previously impossible,” says Kalie Bishop, VP of Customer Support at [Sticker Mule⁠(opens in a new window)](<https://www.askviable.com/blog/sticker-mule-case-study>). “Previously, we depleted valuable resources manually reviewing, tagging, and analyzing qualitative feedback.”
+Viable's customers have [saved nearly 1,000 hours per year⁠(opens in a new window)](<https://www.askviable.com/blog/how-viables-data-analysis-saves-latchs-product-team-936-hours-a-year>), reduced support ticket volumes, and decreased customer churn since implementing their insights. “With Viable, we’ve been able to analyze unstructured data on a scale that was previously impossible,” says Kalie Bishop, VP of Customer Support at [Sticker Mule⁠(opens in a new window)](<https://www.askviable.com/blog/sticker-mule-case-study>). “Previously, we depleted valuable resources manually reviewing, tagging, and analyzing qualitative feedback.”
 
 > “We’ve revolutionized our approach, using Viable’s powerful insights to swiftly identify areas of improvement and save our managers hundreds of hours.”
 
@@ -126,9 +118,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -165,6 +157,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -198,6 +192,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

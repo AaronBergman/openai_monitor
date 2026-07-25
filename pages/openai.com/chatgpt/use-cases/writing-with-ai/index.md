@@ -38,8 +38,6 @@ Editorial Feedback
 
 
 
-Table of contents
-
   * Editorial Feedback
   * Wordfinding
   * Reverse Interviewing
@@ -58,9 +56,9 @@ I’d like all the ideas to come from me, but I want your help eliciting them. F
 
 
 
-Then, ask me each question one at a time. For each response, ask two follow-up questions, one at a time, before moving on to the next question. Let's have a fun and playful conversation to spark my creativity!
+Then, ask me each question one at a time. For each response, ask two follow-up questions, one at a time, before moving on to the next question. Let’s have a fun and playful conversation to spark my creativity!
 
-Absolutely! Let's get creative! Here are the 10 questions I'll ask to guide your storytelling:
+Absolutely! Let’s get creative! Here are the 10 questions I’ll ask to guide your storytelling:
 
   1. What was the most surprising or unexpected thing that ever happened to you?
   2. What’s a hobby, job, or skill you’ve always wanted to master, but never had the time or opportunity to pursue?
@@ -131,13 +129,13 @@ Here’s how former _New York Times_ columnist Farhad Manjoo uses ChatGPT for �
 
 “ChatGPT has become part of my workflow. Before I start writing, I sometimes have a conversation with it about the ideas I’m thinking of. It feels like brainstorming—like thinking an idea through, or thinking out loud.  
   
-I’ve also experimented with using it as my first reader. After I write a few paragraphs, I show it to ChatGPT and ask it for general criticism. Sometimes it's pretty good. It will suggest potential counterarguments, or lead me to ideas I hadn’t thought of. It’s not the same as talking to an editor, but it’s still great to have something to bounce my thoughts off.  
+I’ve also experimented with using it as my first reader. After I write a few paragraphs, I show it to ChatGPT and ask it for general criticism. Sometimes it’s pretty good. It will suggest potential counterarguments, or lead me to ideas I hadn’t thought of. It’s not the same as talking to an editor, but it’s still great to have something to bounce my thoughts off.  
   
-My top use is what I wrote about in my [__New York Times__ _article_ ⁠(opens in a new window)](<https://www.nytimes.com/2023/04/21/opinion/chatgpt-journalism.html>), which is wordfinding. I'm constantly trying to come up with a clever way of saying something; I guess that's what writing is.   
+My top use is what I wrote about in my [__New York Times__ _article_ ⁠(opens in a new window)](<https://www.nytimes.com/2023/04/21/opinion/chatgpt-journalism.html>), which is wordfinding. I’m constantly trying to come up with a clever way of saying something; I guess that’s what writing is.   
   
 Before ChatGPT, I’d look at dictionaries and thesauruses and go on wild-goose Google searches for the perfect word.  
   
-ChatGPT has replaced all of those for me. It’s also really helpful with analogies, metaphors and idioms. Often, I will think of half of an analogy and not be able to finish it in just the right way. Now, if I want some interesting comparison but don't know exactly the words to use, I ask it for help, and after a little back and forth it helps me find the thought I’d been searching for. I've never used any other tool that can help with that.”
+ChatGPT has replaced all of those for me. It’s also really helpful with analogies, metaphors and idioms. Often, I will think of half of an analogy and not be able to finish it in just the right way. Now, if I want some interesting comparison but don’t know exactly the words to use, I ask it for help, and after a little back and forth it helps me find the thought I’d been searching for. I’ve never used any other tool that can help with that.”
 
 Farhad Manjoo
 
@@ -155,13 +153,13 @@ One paradigm I think is underdiscussed is that you can actually prompt these too
   
 What if instead of you becoming a prompt engineer, you see what it can prompt out of _you_? The AI can be a non-judgmental collaborator that helps pull out these great, unique insights from you.  
   
-I view it as an always-on editor that can help writers do better work—not replace the work they're doing. They can use it for brainstorming, research, doing the non-writing part of the writing process using the AI.  
+I view it as an always-on editor that can help writers do better work—not replace the work they’re doing. They can use it for brainstorming, research, doing the non-writing part of the writing process using the AI.  
   
-It’s like if you were in _The Onion’s_ writer’s room. Six of you working together are going to be funnier together than you would be solo. There's a symbiosis that can exist.  
+It’s like if you were in _The Onion’s_ writer’s room. Six of you working together are going to be funnier together than you would be solo. There’s a symbiosis that can exist.  
   
-When I'm honest with myself, I actually wouldn't ever want to give up the act of writing. Writing is like working out or meditating. It's one of those activities you value intrinsically. Even if the AI could write perfect prose, I’d still want to write because writing itself is a valuable act.  
+When I’m honest with myself, I actually wouldn’t ever want to give up the act of writing. Writing is like working out or meditating. It’s one of those activities you value intrinsically. Even if the AI could write perfect prose, I’d still want to write because writing itself is a valuable act.  
   
-Writing is hard. There are so many things that are legit hard about it that make people give up. You haven't had your coffee yet, you're short on ideas, you can't track down a statistic or fact you need for a story… If AI can help with those things, then you as a writer are more likely to show up and do the work.”
+Writing is hard. There are so many things that are legit hard about it that make people give up. You haven’t had your coffee yet, you’re short on ideas, you can’t track down a statistic or fact you need for a story… If AI can help with those things, then you as a writer are more likely to show up and do the work.”
 
 Stew Fortier
 
@@ -173,13 +171,13 @@ Here’s how Sarah uses ChatGPT to gather material:
 
 ###### 
 
-“I use ChatGPT for comedy. It's not going to give me a finished joke, but it's going to start the conversation. I’ll be like, “I need you to embody Moses. And as Moses, hear the complaints of a girl named Megan who’s a present-day social media manager and try to console her, despite your objectively more difficult life.” I can have a conversation with anyone. I feel like I have the person there with me.  
+“I use ChatGPT for comedy. It’s not going to give me a finished joke, but it’s going to start the conversation. I’ll be like, “I need you to embody Moses. And as Moses, hear the complaints of a girl named Megan who’s a present-day social media manager and try to console her, despite your objectively more difficult life.” I can have a conversation with anyone. I feel like I have the person there with me.  
   
 I find it useful when I’m writing the setup for a joke. I was writing a parody of _Shark Tank_ and I asked, “What are the kinds of things people say on _Shark Tank_?”  
   
-With a parody, it's not one-to-one accuracy. You're taking things that are different and exaggerating them. So I'm looking for not just what are common things such as, “I’m looking for investment,” but what are uniquely _Shark Tank_ things I can exaggerate? Such as, “Sharks, has _this_ ever happened to _you_?”  
+With a parody, it’s not one-to-one accuracy. You’re taking things that are different and exaggerating them. So I’m looking for not just what are common things such as, “I’m looking for investment,” but what are uniquely _Shark Tank_ things I can exaggerate? Such as, “Sharks, has _this_ ever happened to _you_?”  
   
-I was writing a roast speech for a guy at a coding conference. I'm not a coder, so I asked ChatGPT to delve into the inside jokes of coding communities. I asked, “What are stereotypes about the 50-year-old programmer on your team?” ChatGPT responded with, among other suggestions: “They will make you listen to endless stories.” That reminded me how older people always talk about meeting celebrities before they were famous. I then prompted ChatGPT for some tech celebrities who might fit the bill and, of its list, Steve Wozniak felt like the funniest pick. In the end the joke was about how senior developers will endlessly regale their younger colleagues about that time they almost met Steve Wozniak at a party in 1998. I chose the direction, but ChatGPT helped me fill in the details.  
+I was writing a roast speech for a guy at a coding conference. I’m not a coder, so I asked ChatGPT to delve into the inside jokes of coding communities. I asked, “What are stereotypes about the 50-year-old programmer on your team?” ChatGPT responded with, among other suggestions: “They will make you listen to endless stories.” That reminded me how older people always talk about meeting celebrities before they were famous. I then prompted ChatGPT for some tech celebrities who might fit the bill and, of its list, Steve Wozniak felt like the funniest pick. In the end the joke was about how senior developers will endlessly regale their younger colleagues about that time they almost met Steve Wozniak at a party in 1998. I chose the direction, but ChatGPT helped me fill in the details.  
   
 What’s amazing to me is I do not have writer’s block anymore—like truly. I think writer’s block is the feeling of solipsism and it is the feeling of being totally alone. And I don’t feel alone anymore because of this tool.”
 
@@ -207,7 +205,7 @@ I also use ChatGPT to brainstorm my novel. When I wanted to imagine how humans m
   
 None of this querying in any way detracts from my own voice. It just helps me reach my own theses more quickly because I’m led to more relevant source materials. ChatGPT isn’t doing my writing or thinking for me. It’s just giving me better access to information so I can spend more time being creative and less time hunting for information. And none of this detracts from the deep reading and research I love to do. I have now read several incredible books that were very on-target with my interests thanks to ChatGPT finding the works most pertinent to my work.  
   
-I can't even begin to explain how much better this is than searching through page after page on Google, weeding through SEO-optimized lists written by bloggers and brands.”
+I can’t even begin to explain how much better this is than searching through page after page on Google, weeding through SEO-optimized lists written by bloggers and brands.”
 
 Elle Griffin
 
@@ -233,9 +231,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -272,6 +270,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -305,6 +305,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

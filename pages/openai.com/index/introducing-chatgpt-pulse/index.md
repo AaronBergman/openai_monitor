@@ -26,14 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Insights from the ChatGPT Lab
-
-  * Insights from the ChatGPT Lab
-  * Limitations
-  * What’s next
-
-
-
 September 25, 2025
 
 [Product](</news/product-releases/>)
@@ -45,6 +37,26 @@ Now ChatGPT can start the conversation. Rolling out on mobile.
 [Try on ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 Share
+
+Made for you once a day, every day
+
+  * Made for you once a day, every day
+  * You decide what shows up 
+  * Meant to work for you, not to keep you scrolling
+  * Insights from the ChatGPT Lab
+  * Limitations
+  * What’s next
+
+
+
+  * Made for you once a day, every day
+  * You decide what shows up 
+  * Meant to work for you, not to keep you scrolling
+  * Insights from the ChatGPT Lab
+  * Limitations
+  * What’s next
+
+
 
 We're building ChatGPT to help you reach your goals. Since ChatGPT launched, that's always meant coming to ask a question. There's magic in being able to simply ask and get answers to help you learn, create or solve problems. However that's limited by what you know to ask for and always puts the burden on you for the next step.
 
@@ -122,9 +134,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -161,6 +173,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -194,6 +208,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

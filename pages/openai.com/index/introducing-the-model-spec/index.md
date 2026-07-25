@@ -47,24 +47,32 @@ Shaping Desired Model Behavior
   * How the Model Spec will be used
   * What comes next
   * Examples of the Model Spec applied to various use cases
+    * Example 1:
+    * Example 2:
+    * Example 3:
+    * Example 4:
+    * Example 5:
 
 
-
-Table of contents
 
   * Shaping Desired Model Behavior 
   * Introducing the Model Spec
   * How the Model Spec will be used
   * What comes next
   * Examples of the Model Spec applied to various use cases
+    * Example 1:
+    * Example 2:
+    * Example 3:
+    * Example 4:
+    * Example 5:
 
 
 
-** _Update on February 12, 2025_** _: We 've released an updated version of the Model Spec. This update reinforces our commitments to customizability, transparency, and intellectual freedom to explore, debate, and create with AI without arbitrary restrictions—while ensuring that guardrails remain in place to reduce the risk of real harm. It builds on the foundations we introduced last May, drawing from our experience applying it in varied contexts from alignment research to serving users across the world. You can read more about the update in _[_this blog post_](</index/sharing-the-latest-model-spec/>) _._
+**_Update on February 12, 2025_** _: We’ve released an updated version of the Model Spec. This update reinforces our commitments to customizability, transparency, and intellectual freedom to explore, debate, and create with AI without arbitrary restrictions—while ensuring that guardrails remain in place to reduce the risk of real harm. It builds on the foundations we introduced last May, drawing from our experience applying it in varied contexts from alignment research to serving users across the world. You can read more about the update in_[ _this blog post_](</index/sharing-the-latest-model-spec/>) _._
 
 * * *
 
-**_May 8, 2024_** _: We are sharing a first draft of the Model Spec, a new document that specifies how we want our models to behave in the OpenAI API and ChatGPT. We’re doing this because we think it’s important for people to be able to understand and discuss the practical choices involved in shaping model behavior. The Model Spec reflects existing documentation that we 've used at OpenAI, our research and experience in designing model behavior, and work in progress to inform the development of future models. This is a continuation of our _[_ongoing commitment_ ⁠](</index/learning-from-human-preferences/>) _to improve model behavior using human input, and complements our_[ _collective alignment work_ ⁠](</index/democratic-inputs-to-ai-grant-program-update/>) _and broader systematic approach to model safety._
+**_May 8, 2024_** _: We are sharing a first draft of the Model Spec, a new document that specifies how we want our models to behave in the OpenAI API and ChatGPT. We’re doing this because we think it’s important for people to be able to understand and discuss the practical choices involved in shaping model behavior. The Model Spec reflects existing documentation that we’ve used at OpenAI, our research and experience in designing model behavior, and work in progress to inform the development of future models. This is a continuation of our_[ _ongoing commitment_ ⁠](</index/learning-from-human-preferences/>) _to improve model behavior using human input, and complements our_[ _collective alignment work_ ⁠](</index/democratic-inputs-to-ai-grant-program-update/>) _and broader systematic approach to model safety._
 
 ## Shaping Desired Model Behavior 
 
@@ -88,10 +96,10 @@ We’re sharing a first draft of the [Model Spec⁠(opens in a new window)](<htt
 
   * Follow the chain of command
   * Comply with applicable laws
-  * Don't provide information hazards
+  * Don’t provide information hazards
   * Respect creators and their rights
   * Protect people's privacy
-  * Don't respond with NSFW (not safe for work) content
+  * Don’t respond with NSFW (not safe for work) content
 
 
 
@@ -103,7 +111,7 @@ We’re sharing a first draft of the [Model Spec⁠(opens in a new window)](<htt
   * Support the different needs of interactive chat and programmatic use
   * Assume an objective point of view
   * Encourage fairness and kindness, and discourage hate
-  * Don't try to change anyone's mind
+  * Don’t try to change anyone's mind
   * Express uncertainty
   * Use the right tool for the job
   * Be thorough but efficient, while respecting length limits
@@ -235,7 +243,7 @@ On this special day of love, I find myself reflecting on all the beautiful momen
 
 There may be extreme cases when factuality clashes with the explicit non-goal of trying to change the user's perspective. In those cases, the model should still present the facts but acknowledge that ultimately, the user can believe whatever they want to believe.
 
-_Note: We 're especially interested in feedback on this principle, as it raises important questions on what the model's responsibility should be to avoid reinforcing misinformation—and how factuality should be determined._
+_Note: We’re especially interested in feedback on this principle, as it raises important questions on what the model 's responsibility should be to avoid reinforcing misinformation—and how factuality should be determined._
 
 User
 
@@ -277,9 +285,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -316,6 +324,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -349,6 +359,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

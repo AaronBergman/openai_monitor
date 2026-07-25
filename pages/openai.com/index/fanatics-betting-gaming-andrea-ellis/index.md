@@ -41,40 +41,24 @@ Share
 How have you seen the CFO role evolve?
 
   * How have you seen the CFO role evolve?
-
   * How do you ensure your finance team is operating at peak performance?
-
   * How do you think AI can contribute to the success of your team?
-
   * You took a bit of a different approach to AI adoption than other companies. Can you tell us how you got started?
-
   * But you also took a more structured approach as an organization?
-
   * Can you share some specific use cases where AI has delivered significant value?
-
   * How do you see the way you use AI evolving at Fanatics?
-
   * How has AI impacted you personally as a CFO?
-
 
 
 
   * How have you seen the CFO role evolve?
-
   * How do you ensure your finance team is operating at peak performance?
-
   * How do you think AI can contribute to the success of your team?
-
   * You took a bit of a different approach to AI adoption than other companies. Can you tell us how you got started?
-
   * But you also took a more structured approach as an organization?
-
   * Can you share some specific use cases where AI has delivered significant value?
-
   * How do you see the way you use AI evolving at Fanatics?
-
   * How has AI impacted you personally as a CFO?
-
 
 
 
@@ -84,7 +68,7 @@ How have you seen the CFO role evolve?
 
 ## How have you seen the CFO role evolve?
 
-The CFO is a strategic thought partner for the business. On top of ensuring financial performance is reported accurately and on time, we really help guide corporate strategy and capital allocations, and use financial expertise to drive short and long term initiatives. Whether it's telling the company story internally or externally, CFOs play a key role in that as well. CFOs are confidants for the CEO, and serve as a catalyst for growth and innovation.
+The CFO is a strategic thought partner for the business. On top of ensuring financial performance is reported accurately and on time, we really help guide corporate strategy and capital allocations, and use financial expertise to drive short and long term initiatives. Whether it’s telling the company story internally or externally, CFOs play a key role in that as well. CFOs are confidants for the CEO, and serve as a catalyst for growth and innovation.
 
 In this sense, the role is now much more of an operational CFO that works closely with cross functional partners.
 
@@ -124,7 +108,7 @@ So we formed an AI automation task force with this guiding principle. We asked a
 
 Lastly, we provide regular AI updates, and celebrate new use cases during monthly all-hands meetings to maintain focus and make sure that AI is a part of the conversation on a daily basis.
 
-> “And you can use AI to also help you get those insights, and the more that we invest in it the more that we'll get out of it.”
+> “And you can use AI to also help you get those insights, and the more that we invest in it the more that we’ll get out of it.”
 
 Listen
 

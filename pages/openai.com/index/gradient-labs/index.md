@@ -26,14 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Moving from SOPs to real-time systems
-
-  * Moving from SOPs to real-time systems
-  * Proving reliability in high-risk environments
-  * Showing impact on day one, and the path ahead
-
-
-
 April 1, 2026
 
 Startup
@@ -76,6 +68,20 @@ Loading…
 
 Share
 
+Moving from SOPs to real-time systems
+
+  * Moving from SOPs to real-time systems
+  * Proving reliability in high-risk environments
+  * Showing impact on day one, and the path ahead
+
+
+
+  * Moving from SOPs to real-time systems
+  * Proving reliability in high-risk environments
+  * Showing impact on day one, and the path ahead
+
+
+
 In banking, resolving a customer issue is rarely simple. Cases like fraud or blocked payments require strict adherence to complex procedures across multiple teams. When systems fall short, customers are passed between teams, wait in queues, and face delays at moments when the stakes are highest.
 
 [_Gradient Labs_ ⁠(opens in a new window)](<https://gradient-labs.ai>) is built to handle this complexity. The London-based company is building AI agents that give every bank customer the experience of a dedicated account manager. Founded by a team that previously led AI and data efforts at Monzo, the company’s platform is built on OpenAI models and is now shifting production traffic onto GPT‑5.4 mini and nano.
@@ -101,7 +107,7 @@ A typical customer interaction might look like this:
 
 Each step follows a defined procedure, with decisions made in real time based on user input, context, running guardrails, and both customer and agent responses to ensure compliance.
 
-“The model needs to maintain procedure state across interruptions, backchannels, and topic switches while keeping response generation fast,” says Antoniou. “Most providers couldn't even attempt it.”
+“The model needs to maintain procedure state across interruptions, backchannels, and topic switches while keeping response generation fast,” says Antoniou. “Most providers couldn’t even attempt it.”
 
 Gradient Labs benchmarks providers on their most challenging procedures and evaluates them on what they call _trajectory accuracy_ : whether the system follows the correct path from start to finish.
 
@@ -175,9 +181,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -214,6 +220,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -247,6 +255,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

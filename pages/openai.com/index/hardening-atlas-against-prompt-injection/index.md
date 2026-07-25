@@ -26,16 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Prompt injection as an open challenge for agent security
-
-  * Prompt injection as an open challenge for agent security
-  * Automated prompt injection attack discovery through end-to-end and high-compute reinforcement learning
-  * Hardening ChatGPT Atlas with a proactive rapid response loop
-  * Outlook: our long-term commitment to agent security
-  * Recommendations for using agents safely
-
-
-
 December 22, 2025
 
 [Security](</news/security/>)
@@ -47,6 +37,24 @@ Automated red teaming—powered by reinforcement learning—helps us proactively
 Loading…
 
 Share
+
+Prompt injection as an open challenge for agent security
+
+  * Prompt injection as an open challenge for agent security
+  * Automated prompt injection attack discovery through end-to-end and high-compute reinforcement learning
+  * Hardening ChatGPT Atlas with a proactive rapid response loop
+  * Outlook: our long-term commitment to agent security
+  * Recommendations for using agents safely
+
+
+
+  * Prompt injection as an open challenge for agent security
+  * Automated prompt injection attack discovery through end-to-end and high-compute reinforcement learning
+  * Hardening ChatGPT Atlas with a proactive rapid response loop
+  * Outlook: our long-term commitment to agent security
+  * Recommendations for using agents safely
+
+
 
 Agent mode in ChatGPT Atlas is one of the most general-purpose agentic features we’ve released to date. In this mode, the browser agent views webpages and takes actions, clicks, and keystrokes inside your browser, just as you would. This allows ChatGPT to work directly on many of your day-to-day workflows using the same space, context, and data.
 
@@ -159,17 +167,17 @@ OpenAI
 
 [View all](</news/>)
 
-![codex windows > art card](https://images.ctfassets.net/kftzwdyauwt9/6ZvTl8ZL23BOhoI6jz0EmR/49d6038b9f92773d4f866f4bfacabdbf/Art_Card__5_.png?w=3840&q=90&fm=webp)
+![Hugging Face Security Incident 1x1](https://images.ctfassets.net/kftzwdyauwt9/1H0bdkoSFFcqNTx4DSNpal/56f4b7575c012f0698b1be0dafb379f0/Hugging_Face_Security_Incident_1x1.png?w=3840&q=90&fm=webp)
 
-[Building a safe, effective sandbox to enable Codex on WindowsEngineeringMay 13, 2026](</index/building-codex-windows-sandbox/>)
+[OpenAI and Hugging Face address security incidentSecurityJul 21, 2026](</index/hugging-face-model-evaluation-security-incident/>)
 
-![Frame](https://images.ctfassets.net/kftzwdyauwt9/32jPyVqUObkTrIIyA6tJV1/4eb384b5bb2f21ccea5de7665858a37a/Frame.png?w=3840&q=90&fm=webp)
+![Expanding Daybreak Art Card](https://images.ctfassets.net/kftzwdyauwt9/735NOZviyogUBIFxd2EmWX/fa8baf9fc26e64f442ffa86d5fd9a41e/Art_Card__6_.png?w=3840&q=90&fm=webp)
 
-[Our response to the TanStack npm supply chain attackCompanyMay 13, 2026](</index/our-response-to-the-tanstack-npm-supply-chain-attack/>)
+[Daybreak: Tools for securing every organization in the worldSecurityJun 22, 2026](</index/daybreak-securing-the-world/>)
 
-![Running Codex safely at OpenAI > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/76rTHgn2J3y6srtNd3ZrRs/71fc86af978baecda10b212fdb5d3609/Frame.png?w=3840&q=90&fm=webp)
+![Patch the Planet Art Card 1x1](https://images.ctfassets.net/kftzwdyauwt9/2PwBCyZF0Z5WLRtsbOpDdQ/338e19fbc39e5b9a63b1db664c006e74/Art_Card__5_.png?w=3840&q=90&fm=webp)
 
-[Running Codex safely at OpenAISecurityMay 8, 2026](</index/running-codex-safely/>)
+[Patch the Planet: a Daybreak initiative to support open source maintainersSecurityJun 22, 2026](</index/patch-the-planet/>)
 
 Research
 
@@ -181,9 +189,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -220,6 +228,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -253,6 +263,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

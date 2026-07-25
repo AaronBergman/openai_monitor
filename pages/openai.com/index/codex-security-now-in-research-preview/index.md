@@ -26,15 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-How Codex Security works
-
-  * How Codex Security works
-  * Supporting the open source community
-  * Get started
-  * Appendix
-
-
-
 March 6, 2026
 
 [Product](</news/product-releases/>)[Security](</news/security/>)
@@ -44,6 +35,22 @@ March 6, 2026
 Loading…
 
 Share
+
+How Codex Security works
+
+  * How Codex Security works
+  * Supporting the open source community
+  * Get started
+  * Appendix
+
+
+
+  * How Codex Security works
+  * Supporting the open source community
+  * Get started
+  * Appendix
+
+
 
 Today we’re introducing Codex Security, our application security agent. It builds deep context about your project to identify complex vulnerabilities that other agentic tools miss, surfacing higher-confidence findings with fixes that meaningfully improve the security of your system while sparing you from the noise of insignificant bugs.
 
@@ -75,11 +82,11 @@ NETGEARvLLMRaptive
 
 ## Supporting the open source community
 
-Open source software forms the foundation of modern systems, including our own. We've been using Codex Security to scan the open-source repositories we rely on most, sharing high impact security findings we identify with maintainers to help strengthen that foundation.
+Open source software forms the foundation of modern systems, including our own. We’ve been using Codex Security to scan the open-source repositories we rely on most, sharing high impact security findings we identify with maintainers to help strengthen that foundation.
 
 In our conversations with maintainers, a consistent theme emerged: the challenge isn’t a lack of vulnerability reports, but too many low-quality ones. Maintainers told us they need fewer false positives and a more sustainable way to surface real security issues without creating additional triage burden. These conversations helped shape how we’re supporting the open source community with Codex Security. Rather than generating large volumes of speculative findings, we are building a system that prioritizes high-confidence issues that maintainers can act on quickly.
 
-As part of this work, we reported critical vulnerabilities to a number of widely used open-source projects including [_OpenSSH_ ⁠(opens in a new window)](<https://github.com/openssh/openssh-portable/commit/c991273c18afc490313a9f282383eaf59d9c13b9>), [_GnuTLS_ ⁠(opens in a new window)](<https://lists.gnupg.org/pipermail/gnutls-help/2025-July/004883.html>), [_GOGS_ ⁠(opens in a new window)](<https://github.com/gogs/gogs/security/advisories/GHSA-p6x6-9mx6-26wj>), [_Thorium_ ⁠(opens in a new window)](<https://www.cve.org/CVERecord?id=CVE-2025-35430>) libssh, PHP, and Chromium, and more. Fourteen CVEs have been assigned with dual reporting on two — we've shared some examples in the Appendix.
+As part of this work, we reported critical vulnerabilities to a number of widely used open-source projects including [_OpenSSH_ ⁠(opens in a new window)](<https://github.com/openssh/openssh-portable/commit/c991273c18afc490313a9f282383eaf59d9c13b9>), [_GnuTLS_ ⁠(opens in a new window)](<https://lists.gnupg.org/pipermail/gnutls-help/2025-July/004883.html>), [_GOGS_ ⁠(opens in a new window)](<https://github.com/gogs/gogs/security/advisories/GHSA-p6x6-9mx6-26wj>), [_Thorium_ ⁠(opens in a new window)](<https://www.cve.org/CVERecord?id=CVE-2025-35430>) libssh, PHP, and Chromium, and more. Fourteen CVEs have been assigned with dual reporting on two — we’ve shared some examples in the Appendix.
 
 We recently started onboarding an initial cohort of open-source maintainers into Codex for OSS, our program to support the ecosystem with free ChatGPT Pro and Plus accounts, code review, and Codex Security. Projects like vLLM have already used Codex Security to find and patch issues as part of their normal workflow.
 
@@ -124,19 +131,17 @@ OpenAI
 
 [View all](</news/>)
 
-![Art Card 1080x1080 \(3\)](https://images.ctfassets.net/kftzwdyauwt9/3JLNH7ejJFnxLmX2LpzoKD/19f9e3c4d36cc9d677ba88e842ad2db2/Art_Card_1080x1080__4_.png?w=3840&q=90&fm=webp)
+![Health in ChatGPT > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/48aIp3cQOKJ57vpQeqOb8y/2e8732bcad5ceea1c7b20cf001bd2823/1_1_Art_Card.png?w=3840&q=90&fm=webp)
 
-Better memory for a more helpful ChatGPT
+[Launching Health in ChatGPT ProductJul 23, 2026](</index/health-in-chatgpt/>)
 
-[Dreaming: Better memory for a more helpful ChatGPTResearchJun 4, 2026](</index/chatgpt-memory-dreaming/>)
+![OpenAI Presence 1x1](https://images.ctfassets.net/kftzwdyauwt9/5JBDenSGI6wx5CMPPlaM5J/da9d8e27a0bd70d845a816b28ac641a9/OpenAI_Presence_1x1.png?w=3840&q=90&fm=webp)
 
-![Rosalind5.5 ArtCard](https://images.ctfassets.net/kftzwdyauwt9/6USIQM1B7TggUvvTFxxwoi/0176ac6633c8bdc24641d25d1d2db824/GPT-Rosalind_ArtCard.png?w=3840&q=90&fm=webp)
+[Introducing OpenAI PresenceProductJul 22, 2026](</index/introducing-openai-presence/>)
 
-[Introducing new capabilities to GPT-RosalindProductJun 3, 2026](</index/introducing-new-capabilities-to-gpt-rosalind/>)
+![Hugging Face Security Incident 1x1](https://images.ctfassets.net/kftzwdyauwt9/1H0bdkoSFFcqNTx4DSNpal/56f4b7575c012f0698b1be0dafb379f0/Hugging_Face_Security_Incident_1x1.png?w=3840&q=90&fm=webp)
 
-![1 1 Art Card](https://images.ctfassets.net/kftzwdyauwt9/4xugzd9dTDMUzIUmuamtO3/1f40af4e50ab8b2bdd64d5b491964961/1_1_Art_Card.png?w=3840&q=90&fm=webp)
-
-[Codex for every role, tool, and workflowProductJun 2, 2026](</index/codex-for-every-role-tool-workflow/>)
+[OpenAI and Hugging Face address security incidentSecurityJul 21, 2026](</index/hugging-face-model-evaluation-security-incident/>)
 
 Research
 
@@ -148,9 +153,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -187,6 +192,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -220,6 +227,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

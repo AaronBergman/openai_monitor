@@ -26,20 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-How Codex works
-
-  * How Codex works
-  * Building safe and trustworthy agents
-  * Aligning to human preferences
-  * Early use cases
-  * Updates to Codex CLI
-  * Codex availability, pricing, and limitations
-  * What’s next
-  * Livestream replay
-  * Appendix
-
-
-
 May 16, 2025
 
 [Release](</research/index/release/>)[Product](</news/product-releases/>)
@@ -53,6 +39,36 @@ A cloud-based software engineering agent that can work on many tasks in parallel
 ![Dashboard asking ‘What should we code next?’ with a prompt box, repo/branch selectors, and a task list on a pastel code-themed backdrop.](https://images.ctfassets.net/kftzwdyauwt9/6wYGm9QST2WYLbPJl5YwZC/1e63f3bfb458ce891db4f94a52052240/Codex_Blog_Header_V5.png?w=3840&q=90&fm=webp)
 
 Loading…
+
+How Codex works
+
+  * How Codex works
+  * Building safe and trustworthy agents
+  * Aligning to human preferences
+    * Preventing abuse
+    * Secure execution
+  * Early use cases
+  * Updates to Codex CLI
+  * Codex availability, pricing, and limitations
+  * What’s next
+  * Livestream replay
+  * Appendix
+
+
+
+  * How Codex works
+  * Building safe and trustworthy agents
+  * Aligning to human preferences
+    * Preventing abuse
+    * Secure execution
+  * Early use cases
+  * Updates to Codex CLI
+  * Codex availability, pricing, and limitations
+  * What’s next
+  * Livestream replay
+  * Appendix
+
+
 
 ** _Update on June 3, 2025:_**_Codex is now available to ChatGPT Plus users. We’re also enabling users to provide Codex with internet access during task execution. Please refer to the_[ __changelog__ ⁠(opens in a new window)](<https://help.openai.com/en/articles/11428266-codex-changelog>)_and_[ __docs__ ⁠(opens in a new window)](<https://platform.openai.com/docs/codex>)_for more details._
 
@@ -79,7 +95,7 @@ Our internal SWE task benchmark is a curated set of real-world internal SWE task
 
 ## Building safe and trustworthy agents
 
-We're releasing Codex as a research preview, in line with our iterative deployment strategy. We prioritized security and transparency when designing Codex so users can verify its outputs - a safeguard that grows increasingly more important as AI models handle more complex coding tasks independently and safety considerations evolve. Users can check Codex’s work through citations, terminal logs and test results. When uncertain or faced with test failures, the Codex agent explicitly communicates these issues, enabling users to make informed decisions about how to proceed. It still remains essential for users to manually review and validate all agent-generated code before integration and execution.  
+We’re releasing Codex as a research preview, in line with our iterative deployment strategy. We prioritized security and transparency when designing Codex so users can verify its outputs - a safeguard that grows increasingly more important as AI models handle more complex coding tasks independently and safety considerations evolve. Users can check Codex’s work through citations, terminal logs and test results. When uncertain or faced with test failures, the Codex agent explicitly communicates these issues, enabling users to make informed decisions about how to proceed. It still remains essential for users to manually review and validate all agent-generated code before integration and execution.  
 
 
 ![Code-review screenshot with a test-file overlay verifying quoted filenames, plus summary and passing tests on a blue backdrop.](https://images.ctfassets.net/kftzwdyauwt9/54k0jAjnoskIxjmVLNeYWa/cf4dab9c09773ef6a1c99f5a21b185bf/Codex_Citations_01.png?w=3840&q=90&fm=webp)
@@ -104,7 +120,7 @@ OpenAI o3
 
 Safeguarding against malicious applications of AI-driven software engineering, such as malware development, is increasingly critical. At the same time, it’s important that protective measures do not unduly hinder legitimate and beneficial applications that may involve techniques sometimes also used for malware development, such as low level kernel engineering.
 
-To balance safety and utility, Codex was trained to identify and precisely refuse requests aimed at development of malicious software, while clearly distinguishing and supporting legitimate tasks. We've also enhanced our policy frameworks and incorporated rigorous safety evaluations to reinforce these boundaries effectively. We’ve published an [addendum to the o3 System Card⁠](</index/o3-o4-mini-codex-system-card-addendum/>) to reflect these evaluations.
+To balance safety and utility, Codex was trained to identify and precisely refuse requests aimed at development of malicious software, while clearly distinguishing and supporting legitimate tasks. We’ve also enhanced our policy frameworks and incorporated rigorous safety evaluations to reinforce these boundaries effectively. We’ve published an [addendum to the o3 System Card⁠](</index/o3-o4-mini-codex-system-card-addendum/>) to reflect these evaluations.
 
 ### Secure execution
 
@@ -115,7 +131,7 @@ The Codex agent operates entirely within a secure, isolated container in the clo
 
 Technical teams at OpenAI have started using Codex as part of their daily toolkit. It is most often used by OpenAI engineers to offload repetitive, well-scoped tasks, like refactoring, renaming, and writing tests, that would otherwise break focus. It’s equally useful for scaffolding new features, wiring components, fixing bugs, and drafting documentation. Teams are building new habits around it: triaging on-call issues, planning tasks at the start of the day, and offloading background work to keep moving. By reducing context-switching and surfacing forgotten to-dos, Codex helps engineers ship faster and stay focused on what matters most.
 
-Leading up to release, we've also been working with a small group of external testers to better understand how Codex performs across diverse codebases, development processes, and teams.
+Leading up to release, we’ve also been working with a small group of external testers to better understand how Codex performs across diverse codebases, development processes, and teams.
 
   * [_Cisco_ ⁠(opens in a new window)](<https://blogs.cisco.com/news/the-future-is-coming-faster-than-you-think>) is exploring how Codex can help their engineering teams bring ambitious ideas to life faster. As early design partners, Cisco is helping shape the future of Codex by evaluating it for real-world use cases across their product portfolio and providing feedback to the OpenAI team.
   * [_Temporal_ ⁠(opens in a new window)](<https://temporal.io/>) uses Codex to accelerate feature development, debug issues, write and execute tests, and refactor large codebases. It also helps them stay focused by running complex tasks in the background—keeping engineers in flow while speeding up iteration.
@@ -140,7 +156,7 @@ Starting today, we’re rolling out Codex to ChatGPT Pro, Enterprise, and Busine
 
 For developers building with codex-mini-latest, the model is available on the Responses API and priced at $1.50 per 1M input tokens and $6 per 1M output tokens, with a 75% prompt caching discount.
 
-Codex is still early in its development. As a research preview, it currently lacks features like image inputs for frontend work, and the ability to course-correct the agent while it's working. Additionally, delegating to a remote agent takes longer than interactive editing, which can take some getting used to. Over time, interacting with Codex agents will increasingly resemble asynchronous collaboration with colleagues. As model capabilities advance, we anticipate agents handling more complex tasks over extended periods.
+Codex is still early in its development. As a research preview, it currently lacks features like image inputs for frontend work, and the ability to course-correct the agent while it’s working. Additionally, delegating to a remote agent takes longer than interactive editing, which can take some getting used to. Over time, interacting with Codex agents will increasingly resemble asynchronous collaboration with colleagues. As model capabilities advance, we anticipate agents handling more complex tasks over extended periods.
 
 ## What’s next
 
@@ -369,9 +385,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -408,6 +424,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -441,6 +459,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

@@ -26,17 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Dataset diversity & difficulty
-
-  * Dataset diversity & difficulty
-  * Performance of OpenAI models
-  * Test-time compute scaling
-  * Aggregation strategies leveraging additional compute
-  * Distribution of pass rates
-  * Conclusions
-
-
-
 April 10, 2025
 
 [Publication](</research/index/publication/>)[Release](</research/index/release/>)[Research](</news/research/>)
@@ -52,6 +41,26 @@ A simple and challenging benchmark that measures the ability of AI agents to loc
 Loading…
 
 Share
+
+Dataset diversity & difficulty
+
+  * Dataset diversity & difficulty
+  * Performance of OpenAI models
+  * Test-time compute scaling
+  * Aggregation strategies leveraging additional compute
+  * Distribution of pass rates
+  * Conclusions
+
+
+
+  * Dataset diversity & difficulty
+  * Performance of OpenAI models
+  * Test-time compute scaling
+  * Aggregation strategies leveraging additional compute
+  * Distribution of pass rates
+  * Conclusions
+
+
 
 AI agents that can gather knowledge by browsing the internet are becoming increasingly useful and important. A performant browsing agent should be able to locate information that is hard-to-find, and which might require browsing tens or even hundreds of websites in the process. Existing benchmarks like SimpleQA, which measure models’ ability to retrieve basic isolated facts, are already saturated by models with access to fast browsing tools, such as GPT‑4o with browsing. To measure the ability for AI agents to locate hard-to-find, entangled information on the internet, we are open-sourcing a new benchmark of 1,266 challenging problems called BrowseComp, which stands for “Browsing Competition”. The benchmark is available in OpenAI’s [_simple evals github repository_ ⁠(opens in a new window)](<https://github.com/openai/simple-evals>), and you can read our research paper [here⁠(opens in a new window)](<http://cdn.openai.com/pdf/5e10f4ab-d6f7-442e-9508-59515c65e35d/browsecomp.pdf>).
 
@@ -89,7 +98,7 @@ Despite the simplicity of BrowseComp, it measures the ability of the an AI agent
 
 
 
-BrowseComp can be seen as an incomplete but useful benchmark for browsing agents. While BrowseComp sidesteps the challenges of a true user query distribution, like generating long answers or resolving ambiguity, it measures the important core capability of exercising persistence and creativity in finding information. As a loose analogy, models that crush programming competitions like CodeForces demonstrate high coding capabilities that likely generalize well to other coding tasks, but this is not guaranteed. Similarly, to solve BrowseComp, the model must be very proficient at locating hard-to-find pieces of information, but it's not guaranteed that this generalizes to all tasks that require browsing.
+BrowseComp can be seen as an incomplete but useful benchmark for browsing agents. While BrowseComp sidesteps the challenges of a true user query distribution, like generating long answers or resolving ambiguity, it measures the important core capability of exercising persistence and creativity in finding information. As a loose analogy, models that crush programming competitions like CodeForces demonstrate high coding capabilities that likely generalize well to other coding tasks, but this is not guaranteed. Similarly, to solve BrowseComp, the model must be very proficient at locating hard-to-find pieces of information, but it’s not guaranteed that this generalizes to all tasks that require browsing.
 
 ## Dataset diversity & difficulty
 
@@ -175,9 +184,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -214,6 +223,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -247,6 +258,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

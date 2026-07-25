@@ -261,7 +261,7 @@ Permission to use our Marks is limited in the following ways:
 
 Please ensure your app follows all OpenAl usage policies. If your project leverages our APIs or models (e.g. GPT‑4 or DALL·E 3), you may choose to reference a specific model but be precise and accurate.
 
-We do not permit model names in app titles because there is concern that it confuses end users. It also triggers our enforcement mechanisms. GPTs are custom versions of ChatGPT, so it's important not to simply reference GPT in your app descriptions (we do not permit our GPT brand to be used in app, product, developer or company names).
+We do not permit model names in app titles because there is concern that it confuses end users. It also triggers our enforcement mechanisms. GPTs are custom versions of ChatGPT, so it’s important not to simply reference GPT in your app descriptions (we do not permit our GPT brand to be used in app, product, developer or company names).
 
 Research
 
@@ -273,9 +273,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -347,6 +347,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

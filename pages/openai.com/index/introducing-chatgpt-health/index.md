@@ -78,7 +78,7 @@ Health is already one of the most common ways people use ChatGPT, with hundreds 
 
 ## A dedicated health experience
 
-Today, health information is often scattered across portals, apps, wearables, PDFs, and medical notes—so it's hard to see the full picture, and people are left to navigate a complex healthcare system on their own. People have shared countless stories of turning to ChatGPT to help make sense of it all. In fact, health is one of the most common ways people use ChatGPT today: based on our de-identified analysis of conversations, over 230 million people globally ask health and wellness related questions on ChatGPT every**** week.
+Today, health information is often scattered across portals, apps, wearables, PDFs, and medical notes—so it’s hard to see the full picture, and people are left to navigate a complex healthcare system on their own. People have shared countless stories of turning to ChatGPT to help make sense of it all. In fact, health is one of the most common ways people use ChatGPT today: based on our de-identified analysis of conversations, over 230 million people globally ask health and wellness related questions on ChatGPT every**** week.
 
 ChatGPT Health builds on this so responses are informed by your health information and context. You can now securely connect medical records and wellness apps—like Apple Health, Function, and MyFitnessPal—so ChatGPT can help you understand recent test results, prepare for appointments with your doctor, get advice on how to approach your diet and workout routine, or understand the tradeoffs of different insurance options based on your healthcare patterns.
 

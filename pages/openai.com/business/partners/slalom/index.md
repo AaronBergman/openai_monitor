@@ -34,9 +34,11 @@ OpenAI
 
 [Visit website(opens in a new window)](<https://www.slalom.com/us/en>)
 
-Slalom is a fiercely human business and technology consulting company that leads with outcomes and helps organizations realize what's possible with AI. As an OpenAI services partner, we partner with leaders from strategy through delivery to build AI solutions that create value today while preparing for what's next. Whether modernizing software development with Codex, reimagining customer and employee experiences, or bringing new AI-powered products to market, we help organizations innovate with confidence, adopt AI responsibly, and create lasting impact for their business, their customers, and their people.
+## About
 
-![Advanced Partner](/images/partner-tier-badges/OAI_PartnerNetwork_AdvancedPartner.svg?dpl=dpl_Bt2QvgNvrDjuduwqx5NPqQxCos4N)
+Slalom is a fiercely human business and technology consulting company that leads with outcomes and helps organizations realize what’s possible with AI. As an OpenAI services partner, we partner with leaders from strategy through delivery to build AI solutions that create value today while preparing for what’s next. Whether modernizing software development with Codex, reimagining customer and employee experiences, or bringing new AI-powered products to market, we help organizations innovate with confidence, adopt AI responsibly, and create lasting impact for their business, their customers, and their people.
+
+![Advanced Partner](/images/partner-tier-badges/OAI_PartnerNetwork_AdvancedPartner.svg?dpl=dpl_Hns9WEmZBnVGpPJRAKCsp96Fgg1A)
 
 Countries served
     Global
@@ -131,6 +133,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

@@ -26,15 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-The value of red teaming
-
-  * The value of red teaming
-  * External human red teaming
-  * Automated red teaming 
-  * Limitations
-
-
-
 November 21, 2024
 
 [Publication](</research/index/publication/>)
@@ -48,6 +39,22 @@ Two new papers show how our external and automated red teaming efforts are advan
 Loading…
 
 Share
+
+The value of red teaming
+
+  * The value of red teaming
+  * External human red teaming
+  * Automated red teaming 
+  * Limitations
+
+
+
+  * The value of red teaming
+  * External human red teaming
+  * Automated red teaming 
+  * Limitations
+
+
 
 Interacting with an AI system is an essential way to learn what it can do—both the capabilities it has, and the risks it may pose. “Red teaming” means using people or AI to explore a new system’s potential risks in a structured way. 
 
@@ -102,7 +109,7 @@ Our research finds that more capable AI can further help automated red teaming i
 
 ## Limitations
 
-Red teaming isn't a complete solution for assessing AI risks. Its limitations include:
+Red teaming isn’t a complete solution for assessing AI risks. Its limitations include:
 
   1. **Relevance over time:** Red teaming captures risks at a specific moment, which may change as models evolve.
   2. **Information hazards:** The process of red teaming, particularly with frontier AI systems, can create information hazards that might enable misuse. For example, exposing a jailbreak or technique to generate potentially harmful content that is not yet widely known could accelerate bad actors’ misuse of the models. Managing this risk requires control of information, stringent access protocols, and responsible disclosure practices. 
@@ -148,9 +155,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -187,6 +194,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -220,6 +229,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

@@ -26,14 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Function calling
-
-  * Function calling
-  * New models
-  * Lower pricing
-
-
-
 June 13, 2023
 
 [Product](</news/product-releases/>)
@@ -47,6 +39,30 @@ We’re announcing updates including more steerable API models, function calling
 Loading…
 
 Share
+
+Function calling
+
+  * Function calling
+  * New models
+    * GPT-4
+    * GPT-3.5 Turbo
+    * Model deprecations
+  * Lower pricing
+    * Embeddings
+    * GPT-3.5 Turbo
+
+
+
+  * Function calling
+  * New models
+    * GPT-4
+    * GPT-3.5 Turbo
+    * Model deprecations
+  * Lower pricing
+    * Embeddings
+    * GPT-3.5 Turbo
+
+
 
  _July 20, 2023 update:_
 
@@ -139,7 +155,7 @@ We continue to make our systems more efficient and are passing those savings on 
 
 ### GPT-3.5 Turbo
 
-`gpt-3.5-turbo` is our most popular chat model and powers ChatGPT for millions of users. Today we're reducing the cost of `gpt-3.5-turbo`’s input tokens by 25%. Developers can now use this model for just $0.0015 per 1K input tokens and $0.002 per 1K output tokens, which equates to roughly 700 pages per dollar.
+`gpt-3.5-turbo` is our most popular chat model and powers ChatGPT for millions of users. Today we’re reducing the cost of `gpt-3.5-turbo`’s input tokens by 25%. Developers can now use this model for just $0.0015 per 1K input tokens and $0.002 per 1K output tokens, which equates to roughly 700 pages per dollar.
 
 `gpt-3.5-turbo-16k` will be priced at $0.003 per 1K input tokens and $0.004 per 1K output tokens.
 
@@ -180,9 +196,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -219,6 +235,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -252,6 +270,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

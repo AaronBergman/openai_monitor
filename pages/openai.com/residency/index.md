@@ -52,7 +52,7 @@ Residents bring their existing strengths to real research problems in collaborat
 
 ![OpenAI humans](https://images.ctfassets.net/kftzwdyauwt9/10ad8505-d6e3-4a05-8d55dfb70fcf/25df4d526eb4fcbb4d066bd2d10bea4f/stangel-2022-1065.jpg?w=3840&q=90&fm=webp)
 
-> “I didn't have any AI background coming into the Residency Program. This program is the most hands-on possible way to learn AI research by working with and learning from the world's leading experts in the field. Everything I learned I did by making contributions, on day one, on training, evaluating, and building with cutting edge research.”
+> “I didn’t have any AI background coming into the Residency Program. This program is the most hands-on possible way to learn AI research by working with and learning from the world's leading experts in the field. Everything I learned I did by making contributions, on day one, on training, evaluating, and building with cutting edge research.”
 
 Will DePue AI Researcher, Former OpenAI Resident
 
@@ -62,7 +62,7 @@ Will DePue AI Researcher, Former OpenAI Resident
 Tyna Eloundou  
 ** Former OpenAI Resident
 
-![A smiling woman with headphones around her neck, working on a laptop in a cozy room with a bookshelf and a plant in the background. She's wearing a striped top and a brown cardigan.](https://images.ctfassets.net/kftzwdyauwt9/29ZJD8me0KjR7xw6I7OA8Z/292a74057d8090836c09c6221ac8a132/stangel-2022-1341.webp?w=3840&q=90&fm=webp)
+![A smiling woman with headphones around her neck, working on a laptop in a cozy room with a bookshelf and a plant in the background. She’s wearing a striped top and a brown cardigan.](https://images.ctfassets.net/kftzwdyauwt9/29ZJD8me0KjR7xw6I7OA8Z/292a74057d8090836c09c6221ac8a132/stangel-2022-1341.webp?w=3840&q=90&fm=webp)
 
 ### FAQ
 
@@ -72,19 +72,19 @@ Dan Mossing, Former OpenAI Resident
 
 ## Resident research
 
-![Improving Mathematical Reasoning With Process Supervision](https://images.ctfassets.net/kftzwdyauwt9/373bf52a-5373-4d4e-230d7678254c/e6d514bd3908ce99747c59f686779e2b/improving-mathematical-reasoning-with-process-supervision.jpg?w=3840&q=90&fm=webp)
+![A square pattern with green squares in the center that transition to orange squares.](https://images.ctfassets.net/kftzwdyauwt9/373bf52a-5373-4d4e-230d7678254c/e6d514bd3908ce99747c59f686779e2b/improving-mathematical-reasoning-with-process-supervision.jpg?w=3840&q=90&fm=webp)
 
 [Improving mathematical reasoning with process supervisionPublicationMay 31, 2023](</index/improving-mathematical-reasoning-with-process-supervision/>)
 
-![language models can explain neurons in language model](https://images.ctfassets.net/kftzwdyauwt9/3LNxX9CObAlTYvYJcituK5/fcc293879e4d33ed72b751750a3f8f79/language_models_can_explain_neurons_in_language_model.png?w=3840&q=90&fm=webp)
+![bstract digital painting with fiery orange and red tones above a field of blue, resembling a vibrant autumn forest.](https://images.ctfassets.net/kftzwdyauwt9/3LNxX9CObAlTYvYJcituK5/fcc293879e4d33ed72b751750a3f8f79/language_models_can_explain_neurons_in_language_model.png?w=3840&q=90&fm=webp)
 
 [Language models can explain neurons in language modelsPublicationMay 9, 2023](</index/language-models-can-explain-neurons-in-language-models/>)
 
-![A Research Agenda For Assessing The Economic Impacts Of Code Generation Models](https://images.ctfassets.net/kftzwdyauwt9/ff958e72-9443-4976-bb307acf024d/9ce9b0947decfd6b3a7b67dcf3df1096/image-12.webp?w=3840&q=90&fm=webp)
+![An abstract expressionist painting depicting a field of pink flowers and a blue sky.](https://images.ctfassets.net/kftzwdyauwt9/ff958e72-9443-4976-bb307acf024d/9ce9b0947decfd6b3a7b67dcf3df1096/image-12.webp?w=3840&q=90&fm=webp)
 
 [A research agenda for assessing the economic impacts of code generation modelsPublicationMar 3, 2022](</index/economic-impacts-research/>)
 
-![Solving Math Word Problems](https://images.ctfassets.net/kftzwdyauwt9/433b7203-a2d4-4062-8ff51f6c1ac9/c61bd6b915dfd01deddff4fd5787d2e2/image-15.webp?w=3840&q=90&fm=webp)
+![An abstract expressionist painting in soft, pastel pink and purple, and orange palette.](https://images.ctfassets.net/kftzwdyauwt9/433b7203-a2d4-4062-8ff51f6c1ac9/c61bd6b915dfd01deddff4fd5787d2e2/image-15.webp?w=3840&q=90&fm=webp)
 
 [Solving math word problemsPublicationOct 29, 2021](</index/solving-math-word-problems/>)
 
@@ -102,9 +102,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -141,6 +141,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -174,6 +176,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

@@ -53,7 +53,7 @@ Crucially, those gains will only come if AI companies first listen to the organi
 
 Prior to the event, participants will have access to an [_online resource hub_ ⁠(opens in a new window)](<https://academy.openai.com/home/collections/3-steps-to-ai-literacy-for-nonprofits-2025-06-30>) on OpenAI Academy to help them learn the basics of AI and prepare for the Nonprofit Jam. Afterward, they’ll join an online community where they can continue learning, connect with peers, and expand on what they started.
 
-The event builds on the success of our [_1,000-Scientist AI Jam_ ⁠](<https://openai.com/global-affairs/1000-scientist-ai-jam-session/>) earlier this year, which brought US national labs researchers together to explore how AI can help advance scientific discovery. Across both efforts, we're putting powerful AI tools directly into the hands of experts tackling some of our biggest challenges, and learning from how they put these tools to work. 
+The event builds on the success of our [_1,000-Scientist AI Jam_ ⁠](<https://openai.com/global-affairs/1000-scientist-ai-jam-session/>) earlier this year, which brought US national labs researchers together to explore how AI can help advance scientific discovery. Across both efforts, we’re putting powerful AI tools directly into the hands of experts tackling some of our biggest challenges, and learning from how they put these tools to work. 
 
 OpenAI is providing every Nonprofit Jam participant with 12 months of free access to ChatGPT Plus to support their ongoing work. And in August, we’ll publish a short report with key insights, case studies, and lessons learned to showcase how nonprofits are beginning to integrate AI into their day-to-day work. OpenAI is governed by a nonprofit, so we’re built to prioritize long-term impact and broad public benefit over short-term gains—and to ensure our work impacts the needs of people and organizations everywhere. 
 
@@ -78,7 +78,7 @@ At each of the 10 Nonprofit Jam locations, regional nonprofit partners and commu
 
 We want to thank the Decoded Futures, National Center for Civic Innovation, and the Fund for the City of New York for supporting the event and sharing their insights on how nonprofits can adopt and leverage technology with participants. 
 
-This initiative reflects our commitment to ensuring that the benefits of AI are accessible to everyone. We're excited to learn from today's participants and to continue building tools that empower communities and expand opportunity.
+This initiative reflects our commitment to ensuring that the benefits of AI are accessible to everyone. We’re excited to learn from today's participants and to continue building tools that empower communities and expand opportunity.
 
   * [2025](</news/?tags=2025>)
 
@@ -92,17 +92,17 @@ OpenAI
 
 [View all](</news/>)
 
-![oai 1x1 Biodefense in the Intelligence Age](https://images.ctfassets.net/kftzwdyauwt9/6A4rrCBs9rrlbzm9JWIvSi/8a4ae56849fcd0b16e90b59b8babc613/oai_1x1_Biodefense_in_the_Intelligence_Age.png?w=3840&q=90&fm=webp)
+![effingham county 1x1](https://images.ctfassets.net/kftzwdyauwt9/3f1fyaaSZELql3zECUImW3/1733a5ee7f07da894b993dcff75bea66/effingham_county_1x1.png?w=3840&q=90&fm=webp)
 
-[Biodefense in the Intelligence AgeGlobal AffairsJun 4, 2026](</index/biodefense-in-the-intelligence-age/>)
+[Building AI infrastructure with the Effingham County communityGlobal AffairsJul 22, 2026](</index/building-ai-infrastructure-with-the-effingham-county-community/>)
 
-![OpenAI’s public policy agenda > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/CdH7XdsXfpUaYZJpeCwwz/76b975c66fce3ce5ec4a901b4f675369/Frame.png?w=3840&q=90&fm=webp)
+![Advancing the next era of national science card image](https://images.ctfassets.net/kftzwdyauwt9/1aUcaaPHlPQbaN0EzEUrEc/95d5f6d78ab308305bf4781c07ccc4fd/Advancing_the_next_era_of_national_science_1x1.png?w=3840&q=90&fm=webp)
 
-[OpenAI public policy agendaGlobal AffairsJun 3, 2026](</index/public-policy-agenda/>)
+[Advancing the next era of national scienceGlobal AffairsJul 22, 2026](</index/advancing-the-next-era-of-national-science/>)
 
-![Frontier Safety Blueprint > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/6zU111Ouj65b8iZJnswHBe/a705de1c90ab048510532db2f53f12f3/Frame.png?w=3840&q=90&fm=webp)
+![Helping build shared standards for advanced AI - card image](https://images.ctfassets.net/kftzwdyauwt9/5bSU7ItzcBWGtWhApmmJ6X/a818a91ef36b39ed07d62566ec318760/Frame2.png?w=3840&q=90&fm=webp)
 
-[A blueprint for democratic governance of frontier AIGlobal AffairsJun 3, 2026](</index/frontier-safety-blueprint/>)
+[The US is advancing AI safety through state and federal actionGlobal AffairsJul 15, 2026](</index/advancing-ai-safety-through-state-and-federal-action/>)
 
 Research
 
@@ -114,9 +114,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -153,6 +153,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -186,6 +188,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

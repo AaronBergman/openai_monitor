@@ -26,15 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Deciding to adopt ChatGPT Enterprise that meets twelve critical requirements
-
-  * Deciding to adopt ChatGPT Enterprise that meets twelve critical requirements
-  * Transforming sales activities with AI supported workflows
-  * Strengthening international communication
-  * Shifting from routine tasks to creative, high value work
-
-
-
 January 13, 2026
 
 # Zenken boosts a lean sales team with ChatGPT Enterprise
@@ -44,6 +35,22 @@ Zenken is rethinking sales with AI—cutting preparation time, improving win rat
 ![Green, textured background with the white Zenken wordmark, preceded by a dot, centered on the image.](https://images.ctfassets.net/kftzwdyauwt9/2E91yO21HWf907j3pYIxuP/48dd505f1b7a091a895cf5385abb4d65/oai_Zenken_16x9.png?w=3840&q=90&fm=webp)
 
 Share
+
+Deciding to adopt ChatGPT Enterprise that meets twelve critical requirements
+
+  * Deciding to adopt ChatGPT Enterprise that meets twelve critical requirements
+  * Transforming sales activities with AI supported workflows
+  * Strengthening international communication
+  * Shifting from routine tasks to creative, high value work
+
+
+
+  * Deciding to adopt ChatGPT Enterprise that meets twelve critical requirements
+  * Transforming sales activities with AI supported workflows
+  * Strengthening international communication
+  * Shifting from routine tasks to creative, high value work
+
+
 
 Zenken combines GPT‑5, custom GPTs, image generation, and the latest OpenAI models and tools to accelerate both of its core businesses: web marketing and the fast growing overseas human resources business. As one of the first companies in Japan to roll out ChatGPT Enterprise across the organization, Zenken is putting an AI first approach into practice and seeing clear business impact.
 
@@ -60,7 +67,7 @@ Today Zenken reports:
 
 Before adopting ChatGPT Enterprise, Zenken relied on manual processes for a wide range of knowledge tasks. Employees spent large amounts of time on research, summarization, translation, and content creation. Sales teams also faced long preparation times for client meetings, which reduced the number and quality of customer conversations.
 
-To address these issues, Zenken decided to introduce AI in a structured and secure way. Yuji Okada, Manager of the Corporate Planning Department in the Administration Division, explains that when they evaluated potential solutions, they “focused on twelve capabilities required for our business, such as security and advanced support for complex thinking,” and recalls that “ChatGPT Enterprise was the only solution to meet all of these conditions.” He notes, "Because we deal with client and sensitive internal information, preventing data leaks is non-negotiable. ChatGPT Enterprise guarantees that our data won't be used to train its AI. This security feature gave us the confidence to safely handle confidential data."
+To address these issues, Zenken decided to introduce AI in a structured and secure way. Yuji Okada, Manager of the Corporate Planning Department in the Administration Division, explains that when they evaluated potential solutions, they “focused on twelve capabilities required for our business, such as security and advanced support for complex thinking,” and recalls that “ChatGPT Enterprise was the only solution to meet all of these conditions.” He notes, "Because we deal with client and sensitive internal information, preventing data leaks is non-negotiable. ChatGPT Enterprise guarantees that our data won’t be used to train its AI. This security feature gave us the confidence to safely handle confidential data."
 
 The availability of reasoning models was also a decisive reason for choosing ChatGPT Enterprise. In Zenken’s core web marketing business, teams need to analyze clients’ business challenges in depth and propose strategic solutions. The reasoning model released by OpenAI in 2024 provides the advanced support for complex thinking that Zenken was looking for and has further accelerated the company’s use of AI. Okada explains, “The reasoning model goes beyond simply providing information and supports management level decision making in areas such as market analysis, competitive strategy, and evaluation of new business opportunities.”
 
@@ -107,17 +114,17 @@ For Zenken, ChatGPT Enterprise is more than a tool. In Okada’s words, it has b
 
 ## Keep reading
 
-![Confidential submission of draft S-1 to the SEC > cover image](https://images.ctfassets.net/kftzwdyauwt9/36doI12YCwUtp1hzD4d8bj/84e67c565f39e7d5ca3ee011efa69756/confidential-submission-of-draft-s-1-to-the-sec-1x1.png?w=3840&q=90&fm=webp)
+![Health in ChatGPT > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/48aIp3cQOKJ57vpQeqOb8y/2e8732bcad5ceea1c7b20cf001bd2823/1_1_Art_Card.png?w=3840&q=90&fm=webp)
 
-[Confidential submission of draft S-1 to the SECCompanyJun 8, 2026](</index/openai-submits-confidential-s-1/>)
+[Launching Health in ChatGPT ProductJul 23, 2026](</index/health-in-chatgpt/>)
 
-![Built for broad benefit > cover](https://images.ctfassets.net/kftzwdyauwt9/bEe28mW3dEOj9pKJsPp2u/13f7bed9e86b0667ba924479d62f98e4/Art_Card_1080x1080_1.png?w=3840&q=90&fm=webp)
+![effingham county 1x1](https://images.ctfassets.net/kftzwdyauwt9/3f1fyaaSZELql3zECUImW3/1733a5ee7f07da894b993dcff75bea66/effingham_county_1x1.png?w=3840&q=90&fm=webp)
 
-[Built to benefit everyone: our planCompanyJun 8, 2026](</index/built-to-benefit-everyone-our-plan/>)
+[Building AI infrastructure with the Effingham County communityGlobal AffairsJul 22, 2026](</index/building-ai-infrastructure-with-the-effingham-county-community/>)
 
-![Economic research forum > art card ](https://images.ctfassets.net/kftzwdyauwt9/2DpNjvjdVuCrLKNOrFrWJ7/1aefe1cbe252bcd9ba42035469fc8a0f/art_card.png?w=3840&q=90&fm=webp)
+![How news organizations are using AI > Card Image](https://images.ctfassets.net/kftzwdyauwt9/5nTzxwRy4Is9PQSluyYkWP/d6e7953a692a5a8c926885e2f50a3427/how_news_orgs_use_AI_1x1.png?w=3840&q=90&fm=webp)
 
-[Introducing the OpenAI Economic Research ExchangeCompanyJun 8, 2026](</index/economic-research-exchange/>)
+[How news organizations use AI to advance their vital missionsCompanyJul 22, 2026](</index/how-news-organizations-are-using-ai/>)
 
 Research
 
@@ -129,9 +136,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -168,6 +175,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -201,6 +210,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

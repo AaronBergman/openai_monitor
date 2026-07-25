@@ -26,13 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Mitigating malicious uses
-
-  * Mitigating malicious uses
-  * Ecosystem initiatives to strengthen cyber resilience 
-
-
-
 December 10, 2025
 
 [Security](</news/security/>)
@@ -44,6 +37,26 @@ As our models grow more capable in cybersecurity, we’re investing in strengthe
 Loading…
 
 Share
+
+Mitigating malicious uses
+
+  * Mitigating malicious uses
+  * Ecosystem initiatives to strengthen cyber resilience 
+    * Trusted access programs for cyberdefense
+    * Expanding defensive capacity with Aardvark
+    * Frontier Risk Council
+    * Developing a shared understanding on threat models with the industry
+
+
+
+  * Mitigating malicious uses
+  * Ecosystem initiatives to strengthen cyber resilience 
+    * Trusted access programs for cyberdefense
+    * Expanding defensive capacity with Aardvark
+    * Frontier Risk Council
+    * Developing a shared understanding on threat models with the industry
+
+
 
 Cyber capabilities in AI models are advancing rapidly, bringing meaningful benefits for cyberdefense as well as new dual-use risks that must be managed carefully. For example, capabilities assessed through capture-the-flag (CTF) challenges have improved from 27% on [GPT‑5⁠(opens in a new window)](<https://cdn.openai.com/gpt-5-system-card.pdf>) in August 2025 to 76% on [GPT‑5.1‑Codex‑Max⁠(opens in a new window)](<https://cdn.openai.com/pdf/2a7d98b1-57e5-4147-8d0e-683894d782ae/5p1_codex_max_card_03.pdf>) in November 2025.
 
@@ -77,7 +90,7 @@ Alongside these collaborations, we are establishing a set of efforts designed to
 
 ### Trusted access programs for cyberdefense
 
-We will soon introduce a trusted access program where we explore providing qualifying users and customers working on cyberdefense with tiered access to enhanced capabilities in our latest models for defensive use cases. We're still exploring the right boundary of which capabilities we can provide broad access to and which ones require tiered restrictions, which may influence the future design of this program. We aim for this trusted access program to be a building block towards a resilient ecosystem.
+We will soon introduce a trusted access program where we explore providing qualifying users and customers working on cyberdefense with tiered access to enhanced capabilities in our latest models for defensive use cases. We’re still exploring the right boundary of which capabilities we can provide broad access to and which ones require tiered restrictions, which may influence the future design of this program. We aim for this trusted access program to be a building block towards a resilient ecosystem.
 
 ### Expanding defensive capacity with Aardvark
 
@@ -106,17 +119,17 @@ OpenAI
 
 [View all](</news/>)
 
-![codex windows > art card](https://images.ctfassets.net/kftzwdyauwt9/6ZvTl8ZL23BOhoI6jz0EmR/49d6038b9f92773d4f866f4bfacabdbf/Art_Card__5_.png?w=3840&q=90&fm=webp)
+![Hugging Face Security Incident 1x1](https://images.ctfassets.net/kftzwdyauwt9/1H0bdkoSFFcqNTx4DSNpal/56f4b7575c012f0698b1be0dafb379f0/Hugging_Face_Security_Incident_1x1.png?w=3840&q=90&fm=webp)
 
-[Building a safe, effective sandbox to enable Codex on WindowsEngineeringMay 13, 2026](</index/building-codex-windows-sandbox/>)
+[OpenAI and Hugging Face address security incidentSecurityJul 21, 2026](</index/hugging-face-model-evaluation-security-incident/>)
 
-![Frame](https://images.ctfassets.net/kftzwdyauwt9/32jPyVqUObkTrIIyA6tJV1/4eb384b5bb2f21ccea5de7665858a37a/Frame.png?w=3840&q=90&fm=webp)
+![Expanding Daybreak Art Card](https://images.ctfassets.net/kftzwdyauwt9/735NOZviyogUBIFxd2EmWX/fa8baf9fc26e64f442ffa86d5fd9a41e/Art_Card__6_.png?w=3840&q=90&fm=webp)
 
-[Our response to the TanStack npm supply chain attackCompanyMay 13, 2026](</index/our-response-to-the-tanstack-npm-supply-chain-attack/>)
+[Daybreak: Tools for securing every organization in the worldSecurityJun 22, 2026](</index/daybreak-securing-the-world/>)
 
-![Running Codex safely at OpenAI > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/76rTHgn2J3y6srtNd3ZrRs/71fc86af978baecda10b212fdb5d3609/Frame.png?w=3840&q=90&fm=webp)
+![Patch the Planet Art Card 1x1](https://images.ctfassets.net/kftzwdyauwt9/2PwBCyZF0Z5WLRtsbOpDdQ/338e19fbc39e5b9a63b1db664c006e74/Art_Card__5_.png?w=3840&q=90&fm=webp)
 
-[Running Codex safely at OpenAISecurityMay 8, 2026](</index/running-codex-safely/>)
+[Patch the Planet: a Daybreak initiative to support open source maintainersSecurityJun 22, 2026](</index/patch-the-planet/>)
 
 Research
 
@@ -128,9 +141,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -167,6 +180,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -200,6 +215,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

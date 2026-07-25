@@ -26,6 +26,16 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
+May 7, 2025
+
+# The San Antonio Spurs use ChatGPT to scale impact on and off the court
+
+ChatGPT Enterprise helps the Spurs save 1,800 staff hours a month and deepen global fan engagement.
+
+Loading…
+
+Share
+
 Driving cultural change to meet global fan expectations
 
   * Driving cultural change to meet global fan expectations
@@ -37,15 +47,14 @@ Driving cultural change to meet global fan expectations
 
 
 
-May 7, 2025
+  * Driving cultural change to meet global fan expectations
+  * Building momentum with a people-first rollout
+  * Delivering business value with purpose-built GPTs
+  * Realizing ROI in months
+  * Cultivating a culture of continuous AI learning
+  * An adoption blueprint any organization can follow
 
-# The San Antonio Spurs use ChatGPT to scale impact on and off the court
 
-ChatGPT Enterprise helps the Spurs save 1,800 staff hours a month and deepen global fan engagement.
-
-Loading…
-
-Share
 
 San Antonio basketball isn’t just a game—it’s a way of life. For over 50 years, the San Antonio Spurs have built their legacy around community, integrity, and team-first values. 
 
@@ -65,17 +74,17 @@ Inside the club, teams look for faster ways to analyze data, create content, and
 
 The Spurs realized that meeting these goals required more than a new technology mandate; it called for new ways of working together.
 
-“We're very intentional about not chasing shiny objects,” says Charlie Kurian, Director of Business Strategy & Innovation at Spurs Sports & Entertainment. “We start with the goals, not the tools. Then we ask: what’s the most human-centered, efficient way to get there? We didn't want to just push a tool. We wanted to create genuine pull.”
+“We’re very intentional about not chasing shiny objects,” says Charlie Kurian, Director of Business Strategy & Innovation at Spurs Sports & Entertainment. “We start with the goals, not the tools. Then we ask: what’s the most human-centered, efficient way to get there? We didn’t want to just push a tool. We wanted to create genuine pull.”
 
 ## Building momentum with a people-first rollout
 
 After reviewing several AI vendors, the Spurs chose OpenAI for its cultural fit and the ease with which teams could weave ChatGPT Enterprise into daily workflows.
 
-“People are on all waves of the spectrum in terms of feelings, thought, and usage of LLMs.” Kurian says. “We piloted other tools and adoption was low. But with OpenAI, we don't have to sell the tool.”
+“People are on all waves of the spectrum in terms of feelings, thought, and usage of LLMs.” Kurian says. “We piloted other tools and adoption was low. But with OpenAI, we don’t have to sell the tool.”
 
 Kurian and his team introduced ChatGPT Enterprise in phases, beginning with 150 pilot users. In-person training, custom onboarding guides, and an internal AI hackathon prioritized peer learning and kept the focus on experimentation, not outcomes.
 
-“We knew that if we could make a bet on the most valuable asset that we have, which is our people, and really meet them where they're at, that would pay dividends,” notes Kurian. “When we came to OpenAI, it wasn't just a vendor fit, it was a great cultural fit.”
+“We knew that if we could make a bet on the most valuable asset that we have, which is our people, and really meet them where they’re at, that would pay dividends,” notes Kurian. “When we came to OpenAI, it wasn’t just a vendor fit, it was a great cultural fit.”
 
 ![Split-screen image showing two men: on the left, a man with a backpack looks upward while walking outside under a canopy of trees; on the right, a smiling man stands on a professional basketball court with a hoop and scoreboard in the background.](https://images.ctfassets.net/kftzwdyauwt9/1MjlNv9Xl8C162fsawgzjC/da4a375d4445100c1411ca5f2caa2b8e/P2.png?w=3840&q=90&fm=webp)
 
@@ -146,17 +155,17 @@ Buford has guided the club through decades of change, from pioneering internatio
 
 ## Keep reading
 
-![Confidential submission of draft S-1 to the SEC > cover image](https://images.ctfassets.net/kftzwdyauwt9/36doI12YCwUtp1hzD4d8bj/84e67c565f39e7d5ca3ee011efa69756/confidential-submission-of-draft-s-1-to-the-sec-1x1.png?w=3840&q=90&fm=webp)
+![Health in ChatGPT > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/48aIp3cQOKJ57vpQeqOb8y/2e8732bcad5ceea1c7b20cf001bd2823/1_1_Art_Card.png?w=3840&q=90&fm=webp)
 
-[Confidential submission of draft S-1 to the SECCompanyJun 8, 2026](</index/openai-submits-confidential-s-1/>)
+[Launching Health in ChatGPT ProductJul 23, 2026](</index/health-in-chatgpt/>)
 
-![Built for broad benefit > cover](https://images.ctfassets.net/kftzwdyauwt9/bEe28mW3dEOj9pKJsPp2u/13f7bed9e86b0667ba924479d62f98e4/Art_Card_1080x1080_1.png?w=3840&q=90&fm=webp)
+![effingham county 1x1](https://images.ctfassets.net/kftzwdyauwt9/3f1fyaaSZELql3zECUImW3/1733a5ee7f07da894b993dcff75bea66/effingham_county_1x1.png?w=3840&q=90&fm=webp)
 
-[Built to benefit everyone: our planCompanyJun 8, 2026](</index/built-to-benefit-everyone-our-plan/>)
+[Building AI infrastructure with the Effingham County communityGlobal AffairsJul 22, 2026](</index/building-ai-infrastructure-with-the-effingham-county-community/>)
 
-![Economic research forum > art card ](https://images.ctfassets.net/kftzwdyauwt9/2DpNjvjdVuCrLKNOrFrWJ7/1aefe1cbe252bcd9ba42035469fc8a0f/art_card.png?w=3840&q=90&fm=webp)
+![How news organizations are using AI > Card Image](https://images.ctfassets.net/kftzwdyauwt9/5nTzxwRy4Is9PQSluyYkWP/d6e7953a692a5a8c926885e2f50a3427/how_news_orgs_use_AI_1x1.png?w=3840&q=90&fm=webp)
 
-[Introducing the OpenAI Economic Research ExchangeCompanyJun 8, 2026](</index/economic-research-exchange/>)
+[How news organizations use AI to advance their vital missionsCompanyJul 22, 2026](</index/how-news-organizations-are-using-ai/>)
 
 Research
 
@@ -168,9 +177,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -207,6 +216,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -240,6 +251,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

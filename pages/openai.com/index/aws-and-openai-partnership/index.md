@@ -57,7 +57,7 @@ The infrastructure deployment that AWS is building for OpenAI features a sophist
 
 “Scaling frontier AI requires massive, reliable compute," said OpenAI co-founder and CEO Sam Altman. “Our partnership with AWS strengthens the broad compute ecosystem that will power this next era and bring advanced AI to everyone.”
 
-“As OpenAI continues to push the boundaries of what's possible, AWS's best-in-class infrastructure will serve as a backbone for their AI ambitions,” said Matt Garman, CEO of AWS. “The breadth and immediate availability of optimized compute demonstrates why AWS is uniquely positioned to support OpenAI's vast AI workloads."
+“As OpenAI continues to push the boundaries of what’s possible, AWS's best-in-class infrastructure will serve as a backbone for their AI ambitions,” said Matt Garman, CEO of AWS. “The breadth and immediate availability of optimized compute demonstrates why AWS is uniquely positioned to support OpenAI's vast AI workloads."
 
 This news continues the companies’ work together to provide cutting-edge AI technology to benefit organizations worldwide. Earlier this year, OpenAI open weight foundation models became available on Amazon Bedrock, bringing these additional model options to millions of customers on AWS. OpenAI has quickly become one of the most popular publicly available model providers in Amazon Bedrock with thousands of customers—including Bystreet, Comscore, Peloton, Thomson Reuters, Triomics, and Verana Health—working with their models for agentic workflows, coding, scientific analysis, mathematical problem-solving, and more.
 
@@ -75,17 +75,17 @@ OpenAI
 
 [View all](</news/>)
 
-![OpenAI acquires Ona > oai 1x1](https://images.ctfassets.net/kftzwdyauwt9/6SkgXCQ08f4AYarun2I3oU/24414c9962c945767f783bdb63006841/OAI-Ona-ArtCard.png?w=3840&q=90&fm=webp)
+![How news organizations are using AI > Card Image](https://images.ctfassets.net/kftzwdyauwt9/5nTzxwRy4Is9PQSluyYkWP/d6e7953a692a5a8c926885e2f50a3427/how_news_orgs_use_AI_1x1.png?w=3840&q=90&fm=webp)
 
-[OpenAI to acquire OnaCompanyJun 11, 2026](</index/openai-to-acquire-ona/>)
+[How news organizations use AI to advance their vital missionsCompanyJul 22, 2026](</index/how-news-organizations-are-using-ai/>)
 
-![Oracle partnership 1x1 art card](https://images.ctfassets.net/kftzwdyauwt9/7zjGwFPBZMvK6zwFSMVWRm/6721ac33e5b1aaf88a9b705a3d10c90a/OAI_Oracle_Partnership_1x1_Art_Card.png?w=3840&q=90&fm=webp)
+![OpenAI Presence 1x1](https://images.ctfassets.net/kftzwdyauwt9/5JBDenSGI6wx5CMPPlaM5J/da9d8e27a0bd70d845a816b28ac641a9/OpenAI_Presence_1x1.png?w=3840&q=90&fm=webp)
 
-[Access OpenAI models and Codex through your Oracle cloud commitmentCompanyJun 10, 2026](</index/openai-on-oracle-cloud/>)
+[Introducing OpenAI PresenceProductJul 22, 2026](</index/introducing-openai-presence/>)
 
-![Confidential submission of draft S-1 to the SEC > cover image](https://images.ctfassets.net/kftzwdyauwt9/36doI12YCwUtp1hzD4d8bj/84e67c565f39e7d5ca3ee011efa69756/confidential-submission-of-draft-s-1-to-the-sec-1x1.png?w=3840&q=90&fm=webp)
+![David Vélez and Robin Vince 1x1](https://images.ctfassets.net/kftzwdyauwt9/7wQKVPmXFJk1gTBLmJTO6N/f90d79c4e011e05fb0d06aebfa3a265c/c47f1f6d-440a-4f0b-a669-50ca79ce1064.png?w=3840&q=90&fm=webp)
 
-[Confidential submission of draft S-1 to the SECCompanyJun 8, 2026](</index/openai-submits-confidential-s-1/>)
+[David Vélez and Robin Vince join OpenAI boardsCompanyJul 21, 2026](</index/david-velez-robin-vince-join-openai-boards/>)
 
 Research
 
@@ -97,9 +97,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -136,6 +136,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -169,6 +171,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

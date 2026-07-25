@@ -60,7 +60,7 @@ Today, the company is accelerating the shift to a sustainable transport ecosyste
 
 We sat down with Jan Andries Oldenkamp, Chief Information Officer, and Jan Guhres, Senior Manager Business Enabling Services, to hear how Scania is rolling out ChatGPT Enterprise, enabling experimentation across teams, and building AI into the team DNA.
 
-> "It's going faster - both in time and in quality."
+> "It’s going faster - both in time and in quality."
 
 —Jan Andries Oldenkamp, Chief Information Officer
 
@@ -70,11 +70,11 @@ Scania's decentralised culture meant teams were ready to explore AI from day one
 
 From the outset, governance was built to enable-not restrict-experimentation.
 
-"We had good cooperation with legal and security from day one," says Guhres. "By providing clear guidelines, engineers and builders felt free to experiment-and it's worked ever since."
+"We had good cooperation with legal and security from day one," says Guhres. "By providing clear guidelines, engineers and builders felt free to experiment-and it’s worked ever since."
 
 To ensure capability stuck, Scania introduced team-based onboarding, not isolated individual training.
 
-"Everyone was only allowed to join if they joined as the whole team. That's how we build continuity... we wanted it in the team DNA," Guhres explains.
+"Everyone was only allowed to join if they joined as the whole team. That’s how we build continuity... we wanted it in the team DNA," Guhres explains.
 
 As more teams gained confidence, momentum accelerated. This blend of strong bottom-up energy and enabling guardrails is now shaping how Scania scales AI deeper into core engineering and operational workflows, turning experimentation into enduring capability across the company.
 
@@ -104,7 +104,7 @@ As more teams gained confidence, momentum accelerated. This blend of strong bott
 
 **Expect the speed to surprise you** Anticipate rapid uptake-and design processes that can absorb it.
 
-### What's next
+### What’s next
 
 Scania is now exploring agent capabilities, deeper workflow integration, and long-term opportunities to support its ambition to build the sustainable transport ecosystem of the future. As adoption grows, Scania's workforce is learning together-and moving faster together-than ever before.
 
@@ -120,17 +120,17 @@ More than 1 million businesses around the world are achieving meaningful results
 
 ## Keep reading
 
-![Why teens deserve access to safe AI — card image](https://images.ctfassets.net/kftzwdyauwt9/qMYBYjbkSSEYQbsQyyfRQ/d9fe2585ed8bbf73ffee5d6ed8bcc39e/why-teens-card.jpg?w=3840&q=90&fm=webp)
+![Health in ChatGPT > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/48aIp3cQOKJ57vpQeqOb8y/2e8732bcad5ceea1c7b20cf001bd2823/1_1_Art_Card.png?w=3840&q=90&fm=webp)
 
-[Why teens deserve access to safe AISafetyJul 16, 2026](</index/why-teens-deserve-access-safe-ai/>)
+[Launching Health in ChatGPT ProductJul 23, 2026](</index/health-in-chatgpt/>)
 
-![Cars24 — square customer story artwork](https://images.ctfassets.net/kftzwdyauwt9/2w9KeAF3eUGeTYbhIad57r/60d837660f6c59bdf46f82c28073469d/cars24-square.png?w=3840&q=90&fm=webp)
+![effingham county 1x1](https://images.ctfassets.net/kftzwdyauwt9/3f1fyaaSZELql3zECUImW3/1733a5ee7f07da894b993dcff75bea66/effingham_county_1x1.png?w=3840&q=90&fm=webp)
 
-[How Cars24 scales conversations and builds faster with OpenAIJul 16, 2026](</index/cars24/>)
+[Building AI infrastructure with the Effingham County communityGlobal AffairsJul 22, 2026](</index/building-ai-infrastructure-with-the-effingham-county-community/>)
 
-![Helping build shared standards for advanced AI - card image](https://images.ctfassets.net/kftzwdyauwt9/5bSU7ItzcBWGtWhApmmJ6X/a818a91ef36b39ed07d62566ec318760/Frame2.png?w=3840&q=90&fm=webp)
+![How news organizations are using AI > Card Image](https://images.ctfassets.net/kftzwdyauwt9/5nTzxwRy4Is9PQSluyYkWP/d6e7953a692a5a8c926885e2f50a3427/how_news_orgs_use_AI_1x1.png?w=3840&q=90&fm=webp)
 
-[The US is advancing AI safety through state and federal actionGlobal AffairsJul 15, 2026](</index/advancing-ai-safety-through-state-and-federal-action/>)
+[How news organizations use AI to advance their vital missionsCompanyJul 22, 2026](</index/how-news-organizations-are-using-ai/>)
 
 Research
 

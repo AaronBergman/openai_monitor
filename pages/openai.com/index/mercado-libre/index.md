@@ -37,30 +37,18 @@ Share
 Driving productivity and efficiency gains with OpenAI
 
   * Driving productivity and efficiency gains with OpenAI
-
   * Saving millions with a new development platform 
-
   * Delivering a new standard with security and routing logic 
-
   * Building Verdi for simplicity and scale
-
   * Expanding Verdi to solve any problem
 
 
-
-
-Table of contents
 
   * Driving productivity and efficiency gains with OpenAI
-
   * Saving millions with a new development platform 
-
   * Delivering a new standard with security and routing logic 
-
   * Building Verdi for simplicity and scale
-
   * Expanding Verdi to solve any problem
-
 
 
 
@@ -121,7 +109,7 @@ Based on the success they’ve seen in customer service, Mercado Libre has start
 
 They also plan to expand Verdi’s capabilities further, integrating more advanced AI solutions like search assistants and product recommendations to better meet Mercado Pago’s 50 million active users each quarter.
 
-“Verdi is designed to solve any problem,” says Rabinovich. “It's a bold statement, but we're confident in its potential to transform our operations. From handling routine customer queries to managing high-stakes disputes, Verdi is setting a new standard.”
+“Verdi is designed to solve any problem,” says Rabinovich. “It’s a bold statement, but we’re confident in its potential to transform our operations. From handling routine customer queries to managing high-stakes disputes, Verdi is setting a new standard.”
 
 ## Interested in learning more about ChatGPT for business?
 
@@ -151,9 +139,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -190,6 +178,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -223,6 +213,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

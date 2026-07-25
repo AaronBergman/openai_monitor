@@ -47,7 +47,7 @@ This update introduces a sharper focus on the specific risks that matter most, s
 We’ve learned a great deal from our own testing, insights from external experts, and lessons from the field. This update reflects that progress. In line with [our core safety principles⁠](</safety/how-we-think-about-safety-alignment/#our-core-principles>), it makes targeted improvements that include:
 
   * **Clear criteria for prioritizing high-risk capabilities.** We use a structured risk assessment process to evaluate whether a frontier capability could lead to severe harm and we assign it to a category based on defined criteria. We track capabilities that meet five key criteria that make it a priority for us to prepare in advance: the risk should be plausible, measurable, severe, net new, and instantaneous or irremediable. We measure progress on these capabilities, and build safeguards against the risks that these capabilities create.
-  * **Sharper capability categories.** We've updated our categorization of capabilities to apply these criteria and reflect our current understanding.
+  * **Sharper capability categories.** We’ve updated our categorization of capabilities to apply these criteria and reflect our current understanding.
     * **Tracked Categories:**__ These are established areas where we have mature evaluations and ongoing safeguards. They are Biological and Chemical capabilities, Cybersecurity capabilities, and AI Self-improvement capabilities. We continue to believe some of the most transformative benefits from AI will come from its use in science, engineering, and research - including from capabilities in our Tracked Categories. Investing early in both measurement and safeguards for these dual-use categories will enable us to safely unlock the benefits we anticipate from their use.
     * **Research Categories:** We’re introducing a set of Research Categories of capability, which are areas that could pose risks of severe harm, that do not yet meet our criteria to be Tracked Categories. We’re working to develop threat models and advanced capability evaluations for these. Current focus areas include Long-range Autonomy, Sandbagging (intentionally underperforming), Autonomous Replication and Adaptation, Undermining Safeguards, and Nuclear and Radiological.
     * Persuasion risks will be handled outside the Preparedness Framework, including via our Model Spec, restricting the use of our tools for political campaigning or lobbying, and our ongoing investigations into misuse of our products (including [detecting and disrupting influence operations⁠(opens in a new window)](<https://cdn.openai.com/threat-intelligence-reports/disrupting-malicious-uses-of-our-models-february-2025-update.pdf>)).
@@ -82,9 +82,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -121,6 +121,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -154,6 +156,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

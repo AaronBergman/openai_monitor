@@ -26,6 +26,18 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
+December 12, 2025
+
+[Engineering](</news/engineering/>)[Company](</news/company-announcements/>)
+
+# How we used Codex to build Sora for Android in 28 days
+
+By Patrick Hum and RJ Marsan, Members of the Technical Staff
+
+Loading…
+
+Share
+
 Embracing Brooks’ Law: Staying nimble to move fast
 
   * Embracing Brooks’ Law: Staying nimble to move fast
@@ -38,17 +50,15 @@ Embracing Brooks’ Law: Staying nimble to move fast
 
 
 
-December 12, 2025
+  * Embracing Brooks’ Law: Staying nimble to move fast
+  * Onboarding a new senior engineer
+  * Laying the foundation by hand
+  * Planning with Codex before coding
+  * Distributed engineering
+  * Codex as a cross‑platform superpower
+  * The software engineering of tomorrow, today
 
-[Engineering](</news/engineering/>)[Company](</news/company-announcements/>)
 
-# How we used Codex to build Sora for Android in 28 days
-
-By Patrick Hum and RJ Marsan, Members of the Technical Staff
-
-Loading…
-
-Share
 
  _As of April 26, 2026, the Sora product is no longer available._
 
@@ -62,7 +72,7 @@ From October 8 to November 5, 2025, a lean engineering team working alongside Co
 
 Prompt: figure skater performs a triple axle with a cat on her head
 
-#### Embracing Brooks’ Law: Staying nimble to move fast
+### Embracing Brooks’ Law: Staying nimble to move fast
 
 When Sora launched on iOS, usage exploded. People immediately began generating a stream of videos. On Android, by contrast, we had only a small internal prototype and a mounting number of pre-registered users on Google Play.
 
@@ -72,7 +82,7 @@ American computer architect Fred Brooks famously warned that “adding more peop
 
 Working this way, we shipped an internal build of Sora for Android to employees in 18 days and launched publicly 10 days later. We maintained a high bar on Android engineering practices, invested in maintainability, and held the app to the same reliability bar we would expect from a more traditional project. (We also continue to use Codex extensively today to evolve and bring new features to the app).
 
-#### Onboarding a new senior engineer
+### Onboarding a new senior engineer
 
 To make sense of how we worked with Codex, it helps to know where it shines and where it needs direction. Treating it like a newly hired senior engineer was a good approach. Codex’s ability meant we could spend more time directing and reviewing code than writing it ourselves.
 
@@ -115,7 +125,7 @@ We found it useful to have Codex create and maintain a generous amount of AGENT.
 
 Once we acknowledged these characteristics, our working model became more straightforward. We leaned on Codex to do a huge amount of heavy lifting inside well‑understood patterns and well‑bounded scopes, while our team focused on architecture, user experience, systemic changes, and final quality.
 
-#### Laying the foundation by hand
+### Laying the foundation by hand
 
 Even the best new, senior hire doesn’t have the right vantage point for making long-term trade-offs right away. To leverage Codex and ensure its work was robust and maintainable, it was key that we oversaw the app’s systems design and key trade-offs ourselves. These included shaping the app’s architecture, modularization, dependency injection, and navigation; we also implemented authentication and base networking flows. 
 
@@ -127,7 +137,7 @@ To see what would happen, we did try prompting: “Build the Sora Android app ba
 
 We hypothesized Codex would thrive in a sandbox of well-written examples; and we were right. Asking Codex to “build this settings screen” with almost no context was unreliable. Asking Codex to “build this settings screen using the same architecture and patterns as this other screen you just saw” worked far better. Humans made the structural decisions and set the invariants; Codex then filled in large amounts of code inside that structure.
 
-#### Planning with Codex before coding
+### Planning with Codex before coding
 
 Our next step in maximizing Codex’s potential was figuring out how to enable Codex to work for long periods of time (recently, [_more than 24 hours_ ⁠](<https://openai.com/index/gpt-5-1-codex-max/>)), unsupervised.
 
@@ -141,7 +151,7 @@ This extra planning loop turned out to be worth the time. It allowed us to let C
 
 The dynamic felt similar to the way a good design document gives a tech lead confidence in a project. We weren’t just generating code: we were producing code that supported a shared roadmap.
 
-#### Distributed engineering
+### Distributed engineering
 
 At the peak of the project, we were often running multiple Codex sessions in parallel. One was working on playback, another on search, another on error handling, and sometimes another on tests or refactors. It felt less like using a tool and more like managing a team.
 
@@ -153,7 +163,7 @@ At the same time, that extra speed meant we always had something waiting in our 
 
 This is where Brooks’s insights land in a new way. You can’t simply add Codex sessions and expect linear speedups any more than you can keep adding engineers to a project and expect the schedule to shrink linearly. Each additional “pair of hands,” even virtual ones, adds coordination overhead. We had become the conductor of an orchestra versus simply faster solo players.
 
-#### Codex as a cross‑platform superpower
+### Codex as a cross‑platform superpower
 
 We started our project with a huge stepping stone: Sora had already shipped on iOS. We frequently pointed Codex at the iOS and backend codebases to help it understand key requirements and constraints. Throughout the project we joked that we had reinvented the idea of a cross‑platform framework. Forget React Native or Flutter; _the future of cross‑platform is just Codex._
 
@@ -174,7 +184,7 @@ We were effectively doing cross-platform development through translation instead
 
 The broader lesson is that for Codex, context is everything. Codex did its best work when it understood how the feature already worked in iOS, paired with an understanding of how our Android app was structured. When Codex lacked that context, it wasn’t “refusing to cooperate”; it was guessing. The more we treated it like a new teammate and invested in giving it the right inputs, the better it performed.
 
-#### The software engineering of tomorrow, today
+### The software engineering of tomorrow, today
 
 By the end of our four‑week sprint, using Codex stopped feeling like an experiment and became our default development loop. We used it to understand existing code, plan changes, and implement features. We reviewed its output the same way we’d review a teammate’s. It was simply how we shipped software.
 
@@ -182,7 +192,7 @@ It became clear that AI‑assisted development does not reduce the need for rigo
 
 The most interesting parts of software engineering are building compelling products, designing scalable systems, writing complex algorithms, and experimenting with data, patterns, and code. However, the realities of software engineering of the past and present often lean more mundane: centering buttons, wiring endpoints, and writing boilerplate. Now, Codex makes it possible to focus on the most meaningful parts of software engineering and the reasons we love our craft.
 
-Once Codex is set up in a context-rich environment where it understands your goals and how you like to build, any team can multiply its capabilities. Our launch retro isn’t a one‑size‑fits‑all recipe, and we're not claiming to have solved AI‑assisted development. But we hope our experience makes it easier to find the best ways to empower Codex to empower you. 
+Once Codex is set up in a context-rich environment where it understands your goals and how you like to build, any team can multiply its capabilities. Our launch retro isn’t a one‑size‑fits‑all recipe, and we’re not claiming to have solved AI‑assisted development. But we hope our experience makes it easier to find the best ways to empower Codex to empower you. 
 
 When Codex launched in a research preview seven months ago, software engineering looked very different. Through Sora, we got to explore the next chapter of engineering. As our models and harness keep improving, AI will become an increasingly indispensable part of building. 
 
@@ -227,9 +237,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -266,6 +276,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -299,6 +311,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

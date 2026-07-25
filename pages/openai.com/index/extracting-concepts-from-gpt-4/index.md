@@ -43,30 +43,20 @@ Share
 The challenge of interpreting neural networks
 
   * The challenge of interpreting neural networks
-
   * Our research progress: large scale autoencoder training
-
   * Limitations
-
   * Looking ahead, and open sourcing our research
 
 
-
-
-Table of contents
 
   * The challenge of interpreting neural networks
-
   * Our research progress: large scale autoencoder training
-
   * Limitations
-
   * Looking ahead, and open sourcing our research
 
 
 
-
-We currently don't understand how to make sense of the neural activity within language models. Today, we are sharing improved methods for finding a large number of "features"—patterns of activity that we hope are human interpretable. Our methods scale better than existing work, and we use them to find 16 million features in GPT‑4. We are sharing a [_paper_ ⁠(opens in a new window)](<https://arxiv.org/abs/2406.04093>), [_code_ ⁠(opens in a new window)](<https://github.com/openai/sparse_autoencoder>), and [_feature visualizations_ ⁠(opens in a new window)](<https://openaipublic.blob.core.windows.net/sparse-autoencoder/sae-viewer/index.html>) with the research community to foster further exploration. 
+We currently don’t understand how to make sense of the neural activity within language models. Today, we are sharing improved methods for finding a large number of "features"—patterns of activity that we hope are human interpretable. Our methods scale better than existing work, and we use them to find 16 million features in GPT‑4. We are sharing a [_paper_ ⁠(opens in a new window)](<https://arxiv.org/abs/2406.04093>), [_code_ ⁠(opens in a new window)](<https://github.com/openai/sparse_autoencoder>), and [_feature visualizations_ ⁠(opens in a new window)](<https://openaipublic.blob.core.windows.net/sparse-autoencoder/sae-viewer/index.html>) with the research community to foster further exploration. 
 
 ## The challenge of interpreting neural networks
 
@@ -106,7 +96,7 @@ We found many other interesting features, which you can [_browse here_ ⁠(opens
 
 We are excited for interpretability to eventually increase model trustworthiness and steerability. However, this is still early work with many limitations:
 
-  * Like previous works, many of the discovered features are still difficult to interpret, with many activating with no clear pattern or exhibiting spurious activations unrelated to the concept they seem to usually encode. Furthermore, we don't have good ways to check the validity of interpretations.
+  * Like previous works, many of the discovered features are still difficult to interpret, with many activating with no clear pattern or exhibiting spurious activations unrelated to the concept they seem to usually encode. Furthermore, we don’t have good ways to check the validity of interpretations.
   * The sparse autoencoder does not capture all the behavior of the original model. Currently, passing GPT‑4’s activations through the sparse autoencoder results in a performance equivalent to a model trained with roughly 10x less compute. To fully map the concepts in frontier LLMs, we may need to scale to billions or trillions of features, which would be challenging even with our improved scaling techniques.
   * Sparse autoencoders can find features at one point in the model, but that’s only one step towards interpreting the model. Much further work is required to understand how the model computes those features and how those features are used downstream in the rest of the model.
 
@@ -114,7 +104,7 @@ We are excited for interpretability to eventually increase model trustworthiness
 
 ## Looking ahead, and open sourcing our research
 
-While sparse autoencoder research is exciting, there is a long road ahead with many unresolved challenges. In the short term, we hope the features we've found can be practically useful for monitoring and steering language model behaviors and plan to test this in our frontier models. Ultimately, we hope that one day, interpretability can provide us with new ways to reason about model safety and robustness, and significantly increase our trust in powerful AI models by giving strong assurances about their behavior.  
+While sparse autoencoder research is exciting, there is a long road ahead with many unresolved challenges. In the short term, we hope the features we’ve found can be practically useful for monitoring and steering language model behaviors and plan to test this in our frontier models. Ultimately, we hope that one day, interpretability can provide us with new ways to reason about model safety and robustness, and significantly increase our trust in powerful AI models by giving strong assurances about their behavior.  
   
 Today, we are sharing a [_paper_ ⁠(opens in a new window)](<https://arxiv.org/abs/2406.04093>) detailing our experiments and methods, which we hope will make it easier for researchers to train autoencoders at scale. We are releasing a full suite of autoencoders for GPT‑2 small, along with [_code_ ⁠(opens in a new window)](<https://github.com/openai/sparse_autoencoder>) for using them, and [_the feature visualizer_ ⁠(opens in a new window)](<https://openaipublic.blob.core.windows.net/sparse-autoencoder/sae-viewer/index.html>) to get a sense of what the GPT‑2 and GPT‑4 features may correspond to. 
 
@@ -142,9 +132,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -181,6 +171,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -214,6 +206,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

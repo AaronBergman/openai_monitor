@@ -26,13 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Enabling agents company-wide
-
-  * Enabling agents company-wide
-  * Empowering individuals and teams
-
-
-
 April 8, 2026
 
 [Company](</news/company-announcements/>)
@@ -44,6 +37,18 @@ A note from Denise Dresser, Chief Revenue Officer
 Loading…
 
 Share
+
+Enabling agents company-wide
+
+  * Enabling agents company-wide
+  * Empowering individuals and teams
+
+
+
+  * Enabling agents company-wide
+  * Empowering individuals and teams
+
+
 
 I just wrapped my first 90 days with OpenAI and have had the opportunity to meet with hundreds of our customers. What has struck me most is their immense sense of urgency and readiness. I’ve spent my entire career at the intersection of technology and enterprise transformation, and yet, I have never seen this level of conviction spread so quickly and consistently across industries. These leaders recognize AI as the most consequential shift of their lifetime, and they’re asking us how to reinvent their companies around it.
 
@@ -80,7 +85,7 @@ We’re excited to bring new solutions to enterprises that will make agents more
 
 My first quarter at OpenAI has made me more convinced than ever that the AI transformation is happening faster than most people realize. Enterprises want a partner who understands the scale of this transition and can help them confidently move forward. That means meeting them in the systems they already rely on, giving them a practical path from experimentation to deployment, and making adoption easier through the right pricing and packaging. Above all, they want to trust that the company helping them make this transformation is invested in their success and building for their needs.
 
-At OpenAI, I feel the commitment at every level, in every function. We are wholeheartedly focused on continuously earning the right to help enterprises – and the people behind them – reinvent their companies for the future of AGI with clarity, confidence, and trust. It's the opportunity and responsibility of a lifetime, and I couldn’t be more excited about what we’re building with our customers and partners.   
+At OpenAI, I feel the commitment at every level, in every function. We are wholeheartedly focused on continuously earning the right to help enterprises – and the people behind them – reinvent their companies for the future of AGI with clarity, confidence, and trust. It’s the opportunity and responsibility of a lifetime, and I couldn’t be more excited about what we’re building with our customers and partners.   
   
 
 
@@ -96,17 +101,17 @@ OpenAI
 
 [View all](</news/>)
 
-![dell](https://images.ctfassets.net/kftzwdyauwt9/17U8SngLERoATdFhOjWbDK/da377e6850f8241ea7814a347bad0a3a/Frame.png?w=3840&q=90&fm=webp)
+![How news organizations are using AI > Card Image](https://images.ctfassets.net/kftzwdyauwt9/5nTzxwRy4Is9PQSluyYkWP/d6e7953a692a5a8c926885e2f50a3427/how_news_orgs_use_AI_1x1.png?w=3840&q=90&fm=webp)
 
-[OpenAI and Dell Technologies partner to bring Codex to hybrid and on-premises enterprise environmentsCompanyMay 18, 2026](</index/dell-codex-enterprise-partnership/>)
+[How news organizations use AI to advance their vital missionsCompanyJul 22, 2026](</index/how-news-organizations-are-using-ai/>)
 
-![Frame](https://images.ctfassets.net/kftzwdyauwt9/32jPyVqUObkTrIIyA6tJV1/4eb384b5bb2f21ccea5de7665858a37a/Frame.png?w=3840&q=90&fm=webp)
+![OpenAI Presence 1x1](https://images.ctfassets.net/kftzwdyauwt9/5JBDenSGI6wx5CMPPlaM5J/da9d8e27a0bd70d845a816b28ac641a9/OpenAI_Presence_1x1.png?w=3840&q=90&fm=webp)
 
-[Our response to the TanStack npm supply chain attackCompanyMay 13, 2026](</index/our-response-to-the-tanstack-npm-supply-chain-attack/>)
+[Introducing OpenAI PresenceProductJul 22, 2026](</index/introducing-openai-presence/>)
 
-![OpenAI Campus Network—Student Club Interest Form > card image](https://images.ctfassets.net/kftzwdyauwt9/3gVx8jMHtHwuFpYS10BWBF/b70c85eada669bdabf956c591dfe8bbf/OpenAI_Campus_Networkâ__Student_Club_Interest_Form_-_art_card.png?w=3840&q=90&fm=webp)
+![David Vélez and Robin Vince 1x1](https://images.ctfassets.net/kftzwdyauwt9/7wQKVPmXFJk1gTBLmJTO6N/f90d79c4e011e05fb0d06aebfa3a265c/c47f1f6d-440a-4f0b-a669-50ca79ce1064.png?w=3840&q=90&fm=webp)
 
-[OpenAI Campus Network: Student club interest formCompanyMay 11, 2026](</index/openai-campus-network-student-club-interest-form/>)
+[David Vélez and Robin Vince join OpenAI boardsCompanyJul 21, 2026](</index/david-velez-robin-vince-join-openai-boards/>)
 
 Research
 
@@ -118,9 +123,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -157,6 +162,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -190,6 +197,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

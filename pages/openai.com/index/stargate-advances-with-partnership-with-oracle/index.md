@@ -44,7 +44,7 @@ Oracle and OpenAI have entered an agreement to develop 4.5 gigawatts of addition
 
 Together with our Stargate I site in Abilene, Texas, this additional partnership with Oracle will bring us to over 5 gigawatts of Stargate AI data center capacity under development, which will run over 2 million chips. This significantly advances our progress toward the commitment we announced at the White House in January to invest $500 billion into 10 gigawatts of AI infrastructure in the U.S. over the next four years. We now expect to exceed our initial commitment thanks to strong momentum with partners including Oracle and SoftBank.
 
-It will also drive a significant share of the hundreds of thousands of jobs we expect will be created from Stargate over the coming years. We estimate that building, developing and operating the additional 4.5 GW of data center capacity we're announcing today will create over 100,000 jobs across construction and operations roles in the U.S. This estimate includes direct full-time jobs needed to operate Stargate data centers, short-term construction roles like the many highly specialized electricians at work at our Stargate I site in Abilene, TX, and indirect jobs like manufacturing and local service roles.
+It will also drive a significant share of the hundreds of thousands of jobs we expect will be created from Stargate over the coming years. We estimate that building, developing and operating the additional 4.5 GW of data center capacity we’re announcing today will create over 100,000 jobs across construction and operations roles in the U.S. This estimate includes direct full-time jobs needed to operate Stargate data centers, short-term construction roles like the many highly specialized electricians at work at our Stargate I site in Abilene, TX, and indirect jobs like manufacturing and local service roles.
 
 ![Rows of black server racks with yellow and red network cables in a data center, with overhead cable trays and security cameras visible.](https://images.ctfassets.net/kftzwdyauwt9/7tqf0nmUJOje0efmlacsmK/6264f7bed387439556cb3f4cc3484f9b/IMG_1492.jpg?w=3840&q=90&fm=webp)[](<https://cdn.openai.com/stargate-advances-with-partnership-with-oracle/stargate-advances-with-partnership-with-oracle-2.jpg>)
 
@@ -69,17 +69,17 @@ OpenAI
 
 [View all](</news/>)
 
-![OpenAI acquires Ona > oai 1x1](https://images.ctfassets.net/kftzwdyauwt9/6SkgXCQ08f4AYarun2I3oU/24414c9962c945767f783bdb63006841/OAI-Ona-ArtCard.png?w=3840&q=90&fm=webp)
+![How news organizations are using AI > Card Image](https://images.ctfassets.net/kftzwdyauwt9/5nTzxwRy4Is9PQSluyYkWP/d6e7953a692a5a8c926885e2f50a3427/how_news_orgs_use_AI_1x1.png?w=3840&q=90&fm=webp)
 
-[OpenAI to acquire OnaCompanyJun 11, 2026](</index/openai-to-acquire-ona/>)
+[How news organizations use AI to advance their vital missionsCompanyJul 22, 2026](</index/how-news-organizations-are-using-ai/>)
 
-![Oracle partnership 1x1 art card](https://images.ctfassets.net/kftzwdyauwt9/7zjGwFPBZMvK6zwFSMVWRm/6721ac33e5b1aaf88a9b705a3d10c90a/OAI_Oracle_Partnership_1x1_Art_Card.png?w=3840&q=90&fm=webp)
+![OpenAI Presence 1x1](https://images.ctfassets.net/kftzwdyauwt9/5JBDenSGI6wx5CMPPlaM5J/da9d8e27a0bd70d845a816b28ac641a9/OpenAI_Presence_1x1.png?w=3840&q=90&fm=webp)
 
-[Access OpenAI models and Codex through your Oracle cloud commitmentCompanyJun 10, 2026](</index/openai-on-oracle-cloud/>)
+[Introducing OpenAI PresenceProductJul 22, 2026](</index/introducing-openai-presence/>)
 
-![Confidential submission of draft S-1 to the SEC > cover image](https://images.ctfassets.net/kftzwdyauwt9/36doI12YCwUtp1hzD4d8bj/84e67c565f39e7d5ca3ee011efa69756/confidential-submission-of-draft-s-1-to-the-sec-1x1.png?w=3840&q=90&fm=webp)
+![David Vélez and Robin Vince 1x1](https://images.ctfassets.net/kftzwdyauwt9/7wQKVPmXFJk1gTBLmJTO6N/f90d79c4e011e05fb0d06aebfa3a265c/c47f1f6d-440a-4f0b-a669-50ca79ce1064.png?w=3840&q=90&fm=webp)
 
-[Confidential submission of draft S-1 to the SECCompanyJun 8, 2026](</index/openai-submits-confidential-s-1/>)
+[David Vélez and Robin Vince join OpenAI boardsCompanyJul 21, 2026](</index/david-velez-robin-vince-join-openai-boards/>)
 
 Research
 
@@ -91,9 +91,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -130,6 +130,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -163,6 +165,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

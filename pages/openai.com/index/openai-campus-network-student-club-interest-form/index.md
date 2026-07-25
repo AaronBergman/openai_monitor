@@ -45,7 +45,7 @@ We’re partnering with student clubs across universities worldwide to:
 
 
 
-Whether you're running events, building projects, or leading a community — we’d love to work with you.
+Whether you’re running events, building projects, or leading a community — we’d love to work with you.
 
 ## Tell us about your student club
 

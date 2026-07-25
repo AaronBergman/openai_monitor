@@ -40,7 +40,7 @@ Loading…
 
 Share
 
-It's core to our mission to make tools like ChatGPT broadly available so that people can experience the benefits of AI. More than 100 million people across 185 countries use ChatGPT weekly to learn something new, find creative inspiration, and get answers to their questions. Starting today, you can use ChatGPT instantly, without needing to sign-up. We're rolling this out gradually, with the aim to make AI accessible to anyone curious about its capabilities.
+It’s core to our mission to make tools like ChatGPT broadly available so that people can experience the benefits of AI. More than 100 million people across 185 countries use ChatGPT weekly to learn something new, find creative inspiration, and get answers to their questions. Starting today, you can use ChatGPT instantly, without needing to sign-up. We’re rolling this out gradually, with the aim to make AI accessible to anyone curious about its capabilities.
 
 ![Index > Start Using ChatGPT Instantly > Media Item > Gif 1](https://images.ctfassets.net/kftzwdyauwt9/61n9RO6iK4pFNRoJYQ0ghW/89cb50dd9db75b14d302c4a50cdb8be0/Comp_NoAuth_328.gif?w=3840&q=90&fm=webp)
 
@@ -84,9 +84,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -123,6 +123,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -156,6 +158,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

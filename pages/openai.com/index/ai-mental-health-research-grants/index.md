@@ -26,14 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-What we’re funding 
-
-  * What we’re funding 
-  * How to apply
-  * FAQ
-
-
-
 December 1, 2025
 
 [Company](</news/company-announcements/>)[Safety](</news/safety-alignment/>)
@@ -47,6 +39,20 @@ Introducing a new program to award up to $2 million to support independent safet
 Loading…
 
 Share
+
+What we’re funding 
+
+  * What we’re funding 
+  * How to apply
+  * FAQ
+
+
+
+  * What we’re funding 
+  * How to apply
+  * FAQ
+
+
 
 ##### Update January 28, 2026:
 
@@ -64,7 +70,7 @@ We believe that continuing to support independent research on AI and mental heal
 
 ## What we’re funding 
 
-We're seeking research project proposals that deepen our understanding of the overlap of AI and mental health—both the potential risks and benefits—and help build a safer, more helpful AI ecosystem for everyone. We are particularly interested in interdisciplinary research that combines technical researchers with either mental health experts and those with lived experience. 
+We’re seeking research project proposals that deepen our understanding of the overlap of AI and mental health—both the potential risks and benefits—and help build a safer, more helpful AI ecosystem for everyone. We are particularly interested in interdisciplinary research that combines technical researchers with either mental health experts and those with lived experience. 
 
 Successful projects will produce clear deliverables (datasets, evals, rubrics) or generate**** actionable insights****(like synthesized views from people with lived experience, descriptions of how mental health symptoms manifest in a specific culture, research on language and slang used to discuss mental health topics that classifiers may miss) that can inform OpenAI’s safety work and the AI and mental health community overall.
 
@@ -86,17 +92,17 @@ OpenAI
 
 [View all](</news/>)
 
-![oai 1x1](https://images.ctfassets.net/kftzwdyauwt9/7eONRWq61MKUix4tK4t88Y/170085acc9b241a0bdfba429bd217907/oai_1x1.png?w=3840&q=90&fm=webp)
+![How news organizations are using AI > Card Image](https://images.ctfassets.net/kftzwdyauwt9/5nTzxwRy4Is9PQSluyYkWP/d6e7953a692a5a8c926885e2f50a3427/how_news_orgs_use_AI_1x1.png?w=3840&q=90&fm=webp)
 
-[Advancing youth safety and opportunity through global leadershipGlobal AffairsJun 2, 2026](</index/advancing-youth-safety-and-opportunity-through-global-leadership/>)
+[How news organizations use AI to advance their vital missionsCompanyJul 22, 2026](</index/how-news-organizations-are-using-ai/>)
 
-![Technical foundations > Art Card](https://images.ctfassets.net/kftzwdyauwt9/6gugGfSiM1oO6UHxxwnqTk/c7173a5a2c096a8f8a24c258ddfa22dd/ArtCard-TechnicalFoundations.png?w=3840&q=90&fm=webp)
+![OpenAI Presence 1x1](https://images.ctfassets.net/kftzwdyauwt9/5JBDenSGI6wx5CMPPlaM5J/da9d8e27a0bd70d845a816b28ac641a9/OpenAI_Presence_1x1.png?w=3840&q=90&fm=webp)
 
-[A shared playbook for trustworthy third party evaluationsSafetyMay 29, 2026](</index/trustworthy-third-party-evaluations-foundations/>)
+[Introducing OpenAI PresenceProductJul 22, 2026](</index/introducing-openai-presence/>)
 
-![Frontier Governance Framework > card image ](https://images.ctfassets.net/kftzwdyauwt9/2KoiHuErR5YxXGUnhCU8VY/e392c6249ec4644e07e944edea22e837/Frame2.png?w=3840&q=90&fm=webp)
+![David Vélez and Robin Vince 1x1](https://images.ctfassets.net/kftzwdyauwt9/7wQKVPmXFJk1gTBLmJTO6N/f90d79c4e011e05fb0d06aebfa3a265c/c47f1f6d-440a-4f0b-a669-50ca79ce1064.png?w=3840&q=90&fm=webp)
 
-[OpenAI’s Frontier Governance FrameworkSafetyMay 28, 2026](</index/openai-frontier-governance-framework/>)
+[David Vélez and Robin Vince join OpenAI boardsCompanyJul 21, 2026](</index/david-velez-robin-vince-join-openai-boards/>)
 
 Research
 
@@ -108,9 +114,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -147,6 +153,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -180,6 +188,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

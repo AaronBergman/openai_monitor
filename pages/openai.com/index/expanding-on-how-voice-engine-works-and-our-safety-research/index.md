@@ -49,8 +49,6 @@ How Voice Engine works
 
 
 
-Table of contents
-
   * How Voice Engine works
   * We’ve been developing the model for over a year
   * Building Voice Engine safely is a top priority
@@ -60,7 +58,7 @@ Table of contents
 
 We’re providing more insight into how Voice Engine works and our safety research to keep everyone updated on our progress. Voice Engine is a model capable of creating custom voices.
 
-It's important that people around the world understand where this technology is headed, whether we ultimately deploy it widely ourselves or not. Which is why we want to explain how the model works, how we use it for research and education, and how we are implementing our safety measures around it. Voice Engine is not widely available yet.
+It’s important that people around the world understand where this technology is headed, whether we ultimately deploy it widely ourselves or not. Which is why we want to explain how the model works, how we use it for research and education, and how we are implementing our safety measures around it. Voice Engine is not widely available yet.
 
 ## How Voice Engine works
 
@@ -87,7 +85,7 @@ As part of our iterative deployment framework, this early prototype also played 
   * Phasing out voice based authentication as a security measure for accessing bank accounts and other sensitive information
   * Exploring policies to protect the use of individuals' voices in AI
   * Educating the public in understanding the capabilities and limitations of AI technologies, including the possibility of deceptive AI content
-  * Accelerating the development and adoption of techniques for tracking the origin of audiovisual content, so it's always clear when you're interacting with a real person or with an AI
+  * Accelerating the development and adoption of techniques for tracking the origin of audiovisual content, so it’s always clear when you’re interacting with a real person or with an AI
 
 
 
@@ -125,9 +123,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -164,6 +162,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -197,6 +197,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

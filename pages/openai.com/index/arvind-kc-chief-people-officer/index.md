@@ -38,7 +38,7 @@ Loading…
 
 Share
 
-We're excited to welcome Arvind KC to OpenAI as our Chief People Officer.
+We’re excited to welcome Arvind KC to OpenAI as our Chief People Officer.
 
 KC brings a rare combination of engineering depth and people leadership. Over the course of his career, he has held senior roles at Roblox, Google, Palantir Technologies, and Meta, helping build both products and the organizations behind them at meaningful scale. He understands how high-performing technical teams operate and how strong, practical systems can help people do their best work without slowing them down.
 
@@ -52,7 +52,7 @@ KC's role will be to help OpenAI grow in a way that supports the people doing th
 
 As AI reshapes how work gets done, our Chief People Officer will be central to how we navigate that transition responsibly. We believe we have both an opportunity and an obligation, to our own incredible talent and to society, to provide a model for how companies can navigate the transition to more AI-enabled work that expands what people can do with AI and invest in their growth. This work spans how roles evolve, how new skills are developed, and how education and re-skilling can keep pace with technological change. Over time, we plan to share what we learn with our customers and partners, and hopefully help the broader economy move from theory to practice as AI increasingly becomes part of everyday work.
 
-> “This is a moment where every organization is being asked to rethink how work happens, what teams need, how people grow, and how to adapt as the tools change. I'm excited to join OpenAI as we work through those questions ourselves, and alongside our ecosystem of users, customers, and partners building the future with us.”
+> “This is a moment where every organization is being asked to rethink how work happens, what teams need, how people grow, and how to adapt as the tools change. I’m excited to join OpenAI as we work through those questions ourselves, and alongside our ecosystem of users, customers, and partners building the future with us.”
 
 — Arvind KC, Chief People Officer, OpenAI
 
@@ -69,17 +69,17 @@ OpenAI
 
 [View all](</news/>)
 
-![dell](https://images.ctfassets.net/kftzwdyauwt9/17U8SngLERoATdFhOjWbDK/da377e6850f8241ea7814a347bad0a3a/Frame.png?w=3840&q=90&fm=webp)
+![How news organizations are using AI > Card Image](https://images.ctfassets.net/kftzwdyauwt9/5nTzxwRy4Is9PQSluyYkWP/d6e7953a692a5a8c926885e2f50a3427/how_news_orgs_use_AI_1x1.png?w=3840&q=90&fm=webp)
 
-[OpenAI and Dell Technologies partner to bring Codex to hybrid and on-premises enterprise environmentsCompanyMay 18, 2026](</index/dell-codex-enterprise-partnership/>)
+[How news organizations use AI to advance their vital missionsCompanyJul 22, 2026](</index/how-news-organizations-are-using-ai/>)
 
-![Frame](https://images.ctfassets.net/kftzwdyauwt9/32jPyVqUObkTrIIyA6tJV1/4eb384b5bb2f21ccea5de7665858a37a/Frame.png?w=3840&q=90&fm=webp)
+![OpenAI Presence 1x1](https://images.ctfassets.net/kftzwdyauwt9/5JBDenSGI6wx5CMPPlaM5J/da9d8e27a0bd70d845a816b28ac641a9/OpenAI_Presence_1x1.png?w=3840&q=90&fm=webp)
 
-[Our response to the TanStack npm supply chain attackCompanyMay 13, 2026](</index/our-response-to-the-tanstack-npm-supply-chain-attack/>)
+[Introducing OpenAI PresenceProductJul 22, 2026](</index/introducing-openai-presence/>)
 
-![OpenAI Campus Network—Student Club Interest Form > card image](https://images.ctfassets.net/kftzwdyauwt9/3gVx8jMHtHwuFpYS10BWBF/b70c85eada669bdabf956c591dfe8bbf/OpenAI_Campus_Networkâ__Student_Club_Interest_Form_-_art_card.png?w=3840&q=90&fm=webp)
+![David Vélez and Robin Vince 1x1](https://images.ctfassets.net/kftzwdyauwt9/7wQKVPmXFJk1gTBLmJTO6N/f90d79c4e011e05fb0d06aebfa3a265c/c47f1f6d-440a-4f0b-a669-50ca79ce1064.png?w=3840&q=90&fm=webp)
 
-[OpenAI Campus Network: Student club interest formCompanyMay 11, 2026](</index/openai-campus-network-student-club-interest-form/>)
+[David Vélez and Robin Vince join OpenAI boardsCompanyJul 21, 2026](</index/david-velez-robin-vince-join-openai-boards/>)
 
 Research
 
@@ -91,9 +91,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -130,6 +130,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -163,6 +165,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

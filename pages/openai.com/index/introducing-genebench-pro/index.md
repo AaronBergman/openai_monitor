@@ -259,7 +259,7 @@ These evaluation results—as high as 31.5% on GPT‑5.6 Sol (Pro)—are strikin
 
 Cyrillus Tan, Postdoctoral Research Associate at the New York Genome Center
 
-> “I liked [the questions] mostly. They tended to have a mix of: (1) Required knowledge of the subject, such as C>T bias in ancient DNA, (2) Data discrepancies, such as ancestry swaps, (3) A kind of knowledge of the right analytical tools for the job and how to implement them. It seemed like most of the agents failed on (2). They aren't cautious enough about data issues. Maybe that highlights a weakness of current models. And a lot of biological data has irregularities.”
+> “I liked [the questions] mostly. They tended to have a mix of: (1) Required knowledge of the subject, such as C>T bias in ancient DNA, (2) Data discrepancies, such as ancestry swaps, (3) A kind of knowledge of the right analytical tools for the job and how to implement them. It seemed like most of the agents failed on (2). They aren’t cautious enough about data issues. Maybe that highlights a weakness of current models. And a lot of biological data has irregularities.”
 
 Lex Flagel, Director of Data Science at Gencove  
 
@@ -270,7 +270,7 @@ Lex Flagel, Director of Data Science at Gencove
 
 Cyrillus Tan, Postdoctoral Research Associate at the New York Genome Center
 
-> “I liked [the questions] mostly. They tended to have a mix of: (1) Required knowledge of the subject, such as C>T bias in ancient DNA, (2) Data discrepancies, such as ancestry swaps, (3) A kind of knowledge of the right analytical tools for the job and how to implement them. It seemed like most of the agents failed on (2). They aren't cautious enough about data issues. Maybe that highlights a weakness of current models. And a lot of biological data has irregularities.”
+> “I liked [the questions] mostly. They tended to have a mix of: (1) Required knowledge of the subject, such as C>T bias in ancient DNA, (2) Data discrepancies, such as ancestry swaps, (3) A kind of knowledge of the right analytical tools for the job and how to implement them. It seemed like most of the agents failed on (2). They aren’t cautious enough about data issues. Maybe that highlights a weakness of current models. And a lot of biological data has irregularities.”
 
 Lex Flagel, Director of Data Science at Gencove  
 

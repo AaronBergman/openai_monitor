@@ -44,7 +44,7 @@ This community is for students who know OpenAI's technology well and are excited
 
 Campus leaders help bring practical AI learning to life on their campuses by supporting peer-led activities and community moments. Participants should be prepared to commit approximately **6–8 hours per month on average**.
 
-If you're interested, fill out the form below and we'll be in touch soon.
+If you’re interested, fill out the form below and we’ll be in touch soon.
 
 ## About you
 

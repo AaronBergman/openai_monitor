@@ -48,7 +48,7 @@ Cloudflare is expanding access to OpenAI frontier models, including [_GPT‑5.4_
 
 Agent Cloud runs on top of [_Cloudflare Workers AI_ ⁠(opens in a new window)](<https://www.cloudflare.com/developer-platform/products/workers-ai/>), the company’s platform for running AI models at the edge, making it easy for enterprises to build and deploy AI applications and agents that deliver fast, real-time experiences at global scale. 
 
-"By bringing OpenAI’s powerful models directly into the Cloudflare environment, we are collapsing the distance between intelligence and the end user. This allows developers to build sophisticated, AI-driven applications and agents that aren't just smart, but are lightning-fast and globally scalable by default. Whether it’s using Codex to streamline development workflows or deploying AI applications and agents at scale, we’re proud to provide the infrastructure that makes the next generation AI-native stack possible," said Dane Knecht, chief technology officer at Cloudflare. 
+"By bringing OpenAI’s powerful models directly into the Cloudflare environment, we are collapsing the distance between intelligence and the end user. This allows developers to build sophisticated, AI-driven applications and agents that aren’t just smart, but are lightning-fast and globally scalable by default. Whether it’s using Codex to streamline development workflows or deploying AI applications and agents at scale, we’re proud to provide the infrastructure that makes the next generation AI-native stack possible," said Dane Knecht, chief technology officer at Cloudflare. 
 
 The expansion of OpenAI within Agent Cloud builds on Cloudflare’s broader push to bring the most-advanced AI capabilities, including tools like [_Codex_ ⁠](<https://openai.com/codex/>), to enterprises. The Codex harness is now generally available in Cloudflare Sandboxes, a secure virtual environment where developers can build, run, and test their AI applications. It will also be available in Workers AI in the near future. 
 
@@ -71,17 +71,17 @@ OpenAI
 
 [View all](</news/>)
 
-![oai 1x1 Biodefense in the Intelligence Age](https://images.ctfassets.net/kftzwdyauwt9/6A4rrCBs9rrlbzm9JWIvSi/8a4ae56849fcd0b16e90b59b8babc613/oai_1x1_Biodefense_in_the_Intelligence_Age.png?w=3840&q=90&fm=webp)
+![effingham county 1x1](https://images.ctfassets.net/kftzwdyauwt9/3f1fyaaSZELql3zECUImW3/1733a5ee7f07da894b993dcff75bea66/effingham_county_1x1.png?w=3840&q=90&fm=webp)
 
-[Biodefense in the Intelligence AgeGlobal AffairsJun 4, 2026](</index/biodefense-in-the-intelligence-age/>)
+[Building AI infrastructure with the Effingham County communityGlobal AffairsJul 22, 2026](</index/building-ai-infrastructure-with-the-effingham-county-community/>)
 
-![OpenAI’s public policy agenda > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/CdH7XdsXfpUaYZJpeCwwz/76b975c66fce3ce5ec4a901b4f675369/Frame.png?w=3840&q=90&fm=webp)
+![Advancing the next era of national science card image](https://images.ctfassets.net/kftzwdyauwt9/1aUcaaPHlPQbaN0EzEUrEc/95d5f6d78ab308305bf4781c07ccc4fd/Advancing_the_next_era_of_national_science_1x1.png?w=3840&q=90&fm=webp)
 
-[OpenAI public policy agendaGlobal AffairsJun 3, 2026](</index/public-policy-agenda/>)
+[Advancing the next era of national scienceGlobal AffairsJul 22, 2026](</index/advancing-the-next-era-of-national-science/>)
 
-![Frontier Safety Blueprint > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/6zU111Ouj65b8iZJnswHBe/a705de1c90ab048510532db2f53f12f3/Frame.png?w=3840&q=90&fm=webp)
+![Helping build shared standards for advanced AI - card image](https://images.ctfassets.net/kftzwdyauwt9/5bSU7ItzcBWGtWhApmmJ6X/a818a91ef36b39ed07d62566ec318760/Frame2.png?w=3840&q=90&fm=webp)
 
-[A blueprint for democratic governance of frontier AIGlobal AffairsJun 3, 2026](</index/frontier-safety-blueprint/>)
+[The US is advancing AI safety through state and federal actionGlobal AffairsJul 15, 2026](</index/advancing-ai-safety-through-state-and-federal-action/>)
 
 Research
 
@@ -93,9 +93,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -132,6 +132,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -165,6 +167,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

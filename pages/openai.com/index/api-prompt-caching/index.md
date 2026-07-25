@@ -26,13 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Prompt Caching Availability & Pricing
-
-  * Prompt Caching Availability & Pricing
-  * Monitoring Cache Usage
-
-
-
 October 1, 2024
 
 [Product](</news/product-releases/>)
@@ -45,13 +38,25 @@ Offering automatic discounts on inputs that the model has recently seen
 
 Share
 
+Prompt Caching Availability & Pricing
+
+  * Prompt Caching Availability & Pricing
+  * Monitoring Cache Usage
+
+
+
+  * Prompt Caching Availability & Pricing
+  * Monitoring Cache Usage
+
+
+
 Many developers use the same context repeatedly across multiple API calls when building AI applications, like when making edits to a codebase or having long, multi-turn conversations with a chatbot. Today, we’re introducing Prompt Caching, allowing developers to reduce costs and latency. By reusing recently seen input tokens, developers can get a 50% discount and faster prompt processing times.
 
 ## Prompt Caching Availability & Pricing
 
 Starting today, Prompt Caching is automatically applied on the latest versions of GPT‑4o, GPT‑4o mini, o1‑preview and o1‑mini, as well as fine-tuned versions of those models. Cached prompts are offered at a discount compared to uncached prompts.
 
-Here's an overview of pricing:
+Here’s an overview of pricing:
 
 | **Uncached Input Tokens**| **Cached Input Tokens**| **Output Tokens**  
 ---|---|---|---  
@@ -157,9 +162,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -196,6 +201,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -229,6 +236,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

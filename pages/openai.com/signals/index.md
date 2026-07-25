@@ -172,7 +172,7 @@ Research and analysis on how AI is being adopted and its impact on the economy a
 
 ### Stay updated
 
-If you're interested in learning more about OpenAI's Economic Research work and future updates to this dataset, please sign up below.
+If you’re interested in learning more about OpenAI's Economic Research work and future updates to this dataset, please sign up below.
 
 First name *
 

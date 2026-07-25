@@ -36,7 +36,7 @@ Say hello to OpenAI o1—a new series of AI models designed to spend more time t
 
 Share
 
-> "It's impossible to be an expert in every single gene. There's 20,000 genes, you can't keep everything straight. But AI can."
+> "It’s impossible to be an expert in every single gene. There’s 20,000 genes, you can’t keep everything straight. But AI can."
 
 Catherine Brownstein, Geneticist
 
@@ -50,9 +50,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -89,6 +89,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -122,6 +124,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

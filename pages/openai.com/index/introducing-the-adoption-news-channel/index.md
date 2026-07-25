@@ -38,19 +38,15 @@ Loading…
 
 Share
 
-What you'll find here
+What you’ll find here
 
-  * What you'll find here
-
-  * How we'll support you going forward
-
+  * What you’ll find here
+  * How we’ll support you going forward
 
 
 
-  * What you'll find here
-
-  * How we'll support you going forward
-
+  * What you’ll find here
+  * How we’ll support you going forward
 
 
 
@@ -66,21 +62,21 @@ That is why we are launching the Adoption channel, a new OpenAI business blog fo
 
 This channel is for leaders navigating that transition: C Level executives, heads of AI, transformation and adoption leaders, and the operators and advisors helping enterprises adapt to an AI-native world.
 
-### What you'll find here
+### What you’ll find here
 
   1. **Where AI creates value and what "good" looks like**: Clear thinking on where AI drives meaningful business value, how leaders should evaluate opportunity, and what strong execution looks like in practice.
   2. **How organizations successfully scale AI** : Practical insight into what helps adoption spread, what causes it to stall, and how leading organizations move from experimentation to real operating change.
   3. **How AI reshapes operating models and roles** : What changes when AI becomes part of daily work: how responsibilities shift, how leaders govern differently, and how organizations design for trust, control, and performance.
-  4. **What 's durable versus hype in the AI market**: A grounded view of what matters, what is noise, and which developments are likely to shape enterprise decisions in lasting ways.
+  4. **What’s durable versus hype in the AI market** : A grounded view of what matters, what is noise, and which developments are likely to shape enterprise decisions in lasting ways.
   5. **Vertical perspectives anchored in enterprise realities** : How these questions play out differently across industries, with attention to real constraints, systems, workflows, and regulatory environments.
 
 
 
-For this, we will explore and share frameworks, decision lenses, operating patterns, and examples from the field. More than anything else, we'll share concrete explanations of what leading organizations are doing differently. Our goal is not just to describe where AI is going, but to help leaders decide what to do next.
+For this, we will explore and share frameworks, decision lenses, operating patterns, and examples from the field. More than anything else, we’ll share concrete explanations of what leading organizations are doing differently. Our goal is not just to describe where AI is going, but to help leaders decide what to do next.
 
-### How we'll support you going forward
+### How we’ll support you going forward
 
-We'll keep the writing direct, rigorous, and useful: short enough for executives to read, substantive enough to help you decide, and grounded in implementation realities.
+We’ll keep the writing direct, rigorous, and useful: short enough for executives to read, substantive enough to help you decide, and grounded in implementation realities.
 
 If you are building in this space, shaping operating models, or guiding adoption, we designed this resource for you. AI is changing work quickly and our goal is to help leaders drive that change with clarity and confidence.
 
@@ -90,6 +86,10 @@ Welcome to Adoption news. Follow us to start building your advantage.
 
 [View all](</news/>)
 
+![Building AI for the ambitions of small businesses > Card image](https://images.ctfassets.net/kftzwdyauwt9/7wmfLwQnQQpV1xogqASUpR/76c80831b475e17a187ba35a7e0a46c8/SMB_launch_blog_1x1.png?w=3840&q=90&fm=webp)
+
+[Introducing the ChatGPT for small business programAI AdoptionJul 21, 2026](</index/introducing-chatgpt-small-business-program/>)
+
 ![How to manage AI investments in the agentic era > Cover image](https://images.ctfassets.net/kftzwdyauwt9/1qXMreHMXalbFSVXr2CJXW/acbd7f4e05bd38b80a99523967ef69b7/Frame.png?w=3840&q=90&fm=webp)
 
 [How to manage AI investments in the agentic eraAI AdoptionJul 14, 2026](</index/managing-ai-investments-in-agentic-era/>)
@@ -97,10 +97,6 @@ Welcome to Adoption news. Follow us to start building your advantage.
 ![Codex maxxing 1x1](https://images.ctfassets.net/kftzwdyauwt9/5RFmrNey5oX93M1WyqCs4o/5b6ccdce4022764200e06739cda7c21f/Codex_maxxing_1x1.png?w=3840&q=90&fm=webp)
 
 [Codex-Maxxing for Long-Running WorkAI AdoptionJun 22, 2026](</index/codex-maxxing-long-running-work/>)
-
-![Introducing OpenAI Academy courses > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/2mmXo430NiaNqyi6YrRtnh/715ab11fa5003dd50acff55adcb4a5fd/Frame.png?w=3840&q=90&fm=webp)
-
-[New OpenAI Academy courses for the next era of workAI AdoptionJun 12, 2026](</index/academy-courses-applying-ai-at-work/>)
 
 Research
 

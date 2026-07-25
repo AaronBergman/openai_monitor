@@ -42,8 +42,6 @@ Optimizing product listings to drive sales with the Mercari AI Assistant
 
 
 
-Table of contents
-
   * Optimizing product listings to drive sales with the Mercari AI Assistant
   * Investing in AI with a top-down and bottom-up approach 
   * The Future of AI at Mercari
@@ -104,7 +102,7 @@ Strong leadership and grassroots innovation were both critical in embracing AI i
 
 The rise of ChatGPT and rapid advancements in AI prompted the company to reassess its strategy. “We had very strong top-down support to make these initiatives happen,” Frenzel explains. “Our leadership, from the Group CEO to the C2C Marketplace CEO, emphasized the importance of not missing this AI wave.”
 
-This top-down approach was complemented by grassroots innovation. Developers across the company began experimenting with AI tools, developing Slack bots and quick web applications. “We also saw it converge from the top down and from the bottom up,” says Frenzel. “We're now creating a centralized hub where everyone across the company can submit their tools and bots, fostering a collaborative environment for AI integration.”
+This top-down approach was complemented by grassroots innovation. Developers across the company began experimenting with AI tools, developing Slack bots and quick web applications. “We also saw it converge from the top down and from the bottom up,” says Frenzel. “We’re now creating a centralized hub where everyone across the company can submit their tools and bots, fostering a collaborative environment for AI integration.”
 
 This dynamic combination of top-down leadership and bottom-up innovation has been instrumental in Mercari's successful integration of AI.
 
@@ -126,7 +124,7 @@ The AI/LLM team focuses on three parallel goals:
 
 The Supply team is looking to improve the post-sale experience for users. “One unique aspect of Mercari is the number of offline tasks that users need to manage,” Hishii explains. “There are additional tasks after a sale as well such as packaging and shipping. Choosing the right packaging, shipping method, and shipping origin can still be pain points for many users. We want to work with OpenAI to provide support in these experiences as well.”
 
-By integrating OpenAI's advanced models, Mercari aims to create a cohesive AI ecosystem where each interaction enhances the platform's capabilities. “OpenAI is our key partner in this process,” Frenzel explains. “The key features we've launched so far were all developed in partnership using OpenAI's models. We're being bold and committing to future developments of AI we expect will come from OpenAI.”
+By integrating OpenAI's advanced models, Mercari aims to create a cohesive AI ecosystem where each interaction enhances the platform's capabilities. “OpenAI is our key partner in this process,” Frenzel explains. “The key features we’ve launched so far were all developed in partnership using OpenAI's models. We’re being bold and committing to future developments of AI we expect will come from OpenAI.”
 
 ## Interested in learning more about ChatGPT for business?
 
@@ -144,7 +142,7 @@ By integrating OpenAI's advanced models, Mercari aims to create a cohesive AI ec
 
 [Data-driven beauty and creativity with ChatGPTNov 13, 2024](</index/estee-lauder/>)
 
-![\[2.0\] Card > Media > Morgan Stanley](https://images.ctfassets.net/kftzwdyauwt9/5mCz669MifU0i9wCvVpIq1/7c67daad163769492a70a186fd606feb/oai_morganstanley_1_1.png?w=3840&q=90&fm=webp)
+![Morgan Stanley logo in white, displayed over a sleek blue-toned reflective surface with smooth, intersecting edges.](https://images.ctfassets.net/kftzwdyauwt9/5mCz669MifU0i9wCvVpIq1/7c67daad163769492a70a186fd606feb/oai_morganstanley_1_1.png?w=3840&q=90&fm=webp)
 
 [Shaping the future of financial servicesDec 4, 2024](</index/morgan-stanley/>)
 
@@ -158,9 +156,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -197,6 +195,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -230,6 +230,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

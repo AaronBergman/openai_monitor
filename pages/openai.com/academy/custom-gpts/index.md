@@ -26,15 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Custom GPTs vs. general chat
-
-  * Custom GPTs vs. general chat
-  * Custom GPTs built by the OpenAI team
-  * How to build a custom GPT 
-  * Additional resources 
-
-
-
 April 10, 2026
 
 OpenAI Academy
@@ -46,6 +37,28 @@ Build purpose-built ChatGPT assistants that follow your instructions, use your c
 Loading…
 
 Share
+
+Custom GPTs vs. general chat
+
+  * Custom GPTs vs. general chat
+  * Custom GPTs built by the OpenAI team
+  * How to build a custom GPT 
+    * 1\. Identify strong use cases
+    * 2\. Create GPT
+    * 3\. Test your GPT’s performance
+  * Additional resources 
+
+
+
+  * Custom GPTs vs. general chat
+  * Custom GPTs built by the OpenAI team
+  * How to build a custom GPT 
+    * 1\. Identify strong use cases
+    * 2\. Create GPT
+    * 3\. Test your GPT’s performance
+  * Additional resources 
+
+
 
 Some versions of ChatGPT let you build **custom GPTs** —purpose-built versions of ChatGPT designed for a specific task or workflow. Instead of starting from a blank chat each time, a custom GPT can follow your preferred format, use your team’s context, and produce more consistent outputs—whether you’re drafting content, analyzing recurring datasets, generating visuals, or answering common questions.
 
@@ -101,7 +114,7 @@ When you open the GPT builder, you will see two tabs: **Create** and **Configure
 
 If you want to define the details of your GPT more precisely, go to the **Configure** tab and complete the required fields:
 
-  * **Name** : Choose a clear, descriptive name so it's easy to find and its purpose is immediately understood.
+  * **Name** : Choose a clear, descriptive name so it’s easy to find and its purpose is immediately understood.
   * **Description** : Explain what the GPT does and when to use it.
   * **Instructions** : Define how the GPT should behave, including its functions, tone, and any behaviors to avoid. 
   * **Conversation starters (Optional)** : Provide example prompts that appear when users open the GPT. These help guide users on how to begin their interaction.
@@ -128,7 +141,7 @@ Before[ sharing your GPT⁠(opens in a new window)](<https://help.openai.com/art
 
 
 
-**Tip:** When making changes, don’t forget to click**“Update”** in the top right to save them. It’s easy to miss, especially when you're returning to reconfigure an existing GPT.
+**Tip:** When making changes, don’t forget to click**“Update”** in the top right to save them. It’s easy to miss, especially when you’re returning to reconfigure an existing GPT.
 
 Building a custom GPT doesn’t have to be complex. Start with a workflow you already repeat, draft a first version of the instructions, and test it with a small set of examples. You’ll learn quickly what to adjust—and small refinements usually make a big difference. Once it feels reliable, share it with your team so everyone can get to the same quality output faster, with less effort.
 
@@ -151,17 +164,17 @@ Discover additional guides and resources to help you build practical AI skills.
 
 [View all](</news/>)
 
-![Academy > Skills > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/5HjfQo619jC918nhDM0S4p/a788f0e356c534e61f30e6607402b5ab/skills.png?w=3840&q=90&fm=webp)
+![How sales teams use Codex > card image](https://images.ctfassets.net/kftzwdyauwt9/1O4te2wMh6O77eDV6kapG3/02845b054a09297b9fada40c4cc9a71f/sales_teams.png?w=3840&q=90&fm=webp)
 
-[Using skillsOpenAI AcademyApr 10, 2026](</academy/skills/>)
+[How sales teams use ChatGPT Work | OpenAIOpenAI AcademyJul 14, 2026](</academy/codex-for-work/how-sales-teams-use-codex/>)
 
-![Academy > Prompting > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/6KuWyesIgCbrJUzXckTYSx/20183733ba66b4b535fe978fc7ec985b/your-first-chat.png?w=3840&q=90&fm=webp)
+![How data science teams use Codex > card image](https://images.ctfassets.net/kftzwdyauwt9/xyevYnp4Ptaa1eMgBDNjS/75fea80018f321b89809d893f1a5786d/data_science_teams.png?w=3840&q=90&fm=webp)
 
-[Prompting fundamentalsOpenAI AcademyApr 10, 2026](</academy/prompting/>)
+[How data science teams use ChatGPT Work | OpenAIOpenAI AcademyJul 14, 2026](</academy/codex-for-work/how-data-science-teams-use-codex/>)
 
-![Academy > Personalizing ChatGPT > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/2s9rOdoSHProR3I6Ai5P5/8ca619f82211ade2d76316f04aa3fbcc/personalizing-chatgpt.png?w=3840&q=90&fm=webp)
+![Academy > Getting started > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/1Xk9723QKj2Vb9dC6RMebS/5e588c112042794e62178a224eaff418/getting-started.png?w=3840&q=90&fm=webp)
 
-[Personalizing ChatGPTOpenAI AcademyApr 10, 2026](</academy/personalization/>)
+[Getting started with ChatGPT | OpenAIOpenAI AcademyJul 10, 2026](</academy/getting-started/>)
 
 Research
 
@@ -173,9 +186,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -212,6 +225,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -245,6 +260,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

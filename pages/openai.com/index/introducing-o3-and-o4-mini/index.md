@@ -41,44 +41,26 @@ Share
 What’s changed
 
   * What’s changed
-
   * Continuing to scale reinforcement learning
-
   * Thinking with images
-
   * Toward agentic tool use
-
   * Safety
-
   * Codex CLI: frontier reasoning in the terminal
-
   * Access
-
-  * What's next
-
+  * What’s next
   * Livestream replay
-
 
 
 
   * What’s changed
-
   * Continuing to scale reinforcement learning
-
   * Thinking with images
-
   * Toward agentic tool use
-
   * Safety
-
   * Codex CLI: frontier reasoning in the terminal
-
   * Access
-
-  * What's next
-
+  * What’s next
   * Livestream replay
-
 
 
 
@@ -108,7 +90,7 @@ In expert evaluations, o4-mini also outperforms its predecessor, o3‑mini, on n
 
 ## Continuing to scale reinforcement learning
 
-Throughout the development of OpenAI o3, we’ve observed that large-scale reinforcement learning exhibits the same **“more compute = better performance** ” trend observed in GPT‑series pretraining. By retracing the scaling path—this time in RL—we’ve pushed an additional order of magnitude in both training compute and inference-time reasoning, yet still see clear performance gains, validating that the models’ performance continues to improve the more they’re allowed to think. At equal latency and cost with OpenAI o1, o3 delivers higher performance in ChatGPT—and we've validated that if we let it think longer, its performance keeps climbing.
+Throughout the development of OpenAI o3, we’ve observed that large-scale reinforcement learning exhibits the same **“more compute = better performance** ” trend observed in GPT‑series pretraining. By retracing the scaling path—this time in RL—we’ve pushed an additional order of magnitude in both training compute and inference-time reasoning, yet still see clear performance gains, validating that the models’ performance continues to improve the more they’re allowed to think. At equal latency and cost with OpenAI o1, o3 delivers higher performance in ChatGPT—and we’ve validated that if we let it think longer, its performance keeps climbing.
 
 We also trained both models to**use tools through reinforcement learning** —teaching them not just how to use tools, but to reason about when to use them. Their ability to deploy tools based on desired outcomes makes them more capable in open-ended situations—particularly those involving visual reasoning and multi-step workflows. This improvement is reflected both in academic benchmarks and real-world tasks, as reported by early testers. 
 
@@ -144,11 +126,11 @@ Reasoned about polynomial construction for 55 seconds
 
   * The curve defined by p(x) = p(y) factors if p(x) is decomposable or has repeated factors. Actually, p(x)-p(y) always factors, and it’s divisible by (x-y). This gives one factor, and the rest is a degree d-1 polynomial in x and y. For the curve to have at least three irreducible components, p(x)-p(y) must factor into at least three nontrivial factors. Each factor corresponds to a component in projective space, and at least one must be nonlinear.
   * I’m checking the Dickson polynomials D_n(x,a) and focusing on their coefficients. With a=1, it seems the leading coefficient is always 1, confirming that Dickson polynomials are monic. The linear coefficient for odd n is following a predictable sign pattern: for n=19, it gives a coefficient of -19, which is exactly what I need. So the Dickson polynomial D_n(x,1) with odd n fits nicely with the linear coefficient I was looking for.
-  * I've confirmed that the linear coefficient for p(x)=D19(x)p(x) = D_{19}(x)p(x)=D19​(x) is correct, with the necessary scaling factor to match. Now for the next step, I need to compute D19(19)D_{19}(19)D19​(19). Since Tn(z)T_n(z)Tn​(z) grows quickly for real z>1z > 1z>1, I plan to compute this value using Python, leveraging the recurrence to avoid mistakes—it's going to be a big number. I'll make sure to present the numeric result neatly so it's understandable since the coefficients are integers.
-  * The Dickson polynomial D_{19}(x,1) is confirmed to have the required properties: monic, odd, real coefficients, and a linear coefficient of -19. The factorization of D_{19}(x) into irreducible components is also verified and satisfies the condition of having at least 10 components (1 linear + 9 quadratics). To compute p(19), we'll use the recurrence relation for Dickson polynomials, but there's also a closed-form expression involving cosine that could be handy here. I'll proceed accordingly!
-  * I confirmed the linear coefficient is working correctly, which means now I need to calculate p(19)=D19(19)p(19) = D_{19}(19)p(19)=D19​(19). This involves evaluating T19(9.5)T_{19}(9.5)T19​(9.5), which grows rapidly. To ensure I get an accurate result, I'll compute this using recurrence in Python. The result is a large number: 1,876,572,071,974,094,803,391,179. I'll use the commas to make it easier to read: p(19)=1,876,572,071,974,094,803,391,179p(19) = 1,876,572,071,974,094,803,391,179p(19)=1,876,572,071,974,094,803,391,179.
+  * I’ve confirmed that the linear coefficient for p(x)=D19(x)p(x) = D_{19}(x)p(x)=D19​(x) is correct, with the necessary scaling factor to match. Now for the next step, I need to compute D19(19)D_{19}(19)D19​(19). Since Tn(z)T_n(z)Tn​(z) grows quickly for real z>1z > 1z>1, I plan to compute this value using Python, leveraging the recurrence to avoid mistakes—it’s going to be a big number. I’ll make sure to present the numeric result neatly so it’s understandable since the coefficients are integers.
+  * The Dickson polynomial D_{19}(x,1) is confirmed to have the required properties: monic, odd, real coefficients, and a linear coefficient of -19. The factorization of D_{19}(x) into irreducible components is also verified and satisfies the condition of having at least 10 components (1 linear + 9 quadratics). To compute p(19), we’ll use the recurrence relation for Dickson polynomials, but there’s also a closed-form expression involving cosine that could be handy here. I’ll proceed accordingly!
+  * I confirmed the linear coefficient is working correctly, which means now I need to calculate p(19)=D19(19)p(19) = D_{19}(19)p(19)=D19​(19). This involves evaluating T19(9.5)T_{19}(9.5)T19​(9.5), which grows rapidly. To ensure I get an accurate result, I’ll compute this using recurrence in Python. The result is a large number: 1,876,572,071,974,094,803,391,179. I’ll use the commas to make it easier to read: p(19)=1,876,572,071,974,094,803,391,179p(19) = 1,876,572,071,974,094,803,391,179p(19)=1,876,572,071,974,094,803,391,179.
   * For a = 1, there’s a relationship between Dickson polynomials and Chebyshev polynomials: D_n(x, 1) = 2^(n-1) T_n(x/2). Checking this, we see that the definition of D_n(u + 1/u) aligns well with Chebyshev’s formula. By setting x = 2 cos(θ), we find that D_n(x) equals 2 T_n(x/2). Importantly, the leading coefficient works out to 1, confirming the identity holds. This is nice!
-  * Now, I need to verify that p(x)−p(y)p(x) - p(y)p(x)−p(y) factors as desired, relying on the known Dickson polynomial factorization. According to the literature (like Fried and Jarden), the difference Dn(x)−Dn(y)D_n(x) - D_n(y)Dn​(x)−Dn​(y) factors into a product involving (x−y)(x - y)(x−y) and other expressions. I'll provide the explicit polynomial D19(x,1)D_{19}(x, 1)D19​(x,1), list the coefficients, and explain how it satisfies the desired properties: monic, odd, etc. Lastly, I'll compute p(19)p(19)p(19).
+  * Now, I need to verify that p(x)−p(y)p(x) - p(y)p(x)−p(y) factors as desired, relying on the known Dickson polynomial factorization. According to the literature (like Fried and Jarden), the difference Dn(x)−Dn(y)D_n(x) - D_n(y)Dn​(x)−Dn​(y) factors into a product involving (x−y)(x - y)(x−y) and other expressions. I’ll provide the explicit polynomial D19(x,1)D_{19}(x, 1)D19​(x,1), list the coefficients, and explain how it satisfies the desired properties: monic, odd, etc. Lastly, I’ll compute p(19)p(19)p(19).
 
 
 
@@ -385,25 +367,25 @@ Thought for 1m 19s
 
 I’m piecing together a degree 19 polynomial with only odd powers and a linear coefficient of -19, like: p(x)=x19+a17x17+…+a1xp(x) = x^{19} + a_{17}x^{17} + \ldots + a_1xp(x)=x19+a17​x17+…+a1​x.
 
-I'm examining if the polynomial p(x)=x19+a17x17+…+a3x3−19xp(x) = x^{19} + a_{17}x^{17} + \ldots + a_3x^3 - 19xp(x)=x19+a17​x17+…+a3​x3−19x has a notable classical form, considering symmetry or factorization for multiple irreducible components.
+I’m examining if the polynomial p(x)=x19+a17x17+…+a3x3−19xp(x) = x^{19} + a_{17}x^{17} + \ldots + a_3x^3 - 19xp(x)=x19+a17​x17+…+a3​x3−19x has a notable classical form, considering symmetry or factorization for multiple irreducible components.
 
 To ensure p(x)p(x)p(x) has three or more irreducible components, I’m considering the factorization of p(x)−p(y)p(x) - p(y)p(x)−p(y) into at least three irreducible factors in C[x,y]\mathbb{C}[x,y]C[x,y].
 
-I'm working through x19−y19x^{19} - y^{19}x19−y19 to ensure it balances linear and nonlinear factors, aiming for a polynomial with at least three irreducible components that aren't all linear.
+I’m working through x19−y19x^{19} - y^{19}x19−y19 to ensure it balances linear and nonlinear factors, aiming for a polynomial with at least three irreducible components that aren’t all linear.
 
 Taking a closer look at how p(x)−p(y)p(x) - p(y)p(x)−p(y) can be factored into three distinct polynomials in xxx, aiming to achieve the desired irreducible components.
 
-I'm thinking about how composing ppp with simpler polynomials, like xm−cx^m - cxm−c, could result in multiple irreducible components, achieving at least three distinct factors.
+I’m thinking about how composing ppp with simpler polynomials, like xm−cx^m - cxm−c, could result in multiple irreducible components, achieving at least three distinct factors.
 
 I’m exploring the factorization of p(x)−p(y)p(x) - p(y)p(x)−p(y) with cyclotomic polynomials. This method generates nnn linear irreducible factors, which might not achieve the required three distinct components.
 
-I'm focusing on constructing an "odd" and monic polynomial, ensuring all exponents are odd and the leading term is x19x^{19}x19. This approach aims to achieve the desired factorization.
+I’m focusing on constructing an "odd" and monic polynomial, ensuring all exponents are odd and the leading term is x19x^{19}x19. This approach aims to achieve the desired factorization.
 
-I'm working with the Chebyshev polynomials to ensure p(x)−p(y)p(x) - p(y)p(x)−p(y) has at least three irreducible components, leveraging their even or odd properties to manage coefficients.
+I’m working with the Chebyshev polynomials to ensure p(x)−p(y)p(x) - p(y)p(x)−p(y) has at least three irreducible components, leveraging their even or odd properties to manage coefficients.
 
 Considering the odd Chebyshev polynomial T19(x)T_{19}(x)T19​(x) for potential factorization, while also examining composite polynomials of lower degrees to enhance factorization properties.
 
-I'm analyzing how a polynomial composed of lower-degree polynomials, like (x3−3x)k(x^3 - 3x)^k(x3−3x)k, could yield p(x)−p(y)p(x) - p(y)p(x)−p(y) with at least three irreducible components.
+I’m analyzing how a polynomial composed of lower-degree polynomials, like (x3−3x)k(x^3 - 3x)^k(x3−3x)k, could yield p(x)−p(y)p(x) - p(y)p(x)−p(y) with at least three irreducible components.
 
 Piecing together polynomials with integer coefficients, like (x3−3x)k(x^3 - 3x)^k(x3−3x)k, to achieve factorization in p(x)−p(y)p(x) - p(y)p(x)−p(y) with at least three irreducible components, aiming for degree 19.
 
@@ -413,13 +395,13 @@ I’m analyzing p(x)−p(y)p(x) - p(y)p(x)−p(y) into (x−y)(x18+x17y+…+y18�
 
 I’m thinking through a new approach: adjusting the Chebyshev polynomial T19(x)T_{19}(x)T19​(x) to make it monic, aiming to achieve at least three irreducible components in p(x)−p(y)p(x) - p(y)p(x)−p(y).
 
-OK, let's think through. I’m tweaking T19(x)T_{19}(x)T19​(x)'s coefficients to keep the polynomial monic and check if it simplifies into multiple irreducible components.
+OK, let’s think through. I’m tweaking T19(x)T_{19}(x)T19​(x)'s coefficients to keep the polynomial monic and check if it simplifies into multiple irreducible components.
 
-I'm thinking over various factorization strategies for a monic polynomial of degree 19. The goal is to ensure at least one non-linear factor and achieve at least three irreducible components in p(x)−p(y)p(x) - p(y)p(x)−p(y).
+I’m thinking over various factorization strategies for a monic polynomial of degree 19. The goal is to ensure at least one non-linear factor and achieve at least three irreducible components in p(x)−p(y)p(x) - p(y)p(x)−p(y).
 
 I’m updating my approach to factor x2+xy+y2−1x^2 + xy + y^2 - 1x2+xy+y2−1 over complex numbers by exploring change of variables and third roots of unity. This helps in achieving the desired polynomial structure.
 
-I'm combining x3−xx^3 - xx3−x with x19−19xx^{19} - 19xx19−19x to tweak the polynomial's coefficients and complexity, aiming to include more non-linear factors for the desired irreducibility.
+I’m combining x3−xx^3 - xx3−x with x19−19xx^{19} - 19xx19−19x to tweak the polynomial's coefficients and complexity, aiming to include more non-linear factors for the desired irreducibility.
 
 Piecing together p(x)=x19−x3−19xp(x) = x^{19} - x^3 - 19xp(x)=x19−x3−19x to ensure it’s odd, monic, and has the required linear coefficient. This targets the desired irreducible factorizations.
 
@@ -433,7 +415,7 @@ I’m mapping out the polynomial x(x18−1)−y(y18−1)x−y\frac{x(x^{18}-1) -
 
 I’m exploring whether the polynomial p(x)=x19−(x3)p(x) = x^19 - (x^3)p(x)=x19−(x3) can be expressed as the composition of a smaller polynomial with xkx^kxk, potentially revealing multiple irreducible components.
 
-I'm examining if the polynomial T19(x)T_{19}(x)T19​(x) can be factored using trigonometric identities, seeking partial factorization without fully linearizing, to gain multiple irreducible components.
+I’m examining if the polynomial T19(x)T_{19}(x)T19​(x) can be factored using trigonometric identities, seeking partial factorization without fully linearizing, to gain multiple irreducible components.
 
 OK, let me see. Trigonometric identities show multiple solutions for θ\thetaθ and ϕ\phiϕ, likely leading to 19 or 38 linear factors for T19(x)T_{19}(x)T19​(x).
 
@@ -449,7 +431,7 @@ By tweaking the linear coefficient of p(x)=x3(x2−1)8+cxp(x) = x^3 (x^2 - 1)^8 
 
 I’m working on adding a constant factor ccc to xxx in p(x)=x3(x2−1)8+cxp(x) = x^3 (x^2 - 1)^8 + c xp(x)=x3(x2−1)8+cx to ensure the linear coefficient is -19, making the polynomial monic, odd, and real.
 
-I'm piecing together the polynomial p(x)=x3(x−1)8(x+1)8p(x) = x^3 (x-1)^8 (x+1)^8p(x)=x3(x−1)8(x+1)8 and considering how p(x)−p(y)p(x) - p(y)p(x)−p(y) might factor with factors like x−yx-yx−y.
+I’m piecing together the polynomial p(x)=x3(x−1)8(x+1)8p(x) = x^3 (x-1)^8 (x+1)^8p(x)=x3(x−1)8(x+1)8 and considering how p(x)−p(y)p(x) - p(y)p(x)−p(y) might factor with factors like x−yx-yx−y.
 
 I’m confirming p(x)p(x)p(x) is monic, odd, and real, with a linear coefficient of -19, by expanding x3(x2−1)8x^3 (x^2 -1)^8x3(x2−1)8 to set the constant ccc.
 
@@ -550,7 +532,7 @@ We expect to release OpenAI o3‑pro in a few weeks with full tool support. For 
 
 Both o3 and o4-mini are also available to developers today via the Chat Completions API and Responses API (some developers will need to [verify their organizations⁠(opens in a new window)](<https://help.openai.com/en/articles/10910291-api-organization-verification>) to access these models). The Responses API supports reasoning summaries, the ability to preserve reasoning tokens around function calls for better performance, and will soon support built-in tools like web search, file search, and code interpreter within the model’s reasoning. To get started, [explore our docs⁠⁠(opens in a new window)](<https://platform.openai.com/docs/guides/reasoning?api-mode=responses>) and stay tuned for more updates.
 
-## What's next
+## What’s next
 
 Today's updates reflect the direction our models are heading in: we’re converging the specialized reasoning capabilities of the o-series with more of the natural conversational abilities and tool use of the GPT‑series. By unifying these strengths, our future models will support seamless, natural conversations alongside proactive tool use and advanced problem-solving.
 
@@ -558,7 +540,7 @@ Today's updates reflect the direction our models are heading in: we’re converg
 
 _**Update on July 28, 2025:**__SWE-Lancer dataset and results updated as of July 17, 2025, available at:_[_https://github.com/openai/preparedness_ ⁠(opens in a new window)](<https://github.com/openai/preparedness>)_and in our system cards. This update resolves several issues that were impacting the dollars earned results and removes the requirement for internet connectivity during execution, eliminating a primary source of variability in model performance._
 
-_**Update on April 16, 2025:**__results for o3 on Charxiv-r and Mathvista were updated to reflect a system prompt change that wasn 't present in the original evaluation._
+_**Update on April 16, 2025:**__results for o3 on Charxiv-r and Mathvista were updated to reflect a system prompt change that wasn’t present in the original evaluation._
 
 ## Livestream replay
 

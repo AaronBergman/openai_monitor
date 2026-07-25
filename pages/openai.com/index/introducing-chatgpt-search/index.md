@@ -26,14 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Designed to get you to a better answer
-
-  * Designed to get you to a better answer
-  * Go straight to the source 
-  * How it works and what comes next
-
-
-
 October 31, 2024
 
 [Product](</news/product-releases/>)
@@ -47,6 +39,20 @@ Get fast, timely answers with links to relevant web sources.
 Loading…
 
 Share
+
+Designed to get you to a better answer
+
+  * Designed to get you to a better answer
+  * Go straight to the source 
+  * How it works and what comes next
+
+
+
+  * Designed to get you to a better answer
+  * Go straight to the source 
+  * How it works and what comes next
+
+
 
  _Update on February 5, 2025: ChatGPT search is now available to everyone in regions where ChatGPT is available. No signup required._
 
@@ -95,7 +101,7 @@ Louis Dreyfus, CEO & Publisher of Le Monde
 
 ChatGPT search connects people with original, high-quality content from the web and makes it part of their conversation. By integrating search with a chat interface, users can engage with information in a new way, while content owners gain new opportunities to reach a broader audience. We hope to help users discover publishers and websites, while bringing more choice to search.
 
-> “As AI reshapes the media landscape, Axel Springer’s partnership with OpenAI opens up tremendous opportunities for innovative advancements. Together, we're driving new business models that ensure journalism remains both trustworthy and profitable.”
+> “As AI reshapes the media landscape, Axel Springer’s partnership with OpenAI opens up tremendous opportunities for innovative advancements. Together, we’re driving new business models that ensure journalism remains both trustworthy and profitable.”
 
 Mathias Sanchez, SVP Global Strategic Partnerships Axel Springer SE
 
@@ -164,9 +170,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -203,6 +209,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -236,6 +244,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

@@ -26,16 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-How it works
-
-  * How it works
-  * Availability & pricing
-  * Safety & privacy
-  * Getting started
-  * What’s next
-
-
-
 October 1, 2024
 
 [Product](</news/product-releases/>)
@@ -48,6 +38,26 @@ Developers can now build fast speech-to-speech experiences into their applicatio
 
 Share
 
+How it works
+
+  * How it works
+    * Powering customer support agents, language learning assistants, and more
+  * Availability & pricing
+  * Safety & privacy
+  * Getting started
+  * What’s next
+
+
+
+  * How it works
+    * Powering customer support agents, language learning assistants, and more
+  * Availability & pricing
+  * Safety & privacy
+  * Getting started
+  * What’s next
+
+
+
  _Update on August 28, 2025: We announced the general availability of the Realtime API._[_Learn more here_](</index/introducing-gpt-realtime/>) _._
 
 * * *
@@ -56,7 +66,7 @@ _Update on February 3, 2025: We no longer limit the number of simultaneous sessi
 
 * * *
 
-_Update on October 30, 2024: We 've added five new voices with greater range and expressiveness_. _Cached pricing is now also available for text and audio inputs, lowering the price to $2.50/1M cached text input tokens and $20/1M cached audio input tokens._[_Learn more here_ ⁠(opens in a new window)](<https://platform.openai.com/docs/guides/realtime>)_._
+_Update on October 30, 2024: We’ve added five new voices with greater range and expressiveness_. _Cached pricing is now also available for text and audio inputs, lowering the price to $2.50/1M cached text input tokens and $20/1M cached audio input tokens._[_Learn more here_ ⁠(opens in a new window)](<https://platform.openai.com/docs/guides/realtime>)_._
 
 * * *
 
@@ -64,7 +74,7 @@ _Update on October 17, 2024: Audio inputs and outputs are now available in the C
 
 * * *
 
-Today, we're introducing a public beta of the Realtime API, enabling all paid developers to build low-latency, multimodal experiences in their apps. Similar to ChatGPT’s Advanced Voice Mode, the Realtime API supports natural speech-to-speech conversations using the [_six preset voices_ ⁠(opens in a new window)](<https://platform.openai.com/docs/guides/text-to-speech>) already supported in the API.
+Today, we’re introducing a public beta of the Realtime API, enabling all paid developers to build low-latency, multimodal experiences in their apps. Similar to ChatGPT’s Advanced Voice Mode, the Realtime API supports natural speech-to-speech conversations using the [_six preset voices_ ⁠(opens in a new window)](<https://platform.openai.com/docs/guides/text-to-speech>) already supported in the API.
 
 We’re also introducing audio input and output in the [_Chat Completions API_ ⁠(opens in a new window)](<https://platform.openai.com/docs/guides/chat-completions>) to support use cases that don’t require the low-latency benefits of the Realtime API. With this update, developers can pass any text or audio inputs into [_GPT‑4o_ ⁠](<https://openai.com/index/hello-gpt-4o/>) and have the model respond with their choice of text, audio, or both.
 
@@ -96,7 +106,7 @@ The Realtime API uses both text tokens and audio tokens. Text input tokens are p
 
 The Realtime API uses multiple layers of safety protections to mitigate the risk of API abuse, including automated monitoring and human review of flagged model inputs and outputs. The Realtime API is built on the same version of GPT‑4o that powers Advanced Voice Mode in ChatGPT, which we carefully assessed using both automated and human evaluations, including evaluations according to our [_Preparedness Framework_ ⁠](<https://openai.com/preparedness>), detailed in the [_GPT‑4o System Card_ ⁠](<https://openai.com/index/gpt-4o-system-card/#observed-safety-challenges-evaluations-and-mitigations>). The Realtime API also leverages the same audio safety infrastructure we built for Advanced Voice Mode, which our testing shows has helped to reduce the potential for harm. 
 
-It is against our [_usage policies_ ⁠](<https://openai.com/policies/usage-policies/>) to repurpose or distribute output from our services to spam, mislead, or otherwise harm others – and we actively monitor for potential abuse. Our policies also require developers to make it clear to their users that they are interacting with AI, unless it's obvious from the context. 
+It is against our [_usage policies_ ⁠](<https://openai.com/policies/usage-policies/>) to repurpose or distribute output from our services to spam, mislead, or otherwise harm others – and we actively monitor for potential abuse. Our policies also require developers to make it clear to their users that they are interacting with AI, unless it’s obvious from the context. 
 
 Prior to launch, we tested the Realtime API with our external red teaming network and found that the Realtime API didn’t introduce any high-risk gaps not covered by our existing mitigations. As with all API services, the Realtime API is subject to our [_Enterprise privacy_ ⁠](<https://openai.com/enterprise-privacy/>) commitments. We do not train our models on the inputs or outputs used in this service without your explicit permission. 
 
@@ -118,7 +128,7 @@ As we work towards general availability, we’re actively collecting feedback to
 
 
 
-We're looking forward to seeing how developers leverage these new capabilities to create compelling new audio experiences for their users across a variety of use cases from education to translation, customer service, accessibility and beyond. 
+We’re looking forward to seeing how developers leverage these new capabilities to create compelling new audio experiences for their users across a variety of use cases from education to translation, customer service, accessibility and beyond. 
 
   * [API Platform](</news/?tags=api-platform>)
   * [2024](</news/?tags=2024>)
@@ -139,9 +149,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -178,6 +188,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -211,6 +223,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

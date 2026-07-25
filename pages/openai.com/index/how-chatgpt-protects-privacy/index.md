@@ -26,6 +26,18 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
+May 6, 2026
+
+[Global Affairs](</news/global-affairs/>)
+
+# How ChatGPT learns about the world while protecting privacy 
+
+A plain-language guide to model training, privacy safeguards, and the privacy choices available in ChatGPT.
+
+Loading…
+
+Share
+
 What information may be used in training
 
   * What information may be used in training
@@ -42,17 +54,19 @@ What information may be used in training
 
 
 
-May 6, 2026
+  * What information may be used in training
+  * How we reduce personal information in training
+  * Privacy controls in ChatGPT
+  * Preserving privacy in responses
+  * A responsibility we take seriously
+  * Comment ChatGPT apprend à connaître le monde tout en protégeant la vie privée
+  * Quels renseignements peuvent être utilisés pour l’entraînement
+  * Comment nous réduisons les renseignements personnels dans l’entraînement
+  * Contrôles de confidentialité dans ChatGPT
+  * Protection de la vie privée dans les réponses
+  * Une responsabilité que nous prenons au sérieux
 
-[Global Affairs](</news/global-affairs/>)
 
-# How ChatGPT learns about the world while protecting privacy 
-
-A plain-language guide to model training, privacy safeguards, and the privacy choices available in ChatGPT.
-
-Loading…
-
-Share
 
  _Editor 's note for Canada: The French text follows the English text (Le texte français suit le texte anglais)._
 
@@ -86,7 +100,7 @@ Users can choose whether their conversations with ChatGPT help train future mode
 
 In addition, [Memory⁠(opens in a new window)](<https://help.openai.com/en/articles/8590148-memory-faq>) makes ChatGPT’s responses more useful by remembering things you don’t want to keep reminding ChatGPT—like important people in your life, projects you’re working on, or topics you usually ask about. It’s always optional: you can review, edit, or delete saved memories, or turn memory off entirely. When it’s off, ChatGPT won’t save or reference memory from past chats.
 
-Users can also export their ChatGPT data, delete their account, manage data controls from settings, and submit privacy requests through the [privacy request portal⁠(opens in a new window)](<https://privacy.openai.com/>). Users should not share sensitive information in ChatGPT that they wouldn't want to be used or reviewed. 
+Users can also export their ChatGPT data, delete their account, manage data controls from settings, and submit privacy requests through the [privacy request portal⁠(opens in a new window)](<https://privacy.openai.com/>). Users should not share sensitive information in ChatGPT that they wouldn’t want to be used or reviewed. 
 
 ## Preserving privacy in responses
 
@@ -156,19 +170,17 @@ OpenAI
 
 [View all](</news/>)
 
-![Frame](https://images.ctfassets.net/kftzwdyauwt9/5PD5E0PhvNP8ogbhvNxdKF/42a592f5b93580d940065610304c3f22/Frame.png?w=3840&q=90&fm=webp)
+![effingham county 1x1](https://images.ctfassets.net/kftzwdyauwt9/3f1fyaaSZELql3zECUImW3/1733a5ee7f07da894b993dcff75bea66/effingham_county_1x1.png?w=3840&q=90&fm=webp)
 
-Industrial policy for the Intelligence Age
+[Building AI infrastructure with the Effingham County communityGlobal AffairsJul 22, 2026](</index/building-ai-infrastructure-with-the-effingham-county-community/>)
 
-[Industrial policy for the Intelligence AgeGlobal AffairsJun 9, 2026](</index/industrial-policy-for-the-intelligence-age/>)
+![Advancing the next era of national science card image](https://images.ctfassets.net/kftzwdyauwt9/1aUcaaPHlPQbaN0EzEUrEc/95d5f6d78ab308305bf4781c07ccc4fd/Advancing_the_next_era_of_national_science_1x1.png?w=3840&q=90&fm=webp)
 
-![oai 1x1 Biodefense in the Intelligence Age](https://images.ctfassets.net/kftzwdyauwt9/6A4rrCBs9rrlbzm9JWIvSi/8a4ae56849fcd0b16e90b59b8babc613/oai_1x1_Biodefense_in_the_Intelligence_Age.png?w=3840&q=90&fm=webp)
+[Advancing the next era of national scienceGlobal AffairsJul 22, 2026](</index/advancing-the-next-era-of-national-science/>)
 
-[Biodefense in the Intelligence AgeGlobal AffairsJun 4, 2026](</index/biodefense-in-the-intelligence-age/>)
+![Helping build shared standards for advanced AI - card image](https://images.ctfassets.net/kftzwdyauwt9/5bSU7ItzcBWGtWhApmmJ6X/a818a91ef36b39ed07d62566ec318760/Frame2.png?w=3840&q=90&fm=webp)
 
-![Frontier Safety Blueprint > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/6zU111Ouj65b8iZJnswHBe/a705de1c90ab048510532db2f53f12f3/Frame.png?w=3840&q=90&fm=webp)
-
-[A blueprint for democratic governance of frontier AIGlobal AffairsJun 3, 2026](</index/frontier-safety-blueprint/>)
+[The US is advancing AI safety through state and federal actionGlobal AffairsJul 15, 2026](</index/advancing-ai-safety-through-state-and-federal-action/>)
 
 Research
 
@@ -180,9 +192,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -219,6 +231,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -252,6 +266,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

@@ -42,7 +42,7 @@ Share
 
 Today, we’re announcing a new Stargate campus in Saline Township, Michigan, as part of our 4.5GW [_partnership_ ⁠](<https://openai.com/index/stargate-advances-with-partnership-with-oracle/>) with Oracle. Combined with capacity from our six [_previously announced_ ⁠](<https://openai.com/index/five-new-stargate-sites/>) U.S. Stargate sites with Oracle and SoftBank, this project brings Stargate to over 8 gigawatts of planned capacity and more than $450 billion in investment over the next three years—accelerating our progress and keeping us ahead of schedule to meet the $500 billion, 10-gigawatt commitment we announced in January.
 
-The infrastructure and manufacturing needed to advance AI give us a real chance to [_reindustrialize_ ⁠(opens in a new window)](<https://cdn.openai.com/pdf/21b88bb5-10a3-4566-919d-f9a6b9c3e632/openai-ostp-rfi-oct-27-2025.pdf>) the country, and it should happen in places like Michigan. AI will unlock major benefits—from better healthcare to improved public services—and the buildout required to get there will generate significant opportunities along the way. We're investing through Stargate to help ensure communities across the country benefit both from building AI infrastructure and from all of the progress that AI itself makes possible.
+The infrastructure and manufacturing needed to advance AI give us a real chance to [_reindustrialize_ ⁠(opens in a new window)](<https://cdn.openai.com/pdf/21b88bb5-10a3-4566-919d-f9a6b9c3e632/openai-ostp-rfi-oct-27-2025.pdf>) the country, and it should happen in places like Michigan. AI will unlock major benefits—from better healthcare to improved public services—and the buildout required to get there will generate significant opportunities along the way. We’re investing through Stargate to help ensure communities across the country benefit both from building AI infrastructure and from all of the progress that AI itself makes possible.
 
 The Stargate Michigan campus is being developed by [Related Digital⁠(opens in a new window)](<https://www.related-digital.com/news/openai-oracle-and-related-digital-announce-stargate-data-center-site-in-michigan>), with construction expected to begin in early 2026, and will create more than 2,500 union construction jobs. The site will use a closed-loop cooling system that significantly reduces water consumption. DTE Energy will serve the campus using existing excess transmission capacity—avoiding impacts on local energy supply—and any upgrades required to support operations will be funded by the project and not local ratepayers.
 
@@ -63,17 +63,17 @@ OpenAI
 
 [View all](</news/>)
 
-![oai 1x1 Biodefense in the Intelligence Age](https://images.ctfassets.net/kftzwdyauwt9/6A4rrCBs9rrlbzm9JWIvSi/8a4ae56849fcd0b16e90b59b8babc613/oai_1x1_Biodefense_in_the_Intelligence_Age.png?w=3840&q=90&fm=webp)
+![effingham county 1x1](https://images.ctfassets.net/kftzwdyauwt9/3f1fyaaSZELql3zECUImW3/1733a5ee7f07da894b993dcff75bea66/effingham_county_1x1.png?w=3840&q=90&fm=webp)
 
-[Biodefense in the Intelligence AgeGlobal AffairsJun 4, 2026](</index/biodefense-in-the-intelligence-age/>)
+[Building AI infrastructure with the Effingham County communityGlobal AffairsJul 22, 2026](</index/building-ai-infrastructure-with-the-effingham-county-community/>)
 
-![OpenAI’s public policy agenda > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/CdH7XdsXfpUaYZJpeCwwz/76b975c66fce3ce5ec4a901b4f675369/Frame.png?w=3840&q=90&fm=webp)
+![How news organizations are using AI > Card Image](https://images.ctfassets.net/kftzwdyauwt9/5nTzxwRy4Is9PQSluyYkWP/d6e7953a692a5a8c926885e2f50a3427/how_news_orgs_use_AI_1x1.png?w=3840&q=90&fm=webp)
 
-[OpenAI public policy agendaGlobal AffairsJun 3, 2026](</index/public-policy-agenda/>)
+[How news organizations use AI to advance their vital missionsCompanyJul 22, 2026](</index/how-news-organizations-are-using-ai/>)
 
-![Frontier Safety Blueprint > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/6zU111Ouj65b8iZJnswHBe/a705de1c90ab048510532db2f53f12f3/Frame.png?w=3840&q=90&fm=webp)
+![Advancing the next era of national science card image](https://images.ctfassets.net/kftzwdyauwt9/1aUcaaPHlPQbaN0EzEUrEc/95d5f6d78ab308305bf4781c07ccc4fd/Advancing_the_next_era_of_national_science_1x1.png?w=3840&q=90&fm=webp)
 
-[A blueprint for democratic governance of frontier AIGlobal AffairsJun 3, 2026](</index/frontier-safety-blueprint/>)
+[Advancing the next era of national scienceGlobal AffairsJul 22, 2026](</index/advancing-the-next-era-of-national-science/>)
 
 Research
 
@@ -85,9 +85,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -124,6 +124,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -157,6 +159,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

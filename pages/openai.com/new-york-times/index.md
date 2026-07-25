@@ -26,6 +26,8 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
+# Reporting the facts about the New York Times’ lawsuit
+
 The Times invades the privacy of tens of millions of people
 
   * The Times invades the privacy of tens of millions of people
@@ -41,7 +43,18 @@ The Times invades the privacy of tens of millions of people
 
 
 
-# Reporting the facts about the New York Times’ lawsuit
+  * The Times invades the privacy of tens of millions of people
+  * Additional update: 
+  * Update on December 16, 2025:
+  * AI training is fair use 
+  * As the case progressed, the Court rejected several of the Times’ claims
+  * The Court also rejected claims brought by Ziff Davis
+  * During discovery phase, the Times made false claims about data destruction
+  * The Court dismisses the related Raw Story Media & Alternet Media case
+  * The Times introduces references to their legal claims in stories about OpenAI 
+  * We file our first legal response to the New York Times’ lawsuit
+
+
 
  _The New York Times says this lawsuit is about protecting journalism and principles. In reality, it’s about their lack of principles in pursuit of pure business interests. We’ve been consistent in our support for journalism, the long-established principles of fair use, and the Constitution 's promise of a more open, competitive future for sharing knowledge._
 
@@ -57,7 +70,7 @@ We have been actively fighting the Times’ [demand](</index/fighting-nyt-user-p
 
 ## Additional update: 
 
-The District Court judge has issued a ruling on our appeal and we have complied with the order, as we are obligated to do. Below, we outline steps we've taken to de-identify data and tightly control access to it, as well as our continued efforts to protect user privacy throughout this legal process.
+The District Court judge has issued a ruling on our appeal and we have complied with the order, as we are obligated to do. Below, we outline steps we’ve taken to de-identify data and tightly control access to it, as well as our continued efforts to protect user privacy throughout this legal process.
 
 ## Update on December 16, 2025:
 
@@ -208,9 +221,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -247,6 +260,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -280,6 +295,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

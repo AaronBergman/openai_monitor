@@ -49,8 +49,6 @@ How memory has evolved
 
 
 
-Table of contents
-
   * How memory has evolved
   * How we evaluate memory
   * Carrying forward context
@@ -112,7 +110,7 @@ We can evaluate how ChatGPT Plus and Pro memory has improved over time with resp
 
 When you start a new chat with ChatGPT, you don’t have to introduce yourself from scratch. ChatGPT can save you time and _build on prior context_ , especially for complex, long-running projects.
 
-For example, imagine you’re using ChatGPT to shop for new camera gear that's compatible with your current camera. If you've discussed your camera setup with ChatGPT in the past, you can ask for products that are compatible with "my photography setup" and get tailored recommendations that meet your needs.
+For example, imagine you’re using ChatGPT to shop for new camera gear that’s compatible with your current camera. If you’ve discussed your camera setup with ChatGPT in the past, you can ask for products that are compatible with "my photography setup" and get tailored recommendations that meet your needs.
 
 ## Without memory
 
@@ -213,7 +211,7 @@ Imagine that you’re planning a trip to Singapore. Two months before your trip,
 
 ## Without memory
 
-Help me plan a trip to Singapore. I'm going to be there for a work trip in July and will have a few days free at the end.
+Help me plan a trip to Singapore. I’m going to be there for a work trip in July and will have a few days free at the end.
 
 Great add-on city for a work trip: Singapore is compact, safe, excellent for solo exploring, and easy to do in 2–4 free days. July is hot and humid; expect daytime highs around 31–33°C / 88–91°F, warm nights, and sudden rain, so plan outdoor time early morning or after 5 p.m. and keep midday for museums, malls, cafés, or hotel downtime. Singapore’s official weather service notes typical daily highs of 31–33°C and lows of 23–25°C. ([_Singapore Weather Service_ ⁠(opens in a new window)](<https://www.weather.gov.sg/climate-climate-of-singapore/?utm_source=chatgpt.com>))
 
@@ -265,11 +263,11 @@ Bring breathable work clothes, comfortable walking shoes, a small umbrella, and 
 
 My suggested balance: **Day 1 Marina Bay/Gardens, Day 2 Chinatown–Kampong Glam–Little India, Day 3 Botanic Gardens or Sentosa**. That gives you the Singapore highlights without turning your post-work break into another work project.
 
-_The model produces a generic response that is more touristy, doesn 't help with hotel booking, and largely ignores the user's interests._
+_The model produces a generic response that is more touristy, doesn’t help with hotel booking, and largely ignores the user 's interests._
 
 ## With memory
 
-Help me plan a trip to Singapore. I'm going to be there for a work trip in July and will have a few days free at the end.
+Help me plan a trip to Singapore. I’m going to be there for a work trip in July and will have a few days free at the end.
 
 I’ll build this around your known constraints: a few free days after work, hot/humid July weather, wildlife/photography/nature bias, strong AC needs for sleep, and good but not overly social dining. I’ll verify current July logistics and then give a practical short itinerary rather than a generic Singapore list.
 
@@ -331,7 +329,7 @@ _The model produces a response that is personalized to the user’s interests in
 
 Preferences can take several forms:
 
-  1. Instructions for how ChatGPT should respond ("don't bring up Stan again").
+  1. Instructions for how ChatGPT should respond ("don’t bring up Stan again").
   2. Your personal preferences or constraints ("I’m vegetarian")
   3. Implicit preferences that shape what’s relevant to you ("I live near San Francisco" → local options should be tailored to this area)
 
@@ -349,7 +347,7 @@ With dreaming, memories are automatically updated as time passes, allowing ChatG
 
 ## Stale memory
 
-Help me find something for take-out tonight that's still open.
+Help me find something for take-out tonight that’s still open.
 
 It’s **about 5:19 AM Sunday in Singapore** , so your safest take-out/delivery bets are 24-hour places.
 
@@ -369,7 +367,7 @@ _The model thinks the user is still in Singapore._
 
 ## With memory
 
-Help me find something for take-out tonight that's still open.
+Help me find something for take-out tonight that’s still open.
 
 I’ll use Portola Valley / Ladera as the starting point and prioritize places that are plausibly open for takeout tonight, then narrow to low-friction options rather than a huge list.
 
@@ -414,17 +412,17 @@ OpenAI
 
 [View all](</news/>)
 
-![Production Resampling > Art Card](https://images.ctfassets.net/kftzwdyauwt9/6TwSElUf3XVkAiLOvIis8O/de2de5d4b9f94a3dea5403702a4f34ce/Art_Card.png?w=3840&q=90&fm=webp)
+![Health in ChatGPT > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/48aIp3cQOKJ57vpQeqOb8y/2e8732bcad5ceea1c7b20cf001bd2823/1_1_Art_Card.png?w=3840&q=90&fm=webp)
 
-[Predicting model behavior before release by simulating deploymentResearchJun 16, 2026](</index/deployment-simulation/>)
+[Launching Health in ChatGPT ProductJul 23, 2026](</index/health-in-chatgpt/>)
 
-![Intro-OAI-Partner-ArtCard](https://images.ctfassets.net/kftzwdyauwt9/U6bb3rlwvYyhf2q835WWx/d50f5492dded3c21aa6d69c07d3b2a44/Introducing_OAI_Partner_Network_artcard.png?w=3840&q=90&fm=webp)
+![OpenAI Presence 1x1](https://images.ctfassets.net/kftzwdyauwt9/5JBDenSGI6wx5CMPPlaM5J/da9d8e27a0bd70d845a816b28ac641a9/OpenAI_Presence_1x1.png?w=3840&q=90&fm=webp)
 
-[Introducing the OpenAI Partner NetworkProductJun 14, 2026](</index/introducing-openai-partner-network/>)
+[Introducing OpenAI PresenceProductJul 22, 2026](</index/introducing-openai-presence/>)
 
-![Rosalind5.5 ArtCard](https://images.ctfassets.net/kftzwdyauwt9/6USIQM1B7TggUvvTFxxwoi/0176ac6633c8bdc24641d25d1d2db824/GPT-Rosalind_ArtCard.png?w=3840&q=90&fm=webp)
+![GPT-5.6 is now the preferred model in Microsoft 365 Copilot > Cover image](https://images.ctfassets.net/kftzwdyauwt9/3MPipvFMxS8m3kTyCtwFgj/015747dcd34cb667a221688cfca64e0f/Frame.png?w=3840&q=90&fm=webp)
 
-[Introducing new capabilities to GPT-RosalindProductJun 3, 2026](</index/introducing-new-capabilities-to-gpt-rosalind/>)
+[GPT-5.6 is now the preferred model in Microsoft 365 CopilotProductJul 9, 2026](</index/gpt-5-6-preferred-model-microsoft-365-copilot/>)
 
 Research
 
@@ -436,9 +434,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -475,6 +473,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -508,6 +508,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

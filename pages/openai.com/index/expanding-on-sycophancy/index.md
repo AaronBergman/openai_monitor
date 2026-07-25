@@ -26,18 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-How we update models in ChatGPT
-
-  * How we update models in ChatGPT
-  * How we currently review models before deployment
-  * What went wrong in training the April 25th model update
-  * Why did we not catch this in our review process?
-  * What we did to address the issue
-  * What we’ll improve in our process
-  * What we’re learning
-
-
-
 May 2, 2025
 
 [Product](</news/product-releases/>)
@@ -52,11 +40,33 @@ Loading…
 
 Share
 
+How we update models in ChatGPT
+
+  * How we update models in ChatGPT
+  * How we currently review models before deployment
+  * What went wrong in training the April 25th model update
+  * Why did we not catch this in our review process?
+  * What we did to address the issue
+  * What we’ll improve in our process
+  * What we’re learning
+
+
+
+  * How we update models in ChatGPT
+  * How we currently review models before deployment
+  * What went wrong in training the April 25th model update
+  * Why did we not catch this in our review process?
+  * What we did to address the issue
+  * What we’ll improve in our process
+  * What we’re learning
+
+
+
 On April 25th, we rolled out an update to GPT‑4o in ChatGPT that made the model noticeably more sycophantic. It aimed to please the user, not just as flattery, but also as validating doubts, fueling anger, urging impulsive actions, or reinforcing negative emotions in ways that were not intended. Beyond just being uncomfortable or unsettling, this kind of behavior can raise safety concerns—including around issues like mental health, emotional over-reliance, or risky behavior.
 
 We began rolling that update back on April 28th, and users now have access to an earlier version of GPT‑4o with more balanced responses. Earlier this week, we shared initial details about [this issue⁠](</index/sycophancy-in-gpt-4o/>)—why it was a miss, and what we intend to do about it.
 
-We didn’t catch this before launch, and we want to explain why, what we’ve learned, and what we’ll improve. We're also sharing more technical detail on how we train, review, and deploy model updates to help people understand how ChatGPT gets upgraded and what drives our decisions.
+We didn’t catch this before launch, and we want to explain why, what we’ve learned, and what we’ll improve. We’re also sharing more technical detail on how we train, review, and deploy model updates to help people understand how ChatGPT gets upgraded and what drives our decisions.
 
 ## How we update models in ChatGPT
 
@@ -103,7 +113,7 @@ With the recent GPT‑4o update, we started the rollout on Thursday, April 24th 
 
 We took immediate action by pushing updates to the system prompt late Sunday night to mitigate much of the negative impact quickly, and initiated a full rollback to the previous GPT‑4o version on Monday. The full rollback took around 24 hours to manage stability and avoid introducing new issues across the deployment.
 
-Today, GPT‑4o traffic is now using this previous version. Since the rollback, we've been working to fully understand what went wrong and make longer-term improvements.
+Today, GPT‑4o traffic is now using this previous version. Since the rollback, we’ve been working to fully understand what went wrong and make longer-term improvements.
 
 ## What we’ll improve in our process
 
@@ -112,7 +122,7 @@ Today, GPT‑4o traffic is now using this previous version. Since the rollback, 
   * **Value spot checks and interactive testing more:** We take to heart the lesson that spot checks and interactive testing should be valued more in final decision-making before making a model available to any of our users. This has always been true for red teaming and high-level safety checks. We’re learning from this experience that it’s equally true for qualities like model behavior and consistency, because so many people now depend on our models to help in their daily lives.
   * **Improve our offline evals and A/B experiments:** Improving our offline evals and our A/B experiments are both important and we’re working to do this quickly.
   * **Better evaluate adherence to our model behavior principles:** As our models become more capable and widely used, it’s important to define what ideal behavior actually looks like. That’s the goal of our [_Model Spec_ ⁠(opens in a new window)](<https://model-spec.openai.com/2025-02-12.html>), to give a clearer window into what we’re aiming for when we train and evaluate new versions of ChatGPT. But stating our goals isn’t enough on its own. They need to be backed by strong evals. While we have extensive evals in areas like instruction hierarchy and safety (e.g. privacy, disallowed content), we’re working to improve our confidence in areas we’re not already accounting for.
-  * **Communicate more proactively:** We also made communication errors. Because we expected this to be a fairly subtle update, we didn't proactively announce it. Also, our release notes didn’t have enough information about the changes we'd made. Going forward, we’ll proactively communicate about the updates we’re making to the models in ChatGPT, whether “subtle” or not. And like we do with major model launches, when we announce incremental updates to ChatGPT, we’ll now include an explanation of known limitations so users can understand the good and the bad.
+  * **Communicate more proactively:** We also made communication errors. Because we expected this to be a fairly subtle update, we didn’t proactively announce it. Also, our release notes didn’t have enough information about the changes we’d made. Going forward, we’ll proactively communicate about the updates we’re making to the models in ChatGPT, whether “subtle” or not. And like we do with major model launches, when we announce incremental updates to ChatGPT, we’ll now include an explanation of known limitations so users can understand the good and the bad.
 
 
 
@@ -124,7 +134,7 @@ Here are the big takeaways we’re taking forward:
 
   * **We need to treat model behavior issues as launch-blocking like we do other safety risks:** We place a significant weight on aligning model values with people's welfare, both in preparing our short-term deployments and in shaping our long-term research strategy. However, our process for reviewing general model behavior has been less robust and formalized relative to areas of currently tracked safety risks (more insights in our public [_system cards_ ⁠(opens in a new window)](<https://cdn.openai.com/gpt-4o-system-card.pdf>)). We now understand that personality and other behavioral issues should be launch blocking, and we’re modifying our processes to reflect that.
   * **We need to be critical of metrics that conflict with qualitative testing:** Quantitative signals matter, but so do the hard-to-measure ones, and we’re working to expand what we evaluate. 
-  * **Our evals won 't catch everything: **We can't predict every issue. For frontier risks we’re aware of (more details in our [_preparedness framework_ ⁠](</index/updating-our-preparedness-framework/>)), we have extensive evaluation and testing in place before launch. But for more subtle or emerging issues, like changes in tone or style, real-world use helps us spot problems and understand what matters most to users. Sometimes our evals will lag behind what we learn in practice, but we’ll keep moving quickly to fix issues and prevent harm.
+  * **Our evals won’t catch everything:** We can’t predict every issue. For frontier risks we’re aware of (more details in our [_preparedness framework_ ⁠](</index/updating-our-preparedness-framework/>)), we have extensive evaluation and testing in place before launch. But for more subtle or emerging issues, like changes in tone or style, real-world use helps us spot problems and understand what matters most to users. Sometimes our evals will lag behind what we learn in practice, but we’ll keep moving quickly to fix issues and prevent harm.
   * **There’s no such thing as a “small” launch:** We’ll try to communicate even subtle changes that can meaningfully change how people interact with ChatGPT.
 
 
@@ -149,9 +159,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -188,6 +198,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -221,6 +233,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

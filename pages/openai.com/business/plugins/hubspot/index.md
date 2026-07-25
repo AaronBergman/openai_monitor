@@ -1,40 +1,30 @@
 Skip to main content
 
-[](</>)[](</business/>)
+[](</>)
 
-  * Why OpenAI
+  * [Research](</research/index/>)
   * Products
-  * Solutions
-  * Resources
-  * [Customers](</business/customer-stories/>)
-  * [Pricing](</business/pricing/>)
+  * [Business](</business/>)
+  * [Developers](</api/>)
+  * [Company](</about/>)
+  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
 
 
 
-Try OpenAI[Contact sales](</contact-sales/>)
+Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
-  * Why OpenAI
+  * Research
   * Products
-  * Solutions
-  * Resources
-  * [Customers](</business/customer-stories/>)
-  * [Pricing](</business/pricing/>)
+  * Business
+  * Developers
+  * Company
+  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
 
 
 
-[Contact sales](</contact-sales/>)Try OpenAI
+[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)Login
 
-OpenAI
-
-New
-
-### Introducing ChatGPT Work: 
-
-A new agent in ChatGPT that helps teams turn ambitious goals into finished work—with enterprise controls and governance built in.
-
-[Learn more](</chatgpt-work/>)
-
-[View all plugins](</business/plugins/>)
+OpenAI[View all plugins](</business/plugins/>)
 
 # HubSpot
 
@@ -62,7 +52,7 @@ Use deep research to run more advanced analyses with your HubSpot context, such 
 
 ### Trusted results aligned to HubSpot permissions
 
-Access is based on a user’s HubSpot permissions, so they only see data they're authorized to view, excluding Sensitive Data Properties and Highly Sensitive Data (e.g. PHI).
+Access is based on a user’s HubSpot permissions, so they only see data they’re authorized to view, excluding Sensitive Data Properties and Highly Sensitive Data (e.g. PHI).
 
 ## Sample prompts
 
@@ -176,6 +166,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

@@ -26,16 +26,31 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
+# How we think about safety and alignment
+
 AGI in many steps rather than one giant leap
 
   * AGI in many steps rather than one giant leap
   * Impacts of AGI
   * Our core principles
+    * Embracing uncertainty
+    * Defense in depth
   * Methods that scale
+    * Human control
+    * Community effort
 
 
 
-# How we think about safety and alignment
+  * AGI in many steps rather than one giant leap
+  * Impacts of AGI
+  * Our core principles
+    * Embracing uncertainty
+    * Defense in depth
+  * Methods that scale
+    * Human control
+    * Community effort
+
+
 
 The mission of OpenAI is to ensure artificial general intelligence (AGI) benefits all of humanity. Safety—the practice of enabling AI’s positive impacts by mitigating the negative ones—is thus core to our mission.
 
@@ -178,9 +193,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -217,6 +232,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -250,6 +267,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

@@ -71,7 +71,7 @@ Accelerating technical investigation
   * Turning rough inputs into decision-ready work
   * Testing ideas earlier with ChatGPT and Codex
   * Leadership lessons
-  * What's next
+  * What’s next
 
 
 
@@ -80,7 +80,7 @@ Accelerating technical investigation
   * Turning rough inputs into decision-ready work
   * Testing ideas earlier with ChatGPT and Codex
   * Leadership lessons
-  * What's next
+  * What’s next
 
 
 
@@ -159,7 +159,7 @@ AP+'s experience offers practical lessons for regulated organizations looking to
 
 —Steve Reid, Chief People and Culture Officer, Australian Payments Plus
 
-## What's next
+## What’s next
 
 As ChatGPT Enterprise becomes part of daily work and Codex adoption grows, AP+ is expanding how teams use AI across product development, technical investigation, and member-facing workflows, always with expert review and human accountability.
 

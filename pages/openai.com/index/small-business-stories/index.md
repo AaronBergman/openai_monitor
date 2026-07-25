@@ -457,7 +457,7 @@ Your instructions are clear. Below is a **professional and investor-focused busi
 
 
 
-If you're ready, we’ll begin with **Section 1: Executive Summary**.
+If you’re ready, we’ll begin with **Section 1: Executive Summary**.
 
 To make that section strong and tailored to your situation, please provide the following:
 
@@ -480,7 +480,7 @@ E7018 is a low-hydrogen rod, which means it’s sensitive to moisture. When it�
 
 ## Share how you’re using ChatGPT
 
-We're interested in real stories from real people: how you're using ChatGPT at work or in everyday life. Big or small, we'd love to hear it.
+We’re interested in real stories from real people: how you’re using ChatGPT at work or in everyday life. Big or small, we’d love to hear it.
 
 [Share your ChatGPT story](</form/share-your-story/>)
 
@@ -498,7 +498,7 @@ We're interested in real stories from real people: how you're using ChatGPT at w
 
 [Making a filmSoraDec 9, 2024](</index/sora-minne-atairu/>)
 
-![Health Liz Thumbnail 1x1 \(1\)](https://images.ctfassets.net/kftzwdyauwt9/5LcO0z0rcFn1MAgQQQhc9j/d7cc9654df9e5b89e59b2b268c672932/Health_Liz_Thumbnail_1x1__1_.png?w=3840&q=90&fm=webp)
+![Three people sit together on a couch in a living room, smiling and reacting as they watch something off-camera.](https://images.ctfassets.net/kftzwdyauwt9/5LcO0z0rcFn1MAgQQQhc9j/d7cc9654df9e5b89e59b2b268c672932/Health_Liz_Thumbnail_1x1__1_.png?w=3840&q=90&fm=webp)
 
 [Navigating healthChatGPTFeb 5, 2026](</index/navigating-health-questions/>)
 
@@ -512,9 +512,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -551,6 +551,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -584,6 +586,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

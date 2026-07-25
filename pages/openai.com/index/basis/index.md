@@ -41,24 +41,16 @@ Share
 Routing accounting tasks to the right OpenAI model
 
   * Routing accounting tasks to the right OpenAI model
-
   * Validating agent output with OpenAI reasoning 
-
   * Driving model benchmarking with reasoning and reviewability
-
   * Scaling trust, not just tasks, with OpenAI
-
 
 
 
   * Routing accounting tasks to the right OpenAI model
-
   * Validating agent output with OpenAI reasoning 
-
   * Driving model benchmarking with reasoning and reviewability
-
   * Scaling trust, not just tasks, with OpenAI
-
 
 
 
@@ -86,7 +78,7 @@ This orchestration allows Basis to continuously improve task coverage and accura
 
 ## Validating agent output with OpenAI reasoning 
 
-In accounting, automation is most useful if it's reviewable. Basis agents act independently but share context through a central layer, surfacing assumptions, data sources, and the logic behind each decision. Basis originally relied on OpenAI o3‑Pro to scale reasoning across workflows, and later migrated to GPT‑5 upon its release for its ability to reason through structured processes and explain how outcomes were reached.
+In accounting, automation is most useful if it’s reviewable. Basis agents act independently but share context through a central layer, surfacing assumptions, data sources, and the logic behind each decision. Basis originally relied on OpenAI o3‑Pro to scale reasoning across workflows, and later migrated to GPT‑5 upon its release for its ability to reason through structured processes and explain how outcomes were reached.
 
 Take a journal entry, for example. The supervising agent reviews supporting materials, retrieves data, references shared context and best practices, and coordinates sub-agents to prepare its work. The accountant sees the entry along with a clear explanation of what data was used, why it was mapped that way, and how confident the system is in its recommendation.
 

@@ -58,17 +58,17 @@ Share
 
 Neuro started in a downtown Los Angeles apartment, where co-founders Ryan Chen and Kent Yoshimura stacked boxes of gum in their living room and hauled shipments themselves. A decade later, Neuro Gum and Mints are on shelves nationwide, supported by a distributed team and global manufacturing partners.
 
-"We're a nine-figure brand with under seventy people," says Chen. "To compete in consumer goods at this scale, we need leverage in every part of the company." ChatGPT Business gives Neuro the leverage to do more with less. Employees first experimented with ChatGPT on their own, but it quickly became company policy.
+"We’re a nine-figure brand with under seventy people," says Chen. "To compete in consumer goods at this scale, we need leverage in every part of the company." ChatGPT Business gives Neuro the leverage to do more with less. Employees first experimented with ChatGPT on their own, but it quickly became company policy.
 
 ### Saving tens of thousands with a second brain
 
-In consumer goods, you're juggling a dozen specialties before you can afford a dozen specialists. "Everyone has to be a generalist," says Tyler Gianesini, Chief Operating Officer. "ChatGPT acts like a second brain that fills the gaps."
+In consumer goods, you’re juggling a dozen specialties before you can afford a dozen specialists. "Everyone has to be a generalist," says Tyler Gianesini, Chief Operating Officer. "ChatGPT acts like a second brain that fills the gaps."
 
-That support has changed how Neuro handles costly areas like regulatory and legal. "We draft, refine, and stress-test contracts in ChatGPT before sending them to counsel," Chen says. "It's saved us tens of thousands in legal fees and weeks of back-and-forth."
+That support has changed how Neuro handles costly areas like regulatory and legal. "We draft, refine, and stress-test contracts in ChatGPT before sending them to counsel," Chen says. "It’s saved us tens of thousands in legal fees and weeks of back-and-forth."
 
-But the real win is momentum. "We're a distributed team," Chen says. "I can't Slack someone at 1 a.m., but I can drop an idea into ChatGPT, work it through, and wake up with clarity. It's a brainstorming buddy that doesn't sleep."
+But the real win is momentum. "We’re a distributed team," Chen says. "I can’t Slack someone at 1 a.m., but I can drop an idea into ChatGPT, work it through, and wake up with clarity. It’s a brainstorming buddy that doesn’t sleep."
 
-> “If you're entering Neuro data, it has to be in a Business account. Privacy and compliance come first, even when we're moving fast.”
+> “If you’re entering Neuro data, it has to be in a Business account. Privacy and compliance come first, even when we’re moving fast.”
 
 —Ryan Chen, co-founder
 
@@ -80,13 +80,13 @@ Listening to customers has always shaped Neuro's roadmap; with ChatGPT Business,
 
 ChatGPT also helps Neuro cut through the noise of marketing and e-commerce data. The team feeds reports from Amazon, TikTok, and Meta into ChatGPT, which helps them surface which ads to double down on, which creators deliver the best ROI, and when to shift spend to capture viral trends.
 
-"There's a story buried in every spreadsheet," Chen says. "ChatGPT helps us find the headline."
+"There’s a story buried in every spreadsheet," Chen says. "ChatGPT helps us find the headline."
 
 That storytelling power helped Neuro prove to CVS that TikTok virality drove real-world sales -- securing upcoming premium checkout placement in every U.S. store.
 
 ### Turning product details into campaigns that land
 
-For the marketing team, ChatGPT is a creative partner, helping them reframe the brand from the customer's point of view. Yoshimura studied neuroscience, and Chen studied chemistry, "so we'd geek out on the science, but lose people."
+For the marketing team, ChatGPT is a creative partner, helping them reframe the brand from the customer's point of view. Yoshimura studied neuroscience, and Chen studied chemistry, "so we’d geek out on the science, but lose people."
 
 ChatGPT has helped Neuro reframe details about ingredients and functional benefits for different audiences, providing ideas the team then tests and validates with customers to make sure the message truly resonates.
 
@@ -100,13 +100,13 @@ That same flexibility extends to Neuro's network of creators. Thousands of TikTo
 
 ### Staying lean while scaling
 
-Neuro is beginning to use the ChatGPT deep research feature for thorny finance questions, like modeling cap tables, sizing stock option pools, and structuring investor agreements. In these situations, "instead of a quick answer, I like deep research that gives me a very thorough analysis," Chen explains. "It's amazing because it's thinking of things that I couldn't have thought of."
+Neuro is beginning to use the ChatGPT deep research feature for thorny finance questions, like modeling cap tables, sizing stock option pools, and structuring investor agreements. In these situations, "instead of a quick answer, I like deep research that gives me a very thorough analysis," Chen explains. "It’s amazing because it’s thinking of things that I couldn’t have thought of."
 
-That kind of support is helping the team remain efficient even as they grow to nationwide retail distribution. "It's hard to quantify, but I feel fifty percent more efficient," Chen says. "Maybe more."
+That kind of support is helping the team remain efficient even as they grow to nationwide retail distribution. "It’s hard to quantify, but I feel fifty percent more efficient," Chen says. "Maybe more."
 
-As Neuro grows, Chen sees ChatGPT as a natural extension of the way they've always worked.
+As Neuro grows, Chen sees ChatGPT as a natural extension of the way they’ve always worked.
 
-> “We've built Neuro by being resourceful. ChatGPT is part of that DNA -- it's how we stay lean while scaling.”
+> “We’ve built Neuro by being resourceful. ChatGPT is part of that DNA -- it’s how we stay lean while scaling.”
 
 —Ryan Chen, co-founder
 
@@ -118,17 +118,17 @@ More than 1 million businesses around the world are achieving meaningful results
 
 ## Keep reading
 
-![How agents are transforming work > Cover image](https://images.ctfassets.net/kftzwdyauwt9/7hmtkjKv0DxS4Yt8mQZju2/c168bfa2010da64bcc9dd60d6b5491e8/Art_Card__1_.png?w=3840&q=90&fm=webp)
+![Health in ChatGPT > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/48aIp3cQOKJ57vpQeqOb8y/2e8732bcad5ceea1c7b20cf001bd2823/1_1_Art_Card.png?w=3840&q=90&fm=webp)
 
-[How agents are transforming workCompanyJun 25, 2026](</index/how-agents-are-transforming-work/>)
+[Launching Health in ChatGPT ProductJul 23, 2026](</index/health-in-chatgpt/>)
 
-![OpenAI and Broadcom Jalapeño inference chip card image](https://images.ctfassets.net/kftzwdyauwt9/21KcazqOHUF7Cq71Hpfcnc/81ad98a1978845b441ab14e008168c75/openai-broadcom-jalapeno-inference-chip-image-1_1.png?w=3840&q=90&fm=webp)
+![effingham county 1x1](https://images.ctfassets.net/kftzwdyauwt9/3f1fyaaSZELql3zECUImW3/1733a5ee7f07da894b993dcff75bea66/effingham_county_1x1.png?w=3840&q=90&fm=webp)
 
-[OpenAI and Broadcom unveil LLM-optimized inference chipCompanyJun 24, 2026](</index/openai-broadcom-jalapeno-inference-chip/>)
+[Building AI infrastructure with the Effingham County communityGlobal AffairsJul 22, 2026](</index/building-ai-infrastructure-with-the-effingham-county-community/>)
 
-![Helping build shared standards for advanced AI - card image](https://images.ctfassets.net/kftzwdyauwt9/3tqr0Vb3JnK38uBRBw7FAF/a3989888ee148ba286b834076aaa289b/helping-build-shared-standards-for-advanced-ai-1_1.png?w=3840&q=90&fm=webp)
+![How news organizations are using AI > Card Image](https://images.ctfassets.net/kftzwdyauwt9/5nTzxwRy4Is9PQSluyYkWP/d6e7953a692a5a8c926885e2f50a3427/how_news_orgs_use_AI_1x1.png?w=3840&q=90&fm=webp)
 
-[Helping build shared standards for advanced AIGlobal AffairsJun 23, 2026](</index/helping-build-shared-standards-for-advanced-ai/>)
+[How news organizations use AI to advance their vital missionsCompanyJul 22, 2026](</index/how-news-organizations-are-using-ai/>)
 
 Research
 
@@ -140,9 +140,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -214,6 +214,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

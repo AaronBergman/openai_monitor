@@ -140,11 +140,11 @@ See how OpenAI works with leading sales tools like Salesforce, Zoom, Outreach, a
 
 1 of 11
 
-> “Agentforce Sales is where humans and agents work together across the entire revenue lifecycle — from first lead to closed deal. With this partnership with OpenAI, we're meeting sellers where they work, so real sales work gets done without ever breaking their flow.”
+> “Agentforce Sales is where humans and agents work together across the entire revenue lifecycle — from first lead to closed deal. With this partnership with OpenAI, we’re meeting sellers where they work, so real sales work gets done without ever breaking their flow.”
 
 —Kris Billmaier, GM and EVP of Agentforce Sales at Salesforce
 
-> “Growing businesses and go-to-market teams don't need more AI tools, They need AI that actually knows their customers. HubSpot brings the context that makes that possible: the complete customer picture that turns customer insights into actionable pipeline.”
+> “Growing businesses and go-to-market teams don’t need more AI tools, They need AI that actually knows their customers. HubSpot brings the context that makes that possible: the complete customer picture that turns customer insights into actionable pipeline.”
 
 Angela DeFranco, VP of Product, HubSpot
 

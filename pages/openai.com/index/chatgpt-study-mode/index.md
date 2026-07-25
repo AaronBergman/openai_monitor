@@ -26,17 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-How study mode was built
-
-  * How study mode was built
-  * Key features
-  * How students use study mode
-  * Ways to use study mode inspired by college students from the ChatGPT lab
-  * Getting started 
-  * Limitations and what’s next
-
-
-
 July 29, 2025
 
 [Product](</news/product-releases/>)
@@ -50,6 +39,26 @@ A new way to learn in ChatGPT that offers step by step guidance instead of quick
 Loading…
 
 Share
+
+How study mode was built
+
+  * How study mode was built
+  * Key features
+  * How students use study mode
+  * Ways to use study mode inspired by college students from the ChatGPT lab
+  * Getting started 
+  * Limitations and what’s next
+
+
+
+  * How study mode was built
+  * Key features
+  * How students use study mode
+  * Ways to use study mode inspired by college students from the ChatGPT lab
+  * Getting started 
+  * Limitations and what’s next
+
+
 
 Today we’re introducing study mode in ChatGPT—a learning experience that helps you work through problems step by step instead of just getting an answer. Starting today, it’s available to logged in users on Free, Plus, Pro, Team, with availability in ChatGPT Edu coming in the next few weeks.
 
@@ -89,7 +98,7 @@ _“The best way I’d describe it is a live, 24/7, all-knowing “office hours.
 
 Parker Jones (Game Theory)Praja Tickoo (Accounting)Nolan Windham (Bayes' Theorem)Cecily Chung (Discrete Mathematics)
 
-I want to learn about Game Theory, specifically the broad spectrum that the field entails, then also the ways in which you think it'd be useful for me to understand in my daily life. I want you to of course follow my curiousity, but mostly you will be teaching me about it, and keeping a high level plan to iterate through so I can cover the full scope here. I will ask questions when I am curious, but be deadset on quickly educating me on this. 
+I want to learn about Game Theory, specifically the broad spectrum that the field entails, then also the ways in which you think it’d be useful for me to understand in my daily life. I want you to of course follow my curiousity, but mostly you will be teaching me about it, and keeping a high level plan to iterate through so I can cover the full scope here. I will ask questions when I am curious, but be deadset on quickly educating me on this. 
 
 Perfect. Here’s the high-level plan I’ll drive us through—think of it as a layered roadmap from foundational ideas to practical intuition:
 
@@ -227,7 +236,7 @@ First quick one: In your own words, what do you think Game Theory is about? No n
 
 I think Game Theory is sort of this meta aspect framing of modern society in life where we look at people in situations and complex systems and we try to analyze how people in them make decisions, sometimes why they make it, and how this affects the situation/system
 
-Nice—you're already circling the core.
+Nice—you’re already circling the core.
 
 Let’s sharpen it a bit together. Game Theory is fundamentally about **strategic decision-making** —situations where the outcome for each person depends not just on what _they_ do, but on what _others_ do too.
 
@@ -241,9 +250,9 @@ And then:
 
 Walk me through your thinking on both.
 
-No random chance isn't game theory, though agents in game theory may end up having things depend on random chance. But if youre decision matters then of course it is. Also please remember you should be teaching this to me, via paragraphs of information and moving through a high level plan. If I want to do interactions and questions, I will ask. Continue
+No random chance isn’t game theory, though agents in game theory may end up having things depend on random chance. But if youre decision matters then of course it is. Also please remember you should be teaching this to me, via paragraphs of information and moving through a high level plan. If I want to do interactions and questions, I will ask. Continue
 
-Got it—I'll stay in teaching mode and drive forward through the roadmap unless you tap in.
+Got it—I’ll stay in teaching mode and drive forward through the roadmap unless you tap in.
 
 * * *
 
@@ -278,7 +287,7 @@ These get framed into a **“game form”** , and from there, you look for solut
 
 **🎲 Quick Clarification: Game Theory vs Probability**
 
-You're exactly right—pure chance (like dice) isn’t Game Theory. That’s probability theory. But if _you_ are choosing a strategy knowing that _others_ may randomize their own moves? That’s Game Theory.
+You’re exactly right—pure chance (like dice) isn’t Game Theory. That’s probability theory. But if _you_ are choosing a strategy knowing that _others_ may randomize their own moves? That’s Game Theory.
 
 For example: in **rock-paper-scissors** , the “optimal” strategy is _not deterministic_ —it’s a **mixed strategy** , which involves randomizing your choices. But you’re doing so _strategically_ , in response to an opponent.
 
@@ -328,19 +337,17 @@ OpenAI
 
 [View all](</news/>)
 
-![Art Card 1080x1080 \(3\)](https://images.ctfassets.net/kftzwdyauwt9/3JLNH7ejJFnxLmX2LpzoKD/19f9e3c4d36cc9d677ba88e842ad2db2/Art_Card_1080x1080__4_.png?w=3840&q=90&fm=webp)
+![Health in ChatGPT > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/48aIp3cQOKJ57vpQeqOb8y/2e8732bcad5ceea1c7b20cf001bd2823/1_1_Art_Card.png?w=3840&q=90&fm=webp)
 
-Better memory for a more helpful ChatGPT
+[Launching Health in ChatGPT ProductJul 23, 2026](</index/health-in-chatgpt/>)
 
-[Dreaming: Better memory for a more helpful ChatGPTResearchJun 4, 2026](</index/chatgpt-memory-dreaming/>)
+![OpenAI Presence 1x1](https://images.ctfassets.net/kftzwdyauwt9/5JBDenSGI6wx5CMPPlaM5J/da9d8e27a0bd70d845a816b28ac641a9/OpenAI_Presence_1x1.png?w=3840&q=90&fm=webp)
 
-![Rosalind5.5 ArtCard](https://images.ctfassets.net/kftzwdyauwt9/6USIQM1B7TggUvvTFxxwoi/0176ac6633c8bdc24641d25d1d2db824/GPT-Rosalind_ArtCard.png?w=3840&q=90&fm=webp)
+[Introducing OpenAI PresenceProductJul 22, 2026](</index/introducing-openai-presence/>)
 
-[Introducing new capabilities to GPT-RosalindProductJun 3, 2026](</index/introducing-new-capabilities-to-gpt-rosalind/>)
+![GPT-5.6 is now the preferred model in Microsoft 365 Copilot > Cover image](https://images.ctfassets.net/kftzwdyauwt9/3MPipvFMxS8m3kTyCtwFgj/015747dcd34cb667a221688cfca64e0f/Frame.png?w=3840&q=90&fm=webp)
 
-![1 1 Art Card](https://images.ctfassets.net/kftzwdyauwt9/4xugzd9dTDMUzIUmuamtO3/1f40af4e50ab8b2bdd64d5b491964961/1_1_Art_Card.png?w=3840&q=90&fm=webp)
-
-[Codex for every role, tool, and workflowProductJun 2, 2026](</index/codex-for-every-role-tool-workflow/>)
+[GPT-5.6 is now the preferred model in Microsoft 365 CopilotProductJul 9, 2026](</index/gpt-5-6-preferred-model-microsoft-365-copilot/>)
 
 Research
 
@@ -352,9 +359,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -391,6 +398,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -424,6 +433,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

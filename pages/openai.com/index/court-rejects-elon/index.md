@@ -46,7 +46,7 @@ As Elon is finding out, facts matter - especially in court. And the most importa
 
 We welcome the opportunity to make it clear in court that we fully intend to (1) keep the non-profit as a crucial part of our work to achieve our mission, and (2) make sure it’s not just supported by a successful business, but in a stronger position than ever. It’s also important to note that we’ve had for-profit subsidiaries for years now - any new structure will simply ensure that business can even better support the non-profit.
 
-[_Our Board has been very clear_ ⁠](<https://openai.com/index/why-our-structure-must-evolve-to-advance-our-mission/>) that we intend to strengthen the non-profit so that it can deliver on its mission for the long term. We're not selling it, we're doubling down on its work. It will have a significant stake in our proposed public-benefit corporation, making it one of the most well-resourced non-profits in history.
+[_Our Board has been very clear_ ⁠](<https://openai.com/index/why-our-structure-must-evolve-to-advance-our-mission/>) that we intend to strengthen the non-profit so that it can deliver on its mission for the long term. We’re not selling it, we’re doubling down on its work. It will have a significant stake in our proposed public-benefit corporation, making it one of the most well-resourced non-profits in history.
 
 In a way, Elon was right when he said in 2017 that we needed to evolve OpenAI’s structure. He was also right when he formed his own AI company, xAI, as a public-benefit corporation. But he’s wrong when it comes to this baseless, cynically self-serving lawsuit, the false allegations propping it up, and other petty tactics like the so-called “bid”. The court has rightly seen through this latest attempt, and we’re confident it will continue to do so.
 
@@ -64,9 +64,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -103,6 +103,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -136,6 +138,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

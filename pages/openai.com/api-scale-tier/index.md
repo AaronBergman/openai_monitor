@@ -28,6 +28,8 @@ OpenAI
 
 # Scale Tier for API Customers
 
+Scale Tier is available on models released before GPT‑5.6. For GPT‑5.6 and future model releases, see [Reserved Tier](</api-reserved-tier/>)
+
  _This offering is available to Enterprise customers. Please_[ _contact our sales team⁠_](</contact-sales/>) _to learn more._**_To access the same premium latency and reliability benefits on a flexible, pay-as-you-go basis, see_**[** __Priority processing__** ⁠](<https://openai.com/api-priority-processing>)** _._**
 
 Scale Tier lets you purchase a set number of API input and output tokens per minute (known as “token units”) upfront for access to one specific model snapshot. Each token unit is purchased for a minimum of 30 days. Additional models may be added based on customer interest.
@@ -43,7 +45,7 @@ By choosing Scale Tier, you can unlock:
 | Input bundle| Output bundle| Uptime SLA| Latency SLA  
 ---|---|---|---|---  
 GPT-5.5| 50,000 TPM  
-$750.00 per unit/day| N/A3| 99.9%| 99% > 50 tokens per second2  
+$750.00 per unit/day| N/A3| 99.9%| 99% > 100 tokens per second2  
 GPT-5.4 mini| 50,000 TPM  
 $100.00 per unit/day| N/A3| 99.9%| 99% > 100 tokens per second2  
 GPT-5.4excludes long-context4| 50,000 TPM  
@@ -111,15 +113,13 @@ With Scale Tier, you can purchase input and output token units. For example, wit
 
 More information about how Scale Tier interacts with Prompt Caching can be found in the FAQ section below.
 
-With GPT‑5.4 you buy a Combined Input and Output tokens/min. This gives you greater flexibility and removes the need to predict your input and output token ratio. As you use scale tier, we count tokens against your Combined Tokens as follows:
+With GPT‑5.4 and GPT‑5.5 you buy a Combined Input and Output tokens/min. This gives you greater flexibility and removes the need to predict your input and output token ratio. As you use scale tier, we count tokens against your Combined Tokens as follows:
 
   * Input tokens count as 1
   * Cached input tokens follow the per-model caching as below in the FAQ section
   * Output tokens count based on the PayG price ratio of Output to Input tokens for the model. For example, with GPT‑5.4 one output token counts as 6.
 
 
-
-Tokens per minuteTPMPay for tokens used19 tok/s99.5%Pay-as-you-goAvg latencyUptimeTierInputOutputBeforePaid upfront monthly19 tok/s25 tok/s99.5%99.9%Pay-as-you-goScaleAvg latencyUptimeTierInput3 unitsOutput2 unitsAfter
 
 #### Pricing
 
@@ -238,17 +238,17 @@ EnglishUnited States
 
 ### How is Scale Tier ordered and provisioned?
 
-Once you’ve signed an order form, you can add and remove token units through your [_developer console_ ⁠(opens in a new window)](<http://platform.openai.com>).
-
-![](https://images.ctfassets.net/kftzwdyauwt9/71kQuVFKz4eIGA8dexqy2S/30874d843eb63aad9950e68fbbd07ce4/CleanShot_2024-08-01_at_01.31.10_2x.png?w=3840&q=90&fm=webp)
+Once you’ve signed an order form, you can add and remove token units through your developer console in Organization Settings > Capacity Management
 
 ### When does billing start?
 
-Billing starts the moment when Scale Tier token units are first allocated, and runs on a calendar month cycle. Invoices will be sent monthly in arrears.
+Billing starts the moment when Scale Tier token units are first allocated, and is applied to your standard OpenAI bill.
 
 ### How are pay-as-you-go overages calculated while I’m using Scale Tier?
 
-For billing purposes, tokens per minute (TPM) are calculated by averaging the number of tokens used in 15-minute intervals aligned to the top of the hour (e.g. 3:00 to < 3:15, 3:15 to < 3:30, etc). If the total tokens used within a 15-minute period is below your Scale Tier entitlement, they are not billed. For example, if you purchase Scale Tier for GPT‑4o with an entitlement of 30,000 input tokens per minute, you can use up to 450,000 input tokens in any 15-minute period without incurring additional charges. Any tokens used beyond this limit are billed at pay-as-you-go (PAYG) rates.
+For billing purposes, tokens per minute (TPM) are calculated by averaging the number of tokens used in 15-minute intervals aligned to the top of the hour (e.g. 3:00 to < 3:15, 3:15 to < 3:30, etc). If the total tokens used within a 15-minute period is below your Scale Tier entitlement, they are not billed. For example, if you purchase Scale Tier for GPT‑4o with an entitlement of 30,000 input tokens per minute, you can use up to 450,000 input tokens in any 15-minute period without incurring additional charges. Any tokens used beyond this limit are billed at pay-as-you-go (PAYG) rates on Priority Processing.
+
+For customers with active Scale Tier purchases as of July 21, 2026, tokens used beyond this limit are billed at PAYG rates on Standard processing. If you’d like the new spillover behavior, contact sales.
 
 ### If I make an annual commitment, does my spend have to be applied to Scale Tier?
 
@@ -264,7 +264,7 @@ No. Annual commitments can be spent on any OpenAI model and any mechanism of del
 
 ### How can I purchase token units on Scale Tier?
 
-Once Scale Tier is enabled for your account, you can manually adjust your token units.
+Once Scale Tier is enabled for your account, you can manually adjust your token units in the Capacity Management tab of your Organization Settings
 
 ### How can I tell my TPM?
 
@@ -276,27 +276,28 @@ You can view your TPM aggregated by day. In the future, we will provide you with
 
 You can see your current rate limits in [your settings page⁠⁠(opens in a new window)](<https://platform.openai.com/settings/organization/limits>). When you purchase token units for Scale Tier, your rate limits for that model will automatically increase by the amount of your purchase. When you use the model, requests will first be processed using your faster Scale Tier quota. If you exceed your quota, additional requests will be processed using the regular Standard processing service. If you exceed your total rate limit in a minute across Scale Tier + regular Standard processing limits, then further requests will be rejected like normal with a 429 error code.
 
-### Can I choose which requests are covered with Scale Tier?
+### How do I enable calls to use Scale Tier tokens?
 
-Yes, you can use the ‘service_tier’ parameter within the Chat Completions API. Specifying “auto” will use Scale Tier quota if it’s available. Specifying “default” will use Standard processing quota. The response will also include a ‘service_tier’ parameter indicating which service actually processed the request. Values are either scale or default.
+Turn on the “Scale Tier Enabled” toggle in Project Settings.
 
-![](https://images.ctfassets.net/kftzwdyauwt9/6pUiOE61l3xT9TnCEuiQYw/f66289c8a381291466b16f0f13cfb3ea/Can_I_choose_which_requests_are_covered_with_Scale_Tier_.jpg?w=3840&q=90&fm=webp)
+  * Responses API calls will consume Scale Tier tokens by default when the toggle is on and tokens are available.
+
+
+
+
+If using the Completions API, consult docs for the service_tier key to decide whether to set it manually or rely on defaults.
 
 ### How does Scale Tier work with Prompt Caching?
 
-We provide different discounts on cached input tokens (50%, 75%, or 90%) depending on the model. If you send 50,000 TPM in cached input tokens on a model where cached tokens are discounted 50%, those tokens only count for 25,000 TPM against your quota. If you send 50,000 TPM in cached input tokens on a model where cached tokens are discounted 75%, those tokens only count for 12,500 TPM against your quota. [Learn more about Prompt Caching ↗⁠(opens in a new window)](<https://platform.openai.com/docs/guides/prompt-caching>)
+We provide different discounts on cached input tokens (50%, 75%, or 90%) depending on the model. If you send 50,000 TPM in cached input tokens on a model where cached tokens are discounted 50%, those tokens only count for 25,000 TPM against your quota. If you send 50,000 TPM in cached input tokens on a model where cached tokens are discounted 75%, those tokens only count for 12,500 TPM against your quota. [Learn more about Prompt Caching⁠(opens in a new window)](<https://platform.openai.com/docs/guides/prompt-caching>)
 
 ### How do other modalities work with Scale Tier?
 
 Scale Tier supports the same multimodal capabilities available on Standard processing. In particular, images can be used as inputs to Scale Tier and are processed with the same fast latency.
 
-### Does Scale Tier support fine-tuning?
-
-Scale Tier units now supports fine-tuning for select models; fine-tuning units are priced and purchased separately from the base model Scale Tier units.
-
 ### Can I automatically send my Scale Tier spill-over traffic to Priority processing?
 
-No. Traffic sent to Scale Tier will not automatically spill over to Priority processing.
+Yes. As of July 2026 traffic sent to Scale Tier will automatically spill over to Priority processing.
 
 ### What happens if the latency and uptime SLA are both violated?
 

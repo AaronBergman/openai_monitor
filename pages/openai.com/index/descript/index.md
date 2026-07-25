@@ -71,8 +71,6 @@ Where dubbing started to break down
 
 
 
-Table of contents
-
   * Where dubbing started to break down
   * Optimizing translations for timing, not just meaning
   * Defining and measuring natural pacing
@@ -84,7 +82,7 @@ Table of contents
 
 Translation quickly emerged as a high-impact use case. Traditionally, translating video has been slow and expensive, requiring language experts to manage projects, produce rote translations, handle quality control, and generate corresponding audio. LLMs dramatically compress that workflow, making high-quality translation at scale possible.
 
-Captions and dubbing both require semantic fidelity: the translation must preserve the original meaning. But duration adherence plays a different role in each. For captions, it's a nice-to-have. For dubbing, it's critical, because if translated speech runs too long or too short, it will sound unnatural even if the meaning is correct.
+Captions and dubbing both require semantic fidelity: the translation must preserve the original meaning. But duration adherence plays a different role in each. For captions, it’s a nice-to-have. For dubbing, it’s critical, because if translated speech runs too long or too short, it will sound unnatural even if the meaning is correct.
 
 To address this, Descript redesigned its translation pipeline using OpenAI reasoning models to optimize for semantic fidelity and duration adherence during generation, not after. In the first 30 days after rollout, exports of translated videos with dubbing increased 15%, and duration adherence improved by 13 to 43 percentage points, depending on the language.
 
@@ -144,7 +142,7 @@ Translation inside Descript is only one layer of a broader multimodal system. Tr
 
 Improvements at the text layer make natural pacing possible, but the overall experience also depends on how well the audio model preserves tone, cadence, and nonverbal characteristics of speech. That’s where the team sees the next frontier. 
 
-“A lot of what's going to improve translation output is making the pipeline more multimodal: incorporating audio, video, and text together when deciding how to translate,” said Mistratov. “That should better maintain the nonverbal characteristics of speech, like tone and emphasis, and preserve even more of the original delivery.”
+“A lot of what’s going to improve translation output is making the pipeline more multimodal: incorporating audio, video, and text together when deciding how to translate,” said Mistratov. “That should better maintain the nonverbal characteristics of speech, like tone and emphasis, and preserve even more of the original delivery.”
 
 For Descript, stronger reasoning models made the complexity of dubbing tractable. By crossing the threshold where models could reliably balance tradeoffs between pacing and meaning, translation became something the team could systematically improve, and deploy at scale.
 
@@ -178,9 +176,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -217,6 +215,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -250,6 +250,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

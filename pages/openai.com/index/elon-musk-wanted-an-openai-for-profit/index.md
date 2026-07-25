@@ -61,7 +61,7 @@ You can’t sue your way to AGI. We have great respect for Elon’s accomplishme
 
 ## November 2015: OpenAI started as a nonprofit, which Elon questioned
 
-On November 20, 2015, Elon said: “Also, the structure doesn't seem optimal…. Probably better to have a standard C corp with a parallel nonprofit.” We felt a nonprofit was the right path at the time, but later came to realize that our structure would have to evolve to attract the capital necessary for the mission.
+On November 20, 2015, Elon said: “Also, the structure doesn’t seem optimal…. Probably better to have a standard C corp with a parallel nonprofit.” We felt a nonprofit was the right path at the time, but later came to realize that our structure would have to evolve to attract the capital necessary for the mission.
 
 ### Re: AI docs
 
@@ -103,7 +103,7 @@ In 2017, we made progress on building an AI for the competitive video game, [_Do
 
 On June 13, 2017, Elon responded to an email, saying, “Ok. Let’s figure out the least expensive way to ensure compute power is not a constraint…”
 
-Ilya reiterated on July 12, 2017, “Each year, we'll need to exponentially increase our hardware spend, but we have reason to believe AGI can ultimately be built with less than $10B in hardware.”
+Ilya reiterated on July 12, 2017, “Each year, we’ll need to exponentially increase our hardware spend, but we have reason to believe AGI can ultimately be built with less than $10B in hardware.”
 
 ### Re: Followup thoughts
 
@@ -308,7 +308,7 @@ iMessage conversation between Greg Brockman (blue/right) and Shivon Zilis (grey/
 
 On July 21st, 2017, Elon forwarded an article about China’s plan to match the U.S. in AI research facilities by 2020 and become the world leader in AI by 2030 in order to support agriculture and manufacturing as well as homeland security and surveillance efforts. Elon said, “They will do whatever it takes to obtain what we develop. Maybe another reason to change course.”
 
-Greg agreed, saying that starting 2018 the path would need to be a “AI research + hardware for-profit”. Elon responded, “Let's talk Sat or Sun. I have a tentative game plan that I'd like to run by you.”
+Greg agreed, saying that starting 2018 the path would need to be a “AI research + hardware for-profit”. Elon responded, “Let’s talk Sat or Sun. I have a tentative game plan that I’d like to run by you.”
 
 ### Beijing Wants A.I. to Be Made in China by 2030 - NYTimes.com
 
@@ -446,7 +446,7 @@ The public benefit corporation created by Elon Musk on September 15, 2017, as th
 
 We came close to accepting Elon’s terms. As we told him, “We really want to work with you. We believe that if we join forces, our chance of success in the mission is the greatest.”
 
-However, we felt his proposal was not compatible with the mission, saying: “The current structure provides you with a path where you end up with unilateral absolute control over the AGI. You stated that you don't want to control the final AGI, but during this negotiation, you've shown to us that absolute control is extremely important to you.” As we told Elon, “The goal of OpenAI is to make the future good and to avoid an AGI dictatorship.”
+However, we felt his proposal was not compatible with the mission, saying: “The current structure provides you with a path where you end up with unilateral absolute control over the AGI. You stated that you don’t want to control the final AGI, but during this negotiation, you’ve shown to us that absolute control is extremely important to you.” As we told Elon, “The goal of OpenAI is to make the future good and to avoid an AGI dictatorship.”
 
 We concluded, “Thus we are concerned that as the company makes genuine progress towards AGI, you will choose to retain your absolute control of the company despite current intent to the contrary.”
 
@@ -800,9 +800,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -839,6 +839,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -872,6 +874,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

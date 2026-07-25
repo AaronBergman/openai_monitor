@@ -88,7 +88,7 @@ The incident also makes clear that advanced models can discover and exploit nove
 
 We believe advanced cyber capable models need to help security teams find weaknesses before attackers do, understand how vulnerabilities can be chained, and remediate them at machine speed. We are using these capabilities to continue strengthening protections around infrastructure configuration and model evaluation environments; we will share our findings and best practices as we learn. We encourage other defenders to [apply for trusted access⁠](<https://openai.com/form/enterprise-trusted-access-for-cyber/>) and experiment with these models now to translate these capabilities into better prevention, faster detection, and more effective incident response.
 
-> “We're grateful for the collaboration with OpenAI on this and other topics. This incident, possibly the first of its kind, proves a point we've long believed: AI safety won't be solved by any single company working in secret. It will be solved in the open, collaboratively, with broad access to AI for every defender, everywhere.”
+> “We’re grateful for the collaboration with OpenAI on this and other topics. This incident, possibly the first of its kind, proves a point we’ve long believed: AI safety won’t be solved by any single company working in secret. It will be solved in the open, collaboratively, with broad access to AI for every defender, everywhere.”
 
 —Clem Delangue, Co-founder and CEO, Hugging Face
 

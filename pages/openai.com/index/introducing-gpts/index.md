@@ -53,8 +53,6 @@ GPTs let you customize ChatGPT for a specific purpose
 
 
 
-Table of contents
-
   * GPTs let you customize ChatGPT for a specific purpose
   * The best GPTs will be invented by the community
   * The GPT Store is rolling out later this month
@@ -92,7 +90,7 @@ Starting today, you can create GPTs and share them publicly. Later this month, w
 
 As always, you are in control of your data with ChatGPT. Your chats with GPTs are not shared with builders. If a GPT uses third party APIs, you choose whether data can be sent to that API. When builders customize their own GPT with actions or knowledge, the builder can choose if user chats with that GPT can be used to improve and train our models. These choices build upon the existing [privacy controls⁠(opens in a new window)](<https://help.openai.com/en/articles/7730893-data-controls-faq>) users have, including the option to opt your entire account out of model training. 
 
-We’ve set up new systems to help review GPTs against our [usage policies⁠](</policies/usage-policies/>). These systems stack on top of our existing mitigations and aim to prevent users from sharing harmful GPTs, including those that involve fraudulent activity, hateful content, or adult themes. We’ve also taken steps to build user trust by allowing builders to verify their identity. We'll continue to monitor and learn how people use GPTs and update and strengthen our safety mitigations. If you have concerns with a specific GPT, you can also use our reporting feature on the GPT shared page to notify our team.
+We’ve set up new systems to help review GPTs against our [usage policies⁠](</policies/usage-policies/>). These systems stack on top of our existing mitigations and aim to prevent users from sharing harmful GPTs, including those that involve fraudulent activity, hateful content, or adult themes. We’ve also taken steps to build user trust by allowing builders to verify their identity. We’ll continue to monitor and learn how people use GPTs and update and strengthen our safety mitigations. If you have concerns with a specific GPT, you can also use our reporting feature on the GPT shared page to notify our team.
 
 GPTs will continue to get more useful and smarter, and you’ll eventually be able to let them take on real tasks in the real world. In the field of AI, these systems are often discussed as “agents”. We think it’s important to move incrementally towards this future, as it will require careful technical and safety work—and time for society to adapt. We have been thinking deeply about the societal implications and will have more analysis to share soon.
 
@@ -110,7 +108,7 @@ Enterprises can get started with GPTs on Wednesday. You can now empower users in
 
 ### We want more people to shape how AI behaves
 
-We designed GPTs so more people can build with us. Involving the community is critical to our mission of building safe AGI that benefits humanity. It allows everyone to see a wide and varied range of useful GPTs and get a more concrete sense of what’s ahead. And by broadening the group of people who decide 'what to build' beyond just those with access to advanced technology it's likely we'll have safer and better aligned AI. The same desire to build with people, not just for them, drove us to launch the OpenAI API and to research methods for incorporating democratic input into AI behavior, which we plan to share more about soon.
+We designed GPTs so more people can build with us. Involving the community is critical to our mission of building safe AGI that benefits humanity. It allows everyone to see a wide and varied range of useful GPTs and get a more concrete sense of what’s ahead. And by broadening the group of people who decide 'what to build' beyond just those with access to advanced technology it’s likely we’ll have safer and better aligned AI. The same desire to build with people, not just for them, drove us to launch the OpenAI API and to research methods for incorporating democratic input into AI behavior, which we plan to share more about soon.
 
 ### We’ve made ChatGPT Plus fresher and simpler to use
 
@@ -154,9 +152,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -193,6 +191,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -226,6 +226,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

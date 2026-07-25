@@ -26,14 +26,6 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 OpenAI
 
-New
-
-### Introducing ChatGPT Work: 
-
-A new agent in ChatGPT that helps teams turn ambitious goals into finished work—with enterprise controls and governance built in.
-
-[Learn more](</chatgpt-work/>)
-
 # AI for your engineering team’s most ambitious work
 
 Codex takes engineering work from issue to tested, review-ready code—handling everything from routine fixes and tests to complex refactors and migrations, while engineers stay in control of what ships.
@@ -132,7 +124,7 @@ Brad Murphy, VP, Splunk Engineering, Cisco
 
 Brad Carter, Engineering Manager, Datadog
 
-> “Codex is our go-to tool for complex engineering tasks, and with GPT‑5.5, it surfaces bugs and gaps in my program that other models weren't able to find.”
+> “Codex is our go-to tool for complex engineering tasks, and with GPT‑5.5, it surfaces bugs and gaps in my program that other models weren’t able to find.”
 
 Dennis Hannusch, Senior Software Engineer, Nvidia
 
@@ -280,6 +272,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

@@ -53,22 +53,14 @@ Share
 Building with renewed ambition
 
   * Building with renewed ambition
-
   * Reasoning across languages and levels of code
-
   * Making the impossible practical
 
 
-
-
-Table of contents
 
   * Building with renewed ambition
-
   * Reasoning across languages and levels of code
-
   * Making the impossible practical
-
 
 
 
@@ -86,7 +78,7 @@ Wasmer is a young company with a small team and a big goal: an edge computing pl
 
 That simplicity and speed translated directly into a groundbreaking project: [Edge.js⁠(opens in a new window)](<https://wasmer.io/posts/edgejs-safe-nodejs-using-wasm-sandbox>), a JavaScript runtime that can run Node.js workloads for AI and edge computing.
 
-It’s a project the team had long wanted to take on, but they didn’t always have the resources to do it. “Everyone here is very, very technical, but we just didn't have the time to dedicate to these projects. And now, we can launch new products that would have been impossible before,” explains Nieto.
+It’s a project the team had long wanted to take on, but they didn’t always have the resources to do it. “Everyone here is very, very technical, but we just didn’t have the time to dedicate to these projects. And now, we can launch new products that would have been impossible before,” explains Nieto.
 
 With Codex, Wasmer engineers can multiply their efforts. “We have increased development speed by 10x to 20x, at least,” says Nieto.
 
@@ -106,7 +98,7 @@ The team used Codex from the very beginning of the project to the very end, from
 
 Typically, Nieto explains, developers would need special expertise to find many of these bugs. But Codex, Nieto says, “was able to master console logs to trace calls and a low-level debugger like LLD, which accesses things on the assembly level. Codex can get very low level, and see what is happening under the code.”
 
-> “There are certain subtleties that we don't know of because we are not experts in C++. Codex was able to spot them pretty early.”
+> “There are certain subtleties that we don’t know of because we are not experts in C++. Codex was able to spot them pretty early.”
 
 —Syrus Akbary Nieto, Founder and CEO
 
@@ -126,17 +118,17 @@ More than 1 million businesses around the world are achieving meaningful results
 
 ## Keep reading
 
-![HP early AI wins — card image](https://images.ctfassets.net/kftzwdyauwt9/6phCuFzVSdCdVCh6YqXMa6/a4207917b5d7a43179a61f5de012168d/HP-1_1.png?w=3840&q=90&fm=webp)
+![Health in ChatGPT > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/48aIp3cQOKJ57vpQeqOb8y/2e8732bcad5ceea1c7b20cf001bd2823/1_1_Art_Card.png?w=3840&q=90&fm=webp)
 
-[How HP is scaling early AI wins across the enterpriseCompanyJun 28, 2026](</index/hp-frontier-partnership/>)
+[Launching Health in ChatGPT ProductJul 23, 2026](</index/health-in-chatgpt/>)
 
-![Art Card 1x1](https://images.ctfassets.net/kftzwdyauwt9/687HyyF4C0A2OsktQGlTZJ/1ca5b061daa5e22fd338e9910292dac5/blog_1x1.png?w=3840&q=90&fm=webp)
+![effingham county 1x1](https://images.ctfassets.net/kftzwdyauwt9/3f1fyaaSZELql3zECUImW3/1733a5ee7f07da894b993dcff75bea66/effingham_county_1x1.png?w=3840&q=90&fm=webp)
 
-[Previewing GPT-5.6 Sol: a next-generation modelProductJun 26, 2026](</index/previewing-gpt-5-6-sol/>)
+[Building AI infrastructure with the Effingham County communityGlobal AffairsJul 22, 2026](</index/building-ai-infrastructure-with-the-effingham-county-community/>)
 
-![How agents are transforming work > Cover image](https://images.ctfassets.net/kftzwdyauwt9/7hmtkjKv0DxS4Yt8mQZju2/c168bfa2010da64bcc9dd60d6b5491e8/Art_Card__1_.png?w=3840&q=90&fm=webp)
+![How news organizations are using AI > Card Image](https://images.ctfassets.net/kftzwdyauwt9/5nTzxwRy4Is9PQSluyYkWP/d6e7953a692a5a8c926885e2f50a3427/how_news_orgs_use_AI_1x1.png?w=3840&q=90&fm=webp)
 
-[How agents are transforming workCompanyJun 25, 2026](</index/how-agents-are-transforming-work/>)
+[How news organizations use AI to advance their vital missionsCompanyJul 22, 2026](</index/how-news-organizations-are-using-ai/>)
 
 Research
 
@@ -148,9 +140,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -222,6 +214,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

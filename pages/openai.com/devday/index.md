@@ -151,7 +151,7 @@ No city embraces the future like San Francisco. Get inspired by local developers
 
 ### Evals in Action: From Frontier Research to Production Applications 
 
-How do you measure progress when you're operating at the frontier? Step inside the evolving world of AI evaluation, where benchmarks are being redefined to capture reasoning, reliability, and model progress in real-world task performance.
+How do you measure progress when you’re operating at the frontier? Step inside the evolving world of AI evaluation, where benchmarks are being redefined to capture reasoning, reliability, and model progress in real-world task performance.
 
 [Watch now(opens in a new window)](<https://youtu.be/YEaKXjHENyQ>)
 
@@ -209,7 +209,7 @@ AI is changing how quickly creative ideas can become reality. In this session, w
 
 ### Measuring Agents with Interactive Evaluations
 
-Agents explore, plan, and reliably execute across diverse, long-horizon tasks—challenges that static benchmarks can't measure. Hear from Greg Kamradt, President of the ARC Prize Foundation, on how evaluating agentic performance requires interactive evaluations.
+Agents explore, plan, and reliably execute across diverse, long-horizon tasks—challenges that static benchmarks can’t measure. Hear from Greg Kamradt, President of the ARC Prize Foundation, on how evaluating agentic performance requires interactive evaluations.
 
 [Watch now(opens in a new window)](<https://youtu.be/TK9MN22q6E0>)
 

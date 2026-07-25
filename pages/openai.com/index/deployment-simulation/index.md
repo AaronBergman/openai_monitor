@@ -41,44 +41,26 @@ Share
 Introduction
 
   * Introduction
-
   * How Deployment Simulation works
-
   * How we tested Deployment Simulation
-
   * Deployment Simulation significantly expands pre-deployment risk assessment
-
   * Reducing evaluation awareness
-
   * Tool simulation for agentic trajectories
-
   * WildChat and external auditing
-
   * Limitations
-
   * Conclusion
-
 
 
 
   * Introduction
-
   * How Deployment Simulation works
-
   * How we tested Deployment Simulation
-
   * Deployment Simulation significantly expands pre-deployment risk assessment
-
   * Reducing evaluation awareness
-
   * Tool simulation for agentic trajectories
-
   * WildChat and external auditing
-
   * Limitations
-
   * Conclusion
-
 
 
 
@@ -166,7 +148,7 @@ _Figure 4: Resampling environment fidelity seems to be the largest source of err
 
 ## Reducing evaluation awareness
 
-Another advantage of using deployment-like contexts is that they may reduce distortions that arise when models recognize they are being tested. In prior research, [we](</index/detecting-and-reducing-scheming-in-ai-models/>) as well as [others⁠(opens in a new window)](<https://arxiv.org/abs/2505.23836>) have found that models are often aware of when they’re being tested. For example, models may reason in their chain-of-thought about what they’re being tested on, what an evaluator might like, and – if they’re misbehaving – whether they’ll be caught. This poses a problem for alignment evaluations: if a model is only well behaved because it thinks it's being tested, how do we build confidence that it’ll behave safely once it learns it’s been deployed?
+Another advantage of using deployment-like contexts is that they may reduce distortions that arise when models recognize they are being tested. In prior research, [we](</index/detecting-and-reducing-scheming-in-ai-models/>) as well as [others⁠(opens in a new window)](<https://arxiv.org/abs/2505.23836>) have found that models are often aware of when they’re being tested. For example, models may reason in their chain-of-thought about what they’re being tested on, what an evaluator might like, and – if they’re misbehaving – whether they’ll be caught. This poses a problem for alignment evaluations: if a model is only well behaved because it thinks it’s being tested, how do we build confidence that it’ll behave safely once it learns it’s been deployed?
 
 We show that Deployment Simulation substantially reduces levels of evaluation awareness exhibited by models relative to traditional evaluations which are not based on real deployment data. We measure evaluation awareness in three ways: by asking a model to classify whether a trajectory came from production or an evaluation, monitoring chain-of-thought for explicit statements about being evaluated for alignment, as well as for [metagaming⁠(opens in a new window)](<https://alignment.openai.com/metagaming>): any reasoning about oversight. Simulated deployment traffic closely matched real deployment traffic across all three measures. For example, GPT‑5.2 labeled real production traffic as evaluation-like 5.4% of the time and simulated traffic 5.1% of the time, while traditional evaluations (such as SWE-Bench or MonorepoBench, which are composed primarily of synthetic examples) were classified as evaluations almost 100% of the time.
 

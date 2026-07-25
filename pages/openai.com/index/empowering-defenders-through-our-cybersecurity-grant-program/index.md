@@ -43,20 +43,14 @@ Share
 Selected projects 
 
   * Selected projects 
-
   * Empowering defenders with ChatGPT
-
   * Apply now!
-
 
 
 
   * Selected projects 
-
   * Empowering defenders with ChatGPT
-
   * Apply now!
-
 
 
 
@@ -104,7 +98,7 @@ Stephen Moskal, Erik Hemberg and Una-May O’Reilly from [_MIT Computer Science 
 
 ChatGPT has emerged as one of the most popular and frequently used tools by cybersecurity professionals. Among the most common uses for cyber defenders include translating and rephrasing technical jargon or log events into simpler language, writing code to analyze artifacts during investigations, creating log parsers, and summarizing an incident status within strict time constraints.
 
-To amplify its benefits, we've granted free access to ChatGPT Plus to many in the cybersecurity community, seeing this as a key opportunity to enhance AI adoption in cyber defense.
+To amplify its benefits, we’ve granted free access to ChatGPT Plus to many in the cybersecurity community, seeing this as a key opportunity to enhance AI adoption in cyber defense.
 
 We will continue offering free ChatGPT Plus accounts and are extending this initiative to provide ChatGPT Team and Enterprise. Our expansion begins with our partners at the [_Research and Education Network for Uganda (RENU)_ ⁠(opens in a new window)](<https://renu.ac.ug/>).
 

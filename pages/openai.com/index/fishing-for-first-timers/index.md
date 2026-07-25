@@ -58,13 +58,13 @@ To Stephanie’s surprise, ChatGPT answers in a preselected pirate voice.
 
 Adam is an unlikely social influencer. Instead of taco reviews, the latest fits or dancing tutorials, he’s created and shared hundreds of hours of fishing content. The videos typically feature Adam on his kitted-out sea kayak in and around the Bay and surrounding waters. Reeling in rockfish, lingcod and halibut from his bobbing perch with an enthusiastic and informative live commentary has earned him Internet fame in a niche community. His following has grown big enough that he recently - and with his wife’s permission - was able to quit his office job and go fishing full time.   
   
-“I create fishing videos essentially for a living and share them with the world on YouTube. My channel is called Diehard Fishing. I grew up in the Bay Area, so I'm more familiar with this area fishing wise. And more recently I've branched out a little bit doing some traveling. I recently took a trip to Panama, to Alaska and basically all up and down the California coastline.”
+“I create fishing videos essentially for a living and share them with the world on YouTube. My channel is called Diehard Fishing. I grew up in the Bay Area, so I’m more familiar with this area fishing wise. And more recently I’ve branched out a little bit doing some traveling. I recently took a trip to Panama, to Alaska and basically all up and down the California coastline.”
 
 ![Fishing for first timers ](https://images.ctfassets.net/kftzwdyauwt9/7lCnWjMG414JfMmbmSGHWu/da461156fcbaf37b8efc7debfa4004f6/Media.jpg?w=3840&q=90&fm=webp)
 
 Adam has been fishing for all his life. It’s a sort of family tradition. As long as he can remember his father was always bringing him along to nearby beaches to go surf fishing or up to trout streams in the Sierras. He learned little-by-little, year-after-year by rote practice and hands-on experience. As his knowledge grew, so did his passion.   
   
-“I honestly don't know really exactly what it was that made me love fishing, but I did always. So I was lucky in that aspect that I had my Dad to take me and teach me the basics of fishing. Like how to cast a line or bait a hook. How to tell if you have a fish on or if you're just stuck on a rock or whatever. But yeah, I mean it gets being passed down.”
+“I honestly don’t know really exactly what it was that made me love fishing, but I did always. So I was lucky in that aspect that I had my Dad to take me and teach me the basics of fishing. Like how to cast a line or bait a hook. How to tell if you have a fish on or if you’re just stuck on a rock or whatever. But yeah, I mean it gets being passed down.”
 
 Regardless of his knowledge, Adam, like every angler knows that sometimes you just don’t catch anything. After getting “skunked” while out for halibut a few times, he turned to an unlikely source for advice, ChatGPT. Adam had used ChatGPT before while working his old office job so he had a crazy thought. 
 
@@ -84,13 +84,13 @@ So that evening, Adam worked with ChatGPT to develop a plan to catch a halibut o
 
 ![Fishing for first timers ](https://images.ctfassets.net/kftzwdyauwt9/5VazlxRuz0gTU0ptsdf0TH/9efb97d2d5932b2043c0a7612d333515/ChatGPT.jpg?w=3840&q=90&fm=webp)
 
-> “I was surprised at not only how detailed the information that it gave me was, but how accurate it was. It gave me different baits, different water depths where I should target this specific fish, even tides. But yeah, all this information that it would take years to figure out on your own. A lot of trial and error, but it's just like right there.”
+> “I was surprised at not only how detailed the information that it gave me was, but how accurate it was. It gave me different baits, different water depths where I should target this specific fish, even tides. But yeah, all this information that it would take years to figure out on your own. A lot of trial and error, but it’s just like right there.”
 
 The experiment worked. Using results from ChatGPT, he caught three keepers the next day. For an expert fisherman such as himself, it was something new and different to try. However, he realized that it could be an invaluable tool for first timers or anyone just getting interested into the sport. 
 
 ![Fishing for first timers ](https://images.ctfassets.net/kftzwdyauwt9/4xZbFlOwPkuOTtUafu1uVd/977496e4b71e18df5509e6f79aef3c09/20241113_DRE_Z8_21173.jpg?w=3840&q=90&fm=webp)
 
-“It definitely accelerated the learning curve. I felt like even if I didn't know anything about fishing for California halibut, I don't know the exact equivalent, but it gives you maybe five years of experience just from that 60 seconds of asking ChatGPT… Not only for your knowledge, but also for your safety.”  
+“It definitely accelerated the learning curve. I felt like even if I didn’t know anything about fishing for California halibut, I don’t know the exact equivalent, but it gives you maybe five years of experience just from that 60 seconds of asking ChatGPT… Not only for your knowledge, but also for your safety.”  
   
 Adam is still out there almost everyday trying for the big one. Or, at least a bigger one. He’s excited that ChatGPT could help others get into fishing and passionate about sharing his hobby. Also, it hasn’t escaped his attention that more people out fishing for California halibut could mean more viewers for him. His wife approves. 
 
@@ -124,9 +124,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -163,6 +163,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -196,6 +198,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

@@ -34,7 +34,9 @@ OpenAI
 
 [Visit website(opens in a new window)](<https://www.tribe.ai/>)
 
-Tribe AI exists to close the gap between what AI can do and the value enterprises actually get from it. AI is the only thing we've done since 2019, and we work with the Fortune 1000 on board-level bets to become AI-native. The work takes one of three shapes:
+## About
+
+Tribe AI exists to close the gap between what AI can do and the value enterprises actually get from it. AI is the only thing we’ve done since 2019, and we work with the Fortune 1000 on board-level bets to become AI-native. The work takes one of three shapes:
 
 1\. Reimagine what you build and sell: new AI products, customer experiences, and revenue streams. Top-line, CEO-level bets.
 
@@ -42,7 +44,7 @@ Tribe AI exists to close the gap between what AI can do and the value enterprise
 
 3\. Supercharge every employee: embedding agentic tooling (Codex) into how work actually gets done, so individual productivity gains compound across the org.
 
-![Advanced Partner](/images/partner-tier-badges/OAI_PartnerNetwork_AdvancedPartner.svg?dpl=dpl_Bt2QvgNvrDjuduwqx5NPqQxCos4N)
+![Advanced Partner](/images/partner-tier-badges/OAI_PartnerNetwork_AdvancedPartner.svg?dpl=dpl_Hns9WEmZBnVGpPJRAKCsp96Fgg1A)
 
 Countries served
     United States, Canada, Brazil, United Kingdom, Ireland, Germany, Netherlands, France, Sweden, Spain, and Portugal
@@ -137,6 +139,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

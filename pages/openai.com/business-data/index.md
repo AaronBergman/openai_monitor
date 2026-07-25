@@ -46,7 +46,7 @@ By default, we do not use data from ChatGPT Enterprise, ChatGPT Business, ChatGP
 
 **Your data is encrypted at rest and in transit between you and OpenAI, and between OpenAI and its service providers.**
 
-Whether you're sending inputs or receiving outputs, your business data remains protected from unauthorized access. We use strong, industry-standard cryptography to protect your data. This includes using AES-256 encryption at rest and TLS 1.2 or higher in transit.
+Whether you’re sending inputs or receiving outputs, your business data remains protected from unauthorized access. We use strong, industry-standard cryptography to protect your data. This includes using AES-256 encryption at rest and TLS 1.2 or higher in transit.
 
 With [Enterprise Key Management (EKM)⁠(opens in a new window)](<https://help.openai.com/en/articles/20000943-openai-enterprise-key-management-ekm-overview>), customers can control their own encryption keys, adding another layer of security and compliance.
 

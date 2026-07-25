@@ -26,17 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Can you elaborate on the different components of the business and who John Deere’s customers are across its ecosystem?
-
-  * Can you elaborate on the different components of the business and who John Deere’s customers are across its ecosystem?
-  * How do you see AI transforming agriculture? What challenges can it help solve?
-  * Many of Deere’s customers aren’t technologists by trade. How do you communicate the value of AI to them?
-  * With AI, have there been any changes in the way you approach customer success?
-  * What insights have you uncovered about deploying and scaling AI as more of it goes into production?
-  * Are there any particular use cases or examples you’re proud of where AI is really making a difference?
-
-
-
 May 6, 2025
 
 [API](</stories/api/>)
@@ -51,7 +40,27 @@ Loading…
 
 Share
 
-** _Our Executive Function series features perspectives from leaders driving transformation through AI._**
+Can you elaborate on the different components of the business and who John Deere’s customers are across its ecosystem?
+
+  * Can you elaborate on the different components of the business and who John Deere’s customers are across its ecosystem?
+  * How do you see AI transforming agriculture? What challenges can it help solve?
+  * Many of Deere’s customers aren’t technologists by trade. How do you communicate the value of AI to them?
+  * With AI, have there been any changes in the way you approach customer success?
+  * What insights have you uncovered about deploying and scaling AI as more of it goes into production?
+  * Are there any particular use cases or examples you’re proud of where AI is really making a difference?
+
+
+
+  * Can you elaborate on the different components of the business and who John Deere’s customers are across its ecosystem?
+  * How do you see AI transforming agriculture? What challenges can it help solve?
+  * Many of Deere’s customers aren’t technologists by trade. How do you communicate the value of AI to them?
+  * With AI, have there been any changes in the way you approach customer success?
+  * What insights have you uncovered about deploying and scaling AI as more of it goes into production?
+  * Are there any particular use cases or examples you’re proud of where AI is really making a difference?
+
+
+
+**_Our Executive Function series features perspectives from leaders driving transformation through AI._**
 
 John Deere helps produce food, fiber, fuel, and infrastructure, and works for every single person on the planet. It all started nearly 200 years ago with a steel plow. Today, John Deere drives innovation in agriculture, construction, forestry, turf, power systems, and more. We spoke with Justin Rose about AI transforming agriculture, its impact on traditional customer success teams, and insights from its AI deployment at John Deere. 
 
@@ -89,11 +98,11 @@ AI helps simplify that complexity and overcome challenges. Whether it’s precis
 
 ## With AI, have there been any changes in the way you approach customer success?
 
-One area is our business model. We're shifting to subscription-based, renewable licenses for our cutting-edge technology, reducing upfront costs and ensuring customers pay only when they use it—delivering value before full commitment. Our success depends on theirs.
+One area is our business model. We’re shifting to subscription-based, renewable licenses for our cutting-edge technology, reducing upfront costs and ensuring customers pay only when they use it—delivering value before full commitment. Our success depends on theirs.
 
 With hundreds of thousands of machines operating across millions of acres, another area is using real-time data to provide actionable insights at the right moment. 
 
-For example, a traditional customer success approach might send automated sprayer reminders, but if it's raining all week, they're irrelevant or frustrating. With data, we analyze farmers' goals and timing to provide timely, relevant support that optimizes operations.
+For example, a traditional customer success approach might send automated sprayer reminders, but if it’s raining all week, they’re irrelevant or frustrating. With data, we analyze farmers' goals and timing to provide timely, relevant support that optimizes operations.
 
 Our vision is an AI-powered customer success function where a small team, aided by real-time telematics, delivers personalized support at a 1,000:1 ratio, rather than the traditional 10:1. AI and automation ensure timely, relevant outreach, keeping humans in the loop while scaling efficiency.
 
@@ -164,9 +173,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -203,6 +212,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -236,6 +247,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

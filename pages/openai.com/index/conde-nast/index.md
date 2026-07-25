@@ -44,7 +44,7 @@ We’re announcing a partnership with Condé Nast to display content from top br
 
 With the introduction of our [_SearchGPT prototype_ ⁠](<https://openai.com/index/searchgpt-prototype/>), we’re testing new search features that make finding information and reliable content sources faster and more intuitive. We’re combining our conversational models with information from the web to give you fast and timely answers with clear and relevant sources. SearchGPT offers direct links to news stories, enabling users to easily explore more in-depth content directly from the source. We plan to integrate the best of these features directly into ChatGPT in the future.
 
-We're collaborating with our news partners to collect feedback and insights on the design and performance of SearchGPT, ensuring that these integrations enhance user experiences and inform future updates to ChatGPT.
+We’re collaborating with our news partners to collect feedback and insights on the design and performance of SearchGPT, ensuring that these integrations enhance user experiences and inform future updates to ChatGPT.
 
 > “We’re committed to working with Condé Nast and other news publishers to ensure that as AI plays a larger role in news discovery and delivery, it maintains accuracy, integrity, and respect for quality reporting.”
 
@@ -72,9 +72,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -111,6 +111,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -144,6 +146,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

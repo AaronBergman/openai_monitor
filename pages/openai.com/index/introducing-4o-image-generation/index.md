@@ -26,18 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Useful image generation
-
-  * Useful image generation
-  * Improved capabilities
-  * Photorealism and style
-  * Limitations
-  * Safety
-  * Access and availability 
-  * Livestream replay
-
-
-
 March 25, 2025
 
 [Product](</news/product-releases/>)[Release](</research/index/release/>)
@@ -51,6 +39,38 @@ Unlocking useful and valuable image generation with a natively multimodal model 
 Loading…
 
 Share
+
+Useful image generation
+
+  * Useful image generation
+  * Improved capabilities
+    * Text rendering
+    * Multi-turn generation
+    * Instruction following
+    * In-context learning
+    * World knowledge
+  * Photorealism and style
+  * Limitations
+  * Safety
+  * Access and availability 
+  * Livestream replay
+
+
+
+  * Useful image generation
+  * Improved capabilities
+    * Text rendering
+    * Multi-turn generation
+    * Instruction following
+    * In-context learning
+    * World knowledge
+  * Photorealism and style
+  * Limitations
+  * Safety
+  * Access and availability 
+  * Livestream replay
+
+
 
 At OpenAI, we have long believed image generation should be a primary capability of our language models. That’s why we’ve built our most advanced image generator yet into GPT‑4o. The result—image generation that is not only beautiful, but useful.
 
@@ -171,7 +191,7 @@ GPT‑4o’s image generation follows detailed prompts with attention to detail.
 
 Organized objectsEmpty cityWine glassInvisible elephantMath equation
 
-A square image containing a 4 row by 4 column grid containing 16 objects on a white background. Go from left to right, top to bottom. Here's the list:  
+A square image containing a 4 row by 4 column grid containing 16 objects on a white background. Go from left to right, top to bottom. Here’s the list:  
 1\. a blue star  
 2\. red triangle  
 3\. green square  
@@ -718,7 +738,7 @@ We’ve noticed that GPT‑4o can occasionally crop longer images, like posters,
 
 ## Safety
 
-In line with our Model Spec, we aim to maximize creative freedom by supporting valuable use cases like game development, historical exploration, and education—while maintaining strong safety standards. At the same time, it remains as important as ever to block requests that violate those standards. Below are evaluations of additional risk areas where we're working to enable safe, high-utility content and support broader creative expression for users.
+In line with our Model Spec, we aim to maximize creative freedom by supporting valuable use cases like game development, historical exploration, and education—while maintaining strong safety standards. At the same time, it remains as important as ever to block requests that violate those standards. Below are evaluations of additional risk areas where we’re working to enable safe, high-utility content and support broader creative expression for users.
 
 **Provenance via C2PA and internal reversible search****  
 **All generated images come with C2PA⁠ metadata, which will identify an image as coming from GPT‑4o, to provide transparency. We’ve also built an internal search tool that uses technical attributes of generations to help verify if content came from our model.
@@ -1056,9 +1076,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -1095,6 +1115,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -1128,6 +1150,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

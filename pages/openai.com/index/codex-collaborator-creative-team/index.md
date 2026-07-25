@@ -56,7 +56,7 @@ Most people assume Codex is just for engineers and developers, but for Chad Nels
 
 Used to working within the constraints of the standard software for creatives, Chad’s been impressed with Codex’s ability to help him create better tools, build custom workflows, and generate campaign directions grounded in the full context of a project.
 
-> “I'm actually bringing Codex sketches, storyboards, and design style guides—things that you wouldn’t assume Codex could understand. But it not only understands those things, it actually helps me collaborate and create utilizing those different assets.”
+> “I’m actually bringing Codex sketches, storyboards, and design style guides—things that you wouldn’t assume Codex could understand. But it not only understands those things, it actually helps me collaborate and create utilizing those different assets.”
 
 —Chad Nelson, Creative Specialist, OpenAI
 

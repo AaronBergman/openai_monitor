@@ -26,14 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-A starting point
-
-  * A starting point
-  * What’s not in scope
-  * Public input and potential
-
-
-
 May 22, 2023
 
 [Safety](</news/safety-alignment/>)
@@ -47,6 +39,20 @@ Now is a good time to start thinking about the governance of superintelligence�
 Loading…
 
 Share
+
+A starting point
+
+  * A starting point
+  * What’s not in scope
+  * Public input and potential
+
+
+
+  * A starting point
+  * What’s not in scope
+  * Public input and potential
+
+
 
 Given the picture as we see it now, it’s conceivable that within the next ten years, AI systems will exceed expert skill level in most domains, and carry out as much productive activity as one of today’s largest corporations.
 
@@ -76,7 +82,7 @@ By contrast, the systems we are concerned about will have power beyond any techn
 
 ## Public input and potential
 
-But the governance of the most powerful systems, as well as decisions regarding their deployment, must have strong public oversight. We believe people around the world should democratically decide on the [bounds and defaults⁠](</index/how-should-ai-systems-behave/>) for AI systems. We don't yet know how to design such a mechanism, but [we plan to experiment⁠](</index/democratic-inputs-to-ai/>) with its development. We continue to think that, within these wide bounds, individual users should have a lot of control over how the AI they use behaves.
+But the governance of the most powerful systems, as well as decisions regarding their deployment, must have strong public oversight. We believe people around the world should democratically decide on the [bounds and defaults⁠](</index/how-should-ai-systems-behave/>) for AI systems. We don’t yet know how to design such a mechanism, but [we plan to experiment⁠](</index/democratic-inputs-to-ai/>) with its development. We continue to think that, within these wide bounds, individual users should have a lot of control over how the AI they use behaves.
 
 Given the risks and difficulties, it’s worth considering why we are building this technology at all.
 
@@ -124,9 +130,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -163,6 +169,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -196,6 +204,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)
