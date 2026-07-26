@@ -4,6 +4,39 @@ A daily log of every change to OpenAI's public website — what appeared, what d
 
 ---
 
+## 2026-07-26 — Run `2026-07-26T09-15Z`
+
+**Fetch time:** 2026-07-26T09:18:43Z
+**Baseline:** 2026-07-25T09-15Z (consecutive day)
+**Stats:** 1484 total URLs | +0 added | 18 updated | -0 removed | 0 anomalies | 34 sub-sitemaps
+
+**TL;DR:** The quietest run in weeks. No pages were added or removed, and the sitemap taxonomy is unchanged. 18 pages got a fresh `<lastmod>` timestamp, but every single one is byte-for-byte identical to yesterday's snapshot — a pure backend touch/republish with zero visible content change. Six of the eighteen (the "OpenAI on OpenAI" internal-agent case studies plus the Codex/creative-team story) share a near-identical timestamp cluster around 08:33 UTC, reading like the tail end of the templated re-render sweeps seen in prior runs finally finding nothing left to change. No timestamp anomalies of any kind.
+
+### Anomalies
+
+None this run. No future-dated or backdated lastmods, no removed-then-reappeared URLs, no cross-section migrations — every one of the 1,484 URLs stayed in the same sub-sitemap section it was in yesterday.
+
+### Notable additions
+
+None — 0 new URLs.
+
+### Notable updates
+
+None substantive. All 18 `<lastmod>`-bumped pages (`/api-reserved-tier/`, `/api-scale-tier/`, `/form/copyright-disputes/`, `/products/release-notes/`, `/signals/`, `/signals/research/`, and six `/index/...` posts including the Hugging Face security-incident writeup and the Effingham County data-center announcement) diffed as byte-identical to yesterday's markdown — no wording, pricing, or structural changes on any of them.
+
+### Routine updates
+
+18 pages republished with no detectable content change (see Notable updates above) — the highest "touched but unchanged" ratio of any run logged so far (18/18). Full per-URL lastmod table in [`runs/2026-07-26T09-15Z/analysis.md`](runs/2026-07-26T09-15Z/analysis.md).
+
+### Removals
+
+None this run.
+
+Full analysis: [runs/2026-07-26T09-15Z/analysis.md](runs/2026-07-26T09-15Z/analysis.md)
+
+---
+*Stats: 1,484 total URLs | +0 added | 18 updated | -0 removed | 0 anomalies | 34 sub-sitemaps*
+
 ## 2026-07-25 — Run `2026-07-25T09-15Z`
 
 **Fetch time:** 2026-07-25T09:18:00Z
