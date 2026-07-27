@@ -4,6 +4,39 @@ A daily log of every change to OpenAI's public website — what appeared, what d
 
 ---
 
+## 2026-07-27 — Run `2026-07-27T09-17Z`
+
+**Fetch time:** 2026-07-27T09:19:10Z
+**Baseline:** 2026-07-26T09-15Z (consecutive day)
+**Stats:** 1484 total URLs | +0 added | 20 updated | -0 removed | 0 anomalies | 34 sub-sitemaps
+
+**TL;DR:** Another quiet day. No pages added or removed, sitemap taxonomy unchanged, and all 20 pages that got a fresh `<lastmod>` timestamp are byte-for-byte identical to yesterday's snapshot — a pure backend touch/republish with zero visible content change. The same recurring cluster of "OpenAI on OpenAI" internal-agent case-study pages got re-touched again (this time at 09:09–09:10 UTC, vs. 08:33 UTC yesterday), continuing a pattern seen on multiple recent runs. A first-pass check flagged 4 URLs as migrating sitemap sections, but a closer full set-comparison check showed that was a false positive from a simpler "last file wins" mapping — those URLs are simply cross-listed in two sections, unchanged from yesterday. No timestamp anomalies of any kind.
+
+### Anomalies
+
+None this run. No future-dated or backdated lastmods, no removed-then-reappeared URLs, no genuine cross-section migrations (an initial simple check flagged 4 URLs as moving between `global-affairs` and `global-affairs-news-listed`; a full per-URL set-comparison across all 34 sub-sitemaps confirmed this was a false positive — see [`runs/2026-07-27T09-17Z/analysis.md`](runs/2026-07-27T09-17Z/analysis.md) for the correction).
+
+### Notable additions
+
+None — 0 new URLs.
+
+### Notable updates
+
+None substantive. All 20 `<lastmod>`-bumped pages (`/api-reserved-tier/`, `/api-scale-tier/`, `/business/openai-presence/`, `/products/release-notes/`, `/signals/`, `/signals/research/`, and 14 `/index/...` posts including the Deutsche Telekom, Australian Payments Plus, and ChatGPT Health writeups) diffed as byte-identical to yesterday's markdown — no wording, pricing, or structural changes on any of them.
+
+### Routine updates
+
+20 pages republished with no detectable content change (see Notable updates above). The six "OpenAI on OpenAI" internal-agent case studies plus `building-openai-with-openai` and `codex-collaborator-creative-team` again cluster tightly in time (09:09:50–09:10:05 UTC), the same recurring pattern from the last several runs. Two companion-page pairs (`business/openai-presence` + `index/introducing-openai-presence`, and `signals` + `signals/research`) share near-identical timestamps, reading as single edit events touching a hub page and its detail page together. Full per-URL lastmod table in [`runs/2026-07-27T09-17Z/analysis.md`](runs/2026-07-27T09-17Z/analysis.md).
+
+### Removals
+
+None this run.
+
+Full analysis: [runs/2026-07-27T09-17Z/analysis.md](runs/2026-07-27T09-17Z/analysis.md)
+
+---
+*Stats: 1,484 total URLs | +0 added | 20 updated | -0 removed | 0 anomalies | 34 sub-sitemaps*
+
 ## 2026-07-26 — Run `2026-07-26T09-15Z`
 
 **Fetch time:** 2026-07-26T09:18:43Z

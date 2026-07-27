@@ -1,0 +1,111 @@
+{
+  "run_id": "2026-07-27T09-17Z",
+  "fetch_time": "2026-07-27T09:19:10Z",
+  "baseline": "2026-07-26T09-15Z",
+  "added": [],
+  "removed": [],
+  "updated": [
+    {
+      "url": "https://openai.com/api-reserved-tier/",
+      "old_lastmod": "2026-07-26T06:23:12.159Z",
+      "new_lastmod": "2026-07-27T09:02:16.824Z"
+    },
+    {
+      "url": "https://openai.com/api-scale-tier/",
+      "old_lastmod": "2026-07-26T09:08:33.653Z",
+      "new_lastmod": "2026-07-27T08:58:28.296Z"
+    },
+    {
+      "url": "https://openai.com/business/openai-presence/",
+      "old_lastmod": "2026-07-25T08:49:26.941Z",
+      "new_lastmod": "2026-07-27T07:20:08.891Z"
+    },
+    {
+      "url": "https://openai.com/index/advancing-the-next-era-of-national-science/",
+      "old_lastmod": "2026-07-25T00:44:37.408Z",
+      "new_lastmod": "2026-07-26T15:27:27.224Z"
+    },
+    {
+      "url": "https://openai.com/index/australian-payments-plus/",
+      "old_lastmod": "2026-07-25T06:55:27.471Z",
+      "new_lastmod": "2026-07-27T06:43:50.772Z"
+    },
+    {
+      "url": "https://openai.com/index/building-openai-with-openai/",
+      "old_lastmod": "2026-07-26T08:33:16.701Z",
+      "new_lastmod": "2026-07-27T09:09:56.601Z"
+    },
+    {
+      "url": "https://openai.com/index/codex-collaborator-creative-team/",
+      "old_lastmod": "2026-07-26T08:33:11.425Z",
+      "new_lastmod": "2026-07-27T09:09:50.051Z"
+    },
+    {
+      "url": "https://openai.com/index/deutsche-telekom/",
+      "old_lastmod": "2026-07-25T06:52:59.137Z",
+      "new_lastmod": "2026-07-27T05:28:45.020Z"
+    },
+    {
+      "url": "https://openai.com/index/health-in-chatgpt/",
+      "old_lastmod": "2026-07-26T08:43:14.333Z",
+      "new_lastmod": "2026-07-27T08:21:22.599Z"
+    },
+    {
+      "url": "https://openai.com/index/introducing-chatgpt-health/",
+      "old_lastmod": "2026-07-25T07:00:27.412Z",
+      "new_lastmod": "2026-07-26T20:18:03.017Z"
+    },
+    {
+      "url": "https://openai.com/index/introducing-openai-presence/",
+      "old_lastmod": "2026-07-25T08:49:35.011Z",
+      "new_lastmod": "2026-07-27T07:20:12.326Z"
+    },
+    {
+      "url": "https://openai.com/index/openai-contract-data-agent/",
+      "old_lastmod": "2026-07-26T08:33:21.365Z",
+      "new_lastmod": "2026-07-27T09:10:05.059Z"
+    },
+    {
+      "url": "https://openai.com/index/openai-gtm-assistant/",
+      "old_lastmod": "2026-07-26T08:33:20.882Z",
+      "new_lastmod": "2026-07-27T09:10:05.417Z"
+    },
+    {
+      "url": "https://openai.com/index/openai-inbound-sales-assistant/",
+      "old_lastmod": "2026-07-26T08:33:20.501Z",
+      "new_lastmod": "2026-07-27T09:10:01.324Z"
+    },
+    {
+      "url": "https://openai.com/index/openai-research-assistant/",
+      "old_lastmod": "2026-07-26T08:33:20.452Z",
+      "new_lastmod": "2026-07-27T09:10:01.213Z"
+    },
+    {
+      "url": "https://openai.com/index/openai-scholars/",
+      "old_lastmod": "2026-07-24T18:51:28.355Z",
+      "new_lastmod": "2026-07-26T15:58:29.709Z"
+    },
+    {
+      "url": "https://openai.com/index/openai-support-model/",
+      "old_lastmod": "2026-07-26T08:33:20.754Z",
+      "new_lastmod": "2026-07-27T09:10:03.428Z"
+    },
+    {
+      "url": "https://openai.com/products/release-notes/",
+      "old_lastmod": "2026-07-26T09:00:41.569Z",
+      "new_lastmod": "2026-07-27T08:30:01.329Z"
+    },
+    {
+      "url": "https://openai.com/signals/",
+      "old_lastmod": "2026-07-26T05:44:33.224Z",
+      "new_lastmod": "2026-07-27T08:46:25.454Z"
+    },
+    {
+      "url": "https://openai.com/signals/research/",
+      "old_lastmod": "2026-07-26T05:44:50.178Z",
+      "new_lastmod": "2026-07-27T08:46:28.590Z"
+    }
+  ],
+  "anomalies": [],
+  "fetch_failures": []
+}
