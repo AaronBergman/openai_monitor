@@ -50,7 +50,7 @@ GuidesOpenAI on OpenAIWebinarsDemos
 
 ![Codex maxxing 1x1](https://images.ctfassets.net/kftzwdyauwt9/5RFmrNey5oX93M1WyqCs4o/5b6ccdce4022764200e06739cda7c21f/Codex_maxxing_1x1.png?w=3840&q=90&fm=webp)
 
-[Codex-maxxing for long-running workHow Codex helps work continue beyond a single promptJun 22, 2026](</index/codex-maxxing-long-running-work/>)
+[Codex-maxxing for long-running workHow Codex helps work continue beyond a single prompt](</index/codex-maxxing-long-running-work/>)
 
 ![B2B Signals > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/4m1ZOzwi9LOdcI5VNCLZD1/e64d0e19ef2fe66e6121a5706c0fbc9f/b2b_signals.png?w=3840&q=90&fm=webp)
 
@@ -66,7 +66,7 @@ GuidesOpenAI on OpenAIWebinarsDemos
 
 ![1x1 staying ahead](https://images.ctfassets.net/kftzwdyauwt9/5uCs5mXCel0eJTL8ahQ7TA/10959a8edd7a3753c5ff473c0ad460a9/1x1_staying_ahead.png?w=3840&q=90&fm=webp)
 
-[Staying ahead in the age of AIA guide for leaders.Dec 16, 2025](</business/guides-and-resources/staying-ahead-in-the-age-of-ai/>)
+[Staying ahead in the age of AIA guide for leaders.](</business/guides-and-resources/staying-ahead-in-the-age-of-ai/>)
 
 ![Abstract blue gradient background with scattered white code snippets; centered white rounded box shows a purple merge-icon label reading ‘Merged’ next to green ‘+217’ and red ‘-196’ line-change counts.](https://images.ctfassets.net/kftzwdyauwt9/2V3CASyikBG8IDxHXF8Lxa/6c0953d46fa9e1ee6542ed7e0506e47f/Codex_LP_01_v3.png?w=3840&q=90&fm=webp)
 

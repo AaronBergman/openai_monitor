@@ -26,6 +26,18 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
+April 10, 2026
+
+OpenAI Academy
+
+# Learn ChatGPT for Sales Teams
+
+Learn how sales teams use ChatGPT to build stronger pipeline and sell more effectively.
+
+Loading…
+
+Share
+
 Why sales teams use ChatGPT?
 
   * Why sales teams use ChatGPT?
@@ -36,17 +48,13 @@ Why sales teams use ChatGPT?
 
 
 
-April 10, 2026
+  * Why sales teams use ChatGPT?
+  * Key use cases for sales teams
+  * How teams use ChatGPT effectively
+  * Key features for sales teams
+  * Measuring impact 
 
-OpenAI Academy
 
-# ChatGPT for sales teams
-
-Learn how sales teams use ChatGPT to build stronger pipeline and sell more effectively.
-
-Loading…
-
-Share
 
 ChatGPT helps sales teams move faster through the parts of selling that often slow them down—research, prep, follow-up, and deal coordination. It turns messy inputs like account notes, call takeaways, and CRM data into clear outputs such as briefs, emails, and plans.
 
@@ -195,15 +203,15 @@ Discover additional guides and resources to help you build practical AI skills.
 
 ![Academy > Customer success > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/YV0SfzN3qIM6qCrQ3XTO0/b58c9038114293db5db3cc8832348a5c/customer-success.png?w=3840&q=90&fm=webp)
 
-[ChatGPT for customer success teamsOpenAI AcademyApr 10, 2026](</academy/customer-success/>)
+[ChatGPT for customer success teams | OpenAIOpenAI AcademyApr 10, 2026](</academy/customer-success/>)
 
 ![Academy > Finance > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/5oD5aOV77eWiWp6ZLigAVN/d6ea39d836ba4832394f25e3e3fcc9e4/finance.png?w=3840&q=90&fm=webp)
 
-[ChatGPT for finance teamsOpenAI AcademyApr 10, 2026](</academy/finance/>)
+[ChatGPT for finance teams | OpenAIOpenAI AcademyApr 10, 2026](</academy/finance/>)
 
 ![Academy > Operations > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/66loCrCRxCGAdv5ElN6vc9/d844920d80ae903617bd7336fa6d99cc/operations.png?w=3840&q=90&fm=webp)
 
-[ChatGPT for operations teamsOpenAI AcademyApr 10, 2026](</academy/operations/>)
+[ChatGPT for operations teams | OpenAIOpenAI AcademyApr 10, 2026](</academy/operations/>)
 
 Research
 
@@ -215,9 +223,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -254,6 +262,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -287,6 +297,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

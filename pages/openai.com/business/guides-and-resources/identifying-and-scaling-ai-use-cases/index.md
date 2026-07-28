@@ -26,11 +26,15 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 OpenAI
 
+Guides
+
 # Identifying and scaling AI use cases
 
 How early adopters focus their AI efforts
 
 [Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)[Contact sales](</contact-sales/>)
+
+Share
 
 Foreword
 
@@ -307,7 +311,7 @@ Tinder’s engineering team uses ChatGPT to generate first-draft syntax when wor
 
 ![Abstract blue square](https://images.ctfassets.net/kftzwdyauwt9/6NRiPNB4aUauLEaRn8T1UW/98699738ea86db53f56c979049ab4af4/Media__6_.png?w=3840&q=90&fm=webp)
 
-> “There were tasks in Jira that used to get deprioritized because they felt like a chore. Now I wind up taking them on because I know it's going to be easier to tackle with ChatGPT at my side.”
+> “There were tasks in Jira that used to get deprioritized because they felt like a chore. Now I wind up taking them on because I know it’s going to be easier to tackle with ChatGPT at my side.”
 
 Chris Fuller, Staff Software Engineer, Tinder
 
@@ -331,7 +335,7 @@ Poshmark, the fashion marketplace, used ChatGPT to generate the Python code that
 
 ![Abstract blue square](https://images.ctfassets.net/kftzwdyauwt9/6NRiPNB4aUauLEaRn8T1UW/98699738ea86db53f56c979049ab4af4/Media__6_.png?w=3840&q=90&fm=webp)
 
-> “We’ve dramatically reduced manual work and improved speed, accuracy, communication and insights. I'm seeing an elevation of everyone's job.”
+> “We’ve dramatically reduced manual work and improved speed, accuracy, communication and insights. I’m seeing an elevation of everyone’s job.”
 
 Rodrigo Brumana, CFO, Poshmark
 
@@ -537,17 +541,19 @@ Learn how we help companies build scalable, responsible AI strategies.
 
 ## Keep reading
 
-![Health in ChatGPT > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/48aIp3cQOKJ57vpQeqOb8y/2e8732bcad5ceea1c7b20cf001bd2823/1_1_Art_Card.png?w=3840&q=90&fm=webp)
+[View all](</news/>)
 
-[Launching Health in ChatGPT ProductJul 23, 2026](</index/health-in-chatgpt/>)
+![How enterprises are scaling AI > art card](https://images.ctfassets.net/kftzwdyauwt9/7bwFx4oZ7LkV7wTeDdAIbA/989f92a7be5c2bd36fafb94bbeef076f/Frame.png?w=3840&q=90&fm=webp)
 
-![effingham county 1x1](https://images.ctfassets.net/kftzwdyauwt9/3f1fyaaSZELql3zECUImW3/1733a5ee7f07da894b993dcff75bea66/effingham_county_1x1.png?w=3840&q=90&fm=webp)
+[ How enterprises are scaling AIGuidesMay 11, 2026](</business/guides-and-resources/how-enterprises-are-scaling-ai/>)
 
-[Building AI infrastructure with the Effingham County communityGlobal AffairsJul 22, 2026](</index/building-ai-infrastructure-with-the-effingham-county-community/>)
+![Business guides > Layout > Carousel > ChatGPT usage and adoption patterns at work > media > asset](https://images.ctfassets.net/kftzwdyauwt9/2rUSG4XSMDGLJMBdfgtVH/97f5474b4822fccb60211817a5cceb65/chatgpt-usage-and-adoption-patterns-at-work-IMAGE.png?w=3840&q=90&fm=webp)
 
-![How news organizations are using AI > Card Image](https://images.ctfassets.net/kftzwdyauwt9/5nTzxwRy4Is9PQSluyYkWP/d6e7953a692a5a8c926885e2f50a3427/how_news_orgs_use_AI_1x1.png?w=3840&q=90&fm=webp)
+[ChatGPT usage and adoption patterns at workGuidesJan 22, 2026](</business/guides-and-resources/chatgpt-usage-and-adoption-patterns-at-work/>)
 
-[How news organizations use AI to advance their vital missionsCompanyJul 22, 2026](</index/how-news-organizations-are-using-ai/>)
+![State of Enterprise AI 2025 > cover image](https://images.ctfassets.net/kftzwdyauwt9/1zzmHm4xiyh99UAioTRe3o/448a21b0cb11cfbdf90198f231ee7bff/homepage_feature_v2.png?w=3840&q=90&fm=webp)
+
+[The state of enterprise AIGuidesDec 17, 2025](</business/guides-and-resources/the-state-of-enterprise-ai-2025-report/>)
 
 Research
 

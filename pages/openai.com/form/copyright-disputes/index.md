@@ -52,6 +52,10 @@ Material that is hosted on OpenAI’s platform, including a GPT
 
 Material that is accessible through a link or reference in ChatGPT search or Browse, or SearchGPT
 
+Please include a link/URL to the content *
+
+Add another URL
+
 Do you wish to provide any additional information that will help us understand your request?
 
 First name *
@@ -66,12 +70,6 @@ Phone number *
 
 The name of the rights holder. Enter either your full name or the name of the organization you are authorized to represent. *
 
-Declaration Statement: I have a good faith belief that the use of copyrighted material identified in this notice is not authorized by the copyright owner, its agent, or the law (e.g., as a fair use or other applicable copyright exception). Furthermore, I state that the disputed use is not authorized by the copyright owner and, under penalty of perjury, that I am or have been authorized to act on the copyright owner’s behalf. *
-
-Yes
-
-No
-
 I have considered whether the use of copyrighted material identified in this notice may qualify as a fair use under relevant law, and concluded that it is not fair use. *
 
 Yes
@@ -79,6 +77,12 @@ Yes
 No
 
 Electronic signature *
+
+Declaration Statement *
+
+I confirm and certify that:
+
+I have a good faith belief that the use of copyrighted material identified in this notice is not authorized by the copyright owner, its agent, or the law (e.g., as a fair use or other applicable copyright exception). Furthermore, I state that the disputed use is not authorized by the copyright owner and, under penalty of perjury, that I am or have been authorized to act on the copyright owner’s behalf.
 
 Submit
 
