@@ -95,6 +95,12 @@ Codex through OpenAI API
 
 In your own application via the OpenAI API
 
+Are you interested in accessing OpenAI cyber models through AWS if your Trusted Access for Cyber application is approved, and do you authorize OpenAI to share the necessary contact and approval information with AWS for this purpose? *
+
+Yes
+
+No
+
 Trusted Access for Cyber may be used only for authorized defensive cybersecurity work. Do all intended TAC uses involve systems, applications, accounts, networks, or data that you own, operate, or have explicit authorization to test or analyze? *Note that approved use cases only include security testing, vulnerability research, red teaming, malware analysis, threat intelligence, incident response, and related work when performed on systems you own, operate, or are explicitly authorized to test.
 
 Yes

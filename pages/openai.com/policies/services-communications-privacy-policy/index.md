@@ -37,60 +37,34 @@ Updated: April 28, 2026
 1\. Personal Data we collect
 
   * 1\. Personal Data we collect
-
   * 2\. How we use Personal Data
-
   * 3\. Disclosure of Personal Data
-
   * 4\. Retention
-
   * 5\. Data controls
-
   * 6\. Your rights
-
   * 7\. Children
-
   * 8\. Security
-
   * 9\. Additional U.S. state disclosures
-
   * 10\. Changes to the privacy policy
-
   * 11\. Data controller
-
   * 12\. How to contact us
-
   * 13\. Useful resources
-
 
 
 
   * 1\. Personal Data we collect
-
   * 2\. How we use Personal Data
-
   * 3\. Disclosure of Personal Data
-
   * 4\. Retention
-
   * 5\. Data controls
-
   * 6\. Your rights
-
   * 7\. Children
-
   * 8\. Security
-
   * 9\. Additional U.S. state disclosures
-
   * 10\. Changes to the privacy policy
-
   * 11\. Data controller
-
   * 12\. How to contact us
-
   * 13\. Useful resources
-
 
 
 
@@ -415,6 +389,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

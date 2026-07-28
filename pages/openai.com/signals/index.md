@@ -124,6 +124,8 @@ Learn how AI is accelerating enterprise advantage through deeper integration, ag
 
 ### Reports
 
+### [How AI is expanding what people do at workJuly 2026 | An analysis of how occupation-specific tasks spread across job boundaries.Learn more](<https://openai.com/index/how-ai-is-expanding-what-people-do-at-work/>)
+
 ### [The AI jobs transition framework for the EUJune 2026 | A map of near-term job impacts of AI in the EU labor market.Learn more](<https://cdn.openai.com/pdf/the-ai-jobs-transition-framework-for-the-eu.pdf>)
 
 ### [How ChatGPT adoption has expandedJune 2026 | A new picture of global AI adoption.Learn more](<https://openai.com/index/how-chatgpt-adoption-has-expanded/>)

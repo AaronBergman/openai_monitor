@@ -26,117 +26,78 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 OpenAI
 
-### [Live webinar] Join us July 30, 2026 at 9:30 AM PT
+# Intelligence for your sales team’s most ambitious work
 
-to see how OpenAI's Sales team uses ChatGPT Work to turn account context into a live command center.
-
-[Register now(opens in a new window)](<https://webinar.openai.com/chatgpt-work-series/sales/?utm_medium=website&amp;utm_campaign=WBR-chatgpt-work-series-sales-banner>)
-
-# AI for your sales team’s most ambitious work
-
-ChatGPT Work uses CRM and customer context to prioritize accounts, prepare sellers for meetings, follow up quickly, and flag forecast risk early—so teams spend less time gathering context and more time winning deals.
+Sales teams use ChatGPT Work to turn customer signals into action, give sellers more time with customers, and lead at the new pace of revenue.
 
 [Contact sales](</contact-sales/>)
 
 Get started
 
-Find my highest-priority accounts this week and recommend next steps
-
-![OpenAI for Sales hero chart.](https://images.ctfassets.net/kftzwdyauwt9/5io9HG2OqE2wgW3wFY2f1t/e44506ac9da8935fbd3da8dda3edb577/sales-chart-1.png?w=3840&q=90&fm=webp)
-
-![OpenAI for Sales hero chart.](https://images.ctfassets.net/kftzwdyauwt9/7CeaJK5lP0NxJErNovN4sN/90d57611f3947538ac0eadc6ebf2d619/sales-chart-2.png?w=3840&q=90&fm=webp)
-
-## Run sales with greater focus, speed, and confidence
-
-![Target icon.](https://images.ctfassets.net/kftzwdyauwt9/6rrUUt8IVzdJD0pcV9SXqB/80170b0a276a38d2ad8385d425e30925/sales-value-icon-target-figma.svg?w=3840&q=90)
-
-#### Grow pipeline coverage
-
-Use CRM and customer context to get recommendations on who to engage, why now, and the next best action.
-
-![Speedometer icon.](https://images.ctfassets.net/kftzwdyauwt9/39FTm7PE0YJna4qiGJSFfD/9d49a2d58c93b85753acb2bfb8935ef4/sales-value-icon-speedometer-figma.svg?w=3840&q=90)
-
-#### Raise revenue per rep
-
-Reduce research, meeting prep, and follow-up work so sellers can spend more time with customers and move deals forward.
-
-![Clock icon.](https://images.ctfassets.net/kftzwdyauwt9/w9lwVzvv5thx3eL4sPn37/cddfbf6b589d8a486dc799c80a920ac4/sales-value-icon-clock-figma.svg?w=3840&q=90)
-
-#### Spot forecast risk earlier
-
-Bring deal activity, buyer engagement, call insights, and next steps together to see what is likely to close and where deals are at risk.
-
-## How sales teams use account context to move deals forward faster with ChatGPT Work
-
-Account strategy and executionAccount prioritization and engagementMeeting prep and follow-upDeal strategyPipeline and forecast review
-
-### Turn scattered account context into a live command center.
-
-@Sales Build an account map, strategy, and execution command center on @Sites for my customer. Then share a summary with the account team in @Slack and draft the email in @Gmail to the customer. Finally, create an automation that monitors for new account activity and updates this site every day at 8am.
-
 ## Work across your sales tools and customer context
 
-[View plugins](</business/plugins/>)
+Add plugins to extend what ChatGPT Work can do. Plugins can connect customer context from tools like Salesforce, HubSpot, and Gmail. Use OpenAI’s Sales plugin to run pre-built workflows for core sales tasks.
 
-[](</business/apps/google-drive/>)
+  * [SalesBuilt by OpenAI](</business/plugins/sales/>)
+  * [Salesforce](</business/plugins/salesforce/>)
+  * [Hubspot](</business/plugins/hubspot/>)
+  * [Clay](</business/plugins/clay/>)
+  * [Zoho CRM](</business/plugins/zoho-crm/>)
+  * [Gmail](</business/plugins/gmail/>)
+  * [Outlook](</business/plugins/microsoft-outlook-email/>)
+  * [Teams](</business/plugins/microsoft-teams/>)
+  * [Google Drive](</business/plugins/google-drive/>)
+  * [SharePoint](</business/plugins/microsoft-sharepoint/>)
+  * [Snowflake](</business/plugins/snowflake/>)
+  * [Databricks](</business/plugins/databricks/>)
+  * [BigQuery](</business/plugins/bigquery/>)
+  * [Intercom](</business/plugins/intercom/>)
+  * [Google Calendar](</business/plugins/google-calendar/>)
+  * [Slack](</business/plugins/slack/>)
 
-[](</business/apps/google-calendar/>)
 
-[](</business/apps/microsoft-teams/>)
 
-[](</business/apps/gmail/>)
+[View all plugins](</business/plugins/?tab=apps-go-to-market>)[Add Sales plugin](</business/plugins/sales/>)
 
-[](</business/apps/microsoft-sharepoint/>)
+## Powering a new pace for sales teams
 
-[](</business/apps/slack/>)
+#### Connect customer signals
 
-[](</business/apps/zoom/>)
+Use plugins to connect hundreds of trusted tools—from CRM and calls to email and files—so every seller shares one customer picture.
 
-[](</business/apps/hubspot/>)
+![Sales dashboard listing customer signals with a prompt to flag at-risk deals across Salesforce and Slack.](https://images.ctfassets.net/kftzwdyauwt9/3HxTTO21mPPGEC5xEBD7KX/554f4f7a89a4c79f4438fc2df03ba00a/Sales-1.png?w=3840&q=90&fm=webp)
 
-[](</business/apps/agentforce-sales/>)
+#### Equip every seller
 
-[](</business/apps/airtable/>)
+Give every seller frontier intelligence, customer context, and agentic delegation to prioritize accounts, prepare for meetings, and spot risk earlier.
 
-[](</business/apps/notion/>)
+![Sales account and renewal overview with a prompt to prepare for customer meetings using Google Calendar, Gmail, and notes.](https://images.ctfassets.net/kftzwdyauwt9/4Vse7w06FYg8ZJobU7cLF/1e304dc1c4240550683334e876145be2/Sales-2.png?w=3840&q=90&fm=webp)
 
-[](</business/apps/linear/>)
+#### Work that gets finished
 
-[](</business/apps/dropbox/>)
+Delegate research, follow-ups, and CRM updates to agents that finish the work—while your team stays in control, whether in the office or on the go.
 
-[](</business/apps/figma/>)
+![Sales follow-up email with a prompt to review meetings and draft daily follow-ups in Outlook.](https://images.ctfassets.net/kftzwdyauwt9/3c8JJDWaKb45WQkX3RthuW/8bfac6a929b99d61e77e118ea9248a44/Sales-3.png?w=3840&q=90&fm=webp)
 
-[](</business/apps/google-drive/>)
+#### Scale proven playbooks
 
-[](</business/apps/google-calendar/>)
+Capture customer insights and proven sales plays in shared skills and Sites—so the entire revenue organization learns together.
 
-[](</business/apps/microsoft-teams/>)
+![Shared Sites sales playbook with a prompt to analyze recent wins and losses and share lessons with the field.](https://images.ctfassets.net/kftzwdyauwt9/fn9XANUYhPj9zAhBbHaDt/44e1658d57346b6f441a0d8e0deadd59/Sales-4.png?w=3840&q=90&fm=webp)
 
-[](</business/apps/gmail/>)
+## Try ChatGPT Work prompts for sales teams
 
-[](</business/apps/microsoft-sharepoint/>)
+Account prioritization and engagementMeeting prep and follow-upDeal strategyPipeline and forecast review
 
-[](</business/apps/slack/>)
+### Align CRM, account history, company context, and buying signals to understand which opportunities deserve attention. Help sellers prioritize the right accounts and prepare more relevant outreach.
 
-[](</business/apps/zoom/>)
+Find my highest-priority accounts this week and recommend next steps. 
 
-[](</business/apps/hubspot/>)
+[(opens in a new window)](<https://chatgpt.com/?surface=work&q=Find+my+highest-priority+accounts+this+week+and+recommend+next+steps.>)
 
-[](</business/apps/agentforce-sales/>)
+## Trusted by leading teams
 
-[](</business/apps/airtable/>)
-
-[](</business/apps/notion/>)
-
-[](</business/apps/linear/>)
-
-[](</business/apps/dropbox/>)
-
-[](</business/apps/figma/>)
-
-##  Built with the sales ecosystem
-
-See how OpenAI works with leading sales tools like Salesforce, Zoom, Outreach, and Apollo to help revenue teams streamline customer research, sales execution, and follow-through in the systems they already use.
+ChatGPT Work is deployed to thousands of businesses including leading companies like Shopify, Cisco, and Zapier.
 
 1 of 11
 
@@ -223,25 +184,9 @@ Angela DeFranco, VP of Product, HubSpot
 
 
 
-![Unify logo in white against a backdrop of dandelion seed heads](https://images.ctfassets.net/kftzwdyauwt9/4Zk21VkqRdhQg95kIcrmKc/9a51d3c304e36df765c60d834f6c8552/oai_unify_hero_1x1.png?w=3840&q=90&fm=webp)
-
-## [Unify engineers growth by using the right model for every task](</index/unify/>)
-
-![Clay logo on a light blue background.](https://images.ctfassets.net/kftzwdyauwt9/4Be6hS2uGAdf7uyykrUBQP/811be8599d939e7d7c8e7e36ebb347bf/Clay.png?w=3840&q=90&fm=webp)
-
-## [Achieving 10x growth with agentic sales prospecting](</index/clay/>)
-
-![oai Podium 1x1](https://images.ctfassets.net/kftzwdyauwt9/3G81mAbtfFHHKICLGkAdZa/d19f1ad229a8aeee17fc65303127bd68/oai_Podium_1x1.png?w=3840&q=90&fm=webp)
-
-## [How Podium is arming 10,000+ SMBs with AI agents](</index/podium/>)
-
-![Rox logo in white, placed over a close-up of curved, textured yellow surfaces, creating a layered abstract background.](https://images.ctfassets.net/kftzwdyauwt9/5LfsJRQ4mOiE4uCccU53Yc/182d111570f399dd1ae1679f7c77ca6a/oai_rox_1_1.jpg?w=3840&q=90&fm=webp)
-
-## [Rox goes “all in” on OpenAI](</index/rox/>)
-
 ## Sales resources
 
-Explore additional resources for getting started with OpenAI
+Explore practical sales prompts, implementation guidance, and examples for getting started with ChatGPT Work.
 
 ![Abstract blue art card for ChatGPT Work webinar resources.](https://images.ctfassets.net/kftzwdyauwt9/6Ha7QQ4NC6ajzW0cJwlzzp/7a6339ffc1cd5cf02d2b58e8cac019ec/Webinar_art_card.png?w=3840&q=90&fm=webp)
 
@@ -253,11 +198,11 @@ Explore additional resources for getting started with OpenAI
 
 ![Business Learning Hub 1x1](https://images.ctfassets.net/kftzwdyauwt9/3WaN0u4u87BK3dXsD569qh/f40a4e250dc00d0bbf5ec418be81fc9c/Business_Learning_Hub_1x1.png?w=3840&q=90&fm=webp)
 
-[Guides & ResourcesExplore business guides for adopting AI securley and at scale.](</business/learn/>)
+[Guides & ResourcesExplore business guides for adopting AI securely and at scale.](</business/learn/>)
 
-## See what OpenAI can do for sales teams
+## Expand your sales team’s capacity with OpenAI
 
-Whether you’re scaling an in-house sales team or building tools for sellers, we can help you identify where to start.
+Get your most ambitious work done by spending more time moving deals forward with ChatGPT Work.
 
 [Contact sales](</contact-sales/>)
 

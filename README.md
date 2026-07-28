@@ -4,6 +4,41 @@ A daily log of every change to OpenAI's public website — what appeared, what d
 
 ---
 
+## 2026-07-28 — Run `2026-07-28T09-16Z`
+
+**Fetch time:** 2026-07-28T09:17:08Z
+**Baseline:** 2026-07-27T09-17Z (consecutive day)
+**Stats:** 1485 total URLs | +1 added | 142 updated | -0 removed | 1 anomaly | 34 sub-sitemaps
+
+**TL;DR:** One new page today — the first entry in a new OpenAI Economic Research series, "Work at the Frontier," reporting that 43.5% of occupation-specific ChatGPT use is for tasks outside the user's own job (task crossover is highest for customer-experience workers, designers, and HR). 142 pages got a fresh timestamp, but only 41 changed anything a reader would notice; the standout is the **Adobe Photoshop** plugin listing rebranding into a broader **Adobe** integration (photos, video, PDFs, Creative Cloud search), plus a new AWS-access question added to the Trusted Access for Cyber intake form. The more interesting story is under the hood: five `/business/plugins/` pages flipped their top nav in *both directions* in the same crawl — some reverting to an older nav, one flipping to the newer one — evidence OpenAI is running a live A/B test on site navigation rather than a steady rollout. No timestamp red flags (no future-dated or backdated lastmods, no reappeared URLs).
+
+### Anomalies
+
+- **Nav A/B-test flip-flop, not a rollout:** `netlify`, `salesforce`, `spaceship`, and `creative-production` plugin pages reverted from the "Why OpenAI / Solutions / Resources / Customers / Pricing" nav (seen sitewide since 2026-07-25) back to the older "Research / Products / Business / Developers / Company" nav, while `hubspot` flipped the opposite way — old nav to new — in the very same run. Since these are near-simultaneous fetches of identical page templates showing opposite variants, this reads as live frontend A/B-testing/feature-flagging rather than a directional redesign or a genuine content restoration. See [`runs/2026-07-28T09-16Z/analysis.md`](runs/2026-07-28T09-16Z/analysis.md) for the full diff evidence.
+
+### Notable additions
+
+- **[How AI is expanding what people do at work](pages/openai.com/index/how-ai-is-expanding-what-people-do-at-work/index.md)** — first post in OpenAI Economic Research's new "Work at the Frontier" series. Analyzing 800,000+ US ChatGPT messages, it finds 43.5% of occupation-specific AI use crosses into tasks belonging to another occupation — as high as 77% for customer-experience workers and 75% for designers — with marketing and engineering tasks "traveling" the farthest across roles.
+
+### Notable updates
+
+- **[`/business/plugins/adobe-photoshop/`](pages/openai.com/business/plugins/adobe-photoshop/index.md)** rebranded from a narrow Photoshop-only connector (background removal, color/lighting edits) to a broad **"Adobe"** integration covering photo/video editing, PDF creation, social-asset design, and Creative Cloud asset search — the example prompts changed from Photoshop-specific to multi-tool ("retouch this set of photos... then resize for YouTube Shorts and Instagram Reels").
+- **[`/form/enterprise-trusted-access-for-cyber/`](pages/openai.com/form/enterprise-trusted-access-for-cyber/index.md)** added a new required question asking applicants whether they want access to "OpenAI cyber models through AWS" if their Trusted Access for Cyber application is approved — the first sign of an AWS distribution channel for OpenAI's defensive-cybersecurity model program.
+- News/related-story widgets on the homepage, `/news/company-announcements/`, `/index/introducing-b2b-signals/`, and `/index/how-chatgpt-adoption-has-expanded/` refreshed to surface today's new report and recent posts (Effingham County data center, "How news organizations are using AI"), rolling several June items (Ona acquisition, Oracle partnership, confidential S-1 filing) off those particular listing modules — those pages are still live, just no longer linked from these widgets.
+
+### Routine updates
+
+101 of the 142 lastmod-bumped pages are byte-identical republishes with no visible change, heavily concentrated in the `/business/plugins/*` integrations catalog and clustered in a 02:59–03:03 UTC window — reads as a scheduled cache/CDN resync rather than editorial activity. Full per-URL breakdown in [`runs/2026-07-28T09-16Z/analysis.md`](runs/2026-07-28T09-16Z/analysis.md).
+
+### Removals
+
+None this run.
+
+Full analysis: [runs/2026-07-28T09-16Z/analysis.md](runs/2026-07-28T09-16Z/analysis.md)
+
+---
+*Stats: 1,485 total URLs | +1 added | 142 updated | -0 removed | 1 anomaly | 34 sub-sitemaps*
+
 ## 2026-07-27 — Run `2026-07-27T09-17Z`
 
 **Fetch time:** 2026-07-27T09:19:10Z

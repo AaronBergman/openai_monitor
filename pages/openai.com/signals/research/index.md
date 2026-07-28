@@ -34,6 +34,8 @@ OpenAI’s Economic Research team periodically publishes reports and analysis on
 
 Explore the latest resources below, including country-focused Signals reports, research on how people use ChatGPT, and briefings on enterprise adoption and productivity outcomes.
 
+### [How AI is expanding what people do at workJuly 2026 | An analysis of how occupation-specific tasks spread across job boundaries.Learn more](<https://openai.com/index/how-ai-is-expanding-what-people-do-at-work/>)
+
 ### [The AI jobs transition framework for the EUJune 2026 | A map of near-term job impacts of AI in the EU labor market.Learn more](<https://cdn.openai.com/pdf/the-ai-jobs-transition-framework-for-the-eu.pdf>)
 
 ### [How ChatGPT adoption has expandedJune 2026 | A new picture of global AI adoption.Learn more](<https://openai.com/index/how-chatgpt-adoption-has-expanded/>)
@@ -59,8 +61,6 @@ Explore the latest resources below, including country-focused Signals reports, r
 ### [State of enterprise AI 2025December 2025 | A comprehensive look at how enterprises are adopting AI.Learn more](<https://cdn.openai.com/pdf/7ef17d82-96bf-4dd1-9df2-228f7f377a29/the-state-of-enterprise-ai_2025-report.pdf>)
 
 ### [How people use ChatGPTSeptember 2025 | The Economic Research Teams’ NBER paper on how people are using ChatGPT.Learn more](<https://cdn.openai.com/pdf/a253471f-8260-40c6-a2cc-aa93fe9f142e/economic-research-chatgpt-usage-paper.pdf>)
-
-### [How people are using ChatGPTSeptember 2025 | Our OpenAI blog explaining the largest study to date how people are using ChatGPT.Learn more](<https://openai.com/index/how-people-are-using-chatgpt/>)
 
 ### Discover more
 

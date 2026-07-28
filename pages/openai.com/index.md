@@ -43,7 +43,7 @@ Message ChatGPT
 ![Health in ChatGPT > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/48aIp3cQOKJ57vpQeqOb8y/2e8732bcad5ceea1c7b20cf001bd2823/1_1_Art_Card.png?w=3840&q=90&fm=webp)
 
 ## [Launching Health in ChatGPT  
-ProductJul 23, 2026](</index/health-in-chatgpt/>)
+ProductJul 23, 20267 min read](</index/health-in-chatgpt/>)
 
 ![ChatGPT Work menu in a browser window against a starry background, with Work selected and Codex, Scheduled, and Sites options shown.](https://images.ctfassets.net/kftzwdyauwt9/4hWm54F91fSSwX6YKm7Dqk/8db6b474726138fd000a34b0f67f41f8/ChatGPT_Work_1x1.png?w=3840&q=90&fm=webp)
 
@@ -56,10 +56,6 @@ ProductJul 23, 2026](</index/health-in-chatgpt/>)
 ## Recent news
 
 [View more](</news/company-announcements/>)
-
-![Expanding Daybreak Art Card](https://images.ctfassets.net/kftzwdyauwt9/735NOZviyogUBIFxd2EmWX/fa8baf9fc26e64f442ffa86d5fd9a41e/Art_Card__6_.png?w=3840&q=90&fm=webp)
-
-[Daybreak: Tools for securing every organization in the worldSecurity8 min read](</index/daybreak-securing-the-world/>)
 
 ![OpenAI Presence 1x1](https://images.ctfassets.net/kftzwdyauwt9/5JBDenSGI6wx5CMPPlaM5J/da9d8e27a0bd70d845a816b28ac641a9/OpenAI_Presence_1x1.png?w=3840&q=90&fm=webp)
 
@@ -76,6 +72,10 @@ ProductJul 23, 2026](</index/health-in-chatgpt/>)
 ![How agents are transforming work > Cover image](https://images.ctfassets.net/kftzwdyauwt9/7hmtkjKv0DxS4Yt8mQZju2/c168bfa2010da64bcc9dd60d6b5491e8/Art_Card__1_.png?w=3840&q=90&fm=webp)
 
 [How agents are transforming workCompanyJun 25, 2026](</index/how-agents-are-transforming-work/>)
+
+![Expanding Daybreak Art Card](https://images.ctfassets.net/kftzwdyauwt9/735NOZviyogUBIFxd2EmWX/fa8baf9fc26e64f442ffa86d5fd9a41e/Art_Card__6_.png?w=3840&q=90&fm=webp)
+
+[Daybreak: Tools for securing every organization in the worldSecurityJun 22, 2026](</index/daybreak-securing-the-world/>)
 
 ![Confidential submission of draft S-1 to the SEC > cover image](https://images.ctfassets.net/kftzwdyauwt9/36doI12YCwUtp1hzD4d8bj/84e67c565f39e7d5ca3ee011efa69756/confidential-submission-of-draft-s-1-to-the-sec-1x1.png?w=3840&q=90&fm=webp)
 

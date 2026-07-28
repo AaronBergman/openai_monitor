@@ -26,6 +26,8 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 OpenAI
 
+Guides
+
 # Inside GPT‑5 for work
 
 ChatGPT for business.
@@ -33,6 +35,8 @@ ChatGPT for business.
 [Try ChatGPT(opens in a new window)](<https://chat.openai.com/>)[Contact sales](</contact-sales/>)
 
 ![Promotional hero image with a soft, abstract gradient background blending pink, orange, yellow, purple, and light blue tones. Centered on the image is a rounded white card displaying the text “GPT-5” in bold, with the subtitle “Flagship model” beneath it, conveying the branding of OpenAI’s GPT-5 model.](https://images.ctfassets.net/kftzwdyauwt9/3KX4Cf6oQpNxqGAPOif7oJ/118a3de4c65d45861251853f57a19a4d/Hero_Media.png?w=3840&q=90&fm=webp)
+
+Share
 
 Our smartest, most reliable model yet
 
@@ -115,7 +119,7 @@ _\- Elena Alfaro, Head of Global Al Adoption, BBVA_
 
 Move from idea to execution in minutes, not hours. Let every team unblock itself.
 
-''At Lowe's, we're focused on bringing advanced Al to our associates so they can help our customers solve problems and fulfill dreams. With GPT‑5, corporate teams now have access to an ideal balance of reasoning and responsiveness for tasks like planning, analysis, research, and multi-step workflows. We're thrilled that GPT‑5 delivers richer, more context-aware responses that give them the feeling of working alongside an Al-powered personal assistant."
+''At Lowe's, we’re focused on bringing advanced Al to our associates so they can help our customers solve problems and fulfill dreams. With GPT‑5, corporate teams now have access to an ideal balance of reasoning and responsiveness for tasks like planning, analysis, research, and multi-step workflows. We’re thrilled that GPT‑5 delivers richer, more context-aware responses that give them the feeling of working alongside an Al-powered personal assistant."
 
 _\- Seemantini Godbole, CIO, Lowe 's _
 
@@ -192,17 +196,19 @@ Learn how we help companies build scalable, responsible AI strategies.
 
 ## Keep reading
 
-![Health in ChatGPT > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/48aIp3cQOKJ57vpQeqOb8y/2e8732bcad5ceea1c7b20cf001bd2823/1_1_Art_Card.png?w=3840&q=90&fm=webp)
+[View all](</news/>)
 
-[Launching Health in ChatGPT ProductJul 23, 2026](</index/health-in-chatgpt/>)
+![How enterprises are scaling AI > art card](https://images.ctfassets.net/kftzwdyauwt9/7bwFx4oZ7LkV7wTeDdAIbA/989f92a7be5c2bd36fafb94bbeef076f/Frame.png?w=3840&q=90&fm=webp)
 
-![effingham county 1x1](https://images.ctfassets.net/kftzwdyauwt9/3f1fyaaSZELql3zECUImW3/1733a5ee7f07da894b993dcff75bea66/effingham_county_1x1.png?w=3840&q=90&fm=webp)
+[ How enterprises are scaling AIGuidesMay 11, 2026](</business/guides-and-resources/how-enterprises-are-scaling-ai/>)
 
-[Building AI infrastructure with the Effingham County communityGlobal AffairsJul 22, 2026](</index/building-ai-infrastructure-with-the-effingham-county-community/>)
+![Business guides > Layout > Carousel > ChatGPT usage and adoption patterns at work > media > asset](https://images.ctfassets.net/kftzwdyauwt9/2rUSG4XSMDGLJMBdfgtVH/97f5474b4822fccb60211817a5cceb65/chatgpt-usage-and-adoption-patterns-at-work-IMAGE.png?w=3840&q=90&fm=webp)
 
-![How news organizations are using AI > Card Image](https://images.ctfassets.net/kftzwdyauwt9/5nTzxwRy4Is9PQSluyYkWP/d6e7953a692a5a8c926885e2f50a3427/how_news_orgs_use_AI_1x1.png?w=3840&q=90&fm=webp)
+[ChatGPT usage and adoption patterns at workGuidesJan 22, 2026](</business/guides-and-resources/chatgpt-usage-and-adoption-patterns-at-work/>)
 
-[How news organizations use AI to advance their vital missionsCompanyJul 22, 2026](</index/how-news-organizations-are-using-ai/>)
+![State of Enterprise AI 2025 > cover image](https://images.ctfassets.net/kftzwdyauwt9/1zzmHm4xiyh99UAioTRe3o/448a21b0cb11cfbdf90198f231ee7bff/homepage_feature_v2.png?w=3840&q=90&fm=webp)
+
+[The state of enterprise AIGuidesDec 17, 2025](</business/guides-and-resources/the-state-of-enterprise-ai-2025-report/>)
 
 Research
 

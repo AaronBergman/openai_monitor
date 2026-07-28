@@ -58,6 +58,8 @@ Sales work often lives across CRM fields, call notes, email threads, Slack discu
 
 ## Watch the on-demand webinar
 
+![Cover image for How sales teams use Codex webinar](https://images.ctfassets.net/kftzwdyauwt9/4uAF2eygEqdddeqvA8dpx9/cd35d0ea2fc231128bd48f3a87ca2792/How_sales_teams_use_Codex.jpg?w=3840&q=90&fm=webp)
+
 Watch **_How sales teams use Codex_** on-demand [**here** ⁠(opens in a new window)](<https://academy.openai.com/home/clubs/work-users-ynjqu/videos/how-sales-teams-use-codex-recording-2026-06-10>). 
 
 **Note:** This webinar was recorded when these workflows lived in the former Codex app. You can now follow along using ChatGPT Work at chatgpt.com or in the ChatGPT desktop app.
