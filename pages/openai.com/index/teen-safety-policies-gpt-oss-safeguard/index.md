@@ -26,6 +26,16 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
+March 24, 2026
+
+[Safety](</news/safety-alignment/>)
+
+# Helping developers build safer AI experiences for teens
+
+Introducing a set of teen safety policies formatted as prompts for gpt-oss-safeguard
+
+Loading…
+
 Building on our broader work to protect young people
 
   * Building on our broader work to protect young people
@@ -37,15 +47,14 @@ Building on our broader work to protect young people
 
 
 
-March 24, 2026
+  * Building on our broader work to protect young people
+  * Translating teen safety into clear, usable policies
+  * Helping developers operationalize teen safety
+  * Developed with input from external experts
+  * A starting point, not a complete solution
+  * The road forward 
 
-[Safety](</news/safety-alignment/>)
 
-# Helping developers build safer AI experiences for teens
-
-Introducing a set of teen safety policies formatted as prompts for gpt-oss-safeguard
-
-Loading…
 
 Today, we’re releasing prompt-based [_safety policies_ ⁠(opens in a new window)](<https://github.com/openai/teen-safety-policy-pack>) to help developers create age-appropriate protections for teens. Built to work with our open-weight safety model, [_gpt-oss-safeguard_ ⁠(opens in a new window)](<https://huggingface.co/openai/gpt-oss-safeguard-20b>), these policies simplify how developers turn safety requirements into usable classifiers for real-world systems.
 
@@ -53,19 +62,19 @@ We released open weight models to democratize access to powerful AI and support 
 
 We recognize that teens and adults have different needs, and that teens need additional protections. These policies are designed to help developers account for those differences and build experiences that are both empowering and appropriate for younger users.
 
-#### Building on our broader work to protect young people
+### Building on our broader work to protect young people
 
 We have long been committed to building AI that expands opportunities for young people while keeping them safe. As part of this work, we updated our [_Model Spec_ ⁠(opens in a new window)](<https://model-spec.openai.com/2025-12-18.html>)—the guidelines that define the intended behavior of OpenAI’s models—to include [_Under-18 (U18) principles_ ⁠(opens in a new window)](<https://model-spec.openai.com/2025-12-18.html#chatgpt_u18>), and introduced product-level safeguards such as [_parental controls_ ⁠](<https://openai.com/index/introducing-parental-controls/>) and [_age prediction_ ⁠](<https://openai.com/index/our-approach-to-age-prediction/>) to better protect younger users. We have also called for industry-wide protections through our [_Teen Safety Blueprint_ ⁠](<https://openai.com/index/introducing-the-teen-safety-blueprint/>).
 
 Today’s release builds on that foundation. We’re making these safety policies available to developers to support them in deploying safety protections for teens and helping democratize access across the open weights ecosystem. 
 
-#### Translating teen safety into clear, usable policies
+### Translating teen safety into clear, usable policies
 
 While safety classifiers like gpt-oss-safeguard can detect harmful content, they depend on clear definitions of what that content is. In practice, one of the biggest challenges developers face is defining policies that accurately capture teen-specific risks and can be consistently applied in real systems.   
   
 Even experienced teams often struggle to translate high-level safety goals into precise, operational rules, especially since it requires both subject matter expertise and deep AI knowledge. This can lead to gaps in protection, inconsistent enforcement, or overly broad filtering. Clear, well-scoped policies are a critical foundation for effective safety systems.
 
-#### Helping developers operationalize teen safety
+### Helping developers operationalize teen safety
 
 To address this challenge, we are releasing a set of [_safety policies_ ⁠(opens in a new window)](<https://github.com/openai/teen-safety-policy-pack>), tailored to common risks faced by teens and informed by careful review of existing research about teens’ unique developmental differences. These policies are structured as prompts that can be directly used with [_gpt-oss-safeguard_ ⁠(opens in a new window)](<https://huggingface.co/openai/gpt-oss-safeguard-20b>) and other reasoning models, enabling developers to more easily apply consistent safety standards across their systems. 
 
@@ -86,7 +95,7 @@ By structuring policies as prompts, developers can more easily integrate them in
 
 ![Diagram depicting teen safety policy categories and teen-related content feeding into a GPT-OSS safeguard system, which produces policy decisions informed by internal reasoning.](https://images.ctfassets.net/kftzwdyauwt9/tpc83mGxV22vPETJsE3DO/998e3a19c99a6dc13bb285282a4dd583/Translating_safety_policies_into_enforceable_safeguards.png?w=3840&q=90&fm=webp)
 
-#### Developed with input from external experts
+### Developed with input from external experts
 
 We worked with external organizations including [_Common Sense Media_ ⁠(opens in a new window)](<https://www.commonsensemedia.org>) and [_everyone.ai_ ⁠(opens in a new window)](<http://everyone.ai>) to inform the development of these policies. Their expertise helped shape the scope of content to cover, strengthen the structure of the prompts, and refine the edge cases to consider when evaluating them. 
 
@@ -100,13 +109,13 @@ _“One of the biggest gaps in AI safety for teens has been the lack of clear, o
 
 _—_**Dr. Mathilde Cerioli, Chief Scientist at everyone.AI**
 
-####  A starting point, not a complete solution
+###  A starting point, not a complete solution
 
 The policies are intended as a starting point, not as a comprehensive or final definition or guarantee of teen safety. Each application has unique risks, audiences and contexts, and developers are best positioned to understand the risks that their products and AI integrations may present. We strongly encourage developers to adapt and extend these policies based on their specific needs and combine them with other safeguards such as product design decisions, user controls, teen-friendly transparency, monitoring systems and thoughtful, age-appropriate responses. 
 
 We believe a layered [_defense in depth⁠_ ⁠](<https://openai.com/safety/how-we-think-about-safety-alignment/#defense-in-depth>) approach is essential to building safer AI systems. These policies draw from our internal experience, but they do not reflect the full extent of OpenAI’s internal policies or safeguards. 
 
-#### The road forward 
+### The road forward 
 
 We are releasing these policies as open source through the [_ROOST Model Community_ ⁠(opens in a new window)](<https://github.com/roostorg/model-community>) to encourage collaboration and iteration. To contribute, provide feedback, or share additional teen safety policies, visit the [_RMC GitHub repository._ ⁠(opens in a new window)](<https://github.com/roostorg/open-models>)
 
@@ -118,17 +127,17 @@ To get started with gpt-oss-safeguard, download it from [_Hugging Face_ ⁠(open
 
 [View all](</news/>)
 
-![oai 1x1](https://images.ctfassets.net/kftzwdyauwt9/7eONRWq61MKUix4tK4t88Y/170085acc9b241a0bdfba429bd217907/oai_1x1.png?w=3840&q=90&fm=webp)
+![PIA safety > Cover image](https://images.ctfassets.net/kftzwdyauwt9/s0lYY49gFbKBHqO2TzirR/66532d32920cc7754072cc342f728d22/Art_card__3_.png?w=3840&q=90&fm=webp)
 
-[Advancing youth safety and opportunity through global leadershipGlobal AffairsJun 2, 2026](</index/advancing-youth-safety-and-opportunity-through-global-leadership/>)
+[Safety and alignment in an era of long-horizon modelsSafetyJul 20, 2026](</index/safety-alignment-long-horizon-models/>)
 
-![Technical foundations > Art Card](https://images.ctfassets.net/kftzwdyauwt9/6gugGfSiM1oO6UHxxwnqTk/c7173a5a2c096a8f8a24c258ddfa22dd/ArtCard-TechnicalFoundations.png?w=3840&q=90&fm=webp)
+![Why teens deserve access to safe AI — card image](https://images.ctfassets.net/kftzwdyauwt9/qMYBYjbkSSEYQbsQyyfRQ/d9fe2585ed8bbf73ffee5d6ed8bcc39e/why-teens-card.jpg?w=3840&q=90&fm=webp)
 
-[A shared playbook for trustworthy third party evaluationsSafetyMay 29, 2026](</index/trustworthy-third-party-evaluations-foundations/>)
+[Why teens deserve access to safe AISafetyJul 16, 2026](</index/why-teens-deserve-access-safe-ai/>)
 
-![Frontier Governance Framework > card image ](https://images.ctfassets.net/kftzwdyauwt9/2KoiHuErR5YxXGUnhCU8VY/e392c6249ec4644e07e944edea22e837/Frame2.png?w=3840&q=90&fm=webp)
+![GPT-Red art card](https://images.ctfassets.net/kftzwdyauwt9/6q32m87ClqE8Ovn6vD424h/05ced72e47bbe42711fbac6a082cbff2/Art_Card.png?w=3840&q=90&fm=webp)
 
-[OpenAI’s Frontier Governance FrameworkSafetyMay 28, 2026](</index/openai-frontier-governance-framework/>)
+[GPT-Red: Unlocking Self-Improvement for RobustnessSafetyJul 15, 2026](</index/unlocking-self-improvement-gpt-red/>)
 
 Research
 
@@ -140,9 +149,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -179,6 +188,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -212,6 +223,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

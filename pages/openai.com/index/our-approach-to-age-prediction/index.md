@@ -26,13 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-How age prediction works
-
-  * How age prediction works
-  * What’s next
-
-
-
 January 20, 2026
 
 [Safety](</news/safety-alignment/>)[Company](</news/company-announcements/>)
@@ -44,6 +37,18 @@ Building on our work to strengthen teen safety.
 Loading…
 
 Share
+
+How age prediction works
+
+  * How age prediction works
+  * What’s next
+
+
+
+  * How age prediction works
+  * What’s next
+
+
 
 We’re rolling out age prediction on ChatGPT consumer plans to help determine whether an account likely belongs to someone under 18, so the right experience and safeguards can be applied to teens. As we’ve outlined in our [Teen Safety Blueprint⁠](</index/introducing-the-teen-safety-blueprint/>) and [Under-18 Principles for Model Behavior⁠](</index/updating-model-spec-with-teen-protections/>), young people deserve technology that both expands opportunity and protects their well-being.
 
@@ -115,9 +120,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -154,6 +159,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -187,6 +194,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

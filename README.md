@@ -4,6 +4,44 @@ A daily log of every change to OpenAI's public website — what appeared, what d
 
 ---
 
+## 2026-07-29 — Run `2026-07-29T09-16Z`
+
+**Fetch time:** 2026-07-29T09:17:36Z
+**Baseline:** 2026-07-28T09-16Z (consecutive day)
+**Stats:** 1483 total URLs | +2 added | 98 updated | -4 removed | 0 anomalies | 34 sub-sitemaps
+
+**TL;DR:** OpenAI launched the **"Student Collective"** campus-ambassador program (replacing the old campus-leaders sign-up form) and published a new research field report on scientists using coding agents to modernize scientific software. Brazil's privacy policy got a substantial rewrite — syncing in the "ads for Free/Go tier ChatGPT users" language the main US policy already had since May, and quietly deleting an entire California-style disclosures section that had been mistakenly left in it. The Partner Network page picked up a new story (Accenture × Radisson Hotels), and the Sales solutions page is promoting a July 30 live webinar. Nearly all of the other 90-odd "updated" pages are a sitewide footer-nav/carousel sync touching old article pages — no real text changed on any of them. Legacy ChatGPT Plugins pages were finally removed from the sitemap.
+
+### Anomalies
+
+None this run. No future-dated or backdated `<lastmod>` values, no removed-then-reappeared URLs. A first-pass check flagged 4 Global Affairs URLs as migrating between sitemap sections; a direct check of the raw sub-sitemap files showed this was the same "cross-listed in two sections" false positive documented on 2026-07-27 — not a real migration. See [`runs/2026-07-29T09-16Z/analysis.md`](runs/2026-07-29T09-16Z/analysis.md).
+
+### Notable additions
+
+- **[OpenAI Student Collective](pages/openai.com/student-collective/index.md)** — new program page recruiting undergraduate "Campus Lead" pairs to run AI workshops and project sessions on campus; applications open through August 10, 2026. Replaces the old `/form/openai-campus-leaders-interest-form/` (removed, see below) with a fuller, named program.
+- **[Scientific computing in the age of agentic AI](pages/openai.com/index/scientific-computing-agentic-ai/index.md)** — Research field report (PDF) on scientists using coding agents to modernize legacy scientific software, especially in genomics; case studies plus an argument for long-term stewardship of research code. Fits the ongoing "agentic coding beyond software engineers" narrative.
+
+### Notable updates
+
+- **[Brazil privacy policy](pages/openai.com/policies/br-privacy-policy/index.md)** — the biggest content diff of the run (lastmod jumped from April 30 to July 28). Adds the "Free and Go" ad-personalization language (collecting "ads history and interests," personalizing ads, opt-out controls) that the main US Privacy Policy already had since 2026-05-18 — not a new feature, but confirmation the ads-in-ChatGPT rollout's legal terms are being extended to Brazil. Also **deletes an entire "Additional U.S. state disclosures" section** (CCPA/CPRA-style rights language) that had apparently been mistakenly copy-pasted into the Brazil-specific policy; sections renumbered accordingly.
+- **[`/business/partners/`](pages/openai.com/business/partners/index.md)** — added an 8th partner story: Accenture × Radisson Hotel Group, on using OpenAI for hotel discovery/booking. The "Become a partner" CTA now points to an external `partners.openai.com` portal instead of the on-site interest form (removed, see below).
+- **[`/business/solutions/sales/`](pages/openai.com/business/solutions/sales/index.md)** — added a promo banner for a July 30, 2026 live webinar on how OpenAI's own Sales team uses "ChatGPT Work."
+
+### Routine updates
+
+~90 of the 98 lastmod-bumped pages carry **no substantive text change**. Verified by diff: 8 pages are pure image-asset re-encodes (same alt text, new CDN hash), and roughly 40 older article/customer-story pages (some from as far back as 2023) just had their footer nav re-synced (adding "Supply Co.", "GPT-5.6", "Customer Stories", "Partner Network", "Deployment Safety" links, and renaming `/business/apps/` → `/business/plugins/`) plus their "keep reading" carousels rotated to feature the newest July articles. The `/news/*` hub pages updated for the same carousel-rotation reason. Full breakdown in [`runs/2026-07-29T09-16Z/analysis.md`](runs/2026-07-29T09-16Z/analysis.md).
+
+### Removals
+
+- `/form/openai-campus-leaders-interest-form/` — superseded by the new Student Collective page.
+- `/form/partner-network-interest/` — superseded by the external `partners.openai.com` portal.
+- `/index/chatgpt-plugins/` and `/waitlist/plugins/` — long-deprecated ChatGPT Plugins pages, overdue sitemap cleanup rather than new news.
+
+Full analysis: [runs/2026-07-29T09-16Z/analysis.md](runs/2026-07-29T09-16Z/analysis.md)
+
+---
+*Stats: 1,483 total URLs | +2 added | 98 updated | -4 removed | 0 anomalies | 34 sub-sitemaps*
+
 ## 2026-07-28 — Run `2026-07-28T09-16Z`
 
 **Fetch time:** 2026-07-28T09:17:08Z

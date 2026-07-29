@@ -43,32 +43,20 @@ Share
 Building educational tools
 
   * Building educational tools
-
   * The crowd
-
   * The talks
-
   * The afternoon
-
   * Our takeaways
-
   * What’s next
-
 
 
 
   * Building educational tools
-
   * The crowd
-
   * The talks
-
   * The afternoon
-
   * Our takeaways
-
   * What’s next
-
 
 
 

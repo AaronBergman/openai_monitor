@@ -45,20 +45,14 @@ Share
 Game rules
 
   * Game rules
-
   * Event schedule
-
   * Want to attend in person?
-
 
 
 
   * Game rules
-
   * Event schedule
-
   * Want to attend in person?
-
 
 
 

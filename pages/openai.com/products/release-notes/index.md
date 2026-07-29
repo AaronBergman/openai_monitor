@@ -41,6 +41,20 @@ Filter
 
 Sort
 
+API
+
+Jul 28, 2026
+
+GA
+
+## GPT Transcribe and GPT Live Transcribe
+
+Released GPT Transcribe for accurate file transcription and final transcripts of committed Realtime turns, along with GPT Live Transcribe for low-latency streaming transcription.
+
+Both models support free-form transcription context, keyword hints, and multiple expected input languages.
+
+[View source(opens in a new window)](<https://developers.openai.com/api/docs/models/gpt-transcribe>)[Platform docs(opens in a new window)](<https://developers.openai.com/api/docs/models/gpt-live-transcribe>)[Platform docs(opens in a new window)](<https://developers.openai.com/api/docs/guides/transcription>)
+
 ChatGPT
 
 Jul 23, 2026
@@ -141,18 +155,6 @@ We’ve updated the ChatGPT desktop app to make it easier to choose between Chat
 
 
 [View source(opens in a new window)](<https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-desktop-app-experience-updates>)[Help center(opens in a new window)](<https://help.openai.com/en/articles/11391654-chatgpt-business-release-notes#chatgpt-desktop-app-experience-updates>)[Help center(opens in a new window)](<https://help.openai.com/en/articles/10128477-chatgpt-enterprise-edu-release-notes#chatgpt-desktop-app-experience-updates>)
-
-ChatGPT
-
-Jul 15, 2026
-
-GA
-
-## Increased custom instructions limit in ChatGPT
-
-We’re increasing the character limit for custom instructions in ChatGPT. Plus, Pro, Enterprise, Business, and Education users can now save up to 5,000 characters, up from 1,500, giving them more room to customize ChatGPT’s response style and behavior.
-
-[View source(opens in a new window)](<https://help.openai.com/en/articles/6825453-chatgpt-release-notes#increased-custom-instructions-limit>)
 
 Load more
 

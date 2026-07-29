@@ -536,7 +536,7 @@ Collaborate with OpenAI and access evolving resources that help you deliver cust
 
 ## Trusted by leading organizations
 
-1 of 7
+1 of 8
 
 > “Our collaboration with Accenture and OpenAI is helping us explore the next generation of AI-enabled customer experiences. Through our IntentCX work, we’re evaluating how real-time intent and sentiment intelligence can enable faster, more personalized, and more seamless interactions for customers.”
 
@@ -566,6 +566,10 @@ Rezaur Rahman, CIO / CISO / CAIO at the Advisory Council on Historic Preservatio
 
 Jonathan Wang, CTO, VanEck
 
+> “AI is radically transforming how people search for and book hotel stays, and we are committed to being at the forefront of this shift.With Accenture, we are reimagining hotel discovery for the next generation of travelers—meeting guests in the planning moment with a branded experience that makes it easier to find, compare, and book Radisson Hotels properties.”
+
+Gianni Di Fede, Chief Commercial Officer, Radisson Hotel Group
+
   * Accenture x T-Mobile
 
   * BCG x Agilent
@@ -580,6 +584,8 @@ Jonathan Wang, CTO, VanEck
 
   * Altimetrik x VanEck
 
+  * Accenture x Radisson
+
 
 
 
@@ -590,6 +596,7 @@ Jonathan Wang, CTO, VanEck
   * Eliza x Cengage
   * Snorkel x ACHP
   * Altimetrik x VanEck
+  * Accenture x Radisson
 
 
 
