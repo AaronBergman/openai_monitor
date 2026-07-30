@@ -34,6 +34,8 @@ OpenAI
 
 [Visit website(opens in a new window)](<https://artium.ai>)
 
+## About
+
 Our teams build custom agentic systems that unlock meaningful business outcomes - even in heavily regulated industries like Financial Services and Healthcare.
 
 We use Codex and battle tested agentic engineering practices to build agents quickly and reliably.
@@ -42,7 +44,7 @@ During our engagements we also teach our customers both these capabilities by fo
 
 Artium has been an OpenAI services partner since the OpenAI partner program launched in March 2025. Our OpenAI certified engineers have built AI solutions on the OpenAI stack for customers including BNY, eBay, Riot Games, Trust and Will, and Ticketmaster.
 
-![Advanced Partner](/images/partner-tier-badges/OAI_PartnerNetwork_AdvancedPartner.svg?dpl=dpl_Bt2QvgNvrDjuduwqx5NPqQxCos4N)
+![Advanced Partner](/images/partner-tier-badges/OAI_PartnerNetwork_AdvancedPartner.svg?dpl=dpl_DCAfe3qYYShYK7n4R4BuT5EfGUDo)
 
 Countries served
     United States
@@ -137,6 +139,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

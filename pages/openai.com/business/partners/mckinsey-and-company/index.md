@@ -34,9 +34,11 @@ OpenAI
 
 [Visit website(opens in a new window)](<https://www.mckinsey.com/capabilities/tech-and-ai/how-we-help-clients>)
 
+## About
+
 McKinsey and OpenAI help organizations across all industries turn agentic AI ambition into sustained enterprise impact. We bring McKinsey’s expertise in strategy, industry, transformation, and change management, along with QuantumBlack’s leading AI delivery capabilities. Coordinated with OpenAI’s frontier technology, product, research, and forward-deployed engineering teams, we help clients rewire. We identify high-value use cases, redesign workflows, build and deploy production-grade agents, integrate tools such as Frontier, ChatGPT Enterprise, Codex, and APIs, and scale adoption with governance, evaluation, optimization, and value assurance.
 
-![Elite Partner](/images/partner-tier-badges/OAI_PartnerNetwork_ElitePartner.svg?dpl=dpl_Bt2QvgNvrDjuduwqx5NPqQxCos4N)
+![Elite Partner](/images/partner-tier-badges/OAI_PartnerNetwork_ElitePartner.svg?dpl=dpl_DCAfe3qYYShYK7n4R4BuT5EfGUDo)
 
 Countries served
     Global
@@ -131,6 +133,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

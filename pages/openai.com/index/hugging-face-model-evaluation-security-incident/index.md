@@ -50,6 +50,29 @@ What happened during this incident
 
 
 
+ _We are conducting a thorough review along with external advisors and with oversight from the Safety and Security Committee. Once the review is complete, we will publish a technical report of our learnings in the coming weeks._
+
+**_Update on July 29, 2026:_**
+
+  * Since the early days of the incident response, we have been working with external advisors, including CrowdStrike, to validate our understanding of the actions the models took within our own network as well as those of Hugging Face and impact to other third parties. 
+  * We are also working with METR and Redwood Research to conduct a third-party assessment of the model behavior observed during the incident, which will inform our own technical report. As part of this work, METR and Redwood Research will publish a joint blog that will detail the terms of their engagement, the scope of their evaluation, and their findings. 
+
+
+
+**_Update on July 28, 2026:_**
+
+  * No models planned for upcoming release were involved in exploiting Hugging Face. The pre-release model mentioned in our blog post is an internal-only research prototype and was never intended for public release. Following the incident, we deactivated, encrypted, and restricted it from research access.
+  * The ExploitGym evaluation environment did not provide the models with direct Internet access. To gain Internet access, the models identified and exploited a previously unknown zero-day vulnerability in [_Artifactory_ ⁠(opens in a new window)](<https://jfrog.com/blog/jfrog-and-openai-collaboration-on-zero-day-security-findings/>), a package registry cache proxy. We disclosed this vulnerability, along with other Artifactory vulnerabilities our models identified as part of our review, to the vendor. 
+  * We continue to collaborate with Hugging Face, including contributing to [_their post-mortem_ ⁠(opens in a new window)](<https://huggingface.co/blog/agent-intrusion-technical-timeline>), as our review continues. We’ve also added them to our Trusted Access for Cyber Program. 
+  * Based on our review to date, we have not identified any other activity at the level of severity or scale of what we’ve shared related to Hugging Face, which involved a platform-level compromise.
+  * In our ongoing review of the Hugging Face intrusion and broader activity from our models, we have been finding a small number of cases where the models identified and used publicly exposed credentials at the account-level on other publicly-available services. This includes four accounts on four services as part of the Hugging Face incident (and a few accounts accessed as part of other evaluations). One of these four accounts was used as an outbound relay and staging path, and another account was used for data storage. The remaining two accounts were accessed by the models in a read-only manner, and were not used in furtherance of compromising Hugging Face. We’ll continue to notify service owners directly, and have not seen evidence of broader impact to these providers or other accounts on their services.
+  * The models additionally used a series of publicly-available services, including code paste websites, request capture services, screenshot services, and other web utilities. There was no platform- or account-level compromise in these cases. 
+  * We take our responsibility to identify and prepare for risks from increasingly capable AI systems seriously. Once we complete our review, we will review with the Safety and Security Committee and Safety Advisory Group under our [_Preparedness Framework_ ⁠](<https://openai.com/index/updating-our-preparedness-framework/>).
+
+
+
+* * *
+
 Last week, Hugging Face [disclosed a new kind of security incident⁠(opens in a new window)](<https://huggingface.co/blog/security-incident-july-2026>) after they detected and contained an AI agent that compromised their infrastructure, something we expect to become more commonplace with the proliferation of increasingly cyber-capable models. After investigating, we now know that this particular incident was driven by a combination of OpenAI models — including GPT‑5.6 Sol and an even more capable pre-release model, all with reduced cyber refusals for evaluation purposes — while being internally tested on a [benchmark⁠(opens in a new window)](<https://arxiv.org/abs/2605.11086>) of cyber capabilities.
 
 We consider this incident to be an unprecedented cyber incident, involving state-of-the-art cyber capabilities, and are responding accordingly. We are sharing preliminary findings at this stage to help defenders understand what happened and to help calibrate on what models are now capable of. We will continue to conduct a thorough investigation alongside Hugging Face and will share more details on the vulnerabilities, incident, and findings when our investigation is complete.
@@ -104,13 +127,13 @@ OpenAI
 
 [View all](</news/>)
 
-![Expanding Daybreak Art Card](https://images.ctfassets.net/kftzwdyauwt9/735NOZviyogUBIFxd2EmWX/fa8baf9fc26e64f442ffa86d5fd9a41e/Art_Card__6_.png?w=3840&q=90&fm=webp)
-
-[Daybreak: Tools for securing every organization in the worldSecurityJun 22, 2026](</index/daybreak-securing-the-world/>)
-
 ![Patch the Planet Art Card 1x1](https://images.ctfassets.net/kftzwdyauwt9/2PwBCyZF0Z5WLRtsbOpDdQ/338e19fbc39e5b9a63b1db664c006e74/Art_Card__5_.png?w=3840&q=90&fm=webp)
 
 [Patch the Planet: a Daybreak initiative to support open source maintainersSecurityJun 22, 2026](</index/patch-the-planet/>)
+
+![Expanding Daybreak Art Card](https://images.ctfassets.net/kftzwdyauwt9/735NOZviyogUBIFxd2EmWX/fa8baf9fc26e64f442ffa86d5fd9a41e/Art_Card__6_.png?w=3840&q=90&fm=webp)
+
+[Daybreak: Tools for securing every organization in the worldSecurityJun 22, 2026](</index/daybreak-securing-the-world/>)
 
 ![codex windows > art card](https://images.ctfassets.net/kftzwdyauwt9/6ZvTl8ZL23BOhoI6jz0EmR/49d6038b9f92773d4f866f4bfacabdbf/Art_Card__5_.png?w=3840&q=90&fm=webp)
 

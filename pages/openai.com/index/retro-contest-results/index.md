@@ -26,16 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Top scores
-
-  * Top scores
-  * Meet the winners
-  * Best write-ups
-  * Best Supporting Material
-  * Lessons and next steps
-
-
-
 June 22, 2018
 
 [Conclusion](</research/index/conclusion/>)
@@ -49,6 +39,38 @@ The first run of our Retro Contest—exploring the development of algorithms tha
 Loading…
 
 Share
+
+Top scores
+
+  * Top scores
+  * Meet the winners
+    * Dharmaraja
+    * Mistake
+    * Aborg
+  * Best write-ups
+    * Dylan Djian
+    * Oleg Mürk
+    * Felix Yu
+  * Best Supporting Material
+    * Tristan Sokol
+  * Lessons and next steps
+
+
+
+  * Top scores
+  * Meet the winners
+    * Dharmaraja
+    * Mistake
+    * Aborg
+  * Best write-ups
+    * Dylan Djian
+    * Oleg Mürk
+    * Felix Yu
+  * Best Supporting Material
+    * Tristan Sokol
+  * Lessons and next steps
+
+
 
 Though many approaches were tried, top results all came from tuning or extending existing algorithms such as PPO and Rainbow. There’s a long way to go: top performance was 4,692 after training while the theoretical max is 10,000. These results provide validation that our Sonic benchmark is a good problem for the community to double down on: the winning solutions are general machine learning approaches rather than competition-specific hacks, suggesting that one can’t cheat through this problem.
 
@@ -220,9 +242,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -259,6 +281,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -292,6 +316,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

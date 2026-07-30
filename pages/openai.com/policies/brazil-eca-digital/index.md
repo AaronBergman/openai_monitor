@@ -26,27 +26,21 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Published: May 4, 2026
+Published: July 29, 2026
 
 # The Brazilian Digital Statute for Children and Adolescents
 
 How we protect users
 
   * How we protect users
-
   * How to report content
-
   * Age appropriate access and experience
-
 
 
 
   * How we protect users
-
   * How to report content
-
   * Age appropriate access and experience
-
 
 
 
@@ -66,11 +60,11 @@ More information on our moderation and enforcement processes is set out in our [
 
 ## How to report content
 
-If you see content which you think is potentially violative of our policies, please let us know. Please see our [_Reporting content_ ⁠(opens in a new window)](<https://help.openai.com/en/articles/10245791-reporting-content-in-chatgpt-and-openai-platforms>) page, for details on how to make your report should you encounter such content on our services.
+If you see content which you think is potentially violative of our policies, please let us know. Please see our [_Reporting content⁠_ ⁠(opens in a new window)](<https://help.openai.com/en/articles/10245791-reporting-content-in-chatgpt-and-openai-platforms>) page, for details on how to make your report should you encounter such content on our services.
 
 **How to appeal content moderation decisions**
 
-If we take enforcement action against your content or activity, and you think we have made a mistake, you can report to us or appeal by emailing [_trustandsafety@openai.com_ ⁠](<mailto:trustandsafety@openai.com>)⁠⁠ or [_contacting support_ ⁠(opens in a new window)](<https://help.openai.com/en/articles/6614161-how-can-i-contact-support>). 
+If we take enforcement action against your content or activity, and you think we have made a mistake, you can appeal our decision via our [_appeals form_ ⁠](<https://openai.com/form/appeal/>).
 
 We may reassess, considering any additional information you provide. If your appeal is successful, we will reverse the enforcement action.
 
@@ -166,6 +160,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

@@ -45,28 +45,18 @@ Share
 Backstory
 
   * Backstory
-
   * How it works
-
   * What we learn on Learning Day
-
   * How we sustain it
-
   * Learning Day beyond Robotics
-
 
 
 
   * Backstory
-
   * How it works
-
   * What we learn on Learning Day
-
   * How we sustain it
-
   * Learning Day beyond Robotics
-
 
 
 

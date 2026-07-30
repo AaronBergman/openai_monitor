@@ -26,15 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Designing for natural voice interactions
-
-  * Designing for natural voice interactions
-  * Building memory and personality that hold together over time
-  * Tolan’s core principles for building natural voice agents 
-  * Expanding what’s possible with voice AI
-
-
-
 January 7, 2026
 
 Startup
@@ -48,6 +39,22 @@ With GPT‑5.1, Tolan built a voice app optimized for low latency, accurate cont
 Loading…
 
 Share
+
+Designing for natural voice interactions
+
+  * Designing for natural voice interactions
+  * Building memory and personality that hold together over time
+  * Tolan’s core principles for building natural voice agents 
+  * Expanding what’s possible with voice AI
+
+
+
+  * Designing for natural voice interactions
+  * Building memory and personality that hold together over time
+  * Tolan’s core principles for building natural voice agents 
+  * Expanding what’s possible with voice AI
+
+
 
 [ _Tolan_ ⁠(opens in a new window)](<https://www.tolans.com>) is a voice-first AI companion where people talk with a personalized, animated character that learns from conversations over time. 
 
@@ -144,9 +151,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -183,6 +190,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -216,6 +225,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

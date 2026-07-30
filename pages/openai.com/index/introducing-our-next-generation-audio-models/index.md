@@ -120,11 +120,11 @@ Our new audio models build upon the GPT‑4o and GPT‑4o‑mini architectures a
 
 ## Advanced distillation methodologies
 
-We've enhanced our distillation techniques, enabling knowledge transfer from our largest audio models to smaller, more efficient models. Leveraging advanced self-play methodologies, our distillation datasets effectively capture realistic conversational dynamics, replicating genuine user-assistant interactions. This helps our smaller models deliver excellent conversational quality and responsiveness. 
+We’ve enhanced our distillation techniques, enabling knowledge transfer from our largest audio models to smaller, more efficient models. Leveraging advanced self-play methodologies, our distillation datasets effectively capture realistic conversational dynamics, replicating genuine user-assistant interactions. This helps our smaller models deliver excellent conversational quality and responsiveness. 
 
 ## Reinforcement learning paradigm
 
-For our speech-to-text models, we've integrated a reinforcement learning (RL)-heavy paradigm, pushing transcription accuracy to state-of-the-art levels. This methodology dramatically improves precision and reduces hallucination, making our speech-to-text solutions exceptionally competitive in complex speech recognition scenarios.
+For our speech-to-text models, we’ve integrated a reinforcement learning (RL)-heavy paradigm, pushing transcription accuracy to state-of-the-art levels. This methodology dramatically improves precision and reduces hallucination, making our speech-to-text solutions exceptionally competitive in complex speech recognition scenarios.
 
 These developments represent progress in the field of audio modeling, combining innovative methodologies with practical enhancements for enhanced performance in speech applications.
 
@@ -134,7 +134,7 @@ These new audio models are available to all developers now – more on building 
 
 ## What’s next
 
-Looking ahead, we plan to continue to invest in improving the intelligence and accuracy of our audio models and exploring ways to allow developers to bring their own custom voices to build even more personalized experiences in ways that align with our safety standards. In addition, we’re [_continuing_ ⁠](</index/navigating-the-challenges-and-opportunities-of-synthetic-voices/>) to engage in conversations with policymakers, researchers, developers, and creatives around the challenges and opportunities synthetic voices can present. We're excited to see the innovative and creative applications developers will build using these enhanced audio capabilities. We’ll also invest in other modalities—including video—to enable developers to build multimodal agentic experiences.
+Looking ahead, we plan to continue to invest in improving the intelligence and accuracy of our audio models and exploring ways to allow developers to bring their own custom voices to build even more personalized experiences in ways that align with our safety standards. In addition, we’re [_continuing_ ⁠](</index/navigating-the-challenges-and-opportunities-of-synthetic-voices/>) to engage in conversations with policymakers, researchers, developers, and creatives around the challenges and opportunities synthetic voices can present. We’re excited to see the innovative and creative applications developers will build using these enhanced audio capabilities. We’ll also invest in other modalities—including video—to enable developers to build multimodal agentic experiences.
 
 ## Livestream replay
 

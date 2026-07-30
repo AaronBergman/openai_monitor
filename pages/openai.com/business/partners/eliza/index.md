@@ -34,9 +34,11 @@ OpenAI
 
 [Visit website(opens in a new window)](<https://eliza.com/>)
 
+## About
+
 Eliza is an AI-native services firm that helps enterprises build production systems on OpenAI. The hard part of enterprise AI is the data and software engineering around it. Eliza staffs for exactly that: forward-deployed engineers who can build the whole system, in addition to the AI layer. Small, embedded pods own delivery end-to-end across ChatGPT Enterprise, Codex, the OpenAI API, and the Agents SDK, moving from idea to live system in weeks. Eliza is built not to create dependency: every engagement transfers capability, and operating patterns so teams own what they run.
 
-![Advanced Partner](/images/partner-tier-badges/OAI_PartnerNetwork_AdvancedPartner.svg?dpl=dpl_Bt2QvgNvrDjuduwqx5NPqQxCos4N)
+![Advanced Partner](/images/partner-tier-badges/OAI_PartnerNetwork_AdvancedPartner.svg?dpl=dpl_DCAfe3qYYShYK7n4R4BuT5EfGUDo)
 
 Countries served
     United States
@@ -128,6 +130,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

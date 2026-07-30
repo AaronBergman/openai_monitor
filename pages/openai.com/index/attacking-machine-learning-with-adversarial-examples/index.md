@@ -26,17 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Adversarial examples give us some traction on AI safety
-
-  * Adversarial examples give us some traction on AI safety
-  * Attempted defenses against adversarial examples
-  * A failed defense: “gradient masking”
-  * Why is it hard to defend against adversarial examples?
-  * Conclusion
-  * For more information
-
-
-
 February 24, 2017
 
 [Conclusion](</research/index/conclusion/>)
@@ -48,6 +37,26 @@ February 24, 2017
 Loading…
 
 Share
+
+Adversarial examples give us some traction on AI safety
+
+  * Adversarial examples give us some traction on AI safety
+  * Attempted defenses against adversarial examples
+  * A failed defense: “gradient masking”
+  * Why is it hard to defend against adversarial examples?
+  * Conclusion
+  * For more information
+
+
+
+  * Adversarial examples give us some traction on AI safety
+  * Attempted defenses against adversarial examples
+  * A failed defense: “gradient masking”
+  * Why is it hard to defend against adversarial examples?
+  * Conclusion
+  * For more information
+
+
 
 Adversarial examples are inputs to machine learning models that an attacker has intentionally designed to cause the model to make a mistake; they’re like optical illusions for machines. In this post we’ll show how adversarial examples work across different mediums, and will discuss why securing systems against them can be difficult.
 
@@ -159,9 +168,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -198,6 +207,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -231,6 +242,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

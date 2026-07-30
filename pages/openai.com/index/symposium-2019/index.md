@@ -45,28 +45,18 @@ Share
 Why this event?
 
   * Why this event?
-
   * The participants
-
   * The talks
-
   * Dexterity demo
-
   * Next steps
-
 
 
 
   * Why this event?
-
   * The participants
-
   * The talks
-
   * Dexterity demo
-
   * Next steps
-
 
 
 

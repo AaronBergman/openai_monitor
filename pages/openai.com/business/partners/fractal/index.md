@@ -34,9 +34,11 @@ OpenAI
 
 [Visit website(opens in a new window)](<https://fractal.ai/partners/openai/>)
 
+## About
+
 Fractal is a global enterprise AI and advanced analytics company that helps organizations power decisions with data and AI. Combining deep domain expertise with engineering and design, Fractal enables enterprises to deploy generative AI solutions and scale them into production. The company specializes in building AI-powered applications such as enterprise AI assistants, agentic workflows, decision intelligence platforms, and intelligent automation systems. Fractal partners with Fortune 500 organizations across financial services, healthcare & life sciences, retail & consumer goods, technology, media & telecommunications, and industrial, manufacturing & energy sectors to drive business outcomes across customer experience, operations, and growth. With a focus on responsible AI and real-world impact, Fractal helps clients translate emerging AI capabilities into scalable transformation.
 
-![Advanced Partner](/images/partner-tier-badges/OAI_PartnerNetwork_AdvancedPartner.svg?dpl=dpl_Bt2QvgNvrDjuduwqx5NPqQxCos4N)
+![Advanced Partner](/images/partner-tier-badges/OAI_PartnerNetwork_AdvancedPartner.svg?dpl=dpl_DCAfe3qYYShYK7n4R4BuT5EfGUDo)
 
 Countries served
     Global
@@ -128,6 +130,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

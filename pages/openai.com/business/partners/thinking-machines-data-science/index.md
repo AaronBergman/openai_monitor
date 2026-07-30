@@ -1,28 +1,28 @@
 Skip to main content
 
-[](</>)
+[](</>)[](</business/>)
 
-  * [Research](</research/index/>)
+  * Why OpenAI
   * Products
-  * [Business](</business/>)
-  * [Developers](</api/>)
-  * [Company](</about/>)
-  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
+  * Solutions
+  * Resources
+  * [Customers](</business/customer-stories/>)
+  * [Pricing](</business/pricing/>)
 
 
 
-Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
+Try OpenAI[Contact sales](</contact-sales/>)
 
-  * Research
+  * Why OpenAI
   * Products
-  * Business
-  * Developers
-  * Company
-  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
+  * Solutions
+  * Resources
+  * [Customers](</business/customer-stories/>)
+  * [Pricing](</business/pricing/>)
 
 
 
-[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)Login
+[Contact sales](</contact-sales/>)Try OpenAI
 
 OpenAI
 
@@ -34,9 +34,11 @@ OpenAI
 
 [Visit website(opens in a new window)](<https://thinkingmachin.es>)
 
+## About
+
 Thinking Machines Data Science is an AI and data transformation company operating across Southeast Asia. We work at the intersection of AI, data, business, and ways of working, helping enterprises design, deploy, and adopt AI systems that improve how work gets done. Since 2015, we have trained more than 10,000 professionals to apply AI, and delivered enterprise AI and data systems to over 150 clients across financial services, retail, conglomerates, and civic organisations. We co-create alongside client teams, embed change management from day one, and build the cultural foundations that make AI technology transformative.
 
-![Advanced Partner](/images/partner-tier-badges/OAI_PartnerNetwork_AdvancedPartner.svg?dpl=dpl_4izMgthakjpbJEatvJacZ6SKXDvx)
+![Advanced Partner](/images/partner-tier-badges/OAI_PartnerNetwork_AdvancedPartner.svg?dpl=dpl_DCAfe3qYYShYK7n4R4BuT5EfGUDo)
 
 Countries served
     Philippines, Singapore, and Thailand

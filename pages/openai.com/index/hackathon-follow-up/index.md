@@ -43,20 +43,14 @@ Share
 The crowd
 
   * The crowd
-
   * The talks
-
   * The hacking
-
 
 
 
   * The crowd
-
   * The talks
-
   * The hacking
-
 
 
 

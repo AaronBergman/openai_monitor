@@ -26,16 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Exploration and learning
-
-  * Exploration and learning
-  * Why exploration is difficult
-  * Simplifying exploration with demonstrations
-  * Comparison to imitation-based approaches
-  * Remaining challenges
-
-
-
 July 4, 2018
 
 [Conclusion](</research/index/conclusion/>)
@@ -49,6 +39,24 @@ July 4, 2018
 Loading…
 
 Share
+
+Exploration and learning
+
+  * Exploration and learning
+  * Why exploration is difficult
+  * Simplifying exploration with demonstrations
+  * Comparison to imitation-based approaches
+  * Remaining challenges
+
+
+
+  * Exploration and learning
+  * Why exploration is difficult
+  * Simplifying exploration with demonstrations
+  * Comparison to imitation-based approaches
+  * Remaining challenges
+
+
 
 We’ve trained an agent to achieve a high score of 74,500 on [Montezuma’s Revenge⁠(opens in a new window)](<https://www.retrogames.cz/play_124-Atari2600.php?language=EN>) from a single human demonstration, better than any previously published result. Our algorithm is simple: the agent plays a sequence of games starting from carefully chosen states from the demonstration, and learns from them by optimizing the game score using [PPO⁠(opens in a new window)](<https://blog.openai.com/openai-baselines-ppo/>), the same reinforcement learning algorithm that underpins [OpenAI Five⁠(opens in a new window)](<https://blog.openai.com/openai-five/>).
 
@@ -144,9 +152,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -183,6 +191,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -216,6 +226,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

@@ -1,28 +1,28 @@
 Skip to main content
 
-[](</>)
+[](</>)[](</business/>)
 
-  * [Research](</research/index/>)
+  * Why OpenAI
   * Products
-  * [Business](</business/>)
-  * [Developers](</api/>)
-  * [Company](</about/>)
-  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
+  * Solutions
+  * Resources
+  * [Customers](</business/customer-stories/>)
+  * [Pricing](</business/pricing/>)
 
 
 
-Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
+Try OpenAI[Contact sales](</contact-sales/>)
 
-  * Research
+  * Why OpenAI
   * Products
-  * Business
-  * Developers
-  * Company
-  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
+  * Solutions
+  * Resources
+  * [Customers](</business/customer-stories/>)
+  * [Pricing](</business/pricing/>)
 
 
 
-[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)Login
+[Contact sales](</contact-sales/>)Try OpenAI
 
 OpenAI
 
@@ -34,13 +34,15 @@ OpenAI
 
 [Visit website(opens in a new window)](<https://deepsense.ai/>)
 
+## About
+
 deepsense.ai helps organizations move from AI ambition to deployed AI systems that operate reliably in production. We design, build, and scale agentic workflows, LLM applications, RAG platforms, and enterprise copilots, with the architecture, security, governance, and operational readiness required for real business use.
 
 With over 10 years of applied AI experience and 200+ commercial AI projects delivered for companies including Johnson & Johnson, Sky, WCG, Interrisk, GLS, DocPlanner, we bring deep delivery experience across healthcare and life sciences, financial services, industrial, and other data-intensive sectors.
 
 Our teams support the full lifecycle, from strategy and solution architecture to development, deployment, evaluation, optimization, and AI operations. Through our partnership with OpenAI, we help organizations implement AI faster, safer, and at greater scale, turning advanced AI capabilities into reliable operational infrastructure.
 
-![Advanced Partner](/images/partner-tier-badges/OAI_PartnerNetwork_AdvancedPartner.svg?dpl=dpl_Bt2QvgNvrDjuduwqx5NPqQxCos4N)
+![Advanced Partner](/images/partner-tier-badges/OAI_PartnerNetwork_AdvancedPartner.svg?dpl=dpl_DCAfe3qYYShYK7n4R4BuT5EfGUDo)
 
 Countries served
     United States, United Kingdom, Switzerland, Germany, France, Belgium, Sweden, and Norway
@@ -132,6 +134,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

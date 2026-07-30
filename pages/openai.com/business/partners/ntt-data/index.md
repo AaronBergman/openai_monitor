@@ -34,6 +34,8 @@ OpenAI
 
 [Visit website(opens in a new window)](<https://be.nttdata.com/services/ai/ai-assistant-services>)
 
+## About
+
 NTT DATA, a global leader in AI, digital business and technology services, operates in more than 70 countries and regions. Through its global strategic partnership with OpenAI, we help organizations accelerate AI-driven business transformation and create new business value with generative AI.
 
 Our approach goes beyond deploying AI tools. We work with clients to design and implement AI agents, modernize business processes, develop enterprise applications, establish secure AI governance, and integrate AI into mission-critical business operations.
@@ -44,7 +46,7 @@ Our services include OpenAI API-based solution development, AI Center of Excelle
 
 By combining OpenAI's cutting-edge AI technology with NTT DATA's consulting, engineering, and industry expertise, we help organizations realize end-to-end AI transformation.
 
-![Advanced Partner](/images/partner-tier-badges/OAI_PartnerNetwork_AdvancedPartner.svg?dpl=dpl_Bt2QvgNvrDjuduwqx5NPqQxCos4N)
+![Advanced Partner](/images/partner-tier-badges/OAI_PartnerNetwork_AdvancedPartner.svg?dpl=dpl_DCAfe3qYYShYK7n4R4BuT5EfGUDo)
 
 Countries served
     Global
@@ -139,6 +141,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

@@ -34,9 +34,11 @@ OpenAI
 
 [Visit website(opens in a new window)](<https://www.accenturefederal.com>)
 
+## About
+
 Accenture Federal Services is a strategic OpenAI Federal Implementation Partner, bringing OpenAI’s advanced models together with our deep mission expertise and cleared engineering talent to help agencies adopt, operationalize, and scale AI securely. Building on our global collaboration, we accelerate the move from pilots to mission-grade deployment by modernizing legacy systems, strengthening resilience, and embedding trusted AI across core workflows so federal leaders can advance their missions with speed and confidence.
 
-![Elite Partner](/images/partner-tier-badges/OAI_PartnerNetwork_ElitePartner.svg?dpl=dpl_Bt2QvgNvrDjuduwqx5NPqQxCos4N)
+![Elite Partner](/images/partner-tier-badges/OAI_PartnerNetwork_ElitePartner.svg?dpl=dpl_DCAfe3qYYShYK7n4R4BuT5EfGUDo)
 
 Countries served
     United States
@@ -128,6 +130,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

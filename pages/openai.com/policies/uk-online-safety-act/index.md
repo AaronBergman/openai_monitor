@@ -26,7 +26,7 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Last updated: June 26, 2026
+Last updated: July 29, 2026
 
 # The UK Online Safety Act 
 
@@ -70,17 +70,17 @@ We use age prediction technology to provide age-appropriate experiences on our s
 
 ## Our compliance with the Online Safety Act
 
-If you’re in the UK and think OpenAI isn't complying with its obligations under the UK Online Safety Act or has used proactive technology to moderate content in a way that is not compliant with our [terms⁠](</policies/eu-terms-of-use/>), you can report this to us via our [UK Online Safety Act Reporting Form⁠](</form/uk-osa-compliance/>).
+If you’re in the UK and think OpenAI isn't complying with its obligations under the UK Online Safety Act or has used proactive technology to moderate content in a way that is not compliant with our [_terms⁠_ ⁠](<https://openai.com/policies/eu-terms-of-use/>), you can submit a complaint via our [_UK Online Safety Act Reporting Form⁠_ ⁠](<https://openai.com/form/uk-osa-compliance/>). 
 
-We will review your report and consider how your feedback may help us improve our processes. 
+We will review your complaint and consider how your feedback may help us improve our processes. 
 
-We aim to complete reviews of reports within 10 business days although this process may take longer for more complex reports. We’ll follow up with you only if we need more information or have additional information to share with you.
+We aim to complete reviews of reports, appeals and complaints within 10 business days although this process may take longer for more complex reports. We’ll follow up with you only if we need more information or have additional information to share with you.
 
 ## Appealing content moderation decisions
 
-If we take enforcement action based on your content or activity (including following our use of proactive technology), and you think we have a mistake, you can report this to us and appeal our decision. Further information on how to appeal is set out on our [Transparency & Content Moderation page⁠](</transparency-and-content-moderation/>). 
+If we take enforcement action based on your content or activity, and you think we have a mistake, you can appeal our decision. Further information on how to appeal is set out on our [_Transparency & Content Moderation page⁠_⁠](<https://openai.com/transparency-and-content-moderation/>). 
 
-We aim to review appeals promptly, though more complex cases may take longer. 
+We aim to review appeals promptly, though more complex cases may take longer.
 
 ## Trusted Flaggers 
 
