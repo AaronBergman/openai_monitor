@@ -51,39 +51,41 @@ Switch cards to show Media
 
 Switch cards to hide Media
 
-![Why teens deserve access to safe AI — card image](https://images.ctfassets.net/kftzwdyauwt9/qMYBYjbkSSEYQbsQyyfRQ/d9fe2585ed8bbf73ffee5d6ed8bcc39e/why-teens-card.jpg?w=3840&q=90&fm=webp)
+![ARC-AGI-3 art-card 1x1](https://images.ctfassets.net/kftzwdyauwt9/71xyJRWnTkM6EW1JKDUc59/91d2690ff9e7abaa975b4a5f64089056/ARC-AGI-3_art-card_1x1.png?w=3840&q=90&fm=webp)
 
-[Why teens deserve access to safe AISafetyJul 16, 2026](</index/why-teens-deserve-access-safe-ai/>)
+[How enabling two settings tripled our scores on the ARC-AGI-3 benchmarkResearchJul 29, 2026](</index/how-two-settings-tripled-our-arc-agi-3-scores/>)
 
-![GPT-Red art card](https://images.ctfassets.net/kftzwdyauwt9/6q32m87ClqE8Ovn6vD424h/05ced72e47bbe42711fbac6a082cbff2/Art_Card.png?w=3840&q=90&fm=webp)
+![oai Science Academic Research Academic Research 1x1](https://images.ctfassets.net/kftzwdyauwt9/59kTmFmujYzNh0VgSvCgwe/e9334dd9944b5309f8ca2d44fdc71b6f/academic-research-card.png?w=3840&q=90&fm=webp)
 
-[GPT-Red: Unlocking Self-Improvement for RobustnessSafetyJul 15, 2026](</index/unlocking-self-improvement-gpt-red/>)
+[Accelerating scientific discovery with ChatGPT for Academic ResearchersCompanyJul 29, 2026](</index/chatgpt-for-academic-researchers/>)
 
-![How to manage AI investments in the agentic era > Cover image](https://images.ctfassets.net/kftzwdyauwt9/1qXMreHMXalbFSVXr2CJXW/acbd7f4e05bd38b80a99523967ef69b7/Frame.png?w=3840&q=90&fm=webp)
+![GPT-5.6 efficiency article — art card](https://images.ctfassets.net/kftzwdyauwt9/5ExPWhZDZXbZgTHE7aeE5d/0526071f749a3b44adff3c45a12322b7/How_GPT-5.6_fuses_frontier_intelligence_with_frontier_efficiency_ART_CARD__1_.png?w=3840&q=90&fm=webp)
 
-[How to manage AI investments in the agentic eraAI AdoptionJul 14, 2026](</index/managing-ai-investments-in-agentic-era/>)
+[How GPT-5.6 fuses frontier intelligence with frontier efficiencyEngineeringJul 29, 2026](</index/gpt-5-6-frontier-intelligence-efficiency/>)
 
-![GPT-5.6 is now the preferred model in Microsoft 365 Copilot > Cover image](https://images.ctfassets.net/kftzwdyauwt9/3MPipvFMxS8m3kTyCtwFgj/015747dcd34cb667a221688cfca64e0f/Frame.png?w=3840&q=90&fm=webp)
+![Scientific computing agentic AI card image \(1x1\)](https://images.ctfassets.net/kftzwdyauwt9/5opqp3rNWM7eax6GUc6MAl/1c710a4aba8c5c1e0b7d1c1c7c8b32db/1x1__1_.png?w=3840&q=90&fm=webp)
 
-[GPT-5.6 is now the preferred model in Microsoft 365 CopilotProductJul 9, 2026](</index/gpt-5-6-preferred-model-microsoft-365-copilot/>)
+[Scientific computing in the age of agentic AIPublicationJul 28, 2026](</index/scientific-computing-agentic-ai/>)
 
-![GPT-5.5 Bio Bug Bounty > art card](https://images.ctfassets.net/kftzwdyauwt9/2wba91t9mgdv1oBPai3LTb/e48f5d6b5e44bdaafb0eac51f96458d1/bug_bounty_1_1.png?w=3840&q=90&fm=webp)
+![How AI is expanding what we do at work > Cover image](https://images.ctfassets.net/kftzwdyauwt9/71jqBtMoMmnYCEyisAnZ0K/06d8fd5ae403146245901145f9d6f703/Art_Card__4_.png?w=3840&q=90&fm=webp)
 
-[OpenAI Bio Bug BountySafetyJul 9, 2026](</index/bio-bug-bounty/>)
+[How AI is expanding what people do at workCompanyJul 27, 2026](</index/how-ai-is-expanding-what-people-do-at-work/>)
 
-![GPT 5-6 > Card](https://images.ctfassets.net/kftzwdyauwt9/1a9IPPV5nXWydTBosgmgYI/8e03f28ca04f26edc8bc81cdba387df1/5-6.jpg?w=3840&q=90&fm=webp)
+![Health in ChatGPT > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/48aIp3cQOKJ57vpQeqOb8y/2e8732bcad5ceea1c7b20cf001bd2823/1_1_Art_Card.png?w=3840&q=90&fm=webp)
 
-[GPT-5.6: Frontier intelligence that scales with your ambitionProductJul 9, 2026](</index/gpt-5-6/>)
+[Launching Health in ChatGPT ProductJul 23, 2026](</index/health-in-chatgpt/>)
 
-[ChatGPT is now a partner for your most ambitious workProductJul 9, 2026](</index/chatgpt-for-your-most-ambitious-work/>)
+![How news organizations are using AI > Card Image](https://images.ctfassets.net/kftzwdyauwt9/5nTzxwRy4Is9PQSluyYkWP/d6e7953a692a5a8c926885e2f50a3427/how_news_orgs_use_AI_1x1.png?w=3840&q=90&fm=webp)
 
-![""](https://images.ctfassets.net/kftzwdyauwt9/2ygRvL6yUYAvtHiZYmCT8K/91195cbe6f282c24026d154fe3ac422e/System_card_1_1.png?w=3840&q=90&fm=webp)
+[How news organizations use AI to advance their vital missionsCompanyJul 22, 2026](</index/how-news-organizations-are-using-ai/>)
 
-[GPT‑5.6 System CardSafetyJul 9, 2026(opens in a new window)](<https://deploymentsafety.openai.com/gpt-5-6>)
+![OpenAI Presence 1x1](https://images.ctfassets.net/kftzwdyauwt9/5JBDenSGI6wx5CMPPlaM5J/da9d8e27a0bd70d845a816b28ac641a9/OpenAI_Presence_1x1.png?w=3840&q=90&fm=webp)
 
-![Separating signal from noise > Art Card](https://images.ctfassets.net/kftzwdyauwt9/7j6M3prKIsTmV6cbMaHjhZ/e66f7cdd98c66c99546853cbc22cfe84/Seperating-signal-from-noise-card.png?w=3840&q=90&fm=webp)
+[Introducing OpenAI PresenceProductJul 22, 2026](</index/introducing-openai-presence/>)
 
-[Separating signal from noise in coding evaluationsResearchJul 8, 2026](</index/separating-signal-from-noise-coding-evaluations/>)
+![Building AI for the ambitions of small businesses > Card image](https://images.ctfassets.net/kftzwdyauwt9/7wmfLwQnQQpV1xogqASUpR/76c80831b475e17a187ba35a7e0a46c8/SMB_launch_blog_1x1.png?w=3840&q=90&fm=webp)
+
+[Introducing the ChatGPT for small business programAI AdoptionJul 21, 2026](</index/introducing-chatgpt-small-business-program/>)
 
 Load more
 

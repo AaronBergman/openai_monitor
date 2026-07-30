@@ -38,17 +38,19 @@ Contact email *
 
 Please select the service that your complaint relates to: *
 
-Select one from the dropdown options belowChatGPT Search
+ChatGPT Search
 
-What are you complaining about? *Duties relating to
+What are you complaining about? *
 
-Select one from the dropdown options belowIllegal content present on the serviceContent harmful to children on the serviceContent reporting processesFreedom of expression or privacyOpenAI’s use of proactive technology to moderate content in a way that is not compliant with its terms
+Please select an optionDuties relating to:Illegal content present on the serviceContent harmful to children on the serviceContent reporting processesFreedom of expression or privacyAge assessment on my accountContent moderation action taken as a result of:OpenAI’s compliance with duties relating to illegal or harmful content on the serviceOpenAI’s use of proactive technology to moderate content in a way that is not compliant with its terms
 
-Please provide details of your complaint. *
+Please provide details of your complaint. *Your assistance helps us improve our services. Please provide us with specific information relating to your complaint. Without enough information, we may not be able to act on your report.
 
-Your assistance helps us take the right action on reported content. If you think what you’re reporting is illegal, please explain why in detail. Whenever possible, include the specific law that was violated. Without enough information, we may not be able to act on your report.
+Communication preference
 
-I do not want to receive any information about my complaint and opt-out of all communications about this complaint.
+I do not want to receive any information about my complaint and opt out of all communications about this complaint.
+
+Confirmation *
 
 I confirm that the information I have provided is accurate to the best of my knowledge.
 
@@ -64,9 +66,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -103,6 +105,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -136,6 +140,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

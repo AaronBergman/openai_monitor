@@ -26,16 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Creators describe outcomes, not camera instructions
-
-  * Creators describe outcomes, not camera instructions
-  * Operationalizing virality as a system, not a guess
-  * Turning product pages into ads with Click-to-Ad
-  * Routing the right job to the right model
-  * Pushing the boundaries of AI video
-
-
-
 January 21, 2026
 
 [API](</stories/api/>)[Sora](</stories/sora/>)Startup
@@ -49,6 +39,24 @@ Using OpenAI GPT‑4.1 and GPT‑5 to plan and Sora 2 to create, Higgsfield give
 Loading…
 
 Share
+
+Creators describe outcomes, not camera instructions
+
+  * Creators describe outcomes, not camera instructions
+  * Operationalizing virality as a system, not a guess
+  * Turning product pages into ads with Click-to-Ad
+  * Routing the right job to the right model
+  * Pushing the boundaries of AI video
+
+
+
+  * Creators describe outcomes, not camera instructions
+  * Operationalizing virality as a system, not a guess
+  * Turning product pages into ads with Click-to-Ad
+  * Routing the right job to the right model
+  * Pushing the boundaries of AI video
+
+
 
 Short-form video drives modern commerce, but producing video that actually performs is harder than it looks. Clips that feel effortless on TikTok, Reels, and Shorts are built on invisible rules: hook timing, shot rhythm, camera motion, pacing, and other subtle cues that make content feel “native” to whatever is trending.
 
@@ -154,9 +162,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -193,6 +201,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -226,6 +236,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

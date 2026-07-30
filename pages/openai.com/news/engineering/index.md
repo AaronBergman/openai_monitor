@@ -53,6 +53,10 @@ Switch cards to show Media
 
 Switch cards to hide Media
 
+![GPT-5.6 efficiency article — art card](https://images.ctfassets.net/kftzwdyauwt9/5ExPWhZDZXbZgTHE7aeE5d/0526071f749a3b44adff3c45a12322b7/How_GPT-5.6_fuses_frontier_intelligence_with_frontier_efficiency_ART_CARD__1_.png?w=3840&q=90&fm=webp)
+
+[How GPT-5.6 fuses frontier intelligence with frontier efficiencyEngineeringJul 29, 2026](</index/gpt-5-6-frontier-intelligence-efficiency/>)
+
 ![Rockset > Art Card](https://images.ctfassets.net/kftzwdyauwt9/7qv6OiVDfumZUnibH5VTOU/d2d818ac6de1f7cb93dce7a343e456dc/Rockset-Art-Card.png?w=3840&q=90&fm=webp)
 
 [Core dump epidemiology: fixing an 18-year-old bugEngineeringJun 30, 2026](</index/core-dump-epidemiology-data-infrastructure-bug/>)
@@ -84,10 +88,6 @@ Switch cards to hide Media
 ![Equip responses API > card image](https://images.ctfassets.net/kftzwdyauwt9/3jlUoU9Wdm40ix7aXkHKXa/bfc2f91468154453e4aacedffec70dd6/Art_Card__3_.png?w=3840&q=90&fm=webp)
 
 [From model to agent: Equipping the Responses API with a computer environment EngineeringMar 11, 2026](</index/equip-responses-api-computer-environment/>)
-
-![fin eng \(credits\) > card image](https://images.ctfassets.net/kftzwdyauwt9/7KaQ6wtBIG57umRltvuiea/f9530c5e10c107eaeee7d5bdb9f05b7a/FinEng_ArtCard.png?w=3840&q=90&fm=webp)
-
-[Beyond rate limits: scaling access to Codex and SoraEngineeringFeb 13, 2026](</index/beyond-rate-limits/>)
 
 Load more
 

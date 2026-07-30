@@ -26,7 +26,7 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Last updated: September 19, 2025
+Last updated: July 29, 2026
 
 # The Australian Online Safety Act
 
@@ -67,19 +67,19 @@ More information, including about our moderation and enforcement processes is se
 
 ## Our compliance with the Australian Online Safety Act
 
-If you’re in Australia and think OpenAI isn’t complying with its obligations under the Australian Online Safety Act or has used proactive technology to moderate content in a way that is not compliant with our [_terms_](</policies/row-terms-of-use/>) , you can report this to us via our [_Australian Online Safety Act Reporting Form._](</form/au-osa-compliance/>)
+If you’re in Australia and think OpenAI isn’t complying with its obligations under the Australian Online Safety Act or has used proactive technology to moderate content in a way that is not compliant with our [_terms_ ⁠](<https://openai.com/policies/row-terms-of-use/>), you can submit a complaint via our [_Australian Online Safety Act Reporting Form._ ⁠](<https://openai.com/form/au-osa-compliance/>)
 
-We will acknowledge and review your report and consider how your feedback may help us improve our processes. We aim to review reports within 10 business days although this process may take longer for more complex reports.
+We will acknowledge and review your complaint and consider how your feedback may help us improve our processes. We aim to review reports, appeals and complaints within 10 business days although this process may take longer for more complex reports.
 
-The eSafety Commissioner is Australia’s independent regulator for online safety. eSafety investigates and helps you to remove illegal and harmful content such as cyberbullying of children, adult cyber abuse, and intimate images or videos shared without consent.
+The eSafety Commissioner is Australia’s independent regulator for online safety. eSafety may investigate and help you to remove illegal and harmful content such as cyberbullying of children, adult cyber abuse, and intimate images or videos shared without consent.
 
-You can [_directly report_ ⁠(opens in a new window)](<https://www.esafety.gov.au/report>) cyberbullying, adult cyber abuse, image-based abuse, illegal and restricted online content, or your concerns about OpenAI’s compliance with the Australian Online Safety Act to eSafety.
+You can [_directly report⁠ (opens in a new window)_ ⁠(opens in a new window)](<https://www.esafety.gov.au/report>) cyberbullying, adult cyber abuse, image-based abuse, illegal and restricted online content, or your concerns about OpenAI’s compliance with the Australian Online Safety Act to eSafety.
 
 ### Appealing content moderation decisions
 
-If we take enforcement action based on your content or activity (including following our use of proactive technology), and you think we have a mistake, you can report this to us and appeal our decision. Further information on how to appeal is set out on our [_Transparency & Content Moderation page_](</transparency-and-content-moderation/>). 
+If we take enforcement action based on your content or activity, and you think we have a mistake, you can appeal our decision. Further information on how to appeal is set out on our [_Transparency & Content Moderation page_⁠](<https://openai.com/transparency-and-content-moderation/>). 
 
-We aim to review appeals promptly, though more complex cases may take longer. 
+We aim to review appeals promptly, though more complex cases may take longer.
 
 *_Under the Australian Online Safety Act, illegal and restricted online content ranges from seriously harmful materials such as images and videos showing or encouraging the sexual abuse or exploitation of children, terrorist acts and other types of violent crimes or extreme violence (including murder, attempted murder, rape, torture, violent kidnapping) and content that shows self-harm or suicide or explains how to do it, through to content which should be not be accessed by children, such as simulated sexual activity, detailed nudity, high impact violence, and eating disorder content._
 
@@ -95,9 +95,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -134,6 +134,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -167,6 +169,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

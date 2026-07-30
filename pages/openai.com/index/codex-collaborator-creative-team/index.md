@@ -128,17 +128,17 @@ OpenAI
 
 [View all](</news/>)
 
-![OpenAI on OpenAI: GTM Assistant > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/6vTIWyLwSGrtVjD9cudZAS/a3c15ded0e3fe6f7c3d8e276cda70fd4/GTM_Assistant_-_Website_Stories_Post_-_1x1__1_.png?w=3840&q=90&fm=webp)
+![OpenAI on OpenAI: User Support > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/76CnrtKKvngPIfdfXYcXG8/cb789b59d9f7dd8e3b385b532be76a77/oai_SupportAgent_1x1.png?w=3840&q=90&fm=webp)
 
-[Driving sales productivity and customer success at OpenAIAPISep 29, 2025](</index/openai-gtm-assistant/>)
+[Improving support with every interaction at OpenAIAPISep 29, 2025](</index/openai-support-model/>)
+
+![OpenAI on OpenAI > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/5gbagfbtROvYfi0cQlpEM3/89367ef5dca927d48e541f6f430ea212/oai_GC_1x1__1_.png?w=3840&q=90&fm=webp)
+
+[Building OpenAI with OpenAIChatGPTSep 29, 2025](</index/building-openai-with-openai/>)
 
 ![OpenAI on OpenAI: Inbound sales > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/65JQ9iKWtF0yk3etmRSCWs/635e720abc85cd05a36811fe7c4bee14/oai_TailorAssist_1x1__1_.png?w=3840&q=90&fm=webp)
 
 [Converting inbound leads into customers at OpenAIAPISep 29, 2025](</index/openai-inbound-sales-assistant/>)
-
-![OpenAI on OpenAI: A research assistant > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/7sBOamDxRfxNSL8Kv6H4lJ/ece52c8dbeb7b5204903d875f2573b8c/Research_Assistant_-_Website_Stories_Post_-_1x1__1_.png?w=3840&q=90&fm=webp)
-
-[Empowering teams to unlock insights faster at OpenAIAPISep 29, 2025](</index/openai-research-assistant/>)
 
 Research
 

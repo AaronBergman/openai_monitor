@@ -26,162 +26,226 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
+# Accelerating scientific discovery
+
+Our most advanced AI helps researchers explore new ideas, connect evidence, analyze data, and move from questions to answers faster across mathematics, physics, biology, chemistry, and beyond.
+
+### Pushing the frontiers of theoretical and applied science
+
+We believe AI should help every researcher make new discoveries. That’s why we work alongside the scientific community to see how our models can contribute to meaningful scientific problems.
+
+![Geometry > ArtCard > Polynomial Construction](https://images.ctfassets.net/kftzwdyauwt9/6PqehRMmS1oVuin6e3VWYq/b96f1c7b5a2ac2c08a887591b8486ed3/ArtCard-Polynomial-Construction.png?w=3840&q=90&fm=webp)
+
+## [Mathematics: Disproving a longstanding conjectureResearch](</index/model-disproves-discrete-geometry-conjecture/>)
+
+![new result theoretical physics > card image](https://images.ctfassets.net/kftzwdyauwt9/24H05x8TWMDsT8mFEVJ1Vi/ddeef54d2abd225ccf95e6dc4231d313/oai_Science_Quantum_Amplitudes_Art_Card_1x1.png?w=3840&q=90&fm=webp)
+
+## [Physics: Finding a new result in particle theoryResearch](</index/new-result-theoretical-physics/>)
+
+![A near-autonomous AI chemist improves a challenging reaction](https://images.ctfassets.net/kftzwdyauwt9/QgPPg4etNE5C4Ao0G94sk/e5f2a50e5de4619d0e0fe8483698718b/molecule-one-art-card.png?w=3840&q=90&fm=webp)
+
+## [Chemistry: Improving a reaction used in drug discoveryResearch](</index/ai-chemist-improves-reaction/>)
+
+![ginkgo > card image](https://images.ctfassets.net/kftzwdyauwt9/2SsfYMwzLvPgXAwHZJn3ns/c84388126c95fce54b1106a8443557c8/ginkgo_art_card.png?w=3840&q=90&fm=webp)
+
+## [Biology: Reducing the cost of protein productionResearch](</index/gpt-5-lowers-protein-synthesis-cost/>)
+
+### Tools that work across the research process
+
+Use our models and tools to move between scientific questions, technical workflows, and the practical work that keeps research moving.
+
+![Open book representing literature and evidence.](https://images.ctfassets.net/kftzwdyauwt9/7DCB8vjrCbOD0El7RcAxUG/ff6c3cf0f39459a8693d88e7e7562d15/Explore_literature_and_evidence.svg?w=3840&q=90)
+
+#### Explore literature and evidence
+
+Search across papers and public research resources, synthesize findings, evaluate citations, and identify questions worth investigating.
+
+![Code brackets representing data analysis and programming.](https://images.ctfassets.net/kftzwdyauwt9/1MYHDG9j52mGZXA5crgf4k/1c4f899dbe511d0a19a21d0034a34119/Analyze_data_and_write_code.svg?w=3840&q=90)
+
+#### Analyze data and write code
+
+Work with complex datasets, write and debug analysis code, build reproducible workflows, and manage research pipelines.
+
+![Laboratory flask representing scientific modeling.](https://images.ctfassets.net/kftzwdyauwt9/5PycrSzddNp720IfTfq6Aq/e6c81e403435eb7b53f09ecbab0920bd/Model_scientific_problems.svg?w=3840&q=90)
+
+#### Model scientific problems
+
+Explore mathematical ideas, support simulations, investigate molecular structures, and reason across scientific disciplines.
+
+![Connected cable endpoints representing research tool integrations.](https://images.ctfassets.net/kftzwdyauwt9/4QnO0hCepUC3SYBuVFEUb1/880c914c54a1b3223774d0e6f2c85397/Connect_existing_research_tools.svg?w=3840&q=90)
+
+#### Connect existing research tools
+
+Bring in scientific databases, computational notebooks, reference managers, data platforms, and other tools researchers already use.
+
+![Light bulb representing ideas and experimentation.](https://images.ctfassets.net/kftzwdyauwt9/5GPcYRRk10Pas2kpk5D4NX/0786cdf3530056f393f7ad5b882c5667/Move_from_ideas_to_experiments.svg?w=3840&q=90)
+
+#### Move from ideas to experiments
+
+Compare hypotheses, investigate potential mechanisms, and develop plans for researchers to evaluate and test.
+
+![Pen and text lines representing research writing and administration.](https://images.ctfassets.net/kftzwdyauwt9/5fu03QR5Gd29DmFiod1jXg/23d50290e5160caf7a1e33d11a3fbe8d/Handle_the_work_surrounding_science.svg?w=3840&q=90)
+
+#### Handle the work surrounding science
+
+Find funding opportunities, prepare grant applications, draft manuscripts, manage citations, and create presentations and other research materials.
+
+### Built with scientists, for the benefit of people
+
+Our most advanced general-purpose model family supports difficult work across mathematics, physics, biology, chemistry, and other scientific disciplines. GPT‑5.6 Sol Pro offers our highest-capability reasoning for demanding research problems.
+
+![GPT-Rosalind label on an abstract green and teal background.](https://images.ctfassets.net/kftzwdyauwt9/29Gs5Tt0m032tOo1XHc6zd/1426f0b9050fac8208d1e8c9b505b5b0/GPTRosalind.png?w=3840&q=90&fm=webp)
+
+### GPT-Rosalind
+
+Our purpose-built life-science model helps qualified research organizations reason across biological evidence, scientific data, specialized tools, and complex workflows in areas such as genomics and drug discovery.
+
+[Request access](</form/life-sciences-access/>)[Try the Life Sciences plugin(opens in a new window)](<https://chatgpt.com/plugins/plugins~Plugin_7113e6f705948191bad2d24c30465361?open_in_codex>)
+
+![GPT-5.6 label over planets and a star-filled sky.](https://images.ctfassets.net/kftzwdyauwt9/6JhTH6AePSYpw5uXF8mWQY/4bfbaf3e3734e088cb6e759d5808f17e/GPT5.6.png?w=3840&q=90&fm=webp)
+
+### GPT-5.6
+
+Our most advanced general-purpose model family supports difficult work across mathematics, physics, biology, chemistry, and other scientific disciplines. GPT-5.6 Sol Pro offers our highest-capability reasoning for demanding research problems.
+
+[Learn more](</index/gpt-5-6/>)
+
+![OpenAI for Science > Prism](https://images.ctfassets.net/kftzwdyauwt9/4x2DhtPDGnDKJb0kty2xlP/b4c2db879448b1c632c5822caec5073b/Frame_2147258749__4_.png?w=3840&q=90&fm=webp)
+
+### Prism
+
+Draft manuscripts, manage citations, work with equations, and collaborate in a free, AI-native scientific writing workspace built on LaTeX.
+
+[Learn more](</prism/>)
+
+![Chat and Work toggle on a star-filled background.](https://images.ctfassets.net/kftzwdyauwt9/6aEDtvug67gBY78fiM9A4K/6b5c933c687174ad4e5efcbb76baa0ff/GPTWork.png?w=3840&q=90&fm=webp)
+
+### ChatGPT & ChatGPT Work
+
+Bring papers, files, data, and day-to-day research into one place, and use specialized plugins to connect ChatGPT to the data, literature, and tools relevant to your field. Explore questions, synthesize findings, prepare grant applications, and help research teams move discoveries forward.
+
+[Learn more](</chatgpt-work/>)
+
+1 of 4
+
+> “This has been one of Erdős' favorite problems, I have heard him myself mentioning the problem multiple times in his lectures. I believe it would be fair to say that every mathematician working in Combinatorial Geometry thought about this problem, and lots of mathematicians working in other areas spent at least some time thinking about it… The solution of the problem by the internal model of Open AI is, in my opinion, an outstanding achievement, settling a long-standing open problem. The fact that the correct answer is not n1+o(1)n^{1+o(1)}n1+o(1) is surprising, and the construction and its analysis apply fairly sophisticated tools from algebraic number theory in an elegant and clever way.”
+
+Noga Alon
+
+> “There is no doubt that the solution to the unit-distance problem is a milestone in AI mathematics: if a human had written the paper and submitted it to the Annals of Mathematics and I had been asked for a quick opinion, I would have recommended acceptance without any hesitation. No previous AI-generated proof has come close to that.”
+
+Tim Gowers
+
+> “The model’s CoT is deeply interesting. It is noteworthy that a significant majority of the thoughts are trying to construct a counterexample to the widely believed upper bound, rather than trying to prove it. This argues that the model has some combination of good intuition, willingness to try approaches considered long-shot by the community, and a predisposition to attempt constructions.… In my opinion this paper demonstrates that current AI models go beyond just helpers to human mathematicians – they are capable of having original ingenious ideas, and then carrying them out to fruition.”
+
+Arul Shankar
+
+> “This is a really impressive piece of work, and I would accept it for any journal without hesitation. I actually briefly worked on this problem and tried to make a counterexample, but failed to make progress… It is definitely an intimidating construction to see through even if you know what is going on, and even harder to go play for yourself.”
+
+Jacob Tsimerman
+
+  * Noga Alon
+
+  * Tim Gowers
+
+  * Arul Shankar
+
+  * Jacob Tsimerman
+
+
+
+
+  * Noga Alon
+  * Tim Gowers
+  * Arul Shankar
+  * Jacob Tsimerman
+
+
+
+### ChatGPT for Academic Researchers
+
+We’re giving researchers across the sciences and mathematics free access to our most advanced models through ChatGPT Pro.
+
+[Apply now(opens in a new window)](<https://chatgpt.com/sophia/verification>)
+
+### Helping researchers move from questions to discoveries
+
+Scientists and mathematicians are already using AI to investigate difficult problems, explore new approaches, and accelerate their work.
+
+![Derya Unutmaz card image](https://images.ctfassets.net/kftzwdyauwt9/6By12NX9sglstfwFKQTzYB/a28d6f84e91a8dae838f240db4c2524c/derya_1x1.png?w=3840&q=90&fm=webp)
+
+[How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mysteryApplied AI](</index/gpt-5-immunology-mystery/>)
+
+![Boston's Children Hospital NEJM > Cover image](https://images.ctfassets.net/kftzwdyauwt9/1VrF8z79R2Khy4PWmHRKME/38077532a039ebb39f054e84d6ae89c7/Art_Card.png?w=3840&q=90&fm=webp)
+
+[Using AI to help physicians diagnose rare genetic diseases affecting childrenApplied AI](</index/diagnose-rare-childhood-diseases/>)
+
+![Frame \(4\)](https://images.ctfassets.net/kftzwdyauwt9/1cXwxAxok14lQF5HiEO4zi/567dbae4950956776ef4a28f9790df4c/Frame__4_.png?w=3840&q=90&fm=webp)
+
+[How an astrophysicist uses Codex to help simulate black holesApplied AI](</index/using-codex-to-simulate-black-holes/>)
+
 Research
-
-# Pioneering research on the path to AGI
-
-We believe our research will eventually lead to artificial general intelligence, a system that can solve human-level problems. Our mission is to ensure that AGI benefits all of humanity.
-
-[View research index](</research/index/>)[Learn about safety](</safety/>)
-
-![\[2.0\] Research > Hero > Media Item](https://downloads.ctfassets.net/kftzwdyauwt9/4FnPiaiJdmc3R04H7kGR4N/8b115455fddf2921431f454f65b6ee22/Research_Hero.png?w=3840&q=90&fm=webp)
-
-Focus areas
-
-### We use Deep Learning to leverage large amounts of data and advanced reasoning to train AI systems for task completion. 
-
-### GPT
-
-OpenAI’s GPT series models are fast, versatile, and cost-efficient AI systems designed to understand context, generate content, and reason across text, images, and more.
-
-![Hero Art Card SEO 1x1](https://images.ctfassets.net/kftzwdyauwt9/cut4wyUCuBENXfd5CSI7Z/d934ffb49d8b39abea0bc33bb1a5b916/Hero_Art_Card_SEO_1x1.jpg?w=3840&q=90&fm=webp)
-
-[A new class of intelligence for real workReleaseApr 23, 202612 min read](</index/introducing-gpt-5-5/>)
-
-![5.4 Thinking Art Card](https://images.ctfassets.net/kftzwdyauwt9/5HSBM48XFBkni6rNv5CAbR/46fe1d133c1440563245262a5fa59c79/5.4_Thinking_Art_Card.png?w=3840&q=90&fm=webp)
-
-[Our most capable and efficient frontier model for professional workReleaseMar 5, 202616 min read](</index/introducing-gpt-5-4/>)
-
-![5.3 Instant Art Card](https://images.ctfassets.net/kftzwdyauwt9/72xhlkMHldxPfwGsZttoiI/3ada2b7e0cdb129d0779fbc8b700a7af/5.3_Instant_Art_Card__1_.png?w=3840&q=90&fm=webp)
-
-[Smoother, more useful everyday conversationsReleaseMar 3, 20265 min read](</index/gpt-5-3-instant/>)
-
-### o series
-
-OpenAI’s o series models are advanced reasoning AI systems that use chain-of-thought processes to solve complex STEM problems through logical, step-by-step analysis.
-
-[Our smartest and most capable models to date with full tool accessOpenAI o3 and o4-miniApr 16, 202511 min read](</index/introducing-o3-and-o4-mini/>)
-
-![o3-mini > cover image](https://images.ctfassets.net/kftzwdyauwt9/BQXodBZ63FtQq6CGcPQQh/955ea49d3cf09e7ad33129d8a81b4087/o3-mini_1.1.png?w=3840&q=90&fm=webp)
-
-[Pushing the frontier of cost-effective reasoningOpenAI o3-miniJan 31, 20256 min read](</index/openai-o3-mini/>)
-
-![OpenAI o1](https://images.ctfassets.net/kftzwdyauwt9/6ERYwPGeSFjSDRzD9ZeSZM/8fc12647977085317692108a4116f2e2/o1_1.1.png?w=3840&q=90&fm=webp)
-
-[Learning to reason with LLMsOpenAI o1Sep 12, 20249 min read](</index/learning-to-reason-with-llms/>)
-
-### Visual
-
-Our research on generative modeling for images has led to representation models like CLIP, which makes a map between text and images that an AI can read, and DALL-E, a tool for creating vivid images from text descriptions.
-
-![Images 2.0 blog art card](https://images.ctfassets.net/kftzwdyauwt9/7fPF7LU0YzPr5PrlNT6lo3/823a11178d4aac15d4f4260b9fcc490d/Blog_art_card.png?w=3840&q=90&fm=webp)
-
-[A state-of-the-art model that makes precise, immediately usable visualsChatGPT Images 2.0Apr 21, 202611 min read](</index/introducing-chatgpt-images-2-0/>)
-
-![Sora 2 research blog cover art 16 x 9](https://images.ctfassets.net/kftzwdyauwt9/1Q8NDmnyavsoPAKDlWpW18/a1f595376097668d1772c9cac40fc8ee/16_x_9____1_.png?w=3840&q=90&fm=webp)
-
-[Physically accurate, realistic, and controllable with synchronized dialogue and sound effectsSora 2Sep 30, 20258 min read](</index/sora-2/>)
-
-[A natively multimodal model capable of precise, accurate, photorealistic outputsImage GenerationMar 25, 20256 min read](</index/introducing-4o-image-generation/>)
-
-### Audio
-
-Our research on applying AI to audio processing and audio generation has led to developments in automatic speech recognition and original musical compositions.
-
-![Audio Models Art card 16.9](https://images.ctfassets.net/kftzwdyauwt9/Yk03Bk61ZPWi4wrUOF77l/aa6769bfd342e14eaa246c5b3bd27c81/Audio_Models_Art_card_16.9.png?w=3840&q=90&fm=webp)
-
-[Introducing next-generation audio models in the APIVoice AgentsMar 20, 20256 min read](</index/introducing-our-next-generation-audio-models/>)
-
-![ Navigating the challenges > Media item](https://images.ctfassets.net/kftzwdyauwt9/3u7r7E3gFRGZIxdKucf7f6/c09e0f83b72d37dc10c1d0563bfc5c33/oai-synthetic-voices.png?w=3840&q=90&fm=webp)
-
-[Navigating the challenges and opportunities of synthetic voicesVoice EngineMar 29, 20248 min read](</index/navigating-the-challenges-and-opportunities-of-synthetic-voices/>)
-
-![Whisper](https://images.ctfassets.net/kftzwdyauwt9/13c810cb-0592-442d-190ab7378bef/a7cb2299d034abe93023f662f8d32263/Speech_Rec_16_9.png?w=3840&q=90&fm=webp)
-
-[Approaching human-level robustness and accuracy on English speech recognitionWhisperSep 21, 20222 min read](</index/whisper/>)
-
-### Text
-
-Our text models are advanced language processing tools that can generate, classify, and summarize text with high levels of coherence and accuracy.
-
-![Aligning Language Models To Follow Instructions](https://images.ctfassets.net/kftzwdyauwt9/5b1e6906-9f64-42b7-b5d87c29543b/25be46c3552b7af3af0a1c5a70381626/image-13.webp?w=3840&q=90&fm=webp)
-
-[Aligning language models to follow instructionsPublicationJan 27, 20228 min read](</index/instruction-following/>)
-
-![Summarizing Books](https://images.ctfassets.net/kftzwdyauwt9/5a1f46b8-7e89-42f1-cb71b084ba93/524e90bcc1dfde4121a5ffb83c679bc9/summarizing-books.jpg?w=3840&q=90&fm=webp)
-
-[Summarizing books with human feedbackPublicationSep 23, 20214 min read](</index/summarizing-books/>)
-
-![Language Models Are Few Shot Learners](https://images.ctfassets.net/kftzwdyauwt9/40660b0a-561d-412e-9adc992b9f69/9c841f18126a6af1e3b3d266988ab0e8/image_126.png?w=3840&q=90&fm=webp)
-
-[Language models are few-shot learnersMilestoneMay 28, 20203 min read](</index/language-models-are-few-shot-learners/>)
-
-> “Safely aligning powerful AI systems is one of the most important unsolved problems for our mission. Techniques like learning from human feedback are helping us get closer, and we are actively researching new techniques to help us fill the gaps.”
-
-Josh Achiam, Researcher at OpenAI
-
-### Featured roles
-
-We are actively seeking talented individuals to join our team. Explore featured roles or view all open roles.
-
-[View all careers](</careers/search/>)
-
-## Explore all research
-
-[View research index](</research/index/>)
-
-Our Research
 
   * [Research Index](</research/index/>)
   * [Research Overview](</research/>)
-  * [Research Residency](</residency/>)
   * [Economic Research](</signals/>)
 
 
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
-  * [GPT-5.3-Codex](</index/introducing-gpt-5-3-codex/>)
 
 
 
 Safety
 
   * [Safety Approach](</safety/>)
+  * [Deployment Safety(opens in a new window)](<https://deploymentsafety.openai.com/>)
   * [Security & Privacy](</security-and-privacy/>)
   * [Trust & Transparency](</trust-and-transparency/>)
 
 
 
-ChatGPT
+Products
 
-  * [Explore ChatGPT(opens in a new window)](<https://chatgpt.com/overview>)
-  * [Business](<https://chatgpt.com/business/business-plan>)
-  * [Enterprise](<https://chatgpt.com/business/enterprise>)
-  * [Education](<https://chatgpt.com/business/education>)
-  * [Pricing(opens in a new window)](<https://chatgpt.com/pricing>)
-  * [Download(opens in a new window)](<https://chatgpt.com/download>)
+  * [ChatGPT(opens in a new window)](<https://chatgpt.com/>)
+  * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
+  * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
+  * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
+  * [Codex](</codex/>)
+  * [Release Notes](</products/release-notes/>)
 
 
 
 API Platform
 
-  * [Platform Overview](</api/>)
-  * [Pricing](</api/pricing/>)
-  * [API log in(opens in a new window)](<https://platform.openai.com/login>)
-  * [Documentation(opens in a new window)](<https://developers.openai.com/api/docs>)
-  * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
+  * [Overview](</api/>)
+  * [API Log In(opens in a new window)](<https://platform.openai.com/login>)
+  * [Docs(opens in a new window)](<https://developers.openai.com/api/docs>)
 
 
 
-For Business
+Business
 
-  * [Business Overview](</business/>)
+  * [Overview](</business/>)
   * [Solutions](</solutions/>)
+  * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
+
+
+
+Developers
+
+  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
+  * [Open Models](</open-models/>)
+  * [Docs(opens in a new window)](<https://developers.openai.com/>)
+  * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
+  * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
 
 
 
@@ -189,9 +253,8 @@ Company
 
   * [About Us](</about/>)
   * [Our Charter](</charter/>)
-  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
   * [Careers](</careers/>)
-  * [Brand](</brand/>)
+  * [News](</news/>)
 
 
 
@@ -203,9 +266,9 @@ Support
 
 More
 
-  * [News](</news/>)
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

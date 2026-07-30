@@ -26,17 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Training agents to invent a language
-
-  * Training agents to invent a language
-  * How experimental setup influences how language evolves
-  * Can’t speak? Let me point the way. Can’t hear? Let me guide you.
-  * Inferred language and grounded language
-  * Next steps
-  * For more information
-
-
-
 March 16, 2017
 
 [Conclusion](</research/index/conclusion/>)
@@ -50,6 +39,26 @@ In this post we’ll outline new OpenAI research in which agents develop their o
 Loading…
 
 Share
+
+Training agents to invent a language
+
+  * Training agents to invent a language
+  * How experimental setup influences how language evolves
+  * Can’t speak? Let me point the way. Can’t hear? Let me guide you.
+  * Inferred language and grounded language
+  * Next steps
+  * For more information
+
+
+
+  * Training agents to invent a language
+  * How experimental setup influences how language evolves
+  * Can’t speak? Let me point the way. Can’t hear? Let me guide you.
+  * Inferred language and grounded language
+  * Next steps
+  * For more information
+
+
 
 Our hypothesis is that true language understanding will come from agents that learn words in combination with how they affect the world, rather than spotting patterns in a huge corpus of text. As a first step, we wanted to see if cooperative agents could develop a simple language amongst themselves.
 
@@ -140,9 +149,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -179,6 +188,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -212,6 +223,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

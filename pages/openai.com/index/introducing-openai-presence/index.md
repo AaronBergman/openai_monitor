@@ -149,17 +149,17 @@ OpenAI
 
 [View all](</news/>)
 
+![oai Science Academic Research Academic Research 1x1](https://images.ctfassets.net/kftzwdyauwt9/59kTmFmujYzNh0VgSvCgwe/e9334dd9944b5309f8ca2d44fdc71b6f/academic-research-card.png?w=3840&q=90&fm=webp)
+
+[Accelerating scientific discovery with ChatGPT for Academic ResearchersCompanyJul 29, 2026](</index/chatgpt-for-academic-researchers/>)
+
+![GPT-5.6 efficiency article — art card](https://images.ctfassets.net/kftzwdyauwt9/5ExPWhZDZXbZgTHE7aeE5d/0526071f749a3b44adff3c45a12322b7/How_GPT-5.6_fuses_frontier_intelligence_with_frontier_efficiency_ART_CARD__1_.png?w=3840&q=90&fm=webp)
+
+[How GPT-5.6 fuses frontier intelligence with frontier efficiencyEngineeringJul 29, 2026](</index/gpt-5-6-frontier-intelligence-efficiency/>)
+
 ![How AI is expanding what we do at work > Cover image](https://images.ctfassets.net/kftzwdyauwt9/71jqBtMoMmnYCEyisAnZ0K/06d8fd5ae403146245901145f9d6f703/Art_Card__4_.png?w=3840&q=90&fm=webp)
 
 [How AI is expanding what people do at workCompanyJul 27, 2026](</index/how-ai-is-expanding-what-people-do-at-work/>)
-
-![Health in ChatGPT > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/48aIp3cQOKJ57vpQeqOb8y/2e8732bcad5ceea1c7b20cf001bd2823/1_1_Art_Card.png?w=3840&q=90&fm=webp)
-
-[Launching Health in ChatGPT ProductJul 23, 2026](</index/health-in-chatgpt/>)
-
-![How news organizations are using AI > Card Image](https://images.ctfassets.net/kftzwdyauwt9/5nTzxwRy4Is9PQSluyYkWP/d6e7953a692a5a8c926885e2f50a3427/how_news_orgs_use_AI_1x1.png?w=3840&q=90&fm=webp)
-
-[How news organizations use AI to advance their vital missionsCompanyJul 22, 2026](</index/how-news-organizations-are-using-ai/>)
 
 Research
 

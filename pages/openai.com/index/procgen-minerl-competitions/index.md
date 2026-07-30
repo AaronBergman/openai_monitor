@@ -43,16 +43,12 @@ Share
 Procgen Competition
 
   * Procgen Competition
-
   * MineRL Competition
-
 
 
 
   * Procgen Competition
-
   * MineRL Competition
-
 
 
 

@@ -34,6 +34,8 @@ OpenAI
 
 [Visit website(opens in a new window)](<https://www.dentsu.com/sg/en>)
 
+## About
+
 Dentsu Japan is an Integrated Growth Partner that combines the diverse expertise of various Dentsu Group companies in Japan to support the growth of clients and society across marketing, business transformation, and sports & entertainment.
 
 Dentsu Japan has adopted "AI For Growth" as its growth strategy, combining human intelligence with AI intelligence to move beyond simply streamlining certain operations and towards implementations that lead to business growth.
@@ -46,7 +48,7 @@ Starting from marketing areas such as product and service development, creative 
 
 Leveraging the expertise and development capabilities centered around the dentsu Japan AI Center, along with our knowledge of AI governance, we support companies in safely and continuously utilizing generated AI to enhance brand value and business results.
 
-![Advanced Partner](/images/partner-tier-badges/OAI_PartnerNetwork_AdvancedPartner.svg?dpl=dpl_Bt2QvgNvrDjuduwqx5NPqQxCos4N)
+![Advanced Partner](/images/partner-tier-badges/OAI_PartnerNetwork_AdvancedPartner.svg?dpl=dpl_DCAfe3qYYShYK7n4R4BuT5EfGUDo)
 
 Countries served
     Japan
@@ -138,6 +140,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

@@ -51,6 +51,10 @@ Switch cards to show Media
 
 Switch cards to hide Media
 
+![PIA safety > Cover image](https://images.ctfassets.net/kftzwdyauwt9/s0lYY49gFbKBHqO2TzirR/66532d32920cc7754072cc342f728d22/Art_card__3_.png?w=3840&q=90&fm=webp)
+
+[Safety and alignment in an era of long-horizon modelsSafetyJul 20, 2026](</index/safety-alignment-long-horizon-models/>)
+
 ![Why teens deserve access to safe AI — card image](https://images.ctfassets.net/kftzwdyauwt9/qMYBYjbkSSEYQbsQyyfRQ/d9fe2585ed8bbf73ffee5d6ed8bcc39e/why-teens-card.jpg?w=3840&q=90&fm=webp)
 
 [Why teens deserve access to safe AISafetyJul 16, 2026](</index/why-teens-deserve-access-safe-ai/>)
@@ -82,10 +86,6 @@ Switch cards to hide Media
 ![Abstract teal and blue gradient artwork with soft flowing shapes and a luminous, cloud-like texture.](https://images.ctfassets.net/kftzwdyauwt9/6gugGfSiM1oO6UHxxwnqTk/c7173a5a2c096a8f8a24c258ddfa22dd/ArtCard-TechnicalFoundations.png?w=3840&q=90&fm=webp)
 
 [A shared playbook for trustworthy third party evaluationsSafetyMay 29, 2026](</index/trustworthy-third-party-evaluations-foundations/>)
-
-![Frontier Governance Framework > card image ](https://images.ctfassets.net/kftzwdyauwt9/2KoiHuErR5YxXGUnhCU8VY/e392c6249ec4644e07e944edea22e837/Frame2.png?w=3840&q=90&fm=webp)
-
-[OpenAI’s Frontier Governance FrameworkSafetyMay 28, 2026](</index/openai-frontier-governance-framework/>)
 
 Load more
 

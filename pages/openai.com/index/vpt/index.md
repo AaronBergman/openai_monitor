@@ -26,16 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-VPT zero-shot results
-
-  * VPT zero-shot results
-  * Fine-tuning with behavioral cloning
-  * Data scaling
-  * Fine-tuning with reinforcement learning
-  * Conclusion
-
-
-
 June 23, 2022
 
 [Conclusion](</research/index/conclusion/>)
@@ -51,6 +41,24 @@ June 23, 2022
 Loading…
 
 Share
+
+VPT zero-shot results
+
+  * VPT zero-shot results
+  * Fine-tuning with behavioral cloning
+  * Data scaling
+  * Fine-tuning with reinforcement learning
+  * Conclusion
+
+
+
+  * VPT zero-shot results
+  * Fine-tuning with behavioral cloning
+  * Data scaling
+  * Fine-tuning with reinforcement learning
+  * Conclusion
+
+
 
 We trained a neural network to play Minecraft by Video PreTraining (VPT) on a massive unlabeled video dataset of human Minecraft play, while using only a small amount of labeled contractor data. With fine-tuning, our model can learn to craft diamond tools, a task that usually takes proficient humans over 20 minutes (24,000 actions). Our model uses the native human interface of keypresses and mouse movements, making it quite general, and represents a step towards general computer-using agents.
 
@@ -153,9 +161,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -192,6 +200,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -225,6 +235,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

@@ -47,6 +47,7 @@ OpenAI
   * [Ad Tools data processing addendum](</policies/ad-tools-dpa/>): Addendum that governs the processing of personal data through certain Ad Tools.
   * [Conversion Terms](</policies/conversion-terms/>): Terms that govern use of OpenAI's Conversion Tools.
   * [Merchant Feed Terms](</policies/merchant-feed-terms-of-service/>): Terms that govern use of merchant product and services feeds in connection with OpenAI Services.
+  * [Ad Credit Terms](</policies/ad-credit-terms/>): Terms that govern Ad Credits.
 
 
 
@@ -79,9 +80,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -118,6 +119,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -151,6 +154,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

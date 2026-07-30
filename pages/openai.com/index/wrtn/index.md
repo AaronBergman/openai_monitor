@@ -41,24 +41,16 @@ Share
 Expanding AI into everyday life
 
   * Expanding AI into everyday life
-
   * Cracking nuanced localization for Korea
-
   * Building AI products that scale with every release
-
   * Making AI personalized for creativity and learning
-
 
 
 
   * Expanding AI into everyday life
-
   * Cracking nuanced localization for Korea
-
   * Building AI products that scale with every release
-
   * Making AI personalized for creativity and learning
-
 
 
 
@@ -112,17 +104,17 @@ Each new OpenAI release pushes that mission forward. Wrtn builds systems that ke
 
 ## Keep reading
 
-![Why teens deserve access to safe AI — card image](https://images.ctfassets.net/kftzwdyauwt9/qMYBYjbkSSEYQbsQyyfRQ/d9fe2585ed8bbf73ffee5d6ed8bcc39e/why-teens-card.jpg?w=3840&q=90&fm=webp)
+![ARC-AGI-3 art-card 1x1](https://images.ctfassets.net/kftzwdyauwt9/71xyJRWnTkM6EW1JKDUc59/91d2690ff9e7abaa975b4a5f64089056/ARC-AGI-3_art-card_1x1.png?w=3840&q=90&fm=webp)
 
-[Why teens deserve access to safe AISafetyJul 16, 2026](</index/why-teens-deserve-access-safe-ai/>)
+[How enabling two settings tripled our scores on the ARC-AGI-3 benchmarkResearchJul 29, 2026](</index/how-two-settings-tripled-our-arc-agi-3-scores/>)
 
-![Cars24 — square customer story artwork](https://images.ctfassets.net/kftzwdyauwt9/2w9KeAF3eUGeTYbhIad57r/60d837660f6c59bdf46f82c28073469d/cars24-square.png?w=3840&q=90&fm=webp)
+![oai Science Academic Research Academic Research 1x1](https://images.ctfassets.net/kftzwdyauwt9/59kTmFmujYzNh0VgSvCgwe/e9334dd9944b5309f8ca2d44fdc71b6f/academic-research-card.png?w=3840&q=90&fm=webp)
 
-[How Cars24 scales conversations and builds faster with OpenAIJul 16, 2026](</index/cars24/>)
+[Accelerating scientific discovery with ChatGPT for Academic ResearchersCompanyJul 29, 2026](</index/chatgpt-for-academic-researchers/>)
 
-![Helping build shared standards for advanced AI - card image](https://images.ctfassets.net/kftzwdyauwt9/5bSU7ItzcBWGtWhApmmJ6X/a818a91ef36b39ed07d62566ec318760/Frame2.png?w=3840&q=90&fm=webp)
+![GPT-5.6 efficiency article — art card](https://images.ctfassets.net/kftzwdyauwt9/5ExPWhZDZXbZgTHE7aeE5d/0526071f749a3b44adff3c45a12322b7/How_GPT-5.6_fuses_frontier_intelligence_with_frontier_efficiency_ART_CARD__1_.png?w=3840&q=90&fm=webp)
 
-[The US is advancing AI safety through state and federal actionGlobal AffairsJul 15, 2026](</index/advancing-ai-safety-through-state-and-federal-action/>)
+[How GPT-5.6 fuses frontier intelligence with frontier efficiencyEngineeringJul 29, 2026](</index/gpt-5-6-frontier-intelligence-efficiency/>)
 
 Research
 

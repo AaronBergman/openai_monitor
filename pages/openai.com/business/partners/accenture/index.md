@@ -1,28 +1,28 @@
 Skip to main content
 
-[](</>)
+[](</>)[](</business/>)
 
-  * [Research](</research/index/>)
+  * Why OpenAI
   * Products
-  * [Business](</business/>)
-  * [Developers](</api/>)
-  * [Company](</about/>)
-  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
+  * Solutions
+  * Resources
+  * [Customers](</business/customer-stories/>)
+  * [Pricing](</business/pricing/>)
 
 
 
-Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
+Try OpenAI[Contact sales](</contact-sales/>)
 
-  * Research
+  * Why OpenAI
   * Products
-  * Business
-  * Developers
-  * Company
-  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
+  * Solutions
+  * Resources
+  * [Customers](</business/customer-stories/>)
+  * [Pricing](</business/pricing/>)
 
 
 
-[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)Login
+[Contact sales](</contact-sales/>)Try OpenAI
 
 OpenAI
 
@@ -34,9 +34,11 @@ OpenAI
 
 [Visit website(opens in a new window)](<https://www.accenture.com/>)
 
+## About
+
 Accenture helps the world’s leading enterprises reinvent by building their digital core and unleashing the power of AI to create value at speed across industries. We bring together the talent of approximately 799,000 people with proprietary assets and platforms, deep process and industry expertise, and leading ecosystem relationships to deliver end-to-end solutions and measurable outcomes at scale. Through our Reinvention Services, we offer broad expertise across Cybersecurity, Digital Core, Finance, Industry and Enterprise, Song, Supply Chain and Engineering, and Talent, with advanced capabilities in AI and Data, Industry and Process, and Technology across 19 industries.
 
-![Elite Partner](/images/partner-tier-badges/OAI_PartnerNetwork_ElitePartner.svg?dpl=dpl_CHFh1LwCXgnCNQCTTGqsqt4uVcyv)
+![Elite Partner](/images/partner-tier-badges/OAI_PartnerNetwork_ElitePartner.svg?dpl=dpl_DCAfe3qYYShYK7n4R4BuT5EfGUDo)
 
 Countries served
     Global

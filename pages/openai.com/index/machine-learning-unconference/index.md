@@ -43,28 +43,18 @@ Share
 Why have an unconference on machine learning?
 
   * Why have an unconference on machine learning?
-
   * Agenda
-
   * Who should come?
-
   * Logistics
-
   * Attendees
-
 
 
 
   * Why have an unconference on machine learning?
-
   * Agenda
-
   * Who should come?
-
   * Logistics
-
   * Attendees
-
 
 
 

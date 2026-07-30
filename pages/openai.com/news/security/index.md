@@ -51,13 +51,17 @@ Switch cards to show Media
 
 Switch cards to hide Media
 
-![Expanding Daybreak Art Card](https://images.ctfassets.net/kftzwdyauwt9/735NOZviyogUBIFxd2EmWX/fa8baf9fc26e64f442ffa86d5fd9a41e/Art_Card__6_.png?w=3840&q=90&fm=webp)
+![Hugging Face Security Incident 1x1](https://images.ctfassets.net/kftzwdyauwt9/1H0bdkoSFFcqNTx4DSNpal/56f4b7575c012f0698b1be0dafb379f0/Hugging_Face_Security_Incident_1x1.png?w=3840&q=90&fm=webp)
 
-[Daybreak: Tools for securing every organization in the worldSecurityJun 22, 2026](</index/daybreak-securing-the-world/>)
+[OpenAI and Hugging Face address security incidentSecurityJul 21, 2026](</index/hugging-face-model-evaluation-security-incident/>)
 
 ![Patch the Planet Art Card 1x1](https://images.ctfassets.net/kftzwdyauwt9/2PwBCyZF0Z5WLRtsbOpDdQ/338e19fbc39e5b9a63b1db664c006e74/Art_Card__5_.png?w=3840&q=90&fm=webp)
 
 [Patch the Planet: a Daybreak initiative to support open source maintainersSecurityJun 22, 2026](</index/patch-the-planet/>)
+
+![Expanding Daybreak Art Card](https://images.ctfassets.net/kftzwdyauwt9/735NOZviyogUBIFxd2EmWX/fa8baf9fc26e64f442ffa86d5fd9a41e/Art_Card__6_.png?w=3840&q=90&fm=webp)
+
+[Daybreak: Tools for securing every organization in the worldSecurityJun 22, 2026](</index/daybreak-securing-the-world/>)
 
 ![codex windows > art card](https://images.ctfassets.net/kftzwdyauwt9/6ZvTl8ZL23BOhoI6jz0EmR/49d6038b9f92773d4f866f4bfacabdbf/Art_Card__5_.png?w=3840&q=90&fm=webp)
 
@@ -82,10 +86,6 @@ Switch cards to hide Media
 ![Introducing OpenAI Privacy Filter](https://images.ctfassets.net/kftzwdyauwt9/1QC19b0SnrQJTDqGRfze1s/e1eb7f76da62522b1bd0c9a6f553833d/ArtCard-Introducing-OpenAI-Filter.png?w=3840&q=90&fm=webp)
 
 [Introducing OpenAI Privacy FilterResearchApr 22, 2026](</index/introducing-openai-privacy-filter/>)
-
-![accelerating-cyber-defense-ecosystem-1x1](https://images.ctfassets.net/kftzwdyauwt9/1TzwLMgMx0r6t1GQsFAiHH/ff5d38b5bc11d22a2442bb0f151ee83f/accelerating-cyber-defense-ecosystem-1x1.png?w=3840&q=90&fm=webp)
-
-[Accelerating the cyber defense ecosystem that protects us allSecurityApr 16, 2026](</index/accelerating-cyber-defense-ecosystem/>)
 
 Load more
 

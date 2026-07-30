@@ -53,6 +53,14 @@ Switch cards to show Media
 
 Switch cards to hide Media
 
+![effingham county 1x1](https://images.ctfassets.net/kftzwdyauwt9/3f1fyaaSZELql3zECUImW3/1733a5ee7f07da894b993dcff75bea66/effingham_county_1x1.png?w=3840&q=90&fm=webp)
+
+[Building AI infrastructure with the Effingham County communityGlobal AffairsJul 22, 2026](</index/building-ai-infrastructure-with-the-effingham-county-community/>)
+
+![Advancing the next era of national science card image](https://images.ctfassets.net/kftzwdyauwt9/1aUcaaPHlPQbaN0EzEUrEc/95d5f6d78ab308305bf4781c07ccc4fd/Advancing_the_next_era_of_national_science_1x1.png?w=3840&q=90&fm=webp)
+
+[Advancing the next era of national scienceGlobal AffairsJul 22, 2026](</index/advancing-the-next-era-of-national-science/>)
+
 ![Helping build shared standards for advanced AI - card image](https://images.ctfassets.net/kftzwdyauwt9/5bSU7ItzcBWGtWhApmmJ6X/a818a91ef36b39ed07d62566ec318760/Frame2.png?w=3840&q=90&fm=webp)
 
 [The US is advancing AI safety through state and federal actionGlobal AffairsJul 15, 2026](</index/advancing-ai-safety-through-state-and-federal-action/>)
@@ -80,16 +88,6 @@ Switch cards to hide Media
 ![Supporting Europe’s work in ensuring a trustworthy AI ecosystem  > art card](https://images.ctfassets.net/kftzwdyauwt9/U3OuQtdga2BaxWxb0e2ge/2fdc2fb1cf5c70a8f77fc4b55236aa78/Frame2.png?w=3840&q=90&fm=webp)
 
 [Supporting Europe’s work in ensuring a trustworthy AI ecosystem Global AffairsJun 11, 2026](</index/supporting-eu-trustworthy-ai-ecosystem/>)
-
-![PRC-linked influence > Art Card](https://images.ctfassets.net/kftzwdyauwt9/2WkDQ2w51892xwY7QHwkRC/ec5f7b504805e36db928c06cb313f53c/Threat-Intelligence-Repart-ArtCard.png?w=3840&q=90&fm=webp)
-
-[PRC-linked influence operations are targeting AI debates in the USGlobal AffairsJun 10, 2026](</index/prc-linked-influence-operations-ai-debates/>)
-
-![Frame](https://images.ctfassets.net/kftzwdyauwt9/5PD5E0PhvNP8ogbhvNxdKF/42a592f5b93580d940065610304c3f22/Frame.png?w=3840&q=90&fm=webp)
-
-Industrial policy for the Intelligence Age
-
-[Industrial policy for the Intelligence AgeGlobal AffairsJun 9, 2026](</index/industrial-policy-for-the-intelligence-age/>)
 
 Load more
 

@@ -173,17 +173,17 @@ More than 1 million businesses around the world are achieving meaningful results
 
 ## Keep reading
 
-![How AI is expanding what we do at work > Cover image](https://images.ctfassets.net/kftzwdyauwt9/71jqBtMoMmnYCEyisAnZ0K/06d8fd5ae403146245901145f9d6f703/Art_Card__4_.png?w=3840&q=90&fm=webp)
+![ARC-AGI-3 art-card 1x1](https://images.ctfassets.net/kftzwdyauwt9/71xyJRWnTkM6EW1JKDUc59/91d2690ff9e7abaa975b4a5f64089056/ARC-AGI-3_art-card_1x1.png?w=3840&q=90&fm=webp)
 
-[How AI is expanding what people do at workCompanyJul 27, 2026](</index/how-ai-is-expanding-what-people-do-at-work/>)
+[How enabling two settings tripled our scores on the ARC-AGI-3 benchmarkResearchJul 29, 2026](</index/how-two-settings-tripled-our-arc-agi-3-scores/>)
 
-![Health in ChatGPT > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/48aIp3cQOKJ57vpQeqOb8y/2e8732bcad5ceea1c7b20cf001bd2823/1_1_Art_Card.png?w=3840&q=90&fm=webp)
+![oai Science Academic Research Academic Research 1x1](https://images.ctfassets.net/kftzwdyauwt9/59kTmFmujYzNh0VgSvCgwe/e9334dd9944b5309f8ca2d44fdc71b6f/academic-research-card.png?w=3840&q=90&fm=webp)
 
-[Launching Health in ChatGPT ProductJul 23, 2026](</index/health-in-chatgpt/>)
+[Accelerating scientific discovery with ChatGPT for Academic ResearchersCompanyJul 29, 2026](</index/chatgpt-for-academic-researchers/>)
 
-![effingham county 1x1](https://images.ctfassets.net/kftzwdyauwt9/3f1fyaaSZELql3zECUImW3/1733a5ee7f07da894b993dcff75bea66/effingham_county_1x1.png?w=3840&q=90&fm=webp)
+![GPT-5.6 efficiency article — art card](https://images.ctfassets.net/kftzwdyauwt9/5ExPWhZDZXbZgTHE7aeE5d/0526071f749a3b44adff3c45a12322b7/How_GPT-5.6_fuses_frontier_intelligence_with_frontier_efficiency_ART_CARD__1_.png?w=3840&q=90&fm=webp)
 
-[Building AI infrastructure with the Effingham County communityGlobal AffairsJul 22, 2026](</index/building-ai-infrastructure-with-the-effingham-county-community/>)
+[How GPT-5.6 fuses frontier intelligence with frontier efficiencyEngineeringJul 29, 2026](</index/gpt-5-6-frontier-intelligence-efficiency/>)
 
 Research
 

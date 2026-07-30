@@ -26,16 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Overview of our model deployment approach
-
-  * Overview of our model deployment approach
-  * The many shapes and sizes of language model misuse
-  * The difficulty of risk and impact measurement
-  * The relationship between the safety and utility of AI systems
-  * Ways to get involved
-
-
-
 March 3, 2022
 
 [Conclusion](</research/index/conclusion/>)
@@ -53,6 +43,24 @@ Illustration: Justin Jay Wang
 Loading…
 
 Share
+
+Overview of our model deployment approach
+
+  * Overview of our model deployment approach
+  * The many shapes and sizes of language model misuse
+  * The difficulty of risk and impact measurement
+  * The relationship between the safety and utility of AI systems
+  * Ways to get involved
+
+
+
+  * Overview of our model deployment approach
+  * The many shapes and sizes of language model misuse
+  * The difficulty of risk and impact measurement
+  * The relationship between the safety and utility of AI systems
+  * Ways to get involved
+
+
 
 ## Summary
 
@@ -224,9 +232,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -263,6 +271,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -296,6 +306,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

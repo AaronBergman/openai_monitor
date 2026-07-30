@@ -26,14 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Sim-to-real transfer
-
-  * Sim-to-real transfer
-  * Our implementation
-  * Future work
-
-
-
 April 1, 2017
 
 [Conclusion](</research/index/conclusion/>)
@@ -47,6 +39,20 @@ We’ve created the world’s first Spam-detecting AI trained entirely in simula
 Loading…
 
 Share
+
+Sim-to-real transfer
+
+  * Sim-to-real transfer
+  * Our implementation
+  * Future work
+
+
+
+  * Sim-to-real transfer
+  * Our implementation
+  * Future work
+
+
 
 ![Video recording still of a robotic arm picking up a mixture of items on a small square table](https://images.ctfassets.net/kftzwdyauwt9/b61dd248-b0d5-4831-adf1bacb244a/0089f28a12c4ff9c3ea95d6351cc07e4/fetch_spam_wide_shot5.gif?w=3840&q=90&fm=webp)
 
@@ -109,9 +115,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -148,6 +154,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -181,6 +189,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

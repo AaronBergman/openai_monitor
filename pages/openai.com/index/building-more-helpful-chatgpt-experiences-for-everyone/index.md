@@ -26,14 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Partnering with experts
-
-  * Partnering with experts
-  * Leveraging reasoning models for sensitive moments
-  * Strengthening protections for teens
-
-
-
 September 2, 2025
 
 [Safety](</news/safety-alignment/>)[Product](</news/product-releases/>)
@@ -45,6 +37,20 @@ Routing sensitive conversations to reasoning models and rolling out Parental Con
 Loading…
 
 Share
+
+Partnering with experts
+
+  * Partnering with experts
+  * Leveraging reasoning models for sensitive moments
+  * Strengthening protections for teens
+
+
+
+  * Partnering with experts
+  * Leveraging reasoning models for sensitive moments
+  * Strengthening protections for teens
+
+
 
 Our work to make ChatGPT as helpful as possible is constant and ongoing. We’ve seen people turn to it in the [most difficult of moments](</index/helping-people-when-they-need-it-most/>). That’s why we continue to improve how our models recognize and respond to signs of mental and emotional distress, guided by expert input. 
 
@@ -120,19 +126,17 @@ OpenAI
 
 [View all](</news/>)
 
-![Art Card 1080x1080 \(3\)](https://images.ctfassets.net/kftzwdyauwt9/3JLNH7ejJFnxLmX2LpzoKD/19f9e3c4d36cc9d677ba88e842ad2db2/Art_Card_1080x1080__4_.png?w=3840&q=90&fm=webp)
+![Health in ChatGPT > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/48aIp3cQOKJ57vpQeqOb8y/2e8732bcad5ceea1c7b20cf001bd2823/1_1_Art_Card.png?w=3840&q=90&fm=webp)
 
-Better memory for a more helpful ChatGPT
+[Launching Health in ChatGPT ProductJul 23, 2026](</index/health-in-chatgpt/>)
 
-[Dreaming: Better memory for a more helpful ChatGPTResearchJun 4, 2026](</index/chatgpt-memory-dreaming/>)
+![OpenAI Presence 1x1](https://images.ctfassets.net/kftzwdyauwt9/5JBDenSGI6wx5CMPPlaM5J/da9d8e27a0bd70d845a816b28ac641a9/OpenAI_Presence_1x1.png?w=3840&q=90&fm=webp)
 
-![Rosalind5.5 ArtCard](https://images.ctfassets.net/kftzwdyauwt9/6USIQM1B7TggUvvTFxxwoi/0176ac6633c8bdc24641d25d1d2db824/GPT-Rosalind_ArtCard.png?w=3840&q=90&fm=webp)
+[Introducing OpenAI PresenceProductJul 22, 2026](</index/introducing-openai-presence/>)
 
-[Introducing new capabilities to GPT-RosalindProductJun 3, 2026](</index/introducing-new-capabilities-to-gpt-rosalind/>)
+![PIA safety > Cover image](https://images.ctfassets.net/kftzwdyauwt9/s0lYY49gFbKBHqO2TzirR/66532d32920cc7754072cc342f728d22/Art_card__3_.png?w=3840&q=90&fm=webp)
 
-![1 1 Art Card](https://images.ctfassets.net/kftzwdyauwt9/4xugzd9dTDMUzIUmuamtO3/1f40af4e50ab8b2bdd64d5b491964961/1_1_Art_Card.png?w=3840&q=90&fm=webp)
-
-[Codex for every role, tool, and workflowProductJun 2, 2026](</index/codex-for-every-role-tool-workflow/>)
+[Safety and alignment in an era of long-horizon modelsSafetyJul 20, 2026](</index/safety-alignment-long-horizon-models/>)
 
 Research
 
@@ -144,9 +148,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -183,6 +187,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -216,6 +222,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

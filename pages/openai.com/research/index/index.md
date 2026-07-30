@@ -48,6 +48,42 @@ Switch cards to hide Media
 
 Research
 
+Jul 29, 2026
+
+[How enabling two settings tripled our scores on the ARC-AGI-3 benchmarkHow two API settings improved GPT-5.6 performance on ARC-AGI-3, boosting scores and efficiency by retaining reasoning and enabling compaction.](</index/how-two-settings-tripled-our-arc-agi-3-scores/>)
+
+Company
+
+Jul 29, 2026
+
+[Accelerating scientific discovery with ChatGPT for Academic ResearchersOpenAI is giving 100,000 academic researchers free access to ChatGPT's most advanced AI models to accelerate scientific research, collaboration, and discovery.](</index/chatgpt-for-academic-researchers/>)
+
+Publication
+
+Jul 28, 2026
+
+[Scientific computing in the age of agentic AIA new field report shows how scientists use AI coding agents to modernize scientific computing, accelerating software development and discovery in genomics and beyond.](</index/scientific-computing-agentic-ai/>)
+
+Safety
+
+Jul 15, 2026
+
+[GPT-Red: Unlocking Self-Improvement for RobustnessExplore GPT-Red, OpenAI’s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness.](</index/unlocking-self-improvement-gpt-red/>)
+
+Product
+
+Jul 9, 2026
+
+[GPT-5.6: Frontier intelligence that scales with your ambitionMore intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.](</index/gpt-5-6/>)
+
+Safety
+
+Jul 9, 2026
+
+[GPT‑5.6 System CardGPT-5.6 is a new family of three models: Sol, our new flagship model; Terra, a capable lower-cost option; and Luna, our fastest and most cost-efficient model. The safeguards we have built for this launch—our most robust yet—are built to deliver these models safely and at scale, around the world.(opens in a new window)](<https://deploymentsafety.openai.com/gpt-5-6>)
+
+Research
+
 Jul 8, 2026
 
 [Separating signal from noise in coding evaluationsA new analysis from OpenAI reveals issues in SWE-Bench Pro, a popular coding benchmark, raising concerns about reliability and accuracy in evaluating AI models.](</index/separating-signal-from-noise-coding-evaluations/>)
@@ -64,42 +100,6 @@ Jul 8, 2026
 
 [GPT‑Live System CardGPT-Live-1 and GPT-Live-1 mini are a new generation of voice models designed to make conversations with AI feel more natural and intelligent.(opens in a new window)](<https://deploymentsafety.openai.com/gpt-live>)
 
-Research
-
-Jun 30, 2026
-
-[Introducing GeneBench-ProIntroducing GeneBench-Pro, a new benchmark testing AI performance in genomics, biology, and scientific research using complex, real-world datasets.](</index/introducing-genebench-pro/>)
-
-Product
-
-Jun 26, 2026
-
-[Previewing GPT-5.6 Sol: a next-generation modelOpenAI previews GPT-5.6 Sol, a next-generation model with stronger capabilities in coding, science, and cybersecurity, paired with its most advanced safety stack.](</index/previewing-gpt-5-6-sol/>)
-
-Safety
-
-Jun 26, 2026
-
-[GPT‑5.6 Preview System CardGPT-5.6 is a new family of three models: Sol, our new flagship model; Terra, a capable lower-cost option; and Luna, our fastest and most cost-efficient model. The safeguards we have built for this launch – our most robust yet – are built to deliver these models safely and at scale, around the world.(opens in a new window)](<https://deploymentsafety.openai.com/gpt-5-6-preview>)
-
-Research
-
-Jun 17, 2026
-
-[A near-autonomous AI chemist improves a challenging reaction in medicinal chemistryOpenAI and Molecule.one show how a near-autonomous AI chemist using GPT-5.4 improved a key drug-making reaction, advancing medicinal chemistry research.](</index/ai-chemist-improves-reaction/>)
-
-Research
-
-Jun 17, 2026
-
-[Introducing LifeSciBenchIntroducing LifeSciBench, an expert-authored, expert-reviewed benchmark for evaluating how AI systems handle real-world life science research tasks and decisions.](</index/introducing-life-sci-bench/>)
-
-Research
-
-Jun 4, 2026
-
-[Dreaming: Better memory for a more helpful ChatGPTChatGPT introduces a new memory system to better remember preferences, keeping context fresh and relevant across conversations.](</index/chatgpt-memory-dreaming/>)
-
 Load more
 
 Research
@@ -112,9 +112,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -186,6 +186,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

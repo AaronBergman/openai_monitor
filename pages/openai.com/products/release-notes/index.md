@@ -43,6 +43,36 @@ Sort
 
 ChatGPT
 
+Jul 29, 2026
+
+GA
+
+## ChatGPT for Academic Researchers
+
+Research rarely happens alone. ChatGPT for Academic Researchers gives faculty and postdoctoral researchers the ability to apply for 12 months of complimentary access to a dedicated ChatGPT workspace for a small, verified team. Each workspace supports up to five members and includes business data protections and ChatGPT Pro-level usage limits, helping researchers collaborate while keeping team research in its own workspace.
+
+To apply, researchers sign in with an institutional email, verify their affiliation through SheerID, and share a qualifying paper and a short description of their intended research use. Approved applicants complete a $0 checkout with a valid card, create the workspace, and can invite up to four verified collaborators from the same institution. Researchers at existing ChatGPT Edu institutions can still apply, but when approved, follow an institution-managed Edu route instead.
+
+The program covers ChatGPT access, not API credits.
+
+[View source(opens in a new window)](<https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-for-academic-researchers>)[Help center(opens in a new window)](<https://help.openai.com/en/articles/20001406>)
+
+API
+
+Jul 28, 2026
+
+GA
+
+## GPT Transcribe and GPT Live Transcribe
+
+Released GPT Transcribe for accurate file transcription and final transcripts of committed Realtime turns, along with GPT Live Transcribe for low-latency streaming transcription.
+
+Both models support free-form transcription context, keyword hints, and multiple expected input languages.
+
+[View source(opens in a new window)](<https://developers.openai.com/api/docs/models/gpt-transcribe>)[Platform docs(opens in a new window)](<https://developers.openai.com/api/docs/models/gpt-live-transcribe>)[Platform docs(opens in a new window)](<https://developers.openai.com/api/docs/guides/transcription>)
+
+ChatGPT
+
 Jul 23, 2026
 
 GA
@@ -112,47 +142,6 @@ GA
 
 
 [View source(opens in a new window)](<https://developers.openai.com/codex/changelog#codex-2026-07-20-mobile>)
-
-ChatGPT
-
-Jul 16, 2026
-
-GA
-
-## ChatGPT desktop app experience updates
-
-We’ve updated the ChatGPT desktop app to make it easier to choose between Chat and Work, find your conversations and Projects, and continue Work across devices. These updates are now live for all plans on macOS and Windows.
-
-### macOS and Windows
-
-  * A clearer desktop layout: A global switcher lets you choose between ChatGPT and Codex. In ChatGPT, choose Chat for quick questions and conversational help, or Work to complete tasks end to end.
-
-  * Unified Recents: Chat and Work conversations now appear together in Recents, where you can sort, filter, and pin them.
-
-  * Projects in the desktop app: Your existing ChatGPT Projects now appear in the app. You can start a Chat conversation inside a Project or begin a Work thread using Project context.
-
-  * Continue Work across devices: Cloud Work conversations now sync across web, mobile, and desktop, so you can start on one surface and continue on another. Local conversations stay on your computer.
-
-  * Codex remains unchanged: As part of this update, Codex remains a separate view, and its workflows and history are unchanged. Quick Chats remain available for fast conversations.
-
-  * No changes to workspace controls: Existing workspace access permissions, security settings, governance, and spend controls are unchanged.
-
-
-
-
-[View source(opens in a new window)](<https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-desktop-app-experience-updates>)[Help center(opens in a new window)](<https://help.openai.com/en/articles/11391654-chatgpt-business-release-notes#chatgpt-desktop-app-experience-updates>)[Help center(opens in a new window)](<https://help.openai.com/en/articles/10128477-chatgpt-enterprise-edu-release-notes#chatgpt-desktop-app-experience-updates>)
-
-ChatGPT
-
-Jul 15, 2026
-
-GA
-
-## Increased custom instructions limit in ChatGPT
-
-We’re increasing the character limit for custom instructions in ChatGPT. Plus, Pro, Enterprise, Business, and Education users can now save up to 5,000 characters, up from 1,500, giving them more room to customize ChatGPT’s response style and behavior.
-
-[View source(opens in a new window)](<https://help.openai.com/en/articles/6825453-chatgpt-release-notes#increased-custom-instructions-limit>)
 
 Load more
 

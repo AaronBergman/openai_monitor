@@ -34,9 +34,11 @@ OpenAI
 
 [Visit website(opens in a new window)](<https://www.artefact.com/>)
 
+## About
+
 Artefact is a global data and AI consulting and engineering firm, headquartered in Paris and one of Europe's leading AI-native consultancies, present in 27 countries with 2,500 employees. AI is about people: tools alone create no value, and real impact comes from reshaping core processes and reinventing how people work. We accelerate AI adoption from strategy to production, end-to-end across the enterprise value chain, turning generative and agentic AI, on solid data foundations, into new operating models deployed at scale. We partner with 1,000+ clients, including some of the world's top 300 brands.
 
-![Advanced Partner](/images/partner-tier-badges/OAI_PartnerNetwork_AdvancedPartner.svg?dpl=dpl_Bt2QvgNvrDjuduwqx5NPqQxCos4N)
+![Advanced Partner](/images/partner-tier-badges/OAI_PartnerNetwork_AdvancedPartner.svg?dpl=dpl_DCAfe3qYYShYK7n4R4BuT5EfGUDo)
 
 Countries served
     Global
@@ -128,6 +130,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

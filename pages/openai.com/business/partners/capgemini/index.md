@@ -1,28 +1,28 @@
 Skip to main content
 
-[](</>)
+[](</>)[](</business/>)
 
-  * [Research](</research/index/>)
+  * Why OpenAI
   * Products
-  * [Business](</business/>)
-  * [Developers](</api/>)
-  * [Company](</about/>)
-  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
+  * Solutions
+  * Resources
+  * [Customers](</business/customer-stories/>)
+  * [Pricing](</business/pricing/>)
 
 
 
-Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
+Try OpenAI[Contact sales](</contact-sales/>)
 
-  * Research
+  * Why OpenAI
   * Products
-  * Business
-  * Developers
-  * Company
-  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
+  * Solutions
+  * Resources
+  * [Customers](</business/customer-stories/>)
+  * [Pricing](</business/pricing/>)
 
 
 
-[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)Login
+[Contact sales](</contact-sales/>)Try OpenAI
 
 OpenAI
 
@@ -34,9 +34,11 @@ OpenAI
 
 [Visit website(opens in a new window)](<https://www.capgemini.com/>)
 
+## About
+
 Capgemini is an AI-powered global business and technology transformation partner, delivering tangible business value. We imagine the future of organizations and make it real with AI, technology and people. With our strong heritage of nearly 60 years, we are a responsible and diverse group of over 420,000 team members in more than 50 countries. We deliver end-to-end services and solutions with our deep industry expertise and strong partner ecosystem, leveraging our capabilities across strategy, technology, design, engineering and business operations. The Group reported 2025 global revenues of €22.5 billion. Make it real.
 
-![Elite Partner](/images/partner-tier-badges/OAI_PartnerNetwork_ElitePartner.svg?dpl=dpl_Bt2QvgNvrDjuduwqx5NPqQxCos4N)
+![Elite Partner](/images/partner-tier-badges/OAI_PartnerNetwork_ElitePartner.svg?dpl=dpl_DCAfe3qYYShYK7n4R4BuT5EfGUDo)
 
 Countries served
     Global
@@ -131,6 +133,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

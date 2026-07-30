@@ -26,15 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Improving Legibility Through Optimization
-
-  * Improving Legibility Through Optimization
-  * How It Works
-  * Key Findings
-  * Conclusion
-
-
-
 July 17, 2024
 
 [Conclusion](</research/index/conclusion/>)
@@ -50,6 +41,22 @@ We trained strong language models to produce text that is easy for weak language
 Loading…
 
 Share
+
+Improving Legibility Through Optimization
+
+  * Improving Legibility Through Optimization
+  * How It Works
+  * Key Findings
+  * Conclusion
+
+
+
+  * Improving Legibility Through Optimization
+  * How It Works
+  * Key Findings
+  * Conclusion
+
+
 
 Making sure that language models produce understandable text is crucial to making them helpful for people, especially when dealing with complex tasks like solving math problems. 
 
@@ -151,9 +158,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -190,6 +197,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -223,6 +232,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

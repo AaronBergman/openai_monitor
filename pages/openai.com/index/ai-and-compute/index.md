@@ -26,15 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Overview
-
-  * Overview
-  * Eras
-  * Looking forward
-  * Addendum: Compute used in older headline results
-
-
-
 May 16, 2018
 
 [Conclusion](</research/index/conclusion/>)
@@ -46,6 +37,26 @@ May 16, 2018
 Loading…
 
 Share
+
+AlexNet to AlphaGo Zero: 300,000x increase in compute
+
+  * AlexNet to AlphaGo Zero: 300,000x increase in compute
+  * Overview
+  * Eras
+  * Looking forward
+  * Addendum: Compute used in older headline results
+    * Two distinct eras of compute usage in training AI systems
+
+
+
+  * AlexNet to AlphaGo Zero: 300,000x increase in compute
+  * Overview
+  * Eras
+  * Looking forward
+  * Addendum: Compute used in older headline results
+    * Two distinct eras of compute usage in training AI systems
+
+
 
 We’re releasing an analysis showing that since 2012, the amount of compute used in the largest AI training runs has been increasing exponentially with a 3.4-month doubling time (by comparison, Moore’s Law had a 2-year doubling period). Since 2012, this metric has grown by more than 300,000x (a 2-year doubling period would yield only a 7x increase). Improvements in compute have been a key component of AI progress, so as long as this trend continues, it’s worth preparing for the implications of systems far outside today’s capabilities.
 
@@ -171,9 +182,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -210,6 +221,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -243,6 +256,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

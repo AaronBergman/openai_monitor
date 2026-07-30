@@ -77,11 +77,11 @@ Learning is one of the clearest ways teens benefit from AI, so we’re building 
 
 While teens can turn this mode on themselves, now parents with linked teen accounts can turn on [Study Mode⁠](<https://openai.com/index/chatgpt-study-mode/>) directly from [Parental Controls⁠](<https://openai.com/index/introducing-parental-controls/>). When enabled, it is on by default whenever a teen starts a new chat, giving families another way to guide how ChatGPT is used for schoolwork and study.
 
-![ChatGPT parental controls screen showing Study mode enabled for a teen account.](https://images.ctfassets.net/kftzwdyauwt9/2w0AWnPBgJBaHwYWNqyiyu/616b50dd45dd7bdb092b9c8f690287e4/why-teens-parental-study.png?w=3840&q=90&fm=webp)
+![ChatGPT parental controls screen showing Study mode enabled for a teen account.](https://images.ctfassets.net/kftzwdyauwt9/2w0AWnPBgJBaHwYWNqyiyu/60263a629242bdde3c722deeecaa2811/Break_Reminder_1920x1080.png?w=3840&q=90&fm=webp)
 
 We also recently introduced education-focused starter prompts for teens so it is easier to begin with tasks like breaking down a topic into simple steps, turning notes into a study guide, creating flashcards or practice questions, and checking evidence and clarity.
 
-![ChatGPT home screen showing education-focused starter prompts for teens.](https://images.ctfassets.net/kftzwdyauwt9/7d3I3oo7stKQAjm7pejgXa/ef3e337eeff8378b84d417cf85dbb9ef/why-teens-starter-prompts.png?w=3840&q=90&fm=webp)
+![ChatGPT home screen showing education-focused starter prompts for teens.](https://images.ctfassets.net/kftzwdyauwt9/7d3I3oo7stKQAjm7pejgXa/ff51baa2c23782c7056b874bc5c64cd9/Break_Reminder_1920x1080-2.png?w=3840&q=90&fm=webp)
 
 We’re continuing to expand [interactive learning experiences⁠](<https://openai.com/index/new-ways-to-learn-math-and-science-in-chatgpt/>) as well. [Research has consistently shown⁠](<https://openai.com/index/understanding-ai-and-learning-outcomes/?utm_source=chatgpt.com>) that people learn more effectively when they can actively engage with concepts rather than passively consume information. Since launching earlier this year, 18 million weekly users now engage with interactive math and science experiences in ChatGPT, and we’ve expanded those experiences to more than 300 topics total from integrals and mitosis to moon phases, photosynthesis and more. We also introduced a pronunciation experience that uses audio to help people learn how to pronounce words in more than 61 languages. 
 

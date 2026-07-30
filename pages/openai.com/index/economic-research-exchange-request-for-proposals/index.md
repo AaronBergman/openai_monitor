@@ -26,6 +26,16 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
+June 8, 2026
+
+# OpenAI Economic Research Exchange 
+
+Request for proposals
+
+[Submit a proposal](</form/economic-research-exchange/>)
+
+Share
+
 Research scope and key questions
 
   * Research scope and key questions
@@ -39,15 +49,16 @@ Research scope and key questions
 
 
 
-June 8, 2026
+  * Research scope and key questions
+  * Project timelines and portfolio approach
+  * Funding and research support structure
+  * Expectations and outputs
+  * How proposals will be evaluated
+  * Research independence and use of findings
+  * How to apply
+  * Timeline
 
-# OpenAI Economic Research Exchange 
 
-Request for proposals
-
-[Submit a proposal](</form/economic-research-exchange/>)
-
-Share
 
 OpenAI’s Economic Research team studies how AI is affecting workers, firms, institutions, and the broader economy. We do this by combining rigorous economic research with privacy-preserving analysis of product and usage data, customer and institutional partnerships, and collaboration with external researchers.
 
@@ -178,9 +189,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -217,6 +228,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -250,6 +263,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

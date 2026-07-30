@@ -26,24 +26,38 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Last updated: May 4, 2026
+Last updated: July 29, 2026
 
 # Transparency & content moderation
 
-ChatGPT search functionality
+How we monitor and enforce
 
+  * How we monitor and enforce
+  * Enforcement actions
+  * Appeals process
+  * Continuous improvement
+  * Explore feed prioritization
   * ChatGPT search functionality
+    * How search results are determined
+    * Safety standards
   * Shopping results in ChatGPT search
+    * How products are selected
   * UK Online Safety Act
   * Australia Online Safety Act
   * The Brazilian Digital Statute for Children and Adolescents
 
 
 
-Table of contents
-
+  * How we monitor and enforce
+  * Enforcement actions
+  * Appeals process
+  * Continuous improvement
+  * Explore feed prioritization
   * ChatGPT search functionality
+    * How search results are determined
+    * Safety standards
   * Shopping results in ChatGPT search
+    * How products are selected
   * UK Online Safety Act
   * Australia Online Safety Act
   * The Brazilian Digital Statute for Children and Adolescents
@@ -79,9 +93,13 @@ We consider factors like legal requirements, the severity of the violation, and 
 
 ### Appeals process
 
-If we take enforcement action based on your content or activity, we may notify you with details and reasons for our decision. If you think we have made a mistake, you can report to us or appeal by emailing [trustandsafety@openai.com⁠⁠](<mailto:trustandsafety@openai.com>) or [contacting Support⁠⁠(opens in a new window)](<https://help.openai.com/en/articles/6614161-how-can-i-contact-support>). We may reassess, considering any additional information you provide. If your appeal is successful, we will reverse the enforcement action.
+If we take enforcement action based on your content or activity, we may notify you with details and reasons for our decision. If you think we have made a mistake, you can appeal our decision via our [_appeals form_ ⁠](<https://openai.com/form/appeal/>). 
 
-Please note that misuse of the complaints process, such as submitting manifestly unfounded notices, may also result in action.
+If you are in the UK, Australia or Brazil, you may also submit appeals that relate to actions subject to regulations in your jurisdiction. Please see the relevant webpages linked below for details on how you can appeal such actions. 
+
+We may reassess, considering any additional information you provide. If your appeal is successful, we will reverse the enforcement action.
+
+Please note that misuse of the complaints process may also result in action.
 
 ### Continuous improvement
 
@@ -156,9 +174,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -195,6 +213,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -228,6 +248,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

@@ -30,6 +30,10 @@ OpenAI
 
 It’s the best time in history to be a builder. This year, we introduced the next generation of tools and models to help developers code faster, build agents more reliably, and scale their apps in ChatGPT. 
 
+  * [Learn about OpenAI DevDay 2026(opens in a new window)](<https://devday.openai.com>)
+
+
+
   * 4M
 
 developers have built with OpenAI

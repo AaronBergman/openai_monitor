@@ -54,6 +54,10 @@ Altimetrik
 
 ![Altimetrik logo](https://images.ctfassets.net/kftzwdyauwt9/xkjCRE7KNvx5nP80Td02A/45c914e53eed999001c3d9fc43da5c6a/altimetrik-square-light.svg?w=3840&q=90)
 
+Altudo
+
+![Altudo logo](https://images.ctfassets.net/kftzwdyauwt9/4BNDHqFBrw3KTgTGkuE3F8/014c0d3ab439e07cf1e2f11f142d5b9d/Altudo_square_light.svg?w=3840&q=90)
+
 Artefact
 
 ![Artefact logo](https://images.ctfassets.net/kftzwdyauwt9/3LFiPmNCK28yTAnSwD3dTj/5f3f1f6ce0ca77ae62e5e890eaa577cd/artefact-square-light.svg?w=3840&q=90)
@@ -90,9 +94,17 @@ Capgemini
 
 ![Capgemini logo](https://images.ctfassets.net/kftzwdyauwt9/4vR1Q4kfD1DSskol6Z1St2/50704efd170efcfe108d169a76c50e1d/capgemini-square-light.svg?w=3840&q=90)
 
+CDW
+
+![CDW logo](https://images.ctfassets.net/kftzwdyauwt9/37b3zodoczhm8WjBBRnnpe/d0c670fb24fe305ab3b812d282a131cb/CDW_square_light.svg?w=3840&q=90)
+
 CGI
 
 ![CGI logo](https://images.ctfassets.net/kftzwdyauwt9/4OyqFKpOMbw10mPHcLWFmn/0d4907540050fb709f8d5c364589d5a2/cgi-square-light.svg?w=3840&q=90)
+
+CHIEFTNS
+
+![CHIEFTNS logo](https://images.ctfassets.net/kftzwdyauwt9/63aR4cVzIG6TV4HOtNJAH0/2c401fe133d437b2b77a91251e4a959d/CHIEFTNS_square_light.svg?w=3840&q=90)
 
 Cloudwerx
 
@@ -205,6 +217,10 @@ Recursive
 Rosetree Solutions
 
 ![Rosetree Solutions logo](https://images.ctfassets.net/kftzwdyauwt9/4KshZ0a5mAJOQPJ5OJetL7/5238623d6456c63ebed4b67acb51604d/phia-select-44-squareLight.svg?w=3840&q=90)
+
+Samsung
+
+![Samsung SDS logo](https://images.ctfassets.net/kftzwdyauwt9/4l0rwkAOHIYWvBijJtyob4/37a124ce8e8faef91183e50b47a0f1c6/phia-samsung-sds-squareLight.svg?w=3840&q=90)
 
 SB OAI Japan GK
 
@@ -274,6 +290,10 @@ Altimetrik
 
 ![Altimetrik logo](https://images.ctfassets.net/kftzwdyauwt9/xkjCRE7KNvx5nP80Td02A/45c914e53eed999001c3d9fc43da5c6a/altimetrik-square-light.svg?w=3840&q=90)
 
+Altudo
+
+![Altudo logo](https://images.ctfassets.net/kftzwdyauwt9/4BNDHqFBrw3KTgTGkuE3F8/014c0d3ab439e07cf1e2f11f142d5b9d/Altudo_square_light.svg?w=3840&q=90)
+
 Artefact
 
 ![Artefact logo](https://images.ctfassets.net/kftzwdyauwt9/3LFiPmNCK28yTAnSwD3dTj/5f3f1f6ce0ca77ae62e5e890eaa577cd/artefact-square-light.svg?w=3840&q=90)
@@ -310,9 +330,17 @@ Capgemini
 
 ![Capgemini logo](https://images.ctfassets.net/kftzwdyauwt9/4vR1Q4kfD1DSskol6Z1St2/50704efd170efcfe108d169a76c50e1d/capgemini-square-light.svg?w=3840&q=90)
 
+CDW
+
+![CDW logo](https://images.ctfassets.net/kftzwdyauwt9/37b3zodoczhm8WjBBRnnpe/d0c670fb24fe305ab3b812d282a131cb/CDW_square_light.svg?w=3840&q=90)
+
 CGI
 
 ![CGI logo](https://images.ctfassets.net/kftzwdyauwt9/4OyqFKpOMbw10mPHcLWFmn/0d4907540050fb709f8d5c364589d5a2/cgi-square-light.svg?w=3840&q=90)
+
+CHIEFTNS
+
+![CHIEFTNS logo](https://images.ctfassets.net/kftzwdyauwt9/63aR4cVzIG6TV4HOtNJAH0/2c401fe133d437b2b77a91251e4a959d/CHIEFTNS_square_light.svg?w=3840&q=90)
 
 Cloudwerx
 
@@ -425,6 +453,10 @@ Recursive
 Rosetree Solutions
 
 ![Rosetree Solutions logo](https://images.ctfassets.net/kftzwdyauwt9/4KshZ0a5mAJOQPJ5OJetL7/5238623d6456c63ebed4b67acb51604d/phia-select-44-squareLight.svg?w=3840&q=90)
+
+Samsung
+
+![Samsung SDS logo](https://images.ctfassets.net/kftzwdyauwt9/4l0rwkAOHIYWvBijJtyob4/37a124ce8e8faef91183e50b47a0f1c6/phia-samsung-sds-squareLight.svg?w=3840&q=90)
 
 SB OAI Japan GK
 
@@ -536,7 +568,7 @@ Collaborate with OpenAI and access evolving resources that help you deliver cust
 
 ## Trusted by leading organizations
 
-1 of 7
+1 of 8
 
 > “Our collaboration with Accenture and OpenAI is helping us explore the next generation of AI-enabled customer experiences. Through our IntentCX work, we’re evaluating how real-time intent and sentiment intelligence can enable faster, more personalized, and more seamless interactions for customers.”
 
@@ -566,6 +598,10 @@ Rezaur Rahman, CIO / CISO / CAIO at the Advisory Council on Historic Preservatio
 
 Jonathan Wang, CTO, VanEck
 
+> “AI is radically transforming how people search for and book hotel stays, and we are committed to being at the forefront of this shift.With Accenture, we are reimagining hotel discovery for the next generation of travelers—meeting guests in the planning moment with a branded experience that makes it easier to find, compare, and book Radisson Hotels properties.”
+
+Gianni Di Fede, Chief Commercial Officer, Radisson Hotel Group
+
   * Accenture x T-Mobile
 
   * BCG x Agilent
@@ -580,6 +616,8 @@ Jonathan Wang, CTO, VanEck
 
   * Altimetrik x VanEck
 
+  * Accenture x Radisson
+
 
 
 
@@ -590,6 +628,7 @@ Jonathan Wang, CTO, VanEck
   * Eliza x Cengage
   * Snorkel x ACHP
   * Altimetrik x VanEck
+  * Accenture x Radisson
 
 
 

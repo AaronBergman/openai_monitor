@@ -34,11 +34,13 @@ OpenAI
 
 [Visit website(opens in a new window)](<https://kpmg.com/>)
 
+## About
+
 KPMG LLP is the U.S. firm of the KPMG global organization of independent professional services firms providing Audit, Tax and Advisory services. KPMG firms operate in 142 countries and territories with more than 276,000 partners and professionals worldwide. Each KPMG firm is a legally distinct and separate entity and describes itself as such.
 
 This combination of global reach and local presence enables KPMG firms to help clients address complex business challenges and evolving market conditions. By bringing together industry knowledge, technical experience, and a collaborative approach, KPMG professionals support organizations in navigating transformation, identifying opportunities for growth, and making informed business decisions.
 
-![Elite Partner](/images/partner-tier-badges/OAI_PartnerNetwork_ElitePartner.svg?dpl=dpl_ESxHN76qfvgEcbN7MVKHXYL4wpx1)
+![Elite Partner](/images/partner-tier-badges/OAI_PartnerNetwork_ElitePartner.svg?dpl=dpl_DCAfe3qYYShYK7n4R4BuT5EfGUDo)
 
 Countries served
     Global

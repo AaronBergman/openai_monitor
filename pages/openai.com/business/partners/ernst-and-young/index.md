@@ -34,9 +34,11 @@ OpenAI
 
 [Visit website(opens in a new window)](<https://www.ey.com/>)
 
+## About
+
 EY helps organizations shape the future with confidence by combining business, industry and technology expertise to drive transformation at scale. Enabled by data, AI and advanced technologies, EY teams work across assurance, consulting, strategy, tax and transactions to help clients grow, transform and operate. Through the EY Partner Ecosystem, EY collaborates with leading technology innovators to accelerate enterprise transformation, unlock new sources of value and deliver measurable business outcomes. With professionals serving clients in more than 150 countries and territories, EY brings deep sector knowledge, innovation and trusted execution to complex business challenges.
 
-![Advanced Partner](/images/partner-tier-badges/OAI_PartnerNetwork_AdvancedPartner.svg?dpl=dpl_Bt2QvgNvrDjuduwqx5NPqQxCos4N)
+![Advanced Partner](/images/partner-tier-badges/OAI_PartnerNetwork_AdvancedPartner.svg?dpl=dpl_DCAfe3qYYShYK7n4R4BuT5EfGUDo)
 
 Countries served
     Global
@@ -128,6 +130,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)
