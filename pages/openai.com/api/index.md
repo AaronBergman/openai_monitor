@@ -34,7 +34,7 @@ Start building
 
 ## Powered by our frontier models
 
-Our industry-leading models are designed for real-world utility, delivering advanced intelligence and multimodal capabilities.
+Our industry-leading models deliver advanced intelligence and multimodal capabilities.
 
 [![](https://cdn.openai.com/ctf-cdn/1-model-card-gpt-5-6-sol.png?w=3840&q=50&fm=webp)GPT-5.6 Sol
 
@@ -46,16 +46,16 @@ Output: $30.00 per 1M tokens
 
 Learn more(opens in a new window)(opens in a new window)](<https://developers.openai.com/api/docs/models/gpt-5.6-sol>)[![](https://cdn.openai.com/ctf-cdn/2-model-card-gpt-5-6-terra.png?w=3840&q=50&fm=webp)GPT-5.6 Terra
 
-  * Input: $2.50 per 1M tokens  
-Output: $15.00 per 1M tokens
+  * Input: $2.00 per 1M tokens  
+Output: $12.00 per 1M tokens
   * 1.05M context length  
 128K max output tokens
   * Knowledge cut-off: Feb 16, 2026
 
 Learn more(opens in a new window)(opens in a new window)](<https://developers.openai.com/api/docs/models/gpt-5.6-terra>)[![](https://cdn.openai.com/ctf-cdn/3-model-card-gpt-5-6-luna.png?w=3840&q=50&fm=webp)GPT-5.6 Luna
 
-  * Input: $1.00 per 1M tokens  
-Output: $6.00 per 1M tokens
+  * Input: $0.20 per 1M tokens  
+Output: $1.20 per 1M tokens
   * 1.05M context length  
 128K max output tokens
   * Knowledge cut-off: Feb 16, 2026
@@ -226,7 +226,7 @@ Partner with us on your AI strategy
 
   * Get hands-on deployment guidance
 
-  * Unlock priority processing pricing
+  * Unlock advanced data retention and data residency controls
 
 
 

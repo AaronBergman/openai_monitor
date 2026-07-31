@@ -30,7 +30,7 @@ OpenAI[View all plugins](</business/plugins/>)
 
 Search and reference files from your Drive.
 
-[Add plugin(opens in a new window)](<https://chatgpt.com/plugins>)[Contact sales](</contact-sales/>)
+[Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_1p_ab21a553bfbc81919ea8fd1858e3ffa7>)[Contact sales](</contact-sales/>)
 
 Use case: [File Sharing](</business/plugins/?tab=apps-file-sharing>)
 

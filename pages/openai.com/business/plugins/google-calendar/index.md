@@ -30,7 +30,7 @@ OpenAI[View all plugins](</business/plugins/>)
 
 Look up events and availability.
 
-[Add plugin(opens in a new window)](<https://chatgpt.com/plugins>)[Contact sales](</contact-sales/>)
+[Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_1p_f8509de903288191b14a160c6c5d20b0>)[Contact sales](</contact-sales/>)
 
 Use case: [Collaboration](</business/plugins/?tab=apps-collaboration>)
 

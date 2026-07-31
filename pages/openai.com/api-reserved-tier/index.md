@@ -34,13 +34,13 @@ OpenAI
 
 Reserved Tier is designed for customers that want to pre-purchase capacity that is incremental to rate limits and available even during periods of peak demand.
 
-Reserved Tier lets you purchase provisioned throughput for a specific model. To make it easy to understand how much you’ll need, it is denominated in dollars per minute. Your reserved amount can be used flexibly across Standard and Priority processing, context lengths, and regions. Reserved Tier is not available for Batch or Flex processing usage. Usage above your reserved amount is billed at normal pay-as-you-go rates.
+Reserved Tier lets you purchase provisioned throughput for a specific model. To make it easy to understand how much you’ll need, it is denominated in dollars per minute. Your reserved amount can be used flexibly across Standard and Fast mode, context lengths, and regions. Reserved Tier is not available for Batch or Flex processing usage. Usage above your reserved amount is billed at normal pay-as-you-go rates.
 
 **By choosing Reserved Tier, you can secure compute capacity for our most demanded models and unlock additional scale.** Reserved Tier purchases are automatically added to your rate limits, enabling you to secure capacity for periods of higher demand.
 
 ## How it works
 
-With Reserved Tier, you purchase a reserved dollar-per-minute amount for a specific model. While your usage is within that reserved amount, standard and priority processing requests for that model are covered by your reservation.
+With Reserved Tier, you purchase a reserved dollar-per-minute amount for a specific model. While your usage is within that reserved amount, standard and fast mode requests for that model are covered by your reservation.
 
 If usage exceeds your reserved amount, the additional usage is processed on a pay-as-you-go basis for the selected service tier and billed at normal rates.
 
@@ -179,7 +179,7 @@ Requests above your Reserved Tier $pm quota (“overage”) are processed using 
 
 ### What traffic is eligible for Reserved Tier?
 
-Reserved tier is available for Standard and Priority processing, all request context lengths, and for regional processing. Batch or Flex processing usage is not included in Reserved Tier and will be billed at PAYG rates.
+Reserved tier is available for Standard and Fast mode, all request context lengths, and for regional processing. Batch or Flex processing usage is not included in Reserved Tier and will be billed at PAYG rates.
 
 ### How are discounts reflected in my Reserved Tier purchases?
 
@@ -189,7 +189,7 @@ When sizing your Reserved Tier purchase, convert your current discounted PAYG sp
 
 ### Is my Reserved Tier traffic subject to an SLA?
 
-Yes. SLA for the service tier you use for your requests, such as Priority or Standard, will apply.
+Yes. SLA for the service tier you use for your requests, such as Fast mode or Standard, will apply.
 
 One additional benefit of Reserved Tier is in times of peak load where OpenAI can not serve all traffic, we will reject other traffic before rejecting Reserved Tier traffic.
 
@@ -209,7 +209,7 @@ When you purchase $pm for Reserved Tier, requests within your purchased quota wi
 
 ### How do I enable calls to use Reserved Tier?
 
-This happens automatically. Any traffic you send on Standard or Priority processing will automatically be counted against your $pm Reserved Tier purchase.
+This happens automatically. Any traffic you send on Standard or Fast mode will automatically be counted against your $pm Reserved Tier purchase.
 
 ### How does Zero Data Retention (ZDR) work for Reserved Tier?
 

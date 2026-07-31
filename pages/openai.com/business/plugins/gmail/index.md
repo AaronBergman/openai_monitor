@@ -30,7 +30,7 @@ OpenAI[View all plugins](</business/plugins/>)
 
 Find and reference emails from your inbox.
 
-[Add plugin(opens in a new window)](<https://chatgpt.com/plugins>)[Contact sales](</contact-sales/>)
+[Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_1p_95d39881713c8191931482a62d6edff9>)[Contact sales](</contact-sales/>)
 
 Use case: [Collaboration](</business/plugins/?tab=apps-collaboration>)
 

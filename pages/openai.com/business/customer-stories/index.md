@@ -132,6 +132,14 @@ Customer stories
 
 Filter
 
+![Univé customer story art card image](https://images.ctfassets.net/kftzwdyauwt9/4wUTx4QQxLp3nol3gwzH7f/8da5438602d7b0122180261ffc2d804f/oai_unive_1x1.png?w=3840&q=90&fm=webp)
+
+[Univé builds an AI-ready workforceJul 31, 2026](</index/unive/>)
+
+![avatarin customer story card image](https://images.ctfassets.net/kftzwdyauwt9/2yteyY2MwStbjC0CtyqDiC/cfd157c644a8e10d1407f98741929528/avatarin-1x1-contentful.png?w=3840&q=90&fm=webp)
+
+[How avatarin built a 24/7 retail agent with GPT-RealtimeJul 30, 2026](</index/avatarin/>)
+
 ![NTT DATA customer story 1x1 image](https://images.ctfassets.net/kftzwdyauwt9/2e11pEijIgQbsAMT8mLr6d/06e7ceab590f1e8b8abd9dc4e644f990/ntt-data-1x1-contentful.png?w=3840&q=90&fm=webp)
 
 [NTT DATA Group cuts incident analysis to 30 minutes with CodexJul 22, 2026](</index/ntt-data/>)
@@ -171,14 +179,6 @@ Filter
 ![Nextdoor customer stories > oai 1x1](https://images.ctfassets.net/kftzwdyauwt9/2VQiKydNUVAutnHRuCIV4S/3262cc8deff3fe49c6b512f854e14dcf/oai_Nextdoor_1x1.png?w=3840&q=90&fm=webp)
 
 [How engineers at Nextdoor use Codex to build without limitsJun 9, 2026](</index/nextdoor/>)
-
-![Notion > cover image](https://images.ctfassets.net/kftzwdyauwt9/2HBxiM1dDPpM1W56ehwgNi/01dc3dafe6aedcabc9808446492523ea/oai_Notion_1x1.png?w=3840&q=90&fm=webp)
-
-[What Codex unlocks for NotionJun 9, 2026](</index/notion/>)
-
-![oai endava 1x1](https://images.ctfassets.net/kftzwdyauwt9/6CJMPcvmo9FlUZMnAetSGl/9686223d1bd7d90b9926c0bedd4e8fb9/oai_endava_1x1.png?w=3840&q=90&fm=webp)
-
-[How Endava is redesigning software delivery around AI agentsJun 4, 2026](</index/endava-frontiers/>)
 
 Load more
 

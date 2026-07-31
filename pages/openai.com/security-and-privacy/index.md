@@ -78,9 +78,10 @@ Learn more about how we secure enterprise data at our [_Business data security p
 
 OpenAI supports our customers’ compliance with privacy laws, including the GDPR, CCPA, HIPAA, and FERPA, and offers a Data Processing Addendum and Business Associate Agreement for customers. The infrastructure supporting API and ChatGPT Enterprise, Business, Edu, for Teachers and for Healthcare products has been evaluated by an independent third-party auditor to confirm that our controls align with industry standards for security and confidentiality. 
 
-Visit our security portal to learn more about our security controls and compliance activities.
+Visit OpenAI trust portal to learn more about our security controls, and product compliance page to view compliance status by products.
 
-  * [Learn more(opens in a new window)](<https://trust.openai.com/>)
+  * [Visit Trust Portal(opens in a new window)](<https://trust.openai.com/>)
+  * [View product compliance status](</product-compliance-status/>)
 
 
 

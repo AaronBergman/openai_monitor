@@ -70,7 +70,7 @@ We use age prediction technology to provide age-appropriate experiences on our s
 
 ## Our compliance with the Online Safety Act
 
-If you’re in the UK and think OpenAI isn't complying with its obligations under the UK Online Safety Act or has used proactive technology to moderate content in a way that is not compliant with our [_terms⁠_ ⁠](<https://openai.com/policies/eu-terms-of-use/>), you can submit a complaint via our [_UK Online Safety Act Reporting Form⁠_ ⁠](<https://openai.com/form/uk-osa-compliance/>). 
+If you’re in the UK and think OpenAI isn’t complying with its obligations under the UK Online Safety Act or has used proactive technology to moderate content in a way that is not compliant with our [_terms⁠_ ⁠](<https://openai.com/policies/eu-terms-of-use/>), you can submit a complaint via our [_UK Online Safety Act Reporting Form⁠_ ⁠](<https://openai.com/form/uk-osa-compliance/>). 
 
 We will review your complaint and consider how your feedback may help us improve our processes. 
 

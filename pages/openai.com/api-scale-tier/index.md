@@ -30,7 +30,7 @@ OpenAI
 
 Scale Tier is available on models released before GPT‑5.6. For GPT‑5.6 and future model releases, see [Reserved Tier](</api-reserved-tier/>)
 
- _This offering is available to Enterprise customers. Please_[ _contact our sales team⁠_](</contact-sales/>) _to learn more._**_To access the same premium latency and reliability benefits on a flexible, pay-as-you-go basis, see_**[** __Priority processing__** ⁠](<https://openai.com/api-priority-processing>)** _._**
+ _This offering is available to Enterprise customers. Please_[ _contact our sales team⁠_](</contact-sales/>) _to learn more._**_To access the same premium latency and reliability benefits on a flexible, pay-as-you-go basis, see_**[** __Fast mode__**](</api-fast-mode/>)** _._**
 
 Scale Tier lets you purchase a set number of API input and output tokens per minute (known as “token units”) upfront for access to one specific model snapshot. Each token unit is purchased for a minimum of 30 days. Additional models may be added based on customer interest.
 
@@ -246,9 +246,7 @@ Billing starts the moment when Scale Tier token units are first allocated, and i
 
 ### How are pay-as-you-go overages calculated while I’m using Scale Tier?
 
-For billing purposes, tokens per minute (TPM) are calculated by averaging the number of tokens used in 15-minute intervals aligned to the top of the hour (e.g. 3:00 to < 3:15, 3:15 to < 3:30, etc). If the total tokens used within a 15-minute period is below your Scale Tier entitlement, they are not billed. For example, if you purchase Scale Tier for GPT‑4o with an entitlement of 30,000 input tokens per minute, you can use up to 450,000 input tokens in any 15-minute period without incurring additional charges. Any tokens used beyond this limit are billed at pay-as-you-go (PAYG) rates on Priority Processing.
-
-For customers with active Scale Tier purchases as of July 21, 2026, tokens used beyond this limit are billed at PAYG rates on Standard processing. If you’d like the new spillover behavior, contact sales.
+For billing purposes, tokens per minute (TPM) are calculated by averaging the number of tokens used in 15-minute intervals aligned to the top of the hour (e.g. 3:00 to 3:15, 3:15 to 3:30, etc). If the total tokens used within a 15-minute period is below your Scale Tier entitlement, they are not billed. For example, if you purchase Scale Tier for GPT‑4o with an entitlement of 30,000 input tokens per minute, you can use up to 450,000 input tokens in any 15-minute period without incurring additional charges. Any tokens used beyond this limit are billed at pay-as-you-go (PAYG) rates on Fast mode.
 
 ### If I make an annual commitment, does my spend have to be applied to Scale Tier?
 
@@ -295,9 +293,9 @@ We provide different discounts on cached input tokens (50%, 75%, or 90%) dependi
 
 Scale Tier supports the same multimodal capabilities available on Standard processing. In particular, images can be used as inputs to Scale Tier and are processed with the same fast latency.
 
-### Can I automatically send my Scale Tier spill-over traffic to Priority processing?
+### Can I automatically send my Scale Tier spill-over traffic to Fast mode?
 
-Yes. As of July 2026 traffic sent to Scale Tier will automatically spill over to Priority processing.
+Yes. As of July 2026 traffic sent to Scale Tier will automatically spill over to Fast mode.
 
 ### What happens if the latency and uptime SLA are both violated?
 

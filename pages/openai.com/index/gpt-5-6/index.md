@@ -60,6 +60,10 @@ Efficient by default, maximum performance on demand
 
 
 
+** _Update on July 30, 2026:_**_OpenAI reduced the price of GPT‑5.6 Luna by 80% and GPT‑5.6 Terra by 20%._[_Learn more here_](</index/advancing-the-price-performance-frontier-with-gpt-5-6/>) _._
+
+* * *
+
 We’re launching the GPT‑5.6 family of models for general availability following our [_limited preview_ ⁠](<https://openai.com/index/previewing-gpt-5-6-sol/>): our new flagship, **Sol** , alongside **Terra** , a balanced model for everyday work, and **Luna** , our most cost-efficient model.
 
 GPT‑5.6 Sol sets a new standard for both intelligence and efficiency, achieving state-of-the-art results across coding, knowledge work, cybersecurity, and science while outperforming previous and competing frontier models with fewer tokens and at lower estimated cost. The result is stronger performance per dollar: more successful work for the same spend, or comparable results at a lower total cost. We also introduce a new way to accelerate the most demanding work: `ultra` is our highest-capability setting, coordinating multiple agents across parallel workstreams to finish complex tasks faster. Stronger computer use and design judgment make GPT‑5.6 Sol our most polished collaborator yet, helping it inspect, refine, and deliver ready-to-use results.
@@ -76,7 +80,7 @@ GPT‑5.6 launches with our most robust safeguards to date, designed to be resil
 
 GPT‑5.6 Sol is our best coding model yet. On the **Artificial Analysis Coding Agent Index,** GPT‑5.6 Sol with max reasoning sets a new state of the art at 80, 2.8 points above Fable 5, while using less than half the output tokens, taking less than half the time, and costing about one-third less. That advantage extends across the family: Terra performs just above Fable 5, while Luna outperforms Opus 4.8; each does so in roughly one-third of the time, with about half as many output tokens, and at approximately one-quarter the estimated cost. It also sets new state-of-the-art results on Terminal‑Bench 2.1 and DeepSWE, which test complex command-line workflows and long-horizon engineering in real codebases.
 
-Artificial Analysis Coding Agent Index v1.1Terminal-Bench 2.1DeepSWE v1.1
+Artificial Analysis Coding IndexTerminal-Bench 2.1DeepSWE v1.1
 
 ** _Artificial Analysis Coding Agent Index:_**_an independent index of coding-agent performance across implementation, terminal use, and real codebases._
 
@@ -451,17 +455,17 @@ ARC-AGI-3 for Opus 4.8 was run on high and not max reasoning effort, as this is 
 
 [View all](</news/>)
 
+![price-performance-frontier art-card 1x1](https://images.ctfassets.net/kftzwdyauwt9/38nqRc3lEvizMieZlPcd98/25da92d68f02fcc40d5a4dc48cca96cd/price-performance-frontier_art-card_1x1.png?w=3840&q=90&fm=webp)
+
+[Advancing the price-performance frontier with GPT 5.6ProductJul 30, 2026](</index/advancing-the-price-performance-frontier-with-gpt-5-6/>)
+
+![oai Science Academic Research Academic Research 1x1](https://images.ctfassets.net/kftzwdyauwt9/59kTmFmujYzNh0VgSvCgwe/e9334dd9944b5309f8ca2d44fdc71b6f/academic-research-card.png?w=3840&q=90&fm=webp)
+
+[Accelerating scientific discovery with ChatGPT for Academic ResearchersCompanyJul 29, 2026](</index/chatgpt-for-academic-researchers/>)
+
 ![Health in ChatGPT > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/48aIp3cQOKJ57vpQeqOb8y/2e8732bcad5ceea1c7b20cf001bd2823/1_1_Art_Card.png?w=3840&q=90&fm=webp)
 
 [Launching Health in ChatGPT ProductJul 23, 2026](</index/health-in-chatgpt/>)
-
-![OpenAI Presence 1x1](https://images.ctfassets.net/kftzwdyauwt9/5JBDenSGI6wx5CMPPlaM5J/da9d8e27a0bd70d845a816b28ac641a9/OpenAI_Presence_1x1.png?w=3840&q=90&fm=webp)
-
-[Introducing OpenAI PresenceProductJul 22, 2026](</index/introducing-openai-presence/>)
-
-![GPT-5.6 is now the preferred model in Microsoft 365 Copilot > Cover image](https://images.ctfassets.net/kftzwdyauwt9/3MPipvFMxS8m3kTyCtwFgj/015747dcd34cb667a221688cfca64e0f/Frame.png?w=3840&q=90&fm=webp)
-
-[GPT-5.6 is now the preferred model in Microsoft 365 CopilotProductJul 9, 2026](</index/gpt-5-6-preferred-model-microsoft-365-copilot/>)
 
 Research
 
