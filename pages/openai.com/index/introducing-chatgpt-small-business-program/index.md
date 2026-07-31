@@ -96,7 +96,7 @@ We’re most excited for small businesses to explore use cases with ChatGPT Work
 
 Small businesses need the same enterprise-grade technology, but in an accessible and affordable way. ChatGPT Work is also powered by GPT‑5.6, our most advanced model available to businesses of any size and all subscription plans. Which means businesses can use the latest models and our most powerful agents, whether they are at their desk doing their deepest work, or on the go in between shifts. Small businesses can choose the right level of intelligence model for the work at hand, and together, they give lean teams more flexibility to balance quality, speed, and cost.
 
-ChatGPT Work and GPT‑5.6 is available to small businesses today—and it is only the beginning.
+ChatGPT Work and GPT‑5.6 are available to small businesses today—and this is only the beginning.
 
 ![ChatGPT Work interface shown on desktop and mobile, with connected apps visible against an orange gradient background.](https://images.ctfassets.net/kftzwdyauwt9/2gaU36M4HL9PFXBv0FdyPk/2ae5f8690a74d75681e6a51ed3b3fcfb/image__8_.png?w=3840&q=90&fm=webp)
 

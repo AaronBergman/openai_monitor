@@ -38,7 +38,7 @@ OpenAI
 
 AI use is easy to start. Making it work organisation-wide is harder. We start with leaders and real work, maximising the value of the AI tools you invest in. Our OpenAI specialists configure, build and embed reusable skills, GPTs, agents and automations around real workflows, using custom development only where returns are clear. One hands-on team covers strategy through adoption and works with the people who own the work. Success is measured in active use and hours returned, not deployment alone. The result is more efficient operations, stronger capability inside your business and an AI advantage that compounds as value is proven. CHIEFTNS won the APAC edition of the 2026 OpenAI Codex Hackathon.
 
-![Select Partner](/images/partner-tier-badges/OAI_PartnerNetwork_SelectPartner.svg?dpl=dpl_DCAfe3qYYShYK7n4R4BuT5EfGUDo)
+![Select Partner](/images/partner-tier-badges/OAI_PartnerNetwork_SelectPartner.svg?dpl=dpl_91jyHo7KSzsHitLEzTYymS879fKY)
 
 Countries served
     Australia, New Zealand, Singapore, Philippines, Fiji, Papua New Guinea, and Samoa

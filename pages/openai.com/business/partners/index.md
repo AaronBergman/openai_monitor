@@ -86,6 +86,10 @@ Blend 360
 
 ![Blend360 logo](https://images.ctfassets.net/kftzwdyauwt9/3nqJs9eFUtUv22CigSNONC/2d15c1b1a71de29e56456b45b88a6b38/phia-select-50-squareLight.svg?w=3840&q=90)
 
+Booz Allen Hamilton
+
+![Booz Allen Hamilton logo](https://images.ctfassets.net/kftzwdyauwt9/5dL22zZMFd5NLcJ1gn1mdf/cfc187cf341b723fe31badf321fd3ddf/Booz_Allen_Hamilton_square_light.svg?w=3840&q=90)
+
 Capco
 
 ![Capco logo](https://images.ctfassets.net/kftzwdyauwt9/tutYO1wUAO777hm8UAW7w/91e47ee5a6a121bb898953732ec01eef/capco-square-light.svg?w=3840&q=90)
@@ -181,6 +185,10 @@ Insurgence
 KPMG
 
 ![KPMG logo](https://images.ctfassets.net/kftzwdyauwt9/5L0vA3Wliji92xaqTcGlQi/af968e49adbbfb5962c93dc995c9a905/kpmg-square-light.svg?w=3840&q=90)
+
+Mantel
+
+![Mantel logo](https://images.ctfassets.net/kftzwdyauwt9/4e2rSyhgn3lTXXUNbhAVjZ/d73323de824f9a1893fd5966486a709d/Mantel_square_light.svg?w=3840&q=90)
 
 McKinsey & Company
 
@@ -322,6 +330,10 @@ Blend 360
 
 ![Blend360 logo](https://images.ctfassets.net/kftzwdyauwt9/3nqJs9eFUtUv22CigSNONC/2d15c1b1a71de29e56456b45b88a6b38/phia-select-50-squareLight.svg?w=3840&q=90)
 
+Booz Allen Hamilton
+
+![Booz Allen Hamilton logo](https://images.ctfassets.net/kftzwdyauwt9/5dL22zZMFd5NLcJ1gn1mdf/cfc187cf341b723fe31badf321fd3ddf/Booz_Allen_Hamilton_square_light.svg?w=3840&q=90)
+
 Capco
 
 ![Capco logo](https://images.ctfassets.net/kftzwdyauwt9/tutYO1wUAO777hm8UAW7w/91e47ee5a6a121bb898953732ec01eef/capco-square-light.svg?w=3840&q=90)
@@ -417,6 +429,10 @@ Insurgence
 KPMG
 
 ![KPMG logo](https://images.ctfassets.net/kftzwdyauwt9/5L0vA3Wliji92xaqTcGlQi/af968e49adbbfb5962c93dc995c9a905/kpmg-square-light.svg?w=3840&q=90)
+
+Mantel
+
+![Mantel logo](https://images.ctfassets.net/kftzwdyauwt9/4e2rSyhgn3lTXXUNbhAVjZ/d73323de824f9a1893fd5966486a709d/Mantel_square_light.svg?w=3840&q=90)
 
 McKinsey & Company
 

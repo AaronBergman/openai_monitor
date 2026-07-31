@@ -4,6 +4,53 @@ A daily log of every change to OpenAI's public website — what appeared, what d
 
 ---
 
+## 2026-07-31 — Run `2026-07-31T09-16Z`
+
+**Fetch time:** 2026-07-31T09:17:28Z
+**Baseline:** 2026-07-30T09-16Z (consecutive day)
+**Stats:** 1499 total URLs | +9 added | 190 updated | -2 removed | 0 anomalies | 34 sub-sitemaps
+
+**TL;DR:** A clean, coordinated one-day rollout: OpenAI renamed its "Priority Processing" API tier to **Fast mode** and simultaneously cut GPT‑5.6 prices — Terra 20% cheaper, Luna 80% cheaper — explicitly framed as passing along the self-optimization gains GPT‑5.6 made to its own serving costs (reported in yesterday's run). A new page, [Advancing the price-performance frontier with GPT‑5.6](pages/openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/index.md), lays out the reasoning with customer quotes from Replit, Notion, Ramp, Blitzy, Cognition, and Dust; the old `/api-priority-processing/` page is gone, replaced by a new `/api-fast-mode/` that says outright "Priority processing was renamed Fast mode on July 30, 2026." Also new: two customer stories (avatarin's 24/7 multilingual retail voice agent for a Japanese electronics chain; Univé, a Dutch insurer with 97% ChatGPT Enterprise license activation), an EU AI Act inquiry/complaint form paired with a new Global Affairs post on OpenAI's EU AI Act compliance posture, two new partner listings (Booz Allen Hamilton, Mantel), and confirmation that the Adobe Photoshop plugin's July 30 rebrand into a full "Adobe" integration also changed its URL. The recurring "Business" nav A/B test kept flip-flopping (13 pages, roughly even split) rather than settling — a third run showing the same pattern. No timestamp anomalies of any kind.
+
+### Anomalies
+
+None this run. No future-dated or backdated lastmods, no reappeared URLs, no sub-sitemap migrations (full 34-file URL-set comparison). One thing worth tracking, not quite an anomaly: three pages are already linked from freshly updated content but don't exist in any sub-sitemap yet — `/business/solutions/finance/workflows/`, `/product-compliance-status/`, and `/index/small-business-stories/`. Could just be publish-timing lag; will check if they appear tomorrow.
+
+### Notable additions
+
+- **[Advancing the price-performance frontier with GPT‑5.6](pages/openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/index.md)** — announces the Fast mode rename and GPT‑5.6 Terra/Luna price cuts (see TL;DR); ties directly to yesterday's "GPT‑5.6 optimizes its own infrastructure" post.
+- **[`/api-fast-mode/`](pages/openai.com/api-fast-mode/index.md)** — new product page for the renamed tier; replaces `/api-priority-processing/`, which disappeared from the sitemap this run.
+- **[Advancing responsible AI across Europe](pages/openai.com/index/advancing-responsible-ai-across-europe/index.md)** — Global Affairs post on OpenAI's alignment with the EU AI Act's GPAI Code of Practice and Transparency Code, covering its Preparedness Framework, Frontier Governance Framework, Red Teaming Network, and work with the Frontier Model Forum, US CAISI, and UK AISI.
+- **New [`/form/eu-ai-act/`](pages/openai.com/form/eu-ai-act/index.md)** — intake form for EU AI Act model-documentation requests and Copyright-Chapter compliance complaints; new legal infrastructure paired with the post above.
+- **[How avatarin built a 24/7 retail agent with GPT‑Realtime](pages/openai.com/index/avatarin/index.md)** — Japanese startup avatarin used GPT‑Realtime to give electronics retailer Yamada Denki multilingual 24/7 shopping support; 30,000 shoppers engaged in a two-week trial, 92% positive post-use surveys.
+- **[Univé builds an AI-ready workforce](pages/openai.com/index/unive/index.md)** — Dutch mid-market insurer: 97% of ChatGPT Enterprise licenses activated, 85% weekly active users, ~1,500 employee-built custom GPTs, pet-insurance claims now prepared in minutes instead of hours.
+- **[`/business/plugins/adobe/`](pages/openai.com/business/plugins/adobe/index.md)** — new URL for the broader Adobe integration first reported as a content rebrand (from Photoshop-only) on 2026-07-30; confirms that rebrand also came with a slug change, replacing `/business/plugins/adobe-photoshop/`.
+- **2 new partner-directory listings:** Booz Allen Hamilton (government/defense AI consultancy) and Mantel (Australia/NZ enterprise AI consultancy).
+
+### Notable updates
+
+- **Coordinated "Fast mode" rename** across `/api/`, `/api-reserved-tier/`, `/api-scale-tier/`, and `/products/release-notes/` (new GA entry, Jul 30) — every "Priority processing" reference swapped to "Fast mode" in place. The `/index/gpt-5-6/` launch post also picked up a dated "Update on July 30" banner pointing to the price-performance post.
+- **Also via `/products/release-notes/` (Jul 29):** GA release of the official **OpenAI Terraform provider** for the API Platform — manage projects, users, roles, service accounts, and rate limits as infrastructure-as-code.
+- **[`/business/why-openai/small-business/`](pages/openai.com/business/why-openai/small-business/index.md)** hub got a substantive refresh: new lead testimonial, rebuilt webinar lineup (added an August 25 "OpenAI on OpenAI: Marketing Team" session), and a new "Resources" section (downloadable "First AI Workflow" guide, a research-post link) replacing three older customer-story tiles with a link to a not-yet-sitemapped "Small business stories" hub.
+- **[`/security-and-privacy/`](pages/openai.com/security-and-privacy/index.md)** added a "View product compliance status" link (target page not yet sitemapped).
+- **[`/business/solutions/finance/`](pages/openai.com/business/solutions/finance/index.md)** added a "Finance workflows" callout (target page not yet sitemapped).
+- **Sitewide template tweaks:** the "Latest Advancements" sidebar module (most `/index/*` posts) now shows GPT‑5.6 in place of GPT‑5.3 Instant; article table-of-contents rendering lost its redundant "Table of contents" label and tightened spacing across many unrelated pages — both read as frontend/template changes, not editorial ones.
+- **Continuing nav A/B test** (flagged 2026-07-28, still unresolved): 13 `/business/plugins/*` and `/business/partners/*` pages flipped their nav variant this run, roughly evenly split between old→new and new→old — a third data point confirming live A/B testing rather than a directional rollout.
+
+### Routine updates
+
+93 pages fetched fresh but came back byte-identical to their prior snapshot (pure cache/timestamp resync). ~55 partner-directory pages picked up only a nav-variant flip and/or "Keep reading" carousel rotation surfacing today's new customer stories, with no prose changes. 6 unrelated `/index/*` articles (`cisco`, `deutsche-telekom`, `doppel`, `nvidia`, `netomi`, `trustbank`) changed only their "Keep reading" carousel. The homepage and `/news/company-announcements/` rotated their feeds to surface today's new posts, dropping a dated June confidential-S-1-filing card from the homepage. Full per-URL breakdown in [`runs/2026-07-31T09-16Z/analysis.md`](runs/2026-07-31T09-16Z/analysis.md).
+
+### Removals
+
+- `/api-priority-processing/` — renamed to `/api-fast-mode/` (see above).
+- `/business/plugins/adobe-photoshop/` — renamed to `/business/plugins/adobe/` (see above).
+
+Full analysis: [runs/2026-07-31T09-16Z/analysis.md](runs/2026-07-31T09-16Z/analysis.md)
+
+---
+*Stats: 1,499 total URLs | +9 added | 190 updated | -2 removed | 0 anomalies | 34 sub-sitemaps*
+
 ## 2026-07-30 — Run `2026-07-30T09-16Z`
 
 **Fetch time:** 2026-07-30T09:20:45Z

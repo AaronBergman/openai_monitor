@@ -190,7 +190,11 @@ What’s something you helped make happen on campus? Tell us about it in video f
 
 What is the most important problem facing young people? How would you try to make progress on it?
 
+500 characters max
+
 What’s something you’ve changed your mind about recently?
+
+500 characters max
 
 LinkedIn profile
 

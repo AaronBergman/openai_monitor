@@ -1,28 +1,28 @@
 Skip to main content
 
-[](</>)
+[](</>)[](</business/>)
 
-  * [Research](</research/index/>)
+  * Why OpenAI
   * Products
-  * [Business](</business/>)
-  * [Developers](</api/>)
-  * [Company](</about/>)
-  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
+  * Solutions
+  * Resources
+  * [Customers](</business/customer-stories/>)
+  * [Pricing](</business/pricing/>)
 
 
 
-Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
+Try OpenAI[Contact sales](</contact-sales/>)
 
-  * Research
+  * Why OpenAI
   * Products
-  * Business
-  * Developers
-  * Company
-  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
+  * Solutions
+  * Resources
+  * [Customers](</business/customer-stories/>)
+  * [Pricing](</business/pricing/>)
 
 
 
-[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)Login
+[Contact sales](</contact-sales/>)Try OpenAI
 
 OpenAI
 
@@ -188,6 +188,10 @@ Explore additional resources for getting started with OpenAI.
 ![Business Learning Hub 1x1](https://images.ctfassets.net/kftzwdyauwt9/3WaN0u4u87BK3dXsD569qh/f40a4e250dc00d0bbf5ec418be81fc9c/Business_Learning_Hub_1x1.png?w=3840&q=90&fm=webp)
 
 [Guides & ResourcesExplore business guides for adopting AI securley and at scale.](</business/learn/>)
+
+![Placeholder strategic finance workflow collage from the Figma design.](https://images.ctfassets.net/kftzwdyauwt9/5b3Xk3sSoDKWJeQqU1FjVk/4b2a69a38ffd05d9cd934829c4107c73/hero-media-2x.png?w=3840&q=90&fm=webp)
+
+[Finance workflowsSee how OpenAI’s Finance team uses ChatGPT and Codex across 16 workflows.](</business/solutions/finance/workflows/>)
 
 ## See what OpenAI can do for finance teams
 

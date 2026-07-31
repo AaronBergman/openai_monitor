@@ -41,6 +41,32 @@ Filter
 
 Sort
 
+API
+
+Jul 30, 2026
+
+GA
+
+## GPT-5.6 price reductions and Fast mode for the API
+
+Starting July 30, GPT‑5.6 Luna costs 80% less, while GPT‑5.6 Terra costs 20% less. We’re also introducing Fast mode in the API, which replaces our Priority Processing offering. For GPT‑5.6 Sol, Fast mode now delivers up to 2.5× faster speeds than standard processing at twice the price. This change is backward compatible: requests tagged priority will automatically use Fast mode.
+
+[View source(opens in a new window)](<https://developers.openai.com/api/docs/pricing>)[Platform docs(opens in a new window)](<https://developers.openai.com/api/docs/guides/fast-mode>)[Platform docs(opens in a new window)](<https://developers.openai.com/api/docs/changelog>)
+
+API
+
+Jul 29, 2026
+
+GA
+
+## Official OpenAI Terraform provider
+
+Released the official OpenAI Terraform provider for managing OpenAI API Platform resources as infrastructure as code.
+
+Provision and manage projects, users, groups, roles, access assignments, service accounts, certificates, invitations, and project-level rate limits. Use standard Terraform workflows to review and apply changes, import existing resources, and detect and reconcile configuration drift.
+
+[View source(opens in a new window)](<https://github.com/openai/terraform-provider-openai>)[Terraform Registry(opens in a new window)](<https://registry.terraform.io/providers/openai/openai/latest/docs>)[Platform docs(opens in a new window)](<https://developers.openai.com/api/docs/changelog>)
+
 ChatGPT
 
 Jul 29, 2026
@@ -88,60 +114,6 @@ Health is built with layered privacy and security safeguards. Connected medical 
 ChatGPT Health is designed to support, not replace, medical care and is not intended for diagnosis or treatment.
 
 [View source(opens in a new window)](<https://help.openai.com/en/articles/6825453-chatgpt-release-notes#health-in-chatgpt>)[Help center(opens in a new window)](<https://help.openai.com/en/articles/20001036-what-is-chatgpt-health>)[Blog](<https://openai.com/index/introducing-chatgpt-health/>)
-
-API
-
-Jul 20, 2026
-
-GA
-
-## Organization and project spend limits for the OpenAI API platform
-
-Added organization and project spend limits for the OpenAI API platform. Set monthly spend limits to monitor API costs, or enforce hard limits so API responses fail after an organization or project reaches its limit.
-
-[View source(opens in a new window)](<https://developers.openai.com/api/docs/guides/spend-limits>)
-
-Codex
-
-Jul 20, 2026
-
-GA
-
-## ChatGPT for iOS updates: Mermaid diagrams, interactive forms, prompt recovery, and task improvements
-
-### New features
-
-  * Added support for rendering Mermaid diagrams inline in task transcripts.
-
-  * Added support for interactive forms in Codex tasks.
-
-  * Added support for restoring unsent prompts when switching between tasks, hosts, and workspaces.
-
-
-
-
-### Improvements and bug fixes
-
-  * Improved task lists to sort by recent activity and show unavailable hosts when creating a task.
-
-  * Improved the composer with selected-text previews and smoother new-task transitions.
-
-  * Improved goals with support for resuming blocked or usage-limited runs.
-
-  * Improved plan progress, Fast controls, and inline dictation.
-
-  * Improved Remote onboarding, composer guidance, and iPad navigation.
-
-  * Fixed an issue that could close the app when duplicate task-list entries appeared while starting a task.
-
-  * Fixed iOS 18 task actions and task-list styling.
-
-  * Fixed composer spacing, attachment menu padding, and duplicate transcription indicators.
-
-
-
-
-[View source(opens in a new window)](<https://developers.openai.com/codex/changelog#codex-2026-07-20-mobile>)
 
 Load more
 

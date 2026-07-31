@@ -40,13 +40,13 @@ ChatGPT Business helps teams use agents in everyday work to manage customers, pr
 
 [Try ChatGPT Business(opens in a new window)](<https://chatgpt.com/team-sign-up>)[Contact sales](</contact-sales/>)
 
-Real SMB customers
+Small business stories
 
 # How customers of all sizes are building with ChatGPT
 
 Learn how small teams are using AI to save time and operate more efficiently.
 
-> “ChatGPT basically told us to master our home market first. That advice helped us focus our limited resources where they’d have the biggest impact.”
+> “ChatGPT makes us look at things differently. It gives us different ways to think about things. My confidence has skyrocketed because I have that extra team member.”
 
 —Becky Lane, founder, The Floral Hire
 
@@ -119,29 +119,31 @@ Deploy AI confidently with secure workspaces, admin controls, encryption, and bu
 
 WebinarsEvents
 
-### [Inside OpenAI: How Our Sales Team Uses ChatGPT Work (July 30, 9:30 AM PT)Learn how sales teams can use ChatGPT to research prospects, prepare for customer conversations, personalize outreach, and create clear follow-ups.Register here](<https://webinar.openai.com/chatgpt-work-series/sales/>)
-
 ### [How Small Businesses Can Put ChatGPT Work Into Practice (August 6, 2026 at 9:30AM PT)See how small teams can use ChatGPT Work to handle everyday tasks, move ambitious projects forward, and turn ideas into finished deliverables.Register here](<https://webinar.openai.com/small-business/chatgpt-work/>)
 
 ### [Launch Smarter on Shopify with ChatGPT and Codex (August 19, 2026 at 9:30AM PT)Join OpenAI and Shopify to learn how ChatGPT and Codex can turn scattered product information and launch plans into repeatable, Shopify-ready workflows—no development experience required.Register here](<https://webinar.openai.com/launch-smarter-shopify/?>)
 
 ### [Use QuickBooks in ChatGPT to Make Better Financial Decisions (August 25, 2026 at 9:30AM PT)Join OpenAI and Intuit to learn how QuickBooks in ChatGPT can turn financial data into a clear view of business health and practical next steps.Register here](<https://webinar.openai.com/quickbooks-chatgpt/>)
 
+### [OpenAI on OpenAI: How Our Marketing Team Uses ChatGPT Work (August 25, 9:30 AM PT)See how OpenAI’s Marketing team uses ChatGPT Work to bring campaign context and performance together, uncover what worked, and turn those insights into clear recommendations for the next launch. Register here](<https://webinar.openai.com/chatgpt-work-series/marketing/>)
+
 ### [A Practical Introduction to Codex for Developers at Small Businesses (August 27, 2026 at 9:30AM PT)Join OpenAI to see how Codex helps lean engineering teams understand code, build features, and ship high-quality software faster.Register here](<https://webinar.openai.com/small-business/introduction-to-codex/>)
 
-# Learn how teams are using AI today
+# Resources
 
-![oai neurogum](https://images.ctfassets.net/kftzwdyauwt9/2eN8BnG7eYMOxenscO3YWf/281c7e0f69c5b5995f268de5fc467006/oai_neurogum.png?w=3840&q=90&fm=webp)
+Explore guides, real-world stories, and additional resources to help your business do more with AI.
 
-## [Neuro drives national retail wins with ChatGPT Business](</index/neurogum/>)
+![Pink and orange abstract star field image.](https://images.ctfassets.net/kftzwdyauwt9/7vpei2yytnNP1vPglECf6W/e3efd0feb487637dd414f9ba0c6f2171/first-ai-workflow-1x1.jpg?w=3840&q=90&fm=webp)
 
-![oai plex 1.1](https://images.ctfassets.net/kftzwdyauwt9/6hwfvwp8kxW3xS64zZgRWp/2012aafb8d7b33c0438eed05af1337d1/oai_plex_1.1.png?w=3840&q=90&fm=webp)
+[Find your first high-value AI workflowUpload and create your first workflow in ChatGPT Work in 15 minutes.](<https://cdn.openai.com/pdf/26871fcc-668f-4ad5-8351-109af9ae4937/First-AI-Workflow-202607.pdf>)
 
-## [Plex Coffee delivers fast, personal service with ChatGPT](</index/plex-coffee/>)
+![Abstract visualization for an article about AI expanding work.](https://images.ctfassets.net/kftzwdyauwt9/3JAh8VK98LHki9m4sr8KIR/3580b8ab65aca167342a3c674847531e/SEO_Card__2_.png?w=3840&q=90&fm=webp)
 
-![Singular Bank 1x1](https://images.ctfassets.net/kftzwdyauwt9/4z6thUXYDDAQfggvMdsr6v/bbc20a49d11c5f7b3216fec648214cef/oai_SingularBank_1x1.png?w=3840&q=90&fm=webp)
+## [How AI is expanding what people do at work(opens in a new window)](<https://openai.com/index/how-ai-is-expanding-what-people-do-at-work/>)
 
-## [Singular Bank helps bankers move fast with ChatGPT and Codex](</index/singular-bank/>)
+![Two people stand beside a large red combine harvester in an open, harvested field under a wide blue sky.](https://images.ctfassets.net/kftzwdyauwt9/6yOmkiVrFE8fk9ciEdFLyt/6cec40169a9c3d33c82b7a2935050d9e/SHARP_1x1_COMBINE.png?w=3840&q=90&fm=webp)
+
+## [Small business storiesChatGPT](</index/small-business-stories/>)
 
 ## Build what’s next
 

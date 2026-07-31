@@ -52,7 +52,7 @@ Use deep research to run more advanced analyses with your HubSpot context, such 
 
 ### Trusted results aligned to HubSpot permissions
 
-Access is based on a user’s HubSpot permissions, so they only see data they’re authorized to view, excluding Sensitive Data Properties and Highly Sensitive Data (e.g. PHI).
+Access is based on a user’s HubSpot permissions, so they only see data they're authorized to view, excluding Sensitive Data Properties and Highly Sensitive Data (e.g. PHI).
 
 ## Sample prompts
 

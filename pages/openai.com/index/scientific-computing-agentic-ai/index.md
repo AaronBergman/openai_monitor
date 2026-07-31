@@ -74,7 +74,7 @@ cyvcf2HI.SIMhifiasmMHCflurrybayesm-rsRustar-aligner, svb, and kuvaRustQC, FastQC
 
 cyvcf2 is a Python library for reading and writing genomic variant files. GPT‑5.5 replaced the library’s legacy build and packaging system with a modern, unified process designed to make the library easier to install, test, and release.
 
-> _With coding agents, it 's quite easy to go fast; for now, to go far in science, there's still a need for expert guidance, understanding, taste, and care._
+> _With coding agents, it’s quite easy to go fast; for now, to go far in science, there’s still a need for expert guidance, understanding, taste, and care._
 
 —Brent Pedersen
 

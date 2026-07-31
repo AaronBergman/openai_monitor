@@ -36,9 +36,9 @@ OpenAI
 
 ## About
 
-An AI-Native AI and engineering company built by a founding team with 15 years working together. Our core crew has shipped market-defining digital and AI products and businesses since 2009 ‚Äî taking multiple ventures from idea to successful exit. Today we bring that same chemistry, speed, and enterprise know-how to help our clients turn AI ideas into production software, quickly and safely.
+An AI-Native AI and engineering company built by a founding team with 15 years working together. Our core crew has shipped market-defining digital and AI products and businesses since 2009 ‚ taking multiple ventures from idea to successful exit. Today we bring that same chemistry, speed, and enterprise know-how to help our clients turn AI ideas into production software, quickly and safely.
 
-![Select Partner](/images/partner-tier-badges/OAI_PartnerNetwork_SelectPartner.svg?dpl=dpl_DCAfe3qYYShYK7n4R4BuT5EfGUDo)
+![Select Partner](/images/partner-tier-badges/OAI_PartnerNetwork_SelectPartner.svg?dpl=dpl_91jyHo7KSzsHitLEzTYymS879fKY)
 
 Countries served
     Global
