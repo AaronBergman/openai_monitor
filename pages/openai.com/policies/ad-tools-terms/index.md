@@ -30,7 +30,7 @@ Select language
 
 …
 
-Published: June 12, 2026
+Published: July 31, 2026
 
 # Ad Tools Terms
 
@@ -61,11 +61,15 @@ Your access to and use of the Conversion Tools is subject to the Conversion Term
 
 
 
-## 4\. Definitions
+## 4\. Sponsored Agents
+
+If OpenAI creates, configures, or makes available a Sponsored Agent on your behalf, the provisions under “For Builders of GPTs” in Section 5 of the Service Terms are incorporated into these Ad Tools Terms and apply to the Sponsored Agent. For the purposes of those provisions, you are deemed the builder of the Sponsored Agent and remain responsible for the Sponsored Agent, its content, configurations, Actions, and Output as if you had created it yourself, and for all Ad Materials used in connection with the Sponsored Agent. For the purposes of the indemnification provisions of the Advertising Terms, any Claim related to a Sponsored Agent, including its content, configurations, Actions, Output, or Ad Materials used in connection with the Sponsored Agent, will be deemed a Claim related to an Ad.
+
+## 5\. Definitions
 
 “ _Access Purpose_ ” means OpenAI’s and its Affiliates’ development, provision, and improvement of their products or services. 
 
-“ _Ad Materials_ ” means any materials that you provide, make available, or identify for OpenAI to access, retrieve, or use in connection with the Creative Tools, including, but not limited to, Ads, product and catalog data, information related to Advertiser Products, brand assets, trademarks, logos, inputs, prompts, instructions, Destinations, website content, metadata, images, text, audio, video, voices, likenesses, pricing, availability information, and other materials or information. 
+“ _Ad Materials_ ” means Ads, product and catalog data, inventory, availability information, pricing, promotional information, information related to Advertiser Products, brand assets, trademarks, logos, inputs, prompts, instructions, Destinations, website content, business logic, sales or support scripts, tone or brand guidelines, metadata, images, text, audio, video, voices, likenesses, and other materials or information that you or anyone acting on your behalf provides, identifies, or makes available to OpenAI for use in creating, modifying, optimizing, delivering, supporting, or operating Ad Tools. 
 
 “ _Advertising Services_ ” has the meaning given in the Advertising Terms. 
 
@@ -89,6 +93,10 @@ Your access to and use of the Conversion Tools is subject to the Conversion Term
 
 “ _Reverse Engineer_ ” means reverse assemble, reverse compile, decompile, translate, engage in model extraction or stealing attacks, or otherwise attempt to discover the source code or underlying components of the Ad Tools, algorithms, and systems (except to the extent these restrictions are contrary to applicable law).
 
+“ _Service Terms_ ” means OpenAI’s terms available at: [_https://openai.com/policies/service-terms/_](</policies/service-terms/>). 
+
+“ _Sponsored Agent_ ” means advertiser-sponsored conversational experiences that allow users to interact with an AI-generated representative for an Advertiser’s business, products, or services.
+
 The terms “ _Data Controller_ ”, “ _Personal Data_ ”, “ _Data Processor_ ”, “ _Process_ ”, and “ _Processing_ ” have the meanings given under applicable data privacy and data protection law.
 
 Research
@@ -101,9 +109,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -140,6 +148,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -173,6 +183,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

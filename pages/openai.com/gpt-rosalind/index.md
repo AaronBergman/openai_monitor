@@ -128,10 +128,6 @@ Rosalind Biodefense supports trusted developers and public-health teams building
 
 [Application Form | Rosalind Biodefense Program](</form/rosalind-biodefense-program/>)
 
-![1x1](https://images.ctfassets.net/kftzwdyauwt9/1D6nnZ4EvlhS7bGdCna7OC/b3fade9e482d3bc9cacdea118cf8e5f3/hero.png?w=3840&q=90&fm=webp)
-
-[Solutions for life sciences](</solutions/industries/life-sciences/>)
-
 ## Advance life sciences research with GPT‑Rosalind
 
 Talk with OpenAI about life sciences workflows, or request access for qualified research and public-benefit work.
@@ -148,9 +144,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -222,6 +218,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

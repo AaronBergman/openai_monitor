@@ -30,7 +30,7 @@ Select language
 
 …
 
-Updated: June 12, 2026
+Updated: July 31, 2026
 
 # OpenAI Ad Tools Sub-Processor List
 
@@ -71,6 +71,8 @@ Norway
 United Kingdom  
 United States| Cloud infrastructure  
 Amazon Web Services, Inc.| United States| Cloud infrastructure  
+Teleperformance Europe Middle East and Africa, SAS| Canada  
+Spain| Customer Support  
   
 ## OpenAI Entities
 
@@ -96,9 +98,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -135,6 +137,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -168,6 +172,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

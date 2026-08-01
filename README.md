@@ -4,6 +4,48 @@ A daily log of every change to OpenAI's public website — what appeared, what d
 
 ---
 
+## 2026-08-01 — Run `2026-08-01T09-16Z`
+
+**Fetch time:** 2026-08-01T09:17:39Z
+**Baseline:** 2026-07-31T09-16Z (consecutive day)
+**Stats:** 1546 total URLs | +47 added | 93 updated | -0 removed | 3 anomalies | 35 sub-sitemaps
+
+**TL;DR:** The headline isn't new content, it's newly *visible* content: a brand-new sitemap category, `disrupting-malicious-uses`, surfaced 44 of OpenAI's historical influence-operation takedown reports (some dating to 2024, e.g. "Storm-2035," "Bad Grammar," "Doppelganger") that had simply never had a sitemap entry before — a hidden archive, not a publishing burst. Real news, buried under that: the [content-verification tool](pages/openai.com/research/verify/index.md) grew from images-only to also checking audio for **SynthID watermarks**, matching a same-day note on the GPT‑Live page that GPT‑Live audio now carries SynthID watermarking; and OpenAI's [Ad Tools Terms](pages/openai.com/policies/ad-tools-terms/index.md) quietly defined a new ad product, **"Sponsored Agents"** — advertiser-sponsored chatbot personas users can converse with. The partner directory added [Clarinet](pages/openai.com/business/partners/clarinet/index.md) and rolled out a new "Joint partners" field (AWS/Oracle co-certification) across ~30 consulting-partner pages. Two new posts: [Ten advances in mathematics and theoretical computer science](pages/openai.com/index/ten-advances-in-mathematics/index.md) and [Building abundant intelligence](pages/openai.com/index/building-abundant-intelligence/index.md) (both client-rendered; only title/date/subtitle captured).
+
+### Anomalies
+
+- **Hidden archive exposed, not new content.** New sub-sitemap `sitemap.xml/disrupting-malicious-uses/` contains 44 URLs never seen in any prior snapshot — but they're old reports (spot-checked back to October 2024), all sharing a ~74-second `<lastmod>` cluster (2026-07-31T16:31:19Z–16:32:33Z, one outlier at 20:27Z) that points to a single backend migration, not 44 edits. Echoes the 2026-07-25 "sitemap taxonomy reorg" (#82). Treat their `first_seen` as "first time we could see it," not "first published."
+- **Global Affairs category split.** 4 URLs moved from `sitemap.xml/global-affairs/` to a new `sitemap.xml/global-affairs-news-listed/` sub-sitemap with no lastmod change (pure re-filing): `/global-affairs/new-economic-analysis/`, `/index/equipping-workers-with-insights-about-compensation/`, `/index/how-countries-can-end-the-capability-overhang/`, `/index/understanding-ai-and-learning-outcomes/`.
+- **Repo bookkeeping gap (not a site change).** `state/known_urls.json` was missing 47 URLs already present in the last committed sitemap baseline (mostly the 44 above). Backfilled this run; no other timestamp anomalies (no future-dated or backward-moving lastmods) found among the other 1499 previously-tracked URLs.
+
+### Notable additions
+
+- **[`research/verify/`](pages/openai.com/research/verify/index.md) tool upgrade** — renamed "Verify OpenAI-generated images" (Research preview) → "Verify OpenAI-generated content" (preview label dropped), added audio support (MP3, WAV, AAC, FLAC, OPUS, PCM) and SynthID-watermark detection alongside C2PA metadata. Same-day, [`index/introducing-gpt-live/`](pages/openai.com/index/introducing-gpt-live/index.md) picked up an "Update July 31, 2026" note: GPT‑Live audio through ChatGPT Voice and the API now includes SynthID watermarking — the two updates read as one coordinated rollout.
+- **["Sponsored Agents" ad product defined](pages/openai.com/policies/ad-tools-terms/index.md)** — Ad Tools Terms republished (last updated June 12, now July 31) with a new Section 4 and definition: *"Sponsored Agent" means advertiser-sponsored conversational experiences that allow users to interact with an AI-generated representative for an Advertiser's business, products, or services.* The advertiser is deemed the GPT's "builder" and stays responsible for its content/outputs. Companion change: [`policies/ad-tools-subprocessors/`](pages/openai.com/policies/ad-tools-subprocessors/index.md) added Teleperformance EMEA SAS (Canada/Spain, Customer Support) the same day.
+- **[Clarinet](pages/openai.com/business/partners/clarinet/index.md)** — new Select-tier partner, AI-enablement/training firm, global/cross-industry, "worked with more than 85 organizations." Landed in the same deployment as the Joint-partners field rollout below.
+- **[Ten advances in mathematics and theoretical computer science](pages/openai.com/index/ten-advances-in-mathematics/index.md)** (Aug 1, Publication) — links to a paper PDF and a "reasoning walkthroughs" PDF. Fits the recent research cadence (ARC-AGI-3, GPT‑5.6).
+- **[Building abundant intelligence](pages/openai.com/index/building-abundant-intelligence/index.md)** (Jul 31, Company) — "A full-stack approach to making advanced AI more capable, more affordable, and more widely useful." Reads as a strategy/vision post.
+- 44 historical `disrupting-malicious-uses-of-ai-*` reports (see Anomalies).
+
+### Notable updates
+
+- **New "Joint partners" field** on ~30 of OpenAI's consulting/SI partner pages (Accenture, KPMG, Capgemini, EY, BCG, Infosys, and others) naming which cloud hyperscaler(s) — AWS and/or Oracle — that partner is also certified with. Same deployment that added Clarinet.
+- 19 pages (homepage, `api/`, `api/pricing/`, `business/pricing/`, `devday/`, `science/`, `products/release-notes/`, several GPT‑5.6 pages, and others) got a `<lastmod>` bump with **zero markdown content difference** — consistent with a platform-wide redeploy on 2026-07-31, not an editorial change.
+- `business/solutions/sales/` swapped a "Live webinar, July 30 9:30am PT" registration banner for a post-event "Watch the webinar" link.
+
+### Routine updates
+
+~27 partner pages picked up only a badge-image cache-bust (`?dpl=...` param, same deployment as above) with no other diff. Several `/index/*` articles (ARC-AGI-3, avatarin, Deutsche Telekom, Univé, Australian Payments Plus, scientific-computing-agentic-ai, how-news-organizations-are-using-ai) changed only their "Keep reading" sidebar to surface today's new posts — no change to the articles themselves. A few partner pages (`altimetrik/`, `bain-and-company/`) showed a swapped top-nav variant between fetches, most likely server-side A/B randomization rather than a real change. Minor wording tweak to the Student Collective / Campus Leads conflict-of-interest clause. Full per-URL breakdown in [`runs/2026-08-01T09-16Z/analysis.md`](runs/2026-08-01T09-16Z/analysis.md).
+
+### Removals
+
+None this run.
+
+Full analysis: [runs/2026-08-01T09-16Z/analysis.md](runs/2026-08-01T09-16Z/analysis.md)
+
+---
+*Stats: 1,546 total URLs | +47 added | 93 updated | -0 removed | 3 anomalies | 35 sub-sitemaps*
+
 ## 2026-07-31 — Run `2026-07-31T09-16Z`
 
 **Fetch time:** 2026-07-31T09:17:28Z

@@ -48,7 +48,7 @@ Our senior team of Forward Deployed Engineers develop deep partnerships with our
 
 From roadmap to ROI, we’re here to help you along your agentic journey.
 
-![Select Partner](/images/partner-tier-badges/OAI_PartnerNetwork_SelectPartner.svg?dpl=dpl_91jyHo7KSzsHitLEzTYymS879fKY)
+![Select Partner](/images/partner-tier-badges/OAI_PartnerNetwork_SelectPartner.svg?dpl=dpl_2nDwFBphwWZQZcYgWgpfCWCFJgWW)
 
 Countries served
     United States

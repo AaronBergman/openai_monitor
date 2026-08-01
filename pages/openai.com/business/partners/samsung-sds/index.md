@@ -42,13 +42,16 @@ Backed by more than 40 years of IT expertise and deep industry knowledge, we des
 
 As a trusted partner for enterprise AI transformation, Samsung SDS helps organizations accelerate AI adoption, scale innovation, and create lasting business value.
 
-![Select Partner](/images/partner-tier-badges/OAI_PartnerNetwork_SelectPartner.svg?dpl=dpl_91jyHo7KSzsHitLEzTYymS879fKY)
+![Select Partner](/images/partner-tier-badges/OAI_PartnerNetwork_SelectPartner.svg?dpl=dpl_2nDwFBphwWZQZcYgWgpfCWCFJgWW)
 
 Countries served
     Global
 
 Industry
     Cross-industry
+
+Joint partners
+    AWS and Oracle
 
 Research
 

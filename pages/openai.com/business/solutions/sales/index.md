@@ -26,12 +26,6 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 OpenAI
 
-### [Live webinar] Join us July 30, 2026 at 9:30 AM PT
-
-to see how OpenAI's Sales team uses ChatGPT Work to turn account context into a live command center.
-
-[Register now(opens in a new window)](<https://webinar.openai.com/chatgpt-work-series/sales/?utm_medium=website&amp;utm_campaign=WBR-chatgpt-work-series-sales-banner>)
-
 # Intelligence for your sales team’s most ambitious work
 
 Sales teams use ChatGPT Work to turn customer signals into action, give sellers more time with customers, and lead at the new pace of revenue.
@@ -196,7 +190,7 @@ Explore practical sales prompts, implementation guidance, and examples for getti
 
 ![Abstract blue art card for ChatGPT Work webinar resources.](https://images.ctfassets.net/kftzwdyauwt9/6Ha7QQ4NC6ajzW0cJwlzzp/7a6339ffc1cd5cf02d2b58e8cac019ec/Webinar_art_card.png?w=3840&q=90&fm=webp)
 
-## [Register for webinarSee how our Sales team uses ChatGPT Work to focus sellers on the right opportunities, risks, and next steps.(opens in a new window)](<https://webinar.openai.com/chatgpt-work-series/sales/?utm_medium=website&utm_campaign=WBR-chatgpt-work-series-sales-resources>)
+## [Watch the webinarSee how our Sales team uses ChatGPT Work to focus sellers on the right opportunities, risks, and next steps.(opens in a new window)](<https://webinar.openai.com/chatgpt-work-series/sales/?utm_medium=website&utm_campaign=WBR-chatgpt-work-series-sales-resources>)
 
 ![How sales teams use Codex > card image](https://images.ctfassets.net/kftzwdyauwt9/1O4te2wMh6O77eDV6kapG3/02845b054a09297b9fada40c4cc9a71f/sales_teams.png?w=3840&q=90&fm=webp)
 
