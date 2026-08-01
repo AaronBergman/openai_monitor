@@ -38,13 +38,16 @@ OpenAI
 
 Snorkel AI is the frontier AI data lab, helping teams build the data and environments behind high-performing frontier and agentic AI. We help enterprises and government agencies build specialized agents with expert-curated data and custom evals, transforming OpenAI's frontier models into AI workflows they can measure, trust, and operationalize in regulated and mission-critical environments. Founded out of the Stanford AI Lab in 2019, Snorkel works with leading AI labs and enterprises to move from better data to better outcomes.
 
-![Select Partner](/images/partner-tier-badges/OAI_PartnerNetwork_SelectPartner.svg?dpl=dpl_91jyHo7KSzsHitLEzTYymS879fKY)
+![Select Partner](/images/partner-tier-badges/OAI_PartnerNetwork_SelectPartner.svg?dpl=dpl_2nDwFBphwWZQZcYgWgpfCWCFJgWW)
 
 Countries served
     United States
 
 Industries
     Financial Services, Government & Public Sector, Healthcare & Life Sciences, Media & Entertainment, and Telecommunications
+
+Joint partners
+    AWS
 
 Research
 

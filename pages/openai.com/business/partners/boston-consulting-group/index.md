@@ -38,13 +38,16 @@ OpenAI
 
 Boston Consulting Group bridges the gap between ambition and outcomes for the world's leading companies and organizations. We are built for this era of unprecedented change — bringing strategic clarity rooted in over 60 years of deep domain knowledge, combined with applied AI shaped by our practitioners. BCG works shoulder-to-shoulder with CEOs across industries and geographies to deliver transformative impact at scale: stronger returns, transferred capabilities, and change that sticks.
 
-![Elite Partner](/images/partner-tier-badges/OAI_PartnerNetwork_ElitePartner.svg?dpl=dpl_91jyHo7KSzsHitLEzTYymS879fKY)
+![Elite Partner](/images/partner-tier-badges/OAI_PartnerNetwork_ElitePartner.svg?dpl=dpl_2nDwFBphwWZQZcYgWgpfCWCFJgWW)
 
 Countries served
     Global
 
 Industry
     Cross-industry
+
+Joint partners
+    AWS
 
 Partner Summit 2026 Award
     Enterprise AI Impact Partner of the Year

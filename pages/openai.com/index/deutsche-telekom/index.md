@@ -151,13 +151,13 @@ More than 1 million businesses around the world are achieving meaningful results
 
 [Advancing responsible AI across EuropeGlobal AffairsJul 31, 2026](</index/advancing-responsible-ai-across-europe/>)
 
-![price-performance-frontier art-card 1x1](https://images.ctfassets.net/kftzwdyauwt9/38nqRc3lEvizMieZlPcd98/25da92d68f02fcc40d5a4dc48cca96cd/price-performance-frontier_art-card_1x1.png?w=3840&q=90&fm=webp)
+![Building abundant intelligence — cover image](https://images.ctfassets.net/kftzwdyauwt9/36GHu3UGXM5RSmEuBptpXK/ed1ba0e606b4c32957e4cdbeb5a6c272/Frame__9_.png?w=3840&q=90&fm=webp)
 
-[Advancing the price-performance frontier with GPT 5.6ProductJul 30, 2026](</index/advancing-the-price-performance-frontier-with-gpt-5-6/>)
+[Building abundant intelligenceCompanyJul 31, 2026](</index/building-abundant-intelligence/>)
 
-![avatarin customer story card image](https://images.ctfassets.net/kftzwdyauwt9/2yteyY2MwStbjC0CtyqDiC/cfd157c644a8e10d1407f98741929528/avatarin-1x1-contentful.png?w=3840&q=90&fm=webp)
+![Univé customer story art card image](https://images.ctfassets.net/kftzwdyauwt9/4wUTx4QQxLp3nol3gwzH7f/8da5438602d7b0122180261ffc2d804f/oai_unive_1x1.png?w=3840&q=90&fm=webp)
 
-[How avatarin built a 24/7 retail agent with GPT-RealtimeJul 30, 2026](</index/avatarin/>)
+[Univé builds an AI-ready workforceJul 31, 2026](</index/unive/>)
 
 Research
 

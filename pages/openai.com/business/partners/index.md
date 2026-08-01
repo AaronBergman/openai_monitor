@@ -110,6 +110,10 @@ CHIEFTNS
 
 ![CHIEFTNS logo](https://images.ctfassets.net/kftzwdyauwt9/63aR4cVzIG6TV4HOtNJAH0/2c401fe133d437b2b77a91251e4a959d/CHIEFTNS_square_light.svg?w=3840&q=90)
 
+Clarinet
+
+![Clarinet logo](https://images.ctfassets.net/kftzwdyauwt9/Cun7DSRXKXK1X3ZhM4JEZ/a7a29ac0acd8e772deb5d83a31fdd40d/clarinet-square-light.svg?w=3840&q=90)
+
 Cloudwerx
 
 ![Cloudwerx logo](https://images.ctfassets.net/kftzwdyauwt9/18HmYVDFm3nGcgYctMdDdK/64db2282fc7cad540024082b11bedfdc/phia-select-46-squareLight.svg?w=3840&q=90)
@@ -353,6 +357,10 @@ CGI
 CHIEFTNS
 
 ![CHIEFTNS logo](https://images.ctfassets.net/kftzwdyauwt9/63aR4cVzIG6TV4HOtNJAH0/2c401fe133d437b2b77a91251e4a959d/CHIEFTNS_square_light.svg?w=3840&q=90)
+
+Clarinet
+
+![Clarinet logo](https://images.ctfassets.net/kftzwdyauwt9/Cun7DSRXKXK1X3ZhM4JEZ/a7a29ac0acd8e772deb5d83a31fdd40d/clarinet-square-light.svg?w=3840&q=90)
 
 Cloudwerx
 

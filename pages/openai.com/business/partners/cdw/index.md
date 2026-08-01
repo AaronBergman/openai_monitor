@@ -38,13 +38,16 @@ OpenAI
 
 CDW is a Fortune 500 technology solutions and services provider that serves more than 250,000 customers. The company helps organizations navigate an increasingly complex, AI-driven IT landscape. Beyond technology products, CDW delivers full-lifecycle services—advising, designing, orchestrating and managing solutions across cloud, security, networking, data center, digital workspace and artificial intelligence. In partnership with more than 1,000 leading technology brands, CDW helps customers evaluate, adopt and scale AI responsibly, pairing deep technical expertise with the services needed to turn emerging technology investments into lasting business outcomes and long-term value.
 
-![Select Partner](/images/partner-tier-badges/OAI_PartnerNetwork_SelectPartner.svg?dpl=dpl_91jyHo7KSzsHitLEzTYymS879fKY)
+![Select Partner](/images/partner-tier-badges/OAI_PartnerNetwork_SelectPartner.svg?dpl=dpl_2nDwFBphwWZQZcYgWgpfCWCFJgWW)
 
 Countries served
     Global
 
 Industry
     Cross-industry
+
+Joint partners
+    AWS
 
 Research
 

@@ -42,13 +42,16 @@ With deep expertise across government, financial services, healthcare, telecommu
 
 Through our partnership with OpenAI, we design, deploy and scale secure agentic AI solutions that accelerate innovation, improve productivity, and deliver measurable business outcomes.
 
-![Advanced Partner](/images/partner-tier-badges/OAI_PartnerNetwork_AdvancedPartner.svg?dpl=dpl_91jyHo7KSzsHitLEzTYymS879fKY)
+![Advanced Partner](/images/partner-tier-badges/OAI_PartnerNetwork_AdvancedPartner.svg?dpl=dpl_2nDwFBphwWZQZcYgWgpfCWCFJgWW)
 
 Countries served
     Global
 
 Industry
     Cross-industry
+
+Joint partners
+    AWS and Oracle
 
 Partner Summit 2026 Award
     Trusted Enterprise Deployment Award

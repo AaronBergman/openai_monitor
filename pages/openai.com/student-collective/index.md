@@ -166,7 +166,7 @@ Yes
 
 No
 
-Are you currently participating in any formal capacity with another company or program? *This includes roles such as intern, fellow, ambassador, campus representative, student advisor, researcher, contractor, or formal volunteer, or other positions. Campus Leads may not hold a formal role with another company or program while participating.
+Are you currently participating in any formal capacity with another company or program? *Campus Leads may not simultaneously hold a formal ambassador, representative, or similar role with another company or competing program. You may still participate in campus clubs, student organizations, internships, research, and other leadership roles.
 
 Yes
 
@@ -363,7 +363,7 @@ We know that campus programming is most successful when two people can lean on e
 
 ### Can I participate in another ambassador program while being a Campus Lead?
 
-Campus Leads cannot participate in another ambassador program while serving in this role. You’re still welcome to participate in campus clubs, student organizations, research groups, internships, and other leadership roles, as long as they don’t create a conflict or prevent you from meeting the program commitment.
+Campus Leads may not simultaneously hold a formal ambassador, representative, or equivalent role with another company or competing program. You’re still welcome to participate in campus clubs, student organizations, research groups, internships, and other leadership roles, as long as they don’t create a conflict or prevent you from meeting the program commitment.
 
 ### Can postgraduate students apply?
 

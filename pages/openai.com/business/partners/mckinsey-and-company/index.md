@@ -38,13 +38,16 @@ OpenAI
 
 McKinsey and OpenAI help organizations across all industries turn agentic AI ambition into sustained enterprise impact. We bring McKinsey’s expertise in strategy, industry, transformation, and change management, along with QuantumBlack’s leading AI delivery capabilities. Coordinated with OpenAI’s frontier technology, product, research, and forward-deployed engineering teams, we help clients rewire. We identify high-value use cases, redesign workflows, build and deploy production-grade agents, integrate tools such as Frontier, ChatGPT Enterprise, Codex, and APIs, and scale adoption with governance, evaluation, optimization, and value assurance.
 
-![Elite Partner](/images/partner-tier-badges/OAI_PartnerNetwork_ElitePartner.svg?dpl=dpl_91jyHo7KSzsHitLEzTYymS879fKY)
+![Elite Partner](/images/partner-tier-badges/OAI_PartnerNetwork_ElitePartner.svg?dpl=dpl_2nDwFBphwWZQZcYgWgpfCWCFJgWW)
 
 Countries served
     Global
 
 Industry
     Cross-industry
+
+Joint partners
+    AWS
 
 Partner Summit 2026 Award
     Enterprise Reinvention Leadership Award

@@ -150,17 +150,17 @@ More than 1 million businesses around the world are achieving meaningful results
 
 ## Keep reading
 
+![math-breakthroughs art-card 1x1](https://images.ctfassets.net/kftzwdyauwt9/2zkd5RIOug4FcEj62mdSF4/3ea9e19c0456289c69f0d839cc929cb2/math-breakthroughs_art-card_1x1.png?w=3840&q=90&fm=webp)
+
+[Ten advances in mathematics and theoretical computer sciencePublicationAug 1, 2026](</index/ten-advances-in-mathematics/>)
+
 ![Advancing responsible AI across Europe — card](https://images.ctfassets.net/kftzwdyauwt9/1ZPK8n0N6mvnSq50i6b1zZ/9229a595a2f8fea9d0189ce9aa2f634b/card.png?w=3840&q=90&fm=webp)
 
 [Advancing responsible AI across EuropeGlobal AffairsJul 31, 2026](</index/advancing-responsible-ai-across-europe/>)
 
-![price-performance-frontier art-card 1x1](https://images.ctfassets.net/kftzwdyauwt9/38nqRc3lEvizMieZlPcd98/25da92d68f02fcc40d5a4dc48cca96cd/price-performance-frontier_art-card_1x1.png?w=3840&q=90&fm=webp)
+![Building abundant intelligence — cover image](https://images.ctfassets.net/kftzwdyauwt9/36GHu3UGXM5RSmEuBptpXK/ed1ba0e606b4c32957e4cdbeb5a6c272/Frame__9_.png?w=3840&q=90&fm=webp)
 
-[Advancing the price-performance frontier with GPT 5.6ProductJul 30, 2026](</index/advancing-the-price-performance-frontier-with-gpt-5-6/>)
-
-![ARC-AGI-3 art-card 1x1](https://images.ctfassets.net/kftzwdyauwt9/71xyJRWnTkM6EW1JKDUc59/91d2690ff9e7abaa975b4a5f64089056/ARC-AGI-3_art-card_1x1.png?w=3840&q=90&fm=webp)
-
-[How enabling two settings tripled our scores on the ARC-AGI-3 benchmarkResearchJul 29, 2026](</index/how-two-settings-tripled-our-arc-agi-3-scores/>)
+[Building abundant intelligenceCompanyJul 31, 2026](</index/building-abundant-intelligence/>)
 
 Research
 
