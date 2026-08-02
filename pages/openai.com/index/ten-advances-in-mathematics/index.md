@@ -61,11 +61,11 @@ We provide new results for the following problems. The results were achieved by 
   1. **High-dimensional sphere packing.** New upper bounds on sphere-packing density down to the Cohn–Elkies threshold.
   2. **Binary and spherical codes:** Exponentially improved bounds on the maximum size of binary codes at any prescribed minimum distance, with analogous results for high-dimensional spherical codes.
   3. **Non-sofic groups.** A construction establishing the existence of non-sofic groups, addressing a central open question in group theory.
-  4. **Connes’s rigidity conjecture.** Disproof of a longstanding conjecture that certain groups are uniquely determined by their von Neumann algebras
+  4. **Connes’s rigidity conjecture.** Disproof of a longstanding conjecture that certain groups are uniquely determined by their von Neumann algebras.
   5. **Arithmetic circuit complexity.** New lower bounds for computing the permanent using arithmetic circuits and formulas, including an arithmetic-formula lower bound of order n4/log n.
   6. **Quantum parallel repetition.** An exponential parallel repetition theorem for general two-player quantum games, extending a foundational principle from classical complexity theory.
   7. **Closest vector problem.** Polynomial-factor hardness of approximation for the closest vector problem, a foundational lattice question related to post-quantum cryptography.
-  8. **Ehrhart’s volume conjecture.** Determining, in every dimension, the maximum possible volume of a convex body whose centroid is its only interior lattice point
+  8. **Ehrhart’s volume conjecture.** Determining, in every dimension, the maximum possible volume of a convex body whose centroid is its only interior lattice point.
   9. **Multicolor Ramsey numbers.** A superexponential lower bound for multicolor triangle Ramsey numbers, resolving Erdős problem 183.
   10. **Extremal number conjectures.** Results on the compactness and degeneracy conjectures in extremal graph theory, resolving Erdős problems 146 and 180.
 

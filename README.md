@@ -4,6 +4,41 @@ A daily log of every change to OpenAI's public website — what appeared, what d
 
 ---
 
+## 2026-08-02 — Run `2026-08-02T09-16Z`
+
+**Fetch time:** 2026-08-02T09:20:00Z
+**Baseline:** 2026-08-01T09-16Z (consecutive day)
+**Stats:** 1547 total URLs | +1 added | 73 updated | -0 removed | 0 anomalies | 35 sub-sitemaps
+
+**TL;DR:** A quiet day with one loose end tied up: `/business/solutions/finance/workflows/`, a page that was linked-but-not-yet-sitemapped when first spotted on 2026-07-31, finally went live — a showcase of 16 real finance workflows (planning, forecasting, close, treasury, investor relations) that OpenAI's own Finance team built with ChatGPT Work and Codex, each one linking to the builder's original LinkedIn post. Otherwise, of the 73 "updated" sitemap entries, essentially none reflect new writing: 62 are partner-directory pages that only picked up a redeploy's asset cache-buster (no text changed), 9 are pages whose `<lastmod>` moved with zero detectable content change (likely CMS "touch" republishes), and 2 (`avatarin`, `advancing-responsible-ai-across-europe`) just gained new translated-language versions. The only real edits: the homepage rotated a featured-story tile (swapped in "Ten advances in mathematics," swapped out a March misalignment-monitoring post), and that mathematics post itself got two missing periods added to its list items.
+
+### Anomalies
+
+None this run. No future-dated or backward-moving `<lastmod>` values, no reappeared URLs, no sub-sitemap migrations, and the one new URL's timestamp is same-day (not backdated).
+
+### Notable additions
+
+- **[How OpenAI's Finance team uses AI](pages/openai.com/business/solutions/finance/workflows/index.md)** (`/business/solutions/finance/workflows/`) — showcases 16 real internal workflows across planning, forecasting, monthly close, treasury, and investor relations, each linking to a LinkedIn post from the OpenAI finance professional who built it with ChatGPT Work and Codex. Promotes a companion "finance webinar" hosted on a separate subdomain. This closes out a pending item first flagged in the 2026-07-31 run, when the page was linked from `/business/solutions/finance/` but hadn't appeared in the sitemap yet.
+
+### Notable updates
+
+- **Homepage** swapped a featured-story tile: added a link to the new *[Ten advances in mathematics and theoretical computer science](pages/openai.com/index/ten-advances-in-mathematics/index.md)* publication (published Aug 1), dropped the tile for *"How we monitor internal coding agents for misalignment"* (a March safety post). Routine content rotation.
+- **[Ten advances in mathematics and theoretical computer science](pages/openai.com/index/ten-advances-in-mathematics/index.md)** — trivial copyedit, two list items ("Connes's rigidity conjecture," "Ehrhart's volume conjecture") gained a missing trailing period.
+- **Localization expansion:** [`index/avatarin/`](pages/openai.com/index/avatarin/index.md) gained 12 new translated-language versions (Catalan, Spanish, Farsi, Filipino, Gujarati, Armenian, Kazakh, Marathi, Burmese, Punjabi, Tamil, Urdu); [`index/advancing-responsible-ai-across-europe/`](pages/openai.com/index/advancing-responsible-ai-across-europe/index.md) gained a Burmese version. English content unchanged in both.
+
+### Routine updates
+
+62 `/business/partners/*` pages (the full consulting-partner roster — Accenture, Bain, BCG, KPMG, McKinsey, PwC, and others) picked up only a badge-image cache-busting parameter from a platform redeploy between 19:46–19:48 UTC on Aug 1, with no text changes. 9 more pages (`api-fast-mode`, `api-reserved-tier`, `api-scale-tier`, `introducing-gpt-live`, `unive`, `ad-tools-subprocessors`, `ad-tools-terms`, `research/verify`, `student-collective`) had their `<lastmod>` bumped with zero detectable change in rendered content — read as silent CMS republishes rather than edits. Full per-URL breakdown in [`runs/2026-08-02T09-16Z/analysis.md`](runs/2026-08-02T09-16Z/analysis.md).
+
+### Removals
+
+None this run.
+
+Full analysis: [runs/2026-08-02T09-16Z/analysis.md](runs/2026-08-02T09-16Z/analysis.md)
+
+---
+*Stats: 1,547 total URLs | +1 added | 73 updated | -0 removed | 0 anomalies | 35 sub-sitemaps*
+
 ## 2026-08-01 — Run `2026-08-01T09-16Z`
 
 **Fetch time:** 2026-08-01T09:17:39Z
