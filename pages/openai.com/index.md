@@ -101,6 +101,10 @@ ProductJul 23, 20267 min read](</index/health-in-chatgpt/>)
 
 [View all](</research/index/>)
 
+![math-breakthroughs art-card 1x1](https://images.ctfassets.net/kftzwdyauwt9/2zkd5RIOug4FcEj62mdSF4/3ea9e19c0456289c69f0d839cc929cb2/math-breakthroughs_art-card_1x1.png?w=3840&q=90&fm=webp)
+
+[Ten advances in mathematics and theoretical computer sciencePublicationAug 1, 2026](</index/ten-advances-in-mathematics/>)
+
 ![Geometry > ArtCard > Polynomial Construction](https://images.ctfassets.net/kftzwdyauwt9/6PqehRMmS1oVuin6e3VWYq/b96f1c7b5a2ac2c08a887591b8486ed3/ArtCard-Polynomial-Construction.png?w=3840&q=90&fm=webp)
 
 [An OpenAI model has disproved a central conjecture in discrete geometryResearchMay 20, 2026](</index/model-disproves-discrete-geometry-conjecture/>)
@@ -108,10 +112,6 @@ ProductJul 23, 20267 min read](</index/health-in-chatgpt/>)
 ![OAI GPT-Rosaling Art Card 1x1](https://images.ctfassets.net/kftzwdyauwt9/6DOv5mMIaI2sbsgdDbeiiY/d2d071aac3555468336b870cfeb9736e/OAI_GPT-Rosaling_Art_Card_1x1.png?w=3840&q=90&fm=webp)
 
 [Introducing GPT-Rosalind for life sciences researchResearchApr 16, 2026](</index/introducing-gpt-rosalind/>)
-
-![OAI Monitoring internal deployments for loss of control risks Art Card 1x1](https://images.ctfassets.net/kftzwdyauwt9/5GCZHArpg3FLRTissb13aX/50b2716c198dbbc4cf241b05faeee97c/OAI_Monitoring_internal_deployments_for_loss_of_control_risks_Art_Card_1x1.png?w=3840&q=90&fm=webp)
-
-[How we monitor internal coding agents for misalignmentSafetyMar 19, 2026](</index/how-we-monitor-internal-coding-agents-misalignment/>)
 
 ## OpenAI for business
 
