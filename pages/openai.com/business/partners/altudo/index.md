@@ -38,7 +38,7 @@ OpenAI
 
 We help organizations advance their total experience journey across customer & employee experience to drive revenue growth, stronger margins, reduced support costs as outcomes. We design and deploy custom AI agents, RAG & enterprise knowledge systems, multi-agent workflows & industry-specific AI solutions that boost productivity & speed decisions. We help enterprises scale adoption, support enablement & ongoing optimization. Our delivery is guided by principles of responsible AI, observability & eval frameworks built into every engagement. By combining strategic advisory with hands-on delivery, Altudo makes humans and AI work together not as tool, but as teammates.
 
-![Select Partner](/images/partner-tier-badges/OAI_PartnerNetwork_SelectPartner.svg?dpl=dpl_2nDwFBphwWZQZcYgWgpfCWCFJgWW)
+![Select Partner](/images/partner-tier-badges/OAI_PartnerNetwork_SelectPartner.svg?dpl=dpl_BGzddsgbrhNP2GHoGw52QigUswME)
 
 Countries served
     India, United States, and Canada
