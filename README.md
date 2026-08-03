@@ -4,6 +4,35 @@ A daily log of every change to OpenAI's public website — what appeared, what d
 
 ---
 
+## 2026-08-03 — Run `2026-08-03T09-18Z`
+
+**Fetch time:** 2026-08-03T09:24:14Z
+**Baseline:** 2026-08-02T09-16Z (consecutive day)
+**Stats:** 1547 total URLs | +0 added | 71 updated | -0 removed | 0 anomalies | 35 sub-sitemaps
+
+**TL;DR:** No new or removed pages today, and of the 71 sitemap entries with a bumped `<lastmod>`, almost none reflect real edits: 55 are partner-directory pages that only picked up a redeploy's badge-image cache-buster, 11 more show zero detectable content change at all, and one (`index/ntt-data/`) just had its "keep reading" sidebar rotate. The one real edit worth flagging: two days after publishing "Ten advances in mathematics and theoretical computer science," OpenAI quietly walked back its opening claim from *ten problems with "no progress... for at least a decade"* to *ten problems that were "resolved or advanced substantially"* — a meaningfully weaker claim than what shipped originally. Also worth a note to future-self: this run's first-pass diff logic flagged 123 "sub-sitemap migrations" that turned out to be a false alarm from a tooling bug, not a real reshuffle — see Anomalies below.
+
+### Anomalies
+
+None on the live site. One tooling false-positive caught and corrected before publishing: a first-pass diff mistakenly reported 123 URLs as having moved between sitemap sections (e.g. `/index/gpt-5-6/` "migrating" from `product` to `release`). Root cause: 215 URLs in OpenAI's sitemap are legitimately cross-listed in more than one sub-sitemap at once, and the first-pass script only kept one sub-sitemap name per URL, so a difference in file-processing order between snapshots produced phantom migrations. Rebuilding the comparison with full multi-membership tracking confirmed **zero actual sub-sitemap changes** this run. No future-dated or backward-moving `<lastmod>` values found among the 71 genuinely updated URLs.
+
+### Notable updates
+
+- **[Ten advances in mathematics and theoretical computer science](pages/openai.com/index/ten-advances-in-mathematics/index.md)** — lead paragraph softened, two days post-publication. Was: *"...ten results to problems that have been open and have seen no progress on the main result for at least a decade, and in most cases much longer."* Now: *"...ten results, each of which resolves or makes substantial progress on a long-standing open problem."* The new wording explicitly allows for partial progress instead of claiming full resolution with zero progress in a decade-plus — a real walk-back, not a copyedit.
+
+### Routine updates
+
+55 `/business/partners/*` pages (Accenture, Bain, BCG, KPMG, McKinsey, PwC, and the rest of the consulting-partner roster) picked up only a badge-image cache-busting parameter from a redeploy, no text changed. 4 of those partner pages (`altimetrik/`, `blend360/`, `ml6/`, `zs/`) also rendered a different nav/header variant on this fetch than the other 56 — same server-side A/B-testing artifact already logged in the 2026-08-01 run, not a new site change. 11 more pages (`api-reserved-tier`, `api-scale-tier`, `advancing-the-price-performance-frontier-with-gpt-5-6`, `avatarin`, `how-news-organizations-are-using-ai`, `introducing-gpt-live`, `unive`, `ad-tools-subprocessors`, `ad-tools-terms`, `research/verify`, `student-collective`) had `<lastmod>` bumped with zero detectable content change. `index/ntt-data/` only rotated its "keep reading" sidebar. Full per-URL breakdown in [`runs/2026-08-03T09-18Z/analysis.md`](runs/2026-08-03T09-18Z/analysis.md).
+
+### Removals
+
+None this run.
+
+Full analysis: [runs/2026-08-03T09-18Z/analysis.md](runs/2026-08-03T09-18Z/analysis.md)
+
+---
+*Stats: 1,547 total URLs | +0 added | 71 updated | -0 removed | 0 anomalies | 35 sub-sitemaps*
+
 ## 2026-08-02 — Run `2026-08-02T09-16Z`
 
 **Fetch time:** 2026-08-02T09:20:00Z

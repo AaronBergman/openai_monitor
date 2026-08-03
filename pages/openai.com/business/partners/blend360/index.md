@@ -1,28 +1,28 @@
 Skip to main content
 
-[](</>)[](</business/>)
+[](</>)
 
-  * Why OpenAI
+  * [Research](</research/index/>)
   * Products
-  * Solutions
-  * Resources
-  * [Customers](</business/customer-stories/>)
-  * [Pricing](</business/pricing/>)
+  * [Business](</business/>)
+  * [Developers](</api/>)
+  * [Company](</about/>)
+  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
 
 
 
-Try OpenAI[Contact sales](</contact-sales/>)
+Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
-  * Why OpenAI
+  * Research
   * Products
-  * Solutions
-  * Resources
-  * [Customers](</business/customer-stories/>)
-  * [Pricing](</business/pricing/>)
+  * Business
+  * Developers
+  * Company
+  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
 
 
 
-[Contact sales](</contact-sales/>)Try OpenAI
+[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)Login
 
 OpenAI
 
@@ -38,7 +38,7 @@ OpenAI
 
 Blend360 is a premier AI and data science services provider that helps organizations unlock growth, accelerate innovation, and solve complex business challenges. As an OpenAI services partner, we combine industry expertise, data science, engineering, and transformation capabilities with OpenAI’s technology to turn AI opportunities into scalable solutions. Our teams support clients from strategy and use-case prioritization through solution design, implementation, adoption, and governance. By combining world-class talent, data-driven thinking, and AI capabilities, Blend360 helps organizations redesign workflows, build AI-powered solutions, make smarter decisions, and create lasting value.
 
-![Select Partner](/images/partner-tier-badges/OAI_PartnerNetwork_SelectPartner.svg?dpl=dpl_2nDwFBphwWZQZcYgWgpfCWCFJgWW)
+![Select Partner](/images/partner-tier-badges/OAI_PartnerNetwork_SelectPartner.svg?dpl=dpl_BGzddsgbrhNP2GHoGw52QigUswME)
 
 Countries served
     Global

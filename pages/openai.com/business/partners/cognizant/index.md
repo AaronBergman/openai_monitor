@@ -38,7 +38,7 @@ OpenAI
 
 Cognizant is a leading technology services and consulting company that helps organizations modernize, innovate, and scale with AI. Combining deep industry expertise with advanced AI, cloud, data, and engineering capabilities, Cognizant partners with enterprises to transform business operations, enhance customer experiences, and accelerate growth. Through our AI Builder lens and focus on responsible AI, Cognizant delivers industry-specific solutions that embed intelligence into the flow of work - helping clients move from experimentation to enterprise-scale adoption and realize measurable business value.
 
-![Advanced Partner](/images/partner-tier-badges/OAI_PartnerNetwork_AdvancedPartner.svg?dpl=dpl_2nDwFBphwWZQZcYgWgpfCWCFJgWW)
+![Advanced Partner](/images/partner-tier-badges/OAI_PartnerNetwork_AdvancedPartner.svg?dpl=dpl_BGzddsgbrhNP2GHoGw52QigUswME)
 
 Countries served
     Global
