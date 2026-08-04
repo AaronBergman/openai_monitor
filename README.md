@@ -4,6 +4,49 @@ A daily log of every change to OpenAI's public website — what appeared, what d
 
 ---
 
+## 2026-08-04 — Run `2026-08-04T09-16Z`
+
+**Fetch time:** 2026-08-04T09:16:57Z
+**Baseline:** 2026-08-03T09-18Z (consecutive day)
+**Stats:** 1551 total URLs | +4 added | 97 updated | -0 removed | 0 anomalies | 35 sub-sitemaps
+
+**TL;DR:** OpenAI published an unusually combative rebuttal to Apple's trade-secrets lawsuit — screenshotted iMessages and lawyer emails included — plus a deep engineering writeup on its new full-duplex "GPT-Live" voice system and a telco customer story. A sitewide nav/template update added a "Supply Co." footer link and swapped GPT-5.3 Instant for GPT-5.6 in the "Latest Advancements" widget across every page touched this run. The rest of the 97 sitemap "updates" are near-total noise: 76 partner pages got only a badge-image cache-buster, 26 pages show zero detectable content change, and a few had sidebar link rotations. No anomalies.
+
+### Anomalies
+
+None. No future-dated or backward-moving `<lastmod>` values, no backdated new URLs, no reappeared URLs, and no sub-sitemap migrations (verified with full multi-membership tracking, following up on the false-positive tooling bug logged in the 2026-08-03 run).
+
+### New pages
+
+- **[Apple is getting this wrong](pages/openai.com/index/apple-is-getting-this-wrong/index.md)** — OpenAI's public, evidence-publishing rebuttal to Apple's lawsuit against two former Apple employees (Chang Liu, Tang Tan) now at OpenAI. Disputes Apple's timeline (says outside counsel emailed the wrong person over a name mix-up, that a claimed call with OpenAI's General Counsel never happened), and publishes screenshotted iMessages — Apple staff asking Liu, after his last day, for help locating files via AirDrop/iCloud — framed as evidence of Apple's own offboarding failures rather than data theft. Also publishes the raw counsel-to-counsel email thread. A notable escalation in tone for OpenAI's corporate blog.
+- **[How we built a realtime system for responsive voice AI in six months](pages/openai.com/index/continuous-voice-interaction-with-gpt-live/index.md)** — engineering deep-dive on GPT-Live, OpenAI's third-generation voice system: full-duplex audio (no separate "turn detector"), asynchronous delegation to frontier text models (e.g. GPT-5.5) mid-conversation, and a new open transport protocol, WARP (submitted to IETF), that cuts WebRTC session startup from 6 round trips to 1. Says this already powers ChatGPT Voice's new computer-control features and will underpin an upcoming "GPT-Live API."
+- **[Circles powers telco personalization with OpenAI technology](pages/openai.com/index/circles/index.md)** — customer story: Singapore telco-SaaS provider Circles built a multi-agent support system ("CareX," 65% autonomous resolution) and a personalization engine ("Xplore IQ," +22% ARPU, -9% churn in Singapore) on the OpenAI API, plus uses Codex internally for engineering.
+- **[SK Inc. AX](pages/openai.com/business/partners/sk-inc-ax/index.md)** — new Select-tier partner listing, a Korean "AX" services provider (manufacturing, energy, semiconductors, finance, telecom), joint partner with AWS.
+
+### Notable updates
+
+- **Sitewide nav/template change** (visible across all 97 refetched pages): footer "More" section gained a **"Supply Co."** link (the merch store itself isn't new — it's been in the sitemap since earlier runs, only the footer link is new); "Business" menu gained **"Customer Stories"** and **"Partner Network"** links; the "Latest Advancements" sidebar widget now shows **GPT-5.6** in place of **GPT-5.3 Instant**. A minor rendering glitch — the in-page table of contents now duplicates itself — appeared on at least 3 pages, likely from the same deploy.
+- **[business/partners/](pages/openai.com/business/partners/index.md)** — partner roster changed: SK Inc. AX added (see above), **TCS (Tata Consultancy Services) removed** from the logo grid. TCS never had its own dedicated partner subpage in this repo's history, so this is a directory-listing change only, not a URL removal.
+- **[research/verify](pages/openai.com/research/verify/index.md)** — the AI-content-detection upload tool now accepts **OGG** audio files in addition to its existing supported formats.
+- **[index/disrupting-malicious-uses-of-ai-stop-news-2024](pages/openai.com/index/disrupting-malicious-uses-of-ai-stop-news-2024/index.md)** — the four malicious domains listed had their security-convention "defanging" removed (`Euronewstop[.]co[.]uk` → `Euronewstop.co.uk`). Same domains, just re-formatted; worth a note since defanging exists specifically to prevent accidental engagement with these domains.
+- **[index/ten-advances-in-mathematics](pages/openai.com/index/ten-advances-in-mathematics/index.md)** — third straight day of edits to this page; today a purely cosmetic punctuation fix (colon → period) in one list item, unlike the 2026-08-03 substantive softening of its lead claim.
+- **[index/how-ai-is-expanding-what-people-do-at-work](pages/openai.com/index/how-ai-is-expanding-what-people-do-at-work/index.md)** — "Keep reading" strip rotated in a link to "Building abundant intelligence," routine.
+
+### Routine updates
+
+76 `/business/partners/*` pages picked up only a partner-tier-badge cache-busting parameter from a platform redeploy, no text changed (3 of them also rendered a different nav A/B variant, a repeat of the pattern logged in the 2026-08-01 and 2026-08-03 runs). 26 more pages (homepage, several Academy pages, API pricing/tier pages, several `index/` posts, ad-tools policy pages, etc.) had `<lastmod>` bumped with zero detectable content change. 3 pages (`avatarin`, `bbva`, `unive`) only rotated their "Keep reading" sidebar cards to feature today's 3 new posts. Full per-URL breakdown in [`runs/2026-08-04T09-16Z/analysis.md`](runs/2026-08-04T09-16Z/analysis.md).
+
+### Removals
+
+None this run.
+
+Full analysis: [runs/2026-08-04T09-16Z/analysis.md](runs/2026-08-04T09-16Z/analysis.md)
+
+---
+*Stats: 1,551 total URLs | +4 added | 97 updated | -0 removed | 0 anomalies | 35 sub-sitemaps*
+
+---
+
 ## 2026-08-03 — Run `2026-08-03T09-18Z`
 
 **Fetch time:** 2026-08-03T09:24:14Z

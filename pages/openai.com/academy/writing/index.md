@@ -26,15 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Why use ChatGPT for writing?
-
-  * Why use ChatGPT for writing?
-  * How to get started
-  * Example prompts
-  * Tips for success
-
-
-
 April 10, 2026
 
 OpenAI Academy
@@ -46,6 +37,22 @@ Draft, revise, and refine written work with clarity and intent.
 Loading…
 
 Share
+
+Why use ChatGPT for writing?
+
+  * Why use ChatGPT for writing?
+  * How to get started
+  * Example prompts
+  * Tips for success
+
+
+
+  * Why use ChatGPT for writing?
+  * How to get started
+  * Example prompts
+  * Tips for success
+
+
 
 ChatGPT can support many common workplace writing tasks: drafting from scratch, rewriting and tightening, adjusting tone for a specific audience, and turning rough notes into clear communication. It’s especially useful when you’re short on time, staring at a blank page, or trying to land the right level of polish.
 
@@ -90,7 +97,7 @@ Turn rough notes into a one-page internal update for leadership.| The audience i
 Rewrite a draft announcement so it is clearer and easier to scan.| The original draft (attached) is too long and uses internal jargon that not everyone understands.  
 | A revised version that is shorter, easier to scan, and written in plain language.  
   
-Refer back to [prompt engineering basics](</academy/prompting/>) for how to craft high-quality prompts.
+Refer back to prompt engineering basics for how to craft high-quality prompts.
 
 ## Tips for success
 
@@ -137,15 +144,15 @@ Discover additional guides and resources to help you build practical AI skills.
 
 ![Academy > Brainstorming > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/2QucAPrnCRSUoZDbQFyK4P/736e90884baf0e1ebe6cbcdb2ba8beaf/brainstorming.png?w=3840&q=90&fm=webp)
 
-[Brainstorming with ChatGPTOpenAI AcademyApr 10, 2026](</academy/brainstorming/>)
+[Brainstorming with ChatGPT | OpenAIOpenAI AcademyApr 10, 2026](</academy/brainstorming/>)
 
 ![Academy > Data analysis > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/6S4rnSSNtBmG5MDBcNa4rZ/9ada1bbe8e037b15dc94f274ab8039fc/data-analysis.png?w=3840&q=90&fm=webp)
 
-[Analyzing data with ChatGPTOpenAI AcademyApr 10, 2026](</academy/data-analysis/>)
+[Analyzing data with ChatGPT | OpenAIOpenAI AcademyApr 10, 2026](</academy/data-analysis/>)
 
 ![Academy > Responsible & safe use > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/pnlSy4KRU4PmRF0wWTCuV/d42ba9b2bcb46dec801b7f510054931a/responsible-use.png?w=3840&q=90&fm=webp)
 
-[Responsible and safe use of AI OpenAI AcademyApr 10, 2026](</academy/responsible-and-safe-use/>)
+[Responsible and safe use of AI | OpenAIOpenAI AcademyApr 10, 2026](</academy/responsible-and-safe-use/>)
 
 Research
 
@@ -157,9 +164,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -196,6 +203,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -229,6 +238,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

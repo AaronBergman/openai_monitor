@@ -40,7 +40,7 @@ Clarinet is an AI enablement firm. We help organizations build fluency with Open
 
 Our interactive programs combine behavioral science with hands-on building: teams learn in the work they actually do, build alongside our experts, and leave with in-house capability that stays when the engagement ends. Clarinet has worked with more than 85 organizations and is led by practitioners who have run AI transformations at global consultancies, built AI products at frontier labs, and taught behavior change at scale.
 
-![Select Partner](/images/partner-tier-badges/OAI_PartnerNetwork_SelectPartner.svg?dpl=dpl_BGzddsgbrhNP2GHoGw52QigUswME)
+![Select Partner](/images/partner-tier-badges/OAI_PartnerNetwork_SelectPartner.svg?dpl=dpl_Hq9KUN5PrCk8e8YLUAxbf6EZSH9u)
 
 Countries served
     Global

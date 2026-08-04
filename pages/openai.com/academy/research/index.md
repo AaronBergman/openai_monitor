@@ -26,13 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-How to get started
-
-  * How to get started
-  * Tips for success
-
-
-
 April 10, 2026
 
 OpenAI Academy
@@ -44,6 +37,18 @@ Use ChatGPT to move from questions to evidence-backed insights and decisions.
 Loading…
 
 Share
+
+How to get started
+
+  * How to get started
+  * Tips for success
+
+
+
+  * How to get started
+  * Tips for success
+
+
 
 Researching with ChatGPT helps you move from question to evidence to decision more quickly. You can use it to gather and synthesize information, compare sources, and produce structured reports that include citations—so your output is easier to trust and easier to share. It’s useful for both quick orientation _and_ for deeper, multi-step investigations.
 
@@ -112,15 +117,15 @@ Discover additional guides and resources to help you build practical AI skills.
 
 ![Academy > Marketing > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/14MipR48ayyvUsaXwsG5Yr/c9a99c855ff1663fdd0c9d07b40cb8f2/marketing.png?w=3840&q=90&fm=webp)
 
-[ChatGPT for marketing teamsOpenAI AcademyApr 10, 2026](</academy/marketing/>)
+[ChatGPT for marketing teams | OpenAIOpenAI AcademyApr 10, 2026](</academy/marketing/>)
 
 ![Academy > Sales > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/1R29scy3v5zFLkNH0KaSVt/b8cf3723aecd035b28ce13081f5410cf/sales.png?w=3840&q=90&fm=webp)
 
-[ChatGPT for sales teamsOpenAI AcademyApr 10, 2026](</academy/sales/>)
+[ChatGPT for sales teams | OpenAIOpenAI AcademyApr 10, 2026](</academy/sales/>)
 
 ![Academy > Customer success > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/YV0SfzN3qIM6qCrQ3XTO0/b58c9038114293db5db3cc8832348a5c/customer-success.png?w=3840&q=90&fm=webp)
 
-[ChatGPT for customer success teamsOpenAI AcademyApr 10, 2026](</academy/customer-success/>)
+[ChatGPT for customer success teams | OpenAIOpenAI AcademyApr 10, 2026](</academy/customer-success/>)
 
 Research
 
@@ -132,9 +137,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -171,6 +176,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -204,6 +211,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)
