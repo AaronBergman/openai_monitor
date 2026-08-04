@@ -168,17 +168,17 @@ More than 1 million businesses around the world are achieving meaningful results
 
 ## Keep reading
 
-![Advancing responsible AI across Europe — card](https://images.ctfassets.net/kftzwdyauwt9/1ZPK8n0N6mvnSq50i6b1zZ/9229a595a2f8fea9d0189ce9aa2f634b/card.png?w=3840&q=90&fm=webp)
+![Apple is getting this wrong — cover image](https://images.ctfassets.net/kftzwdyauwt9/69tiLv6VbCayhCDzwJtUPy/1cb0058be13bd464469ecda47c8d1bce/Frame__12_.png?w=3840&q=90&fm=webp)
 
-[Advancing responsible AI across EuropeGlobal AffairsJul 31, 2026](</index/advancing-responsible-ai-across-europe/>)
+[Apple is getting this wrongCompanyAug 3, 2026](</index/apple-is-getting-this-wrong/>)
 
-![price-performance-frontier art-card 1x1](https://images.ctfassets.net/kftzwdyauwt9/38nqRc3lEvizMieZlPcd98/25da92d68f02fcc40d5a4dc48cca96cd/price-performance-frontier_art-card_1x1.png?w=3840&q=90&fm=webp)
+![Continuous voice interaction with GPT Live - art card](https://images.ctfassets.net/kftzwdyauwt9/3PyfDzfjOozLbJnaZIkRLD/6aef080bb4e7d6a6b8a6dc23436848db/gpt-live-art-card.png?w=3840&q=90&fm=webp)
 
-[Advancing the price-performance frontier with GPT 5.6ProductJul 30, 2026](</index/advancing-the-price-performance-frontier-with-gpt-5-6/>)
+[Continuous voice interaction with GPT LiveEngineeringAug 3, 2026](</index/continuous-voice-interaction-with-gpt-live/>)
 
-![avatarin customer story card image](https://images.ctfassets.net/kftzwdyauwt9/2yteyY2MwStbjC0CtyqDiC/cfd157c644a8e10d1407f98741929528/avatarin-1x1-contentful.png?w=3840&q=90&fm=webp)
+![Circles customer story card and hero image](https://images.ctfassets.net/kftzwdyauwt9/5VkfxmlpCs54yu0Y5pywQ1/f787f9398ab67b7f3dcf8a7e9f421088/oai_Circles_1x1.png?w=3840&q=90&fm=webp)
 
-[How avatarin built a 24/7 retail agent with GPT-RealtimeJul 30, 2026](</index/avatarin/>)
+[Circles powers telco personalization with OpenAI technologyAug 3, 2026](</index/circles/>)
 
 Research
 

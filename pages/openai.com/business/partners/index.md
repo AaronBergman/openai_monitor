@@ -242,6 +242,10 @@ SIA
 
 ![Sia logo](https://images.ctfassets.net/kftzwdyauwt9/17YTMrpfaiIKHQWppl4bJr/0f3f22de43c1aa61e4072d909977475f/sia-partners-square-light.svg?w=3840&q=90)
 
+SK Inc. AX
+
+![SK Inc. AX logo](https://images.ctfassets.net/kftzwdyauwt9/3EMnbLGQLQ2OjLDD0pJZWM/e1cb3fad27fe2dd91f651e490f5a3e9f/sk-inc-ax-square-light.svg?w=3840&q=90)
+
 Slalom
 
 ![Slalom logo](https://images.ctfassets.net/kftzwdyauwt9/7LryOfmv03Ymfgx7saxJH6/3d0cece0236a17fc784746d4b995ca77/slalom-square-light.svg?w=3840&q=90)
@@ -257,10 +261,6 @@ Snowflake
 statworx
 
 ![statworx logo](https://images.ctfassets.net/kftzwdyauwt9/Yx30LAXRjjMmlOsGr52fj/1141616753f711fc5451ac2a717d28d0/statworx-square-light.svg?w=3840&q=90)
-
-TCS
-
-![TCS logo](https://images.ctfassets.net/kftzwdyauwt9/55P4y3cpv0If7lYmQZCHOc/eda7195f9936d398c4ae891768b16741/tcs-square-light.svg?w=3840&q=90)
 
 Thinking Machines Data Science
 
@@ -490,6 +490,10 @@ SIA
 
 ![Sia logo](https://images.ctfassets.net/kftzwdyauwt9/17YTMrpfaiIKHQWppl4bJr/0f3f22de43c1aa61e4072d909977475f/sia-partners-square-light.svg?w=3840&q=90)
 
+SK Inc. AX
+
+![SK Inc. AX logo](https://images.ctfassets.net/kftzwdyauwt9/3EMnbLGQLQ2OjLDD0pJZWM/e1cb3fad27fe2dd91f651e490f5a3e9f/sk-inc-ax-square-light.svg?w=3840&q=90)
+
 Slalom
 
 ![Slalom logo](https://images.ctfassets.net/kftzwdyauwt9/7LryOfmv03Ymfgx7saxJH6/3d0cece0236a17fc784746d4b995ca77/slalom-square-light.svg?w=3840&q=90)
@@ -505,10 +509,6 @@ Snowflake
 statworx
 
 ![statworx logo](https://images.ctfassets.net/kftzwdyauwt9/Yx30LAXRjjMmlOsGr52fj/1141616753f711fc5451ac2a717d28d0/statworx-square-light.svg?w=3840&q=90)
-
-TCS
-
-![TCS logo](https://images.ctfassets.net/kftzwdyauwt9/55P4y3cpv0If7lYmQZCHOc/eda7195f9936d398c4ae891768b16741/tcs-square-light.svg?w=3840&q=90)
 
 Thinking Machines Data Science
 

@@ -84,10 +84,10 @@ As part of our disruption of this network, we have shared indicators with the re
 
 ## Domains associated with this activity
 
-  * Euronewstop[.]co[.]uk
-  * Newstop[.]africa
-  * Britishtalks[.]com
-  * Britishattitudes[.]com
+  * Euronewstop.co.uk
+  * Newstop.africa
+  * Britishtalks.com
+  * Britishattitudes.com
 
 
 

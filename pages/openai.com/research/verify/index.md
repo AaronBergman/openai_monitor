@@ -30,7 +30,7 @@ OpenAI
 
 Upload an image or audio file to check for signals that it was generated with OpenAI tools.
 
-Upload a fileDrag and drop or click to upload a file.Supported formats: PNG, JPG, WEBP, MP3, WAV, AAC, FLAC, OPUS, PCM
+Upload a fileDrag and drop or click to upload a file.Supported formats: PNG, JPG, WEBP, MP3, WAV, AAC, FLAC, OGG, OPUS, PCM
 
 By uploading a file, you agree to our [Terms](</policies/terms-of-use/>) and have read our [Privacy Policy](</policies/privacy-policy/>).
 
