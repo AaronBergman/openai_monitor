@@ -118,7 +118,7 @@ Your file transfer is a challenge.
 
 1/23/2026 7:33:24 PM
 
-![](https://images.ctfassets.net/kftzwdyauwt9/2VFWglyaCDGyJvtqdKX7nL/c354a5339e1def7e1250b9c6a615d604/codex-clipboard-87c934ba-ba71-4369-9e94-3c6481bc38ff.png?w=1200&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/2VFWglyaCDGyJvtqdKX7nL/c354a5339e1def7e1250b9c6a615d604/codex-clipboard-87c934ba-ba71-4369-9e94-3c6481bc38ff.png?w=3840&q=90&fm=webp)
 
 Carlos Org Travel Summary Chang joined the spreadsheet. I think I’m going to have to hit the workday button before I’m complete. I just got a weird message that is making me nervous (see below), so I am going to go hit the workday button now.
 
@@ -272,7 +272,7 @@ Liked “I can always give you some fun side projects”
 
 2/14/2026 1:52:30 AM
 
-![](https://images.ctfassets.net/kftzwdyauwt9/4JDNAtAJJt6QR2Kd1LMr65/b6edaafc1c9a77efc75a594bdf2eb762/codex-clipboard-9c287106-d981-4e6b-938a-9203a5e8eb6f.png?w=1200&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/4JDNAtAJJt6QR2Kd1LMr65/b6edaafc1c9a77efc75a594bdf2eb762/codex-clipboard-9c287106-d981-4e6b-938a-9203a5e8eb6f.png?w=3840&q=90&fm=webp)
 
 [Redacted - Apple schematic] Bummer. . . you should have filed a [Redacted - Apple Information] with the details and put that next to the [Redacted - Apple Information] on the schematic. Now you owe me a beer.
 
@@ -424,6 +424,10 @@ OpenAI
 
 [View all](</news/>)
 
+![Continuous voice interaction with GPT Live - art card](https://images.ctfassets.net/kftzwdyauwt9/3PyfDzfjOozLbJnaZIkRLD/6aef080bb4e7d6a6b8a6dc23436848db/gpt-live-art-card.png?w=3840&q=90&fm=webp)
+
+[Continuous voice interaction with GPT LiveEngineeringAug 3, 2026](</index/continuous-voice-interaction-with-gpt-live/>)
+
 ![Building abundant intelligence — cover image](https://images.ctfassets.net/kftzwdyauwt9/36GHu3UGXM5RSmEuBptpXK/ed1ba0e606b4c32957e4cdbeb5a6c272/Frame__9_.png?w=3840&q=90&fm=webp)
 
 [Building abundant intelligenceCompanyJul 31, 2026](</index/building-abundant-intelligence/>)
@@ -431,10 +435,6 @@ OpenAI
 ![oai Science Academic Research Academic Research 1x1](https://images.ctfassets.net/kftzwdyauwt9/59kTmFmujYzNh0VgSvCgwe/e9334dd9944b5309f8ca2d44fdc71b6f/academic-research-card.png?w=3840&q=90&fm=webp)
 
 [Accelerating scientific discovery with ChatGPT for Academic ResearchersCompanyJul 29, 2026](</index/chatgpt-for-academic-researchers/>)
-
-![GPT-5.6 efficiency article — art card](https://images.ctfassets.net/kftzwdyauwt9/5ExPWhZDZXbZgTHE7aeE5d/0526071f749a3b44adff3c45a12322b7/How_GPT-5.6_fuses_frontier_intelligence_with_frontier_efficiency_ART_CARD__1_.png?w=3840&q=90&fm=webp)
-
-[How GPT-5.6 fuses frontier intelligence with frontier efficiencyEngineeringJul 29, 2026](</index/gpt-5-6-frontier-intelligence-efficiency/>)
 
 Research
 

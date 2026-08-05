@@ -1,28 +1,28 @@
 Skip to main content
 
-[](</>)[](</business/>)
+[](</>)
 
-  * Why OpenAI
+  * [Research](</research/index/>)
   * Products
-  * Solutions
-  * Resources
-  * [Customers](</business/customer-stories/>)
-  * [Pricing](</business/pricing/>)
+  * [Business](</business/>)
+  * [Developers](</api/>)
+  * [Company](</about/>)
+  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
 
 
 
-Try OpenAI[Contact sales](</contact-sales/>)
+Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
-  * Why OpenAI
+  * Research
   * Products
-  * Solutions
-  * Resources
-  * [Customers](</business/customer-stories/>)
-  * [Pricing](</business/pricing/>)
+  * Business
+  * Developers
+  * Company
+  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
 
 
 
-[Contact sales](</contact-sales/>)Try OpenAI
+[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)Login
 
 OpenAI[View all plugins](</business/plugins/>)
 
@@ -70,7 +70,7 @@ Highlight insights from a chat
 
 ## Resources
 
-### [Help centerRead more](<http://help.openai.com/en/articles/12552368-microsoft-teams-connector-for-chatgpt>)
+### [Help centerRead more](<https://help.openai.com/en/articles/12552368-microsoft-teams-connector-for-chatgpt>)
 
 ### [Plugin supportRead more](<https://support.microsoft.com/teams>)
 

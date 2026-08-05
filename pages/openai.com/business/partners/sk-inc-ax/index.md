@@ -1,28 +1,28 @@
 Skip to main content
 
-[](</>)[](</business/>)
+[](</>)
 
-  * Why OpenAI
+  * [Research](</research/index/>)
   * Products
-  * Solutions
-  * Resources
-  * [Customers](</business/customer-stories/>)
-  * [Pricing](</business/pricing/>)
+  * [Business](</business/>)
+  * [Developers](</api/>)
+  * [Company](</about/>)
+  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
 
 
 
-Try OpenAI[Contact sales](</contact-sales/>)
+Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
-  * Why OpenAI
+  * Research
   * Products
-  * Solutions
-  * Resources
-  * [Customers](</business/customer-stories/>)
-  * [Pricing](</business/pricing/>)
+  * Business
+  * Developers
+  * Company
+  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
 
 
 
-[Contact sales](</contact-sales/>)Try OpenAI
+[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)Login
 
 OpenAI
 
@@ -38,7 +38,7 @@ OpenAI
 
 SK Inc. AX is Korea's leading AX (Advanced eXperience) service provider, delivering differntiated value to clients across key industries such as manufacturing, energy/chemicals, semiconductors, utilities, finance, and telecommunications. We lead critical industry agendas through innovation in key areas including Cloud, Digital Factory, AI, Digital SHE/ESG. Based on extensive project experience, we have successfully expaned our AX business across the U.S., Japan, Europe, China supporting regional and global transformation through optimized local strategies and execution.
 
-![Select Partner](/images/partner-tier-badges/OAI_PartnerNetwork_SelectPartner.svg?dpl=dpl_Hq9KUN5PrCk8e8YLUAxbf6EZSH9u)
+![Select Partner](/images/partner-tier-badges/OAI_PartnerNetwork_SelectPartner.svg?dpl=dpl_GDoZq19TbBe6QsuxM389f5PkGete)
 
 Countries served
     South Korea

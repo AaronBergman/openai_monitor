@@ -1,28 +1,28 @@
 Skip to main content
 
-[](</>)[](</business/>)
+[](</>)
 
-  * Why OpenAI
+  * [Research](</research/index/>)
   * Products
-  * Solutions
-  * Resources
-  * [Customers](</business/customer-stories/>)
-  * [Pricing](</business/pricing/>)
+  * [Business](</business/>)
+  * [Developers](</api/>)
+  * [Company](</about/>)
+  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
 
 
 
-Try OpenAI[Contact sales](</contact-sales/>)
+Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
-  * Why OpenAI
+  * Research
   * Products
-  * Solutions
-  * Resources
-  * [Customers](</business/customer-stories/>)
-  * [Pricing](</business/pricing/>)
+  * Business
+  * Developers
+  * Company
+  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
 
 
 
-[Contact sales](</contact-sales/>)Try OpenAI
+[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)Login
 
 OpenAI
 
@@ -38,7 +38,7 @@ OpenAI
 
 Mantel is Australia and New Zealand’s leading enterprise AI consultancy, helping large enterprises turn AI ambition into secure, production-grade outcomes. We specialise in generative and agentic AI transformation, from solution development and agentic coding to workflow automation, AI governance and transforming product delivery lifecycle. With 850+ experts across AI, data, digital, cyber security and cloud, Mantel has deep engineering credibility with leading cloud and data partners AWS, Microsoft, Google, Databricks, and Snowflake, and engages more than 60% of the ASX Top 200 across financial services, healthcare, retail, insurance, mining, utilities, education and the public sector.
 
-![Select Partner](/images/partner-tier-badges/OAI_PartnerNetwork_SelectPartner.svg?dpl=dpl_Hq9KUN5PrCk8e8YLUAxbf6EZSH9u)
+![Select Partner](/images/partner-tier-badges/OAI_PartnerNetwork_SelectPartner.svg?dpl=dpl_GDoZq19TbBe6QsuxM389f5PkGete)
 
 Countries served
     Australia and New Zealand

@@ -140,17 +140,17 @@ More than 1 million businesses around the world are achieving meaningful results
 
 ## Keep reading
 
+![update-external-cyber-testing-incidents 1x1](https://images.ctfassets.net/kftzwdyauwt9/7oFUbOnJRSWvGV68vRvcQq/36673fabe9bf1643000994531bc76d2e/update-external-cyber-testing-incidents_1x1.png?w=3840&q=90&fm=webp)
+
+[Third-party cyber evaluations involving OpenAI modelsSecurityAug 4, 2026](</index/third-party-cyber-evaluations-involving-openai-models/>)
+
+![Edu plugin > card image ](https://images.ctfassets.net/kftzwdyauwt9/5vIZVUmoUSCImIDsK3jJiL/67f1d878e33f6bc5139094e933f454db/ArtCard.png?w=3840&q=90&fm=webp)
+
+[New ways to learn and teach with ChatGPT Work and CodexProductAug 4, 2026](</index/learn-teach-chatgpt-work-codex/>)
+
 ![Apple is getting this wrong — cover image](https://images.ctfassets.net/kftzwdyauwt9/69tiLv6VbCayhCDzwJtUPy/1cb0058be13bd464469ecda47c8d1bce/Frame__12_.png?w=3840&q=90&fm=webp)
 
 [Apple is getting this wrongCompanyAug 3, 2026](</index/apple-is-getting-this-wrong/>)
-
-![Continuous voice interaction with GPT Live - art card](https://images.ctfassets.net/kftzwdyauwt9/3PyfDzfjOozLbJnaZIkRLD/6aef080bb4e7d6a6b8a6dc23436848db/gpt-live-art-card.png?w=3840&q=90&fm=webp)
-
-[Continuous voice interaction with GPT LiveEngineeringAug 3, 2026](</index/continuous-voice-interaction-with-gpt-live/>)
-
-![math-breakthroughs art-card 1x1](https://images.ctfassets.net/kftzwdyauwt9/2zkd5RIOug4FcEj62mdSF4/3ea9e19c0456289c69f0d839cc929cb2/math-breakthroughs_art-card_1x1.png?w=3840&q=90&fm=webp)
-
-[Ten advances in mathematics and theoretical computer sciencePublicationAug 1, 2026](</index/ten-advances-in-mathematics/>)
 
 Research
 

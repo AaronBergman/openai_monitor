@@ -41,6 +41,43 @@ Filter
 
 Sort
 
+ChatGPT
+
+Jul 31, 2026
+
+Sunset
+
+## Retiring the DALL·E GPT
+
+On August 30, 2026, we’re retiring the official DALL·E GPT in ChatGPT. We encourage you to download any images you want to keep before then.
+
+To continue creating or editing images, use ChatGPT Images. User-created GPTs with image generation enabled are not affected.
+
+[View source(opens in a new window)](<https://help.openai.com/en/articles/6825453-chatgpt-release-notes#retiring-the-dalle-gpt>)[Help center(opens in a new window)](<https://help.openai.com/en/articles/11084440-images-in-chatgpt>)
+
+Codex
+
+Jul 31, 2026
+
+Sunset
+
+## GPT-5.4 and GPT-5.4 mini retire from Codex on August 31
+
+On August 31, 2026, GPT‑5.4 and GPT‑5.4 mini will no longer be available in Codex for users signed in with ChatGPT. GPT‑5.4 and GPT‑5.4 mini will remain available on the OpenAI API and Codex sessions authenticated with an API key.
+
+Switch to their recommended replacements:
+
+  * Replace `gpt-5.4` with `gpt-5.6-terra` (GPT‑5.6 Terra).
+
+  * Replace `gpt-5.4-mini` with `gpt-5.6-luna` (GPT‑5.6 Luna).
+
+
+
+
+Before the cutoff, update workspace defaults, saved model settings, managed configurations, custom agents, and scheduled tasks that use either model.
+
+[View source(opens in a new window)](<https://learn.chatgpt.com/docs/changelog#codex-2026-07-31>)[Platform docs(opens in a new window)](<https://learn.chatgpt.com/docs/models>)[Platform docs(opens in a new window)](<https://learn.chatgpt.com/docs/enterprise/workspace-model-availability>)
+
 API
 
 Jul 30, 2026
@@ -52,6 +89,54 @@ GA
 Starting July 30, GPT‑5.6 Luna costs 80% less, while GPT‑5.6 Terra costs 20% less. We’re also introducing Fast mode in the API, which replaces our Priority Processing offering. For GPT‑5.6 Sol, Fast mode now delivers up to 2.5× faster speeds than standard processing at twice the price. This change is backward compatible: requests tagged priority will automatically use Fast mode.
 
 [View source(opens in a new window)](<https://developers.openai.com/api/docs/pricing>)[Platform docs(opens in a new window)](<https://developers.openai.com/api/docs/guides/fast-mode>)[Platform docs(opens in a new window)](<https://developers.openai.com/api/docs/changelog>)
+
+ChatGPT
+
+Jul 30, 2026
+
+GA
+
+## Browser upgrades, multi-repository review, and image editing
+
+The latest ChatGPT desktop app update makes browsing, reviewing code, and editing generated images faster and easier.
+
+Browse and find context faster
+
+  * Type in the built-in browser’s address bar to revisit pages from your browsing history or search Google when there’s no match.
+
+  * Manage your browsing history in Settings, and let ChatGPT search that history when a task needs to find a page you visited before.
+
+  * Use the Chrome extension to mention open tabs or bring highlighted page text into your side chat.
+
+  * Ask questions about any YouTube video in the Chrome extension and get answers in seconds.
+
+  * Right-click a webpage and select Ask ChatGPT.
+
+
+
+
+Review changes across repositories
+
+See all repositories in a multi-folder project and the lines changed in each one. Select Review to inspect diffs across those repositories without switching between separate review views.
+
+Refine generated images
+
+Open generated images in an expanded viewer, and switch between Focused view and Canvas view. Add comments across images, choose the ones you want, and send targeted edits without leaving your conversation.
+
+Other improvements and bug fixes
+
+  * Added a new “Activity view” in the sidebar to view which chats you engaged with recently and require attention. Click the bell or use `Cmd`/`Ctrl`+`Opt`+`U` to change to the new view.
+
+  * Updated browser settings to show only supported browsers.
+
+  * Improved Windows installation reliability when package file paths are long.
+
+  * Other performance and bug fixes.
+
+
+
+
+[View source(opens in a new window)](<https://learn.chatgpt.com/docs/changelog#codex-2026-07-30>)[Platform docs(opens in a new window)](<https://learn.chatgpt.com/docs/browser>)[Platform docs(opens in a new window)](<https://learn.chatgpt.com/docs/projects>)
 
 API
 
@@ -66,54 +151,6 @@ Released the official OpenAI Terraform provider for managing OpenAI API Platform
 Provision and manage projects, users, groups, roles, access assignments, service accounts, certificates, invitations, and project-level rate limits. Use standard Terraform workflows to review and apply changes, import existing resources, and detect and reconcile configuration drift.
 
 [View source(opens in a new window)](<https://github.com/openai/terraform-provider-openai>)[Terraform Registry(opens in a new window)](<https://registry.terraform.io/providers/openai/openai/latest/docs>)[Platform docs(opens in a new window)](<https://developers.openai.com/api/docs/changelog>)
-
-ChatGPT
-
-Jul 29, 2026
-
-GA
-
-## ChatGPT for Academic Researchers
-
-Research rarely happens alone. ChatGPT for Academic Researchers gives faculty and postdoctoral researchers the ability to apply for 12 months of complimentary access to a dedicated ChatGPT workspace for a small, verified team. Each workspace supports up to five members and includes business data protections and ChatGPT Pro-level usage limits, helping researchers collaborate while keeping team research in its own workspace.
-
-To apply, researchers sign in with an institutional email, verify their affiliation through SheerID, and share a qualifying paper and a short description of their intended research use. Approved applicants complete a $0 checkout with a valid card, create the workspace, and can invite up to four verified collaborators from the same institution. Researchers at existing ChatGPT Edu institutions can still apply, but when approved, follow an institution-managed Edu route instead.
-
-The program covers ChatGPT access, not API credits.
-
-[View source(opens in a new window)](<https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-for-academic-researchers>)[Help center(opens in a new window)](<https://help.openai.com/en/articles/20001406>)
-
-API
-
-Jul 28, 2026
-
-GA
-
-## GPT Transcribe and GPT Live Transcribe
-
-Released GPT Transcribe for accurate file transcription and final transcripts of committed Realtime turns, along with GPT Live Transcribe for low-latency streaming transcription.
-
-Both models support free-form transcription context, keyword hints, and multiple expected input languages.
-
-[View source(opens in a new window)](<https://developers.openai.com/api/docs/models/gpt-transcribe>)[Platform docs(opens in a new window)](<https://developers.openai.com/api/docs/models/gpt-live-transcribe>)[Platform docs(opens in a new window)](<https://developers.openai.com/api/docs/guides/transcription>)
-
-ChatGPT
-
-Jul 23, 2026
-
-GA
-
-## Health in ChatGPT expands to eligible U.S. users
-
-We’re starting to roll out a new health experience in ChatGPT. Logged-in Free, Go, Plus, and Pro users in the United States who are 18 or older can securely connect supported health records and Apple Health data, see a dashboard of their health information, and ask questions grounded in their personal health context.
-
-Available on web and iOS, Health lets you view lab results, medications, activity, sleep, and other health information in one place. You can ask questions directly in ChatGPT or use the Health tab to explore trends, prepare for appointments, understand test results, track wellness goals, and think through questions to discuss with a healthcare professional. The experience builds on feedback from early testers and gives you control over what you connect and when ChatGPT can use it.
-
-Health is built with layered privacy and security safeguards. Connected medical records and Apple Health information, and conversations that use it, are not used to train our foundation models or target ads.
-
-ChatGPT Health is designed to support, not replace, medical care and is not intended for diagnosis or treatment.
-
-[View source(opens in a new window)](<https://help.openai.com/en/articles/6825453-chatgpt-release-notes#health-in-chatgpt>)[Help center(opens in a new window)](<https://help.openai.com/en/articles/20001036-what-is-chatgpt-health>)[Blog](<https://openai.com/index/introducing-chatgpt-health/>)
 
 Load more
 

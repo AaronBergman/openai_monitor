@@ -1,28 +1,28 @@
 Skip to main content
 
-[](</>)[](</business/>)
+[](</>)
 
-  * Why OpenAI
+  * [Research](</research/index/>)
   * Products
-  * Solutions
-  * Resources
-  * [Customers](</business/customer-stories/>)
-  * [Pricing](</business/pricing/>)
+  * [Business](</business/>)
+  * [Developers](</api/>)
+  * [Company](</about/>)
+  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
 
 
 
-Try OpenAI[Contact sales](</contact-sales/>)
+Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
-  * Why OpenAI
+  * Research
   * Products
-  * Solutions
-  * Resources
-  * [Customers](</business/customer-stories/>)
-  * [Pricing](</business/pricing/>)
+  * Business
+  * Developers
+  * Company
+  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
 
 
 
-[Contact sales](</contact-sales/>)Try OpenAI
+[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)Login
 
 OpenAI
 
@@ -46,7 +46,7 @@ Our services include OpenAI API-based solution development, AI Center of Excelle
 
 By combining OpenAI's cutting-edge AI technology with NTT DATA's consulting, engineering, and industry expertise, we help organizations realize end-to-end AI transformation.
 
-![Advanced Partner](/images/partner-tier-badges/OAI_PartnerNetwork_AdvancedPartner.svg?dpl=dpl_Hq9KUN5PrCk8e8YLUAxbf6EZSH9u)
+![Advanced Partner](/images/partner-tier-badges/OAI_PartnerNetwork_AdvancedPartner.svg?dpl=dpl_GDoZq19TbBe6QsuxM389f5PkGete)
 
 Countries served
     Global

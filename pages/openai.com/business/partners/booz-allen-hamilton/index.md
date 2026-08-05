@@ -1,28 +1,28 @@
 Skip to main content
 
-[](</>)[](</business/>)
+[](</>)
 
-  * Why OpenAI
+  * [Research](</research/index/>)
   * Products
-  * Solutions
-  * Resources
-  * [Customers](</business/customer-stories/>)
-  * [Pricing](</business/pricing/>)
+  * [Business](</business/>)
+  * [Developers](</api/>)
+  * [Company](</about/>)
+  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
 
 
 
-Try OpenAI[Contact sales](</contact-sales/>)
+Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
-  * Why OpenAI
+  * Research
   * Products
-  * Solutions
-  * Resources
-  * [Customers](</business/customer-stories/>)
-  * [Pricing](</business/pricing/>)
+  * Business
+  * Developers
+  * Company
+  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
 
 
 
-[Contact sales](</contact-sales/>)Try OpenAI
+[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)Login
 
 OpenAI
 
@@ -38,7 +38,7 @@ OpenAI
 
 Booz Allen builds advanced technology to help government and businesses win in today’s competitive world and prepare for what’s next. Our expertise comes from more than 20,000 technologists, including thousands of cyber specialists, software engineers, and AI innovators. We co-invest and co-build our proprietary tech with tech from powerhouse commercial partners to transform every layer of the tech stack from infrastructure to the end user. And we invest in what’s next, continuously scouting commercial tech to find the right solutions and products for government missions, making strategic investments in AI, cyber, defense tech, and deep tech, and leading R&D in next-gen technologies like quantum computing.
 
-![Select Partner](/images/partner-tier-badges/OAI_PartnerNetwork_SelectPartner.svg?dpl=dpl_Hq9KUN5PrCk8e8YLUAxbf6EZSH9u)
+![Select Partner](/images/partner-tier-badges/OAI_PartnerNetwork_SelectPartner.svg?dpl=dpl_GDoZq19TbBe6QsuxM389f5PkGete)
 
 Countries served
     Global

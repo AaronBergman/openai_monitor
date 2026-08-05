@@ -28,7 +28,7 @@ OpenAI
 
 August 3, 2026
 
-[Engineering](</news/engineering/>)
+[Engineering](</news/engineering/>)[Company](</news/company-announcements/>)
 
 # How we built a realtime system for responsive voice AI in six months
 
@@ -216,17 +216,17 @@ Justin Uberti, Zahan Malkani
 
 [View all](</news/>)
 
-![GPT-5.6 efficiency article — art card](https://images.ctfassets.net/kftzwdyauwt9/5ExPWhZDZXbZgTHE7aeE5d/0526071f749a3b44adff3c45a12322b7/How_GPT-5.6_fuses_frontier_intelligence_with_frontier_efficiency_ART_CARD__1_.png?w=3840&q=90&fm=webp)
+![Apple is getting this wrong — cover image](https://images.ctfassets.net/kftzwdyauwt9/69tiLv6VbCayhCDzwJtUPy/1cb0058be13bd464469ecda47c8d1bce/Frame__12_.png?w=3840&q=90&fm=webp)
 
-[How GPT-5.6 fuses frontier intelligence with frontier efficiencyEngineeringJul 29, 2026](</index/gpt-5-6-frontier-intelligence-efficiency/>)
+[Apple is getting this wrongCompanyAug 3, 2026](</index/apple-is-getting-this-wrong/>)
 
-![Rockset > Art Card](https://images.ctfassets.net/kftzwdyauwt9/7qv6OiVDfumZUnibH5VTOU/d2d818ac6de1f7cb93dce7a343e456dc/Rockset-Art-Card.png?w=3840&q=90&fm=webp)
+![Building abundant intelligence — cover image](https://images.ctfassets.net/kftzwdyauwt9/36GHu3UGXM5RSmEuBptpXK/ed1ba0e606b4c32957e4cdbeb5a6c272/Frame__9_.png?w=3840&q=90&fm=webp)
 
-[Core dump epidemiology: fixing an 18-year-old bugEngineeringJun 30, 2026](</index/core-dump-epidemiology-data-infrastructure-bug/>)
+[Building abundant intelligenceCompanyJul 31, 2026](</index/building-abundant-intelligence/>)
 
-![Tax Agent > Art Card](https://images.ctfassets.net/kftzwdyauwt9/6ojJ6B55QUlmNdaLifgMkQ/22e429ec7b3fdd119a2499358af899b7/Art_Card.png?w=3840&q=90&fm=webp)
+![oai Science Academic Research Academic Research 1x1](https://images.ctfassets.net/kftzwdyauwt9/59kTmFmujYzNh0VgSvCgwe/e9334dd9944b5309f8ca2d44fdc71b6f/academic-research-card.png?w=3840&q=90&fm=webp)
 
-[Building self-improving tax agents with CodexEngineeringMay 27, 2026](</index/building-self-improving-tax-agents-with-codex/>)
+[Accelerating scientific discovery with ChatGPT for Academic ResearchersCompanyJul 29, 2026](</index/chatgpt-for-academic-researchers/>)
 
 Research
 

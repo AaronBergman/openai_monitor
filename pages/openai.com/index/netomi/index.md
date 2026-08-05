@@ -162,17 +162,17 @@ Deploying agentic systems inside Fortune 500 environments demands speed, accurac
 
 ## Keep reading
 
-![Advancing responsible AI across Europe — card](https://images.ctfassets.net/kftzwdyauwt9/1ZPK8n0N6mvnSq50i6b1zZ/9229a595a2f8fea9d0189ce9aa2f634b/card.png?w=3840&q=90&fm=webp)
+![update-external-cyber-testing-incidents 1x1](https://images.ctfassets.net/kftzwdyauwt9/7oFUbOnJRSWvGV68vRvcQq/36673fabe9bf1643000994531bc76d2e/update-external-cyber-testing-incidents_1x1.png?w=3840&q=90&fm=webp)
 
-[Advancing responsible AI across EuropeGlobal AffairsJul 31, 2026](</index/advancing-responsible-ai-across-europe/>)
+[Third-party cyber evaluations involving OpenAI modelsSecurityAug 4, 2026](</index/third-party-cyber-evaluations-involving-openai-models/>)
 
-![Univé customer story art card image](https://images.ctfassets.net/kftzwdyauwt9/4wUTx4QQxLp3nol3gwzH7f/8da5438602d7b0122180261ffc2d804f/oai_unive_1x1.png?w=3840&q=90&fm=webp)
+![Edu plugin > card image ](https://images.ctfassets.net/kftzwdyauwt9/5vIZVUmoUSCImIDsK3jJiL/67f1d878e33f6bc5139094e933f454db/ArtCard.png?w=3840&q=90&fm=webp)
 
-[Univé builds an AI-ready workforceJul 31, 2026](</index/unive/>)
+[New ways to learn and teach with ChatGPT Work and CodexProductAug 4, 2026](</index/learn-teach-chatgpt-work-codex/>)
 
-![price-performance-frontier art-card 1x1](https://images.ctfassets.net/kftzwdyauwt9/38nqRc3lEvizMieZlPcd98/25da92d68f02fcc40d5a4dc48cca96cd/price-performance-frontier_art-card_1x1.png?w=3840&q=90&fm=webp)
+![Apple is getting this wrong — cover image](https://images.ctfassets.net/kftzwdyauwt9/69tiLv6VbCayhCDzwJtUPy/1cb0058be13bd464469ecda47c8d1bce/Frame__12_.png?w=3840&q=90&fm=webp)
 
-[Advancing the price-performance frontier with GPT 5.6ProductJul 30, 2026](</index/advancing-the-price-performance-frontier-with-gpt-5-6/>)
+[Apple is getting this wrongCompanyAug 3, 2026](</index/apple-is-getting-this-wrong/>)
 
 Research
 
