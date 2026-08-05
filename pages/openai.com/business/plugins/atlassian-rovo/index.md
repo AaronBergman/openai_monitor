@@ -42,17 +42,17 @@ Website: [atlassian.com/software/rovo(opens in a new window)](<https://atlassian
 
 easily access the context of Jira, Confluence, and Compass and immediately take action - all within ChatGPT
 
-### Get answers from product data instantly
+### Find answers across your team’s work
 
-Ask for metrics like daily active users or new signups and get accurate results from live Amplitude data without writing queries, reducing time to insight for product and growth teams.
+Search Jira issues, Confluence pages, and project information using everyday language. Quickly find the documents, decisions, and context you need.
 
-### Make analytics accessible to more teams
+### Turn conversations into Jira tasks
 
-Enable executives, marketers, and operators to explore product performance without analytics expertise, reducing dependency on analysts and speeding up everyday decision making.
+Create Jira tasks from meeting notes, project discussions, or ideas, with clear titles, descriptions, and next steps.
 
-### Reuse and operationalize insights
+### Keep projects and teams aligned
 
-Turn natural language questions into reusable Amplitude charts and analyses, helping teams standardize metrics, track trends over time, and align faster around shared data.
+Summarize project progress, incidents, and key decisions across Jira and Confluence to create updates, surface blockers, and move work forward.
 
 ## Sample prompts
 

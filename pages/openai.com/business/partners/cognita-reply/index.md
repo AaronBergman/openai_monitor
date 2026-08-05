@@ -38,7 +38,7 @@ OpenAI
 
 Cognita Reply is the Reply Group company specialising in OpenAI technologies. As a recognised OpenAI service partner, its experts embed artificial intelligence deep within their customers' value chains. The range of services extends from the implementation of ChatGPT Enterprise and Codex to highly customised AI ecosystems. Thanks to exclusive access to new tools, proven accelerators and a consistent focus on governance, scalability and user-centred design, practical solutions are created that secure sustainable competitive advantages for organisations.
 
-![Advanced Partner](/images/partner-tier-badges/OAI_PartnerNetwork_AdvancedPartner.svg?dpl=dpl_Hq9KUN5PrCk8e8YLUAxbf6EZSH9u)
+![Advanced Partner](/images/partner-tier-badges/OAI_PartnerNetwork_AdvancedPartner.svg?dpl=dpl_GDoZq19TbBe6QsuxM389f5PkGete)
 
 Countries served
     Global

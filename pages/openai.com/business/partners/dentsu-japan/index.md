@@ -48,13 +48,16 @@ Starting from marketing areas such as product and service development, creative 
 
 Leveraging the expertise and development capabilities centered around the dentsu Japan AI Center, along with our knowledge of AI governance, we support companies in safely and continuously utilizing generated AI to enhance brand value and business results.
 
-![Advanced Partner](/images/partner-tier-badges/OAI_PartnerNetwork_AdvancedPartner.svg?dpl=dpl_Hq9KUN5PrCk8e8YLUAxbf6EZSH9u)
+![Advanced Partner](/images/partner-tier-badges/OAI_PartnerNetwork_AdvancedPartner.svg?dpl=dpl_GDoZq19TbBe6QsuxM389f5PkGete)
 
 Countries served
     Japan
 
 Industry
     Cross-industry
+
+Joint partners
+    AWS
 
 Research
 

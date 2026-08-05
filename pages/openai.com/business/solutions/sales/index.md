@@ -93,7 +93,7 @@ Account prioritization and engagementMeeting prep and follow-upDeal strategyPipe
 
 Find my highest-priority accounts this week and recommend next steps. 
 
-[(opens in a new window)](<https://chatgpt.com/?surface=work&q=Find+my+highest-priority+accounts+this+week+and+recommend+next+steps.>)
+[Try in ChatGPT(opens in a new window)](<https://chatgpt.com/?surface=work&q=Find+my+highest-priority+accounts+this+week+and+recommend+next+steps.>)
 
 ## Trusted by leading teams
 

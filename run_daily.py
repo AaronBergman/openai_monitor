@@ -12,7 +12,7 @@ from pathlib import Path
 from urllib.parse import urlsplit
 
 # ─── Config ───────────────────────────────────────────────────────────────────
-RUN_ID = "2026-06-24T09-15Z"
+RUN_ID = "2026-08-05T09-16Z"
 FETCH_TIME = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
 SITEMAP_INDEX = "https://openai.com/sitemap.xml"
 NS = {"sm": "http://www.sitemaps.org/schemas/sitemap/0.9"}
