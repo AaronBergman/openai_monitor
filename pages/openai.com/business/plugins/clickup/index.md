@@ -32,6 +32,14 @@ Sync ClickUp tasks and docs for use in ChatGPT.
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69431e6d26b88191b4029488aeb42f5b>)[Contact sales](</contact-sales/>)
 
+@ClickUp How is Sprint 14 -Simplifying UI looking? Flag anything at risk.
+
+![@ClickUp How is Sprint 14 -Simplifying UI looking? Flag anything at risk.](https://files.openai.com/content?id=file_00000000206871f6ace4c82dd8c4ddd1&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=1&sig=f4fac21a6e5c2deccb6af035f8496fde8cc61888e1ff53dee66c3fe0f3a818cd)
+
+@ClickUp Which deals have had no activity in 10+ days?
+
+![@ClickUp Which deals have had no activity in 10+ days?](https://files.openai.com/content?id=file_00000000bfa871f683456914f7b8dc8d&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=1&sig=b02b710fa82617fe188ae1826e48d94a7ed93a7616e84c61f852e4514c50b4dc)
+
 Use case: [Project Management](</business/plugins/?tab=apps-project-management>)
 
 Made by: ClickUp

@@ -32,6 +32,18 @@ Build apps and websites.
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_693a0a79ffe48191901173077edcf914>)[Contact sales](</contact-sales/>)
 
+@Lovable build me an AI-powered customer support app
+
+![@Lovable build me an AI-powered customer support app](https://files.openai.com/content?id=file_0000000073c871f689b5ffb9b3a7369d&cdn=1&cp=pi&ma=32659200&ts=0&p=pi&cid=1&sig=1f642526f7cf2ff0da83cbbdbcc12be25a70c16d88d40b59eec52db8fbc0d080)
+
+@Lovable build me an AI-powered coaching app
+
+![@Lovable build me an AI-powered coaching app](https://files.openai.com/content?id=file_00000000babc71f6870fc3ef5374cb85&cdn=1&cp=pi&ma=32227200&ts=0&p=pi&cid=1&sig=38819372b0a6a714ef0db88bd8396294d80bfed2a8a1c3bdd296405bb0cfb1c8)
+
+@Lovable build me an AI-powered customer support app
+
+![@Lovable build me an AI-powered customer support app](https://files.openai.com/content?id=file_00000000119c71f68b9572c1b62bdce2&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=1&sig=f3dabf49dce4fcf243075646664c1449878b6f05f400846f0b2d9e92ee864233)
+
 Use case: [Developer Tools](</business/plugins/?tab=apps-developer-tools>)
 
 Made by: Lovable

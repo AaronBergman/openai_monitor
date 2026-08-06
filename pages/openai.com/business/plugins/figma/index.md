@@ -32,6 +32,14 @@ Make diagrams, slides, assets.
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_68df038e0ba48191908c8434991bbac2>)[Contact sales](</contact-sales/>)
 
+@Figma read the attached PRD and create a flowchart of the 2FA flow
+
+![@Figma read the attached PRD and create a flowchart of the 2FA flow](https://files.openai.com/content?id=file_0000000008dc71f79812776d609a0f05&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=7&sig=c71053d3ce62bf3dc2bbcb103a20e9f90aff27b61497e486d019204a1133ea75&v=0)
+
+@Figma create a competitive analysis deck comparing travel platforms
+
+![@Figma create a competitive analysis deck comparing travel platforms](https://files.openai.com/content?id=file_0000000093c071f791b61c93d7285421&cdn=1&cp=pi&ma=32486400&ts=0&p=pi&cid=7&sig=633b64a89a3df0f445ba5ab594186b6cfb95d8cf96d1985f29b8f472ca253537&v=0)
+
 Use case: [Design](</business/plugins/?tab=apps-design>)
 
 Made by: Figma

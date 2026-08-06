@@ -32,6 +32,18 @@ Ask payroll, benefits, and HR questions using your Gusto data.
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69375d9f172c8191b23d73be4107128a>)[Contact sales](</contact-sales/>)
 
+@Gusto let’s run payroll
+
+![@Gusto let’s run payroll](https://files.openai.com/content?id=file_00000000ce6471f6929f554083beb238&cdn=1&cp=pi&ma=30758400&ts=0&p=pi&cid=1&sig=ee05404165f727e2ee1b4169c800e6d28b3ce629517cfed23d44da610b538ec9)
+
+@Gusto looks good, can you show me the summary?
+
+![@Gusto looks good, can you show me the summary?](https://files.openai.com/content?id=file_0000000091a871f6af0b99fec1a2d8bb&cdn=1&cp=pi&ma=30499200&ts=0&p=pi&cid=1&sig=c3927d7ff7b33c6fe46ea720426a5d41edb86925f8b9622b56bc7466688d51c0)
+
+@Gusto all clear, let's submit
+
+![@Gusto all clear, let's submit](https://files.openai.com/content?id=file_00000000fca871f6b6d99f29e8c06b3e&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=1&sig=16fbfeb04d177915e82add568199002855c8afa8155bc87b0efa5dfad706577c)
+
 Use case: [Finance](</business/plugins/?tab=apps-finance>)
 
 Made by: Gusto

@@ -32,6 +32,8 @@ Connect to sync Help Scout mailboxes and conversations for use in ChatGPT.
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_1p_37428d09bb1c8191981811fb546d4e27>)[Contact sales](</contact-sales/>)
 
+[@Help Scout Summarize the Help Scout thread and next actions(opens in a new window)](<https://chatgpt.com/?prompt=%40Help+Scout+Summarize+the+Help+Scout+thread+and+next+actions>)
+
 Use case: [Go-to-Market](</business/plugins/?tab=apps-go-to-market>)
 
 Made by: OpenAI

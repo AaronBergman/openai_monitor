@@ -32,6 +32,10 @@ Explore and analyyze your content.
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_691f749cd9088191befeb1d543c37d98>)[Contact sales](</contact-sales/>)
 
+@Egnyte what IT contracts do we have?
+
+![@Egnyte what IT contracts do we have?](https://chatgpt.com/backend-api/estuary/content?id=file_00000000222871f6a429c3b27ea708a2&cp=pi&ma=32745600&ts=0&p=pi&cid=1&sig=da50999d0ddf0dc2f580cf00f7824e8c22ab4c6bdf5ae518fbfb9c5ef7d9ad7d)
+
 Use case: [File Sharing](</business/plugins/?tab=apps-file-sharing>)
 
 Made by: Egnyte

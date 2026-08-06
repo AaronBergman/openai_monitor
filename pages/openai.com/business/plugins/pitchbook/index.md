@@ -1,28 +1,28 @@
 Skip to main content
 
-[](</>)[](</business/>)
+[](</>)
 
-  * Why OpenAI
+  * [Research](</research/index/>)
   * Products
-  * Solutions
-  * Resources
-  * [Customers](</business/customer-stories/>)
-  * [Pricing](</business/pricing/>)
+  * [Business](</business/>)
+  * [Developers](</api/>)
+  * [Company](</about/>)
+  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
 
 
 
-Try OpenAI[Contact sales](</contact-sales/>)
+Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
-  * Why OpenAI
+  * Research
   * Products
-  * Solutions
-  * Resources
-  * [Customers](</business/customer-stories/>)
-  * [Pricing](</business/pricing/>)
+  * Business
+  * Developers
+  * Company
+  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
 
 
 
-[Contact sales](</contact-sales/>)Try OpenAI
+[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)Login
 
 OpenAI[View all plugins](</business/plugins/>)
 
@@ -31,6 +31,18 @@ OpenAI[View all plugins](</business/plugins/>)
 Faster workflows with market intelligence.
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_693850f6312c8191be5a026bf3538e80>)[Contact sales](</contact-sales/>)
+
+@PitchBook Summarize Stripe's funding history
+
+![@PitchBook Summarize Stripe's funding history](https://files.openai.com/content?id=file_00000000361c71f7b42b34329a9f0601&cdn=1&cp=pi&ma=31363200&ts=0&p=pi&cid=8&sig=f2afff1541dd1c78c84d93f29e705ef2ac1bd55fb7ee465c52d503ec4dbe6fa8&v=0)
+
+@PitchBook Who are the active investors in Stripe?
+
+![@PitchBook Who are the active investors in Stripe?](https://files.openai.com/content?id=file_000000008f8871f7830ca0230b9e7224&cdn=1&cp=pi&ma=31536000&ts=0&p=pi&cid=8&sig=29e5f7134f1166e1f3816611f3b9df170eeb96cb1f48822578915819d9305975&v=0)
+
+@PitchBook What are PitchBook analysts saying about FinTech right now?
+
+![@PitchBook What are PitchBook analysts saying about FinTech right now?](https://files.openai.com/content?id=file_000000003db471f78a544e6089ae898d&cdn=1&cp=pi&ma=30240000&ts=0&p=pi&cid=8&sig=616c0946f43935bcb5fcbe8ec4916b4f7fca6709dc61104207db27b0f1693c68&v=0)
 
 Use case: [Data](</business/plugins/?tab=apps-data>)
 

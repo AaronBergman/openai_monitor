@@ -32,6 +32,8 @@ Manage your business and develop your payments integration.
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_690ab09fa43c8191bca40280e4563238>)[Contact sales](</contact-sales/>)
 
+[@Stripe Show me the list of my customers(opens in a new window)](<https://chatgpt.com/?prompt=%40Stripe+Show+me+the+list+of+my+customers>)[@Stripe Show me what products I have(opens in a new window)](<https://chatgpt.com/?prompt=%40Stripe+Show+me+what+products+I+have>)[@Stripe Tell me the prices I have created(opens in a new window)](<https://chatgpt.com/?prompt=%40Stripe+Tell+me+the+prices+I+have+created>)
+
 Use case: [Finance](</business/plugins/?tab=apps-finance>)
 
 Made by: Stripe

@@ -1,28 +1,28 @@
 Skip to main content
 
-[](</>)[](</business/>)
+[](</>)
 
-  * Why OpenAI
+  * [Research](</research/index/>)
   * Products
-  * Solutions
-  * Resources
-  * [Customers](</business/customer-stories/>)
-  * [Pricing](</business/pricing/>)
+  * [Business](</business/>)
+  * [Developers](</api/>)
+  * [Company](</about/>)
+  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
 
 
 
-Try OpenAI[Contact sales](</contact-sales/>)
+Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
-  * Why OpenAI
+  * Research
   * Products
-  * Solutions
-  * Resources
-  * [Customers](</business/customer-stories/>)
-  * [Pricing](</business/pricing/>)
+  * Business
+  * Developers
+  * Company
+  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
 
 
 
-[Contact sales](</contact-sales/>)Try OpenAI
+[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)Login
 
 OpenAI[View all plugins](</business/plugins/>)
 
@@ -31,6 +31,8 @@ OpenAI[View all plugins](</business/plugins/>)
 Explore BigQuery data and generate SQL from natural language.
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_1p_b1cefad35a80819184ba7ed35d601d34>)[Contact sales](</contact-sales/>)
+
+[@BigQuery Inspect BigQuery projects, datasets, tables, jobs, routines, models, row access policies, IAM, and query results(opens in a new window)](<https://chatgpt.com/?prompt=%40BigQuery+Inspect+BigQuery+projects%2C+datasets%2C+tables%2C+jobs%2C+routines%2C+models%2C+row+access+policies%2C+IAM%2C+and+query+results>)
 
 Use case: [Data](</business/plugins/?tab=apps-data>)
 

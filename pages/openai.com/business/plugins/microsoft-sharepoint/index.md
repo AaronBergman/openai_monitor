@@ -32,6 +32,8 @@ Search and pull from shared sites and OneDrive.
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_1p_dca009ae2c848191ae14df3a47c5e7fd>)[Contact sales](</contact-sales/>)
 
+[@SharePoint Summarize a SharePoint site or file, identify owners and status, or plan a safe update across documents, spreadsheets, or decks(opens in a new window)](<https://chatgpt.com/?prompt=%40SharePoint+Summarize+a+SharePoint+site+or+file%2C+identify+owners+and+status%2C+or+plan+a+safe+update+across+documents%2C+spreadsheets%2C+or+decks>)
+
 Use case: [File Sharing](</business/plugins/?tab=apps-file-sharing>)
 
 Made by: OpenAI

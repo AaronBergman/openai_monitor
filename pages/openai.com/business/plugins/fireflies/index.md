@@ -32,6 +32,18 @@ Search meeting transcripts.
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_6912075cb358819187346bcafb601db8>)[Contact sales](</contact-sales/>)
 
+@Fireflies what’s our conversation history with Acme so far?
+
+![@Fireflies what’s our conversation history with Acme so far?](https://files.openai.com/content?id=file_0000000068f871f6be85050178868a30&cdn=1&cp=pi&ma=30326400&ts=0&p=pi&cid=1&sig=ba57800549a38eac01d68bc0149737d5c5c74d999018590e492435ada1920224)
+
+@Fireflies what was the overall sentiment on this call?
+
+![@Fireflies what was the overall sentiment on this call?](https://files.openai.com/content?id=file_000000007ff071f6b2e42dc4b8227403&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=0e5cdeccd3f20c4f558a044d59c451fa19db988240631bddad12db444ee06872)
+
+@Fireflies help me improve my sales pitch
+
+![@Fireflies help me improve my sales pitch](https://files.openai.com/content?id=file_00000000c08871f697c7dfcacbc740a4&cdn=1&cp=pi&ma=31363200&ts=0&p=pi&cid=1&sig=f510041a67175254bb9c841c174b32d84b082ef77a3444c578471ede82d2d1f0)
+
 Use case: [Collaboration](</business/plugins/?tab=apps-collaboration>)
 
 Made by: fireflies.ai

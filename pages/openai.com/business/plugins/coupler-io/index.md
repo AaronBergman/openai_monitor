@@ -32,6 +32,18 @@ Connect and analyze data from 400+ apps.
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6939ea66e1588191af5f9d2a52964d19>)[Contact sales](</contact-sales/>)
 
+@Coupler.io @Coupler show me overall spend, impressions, clicks, and CPC by platform
+
+![@Coupler.io @Coupler show me overall spend, impressions, clicks, and CPC by platform](https://files.openai.com/content?id=file_00000000070c71f69b62a7fcc89ca07f&cdn=1&cp=pi&ma=30412800&ts=0&p=pi&cid=1&sig=e7fc7460ebef22ba593111b4ac3f10e5d8d84f3dcf94684c76758352e138b488)
+
+@Coupler.io @Coupler Summarize key findings for the CMO
+
+![@Coupler.io @Coupler Summarize key findings for the CMO](https://files.openai.com/content?id=file_00000000ab3871f6a9f53b5f52d32301&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=1&sig=e148090729c539ed4a2ed53a74d3a9a9a684a1935d366092ae704e0642f5ae32)
+
+@Coupler.io @Coupler which campaigns delivered the best CPC last month?
+
+![@Coupler.io @Coupler which campaigns delivered the best CPC last month?](https://files.openai.com/content?id=file_000000001fe071f68735d765dd3554a1&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=1&sig=a929b72e5004166c2e364519efa08090624e86b1cb55882973340d5dbc740ac7)
+
 Use case: [Data](</business/plugins/?tab=apps-data>)
 
 Made by: Coupler.io

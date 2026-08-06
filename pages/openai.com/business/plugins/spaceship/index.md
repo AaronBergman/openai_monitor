@@ -32,6 +32,10 @@ Search domain availability.
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_692e119561848191979b13cc5c060389>)[Contact sales](</contact-sales/>)
 
+@Spaceship Check next domains: mycompany.com, mysite.io, service.web, sales12345.com
+
+![@Spaceship Check next domains: mycompany.com, mysite.io, service.web, sales12345.com](https://files.openai.com/content?id=file_00000000da1871f7add9a1b3bf314670&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=1&sig=a88d5949ef10ef27ac2bd4224c6751a4e9101294675778fd32fa3d12316106a2)
+
 Use case: [Developer Tools](</business/plugins/?tab=apps-developer-tools>) and [Go-to-Market](</business/plugins/?tab=apps-go-to-market>)
 
 Made by: Namecheap

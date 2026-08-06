@@ -32,6 +32,8 @@ Find and reference issues and projects.
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69a089a326dc8191b32a3f2553f5be2c>)[Contact sales](</contact-sales/>)
 
+[@Linear Triage or update relevant issues for this task with clear next actions(opens in a new window)](<https://chatgpt.com/?prompt=%40Linear+Triage+or+update+relevant+issues+for+this+task+with+clear+next+actions>)
+
 Use case: [Project Management](</business/plugins/?tab=apps-project-management>)
 
 Made by: OpenAI

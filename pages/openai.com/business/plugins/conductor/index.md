@@ -1,28 +1,28 @@
 Skip to main content
 
-[](</>)[](</business/>)
+[](</>)
 
-  * Why OpenAI
+  * [Research](</research/index/>)
   * Products
-  * Solutions
-  * Resources
-  * [Customers](</business/customer-stories/>)
-  * [Pricing](</business/pricing/>)
+  * [Business](</business/>)
+  * [Developers](</api/>)
+  * [Company](</about/>)
+  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
 
 
 
-Try OpenAI[Contact sales](</contact-sales/>)
+Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
-  * Why OpenAI
+  * Research
   * Products
-  * Solutions
-  * Resources
-  * [Customers](</business/customer-stories/>)
-  * [Pricing](</business/pricing/>)
+  * Business
+  * Developers
+  * Company
+  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
 
 
 
-[Contact sales](</contact-sales/>)Try OpenAI
+[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)Login
 
 OpenAI[View all plugins](</business/plugins/>)
 
@@ -31,6 +31,10 @@ OpenAI[View all plugins](</business/plugins/>)
 Track brand sentiment in AI.
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69bc9080866081919c3b70ce64e1db0d>)[Contact sales](</contact-sales/>)
+
+@Conductor who are my top competitors for “wireless earbuds”?
+
+![@Conductor who are my top competitors for “wireless earbuds”?](https://files.openai.com/content?id=file_00000000aafc71f7b9c901beb97650ef&cdn=1&cp=pi&ma=30758400&ts=0&p=pi&cid=7&sig=5773925bdf2efb8f43ddb0dea41bb3b8e75f24835e47b64a3e0ef9a20e0552e2&v=0)
 
 Use case: [Go-to-Market](</business/plugins/?tab=apps-go-to-market>) and [Data](</business/plugins/?tab=apps-data>)
 

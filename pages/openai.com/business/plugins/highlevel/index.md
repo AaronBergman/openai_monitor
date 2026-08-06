@@ -32,6 +32,18 @@ Interact with your CRM business data.
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69402343886881919c40ceb13a6ea1c2>)[Contact sales](</contact-sales/>)
 
+@HighLevel give me an overview of how things have been for the last month
+
+![@HighLevel give me an overview of how things have been for the last month](https://files.openai.com/content?id=file_000000003a5c71f6802005349c78e123&cdn=1&cp=pi&ma=31190400&ts=0&p=pi&cid=1&sig=6f3addddd9ba6ac3f7a2b4f3663dfb643bd817d4ca0ae88ed54dbfc3fa253698)
+
+@HighLevel give me KPI details over the same range
+
+![@HighLevel give me KPI details over the same range](https://files.openai.com/content?id=file_0000000045ec71f68a21cec431d6d212&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=1&sig=48be043a388de57074c236879a1e02cdb8a04f952726c55c6096037579dca94c)
+
+@HighLevel give me a pie chart of contact sources
+
+![@HighLevel give me a pie chart of contact sources](https://files.openai.com/content?id=file_000000003a7871f6b87598885ae7d0d0&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=1&sig=9229b601b59ddd82fa24e66e5f9209081a5657366d1879643b882f0d74d86c4a)
+
 Use case: [Go-to-Market](</business/plugins/?tab=apps-go-to-market>)
 
 Made by: HighLevel

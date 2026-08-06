@@ -30,7 +30,9 @@ OpenAI[View all plugins](</business/plugins/>)
 
 Turn data into clear decisions.
 
-[Add plugin(opens in a new window)](<https://chatgpt.com/plugins/share/32687761205248ae9b517f3d30ad8dd1>)[Contact sales](</contact-sales/>)
+[Add plugin(opens in a new window)](<https://chatgpt.com/plugins/Plugin_fc9843a6fb34819195d6c7802398a8a7>)[Contact sales](</contact-sales/>)
+
+[@Data Help me get started with my first data task(opens in a new window)](<https://chatgpt.com/?prompt=%40Data+Help+me+get+started+with+my+first+data+task>)[@Data Analyze product or business data and recommend where to focus next(opens in a new window)](<https://chatgpt.com/?prompt=%40Data+Analyze+product+or+business+data+and+recommend+where+to+focus+next>)[@Data Diagnose why a key metric changed and identify the biggest drivers(opens in a new window)](<https://chatgpt.com/?prompt=%40Data+Diagnose+why+a+key+metric+changed+and+identify+the+biggest+drivers>)
 
 Use case: [Data](</business/plugins/?tab=apps-data>)
 

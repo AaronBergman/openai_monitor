@@ -32,6 +32,10 @@ Look up chats and messages.
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69a1d78e929881919bba0dbda1f6436d>)[Contact sales](</contact-sales/>)
 
+@Slack Summarize activity in Slack this month
+
+![@Slack Summarize activity in Slack this month](https://files.openai.com/content?id=file_000000005dd071f7b5f1b13e38d9b682&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=1&sig=c04f351245ec29c398471da9639a1b507dc9595612933e6073de7c306ea93721)
+
 Use case: [Collaboration](</business/plugins/?tab=apps-collaboration>)
 
 Made by: Slack

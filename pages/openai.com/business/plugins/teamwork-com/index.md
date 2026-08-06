@@ -32,6 +32,8 @@ Sync projects, tasks, milestones, and comments for status updates.
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_1p_84c8e16f017081919bbf2332349f1174>)[Contact sales](</contact-sales/>)
 
+[@Teamwork.com Summarize the current Teamwork.com project status(opens in a new window)](<https://chatgpt.com/?prompt=%40Teamwork.com+Summarize+the+current+Teamwork.com+project+status>)
+
 Use case: [Project Management](</business/plugins/?tab=apps-project-management>)
 
 Made by: Teamwork.com

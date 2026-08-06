@@ -32,6 +32,8 @@ Search and reference your Outlook email.
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_1p_6bcb5879c73c819196abc70016166099>)[Contact sales](</contact-sales/>)
 
+[@Outlook Email Triage inbox, summarize thread, or draft reply or forward(opens in a new window)](<https://chatgpt.com/?prompt=%40Outlook+Email+Triage+inbox%2C+summarize+thread%2C+or+draft+reply+or+forward>)
+
 Use case: [Collaboration](</business/plugins/?tab=apps-collaboration>)
 
 Made by: OpenAI

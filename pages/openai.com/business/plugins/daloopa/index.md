@@ -32,6 +32,8 @@ Access financial KPIs with source links.
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_692f6343042c8191b6617e8352444692>)[Contact sales](</contact-sales/>)
 
+[@Daloopa Create a tearsheet for AAPL.(opens in a new window)](<https://chatgpt.com/?prompt=%40Daloopa+Create+a+tearsheet+for+AAPL.>)[@Daloopa Review MSFT earnings and guidance.(opens in a new window)](<https://chatgpt.com/?prompt=%40Daloopa+Review+MSFT+earnings+and+guidance.>)[@Daloopa Build a DCF valuation for NVDA.(opens in a new window)](<https://chatgpt.com/?prompt=%40Daloopa+Build+a+DCF+valuation+for+NVDA.>)
+
 Use case: [Data](</business/plugins/?tab=apps-data>)
 
 Made by: Daloopa

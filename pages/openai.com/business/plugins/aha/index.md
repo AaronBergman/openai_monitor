@@ -32,6 +32,8 @@ Connect to sync Aha! product roadmaps and features for use in ChatGPT.
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_1p_bbb01160dac48191bff1bdb3a7e7cfd7>)[Contact sales](</contact-sales/>)
 
+[@Aha! Open Aha!(opens in a new window)](<https://chatgpt.com/?prompt=%40Aha%21+Open+Aha%21>)
+
 Use case: [Project Management](</business/plugins/?tab=apps-project-management>)
 
 Made by: OpenAI

@@ -32,6 +32,18 @@ Design, combine, and edit
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69312da8e4dc81919370cb86fd172b6c>)[Contact sales](</contact-sales/>)
 
+@Adobe turn my video into a short highlight reel
+
+![@Adobe turn my video into a short highlight reel](https://chatgpt.com/backend-api/estuary/content?id=file_0000000021c471f78bf289cca3f569db&cp=pi&ma=30758400&ts=0&p=pi&cid=8&sig=72231593851010910d0b9ff5f6c02ded48644949eacb6ee2bfc8a0a996cb1607&v=0)
+
+@Adobe resize these photos for my social media platforms
+
+![@Adobe resize these photos for my social media platforms](https://chatgpt.com/backend-api/estuary/content?id=file_00000000530471f79deb303cc629f496&cp=pi&ma=30240000&ts=0&p=pi&cid=8&sig=dd6213bb987ee8883b7a0f405da6d8344a94cb0bf6517c181035af373285cd3b&v=0)
+
+@Adobe find a template for a promotional flyer
+
+![@Adobe find a template for a promotional flyer](https://chatgpt.com/backend-api/estuary/content?id=file_000000006a2c71f7802eabc74839ce1c&cp=pi&ma=30326400&ts=0&p=pi&cid=8&sig=675ea7eca52babb54bfbae76bea60bdf63daf64963149642089831708c742b5d&v=0)
+
 Use case: [Design](</business/plugins/?tab=apps-design>)
 
 Made by: OpenAI

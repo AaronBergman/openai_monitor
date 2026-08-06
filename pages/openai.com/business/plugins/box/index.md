@@ -32,6 +32,18 @@ Search and reference your documents.
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_695bfc98071c8191bac7bc479aa27de7>)[Contact sales](</contact-sales/>)
 
+@Box Preview the ACME Sales pitch
+
+![@Box Preview the ACME Sales pitch](https://files.openai.com/content?id=file_0000000028a871f7ad8cd808f365fc06&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=7&sig=12948a06b235c29083eea3de3c7b6a109f76d02ee98efe29557882f376ba6f5a&v=0)
+
+@Box Extract metadata from Techbridge invoice
+
+![@Box Extract metadata from Techbridge invoice](https://files.openai.com/content?id=file_0000000083dc71f7ad701eef9d9cc526&cdn=1&cp=pi&ma=31363200&ts=0&p=pi&cid=7&sig=2b6d0133ca6ebbfdca5b0c9b37ace80fdc067d16493ed514303470a6e7e17dc7&v=0)
+
+@Box Summarize the ACME Hub
+
+![@Box Summarize the ACME Hub](https://files.openai.com/content?id=file_00000000c99471f7921f0aa0beff074e&cdn=1&cp=pi&ma=30585600&ts=0&p=pi&cid=7&sig=45646d6967f58f776125fe8de4d706eb9c24c9d5c053fe6f8ba1774f39105b54&v=0)
+
 Use case: [File Sharing](</business/plugins/?tab=apps-file-sharing>)
 
 Made by: OpenAI

@@ -1,28 +1,28 @@
 Skip to main content
 
-[](</>)[](</business/>)
+[](</>)
 
-  * Why OpenAI
+  * [Research](</research/index/>)
   * Products
-  * Solutions
-  * Resources
-  * [Customers](</business/customer-stories/>)
-  * [Pricing](</business/pricing/>)
+  * [Business](</business/>)
+  * [Developers](</api/>)
+  * [Company](</about/>)
+  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
 
 
 
-Try OpenAI[Contact sales](</contact-sales/>)
+Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
-  * Why OpenAI
+  * Research
   * Products
-  * Solutions
-  * Resources
-  * [Customers](</business/customer-stories/>)
-  * [Pricing](</business/pricing/>)
+  * Business
+  * Developers
+  * Company
+  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
 
 
 
-[Contact sales](</contact-sales/>)Try OpenAI
+[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)Login
 
 OpenAI[View all plugins](</business/plugins/>)
 
@@ -31,6 +31,18 @@ OpenAI[View all plugins](</business/plugins/>)
 Search, create, and edit designs.
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_68df33b1a2d081918778431a9cfca8ba>)[Contact sales](</contact-sales/>)
+
+@Canva Create some social media posts based on our October campaign brief
+
+![@Canva Create some social media posts based on our October campaign brief](https://files.openai.com/content?id=file_00000000d8a871f7bd1a50bf8a77f822&cdn=1&cp=pi&ma=31881600&ts=0&p=pi&cid=7&sig=0cb22288ecfd2cc8ac3e0af24fda5c599dd17ca2dd687c0e1c571be06e434801&v=0)
+
+@Canva Use these latest investor meeting notes to make a Q1 2026 pitch deck
+
+![@Canva Use these latest investor meeting notes to make a Q1 2026 pitch deck](https://files.openai.com/content?id=file_00000000f15471f7a561086279a00320&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=7&sig=9a8d5ac2b73354214d003a6b7a1270ace1e44e249fd638d8ca2b2746e7494aeb&v=0)
+
+@Canva Can you resize this poster as an Instagram post for my online store?
+
+![@Canva Can you resize this poster as an Instagram post for my online store?](https://files.openai.com/content?id=file_00000000760471f7aa6344b4e165c521&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=7&sig=94fc5dc63dbfae022f2314de35970d7942ef710bc38331cb0fe66d8adc580e96&v=0)
 
 Use case: [Design](</business/plugins/?tab=apps-design>)
 

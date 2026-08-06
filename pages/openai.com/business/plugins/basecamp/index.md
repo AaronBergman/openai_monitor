@@ -32,6 +32,8 @@ Connect to sync Basecamp projects and to-dos for use in ChatGPT.
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_1p_4d51176077148191bc5ba26a9602c800>)[Contact sales](</contact-sales/>)
 
+[@Basecamp Open Basecamp(opens in a new window)](<https://chatgpt.com/?prompt=%40Basecamp+Open+Basecamp>)
+
 Use case: [Project Management](</business/plugins/?tab=apps-project-management>)
 
 Made by: OpenAI

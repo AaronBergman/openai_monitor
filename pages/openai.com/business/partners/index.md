@@ -264,7 +264,7 @@ statworx
 
 teamLab
 
-![teamLab logo](https://images.ctfassets.net/kftzwdyauwt9/3LeUDG7f9s4U1jkTyqNmeP/9c0f981142cc46c3226eebb7583855ea/phia-teamlab-square-light.svg?w=3840&q=90)
+![teamLab logo](https://images.ctfassets.net/kftzwdyauwt9/41MyjZv3R7h6e3kO7RHaLZ/aa55b89195089b4aba2ac17f02bc1e9b/teamlab-square-light.svg?w=3840&q=90)
 
 Thinking Machines Data Science
 
@@ -516,7 +516,7 @@ statworx
 
 teamLab
 
-![teamLab logo](https://images.ctfassets.net/kftzwdyauwt9/3LeUDG7f9s4U1jkTyqNmeP/9c0f981142cc46c3226eebb7583855ea/phia-teamlab-square-light.svg?w=3840&q=90)
+![teamLab logo](https://images.ctfassets.net/kftzwdyauwt9/41MyjZv3R7h6e3kO7RHaLZ/aa55b89195089b4aba2ac17f02bc1e9b/teamlab-square-light.svg?w=3840&q=90)
 
 Thinking Machines Data Science
 

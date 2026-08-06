@@ -32,6 +32,14 @@ Inspect models, datasets, Spaces, and research.
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6939e86417648191b7bda087d872685b>)[Contact sales](</contact-sales/>)
 
+@Hugging Face generate a realistic farm using FLUX.1
+
+![@Hugging Face generate a realistic farm using FLUX.1](https://files.openai.com/content?id=file_00000000463871f6a0e5773127c8bc2b&cdn=1&cp=pi&ma=31968000&ts=0&p=pi&cid=1&sig=bfd7cff11076625abf062775095e00a2cad17b4eff05506a641e6df742baf8d4)
+
+@Hugging Face what models are currently trending?
+
+![@Hugging Face what models are currently trending?](https://files.openai.com/content?id=file_000000002f1871f6b787d3b13c9e870d&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=1&sig=590b91ea80a48fa7a66a19e308389e161b795f7e849001f741e8bb0c859c5f19)
+
 Use case: [Developer Tools](</business/plugins/?tab=apps-developer-tools>)
 
 Made by: Hugging Face

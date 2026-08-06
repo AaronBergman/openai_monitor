@@ -32,6 +32,18 @@ Find and access your stored files.
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69b31dc2110c8191b8b47dc98fe5a052>)[Contact sales](</contact-sales/>)
 
+@Dropbox save this proposal to my Dropbox
+
+![@Dropbox save this proposal to my Dropbox](https://files.openai.com/content?id=file_0000000057a471f7a45c06501e5fc5a5&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=6051f0edf407cd13ac3372c10a81929433ba01643a3805d982396a58d7064905&v=0)
+
+@Dropbox can you show me my vacation photo?
+
+![@Dropbox can you show me my vacation photo?](https://files.openai.com/content?id=file_00000000bdb071f7bfd12cc004464d70&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=1&sig=dd20ae8b2c50aee11934f35fbe12910b01e098095b5eb3eead5ce7a51b98102d&v=0)
+
+@Dropbox can you generate a Dropbox shareable link for this PDF?
+
+![@Dropbox can you generate a Dropbox shareable link for this PDF?](https://files.openai.com/content?id=file_00000000a94871f7a6609943bf709fcf&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=1&sig=7b6b92aeb2e0d65e6d0341b8099d072c2515ff43554859aea46d988cafd51989&v=0)
+
 Use case: [File Sharing](</business/plugins/?tab=apps-file-sharing>)
 
 Made by: OpenAI

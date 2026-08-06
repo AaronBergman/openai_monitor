@@ -1,5 +1,44 @@
 # openai_monitor
 
+## 2026-08-06 — Run `2026-08-06T09-16Z`
+
+**Fetch time:** 2026-08-06T09:18:00Z
+**Baseline:** 2026-08-05T09-16Z (consecutive day)
+**Stats:** 1,556 total URLs | +1 added | 180 updated | -0 removed | 1 anomaly | 35 sub-sitemaps
+
+**TL;DR:** A quiet news day but a busy platform day. The main event is a sitewide feature launch in the ChatGPT plugin/connector directory: 70 of the ~85 `/business/plugins/*` pages (Salesforce, Adobe, Canva, Databricks, Snowflake, Zoom, HubSpot, and dozens more) gained clickable "@Plugin ..." example-prompt chips or illustrated prompt cards showing what you can ask each integration, and 8 of them had their "Add plugin" link migrated from an old ad-hoc `/plugins/share/<hash>` URL scheme to a canonical `/plugins/Plugin_<hash>` one. Separately, Enterprise pricing on `/business/pricing/` and `/business/chatgpt-pricing/` picked up a new footnote clarifying that both credit-based and token-based pricing are available for Enterprise plans, the Fast Mode API pricing table was restructured to show explicit (2x) long-context pricing for the GPT-5.6 model family, and the "Trusted Access for Cyber" program dropped "Pilot" from its name and gained an explicit Amazon Bedrock legal carve-out. A new `/economic-research-exchange/` page went live listing the inaugural cohort of external researchers in OpenAI's economics research program (the June 8 announcement post was updated today to link to it). One soft anomaly: an old article's `<lastmod>` jumped 48 days for template-only reasons, not a real edit — see below.
+
+### Anomalies
+
+One flagged: `/index/our-approach-to-the-model-spec/`'s `<lastmod>` jumped from June 19 to today (48 days) despite the article body being byte-identical to the June snapshot — the jump is entirely sitewide template/nav churn (footer "Supply Co." link, "Customer Stories"/"Partner Network" nav items, "Latest Advancements" widget now showing GPT-5.6, related-articles sidebar rotation, a duplicate-TOC rendering bug fixed) finally reaching a page that hadn't been touched since June. Recorded because, from the sitemap alone, a 48-day lastmod jump looks like a substantive republish; it isn't. No future-dated or backward-moving lastmods, no reappeared URLs (0 removed), and no sub-sitemap migrations (verified with full multi-membership tracking across all 35 sub-sitemaps; 216 URLs are legitimately cross-listed in more than one).
+
+### New pages
+
+- **[/economic-research-exchange/](pages/openai.com/economic-research-exchange/index.md)** — landing page for the inaugural cohort of the OpenAI Economic Research Exchange, listing the external researchers selected to study AI's effects on labor markets and the economy. The original announcement, [Introducing the OpenAI Economic Research Exchange](pages/openai.com/index/introducing-the-openai-economic-research-exchange/index.md) (June 8, republished to this URL on 2026-08-05), was updated today with an inline "Update August 5, 2026: See the current Research Cohort here" link pointing to this new page.
+
+### Notable updates
+
+- **[/business/plugins/*](pages/openai.com/business/plugins/) — example-prompt chips rolled out across the directory.** 70 plugin pages gained one or more "@Plugin ..." example prompts — either as clickable chip links that open a pre-filled ChatGPT conversation (e.g. `@Sales What can you do?`, `@Databricks Genie Inspect Databricks workspace objects...`), or as illustrated prompt-card screenshots (Adobe, Canva, Salesforce, Zoom, Box, Dropbox, Hex, HubSpot, Lovable, Mailchimp, Netlify, Cloudinary, Pitchbook, LSEG, Fireflies, Gusto, Asana, and more got the card treatment; roughly 51 pages got plain chip links instead). 8 pages ([investment-banking](pages/openai.com/business/plugins/investment-banking/index.md), creative-production, data-analytics, databricks, product-design, public-equity-investing, sales, snowflake) also had their "Add plugin" link migrate from `/plugins/share/<hash>` to a canonical `/plugins/Plugin_<hash>` URL scheme.
+- **[/business/pricing/](pages/openai.com/business/pricing/index.md) and [/business/chatgpt-pricing/](pages/openai.com/business/chatgpt-pricing/index.md)** — Enterprise tier's "Contact our sales team to discuss pricing." now has a footnote: *"Credit-based pricing and token-based pricing are available for Enterprise plans."* `/business/pricing/` also added two product screenshots, a new "Compare all features" link, and a bottom CTA block ("Start creating with OpenAI's powerful models.").
+- **[/api-fast-mode/](pages/openai.com/api-fast-mode/index.md)** — Fast Mode pricing table split into "Short context" / "Long context" (>272K tokens) columns. The GPT-5.6 family (Sol, Terra, Luna) now shows explicit long-context pricing at exactly 2x the short-context rate; every older model (GPT-5.5 and earlier, GPT-4.1, GPT-4o, o3, o4-mini) shows "—" for long context, meaning long-context Fast Mode pricing is currently GPT-5.6-only.
+- **[/form/enterprise-trusted-access-for-cyber/](pages/openai.com/form/enterprise-trusted-access-for-cyber/index.md)** — page title dropped "Pilot": "Request OpenAI Pilot: Trusted Access For Cyber" → "Request Trusted Access for Cyber". The legal addendum now explicitly carves out Amazon Bedrock access (governed by a separate "OpenAI Services Agreement - Amazon Bedrock"), broadened "employees" to "personnel" in two clauses, and narrowed the indemnification clause to reference the *customer's* liability limits specifically.
+- **[/business/plugins/atlassian-rovo/](pages/openai.com/business/plugins/atlassian-rovo/index.md)** — capitalization fix ("easily access..." → "Easily access...") alongside its new example-prompt cards.
+
+### Routine updates
+
+61 `/business/partners/*` pages were refetched, all just a partner-tier-badge image cache-busting parameter with no body-text change (12 of them also rendered the known alternate nav/header A/B variant logged in prior runs). 44 more URLs had `<lastmod>` bumped with zero detectable content change: `/daybreak/`, `/education/`, `/science/`, `/student-collective/`, `/products/release-notes/`, all 4 `/signals/*` pages, 5 `/form/*` pages, 6 `/business/solutions/*` pages, 2 `/business/why-openai/*` pages, 3 `/business/plugins/*` (amplitude, openai-certified, semrush), and 17 `/index/*` posts. Full per-URL breakdown in [`runs/2026-08-06T09-16Z/analysis.md`](runs/2026-08-06T09-16Z/analysis.md).
+
+### Removals
+
+None this run.
+
+Full analysis: [runs/2026-08-06T09-16Z/analysis.md](runs/2026-08-06T09-16Z/analysis.md)
+
+---
+*Stats: 1,556 total URLs | +1 added | 180 updated | -0 removed | 1 anomaly | 35 sub-sitemaps*
+
+---
+
 ## 2026-08-05 — Run `2026-08-05T09-16Z`
 
 **Fetch time:** 2026-08-05T09:18:50Z

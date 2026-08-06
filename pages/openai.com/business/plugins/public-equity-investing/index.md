@@ -30,7 +30,9 @@ OpenAI[View all plugins](</business/plugins/>)
 
 Support company research and deal analysis.
 
-[Add plugin(opens in a new window)](<https://chatgpt.com/plugins/share/8f2f2fb7215f4688a0853afd038f2a1a>)[Contact sales](</contact-sales/>)
+[Add plugin(opens in a new window)](<https://chatgpt.com/plugins/Plugin_b31b1ece54648191a6760ea4580bba3e>)[Contact sales](</contact-sales/>)
+
+[@Public Equity Investing Build a deep NVIDIA pre-earnings preview: expectations, KPIs, margin debates, scenarios, and management questions.(opens in a new window)](<https://chatgpt.com/?prompt=%40Public+Equity+Investing+Build+a+deep+NVIDIA+pre-earnings+preview%3A+expectations%2C+KPIs%2C+margin+debates%2C+scenarios%2C+and+management+questions.>)[@Public Equity Investing Create a Disney long/short pitch: streaming, parks, ESPN, capital allocation, valuation, catalysts, and downside risks.(opens in a new window)](<https://chatgpt.com/?prompt=%40Public+Equity+Investing+Create+a+Disney+long%2Fshort+pitch%3A+streaming%2C+parks%2C+ESPN%2C+capital+allocation%2C+valuation%2C+catalysts%2C+and+downside+risks.>)[@Public Equity Investing Build a Tesla catalyst and valuation brief: recent news, expectations, key debates, scenarios, risks, and an investment view.(opens in a new window)](<https://chatgpt.com/?prompt=%40Public+Equity+Investing+Build+a+Tesla+catalyst+and+valuation+brief%3A+recent+news%2C+expectations%2C+key+debates%2C+scenarios%2C+risks%2C+and+an+investment+view.>)
 
 Use case: [Finance](</business/plugins/?tab=apps-finance>)
 

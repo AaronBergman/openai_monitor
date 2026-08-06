@@ -32,6 +32,8 @@ Search and reference files from your Drive.
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_1p_ab21a553bfbc81919ea8fd1858e3ffa7>)[Contact sales](</contact-sales/>)
 
+[@Google Drive Find the right Drive file, then summarize a Doc, update a Sheet, or edit a Slides deck(opens in a new window)](<https://chatgpt.com/?prompt=%40Google+Drive+Find+the+right+Drive+file%2C+then+summarize+a+Doc%2C+update+a+Sheet%2C+or+edit+a+Slides+deck>)
+
 Use case: [File Sharing](</business/plugins/?tab=apps-file-sharing>)
 
 Made by: OpenAI

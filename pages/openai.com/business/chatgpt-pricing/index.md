@@ -75,11 +75,11 @@ Enterprise-grade AI, security, and support for businesses operating at scale
 
 Custom pricing
 
-Contact our sales team to discuss pricing.
+Contact our sales team to discuss pricing.*
 
 [Contact sales](</contact-sales/>)
 
-What's included:
+What’s included:
 
   * Expanded context window that supports longer inputs and larger files
 
@@ -95,6 +95,8 @@ What's included:
 
 
 
+
+*[Credit-based⁠⁠(opens in a new window)](<https://help.openai.com/articles/11481834-chatgpt-rate-card-business-enterpriseedu>) pricing and [token-based⁠(opens in a new window)](<https://help.openai.com/articles/20001415>) pricing are available for Enterprise plans.
 
 ### Looking for personal plans?
 

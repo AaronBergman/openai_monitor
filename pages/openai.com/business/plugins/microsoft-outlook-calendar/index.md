@@ -32,6 +32,8 @@ Look up events and availability.
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_1p_fd0f4f41caa88191a9456514bbffa06d>)[Contact sales](</contact-sales/>)
 
+[@Outlook Calendar Summarize my day, compare availability, explain Outlook status, and draft the right event update(opens in a new window)](<https://chatgpt.com/?prompt=%40Outlook+Calendar+Summarize+my+day%2C+compare+availability%2C+explain+Outlook+status%2C+and+draft+the+right+event+update>)
+
 Use case: [Collaboration](</business/plugins/?tab=apps-collaboration>)
 
 Made by: OpenAI

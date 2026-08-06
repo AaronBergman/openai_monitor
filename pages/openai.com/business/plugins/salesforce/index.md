@@ -32,6 +32,18 @@ Review CRM records and update sales workflows.
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_697d413990c88191a2bf4799604f8f6c>)[Contact sales](</contact-sales/>)
 
+@Agentforce Sales show me my top 10 leads
+
+![@Agentforce Sales show me my top 10 leads](https://files.openai.com/content?id=file_0000000023cc71f7864bde14ce2f22e2&cdn=1&cp=pi&ma=31536000&ts=0&p=pi&cid=1&sig=b818cdbcdcf8d1cbc22ab980d3e7d01855c08c30288f9de1113f4746fe0443be)
+
+@Agentforce Sales show me activities for Astro Radio
+
+![@Agentforce Sales show me activities for Astro Radio](https://files.openai.com/content?id=file_00000000a1d471f793c78037efd3ec3b&cdn=1&cp=pi&ma=30326400&ts=0&p=pi&cid=1&sig=5fae4747ae920029bdb6c54d23ceabd5bf0eec3966ce6f5975067a07cf3fd9de)
+
+@Agentforce Sales what did I last speak to Nova Eve about
+
+![@Agentforce Sales what did I last speak to Nova Eve about](https://files.openai.com/content?id=file_000000005f4471f7838b3502876a2ac5&cdn=1&cp=pi&ma=31881600&ts=0&p=pi&cid=1&sig=f2f6abb8404dc7f8e488ed35057b1592a585b9b0794044d4f1ea0a40c55a1210)
+
 Use case: [Go-to-Market](</business/plugins/?tab=apps-go-to-market>)
 
 Made by: Salesforce

@@ -32,6 +32,8 @@ Look up past user chats and tickets.
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_1p_c906c3aa77588191840b20b3ab10dd74>)[Contact sales](</contact-sales/>)
 
+[@Intercom Search Intercom for open billing conversations and summarize top issues.(opens in a new window)](<https://chatgpt.com/?prompt=%40Intercom+Search+Intercom+for+open+billing+conversations+and+summarize+top+issues.>)[@Intercom Find Intercom contacts from example.com and pull recent conversation history.(opens in a new window)](<https://chatgpt.com/?prompt=%40Intercom+Find+Intercom+contacts+from+example.com+and+pull+recent+conversation+history.>)[@Intercom Fetch this Intercom conversation and draft next steps.(opens in a new window)](<https://chatgpt.com/?prompt=%40Intercom+Fetch+this+Intercom+conversation+and+draft+next+steps.>)
+
 Use case: [Go-to-Market](</business/plugins/?tab=apps-go-to-market>)
 
 Made by: OpenAI
