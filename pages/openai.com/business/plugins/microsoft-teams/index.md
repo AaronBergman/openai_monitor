@@ -1,28 +1,28 @@
 Skip to main content
 
-[](</>)
+[](</>)[](</business/>)
 
-  * [Research](</research/index/>)
+  * Why OpenAI
   * Products
-  * [Business](</business/>)
-  * [Developers](</api/>)
-  * [Company](</about/>)
-  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
+  * Solutions
+  * Resources
+  * [Customers](</business/customer-stories/>)
+  * [Pricing](</business/pricing/>)
 
 
 
-Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
+Try OpenAI[Contact sales](</contact-sales/>)
 
-  * Research
+  * Why OpenAI
   * Products
-  * Business
-  * Developers
-  * Company
-  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
+  * Solutions
+  * Resources
+  * [Customers](</business/customer-stories/>)
+  * [Pricing](</business/pricing/>)
 
 
 
-[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)Login
+[Contact sales](</contact-sales/>)Try OpenAI
 
 OpenAI[View all plugins](</business/plugins/>)
 
@@ -31,6 +31,8 @@ OpenAI[View all plugins](</business/plugins/>)
 Look up chats and messages.
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_1p_eba8b52fe53881918408d4b46b957644>)[Contact sales](</contact-sales/>)
+
+[@Teams Summarize chat, pull out action items, or draft follow-up(opens in a new window)](<https://chatgpt.com/?prompt=%40Teams+Summarize+chat%2C+pull+out+action+items%2C+or+draft+follow-up>)
 
 Use case: [Collaboration](</business/plugins/?tab=apps-collaboration>)
 

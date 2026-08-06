@@ -32,6 +32,18 @@ Turn Asana tasks into clear updates and plans.
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69616780bd208191b4fb44ba44f72b61>)[Contact sales](</contact-sales/>)
 
+@Asana Create a project to track creative requests
+
+![@Asana Create a project to track creative requests](https://files.openai.com/content?id=file_00000000863071f7aa9ab79475e9cd84&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=dbbd8bebbfe43dde5014296b0dbae178c0982f5ef272428e5abc4b8a92468aa0)
+
+@Asana Adjust project before creating it in Asana
+
+![@Asana Adjust project before creating it in Asana](https://files.openai.com/content?id=file_0000000026c471f79ec1a87b84922b06&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=1&sig=9445ca411ae107016caf1d576a508375a7d1c047f3ab0fd787877a3d1d8751ee)
+
+@Asana Create task to track follow up actions
+
+![@Asana Create task to track follow up actions](https://files.openai.com/content?id=file_00000000e69871f79daceb5bd9d258e4&cdn=1&cp=pi&ma=31190400&ts=0&p=pi&cid=1&sig=19f66b1cfd3f10f33341d5d8c7cb413090af7617b4b19fd6a46b1601835b0c2d)
+
 Use case: [Project Management](</business/plugins/?tab=apps-project-management>)
 
 Made by: Asana

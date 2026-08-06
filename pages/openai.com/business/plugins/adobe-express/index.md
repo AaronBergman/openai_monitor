@@ -32,6 +32,8 @@ Create flyers, posts, and graphics quickly.
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_699d522f170c81919c824678c7c03732>)[Contact sales](</contact-sales/>)
 
+[@Adobe Express I want to create an invitation for my son's birthday party.(opens in a new window)](<https://chatgpt.com/?prompt=%40Adobe+Express+I+want+to+create+an+invitation+for+my+son%27s+birthday+party.>)[@Adobe Express fill details Emma Smith's Zoo party on her 6th birthday at 45 Maple Drive(opens in a new window)](<https://chatgpt.com/?prompt=%40Adobe+Express+fill+details+Emma+Smith%27s+Zoo+party+on+her+6th+birthday+at+45+Maple+Drive>)[@Adobe Express Replace dinosaur with a baby croc(opens in a new window)](<https://chatgpt.com/?prompt=%40Adobe+Express+Replace+dinosaur+with+a+baby+croc>)
+
 Use case: [Design](</business/plugins/?tab=apps-design>)
 
 Made by: Adobe

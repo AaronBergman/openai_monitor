@@ -32,6 +32,8 @@ Connect to sync Zoho CRM records and activities for use in ChatGPT.
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a193ef5e804819197c25f88d92d6bf7>)[Contact sales](</contact-sales/>)
 
+[@Zoho CRM Search Zoho CRM for open deals closing this quarter and summarize the highest-risk opportunities.(opens in a new window)](<https://chatgpt.com/?prompt=%40Zoho+CRM+Search+Zoho+CRM+for+open+deals+closing+this+quarter+and+summarize+the+highest-risk+opportunities.>)[@Zoho CRM Find Zoho CRM contacts at an account and summarize recent activities.(opens in a new window)](<https://chatgpt.com/?prompt=%40Zoho+CRM+Find+Zoho+CRM+contacts+at+an+account+and+summarize+recent+activities.>)[@Zoho CRM Pull Zoho CRM organization settings and users needed to audit access.(opens in a new window)](<https://chatgpt.com/?prompt=%40Zoho+CRM+Pull+Zoho+CRM+organization+settings+and+users+needed+to+audit+access.>)
+
 Use case: [Go-to-Market](</business/plugins/?tab=apps-go-to-market>)
 
 Made by: Zoho

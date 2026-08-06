@@ -32,6 +32,10 @@ Search docs and deploy apps.
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_690a90ec05c881918afb6a55dc9bbaa1>)[Contact sales](</contact-sales/>)
 
+@Vercel why is my build failing?
+
+![@Vercel why is my build failing?](https://files.openai.com/content?id=file_000000006ff471f691966006ae9c2d19&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=1&sig=cf5bdc428b32693a39a7b2751547eb57998d8173413f7082598f02b3a43596da)
+
 Use case: [Developer Tools](</business/plugins/?tab=apps-developer-tools>)
 
 Made by: Vercel

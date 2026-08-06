@@ -32,6 +32,8 @@ Access repositories, issues, and pull requests.
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_1p_1a69035c238881919c4190932b2df699>)[Contact sales](</contact-sales/>)
 
+[@GitHub Inspect PRs, triage issues, debug failing checks, and prepare code changes for review(opens in a new window)](<https://chatgpt.com/?prompt=%40GitHub+Inspect+PRs%2C+triage+issues%2C+debug+failing+checks%2C+and+prepare+code+changes+for+review>)
+
 Use case: [Developer Tools](</business/plugins/?tab=apps-developer-tools>)
 
 Made by: OpenAI

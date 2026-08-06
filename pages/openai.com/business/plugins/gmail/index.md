@@ -32,6 +32,8 @@ Find and reference emails from your inbox.
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_1p_95d39881713c8191931482a62d6edff9>)[Contact sales](</contact-sales/>)
 
+[@Gmail Summarize inbox, draft replies, or process email threads(opens in a new window)](<https://chatgpt.com/?prompt=%40Gmail+Summarize+inbox%2C+draft+replies%2C+or+process+email+threads>)
+
 Use case: [Collaboration](</business/plugins/?tab=apps-collaboration>)
 
 Made by: OpenAI

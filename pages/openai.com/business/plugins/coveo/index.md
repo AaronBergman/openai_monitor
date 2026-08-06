@@ -32,6 +32,8 @@ Search across your enterprise content sources.
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_693251083bf48191a69098fd0ba36f17>)[Contact sales](</contact-sales/>)
 
+[@Coveo Use Coveo to help with this task(opens in a new window)](<https://chatgpt.com/?prompt=%40Coveo+Use+Coveo+to+help+with+this+task>)
+
 Use case: [Data](</business/plugins/?tab=apps-data>)
 
 Made by: Coveo

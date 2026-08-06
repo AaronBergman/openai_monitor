@@ -1,28 +1,28 @@
 Skip to main content
 
-[](</>)[](</business/>)
+[](</>)
 
-  * Why OpenAI
+  * [Research](</research/index/>)
   * Products
-  * Solutions
-  * Resources
-  * [Customers](</business/customer-stories/>)
-  * [Pricing](</business/pricing/>)
+  * [Business](</business/>)
+  * [Developers](</api/>)
+  * [Company](</about/>)
+  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
 
 
 
-Try OpenAI[Contact sales](</contact-sales/>)
+Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
-  * Why OpenAI
+  * Research
   * Products
-  * Solutions
-  * Resources
-  * [Customers](</business/customer-stories/>)
-  * [Pricing](</business/pricing/>)
+  * Business
+  * Developers
+  * Company
+  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
 
 
 
-[Contact sales](</contact-sales/>)Try OpenAI
+[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)Login
 
 OpenAI[View all plugins](</business/plugins/>)
 
@@ -31,6 +31,8 @@ OpenAI[View all plugins](</business/plugins/>)
 Get marketing performance insights.
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_694421e60cc88191a1e5bb4aa79950e4>)[Contact sales](</contact-sales/>)
+
+[@Klaviyo Analyze my replenishment flow and make recommendations for improvements.(opens in a new window)](<https://chatgpt.com/?prompt=%40Klaviyo+Analyze+my+replenishment+flow+and+make+recommendations+for+improvements.>)[@Klaviyo Deep dive report on customer winback, outline what is working well and what needs my attention and why.(opens in a new window)](<https://chatgpt.com/?prompt=%40Klaviyo+Deep+dive+report+on+customer+winback%2C+outline+what+is+working+well+and+what+needs+my+attention+and+why.>)[@Klaviyo Give me a campaign performance report for last week [add dates] across all of my campaigns; overall metrics and per campaign.(opens in a new window)](<https://chatgpt.com/?prompt=%40Klaviyo+Give+me+a+campaign+performance+report+for+last+week+%5Badd+dates%5D+across+all+of+my+campaigns%3B+overall+metrics+and+per+campaign.>)
 
 Use case: [Go-to-Market](</business/plugins/?tab=apps-go-to-market>)
 

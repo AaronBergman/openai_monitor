@@ -32,6 +32,8 @@ Turn your ideas into real apps.
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6934801c799081918131791660f02890>)[Contact sales](</contact-sales/>)
 
+[@Replit Find my Replit projects and summarize the most recent activity.(opens in a new window)](<https://chatgpt.com/?prompt=%40Replit+Find+my+Replit+projects+and+summarize+the+most+recent+activity.>)[@Replit Open a Replit workspace and explain the app structure.(opens in a new window)](<https://chatgpt.com/?prompt=%40Replit+Open+a+Replit+workspace+and+explain+the+app+structure.>)[@Replit Review Replit deployments for this project and flag issues.(opens in a new window)](<https://chatgpt.com/?prompt=%40Replit+Review+Replit+deployments+for+this+project+and+flag+issues.>)
+
 Use case: [Developer Tools](</business/plugins/?tab=apps-developer-tools>)
 
 Made by: Replit

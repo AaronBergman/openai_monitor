@@ -39,28 +39,29 @@ Fast mode offers reliable, high-speed performance with the flexibility to pay-as
 
 _Note: Priority processing was renamed Fast mode on July 30, 2026. You can use either service_tier: priority or service_tier: fast in your API requests._
 
-|  Price per 1M input tokens| Price per 1M input tokens (cached)| Price per 1M output tokens| Uptime SLA3| Latency SLA3  
----|---|---|---|---|---  
-GPT-5.6 Solexcludes long context1| $10.00| $1.00| $60.00| 99.9%| 99% > 80 tokens per second2  
-GPT-5.6 Terraexcludes long context1| $4.00| $0.40| $24.00| 99.9%| 99% > 70 tokens per second2  
-GPT-5.6 Lunaexcludes long context1| $0.40| $0.04| $2.40| 99.9%| 99% > 100 tokens per second2  
-GPT-5.5excludes long context1| $12.50| $1.250| $75.00| 99.9%| 99% > 50 tokens per second2  
-GPT-5.4 miniexcludes long context1| $1.50| $0.150| $9.00| 99.9%| 99% > 100 tokens per second2  
-GPT-5.4excludes long context1| $5.00| $0.500| $30.00| 99.9%| 99% > 50 tokens per second2  
-GPT-5.2| $3.50| $0.350| $28.00| 99.9%| 99% > 50 tokens per second2  
-GPT-5.1| $2.50| $0.250| $20.00| 99.9%| 99% > 50 tokens per second2  
-GPT-5| $2.50| $0.250| $20.00| 99.9%| 99% > 50 tokens per second2  
-GPT-5 mini| $0.45| $0.045| $3.60| 99.9%| 99% > 80 tokens per second2  
-GPT-5.1 codex| $2.50| $0.250| $20.00| 99.9%| 99% > 50 tokens per second2  
-GPT-5 codex| $2.50| $0.250| $20.00| 99.9%| 99% > 50 tokens per second2  
-GPT-4.1| $3.50| $0.875| $14.00| 99.9%| 99% > 80 tokens per second2  
-GPT-4.1 mini| $0.70| $0.175| $2.80| 99.9%| 99% > 90 tokens per second2  
-GPT-4.1 nano| $0.20| $0.050| $0.80| 99.9%| 99% > 100 tokens per second2  
-GPT-4ogpt-4o-2024-11-20gpt-4o-2024-08-06| $4.25| $2.125| $17.00| 99.9%| 99% > 80 tokens per second2  
-gpt-4o-2024-05-13| $8.75| —| $26.25| 99.9%| 99% > 80 tokens per second2  
-GPT-4o mini| $0.25| $0.125| $1.00| 99.9%| 99% > 90 tokens per second2  
-o3| $3.50| $0.875| $14.00| 99.9%| 99% > 80 tokens per second2  
-o4-mini| $2.00| $0.500| $8.00| 99.9%| 99% > 90 tokens per second2  
+|  Short context| Long context| Uptime SLA3| Latency SLA3  
+---|---|---|---|---  
+Price per 1M input tokens| Price per 1M input tokens (cached)| Price per 1M output tokens| Price per 1M input tokens| Price per 1M input tokens (cached)| Price per 1M output tokens  
+GPT-5.6 Sol| $10.00| $1.00| $60.00| $20.00| $2.00| $90.00| 99.9%| 99% > 80 tokens per second2  
+GPT-5.6 Terra| $4.00| $0.40| $24.00| $8.00| $0.80| $36.00| 99.9%| 99% > 70 tokens per second2  
+GPT-5.6 Luna| $0.40| $0.04| $2.40| $0.80| $0.08| $3.60| 99.9%| 99% > 100 tokens per second2  
+GPT-5.5excludes long context1| $12.50| $1.250| $75.00| —| —| —| 99.9%| 99% > 50 tokens per second2  
+GPT-5.4 miniexcludes long context1| $1.50| $0.150| $9.00| —| —| —| 99.9%| 99% > 100 tokens per second2  
+GPT-5.4excludes long context1| $5.00| $0.500| $30.00| —| —| —| 99.9%| 99% > 50 tokens per second2  
+GPT-5.2| $3.50| $0.350| $28.00| —| —| —| 99.9%| 99% > 50 tokens per second2  
+GPT-5.1| $2.50| $0.250| $20.00| —| —| —| 99.9%| 99% > 50 tokens per second2  
+GPT-5| $2.50| $0.250| $20.00| —| —| —| 99.9%| 99% > 50 tokens per second2  
+GPT-5 mini| $0.45| $0.045| $3.60| —| —| —| 99.9%| 99% > 80 tokens per second2  
+GPT-5.1 codex| $2.50| $0.250| $20.00| —| —| —| 99.9%| 99% > 50 tokens per second2  
+GPT-5 codex| $2.50| $0.250| $20.00| —| —| —| 99.9%| 99% > 50 tokens per second2  
+GPT-4.1| $3.50| $0.875| $14.00| —| —| —| 99.9%| 99% > 80 tokens per second2  
+GPT-4.1 mini| $0.70| $0.175| $2.80| —| —| —| 99.9%| 99% > 90 tokens per second2  
+GPT-4.1 nano| $0.20| $0.050| $0.80| —| —| —| 99.9%| 99% > 100 tokens per second2  
+GPT-4ogpt-4o-2024-11-20gpt-4o-2024-08-06| $4.25| $2.125| $17.00| —| —| —| 99.9%| 99% > 80 tokens per second2  
+gpt-4o-2024-05-13| $8.75| —| $26.25| —| —| —| 99.9%| 99% > 80 tokens per second2  
+GPT-4o mini| $0.25| $0.125| $1.00| —| —| —| 99.9%| 99% > 90 tokens per second2  
+o3| $3.50| $0.875| $14.00| —| —| —| 99.9%| 99% > 80 tokens per second2  
+o4-mini| $2.00| $0.500| $8.00| —| —| —| 99.9%| 99% > 90 tokens per second2  
   
 1Requests estimated at >272K prompt tokens
 

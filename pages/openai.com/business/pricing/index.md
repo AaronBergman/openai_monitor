@@ -1,34 +1,38 @@
 Skip to main content
 
-[](</>)
+[](</>)[](</business/>)
 
-  * [Research](</research/index/>)
+  * Why OpenAI
   * Products
-  * [Business](</business/>)
-  * [Developers](</api/>)
-  * [Company](</about/>)
-  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
+  * Solutions
+  * Resources
+  * [Customers](</business/customer-stories/>)
+  * [Pricing](</business/pricing/>)
 
 
 
-[Try now(opens in a new window)](<https://chatgpt.com/team-sign-up>)[Contact sales](</contact-sales/>)
+Try OpenAI[Contact sales](</contact-sales/>)
 
-  * Research
+  * Why OpenAI
   * Products
-  * Business
-  * Developers
-  * Company
-  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
+  * Solutions
+  * Resources
+  * [Customers](</business/customer-stories/>)
+  * [Pricing](</business/pricing/>)
 
 
 
-[Contact sales](</contact-sales/>)
+[Contact sales](</contact-sales/>)Try OpenAI
 
 OpenAI
 
 # Pricing
 
 See pricing for our business and enterprise plans.
+
+ChatGPTAPI
+
+![](https://images.ctfassets.net/kftzwdyauwt9/5VpL5Fj00dC65H8mTi1jHn/9dded36b68c5120e69f1b101638d2529/chat-1.png?w=3840&q=90&fm=webp)
 
 ### Business
 
@@ -63,17 +67,19 @@ What's included:
 
 *2+ users, billed annually. $25.00 per user per month when billed monthly. Unlimited subject to abuse guardrails. [Learn more⁠(opens in a new window)](<https://help.openai.com/en/articles/8792828-what-is-chatgpt-team>)
 
+![](https://images.ctfassets.net/kftzwdyauwt9/s2GhJeU3baS4ToFbNYOTs/35171dcb81bd64418aec716692646f6e/chat-2.png?w=3840&q=90&fm=webp)
+
 ### Enterprise
 
 Enterprise-grade AI, security, and support for businesses operating at scale
 
 Custom pricing
 
-Contact our sales team to discuss pricing.
+Contact our sales team to discuss pricing.*
 
 [Contact sales](</contact-sales/>)
 
-What's included:
+What’s included:
 
   * Expanded context window that supports longer inputs and larger files
 
@@ -90,13 +96,15 @@ What's included:
 
 
 
+*[Credit-based⁠⁠(opens in a new window)](<https://help.openai.com/articles/11481834-chatgpt-rate-card-business-enterpriseedu>) pricing and [token-based⁠(opens in a new window)](<https://help.openai.com/articles/20001415>) pricing are available for Enterprise plans.
+
 ### Looking for personal plans?
 
 Visit ChatGPT.com for consumer pricing
 
 [Learn more(opens in a new window)](<https://chatgpt.com/pricing/>)
 
-## Trusted by teams at
+Compare all features
 
 Pricing
 
@@ -600,7 +608,13 @@ _**Enterprise and Business can purchase credits for more access_
 
  _***ChatGPT manages a shared context window to understand your request, track the conversation, retrieve relevant information, and generate responses. The portion available for user input is smaller than the total window, as space is also used for system instructions (including tools and personality), memories (if enabled), and internal processing (reviewing information, reasoning, and response generation). The reported space for user input is an approximation and may change dynamically based on features in use and any memory content._
 
+## Trusted by teams at
+
 ## FAQ
+
+## Start creating with OpenAI’s powerful models.
+
+[Get started(opens in a new window)](<https://platform.openai.com/>)[Contact sales](</contact-sales/>)
 
 Research
 

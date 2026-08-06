@@ -32,6 +32,14 @@ Add structured data to ChatGPT.
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_693ca6ce2db08191bb52d66743c65184>)[Contact sales](</contact-sales/>)
 
+@Airtable show me a kanban of the product roadmap. What’s at risk? What’s up next?
+
+![@Airtable show me a kanban of the product roadmap. What’s at risk? What’s up next?](https://files.openai.com/content?id=file_00000000ef6471f6bbd5be3fdf237983&cdn=1&cp=pi&ma=31536000&ts=0&p=pi&cid=1&sig=35911859778acd5d7c9d2bc6e948d2e0df8fc079aa0def9fff710ebf00ed85f4)
+
+@Airtable which roadmap initiatives should I discuss with the enterprise sales team today?
+
+![@Airtable which roadmap initiatives should I discuss with the enterprise sales team today?](https://files.openai.com/content?id=file_000000004eec71f68b402d889ed0928c&cdn=1&cp=pi&ma=32659200&ts=0&p=pi&cid=1&sig=e57e6ad716a38de19764dc591bcc1ef59236d25d6ee49395bb777e0ed2000dfc)
+
 Use case: [Data](</business/plugins/?tab=apps-data>)
 
 Made by: Airtable

@@ -30,7 +30,9 @@ OpenAI[View all plugins](</business/plugins/>)
 
 Create and adapt marketing assets faster.
 
-[Add plugin(opens in a new window)](<https://chatgpt.com/plugins/share/a826391706e14c90816f2ceba9cc8b49>)[Contact sales](</contact-sales/>)
+[Add plugin(opens in a new window)](<https://chatgpt.com/plugins/Plugin_9e6ca248b5248191ac8c599038990ad9>)[Contact sales](</contact-sales/>)
+
+[@Creative Production Start me on a creative production workflow(opens in a new window)](<https://chatgpt.com/?prompt=%40Creative+Production+Start+me+on+a+creative+production+workflow>)[@Creative Production Generate concept images for this visual brief(opens in a new window)](<https://chatgpt.com/?prompt=%40Creative+Production+Generate+concept+images+for+this+visual+brief>)[@Creative Production Create product placements from this image(opens in a new window)](<https://chatgpt.com/?prompt=%40Creative+Production+Create+product+placements+from+this+image>)
 
 Use case: [Design](</business/plugins/?tab=apps-design>)
 

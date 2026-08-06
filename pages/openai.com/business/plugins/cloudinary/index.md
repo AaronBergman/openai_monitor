@@ -1,28 +1,28 @@
 Skip to main content
 
-[](</>)
+[](</>)[](</business/>)
 
-  * [Research](</research/index/>)
+  * Why OpenAI
   * Products
-  * [Business](</business/>)
-  * [Developers](</api/>)
-  * [Company](</about/>)
-  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
+  * Solutions
+  * Resources
+  * [Customers](</business/customer-stories/>)
+  * [Pricing](</business/pricing/>)
 
 
 
-Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
+Try OpenAI[Contact sales](</contact-sales/>)
 
-  * Research
+  * Why OpenAI
   * Products
-  * Business
-  * Developers
-  * Company
-  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
+  * Solutions
+  * Resources
+  * [Customers](</business/customer-stories/>)
+  * [Pricing](</business/pricing/>)
 
 
 
-[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)Login
+[Contact sales](</contact-sales/>)Try OpenAI
 
 OpenAI[View all plugins](</business/plugins/>)
 
@@ -31,6 +31,18 @@ OpenAI[View all plugins](</business/plugins/>)
 Manage, modify, and host your images and videos.
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_691f245d4070819184e05b4889161ba8>)[Contact sales](</contact-sales/>)
+
+@Cloudinary upload this image and enable auto-tagging
+
+![@Cloudinary upload this image and enable auto-tagging](https://files.openai.com/content?id=file_00000000c2f871f68e4108b82c4d8852&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=8c8c5373405425e7c5576e76e122608265bc65b5826ba7bcaee25e38417b0d8c)
+
+@Cloudinary create a 300x200 thumbnail version with a sepia effect and rounded corners
+
+![@Cloudinary create a 300x200 thumbnail version with a sepia effect and rounded corners](https://files.openai.com/content?id=file_00000000a5d071f6b7aca26eb32af001&cdn=1&cp=pi&ma=32659200&ts=0&p=pi&cid=1&sig=a5e1a4ee5e8cf8176ba1a7df37a9481498aad140a8076e20cf03ff85b5fe27ba)
+
+@Cloudinary find all images tagged 'mountain' uploaded in the last 30 days
+
+![@Cloudinary find all images tagged 'mountain' uploaded in the last 30 days](https://files.openai.com/content?id=file_000000004fb871f687a76885b2d12a29&cdn=1&cp=pi&ma=30240000&ts=0&p=pi&cid=1&sig=ee05d299f8f475d9aee990b6474f5e14f2083114f6ffdf5a9cd93c4bf118053a)
 
 Use case: [Developer Tools](</business/plugins/?tab=apps-developer-tools>)
 

@@ -32,6 +32,8 @@ Automate finance tasks.
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69250fb6281c819195b52a1556b0060c>)[Contact sales](</contact-sales/>)
 
+[@Ramp Show me what needs my attention in Ramp(opens in a new window)](<https://chatgpt.com/?prompt=%40Ramp+Show+me+what+needs+my+attention+in+Ramp>)
+
 Use case: [Finance](</business/plugins/?tab=apps-finance>)
 
 Made by: Ramp

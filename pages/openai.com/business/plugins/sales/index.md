@@ -30,7 +30,9 @@ OpenAI[View all plugins](</business/plugins/>)
 
 Prepare account work and customer follow-up.
 
-[Add plugin(opens in a new window)](<https://chatgpt.com/plugins/share/22ec24462a4a410bba1c56c099f6101c>)[Contact sales](</contact-sales/>)
+[Add plugin(opens in a new window)](<https://chatgpt.com/plugins/Plugin_af5b4b796b588191b3f2c610aa093799>)[Contact sales](</contact-sales/>)
+
+[@Sales What can you do?(opens in a new window)](<https://chatgpt.com/?prompt=%40Sales+What+can+you+do%3F>)[@Sales Prepare me for my next important customer meeting. Give me the context, likely blockers, and questions I should ask.(opens in a new window)](<https://chatgpt.com/?prompt=%40Sales+Prepare+me+for+my+next+important+customer+meeting.+Give+me+the+context%2C+likely+blockers%2C+and+questions+I+should+ask.>)[@Sales Which accounts should I focus on this week? Rank them, explain why, and recommend the next move for each.(opens in a new window)](<https://chatgpt.com/?prompt=%40Sales+Which+accounts+should+I+focus+on+this+week%3F+Rank+them%2C+explain+why%2C+and+recommend+the+next+move+for+each.>)
 
 Use case: [Go-to-Market](</business/plugins/?tab=apps-go-to-market>)
 

@@ -1,28 +1,28 @@
 Skip to main content
 
-[](</>)[](</business/>)
+[](</>)
 
-  * Why OpenAI
+  * [Research](</research/index/>)
   * Products
-  * Solutions
-  * Resources
-  * [Customers](</business/customer-stories/>)
-  * [Pricing](</business/pricing/>)
+  * [Business](</business/>)
+  * [Developers](</api/>)
+  * [Company](</about/>)
+  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
 
 
 
-Try OpenAI[Contact sales](</contact-sales/>)
+Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
-  * Why OpenAI
+  * Research
   * Products
-  * Solutions
-  * Resources
-  * [Customers](</business/customer-stories/>)
-  * [Pricing](</business/pricing/>)
+  * Business
+  * Developers
+  * Company
+  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
 
 
 
-[Contact sales](</contact-sales/>)Try OpenAI
+[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)Login
 
 OpenAI[View all plugins](</business/plugins/>)
 
@@ -31,6 +31,18 @@ OpenAI[View all plugins](</business/plugins/>)
 Access LSEG financial data for pricing and market analysis.
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_698aec3092e48191a4484b43a3fc79b8>)[Contact sales](</contact-sales/>)
+
+@LSEG Get the spot price for the top 10 cross currencies traded on forex exchange
+
+![@LSEG Get the spot price for the top 10 cross currencies traded on forex exchange](https://files.openai.com/content?id=file_00000000a76c7207846e965bb9afd8e7&cdn=1&cp=pi&ma=32140800&ts=0&p=pi&cid=8&sig=e830811122bea31fd5749e8e798c5637aa9231371d8da0866f390e1e1eb9c6b0&v=0)
+
+@LSEG Get the IBES estimates for VOD.L, BT.L for the next 2 years
+
+![@LSEG Get the IBES estimates for VOD.L, BT.L for the next 2 years](https://files.openai.com/content?id=file_0000000090bc7246a0fba474e56c712c&cdn=1&cp=pi&ma=32227200&ts=0&p=pi&cid=8&sig=69ec3b65da482b2d7c68d81da0ec8e2dbf2f4d583a248a259bcd5af97881cde2&v=0)
+
+@LSEG Get daily price summaries for JPMorgan stock for last month
+
+![@LSEG Get daily price summaries for JPMorgan stock for last month](https://files.openai.com/content?id=file_00000000c7887208a3ae8ad02bcb1515&cdn=1&cp=pi&ma=31190400&ts=0&p=pi&cid=8&sig=50c125e6cdc7c63dc1ac5710b6bd9bde2b81d73f0a7e456a050fcdc47c368bf3&v=0)
 
 Use case: [Data](</business/plugins/?tab=apps-data>)
 

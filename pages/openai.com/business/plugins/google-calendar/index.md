@@ -32,6 +32,8 @@ Look up events and availability.
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_1p_f8509de903288191b14a160c6c5d20b0>)[Contact sales](</contact-sales/>)
 
+[@Google Calendar Summarize my calendar, compare availability, prep meetings, or draft event details(opens in a new window)](<https://chatgpt.com/?prompt=%40Google+Calendar+Summarize+my+calendar%2C+compare+availability%2C+prep+meetings%2C+or+draft+event+details>)
+
 Use case: [Collaboration](</business/plugins/?tab=apps-collaboration>)
 
 Made by: OpenAI

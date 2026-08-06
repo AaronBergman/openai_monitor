@@ -32,6 +32,8 @@ Access live market insights.
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69248819fa4c81918047c4b42b1f8823>)[Contact sales](</contact-sales/>)
 
+[@Morningstar Screen for ETFs with a Medalist Rating better than Silver, a Morningstar Rating over 4 stars, in the Large Value category.(opens in a new window)](<https://chatgpt.com/?prompt=%40Morningstar+Screen+for+ETFs+with+a+Medalist+Rating+better+than+Silver%2C+a+Morningstar+Rating+over+4+stars%2C+in+the+Large+Value+category.>)[@Morningstar Compare the funds SOXX and VOO.(opens in a new window)](<https://chatgpt.com/?prompt=%40Morningstar+Compare+the+funds+SOXX+and+VOO.>)[@Morningstar What are some datapoints that help me evaluate the performance of a fund?(opens in a new window)](<https://chatgpt.com/?prompt=%40Morningstar+What+are+some+datapoints+that+help+me+evaluate+the+performance+of+a+fund%3F>)
+
 Use case: [Data](</business/plugins/?tab=apps-data>)
 
 Made by: Morningstar

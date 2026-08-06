@@ -32,6 +32,10 @@ Find and engage prospects.
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69377d07cd9c8191a988f06f15b8c674>)[Contact sales](</contact-sales/>)
 
+@Clay Find GTM Leaders at Conclusive AI
+
+![@Clay Find GTM Leaders at Conclusive AI](https://files.openai.com/content?id=file_00000000d37c71f69d6199c142276a2e&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=1&sig=bfb84f2c80e50f7bf3bd288515a059bbcd6fde8c16fc1e160f143487d0df82f6)
+
 Use case: [Go-to-Market](</business/plugins/?tab=apps-go-to-market>)
 
 Made by: Clay

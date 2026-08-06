@@ -30,7 +30,9 @@ OpenAI[View all plugins](</business/plugins/>)
 
 Ask governed analytics questions of Snowflake data.
 
-[Add plugin(opens in a new window)](<https://chatgpt.com/plugins/share/916b2b7b84eb41c19218c504dadecd01>)[Contact sales](</contact-sales/>)
+[Add plugin(opens in a new window)](<https://chatgpt.com/plugins/Plugin_2af00ca970e88191b55798e3995f2aa3>)[Contact sales](</contact-sales/>)
+
+[@Snowflake Inspect Snowflake databases, schemas, tables, warehouses, SQL statements, Cortex Search resources, managed MCP servers, and customer-defined MCP tools(opens in a new window)](<https://chatgpt.com/?prompt=%40Snowflake+Inspect+Snowflake+databases%2C+schemas%2C+tables%2C+warehouses%2C+SQL+statements%2C+Cortex+Search+resources%2C+managed+MCP+servers%2C+and+customer-defined+MCP+tools>)
 
 Use case: [Data](</business/plugins/?tab=apps-data>)
 

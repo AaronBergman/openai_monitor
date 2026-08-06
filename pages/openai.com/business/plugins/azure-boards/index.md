@@ -32,6 +32,8 @@ Connect to sync Azure DevOps work items and repos for use in ChatGPT.
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_1p_b78c30605774819185a911e75a04b471>)[Contact sales](</contact-sales/>)
 
+[@Azure Boards Open Azure DevOps(opens in a new window)](<https://chatgpt.com/?prompt=%40Azure+Boards+Open+Azure+DevOps>)
+
 Use case: [Project Management](</business/plugins/?tab=apps-project-management>)
 
 Made by: OpenAI

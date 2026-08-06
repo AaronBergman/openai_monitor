@@ -32,6 +32,8 @@ Execute trades and access live market data using natural language.
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_691f721a77bc8191be115b65c85075c0>)[Contact sales](</contact-sales/>)
 
+[@Alpaca Use Alpaca to help with this task(opens in a new window)](<https://chatgpt.com/?prompt=%40Alpaca+Use+Alpaca+to+help+with+this+task>)
+
 Use case: [Finance](</business/plugins/?tab=apps-finance>) and [Developer Tools](</business/plugins/?tab=apps-developer-tools>)
 
 Made by: Alpaca

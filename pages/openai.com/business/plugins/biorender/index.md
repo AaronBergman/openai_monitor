@@ -32,6 +32,10 @@ Science visuals on demand.
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_691e3de0d2708191a6476a7b36e38779>)[Contact sales](</contact-sales/>)
 
+@BioRender can you find me some GLP-1 diagram templates?
+
+![@BioRender can you find me some GLP-1 diagram templates?](https://files.openai.com/content?id=file_00000000e85871f6bd9e607c098a721f&cdn=1&cp=pi&ma=31190400&ts=0&p=pi&cid=1&sig=70dafed738dfd2f0ef68d7b0b9d67e575bc4765218024559cec373cae784cefa)
+
 Use case: [Data](</business/plugins/?tab=apps-data>)
 
 Made by: BioRender

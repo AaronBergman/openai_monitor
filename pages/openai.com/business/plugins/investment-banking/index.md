@@ -30,7 +30,9 @@ OpenAI[View all plugins](</business/plugins/>)
 
 Build banking analysis and client-ready materials.
 
-[Add plugin(opens in a new window)](<https://chatgpt.com/plugins/share/479468a8d5224cb2976c0fe6c6e599b5>)[Contact sales](</contact-sales/>)
+[Add plugin(opens in a new window)](<https://chatgpt.com/plugins/Plugin_68c39ea2b3888191827c933053f3a1d1>)[Contact sales](</contact-sales/>)
+
+[@Investment Banking Prepare an Intel strategic alternatives memo: asset sales, foundry partnerships, capital needs, buyers, and diligence gaps.(opens in a new window)](<https://chatgpt.com/?prompt=%40Investment+Banking+Prepare+an+Intel+strategic+alternatives+memo%3A+asset+sales%2C+foundry+partnerships%2C+capital+needs%2C+buyers%2C+and+diligence+gaps.>)[@Investment Banking Build Boeing financing alternatives: liquidity needs, debt capacity, rating risk, equity or hybrid options, and banker advice.(opens in a new window)](<https://chatgpt.com/?prompt=%40Investment+Banking+Build+Boeing+financing+alternatives%3A+liquidity+needs%2C+debt+capacity%2C+rating+risk%2C+equity+or+hybrid+options%2C+and+banker+advice.>)[@Investment Banking Analyze Warner Bros. Discovery as a breakup candidate: buyers, asset separation, leverage, valuation, process risks, and gaps.(opens in a new window)](<https://chatgpt.com/?prompt=%40Investment+Banking+Analyze+Warner+Bros.+Discovery+as+a+breakup+candidate%3A+buyers%2C+asset+separation%2C+leverage%2C+valuation%2C+process+risks%2C+and+gaps.>)
 
 Use case: [Finance](</business/plugins/?tab=apps-finance>)
 

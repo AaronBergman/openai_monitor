@@ -32,6 +32,8 @@ Connect to sync Zoho Desk tickets and customer conversations for use in ChatGPT.
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_1p_12602c2f62748191b65f0a380815d591>)[Contact sales](</contact-sales/>)
 
+[@Zoho Desk Open Zoho Desk(opens in a new window)](<https://chatgpt.com/?prompt=%40Zoho+Desk+Open+Zoho+Desk>)
+
 Use case: [Go-to-Market](</business/plugins/?tab=apps-go-to-market>)
 
 Made by: Zoho

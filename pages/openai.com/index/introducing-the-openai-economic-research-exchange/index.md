@@ -40,6 +40,10 @@ Loading…
 
 Share
 
+** _Update August 5, 2026_** _: See the current Research Cohort_[ _here._](</economic-research-exchange/>)
+
+* * *
+
 AI is reshaping how people work, how businesses operate, and how ideas are created and shared. Understanding those changes will require more than anecdotes. It will require rigorous empirical research, grounded in real-world evidence and pursued by a broad community of researchers.
 
 Today, OpenAI is launching the OpenAI Economic Research Exchange, a new platform to support high-impact external research on the economic effects of AI. Through the Exchange, selected researchers will conduct research through structured, project-based collaborations with OpenAI Economic Research, with the goal of producing credible, independent evidence on how AI is affecting workers, firms, institutions, and the broader economy.

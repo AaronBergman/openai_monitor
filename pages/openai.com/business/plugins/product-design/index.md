@@ -30,7 +30,9 @@ OpenAI[View all plugins](</business/plugins/>)
 
 Turn product ideas into designs and research artifacts.
 
-[Add plugin(opens in a new window)](<https://chatgpt.com/plugins/share/37f657dbc41f408d9b05b52d30b8b527>)[Contact sales](</contact-sales/>)
+[Add plugin(opens in a new window)](<https://chatgpt.com/plugins/Plugin_fa77aec24fc08191bc6e57f377126d76>)[Contact sales](</contact-sales/>)
+
+[@Product Design Help me get started(opens in a new window)](<https://chatgpt.com/?prompt=%40Product+Design+Help+me+get+started>)[@Product Design Turn this product idea into three visual directions(opens in a new window)](<https://chatgpt.com/?prompt=%40Product+Design+Turn+this+product+idea+into+three+visual+directions>)[@Product Design Design a landing page for my business(opens in a new window)](<https://chatgpt.com/?prompt=%40Product+Design+Design+a+landing+page+for+my+business>)
 
 Use case: [Design](</business/plugins/?tab=apps-design>)
 
