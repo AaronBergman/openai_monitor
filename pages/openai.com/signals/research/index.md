@@ -66,9 +66,9 @@ Explore the latest resources below, including country-focused Signals reports, r
 
 ![Signals > Layout > Group > Footer > Cards > Data lab > Media > Asset](https://images.ctfassets.net/kftzwdyauwt9/5d5uaKtcOHDQMTBWrQQz5y/d49a1270ad7911ffe170a63cf30f5021/data_lab.png?w=3840&q=90&fm=webp)
 
-### Signals consumer data
+### Signals individual data
 
-Browse the data to see global consumer ChatGPT adoption patterns, geographic distribution, and work and non-work use.
+Browse the data to see global individual ChatGPT adoption patterns, geographic distribution, and work and non-work use.
 
 [Learn more](</signals/data/>)
 
@@ -84,7 +84,7 @@ Download data and understand the methodology behind what we have published.
 
 ### OpenAI Signals
 
-A hub for data, research, analysis, and stories from the OpenAI Economic Research and Global Affairs Teams.
+A hub for data, research, analysis, and stories from the OpenAI Economic Research Team.
 
 [Learn more](</signals/>)
 

@@ -40,6 +40,8 @@ Message ChatGPT
 
 [GPT-5.6: Frontier intelligence that scales with your ambitionProduct18 min read](</index/gpt-5-6/>)
 
+[Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free usersProduct5 min read](</index/improving-gpt-5-6-sol-in-chatgpt/>)
+
 ![Health in ChatGPT > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/48aIp3cQOKJ57vpQeqOb8y/2e8732bcad5ceea1c7b20cf001bd2823/1_1_Art_Card.png?w=3840&q=90&fm=webp)
 
 ## [Launching Health in ChatGPT  
@@ -48,10 +50,6 @@ ProductJul 23, 20267 min read](</index/health-in-chatgpt/>)
 ![ChatGPT Work menu in a browser window against a starry background, with Work selected and Codex, Scheduled, and Sites options shown.](https://images.ctfassets.net/kftzwdyauwt9/4hWm54F91fSSwX6YKm7Dqk/8db6b474726138fd000a34b0f67f41f8/ChatGPT_Work_1x1.png?w=3840&q=90&fm=webp)
 
 [Take on your most ambitious work with ChatGPT5 min read](</chatgpt-work/>)
-
-![Art Card 1 1](https://images.ctfassets.net/kftzwdyauwt9/4vJ1lSvYeKz0zM4RVCKwIC/855f7e54052d8a7635e4bf45adf41737/Art_Card_1_1.png?w=3840&q=90&fm=webp)
-
-[Introducing GPT-LiveProduct7 min read](</index/introducing-gpt-live/>)
 
 ## Recent news
 

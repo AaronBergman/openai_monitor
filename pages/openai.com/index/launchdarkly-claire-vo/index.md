@@ -63,23 +63,23 @@ Absolutely. In my case, I get to do both.
 
 While it’s not for every organization. I think this model is becoming more attractive. Joint responsibility across product and engineering allows me to think holistically about R&D investments and return on that investment. There’s also no real reason to decouple the concept of product with how you build the product, especially where technical infrastructure directly impacts user experience. Bringing these teams together as an overall technology organization creates a more collaborative team and helps us move faster.
 
-> “And so my opinion is then instead of saying product managers are totally going away, what I would say is I'm a PM in that kind of world, what do I do instead with my time?”
+> “And so my opinion is then instead of saying product managers are totally going away, what I would say is I’m a PM in that kind of world, what do I do instead with my time?”
 
 Listen
 
 ## You have shared a concept called the anti-to-do list. Can you unpack what that is and why it’s important?
 
-One of the personal benefits of embracing AI is that I've been able to automate a bunch of stuff that I used to do all the time.
+One of the personal benefits of embracing AI is that I’ve been able to automate a bunch of stuff that I used to do all the time.
 
 Every time I do something I find annoying, I ask myself, how can I not have to do this again?
 
 For example, as a product leader, you spend a lot of time with customers and end up with a list of customer anecdotes. You get asked all the time by the field, do we have customers doing anything interesting in banking?
 
-So I decided we need a customer story GPT where we load every story we have. Now, people can go there for customer stories instead of coming to me. It took me seven minutes to set up, and I don't get asked those questions anymore.
+So I decided we need a customer story GPT where we load every story we have. Now, people can go there for customer stories instead of coming to me. It took me seven minutes to set up, and I don’t get asked those questions anymore.
 
-It's just one example of how you can take routine tasks off your plate, still deliver high-value content or help to the organization, and free up time for the things only you can do.
+It’s just one example of how you can take routine tasks off your plate, still deliver high-value content or help to the organization, and free up time for the things only you can do.
 
-> “A personal benefit of embracing AI is I've got to knock a bunch of stuff that I used to do all the time... off my list.”
+> “A personal benefit of embracing AI is I’ve got to knock a bunch of stuff that I used to do all the time... off my list.”
 
 Listen
 
@@ -101,7 +101,7 @@ LaunchDarkly’s core value proposition—decoupling configuration from code—a
 
 Internally, we focus on reducing toil and friction. AI helps simplify multi-step processes, automates configuration, and integrates natural language interfaces into our products. These improvements not only save time but also enhance user satisfaction.
 
-> “The faster you can get to a draft of something and start to actually execute, the richer your customer input is going to be, the sooner you're gonna get something to market.”
+> “The faster you can get to a draft of something and start to actually execute, the richer your customer input is going to be, the sooner you’re gonna get something to market.”
 
 Claire Vo, Chief Product and Technology Officer of LaunchDarkly
 

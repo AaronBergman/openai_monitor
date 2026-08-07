@@ -37,24 +37,16 @@ Share
 Using ChatGPT to improve accuracy, speed, and equity
 
   * Using ChatGPT to improve accuracy, speed, and equity
-
   * Delivering tangible benefits to Minnesotans
-
   * Supporting the Department of Administration with tailored language solutions
-
   * Advancing inclusion through translation
-
 
 
 
   * Using ChatGPT to improve accuracy, speed, and equity
-
   * Delivering tangible benefits to Minnesotans
-
   * Supporting the Department of Administration with tailored language solutions
-
   * Advancing inclusion through translation
-
 
 
 

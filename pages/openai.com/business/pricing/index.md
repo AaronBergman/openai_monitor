@@ -120,11 +120,11 @@ Enterprise
 
 ### Essentials
 
-###### Messages and interactions
+###### Everyday text chats
 
-Unlimited*Plan: Business, Feature: Messages and interactions, Unlimited*
+Unlimited*Plan: Business, Feature: Everyday text chats, Unlimited*
 
-Unlimited*Plan: Enterprise, Feature: Messages and interactions, Unlimited*
+Unlimited*Plan: Enterprise, Feature: Everyday text chats, Unlimited*
 
 ###### Chat history
 
@@ -139,12 +139,6 @@ Plan: Business, Feature: Access on web, iOS, Android, Yes
 Plan: Enterprise, Feature: Access on web, iOS, Android, Yes
 
 ### Models
-
-###### GPT-5.5 Instant
-
-Unlimited*Plan: Business, Feature: GPT-5.5 Instant, Unlimited*
-
-Unlimited*Plan: Enterprise, Feature: GPT-5.5 Instant, Unlimited*
 
 ###### GPT-5.6 Sol
 

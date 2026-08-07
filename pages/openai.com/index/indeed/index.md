@@ -37,20 +37,14 @@ Share
 Early AI experiments in job matching
 
   * Early AI experiments in job matching
-
   * Fine-tuning the OpenAI API for personalized match explanations
-
   * GPT personalization leads to demonstrable growth 
-
 
 
 
   * Early AI experiments in job matching
-
   * Fine-tuning the OpenAI API for personalized match explanations
-
   * GPT personalization leads to demonstrable growth 
-
 
 
 

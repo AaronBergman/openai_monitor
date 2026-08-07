@@ -56,7 +56,7 @@ With ChatGPT Work, data science teams can turn scattered inputs into usable anal
 
 ## Watch the on-demand webinar
 
-Watch **_How finance teams use Codex_** on-demand [**here** ⁠(opens in a new window)](<https://academy.openai.com/home/clubs/work-users-ynjqu/videos/how-data-science-teams-use-codex-recording-2026-05-28>). 
+Watch **_How data science teams use Codex_** on-demand [**here** ⁠(opens in a new window)](<https://academy.openai.com/home/clubs/work-users-ynjqu/videos/how-data-science-teams-use-codex-recording-2026-05-28>). 
 
 **Note:** This webinar was recorded when these workflows lived in the former Codex app. You can now follow along using ChatGPT Work at chatgpt.com or in the ChatGPT desktop app.
 

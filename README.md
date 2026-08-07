@@ -1,5 +1,46 @@
 # openai_monitor
 
+## 2026-08-07 — Run `2026-08-07T09-16Z`
+
+**Fetch time:** 2026-08-07T09:16:39Z
+**Baseline:** 2026-08-06T09-16Z (consecutive day)
+**Stats:** 1,560 total URLs | +4 added | 147 updated | -0 removed | 0 anomalies | 35 sub-sitemaps
+
+**TL;DR:** A genuine news day. OpenAI shipped a ChatGPT model update — GPT‑5.6 Sol gets retuned for more focused everyday-chat answers with a new reasoning-effort slider for Plus/Pro, while GPT‑5.6 Luna becomes the default model for Free/Go users with unlimited text chats and a new "Think" button rolling out next week — and the pricing-comparison pages quietly dropped their "GPT‑5.5 Instant: Unlimited" row the same day, confirming the older model is being retired from the plan comparison. Alongside that, OpenAI published its first country-by-country ChatGPT usage dataset via OpenAI Signals (people are >2x as likely to use ChatGPT to *do* work vs. just ask outside work; adoption gap narrowing in Latin America/Africa/Oceania; multimedia the fastest-growing use case; usage among people over 35 climbing), and announced a partnership with the American Psychological Association on youth mental health and AI — both fit a broader youth/well-being safety push also visible in today's GPT-5.6 system card. Separately, the `/business/solutions/finance/` and `/business/solutions/marketing/` pages got the biggest template redesigns of the run, restructured around named-plugin ecosystems, with marketing newly cross-promoting **ChatGPT Ads** (`ads.openai.com`) directly to marketers. No anomalies this run.
+
+### Anomalies
+
+None. No future-dated or backward-moving lastmods, no reappeared URLs (0 removed), no sub-sitemap migrations (216 URLs legitimately cross-listed across sub-sitemaps, unchanged from yesterday).
+
+### New pages
+
+- **[/index/improving-gpt-5-6-sol-in-chatgpt/](pages/openai.com/index/improving-gpt-5-6-sol-in-chatgpt/index.md)** — GPT‑5.6 Sol retuned for Chat (more focused answers, new reasoning slider, unified Instant+reasoning model for Plus/Pro); GPT‑5.6 Luna becomes the Free/Go default with unlimited text chats and a new "Think" button; system card adds under-18 safeguards (no romantic roleplay, age-appropriate content boundaries, redirects to trusted people in distress).
+- **[/index/how-the-world-is-putting-chatgpt-to-work/](pages/openai.com/index/how-the-world-is-putting-chatgpt-to-work/index.md)** — first-ever country-by-country ChatGPT usage data, published via [OpenAI Signals](pages/openai.com/signals/index.md). At-work users are >2x as likely to use ChatGPT to produce/do something vs. outside work; global adoption gap narrowing (Latin America, Africa, Oceania catching up); multimedia is the fastest-growing use case (7.8% of messages globally); usage among people over 35 rising almost everywhere (France, Czechia up >10 points in a year). Covers individual Free/Go/Plus/Pro accounts only.
+- **[/index/openai-and-apa-partner-to-advance-responsible-ai/](pages/openai.com/index/openai-and-apa-partner-to-advance-responsible-ai/index.md)** — new partnership with the American Psychological Association on youth mental health and responsible AI design, building on an earlier convening with mental-health orgs, researchers, and youth representatives.
+- **[/index/hsp-gruppe/](pages/openai.com/index/hsp-gruppe/index.md)** — customer story: HSP GRUPPE (European tax-advisory firm) on ChatGPT Enterprise, claiming 98.6% of employees report higher productivity and 500,000+ conversations in six months.
+
+### Notable updates
+
+- **[/business/pricing/](pages/openai.com/business/pricing/index.md) and [/business/chatgpt-pricing/](pages/openai.com/business/chatgpt-pricing/index.md)** — the "GPT-5.5 Instant: Unlimited" row was removed from the Business/Enterprise feature-comparison table, and "Messages and interactions" was relabeled "Everyday text chats" — same day as the GPT-5.6 Sol/Luna rollout above.
+- **[/business/solutions/finance/](pages/openai.com/business/solutions/finance/index.md) and [/business/solutions/marketing/](pages/openai.com/business/solutions/marketing/index.md)** — full page redesigns (the two largest diffs this run). Both dropped past-dated live-webinar countdown banners and now lead with named-plugin grids instead of icon tiles (finance: Data Analytics, Stripe, SharePoint, Salesforce, Gusto, Ramp, Snowflake, Databricks Genie, BigQuery, LSEG, Morningstar, PitchBook; marketing: Data Analytics, Product Design, Canva, Adobe, HubSpot, Figma, Mailchimp, Klaviyo, Semrush). Marketing's page newly promotes **ChatGPT Ads** ("reach people as they explore and decide," linking to `ads.openai.com`) — the first mention of Ads on this page (Ads itself was already tracked in this repo from earlier runs).
+- **[/api-fast-mode/](pages/openai.com/api-fast-mode/index.md)** — dropped the FAQ entry about Fast Mode availability for long-context/fine-tuned models/embeddings, likely superseded by yesterday's long-context pricing rollout.
+- **[/signals/](pages/openai.com/signals/index.md) and [/signals/data/](pages/openai.com/signals/data/index.md)** — updated to surface the new country-by-country usage dataset (see New pages above).
+
+### Routine updates
+
+~29 older `/index/*` customer-story and article pages (e.g. `where-the-goblins-came-from`, `uber`, `scout24`, `endava`, `expedia-jochen-koedijk`, `launchdarkly-claire-vo`, `ironclad`, `indeed`) picked up the day's three new post cards in their "Related articles"/sidebar rotation with no body-text changes. 61 `/business/partners/*` pages refetched for the recurring partner-badge cache-busting parameter (no body change). 38 URLs had a `<lastmod>` bump with zero detectable content change. `/form/learning-lab/` and `/form/subscribe-to-new-sub-processors/` nav menus updated to show "GPT-5.6" instead of "GPT-5.3 Instant". Full per-URL breakdown in [`runs/2026-08-07T09-16Z/analysis.md`](runs/2026-08-07T09-16Z/analysis.md).
+
+### Removals
+
+None this run.
+
+Full analysis: [runs/2026-08-07T09-16Z/analysis.md](runs/2026-08-07T09-16Z/analysis.md)
+
+---
+*Stats: 1,560 total URLs | +4 added | 147 updated | -0 removed | 0 anomalies | 35 sub-sitemaps*
+
+---
+
 ## 2026-08-06 — Run `2026-08-06T09-16Z`
 
 **Fetch time:** 2026-08-06T09:18:00Z

@@ -26,7 +26,7 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 OpenAI
 
-### [Live webinar] Join us August 18, 2026 at 9:30 AM PT
+### [Upcoming webinar] Join us August 18, 2026 at 9:30 AM PT
 
 to see how OpenAI's Business Operations team uses ChatGPT Work to surface risks and prepare leadership-ready weekly reviews.
 
@@ -135,15 +135,15 @@ Graham Ganssle, Supplier Support Operations, Wayfair
 
 ![An image of artfully rendered waveform with "Ep 03" written atop. ](https://images.ctfassets.net/kftzwdyauwt9/6iZlnDQd7XJnOzVKqimqhm/50a382dc31a9cf028428a2d565caeb63/EF_Uber_Web_Card_1.1.png?w=3840&q=90&fm=webp)
 
-## [Uber enables outstanding on-demand experiences with AIFeb 20, 2025](</index/uber-enables-outstanding-experiences/>)
+## [Uber enables outstanding on-demand experiences with AIFeb 20, 2025Read story](</index/uber-enables-outstanding-experiences/>)
 
 ![booking.com > cover image](https://images.ctfassets.net/kftzwdyauwt9/1y5wiE3noEqlINRKqv4NdU/277f5b75ebfa67b8a44fa8fc18b113f6/oai_Booking_1x1.png?w=3840&q=90&fm=webp)
 
-## [Booking.com and OpenAI personalize travel at scaleMar 20, 2025](</index/booking-com/>)
+## [Booking.com and OpenAI personalize travel at scaleMar 20, 2025Read story](</index/booking-com/>)
 
 ![Lowes logo superimposed on an abstract painting with prominent blue brushstrokes.](https://images.ctfassets.net/kftzwdyauwt9/4X3HwsNsncluAzNEqlXFg3/558227ebd1d4edc388dc325ecbcd75f0/oai_Lowe_s_hero_4.5.png?w=3840&q=90&fm=webp)
 
-## [Lowe’s puts project expertise into every handMay 7, 2025](</index/lowes/>)
+## [Lowe’s puts project expertise into every handMay 7, 2025Read story](</index/lowes/>)
 
 ## Operations resources
 
@@ -153,11 +153,11 @@ Graham Ganssle, Supplier Support Operations, Wayfair
 
 ![How business operations teams use Codex > card image](https://images.ctfassets.net/kftzwdyauwt9/JR9MMoyTo7eFFF8Nv13Qc/43414ee0c762db49e36bda8ae0d35e39/bus_ops_teams.png?w=3840&q=90&fm=webp)
 
-[AcademyBuild AI skills with hands-on lessons and learning paths from OpenAI.May 15, 2026](</academy/codex-for-work/how-business-operations-teams-use-codex/>)
+[AcademyBuild AI skills with hands-on lessons and learning paths from OpenAI.May 15, 2026Learn more ↗](</academy/codex-for-work/how-business-operations-teams-use-codex/>)
 
 ![Business Learning Hub 1x1](https://images.ctfassets.net/kftzwdyauwt9/3WaN0u4u87BK3dXsD569qh/f40a4e250dc00d0bbf5ec418be81fc9c/Business_Learning_Hub_1x1.png?w=3840&q=90&fm=webp)
 
-[Guides and resourcesExplore business guides for adopting AI securely and at scale.](</business/learn/>)
+[Guides and resourcesExplore business guides for adopting AI securely and at scale.Learn more ↗](</business/learn/>)
 
 ## See what OpenAI can do for operations teams
 

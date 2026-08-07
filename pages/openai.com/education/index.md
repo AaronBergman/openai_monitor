@@ -122,15 +122,15 @@ Laura Kalda, COO, AI Leap in Estonia
 
 ![Helping K–12 educators build practical AI skills > Cover image](https://images.ctfassets.net/kftzwdyauwt9/190wMCP1bPt9adqu2edDV9/106b863586b063e777539df3aa988c3f/Frame.png?w=3840&q=90&fm=webp)
 
-## [Helping K–12 educators build practical AI skillsGlobal Affairs](</index/k-12-educators-practical-skills/>)
+## [Helping K–12 educators build practical AI skillsGlobal AffairsRead more](</index/k-12-educators-practical-skills/>)
 
 ![Futures 1 1](https://images.ctfassets.net/kftzwdyauwt9/7l4mPpfnMDZNfjmksyuILI/5e280d8d490f625b3fc414d9824e96ac/Futures_1_1.png?w=3840&q=90&fm=webp)
 
-## [Introducing ChatGPT Futures: Class of 2026Company](</index/introducing-chatgpt-futures-class-of-2026/>)
+## [Introducing ChatGPT Futures: Class of 2026CompanyRead more](</index/introducing-chatgpt-futures-class-of-2026/>)
 
 ![ChatGPT helps teams](https://images.ctfassets.net/kftzwdyauwt9/vxIfg2dI8Hwvw7hkEnyTM/ac560201c4a70d89aea65533294df569/ChatGPT_helps_teams.png?w=3840&q=90&fm=webp)
 
-[Introducing ChatGPT Work. A More Capable ChatGPT for EducationChatGPT for Education](<https://edunewsletter.openai.com/p/introducing-chatgpt-work-a-more-capable>)
+[Introducing ChatGPT Work. A More Capable ChatGPT for EducationChatGPT for EducationRead more](<https://edunewsletter.openai.com/p/introducing-chatgpt-work-a-more-capable>)
 
 ## Start building into the future
 

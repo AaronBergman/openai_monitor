@@ -30,61 +30,73 @@ OpenAI
 
 OpenAI data, research, and stories on real-world AI use.
 
-![OpenAI Signals 2026Q1 update > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/1lM6nAAY7lJ4PNAI41KVAT/b0fffcfb6b1a390f309d8bc5b8625b18/use_boardened__1_.png?w=3840&q=90&fm=webp)
+![How people use ChatGPT around the world > Cover image](https://images.ctfassets.net/kftzwdyauwt9/5quRLt4fW8Js506D8eNKl3/3d9938860836620ec50b148f4e3f1a49/Art_Card__5_.png?w=3840&q=90&fm=webp)
 
-How ChatGPT adoption broadened in early 2026
+How the world is putting ChatGPT to work
 
-[Read more](</signals/research/2026q1-update/>)
-
-![What frontier enterprises do differently > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/4kKQaeWGl9atcyE51ri1ZW/3aa677511fa40bc0a4b089ef6cd9698f/Frame.png?w=3840&q=90&fm=webp)
-
-How ChatGPT adoption broadened in early 2026
-
-[Read more](</signals/research/2026q1-update/>)
-
-![Signals Homepage > Layout > Hero > Card > ChatGPT and the price of work report > Media > Asset](https://images.ctfassets.net/kftzwdyauwt9/saWnkVSm6Lzukc5azs1BP/d146f8543015f84b5d602d7c9a165a29/Finding_Work_With_AI__2_.png?w=3840&q=90&fm=webp)
-
-How ChatGPT adoption broadened in early 2026
-
-[Read more](</signals/research/2026q1-update/>)
-
-![Signals Homepage > Layout > ... > Card > Understanding the Labor Market webinar > Media](https://images.ctfassets.net/kftzwdyauwt9/3HNrm9KNf7ON87kvBpVq4k/0382f0ef2f3c4fa69904cf8d5867674b/understanding-the-labor-market.png?w=3840&q=90&fm=webp)
-
-How ChatGPT adoption broadened in early 2026
-
-[Read more](</signals/research/2026q1-update/>)
+[Read more](</index/how-the-world-is-putting-chatgpt-to-work/>)
 
 ![OpenAI Signals 2026Q1 update > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/1lM6nAAY7lJ4PNAI41KVAT/b0fffcfb6b1a390f309d8bc5b8625b18/use_boardened__1_.png?w=3840&q=90&fm=webp)
 
-How ChatGPT adoption broadened in early 2026
+How the world is putting ChatGPT to work
 
-[Read more](</signals/research/2026q1-update/>)
+[Read more](</index/how-the-world-is-putting-chatgpt-to-work/>)
 
 ![What frontier enterprises do differently > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/4kKQaeWGl9atcyE51ri1ZW/3aa677511fa40bc0a4b089ef6cd9698f/Frame.png?w=3840&q=90&fm=webp)
 
-How ChatGPT adoption broadened in early 2026
+How the world is putting ChatGPT to work
 
-[Read more](</signals/research/2026q1-update/>)
+[Read more](</index/how-the-world-is-putting-chatgpt-to-work/>)
 
 ![Signals Homepage > Layout > Hero > Card > ChatGPT and the price of work report > Media > Asset](https://images.ctfassets.net/kftzwdyauwt9/saWnkVSm6Lzukc5azs1BP/d146f8543015f84b5d602d7c9a165a29/Finding_Work_With_AI__2_.png?w=3840&q=90&fm=webp)
 
-How ChatGPT adoption broadened in early 2026
+How the world is putting ChatGPT to work
 
-[Read more](</signals/research/2026q1-update/>)
+[Read more](</index/how-the-world-is-putting-chatgpt-to-work/>)
 
 ![Signals Homepage > Layout > ... > Card > Understanding the Labor Market webinar > Media](https://images.ctfassets.net/kftzwdyauwt9/3HNrm9KNf7ON87kvBpVq4k/0382f0ef2f3c4fa69904cf8d5867674b/understanding-the-labor-market.png?w=3840&q=90&fm=webp)
 
-How ChatGPT adoption broadened in early 2026
+How the world is putting ChatGPT to work
 
-[Read more](</signals/research/2026q1-update/>)
+[Read more](</index/how-the-world-is-putting-chatgpt-to-work/>)
+
+![How people use ChatGPT around the world > Cover image](https://images.ctfassets.net/kftzwdyauwt9/5quRLt4fW8Js506D8eNKl3/3d9938860836620ec50b148f4e3f1a49/Art_Card__5_.png?w=3840&q=90&fm=webp)
+
+How the world is putting ChatGPT to work
+
+[Read more](</index/how-the-world-is-putting-chatgpt-to-work/>)
+
+![OpenAI Signals 2026Q1 update > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/1lM6nAAY7lJ4PNAI41KVAT/b0fffcfb6b1a390f309d8bc5b8625b18/use_boardened__1_.png?w=3840&q=90&fm=webp)
+
+How the world is putting ChatGPT to work
+
+[Read more](</index/how-the-world-is-putting-chatgpt-to-work/>)
+
+![What frontier enterprises do differently > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/4kKQaeWGl9atcyE51ri1ZW/3aa677511fa40bc0a4b089ef6cd9698f/Frame.png?w=3840&q=90&fm=webp)
+
+How the world is putting ChatGPT to work
+
+[Read more](</index/how-the-world-is-putting-chatgpt-to-work/>)
+
+![Signals Homepage > Layout > Hero > Card > ChatGPT and the price of work report > Media > Asset](https://images.ctfassets.net/kftzwdyauwt9/saWnkVSm6Lzukc5azs1BP/d146f8543015f84b5d602d7c9a165a29/Finding_Work_With_AI__2_.png?w=3840&q=90&fm=webp)
+
+How the world is putting ChatGPT to work
+
+[Read more](</index/how-the-world-is-putting-chatgpt-to-work/>)
+
+![Signals Homepage > Layout > ... > Card > Understanding the Labor Market webinar > Media](https://images.ctfassets.net/kftzwdyauwt9/3HNrm9KNf7ON87kvBpVq4k/0382f0ef2f3c4fa69904cf8d5867674b/understanding-the-labor-market.png?w=3840&q=90&fm=webp)
+
+How the world is putting ChatGPT to work
+
+[Read more](</index/how-the-world-is-putting-chatgpt-to-work/>)
 
 ### Explore the data
 
 ![Blue gradient background with a centered white rounded square containing a black magnifying glass and connected nodes icon.](https://images.ctfassets.net/kftzwdyauwt9/31dWs5VnjwNJA1DqL26wpQ/e4ebc4f21f1e01867eccb6d192eae9d2/signals.png?w=3840&q=90&fm=webp)
 
-#### Signals consumer data
+#### Signals individual data
 
-Browse the data to see global consumer ChatGPT adoption patterns, geographic distribution, and work and non-work use.
+Browse the data to see global individual ChatGPT adoption patterns, geographic distribution, and work and non-work use.
 
 [Learn more](</signals/data/>)
 
@@ -97,6 +109,10 @@ Learn how AI is accelerating enterprise advantage through deeper integration, ag
 [Learn more](</signals/b2b/>)
 
 ## Recent news
+
+![Signals Homepage > Layout > Group > Recent news > Cards > From asking to doing: How the world is putting ChatGPT to work > Media > Asset](https://images.ctfassets.net/kftzwdyauwt9/7L5UF79Bvsd6kQ7tMCZQe4/04242c5dd96ac7b6cdbdcaf4f94ca7dc/Art_Card__6_.png?w=3840&q=90&fm=webp)
+
+[How the world is putting ChatGPT to work](<https://openai.com/index/how-the-world-is-putting-chatgpt-to-work/>)
 
 ![Signals Homepage > Layout > Group > Recent news > Cards > Inside OpenAI: How OpenAI teams use Codex to do more > Media > Asset](https://images.ctfassets.net/kftzwdyauwt9/6wZT5PD2pKnXO2X533kQbB/30245193410300dbb52d85ffc22567f8/Frame.png?w=3840&q=90&fm=webp)
 
@@ -117,10 +133,6 @@ Learn how AI is accelerating enterprise advantage through deeper integration, ag
 ![Signals Homepage > Layout > Group > Recent news > Cards > Introducing the OpenAI Economic Research Exchange > Media > Asset](https://images.ctfassets.net/kftzwdyauwt9/1DxA8pHgu1AqA4E9tYh9Cs/6de7e05d428fc91fccbf2a92b7e06077/art_card.png?w=3840&q=90&fm=webp)
 
 [Introducing the OpenAI Economic Research Exchange](<https://openai.com/index/economic-research-exchange/>)
-
-![Signals Homepage > Layout > Group > Recent news > Cards > B2B Signals blog > Media > Asset](https://images.ctfassets.net/kftzwdyauwt9/4IzcV84U3LJqbYXVgixe4b/6c507d4b597e849b2291ad47a8931d62/Frame__1_.png?w=3840&q=90&fm=webp)
-
-[How frontier firms are pulling ahead](<https://openai.com/index/introducing-b2b-signals/>)
 
 ### Reports
 

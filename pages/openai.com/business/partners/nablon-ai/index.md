@@ -38,7 +38,7 @@ OpenAI
 
 Nablon AI is an enterprise agentic AI company that runs complex Fortune 500 workflows as one operating system. As the applied AI layer for enterprise operations, it combines frontier models with deep domain context, trusted enterprise data, and continuous verification. The stack brings together ontologies, an evaluation control plane, decision traces, reinforcement-learning environments, and human oversight to run operationally complex work across procurement, pricing, finance, supply planning, and compliance. Nablon serves retail, CPG, industrials and automotive manufacturing, and health and life sciences. Every production cycle becomes a learning loop that improves with each decision.
 
-![Select Partner](/images/partner-tier-badges/OAI_PartnerNetwork_SelectPartner.svg?dpl=dpl_3Ns7TmHfuCHdDqtqTVKvggU5E3yh)
+![Select Partner](/images/partner-tier-badges/OAI_PartnerNetwork_SelectPartner.svg?dpl=dpl_LPCh43uULiZYMdL1icmA9GiKDofL)
 
 Countries served
     Global
