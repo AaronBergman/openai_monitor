@@ -34,7 +34,7 @@ This section is a place to download data and understand the methodology behind w
 
 We welcome you to use Signals data for your own research.  
   
-All Signals data is licensed for use under the [Creative Commons CC BY 4.0 license⁠(opens in a new window)](<https://creativecommons.org/licenses/by/4.0/legalcode.txt>), which allows you to use, share, and adapt the data but requires attribution or citation. If you download and use this data, please cite our work with the following suggested citation: Aaron Chatterji, Thomas Cunningham, David J. Deming, Zoe Hitzig, Christopher Ong, Carl Yan Shan, and Kevin Wadman, “How People Use ChatGPT,” NBER Working Paper 34255 (2025), [https://doi.org/10.3386/w34255⁠(opens in a new window)](<https://doi.org/10.3386/w34255>).
+All Signals data is licensed for use under the [Creative Commons CC BY 4.0 license⁠(opens in a new window)](<https://creativecommons.org/licenses/by/4.0/legalcode.txt>), which allows you to use, share, and adapt the data but requires attribution or citation. If you download and use this data, please cite our work with the following suggested citation: Aaron Chatterji, Thomas Cunningham, David J. Deming, Zoe Hitzig, Drew Johnston, Alex Martin Richmond, Christopher Ong, Carl Yan Shan, and Kevin Wadman, "OpenAI Signals v2.0," [_https://cdn.openai.com/signals/data-dictionary.pdf_ ⁠(opens in a new window)](<https://cdn.openai.com/signals/data-dictionary.pdf>).
 
 ## Methodology
 
@@ -62,9 +62,9 @@ Sign up
 
 ![Signals > Layout > Group > Footer > Cards > Data lab > Media > Asset](https://images.ctfassets.net/kftzwdyauwt9/5d5uaKtcOHDQMTBWrQQz5y/d49a1270ad7911ffe170a63cf30f5021/data_lab.png?w=3840&q=90&fm=webp)
 
-### Signals consumer data
+### Signals individual data
 
-Browse the data to see global consumer ChatGPT adoption patterns, geographic distribution, and work and non-work use.
+Browse the data to see global individual ChatGPT adoption patterns, geographic distribution, and work and non-work use.
 
 [Learn more](</signals/data/>)
 
@@ -72,7 +72,7 @@ Browse the data to see global consumer ChatGPT adoption patterns, geographic dis
 
 ### OpenAI Signals
 
-A hub for data, research, analysis, and stories from the OpenAI Economic Research and Global Affairs Teams.
+A hub for data, research, analysis, and stories from the OpenAI Economic Research Team.
 
 [Learn more](</signals/>)
 

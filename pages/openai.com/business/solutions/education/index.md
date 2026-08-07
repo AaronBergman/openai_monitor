@@ -144,19 +144,19 @@ Laura Kalda, COO, AI Leap in Estonia
 
 ![Futures 1 1](https://images.ctfassets.net/kftzwdyauwt9/7l4mPpfnMDZNfjmksyuILI/5e280d8d490f625b3fc414d9824e96ac/Futures_1_1.png?w=3840&q=90&fm=webp)
 
-## [Introducing ChatGPT Futures: Class of 2026Company](</index/introducing-chatgpt-futures-class-of-2026/>)
+## [Introducing ChatGPT Futures: Class of 2026CompanyRead more](</index/introducing-chatgpt-futures-class-of-2026/>)
 
 ![Minimal line illustration showing an AI-to-human learning pipeline: a large circle with two vertical lines \(representing AI\) connected by dotted lines to three icons—a magnifying glass, an upward-trending chart, and a checkmark—leading to a person reading a book, symbolizing analysis, evaluation, and verified knowledge delivered to a learner.](https://images.ctfassets.net/kftzwdyauwt9/1zGvJqfzP1VxB2R3BGf6S2/d373d2d36366c29b71072d8bd8f83a46/OAI_New_tools_for_understanding_AIand_learning_outcomes_Art_Card_1x1.png?w=3840&q=90&fm=webp)
 
-## [New tools for understanding AI and learning outcomesGlobal Affairs](</index/understanding-ai-and-learning-outcomes/>)
+## [New tools for understanding AI and learning outcomesGlobal AffairsRead more](</index/understanding-ai-and-learning-outcomes/>)
 
 ![IMG 0147](https://images.ctfassets.net/kftzwdyauwt9/3axMGljaMN5LjTf10twVmH/d32dfcfbc07c4f230dbdbc2586d26843/Art_Card.png?w=3840&q=90&fm=webp)
 
-## [Introducing OpenAI’s Education for CountriesGlobal Affairs](</index/edu-for-countries/>)
+## [Introducing OpenAI’s Education for CountriesGlobal AffairsRead more](</index/edu-for-countries/>)
 
 ![OpenAI Certification courses > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/3PR19U1Ihg72aVUec2AxHe/21e60019337912094b730d07b1a828af/Screenshot_2025-11-06_at_3.01.45â__PM_1.png?w=3840&q=90&fm=webp)
 
-## [Launching our first OpenAI Certification CoursesGlobal Affairs](</index/openai-certificate-courses/>)
+## [Launching our first OpenAI Certification CoursesGlobal AffairsRead more](</index/openai-certificate-courses/>)
 
 ## Start building
 

@@ -37,24 +37,16 @@ Share
 Mapping Southeast Asia for better mobility
 
   * Mapping Southeast Asia for better mobility
-
   * Using vision fine-tuning to automate mapmaking
-
   * Reducing costs and driving trust in data
-
   * Expanding to greater accessibility and responsiveness
-
 
 
 
   * Mapping Southeast Asia for better mobility
-
   * Using vision fine-tuning to automate mapmaking
-
   * Reducing costs and driving trust in data
-
   * Expanding to greater accessibility and responsiveness
-
 
 
 

@@ -26,85 +26,104 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 OpenAI
 
-### [Live webinar] Join us August 25, 2026 at 9:30 AM PT
+### [Upcoming webinar] Join us August 25, 2026 at 9:30 AM PT
 
-to see how OpenAI's Marketing team uses ChatGPT Work to turn campaign results into recommendations for the next launch.
+to see how OpenAI's Marketing team uses ChatGPT Work to launch bold campaigns faster.
 
 [Register now(opens in a new window)](<https://webinar.openai.com/chatgpt-work-series/marketing/?utm_medium=website&utm_campaign=WBR-chatgpt-work-series-marketing-banner>)
 
 # AI for your marketing team’s most ambitious work
 
-ChatGPT Work uses customer insights, campaign context, and brand standards to create briefs, creative assets, and performance reports—so marketers can move from strategy to launch faster and improve campaigns with each cycle.
+Marketing teams use ChatGPT Work to turn customer insight into bold, on-brand campaigns—and reach people as they explore and decide with ChatGPT Ads.
 
 [Contact sales](</contact-sales/>)
 
 Get started
 
-Turn these launch notes into a campaign brief with mock assets
+## Work across your tools with a shared understanding of your customers
 
-![OpenAI for Marketing hero chart.](https://images.ctfassets.net/kftzwdyauwt9/7e2NkFStcTsFxSYmkkvUEJ/c586baf17b69dfecefb683bc106c5d55/marketing-chart-1.png?w=3840&q=90&fm=webp)
+Add plugins to extend what ChatGPT Work can do. Plugins connect customer and campaign context from tools like HubSpot, Figma, and Adobe. Use OpenAI’s Data Analytics and Product Design plugins to run pre-built workflows for campaign analysis, creative development, and prototyping.
 
-![OpenAI for Marketing hero chart.](https://images.ctfassets.net/kftzwdyauwt9/65jhtWqnUPd4L5pyqR4OKm/21e011ac925ea6dec90d04f8dea97ce8/marketing-chart-2.png?w=3840&q=90&fm=webp)
+  * [Data AnalyticsBuilt by OpenAI](</business/plugins/data-analytics/>)
+  * [Product DesignBuilt by OpenAI](</business/plugins/product-design/>)
+  * [Canva](</business/plugins/canva/>)
+  * [Adobe](</business/plugins/adobe/>)
+  * [Google Drive](</business/plugins/google-drive/>)
+  * [SharePoint](</business/plugins/microsoft-sharepoint/>)
+  * [Salesforce](</business/plugins/salesforce/>)
+  * [Mailchimp](</business/plugins/mailchimp/>)
+  * [HubSpot](</business/plugins/hubspot/>)
+  * [Figma](</business/plugins/figma/>)
+  * [Slack](</business/plugins/slack/>)
+  * [BigQuery](</business/plugins/bigquery/>)
+  * [Airtable](</business/plugins/airtable/>)
+  * [monday.com](</business/plugins/monday-com/>)
+  * [Klaviyo](</business/plugins/klaviyo/>)
+  * [Semrush](</business/plugins/semrush/>)
 
-## Run marketing with greater speed, consistency, and impact
 
-![Bolt motion lines icon.](https://images.ctfassets.net/kftzwdyauwt9/hvLBD8voJae8VeXfptI5e/bc0a69a32f61582baef5235c3f2eef7e/openai-for-marketing-value-modal-icon-bolt-motion-lines.svg?w=3840&q=90)
 
-#### Launch campaigns faster
+[View all plugins](</business/plugins/?tab=apps-go-to-market>)[Add Data Analytics plugin](</business/plugins/data-analytics/>)
 
-Turn research and campaign context into clear briefs, messaging, and launch-ready assets.
+## AI that gives marketers room for more impact
 
-![Person icon.](https://images.ctfassets.net/kftzwdyauwt9/3NaRm1mR434U8LhrIejxWc/e7bc7247a3202ec3e3ab1e1a0fa0a1ad/person.svg?w=3840&q=90)
+#### Work across the entire campaign
 
-#### Keep every campaign on brand
+Connect research, strategy, creative, and execution in one shared workspace—so every marketer can take an idea from first insight to working prototype to launch.
 
-Apply your voice, messaging, and creative standards across channels, formats, and markets.
+![Line chart interface with a prompt asking Figma to turn customer research and launch goals into a focused campaign plan and working prototype.](https://images.ctfassets.net/kftzwdyauwt9/2PUe276rInnhLmCEfIj7Pj/6058a0164a60d6223d23cc8aeb138024/marketing-1.png?w=3840&q=90&fm=webp)
 
-![Trending icon.](https://images.ctfassets.net/kftzwdyauwt9/0aM3iFjOvlB7247Tdlp1Y/23630a382ccc2a5278965939fa2cf514/trending.svg?w=3840&q=90)
+#### Understand what customers need
 
-#### Improve what works
+Bring customer research, sales conversations, and campaign performance together to uncover what matters and make clearer decisions.
 
-Analyze performance, identify the strongest directions, and refine what comes next.
+![Circular chart interface with a prompt asking HubSpot to surface recurring customer needs across research, sales feedback, and campaign results.](https://images.ctfassets.net/kftzwdyauwt9/66uPShKOAVHeyHDD6bqBzE/2215a51013472799e7a4cf2b700e1038/marketing-2.png?w=3840&q=90&fm=webp)
 
-## How marketing teams use campaign data to make launches better with ChatGPT Work
+#### Create campaigns people remember
 
-Campaign performance readoutCampaign concept boardsAd creative variationsProduct shot variations
+Explore distinctive creative directions, bring stronger ideas to life, and refine the work with your team’s taste, judgment, and point of view.
 
-Turn campaign results into an up-to-date leadership readout with clear recommendations for improving the next launch.
+![Brand campaign brief with a prompt asking Canva to develop creative directions, explain the brand fit, and recommend the strongest.](https://images.ctfassets.net/kftzwdyauwt9/4NQODBmni9AMajsUxCRQXI/629b511fb3c491ff5d64e50a6a1cf819/marketing-3.png?w=3840&q=90&fm=webp)
 
-Review the recent marketing campaign performance document for our new product launch and our initial brief. [Insert document links] Create a deck for us to review the campaign’s performance with leadership using @Presentations
+#### Reach customers as they decide
 
-## Work across your marketing tools and context
+Use ChatGPT Ads to reach people as they explore options, compare choices, and decide what comes next.
 
-[View plugins](</business/plugins/>)
+![Product card interface with a prompt to build a ChatGPT Ads campaign for people exploring mid-century modern furniture.](https://images.ctfassets.net/kftzwdyauwt9/2F5ba5XqLyMeuS50tpjYap/5603a12c30c6150bf60d45b8c8ee12a9/marketing-4.png?w=3840&q=90&fm=webp)
 
-[](</business/apps/google-drive/>)
+## Try ChatGPT Work prompts for marketing teams
 
-[](</business/apps/google-calendar/>)
+Campaign concept boardsAd creative variationsProduct shot variations
 
-[](</business/apps/gmail/>)
+### Turn customer understanding into a stronger campaign
 
-[](</business/apps/microsoft-sharepoint/>)
+Bring approved product information, customer research, and campaign goals together to explore three distinctive directions, with the customer need and brand fit behind each.
 
-[](</business/apps/microsoft-teams/>)
+Using our product roadmap, customer research, and launch brief, propose three distinct campaign directions. Explain the audience insight, brand fit, tradeoffs, and recommended direction. 
 
-[](</business/apps/slack/>)
+[Try in ChatGPT(opens in a new window)](<https://chatgpt.com/?surface=work&q=Using+our+product+roadmap%2C+customer+research%2C+and+launch+brief%2C+propose+three+distinct+campaign+directions.+Explain+the+audience+insight%2C+brand+fit%2C+tradeoffs%2C+and+recommended+direction.>)
 
-[](</business/apps/notion/>)
+## Reach customers as decisions take shape in ChatGPT
 
-[](</business/apps/google-drive/>)
+Connect with people as they explore options, compare choices, and decide in ChatGPT.
 
-[](</business/apps/google-calendar/>)
+#### Reach high-intent customers
 
-[](</business/apps/gmail/>)
+Show up when people are actively exploring products and making purchase decisions.
 
-[](</business/apps/microsoft-sharepoint/>)
+#### Go beyond keywords
 
-[](</business/apps/microsoft-teams/>)
+Use conversational context to reach customers with more relevant advertising.
 
-[](</business/apps/slack/>)
+#### Grow in a new channel
 
-[](</business/apps/notion/>)
+Reach customers where discovery, consideration, and decisions happen together with AI.
+
+  * [Get started with ChatGPT Ads(opens in a new window)](<https://ads.openai.com/>)
+
+
+
+![A ChatGPT response interface showing a sponsored card in a soft green gradient.](https://images.ctfassets.net/kftzwdyauwt9/6ucQkCZsPjJswxYMXfvtV3/fa92a8033b290f38bcb6d3f0e2ac07af/chatgpt-ads-figma-ecosystem.png?w=3840&q=90&fm=webp)
 
 ## Why marketing teams choose OpenAI
 
@@ -139,41 +158,25 @@ Daniel Arzouman, Business Intelligence Analyst, San Antonio Spurs
 
 
 
-![Chime EF > Cover image](https://images.ctfassets.net/kftzwdyauwt9/4ajGqSs8sAtDeBkMRosEeA/c3d25488da7ceb50079e2817666215fc/EF_Ep15_1.1.png?w=3840&q=90&fm=webp)
+## Resources for more ambitious marketing
 
-## [How Chime is redefining marketing through AI](</index/chime-vineet-mehra/>)
-
-![Expedia EF > Hero image](https://images.ctfassets.net/kftzwdyauwt9/4QTSYSWUVPRRaoEifBpyTM/5d62abab800b9db87c0ed011b719b2bc/EF_Expedia_1.1.png?w=3840&q=90&fm=webp)
-
-## [AI powers Expedia’s marketing evolution](</index/expedia-jochen-koedijk/>)
-
-![Estée Lauder Companies logo in white, set against a textured close-up of crushed pink powder, resembling makeup pigments.](https://images.ctfassets.net/kftzwdyauwt9/5r8WffR8g3bbiYmlugUs9c/d9232bfac9f79ed6ad2fa79327822878/oai_esteelauder_1_1.jpg?w=3840&q=90&fm=webp)
-
-## [Data-driven beauty: How The Estée Lauder Companies unlocks insights with ChatGPT](</index/estee-lauder/>)
-
-![San Antonio Spurs logo displayed on a stylized basketball court background with teal, orange, and cream-colored sections and lines.](https://images.ctfassets.net/kftzwdyauwt9/3T53lsDpxxxZkP95bJqGlk/72b9117d5dddf09c24521dfee740ce13/oai_Spur_1x1.png?w=3840&q=90&fm=webp)
-
-## [The San Antonio Spurs use ChatGPT to scale impact on and off the court](</index/san-antonio-spurs/>)
-
-## Marketing resources
-
-Explore additional resources for getting started with OpenAI
+Explore customer stories, practical prompts, and resources for understanding customers, developing stronger ideas, and creating distinctive marketing.
 
 ![Abstract blue art card for ChatGPT Work webinar resources.](https://images.ctfassets.net/kftzwdyauwt9/6Ha7QQ4NC6ajzW0cJwlzzp/7a6339ffc1cd5cf02d2b58e8cac019ec/Webinar_art_card.png?w=3840&q=90&fm=webp)
 
-## [Watch webinarSee how our Marketing team uses ChatGPT Work to turn campaign results into recommendations that improve the next launch.(opens in a new window)](<https://webinar.openai.com/chatgpt-work-series/marketing/?utm_medium=website&utm_campaign=WBR-chatgpt-work-series-marketing-resources>)
+## [Watch webinarSee how our marketing team uses ChatGPT Work to turn campaign results into recommendations that improve the next launch.(opens in a new window)](<https://webinar.openai.com/chatgpt-work-series/marketing/?utm_medium=website&utm_campaign=WBR-chatgpt-work-series-marketing-resources>)
 
-![Academy > Codex for work landing page > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/1FJET38tquoT1DpckYCUVK/1174d7a4f055af688408aa3bae55bab9/codex-for-work-1_1.png?w=3840&q=90&fm=webp)
+![Abstract resource card showing templates for OpenAI Academy learning paths.](https://images.ctfassets.net/kftzwdyauwt9/1CN97KLCSGfK8XVupr1j74/830f613cece1f5ee4c54406bf860e2d6/1x1_Templates.png?w=3840&q=90&fm=webp)
 
 [AcademyBuild AI skills with hands-on lessons and learning paths from OpenAI.](</academy/codex-for-work/>)
 
 ![Business Learning Hub 1x1](https://images.ctfassets.net/kftzwdyauwt9/3WaN0u4u87BK3dXsD569qh/f40a4e250dc00d0bbf5ec418be81fc9c/Business_Learning_Hub_1x1.png?w=3840&q=90&fm=webp)
 
-[Guides & ResourcesExplore business guides for adopting AI securley and at scale.](</business/learn/>)
+[Guides & ResourcesExplore business guides for adopting AI securely and at scale.](</business/learn/>)
 
-## See what OpenAI can do for marketing teams
+## Give your team room for more ambitious marketing
 
-Whether you’re scaling an in-house marketing team or creating campaigns for customers, we can help you identify where to start.
+Give your team room to understand customers, pursue strong ideas, and bring distinctive work to market.
 
 [Contact sales](</contact-sales/>)
 

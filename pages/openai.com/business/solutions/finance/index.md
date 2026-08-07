@@ -26,107 +26,120 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 OpenAI
 
-### [Live webinar] Join us August 4, 2026 at 9:30 AM PT
-
-to see how OpenAI's Finance team uses ChatGPT Work to explain variance and turn close data into a decision-ready forecast.
-
-[Register now(opens in a new window)](<https://webinar.openai.com/chatgpt-work-series/finance/?utm_medium=website&utm_campaign=WBR-chatgpt-work-series-finance-banner>)
-
 # AI for your finance team’s most ambitious work
 
-ChatGPT Work reconciles financial data, updates forecasts, and creates decision-ready reporting—so finance teams can close faster, manage cash with confidence, and guide the business with auditability built in.
+Finance teams use ChatGPT Work to get better visibility across the business, turn complex work into decision-ready analysis, and spend more time shaping what happens next.
 
-[Contact sales](</contact-sales/>)[Get started](<https://chatgpt.com/team-sign-up>)
+[Contact sales](</contact-sales/>)
 
-Explain the forecast miss, identify key drivers, and model the impact
+Get started
 
-![Solutions for Finance hero chart.](https://images.ctfassets.net/kftzwdyauwt9/2cmQf5c1lwJHJ9MoBaBMlN/c3bc586d6b1a83103cc9673a6f5b6f17/finance-chart-1-1.png?w=3840&q=90&fm=webp)
+## Work across your finance tools and business context
 
-![Solutions for Finance hero chart.](https://images.ctfassets.net/kftzwdyauwt9/3DbkVi9Yx0FM1Pf73Y34Bd/a3660407f0aec493972c12442e0f7d57/finance-chart-1.png?w=3840&q=90&fm=webp)
+Add plugins to extend what ChatGPT Work can do. Plugins connect your business data from tools like Microsoft Excel, PowerPoint, Snowflake, and Salesforce. Use OpenAI’s Data Analytics plugin to run pre-built workflows for core finance tasks.
 
-## Run finance with greater speed, insight, and control
+  * [Data AnalyticsBuilt by OpenAI](</business/plugins/data-analytics/>)
+  * [Stripe](</business/plugins/stripe/>)
+  * [SharePoint](</business/plugins/microsoft-sharepoint/>)
+  * [Google Drive](</business/plugins/google-drive/>)
+  * [Salesforce](</business/plugins/salesforce/>)
+  * [Gusto](</business/plugins/gusto/>)
+  * [Ramp](</business/plugins/ramp/>)
+  * [Snowflake](</business/plugins/snowflake/>)
+  * [Databricks Genie](</business/plugins/databricks/>)
+  * [BigQuery](</business/plugins/bigquery/>)
+  * [Outlook Email](</business/plugins/microsoft-outlook-email/>)
+  * [Microsoft Teams](</business/plugins/microsoft-teams/>)
+  * [Microsoft Outlook](</business/plugins/microsoft-outlook-calendar/>)
+  * [LSEG](</business/plugins/lseg/>)
+  * [Morningstar](</business/plugins/morningstar/>)
+  * [PitchBook](</business/plugins/pitchbook/>)
 
-![Bar chart icon.](https://images.ctfassets.net/kftzwdyauwt9/6LiaqHhUBuu7p2AoHCKLye/87667902543e524e84f48b64f3d3fffc/finance-value-icon-bar-chart.svg?w=3840&q=90)
 
-#### Improve decision quality
 
-Model scenarios, test assumptions, and quickly refresh forecasts as conditions change—so leaders can act on what’s ahead.
+[View all plugins](</business/plugins/?tab=apps-finance>)[Add Data Analytics plugin](</business/plugins/data-analytics/>)
 
-![Speedometer icon.](https://images.ctfassets.net/kftzwdyauwt9/257Z37r3frqMRr4uGddVo/729311bf728ba62974f491afeef1bc61/finance-value-icon-speedometer.svg?w=3840&q=90)
+## Finance at the speed of business
 
-#### Increase finance capacity
+#### Better visibility
 
-Delegate manual work to agents across reporting, close, and operations so teams can spend more time advising the business.
+Connect approved financial and operating data to understand what’s driving performance, where risks are emerging, and how the outlook is changing.
 
-![Checkmark shield icon.](https://images.ctfassets.net/kftzwdyauwt9/7ejo1NdwSiU3GoSpBrBl8k/6969470c36635dd4f4a1ee42e946aefd/finance-value-icon-checkmark-shield.svg?w=3840&q=90)
+![Revenue actuals and approved forecast graphic with a prompt to explain why revenue missed plan and recommend actions.](https://images.ctfassets.net/kftzwdyauwt9/yidbDtrJMLJpvFuHvlRU8/6fb7e403a56aff7df95d423d4d59bb0e/finance-1__1_.png?w=3840&q=90&fm=webp)
 
-#### Auditability, built in
+#### Agents that get work done
 
-Review cells and sources, approve changes before they’re made, and preserve formulas, formatting, and editable slide structure.
+Delegate multi-step work to agents that deliver board-ready analyses, scenario models, and executive reporting—elevating Finance to focus on strategic decisions.
 
-## How finance teams get from numbers to decisions with ChatGPT Work
+![Spreadsheet graphic with a prompt to model downside scenarios using Salesforce pipeline and Snowflake actuals.](https://images.ctfassets.net/kftzwdyauwt9/1grMaQKlwmsLlmw8wsU0YY/74b57253b6790886483c9d338d8e3f5e/finance-2.png?w=3840&q=90&fm=webp)
 
-Monthly close BvA and reforecastingBuild and update modelsCash forecastingVariance reviewRevenue dashboard
+#### Custom tools, better decisions
 
-### Reconcile results and forecast what’s next
+Build live dashboards, forecasting tools, and reusable workflows that give leadership faster answers to critical business questions.
 
-Reconcile @NetSuite actuals, @Salesforce renewals, and the @Databricks Genie model. Explain the variance, separate recurring performance from timing and risk, and produce a risk-weighted outlook using deal-level close probabilities.
+![Operating dashboard graphic with a prompt to build a CFO dashboard showing variances, risks, and decisions.](https://images.ctfassets.net/kftzwdyauwt9/4hLxcUekkTEMWOU8eTsn0N/fbbffa19e3ac5f9492048e767684ed95/finance-3.png?w=3840&q=90&fm=webp)
 
-## Work across your finance tools and context
+#### Trust in every decision
 
-[View plugins](</business/plugins/>)
+Protect approved assumptions, trace every output, and keep AI usage and spend under control.
 
-[](</business/apps/google-drive/>)
+![Cash flow chart with a prompt to audit Ramp spend and Salesforce pipeline against the approved forecast and flag unapproved assumptions.](https://images.ctfassets.net/kftzwdyauwt9/2U8e41yNzzFsuskSNajAwA/07d4e1b5a900dc9d665e541571521376/finance-4.png?w=3840&q=90&fm=webp)
 
-[](</business/apps/google-calendar/>)
+## Try ChatGPT Work prompts for finance teams
 
-[](</business/apps/microsoft-teams/>)
+Build and update modelsCash forecastingBudget varianceRevenue dashboard
 
-[](</business/apps/gmail/>)
+### Explain actuals, budget variance, and the next forecast
 
-[](</business/apps/microsoft-sharepoint/>)
+Review model assumptions, inspect formulas, organize supporting inputs, and prepare leadership-ready summaries while keeping the workbook editable and the analysis reviewable.
 
-[](</business/apps/slack/>)
+Review this financial model and source materials. Update assumptions, check formulas, summarize key drivers, and create a leadership-ready view with takeaways and risks.
 
-[](</business/apps/agentforce-sales/>)
+[Try in ChatGPT(opens in a new window)](<https://chatgpt.com/?surface=work&q=Review+this+financial+model+and+source+materials.+Update+assumptions%2C+check+formulas%2C+summarize+key+drivers%2C+and+create+a+leadership-ready+view+with+takeaways+and+risks.>)
 
-[](</business/apps/airtable/>)
+## AI for every finance function
 
-[](</business/apps/notion/>)
+CFOFP&AAccountingFinance operationsCorporate developmentInvestor relations
 
-[](</business/apps/linear/>)
+#### See what’s driving performance across the business
 
-[](</business/apps/dropbox/>)
+#### Pressure-test forecasts, cash flow, and financial scenarios
 
-[](</business/apps/figma/>)
+#### Prioritize capital allocation and strategic investment decisions
 
-[](</business/apps/google-drive/>)
+#### Guide board-level decisions with clear financial insights
 
-[](</business/apps/google-calendar/>)
+## Enterprise-grade security and controls
 
-[](</business/apps/microsoft-teams/>)
+ChatGPT Work combines enterprise security, access controls, and source traceability—so finance can move faster without compromising accountability.
 
-[](</business/apps/gmail/>)
+![Checkmark shield icon](https://images.ctfassets.net/kftzwdyauwt9/HkyXgus6zfm2wo9vv4vCo/0a5537af0553147045907547951e4885/finance-trust-clean-checkmark-shield.svg?w=3840&q=90)
 
-[](</business/apps/microsoft-sharepoint/>)
+#### Enterprise-grade security
 
-[](</business/apps/slack/>)
+Protect sensitive financial information with built-in enterprise security and configurable data controls.
 
-[](</business/apps/agentforce-sales/>)
+![Person badge lock icon](https://images.ctfassets.net/kftzwdyauwt9/6t5TrtEsDPPn9uo9Fp6s46/c0f7ac868fa4927b6581dea709cfc348/finance-trust-clean-person-badge-lock.svg?w=3840&q=90)
 
-[](</business/apps/airtable/>)
+#### Access and traceability
 
-[](</business/apps/notion/>)
+Control access to financial data and connected tools, and trace outputs back to approved sources.
 
-[](</business/apps/linear/>)
+![Checkmark circle icon](https://images.ctfassets.net/kftzwdyauwt9/1wE182V8tgvjOlciWXXqFc/c09de93a996fd01c86d775ed1790f09b/finance-trust-clean-checkmark-circle.svg?w=3840&q=90)
 
-[](</business/apps/dropbox/>)
+#### Human approval
 
-[](</business/apps/figma/>)
+Keep sensitive actions subject to human review and final decisions in Finance’s hands.
+
+![Sliders icon](https://images.ctfassets.net/kftzwdyauwt9/3CF1Q3rwcJF2rzUhbfCdnT/0e009a26af39d8acfc52cc094e4aaf00/finance-trust-clean-sliders.svg?w=3840&q=90)
+
+#### Spend and usage controls
+
+Manage usage, monitor AI spend, and measure value across the Finance organization.
 
 ## Why finance teams choose OpenAI
 
-See how finance teams are making OpenAI part of how they analyze data, conduct research, and make decisions.
+See how finance teams are making ChatGPT Work part of how they analyze data, conduct research, and make decisions.
 
 1 of 3
 
@@ -157,29 +170,13 @@ Amr Ellabban, PhD, Head of AI, Hg
 
 
 
-![oai Balyasny 1x1](https://images.ctfassets.net/kftzwdyauwt9/27WMGhOq82XBzmCqqaHy6q/a6d1207128885eae6b1ed73c43809dd5/oai_Balyasny_1x1.png?w=3840&q=90&fm=webp)
-
-## [How Balyasny Asset Management built an AI research engine](</index/balyasny-asset-management/>)
-
-![BBVA  > oai bbva 1x1](https://images.ctfassets.net/kftzwdyauwt9/4Ygin6jpvTgfSBwBXZOJCb/76cb2f180b135e568c6f2b73cb97b236/oai_BBVA_1x1.png?w=3840&q=90&fm=webp)
-
-## [BBVA puts AI in the hands of every team with OpenAI](</index/bbva/>)
-
-![oai BNY 1x1](https://images.ctfassets.net/kftzwdyauwt9/6pha2P5AVJHHqjh1dsjkmt/b2016686be8f596010974414726c7277/oai_BNY_1x1.png?w=3840&q=90&fm=webp)
-
-## [BNY builds “AI for everyone, everywhere” with OpenAI](</index/bny/>)
-
-![fanatics > cover image](https://images.ctfassets.net/kftzwdyauwt9/4lXGRYS7pL1quEZhefPJBZ/35718984e2fc0804d73af8587039df47/EF_Fanatics_Web_Card_1.1.png?w=3840&q=90&fm=webp)
-
-## [Using AI to focus on the big picture](</index/fanatics-betting-gaming-andrea-ellis/>)
-
 ## Finance resources
 
-Explore additional resources for getting started with OpenAI.
+Explore practical finance prompts, implementation guidance, and examples for getting started with ChatGPT Work.
 
 ![Abstract blue art card for ChatGPT Work webinar resources.](https://images.ctfassets.net/kftzwdyauwt9/6Ha7QQ4NC6ajzW0cJwlzzp/7a6339ffc1cd5cf02d2b58e8cac019ec/Webinar_art_card.png?w=3840&q=90&fm=webp)
 
-## [Watch webinarSee how our Finance team uses ChatGPT Work to explain variance and build forecasts leaders can act on.(opens in a new window)](<https://webinar.openai.com/chatgpt-work-series/finance/?utm_medium=website&utm_campaign=WBR-chatgpt-work-series-finance-resources>)
+## [Watch webinarSee how our Finance team uses ChatGPT Work to explain variance and build forecasts leaders can action on.(opens in a new window)](<https://openai.ondemand.goldcast.io/on-demand/cd89f13d-bd97-4b96-9261-818ffdcd2fc0>)
 
 ![How finance teams use Codex > card image](https://images.ctfassets.net/kftzwdyauwt9/4VU5At1ybQhEoHRaoWSJzK/b2909183102b81eef94eb9d9541d4841/finance_teams.png?w=3840&q=90&fm=webp)
 
@@ -187,17 +184,15 @@ Explore additional resources for getting started with OpenAI.
 
 ![Business Learning Hub 1x1](https://images.ctfassets.net/kftzwdyauwt9/3WaN0u4u87BK3dXsD569qh/f40a4e250dc00d0bbf5ec418be81fc9c/Business_Learning_Hub_1x1.png?w=3840&q=90&fm=webp)
 
-[Guides & ResourcesExplore business guides for adopting AI securley and at scale.](</business/learn/>)
+[Guides & ResourcesExplore business guides for adopting AI securely and at scale.](</business/learn/>)
 
-![Placeholder strategic finance workflow collage from the Figma design.](https://images.ctfassets.net/kftzwdyauwt9/5b3Xk3sSoDKWJeQqU1FjVk/4b2a69a38ffd05d9cd934829c4107c73/hero-media-2x.png?w=3840&q=90&fm=webp)
+## Give your finance team more capacity
 
-[Finance workflowsSee how OpenAI’s Finance team uses ChatGPT and Codex across 16 workflows.](</business/solutions/finance/workflows/>)
+Whether you're introducing AI or scaling it across finance, ChatGPT Work helps teams spend less time preparing work and more time deciding.
 
-## See what OpenAI can do for finance teams
+[Contact sales](</contact-sales/>)
 
-Whether you’re scaling an in-house finance function or building financial products for customers, we can help get you started.
-
-[Contact sales](</contact-sales/>)[Get started(opens in a new window)](<https://chatgpt.com/team-sign-up>)
+Get started
 
 Research
 

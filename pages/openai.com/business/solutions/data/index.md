@@ -26,7 +26,7 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 OpenAI
 
-### [Live webinar] Join us August 11, 2026 at 9:30 AM PT
+### [Upcoming webinar] Join us August 11, 2026 at 9:30 AM PT
 
 to see how OpenAI's Data Analytics team uses ChatGPT Work to connect data and business context, explain what changed, and recommend what to do next.
 
@@ -169,19 +169,19 @@ Daniel Arzouman, Business Intelligence Analyst, San Antonio Spurs
 
 ![A white Rakuten logo superimposed on a red background.](https://images.ctfassets.net/kftzwdyauwt9/2dpPH8h8jrBYrXYpujHykN/2bb8f2b6ad281701a79a5373e60a0ce7/Rakuten.jpg?w=3840&q=90&fm=webp)
 
-## [Rakuten pairs data with AI to unlock customer insights and valueAPI](</index/rakuten-2024/>)
+## [Rakuten pairs data with AI to unlock customer insights and valueAPILearn more](</index/rakuten-2024/>)
 
 ![Estée Lauder Companies logo in white, set against a textured close-up of crushed pink powder, resembling makeup pigments.](https://images.ctfassets.net/kftzwdyauwt9/5r8WffR8g3bbiYmlugUs9c/d9232bfac9f79ed6ad2fa79327822878/oai_esteelauder_1_1.jpg?w=3840&q=90&fm=webp)
 
-## [Data-driven beauty: How The Estée Lauder Companies unlocks insights with ChatGPT](</index/estee-lauder/>)
+## [Data-driven beauty: How The Estée Lauder Companies unlocks insights with ChatGPTLearn more](</index/estee-lauder/>)
 
 ![BBVA  > oai bbva 1x1](https://images.ctfassets.net/kftzwdyauwt9/4Ygin6jpvTgfSBwBXZOJCb/76cb2f180b135e568c6f2b73cb97b236/oai_BBVA_1x1.png?w=3840&q=90&fm=webp)
 
-## [BBVA puts AI in the hands of every team with OpenAI](</index/bbva/>)
+## [BBVA puts AI in the hands of every team with OpenAILearn more](</index/bbva/>)
 
 ![Grab logo in white, centered on a background of soft-focus green grass, with blades appearing to sway in motion.](https://images.ctfassets.net/kftzwdyauwt9/1oU3yr7ION7tdcVrPThcXv/5fcc97973d4b33cd95ca4cf335163cb4/oai_grab_1_1.jpg?w=3840&q=90&fm=webp)
 
-## [Grab builds smarter maps for Southeast Asia with vision fine-tuning](</index/grab/>)
+## [Grab builds smarter maps for Southeast Asia with vision fine-tuningLearn more](</index/grab/>)
 
 ## Data analytics resources
 

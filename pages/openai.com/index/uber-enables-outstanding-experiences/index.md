@@ -41,36 +41,22 @@ Share
 Uber is one of the largest mobility and delivery platforms in the world. Why is AI important and how does it fit into Uber’s broader strategy?
 
   * Uber is one of the largest mobility and delivery platforms in the world. Why is AI important and how does it fit into Uber’s broader strategy?
-
   * Uber operates a multi-sided marketplace, balancing the needs of consumers, drivers, and merchants. How is AI applied to address the unique needs of these groups?
-
   * How is Uber using AI for personalization and recommendations?
-
   * AI also has significant potential to impact workforce productivity. How is Uber utilizing AI internally?
-
   * How does Uber measure the impact of AI adoption, both internally and externally?
-
   * What advice would you give to other product leaders on successfully adopting AI?
-
   * One last question—what impact do you foresee AI having on the on-demand economy in the years ahead?
-
 
 
 
   * Uber is one of the largest mobility and delivery platforms in the world. Why is AI important and how does it fit into Uber’s broader strategy?
-
   * Uber operates a multi-sided marketplace, balancing the needs of consumers, drivers, and merchants. How is AI applied to address the unique needs of these groups?
-
   * How is Uber using AI for personalization and recommendations?
-
   * AI also has significant potential to impact workforce productivity. How is Uber utilizing AI internally?
-
   * How does Uber measure the impact of AI adoption, both internally and externally?
-
   * What advice would you give to other product leaders on successfully adopting AI?
-
   * One last question—what impact do you foresee AI having on the on-demand economy in the years ahead?
-
 
 
 

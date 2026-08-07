@@ -235,10 +235,6 @@ Yes! For a given model, Cached Inputs receive the same 50%, 75%, or 90% discount
 
 **On the Usage dashboard, requests using either priority or fast as the service_tier will continue to appear as priority. This will be updated for future models.**
 
-### Is Fast mode available for long context, fine-tuned models, embeddings, etc.?
-
-Not at this time. We will evaluate in the future whether to offer Fast mode on additional products beyond our latest models.
-
 ### How do other modalities work with Fast mode?
 
 Fast mode supports the same multimodal capabilities available on Standard. In particular, images can be used as inputs to Priority processing and are processed with the same fast latency.

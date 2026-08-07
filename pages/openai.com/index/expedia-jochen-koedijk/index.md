@@ -41,36 +41,22 @@ Share
 You’ve led consumer marketing across multiple industries. How have you seen the role of marketing—and the CMO—evolve over time?
 
   * You’ve led consumer marketing across multiple industries. How have you seen the role of marketing—and the CMO—evolve over time?
-
   * How is AI specifically helping in your role as a CMO? What advice would you give other marketing leaders as they embrace this transformation?
-
   * With those shifts in behavior, do you see agents playing a role in the future of travel marketing?
-
   * Do you see opportunities for AI in strengthening customer relationships and loyalty?
-
   * Companies sometimes struggle building AI fluency internally. How are you fostering that within your marketing organization?
-
   * Have you seen tangible outcomes from this cultural shift?
-
   * As we look to the future, what skills will marketers need to stay ahead in an AI-driven world?
-
 
 
 
   * You’ve led consumer marketing across multiple industries. How have you seen the role of marketing—and the CMO—evolve over time?
-
   * How is AI specifically helping in your role as a CMO? What advice would you give other marketing leaders as they embrace this transformation?
-
   * With those shifts in behavior, do you see agents playing a role in the future of travel marketing?
-
   * Do you see opportunities for AI in strengthening customer relationships and loyalty?
-
   * Companies sometimes struggle building AI fluency internally. How are you fostering that within your marketing organization?
-
   * Have you seen tangible outcomes from this cultural shift?
-
   * As we look to the future, what skills will marketers need to stay ahead in an AI-driven world?
-
 
 
 
@@ -152,17 +138,15 @@ OpenAI
 
 ## Keep reading
 
-![Why teens deserve access to safe AI — card image](https://images.ctfassets.net/kftzwdyauwt9/qMYBYjbkSSEYQbsQyyfRQ/d9fe2585ed8bbf73ffee5d6ed8bcc39e/why-teens-card.jpg?w=3840&q=90&fm=webp)
+![oai HSPGruppe 1x1](https://images.ctfassets.net/kftzwdyauwt9/2BdpQMESZ6vBBL3ms66ixC/369405aa3d8ed5a5e2994e0390e0d8a6/oai_HSPGruppe_1x1.png?w=3840&q=90&fm=webp)
 
-[Why teens deserve access to safe AISafetyJul 16, 2026](</index/why-teens-deserve-access-safe-ai/>)
+[How HSP GRUPPE builds AI capabilities for tax advisoryAug 7, 2026](</index/hsp-gruppe/>)
 
-![Cars24 — square customer story artwork](https://images.ctfassets.net/kftzwdyauwt9/2w9KeAF3eUGeTYbhIad57r/60d837660f6c59bdf46f82c28073469d/cars24-square.png?w=3840&q=90&fm=webp)
+[Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free usersProductAug 6, 2026](</index/improving-gpt-5-6-sol-in-chatgpt/>)
 
-[How Cars24 scales conversations and builds faster with OpenAIJul 16, 2026](</index/cars24/>)
+![APA partnership > card image](https://images.ctfassets.net/kftzwdyauwt9/7Iu2mNExtUq2EqstK69WkH/7fb0f37c3c69d9481f8ea803af7ae613/openai-and-apa-advance-responsible-ai-for-youth-1_1.png?w=3840&q=90&fm=webp)
 
-![Helping build shared standards for advanced AI - card image](https://images.ctfassets.net/kftzwdyauwt9/5bSU7ItzcBWGtWhApmmJ6X/a818a91ef36b39ed07d62566ec318760/Frame2.png?w=3840&q=90&fm=webp)
-
-[The US is advancing AI safety through state and federal actionGlobal AffairsJul 15, 2026](</index/advancing-ai-safety-through-state-and-federal-action/>)
+[OpenAI and APA advance responsible AI for youthCompanyAug 6, 2026](</index/openai-and-apa-partner-to-advance-responsible-ai/>)
 
 Research
 

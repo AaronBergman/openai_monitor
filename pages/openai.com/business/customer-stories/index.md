@@ -132,6 +132,10 @@ Customer stories
 
 Filter
 
+![Circles customer story card and hero image](https://images.ctfassets.net/kftzwdyauwt9/5VkfxmlpCs54yu0Y5pywQ1/f787f9398ab67b7f3dcf8a7e9f421088/oai_Circles_1x1.png?w=3840&q=90&fm=webp)
+
+[Circles powers telco personalization with OpenAI technologyAug 3, 2026](</index/circles/>)
+
 ![Univé customer story art card image](https://images.ctfassets.net/kftzwdyauwt9/4wUTx4QQxLp3nol3gwzH7f/8da5438602d7b0122180261ffc2d804f/oai_unive_1x1.png?w=3840&q=90&fm=webp)
 
 [Univé builds an AI-ready workforceJul 31, 2026](</index/unive/>)
@@ -175,10 +179,6 @@ Filter
 ![lseg > oai 1x1](https://images.ctfassets.net/kftzwdyauwt9/6wykEE6NmMzJHGPdxuhPV7/b85d4a7e59cd01a710f4b8b9213f88f8/oai_LSEG_1x1.png?w=3840&q=90&fm=webp)
 
 [From data to decisions: how LSEG is scaling trusted AIJun 10, 2026](</index/lseg/>)
-
-![Nextdoor customer stories > oai 1x1](https://images.ctfassets.net/kftzwdyauwt9/2VQiKydNUVAutnHRuCIV4S/3262cc8deff3fe49c6b512f854e14dcf/oai_Nextdoor_1x1.png?w=3840&q=90&fm=webp)
-
-[How engineers at Nextdoor use Codex to build without limitsJun 9, 2026](</index/nextdoor/>)
 
 Load more
 

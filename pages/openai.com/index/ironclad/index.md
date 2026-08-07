@@ -41,16 +41,12 @@ Share
 A remarkable boost for legal teams
 
   * A remarkable boost for legal teams
-
   * A tipping point in the legal field
-
 
 
 
   * A remarkable boost for legal teams
-
   * A tipping point in the legal field
-
 
 
 

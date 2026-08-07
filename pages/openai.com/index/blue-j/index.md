@@ -41,24 +41,16 @@ Share
 Leveraging domain expertise to build the solution no one else can
 
   * Leveraging domain expertise to build the solution no one else can
-
   * Scale trust through user feedback
-
   * Design evaluations that raise the bar, not just test it
-
   * Leverage your domain expertise as your advantage 
-
 
 
 
   * Leveraging domain expertise to build the solution no one else can
-
   * Scale trust through user feedback
-
   * Design evaluations that raise the bar, not just test it
-
   * Leverage your domain expertise as your advantage 
-
 
 
 
