@@ -31,7 +31,6 @@ OpenAI
   * [All](</stories/>)
   * [ChatGPT](</stories/chatgpt/>)
   * [API](</stories/api/>)
-  * [Sora](</stories/sora/>)
 
 
 
@@ -49,11 +48,11 @@ Switch cards to hide Media
 
 [Minne Atairu & SoraSoraDec 9, 2024](</index/sora-minne-atairu/>)
 
-[Animator Lyndon Barrois creates new worlds with SoraSoraDec 9, 2024](</index/sora-lyndon-barrois/>)
-
 ![Vallée Duhamel & Sora](https://images.ctfassets.net/kftzwdyauwt9/6GlLsh9hADQbSNr9EdsgmM/0bd2a28fe93677e2fbb845047a2f40a9/Vallée_Duhamel___Sora.jpg?w=3840&q=90&fm=webp)
 
 [Vallée Duhamel & SoraSoraDec 9, 2024](</index/sora-vallee-duhamel/>)
+
+[Animator Lyndon Barrois creates new worlds with SoraSoraDec 9, 2024](</index/sora-lyndon-barrois/>)
 
 Research
 
@@ -139,6 +138,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

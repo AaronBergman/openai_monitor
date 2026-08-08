@@ -75,11 +75,11 @@ Enterprise-grade AI, security, and support for businesses operating at scale
 
 Custom pricing
 
-Contact our sales team to discuss pricing.
+Contact our sales team to discuss pricing.*
 
 [Contact sales](</contact-sales/>)
 
-What's included:
+What’s included:
 
   * Expanded context window that supports longer inputs and larger files
 
@@ -95,6 +95,8 @@ What's included:
 
 
 
+
+*[Credit-based⁠⁠(opens in a new window)](<https://help.openai.com/articles/11481834-chatgpt-rate-card-business-enterpriseedu>) pricing and [token-based⁠(opens in a new window)](<https://help.openai.com/articles/20001415>) pricing are available for Enterprise plans.
 
 ### Looking for personal plans?
 
@@ -118,11 +120,11 @@ Enterprise
 
 ### Essentials
 
-###### Messages and interactions
+###### Everyday text chats
 
-Unlimited*Plan: Business, Feature: Messages and interactions, Unlimited*
+Unlimited*Plan: Business, Feature: Everyday text chats, Unlimited*
 
-Unlimited*Plan: Enterprise, Feature: Messages and interactions, Unlimited*
+Unlimited*Plan: Enterprise, Feature: Everyday text chats, Unlimited*
 
 ###### Chat history
 
@@ -137,12 +139,6 @@ Plan: Business, Feature: Access on web, iOS, Android, Yes
 Plan: Enterprise, Feature: Access on web, iOS, Android, Yes
 
 ### Models
-
-###### GPT-5.5 Instant
-
-Unlimited*Plan: Business, Feature: GPT-5.5 Instant, Unlimited*
-
-Unlimited*Plan: Enterprise, Feature: GPT-5.5 Instant, Unlimited*
 
 ###### GPT-5.6 Sol
 

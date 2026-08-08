@@ -26,12 +26,6 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 OpenAI
 
-### ChatGPT Work for small businesses:
-
-Learn practical ways ChatGPT can help you save time, amplify your expertise, and build with AI.
-
-[Register here(opens in a new window)](<https://webinar.openai.com/small-business/chatgpt-work/?>)
-
 OpenAI for small business
 
 # Be bold. Be ambitious. Build with ChatGPT.
@@ -119,7 +113,7 @@ Deploy AI confidently with secure workspaces, admin controls, encryption, and bu
 
 WebinarsEvents
 
-### [How Small Businesses Can Put ChatGPT Work Into Practice (August 6, 2026 at 9:30AM PT)See how small teams can use ChatGPT Work to handle everyday tasks, move ambitious projects forward, and turn ideas into finished deliverables.Register here](<https://webinar.openai.com/small-business/chatgpt-work/>)
+### [How Small Businesses Can Put ChatGPT Work Into PracticeSee how small teams can use ChatGPT Work to handle everyday tasks, move ambitious projects forward, and turn ideas into finished deliverables.Watch the recording](<https://webinar.openai.com/on-demand/abefa07c-8a2b-4c73-8398-bb5bc9024f7a>)
 
 ### [Launch Smarter on Shopify with ChatGPT and Codex (August 19, 2026 at 9:30AM PT)Join OpenAI and Shopify to learn how ChatGPT and Codex can turn scattered product information and launch plans into repeatable, Shopify-ready workflows—no development experience required.Register here](<https://webinar.openai.com/launch-smarter-shopify/?>)
 

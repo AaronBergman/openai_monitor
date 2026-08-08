@@ -26,16 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Overview
-
-  * Overview
-  * Capabilities
-  * Inferring contextual details
-  * Animal illustrations
-  * Summary of approach and prior work
-
-
-
 January 5, 2021
 
 [Milestone](</research/index/milestone/>)
@@ -51,6 +41,42 @@ Illustration: Justin Jay Wang
 Loading…
 
 Share
+
+Overview
+
+  * Overview
+  * Capabilities
+    * Controlling attributes
+    * Drawing multiple objects
+    * Visualizing perspective and three-dimensionality
+    * Visualizing internal and external structure
+  * Inferring contextual details
+    * Applications of preceding capabilities
+    * Combining unrelated concepts
+  * Animal illustrations
+    * Zero-shot visual reasoning
+    * Geographic knowledge
+    * Temporal knowledge
+  * Summary of approach and prior work
+
+
+
+  * Overview
+  * Capabilities
+    * Controlling attributes
+    * Drawing multiple objects
+    * Visualizing perspective and three-dimensionality
+    * Visualizing internal and external structure
+  * Inferring contextual details
+    * Applications of preceding capabilities
+    * Combining unrelated concepts
+  * Animal illustrations
+    * Zero-shot visual reasoning
+    * Geographic knowledge
+    * Temporal knowledge
+  * Summary of approach and prior work
+
+
 
 DALL·E is a 12-billion parameter version of [GPT‑3⁠(opens in a new window)](<https://arxiv.org/abs/2005.14165>) trained to generate images from text descriptions, using a dataset of text–image pairs. We’ve found that it has a diverse set of capabilities, including creating anthropomorphized versions of animals and objects, combining unrelated concepts in plausible ways, rendering text, and applying transformations to existing images.
 
@@ -316,9 +342,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -355,6 +381,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -388,6 +416,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

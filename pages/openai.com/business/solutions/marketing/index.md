@@ -123,7 +123,7 @@ Reach customers where discovery, consideration, and decisions happen together wi
 
 
 
-![A ChatGPT response interface showing a sponsored card in a soft green gradient.](https://images.ctfassets.net/kftzwdyauwt9/6ucQkCZsPjJswxYMXfvtV3/fa92a8033b290f38bcb6d3f0e2ac07af/chatgpt-ads-figma-ecosystem.png?w=3840&q=90&fm=webp)
+![A ChatGPT response interface showing a sponsored card in a soft green gradient.](https://images.ctfassets.net/kftzwdyauwt9/6ucQkCZsPjJswxYMXfvtV3/b36c973a388db81ab664167d469b41e5/chatgpt-ads-figma-ecosystem__1_.png?w=3840&q=90&fm=webp)
 
 ## Why marketing teams choose OpenAI
 

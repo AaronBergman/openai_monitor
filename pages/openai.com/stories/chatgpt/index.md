@@ -31,7 +31,6 @@ OpenAI
   * [All](</stories/>)
   * [ChatGPT](</stories/chatgpt/>)
   * [API](</stories/api/>)
-  * [Sora](</stories/sora/>)
 
 
 
@@ -77,17 +76,17 @@ Switch cards to hide Media
 
 [Understanding complex trends with deep researchChatGPTFeb 2, 2025](</index/deep-research/>)
 
-![Catherine Brownstein: OpenAI o1 & Genetics](https://images.ctfassets.net/kftzwdyauwt9/4W3BBKMuSvPTChFJElmtxI/ef544757c0e832ec57a9d2330c53399d/Media_4.png?w=3840&q=90&fm=webp)
+![Tyler Cowen: OpenAI o1 & Economics](https://images.ctfassets.net/kftzwdyauwt9/RjA6hgCo6gPVKY91jdzg6/55bca90ce0324efd1e11ff24a0d455a6/Economics_and_reasoning_with_o1.jpg?w=3840&q=90&fm=webp)
 
-[Decoding genetics with OpenAI o1ChatGPTSep 12, 2024](</index/o1-genetics/>)
+[Economics and reasoning with OpenAI o1ChatGPTSep 12, 2024](</index/o1-economics/>)
 
 ![Mario Krenn: OpenAI o1 & Quantum Physics](https://images.ctfassets.net/kftzwdyauwt9/5sXVoGJVlIpJGynfoaV8vx/8278683ee7b976c7ae1082bb74dbce61/quantum-physics-o1.png?w=3840&q=90&fm=webp)
 
 [Answering quantum physics questions with OpenAI o1ChatGPTSep 12, 2024](</index/o1-quantum-physics/>)
 
-![Tyler Cowen: OpenAI o1 & Economics](https://images.ctfassets.net/kftzwdyauwt9/RjA6hgCo6gPVKY91jdzg6/55bca90ce0324efd1e11ff24a0d455a6/Economics_and_reasoning_with_o1.jpg?w=3840&q=90&fm=webp)
+![Catherine Brownstein: OpenAI o1 & Genetics](https://images.ctfassets.net/kftzwdyauwt9/4W3BBKMuSvPTChFJElmtxI/ef544757c0e832ec57a9d2330c53399d/Media_4.png?w=3840&q=90&fm=webp)
 
-[Economics and reasoning with OpenAI o1ChatGPTSep 12, 2024](</index/o1-economics/>)
+[Decoding genetics with OpenAI o1ChatGPTSep 12, 2024](</index/o1-genetics/>)
 
 ![Scott Wu: OpenAI o1 & Coding](https://images.ctfassets.net/kftzwdyauwt9/5aOk1sJeN5F9bUUZZpbdDo/b85d9fd0edacaed23a3a7228535c7ede/Building_more_with_Scott_Wu.jpg?w=3840&q=90&fm=webp)
 
@@ -177,6 +176,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

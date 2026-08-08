@@ -28,11 +28,13 @@ def now_utc() -> str:
 
 
 def sanitize_filename(url: str) -> str:
-    return re.sub(r"[^A-Za-z0-9._-]", "_", url).strip("._") + ".xml"
+    path = urlsplit(url).path.strip("/")
+    return re.sub(r"[^A-Za-z0-9._-]", "_", path) + ".xml"
 
 
 def fetch_xml(url: str, client=None) -> str:
-    r = cffi_requests.get(url, impersonate="chrome", timeout=30, allow_redirects=True)
+    ca_bundle = os.environ.get("SSL_CERT_FILE") or os.environ.get("REQUESTS_CA_BUNDLE") or True
+    r = cffi_requests.get(url, impersonate="chrome110", timeout=30, allow_redirects=True, verify=ca_bundle)
     r.raise_for_status()
     return r.text
 

@@ -36,6 +36,12 @@ How the world is putting ChatGPT to work
 
 [Read more](</index/how-the-world-is-putting-chatgpt-to-work/>)
 
+![OpenAI Economic Research Exchange > Cover image](https://images.ctfassets.net/kftzwdyauwt9/3MdZoald7651CE2asd3Xda/fbee54b4c6a8d56917c043b9b5956672/Frame.png?w=3840&q=90&fm=webp)
+
+How the world is putting ChatGPT to work
+
+[Read more](</index/how-the-world-is-putting-chatgpt-to-work/>)
+
 ![OpenAI Signals 2026Q1 update > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/1lM6nAAY7lJ4PNAI41KVAT/b0fffcfb6b1a390f309d8bc5b8625b18/use_boardened__1_.png?w=3840&q=90&fm=webp)
 
 How the world is putting ChatGPT to work
@@ -61,6 +67,12 @@ How the world is putting ChatGPT to work
 [Read more](</index/how-the-world-is-putting-chatgpt-to-work/>)
 
 ![How people use ChatGPT around the world > Cover image](https://images.ctfassets.net/kftzwdyauwt9/5quRLt4fW8Js506D8eNKl3/3d9938860836620ec50b148f4e3f1a49/Art_Card__5_.png?w=3840&q=90&fm=webp)
+
+How the world is putting ChatGPT to work
+
+[Read more](</index/how-the-world-is-putting-chatgpt-to-work/>)
+
+![OpenAI Economic Research Exchange > Cover image](https://images.ctfassets.net/kftzwdyauwt9/3MdZoald7651CE2asd3Xda/fbee54b4c6a8d56917c043b9b5956672/Frame.png?w=3840&q=90&fm=webp)
 
 How the world is putting ChatGPT to work
 
@@ -114,6 +126,14 @@ Learn how AI is accelerating enterprise advantage through deeper integration, ag
 
 [How the world is putting ChatGPT to work](<https://openai.com/index/how-the-world-is-putting-chatgpt-to-work/>)
 
+![Signals Homepage > Layout > Group > Recent news > Cards > Exchange Cohort landing page > Media > Asset](https://images.ctfassets.net/kftzwdyauwt9/3CiHEuR2xgn3DkLHTEtx3n/ff43a35123921826c91480492e35087d/Frame.png?w=3840&q=90&fm=webp)
+
+[The OpenAI Economic Research Exchange](<https://openai.com/economic-research-exchange/>)
+
+![Signals Homepage > Layout > Group > Recent news > Cards > AI and the Next Development Leap livestream > Media > Asset](https://images.ctfassets.net/kftzwdyauwt9/7vtWCcgf3AGEYe1w93NGxU/7d5008fbae2c7507972dd4d134a1be9d/Frame.png?w=3840&q=90&fm=webp)
+
+[AI and the next development leap](<https://forum.openai.com/public/events/ai-and-the-next-development-leap-7llnij6pqv?agenda_day=6a6cf51027d9aaea09790ab3&agenda_track=6a6cf51127d9aaea09790aca&agenda_stage=6a6cf51027d9aaea09790ab9&agenda_filter_view=stage&agenda_view=list>)
+
 ![Signals Homepage > Layout > Group > Recent news > Cards > Inside OpenAI: How OpenAI teams use Codex to do more > Media > Asset](https://images.ctfassets.net/kftzwdyauwt9/6wZT5PD2pKnXO2X533kQbB/30245193410300dbb52d85ffc22567f8/Frame.png?w=3840&q=90&fm=webp)
 
 [Inside OpenAI: How OpenAI teams use Codex to do more](<https://forum.openai.com/public/videos/event-replay-inside-openai-how-openai-teams-use-codex-to-do-more-2026-07-14>)
@@ -125,14 +145,6 @@ Learn how AI is accelerating enterprise advantage through deeper integration, ag
 ![Mapping Europe’s AI Workforce Opportunity > Art Card](https://images.ctfassets.net/kftzwdyauwt9/MukVp4OT0P3dokVsonNLh/1f4e4fa8e4de0d941573f906340d6e9b/mapping-europes-ai-workforce-opportunity-art-card.png?w=3840&q=90&fm=webp)
 
 [Mapping Europe’s AI Workforce Opportunity](<https://openai.com/index/mapping-ai-jobs-transition-eu>)
-
-![Signals Homepage > Layout > Group > Recent news > Cards > How agents are transforming work > Media > Asset](https://images.ctfassets.net/kftzwdyauwt9/2MFPzkCGY6PPH4hmpY83TX/6fd0d2a67f303b49141abd175ca181b6/Art_Card__1_.png?w=3840&q=90&fm=webp)
-
-[How agents are transforming work](<https://openai.com/index/how-agents-are-transforming-work/>)
-
-![Signals Homepage > Layout > Group > Recent news > Cards > Introducing the OpenAI Economic Research Exchange > Media > Asset](https://images.ctfassets.net/kftzwdyauwt9/1DxA8pHgu1AqA4E9tYh9Cs/6de7e05d428fc91fccbf2a92b7e06077/art_card.png?w=3840&q=90&fm=webp)
-
-[Introducing the OpenAI Economic Research Exchange](<https://openai.com/index/economic-research-exchange/>)
 
 ### Reports
 
