@@ -1,28 +1,28 @@
 Skip to main content
 
-[](</>)[](</business/>)
+[](</>)
 
-  * Why OpenAI
+  * [Research](</research/index/>)
   * Products
-  * Solutions
-  * Resources
-  * [Customers](</business/customer-stories/>)
-  * [Pricing](</business/pricing/>)
+  * [Business](</business/>)
+  * [Developers](</api/>)
+  * [Company](</about/>)
+  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
 
 
 
-Try OpenAI[Contact sales](</contact-sales/>)
+Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
-  * Why OpenAI
+  * Research
   * Products
-  * Solutions
-  * Resources
-  * [Customers](</business/customer-stories/>)
-  * [Pricing](</business/pricing/>)
+  * Business
+  * Developers
+  * Company
+  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
 
 
 
-[Contact sales](</contact-sales/>)Try OpenAI
+[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)Login
 
 OpenAI
 
@@ -38,7 +38,7 @@ OpenAI
 
 Pathfindr is an AI adoption and capability partner, helping organisations turn emerging AI technologies into measurable business outcomes. As OpenAI's official services partner in Australia and New Zealand, we support enterprise, government and industry to understand, adopt and accelerate with AI. Our accelerator programs build the capability and confidence leaders and teams need to reimagine workflows, spot high-impact opportunities, and lead their industry with AI. Combining hands-on enablement with end-to-end AI build solutions via our parent company Affinda, we help organisations reduce implementation risk and embed scalable AI that delivers lasting impact.
 
-![Advanced Partner](/images/partner-tier-badges/OAI_PartnerNetwork_AdvancedPartner.svg?dpl=dpl_LPCh43uULiZYMdL1icmA9GiKDofL)
+![Advanced Partner](/images/partner-tier-badges/OAI_PartnerNetwork_AdvancedPartner.svg?dpl=dpl_773vLaHahz1MavsMTvuMWvGc7ETL)
 
 Countries served
     Australia and New Zealand

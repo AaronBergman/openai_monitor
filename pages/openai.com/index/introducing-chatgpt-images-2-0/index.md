@@ -36,8 +36,6 @@ A new era of image generation
 
 [Try in ChatGPT(opens in a new window)](<https://chatgpt.com/images/>)
 
-Share
-
 Image modeClassic mode
 
 ![Generated with ChatGPT Images 2.0, this poster-style image introduces “ChatGPT Images 2.0” with a bold editorial layout, blocks of explanatory text, and geometric shapes in red, black, blue, and yellow.](https://images.ctfassets.net/kftzwdyauwt9/3IdBQyOlVNdmSCdUjK0zYT/e05480b1b44cc06d6ff2b357c3f80855/introducingchatfinal.jpg?w=3840&q=90&fm=webp)

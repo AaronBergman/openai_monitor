@@ -1,5 +1,44 @@
 # openai_monitor
 
+
+## 2026-08-08 — Run `2026-08-08T09-16Z`
+
+**Fetch time:** 2026-08-08T09:16:53Z UTC | **Baseline:** 2026-08-07T09-16Z (consecutive day)
+**Stats:** 1,561 total URLs | +1 added | 141 updated | -0 removed | 0 anomalies | 35 sub-sitemaps
+
+**TL;DR:** The headline today is a safety disclosure, not a product launch: OpenAI published a same-day post saying internal evaluations of an **upcoming model codenamed "Astra"** show cybersecurity capability advances strong enough that the company "cannot rule out" it has crossed the **Critical** threshold for cyber capabilities under its Preparedness Framework — a first, since prior models (including GPT‑5.6‑Sol) only ever reached the lower "High" threshold. OpenAI says it's tightened internal security controls, paused some internal work on Astra pending stronger safeguards, added chain-of-thought monitoring for risky agentic actions, and will loop in government agencies and outside safety testers. Elsewhere it was a quiet catch-up day: the `/api/pricing/` page finally picked up Sunday's "GPT‑5.5 Instant" removal and "Messages and interactions" → "Everyday text chats" rename that hit the Business/Enterprise pricing pages first, and `/research/` (the research hub) quietly dropped its "o series" and "Text" showcase sections entirely, folding what's left into a leaner GPT/Visual/Audio structure. No anomalies.
+
+### Anomalies
+
+None of the defined categories triggered (no future-dated or backward-moving `<lastmod>`, no backdated new URLs, no reappeared URLs since 0 were removed, no sub-sitemap migrations). One thing worth flagging as a curiosity rather than a formal anomaly: **4 `/business/partners/*` pages swapped navigation templates in opposite directions in the same run.** `pathfindr` and `statworx` moved from an older business-specific nav ("Why OpenAI / Solutions / Resources / Try OpenAI") to the current sitewide nav ("Research / Business / Developers / Log in"), while `cognita-reply` and `dentsu-japan` moved the *other way*, from the current sitewide nav back to the older business-specific one — a reversal, on the same day, on the same page template. Reads like flaky template caching or an in-progress A/B rollout on Contentful/the partner-page builder rather than anything deliberate; watching for whether it stabilizes.
+
+### Notable updates
+
+- **["Responding to the next frontier of critical cyber capabilities"](pages/openai.com/index/responding-next-frontier-critical-cyber-capabilities/index.md)** (new page, Aug 7, `lastmod` Aug 8 07:59 UTC — about 77 minutes before this run's fetch). OpenAI discloses that its upcoming "Astra" model's internal evals over "the past few days" show strong enough agentic-coding/cybersecurity performance that it cannot rule out Critical-level cyber capability (per the [Preparedness Framework](<https://cdn.openai.com/pdf/18a02b5d-6b67-4cec-ab64-68cdfbddebcd/preparedness-framework-v2.pdf>): identifying/exploiting zero-days in hardened real-world systems, or devising end-to-end novel cyberattack strategies, without human help). Explicitly notes Astra "was not involved in exploiting Hugging Face" (referencing the incident covered in this repo on 2026-07-21). Steps taken: isolated testing environments, restricted network/tool access, stronger model-weight encryption, universal chain-of-thought monitoring for risky/misaligned agentic actions with an interrupt mechanism, pausing internal Astra work that doesn't yet meet the new security bar, and plans to work with government agencies and outside safety orgs on testing. Frames this as following the same playbook used in June 2025 when models approached the High biology threshold. This is a meaningfully bigger disclosure than the routine safety-page updates typically logged here — it's the first time this repo has seen OpenAI say it cannot rule out having crossed a **Critical** capability threshold.
+- **[`/api/pricing/`](pages/openai.com/api/pricing/index.md)** catches up to the Business/Enterprise pricing pages: the "GPT‑5.5 Instant: Unlimited" row is gone and "Messages and interactions" is now "Everyday text chats," matching the change `/business/pricing/` and `/business/chatgpt-pricing/` made on 2026-08-07. Also added a new footnote clarifying that Enterprise plans can use either credit-based or token-based pricing, linking to two separate help-center rate-card articles.
+- **[`/research/`](pages/openai.com/research/index.md)** (research hub) reorganized: the **"o series" section was removed entirely** (the o3/o4-mini/o3-mini/o1 showcase cards are gone from this index — those pages still exist, just no longer featured here), and a **"Text" section** (instruction-following, book-summarization, GPT-3 milestone cards, plus a pull-quote from researcher Josh Achiam) was also removed. The GPT and Visual/Audio blurbs were rewritten in more generic, forward-looking language ("frontier models, reasoning, multimodal systems" instead of naming specific techniques like Deep Learning or CLIP), and new cards for GPT‑5.6 and GPT‑Live were added. Net effect: a shorter, more current-model-focused research showcase that quietly retires the o-series/legacy-text framing.
+- **[`/index/improving-gpt-5-6-sol-in-chatgpt/`](pages/openai.com/index/improving-gpt-5-6-sol-in-chatgpt/index.md)** — the GPT‑5.6 system-card link was moved from a raw PDF on `cdn.openai.com` to a page on `deploymentsafety.openai.com/gpt-5-6-august-update`, consolidating system-card publishing onto OpenAI's dedicated deployment-safety site rather than ad hoc CDN PDFs.
+- **[`/business/why-openai/small-business/`](pages/openai.com/business/why-openai/small-business/index.md)** — the "ChatGPT Work for small businesses" live-webinar banner (Aug 6, now past) was removed, and the matching WebinarsEvents card switched from "Register here" to "Watch the recording" with an on-demand link — the same post-event banner lifecycle logged in prior runs.
+
+### Routine updates
+
+- **~121 `/business/partners/*` pages** refetched for the recurring partner-tier-badge cache-busting parameter (`?dpl=dpl_...`), no body-text change beyond that — the standard daily churn in this section.
+- **3 partner pages** (`ernst-and-young`, `thinking-machines-data-science`, `unit8`) additionally dropped a "Joint partners" field (naming Oracle or AWS) from their profile — minor field removal, cause unclear.
+- **`/business/customer-stories/`, `/signals/`, and roughly 15 older `/index/*` pages** (e.g. `boston-childrens-hospital`, `philips`, `avatarin`, `waymark`, `cisco`, `healthify`) picked up the new Astra post (and, on `/signals/`, the already-tracked "How the world is putting ChatGPT to work" dataset) in their related-articles/card-rotation widgets — sidebar rotation only, no body-text changes.
+- Several pages (`beyond-rate-limits`, `dall-e`, `adventhealth`, `healthify`, `instruction-following`, `paradigm`, `waymark`) showed table-of-contents rendering/heading-level noise (duplicate TOC blocks, `####`→`###`) with no actual content change — the same conversion/template-drift pattern noted in prior runs.
+- `color-health` had a single cosmetic straight-quote → curly-quote (`'`→`’`) normalization in two sentences; no wording change.
+
+### New pages
+
+- **[`/index/responding-next-frontier-critical-cyber-capabilities/`](pages/openai.com/index/responding-next-frontier-critical-cyber-capabilities/index.md)** (Aug 7) — see Notable updates above.
+
+### Removals
+
+None this run.
+
+Full analysis: [runs/2026-08-08T09-16Z/analysis.md](runs/2026-08-08T09-16Z/analysis.md)
+
+---
 ## 2026-08-07 — Run `2026-08-07T09-16Z`
 
 **Fetch time:** 2026-08-07T09:16:39Z

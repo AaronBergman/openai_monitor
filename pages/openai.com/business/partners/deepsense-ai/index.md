@@ -42,7 +42,7 @@ With over 10 years of applied AI experience and 200+ commercial AI projects deli
 
 Our teams support the full lifecycle, from strategy and solution architecture to development, deployment, evaluation, optimization, and AI operations. Through our partnership with OpenAI, we help organizations implement AI faster, safer, and at greater scale, turning advanced AI capabilities into reliable operational infrastructure.
 
-![Advanced Partner](/images/partner-tier-badges/OAI_PartnerNetwork_AdvancedPartner.svg?dpl=dpl_LPCh43uULiZYMdL1icmA9GiKDofL)
+![Advanced Partner](/images/partner-tier-badges/OAI_PartnerNetwork_AdvancedPartner.svg?dpl=dpl_773vLaHahz1MavsMTvuMWvGc7ETL)
 
 Countries served
     United States, United Kingdom, Switzerland, Germany, France, Belgium, Sweden, and Norway

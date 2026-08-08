@@ -31,7 +31,6 @@ OpenAI
   * [All](</stories/>)
   * [ChatGPT](</stories/chatgpt/>)
   * [API](</stories/api/>)
-  * [Sora](</stories/sora/>)
 
 
 
@@ -153,6 +152,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)
