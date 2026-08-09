@@ -1,6 +1,36 @@
 # openai_monitor
 
 
+
+## 2026-08-09 — Run `2026-08-09T09-16Z`
+
+**Fetch time:** 2026-08-09T09:16:19Z UTC | **Baseline:** 2026-08-08T09-16Z (consecutive day)
+
+**TL;DR:** A quiet day. 66 URLs picked up a `<lastmod>` bump, but only 4 pages actually changed content, and none of it is news: three `/business/partners/*` pages flipped their nav template (a continuing flip-flop bug flagged in previous runs), and one customer-story page rotated its "Keep reading" widget. No new pages, no removals, no anomalies. Zero substantive content or product news from OpenAI today.
+
+### Anomalies
+
+None. Checked and clear:
+- No future-dated `<lastmod>` values — newest across all 1,561 current URLs is `/form/enterprise-trusted-access-for-cyber/` at 2026-08-09T08:40:16Z, 36 minutes before this run's 09:16:19Z fetch.
+- No backwards-moving `<lastmod>` among the 66 updated URLs.
+- No new URLs this run (0 added), so no backdating check applies.
+- No removed-then-reappeared URLs (0 removed).
+- No genuine sub-sitemap migrations: verified full set-membership (not just single-file assignment) for all 1,561 URLs common to both snapshots — many URLs are cross-listed in multiple sub-sitemaps simultaneously (e.g. a security post also listed under `company`), which produces false-positive "migrations" under a naive single-owner diff; a proper set-comparison found zero actual membership changes.
+
+**Continuing pattern, not a new anomaly:** the `/business/partners/*` nav-template flip-flop first flagged 2026-08-08 is still active. `pathfindr` and `statworx` — which flipped from the old business-specific nav to the current sitewide nav yesterday — flipped back to the old nav today. `capco` newly joined the flip, going sitewide → old nav. This is now a 3-page, multi-day back-and-forth (`cognita-reply` and `dentsu-japan` also flipped sitewide→old on 08-08), consistent with flaky template caching or an in-progress A/B test on the partner-page builder rather than deliberate content changes.
+
+### Updated pages with real content changes
+
+- **`/business/partners/capco/`, `/business/partners/pathfindr/`, `/business/partners/statworx/`** — nav template flip (see Anomalies above); no other content change.
+- [`/index/circles/`](pages/openai.com/index/circles/index.md) — "Keep reading" widget rotated in the new [Astra critical-cyber-capabilities post](pages/openai.com/index/responding-next-frontier-critical-cyber-capabilities/index.md) (logged 2026-08-08) and the new [HSP GRUPPE customer story](pages/openai.com/index/hsp-gruppe/index.md), dropping the APA-partnership and "how the world uses ChatGPT" cards. Pure related-content propagation, not new information.
+
+### Routine, zero-content-change updates
+
+The other 62 updated URLs — the bulk being `/business/partners/*` partner-tier-badge cache-buster refreshes, plus `products/release-notes/`, `/education/`, `/signals/*`, `/index/improving-gpt-5-6-sol-in-chatgpt/`, `/index/introducing-gpt-5-4-mini-and-nano/`, and others — got a `<lastmod>` bump with **zero detectable markdown-visible change**. Notably `products/release-notes/` refreshed with no new entries.
+
+**Stats:** 1,561 total URLs | +0 added | 66 updated | -0 removed | 0 anomalies | 35 sub-sitemaps
+
+---
 ## 2026-08-08 — Run `2026-08-08T09-16Z`
 
 **Fetch time:** 2026-08-08T09:16:53Z UTC | **Baseline:** 2026-08-07T09-16Z (consecutive day)
