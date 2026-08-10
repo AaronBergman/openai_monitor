@@ -38,7 +38,7 @@ OpenAI
 
 Corca is a Seoul-based company that builds and operates its own AI products and leads enterprise AI transformation. Building AI ourselves shapes our conviction: adoption succeeds when AI is embedded in real work and produces repeatable, measurable outcomes, and when organizations can trust it with their information. Security is designed in from the start, governing what AI can see and share so sensitive data stays where it belongs. Our engagements span ChatGPT Enterprise adoption, AI capability training, coaching for internal AI champions, AI transformation environments, custom AI solutions, and AI-native team building, across financial services, proptech, education, and other industries.
 
-![Select Partner](/images/partner-tier-badges/OAI_PartnerNetwork_SelectPartner.svg?dpl=dpl_773vLaHahz1MavsMTvuMWvGc7ETL)
+![Select Partner](/images/partner-tier-badges/OAI_PartnerNetwork_SelectPartner.svg?dpl=dpl_HDj1LjewH8WsAD8JGktBrffg7Fo1)
 
 Countries served
     South Korea

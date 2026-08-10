@@ -1,6 +1,29 @@
 # openai_monitor
 
+## 2026-08-10 — Run `2026-08-10T09-19Z`
 
+**Fetch time:** 2026-08-10T09:19:57Z UTC | **Baseline:** 2026-08-09T09-16Z (consecutive day)
+
+**TL;DR:** Another quiet day with zero real news. 83 URLs picked up a `<lastmod>` bump, but only 5 pages had any detectable content change, and all of it is cosmetic: 4 partner pages continued the ongoing nav-template flip-flop bug, and one article's "related reading" widget rotated. No new pages, no removals, no anomalies.
+
+### Anomalies
+
+None. All defined checks came back clear: no future-dated `<lastmod>`, no backwards-moving `<lastmod>`, no new URLs (so no backdating check applies), no removed-then-reappeared URLs, no sub-sitemap migrations.
+
+**Continuing pattern, not a new anomaly:** the `/business/partners/*` navigation-template flip-flop first flagged 2026-08-08 is still active, now affecting a different set of pages. [`cognizant`](pages/openai.com/business/partners/cognizant/index.md), [`infosys`](pages/openai.com/business/partners/infosys/index.md), [`samsung-sds`](pages/openai.com/business/partners/samsung-sds/index.md), and [`tredence`](pages/openai.com/business/partners/tredence/index.md) all flipped from the older business-specific nav ("Why OpenAI / Solutions / Resources") to the current sitewide nav ("Research / Business / Developers") — the same template swap, just a new batch of pages catching it. `capco`, `pathfindr`, and `statworx`, which flipped yesterday, were stable today. Still reads like flaky template caching or an in-progress A/B test rather than deliberate content changes.
+
+### Updated pages with real content changes
+
+- **[`/business/partners/cognizant/`](pages/openai.com/business/partners/cognizant/index.md), [`/infosys/`](pages/openai.com/business/partners/infosys/index.md), [`/samsung-sds/`](pages/openai.com/business/partners/samsung-sds/index.md), [`/tredence/`](pages/openai.com/business/partners/tredence/index.md)** — nav template flip (see Anomalies above); no other content change.
+- [`/index/gpt-5-6-frontier-intelligence-efficiency/`](pages/openai.com/index/gpt-5-6-frontier-intelligence-efficiency/index.md) — "related articles" widget rotated in the new [APA partnership post](pages/openai.com/index/openai-and-apa-partner-to-advance-responsible-ai/index.md) and [ChatGPT-usage-around-the-world post](pages/openai.com/index/how-the-world-is-putting-chatgpt-to-work/index.md), dropping the GPT Live and "Building abundant intelligence" cards. Pure related-content propagation, not new information.
+
+### Routine, zero-content-change updates
+
+The other 78 updated URLs — the bulk being `/business/partners/*` partner-tier-badge cache-buster refreshes (a resized-image hash in the query string, nothing else), plus a batch of `/index/*` articles (`chatgpt-for-academic-researchers`, `hsp-gruppe`, `ten-advances-in-mathematics`, `third-party-cyber-evaluations-involving-openai-models`, `responding-next-frontier-critical-cyber-capabilities`, `improving-gpt-5-6-sol-in-chatgpt`, `introducing-the-openai-economic-research-exchange`, `advancing-responsible-ai-across-europe`, `building-abundant-intelligence`, `continuous-voice-interaction-with-gpt-live`, `openai-and-apa-partner-to-advance-responsible-ai`, `how-the-world-is-putting-chatgpt-to-work`), `products/release-notes/`, `education/`, `leads/small-business/`, `solutions/industries/healthcare/`, `science/`, `signals/data/`, and others — got a `<lastmod>` bump with **zero detectable markdown-visible change**.
+
+**Stats:** 1,561 total URLs | +0 added | 83 updated | -0 removed | 0 anomalies | 35 sub-sitemaps
+
+---
 
 ## 2026-08-09 — Run `2026-08-09T09-16Z`
 

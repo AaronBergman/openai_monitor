@@ -38,7 +38,7 @@ OpenAI
 
 Altimetrik is an AI engineering company helping enterprises build, govern, and scale AI with ALTi AIOS™ and a strong partner ecosystem. With more than 10,000 practitioners worldwide and deep engineering expertise, Altimetrik enables organizations to accelerate AI adoption and deliver measurable business outcomes across industries. Recognized in the 2025 Constellation Research ShortList™ for Global AI Services and is a Major Contender in the Everest Group PEAK Matrix® 2026 for Software Product Engineering Services, reflecting its leadership in enterprise AI engineering and digital transformation.
 
-![Advanced Partner](/images/partner-tier-badges/OAI_PartnerNetwork_AdvancedPartner.svg?dpl=dpl_773vLaHahz1MavsMTvuMWvGc7ETL)
+![Advanced Partner](/images/partner-tier-badges/OAI_PartnerNetwork_AdvancedPartner.svg?dpl=dpl_HDj1LjewH8WsAD8JGktBrffg7Fo1)
 
 Countries served
     Global
