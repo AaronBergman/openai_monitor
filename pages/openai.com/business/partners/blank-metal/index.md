@@ -38,7 +38,7 @@ OpenAI
 
 An AI-Native AI and engineering company built by a founding team with 15 years working together. Our core crew has shipped market-defining digital and AI products and businesses since 2009 ‚ taking multiple ventures from idea to successful exit. Today we bring that same chemistry, speed, and enterprise know-how to help our clients turn AI ideas into production software, quickly and safely.
 
-![Select Partner](/images/partner-tier-badges/OAI_PartnerNetwork_SelectPartner.svg?dpl=dpl_773vLaHahz1MavsMTvuMWvGc7ETL)
+![Select Partner](/images/partner-tier-badges/OAI_PartnerNetwork_SelectPartner.svg?dpl=dpl_HDj1LjewH8WsAD8JGktBrffg7Fo1)
 
 Countries served
     Global
