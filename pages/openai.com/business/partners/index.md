@@ -600,7 +600,7 @@ Collaborate with OpenAI and access evolving resources that help you deliver cust
 
 ## Trusted by leading organizations
 
-1 of 8
+1 of 9
 
 > “Our collaboration with Accenture and OpenAI is helping us explore the next generation of AI-enabled customer experiences. Through our IntentCX work, we’re evaluating how real-time intent and sentiment intelligence can enable faster, more personalized, and more seamless interactions for customers.”
 
@@ -630,10 +630,14 @@ Rezaur Rahman, CIO / CISO / CAIO at the Advisory Council on Historic Preservatio
 
 Jonathan Wang, CTO, VanEck
 
-> “AI is radically transforming how people search for and book hotel stays, and we are committed to being at the forefront of this shift.With Accenture, we are reimagining hotel discovery for the next generation of travelers—meeting guests in the planning moment with a branded experience that makes it easier to find, compare, and book Radisson Hotels properties.”
+> “AI is radically transforming how people search for and book hotel stays, and we are committed to being at the forefront of this shift. With Accenture, we are reimagining hotel discovery for the next generation of travelers—meeting guests in the planning moment with a branded experience that makes it easier to find, compare, and book Radisson Hotels properties.”
 
 Gianni Di Fede, Chief Commercial Officer, Radisson Hotel Group
 
+> “Scaling AI across an enterprise is about much more than deploying technology. It requires helping people discover where AI creates value in their daily work and giving them the confidence to apply it responsibly. Fractal played an important role in supporting that adoption journey alongside Philips and OpenAI, helping us turn early enthusiasm into practical experience across the organization.”
+
+Patrick Mans, Head of Data & AI Engineering, Philips
+
   * Accenture x T-Mobile
 
   * BCG x Agilent
@@ -650,6 +654,8 @@ Gianni Di Fede, Chief Commercial Officer, Radisson Hotel Group
 
   * Accenture x Radisson
 
+  * Fractal x Philips
+
 
 
 
@@ -661,6 +667,7 @@ Gianni Di Fede, Chief Commercial Officer, Radisson Hotel Group
   * Snorkel x ACHP
   * Altimetrik x VanEck
   * Accenture x Radisson
+  * Fractal x Philips
 
 
 

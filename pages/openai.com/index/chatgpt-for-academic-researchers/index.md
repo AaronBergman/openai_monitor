@@ -34,7 +34,7 @@ July 29, 2026
 
 We’re putting our frontier models and tools in the hands of 100,000 scientists, mathematicians, and engineers—at no cost.
 
-[Apply today(opens in a new window)](<https://chatgpt.com/sophia/verification?openaicom-did=5abda64e-9260-4b52-b55f-c56db0b39eb9&openaicom_referred=true>)
+[Join the waitlist(opens in a new window)](<https://chatgpt.com/sophia/verification?openaicom-did=5abda64e-9260-4b52-b55f-c56db0b39eb9&openaicom_referred=true>)
 
 Loading…
 
@@ -55,6 +55,10 @@ AI is accelerating research
   * How to apply
 
 
+
+** _Update on August 10, 2026:_**_New applicants will now join a waitlist while we review the more than 13,000 first-wave applications—representing up to 65,000 researcher seats—and select the initial 10,000-seat cohort through a lottery among eligible applicants. Those not selected in this cohort will remain eligible for future selection rounds when applications reopen later this fall. This will allow us to focus on supporting the first group of researchers as we expand the program._
+
+* * *
 
 We believe the benefits of frontier AI should not be concentrated in a few companies and well-resourced labs. Scientific progress depends on researchers asking the right questions, testing new ideas, and building on what others have discovered. Our role is to put powerful tools in their hands—and work alongside them to design models that accelerate their research while keeping them in control.
 

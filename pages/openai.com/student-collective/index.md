@@ -28,9 +28,9 @@ OpenAI
 
 # OpenAI Student Collective
 
-Apply to become an OpenAI Campus Lead. Help students gain confidence using ChatGPT and Codex while building projects together.
+Become an OpenAI Campus Lead. Help students gain confidence using ChatGPT and Codex while building projects together.
 
-Apply now
+Apply or register your interest
 
 ![Purple background with pink abstract linework on top](https://images.ctfassets.net/kftzwdyauwt9/1CRbZz2Xn86ga2WWnyr6FC/98bcca09914f53202336301617f51344/OAI_Student_Collective_Web_Banner_Desktop.png?w=3840&q=90&fm=webp)
 
@@ -41,8 +41,6 @@ Students have been among the first to find new ways AI can support learning, cre
 The OpenAI Student Collective gives undergraduate Campus Leads the tools, training, funding, and support to help that energy grow on campus.
 
 We’re looking for students excited to bring peers from every field together, help them gain confidence with OpenAI tools, and showcase what they create with a global community.
-
-**Applications are open through August 10, 2026 at 11:59pm PT. Learn more and****apply below** ⁠**.**
 
 ### How the program works
 
@@ -103,9 +101,11 @@ Arlina Yang, UC Davis
 
 ### How to apply
 
-Applications are now open through August 10, 2026 at 11:59pm PT.
+Applications are open through August 31, 2026 for students in Japan, Korea, the United Kingdom, Germany, and France. Applications for the Fall 2026 cohort have closed in the United States, Canada, and India.
 
-Students from every discipline are encouraged to apply. We’re looking for undergraduate students who are curious, community-minded, and excited to introduce others to AI.
+If applications are closed in your country—or if the program isn't yet available where you study—you can still submit an application to be considered for future cohorts as the program expands.
+
+Students from every discipline are encouraged to apply. We're looking for undergraduate students who are curious, community-minded, and excited to introduce others to AI.
 
 #### Qualifications
 
@@ -213,6 +213,10 @@ Make a selectionLinkedInInstagramTikTokOpenAI website or emailFriend or classmat
 Anything else you’d like to share with the OpenAI team?
 
 150 characters max
+
+Stay connected
+
+Sign me up to receive the OpenAI Student newsletter.
 
 Submit
 
@@ -333,7 +337,7 @@ Yes. You don’t need experience with Codex—or a portfolio of AI projects—to
 
 ### What happens after I apply?
 
-Applications close on August 10, 2026. After reviewing applications, we’ll invite selected applicants to interview in August so we can learn more about their motivation, initiative, and community mindset. Accepted Campus Leads will complete onboarding before launching campus programming in the fall.
+After reviewing applications, we'll invite selected applicants to interview in August so we can learn more about their motivation, initiative, and community mindset. Accepted Campus Leads will complete onboarding before launching campus programming in the fall.
 
 ### Who can I invite to participate in the community on my campus?
 
@@ -363,7 +367,7 @@ We know that campus programming is most successful when two people can lean on e
 
 ### Can I participate in another ambassador program while being a Campus Lead?
 
-Campus Leads may not simultaneously hold a formal ambassador, representative, or equivalent role with another company or competing program. You’re still welcome to participate in campus clubs, student organizations, research groups, internships, and other leadership roles, as long as they don’t create a conflict or prevent you from meeting the program commitment.
+Campus Leads cannot participate in another ambassador program while serving in this role. You’re still welcome to participate in campus clubs, student organizations, research groups, internships, and other leadership roles, as long as they don’t create a conflict or prevent you from meeting the program commitment.
 
 ### Can postgraduate students apply?
 

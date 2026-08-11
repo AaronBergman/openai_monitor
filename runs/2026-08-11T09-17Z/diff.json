@@ -1,0 +1,41 @@
+{
+  "run_id": "2026-08-11T09-17Z",
+  "fetch_time": "2026-08-11T09:18:17Z",
+  "baseline": "2026-08-10T09-19Z",
+  "added": [
+    "https://openai.com/business/solutions/cybersecurity/",
+    "https://openai.com/daybreak/partners-new/",
+    "https://openai.com/form/business/premium-offer/",
+    "https://openai.com/form/daybreak-cyber-partner-program/",
+    "https://openai.com/index/building-an-ai-native-finance-function/",
+    "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows/",
+    "https://openai.com/index/model-ml/",
+    "https://openai.com/index/premium-seats-chatgpt-business/",
+    "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands/",
+    "https://openai.com/index/responsible-ai-infrastructure-texas/",
+    "https://openai.com/index/virgin-atlantic/chatgpt-work/",
+    "https://openai.com/index/zapier/"
+  ],
+  "removed": [],
+  "updated_count": 177,
+  "updated_with_content_change": 99,
+  "updated_lastmod_only": 78,
+  "moved": [],
+  "anomalies": [],
+  "notable_patterns": [
+    {
+      "kind": "nav_template_flip_flop_continuing",
+      "details": "Continuing pattern first flagged 2026-08-08. 7 /business/partners/* pages flipped nav templates: capco, cognizant, infosys, samsung-sds, tredence moved old-business-nav -> sitewide-nav; fellow-intelligence, unit8 moved sitewide-nav -> old-business-nav. New this run: the same bug also hit 10 /business/plugins/* pages (bigquery, canva, conductor, klaviyo, lseg, microsoft-outlook-email, microsoft-teams, pitchbook, public-equity-investing, semrush), all flipping sitewide-nav -> old-business-nav -- first time this bug has been observed outside /business/partners/."
+    },
+    {
+      "kind": "html2text_render_artifact",
+      "details": "pages/openai.com/daybreak/index.md and pages/openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows/index.md contain a garbled glyph string in place of what is presumably a hero graphic/icon-font element on the redesigned Daybreak page template. Known curl-cffi/html2text conversion quirk, not a real site change."
+    }
+  ],
+  "fetch_failures": [],
+  "fetch_retries": [
+    {"url": "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work/", "error": "curl timeout after 30s on first attempt, succeeded on retry with 45s timeout"}
+  ],
+  "total_urls": 1573,
+  "num_sub_sitemaps": 35
+}

@@ -41,6 +41,67 @@ Filter
 
 Sort
 
+API
+
+Aug 5, 2026
+
+GA
+
+## Fast mode supports long-context requests for GPT-5.6
+
+Fast mode now supports long-context requests for GPT‑5.6 Sol, GPT‑5.6 Terra, and GPT‑5.6 Luna. As of today, long-context prompts exceeding 272K tokens can run in Fast mode, delivering speeds up to 2.5× faster than the Standard tier.
+
+[View source(opens in a new window)](<https://developers.openai.com/api/docs/guides/fast-mode>)[Platform docs(opens in a new window)](<https://developers.openai.com/api/docs/pricing?latest-pricing=fast>)[Platform docs(opens in a new window)](<https://developers.openai.com/api/docs/changelog>)
+
+API
+
+Aug 4, 2026
+
+GA
+
+## API key filtering for Usage and Costs reporting
+
+Customers can now filter and group data by API key in the Usage and Costs dashboards. The Usage API and Costs API also support the API key dimension for programmatic reporting and analysis.
+
+[View source(opens in a new window)](<https://developers.openai.com/api/reference/resources/admin/subresources/organization/subresources/usage>)[Platform docs(opens in a new window)](<https://developers.openai.com/api/reference/resources/admin/subresources/organization/subresources/usage/methods/costs>)[Admin console(opens in a new window)](<https://platform.openai.com/settings/organization/usage>)
+
+Codex
+
+Aug 4, 2026
+
+GA
+
+## Education plugins for teaching and learning
+
+ChatGPT Edu workspaces now have access to three guided plugins in ChatGPT Work and Codex: College Educator, K–12 Educator, and College Student. ChatGPT for Teachers workspaces managed through a district domain claim have access to K–12 Educator. These plugins can help educators create lessons, assessments, and communications grounded in course materials, and help college students build study plans and practice course concepts.
+
+  * College Educator: Helps faculty design and update courses and syllabi, create interactive learning materials and multimedia assessments, adapt materials for diverse learners, and package content for their LMS.
+
+  * K–12 Educator: Helps teachers create lesson materials, assignments, rubrics, and instructional resources, with Learning Commons context for aligning materials to state standards and learning progressions.
+
+  * College Student: Helps students use course materials and a Study Goal to get source-grounded explanations, guided practice, study plans, quizzes, flashcards, and visual explanations.
+
+
+
+
+The plugins are available in the Plugin Directory but are not installed by default. Note that these plugins are not available to Enterprise accounts. Workspace admins can manage plugin availability and permissions.
+
+[View source(opens in a new window)](<https://help.openai.com/en/articles/10128477-chatgpt-enterprise-edu-release-notes#education-plugins-for-teaching-and-learning>)[Help center(opens in a new window)](<https://help.openai.com/en/articles/20001256>)
+
+ChatGPT
+
+Aug 4, 2026
+
+GA
+
+## Migrate usage limits from weekly to monthly
+
+Workspace owners can now migrate weekly limits configured in Permissions & roles to monthly limits conveniently. Open Workspace settings → Permissions & roles, select any role, scroll to Weekly limits, choose Migrate, and confirm. Starting the migration from any role moves all remaining weekly role-based limits in the workspace and may take several minutes, depending on workspace size.
+
+On August 15, remaining ChatGPT Enterprise workspaces that still use weekly role-based spend limits are scheduled to move automatically to monthly usage limits.
+
+[View source(opens in a new window)](<https://help.openai.com/en/articles/10128477-chatgpt-enterprise-edu-release-notes#migrate-usage-limits-from-weekly-to-monthly>)[Help center(opens in a new window)](<https://help.openai.com/en/articles/20001001>)
+
 ChatGPT
 
 Jul 31, 2026
@@ -54,103 +115,6 @@ On August 30, 2026, we’re retiring the official DALL·E GPT in ChatGPT. We enc
 To continue creating or editing images, use ChatGPT Images. User-created GPTs with image generation enabled are not affected.
 
 [View source(opens in a new window)](<https://help.openai.com/en/articles/6825453-chatgpt-release-notes#retiring-the-dalle-gpt>)[Help center(opens in a new window)](<https://help.openai.com/en/articles/11084440-images-in-chatgpt>)
-
-Codex
-
-Jul 31, 2026
-
-Sunset
-
-## GPT-5.4 and GPT-5.4 mini retire from Codex on August 31
-
-On August 31, 2026, GPT‑5.4 and GPT‑5.4 mini will no longer be available in Codex for users signed in with ChatGPT. GPT‑5.4 and GPT‑5.4 mini will remain available on the OpenAI API and Codex sessions authenticated with an API key.
-
-Switch to their recommended replacements:
-
-  * Replace `gpt-5.4` with `gpt-5.6-terra` (GPT‑5.6 Terra).
-
-  * Replace `gpt-5.4-mini` with `gpt-5.6-luna` (GPT‑5.6 Luna).
-
-
-
-
-Before the cutoff, update workspace defaults, saved model settings, managed configurations, custom agents, and scheduled tasks that use either model.
-
-[View source(opens in a new window)](<https://learn.chatgpt.com/docs/changelog#codex-2026-07-31>)[Platform docs(opens in a new window)](<https://learn.chatgpt.com/docs/models>)[Platform docs(opens in a new window)](<https://learn.chatgpt.com/docs/enterprise/workspace-model-availability>)
-
-API
-
-Jul 30, 2026
-
-GA
-
-## GPT-5.6 price reductions and Fast mode for the API
-
-Starting July 30, GPT‑5.6 Luna costs 80% less, while GPT‑5.6 Terra costs 20% less. We’re also introducing Fast mode in the API, which replaces our Priority Processing offering. For GPT‑5.6 Sol, Fast mode now delivers up to 2.5× faster speeds than standard processing at twice the price. This change is backward compatible: requests tagged priority will automatically use Fast mode.
-
-[View source(opens in a new window)](<https://developers.openai.com/api/docs/pricing>)[Platform docs(opens in a new window)](<https://developers.openai.com/api/docs/guides/fast-mode>)[Platform docs(opens in a new window)](<https://developers.openai.com/api/docs/changelog>)
-
-ChatGPT
-
-Jul 30, 2026
-
-GA
-
-## Browser upgrades, multi-repository review, and image editing
-
-The latest ChatGPT desktop app update makes browsing, reviewing code, and editing generated images faster and easier.
-
-Browse and find context faster
-
-  * Type in the built-in browser’s address bar to revisit pages from your browsing history or search Google when there’s no match.
-
-  * Manage your browsing history in Settings, and let ChatGPT search that history when a task needs to find a page you visited before.
-
-  * Use the Chrome extension to mention open tabs or bring highlighted page text into your side chat.
-
-  * Ask questions about any YouTube video in the Chrome extension and get answers in seconds.
-
-  * Right-click a webpage and select Ask ChatGPT.
-
-
-
-
-Review changes across repositories
-
-See all repositories in a multi-folder project and the lines changed in each one. Select Review to inspect diffs across those repositories without switching between separate review views.
-
-Refine generated images
-
-Open generated images in an expanded viewer, and switch between Focused view and Canvas view. Add comments across images, choose the ones you want, and send targeted edits without leaving your conversation.
-
-Other improvements and bug fixes
-
-  * Added a new “Activity view” in the sidebar to view which chats you engaged with recently and require attention. Click the bell or use `Cmd`/`Ctrl`+`Opt`+`U` to change to the new view.
-
-  * Updated browser settings to show only supported browsers.
-
-  * Improved Windows installation reliability when package file paths are long.
-
-  * Other performance and bug fixes.
-
-
-
-
-[View source(opens in a new window)](<https://learn.chatgpt.com/docs/changelog#codex-2026-07-30>)[Platform docs(opens in a new window)](<https://learn.chatgpt.com/docs/browser>)[Platform docs(opens in a new window)](<https://learn.chatgpt.com/docs/projects>)
-
-API
-
-Jul 29, 2026
-
-GA
-
-## Official OpenAI Terraform provider
-
-Released the official OpenAI Terraform provider for managing OpenAI API Platform resources as infrastructure as code.
-
-Provision and manage projects, users, groups, roles, access assignments, service accounts, certificates, invitations, and project-level rate limits. Use standard Terraform workflows to review and apply changes, import existing resources, and detect and reconcile configuration drift.
-
-[View source(opens in a new window)](<https://github.com/openai/terraform-provider-openai>)[Terraform Registry(opens in a new window)](<https://registry.terraform.io/providers/openai/openai/latest/docs>)[Platform docs(opens in a new window)](<https://developers.openai.com/api/docs/changelog>)
 
 Load more
 
