@@ -141,17 +141,17 @@ OpenAI
 
 [View all](</news/>)
 
+![What building an AI-native finance function taught me > Card image](https://images.ctfassets.net/kftzwdyauwt9/5XpkKoVszSTwJPjcwrvcNG/1e02d9b53b07d25b4cf517da6bd454eb/Frame__14_.png?w=3840&q=90&fm=webp)
+
+[What building an AI-native finance function taught meCompanyAug 10, 2026](</index/building-an-ai-native-finance-function/>)
+
+![Daybreak partners 1x1](https://images.ctfassets.net/kftzwdyauwt9/3AQ3qKm4Rmbjm2C1cLKvkJ/d049df2fdc96d1c5dfc695f00c257ce2/Art_Card.png?w=3840&q=90&fm=webp)
+
+[Putting frontier cyber models in more trusted handsSecurityAug 10, 2026](</index/putting-frontier-cyber-models-in-more-trusted-hands/>)
+
 ![APA partnership > card image](https://images.ctfassets.net/kftzwdyauwt9/7Iu2mNExtUq2EqstK69WkH/7fb0f37c3c69d9481f8ea803af7ae613/openai-and-apa-advance-responsible-ai-for-youth-1_1.png?w=3840&q=90&fm=webp)
 
 [OpenAI and APA advance responsible AI for youthCompanyAug 6, 2026](</index/openai-and-apa-partner-to-advance-responsible-ai/>)
-
-![Apple is getting this wrong — cover image](https://images.ctfassets.net/kftzwdyauwt9/69tiLv6VbCayhCDzwJtUPy/1cb0058be13bd464469ecda47c8d1bce/Frame__12_.png?w=3840&q=90&fm=webp)
-
-[Apple is getting this wrongCompanyAug 3, 2026](</index/apple-is-getting-this-wrong/>)
-
-![Continuous voice interaction with GPT Live - art card](https://images.ctfassets.net/kftzwdyauwt9/3PyfDzfjOozLbJnaZIkRLD/6aef080bb4e7d6a6b8a6dc23436848db/gpt-live-art-card.png?w=3840&q=90&fm=webp)
-
-[Continuous voice interaction with GPT LiveEngineeringAug 3, 2026](</index/continuous-voice-interaction-with-gpt-live/>)
 
 Research
 

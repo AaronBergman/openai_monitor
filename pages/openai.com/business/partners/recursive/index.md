@@ -38,7 +38,7 @@ OpenAI
 
 Recursive is a Tokyo-based AI solutions partner that helps enterprises turn frontier AI into production systems with measurable business impact. We design and deploy custom AI products, agentic workflows, and decision-support systems for complex, high-value use cases—from logistics optimization and scientific review to personalized recommendations, education, compliance, and energy planning. By combining large language models with simulation, optimization, and domain-specific data, we build AI that can reason, predict, and act in real-world environments. Trusted by leading companies in Japan, Recursive delivers enterprise-ready AI grounded in reliability, ROI, and long-term partnership.
 
-![Advanced Partner](/images/partner-tier-badges/OAI_PartnerNetwork_AdvancedPartner.svg?dpl=dpl_HDj1LjewH8WsAD8JGktBrffg7Fo1)
+![Advanced Partner](/images/partner-tier-badges/OAI_PartnerNetwork_AdvancedPartner.svg?dpl=dpl_6Urhrih8AaxjHVp3hfymMtzpGhpP)
 
 Countries served
     Japan and Saudi Arabia

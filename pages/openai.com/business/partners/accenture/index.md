@@ -38,7 +38,7 @@ OpenAI
 
 Accenture helps the world’s leading enterprises reinvent by building their digital core and unleashing the power of AI to create value at speed across industries. We bring together the talent of approximately 799,000 people with proprietary assets and platforms, deep process and industry expertise, and leading ecosystem relationships to deliver end-to-end solutions and measurable outcomes at scale. Through our Reinvention Services, we offer broad expertise across Cybersecurity, Digital Core, Finance, Industry and Enterprise, Song, Supply Chain and Engineering, and Talent, with advanced capabilities in AI and Data, Industry and Process, and Technology across 19 industries.
 
-![Elite Partner](/images/partner-tier-badges/OAI_PartnerNetwork_ElitePartner.svg?dpl=dpl_HDj1LjewH8WsAD8JGktBrffg7Fo1)
+![Elite Partner](/images/partner-tier-badges/OAI_PartnerNetwork_ElitePartner.svg?dpl=dpl_6Urhrih8AaxjHVp3hfymMtzpGhpP)
 
 Countries served
     Global

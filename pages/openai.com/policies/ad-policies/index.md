@@ -30,7 +30,7 @@ Select language
 
 …
 
-Updated: July 15, 2026
+Updated: August 10, 2026
 
 # Ad policies
 
@@ -179,6 +179,10 @@ We do not allow ads for unsafe or unapproved medical products; unsupported treat
 
 General health and wellness products that do not make medical claims may be permitted, including fitness equipment, wearable devices, menstrual products, and content with incidental references to health or self-care. Products that make unregulated health or wellness claims may be evaluated under the Wellness Claims policy.
 
+### Housing and Jobs
+
+Ads for individual job listings or housing rentals or sales are prohibited. Advertisers may link to platforms that have job or house listings as long as the landing page or ad creative does not reference a specific listing.
+
 ### Legal services
 
 Ads for legal advice, representation, or legal services offered to individuals or businesses are not permitted. This includes services related to immigration, personal injury, legal claims, or document preparation.
@@ -296,6 +300,7 @@ The goal is straightforward: make it possible for businesses of all sizes to use
 
 ## Changelog
 
+  * v1.4 (August 2026): Clarified our policy stance on housing and job listings.
   * v1.3 (July 2026): Introduced a new section on advertiser policies and updated the financial and health services sections to clarify eligible categories and markets.
   * v1.2 (May 2026): A new section explains what standards we apply, how we implement these standards, and what happens when ads don’t meet our safety bar.
   * v1.1 (April 2026): We refined our ads placement policy to apply a more precise approach in some regulated-advice contexts. Medical, legal, and financial advice contexts are no longer categorically blocked from ads by default. Sensitive conversations and other prohibited contexts remain ineligible for ads.

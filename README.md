@@ -1,5 +1,57 @@
 # openai_monitor
 
+## 2026-08-11 — Run `2026-08-11T09-17Z`
+
+**Fetch time:** 2026-08-11T09:18:17Z UTC | **Baseline:** 2026-08-10T09-19Z (consecutive day)
+
+**TL;DR:** OpenAI relaunched its cybersecurity product line, **Daybreak**, today: a new specialized model **GPT‑5.6‑Cyber** (available through a new "Daybreak Red" access tier, alongside general-purpose "Daybreak Blue") that OpenAI says completes 95% of advanced dual-use cyber requests vs. 1.5–2% for the standard guardrailed model; a disclosed real-world find of two previously-unknown V8 (Chrome) zero-days, one already fixed by Google as CVE‑2026‑15903; and an expanded **Daybreak Cyber Partner Program** naming Accenture, IBM, Capgemini, Cognizant, EY, KPMG, PwC, NCC Group, SpecterOps, Palo Alto Networks, CrowdStrike, Cisco, Sophos, Akamai, Fortinet, and Cloudflare as partners. This came with 4 new pages, a new signup form, and a full rewrite of the `/daybreak/` hub and `/daybreak/partners/` pages. Elsewhere: the free ChatGPT-for-Academic-Researchers program is now oversubscribed (13,000+ applications for an initial 10,000-seat lottery cohort), a new ad-policy section bans individual job/housing listing ads, and "Premium seats" are coming to ChatGPT Business. The recurring `/business/partners/*` nav-template flip-flop bug continued and, for the first time, also hit 10 `/business/plugins/*` pages. No anomalies.
+
+### Anomalies
+
+None triggered under this repo's defined checks (no future-dated or backwards-moving `<lastmod>`, no backdated new URLs, no reappeared URLs, no sub-sitemap migrations). One thing caught and corrected during analysis, noted for the record: a diff-tooling bug briefly made `/index/making-chatgpt-better-for-clinicians/` look like it had swapped content with a different article; re-checked against the correct prior snapshot, it's just a routine widget rotation plus a known duplicate-TOC rendering artifact — not a real anomaly.
+
+**Continuing pattern, now spreading — nav-template flip-flop:** first flagged 2026-08-08, still active. This run it hit 7 `/business/partners/*` pages (`cognizant`, `infosys`, `samsung-sds`, `tredence`, `capco` flipped old-nav→sitewide-nav; `fellow-intelligence`, `unit8` flipped the other way) **and, for the first time, 10 `/business/plugins/*` pages** (`bigquery`, `canva`, `conductor`, `klaviyo`, `lseg`, `microsoft-outlook-email`, `microsoft-teams`, `pitchbook`, `public-equity-investing`, `semrush`, all sitewide-nav→old-nav) — the bug is no longer confined to the partners directory. Still reads like flaky template caching, not deliberate edits.
+
+**Minor fetch-rendering artifact, not a site change:** [`/daybreak/`](pages/openai.com/daybreak/index.md) and the new [`/index/expanding-daybreak-as-the-cyber-defense-window-narrows/`](pages/openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows/index.md) both contain a garbled glyph string where a hero-graphic/icon element should be — the same class of curl-cffi/html2text conversion quirk documented in earlier runs (2026-07-21, 2026-07-22).
+
+### Notable additions — the Daybreak cybersecurity relaunch
+
+- **[`/index/expanding-daybreak-as-the-cyber-defense-window-narrows/`](pages/openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows/index.md)** — introduces **GPT‑5.6‑Cyber** and two new access tiers, **Daybreak Blue** (general-purpose, guardrails removed for authorized defensive work) and **Daybreak Red** (specialized cyber model, further-reduced refusals for advanced dual-use tasks). Discloses two new V8 zero-days found by the model (one now Google's **CVE‑2026‑15903**, chained to escape the browser sandbox), plus undisclosed vulnerabilities across a popular mobile OS, a popular database, and an OS kernel, all in active coordinated remediation. Confirms under the Preparedness Framework the new model reaches "High" (not "Critical") cyber capability, and explicitly reconfirms it "was not involved" in the [Hugging Face incident](pages/openai.com/index/hugging-face-model-evaluation-security-incident/index.md) covered here 2026-07-21. New requirement: hardware security keys mandatory for individual Daybreak accounts starting Sept 1, 2026.
+- **[`/index/putting-frontier-cyber-models-in-more-trusted-hands/`](pages/openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands/index.md)** — expands the **Daybreak Cyber Partner Program**: services partners Accenture, IBM, Capgemini, Cognizant, EY, KPMG, PwC, NCC Group, SpecterOps; technology partners Palo Alto Networks, CrowdStrike, Cisco, Sophos, Akamai, Fortinet, Cloudflare — each embedding OpenAI's cyber models into their own products/services rather than giving end customers direct model access.
+- **[`/business/solutions/cybersecurity/`](pages/openai.com/business/solutions/cybersecurity/index.md)**, **[`/daybreak/partners-new/`](pages/openai.com/daybreak/partners-new/index.md)**, and **[`/form/daybreak-cyber-partner-program/`](pages/openai.com/form/daybreak-cyber-partner-program/index.md)** — new solutions page and partner-program signup pages. `/daybreak/partners-new/`'s content closely mirrors the freshly-rewritten `/daybreak/partners/` (see below), suggesting a staged page migration.
+- **`/daybreak/`** — hub page rewritten top to bottom: retitled "The defense the AI era demands," adds a benchmark claim (GPT‑5.6 Sol: 7/10 vs. GPT‑5.5's 2/10 on a red-team simulation) and a "Patch the Planet" open-source-security stats block with Trail of Bits ($17M in credits/support, 41 codebases reviewed, 858 issues found, 263 patches produced, 143 accepted upstream).
+- **`/daybreak/partners/`** — rewritten from a one-paragraph sign-up blurb into a full program page with a 4-step process (Apply → Connect → Build → Launch) and executive quotes from IBM, Accenture, EY, KPMG, PwC, Cognizant, GuidePoint Security, and NCC Group.
+- **[`/form/enterprise-trusted-access-for-cyber/`](pages/openai.com/form/enterprise-trusted-access-for-cyber/index.md)** — renamed "Request Trusted Access for Cyber" → "Request **Daybreak Access**" (program mechanics unchanged).
+
+### Other notable updates
+
+- **[`/index/chatgpt-for-academic-researchers/`](pages/openai.com/index/chatgpt-for-academic-researchers/index.md)** — free-access program now oversubscribed: 13,000+ first-wave applications (up to 65,000 researcher seats); new applicants join a waitlist while OpenAI selects an initial 10,000-seat cohort by lottery.
+- **[`/policies/ad-policies/`](pages/openai.com/policies/ad-policies/index.md)** — new "Housing and Jobs" section (v1.4): ads for individual job listings or housing rentals/sales now prohibited outright.
+- **[`/student-collective/`](pages/openai.com/student-collective/index.md)** — Campus Lead applications: closed for US/Canada/India, extended through **August 31, 2026** for Japan, Korea, UK, Germany, France.
+- **[`/business/partners/`](pages/openai.com/business/partners/index.md)** — testimonial carousel grew "1 of 8" → "1 of 9" (new Fractal/Philips quote).
+
+### New pages (non-Daybreak)
+
+- **[`/index/building-an-ai-native-finance-function/`](pages/openai.com/index/building-an-ai-native-finance-function/index.md)** — five lessons for CFOs redesigning finance work around AI.
+- **[`/index/model-ml/`](pages/openai.com/index/model-ml/index.md)** — startup story: Model ML generates finance decks with GPT‑5.6 Sol, claiming 21% fewer tokens than Fable 5.
+- **[`/index/premium-seats-chatgpt-business/`](pages/openai.com/index/premium-seats-chatgpt-business/index.md)** + **[`/form/business/premium-offer/`](pages/openai.com/form/business/premium-offer/index.md)** — upcoming ChatGPT Business "Premium seats" (5x usage, no 5-hour cap); early sign-ups (before Aug 20) get $100 in credits per seat, up to 5 seats, first 10,000 workspaces.
+- **[`/index/responsible-ai-infrastructure-texas/`](pages/openai.com/index/responsible-ai-infrastructure-texas/index.md)** — letter to Texas Gov. Abbott on responsible AI-infrastructure development.
+- **[`/index/virgin-atlantic/chatgpt-work/`](pages/openai.com/index/virgin-atlantic/chatgpt-work/index.md)** and **[`/index/zapier/`](pages/openai.com/index/zapier/index.md)** — two new ChatGPT Work enterprise customer stories.
+
+### Routine, low-signal updates
+
+77 of 177 updated URLs had zero detectable content change (partner-badge cache-busting, plugin pages untouched beyond `<lastmod>`), and most of the rest were "related articles" widget rotations surfacing the new Daybreak/finance/premium-seat posts across older pages — no new information. Full breakdown in [`runs/2026-08-11T09-17Z/analysis.md`](runs/2026-08-11T09-17Z/analysis.md).
+
+### Removals
+
+None this run.
+
+**Stats:** 1,573 total URLs | +12 added | 177 updated | -0 removed | 0 anomalies | 35 sub-sitemaps
+
+Full analysis: [runs/2026-08-11T09-17Z/analysis.md](runs/2026-08-11T09-17Z/analysis.md)
+
+---
+
 ## 2026-08-10 — Run `2026-08-10T09-19Z`
 
 **Fetch time:** 2026-08-10T09:19:57Z UTC | **Baseline:** 2026-08-09T09-16Z (consecutive day)

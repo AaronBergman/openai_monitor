@@ -1,28 +1,28 @@
 Skip to main content
 
-[](</>)
+[](</>)[](</business/>)
 
-  * [Research](</research/index/>)
+  * Why OpenAI
   * Products
-  * [Business](</business/>)
-  * [Developers](</api/>)
-  * [Company](</about/>)
-  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
+  * Solutions
+  * Resources
+  * [Customers](</business/customer-stories/>)
+  * [Pricing](</business/pricing/>)
 
 
 
-Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
+Try OpenAI[Contact sales](</contact-sales/>)
 
-  * Research
+  * Why OpenAI
   * Products
-  * Business
-  * Developers
-  * Company
-  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
+  * Solutions
+  * Resources
+  * [Customers](</business/customer-stories/>)
+  * [Pricing](</business/pricing/>)
 
 
 
-[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)Login
+[Contact sales](</contact-sales/>)Try OpenAI
 
 OpenAI
 
@@ -38,7 +38,7 @@ OpenAI
 
 Cognizant is a leading technology services and consulting company that helps organizations modernize, innovate, and scale with AI. Combining deep industry expertise with advanced AI, cloud, data, and engineering capabilities, Cognizant partners with enterprises to transform business operations, enhance customer experiences, and accelerate growth. Through our AI Builder lens and focus on responsible AI, Cognizant delivers industry-specific solutions that embed intelligence into the flow of work - helping clients move from experimentation to enterprise-scale adoption and realize measurable business value.
 
-![Advanced Partner](/images/partner-tier-badges/OAI_PartnerNetwork_AdvancedPartner.svg?dpl=dpl_HDj1LjewH8WsAD8JGktBrffg7Fo1)
+![Advanced Partner](/images/partner-tier-badges/OAI_PartnerNetwork_AdvancedPartner.svg?dpl=dpl_6Urhrih8AaxjHVp3hfymMtzpGhpP)
 
 Countries served
     Global
