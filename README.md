@@ -1,5 +1,46 @@
 # openai_monitor
 
+
+## 2026-08-12 — Run `2026-08-12T09-19Z`
+
+**Fetch time:** 2026-08-12T09:21:32Z UTC | **Baseline:** 2026-08-11T09-17Z (consecutive day)
+
+**TL;DR:** A quiet day after yesterday's big Daybreak relaunch — one small follow-on page (Daybreak cyber models are now available through Amazon Bedrock on AWS), and a handful of real content tweaks buried in 129 mostly-cosmetic "updated" pages: the ChatGPT ads pilot has now actually **launched** (not just "planned") in the UK, Mexico, Brazil, Japan, and South Korea; Oracle customers can now **purchase** OpenAI models through Oracle Marketplace (previously "coming weeks," now live in the US); Health in ChatGPT got a direct "Try Health" link; and the Rosalind Biodefense trusted-partner list swapped "ProEquip" for "Hadrian Biodefense." One page quietly disappeared — a "ChatGPT app on Linux" waitlist form, with no replacement page found. No anomalies.
+
+### Anomalies
+
+None triggered under this repo's defined checks (no future-dated or backwards-moving `<lastmod>`, no backdated new URLs, no reappeared URLs, no sub-sitemap migrations).
+
+**Continuing pattern — nav-template flip-flop, still active:** first flagged 2026-08-08. This run it hit 4 `/business/partners/*` pages: `ntt-data`, `globant`, `altudo` flipped old-nav→sitewide-nav; `unit8` flipped the other way. Page content is identical in all 4 cases — only the header/footer nav block toggles. Same flaky template-caching bug as prior runs (it briefly spread to `/business/plugins/*` on 2026-08-11; back to just `/business/partners/*` today).
+
+**New this run — sitewide footer-nav rollout:** dozens of pages (mostly `/index/*` articles) picked up two new footer links, **Customer Stories** and **Partner Network**, under the "Business" column, plus **Supply Co.** under "More." Reads as a gradual global template update (only pages that happened to re-render this run show it) rather than a deliberate per-page edit. Also widespread: "Latest Advancements" sidebars now list **GPT-5.6** and have dropped **GPT-5.3 Instant**.
+
+### Notable updates
+
+- **[`/products/release-notes/`](pages/openai.com/products/release-notes/index.md)** — three new entries: **restaurant reservations in ChatGPT** (Aug 10) via OpenTable/Resy/Yelp, rolling out on all plans except ChatGPT Work; **files & Projects support in ChatGPT Voice** (Aug 7), with Live becoming the default Voice experience for Enterprise/Edu/Healthcare workspaces; and an **updated `chat-latest` API snapshot** (Aug 6) now pointing at GPT-5.6.
+- **[`/index/testing-ads-in-chatgpt/`](pages/openai.com/index/testing-ads-in-chatgpt/index.md)** — new Aug 11 update: the ads pilot has **launched** (past tense) in the UK, Mexico, Brazil, Japan, and South Korea, with a new advertiser sign-up link at `ads.openai.com/advertisers`.
+- **[`/index/openai-on-oracle-cloud/`](pages/openai.com/index/openai-on-oracle-cloud/index.md)** — new Aug 7 update: Oracle customers can now **purchase** OpenAI models/Codex/ChatGPT Work via Oracle Marketplace using existing Oracle Universal Credits, live in the US with more regions "coming soon."
+- **[`/index/health-in-chatgpt/`](pages/openai.com/index/health-in-chatgpt/index.md)** — added a direct **"Try Health"** link (`chatgpt.com/health/`), turning the Jul 23 announcement into an actionable entry point.
+- **[`/index/strengthening-societal-resilience-with-rosalind-biodefense/`](pages/openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense/index.md)** — trusted-partner roster change: **"ProEquip" swapped out for "Hadrian Biodefense"** in the GPT-Rosalind biodefense partner list.
+
+### New pages
+
+- **[`/index/daybreak-models-are-now-available-on-aws/`](pages/openai.com/index/daybreak-models-are-now-available-on-aws/index.md)** — Daybreak Blue and Daybreak Red are now available through Amazon Bedrock for enrolled Daybreak Access customers (via the Bedrock console or the Responses API `bedrock-mantle` endpoint) — a direct follow-on to yesterday's Daybreak relaunch.
+
+### Removals
+
+- **`/form/chatgpt-app/`** — a "ChatGPT app on Linux" notify-me waitlist form. No Linux-app page exists anywhere in the current sitemap to replace it — looks like a quiet retirement rather than a migration.
+
+### Routine, low-signal updates
+
+Of the 129 updated URLs: 46 `/business/partners/*` pages were partner-badge cache-busting only (query-hash change, no content change); 4 more were the nav flip-flop noted above; most of the remaining ~78 were "Keep reading"/related-article widget rotations and the sitewide footer-nav/sidebar refresh described above, with no substantive body-text change beyond what's called out above. Full breakdown in [`runs/2026-08-12T09-19Z/analysis.md`](runs/2026-08-12T09-19Z/analysis.md).
+
+**Stats:** 1,573 total URLs | +1 added | 129 updated | -1 removed | 0 anomalies | 35 sub-sitemaps
+
+Full analysis: [runs/2026-08-12T09-19Z/analysis.md](runs/2026-08-12T09-19Z/analysis.md)
+
+---
+
 ## 2026-08-11 — Run `2026-08-11T09-17Z`
 
 **Fetch time:** 2026-08-11T09:18:17Z UTC | **Baseline:** 2026-08-10T09-19Z (consecutive day)

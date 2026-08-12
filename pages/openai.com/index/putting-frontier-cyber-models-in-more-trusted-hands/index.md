@@ -217,6 +217,10 @@ OpenAI
 
 [View all](</news/>)
 
+![OAI AdsTest Blog ArtCard 1x1](https://images.ctfassets.net/kftzwdyauwt9/7drPwCnD6ied4wPzlJd7qa/d79ccfda974080bbca7d688ad9bcbc6f/OAI_AdsTest_Blog_ArtCard_1x1.png?w=3840&q=90&fm=webp)
+
+[Testing ads in ChatGPTCompanyAug 11, 2026](</index/testing-ads-in-chatgpt/>)
+
 ![What building an AI-native finance function taught me > Card image](https://images.ctfassets.net/kftzwdyauwt9/5XpkKoVszSTwJPjcwrvcNG/1e02d9b53b07d25b4cf517da6bd454eb/Frame__14_.png?w=3840&q=90&fm=webp)
 
 [What building an AI-native finance function taught meCompanyAug 10, 2026](</index/building-an-ai-native-finance-function/>)
@@ -224,10 +228,6 @@ OpenAI
 ![GPT-Daybreak > Cover](https://images.ctfassets.net/kftzwdyauwt9/2iqsbTTLvgMNteNampw3gW/a38ed04432ee5548c4aec6c7b7a506f2/1x1_Art_Card.png?w=3840&q=90&fm=webp)
 
 [Expanding Daybreak as the Cyber Defense Window NarrowsSecurityAug 10, 2026](</index/expanding-daybreak-as-the-cyber-defense-window-narrows/>)
-
-![Critical cyber capabilities card art](https://images.ctfassets.net/kftzwdyauwt9/1P18WVIhz3l2xY4d9JB8H0/b8f0c3c0797e99f4e1fa2e73dc1896ad/Frame.png?w=3840&q=90&fm=webp)
-
-[Responding to the next frontier of critical cyber capabilitiesSecurityAug 7, 2026](</index/responding-next-frontier-critical-cyber-capabilities/>)
 
 Research
 

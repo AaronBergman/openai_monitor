@@ -1,28 +1,28 @@
 Skip to main content
 
-[](</>)[](</business/>)
+[](</>)
 
-  * Why OpenAI
+  * [Research](</research/index/>)
   * Products
-  * Solutions
-  * Resources
-  * [Customers](</business/customer-stories/>)
-  * [Pricing](</business/pricing/>)
+  * [Business](</business/>)
+  * [Developers](</api/>)
+  * [Company](</about/>)
+  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
 
 
 
-Try OpenAI[Contact sales](</contact-sales/>)
+Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
-  * Why OpenAI
+  * Research
   * Products
-  * Solutions
-  * Resources
-  * [Customers](</business/customer-stories/>)
-  * [Pricing](</business/pricing/>)
+  * Business
+  * Developers
+  * Company
+  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
 
 
 
-[Contact sales](</contact-sales/>)Try OpenAI
+[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)Login
 
 OpenAI
 
@@ -38,7 +38,7 @@ OpenAI
 
 We help organizations advance their total experience journey across customer & employee experience to drive revenue growth, stronger margins, reduced support costs as outcomes. We design and deploy custom AI agents, RAG & enterprise knowledge systems, multi-agent workflows & industry-specific AI solutions that boost productivity & speed decisions. We help enterprises scale adoption, support enablement & ongoing optimization. Our delivery is guided by principles of responsible AI, observability & eval frameworks built into every engagement. By combining strategic advisory with hands-on delivery, Altudo makes humans and AI work together not as tool, but as teammates.
 
-![Select Partner](/images/partner-tier-badges/OAI_PartnerNetwork_SelectPartner.svg?dpl=dpl_6Urhrih8AaxjHVp3hfymMtzpGhpP)
+![Select Partner](/images/partner-tier-badges/OAI_PartnerNetwork_SelectPartner.svg?dpl=dpl_4BCDoauaaZ4vvxsT2ZNWHLfWG4mF)
 
 Countries served
     India, United States, and Canada

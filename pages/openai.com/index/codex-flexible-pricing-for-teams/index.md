@@ -73,17 +73,17 @@ OpenAI
 
 [View all](</news/>)
 
-![Health in ChatGPT > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/48aIp3cQOKJ57vpQeqOb8y/2e8732bcad5ceea1c7b20cf001bd2823/1_1_Art_Card.png?w=3840&q=90&fm=webp)
+![OAI AdsTest Blog ArtCard 1x1](https://images.ctfassets.net/kftzwdyauwt9/7drPwCnD6ied4wPzlJd7qa/d79ccfda974080bbca7d688ad9bcbc6f/OAI_AdsTest_Blog_ArtCard_1x1.png?w=3840&q=90&fm=webp)
 
-[Launching Health in ChatGPT ProductJul 23, 2026](</index/health-in-chatgpt/>)
+[Testing ads in ChatGPTCompanyAug 11, 2026](</index/testing-ads-in-chatgpt/>)
 
-![OpenAI Presence 1x1](https://images.ctfassets.net/kftzwdyauwt9/5JBDenSGI6wx5CMPPlaM5J/da9d8e27a0bd70d845a816b28ac641a9/OpenAI_Presence_1x1.png?w=3840&q=90&fm=webp)
+![Daybreak with AWS 1x1](https://images.ctfassets.net/kftzwdyauwt9/3u4XKQVExOBSWxMiiPMmpg/31dffb070dae6251a5fac4e46ec241dc/Art_card.png?w=3840&q=90&fm=webp)
 
-[Introducing OpenAI PresenceProductJul 22, 2026](</index/introducing-openai-presence/>)
+[Daybreak models are now available on AWSProductAug 11, 2026](</index/daybreak-models-are-now-available-on-aws/>)
 
-![GPT-5.6 is now the preferred model in Microsoft 365 Copilot > Cover image](https://images.ctfassets.net/kftzwdyauwt9/3MPipvFMxS8m3kTyCtwFgj/015747dcd34cb667a221688cfca64e0f/Frame.png?w=3840&q=90&fm=webp)
+![Premium seats are coming to ChatGPT Business - Cover](https://images.ctfassets.net/kftzwdyauwt9/3C1p8T3c9oQN6T6gjOjDnD/4c3afdba8f3f226302d50c004a785fd0/premium-seats-cover-square.png?w=3840&q=90&fm=webp)
 
-[GPT-5.6 is now the preferred model in Microsoft 365 CopilotProductJul 9, 2026](</index/gpt-5-6-preferred-model-microsoft-365-copilot/>)
+[Premium seats are coming to ChatGPT BusinessProductAug 10, 2026](</index/premium-seats-chatgpt-business/>)
 
 Research
 

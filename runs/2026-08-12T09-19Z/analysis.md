@@ -1,0 +1,53 @@
+# Run 2026-08-12T09-19Z Analysis
+
+**Fetch time:** 2026-08-12T09:21:32Z
+**Baseline:** 2026-08-11T09-17Z (consecutive day; `sitemaps/openai.com/latest.xml` + `sub/latest/` prior to this run)
+**Stats:** 1,573 total URLs | 1 added | 129 updated | 1 removed | 0 anomalies | 35 sub-sitemaps
+
+## Anomalies
+
+None of the defined categories triggered. Checked and clear:
+
+- **Future-dated `<lastmod>`:** none. The newest `<lastmod>` among all 1,573 current URLs (`/index/openai-on-oracle-cloud/`, 09:21:23.945Z) is 8 seconds before this run's 09:21:32Z fetch — normal same-run publication timing, not a future claim.
+- **Backwards-moving `<lastmod>`:** none among the 129 updated URLs — every new `<lastmod>` is later than its prior recorded value.
+- **Backdated new URL:** the 1 added URL (`/index/daybreak-models-are-now-available-on-aws/`) has `<lastmod>` 2026-08-12T09:06:13.913Z, same-day as first observation. Not backdated.
+- **Reappeared URLs:** not applicable — the 1 removed URL this run does not reappear (see Removed Pages).
+- **Sub-sitemap migrations:** none — no URL moved from one sub-sitemap file to another between this run and the prior baseline; the removed URL (`/form/chatgpt-app/`) was in `sitemap.xml_page` in the baseline and is absent from all 35 current sub-sitemaps, not relocated.
+
+**Continuing pattern — nav-template flip-flop, still active on `/business/partners/*`:** first flagged 2026-08-08, recurring every run since. This run it hit 4 pages: `ntt-data`, `globant`, and `altudo` flipped from the older business-specific nav ("Why OpenAI / Solutions / Resources / Customers / Pricing") to the current sitewide nav ("Research / Products / Business / Developers / Company / Foundation"); `unit8` flipped the opposite direction (sitewide → old nav). Pure template/caching instability — the visible page body content is identical in all 4 cases, only the header/footer nav block toggles. Consistent with the same bug documented on 2026-08-08 through 2026-08-11 (previously seen on `/business/partners/*` and, as of 2026-08-11, spreading to `/business/plugins/*`; this run it's confined to `/business/partners/*` again).
+
+**Sitewide footer-nav rollout, first observed this run:** dozens of updated pages (largely `/index/*` article pages, `/solutions/use-case/*`, and others) picked up two new footer links — **Customer Stories** and **Partner Network** under the "Business" footer column, and **Supply Co.** under the "More" footer column — that weren't present in their previous snapshots. This looks like a global site-template update rolling out gradually (only pages that happened to re-render this run show it), not a per-page content change. Also widespread: the "Latest Advancements" sidebar on many `/index/*` pages now lists **GPT-5.6** and dropped **GPT-5.3 Instant**, continuing the gradual model-naming refresh seen in prior runs.
+
+## Notable updates
+
+- **[`/products/release-notes/`](../../pages/openai.com/products/release-notes/index.md)** — the rolling release-notes feed advanced by three entries: **"Restaurant reservations in ChatGPT"** (Aug 10, ChatGPT) — ChatGPT can now search and book restaurant reservations via OpenTable, Resy, and Yelp, rolling out across all ChatGPT plans on mobile/web/desktop (global with OpenTable, US with Resy, US/Canada with Yelp; not included in ChatGPT Work); **"Files and Projects in ChatGPT Voice"** (Aug 7, ChatGPT) — GPT-Live voice conversations now support file uploads and Projects context, and Live becomes the default Voice experience for Enterprise/Edu/Healthcare workspaces without requiring the old Early Model Access setting; **"Updated chat-latest snapshot for GPT-5.6"** (Aug 6, API) — the `chat-latest` API alias now points to the newest GPT-5.6 snapshot. The Aug 4 (education plugins, weekly→monthly limits) and Jul 31 (DALL·E GPT retirement) entries scrolled below the visible "Load more" cutoff — they weren't necessarily removed from the site, just pushed off this snapshot's visible window.
+- **[`/index/testing-ads-in-chatgpt/`](../../pages/openai.com/index/testing-ads-in-chatgpt/index.md)** — new "Update on August 11, 2026" note: the ChatGPT ads pilot has now **launched** in the United Kingdom, Mexico, Brazil, Japan, and South Korea (previously only "planned" as of the May 7 update), with OpenAI stating it will keep expanding to more markets this year. A new link to `ads.openai.com/advertisers` was added for businesses to sign up for advertiser updates.
+- **[`/index/openai-on-oracle-cloud/`](../../pages/openai.com/index/openai-on-oracle-cloud/index.md)** — new "Updated August 7, 2026" note: Oracle customers can now actually **purchase** OpenAI models via API, Codex, and ChatGPT Work through Oracle Marketplace using existing procurement processes and Oracle Universal Credits — moving from the "coming weeks" language in the original post to a live, US-available offering (additional regions "coming soon").
+- **[`/index/health-in-chatgpt/`](../../pages/openai.com/index/health-in-chatgpt/index.md)** — added a direct **"Try Health"** link to `chatgpt.com/health/`, turning the announcement post into an actionable entry point now that the feature (announced Jul 23) is live.
+- **[`/index/strengthening-societal-resilience-with-rosalind-biodefense/`](../../pages/openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense/index.md)** — in the list of trusted GPT-Rosalind biodefense partner organizations, **"ProEquip" was swapped out for "Hadrian Biodefense"** (alongside unchanged partners Fourth Eon, SecureDNA, SecureBio Detection). The rest of the page (structural TOC reflow, "Keep reading" widget rotation, sidebar refresh) is the standard boilerplate churn described above.
+
+## New pages
+
+- **[`/index/daybreak-models-are-now-available-on-aws/`](../../pages/openai.com/index/daybreak-models-are-now-available-on-aws/index.md)** (Aug 11) — direct follow-on to yesterday's (2026-08-11) Daybreak cybersecurity relaunch: Daybreak Blue and Daybreak Red are now available to enrolled Daybreak Access customers through **Amazon Bedrock**, reachable via the Bedrock console or the Responses API's `bedrock-mantle` endpoint. Positioned as the next step after OpenAI's frontier models and Codex became generally available on AWS earlier in the year.
+
+## Removed pages
+
+- **`/form/chatgpt-app/`** — a "ChatGPT app on Linux" notify-me signup form (name/email/distro fields). No replacement Linux-app page appears anywhere in the current 1,573-URL sitemap, so this reads as a quiet retirement of the waitlist rather than a migration to a live download page — worth checking in a future run for whether a Linux app page appears elsewhere.
+
+## Routine updates (of the 129 updated URLs)
+
+- **46 `/business/partners/*` pages** — partner-tier-badge cache-busting query-parameter refresh only (`?dpl=dpl_...` hash change), zero body-text change.
+- **4 `/business/partners/*` pages** (`ntt-data`, `globant`, `altudo`, `unit8`) — the recurring nav flip-flop artifact described above under Anomalies; no real content change.
+- **`/business/partners/`** (index) — `<lastmod>` bump with zero detectable markdown-visible change.
+- **~25 `/index/*` article pages** (`avatarin`, `building-abundant-intelligence`, `circles`, `codex-flexible-pricing-for-teams`, `codex-for-almost-everything`, `continuous-voice-interaction-with-gpt-live`, `devday-2026`, `gpt-5-5-with-trusted-access-for-cyber`, `gpt-5-immunology-mystery`, `how-chatgpt-adoption-has-expanded`, `how-the-world-is-putting-chatgpt-to-work`, `improving-gpt-5-6-sol-in-chatgpt`, `introducing-chatgpt-health`, `introducing-gpt-5-3-codex`, `introducing-gpt-5-3-codex-spark`, `introducing-gpt-live`, `introducing-lockdown-mode-and-elevated-risk-labels-in-chatgpt`, `introducing-the-codex-app`, `introducing-the-openai-economic-research-exchange`, `learn-teach-chatgpt-work-codex`, `parloa`, `premium-seats-chatgpt-business`, `putting-frontier-cyber-models-in-more-trusted-hands`, `responding-next-frontier-critical-cyber-capabilities`, `responsible-ai-infrastructure-texas`, `strengthening-societal-resilience-with-rosalind-biodefense` minus the one real change noted above, `testing-ads-in-chatgpt` minus its real update, `third-party-cyber-evaluations-involving-openai-models`, `virgin-atlantic/chatgpt-work`, `zapier`, `building-an-ai-native-finance-function`, `model-ml`, `openai-on-oracle-cloud` minus its real update, `health-in-chatgpt` minus its real update) — "Keep reading"/related-article widget rotation surfacing the newer Daybreak/ads/finance posts, plus (on most) the sitewide footer-nav and "Latest Advancements" sidebar refresh described above. No substantive body-text change beyond what's called out in Notable Updates.
+- **`/index.md` (homepage)** and **`/academy/codex-for-work/how-data-science-teams-use-codex/`** — widget/footer refresh only, same pattern.
+- **`/solutions/use-case/{agents,coding,content-creation,data-analysis,research}/`** — lost a "New: Introducing ChatGPT Work" promo banner (the feature is no longer new) and gained the Supply Co. footer link; no other change.
+- **`/business/solutions/{data,finance,marketing,operations,sales}/`, `/business/solutions/finance/workflows/`, `/codex/`, `/chatgpt-work/`, `/daybreak/`, `/daybreak/partners/`, `/daybreak/partners-new/`, `/economic-research-exchange/`, several `/form/*` pages, `/leads/small-business/`, `/policies/ad-policies/`, `/products/release-notes/` (see above), `/science/`, `/signals/`, `/signals/b2b/`, `/signals/data/`, `/signals/data-download/`, `/signals/research/`, `/solutions/industries/healthcare/`, `/student-collective/`** — `<lastmod>` bump with no markdown-visible content change (or only italic/emphasis markdown-syntax rendering differences with no semantic change, e.g. `_text_` vs plain text rendering on `/index/how-the-world-is-putting-chatgpt-to-work/`).
+
+## Fetch failures
+
+None. All 130 added/updated pages fetched successfully on the first attempt.
+
+## Process note
+
+This run's mechanical pipeline (fetch/diff/state-update script) hit two issues before producing a clean result, both caught and fixed before anything was committed: (1) an initial invocation ran with a wrong working directory, causing it to treat the entire 1,573-URL sitemap as "added" and attempt to fetch all of it — aborted mid-run via a broken pipe before any repo files were touched, no lasting effect. (2) the corrected re-run used a sub-sitemap filename convention (`_openai_com_sitemap.xml_<section>.xml`) that didn't match the repo's established convention (`sitemap.xml_<section>.xml`); caught by diffing against `git ls-tree` before committing, the script was patched, and the run was redone cleanly. Final state reflects the clean run only.

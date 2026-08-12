@@ -1,28 +1,28 @@
 Skip to main content
 
-[](</>)
+[](</>)[](</business/>)
 
-  * [Research](</research/index/>)
+  * Why OpenAI
   * Products
-  * [Business](</business/>)
-  * [Developers](</api/>)
-  * [Company](</about/>)
-  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
+  * Solutions
+  * Resources
+  * [Customers](</business/customer-stories/>)
+  * [Pricing](</business/pricing/>)
 
 
 
-Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
+Try OpenAI[Contact sales](</contact-sales/>)
 
-  * Research
+  * Why OpenAI
   * Products
-  * Business
-  * Developers
-  * Company
-  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
+  * Solutions
+  * Resources
+  * [Customers](</business/customer-stories/>)
+  * [Pricing](</business/pricing/>)
 
 
 
-[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)Login
+[Contact sales](</contact-sales/>)Try OpenAI
 
 OpenAI
 
@@ -38,7 +38,7 @@ OpenAI
 
 Unit8 is a leading European data and AI services company helping non-digital native enterprises turn data into measurable business value. Our forward-deployed engineers work closely with business and technology teams, combining strategy, data science, analytics, AI engineering, scalable platforms and MLOps from use-case discovery to production. As an OpenAI Services Partner, Unit8 helps organizations move beyond experimentation and deploy secure, responsible GenAI solutions tailored to complex enterprise environments, with strong experience in financial services, healthcare and life sciences, and manufacturing.
 
-![Advanced Partner](/images/partner-tier-badges/OAI_PartnerNetwork_AdvancedPartner.svg?dpl=dpl_6Urhrih8AaxjHVp3hfymMtzpGhpP)
+![Advanced Partner](/images/partner-tier-badges/OAI_PartnerNetwork_AdvancedPartner.svg?dpl=dpl_4BCDoauaaZ4vvxsT2ZNWHLfWG4mF)
 
 Countries served
     Switzerland, Germany, Austria, France, United States, and Canada

@@ -1,0 +1,660 @@
+{
+  "run_id": "2026-08-12T09-19Z",
+  "fetch_time": "2026-08-12T09:21:32Z",
+  "baseline": "2026-08-11T09-17Z",
+  "added": [
+    "https://openai.com/index/daybreak-models-are-now-available-on-aws/"
+  ],
+  "removed": [
+    "https://openai.com/form/chatgpt-app/"
+  ],
+  "updated": [
+    {
+      "url": "https://openai.com/",
+      "old_lastmod": "2026-08-10T18:36:28.321Z",
+      "new_lastmod": "2026-08-11T18:27:29.869Z"
+    },
+    {
+      "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex/",
+      "old_lastmod": "2026-08-08T04:54:58.112Z",
+      "new_lastmod": "2026-08-11T21:25:19.422Z"
+    },
+    {
+      "url": "https://openai.com/business/partners/",
+      "old_lastmod": "2026-08-11T08:51:47.106Z",
+      "new_lastmod": "2026-08-12T08:36:49.552Z"
+    },
+    {
+      "url": "https://openai.com/business/partners/accenture-federal-services/",
+      "old_lastmod": "2026-08-10T22:40:34.156Z",
+      "new_lastmod": "2026-08-12T07:10:50.647Z"
+    },
+    {
+      "url": "https://openai.com/business/partners/accenture/",
+      "old_lastmod": "2026-08-11T08:24:47.239Z",
+      "new_lastmod": "2026-08-12T09:01:01.826Z"
+    },
+    {
+      "url": "https://openai.com/business/partners/algorithmic-intelligence/",
+      "old_lastmod": "2026-08-10T21:30:15.756Z",
+      "new_lastmod": "2026-08-11T09:50:51.616Z"
+    },
+    {
+      "url": "https://openai.com/business/partners/altimetrik/",
+      "old_lastmod": "2026-08-10T21:30:15.195Z",
+      "new_lastmod": "2026-08-12T06:40:05.786Z"
+    },
+    {
+      "url": "https://openai.com/business/partners/altudo/",
+      "old_lastmod": "2026-08-11T08:00:17.080Z",
+      "new_lastmod": "2026-08-11T11:37:05.286Z"
+    },
+    {
+      "url": "https://openai.com/business/partners/artefact/",
+      "old_lastmod": "2026-08-10T21:30:24.073Z",
+      "new_lastmod": "2026-08-12T02:01:45.633Z"
+    },
+    {
+      "url": "https://openai.com/business/partners/artium/",
+      "old_lastmod": "2026-08-10T21:30:16.557Z",
+      "new_lastmod": "2026-08-12T06:40:06.201Z"
+    },
+    {
+      "url": "https://openai.com/business/partners/bain-and-company/",
+      "old_lastmod": "2026-08-10T22:40:34.073Z",
+      "new_lastmod": "2026-08-12T07:10:50.668Z"
+    },
+    {
+      "url": "https://openai.com/business/partners/blank-metal/",
+      "old_lastmod": "2026-08-10T21:30:15.066Z",
+      "new_lastmod": "2026-08-11T17:17:52.384Z"
+    },
+    {
+      "url": "https://openai.com/business/partners/blend360/",
+      "old_lastmod": "2026-08-10T21:30:17.220Z",
+      "new_lastmod": "2026-08-12T02:00:25.231Z"
+    },
+    {
+      "url": "https://openai.com/business/partners/booz-allen-hamilton/",
+      "old_lastmod": "2026-08-10T22:42:44.119Z",
+      "new_lastmod": "2026-08-12T02:00:08.243Z"
+    },
+    {
+      "url": "https://openai.com/business/partners/boston-consulting-group/",
+      "old_lastmod": "2026-08-10T22:40:33.959Z",
+      "new_lastmod": "2026-08-12T07:10:51.282Z"
+    },
+    {
+      "url": "https://openai.com/business/partners/capco/",
+      "old_lastmod": "2026-08-10T21:30:33.294Z",
+      "new_lastmod": "2026-08-12T02:00:40.600Z"
+    },
+    {
+      "url": "https://openai.com/business/partners/capgemini/",
+      "old_lastmod": "2026-08-10T22:40:33.938Z",
+      "new_lastmod": "2026-08-12T07:10:50.390Z"
+    },
+    {
+      "url": "https://openai.com/business/partners/cdw/",
+      "old_lastmod": "2026-08-11T06:33:07.258Z",
+      "new_lastmod": "2026-08-12T02:01:10.404Z"
+    },
+    {
+      "url": "https://openai.com/business/partners/cgi/",
+      "old_lastmod": "2026-08-10T21:30:15.196Z",
+      "new_lastmod": "2026-08-12T02:01:41.801Z"
+    },
+    {
+      "url": "https://openai.com/business/partners/chieftns/",
+      "old_lastmod": "2026-08-10T22:56:20.713Z",
+      "new_lastmod": "2026-08-11T11:05:35.227Z"
+    },
+    {
+      "url": "https://openai.com/business/partners/cloudwerx/",
+      "old_lastmod": "2026-08-10T21:30:16.059Z",
+      "new_lastmod": "2026-08-11T18:28:52.084Z"
+    },
+    {
+      "url": "https://openai.com/business/partners/cognita-reply/",
+      "old_lastmod": "2026-08-10T21:30:32.451Z",
+      "new_lastmod": "2026-08-12T02:00:57.168Z"
+    },
+    {
+      "url": "https://openai.com/business/partners/cognizant/",
+      "old_lastmod": "2026-08-10T21:30:16.078Z",
+      "new_lastmod": "2026-08-12T06:40:06.001Z"
+    },
+    {
+      "url": "https://openai.com/business/partners/deepsense-ai/",
+      "old_lastmod": "2026-08-10T21:30:27.748Z",
+      "new_lastmod": "2026-08-12T01:59:50.525Z"
+    },
+    {
+      "url": "https://openai.com/business/partners/dentsu-japan/",
+      "old_lastmod": "2026-08-10T21:30:15.499Z",
+      "new_lastmod": "2026-08-12T02:00:52.631Z"
+    },
+    {
+      "url": "https://openai.com/business/partners/eliza/",
+      "old_lastmod": "2026-08-10T21:30:32.752Z",
+      "new_lastmod": "2026-08-12T06:40:04.708Z"
+    },
+    {
+      "url": "https://openai.com/business/partners/endava/",
+      "old_lastmod": "2026-08-10T21:30:16.741Z",
+      "new_lastmod": "2026-08-12T02:00:29.387Z"
+    },
+    {
+      "url": "https://openai.com/business/partners/epam/",
+      "old_lastmod": "2026-08-10T21:55:27.060Z",
+      "new_lastmod": "2026-08-12T02:00:37.640Z"
+    },
+    {
+      "url": "https://openai.com/business/partners/ernst-and-young/",
+      "old_lastmod": "2026-08-11T04:33:35.018Z",
+      "new_lastmod": "2026-08-12T09:00:08.786Z"
+    },
+    {
+      "url": "https://openai.com/business/partners/fractal/",
+      "old_lastmod": "2026-08-10T21:30:16.016Z",
+      "new_lastmod": "2026-08-12T06:40:04.710Z"
+    },
+    {
+      "url": "https://openai.com/business/partners/fujitsu/",
+      "old_lastmod": "2026-08-10T21:30:15.572Z",
+      "new_lastmod": "2026-08-12T03:32:28.669Z"
+    },
+    {
+      "url": "https://openai.com/business/partners/globant/",
+      "old_lastmod": "2026-08-10T21:30:22.125Z",
+      "new_lastmod": "2026-08-12T02:00:46.155Z"
+    },
+    {
+      "url": "https://openai.com/business/partners/hcltech/",
+      "old_lastmod": "2026-08-10T21:30:14.599Z",
+      "new_lastmod": "2026-08-12T06:40:05.607Z"
+    },
+    {
+      "url": "https://openai.com/business/partners/infosys/",
+      "old_lastmod": "2026-08-10T21:30:27.853Z",
+      "new_lastmod": "2026-08-12T02:00:14.362Z"
+    },
+    {
+      "url": "https://openai.com/business/partners/kpmg/",
+      "old_lastmod": "2026-08-10T22:40:33.872Z",
+      "new_lastmod": "2026-08-12T07:10:50.459Z"
+    },
+    {
+      "url": "https://openai.com/business/partners/mantel/",
+      "old_lastmod": "2026-08-10T21:30:15.067Z",
+      "new_lastmod": "2026-08-12T02:02:11.172Z"
+    },
+    {
+      "url": "https://openai.com/business/partners/mckinsey-and-company/",
+      "old_lastmod": "2026-08-10T22:40:34.083Z",
+      "new_lastmod": "2026-08-12T07:10:50.556Z"
+    },
+    {
+      "url": "https://openai.com/business/partners/merantix-momentum/",
+      "old_lastmod": "2026-08-10T21:30:15.910Z",
+      "new_lastmod": "2026-08-11T18:28:50.986Z"
+    },
+    {
+      "url": "https://openai.com/business/partners/ml6/",
+      "old_lastmod": "2026-08-10T21:30:15.905Z",
+      "new_lastmod": "2026-08-12T01:59:50.882Z"
+    },
+    {
+      "url": "https://openai.com/business/partners/nablon-ai/",
+      "old_lastmod": "2026-08-10T21:30:16.455Z",
+      "new_lastmod": "2026-08-11T18:28:52.084Z"
+    },
+    {
+      "url": "https://openai.com/business/partners/ntt-data/",
+      "old_lastmod": "2026-08-10T21:30:21.265Z",
+      "new_lastmod": "2026-08-12T02:00:39.970Z"
+    },
+    {
+      "url": "https://openai.com/business/partners/pwc/",
+      "old_lastmod": "2026-08-10T21:30:27.605Z",
+      "new_lastmod": "2026-08-12T06:40:05.750Z"
+    },
+    {
+      "url": "https://openai.com/business/partners/recursive/",
+      "old_lastmod": "2026-08-10T21:30:15.756Z",
+      "new_lastmod": "2026-08-11T18:12:25.334Z"
+    },
+    {
+      "url": "https://openai.com/business/partners/samsung-sds/",
+      "old_lastmod": "2026-08-10T22:46:29.254Z",
+      "new_lastmod": "2026-08-12T02:00:44.818Z"
+    },
+    {
+      "url": "https://openai.com/business/partners/sia/",
+      "old_lastmod": "2026-08-10T21:30:25.410Z",
+      "new_lastmod": "2026-08-12T02:00:07.741Z"
+    },
+    {
+      "url": "https://openai.com/business/partners/sk-inc-ax/",
+      "old_lastmod": "2026-08-10T21:30:16.459Z",
+      "new_lastmod": "2026-08-12T01:59:55.116Z"
+    },
+    {
+      "url": "https://openai.com/business/partners/slalom/",
+      "old_lastmod": "2026-08-10T21:30:24.056Z",
+      "new_lastmod": "2026-08-12T06:40:06.796Z"
+    },
+    {
+      "url": "https://openai.com/business/partners/snorkel-ai/",
+      "old_lastmod": "2026-08-10T23:39:08.206Z",
+      "new_lastmod": "2026-08-12T02:00:08.852Z"
+    },
+    {
+      "url": "https://openai.com/business/partners/statworx/",
+      "old_lastmod": "2026-08-10T21:30:16.938Z",
+      "new_lastmod": "2026-08-12T00:21:47.440Z"
+    },
+    {
+      "url": "https://openai.com/business/partners/tredence/",
+      "old_lastmod": "2026-08-10T21:30:16.555Z",
+      "new_lastmod": "2026-08-12T02:01:15.070Z"
+    },
+    {
+      "url": "https://openai.com/business/partners/tribe-ai/",
+      "old_lastmod": "2026-08-10T21:30:17.167Z",
+      "new_lastmod": "2026-08-12T02:00:09.843Z"
+    },
+    {
+      "url": "https://openai.com/business/partners/unit8/",
+      "old_lastmod": "2026-08-11T08:41:34.165Z",
+      "new_lastmod": "2026-08-11T17:34:03.793Z"
+    },
+    {
+      "url": "https://openai.com/business/partners/zs/",
+      "old_lastmod": "2026-08-10T21:30:21.363Z",
+      "new_lastmod": "2026-08-12T02:01:02.032Z"
+    },
+    {
+      "url": "https://openai.com/business/solutions/cybersecurity/",
+      "old_lastmod": "2026-08-11T08:41:02.563Z",
+      "new_lastmod": "2026-08-12T06:05:03.820Z"
+    },
+    {
+      "url": "https://openai.com/business/solutions/data/",
+      "old_lastmod": "2026-08-08T09:04:38.985Z",
+      "new_lastmod": "2026-08-11T21:32:59.583Z"
+    },
+    {
+      "url": "https://openai.com/business/solutions/finance/",
+      "old_lastmod": "2026-08-08T09:04:09.091Z",
+      "new_lastmod": "2026-08-11T21:32:03.090Z"
+    },
+    {
+      "url": "https://openai.com/business/solutions/finance/workflows/",
+      "old_lastmod": "2026-08-10T23:09:04.793Z",
+      "new_lastmod": "2026-08-11T21:56:04.425Z"
+    },
+    {
+      "url": "https://openai.com/business/solutions/marketing/",
+      "old_lastmod": "2026-08-08T09:04:38.785Z",
+      "new_lastmod": "2026-08-11T21:32:58.932Z"
+    },
+    {
+      "url": "https://openai.com/business/solutions/operations/",
+      "old_lastmod": "2026-08-08T09:04:38.761Z",
+      "new_lastmod": "2026-08-11T21:32:58.933Z"
+    },
+    {
+      "url": "https://openai.com/business/solutions/sales/",
+      "old_lastmod": "2026-08-11T00:49:55.898Z",
+      "new_lastmod": "2026-08-11T21:32:59.408Z"
+    },
+    {
+      "url": "https://openai.com/chatgpt-work/",
+      "old_lastmod": "2026-07-28T01:56:27.873Z",
+      "new_lastmod": "2026-08-11T18:01:35.837Z"
+    },
+    {
+      "url": "https://openai.com/codex/",
+      "old_lastmod": "2026-07-23T23:00:56.781Z",
+      "new_lastmod": "2026-08-11T18:01:35.015Z"
+    },
+    {
+      "url": "https://openai.com/daybreak/",
+      "old_lastmod": "2026-08-11T08:49:03.396Z",
+      "new_lastmod": "2026-08-12T08:31:01.388Z"
+    },
+    {
+      "url": "https://openai.com/daybreak/partners-new/",
+      "old_lastmod": "2026-08-11T05:48:04.190Z",
+      "new_lastmod": "2026-08-12T08:59:03.285Z"
+    },
+    {
+      "url": "https://openai.com/daybreak/partners/",
+      "old_lastmod": "2026-08-11T05:48:04.069Z",
+      "new_lastmod": "2026-08-12T08:59:02.809Z"
+    },
+    {
+      "url": "https://openai.com/economic-research-exchange/",
+      "old_lastmod": "2026-08-09T01:30:04.150Z",
+      "new_lastmod": "2026-08-11T22:51:03.804Z"
+    },
+    {
+      "url": "https://openai.com/form/100-chats-book-request/",
+      "old_lastmod": "2026-08-07T03:35:37.717Z",
+      "new_lastmod": "2026-08-11T09:54:07.899Z"
+    },
+    {
+      "url": "https://openai.com/form/business/premium-offer/",
+      "old_lastmod": "2026-08-11T09:09:07.617Z",
+      "new_lastmod": "2026-08-12T03:14:03.581Z"
+    },
+    {
+      "url": "https://openai.com/form/codex-project-showcase-and-feedback/",
+      "old_lastmod": "2026-08-07T03:35:38.891Z",
+      "new_lastmod": "2026-08-11T09:54:05.497Z"
+    },
+    {
+      "url": "https://openai.com/form/daybreak-cyber-partner-program/",
+      "old_lastmod": "2026-08-11T09:12:03.132Z",
+      "new_lastmod": "2026-08-12T06:11:02.788Z"
+    },
+    {
+      "url": "https://openai.com/form/enterprise-trusted-access-for-cyber/",
+      "old_lastmod": "2026-08-11T08:32:28.240Z",
+      "new_lastmod": "2026-08-11T09:27:25.004Z"
+    },
+    {
+      "url": "https://openai.com/form/eu-ai-act/",
+      "old_lastmod": "2026-08-04T14:47:15.023Z",
+      "new_lastmod": "2026-08-11T22:59:11.170Z"
+    },
+    {
+      "url": "https://openai.com/form/learning-lab/",
+      "old_lastmod": "2026-08-07T03:35:37.999Z",
+      "new_lastmod": "2026-08-11T09:54:03.744Z"
+    },
+    {
+      "url": "https://openai.com/form/share-your-story/",
+      "old_lastmod": "2026-08-07T03:35:37.080Z",
+      "new_lastmod": "2026-08-11T09:54:04.696Z"
+    },
+    {
+      "url": "https://openai.com/form/showcase-submission/",
+      "old_lastmod": "2026-08-07T03:35:35.883Z",
+      "new_lastmod": "2026-08-11T09:54:02.623Z"
+    },
+    {
+      "url": "https://openai.com/form/subscribe-to-new-sub-processors/",
+      "old_lastmod": "2026-08-07T03:35:38.713Z",
+      "new_lastmod": "2026-08-11T09:54:04.790Z"
+    },
+    {
+      "url": "https://openai.com/index/avatarin/",
+      "old_lastmod": "2026-08-07T17:59:57.113Z",
+      "new_lastmod": "2026-08-11T10:56:04.466Z"
+    },
+    {
+      "url": "https://openai.com/index/building-abundant-intelligence/",
+      "old_lastmod": "2026-08-11T08:22:04.433Z",
+      "new_lastmod": "2026-08-11T18:59:52.091Z"
+    },
+    {
+      "url": "https://openai.com/index/building-an-ai-native-finance-function/",
+      "old_lastmod": "2026-08-11T08:13:41.349Z",
+      "new_lastmod": "2026-08-12T01:45:04.902Z"
+    },
+    {
+      "url": "https://openai.com/index/chatgpt-for-academic-researchers/",
+      "old_lastmod": "2026-08-11T09:11:16.904Z",
+      "new_lastmod": "2026-08-12T06:00:12.148Z"
+    },
+    {
+      "url": "https://openai.com/index/circles/",
+      "old_lastmod": "2026-08-10T13:37:23.847Z",
+      "new_lastmod": "2026-08-11T21:41:02.914Z"
+    },
+    {
+      "url": "https://openai.com/index/codex-flexible-pricing-for-teams/",
+      "old_lastmod": "2026-07-23T22:55:17.161Z",
+      "new_lastmod": "2026-08-11T18:02:48.612Z"
+    },
+    {
+      "url": "https://openai.com/index/codex-for-almost-everything/",
+      "old_lastmod": "2026-07-23T23:00:59.157Z",
+      "new_lastmod": "2026-08-11T18:02:48.687Z"
+    },
+    {
+      "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live/",
+      "old_lastmod": "2026-08-09T10:03:19.698Z",
+      "new_lastmod": "2026-08-12T00:07:02.137Z"
+    },
+    {
+      "url": "https://openai.com/index/devday-2026/",
+      "old_lastmod": "2026-08-07T03:35:38.725Z",
+      "new_lastmod": "2026-08-11T18:01:30.084Z"
+    },
+    {
+      "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows/",
+      "old_lastmod": "2026-08-11T08:03:01.857Z",
+      "new_lastmod": "2026-08-12T07:10:04.345Z"
+    },
+    {
+      "url": "https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber/",
+      "old_lastmod": "2026-07-25T07:14:59.019Z",
+      "new_lastmod": "2026-08-11T19:25:15.249Z"
+    },
+    {
+      "url": "https://openai.com/index/gpt-5-immunology-mystery/",
+      "old_lastmod": "2026-08-11T09:10:25.370Z",
+      "new_lastmod": "2026-08-11T13:58:19.058Z"
+    },
+    {
+      "url": "https://openai.com/index/health-in-chatgpt/",
+      "old_lastmod": "2026-08-07T10:11:35.254Z",
+      "new_lastmod": "2026-08-12T05:17:21.988Z"
+    },
+    {
+      "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded/",
+      "old_lastmod": "2026-08-10T21:22:15.464Z",
+      "new_lastmod": "2026-08-11T09:55:34.745Z"
+    },
+    {
+      "url": "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work/",
+      "old_lastmod": "2026-08-11T09:17:18.800Z",
+      "new_lastmod": "2026-08-12T03:33:26.476Z"
+    },
+    {
+      "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/",
+      "old_lastmod": "2026-08-10T19:12:03.233Z",
+      "new_lastmod": "2026-08-11T21:45:30.977Z"
+    },
+    {
+      "url": "https://openai.com/index/introducing-chatgpt-health/",
+      "old_lastmod": "2026-07-27T16:37:27.553Z",
+      "new_lastmod": "2026-08-12T02:07:09.224Z"
+    },
+    {
+      "url": "https://openai.com/index/introducing-gpt-5-3-codex-spark/",
+      "old_lastmod": "2026-08-08T07:15:17.068Z",
+      "new_lastmod": "2026-08-11T18:02:09.003Z"
+    },
+    {
+      "url": "https://openai.com/index/introducing-gpt-5-3-codex/",
+      "old_lastmod": "2026-07-23T22:56:02.314Z",
+      "new_lastmod": "2026-08-11T18:02:51.804Z"
+    },
+    {
+      "url": "https://openai.com/index/introducing-gpt-live/",
+      "old_lastmod": "2026-08-04T14:31:08.633Z",
+      "new_lastmod": "2026-08-12T00:07:04.229Z"
+    },
+    {
+      "url": "https://openai.com/index/introducing-lockdown-mode-and-elevated-risk-labels-in-chatgpt/",
+      "old_lastmod": "2026-06-07T14:53:21.077Z",
+      "new_lastmod": "2026-08-11T20:54:15.596Z"
+    },
+    {
+      "url": "https://openai.com/index/introducing-the-codex-app/",
+      "old_lastmod": "2026-08-07T18:55:14.271Z",
+      "new_lastmod": "2026-08-11T18:01:45.901Z"
+    },
+    {
+      "url": "https://openai.com/index/introducing-the-openai-economic-research-exchange/",
+      "old_lastmod": "2026-08-09T10:41:14.921Z",
+      "new_lastmod": "2026-08-11T11:31:10.090Z"
+    },
+    {
+      "url": "https://openai.com/index/learn-teach-chatgpt-work-codex/",
+      "old_lastmod": "2026-08-10T13:13:02.452Z",
+      "new_lastmod": "2026-08-11T22:10:03.176Z"
+    },
+    {
+      "url": "https://openai.com/index/model-ml/",
+      "old_lastmod": "2026-08-11T08:38:37.694Z",
+      "new_lastmod": "2026-08-12T00:29:54.042Z"
+    },
+    {
+      "url": "https://openai.com/index/openai-campus-network-student-club-interest-form/",
+      "old_lastmod": "2026-08-07T03:35:38.869Z",
+      "new_lastmod": "2026-08-11T09:54:05.944Z"
+    },
+    {
+      "url": "https://openai.com/index/openai-on-oracle-cloud/",
+      "old_lastmod": "2026-06-19T19:55:28.635Z",
+      "new_lastmod": "2026-08-12T09:21:23.945Z"
+    },
+    {
+      "url": "https://openai.com/index/parloa/",
+      "old_lastmod": "2026-08-10T21:56:48.338Z",
+      "new_lastmod": "2026-08-11T18:28:25.784Z"
+    },
+    {
+      "url": "https://openai.com/index/premium-seats-chatgpt-business/",
+      "old_lastmod": "2026-08-11T08:02:24.845Z",
+      "new_lastmod": "2026-08-12T01:12:21.647Z"
+    },
+    {
+      "url": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands/",
+      "old_lastmod": "2026-08-11T09:15:01.717Z",
+      "new_lastmod": "2026-08-12T01:50:17.750Z"
+    },
+    {
+      "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/",
+      "old_lastmod": "2026-08-11T08:23:16.987Z",
+      "new_lastmod": "2026-08-11T21:17:41.959Z"
+    },
+    {
+      "url": "https://openai.com/index/responsible-ai-infrastructure-texas/",
+      "old_lastmod": "2026-08-11T09:12:17.519Z",
+      "new_lastmod": "2026-08-12T06:25:09.587Z"
+    },
+    {
+      "url": "https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense/",
+      "old_lastmod": "2026-06-04T13:41:59.710Z",
+      "new_lastmod": "2026-08-12T08:26:43.149Z"
+    },
+    {
+      "url": "https://openai.com/index/testing-ads-in-chatgpt/",
+      "old_lastmod": "2026-07-25T07:01:47.367Z",
+      "new_lastmod": "2026-08-12T09:02:55.349Z"
+    },
+    {
+      "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models/",
+      "old_lastmod": "2026-08-09T16:43:31.075Z",
+      "new_lastmod": "2026-08-11T20:38:43.216Z"
+    },
+    {
+      "url": "https://openai.com/index/virgin-atlantic/chatgpt-work/",
+      "old_lastmod": "2026-08-11T06:08:27.838Z",
+      "new_lastmod": "2026-08-12T05:38:01.443Z"
+    },
+    {
+      "url": "https://openai.com/index/zapier/",
+      "old_lastmod": "2026-08-10T23:59:32.053Z",
+      "new_lastmod": "2026-08-12T02:15:02.296Z"
+    },
+    {
+      "url": "https://openai.com/leads/small-business/",
+      "old_lastmod": "2026-08-11T08:12:28.391Z",
+      "new_lastmod": "2026-08-11T18:56:29.921Z"
+    },
+    {
+      "url": "https://openai.com/policies/ad-policies/",
+      "old_lastmod": "2026-08-11T09:14:22.340Z",
+      "new_lastmod": "2026-08-11T21:06:24.082Z"
+    },
+    {
+      "url": "https://openai.com/products/release-notes/",
+      "old_lastmod": "2026-08-11T07:52:53.747Z",
+      "new_lastmod": "2026-08-12T09:04:06.744Z"
+    },
+    {
+      "url": "https://openai.com/science/",
+      "old_lastmod": "2026-08-09T16:59:03.400Z",
+      "new_lastmod": "2026-08-11T19:38:27.100Z"
+    },
+    {
+      "url": "https://openai.com/signals/",
+      "old_lastmod": "2026-08-11T09:06:33.117Z",
+      "new_lastmod": "2026-08-11T20:58:21.777Z"
+    },
+    {
+      "url": "https://openai.com/signals/b2b/",
+      "old_lastmod": "2026-08-11T08:16:55.134Z",
+      "new_lastmod": "2026-08-11T21:16:00.600Z"
+    },
+    {
+      "url": "https://openai.com/signals/data-download/",
+      "old_lastmod": "2026-08-11T09:01:24.929Z",
+      "new_lastmod": "2026-08-11T21:16:22.549Z"
+    },
+    {
+      "url": "https://openai.com/signals/data/",
+      "old_lastmod": "2026-08-11T09:17:17.777Z",
+      "new_lastmod": "2026-08-11T21:14:44.947Z"
+    },
+    {
+      "url": "https://openai.com/signals/research/",
+      "old_lastmod": "2026-08-11T08:16:53.869Z",
+      "new_lastmod": "2026-08-11T21:16:00.171Z"
+    },
+    {
+      "url": "https://openai.com/solutions/industries/healthcare/",
+      "old_lastmod": "2026-08-11T01:53:35.768Z",
+      "new_lastmod": "2026-08-11T11:56:23.746Z"
+    },
+    {
+      "url": "https://openai.com/solutions/use-case/agents/",
+      "old_lastmod": "2026-07-14T23:22:43.750Z",
+      "new_lastmod": "2026-08-11T22:08:12.089Z"
+    },
+    {
+      "url": "https://openai.com/solutions/use-case/coding/",
+      "old_lastmod": "2026-07-14T21:21:43.711Z",
+      "new_lastmod": "2026-08-11T22:12:04.898Z"
+    },
+    {
+      "url": "https://openai.com/solutions/use-case/content-creation/",
+      "old_lastmod": "2026-07-16T01:08:50.891Z",
+      "new_lastmod": "2026-08-11T22:20:43.645Z"
+    },
+    {
+      "url": "https://openai.com/solutions/use-case/data-analysis/",
+      "old_lastmod": "2026-07-15T15:56:15.236Z",
+      "new_lastmod": "2026-08-11T22:15:42.133Z"
+    },
+    {
+      "url": "https://openai.com/solutions/use-case/research/",
+      "old_lastmod": "2026-07-15T20:14:05.078Z",
+      "new_lastmod": "2026-08-11T22:08:03.995Z"
+    },
+    {
+      "url": "https://openai.com/student-collective/",
+      "old_lastmod": "2026-08-11T08:30:13.028Z",
+      "new_lastmod": "2026-08-12T08:39:17.333Z"
+    }
+  ],
+  "anomalies": [],
+  "fetch_failures": []
+}

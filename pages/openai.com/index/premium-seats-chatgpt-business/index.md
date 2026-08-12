@@ -119,15 +119,15 @@ OpenAI
 
 [View all](</news/>)
 
+![OAI AdsTest Blog ArtCard 1x1](https://images.ctfassets.net/kftzwdyauwt9/7drPwCnD6ied4wPzlJd7qa/d79ccfda974080bbca7d688ad9bcbc6f/OAI_AdsTest_Blog_ArtCard_1x1.png?w=3840&q=90&fm=webp)
+
+[Testing ads in ChatGPTCompanyAug 11, 2026](</index/testing-ads-in-chatgpt/>)
+
+![Daybreak with AWS 1x1](https://images.ctfassets.net/kftzwdyauwt9/3u4XKQVExOBSWxMiiPMmpg/31dffb070dae6251a5fac4e46ec241dc/Art_card.png?w=3840&q=90&fm=webp)
+
+[Daybreak models are now available on AWSProductAug 11, 2026](</index/daybreak-models-are-now-available-on-aws/>)
+
 [Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free usersProductAug 6, 2026](</index/improving-gpt-5-6-sol-in-chatgpt/>)
-
-![Edu plugin > card image ](https://images.ctfassets.net/kftzwdyauwt9/5vIZVUmoUSCImIDsK3jJiL/67f1d878e33f6bc5139094e933f454db/ArtCard.png?w=3840&q=90&fm=webp)
-
-[New ways to learn and teach with ChatGPT Work and CodexProductAug 4, 2026](</index/learn-teach-chatgpt-work-codex/>)
-
-![price-performance-frontier art-card 1x1](https://images.ctfassets.net/kftzwdyauwt9/38nqRc3lEvizMieZlPcd98/25da92d68f02fcc40d5a4dc48cca96cd/price-performance-frontier_art-card_1x1.png?w=3840&q=90&fm=webp)
-
-[Advancing the price-performance frontier with GPT 5.6ProductJul 30, 2026](</index/advancing-the-price-performance-frontier-with-gpt-5-6/>)
 
 Research
 

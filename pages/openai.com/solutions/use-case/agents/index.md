@@ -26,14 +26,6 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 OpenAI
 
-New
-
-### Introducing ChatGPT Work: 
-
-A new agent in ChatGPT that helps teams turn ambitious goals into finished work—with enterprise controls and governance built in.
-
-[Learn more](</chatgpt-work/>)
-
 OpenAI for agentic workflows 
 
 # AI agents that amplify what you do
@@ -229,6 +221,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

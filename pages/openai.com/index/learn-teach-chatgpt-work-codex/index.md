@@ -68,7 +68,7 @@ The new plugins include one for college students, one for K–12 educators, and 
 
 We have been focused on partnering with schools and universities to make AI available in secure, institution-managed environments. Introduced in 2024, [ChatGPT Edu](</business/solutions/education/>) gives educational institutions managed workspaces with enterprise-level privacy, security, and administrative controls. [ChatGPT for Teachers⁠(opens in a new window)](<https://chatgpt.com/plans/k12-teachers/>), introduced in 2025, is free for verified U.S. K–12 educators and districts and offers education-grade protections and compliance features. School and district leaders can claim their domain to bring educators into a shared workspace with greater oversight and guidance, including protections to support FERPA requirements and a data privacy agreement. 
 
-The K–12 Educator plugin is designed to help teachers plan and create for their classrooms. Developed alongside K–12 educators, it can work with the materials and tools teachers already use to create differentiated resources, design interactive visuals, and surface actionable insights. It also integrates with [Learning Commons⁠(opens in a new window)](<https://learningcommons.org/>), a philanthropic organization that funds and builds public AI datasets and resources to help bring more learning science into classrooms, which allows teachers to create materials aligned to local academic standards, the granular learning components beneath them, and the progressions that connect prior and future learning, while remaining in control of pedagogical decisions, grading, and agentic actions.
+The K–12 Educator plugin is designed to help teachers plan and create for their classrooms. Developed alongside K–12 educators, it can work with the materials and tools teachers already use to create differentiated resources, design interactive visuals, and surface actionable insights. It also integrates with [Learning Commons⁠⁠(opens in a new window)](<https://learningcommons.org/>), a philanthropic organization that funds and builds public AI datasets and resources to help bring more learning science into classrooms, which allows teachers to create materials aligned to local academic standards, the granular learning components beneath them, and the progressions that connect prior and future learning, while remaining in control of pedagogical decisions, grading, and agentic actions.
 
 This work reflects what we’ve learned through our engagement with educators, including our partnership with the [American Federation of Teachers](</global-affairs/aft/>) (AFT). OpenAI is the founding partner in the National Academy for AI Instruction, a five-year initiative to equip 400,000 K–12 educators—about one in every 10 teachers in the US—to use AI effectively and lead the way in shaping how AI is taught and used in classrooms across the country.
 
@@ -183,15 +183,17 @@ OpenAI
 
 [View all](</news/>)
 
+![OAI AdsTest Blog ArtCard 1x1](https://images.ctfassets.net/kftzwdyauwt9/7drPwCnD6ied4wPzlJd7qa/d79ccfda974080bbca7d688ad9bcbc6f/OAI_AdsTest_Blog_ArtCard_1x1.png?w=3840&q=90&fm=webp)
+
+[Testing ads in ChatGPTCompanyAug 11, 2026](</index/testing-ads-in-chatgpt/>)
+
+![Daybreak with AWS 1x1](https://images.ctfassets.net/kftzwdyauwt9/3u4XKQVExOBSWxMiiPMmpg/31dffb070dae6251a5fac4e46ec241dc/Art_card.png?w=3840&q=90&fm=webp)
+
+[Daybreak models are now available on AWSProductAug 11, 2026](</index/daybreak-models-are-now-available-on-aws/>)
+
 ![Premium seats are coming to ChatGPT Business - Cover](https://images.ctfassets.net/kftzwdyauwt9/3C1p8T3c9oQN6T6gjOjDnD/4c3afdba8f3f226302d50c004a785fd0/premium-seats-cover-square.png?w=3840&q=90&fm=webp)
 
 [Premium seats are coming to ChatGPT BusinessProductAug 10, 2026](</index/premium-seats-chatgpt-business/>)
-
-[Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free usersProductAug 6, 2026](</index/improving-gpt-5-6-sol-in-chatgpt/>)
-
-![price-performance-frontier art-card 1x1](https://images.ctfassets.net/kftzwdyauwt9/38nqRc3lEvizMieZlPcd98/25da92d68f02fcc40d5a4dc48cca96cd/price-performance-frontier_art-card_1x1.png?w=3840&q=90&fm=webp)
-
-[Advancing the price-performance frontier with GPT 5.6ProductJul 30, 2026](</index/advancing-the-price-performance-frontier-with-gpt-5-6/>)
 
 Research
 

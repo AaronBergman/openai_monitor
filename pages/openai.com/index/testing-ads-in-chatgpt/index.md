@@ -26,7 +26,7 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-May 7, 2026
+August 11, 2026
 
 [Company](</news/company-announcements/>)[Product](</news/product-releases/>)
 
@@ -58,7 +58,13 @@ Mission alignment
 
 
 
- _**Update on May 7, 2026**_ _: In the coming weeks, we plan to expand the ads pilot in ChatGPT in the United Kingdom, Mexico, Brazil, Japan, and South Korea._
+** _Update on August 11, 2026:_**_ChatGPT Ads has now launched in the United Kingdom, Mexico, Brazil, Japan, and South Korea. We’re continuing to expand to more markets this year._
+
+_Businesses interested in advertising in ChatGPT can visit_[ _openai.com/advertisers/_ ⁠(opens in a new window)](<https://ads.openai.com/>)_to sign up for updates._
+
+* * *
+
+_**Update on May 7, 2026**_ _: In the coming weeks, we plan to expand the ads pilot in ChatGPT in the United Kingdom, Mexico, Brazil, Japan, and South Korea._
 
 _These pilots will help us understand what works well in different regions, so we can continue improving the experience as we expand._
 
@@ -137,17 +143,17 @@ OpenAI
 
 [View all](</news/>)
 
-![Health in ChatGPT > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/48aIp3cQOKJ57vpQeqOb8y/2e8732bcad5ceea1c7b20cf001bd2823/1_1_Art_Card.png?w=3840&q=90&fm=webp)
+![Daybreak with AWS 1x1](https://images.ctfassets.net/kftzwdyauwt9/3u4XKQVExOBSWxMiiPMmpg/31dffb070dae6251a5fac4e46ec241dc/Art_card.png?w=3840&q=90&fm=webp)
 
-[Launching Health in ChatGPT ProductJul 23, 2026](</index/health-in-chatgpt/>)
+[Daybreak models are now available on AWSProductAug 11, 2026](</index/daybreak-models-are-now-available-on-aws/>)
 
-![How news organizations are using AI > Card Image](https://images.ctfassets.net/kftzwdyauwt9/5nTzxwRy4Is9PQSluyYkWP/d6e7953a692a5a8c926885e2f50a3427/how_news_orgs_use_AI_1x1.png?w=3840&q=90&fm=webp)
+![What building an AI-native finance function taught me > Card image](https://images.ctfassets.net/kftzwdyauwt9/5XpkKoVszSTwJPjcwrvcNG/1e02d9b53b07d25b4cf517da6bd454eb/Frame__14_.png?w=3840&q=90&fm=webp)
 
-[How news organizations use AI to advance their vital missionsCompanyJul 22, 2026](</index/how-news-organizations-are-using-ai/>)
+[What building an AI-native finance function taught meCompanyAug 10, 2026](</index/building-an-ai-native-finance-function/>)
 
-![OpenAI Presence 1x1](https://images.ctfassets.net/kftzwdyauwt9/5JBDenSGI6wx5CMPPlaM5J/da9d8e27a0bd70d845a816b28ac641a9/OpenAI_Presence_1x1.png?w=3840&q=90&fm=webp)
+![Daybreak partners 1x1](https://images.ctfassets.net/kftzwdyauwt9/3AQ3qKm4Rmbjm2C1cLKvkJ/d049df2fdc96d1c5dfc695f00c257ce2/Art_Card.png?w=3840&q=90&fm=webp)
 
-[Introducing OpenAI PresenceProductJul 22, 2026](</index/introducing-openai-presence/>)
+[Putting frontier cyber models in more trusted handsSecurityAug 10, 2026](</index/putting-frontier-cyber-models-in-more-trusted-hands/>)
 
 Research
 
