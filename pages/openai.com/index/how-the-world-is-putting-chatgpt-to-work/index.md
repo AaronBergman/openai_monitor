@@ -71,7 +71,7 @@ For the first time, OpenAI is publishing country-by-country data showing how peo
 
 Taken together, the data points to a clear shift: AI is no longer just helping people find answers. It is helping more people, in more places, get things done. 
 
-This new data is available to view or download on [_OpenAI Signals_](</signals/>) , our hub for data, research, and analysis, from the OpenAI Economic Research Team. These country-level statistics will help people, including policymakers and researchers around the world, better understand how more than 1 billion people are putting ChatGPT to work. 
+This new data is available to view or download on [OpenAI Signals⁠](</signals/>), our hub for data, research, and analysis, from the OpenAI Economic Research Team. These country-level statistics will help people, including policymakers and researchers around the world, better understand how more than 1 billion people are putting ChatGPT to work. 
 
 The Signals dataset specifically reflects messages sent within ChatGPT Free, Go, Plus, and Pro accounts—the group of accounts generally managed by individuals rather than organizations.
 
@@ -83,9 +83,9 @@ This type of work includes applications such as editing, coding, or conducting a
 
 ## The adoption gap is closing
 
-Continuing the steadily climbing trend worldwide documented in [_June_](</index/how-chatgpt-adoption-has-expanded/>) , the countries and regions that began their AI journeys with lower ChatGPT per-capita adoption rates are gradually catching up to the established early adopters. 
+Continuing the steadily climbing trend worldwide documented in [June⁠](</index/how-chatgpt-adoption-has-expanded/>), the countries and regions that began their AI journeys with lower ChatGPT per-capita adoption rates are gradually catching up to the established early adopters. 
 
-For Q2 2026, our team updated our usage rankings across countries (see previous quarterly rankings [_here_](</signals/research/2026q1-update/>)). The chart below shows how the per-capita leaderboard changed since the first quarter of 2026. 
+For Q2 2026, our team updated our usage rankings across countries (see previous quarterly rankings [here⁠](</signals/research/2026q1-update/>)). The chart below shows how the per-capita leaderboard changed since the first quarter of 2026. 
 
 Notably, in the second quarter, usage in parts of Latin America, Oceania, and Africa increased faster than usage in other parts of the world, with Peru, Uruguay, and Costa Rica rising the most among countries in global rankings. Adoption continues to rise in North America and Europe, but parts of the Southern Hemisphere are catching up in per-capita adoption rates.
 
@@ -97,7 +97,7 @@ Note: For 144 countries, blue indicates an improvement in rank, brown a decline,
 
 ## Multimedia use is the fastest growing use case for ChatGPT
 
-As new capabilities emerge, specific use cases command people’s attention and drive adoption. Take multimedia generation, analysis, and retrieval, for example. Since the release of [_ChatGPT Images 2.0_](</index/introducing-chatgpt-images-2-0/>) in April 2026, the share of messages across the world focused on multimedia use increased to 7.8%. While it still lags behind the leading use cases of practical guidance, writing, and information-seeking, multimedia use has been on a consistent upswing year-to-date.
+As new capabilities emerge, specific use cases command people’s attention and drive adoption. Take multimedia generation, analysis, and retrieval, for example. Since the release of [ChatGPT Images 2.0⁠](</index/introducing-chatgpt-images-2-0/>) in April 2026, the share of messages across the world focused on multimedia use increased to 7.8%. While it still lags behind the leading use cases of practical guidance, writing, and information-seeking, multimedia use has been on a consistent upswing year-to-date.
 
 ## Latin American countries stand out in using ChatGPT to make & analyze media
 
@@ -125,7 +125,7 @@ Note: Three-month trailing share of self-reported, age-classified individual mes
 
 ## More about OpenAI Signals
 
-OpenAI Signals is the OpenAI Economic Research team’s platform for sharing our data and research with the world. In addition to our [_research_](</signals/research/>) , we publish regular updates on how [_individuals_](</signals/data/>) and [_businesses_ ⁠](<https://openai.com/signals/b2b/>) use ChatGPT. We encourage you to download the data [_here_](</signals/data-download/>) and explore our methodology [_here_ ⁠(opens in a new window)](<https://cdn.openai.com/signals/data-dictionary.pdf>).
+OpenAI Signals is the OpenAI Economic Research team’s platform for sharing our data and research with the world. In addition to our [research⁠](</signals/research/>), we publish regular updates on how [individuals⁠](</signals/data/>) and [_businesses_ ⁠](<https://openai.com/signals/b2b/>) use ChatGPT. We encourage you to download the data [here⁠](</signals/data-download/>) and explore our methodology [_here_ ⁠(opens in a new window)](<https://cdn.openai.com/signals/data-dictionary.pdf>).
 
   * [2026](</news/?tags=2026>)
   * [Economic Research](</news/?tags=economic-research>)
@@ -141,6 +141,10 @@ OpenAI
 
 [View all](</news/>)
 
+![OAI AdsTest Blog ArtCard 1x1](https://images.ctfassets.net/kftzwdyauwt9/7drPwCnD6ied4wPzlJd7qa/d79ccfda974080bbca7d688ad9bcbc6f/OAI_AdsTest_Blog_ArtCard_1x1.png?w=3840&q=90&fm=webp)
+
+[Testing ads in ChatGPTCompanyAug 11, 2026](</index/testing-ads-in-chatgpt/>)
+
 ![What building an AI-native finance function taught me > Card image](https://images.ctfassets.net/kftzwdyauwt9/5XpkKoVszSTwJPjcwrvcNG/1e02d9b53b07d25b4cf517da6bd454eb/Frame__14_.png?w=3840&q=90&fm=webp)
 
 [What building an AI-native finance function taught meCompanyAug 10, 2026](</index/building-an-ai-native-finance-function/>)
@@ -148,10 +152,6 @@ OpenAI
 ![Daybreak partners 1x1](https://images.ctfassets.net/kftzwdyauwt9/3AQ3qKm4Rmbjm2C1cLKvkJ/d049df2fdc96d1c5dfc695f00c257ce2/Art_Card.png?w=3840&q=90&fm=webp)
 
 [Putting frontier cyber models in more trusted handsSecurityAug 10, 2026](</index/putting-frontier-cyber-models-in-more-trusted-hands/>)
-
-![APA partnership > card image](https://images.ctfassets.net/kftzwdyauwt9/7Iu2mNExtUq2EqstK69WkH/7fb0f37c3c69d9481f8ea803af7ae613/openai-and-apa-advance-responsible-ai-for-youth-1_1.png?w=3840&q=90&fm=webp)
-
-[OpenAI and APA advance responsible AI for youthCompanyAug 6, 2026](</index/openai-and-apa-partner-to-advance-responsible-ai/>)
 
 Research
 

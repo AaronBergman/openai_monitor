@@ -41,6 +41,48 @@ Filter
 
 Sort
 
+ChatGPT
+
+Aug 10, 2026
+
+GA
+
+## Restaurant reservations in ChatGPT
+
+ChatGPT can now help you find available restaurant reservations with OpenTable, Resy, and Yelp.
+
+Ask in the chat and include where and when you’d like to eat, your party size, and any preferences, such as cuisine, budget, dietary needs, or atmosphere. You’ll see available reservation times directly in the response. You can also ask follow-up questions to narrow your options or check a specific restaurant. When you find a time that works, select it to book it.
+
+Rolling out across all ChatGPT plans on mobile, web, and desktop. Reservations are available globally with OpenTable and in the US with Resy and in the US and Canada with Yelp. ChatGPT Work does not include restaurant reservation search.
+
+[View source(opens in a new window)](<https://help.openai.com/en/articles/6825453-chatgpt-release-notes#restaurant-reservations-in-chatgpt>)
+
+ChatGPT
+
+Aug 7, 2026
+
+GA
+
+## Files and Projects in ChatGPT Voice
+
+GPT‑Live in ChatGPT Voice now supports file uploads and Projects. You can now upload files in a voice conversation and analyze its contents or ask questions. You can also use voice in Projects, referencing recent project chats, sources, and project instructions.
+
+For Enterprise, Edu, and Healthcare workspaces, Live is now the default Voice experience when a workspace owner enables Voice - the Early Model Access setting enablement is no longer required. Workspace owners can turn off Voice by disabling Voice in workspace settings.
+
+[View source(opens in a new window)](<https://help.openai.com/en/articles/6825453-chatgpt-release-notes#files-and-projects-in-chatgpt-voice>)[Help center(opens in a new window)](<https://help.openai.com/en/articles/11391654-chatgpt-business-release-notes#files-and-projects-in-chatgpt-voice>)[Help center(opens in a new window)](<https://help.openai.com/en/articles/10128477-chatgpt-enterprise-edu-release-notes#files-and-projects-in-chatgpt-voice>)
+
+API
+
+Aug 6, 2026
+
+GA
+
+## Updated chat-latest snapshot for GPT-5.6
+
+Updated the chat-latest snapshot, which points to the latest model available in ChatGPT for Plus and Pro users. We recommend leveraging GPT‑5.6 Sol for production API usage, but feel free to use this model to test the latest improvements for chat use cases. The underlying model snapshot will be regularly updated.
+
+[View source(opens in a new window)](<https://developers.openai.com/api/docs/models/chat-latest>)[Platform docs(opens in a new window)](<https://developers.openai.com/api/docs/models/gpt-5.6-sol>)[Platform docs(opens in a new window)](<https://developers.openai.com/api/docs/changelog>)
+
 API
 
 Aug 5, 2026
@@ -64,57 +106,6 @@ GA
 Customers can now filter and group data by API key in the Usage and Costs dashboards. The Usage API and Costs API also support the API key dimension for programmatic reporting and analysis.
 
 [View source(opens in a new window)](<https://developers.openai.com/api/reference/resources/admin/subresources/organization/subresources/usage>)[Platform docs(opens in a new window)](<https://developers.openai.com/api/reference/resources/admin/subresources/organization/subresources/usage/methods/costs>)[Admin console(opens in a new window)](<https://platform.openai.com/settings/organization/usage>)
-
-Codex
-
-Aug 4, 2026
-
-GA
-
-## Education plugins for teaching and learning
-
-ChatGPT Edu workspaces now have access to three guided plugins in ChatGPT Work and Codex: College Educator, K–12 Educator, and College Student. ChatGPT for Teachers workspaces managed through a district domain claim have access to K–12 Educator. These plugins can help educators create lessons, assessments, and communications grounded in course materials, and help college students build study plans and practice course concepts.
-
-  * College Educator: Helps faculty design and update courses and syllabi, create interactive learning materials and multimedia assessments, adapt materials for diverse learners, and package content for their LMS.
-
-  * K–12 Educator: Helps teachers create lesson materials, assignments, rubrics, and instructional resources, with Learning Commons context for aligning materials to state standards and learning progressions.
-
-  * College Student: Helps students use course materials and a Study Goal to get source-grounded explanations, guided practice, study plans, quizzes, flashcards, and visual explanations.
-
-
-
-
-The plugins are available in the Plugin Directory but are not installed by default. Note that these plugins are not available to Enterprise accounts. Workspace admins can manage plugin availability and permissions.
-
-[View source(opens in a new window)](<https://help.openai.com/en/articles/10128477-chatgpt-enterprise-edu-release-notes#education-plugins-for-teaching-and-learning>)[Help center(opens in a new window)](<https://help.openai.com/en/articles/20001256>)
-
-ChatGPT
-
-Aug 4, 2026
-
-GA
-
-## Migrate usage limits from weekly to monthly
-
-Workspace owners can now migrate weekly limits configured in Permissions & roles to monthly limits conveniently. Open Workspace settings → Permissions & roles, select any role, scroll to Weekly limits, choose Migrate, and confirm. Starting the migration from any role moves all remaining weekly role-based limits in the workspace and may take several minutes, depending on workspace size.
-
-On August 15, remaining ChatGPT Enterprise workspaces that still use weekly role-based spend limits are scheduled to move automatically to monthly usage limits.
-
-[View source(opens in a new window)](<https://help.openai.com/en/articles/10128477-chatgpt-enterprise-edu-release-notes#migrate-usage-limits-from-weekly-to-monthly>)[Help center(opens in a new window)](<https://help.openai.com/en/articles/20001001>)
-
-ChatGPT
-
-Jul 31, 2026
-
-Sunset
-
-## Retiring the DALL·E GPT
-
-On August 30, 2026, we’re retiring the official DALL·E GPT in ChatGPT. We encourage you to download any images you want to keep before then.
-
-To continue creating or editing images, use ChatGPT Images. User-created GPTs with image generation enabled are not affected.
-
-[View source(opens in a new window)](<https://help.openai.com/en/articles/6825453-chatgpt-release-notes#retiring-the-dalle-gpt>)[Help center(opens in a new window)](<https://help.openai.com/en/articles/11084440-images-in-chatgpt>)
 
 Load more
 

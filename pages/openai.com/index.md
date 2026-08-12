@@ -115,17 +115,17 @@ ProductJul 23, 20267 min read](</index/health-in-chatgpt/>)
 
 [View all](</business/customer-stories/>)
 
-![oai Choco 1x1](https://images.ctfassets.net/kftzwdyauwt9/2A9IYNIXnFR7s8lAQ9BKby/c98bd4af069478f3317f7d2d6aa98cc2/oai_Choco_1x1.png?w=3840&q=90&fm=webp)
+![Model ML customer story card image](https://images.ctfassets.net/kftzwdyauwt9/3STNMQMrFRC8mFdLYtjkV4/9cc21e9c729b2ae7cdf75aa3f49b3033/modelml-card.png?w=3840&q=90&fm=webp)
 
-[Choco automates food distribution with AI agentsApr 27, 2026](</index/choco/>)
+[Model ML completes finance work more efficiently with GPT-5.6 SolStartupAug 10, 2026](</index/model-ml/>)
 
-![oai CyberAgent 1x1](https://images.ctfassets.net/kftzwdyauwt9/4QsBeXNSb2qFXZHe4SQ1hb/6cf266e7e4e2482688290cbc159b762c/oai_CyberAgent_1x1.png?w=3840&q=90&fm=webp)
+![Virgin Atlantic ChatGPT Work card image](https://images.ctfassets.net/kftzwdyauwt9/4G2F8rchz4lfJxdQGBYEb0/e367ed4f9ac0a5cfe505ddb1eed20393/oai_VirginAtlantic_1x1.png?w=3840&q=90&fm=webp)
 
-[CyberAgent moves faster with ChatGPT Enterprise and CodexApr 9, 2026](</index/cyberagent/>)
+[Virgin Atlantic sharpens customer journeys with ChatGPT WorkAug 10, 2026](</index/virgin-atlantic/chatgpt-work/>)
 
-![oai GradientLabs 1x1](https://images.ctfassets.net/kftzwdyauwt9/5KZQBYyY2LBtllikqf9aul/6143158d9c259eed5aafb47cdac9bcdd/oai_GradientLabs_1x1.png?w=3840&q=90&fm=webp)
+![Zapier customer story 1x1 artcard](https://images.ctfassets.net/kftzwdyauwt9/6HUH0KlGRmTuI2IZ6h334C/3c78b804553f7184f6d72c9b33a668c3/oai_Zapier_1x1.png?w=3840&q=90&fm=webp)
 
-[Gradient Labs gives every bank customer an AI account managerStartupApr 1, 2026](</index/gradient-labs/>)
+[How Zapier transformed core marketing processes with ChatGPT WorkAug 10, 2026](</index/zapier/>)
 
 ## Get started with ChatGPT
 
