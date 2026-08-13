@@ -59,6 +59,18 @@ Rolling out across all ChatGPT plans on mobile, web, and desktop. Reservations a
 
 ChatGPT
 
+Aug 10, 2026
+
+Sunset
+
+## Retiring individual-user sync for connected apps
+
+Starting August 10, new individually authorized sync connections will no longer be available. On August 14, existing individual-user sync connections will be disabled, and deletion of associated synced data will begin. Administrator-managed sync is unaffected. By August 14, review your workspace’s connector settings and take the applicable actions listed in the Help Center.
+
+[View source(opens in a new window)](<https://help.openai.com/en/articles/10128477-chatgpt-enterprise-edu-release-notes#retiring-individual-user-sync-for-connected-apps>)
+
+ChatGPT
+
 Aug 7, 2026
 
 GA
@@ -94,18 +106,6 @@ GA
 Fast mode now supports long-context requests for GPT‑5.6 Sol, GPT‑5.6 Terra, and GPT‑5.6 Luna. As of today, long-context prompts exceeding 272K tokens can run in Fast mode, delivering speeds up to 2.5× faster than the Standard tier.
 
 [View source(opens in a new window)](<https://developers.openai.com/api/docs/guides/fast-mode>)[Platform docs(opens in a new window)](<https://developers.openai.com/api/docs/pricing?latest-pricing=fast>)[Platform docs(opens in a new window)](<https://developers.openai.com/api/docs/changelog>)
-
-API
-
-Aug 4, 2026
-
-GA
-
-## API key filtering for Usage and Costs reporting
-
-Customers can now filter and group data by API key in the Usage and Costs dashboards. The Usage API and Costs API also support the API key dimension for programmatic reporting and analysis.
-
-[View source(opens in a new window)](<https://developers.openai.com/api/reference/resources/admin/subresources/organization/subresources/usage>)[Platform docs(opens in a new window)](<https://developers.openai.com/api/reference/resources/admin/subresources/organization/subresources/usage/methods/costs>)[Admin console(opens in a new window)](<https://platform.openai.com/settings/organization/usage>)
 
 Load more
 

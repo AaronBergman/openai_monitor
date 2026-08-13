@@ -34,7 +34,7 @@ Browse the data to see global individual ChatGPT adoption patterns, geographic d
 
 How people use ChatGPTUsage by regionUsage by different groups
 
-On this page, you can find regularly updated, privacy-preserving insights on adoption and real-world use of individual ChatGPT use. This analysis is based on a sample of messages between July 2024 and June 2026. This dataset reflects only messages within ChatGPT Free, Go, Plus, and Pro accounts, which are accounts generally managed by individuals rather than institutions. For more information on how organizations are using AI, please visit Enterprise Signals [here](</signals/b2b/>)⁠.
+On this page, you can find regularly updated, privacy-preserving insights on adoption and real-world use of individual ChatGPT use. This analysis is based on a sample of messages between July 2024 and June 2026. This dataset reflects only messages within ChatGPT Free, Go, Plus, and Pro accounts, which are accounts generally managed by individuals rather than institutions. For more information on how organizations are using AI, please visit Enterprise Signals [here](</signals/enterprise-data/>)⁠.
 
 Find the time series data to download for your own research [here _⁠_](</signals/data-download/>).
 
@@ -120,11 +120,11 @@ Download data and understand the methodology behind what we have published.
 
 ![Signals > Layout > Group > Footer > Cards > B2B Signals > Media > Asset](https://images.ctfassets.net/kftzwdyauwt9/dgxKw1vos15b7gFpzM3h2/0d7a2bcf630478821773d64afb29a33b/b2b.png?w=3840&q=90&fm=webp)
 
-### Signals B2B data
+### Enterprise Signals data
 
-Learn how AI is accelerating enterprise advantage through deeper integration, agentic workflows, and scaled adoption.
+OpenAI’s Enterprise Signals tracks AI adoption across industries and business functions. Explore the frontier gap, agentic work, and enterprise usage data.
 
-[Learn more](</signals/b2b/>)
+[Learn more](</signals/enterprise-data/>)
 
 Research
 

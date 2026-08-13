@@ -86,11 +86,11 @@ Research and analysis on how AI is being adopted and its impact on the economy a
 
 ![Signals > Layout > Group > Footer > Cards > B2B Signals > Media > Asset](https://images.ctfassets.net/kftzwdyauwt9/dgxKw1vos15b7gFpzM3h2/0d7a2bcf630478821773d64afb29a33b/b2b.png?w=3840&q=90&fm=webp)
 
-### Signals B2B data
+### Enterprise Signals data
 
-Learn how AI is accelerating enterprise advantage through deeper integration, agentic workflows, and scaled adoption.
+OpenAI’s Enterprise Signals tracks AI adoption across industries and business functions. Explore the frontier gap, agentic work, and enterprise usage data.
 
-[Learn more](</signals/b2b/>)
+[Learn more](</signals/enterprise-data/>)
 
 Research
 

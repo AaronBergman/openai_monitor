@@ -210,6 +210,10 @@ Nablon AI
 
 ![Nablon AI logo](https://images.ctfassets.net/kftzwdyauwt9/7q9cw4RwHk5qwqf6l70qWw/b1a64105dfc1c06a9da8323065fec9aa/phia-select-48-squareLight.svg?w=3840&q=90)
 
+Nagarro
+
+![Nagarro square logo](https://images.ctfassets.net/kftzwdyauwt9/ii271qmQ49t4oeUmkczwL/21e9a8a94ef9b8492bb533bb8cc787ff/square-light.svg?w=3840&q=90)
+
 NTT DATA
 
 ![NTT DATA logo](https://images.ctfassets.net/kftzwdyauwt9/4mU16WlH0VDLJE5rOMA8sw/2cd075f9af2dc5273f01fd605b1332d6/ntt-data-square-light.svg?w=3840&q=90)
@@ -461,6 +465,10 @@ ML6
 Nablon AI
 
 ![Nablon AI logo](https://images.ctfassets.net/kftzwdyauwt9/7q9cw4RwHk5qwqf6l70qWw/b1a64105dfc1c06a9da8323065fec9aa/phia-select-48-squareLight.svg?w=3840&q=90)
+
+Nagarro
+
+![Nagarro square logo](https://images.ctfassets.net/kftzwdyauwt9/ii271qmQ49t4oeUmkczwL/21e9a8a94ef9b8492bb533bb8cc787ff/square-light.svg?w=3840&q=90)
 
 NTT DATA
 

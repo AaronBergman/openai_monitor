@@ -26,7 +26,7 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-# Get $100 worth of credits toward your first ChatGPT Business Premium seat
+# Get up to $500 worth of credits toward your first ChatGPT Business Premium Seats
 
 Premium seats are coming soon to [ChatGPT Business⁠(opens in a new window)](<https://chatgpt.com/business/>)1. Up to 10,000 eligible workspaces that sign up before August 20, 2026 can receive $100 in workspace credits (2,500 credits) for each qualifying Premium seat they add, up to five seats2.
 

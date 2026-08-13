@@ -80,7 +80,7 @@ Bring frontier AI cyber capability into the tools and services your organization
 
 [Explore Daybreak Partners](</daybreak/partners/>)
 
-![Grid of logos for partners in OpenAI's Daybreak program](https://images.ctfassets.net/kftzwdyauwt9/74voRueAWUGEB0IqeZIEiM/7f5a6fd9e5cada85ff9732fd3927e0be/logo_cloud_for_codex__4_.png?w=3840&q=90&fm=webp)
+![Grid of logos for partners in OpenAI's Daybreak program](https://images.ctfassets.net/kftzwdyauwt9/5ocZoT8igzu8jMNPRXeqQR/064c12ba33187fec3cb55da3b5c8b835/logo_cloud_for_codex__3_.png?w=3840&q=90&fm=webp)
 
 ## Fixing the software the world runs on
 

@@ -47,8 +47,8 @@ Submit a project built with Codex for a chance to be recognized by OpenAI, with 
 July 13| Challenge opens  
 ---|---  
 July 21| Submission deadline  
-July 22—August 7| Judging period  
-August 12| Winners announced  
+July 22—August 24| Judging period  
+August 25| Winners announced  
   
 ## Meet the judges
 

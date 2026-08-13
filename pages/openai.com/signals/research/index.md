@@ -34,6 +34,8 @@ OpenAI’s Economic Research team periodically publishes reports and analysis on
 
 Explore the latest resources below, including country-focused Signals reports, research on how people use ChatGPT, and briefings on enterprise adoption and productivity outcomes.
 
+### [How organizations use AI: Evidence from ChatGPTAugust 2026 | Research examining how ChatGPT Enterprise has spread within and across organizations over the past two years.Learn more](<https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf>)
+
 ### [How AI is expanding what people do at workJuly 2026 | An analysis of how occupation-specific tasks spread across job boundaries.Learn more](<https://openai.com/index/how-ai-is-expanding-what-people-do-at-work/>)
 
 ### [The AI jobs transition framework for the EUJune 2026 | A map of near-term job impacts of AI in the EU labor market.Learn more](<https://cdn.openai.com/pdf/the-ai-jobs-transition-framework-for-the-eu.pdf>)
@@ -59,8 +61,6 @@ Explore the latest resources below, including country-focused Signals reports, r
 ### [Ending the capability overhangJanuary 2026 | Proposals to close the gap between what AI tools can do and how users are using them.Learn more](<https://cdn.openai.com/pdf/openai-ending-the-capability-overhang.pdf>)
 
 ### [State of enterprise AI 2025December 2025 | A comprehensive look at how enterprises are adopting AI.Learn more](<https://cdn.openai.com/pdf/7ef17d82-96bf-4dd1-9df2-228f7f377a29/the-state-of-enterprise-ai_2025-report.pdf>)
-
-### [How people use ChatGPTSeptember 2025 | The Economic Research Teams’ NBER paper on how people are using ChatGPT.Learn more](<https://cdn.openai.com/pdf/a253471f-8260-40c6-a2cc-aa93fe9f142e/economic-research-chatgpt-usage-paper.pdf>)
 
 ### Discover more
 
@@ -90,11 +90,11 @@ A hub for data, research, analysis, and stories from the OpenAI Economic Researc
 
 ![Signals > Layout > Group > Footer > Cards > B2B Signals > Media > Asset](https://images.ctfassets.net/kftzwdyauwt9/dgxKw1vos15b7gFpzM3h2/0d7a2bcf630478821773d64afb29a33b/b2b.png?w=3840&q=90&fm=webp)
 
-### Signals B2B data
+### Enterprise Signals data
 
-Learn how AI is accelerating enterprise advantage through deeper integration, agentic workflows, and scaled adoption.
+OpenAI’s Enterprise Signals tracks AI adoption across industries and business functions. Explore the frontier gap, agentic work, and enterprise usage data.
 
-[Learn more](</signals/b2b/>)
+[Learn more](</signals/enterprise-data/>)
 
 Research
 
