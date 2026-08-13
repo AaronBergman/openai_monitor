@@ -32,17 +32,7 @@ Create marketing campaigns.
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_693b20fccbac8191bdc178bb493de3e5>)[Contact sales](</contact-sales/>)
 
-@Intuit Mailchimp Create a performance-driven campaign for Oat Lord to boost Q1 revenue
-
-![@Intuit Mailchimp Create a performance-driven campaign for Oat Lord to boost Q1 revenue](https://files.openai.com/content?id=file_00000000a97471f7b69bffdb322cf599&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=7&sig=9c67e974aa4251e5b413c55ffb97398579cd19c71b2fce93e332029f8a6af01b&v=0)
-
-@Intuit Mailchimp Make this sound punchier
-
-![@Intuit Mailchimp Make this sound punchier](https://files.openai.com/content?id=file_00000000e95071f7be5dd632ed40810a&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=7&sig=2a4efe942a01b6b1f59bd4cf208dee1a92a16bc3fb3dbb3a75409987d74efebc&v=0)
-
-@Intuit Mailchimp Summarize the performance of my campaigns in the last 30 days
-
-![@Intuit Mailchimp Summarize the performance of my campaigns in the last 30 days](https://files.openai.com/content?id=file_000000008e4471f7b4dd6371ebb36caf&cdn=1&cp=pi&ma=30758400&ts=0&p=pi&cid=8&sig=e6c1d56cfb9e9b01c7bb749d58af58ed37f243b72294277c50d668b1d481b3e3&v=0)
+[@Intuit Mailchimp I run a neighborhood fitness studio. Help me plan a campaign to bring back inactive members.(opens in a new window)](<https://chatgpt.com/?prompt=%40Intuit+Mailchimp+I+run+a+neighborhood+fitness+studio.+Help+me+plan+a+campaign+to+bring+back+inactive+members.>)[@Intuit Mailchimp Pull last week’s Mailchimp performance and summarize what changed for my Monday business review.(opens in a new window)](<https://chatgpt.com/?prompt=%40Intuit+Mailchimp+Pull+last+week%E2%80%99s+Mailchimp+performance+and+summarize+what+changed+for+my+Monday+business+review.>)[@Intuit Mailchimp What changed in my audience this month, and what should I do about it?(opens in a new window)](<https://chatgpt.com/?prompt=%40Intuit+Mailchimp+What+changed+in+my+audience+this+month%2C+and+what+should+I+do+about+it%3F>)
 
 Use case: [Go-to-Market](</business/plugins/?tab=apps-go-to-market>)
 

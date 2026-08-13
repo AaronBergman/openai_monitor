@@ -108,7 +108,7 @@ Guidance for coding, tasks, and workflows with Codex.
 
 Learn how to get started with ChatGPT Work and use it for everyday work.
 
-[Learn more](</academy/codex-for-work/>)
+[Learn more](</academy/chatgpt-work/>)
 
 ![Academy Hub > Layout > Group > Categories > Building with AI > Media > Asset](https://images.ctfassets.net/kftzwdyauwt9/16ClwJMGpPN3flMrO4DXyL/aa1ead4fd9a3c861f19f96505d347e08/Building_1_1.png?w=3840&q=90&fm=webp)
 

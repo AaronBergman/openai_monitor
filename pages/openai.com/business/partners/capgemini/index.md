@@ -38,7 +38,7 @@ OpenAI
 
 Capgemini is an AI-powered global business and technology transformation partner, delivering tangible business value. We imagine the future of organizations and make it real with AI, technology and people. With our strong heritage of nearly 60 years, we are a responsible and diverse group of over 420,000 team members in more than 50 countries. We deliver end-to-end services and solutions with our deep industry expertise and strong partner ecosystem, leveraging our capabilities across strategy, technology, design, engineering and business operations. The Group reported 2025 global revenues of €22.5 billion. Make it real.
 
-![Elite Partner](/images/partner-tier-badges/OAI_PartnerNetwork_ElitePartner.svg?dpl=dpl_4BCDoauaaZ4vvxsT2ZNWHLfWG4mF)
+![Elite Partner](/images/partner-tier-badges/OAI_PartnerNetwork_ElitePartner.svg?dpl=dpl_37wqbAieMVCxtpSmT3a3B2b8uJ9o)
 
 Countries served
     Global
@@ -46,8 +46,8 @@ Countries served
 Industry
     Cross-industry
 
-Joint partners
-    AWS and Oracle
+Program partners
+    AWS, Daybreak, and Oracle
 
 Partner Summit 2026 Award
     Industry AI Delivery Award

@@ -42,7 +42,7 @@ The outcomes are what matter. Faster decisions. Stronger controls. More adaptive
 
 A disciplined march to value. From experimentation to enterprise accountability. Designed for what works today — ready for what’s next.
 
-![Advanced Partner](/images/partner-tier-badges/OAI_PartnerNetwork_AdvancedPartner.svg?dpl=dpl_4BCDoauaaZ4vvxsT2ZNWHLfWG4mF)
+![Advanced Partner](/images/partner-tier-badges/OAI_PartnerNetwork_AdvancedPartner.svg?dpl=dpl_37wqbAieMVCxtpSmT3a3B2b8uJ9o)
 
 Countries served
     Global
@@ -50,8 +50,8 @@ Countries served
 Industry
     Cross-industry
 
-Joint partners
-    AWS and Oracle
+Program partners
+    AWS, Daybreak, and Oracle
 
 Partner Summit 2026 Award
     Trusted AI Innovation Award

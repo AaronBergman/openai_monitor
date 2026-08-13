@@ -114,13 +114,17 @@ Browse the data to see global individual ChatGPT adoption patterns, geographic d
 
 ![A blue gradient background with a centered rounded square tile. Inside the tile is a simple dark building icon \(looks like an office or enterprise building\), suggesting a business or B2B theme.](https://images.ctfassets.net/kftzwdyauwt9/36KFfX9yxYUJROg6f4AkMF/d8084e5405b5b694d16b3a21119e0d5b/b2b.png?w=3840&q=90&fm=webp)
 
-#### Signals B2B data
+#### Enterprise Signals data
 
-Learn how AI is accelerating enterprise advantage through deeper integration, agentic workflows, and scaled adoption.
+OpenAI’s Enterprise Signals tracks AI adoption across industries and business functions. Explore the frontier gap, agentic work, and enterprise usage data.
 
-[Learn more](</signals/b2b/>)
+[Learn more](</signals/enterprise-data/>)
 
 ## Recent news
+
+![Signals Homepage > Layout > Group > Recent news > Cards > From assistance to execution: How enterprises put AI to work > Media > Asset](https://images.ctfassets.net/kftzwdyauwt9/P6hw6P5TTfrSPTMPgz02q/83d6979cc3397dcbc07ab8517abecafa/Frame.png?w=3840&q=90&fm=webp)
+
+[How enterprises put AI to work](<https://openai.com/index/how-enterprises-put-ai-to-work/>)
 
 ![Signals Homepage > Layout > Group > Recent news > Cards > From asking to doing: How the world is putting ChatGPT to work > Media > Asset](https://images.ctfassets.net/kftzwdyauwt9/7L5UF79Bvsd6kQ7tMCZQe4/04242c5dd96ac7b6cdbdcaf4f94ca7dc/Art_Card__6_.png?w=3840&q=90&fm=webp)
 
@@ -142,11 +146,9 @@ Learn how AI is accelerating enterprise advantage through deeper integration, ag
 
 [How ChatGPT adoption has expanded](<https://openai.com/index/how-chatgpt-adoption-has-expanded/>)
 
-![Mapping Europe’s AI Workforce Opportunity > Art Card](https://images.ctfassets.net/kftzwdyauwt9/MukVp4OT0P3dokVsonNLh/1f4e4fa8e4de0d941573f906340d6e9b/mapping-europes-ai-workforce-opportunity-art-card.png?w=3840&q=90&fm=webp)
-
-[Mapping Europe’s AI Workforce Opportunity](<https://openai.com/index/mapping-ai-jobs-transition-eu>)
-
 ### Reports
+
+### [How organizations use AI: Evidence from ChatGPTAugust 2026 | Research examining how ChatGPT Enterprise has spread within and across organizations over the past two years.Learn more](<https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf>)
 
 ### [How AI is expanding what people do at workJuly 2026 | An analysis of how occupation-specific tasks spread across job boundaries.Learn more](<https://openai.com/index/how-ai-is-expanding-what-people-do-at-work/>)
 
@@ -165,14 +167,6 @@ Learn how AI is accelerating enterprise advantage through deeper integration, ag
 ### [The AI jobs transition frameworkApril 2026 | Mapping AI’s near-term impact on jobs.Learn more](<https://openai.com/index/modeling-ai-jobs-transition/>)
 
 ### [ChatGPT and the price of workMarch 2026 | How Americans use ChatGPT to help them close the wage information gap.Learn more](<https://cdn.openai.com/pdf/ChatGPT-and-the-price-of-work_report.pdf>)
-
-### [OpenAI SignalsFebruary 2026 | A new resource to measure AI adoption and empower decisions, while protecting privacy.Learn more](<https://cdn.openai.com/signals/openai-signals-global-report.pdf>)
-
-### [How India uses ChatGPTFebruary 2026 | Explore how users in the world’s largest democracy have adopted ChatGPT.Learn more](<https://cdn.openai.com/signals/how-india-uses-chatgpt.pdf>)
-
-### [Ending the capability overhangJanuary 2026 | Proposals to close the gap between what AI tools can do and how users are using them.Learn more](<https://cdn.openai.com/pdf/openai-ending-the-capability-overhang.pdf>)
-
-### [State of enterprise AI 2025December 2025 | A comprehensive look at how enterprises are adopting AI.Learn more](<https://cdn.openai.com/pdf/7ef17d82-96bf-4dd1-9df2-228f7f377a29/the-state-of-enterprise-ai_2025-report.pdf>)
 
   * [View all](</signals/research/>)
 

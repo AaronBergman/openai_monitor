@@ -1,6 +1,53 @@
 # openai_monitor
 
 
+## 2026-08-13 — Run `2026-08-13T09-16Z`
+
+**Fetch time:** 2026-08-13T09:18:35Z UTC | **Baseline:** 2026-08-12T09-19Z (consecutive day)
+
+**TL;DR:** OpenAI published a new flagship enterprise-AI research package today — "Enterprise Signals" plus a companion working paper — showing enterprise AI usage shifting from "assistance" to "execution": Codex now generates 64% of combined Codex+ChatGPT enterprise output tokens, and the heaviest-using "frontier firms" now out-produce typical firms 8.3× per user (up from 2.6× in January). Alongside it, two enterprise product lines got renamed (the old "Codex for Work" academy content is now "ChatGPT Work"; "Signals B2B" is now "Enterprise Signals"), a new release note says ChatGPT Enterprise/EDU is retiring individual-user connector sync (existing connections disabled Aug 14, data then deleted), the Business Premium sign-up credit jumped from $100 to up to $500, and OpenAI's Daybreak cybersecurity partner program picked up Accenture, Capgemini, Cognizant, PwC, EY, and KPMG as newly-listed "Program partners." No timestamp-based anomalies; the known nav-template flip-flop bug (tracked since 2026-08-08) continued on 9 pages.
+
+### Anomalies
+
+None triggered under this repo's defined timestamp-based checks (no future-dated or backwards-moving `<lastmod>`, no backdated new URLs, no reappeared URLs).
+
+**Two URL renames tracking product rebrands:** `/academy/codex-for-work/` (+ 3 child webinar-recap pages) moved to `/academy/chatgpt-work/` — the pages' own copy now explains "these workflows lived in the former Codex app. You can now follow along using ChatGPT Work." Separately, `/signals/b2b/` moved to `/signals/enterprise-data/` (plus a new `/signals/enterprise/intake-form/` lead form), with "Signals B2B data" copy swapped for "Enterprise Signals data" everywhere it was promoted. Both are clean 1:1 renames — same content, new home — not new material.
+
+**4 URLs migrated sub-sitemaps:** `/index/how-countries-can-end-the-capability-overhang/`, `/index/understanding-ai-and-learning-outcomes/`, `/global-affairs/new-economic-analysis/`, and `/index/equipping-workers-with-insights-about-compensation/` moved from the `global-affairs` sub-sitemap to `global-affairs-news-listed` — reads as a taxonomy reclassification, not a content edit.
+
+**Continuing pattern — nav-template flip-flop, still active:** first flagged 2026-08-08. This run it hit 9 pages: `kpmg`, `figma`, `microsoft-outlook-calendar`, `netlify` flipped old-nav→new-nav (Why OpenAI/Solutions/Resources/Customers/Pricing → Research/Business/Developers/Company/Foundation, "Try OpenAI"+"Contact sales" → "Log in"+"Try ChatGPT"); `ntt-data`, `microsoft-outlook-email`, `microsoft-teams`, `public-equity-investing`, `semrush` flipped the other way. Page content is identical in all cases — only the header/footer nav block toggles, confirmed by re-fetching the same URLs 3× and watching the variant hold per-fetch but disagree with the previously-saved snapshot. Same flaky template-caching/A-B-test behavior as every prior run; today it spans both `/business/plugins/*` and `/business/partners/*`.
+
+### Notable updates
+
+- **[`/products/release-notes/`](pages/openai.com/products/release-notes/index.md)** — new top entry (Aug 10, tagged "Sunset"): ChatGPT Enterprise/EDU is **retiring individual-user sync for connected apps** — new individually-authorized sync connections blocked starting Aug 10; existing ones disabled Aug 14, with deletion of synced data to follow. Administrator-managed sync is unaffected. Actionable deadline for workspace admins.
+- **[`/form/business/premium-offer/`](pages/openai.com/form/business/premium-offer/index.md)** — sign-up incentive increased: "Get $100 worth of credits toward your first ChatGPT Business Premium seat" → "Get **up to $500** worth of credits toward your first ChatGPT Business Premium **Seats**" (note the plural — may now apply per seat, not per account).
+- **Daybreak cyber partner program keeps growing:** six consulting-firm partner pages gained or updated their Daybreak listing under a relabeled "Program partners" (was "Joint partners") section — **[Accenture](pages/openai.com/business/partners/accenture/index.md)**, **[Capgemini](pages/openai.com/business/partners/capgemini/index.md)**, **[Cognizant](pages/openai.com/business/partners/cognizant/index.md)**, and **[PwC](pages/openai.com/business/partners/pwc/index.md)** each went "AWS and Oracle" → "AWS, Daybreak, and Oracle"; **[Ernst & Young](pages/openai.com/business/partners/ernst-and-young/index.md)** gained Daybreak as its first listed program partner; **[KPMG](pages/openai.com/business/partners/kpmg/index.md)** went "Oracle" → "Daybreak and Oracle." The `/daybreak/` hub and both `/daybreak/partners*/` pages also refreshed their partner-logo grid image. Roughly a dozen other partner pages got the same "Joint partners"→"Program partners" relabel with no partner-list change (terminology-only, likely sitewide).
+- **[`/build-week/`](pages/openai.com/build-week/index.md)** — judging period extended from "July 22–August 7" to "July 22–August 24"; winners announcement pushed from August 12 to August 25.
+- Minor marketing-copy refreshes on **[`/business/plugins/mailchimp/`](pages/openai.com/business/plugins/mailchimp/index.md)** and **[`/business/plugins/replit/`](pages/openai.com/business/plugins/replit/index.md)** (example prompt text swapped).
+
+### New pages
+
+- **[`/index/how-enterprises-put-ai-to-work/`](pages/openai.com/index/how-enterprises-put-ai-to-work/index.md)** — "From assistance to execution: How enterprises put AI to work," the flagship article introducing today's two-report research package. Key numbers: Codex generated 64% of combined Codex+ChatGPT enterprise output tokens as of June; "frontier firms" (top 10% of usage) now produce 8.3× the output tokens per active user of typical firms, up from 2.6× in January; weekly active enterprise Codex users grew 108× in legal, 41× in sales, 41× in recruiting, and 26× in marketing since February (vs. 5× in engineering); AI usage is highest among early-career employees and falls with seniority.
+- **[`/signals/enterprise-data/`](pages/openai.com/signals/enterprise-data/index.md)** — "Enterprise signals: What frontier firms are doing differently," the companion data report (successor to the retired Signals B2B page), plus a new **[`/signals/enterprise/intake-form/`](pages/openai.com/signals/enterprise/intake-form/index.md)** lead-capture form.
+- **[`/index/ringcentral/`](pages/openai.com/index/ringcentral/index.md)** — new customer story: "How RingCentral builds AI-native work from engineering to ops," using ChatGPT Work and Codex.
+- **[`/business/partners/nagarro/`](pages/openai.com/business/partners/nagarro/index.md)** — new partner directory page for IT-services firm Nagarro, added to the `/business/partners/` logo grid this run.
+- **`/academy/chatgpt-work/`** (+ 3 child pages) — rename target for the retired Codex-for-Work academy content, see Anomalies above.
+
+### Removals
+
+- **`/academy/codex-for-work/`** (+ 3 children) — renamed to `/academy/chatgpt-work/`.
+- **`/signals/b2b/`** — renamed to `/signals/enterprise-data/`.
+
+### Routine, low-signal updates
+
+Of the 136 lastmod-updated URLs: ~79 were the nav-template flip-flop described above (no content change); a dozen-plus `/index/*` article pages picked up a routine "related articles" widget swap pointing at today's new `how-enterprises-put-ai-to-work` and `ringcentral` posts; `/signals/`, `/signals/research/`, `/signals/data/`, and `/signals/data-download/` all picked up the Enterprise Signals rebrand copy noted above; the rest were partner-badge asset-hash bumps with no visible change. Full breakdown in [`runs/2026-08-13T09-16Z/analysis.md`](runs/2026-08-13T09-16Z/analysis.md).
+
+**Stats:** 1,577 total URLs | +9 added | 136 updated | -5 removed | 0 anomalies (3 notable observations) | 35 sub-sitemaps
+
+Full analysis: [runs/2026-08-13T09-16Z/analysis.md](runs/2026-08-13T09-16Z/analysis.md)
+
+---
+
 ## 2026-08-12 — Run `2026-08-12T09-19Z`
 
 **Fetch time:** 2026-08-12T09:21:32Z UTC | **Baseline:** 2026-08-11T09-17Z (consecutive day)

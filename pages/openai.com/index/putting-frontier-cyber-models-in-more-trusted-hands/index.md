@@ -58,7 +58,7 @@ From finding vulnerabilities to fixing them
 
 We’re bringing OpenAI’s frontier cyber models to the security partners protecting organizations around the world. Together, we’re putting frontier intelligence directly into the products, services, and security operations defenders already depend on. More organizations can now find serious vulnerabilities, fix them faster, and stay ahead of threats moving at machine speed.
 
-![Logos of Daybreak Cyber Partner Program participants on an orange gradient background.](https://images.ctfassets.net/kftzwdyauwt9/2o7BXuZ8rPWp0oIUKyLZKo/e004f9b71c871d3dea5edbe0bb38f88d/logo_cloud_for_codex.png?w=3840&q=90&fm=webp)
+![Logos of Daybreak Cyber Partner Program participants on an orange gradient background.](https://images.ctfassets.net/kftzwdyauwt9/5ocZoT8igzu8jMNPRXeqQR/064c12ba33187fec3cb55da3b5c8b835/logo_cloud_for_codex__3_.png?w=3840&q=90&fm=webp)
 
 AI is changing cybersecurity faster than most organizations can respond. Attackers can identify vulnerabilities, develop exploits, and move through complex systems with increasing speed and scale. At the same time, security teams are confronting a growing volume of weaknesses across the software and infrastructure they protect. Finding those vulnerabilities is only the beginning. The harder challenge is determining which ones pose a real threat and fixing them before they can be exploited. Too many defenders still lack access to the frontier models that can help them do that.
 
@@ -217,6 +217,10 @@ OpenAI
 
 [View all](</news/>)
 
+![From assistance to execution: How enterprises put AI to work > Cover image](https://images.ctfassets.net/kftzwdyauwt9/2iQBiqMQEsAlEMnWTgmkaM/ea72c00d0563d60b861c17fffc548d31/Frame.png?w=3840&q=90&fm=webp)
+
+[How enterprises put AI to workCompanyAug 12, 2026](</index/how-enterprises-put-ai-to-work/>)
+
 ![OAI AdsTest Blog ArtCard 1x1](https://images.ctfassets.net/kftzwdyauwt9/7drPwCnD6ied4wPzlJd7qa/d79ccfda974080bbca7d688ad9bcbc6f/OAI_AdsTest_Blog_ArtCard_1x1.png?w=3840&q=90&fm=webp)
 
 [Testing ads in ChatGPTCompanyAug 11, 2026](</index/testing-ads-in-chatgpt/>)
@@ -224,10 +228,6 @@ OpenAI
 ![What building an AI-native finance function taught me > Card image](https://images.ctfassets.net/kftzwdyauwt9/5XpkKoVszSTwJPjcwrvcNG/1e02d9b53b07d25b4cf517da6bd454eb/Frame__14_.png?w=3840&q=90&fm=webp)
 
 [What building an AI-native finance function taught meCompanyAug 10, 2026](</index/building-an-ai-native-finance-function/>)
-
-![GPT-Daybreak > Cover](https://images.ctfassets.net/kftzwdyauwt9/2iqsbTTLvgMNteNampw3gW/a38ed04432ee5548c4aec6c7b7a506f2/1x1_Art_Card.png?w=3840&q=90&fm=webp)
-
-[Expanding Daybreak as the Cyber Defense Window NarrowsSecurityAug 10, 2026](</index/expanding-daybreak-as-the-cyber-defense-window-narrows/>)
 
 Research
 
