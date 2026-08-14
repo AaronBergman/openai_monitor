@@ -46,9 +46,9 @@ Search and reference your documents.
 
 Use case: [File Sharing](</business/plugins/?tab=apps-file-sharing>)
 
-Made by: OpenAI
+Made by: Box
 
-Website: [box.com(opens in a new window)](<https://box.com>)
+Website: [box.com(opens in a new window)](<https://www.box.com/home>)
 
 ## How it works
 

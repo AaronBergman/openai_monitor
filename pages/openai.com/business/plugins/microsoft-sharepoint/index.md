@@ -38,7 +38,7 @@ Use case: [File Sharing](</business/plugins/?tab=apps-file-sharing>)
 
 Made by: OpenAI
 
-Website: [microsoft.com(opens in a new window)](<https://microsoft.com>)
+Website: [microsoft.com(opens in a new window)](<https://www.microsoft.com/en-us/microsoft-365/sharepoint/collaboration>)
 
 ## How it works
 

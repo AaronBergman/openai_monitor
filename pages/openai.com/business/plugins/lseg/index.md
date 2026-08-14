@@ -46,9 +46,9 @@ Access LSEG financial data for pricing and market analysis.
 
 Use case: [Data](</business/plugins/?tab=apps-data>)
 
-Made by: LSEG
+Made by: LSEG Engineering
 
-Website: [lseg.com(opens in a new window)](<https://lseg.com>)
+Website: [lseg.com(opens in a new window)](<https://www.lseg.com/>)
 
 ## How it works
 

@@ -32,7 +32,7 @@ Build the future of cyber defense with OpenAI
 
 Bring frontier AI-powered cyber capabilities into the products and services defenders already trust—through governed integrations and partner-operated workflows.
 
-[Become a partner](</form/daybreak-cyber-partner-program/>)[Find a partner](</business/partners/locator/>)
+[Become a partner](</form/daybreak-cyber-partner-program/>)[Find a partner](<https://openai.com/business/partners/locator/?tags=partner-joint-cyber>)
 
 ### Built with the security ecosystem
 
@@ -64,7 +64,7 @@ Develop bounded, authorized workflows with safeguards, monitoring, human review,
 
 ### What partners can help defenders do
 
-[Find a partner](</business/partners/locator/>)
+[Find a partner](<https://openai.com/business/partners/locator/?tags=partner-joint-cyber>)
 
 ![Grid of logos for partners in OpenAI's Daybreak program](https://images.ctfassets.net/kftzwdyauwt9/5ocZoT8igzu8jMNPRXeqQR/064c12ba33187fec3cb55da3b5c8b835/logo_cloud_for_codex__3_.png?w=3840&q=90&fm=webp)
 

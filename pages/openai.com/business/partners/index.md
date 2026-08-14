@@ -178,6 +178,10 @@ HCLTech
 
 ![HCLTech logo](https://images.ctfassets.net/kftzwdyauwt9/5FnTDKYvobYJVeFiNomq0u/429baa84d8a3678b321ccd5394b289b3/hcltech-square-light.svg?w=3840&q=90)
 
+IBM
+
+![IBM logo](https://images.ctfassets.net/kftzwdyauwt9/21DyEzMiD4hgERWVy9jMVR/fdca1bd91f0661b4edf39c0822342c83/square-light.svg?w=3840&q=90)
+
 Infosys
 
 ![Infosys logo](https://images.ctfassets.net/kftzwdyauwt9/partnerLocatorInfosysSquareLight20260714/ced93869a47cf4b8bf2aecf0da3fdfc9/Infosys.svg?w=3840&q=90)
@@ -433,6 +437,10 @@ Globant
 HCLTech
 
 ![HCLTech logo](https://images.ctfassets.net/kftzwdyauwt9/5FnTDKYvobYJVeFiNomq0u/429baa84d8a3678b321ccd5394b289b3/hcltech-square-light.svg?w=3840&q=90)
+
+IBM
+
+![IBM logo](https://images.ctfassets.net/kftzwdyauwt9/21DyEzMiD4hgERWVy9jMVR/fdca1bd91f0661b4edf39c0822342c83/square-light.svg?w=3840&q=90)
 
 Infosys
 

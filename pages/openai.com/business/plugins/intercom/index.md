@@ -36,9 +36,9 @@ Look up past user chats and tickets.
 
 Use case: [Go-to-Market](</business/plugins/?tab=apps-go-to-market>)
 
-Made by: OpenAI
+Made by: Intercom
 
-Website: [intercom.com(opens in a new window)](<https://intercom.com>)
+Website: [intercom.com(opens in a new window)](<https://www.intercom.com>)
 
 ## How it works
 

@@ -1,28 +1,28 @@
 Skip to main content
 
-[](</>)[](</business/>)
+[](</>)
 
-  * Why OpenAI
+  * [Research](</research/index/>)
   * Products
-  * Solutions
-  * Resources
-  * [Customers](</business/customer-stories/>)
-  * [Pricing](</business/pricing/>)
+  * [Business](</business/>)
+  * [Developers](</api/>)
+  * [Company](</about/>)
+  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
 
 
 
-Try OpenAI[Contact sales](</contact-sales/>)
+Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
-  * Why OpenAI
+  * Research
   * Products
-  * Solutions
-  * Resources
-  * [Customers](</business/customer-stories/>)
-  * [Pricing](</business/pricing/>)
+  * Business
+  * Developers
+  * Company
+  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
 
 
 
-[Contact sales](</contact-sales/>)Try OpenAI
+[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)Login
 
 OpenAI
 
@@ -42,7 +42,7 @@ Use Daybreak models with Codex Security or your own security harness.
 
 ![Abstract orange model card artwork for GPT-Daybreak-Red.](https://images.ctfassets.net/kftzwdyauwt9/aU6EV8bE1HnCHD1ix63Lf/86d3860fb9a6f86b4f6095a901d40d29/daybreak_2.png?w=3840&q=90&fm=webp)
 
-## [Daybreak RedDesigned for advanced, authorized red teaming, penetration testing, exploit validation, and controlled security research.Apply for Daybreak Access](</form/enterprise-trusted-access-for-cyber/>)
+## [Daybreak RedDesigned for advanced, authorized red teaming, penetration testing, exploit validation, and controlled security research.Apply for Daybreak access](</form/enterprise-trusted-access-for-cyber/>)
 
 ### Designed for security work at scale
 

@@ -48,7 +48,7 @@ Use case: [Go-to-Market](</business/plugins/?tab=apps-go-to-market>)
 
 Made by: Salesforce
 
-Website: [salesforce.com(opens in a new window)](<https://salesforce.com>)
+Website: [salesforce.com(opens in a new window)](<https://www.salesforce.com/>)
 
 ## How it works
 

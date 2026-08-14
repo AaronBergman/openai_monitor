@@ -42,9 +42,9 @@ Edit and organize PDFs easily.
 
 Use case: [File Sharing](</business/plugins/?tab=apps-file-sharing>)
 
-Made by: Adobe
+Made by: Adobe Acrobat
 
-Website: [adobe.com(opens in a new window)](<https://adobe.com>)
+Website: [adobe.com(opens in a new window)](<https://www.adobe.com/acrobat.html>)
 
 ## How it works
 

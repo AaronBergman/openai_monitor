@@ -36,9 +36,9 @@ Access financial KPIs with source links.
 
 Use case: [Data](</business/plugins/?tab=apps-data>)
 
-Made by: Daloopa
+Made by: Daloopa, Inc.
 
-Website: [daloopa.com(opens in a new window)](<https://daloopa.com>)
+Website: [daloopa.com(opens in a new window)](<https://daloopa.com/>)
 
 ## How it works
 

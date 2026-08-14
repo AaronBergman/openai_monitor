@@ -48,7 +48,7 @@ Use case: [Go-to-Market](</business/plugins/?tab=apps-go-to-market>)
 
 Made by: HighLevel
 
-Website: [gohighlevel.com(opens in a new window)](<https://gohighlevel.com>)
+Website: [gohighlevel.com(opens in a new window)](<https://www.gohighlevel.com>)
 
 ## How it works
 

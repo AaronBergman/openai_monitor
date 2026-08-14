@@ -32,23 +32,13 @@ Analyze CRM data and surface insights.
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_697acb8e53d88191bf7a79e62012ae14>)[Contact sales](</contact-sales/>)
 
-@HubSpot create a follow-up task to schedule a meeting with Brightlane
-
-![@HubSpot create a follow-up task to schedule a meeting with Brightlane](https://files.openai.com/content?id=file_000000008cc871f79acc612e066fbfe1&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=f15afecf1f9a133bbc66731a96164074d33d3896d8985819d0b70912ba8c1fe7)
-
-@HubSpot show me unresolved high-priority tickets
-
-![@HubSpot show me unresolved high-priority tickets](https://files.openai.com/content?id=file_0000000070c071f7b53a4cc517a5a605&cdn=1&cp=pi&ma=30499200&ts=0&p=pi&cid=1&sig=d5a23b9275c8e0b40f796db4bdafbbee858fba51ebe96b5a9fa33cfc7cc57393)
-
-@HubSpot which lead sources brought in the most contacts this quarter?
-
-![@HubSpot which lead sources brought in the most contacts this quarter?](https://files.openai.com/content?id=file_00000000373071f79499ed94a9d8d867&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=1&sig=781a5af264f0b25398f076261216a90f05d0b708b8a2ca6c0bf3b1fdadc944fb)
+[@HubSpot Create a follow-up task to schedule a meeting with Brightlane(opens in a new window)](<https://chatgpt.com/?prompt=%40HubSpot+Create+a+follow-up+task+to+schedule+a+meeting+with+Brightlane>)[@HubSpot Show me unresolved high-priority tickets(opens in a new window)](<https://chatgpt.com/?prompt=%40HubSpot+Show+me+unresolved+high-priority+tickets>)[@HubSpot Which lead sources brought in the most contacts this quarter?(opens in a new window)](<https://chatgpt.com/?prompt=%40HubSpot+Which+lead+sources+brought+in+the+most+contacts+this+quarter%3F>)
 
 Use case: [Go-to-Market](</business/plugins/?tab=apps-go-to-market>)
 
-Made by: OpenAI
+Made by: HubSpot
 
-Website: [hubspot.com(opens in a new window)](<https://hubspot.com>)
+Website: [hubspot.com(opens in a new window)](<https://www.hubspot.com/>)
 
 ## How it works
 

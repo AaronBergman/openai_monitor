@@ -46,7 +46,7 @@ Turn Asana tasks into clear updates and plans.
 
 Use case: [Project Management](</business/plugins/?tab=apps-project-management>)
 
-Made by: Asana
+Made by: Asana, Inc.
 
 Website: [asana.com(opens in a new window)](<https://asana.com>)
 

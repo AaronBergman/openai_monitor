@@ -38,7 +38,7 @@ Use case: [File Sharing](</business/plugins/?tab=apps-file-sharing>)
 
 Made by: OpenAI
 
-Website: [google.com(opens in a new window)](<https://google.com>)
+Website: [workspace.google.com(opens in a new window)](<https://workspace.google.com/products/drive/>)
 
 ## How it works
 

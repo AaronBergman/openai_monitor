@@ -38,9 +38,9 @@ Find and engage prospects.
 
 Use case: [Go-to-Market](</business/plugins/?tab=apps-go-to-market>)
 
-Made by: Clay
+Made by: Clay Inc
 
-Website: [clay.com(opens in a new window)](<https://clay.com>)
+Website: [clay.com(opens in a new window)](<https://www.clay.com>)
 
 ## How it works
 

@@ -42,7 +42,7 @@ Manage work in monday.com.
 
 Use case: [Project Management](</business/plugins/?tab=apps-project-management>)
 
-Made by: monday.com
+Made by: Monday.com
 
 Website: [monday.com(opens in a new window)](<https://monday.com>)
 

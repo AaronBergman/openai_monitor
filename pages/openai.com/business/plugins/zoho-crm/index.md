@@ -38,7 +38,7 @@ Use case: [Go-to-Market](</business/plugins/?tab=apps-go-to-market>)
 
 Made by: Zoho
 
-Website: [zoho.com(opens in a new window)](<https://zoho.com>)
+Website: [zoho.com(opens in a new window)](<https://www.zoho.com/en-in/crm/>)
 
 ## How it works
 

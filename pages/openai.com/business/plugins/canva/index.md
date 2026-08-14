@@ -46,9 +46,9 @@ Search, create, and edit designs.
 
 Use case: [Design](</business/plugins/?tab=apps-design>)
 
-Made by: Canva
+Made by: Canva Pty Ltd.
 
-Website: [canva.com(opens in a new window)](<https://canva.com>)
+Website: [canva.com(opens in a new window)](<https://www.canva.com>)
 
 ## How it works
 

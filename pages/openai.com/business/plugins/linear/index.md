@@ -36,9 +36,9 @@ Find and reference issues and projects.
 
 Use case: [Project Management](</business/plugins/?tab=apps-project-management>)
 
-Made by: OpenAI
+Made by: Linear Orbit, Inc
 
-Website: [linear.app(opens in a new window)](<https://linear.app>)
+Website: [linear.app(opens in a new window)](<https://linear.app/>)
 
 ## How it works
 

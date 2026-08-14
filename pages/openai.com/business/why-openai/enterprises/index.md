@@ -124,15 +124,15 @@ Explore product announcements, customer stories, and deployment guidance for lea
 
 ![Line chart titled "Frontier Firm Intelligence Gap" comparing two upward-trending lines.](https://images.ctfassets.net/kftzwdyauwt9/2mfK2NLdyLVyxk5RrDdteT/104574a51d603bebffb3e418e15d3c79/B2B_Signals.png?w=3840&q=90&fm=webp)
 
-## [How frontier firms are pulling ahead, and how enterprises can keep paceCompany](</index/introducing-b2b-signals/>)
+## [How frontier firms are pulling ahead, and how enterprises can keep paceCompanyLearn more](</index/introducing-b2b-signals/>)
 
 ![Abstract orange report graphic with plotted points inside a quadrant chart.](https://images.ctfassets.net/kftzwdyauwt9/OokzUTRocS99ZQnv8b0Ex/989375070f2ad33336230a3ef7689439/Gartner_Report.png?w=3840&q=90&fm=webp)
 
-## [OpenAI named a Leader in enterprise coding agents by GartnerAI Adoption](</index/gartner-2026-agentic-coding-leader/>)
+## [OpenAI named a Leader in enterprise coding agents by GartnerAI AdoptionLearn more](</index/gartner-2026-agentic-coding-leader/>)
 
 ![Blue and purple abstract diagram with overlapping circles and connecting nodes.](https://images.ctfassets.net/kftzwdyauwt9/4K9tIi7WIJisaK5YgBfjbd/d6ead4f7592f1c73213484627009a7ad/OAI_Development_Co.png?w=3840&q=90&fm=webp)
 
-## [Announcing the OpenAI Deployment Company to help organizations build and deploy AI systemsCompany](</index/openai-launches-the-deployment-company/>)
+## [Announcing the OpenAI Deployment Company to help organizations build and deploy AI systemsCompanyLearn more](</index/openai-launches-the-deployment-company/>)
 
 ## Trusted across industries
 

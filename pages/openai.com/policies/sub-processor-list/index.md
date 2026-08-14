@@ -234,7 +234,7 @@ ChatGPT Business| Japan| OpenAI, LLC
   
 ## Subscribe to new Sub-processor notifications
 
-Sign up to receive notification of new third party Subprocessors by filling out [this form⁠(opens in a new window)](<https://share.hsforms.com/12eQCIydyQYSBVsV-pan8yQ4sk30>). 
+Sign up to receive notification of new third party Subprocessors by filling out [this form](</form/subscribe-to-new-sub-processors/>). 
 
 Please contact privacy@openai.com with any questions or concerns.
 
@@ -322,6 +322,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

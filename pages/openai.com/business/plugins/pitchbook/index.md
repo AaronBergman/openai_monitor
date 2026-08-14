@@ -48,7 +48,7 @@ Use case: [Data](</business/plugins/?tab=apps-data>)
 
 Made by: PitchBook
 
-Website: [pitchbook.com(opens in a new window)](<https://pitchbook.com>)
+Website: [pitchbook.com(opens in a new window)](<https://www.pitchbook.com>)
 
 ## How it works
 

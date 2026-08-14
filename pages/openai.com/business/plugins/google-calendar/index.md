@@ -38,7 +38,7 @@ Use case: [Collaboration](</business/plugins/?tab=apps-collaboration>)
 
 Made by: OpenAI
 
-Website: [google.com(opens in a new window)](<https://google.com>)
+Website: [workspace.google.com(opens in a new window)](<https://workspace.google.com/products/calendar/>)
 
 ## How it works
 

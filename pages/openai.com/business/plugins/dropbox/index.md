@@ -46,9 +46,9 @@ Find and access your stored files.
 
 Use case: [File Sharing](</business/plugins/?tab=apps-file-sharing>)
 
-Made by: OpenAI
+Made by: Dropbox
 
-Website: [dropbox.com(opens in a new window)](<https://dropbox.com>)
+Website: [dropbox.com(opens in a new window)](<https://www.dropbox.com>)
 
 ## How it works
 

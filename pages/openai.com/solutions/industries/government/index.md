@@ -1,28 +1,28 @@
 Skip to main content
 
-[](</>)
+[](</>)[](</business/>)
 
-  * [Research](</research/index/>)
+  * Why OpenAI
   * Products
-  * [Business](</business/>)
-  * [Developers](</api/>)
-  * [Company](</about/>)
-  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
+  * Solutions
+  * Resources
+  * [Customers](</business/customer-stories/>)
+  * [Pricing](</business/pricing/>)
 
 
 
-[Try now(opens in a new window)](<https://chatgpt.com/team-sign-up>)[Contact sales](</contact-sales/>)
+Try OpenAI[Contact sales](</contact-sales/>)
 
-  * Research
+  * Why OpenAI
   * Products
-  * Business
-  * Developers
-  * Company
-  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
+  * Solutions
+  * Resources
+  * [Customers](</business/customer-stories/>)
+  * [Pricing](</business/pricing/>)
 
 
 
-[Contact sales](</contact-sales/>)
+[Contact sales](</contact-sales/>)Try OpenAI
 
 OpenAI
 
@@ -125,11 +125,11 @@ AWS GovCloud Codex| Coming soon| Coming soon| Coming soon| Coming soon
 
 [Pacific Northwest National Laboratory and OpenAI partner to accelerate federal permitting Global Affairs](</index/pacific-northwest-national-laboratory/>)
 
-![State of Minnesota > Card](https://images.ctfassets.net/kftzwdyauwt9/4feBd9mET2qUWGpGtdit6G/c23919743af1df1b3701944f3b346004/oai_minnesota_thumbnail.png?w=3840&q=90&fm=webp)
+![This image displays a soft-focus close-up of a textured green watercolor painting with the white logo “mn” centered over it, suggesting a serene, nature-inspired aesthetic.](https://images.ctfassets.net/kftzwdyauwt9/4feBd9mET2qUWGpGtdit6G/c23919743af1df1b3701944f3b346004/oai_minnesota_thumbnail.png?w=3840&q=90&fm=webp)
 
 [Minnesota’s Enterprise Translation Office uses ChatGPT to bridge language gaps](</index/state-of-minnesota/>)
 
-![Los Alamos](https://images.ctfassets.net/kftzwdyauwt9/3WF6oOv7cc50fCURi4NIJW/83606c8143b3a8b5b82508f290a4ef79/Los_Alamos.jpg?w=3840&q=90&fm=webp)
+![The image shows a soft, abstract blur of a white flower against a blue background. The motion blur creates a smooth, dreamy effect, with hints of green suggesting leaves or stems in the lower right corner.](https://images.ctfassets.net/kftzwdyauwt9/3WF6oOv7cc50fCURi4NIJW/83606c8143b3a8b5b82508f290a4ef79/Los_Alamos.jpg?w=3840&q=90&fm=webp)
 
 [OpenAI and Los Alamos National Laboratory announce research partnershipMilestone](</index/openai-and-los-alamos-national-laboratory-work-together/>)
 
@@ -149,9 +149,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -188,6 +188,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -221,6 +223,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

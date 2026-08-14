@@ -38,7 +38,7 @@ Use case: [Design](</business/plugins/?tab=apps-design>)
 
 Made by: OpenAI
 
-Website: [openai.com(opens in a new window)](<https://openai.com>)
+Website: [openai.com(opens in a new window)](<https://openai.com/>)
 
 ## How it works
 

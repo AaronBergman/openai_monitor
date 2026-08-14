@@ -44,7 +44,7 @@ Tribe AI exists to close the gap between what AI can do and the value enterprise
 
 3\. Supercharge every employee: embedding agentic tooling (Codex) into how work actually gets done, so individual productivity gains compound across the org.
 
-![Advanced Partner](/images/partner-tier-badges/OAI_PartnerNetwork_AdvancedPartner.svg?dpl=dpl_4BCDoauaaZ4vvxsT2ZNWHLfWG4mF)
+![Advanced Partner](/images/partner-tier-badges/OAI_PartnerNetwork_AdvancedPartner.svg?dpl=dpl_FVk4QodRZ5kG9YVJMACPwdTCDJ7A)
 
 Countries served
     United States, Canada, Brazil, United Kingdom, Ireland, Germany, Netherlands, France, Sweden, Spain, and Portugal
@@ -52,7 +52,7 @@ Countries served
 Industries
     Energy & Utilities, Financial Services, Healthcare & Life Sciences, Manufacturing, and Travel & Hospitality
 
-Joint partners
+Program partners
     AWS
 
 Partner Summit 2026 Award

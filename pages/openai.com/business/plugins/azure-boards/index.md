@@ -38,7 +38,7 @@ Use case: [Project Management](</business/plugins/?tab=apps-project-management>)
 
 Made by: OpenAI
 
-Website: [azure.microsoft.com(opens in a new window)](<https://azure.microsoft.com>)
+Website: [azure.microsoft.com(opens in a new window)](<https://azure.microsoft.com/products/devops/>)
 
 ## How it works
 

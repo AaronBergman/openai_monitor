@@ -48,7 +48,7 @@ Use case: [Data](</business/plugins/?tab=apps-data>)
 
 Made by: Coupler.io
 
-Website: [coupler.io(opens in a new window)](<https://coupler.io>)
+Website: [coupler.io(opens in a new window)](<https://www.coupler.io/>)
 
 ## How it works
 

@@ -38,7 +38,7 @@ Use case: [Finance](</business/plugins/?tab=apps-finance>)
 
 Made by: OpenAI
 
-Website: [openai.com(opens in a new window)](<https://openai.com>)
+Website: [openai.com(opens in a new window)](<https://openai.com/>)
 
 ## How it works
 

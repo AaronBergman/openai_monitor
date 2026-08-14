@@ -46,7 +46,7 @@ Our core differentiators include:
 
 • Solutions that work: It‘s about results, not just ideas, so ZS doesn’t stop until the solution works for our clients
 
-![Select Partner](/images/partner-tier-badges/OAI_PartnerNetwork_SelectPartner.svg?dpl=dpl_4BCDoauaaZ4vvxsT2ZNWHLfWG4mF)
+![Select Partner](/images/partner-tier-badges/OAI_PartnerNetwork_SelectPartner.svg?dpl=dpl_FVk4QodRZ5kG9YVJMACPwdTCDJ7A)
 
 Countries served
     Global
@@ -54,7 +54,7 @@ Countries served
 Industry
     Cross-industry
 
-Joint partners
+Program partners
     AWS
 
 Research

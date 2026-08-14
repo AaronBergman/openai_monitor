@@ -38,9 +38,9 @@ Search docs and deploy apps.
 
 Use case: [Developer Tools](</business/plugins/?tab=apps-developer-tools>)
 
-Made by: Vercel
+Made by: Vercel Labs
 
-Website: [vercel.com(opens in a new window)](<https://vercel.com>)
+Website: [vercel.com(opens in a new window)](<https://vercel.com/>)
 
 ## How it works
 

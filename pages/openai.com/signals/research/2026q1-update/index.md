@@ -39,32 +39,20 @@ Share
 ChatGPT usage broadened beyond early adopters
 
   * ChatGPT usage broadened beyond early adopters
-
   * ChatGPT use spread beyond the largest and most established markets
-
     * Countries with the largest increases in ChatGPT messages per capita ranking
-
   * Workplace use evolved
-
   * Work-related usage on personal accounts became more consistent
-
   * Stay engaged
-
 
 
 
   * ChatGPT usage broadened beyond early adopters
-
   * ChatGPT use spread beyond the largest and most established markets
-
     * Countries with the largest increases in ChatGPT messages per capita ranking
-
   * Workplace use evolved
-
   * Work-related usage on personal accounts became more consistent
-
   * Stay engaged
-
 
 
 
@@ -127,7 +115,7 @@ OpenAI Signals is an ongoing effort to ensure that researchers and policymakers 
 
 ![Signals data lab > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/2ABIbD6DF4rCfMiSwnJkNS/439c35af48dabb5928e73f048519d7aa/data_lab__1_.png?w=3840&q=90&fm=webp)
 
-[Signals consumer data | OpenAIMay 11, 2026](</signals/data/>)
+[Signals individual dataAug 6, 2026](</signals/data/>)
 
 ![Signals data and methodology > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/4cazr3ABZnVISor9MR0WkZ/8d0ad202abdb6ceef40499b706686a84/Download_data_and_methodology__1_.png?w=3840&q=90&fm=webp)
 
@@ -217,6 +205,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

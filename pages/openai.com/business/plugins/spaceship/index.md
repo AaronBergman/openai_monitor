@@ -38,9 +38,9 @@ Search domain availability.
 
 Use case: [Developer Tools](</business/plugins/?tab=apps-developer-tools>) and [Go-to-Market](</business/plugins/?tab=apps-go-to-market>)
 
-Made by: Namecheap
+Made by: Spaceship, Inc
 
-Website: [namecheap.com(opens in a new window)](<https://namecheap.com>)
+Website: [spaceship.com(opens in a new window)](<https://www.spaceship.com>)
 
 ## How it works
 
