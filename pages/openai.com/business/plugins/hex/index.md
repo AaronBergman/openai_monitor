@@ -48,7 +48,7 @@ Use case: [Data](</business/plugins/?tab=apps-data>)
 
 Made by: Hex
 
-Website: [hex.com(opens in a new window)](<https://hex.com>)
+Website: [hex.tech(opens in a new window)](<https://hex.tech/>)
 
 ## How it works
 

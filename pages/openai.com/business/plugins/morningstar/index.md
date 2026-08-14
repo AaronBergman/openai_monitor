@@ -36,9 +36,9 @@ Access live market insights.
 
 Use case: [Data](</business/plugins/?tab=apps-data>)
 
-Made by: Morningstar
+Made by: Morningstar Inc.
 
-Website: [morningstar.com(opens in a new window)](<https://morningstar.com>)
+Website: [morningstar.com(opens in a new window)](<https://www.morningstar.com/business/products/direct-ai-solutions>)
 
 ## How it works
 

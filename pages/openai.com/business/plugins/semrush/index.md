@@ -34,9 +34,9 @@ Ask about site metrics and traffic data.
 
 Use case: [Go-to-Market](</business/plugins/?tab=apps-go-to-market>)
 
-Made by: Semrush
+Made by: Semrush Holdings, Inc.
 
-Website: [semrush.com(opens in a new window)](<https://semrush.com>)
+Website: [semrush.com(opens in a new window)](<https://www.semrush.com/>)
 
 ## How it works
 

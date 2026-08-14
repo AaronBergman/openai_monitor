@@ -38,7 +38,7 @@ Use case: [Project Management](</business/plugins/?tab=apps-project-management>)
 
 Made by: OpenAI
 
-Website: [aha.io(opens in a new window)](<https://aha.io>)
+Website: [aha.io(opens in a new window)](<https://www.aha.io/>)
 
 ## How it works
 

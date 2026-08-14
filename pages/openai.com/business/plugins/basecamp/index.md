@@ -38,7 +38,7 @@ Use case: [Project Management](</business/plugins/?tab=apps-project-management>)
 
 Made by: OpenAI
 
-Website: [basecamp.com(opens in a new window)](<https://basecamp.com>)
+Website: [basecamp.com(opens in a new window)](<https://basecamp.com/>)
 
 ## How it works
 

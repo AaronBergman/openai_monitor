@@ -38,7 +38,7 @@ Use case: [Design](</business/plugins/?tab=apps-design>)
 
 Made by: Adobe
 
-Website: [adobe.com(opens in a new window)](<https://adobe.com>)
+Website: [adobe.com(opens in a new window)](<https://www.adobe.com/express/>)
 
 ## How it works
 

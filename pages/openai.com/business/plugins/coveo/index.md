@@ -38,7 +38,7 @@ Use case: [Data](</business/plugins/?tab=apps-data>)
 
 Made by: Coveo
 
-Website: [coveo.com(opens in a new window)](<https://coveo.com>)
+Website: [coveo.com(opens in a new window)](<https://www.coveo.com>)
 
 ## How it works
 

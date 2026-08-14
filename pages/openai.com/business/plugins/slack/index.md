@@ -38,9 +38,9 @@ Look up chats and messages.
 
 Use case: [Collaboration](</business/plugins/?tab=apps-collaboration>)
 
-Made by: Slack
+Made by: OpenAI
 
-Website: [slack.com(opens in a new window)](<https://slack.com>)
+Website: [slack.com(opens in a new window)](<https://slack.com/>)
 
 ## How it works
 

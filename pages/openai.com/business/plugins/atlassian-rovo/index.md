@@ -44,7 +44,7 @@ Use case: [Collaboration](</business/plugins/?tab=apps-collaboration>) and [Data
 
 Made by: Atlassian
 
-Website: [atlassian.com/software/rovo(opens in a new window)](<https://atlassian.com/software/rovo>)
+Website: [atlassian.com(opens in a new window)](<https://www.atlassian.com>)
 
 ## How it works
 

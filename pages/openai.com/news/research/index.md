@@ -51,6 +51,10 @@ Switch cards to show Media
 
 Switch cards to hide Media
 
+![math-breakthroughs art-card 1x1](https://images.ctfassets.net/kftzwdyauwt9/2zkd5RIOug4FcEj62mdSF4/3ea9e19c0456289c69f0d839cc929cb2/math-breakthroughs_art-card_1x1.png?w=3840&q=90&fm=webp)
+
+[Ten advances in mathematics and theoretical computer sciencePublicationAug 1, 2026](</index/ten-advances-in-mathematics/>)
+
 ![ARC-AGI-3 art-card 1x1](https://images.ctfassets.net/kftzwdyauwt9/71xyJRWnTkM6EW1JKDUc59/91d2690ff9e7abaa975b4a5f64089056/ARC-AGI-3_art-card_1x1.png?w=3840&q=90&fm=webp)
 
 [How enabling two settings tripled our scores on the ARC-AGI-3 benchmarkResearchJul 29, 2026](</index/how-two-settings-tripled-our-arc-agi-3-scores/>)
@@ -82,10 +86,6 @@ Switch cards to hide Media
 ![Art Card 1 1](https://images.ctfassets.net/kftzwdyauwt9/4vJ1lSvYeKz0zM4RVCKwIC/855f7e54052d8a7635e4bf45adf41737/Art_Card_1_1.png?w=3840&q=90&fm=webp)
 
 [Introducing GPT-LiveProductJul 8, 2026](</index/introducing-gpt-live/>)
-
-![Four white rounded squares arranged in a horizontal row on a soft blue-to-white gradient background.](https://images.ctfassets.net/kftzwdyauwt9/6B2Ddp37H6lfMuxOjcvfa0/f65b4ba8a3550da03e1a5db26fe50ca0/System_Card_1x1__1_.jpg?w=3840&q=90&fm=webp)
-
-[GPT‑Live System CardSafetyJul 8, 2026(opens in a new window)](<https://deploymentsafety.openai.com/gpt-live>)
 
 Load more
 

@@ -26,13 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Building on proven success
-
-  * Building on proven success
-  * Building an AI-native bank
-
-
-
 December 12, 2025
 
 [Global Affairs](</news/global-affairs/>)
@@ -42,6 +35,18 @@ December 12, 2025
 The multi-year program brings ChatGPT Enterprise to 120,000 employees and supports BBVA’s shift toward AI-native banking.
 
 Share
+
+Building on proven success
+
+  * Building on proven success
+  * Building an AI-native bank
+
+
+
+  * Building on proven success
+  * Building an AI-native bank
+
+
 
 BBVA and OpenAI are expanding their collaboration with a multi-year strategic AI transformation program that will see ChatGPT Enterprise rolled out to all 120,000 global employees—a 10x increase on their current deployment. Under this new agreement, OpenAI will help advance BBVA’s AI strategy, which aims to transform the customer experience, enable new ways of working, and optimize internal operations.
 
@@ -73,17 +78,17 @@ This expanded alliance highlights how businesses like BBVA are moving beyond exp
 
 [View all](</news/>)
 
-![oai 1x1 Biodefense in the Intelligence Age](https://images.ctfassets.net/kftzwdyauwt9/6A4rrCBs9rrlbzm9JWIvSi/8a4ae56849fcd0b16e90b59b8babc613/oai_1x1_Biodefense_in_the_Intelligence_Age.png?w=3840&q=90&fm=webp)
+![OpenAI letter to Governor Abbott — card image](https://images.ctfassets.net/kftzwdyauwt9/58lvLf4ld7rZS9mIIvma9y/be162b8bd2d1ab08c95d666d9a161b04/Frame__18_.png?w=3840&q=90&fm=webp)
 
-[Biodefense in the Intelligence AgeGlobal AffairsJun 4, 2026](</index/biodefense-in-the-intelligence-age/>)
+[OpenAI’s letter on responsible AI infrastructure in TexasGlobal AffairsAug 10, 2026](</index/responsible-ai-infrastructure-texas/>)
 
-![OpenAI’s public policy agenda > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/CdH7XdsXfpUaYZJpeCwwz/76b975c66fce3ce5ec4a901b4f675369/Frame.png?w=3840&q=90&fm=webp)
+![Advancing responsible AI across Europe — card](https://images.ctfassets.net/kftzwdyauwt9/1ZPK8n0N6mvnSq50i6b1zZ/9229a595a2f8fea9d0189ce9aa2f634b/card.png?w=3840&q=90&fm=webp)
 
-[OpenAI public policy agendaGlobal AffairsJun 3, 2026](</index/public-policy-agenda/>)
+[Advancing responsible AI across EuropeGlobal AffairsJul 31, 2026](</index/advancing-responsible-ai-across-europe/>)
 
-![Frontier Safety Blueprint > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/6zU111Ouj65b8iZJnswHBe/a705de1c90ab048510532db2f53f12f3/Frame.png?w=3840&q=90&fm=webp)
+![effingham county 1x1](https://images.ctfassets.net/kftzwdyauwt9/3f1fyaaSZELql3zECUImW3/1733a5ee7f07da894b993dcff75bea66/effingham_county_1x1.png?w=3840&q=90&fm=webp)
 
-[A blueprint for democratic governance of frontier AIGlobal AffairsJun 3, 2026](</index/frontier-safety-blueprint/>)
+[Building AI infrastructure with the Effingham County communityGlobal AffairsJul 22, 2026](</index/building-ai-infrastructure-with-the-effingham-county-community/>)
 
 Research
 
@@ -95,9 +100,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -134,6 +139,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -167,6 +174,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

@@ -38,7 +38,7 @@ Use case: [Finance](</business/plugins/?tab=apps-finance>)
 
 Made by: Ramp
 
-Website: [ramp.com(opens in a new window)](<https://ramp.com>)
+Website: [ramp.com(opens in a new window)](<https://ramp.com/>)
 
 ## How it works
 

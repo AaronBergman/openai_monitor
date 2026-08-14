@@ -46,7 +46,7 @@ Search meeting transcripts.
 
 Use case: [Collaboration](</business/plugins/?tab=apps-collaboration>)
 
-Made by: fireflies.ai
+Made by: Fireflies
 
 Website: [fireflies.ai(opens in a new window)](<https://fireflies.ai>)
 

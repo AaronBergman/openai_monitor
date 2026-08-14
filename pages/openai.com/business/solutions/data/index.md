@@ -26,7 +26,7 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 OpenAI
 
-### [Upcoming webinar] Join us August 11, 2026 at 9:30 AM PT
+### [Upcoming webinar] Join us September 10, 2026 at 9:30 AM PT
 
 to see how OpenAI's Data Analytics team uses ChatGPT Work to connect data and business context, explain what changed, and recommend what to do next.
 
@@ -193,7 +193,7 @@ Explore additional resources for getting started with OpenAI.
 
 ![How data science teams use Codex > card image](https://images.ctfassets.net/kftzwdyauwt9/xyevYnp4Ptaa1eMgBDNjS/75fea80018f321b89809d893f1a5786d/data_science_teams.png?w=3840&q=90&fm=webp)
 
-[AcademyBuild AI skills with hands-on lessons and learning paths from OpenAI.](</academy/codex-for-work/how-data-science-teams-use-codex/>)
+[AcademyBuild AI skills with hands-on lessons and learning paths from OpenAI.](</academy/chatgpt-work/how-data-science-teams-use-codex/>)
 
 ![Business Learning Hub 1x1](https://images.ctfassets.net/kftzwdyauwt9/3WaN0u4u87BK3dXsD569qh/f40a4e250dc00d0bbf5ec418be81fc9c/Business_Learning_Hub_1x1.png?w=3840&q=90&fm=webp)
 

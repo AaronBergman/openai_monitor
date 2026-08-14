@@ -48,7 +48,7 @@ Use case: [Developer Tools](</business/plugins/?tab=apps-developer-tools>)
 
 Made by: Netlify
 
-Website: [netlify.com(opens in a new window)](<https://netlify.com>)
+Website: [netlify.com(opens in a new window)](<https://www.netlify.com>)
 
 ## How it works
 

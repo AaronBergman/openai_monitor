@@ -83,6 +83,18 @@ For Enterprise, Edu, and Healthcare workspaces, Live is now the default Voice ex
 
 [View source(opens in a new window)](<https://help.openai.com/en/articles/6825453-chatgpt-release-notes#files-and-projects-in-chatgpt-voice>)[Help center(opens in a new window)](<https://help.openai.com/en/articles/11391654-chatgpt-business-release-notes#files-and-projects-in-chatgpt-voice>)[Help center(opens in a new window)](<https://help.openai.com/en/articles/10128477-chatgpt-enterprise-edu-release-notes#files-and-projects-in-chatgpt-voice>)
 
+ChatGPT
+
+Aug 7, 2026
+
+GA
+
+## ChatGPT app experience updates
+
+We’ve made it easier to bring documents and saved files into your conversations, find what you need, and pick up where you left off. Visit the Help Center to see the full list of updates.
+
+[View source(opens in a new window)](<https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-app-experience-updates>)[Help center(opens in a new window)](<https://help.openai.com/en/articles/11391654-chatgpt-business-release-notes#chatgpt-app-experience-updates>)
+
 API
 
 Aug 6, 2026
@@ -94,18 +106,6 @@ GA
 Updated the chat-latest snapshot, which points to the latest model available in ChatGPT for Plus and Pro users. We recommend leveraging GPT‑5.6 Sol for production API usage, but feel free to use this model to test the latest improvements for chat use cases. The underlying model snapshot will be regularly updated.
 
 [View source(opens in a new window)](<https://developers.openai.com/api/docs/models/chat-latest>)[Platform docs(opens in a new window)](<https://developers.openai.com/api/docs/models/gpt-5.6-sol>)[Platform docs(opens in a new window)](<https://developers.openai.com/api/docs/changelog>)
-
-API
-
-Aug 5, 2026
-
-GA
-
-## Fast mode supports long-context requests for GPT-5.6
-
-Fast mode now supports long-context requests for GPT‑5.6 Sol, GPT‑5.6 Terra, and GPT‑5.6 Luna. As of today, long-context prompts exceeding 272K tokens can run in Fast mode, delivering speeds up to 2.5× faster than the Standard tier.
-
-[View source(opens in a new window)](<https://developers.openai.com/api/docs/guides/fast-mode>)[Platform docs(opens in a new window)](<https://developers.openai.com/api/docs/pricing?latest-pricing=fast>)[Platform docs(opens in a new window)](<https://developers.openai.com/api/docs/changelog>)
 
 Load more
 

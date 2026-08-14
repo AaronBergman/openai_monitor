@@ -33,102 +33,54 @@ Updated: June 26, 2026
 1\. Policies and Codes of Conduct
 
   * 1\. Policies and Codes of Conduct
-
   * 2\. Risk Management
-
   * 3\. Data Handling
-
   * 4\. Engagement Staffing
-
   * 5\. Personnel Screening
-
   * 6\. System and Workstation Controls
-
   * 7\. Identity, Authentication, and Authorization Controls
-
   * 8\. Data Classification, Acceptable Use, and Change Management
-
   * 9\. Security Incidents
-
   * 10\. Logging, Audit, and Accountability
-
   * 11\. Secure Development Lifecycle
-
   * 12\. Cloud Infrastructure and Network Security
-
   * 13\. Vulnerability and Malware Management
-
   * 14\. Physical and Environmental Security
-
   * 15\. Availability, Business Continuity, and Disaster Recovery
-
   * 16\. Third-Party and Technology Supply Chain Risk Management
-
   * 17\. Data Encryption
-
   * 18\. Data Retention
-
   * 19\. Secure Disposal
-
   * 20\. Security Evaluations, Audits, and Change Notification
-
   * 21\. OpenAI Verification Rights and Gap Remediation
-
   * 22\. Non-U.S. Data Access
-
   * 23\. Definitions
 
 
-
-
-Table of contents
 
   * 1\. Policies and Codes of Conduct
-
   * 2\. Risk Management
-
   * 3\. Data Handling
-
   * 4\. Engagement Staffing
-
   * 5\. Personnel Screening
-
   * 6\. System and Workstation Controls
-
   * 7\. Identity, Authentication, and Authorization Controls
-
   * 8\. Data Classification, Acceptable Use, and Change Management
-
   * 9\. Security Incidents
-
   * 10\. Logging, Audit, and Accountability
-
   * 11\. Secure Development Lifecycle
-
   * 12\. Cloud Infrastructure and Network Security
-
   * 13\. Vulnerability and Malware Management
-
   * 14\. Physical and Environmental Security
-
   * 15\. Availability, Business Continuity, and Disaster Recovery
-
   * 16\. Third-Party and Technology Supply Chain Risk Management
-
   * 17\. Data Encryption
-
   * 18\. Data Retention
-
   * 19\. Secure Disposal
-
   * 20\. Security Evaluations, Audits, and Change Notification
-
   * 21\. OpenAI Verification Rights and Gap Remediation
-
   * 22\. Non-U.S. Data Access
-
   * 23\. Definitions
-
 
 
 
@@ -395,9 +347,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -469,6 +421,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

@@ -36,7 +36,7 @@ Use case: [Data](</business/plugins/?tab=apps-data>)
 
 Made by: Amplitude
 
-Website: [amplitude.com(opens in a new window)](<https://amplitude.com>)
+Website: [amplitude.com(opens in a new window)](<https://amplitude.com/>)
 
 ## How it works
 

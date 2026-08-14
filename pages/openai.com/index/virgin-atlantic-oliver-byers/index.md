@@ -41,34 +41,20 @@ Share
 CFOs often have a high bar to pass to support investing in new technologies. As CFO, what convinced you that AI was worth prioritizing across the business initially and at a larger scale?
 
   * CFOs often have a high bar to pass to support investing in new technologies. As CFO, what convinced you that AI was worth prioritizing across the business initially and at a larger scale?
-
   * Internally, your teams are already seeing major productivity gains from using Codex and ChatGPT Enterprise across a range of functions and use cases. What are some of your favorite examples of AI adoption across the business?
-
   * Virgin Atlantic has always been a forward-thinking brand focused on people. How do you equip your team members to get the most out of your AI investments?
-
   * Virgin Atlantic’s new digital concierge shows how AI can reimagine brand experiences in a way that feels distinctly human and on-brand. How do you think about designing AI solutions that enhance the brand experience and build business value?
-
   * What frameworks or measures do you use to judge whether AI is delivering ROI—both in the short term and as a longer-term strategic bet?
-
   * Do you have any advice for other CFOs and business leaders to ensure they see successful AI adoption across the business?
 
 
-
-
-Table of contents
 
   * CFOs often have a high bar to pass to support investing in new technologies. As CFO, what convinced you that AI was worth prioritizing across the business initially and at a larger scale?
-
   * Internally, your teams are already seeing major productivity gains from using Codex and ChatGPT Enterprise across a range of functions and use cases. What are some of your favorite examples of AI adoption across the business?
-
   * Virgin Atlantic has always been a forward-thinking brand focused on people. How do you equip your team members to get the most out of your AI investments?
-
   * Virgin Atlantic’s new digital concierge shows how AI can reimagine brand experiences in a way that feels distinctly human and on-brand. How do you think about designing AI solutions that enhance the brand experience and build business value?
-
   * What frameworks or measures do you use to judge whether AI is delivering ROI—both in the short term and as a longer-term strategic bet?
-
   * Do you have any advice for other CFOs and business leaders to ensure they see successful AI adoption across the business?
-
 
 
 
@@ -146,17 +132,17 @@ _Virgin Atlantic uses ChatGPT Enterprise and Codex across its operations, and le
 
 ## Keep reading
 
-![Helping build shared standards for advanced AI - card image](https://images.ctfassets.net/kftzwdyauwt9/3tqr0Vb3JnK38uBRBw7FAF/a3989888ee148ba286b834076aaa289b/helping-build-shared-standards-for-advanced-ai-1_1.png?w=3840&q=90&fm=webp)
+![The builder’s guide to GPT-5.6 — Card image — Neutral Option 075](https://images.ctfassets.net/kftzwdyauwt9/4jmIFt2vH2c51Fj99rAiqH/bf22866b22d59f6230785fe304fee20c/the-builders-guide-to-gpt-5-6-option-075-card.png?w=3840&q=90&fm=webp)
 
-[Helping build shared standards for advanced AIGlobal AffairsJun 23, 2026](</index/helping-build-shared-standards-for-advanced-ai/>)
+[The builder’s guide to GPT‑5.6Applied AIAug 13, 2026](</index/builders-guide-to-gpt-5-6/>)
 
-![Derya Unutmaz card image](https://images.ctfassets.net/kftzwdyauwt9/6By12NX9sglstfwFKQTzYB/a28d6f84e91a8dae838f240db4c2524c/derya_1x1.png?w=3840&q=90&fm=webp)
+![Previewing Ultrafast mode — clean cover](https://images.ctfassets.net/kftzwdyauwt9/74UiHrTiZoKnbvpopDTG1s/d33291d426eac29a4a5c0563e717376d/previewing-ultrafast-mode--cover-1080x1080-v001.png?w=3840&q=90&fm=webp)
 
-[How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mysteryApplied AIJun 23, 2026](</index/gpt-5-immunology-mystery/>)
+[Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speedProductAug 13, 2026](</index/previewing-ultrafast/>)
 
-![Omio > oai omio 1x1 card](https://images.ctfassets.net/kftzwdyauwt9/2nAmJWUrmCwC3avCecsdYa/34ddcd27c1c89aae828a7e91539b29df/oai_Omio_1x1.png?w=3840&q=90&fm=webp)
+![Dali Rajic > Article card](https://images.ctfassets.net/kftzwdyauwt9/5XuPL3BI8tkye6ojCL91Kc/74884b051d5c1a553cae8d3b952c79fe/dali-rajic-article-card-square-crop-v3.png?w=3840&q=90&fm=webp)
 
-[How Omio is building the future of conversational travelJun 23, 2026](</index/omio/>)
+[OpenAI appoints Dali Rajic as Chief Revenue OfficerCompanyAug 13, 2026](</index/dali-rajic-chief-revenue-officer/>)
 
 Research
 
@@ -168,9 +154,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -207,6 +193,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -240,6 +228,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

@@ -38,7 +38,7 @@ OpenAI
 
 Blend360 is a premier AI and data science services provider that helps organizations unlock growth, accelerate innovation, and solve complex business challenges. As an OpenAI services partner, we combine industry expertise, data science, engineering, and transformation capabilities with OpenAI’s technology to turn AI opportunities into scalable solutions. Our teams support clients from strategy and use-case prioritization through solution design, implementation, adoption, and governance. By combining world-class talent, data-driven thinking, and AI capabilities, Blend360 helps organizations redesign workflows, build AI-powered solutions, make smarter decisions, and create lasting value.
 
-![Select Partner](/images/partner-tier-badges/OAI_PartnerNetwork_SelectPartner.svg?dpl=dpl_4BCDoauaaZ4vvxsT2ZNWHLfWG4mF)
+![Select Partner](/images/partner-tier-badges/OAI_PartnerNetwork_SelectPartner.svg?dpl=dpl_FVk4QodRZ5kG9YVJMACPwdTCDJ7A)
 
 Countries served
     Global
@@ -46,7 +46,7 @@ Countries served
 Industries
     Financial Services, Healthcare & Life Sciences, Retail & Consumer Goods, Telecommunications, and Travel & Hospitality
 
-Joint partners
+Program partners
     AWS
 
 Research

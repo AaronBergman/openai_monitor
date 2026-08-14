@@ -38,7 +38,7 @@ Use case: [Developer Tools](</business/plugins/?tab=apps-developer-tools>)
 
 Made by: OpenAI
 
-Website: [github.com(opens in a new window)](<https://github.com>)
+Website: [github.com(opens in a new window)](<https://github.com/>)
 
 ## How it works
 

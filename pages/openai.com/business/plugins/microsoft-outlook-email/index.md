@@ -38,7 +38,7 @@ Use case: [Collaboration](</business/plugins/?tab=apps-collaboration>)
 
 Made by: OpenAI
 
-Website: [microsoft.com(opens in a new window)](<https://microsoft.com>)
+Website: [microsoft.com(opens in a new window)](<https://www.microsoft.com/en-us/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook>)
 
 ## How it works
 

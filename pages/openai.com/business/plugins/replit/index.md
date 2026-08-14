@@ -36,7 +36,7 @@ Use case: [Developer Tools](</business/plugins/?tab=apps-developer-tools>)
 
 Made by: Replit
 
-Website: [replit.com(opens in a new window)](<https://replit.com>)
+Website: [replit.com(opens in a new window)](<https://www.replit.com>)
 
 ## How it works
 

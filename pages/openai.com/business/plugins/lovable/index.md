@@ -46,9 +46,9 @@ Build apps and websites.
 
 Use case: [Developer Tools](</business/plugins/?tab=apps-developer-tools>)
 
-Made by: Lovable
+Made by: Lovable Labs
 
-Website: [lovable.dev(opens in a new window)](<https://lovable.dev>)
+Website: [lovable.dev(opens in a new window)](<https://lovable.dev/>)
 
 ## How it works
 

@@ -36,7 +36,7 @@ Create marketing campaigns.
 
 Use case: [Go-to-Market](</business/plugins/?tab=apps-go-to-market>)
 
-Made by: Mailchimp
+Made by: Intuit Inc
 
 Website: [mailchimp.com(opens in a new window)](<https://mailchimp.com>)
 

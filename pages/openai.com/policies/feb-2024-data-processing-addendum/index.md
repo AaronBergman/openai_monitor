@@ -26,6 +26,14 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
+Select language
+
+…
+
+Updated: February 15, 2024
+
+# Data processing addendum
+
 1\. Processing Requirements
 
   * 1\. Processing Requirements
@@ -46,13 +54,23 @@ OpenAI
 
 
 
-Select language
+  * 1\. Processing Requirements
+  * 2\. Notice to Customer
+  * 3\. Assistance to Customer
+  * 4\. Required Processing
+  * 5\. Security
+  * 6\. Obligations of Customer
+  * 7\. International Data Transfers
+  * 8\. Term; Data Return and Deletion
+  * Exhibit A
+  * A. LIST OF PARTIES
+  * B. DESCRIPTION OF TRANSFER
+  * C. COMPETENT SUPERVISORY AUTHORITY
+  * Exhibit B
+  * INTRODUCTION
+  * SECURITY MEASURES
 
-…
 
-Updated: February 15, 2024
-
-# Data processing addendum
 
 This Data Processing Addendum (“**DPA** ”) governs OpenAI’s processing of Customer Data (i) provided by Customer to OpenAI through OpenAI’s API or any OpenAI services for businesses (“**API Services** ”) or (ii) pursuant to OpenAI’s provision of the ChatGPT Enterprise service for businesses (the “**ChatGPT Enterprise Services** ”) (for purposes of this DPA, the API Services and ChatGPT Enterprise Services are together the “**Services** ”) under the terms of the OpenAI Business Terms (located at openai.com/policies/business-terms), Enterprise Agreement, or other agreement between Customer and OpenAI governing Customer’s use of the Services (the “**Agreement** ”) and is hereby incorporated into the Agreement. If and to the extent language in this DPA conflicts with the Agreement, the conflicting terms in this DPA shall control. Capitalized terms not defined in this DPA have the meaning set forth in the Agreement. For the purposes of this DPA only, “**Customer** ” includes any affiliate entity of Customer’s that (a) has entered into an Order Form with OpenAI and that (b) directly or indirectly, through one or more intermediaries controls, is controlled by, or is under common control with Customer.
 
@@ -360,9 +378,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -399,6 +417,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -432,6 +452,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

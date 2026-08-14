@@ -38,9 +38,9 @@ Explore and analyyze your content.
 
 Use case: [File Sharing](</business/plugins/?tab=apps-file-sharing>)
 
-Made by: Egnyte
+Made by: Egnyte Inc
 
-Website: [egnyte.com(opens in a new window)](<https://egnyte.com>)
+Website: [egnyte.com(opens in a new window)](<https://www.egnyte.com>)
 
 ## How it works
 

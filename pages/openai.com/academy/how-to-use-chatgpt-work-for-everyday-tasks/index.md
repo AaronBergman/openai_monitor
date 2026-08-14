@@ -80,13 +80,13 @@ Discover additional guides and resources to help you build practical AI skills.
 
 [View all](</news/>)
 
-![How sales teams use Codex > card image](https://images.ctfassets.net/kftzwdyauwt9/1O4te2wMh6O77eDV6kapG3/02845b054a09297b9fada40c4cc9a71f/sales_teams.png?w=3840&q=90&fm=webp)
-
-[How sales teams use ChatGPT Work | OpenAIOpenAI AcademyJul 14, 2026](</academy/codex-for-work/how-sales-teams-use-codex/>)
-
 ![How data science teams use Codex > card image](https://images.ctfassets.net/kftzwdyauwt9/xyevYnp4Ptaa1eMgBDNjS/75fea80018f321b89809d893f1a5786d/data_science_teams.png?w=3840&q=90&fm=webp)
 
-[How data science teams use ChatGPT Work | OpenAIOpenAI AcademyJul 14, 2026](</academy/codex-for-work/how-data-science-teams-use-codex/>)
+[How data science teams use ChatGPT Work | OpenAIOpenAI AcademyJul 14, 2026](</academy/chatgpt-work/how-data-science-teams-use-codex/>)
+
+![How sales teams use Codex > card image](https://images.ctfassets.net/kftzwdyauwt9/1O4te2wMh6O77eDV6kapG3/02845b054a09297b9fada40c4cc9a71f/sales_teams.png?w=3840&q=90&fm=webp)
+
+[How sales teams use ChatGPT Work | OpenAIOpenAI AcademyJul 14, 2026](</academy/chatgpt-work/how-sales-teams-use-codex/>)
 
 ![Academy > Getting started > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/1Xk9723QKj2Vb9dC6RMebS/5e588c112042794e62178a224eaff418/getting-started.png?w=3840&q=90&fm=webp)
 

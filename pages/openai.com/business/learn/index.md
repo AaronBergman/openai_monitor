@@ -36,6 +36,10 @@ GuidesOpenAI on OpenAIWebinarsDemos
 
 #### Guides
 
+![The builder’s guide to GPT-5.6 — Card image — Neutral Option 075](https://images.ctfassets.net/kftzwdyauwt9/4jmIFt2vH2c51Fj99rAiqH/bf22866b22d59f6230785fe304fee20c/the-builders-guide-to-gpt-5-6-option-075-card.png?w=3840&q=90&fm=webp)
+
+[The builder’s guide to GPT‑5.6Technical lessons from startups in production](</index/builders-guide-to-gpt-5-6/>)
+
 ![How to manage AI investments in the agentic era > Cover image](https://images.ctfassets.net/kftzwdyauwt9/1qXMreHMXalbFSVXr2CJXW/acbd7f4e05bd38b80a99523967ef69b7/Frame.png?w=3840&q=90&fm=webp)
 
 [How to manage AI investments in the agentic eraFive practical steps to understand AI usage, control spend, and invest in the work that creates the most value.](</index/managing-ai-investments-in-agentic-era/>)
@@ -54,7 +58,7 @@ GuidesOpenAI on OpenAIWebinarsDemos
 
 ![B2B Signals > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/4m1ZOzwi9LOdcI5VNCLZD1/e64d0e19ef2fe66e6121a5706c0fbc9f/b2b_signals.png?w=3840&q=90&fm=webp)
 
-[OpenAI B2B SignalsThe AI advantage is beginning to compound](</signals/b2b/>)
+[OpenAI B2B SignalsThe AI advantage is beginning to compound](</signals/enterprise-data/>)
 
 ![Abstract, softly blurred gradient with flowing shapes in blue, green, and yellow tones, resembling light waves or a smooth, colorful background.](https://images.ctfassets.net/kftzwdyauwt9/TIijWsWOQoRzYm6kYZIQH/3cbddddb5c9f516fe75196baf0da8852/reinventing-the-enterprise-product-delivery-lifecycle-for-an-agentic-world.png?w=3840&q=90&fm=webp)
 
@@ -87,10 +91,6 @@ GuidesOpenAI on OpenAIWebinarsDemos
 ![Abstract digital artwork with gradients of purple, pink, and blue forming soft geometric shapes and streaks, creating a futuristic and minimalistic atmosphere.](https://images.ctfassets.net/kftzwdyauwt9/2rUSG4XSMDGLJMBdfgtVH/97f5474b4822fccb60211817a5cceb65/chatgpt-usage-and-adoption-patterns-at-work-IMAGE.png?w=3840&q=90&fm=webp)
 
 [ChatGPT usage and adoption patterns at workHow companies are using ChatGPT.](</business/guides-and-resources/chatgpt-usage-and-adoption-patterns-at-work/>)
-
-![Abstract image of purple and pinks](https://images.ctfassets.net/kftzwdyauwt9/7w4bLrIfD9fONHTm36gMvl/522a50419f9faeac4b7d1cf6c4761a4b/identifyAndScale.png?w=3840&q=90&fm=webp)
-
-[Identifying and scaling AI use casesHow early adopters focus their AI efforts.](</business/guides-and-resources/identifying-and-scaling-ai-use-cases/>)
 
 ![Abstract image with dynamic motion blur of white and blue shapes against a bright cyan background, creating a sense of flow and energy.](https://images.ctfassets.net/kftzwdyauwt9/1ozIFH0AAOBn00Qjtt8ruJ/7061ac5ae180dfeaf664cd926d8eb1aa/oai-how-small-teams-win-with-chatgpt.png?w=3840&q=90&fm=webp)
 

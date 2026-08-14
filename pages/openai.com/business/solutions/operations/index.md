@@ -153,7 +153,7 @@ Graham Ganssle, Supplier Support Operations, Wayfair
 
 ![How business operations teams use Codex > card image](https://images.ctfassets.net/kftzwdyauwt9/JR9MMoyTo7eFFF8Nv13Qc/43414ee0c762db49e36bda8ae0d35e39/bus_ops_teams.png?w=3840&q=90&fm=webp)
 
-[AcademyBuild AI skills with hands-on lessons and learning paths from OpenAI.May 15, 2026Learn more ↗](</academy/codex-for-work/how-business-operations-teams-use-codex/>)
+[AcademyBuild AI skills with hands-on lessons and learning paths from OpenAI.May 15, 2026Learn more ↗](</academy/chatgpt-work/how-business-operations-teams-use-codex/>)
 
 ![Business Learning Hub 1x1](https://images.ctfassets.net/kftzwdyauwt9/3WaN0u4u87BK3dXsD569qh/f40a4e250dc00d0bbf5ec418be81fc9c/Business_Learning_Hub_1x1.png?w=3840&q=90&fm=webp)
 

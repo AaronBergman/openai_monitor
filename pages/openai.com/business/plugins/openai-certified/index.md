@@ -34,9 +34,7 @@ Complete structured AI skills courses with applied practice and certificates.
 
 Use case: [Developer Tools](</business/plugins/?tab=apps-developer-tools>)
 
-Made by: OpenAI
-
-Website: [openai.com(opens in a new window)](<https://openai.com>)
+Made by: OpenAI Certified
 
 ## How it works
 

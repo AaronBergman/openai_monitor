@@ -38,7 +38,7 @@ Use case: [Project Management](</business/plugins/?tab=apps-project-management>)
 
 Made by: Notion
 
-Website: [notion.com(opens in a new window)](<https://notion.com>)
+Website: [notion.so(opens in a new window)](<https://www.notion.so/>)
 
 ## How it works
 

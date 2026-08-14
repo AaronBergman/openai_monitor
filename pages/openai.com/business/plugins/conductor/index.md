@@ -38,9 +38,9 @@ Track brand sentiment in AI.
 
 Use case: [Go-to-Market](</business/plugins/?tab=apps-go-to-market>) and [Data](</business/plugins/?tab=apps-data>)
 
-Made by: Conductor
+Made by: Conductor Inc.
 
-Website: [conductor.com(opens in a new window)](<https://conductor.com>)
+Website: [conductor.com(opens in a new window)](<https://www.conductor.com/>)
 
 ## How it works
 

@@ -36,9 +36,9 @@ Sync projects, tasks, milestones, and comments for status updates.
 
 Use case: [Project Management](</business/plugins/?tab=apps-project-management>)
 
-Made by: Teamwork.com
+Made by: OpenAI
 
-Website: [Teamwork.com(opens in a new window)](<https://Teamwork.com>)
+Website: [teamwork.com(opens in a new window)](<https://www.teamwork.com/>)
 
 ## How it works
 

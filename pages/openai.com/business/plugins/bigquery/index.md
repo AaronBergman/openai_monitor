@@ -36,9 +36,9 @@ Explore BigQuery data and generate SQL from natural language.
 
 Use case: [Data](</business/plugins/?tab=apps-data>)
 
-Made by: Google
+Made by: OpenAI
 
-Website: [cloud.google.com(opens in a new window)](<https://cloud.google.com>)
+Website: [cloud.google.com(opens in a new window)](<https://cloud.google.com/bigquery>)
 
 ## How it works
 

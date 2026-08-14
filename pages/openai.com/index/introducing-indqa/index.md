@@ -26,17 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-How it works
-
-  * How it works
-  * How we built IndQA
-  * Example questions
-  * Improvements over time
-  * The experts behind IndQA
-  * Next steps
-
-
-
 November 3, 2025
 
 [Research](</news/research/>)[Release](</research/index/release/>)
@@ -50,6 +39,28 @@ A new benchmark for evaluating AI systems on Indian culture and languages.
 Loading…
 
 Share
+
+How it works
+
+  * How it works
+  * How we built IndQA
+  * Example questions
+  * Improvements over time
+    * Caveats
+  * The experts behind IndQA
+  * Next steps
+
+
+
+  * How it works
+  * How we built IndQA
+  * Example questions
+  * Improvements over time
+    * Caveats
+  * The experts behind IndQA
+  * Next steps
+
+
 
 Our mission is to make AGI benefit all of humanity. If AI is going to be useful for everyone, it needs to work well across languages and cultures. About 80 percent of people worldwide do not speak English as their primary language, yet most existing benchmarks that measure non-English language capabilities fall short. 
 
@@ -112,7 +123,7 @@ We use IndQA to evaluate how recent frontier models perform and chart progress o
 
 We also stratify performance on IndQA by Language and Domain below, comparing GPT‑5 Thinking High to other frontier models.
 
-#### Caveats
+### Caveats
 
 Because questions are _not identical_ across languages, IndQA is **not** a language leaderboard; cross‑language scores shouldn’t be interpreted as direct comparisons of language ability. Instead, we plan to use IndQA to measure _improvement over time_ within a model family or configuration.
 
@@ -153,19 +164,17 @@ OpenAI
 
 [View all](</news/>)
 
-![Art Card 1080x1080 \(3\)](https://images.ctfassets.net/kftzwdyauwt9/3JLNH7ejJFnxLmX2LpzoKD/19f9e3c4d36cc9d677ba88e842ad2db2/Art_Card_1080x1080__4_.png?w=3840&q=90&fm=webp)
+![ARC-AGI-3 art-card 1x1](https://images.ctfassets.net/kftzwdyauwt9/71xyJRWnTkM6EW1JKDUc59/91d2690ff9e7abaa975b4a5f64089056/ARC-AGI-3_art-card_1x1.png?w=3840&q=90&fm=webp)
 
-Better memory for a more helpful ChatGPT
+[How enabling two settings tripled our scores on the ARC-AGI-3 benchmarkResearchJul 29, 2026](</index/how-two-settings-tripled-our-arc-agi-3-scores/>)
 
-[Dreaming: Better memory for a more helpful ChatGPTResearchJun 4, 2026](</index/chatgpt-memory-dreaming/>)
+![oai Science Academic Research Academic Research 1x1](https://images.ctfassets.net/kftzwdyauwt9/59kTmFmujYzNh0VgSvCgwe/e9334dd9944b5309f8ca2d44fdc71b6f/academic-research-card.png?w=3840&q=90&fm=webp)
 
-![Rosalind5.5 ArtCard](https://images.ctfassets.net/kftzwdyauwt9/6USIQM1B7TggUvvTFxxwoi/0176ac6633c8bdc24641d25d1d2db824/GPT-Rosalind_ArtCard.png?w=3840&q=90&fm=webp)
+[Accelerating scientific discovery with ChatGPT for Academic ResearchersCompanyJul 29, 2026](</index/chatgpt-for-academic-researchers/>)
 
-[Introducing new capabilities to GPT-RosalindProductJun 3, 2026](</index/introducing-new-capabilities-to-gpt-rosalind/>)
+![Scientific computing agentic AI card image \(1x1\)](https://images.ctfassets.net/kftzwdyauwt9/5opqp3rNWM7eax6GUc6MAl/1c710a4aba8c5c1e0b7d1c1c7c8b32db/1x1__1_.png?w=3840&q=90&fm=webp)
 
-![1x1](https://images.ctfassets.net/kftzwdyauwt9/6ui4uYfTTbR4xbiFRcqEfo/81d973f14bea720820f692271f6c6834/square.png?w=3840&q=90&fm=webp)
-
-[Strengthening societal resilience with Rosalind BiodefenseProductMay 29, 2026](</index/strengthening-societal-resilience-with-rosalind-biodefense/>)
+[Scientific computing in the age of agentic AIPublicationJul 28, 2026](</index/scientific-computing-agentic-ai/>)
 
 Research
 
@@ -177,9 +186,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -216,6 +225,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -249,6 +260,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

@@ -1,6 +1,50 @@
 # openai_monitor
 
 
+## 2026-08-14 — Run `2026-08-14T09-19Z`
+
+**Fetch time:** 2026-08-14T09:19:59Z UTC | **Baseline:** 2026-08-13T09-16Z (consecutive day)
+
+**TL;DR:** OpenAI previewed "Ultrafast mode" for GPT-5.6 Sol (up to 14x faster inference, with a signup form and a new builder's guide), announced Dali Rajic as Chief Revenue Officer, and added IBM to its partner directory. The bigger story is structural: the `/business/` section is confirmed running two entirely different page designs at the same URLs — not just a nav-bar quirk as first suspected on 2026-08-08, but a full alternate hero/layout (old "Frontier intelligence everywhere you work" vs new "The next era of work is here") — alongside a sitewide nav expansion adding a "Supply Co." merch-store link and new model links, and a ~40-page cleanup of plugin-directory vendor metadata. No timestamp-based anomalies; a prior "sub-sitemap migration" flag from 2026-08-13 turned out to be a false positive from the diff methodology, corrected this run (see Anomalies).
+
+### Anomalies
+
+None triggered under this repo's defined checks (no future-dated or backwards-moving `<lastmod>`, no backdated new URLs, no reappeared URLs).
+
+**Methodology correction:** yesterday's report of 4 URLs "migrating" from the `global-affairs` sub-sitemap to `global-affairs-news-listed` was a false positive caused by picking whichever sub-sitemap a URL was last seen in, rather than tracking full membership. Those 4 URLs (`how-countries-can-end-the-capability-overhang`, `understanding-ai-and-learning-outcomes`, `equipping-workers-with-insights-about-compensation`, `global-affairs/new-economic-analysis`) are, and apparently always were, **cross-listed in both sub-sitemaps at once** — not moved. Detection now compares full sub-sitemap membership sets per URL; this run found zero genuine migrations.
+
+**Business section confirmed running two full alternate designs, not just a nav bug:** first flagged 2026-08-08 as a "nav template flip-flop." This run the `/business/` homepage itself served both variants across the day's fetches — old: "Frontier intelligence everywhere you work" hero + customer-logo carousel (Cisco, Morgan Stanley, BNY, Moderna, Uber) + "Introducing ChatGPT Work" callout; new: "The next era of work is here / Create, code, and innovate with OpenAI's tools and APIs" hero + a two-column "ChatGPT for Business"/"API Platform" layout. 14 pages total showed the associated nav-bar swap (old: Why OpenAI/Solutions/Resources/Customers/Pricing, "Try OpenAI"+"Contact sales" ↔ new: Research/Business/Developers/Company/Foundation, "Log in"+"Try ChatGPT"): `staying-ahead-in-the-age-of-ai`, `partners/altudo`, `partners/cognita-reply`, `partners/fellow-intelligence`, `partners/globant`, `partners/infosys`, `partners/kpmg`, `plugins/figma`, `plugins/klaviyo`, `plugins/microsoft-outlook-calendar`, `plugins/snowflake`, `solutions/cybersecurity`, `why-openai/startups`, `solutions/industries/government`. Given the homepage-level evidence, this reads less like a caching bug and more like a live A/B test or in-progress redesign rollout at the CDN edge.
+
+### Notable updates
+
+- **Sitewide nav expansion:** ~50 pages picked up new global-navigation items simultaneously — a **"Supply Co."** link to OpenAI's merch store (`/supply/`, whose product pages already existed but weren't linked from nav), plus **"Customer Stories,"** **"Partner Network,"** **"GPT-5.6,"** and **"GPT-5.3 Instant"** submenu entries. Reads as part of the same template rollout noted above.
+- **Plugin directory cleanup:** ~40 [`/business/plugins/<app>/`](pages/openai.com/business/plugins/index.md) pages had their "Made by:" and "Website:" fields normalized to short-name/bare-domain form (e.g. "Made by: Adobe Acrobat" → "Made by: Adobe"; `www.hubspot.com/` → `hubspot.com`). One page's vendor name actually changed rather than just its formatting: [`/business/plugins/spaceship/`](pages/openai.com/business/plugins/spaceship/index.md) now credits "Namecheap" instead of "Spaceship, Inc" (Spaceship is a Namecheap-owned registrar brand). The plugin directory grid also gained one-line descriptions under each app card and swapped GitLab Issues for HubSpot in its featured row.
+- **Partner relabel rollout continues:** 18 more partner pages (`blend360`, `booz-allen-hamilton`, `capco`, `cgi`, `cdw`, `deepsense-ai`, `dentsu-japan`, and others) flipped "Joint partners" → "Program partners," continuing the terminology change first seen on 6 pages on 2026-08-13.
+- **"Introducing ChatGPT Work" promo card** newly appeared on [`/business/frontier/`](pages/openai.com/business/frontier/index.md), [`/business/partners/dropbox/`](pages/openai.com/business/partners/dropbox/index.md), and [`/solutions/industries/retail/`](pages/openai.com/solutions/industries/retail/index.md).
+- **[`/business/solutions/data/`](pages/openai.com/business/solutions/data/index.md)** — "Upcoming webinar" banner rolled forward from an already-past August 11 session to a new September 10, 2026 session.
+
+### New pages
+
+- **[`/index/previewing-ultrafast/`](pages/openai.com/index/previewing-ultrafast/index.md)** — "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed," a new faster-inference tier for GPT-5.6 Sol.
+- **[`/form/ultrafast/`](pages/openai.com/form/ultrafast/index.md)** — signup form for Ultrafast mode access.
+- **[`/index/builders-guide-to-gpt-5-6/`](pages/openai.com/index/builders-guide-to-gpt-5-6/index.md)** — developer guide for building with GPT-5.6.
+- **[`/index/dali-rajic-chief-revenue-officer/`](pages/openai.com/index/dali-rajic-chief-revenue-officer/index.md)** — OpenAI names Dali Rajic as Chief Revenue Officer.
+- **[`/business/partners/ibm/`](pages/openai.com/business/partners/ibm/index.md)** — new IBM partner directory page, added to the partner logo grid on [`/business/partners/`](pages/openai.com/business/partners/index.md).
+
+### Removals
+
+None this run.
+
+### Routine, low-signal updates
+
+Of the 343 lastmod-updated URLs: 116 were pure "related articles" widget rotation with zero body-text change; 42 had only the new global-nav items (Supply Co./GPT-5.6/GPT-5.3 Instant/Customer Stories/Partner Network) as their sole difference; 14 were the nav-variant flip-flop; 18 were the partner relabel; the rest were the plugin metadata cleanup plus a handful of older article pages whose date/title/share-button block re-rendered in a different position with no text change (likely the same template-variance issue as the nav flip-flop, just lower on the page), and `/products/release-notes/` reordering three already-known entries with no new content. Full breakdown in [`runs/2026-08-14T09-19Z/analysis.md`](runs/2026-08-14T09-19Z/analysis.md).
+
+**Stats:** 1,582 total URLs | +5 added | 343 updated | -0 removed | 0 anomalies (2 notable observations) | 35 sub-sitemaps
+
+Full analysis: [runs/2026-08-14T09-19Z/analysis.md](runs/2026-08-14T09-19Z/analysis.md)
+
+---
+
 ## 2026-08-13 — Run `2026-08-13T09-16Z`
 
 **Fetch time:** 2026-08-13T09:18:35Z UTC | **Baseline:** 2026-08-12T09-19Z (consecutive day)

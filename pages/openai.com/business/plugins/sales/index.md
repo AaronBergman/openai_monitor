@@ -38,7 +38,7 @@ Use case: [Go-to-Market](</business/plugins/?tab=apps-go-to-market>)
 
 Made by: OpenAI
 
-Website: [openai.com(opens in a new window)](<https://openai.com>)
+Website: [openai.com(opens in a new window)](<https://openai.com/>)
 
 ## How it works
 

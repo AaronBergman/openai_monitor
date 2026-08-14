@@ -132,6 +132,22 @@ Customer stories
 
 Filter
 
+![RingCentral customer story card image](https://images.ctfassets.net/kftzwdyauwt9/6WzF4VutJu2invSV6RybO2/6961cdf4099a44909ba58c02969369b1/ringcentral-drive-card.png?w=3840&q=90&fm=webp)
+
+[How RingCentral builds AI-native work from engineering to opsAug 12, 2026](</index/ringcentral/>)
+
+![Model ML customer story card image](https://images.ctfassets.net/kftzwdyauwt9/3STNMQMrFRC8mFdLYtjkV4/9cc21e9c729b2ae7cdf75aa3f49b3033/modelml-card.png?w=3840&q=90&fm=webp)
+
+[Model ML completes finance work more efficiently with GPT-5.6 SolStartupAug 10, 2026](</index/model-ml/>)
+
+![Virgin Atlantic ChatGPT Work card image](https://images.ctfassets.net/kftzwdyauwt9/4G2F8rchz4lfJxdQGBYEb0/e367ed4f9ac0a5cfe505ddb1eed20393/oai_VirginAtlantic_1x1.png?w=3840&q=90&fm=webp)
+
+[Virgin Atlantic sharpens customer journeys with ChatGPT WorkAug 10, 2026](</index/virgin-atlantic/chatgpt-work/>)
+
+![Zapier customer story 1x1 artcard](https://images.ctfassets.net/kftzwdyauwt9/6HUH0KlGRmTuI2IZ6h334C/3c78b804553f7184f6d72c9b33a668c3/oai_Zapier_1x1.png?w=3840&q=90&fm=webp)
+
+[How Zapier transformed core marketing processes with ChatGPT WorkAug 10, 2026](</index/zapier/>)
+
 ![oai HSPGruppe 1x1](https://images.ctfassets.net/kftzwdyauwt9/2BdpQMESZ6vBBL3ms66ixC/369405aa3d8ed5a5e2994e0390e0d8a6/oai_HSPGruppe_1x1.png?w=3840&q=90&fm=webp)
 
 [How HSP GRUPPE builds AI capabilities for tax advisoryAug 7, 2026](</index/hsp-gruppe/>)
@@ -163,22 +179,6 @@ Filter
 ![Australian Payments Plus hero 1x1](https://images.ctfassets.net/kftzwdyauwt9/4dOzo0MCH8IYZpHDieNgbg/8c27d9ee088b65ed45bef5a097c800e6/oai_Australian_Payments_Plus_1x1.png?w=3840&q=90&fm=webp)
 
 [Australian Payments Plus moves faster with ChatGPT and CodexJul 7, 2026](</index/australian-payments-plus/>)
-
-![MUFG customer story 1x1 hero and card image](https://images.ctfassets.net/kftzwdyauwt9/NuwuwCk19PIxGLHg92dkW/92c24518bb5432f9491b801b006fa7e4/oai_MUFG_1x1.png?w=3840&q=90&fm=webp)
-
-[MUFG aims to become AI-native with OpenAIJul 7, 2026](</index/mufg/>)
-
-![Omio > oai omio 1x1 card](https://images.ctfassets.net/kftzwdyauwt9/2nAmJWUrmCwC3avCecsdYa/34ddcd27c1c89aae828a7e91539b29df/oai_Omio_1x1.png?w=3840&q=90&fm=webp)
-
-[How Omio is building the future of conversational travelJun 23, 2026](</index/omio/>)
-
-![Preply Customer story > oai preply 1x1](https://images.ctfassets.net/kftzwdyauwt9/6PmaSoARNrmSZ6QRM8G4Ev/08a3dd4653efbda42894c90b374b6bcf/oai_Preply_1x1.png?w=3840&q=90&fm=webp)
-
-[How Preply combines AI and human tutors to personalize learningJun 12, 2026](</index/preply/>)
-
-![BBVA  > oai bbva 1x1](https://images.ctfassets.net/kftzwdyauwt9/4Ygin6jpvTgfSBwBXZOJCb/76cb2f180b135e568c6f2b73cb97b236/oai_BBVA_1x1.png?w=3840&q=90&fm=webp)
-
-[BBVA puts AI at the core of banking with OpenAIJun 11, 2026](</index/bbva/>)
 
 Load more
 

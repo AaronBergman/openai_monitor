@@ -38,7 +38,7 @@ Use case: [Finance](</business/plugins/?tab=apps-finance>) and [Developer Tools]
 
 Made by: Alpaca
 
-Website: [alpaca.markets(opens in a new window)](<https://alpaca.markets>)
+Website: [alpaca.markets(opens in a new window)](<https://alpaca.markets/>)
 
 ## How it works
 

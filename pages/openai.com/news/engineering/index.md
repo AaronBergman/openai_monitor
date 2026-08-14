@@ -53,6 +53,10 @@ Switch cards to show Media
 
 Switch cards to hide Media
 
+![Continuous voice interaction with GPT Live - art card](https://images.ctfassets.net/kftzwdyauwt9/3PyfDzfjOozLbJnaZIkRLD/6aef080bb4e7d6a6b8a6dc23436848db/gpt-live-art-card.png?w=3840&q=90&fm=webp)
+
+[Continuous voice interaction with GPT LiveEngineeringAug 3, 2026](</index/continuous-voice-interaction-with-gpt-live/>)
+
 ![GPT-5.6 efficiency article — art card](https://images.ctfassets.net/kftzwdyauwt9/5ExPWhZDZXbZgTHE7aeE5d/0526071f749a3b44adff3c45a12322b7/How_GPT-5.6_fuses_frontier_intelligence_with_frontier_efficiency_ART_CARD__1_.png?w=3840&q=90&fm=webp)
 
 [How GPT-5.6 fuses frontier intelligence with frontier efficiencyEngineeringJul 29, 2026](</index/gpt-5-6-frontier-intelligence-efficiency/>)
@@ -84,10 +88,6 @@ Switch cards to hide Media
 ![WebSocket > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/6LosFlEPrOVPjLQHXLuMuI/ae6df51e50a6ad0b238d55c0dfcaf5a0/Websocket_Art_Card_1x1.png?w=3840&q=90&fm=webp)
 
 [Speeding up agentic workflows with WebSockets in the Responses APIEngineeringApr 22, 2026](</index/speeding-up-agentic-workflows-with-websockets/>)
-
-![Equip responses API > card image](https://images.ctfassets.net/kftzwdyauwt9/3jlUoU9Wdm40ix7aXkHKXa/bfc2f91468154453e4aacedffec70dd6/Art_Card__3_.png?w=3840&q=90&fm=webp)
-
-[From model to agent: Equipping the Responses API with a computer environment EngineeringMar 11, 2026](</index/equip-responses-api-computer-environment/>)
 
 Load more
 

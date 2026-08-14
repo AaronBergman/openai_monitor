@@ -32,13 +32,13 @@ Analyze lakehouse data and dashboards with natural language.
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/Plugin_1e24c86b19248191a8c6abb5bc115819>)[Contact sales](</contact-sales/>)
 
-[@Databricks Genie Inspect Databricks workspace objects, SQL resources, jobs, Unity Catalog assets, and serving endpoints(opens in a new window)](<https://chatgpt.com/?prompt=%40Databricks+Genie+Inspect+Databricks+workspace+objects%2C+SQL+resources%2C+jobs%2C+Unity+Catalog+assets%2C+and+serving+endpoints>)
+[@Databricks Genie Inspect Databricks workspace objects, SQL resources, jobs, Lakeflow pipelines, Unity Catalog assets, and serving endpoints(opens in a new window)](<https://chatgpt.com/?prompt=%40Databricks+Genie+Inspect+Databricks+workspace+objects%2C+SQL+resources%2C+jobs%2C+Lakeflow+pipelines%2C+Unity+Catalog+assets%2C+and+serving+endpoints>)
 
 Use case: [Data](</business/plugins/?tab=apps-data>)
 
-Made by: Databricks
+Made by: OpenAI
 
-Website: [databricks.com(opens in a new window)](<https://databricks.com>)
+Website: [databricks.com(opens in a new window)](<https://www.databricks.com/>)
 
 ## How it works
 

@@ -51,6 +51,22 @@ Switch cards to show Media
 
 Switch cards to hide Media
 
+![GPT-Daybreak > Cover](https://images.ctfassets.net/kftzwdyauwt9/2iqsbTTLvgMNteNampw3gW/a38ed04432ee5548c4aec6c7b7a506f2/1x1_Art_Card.png?w=3840&q=90&fm=webp)
+
+[Expanding Daybreak as the Cyber Defense Window NarrowsSecurityAug 10, 2026](</index/expanding-daybreak-as-the-cyber-defense-window-narrows/>)
+
+![Daybreak partners 1x1](https://images.ctfassets.net/kftzwdyauwt9/3AQ3qKm4Rmbjm2C1cLKvkJ/d049df2fdc96d1c5dfc695f00c257ce2/Art_Card.png?w=3840&q=90&fm=webp)
+
+[Putting frontier cyber models in more trusted handsSecurityAug 10, 2026](</index/putting-frontier-cyber-models-in-more-trusted-hands/>)
+
+![Critical cyber capabilities card art](https://images.ctfassets.net/kftzwdyauwt9/1P18WVIhz3l2xY4d9JB8H0/b8f0c3c0797e99f4e1fa2e73dc1896ad/Frame.png?w=3840&q=90&fm=webp)
+
+[Responding to the next frontier of critical cyber capabilitiesSecurityAug 7, 2026](</index/responding-next-frontier-critical-cyber-capabilities/>)
+
+![update-external-cyber-testing-incidents 1x1](https://images.ctfassets.net/kftzwdyauwt9/7oFUbOnJRSWvGV68vRvcQq/36673fabe9bf1643000994531bc76d2e/update-external-cyber-testing-incidents_1x1.png?w=3840&q=90&fm=webp)
+
+[Third-party cyber evaluations involving OpenAI modelsSecurityAug 4, 2026](</index/third-party-cyber-evaluations-involving-openai-models/>)
+
 ![Hugging Face Security Incident 1x1](https://images.ctfassets.net/kftzwdyauwt9/1H0bdkoSFFcqNTx4DSNpal/56f4b7575c012f0698b1be0dafb379f0/Hugging_Face_Security_Incident_1x1.png?w=3840&q=90&fm=webp)
 
 [OpenAI and Hugging Face address security incidentSecurityJul 21, 2026](</index/hugging-face-model-evaluation-security-incident/>)
@@ -70,22 +86,6 @@ Switch cards to hide Media
 ![Frame](https://images.ctfassets.net/kftzwdyauwt9/32jPyVqUObkTrIIyA6tJV1/4eb384b5bb2f21ccea5de7665858a37a/Frame.png?w=3840&q=90&fm=webp)
 
 [Our response to the TanStack npm supply chain attackCompanyMay 13, 2026](</index/our-response-to-the-tanstack-npm-supply-chain-attack/>)
-
-![Running Codex safely at OpenAI > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/76rTHgn2J3y6srtNd3ZrRs/71fc86af978baecda10b212fdb5d3609/Frame.png?w=3840&q=90&fm=webp)
-
-[Running Codex safely at OpenAISecurityMay 8, 2026](</index/running-codex-safely/>)
-
-![Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber > Art Card Image](https://images.ctfassets.net/kftzwdyauwt9/6BHwtZlzRX7xMewO3wnC7d/67c616a7b8371dab9939110da0b8e0e2/art-card-trusted-access.png?w=3840&q=90&fm=webp)
-
-[Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-CyberSecurityMay 7, 2026](</index/gpt-5-5-with-trusted-access-for-cyber/>)
-
-![A soft, abstract gradient blending cool blue tones with hints of pink and green](https://images.ctfassets.net/kftzwdyauwt9/4qS0zHVYqjyQCXbjR0GBgo/afaf8ff54069198f148dec57aa40461b/ArtCard-Introducing_Advanced_Account_Security_for_ChatGPT_accounts.png?w=3840&q=90&fm=webp)
-
-[Introducing Advanced Account SecurityProductApr 30, 2026](</index/advanced-account-security/>)
-
-![Introducing OpenAI Privacy Filter](https://images.ctfassets.net/kftzwdyauwt9/1QC19b0SnrQJTDqGRfze1s/e1eb7f76da62522b1bd0c9a6f553833d/ArtCard-Introducing-OpenAI-Filter.png?w=3840&q=90&fm=webp)
-
-[Introducing OpenAI Privacy FilterResearchApr 22, 2026](</index/introducing-openai-privacy-filter/>)
 
 Load more
 

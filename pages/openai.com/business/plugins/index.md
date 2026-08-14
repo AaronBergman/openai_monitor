@@ -26,14 +26,6 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 OpenAI
 
-New
-
-### Introducing ChatGPT Work: 
-
-A new agent in ChatGPT that helps teams turn ambitious goals into finished work—with enterprise controls and governance built in.
-
-[Learn more](</chatgpt-work/>)
-
 # Connect your business plugins to your AI workflows
 
 Plugins bring context from your tools and data into ChatGPT and the API, helping you create, analyze, and take action in one place.
@@ -58,7 +50,7 @@ Plugins bring context from your tools and data into ChatGPT and the API, helping
 
 Filter
 
-##### [Salesforce](</business/plugins/salesforce/>)##### [Snowflake](</business/plugins/snowflake/>)##### [Databricks Genie](</business/plugins/databricks/>)##### [BigQuery](</business/plugins/bigquery/>)##### [Data Analytics](</business/plugins/data-analytics/>)##### [Creative Production](</business/plugins/creative-production/>)##### [Sales](</business/plugins/sales/>)##### [Product Design](</business/plugins/product-design/>)##### [Public Equity Investing](</business/plugins/public-equity-investing/>)##### [Investment Banking](</business/plugins/investment-banking/>)##### [Google Drive](</business/plugins/google-drive/>)##### [Gmail](</business/plugins/gmail/>)##### [Google Calendar](</business/plugins/google-calendar/>)##### [Outlook Calendar](</business/plugins/microsoft-outlook-calendar/>)##### [Outlook Email](</business/plugins/microsoft-outlook-email/>)##### [SharePoint](</business/plugins/microsoft-sharepoint/>)##### [Microsoft Teams](</business/plugins/microsoft-teams/>)##### [Slack](</business/plugins/slack/>)##### [Box](</business/plugins/box/>)##### [Dropbox](</business/plugins/dropbox/>)##### [Stripe](</business/plugins/stripe/>)##### [GitHub](</business/plugins/github/>)##### [GitLab Issues](</business/plugins/gitlab-issues/>)##### [Azure Boards](</business/plugins/azure-boards/>)
+##### [SalesforceReview CRM records and update sales workflows.](</business/plugins/salesforce/>)##### [SnowflakeAsk governed analytics questions of Snowflake data.](</business/plugins/snowflake/>)##### [Databricks GenieAnalyze lakehouse data and dashboards with natural language.](</business/plugins/databricks/>)##### [BigQueryExplore BigQuery data and generate SQL from natural language.](</business/plugins/bigquery/>)##### [Data AnalyticsTurn data into clear decisions.](</business/plugins/data-analytics/>)##### [Creative ProductionCreate and adapt marketing assets faster.](</business/plugins/creative-production/>)##### [SalesPrepare account work and customer follow-up.](</business/plugins/sales/>)##### [Product DesignTurn product ideas into designs and research artifacts.](</business/plugins/product-design/>)##### [Public Equity InvestingSupport company research and deal analysis.](</business/plugins/public-equity-investing/>)##### [Investment BankingBuild banking analysis and client-ready materials.](</business/plugins/investment-banking/>)##### [Google DriveSearch and reference files from your Drive.](</business/plugins/google-drive/>)##### [GmailFind and reference emails from your inbox.](</business/plugins/gmail/>)##### [Google CalendarLook up events and availability.](</business/plugins/google-calendar/>)##### [Outlook CalendarLook up events and availability.](</business/plugins/microsoft-outlook-calendar/>)##### [Outlook EmailSearch and reference your Outlook email.](</business/plugins/microsoft-outlook-email/>)##### [SharePointSearch and pull from shared sites and OneDrive.](</business/plugins/microsoft-sharepoint/>)##### [Microsoft TeamsLook up chats and messages.](</business/plugins/microsoft-teams/>)##### [SlackLook up chats and messages.](</business/plugins/slack/>)##### [BoxSearch and reference your documents.](</business/plugins/box/>)##### [DropboxFind and access your stored files.](</business/plugins/dropbox/>)##### [StripeManage your business and develop your payments integration.](</business/plugins/stripe/>)##### [GitHubAccess repositories, issues, and pull requests.](</business/plugins/github/>)##### [Azure BoardsConnect to sync Azure DevOps work items and repos for use in ChatGPT.](</business/plugins/azure-boards/>)##### [HubSpotAnalyze CRM data and surface insights.](</business/plugins/hubspot/>)
 
 Load more
 
@@ -185,6 +177,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

@@ -48,7 +48,7 @@ Use case: [Developer Tools](</business/plugins/?tab=apps-developer-tools>)
 
 Made by: Cloudinary
 
-Website: [cloudinary.com(opens in a new window)](<https://cloudinary.com>)
+Website: [cloudinary.com(opens in a new window)](<https://cloudinary.com/>)
 
 ## How it works
 

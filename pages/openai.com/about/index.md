@@ -63,6 +63,10 @@ Developing safe and beneficial AI requires people from a wide range of disciplin
 
 * * *
 
+![math-breakthroughs art-card 1x1](https://images.ctfassets.net/kftzwdyauwt9/2zkd5RIOug4FcEj62mdSF4/3ea9e19c0456289c69f0d839cc929cb2/math-breakthroughs_art-card_1x1.png?w=3840&q=90&fm=webp)
+
+[Ten advances in mathematics and theoretical computer sciencePublication](</index/ten-advances-in-mathematics/>)
+
 ![ARC-AGI-3 art-card 1x1](https://images.ctfassets.net/kftzwdyauwt9/71xyJRWnTkM6EW1JKDUc59/91d2690ff9e7abaa975b4a5f64089056/ARC-AGI-3_art-card_1x1.png?w=3840&q=90&fm=webp)
 
 [How enabling two settings tripled our scores on the ARC-AGI-3 benchmarkResearch](</index/how-two-settings-tripled-our-arc-agi-3-scores/>)
@@ -74,10 +78,6 @@ Developing safe and beneficial AI requires people from a wide range of disciplin
 ![Scientific computing agentic AI card image \(1x1\)](https://images.ctfassets.net/kftzwdyauwt9/5opqp3rNWM7eax6GUc6MAl/1c710a4aba8c5c1e0b7d1c1c7c8b32db/1x1__1_.png?w=3840&q=90&fm=webp)
 
 [Scientific computing in the age of agentic AIPublication](</index/scientific-computing-agentic-ai/>)
-
-![GPT-Red art card](https://images.ctfassets.net/kftzwdyauwt9/6q32m87ClqE8Ovn6vD424h/05ced72e47bbe42711fbac6a082cbff2/Art_Card.png?w=3840&q=90&fm=webp)
-
-[GPT-Red: Unlocking Self-Improvement for RobustnessSafety](</index/unlocking-self-improvement-gpt-red/>)
 
   * [Read more](</news/company-announcements/>)
 
