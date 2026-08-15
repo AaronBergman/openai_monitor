@@ -34,6 +34,14 @@ February 2, 2026
 
 Expanding what developers can do, with the new Codex app for macOS.
 
+## This post introduced the Codex app.
+
+For the current Codex product and team workflows, explore:
+
+[Codex](</codex/>)
+
+[ChatGPT Work](</chatgpt-work/>)
+
 Loading…
 
 Share
@@ -66,7 +74,7 @@ The Codex app: A command center for agents
 
 Today, we’re introducing the Codex app for macOS—a powerful new interface designed to effortlessly manage multiple agents at once, run work in parallel, and collaborate with agents over long-running tasks.
 
-We're also excited to show more people what's now possible with [Codex⁠](<https://openai.com/codex>). For a limited time we're including Codex with ChatGPT Free and Go, and we're doubling the rate limits on Plus, Pro, Business, Enterprise, and Edu plans. Those higher limits apply everywhere you use Codex—in the app, from the CLI, in your IDE, and in the cloud.
+We’re also excited to show more people what’s now possible with [Codex⁠](<https://openai.com/codex>). For a limited time we’re including Codex with ChatGPT Free and Go, and we’re doubling the rate limits on Plus, Pro, Business, Enterprise, and Edu plans. Those higher limits apply everywhere you use Codex—in the app, from the CLI, in your IDE, and in the cloud.
 
 The Codex app changes how software gets built and who can build it—from pairing with a single coding agent on targeted edits to supervising coordinated teams of agents across the full lifecycle of designing, building, shipping, and maintaining software.
 

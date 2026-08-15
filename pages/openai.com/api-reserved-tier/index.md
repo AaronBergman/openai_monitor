@@ -193,6 +193,10 @@ Yes. SLA for the service tier you use for your requests, such as Fast mode or St
 
 One additional benefit of Reserved Tier is in times of peak load where OpenAI can not serve all traffic, we will reject other traffic before rejecting Reserved Tier traffic.
 
+### Which service tiers are compatible with Reserved Tier?
+
+Your reserved amount can be used flexibly across Standard and Fast mode. Reserved Tier is also available for Ultrafast mode, which is currently in limited preview. [Learn more about Ultrafast mode⁠](<https://openai.com/form/ultrafast/>).
+
 ### How can I purchase token units on Reserved Tier?
 
 Once Reserved Tier is enabled for your account, you can manually adjust your token units in the Capacity Management tab of your Organization Settings.

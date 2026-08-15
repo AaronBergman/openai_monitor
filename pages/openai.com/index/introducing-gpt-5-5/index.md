@@ -34,6 +34,14 @@ April 23, 2026
 
 A new class of intelligence for real work
 
+## This post introduced GPT-5.5.
+
+Learn about OpenAI’s latest model:
+
+[GPT-5.6](</index/gpt-5-6/>)
+
+[Compare models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
+
 Loading…
 
 Share
@@ -74,7 +82,7 @@ The gains are especially strong in agentic coding, computer use, knowledge work,
 
 We are releasing GPT‑5.5 with our strongest set of safeguards to date, designed to reduce misuse while preserving access for beneficial work. We evaluated this model across our full suite of safety and preparedness frameworks, worked with internal and external redteamers, added targeted testing for advanced cybersecurity and biology capabilities, and collected feedback on real use cases from nearly 200 trusted early-access partners before release.
 
-Today, GPT‑5.5 is rolling out to Plus, Pro, Business, and Enterprise users in ChatGPT and Codex, and GPT‑5.5 Pro is rolling out to Pro, Business, and Enterprise users in ChatGPT. API deployments require different safeguards and we are working closely with partners and customers on the safety and security requirements for serving it at scale. We'll bring GPT‑5.5 and GPT‑5.5 Pro to the API very soon.
+Today, GPT‑5.5 is rolling out to Plus, Pro, Business, and Enterprise users in ChatGPT and Codex, and GPT‑5.5 Pro is rolling out to Pro, Business, and Enterprise users in ChatGPT. API deployments require different safeguards and we are working closely with partners and customers on the safety and security requirements for serving it at scale. We’ll bring GPT‑5.5 and GPT‑5.5 Pro to the API very soon.
 
 | **GPT‑5.5**| **GPT‑5.4 **| **GPT‑5.5 Pro**| **GPT‑5.4 Pro**| **Claude Opus 4.7**| **Gemini 3.1 Pro**  
 ---|---|---|---|---|---|---  
@@ -136,7 +144,7 @@ Pietro Schirano, CEO of MagicPath, saw a similar step change when GPT‑5.5 merg
 
 Senior engineers who tested the model said GPT‑5.5 was noticeably stronger than GPT‑5.4 and Claude Opus 4.7 at reasoning and autonomy, catching issues in advance and predicting testing and review needs without explicit prompting. In one case, an engineer asked it to re-architect a comment system in a collaborative markdown editor and returned to a 12-diff stack that was nearly complete. Others said they needed surprisingly little implementation correction and felt more confident in GPT‑5.5’s plans compared with GPT‑5.4.
 
-One engineer at NVIDIA who had early access to the model went as far as to say: "Losing access to GPT‑5.5 feels like I've had a limb amputated.”
+One engineer at NVIDIA who had early access to the model went as far as to say: "Losing access to GPT‑5.5 feels like I’ve had a limb amputated.”
 
 CursorLovableCognitionWindsurfGitHubJetBrainsSonar
 
@@ -256,7 +264,7 @@ This work reflects our broader AI resilience approach, which we believe is neede
 
 ## Availability and pricing
 
-Today, GPT‑5.5 is rolling out to Plus, Pro, Business, and Enterprise users in ChatGPT and Codex, and GPT‑5.5 Pro is rolling out to Pro, Business, and Enterprise users in ChatGPT. We'll bring GPT‑5.5 and GPT‑5.5 Pro to the API very soon.
+Today, GPT‑5.5 is rolling out to Plus, Pro, Business, and Enterprise users in ChatGPT and Codex, and GPT‑5.5 Pro is rolling out to Pro, Business, and Enterprise users in ChatGPT. We’ll bring GPT‑5.5 and GPT‑5.5 Pro to the API very soon.
 
 In ChatGPT, GPT‑5.5 Thinking is available to Plus, Pro, Business, and Enterprise users. GPT‑5.5 Pro, designed for even harder questions and higher-accuracy work, is available to Pro, Business, and Enterprise users.
 

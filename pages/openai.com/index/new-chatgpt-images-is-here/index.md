@@ -34,6 +34,14 @@ December 16, 2025
 
 [Try in ChatGPT(opens in a new window)](<https://chatgpt.com/images>)
 
+## This post covers an image-generation launch.
+
+For the current experience:
+
+[Create images in ChatGPT(opens in a new window)](<https://chatgpt.com/>)
+
+[Release notes(opens in a new window)](<https://help.openai.com/en/articles/6825453-chatgpt-release-notes>)
+
 Loading…
 
 Share

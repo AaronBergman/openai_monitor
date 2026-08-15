@@ -26,6 +26,24 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
+[Release](</research/index/release/>)
+
+# GPT‑4 is OpenAI’s most advanced system, producing safer and more useful responses
+
+[View GPT-4 research](</index/gpt-4-research/>)
+
+## This post introduced GPT-4 in 2023.
+
+Learn about OpenAI’s latest model:
+
+[GPT-5.6](</index/gpt-5-6/>)
+
+[Compare models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
+
+Loading…
+
+Share
+
 Safety & alignment
 
   * Safety & alignment
@@ -33,15 +51,10 @@ Safety & alignment
 
 
 
-[Release](</research/index/release/>)
+  * Safety & alignment
+  * More on GPT-4
 
-# GPT‑4 is OpenAI’s most advanced system, producing safer and more useful responses
 
-[Try on ChatGPT Plus(opens in a new window)](<https://chatgpt.com/>)[View GPT-4 research](</index/gpt-4-research/>)
-
-Loading…
-
-Share
 
 Loading...
 
@@ -65,15 +78,17 @@ We spent 6 months making GPT‑4 safer and more aligned. GPT‑4 is 82% less lik
 
 ## Built with GPT-4
 
-![Duolingo](https://images.ctfassets.net/kftzwdyauwt9/d8ea7257-15af-4ace-fe07371883a6/a6904255f5cc1d78448d989fbcaea0c2/duolingo.png?w=3840&q=90&fm=webp)
+![White Duolingo logo on a green background](https://images.ctfassets.net/kftzwdyauwt9/d8ea7257-15af-4ace-fe07371883a6/a6904255f5cc1d78448d989fbcaea0c2/duolingo.png?w=3840&q=90&fm=webp)
 
 [GPT‑4 deepens the conversation on Duolingo.Story](</index/duolingo/>)
 
-![Be My Eyes](https://images.ctfassets.net/kftzwdyauwt9/7f575e80-c72a-4154-92812d284137/0798d9554fc21e616fded75f2fe3f383/be_my_eyes.png?w=3840&q=90&fm=webp)
+![White Be My Eyes logo on a blue background.](https://images.ctfassets.net/kftzwdyauwt9/7f575e80-c72a-4154-92812d284137/0798d9554fc21e616fded75f2fe3f383/be_my_eyes.png?w=3840&q=90&fm=webp)
 
 [Be My Eyes uses GPT‑4 to transform visual accessibility.Story](</index/be-my-eyes/>)
 
-[Stripe leverages GPT‑4 to streamline user experience and combat fraud.Story](<>)
+Stripe leverages GPT‑4 to streamline user experience and combat fraud.
+
+Story
 
 ![Morgan Stanley wordmark on a white background.](https://images.ctfassets.net/kftzwdyauwt9/3ma239JWrlhhzndpxv4bJZ/992e25b552a21cb1d71f045493589ee6/morgan_stanley.png?w=3840&q=90&fm=webp)
 
@@ -114,9 +129,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -153,6 +168,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -186,6 +203,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

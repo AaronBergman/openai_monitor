@@ -36,11 +36,37 @@ We’re releasing an API for accessing new AI models developed by OpenAI.
 
 [Sign up(opens in a new window)](<https://platform.openai.com/signup>)[Explore the API](</api/>)
 
+## This post introduced the OpenAI API in 2020.
+
+For the current experience:
+
+[Explore the OpenAI API](</api/>)
+
+[Compare models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
+
 ![Openai Api](https://images.ctfassets.net/kftzwdyauwt9/dc934ef7-f0cb-4f5f-c0cf6c342e85/a3f2f3cf338befa003536167cc3a492d/OpenAI_APIOpenAI_API.png?w=3840&q=90&fm=webp)
 
 Loading…
 
 Share
+
+Frequently asked questions
+
+  * Frequently asked questions
+    * Why did OpenAI decide to release a commercial product?
+    * Why did OpenAI choose to release an API instead of open-sourcing the models?
+    * What specifically will OpenAI do about misuse of the API, given what you’ve previously said about GPT-2?
+    * How will OpenAI mitigate harmful bias and other negative effects of models served by the API?
+
+
+
+  * Frequently asked questions
+    * Why did OpenAI decide to release a commercial product?
+    * Why did OpenAI choose to release an API instead of open-sourcing the models?
+    * What specifically will OpenAI do about misuse of the API, given what you’ve previously said about GPT-2?
+    * How will OpenAI mitigate harmful bias and other negative effects of models served by the API?
+
+
 
 We’re releasing an API for accessing new AI models developed by OpenAI. Unlike most AI systems which are designed for one use-case, the API today provides a general-purpose “text in, text out” interface, allowing users to try it on virtually any English language task. You can now request access in order to integrate the API into your product, develop an entirely new application, or help us explore the strengths and limits of this technology.
 
@@ -142,9 +168,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -181,6 +207,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -214,6 +242,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

@@ -130,11 +130,11 @@ Turn this planning document into a structured tracker, suggest owners based on t
 
 ## More resources
 
-## [Codex guidesLearn how to use Codex to automate tasks, build workflows, and get more done with your tools.](<https://openai.com/academy/codex-for-work/>)
+## [Codex guidesLearn how to use Codex to automate tasks, build workflows, and get more done with your tools.Explore guides](<https://openai.com/academy/codex-for-work/>)
 
-## [PricingExplore pricing and plans for Codex, including what’s included and how it scales with your work.(opens in a new window)](<https://chatgpt.com/codex/pricing/>)
+## [PricingExplore pricing and plans for Codex, including what’s included and how it scales with your work.View pricing(opens in a new window)](<https://chatgpt.com/codex/pricing/>)
 
-## [Use casesSee how Codex is used in real workflows, from automation to building and integrating tools.(opens in a new window)](<https://developers.openai.com/codex/use-cases>)
+## [Use casesSee how Codex is used in real workflows, from automation to building and integrating tools.See use cases(opens in a new window)](<https://developers.openai.com/codex/use-cases>)
 
 ## Try Codex today
 

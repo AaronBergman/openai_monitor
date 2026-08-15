@@ -34,6 +34,14 @@ July 21, 2026
 
 Helping entrepreneurs use AI to turn ambitious ideas into growing businesses.
 
+## This post introduced an earlier program for small businesses.
+
+For the latest information:
+
+[Explore ChatGPT for small business](</business/why-openai/small-business/>)
+
+[View pricing](</business/pricing/>)
+
 Loading…
 
 Share

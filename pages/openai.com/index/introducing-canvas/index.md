@@ -32,6 +32,16 @@ October 3, 2024
 
 # Introducing canvas
 
+A new way of working with ChatGPT to write and code
+
+## This post covers the Canvas launch.
+
+For current ChatGPT writing and coding capabilities:
+
+[Release notes(opens in a new window)](<https://help.openai.com/en/articles/6825453-chatgpt-release-notes>)
+
+[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
+
 ![The image shows a vertical toolbar featuring five icons arranged in a column on a soft pastel background. The third icon from the top, depicting an open book, is highlighted with a label next to it reading "Reading Level."](https://images.ctfassets.net/kftzwdyauwt9/uZHfstpnZ78qg2HQhn7m1/25db0387b0f72c0e20c933dcb01533f5/Canvas_Hero.png?w=3840&q=90&fm=webp)
 
 Loading…

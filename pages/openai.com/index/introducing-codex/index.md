@@ -36,6 +36,14 @@ A cloud-based software engineering agent that can work on many tasks in parallel
 
 [Try Codex(opens in a new window)](<https://chatgpt.com/codex>)
 
+## This launch post is outdated.
+
+For the current Codex product and team workflows:
+
+[Codex](</codex/>)
+
+[ChatGPT Work](</chatgpt-work/>)
+
 ![Dashboard asking ‘What should we code next?’ with a prompt box, repo/branch selectors, and a task list on a pastel code-themed backdrop.](https://images.ctfassets.net/kftzwdyauwt9/6wYGm9QST2WYLbPJl5YwZC/1e63f3bfb458ce891db4f94a52052240/Codex_Blog_Header_V5.png?w=3840&q=90&fm=webp)
 
 Loading…
@@ -77,6 +85,14 @@ How Codex works
 Today we’re launching a research preview of Codex: a cloud-based software engineering agent that can work on many tasks in parallel. Codex can perform tasks for you such as writing features, answering questions about your codebase, fixing bugs, and proposing pull requests for review; each task runs in its own cloud sandbox environment, preloaded with your repository.
 
 Codex is powered by codex-1, a version of OpenAI o3 optimized for software engineering. It was trained using reinforcement learning on real-world coding tasks in a variety of environments to generate code that closely mirrors human style and PR preferences, adheres precisely to instructions, and can iteratively run tests until it receives a passing result. We’re starting to roll out Codex to ChatGPT Pro, Enterprise, and Business users today, with support for Plus and Edu coming soon.
+
+## This launch post is outdated.
+
+For the current Codex product and team workflows:
+
+[Codex](</codex/>)
+
+[ChatGPT Work](</chatgpt-work/>)
 
 ## How Codex works
 

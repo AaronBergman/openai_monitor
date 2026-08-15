@@ -32,7 +32,15 @@ January 10, 2024
 
 # Introducing the GPT Store
 
-[Explore GPTs(opens in a new window)](<https://chatgpt.com/gpts>)
+We’re launching the GPT Store to help you find useful and popular custom versions of ChatGPT.
+
+## This page covers the GPT Store launch.
+
+For the current ChatGPT experience and workspace capabilities:
+
+[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
+
+[Explore ChatGPT Work](</chatgpt-work/>)
 
 ![Gpt Store R3](https://images.ctfassets.net/kftzwdyauwt9/0b8b7a8b-25ef-4d64-f957101040e8/d2837d4fd06ceca18945fa0a2bd5a801/gpt-store-r3.png?w=3840&q=90&fm=webp)
 
@@ -56,7 +64,7 @@ Discover what’s trending in the store
 
 
 
-It’s been two months since we [announced⁠](</index/introducing-gpts/>) GPTs, and users have already created over 3 million custom versions of ChatGPT. Many builders have shared their GPTs for others to use. Today, we're starting to roll out the GPT Store to ChatGPT Plus, Team and Enterprise users so you can find useful and popular GPTs. Visit [chatgpt.com/gpts⁠(opens in a new window)](<https://chatgpt.com/gpts/>) to explore.
+It’s been two months since we [announced⁠](</index/introducing-gpts/>) GPTs, and users have already created over 3 million custom versions of ChatGPT. Many builders have shared their GPTs for others to use. Today, we’re starting to roll out the GPT Store to ChatGPT Plus, Team and Enterprise users so you can find useful and popular GPTs. Visit [chatgpt.com/gpts⁠(opens in a new window)](<https://chatgpt.com/gpts/>) to explore.
 
 ## Discover what’s trending in the store
 
@@ -77,7 +85,7 @@ We will also highlight useful and impactful GPTs. Some of our first featured GPT
 
 ## Include your GPT in the store
 
-Building your own GPT is simple and doesn't require any coding skills.
+Building your own GPT is simple and doesn’t require any coding skills.
 
 If you’d like to share a GPT in the store, you’ll need to:
 
@@ -86,11 +94,11 @@ If you’d like to share a GPT in the store, you’ll need to:
 
 
 
-Please review our latest [usage policies⁠](</policies/usage-policies/>) and [GPT brand guidelines⁠](</brand/#gpts-in-chatgpt>) to ensure your GPT is compliant. To help ensure GPTs adhere to our policies, we've established a new review system in addition to the existing safety measures we've built into our products. The review process includes both human and automated review. Users are also [able to report⁠(opens in a new window)](<https://help.openai.com/en/articles/8554982-how-can-i-report-an-inappropriate-gpt>) GPTs.
+Please review our latest [usage policies⁠](</policies/usage-policies/>) and [GPT brand guidelines⁠](</brand/#gpts-in-chatgpt>) to ensure your GPT is compliant. To help ensure GPTs adhere to our policies, we’ve established a new review system in addition to the existing safety measures we’ve built into our products. The review process includes both human and automated review. Users are also [able to report⁠(opens in a new window)](<https://help.openai.com/en/articles/8554982-how-can-i-report-an-inappropriate-gpt>) GPTs.
 
 ## Builders can earn based on GPT usage
 
-In Q1 we will launch a GPT builder revenue program. As a first step, US builders will be paid based on user engagement with their GPTs. We'll provide details on the criteria for payments as we get closer.
+In Q1 we will launch a GPT builder revenue program. As a first step, US builders will be paid based on user engagement with their GPTs. We’ll provide details on the criteria for payments as we get closer.
 
 ## Team and Enterprise customers can manage GPTs
 
@@ -115,17 +123,17 @@ OpenAI
 
 [View all](</news/>)
 
-![Health in ChatGPT > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/48aIp3cQOKJ57vpQeqOb8y/2e8732bcad5ceea1c7b20cf001bd2823/1_1_Art_Card.png?w=3840&q=90&fm=webp)
+![Previewing Ultrafast mode — clean cover](https://images.ctfassets.net/kftzwdyauwt9/74UiHrTiZoKnbvpopDTG1s/d33291d426eac29a4a5c0563e717376d/previewing-ultrafast-mode--cover-1080x1080-v001.png?w=3840&q=90&fm=webp)
 
-[Launching Health in ChatGPT ProductJul 23, 2026](</index/health-in-chatgpt/>)
+[Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speedProductAug 13, 2026](</index/previewing-ultrafast/>)
 
-![OpenAI Presence 1x1](https://images.ctfassets.net/kftzwdyauwt9/5JBDenSGI6wx5CMPPlaM5J/da9d8e27a0bd70d845a816b28ac641a9/OpenAI_Presence_1x1.png?w=3840&q=90&fm=webp)
+![OAI AdsTest Blog ArtCard 1x1](https://images.ctfassets.net/kftzwdyauwt9/7drPwCnD6ied4wPzlJd7qa/d79ccfda974080bbca7d688ad9bcbc6f/OAI_AdsTest_Blog_ArtCard_1x1.png?w=3840&q=90&fm=webp)
 
-[Introducing OpenAI PresenceProductJul 22, 2026](</index/introducing-openai-presence/>)
+[Testing ads in ChatGPTCompanyAug 11, 2026](</index/testing-ads-in-chatgpt/>)
 
-![GPT-5.6 is now the preferred model in Microsoft 365 Copilot > Cover image](https://images.ctfassets.net/kftzwdyauwt9/3MPipvFMxS8m3kTyCtwFgj/015747dcd34cb667a221688cfca64e0f/Frame.png?w=3840&q=90&fm=webp)
+![Daybreak with AWS 1x1](https://images.ctfassets.net/kftzwdyauwt9/3u4XKQVExOBSWxMiiPMmpg/31dffb070dae6251a5fac4e46ec241dc/Art_card.png?w=3840&q=90&fm=webp)
 
-[GPT-5.6 is now the preferred model in Microsoft 365 CopilotProductJul 9, 2026](</index/gpt-5-6-preferred-model-microsoft-365-copilot/>)
+[Daybreak models are now available on AWSProductAug 11, 2026](</index/daybreak-models-are-now-available-on-aws/>)
 
 Research
 

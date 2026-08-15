@@ -68,7 +68,7 @@ I confirm that I am, or will be, the owner of the ChatGPT Business workspace ass
 
 Promotion terms agreement *
 
-I have read and agree to the promotion details and the [OpenAI Service Credit Terms](<https://openai.com/policies/service-credit-terms/>).
+I have read and agree to the promotion details and the [OpenAI Service Credit Terms(opens in a new window)](<https://openai.com/policies/service-credit-terms/>).
 
 Sign up
 

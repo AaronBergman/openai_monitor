@@ -36,6 +36,14 @@ A dedicated experience in ChatGPT designed for health and wellness.
 
 [Try Health(opens in a new window)](<https://chatgpt.com/health/>)
 
+## This page covers the Health launch.
+
+For the current experience and availability updates, see:
+
+[ChatGPT Health(opens in a new window)](<https://chatgpt.com/health/>)
+
+[Release notes(opens in a new window)](<https://help.openai.com/en/articles/6825453-chatgpt-release-notes>)
+
 Loading…
 
 Share

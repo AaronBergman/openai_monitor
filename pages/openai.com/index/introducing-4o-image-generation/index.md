@@ -36,6 +36,14 @@ Unlocking useful and valuable image generation with a natively multimodal model 
 
 [Try in ChatGPT (opens in a new window)](<https://chatgpt.com/>)
 
+## This launch post is outdated.
+
+For the current image experience:
+
+[ChatGPT Images 2.0](</index/introducing-chatgpt-images-2-0/>)
+
+[Create images in ChatGPT(opens in a new window)](<https://chatgpt.com/>)
+
 Loading…
 
 Share
@@ -837,11 +845,11 @@ Creating and customizing images is as simple as chatting using GPT‑4o - just d
 
 ![credit creator: Manuel Sainsily](https://images.ctfassets.net/kftzwdyauwt9/2paCI0eOu8PiVv93NK6ZMO/7d043b1d953b00b352cc241fb1b9c161/F3C6FD62-9AD6-4E2C-A5B6-54160FCC138A.png?w=3840&q=90&fm=webp)
 
-credit creator: [Alex Duffy](https://every.to/@AlxAi)
+credit creator: [Alex Duffy](<https://every.to/@AlxAi>)
 
-credit creator: [Alex Duffy](https://every.to/@AlxAi)
+credit creator: [Alex Duffy](<https://every.to/@AlxAi>)
 
-credit creator: [Alex Duffy](https://every.to/@AlxAi)
+credit creator: [Alex Duffy](<https://every.to/@AlxAi>)
 
 Read more
 

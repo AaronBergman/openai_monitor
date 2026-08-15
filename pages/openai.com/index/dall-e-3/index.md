@@ -30,7 +30,15 @@ Research
 
 # DALL·E 3
 
-[Try in ChatGPT(opens in a new window)](<https://chatgpt.com/>)
+DALL·E 3 understands significantly more nuance and detail than our previous systems, allowing you to easily translate your ideas into exceptionally accurate images.
+
+## This post introduced DALL·E 3.
+
+For the current experience:
+
+[Learn about ChatGPT Images 2.0](</index/introducing-chatgpt-images-2-0/>)
+
+[Create images in ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 ![An illustration of an avocado sitting in a therapist's chair, saying 'I just feel so empty inside' with a pit-sized hole in its center. The therapist, a spoon, scribbles notes.](https://images.ctfassets.net/kftzwdyauwt9/Nw3a33C8bfO7VJMCTNgSz/3633c190fd7309970a9ac85d7c7d3989/avocado-square.jpg?w=3840&q=90&fm=webp)
 
@@ -72,7 +80,7 @@ Just ask ChatGPT what you want to see in anything from a simple sentence to a de
 
 When prompted with an idea, ChatGPT will automatically generate tailored, detailed prompts for DALL·E 3 that bring your idea to life. If you like a particular image, but it’s not quite right, you can ask ChatGPT to make tweaks with just a few words.  
   
-As with DALL·E 2, the images you create with DALL·E 3 are yours to use and you don't need our permission to reprint, sell or merchandise them.
+As with DALL·E 2, the images you create with DALL·E 3 are yours to use and you don’t need our permission to reprint, sell or merchandise them.
 
 ### Preventing harmful generations
 

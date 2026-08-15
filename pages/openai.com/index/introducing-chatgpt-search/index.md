@@ -36,6 +36,14 @@ Get fast, timely answers with links to relevant web sources.
 
 [Try now(opens in a new window)](<https://chatgpt.com/?hints=search>)
 
+## This post introduced ChatGPT search in 2024.
+
+For the current experience:
+
+[Try ChatGPT search(opens in a new window)](<https://chatgpt.com/>)
+
+[Help Center(opens in a new window)](<https://help.openai.com/en/articles/9237897-chatgpt-search>)
+
 Loading…
 
 Share
