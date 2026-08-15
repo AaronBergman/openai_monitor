@@ -34,7 +34,7 @@ Use OpenAI technology to help agencies improve service delivery, expedite resear
 
 [Contact sales](</contact-sales/>)
 
-![A woman smiles while typing on a laptop as she speaks with a man seated across from her at a desk, with papers spread out in a busy office environment.](https://images.ctfassets.net/kftzwdyauwt9/5hUbKlAi71npWnxgYgWya1/ec53c89c3491bed93290ddff1ae7f67d/image__9_-1x1.png?w=3840&q=90&fm=webp)
+![Three colleagues collaborate around a laptop and documents in an office with a world map in the background.](https://images.ctfassets.net/kftzwdyauwt9/58Z3FVzE5RBuiCdDvAu5AL/6bbf05f04d5da1b3f9a84347e532b745/Generated_image_1__2_.png?w=3840&q=90&fm=webp)
 
 ## Enterprise AI for mission-critical government work
 
@@ -109,16 +109,23 @@ Use ChatGPT Gov for a self-hosted experience on Azure OpenAI, or use Codex & API
 
 [View enterprise privacy](</business-data/>)
 
-**Product**| **FedRAMP Low**| **FedRAMP Mod**| **FedRamp High**| **IL5**  
+**Product**| **FedRAMP Low**| **FedRAMP Mod**| **FedRAMP High**| **IL5**  
 ---|---|---|---|---  
-ChatGPT FedRAMP| ``| ``| —| —  
-OpenAI API FedRAMP| ``| ``| —| —  
-ChatGPT Gov _(self-hosted; agency responsibility)_  
-| ``| ``| ``| ``  
-AWS GovCloud Stateful Runtime| Coming soon| Coming soon| Coming soon| Coming soon  
-AWS GovCloud Stateless API| Coming soon| Coming soon| Coming soon| Coming soon  
+ChatGPT FedRAMP| **✓**| **✓**|  —| —  
+OpenAI API FedRAMP| **✓**| **✓**|  —| —  
+AWS GovCloud API| **✓**| **✓**| **✓**| **✓**  
 AWS GovCloud Codex| Coming soon| Coming soon| Coming soon| Coming soon  
   
+## OpenAI for Government FAQ
+
+### 1\. Products and features
+
+### 2\. Security and compliance
+
+### 3\. Cloud service providers and deployment
+
+### 4\. Pricing and procurement
+
 ### Learn from agencies putting AI to work 
 
 ![pnnl > art card](https://images.ctfassets.net/kftzwdyauwt9/1x55GNUFzIGy6TjvzqMl9S/5ae87f1b382a344c8f16e0ff32e214e8/oai_PNNL_Feb_Hero_1x1__1_.png?w=3840&q=90&fm=webp)
@@ -243,3 +250,92 @@ Terms & Policies
 OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
+
+### What is OpenAI for Government?
+
+[_OpenAI for Government_](</solutions/industries/government/>) brings OpenAI’s most advanced AI tools to public servants in democratic institutions around the world. We support government efforts to adopt and deploy best-in-class technology in service of the public good. Our goal is to unlock AI solutions that enhance the capabilities of government workers, help them cut down on the red tape and paperwork, and let them do more of what they come to work each day to do: serve their citizens.
+
+We support U.S. federal, state, and local agencies, as well as international governments, with AI solutions that can improve service delivery, reduce administrative burden, accelerate research and analysis, and securely support sensitive workflows.
+
+### What products are available to Government customers?
+
+Government customers can work with OpenAI through several product and deployment options, depending on their needs. These include:
+
+  * ChatGPT Enterprise
+
+  * ChatGPT FedRAMP
+
+  * OpenAI API FedRAMP
+
+  * AWS GovCloud
+
+
+
+
+The right path depends on the organization’s mission, security requirements, data needs, and procurement process.
+
+### How can government customers access OpenAI’s technology?
+
+The best place to start is to send an email to [_gov-gtm@openai.com_ ⁠](<mailto:gov-gtm@openai.com>).
+
+For FedRAMP package access, U.S. agencies can contact [_fedramp@openai.com_ ⁠](<mailto:fedramp@openai.com>).
+
+### Does OpenAI offer Codex for government customers?
+
+Yes. Codex CLI is currently offered via FedRAMP API key sign-in to respect the FedRAMP boundary. Soon other Codex modalities (Desktop App, IDE, Cloud) and sign-in options (FedRAMP ChatGPT) will be available. The downloadable local Codex product sits outside the FedRAMP boundary due to FedRAMP rules and should be reviewed by the agency Authorizing Official (more [_here_ ⁠(opens in a new window)](<https://help.openai.com/en/articles/20001070-chatgpt-enterprise-and-api-platform-for-fedramp?#codex>)).
+
+### Can I use OpenAI API in government environments?
+
+Yes. OpenAI API FedRAMP has achieved FedRAMP 20x Class C (Moderate) certification. FedRAMP compliance requires use of the designated gov.api.openai.com endpoint for supported methods and models (more [_here_ ⁠(opens in a new window)](<https://help.openai.com/en/articles/20001070-chatgpt-enterprise-and-api-platform-for-fedramp?#codex>)).
+
+AWS GovCloud’s Bedrock OpenAI API can be used for higher-sensitivity workloads
+
+### Which models are available to government customers?
+
+The OpenAI FedRAMP environment has GPT‑5.5 and GPT‑5.6 available (more [_here_ ⁠(opens in a new window)](<https://help.openai.com/en/articles/20001070-chatgpt-enterprise-and-api-platform-for-fedramp?#codex>)). We will continue to update the OpenAI FedRAMP environment to bring our latest commercial models to customers with regulated workloads.
+
+AWS GovCloud currently has GPT‑5.4 available. OpenAI and AWS are committed to getting the latest models on Bedrock with minimal delay.
+
+### What types of government data can be used in OpenAI’s products?
+
+The answer depends on the specific product, deployment, agency authorization, policies, and data type. ChatGPT FedRAMP and OpenAI API FedRAMP have achieved FedRAMP 20x Class C (Moderate) certification and are designed for federal internal, operational, and mission-support use cases.
+
+AWS GovCloud Bedrock OpenAI API has achieved FedRAMP High certification and Department of Defense (DoD) Security Requirements Guide (SRG) Impact Level 5 (IL5) authorization.
+
+The table above provides information on OpenAI’s products by compliance status.
+
+### What is OpenAI’s FedRAMP certification level?
+
+ChatGPT Enterprise and the OpenAI API Platform have achieved FedRAMP 20x Class C (Moderate) certification.
+
+### How can I get access to OpenAI’s FedRAMP certification information and other associated documentation?
+
+Agencies can find ChatGPT Enterprise and API Platform in the FedRAMP Marketplace and contact [_fedramp@openai.com_ ⁠](<mailto:fedramp@openai.com>) for package access. OpenAI also provides security and compliance materials through the OpenAI Trust Portal, subject to access controls and any applicable NDA or approval process.
+
+### Can I use OpenAI for Controlled Unclassified Information (CUI)?
+
+FedRAMP 20x Class C (Moderate) can be an appropriate baseline for many civilian agency internal workloads, but CUI handling is ultimately a customer and authorizing-official determination. OpenAI API on AWS GovCloud Bedrock may be another alternative for CUI data.
+
+### How do I access OpenAI’s models in Amazon Bedrock on AWS GovCloud?
+
+To get started, see [_AWS’s documentation_ ⁠(opens in a new window)](<https://aws.amazon.com/bedrock/openai/>) and [_OpenAI’s documentation_ ⁠(opens in a new window)](<https://developers.openai.com/api/docs/guides/amazon-bedrock>) on using OpenAI models in AWS Bedrock. Also see [_our announcement_](</index/openai-on-aws/>) of a strategic partnership.
+
+### What is the pricing and commitment information for OpenAI on Bedrock?
+
+For managed ChatGPT/API government offerings, pricing is product, customer type, and procurement-path specific.
+
+### What Federal contract vehicles do you operate on?
+
+OpenAI operates on the GSA Multiple Award Schedule (MAS).
+
+### What is the $1/month government offer and who qualifies?
+
+Eligible federal agencies can [_access_](</index/providing-chatgpt-to-the-entire-us-federal-workforce/>) ChatGPT Enterprise through the GSA OneGov partnership for $1 through the end of September 2026. Agencies interested in learning more about this partnership should have their CIO, Chief AI Officer, or a designated representative reach out to the National Customer Service Center at ITCSC@gsa.gov, or to OpenAI by reaching out to gov-gtm@openai.com.
+
+### Can we purchase directly from OpenAI or only through OpenAI’s authorized public sector reseller, Carahsoft?
+
+Both direct and reseller-supported paths are supported, depending on customer type, deployment size, and contract vehicle. Agencies can engage OpenAI directly, procure through Carahsoft as OpenAI’s authorized public sector reseller, or evaluate other acquisition paths aligned to requirements.
+
+### How much does OpenAI’s technology cost?
+
+Pricing depends on product, customer eligibility, deployment size, support model, and procurement path. OpenAI offers the OneGov GSA $1 ChatGPT Enterprise offer for eligible U.S. federal agencies. Other public sector pricing should be confirmed with OpenAI sales, the public sector account team, or the authorized reseller path.

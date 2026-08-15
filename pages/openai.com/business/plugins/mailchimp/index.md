@@ -26,7 +26,7 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 OpenAI[View all plugins](</business/plugins/>)
 
-# Mailchimp
+# Intuit Mailchimp
 
 Create marketing campaigns.
 
@@ -60,15 +60,15 @@ Export campaign plans into Mailchimp as draft campaigns to continue setup and la
 
 Create campaign plan with next steps
 
-**@Mailchimp** Create a multichannel campaign plan for a new product launch including email, SMS, and social with timing and messaging themes.
+@Mailchimp Create a multichannel campaign plan for a new product launch including email, SMS, and social with timing and messaging themes.
 
 Create audience segments with key details
 
-**@Mailchimp** Propose audience segments for my ecommerce list and suggest an A/B test plan for subject lines and offers.
+@Mailchimp Propose audience segments for my ecommerce list and suggest an A/B test plan for subject lines and offers.
 
 Draft campaign plan for external sharing
 
-**@Mailchimp** Convert this strategy into draft campaigns ready to export and label them clearly so my team can approve fast.
+@Mailchimp Convert this strategy into draft campaigns ready to export and label them clearly so my team can approve fast.
 
 ## Resources
 

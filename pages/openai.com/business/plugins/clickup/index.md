@@ -26,7 +26,7 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 OpenAI[View all plugins](</business/plugins/>)
 
-# Clickup
+# ClickUp
 
 Sync ClickUp tasks and docs for use in ChatGPT.
 
@@ -66,15 +66,15 @@ Reference ClickUp project and workspace context in ChatGPT to understand how wor
 
 Review overdue tasks and set priorities
 
-**@Clickup** Show my overdue tasks and recommend what to tackle first based on urgency and dependency.
+@Clickup Show my overdue tasks and recommend what to tackle first based on urgency and dependency.
 
 Summarize project status with key takeaways
 
-**@Clickup** Summarize the current project status for [client] and write it like a professional weekly update.
+@Clickup Summarize the current project status for [client] and write it like a professional weekly update.
 
 Create sprint plan with next steps
 
-**@Clickup** Create a sprint plan from our backlog for the next 2 weeks and balance work across the team.
+@Clickup Create a sprint plan from our backlog for the next 2 weeks and balance work across the team.
 
 ## Resources
 

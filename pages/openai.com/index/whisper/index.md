@@ -32,7 +32,15 @@ September 21, 2022
 
 # Introducing Whisper
 
+We’ve trained and are open-sourcing a neural net called Whisper that approaches human level robustness and accuracy on English speech recognition.
+
 [Read paper(opens in a new window)](<https://cdn.openai.com/papers/whisper.pdf>)[View code(opens in a new window)](<https://github.com/openai/whisper>)[View model card(opens in a new window)](<https://github.com/openai/whisper/blob/main/model-card.md>)
+
+## This post introduced Whisper in 2022.
+
+For current audio and transcription capabilities:
+
+[Explore models(opens in a new window)](<https://developers.openai.com/api/docs/models/all>)
 
 Loading…
 

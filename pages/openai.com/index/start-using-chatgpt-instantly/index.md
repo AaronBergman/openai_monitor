@@ -34,6 +34,14 @@ April 1, 2024
 
 We’re making it easier for people to experience the benefits of AI without needing to sign up.
 
+## This launch post is outdated.
+
+For the current experience:
+
+[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
+
+[Release notes(opens in a new window)](<https://help.openai.com/en/articles/6825453-chatgpt-release-notes>)
+
 ![Gentle abstract expression of a sunrise with pastel colors blending into a serene, circular motion](https://images.ctfassets.net/kftzwdyauwt9/5I8U1oYInnPjgj5qxpyuDi/f7e97052cf5df1a24d2ef9b62ae8c00f/26.png?w=3840&q=90&fm=webp)
 
 Loading…

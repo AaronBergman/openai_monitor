@@ -26,14 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Methods
-
-  * Methods
-  * Limitations
-  * Iterative deployment
-
-
-
 November 30, 2022
 
 [Product](</news/product-releases/>)
@@ -42,9 +34,29 @@ November 30, 2022
 
 [Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)[Try ChatGPT for Work](</business/>)
 
+## This post introduced ChatGPT in 2022. ChatGPT has evolved substantially since then.
+
+Looking for more about ChatGPT:
+
+[Release notes(opens in a new window)](<https://help.openai.com/en/articles/6825453-chatgpt-release-notes>)
+
 Loading…
 
 Share
+
+Methods
+
+  * Methods
+  * Limitations
+  * Iterative deployment
+
+
+
+  * Methods
+  * Limitations
+  * Iterative deployment
+
+
 
 We’ve trained a model called ChatGPT which interacts in a conversational way. The dialogue format makes it possible for ChatGPT to answer followup questions, admit its mistakes, challenge incorrect premises, and reject inappropriate requests.
 
@@ -191,9 +203,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -230,6 +242,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -263,6 +277,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

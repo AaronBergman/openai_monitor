@@ -34,6 +34,14 @@ November 6, 2023
 
 You can now create custom versions of ChatGPT that combine instructions, extra knowledge, and any combination of skills.
 
+## This post introduced GPTs.
+
+For the current experience, explore:
+
+[Workspace agents](</business/workspace-agents/>)
+
+[ChatGPT Work](</chatgpt-work/>)
+
 ![A blurred image with various shades of blue and spots of white, resembling a field of blue flowers.](https://images.ctfassets.net/kftzwdyauwt9/1FvOMUsGksVFICiCGGZuCq/cd40575607b8cf5a6000d3005b8042ba/35.png?w=3840&q=90&fm=webp)
 
 Loading…

@@ -34,6 +34,14 @@ May 30, 2024
 
 An affordable offering for universities to responsibly bring AI to campus.
 
+## This post introduced ChatGPT Edu.
+
+For current education solutions, explore:
+
+[Education solution page](</business/solutions/education/>)
+
+[OpenAI education](</education/>)
+
 ![Media > ChatGPT Education](https://images.ctfassets.net/kftzwdyauwt9/1qCEfO78yhwFeaBFu3kCd6/b57a627f10f4a353443994ed06453056/ChatGPT_Education.png?w=3840&q=90&fm=webp)
 
 Loading…

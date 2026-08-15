@@ -36,6 +36,14 @@ Loading…
 
 Share
 
+## As of April 26, 2026, the Sora product is no longer available.
+
+Learn more about this change or explore image creation in ChatGPT:
+
+[Read about the Sora discontinuation(opens in a new window)](<https://help.openai.com/en/articles/20001152-what-to-know-about-the-sora-discontinuation>)
+
+[Create images in ChatGPT(opens in a new window)](<https://chatgpt.com/>)
+
 We’re teaching AI to understand and simulate the physical world in motion, with the goal of training models that help people solve problems that require real-world interaction.
 
 Introducing Sora, our text-to-video model. Sora can generate videos up to a minute long while maintaining visual quality and adherence to the user’s prompt.
@@ -124,7 +132,7 @@ Prompt: Five gray wolf pups frolicking and chasing each other around a remote gr
 
 Weakness: Animals or people can spontaneously appear, especially in scenes containing many entities.
 
-Prompt: Basketball through hoop then explodes.Prompt: Basketball through hoop then explodes.
+Prompt: Basketball through hoop then explodes.
 
 Weakness: An example of inaccurate physical modeling and unnatural object “morphing.”
 
@@ -196,9 +204,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -235,6 +243,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -268,6 +278,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

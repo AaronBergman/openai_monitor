@@ -39,26 +39,16 @@ Share
 The overflowing inbox
 
   * The overflowing inbox
-
   * Reimagining the email experience with OpenAI
-
   * Getting to inbox zero 2x faster
-
   * Pressing “forward” on the future of email
 
 
-
-
-Table of contents
 
   * The overflowing inbox
-
   * Reimagining the email experience with OpenAI
-
   * Getting to inbox zero 2x faster
-
   * Pressing “forward” on the future of email
-
 
 
 
@@ -66,7 +56,7 @@ The shift to online work has roughly 1 billion professionals spending close to [
 
 Superhuman’s goal is to reduce the time spent managing inboxes. They’ve used [OpenAI’s API⁠](</api/>) to build a suite of next-gen AI email products that are saving users time, driving value, and increasing engagement.
 
-![superhuman](https://images.ctfassets.net/kftzwdyauwt9/4WnGhMrn6m8WIXuqmBkXtY/4bf2f03e5abfc29be6b289c9789938f9/superhuman.png?w=3840&q=90&fm=webp)
+![A woman working on her laptop.](https://images.ctfassets.net/kftzwdyauwt9/4WnGhMrn6m8WIXuqmBkXtY/4bf2f03e5abfc29be6b289c9789938f9/superhuman.png?w=3840&q=90&fm=webp)
 
 ## The overflowing inbox
 
@@ -151,9 +141,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -190,6 +180,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -223,6 +215,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

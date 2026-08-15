@@ -41,71 +41,75 @@ Filter
 
 Sort
 
-ChatGPT
-
-Aug 10, 2026
-
-GA
-
-## Restaurant reservations in ChatGPT
-
-ChatGPT can now help you find available restaurant reservations with OpenTable, Resy, and Yelp.
-
-Ask in the chat and include where and when you’d like to eat, your party size, and any preferences, such as cuisine, budget, dietary needs, or atmosphere. You’ll see available reservation times directly in the response. You can also ask follow-up questions to narrow your options or check a specific restaurant. When you find a time that works, select it to book it.
-
-Rolling out across all ChatGPT plans on mobile, web, and desktop. Reservations are available globally with OpenTable and in the US with Resy and in the US and Canada with Yelp. ChatGPT Work does not include restaurant reservation search.
-
-[View source(opens in a new window)](<https://help.openai.com/en/articles/6825453-chatgpt-release-notes#restaurant-reservations-in-chatgpt>)
-
-ChatGPT
-
-Aug 10, 2026
-
-Sunset
-
-## Retiring individual-user sync for connected apps
-
-Starting August 10, new individually authorized sync connections will no longer be available. On August 14, existing individual-user sync connections will be disabled, and deletion of associated synced data will begin. Administrator-managed sync is unaffected. By August 14, review your workspace’s connector settings and take the applicable actions listed in the Help Center.
-
-[View source(opens in a new window)](<https://help.openai.com/en/articles/10128477-chatgpt-enterprise-edu-release-notes#retiring-individual-user-sync-for-connected-apps>)
-
-ChatGPT
-
-Aug 7, 2026
-
-GA
-
-## Files and Projects in ChatGPT Voice
-
-GPT‑Live in ChatGPT Voice now supports file uploads and Projects. You can now upload files in a voice conversation and analyze its contents or ask questions. You can also use voice in Projects, referencing recent project chats, sources, and project instructions.
-
-For Enterprise, Edu, and Healthcare workspaces, Live is now the default Voice experience when a workspace owner enables Voice - the Early Model Access setting enablement is no longer required. Workspace owners can turn off Voice by disabling Voice in workspace settings.
-
-[View source(opens in a new window)](<https://help.openai.com/en/articles/6825453-chatgpt-release-notes#files-and-projects-in-chatgpt-voice>)[Help center(opens in a new window)](<https://help.openai.com/en/articles/11391654-chatgpt-business-release-notes#files-and-projects-in-chatgpt-voice>)[Help center(opens in a new window)](<https://help.openai.com/en/articles/10128477-chatgpt-enterprise-edu-release-notes#files-and-projects-in-chatgpt-voice>)
-
-ChatGPT
-
-Aug 7, 2026
-
-GA
-
-## ChatGPT app experience updates
-
-We’ve made it easier to bring documents and saved files into your conversations, find what you need, and pick up where you left off. Visit the Help Center to see the full list of updates.
-
-[View source(opens in a new window)](<https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-app-experience-updates>)[Help center(opens in a new window)](<https://help.openai.com/en/articles/11391654-chatgpt-business-release-notes#chatgpt-app-experience-updates>)
-
 API
 
-Aug 6, 2026
+Aug 13, 2026
+
+Preview
+
+## Ultrafast mode for GPT-5.6 Sol
+
+Announced Ultrafast mode, a new API service tier for GPT‑5.6 Sol that runs up to 14x faster than Standard processing. Available in limited preview to select customers.
+
+[View source](<https://openai.com/form/ultrafast/>)
+
+ChatGPT
+
+Aug 13, 2026
 
 GA
 
-## Updated chat-latest snapshot for GPT-5.6
+## Google Drive is now in Library
 
-Updated the chat-latest snapshot, which points to the latest model available in ChatGPT for Plus and Pro users. We recommend leveraging GPT‑5.6 Sol for production API usage, but feel free to use this model to test the latest improvements for chat use cases. The underlying model snapshot will be regularly updated.
+If you have the Google Drive plugin connected, you can now see and browse your Google Drive files and folders directly from Library, including items shared directly with you. You can also quickly pull up a Drive file from the composer or with @mentions and add it to any chat—without uploading it again.
 
-[View source(opens in a new window)](<https://developers.openai.com/api/docs/models/chat-latest>)[Platform docs(opens in a new window)](<https://developers.openai.com/api/docs/models/gpt-5.6-sol>)[Platform docs(opens in a new window)](<https://developers.openai.com/api/docs/changelog>)
+When you’re working with a file, you can now keep Google Docs, Sheets, and Slides open beside the conversation while asking ChatGPT to summarize, analyze, compare, or create something new from them. You can also select a folder and ask ChatGPT to work across the files it contains. Your content stays connected to Drive, so it’s easy to return to the original. Where supported and authorized, ChatGPT can update the source file directly.
+
+### Availability
+
+The initial experience includes My Drive and files and folders shared directly with you; Shared Drives aren’t included yet. Some Google Drive editing and collaboration features aren’t yet available in ChatGPT.
+
+Rolling out to Plus, Pro, Enterprise, Edu, Healthcare and Business users on the web in both the Chat and Work toggles. Mobile support will follow.
+
+[View source(opens in a new window)](<https://help.openai.com/en/articles/6825453-chatgpt-release-notes#google-drive-is-now-in-library>)
+
+ChatGPT
+
+Aug 13, 2026
+
+GA
+
+## Chat model defaults
+
+Workspace owners and admins can configure the starting Chat model and reasoning level from Workspace settings > Models. Owners and admins can apply an admin default or allow User’s last choice for new chats - note that defaults do not grant access to unavailable models or override enforced workspace requirements.
+
+The ChatGPT Desktop app should be upgraded to version 26.812.10818 or later for the new controls to take effect.
+
+[View source(opens in a new window)](<https://help.openai.com/en/articles/10128477-chatgpt-enterprise-edu-release-notes#chat-model-defaults>)
+
+ChatGPT
+
+Aug 13, 2026
+
+GA
+
+## Updated model picker for Enterprise and Edu
+
+Members in the Enterprise/Edu workspaces have updated model-picker and composer experience. The picker makes the available intelligence choices easier to compare while preserving workspace model availability and access controls.
+
+[View source(opens in a new window)](<https://help.openai.com/en/articles/10128477-chatgpt-enterprise-edu-release-notes#updated-model-picker-for-enterprise-and-edu>)
+
+ChatGPT
+
+Aug 13, 2026
+
+GA
+
+## Audit logs in the Global Admin Console
+
+Workspace owners and admins can now review supported audit events from the Global Admin Console. Access and event coverage depend on the selected workspace and admin role.
+
+[View source(opens in a new window)](<https://help.openai.com/en/articles/10128477-chatgpt-enterprise-edu-release-notes#audit-logs-in-the-global-admin-console>)[Help center(opens in a new window)](<https://help.openai.com/en/articles/12289294-global-admin-console>)
 
 Load more
 

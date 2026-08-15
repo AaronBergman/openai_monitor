@@ -26,14 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Expanding access to frontier models for cyber defense
-
-  * Expanding access to frontier models for cyber defense
-  * Trust-based approach to frontier cyber capabilities
-  * Scaling the Cybersecurity Grant Program
-
-
-
 February 5, 2026
 
 [Security](</news/security/>)[Safety](</news/safety-alignment/>)
@@ -42,9 +34,29 @@ February 5, 2026
 
 Our approach to enhancing baseline safeguards for all users while piloting trusted access for defensive acceleration.
 
+## Looking for the current cybersecurity solution?
+
+[Cybersecurity solutions](</business/solutions/cybersecurity/>)
+
+[Contact sales](</contact-sales/>)
+
 Loading…
 
 Share
+
+Expanding access to frontier models for cyber defense
+
+  * Expanding access to frontier models for cyber defense
+  * Trust-based approach to frontier cyber capabilities
+  * Scaling the Cybersecurity Grant Program
+
+
+
+  * Expanding access to frontier models for cyber defense
+  * Trust-based approach to frontier cyber capabilities
+  * Scaling the Cybersecurity Grant Program
+
+
 
 [GPT‑5.3‑Codex](</index/introducing-gpt-5-3-codex/>) is our most cyber-capable frontier reasoning model to date. Cybersecurity is one of the clearest places where that progress can both meaningfully strengthen the broader ecosystem and introduce new risks. We’ve moved from models that can auto-complete a few lines in a code editor, to models that can work autonomously for hours or even days to accomplish complex tasks. These capabilities can dramatically strengthen cyber defense by accelerating vulnerability discovery and remediation.
 
@@ -89,17 +101,17 @@ OpenAI
 
 [View all](</news/>)
 
-![oai 1x1](https://images.ctfassets.net/kftzwdyauwt9/7eONRWq61MKUix4tK4t88Y/170085acc9b241a0bdfba429bd217907/oai_1x1.png?w=3840&q=90&fm=webp)
+![GPT-Daybreak > Cover](https://images.ctfassets.net/kftzwdyauwt9/2iqsbTTLvgMNteNampw3gW/a38ed04432ee5548c4aec6c7b7a506f2/1x1_Art_Card.png?w=3840&q=90&fm=webp)
 
-[Advancing youth safety and opportunity through global leadershipGlobal AffairsJun 2, 2026](</index/advancing-youth-safety-and-opportunity-through-global-leadership/>)
+[Expanding Daybreak as the Cyber Defense Window NarrowsSecurityAug 10, 2026](</index/expanding-daybreak-as-the-cyber-defense-window-narrows/>)
 
-![Technical foundations > Art Card](https://images.ctfassets.net/kftzwdyauwt9/6gugGfSiM1oO6UHxxwnqTk/c7173a5a2c096a8f8a24c258ddfa22dd/ArtCard-TechnicalFoundations.png?w=3840&q=90&fm=webp)
+![Daybreak partners 1x1](https://images.ctfassets.net/kftzwdyauwt9/3AQ3qKm4Rmbjm2C1cLKvkJ/d049df2fdc96d1c5dfc695f00c257ce2/Art_Card.png?w=3840&q=90&fm=webp)
 
-[A shared playbook for trustworthy third party evaluationsSafetyMay 29, 2026](</index/trustworthy-third-party-evaluations-foundations/>)
+[Putting frontier cyber models in more trusted handsSecurityAug 10, 2026](</index/putting-frontier-cyber-models-in-more-trusted-hands/>)
 
-![Frontier Governance Framework > card image ](https://images.ctfassets.net/kftzwdyauwt9/2KoiHuErR5YxXGUnhCU8VY/e392c6249ec4644e07e944edea22e837/Frame2.png?w=3840&q=90&fm=webp)
+![Critical cyber capabilities card art](https://images.ctfassets.net/kftzwdyauwt9/1P18WVIhz3l2xY4d9JB8H0/b8f0c3c0797e99f4e1fa2e73dc1896ad/Frame.png?w=3840&q=90&fm=webp)
 
-[OpenAI’s Frontier Governance FrameworkSafetyMay 28, 2026](</index/openai-frontier-governance-framework/>)
+[Responding to the next frontier of critical cyber capabilitiesSecurityAug 7, 2026](</index/responding-next-frontier-critical-cyber-capabilities/>)
 
 Research
 
@@ -111,9 +123,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -150,6 +162,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -183,6 +197,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

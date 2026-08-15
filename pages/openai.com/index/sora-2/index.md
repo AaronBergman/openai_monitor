@@ -26,14 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Deployment of Sora 2
-
-  * Deployment of Sora 2
-  * Launching responsibly
-  * Sora 2 availability and what’s next
-
-
-
 September 30, 2025
 
 [Research](</news/research/>)[Release](</research/index/release/>)[Product](</news/product-releases/>)
@@ -42,9 +34,31 @@ September 30, 2025
 
 Our latest video generation model is more physically accurate, realistic, and more controllable than prior systems. It also features synchronized dialogue and sound effects. Create with it in the new Sora app.
 
+## As of April 26, 2026, the Sora product is no longer available.
+
+Learn more about this change or explore image creation in ChatGPT:
+
+[Read about the Sora discontinuation(opens in a new window)](<https://help.openai.com/en/articles/20001152-what-to-know-about-the-sora-discontinuation>)
+
+[Create images in ChatGPT(opens in a new window)](<https://chatgpt.com/>)
+
 Loading…
 
 Share
+
+Deployment of Sora 2
+
+  * Deployment of Sora 2
+  * Launching responsibly
+  * Sora 2 availability and what’s next
+
+
+
+  * Deployment of Sora 2
+  * Launching responsibly
+  * Sora 2 availability and what’s next
+
+
 
  _As of April 26, 2026, the Sora product is no longer available._
 
@@ -239,9 +253,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -278,6 +292,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -311,6 +327,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

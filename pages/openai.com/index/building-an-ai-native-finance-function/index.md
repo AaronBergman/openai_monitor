@@ -58,6 +58,8 @@ Share
 
 
 
+ _By Sarah Friar_
+
 Finance has become a real-time function. To me, the opportunity is much bigger than closing the books faster or refreshing a forecast more often. It is about seeing the business as it changes, helping leaders act sooner, and giving finance teams more time to shape what happens next.
 
 When I joined OpenAI two years ago, there was only a small finance team supporting a company growing at extraordinary speed. We needed to build the function from the ground up and make AI fundamental to how we work, make decisions, and support the business.

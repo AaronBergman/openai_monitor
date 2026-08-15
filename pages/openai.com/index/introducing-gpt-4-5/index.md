@@ -36,6 +36,14 @@ A research preview of our strongest GPT model. Available to Pro users and develo
 
 [Try in ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
+## This launch post is outdated.
+
+For current frontier models:
+
+[GPT-5.6](</index/gpt-5-6/>)
+
+[Compare models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
+
 Loading…
 
 Share

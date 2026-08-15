@@ -1,6 +1,47 @@
 # openai_monitor
 
 
+## 2026-08-15 — Run `2026-08-15T09-16Z`
+
+**Fetch time:** 2026-08-15T09:21:20Z UTC | **Baseline:** 2026-08-14T09-19Z (consecutive day)
+
+**TL;DR:** The headline story today isn't a launch — it's OpenAI cleaning up its own announcement archive. Roughly 29 old `/index/` posts (ChatGPT, GPT-4, GPT-4o, DALL·E 2/3, Whisper, the original API launch, GPT-5/5.5/4.5, Operator, Canvas, Codex, etc.) each picked up a new banner marking them as historical launch posts and pointing readers to current docs/pricing instead — a deliberate content-hygiene pass, applied selectively (still-current products like Sora and the GPT Store were left alone). Meanwhile the release notes rolled forward five real Aug 13 entries (Google Drive now browsable in ChatGPT's Library, org-wide default chat models for admins, an updated Enterprise/Edu model picker, admin-console audit logs, and an official Ultrafast-mode release note), and the government solutions page quietly confirmed AWS GovCloud has reached FedRAMP High + IL5 authorization alongside a large new government FAQ. Two ChatGPT Work sales-enablement pages and two plugin-directory slug renames (`azure-boards`→`azure-devops`, `data-analytics`→`data`) round out the day. No timestamp-based anomalies; the nav-template flip-flop bug (tracked since 2026-08-08) hit 3 more pages.
+
+### Anomalies
+
+None triggered under this repo's defined timestamp-based checks (no future-dated or backwards-moving `<lastmod>`, no backdated new URLs, no reappeared URLs, no sub-sitemap migrations).
+
+**Editorial inconsistency spotted:** [`/index/introducing-chatgpt-atlas/`](pages/openai.com/index/introducing-chatgpt-atlas/index.md) got the new "legacy post" banner treatment described below, but with a twist — its banner reads *"Atlas has since been deprecated,"* yet the same page still shows a live "Download for macOS" button for Atlas directly above that banner. Either the banner shouldn't say "deprecated" or the download CTA is stale; worth a follow-up check next run.
+
+**Continuing pattern — nav-template flip-flop:** first flagged 2026-08-08. 3 more pages flipped this run: [`business/partners/cognizant/`](pages/openai.com/business/partners/cognizant/index.md) and [`business/plugins/microsoft-teams/`](pages/openai.com/business/plugins/microsoft-teams/index.md) old-nav→new-nav; [`business/plugins/snowflake/`](pages/openai.com/business/plugins/snowflake/index.md) new-nav→old-nav (the reverse of what it showed on 2026-08-14) — confirming this is an unstable, ongoing condition rather than a one-time migration.
+
+### Notable updates
+
+- **Sitewide "legacy launch post" banners (~29 pages):** OpenAI added short archival banners to old announcement posts, e.g. [`/index/chatgpt/`](pages/openai.com/index/chatgpt/index.md) — "This post introduced ChatGPT in 2022. ChatGPT has evolved substantially since then"; [`/index/gpt-4/`](pages/openai.com/index/gpt-4/index.md) — "This post introduced GPT-4 in 2023"; [`/index/hello-gpt-4o/`](pages/openai.com/index/hello-gpt-4o/index.md), [`/index/dall-e-2/`](pages/openai.com/index/dall-e-2/index.md), [`/index/dall-e-3/`](pages/openai.com/index/dall-e-3/index.md), [`/index/whisper/`](pages/openai.com/index/whisper/index.md) similarly labeled. [`/index/openai-api/`](pages/openai.com/index/openai-api/index.md) got "This post introduced the OpenAI API in 2020" plus its original 2020 launch FAQ re-surfaced. Several model-launch posts ([`introducing-gpt-5`](pages/openai.com/index/introducing-gpt-5/index.md), [`introducing-gpt-4-5`](pages/openai.com/index/introducing-gpt-4-5/index.md), [`introducing-gpt-5-5`](pages/openai.com/index/introducing-gpt-5-5/index.md)) and product posts ([`introducing-operator`](pages/openai.com/index/introducing-operator/index.md), [`introducing-canvas`](pages/openai.com/index/introducing-canvas/index.md), [`introducing-codex`](pages/openai.com/index/introducing-codex/index.md), [`/codex/`](pages/openai.com/codex/index.md)) got the same treatment. One page took a different angle: [`introducing-workspace-agents-in-chatgpt`](pages/openai.com/index/introducing-workspace-agents-in-chatgpt/index.md) added a note that Workspace agents are now **generally available** in Business/Enterprise/Edu, rather than a "this is old" framing. Notably, pages for still-current products (Sora, Sora 2, the GPT Store, GPT-5.6) were untouched — this looks like a targeted cleanup of genuinely superseded posts, not a uniform template change.
+- **[`/products/release-notes/`](pages/openai.com/products/release-notes/index.md)** rolled forward to five new Aug 13 entries: **Ultrafast mode for GPT-5.6 Sol** now has an official (Preview) release note; **Google Drive is now in Library** (GA) — Drive files/folders browsable in ChatGPT with in-place Docs/Sheets/Slides viewing; **Chat model defaults** (GA) — workspace admins can set an org-wide default chat model; **updated model picker for Enterprise/Edu** (GA); **audit logs in the Global Admin Console** (GA).
+- **[`/solutions/industries/government/`](pages/openai.com/solutions/industries/government/index.md):** compliance table now shows **AWS GovCloud API** checked across FedRAMP Low/Moderate/High **and IL5** (previously all "Coming soon"); the page also gained an extensive 17-question government FAQ covering products, security/compliance, cloud deployment, and pricing/procurement, including the $1/month GSA OneGov ChatGPT Enterprise offer (through end of September 2026).
+- **Plugin directory slug renames (content unchanged):** `/business/plugins/azure-boards/` → [`/business/plugins/azure-devops/`](pages/openai.com/business/plugins/azure-devops/index.md); `/business/plugins/data-analytics/` → [`/business/plugins/data/`](pages/openai.com/business/plugins/data/index.md). Both are byte-identical content under shorter URLs — part of the same naming-simplification pass that shortened the Microsoft Teams plugin page's title from "Microsoft Teams" to "Teams" this run.
+
+### New pages
+
+- **[`/business/learn/how-our-sales-team-uses-chatgpt-work/`](pages/openai.com/business/learn/how-our-sales-team-uses-chatgpt-work/index.md)** — webinar signup: "a behind-the-scenes look at how OpenAI uses ChatGPT Work across the sales organization."
+- **[`/business/learn/download-the-chatgpt-work-guide-for-sales-teams/`](pages/openai.com/business/learn/download-the-chatgpt-work-guide-for-sales-teams/index.md)** — gated guide on "three connected workflows OpenAI's Sales team uses."
+- **[`/business/plugins/azure-devops/`](pages/openai.com/business/plugins/azure-devops/index.md)** and **[`/business/plugins/data/`](pages/openai.com/business/plugins/data/index.md)** — slug renames, see Notable updates.
+
+### Removals
+
+- `/business/plugins/azure-boards/` and `/business/plugins/data-analytics/` — both superseded by slug renames above, not real removals; prior snapshots remain in git history.
+
+### Routine, low-signal updates
+
+Of the 128 lastmod-updated URLs, 52 changed only their `<lastmod>` timestamp with byte-identical markdown (a server-side re-render with no visible diff). Of the 76 with an actual content diff, roughly 60 share one recurring three-part template pattern unrelated to the page's own subject: a duplicated "Table of contents" block de-duplicated, the "Latest Advancements" sidebar updated to show **GPT-5.6** in place of **GPT-5.3 Instant**, and the global nav gaining **"Customer Stories"**/**"Partner Network"**/**"Supply Co."** (continuing the expansion first spotted 2026-08-14). 8 partner pages plus `form/business/premium-offer` changed only a Contentful asset build-hash on a partner badge image — a redeploy artifact, not a content change. Full breakdown in [`runs/2026-08-15T09-16Z/analysis.md`](runs/2026-08-15T09-16Z/analysis.md).
+
+**Stats:** 1,584 total URLs | +4 added | 128 updated | -2 removed | 0 anomalies (2 notable observations) | 35 sub-sitemaps
+
+Full analysis: [runs/2026-08-15T09-16Z/analysis.md](runs/2026-08-15T09-16Z/analysis.md)
+
+---
+
 ## 2026-08-14 — Run `2026-08-14T09-19Z`
 
 **Fetch time:** 2026-08-14T09:19:59Z UTC | **Baseline:** 2026-08-13T09-16Z (consecutive day)

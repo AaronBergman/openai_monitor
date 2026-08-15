@@ -34,9 +34,15 @@ January 23, 2025
 
 A research preview of an agent that can use its own browser to perform tasks for you. Available to Pro users in the U.S.
 
-[Go to Operator(opens in a new window)](<https://operator.chatgpt.com/>)
+## This post introduced Operator.
 
-![Introducing Operator > Hero > Media Item](https://images.ctfassets.net/kftzwdyauwt9/3cQsY6yjEbfwLV6ES50Zqt/3b9ed9be32e57174fc686bc7ffcbd02c/Product_Blog_-_Wayfinding_Static.png?w=3840&q=90&fm=webp)
+For the current experience, explore:
+
+[Workspace agents](</business/workspace-agents/>)
+
+[ChatGPT Work](</chatgpt-work/>)
+
+![The image shows a user request to find and book the highest-rated one-day tour of Rome on TripAdvisor. It includes a search process summary and a TripAdvisor webpage displaying a "Best Seller" tour: "Rome: Colosseum, Roman Forum and Palatine Hill."](https://images.ctfassets.net/kftzwdyauwt9/3cQsY6yjEbfwLV6ES50Zqt/3b9ed9be32e57174fc686bc7ffcbd02c/Product_Blog_-_Wayfinding_Static.png?w=3840&q=90&fm=webp)
 
 Loading…
 

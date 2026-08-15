@@ -26,6 +26,28 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
+February 1, 2023
+
+[Product](</news/product-releases/>)
+
+# Introducing ChatGPT Plus
+
+We’re launching a pilot subscription plan for ChatGPT, a conversational AI that can chat with you, answer follow-up questions, and challenge incorrect assumptions.
+
+## This post covers the original Plus launch.
+
+For current plans and features, see:
+
+[ChatGPT pricing(opens in a new window)](<https://chatgpt.com/pricing>)
+
+[Release notes(opens in a new window)](<https://help.openai.com/en/articles/6825453-chatgpt-release-notes>)
+
+![ChatGPT Plus](https://images.ctfassets.net/kftzwdyauwt9/ece19d09-99f5-4d44-385704b10f01/fb0d03f4570520047c1aee8d4d31b089/chatgpt-plus.jpg?w=3840&q=90&fm=webp)
+
+Loading…
+
+Share
+
 Learning from the research preview
 
   * Learning from the research preview
@@ -33,19 +55,10 @@ Learning from the research preview
 
 
 
-February 1, 2023
+  * Learning from the research preview
+  * Our plans for the future
 
-[Product](</news/product-releases/>)
 
-# Introducing ChatGPT Plus
-
-[Read about ChatGPT](</index/chatgpt/>)
-
-![ChatGPT Plus](https://images.ctfassets.net/kftzwdyauwt9/ece19d09-99f5-4d44-385704b10f01/fb0d03f4570520047c1aee8d4d31b089/chatgpt-plus.jpg?w=3840&q=90&fm=webp)
-
-Loading…
-
-Share
 
 The new subscription plan, ChatGPT Plus, will be available for $20/month, and subscribers will receive a number of benefits:
 
@@ -111,9 +124,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -150,6 +163,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -183,6 +198,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

@@ -38,6 +38,14 @@ We’re announcing GPT‑4o, our new flagship model that can reason across audio
 
 All videos on this page are at 1x real time.
 
+## This post introduced GPT-4o in 2024.
+
+Learn about OpenAI’s latest model:
+
+[GPT-5.6](</index/gpt-5-6/>)
+
+[Compare models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
+
 Guessing May 13th’s announcement.
 
 More Resources

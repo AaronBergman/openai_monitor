@@ -34,11 +34,27 @@ May 13, 2024
 
 We are launching our newest flagship model and making more capabilities available for free in ChatGPT. 
 
-[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)[Rewatch the livestream](</index/spring-update/>)
+[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
+
+## This post describes a 2024 rollout.
+
+For current ChatGPT capabilities and model availability:
+
+[Release notes(opens in a new window)](<https://help.openai.com/en/articles/6825453-chatgpt-release-notes>)
+
+[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 Loading…
 
 Share
+
+## This post describes a 2024 rollout.
+
+For current ChatGPT capabilities and model availability:
+
+[Release notes(opens in a new window)](<https://help.openai.com/en/articles/6825453-chatgpt-release-notes>)
+
+[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 In line with our mission, we are focused on advancing AI technology and ensuring it is accessible and beneficial to everyone. Today we are introducing our newest model, GPT‑4o, and will be rolling out more intelligence and advanced tools to ChatGPT for free.
 
@@ -72,17 +88,17 @@ There will be a limit on the number of messages that free users can send with GP
 
 ### Streamlining your workflow in the new desktop app
 
-For both free and paid users, we're also launching a new ChatGPT desktop app for macOS that is designed to integrate seamlessly into anything you’re doing on your computer. With a simple keyboard shortcut (Option + Space), you can instantly ask ChatGPT a question. You can also take and discuss screenshots directly in the app.
+For both free and paid users, we’re also launching a new ChatGPT desktop app for macOS that is designed to integrate seamlessly into anything you’re doing on your computer. With a simple keyboard shortcut (Option + Space), you can instantly ask ChatGPT a question. You can also take and discuss screenshots directly in the app.
 
 You can now have voice conversations with ChatGPT directly from your computer, starting with Voice Mode that has been available in ChatGPT at launch, with GPT‑4o’s new audio and video capabilities coming in the future. Whether you want to brainstorm a new idea for your company, prepare for an interview or have a topic you’d like to discuss, tap the headphone icon in the bottom right corner of the desktop app to start a voice conversation. 
 
 ![mac-desktop-wave](https://images.ctfassets.net/kftzwdyauwt9/6spjPY34T0h2MhikMODTkk/69227eb71df6e7bea84b8bf2b8334358/desktop-headphone.png?w=3840&q=90&fm=webp)
 
-We're rolling out the macOS app to Plus users starting today, and we will make it more broadly available in the coming weeks. We also plan to launch a Windows version later this year.
+We’re rolling out the macOS app to Plus users starting today, and we will make it more broadly available in the coming weeks. We also plan to launch a Windows version later this year.
 
 ## A simplified look and feel for ChatGPT
 
-We’re introducing a new look and feel for ChatGPT that's designed to be friendlier and more conversational. You’ll notice a new home screen, message layout and more.
+We’re introducing a new look and feel for ChatGPT that’s designed to be friendlier and more conversational. You’ll notice a new home screen, message layout and more.
 
 ## To experience these features as they launch, sign up or log in at chatgpt.com. 
 
