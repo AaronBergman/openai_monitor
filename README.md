@@ -1,6 +1,42 @@
 # openai_monitor
 
 
+## 2026-08-16 — Run `2026-08-16T09-15Z`
+
+**Fetch time:** 2026-08-16T09:16:09Z UTC | **Baseline:** 2026-08-15T09-16Z (consecutive day)
+
+**TL;DR:** The quietest day in recent memory by volume — only 38 of 1,584 pages changed at all, and 36 of those were pure server-side re-renders with no visible content change. But one of the two real edits is a notable one: OpenAI's `/about/` page swapped its flagship "Our plan for AGI" link from the older *Planning for AGI and beyond* essay to a newer one, *Built to benefit everyone: our plan* (by Sam Altman and Jakub Pachocki, dated June 8, 2026), which frames OpenAI as entering a "third phase" centered on making advanced AI abundant and affordable rather than solely on frontier capability — a subtle but real shift in how the company describes itself to first-time visitors. The other real change was another flip in the ongoing, still-unresolved nav-template inconsistency on `/business/` partner pages. No new pages, no removals, no timestamp-based anomalies.
+
+### Anomalies
+
+None triggered under this repo's defined timestamp-based checks (no future-dated or backwards-moving `<lastmod>`, no backdated new URLs — there were no new URLs today — no reappeared URLs, no genuine sub-sitemap migrations).
+
+**Methodology note (not a site anomaly):** an initial diff pass in this run flagged 19 false "sub-sitemap migrations," caused by this run's tooling sanitizing sub-sitemap filenames differently than prior runs (`sora.xml` vs. the established `sitemap.xml_sora.xml` convention). Corrected before finalizing; true migration count is 0. Recorded so the convention is documented for future runs — see [`runs/2026-08-16T09-15Z/analysis.md`](runs/2026-08-16T09-15Z/analysis.md).
+
+### Notable updates
+
+- **[`/about/`](pages/openai.com/about/index.md):** the "Our plan for AGI" link now points to [`/index/built-to-benefit-everyone-our-plan/`](pages/openai.com/index/built-to-benefit-everyone-our-plan/index.md) instead of [`/index/planning-for-agi-and-beyond/`](pages/openai.com/index/planning-for-agi-and-beyond/index.md). Both essays already existed in the sitemap before today (the new target was first seen 2026-06-09), so this is purely a link retarget on OpenAI's About page — but it's the company's front door pointing visitors to a different, more recent statement of its mission and strategy ("three main goals": build an automated AI researcher, accelerate the economy, give everyone a personal AGI).
+- **Continuing pattern — nav-template flip-flop:** [`business/partners/cognizant/`](pages/openai.com/business/partners/cognizant/index.md) flipped from the old-style global nav to the new-style nav (Why OpenAI/Products/Solutions/Resources/Customers/Pricing) again — the same unstable, first-flagged-2026-08-08 condition, still going in both directions across recent runs with no sign of settling.
+- 7 partner-directory pages (`/business/partners/` and 6 company detail pages: Accenture, Capgemini, Cognizant's timestamp update itself, Ernst & Young, IBM, KPMG, PwC) and 29 other pages (plugin directory entries, several `index/` posts including `sora`, `products/release-notes`, the `signals/*` cluster) picked up fresh `<lastmod>` timestamps with byte-identical content — routine re-renders.
+
+### New pages
+
+None today.
+
+### Removals
+
+None today.
+
+### Routine, low-signal updates
+
+36 of the 38 lastmod-updated URLs had no visible content change at all (server-side re-render only). Full breakdown in [`runs/2026-08-16T09-15Z/analysis.md`](runs/2026-08-16T09-15Z/analysis.md).
+
+**Stats:** 1,584 total URLs | +0 added | 38 updated | -0 removed | 0 anomalies | 35 sub-sitemaps
+
+Full analysis: [runs/2026-08-16T09-15Z/analysis.md](runs/2026-08-16T09-15Z/analysis.md)
+
+---
+
 ## 2026-08-15 — Run `2026-08-15T09-16Z`
 
 **Fetch time:** 2026-08-15T09:21:20Z UTC | **Baseline:** 2026-08-14T09-19Z (consecutive day)
