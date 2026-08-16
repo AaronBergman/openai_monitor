@@ -36,7 +36,7 @@ OpenAI is an AI research and deployment company. Our mission is to ensure that a
 
 Our mission is to ensure that artificial general intelligence—AI systems that are generally smarter than humans—benefits all of humanity.
 
-[Our plan for AGI](</index/planning-for-agi-and-beyond/>)[Our Charter](</charter/>)
+[Our plan for AGI](</index/built-to-benefit-everyone-our-plan/>)[Our Charter](</charter/>)
 
 ![An impressionist painting depicting a colorful cityscape with expressive brushstrokes in a palette of blues, greens, yellows, and hints of pink under a light sky.](https://images.ctfassets.net/kftzwdyauwt9/e632747f-9587-47a4-60779b6e0c90/cf75112eedea676e9deed512d191d1ac/planning-for-agi-and-beyond.jpg?w=3840&q=90&fm=webp)
 
