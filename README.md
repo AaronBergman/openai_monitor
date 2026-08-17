@@ -1,6 +1,42 @@
 # openai_monitor
 
 
+## 2026-08-17 — Run `2026-08-17T09-20Z`
+
+**Fetch time:** 2026-08-17T09:21:15Z UTC | **Baseline:** 2026-08-16T09-15Z (consecutive day)
+
+**TL;DR:** Another very quiet day — 33 of 1,584 URLs picked up a new `<lastmod>`, but only 3 had any detectable content change, and none of it is real news. Two `/business/` pages flipped nav templates in opposite directions (the same unresolved bug tracked since 2026-08-08 — one page went old-nav→sitewide-nav, another went sitewide-nav→old-nav, in the same run), and one older article's "related reading" widget swapped in a link to the recently-published Ultrafast-mode post. The other 30 updated pages — 8 partner-badge cache-busts and 22 byte-identical re-renders — carry no visible change. No new pages, no removals, no timestamp-based anomalies.
+
+### Anomalies
+
+None triggered under this repo's defined timestamp-based checks (no future-dated or backwards-moving `<lastmod>`, no new URLs to check for backdating, no removed/reappeared URLs).
+
+**Methodology note (not a site anomaly):** an initial diff pass flagged 4 URLs as having "migrated" between `sitemap.xml_global-affairs.xml` and `sitemap.xml_global-affairs-news-listed.xml`. On verification via `git diff`, both sub-sitemap files are byte-identical to yesterday's snapshot — these 4 URLs have always been cross-listed in both sub-sitemaps simultaneously; it's a pre-existing structural quirk, not a migration. The false positive came from the diff tooling keying one sub-sitemap per URL. See [`runs/2026-08-17T09-20Z/analysis.md`](runs/2026-08-17T09-20Z/analysis.md) for detail.
+
+### Notable updates
+
+- **Continuing pattern — nav-template flip-flop, both directions in one run:** [`business/plugins/sales/`](pages/openai.com/business/plugins/sales/index.md) flipped old business-specific nav ("Why OpenAI/Products/Solutions/Resources/Customers/Pricing") → current sitewide nav ("Research/Products/Business/Developers/Company/Foundation"), while [`business/solutions/cybersecurity/`](pages/openai.com/business/solutions/cybersecurity/index.md) flipped the *opposite* way in the same run. Same unstable, first-flagged-2026-08-08 condition; still no sign of settling, and still reads like flaky template caching rather than a deliberate rollout.
+- **[`index/improving-gpt-5-6-sol-in-chatgpt/`](pages/openai.com/index/improving-gpt-5-6-sol-in-chatgpt/index.md):** routine "related articles" widget rotation — added a card for [`index/previewing-ultrafast/`](pages/openai.com/index/previewing-ultrafast/index.md) (the GPT-5.6 Sol Ultrafast-mode post, published 2026-08-13), dropped the card for `index/premium-seats-chatgpt-business/`. No body-text change.
+- 8 partner-directory detail pages (Accenture, Accenture Federal Services, Capgemini, Cognizant, Ernst & Young, IBM, KPMG, PwC) had their partner-tier badge image's cache-busting query parameter bumped platform-wide (`dpl_5xfYDbfSF5CJypESTKB8K4dtnxRu` → `dpl_8juo9XDHg5MmkQkGaWYYuUPqDCAz`) — an asset/deploy hash refresh, not a content edit.
+
+### New pages
+
+None today.
+
+### Removals
+
+None today.
+
+### Routine, low-signal updates
+
+22 of the 33 lastmod-updated URLs had no visible content change at all (server-side re-render only): `api-reserved-tier`, `business/partners/` (index), 11 `business/plugins/*` entries, several `index/` posts, `products/release-notes/`, `signals/enterprise-data/`, and `solutions/industries/government/`. Full breakdown in [`runs/2026-08-17T09-20Z/analysis.md`](runs/2026-08-17T09-20Z/analysis.md).
+
+**Stats:** 1,584 total URLs | +0 added | 33 updated | -0 removed | 0 anomalies | 35 sub-sitemaps
+
+Full analysis: [runs/2026-08-17T09-20Z/analysis.md](runs/2026-08-17T09-20Z/analysis.md)
+
+---
+
 ## 2026-08-16 — Run `2026-08-16T09-15Z`
 
 **Fetch time:** 2026-08-16T09:16:09Z UTC | **Baseline:** 2026-08-15T09-16Z (consecutive day)

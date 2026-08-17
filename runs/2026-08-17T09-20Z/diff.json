@@ -1,0 +1,179 @@
+{
+  "run_id": "2026-08-17T09-20Z",
+  "fetch_time": "2026-08-17T09:21:15Z",
+  "baseline": "2026-08-16T09-15Z",
+  "added": [],
+  "removed": [],
+  "updated": [
+    {
+      "url": "https://openai.com/api-reserved-tier/",
+      "old_lastmod": "2026-08-16T09:00:05.901Z",
+      "new_lastmod": "2026-08-17T07:11:47.866Z"
+    },
+    {
+      "url": "https://openai.com/business/partners/",
+      "old_lastmod": "2026-08-16T07:21:46.425Z",
+      "new_lastmod": "2026-08-16T23:57:07.163Z"
+    },
+    {
+      "url": "https://openai.com/business/partners/accenture-federal-services/",
+      "old_lastmod": "2026-08-15T02:12:17.432Z",
+      "new_lastmod": "2026-08-16T23:57:04.859Z"
+    },
+    {
+      "url": "https://openai.com/business/partners/accenture/",
+      "old_lastmod": "2026-08-16T07:21:43.911Z",
+      "new_lastmod": "2026-08-17T04:31:59.410Z"
+    },
+    {
+      "url": "https://openai.com/business/partners/capgemini/",
+      "old_lastmod": "2026-08-16T07:21:43.717Z",
+      "new_lastmod": "2026-08-17T04:31:58.471Z"
+    },
+    {
+      "url": "https://openai.com/business/partners/cognizant/",
+      "old_lastmod": "2026-08-16T07:21:43.816Z",
+      "new_lastmod": "2026-08-17T04:31:58.324Z"
+    },
+    {
+      "url": "https://openai.com/business/partners/ernst-and-young/",
+      "old_lastmod": "2026-08-16T07:21:43.943Z",
+      "new_lastmod": "2026-08-17T04:31:59.478Z"
+    },
+    {
+      "url": "https://openai.com/business/partners/ibm/",
+      "old_lastmod": "2026-08-16T07:21:36.880Z",
+      "new_lastmod": "2026-08-17T04:31:57.295Z"
+    },
+    {
+      "url": "https://openai.com/business/partners/kpmg/",
+      "old_lastmod": "2026-08-16T07:21:42.958Z",
+      "new_lastmod": "2026-08-17T04:31:58.342Z"
+    },
+    {
+      "url": "https://openai.com/business/partners/pwc/",
+      "old_lastmod": "2026-08-16T07:21:42.859Z",
+      "new_lastmod": "2026-08-17T04:31:58.195Z"
+    },
+    {
+      "url": "https://openai.com/business/plugins/bigquery/",
+      "old_lastmod": "2026-08-14T17:00:03.474Z",
+      "new_lastmod": "2026-08-16T22:20:51.676Z"
+    },
+    {
+      "url": "https://openai.com/business/plugins/databricks/",
+      "old_lastmod": "2026-08-16T07:17:36.358Z",
+      "new_lastmod": "2026-08-17T06:29:23.417Z"
+    },
+    {
+      "url": "https://openai.com/business/plugins/figma/",
+      "old_lastmod": "2026-08-15T19:37:50.670Z",
+      "new_lastmod": "2026-08-17T02:17:54.261Z"
+    },
+    {
+      "url": "https://openai.com/business/plugins/investment-banking/",
+      "old_lastmod": "2026-08-15T22:06:36.506Z",
+      "new_lastmod": "2026-08-17T08:47:05.451Z"
+    },
+    {
+      "url": "https://openai.com/business/plugins/notion/",
+      "old_lastmod": "2026-08-15T17:35:57.312Z",
+      "new_lastmod": "2026-08-17T08:01:39.710Z"
+    },
+    {
+      "url": "https://openai.com/business/plugins/product-design/",
+      "old_lastmod": "2026-08-16T04:32:53.294Z",
+      "new_lastmod": "2026-08-17T07:58:02.303Z"
+    },
+    {
+      "url": "https://openai.com/business/plugins/public-equity-investing/",
+      "old_lastmod": "2026-08-15T17:37:59.020Z",
+      "new_lastmod": "2026-08-17T08:06:04.132Z"
+    },
+    {
+      "url": "https://openai.com/business/plugins/replit/",
+      "old_lastmod": "2026-08-15T17:33:29.479Z",
+      "new_lastmod": "2026-08-17T07:06:07.405Z"
+    },
+    {
+      "url": "https://openai.com/business/plugins/sales/",
+      "old_lastmod": "2026-08-16T05:26:32.059Z",
+      "new_lastmod": "2026-08-17T08:34:27.193Z"
+    },
+    {
+      "url": "https://openai.com/business/plugins/salesforce/",
+      "old_lastmod": "2026-08-16T08:55:20.587Z",
+      "new_lastmod": "2026-08-17T06:33:41.304Z"
+    },
+    {
+      "url": "https://openai.com/business/plugins/snowflake/",
+      "old_lastmod": "2026-08-16T08:59:05.025Z",
+      "new_lastmod": "2026-08-17T07:54:03.161Z"
+    },
+    {
+      "url": "https://openai.com/business/plugins/vercel/",
+      "old_lastmod": "2026-08-15T19:25:24.349Z",
+      "new_lastmod": "2026-08-16T21:55:46.880Z"
+    },
+    {
+      "url": "https://openai.com/business/solutions/cybersecurity/",
+      "old_lastmod": "2026-08-13T23:23:17.139Z",
+      "new_lastmod": "2026-08-17T09:17:03.414Z"
+    },
+    {
+      "url": "https://openai.com/index/builders-guide-to-gpt-5-6/",
+      "old_lastmod": "2026-08-15T16:35:05.920Z",
+      "new_lastmod": "2026-08-16T18:52:02.007Z"
+    },
+    {
+      "url": "https://openai.com/index/dali-rajic-chief-revenue-officer/",
+      "old_lastmod": "2026-08-16T08:59:17.370Z",
+      "new_lastmod": "2026-08-16T21:09:09.801Z"
+    },
+    {
+      "url": "https://openai.com/index/how-enterprises-put-ai-to-work/",
+      "old_lastmod": "2026-08-16T02:50:03.400Z",
+      "new_lastmod": "2026-08-16T17:59:06.106Z"
+    },
+    {
+      "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/",
+      "old_lastmod": "2026-08-12T21:21:09.298Z",
+      "new_lastmod": "2026-08-16T11:36:28.660Z"
+    },
+    {
+      "url": "https://openai.com/index/previewing-ultrafast/",
+      "old_lastmod": "2026-08-15T16:19:06.258Z",
+      "new_lastmod": "2026-08-17T08:07:08.241Z"
+    },
+    {
+      "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models/",
+      "old_lastmod": "2026-08-13T23:55:50.205Z",
+      "new_lastmod": "2026-08-16T10:24:51.393Z"
+    },
+    {
+      "url": "https://openai.com/index/zapier/",
+      "old_lastmod": "2026-08-14T08:46:04.813Z",
+      "new_lastmod": "2026-08-16T15:04:15.590Z"
+    },
+    {
+      "url": "https://openai.com/products/release-notes/",
+      "old_lastmod": "2026-08-15T17:26:58.509Z",
+      "new_lastmod": "2026-08-17T00:45:04.729Z"
+    },
+    {
+      "url": "https://openai.com/signals/enterprise-data/",
+      "old_lastmod": "2026-08-16T02:50:03.116Z",
+      "new_lastmod": "2026-08-16T17:59:05.636Z"
+    },
+    {
+      "url": "https://openai.com/solutions/industries/government/",
+      "old_lastmod": "2026-08-16T00:04:01.230Z",
+      "new_lastmod": "2026-08-17T09:09:04.617Z"
+    }
+  ],
+  "anomalies": [],
+  "fetch_failures": [],
+  "notes": [
+    "The diffing script's baseline construction initially flagged 4 URLs (global-affairs/new-economic-analysis/, index/equipping-workers-with-insights-about-compensation/, index/how-countries-can-end-the-capability-overhang/, index/understanding-ai-and-learning-outcomes/) as 'migrated' between sitemap.xml_global-affairs.xml and sitemap.xml_global-affairs-news-listed.xml. Verified via git diff that both sub-sitemap files are byte-identical to the prior snapshot -- these URLs are listed in both sub-sitemaps simultaneously (pre-existing duplicate cross-listing), not a real migration. False positive, not recorded as an anomaly."
+  ]
+}
