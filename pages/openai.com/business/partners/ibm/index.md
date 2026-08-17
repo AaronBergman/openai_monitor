@@ -38,7 +38,7 @@ OpenAI
 
 AI will define industry leaders—and laggards—over the next decade. Yet many companies feel pressure to “do AI” without rethinking the business behind it, addingtools but also silos, complexity, and disconnect from outcomes. The result is an ROI gap. Winning requires more than tools; it means building a smarter business with AI at its core. That starts with a strong data foundation, orchestrated platforms and partners, and reimagined work powered by domain‑rich AI. It scales with trust, governance, and a reskilled workforce. To unlock growth and measurable value, you need a partner who can turn AI into real advantage—that’s IBM Consulting.
 
-![Elite Partner](/images/partner-tier-badges/OAI_PartnerNetwork_ElitePartner.svg?dpl=dpl_5xfYDbfSF5CJypESTKB8K4dtnxRu)
+![Elite Partner](/images/partner-tier-badges/OAI_PartnerNetwork_ElitePartner.svg?dpl=dpl_8juo9XDHg5MmkQkGaWYYuUPqDCAz)
 
 Countries served
     Global
