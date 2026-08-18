@@ -30,9 +30,9 @@ April 10, 2026
 
 OpenAI Academy
 
-# Learn ChatGPT for Sales Teams
+# Learn ChatGPT workflows for sales teams
 
-Learn how sales teams use ChatGPT to build stronger pipeline and sell more effectively.
+Learn practical ChatGPT workflows for account research, meeting prep, outreach, pipeline reviews, and sales execution.
 
 Loading…
 
@@ -190,6 +190,8 @@ The clearest outcomes are improved stage conversion, shorter deal cycles, faster
 [Stakeholder map + outreach anglesBased on this org chart / list of contacts: [paste], propose a stakeholder map (economic buyer, champions, blockers, influencers). For each, write 1 value hypothesis and 2 outreach angles tailored to their likely goals.(opens in a new window)](<https://chatgpt.com/?prompt=Based+on+this+org+chart+%2F+list+of+contacts%3A+%5Bpaste%5D%2C+propose+a+stakeholder+map+%28economic+buyer%2C+champions%2C+blockers%2C+influencers%29.+For+each%2C+write+1+value+hypothesis+and+2+outreach+angles+tailored+to+their+likely+goals.>)
 
 * * *
+
+For related tools and guidance, explore [ChatGPT solutions for sales teams](</business/solutions/sales/>).
 
 ## Continue learning with OpenAI Academy
 

@@ -127,6 +127,12 @@ Reporting and other resources.
 
 
 
+## Brazil Regulation
+
+#### Election Compliance Plan
+
+### [Election Compliance Plan in connection with TSE Ordinance No. 463/2026 and TSE Resolution No. 23,610/2019 (Portuguese)Download](<https://cdn.openai.com/trust-and-transparency/plano-de-conformidade-oai-16-de-agosto-de-2026.pdf>)
+
 ### Trust & transparency resources
 
 Additional trust and transparency resources.
@@ -149,9 +155,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -188,6 +194,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -221,6 +229,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

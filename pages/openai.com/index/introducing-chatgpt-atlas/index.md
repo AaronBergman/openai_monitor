@@ -34,8 +34,6 @@ October 21, 2025
 
 The browser with ChatGPT built in.
 
-[Download for macOS(opens in a new window)](<https://chatgpt.com/atlas>)
-
 ## This post introduced ChatGPT Atlas. Atlas has since been deprecated.
 
 For the current product and team workflows, see:

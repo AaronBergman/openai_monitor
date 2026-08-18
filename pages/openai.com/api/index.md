@@ -11,7 +11,7 @@ Skip to main content
 
 
 
-Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
+Log in[Start building(opens in a new window)](<https://platform.openai.com/?utm_internal_source=openai_api>)
 
   * Research
   * Products
@@ -22,15 +22,13 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 
 
-[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)Login
+[Start building(opens in a new window)](<https://platform.openai.com/?utm_internal_source=openai_api>)Login
 
 OpenAI
 
 # Build leading AI products on OpenAI’s platform
 
-[Contact sales](</contact-sales/>)
-
-Start building
+[Contact sales](</contact-sales/>)[Start building(opens in a new window)](<https://platform.openai.com/?utm_internal_source=openai_api>)
 
 ## Powered by our frontier models
 
@@ -68,21 +66,21 @@ Learn more(opens in a new window)(opens in a new window)](<https://developers.op
 
 #### Prompting guidance
 
-Learn how to prompt GPT‑5 for highest performance.
+Learn how to prompt GPT‑5 series for highest performance.
 
 [View prompting guidance(opens in a new window)](<https://platform.openai.com/docs/guides/latest-model#prompting-guidance>)
 
-#### Front-end coding examples
-
-Explore front-end applications built with GPT‑5.
-
-[View front-end examples(opens in a new window)](<https://cookbook.openai.com/examples/gpt-5/gpt-5_frontend>)
-
 #### Migration support
 
-Learn how to migrate from other OpenAI models to GPT‑5.
+Learn how to migrate from other OpenAI models to the GPT‑5 series.
 
 [View migration guide(opens in a new window)](<https://platform.openai.com/docs/guides/latest-model#migration-guidance>)
+
+#### Model best practices
+
+Learn how to optimize GPT‑5.6 performance from our startup community.
+
+[View builder's guide(opens in a new window)](</index/builders-guide-to-gpt-5-6>)
 
 ## The all-in-one platform for agents
 

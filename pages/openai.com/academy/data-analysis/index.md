@@ -123,6 +123,8 @@ Prepare for review| “Before editing anything, outline your plan. Tell me which
 
 * * *
 
+For related tools and guidance, explore [ChatGPT solutions for data teams](</business/solutions/data/>) and [the Databricks integration](</business/plugins/databricks/>).
+
 ## Continue learning with OpenAI Academy
 
 Discover additional guides and resources to help you build practical AI skills.

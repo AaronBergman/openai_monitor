@@ -140,15 +140,17 @@ More than 1 million businesses around the world are achieving meaningful results
 
 ## Keep reading
 
-[Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free usersProductAug 6, 2026](</index/improving-gpt-5-6-sol-in-chatgpt/>)
+![The Defender’s Window > Cover](https://images.ctfassets.net/kftzwdyauwt9/2We7bguC4FuOofZ8Lu6LUZ/02049fcee47c460695acab59bdb8f648/the-defenders-window-clean-cover.png?w=3840&q=90&fm=webp)
 
-![APA partnership > card image](https://images.ctfassets.net/kftzwdyauwt9/7Iu2mNExtUq2EqstK69WkH/7fb0f37c3c69d9481f8ea803af7ae613/openai-and-apa-advance-responsible-ai-for-youth-1_1.png?w=3840&q=90&fm=webp)
+[The Defender’s WindowSecurityAug 17, 2026](</index/the-defenders-window/>)
 
-[OpenAI and APA advance responsible AI for youthCompanyAug 6, 2026](</index/openai-and-apa-partner-to-advance-responsible-ai/>)
+![OpenAI joins PORTS-Pike project, expanding community investment and supporting thousands of Southern Ohio jobs — card image](https://images.ctfassets.net/kftzwdyauwt9/6RUPcXx0eTGghDpM851Qy1/ab11d2d0849ad9544249bf7b77ee46fe/openai-joins-ports-pike-project-cover-v001.png?w=3840&q=90&fm=webp)
 
-![How people use ChatGPT around the world > Cover image](https://images.ctfassets.net/kftzwdyauwt9/5quRLt4fW8Js506D8eNKl3/3d9938860836620ec50b148f4e3f1a49/Art_Card__5_.png?w=3840&q=90&fm=webp)
+[OpenAI joins PORTS-Pike projectGlobal AffairsAug 17, 2026](</index/openai-joins-ports-pike-project/>)
 
-[How the world is putting ChatGPT to workCompanyAug 6, 2026](</index/how-the-world-is-putting-chatgpt-to-work/>)
+![New policy ideas for the Intelligence Age — Card image](https://images.ctfassets.net/kftzwdyauwt9/AJqxrcFJn4IUKHIkwneFA/979315f3b490abc2e2055be12d97c9bb/new-policy-ideas-for-the-intelligence-age--cover-v001.png?w=3840&q=90&fm=webp)
+
+[New policy ideas for the Intelligence AgeGlobal AffairsAug 17, 2026](</index/new-policy-ideas-for-the-intelligence-age/>)
 
 Research
 

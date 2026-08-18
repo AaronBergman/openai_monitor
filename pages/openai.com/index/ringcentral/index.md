@@ -100,17 +100,17 @@ More than 1 million businesses around the world are achieving meaningful results
 
 ## Keep reading
 
-![The builder’s guide to GPT-5.6 — Card image — Neutral Option 075](https://images.ctfassets.net/kftzwdyauwt9/4jmIFt2vH2c51Fj99rAiqH/bf22866b22d59f6230785fe304fee20c/the-builders-guide-to-gpt-5-6-option-075-card.png?w=3840&q=90&fm=webp)
+![The Defender’s Window > Cover](https://images.ctfassets.net/kftzwdyauwt9/2We7bguC4FuOofZ8Lu6LUZ/02049fcee47c460695acab59bdb8f648/the-defenders-window-clean-cover.png?w=3840&q=90&fm=webp)
 
-[The builder’s guide to GPT‑5.6Applied AIAug 13, 2026](</index/builders-guide-to-gpt-5-6/>)
+[The Defender’s WindowSecurityAug 17, 2026](</index/the-defenders-window/>)
 
-![Previewing Ultrafast mode — clean cover](https://images.ctfassets.net/kftzwdyauwt9/74UiHrTiZoKnbvpopDTG1s/d33291d426eac29a4a5c0563e717376d/previewing-ultrafast-mode--cover-1080x1080-v001.png?w=3840&q=90&fm=webp)
+![OpenAI joins PORTS-Pike project, expanding community investment and supporting thousands of Southern Ohio jobs — card image](https://images.ctfassets.net/kftzwdyauwt9/6RUPcXx0eTGghDpM851Qy1/ab11d2d0849ad9544249bf7b77ee46fe/openai-joins-ports-pike-project-cover-v001.png?w=3840&q=90&fm=webp)
 
-[Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speedProductAug 13, 2026](</index/previewing-ultrafast/>)
+[OpenAI joins PORTS-Pike projectGlobal AffairsAug 17, 2026](</index/openai-joins-ports-pike-project/>)
 
-![Dali Rajic > Article card](https://images.ctfassets.net/kftzwdyauwt9/5XuPL3BI8tkye6ojCL91Kc/74884b051d5c1a553cae8d3b952c79fe/dali-rajic-article-card-square-crop-v3.png?w=3840&q=90&fm=webp)
+![New policy ideas for the Intelligence Age — Card image](https://images.ctfassets.net/kftzwdyauwt9/AJqxrcFJn4IUKHIkwneFA/979315f3b490abc2e2055be12d97c9bb/new-policy-ideas-for-the-intelligence-age--cover-v001.png?w=3840&q=90&fm=webp)
 
-[OpenAI appoints Dali Rajic as Chief Revenue OfficerCompanyAug 13, 2026](</index/dali-rajic-chief-revenue-officer/>)
+[New policy ideas for the Intelligence AgeGlobal AffairsAug 17, 2026](</index/new-policy-ideas-for-the-intelligence-age/>)
 
 Research
 

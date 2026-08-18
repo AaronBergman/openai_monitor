@@ -41,40 +41,24 @@ Share
 What is an agent?
 
   * What is an agent?
-
   * Anatomy of an agent
-
   * Agent workflow examples
-
   * Using an agent in ChatGPT
-
   * Building your own agent in ChatGPT
-
   * Testing your agent using preview
-
   * Editing your agent
-
   * Scaling your agents to your team
-
 
 
 
   * What is an agent?
-
   * Anatomy of an agent
-
   * Agent workflow examples
-
   * Using an agent in ChatGPT
-
   * Building your own agent in ChatGPT
-
   * Testing your agent using preview
-
   * Editing your agent
-
   * Scaling your agents to your team
-
 
 
 
@@ -182,6 +166,8 @@ When you share an agent, be explicit about what it’s for. In the description, 
 
 Remember that workspace admins manage connector and feature access through role-based access control (RBAC), so teammates may need the appropriate permissions for the agent to work with systems like Slack, Gmail, or other tools.
 
+For related tools and guidance, explore [OpenAI Frontier](</business/frontier/>).
+
 ## Continue learning with OpenAI Academy
 
 Discover additional guides and resources to help you build practical AI skills.
@@ -288,6 +274,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

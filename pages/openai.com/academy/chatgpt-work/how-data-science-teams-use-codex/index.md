@@ -30,7 +30,7 @@ July 14, 2026
 
 OpenAI Academy
 
-# How data science teams use ChatGPT Work
+# Data science workflows with ChatGPT Work
 
 See how data science teams can use ChatGPT Work to turn questions, dashboards, and raw data into review-ready analysis assets.
 
@@ -63,6 +63,8 @@ Watch **_How data science teams use Codex_** on-demand [**here** ⁠(opens in a 
 ## Top ChatGPT Work use cases for data science teams
 
 Ready to try ChatGPT Work on real data science work? Check out our use cases [here.⁠(opens in a new window)](<https://learn.chatgpt.com/use-cases/collections/data-science>)
+
+For related tools and guidance, explore [ChatGPT solutions for data teams](</business/solutions/data/>) and [the Databricks integration](</business/plugins/databricks/>).
 
 ## Continue learning with OpenAI Academy
 

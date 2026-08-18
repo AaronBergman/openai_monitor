@@ -41,20 +41,14 @@ Share
 How to work with files 
 
   * How to work with files 
-
   * Connecting to other tools
-
   * Further reading
-
 
 
 
   * How to work with files 
-
   * Connecting to other tools
-
   * Further reading
-
 
 
 
@@ -100,6 +94,8 @@ _Note: For Enterprise workspaces, your organization’s admin controls which app
   * [_OpenAI Help Center: Retention Policies in ChatGPT⁠_ ⁠(opens in a new window)](<https://help.openai.com/articles/8983778-chat-and-file-retention-policies-in-chatgpt>)
 
 
+
+For related tools and guidance, explore [the Google Drive integration](</business/plugins/google-drive/>) and [ChatGPT solutions for operations teams](</business/solutions/operations/>).
 
 ## Continue learning with OpenAI Academy
 
@@ -207,6 +203,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

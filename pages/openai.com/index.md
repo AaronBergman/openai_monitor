@@ -55,6 +55,10 @@ ProductJul 23, 20267 min read](</index/health-in-chatgpt/>)
 
 [View more](</news/company-announcements/>)
 
+![The Defender’s Window > Cover](https://images.ctfassets.net/kftzwdyauwt9/2We7bguC4FuOofZ8Lu6LUZ/02049fcee47c460695acab59bdb8f648/the-defenders-window-clean-cover.png?w=3840&q=90&fm=webp)
+
+[The Defender’s WindowSecurityAug 17, 2026](</index/the-defenders-window/>)
+
 ![Dali Rajic > Article card](https://images.ctfassets.net/kftzwdyauwt9/5XuPL3BI8tkye6ojCL91Kc/74884b051d5c1a553cae8d3b952c79fe/dali-rajic-article-card-square-crop-v3.png?w=3840&q=90&fm=webp)
 
 [OpenAI appoints Dali Rajic as Chief Revenue OfficerCompanyAug 13, 2026](</index/dali-rajic-chief-revenue-officer/>)

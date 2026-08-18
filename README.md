@@ -1,6 +1,51 @@
 # openai_monitor
 
 
+## 2026-08-18 — Run `2026-08-18T09-16Z`
+
+**Fetch time:** 2026-08-18T09:17:07Z UTC | **Baseline:** 2026-08-17T09-20Z (consecutive day)
+
+**TL;DR:** A busier day, with one real structural event and several genuine content updates. OpenAI reshuffled its sitemap taxonomy: 125 existing URLs moved between sub-sitemap categories (mostly out of the catch-all `company`/`product` buckets and into more specific `release`, `global-affairs`, and `security` buckets, plus two brand-new buckets appeared), with no content change to the pages themselves. On the content side: three new posts landed — grants to 14 orgs for "policy ideas for the Intelligence Age," an ~8 GW Ohio data-center deal (PORTS-Pike) with $40M in community investment and $84M in Codex credits for Ohio college students, and a Greg Brockman security essay ("The Defender's Window"). The Trust & Transparency page picked up a new Brazil election-compliance disclosure ahead of that country's elections, the Daybreak cybersecurity page added a new UK AISI benchmark chart, the API landing page's CTA switched from "Try ChatGPT" to "Start building," and release notes gained a new ChatGPT app-experience entry. Two pricing pages (`api/pricing/`, `business/chatgpt-pricing/`) dropped out of the sitemap with no clear replacement. No timestamp-based anomalies.
+
+### Anomalies
+
+No future-dated or backwards-moving `<lastmod>` values, no backdated new URLs, no disappeared-then-reappeared URLs.
+
+**Sub-sitemap recategorization (125 URLs) — flagged as an anomaly per this repo's detection rules, but reads as routine backend taxonomy cleanup, not suspicious.** Same URLs, same content, different `/sitemap.xml/<section>/` bucket. Net effect: `company` -59, `product` -23, `api` -9, `safety` -7; `global-affairs` +31, `release` +30, `security` +21, `research` +6; two brand-new buckets appeared (`global-affairs-news-listed`, `sora`). None of the 125 moved pages had any textual content change. Full per-URL list in [`runs/2026-08-18T09-16Z/diff.json`](runs/2026-08-18T09-16Z/diff.json) and table in [`runs/2026-08-18T09-16Z/analysis.md`](runs/2026-08-18T09-16Z/analysis.md).
+
+### Notable updates
+
+- **[`trust-and-transparency/`](pages/openai.com/trust-and-transparency/index.md):** added a new **Brazil Election Compliance Plan** disclosure (re: TSE Ordinance No. 463/2026 and TSE Resolution No. 23,610/2019), ahead of Brazil's elections. Also swapped GPT‑5.3 Instant out of / GPT‑5.6 into the listed-models section, and added "Customer Stories," "Partner Network," and "Supply Co." to site nav.
+- **[`daybreak/`](pages/openai.com/daybreak/index.md):** added a new UK AI Security Institute benchmark chart ("The Last Ones") showing GPT‑5.6-Sol reaching the highest completion levels on a cyber network-takeover task among tested frontier models (ahead of Claude Opus/Sonnet, GLM-5.2, DeepSeek-V4-Pro in the chart). Added a card for the new "The Defender's Window" essay; dropped the older "Scaling Trusted Access for Cyber with GPT‑5.5" card.
+- **[`api/`](pages/openai.com/api/index.md):** primary CTA changed from "Try ChatGPT" to "Start building" (now deep-links to platform.openai.com). Copy updated "GPT‑5" → "GPT‑5 series." Swapped a "Front-end coding examples" callout for a new "Model best practices" callout linking to the new Builder's guide to GPT‑5.6.
+- **[`products/release-notes/`](pages/openai.com/products/release-notes/index.md):** new Aug 14, 2026 entry, "ChatGPT app experience updates" (GA) — interactive quizzes for studying, project-memory management, easier switching between typing/dictation/desktop.
+- **[`academy/finance/`](pages/openai.com/academy/finance/index.md) and [`academy/marketing/`](pages/openai.com/academy/marketing/index.md):** headlines retitled ("ChatGPT for finance teams" → "Learn ChatGPT workflows for finance teams," and the marketing equivalent), added cross-links to the matching `/business/solutions/` page.
+- **Continuing pattern — nav-template flip:** [`business/plugins/sales/`](pages/openai.com/business/plugins/sales/index.md) and [`business/learn/how-our-sales-team-uses-chatgpt-work/`](pages/openai.com/business/learn/how-our-sales-team-uses-chatgpt-work/index.md) both flipped from the old-style global nav (Research/Products/Business/Developers/Company/Foundation, "Log in"/"Try ChatGPT") to the new-style nav (Why OpenAI/Products/Solutions/Resources/Customers/Pricing, "Try OpenAI"/"Contact sales") — same unstable, first-flagged-2026-08-08 condition still recurring, this time consistently in the old→new direction.
+- **Customer-story template refresh:** `index/ai-clinical-copilot-penda-health`, `index/accelerating-life-sciences-research-with-retro-biosciences`, `index/blue-j`, and smaller moves on `index/circles`, `index/ringcentral`, `index/virgin-atlantic/chatgpt-work`, `index/zapier`, `index/safetykit` — page-header block (date/category/title/dek/share) moved above the table of contents (layout change only). [`index/blue-j/`](pages/openai.com/index/blue-j/index.md) additionally gained new stat callouts ("2.7 hours saved per user weekly," "fewer than 1 in 700 answers disputed") and a pulled quote.
+- **[`codex/`](pages/openai.com/codex/index.md) and [`index/introducing-chatgpt-small-business-program/`](pages/openai.com/index/introducing-chatgpt-small-business-program/index.md):** both had a "this post is outdated, see current page" redirect banner removed.
+- **[`business/solutions/operations/`](pages/openai.com/business/solutions/operations/index.md):** largest single diff of the run — full page-body copy refresh (headline, CTAs, feature blurbs, example workflow prompt) for the operations-team solutions page.
+
+### New pages
+
+- **[New policy ideas for the Intelligence Age](pages/openai.com/index/new-policy-ideas-for-the-intelligence-age/index.md)** (Global Affairs) — grants to 14 independent organizations to promote economic opportunity and societal resilience as AI advances, following through on the "Industrial Policy for the Intelligence Age" commitment from April 2026.
+- **[OpenAI joins PORTS-Pike project](pages/openai.com/index/openai-joins-ports-pike-project/index.md)** (Global Affairs / Company) — with SB Energy, NVIDIA, and the U.S. Department of Energy, OpenAI is building an ~8 GW data-center campus in Pike County, Ohio. Expected 35,000 construction jobs through 2032, 2,500 permanent operating jobs, a $40M community grant fund (on top of SB Energy's existing $40M), and $84M in Codex credits for ~844,000 eligible Ohio college students in 2026–2027.
+- **[The Defender's Window](pages/openai.com/index/the-defenders-window/index.md)** (Security) — essay by Greg Brockman on the current cybersecurity moment, what OpenAI is doing to defend itself, and what defenders should do now. Fits with today's Daybreak-page benchmark update.
+
+### Removals
+
+- `https://openai.com/api/pricing/` (tracked since 2026-05-07) — dropped from the sitemap, no replacement URL added today.
+- `https://openai.com/business/chatgpt-pricing/` (tracked since 2026-05-07) — dropped from the sitemap, no replacement URL added today.
+
+### Routine, low-signal updates
+
+37 of the 85 lastmod-updated URLs had no visible content change at all (server-side re-render only) — includes most `business/plugins/*` and `business/partners/*` detail pages. Full breakdown in [`runs/2026-08-18T09-16Z/analysis.md`](runs/2026-08-18T09-16Z/analysis.md).
+
+**Stats:** 1,585 total URLs | +3 added | 85 updated | -2 removed | 125 anomalies (sub-sitemap recategorization) | 35 sub-sitemaps
+
+Full analysis: [runs/2026-08-18T09-16Z/analysis.md](runs/2026-08-18T09-16Z/analysis.md)
+
+---
+
 ## 2026-08-17 — Run `2026-08-17T09-20Z`
 
 **Fetch time:** 2026-08-17T09:21:15Z UTC | **Baseline:** 2026-08-16T09-15Z (consecutive day)

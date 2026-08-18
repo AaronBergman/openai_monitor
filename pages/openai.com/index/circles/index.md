@@ -140,17 +140,17 @@ More than 1 million businesses around the world are achieving meaningful results
 
 ## Keep reading
 
-![OAI AdsTest Blog ArtCard 1x1](https://images.ctfassets.net/kftzwdyauwt9/7drPwCnD6ied4wPzlJd7qa/d79ccfda974080bbca7d688ad9bcbc6f/OAI_AdsTest_Blog_ArtCard_1x1.png?w=3840&q=90&fm=webp)
+![The Defender’s Window > Cover](https://images.ctfassets.net/kftzwdyauwt9/2We7bguC4FuOofZ8Lu6LUZ/02049fcee47c460695acab59bdb8f648/the-defenders-window-clean-cover.png?w=3840&q=90&fm=webp)
 
-[Testing ads in ChatGPTCompanyAug 11, 2026](</index/testing-ads-in-chatgpt/>)
+[The Defender’s WindowSecurityAug 17, 2026](</index/the-defenders-window/>)
 
-![Daybreak with AWS 1x1](https://images.ctfassets.net/kftzwdyauwt9/3u4XKQVExOBSWxMiiPMmpg/31dffb070dae6251a5fac4e46ec241dc/Art_card.png?w=3840&q=90&fm=webp)
+![OpenAI joins PORTS-Pike project, expanding community investment and supporting thousands of Southern Ohio jobs — card image](https://images.ctfassets.net/kftzwdyauwt9/6RUPcXx0eTGghDpM851Qy1/ab11d2d0849ad9544249bf7b77ee46fe/openai-joins-ports-pike-project-cover-v001.png?w=3840&q=90&fm=webp)
 
-[Daybreak models are now available on AWSProductAug 11, 2026](</index/daybreak-models-are-now-available-on-aws/>)
+[OpenAI joins PORTS-Pike projectGlobal AffairsAug 17, 2026](</index/openai-joins-ports-pike-project/>)
 
-![OpenAI letter to Governor Abbott — card image](https://images.ctfassets.net/kftzwdyauwt9/58lvLf4ld7rZS9mIIvma9y/be162b8bd2d1ab08c95d666d9a161b04/Frame__18_.png?w=3840&q=90&fm=webp)
+![New policy ideas for the Intelligence Age — Card image](https://images.ctfassets.net/kftzwdyauwt9/AJqxrcFJn4IUKHIkwneFA/979315f3b490abc2e2055be12d97c9bb/new-policy-ideas-for-the-intelligence-age--cover-v001.png?w=3840&q=90&fm=webp)
 
-[OpenAI’s letter on responsible AI infrastructure in TexasGlobal AffairsAug 10, 2026](</index/responsible-ai-infrastructure-texas/>)
+[New policy ideas for the Intelligence AgeGlobal AffairsAug 17, 2026](</index/new-policy-ideas-for-the-intelligence-age/>)
 
 Research
 

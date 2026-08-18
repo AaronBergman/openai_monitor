@@ -26,16 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Primary care, Penda Health, and AI Consult
-
-  * Primary care, Penda Health, and AI Consult
-  * Iterating towards clinically-aligned implementation
-  * Active deployment for effective clinician uptake
-  * Study results: AI Consult substantially reduced diagnostic and treatment errors
-  * Where we go from here
-
-
-
 July 22, 2025
 
 [Publication](</research/index/publication/>)
@@ -49,6 +39,30 @@ Study of 40,000 patient visits finds clinicians using AI copilot made fewer erro
 Loading…
 
 Share
+
+Primary care, Penda Health, and AI Consult
+
+  * Primary care, Penda Health, and AI Consult
+  * Iterating towards clinically-aligned implementation
+  * Active deployment for effective clinician uptake
+  * Study results: AI Consult substantially reduced diagnostic and treatment errors
+    * Effect on quality of care
+    * Effect of active deployment
+    * Effect on patient outcomes
+  * Where we go from here
+
+
+
+  * Primary care, Penda Health, and AI Consult
+  * Iterating towards clinically-aligned implementation
+  * Active deployment for effective clinician uptake
+  * Study results: AI Consult substantially reduced diagnostic and treatment errors
+    * Effect on quality of care
+    * Effect of active deployment
+    * Effect on patient outcomes
+  * Where we go from here
+
+
 
 AI systems have the potential to improve human health globally—to make reliable health information universally available, help clinicians deliver better care, and empower people to better understand and advocate for their health. 
 
@@ -142,7 +156,7 @@ Only patients who individually consented to data being included in quality impro
 
 The study analyzed data from 39,849 patient visits: 20,859 in the group with AI Consult (the **AI group**) and 18,990 in the group without (the **non-AI group**). 
 
-#### Effect on quality of care
+### Effect on quality of care
 
 108 independent physicians (29 from Kenya) rated the final documentation and decisions from 5666 randomly selected visits to identify errors. They rated four dimensions: the quality of the **history** ; how appropriate the **investigations** ordered were; whether the **diagnosis** was correct; and whether the **treatment** was correct.
 
@@ -156,7 +170,7 @@ We also examined the specific types of errors reduced by AI Consult. We find tha
 
  _Significance levels are denoted by stars: ★ for p ≤ 0.05, ★★ for p ≤ 0.01, and ★★★ for p ≤ 0.001._
 
-####  Effect of active deployment
+###  Effect of active deployment
 
 Penda’s active deployment work was strikingly effective. One of the measures that Penda tracked was the **left in red rate** : the percentage of visits that had red alerts in any category (or would have had red alerts, for the non-AI group) and where clinicians did not remedy them. 
 
@@ -166,7 +180,7 @@ We surveyed Penda clinicians (anonymous, consented) about AI Consult’s impact 
 
 Clinicians in the AI group didn’t just use AI Consult—they grew with it. One clinician noted that “It has helped me in multiple occasions to make the correct clinical judgement,” while others called it “a consultant in the room” and referred to it as “one of the best innovations to happen at Penda.” They also described it as a “learning tool” that could help them broaden their medical knowledge and sharpen their clinical skills. Study data matched this perception: clinicians with AI triggered fewer red alerts over time (from 45% of visits at the start of the study to 35% at the end), meaning they learned to avoid common pitfalls even before AI Consult feedback. Alongside the enthusiasm, clinicians also noted room for improvement, especially around localization and speed.
 
-#### Effect on patient outcomes
+### Effect on patient outcomes
 
 As part of standard practice at Penda, staff call patients who consent eight days after their visit to ask whether or not they are feeling better. In the AI group, 3.8% of patients were not feeling better, while in the non-AI group, 4.3% of patients were not feeling better. This difference was not statistically significant. The rate of patients seeking additional care outside Penda—another quality signal Penda collects—was also similar between groups.
 
@@ -202,17 +216,17 @@ We would also like to thank the physician reviewers who graded clinical document
 
 [View all](</news/>)
 
-![System Card 1x1](https://images.ctfassets.net/kftzwdyauwt9/2VCkKLVmTyNs0XGbqdxGeA/33ff7738f4e795ae0ee41ed2b4a985d3/System_Card_1x1.jpg?w=3840&q=90&fm=webp)
+![math-breakthroughs art-card 1x1](https://images.ctfassets.net/kftzwdyauwt9/2zkd5RIOug4FcEj62mdSF4/3ea9e19c0456289c69f0d839cc929cb2/math-breakthroughs_art-card_1x1.png?w=3840&q=90&fm=webp)
 
-[GPT-5.5 Instant System CardSafetyMay 5, 2026](</index/gpt-5-5-instant-system-card/>)
+[Ten advances in mathematics and theoretical computer sciencePublicationAug 1, 2026](</index/ten-advances-in-mathematics/>)
 
-![oai goblins](https://images.ctfassets.net/kftzwdyauwt9/1UA2Ru5dt5rwdQfwl6B6m3/13c19cd49b106f8a39d5a2a132343b77/Goblins-1_1_Art_Card.jpg?w=3840&q=90&fm=webp)
+![ARC-AGI-3 art-card 1x1](https://images.ctfassets.net/kftzwdyauwt9/71xyJRWnTkM6EW1JKDUc59/91d2690ff9e7abaa975b4a5f64089056/ARC-AGI-3_art-card_1x1.png?w=3840&q=90&fm=webp)
 
-[Where the goblins came fromPublicationApr 29, 2026](</index/where-the-goblins-came-from/>)
+[How enabling two settings tripled our scores on the ARC-AGI-3 benchmarkResearchJul 29, 2026](</index/how-two-settings-tripled-our-arc-agi-3-scores/>)
 
-![System Card Card SEO 1x1](https://images.ctfassets.net/kftzwdyauwt9/7qMrOFCWWMweIDBUpYFr79/7741661650df6eb935acb5bda179b091/System_Card_Card_SEO_1x1.jpg?w=3840&q=90&fm=webp)
+![Scientific computing agentic AI card image \(1x1\)](https://images.ctfassets.net/kftzwdyauwt9/5opqp3rNWM7eax6GUc6MAl/1c710a4aba8c5c1e0b7d1c1c7c8b32db/1x1__1_.png?w=3840&q=90&fm=webp)
 
-[GPT-5.5 System CardSafetyApr 23, 2026](</index/gpt-5-5-system-card/>)
+[Scientific computing in the age of agentic AIPublicationJul 28, 2026](</index/scientific-computing-agentic-ai/>)
 
 Research
 
@@ -224,9 +238,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -263,6 +277,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -296,6 +312,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

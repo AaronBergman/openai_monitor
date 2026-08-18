@@ -26,6 +26,18 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
+April 10, 2026
+
+OpenAI Academy
+
+# Learn ChatGPT workflows for finance teams
+
+Learn practical ChatGPT workflows for financial analysis, reporting, planning, and decision-ready communication.
+
+Loading…
+
+Share
+
 Why use ChatGPT
 
   * Why use ChatGPT
@@ -36,17 +48,13 @@ Why use ChatGPT
 
 
 
-April 10, 2026
+  * Why use ChatGPT
+  * Key use cases for finance teams
+  * How teams get the most value
+  * Key features for finance teams
+  * Measuring impact
 
-OpenAI Academy
 
-# ChatGPT for finance teams
-
-Improve reporting, streamline planning, and communicate insights more clearly.
-
-Loading…
-
-Share
 
 Finance teams spend a lot of time turning incomplete inputs into something reliable—reconciling numbers, explaining variances, updating forecasts, and responding to business questions. The challenge is often the overhead such as organizing context, drafting narratives, and maintaining consistency across recurring work.
 
@@ -205,6 +213,8 @@ In practice, the strongest signals are often shorter reporting cycles, better cl
 
 * * *
 
+For related tools and guidance, explore [ChatGPT solutions for finance teams](</business/solutions/finance/>).
+
 ## Continue learning with OpenAI Academy
 
 Discover additional guides and resources to help you build practical AI skills.
@@ -217,15 +227,15 @@ Discover additional guides and resources to help you build practical AI skills.
 
 ![Academy > Operations > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/66loCrCRxCGAdv5ElN6vc9/d844920d80ae903617bd7336fa6d99cc/operations.png?w=3840&q=90&fm=webp)
 
-[ChatGPT for operations teamsOpenAI AcademyApr 10, 2026](</academy/operations/>)
+[ChatGPT for operations teams | OpenAIOpenAI AcademyApr 10, 2026](</academy/operations/>)
 
 ![Academy > Managers > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/54U640Rg1XlL5A9UxhX8DY/576d590f1443e4abe0e85b94e79b38c3/managers.png?w=3840&q=90&fm=webp)
 
-[ChatGPT for managersOpenAI AcademyApr 10, 2026](</academy/managers/>)
+[ChatGPT for managers | OpenAIOpenAI AcademyApr 10, 2026](</academy/managers/>)
 
 ![Academy > Financial services > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/4rAdwKviie1mydzTjs8y1P/6d4be3abda880c4b1fc4dd67f45debc4/financial.png?w=3840&q=90&fm=webp)
 
-[Financial servicesOpenAI AcademyApr 10, 2026](</academy/financial-services/>)
+[Financial services | OpenAI AcademyOpenAI AcademyApr 10, 2026](</academy/financial-services/>)
 
 Research
 
@@ -237,9 +247,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -276,6 +286,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -309,6 +321,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

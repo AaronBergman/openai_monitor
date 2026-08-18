@@ -30,7 +30,7 @@ July 14, 2026
 
 OpenAI Academy
 
-# How sales teams use ChatGPT Work
+# Sales workflows with ChatGPT Work
 
 Explore how sales teams can use ChatGPT Work to turn account context, customer conversations, and deal signals into pipeline briefs, meeting packs, forecast reviews, and account plans.
 
@@ -71,6 +71,8 @@ The ChatGPT Work **sales plugin** helps sales teams bring customer context into 
 ## Top ChatGPT Work use cases for sales teams
 
 Ready to try ChatGPT Work on real sales work? Check out our use cases [here.⁠(opens in a new window)](<https://learn.chatgpt.com/use-cases/collections/sales>)
+
+For related tools and guidance, explore [ChatGPT solutions for sales teams](</business/solutions/sales/>) and [the Salesforce integration](</business/plugins/salesforce/>).
 
 ## Continue learning with OpenAI Academy
 

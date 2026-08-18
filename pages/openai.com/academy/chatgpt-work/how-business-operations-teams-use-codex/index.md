@@ -30,7 +30,7 @@ May 15, 2026
 
 OpenAI Academy
 
-# How business operations teams use ChatGPT Work
+# Operations workflows with ChatGPT Work
 
 Explore how business operations teams can use ChatGPT Work to turn scattered initiative context, metrics, trackers, and stakeholder input into decision-ready briefs, updates, packets, and tradeoff models.
 
@@ -63,6 +63,8 @@ Watch **_How business operations teams use Codex_** on-demand [**here** ⁠(open
 ## Top ChatGPT Work use cases for business operations teams
 
 Ready to try ChatGPT Work on real business operations work? Check out our use cases [here.⁠(opens in a new window)](<https://learn.chatgpt.com/use-cases/collections/business-operations>)
+
+For related tools and guidance, explore [ChatGPT solutions for operations teams](</business/solutions/operations/>) and [the Airtable integration](</business/plugins/airtable/>).
 
 ## Continue learning with OpenAI Academy
 

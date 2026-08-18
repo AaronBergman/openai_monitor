@@ -73,6 +73,10 @@ OpenAI
 
 [View all](</news/>)
 
+![OpenAI joins PORTS-Pike project, expanding community investment and supporting thousands of Southern Ohio jobs — card image](https://images.ctfassets.net/kftzwdyauwt9/6RUPcXx0eTGghDpM851Qy1/ab11d2d0849ad9544249bf7b77ee46fe/openai-joins-ports-pike-project-cover-v001.png?w=3840&q=90&fm=webp)
+
+[OpenAI joins PORTS-Pike projectGlobal AffairsAug 17, 2026](</index/openai-joins-ports-pike-project/>)
+
 ![From assistance to execution: How enterprises put AI to work > Cover image](https://images.ctfassets.net/kftzwdyauwt9/2iQBiqMQEsAlEMnWTgmkaM/ea72c00d0563d60b861c17fffc548d31/Frame.png?w=3840&q=90&fm=webp)
 
 [How enterprises put AI to workCompanyAug 12, 2026](</index/how-enterprises-put-ai-to-work/>)
@@ -80,10 +84,6 @@ OpenAI
 ![OAI AdsTest Blog ArtCard 1x1](https://images.ctfassets.net/kftzwdyauwt9/7drPwCnD6ied4wPzlJd7qa/d79ccfda974080bbca7d688ad9bcbc6f/OAI_AdsTest_Blog_ArtCard_1x1.png?w=3840&q=90&fm=webp)
 
 [Testing ads in ChatGPTCompanyAug 11, 2026](</index/testing-ads-in-chatgpt/>)
-
-![What building an AI-native finance function taught me > Card image](https://images.ctfassets.net/kftzwdyauwt9/5XpkKoVszSTwJPjcwrvcNG/1e02d9b53b07d25b4cf517da6bd454eb/Frame__14_.png?w=3840&q=90&fm=webp)
-
-[What building an AI-native finance function taught meCompanyAug 10, 2026](</index/building-an-ai-native-finance-function/>)
 
 Research
 
