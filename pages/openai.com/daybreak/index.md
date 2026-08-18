@@ -60,6 +60,10 @@ Daybreak models bring frontier capabilities to broad defensive workflows. Daybre
 
 OpenAI researchers used Daybreak Red to identify two previously unknown vulnerabilities in V8 that could be chained to escape the heap sandbox. Google fixed the first; the second remains under coordinated disclosure.
 
+![Line chart from the AI Security Institute comparing AI models on a cybersecurity task benchmark. The y-axis shows average steps completed, from 0 to 32, and the x-axis shows cumulative tokens on a log scale, from 10K to 100M. GPT-5.6-Sol and Claude Mythos 5 reach the highest completion levels, approaching full network takeover, while Claude Opus 4.6, Opus 4.5, GLM-5.2, Sonnet 4.5, and DeepSeek-V4-Pro plateau at lower step counts.](https://images.ctfassets.net/kftzwdyauwt9/CuPZvxAfUjSj8GSfK4Wv6/a755f186bfeb7ebb91cc949e4016b63c/chart__1_.png?w=3840&q=90&fm=webp)
+
+_UK AISI testing shows GPT‑5.6 Sol leading the models evaluated on “The Last Ones” at the plotted token budget._
+
   * [Explore Daybreak solutions](</business/solutions/cybersecurity/>)
 
 
@@ -132,6 +136,10 @@ _OpenAI’s commitment includes API credits and direct support for work with Tra
 
 Follow new evaluations, technical learnings, patches, and ecosystem work as they publish.
 
+![The Defender’s Window > Cover](https://images.ctfassets.net/kftzwdyauwt9/2We7bguC4FuOofZ8Lu6LUZ/02049fcee47c460695acab59bdb8f648/the-defenders-window-clean-cover.png?w=3840&q=90&fm=webp)
+
+[The Defender’s WindowSecurityAug 17, 2026](</index/the-defenders-window/>)
+
 ![GPT-Daybreak > Cover](https://images.ctfassets.net/kftzwdyauwt9/2iqsbTTLvgMNteNampw3gW/a38ed04432ee5548c4aec6c7b7a506f2/1x1_Art_Card.png?w=3840&q=90&fm=webp)
 
 [Expanding Daybreak as the Cyber Defense Window NarrowsSecurityAug 10, 2026](</index/expanding-daybreak-as-the-cyber-defense-window-narrows/>)
@@ -139,10 +147,6 @@ Follow new evaluations, technical learnings, patches, and ecosystem work as they
 ![Cybersecurity in the Intelligence Age > Cover](https://images.ctfassets.net/kftzwdyauwt9/35g40K8HHuADEDF7IwCMCT/2237007c711eb46c1d3f3b2c7307fc01/Frame__11_.png?w=3840&q=90&fm=webp)
 
 [Cybersecurity in the Intelligence AgeGlobal AffairsApr 29, 2026](</index/cybersecurity-in-the-intelligence-age/>)
-
-![Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber > Art Card Image](https://images.ctfassets.net/kftzwdyauwt9/6BHwtZlzRX7xMewO3wnC7d/67c616a7b8371dab9939110da0b8e0e2/art-card-trusted-access.png?w=3840&q=90&fm=webp)
-
-[Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-CyberSecurityMay 7, 2026](</index/gpt-5-5-with-trusted-access-for-cyber/>)
 
 ## Put frontier AI to work for defense
 

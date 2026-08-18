@@ -32,14 +32,6 @@ OpenAI
 
 The same powerful coding agent—now in ChatGPT.
 
-## This post introduced the Codex app.
-
-For the current Codex product and team workflows, explore:
-
-[Codex](</codex/>)
-
-[ChatGPT Work](</chatgpt-work/>)
-
 Trusted by top teams
 
 ## The best way to build with agents

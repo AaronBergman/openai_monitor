@@ -26,15 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-An experimental GPT model for protein engineering
-
-  * An experimental GPT model for protein engineering
-  * AI-assisted reengineering of SOX2 and KLF4 to increase stem cell reprogramming efficiency
-  * Reengineered Variants Enhance DNA Damage Repair
-  * Where we go from here
-
-
-
 August 22, 2025
 
 [Publication](</research/index/publication/>)
@@ -48,6 +39,22 @@ OpenAI and Retro Biosciences achieve 50x increase in expressing stem cell reprog
 Loading…
 
 Share
+
+An experimental GPT model for protein engineering
+
+  * An experimental GPT model for protein engineering
+  * AI-assisted reengineering of SOX2 and KLF4 to increase stem cell reprogramming efficiency
+  * Reengineered Variants Enhance DNA Damage Repair
+  * Where we go from here
+
+
+
+  * An experimental GPT model for protein engineering
+  * AI-assisted reengineering of SOX2 and KLF4 to increase stem cell reprogramming efficiency
+  * Reengineered Variants Enhance DNA Damage Repair
+  * Where we go from here
+
+
 
 At OpenAI, we believe that AI can meaningfully accelerate life science innovation. To test this belief, we collaborated with the Applied AI team at [Retro Bio⁠(opens in a new window)](<https://www.retro.bio/>), a longevity biotech startup, to create and research the impact of GPT‑4b micro, a miniature version of GPT‑4o specialized for protein engineering.
 
@@ -165,17 +172,17 @@ Notes:__ GPT-4b micro was developed for research purposes and is not broadly ava
 
 [View all](</news/>)
 
-![System Card 1x1](https://images.ctfassets.net/kftzwdyauwt9/2VCkKLVmTyNs0XGbqdxGeA/33ff7738f4e795ae0ee41ed2b4a985d3/System_Card_1x1.jpg?w=3840&q=90&fm=webp)
+![math-breakthroughs art-card 1x1](https://images.ctfassets.net/kftzwdyauwt9/2zkd5RIOug4FcEj62mdSF4/3ea9e19c0456289c69f0d839cc929cb2/math-breakthroughs_art-card_1x1.png?w=3840&q=90&fm=webp)
 
-[GPT-5.5 Instant System CardSafetyMay 5, 2026](</index/gpt-5-5-instant-system-card/>)
+[Ten advances in mathematics and theoretical computer sciencePublicationAug 1, 2026](</index/ten-advances-in-mathematics/>)
 
-![oai goblins](https://images.ctfassets.net/kftzwdyauwt9/1UA2Ru5dt5rwdQfwl6B6m3/13c19cd49b106f8a39d5a2a132343b77/Goblins-1_1_Art_Card.jpg?w=3840&q=90&fm=webp)
+![ARC-AGI-3 art-card 1x1](https://images.ctfassets.net/kftzwdyauwt9/71xyJRWnTkM6EW1JKDUc59/91d2690ff9e7abaa975b4a5f64089056/ARC-AGI-3_art-card_1x1.png?w=3840&q=90&fm=webp)
 
-[Where the goblins came fromPublicationApr 29, 2026](</index/where-the-goblins-came-from/>)
+[How enabling two settings tripled our scores on the ARC-AGI-3 benchmarkResearchJul 29, 2026](</index/how-two-settings-tripled-our-arc-agi-3-scores/>)
 
-![System Card Card SEO 1x1](https://images.ctfassets.net/kftzwdyauwt9/7qMrOFCWWMweIDBUpYFr79/7741661650df6eb935acb5bda179b091/System_Card_Card_SEO_1x1.jpg?w=3840&q=90&fm=webp)
+![Scientific computing agentic AI card image \(1x1\)](https://images.ctfassets.net/kftzwdyauwt9/5opqp3rNWM7eax6GUc6MAl/1c710a4aba8c5c1e0b7d1c1c7c8b32db/1x1__1_.png?w=3840&q=90&fm=webp)
 
-[GPT-5.5 System CardSafetyApr 23, 2026](</index/gpt-5-5-system-card/>)
+[Scientific computing in the age of agentic AIPublicationJul 28, 2026](</index/scientific-computing-agentic-ai/>)
 
 Research
 
@@ -187,9 +194,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -226,6 +233,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -259,6 +268,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

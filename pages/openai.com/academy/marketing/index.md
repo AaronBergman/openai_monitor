@@ -26,6 +26,18 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
+April 10, 2026
+
+OpenAI Academy
+
+# Learn ChatGPT workflows for marketing teams
+
+Plan campaigns, create content, and analyze performance faster with ChatGPT.
+
+Loading…
+
+Share
+
 Why marketers use ChatGPT
 
   * Why marketers use ChatGPT
@@ -36,17 +48,13 @@ Why marketers use ChatGPT
 
 
 
-April 10, 2026
+  * Why marketers use ChatGPT
+  * Key use cases for marketing
+  * How teams use ChatGPT effectively
+  * Key features for marketing
+  * Measuring impact 
 
-OpenAI Academy
 
-# ChatGPT for marketing teams
-
-Plan campaigns, create content, and analyze performance faster with ChatGPT.
-
-Loading…
-
-Share
 
 Marketing teams often use ChatGPT to move smoothly from idea to brief to assets to launch—and then back again to review what worked. It helps bring scattered inputs into one place, turn them into clear messaging, and draft strong first passes of campaign content. Teams can also generate variations for testing and quickly summarize performance data into practical next steps. The result is less time spent starting from scratch or rewriting drafts, and more time focused on strategy, creativity, and execution.
 
@@ -203,6 +211,8 @@ Over time, the impact shows up in both efficiency and quality. Teams often see f
 
 * * *
 
+For related tools and guidance, explore [ChatGPT solutions for marketing teams](</business/solutions/marketing/>).
+
 ## Continue learning with OpenAI Academy
 
 Discover additional guides and resources to help you build practical AI skills.
@@ -215,15 +225,15 @@ Discover additional guides and resources to help you build practical AI skills.
 
 ![Academy > Sales > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/1R29scy3v5zFLkNH0KaSVt/b8cf3723aecd035b28ce13081f5410cf/sales.png?w=3840&q=90&fm=webp)
 
-[ChatGPT for sales teamsOpenAI AcademyApr 10, 2026](</academy/sales/>)
+[ChatGPT for sales teams | OpenAIOpenAI AcademyApr 10, 2026](</academy/sales/>)
 
 ![Academy > Customer success > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/YV0SfzN3qIM6qCrQ3XTO0/b58c9038114293db5db3cc8832348a5c/customer-success.png?w=3840&q=90&fm=webp)
 
-[ChatGPT for customer success teamsOpenAI AcademyApr 10, 2026](</academy/customer-success/>)
+[ChatGPT for customer success teams | OpenAIOpenAI AcademyApr 10, 2026](</academy/customer-success/>)
 
 ![Academy > Finance > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/5oD5aOV77eWiWp6ZLigAVN/d6ea39d836ba4832394f25e3e3fcc9e4/finance.png?w=3840&q=90&fm=webp)
 
-[ChatGPT for finance teamsOpenAI AcademyApr 10, 2026](</academy/finance/>)
+[ChatGPT for finance teams | OpenAIOpenAI AcademyApr 10, 2026](</academy/finance/>)
 
 Research
 
@@ -235,9 +245,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -274,6 +284,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -307,6 +319,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

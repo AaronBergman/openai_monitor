@@ -28,7 +28,7 @@ OpenAI
 
 # Creating video from text
 
-[Read technical report](</index/video-generation-models-as-world-simulators/>)[Start now](</sora/>)
+[Read technical report](</index/video-generation-models-as-world-simulators/>)
 
 All videos on this page were generated directly by Sora without modification.
 

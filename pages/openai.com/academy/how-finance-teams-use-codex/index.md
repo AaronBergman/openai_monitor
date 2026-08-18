@@ -30,7 +30,7 @@ May 12, 2026
 
 OpenAI Academy
 
-# How finance teams use ChatGPT Work
+# Finance workflows with ChatGPT Work
 
 See how finance teams can use ChatGPT Work to build review-ready assets for monthly business reviews, reporting, variance analysis, and planning.
 
@@ -67,6 +67,8 @@ Watch **_How finance teams use Codex_** on-demand [**here** ⁠(opens in a new w
 ## Top ChatGPT Work use cases for finance teams
 
 Ready to try ChatGPT Work on real finance work? Check out our use cases [here.⁠(opens in a new window)](<https://learn.chatgpt.com/use-cases/collections/finance>)
+
+For related tools and guidance, explore [ChatGPT solutions for finance teams](</business/solutions/finance/>).
 
 ## Continue learning with OpenAI Academy
 

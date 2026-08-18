@@ -30,7 +30,7 @@ April 23, 2026
 
 OpenAI Academy
 
-# How to use ChatGPT Work for everyday tasks
+# Everyday work with ChatGPT Work
 
 Explore how teams can use ChatGPT Work to turn everyday work inputs into review-ready briefs, summaries, decks, workbooks, plans, and process docs.
 
@@ -69,6 +69,8 @@ Learn more about using ChatGPT Work for everyday tasks in our [on-demand webinar
 Use these prompts to move from scattered inputs to concrete outputs. Give ChatGPT Work the source materials, constraints, review expectations, and destination format behind the task, then ask for a first pass someone can actually use. From there, your team can check the evidence, refine the judgment, resolve open questions, and decide what needs to happen next.
 
 Explore everyday use cases [here⁠(opens in a new window)](<https://learn.chatgpt.com/use-cases/collections/productivity-and-collaboration>).
+
+For related tools and guidance, explore [ChatGPT solutions for operations teams](</business/solutions/operations/>) and [workspace agents for business](</business/workspace-agents/>).
 
 ## Continue learning with OpenAI Academy
 

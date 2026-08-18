@@ -26,7 +26,9 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 OpenAI
 
-### [Upcoming webinar] Join us August 25, 2026 at 9:30 AM PT
+Webinar
+
+### Join us August 25, 2026 at 9:30 AM PT
 
 to see how OpenAI's Marketing team uses ChatGPT Work to launch bold campaigns faster.
 
@@ -44,7 +46,7 @@ Get started
 
 Add plugins to extend what ChatGPT Work can do. Plugins connect customer and campaign context from tools like HubSpot, Figma, and Adobe. Use OpenAI’s Data Analytics and Product Design plugins to run pre-built workflows for campaign analysis, creative development, and prototyping.
 
-  * [Data AnalyticsBuilt by OpenAI](</business/plugins/data-analytics/>)
+  * [DataBuilt by OpenAI](</business/plugins/data-analytics/>)
   * [Product DesignBuilt by OpenAI](</business/plugins/product-design/>)
   * [Canva](</business/plugins/canva/>)
   * [Adobe](</business/plugins/adobe/>)
@@ -63,7 +65,7 @@ Add plugins to extend what ChatGPT Work can do. Plugins connect customer and cam
 
 
 
-[View all plugins](</business/plugins/?tab=apps-go-to-market>)[Add Data Analytics plugin](</business/plugins/data-analytics/>)
+[View all plugins](</business/plugins/?tab=apps-go-to-market>)[Add Data plugin](</business/plugins/data-analytics/>)
 
 ## AI that gives marketers room for more impact
 
@@ -168,7 +170,7 @@ Explore customer stories, practical prompts, and resources for understanding cus
 
 ![Abstract resource card showing templates for OpenAI Academy learning paths.](https://images.ctfassets.net/kftzwdyauwt9/1CN97KLCSGfK8XVupr1j74/830f613cece1f5ee4c54406bf860e2d6/1x1_Templates.png?w=3840&q=90&fm=webp)
 
-[AcademyBuild AI skills with hands-on lessons and learning paths from OpenAI.](</academy/codex-for-work/>)
+[AcademyBuild AI skills with hands-on lessons and learning paths from OpenAI.](</academy/chatgpt-work/>)
 
 ![Business Learning Hub 1x1](https://images.ctfassets.net/kftzwdyauwt9/3WaN0u4u87BK3dXsD569qh/f40a4e250dc00d0bbf5ec418be81fc9c/Business_Learning_Hub_1x1.png?w=3840&q=90&fm=webp)
 

@@ -30,9 +30,27 @@ August 21, 2025
 
 # Blue J’s approach for scaling fast in complex, regulated domains
 
-Blue J scaled its AI-powered tax research system to three countries and more than 3,000 firms thanks to focus, domain depth, and the right OpenAI model. 
+Blue J scaled to three countries and more than 3,000 firms thanks to focus, domain depth, and the right OpenAI model.
 
-![Blue J logo in white centered on an abstract background featuring flowing textures in warm copper and cool blue tones.](https://images.ctfassets.net/kftzwdyauwt9/4C3KOdDeFt5pNCZ7JYFO21/bac51bc24ba84bb47da9971c6469f947/oai_BlueJ_hero_16x9.png?w=3840&q=90&fm=webp)
+[Start building(opens in a new window)](</startups>)
+
+![Blue J logo in white centered on an abstract background.](https://images.ctfassets.net/kftzwdyauwt9/24FZZKMFFOq8Jqj7RLhBsS/fcbfd315fc31cd61679ea2f8eb9ac542/oai_BlueJ_Hero_1x1.png?w=3840&q=90&fm=webp)
+
+Company size: Startup
+
+Region: North America
+
+Industry: Technology
+
+Products: ChatGPT, API
+
+2.7
+
+Hours saved per user weekly
+
+1/700
+
+Fewer than 1 in 700 answers disputed
 
 Loading…
 
@@ -43,30 +61,32 @@ Leveraging domain expertise to build the solution no one else can
   * Leveraging domain expertise to build the solution no one else can
   * Scale trust through user feedback
   * Design evaluations that raise the bar, not just test it
-  * Leverage your domain expertise as your advantage 
+  * Leverage your domain expertise as your advantage
 
 
 
   * Leveraging domain expertise to build the solution no one else can
   * Scale trust through user feedback
   * Design evaluations that raise the bar, not just test it
-  * Leverage your domain expertise as your advantage 
+  * Leverage your domain expertise as your advantage
 
 
 
 Traditional tax research starts by sifting through hundreds of sources before even beginning to interpret them. Tax professionals then spend hours parsing statutes, regulations, rulings, case law, and expert commentary to piece together how the rules interact and distill them into an answer.
 
-Depending on the complexity of the question, this process can take hours, days, or even weeks–and still yield inconsistent or outdated results, with every missed nuance carrying real costs.
+Depending on the complexity of the question, this process can take hours, days, or even weeks—and still yield inconsistent or outdated results, with every missed nuance carrying real costs.
 
-[_Blue J_ ⁠(opens in a new window)](<https://www.bluej.com/>) was founded in 2015 by tax law professors and practitioners who saw the need for better tools in tax research. Building on early explorations in leveraging AI for predicting the outcome of tax law cases, the team went on to develop a variety of products to support tax and accounting firms of all sizes.
+Blue J was founded in 2015 by tax law professors and practitioners who saw the need for better tools in tax research. Building on early explorations in leveraging AI for predicting the outcome of tax law cases, the team went on to develop a variety of products to support tax and accounting firms of all sizes.
 
 When ChatGPT launched, Blue J saw an opportunity to create something new: combining advanced reasoning over dense regulations with structured retrieval to deliver expert-grade tax answers in seconds, complete with inline citations and source lists professionals can trust.
 
-“We moved quickly because we already knew the problem and how to solve it,” said Brett Janssen, CTO of Blue J. “OpenAI gave us the model quality we needed to make that expertise scalable.”
-
 Within two years of launch, Blue J rolled out a tax research engine with GPT‑4.1 across the US, Canada, and the UK. They launched their first product just six months after ChatGPT’s debut, then iterated rapidly, learning from feedback and building a robust evaluation framework.
 
-Today, more than 70% of users log in weekly, with a disagree rate of fewer than 1 in 700 responses. They share their lessons learned for breaking into a complex domain and scaling fast by making trust, accuracy, and speed non-negotiable.
+Today, more than 70% of users log in weekly, with a disagree rate of fewer than 1 in 700 responses. Blue J shared the lessons learned for breaking into a complex domain and scaling fast by making trust, accuracy, and speed non-negotiable.
+
+> “We moved quickly because we already knew the problem and how to solve it. OpenAI gave us the model quality we needed to make that expertise scalable.”
+
+—Brett Janssen, CTO of Blue J
 
 ## Leveraging domain expertise to build the solution no one else can
 
@@ -80,7 +100,7 @@ When a user asks a tax question like, “What is the SALT torpedo created by OBB
 
 In tax, even small mistakes can trigger audits, delay filings, or cost clients real money. Blue J’s team knew from experience that even rare edge cases could erode trust if not caught and fixed quickly. So from day one, they designed the product to capture feedback and improve at scale, guided by the expertise of their tax research team.
 
-To make the system better with every use, Blue J introduced optional data sharing for customers who wanted to contribute to product improvement. Every Blue J answer includes a ‘disagree’ button, and when flagged, the response is systematically categorized by issue type, tax topic, and likely root cause. 
+To make the system better with every use, Blue J introduced optional data sharing for customers who wanted to contribute to product improvement. Every Blue J answer includes a ‘disagree’ button, and when flagged, the response is systematically categorized by issue type, tax topic, and likely root cause.
 
 The loop catches one-off errors and reveals patterns. If partnership tax queries underperform, the team investigates. If a prompt yields inconsistent completions, they tune it. GPT‑4.1 powers this triage layer, analyzing thousands of feedback points, clustering related issues, and helping Blue J’s product and tax research teams focus their efforts where they’ll have the biggest impact.
 
@@ -98,15 +118,15 @@ Model quality is not just a feature, it’s a gating function. Blue J evaluates 
 
 “Despite testing them all, we’ve never shipped a non-OpenAI model,” says Janssen. “OpenAI models have consistently outperformed against our internal benchmarks, especially when it comes to instruction-following and delivering answers that meet our bar for real-world use.”
 
-## Leverage your domain expertise as your advantage 
+## Leverage your domain expertise as your advantage
 
 Customers rely on Blue J as their default tax research tool year-round, not just during tax season. More than 70% of users log in weekly, saving 2.7 hours per user per week on research and client communication – time they reinvest into higher-margin planning and advisory work.
 
-Blue J earned that level of engagement by focusing on what they uniquely know best: the real-world needs of tax professionals. GPT‑4.1 amplifies their expertise with its structured outputs, consistent instruction-following, and reliable results. For founders, the takeaway is clear: leverage your specific expertise as your core advantage, and use the right models to scale. 
+Blue J earned that level of engagement by focusing on what they uniquely know best: the real-world needs of tax professionals. GPT‑4.1 amplifies their expertise with its structured outputs, consistent instruction-following, and reliable results. For founders, the takeaway is clear: leverage your specific expertise as your core advantage, and use the right models to scale.
 
-## Interested in learning more about ChatGPT for business?
+## OpenAI <3 startups
 
-[Talk with our team](</contact-sales/>)
+[Join the community](</leads/startup/>)[Start building(opens in a new window)](</startups>)
 
 ## Keep reading
 

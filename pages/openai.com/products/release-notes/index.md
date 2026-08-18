@@ -41,6 +41,18 @@ Filter
 
 Sort
 
+ChatGPT
+
+Aug 14, 2026
+
+GA
+
+## ChatGPT app experience updates
+
+We’ve made it easier to study with interactive quizzes, manage project memory, and move between typing, dictation, and desktop work.
+
+[View source(opens in a new window)](<https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-app-experience-updates>)[Download(opens in a new window)](<https://chatgpt.com/download/>)
+
 API
 
 Aug 13, 2026
@@ -98,18 +110,6 @@ GA
 Members in the Enterprise/Edu workspaces have updated model-picker and composer experience. The picker makes the available intelligence choices easier to compare while preserving workspace model availability and access controls.
 
 [View source(opens in a new window)](<https://help.openai.com/en/articles/10128477-chatgpt-enterprise-edu-release-notes#updated-model-picker-for-enterprise-and-edu>)
-
-ChatGPT
-
-Aug 13, 2026
-
-GA
-
-## Audit logs in the Global Admin Console
-
-Workspace owners and admins can now review supported audit events from the Global Admin Console. Access and event coverage depend on the selected workspace and admin role.
-
-[View source(opens in a new window)](<https://help.openai.com/en/articles/10128477-chatgpt-enterprise-edu-release-notes#audit-logs-in-the-global-admin-console>)[Help center(opens in a new window)](<https://help.openai.com/en/articles/12289294-global-admin-console>)
 
 Load more
 

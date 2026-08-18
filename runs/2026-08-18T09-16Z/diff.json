@@ -1,0 +1,1069 @@
+{
+  "run_id": "2026-08-18T09-16Z",
+  "fetch_time": "2026-08-18T09:17:07Z",
+  "baseline": "2026-08-17T09-20Z",
+  "added": [
+    "https://openai.com/index/new-policy-ideas-for-the-intelligence-age/",
+    "https://openai.com/index/openai-joins-ports-pike-project/",
+    "https://openai.com/index/the-defenders-window/"
+  ],
+  "removed": [
+    "https://openai.com/api/pricing/",
+    "https://openai.com/business/chatgpt-pricing/"
+  ],
+  "updated": [
+    {
+      "url": "https://openai.com/",
+      "old_lastmod": "2026-08-13T16:03:44.563Z",
+      "new_lastmod": "2026-08-18T08:56:40.257Z"
+    },
+    {
+      "url": "https://openai.com/academy/chatgpt-work/how-business-operations-teams-use-codex/",
+      "old_lastmod": "2026-08-12T21:47:25.402Z",
+      "new_lastmod": "2026-08-18T00:16:16.254Z"
+    },
+    {
+      "url": "https://openai.com/academy/chatgpt-work/how-data-science-teams-use-codex/",
+      "old_lastmod": "2026-08-12T21:48:09.375Z",
+      "new_lastmod": "2026-08-18T00:15:54.820Z"
+    },
+    {
+      "url": "https://openai.com/academy/chatgpt-work/how-sales-teams-use-codex/",
+      "old_lastmod": "2026-08-12T21:48:57.915Z",
+      "new_lastmod": "2026-08-18T00:15:58.538Z"
+    },
+    {
+      "url": "https://openai.com/academy/data-analysis/",
+      "old_lastmod": "2026-07-25T07:00:32.338Z",
+      "new_lastmod": "2026-08-18T00:15:47.623Z"
+    },
+    {
+      "url": "https://openai.com/academy/finance/",
+      "old_lastmod": "2026-05-22T19:09:52.333Z",
+      "new_lastmod": "2026-08-18T00:14:47.946Z"
+    },
+    {
+      "url": "https://openai.com/academy/how-finance-teams-use-codex/",
+      "old_lastmod": "2026-08-12T22:37:34.708Z",
+      "new_lastmod": "2026-08-18T00:14:32.117Z"
+    },
+    {
+      "url": "https://openai.com/academy/how-to-use-chatgpt-work-for-everyday-tasks/",
+      "old_lastmod": "2026-08-13T23:17:35.091Z",
+      "new_lastmod": "2026-08-18T00:16:29.767Z"
+    },
+    {
+      "url": "https://openai.com/academy/marketing/",
+      "old_lastmod": "2026-06-10T17:26:39.155Z",
+      "new_lastmod": "2026-08-18T00:14:18.783Z"
+    },
+    {
+      "url": "https://openai.com/academy/sales/",
+      "old_lastmod": "2026-07-28T02:29:22.313Z",
+      "new_lastmod": "2026-08-18T00:14:59.575Z"
+    },
+    {
+      "url": "https://openai.com/academy/working-with-files/",
+      "old_lastmod": "2026-07-09T17:40:56.844Z",
+      "new_lastmod": "2026-08-18T00:15:34.888Z"
+    },
+    {
+      "url": "https://openai.com/academy/workspace-agents/",
+      "old_lastmod": "2026-07-09T17:42:58.239Z",
+      "new_lastmod": "2026-08-18T00:15:12.563Z"
+    },
+    {
+      "url": "https://openai.com/api-reserved-tier/",
+      "old_lastmod": "2026-08-17T07:11:47.866Z",
+      "new_lastmod": "2026-08-17T21:15:11.928Z"
+    },
+    {
+      "url": "https://openai.com/api/",
+      "old_lastmod": "2026-08-14T00:35:17.310Z",
+      "new_lastmod": "2026-08-17T23:36:44.864Z"
+    },
+    {
+      "url": "https://openai.com/business/learn/download-the-chatgpt-work-guide-for-sales-teams/",
+      "old_lastmod": "2026-08-14T23:38:03.768Z",
+      "new_lastmod": "2026-08-18T08:28:12.226Z"
+    },
+    {
+      "url": "https://openai.com/business/learn/how-our-sales-team-uses-chatgpt-work/",
+      "old_lastmod": "2026-08-15T00:01:28.763Z",
+      "new_lastmod": "2026-08-18T07:49:05.494Z"
+    },
+    {
+      "url": "https://openai.com/business/partners/",
+      "old_lastmod": "2026-08-16T23:57:07.163Z",
+      "new_lastmod": "2026-08-17T20:05:52.949Z"
+    },
+    {
+      "url": "https://openai.com/business/partners/accenture/",
+      "old_lastmod": "2026-08-17T04:31:59.410Z",
+      "new_lastmod": "2026-08-17T19:32:49.186Z"
+    },
+    {
+      "url": "https://openai.com/business/partners/capgemini/",
+      "old_lastmod": "2026-08-17T04:31:58.471Z",
+      "new_lastmod": "2026-08-17T19:32:48.498Z"
+    },
+    {
+      "url": "https://openai.com/business/partners/cognizant/",
+      "old_lastmod": "2026-08-17T04:31:58.324Z",
+      "new_lastmod": "2026-08-17T19:32:48.717Z"
+    },
+    {
+      "url": "https://openai.com/business/partners/ernst-and-young/",
+      "old_lastmod": "2026-08-17T04:31:59.478Z",
+      "new_lastmod": "2026-08-17T19:32:48.481Z"
+    },
+    {
+      "url": "https://openai.com/business/partners/ibm/",
+      "old_lastmod": "2026-08-17T04:31:57.295Z",
+      "new_lastmod": "2026-08-17T19:32:47.784Z"
+    },
+    {
+      "url": "https://openai.com/business/partners/kpmg/",
+      "old_lastmod": "2026-08-17T04:31:58.342Z",
+      "new_lastmod": "2026-08-17T19:32:48.352Z"
+    },
+    {
+      "url": "https://openai.com/business/partners/pwc/",
+      "old_lastmod": "2026-08-17T04:31:58.195Z",
+      "new_lastmod": "2026-08-17T19:32:48.325Z"
+    },
+    {
+      "url": "https://openai.com/business/partners/teamlab/",
+      "old_lastmod": "2026-08-14T00:08:54.699Z",
+      "new_lastmod": "2026-08-17T20:05:52.003Z"
+    },
+    {
+      "url": "https://openai.com/business/plugins/bigquery/",
+      "old_lastmod": "2026-08-16T22:20:51.676Z",
+      "new_lastmod": "2026-08-18T00:11:21.732Z"
+    },
+    {
+      "url": "https://openai.com/business/plugins/databricks/",
+      "old_lastmod": "2026-08-17T06:29:23.417Z",
+      "new_lastmod": "2026-08-17T19:24:32.999Z"
+    },
+    {
+      "url": "https://openai.com/business/plugins/investment-banking/",
+      "old_lastmod": "2026-08-17T08:47:05.451Z",
+      "new_lastmod": "2026-08-18T05:31:47.465Z"
+    },
+    {
+      "url": "https://openai.com/business/plugins/notion/",
+      "old_lastmod": "2026-08-17T08:01:39.710Z",
+      "new_lastmod": "2026-08-18T02:25:43.578Z"
+    },
+    {
+      "url": "https://openai.com/business/plugins/product-design/",
+      "old_lastmod": "2026-08-17T07:58:02.303Z",
+      "new_lastmod": "2026-08-18T02:10:16.669Z"
+    },
+    {
+      "url": "https://openai.com/business/plugins/public-equity-investing/",
+      "old_lastmod": "2026-08-17T08:06:04.132Z",
+      "new_lastmod": "2026-08-18T02:31:31.118Z"
+    },
+    {
+      "url": "https://openai.com/business/plugins/replit/",
+      "old_lastmod": "2026-08-17T07:06:07.405Z",
+      "new_lastmod": "2026-08-18T02:21:06.285Z"
+    },
+    {
+      "url": "https://openai.com/business/plugins/sales/",
+      "old_lastmod": "2026-08-17T08:34:27.193Z",
+      "new_lastmod": "2026-08-18T07:21:59.301Z"
+    },
+    {
+      "url": "https://openai.com/business/plugins/salesforce/",
+      "old_lastmod": "2026-08-17T06:33:41.304Z",
+      "new_lastmod": "2026-08-18T01:58:38.244Z"
+    },
+    {
+      "url": "https://openai.com/business/plugins/snowflake/",
+      "old_lastmod": "2026-08-17T07:54:03.161Z",
+      "new_lastmod": "2026-08-18T02:04:17.609Z"
+    },
+    {
+      "url": "https://openai.com/business/plugins/vercel/",
+      "old_lastmod": "2026-08-16T21:55:46.880Z",
+      "new_lastmod": "2026-08-18T00:07:28.667Z"
+    },
+    {
+      "url": "https://openai.com/business/solutions/cybersecurity/",
+      "old_lastmod": "2026-08-17T09:17:03.414Z",
+      "new_lastmod": "2026-08-17T11:51:02.766Z"
+    },
+    {
+      "url": "https://openai.com/business/solutions/data/",
+      "old_lastmod": "2026-08-14T06:33:10.996Z",
+      "new_lastmod": "2026-08-17T23:41:35.644Z"
+    },
+    {
+      "url": "https://openai.com/business/solutions/finance/",
+      "old_lastmod": "2026-08-14T04:56:04.460Z",
+      "new_lastmod": "2026-08-17T17:35:38.890Z"
+    },
+    {
+      "url": "https://openai.com/business/solutions/finance/workflows/",
+      "old_lastmod": "2026-08-15T09:41:01.962Z",
+      "new_lastmod": "2026-08-17T18:15:24.382Z"
+    },
+    {
+      "url": "https://openai.com/business/solutions/marketing/",
+      "old_lastmod": "2026-08-11T21:32:58.932Z",
+      "new_lastmod": "2026-08-17T22:39:13.805Z"
+    },
+    {
+      "url": "https://openai.com/business/solutions/operations/",
+      "old_lastmod": "2026-08-13T23:22:37.886Z",
+      "new_lastmod": "2026-08-17T22:39:32.284Z"
+    },
+    {
+      "url": "https://openai.com/codex/",
+      "old_lastmod": "2026-08-14T21:56:59.321Z",
+      "new_lastmod": "2026-08-17T19:09:43.078Z"
+    },
+    {
+      "url": "https://openai.com/daybreak/",
+      "old_lastmod": "2026-08-14T06:20:27.126Z",
+      "new_lastmod": "2026-08-17T22:20:36.157Z"
+    },
+    {
+      "url": "https://openai.com/economic-research-exchange/",
+      "old_lastmod": "2026-08-14T01:48:22.635Z",
+      "new_lastmod": "2026-08-17T18:59:02.018Z"
+    },
+    {
+      "url": "https://openai.com/form/business/premium-offer/",
+      "old_lastmod": "2026-08-15T00:33:06.209Z",
+      "new_lastmod": "2026-08-18T04:41:03.197Z"
+    },
+    {
+      "url": "https://openai.com/form/daybreak-cyber-partner-program/",
+      "old_lastmod": "2026-08-14T18:55:12.765Z",
+      "new_lastmod": "2026-08-17T21:02:23.549Z"
+    },
+    {
+      "url": "https://openai.com/form/trademark-counterfeit-disputes/",
+      "old_lastmod": "2026-08-10T20:28:14.948Z",
+      "new_lastmod": "2026-08-17T16:14:36.599Z"
+    },
+    {
+      "url": "https://openai.com/form/ultrafast/",
+      "old_lastmod": "2026-08-15T14:42:40.485Z",
+      "new_lastmod": "2026-08-17T21:32:14.118Z"
+    },
+    {
+      "url": "https://openai.com/index/accelerating-life-sciences-research-with-retro-biosciences/",
+      "old_lastmod": "2026-05-22T19:02:59.779Z",
+      "new_lastmod": "2026-08-17T19:36:29.964Z"
+    },
+    {
+      "url": "https://openai.com/index/ai-clinical-copilot-penda-health/",
+      "old_lastmod": "2026-05-22T19:10:09.741Z",
+      "new_lastmod": "2026-08-17T22:02:12.468Z"
+    },
+    {
+      "url": "https://openai.com/index/blue-j/",
+      "old_lastmod": "2026-08-07T09:02:34.545Z",
+      "new_lastmod": "2026-08-17T17:13:11.271Z"
+    },
+    {
+      "url": "https://openai.com/index/builders-guide-to-gpt-5-6/",
+      "old_lastmod": "2026-08-16T18:52:02.007Z",
+      "new_lastmod": "2026-08-18T00:52:02.039Z"
+    },
+    {
+      "url": "https://openai.com/index/chatgpt-for-academic-researchers/",
+      "old_lastmod": "2026-08-14T06:40:22.512Z",
+      "new_lastmod": "2026-08-18T07:04:24.101Z"
+    },
+    {
+      "url": "https://openai.com/index/circles/",
+      "old_lastmod": "2026-08-11T21:41:02.914Z",
+      "new_lastmod": "2026-08-17T19:10:13.379Z"
+    },
+    {
+      "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live/",
+      "old_lastmod": "2026-08-13T19:11:02.643Z",
+      "new_lastmod": "2026-08-17T15:32:01.774Z"
+    },
+    {
+      "url": "https://openai.com/index/dali-rajic-chief-revenue-officer/",
+      "old_lastmod": "2026-08-16T21:09:09.801Z",
+      "new_lastmod": "2026-08-17T21:53:03.785Z"
+    },
+    {
+      "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows/",
+      "old_lastmod": "2026-08-14T17:30:02.593Z",
+      "new_lastmod": "2026-08-17T21:01:25.370Z"
+    },
+    {
+      "url": "https://openai.com/index/healthbench/",
+      "old_lastmod": "2026-07-25T07:03:02.984Z",
+      "new_lastmod": "2026-08-18T08:31:01.663Z"
+    },
+    {
+      "url": "https://openai.com/index/hello-gpt-4o/",
+      "old_lastmod": "2026-08-14T20:38:49.088Z",
+      "new_lastmod": "2026-08-17T23:02:06.572Z"
+    },
+    {
+      "url": "https://openai.com/index/how-enterprises-put-ai-to-work/",
+      "old_lastmod": "2026-08-16T17:59:06.106Z",
+      "new_lastmod": "2026-08-17T15:14:05.808Z"
+    },
+    {
+      "url": "https://openai.com/index/introducing-chatgpt-atlas/",
+      "old_lastmod": "2026-08-14T21:53:56.414Z",
+      "new_lastmod": "2026-08-17T23:26:26.191Z"
+    },
+    {
+      "url": "https://openai.com/index/introducing-chatgpt-small-business-program/",
+      "old_lastmod": "2026-08-14T20:47:26.214Z",
+      "new_lastmod": "2026-08-17T19:12:12.292Z"
+    },
+    {
+      "url": "https://openai.com/index/introducing-genebench-pro/",
+      "old_lastmod": "2026-08-14T03:39:05.000Z",
+      "new_lastmod": "2026-08-17T17:29:32.196Z"
+    },
+    {
+      "url": "https://openai.com/index/introducing-gpt-5-4/",
+      "old_lastmod": "2026-08-14T08:35:15.328Z",
+      "new_lastmod": "2026-08-17T23:40:43.303Z"
+    },
+    {
+      "url": "https://openai.com/index/introducing-gpt-5-5/",
+      "old_lastmod": "2026-08-14T21:33:49.769Z",
+      "new_lastmod": "2026-08-17T23:23:47.583Z"
+    },
+    {
+      "url": "https://openai.com/index/introducing-gpt-live/",
+      "old_lastmod": "2026-08-13T20:42:29.494Z",
+      "new_lastmod": "2026-08-17T18:41:20.945Z"
+    },
+    {
+      "url": "https://openai.com/index/introducing-gpt-oss-safeguard/",
+      "old_lastmod": "2026-06-14T07:22:19.093Z",
+      "new_lastmod": "2026-08-18T09:16:11.714Z"
+    },
+    {
+      "url": "https://openai.com/index/parloa/",
+      "old_lastmod": "2026-08-11T18:28:25.784Z",
+      "new_lastmod": "2026-08-17T18:43:29.360Z"
+    },
+    {
+      "url": "https://openai.com/index/personal-finance-chatgpt/",
+      "old_lastmod": "2026-08-14T22:10:44.437Z",
+      "new_lastmod": "2026-08-17T23:33:38.095Z"
+    },
+    {
+      "url": "https://openai.com/index/previewing-ultrafast/",
+      "old_lastmod": "2026-08-17T08:07:08.241Z",
+      "new_lastmod": "2026-08-17T23:35:46.693Z"
+    },
+    {
+      "url": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands/",
+      "old_lastmod": "2026-08-14T17:33:05.064Z",
+      "new_lastmod": "2026-08-17T11:32:01.808Z"
+    },
+    {
+      "url": "https://openai.com/index/ringcentral/",
+      "old_lastmod": "2026-08-14T16:12:04.445Z",
+      "new_lastmod": "2026-08-17T12:24:28.765Z"
+    },
+    {
+      "url": "https://openai.com/index/safetykit/",
+      "old_lastmod": "2026-08-07T09:03:28.132Z",
+      "new_lastmod": "2026-08-18T08:35:38.652Z"
+    },
+    {
+      "url": "https://openai.com/index/sora-2/",
+      "old_lastmod": "2026-08-14T22:06:35.811Z",
+      "new_lastmod": "2026-08-17T23:35:28.857Z"
+    },
+    {
+      "url": "https://openai.com/index/sora/",
+      "old_lastmod": "2026-08-16T03:06:06.950Z",
+      "new_lastmod": "2026-08-17T23:35:54.850Z"
+    },
+    {
+      "url": "https://openai.com/index/ten-advances-in-mathematics/",
+      "old_lastmod": "2026-08-09T21:15:26.473Z",
+      "new_lastmod": "2026-08-18T08:56:24.293Z"
+    },
+    {
+      "url": "https://openai.com/index/virgin-atlantic/chatgpt-work/",
+      "old_lastmod": "2026-08-15T11:51:50.638Z",
+      "new_lastmod": "2026-08-17T12:01:02.742Z"
+    },
+    {
+      "url": "https://openai.com/index/zapier/",
+      "old_lastmod": "2026-08-16T15:04:15.590Z",
+      "new_lastmod": "2026-08-17T20:30:01.284Z"
+    },
+    {
+      "url": "https://openai.com/products/release-notes/",
+      "old_lastmod": "2026-08-17T00:45:04.729Z",
+      "new_lastmod": "2026-08-18T08:13:06.454Z"
+    },
+    {
+      "url": "https://openai.com/science/",
+      "old_lastmod": "2026-08-14T02:35:28.155Z",
+      "new_lastmod": "2026-08-18T07:03:53.091Z"
+    },
+    {
+      "url": "https://openai.com/signals/data/",
+      "old_lastmod": "2026-08-15T11:01:01.199Z",
+      "new_lastmod": "2026-08-17T21:21:51.615Z"
+    },
+    {
+      "url": "https://openai.com/signals/enterprise-data/",
+      "old_lastmod": "2026-08-16T17:59:05.636Z",
+      "new_lastmod": "2026-08-17T15:14:03.468Z"
+    },
+    {
+      "url": "https://openai.com/solutions/industries/government/",
+      "old_lastmod": "2026-08-17T09:09:04.617Z",
+      "new_lastmod": "2026-08-18T01:55:09.152Z"
+    },
+    {
+      "url": "https://openai.com/trust-and-transparency/",
+      "old_lastmod": "2026-05-31T20:06:34.733Z",
+      "new_lastmod": "2026-08-18T09:09:55.375Z"
+    }
+  ],
+  "anomalies": [
+    {
+      "kind": "sub_sitemap_migration",
+      "url": "https://openai.com/index/introducing-gpt-5-3-codex-spark/",
+      "details": "moved from sitemap.xml_company.xml to sitemap.xml_release.xml"
+    },
+    {
+      "kind": "sub_sitemap_migration",
+      "url": "https://openai.com/index/providing-chatgpt-to-the-entire-us-federal-workforce/",
+      "details": "moved from sitemap.xml_company.xml to sitemap.xml_global-affairs.xml"
+    },
+    {
+      "kind": "sub_sitemap_migration",
+      "url": "https://openai.com/index/mixpanel-incident/",
+      "details": "moved from sitemap.xml_company.xml to sitemap.xml_security.xml"
+    },
+    {
+      "kind": "sub_sitemap_migration",
+      "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
+      "details": "moved from sitemap.xml_product.xml to sitemap.xml_release.xml"
+    },
+    {
+      "kind": "sub_sitemap_migration",
+      "url": "https://openai.com/global-affairs/the-power-of-personalized-ai/",
+      "details": "moved from sitemap.xml_company.xml to sitemap.xml_global-affairs.xml"
+    },
+    {
+      "kind": "sub_sitemap_migration",
+      "url": "https://openai.com/index/introducing-stargate-norway/",
+      "details": "moved from sitemap.xml_company.xml to sitemap.xml_global-affairs.xml"
+    },
+    {
+      "kind": "sub_sitemap_migration",
+      "url": "https://openai.com/index/edu-for-countries/",
+      "details": "moved from sitemap.xml_company.xml to sitemap.xml_global-affairs.xml"
+    },
+    {
+      "kind": "sub_sitemap_migration",
+      "url": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind/",
+      "details": "moved from sitemap.xml_product.xml to sitemap.xml_research.xml"
+    },
+    {
+      "kind": "sub_sitemap_migration",
+      "url": "https://openai.com/index/chatgpt-whatsapp-transition/",
+      "details": "moved from sitemap.xml_company.xml to sitemap.xml_product.xml"
+    },
+    {
+      "kind": "sub_sitemap_migration",
+      "url": "https://openai.com/global-affairs/openai-chief-economist-announcement/",
+      "details": "moved from sitemap.xml_company.xml to sitemap.xml_global-affairs.xml"
+    },
+    {
+      "kind": "sub_sitemap_migration",
+      "url": "https://openai.com/global-affairs/comment-on-ntia-ai-accountability-policy/",
+      "details": "moved from sitemap.xml_company.xml to sitemap.xml_global-affairs.xml"
+    },
+    {
+      "kind": "sub_sitemap_migration",
+      "url": "https://openai.com/index/openai-contract-data-agent/",
+      "details": "moved from sitemap.xml_api.xml to sitemap.xml_learn-openai-on-openai.xml"
+    },
+    {
+      "kind": "sub_sitemap_migration",
+      "url": "https://openai.com/index/safety-bug-bounty/",
+      "details": "moved from sitemap.xml_safety.xml to sitemap.xml_security.xml"
+    },
+    {
+      "kind": "sub_sitemap_migration",
+      "url": "https://openai.com/index/people-first-ai-fund-grantees/",
+      "details": "moved from sitemap.xml_company.xml to sitemap.xml_global-affairs.xml"
+    },
+    {
+      "kind": "sub_sitemap_migration",
+      "url": "https://openai.com/business/put-ai-to-work-automate-and-scale-financial-operations/",
+      "details": "moved from sitemap.xml_company.xml to sitemap.xml_webinar.xml"
+    },
+    {
+      "kind": "sub_sitemap_migration",
+      "url": "https://openai.com/global-affairs/sam-altman-senate-questions-for-the-record/",
+      "details": "moved from sitemap.xml_company.xml to sitemap.xml_global-affairs.xml"
+    },
+    {
+      "kind": "sub_sitemap_migration",
+      "url": "https://openai.com/index/introducing-gpt-5-2/",
+      "details": "moved from sitemap.xml_product.xml to sitemap.xml_release.xml"
+    },
+    {
+      "kind": "sub_sitemap_migration",
+      "url": "https://openai.com/global-affairs/disrupting-malicious-uses-of-ai/",
+      "details": "moved from sitemap.xml_global-affairs.xml to sitemap.xml_security.xml"
+    },
+    {
+      "kind": "sub_sitemap_migration",
+      "url": "https://openai.com/index/chatgpt-shopping-research/",
+      "details": "moved from sitemap.xml_company.xml to sitemap.xml_product.xml"
+    },
+    {
+      "kind": "sub_sitemap_migration",
+      "url": "https://openai.com/index/introducing-gpt-realtime/",
+      "details": "moved from sitemap.xml_product.xml to sitemap.xml_release.xml"
+    },
+    {
+      "kind": "sub_sitemap_migration",
+      "url": "https://openai.com/index/developers-can-now-submit-apps-to-chatgpt/",
+      "details": "moved from sitemap.xml_company.xml to sitemap.xml_product.xml"
+    },
+    {
+      "kind": "sub_sitemap_migration",
+      "url": "https://openai.com/index/introducing-codex/",
+      "details": "moved from sitemap.xml_product.xml to sitemap.xml_release.xml"
+    },
+    {
+      "kind": "sub_sitemap_migration",
+      "url": "https://openai.com/index/introducing-chatgpt-agent/",
+      "details": "moved from sitemap.xml_product.xml to sitemap.xml_release.xml"
+    },
+    {
+      "kind": "sub_sitemap_migration",
+      "url": "https://openai.com/news/",
+      "details": "moved from sitemap.xml_engineering.xml to sitemap.xml_security.xml"
+    },
+    {
+      "kind": "sub_sitemap_migration",
+      "url": "https://openai.com/index/openai-for-healthcare/",
+      "details": "moved from sitemap.xml_company.xml to sitemap.xml_product.xml"
+    },
+    {
+      "kind": "sub_sitemap_migration",
+      "url": "https://openai.com/index/openai-research-assistant/",
+      "details": "moved from sitemap.xml_api.xml to sitemap.xml_learn-openai-on-openai.xml"
+    },
+    {
+      "kind": "sub_sitemap_migration",
+      "url": "https://openai.com/index/understanding-ai-and-learning-outcomes/",
+      "details": "moved from sitemap.xml_global-affairs.xml to sitemap.xml_global-affairs-news-listed.xml"
+    },
+    {
+      "kind": "sub_sitemap_migration",
+      "url": "https://openai.com/index/introducing-upgrades-to-codex/",
+      "details": "moved from sitemap.xml_product.xml to sitemap.xml_release.xml"
+    },
+    {
+      "kind": "sub_sitemap_migration",
+      "url": "https://openai.com/index/openai-gtm-assistant/",
+      "details": "moved from sitemap.xml_api.xml to sitemap.xml_learn-openai-on-openai.xml"
+    },
+    {
+      "kind": "sub_sitemap_migration",
+      "url": "https://openai.com/index/five-new-stargate-sites/",
+      "details": "moved from sitemap.xml_company.xml to sitemap.xml_global-affairs.xml"
+    },
+    {
+      "kind": "sub_sitemap_migration",
+      "url": "https://openai.com/business/put-ai-to-work-for-marketing-teams/",
+      "details": "moved from sitemap.xml_company.xml to sitemap.xml_webinar.xml"
+    },
+    {
+      "kind": "sub_sitemap_migration",
+      "url": "https://openai.com/index/nonprofit-commission-report/",
+      "details": "moved from sitemap.xml_company.xml to sitemap.xml_global-affairs.xml"
+    },
+    {
+      "kind": "sub_sitemap_migration",
+      "url": "https://openai.com/index/openai-support-model/",
+      "details": "moved from sitemap.xml_api.xml to sitemap.xml_learn-openai-on-openai.xml"
+    },
+    {
+      "kind": "sub_sitemap_migration",
+      "url": "https://openai.com/index/equipping-workers-with-insights-about-compensation/",
+      "details": "moved from sitemap.xml_global-affairs.xml to sitemap.xml_global-affairs-news-listed.xml"
+    },
+    {
+      "kind": "sub_sitemap_migration",
+      "url": "https://openai.com/index/building-codex-windows-sandbox/",
+      "details": "moved from sitemap.xml_engineering.xml to sitemap.xml_security.xml"
+    },
+    {
+      "kind": "sub_sitemap_migration",
+      "url": "https://openai.com/index/codex-now-generally-available/",
+      "details": "moved from sitemap.xml_product.xml to sitemap.xml_release.xml"
+    },
+    {
+      "kind": "sub_sitemap_migration",
+      "url": "https://openai.com/global-affairs/response-to-nist-executive-order-on-ai/",
+      "details": "moved from sitemap.xml_company.xml to sitemap.xml_global-affairs.xml"
+    },
+    {
+      "kind": "sub_sitemap_migration",
+      "url": "https://openai.com/index/our-approach-to-advertising-and-expanding-access/",
+      "details": "moved from sitemap.xml_company.xml to sitemap.xml_product.xml"
+    },
+    {
+      "kind": "sub_sitemap_migration",
+      "url": "https://openai.com/index/ai-agent-link-safety/",
+      "details": "moved from sitemap.xml_safety.xml to sitemap.xml_security.xml"
+    },
+    {
+      "kind": "sub_sitemap_migration",
+      "url": "https://openai.com/index/small-business-ai-jam/",
+      "details": "moved from sitemap.xml_company.xml to sitemap.xml_global-affairs.xml"
+    },
+    {
+      "kind": "sub_sitemap_migration",
+      "url": "https://openai.com/index/nonprofit-commission-advisors/",
+      "details": "moved from sitemap.xml_company.xml to sitemap.xml_global-affairs.xml"
+    },
+    {
+      "kind": "sub_sitemap_migration",
+      "url": "https://openai.com/index/first-proof-submissions/",
+      "details": "moved from sitemap.xml_conclusion.xml to sitemap.xml_research.xml"
+    },
+    {
+      "kind": "sub_sitemap_migration",
+      "url": "https://openai.com/index/introducing-gpt-4-5/",
+      "details": "moved from sitemap.xml_product.xml to sitemap.xml_release.xml"
+    },
+    {
+      "kind": "sub_sitemap_migration",
+      "url": "https://openai.com/index/introducing-b2b-signals/",
+      "details": "moved from sitemap.xml_company.xml to sitemap.xml_global-affairs.xml"
+    },
+    {
+      "kind": "sub_sitemap_migration",
+      "url": "https://openai.com/index/how-countries-can-end-the-capability-overhang/",
+      "details": "moved from sitemap.xml_global-affairs.xml to sitemap.xml_global-affairs-news-listed.xml"
+    },
+    {
+      "kind": "sub_sitemap_migration",
+      "url": "https://openai.com/global-affairs/openai-academy/",
+      "details": "moved from sitemap.xml_company.xml to sitemap.xml_global-affairs.xml"
+    },
+    {
+      "kind": "sub_sitemap_migration",
+      "url": "https://openai.com/index/gpt-5-2-for-science-and-math/",
+      "details": "moved from sitemap.xml_company.xml to sitemap.xml_publication.xml"
+    },
+    {
+      "kind": "sub_sitemap_migration",
+      "url": "https://openai.com/index/trusted-access-for-cyber/",
+      "details": "moved from sitemap.xml_safety.xml to sitemap.xml_security.xml"
+    },
+    {
+      "kind": "sub_sitemap_migration",
+      "url": "https://openai.com/global-affairs/openai-s-comment-to-the-ntia-on-open-model-weights/",
+      "details": "moved from sitemap.xml_company.xml to sitemap.xml_global-affairs.xml"
+    },
+    {
+      "kind": "sub_sitemap_migration",
+      "url": "https://openai.com/index/disrupting-a-covert-iranian-influence-operation/",
+      "details": "moved from sitemap.xml_safety.xml to sitemap.xml_security.xml"
+    },
+    {
+      "kind": "sub_sitemap_migration",
+      "url": "https://openai.com/index/advanced-account-security/",
+      "details": "moved from sitemap.xml_product.xml to sitemap.xml_security.xml"
+    },
+    {
+      "kind": "sub_sitemap_migration",
+      "url": "https://openai.com/index/introducing-gpt-oss-safeguard/",
+      "details": "moved from sitemap.xml_product.xml to sitemap.xml_release.xml"
+    },
+    {
+      "kind": "sub_sitemap_migration",
+      "url": "https://openai.com/index/accelerating-cyber-defense-ecosystem/",
+      "details": "moved from sitemap.xml_safety.xml to sitemap.xml_security.xml"
+    },
+    {
+      "kind": "sub_sitemap_migration",
+      "url": "https://openai.com/index/introducing-stargate-uk/",
+      "details": "moved from sitemap.xml_company.xml to sitemap.xml_global-affairs.xml"
+    },
+    {
+      "kind": "sub_sitemap_migration",
+      "url": "https://openai.com/index/higgsfield/",
+      "details": "moved from sitemap.xml_api.xml to sitemap.xml_startup.xml"
+    },
+    {
+      "kind": "sub_sitemap_migration",
+      "url": "https://openai.com/index/introducing-chatgpt-health/",
+      "details": "moved from sitemap.xml_company.xml to sitemap.xml_product.xml"
+    },
+    {
+      "kind": "sub_sitemap_migration",
+      "url": "https://openai.com/global-affairs/openai-chief-compliance-officer-announcement/",
+      "details": "moved from sitemap.xml_company.xml to sitemap.xml_global-affairs.xml"
+    },
+    {
+      "kind": "sub_sitemap_migration",
+      "url": "https://openai.com/business/solving-complex-problems-with-openai-o1-models/",
+      "details": "moved from sitemap.xml_company.xml to sitemap.xml_webinar.xml"
+    },
+    {
+      "kind": "sub_sitemap_migration",
+      "url": "https://openai.com/index/introducing-chatgpt-images-2-0/",
+      "details": "moved from sitemap.xml_company.xml to sitemap.xml_release.xml"
+    },
+    {
+      "kind": "sub_sitemap_migration",
+      "url": "https://openai.com/index/gpt-5-1/",
+      "details": "moved from sitemap.xml_product.xml to sitemap.xml_release.xml"
+    },
+    {
+      "kind": "sub_sitemap_migration",
+      "url": "https://openai.com/index/building-openai-with-openai/",
+      "details": "moved from sitemap.xml_api.xml to sitemap.xml_learn-openai-on-openai.xml"
+    },
+    {
+      "kind": "sub_sitemap_migration",
+      "url": "https://openai.com/index/japan-economic-blueprint/",
+      "details": "moved from sitemap.xml_company.xml to sitemap.xml_global-affairs.xml"
+    },
+    {
+      "kind": "sub_sitemap_migration",
+      "url": "https://openai.com/global-affairs/our-approach-to-frontier-risk/",
+      "details": "moved from sitemap.xml_company.xml to sitemap.xml_global-affairs.xml"
+    },
+    {
+      "kind": "sub_sitemap_migration",
+      "url": "https://openai.com/index/introducing-gpt-5-5/",
+      "details": "moved from sitemap.xml_product.xml to sitemap.xml_release.xml"
+    },
+    {
+      "kind": "sub_sitemap_migration",
+      "url": "https://openai.com/index/gpt-5-5-instant/",
+      "details": "moved from sitemap.xml_product.xml to sitemap.xml_release.xml"
+    },
+    {
+      "kind": "sub_sitemap_migration",
+      "url": "https://openai.com/global-affairs/testimony-of-sam-altman-before-the-us-senate/",
+      "details": "moved from sitemap.xml_company.xml to sitemap.xml_global-affairs.xml"
+    },
+    {
+      "kind": "sub_sitemap_migration",
+      "url": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano/",
+      "details": "moved from sitemap.xml_company.xml to sitemap.xml_product.xml"
+    },
+    {
+      "kind": "sub_sitemap_migration",
+      "url": "https://openai.com/index/samsung-and-sk-join-stargate/",
+      "details": "moved from sitemap.xml_company.xml to sitemap.xml_global-affairs.xml"
+    },
+    {
+      "kind": "sub_sitemap_migration",
+      "url": "https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense/",
+      "details": "moved from sitemap.xml_product.xml to sitemap.xml_research.xml"
+    },
+    {
+      "kind": "sub_sitemap_migration",
+      "url": "https://openai.com/business/put-ai-to-work-lessons-from-hundreds-of-successful-deployments/",
+      "details": "moved from sitemap.xml_company.xml to sitemap.xml_webinar.xml"
+    },
+    {
+      "kind": "sub_sitemap_migration",
+      "url": "https://openai.com/index/introducing-4o-image-generation/",
+      "details": "moved from sitemap.xml_product.xml to sitemap.xml_release.xml"
+    },
+    {
+      "kind": "sub_sitemap_migration",
+      "url": "https://openai.com/index/introducing-gpt-5-3-codex/",
+      "details": "moved from sitemap.xml_company.xml to sitemap.xml_release.xml"
+    },
+    {
+      "kind": "sub_sitemap_migration",
+      "url": "https://openai.com/index/new-ways-to-buy-chatgpt-ads/",
+      "details": "moved from sitemap.xml_chatgpt.xml to sitemap.xml_product.xml"
+    },
+    {
+      "kind": "sub_sitemap_migration",
+      "url": "https://openai.com/stories/",
+      "details": "moved from sitemap.xml_api.xml to sitemap.xml_chatgpt.xml"
+    },
+    {
+      "kind": "sub_sitemap_migration",
+      "url": "https://openai.com/index/introducing-openai-frontier/",
+      "details": "moved from sitemap.xml_company.xml to sitemap.xml_product.xml"
+    },
+    {
+      "kind": "sub_sitemap_migration",
+      "url": "https://openai.com/index/introducing-gpt-5-4/",
+      "details": "moved from sitemap.xml_product.xml to sitemap.xml_release.xml"
+    },
+    {
+      "kind": "sub_sitemap_migration",
+      "url": "https://openai.com/index/wayfair-fiona-tan/",
+      "details": "moved from sitemap.xml_api.xml to sitemap.xml_chatgpt.xml"
+    },
+    {
+      "kind": "sub_sitemap_migration",
+      "url": "https://openai.com/index/sora-vallee-duhamel/",
+      "details": "moved from sitemap.xml_brand-stories-sora.xml to sitemap.xml_sora.xml"
+    },
+    {
+      "kind": "sub_sitemap_migration",
+      "url": "https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api/",
+      "details": "moved from sitemap.xml_product.xml to sitemap.xml_release.xml"
+    },
+    {
+      "kind": "sub_sitemap_migration",
+      "url": "https://openai.com/index/supporting-nonprofit-and-community-innovation/",
+      "details": "moved from sitemap.xml_company.xml to sitemap.xml_global-affairs.xml"
+    },
+    {
+      "kind": "sub_sitemap_migration",
+      "url": "https://openai.com/global-affairs/openais-australia-economic-blueprint/",
+      "details": "moved from sitemap.xml_company.xml to sitemap.xml_global-affairs.xml"
+    },
+    {
+      "kind": "sub_sitemap_migration",
+      "url": "https://openai.com/index/introducing-o3-and-o4-mini/",
+      "details": "moved from sitemap.xml_product.xml to sitemap.xml_release.xml"
+    },
+    {
+      "kind": "sub_sitemap_migration",
+      "url": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands/",
+      "details": "moved from sitemap.xml_company.xml to sitemap.xml_security.xml"
+    },
+    {
+      "kind": "sub_sitemap_migration",
+      "url": "https://openai.com/index/introducing-openai-presence/",
+      "details": "moved from sitemap.xml_company.xml to sitemap.xml_product.xml"
+    },
+    {
+      "kind": "sub_sitemap_migration",
+      "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows/",
+      "details": "moved from sitemap.xml_safety.xml to sitemap.xml_security.xml"
+    },
+    {
+      "kind": "sub_sitemap_migration",
+      "url": "https://openai.com/index/chatgpt-for-academic-researchers/",
+      "details": "moved from sitemap.xml_company.xml to sitemap.xml_research.xml"
+    },
+    {
+      "kind": "sub_sitemap_migration",
+      "url": "https://openai.com/index/gpt-5-1-codex-max/",
+      "details": "moved from sitemap.xml_product.xml to sitemap.xml_release.xml"
+    },
+    {
+      "kind": "sub_sitemap_migration",
+      "url": "https://openai.com/index/gpt-5-3-instant/",
+      "details": "moved from sitemap.xml_product.xml to sitemap.xml_release.xml"
+    },
+    {
+      "kind": "sub_sitemap_migration",
+      "url": "https://openai.com/index/sora-minne-atairu/",
+      "details": "moved from sitemap.xml_brand-stories-sora.xml to sitemap.xml_sora.xml"
+    },
+    {
+      "kind": "sub_sitemap_migration",
+      "url": "https://openai.com/index/introducing-gpt-oss/",
+      "details": "moved from sitemap.xml_product.xml to sitemap.xml_release.xml"
+    },
+    {
+      "kind": "sub_sitemap_migration",
+      "url": "https://openai.com/index/our-response-to-the-tanstack-npm-supply-chain-attack/",
+      "details": "moved from sitemap.xml_company.xml to sitemap.xml_security.xml"
+    },
+    {
+      "kind": "sub_sitemap_migration",
+      "url": "https://openai.com/index/introducing-our-next-generation-audio-models/",
+      "details": "moved from sitemap.xml_product.xml to sitemap.xml_release.xml"
+    },
+    {
+      "kind": "sub_sitemap_migration",
+      "url": "https://openai.com/index/testing-ads-in-chatgpt/",
+      "details": "moved from sitemap.xml_company.xml to sitemap.xml_product.xml"
+    },
+    {
+      "kind": "sub_sitemap_migration",
+      "url": "https://openai.com/index/put-ai-to-work-for-your-product-team/",
+      "details": "moved from sitemap.xml_company.xml to sitemap.xml_webinar.xml"
+    },
+    {
+      "kind": "sub_sitemap_migration",
+      "url": "https://openai.com/index/disney-sora-agreement/",
+      "details": "moved from sitemap.xml_product.xml to sitemap.xml_sora.xml"
+    },
+    {
+      "kind": "sub_sitemap_migration",
+      "url": "https://openai.com/global-affairs/new-economic-analysis/",
+      "details": "moved from sitemap.xml_global-affairs.xml to sitemap.xml_global-affairs-news-listed.xml"
+    },
+    {
+      "kind": "sub_sitemap_migration",
+      "url": "https://openai.com/global-affairs/1000-scientist-ai-jam-session/",
+      "details": "moved from sitemap.xml_company.xml to sitemap.xml_global-affairs.xml"
+    },
+    {
+      "kind": "sub_sitemap_migration",
+      "url": "https://openai.com/index/running-codex-safely/",
+      "details": "moved from sitemap.xml_safety.xml to sitemap.xml_security.xml"
+    },
+    {
+      "kind": "sub_sitemap_migration",
+      "url": "https://openai.com/index/expanding-stargate-to-michigan/",
+      "details": "moved from sitemap.xml_company.xml to sitemap.xml_global-affairs.xml"
+    },
+    {
+      "kind": "sub_sitemap_migration",
+      "url": "https://openai.com/index/codex-security-now-in-research-preview/",
+      "details": "moved from sitemap.xml_product.xml to sitemap.xml_security.xml"
+    },
+    {
+      "kind": "sub_sitemap_migration",
+      "url": "https://openai.com/index/introducing-openai-privacy-filter/",
+      "details": "moved from sitemap.xml_research.xml to sitemap.xml_security.xml"
+    },
+    {
+      "kind": "sub_sitemap_migration",
+      "url": "https://openai.com/index/people-first-ai-fund/",
+      "details": "moved from sitemap.xml_company.xml to sitemap.xml_global-affairs.xml"
+    },
+    {
+      "kind": "sub_sitemap_migration",
+      "url": "https://openai.com/index/introducing-gpt-live/",
+      "details": "moved from sitemap.xml_product.xml to sitemap.xml_release.xml"
+    },
+    {
+      "kind": "sub_sitemap_migration",
+      "url": "https://openai.com/index/introducing-gpt-5-2-codex/",
+      "details": "moved from sitemap.xml_company.xml to sitemap.xml_release.xml"
+    },
+    {
+      "kind": "sub_sitemap_migration",
+      "url": "https://openai.com/research/index/",
+      "details": "moved from sitemap.xml_conclusion.xml to sitemap.xml_release.xml"
+    },
+    {
+      "kind": "sub_sitemap_migration",
+      "url": "https://openai.com/index/introducing-aardvark/",
+      "details": "moved from sitemap.xml_product.xml to sitemap.xml_security.xml"
+    },
+    {
+      "kind": "sub_sitemap_migration",
+      "url": "https://openai.com/index/50-million-fund-to-build-with-communities/",
+      "details": "moved from sitemap.xml_company.xml to sitemap.xml_global-affairs.xml"
+    },
+    {
+      "kind": "sub_sitemap_migration",
+      "url": "https://openai.com/index/why-codex-security-doesnt-include-sast/",
+      "details": "moved from sitemap.xml_product.xml to sitemap.xml_security.xml"
+    },
+    {
+      "kind": "sub_sitemap_migration",
+      "url": "https://openai.com/index/introducing-stargate-uae/",
+      "details": "moved from sitemap.xml_company.xml to sitemap.xml_global-affairs.xml"
+    },
+    {
+      "kind": "sub_sitemap_migration",
+      "url": "https://openai.com/index/new-chatgpt-images-is-here/",
+      "details": "moved from sitemap.xml_product.xml to sitemap.xml_release.xml"
+    },
+    {
+      "kind": "sub_sitemap_migration",
+      "url": "https://openai.com/index/gpt-4-1/",
+      "details": "moved from sitemap.xml_product.xml to sitemap.xml_research.xml"
+    },
+    {
+      "kind": "sub_sitemap_migration",
+      "url": "https://openai.com/index/sora-2/",
+      "details": "moved from sitemap.xml_product.xml to sitemap.xml_research.xml"
+    },
+    {
+      "kind": "sub_sitemap_migration",
+      "url": "https://openai.com/index/scaling-trusted-access-for-cyber-defense/",
+      "details": "moved from sitemap.xml_safety.xml to sitemap.xml_security.xml"
+    },
+    {
+      "kind": "sub_sitemap_migration",
+      "url": "https://openai.com/index/south-korea-economic-blueprint/",
+      "details": "moved from sitemap.xml_company.xml to sitemap.xml_global-affairs.xml"
+    },
+    {
+      "kind": "sub_sitemap_migration",
+      "url": "https://openai.com/global-affairs/openais-eu-economic-blueprint/",
+      "details": "moved from sitemap.xml_company.xml to sitemap.xml_global-affairs.xml"
+    },
+    {
+      "kind": "sub_sitemap_migration",
+      "url": "https://openai.com/index/daybreak-securing-the-world/",
+      "details": "moved from sitemap.xml_company.xml to sitemap.xml_security.xml"
+    },
+    {
+      "kind": "sub_sitemap_migration",
+      "url": "https://openai.com/index/confidence-building-measures-for-artificial-intelligence/",
+      "details": "moved from sitemap.xml_conclusion.xml to sitemap.xml_safety.xml"
+    },
+    {
+      "kind": "sub_sitemap_migration",
+      "url": "https://openai.com/index/expanding-economic-opportunity-with-ai/",
+      "details": "moved from sitemap.xml_company.xml to sitemap.xml_global-affairs.xml"
+    },
+    {
+      "kind": "sub_sitemap_migration",
+      "url": "https://openai.com/index/gpt-5-6/",
+      "details": "moved from sitemap.xml_product.xml to sitemap.xml_release.xml"
+    },
+    {
+      "kind": "sub_sitemap_migration",
+      "url": "https://openai.com/global-affairs/a-primer-on-the-eu-ai-act/",
+      "details": "moved from sitemap.xml_company.xml to sitemap.xml_global-affairs.xml"
+    },
+    {
+      "kind": "sub_sitemap_migration",
+      "url": "https://openai.com/news/research/",
+      "details": "moved from sitemap.xml_conclusion.xml to sitemap.xml_release.xml"
+    },
+    {
+      "kind": "sub_sitemap_migration",
+      "url": "https://openai.com/global-affairs/openais-economic-blueprint/",
+      "details": "moved from sitemap.xml_company.xml to sitemap.xml_global-affairs.xml"
+    },
+    {
+      "kind": "sub_sitemap_migration",
+      "url": "https://openai.com/index/chatgpt-memory-dreaming/",
+      "details": "moved from sitemap.xml_product.xml to sitemap.xml_research.xml"
+    },
+    {
+      "kind": "sub_sitemap_migration",
+      "url": "https://openai.com/index/introducing-gpt-5/",
+      "details": "moved from sitemap.xml_product.xml to sitemap.xml_release.xml"
+    },
+    {
+      "kind": "sub_sitemap_migration",
+      "url": "https://openai.com/index/openai-inbound-sales-assistant/",
+      "details": "moved from sitemap.xml_api.xml to sitemap.xml_learn-openai-on-openai.xml"
+    }
+  ],
+  "fetch_failures": []
+}

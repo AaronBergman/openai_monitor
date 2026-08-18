@@ -26,9 +26,11 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 OpenAI
 
-### [Upcoming webinar] Join us September 10, 2026 at 9:30 AM PT
+Webinar
 
-to see how OpenAI's Data Analytics team uses ChatGPT Work to connect data and business context, explain what changed, and recommend what to do next.
+### Join us September 10 at 9:30 AM PT
+
+to see how OpenAI’s Data team uses ChatGPT Work to turn data and business context into clear next steps.
 
 [Register now(opens in a new window)](<https://webinar.openai.com/chatgpt-work-series/data-analytics/?utm_medium=website&utm_campaign=WBR-chatgpt-work-series-data-analytics-banner>)
 

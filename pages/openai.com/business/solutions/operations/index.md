@@ -26,79 +26,82 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 OpenAI
 
-### [Upcoming webinar] Join us August 18, 2026 at 9:30 AM PT
+Webinar
+
+### Join us August 18, 2026 at 9:30 AM PT
 
 to see how OpenAI's Business Operations team uses ChatGPT Work to surface risks and prepare leadership-ready weekly reviews.
 
 [Register now(opens in a new window)](<https://webinar.openai.com/chatgpt-work-series/business-operations/?utm_medium=website&utm_campaign=WBR-chatgpt-work-series-business-operations-banner>)
 
-# AI for your operations team’s most ambitious work
+# AI for your operations team's most ambitious work
 
-ChatGPT Work pulls project updates from across your systems, surfaces risks and next steps, and keeps weekly reviews current—so operations teams spend less time chasing information and more time moving priorities forward.
+ChatGPT Work pulls project updates from across your systems, surfaces risks and next steps, and keeps weekly reviews current, so operations teams spend less time chasing information and more time moving priorities forward.
 
-[Contact sales](</contact-sales/>)[Try ChatGPT Business](<https://chatgpt.com/team-sign-up?openaicom-did=1635d69d-6c5c-45c2-9757-ca7ef972bc31&openaicom_referred=true>)
+[Contact sales](</contact-sales/>)[Get started(opens in a new window)](<https://chatgpt.com/team-sign-up>)
 
-Search our existing projects and create a leadership-ready operating review deck
+## Work across your operations tools and customer context
 
-![Operations chart visual showing AI-assisted business workflows.](https://images.ctfassets.net/kftzwdyauwt9/1CLk7qX0ioxyvSZbmYoWGp/ddb5a0f7f50239c00371d0a82380d2b3/operations-chart-1.png?w=3840&q=90&fm=webp)
+Add plugins to extend what ChatGPT Work can do. Plugins connect ChatGPT Work to tools like SharePoint, Slack, and Google Drive so you can bring project context together. Use OpenAI’s Data Analytics plugin to analyze operational data and turn updates into clear next steps.
 
-![Operations chart visual showing AI-assisted business insights.](https://images.ctfassets.net/kftzwdyauwt9/47ZQwRQyaGYqSQIKOxL3sU/5a16003267661e988a85e09cfbd33016/operations-chart-2.png?w=3840&q=90&fm=webp)
+  * [DataBuilt by OpenAI](</business/plugins/data-analytics/>)
+  * [SharePoint](</business/plugins/microsoft-sharepoint/>)
+  * [Slack](</business/plugins/slack/>)
+  * [Google Drive](</business/plugins/google-drive/>)
+  * [Asana](</business/plugins/asana/>)
+  * [Teams](</business/plugins/microsoft-teams/>)
+  * [Outlook Email](</business/plugins/microsoft-outlook-email/>)
+  * [Atlassian Rovo](</business/plugins/atlassian-rovo/>)
+  * [Salesforce](</business/plugins/salesforce/>)
+  * [monday.com](</business/plugins/monday-com/>)
+  * [Box](</business/plugins/box/>)
+  * [Gmail](</business/plugins/gmail/>)
+  * [Databricks Genie](</business/plugins/databricks/>)
+  * [Snowflake](</business/plugins/snowflake/>)
+  * [BigQuery](</business/plugins/bigquery/>)
+  * [Airtable](</business/plugins/airtable/>)
 
-## Keep operations moving with greater speed, clarity, and control
 
-![Nodes and logic icon.](https://images.ctfassets.net/kftzwdyauwt9/59aOBG8vZT6WulPH4G7j81/44973255380c7485fffcbff10032222c/nodes-logic.svg?w=3840&q=90)
 
-#### Move priorities forward faster
+[View all plugins](</business/plugins/>)[Add Data plugin](</business/plugins/data-analytics/>)
 
-Turn plans, meeting notes, and metrics into clear decisions, owners, and next steps.
+## Act on what's slowing operations work down
 
-![Document with magnifying glass icon.](https://images.ctfassets.net/kftzwdyauwt9/4pQe7qH3vjHUIlcbYOpGGH/88499d825149e002d3203d8299401d4e/document-magnifyingglass.svg?w=3840&q=90)
+#### Connect your operating picture
 
-#### Catch risk earlier
+Use plugins to bring project trackers, documents, dashboards, and team conversations together so everyone works from the same information.
 
-Spot KPI shifts, blockers, and stalled work before they put targets or timelines at risk.
+![Prompt card summarizing project status across Asana, Slack, and SharePoint over a project board.](https://images.ctfassets.net/kftzwdyauwt9/1LUOqGPCEVu8TP7SiqU36z/edb7bdf065c693c1d988da3ec52bf412/operations-1.png?w=3840&q=90&fm=webp)
 
-![Arrow up-right icon.](https://images.ctfassets.net/kftzwdyauwt9/1iGbwS9upNQO2KyXEx4F7U/a46cdcfffbd58f2b38536dee538a57bd/arrow-up-right-lg.svg?w=3840&q=90)
+#### Put agents to work
 
-#### Increase team capacity
+Delegate project plans, operating reviews, stakeholder updates, and follow-ups to agents that carry work forward while your team stays in control.
 
-Automate recurring briefs, updates, and decision packets so teams can support more work with less manual coordination.
+![Prompt card preparing a weekly operating review and owner follow-ups over a project update list.](https://images.ctfassets.net/kftzwdyauwt9/35SLhZBHrXoI274sBHOOqg/d8d36d62db98098f8664351c2dae6816/operations-2.png?w=3840&q=90&fm=webp)
 
-## How operations teams bring updates together and move priorities forward with ChatGPT Work
+#### See what needs attention
 
-Automate operational reviews
+Surface bottlenecks, shifting metrics, and stalled projects, and build dashboards with Sites that show leaders where to act.
 
-### Bring project updates together across systems, create leadership-ready decks, and keep weekly reviews and status reports current.
+![Prompt card building a Sites dashboard for KPI shifts, blockers, and owners.](https://images.ctfassets.net/kftzwdyauwt9/MNAHlheShmh80K2dSPiH5/11d7a981a969fec5c91f9d60c66a2ed7/operations-3.png?w=3840&q=90&fm=webp)
 
-@Computer Analyze the linked project management tracker for our weekly project information. Extract the operational and financial updates, and call out any potential risks for leadership. Use that information to build the deck for the operating review. Use the attached corporate template.
+#### Scale the playbooks that work
 
-## Work across your tools and context
+Transform recurring workflows and proven operating practices into shared Skills so every team can reuse what works and move faster.
 
-[View plugins](</business/apps/>)
+![Prompt card turning an operating review into a Skill that flags risks and recommends next steps over a workflow diagram.](https://images.ctfassets.net/kftzwdyauwt9/7gdu0Uy1AUK5Kj1dpvIcaQ/cd36b5741a6f0ef927f1f19c98f824cf/operations-4.png?w=3840&q=90&fm=webp)
 
-[](</business/apps/google-drive/>)
+## Try ChatGPT Work prompts for operations teams
 
-[](</business/apps/google-calendar/>)
+Operating reviews and reportingStrategic initiative trackingKPI and root-cause analysisLeadership decision briefs
 
-[](</business/apps/gmail/>)
+![Screenshot of ChatGPT Work creating a weekly operating review in Sites, with KPI cards and initiative health progress on the generated page.](https://images.ctfassets.net/kftzwdyauwt9/5QJjRlcRVsOCpFdsVDXPCF/42c9acf51946617fd7ffaa8eaa8c2067/Operations_1.png?w=3840&q=90&fm=webp)
 
-[](</business/apps/microsoft-sharepoint/>)
+### Turn project updates, KPIs, and owner input into leadership-ready operating reviews that keep priorities clear.
 
-[](</business/apps/microsoft-teams/>)
+Create this week’s operating review from our project trackers, KPI dashboards, and team updates. Highlight performance changes, risks, decisions needed, and next steps by owner.
 
-[](</business/apps/slack/>)
-
-[](</business/apps/google-drive/>)
-
-[](</business/apps/google-calendar/>)
-
-[](</business/apps/gmail/>)
-
-[](</business/apps/microsoft-sharepoint/>)
-
-[](</business/apps/microsoft-teams/>)
-
-[](</business/apps/slack/>)
+[Try in ChatGPT(opens in a new window)](<https://chatgpt.com/?surface=work&q=Create+this+week%E2%80%99s+operating+review+from+our+project+trackers%2C+KPI+dashboards%2C+and+team+updates.+Highlight+performance+changes%2C+risks%2C+decisions+needed%2C+and+next+steps+by+owner.>)
 
 ## Why operations teams choose OpenAI
 
@@ -133,37 +136,27 @@ Graham Ganssle, Supplier Support Operations, Wayfair
 
 
 
-![An image of artfully rendered waveform with "Ep 03" written atop. ](https://images.ctfassets.net/kftzwdyauwt9/6iZlnDQd7XJnOzVKqimqhm/50a382dc31a9cf028428a2d565caeb63/EF_Uber_Web_Card_1.1.png?w=3840&q=90&fm=webp)
-
-## [Uber enables outstanding on-demand experiences with AIFeb 20, 2025Read story](</index/uber-enables-outstanding-experiences/>)
-
-![booking.com > cover image](https://images.ctfassets.net/kftzwdyauwt9/1y5wiE3noEqlINRKqv4NdU/277f5b75ebfa67b8a44fa8fc18b113f6/oai_Booking_1x1.png?w=3840&q=90&fm=webp)
-
-## [Booking.com and OpenAI personalize travel at scaleMar 20, 2025Read story](</index/booking-com/>)
-
-![Lowes logo superimposed on an abstract painting with prominent blue brushstrokes.](https://images.ctfassets.net/kftzwdyauwt9/4X3HwsNsncluAzNEqlXFg3/558227ebd1d4edc388dc325ecbcd75f0/oai_Lowe_s_hero_4.5.png?w=3840&q=90&fm=webp)
-
-## [Lowe’s puts project expertise into every handMay 7, 2025Read story](</index/lowes/>)
-
 ## Operations resources
+
+Explore customer stories, practical prompts, and resources to help your operations team plan, coordinate, and improve work with ChatGPT Work.
 
 ![Abstract blue art card for ChatGPT Work webinar resources.](https://images.ctfassets.net/kftzwdyauwt9/6Ha7QQ4NC6ajzW0cJwlzzp/7a6339ffc1cd5cf02d2b58e8cac019ec/Webinar_art_card.png?w=3840&q=90&fm=webp)
 
-## [Watch webinarSee how our Business Operations team uses ChatGPT Work to surface risks early and turn weekly reviews into clear decisions.(opens in a new window)](<https://webinar.openai.com/chatgpt-work-series/business-operations/?utm_medium=website&utm_campaign=WBR-chatgpt-work-series-business-operations-resources>)
+## [Watch webinarLearn practical ways operations teams can use ChatGPT Work to plan, coordinate, and improve work.(opens in a new window)](<https://webinar.openai.com/chatgpt-work-series/business-operations/?utm_medium=website&utm_campaign=WBR-chatgpt-work-series-business-operations-resources>)
 
 ![How business operations teams use Codex > card image](https://images.ctfassets.net/kftzwdyauwt9/JR9MMoyTo7eFFF8Nv13Qc/43414ee0c762db49e36bda8ae0d35e39/bus_ops_teams.png?w=3840&q=90&fm=webp)
 
-[AcademyBuild AI skills with hands-on lessons and learning paths from OpenAI.May 15, 2026Learn more ↗](</academy/chatgpt-work/how-business-operations-teams-use-codex/>)
+[AcademyBuild AI skills with hands-on lessons and learning paths from OpenAI.](</academy/chatgpt-work/how-business-operations-teams-use-codex/>)
 
 ![Business Learning Hub 1x1](https://images.ctfassets.net/kftzwdyauwt9/3WaN0u4u87BK3dXsD569qh/f40a4e250dc00d0bbf5ec418be81fc9c/Business_Learning_Hub_1x1.png?w=3840&q=90&fm=webp)
 
-[Guides and resourcesExplore business guides for adopting AI securely and at scale.Learn more ↗](</business/learn/>)
+[Guides and resourcesExplore business guides for adopting AI securely and at scale.](</business/learn/>)
 
-## See what OpenAI can do for operations teams
+## Expand your operations team’s capacity with OpenAI
 
-Whether you’re scaling an in-house operations team or delivering services for customers, we can help you identify where to start.
+Get your most ambitious work done by spending more time bringing ideas to market with ChatGPT Work.
 
-[Contact sales](</contact-sales/>)[Try ChatGPT Business(opens in a new window)](<https://chatgpt.com/team-sign-up>)
+[Contact sales](</contact-sales/>)[Get started(opens in a new window)](<https://chatgpt.com/team-sign-up>)
 
 Research
 
