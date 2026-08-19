@@ -39,20 +39,14 @@ Share
 Data residency in Asia for API, ChatGPT Enterprise, and ChatGPT Edu
 
   * Data residency in Asia for API, ChatGPT Enterprise, and ChatGPT Edu
-
   * OpenAI’s enterprise-grade data privacy, security, and compliance
-
   * Learn more
-
 
 
 
   * Data residency in Asia for API, ChatGPT Enterprise, and ChatGPT Edu
-
   * OpenAI’s enterprise-grade data privacy, security, and compliance
-
   * Learn more
-
 
 
 

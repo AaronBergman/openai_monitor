@@ -1,6 +1,55 @@
 # openai_monitor
 
 
+## 2026-08-19 — Run `2026-08-19T09-16Z`
+
+**Fetch time:** 2026-08-19T09:16:53Z UTC | **Baseline:** 2026-08-18T09-16Z (consecutive day)
+
+**TL;DR:** A quiet-looking day on the surface (7 new pages, 214 lastmod bumps, 0 removed) that hides one genuinely important disclosure: OpenAI published a post revealing it temporarily paused reinforcement-learning training on models headed for deployment after preliminary evidence that an upcoming model, codenamed **Astra**, may cross the **"Critical" cybersecurity capability** threshold under its Preparedness Framework — tying together the OpenAI–Hugging Face security incident from last month with a broader tightening of research-environment security, chain-of-thought monitoring, and alignment work. Separately, ChatGPT for Teachers quietly extended its free-access commitment for U.S. K-12 educators by a full year, from June 2027 to June 2028. Six other new posts landed (Asana and NVIDIA customer stories, ChatGPT Ads' expansion to 31 European markets, a teen-focused ChatGPT experience, a CodeAI education partnership, and a democratic-oversight initiative for national-security AI use). Nearly everything else — over 200 of the day's "updated" pages — was one of three sitewide template effects (a GPT-5.6 nav swap, "keep reading" carousel refreshes, and table-of-contents reordering) with no real content change underneath.
+
+### Anomalies
+
+None. No future-dated or backwards-moving `<lastmod>` values, no backdated new URLs, no disappeared-then-reappeared URLs. Four URLs continued yesterday's `global-affairs` → `global-affairs-news-listed` category migration (routine taxonomy cleanup).
+
+### Notable updates
+
+- **OpenAI discloses a training pause tied to a "Critical"-tier cyber-capability model.** [`/index/pacing-model-development-cyber-capabilities/`](pages/openai.com/index/pacing-model-development-cyber-capabilities/index.md) (new page) — OpenAI says the OpenAI–Hugging Face incident plus preliminary evidence that an upcoming model, **Astra**, may meet the **"Critical" cybersecurity capability** threshold prompted a **two-week pause in RL training** on deployment-track models; its largest planned frontier RL run remains on hold. New measures: stricter workload/network isolation ("sandboxes"), a new multistage chain-of-thought monitoring system (~20% inference-compute overhead, 30-minute human-paging SLA on critical-boundary violations), and expanded alignment training against reward-hacking and unauthorized access. OpenAI determined Astra "may have critical cyber capabilities" as of **August 7, 2026**, and promises a technical report "in the coming weeks." Continues the Hugging Face / Daybreak cyber-model storyline this log has tracked since mid-July.
+- **[`/index/chatgpt-for-teachers/`](pages/openai.com/index/chatgpt-for-teachers/index.md):** free-access commitment for verified U.S. K-12 educators extended a full year, from **June 2027 to June 2028**; added a "Looking for current education solutions?" CTA.
+- **[`/business/partners/`](pages/openai.com/business/partners/index.md):** "Become a partner" / "Find a partner" sections restyled from plain text blocks into combined heading-link cards with reworded copy — cosmetic, no offering change.
+- **Continuing pattern — nav-template flip:** [`business/partners/cognita-reply/`](pages/openai.com/business/partners/cognita-reply/index.md) and [`business/partners/infosys/`](pages/openai.com/business/partners/infosys/index.md) flipped from the old-style global nav to the new-style nav — same unstable condition first flagged 2026-08-08, recurring again.
+
+### Routine, low-signal updates
+
+Three sitewide template effects explain the overwhelming majority of today's 214 lastmod-updated URLs, verified by diffing every changed page's markdown against yesterday's snapshot:
+1. **Global nav/footer refresh (~90 pages):** "GPT-5.3 Instant" → "GPT-5.6" in the nav; **Customer Stories**, **Partner Network**, **Supply Co.** added to the footer — touched dozens of old research posts (Dota 2, CLIP, Rubik's Cube, DALL-E, GPT-4o/o1 system cards) and 2018-2021 company-history posts with otherwise zero content change.
+2. **"Keep reading" carousel refresh:** many pages' related-articles carousel now surfaces yesterday's new posts in place of older ones — expected daily churn, not a change to the hosting page.
+3. **Table-of-contents re-ordering:** a duplicated TOC block shifted position on many long-form pages, text unchanged — template quirk.
+4. **Partner-badge deploy-ID churn (41 pages):** only a cache-busting query string changed on partner-tier badge images — zero visible change.
+
+Legal documents (`policies/may-2025-business-terms/`, `nov-2023-business-terms/`, `services-agreement/`, `ad-tools-subprocessors/`) were checked line-by-line and had no substantive text changes, only the nav/TOC noise above. 56 of the 214 lastmod-bumped URLs (including `/index/healthbench/`, `/index/introducing-gpt-oss-safeguard/`, `/trust-and-transparency/`) had **zero** content difference at all — pure server-side re-render.
+
+### New pages
+
+- **[Pacing model development in an era of cyber-critical capabilities](pages/openai.com/index/pacing-model-development-cyber-capabilities/index.md)** (Company/Publication) — see above; today's top story.
+- **[Asana cleared 5 years of engineering work in 2 weeks with Codex](pages/openai.com/index/asana/index.md)** (Company) — customer story on replacing an outdated testing system with Codex for ~$12K.
+- **[ChatGPT Ads expands across Europe](pages/openai.com/index/chatgpt-ads-expands-across-europe/index.md)** (Product/Company) — six months after U.S. ad testing began, expansion to 31 European markets.
+- **[Introducing ChatGPT for Teens: Built for learning, backed by protections](pages/openai.com/index/chatgpt-for-teens/index.md)** (Product/Safety) — teen-focused ChatGPT experience with added safety protections.
+- **[How NVIDIA scales expertise with ChatGPT Work](pages/openai.com/index/nvidia/chatgpt-work/index.md)** (Company) — customer story on reducing manual tasks and scaling workflows.
+- **[Partnering with CodeAI to prepare the first AI generation](pages/openai.com/index/partnering-with-codeai/index.md)** (Company) — education partnership on critical AI evaluation for students.
+- **[Strengthening democratic oversight in national security](pages/openai.com/index/strengthening-democratic-oversight-in-national-security/index.md)** (Global Affairs) — new initiative to help oversight bodies understand and oversee government AI use.
+
+All seven are dated Aug 17-19 and cross-reference each other in "Keep reading" carousels — a single coordinated release batch.
+
+### Removals
+
+None this run.
+
+**Stats:** 1,592 total URLs | +7 added | 214 updated | -0 removed | 0 anomalies | 35 sub-sitemaps
+
+Full analysis: [runs/2026-08-19T09-16Z/analysis.md](runs/2026-08-19T09-16Z/analysis.md)
+
+---
+
 ## 2026-08-18 — Run `2026-08-18T09-16Z`
 
 **Fetch time:** 2026-08-18T09:17:07Z UTC | **Baseline:** 2026-08-17T09-20Z (consecutive day)

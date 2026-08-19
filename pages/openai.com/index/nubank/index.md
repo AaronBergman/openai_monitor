@@ -37,22 +37,14 @@ Share
 Accelerating productivity with custom enterprise search
 
   * Accelerating productivity with custom enterprise search
-
   * Elevating customer service with GPT-4o
-
   * Using vision to address and prevent fraud
 
 
-
-
-Table of contents
 
   * Accelerating productivity with custom enterprise search
-
   * Elevating customer service with GPT-4o
-
   * Using vision to address and prevent fraud
-
 
 
 
@@ -138,9 +130,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -177,6 +169,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -210,6 +204,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

@@ -32,7 +32,7 @@ OpenAI Academy
 
 # Learn ChatGPT workflows for sales teams
 
-Learn practical ChatGPT workflows for account research, meeting prep, outreach, pipeline reviews, and sales execution.
+Learn how sales teams use ChatGPT to research accounts, prepare meetings, draft follow-ups, manage deals, and organize sales work.
 
 Loading…
 

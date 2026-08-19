@@ -26,6 +26,16 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
+August 8, 2024
+
+[Publication](</research/index/publication/>)
+
+# GPT‑4o System Card
+
+[View PDF version](<https://cdn.openai.com/gpt-4o-system-card.pdf>)
+
+Loading…
+
 Introduction
 
   * Introduction
@@ -42,15 +52,19 @@ Introduction
 
 
 
-August 8, 2024
+  * Introduction
+  * Model data & training
+  * Risk identification, assessment and mitigation
+  * External Red Teaming
+  * Evaluation methodology
+  * Observed safety challenges, evaluations & mitigations
+  * Preparedness framework evaluations
+  * Third party assessments
+  * Societal impacts
+  * Conclusion and next steps
+  * Appendix
 
-[Publication](</research/index/publication/>)
 
-# GPT‑4o System Card
-
-[View PDF version](<https://cdn.openai.com/gpt-4o-system-card.pdf>)
-
-Loading…
 
 ## GPT-4o Scorecard
 
@@ -1041,9 +1055,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -1080,6 +1094,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -1113,6 +1129,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

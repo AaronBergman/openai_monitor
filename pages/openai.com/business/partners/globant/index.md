@@ -54,7 +54,7 @@ Sign up to get first dibs on press news and updates.
 
 For more information, visit www.globant.com.
 
-![Select Partner](/images/partner-tier-badges/OAI_PartnerNetwork_SelectPartner.svg?dpl=dpl_FVk4QodRZ5kG9YVJMACPwdTCDJ7A)
+![Select Partner](/images/partner-tier-badges/OAI_PartnerNetwork_SelectPartner.svg?dpl=dpl_BFRp6Lb32rZA9Qj7UuvSPYcKthAX)
 
 Countries served
     Global

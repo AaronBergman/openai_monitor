@@ -46,6 +46,42 @@ Switch cards to show Media
 
 Switch cards to hide Media
 
+Company
+
+Aug 18, 2026
+
+[Pacing model development in an era of cyber-critical capabilitiesOpenAI is strengthening monitoring, alignment, and security for frontier AI models. See how new safeguards are guiding the pace of model development.](</index/pacing-model-development-cyber-capabilities/>)
+
+Publication
+
+Aug 1, 2026
+
+[Ten advances in mathematics and theoretical computer scienceOpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexity.](</index/ten-advances-in-mathematics/>)
+
+Research
+
+Jul 29, 2026
+
+[How enabling two settings tripled our scores on the ARC-AGI-3 benchmarkHow two API settings improved GPT-5.6 performance on ARC-AGI-3, boosting scores and efficiency by retaining reasoning and enabling compaction.](</index/how-two-settings-tripled-our-arc-agi-3-scores/>)
+
+Publication
+
+Jul 28, 2026
+
+[Scientific computing in the age of agentic AIA new field report shows how scientists use AI coding agents to modernize scientific computing, accelerating software development and discovery in genomics and beyond.](</index/scientific-computing-agentic-ai/>)
+
+Safety
+
+Jul 15, 2026
+
+[GPT-Red: Unlocking Self-Improvement for RobustnessExplore GPT-Red, OpenAI’s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness.](</index/unlocking-self-improvement-gpt-red/>)
+
+Safety
+
+Jul 9, 2026
+
+[GPT‑5.6 System CardGPT-5.6 is a new family of three models: Sol, our new flagship model; Terra, a capable lower-cost option; and Luna, our fastest and most cost-efficient model. The safeguards we have built for this launch—our most robust yet—are built to deliver these models safely and at scale, around the world.(opens in a new window)](<https://deploymentsafety.openai.com/gpt-5-6>)
+
 Research
 
 Jul 8, 2026
@@ -64,42 +100,6 @@ Jun 30, 2026
 
 [Introducing GeneBench-ProIntroducing GeneBench-Pro, a new benchmark testing AI performance in genomics, biology, and scientific research using complex, real-world datasets.](</index/introducing-genebench-pro/>)
 
-Safety
-
-Jun 26, 2026
-
-[GPT‑5.6 Preview System CardGPT-5.6 is a new family of three models: Sol, our new flagship model; Terra, a capable lower-cost option; and Luna, our fastest and most cost-efficient model. The safeguards we have built for this launch – our most robust yet – are built to deliver these models safely and at scale, around the world.(opens in a new window)](<https://deploymentsafety.openai.com/gpt-5-6-preview>)
-
-Research
-
-Jun 17, 2026
-
-[A near-autonomous AI chemist improves a challenging reaction in medicinal chemistryOpenAI and Molecule.one show how a near-autonomous AI chemist using GPT-5.4 improved a key drug-making reaction, advancing medicinal chemistry research.](</index/ai-chemist-improves-reaction/>)
-
-Research
-
-Jun 17, 2026
-
-[Introducing LifeSciBenchIntroducing LifeSciBench, an expert-authored, expert-reviewed benchmark for evaluating how AI systems handle real-world life science research tasks and decisions.](</index/introducing-life-sci-bench/>)
-
-Safety
-
-May 5, 2026
-
-[GPT-5.5 Instant System Card](</index/gpt-5-5-instant-system-card/>)
-
-Publication
-
-Apr 29, 2026
-
-[Where the goblins came fromHow goblin outputs spread in AI models: timeline, root cause, and fixes behind personality-driven quirks in GPT-5 behavior.](</index/where-the-goblins-came-from/>)
-
-Safety
-
-Apr 23, 2026
-
-[GPT-5.5 System Card](</index/gpt-5-5-system-card/>)
-
 Load more
 
 Research
@@ -112,9 +112,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -186,6 +186,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

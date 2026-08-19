@@ -46,6 +46,18 @@ Switch cards to show Media
 
 Switch cards to hide Media
 
+Company
+
+Aug 18, 2026
+
+[Pacing model development in an era of cyber-critical capabilitiesOpenAI is strengthening monitoring, alignment, and security for frontier AI models. See how new safeguards are guiding the pace of model development.](</index/pacing-model-development-cyber-capabilities/>)
+
+Publication
+
+Aug 1, 2026
+
+[Ten advances in mathematics and theoretical computer scienceOpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexity.](</index/ten-advances-in-mathematics/>)
+
 Research
 
 Jul 29, 2026
@@ -87,18 +99,6 @@ Research
 Jul 8, 2026
 
 [Separating signal from noise in coding evaluationsA new analysis from OpenAI reveals issues in SWE-Bench Pro, a popular coding benchmark, raising concerns about reliability and accuracy in evaluating AI models.](</index/separating-signal-from-noise-coding-evaluations/>)
-
-Product
-
-Jul 8, 2026
-
-[Introducing GPT-LiveA new generation of voice models for natural human-AI interaction, now powering ChatGPT Voice.](</index/introducing-gpt-live/>)
-
-Safety
-
-Jul 8, 2026
-
-[GPT‑Live System CardGPT-Live-1 and GPT-Live-1 mini are a new generation of voice models designed to make conversations with AI feel more natural and intelligent.(opens in a new window)](<https://deploymentsafety.openai.com/gpt-live>)
 
 Load more
 

@@ -96,7 +96,7 @@ We own all right, title, and interest in and to the Services. You only receive r
 
 ## 7\. Payment; Taxes
 
-7.1 _Fees and Billing._ You agree to pay all fees charged to your account (“Fees”) according to the prices and terms on the [Pricing Page⁠](</api/pricing/>), or as otherwise stated in an Order Form. Price changes on the Pricing Page will be effective immediately for all price decreases or changes made for legal reasons. All other price changes will be effective 14 days after they are posted. We have the right to correct pricing errors or mistakes even after issuing an invoice or receiving payment. You authorize us and our third-party payment processor(s) to charge the payment method provided on your account on an agreed-upon periodic basis, but we may reasonably change the date on which the charge is posted. Fees are payable in U.S. dollars and are due upon invoice issuance, unless otherwise agreed in an Order Form. Payments are nonrefundable except as provided in this Agreement.
+7.1 _Fees and Billing._ You agree to pay all fees charged to your account (“Fees”) according to the prices and terms on the [Pricing Page⁠⁠](</api/pricing/>), or as otherwise stated in an Order Form. Price changes on the Pricing Page will be effective immediately for all price decreases or changes made for legal reasons. All other price changes will be effective 14 days after they are posted. We have the right to correct pricing errors or mistakes even after issuing an invoice or receiving payment. You authorize us and our third-party payment processor(s) to charge the payment method provided on your account on an agreed-upon periodic basis, but we may reasonably change the date on which the charge is posted. Fees are payable in U.S. dollars and are due upon invoice issuance, unless otherwise agreed in an Order Form. Payments are nonrefundable except as provided in this Agreement.
 
 7.2 _Service Credits._ You may need to prepay for Services through the purchase of credits (“Service Credits”) or we may provide you with promotional Service Credits from time-to-time. All Service Credits are subject to our [Service Credit Terms⁠](</policies/service-credit-terms/>).
 
@@ -198,9 +198,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -237,6 +237,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -270,6 +272,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

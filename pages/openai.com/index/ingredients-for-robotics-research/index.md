@@ -26,17 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Environments
-
-  * Environments
-  * Goals
-  * Hindsight Experience Replay
-  * Understanding HER
-  * Results
-  * Using goal-based environments
-
-
-
 February 26, 2018
 
 [Release](</research/index/release/>)
@@ -52,6 +41,28 @@ Ben Barry
 Loading…
 
 Share
+
+Environments
+
+  * Environments
+  * Goals
+  * Hindsight Experience Replay
+  * Understanding HER
+  * Results
+    * Requests for Research: HER edition
+  * Using goal-based environments
+
+
+
+  * Environments
+  * Goals
+  * Hindsight Experience Replay
+  * Understanding HER
+  * Results
+    * Requests for Research: HER edition
+  * Using goal-based environments
+
+
 
 We’re releasing eight simulated robotics environments and a Baselines implementation of Hindsight Experience Replay, all developed for our research over the past year. We’ve used these environments to train models which work on physical robots. We’re also releasing a set of requests for robotics research.
 
@@ -168,9 +179,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -207,6 +218,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -240,6 +253,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

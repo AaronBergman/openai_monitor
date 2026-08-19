@@ -39,44 +39,26 @@ Share
 When will the AI Act apply? 
 
   * When will the AI Act apply? 
-
   * Who is covered? 
-
   * Application to companies established outside the EU 
-
   * Risk-Based Regulation
-
   * Prohibited AI Practices
-
   * High-Risk AI Systems 
-
   * Minimal or Minor-Risk AI Systems
-
   * General Purpose AI (GPAI) 
-
   * Next Steps and How to Prepare for Compliance 
-
 
 
 
   * When will the AI Act apply? 
-
   * Who is covered? 
-
   * Application to companies established outside the EU 
-
   * Risk-Based Regulation
-
   * Prohibited AI Practices
-
   * High-Risk AI Systems 
-
   * Minimal or Minor-Risk AI Systems
-
   * General Purpose AI (GPAI) 
-
   * Next Steps and How to Prepare for Compliance 
-
 
 
 

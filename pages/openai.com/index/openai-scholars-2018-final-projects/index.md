@@ -26,13 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Final projects
-
-  * Final projects
-  * Scholars Demo Day
-
-
-
 September 10, 2018
 
 [Company](</news/company-announcements/>)
@@ -48,6 +41,18 @@ Photo: Blake Tucker
 Loading…
 
 Share
+
+Final projects
+
+  * Final projects
+  * Scholars Demo Day
+
+
+
+  * Final projects
+  * Scholars Demo Day
+
+
 
 Our first cohort of [OpenAI Scholars⁠(opens in a new window)](<https://blog.openai.com/openai-scholars/>) has now completed the program. Over the past three months, we’ve seen how quickly experienced software developers can become machine learning practitioners. [All eight Scholars⁠(opens in a new window)](<https://blog.openai.com/openai-scholars-class-2018/>) produced an exciting final project and are going on to work or teach within machine learning.
 
@@ -104,9 +109,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -143,6 +148,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -176,6 +183,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

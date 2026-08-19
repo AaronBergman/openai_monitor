@@ -43,24 +43,16 @@ Share
 Reducing graphic and explicit training data
 
   * Reducing graphic and explicit training data
-
   * Fixing bias introduced by data filters
-
   * Preventing image regurgitation
-
   * Next steps
-
 
 
 
   * Reducing graphic and explicit training data
-
   * Fixing bias introduced by data filters
-
   * Preventing image regurgitation
-
   * Next steps
-
 
 
 
@@ -215,9 +207,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -289,6 +281,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

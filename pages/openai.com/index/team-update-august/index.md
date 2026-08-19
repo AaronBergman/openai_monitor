@@ -26,13 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Full-time
-
-  * Full-time
-  * Interns & visitors
-
-
-
 August 16, 2016
 
 [Company](</news/company-announcements/>)
@@ -46,6 +39,18 @@ We’ve hired more great people to help us achieve our goals. Welcome, everyone!
 Loading…
 
 Share
+
+Full-time
+
+  * Full-time
+  * Interns & visitors
+
+
+
+  * Full-time
+  * Interns & visitors
+
+
 
 We’ve [hired⁠](</careers/>) more great people to help us achieve our [goals⁠](</index/openai-technical-goals/>). Welcome, everyone!
 
@@ -106,9 +111,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -145,6 +150,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -178,6 +185,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

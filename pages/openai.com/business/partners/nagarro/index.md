@@ -48,7 +48,7 @@ Our approach is guided by our CARING culture, a human-centric, people-first phil
 
 With around 18,500 experts across 40 countries, Nagarro partners with leading enterprises, independent software vendors, and public-sector organizations across Europe, North America, and beyond. Together, we help organizations become AI-native, human-centric, and ready for continuous change.
 
-![Select Partner](/images/partner-tier-badges/OAI_PartnerNetwork_SelectPartner.svg?dpl=dpl_FVk4QodRZ5kG9YVJMACPwdTCDJ7A)
+![Select Partner](/images/partner-tier-badges/OAI_PartnerNetwork_SelectPartner.svg?dpl=dpl_BFRp6Lb32rZA9Qj7UuvSPYcKthAX)
 
 Countries served
     Global

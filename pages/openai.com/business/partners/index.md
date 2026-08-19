@@ -574,21 +574,13 @@ Access the resources, enablement, and technical support needed to build, deploy,
 
 Bring your industry expertise, customer relationships, and delivery capacity to help organizations turn AI strategy into measurable impact.
 
-### Become a partner
-
-Enroll in the OpenAI Partner Network.
-
-[Enroll now(opens in a new window)](<https://partners.openai.com>)
-
 ![Become a partner graphic image](https://images.ctfassets.net/kftzwdyauwt9/1FKxH1TDdHsNjOEadPKrgA/8f807505e6016c5b4ee97df8eacb56ae/become-a-partner_img.png?w=3840&q=90&fm=webp)
 
-### Find a partner
-
-Easily filter across the OpenAI Partner Network to identify the right partner for your business and AI goals.
-
-[Partner Locator](</business/partners/locator/>)
+## [Become a partnerJoin the OpenAI Partner Network to build, co-sell, and deliver with OpenAI—helping organizations turn ambition into business impact with AI.Apply to become a partner](<https://partners.openai.com>)
 
 ![Abstract blue illustration featuring a search icon inside a central panel, symbolizing partner discovery.](https://images.ctfassets.net/kftzwdyauwt9/4XeAx0WlCec0iVa6wKJ4P0/a38c4cbd1d3ba22e9b5f1b1f6ac4d299/Partner_graphic_-_Find_a_partner_opt1_-_no_logos.png?w=3840&q=90&fm=webp)
+
+## [Find a partnerBrowse trusted organizations with the expertise that can help turn your business goals into AI solutions that work in the real world.Access our partner locator](</business/partners/locator/>)
 
 ## Partner portal
 

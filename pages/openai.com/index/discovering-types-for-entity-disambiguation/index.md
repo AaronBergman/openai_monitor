@@ -26,15 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-High-level overview
-
-  * High-level overview
-  * Cleaning the data
-  * Learning a good type system
-  * Next steps
-
-
-
 February 7, 2018
 
 [Publication](</research/index/publication/>)
@@ -48,6 +39,30 @@ February 7, 2018
 Loading…
 
 Share
+
+High-level overview
+
+  * High-level overview
+    * More examples
+  * Cleaning the data
+  * Learning a good type system
+    * Type system evolution
+    * Neural type system
+    * Inference
+  * Next steps
+
+
+
+  * High-level overview
+    * More examples
+  * Cleaning the data
+  * Learning a good type system
+    * Type system evolution
+    * Neural type system
+    * Inference
+  * Next steps
+
+
 
 We’ve built a system for automatically figuring out which object is meant by a word by having a neural network decide if the word belongs to each of about 100 automatically-discovered “types” (non-exclusive categories).
 
@@ -158,9 +173,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -197,6 +212,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -230,6 +247,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

@@ -26,16 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-About the SimpleQA benchmark
-
-  * About the SimpleQA benchmark
-  * Question diversity in SimpleQA
-  * Using SimpleQA to compare language models
-  * Using SimpleQA to measure the calibration of large language models
-  * Conclusions
-
-
-
 October 30, 2024
 
 [Publication](</research/index/publication/>)
@@ -49,6 +39,24 @@ A factuality benchmark called SimpleQA that measures the ability for language mo
 Loading…
 
 Share
+
+About the SimpleQA benchmark
+
+  * About the SimpleQA benchmark
+  * Question diversity in SimpleQA
+  * Using SimpleQA to compare language models
+  * Using SimpleQA to measure the calibration of large language models
+  * Conclusions
+
+
+
+  * About the SimpleQA benchmark
+  * Question diversity in SimpleQA
+  * Using SimpleQA to compare language models
+  * Using SimpleQA to measure the calibration of large language models
+  * Conclusions
+
+
 
 An open problem in artificial intelligence is how to train models that produce responses that are factually correct. Current language models sometimes produce false outputs or answers unsubstantiated by evidence, a problem known as “hallucinations”. Language models that generate more accurate responses with fewer hallucinations are more trustworthy and can be used in a broader range of applications. To measure the factuality of language models, we are [open-sourcing⁠(opens in a new window)](<https://github.com/openai/simple-evals/>) a new benchmark called SimpleQA.  
 
@@ -183,9 +191,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -222,6 +230,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -255,6 +265,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)
