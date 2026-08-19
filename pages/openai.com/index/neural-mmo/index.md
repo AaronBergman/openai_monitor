@@ -26,16 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-The environment
-
-  * The environment
-  * The model
-  * Evaluation results
-  * Additional insights
-  * Next steps
-
-
-
 March 4, 2019
 
 [Milestone](</research/index/milestone/>)
@@ -49,6 +39,30 @@ March 4, 2019
 Loading…
 
 Share
+
+The environment
+
+  * The environment
+  * The model
+  * Evaluation results
+    * Server merge tournaments: Multiagent magnifies competence
+    * Increased population size magnifies exploration
+    * Increased species count magnifies niche formation
+  * Additional insights
+  * Next steps
+
+
+
+  * The environment
+  * The model
+  * Evaluation results
+    * Server merge tournaments: Multiagent magnifies competence
+    * Increased population size magnifies exploration
+    * Increased species count magnifies niche formation
+  * Additional insights
+  * Next steps
+
+
 
 We’re releasing a Neural [MMO⁠(opens in a new window)](<https://en.wikipedia.org/wiki/Massively_multiplayer_online_game>), a massively multiagent game environment for reinforcement learning agents. Our platform supports a large, variable number of agents within a persistent and open-ended task. The inclusion of many agents and species leads to better exploration, divergent niche formation, and greater overall competence.
 
@@ -156,9 +170,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -195,6 +209,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -228,6 +244,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

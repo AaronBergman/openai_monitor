@@ -41,24 +41,16 @@ Share
 The mission comes first
 
   * The mission comes first
-
   * What OpenAI does
-
   * Safety
-
   * Who’s involved
-
 
 
 
   * The mission comes first
-
   * What OpenAI does
-
   * Safety
-
   * Who’s involved
-
 
 
 

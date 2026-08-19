@@ -126,21 +126,21 @@ Read more
 
 ## Learn more
 
-![Parental-Controls_Art Card 1080x1080](https://images.ctfassets.net/kftzwdyauwt9/52OZyosYauJk0dTLi8ScwL/0c18767cc70cef41fb50052ee5d82d53/Art_Card_1080x1080.png?w=3840&q=90&fm=webp)
+![Pacing model development in an era of cyber-critical capabilities — Card image](https://images.ctfassets.net/kftzwdyauwt9/3tUOfo4E1xZComoOiRjHJm/51c532f25dd4062f92bff0e41ea00c3c/index-pacing-model-development-cyber-capabilities-dark-cover.png?w=3840&q=90&fm=webp)
 
-[Introducing parental controlsProductSep 29, 2025](</index/introducing-parental-controls/>)
+[Pacing model development in an era of cyber-critical capabilitiesCompanyAug 18, 2026](</index/pacing-model-development-cyber-capabilities/>)
 
-![PFv2 artcard 1.1](https://images.ctfassets.net/kftzwdyauwt9/5NT5UdAHa3GZSeJTSsBrs3/e591f6d3ad129a72090f5b865cfe4b9d/PFv2_artcard_1.1.jpg?w=3840&q=90&fm=webp)
+![PIA safety > Cover image](https://images.ctfassets.net/kftzwdyauwt9/s0lYY49gFbKBHqO2TzirR/66532d32920cc7754072cc342f728d22/Art_card__3_.png?w=3840&q=90&fm=webp)
 
-[Our updated Preparedness FrameworkPublicationApr 15, 2025](</index/updating-our-preparedness-framework/>)
+[Safety and alignment in an era of long-horizon modelsSafetyJul 20, 2026](</index/safety-alignment-long-horizon-models/>)
 
-![Update on disrupting > Cover](https://images.ctfassets.net/kftzwdyauwt9/2jNGSREx3U99nkHYRZaViq/3d1e9e83fe937b6a63d432ce79f586b9/cover_image_-_update_on_disrupting.png?w=3840&q=90&fm=webp)
+![A soft, abstract gradient dominated by pink and blue hues, with gentle vertical blending and a warm orange-yellow glow](https://images.ctfassets.net/kftzwdyauwt9/7x4viZ0DsQtxQpAgnYYheQ/8dfe028356aceac9e83da6cb837d6864/Saftey-Art-Card-1080x1080.png?w=3840&q=90&fm=webp)
 
-[An update on disrupting deceptive uses of AISafetyOct 9, 2024](</global-affairs/an-update-on-disrupting-deceptive-uses-of-ai/>)
+[Helping ChatGPT better recognize context in sensitive conversationsSafetyMay 14, 2026](</index/chatgpt-recognize-context-in-sensitive-conversations/>)
 
-![An abstract painting of a soft, pastel-colored sky at sunset or sunrise. Shades of pink, purple, orange, and yellow blend together, with gentle cloud formations and a hint of blue near the horizon, creating a peaceful, serene atmosphere.](https://images.ctfassets.net/kftzwdyauwt9/54pUOkZ0poSpo9udfZmN3g/e90a4235b3d8537bdddfcc7219b636d1/safety-blog-cover-02.jpg?w=3840&q=90&fm=webp)
+![CoT controllability > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/7AkyH6nozJkoGaWK1VjBoj/adeeeeb93985405d47244c597ee82777/OAI_Reasoning_Models_Struggle_to_Control_their_Chains_of_Thought__and_thatâ__s_Good_Art_Card_1x1.png?w=3840&q=90&fm=webp)
 
-[OpenAI safety practicesSafetyMay 21, 2024](</index/openai-safety-update/>)
+[Reasoning models struggle to control their chains of thought, and that’s goodResearchMar 5, 2026](</index/reasoning-models-chain-of-thought-controllability/>)
 
 ## Go deeper on safety
 
@@ -184,9 +184,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -223,6 +223,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -256,6 +258,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

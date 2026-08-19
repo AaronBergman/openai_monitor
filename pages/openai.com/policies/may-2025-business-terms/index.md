@@ -26,6 +26,12 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
+Updated: May 1, 2025
+
+# OpenAI Services Agreement
+
+[View current services agreement](</policies/services-agreement/>)[View previous business terms](</policies/nov-2023-business-terms/>)
+
 1\. Services.
 
   * 1\. Services.
@@ -48,11 +54,25 @@ OpenAI
 
 
 
-Updated: May 1, 2025
+  * 1\. Services.
+  * 2\. Provision.
+  * 3\. Customer obligations.
+  * 4\. Customer Content.
+  * 5\. Security and Privacy.
+  * 6\. Payment.
+  * 7\. Confidentiality.
+  * 8\. Suspension.
+  * 9\. IP Rights.
+  * 10\. No Publicity.
+  * 11\. Term and Termination.
+  * 12\. Warranties; Disclaimer.
+  * 13\. Indemnification.
+  * 14\. Limitation of Liability.
+  * 15\. Dispute Resolution.
+  * 16\. Miscellaneous.
+  * 17\. Definitions.
 
-# OpenAI Services Agreement
 
-[View current services agreement](</policies/services-agreement/>)[View previous business terms](</policies/nov-2023-business-terms/>)
 
 **Effective: May 1, 2025**
 
@@ -298,7 +318,7 @@ Policies.
 
 “ _Personal Data_ ” is as defined in the DPA.
 
-“ _Pricing Page_ ” means the pages available at [https://openai.com/api/pricing](</api/pricing/>) or [https://openai.com/chatgpt/pricing⁠(opens in a new window)](<https://chatgpt.com/pricing>).
+“ _Pricing Page_ ” means the pages available at [https://openai.com/api/pricing⁠](</api/pricing/>) or [https://openai.com/chatgpt/pricing⁠(opens in a new window)](<https://chatgpt.com/pricing>).
 
 “ _Protected Health Information_ ” is as defined under the HIPAA Privacy Rule (45 C.F.R. Section 160.103).
 
@@ -355,9 +375,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -394,6 +414,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -427,6 +449,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

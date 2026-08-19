@@ -26,17 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Fellows
-
-  * Fellows
-  * What we’re looking for
-  * Interns
-  * What we’re looking for
-  * Timeframe
-  * Selection criteria FAQ
-
-
-
 October 9, 2018
 
 [Company](</news/company-announcements/>)
@@ -50,6 +39,28 @@ We are now accepting applications for OpenAI Fellows and Interns for 2019.
 Loading…
 
 Share
+
+Fellows
+
+  * Fellows
+  * What we’re looking for
+    * Timeframe
+  * Interns
+  * What we’re looking for
+  * Timeframe
+  * Selection criteria FAQ
+
+
+
+  * Fellows
+  * What we’re looking for
+    * Timeframe
+  * Interns
+  * What we’re looking for
+  * Timeframe
+  * Selection criteria FAQ
+
+
 
 Fellows and Intern programs provide an opportunity for people to work at OpenAI who are currently studying AI or wanting to transition from another speciality into AI.
 
@@ -179,9 +190,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -218,6 +229,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -251,6 +264,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

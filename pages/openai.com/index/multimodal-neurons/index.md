@@ -26,18 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Multimodal neurons in CLIP
-
-  * Multimodal neurons in CLIP
-  * Absent concepts
-  * How multimodal neurons compose
-  * Fallacies of abstraction
-  * Attacks in the wild
-  * Bias and overgeneralization
-  * Conclusion
-
-
-
 March 4, 2021
 
 [Milestone](</research/index/milestone/>)
@@ -51,6 +39,28 @@ March 4, 2021
 Loading…
 
 Share
+
+Multimodal neurons in CLIP
+
+  * Multimodal neurons in CLIP
+  * Absent concepts
+  * How multimodal neurons compose
+  * Fallacies of abstraction
+  * Attacks in the wild
+  * Bias and overgeneralization
+  * Conclusion
+
+
+
+  * Multimodal neurons in CLIP
+  * Absent concepts
+  * How multimodal neurons compose
+  * Fallacies of abstraction
+  * Attacks in the wild
+  * Bias and overgeneralization
+  * Conclusion
+
+
 
 We’ve discovered neurons in CLIP that respond to the same concept whether presented literally, symbolically, or conceptually. This may explain CLIP’s accuracy in classifying surprising visual renditions of concepts, and is also an important step toward understanding the associations and biases that CLIP and similar models learn.
 
@@ -274,9 +284,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -313,6 +323,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -346,6 +358,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

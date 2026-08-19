@@ -56,7 +56,7 @@ Optimized for STEM Reasoning
 
 
 
-We're releasing OpenAI o1‑mini, a cost-efficient reasoning model. o1‑mini excels at STEM, especially math and coding—nearly matching the performance of [OpenAI o1](</index/introducing-openai-o1-preview/>) on evaluation benchmarks such as AIME and Codeforces. We expect o1‑mini will be a faster, cost-effective model for applications that require reasoning without broad world knowledge.
+We’re releasing OpenAI o1‑mini, a cost-efficient reasoning model. o1‑mini excels at STEM, especially math and coding—nearly matching the performance of [OpenAI o1](</index/introducing-openai-o1-preview/>) on evaluation benchmarks such as AIME and Codeforces. We expect o1‑mini will be a faster, cost-effective model for applications that require reasoning without broad world knowledge.
 
 Today, we are launching o1‑mini to [tier 5 API users⁠(opens in a new window)](<https://platform.openai.com/docs/guides/rate-limits/usage-tiers>) at a cost that is 80% cheaper than OpenAI o1‑preview. ChatGPT Plus, Team, Enterprise, and Edu users can use o1‑mini as an alternative to o1‑preview, with higher rate limits and lower latency (see Model Speed⁠).
 

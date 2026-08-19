@@ -30,7 +30,7 @@ Select language
 
 …
 
-Updated: July 31, 2026
+Updated: August 18, 2026
 
 # OpenAI Ad Tools Sub-Processor List
 
@@ -71,7 +71,7 @@ Norway
 United Kingdom  
 United States| Cloud infrastructure  
 Amazon Web Services, Inc.| United States| Cloud infrastructure  
-Teleperformance Europe Middle East and Africa, SAS| Canada  
+TPUSA, Inc.| Canada  
 Spain| Customer Support  
   
 ## OpenAI Entities

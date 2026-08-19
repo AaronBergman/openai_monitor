@@ -76,7 +76,7 @@ _**Researching text solutions**_
 
 **_Expanding our image detection tools as we build new features_**
 
-  *  _As part of our continued efforts on content provenance, we’ve been working to include_[ _C2PA_ ⁠(opens in a new window)](<https://c2pa.org/>)_metadata – a widely used standard for digital content – as we update features in our products. As users can now edit DALL-E 3 generated images in ChatGPT, we wanted to ensure that provenance information continues to be demonstrated along with those edits. If a user edits an image, we 've built in a means for our C2PA credential to show that the image was edited and how._
+  *  _As part of our continued efforts on content provenance, we’ve been working to include_[ _C2PA_ ⁠(opens in a new window)](<https://c2pa.org/>)_metadata – a widely used standard for digital content – as we update features in our products. As users can now edit DALL-E 3 generated images in ChatGPT, we wanted to ensure that provenance information continues to be demonstrated along with those edits. If a user edits an image, we’ve built in a means for our C2PA credential to show that the image was edited and how._
   * _In the example image, you can see the original AI-generated picture of a caterpillar, then edited to have the caterpillar wearing a Santa hat. When a user edits this image, the C2PA credentials update to reflect these changes, ensuring transparency. The C2PA credential includes details like the app and tool used (OpenAI’s DALL-E), the actions taken (like format conversion and edits), and other modifications. This way, the entire history of the image is tracked and displayed._
 
 

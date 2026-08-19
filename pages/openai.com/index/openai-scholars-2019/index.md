@@ -26,15 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Why we’re doing this
-
-  * Why we’re doing this
-  * Timeframe
-  * What we provide
-  * What we’re looking for
-
-
-
 October 11, 2018
 
 [Company](</news/company-announcements/>)
@@ -48,6 +39,22 @@ October 11, 2018
 Loading…
 
 Share
+
+Why we’re doing this
+
+  * Why we’re doing this
+  * Timeframe
+  * What we provide
+  * What we’re looking for
+
+
+
+  * Why we’re doing this
+  * Timeframe
+  * What we provide
+  * What we’re looking for
+
+
 
 We are now accepting applications for our second cohort of OpenAI Scholars, a program where we provide 6–10 stipends and mentorship to individuals from underrepresented groups to study deep learning full-time for 3 months and open-source a project.
 
@@ -149,9 +156,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -188,6 +195,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -221,6 +230,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

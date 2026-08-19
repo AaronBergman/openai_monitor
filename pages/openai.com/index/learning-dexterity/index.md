@@ -26,20 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-The task
-
-  * The task
-  * Our approach
-  * Learning to control
-  * Learning to see
-  * Results
-  * Transfer performance
-  * Learning progress
-  * What surprised us
-  * What didn’t pan out
-
-
-
 July 30, 2018
 
 [Milestone](</research/index/milestone/>)
@@ -57,6 +43,32 @@ Illustration: Ben Barry & Eric Haines
 Loading…
 
 Share
+
+The task
+
+  * The task
+  * Our approach
+  * Learning to control
+  * Learning to see
+  * Results
+  * Transfer performance
+  * Learning progress
+  * What surprised us
+  * What didn’t pan out
+
+
+
+  * The task
+  * Our approach
+  * Learning to control
+  * Learning to see
+  * Results
+  * Transfer performance
+  * Learning progress
+  * What surprised us
+  * What didn’t pan out
+
+
 
 Our system, called Dactyl, is trained entirely in simulation and transfers its knowledge to reality, adapting to real-world physics using techniques we’ve been working on for the [past⁠](</index/spam-detection-in-the-physical-world/>) [year⁠](</index/generalizing-from-simulation/>). Dactyl learns from scratch using the same general-purpose reinforcement learning algorithm and code as [OpenAI Five⁠](</index/openai-five/>). Our [results⁠](</index/learning-dexterity/#results>) show that it’s possible to train agents in simulation and have them solve real-world tasks, without physically-accurate modeling of the world.
 
@@ -229,9 +241,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -268,6 +280,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -301,6 +315,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

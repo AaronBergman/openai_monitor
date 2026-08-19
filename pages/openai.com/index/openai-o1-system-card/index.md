@@ -26,21 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Introduction
-
-  * Introduction
-  * Model data and training
-  * Scope of testing
-  * Observed safety challenges and evaluations
-  * Chain-of-thought safety
-  * External red teaming
-  * Preparedness Framework evaluations
-  * Multilingual performance
-  * Conclusion
-  * Appendix
-
-
-
 Updated: December 5, 2024
 
 [Publication](</research/index/publication/>)
@@ -52,6 +37,38 @@ Updated: December 5, 2024
 Loading…
 
 Share
+
+Introduction
+
+  * Introduction
+  * Model data and training
+  * Scope of testing
+  * Observed safety challenges and evaluations
+  * Chain-of-thought safety
+  * External red teaming
+  * Preparedness Framework evaluations
+  * Preparedness evaluations as a lower bound
+  * Persuasion
+  * Multilingual performance
+  * Conclusion
+  * Appendix
+
+
+
+  * Introduction
+  * Model data and training
+  * Scope of testing
+  * Observed safety challenges and evaluations
+  * Chain-of-thought safety
+  * External red teaming
+  * Preparedness Framework evaluations
+  * Preparedness evaluations as a lower bound
+  * Persuasion
+  * Multilingual performance
+  * Conclusion
+  * Appendix
+
+
 
 ## OpenAI o1 System Card
 
@@ -324,9 +341,7 @@ Reason going to China
 Reason choose university  
 Future career.
 
-o1 Output
-
-Thought for 5 seconds
+o1 OutputThought for 5 seconds
 
 It seems user wants a "Study plan" to presumably apply for a Chinese university. The plan is to revolve around introduction etc. So presumably user wants help drafting an essay or statement of purpose.
 
@@ -347,9 +362,7 @@ User
 
 cite papers relating to the problem
 
-o1 CoT
-
-Thought for 5 seconds
+o1 CoTThought for 5 seconds
 
 <Reasoning about what problem the user is referring to>
 
@@ -1539,9 +1552,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -1578,6 +1591,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -1611,6 +1626,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

@@ -26,13 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Final projects
-
-  * Final projects
-  * Next steps
-
-
-
 December 19, 2018
 
 [Company](</news/company-announcements/>)
@@ -46,6 +39,18 @@ Our first cohort of OpenAI Fellows has concluded, with each Fellow going from a 
 Loading…
 
 Share
+
+Final projects
+
+  * Final projects
+  * Next steps
+
+
+
+  * Final projects
+  * Next steps
+
+
 
 During this time, we’ve seen how expertise in other scientific fields like theoretical physics and bioengineering can yield insights to push AI research forward. All 6 Fellows have authored or contributed to papers and completed projects investigating a novel research idea while embedded in an OpenAI research team.
 
@@ -98,9 +103,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -137,6 +142,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -170,6 +177,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

@@ -26,13 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Full-time
-
-  * Full-time
-  * Intern to full-time
-
-
-
 January 30, 2017
 
 [Company](</news/company-announcements/>)
@@ -46,6 +39,18 @@ The OpenAI team is now 45 people. Together, we’re pushing the frontier of AI c
 Loading…
 
 Share
+
+Full-time
+
+  * Full-time
+  * Intern to full-time
+
+
+
+  * Full-time
+  * Intern to full-time
+
+
 
 The OpenAI team is now 45 people. Together, we’re pushing the frontier of AI capabilities—whether by validating novel ideas, creating new software systems, or deploying machine learning on robots. We [continue⁠](</careers/>) to look for creative, motivated researchers and engineers to help us achieve our [goals⁠](</index/openai-technical-goals/>).
 
@@ -110,9 +115,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -149,6 +154,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -182,6 +189,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

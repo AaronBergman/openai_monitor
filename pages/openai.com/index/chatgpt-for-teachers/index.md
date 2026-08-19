@@ -32,9 +32,15 @@ November 19, 2025
 
 # A free version of ChatGPT built for teachers
 
-A secure ChatGPT workspace that supports teachers in their everyday work so they can focus on what matters most—plus admin controls for school and district leaders. Free for verified U.S. K–12 educators through June 2027.
+A secure ChatGPT workspace that supports teachers in their everyday work so they can focus on what matters most—plus admin controls for school and district leaders. Free for verified U.S. K–12 educators through June 2028.
 
 [Get verified(opens in a new window)](<https://chatgpt.com/k12-verification>)
+
+## Looking for current education solutions?
+
+[Education solutions](</business/solutions/education/>)
+
+[Contact sales](</contact-sales/>)
 
 Loading…
 
@@ -56,15 +62,15 @@ Key features
 
 
 
-Today we’re introducing ChatGPT for Teachers and making it free through June 2027.
+Today we’re introducing ChatGPT for Teachers and making it free through June 2028.
 
 Of the 800 million people who use ChatGPT each week, teachers are some of the earliest and most active adopters. [Three in five ⁠(opens in a new window)](<https://news.gallup.com/poll/691967/three-teachers-weekly-saving-six-weeks-year.aspx>)already use an AI tool, and those that use it weekly report saving hours each week—giving them more time to spend with students. They also play a critical role in helping students and families understand how AI can support learning.
 
 ChatGPT for Teachers is built for both educators and school leaders. Teachers get a secure workspace to adapt materials for their classrooms, get more out of prep time, collaborate with peers, and get comfortable using AI on their own terms. School and district leaders can bring their teachers and school staff into one account with the same education-grade privacy, security, and compliance programs that protect student data and support FERPA requirements.
 
-To ensure broad access, ChatGPT for Teachers is free for [verified⁠(opens in a new window)](<https://chatgpt.com/k12-verification>) U.S. K–12 educators through June 2027. We’re also releasing an [AI Literacy Blueprint⁠(opens in a new window)](<https://cdn.openai.com/pdf/openai-teen-literacy-blueprint.pdf>) that gives school leaders and policymakers a clear path for supporting teacher-led, responsible AI use.
+To ensure broad access, ChatGPT for Teachers is free for [verified⁠(opens in a new window)](<https://chatgpt.com/k12-verification>) U.S. K–12 educators through June 2028. We’re also releasing an [AI Literacy Blueprint⁠(opens in a new window)](<https://cdn.openai.com/pdf/openai-teen-literacy-blueprint.pdf>) that gives school leaders and policymakers a clear path for supporting teacher-led, responsible AI use.
 
-This work builds on our partnership with the [American Federation of Teachers⁠](<https://openai.com/global-affairs/aft/>) to support teacher-led innovation and equip 400,000 K–12 educators with practical AI skills; our collaboration with Ministries of Education globally, including [Estonia⁠](<https://openai.com/index/estonia-schools-and-chatgpt/>) and [Greece⁠](<https://openai.com/global-affairs/openai-for-greece/>); and our broader work to make our tools more responsive to academic needs⁠ across both K–12 and [higher education⁠](<https://openai.com/chatgpt/education/>), supporting both educators and [learners⁠](<https://openai.com/index/chatgpt-study-mode/>).
+This work builds on our partnership with the [American Federation of Teachers⁠](<https://openai.com/global-affairs/aft/>) to support teacher-led innovation and equip 400,000 K–12 educators with practical AI skills; our collaboration with Ministries of Education globally, including [Estonia⁠](<https://openai.com/index/estonia-schools-and-chatgpt/>) and [Greece⁠](<https://openai.com/global-affairs/openai-for-greece/>); and our broader work to make our tools more responsive to academic needs⁠ across both K–12 and [higher education⁠(opens in a new window)](<https://chatgpt.com/business/education/>), supporting both educators and [learners⁠](<https://openai.com/index/chatgpt-study-mode/>).
 
 Get [verified⁠(opens in a new window)](<https://chatgpt.com/k12-verification>) or learn more on our [website⁠(opens in a new window)](<https://chatgpt.com/plans/k12-teachers>).
 
@@ -87,7 +93,7 @@ Here’s what it includes:
 
 **Getting started** : Teachers and staff at K–12 schools or districts in the U.S. can get [verified⁠(opens in a new window)](<https://chatgpt.com/k12-verification>) to set up a free workspace and invite colleagues from their school or district to join. Verification is handled by SheerID, our third-party partner, using a secure process to confirm educator status.
 
-The current free period runs through June 2027. After that, we may adjust pricing, but our goal is to keep ChatGPT for Teachers affordable for educators. If anything changes, we’ll give advance notice so teachers and schools can decide whether to continue.
+The current free period runs through June 2028. After that, we may adjust pricing, but our goal is to keep ChatGPT for Teachers affordable for educators. If anything changes, we’ll give advance notice so teachers and schools can decide whether to continue.
 
 ## How teachers already use ChatGPT
 
@@ -125,7 +131,7 @@ You can explore the full set of shared prompts on our [website⁠(opens in a new
 
 ## Our growing work with U.S. schools
 
-To help guide how ChatGPT for Teachers rolls out to teachers across the U.S., we're also working with our first cohort of leading districts representing nearly 150,000 teachers and staff. Together, we’re learning what supports teachers best at scale—districts are sharing real classroom needs and implementation insights. Their feedback will be used to help shape how we improve ChatGPT for Teachers and support teachers and schools over time.
+To help guide how ChatGPT for Teachers rolls out to teachers across the U.S., we’re also working with our first cohort of leading districts representing nearly 150,000 teachers and staff. Together, we’re learning what supports teachers best at scale—districts are sharing real classroom needs and implementation insights. Their feedback will be used to help shape how we improve ChatGPT for Teachers and support teachers and schools over time.
 
 Cohort 1 includes: Capistrano Unified School District (CA), Dallas Independent School District (TX),**** Fairfax County Public Schools (VA),**** Fulton County Schools (GA), Houston Independent School District (TX), Humble Independent School District (TX), Idaho Digital Learning Alliance (ID), KIPP Miami Public Schools (FL), KIPP New Jersey Public Schools (NJ), KIPP Public Schools Northern California (CA), Lynwood Unified School District (CA), Prince William County Public Schools (VA),**** Region One Education Service Center (TX), School District U-46 (IL), Township High School District 211 (IL), and Waukee Community School District (IA). We are also working with the Delaware Department of Education, which has adopted ChatGPT for its employees and is supporting districts and charters statewide in exploring implementation for their educators.
 
@@ -163,17 +169,17 @@ OpenAI
 
 [View all](</news/>)
 
-![Health in ChatGPT > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/48aIp3cQOKJ57vpQeqOb8y/2e8732bcad5ceea1c7b20cf001bd2823/1_1_Art_Card.png?w=3840&q=90&fm=webp)
+![ChatGPT for Teens — square card](https://images.ctfassets.net/kftzwdyauwt9/5IP7e1KeD8zkZq6YUrKdKW/2325215681ea59d32dd09b3ea90f12c5/Art_Card-TEENS-1x13x.png?w=3840&q=90&fm=webp)
 
-[Launching Health in ChatGPT ProductJul 23, 2026](</index/health-in-chatgpt/>)
+[Introducing ChatGPT for TeensProductAug 18, 2026](</index/chatgpt-for-teens/>)
 
-![OpenAI Presence 1x1](https://images.ctfassets.net/kftzwdyauwt9/5JBDenSGI6wx5CMPPlaM5J/da9d8e27a0bd70d845a816b28ac641a9/OpenAI_Presence_1x1.png?w=3840&q=90&fm=webp)
+![Previewing Ultrafast mode — clean cover](https://images.ctfassets.net/kftzwdyauwt9/74UiHrTiZoKnbvpopDTG1s/d33291d426eac29a4a5c0563e717376d/previewing-ultrafast-mode--cover-1080x1080-v001.png?w=3840&q=90&fm=webp)
 
-[Introducing OpenAI PresenceProductJul 22, 2026](</index/introducing-openai-presence/>)
+[Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speedProductAug 13, 2026](</index/previewing-ultrafast/>)
 
-![GPT-5.6 is now the preferred model in Microsoft 365 Copilot > Cover image](https://images.ctfassets.net/kftzwdyauwt9/3MPipvFMxS8m3kTyCtwFgj/015747dcd34cb667a221688cfca64e0f/Frame.png?w=3840&q=90&fm=webp)
+![OAI AdsTest Blog ArtCard 1x1](https://images.ctfassets.net/kftzwdyauwt9/7drPwCnD6ied4wPzlJd7qa/d79ccfda974080bbca7d688ad9bcbc6f/OAI_AdsTest_Blog_ArtCard_1x1.png?w=3840&q=90&fm=webp)
 
-[GPT-5.6 is now the preferred model in Microsoft 365 CopilotProductJul 9, 2026](</index/gpt-5-6-preferred-model-microsoft-365-copilot/>)
+[Testing ads in ChatGPTCompanyAug 11, 2026](</index/testing-ads-in-chatgpt/>)
 
 Research
 

@@ -721,7 +721,7 @@ The free version of ChatGPT is available to everyone. Paid plans (Go, Plus, Busi
 
 ### Is ChatGPT free to use?
 
-The free version of ChatGPT is available to everyone. Upgrading to Go, Plus, Business, or Enterprise offers a more powerful experience through additional features and access to GPT‑5.4.
+The free version of ChatGPT is available to everyone. Upgrading to Go, Plus, Business, or Enterprise offers a more powerful experience through more access to additional models and features.
 
 ### Does OpenAI offer a ChatGPT plan for educational institutions?
 

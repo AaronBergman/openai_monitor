@@ -46,6 +46,18 @@ Switch cards to show Media
 
 Switch cards to hide Media
 
+Company
+
+Jul 29, 2026
+
+[Accelerating scientific discovery with ChatGPT for Academic ResearchersOpenAI is giving 100,000 academic researchers free access to ChatGPT's most advanced AI models to accelerate scientific research, collaboration, and discovery.](</index/chatgpt-for-academic-researchers/>)
+
+Product
+
+Jul 9, 2026
+
+[GPT-5.6: Frontier intelligence that scales with your ambitionMore intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.](</index/gpt-5-6/>)
+
 Product
 
 Jul 8, 2026
@@ -88,18 +100,6 @@ May 5, 2026
 
 [GPT-5.5 Instant: smarter, clearer, and more personalizedGPT-5.5 Instant updates ChatGPT’s default model with smarter, more accurate answers, reduced hallucinations, and improved personalization controls.](</index/gpt-5-5-instant/>)
 
-Product
-
-Apr 23, 2026
-
-[Introducing GPT-5.5Introducing GPT-5.5, our smartest model yet—faster, more capable, and built for complex tasks like coding, research, and data analysis across tools.](</index/introducing-gpt-5-5/>)
-
-Research
-
-Apr 22, 2026
-
-[Introducing OpenAI Privacy FilterOpenAI Privacy Filter is an open-weight model for detecting and redacting personally identifiable information (PII) in text with state-of-the-art accuracy](</index/introducing-openai-privacy-filter/>)
-
 Load more
 
 Research
@@ -112,9 +112,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -186,6 +186,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)
