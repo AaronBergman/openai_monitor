@@ -36,7 +36,7 @@ Please note that we may provide the rights owner’s name, your email and the de
 
 ## Submit dispute
 
-Describe your relationship to the rights owner *
+Describe your relationship to the rights owner *
 
 I am the rights owner
 
@@ -44,41 +44,41 @@ I am reporting on behalf of my organization or client
 
 I am reporting on behalf of someone else.
 
-Please describe the copyrighted work that you claim has been infringed upon. *Example: Title of article, image or video, type of work, where it was originally published, etc. If possible, please provide URL(s) where an example of the copyrighted work can be viewed.
+Please describe the copyrighted work that you claim has been infringed upon. *Example: Title of article, image or video, type of work, where it was originally published, etc. If possible, please provide URL(s) where an example of the copyrighted work can be viewed.
 
-Are you notifying us regarding *
+Are you notifying us regarding *
 
 Material that is hosted on OpenAI’s platform, including a GPT
 
 Material that is accessible through a link or reference in ChatGPT search or Browse, or SearchGPT
 
-Please include a link/URL to the content *
+Please include a link/URL to the content *
 
 Add another URL
 
 Do you wish to provide any additional information that will help us understand your request?
 
-First name *
+First name *
 
-Last name *
+Last name *
 
-Email *
+Email *
 
-Street address *
+Street address *
 
-Phone number *
+Phone number *
 
-The name of the rights holder. Enter either your full name or the name of the organization you are authorized to represent. *
+The name of the rights holder. Enter either your full name or the name of the organization you are authorized to represent. *
 
-I have considered whether the use of copyrighted material identified in this notice may qualify as a fair use under relevant law, and concluded that it is not fair use. *
+I have considered whether the use of copyrighted material identified in this notice may qualify as a fair use under relevant law, and concluded that it is not fair use. *
 
 Yes
 
 No
 
-Electronic signature *
+Electronic signature *
 
-Declaration Statement *
+Declaration Statement *
 
 I confirm and certify that:
 

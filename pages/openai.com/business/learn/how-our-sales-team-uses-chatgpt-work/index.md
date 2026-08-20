@@ -34,13 +34,13 @@ See how our sales team starts each day with a complete view of the business, foc
 
 Fill out the form to watch the Sales webinar on demand.
 
-Work email *
+Work email *
 
-First name *
+First name *
 
-Last name *
+Last name *
 
-Company name *
+Company name *
 
 Watch the webinar
 

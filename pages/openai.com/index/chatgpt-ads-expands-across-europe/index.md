@@ -107,6 +107,10 @@ OpenAI
 
 [View all](</news/>)
 
+![Our commitment to Zero Data Retention as AI advances — card](https://images.ctfassets.net/kftzwdyauwt9/6bPStWA6pc66cahnhg0jo6/61786b178401b6e902e9da65fa4da095/Blog_Thumbnail_-_OpenAI_Blog.png?w=3840&q=90&fm=webp)
+
+[Offering Zero Data Retention for frontier modelsCompanyAug 19, 2026](</index/offering-zero-data-retention-for-frontier-models/>)
+
 ![Partnering with CodeAI — accessible card image](https://images.ctfassets.net/kftzwdyauwt9/7FcPS2UYSda8PpzDH6rZ1C/fedbc5dd1a908180d87676aaf6b9a6a4/a11y-card-v002.png?w=3840&q=90&fm=webp)
 
 [Partnering with CodeAI to prepare the first AI generationCompanyAug 18, 2026](</index/partnering-with-codeai/>)
@@ -114,10 +118,6 @@ OpenAI
 ![Pacing model development in an era of cyber-critical capabilities — Card image](https://images.ctfassets.net/kftzwdyauwt9/3tUOfo4E1xZComoOiRjHJm/51c532f25dd4062f92bff0e41ea00c3c/index-pacing-model-development-cyber-capabilities-dark-cover.png?w=3840&q=90&fm=webp)
 
 [Pacing model development in an era of cyber-critical capabilitiesCompanyAug 18, 2026](</index/pacing-model-development-cyber-capabilities/>)
-
-![ChatGPT for Teens — square card](https://images.ctfassets.net/kftzwdyauwt9/5IP7e1KeD8zkZq6YUrKdKW/2325215681ea59d32dd09b3ea90f12c5/Art_Card-TEENS-1x13x.png?w=3840&q=90&fm=webp)
-
-[Introducing ChatGPT for TeensProductAug 18, 2026](</index/chatgpt-for-teens/>)
 
 Research
 

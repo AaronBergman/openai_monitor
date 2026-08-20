@@ -43,41 +43,41 @@ Application and verification requirements:
 
 #### Primary point of contact (submitting individual)
 
-First name *
+First name *
 
-Last name *
+Last name *
 
-Title *
+Title *
 
-Department / Team *
+Department / Team *
 
-Work email address *
+Work email address *
 
-Phone number *
+Phone number *
 
 Additional point(s) of contact
 
 #### Organization identification
 
-Legal entity name *
+Legal entity name *
 
 Common name / DBA (if applicable)
 
-Public website *
+Public website *
 
-Please list all countries in which you (including your employees and any other related parties) intend to use Trusted Access: *
+Please list all countries in which you (including your employees and any other related parties) intend to use Trusted Access: *
 
-Does your organization already use ChatGPT or Codex for work? *
+Does your organization already use ChatGPT or Codex for work? *
 
 Yes
 
 No
 
-OpenAI Organization ID *
+OpenAI Organization ID *
 
-[_Find your organization ID here_ ⁠(opens in a new window)](<https://platform.openai.com/login?next=%2Fsettings%2Forganization%2Fgeneral>). If you do not have an existing OpenAI Organization ID, please select "N/A".
+[_Find your organization ID here_(opens in a new window)](<https://platform.openai.com/login?next=%2Fsettings%2Forganization%2Fgeneral>). If you do not have an existing OpenAI Organization ID, please select "N/A".
 
-Select where you would like to use Trusted Access: *Check all that apply
+Select where you would like to use Trusted Access: *Check all that apply
 
 Codex
 
@@ -87,11 +87,11 @@ API for Internal application with org-level end users
 
 API for Commercial application with external end users
 
-Why does your organization require Trusted Access? *
+Why does your organization require Trusted Access? *
 
 ##### Trusted Access for Biology Research Addendum
 
-These Trusted Access for Biology Research Terms (“Terms”), together with the intake responses and attestations submitted through the intake form at <https://www.openai.com/form/trusted-access-for-biology-research/>[⁠](<https://www.openai.com/form/trusted-access-for-biology-research/>) (the “Intake Form” and, collectively with the Terms, the “TAB Addendum”), are governed by and form part of the Agreement between OpenAI and the entity named below (“Customer”). “Agreement” means: (a) if Customer and OpenAI already have a signed agreement for the Services, then that agreement applies to Customer’s use of the Services; or (b) if Customer and OpenAI do not already have a signed agreement for the Services, then Customer’s use of the Services is subject to the OpenAI Services Agreement available at <https://openai.com/policies/services-agreement>[⁠](<https://openai.com/policies/services-agreement>). Capitalized terms not defined in this Amendment shall have the meanings ascribed to them in the Agreement.
+These Trusted Access for Biology Research Terms (“Terms”), together with the intake responses and attestations submitted through the intake form at <https://www.openai.com/form/trusted-access-for-biology-research/> (the “Intake Form” and, collectively with the Terms, the “TAB Addendum”), are governed by and form part of the Agreement between OpenAI and the entity named below (“Customer”). “Agreement” means: (a) if Customer and OpenAI already have a signed agreement for the Services, then that agreement applies to Customer’s use of the Services; or (b) if Customer and OpenAI do not already have a signed agreement for the Services, then Customer’s use of the Services is subject to the OpenAI Services Agreement available at <https://openai.com/policies/services-agreement>. Capitalized terms not defined in this Amendment shall have the meanings ascribed to them in the Agreement.
 
   1. _Scope_. These Terms govern Customer’s access to the Trusted Access Biology Program (the “Program”).
 
@@ -104,7 +104,7 @@ These Trusted Access for Biology Research Terms (“Terms”), together with the
 
 
 
-Select all that apply *
+Select all that apply *
 
 Customer will only permit Customer employees and contractors to access the Program and will not permit any third parties to access the Program.
 
@@ -120,9 +120,9 @@ Customer will maintain:
 
 6\.  _Indemnification_. Notwithstanding anything to the contrary in the Agreement, unless Customer is a government entity prohibited by law from agreeing to this Section, Customer will indemnify, defend, and hold OpenAI and its affiliates harmless against any liabilities, damages, and costs (including reasonable attorneys’ fees) payable to a third party arising out of any use of the Approved Access Credentials in violation of these Terms.
 
-7\.  _Modifications_. OpenAI may modify these Terms by providing Customer reasonable notice, including by posting the update at <https://www.openai.com/form/trusted-access-for-biology-research/>[⁠](<https://www.openai.com/form/trusted-access-for-biology-research/>). Changes are effective upon posting or notice unless otherwise stated. Customer’s continued use of the Program after the effective date constitutes acceptance. Changes apply prospectively only.
+7\.  _Modifications_. OpenAI may modify these Terms by providing Customer reasonable notice, including by posting the update at <https://www.openai.com/form/trusted-access-for-biology-research/>. Changes are effective upon posting or notice unless otherwise stated. Customer’s continued use of the Program after the effective date constitutes acceptance. Changes apply prospectively only.
 
-Final attestation *
+Final attestation *
 
 I certify that:
 
@@ -149,9 +149,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -223,6 +223,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

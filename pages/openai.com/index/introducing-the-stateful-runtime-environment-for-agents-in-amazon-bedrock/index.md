@@ -86,17 +86,17 @@ The runtime is designed to operate within customers’ AWS environment to easily
 
 The Stateful Runtime in Amazon Bedrock will be available soon. If you want to explore how this will benefit your AI journey, reach out to your OpenAI team or request to be contacted.
 
-First name *
+First name *
 
-Last name *
+Last name *
 
-Email *
+Email *
 
-Phone number *
+Phone number *
 
-Company name *
+Company name *
 
-Company size *
+Company size *
 
 Select an option1-5051-250251-500501-1,0001,001-5,0005,001-10,00010,001-20,00020,001+
 
@@ -119,17 +119,17 @@ OpenAI
 
 [View all](</news/>)
 
-![Dali Rajic > Article card](https://images.ctfassets.net/kftzwdyauwt9/5XuPL3BI8tkye6ojCL91Kc/74884b051d5c1a553cae8d3b952c79fe/dali-rajic-article-card-square-crop-v3.png?w=3840&q=90&fm=webp)
+![Our commitment to Zero Data Retention as AI advances — card](https://images.ctfassets.net/kftzwdyauwt9/6bPStWA6pc66cahnhg0jo6/61786b178401b6e902e9da65fa4da095/Blog_Thumbnail_-_OpenAI_Blog.png?w=3840&q=90&fm=webp)
 
-[OpenAI appoints Dali Rajic as Chief Revenue OfficerCompanyAug 13, 2026](</index/dali-rajic-chief-revenue-officer/>)
+[Offering Zero Data Retention for frontier modelsCompanyAug 19, 2026](</index/offering-zero-data-retention-for-frontier-models/>)
 
-![From assistance to execution: How enterprises put AI to work > Cover image](https://images.ctfassets.net/kftzwdyauwt9/2iQBiqMQEsAlEMnWTgmkaM/ea72c00d0563d60b861c17fffc548d31/Frame.png?w=3840&q=90&fm=webp)
+![ChatGPT Ads expands across Europe - Card image](https://images.ctfassets.net/kftzwdyauwt9/IMh9E5WMDoVaUJyBJrsEP/697ba885d5e89b6bd27a55b9c9a783ae/chatgpt-ads-europe-readable-card.png?w=3840&q=90&fm=webp)
 
-[How enterprises put AI to workCompanyAug 12, 2026](</index/how-enterprises-put-ai-to-work/>)
+[ChatGPT Ads expands across EuropeProductAug 18, 2026](</index/chatgpt-ads-expands-across-europe/>)
 
-![OAI AdsTest Blog ArtCard 1x1](https://images.ctfassets.net/kftzwdyauwt9/7drPwCnD6ied4wPzlJd7qa/d79ccfda974080bbca7d688ad9bcbc6f/OAI_AdsTest_Blog_ArtCard_1x1.png?w=3840&q=90&fm=webp)
+![Partnering with CodeAI — accessible card image](https://images.ctfassets.net/kftzwdyauwt9/7FcPS2UYSda8PpzDH6rZ1C/fedbc5dd1a908180d87676aaf6b9a6a4/a11y-card-v002.png?w=3840&q=90&fm=webp)
 
-[Testing ads in ChatGPTCompanyAug 11, 2026](</index/testing-ads-in-chatgpt/>)
+[Partnering with CodeAI to prepare the first AI generationCompanyAug 18, 2026](</index/partnering-with-codeai/>)
 
 Research
 

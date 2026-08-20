@@ -195,17 +195,17 @@ More than 1 million businesses around the world are achieving meaningful results
 
 ## Keep reading
 
-![The builder’s guide to GPT-5.6 — Card image — Neutral Option 075](https://images.ctfassets.net/kftzwdyauwt9/4jmIFt2vH2c51Fj99rAiqH/bf22866b22d59f6230785fe304fee20c/the-builders-guide-to-gpt-5-6-option-075-card.png?w=3840&q=90&fm=webp)
+![Our commitment to Zero Data Retention as AI advances — card](https://images.ctfassets.net/kftzwdyauwt9/6bPStWA6pc66cahnhg0jo6/61786b178401b6e902e9da65fa4da095/Blog_Thumbnail_-_OpenAI_Blog.png?w=3840&q=90&fm=webp)
 
-[The builder’s guide to GPT‑5.6Applied AIAug 13, 2026](</index/builders-guide-to-gpt-5-6/>)
+[Offering Zero Data Retention for frontier modelsCompanyAug 19, 2026](</index/offering-zero-data-retention-for-frontier-models/>)
 
-![Previewing Ultrafast mode — clean cover](https://images.ctfassets.net/kftzwdyauwt9/74UiHrTiZoKnbvpopDTG1s/d33291d426eac29a4a5c0563e717376d/previewing-ultrafast-mode--cover-1080x1080-v001.png?w=3840&q=90&fm=webp)
+![replit-customer-story-art-card-1x1](https://images.ctfassets.net/kftzwdyauwt9/2ZUd2sTOK6p4MrjDZnvCoM/512b38a71cf26f09c3cda3c51169c401/replit-customer-story-art-card-1x1.png?w=3840&q=90&fm=webp)
 
-[Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speedProductAug 13, 2026](</index/previewing-ultrafast/>)
+[Replit expands access to software creation with GPT-5.6 LunaStartupAug 19, 2026](</index/replit/>)
 
-![Dali Rajic > Article card](https://images.ctfassets.net/kftzwdyauwt9/5XuPL3BI8tkye6ojCL91Kc/74884b051d5c1a553cae8d3b952c79fe/dali-rajic-article-card-square-crop-v3.png?w=3840&q=90&fm=webp)
+![ChatGPT Ads expands across Europe - Card image](https://images.ctfassets.net/kftzwdyauwt9/IMh9E5WMDoVaUJyBJrsEP/697ba885d5e89b6bd27a55b9c9a783ae/chatgpt-ads-europe-readable-card.png?w=3840&q=90&fm=webp)
 
-[OpenAI appoints Dali Rajic as Chief Revenue OfficerCompanyAug 13, 2026](</index/dali-rajic-chief-revenue-officer/>)
+[ChatGPT Ads expands across EuropeProductAug 18, 2026](</index/chatgpt-ads-expands-across-europe/>)
 
 Research
 

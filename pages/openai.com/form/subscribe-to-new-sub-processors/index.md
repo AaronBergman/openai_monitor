@@ -30,13 +30,13 @@ OpenAI
 
 Sign up to receive the most up-to-date information regarding our [Sub-processor List](</policies/sub-processor-list/>).
 
-First name *
+First name *
 
-Last name *
+Last name *
 
-Email *
+Email *
 
-Company name *
+Company name *
 
 Submit
 

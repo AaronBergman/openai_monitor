@@ -48,11 +48,11 @@ The details of our methodology can be found in the attached [data dictionary⁠(
 
 If you’re interested in learning more about OpenAI's Economic Research work and future updates to this dataset, please sign up below.
 
-First name *
+First name *
 
-Last name *
+Last name *
 
-Email *
+Email *
 
 Sign up
 

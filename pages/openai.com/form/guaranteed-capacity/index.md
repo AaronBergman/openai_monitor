@@ -39,19 +39,19 @@ Work with the OpenAI team to evaluate:
 
 
 
-First name *
+First name *
 
-Last name *
+Last name *
 
-Work email address *
+Work email address *
 
-Company name *
+Company name *
 
-Company size *
+Company size *
 
 Please select1-5051-250251-500501-1,0001,001-5,0005,001-10,00010,001-20,00020,001+
 
-Are you currently an OpenAI customer? *
+Are you currently an OpenAI customer? *
 
 Yes
 
@@ -61,7 +61,7 @@ In evaluation
 
 Not sure
 
-What primary workload would use Guaranteed Capacity? *
+What primary workload would use Guaranteed Capacity? *
 
 API production environment
 
@@ -75,7 +75,7 @@ Not sure
 
 Other
 
-What endpoint or data residency do you require? *
+What endpoint or data residency do you require? *
 
 US
 
@@ -99,7 +99,7 @@ Other Global endpoint
 
 Not sure
 
-Estimated monthly usage in USD *
+Estimated monthly usage in USD *
 
 Can you share more about your business needs and challenges?
 

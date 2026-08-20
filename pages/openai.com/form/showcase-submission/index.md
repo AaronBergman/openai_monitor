@@ -36,45 +36,45 @@ If you’ve built something using OpenAI models — whether it’s a polished pr
 
 #### About you
 
-First name *
+First name *
 
-Last name *
+Last name *
 
-Email *
+Email *
 
 WebsiteCould be a personal website or social profile.
 
 #### About the project
 
-What type of project are you submitting? *(e.g., landing page, SaaS, game, other)
+What type of project are you submitting? *(e.g., landing page, SaaS, game, other)
 
-Did you use Codex to build this? *
-
-Select an optionYesNo
-
-Did you use another coding agent to build this? *
+Did you use Codex to build this? *
 
 Select an optionYesNo
 
-What is the tech stack used in the project? *(e.g. NextJS, React + Fast API, Streamlit, etc.)
+Did you use another coding agent to build this? *
 
-List use cases showcased in your project *(e.g. customer service, education, finance, etc. or N/A)
+Select an optionYesNo
+
+What is the tech stack used in the project? *(e.g. NextJS, React + Fast API, Streamlit, etc.)
+
+List use cases showcased in your project *(e.g. customer service, education, finance, etc. or N/A)
 
 Maximum 255 characters.
 
-Which capability are you showcasing? *(e.g. Realtime Speech-to-speech, Image Generation, Structured Outputs, etc. or N/A)
+Which capability are you showcasing? *(e.g. Realtime Speech-to-speech, Image Generation, Structured Outputs, etc. or N/A)
 
 Maximum 1000 characters.
 
-Which OpenAI models and APIs are you using in your project? *(e.g. Realtime API, Image Generation API with gpt-image-1.5, Responses API with GPT-5.4 and web search, etc. or N/A)
+Which OpenAI models and APIs are you using in your project? *(e.g. Realtime API, Image Generation API with gpt-image-1.5, Responses API with GPT‑5.4 and web search, etc. or N/A)
 
 Maximum 500 characters.
 
-Are you using other models or APIs in your project? If yes, please specify which ones. *
+Are you using other models or APIs in your project? If yes, please specify which ones. *
 
 Maximum 255 characters.
 
-Please describe the building process for this project, and if you used coding agents explain how you used them to get to the final version. *
+Please describe the building process for this project, and if you used coding agents explain how you used them to get to the final version. *
 
 Maximum 500 characters.
 
@@ -84,27 +84,27 @@ What is the public GitHub repository where users can explore your project’s co
 
 What is the hosted URL where users can try your project?Optional, only if you want users to try your project without any setup. Please keep in mind that this might incur usage costs. If you don’t provide a hosted URL, please provide a GitHub repository.
 
-What are the setup steps to run or try your project? *
+What are the setup steps to run or try your project? *
 
 Maximum 500 characters.
 
-What is the title of your project? *This will be displayed on the showcase gallery overview page. Please provide a short, descriptive title that describes your project’s main use case. Do not include any details about the tech stack or technology used in this title.
+What is the title of your project? *This will be displayed on the showcase gallery overview page. Please provide a short, descriptive title that describes your project’s main use case. Do not include any details about the tech stack or technology used in this title.
 
 Maximum 255 characters.
 
-What is your project’s tagline? *This will be displayed on your project page. Please keep it short, 1-2 sentences maximum.
+What is your project’s tagline? *This will be displayed on your project page. Please keep it short, 1-2 sentences maximum.
 
 Maximum 255 characters.
 
-What is your project description? *This will be displayed on your project page. You can include more details in this description and provide 1-3 paragraphs.
+What is your project description? *This will be displayed on your project page. You can include more details in this description and provide 1-3 paragraphs.
 
 Maximum 1000 characters.
 
-What name(s) should we display as the author(s) of the project? *This will be displayed on your project page. It could be the name of your company, the name you use on social media, or your real name.
+What name(s) should we display as the author(s) of the project? *This will be displayed on your project page. It could be the name of your company, the name you use on social media, or your real name.
 
 Maximum 500 characters.
 
-Please provide a public link to a cover image for your project. *Will be displayed on your project page. It should be a clear screenshot of your app or a visual that represents the most important part of your project. By submitting this url you confirm you are the owner or have obtained permission to use this image.
+Please provide a public link to a cover image for your project. *Will be displayed on your project page. It should be a clear screenshot of your app or a visual that represents the most important part of your project. By submitting this url you confirm you are the owner or have obtained permission to use this image.
 
 #### Terms & Conditions
 
@@ -118,7 +118,7 @@ This OpenAI Showcase Gallery Program Agreement (the “Agreement”) is between 
 
 (d) Removal. You acknowledge that we have no obligation to publish your Showcase Content or make your Showcase Content available to other users. We may reject or remove any Showcase Content from our Services at any time for any reason without notice to you, such as for legal or security reasons or if your Showcase Content violates the Terms or this Agreement.
 
-Attestation *
+Attestation *
 
 By checking this box, I understand and agree to the OpenAI Showcase Gallery Program Agreement above.
 

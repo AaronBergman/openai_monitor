@@ -26,14 +26,6 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 OpenAI
 
-Webinar
-
-### Join us August 18, 2026 at 9:30 AM PT
-
-to see how OpenAI's Business Operations team uses ChatGPT Work to surface risks and prepare leadership-ready weekly reviews.
-
-[Register now(opens in a new window)](<https://webinar.openai.com/chatgpt-work-series/business-operations/?utm_medium=website&utm_campaign=WBR-chatgpt-work-series-business-operations-banner>)
-
 # AI for your operations team's most ambitious work
 
 ChatGPT Work pulls project updates from across your systems, surfaces risks and next steps, and keeps weekly reviews current, so operations teams spend less time chasing information and more time moving priorities forward.
@@ -42,7 +34,7 @@ ChatGPT Work pulls project updates from across your systems, surfaces risks and 
 
 ## Work across your operations tools and customer context
 
-Add plugins to extend what ChatGPT Work can do. Plugins connect ChatGPT Work to tools like SharePoint, Slack, and Google Drive so you can bring project context together. Use OpenAI’s Data Analytics plugin to analyze operational data and turn updates into clear next steps.
+Add plugins to extend what ChatGPT Work can do. Plugins connect ChatGPT Work to tools like SharePoint, Slack, and Google Drive so you can bring project context together. Use OpenAI’s Data plugin to analyze operational data and turn updates into clear next steps.
 
   * [DataBuilt by OpenAI](</business/plugins/data-analytics/>)
   * [SharePoint](</business/plugins/microsoft-sharepoint/>)

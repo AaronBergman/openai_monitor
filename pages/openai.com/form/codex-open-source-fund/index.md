@@ -34,11 +34,11 @@ If you’re interested in participating, please fill out the form below.
 
 Let’s start with your details
 
-First name *
+First name *
 
-Last name *
+Last name *
 
-Email address *
+Email address *
 
 LinkedIn URL
 
@@ -48,15 +48,15 @@ Is there anything else you’d like us to know?
 
 Tell us about your project
 
-Which open source project are you representing? *
+Which open source project are you representing? *
 
-Brief description of the project *
+Brief description of the project *
 
 GitHub repository
 
 If there are other people working with you on this project, please list their names here, and what role they will play in the project
 
-How would you use API credits for your project? *
+How would you use API credits for your project? *
 
 Submit
 

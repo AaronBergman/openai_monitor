@@ -34,23 +34,23 @@ First name
 
 Last name
 
-Contact email *
+Contact email *
 
-Please select the service that your complaint relates to: *
+Please select the service that your complaint relates to: *
 
 ChatGPT Search
 
-What are you complaining about? *
+What are you complaining about? *
 
 Please select an optionDuties relating to:Illegal content present on the serviceContent harmful to children on the serviceContent reporting processesFreedom of expression or privacyAge assessment on my accountContent moderation action taken as a result of:OpenAI’s compliance with duties relating to illegal or harmful content on the serviceOpenAI’s use of proactive technology to moderate content in a way that is not compliant with its terms
 
-Please provide details of your complaint. *Your assistance helps us improve our services. Please provide us with specific information relating to your complaint. Without enough information, we may not be able to act on your report.
+Please provide details of your complaint. *Your assistance helps us improve our services. Please provide us with specific information relating to your complaint. Without enough information, we may not be able to act on your report.
 
 Communication preference
 
 I do not want to receive any information about my complaint and opt out of all communications about this complaint.
 
-Confirmation *
+Confirmation *
 
 I confirm that the information I have provided is accurate to the best of my knowledge.
 

@@ -1,6 +1,49 @@
 # openai_monitor
 
 
+## 2026-08-20 — Run `2026-08-20T09-15Z`
+
+**Fetch time:** 2026-08-20T09:18:05Z UTC | **Baseline:** 2026-08-19T09-16Z (consecutive day)
+
+**TL;DR:** A quiet day with two real items and a lot of noise underneath. OpenAI published a new post previewing **Private Safety Processing** — a system meant to let its automated safety monitoring spot risk patterns *across multiple related interactions* while keeping content encrypted and inaccessible to OpenAI staff, designed to preserve Zero Data Retention commitments as agentic tasks get longer; broader rollout and a technical white paper are promised for September. Separately, OpenAI quietly rewrote its **Ad Tools Data Processing Addendum**, splitting international data-transfer handling so EEA/Swiss data is now processed by OpenAI Ireland Limited while UK data gets its own dedicated "UK SCCs" framework under OpenAI OpCo, LLC — a real legal/compliance restructuring, not a copyedit. The `/api/` landing page's top call-to-action flipped back from "Start building" to **"Try ChatGPT"** (it had flipped the other way just two days ago on 2026-08-18 — looks like an ongoing A/B test rather than a settled decision). A themed **motorsport merch drop** (diecast car, pit-crew shirt, trackside hat, race pins) landed on the new "Supply Co." storefront, and Replit announced a free tier powered by GPT-5.6 Luna. Everything else — the bulk of the day's 147 "updated" pages — was carousel refreshes, continued nav/footer propagation, or invisible Unicode whitespace cleanup on form pages.
+
+### Anomalies
+
+None. No future-dated or backwards-moving `<lastmod>` values, no backdated new URLs, no disappeared-then-reappeared URLs, no sub-sitemap category migrations.
+
+### Notable updates
+
+- **Ad Tools DPA rewritten for UK vs. EEA/Swiss data transfers.** [`/policies/ad-tools-dpa/`](pages/openai.com/policies/ad-tools-dpa/index.md) — effective date bumped **June 12 → August 19, 2026**. EEA/Swiss Data now Processed by **OpenAI Ireland Limited**; UK Data gets its own **"UK SCCs"** framework under **OpenAI OpCo, LLC** (replacing the old EU-SCCs-plus-UK-Addendum approach), with the UK Information Commissioner's Office named as supervisory authority. A real compliance restructuring, likely tied to evolving post-Brexit transfer-mechanism rules.
+- **`/api/` CTA flips back to "Try ChatGPT".** [`/api/`](pages/openai.com/api/index.md) — top nav/header CTA changed from "Start building" (→ `platform.openai.com`) to "Try ChatGPT" (→ `chatgpt.com`); a "Learn more" link near the agent-platform section now points to external docs (`developers.openai.com`) instead of the internal `/agent-platform/` page. This CTA has now flipped twice in three days (Try ChatGPT → Start building on 8/18 → Try ChatGPT today), suggesting an active A/B test on the developer landing page rather than a final decision.
+- **"Data Analytics" plugin renamed to "Data".** [`/business/solutions/finance/`](pages/openai.com/business/solutions/finance/index.md), [`/marketing/`](pages/openai.com/business/solutions/marketing/index.md), and [`/operations/`](pages/openai.com/business/solutions/operations/index.md) all changed "Data Analytics plugin" references to simply "Data plugin" — a small, consistent naming change across three ChatGPT Work solution pages in one day.
+- **New Codex-focused iOS release.** [`/products/release-notes/`](pages/openai.com/products/release-notes/index.md) — Aug 18 entry adds a setting to open ChatGPT directly into **Codex Remote**, support for standard MCP forms, and various reliability fixes.
+
+### Routine, low-signal updates
+
+Four sitewide/template patterns explain the overwhelming majority of the 147 lastmod-updated URLs, verified by diffing every changed page's markdown against yesterday's snapshot:
+1. **"Keep reading" carousel refresh (~50 pages):** bottom-of-page card carousels rotated in the day's new posts (Zero Data Retention, Replit, ChatGPT Ads Europe, ChatGPT for Teens) in place of older cards — expected daily churn, not an edit to the hosting page.
+2. **Global nav/footer refresh, continuing from 2026-08-19 (~15 pages):** nav's "Latest Advancements" link now includes **GPT-5.6**; footer gained **Customer Stories**, **Partner Network**, **Supply Co.** links — still propagating to pages that hadn't re-rendered yesterday.
+3. **Invisible-Unicode cleanup on `/form/*` pages (~32 pages):** non-breaking spaces, non-breaking hyphens, and word-joiner characters normalized to plain ASCII around "(opens in a new window)" links and hyphenated terms — zero visible/textual change, likely a CMS re-save pass.
+4. **Deploy-ID cache-buster churn (58 pages):** only a `dpl_...` query string changed on partner-badge or similar asset URLs — zero visible change.
+
+`/policies/data-processing-addendum/` was checked line-by-line and had no substantive text change, only the nav/footer noise above.
+
+### New pages
+
+- **[Offering Zero Data Retention for frontier models](pages/openai.com/index/offering-zero-data-retention-for-frontier-models/index.md)** (Company/Safety) — previews **Private Safety Processing**, a system for detecting safety risks across multiple related interactions without exposing customer content to OpenAI staff; early customers include Glean, Databricks, Abridge, and Microsoft. Broader rollout and a technical white paper planned for September 2026.
+- **[Replit expands access to software creation with GPT‑5.6 Luna](pages/openai.com/index/replit/index.md)** (Startup) — Replit's new "Free Mode" lets anyone build software without worrying about token costs.
+- **7 new "Supply Co." merch pages**, all sharing a motorsport theme: [`26-openai-1-64-car`](pages/openai.com/supply/product/26-openai-1-64-car/index.md) ('26 OpenAI 1:64 diecast car), [`pit-crew-shirt`](pages/openai.com/supply/product/pit-crew-shirt/index.md), [`trackside-hat`](pages/openai.com/supply/product/trackside-hat/index.md), [`r-d-co-race-pin-pack`](pages/openai.com/supply/product/r-d-co-race-pin-pack/index.md), [`decal-hoodie`](pages/openai.com/supply/product/decal-hoodie/index.md), [`bumper-sticker-pack`](pages/openai.com/supply/product/bumper-sticker-pack/index.md), and [`air-freshener`](pages/openai.com/supply/product/air-freshener/index.md).
+
+### Removals
+
+None this run.
+
+**Stats:** 1,601 total URLs | +9 added | 147 updated | -0 removed | 0 anomalies | 35 sub-sitemaps
+
+Full analysis: [runs/2026-08-20T09-15Z/analysis.md](runs/2026-08-20T09-15Z/analysis.md)
+
+---
+
 ## 2026-08-19 — Run `2026-08-19T09-16Z`
 
 **Fetch time:** 2026-08-19T09:16:53Z UTC | **Baseline:** 2026-08-18T09-16Z (consecutive day)

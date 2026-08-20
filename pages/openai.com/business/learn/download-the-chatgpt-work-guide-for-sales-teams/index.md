@@ -32,13 +32,13 @@ Read the guide to explore three connected workflows OpenAI’s Sales team uses t
 
 Complete the form to download the guide.
 
-Work email *
+Work email *
 
-First name *
+First name *
 
-Last name *
+Last name *
 
-Company name *
+Company name *
 
 Download the guide
 

@@ -32,39 +32,39 @@ Get OpenAI API credits, Codex access, prizes, materials, and expert support – 
 
 #### Organizer Information
 
-Organizer / Organization Name *
+Organizer / Organization Name *
 
 Organization website
 
-Primary contact first name *
+Primary contact first name *
 
-Primary contact last name *
+Primary contact last name *
 
-Business email *
+Business email *
 
 #### About the Hackathon
 
-Event name *
+Event name *
 
-Describe your hackathon in detail *Tell us about your theme, target audience, format, agenda, mentorship plan, judging structure, expected outcomes.
+Describe your hackathon in detail *Tell us about your theme, target audience, format, agenda, mentorship plan, judging structure, expected outcomes.
 
 Maximum 1000 characters.
 
 Event website
 
-Event Start Date *
+Event Start Date *
 
-Event End Date *
+Event End Date *
 
-Event Format *
+Event Format *
 
 Select an optionIn-Person or HybridRemote
 
-Expected Number of Participants *
+Expected Number of Participants *
 
 #### Support Requested
 
-What support are you requesting? *Select all that apply.
+What support are you requesting? *Select all that apply.
 
 Codex access for participants
 

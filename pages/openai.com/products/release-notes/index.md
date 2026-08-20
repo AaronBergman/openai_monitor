@@ -41,6 +41,50 @@ Filter
 
 Sort
 
+Codex
+
+Aug 18, 2026
+
+GA
+
+## ChatGPT for iOS updates: Codex Remote, MCP forms, and task reliability
+
+### New features
+
+  * Added a setting to open ChatGPT directly in Codex Remote on launch.
+
+  * Added support for standard MCP forms and editable Messages approvals.
+
+  * Linked folders now open directly in Files.
+
+
+
+
+### Improvements and bug fixes
+
+  * Improved the New Thread project picker to reflect the selected host’s current projects.
+
+  * Voice now works directly from existing task composers, connects more reliably, and continues task actions in the background.
+
+  * Improved diff review stability and performance, especially in large workspaces.
+
+  * Added a Retry action when task messages fail to load.
+
+  * Fixed large task responses failing to load.
+
+  * Fixed tasks disappearing or remaining unavailable after being idle, reconnecting, or returning to the task list.
+
+  * Improved host pairing reliability and prevented enrollment checks from freezing the app.
+
+  * Improved response annotations and preserved streamed activity when tasks complete.
+
+  * Canceling or editing a steering message now prevents delivery.
+
+
+
+
+[View source(opens in a new window)](<https://learn.chatgpt.com/docs/changelog#codex-2026-08-18>)
+
 ChatGPT
 
 Aug 14, 2026
@@ -98,18 +142,6 @@ Workspace owners and admins can configure the starting Chat model and reasoning 
 The ChatGPT Desktop app should be upgraded to version 26.812.10818 or later for the new controls to take effect.
 
 [View source(opens in a new window)](<https://help.openai.com/en/articles/10128477-chatgpt-enterprise-edu-release-notes#chat-model-defaults>)
-
-ChatGPT
-
-Aug 13, 2026
-
-GA
-
-## Updated model picker for Enterprise and Edu
-
-Members in the Enterprise/Edu workspaces have updated model-picker and composer experience. The picker makes the available intelligence choices easier to compare while preserving workspace model availability and access controls.
-
-[View source(opens in a new window)](<https://help.openai.com/en/articles/10128477-chatgpt-enterprise-edu-release-notes#updated-model-picker-for-enterprise-and-edu>)
 
 Load more
 

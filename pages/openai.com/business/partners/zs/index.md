@@ -46,7 +46,7 @@ Our core differentiators include:
 
 • Solutions that work: It‘s about results, not just ideas, so ZS doesn’t stop until the solution works for our clients
 
-![Select Partner](/images/partner-tier-badges/OAI_PartnerNetwork_SelectPartner.svg?dpl=dpl_BFRp6Lb32rZA9Qj7UuvSPYcKthAX)
+![Select Partner](/images/partner-tier-badges/OAI_PartnerNetwork_SelectPartner.svg?dpl=dpl_93RPSLao5f8Pi59ntWHqT47k9mhr)
 
 Countries served
     Global

@@ -32,21 +32,21 @@ Share
 
 OpenAI, and our strategic partners, are thrilled about our shared vision for new AI infrastructure in the United States. We are energized by the challenges we face and are excited by the prospect of partnering with firms across the industrial base to deliver against our ambitious mission. Specifically, we want to connect with firms **across the built data center infrastructure landscape** , from power and land to construction to equipment, and everything in between. 
 
-Company type *
+Company type *
 
 Select company typeLand, power, and data center realty firmsData center providers and EPCsData center engineers (EoRs) and general contractors (GCs)Equipment suppliers for mechanical, electrical, and connectivityData center operatorsRenewable energy and sustainability firmsCommunity engagement organizationsOther
 
-Company name *
+Company name *
 
-Core company product *
+Core company product *
 
 Details on company product
 
-What is your interest in working with OpenAI? *
+What is your interest in working with OpenAI? *
 
-Business email *
+Business email *
 
-Phone number *
+Phone number *
 
 Submit
 
@@ -60,9 +60,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -99,6 +99,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -132,6 +134,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

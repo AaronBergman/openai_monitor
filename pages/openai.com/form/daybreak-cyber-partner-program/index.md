@@ -36,19 +36,19 @@ Complete the form to tell us how your organization would like to partner with Op
 
 Share the customer need, proposed use case, and capabilities you hope to build or deliver. We will use this information to assess potential fit for a future phase of the Daybreak Cyber Partner Program. Submitting interest does not guarantee participation or access.
 
-Company name *
+Company name *
 
-Company size *
+Company size *
 
 Select an option1-5051-250251-500501-1,0001,001-5,0005,001-10,00010,001-20,00020,001+
 
-First name *
+First name *
 
-Last name *
+Last name *
 
-Work email address *
+Work email address *
 
-Phone number *
+Phone number *
 
 Briefly describe your proposed partnership and how you would like to work with the Daybreak program.500 characters max
 

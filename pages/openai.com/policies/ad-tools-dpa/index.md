@@ -30,11 +30,11 @@ Select language
 
 …
 
-Effective: June 12, 2026
+Effective: August 19, 2026
 
 # OpenAI Ad Tools Data Processing Addendum
 
-This OpenAI Ad Tools Data Processing Addendum (“ _Ad Tools DPA_ ”) supplements and is incorporated into the Ad Tools Terms and is entered into as of the effective date between the organization agreeing to these terms (“ _Customer_ ” or “ _you_ ”) and the OpenAI entity that is a party to the Ad Tools Terms (“ _OpenAI_ ”). OpenAI and Customer are each a “ _Party_ ” and collectively the “ _Parties_ ”. Capitalized terms not defined here have the meanings given in the Ad Tools Terms. By using or enabling the Covered Ad Tools, you agree to this Ad Tools DPA and represent that you have authority to bind the applicable entity.
+This OpenAI Ad Tools Data Processing Addendum (“ _Ad Tools DPA_ ”) supplements the Agreement governing Customer’s use of the Covered Ad Tools and is between the organization agreeing to these terms (“ _Customer_ ” or “ _you_ ”) and the OpenAI entity party to the Agreement (“ _OpenAI_ ”). This Ad Tools DPA forms part of the Agreement and is effective upon incorporation by reference or, if separately signed, on the date of the last signature. OpenAI and Customer are each a “ _Party_ ” and collectively the “ _Parties_ ”. Capitalized terms not defined here have the meanings given first in the Ad Tools Terms and otherwise in the Advertising Terms. By using or enabling the Covered Ad Tools, you agree to this Ad Tools DPA and represent that you have authority to bind the applicable entity.
 
 ## 1\. Independent Controller Processing
 
@@ -59,21 +59,24 @@ This OpenAI Ad Tools Data Processing Addendum (“ _Ad Tools DPA_ ”) supplemen
 ## 3\. International Data Transfers
 
   * 3.1. _General_. Each Party will comply with Data Protection Laws applicable to its international transfers of Personal Data under this Ad Tools DPA.
-  * 3.2. _Independent Controller Processing_. For Personal Data Processed under Section 1, to the extent Customer transfers Personal Data to OpenAI in a jurisdiction that does not provide an adequate level of protection under applicable Data Protection Laws, the Parties will rely on Module One of the SCCs, unless another valid transfer mechanism applies.
-  * 3.3. _Restricted Processing_. For Restricted Processing, international transfers are governed by the Processor DPA in accordance with Section 2. 
-  * 3.4. _UK and Switzerland_. For transfers of Personal Data subject to UK Data Protection Laws, the UK Addendum applies to the SCCs. For transfers of Personal Data subject to Swiss Data Protection Laws, the SCCs will apply with the modifications required by Swiss Data Protection Laws.
+  * 3.2. _EEA and Swiss Data_. Regardless of the OpenAI entity party to the Agreement, OpenAI Ireland Limited will Process EEA and Swiss Data under this Ad Tools DPA. OpenAI Ireland Limited will use a valid transfer mechanism for onward transfers to jurisdictions that do not provide an adequate level of protection.
+  * 3.3. _UK Data_. Regardless of the OpenAI entity party to the Agreement, OpenAI OpCo, LLC will Process UK Data under this Ad Tools DPA. For Independent Controller Processing, the UK SCCs are incorporated into this Ad Tools DPA and completed as set forth in Schedule 1.
 
 
 
 ## 4\. Conflicts
 
-In the event of a conflict between the SCCs, the Ad Tools Terms, and this Ad Tools DPA, the following order of precedence will apply: (a) the SCCs, (b) this Ad Tools DPA, and (c) the Ad Tools Terms.
+In the event of a conflict regarding the Processing of Personal Data, the following order of precedence applies: (a) the UK SCCs, (b) this Ad Tools DPA, (c) the Ad Tools Terms, and (d) the Advertising Terms.
 
 ## 5\. Definitions
 
-“ _Ad Tools Sub-Processor List_ ” means the list available at [_https://openai.com/policies/ad-tools-subprocessors_ ⁠](<https://openai.com/policies/conversion-subprocessors>).
+“ _Ad Tools Sub-Processor List_ ” means the list available at [_https://openai.com/policies/ad-tools-subprocessors_](</policies/ad-tools-subprocessors/>). 
 
-“ _Ad Tools Terms_ ” means OpenAI’s Ad Tools Terms available at [https://openai.com/policies/ad-tools-terms⁠](<https://openai.com/policies/ad-tools-terms>).
+“ _Ad Tools Terms_ ” means OpenAI’s Ad Tools Terms available at [_https://openai.com/policies/ad-tools-terms_](</policies/ad-tools-terms/>).
+
+“ _Advertising Terms_ ” means OpenAI’s Advertising Terms available at [_https://openai.com/policies/advertising-terms_](</policies/advertising-terms/>) or, if applicable, another written agreement between the Parties governing the Advertising Services.
+
+“ _Agreement_ ” means the Advertising Terms and the Ad Tools Terms. 
 
 “ _Covered Ad Tools_ ” means the Conversion Tools, Audience Tools, and any other Ad Tool for which OpenAI expressly states that this Ad Tools DPA applies.
 
@@ -81,7 +84,9 @@ In the event of a conflict between the SCCs, the Ad Tools Terms, and this Ad Too
 
 “ _Data Subject Request_ ” means a request from a Data Subject to exercise rights under Data Protection Laws with respect to Personal Data. 
 
-“ _Processor DPA_ ” means OpenAI’s Data Processing Addendum available at [_https://openai.com/policies/data-processing-addendum/_ ⁠](<https://openai.com/policies/data-processing-addendum/>). 
+“ _EEA and Swiss Data_ ” means Personal Data subject to the applicable Data Protection Laws of the EEA or Switzerland.
+
+“ _Processor DPA_ ” means OpenAI’s Data Processing Addendum available at [_https://openai.com/policies/data-processing-addendum/_](</policies/data-processing-addendum/>).
 
 “ _Prohibited Data”_ has the meaning given in the Ad Tools Terms. 
 
@@ -89,38 +94,34 @@ In the event of a conflict between the SCCs, the Ad Tools Terms, and this Ad Too
 
 “ _Restricted Processing_ ” means Processing of Personal Data through the Covered Ad Tools for the following purposes: (a) matching Audience Data through the Audience Tools to determine whether records in Audience Data correspond to OpenAI users, identifiers, or other eligible records for use with the Advertising Services; or (b) Processing Personal Data through the Covered Ad Tools where you provide the Personal Data with an opt-out flag based on an opt-out choice made by the individual and the Personal Data relates to an individual located in a Restricted Jurisdiction. 
 
-“ _SCCs_ ” means the standard contractual clauses for the transfer of personal data to third countries adopted by the EU Commission on 4 June 2021 (as may be amended, updated or replaced from time to time). 
-
 “ _Security Incident_ ” means a breach of security resulting in the accidental or unlawful destruction, loss, alteration, unauthorized disclosure of, or access to Personal Data Processed under this Ad Tools DPA.
 
-“ _Swiss Data Protection Laws_ ” means all data protection and privacy laws applicable to the Processing of Personal Data in Switzerland, including the Swiss Federal Act on Data Protection and its implementing ordinances, each as amended, superseded, or replaced from time to time.
+“ _UK Data_ ” means Personal Data subject to the applicable Data Protection Laws of the United Kingdom.
 
-“ _UK Addendum_ ” means the UK addendum to the EU SCCs issued by the Information Commissioner under section 119A(1) of the Data Protection Act 2018. 
-
-“ _UK Data Protection Laws”_ means all data protection and privacy laws applicable to the Processing of Personal Data in the United Kingdom, including the UK GDPR, the Data Protection Act 2018, and the Privacy and Electronic Communications (EC Directive) Regulations 2003, each as amended, superseded, or replaced from time to time.
+“ _UK SCCs_ ” means the EU standard contractual clauses adopted on June 4, 2021, as amended by the UK International Data Transfer Addendum issued under section 119A(1) of the Data Protection Act 2018, in each case as amended, updated, or replaced from time to time.
 
 The terms “ _Data Controller_ ”, “ _Data Subject_ ”, “ _Personal Data_ ”, “ _Process_ ”, “ _Processing_ ”, and “ _Data Processor_ ” have the meanings assigned to them under applicable Data Protection Laws.
 
 ## Schedule 1
 
-**SCC Appendix - Independent Controller Processing**
+**UK SCCs Appendix - Independent Controller Processing**
 
-1\. _SCC Selections_. Module One applies to Independent Controller Processing. Clause 7 does not apply. Clause 11 optional language does not apply. For Clause 17, Option 1 applies and the SCCs are governed by the laws of Ireland. For Clause 18(b), disputes will be resolved by the courts of Ireland.
+1\. _SCC Selections_. Module One of the UK SCCs applies to Independent Controller Processing of UK Data. Clause 7 does not apply. The optional language in Clause 11 does not apply. All square brackets in Clause 13 are removed. For Clause 17, Option 1 applies and the UK SCCs are governed by the laws of England and Wales. For Clause 18(b), disputes will be resolved by the courts of England and Wales.
 
-2\. _Annex I.A; Parties_. Customer is the data exporter and OpenAI is the data importer. Customer’s contact details are as set out in the Ad Tools Terms. OpenAI’s contact details are as set out in the Ad Tools Terms or otherwise made available by OpenAI. Customer and OpenAI are each Data Controllers for Independent Controller Processing.
+2\. _Annex I.A; Parties_. Customer is the data exporter and OpenAI OpCo, LLC is the data importer. Customer’s contact details are as set out in the Agreement or Customer’s account information. OpenAI OpCo, LLC’s contact details are 1455 3rd Street, San Francisco, California 94158, U.S.A., privacy@openai.com. Customer and OpenAI OpCo, LLC are each Data Controllers for Independent Controller Processing. The Parties are deemed to have signed the UK SCCs on the date this Ad Tools DPA becomes effective between them.
 
 3\. _Annex I.B; Description of Transfer_. 
 
   * 3.1. _Categories of Data Subjects_. Data Subjects include individuals whose Personal Data is provided through the Covered Ad Tools, including Customer’s users, customers, visitors, prospects, or other individuals who interact with Customer’s websites, apps, stores, ads, or other properties. 
-  * 3.2. _Categories of Personal Data_. Categories of Personal Data include advertiser’s first-party audience data and conversion data, which may include email addresses, phone numbers, cookies, online identifiers, device or browser information, event data, transaction data, purchase data, and related metadata. 
+  * 3.2. _Categories of Personal Data_. Categories of Personal Data include Customer’s first-party audience data and conversion data, which may include email addresses, phone numbers, cookies, online identifiers, device or browser information, event data, transaction data, purchase data, and related metadata. 
   * 3.3. _Sensitive Data_. Customer will not provide Prohibited Data or sensitive categories of Personal Data through the Covered Ad Tools. 
   * 3.4. _Frequency of Transfer_. The transfer occurs on a continuous basis depending on Customer’s use of the Covered Ad Tools. 
   * 3.5. _Nature and Purpose of Transfer_. The nature and purpose of Processing are as described in the Ad Tools Terms and this Ad Tools DPA. 
-  * 3.6. _Period for which Personal Data will be Retained_. The duration is the period required or permitted under the Ad Tools Terms, this Ad Tools DPA, or Data Protection Laws.
+  * 3.6. _Period for which Personal Data will be Retained_. The duration is the period required or permitted under the Agreement, this Ad Tools DPA, or Data Protection Laws.
 
 
 
-4\. _Annex I.C; Supervisory Authority_. The competent supervisory authority will be determined in accordance with Clause 13 of the SCCs.
+4\. _Annex I.C; Supervisory Authority_. The competent supervisory authority is the UK Information Commissioner’s Office.
 
 5\. _Annex II; Technical and Organizational Measures_. OpenAI maintains commercially reasonable technical and organizational measures designed to protect Personal Data against unauthorized access, use, disclosure, alteration, and destruction.
 

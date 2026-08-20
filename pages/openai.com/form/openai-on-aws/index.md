@@ -41,21 +41,21 @@ What’s available in limited preview:
 
 
 
-First name *
+First name *
 
-Last name *
+Last name *
 
-Work email *
+Work email *
 
-Phone number *
+Phone number *
 
-Company name *
+Company name *
 
-Company size *
+Company size *
 
 Please select1–5051–250251–500501–1,0001,001–5,0005,001–10,00010,001–20,00020,001+
 
-What are you interested in? *Select all that apply
+What are you interested in? *Select all that apply
 
 OpenAI models on AWS
 
@@ -65,7 +65,7 @@ Bedrock Managed Agents
 
 General conversation about OpenAI on AWS
 
-Tell us more about what you’re looking to accomplish *
+Tell us more about what you’re looking to accomplish *
 
 Submit
 

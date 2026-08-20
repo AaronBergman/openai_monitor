@@ -70,11 +70,11 @@ The Codex app: A command center for agents
 
 
 
- _March 4, 2026 update:__The Codex app is now available on Windows._
+ _March 4, 2026 update: The Codex app is now available on Windows._
 
 Today, we’re introducing the Codex app for macOS—a powerful new interface designed to effortlessly manage multiple agents at once, run work in parallel, and collaborate with agents over long-running tasks.
 
-We’re also excited to show more people what’s now possible with [Codex⁠](<https://openai.com/codex>). For a limited time we’re including Codex with ChatGPT Free and Go, and we’re doubling the rate limits on Plus, Pro, Business, Enterprise, and Edu plans. Those higher limits apply everywhere you use Codex—in the app, from the CLI, in your IDE, and in the cloud.
+We’re also excited to show more people what’s now possible with [Codex](</codex/>). For a limited time we’re including Codex with ChatGPT Free and Go, and we’re doubling the rate limits on Plus, Pro, Business, Enterprise, and Edu plans. Those higher limits apply everywhere you use Codex—in the app, from the CLI, in your IDE, and in the cloud.
 
 The Codex app changes how software gets built and who can build it—from pairing with a single coding agent on targeted edits to supervising coordinated teams of agents across the full lifecycle of designing, building, shipping, and maintaining software.
 
@@ -177,17 +177,17 @@ OpenAI
 
 [View all](</news/>)
 
+![ChatGPT Ads expands across Europe - Card image](https://images.ctfassets.net/kftzwdyauwt9/IMh9E5WMDoVaUJyBJrsEP/697ba885d5e89b6bd27a55b9c9a783ae/chatgpt-ads-europe-readable-card.png?w=3840&q=90&fm=webp)
+
+[ChatGPT Ads expands across EuropeProductAug 18, 2026](</index/chatgpt-ads-expands-across-europe/>)
+
+![ChatGPT for Teens — square card](https://images.ctfassets.net/kftzwdyauwt9/5IP7e1KeD8zkZq6YUrKdKW/2325215681ea59d32dd09b3ea90f12c5/Art_Card-TEENS-1x13x.png?w=3840&q=90&fm=webp)
+
+[Introducing ChatGPT for TeensProductAug 18, 2026](</index/chatgpt-for-teens/>)
+
 ![Previewing Ultrafast mode — clean cover](https://images.ctfassets.net/kftzwdyauwt9/74UiHrTiZoKnbvpopDTG1s/d33291d426eac29a4a5c0563e717376d/previewing-ultrafast-mode--cover-1080x1080-v001.png?w=3840&q=90&fm=webp)
 
 [Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speedProductAug 13, 2026](</index/previewing-ultrafast/>)
-
-![OAI AdsTest Blog ArtCard 1x1](https://images.ctfassets.net/kftzwdyauwt9/7drPwCnD6ied4wPzlJd7qa/d79ccfda974080bbca7d688ad9bcbc6f/OAI_AdsTest_Blog_ArtCard_1x1.png?w=3840&q=90&fm=webp)
-
-[Testing ads in ChatGPTCompanyAug 11, 2026](</index/testing-ads-in-chatgpt/>)
-
-![Daybreak with AWS 1x1](https://images.ctfassets.net/kftzwdyauwt9/3u4XKQVExOBSWxMiiPMmpg/31dffb070dae6251a5fac4e46ec241dc/Art_card.png?w=3840&q=90&fm=webp)
-
-[Daybreak models are now available on AWSProductAug 11, 2026](</index/daybreak-models-are-now-available-on-aws/>)
 
 Research
 

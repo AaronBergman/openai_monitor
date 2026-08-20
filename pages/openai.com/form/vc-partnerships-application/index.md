@@ -34,19 +34,19 @@ Thanks for your interest in becoming an OpenAI VC Partner! Apply here to become 
 
 This program is intended for venture capital firms backing startups that are actively building with AI. For founder-specific programs and benefits, please visit [OpenAI for Startups](</startups/>).
 
-First name *
+First name *
 
-Last name *
+Last name *
 
-Email *
+Email *
 
-Title *
+Title *
 
-Fund name *
+Fund name *
 
-Fund website *
+Fund website *
 
-Fund location *
+Fund location *
 
 United StatesCanadaLatin AmericaUnited Kingdom & IrelandEurope (Continental)Middle EastAfricaIndiaAsia-PacificOther
 

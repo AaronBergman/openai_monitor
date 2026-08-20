@@ -108,17 +108,17 @@ More than 1 million businesses around the world are achieving meaningful results
 
 ## Keep reading
 
-![The Defender’s Window > Cover](https://images.ctfassets.net/kftzwdyauwt9/2We7bguC4FuOofZ8Lu6LUZ/02049fcee47c460695acab59bdb8f648/the-defenders-window-clean-cover.png?w=3840&q=90&fm=webp)
+![Our commitment to Zero Data Retention as AI advances — card](https://images.ctfassets.net/kftzwdyauwt9/6bPStWA6pc66cahnhg0jo6/61786b178401b6e902e9da65fa4da095/Blog_Thumbnail_-_OpenAI_Blog.png?w=3840&q=90&fm=webp)
 
-[The Defender’s WindowSecurityAug 17, 2026](</index/the-defenders-window/>)
+[Offering Zero Data Retention for frontier modelsCompanyAug 19, 2026](</index/offering-zero-data-retention-for-frontier-models/>)
 
-![OpenAI joins PORTS-Pike project, expanding community investment and supporting thousands of Southern Ohio jobs — card image](https://images.ctfassets.net/kftzwdyauwt9/6RUPcXx0eTGghDpM851Qy1/ab11d2d0849ad9544249bf7b77ee46fe/openai-joins-ports-pike-project-cover-v001.png?w=3840&q=90&fm=webp)
+![replit-customer-story-art-card-1x1](https://images.ctfassets.net/kftzwdyauwt9/2ZUd2sTOK6p4MrjDZnvCoM/512b38a71cf26f09c3cda3c51169c401/replit-customer-story-art-card-1x1.png?w=3840&q=90&fm=webp)
 
-[OpenAI joins PORTS-Pike projectGlobal AffairsAug 17, 2026](</index/openai-joins-ports-pike-project/>)
+[Replit expands access to software creation with GPT-5.6 LunaStartupAug 19, 2026](</index/replit/>)
 
-![New policy ideas for the Intelligence Age — Card image](https://images.ctfassets.net/kftzwdyauwt9/AJqxrcFJn4IUKHIkwneFA/979315f3b490abc2e2055be12d97c9bb/new-policy-ideas-for-the-intelligence-age--cover-v001.png?w=3840&q=90&fm=webp)
+![ChatGPT Ads expands across Europe - Card image](https://images.ctfassets.net/kftzwdyauwt9/IMh9E5WMDoVaUJyBJrsEP/697ba885d5e89b6bd27a55b9c9a783ae/chatgpt-ads-europe-readable-card.png?w=3840&q=90&fm=webp)
 
-[New policy ideas for the Intelligence AgeGlobal AffairsAug 17, 2026](</index/new-policy-ideas-for-the-intelligence-age/>)
+[ChatGPT Ads expands across EuropeProductAug 18, 2026](</index/chatgpt-ads-expands-across-europe/>)
 
 Research
 

@@ -32,15 +32,15 @@ Premium seats are coming soon to [ChatGPT Business⁠(opens in a new window)](<h
 
 Complete this short form and we’ll let you know when Premium becomes available to your workspace. New and existing ChatGPT Business workspace owners are eligible. If you plan to create a new Business workspace, sign up with the email address you’ll use as the workspace owner. Some eligible businesses may receive early access before general availability.
 
-First name *
+First name *
 
-Last name *
+Last name *
 
-Work email *Email must match your current or future ChatGPT Business workspace account
+Work email *Email must match your current or future ChatGPT Business workspace account
 
-Business or organization name *
+Business or organization name *
 
-Company size *
+Company size *
 
 Select an option1-5051-100100-200200-500501-1,0001,001-5,0005,001-10,00010,001-20,00020,001+
 
@@ -62,11 +62,11 @@ Are you using another AI tool for deep work?
 
 Anything else you'd like us to know?
 
-Workspace owner confirmation *
+Workspace owner confirmation *
 
 I confirm that I am, or will be, the owner of the ChatGPT Business workspace associated with the email address above.
 
-Promotion terms agreement *
+Promotion terms agreement *
 
 I have read and agree to the promotion details and the [OpenAI Service Credit Terms(opens in a new window)](<https://openai.com/policies/service-credit-terms/>).
 

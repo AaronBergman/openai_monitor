@@ -197,17 +197,17 @@ More than 1 million businesses around the world are achieving meaningful results
 
 ## Keep reading
 
-![OpenAI letter to Governor Abbott — card image](https://images.ctfassets.net/kftzwdyauwt9/58lvLf4ld7rZS9mIIvma9y/be162b8bd2d1ab08c95d666d9a161b04/Frame__18_.png?w=3840&q=90&fm=webp)
+![Our commitment to Zero Data Retention as AI advances — card](https://images.ctfassets.net/kftzwdyauwt9/6bPStWA6pc66cahnhg0jo6/61786b178401b6e902e9da65fa4da095/Blog_Thumbnail_-_OpenAI_Blog.png?w=3840&q=90&fm=webp)
 
-[OpenAI’s letter on responsible AI infrastructure in TexasGlobal AffairsAug 10, 2026](</index/responsible-ai-infrastructure-texas/>)
+[Offering Zero Data Retention for frontier modelsCompanyAug 19, 2026](</index/offering-zero-data-retention-for-frontier-models/>)
 
-![Model ML customer story card image](https://images.ctfassets.net/kftzwdyauwt9/3STNMQMrFRC8mFdLYtjkV4/9cc21e9c729b2ae7cdf75aa3f49b3033/modelml-card.png?w=3840&q=90&fm=webp)
+![replit-customer-story-art-card-1x1](https://images.ctfassets.net/kftzwdyauwt9/2ZUd2sTOK6p4MrjDZnvCoM/512b38a71cf26f09c3cda3c51169c401/replit-customer-story-art-card-1x1.png?w=3840&q=90&fm=webp)
 
-[Model ML completes finance work more efficiently with GPT-5.6 SolStartupAug 10, 2026](</index/model-ml/>)
+[Replit expands access to software creation with GPT-5.6 LunaStartupAug 19, 2026](</index/replit/>)
 
-![What building an AI-native finance function taught me > Card image](https://images.ctfassets.net/kftzwdyauwt9/5XpkKoVszSTwJPjcwrvcNG/1e02d9b53b07d25b4cf517da6bd454eb/Frame__14_.png?w=3840&q=90&fm=webp)
+![ChatGPT Ads expands across Europe - Card image](https://images.ctfassets.net/kftzwdyauwt9/IMh9E5WMDoVaUJyBJrsEP/697ba885d5e89b6bd27a55b9c9a783ae/chatgpt-ads-europe-readable-card.png?w=3840&q=90&fm=webp)
 
-[What building an AI-native finance function taught meCompanyAug 10, 2026](</index/building-an-ai-native-finance-function/>)
+[ChatGPT Ads expands across EuropeProductAug 18, 2026](</index/chatgpt-ads-expands-across-europe/>)
 
 Research
 

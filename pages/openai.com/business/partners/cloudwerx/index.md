@@ -38,7 +38,7 @@ OpenAI
 
 Cloudwerx helps organisations turn the promise of AI into practical, measurable business outcomes. We combine deep cloud expertise with modern data platforms, intelligent automation and responsible AI to create solutions that are secure, scalable and ready for real-world use. From AI strategy and use-case discovery to copilots, generative AI, machine learning and workflow automation, our specialists guide clients from idea to production. We prioritise trusted data, strong governance and seamless integration, helping teams work smarter, serve customers better and innovate faster. Our human-centred approach ensures AI is adopted confidently across the business.
 
-![Select Partner](/images/partner-tier-badges/OAI_PartnerNetwork_SelectPartner.svg?dpl=dpl_FVk4QodRZ5kG9YVJMACPwdTCDJ7A)
+![Select Partner](/images/partner-tier-badges/OAI_PartnerNetwork_SelectPartner.svg?dpl=dpl_93RPSLao5f8Pi59ntWHqT47k9mhr)
 
 Countries served
     Australia and New Zealand

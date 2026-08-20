@@ -140,17 +140,17 @@ More than 1 million businesses around the world are achieving meaningful results
 
 ## Keep reading
 
+![Our commitment to Zero Data Retention as AI advances — card](https://images.ctfassets.net/kftzwdyauwt9/6bPStWA6pc66cahnhg0jo6/61786b178401b6e902e9da65fa4da095/Blog_Thumbnail_-_OpenAI_Blog.png?w=3840&q=90&fm=webp)
+
+[Offering Zero Data Retention for frontier modelsCompanyAug 19, 2026](</index/offering-zero-data-retention-for-frontier-models/>)
+
+![replit-customer-story-art-card-1x1](https://images.ctfassets.net/kftzwdyauwt9/2ZUd2sTOK6p4MrjDZnvCoM/512b38a71cf26f09c3cda3c51169c401/replit-customer-story-art-card-1x1.png?w=3840&q=90&fm=webp)
+
+[Replit expands access to software creation with GPT-5.6 LunaStartupAug 19, 2026](</index/replit/>)
+
 ![ChatGPT Ads expands across Europe - Card image](https://images.ctfassets.net/kftzwdyauwt9/IMh9E5WMDoVaUJyBJrsEP/697ba885d5e89b6bd27a55b9c9a783ae/chatgpt-ads-europe-readable-card.png?w=3840&q=90&fm=webp)
 
 [ChatGPT Ads expands across EuropeProductAug 18, 2026](</index/chatgpt-ads-expands-across-europe/>)
-
-![Strengthening Democratic Oversight in National Security — card image](https://images.ctfassets.net/kftzwdyauwt9/1qebg0OnHIh4dqr84zXR3Q/dba2f0e83ba4615a71894fd7fd1656e1/openai-democratic-oversight-page-cover-v002.png?w=3840&q=90&fm=webp)
-
-[Strengthening Democratic Oversight in National SecurityGlobal AffairsAug 18, 2026](</index/strengthening-democratic-oversight-in-national-security/>)
-
-![Partnering with CodeAI — accessible card image](https://images.ctfassets.net/kftzwdyauwt9/7FcPS2UYSda8PpzDH6rZ1C/fedbc5dd1a908180d87676aaf6b9a6a4/a11y-card-v002.png?w=3840&q=90&fm=webp)
-
-[Partnering with CodeAI to prepare the first AI generationCompanyAug 18, 2026](</index/partnering-with-codeai/>)
 
 Research
 

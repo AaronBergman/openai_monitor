@@ -30,13 +30,13 @@ OpenAI
 
 Receive updates on our Learning Outcomes Measurement Suite and ecosystem research
 
-First name *
+First name *
 
-Last name *
+Last name *
 
-Email *
+Email *
 
-Organization *
+Organization *
 
 Submit
 

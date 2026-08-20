@@ -126,23 +126,23 @@ Students from every discipline are encouraged to apply. We're looking for underg
 
 ### Application
 
-First name *As shown on your ID
+First name *As shown on your ID
 
-Last name *As shown on your ID
+Last name *As shown on your ID
 
-Email address *
+Email address *
 
-How old are you? *Campus Leads must be at least 18 years of age.
+How old are you? *Campus Leads must be at least 18 years of age.
 
 Make a selection1819202122232425+
 
-What country is your university or college located in? *The program is initially available in United States, Canada, the United Kingdom, France, Germany, India, Japan, or South Korea. Studying elsewhere? Still apply to express interest!
+What country is your university or college located in? *The program is initially available in United States, Canada, the United Kingdom, France, Germany, India, Japan, or South Korea. Studying elsewhere? Still apply to express interest!
 
 Make a selectionAfghanistanAland IslandsAlbaniaAlgeriaAndorraAngolaAntigua and BarbudaArgentinaArmeniaArubaAustraliaAustriaAzerbaijanBahamasBahrainBangladeshBarbadosBelgiumBelizeBeninBermudaBhutanBoliviaBosnia and HerzegovinaBotswanaBrazilBruneiBulgariaBurkina FasoBurundiCabo VerdeCambodiaCameroonCanadaCayman IslandsCentral African RepublicChadChileColombiaComorosCongo (Brazzaville)Congo (DRC)Costa RicaCôte d'IvoireCroatiaCyprusCzechia (Czech Republic)DenmarkDjiboutiDominicaDominican RepublicEcuadorEgyptEl SalvadorEquatorial GuineaEritreaEstoniaEswatini (Swaziland)EthiopiaFaroe IslandsFijiFinlandFranceFrench GuianaFrench PolynesiaFrench Southern TerritoriesGabonGambiaGeorgiaGermanyGhanaGreeceGreenlandGrenadaGuadeloupeGuatemalaGuineaGuinea-BissauGuyanaHaitiHoly See (Vatican City)HondurasHungaryIcelandIndiaIndonesiaIraqIrelandIsraelItalyJamaicaJapanJordanKazakhstanKenyaKiribatiKuwaitKyrgyzstanLaosLatviaLebanonLesothoLiberiaLibyaLiechtensteinLithuaniaLuxembourgMadagascarMalawiMalaysiaMaldivesMaliMaltaMarshall IslandsMartiniqueMauritaniaMauritiusMayotteMexicoMicronesiaMoldovaMonacoMongoliaMontenegroMoroccoMozambiqueMyanmarNamibiaNauruNepalNetherlandsNew CaledoniaNew ZealandNicaraguaNigerNigeriaNorth MacedoniaNorwayOmanPakistanPalauPalestinePanamaPapua New GuineaParaguayPeruPhilippinesPolandPortugalQatarRéunionRomaniaRwandaSaint BarthelemySaint HelenaSaint Kitts and NevisSaint LuciaSaint Martin (French part)Saint Pierre and MiquelonSaint Vincent and the GrenadinesSamoaSan MarinoSao Tome and PrincipeSaudi ArabiaSenegalSerbiaSeychellesSierra LeoneSingaporeSlovakiaSloveniaSolomon IslandsSomaliaSouth AfricaSouth KoreaSouth SudanSpainSri LankaSudanSurinameSvalbard and Jan MayenSwedenSwitzerlandTaiwanTajikistanTanzaniaThailandTimor-Leste (East Timor)TogoTongaTrinidad and TobagoTunisiaTurkeyTurkmenistanTuvaluUgandaUkraineUnited Arab EmiratesUnited KingdomUnited States of AmericaUruguayUzbekistanVanuatuVietnamWallis and FutunaYemenZambiaZimbabwe
 
-What university or college do you attend? *
+What university or college do you attend? *
 
-What is your current educational status? *The Campus Lead role is only available to undergraduate students.
+What is your current educational status? *The Campus Lead role is only available to undergraduate students.
 
 Undergraduate
 
@@ -150,29 +150,29 @@ Graduate / master's
 
 Not in school
 
-When are you expected to finish university or college? *The Campus Lead role is only available to students graduating after December 2027.
+When are you expected to finish university or college? *The Campus Lead role is only available to students graduating after December 2027.
 
-What best describes your area of study? *
+What best describes your area of study? *
 
 Make a selectionArts & HumanitiesBusiness & EconomicsComputer Science & EngineeringDesign & MediaLaw & Public PolicyMedicine & HealthcareNatural Sciences & ResearchSocial SciencesOther
 
-Please specify your major, course, field, or program. *
+Please specify your major, course, field, or program. *
 
 50 characters max
 
-Are you able to commit an average of 4–6 hours per week from August 2026 through June 2027? *
+Are you able to commit an average of 4–6 hours per week from August 2026 through June 2027? *
 
 Yes
 
 No
 
-Are you currently participating in any formal capacity with another company or program? *Campus Leads may not simultaneously hold a formal ambassador, representative, or similar role with another company or competing program. You may still participate in campus clubs, student organizations, internships, research, and other leadership roles.
+Are you currently participating in any formal capacity with another company or program? *Campus Leads may not simultaneously hold a formal ambassador, representative, or similar role with another company or competing program. You may still participate in campus clubs, student organizations, internships, research, and other leadership roles.
 
 Yes
 
 No
 
-Which OpenAI tools do you currently use? *Select all that apply
+Which OpenAI tools do you currently use? *Select all that apply
 
 ChatGPT
 
@@ -184,9 +184,9 @@ Other OpenAI tools
 
 I don’t currently use OpenAI tools
 
-What’s one way you use AI that you think more students should know about? *Please submit a link to a video response of 60 seconds or less. Make sure anyone with the link can view it, as we can’t review videos that require access.
+What’s one way you use AI that you think more students should know about? *Please submit a link to a video response of 60 seconds or less. Make sure anyone with the link can view it, as we can’t review videos that require access.
 
-What’s something you helped make happen on campus? Tell us about it in video format. *Please submit a link to a video response of 60 seconds or less. Make sure anyone with the link can view it, as we can’t review videos that require access.
+What’s something you helped make happen on campus? Tell us about it in video format. *Please submit a link to a video response of 60 seconds or less. Make sure anyone with the link can view it, as we can’t review videos that require access.
 
 What is the most important problem facing young people? How would you try to make progress on it?
 
@@ -202,11 +202,11 @@ Other public social profiles
 
 If you’d like to apply with another student from your campus, please list the email they applied with here.
 
-Have you previously been involved with an OpenAI program? *
+Have you previously been involved with an OpenAI program? *
 
 Make a selectionYes, ChatGPT LabYes, Codex AmbassadorYes, OpenAI internshipYes, otherNo
 
-How did you hear about this role? *
+How did you hear about this role? *
 
 Make a selectionLinkedInInstagramTikTokOpenAI website or emailFriend or classmateProfessor or universityStudent organizationDirect outreachOther
 

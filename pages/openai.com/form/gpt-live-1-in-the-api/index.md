@@ -30,15 +30,15 @@ OpenAI
 
 Sign up to get notified when GPT‑Live‑1 is available in the API
 
-First name *
+First name *
 
-Last name *
+Last name *
 
-Work email address *
+Work email address *
 
-Business name *
+Business name *
 
-What are you excited to build with GPT-Live-1?
+What are you excited to build with GPT‑Live‑1?
 
 Submit
 
@@ -52,9 +52,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -126,6 +126,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

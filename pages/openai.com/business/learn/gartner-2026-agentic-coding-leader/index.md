@@ -32,19 +32,19 @@ OpenAI was named a Leader in the Gartner® Magic Quadrant™ for Enterprise AI C
 
 Complete the form to download the 2026 Gartner Magic Quadrant for Enterprise AI Coding Agents.
 
-Work email *
+Work email *
 
-First name *
+First name *
 
-Last name *
+Last name *
 
-Company name *
+Company name *
 
-Company size *
+Company size *
 
 Please select1–5051–250251–500501–1,0001,001–5,0005,001–10,00010,001–20,00020,001+
 
-Existing customer? *
+Existing customer? *
 
 Yes
 
@@ -148,6 +148,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)
