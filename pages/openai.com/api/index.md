@@ -11,7 +11,7 @@ Skip to main content
 
 
 
-Log in[Start building(opens in a new window)](<https://platform.openai.com/?utm_internal_source=openai_api>)
+Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
   * Research
   * Products
@@ -22,13 +22,15 @@ Log in[Start building(opens in a new window)](<https://platform.openai.com/?utm_
 
 
 
-[Start building(opens in a new window)](<https://platform.openai.com/?utm_internal_source=openai_api>)Login
+[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)Login
 
 OpenAI
 
 # Build leading AI products on OpenAI’s platform
 
-[Contact sales](</contact-sales/>)[Start building(opens in a new window)](<https://platform.openai.com/?utm_internal_source=openai_api>)
+[Contact sales](</contact-sales/>)
+
+Start building
 
 ## Powered by our frontier models
 
@@ -86,7 +88,7 @@ Learn how to optimize GPT‑5.6 performance from our startup community.
 
 Build agents that use your context and tools to get work done across your systems.
 
-[Learn more](</agent-platform/>)[Start building(opens in a new window)](<https://platform.openai.com/?utm_internal_source=openai_api>)
+[Learn more(opens in a new window)](<https://developers.openai.com/api/docs/guides/agents>)[Start building(opens in a new window)](<https://platform.openai.com/?utm_internal_source=openai_api>)
 
 ![Dark-themed code editor showing a Python agent configuration script on a blue gradient background.](https://images.ctfassets.net/kftzwdyauwt9/3I12fE7PL620U4Z2RWXzgt/b009dc530e9588875b9842ed77f95211/1.png?w=3840&q=90&fm=webp)
 

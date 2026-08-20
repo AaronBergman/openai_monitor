@@ -34,7 +34,7 @@ Our biggest event of the year is back.
 
 Sign up to be notified when applications are open.
 
-Email *
+Email *
 
 _By pressing submit, you agree that OpenAl may send you email reminders about OpenAI DevDay._
 

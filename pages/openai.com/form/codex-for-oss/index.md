@@ -43,23 +43,23 @@ Selected maintainers receive:
 
 
 
-First name *
+First name *
 
-Last name *
+Last name *
 
-Email *Enter the email associated with your ChatGPT account.
+Email *Enter the email associated with your ChatGPT account.
 
-GitHub username *Set your profile visibility to public.
+GitHub username *Set your profile visibility to public.
 
-GitHub repository URL *Set the repository visibility to public.
+GitHub repository URL *Set the repository visibility to public.
 
-Describe your role: are you a primary or core maintainer? *
+Describe your role: are you a primary or core maintainer? *
 
 Primary maintainer
 
 Core maintainer
 
-Why does this repository qualify? *Include information such as GitHub stars, monthly downloads, or why the project is important to the ecosystem.
+Why does this repository qualify? *Include information such as GitHub stars, monthly downloads, or why the project is important to the ecosystem.
 
 Maximum 500 characters.
 
@@ -69,11 +69,11 @@ Codex Security
 
 API credits for my project
 
-OpenAI Organization ID *
+OpenAI Organization ID *
 
-[_Click here_ ⁠(opens in a new window)](<https://platform.openai.com/settings/organization/general>) to find yours.
+[_Click here_(opens in a new window)](<https://platform.openai.com/settings/organization/general>) to find yours.
 
-How will you use API credits for your project? *
+How will you use API credits for your project? *
 
 Maximum 500 characters.
 
@@ -83,7 +83,7 @@ Maximum 500 characters.
 
 Note: We review applications on a rolling basis and notify selected applicants by email.
 
-By submitting this form, you agree to the [Codex for Open Source Program Terms⁠(opens in a new window)](<https://developers.openai.com/codex/codex-for-oss-terms>).
+By submitting this form, you agree to the [Codex for Open Source Program Terms(opens in a new window)](<https://developers.openai.com/codex/codex-for-oss-terms>).
 
 Submit
 

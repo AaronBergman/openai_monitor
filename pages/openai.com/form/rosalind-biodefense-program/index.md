@@ -59,45 +59,45 @@ Above all, we value collaboration and openness. We encourage teams to share find
 
 For the primary point of contact (submitting individual), please provide the following:
 
-First name *
+First name *
 
-Last name *
+Last name *
 
-Name of organization/ research institution *
+Name of organization/ research institution *
 
-Role / title *
+Role / title *
 
-Department / team *
+Department / team *
 
-Organization website *
+Organization website *
 
-GitHub, Google Scholar, ORCID, and/or other relevant profile *
+GitHub, Google Scholar, ORCID, and/or other relevant profile *
 
-Work email *
+Work email *
 
-Work phone *
+Work phone *
 
 Additional point(s) of contact
 
-Organization address line 1 *
+Organization address line 1 *
 
 Address line 2
 
-City *
+City *
 
-State / Province / Region *
+State / Province / Region *
 
-Postal Code *
+Postal Code *
 
-Country *
+Country *
 
 Choose your country...AfghanistanAland IslandsAlbaniaAlgeriaAndorraAngolaAntigua and BarbudaArgentinaArmeniaArubaAustraliaAustriaAzerbaijanBahamasBahrainBangladeshBarbadosBelgiumBelizeBeninBermudaBhutanBoliviaBosnia and HerzegovinaBotswanaBrazilBruneiBulgariaBurkina FasoBurundiCabo VerdeCambodiaCameroonCanadaCayman IslandsCentral African RepublicChadChileColombiaComorosCongo (Brazzaville)Congo (DRC)Costa RicaCôte d'IvoireCroatiaCyprusCzechia (Czech Republic)DenmarkDjiboutiDominicaDominican RepublicEcuadorEgyptEl SalvadorEquatorial GuineaEritreaEstoniaEswatini (Swaziland)EthiopiaFaroe IslandsFijiFinlandFranceFrench GuianaFrench PolynesiaFrench Southern TerritoriesGabonGambiaGeorgiaGermanyGhanaGreeceGreenlandGrenadaGuadeloupeGuatemalaGuineaGuinea-BissauGuyanaHaitiHoly See (Vatican City)HondurasHungaryIcelandIndiaIndonesiaIraqIrelandIsraelItalyJamaicaJapanJordanKazakhstanKenyaKiribatiKuwaitKyrgyzstanLaosLatviaLebanonLesothoLiberiaLibyaLiechtensteinLithuaniaLuxembourgMadagascarMalawiMalaysiaMaldivesMaliMaltaMarshall IslandsMartiniqueMauritaniaMauritiusMayotteMexicoMicronesiaMoldovaMonacoMongoliaMontenegroMoroccoMozambiqueMyanmarNamibiaNauruNepalNetherlandsNew CaledoniaNew ZealandNicaraguaNigerNigeriaNorth MacedoniaNorwayOmanPakistanPalauPalestinePanamaPapua New GuineaParaguayPeruPhilippinesPolandPortugalQatarRéunionRomaniaRwandaSaint BarthelemySaint HelenaSaint Kitts and NevisSaint LuciaSaint Martin (French part)Saint Pierre and MiquelonSaint Vincent and the GrenadinesSamoaSan MarinoSao Tome and PrincipeSaudi ArabiaSenegalSerbiaSeychellesSierra LeoneSingaporeSlovakiaSloveniaSolomon IslandsSomaliaSouth AfricaSouth KoreaSouth SudanSpainSri LankaSudanSurinameSvalbard and Jan MayenSwedenSwitzerlandTaiwanTajikistanTanzaniaThailandTimor-Leste (East Timor)TogoTongaTrinidad and TobagoTunisiaTurkeyTurkmenistanTuvaluUgandaUkraineUnited Arab EmiratesUnited KingdomUnited States of AmericaUruguayUzbekistanVanuatuVietnamWallis and FutunaYemenZambiaZimbabwe
 
 #### Project Information
 
-Project Title *
+Project Title *
 
-Which of the following categories best describe the focus of this project? *Please select all that apply
+Which of the following categories best describe the focus of this project? *Please select all that apply
 
 Biosurveillance and early detection
 
@@ -113,23 +113,23 @@ Environmental and zoonotic monitoring
 
 Medical countermeasure discovery and development
 
-What is the problem you’re trying to solve? Why does it matter for biodefense, public health, or societal resilience? *
+What is the problem you’re trying to solve? Why does it matter for biodefense, public health, or societal resilience? *
 
 2500 characters max
 
-Please describe your proposed methodology. *
+Please describe your proposed methodology. *
 
 2500 characters max
 
-What is your expected outcome? How will you measure success? *
+What is your expected outcome? How will you measure success? *
 
 2500 characters max
 
-How will this application be deployed, and how will results be shared for public benefit? *
+How will this application be deployed, and how will results be shared for public benefit? *
 
 2500 characters max
 
-Project approach and timeline. Please describe: Key methods and workflows, major expected milestones, and any important collaborators, partners, or deployment organizations. *
+Project approach and timeline. Please describe: Key methods and workflows, major expected milestones, and any important collaborators, partners, or deployment organizations. *
 
 2500 characters max
 
@@ -139,37 +139,37 @@ If the application project is already launched, please briefly describe the curr
 
 #### Requested Support
 
-Describe how GPT-Rosalind or other OpenAI models would materially improve the speed, quality, scale, or feasibility of your work compared to existing approaches. *
+Describe how GPT‑Rosalind or other OpenAI models would materially improve the speed, quality, scale, or feasibility of your work compared to existing approaches. *
 
 2500 characters max
 
-What is your estimate of the monthly amount of API credits you will need? *
+What is your estimate of the monthly amount of API credits you will need? *
 
-Provide any supporting justification for your estimate. *
+Provide any supporting justification for your estimate. *
 
 2500 characters max
 
-Will this application be for commercial use? *
+Will this application be for commercial use? *
 
 Yes
 
 No
 
-Do you have an existing OpenAI account? *If so, please provide the organization ID that you would you like the credits to be applied to
+Do you have an existing OpenAI account? *If so, please provide the organization ID that you would you like the credits to be applied to
 
-([click to find yours⁠(opens in a new window)](<https://platform.openai.com/settings/organization/general>))
+([click to find yours(opens in a new window)](<https://platform.openai.com/settings/organization/general>))
 
-Where will work associated with this project be conducted? *Please list all countries
+Where will work associated with this project be conducted? *Please list all countries
 
 2500 characters max
 
 #### Responsible Use & Biosecurity
 
-Please describe the most significant biosecurity, safety, or dual-use concerns you have identified in association with this project and measures your team will take to mitigate these risks. *
+Please describe the most significant biosecurity, safety, or dual-use concerns you have identified in association with this project and measures your team will take to mitigate these risks. *
 
 2500 characters max
 
-Does this project involve any of the following? *Select all that apply.
+Does this project involve any of the following? *Select all that apply.
 
 Biological sequence analysis
 
@@ -187,23 +187,23 @@ None of the above
 
 Other (please specify)
 
-Please describe any applicable review, governance, biosafety, biosecurity, ethics, IRB, DURC, or equivalent processes that apply to this work. *
+Please describe any applicable review, governance, biosafety, biosecurity, ethics, IRB, DURC, or equivalent processes that apply to this work. *
 
 2500 characters max
 
 #### Security & Access Controls
 
-Please describe who will have access to GPT-Rosalind and how access will be managed and reviewed. *Include any relevant authentication measures (e.g., MFA, SSO) your team will have in place.
+Please describe who will have access to GPT‑Rosalind and how access will be managed and reviewed. *Include any relevant authentication measures (e.g., MFA, SSO) your team will have in place.
 
 2500 characters max
 
 #### Team & Organizational Readiness
 
-Please provide a description of the project team, including the relevant experience and credentials in the scientific domain. *
+Please provide a description of the project team, including the relevant experience and credentials in the scientific domain. *
 
 2500 characters max
 
-What other materials are needed for completion of this project? *For example, relevant datasets, required infrastructure, deployment partners or end users, and regulatory, ethics, or institutional oversight (if applicable).
+What other materials are needed for completion of this project? *For example, relevant datasets, required infrastructure, deployment partners or end users, and regulatory, ethics, or institutional oversight (if applicable).
 
 2500 characters max
 

@@ -32,19 +32,19 @@ Complete the form to engage with OpenAI to improve your cyber security.
 
 We can work together to develop a plan to identify and validate security issues across your code and applications. Additionally, reach out to see how AI can help your team prioritize risk, remediate faster and overall strengthen your defenses.
 
-Company name *
+Company name *
 
-Company size *
+Company size *
 
 Select an option1-5051-250251-500501-1,0001,001-5,0005,001-10,00010,001-20,00020,001+
 
-First name *
+First name *
 
-Last name *
+Last name *
 
-Work email address *
+Work email address *
 
-Phone number *
+Phone number *
 
 Business needs and challenges
 

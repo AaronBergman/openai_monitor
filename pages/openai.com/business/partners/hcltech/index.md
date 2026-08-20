@@ -38,7 +38,7 @@ OpenAI
 
 HCLTech is a global technology company, home to more than 227,000 people across 60 countries, delivering industry-leading capabilities centered around AI, digital, engineering, cloud and software, powered by a broad portfolio of technology services and products. We work with clients across all major verticals, providing industry solutions for Financial Services, Manufacturing, Life Sciences and Healthcare, Technology and Services, Semiconductor, Telecom and Media, Retail and CPG, Mobility and Public Services. To learn how we can supercharge progress for you, visit hcltech.com.
 
-![Advanced Partner](/images/partner-tier-badges/OAI_PartnerNetwork_AdvancedPartner.svg?dpl=dpl_BFRp6Lb32rZA9Qj7UuvSPYcKthAX)
+![Advanced Partner](/images/partner-tier-badges/OAI_PartnerNetwork_AdvancedPartner.svg?dpl=dpl_93RPSLao5f8Pi59ntWHqT47k9mhr)
 
 Countries served
     Global

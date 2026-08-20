@@ -36,7 +36,7 @@ Get started
 
 ## Work across your finance tools and business context
 
-Add plugins to extend what ChatGPT Work can do. Plugins connect your business data from tools like Microsoft Excel, PowerPoint, Snowflake, and Salesforce. Use OpenAI’s Data Analytics plugin to run pre-built workflows for core finance tasks.
+Add plugins to extend what ChatGPT Work can do. Plugins connect your business data from tools like Microsoft Excel, PowerPoint, Snowflake, and Salesforce. Use OpenAI’s Data plugin to run pre-built workflows for core finance tasks.
 
   * [DataBuilt by OpenAI](</business/plugins/data-analytics/>)
   * [Stripe](</business/plugins/stripe/>)

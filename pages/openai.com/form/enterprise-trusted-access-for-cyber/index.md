@@ -43,13 +43,13 @@ Requirements to join:
 
 A. Organization identification
 
-Legal entity name *
+Legal entity name *
 
 Common name / DBA (if applicable)
 
-Public website *
+Public website *
 
-Are you a government entity or is this request in direct support of work being done on behalf of a government entity? *
+Are you a government entity or is this request in direct support of work being done on behalf of a government entity? *
 
 No
 
@@ -57,27 +57,27 @@ Yes
 
 ##### B. Primary point of contact (submitting individual)
 
-First name of submitting individual *
+First name of submitting individual *
 
-Last name of submitting individual *
+Last name of submitting individual *
 
-Role / title *
+Role / title *
 
-Department / team *
+Department / team *
 
-Work email *
+Work email *
 
-Work phone *
+Work phone *
 
 Additional point(s) of contact
 
 ##### C. Relationship with OpenAI
 
-Do you have an existing Service Agreement with OpenAI? *
+Do you have an existing Service Agreement with OpenAI? *
 
 Select an optionYesNoIn progressNot sure
 
-Do you have an OpenAI Account Director or Point of Contact? *
+Do you have an OpenAI Account Director or Point of Contact? *
 
 Yes
 
@@ -95,13 +95,13 @@ Codex through API
 
 In your own application via the API
 
-Are you interested in accessing OpenAI cyber models through AWS if your Trusted Access for Cyber application is approved, and do you authorize OpenAI to share the necessary contact and approval information with AWS for this purpose? *
+Are you interested in accessing OpenAI cyber models through AWS if your Trusted Access for Cyber application is approved, and do you authorize OpenAI to share the necessary contact and approval information with AWS for this purpose? *
 
 Yes
 
 No
 
-Trusted Access for Cyber may be used only for authorized defensive cybersecurity work. Do all intended TAC uses involve systems, applications, accounts, networks, or data that you own, operate, or have explicit authorization to test or analyze? *Note that approved use cases only include security testing, vulnerability research, red teaming, malware analysis, threat intelligence, incident response, and related work when performed on systems you own, operate, or are explicitly authorized to test.
+Trusted Access for Cyber may be used only for authorized defensive cybersecurity work. Do all intended TAC uses involve systems, applications, accounts, networks, or data that you own, operate, or have explicit authorization to test or analyze? *Note that approved use cases only include security testing, vulnerability research, red teaming, malware analysis, threat intelligence, incident response, and related work when performed on systems you own, operate, or are explicitly authorized to test.
 
 Yes
 
@@ -109,13 +109,13 @@ No
 
 Not sure/mixed used case
 
-Will you use TAC to provide, facilitate, embed, route, resell, or otherwise make OpenAI model access available to your own customers or other third parties? *Note that TAC is intended for use only by approved internal users of the applying organization. TAC-backed model access may not be made available to your external customers, downstream users, or other third parties.
+Will you use TAC to provide, facilitate, embed, route, resell, or otherwise make OpenAI model access available to your own customers or other third parties? *Note that TAC is intended for use only by approved internal users of the applying organization. TAC-backed model access may not be made available to your external customers, downstream users, or other third parties.
 
 No, TAC will be limited only to our internal users
 
 Yes, TAC access will be made available to external customers or third parties
 
-Select your intended use case(s)  *Check all that apply
+Select your intended use case(s)  *Check all that apply
 
 Penetration testing
 
@@ -133,9 +133,9 @@ Threat intelligence investigations
 
 Other
 
-Please list all countries in which you (including your employees and any other related parties) intend to use OpenAI services under Trusted Access for Cyber. *
+Please list all countries in which you (including your employees and any other related parties) intend to use OpenAI services under Trusted Access for Cyber. *
 
-Accreditations / certifications maintained by your organization (check all that apply) *
+Accreditations / certifications maintained by your organization (check all that apply) *
 
 CREST
 
@@ -151,7 +151,7 @@ Other
 
 ##### Legal terms and attestations
 
-Please check all the below that apply. You represent and warrant on behalf of the entity named above (“Customer”) that with respect to Customer’s participation in OpenAI’s Trusted Access programs and for the duration thereof: *
+Please check all the below that apply. You represent and warrant on behalf of the entity named above (“Customer”) that with respect to Customer’s participation in OpenAI’s Trusted Access programs and for the duration thereof: *
 
 Customer maintains an enterprise security program with SOC 2 Type II, ISO 27001 or an equivalent certification.
 
@@ -171,7 +171,7 @@ Customer provides TAC access only through enterprise-controlled devices with sta
 
 ##### Trusted Access for Cyber Participant Addendum
 
-These Trusted Access for Cyber Terms (these “**Terms** ”), together with the intake responses and attestations submitted through the intake form at [_https://openai.com/form/enterprise-trusted-access-for-cyber/_ ⁠](<https://openai.com/form/enterprise-trusted-access-for-cyber/>) or attached hereto (the “**Intake Form** ” and collectively with the Terms, the “**TAC Addendum** ”), form part of the Services Agreement between OpenAI and the entity named in the Intake Form (“**Customer** ”), and govern Customer’s access to models made available to Customer through the Trusted Access for Cyber (“**TAC** ”) program. "Services Agreement" means the OpenAI Services Agreement available at[ https://openai.com/policies/services-agreement/⁠⁠](<https://openai.com/policies/services-agreement/>) unless and to the extent that (a) Customer and OpenAI have signed an Enterprise Agreement for OpenAI Services, in which case such agreement will govern, or (b) Customer will access TAC on Amazon Bedrock, in which case the “OpenAI Services Agreement - Amazon Bedrock” available at <https://aws.amazon.com/legal/bedrock/third-party-models/>[⁠(opens in a new window)](<https://aws.amazon.com/legal/bedrock/third-party-models/>) will govern. To participate in TAC, Customer must submit the information in the Intake Form and receive approval from OpenAI. 
+These Trusted Access for Cyber Terms (these “**Terms** ”), together with the intake responses and attestations submitted through the intake form at [_https://openai.com/form/enterprise-trusted-access-for-cyber/_](<https://openai.com/form/enterprise-trusted-access-for-cyber/>) or attached hereto (the “**Intake Form** ” and collectively with the Terms, the “**TAC Addendum** ”), form part of the Services Agreement between OpenAI and the entity named in the Intake Form (“**Customer** ”), and govern Customer’s access to models made available to Customer through the Trusted Access for Cyber (“**TAC** ”) program. "Services Agreement" means the OpenAI Services Agreement available at[ https://openai.com/policies/services-agreement/⁠](<https://openai.com/policies/services-agreement/>) unless and to the extent that (a) Customer and OpenAI have signed an Enterprise Agreement for OpenAI Services, in which case such agreement will govern, or (b) Customer will access TAC on Amazon Bedrock, in which case the “OpenAI Services Agreement - Amazon Bedrock” available at <https://aws.amazon.com/legal/bedrock/third-party-models/>[(opens in a new window)](<https://aws.amazon.com/legal/bedrock/third-party-models/>) will govern. To participate in TAC, Customer must submit the information in the Intake Form and receive approval from OpenAI. 
 
   1. _Representations and Warranties_. Customer represents and warrants that the information in the Intake Form is true and correct in all respects, and Customer will notify OpenAI if there are any material changes to the information submitted in the Intake Form during the term in which TAC is used. Customer acknowledges and agrees that provision of false or misleading information in the Intake Form, or any failure to notify OpenAI in writing if any information provided in the Intake Form has changed or is no longer complete and accurate, will constitute a material breach of the TAC Addendum and the Agreement.
 
@@ -202,7 +202,7 @@ If OpenAI approves you for Government Trusted Access for Cyber ("GTAC"), the fol
   
 
 
-Final attestation *By clicking “I certify” below and submitting this form, I confirm and certify:
+Final attestation *By clicking “I certify” below and submitting this form, I confirm and certify:
 
 I certify that:
 

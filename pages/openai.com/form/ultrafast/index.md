@@ -38,15 +38,15 @@ Sign up to receive updates on Ultrafast mode, including when capacity and access
 
 
 
-First name *
+First name *
 
-Last name *
+Last name *
 
-Work email *
+Work email *
 
-Company name *
+Company name *
 
-While we're in this early phase, we're eager to learn how your business wants to use GPT-5.6 Sol on Ultrafast mode. If you'd like, please share more about your use case:Optional
+While we're in this early phase, we're eager to learn how your business wants to use GPT‑5.6 Sol on Ultrafast mode. If you'd like, please share more about your use case:Optional
 
 Share workload details, latency pain, expected usage, current provider, or timing if relevant.
 

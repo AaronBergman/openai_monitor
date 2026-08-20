@@ -64,11 +64,11 @@ July 9, 2026
 
 Sign up to get notified an hour before our next livestream begins.
 
-First name *
+First name *
 
-Last name *
+Last name *
 
-Work email *
+Work email *
 
 Submit
 

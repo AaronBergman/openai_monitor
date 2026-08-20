@@ -49,53 +49,53 @@ Whether you’re running events, building projects, or leading a community — w
 
 ## Tell us about your student club
 
-University name *
+University name *
 
-Country *
+Country *
 
 Choose your country...AfghanistanAland IslandsAlbaniaAlgeriaAndorraAngolaAntigua and BarbudaArgentinaArmeniaArubaAustraliaAustriaAzerbaijanBahamasBahrainBangladeshBarbadosBelgiumBelizeBeninBermudaBhutanBoliviaBosnia and HerzegovinaBotswanaBrazilBruneiBulgariaBurkina FasoBurundiCabo VerdeCambodiaCameroonCanadaCayman IslandsCentral African RepublicChadChileColombiaComorosCongo (Brazzaville)Congo (DRC)Costa RicaCôte d'IvoireCroatiaCyprusCzechia (Czech Republic)DenmarkDjiboutiDominicaDominican RepublicEcuadorEgyptEl SalvadorEquatorial GuineaEritreaEstoniaEswatini (Swaziland)EthiopiaFaroe IslandsFijiFinlandFranceFrench GuianaFrench PolynesiaFrench Southern TerritoriesGabonGambiaGeorgiaGermanyGhanaGreeceGreenlandGrenadaGuadeloupeGuatemalaGuineaGuinea-BissauGuyanaHaitiHoly See (Vatican City)HondurasHungaryIcelandIndiaIndonesiaIraqIrelandIsraelItalyJamaicaJapanJordanKazakhstanKenyaKiribatiKuwaitKyrgyzstanLaosLatviaLebanonLesothoLiberiaLibyaLiechtensteinLithuaniaLuxembourgMadagascarMalawiMalaysiaMaldivesMaliMaltaMarshall IslandsMartiniqueMauritaniaMauritiusMayotteMexicoMicronesiaMoldovaMonacoMongoliaMontenegroMoroccoMozambiqueMyanmarNamibiaNauruNepalNetherlandsNew CaledoniaNew ZealandNicaraguaNigerNigeriaNorth MacedoniaNorwayOmanPakistanPalauPalestinePanamaPapua New GuineaParaguayPeruPhilippinesPolandPortugalQatarRéunionRomaniaRwandaSaint BarthelemySaint HelenaSaint Kitts and NevisSaint LuciaSaint Martin (French part)Saint Pierre and MiquelonSaint Vincent and the GrenadinesSamoaSan MarinoSao Tome and PrincipeSaudi ArabiaSenegalSerbiaSeychellesSierra LeoneSingaporeSlovakiaSloveniaSolomon IslandsSomaliaSouth AfricaSouth KoreaSouth SudanSpainSri LankaSudanSurinameSvalbard and Jan MayenSwedenSwitzerlandTaiwanTajikistanTanzaniaThailandTimor-Leste (East Timor)TogoTongaTrinidad and TobagoTunisiaTurkeyTurkmenistanTuvaluUgandaUkraineUnited Arab EmiratesUnited KingdomUnited States of AmericaUruguayUzbekistanVanuatuVietnamWallis and FutunaYemenZambiaZimbabwe
 
-Club name *
+Club name *
 
-Type of club *
+Type of club *
 
 Choose a club type...AI/MLComputer science/engineeringEntrepreneurship/startupBusiness/consultingResearch/academicDesign/productGeneral student organizationOther
 
-How active is your club? *
+How active is your club? *
 
 Choose an activity level...Weekly eventsMonthly eventsOccasional eventsMostly async or online
 
-Size of your community (approximate number of active members or reach) *
+Size of your community (approximate number of active members or reach) *
 
 Choose a community size...<5050-200200-500500+
 
-First name *
+First name *
 
-Last name *
+Last name *
 
-What is your role in your club (e.g., president, lead, organizer)? *
+What is your role in your club (e.g., president, lead, organizer)? *
 
-Email *
+Email *
 
-LinkedIn profile or club website *
+LinkedIn profile or club website *
 
-What are your club’s main focus areas today? *
+What are your club’s main focus areas today? *
 
 Choose focus areas...Workshops/eventsHackathonsResearch projectsCareer developmentStartup buildingCommunity buildingOther
 
-How is your club currently using AI tools, if at all? *
+How is your club currently using AI tools, if at all? *
 
 500 characters max.
 
-What are you most excited to explore next with AI? *
+What are you most excited to explore next with AI? *
 
 500 characters max. 
 
-What types of opportunities are you interested in receiving support for? *
+What types of opportunities are you interested in receiving support for? *
 
 Choose support opportunities...Hosting workshops or campus eventsAmbassador/leadership programsEarly access to new tools (e.g., Codex)Credits or resources for student buildersCareer and internship programmingResearch collaborationsShowcasing your work publiclyConnecting with other student leaders globally
 
-Would you like to be considered for student ambassador programs *
+Would you like to be considered for student ambassador programs *
 
 Choose an answer...YesMaybeNo
 

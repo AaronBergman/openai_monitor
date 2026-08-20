@@ -40,13 +40,13 @@ Please note that the book is only available in English.
 
 #### About You
 
-First name *
+First name *
 
-Last name *
+Last name *
 
-Email *
+Email *
 
-I am a... *
+I am a... *
 
 Select an optionUniversity/College StudentEducatorParentAdministratorOther
 
@@ -54,27 +54,27 @@ If you are a student, educator, or administrator, please share your school/unive
 
 #### Your Interest
 
-Why are you interested in receiving this book? *
+Why are you interested in receiving this book? *
 
 Maximum 500 characters.
 
-How many copies would you like? *
+How many copies would you like? *
 
 Select an option12-55-1011-99Bulk (100+)
 
 #### Mailing details
 
-To which city would the books be shipped? *
+To which city would the books be shipped? *
 
 To which state or province would the books be shipped?
 
-To which country would the books be shipped? *
+To which country would the books be shipped? *
 
 Choose your country...AfghanistanAland IslandsAlbaniaAlgeriaAndorraAngolaAntigua and BarbudaArgentinaArmeniaArubaAustraliaAustriaAzerbaijanBahamasBahrainBangladeshBarbadosBelgiumBelizeBeninBermudaBhutanBoliviaBosnia and HerzegovinaBotswanaBrazilBruneiBulgariaBurkina FasoBurundiCabo VerdeCambodiaCameroonCanadaCayman IslandsCentral African RepublicChadChileColombiaComorosCongo (Brazzaville)Congo (DRC)Costa RicaCôte d'IvoireCroatiaCyprusCzechia (Czech Republic)DenmarkDjiboutiDominicaDominican RepublicEcuadorEgyptEl SalvadorEquatorial GuineaEritreaEstoniaEswatini (Swaziland)EthiopiaFaroe IslandsFijiFinlandFranceFrench GuianaFrench PolynesiaFrench Southern TerritoriesGabonGambiaGeorgiaGermanyGhanaGreeceGreenlandGrenadaGuadeloupeGuatemalaGuineaGuinea-BissauGuyanaHaitiHoly See (Vatican City)HondurasHungaryIcelandIndiaIndonesiaIraqIrelandIsraelItalyJamaicaJapanJordanKazakhstanKenyaKiribatiKuwaitKyrgyzstanLaosLatviaLebanonLesothoLiberiaLibyaLiechtensteinLithuaniaLuxembourgMadagascarMalawiMalaysiaMaldivesMaliMaltaMarshall IslandsMartiniqueMauritaniaMauritiusMayotteMexicoMicronesiaMoldovaMonacoMongoliaMontenegroMoroccoMozambiqueMyanmarNamibiaNauruNepalNetherlandsNew CaledoniaNew ZealandNicaraguaNigerNigeriaNorth MacedoniaNorwayOmanPakistanPalauPalestinePanamaPapua New GuineaParaguayPeruPhilippinesPolandPortugalQatarRéunionRomaniaRwandaSaint BarthelemySaint HelenaSaint Kitts and NevisSaint LuciaSaint Martin (French part)Saint Pierre and MiquelonSaint Vincent and the GrenadinesSamoaSan MarinoSao Tome and PrincipeSaudi ArabiaSenegalSerbiaSeychellesSierra LeoneSingaporeSlovakiaSloveniaSolomon IslandsSomaliaSouth AfricaSouth KoreaSouth SudanSpainSri LankaSudanSurinameSvalbard and Jan MayenSwedenSwitzerlandTaiwanTajikistanTanzaniaThailandTimor-Leste (East Timor)TogoTongaTrinidad and TobagoTunisiaTurkeyTurkmenistanTuvaluUgandaUkraineUnited Arab EmiratesUnited KingdomUnited States of AmericaUruguayUzbekistanVanuatuVietnamWallis and FutunaYemenZambiaZimbabwe
 
-We will use the information you share with us consistent with our [_Privacy Policy_ ⁠](<https://openai.com/policies/privacy-policy/>), including to assess your eligibility for a copy of the book and to make sure we are able to contact you to receive a copy. 
+We will use the information you share with us consistent with our [_Privacy Policy_](<https://openai.com/policies/privacy-policy/>), including to assess your eligibility for a copy of the book and to make sure we are able to contact you to receive a copy. 
 
-Please confirm you agree with our terms to submit your form. *
+Please confirm you agree with our terms to submit your form. *
 
 I agree
 

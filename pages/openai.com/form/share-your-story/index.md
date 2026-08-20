@@ -32,41 +32,41 @@ We’re collecting real stories from people using OpenAI products - what you’r
 
 If that sounds like you (or someone you know), you can share a bit more in the form below.
 
-First name *
+First name *
 
-Last name *
+Last name *
 
-Email *
+Email *
 
-City *
+City *
 
-State *
+State *
 
-Is this story about: *
+Is this story about: *
 
 You
 
 Someone you know
 
-Tell us about yourself or the person this is about: *A few sentences about who you are, what you do, or what you’re working on, and why it matters to you.
+Tell us about yourself or the person this is about: *A few sentences about who you are, what you do, or what you’re working on, and why it matters to you.
 
 1000 characters max.
 
-How do you/they use OpenAI products? *For coding, writing, designing, learning, teaching, researching, scaling?
+How do you/they use OpenAI products? *For coding, writing, designing, learning, teaching, researching, scaling?
 
 1000 characters max.
 
-How has using OpenAI products helped you/them? *
+How has using OpenAI products helped you/them? *
 
 1000 characters max.
 
-What makes your/their story special? *
+What makes your/their story special? *
 
 1000 characters max.
 
 Any links you’d like to share?
 
-By submitting this form, you consent to being contacted by OpenAI and acknowledge that OpenAI will use your submission in accordance with its [_Privacy Policy_ ⁠](<https://openai.com/policies/row-privacy-policy/>).
+By submitting this form, you consent to being contacted by OpenAI and acknowledge that OpenAI will use your submission in accordance with its [_Privacy Policy_](<https://openai.com/policies/row-privacy-policy/>).
 
 Submit
 

@@ -30,21 +30,21 @@ OpenAI
 
 Share details about what you’re building with Codex and provide your valuable feedback on the experience.
 
-First name *
+First name *
 
-Last name *
+Last name *
 
-Email *
+Email *
 
-Institution/Organization Name *
+Institution/Organization Name *
 
-What is your primary role? *
+What is your primary role? *
 
 Please selectStudentFaculty/ProfessorStaff/AdministratorResearcherIndustry ProfessionalOther (Please specify)
 
-What is your primary area of work/study? *
+What is your primary area of work/study? *
 
-What is your current experience level with Codex? *
+What is your current experience level with Codex? *
 
 Choose your experience levelNever heard of itHeard of it but never triedTried it once or twiceOccasional userRegular/Frequent user
 

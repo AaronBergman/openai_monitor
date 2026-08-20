@@ -30,23 +30,23 @@ OpenAI
 
 Get updates on upcoming OpenAI events, practical guidance from mentors and peers, and resources to help your business save time and work smarter with AI.
 
-First name *
+First name *
 
-Last name *
+Last name *
 
-Work email *
+Work email *
 
-Company name *
+Company name *
 
 Title
 
 Company website
 
-Company size *
+Company size *
 
 Select an option1-5051-250251-500501-1,0001,001-5,0005,001-10,00010,001-20,00020,001+
 
-What sector are you building in? *
+What sector are you building in? *
 
 AgricultureApparelBankingBiotechnologyChemicalsCommunicationsConstructionConsultingEducationElectronicsEnergyEngineeringEnvironmentalFinanceGovernmentFood & BeverageHealthcareHealthcare ServicesHolding Companies & ConglomeratesHospitalityHospitals & Physicians ClinicsInsuranceLawMachineryManufacturingMediaMinerals & MiningNonprofit OrganizationOtherRecreationRetailShippingSoftwareTechnologyTelecommunicationsTransportationUtilities
 

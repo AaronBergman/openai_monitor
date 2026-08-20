@@ -44,7 +44,7 @@ Get started
 
 ## Work across your tools with a shared understanding of your customers
 
-Add plugins to extend what ChatGPT Work can do. Plugins connect customer and campaign context from tools like HubSpot, Figma, and Adobe. Use OpenAI’s Data Analytics and Product Design plugins to run pre-built workflows for campaign analysis, creative development, and prototyping.
+Add plugins to extend what ChatGPT Work can do. Plugins connect customer and campaign context from tools like HubSpot, Figma, and Adobe. Use OpenAI’s Data and Product Design plugins to run pre-built workflows for campaign analysis, creative development, and prototyping.
 
   * [DataBuilt by OpenAI](</business/plugins/data-analytics/>)
   * [Product DesignBuilt by OpenAI](</business/plugins/product-design/>)

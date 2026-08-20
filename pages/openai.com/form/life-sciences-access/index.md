@@ -78,51 +78,51 @@ Life sciences institutionsGovernment institutions
 
 #### Primary point of contact (submitting individual)
 
-First name *
+First name *
 
-Last name *
+Last name *
 
-Title *
+Title *
 
-Department / Team *
+Department / Team *
 
-Work email address *
+Work email address *
 
-Phone number *
+Phone number *
 
 Additional point(s) of contact
 
 #### Organization identification
 
-Legal entity name *
+Legal entity name *
 
 Common name / DBA (if applicable)
 
-Public website *
+Public website *
 
-Please list all countries in which you (including your employees and any other related parties) intend to use GPT-Rosalind *
+Please list all countries in which you (including your employees and any other related parties) intend to use GPT‑Rosalind *
 
-Does your organization already use ChatGPT or Codex for work? *
+Does your organization already use ChatGPT or Codex for work? *
 
 Yes
 
 No
 
-OpenAI Organization ID *
+OpenAI Organization ID *
 
-[Find your organization ID here⁠(opens in a new window)](<https://platform.openai.com/settings/organization/general>). If you do not have an existing OpenAI Organization ID, please select "N/A".
+[Find your organization ID here(opens in a new window)](<https://platform.openai.com/settings/organization/general>). If you do not have an existing OpenAI Organization ID, please select "N/A".
 
-Select where you would like to use GPT-Rosalind. *Check all that apply
+Select where you would like to use GPT‑Rosalind. *Check all that apply
 
-GPT-Rosalind in Codex (sign in with ChatGPT)
+GPT‑Rosalind in Codex (sign in with ChatGPT)
 
-GPT-Rosalind in ChatGPT 
+GPT‑Rosalind in ChatGPT 
 
 In your own internal tools and applications via the OpenAI API
 
 To build applications with external users via the OpenAI API
 
-How do you intend to use the GPT-Rosalind? *Please feel free to include aspirational plans for how your organization could leverage OpenAI services including GPT-Rosalind for beneficial use.
+How do you intend to use the GPT‑Rosalind? *Please feel free to include aspirational plans for how your organization could leverage OpenAI services including GPT‑Rosalind for beneficial use.
 
 Organizations with approved submissions will need to agree to OpenAI’s services terms for the research beta to participate. 
 
@@ -131,7 +131,7 @@ By clicking “I certify” below and submitting this form, I confirm and certif
   
 
 
-Final attestation *
+Final attestation *
 
 I certify
 

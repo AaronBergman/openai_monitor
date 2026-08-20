@@ -35,52 +35,52 @@ We’re gathering examples of how ChatGPT Pro supports your work and daily life.
 Tell us a little bit about yourself and your expertise.  
 
 
-First name *
+First name *
 
-Last name *
+Last name *
 
-Email associated with your ChatGPT account *
+Email associated with your ChatGPT account *
 
-Contact email *We’ll only use this email if we have follow-up questions about your submission.
+Contact email *We’ll only use this email if we have follow-up questions about your submission.
 
-What is your professional field? *
+What is your professional field? *
 
 Select professional fieldComputer Science/Software EngineeringEngineering (Non-Software), Physical Sciences, or MathematicsHealth, Medicine, or Life SciencesBusiness, Finance, or EconomicsSocial SciencesHumanities or CommunicationsCreative Arts or DesignEnvironment or SustainabilityEducation or Learning SciencesOther
 
-Link to your LinkedIn, bio page, or website *
+Link to your LinkedIn, bio page, or website *
 
 City
 
 State or province
 
-Country *
+Country *
 
 Choose your country...AfghanistanAland IslandsAlbaniaAlgeriaAndorraAngolaAntigua and BarbudaArgentinaArmeniaArubaAustraliaAustriaAzerbaijanBahamasBahrainBangladeshBarbadosBelgiumBelizeBeninBermudaBhutanBoliviaBosnia and HerzegovinaBotswanaBrazilBruneiBulgariaBurkina FasoBurundiCabo VerdeCambodiaCameroonCanadaCayman IslandsCentral African RepublicChadChileColombiaComorosCongo (Brazzaville)Congo (DRC)Costa RicaCôte d'IvoireCroatiaCyprusCzechia (Czech Republic)DenmarkDjiboutiDominicaDominican RepublicEcuadorEgyptEl SalvadorEquatorial GuineaEritreaEstoniaEswatini (Swaziland)EthiopiaFaroe IslandsFijiFinlandFranceFrench GuianaFrench PolynesiaFrench Southern TerritoriesGabonGambiaGeorgiaGermanyGhanaGreeceGreenlandGrenadaGuadeloupeGuatemalaGuineaGuinea-BissauGuyanaHaitiHoly See (Vatican City)HondurasHungaryIcelandIndiaIndonesiaIraqIrelandIsraelItalyJamaicaJapanJordanKazakhstanKenyaKiribatiKuwaitKyrgyzstanLaosLatviaLebanonLesothoLiberiaLibyaLiechtensteinLithuaniaLuxembourgMadagascarMalawiMalaysiaMaldivesMaliMaltaMarshall IslandsMartiniqueMauritaniaMauritiusMayotteMexicoMicronesiaMoldovaMonacoMongoliaMontenegroMoroccoMozambiqueMyanmarNamibiaNauruNepalNetherlandsNew CaledoniaNew ZealandNicaraguaNigerNigeriaNorth MacedoniaNorwayOmanPakistanPalauPalestinePanamaPapua New GuineaParaguayPeruPhilippinesPolandPortugalQatarRéunionRomaniaRwandaSaint BarthelemySaint HelenaSaint Kitts and NevisSaint LuciaSaint Martin (French part)Saint Pierre and MiquelonSaint Vincent and the GrenadinesSamoaSan MarinoSao Tome and PrincipeSaudi ArabiaSenegalSerbiaSeychellesSierra LeoneSingaporeSlovakiaSloveniaSolomon IslandsSomaliaSouth AfricaSouth KoreaSouth SudanSpainSri LankaSudanSurinameSvalbard and Jan MayenSwedenSwitzerlandTaiwanTajikistanTanzaniaThailandTimor-Leste (East Timor)TogoTongaTrinidad and TobagoTunisiaTurkeyTurkmenistanTuvaluUgandaUkraineUnited Arab EmiratesUnited KingdomUnited States of AmericaUruguayUzbekistanVanuatuVietnamWallis and FutunaYemenZambiaZimbabwe
 
 #### YOUR CHATS
 
-Please share at least two chats that have been particularly useful to you. We’re looking for examples that reflect how you use ChatGPT at work and in your daily life. You can see how we’ve recently showcased chats with [_students_ ⁠(opens in a new window)](<https://chatgpt.com/use-cases/students>), [_educators_ ⁠(opens in a new window)](<https://chatgpt.com/use-cases/university-educators>), and [_scientists_ ⁠(opens in a new window)](<https://chatgpt.com/use-cases/scientists>).  
+Please share at least two chats that have been particularly useful to you. We’re looking for examples that reflect how you use ChatGPT at work and in your daily life. You can see how we’ve recently showcased chats with [_students_(opens in a new window)](<https://chatgpt.com/use-cases/students>), [_educators_(opens in a new window)](<https://chatgpt.com/use-cases/university-educators>), and [_scientists_(opens in a new window)](<https://chatgpt.com/use-cases/scientists>).  
 
 
 #### Chat #1
 
-Chat starter *Paste the text you used to start your chat.
+Chat starter *Paste the text you used to start your chat.
 
-Share the impact *Describe what this chat helped you accomplish or understand.
+Share the impact *Describe what this chat helped you accomplish or understand.
 
 Chat linkShare the link to your full chat for broader context (we will not publish it).
 
-The easiest way to share is by using the Share button on the top right of the chat screen. [Learn more⁠(opens in a new window)](<https://help.openai.com/en/articles/7925741-chatgpt-shared-links-faq>).
+The easiest way to share is by using the Share button on the top right of the chat screen. [Learn more(opens in a new window)](<https://help.openai.com/en/articles/7925741-chatgpt-shared-links-faq>).
 
 #### Chat #2
 
-Chat starter *Paste the text you used to start your chat.
+Chat starter *Paste the text you used to start your chat.
 
-Share the impact *Describe what this chat helped you accomplish or understand.
+Share the impact *Describe what this chat helped you accomplish or understand.
 
 Chat linkShare the link to your full chat for broader context (we will not publish it).
 
-The easiest way to share is by using the Share button on the top right of the chat screen. [Learn more⁠(opens in a new window)](<https://help.openai.com/en/articles/7925741-chatgpt-shared-links-faq>).
+The easiest way to share is by using the Share button on the top right of the chat screen. [Learn more(opens in a new window)](<https://help.openai.com/en/articles/7925741-chatgpt-shared-links-faq>).
 
 #### Chat #3 (optional)
 
@@ -90,11 +90,11 @@ Share the impactDescribe what this chat helped you accomplish or understand.
 
 Chat linkShare the link to your full chat for broader context (we will not publish it).
 
-The easiest way to share is by using the Share button on the top right of the chat screen. [Learn more⁠(opens in a new window)](<https://help.openai.com/en/articles/7925741-chatgpt-shared-links-faq>).
+The easiest way to share is by using the Share button on the top right of the chat screen. [Learn more(opens in a new window)](<https://help.openai.com/en/articles/7925741-chatgpt-shared-links-faq>).
 
 #### PERMISSIONS
 
-By submitting your chats, you agree that any content you share may be used by OpenAI for marketing or educational purposes. *
+By submitting your chats, you agree that any content you share may be used by OpenAI for marketing or educational purposes. *
 
 I agree
 
@@ -102,7 +102,7 @@ I agree
 
 Tell us how you’d like to engage with us.
 
-Which of the following are you interested in? *Select all that apply.
+Which of the following are you interested in? *Select all that apply.
 
 Sharing more about how you use ChatGPT Pro
 
@@ -114,7 +114,7 @@ Having a dedicated channel to exchange ideas with Pro users
 
 Other
 
-If we were to create a space for Pro users, where would you prefer it to be? *
+If we were to create a space for Pro users, where would you prefer it to be? *
 
 LinkedIn
 

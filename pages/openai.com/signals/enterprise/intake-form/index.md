@@ -34,13 +34,13 @@ We’ll review your request and follow up through your OpenAI account team.
 
 ## Request a benchmark
 
-Company name *
+Company name *
 
-First name *
+First name *
 
-Last name *
+Last name *
 
-Work email (company domain) *
+Work email (company domain) *
 
 OpenAI account contact (optional)
 
@@ -50,7 +50,7 @@ We’ll review your request and, if your organization is eligible, share your be
 
 I understand OpenAI will process this information per its [Privacy Policy](</policies/privacy-policy/>), confirm I’m authorized to request this information for my organization, and agree to be contacted about Enterprise Signals.
 
-Consent *
+Consent *
 
 I agree
 
