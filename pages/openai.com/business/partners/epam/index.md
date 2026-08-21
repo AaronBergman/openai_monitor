@@ -38,7 +38,7 @@ OpenAI
 
 EPAM helps Global 2000 enterprises securely operationalize OpenAI's frontier models at scale. Backed by 30+ years of engineering expertise, our forward-deployed engineering model, AI-native delivery and deep cybersecurity and governance capabilities move CIOs and CMOs from experimentation to production fast. A global talent pool and proven legacy modernization skills help embed responsible AI across every workflow. We’ve delivered real outcomes in financial services, healthcare, retail, and telecoms, including one solution where 20+ AI agents reached production in under three months. Explore how EPAM and OpenAI drive secure enterprise transformation.
 
-![Advanced Partner](/images/partner-tier-badges/OAI_PartnerNetwork_AdvancedPartner.svg?dpl=dpl_93RPSLao5f8Pi59ntWHqT47k9mhr)
+![Advanced Partner](/images/partner-tier-badges/OAI_PartnerNetwork_AdvancedPartner.svg?dpl=dpl_3J1J6ZgVoKPd952CcGXLSWs8TpdX)
 
 Countries served
     Global
