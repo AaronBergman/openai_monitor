@@ -140,17 +140,17 @@ More than 1 million businesses around the world are achieving meaningful results
 
 ## Keep reading
 
+![Introducing AI Futures – Card image](https://images.ctfassets.net/kftzwdyauwt9/RjXEDZCs05kKmaPL1jE4e/38a319c88829e42fc259193178144ecf/introducing-ai-futures-card-ocean-blue-1080x1080.png?w=3840&q=90&fm=webp)
+
+[Introducing AI FuturesAI FuturesAug 20, 2026](</index/introducing-ai-futures/>)
+
+![Stampli Customer Story Art Card / Hero Image - Ribbed Blue V2](https://images.ctfassets.net/kftzwdyauwt9/3xEyRSvkAPmbr2ub5jaJUz/4d5ce10e48995a14263aa1e2c7f696cc/stampli-art-card-hero-1x1-v2-ribbed.png?w=3840&q=90&fm=webp)
+
+[How ChatGPT Work helps Stampli move ideas to marketAug 20, 2026](</index/stampli/>)
+
 ![Our commitment to Zero Data Retention as AI advances — card](https://images.ctfassets.net/kftzwdyauwt9/6bPStWA6pc66cahnhg0jo6/61786b178401b6e902e9da65fa4da095/Blog_Thumbnail_-_OpenAI_Blog.png?w=3840&q=90&fm=webp)
 
 [Offering Zero Data Retention for frontier modelsCompanyAug 19, 2026](</index/offering-zero-data-retention-for-frontier-models/>)
-
-![replit-customer-story-art-card-1x1](https://images.ctfassets.net/kftzwdyauwt9/2ZUd2sTOK6p4MrjDZnvCoM/512b38a71cf26f09c3cda3c51169c401/replit-customer-story-art-card-1x1.png?w=3840&q=90&fm=webp)
-
-[Replit expands access to software creation with GPT-5.6 LunaStartupAug 19, 2026](</index/replit/>)
-
-![ChatGPT Ads expands across Europe - Card image](https://images.ctfassets.net/kftzwdyauwt9/IMh9E5WMDoVaUJyBJrsEP/697ba885d5e89b6bd27a55b9c9a783ae/chatgpt-ads-europe-readable-card.png?w=3840&q=90&fm=webp)
-
-[ChatGPT Ads expands across EuropeProductAug 18, 2026](</index/chatgpt-ads-expands-across-europe/>)
 
 Research
 

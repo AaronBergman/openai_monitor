@@ -38,7 +38,7 @@ OpenAI
 
 Insurgence is an AI-native services company helping enterprises implement AI native operating models with OpenAI solutions. We believe adoption without engineering stalls, and engineering without adoption never scales, so we combine both in one team. Our enablement programs build fluency and momentum with ChatGPT Enterprise, from executive teams to everyday champions, while our forward-deployed engineers build and integrate agentic solutions on the OpenAI API platform and Codex. Working with large retail and consumer enterprises, we move organisations from first adoption to fundamentally redesigned operating models, rebuilt around new ways of working from the ground up.
 
-![Select Partner](/images/partner-tier-badges/OAI_PartnerNetwork_SelectPartner.svg?dpl=dpl_FVk4QodRZ5kG9YVJMACPwdTCDJ7A)
+![Select Partner](/images/partner-tier-badges/OAI_PartnerNetwork_SelectPartner.svg?dpl=dpl_3J1J6ZgVoKPd952CcGXLSWs8TpdX)
 
 Countries served
     Australia

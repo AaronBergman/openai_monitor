@@ -40,7 +40,7 @@ A secure workspace with company context and tools for teams, built for growing c
 
 $20
 
-/ user / month
+/ user / month*
 
 [Get started(opens in a new window)](<https://chatgpt.com/team-sign-up>)
 

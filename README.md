@@ -1,6 +1,48 @@
 # openai_monitor
 
 
+## 2026-08-21 — Run `2026-08-21T09-16Z`
+
+**Fetch time:** 2026-08-21T09:16:44Z UTC | **Baseline:** 2026-08-20T09-15Z (consecutive day)
+
+**TL;DR:** OpenAI launched a new policy/blog vertical today: **AI Futures**, the blog of a newly-announced "Strategic Futures" team, opening with a long essay by Dean Ball on how free societies should be restructured to preserve individual rights and agency as AI-enabled automation removes the state's traditional need for citizen cooperation (labor, taxes, soldiers) to hold power — explicitly framed as personal-author views, not official OpenAI policy. The new vertical got its own sitemap category (`ai-futures`, the site's 36th) and its own `/news/ai-futures/` index. Separately, OpenAI's ChatGPT Business "Premium seats" promo — which offered $100 in workspace credits per seat for the first 10,000 workspaces signing up before August 20 — has closed exactly on schedule, with the signup form now reading "this promotion has ended." A new Stampli customer story landed (68% faster product-launch production using Codex and ChatGPT Work), and the startups landing page picked up five new in-person "Builder Lounge" meetups across European cities (London, Berlin, Stockholm, Paris, Munich) in September. Everything else among the day's 118 "updated" pages was carousel rotation surfacing the day's new posts, or a deploy-ID cache-buster on ~55 partner-badge images — no other visible content changes.
+
+### Anomalies
+
+- **New sub-sitemap category: `ai-futures`.** The 36th sub-sitemap section appeared, backing the new AI Futures blog vertical — a structural addition, not a data-integrity issue.
+- One page (`/business/plugins/investment-banking/`) carries a `<lastmod>` about 3 seconds after our fetch timestamp — negligible clock skew from an in-progress redeploy at fetch time, not a meaningful anomaly.
+
+No backwards-moving `<lastmod>` values, no backdated new URLs, and no disappeared-then-reappeared URLs.
+
+### Notable updates
+
+- **ChatGPT Business "Premium seats" promotion has ended.** [`/form/business/premium-offer/`](pages/openai.com/form/business/premium-offer/index.md) — the signup form (which offered $100 in workspace credits per qualifying Premium seat, up to 5 seats, for the first 10,000 workspaces signing up before August 20, 2026) now reads: "This promotion has ended, and we are no longer accepting submissions. Premium seats are coming soon to ChatGPT Business." Closed right on the promotion's own stated deadline.
+- **Startups landing page refreshed with new "Builder Lounge" event series.** [`/business/why-openai/startups/`](pages/openai.com/business/why-openai/startups/index.md) — swapped in the newer business-section nav, and replaced two July webinar listings with an August 26 "Build Hour: Image Gen 2" session plus five new in-person **Builder Lounge** meetups: London (Sept 3, w/ Conduct), Berlin (Sept 9, w/ Parloa), Stockholm (Sept 15, w/ Lovable), Paris (Sept 22, w/ Photoroom), and Munich (Sept 29, w/ n8n).
+
+### Routine, low-signal updates
+
+Of the 118 lastmod-updated URLs, 45 had zero rendered-text difference (pure metadata touch). Of the remaining 73, nearly all break down into two sitewide template effects, verified by diffing every changed page's markdown against yesterday's snapshot:
+1. **Partner-badge deploy-ID churn (~55 `/business/partners/<name>/` pages):** only a Vercel deployment-ID query string changed on the partner-tier badge image URL — zero visible change, a byproduct of a site-wide redeploy.
+2. **"Keep reading" / related-news carousel refresh (~15 pages):** bottom-of-page card carousels and the `/news/*` category index pages rotated in today's two new posts (Introducing AI Futures, Stampli) in place of older cards — expected daily churn, not an edit to the hosting page.
+
+`/business/pricing/` picked up a footnote asterisk on "$20 / user / month" pointing to billing terms already present lower on the page (2+ users, billed annually) — a cosmetic clarification, not a price change.
+
+### New pages
+
+- **[Introducing AI Futures](pages/openai.com/index/introducing-ai-futures/index.md)** (AI Futures) — launch post for OpenAI's new Strategic Futures team and blog, by Dean Ball. Argues that AI-driven automation of force and revenue collection could let states sustain power without the broad citizen cooperation political power has always required, and lays out founding principles (individual autonomy paired with individual responsibility, narrowly-scoped collective action, privacy-preserving "bounded legibility" for high-stakes AI actions) meant to guide the team's work on preserving a balance of power as AI capabilities grow. Explicitly author's-views-not-company-policy.
+- **[AI Futures news index](pages/openai.com/news/ai-futures/index.md)** — new `/news/` category page and root of the new `ai-futures` sub-sitemap, now listed alongside the site's other news categories.
+- **[Stampli cuts launch hours by 68% using ChatGPT Work](pages/openai.com/index/stampli/index.md)** (Company) — customer story: mid-market fintech company used Codex and ChatGPT Work to compress a product-launch production timeline under a fixed deadline.
+
+### Removals
+
+None this run.
+
+**Stats:** 1,604 total URLs | +3 added | 118 updated | -0 removed | 2 anomalies | 36 sub-sitemaps
+
+Full analysis: [runs/2026-08-21T09-16Z/analysis.md](runs/2026-08-21T09-16Z/analysis.md)
+
+---
+
 ## 2026-08-20 — Run `2026-08-20T09-15Z`
 
 **Fetch time:** 2026-08-20T09:18:05Z UTC | **Baseline:** 2026-08-19T09-16Z (consecutive day)

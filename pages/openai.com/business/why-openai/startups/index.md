@@ -1,28 +1,28 @@
 Skip to main content
 
-[](</>)
+[](</>)[](</business/>)
 
-  * [Research](</research/index/>)
+  * Why OpenAI
   * Products
-  * [Business](</business/>)
-  * [Developers](</api/>)
-  * [Company](</about/>)
-  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
+  * Solutions
+  * Resources
+  * [Customers](</business/customer-stories/>)
+  * [Pricing](</business/pricing/>)
 
 
 
-Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
+Try OpenAI[Contact sales](</contact-sales/>)
 
-  * Research
+  * Why OpenAI
   * Products
-  * Business
-  * Developers
-  * Company
-  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
+  * Solutions
+  * Resources
+  * [Customers](</business/customer-stories/>)
+  * [Pricing](</business/pricing/>)
 
 
 
-[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)Login
+[Contact sales](</contact-sales/>)Try OpenAI
 
 OpenAI
 
@@ -276,15 +276,27 @@ PingoPaceAaruMonacoMinerva
 
 Join upcoming events for hands-on building, technical support, and connecting with other founders.
 
-### [Build Hour: Image Gen 2 (July 23, 10 am PT, Virtual)Learn how gpt-image-2 uses text, images, and broad world knowledge to generate and edit images with strong instruction following and contextual awareness.Register here](<https://webinar.openai.com/buildhours/imagegen2/>)
+### [Build Hour: Image Gen 2 (August 26, 10 am PT, Virtual)Learn how gpt-image-2 uses text, images, and broad world knowledge to generate and edit images with strong instruction following and contextual awareness.Register here](<https://webinar.openai.com/buildhours/imagegen2/>)
 
-### [Build Hour: Building Agents (July 29, 10 am PT, Virtual)Learn how to build agentic apps with less orchestration overhead and more built-in support for real workflows.Register here](<https://webinar.openai.com/buildhours/buildingagents>)
+### [Builder Lounge: London (September 3)Join us for an evening of hands-on building, live demos, and networking, co-hosted with Conduct.Register here](<https://luma.com/e9frs2c9>)
+
+### [Builder Lounge: Berlin (September 9)Join us for an evening of hands-on building, live demos, and networking, co-hosted with Parloa.Register here](<https://luma.com/8uojs88j>)
+
+### [Builder Lounge: Stockholm (September 15)Join us for an evening of hands-on building, live demos, and networking, co-hosted with Lovable.Register here](<https://luma.com/9lpe783q>)
+
+### [Builder Lounge: Paris (September 22)Join us for an evening of hands-on building, live demos, and networking, co-hosted with Photoroom.Register here](<https://luma.com/qfcsoul6>)
+
+### [Builder Lounge: Munich (September 29)Join us for an evening of hands-on building, live demos, and networking, co-hosted with n8n.Register here](<https://luma.com/k82f3c5u>)
 
 ### [Build Hours (On Demand)Build with session materials from past Build Hours, including demos, starter code, and examples across agent workflows, integrations, and deployment patterns.Catch Up](<https://webinar.openai.com/buildhours/>)
 
 ## Hear from the founders bringing bold ideas to life
 
 * * *
+
+![replit-customer-story-art-card-1x1](https://images.ctfassets.net/kftzwdyauwt9/2ZUd2sTOK6p4MrjDZnvCoM/512b38a71cf26f09c3cda3c51169c401/replit-customer-story-art-card-1x1.png?w=3840&q=90&fm=webp)
+
+[Replit expands access to software creation with GPT-5.6 LunaStartupAug 19, 2026](</index/replit/>)
 
 ![Model ML customer story card image](https://images.ctfassets.net/kftzwdyauwt9/3STNMQMrFRC8mFdLYtjkV4/9cc21e9c729b2ae7cdf75aa3f49b3033/modelml-card.png?w=3840&q=90&fm=webp)
 
@@ -297,10 +309,6 @@ Join upcoming events for hands-on building, technical support, and connecting wi
 ![Parloa > Card](https://images.ctfassets.net/kftzwdyauwt9/79CIP6zYxNAKgc3cJfSimj/cd0b9187ba78aeca8088ba6c11ce8b7e/oai_Parloa_1x1.png?w=3840&q=90&fm=webp)
 
 [Parloa builds service agents customers want to talk toStartupMay 7, 2026](</index/parloa/>)
-
-![oai GradientLabs 1x1](https://images.ctfassets.net/kftzwdyauwt9/5KZQBYyY2LBtllikqf9aul/6143158d9c259eed5aafb47cdac9bcdd/oai_GradientLabs_1x1.png?w=3840&q=90&fm=webp)
-
-[Gradient Labs gives every bank customer an AI account managerStartupApr 1, 2026](</index/gradient-labs/>)
 
   * [Explore more stories](<https://openai.com/business/customer-stories/?tags=startup>)
 

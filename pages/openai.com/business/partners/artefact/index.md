@@ -38,7 +38,7 @@ OpenAI
 
 Artefact is a global data and AI consulting and engineering firm, headquartered in Paris and one of Europe's leading AI-native consultancies, present in 27 countries with 2,500 employees. AI is about people: tools alone create no value, and real impact comes from reshaping core processes and reinventing how people work. We accelerate AI adoption from strategy to production, end-to-end across the enterprise value chain, turning generative and agentic AI, on solid data foundations, into new operating models deployed at scale. We partner with 1,000+ clients, including some of the world's top 300 brands.
 
-![Advanced Partner](/images/partner-tier-badges/OAI_PartnerNetwork_AdvancedPartner.svg?dpl=dpl_93RPSLao5f8Pi59ntWHqT47k9mhr)
+![Advanced Partner](/images/partner-tier-badges/OAI_PartnerNetwork_AdvancedPartner.svg?dpl=dpl_3J1J6ZgVoKPd952CcGXLSWs8TpdX)
 
 Countries served
     Global
