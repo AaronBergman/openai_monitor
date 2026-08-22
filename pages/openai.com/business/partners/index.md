@@ -230,6 +230,10 @@ PwC
 
 ![PwC logo](https://images.ctfassets.net/kftzwdyauwt9/5BFMsQmqE7Ua8oJBrFUumf/e4db788c32743ab8458efcd4d47d0030/pwc-square-light.svg?w=3840&q=90)
 
+Quantium
+
+![Quantium logo](https://images.ctfassets.net/kftzwdyauwt9/68uAUmDV09Nzn5CnJUI33z/4eaf4ae6ec3f20ef27008f139dde8f22/2KSUUrVGm5djFehqRkvTse?w=3840&q=90&fm=webp)
+
 Recursive
 
 ![Recursive logo](https://images.ctfassets.net/kftzwdyauwt9/1XGnEYNfaiLQbyxX19lJmY/0c2bf69adbe257130d2bfc442fc601c2/recursive-square-light.svg?w=3840&q=90)
@@ -269,6 +273,10 @@ Snowflake
 statworx
 
 ![statworx logo](https://images.ctfassets.net/kftzwdyauwt9/Yx30LAXRjjMmlOsGr52fj/1141616753f711fc5451ac2a717d28d0/statworx-square-light.svg?w=3840&q=90)
+
+TCS
+
+![TCS logo](https://images.ctfassets.net/kftzwdyauwt9/55P4y3cpv0If7lYmQZCHOc/eda7195f9936d398c4ae891768b16741/tcs-square-light.svg?w=3840&q=90)
 
 teamLab
 
@@ -490,6 +498,10 @@ PwC
 
 ![PwC logo](https://images.ctfassets.net/kftzwdyauwt9/5BFMsQmqE7Ua8oJBrFUumf/e4db788c32743ab8458efcd4d47d0030/pwc-square-light.svg?w=3840&q=90)
 
+Quantium
+
+![Quantium logo](https://images.ctfassets.net/kftzwdyauwt9/68uAUmDV09Nzn5CnJUI33z/4eaf4ae6ec3f20ef27008f139dde8f22/2KSUUrVGm5djFehqRkvTse?w=3840&q=90&fm=webp)
+
 Recursive
 
 ![Recursive logo](https://images.ctfassets.net/kftzwdyauwt9/1XGnEYNfaiLQbyxX19lJmY/0c2bf69adbe257130d2bfc442fc601c2/recursive-square-light.svg?w=3840&q=90)
@@ -529,6 +541,10 @@ Snowflake
 statworx
 
 ![statworx logo](https://images.ctfassets.net/kftzwdyauwt9/Yx30LAXRjjMmlOsGr52fj/1141616753f711fc5451ac2a717d28d0/statworx-square-light.svg?w=3840&q=90)
+
+TCS
+
+![TCS logo](https://images.ctfassets.net/kftzwdyauwt9/55P4y3cpv0If7lYmQZCHOc/eda7195f9936d398c4ae891768b16741/tcs-square-light.svg?w=3840&q=90)
 
 teamLab
 

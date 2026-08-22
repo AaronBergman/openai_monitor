@@ -42,6 +42,10 @@ Overview of OpenAI’s hiring philosophy and interview process.
 
 OpenAI employees come from different backgrounds and disciplines, but there is one thing that we all have in common: a dedication to our mission to build safe artificial intelligence that benefits all of humanity. Our interview process is a chance for us to get to know you, and for you to get to know us and learn what makes OpenAI, OpenAI. Below is an example of what you can expect if you apply for one of our roles. Your interview experience may differ, but we strive for consistency to make sure all applicants have the same chance to showcase their strengths.
 
+### Our work in practice
+
+Our mission is to ensure that artificial general intelligence benefits all of humanity. Hear directly from OpenAI employees about what this means to them and how it shapes their day-to-day work.
+
   * **Application and résumé review**. Submit your application to positions that interest you. It typically takes the recruiting team one week to review your résumé and email you back.
 
   * **Introductory calls**. If there is a potential fit, a recruiting coordinator will email you to schedule a conversation with the hiring manager or recruiter. Recruiters will answer any questions you have along the way.  
@@ -49,6 +53,8 @@ OpenAI employees come from different backgrounds and disciplines, but there is o
 Be prepared to discuss your work and academic experience, motivations and goals. You can find OpenAI’s latest work on our [blog⁠](<https://openai.com/news>). We recommend familiarizing yourself with our recent updates—especially those related to the team you are interviewing for.
 
   * **Skills-based assessment**. Within a week, our recruiting team will let you know if you’ve progressed to the next stage. We’ll share details about your next assessment. Formats vary by team and may include: pair coding interviews, take-home projects, technical tests, etc. We may ask you to complete more than one assessment depending on the role. The recruiting team will provide prep to set you up for success. After the assessment, you’ll hear within a week if you’ve advanced to the next round.
+
+  * **We want to understand how you think.** Our interviews are designed to help us understand how you approach problems, make decisions, and communicate your reasoning. Expectations for AI and other tools vary by interview: some formats intentionally allow them, while others are designed to assess your independent problem-solving without AI tools. We’ll explain what is allowed in your interview preparation materials. If you’re unsure, please ask your recruiter before the interview.
 
   * **Final interviews**. By default, our interviews will continue to take place virtually, though you may choose to interview onsite at our office in San Francisco. Typically, our candidates go through 4–6 hours of final interviews with 4–6 people over 1–2 days.  
 Interviews will be focused on your area of expertise and are designed to stretch you beyond your comfort zone.  
@@ -79,9 +85,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -118,6 +124,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -151,6 +159,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

@@ -28,26 +28,31 @@ OpenAI
 
 [Back to OpenAI Partner Locator](</business/partners/locator/>)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/5lqoMzOw4EfPUWi4z1PS5m/aab78dace7955528f7854b24feffba82/pathfindr-square-light.svg?w=3840&q=90)
+![](https://images.ctfassets.net/kftzwdyauwt9/55P4y3cpv0If7lYmQZCHOc/eda7195f9936d398c4ae891768b16741/tcs-square-light.svg?w=3840&q=90)
 
-# Pathfindr
+# Tata Consultancy Services (TCS)
 
-[Visit website(opens in a new window)](<https://www.pathfindr.ai/>)
+[Visit website(opens in a new window)](<https://www.tcs.com/who-we-are/newsroom/press-release/tata-group-openai-forge-foundational-partnership-advance-ai-transformation-india-and-globally>)
 
 ## About
 
-Pathfindr is an AI adoption and capability partner, helping organisations turn emerging AI technologies into measurable business outcomes. As OpenAI's official services partner in Australia and New Zealand, we support enterprise, government and industry to understand, adopt and accelerate with AI. Our accelerator programs build the capability and confidence leaders and teams need to reimagine workflows, spot high-impact opportunities, and lead their industry with AI. Combining hands-on enablement with end-to-end AI build solutions via our parent company Affinda, we help organisations reduce implementation risk and embed scalable AI that delivers lasting impact.
+Tata Consultancy Services (TCS) is a digital transformation and technology partner of choice for industry-leading organisations worldwide, helping enterprises accelerate AI-driven transformation with OpenAI. By combining frontier AI models with deep enterprise transformation expertise, industry-specific knowledge, and large-scale engineering and delivery capabilities, TCS enables organisations to responsibly adopt generative AI and achieve measurable business outcomes at scale.
 
-![Advanced Partner](/images/partner-tier-badges/OAI_PartnerNetwork_AdvancedPartner.svg?dpl=dpl_7oogDvuZFuvHdJ8KyeLNZkVu3RVW)
+The partnership between TCS and OpenAI goes beyond technology adoption, focusing on secure, scalable AI solutions across strategy, application modernisation, data, cloud, and operations. From enhancing employee productivity and customer experience to transforming software engineering and driving industry-specific initiatives, TCS helps organisations bridge the gap between cutting-edge AI capabilities and real-world business value, accelerating innovation and delivering sustainable growth.
+
+![Elite Partner](/images/partner-tier-badges/OAI_PartnerNetwork_ElitePartner.svg?dpl=dpl_7oogDvuZFuvHdJ8KyeLNZkVu3RVW)
 
 Countries served
-    Australia and New Zealand
+    Global
 
 Industry
     Cross-industry
 
+Program partners
+    AWS and Oracle
+
 Partner Summit 2026 Award
-    APAC Customer Impact Award
+    AI Application Modernization Award
 
 Research
 

@@ -46,7 +46,7 @@ Our services include OpenAI API-based solution development, AI Center of Excelle
 
 By combining OpenAI's cutting-edge AI technology with NTT DATA's consulting, engineering, and industry expertise, we help organizations realize end-to-end AI transformation.
 
-![Advanced Partner](/images/partner-tier-badges/OAI_PartnerNetwork_AdvancedPartner.svg?dpl=dpl_3J1J6ZgVoKPd952CcGXLSWs8TpdX)
+![Advanced Partner](/images/partner-tier-badges/OAI_PartnerNetwork_AdvancedPartner.svg?dpl=dpl_7oogDvuZFuvHdJ8KyeLNZkVu3RVW)
 
 Countries served
     Global

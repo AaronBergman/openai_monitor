@@ -1,6 +1,46 @@
 # openai_monitor
 
 
+## 2026-08-22 — Run `2026-08-22T09-17Z`
+
+**Fetch time:** 2026-08-22T09:17:16Z UTC | **Baseline:** 2026-08-21T09-16Z (consecutive day)
+
+**TL;DR:** A quiet day dominated by one real pricing move: OpenAI cut the price of its flagship **GPT‑5.6 Sol** model by "over 20%" for the API and ChatGPT credits, promotionally, for the next three months (through at least November 21, 2026) — visible on the `/api/` landing page as a drop from $5.00/$30.00 to $4.00/$20.00 per 1M input/output tokens. Two new companies joined the OpenAI Partner Network: **Quantium** (an Australian AI/data-analytics firm, as a Select Partner) and **Tata Consultancy Services** (as an Elite Partner, tied to a broader Tata Group–OpenAI partnership). The product release-notes page picked up two new Codex/ChatGPT changelog entries — an Apple Messages plugin, Site co-editing and editable Site URLs, shareable Codex thread snapshots, and unified pinned threads (Aug 20); plus beta GitLab support in Codex cloud (Aug 19). OpenAI's own careers **interview guide** quietly added a notable disclosure: interview formats now explicitly vary on whether AI tools are allowed, and candidates are told to ask their recruiter if unsure. The Student Collective page swapped an old CTA for a new newsletter signup. Everything else among the day's 60 "updated" pages was carousel rotation or deploy-ID cache-busting with no visible change.
+
+### Anomalies
+
+None. No future-dated or backwards-moving `<lastmod>` values, no backdated new URLs, no disappeared-then-reappeared URLs. 4 URLs continued the recurring `global-affairs` ↔ `global-affairs-news-listed` category flip-flop first flagged 2026-08-19 (routine, unstable backend categorization, not a new issue).
+
+### Notable updates
+
+- **GPT-5.6 Sol gets a promotional price cut.** [`/index/gpt-5-6/`](pages/openai.com/index/gpt-5-6/index.md) — new changelog line: "OpenAI dropped the API and credit pricing of GPT‑5.6 Sol by over 20% for the next 3 months" (Aug 21, 2026). [`/api/`](pages/openai.com/api/index.md) shows the concrete numbers: **$5.00 → $4.00 input** and **$30.00 → $20.00 output** per 1M tokens, with a new footnote confirming the promotional pricing runs "at least through November 21, 2026." The same page's CTA also flipped back to "Start building" — at least the third flip of this specific A/B test in a week (previously flagged 8/18, 8/20).
+- **Two new Partner Network members.** [`/business/partners/quantium/`](pages/openai.com/business/partners/quantium/index.md) — Quantium, an Australian AI/data-analytics company (~1,200 people, founded 2002), joins as a **Select Partner**. [`/business/partners/tcs/`](pages/openai.com/business/partners/tcs/index.md) — Tata Consultancy Services joins as an **Elite Partner** (the top tier), linked to a Tata Group–OpenAI "foundational partnership" announcement.
+- **Codex/ChatGPT changelog: Apple Messages, Sites, GitLab.** [`/products/release-notes/`](pages/openai.com/products/release-notes/index.md) — Aug 20 (GA): new Apple Messages plugin for macOS (read/search/send with approval gating), Site co-editing for workspace members, editable Site URLs, shareable read-only Codex thread snapshots with secret redaction, unified pinned threads across desktop/iOS. Aug 19 (Beta): GitLab support in Codex cloud (`@codex`-triggered tasks from issues/MRs, automatic MR reviews).
+- **Interview guide discloses a formal AI-tool-use policy for candidates.** [`/interview-guide/`](pages/openai.com/interview-guide/index.md) — new text: "Expectations for AI and other tools vary by interview: some formats intentionally allow them, while others are designed to assess your independent problem-solving without AI tools... ask your recruiter before the interview" if unsure. A genuinely new piece of process transparency from OpenAI's own hiring page.
+- **Student Collective swaps CTA for a newsletter.** [`/student-collective/`](pages/openai.com/student-collective/index.md) — replaced an "Explore ChatGPT for college students" section with a "Join our newsletter" signup pointing to a new Substack (`openaistudentcollective.substack.com`).
+
+### Routine, low-signal updates
+
+Of the 60 lastmod-updated URLs, 44 had zero rendered-text difference (pure metadata touch), verified by diffing every changed page's markdown against yesterday's snapshot. The remainder break down into:
+1. **Partner-badge deploy-ID churn (7 pages: Endava, KPMG, McKinsey, ML6, NTT DATA, Pathfindr, PwC):** only a Vercel deployment-ID query string changed on the partner-tier badge image — zero visible change.
+2. **"Keep reading" carousel refresh:** bottom-of-page related-article cards and `/news/*` category pages rotated in yesterday's new posts (Introducing AI Futures, Offering Zero Data Retention, Stampli, ChatGPT Ads Europe, Partnering with CodeAI) — expected daily churn.
+3. Remaining pages (`business/pricing/`, `business/learn/`, `codex/`, plugin and solutions pages, `signals/enterprise-data/`, `policies/ad-tools-dpa/`) checked line-by-line with no substantive text change — lastmod-only bumps from a sitewide re-render.
+
+### New pages
+
+- **[Quantium](pages/openai.com/business/partners/quantium/index.md)** (Business/Partners) — new Select Partner: Australian AI and data-analytics company.
+- **[Tata Consultancy Services (TCS)](pages/openai.com/business/partners/tcs/index.md)** (Business/Partners) — new Elite Partner, tied to a Tata Group–OpenAI partnership.
+
+### Removals
+
+None this run.
+
+**Stats:** 1,606 total URLs | +2 added | 60 updated | -0 removed | 0 anomalies | 36 sub-sitemaps
+
+Full analysis: [runs/2026-08-22T09-17Z/analysis.md](runs/2026-08-22T09-17Z/analysis.md)
+
+---
+
 ## 2026-08-21 — Run `2026-08-21T09-16Z`
 
 **Fetch time:** 2026-08-21T09:16:44Z UTC | **Baseline:** 2026-08-20T09-15Z (consecutive day)

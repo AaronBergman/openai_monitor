@@ -60,7 +60,9 @@ Efficient by default, maximum performance on demand
 
 
 
-** _Update on July 30, 2026:_**_OpenAI reduced the price of GPT‑5.6 Luna by 80% and GPT‑5.6 Terra by 20%._[_Learn more here_](</index/advancing-the-price-performance-frontier-with-gpt-5-6/>) _._
+** _Update on August 21, 2026:_**_OpenAI dropped the API and credit pricing of GPT‑5.6 Sol by over 20% for the next 3 months._
+
+**_Update on July 30, 2026:_**_OpenAI reduced the price of GPT‑5.6 Luna by 80% and GPT‑5.6 Terra by 20%._[_Learn more here_](</index/advancing-the-price-performance-frontier-with-gpt-5-6/>) _._
 
 * * *
 
