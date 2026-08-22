@@ -41,6 +41,49 @@ Filter
 
 Sort
 
+ChatGPT
+
+Aug 20, 2026
+
+GA
+
+## Codex and ChatGPT updates: Apple Messages, Sites, sharing, and pinned threads
+
+#### New features
+
+  * Apple Messages: Use the Apple Messages plugin to read and search Messages chats on your Mac and prepare or send messages. It’s available on all plans in the ChatGPT desktop app for macOS. You can use the plugin in ChatGPT Work and Codex. By default, ChatGPT sends messages only after you approve the message and its recipients. See the plugin guide for persistent-approval risks, revocation steps, and the known issue with tasks that disable approval prompts.
+
+  * Site co-editing: Where Site collaboration is available, owners can invite active members of the same workspace as editors. Editors can read the Site’s live database data, update the Site, save versions, and publish changes after the owner publishes the Site for the first time. Owners retain control of the audience, settings, analytics, ownership, version restoration, and editor access.
+
+  * Editable Site URLs: Where URL editing is available, owners can change an existing Site’s ChatGPT‑hosted address without creating another deployment. The previous address redirects to the new URL. Custom domains are a separate, existing feature and aren’t changed by this setting.
+
+  * Shared thread snapshots: On all Codex plans, share a read-only snapshot of a local Codex thread from the ChatGPT desktop app for macOS. The snapshot doesn’t update when the original thread changes. Personal-account links can be opened by anyone with the link; workspace-account links are limited to members of the originating workspace. Codex redacts known secret patterns, but review the shared content because sensitive content may remain.
+
+View or revoke links in ChatGPT data controls, under Shared links.
+
+  * Unified pinned threads: Keep the same pinned chats across the ChatGPT desktop app and iOS.
+
+
+
+
+[View source(opens in a new window)](<https://learn.chatgpt.com/docs/changelog#codex-2026-08-20>)[Platform docs(opens in a new window)](<https://learn.chatgpt.com/docs/plugins?surface=app>)[Platform docs(opens in a new window)](<https://learn.chatgpt.com/docs/sites>)
+
+Codex
+
+Aug 19, 2026
+
+Beta
+
+## GitLab support in Codex cloud
+
+GitLab support is available in beta on all ChatGPT plans. Connect a GitLab project to Codex cloud, create an environment for it, start tasks from issues or merge requests with `@codex`, and request one-off or automatic merge request reviews.
+
+The integration runs in Codex cloud. A managed workspace admin can disable the connector. GitLab-triggered activity requires permission to configure the applicable webhook. For GitLab Self-Managed or GitLab Dedicated, a workspace admin must configure the connection, and webhook activity requires GitLab 19.0 or later.
+
+Codex cannot complete a review when GitLab omits a collapsed or oversize diff.
+
+[View source(opens in a new window)](<https://learn.chatgpt.com/docs/changelog#codex-2026-08-19>)[Platform docs(opens in a new window)](<https://learn.chatgpt.com/docs/third-party/gitlab>)
+
 Codex
 
 Aug 18, 2026
@@ -108,40 +151,6 @@ Preview
 Announced Ultrafast mode, a new API service tier for GPT‑5.6 Sol that runs up to 14x faster than Standard processing. Available in limited preview to select customers.
 
 [View source](<https://openai.com/form/ultrafast/>)
-
-ChatGPT
-
-Aug 13, 2026
-
-GA
-
-## Google Drive is now in Library
-
-If you have the Google Drive plugin connected, you can now see and browse your Google Drive files and folders directly from Library, including items shared directly with you. You can also quickly pull up a Drive file from the composer or with @mentions and add it to any chat—without uploading it again.
-
-When you’re working with a file, you can now keep Google Docs, Sheets, and Slides open beside the conversation while asking ChatGPT to summarize, analyze, compare, or create something new from them. You can also select a folder and ask ChatGPT to work across the files it contains. Your content stays connected to Drive, so it’s easy to return to the original. Where supported and authorized, ChatGPT can update the source file directly.
-
-### Availability
-
-The initial experience includes My Drive and files and folders shared directly with you; Shared Drives aren’t included yet. Some Google Drive editing and collaboration features aren’t yet available in ChatGPT.
-
-Rolling out to Plus, Pro, Enterprise, Edu, Healthcare and Business users on the web in both the Chat and Work toggles. Mobile support will follow.
-
-[View source(opens in a new window)](<https://help.openai.com/en/articles/6825453-chatgpt-release-notes#google-drive-is-now-in-library>)
-
-ChatGPT
-
-Aug 13, 2026
-
-GA
-
-## Chat model defaults
-
-Workspace owners and admins can configure the starting Chat model and reasoning level from Workspace settings > Models. Owners and admins can apply an admin default or allow User’s last choice for new chats - note that defaults do not grant access to unavailable models or override enforced workspace requirements.
-
-The ChatGPT Desktop app should be upgraded to version 26.812.10818 or later for the new controls to take effect.
-
-[View source(opens in a new window)](<https://help.openai.com/en/articles/10128477-chatgpt-enterprise-edu-release-notes#chat-model-defaults>)
 
 Load more
 

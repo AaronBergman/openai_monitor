@@ -30,7 +30,7 @@ OpenAI
 
 Become an OpenAI Campus Lead. Help students gain confidence using ChatGPT and Codex while building projects together.
 
-Apply or register your interest
+Apply or register your interest[Join our newsletter(opens in a new window)](<https://openaistudentcollective.substack.com/welcome>)
 
 ![Purple background with pink abstract linework on top](https://images.ctfassets.net/kftzwdyauwt9/1CRbZz2Xn86ga2WWnyr6FC/98bcca09914f53202336301617f51344/OAI_Student_Collective_Web_Banner_Desktop.png?w=3840&q=90&fm=webp)
 
@@ -220,11 +220,11 @@ Sign me up to receive the OpenAI Student newsletter.
 
 Submit
 
-## Explore ChatGPT for college students
+## Join our newsletter
 
-See how students are using ChatGPT for studying, career prep, and everyday life.
+Stay up to date with the Student Collective and see how Campus Leads around the world build and learn with ChatGPT, Codex, and AI on campus.
 
-[Learn more(opens in a new window)](<https://chatgpt.com/use-cases/students/>)
+[Subscribe(opens in a new window)](<https://openaistudentcollective.substack.com/welcome>)
 
 Research
 

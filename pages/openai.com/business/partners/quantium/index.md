@@ -28,26 +28,26 @@ OpenAI
 
 [Back to OpenAI Partner Locator](</business/partners/locator/>)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/5lqoMzOw4EfPUWi4z1PS5m/aab78dace7955528f7854b24feffba82/pathfindr-square-light.svg?w=3840&q=90)
+![](https://images.ctfassets.net/kftzwdyauwt9/68uAUmDV09Nzn5CnJUI33z/4eaf4ae6ec3f20ef27008f139dde8f22/2KSUUrVGm5djFehqRkvTse?w=3840&q=90&fm=webp)
 
-# Pathfindr
+# Quantium
 
-[Visit website(opens in a new window)](<https://www.pathfindr.ai/>)
+[Visit website(opens in a new window)](<https://quantium.com/>)
 
 ## About
 
-Pathfindr is an AI adoption and capability partner, helping organisations turn emerging AI technologies into measurable business outcomes. As OpenAI's official services partner in Australia and New Zealand, we support enterprise, government and industry to understand, adopt and accelerate with AI. Our accelerator programs build the capability and confidence leaders and teams need to reimagine workflows, spot high-impact opportunities, and lead their industry with AI. Combining hands-on enablement with end-to-end AI build solutions via our parent company Affinda, we help organisations reduce implementation risk and embed scalable AI that delivers lasting impact.
+Quantium is an AI and data analytics company. Founded in Australia in 2002, it is a global business of more than 1,200 people across 13 locations. Quantium works inside the world's largest organisations, close to their data and to how they run. That closeness is how Quantium grounds AI in the specifics of a business: its own data, and the decisions its people make every day. As an OpenAI Select Partner, Quantium builds and deploys AI solutions that integrate advanced AI with a client's own data and workflows, handling complex tasks and creating measurable value.
 
-![Advanced Partner](/images/partner-tier-badges/OAI_PartnerNetwork_AdvancedPartner.svg?dpl=dpl_7oogDvuZFuvHdJ8KyeLNZkVu3RVW)
+![Select Partner](/images/partner-tier-badges/OAI_PartnerNetwork_SelectPartner.svg?dpl=dpl_7oogDvuZFuvHdJ8KyeLNZkVu3RVW)
 
 Countries served
-    Australia and New Zealand
+    Australia, New Zealand, United Kingdom, United States, India, and South Africa
 
 Industry
     Cross-industry
 
-Partner Summit 2026 Award
-    APAC Customer Impact Award
+Program partners
+    AWS
 
 Research
 

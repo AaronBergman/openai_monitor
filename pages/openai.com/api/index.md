@@ -11,7 +11,7 @@ Skip to main content
 
 
 
-Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
+Log in[Start building(opens in a new window)](<https://platform.openai.com/?utm_internal_source=openai_api>)
 
   * Research
   * Products
@@ -22,15 +22,13 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 
 
-[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)Login
+[Start building(opens in a new window)](<https://platform.openai.com/?utm_internal_source=openai_api>)Login
 
 OpenAI
 
 # Build leading AI products on OpenAI’s platform
 
-[Contact sales](</contact-sales/>)
-
-Start building
+[Contact sales](</contact-sales/>)[Start building(opens in a new window)](<https://platform.openai.com/?utm_internal_source=openai_api>)
 
 ## Powered by our frontier models
 
@@ -38,8 +36,8 @@ Our industry-leading models deliver advanced intelligence and multimodal capabil
 
 [![](https://cdn.openai.com/ctf-cdn/1-model-card-gpt-5-6-sol.png?w=3840&q=50&fm=webp)GPT-5.6 Sol
 
-  * Input: $5.00 per 1M tokens  
-Output: $30.00 per 1M tokens
+  * Input: $4.00 per 1M tokens  
+Output: $20.00 per 1M tokens
   * 1.05M context length  
 128K max output tokens
   * Knowledge cut-off: Feb 16, 2026
@@ -61,6 +59,10 @@ Output: $1.20 per 1M tokens
   * Knowledge cut-off: Feb 16, 2026
 
 Learn more(opens in a new window)(opens in a new window)](<https://developers.openai.com/api/docs/models/gpt-5.6-luna>)
+
+_Pricing above reflects standard processing rates for context lengths under 270K. Learn more about_[ _Batch Processing⁠_ ⁠(opens in a new window)](<https://developers.openai.com/api/docs/guides/batch>)_and_[ _Data residency & Regional Processing_⁠(opens in a new window)](<https://developers.openai.com/api/docs/guides/your-data#how-does-data-residency-work>)_._
+
+_GPT‑5.6 Sol’s promotional pricing is available at least through November 21, 2026._
 
 ### Start building with frontier models
 
