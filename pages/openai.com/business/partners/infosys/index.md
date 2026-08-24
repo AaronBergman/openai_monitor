@@ -38,7 +38,7 @@ OpenAI
 
 Infosys is a global leader in next-generation digital services and consulting. With over four decades of experience in managing the systems and workings of global enterprises, we expertly steer clients, in 59 countries, as they navigate their digital transformation through our AI (Infosys Topaz) and cloud (Infosys Cobalt) offerings. We enable them with an AI-first core, empower the business with agile digital at scale and drive continuous improvement with always-on learning through the transfer of digital skills, expertise, and ideas from our innovation ecosystem. We are deeply committed to being a well-governed, environmentally sustainable organization where diverse talent thrives in an inclusive workplace.
 
-![Advanced Partner](/images/partner-tier-badges/OAI_PartnerNetwork_AdvancedPartner.svg?dpl=dpl_3J1J6ZgVoKPd952CcGXLSWs8TpdX)
+![Advanced Partner](/images/partner-tier-badges/OAI_PartnerNetwork_AdvancedPartner.svg?dpl=dpl_7oogDvuZFuvHdJ8KyeLNZkVu3RVW)
 
 Countries served
     Global
