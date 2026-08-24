@@ -38,7 +38,7 @@ OpenAI
 
 Slalom is a fiercely human business and technology consulting company that leads with outcomes and helps organizations realize what’s possible with AI. As an OpenAI services partner, we partner with leaders from strategy through delivery to build AI solutions that create value today while preparing for what’s next. Whether modernizing software development with Codex, reimagining customer and employee experiences, or bringing new AI-powered products to market, we help organizations innovate with confidence, adopt AI responsibly, and create lasting impact for their business, their customers, and their people.
 
-![Advanced Partner](/images/partner-tier-badges/OAI_PartnerNetwork_AdvancedPartner.svg?dpl=dpl_3J1J6ZgVoKPd952CcGXLSWs8TpdX)
+![Advanced Partner](/images/partner-tier-badges/OAI_PartnerNetwork_AdvancedPartner.svg?dpl=dpl_7oogDvuZFuvHdJ8KyeLNZkVu3RVW)
 
 Countries served
     Global
