@@ -97,9 +97,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -171,6 +171,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)
@@ -256,7 +257,7 @@ ChatGPT Business successfully completed a SOC 2 Type 2 audit. Read more in our [
 
 ### What is OpenAI’s policy on data retention for ChatGPT Business?
 
-Your workspace admins control how long your workspace data is retained. Any deleted or unsaved conversations are removed from our systems within 30 days, unless longer retention is required by law, or is reasonably necessary to protect our services or any third party from harm. Note that retention enables features like conversation history, and shorter retention periods may compromise product experience.
+Your workspace admins can control how long your data is retained. Any deleted or unsaved conversations are removed from our systems within 30 days, unless longer retention is required by law, or is reasonably necessary to protect our services or any third party from harm. Note that retention enables features like conversation history, and shorter retention periods may compromise product experience.
 
 ### What is ChatGPT for Teachers?
 
@@ -308,4 +309,4 @@ OpenAI trains its models in two stages. First, we learn from a large amount of d
 
 ### What sources of data are used for training OpenAI models?
 
-OpenAI uses data from different places including public sources, licensed third-party data, and information created by human reviewers. We also use data from versions of ChatGPT and other services for individuals. By default, data from ChatGPT Business, ChatGPT Enterprise, ChatGPT for Healthcare, ChatGPT Edu, ChatGPT for Teachers, and the API Platform (after March 1, 2023) isn't used for training our models, unless you have explicitly opted in to share your data with us to improve the services.
+OpenAI uses data from different places including public sources, licensed third-party data, and information created by human reviewers. We also use data from versions of ChatGPT and other services for individuals. By default, data from ChatGPT Business, ChatGPT Enterprise, ChatGPT for Healthcare, ChatGPT Edu, ChatGPT for Teachers, and the API Platform (after March 1, 2023) isn’t used for training our models, unless you have explicitly opted in to share your data with us to improve the services.

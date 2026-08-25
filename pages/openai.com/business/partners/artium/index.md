@@ -44,7 +44,7 @@ During our engagements we also teach our customers both these capabilities by fo
 
 Artium has been an OpenAI services partner since the OpenAI partner program launched in March 2025. Our OpenAI certified engineers have built AI solutions on the OpenAI stack for customers including BNY, eBay, Riot Games, Trust and Will, and Ticketmaster.
 
-![Advanced Partner](/images/partner-tier-badges/OAI_PartnerNetwork_AdvancedPartner.svg?dpl=dpl_3J1J6ZgVoKPd952CcGXLSWs8TpdX)
+![Advanced Partner](/images/partner-tier-badges/OAI_PartnerNetwork_AdvancedPartner.svg?dpl=dpl_7297xwZ764mVMEJDxDT2nr35Qnfp)
 
 Countries served
     United States

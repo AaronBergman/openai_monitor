@@ -41,116 +41,87 @@ Filter
 
 Sort
 
-ChatGPT
-
-Aug 20, 2026
-
-GA
-
-## Codex and ChatGPT updates: Apple Messages, Sites, sharing, and pinned threads
-
-#### New features
-
-  * Apple Messages: Use the Apple Messages plugin to read and search Messages chats on your Mac and prepare or send messages. It’s available on all plans in the ChatGPT desktop app for macOS. You can use the plugin in ChatGPT Work and Codex. By default, ChatGPT sends messages only after you approve the message and its recipients. See the plugin guide for persistent-approval risks, revocation steps, and the known issue with tasks that disable approval prompts.
-
-  * Site co-editing: Where Site collaboration is available, owners can invite active members of the same workspace as editors. Editors can read the Site’s live database data, update the Site, save versions, and publish changes after the owner publishes the Site for the first time. Owners retain control of the audience, settings, analytics, ownership, version restoration, and editor access.
-
-  * Editable Site URLs: Where URL editing is available, owners can change an existing Site’s ChatGPT‑hosted address without creating another deployment. The previous address redirects to the new URL. Custom domains are a separate, existing feature and aren’t changed by this setting.
-
-  * Shared thread snapshots: On all Codex plans, share a read-only snapshot of a local Codex thread from the ChatGPT desktop app for macOS. The snapshot doesn’t update when the original thread changes. Personal-account links can be opened by anyone with the link; workspace-account links are limited to members of the originating workspace. Codex redacts known secret patterns, but review the shared content because sensitive content may remain.
-
-View or revoke links in ChatGPT data controls, under Shared links.
-
-  * Unified pinned threads: Keep the same pinned chats across the ChatGPT desktop app and iOS.
-
-
-
-
-[View source(opens in a new window)](<https://learn.chatgpt.com/docs/changelog#codex-2026-08-20>)[Platform docs(opens in a new window)](<https://learn.chatgpt.com/docs/plugins?surface=app>)[Platform docs(opens in a new window)](<https://learn.chatgpt.com/docs/sites>)
-
 Codex
 
-Aug 19, 2026
+Aug 24, 2026
 
-Beta
+Sunset
 
-## GitLab support in Codex cloud
+## Codex MCP server command deprecated
 
-GitLab support is available in beta on all ChatGPT plans. Connect a GitLab project to Codex cloud, create an environment for it, start tasks from issues or merge requests with `@codex`, and request one-off or automatic merge request reviews.
+The `codex mcp-server` command is now deprecated. Use the Codex app server instead. To use Codex from Claude Code, use the Codex plugin for Claude Code.
 
-The integration runs in Codex cloud. A managed workspace admin can disable the connector. GitLab-triggered activity requires permission to configure the applicable webhook. For GitLab Self-Managed or GitLab Dedicated, a workspace admin must configure the connection, and webhook activity requires GitLab 19.0 or later.
-
-Codex cannot complete a review when GitLab omits a collapsed or oversize diff.
-
-[View source(opens in a new window)](<https://learn.chatgpt.com/docs/changelog#codex-2026-08-19>)[Platform docs(opens in a new window)](<https://learn.chatgpt.com/docs/third-party/gitlab>)
-
-Codex
-
-Aug 18, 2026
-
-GA
-
-## ChatGPT for iOS updates: Codex Remote, MCP forms, and task reliability
-
-### New features
-
-  * Added a setting to open ChatGPT directly in Codex Remote on launch.
-
-  * Added support for standard MCP forms and editable Messages approvals.
-
-  * Linked folders now open directly in Files.
-
-
-
-
-### Improvements and bug fixes
-
-  * Improved the New Thread project picker to reflect the selected host’s current projects.
-
-  * Voice now works directly from existing task composers, connects more reliably, and continues task actions in the background.
-
-  * Improved diff review stability and performance, especially in large workspaces.
-
-  * Added a Retry action when task messages fail to load.
-
-  * Fixed large task responses failing to load.
-
-  * Fixed tasks disappearing or remaining unavailable after being idle, reconnecting, or returning to the task list.
-
-  * Improved host pairing reliability and prevented enrollment checks from freezing the app.
-
-  * Improved response annotations and preserved streamed activity when tasks complete.
-
-  * Canceling or editing a steering message now prevents delivery.
-
-
-
-
-[View source(opens in a new window)](<https://learn.chatgpt.com/docs/changelog#codex-2026-08-18>)
+[View source(opens in a new window)](<https://learn.chatgpt.com/docs/changelog#codex-2026-08-24>)[Platform docs(opens in a new window)](<https://learn.chatgpt.com/docs/app-server>)[GitHub(opens in a new window)](<https://github.com/openai/codex-plugin-cc>)
 
 ChatGPT
 
-Aug 14, 2026
+Aug 21, 2026
 
 GA
 
-## ChatGPT app experience updates
+## Improved plugin discovery on web and mobile
 
-We’ve made it easier to study with interactive quizzes, manage project memory, and move between typing, dictation, and desktop work.
+Updated plugin recommendations make it easier to find tools people continue to use.
 
-[View source(opens in a new window)](<https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-app-experience-updates>)[Download(opens in a new window)](<https://chatgpt.com/download/>)
+  * Find more useful plugins. Rankings now prioritize plugins people keep using after installation, helping relevant options surface across ChatGPT on web and mobile.
 
-API
 
-Aug 13, 2026
 
-Preview
 
-## Ultrafast mode for GPT-5.6 Sol
+Plugin availability depends on your plan, region, and workspace settings. Desktop is not included in this update.
 
-Announced Ultrafast mode, a new API service tier for GPT‑5.6 Sol that runs up to 14x faster than Standard processing. Available in limited preview to select customers.
+[View source(opens in a new window)](<https://help.openai.com/en/articles/6825453-chatgpt-release-notes#improved-plugin-discovery-on-web-and-mobile>)[Help center(opens in a new window)](<https://help.openai.com/en/articles/20001256-plugins-in-chatgpt-and-codex>)
 
-[View source](<https://openai.com/form/ultrafast/>)
+ChatGPT
+
+Aug 21, 2026
+
+GA
+
+## More time-aware answers
+
+ChatGPT now has a better sense of your local time during a conversation.
+
+  * Get answers that fit your time of day. ChatGPT can better account for your local time when responding to time-sensitive questions.
+
+
+
+
+[View source(opens in a new window)](<https://help.openai.com/en/articles/6825453-chatgpt-release-notes#more-time-aware-answers>)
+
+ChatGPT
+
+Aug 21, 2026
+
+GA
+
+## Faster long conversations on the web
+
+Long conversations now load more efficiently in ChatGPT on the web.
+
+  * Open longer chats without the wait. ChatGPT loads messages in smaller sections instead of retrieving the entire conversation at once.
+
+
+
+
+[View source(opens in a new window)](<https://help.openai.com/en/articles/6825453-chatgpt-release-notes#faster-long-conversations-on-the-web>)
+
+ChatGPT
+
+Aug 21, 2026
+
+GA
+
+## Interactive content appears sooner on the web
+
+Interactive content generated by ChatGPT can now begin appearing while it is still being created.
+
+  * See interactive content sooner. Interactive experiences now appear progressively in the conversation instead of waiting until the full experience is ready.
+
+
+
+
+[View source(opens in a new window)](<https://help.openai.com/en/articles/6825453-chatgpt-release-notes#interactive-content-appears-sooner-on-the-web>)
 
 Load more
 
