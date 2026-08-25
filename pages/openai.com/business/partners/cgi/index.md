@@ -42,7 +42,7 @@ With deep expertise across government, financial services, healthcare, telecommu
 
 Through our partnership with OpenAI, we design, deploy and scale secure agentic AI solutions that accelerate innovation, improve productivity, and deliver measurable business outcomes.
 
-![Advanced Partner](/images/partner-tier-badges/OAI_PartnerNetwork_AdvancedPartner.svg?dpl=dpl_7oogDvuZFuvHdJ8KyeLNZkVu3RVW)
+![Advanced Partner](/images/partner-tier-badges/OAI_PartnerNetwork_AdvancedPartner.svg?dpl=dpl_7297xwZ764mVMEJDxDT2nr35Qnfp)
 
 Countries served
     Global

@@ -184,9 +184,9 @@ Other OpenAI tools
 
 I don’t currently use OpenAI tools
 
-What’s one way you use AI that you think more students should know about? *Please submit a link to a video response of 60 seconds or less. Make sure anyone with the link can view it, as we can’t review videos that require access.
+What’s one way you use AI that you think more students should know about? *Please submit a link to a video response of 60 seconds or less. Make sure anyone with the link can view it, as we can’t review videos that require access. Videos may be submitted in any language.
 
-What’s something you helped make happen on campus? Tell us about it in video format. *Please submit a link to a video response of 60 seconds or less. Make sure anyone with the link can view it, as we can’t review videos that require access.
+What’s something you helped make happen on campus? Tell us about it in video format. *Please submit a link to a video response of 60 seconds or less. Make sure anyone with the link can view it, as we can’t review videos that require access. Videos may be submitted in any language.
 
 What is the most important problem facing young people? How would you try to make progress on it?
 

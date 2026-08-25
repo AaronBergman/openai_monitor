@@ -1,6 +1,67 @@
 # openai_monitor
 
 
+## 2026-08-25 — Run `2026-08-25T09-15Z`
+
+**Fetch time:** 2026-08-25T09:16:58Z UTC | **Baseline:** 2026-08-24T09-16Z (consecutive day)
+
+**TL;DR:** The most eventful day in a while. OpenAI published a new report on a disrupted Russian
+covert influence operation that used banned, VPN-accessed ChatGPT accounts to promote a fake
+"expert" think tank (the International Burke Institute) pushing anti-Western, pro-Russia
+narratives across Substack, Telegram, X, Facebook, and LinkedIn. A second new post announced
+GPT‑5.6 landing inside the Kiro coding agent. The `/business/` landing page got a genuine
+visual and navigation redesign (new "Why OpenAI / Solutions / Resources" top nav, new "Frontier
+intelligence everywhere you work" hero, an "Introducing ChatGPT Work" callout replacing the old
+two-column pitch) — worth watching whether this nav spreads sitewide. OpenAI's Ad Tools Terms
+were revised (effective Aug 24): advertising Creative Tools can now dynamically personalize ad
+creatives to a user's conversation context, with a new explicit rule barring those tools from
+exposing non-public information about a user. The Codex changelog picked up a real product
+notice: the `codex mcp-server` command is deprecated in favor of a new Codex app server. Of 153
+lastmod-touched pages, the other 127 were routine — mostly Partner Network badge deploy-ID churn
+(64) and "related articles" carousel rotations reacting to the two new posts, plus a few
+zero-content-change metadata touches. No anomalies.
+
+### Anomalies
+
+None. No future-dated or backwards-moving `<lastmod>` values, no backdated new URLs (both new
+pages carry same-day lastmods), no disappeared-then-reappeared URLs, and no genuine sub-sitemap
+section migrations (verified against the persistent per-URL section history in
+`state/known_urls.json`, per the methodology corrected on 2026-07-12 — the ~520 cases of a URL
+appearing in two sub-sitemaps at once this run are all stable, long-standing cross-listings, not
+migrations).
+
+### Notable updates
+
+- **New report: disrupted Russian covert influence operation.** [`/index/disrupting-malicious-uses-of-ai-influence-campaign-russia/`](pages/openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia/index.md) — OpenAI banned a cluster of ChatGPT accounts likely originating in Russia that used VPNs (Russia access is normally blocked) to generate mostly-English social posts promoting the "International Burke Institute" (IBI), a fabricated "expert" think tank fronted by a website claiming an Israel address. IBI republished real academic articles under false attribution (e.g., a Cambridge University Press piece reassigned to an uninvolved, real professor) and pushed a made-up "sovereignty index" grading France, Germany, the US, and the EU in polemical, pro-Russia terms. OpenAI assesses impact as low-end Category Three on the Brookings Breakout Scale (Telegram channels reached 10–20k followers each; social posts got little traction) and frames the case as illustrating how AI can be a small but exposing part of a larger fabricated-authority operation.
+- **New partnership post: GPT‑5.6 in Kiro.** [`/index/gpt-5-6-in-kiro/`](pages/openai.com/index/gpt-5-6-in-kiro/index.md) — the GPT‑5.6 model family (Sol/Terra/Luna) is now available in Kiro, a third-party software-development agent, pitched on price-performance for long-running agentic coding work.
+- **`/business/` redesigned.** [`/business/`](pages/openai.com/business/index.md) — new global nav (`Why OpenAI / Products / Solutions / Resources / Customers / Pricing`, replacing `Research / Products / Business / Developers / Company`), new hero ("Frontier intelligence everywhere you work" replacing "Create, code, and innovate with OpenAI's tools and APIs"), and a new "Introducing ChatGPT Work" + "AI for every team" layout replacing the old ChatGPT-for-Business/API-Platform two-column pitch. Not yet clear if this nav is business-page-only or a preview of a sitewide redesign.
+- **Ad Tools Terms revised (effective Aug 24, was Jul 31).** [`/policies/ad-tools-terms/`](pages/openai.com/policies/ad-tools-terms/index.md) — advertising Creative Tools can now "select, assemble, or otherwise adapt" creatives and "dynamically tailor them to the context of a user's interaction with OpenAI" (real-time, per-conversation ad personalization), formalized under a new defined term, "Campaign." A new restriction explicitly bars advertisers from using the tools to reveal or infer non-public information about an OpenAI user. Advertiser indemnification was also broadened to cover any Generated Creative automatically applied to a Campaign, not just ones an advertiser affirmatively approves.
+- **Release notes: Codex MCP server command deprecated.** [`/products/release-notes/`](pages/openai.com/products/release-notes/index.md) — new Aug 24 entry (tagged "Sunset"): `codex mcp-server` is deprecated in favor of a new Codex app server; Claude Code users are pointed to the Codex plugin for Claude Code instead.
+
+### Routine, low-signal updates
+
+- **64 of 153** updated pages: Partner Network tier-badge deploy-ID (`?dpl=dpl_...`) churn only — zero visible change, spanning most of the Partner roster.
+- **~19 of 153** updated pages: bottom-of-page "related articles"/"Keep reading" carousel rotations pulling in today's two new posts and other recent posts (Zero Data Retention, Ultrafast mode) — no change to the hosting article's own text.
+- **`/index/gpt-5-1-for-developers/`** — cosmetic-only: straight apostrophes swapped for curly ones in quoted testimonials.
+- **`/student-collective/`** — added "Videos may be submitted in any language" to two form questions.
+- **`/enterprise-privacy/`** — model list refreshed (GPT-5.6 added, GPT-5.3 Instant dropped) and a Supply Co. merch link added to a footer list; no policy-substance change.
+- **63 of 153** updated pages: no rendered-text difference whatsoever — pure lastmod/metadata touch.
+
+### New pages
+
+- [`/index/disrupting-malicious-uses-of-ai-influence-campaign-russia/`](pages/openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia/index.md) — see Notable updates above.
+- [`/index/gpt-5-6-in-kiro/`](pages/openai.com/index/gpt-5-6-in-kiro/index.md) — see Notable updates above.
+
+### Removals
+
+None this run.
+
+**Stats:** 1,608 total URLs | +2 added | 153 updated | -0 removed | 0 anomalies | 36 sub-sitemaps
+
+Full analysis: [runs/2026-08-25T09-15Z/analysis.md](runs/2026-08-25T09-15Z/analysis.md)
+
+---
+
 ## 2026-08-24 — Run `2026-08-24T09-16Z`
 
 **Fetch time:** 2026-08-24T09:17:28Z UTC | **Baseline:** 2026-08-23T09-16Z (consecutive day)

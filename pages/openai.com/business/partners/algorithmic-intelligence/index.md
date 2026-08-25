@@ -38,7 +38,7 @@ OpenAI
 
 Algorithmic Intelligence, a Temus entity, is part of the Thinking Machines Data Science group. Under the Thinking Machines brand, we serve enterprises across APAC, Europe, and the United States through three practices: AI Capability Building, AI Consulting, and AI Tech Solutions. Since 2015, we have trained more than 10,000 professionals to apply AI and delivered enterprise AI and data systems to over 150 clients across financial services, retail, conglomerates, and civic organisations. We co-create alongside client teams, embed change management from day one, and build the cultural foundations that make AI technology transformative.
 
-![Advanced Partner](/images/partner-tier-badges/OAI_PartnerNetwork_AdvancedPartner.svg?dpl=dpl_3J1J6ZgVoKPd952CcGXLSWs8TpdX)
+![Advanced Partner](/images/partner-tier-badges/OAI_PartnerNetwork_AdvancedPartner.svg?dpl=dpl_7297xwZ764mVMEJDxDT2nr35Qnfp)
 
 Countries served
     Singapore, Malaysia, Vietnam, Indonesia, and United States

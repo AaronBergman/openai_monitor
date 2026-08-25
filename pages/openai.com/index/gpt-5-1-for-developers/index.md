@@ -132,13 +132,13 @@ We got early feedback on GPT‑5.1 from a handful of coding companies. Here are 
   * [**Augment Code** ⁠(opens in a new window)](<https://www.augmentcode.com/>) called GPT‑5.1 “more deliberate with fewer wasted actions, more efficient reasoning, and better task focus” and they’re seeing “more accurate changes, smoother pull requests, and faster iteration across multi-file projects.”
   * [**Cline** ⁠(opens in a new window)](<https://cline.bot/>)**** shared that in their evals, “GPT‑5.1 achieved SOTA on our diff editing benchmark with a 7% improvement, demonstrating exceptional reliability for complex coding tasks.”
   * [**CodeRabbit** ⁠(opens in a new window)](<https://coderabbit.ai/>) called GPT‑5.1 its “top model of choice for PR reviews.”
-  * [**Cognition** ⁠(opens in a new window)](<https://cognition.ai/>) said GPT‑5.1 is “noticeably better at understanding what you're asking for and working with you to get it done.”
+  * [**Cognition** ⁠(opens in a new window)](<https://cognition.ai/>) said GPT‑5.1 is “noticeably better at understanding what you’re asking for and working with you to get it done.”
   * [**Factory** ⁠(opens in a new window)](<https://factory.ai>) said “GPT‑5.1 delivers noticeably snappier responses and adapts its reasoning depth to the task, reducing overthinking and improving the overall developer experience.”
   * [**Warp** ⁠(opens in a new window)](<https://www.warp.dev/warp-ai>) is making GPT‑5.1 the default for new users, saying it “builds on the impressive intelligence gains that the GPT‑5 series introduced, while being a far more responsive model.”
 
 
 
-> "GPT 5.1 isn’t just another LLM—it’s genuinely agentic, the most naturally autonomous model I’ve ever tested. It writes like you, codes like you, effortlessly follows complex instructions, and excels in front-end tasks, fitting neatly into your existing codebase. You can really unlock its full potential in the Responses API and we're excited to offer it in our IDE."
+> "GPT 5.1 isn’t just another LLM—it’s genuinely agentic, the most naturally autonomous model I’ve ever tested. It writes like you, codes like you, effortlessly follows complex instructions, and excels in front-end tasks, fitting neatly into your existing codebase. You can really unlock its full potential in the Responses API and we’re excited to offer it in our IDE."
 
 —Denis Shiryaev, Head of AI DevTools Ecosystem, JetBrains
 
@@ -160,7 +160,7 @@ To use the shell tool in Responses API, developers can include it in the tools a
 
 ## Pricing and availability
 
-GPT‑5.1 and gpt-5.1-chat-latest are available to developers on all paid tiers in the API. [Pricing and rate limits⁠(opens in a new window)](<https://platform.openai.com/docs/pricing>) are the same as GPT‑5. We're also releasing `gpt-5.1-codex` and `gpt-5.1-codex-mini` in the API. While GPT‑5.1 excels at most coding tasks, gpt-5.1-codex models are optimized for long-running, agentic coding tasks in Codex or Codex-like harnesses.
+GPT‑5.1 and gpt-5.1-chat-latest are available to developers on all paid tiers in the API. [Pricing and rate limits⁠(opens in a new window)](<https://platform.openai.com/docs/pricing>) are the same as GPT‑5. We’re also releasing `gpt-5.1-codex` and `gpt-5.1-codex-mini` in the API. While GPT‑5.1 excels at most coding tasks, gpt-5.1-codex models are optimized for long-running, agentic coding tasks in Codex or Codex-like harnesses.
 
 Developers can start building using our GPT‑5.1 [developer documentation⁠(opens in a new window)](<https://platform.openai.com/docs/guides/latest-model>) and [model prompting guide⁠(opens in a new window)](<https://cookbook.openai.com/examples/gpt-5/gpt-5.1_prompting_guide>). We don’t currently plan to deprecate GPT‑5 in the API and will give developers advanced notice if and when we decide to do so.
 
@@ -201,17 +201,17 @@ OpenAI
 
 [View all](</news/>)
 
-![Health in ChatGPT > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/48aIp3cQOKJ57vpQeqOb8y/2e8732bcad5ceea1c7b20cf001bd2823/1_1_Art_Card.png?w=3840&q=90&fm=webp)
+![GPT-5.6 in Kiro > OpenAI and official Kiro full logo > 1:1 art card](https://images.ctfassets.net/kftzwdyauwt9/31NSq4ufuXRuOUqH9Xdjno/319b9502b892d44b8b91df7aef9d53ed/OAI_Kiro_Partnership_1x1_Art_Card_Official_Full_Lockup_2160.png?w=3840&q=90&fm=webp)
 
-[Launching Health in ChatGPT ProductJul 23, 2026](</index/health-in-chatgpt/>)
+[Advancing price-performance for developers with GPT‑5.6 in KiroProductAug 24, 2026](</index/gpt-5-6-in-kiro/>)
 
-![OpenAI Presence 1x1](https://images.ctfassets.net/kftzwdyauwt9/5JBDenSGI6wx5CMPPlaM5J/da9d8e27a0bd70d845a816b28ac641a9/OpenAI_Presence_1x1.png?w=3840&q=90&fm=webp)
+![ChatGPT Ads expands across Europe - Card image](https://images.ctfassets.net/kftzwdyauwt9/IMh9E5WMDoVaUJyBJrsEP/697ba885d5e89b6bd27a55b9c9a783ae/chatgpt-ads-europe-readable-card.png?w=3840&q=90&fm=webp)
 
-[Introducing OpenAI PresenceProductJul 22, 2026](</index/introducing-openai-presence/>)
+[ChatGPT Ads expands across EuropeProductAug 18, 2026](</index/chatgpt-ads-expands-across-europe/>)
 
-![GPT-5.6 is now the preferred model in Microsoft 365 Copilot > Cover image](https://images.ctfassets.net/kftzwdyauwt9/3MPipvFMxS8m3kTyCtwFgj/015747dcd34cb667a221688cfca64e0f/Frame.png?w=3840&q=90&fm=webp)
+![ChatGPT for Teens — square card](https://images.ctfassets.net/kftzwdyauwt9/5IP7e1KeD8zkZq6YUrKdKW/2325215681ea59d32dd09b3ea90f12c5/Art_Card-TEENS-1x13x.png?w=3840&q=90&fm=webp)
 
-[GPT-5.6 is now the preferred model in Microsoft 365 CopilotProductJul 9, 2026](</index/gpt-5-6-preferred-model-microsoft-365-copilot/>)
+[Introducing ChatGPT for TeensProductAug 18, 2026](</index/chatgpt-for-teens/>)
 
 Research
 

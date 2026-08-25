@@ -38,7 +38,7 @@ OpenAI
 
 SK Inc. AX is Korea's leading AX (Advanced eXperience) service provider, delivering differntiated value to clients across key industries such as manufacturing, energy/chemicals, semiconductors, utilities, finance, and telecommunications. We lead critical industry agendas through innovation in key areas including Cloud, Digital Factory, AI, Digital SHE/ESG. Based on extensive project experience, we have successfully expaned our AX business across the U.S., Japan, Europe, China supporting regional and global transformation through optimized local strategies and execution.
 
-![Select Partner](/images/partner-tier-badges/OAI_PartnerNetwork_SelectPartner.svg?dpl=dpl_7oogDvuZFuvHdJ8KyeLNZkVu3RVW)
+![Select Partner](/images/partner-tier-badges/OAI_PartnerNetwork_SelectPartner.svg?dpl=dpl_7297xwZ764mVMEJDxDT2nr35Qnfp)
 
 Countries served
     South Korea

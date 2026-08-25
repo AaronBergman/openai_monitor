@@ -38,7 +38,7 @@ OpenAI
 
 Merantix Momentum designs, develops and operates AI from research to application for companies across all industries, dynamically translating its leading AI research into customized solutions with business expertise to create domain-specific value. We are at your side from the identification of suitable use cases to the development and operation of AI solutions. We take this responsibility seriously and are committed to providing our employees, customers and partners with the tools they need to develop and use AI safely, accurately and ethically.
 
-![Select Partner](/images/partner-tier-badges/OAI_PartnerNetwork_SelectPartner.svg?dpl=dpl_3J1J6ZgVoKPd952CcGXLSWs8TpdX)
+![Select Partner](/images/partner-tier-badges/OAI_PartnerNetwork_SelectPartner.svg?dpl=dpl_7297xwZ764mVMEJDxDT2nr35Qnfp)
 
 Countries served
     Germany, Austria, and Switzerland
