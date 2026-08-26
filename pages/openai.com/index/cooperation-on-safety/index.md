@@ -26,13 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-The need for collective action on safety
-
-  * The need for collective action on safety
-  * Cooperation strategies
-
-
-
 July 10, 2019
 
 [Publication](</research/index/publication/>)
@@ -48,6 +41,28 @@ Illustration: Ben Barry
 Loading…
 
 Share
+
+The need for collective action on safety
+
+  * The need for collective action on safety
+    * High Trust
+    * Shared Upside
+    * Low Exposure
+    * Low Advantage
+    * Shared Downside
+  * Cooperation strategies
+
+
+
+  * The need for collective action on safety
+    * High Trust
+    * Shared Upside
+    * Low Exposure
+    * Low Advantage
+    * Shared Downside
+  * Cooperation strategies
+
+
 
 We’ve written a policy research paper identifying four strategies that can be used today to improve the likelihood of long-term industry cooperation on safety norms in AI: communicating risks and benefits, technical collaboration, increased transparency, and incentivizing standards. Our analysis shows that industry cooperation on safety will be instrumental in ensuring that AI systems are safe and beneficial, but competitive pressures could lead to a collective action problem, potentially causing AI companies to under-invest in safety. We hope these strategies will encourage greater cooperation on the safe development of AI and lead to better global outcomes of AI.
 
@@ -150,9 +165,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -189,6 +204,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -222,6 +239,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

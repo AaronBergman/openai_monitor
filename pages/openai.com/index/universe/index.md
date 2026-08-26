@@ -45,68 +45,38 @@ Share
 Background
 
   * Background
-
   * Universe Infrastructure
-
   * Environments
-
     * Atari games
-
     * Flash games
-
     * Browser tasks
-
   * Future integrations
-
   * Running an environment
-
   * Validating the Universe infrastructure
-
   * Looking forward
-
   * Help us improve Universe
-
     * Grant us permission to use your game, program, website, or app.
-
     * Train agents on Universe tasks.
-
     * Integrate new environments. (Coming soon)
-
     * Contribute demonstrations. (Coming soon)
-
 
 
 
   * Background
-
   * Universe Infrastructure
-
   * Environments
-
     * Atari games
-
     * Flash games
-
     * Browser tasks
-
   * Future integrations
-
   * Running an environment
-
   * Validating the Universe infrastructure
-
   * Looking forward
-
   * Help us improve Universe
-
     * Grant us permission to use your game, program, website, or app.
-
     * Train agents on Universe tasks.
-
     * Integrate new environments. (Coming soon)
-
     * Contribute demonstrations. (Coming soon)
-
 
 
 
@@ -488,9 +458,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -562,6 +532,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

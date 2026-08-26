@@ -62,7 +62,7 @@ Support teaching, research, campus operations, and student success with institut
 
 Study, create, research, build, and prepare for your career with ChatGPT.
 
-[Learn more(opens in a new window)](<https://chatgpt.com/college-students/>)
+[Learn more(opens in a new window)](<https://chatgpt.com/students/2026/>)
 
 ![Two attendees stand side by side, looking attentively toward an off-camera speaker at a professional event in a bright, modern venue.](https://images.ctfassets.net/kftzwdyauwt9/5wqysCzDTPlVmCGh7BaQUs/f5a86d5a36a0ff1007b0da4c12752833/Media.png?w=3840&q=90&fm=webp)
 

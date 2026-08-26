@@ -26,18 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Overview
-
-  * Overview
-  * Design principles
-  * Methodology
-  * Results
-  * Discussion
-  * Appendix
-  * Data downloads
-
-
-
 January 31, 2024
 
 [Publication](</research/index/publication/>)
@@ -51,6 +39,60 @@ View data
 Loading…
 
 Share
+
+Overview
+
+  * Overview
+  * Design principles
+  * Methodology
+    * Sourcing
+    * Tasks
+    * Scoring
+  * Results
+    * Accuracy
+    * Completeness
+    * Innovation
+    * Time taken
+    * Self-rated difficulty
+  * Discussion
+    * Limitations
+    * Learnings
+  * Appendix
+    * A. Preventing information hazards
+    * B. Participant training and instructions
+    * C. Methodology Details
+    * D. Statistical analysis of high scores
+    * E. Model details
+    * F. Qualitative analysis of results
+  * Data downloads
+
+
+
+  * Overview
+  * Design principles
+  * Methodology
+    * Sourcing
+    * Tasks
+    * Scoring
+  * Results
+    * Accuracy
+    * Completeness
+    * Innovation
+    * Time taken
+    * Self-rated difficulty
+  * Discussion
+    * Limitations
+    * Learnings
+  * Appendix
+    * A. Preventing information hazards
+    * B. Participant training and instructions
+    * C. Methodology Details
+    * D. Statistical analysis of high scores
+    * E. Model details
+    * F. Qualitative analysis of results
+  * Data downloads
+
+
 
 We’re developing a blueprint for evaluating the risk that a large language model (LLM) could aid someone in creating a biological threat. 
 
@@ -388,9 +430,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -427,6 +469,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -460,6 +504,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

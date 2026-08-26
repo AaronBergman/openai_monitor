@@ -26,14 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Key things we’ve learned
-
-  * Key things we’ve learned
-  * Partnerships
-  * Future release decisions
-
-
-
 August 20, 2019
 
 [Publication](</research/index/publication/>)
@@ -49,6 +41,20 @@ Illustration: Ben Barry
 Loading…
 
 Share
+
+Key things we’ve learned
+
+  * Key things we’ve learned
+  * Partnerships
+  * Future release decisions
+
+
+
+  * Key things we’ve learned
+  * Partnerships
+  * Future release decisions
+
+
 
 We’re releasing the 774 million parameter GPT‑2 language model after the release of our small [124M model⁠](</index/better-language-models/>) in February, staged release of our medium [355M model⁠](</index/better-language-models/#update>) in May, and subsequent research with partners and the AI community into the model’s potential for misuse and societal benefit. We’re also releasing an open-source legal agreement to make it easier for organizations to initiate model-sharing partnerships with each other, and are publishing a technical report about our experience in coordinating with the wider AI research community on publication norms.
 
@@ -167,9 +173,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -206,6 +212,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -239,6 +247,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

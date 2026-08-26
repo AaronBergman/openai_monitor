@@ -28,7 +28,7 @@ OpenAI
 
 # Get up to $500 worth of credits toward your first ChatGPT Business Premium Seats
 
-This promotion has ended, and we are no longer accepting submissions. Premium seats are coming soon to [ChatGPT Business⁠(opens in a new window)](<https://chatgpt.com/business/>).
+This promotion has ended, and we are no longer accepting submissions. Premium seats are now available on [ChatGPT Business⁠(opens in a new window)](<https://chatgpt.com/pricing/?type=team>).
 
 Research
 

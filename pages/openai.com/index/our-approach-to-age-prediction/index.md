@@ -50,6 +50,10 @@ How age prediction works
 
 
 
+ _Update on August 25, 2026:__****__Age prediction has begun rolling out in the EU, helping us deliver age-appropriate experiences to even more teens around the world._
+
+* * *
+
 We’re rolling out age prediction on ChatGPT consumer plans to help determine whether an account likely belongs to someone under 18, so the right experience and safeguards can be applied to teens. As we’ve outlined in our [Teen Safety Blueprint⁠](</index/introducing-the-teen-safety-blueprint/>) and [Under-18 Principles for Model Behavior⁠](</index/updating-model-spec-with-teen-protections/>), young people deserve technology that both expands opportunity and protects their well-being.
 
 Age prediction builds on protections already in place. Teens who tell us they are under 18 when they sign up automatically receive additional safeguards to reduce exposure to sensitive or potentially harmful content. This also enables us to treat adults like adults and use our tools in the way that they want, within the bounds of safety. 

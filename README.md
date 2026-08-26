@@ -1,6 +1,66 @@
 # openai_monitor
 
 
+## 2026-08-26 — Run `2026-08-26T09-16Z`
+
+**Fetch time:** 2026-08-26T09:17:13Z UTC | **Baseline:** 2026-08-25T09-15Z (consecutive day)
+
+**TL;DR:** OpenAI shared first measured performance results for **Jalapeño**, its first custom
+inference chip — 1.5–1.9x more AI work per watt and 1.7–3.6x lower latency than comparison
+systems across three public model families, with deployment inside OpenAI's own infrastructure
+planned by year-end. A companion post from CFO Sarah Friar frames it as part of a "full-stack"
+compute strategy. Separately, **ChatGPT Business Premium seats went generally available** — the
+pricing page now shows a $20/mo Standard seat vs. a $100/mo Premium seat (5x usage, no 5-hour
+limit) instead of one flat plan, and the earlier waitlist page now says seats are "now available."
+Age prediction began rolling out in the EU, a new Admin plugin for ChatGPT Work/Codex was
+introduced, and Build Week Challenge winners were announced. Of the 187 lastmod-touched pages,
+179 were noise once diffed (byte-identical re-saves, a sitewide footer nav swap, related-articles
+carousel rotations, TOC-widget artifacts, and typo/quote-only edits). No anomalies.
+
+### Anomalies
+
+None. No future-dated or backwards-moving `<lastmod>` values (checked across all 1,614 current
+URLs and all 187 updated), no backdated new URLs (all 6 new pages carry Aug 25–26, 2026
+lastmods), no disappeared-then-reappeared URLs, and no genuine sub-sitemap section migrations
+(checked against the persistent per-URL section history in `state/known_urls.json`). All 193
+page fetches (6 new + 187 updated) succeeded on the first pass.
+
+### Notable updates
+
+- **Jalapeño's first performance results.** [`/index/jalapeno-first-results/`](pages/openai.com/index/jalapeno-first-results/index.md) — OpenAI's first custom inference chip, tested on the public InferenceX benchmark across GPT‑OSS 120B, DeepSeek R1 670B, and Kimi K2.5 1T, delivered 1.5–1.9x more AI work per watt at peak throughput and 1.7–3.6x lower end-to-end latency than comparison systems (2.1–4.1x higher performance on highly interactive workloads), rated at 700W but measured at or below 550W sustained. AI itself helped design the chip (tapeout in 9 months) and now helps program it — Codex/GPT‑Astra brought three additional open-weight model families to high performance within two months. Deployment inside OpenAI's infrastructure is planned by year-end; Gen 2 and Gen 3 are already in development.
+- **"The full stack behind abundant intelligence."** [`/index/the-full-stack-behind-abundant-intelligence/`](pages/openai.com/index/the-full-stack-behind-abundant-intelligence/index.md) — companion strategy post by CFO Sarah Friar, framing Jalapeño as a "credible first-party" hardware path alongside third-party compute partners (Microsoft, NVIDIA, AWS, AMD, Broadcom, Cerebras, CoreWeave, Oracle, SB Energy, SoftBank), and invoking Jevons paradox: cheaper, more capable intelligence expands total usage and revenue rather than just cutting cost.
+- **ChatGPT Business Premium seats now generally available.** [`/business/pricing/`](pages/openai.com/business/pricing/index.md) replaced its single "$20/user/month" plan with two seat tiers — Standard ($20/mo annual, $25/mo monthly) and Premium ($100/mo annual, $125/mo monthly, "5x more usage than standard, with no 5-hour limit") — "mix and match seat types for any budget." [`/index/premium-seats-chatgpt-business/`](pages/openai.com/index/premium-seats-chatgpt-business/index.md) and [`/form/business/premium-offer/`](pages/openai.com/form/business/premium-offer/index.md) both updated the same day to confirm the promotion has ended and seats are now purchasable.
+- **Admin plugin for ChatGPT Work and Codex.** [`/index/introducing-admin-plugin/`](pages/openai.com/index/introducing-admin-plugin/index.md) — lets workspace admins review usage, manage members/groups/permissions, and approve or deny spending requests conversationally, plus automate recurring admin workflows (e.g., routing approvals to Slack/Teams). OpenAI's own IT team reports a ChatGPT Work Slack agent resolving ~45% of employee IT ticket volume.
+- **Age prediction rolling out in the EU.** [`/index/our-approach-to-age-prediction/`](pages/openai.com/index/our-approach-to-age-prediction/index.md) added an update banner confirming the rollout has begun, "helping us deliver age-appropriate experiences to even more teens around the world."
+- **EU services privacy policy revised** (effective Aug 25, superseding the June 4, 2026 version). [`/policies/eu-services-privacy-policy/`](pages/openai.com/policies/eu-services-privacy-policy/index.md) — consolidated the separate "Ads data" bullet into Usage Data, generalized "Atlas browser" to "in-app browser," dropped the "Sora characters" example from the Content definition, broadened ad-partner data language, and added a new bullet on sharing information with other users/third parties (shared conversations, search/shopping partners). Reads as a consolidation pass, not a new data practice.
+- **Build Week Challenge winners announced.** [`/build-week/`](pages/openai.com/build-week/index.md) flipped from a submission call-to-action to a winners showcase; first place in Education went to **Mechanica**, an interactive digital museum of ancient Chinese machines built with Codex.
+
+### Routine, low-signal updates
+
+- **102 of 187** updated pages: no rendered-text difference whatsoever — a pure lastmod/metadata touch.
+- **14 of 187** updated pages: only the global footer nav changed — "GPT‑5.3 Instant" swapped for "GPT‑5.6" as the featured flagship model, plus a new "Supply Co." (merch store) link.
+- **45 of 187** updated pages: only a "related articles" carousel rotation, an exact-duplicate/reordered table-of-contents block, or (4 partner pages) a CDN cache-bust query param on an otherwise-identical partner badge image.
+- **18 of 187** updated pages: cosmetic-only body edits — 13 where a client-rendered TOC block appears to populate for the first time on an older post (rendering artifact, not a deliberate edit), and 5 straight-to-curly apostrophe re-saves with no wording change.
+
+### New pages
+
+- [`/index/jalapeno-first-results/`](pages/openai.com/index/jalapeno-first-results/index.md) — see Notable updates above.
+- [`/index/the-full-stack-behind-abundant-intelligence/`](pages/openai.com/index/the-full-stack-behind-abundant-intelligence/index.md) — see Notable updates above.
+- [`/index/introducing-admin-plugin/`](pages/openai.com/index/introducing-admin-plugin/index.md) — see Notable updates above.
+- [`/index/loveholidays/`](pages/openai.com/index/loveholidays/index.md) — customer story: online travel company using Codex to let non-engineers ship code; AI-assisted code changes grew from 7% to 79% of all changes in a year.
+- [`/webmcp-challenge/`](pages/openai.com/webmcp-challenge/index.md) — 10-day hackathon around WebMCP, an experimental open standard letting websites expose structured tools for agents to call directly instead of navigating the UI.
+- [`/business/learn/intelligence-at-work-cyber/`](pages/openai.com/business/learn/intelligence-at-work-cyber/index.md) — registration page for a Sept 3, 2026 livestreamed keynote on frontier models for cyber defense.
+
+### Removals
+
+None this run.
+
+**Stats:** 1,614 total URLs | +6 added | 187 updated | -0 removed | 0 anomalies | 36 sub-sitemaps
+
+Full analysis: [runs/2026-08-26T09-16Z/analysis.md](runs/2026-08-26T09-16Z/analysis.md)
+
+---
+
 ## 2026-08-25 — Run `2026-08-25T09-15Z`
 
 **Fetch time:** 2026-08-25T09:16:58Z UTC | **Baseline:** 2026-08-24T09-16Z (consecutive day)

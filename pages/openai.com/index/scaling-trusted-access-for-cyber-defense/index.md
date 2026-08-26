@@ -52,7 +52,7 @@ Scaling Trusted Access for Cyber and GPT-5.4-Cyber
 
 We are scaling up our Trusted Access for Cyber (TAC) program to thousands of verified individual defenders and hundreds of teams responsible for defending critical software. For years, we’ve been building a cyber defense program on the principles of democratized access, iterative deployment, and ecosystem resilience. In preparation for increasingly more capable models from OpenAI over the next few months, we are fine-tuning our models specifically to enable defensive cybersecurity use cases, starting today with a variant of GPT‑5.4 trained to be cyber-permissive: GPT‑5.4‑Cyber. In this post, we share how we expect our approach of scaling cyber defense in lockstep with increasing model capabilities to guide the testing and deployment of future releases.
 
-The progressive use of AI accelerates defenders – those responsible for keeping systems, data, and users safe – enabling them to find and fix problems faster in the digital infrastructure everyone relies on. Similarly, AI is being [_used_ ⁠](<https://openai.com/global-affairs/disrupting-malicious-uses-of-ai-october-2025/>) by attackers looking to cause harm. We've been preparing for this. Since 2023, we've supported defenders through our [_Cybersecurity Grant Program_ ⁠](<https://openai.com/index/openai-cybersecurity-grant-program/>) and strengthened safeguards through our [_Preparedness Framework_ ⁠](<https://openai.com/index/updating-our-preparedness-framework/>). The same year, we started evaluating our models' cyber capabilities, and in 2025, we began including [_cyber-specific safeguards_ ⁠(opens in a new window)](<https://deploymentsafety.openai.com/gpt-5-3-codex/cybersecurity>) in our [_model deployments_ ⁠](<https://openai.com/index/introducing-gpt-5-2/>). Earlier this year, we furthered our support for defenders with the launch of [_Codex Security_ ⁠](<https://openai.com/index/codex-security-now-in-research-preview/>) to identify and fix vulnerabilities at scale. Our approach to this continuous advancement of capabilities is guided by three principles:
+The progressive use of AI accelerates defenders – those responsible for keeping systems, data, and users safe – enabling them to find and fix problems faster in the digital infrastructure everyone relies on. Similarly, AI is being [_used_ ⁠](<https://openai.com/global-affairs/disrupting-malicious-uses-of-ai-october-2025/>) by attackers looking to cause harm. We’ve been preparing for this. Since 2023, we’ve supported defenders through our [_Cybersecurity Grant Program_ ⁠](<https://openai.com/index/openai-cybersecurity-grant-program/>) and strengthened safeguards through our [_Preparedness Framework_ ⁠](<https://openai.com/index/updating-our-preparedness-framework/>). The same year, we started evaluating our models' cyber capabilities, and in 2025, we began including [_cyber-specific safeguards_ ⁠(opens in a new window)](<https://deploymentsafety.openai.com/gpt-5-3-codex/cybersecurity>) in our [_model deployments_ ⁠](<https://openai.com/index/introducing-gpt-5-2/>). Earlier this year, we furthered our support for defenders with the launch of [_Codex Security_ ⁠](<https://openai.com/index/codex-security-now-in-research-preview/>) to identify and fix vulnerabilities at scale. Our approach to this continuous advancement of capabilities is guided by three principles:
 
   * **Democratized access:** Our goal is to make these tools as widely available as possible while preventing misuse. We design mechanisms which avoid arbitrarily deciding who gets access for legitimate use and who doesn’t. That means using clear, objective criteria and methods – such as strong KYC and identity verification – to guide [_who can access_ ⁠](<https://openai.com/index/trusted-access-for-cyber/>) more advanced capabilities and automating these processes over time. Ultimately, we aim to make advanced defensive capabilities available to legitimate actors large and small, including those responsible for protecting critical infrastructure, public services, and the digital systems people depend on every day.
   * **Iterative deployment:** We learn the most by [_putting these systems into the world carefully_ ⁠](<https://openai.com/safety/how-we-think-about-safety-alignment/>) and improving them over time. As we better understand both their capabilities and risks, we update our models and safety systems accordingly. This includes understanding the differentiated benefits and risks of specific models, improving resilience to jailbreaks and other adversarial attacks, and improving defensive capabilities — while mitigating harms. 
@@ -115,17 +115,17 @@ OpenAI
 
 [View all](</news/>)
 
-![Hugging Face Security Incident 1x1](https://images.ctfassets.net/kftzwdyauwt9/1H0bdkoSFFcqNTx4DSNpal/56f4b7575c012f0698b1be0dafb379f0/Hugging_Face_Security_Incident_1x1.png?w=3840&q=90&fm=webp)
+![Our commitment to Zero Data Retention as AI advances — card](https://images.ctfassets.net/kftzwdyauwt9/6bPStWA6pc66cahnhg0jo6/61786b178401b6e902e9da65fa4da095/Blog_Thumbnail_-_OpenAI_Blog.png?w=3840&q=90&fm=webp)
 
-[OpenAI and Hugging Face address security incidentSecurityJul 21, 2026](</index/hugging-face-model-evaluation-security-incident/>)
+[Offering Zero Data Retention for frontier modelsCompanyAug 19, 2026](</index/offering-zero-data-retention-for-frontier-models/>)
 
-![PIA safety > Cover image](https://images.ctfassets.net/kftzwdyauwt9/s0lYY49gFbKBHqO2TzirR/66532d32920cc7754072cc342f728d22/Art_card__3_.png?w=3840&q=90&fm=webp)
+![ChatGPT for Teens — square card](https://images.ctfassets.net/kftzwdyauwt9/5IP7e1KeD8zkZq6YUrKdKW/2325215681ea59d32dd09b3ea90f12c5/Art_Card-TEENS-1x13x.png?w=3840&q=90&fm=webp)
 
-[Safety and alignment in an era of long-horizon modelsSafetyJul 20, 2026](</index/safety-alignment-long-horizon-models/>)
+[Introducing ChatGPT for TeensProductAug 18, 2026](</index/chatgpt-for-teens/>)
 
-![Why teens deserve access to safe AI — card image](https://images.ctfassets.net/kftzwdyauwt9/qMYBYjbkSSEYQbsQyyfRQ/d9fe2585ed8bbf73ffee5d6ed8bcc39e/why-teens-card.jpg?w=3840&q=90&fm=webp)
+![The Defender’s Window > Cover](https://images.ctfassets.net/kftzwdyauwt9/2We7bguC4FuOofZ8Lu6LUZ/02049fcee47c460695acab59bdb8f648/the-defenders-window-clean-cover.png?w=3840&q=90&fm=webp)
 
-[Why teens deserve access to safe AISafetyJul 16, 2026](</index/why-teens-deserve-access-safe-ai/>)
+[The Defender’s WindowSecurityAug 17, 2026](</index/the-defenders-window/>)
 
 Research
 

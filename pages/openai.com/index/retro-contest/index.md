@@ -26,14 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Sonic Benchmark
-
-  * Sonic Benchmark
-  * Sonic Recordings
-  * Gym Retro Beta
-
-
-
 April 5, 2018
 
 [Milestone](</research/index/milestone/>)
@@ -51,6 +43,20 @@ Illustration: Timothy J. Reynolds
 Loading…
 
 Share
+
+Sonic Benchmark
+
+  * Sonic Benchmark
+  * Sonic Recordings
+  * Gym Retro Beta
+
+
+
+  * Sonic Benchmark
+  * Sonic Recordings
+  * Gym Retro Beta
+
+
 
 ## Why it matters
 
@@ -146,9 +152,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -185,6 +191,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -218,6 +226,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

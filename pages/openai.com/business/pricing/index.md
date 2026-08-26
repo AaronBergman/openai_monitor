@@ -36,36 +36,50 @@ ChatGPTAPI
 
 ### Business
 
-A secure workspace with company context and tools for teams, built for growing companies
-
-$20
-
-/ user / month*
+A secure workspace with company context and flexible seat types for any budget.
 
 [Get started(opens in a new window)](<https://chatgpt.com/team-sign-up>)
 
-What's included:
+#### Standard seat
 
-  * Access ChatGPT and Codex across desktop and mobile apps
+$20/ month
 
-  * AI for chat, coding, analysis, and workflows
+Best for everyday work
 
-  * Connect tools like Microsoft 365, Google Drive, Slack, Github, Linear, Figma, and more
+$20/month if billed annually. $25/month if billed monthly.
 
-  * Build on company knowledge and team context with custom team agent plugins
+#### Premium seat
+
+$100/ month
+
+5x more usage than standard, with no 5-hour limit
+
+$100/month if billed annually. $125/month if billed monthly.
+
+What’s included:
+
+  * All ChatGPT, ChatGPT Work, and Codex features
+
+  * Access across desktop, web, and mobile
+
+  * Connect to Google Workspace, Slack, GitHub, Microsoft 365, and more
+
+  * Secure workspace with SAML, SSO, and MFA
 
   * Centralized billing and administration
 
-  * Usage analytics, budgeting, and spend controls
-
-  * Secure workspace with SAML SSO and MFA
+  * Usage analytics and spend controls
 
   * No training on your business data by default
 
+  * Workspace agents for customized workflows
+
+  * Mix and match seat types
 
 
 
-*2+ users, billed annually. $25.00 per user per month when billed monthly. Unlimited subject to abuse guardrails. [Learn more⁠(opens in a new window)](<https://help.openai.com/en/articles/8792828-what-is-chatgpt-team>)
+
+For teams of 2–200 employees. Unlimited subject to abuse guardrails. [Learn more⁠⁠(opens in a new window)](<https://help.openai.com/en/articles/8792828-what-is-chatgpt-team>)
 
 ![](https://images.ctfassets.net/kftzwdyauwt9/s2GhJeU3baS4ToFbNYOTs/35171dcb81bd64418aec716692646f6e/chat-2.png?w=3840&q=90&fm=webp)
 
@@ -73,11 +87,11 @@ What's included:
 
 Enterprise-grade AI, security, and support for businesses operating at scale
 
-Custom pricing
-
-Contact our sales team to discuss pricing.*
-
 [Contact sales](</contact-sales/>)
+
+#### Custom pricing
+
+Contact our sales team to discuss enterprise pricing.*
 
 What’s included:
 

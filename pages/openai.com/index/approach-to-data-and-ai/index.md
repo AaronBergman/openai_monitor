@@ -26,13 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Understanding our foundation models and how we build them 
-
-  * Understanding our foundation models and how we build them 
-  * We’re building in partnership
-
-
-
 May 7, 2024
 
 [Security](</news/security/>)
@@ -44,6 +37,28 @@ May 7, 2024
 Loading…
 
 Share
+
+We respect the choices of creators and content owners on AI
+
+  * We respect the choices of creators and content owners on AI
+  * We’re building Media Manager so content owners can manage how their works are used in AI
+  * We’re building products to benefit users, creators and publishers in a vibrant ecosystem
+  * Understanding our foundation models and how we build them 
+    * We design our AI models to be learning machines, not databases
+    * We use broad and diverse data to build the best AI for everyone
+  * We’re building in partnership
+
+
+
+  * We respect the choices of creators and content owners on AI
+  * We’re building Media Manager so content owners can manage how their works are used in AI
+  * We’re building products to benefit users, creators and publishers in a vibrant ecosystem
+  * Understanding our foundation models and how we build them 
+    * We design our AI models to be learning machines, not databases
+    * We use broad and diverse data to build the best AI for everyone
+  * We’re building in partnership
+
+
 
 AI should expand opportunities for everyone. By transforming information in new ways, AI systems help us solve problems and express ourselves. Today, our AI tools like ChatGPT are being used around the world to help farmers in Kenya and India increase crop yields ([Digital Green⁠](<https://openai.com/customer-stories/digital-green>)), researchers accelerate drug discovery ([Moderna⁠](<https://openai.com/customer-stories/moderna>)), governments support their workforces ([State of Pennsylvania⁠(opens in a new window)](<https://www.governor.pa.gov/newsroom/shapiro-administration-and-openai-launch-first-in-the-nation-generative-ai-pilot-for-commonwealth-employees/>)), educators [advance⁠](<https://openai.com/index/teaching-with-ai>) student learning, and people with visual impairments navigate our world ([Be My Eyes⁠](<https://openai.com/customer-stories/be-my-eyes>)). AI tools like [DALL·E⁠](<https://openai.com/index/dall-e-3>) and [Sora⁠](<https://openai.com/index/sora>) (currently in research preview) are [empowering⁠](<https://openai.com/index/dall-e-2-extending-creativity>) creatives from [aspiring artists to filmmakers⁠](<https://openai.com/index/sora-first-impressions>).  
   
@@ -128,9 +143,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -167,6 +182,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -200,6 +217,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

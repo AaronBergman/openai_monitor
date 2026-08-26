@@ -34,7 +34,16 @@ May 7, 2024
 
 We’re introducing new tools to help researchers study content authenticity and are joining the Coalition for Content Provenance and Authenticity Steering Committee.
 
-![An abstract painting with soft, blended patches of color, including shades of peach, blue, green, and orange. The smooth transitions between hues create a serene and dreamy atmosphere, with no distinct shapes or forms.](https://images.ctfassets.net/kftzwdyauwt9/4yrfifRPSKLY1qH2Vzk7pe/6a0ce1acd099314dbfb4b66cb64051a2/BlogImage.png?w=3840&q=90&fm=webp)
+## This post outlined our approach to content provenance in 2024.
+
+For our latest work:
+
+  1. [Try our public verification tool](</research/verify/>)
+
+  2. [Learn about our advancements in content provenance](</index/advancing-content-provenance/>)
+
+
+
 
 Loading…
 

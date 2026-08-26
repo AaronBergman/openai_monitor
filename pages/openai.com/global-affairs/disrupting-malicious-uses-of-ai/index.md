@@ -32,7 +32,7 @@ February 21, 2025
 
 # Disrupting malicious uses of AI
 
-Our latest report featuring case studies of how we're detecting and preventing malicious uses of AI.
+Our latest report featuring case studies of how we’re detecting and preventing malicious uses of AI.
 
 ![Spotlights coming from above down onto a purple environment in a pastel style. ](https://images.ctfassets.net/kftzwdyauwt9/rq7eQIpusuVJnyctpVQ8u/2d26b7bae4a62029f51fdbb378c9e730/Blog_Threat_Report_16.9.png?w=3840&q=90&fm=webp)
 

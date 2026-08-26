@@ -30,15 +30,15 @@ Select language
 
 …
 
-Updated: June 4, 2026
+Updated: August 25, 2026
 
 # Privacy policy
 
-([_Previous version_ ⁠](<https://openai.com/policies/eu-privacy-policy/revisions/2026-04-01/>))
+([_Previous version_ ⁠](<https://openai.com/policies/eu-services-privacy-policy/revisions/2026-06-04/>))
 
 For individuals outside the European Economic Area, United Kingdom, and Switzerland, you can read [this version⁠](<https://openai.com/policies/communications-privacy-policy/>) of our Privacy Policy.
 
-At OpenAI, our mission is to ensure that artificial general intelligence benefits everyone. We build tools like ChatGPT and Sora to help people learn, create, and solve problems. We at OpenAI (together with our affiliates, “OpenAI”, “we”, “our” or “us”) are committed to respecting your privacy and are strongly committed to keeping secure any information we obtain from you or about you. This Privacy Policy describes our practices with respect to personal data that we collect from or about you, and how we use it when you use our website, applications, and services (collectively, “Services”). 
+At OpenAI, our mission is to ensure that artificial general intelligence benefits everyone. We build tools like ChatGPT to help people learn, create, and solve problems. We at OpenAI (together with our affiliates, “OpenAI”, “we”, “our” or “us”) are committed to respecting your privacy and are strongly committed to keeping secure any information we obtain from you or about you. This Privacy Policy describes our practices with respect to personal data that we collect from or about you, and how we use it when you use our website, applications, and services (collectively, “Services”). 
 
 This Privacy Policy does not apply to content that we process on behalf of customers of our business offerings, such as our API. Our use of that data is governed by our customer agreements covering access to and use of those offerings.
 
@@ -51,7 +51,7 @@ We collect personal data relating to you (“Personal Data”) as follows:
 **Personal Data You Provide:** We collect Personal Data if you create an account to use our Services or communicate with us as follows:
 
   * _Account Information:_ When you create an account with us, we will collect information associated with your account, including your name, contact information, account credentials, date of birth, payment information, and transaction history, (collectively, “Account Information”). Some of our Services may also allow you to upload a profile picture, a username, or other information as part of your Account Information.
-  * _User Content:_ We collect Personal Data that you provide in the input to our Services (“Content”), including your prompts and other content you upload, such as [files⁠(opens in a new window)](<https://help.openai.com/articles/8555545-file-uploads-faq>), [images⁠(opens in a new window)](<https://help.openai.com/articles/8400551-chatgpt-image-inputs-faq>), [audio and video⁠(opens in a new window)](<https://help.openai.com/articles/8400625-voice-mode-faq>), [Sora characters⁠(opens in a new window)](<https://help.openai.com/articles/12435986-generating-content-with-cameos>), and data from [connected services⁠(opens in a new window)](<https://help.openai.com/articles/11487775-connectors-in-chatgpt>), depending on the features you use. Some of our Services allow you to interact with other users, such as post, comment, or send messages, and we treat those interactions as Content, too.
+  * _User Content:_ We collect Personal Data that you provide in the input to our Services (“Content”), including your prompts and other content you upload, such as [files⁠(opens in a new window)](<https://help.openai.com/articles/8555545-file-uploads-faq>), [images⁠(opens in a new window)](<https://help.openai.com/articles/8400551-chatgpt-image-inputs-faq>), [audio and video⁠(opens in a new window)](<https://help.openai.com/articles/8400625-voice-mode-faq>), and data from [connected services⁠(opens in a new window)](<https://help.openai.com/articles/11487775-connectors-in-chatgpt>), depending on the features you use. Some of our Services allow you to interact with other users, such as post, comment, or send messages, and we treat those interactions as Content, too.
   * _Communication Information_ : If you communicate with us, such as via email or our pages on social media sites, we may collect Personal Data like your name, contact information, and the contents of the messages you send (“Communication Information”).
   * _Contact Data:_ If you choose to connect your device contacts, we upload information from your device address books and check which of your contacts also use our Services. If any of your contacts aren’t yet using our Services, we’ll update you if they sign up for our Services later. [_Learn more_ ⁠(opens in a new window)](<http://help.openai.com/articles/20001058>) about connecting your contacts and [_how we use uploaded contact information_ ⁠(opens in a new window)](<http://help.openai.com/articles/20001059>) of people who don’t use our Services.
   * _Other Information You Provide_ : We collect other information that you provide to us, such as when you participate in our events or surveys, or when you provide us or a vendor operating on our behalf with information to establish your identity or age (collectively, “Other Information You Provide”).
@@ -61,8 +61,7 @@ We collect personal data relating to you (“Personal Data”) as follows:
 **Personal Data We Receive from Your Use of the Services:** When you visit, use, or interact with the Services, we receive the following information about your visit, use, or interactions:
 
   * _Log Data_ : We collect information that your browser or device automatically sends when you use our Services. Log data includes your Internet Protocol address, browser type and settings, the date and time of your request, and how you interact with our Services.
-  * _Usage Data_ : We collect information about your use and activity across the Services, such as the types of content that you view or engage with, the features you use and the actions you take, when you submit feedback to a model response, the people with whom you interact, as well as your time zone, country, the dates and times of access, user agent and version, type of computer or mobile device, and your computer connection. If you use the Atlas browser we may also collect your browser data according to [your controls⁠(opens in a new window)](<https://help.openai.com/articles/12574142-chatgpt-atlas-data-controls-and-privacy>) and use of the service. 
-  *  _Ads data_ : For Free and Go users, subject to your choices and controls, we collect information about your ads history and interests, such as the types of ad content that you view or engage with.
+  * _Usage Data_ : We collect information about your use and activity across the Services, such as the types of content that you view or engage with, the features you use and the actions you take, when you submit feedback to a model response, the people with whom you interact, as well as your time zone, country, the dates and times of access, user agent and version, type of computer or mobile device, and your computer connection. For [_Free_ ⁠(opens in a new window)](<https://chatgpt.com/plans/free/>) and [_Go_ ⁠(opens in a new window)](<https://help.openai.com/articles/11989085-what-is-chatgpt-go>) users, we also collect information about your ads history and interests, such as the types of ad content that you view or engage with. If you use the in-app browser we may also collect your browser data according to[ _your controls_ ⁠(opens in a new window)](<https://help.openai.com/articles/12574142-chatgpt-atlas-data-controls-and-privacy>) and use of the service.
   * _Device Information_ : We collect information about the device you use to access the Services, such as the name of the device, operating system, device identifiers, and browser you are using. Information collected depends on the type of device you use and its settings.
   * _Location Information:_ We determine the general area from which your device accesses our Services based on information like its IP address for security reasons and to make your product experience better, for example to protect your account by detecting unusual login activity or to provide more accurate responses. In addition, some of our Services allow you to choose to provide more precise location information from your device, such as location information from your device’s GPS.
   * _Cookies and Similar Technologies_ : We use cookies and similar technologies to operate and administer our Services, and improve your experience. We store some of the information described in this Policy with cookies, for example to help maintain your preferences across sessions if you’re not logged in, or to assist with authentication and customer support. For details about our use of cookies, please read our [_Cookie Notice_ ⁠](<https://openai.com/policies/cookie-policy>).
@@ -71,7 +70,7 @@ We collect personal data relating to you (“Personal Data”) as follows:
 
 **Information We Receive from Other Sources:** We receive information from other sources, such as our trusted security and safety partners to protect safety and prevent fraud, abuse, and other threats to our Services, and from marketing vendors who provide us with information about potential customers of our business services.
 
-We may receive information from advertisers and other data partners, which we use for purposes including to help us measure and to help us show more relevant ads to Free and Go users on our Services. For example, we could receive information about purchases you make from these advertisers.
+We receive information from advertisers and other data partners, which we use for purposes described in this Policy including to help us measure and improve the effectiveness of our Services, including to help us show more relevant ads to Free and Go users on our Services. For example, we could receive information about purchases you make from these advertisers.
 
 We also collect information from other sources, like information that is publicly available on the internet, to develop the models that power our Services. For more information on the sources of information used to develop the models that power ChatGPT and other Services, please see [this help center article⁠(opens in a new window)](<https://help.openai.com/articles/7842364-how-chatgpt-and-our-language-models-are-developed>).
 
@@ -82,7 +81,7 @@ We use Personal Data for the following purposes:
   * To provide, analyse, and maintain our Services, for example to respond to your questions for ChatGPT;
   * To improve and develop our Services and conduct research, for example to develop new features;
   * To personalize and customize your experience across our Services, for example to provide you with more relevant Content;
-  * For Free and Go users, to personalize the ads you see on our Services (subject to your choices and controls), and to measure the effectiveness of ads shown on our Services. [_Learn more_ ⁠(opens in a new window)](<https://help.openai.com/articles/20001047-ads-in-chatgpt>) about ads on our services;
+  * For Free and Go users, to the extent it is available to you, to personalise the ads you see on our Services (subject to your choices and controls), and to measure the effectiveness of ads shown on our Services. [_Learn more_ ⁠(opens in a new window)](<https://help.openai.com/articles/20001047-ads-in-chatgpt>) about ads on our services;
   * To communicate with you, including to respond to your questions, and send you information about our Services and events, for example about changes or improvements to the Services;
   * Identify your contacts who use our Services when you choose to connect your contacts and update you if they join our Services later;
   * To prevent fraud, illegal activity, or misuses of our Services, and to protect the security of our systems and Services, including by monitoring any Content submitted or exchanged on our platforms (learn more [_here_ ⁠](<https://openai.com/transparency-and-content-moderation/>)); and
@@ -104,7 +103,7 @@ We disclose your Personal Data in the following circumstances:
   * _Affiliates_ : We disclose Personal Data to our affiliates, meaning an entity that controls, is controlled by, or is under common control with OpenAI. Our affiliates may use this Personal Data in a manner consistent with this policy.
   * _Business Account Administrators_ : When you join a ChatGPT Enterprise or business account, the administrators of that account may access and control your OpenAI account, including being able to access your Content. In addition, if you create an account using an email address belonging to your employer or another organization, we may share the fact that you have an account and certain account information, such as your email address, with your employer or organization to, for example, enable you to be added to their business account.
   * _Parent or Guardian of a Teen_ : Teen users and their parents or guardians can choose to link their accounts, allowing the parent or guardian to manage certain settings, and receive alerts if we detect a serious safety concern. These accounts can be unlinked at any time. [Learn more⁠(opens in a new window)](<https://help.openai.com/articles/12315553-parental-controls-on-chatgpt-faq>) about account linking.
-  * _Other Users and Third Parties You Interact or Share Information With_ : Certain Services allow you to interact or share information with other users or third parties. For example, you can share content like [ChatGPT conversations⁠(opens in a new window)](<https://help.openai.com/articles/7925741-chatgpt-shared-links-faq>) or Sora [videos⁠(opens in a new window)](<https://help.openai.com/articles/12456897-getting-started-with-the-sora-app>) and [characters⁠(opens in a new window)](<https://help.openai.com/articles/12435986-generating-content-with-cameos>), or share information with third-party [search⁠(opens in a new window)](<https://help.openai.com/articles/9237897-chatgpt-search>) and [shopping⁠(opens in a new window)](<https://help.openai.com/articles/12440090-instant-checkout-buy-directly-from-merchants-through-chatgpt>) partners. Information you share with third-party partners is governed by their own terms and privacy policies, and you should make sure you understand those terms and policies before sharing information with them.
+  * _Other Users and Third Parties You Interact or Share Information With_ : Certain Services allow you to interact or share information with other users or third parties. For example, you can share content like [ChatGPT conversations⁠(opens in a new window)](<https://help.openai.com/articles/7925741-chatgpt-shared-links-faq>), or share information with third-party [search⁠(opens in a new window)](<https://help.openai.com/articles/9237897-chatgpt-search>) and [shopping⁠(opens in a new window)](<https://help.openai.com/articles/12440090-instant-checkout-buy-directly-from-merchants-through-chatgpt>) partners. Information you share with third-party partners is governed by their own terms and privacy policies, and you should make sure you understand those terms and policies before sharing information with them.
 
 
 
@@ -114,8 +113,8 @@ We also aggregate or de-identify Personal Data so that it no longer identifies y
 
 We’ll retain your Personal Data for only as long as we need in order to provide our Services to you, or for other legitimate business purposes such as resolving disputes, safety and security reasons, or complying with our legal obligations. How long we retain Personal Data depends on the type of data, how we use it, and in many cases your settings:
 
-  * **Information we retain until you delete it:** Some of our Services allow you to delete Personal Data stored in your account. For example, you can delete specific, or all, of your ChatGPT conversations, delete specific [Saved Memories⁠(opens in a new window)](<https://help.openai.com/articles/8590148-memory-faq>), or delete your account. Once you choose to delete Personal Data, we will remove it from our systems within 30 days unless we need to retain it for longer as described below, or it has already been de-identified and disassociated from your account when you allow us to use your Content to [improve our models⁠(opens in a new window)](<https://help.openai.com/articles/5722486-how-your-data-is-used-to-improve-model-performance>). 
-  * **Information we delete automatically:** In some cases, Personal Data will be deleted automatically. For example, [Temporary Chats⁠(opens in a new window)](<https://help.openai.com/articles/8914046-temporary-chat-faq>) will be automatically deleted within 30 days (unless we have to retain them for safety or legal reasons, as described further below), and your [Atlas incognito browsing history⁠(opens in a new window)](<https://help.openai.com/articles/12574142-chatgpt-atlas-data-controls-and-privacy#h_1822c59321>) won’t be saved after you end your session.
+  * **Information we retain until you delete it:** Some of our Services allow you to delete Personal Data stored in your account. For example, you can delete specific, or all, of your ChatGPT conversations, delete specific [Memories⁠(opens in a new window)](<https://help.openai.com/articles/8590148-memory-faq>), or delete your account. Once you choose to delete Personal Data, we will remove it from our systems within 30 days unless we need to retain it for longer as described below, or it has already been de-identified and disassociated from your account when you allow us to use your Content to [improve our models⁠(opens in a new window)](<https://help.openai.com/articles/5722486-how-your-data-is-used-to-improve-model-performance>). 
+  * **Information we delete automatically:** In some cases, Personal Data will be deleted automatically. For example, [Temporary Chats⁠(opens in a new window)](<https://help.openai.com/articles/8914046-temporary-chat-faq>) will be automatically deleted within 30 days (unless we have to retain them for safety or legal reasons, as described further below).
   * **Information we retain for longer for legitimate security, safety, or legal reasons:** In some cases, we need to retain Personal Data for longer even after you delete it, for example because we are legally required to, to address fraud and abuse, for security reasons, or for financial record-keeping purposes. For instance:
     * If specific Content, or your account, is banned because of violations of our [_usage policies_ ⁠](<https://openai.com/policies/usage-policies/>), we may retain that data for to protect our services from fraud, abuse, or other violations of our policies;
     * If we are legally required to retain your data (for instance, we receive a lawful subpoena) then we may retain it for the duration of the relevant legal or regulatory obligation;
@@ -139,12 +138,11 @@ Our Services provide you with a number of controls over your Personal Data and h
 
   * You can easily [choose whether your Content can be used to improve and train our models⁠(opens in a new window)](<https://help.openai.com/articles/5722486-how-your-data-is-used-to-improve-model-performance>).
   * You can decide whether we will remember details between chats to make Content more personalized and relevant.
-  * You can export your ChatGPT history and data in your account’s data controls.
-  * You can delete or archive chats in ChatGPT, or delete your account entirely.
+  * You can [_export your ChatGPT history and data_ ⁠(opens in a new window)](<https://help.openai.com/articles/7260999-exporting-your-chatgpt-history-and-data>) in your account’s data controls.
+  * You can delete or archive chats in ChatGPT, or [_delete your account_ ⁠(opens in a new window)](<https://help.openai.com/articles/6378407-how-to-delete-your-account>) entirely.
   * If you enable [Temporary Chat⁠(opens in a new window)](<https://help.openai.com/articles/8914046-temporary-chat-faq>) in ChatGPT, those conversations with ChatGPT will not appear in your history or be used to improve OpenAI’s models.
-  * Depending on applicable law, you may be able to choose which cookies are used when you use our Services, and you can make choices about the use of your information for purposes of promoting our products and services to you on third-party properties ([_learn more_ ⁠(opens in a new window)](<https://help.openai.com/articles/20001156>)).
-  * Free and Go users can use the advertising controls in your account settings to control what data we use to personalize the ads we show you on our Services. 
-  * If you use the Atlas browser, you can delete your browsing history or choose to browse the web in incognito mode, which helps keep your browsing private from other people who use your device.
+  * Depending on applicable law, you may be able to choose which cookies are used when you use our Services.
+  * Free and Go users can use the advertising controls in account settings to control what data we use to personalize the ads we show you on our Services.
   * You can unsubscribe from marketing communications you receive from us by using the choices provided in those communications.
 
 
@@ -198,6 +196,10 @@ We implement commercially reasonable technical, administrative, and organization
 
 ## 9\. Legal bases for processing
 
+The Personal Data we process, the purposes for which we process it, and the legal bases on which we rely depend on how you use our Services, the features and settings you choose, and the circumstances of the processing. The table below provides more information about these purposes, the categories of Personal Data involved, and the applicable legal bases.
+
+In some circumstances, we may ask for your consent to process Personal Data for a specific purpose. Where we rely on consent, you may withdraw your consent at any time.
+
 **Purpose of processing**| **Type of Personal Data processed, depending on the processing activity**| **Legal basis, depending on the process activity**  
 ---|---|---  
 To provide, analyse, and maintain our ServicesFor example,
@@ -217,7 +219,7 @@ To provide, analyse, and maintain our ServicesFor example,
   * Usage Data
   * Device Information
   * Location Information
-  * Cookies and Similar Technologies
+  * Cookies and Similar[ Technologies](<https://help.openai.com/articles/20001047-ads-in-chatgpt>)
 
 | Where necessary to perform a contract with you, such as processing your prompts and other Content to provide a response.  
 To personalise and customise your experience across our Services for you.For example,
@@ -225,7 +227,6 @@ To personalise and customise your experience across our Services for you.For exa
   * If [Memory](<https://help.openai.com/articles/8590148-memory-faq>) is on, we may remember details you’ve shared across conversations to provide more personalised and consistent responses in future chats.
   * Using information you add in [Custom Instructions](<https://help.openai.com/articles/8096356-chatgpt-custom-instructions>) (such as “I like concise answers”) to tailor how the model responds to you.
   * Suggesting conversation topics based on subjects you’ve previously discussed or saved [in your Memory](<https://help.openai.com/articles/12293630-chatgpt-pulse>)
-  * Tailoring recommendations for Sora videos that may be relevant to you.
   * To give you an age-appropriate experience.
 
 | 
@@ -242,23 +243,22 @@ To personalise and customise your experience across our Services for you.For exa
 | Where necessary to perform a contract with you, such as following your Custom Instructions to respond to your prompts.Where necessary for our legitimate interests and those of third parties to provide you with a better user experience. For example, to personalise features and content or make suggestions for topics that you may be interested in.Where necessary to comply with a legal obligation (or, where not under a specific legal obligation, where necessary for our legitimate interests and those of third parties), such as to provide you with an age-appropriate experience.  
 When you provide your consent, to personalise the ads you see on our Services. For example: 
 
-  * Where past chats and memory is on, we use past conversations to make the ads you see more relevant.
+  * Where ads personalisation is available and “on”, we use past chats to make the ads you see more relevant.
   * Using information about the ads you’ve viewed or interacted with (for example, ads you hide or engage with) to tailor the ads you are shown.
   * Using information provided by advertisers to serve more relevant ads.
-  * Our ads system uses the context of your current conversation as well as other available information to select the most relevant ads for a given query. 
+  * Our ads system uses the context of your current chat as well as other available information to select the most relevant ads for a given query.
 
 | 
 
   * Account Information
   * User Content
-  * Usage Data
-  * Ads data
+  * Usage Data (including ads data)
   * Device Information
 
 | Your consent, for Free and Go users, when we ask for it to personalize the ads you see on our Services.  
-To show you Generic Ads on our Services where you select the Generic Ads experience (where you do not have a ChatGPT Plus or Pro account and do not consent to processing for personalised advertising or choose the free, no-ads option with additional limits)For example: 
+To show you generic ads on our Services where you select the generic ads experience (where you do not have a ChatGPT Plus or Pro account and do not consent to processing for personalised advertising or choose the free, no-ads option with additional limits)For example: 
 
-  * Using limited information (e.g. the context of your current ChatGPT conversation, location and time of day) to show you ads.
+  * Using limited information (e.g. the context of your current ChatGPT chat, location and time of day) to show you ads.
 
 | 
 
@@ -267,10 +267,10 @@ To show you Generic Ads on our Services where you select the Generic Ads experie
   * Context of the current chat
   * Device type
 
-| As necessary for our legitimate interests and those of third parties. For example, displaying Generic ads to make powerful and safe AI accessible to everyone and to support the interests of advertiser users in reaching users who might be interested in their products/services.  
+| As necessary for our legitimate interests and those of third parties. For example, displaying generic ads to make powerful and safe AI accessible to everyone and to support the interests of advertisers in reaching users who might be interested in their products/services.  
 To provide measurement and reporting services to advertisers. For example, for Free and Go users we collect and use information such as the types of ad content that you view or engage with to understand on an aggregate basis how users interact with our ads. Advertisers will receive aggregate reporting, such as ad views or clicks. | 
 
-  * Usage Data/Ads data
+  * Usage Data (including ads data)
 
 | Where necessary for our legitimate interests and those of third parties. For example, it is in our interest and the interests of advertisers to provide accurate reporting to enable advertisers to understand how their ads have performed.  
 To improve and develop our Services, and conduct researchFor example, 
@@ -287,7 +287,7 @@ To improve and develop our Services, and conduct researchFor example,
   * Other Information You Provide
   * Information We Receive From Other Sources
   * Log Data
-  * Usage Data/Ads Data
+  * Usage Data (including ads data)
   * Device Information
   * Cookies and Similar Technologies
 
@@ -310,7 +310,7 @@ To communicate with you, including to send you information about our Services an
   * Device Information
   * Cookies and Similar Technologies
 
-| Where necessary to perform a contract with you, such as processing your contact information to send you a technical announcement about the Services. Your consent when we ask for it to process your Personal Data for a specific purpose that we communicate to you, such as processing your contact information to send you certain forms of marketing communications.Where necessary for our legitimate interests and those of third parties, for example when sending surveys to ask for feedback.  
+| Where necessary to perform a contract with you, such as processing your contact information to send you a technical announcement about the Services. Your consent when we ask for it to process your Personal Data for a specific purpose that we communicate to you.Where necessary for our legitimate interests and those of third parties, for example when sending surveys to ask for feedback, or when sending certain forms of marketing and communications.  
 To identify your contacts who use our Services when you choose to connect your contacts, and to update you if they join our Services later.| 
 
   * Contact Data
@@ -382,7 +382,7 @@ If you live anywhere else, OpenAI OpCo, LLC, with its registered office at 1455 
 
 ## 13\. How to contact us
 
-Please [contact support⁠(opens in a new window)](<https://help.openai.com/articles/6614161-how-can-i-contact-support#:~:text=If%20you%20already%20have%20an,of%20help.openai.com.>) if you have any questions or concerns not already addressed in this policy. Alternatively, you can write to us at privacy@openai.com or the address above under Section # (Data Controller).
+Please [contact support⁠(opens in a new window)](<https://help.openai.com/articles/6614161-how-can-i-contact-support#:~:text=If%20you%20already%20have%20an,of%20help.openai.com.>) if you have any questions or concerns not already addressed in this policy. Alternatively, you can write to us at privacy@openai.com or the address above under Section 12 (Data Controller).
 
 You can contact our Data Protection Officer at dpo@openai.com in matters related to Personal Data processing.
 
@@ -398,8 +398,6 @@ You can contact our Data Protection Officer at dpo@openai.com in matters related
 
 [_Voice Mode FAQ_ ⁠(opens in a new window)](<https://help.openai.com/articles/8400625-voice-mode-faq>)
 
-[_Health Privacy Notice_ ⁠](<https://openai.com/policies/health-privacy-policy/>)
-
 Research
 
   * [Research Index](</research/index/>)
@@ -410,9 +408,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -449,6 +447,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -482,6 +482,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)
