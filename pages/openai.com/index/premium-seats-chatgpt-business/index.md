@@ -34,8 +34,6 @@ August 10, 2026
 
 Get 5x more usage, no five-hour usage limit, and the flexibility to give every teammate the right seat for their work.
 
-[Join the waitlist](</form/business/premium-offer/>)
-
 Loading…
 
 Share
@@ -53,6 +51,10 @@ Take on more ambitious work without losing momentum
   * Get $100 worth of credits for every Premium seat—up to $500
 
 
+
+ _Update on August 25, 2026: Premium seats are now available on ChatGPT Business. The promotion to earn workspace credits for your first premium seats has ended._[__Learn more__ ⁠(opens in a new window)](<https://help.openai.com/articles/8792536>)_about Premium seats on ChatGPT Business, or_[ __get started__ ⁠(opens in a new window)](<https://chatgpt.com/pricing/?type=team>)_._
+
+* * *
 
 The work that moves your business forward should never have to stop.
 

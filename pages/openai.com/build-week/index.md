@@ -30,7 +30,7 @@ OpenAI
 
 A week for exploring what’s possible with Codex
 
-[Registration closed(opens in a new window)](<https://openai.devpost.com/>)[Download Codex](<https://openai.com/codex>)
+See winners[Download Codex](<https://openai.com/codex>)
 
 00:00:00:00
 
@@ -38,18 +38,96 @@ OpenAI Build Week encourages developers, creators, founders, and students from a
 
 Participants can join live sessions, take part in community events, and submit projects to the OpenAI Build Week Challenge. Whether you’re starting from scratch or building on an existing project, Build Week is an opportunity to learn, create, and share what you’ve made.
 
-## The Build Week Challenge
+## Winning teams
 
-Submit a project built with Codex for a chance to be recognized by OpenAI, with prizes that include cash awards, OpenAI credits, DevDay passes, spotlight opportunities, and special experiences with the OpenAI team.
+### Education
 
-### Key dates
+## First place
 
-July 13| Challenge opens  
----|---  
-July 21| Submission deadline  
-July 22—August 24| Judging period  
-August 25| Winners announced  
-  
+![Mechanica Build Week winning project screenshot](https://images.ctfassets.net/kftzwdyauwt9/2dNrRusufB4r7h9ztgzqG5/93233c442d2b2021561fce8cae141b93/mechanica.png?w=3840&q=90&fm=webp)
+
+### [Mechanica⁠(opens in a new window)](<https://devpost.com/software/xiaoqiang>)
+
+An interactive digital museum that brings ancient Chinese machines to life through physics-based 3D reconstructions, animation, and hands-on exploration.
+
+Built by Weiying Zhu, Yukun Li, and Shan Wei.
+
+## Second place
+
+![Dấu Build Week winning project screenshot](https://images.ctfassets.net/kftzwdyauwt9/7kr8yIps5FmIy3ZqORz82k/eb173219131129282d3a617e7e056d42/dau.png?w=3840&q=90&fm=webp)
+
+### [Dấu⁠(opens in a new window)](<https://devpost.com/software/d-u-see-your-vietnamese-tones>)
+
+A Vietnamese pronunciation coach that visualizes vocal pitch, compares it with native-speaker examples, and explains how to improve each tone.
+
+Built by Robert Huynh.
+
+### Work & Productivity
+
+## First place
+
+![veTriage Build Week winning project screenshot](https://images.ctfassets.net/kftzwdyauwt9/3sGfXbhuBofAut6Ph2AZbm/f6763081dad321c0a8fe21bb8b41d288/vetriage.png?w=3840&q=90&fm=webp)
+
+### [veTriage⁠(opens in a new window)](<https://devpost.com/software/veterinary-four-color-triage-app>)
+
+A safety-first phone-triage app that helps veterinary teams organize client calls, surface veterinarian-authored guidance, and prioritize pets that need care.
+
+Built by Erin Downes, VMD.
+
+## Second place
+
+![Pulse Build Week winning project screenshot](https://images.ctfassets.net/kftzwdyauwt9/1809Q7BZlHLVNFLhaymBCM/fea24e34f25fa63c63e6842ba121ee6f/pulse.png?w=3840&q=90&fm=webp)
+
+### [Pulse⁠(opens in a new window)](<https://devpost.com/software/pulse-ewjaf9>)
+
+A real-time resuscitation assistant that listens to cardiac arrest care, tracks clinical events, and highlights next steps while keeping a human clinician in control.
+
+Built by Mohamed Mostafa Mohamed Labib Abu Taleb.
+
+### Apps for Your Life
+
+## First place
+
+![Second Voice Build Week winning project screenshot](https://images.ctfassets.net/kftzwdyauwt9/4bpssBzm6NXv7Rxdg5f3cM/7e341f4f9c7f528a70bb608972252c29/second-voice.png?w=3840&q=90&fm=webp)
+
+### [Second Voice⁠(opens in a new window)](<https://devpost.com/software/second-voice-uk1peq>)
+
+An AI-powered communication aid that turns unclear speech into understandable sentences while letting the speaker review and approve every response.
+
+Built by Ravitez Dondeti.
+
+## Second place
+
+![AirBridge for Windows Build Week winning project screenshot](https://images.ctfassets.net/kftzwdyauwt9/1DUy8bsbNCXRaGDVZaM2Y8/79cf088eaa606fd388f83a85f1c241dc/airbridge.png?w=3840&q=90&fm=webp)
+
+### [AirBridge for Windows⁠(opens in a new window)](<https://devpost.com/software/airbridge-for-windows>)
+
+A Windows app that streams PC audio to AirPlay-compatible speakers, with multiroom playback and an optional AI voice assistant.
+
+Built by Adam Tarantino.
+
+### Developer Tools
+
+## First place
+
+![Echo Canvas Build Week winning project screenshot](https://images.ctfassets.net/kftzwdyauwt9/7Oq4pCaDZK02BoomLV77g/dab93e6b2cfa8621f4f28ebfa70c80c8/echo-canvas.png?w=3840&q=90&fm=webp)
+
+### [Echo Canvas⁠(opens in a new window)](<https://devpost.com/software/echo-canvas-ujzksi>)
+
+A browser-based workbench for designing and testing spatial audio, letting developers hear how room geometry, walls, and materials change a scene’s acoustics.
+
+Built by Kevin Yang.
+
+## Second place
+
+![Sentinel Build Week winning project screenshot](https://images.ctfassets.net/kftzwdyauwt9/4noAxCr5hHJWUwdwxEi4M1/5f48520304e624eb532dd652cf1a7c30/sentinel.png?w=3840&q=90&fm=webp)
+
+### [Sentinel⁠(opens in a new window)](<https://devpost.com/software/sentinel-way5bd>)
+
+A security scanner for MCP servers that combines static analysis, GPT‑assisted review, and sandboxed testing to catch vulnerabilities before deployment.
+
+Built by Malik Bashaar Javaid.
+
 ## Meet the judges
 
 ![Portrait of Thibault Sottiaux](https://images.ctfassets.net/kftzwdyauwt9/51TgW0WsiLrLe10tLM04v8/ad31668236809a24d057c720e54e8ab7/thibault-sottiaux-square.png?w=3840&q=90&fm=webp)
@@ -82,63 +160,11 @@ VP of Education
 
 Member of Technical Staff, Clawfather
 
-## Live sessions
+## What will you build?
 
-#### Livestream with Corey Ching, Thibault Sottiaux, and Greg Brockman
+Turn your next idea into something real with Codex.
 
-[July 13 at 10 a.m. PDT(opens in a new window)](<https://x.com/i/broadcasts/1qJDzzEDBqoKV>)
-
-#### Livestream with Corey Ching and Peter Steinberger
-
-[July 14 at 11 a.m. PDT(opens in a new window)](<https://x.com/i/broadcasts/1vJpPPXVRwZJE>)
-
-#### Office hours on Discord
-
-[July 15 at 10 a.m. PDT(opens in a new window)](<https://discord.verify.openai.com/buildweek>)
-
-#### OpenAI Academy: Codex Sites
-
-[July 16 at 12 p.m. PDT(opens in a new window)](<https://academy.openai.com/public/events/building-websites-with-codex-sites-lxyhwwl5ya>)
-
-#### Office hours on Discord
-
-[July 17 at 8:30 p.m. PDT(opens in a new window)](<https://discord.verify.openai.com/buildweek>)
-
-#### Office hours on Discord
-
-[July 20 at 10 a.m. PDT(opens in a new window)](<https://discord.verify.openai.com/buildweek>)
-
-#### Livestream with Corey Ching
-
-[July 20 at 11 a.m. PDT(opens in a new window)](<https://x.com/i/broadcasts/1nJOLLqvroExR>)
-
-#### OpenAI Academy: Codex for Creative Building
-
-[July 21 at 8:30 a.m. PDT(opens in a new window)](<https://academy.openai.com/public/events/codex-for-creative-building-gpye2yf0ny>)
-
-## Build alongside the community
-
-#### Community events
-
-Take part in ambassador-led local and virtual sessions to meet other participants and connect with the community.
-
-[View events(opens in a new window)](<https://luma.com/calendar/cal-FhWvOxHV0AGL38z>)
-
-#### Discord
-
-Ask questions, find collaborators, and stay up to date throughout Build Week.
-
-[Join Discord(opens in a new window)](<https://discord.verify.openai.com/buildweek>)
-
-32[(opens in a new window)](<https://luma.com/575tlio7>)4[(opens in a new window)](<https://luma.com/3nojnrm2>)[(opens in a new window)](<https://luma.com/uwpmtuqu>)1053[(opens in a new window)](<https://luma.com/openai-build-week-manila>)[(opens in a new window)](<https://luma.com/leaoeauz>)2[(opens in a new window)](<https://luma.com/keng8c0n>)[(opens in a new window)](<https://luma.com/ijxmsg80>)442[(opens in a new window)](<https://luma.com/o78s4965>)[(opens in a new window)](<https://luma.com/7fhasbun>)2[(opens in a new window)](<https://luma.com/nakm1amb>)32[(opens in a new window)](<https://luma.com/rilvext6>)[(opens in a new window)](<https://luma.com/h1tnbguc>)[(opens in a new window)](<https://luma.com/wokhi19p>)2[(opens in a new window)](<https://luma.com/488dqysb>)[(opens in a new window)](<https://luma.com/boqix2zk>)[(opens in a new window)](<https://luma.com/yx3p1zxx>)[(opens in a new window)](<https://luma.com/yzoilzlq>)[(opens in a new window)](<https://luma.com/aow67tlz>)[(opens in a new window)](<https://luma.com/cr6ldqu4>)
-
-## FAQ
-
-## What will you create?
-
-Join OpenAI Build Week and see what’s possible with Codex.
-
-[Registration closed(opens in a new window)](<https://openai.devpost.com/>)[Download Codex](</codex/>)
+[Download Codex](</codex/>)
 
 Research
 
@@ -244,35 +270,3 @@ Terms & Policies
 OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
-
-### Who can participate?
-
-OpenAI Build Week is open to developers and creators around the world, subject to the official challenge rules and eligibility requirements.
-
-### Do I need experience with Codex?
-
-No. Builders of all experience levels are encouraged to participate.
-
-### Can I participate with a team?
-
-Yes. Team participation details are available on the [Devpost challenge page⁠(opens in a new window)](<https://openai.devpost.com>).
-
-### How do I register?
-
-Registration is now closed. Final program logistics and participation details will be hosted on [DevPost⁠(opens in a new window)](<https://openai.devpost.com/>).
-
-### How do I submit a project?
-
-Projects are submitted through the [Devpost challenge page⁠(opens in a new window)](<https://openai.devpost.com>) or Devpost Hackathons Codex plugin. Your submission should include a project description, demo video, code repository, and any additional materials required for judging.
-
-### How are projects evaluated?
-
-Judges evaluate submissions based on technical implementation, design and user experience, potential impact, and the quality of the idea. Strong submissions demonstrate thoughtful use of GPT‑5.6 and Codex while clearly communicating the problem, solution, and approach.
-
-### What can I win?
-
-Standout projects will be recognized with a range of prizes, which may include cash awards, OpenAI credits, DevDay passes, spotlight opportunities, and experiences with the OpenAI team.
-
-### Where can I get help?
-
-Join the [Build Week Discord⁠(opens in a new window)](<https://discord.verify.openai.com/buildweek>) to ask questions, connect with other participants, and get support throughout the event. You can also attend office hours, OpenAI Academy sessions, livestreams, and community events during Build Week.

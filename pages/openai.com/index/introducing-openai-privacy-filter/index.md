@@ -26,6 +26,18 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
+April 22, 2026
+
+[Research](</news/research/>)[Release](</research/index/release/>)[Security](</news/security/>)
+
+# Introducing OpenAI Privacy Filter
+
+Our state of the art model for masking personally identifiable information (PII) in text
+
+Loading…
+
+Share
+
 A small model with frontier personal data detection capability
 
   * A small model with frontier personal data detection capability
@@ -38,17 +50,15 @@ A small model with frontier personal data detection capability
 
 
 
-April 22, 2026
+  * A small model with frontier personal data detection capability
+  * Model overview
+  * How we built it
+  * How Privacy Filter performs
+  * Limitations
+  * Availability
+  * Looking ahead
 
-[Research](</news/research/>)[Release](</research/index/release/>)[Security](</news/security/>)
 
-# Introducing OpenAI Privacy Filter
-
-Our state of the art model for masking personally identifiable information (PII) in text
-
-Loading…
-
-Share
 
 Today we’re releasing OpenAI Privacy Filter, an open-weight model for detecting and redacting personally identifiable information (PII) in text. This release is part of our broader effort to support a more resilient software ecosystem by providing developers practical infrastructure for building with AI safely, including [_tools_ ⁠](<https://openai.com/index/codex-security-now-in-research-preview/>) and [_models_ ⁠](<https://openai.com/index/scaling-trusted-access-for-cyber-defense/>) that make strong privacy and security protections easier to implement from the start.
 
@@ -183,19 +193,17 @@ OpenAI
 
 [View all](</news/>)
 
-![Art Card 1080x1080 \(3\)](https://images.ctfassets.net/kftzwdyauwt9/3JLNH7ejJFnxLmX2LpzoKD/19f9e3c4d36cc9d677ba88e842ad2db2/Art_Card_1080x1080__4_.png?w=3840&q=90&fm=webp)
+![The Defender’s Window > Cover](https://images.ctfassets.net/kftzwdyauwt9/2We7bguC4FuOofZ8Lu6LUZ/02049fcee47c460695acab59bdb8f648/the-defenders-window-clean-cover.png?w=3840&q=90&fm=webp)
 
-Better memory for a more helpful ChatGPT
+[The Defender’s WindowSecurityAug 17, 2026](</index/the-defenders-window/>)
 
-[Dreaming: Better memory for a more helpful ChatGPTResearchJun 4, 2026](</index/chatgpt-memory-dreaming/>)
+![GPT-Daybreak > Cover](https://images.ctfassets.net/kftzwdyauwt9/2iqsbTTLvgMNteNampw3gW/a38ed04432ee5548c4aec6c7b7a506f2/1x1_Art_Card.png?w=3840&q=90&fm=webp)
 
-![Rosalind5.5 ArtCard](https://images.ctfassets.net/kftzwdyauwt9/6USIQM1B7TggUvvTFxxwoi/0176ac6633c8bdc24641d25d1d2db824/GPT-Rosalind_ArtCard.png?w=3840&q=90&fm=webp)
+[Expanding Daybreak as the Cyber Defense Window NarrowsSecurityAug 10, 2026](</index/expanding-daybreak-as-the-cyber-defense-window-narrows/>)
 
-[Introducing new capabilities to GPT-RosalindProductJun 3, 2026](</index/introducing-new-capabilities-to-gpt-rosalind/>)
+![Daybreak partners 1x1](https://images.ctfassets.net/kftzwdyauwt9/3AQ3qKm4Rmbjm2C1cLKvkJ/d049df2fdc96d1c5dfc695f00c257ce2/Art_Card.png?w=3840&q=90&fm=webp)
 
-![1x1](https://images.ctfassets.net/kftzwdyauwt9/6ui4uYfTTbR4xbiFRcqEfo/81d973f14bea720820f692271f6c6834/square.png?w=3840&q=90&fm=webp)
-
-[Strengthening societal resilience with Rosalind BiodefenseProductMay 29, 2026](</index/strengthening-societal-resilience-with-rosalind-biodefense/>)
+[Putting frontier cyber models in more trusted handsSecurityAug 10, 2026](</index/putting-frontier-cyber-models-in-more-trusted-hands/>)
 
 Research
 
@@ -207,9 +215,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -246,6 +254,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -279,6 +289,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

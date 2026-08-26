@@ -54,6 +54,10 @@ Switch cards to show Media
 
 Switch cards to hide Media
 
+![Jalapeño inference — Art Card](https://images.ctfassets.net/kftzwdyauwt9/26K8mLbrpbaDvoFY0NrE04/8e4ad0b3f28042c22d6d5130bd4f4019/jalapeno-art-card.png?w=3840&q=90&fm=webp)
+
+[Jalapeño’s first results show industry-leading speed and efficiency in AI inferenceEngineeringAug 25, 2026](</index/jalapeno-first-results/>)
+
 ![Continuous voice interaction with GPT Live - art card](https://images.ctfassets.net/kftzwdyauwt9/3PyfDzfjOozLbJnaZIkRLD/6aef080bb4e7d6a6b8a6dc23436848db/gpt-live-art-card.png?w=3840&q=90&fm=webp)
 
 [Continuous voice interaction with GPT LiveEngineeringAug 3, 2026](</index/continuous-voice-interaction-with-gpt-live/>)
@@ -85,10 +89,6 @@ Switch cards to hide Media
 ![An open-source spec for orchestration: Symphony > art card](https://images.ctfassets.net/kftzwdyauwt9/4p40cWGcpyi6xRY3U4advn/d977f47ed621f80de31c931b0b8223f0/Symphony_art_card__1_.png?w=3840&q=90&fm=webp)
 
 [An open-source spec for orchestration: SymphonyEngineeringApr 27, 2026](</index/open-source-codex-orchestration-symphony/>)
-
-![WebSocket > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/6LosFlEPrOVPjLQHXLuMuI/ae6df51e50a6ad0b238d55c0dfcaf5a0/Websocket_Art_Card_1x1.png?w=3840&q=90&fm=webp)
-
-[Speeding up agentic workflows with WebSockets in the Responses APIEngineeringApr 22, 2026](</index/speeding-up-agentic-workflows-with-websockets/>)
 
 Load more
 

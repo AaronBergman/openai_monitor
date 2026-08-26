@@ -26,15 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-How Could AI Affect Influence Operations?
-
-  * How Could AI Affect Influence Operations?
-  * Critical Unknowns
-  * A Framework for Mitigations
-  * If a Mitigation Exists, is it Desirable?
-
-
-
 January 11, 2023
 
 [Publication](</research/index/publication/>)
@@ -50,6 +41,22 @@ Illustration: Justin Jay Wang
 Loading…
 
 Share
+
+How Could AI Affect Influence Operations?
+
+  * How Could AI Affect Influence Operations?
+  * Critical Unknowns
+  * A Framework for Mitigations
+  * If a Mitigation Exists, is it Desirable?
+
+
+
+  * How Could AI Affect Influence Operations?
+  * Critical Unknowns
+  * A Framework for Mitigations
+  * If a Mitigation Exists, is it Desirable?
+
+
 
 OpenAI researchers collaborated with Georgetown University’s Center for Security and Emerging Technology and the Stanford Internet Observatory to investigate how large language models might be misused for disinformation purposes. The collaboration included an October 2021 workshop bringing together 30 disinformation researchers, machine learning experts, and policy analysts, and culminated in a co-authored report building on more than a year of research. This report outlines the threats that language models pose to the information environment if used to augment disinformation campaigns and introduces a framework for analyzing potential mitigations. Read the full report [here⁠(opens in a new window)](<https://arxiv.org/abs/2301.04246>).
 
@@ -149,9 +156,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -188,6 +195,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -221,6 +230,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)
