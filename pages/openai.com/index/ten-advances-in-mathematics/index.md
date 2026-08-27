@@ -94,6 +94,8 @@ Subsequent research includes Bloom, Sawin, Schildkraut, and Zhelezov, “[ _The 
 
 [View all](</news/>)
 
+[The Hugging Face incident and the road aheadSecurityAug 26, 2026](</index/hugging-face-incident-and-the-road-ahead/>)
+
 ![Pacing model development in an era of cyber-critical capabilities — Card image](https://images.ctfassets.net/kftzwdyauwt9/3tUOfo4E1xZComoOiRjHJm/51c532f25dd4062f92bff0e41ea00c3c/index-pacing-model-development-cyber-capabilities-dark-cover.png?w=3840&q=90&fm=webp)
 
 [Pacing model development in an era of cyber-critical capabilitiesCompanyAug 18, 2026](</index/pacing-model-development-cyber-capabilities/>)
@@ -101,10 +103,6 @@ Subsequent research includes Bloom, Sawin, Schildkraut, and Zhelezov, “[ _The 
 ![ARC-AGI-3 art-card 1x1](https://images.ctfassets.net/kftzwdyauwt9/71xyJRWnTkM6EW1JKDUc59/91d2690ff9e7abaa975b4a5f64089056/ARC-AGI-3_art-card_1x1.png?w=3840&q=90&fm=webp)
 
 [How enabling two settings tripled our scores on the ARC-AGI-3 benchmarkResearchJul 29, 2026](</index/how-two-settings-tripled-our-arc-agi-3-scores/>)
-
-![Scientific computing agentic AI card image \(1x1\)](https://images.ctfassets.net/kftzwdyauwt9/5opqp3rNWM7eax6GUc6MAl/1c710a4aba8c5c1e0b7d1c1c7c8b32db/1x1__1_.png?w=3840&q=90&fm=webp)
-
-[Scientific computing in the age of agentic AIPublicationJul 28, 2026](</index/scientific-computing-agentic-ai/>)
 
 Research
 

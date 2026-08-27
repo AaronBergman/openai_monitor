@@ -34,7 +34,7 @@ OpenAI
   * [Safety](</news/safety-alignment/>)
   * [Engineering](</news/engineering/>)
   * [Security](</news/security/>)
-  * [AI Futures](</news/ai-futures/>)
+  * [Intelligence Age](</news/intelligence-age/>)
   * [Global Affairs](</news/global-affairs/>)
   * [AI Adoption](</news/ai-adoption/>)
   * [Applied AI](</news/applied-ai/>)
@@ -52,6 +52,16 @@ Switch cards to show Media
 
 Switch cards to hide Media
 
+![ChatGPT for Teachers district expansion | Original neutral library cover](https://images.ctfassets.net/kftzwdyauwt9/4jHps0gmVQfIrnl2shwDBi/35e47854409876d353f3bb502a164317/teachers-original-neutral-listing.png?w=3840&q=90&fm=webp)
+
+[Bringing ChatGPT for Teachers to more U.S. school districtsProductAug 26, 2026](</index/bringing-chatgpt-for-teachers-to-more-us-school-districts/>)
+
+![Learning never stops card image](https://images.ctfassets.net/kftzwdyauwt9/rGBw0SMWP2aaIH5twRBgX/5f8f24d0e5a03eecfc74ab6cee3dc331/learning-never-stops-how-ai-makes-learning-continuous-cover.png?w=3840&q=90&fm=webp)
+
+[Learning never stops: How AI makes learning continuousProductAug 26, 2026](</index/learning-never-stops/>)
+
+[The Hugging Face incident and the road aheadSecurityAug 26, 2026](</index/hugging-face-incident-and-the-road-ahead/>)
+
 ![The full stack behind abundant intelligence > Cover image](https://images.ctfassets.net/kftzwdyauwt9/4nRoI5iOfeV7qh4O3eAIEB/400545de8860b3c757548f2e3cd275fb/index-full-stack-behind-abundant-intelligence--cover-v001.png?w=3840&q=90&fm=webp)
 
 [The full stack behind abundant intelligenceCompanyAug 25, 2026](</index/the-full-stack-behind-abundant-intelligence/>)
@@ -68,25 +78,13 @@ Switch cards to hide Media
 
 [Advancing price-performance for developers with GPT‑5.6 in KiroProductAug 24, 2026](</index/gpt-5-6-in-kiro/>)
 
-![Introducing AI Futures – Card image](https://images.ctfassets.net/kftzwdyauwt9/RjXEDZCs05kKmaPL1jE4e/38a319c88829e42fc259193178144ecf/introducing-ai-futures-card-ocean-blue-1080x1080.png?w=3840&q=90&fm=webp)
+![Introducing Intelligence Age – Card image](https://images.ctfassets.net/kftzwdyauwt9/5HdminBqr4TZQsE5iFClGm/23242635382e36b97bd9e38a958fbd80/introducing-ai-futures-card-ocean-blue-1080x1080.png?w=3840&q=90&fm=webp)
 
-[Introducing AI FuturesAI FuturesAug 20, 2026](</index/introducing-ai-futures/>)
+[Introducing Intelligence AgeIntelligence AgeAug 20, 2026](</index/introducing-ai-futures/>)
 
-![Our commitment to Zero Data Retention as AI advances — card](https://images.ctfassets.net/kftzwdyauwt9/6bPStWA6pc66cahnhg0jo6/61786b178401b6e902e9da65fa4da095/Blog_Thumbnail_-_OpenAI_Blog.png?w=3840&q=90&fm=webp)
+![Introducing Intelligence Age – Card image](https://images.ctfassets.net/kftzwdyauwt9/5HdminBqr4TZQsE5iFClGm/23242635382e36b97bd9e38a958fbd80/introducing-ai-futures-card-ocean-blue-1080x1080.png?w=3840&q=90&fm=webp)
 
-[Offering Zero Data Retention for frontier modelsCompanyAug 19, 2026](</index/offering-zero-data-retention-for-frontier-models/>)
-
-![ChatGPT Ads expands across Europe - Card image](https://images.ctfassets.net/kftzwdyauwt9/IMh9E5WMDoVaUJyBJrsEP/697ba885d5e89b6bd27a55b9c9a783ae/chatgpt-ads-europe-readable-card.png?w=3840&q=90&fm=webp)
-
-[ChatGPT Ads expands across EuropeProductAug 18, 2026](</index/chatgpt-ads-expands-across-europe/>)
-
-![Partnering with CodeAI — accessible card image](https://images.ctfassets.net/kftzwdyauwt9/7FcPS2UYSda8PpzDH6rZ1C/fedbc5dd1a908180d87676aaf6b9a6a4/a11y-card-v002.png?w=3840&q=90&fm=webp)
-
-[Partnering with CodeAI to prepare the first AI generationCompanyAug 18, 2026](</index/partnering-with-codeai/>)
-
-![Pacing model development in an era of cyber-critical capabilities — Card image](https://images.ctfassets.net/kftzwdyauwt9/3tUOfo4E1xZComoOiRjHJm/51c532f25dd4062f92bff0e41ea00c3c/index-pacing-model-development-cyber-capabilities-dark-cover.png?w=3840&q=90&fm=webp)
-
-[Pacing model development in an era of cyber-critical capabilitiesCompanyAug 18, 2026](</index/pacing-model-development-cyber-capabilities/>)
+[Introducing Intelligence AgeIntelligence AgeAug 20, 2026](</index/introducing-intelligence-age/>)
 
 Load more
 

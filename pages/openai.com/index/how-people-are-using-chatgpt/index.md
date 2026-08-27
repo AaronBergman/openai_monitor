@@ -43,20 +43,14 @@ Share
 Who’s using it 
 
   * Who’s using it 
-
   * What they’re using it for
-
   * How use is evolving
-
 
 
 
   * Who’s using it 
-
   * What they’re using it for
-
   * How use is evolving
-
 
 
 
@@ -107,17 +101,15 @@ OpenAI
 
 [View all](</news/>)
 
-![Our approach to government and national security partnerships > Cover image](https://images.ctfassets.net/kftzwdyauwt9/6LpyyLCqWNpiRHwFZpCP7s/30674f74a4b776306398352664a5f3cc/Frame.png?w=3840&q=90&fm=webp)
+[The Hugging Face incident and the road aheadSecurityAug 26, 2026](</index/hugging-face-incident-and-the-road-ahead/>)
 
-[Our approach to government and national security partnershipsGlobal AffairsJul 8, 2026](</index/government-national-security-partnerships/>)
+![DMUA Russia > card image ](https://images.ctfassets.net/kftzwdyauwt9/ciRSLFnJsNyxXYQjdoyqu/ff8ab22ad273ff79a4c9840f0c209fe6/Frame.png?w=3840&q=90&fm=webp)
 
-![Separating signal from noise > Art Card](https://images.ctfassets.net/kftzwdyauwt9/7j6M3prKIsTmV6cbMaHjhZ/e66f7cdd98c66c99546853cbc22cfe84/Seperating-signal-from-noise-card.png?w=3840&q=90&fm=webp)
+[Disrupting a new covert influence campaign from RussiaGlobal AffairsAug 25, 2026](</index/disrupting-malicious-uses-of-ai-influence-campaign-russia/>)
 
-[Separating signal from noise in coding evaluationsResearchJul 8, 2026](</index/separating-signal-from-noise-coding-evaluations/>)
+![Strengthening Democratic Oversight in National Security — card image](https://images.ctfassets.net/kftzwdyauwt9/1qebg0OnHIh4dqr84zXR3Q/dba2f0e83ba4615a71894fd7fd1656e1/openai-democratic-oversight-page-cover-v002.png?w=3840&q=90&fm=webp)
 
-![Helping K–12 educators build practical AI skills > Cover image](https://images.ctfassets.net/kftzwdyauwt9/190wMCP1bPt9adqu2edDV9/106b863586b063e777539df3aa988c3f/Frame.png?w=3840&q=90&fm=webp)
-
-[Helping K–12 educators build practical AI skillsGlobal AffairsJul 8, 2026](</index/k-12-educators-practical-skills/>)
+[Strengthening Democratic Oversight in National SecurityGlobal AffairsAug 18, 2026](</index/strengthening-democratic-oversight-in-national-security/>)
 
 Research
 
@@ -203,6 +195,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

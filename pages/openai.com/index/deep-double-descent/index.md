@@ -26,14 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Model-wise double descent
-
-  * Model-wise double descent
-  * Sample-wise non-monotonicity
-  * Epoch-wise double descent
-
-
-
 December 5, 2019
 
 [Publication](</research/index/publication/>)
@@ -47,6 +39,20 @@ December 5, 2019
 Loading…
 
 Share
+
+Model-wise double descent
+
+  * Model-wise double descent
+  * Sample-wise non-monotonicity
+  * Epoch-wise double descent
+
+
+
+  * Model-wise double descent
+  * Sample-wise non-monotonicity
+  * Epoch-wise double descent
+
+
 
 We show that the [double⁠(opens in a new window)](<https://arxiv.org/abs/1812.11118>) [descent⁠(opens in a new window)](<https://arxiv.org/abs/1710.03667>) [phenomenon⁠(opens in a new window)](<https://arxiv.org/abs/1809.09349>) occurs in CNNs, ResNets, and transformers: performance first improves, then gets worse, and then improves again with increasing model size, data size, or training time. This effect is often avoided through careful regularization. While this behavior appears to be fairly universal, we don’t yet fully understand why it happens, and view further study of this phenomenon as an important research direction.
 
@@ -130,9 +136,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -169,6 +175,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -202,6 +210,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

@@ -26,14 +26,6 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 OpenAI
 
-Webinar
-
-### Join us August 25, 2026 at 9:30 AM PT
-
-to see how OpenAI's Marketing team uses ChatGPT Work to launch bold campaigns faster.
-
-[Register now(opens in a new window)](<https://webinar.openai.com/chatgpt-work-series/marketing/?utm_medium=website&utm_campaign=WBR-chatgpt-work-series-marketing-banner>)
-
 # AI for your marketing team’s most ambitious work
 
 Marketing teams use ChatGPT Work to turn customer insight into bold, on-brand campaigns—and reach people as they explore and decide with ChatGPT Ads.

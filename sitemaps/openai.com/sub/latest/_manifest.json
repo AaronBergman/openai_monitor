@@ -1,186 +1,222 @@
 {
-  "fetch_time": "2026-08-26T09:17:13Z",
+  "fetch_time": "2026-08-27T09:18:22Z",
   "root_url": "https://openai.com/sitemap.xml",
   "sub_sitemaps": [
     {
       "section": "page",
       "url": "https://openai.com/sitemap.xml/page/",
-      "file": "sitemap.xml_page.xml"
+      "file": "sitemap.xml_page.xml",
+      "count": 496
     },
     {
       "section": "ai-adoption",
       "url": "https://openai.com/sitemap.xml/ai-adoption/",
-      "file": "sitemap.xml_ai-adoption.xml"
-    },
-    {
-      "section": "ai-futures",
-      "url": "https://openai.com/sitemap.xml/ai-futures/",
-      "file": "sitemap.xml_ai-futures.xml"
+      "file": "sitemap.xml_ai-adoption.xml",
+      "count": 9
     },
     {
       "section": "api",
       "url": "https://openai.com/sitemap.xml/api/",
-      "file": "sitemap.xml_api.xml"
+      "file": "sitemap.xml_api.xml",
+      "count": 15
     },
     {
       "section": "applied-ai",
       "url": "https://openai.com/sitemap.xml/applied-ai/",
-      "file": "sitemap.xml_applied-ai.xml"
+      "file": "sitemap.xml_applied-ai.xml",
+      "count": 5
     },
     {
       "section": "apps-collaboration",
       "url": "https://openai.com/sitemap.xml/apps-collaboration/",
-      "file": "sitemap.xml_apps-collaboration.xml"
+      "file": "sitemap.xml_apps-collaboration.xml",
+      "count": 9
     },
     {
       "section": "apps-data",
       "url": "https://openai.com/sitemap.xml/apps-data/",
-      "file": "sitemap.xml_apps-data.xml"
+      "file": "sitemap.xml_apps-data.xml",
+      "count": 16
     },
     {
       "section": "apps-design",
       "url": "https://openai.com/sitemap.xml/apps-design/",
-      "file": "sitemap.xml_apps-design.xml"
+      "file": "sitemap.xml_apps-design.xml",
+      "count": 6
     },
     {
       "section": "apps-developer-tools",
       "url": "https://openai.com/sitemap.xml/apps-developer-tools/",
-      "file": "sitemap.xml_apps-developer-tools.xml"
+      "file": "sitemap.xml_apps-developer-tools.xml",
+      "count": 11
     },
     {
       "section": "apps-file-sharing",
       "url": "https://openai.com/sitemap.xml/apps-file-sharing/",
-      "file": "sitemap.xml_apps-file-sharing.xml"
+      "file": "sitemap.xml_apps-file-sharing.xml",
+      "count": 6
     },
     {
       "section": "apps-finance",
       "url": "https://openai.com/sitemap.xml/apps-finance/",
-      "file": "sitemap.xml_apps-finance.xml"
+      "file": "sitemap.xml_apps-finance.xml",
+      "count": 6
     },
     {
       "section": "apps-go-to-market",
       "url": "https://openai.com/sitemap.xml/apps-go-to-market/",
-      "file": "sitemap.xml_apps-go-to-market.xml"
+      "file": "sitemap.xml_apps-go-to-market.xml",
+      "count": 14
     },
     {
       "section": "apps-project-management",
       "url": "https://openai.com/sitemap.xml/apps-project-management/",
-      "file": "sitemap.xml_apps-project-management.xml"
+      "file": "sitemap.xml_apps-project-management.xml",
+      "count": 9
     },
     {
       "section": "brand-stories-api",
       "url": "https://openai.com/sitemap.xml/brand-stories-api/",
-      "file": "sitemap.xml_brand-stories-api.xml"
+      "file": "sitemap.xml_brand-stories-api.xml",
+      "count": 6
     },
     {
       "section": "brand-stories-chatgpt",
       "url": "https://openai.com/sitemap.xml/brand-stories-chatgpt/",
-      "file": "sitemap.xml_brand-stories-chatgpt.xml"
+      "file": "sitemap.xml_brand-stories-chatgpt.xml",
+      "count": 13
     },
     {
       "section": "brand-stories-sora",
       "url": "https://openai.com/sitemap.xml/brand-stories-sora/",
-      "file": "sitemap.xml_brand-stories-sora.xml"
+      "file": "sitemap.xml_brand-stories-sora.xml",
+      "count": 3
     },
     {
       "section": "chatgpt",
       "url": "https://openai.com/sitemap.xml/chatgpt/",
-      "file": "sitemap.xml_chatgpt.xml"
+      "file": "sitemap.xml_chatgpt.xml",
+      "count": 6
     },
     {
       "section": "company",
       "url": "https://openai.com/sitemap.xml/company/",
-      "file": "sitemap.xml_company.xml"
+      "file": "sitemap.xml_company.xml",
+      "count": 254
     },
     {
       "section": "conclusion",
       "url": "https://openai.com/sitemap.xml/conclusion/",
-      "file": "sitemap.xml_conclusion.xml"
+      "file": "sitemap.xml_conclusion.xml",
+      "count": 21
     },
     {
       "section": "disrupting-malicious-uses",
       "url": "https://openai.com/sitemap.xml/disrupting-malicious-uses/",
-      "file": "sitemap.xml_disrupting-malicious-uses.xml"
+      "file": "sitemap.xml_disrupting-malicious-uses.xml",
+      "count": 45
     },
     {
       "section": "engineering",
       "url": "https://openai.com/sitemap.xml/engineering/",
-      "file": "sitemap.xml_engineering.xml"
+      "file": "sitemap.xml_engineering.xml",
+      "count": 21
     },
     {
       "section": "global-affairs",
       "url": "https://openai.com/sitemap.xml/global-affairs/",
-      "file": "sitemap.xml_global-affairs.xml"
+      "file": "sitemap.xml_global-affairs.xml",
+      "count": 150
     },
     {
       "section": "global-affairs-news-listed",
       "url": "https://openai.com/sitemap.xml/global-affairs-news-listed/",
-      "file": "sitemap.xml_global-affairs-news-listed.xml"
+      "file": "sitemap.xml_global-affairs-news-listed.xml",
+      "count": 4
+    },
+    {
+      "section": "intelligence-age",
+      "url": "https://openai.com/sitemap.xml/intelligence-age/",
+      "file": "sitemap.xml_intelligence-age.xml",
+      "count": 1
     },
     {
       "section": "learn-guides",
       "url": "https://openai.com/sitemap.xml/learn-guides/",
-      "file": "sitemap.xml_learn-guides.xml"
+      "file": "sitemap.xml_learn-guides.xml",
+      "count": 10
     },
     {
       "section": "learn-openai-on-openai",
       "url": "https://openai.com/sitemap.xml/learn-openai-on-openai/",
-      "file": "sitemap.xml_learn-openai-on-openai.xml"
+      "file": "sitemap.xml_learn-openai-on-openai.xml",
+      "count": 7
     },
     {
       "section": "milestone",
       "url": "https://openai.com/sitemap.xml/milestone/",
-      "file": "sitemap.xml_milestone.xml"
+      "file": "sitemap.xml_milestone.xml",
+      "count": 36
     },
     {
       "section": "openai-academy",
       "url": "https://openai.com/sitemap.xml/openai-academy/",
-      "file": "sitemap.xml_openai-academy.xml"
+      "file": "sitemap.xml_openai-academy.xml",
+      "count": 30
     },
     {
       "section": "product",
       "url": "https://openai.com/sitemap.xml/product/",
-      "file": "sitemap.xml_product.xml"
+      "file": "sitemap.xml_product.xml",
+      "count": 176
     },
     {
       "section": "publication",
       "url": "https://openai.com/sitemap.xml/publication/",
-      "file": "sitemap.xml_publication.xml"
+      "file": "sitemap.xml_publication.xml",
+      "count": 197
     },
     {
       "section": "release",
       "url": "https://openai.com/sitemap.xml/release/",
-      "file": "sitemap.xml_release.xml"
+      "file": "sitemap.xml_release.xml",
+      "count": 79
     },
     {
       "section": "research",
       "url": "https://openai.com/sitemap.xml/research/",
-      "file": "sitemap.xml_research.xml"
+      "file": "sitemap.xml_research.xml",
+      "count": 46
     },
     {
       "section": "safety",
       "url": "https://openai.com/sitemap.xml/safety/",
-      "file": "sitemap.xml_safety.xml"
+      "file": "sitemap.xml_safety.xml",
+      "count": 108
     },
     {
       "section": "security",
       "url": "https://openai.com/sitemap.xml/security/",
-      "file": "sitemap.xml_security.xml"
+      "file": "sitemap.xml_security.xml",
+      "count": 46
     },
     {
       "section": "sora",
       "url": "https://openai.com/sitemap.xml/sora/",
-      "file": "sitemap.xml_sora.xml"
+      "file": "sitemap.xml_sora.xml",
+      "count": 4
     },
     {
       "section": "startup",
       "url": "https://openai.com/sitemap.xml/startup/",
-      "file": "sitemap.xml_startup.xml"
+      "file": "sitemap.xml_startup.xml",
+      "count": 10
     },
     {
       "section": "webinar",
       "url": "https://openai.com/sitemap.xml/webinar/",
-      "file": "sitemap.xml_webinar.xml"
+      "file": "sitemap.xml_webinar.xml",
+      "count": 7
     }
   ]
 }

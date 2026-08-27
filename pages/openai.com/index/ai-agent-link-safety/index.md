@@ -154,6 +154,8 @@ Adrian Spânu, Thomas Shadwell
 
 [View all](</news/>)
 
+[The Hugging Face incident and the road aheadSecurityAug 26, 2026](</index/hugging-face-incident-and-the-road-ahead/>)
+
 ![Our commitment to Zero Data Retention as AI advances — card](https://images.ctfassets.net/kftzwdyauwt9/6bPStWA6pc66cahnhg0jo6/61786b178401b6e902e9da65fa4da095/Blog_Thumbnail_-_OpenAI_Blog.png?w=3840&q=90&fm=webp)
 
 [Offering Zero Data Retention for frontier modelsCompanyAug 19, 2026](</index/offering-zero-data-retention-for-frontier-models/>)
@@ -161,10 +163,6 @@ Adrian Spânu, Thomas Shadwell
 ![ChatGPT for Teens — square card](https://images.ctfassets.net/kftzwdyauwt9/5IP7e1KeD8zkZq6YUrKdKW/2325215681ea59d32dd09b3ea90f12c5/Art_Card-TEENS-1x13x.png?w=3840&q=90&fm=webp)
 
 [Introducing ChatGPT for TeensProductAug 18, 2026](</index/chatgpt-for-teens/>)
-
-![The Defender’s Window > Cover](https://images.ctfassets.net/kftzwdyauwt9/2We7bguC4FuOofZ8Lu6LUZ/02049fcee47c460695acab59bdb8f648/the-defenders-window-clean-cover.png?w=3840&q=90&fm=webp)
-
-[The Defender’s WindowSecurityAug 17, 2026](</index/the-defenders-window/>)
 
 Research
 

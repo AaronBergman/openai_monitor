@@ -36,7 +36,7 @@ Explore our principles and priorities for [public policy](</company/public-polic
   * [Safety](</news/safety-alignment/>)
   * [Engineering](</news/engineering/>)
   * [Security](</news/security/>)
-  * [AI Futures](</news/ai-futures/>)
+  * [Intelligence Age](</news/intelligence-age/>)
   * [Global Affairs](</news/global-affairs/>)
   * [AI Adoption](</news/ai-adoption/>)
   * [Applied AI](</news/applied-ai/>)

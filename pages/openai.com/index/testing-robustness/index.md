@@ -26,13 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Method principles
-
-  * Method principles
-  * Next steps
-
-
-
 August 22, 2019
 
 [Publication](</research/index/publication/>)
@@ -46,6 +39,24 @@ August 22, 2019
 Loading…
 
 Share
+
+Method principles
+
+  * Method principles
+    * 1\. Evaluate against diverse unforeseen distortion types
+    * 2\. Choose a wide range of distortion sizes calibrated against strong models
+    * 3\. Benchmark adversarial robustness against adversarially trained models
+  * Next steps
+
+
+
+  * Method principles
+    * 1\. Evaluate against diverse unforeseen distortion types
+    * 2\. Choose a wide range of distortion sizes calibrated against strong models
+    * 3\. Benchmark adversarial robustness against adversarially trained models
+  * Next steps
+
+
 
 We’ve developed a method to assess whether a neural network classifier can reliably defend against adversarial attacks not seen during training. Our method yields a new metric, UAR (Unforeseen Attack Robustness), which evaluates the robustness of a single model against an unanticipated attack, and highlights the need to measure performance across a more diverse range of unforeseen attacks.
 
@@ -149,9 +160,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -188,6 +199,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -221,6 +234,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

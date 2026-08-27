@@ -26,15 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Generation
-
-  * Generation
-  * Generalization
-  * Lessons learned
-  * Next steps
-
-
-
 March 21, 2019
 
 [Publication](</research/index/publication/>)
@@ -48,6 +39,22 @@ March 21, 2019
 Loading…
 
 Share
+
+Generation
+
+  * Generation
+  * Generalization
+  * Lessons learned
+  * Next steps
+
+
+
+  * Generation
+  * Generalization
+  * Lessons learned
+  * Next steps
+
+
 
 We’ve made progress towards stable and scalable training of [energy-based models⁠(opens in a new window)](<http://yann.lecun.com/exdb/publis/pdf/lecun-06.pdf>) (EBMs) resulting in better sample quality and generalization ability than existing models. Generation in EBMs spends more compute to continually refine its answers and doing so can generate samples competitive with [GANs⁠(opens in a new window)](<https://arxiv.org/abs/1406.2661>) at low temperatures, while also having mode coverage guarantees of [likelihood-based models⁠(opens in a new window)](<https://arxiv.org/abs/1606.05328>). We hope these findings stimulate further research into this promising class of models.
 
@@ -138,9 +145,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -177,6 +184,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -210,6 +219,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

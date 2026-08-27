@@ -328,6 +328,8 @@ Curious to see the Codex sandbox in action? [_Try it out_ ⁠](<https://openai.c
 
 [View all](</news/>)
 
+[The Hugging Face incident and the road aheadSecurityAug 26, 2026](</index/hugging-face-incident-and-the-road-ahead/>)
+
 ![Jalapeño inference — Art Card](https://images.ctfassets.net/kftzwdyauwt9/26K8mLbrpbaDvoFY0NrE04/8e4ad0b3f28042c22d6d5130bd4f4019/jalapeno-art-card.png?w=3840&q=90&fm=webp)
 
 [Jalapeño’s first results show industry-leading speed and efficiency in AI inferenceEngineeringAug 25, 2026](</index/jalapeno-first-results/>)
@@ -335,10 +337,6 @@ Curious to see the Codex sandbox in action? [_Try it out_ ⁠](<https://openai.c
 ![The Defender’s Window > Cover](https://images.ctfassets.net/kftzwdyauwt9/2We7bguC4FuOofZ8Lu6LUZ/02049fcee47c460695acab59bdb8f648/the-defenders-window-clean-cover.png?w=3840&q=90&fm=webp)
 
 [The Defender’s WindowSecurityAug 17, 2026](</index/the-defenders-window/>)
-
-![GPT-Daybreak > Cover](https://images.ctfassets.net/kftzwdyauwt9/2iqsbTTLvgMNteNampw3gW/a38ed04432ee5548c4aec6c7b7a506f2/1x1_Art_Card.png?w=3840&q=90&fm=webp)
-
-[Expanding Daybreak as the Cyber Defense Window NarrowsSecurityAug 10, 2026](</index/expanding-daybreak-as-the-cyber-defense-window-narrows/>)
 
 Research
 

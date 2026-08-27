@@ -41,24 +41,16 @@ Share
 Methodology
 
   * Methodology
-
   * Human-supervised agent review
-
   * Human annotation campaign
-
   * Discussion
-
 
 
 
   * Methodology
-
   * Human-supervised agent review
-
   * Human annotation campaign
-
   * Discussion
-
 
 
 
@@ -195,17 +187,15 @@ We previously referred to this category as wide tests.
 
 [View all](</news/>)
 
-![GPT-Red art card](https://images.ctfassets.net/kftzwdyauwt9/6q32m87ClqE8Ovn6vD424h/05ced72e47bbe42711fbac6a082cbff2/Art_Card.png?w=3840&q=90&fm=webp)
+[The Hugging Face incident and the road aheadSecurityAug 26, 2026](</index/hugging-face-incident-and-the-road-ahead/>)
 
-[GPT-Red: Unlocking Self-Improvement for RobustnessSafetyJul 15, 2026](</index/unlocking-self-improvement-gpt-red/>)
+![Pacing model development in an era of cyber-critical capabilities — Card image](https://images.ctfassets.net/kftzwdyauwt9/3tUOfo4E1xZComoOiRjHJm/51c532f25dd4062f92bff0e41ea00c3c/index-pacing-model-development-cyber-capabilities-dark-cover.png?w=3840&q=90&fm=webp)
 
-![Introducing GeneBench-Pro > Cover image](https://images.ctfassets.net/kftzwdyauwt9/7sbJaKBi5qLXAqbewh72aK/93197556e903eac9df6f077eb12b7581/GenebenchPro_Blog_ArtCard.png?w=3840&q=90&fm=webp)
+[Pacing model development in an era of cyber-critical capabilitiesCompanyAug 18, 2026](</index/pacing-model-development-cyber-capabilities/>)
 
-[Introducing GeneBench-ProResearchJun 30, 2026](</index/introducing-genebench-pro/>)
+![math-breakthroughs art-card 1x1](https://images.ctfassets.net/kftzwdyauwt9/2zkd5RIOug4FcEj62mdSF4/3ea9e19c0456289c69f0d839cc929cb2/math-breakthroughs_art-card_1x1.png?w=3840&q=90&fm=webp)
 
-![A near-autonomous AI chemist improves a challenging reaction](https://images.ctfassets.net/kftzwdyauwt9/QgPPg4etNE5C4Ao0G94sk/e5f2a50e5de4619d0e0fe8483698718b/molecule-one-art-card.png?w=3840&q=90&fm=webp)
-
-[A near-autonomous AI chemist improves a challenging reaction in medicinal chemistryResearchJun 17, 2026](</index/ai-chemist-improves-reaction/>)
+[Ten advances in mathematics and theoretical computer sciencePublicationAug 1, 2026](</index/ten-advances-in-mathematics/>)
 
 Research
 

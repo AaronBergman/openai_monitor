@@ -26,15 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Introduction
-
-  * Introduction
-  * GSM8K dataset
-  * Training verifiers: Models that learn from their mistakes
-  * Conclusion
-
-
-
 October 29, 2021
 
 [Publication](</research/index/publication/>)
@@ -48,6 +39,22 @@ October 29, 2021
 Loading…
 
 Share
+
+Introduction
+
+  * Introduction
+  * GSM8K dataset
+  * Training verifiers: Models that learn from their mistakes
+  * Conclusion
+
+
+
+  * Introduction
+  * GSM8K dataset
+  * Training verifiers: Models that learn from their mistakes
+  * Conclusion
+
+
 
 We’ve trained a system that solves grade school math problems with nearly twice the accuracy of a fine-tuned GPT‑3 model. It solves about 90% as many problems as real kids: a small sample of 9-12 year olds scored 60% on a test from our dataset, while our system scored 55% on those same problems.
 
@@ -135,9 +142,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -174,6 +181,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -207,6 +216,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

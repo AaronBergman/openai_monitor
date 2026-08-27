@@ -26,14 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Our process
-
-  * Our process
-  * Looking forward
-  * Join our team
-
-
-
 June 10, 2021
 
 [Publication](</research/index/publication/>)
@@ -49,6 +41,26 @@ Our latest research finds we can improve language model behavior with respect to
 Loading…
 
 Share
+
+Our process
+
+  * Our process
+    * Step one: sensitive topic categories and outlining desirable behavior
+    * Step two: crafting the dataset and fine-tuning
+    * Step three: evaluating models
+  * Looking forward
+  * Join our team
+
+
+
+  * Our process
+    * Step one: sensitive topic categories and outlining desirable behavior
+    * Step two: crafting the dataset and fine-tuning
+    * Step three: evaluating models
+  * Looking forward
+  * Join our team
+
+
 
 We’ve found we can improve language model behavior with respect to specific behavioral values by fine-tuning on a curated dataset of <100 examples of those values. We also found that this process becomes more effective as models get larger. While the technique is still nascent, we’re looking for OpenAI API users who would like to try it out and are excited to find ways to use these and other techniques in production use cases.
 
@@ -199,9 +211,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -238,6 +250,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -271,6 +285,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

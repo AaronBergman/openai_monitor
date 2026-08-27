@@ -26,15 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Stylistic text continuation
-
-  * Stylistic text continuation
-  * Summarization
-  * Challenges and lessons learned
-  * Looking forward
-
-
-
 September 19, 2019
 
 [Publication](</research/index/publication/>)
@@ -48,6 +39,28 @@ September 19, 2019
 Loading…
 
 Share
+
+Stylistic text continuation
+
+  * Stylistic text continuation
+  * Summarization
+  * Challenges and lessons learned
+    * Online data collection is hard
+    * Ambiguous tasks make labeling hard
+    * Bugs can optimize for bad behavior
+  * Looking forward
+
+
+
+  * Stylistic text continuation
+  * Summarization
+  * Challenges and lessons learned
+    * Online data collection is hard
+    * Ambiguous tasks make labeling hard
+    * Bugs can optimize for bad behavior
+  * Looking forward
+
+
 
 We’ve fine-tuned the 774M parameter GPT‑2 language model using human feedback for various tasks, successfully matching the preferences of the external human labelers, though those preferences did not always match our own. Specifically, for summarization tasks the labelers preferred sentences copied wholesale from the input (we’d only asked them to ensure accuracy), so our models learned to copy. Summarization required 60k human labels; simpler tasks which continue text in various styles required only 5k. Our motivation is to move safety techniques closer to the general task of “machines talking to humans,” which we believe is key to extracting information about human values.
 
@@ -192,9 +205,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -231,6 +244,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -264,6 +279,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)
