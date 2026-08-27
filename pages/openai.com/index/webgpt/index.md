@@ -26,16 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-ELI5 results
-
-  * ELI5 results
-  * TruthfulQA results
-  * Evaluating factual accuracy
-  * Risks of deployment and training
-  * Conclusion
-
-
-
 December 16, 2021
 
 [Publication](</research/index/publication/>)
@@ -51,6 +41,24 @@ We’ve fine-tuned GPT‑3 to more accurately answer open-ended questions using 
 Loading…
 
 Share
+
+ELI5 results
+
+  * ELI5 results
+  * TruthfulQA results
+  * Evaluating factual accuracy
+  * Risks of deployment and training
+  * Conclusion
+
+
+
+  * ELI5 results
+  * TruthfulQA results
+  * Evaluating factual accuracy
+  * Risks of deployment and training
+  * Conclusion
+
+
 
 We’ve fine-tuned GPT‑3 to more accurately answer open-ended questions using a text-based web browser. Our prototype copies how humans research answers to questions online—it submits search queries, follows links, and scrolls up and down web pages. It is trained to cite its sources, which makes it easier to give feedback to improve factual accuracy. We’re excited about developing more truthful AI,1 but challenges remain, such as coping with unfamiliar types of questions.
 
@@ -166,9 +174,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -205,6 +213,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -238,6 +248,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

@@ -26,13 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Our approach: combining reinforcement learning from human feedback and recursive task decomposition
-
-  * Our approach: combining reinforcement learning from human feedback and recursive task decomposition
-  * Why we are working on this
-
-
-
 September 23, 2021
 
 [Publication](</research/index/publication/>)
@@ -46,6 +39,18 @@ Scaling human oversight of AI systems for tasks that are difficult to evaluate.
 Loading…
 
 Share
+
+Our approach: combining reinforcement learning from human feedback and recursive task decomposition
+
+  * Our approach: combining reinforcement learning from human feedback and recursive task decomposition
+  * Why we are working on this
+
+
+
+  * Our approach: combining reinforcement learning from human feedback and recursive task decomposition
+  * Why we are working on this
+
+
 
 To safely deploy powerful, general-purpose artificial intelligence in the future, we need to ensure that machine learning models act in accordance with human intentions. This challenge has become known as the  _alignment problem_.
 
@@ -140,9 +145,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -179,6 +184,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -212,6 +219,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

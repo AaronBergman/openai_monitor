@@ -26,15 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Experiments with AI assistance
-
-  * Experiments with AI assistance
-  * Scaling properties of critiques
-  * Do models tell us everything they know?
-  * Next steps
-
-
-
 June 13, 2022
 
 [Publication](</research/index/publication/>)
@@ -48,6 +39,22 @@ June 13, 2022
 Loading…
 
 Share
+
+Experiments with AI assistance
+
+  * Experiments with AI assistance
+  * Scaling properties of critiques
+  * Do models tell us everything they know?
+  * Next steps
+
+
+
+  * Experiments with AI assistance
+  * Scaling properties of critiques
+  * Do models tell us everything they know?
+  * Next steps
+
+
 
 We trained “critique-writing” models to describe flaws in summaries. Human evaluators find flaws in summaries much more often when shown our model’s critiques. Larger models are better at self-critiquing, with scale improving critique-writing more than summary-writing. This shows promise for using AI systems to assist human supervision of AI systems on difficult tasks.
 
@@ -125,9 +132,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -164,6 +171,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -197,6 +206,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

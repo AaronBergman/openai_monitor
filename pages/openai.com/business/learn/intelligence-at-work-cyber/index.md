@@ -28,7 +28,9 @@ OpenAI
 
 # Intelligence at Work: Cyber
 
-Register to watch keynotes from Intelligence at Work: Cyber. Join the livestream to see how OpenAI is advancing frontier models for defense to help security teams turn findings into fixes and strengthen resilience at enterprise scale.
+Register to watch The Defender’s Window, a live keynote on how frontier AI is reshaping cybersecurity and what it takes for defenders to stay ahead.
+
+Greg Brockman, OpenAI cyber leaders, and special guests will explore how AI is changing the balance between attackers and defenders and demonstrate how frontier models can help security teams find, validate, and remediate vulnerabilities faster.
 
 If you can’t join live, register anyway and we’ll email you the recording afterward.
 
@@ -36,15 +38,15 @@ Thursday, September 3, 1:00 - 2:00pm PDT
 
 Complete the form to register for the livestream.
 
+First Name *
+
+Last Name *
+
 Work email *
 
-First name *
+Title
 
-Last name *
-
-Company name *
-
-Job title
+Company *
 
 Register to watch the keynote live
 

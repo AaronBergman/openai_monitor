@@ -26,15 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-How it works
-
-  * How it works
-  * Single network training
-  * Key results
-  * Next steps
-
-
-
 November 7, 2018
 
 [Publication](</research/index/publication/>)
@@ -48,6 +39,22 @@ November 7, 2018
 Loading…
 
 Share
+
+How it works
+
+  * How it works
+  * Single network training
+  * Key results
+  * Next steps
+
+
+
+  * How it works
+  * Single network training
+  * Key results
+  * Next steps
+
+
 
 We’ve developed an [energy-based model⁠(opens in a new window)](<https://arxiv.org/abs/1708.06008>) that can quickly learn to identify and generate instances of concepts, such as near, above, between, closest, and furthest, expressed as sets of 2d points. Our model learns these concepts after only five demonstrations. We also show cross-domain transfer: we use concepts learned in a 2d particle environment to solve tasks on a 3-dimensional physics-based robot.
 
@@ -143,9 +150,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -182,6 +189,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -215,6 +224,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

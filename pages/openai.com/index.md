@@ -40,16 +40,13 @@ Message ChatGPT
 
 [GPT-5.6: Frontier intelligence that scales with your ambitionProduct18 min read](</index/gpt-5-6/>)
 
+[The Hugging Face incident and the road aheadSecurity22 min read](</index/hugging-face-incident-and-the-road-ahead/>)
+
 ![GPT-Daybreak > Cover](https://images.ctfassets.net/kftzwdyauwt9/2iqsbTTLvgMNteNampw3gW/a38ed04432ee5548c4aec6c7b7a506f2/1x1_Art_Card.png?w=3840&q=90&fm=webp)
 
 [Expanding Daybreak as the Cyber Defense Window NarrowsSecurity8 min read](</index/expanding-daybreak-as-the-cyber-defense-window-narrows/>)
 
 [Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free usersProduct5 min read](</index/improving-gpt-5-6-sol-in-chatgpt/>)
-
-![Health in ChatGPT > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/48aIp3cQOKJ57vpQeqOb8y/2e8732bcad5ceea1c7b20cf001bd2823/1_1_Art_Card.png?w=3840&q=90&fm=webp)
-
-## [Launching Health in ChatGPT  
-ProductJul 23, 20267 min read](</index/health-in-chatgpt/>)
 
 ## Recent news
 

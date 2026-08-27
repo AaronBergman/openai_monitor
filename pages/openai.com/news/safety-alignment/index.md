@@ -34,7 +34,7 @@ OpenAI
   * [Safety](</news/safety-alignment/>)
   * [Engineering](</news/engineering/>)
   * [Security](</news/security/>)
-  * [AI Futures](</news/ai-futures/>)
+  * [Intelligence Age](</news/intelligence-age/>)
   * [Global Affairs](</news/global-affairs/>)
   * [AI Adoption](</news/ai-adoption/>)
   * [Applied AI](</news/applied-ai/>)
@@ -51,6 +51,8 @@ Sort
 Switch cards to show Media
 
 Switch cards to hide Media
+
+[The Hugging Face incident and the road aheadSecurityAug 26, 2026](</index/hugging-face-incident-and-the-road-ahead/>)
 
 ![Our commitment to Zero Data Retention as AI advances — card](https://images.ctfassets.net/kftzwdyauwt9/6bPStWA6pc66cahnhg0jo6/61786b178401b6e902e9da65fa4da095/Blog_Thumbnail_-_OpenAI_Blog.png?w=3840&q=90&fm=webp)
 
@@ -83,10 +85,6 @@ Switch cards to hide Media
 ![""](https://images.ctfassets.net/kftzwdyauwt9/2ygRvL6yUYAvtHiZYmCT8K/91195cbe6f282c24026d154fe3ac422e/System_card_1_1.png?w=3840&q=90&fm=webp)
 
 [GPT‑5.6 System CardSafetyJul 9, 2026(opens in a new window)](<https://deploymentsafety.openai.com/gpt-5-6>)
-
-![Four white rounded squares arranged in a horizontal row on a soft blue-to-white gradient background.](https://images.ctfassets.net/kftzwdyauwt9/6B2Ddp37H6lfMuxOjcvfa0/f65b4ba8a3550da03e1a5db26fe50ca0/System_Card_1x1__1_.jpg?w=3840&q=90&fm=webp)
-
-[GPT‑Live System CardSafetyJul 8, 2026(opens in a new window)](<https://deploymentsafety.openai.com/gpt-live>)
 
 Load more
 

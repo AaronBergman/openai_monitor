@@ -26,18 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Results
-
-  * Results
-  * Transfer results
-  * Approach
-  * Collecting data from humans
-  * Optimizing the reward model
-  * Limitations
-  * Future directions
-
-
-
 September 4, 2020
 
 [Publication](</research/index/publication/>)
@@ -53,6 +41,28 @@ We’ve applied reinforcement learning from human feedback to train language mod
 Loading…
 
 Share
+
+Results
+
+  * Results
+  * Transfer results
+  * Approach
+  * Collecting data from humans
+  * Optimizing the reward model
+  * Limitations
+  * Future directions
+
+
+
+  * Results
+  * Transfer results
+  * Approach
+  * Collecting data from humans
+  * Optimizing the reward model
+  * Limitations
+  * Future directions
+
+
 
 ## Why it matters
 
@@ -328,9 +338,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -367,6 +377,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -400,6 +412,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

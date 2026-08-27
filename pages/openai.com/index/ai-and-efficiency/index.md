@@ -26,16 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Measuring efficiency
-
-  * Measuring efficiency
-  * Other measures of AI progress
-  * Primary limitations
-  * Measurement and AI policy
-  * Tracking efficiency going forward
-
-
-
 May 5, 2020
 
 [Publication](</research/index/publication/>)
@@ -49,6 +39,24 @@ May 5, 2020
 Loading…
 
 Share
+
+Measuring efficiency
+
+  * Measuring efficiency
+  * Other measures of AI progress
+  * Primary limitations
+  * Measurement and AI policy
+  * Tracking efficiency going forward
+
+
+
+  * Measuring efficiency
+  * Other measures of AI progress
+  * Primary limitations
+  * Measurement and AI policy
+  * Tracking efficiency going forward
+
+
 
 We’re releasing an analysis showing that since 2012 the amount of compute needed to train a neural net to the same performance on ImageNet classification has been decreasing by a factor of 2 every 16 months. Compared to 2012, it now takes 44 times less compute to train a neural network to the level of AlexNet (by contrast, Moore’s Law would yield an 11x cost improvement over this period). Our results suggest that for AI tasks with high levels of recent investment, algorithmic progress has yielded more gains than classical hardware efficiency.
 
@@ -326,9 +334,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -365,6 +373,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -398,6 +408,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

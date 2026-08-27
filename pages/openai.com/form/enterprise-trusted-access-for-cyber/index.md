@@ -163,8 +163,6 @@ Customer monitors employee use of the Services for cyber abuse and retains logs 
 
 Customer maintains a documented incident response process for responding to incidents of account compromise or misuse.
 
-When requested by OpenAI, Customer will create and maintain a separate organization ID designated solely for use by Customer employees who are authorized to access TAC and will provide that organization ID to OpenAI.
-
 Customer’s employees with access to TAC will use domain-specific emails to access the Services.
 
 Customer provides TAC access only through enterprise-controlled devices with standard security controls including disk encryption, patch management, endpoint protection and endpoint management.

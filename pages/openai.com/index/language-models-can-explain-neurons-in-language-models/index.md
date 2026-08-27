@@ -84,7 +84,7 @@ Although the vast majority of our explanations score poorly, we believe we can n
 
 We are open-sourcing our datasets and visualization tools for GPT‑4‑written explanations of all 307,200 neurons in GPT‑2, as well as code for explanation and scoring [using publicly available models⁠(opens in a new window)](<https://github.com/openai/automated-interpretability>) on the OpenAI API. We hope the research community will develop new techniques for generating higher-scoring explanations and better tools for exploring GPT‑2 using explanations.
 
-We found over 1,000 neurons with explanations that scored at least 0.8, meaning that according to GPT‑4 they account for most of the neuron’s top-activating behavior. Most of these well-explained neurons are not very interesting. However, we also found many interesting neurons that GPT‑4 didn't understand. We hope as explanations improve we may be able to rapidly uncover interesting qualitative understanding of model computations.
+We found over 1,000 neurons with explanations that scored at least 0.8, meaning that according to GPT‑4 they account for most of the neuron’s top-activating behavior. Most of these well-explained neurons are not very interesting. However, we also found many interesting neurons that GPT‑4 didn’t understand. We hope as explanations improve we may be able to rapidly uncover interesting qualitative understanding of model computations.
 
 Loading...
 
@@ -92,7 +92,7 @@ Loading...
 
 Our method currently has many [limitations⁠(opens in a new window)](<https://openaipublic.blob.core.windows.net/neuron-explainer/paper/index.html#sec-limitations>), which we hope can be addressed in future work.
 
-  * We focused on short natural language explanations, but neurons may have very complex behavior that is impossible to describe succinctly. For example, neurons could be highly polysemantic (representing many distinct concepts) or could represent single concepts that humans don't understand or have words for.
+  * We focused on short natural language explanations, but neurons may have very complex behavior that is impossible to describe succinctly. For example, neurons could be highly polysemantic (representing many distinct concepts) or could represent single concepts that humans don’t understand or have words for.
   * We want to eventually automatically find and explain entire [neural circuits⁠(opens in a new window)](<https://distill.pub/2020/circuits/zoom-in/>) implementing complex behaviors, with neurons and attention heads working together. Our current method only explains neuron behavior as a function of the original text input, without saying anything about its downstream effects. For example, a neuron that activates on periods could be indicating the next word should start with a capital letter, or be incrementing a sentence counter.
   * We explained the behavior of neurons without attempting to explain the mechanisms that produce that behavior. This means that even high-scoring explanations could do very poorly on out-of-distribution texts, since they are simply describing a correlation.
   * Our overall procedure is quite compute intensive.

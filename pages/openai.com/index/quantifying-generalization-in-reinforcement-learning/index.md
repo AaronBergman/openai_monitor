@@ -26,17 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-The generalization challenge
-
-  * The generalization challenge
-  * Rules of the game
-  * Evaluating generalization
-  * Improving generalization performance
-  * Additional environments
-  * Next steps
-
-
-
 December 6, 2018
 
 [Publication](</research/index/publication/>)
@@ -50,6 +39,26 @@ December 6, 2018
 Loading…
 
 Share
+
+The generalization challenge
+
+  * The generalization challenge
+  * Rules of the game
+  * Evaluating generalization
+  * Improving generalization performance
+  * Additional environments
+  * Next steps
+
+
+
+  * The generalization challenge
+  * Rules of the game
+  * Evaluating generalization
+  * Improving generalization performance
+  * Additional environments
+  * Next steps
+
+
 
 We’re releasing CoinRun, a training environment which provides a metric for an agent’s ability to transfer its experience to novel situations and has already helped clarify a [longstanding⁠(opens in a new window)](<https://arxiv.org/pdf/1810.12282.pdf>) [puzzle⁠(opens in a new window)](<https://arxiv.org/pdf/1810.00123.pdf>) in reinforcement learning. CoinRun strikes a desirable balance in complexity: the environment is simpler than traditional platformer games like Sonic the Hedgehog but still poses a worthy generalization challenge for state of the art algorithms.
 
@@ -182,9 +191,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -221,6 +230,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -254,6 +265,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)
