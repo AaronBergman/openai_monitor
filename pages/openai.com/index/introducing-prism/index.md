@@ -26,16 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-From isolated tools to integrated workflows
-
-  * From isolated tools to integrated workflows
-  * What Prism is
-  * Built for collaboration at scale
-  * Expanding access to scientific tools
-  * Why this matters now
-
-
-
 January 27, 2026
 
 [Product](</news/product-releases/>)
@@ -49,6 +39,24 @@ Accelerating science writing and collaboration with AI.
 Loading…
 
 Share
+
+From isolated tools to integrated workflows
+
+  * From isolated tools to integrated workflows
+  * What Prism is
+  * Built for collaboration at scale
+  * Expanding access to scientific tools
+  * Why this matters now
+
+
+
+  * From isolated tools to integrated workflows
+  * What Prism is
+  * Built for collaboration at scale
+  * Expanding access to scientific tools
+  * Why this matters now
+
+
 
 Science shapes nearly every part of daily life—from the medicines we rely on, to the energy that powers our homes, to the systems that keep us safe. But the pace of scientific progress is still constrained by how research is done day to day. While AI has advanced rapidly, much of the everyday work of science still relies on tools that haven’t fundamentally changed in decades.
 
@@ -146,9 +154,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -185,6 +193,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -218,6 +228,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

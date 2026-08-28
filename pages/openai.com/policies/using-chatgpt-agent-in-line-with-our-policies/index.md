@@ -26,6 +26,10 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
+Updated: July 17, 2025
+
+# Using ChatGPT agent in line with our policies
+
 1\. Misleading Activities
 
   * 1\. Misleading Activities
@@ -36,9 +40,13 @@ OpenAI
 
 
 
-Updated: July 17, 2025
+  * 1\. Misleading Activities
+  * 2\. Illegal Activities
+  * 3\. Harmful Activities
+  * 4\. High Stakes Domains
+  * 5\. Circumventing Restrictions and Safeguards
 
-# Using ChatGPT agent in line with our policies
+
 
  _Note: These guidelines also apply to any ongoing use of the standalone Operator product._
 
@@ -93,9 +101,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -132,6 +140,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -165,6 +175,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

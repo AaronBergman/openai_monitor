@@ -94,7 +94,7 @@ Arco Educação’s commitment to leveraging AI and technology for educational q
 
 [Talk with our team](</contact-sales/>)
 
-## Keep reading
+#### Keep reading
 
 ![Ada logo superimposed on an abstract painting with prominent blue and purple brushstrokes.](https://images.ctfassets.net/kftzwdyauwt9/5mzHFZpnhcgSTQQkkKQFD6/e6193143c13e2a8bd3889f8807ab7bad/OAI_Ada_Blog_Card.png?w=3840&q=90&fm=webp)
 

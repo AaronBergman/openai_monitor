@@ -26,14 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-More thinking power for more difficult problems
-
-  * More thinking power for more difficult problems
-  * ChatGPT Pro Grants
-  * What’s next
-
-
-
 December 5, 2024
 
 [Product](</news/product-releases/>)
@@ -47,6 +39,20 @@ Broadening usage of frontier AI.
 Loading…
 
 Share
+
+More thinking power for more difficult problems
+
+  * More thinking power for more difficult problems
+  * ChatGPT Pro Grants
+  * What’s next
+
+
+
+  * More thinking power for more difficult problems
+  * ChatGPT Pro Grants
+  * What’s next
+
+
 
 As AI becomes more advanced, it will solve increasingly complex and critical problems. It also takes significantly more compute to power these capabilities. 
 
@@ -141,9 +147,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -180,6 +186,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -213,6 +221,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

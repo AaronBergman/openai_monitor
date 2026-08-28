@@ -41,15 +41,23 @@ Loading…
 New embedding models with lower pricing
 
   * New embedding models with lower pricing
+    * A new small text embedding model
+    * Native support for shortening embeddings
   * Other new models and lower pricing
+    * Updated GPT-3.5 Turbo model and lower pricing
+    * Updated GPT-4 Turbo preview
+    * Updated moderation model
   * New ways to understand API usage and manage API keys
 
 
 
-Table of contents
-
   * New embedding models with lower pricing
+    * A new small text embedding model
+    * Native support for shortening embeddings
   * Other new models and lower pricing
+    * Updated GPT-3.5 Turbo model and lower pricing
+    * Updated GPT-4 Turbo preview
+    * Updated moderation model
   * New ways to understand API usage and manage API keys
 
 
@@ -192,9 +200,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -231,6 +239,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -264,6 +274,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

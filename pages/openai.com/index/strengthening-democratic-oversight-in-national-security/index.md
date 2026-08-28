@@ -105,6 +105,10 @@ OpenAI
 
 [View all](</news/>)
 
+![DMUA Russia > card image ](https://images.ctfassets.net/kftzwdyauwt9/ciRSLFnJsNyxXYQjdoyqu/ff8ab22ad273ff79a4c9840f0c209fe6/Frame.png?w=3840&q=90&fm=webp)
+
+[Disrupting a new covert influence campaign from RussiaGlobal AffairsAug 25, 2026](</index/disrupting-malicious-uses-of-ai-influence-campaign-russia/>)
+
 ![OpenAI joins PORTS-Pike project, expanding community investment and supporting thousands of Southern Ohio jobs — card image](https://images.ctfassets.net/kftzwdyauwt9/6RUPcXx0eTGghDpM851Qy1/ab11d2d0849ad9544249bf7b77ee46fe/openai-joins-ports-pike-project-cover-v001.png?w=3840&q=90&fm=webp)
 
 [OpenAI joins PORTS-Pike projectGlobal AffairsAug 17, 2026](</index/openai-joins-ports-pike-project/>)
@@ -112,10 +116,6 @@ OpenAI
 ![New policy ideas for the Intelligence Age — Card image](https://images.ctfassets.net/kftzwdyauwt9/AJqxrcFJn4IUKHIkwneFA/979315f3b490abc2e2055be12d97c9bb/new-policy-ideas-for-the-intelligence-age--cover-v001.png?w=3840&q=90&fm=webp)
 
 [New policy ideas for the Intelligence AgeGlobal AffairsAug 17, 2026](</index/new-policy-ideas-for-the-intelligence-age/>)
-
-![OpenAI letter to Governor Abbott — card image](https://images.ctfassets.net/kftzwdyauwt9/58lvLf4ld7rZS9mIIvma9y/be162b8bd2d1ab08c95d666d9a161b04/Frame__18_.png?w=3840&q=90&fm=webp)
-
-[OpenAI’s letter on responsible AI infrastructure in TexasGlobal AffairsAug 10, 2026](</index/responsible-ai-infrastructure-texas/>)
 
 Research
 

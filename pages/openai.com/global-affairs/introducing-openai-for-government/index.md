@@ -38,7 +38,7 @@ Loading…
 
 Share
 
-Today we’re launching OpenAI for Government, a new initiative focused on bringing our most advanced AI tools to public servants across the United States. We're supporting the U.S. government's efforts in adopting best-in-class technology and deploying these tools in service of the public good. Our goal is to unlock AI solutions that enhance the capabilities of government workers, help them cut down on the red tape and paperwork, and let them do more of what they come to work each day to do: serve the American people.
+Today we’re launching OpenAI for Government, a new initiative focused on bringing our most advanced AI tools to public servants across the United States. We’re supporting the U.S. government's efforts in adopting best-in-class technology and deploying these tools in service of the public good. Our goal is to unlock AI solutions that enhance the capabilities of government workers, help them cut down on the red tape and paperwork, and let them do more of what they come to work each day to do: serve the American people.
 
 OpenAI for Government consolidates our existing efforts to provide our technology to the U.S. government—including previously announced customers and partnerships as well as our [_ChatGPT Gov_ ⁠](</global-affairs/introducing-chatgpt-gov/>) product—under one umbrella as we expand this work. Our established [_collaborations with the U.S. National Labs_ ⁠](</index/strengthening-americas-ai-leadership-with-the-us-national-laboratories/>), the Air Force Research Laboratory, NASA, NIH, and the Treasury will all be brought under OpenAI for Government. 
 
@@ -47,7 +47,7 @@ Through OpenAI for Government, we are offering U.S. federal, state, and local go
   * Our most capable models within secure and compliant environments, including through ChatGPT Enterprise and [_ChatGPT Gov_ ⁠](</global-affairs/introducing-chatgpt-gov/>)
   * Custom models for national security, offered on a limited basis
   * Hands-on support
-  * Insight into what's coming next so government customers can plan ahead and anticipate new ways to apply our tools to their most important work
+  * Insight into what’s coming next so government customers can plan ahead and anticipate new ways to apply our tools to their most important work
 
 
 
@@ -69,17 +69,17 @@ OpenAI
 
 [View all](</news/>)
 
-![effingham county 1x1](https://images.ctfassets.net/kftzwdyauwt9/3f1fyaaSZELql3zECUImW3/1733a5ee7f07da894b993dcff75bea66/effingham_county_1x1.png?w=3840&q=90&fm=webp)
+![DMUA Russia > card image ](https://images.ctfassets.net/kftzwdyauwt9/ciRSLFnJsNyxXYQjdoyqu/ff8ab22ad273ff79a4c9840f0c209fe6/Frame.png?w=3840&q=90&fm=webp)
 
-[Building AI infrastructure with the Effingham County communityGlobal AffairsJul 22, 2026](</index/building-ai-infrastructure-with-the-effingham-county-community/>)
+[Disrupting a new covert influence campaign from RussiaGlobal AffairsAug 25, 2026](</index/disrupting-malicious-uses-of-ai-influence-campaign-russia/>)
 
-![Advancing the next era of national science card image](https://images.ctfassets.net/kftzwdyauwt9/1aUcaaPHlPQbaN0EzEUrEc/95d5f6d78ab308305bf4781c07ccc4fd/Advancing_the_next_era_of_national_science_1x1.png?w=3840&q=90&fm=webp)
+![Strengthening Democratic Oversight in National Security — card image](https://images.ctfassets.net/kftzwdyauwt9/1qebg0OnHIh4dqr84zXR3Q/dba2f0e83ba4615a71894fd7fd1656e1/openai-democratic-oversight-page-cover-v002.png?w=3840&q=90&fm=webp)
 
-[Advancing the next era of national scienceGlobal AffairsJul 22, 2026](</index/advancing-the-next-era-of-national-science/>)
+[Strengthening Democratic Oversight in National SecurityGlobal AffairsAug 18, 2026](</index/strengthening-democratic-oversight-in-national-security/>)
 
-![Helping build shared standards for advanced AI - card image](https://images.ctfassets.net/kftzwdyauwt9/5bSU7ItzcBWGtWhApmmJ6X/a818a91ef36b39ed07d62566ec318760/Frame2.png?w=3840&q=90&fm=webp)
+![OpenAI joins PORTS-Pike project, expanding community investment and supporting thousands of Southern Ohio jobs — card image](https://images.ctfassets.net/kftzwdyauwt9/6RUPcXx0eTGghDpM851Qy1/ab11d2d0849ad9544249bf7b77ee46fe/openai-joins-ports-pike-project-cover-v001.png?w=3840&q=90&fm=webp)
 
-[The US is advancing AI safety through state and federal actionGlobal AffairsJul 15, 2026](</index/advancing-ai-safety-through-state-and-federal-action/>)
+[OpenAI joins PORTS-Pike projectGlobal AffairsAug 17, 2026](</index/openai-joins-ports-pike-project/>)
 
 Research
 

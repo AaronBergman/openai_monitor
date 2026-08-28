@@ -52,7 +52,7 @@ In addition, the FT became a customer of ChatGPT Enterprise earlier this year, p
 
 Brad Lightcap, COO of OpenAI, expressed enthusiasm about the evolving relationship with the Financial Times, stating: “Our partnership and ongoing dialogue with the FT is about finding creative and productive ways for AI to empower news organisations and journalists, and enrich the ChatGPT experience with real-time, world-class journalism for millions of people around the world.” 
 
-"We're keen to explore the practical outcomes regarding news sources and AI through this partnership,” said Ridding. “We value the opportunity to be inside the development loop as people discover content in new ways. As with any transformative technology, there is potential for significant advancements and major challenges, but what’s never possible is turning back time. It’s important for us to represent quality journalism as these products take shape – with the appropriate safeguards in place to protect the FT’s content and brand. 
+"We’re keen to explore the practical outcomes regarding news sources and AI through this partnership,” said Ridding. “We value the opportunity to be inside the development loop as people discover content in new ways. As with any transformative technology, there is potential for significant advancements and major challenges, but what’s never possible is turning back time. It’s important for us to represent quality journalism as these products take shape – with the appropriate safeguards in place to protect the FT’s content and brand. 
 
 We have always embraced new technologies and disruption, and we’ll continue to operate with both curiosity and vigilance as we navigate this next wave of change.”
 

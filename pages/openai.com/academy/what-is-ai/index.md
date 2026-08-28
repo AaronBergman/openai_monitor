@@ -26,16 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-What is AI?
-
-  * What is AI?
-  * Understanding how large language models work
-  * How models evolve over time
-  * Reasoning and non-reasoning models
-  * Summary
-
-
-
 April 10, 2026
 
 OpenAI Academy
@@ -47,6 +37,24 @@ Understand the basics of AI, including what it is, how it works, and how it’s 
 Loading…
 
 Share
+
+What is AI?
+
+  * What is AI?
+  * Understanding how large language models work
+  * How models evolve over time
+  * Reasoning and non-reasoning models
+  * Summary
+
+
+
+  * What is AI?
+  * Understanding how large language models work
+  * How models evolve over time
+  * Reasoning and non-reasoning models
+  * Summary
+
+
 
 Welcome! If you’re new to AI, you don’t need a technical background to get started. What helps most is a simple map of the landscape—so you can understand what AI systems can do, how they’re packaged, and how to choose the right tool for your needs.
 
@@ -111,7 +119,7 @@ Here’s the simple hierarchy:
 
 Once you have this picture in mind, you’ll be set up to learn how to get great results with tools like ChatGPT—starting with how to talk to it to get the results you want. 
 
-Learn about [getting started with ChatGPT](</academy/getting-started/>) and [prompt engineering](</academy/prompting/>).
+Learn about [getting started with ChatGPT](</academy/getting-started/>) and prompt engineering.
 
 ## Continue learning with OpenAI Academy
 
@@ -125,15 +133,15 @@ Discover additional guides and resources to help you build practical AI skills.
 
 ![Academy > Applications of AI > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/2mdGRh37pj21SYlMiMj4gK/6c9a30aaf986754187cadaebda0881b4/applications-of-ai.png?w=3840&q=90&fm=webp)
 
-[Applications of AI at OpenAIOpenAI AcademyApr 10, 2026](</academy/applications-of-ai/>)
+[Applications of AI | OpenAIOpenAI AcademyApr 10, 2026](</academy/applications-of-ai/>)
 
 ![Academy > Responsible & safe use > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/pnlSy4KRU4PmRF0wWTCuV/d42ba9b2bcb46dec801b7f510054931a/responsible-use.png?w=3840&q=90&fm=webp)
 
-[Responsible and safe use of AI OpenAI AcademyApr 10, 2026](</academy/responsible-and-safe-use/>)
+[Responsible and safe use of AI | OpenAIOpenAI AcademyApr 10, 2026](</academy/responsible-and-safe-use/>)
 
 ![Academy > Getting started > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/1Xk9723QKj2Vb9dC6RMebS/5e588c112042794e62178a224eaff418/getting-started.png?w=3840&q=90&fm=webp)
 
-[Getting started with ChatGPTOpenAI AcademyApr 10, 2026](</academy/getting-started/>)
+[Getting started with ChatGPT | OpenAIOpenAI AcademyJul 10, 2026](</academy/getting-started/>)
 
 Research
 
@@ -145,9 +153,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -184,6 +192,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -217,6 +227,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

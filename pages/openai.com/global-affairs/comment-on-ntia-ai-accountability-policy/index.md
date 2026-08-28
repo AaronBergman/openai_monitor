@@ -35,44 +35,26 @@ The National Telecommunications and Information Administration (NTIA) request fo
 OpenAI’s Current Approaches
 
   * OpenAI’s Current Approaches
-
   * System Cards
-
   * Qualitative Model Evaluations via Red Teaming
-
   * Quantitative Model Evaluations
-
   * Usage Policies
-
   * Open Challenges in AI Accountability
-
   * Assessing Potentially Dangerous Capabilities
-
   * Open Questions About Independent Assessments
-
   * Registration and Licensing for Highly Capable Foundation Models
-
 
 
 
   * OpenAI’s Current Approaches
-
   * System Cards
-
   * Qualitative Model Evaluations via Red Teaming
-
   * Quantitative Model Evaluations
-
   * Usage Policies
-
   * Open Challenges in AI Accountability
-
   * Assessing Potentially Dangerous Capabilities
-
   * Open Questions About Independent Assessments
-
   * Registration and Licensing for Highly Capable Foundation Models
-
 
 
 

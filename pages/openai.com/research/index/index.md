@@ -46,6 +46,12 @@ Switch cards to show Media
 
 Switch cards to hide Media
 
+Security
+
+Aug 26, 2026
+
+[The Hugging Face incident and the road aheadOpenAI shares findings from the Hugging Face security incident and the steps we’re taking to strengthen AI model security, monitoring, and alignment.](</index/hugging-face-incident-and-the-road-ahead/>)
+
 Company
 
 Aug 18, 2026
@@ -93,12 +99,6 @@ Safety
 Jul 9, 2026
 
 [GPT‑5.6 System CardGPT-5.6 is a new family of three models: Sol, our new flagship model; Terra, a capable lower-cost option; and Luna, our fastest and most cost-efficient model. The safeguards we have built for this launch—our most robust yet—are built to deliver these models safely and at scale, around the world.(opens in a new window)](<https://deploymentsafety.openai.com/gpt-5-6>)
-
-Research
-
-Jul 8, 2026
-
-[Separating signal from noise in coding evaluationsA new analysis from OpenAI reveals issues in SWE-Bench Pro, a popular coding benchmark, raising concerns about reliability and accuracy in evaluating AI models.](</index/separating-signal-from-noise-coding-evaluations/>)
 
 Load more
 

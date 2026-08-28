@@ -26,15 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Programmatic control over workspace data to support compliance and data security
-
-  * Programmatic control over workspace data to support compliance and data security
-  * Automated user management
-  * Expanded GPT controls
-  * Supporting secure AI deployments at scale
-
-
-
 July 18, 2024
 
 [Product](</news/product-releases/>)
@@ -46,6 +37,22 @@ July 18, 2024
 Loading…
 
 Share
+
+Programmatic control over workspace data to support compliance and data security
+
+  * Programmatic control over workspace data to support compliance and data security
+  * Automated user management
+  * Expanded GPT controls
+  * Supporting secure AI deployments at scale
+
+
+
+  * Programmatic control over workspace data to support compliance and data security
+  * Automated user management
+  * Expanded GPT controls
+  * Supporting secure AI deployments at scale
+
+
 
  _**Update on December 11, 2025:**_
 
@@ -134,17 +141,17 @@ If you’re interested in [_ChatGPT Enterprise_ ⁠(opens in a new window)](<htt
 
 These tools are also available in [_ChatGPT Edu_ ⁠(opens in a new window)](<https://chatgpt.com/business/education>), an accessible option for universities to bring AI to campus at scale. 
 
-## Related articles
+### Related articles
 
-![Los Alamos](https://images.ctfassets.net/kftzwdyauwt9/3WF6oOv7cc50fCURi4NIJW/83606c8143b3a8b5b82508f290a4ef79/Los_Alamos.jpg?w=3840&q=90&fm=webp)
+![The image shows a soft, abstract blur of a white flower against a blue background. The motion blur creates a smooth, dreamy effect, with hints of green suggesting leaves or stems in the lower right corner.](https://images.ctfassets.net/kftzwdyauwt9/3WF6oOv7cc50fCURi4NIJW/83606c8143b3a8b5b82508f290a4ef79/Los_Alamos.jpg?w=3840&q=90&fm=webp)
 
 [OpenAI and Los Alamos National Laboratory announce research partnershipMilestoneJul 10, 2024](</index/openai-and-los-alamos-national-laboratory-work-together/>)
 
-![apple-abstract](https://images.ctfassets.net/kftzwdyauwt9/2CPrXUZS0yLGo894hU24zv/b9e1759c6f213a8888e17852266c515b/apple-art-2a-3x4.jpg?w=3840&q=90&fm=webp)
+![An abstract artwork featuring a soft blend of pastel colors in shades of purple, blue, and yellow, with a central black Apple logo prominently displayed. The background has a smooth, flowing texture that creates a calming and serene visual effect.](https://images.ctfassets.net/kftzwdyauwt9/2CPrXUZS0yLGo894hU24zv/b9e1759c6f213a8888e17852266c515b/apple-art-2a-3x4.jpg?w=3840&q=90&fm=webp)
 
 [OpenAI and Apple announce partnershipCompanyJun 10, 2024](</index/openai-and-apple-announce-partnership/>)
 
-![ChatGPT Charts Blog Hero](https://images.ctfassets.net/kftzwdyauwt9/3vjzQxExAEnYGvBSiwT1zK/d76028c004dbc7e9830e541cced6224f/ChatGPT_Charts_Blog_Hero.png?w=3840&q=90&fm=webp)
+![An abstract painting of three red and pink rectangular blocks of different heights, set against a green and yellow background, creating a contrast between the geometric shapes and the landscape-like colors.](https://images.ctfassets.net/kftzwdyauwt9/3vjzQxExAEnYGvBSiwT1zK/d76028c004dbc7e9830e541cced6224f/ChatGPT_Charts_Blog_Hero.png?w=3840&q=90&fm=webp)
 
 [Improvements to data analysis in ChatGPTProductMay 16, 2024](</index/improvements-to-data-analysis-in-chatgpt/>)
 
@@ -158,9 +165,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -197,6 +204,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -230,6 +239,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

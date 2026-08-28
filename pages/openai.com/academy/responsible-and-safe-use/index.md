@@ -70,15 +70,15 @@ Discover additional guides and resources to help you build practical AI skills.
 
 ![Academy > Applications of AI > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/2mdGRh37pj21SYlMiMj4gK/6c9a30aaf986754187cadaebda0881b4/applications-of-ai.png?w=3840&q=90&fm=webp)
 
-[Applications of AI at OpenAIOpenAI AcademyApr 10, 2026](</academy/applications-of-ai/>)
+[Applications of AI | OpenAIOpenAI AcademyApr 10, 2026](</academy/applications-of-ai/>)
 
 ![Academy > What is AI > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/dUFDMknl8PQqlcD44y6qW/73f43db843b555540d809f9ac310be97/what-is-ai.png?w=3840&q=90&fm=webp)
 
-[AI fundamentalsOpenAI AcademyApr 10, 2026](</academy/what-is-ai/>)
+[What is AI? | OpenAIOpenAI AcademyApr 10, 2026](</academy/what-is-ai/>)
 
 ![Academy > Getting started > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/1Xk9723QKj2Vb9dC6RMebS/5e588c112042794e62178a224eaff418/getting-started.png?w=3840&q=90&fm=webp)
 
-[Getting started with ChatGPTOpenAI AcademyApr 10, 2026](</academy/getting-started/>)
+[Getting started with ChatGPT | OpenAIOpenAI AcademyJul 10, 2026](</academy/getting-started/>)
 
 Research
 
@@ -90,9 +90,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -129,6 +129,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -162,6 +164,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

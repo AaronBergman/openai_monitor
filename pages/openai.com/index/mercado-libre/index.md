@@ -115,7 +115,7 @@ They also plan to expand Verdi’s capabilities further, integrating more advanc
 
 [Talk with our team](</contact-sales/>)
 
-## Keep reading
+### Keep reading
 
 ![The Genmab logo on abstract artwork featuring swirling pastel shades of green, blue, and purple, resembling a DNA helix.](https://images.ctfassets.net/kftzwdyauwt9/5yh8gTLhVFcUsY9Nj0O02v/ab091a8b07f4c35f3ff19a58e4e18783/oai_Genmab_1_1.png?w=3840&q=90&fm=webp)
 

@@ -140,7 +140,7 @@ To balance safety and utility, Codex was trained to identify and precisely refus
 
 ### Secure execution
 
-The Codex agent operates entirely within a secure, isolated container in the cloud. During task execution, internet access is disabled, limiting the agent’s interaction solely to the code explicitly provided via GitHub repositories and pre-installed dependencies configured by the user via a setup script. The agent cannot access external websites, APIs, or other services.  
+The Codex agent operates entirely within a secure, isolated container in the cloud. During task execution, internet access is disabled, limiting the agent’s interaction solely to the code explicitly provided via GitHub repositories and pre-installed dependencies configured by the user via a setup script. The agent cannot access external websites, APIs, or other services. _Note:__This describes the launch configuration. For current setup-phase and agent-phase networking options, see_[ _Agent internet access_ ⁠(opens in a new window)](<https://learn.chatgpt.com/docs/cloud/internet-access>)_._  
 
 
 ## Early use cases

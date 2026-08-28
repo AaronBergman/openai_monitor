@@ -252,7 +252,7 @@ SB OAI Japan GK
 
 SIA
 
-![Sia logo](https://images.ctfassets.net/kftzwdyauwt9/17YTMrpfaiIKHQWppl4bJr/0f3f22de43c1aa61e4072d909977475f/sia-partners-square-light.svg?w=3840&q=90)
+![Sia logo](https://images.ctfassets.net/kftzwdyauwt9/7EbNrlh85ii4tjQRVEOJrZ/17aef4a8b572f343d38f0156c47424c6/eatDzSVC0hvDI2WMEkKBc?w=3840&q=90&fm=webp)
 
 SK Inc. AX
 
@@ -520,7 +520,7 @@ SB OAI Japan GK
 
 SIA
 
-![Sia logo](https://images.ctfassets.net/kftzwdyauwt9/17YTMrpfaiIKHQWppl4bJr/0f3f22de43c1aa61e4072d909977475f/sia-partners-square-light.svg?w=3840&q=90)
+![Sia logo](https://images.ctfassets.net/kftzwdyauwt9/7EbNrlh85ii4tjQRVEOJrZ/17aef4a8b572f343d38f0156c47424c6/eatDzSVC0hvDI2WMEkKBc?w=3840&q=90&fm=webp)
 
 SK Inc. AX
 

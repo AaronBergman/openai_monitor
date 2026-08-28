@@ -41,28 +41,18 @@ Share
 What is ChatGPT?
 
   * What is ChatGPT?
-
   * Start your first conversation
-
   * Finding good use cases for ChatGPT
-
   * Use voice in ChatGPT
-
   * Take the course
-
 
 
 
   * What is ChatGPT?
-
   * Start your first conversation
-
   * Finding good use cases for ChatGPT
-
   * Use voice in ChatGPT
-
   * Take the course
-
 
 
 
@@ -126,17 +116,17 @@ Discover additional guides and resources to help you build practical AI skills.
 
 [View all](</news/>)
 
-![Academy > Prompting > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/6KuWyesIgCbrJUzXckTYSx/20183733ba66b4b535fe978fc7ec985b/your-first-chat.png?w=3840&q=90&fm=webp)
+![How data science teams use Codex > card image](https://images.ctfassets.net/kftzwdyauwt9/xyevYnp4Ptaa1eMgBDNjS/75fea80018f321b89809d893f1a5786d/data_science_teams.png?w=3840&q=90&fm=webp)
 
-[Prompting fundamentals | OpenAIOpenAI AcademyApr 10, 2026](</academy/prompting/>)
+[How data science teams use ChatGPT Work | OpenAIOpenAI AcademyJul 14, 2026](</academy/chatgpt-work/how-data-science-teams-use-codex/>)
 
-![Academy > Personalizing ChatGPT > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/2s9rOdoSHProR3I6Ai5P5/8ca619f82211ade2d76316f04aa3fbcc/personalizing-chatgpt.png?w=3840&q=90&fm=webp)
+![How sales teams use Codex > card image](https://images.ctfassets.net/kftzwdyauwt9/1O4te2wMh6O77eDV6kapG3/02845b054a09297b9fada40c4cc9a71f/sales_teams.png?w=3840&q=90&fm=webp)
 
-[Personalizing ChatGPT | OpenAIOpenAI AcademyApr 10, 2026](</academy/personalization/>)
+[How sales teams use ChatGPT Work | OpenAIOpenAI AcademyJul 14, 2026](</academy/chatgpt-work/how-sales-teams-use-codex/>)
 
-![Academy > Using files > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/7FdLCJL2BCjS8ef2BJ8rG0/8307b0a6be94e0333b43dbed5b93d187/using-files.png?w=3840&q=90&fm=webp)
+![sites](https://images.ctfassets.net/kftzwdyauwt9/6fIs1au2N2RynrKQ3eXg0q/15d0fd6fc8d2b24837bed23fc76fc8c4/sites.png?w=3840&q=90&fm=webp)
 
-[Working with files in ChatGPT | OpenAIOpenAI AcademyApr 10, 2026](</academy/working-with-files/>)
+[ChatGPT SitesOpenAI AcademyJun 2, 2026](</academy/chatgpt-sites/>)
 
 Research
 
@@ -222,6 +212,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

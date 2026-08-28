@@ -26,14 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Why brainstorm with ChatGPT?
-
-  * Why brainstorm with ChatGPT?
-  * How to get started
-  * Example prompts
-
-
-
 April 10, 2026
 
 OpenAI Academy
@@ -45,6 +37,26 @@ Generate ideas, organize thinking, and turn direction into actionable plans.
 Loading…
 
 Share
+
+Why brainstorm with ChatGPT?
+
+  * Why brainstorm with ChatGPT?
+  * How to get started
+    * 1) Start with the decision 
+    * 2) Add constraints
+    * 3) Use a “wide → narrow” flow
+  * Example prompts
+
+
+
+  * Why brainstorm with ChatGPT?
+  * How to get started
+    * 1) Start with the decision 
+    * 2) Add constraints
+    * 3) Use a “wide → narrow” flow
+  * Example prompts
+
+
 
 ChatGPT can act as a structured thought partner. It helps you generate options quickly, organize ideas into clearer themes, and turn a rough direction into a plan you can execute. It’s especially useful when you’re starting from a blank page, working through many competing ideas, or creating a “first pass” before you bring others in.
 
@@ -108,7 +120,7 @@ Brainstorm ideas for a team offsite session focused on planning and alignment.| 
 Generate possible campaign themes for an upcoming product launch.| The campaign should appeal to busy business users and connect clearly to real work problems.| Several options with different directions or tones so the team can compare approaches.  
 Suggest ways to improve an internal process that currently feels slow or repetitive.| Review the attached current process, involves several handoffs.| A prioritized set of ideas, highlighting the strongest options to test first.  
   
-Refer back to [prompt engineering basics](</academy/prompting/>) for how to craft high-quality prompts.
+Refer back to prompt engineering basics for how to craft high-quality prompts.
 
 Think of ChatGPT as a fast draft partner. It’s useful for generating options and structuring your thinking, but works best when you bring context and apply a quick reality check before acting.
 
@@ -148,15 +160,15 @@ Discover additional guides and resources to help you build practical AI skills.
 
 ![Academy > Data analysis > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/6S4rnSSNtBmG5MDBcNa4rZ/9ada1bbe8e037b15dc94f274ab8039fc/data-analysis.png?w=3840&q=90&fm=webp)
 
-[Analyzing data with ChatGPTOpenAI AcademyApr 10, 2026](</academy/data-analysis/>)
+[Analyzing data with ChatGPT | OpenAIOpenAI AcademyApr 10, 2026](</academy/data-analysis/>)
 
 ![Academy > Research > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/24Zhocf65q1eBCqPljGtiH/b12cc424af8d1eacd56ee339e8214822/research.png?w=3840&q=90&fm=webp)
 
-[ChatGPT for researchOpenAI AcademyApr 10, 2026](</academy/research/>)
+[ChatGPT for research | OpenAIOpenAI AcademyApr 10, 2026](</academy/research/>)
 
 ![Academy > Marketing > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/14MipR48ayyvUsaXwsG5Yr/c9a99c855ff1663fdd0c9d07b40cb8f2/marketing.png?w=3840&q=90&fm=webp)
 
-[ChatGPT for marketing teamsOpenAI AcademyApr 10, 2026](</academy/marketing/>)
+[ChatGPT for marketing teams | OpenAIOpenAI AcademyApr 10, 2026](</academy/marketing/>)
 
 Research
 
@@ -168,9 +180,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -207,6 +219,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -240,6 +254,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

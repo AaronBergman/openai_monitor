@@ -52,13 +52,13 @@ We realized building AGI will require far more resources than we’d initially i
 
 
 
-The mission of OpenAI is to ensure AGI benefits all of humanity, which means both building safe and beneficial AGI and helping create broadly distributed benefits. We are now sharing what we've learned about achieving our mission, and some facts about our relationship with Elon. We intend to move to dismiss all of Elon’s claims.
+The mission of OpenAI is to ensure AGI benefits all of humanity, which means both building safe and beneficial AGI and helping create broadly distributed benefits. We are now sharing what we’ve learned about achieving our mission, and some facts about our relationship with Elon. We intend to move to dismiss all of Elon’s claims.
 
 ## We realized building AGI will require far more resources than we’d initially imagined
 
  _Elon said we should announce an initial $1B funding commitment to OpenAI. In total, the non-profit has raised less than $45M from Elon and more than $90M from other donors._
 
-When starting OpenAI in late 2015, Greg and Sam had initially planned to raise $100M. Elon said in an email: “We need to go with a much bigger number than $100M to avoid sounding hopeless… I think we should say that we are starting with a $1B funding commitment… I will cover whatever anyone else doesn't provide.” [1]⁠
+When starting OpenAI in late 2015, Greg and Sam had initially planned to raise $100M. Elon said in an email: “We need to go with a much bigger number than $100M to avoid sounding hopeless… I think we should say that we are starting with a $1B funding commitment… I will cover whatever anyone else doesn’t provide.” [1]⁠
 
 We spent a lot of time trying to envision a plausible path to AGI. In early 2017, we came to the realization that building AGI will require vast quantities of compute. We began calculating how much compute an AGI might plausibly require. We all understood we were going to need a lot more capital to succeed at our mission—billions of dollars per year, which was far more than any of us, especially Elon, thought we’d be able to raise as the non-profit.
 
@@ -78,9 +78,9 @@ Elon soon chose to leave OpenAI, saying that our probability of success was 0, a
 
 We provide broad access to today's most powerful AI, including a free version that hundreds of millions of people use every day. For example, Albania is using OpenAI’s tools to accelerate its EU accession by as much as 5.5 years; Digital Green is helping boost farmer income in Kenya and India by dropping the cost of agricultural extension services 100x by building on OpenAI; Lifespan, the largest healthcare provider in Rhode Island, uses GPT‑4 to simplify its surgical consent forms from a college reading level to a 6th grade one; Iceland is using GPT‑4 to preserve the Icelandic language.
 
-Elon understood the mission did not imply open-sourcing AGI. As Ilya told Elon: “As we get closer to building AI, it will make sense to start being less open. The Open in openAI means that everyone should benefit from the fruits of AI after its built, but it's totally OK to not share the science...”, to which Elon replied: “Yup”. [4]⁠
+Elon understood the mission did not imply open-sourcing AGI. As Ilya told Elon: “As we get closer to building AI, it will make sense to start being less open. The Open in openAI means that everyone should benefit from the fruits of AI after its built, but it’s totally OK to not share the science...”, to which Elon replied: “Yup”. [4]⁠
 
-We're sad that it's come to this with someone whom we’ve deeply admired—someone who inspired us to aim higher, then told us we would fail, started a competitor, and then sued us when we started making meaningful progress towards OpenAI’s mission without him.
+We’re sad that it’s come to this with someone whom we’ve deeply admired—someone who inspired us to aim higher, then told us we would fail, started a competitor, and then sued us when we started making meaningful progress towards OpenAI’s mission without him.
 
 We are focused on advancing our mission and have a long way to go. As we continue to make our tools better and better, we are excited to deploy these systems so they empower every individual.
 

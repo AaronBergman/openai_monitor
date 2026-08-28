@@ -41,28 +41,18 @@ Share
 Why managers use ChatGPT
 
   * Why managers use ChatGPT
-
   * Use cases for managers 
-
   * How managers get the most value
-
   * Key features for managers
-
   * Measuring impact
-
 
 
 
   * Why managers use ChatGPT
-
   * Use cases for managers 
-
   * How managers get the most value
-
   * Key features for managers
-
   * Measuring impact
-
 
 
 
@@ -328,6 +318,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

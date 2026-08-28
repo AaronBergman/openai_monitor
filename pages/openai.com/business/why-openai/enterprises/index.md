@@ -152,7 +152,7 @@ Explore product announcements, customer stories, and deployment guidance for lea
 
 [Retail](</solutions/industries/retail/>)
 
-![A woman smiles while typing on a laptop as she speaks with a man seated across from her at a desk, with papers spread out in a busy office environment.](https://images.ctfassets.net/kftzwdyauwt9/5hUbKlAi71npWnxgYgWya1/ec53c89c3491bed93290ddff1ae7f67d/image__9_-1x1.png?w=3840&q=90&fm=webp)
+![Three colleagues collaborate around a laptop and documents in an office with a world map in the background.](https://images.ctfassets.net/kftzwdyauwt9/58Z3FVzE5RBuiCdDvAu5AL/6bbf05f04d5da1b3f9a84347e532b745/Generated_image_1__2_.png?w=3840&q=90&fm=webp)
 
 [Government](</solutions/industries/government/>)
 

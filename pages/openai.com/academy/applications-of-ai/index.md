@@ -26,14 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-ChatGPT
-
-  * ChatGPT
-  * Codex
-  * OpenAI API (Developer Platform)
-
-
-
 April 10, 2026
 
 OpenAI Academy
@@ -45,6 +37,20 @@ Explore how OpenAI products and APIs bring AI into real-world use.
 Loading…
 
 Share
+
+ChatGPT
+
+  * ChatGPT
+  * Codex
+  * OpenAI API (Developer Platform)
+
+
+
+  * ChatGPT
+  * Codex
+  * OpenAI API (Developer Platform)
+
+
 
 OpenAI was founded with a long-term goal: to ensure advanced AI benefits humanity. Early work focused on research and experimentation, followed by large-scale model development. Over time, OpenAI began releasing models through both consumer-facing products and developer platforms, allowing individuals, teams, and organizations to apply AI to their work.
 
@@ -90,15 +96,15 @@ Discover additional guides and resources to help you build practical AI skills.
 
 ![Academy > Responsible & safe use > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/pnlSy4KRU4PmRF0wWTCuV/d42ba9b2bcb46dec801b7f510054931a/responsible-use.png?w=3840&q=90&fm=webp)
 
-[Responsible and safe use of AI OpenAI AcademyApr 10, 2026](</academy/responsible-and-safe-use/>)
+[Responsible and safe use of AI | OpenAIOpenAI AcademyApr 10, 2026](</academy/responsible-and-safe-use/>)
 
 ![Academy > What is AI > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/dUFDMknl8PQqlcD44y6qW/73f43db843b555540d809f9ac310be97/what-is-ai.png?w=3840&q=90&fm=webp)
 
-[AI fundamentalsOpenAI AcademyApr 10, 2026](</academy/what-is-ai/>)
+[What is AI? | OpenAIOpenAI AcademyApr 10, 2026](</academy/what-is-ai/>)
 
 ![Academy > Getting started > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/1Xk9723QKj2Vb9dC6RMebS/5e588c112042794e62178a224eaff418/getting-started.png?w=3840&q=90&fm=webp)
 
-[Getting started with ChatGPTOpenAI AcademyApr 10, 2026](</academy/getting-started/>)
+[Getting started with ChatGPT | OpenAIOpenAI AcademyJul 10, 2026](</academy/getting-started/>)
 
 Research
 
@@ -110,9 +116,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -149,6 +155,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -182,6 +190,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

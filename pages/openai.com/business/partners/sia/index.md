@@ -28,7 +28,7 @@ OpenAI
 
 [Back to OpenAI Partner Locator](</business/partners/locator/>)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/17YTMrpfaiIKHQWppl4bJr/0f3f22de43c1aa61e4072d909977475f/sia-partners-square-light.svg?w=3840&q=90)
+![](https://images.ctfassets.net/kftzwdyauwt9/7EbNrlh85ii4tjQRVEOJrZ/17aef4a8b572f343d38f0156c47424c6/eatDzSVC0hvDI2WMEkKBc?w=3840&q=90&fm=webp)
 
 # Sia
 
@@ -38,7 +38,7 @@ OpenAI
 
 Sia is a, AI-first, global management consulting group. Founded in 1999, we were born digital. Today our strategy and management capabilities are augmented by data science, enhanced by creativity and driven by responsibility. We’re optimists for change and we help clients initiate, navigate and benefit from transformation. We believe optimism is a force multiplier, helping clients to mitigate downside and maximize opportunity. With expertise across a broad range of sectors and services, our 3,000 consultants serve clients worldwide from 48 locations in 19 countries. Our expertise delivers results. Our optimism transforms outcomes.
 
-![Advanced Partner](/images/partner-tier-badges/OAI_PartnerNetwork_AdvancedPartner.svg?dpl=dpl_7297xwZ764mVMEJDxDT2nr35Qnfp)
+![Advanced Partner](/images/partner-tier-badges/OAI_PartnerNetwork_AdvancedPartner.svg?dpl=dpl_BdRxAz7pUvB7ugzpY5eAx7A6JZLM)
 
 Countries served
     Global

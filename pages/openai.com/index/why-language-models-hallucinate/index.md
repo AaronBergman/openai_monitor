@@ -26,15 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-What are hallucinations?
-
-  * What are hallucinations?
-  * Teaching to the test
-  * How hallucinations originate from next-word prediction
-  * Conclusions
-
-
-
 September 5, 2025
 
 [Research](</news/research/>)[Publication](</research/index/publication/>)
@@ -48,6 +39,24 @@ September 5, 2025
 Loading…
 
 Share
+
+What are hallucinations?
+
+  * What are hallucinations?
+  * Teaching to the test
+    * A better way to grade evaluations
+  * How hallucinations originate from next-word prediction
+  * Conclusions
+
+
+
+  * What are hallucinations?
+  * Teaching to the test
+    * A better way to grade evaluations
+  * How hallucinations originate from next-word prediction
+  * Conclusions
+
+
 
 At OpenAI, we’re working hard to make AI systems more useful and reliable. Even as language models become more capable, one challenge remains stubbornly hard to fully solve: hallucinations. By this we mean instances where a model confidently generates an answer that isn’t true. Our [new research paper⁠(opens in a new window)](<https://arxiv.org/abs/2509.04664>) argues that language models hallucinate because standard training and evaluation procedures reward guessing over acknowledging uncertainty.
 
@@ -85,7 +94,7 @@ When averaging results across dozens of evaluations, most benchmarks pluck out t
 
 Nonetheless, accuracy-only scoreboards dominate leaderboards and model cards, motivating developers to build models that guess rather than hold back. That is one reason why, even as models get more advanced, they can still hallucinate, confidently giving wrong answers instead of acknowledging uncertainty.
 
-#### A better way to grade evaluations
+### A better way to grade evaluations
 
 There is a straightforward fix. Penalize confident errors more than you penalize uncertainty, and give partial credit for appropriate expressions of uncertainty. This idea is not new. Some standardized tests have long used versions of negative marking for wrong answers or partial credit for leaving questions blank to discourage blind guessing. Several research groups have also explored evaluations that account for uncertainty and calibration.
 
@@ -135,19 +144,15 @@ Adam Kalai, Santosh Vempala (Georgia Tech), Ofir Nachum, Eddie Zhang, David Robi
 
 [View all](</news/>)
 
-![Art Card 1080x1080 \(3\)](https://images.ctfassets.net/kftzwdyauwt9/3JLNH7ejJFnxLmX2LpzoKD/19f9e3c4d36cc9d677ba88e842ad2db2/Art_Card_1080x1080__4_.png?w=3840&q=90&fm=webp)
+[The Hugging Face incident and the road aheadSecurityAug 26, 2026](</index/hugging-face-incident-and-the-road-ahead/>)
 
-Better memory for a more helpful ChatGPT
+![Pacing model development in an era of cyber-critical capabilities — Card image](https://images.ctfassets.net/kftzwdyauwt9/3tUOfo4E1xZComoOiRjHJm/51c532f25dd4062f92bff0e41ea00c3c/index-pacing-model-development-cyber-capabilities-dark-cover.png?w=3840&q=90&fm=webp)
 
-[Dreaming: Better memory for a more helpful ChatGPTResearchJun 4, 2026](</index/chatgpt-memory-dreaming/>)
+[Pacing model development in an era of cyber-critical capabilitiesCompanyAug 18, 2026](</index/pacing-model-development-cyber-capabilities/>)
 
-![Rosalind5.5 ArtCard](https://images.ctfassets.net/kftzwdyauwt9/6USIQM1B7TggUvvTFxxwoi/0176ac6633c8bdc24641d25d1d2db824/GPT-Rosalind_ArtCard.png?w=3840&q=90&fm=webp)
+![math-breakthroughs art-card 1x1](https://images.ctfassets.net/kftzwdyauwt9/2zkd5RIOug4FcEj62mdSF4/3ea9e19c0456289c69f0d839cc929cb2/math-breakthroughs_art-card_1x1.png?w=3840&q=90&fm=webp)
 
-[Introducing new capabilities to GPT-RosalindProductJun 3, 2026](</index/introducing-new-capabilities-to-gpt-rosalind/>)
-
-![1x1](https://images.ctfassets.net/kftzwdyauwt9/6ui4uYfTTbR4xbiFRcqEfo/81d973f14bea720820f692271f6c6834/square.png?w=3840&q=90&fm=webp)
-
-[Strengthening societal resilience with Rosalind BiodefenseProductMay 29, 2026](</index/strengthening-societal-resilience-with-rosalind-biodefense/>)
+[Ten advances in mathematics and theoretical computer sciencePublicationAug 1, 2026](</index/ten-advances-in-mathematics/>)
 
 Research
 
@@ -159,9 +164,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -198,6 +203,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -231,6 +238,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

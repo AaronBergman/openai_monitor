@@ -130,7 +130,7 @@ By integrating OpenAI's advanced models, Mercari aims to create a cohesive AI ec
 
 [Talk with our team](</contact-sales/>)
 
-## Keep reading
+### Keep reading
 
 [View all](</stories/>)
 

@@ -26,15 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-When the API became the bottleneck
-
-  * When the API became the bottleneck
-  * Building a persistent connection
-  * Keeping the API familiar while making the stack incremental
-  * Setting a new bar for speed
-
-
-
 April 22, 2026
 
 [Engineering](</news/engineering/>)
@@ -46,6 +37,22 @@ By Brian Yu and Ashwin Nathan, Members of the Technical Staff
 Loading…
 
 Share
+
+When the API became the bottleneck
+
+  * When the API became the bottleneck
+  * Building a persistent connection
+  * Keeping the API familiar while making the stack incremental
+  * Setting a new bar for speed
+
+
+
+  * When the API became the bottleneck
+  * Building a persistent connection
+  * Keeping the API familiar while making the stack incremental
+  * Setting a new bar for speed
+
+
 
 When you ask Codex to fix a bug, it scans through your codebase for relevant files, reads them to build context, makes edits, and runs tests to verify the fix worked. Under the hood, that means dozens of back-and-forth Responses API requests: determine the model’s next action, run a tool on your computer, send the tool output back to the API, and repeat.
 
@@ -148,17 +155,17 @@ Special thanks to the Responses API and Codex teams, who worked on creating WebS
 
 [View all](</news/>)
 
-![Tax Agent > Art Card](https://images.ctfassets.net/kftzwdyauwt9/6ojJ6B55QUlmNdaLifgMkQ/22e429ec7b3fdd119a2499358af899b7/Art_Card.png?w=3840&q=90&fm=webp)
+![Jalapeño inference — Art Card](https://images.ctfassets.net/kftzwdyauwt9/26K8mLbrpbaDvoFY0NrE04/8e4ad0b3f28042c22d6d5130bd4f4019/jalapeno-art-card.png?w=3840&q=90&fm=webp)
 
-[Building self-improving tax agents with CodexEngineeringMay 27, 2026](</index/building-self-improving-tax-agents-with-codex/>)
+[Jalapeño’s first results show industry-leading speed and efficiency in AI inferenceEngineeringAug 25, 2026](</index/jalapeno-first-results/>)
 
-![codex windows > art card](https://images.ctfassets.net/kftzwdyauwt9/6ZvTl8ZL23BOhoI6jz0EmR/49d6038b9f92773d4f866f4bfacabdbf/Art_Card__5_.png?w=3840&q=90&fm=webp)
+![Continuous voice interaction with GPT Live - art card](https://images.ctfassets.net/kftzwdyauwt9/3PyfDzfjOozLbJnaZIkRLD/6aef080bb4e7d6a6b8a6dc23436848db/gpt-live-art-card.png?w=3840&q=90&fm=webp)
 
-[Building a safe, effective sandbox to enable Codex on WindowsEngineeringMay 13, 2026](</index/building-codex-windows-sandbox/>)
+[Continuous voice interaction with GPT LiveEngineeringAug 3, 2026](</index/continuous-voice-interaction-with-gpt-live/>)
 
-![MRC 1_1](https://images.ctfassets.net/kftzwdyauwt9/IRqiqOUeNlFne8NPTbELM/9ab024f4581e7065eaf42aa18d14b724/Art_Card.png?w=3840&q=90&fm=webp)
+![GPT-5.6 efficiency article — art card](https://images.ctfassets.net/kftzwdyauwt9/5ExPWhZDZXbZgTHE7aeE5d/0526071f749a3b44adff3c45a12322b7/How_GPT-5.6_fuses_frontier_intelligence_with_frontier_efficiency_ART_CARD__1_.png?w=3840&q=90&fm=webp)
 
-[Supercomputer networking to accelerate large scale AI trainingEngineeringMay 5, 2026](</index/mrc-supercomputer-networking/>)
+[How GPT-5.6 fuses frontier intelligence with frontier efficiencyEngineeringJul 29, 2026](</index/gpt-5-6-frontier-intelligence-efficiency/>)
 
 Research
 
@@ -170,9 +177,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -209,6 +216,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -242,6 +251,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

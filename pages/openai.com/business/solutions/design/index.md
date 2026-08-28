@@ -135,19 +135,19 @@ See how design teams are making OpenAI part of how they explore ideas, build sta
 
 ![EF Ep12 1.1](https://images.ctfassets.net/kftzwdyauwt9/3gmLPttPo2B1LJFaTxptYk/3381c40607833d343beb5207449a5fef/EF_Ep12_1.1.png?w=3840&q=90&fm=webp)
 
-## [How Figma integrates AI to transform design and empower creativesFigma](</index/figma-david-kossnick/>)
+## [How Figma integrates AI to transform design and empower creativesFigmaRead story](</index/figma-david-kossnick/>)
 
 ![A white Canva logo on a vibrant purple background.](https://images.ctfassets.net/kftzwdyauwt9/7lqBnA8Gaz7fvmABCmlQ4x/6ce679925b23e96d410c8b5509480806/Canva.png?w=3840&q=90&fm=webp)
 
-## [Canva's AI-powered Magic Studio Used 5 Billion Times and CountingCanva](</index/canva/>)
+## [Canva's AI-powered Magic Studio Used 5 Billion Times and CountingCanvaRead story](</index/canva/>)
 
 ![Invideo logo in white centered on a dark square background with colorful blue, pink, and red light streaks.](https://images.ctfassets.net/kftzwdyauwt9/3ENpuoD5KB8oejWnO6md1b/52f63a73ffd0928cc87b5e072205221c/oai_invideo_1x1.png?w=3840&q=90&fm=webp)
 
-## [Invideo AI enables anyone with an idea to produce high-quality videosInvideo AI](</index/invideo-ai/>)
+## [Invideo AI enables anyone with an idea to produce high-quality videosInvideo AIRead story](</index/invideo-ai/>)
 
 ![White Wix logo on a background of blue and green paint swathes](https://images.ctfassets.net/kftzwdyauwt9/6E3QyNLzuWwK3EGBHPw7nQ/fbd0c5a34cc4f4ba096028adbdda8934/oai_Wix_1x1.png?w=3840&q=90&fm=webp)
 
-## [Creating websites in minutes with AI Website BuilderWix](</index/wix/>)
+## [Creating websites in minutes with AI Website BuilderWixRead story](</index/wix/>)
 
 ## Design resources
 
@@ -155,7 +155,7 @@ Explore additional resources for getting started with OpenAI
 
 ![Academy > Codex for work landing page > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/1FJET38tquoT1DpckYCUVK/1174d7a4f055af688408aa3bae55bab9/codex-for-work-1_1.png?w=3840&q=90&fm=webp)
 
-[AcademyBuild AI skills with hands-on lessons and learning paths from OpenAI.](</academy/codex-for-work/>)
+[AcademyBuild AI skills with hands-on lessons and learning paths from OpenAI.](</academy/chatgpt-work/>)
 
 ![Business Learning Hub 1x1](https://images.ctfassets.net/kftzwdyauwt9/3WaN0u4u87BK3dXsD569qh/f40a4e250dc00d0bbf5ec418be81fc9c/Business_Learning_Hub_1x1.png?w=3840&q=90&fm=webp)
 

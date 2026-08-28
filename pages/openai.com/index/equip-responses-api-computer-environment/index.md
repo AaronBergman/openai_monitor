@@ -26,18 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Table of contents
-
-  * The shell tool
-  * Orchestrating the agent loop
-  * When the context window gets full: compaction
-  * Container context
-  * Agent skills
-  * How agents are made
-  * Make your own agent
-
-
-
 March 11, 2026
 
 [Engineering](</news/engineering/>)
@@ -48,7 +36,33 @@ By Bo Xu, Danny Zhang, and Rohit Arunachalam
 
 Loading…
 
-Share
+The shell tool
+
+  * The shell tool
+  * Orchestrating the agent loop
+  * When the context window gets full: compaction
+  * Container context
+    * File systems
+    * Databases
+    * Network access 
+  * Agent skills
+  * How agents are made
+  * Make your own agent
+
+
+
+  * The shell tool
+  * Orchestrating the agent loop
+  * When the context window gets full: compaction
+  * Container context
+    * File systems
+    * Databases
+    * Network access 
+  * Agent skills
+  * How agents are made
+  * Make your own agent
+
+
 
 We're currently in a shift from using models, which excel at particular tasks, to using agents capable of handling complex workflows. By prompting models, you can only access trained intelligence. However, giving the model a computer environment can achieve a much wider range of use cases, like running services, requesting data from APIs, or generating more useful artifacts like spreadsheets or reports.
 
@@ -114,19 +128,19 @@ Now let’s cover state and resources. The container is not only a place to run 
 
 ![A diagram that shows inside the runtime container: Files, databases, skills, and a policy-controlled network](https://images.ctfassets.net/kftzwdyauwt9/2rdxS5bXiQLnB1Vg05psLC/2ed0d4804552378d2b84afa12ce61b28/OAI_Equip_Responses_API_with_a_computer_environment_Inside_the_runtime_container_desktop-light__3_.svg?w=3840&q=90)
 
-#### File systems
+### File systems
 
 The first part of container context is the file system for uploading, organizing, and managing resources. We built [container and file⁠(opens in a new window)](<https://developers.openai.com/api/reference/resources/containers>) APIs to give the model a map of available data and help it choose targeted file operations instead of performing broad, noisy scans.
 
 A common anti-pattern is packing all input directly into prompt context. As inputs grow, overfilling the prompt becomes expensive and hard for the model to navigate. A better pattern is to stage resources in the container file system and let the model decide what to open, parse, or transform with shell commands. Much like humans, models work better with organized information.
 
-#### Databases
+### Databases
 
 The second part of container context is databases. In many cases, we suggest developers store structured data in databases as SQLite and query them. Instead of copying an entire spreadsheet into the prompt, for example, you can give the model a description of the tables—what columns exist and what they mean—and let it pull the rows it needs.
 
 For example, if you ask, “Which products had declining sales this quarter?” the model can query _just_ the relevant rows instead of scanning the whole spreadsheet. This is faster, cheaper, more scalable to larger datasets.
 
-#### Network access 
+### Network access 
 
 The third part of the container context is network access, an essential part of agent workloads. Agent workflow may need to fetch live data, call external APIs, or install packages. At the same time, giving containers unrestricted internet access can be risky: it can expose information to external websites, unintentionally touch sensitive internal or third-party systems, or make credential leaks and data exfiltration harder to guard against.
 
@@ -187,70 +201,80 @@ Bo Xu, Danny Zhang, Rohit Arunachalam
 
 [View all](</news/>)
 
-![MRC 1_1](https://images.ctfassets.net/kftzwdyauwt9/IRqiqOUeNlFne8NPTbELM/9ab024f4581e7065eaf42aa18d14b724/Art_Card.png?w=3840&q=90&fm=webp)
+![Jalapeño inference — Art Card](https://images.ctfassets.net/kftzwdyauwt9/26K8mLbrpbaDvoFY0NrE04/8e4ad0b3f28042c22d6d5130bd4f4019/jalapeno-art-card.png?w=3840&q=90&fm=webp)
 
-[Supercomputer networking to accelerate large scale AI trainingEngineeringMay 5, 2026](</index/mrc-supercomputer-networking/>)
+[Jalapeño’s first results show industry-leading speed and efficiency in AI inferenceEngineeringAug 25, 2026](</index/jalapeno-first-results/>)
 
-![How OpenAI delivers low-latency voice AI at scale > art card](https://images.ctfassets.net/kftzwdyauwt9/3ZT7WZXrDjX1tFlLjcTPXp/07d42ee6cc762208896f09c385853359/Voice_AI__art_card.png?w=3840&q=90&fm=webp)
+![Continuous voice interaction with GPT Live - art card](https://images.ctfassets.net/kftzwdyauwt9/3PyfDzfjOozLbJnaZIkRLD/6aef080bb4e7d6a6b8a6dc23436848db/gpt-live-art-card.png?w=3840&q=90&fm=webp)
 
-[How OpenAI delivers low-latency voice AI at scaleEngineeringMay 4, 2026](</index/delivering-low-latency-voice-ai-at-scale/>)
+[Continuous voice interaction with GPT LiveEngineeringAug 3, 2026](</index/continuous-voice-interaction-with-gpt-live/>)
 
-![An open-source spec for orchestration: Symphony > art card](https://images.ctfassets.net/kftzwdyauwt9/4p40cWGcpyi6xRY3U4advn/d977f47ed621f80de31c931b0b8223f0/Symphony_art_card__1_.png?w=3840&q=90&fm=webp)
+![GPT-5.6 efficiency article — art card](https://images.ctfassets.net/kftzwdyauwt9/5ExPWhZDZXbZgTHE7aeE5d/0526071f749a3b44adff3c45a12322b7/How_GPT-5.6_fuses_frontier_intelligence_with_frontier_efficiency_ART_CARD__1_.png?w=3840&q=90&fm=webp)
 
-[An open-source spec for orchestration: SymphonyEngineeringApr 27, 2026](</index/open-source-codex-orchestration-symphony/>)
+[How GPT-5.6 fuses frontier intelligence with frontier efficiencyEngineeringJul 29, 2026](</index/gpt-5-6-frontier-intelligence-efficiency/>)
 
-Our Research
+Research
 
   * [Research Index](</research/index/>)
   * [Research Overview](</research/>)
-  * [Research Residency](</residency/>)
   * [Economic Research](</signals/>)
 
 
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
-  * [GPT-5.3-Codex](</index/introducing-gpt-5-3-codex/>)
 
 
 
 Safety
 
   * [Safety Approach](</safety/>)
+  * [Deployment Safety(opens in a new window)](<https://deploymentsafety.openai.com/>)
   * [Security & Privacy](</security-and-privacy/>)
   * [Trust & Transparency](</trust-and-transparency/>)
 
 
 
-ChatGPT
+Products
 
-  * [Explore ChatGPT(opens in a new window)](<https://chatgpt.com/overview>)
-  * [Business](<https://chatgpt.com/business/business-plan>)
-  * [Enterprise](<https://chatgpt.com/business/enterprise>)
-  * [Education](<https://chatgpt.com/business/education>)
-  * [Pricing(opens in a new window)](<https://chatgpt.com/pricing>)
-  * [Download(opens in a new window)](<https://chatgpt.com/download>)
+  * [ChatGPT(opens in a new window)](<https://chatgpt.com/>)
+  * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
+  * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
+  * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
+  * [Codex](</codex/>)
+  * [Release Notes](</products/release-notes/>)
 
 
 
 API Platform
 
-  * [Platform Overview](</api/>)
-  * [Pricing](</api/pricing/>)
-  * [API log in(opens in a new window)](<https://platform.openai.com/login>)
-  * [Documentation(opens in a new window)](<https://developers.openai.com/api/docs>)
-  * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
+  * [Overview](</api/>)
+  * [API Log In(opens in a new window)](<https://platform.openai.com/login>)
+  * [Docs(opens in a new window)](<https://developers.openai.com/api/docs>)
 
 
 
-For Business
+Business
 
-  * [Business Overview](</business/>)
+  * [Overview](</business/>)
   * [Solutions](</solutions/>)
+  * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
+
+
+
+Developers
+
+  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
+  * [Open Models](</open-models/>)
+  * [Docs(opens in a new window)](<https://developers.openai.com/>)
+  * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
+  * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
 
 
 
@@ -258,9 +282,8 @@ Company
 
   * [About Us](</about/>)
   * [Our Charter](</charter/>)
-  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
   * [Careers](</careers/>)
-  * [Brand](</brand/>)
+  * [News](</news/>)
 
 
 
@@ -272,9 +295,9 @@ Support
 
 More
 
-  * [News](</news/>)
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

@@ -162,15 +162,17 @@ More than 1 million businesses around the world are achieving meaningful results
 
 ## Keep reading
 
-![Critical cyber capabilities card art](https://images.ctfassets.net/kftzwdyauwt9/1P18WVIhz3l2xY4d9JB8H0/b8f0c3c0797e99f4e1fa2e73dc1896ad/Frame.png?w=3840&q=90&fm=webp)
+![Supporting Thailand’s next generation of AI startups > Cover image](https://images.ctfassets.net/kftzwdyauwt9/6ttG55Aq2kyDRG8wxOkTx9/897d266cacc77edc0a25d06b9f6c2c45/supporting-next-generation-ai-startups-thailand--cover.png?w=3840&q=90&fm=webp)
 
-[Responding to the next frontier of critical cyber capabilitiesSecurityAug 7, 2026](</index/responding-next-frontier-critical-cyber-capabilities/>)
+[Supporting Thailand’s next generation of AI startupsCompanyAug 28, 2026](</index/supporting-next-generation-ai-startups-thailand/>)
 
-![oai HSPGruppe 1x1](https://images.ctfassets.net/kftzwdyauwt9/2BdpQMESZ6vBBL3ms66ixC/369405aa3d8ed5a5e2994e0390e0d8a6/oai_HSPGruppe_1x1.png?w=3840&q=90&fm=webp)
+![Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training > Cover image](https://images.ctfassets.net/kftzwdyauwt9/2X12MQqhR5AY1wog6JW3Q3/721873f6edd491a0f241038a9324b341/what-students-gain-chatgpt-critical-thinking--art-card-no-border.png?w=3840&q=90&fm=webp)
 
-[How HSP GRUPPE builds AI capabilities for tax advisoryAug 7, 2026](</index/hsp-gruppe/>)
+[What students gain from ChatGPT and critical-thinking trainingCompanyAug 27, 2026](</index/what-students-gain-from-chatgpt-critical-thinking-training/>)
 
-[Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free usersProductAug 6, 2026](</index/improving-gpt-5-6-sol-in-chatgpt/>)
+![Expanding OpenAI’s presence in Brazil > Cover image](https://images.ctfassets.net/kftzwdyauwt9/7jZgAn4y7ZP5GFx0HimbWT/84b3d734ebe29229bd58b8d8a775dc60/expanding-openai-presence-in-brazil-art-card.png?w=3840&q=90&fm=webp)
+
+[Expanding OpenAI’s presence in BrazilCompanyAug 27, 2026](</index/expanding-our-presence-in-brazil/>)
 
 Research
 

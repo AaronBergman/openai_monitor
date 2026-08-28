@@ -41,36 +41,22 @@ Share
 Writing effective image prompts
 
   * Writing effective image prompts
-
   * Best practices to improve results
-
   * Advanced guidance 
-
     * Using multiple uploaded images
-
     * Text in images (titles, labels, headlines)
-
     * Infographics and dense layouts
-
   * Additional considerations
-
 
 
 
   * Writing effective image prompts
-
   * Best practices to improve results
-
   * Advanced guidance 
-
     * Using multiple uploaded images
-
     * Text in images (titles, labels, headlines)
-
     * Infographics and dense layouts
-
   * Additional considerations
-
 
 
 
@@ -245,6 +231,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

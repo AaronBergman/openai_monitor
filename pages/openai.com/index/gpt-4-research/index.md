@@ -26,20 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Capabilities
-
-  * Capabilities
-  * Limitations
-  * Risks & mitigations
-  * Training process
-  * OpenAI Evals
-  * ChatGPT Plus
-  * API
-  * Conclusion
-  * Appendix
-
-
-
 March 14, 2023
 
 [Milestone](</research/index/milestone/>)
@@ -55,6 +41,38 @@ More Resources
 Loading…
 
 Share
+
+Capabilities
+
+  * Capabilities
+    * Visual inputs
+    * Steerability
+  * Limitations
+  * Risks & mitigations
+  * Training process
+    * Predictable scaling
+  * OpenAI Evals
+  * ChatGPT Plus
+  * API
+  * Conclusion
+  * Appendix
+
+
+
+  * Capabilities
+    * Visual inputs
+    * Steerability
+  * Limitations
+  * Risks & mitigations
+  * Training process
+    * Predictable scaling
+  * OpenAI Evals
+  * ChatGPT Plus
+  * API
+  * Conclusion
+  * Appendix
+
+
 
 We’ve created GPT‑4, the latest milestone in OpenAI’s effort in scaling up deep learning. GPT‑4 is a large multimodal model (accepting image and text inputs, emitting text outputs) that, while less capable than humans in many real-world scenarios, exhibits human-level performance on various professional and academic benchmarks. For example, it passes a simulated bar exam with a score around the top 10% of test takers; in contrast, GPT‑3.5’s score was around the bottom 10%. We’ve spent 6 months iteratively [aligning⁠](</index/instruction-following/>) GPT‑4 using lessons from our adversarial testing program as well as ChatGPT, resulting in our best-ever results (though far from perfect) on factuality, steerability, and refusing to go outside of guardrails.
 
@@ -264,9 +282,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -303,6 +321,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -336,6 +356,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

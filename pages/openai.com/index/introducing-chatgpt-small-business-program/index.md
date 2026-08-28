@@ -121,6 +121,10 @@ OpenAI
 
 [View all](</news/>)
 
+![Introducing the Admin plugin for ChatGPT Work and Codex — art card v2](https://images.ctfassets.net/kftzwdyauwt9/i8FWARGpSxYbF9iCeAgfQ/5f0480157bd0a08505801483eb7a1e4b/cover-v2.png?w=3840&q=90&fm=webp)
+
+[Introducing the Admin plugin for ChatGPT Work and CodexAI AdoptionAug 25, 2026](</index/introducing-admin-plugin/>)
+
 ![How to manage AI investments in the agentic era > Cover image](https://images.ctfassets.net/kftzwdyauwt9/1qXMreHMXalbFSVXr2CJXW/acbd7f4e05bd38b80a99523967ef69b7/Frame.png?w=3840&q=90&fm=webp)
 
 [How to manage AI investments in the agentic eraAI AdoptionJul 14, 2026](</index/managing-ai-investments-in-agentic-era/>)
@@ -128,10 +132,6 @@ OpenAI
 ![Codex maxxing 1x1](https://images.ctfassets.net/kftzwdyauwt9/5RFmrNey5oX93M1WyqCs4o/5b6ccdce4022764200e06739cda7c21f/Codex_maxxing_1x1.png?w=3840&q=90&fm=webp)
 
 [Codex-Maxxing for Long-Running WorkAI AdoptionJun 22, 2026](</index/codex-maxxing-long-running-work/>)
-
-![Introducing OpenAI Academy courses > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/2mmXo430NiaNqyi6YrRtnh/715ab11fa5003dd50acff55adcb4a5fd/Frame.png?w=3840&q=90&fm=webp)
-
-[New OpenAI Academy courses for the next era of workAI AdoptionJun 12, 2026](</index/academy-courses-applying-ai-at-work/>)
 
 Research
 

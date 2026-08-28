@@ -162,6 +162,10 @@ As enterprises move toward automating a growing share of customer interactions, 
 
 [View all](</news/>)
 
+![replit-customer-story-art-card-1x1](https://images.ctfassets.net/kftzwdyauwt9/2ZUd2sTOK6p4MrjDZnvCoM/512b38a71cf26f09c3cda3c51169c401/replit-customer-story-art-card-1x1.png?w=3840&q=90&fm=webp)
+
+[Replit expands access to software creation with GPT-5.6 LunaStartupAug 19, 2026](</index/replit/>)
+
 ![Model ML customer story card image](https://images.ctfassets.net/kftzwdyauwt9/3STNMQMrFRC8mFdLYtjkV4/9cc21e9c729b2ae7cdf75aa3f49b3033/modelml-card.png?w=3840&q=90&fm=webp)
 
 [Model ML completes finance work more efficiently with GPT-5.6 SolStartupAug 10, 2026](</index/model-ml/>)
@@ -169,10 +173,6 @@ As enterprises move toward automating a growing share of customer interactions, 
 ![Warp customer story 1x1 hero art card](https://images.ctfassets.net/kftzwdyauwt9/3DK9g0hpubvAEz7lDs0nUf/713989b24b9d377312714303868b9126/oai_Warp_1x1.png?w=3840&q=90&fm=webp)
 
 [Warp’s big bet on building open source with GPT-5.5StartupMay 27, 2026](</index/warp/>)
-
-![oai GradientLabs 1x1](https://images.ctfassets.net/kftzwdyauwt9/5KZQBYyY2LBtllikqf9aul/6143158d9c259eed5aafb47cdac9bcdd/oai_GradientLabs_1x1.png?w=3840&q=90&fm=webp)
-
-[Gradient Labs gives every bank customer an AI account managerStartupApr 1, 2026](</index/gradient-labs/>)
 
 Research
 

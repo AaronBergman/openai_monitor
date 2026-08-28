@@ -52,6 +52,18 @@ Switch cards to show Media
 
 Switch cards to hide Media
 
+![Supporting Thailand’s next generation of AI startups > Cover image](https://images.ctfassets.net/kftzwdyauwt9/6ttG55Aq2kyDRG8wxOkTx9/897d266cacc77edc0a25d06b9f6c2c45/supporting-next-generation-ai-startups-thailand--cover.png?w=3840&q=90&fm=webp)
+
+[Supporting Thailand’s next generation of AI startupsCompanyAug 28, 2026](</index/supporting-next-generation-ai-startups-thailand/>)
+
+![Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training > Cover image](https://images.ctfassets.net/kftzwdyauwt9/2X12MQqhR5AY1wog6JW3Q3/721873f6edd491a0f241038a9324b341/what-students-gain-chatgpt-critical-thinking--art-card-no-border.png?w=3840&q=90&fm=webp)
+
+[What students gain from ChatGPT and critical-thinking trainingCompanyAug 27, 2026](</index/what-students-gain-from-chatgpt-critical-thinking-training/>)
+
+![Expanding OpenAI’s presence in Brazil > Cover image](https://images.ctfassets.net/kftzwdyauwt9/7jZgAn4y7ZP5GFx0HimbWT/84b3d734ebe29229bd58b8d8a775dc60/expanding-openai-presence-in-brazil-art-card.png?w=3840&q=90&fm=webp)
+
+[Expanding OpenAI’s presence in BrazilCompanyAug 27, 2026](</index/expanding-our-presence-in-brazil/>)
+
 ![ChatGPT for Teachers district expansion | Original neutral library cover](https://images.ctfassets.net/kftzwdyauwt9/4jHps0gmVQfIrnl2shwDBi/35e47854409876d353f3bb502a164317/teachers-original-neutral-listing.png?w=3840&q=90&fm=webp)
 
 [Bringing ChatGPT for Teachers to more U.S. school districtsProductAug 26, 2026](</index/bringing-chatgpt-for-teachers-to-more-us-school-districts/>)
@@ -73,18 +85,6 @@ Switch cards to hide Media
 ![Introducing the Admin plugin for ChatGPT Work and Codex — art card v2](https://images.ctfassets.net/kftzwdyauwt9/i8FWARGpSxYbF9iCeAgfQ/5f0480157bd0a08505801483eb7a1e4b/cover-v2.png?w=3840&q=90&fm=webp)
 
 [Introducing the Admin plugin for ChatGPT Work and CodexAI AdoptionAug 25, 2026](</index/introducing-admin-plugin/>)
-
-![GPT-5.6 in Kiro > OpenAI and official Kiro full logo > 1:1 art card](https://images.ctfassets.net/kftzwdyauwt9/31NSq4ufuXRuOUqH9Xdjno/319b9502b892d44b8b91df7aef9d53ed/OAI_Kiro_Partnership_1x1_Art_Card_Official_Full_Lockup_2160.png?w=3840&q=90&fm=webp)
-
-[Advancing price-performance for developers with GPT‑5.6 in KiroProductAug 24, 2026](</index/gpt-5-6-in-kiro/>)
-
-![Introducing Intelligence Age – Card image](https://images.ctfassets.net/kftzwdyauwt9/5HdminBqr4TZQsE5iFClGm/23242635382e36b97bd9e38a958fbd80/introducing-ai-futures-card-ocean-blue-1080x1080.png?w=3840&q=90&fm=webp)
-
-[Introducing Intelligence AgeIntelligence AgeAug 20, 2026](</index/introducing-ai-futures/>)
-
-![Introducing Intelligence Age – Card image](https://images.ctfassets.net/kftzwdyauwt9/5HdminBqr4TZQsE5iFClGm/23242635382e36b97bd9e38a958fbd80/introducing-ai-futures-card-ocean-blue-1080x1080.png?w=3840&q=90&fm=webp)
-
-[Introducing Intelligence AgeIntelligence AgeAug 20, 2026](</index/introducing-intelligence-age/>)
 
 Load more
 

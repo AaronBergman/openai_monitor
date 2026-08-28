@@ -76,7 +76,7 @@ We spent 6 months making GPT‑4 safer and more aligned. GPT‑4 is 82% less lik
 
 **GPT‑4‑assisted safety research** GPT‑4’s advanced reasoning and instruction-following capabilities expedited our safety work. We used GPT‑4 to help create training data for model fine-tuning and iterate on classifiers across training, evaluations, and monitoring.
 
-## Built with GPT-4
+### Built with GPT-4
 
 ![White Duolingo logo on a green background](https://images.ctfassets.net/kftzwdyauwt9/d8ea7257-15af-4ace-fe07371883a6/a6904255f5cc1d78448d989fbcaea0c2/duolingo.png?w=3840&q=90&fm=webp)
 

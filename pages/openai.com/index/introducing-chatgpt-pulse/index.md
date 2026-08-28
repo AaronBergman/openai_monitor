@@ -58,9 +58,9 @@ Made for you once a day, every day
 
 
 
-We're building ChatGPT to help you reach your goals. Since ChatGPT launched, that's always meant coming to ask a question. There's magic in being able to simply ask and get answers to help you learn, create or solve problems. However that's limited by what you know to ask for and always puts the burden on you for the next step.
+We’re building ChatGPT to help you reach your goals. Since ChatGPT launched, that’s always meant coming to ask a question. There’s magic in being able to simply ask and get answers to help you learn, create or solve problems. However that’s limited by what you know to ask for and always puts the burden on you for the next step.
 
-Today we're releasing a preview of ChatGPT Pulse to Pro users on mobile. Pulse is a new experience where ChatGPT proactively does research to deliver personalized updates based on your chats, feedback, and connected apps like your calendar. You can curate what ChatGPT researches by letting it know what’s useful and what isn’t. The research appears in Pulse as topical visual cards you can scan quickly or open for more detail, so each day starts with a new, focused set of updates.
+Today we’re releasing a preview of ChatGPT Pulse to Pro users on mobile. Pulse is a new experience where ChatGPT proactively does research to deliver personalized updates based on your chats, feedback, and connected apps like your calendar. You can curate what ChatGPT researches by letting it know what’s useful and what isn’t. The research appears in Pulse as topical visual cards you can scan quickly or open for more detail, so each day starts with a new, focused set of updates.
 
 This is the first step toward a more useful ChatGPT that proactively brings you what you need, helping you make more progress so you can get back to your life. We’ll learn and improve from early use before rolling it out to Plus, with the goal of making it available to everyone.
 

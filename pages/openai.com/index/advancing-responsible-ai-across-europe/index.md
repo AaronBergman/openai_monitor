@@ -96,17 +96,17 @@ OpenAI
 
 [View all](</news/>)
 
-![OpenAI letter to Governor Abbott — card image](https://images.ctfassets.net/kftzwdyauwt9/58lvLf4ld7rZS9mIIvma9y/be162b8bd2d1ab08c95d666d9a161b04/Frame__18_.png?w=3840&q=90&fm=webp)
+![DMUA Russia > card image ](https://images.ctfassets.net/kftzwdyauwt9/ciRSLFnJsNyxXYQjdoyqu/ff8ab22ad273ff79a4c9840f0c209fe6/Frame.png?w=3840&q=90&fm=webp)
 
-[OpenAI’s letter on responsible AI infrastructure in TexasGlobal AffairsAug 10, 2026](</index/responsible-ai-infrastructure-texas/>)
+[Disrupting a new covert influence campaign from RussiaGlobal AffairsAug 25, 2026](</index/disrupting-malicious-uses-of-ai-influence-campaign-russia/>)
 
-![effingham county 1x1](https://images.ctfassets.net/kftzwdyauwt9/3f1fyaaSZELql3zECUImW3/1733a5ee7f07da894b993dcff75bea66/effingham_county_1x1.png?w=3840&q=90&fm=webp)
+![Strengthening Democratic Oversight in National Security — card image](https://images.ctfassets.net/kftzwdyauwt9/1qebg0OnHIh4dqr84zXR3Q/dba2f0e83ba4615a71894fd7fd1656e1/openai-democratic-oversight-page-cover-v002.png?w=3840&q=90&fm=webp)
 
-[Building AI infrastructure with the Effingham County communityGlobal AffairsJul 22, 2026](</index/building-ai-infrastructure-with-the-effingham-county-community/>)
+[Strengthening Democratic Oversight in National SecurityGlobal AffairsAug 18, 2026](</index/strengthening-democratic-oversight-in-national-security/>)
 
-![Advancing the next era of national science card image](https://images.ctfassets.net/kftzwdyauwt9/1aUcaaPHlPQbaN0EzEUrEc/95d5f6d78ab308305bf4781c07ccc4fd/Advancing_the_next_era_of_national_science_1x1.png?w=3840&q=90&fm=webp)
+![OpenAI joins PORTS-Pike project, expanding community investment and supporting thousands of Southern Ohio jobs — card image](https://images.ctfassets.net/kftzwdyauwt9/6RUPcXx0eTGghDpM851Qy1/ab11d2d0849ad9544249bf7b77ee46fe/openai-joins-ports-pike-project-cover-v001.png?w=3840&q=90&fm=webp)
 
-[Advancing the next era of national scienceGlobal AffairsJul 22, 2026](</index/advancing-the-next-era-of-national-science/>)
+[OpenAI joins PORTS-Pike projectGlobal AffairsAug 17, 2026](</index/openai-joins-ports-pike-project/>)
 
 Research
 

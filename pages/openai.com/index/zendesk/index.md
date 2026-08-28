@@ -26,16 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Moving from intent-based bots to proactive AI agents
-
-  * Moving from intent-based bots to proactive AI agents
-  * A new class of AI agents, built for resolution
-  * Shifting from static flows to adaptive reasoning
-  * Benchmarking the best models for every use case
-  * Accelerating the path to 80% automation
-
-
-
 March 27, 2025
 
 # Zendesk uses OpenAI to build adaptive service agents focused on resolutions
@@ -47,6 +37,24 @@ March 27, 2025
 Loading…
 
 Share
+
+Moving from intent-based bots to proactive AI agents
+
+  * Moving from intent-based bots to proactive AI agents
+  * A new class of AI agents, built for resolution
+  * Shifting from static flows to adaptive reasoning
+  * Benchmarking the best models for every use case
+  * Accelerating the path to 80% automation
+
+
+
+  * Moving from intent-based bots to proactive AI agents
+  * A new class of AI agents, built for resolution
+  * Shifting from static flows to adaptive reasoning
+  * Benchmarking the best models for every use case
+  * Accelerating the path to 80% automation
+
+
 
 Zendesk has helped businesses deliver great customer experiences for over a decade. Its platform powers more than 4.6 billion resolutions each year.
 
@@ -145,9 +153,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -184,6 +192,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -217,6 +227,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

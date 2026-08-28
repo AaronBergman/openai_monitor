@@ -41,52 +41,30 @@ Share
 What are skills?
 
   * What are skills?
-
   * Why use skills?
-
   * What’s a SKILL.md file?
-
   * How to build and use skills
-
     * 1) Think of a repeatable task
-
     * 2) Write down the instructions
-
     * 3) Review and install the skill
-
     * 4) Use it in day-to-day work
-
     * 5) Share or keep it personal
-
   * How skills, GPTs, and projects work together
-
   * Practical skill use cases for work
-
 
 
 
   * What are skills?
-
   * Why use skills?
-
   * What’s a SKILL.md file?
-
   * How to build and use skills
-
     * 1) Think of a repeatable task
-
     * 2) Write down the instructions
-
     * 3) Review and install the skill
-
     * 4) Use it in day-to-day work
-
     * 5) Share or keep it personal
-
   * How skills, GPTs, and projects work together
-
   * Practical skill use cases for work
-
 
 
 
@@ -219,17 +197,17 @@ Discover additional guides and resources to help you build practical AI skills.
 
 [View all](</news/>)
 
-![Academy > Prompting > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/6KuWyesIgCbrJUzXckTYSx/20183733ba66b4b535fe978fc7ec985b/your-first-chat.png?w=3840&q=90&fm=webp)
+![How data science teams use Codex > card image](https://images.ctfassets.net/kftzwdyauwt9/xyevYnp4Ptaa1eMgBDNjS/75fea80018f321b89809d893f1a5786d/data_science_teams.png?w=3840&q=90&fm=webp)
 
-[Prompting fundamentals | OpenAIOpenAI AcademyApr 10, 2026](</academy/prompting/>)
+[How data science teams use ChatGPT Work | OpenAIOpenAI AcademyJul 14, 2026](</academy/chatgpt-work/how-data-science-teams-use-codex/>)
 
-![Academy > Personalizing ChatGPT > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/2s9rOdoSHProR3I6Ai5P5/8ca619f82211ade2d76316f04aa3fbcc/personalizing-chatgpt.png?w=3840&q=90&fm=webp)
+![How sales teams use Codex > card image](https://images.ctfassets.net/kftzwdyauwt9/1O4te2wMh6O77eDV6kapG3/02845b054a09297b9fada40c4cc9a71f/sales_teams.png?w=3840&q=90&fm=webp)
 
-[Personalizing ChatGPT | OpenAIOpenAI AcademyApr 10, 2026](</academy/personalization/>)
+[How sales teams use ChatGPT Work | OpenAIOpenAI AcademyJul 14, 2026](</academy/chatgpt-work/how-sales-teams-use-codex/>)
 
-![Academy > Using files > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/7FdLCJL2BCjS8ef2BJ8rG0/8307b0a6be94e0333b43dbed5b93d187/using-files.png?w=3840&q=90&fm=webp)
+![Academy > Getting started > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/1Xk9723QKj2Vb9dC6RMebS/5e588c112042794e62178a224eaff418/getting-started.png?w=3840&q=90&fm=webp)
 
-[Working with files in ChatGPT | OpenAIOpenAI AcademyApr 10, 2026](</academy/working-with-files/>)
+[Getting started with ChatGPT | OpenAIOpenAI AcademyJul 10, 2026](</academy/getting-started/>)
 
 Research
 
@@ -315,6 +293,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

@@ -41,32 +41,20 @@ Share
 Getting started
 
   * Getting started
-
   * Stronger safeguards for linked teen accounts
-
   * Customizing your teen’s experience
-
   * Notifications in parental controls
-
   * Resources for parents
-
   * Looking ahead
-
 
 
 
   * Getting started
-
   * Stronger safeguards for linked teen accounts
-
   * Customizing your teen’s experience
-
   * Notifications in parental controls
-
   * Resources for parents
-
   * Looking ahead
-
 
 
 
@@ -251,6 +239,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

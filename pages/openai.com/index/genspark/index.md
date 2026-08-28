@@ -26,16 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Moving beyond search to agents
-
-  * Moving beyond search to agents
-  * Building a no-code autonomous agent with OpenAI multimodal models
-  * Using AI to handle resignation calls
-  * Record-breaking growth, zero paid marketing
-  * Pushing agentic AI even further with OpenAI 
-
-
-
 July 1, 2025
 
 # Genspark ships no-code personal agents with GPT‑4.1 and OpenAI Realtime API
@@ -47,6 +37,24 @@ And hit $36M ARR in just 45 days with a 20-person team.
 Loading…
 
 Share
+
+Moving beyond search to agents
+
+  * Moving beyond search to agents
+  * Building a no-code autonomous agent with OpenAI multimodal models
+  * Using AI to handle resignation calls
+  * Record-breaking growth, zero paid marketing
+  * Pushing agentic AI even further with OpenAI 
+
+
+
+  * Moving beyond search to agents
+  * Building a no-code autonomous agent with OpenAI multimodal models
+  * Using AI to handle resignation calls
+  * Record-breaking growth, zero paid marketing
+  * Pushing agentic AI even further with OpenAI 
+
+
 
 [ _Genspark_ ⁠(opens in a new window)](<https://www.genspark.ai/>) is the company behind Super Agent, a no-code, customizable AI agent that helps users automate real-world tasks like making a phone call, generating a presentation, or turning a recipe into a short video.
 
@@ -133,9 +141,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -172,6 +180,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -205,6 +215,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

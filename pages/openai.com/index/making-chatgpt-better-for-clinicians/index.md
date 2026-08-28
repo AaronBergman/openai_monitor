@@ -153,15 +153,17 @@ Aakash Shah, University of Virginia; Aaron Phillips, Northwell Health; Aishatu I
 
 [View all](</news/>)
 
-![Premium seats are coming to ChatGPT Business - Cover](https://images.ctfassets.net/kftzwdyauwt9/3C1p8T3c9oQN6T6gjOjDnD/4c3afdba8f3f226302d50c004a785fd0/premium-seats-cover-square.png?w=3840&q=90&fm=webp)
+![ChatGPT for Teachers district expansion | Original neutral library cover](https://images.ctfassets.net/kftzwdyauwt9/4jHps0gmVQfIrnl2shwDBi/35e47854409876d353f3bb502a164317/teachers-original-neutral-listing.png?w=3840&q=90&fm=webp)
 
-[Premium seats are coming to ChatGPT BusinessProductAug 10, 2026](</index/premium-seats-chatgpt-business/>)
+[Bringing ChatGPT for Teachers to more U.S. school districtsProductAug 26, 2026](</index/bringing-chatgpt-for-teachers-to-more-us-school-districts/>)
 
-[Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free usersProductAug 6, 2026](</index/improving-gpt-5-6-sol-in-chatgpt/>)
+![Learning never stops card image](https://images.ctfassets.net/kftzwdyauwt9/rGBw0SMWP2aaIH5twRBgX/5f8f24d0e5a03eecfc74ab6cee3dc331/learning-never-stops-how-ai-makes-learning-continuous-cover.png?w=3840&q=90&fm=webp)
 
-![Edu plugin > card image ](https://images.ctfassets.net/kftzwdyauwt9/5vIZVUmoUSCImIDsK3jJiL/67f1d878e33f6bc5139094e933f454db/ArtCard.png?w=3840&q=90&fm=webp)
+[Learning never stops: How AI makes learning continuousProductAug 26, 2026](</index/learning-never-stops/>)
 
-[New ways to learn and teach with ChatGPT Work and CodexProductAug 4, 2026](</index/learn-teach-chatgpt-work-codex/>)
+![GPT-5.6 in Kiro > OpenAI and official Kiro full logo > 1:1 art card](https://images.ctfassets.net/kftzwdyauwt9/31NSq4ufuXRuOUqH9Xdjno/319b9502b892d44b8b91df7aef9d53ed/OAI_Kiro_Partnership_1x1_Art_Card_Official_Full_Lockup_2160.png?w=3840&q=90&fm=webp)
+
+[Advancing price-performance for developers with GPT‑5.6 in KiroProductAug 24, 2026](</index/gpt-5-6-in-kiro/>)
 
 Research
 

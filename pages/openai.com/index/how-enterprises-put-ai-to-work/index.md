@@ -72,7 +72,6 @@ These reports reveal five key insights on how organizations are putting AI to wo
   * **The frontier gap is widening.** Frontier firms—those in the top 10% of AI usage each month—now generate 8.3× as many output tokens per active user as typical firms, up from 2.6× in January.
   * **Frontier firms use advanced capabilities more often.** Each week, 21% of active users at frontier firms use Plugins, compared with 9% at typical firms. At OpenAI, 95% of employees use Plugins weekly, highlighting the potential for deeper adoption.
   * **Agents are spreading across knowledge work.** Since February, weekly active enterprise Codex users grew 108× in legal, 41× in sales, 41× in recruiting, and 26× in marketing, compared with 5× in engineering.
-  * **Early-career employees use AI more.** Usage is highest among early-career workers and falls among more senior employees, suggesting a potential comparative advantage in using AI.
 
 
 

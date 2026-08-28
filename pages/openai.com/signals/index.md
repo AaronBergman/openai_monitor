@@ -122,6 +122,10 @@ OpenAI’s Enterprise Signals tracks AI adoption across industries and business 
 
 ## Recent news
 
+![Signals Homepage > Layout > Group > Recent news > Cards > What students gain from ChatGPT and critical-thinking training > Media > Asset](https://images.ctfassets.net/kftzwdyauwt9/1gQDNMq1Ij1wSW2VvWfM6a/14e0887f53c86bc3fbfe652dbf10ef1a/what-students-gain-chatgpt-critical-thinking--art-card-no-border.png?w=3840&q=90&fm=webp)
+
+[What students gain from ChatGPT and critical-thinking training](<https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training/>)
+
 ![Signals Homepage > Layout > Group > Recent news > Cards > From assistance to execution: How enterprises put AI to work > Media > Asset](https://images.ctfassets.net/kftzwdyauwt9/P6hw6P5TTfrSPTMPgz02q/83d6979cc3397dcbc07ab8517abecafa/Frame.png?w=3840&q=90&fm=webp)
 
 [How enterprises put AI to work](<https://openai.com/index/how-enterprises-put-ai-to-work/>)
@@ -141,10 +145,6 @@ OpenAI’s Enterprise Signals tracks AI adoption across industries and business 
 ![Signals Homepage > Layout > Group > Recent news > Cards > Inside OpenAI: How OpenAI teams use Codex to do more > Media > Asset](https://images.ctfassets.net/kftzwdyauwt9/6wZT5PD2pKnXO2X533kQbB/30245193410300dbb52d85ffc22567f8/Frame.png?w=3840&q=90&fm=webp)
 
 [Inside OpenAI: How OpenAI teams use Codex to do more](<https://forum.openai.com/public/videos/event-replay-inside-openai-how-openai-teams-use-codex-to-do-more-2026-07-14>)
-
-![Signals Homepage > Layout > Group > Recent news > Cards > Signals june update blog > Media > Asset](https://images.ctfassets.net/kftzwdyauwt9/6O2E6Oad4j1bt6skVFRR0i/733f5023343b8590c43db513dc381c00/Frame.png?w=3840&q=90&fm=webp)
-
-[How ChatGPT adoption has expanded](<https://openai.com/index/how-chatgpt-adoption-has-expanded/>)
 
 ### Reports
 
