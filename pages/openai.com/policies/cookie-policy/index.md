@@ -30,7 +30,7 @@ Select language
 
 …
 
-Last updated: June 23, 2026
+Last updated: August 14, 2026
 
 # Cookie policy
 
@@ -166,56 +166,73 @@ These cookies help us understand how our Services perform and are used, such as 
 
 **Source**| **Cookie name**| **Duration**| **Purpose**| **Domain**  
 ---|---|---|---|---  
-[Swoogo](<https://swoogo.events/legal/cookies/>)| _pk_cvar| 30 minutes| Analytics| events.openai.com  
-[Swoogo](<https://swoogo.events/legal/cookies/>)| _pk_hsr| 30 minutes| Analytics| events.openai.com  
-[Swoogo](<https://swoogo.events/legal/cookies/>)| _pk_id| 13 months| Analytics| events.openai.com  
-[Swoogo](<https://swoogo.events/legal/cookies/>)| _pk_ref| 6 months| Analytics| events.openai.com  
-[Swoogo](<https://swoogo.events/legal/cookies/>)| _pk_ses| 30 minutes| Analytics| events.openai.com  
+[OpenAI](<https://openai.com/policies/privacy-policy/>)| __obi| 1 year| Analytics| chatgpt.com  
+openai.com  
   
 ## Marketing Performance cookies
 
 These cookies help us support and understand the efficacy of our marketing efforts, such as measuring the performance of marketing campaigns to enhance the Services’ visibility.
 
-Source| Cookie name| Duration| Purpose| Domain  
+**Source**| **Cookie name**| **Duration**| **Purpose**| **Domain**  
 ---|---|---|---|---  
 [LinkedIn⁠⁠](<https://www.linkedin.com/legal/l/cookie-table>)| li_fat_id| 30 days| Marketing measurement| openai.com  
 chatgpt.com  
+ads.openai.com  
 [LinkedIn⁠⁠](<https://www.linkedin.com/legal/l/cookie-table>)| lidc| 24 hours| Marketing measurement| openai.com  
 chatgpt.com  
+ads.openai.com  
 [LinkedIn⁠⁠](<https://www.linkedin.com/legal/l/cookie-table>)| li_gc| 6 months| Marketing measurement| openai.com  
 [LinkedIn⁠⁠](<https://www.linkedin.com/legal/l/cookie-table>)| bcookie| 2 years| Marketing measurement| openai.com  
 [LinkedIn⁠⁠](<https://www.linkedin.com/legal/l/cookie-table>)| UserMatchHistory| 30 days| Marketing measurement| openai.com  
 chatgpt.com  
+ads.openai.com  
 [Linkedin⁠⁠](<https://www.linkedin.com/legal/l/cookie-table>)| AnalyticsSyncHistory| 30 days| Marketing measurement| openai.com  
 chatgpt.com  
+ads.openai.com  
 [LinkedIn⁠⁠](<https://www.linkedin.com/legal/l/cookie-table>)| li_sugr| 90 days| Marketing measurement| openai.com  
 chatgpt.com  
+ads.openai.com  
 [Google](<https://policies.google.com/technologies/partner-sites>)⁠⁠⁠| _gcl_au| 90 days| Marketing measurement| openai.com  
 chatgpt.com  
+ads.openai.com  
 [Google](<https://policies.google.com/technologies/partner-sites>)⁠⁠⁠| _gcl_aw| 90 days| Marketing measurement| openai.com  
 chatgpt.com  
+ads.openai.com  
 [Google](<https://policies.google.com/technologies/partner-sites>)⁠⁠⁠| IDE| 24 months| Marketing measurement| openai.com  
 chatgpt.com  
+ads.openai.com  
 [Google](<https://policies.google.com/technologies/partner-sites>)⁠⁠⁠| ANID| 13 months| Marketing measurement| openai.com  
 chatgpt.com  
+ads.openai.com  
 [Google](<https://policies.google.com/technologies/partner-sites>)⁠⁠⁠| NID| 6 months| Marketing measurement| openai.com  
 chatgpt.com  
+ads.openai.com  
 [Google](<https://policies.google.com/technologies/partner-sites>)⁠⁠⁠| gclid| 24 hours| Marketing measurement| openai.com  
 chatgpt.com  
+ads.openai.com  
+[Google](<https://policies.google.com/technologies/partner-sites>)⁠⁠⁠| GBRAID| 24 hours| Marketing measurement| chatgpt.com  
+ads.openai.com  
+[Google](<https://policies.google.com/technologies/partner-sites>)⁠⁠⁠| WBRAID| 24 hours| Marketing measurement| chatgpt.com  
+ads.openai.com  
 [Google](<https://policies.google.com/technologies/partner-sites>)⁠⁠| _glc_de| 90 days| Marketing measurement| openai.com  
 [Google](<https://policies.google.com/technologies/partner-sites>)⁠⁠| _glc_dc| 90 days| Marketing measurement| openai.com  
 [Reddit⁠⁠](<https://www.reddit.com/policies/cookies?rdt=52789>)| rdt_cid| 24 hours| Marketing measurement| chatgpt.com  
+ads.openai.com  
 [Reddit⁠⁠](<https://www.reddit.com/policies/cookies?rdt=52789>)| _rdt_uuid| 90 days| Marketing measurement| openai.com  
 chatgpt.com  
+ads.openai.com  
 [Reddit⁠⁠](<https://www.reddit.com/policies/cookies?rdt=52789>)| rdt_insight| 90 days| Marketing measurement| chatgpt.com  
 [Reddit⁠⁠](<https://www.reddit.com/policies/cookies?rdt=52789>)| rdt_id| 90 days| Marketing measurement| openai.com  
 chatgpt.com  
 [Reddit⁠⁠](<https://www.reddit.com/policies/cookies?rdt=52789>)| lidc| 24 hours| Marketing measurement| openai.com  
 chatgpt.com  
+ads.openai.com  
 [Reddit⁠⁠](<https://www.reddit.com/policies/cookies?rdt=52789>)| _reddit_ads_sync| 30 days| Marketing measurement| openai.com  
 chatgpt.com  
+ads.openai.com  
 [Reddit⁠⁠](<https://www.reddit.com/policies/cookies?rdt=52789>)| _reddit_s_event| 90 days| Marketing measurement| openai.com  
 chatgpt.com  
+ads.openai.com  
 [Reddit⁠⁠](<https://www.reddit.com/policies/cookies?rdt=52789>)| _rdt_cid| 90 days| Marketing measurement| openai.com  
 [TikTok⁠⁠](<https://www.tiktok.com/legal/page/global/tiktok-website-cookies-policy/en>)| _ttp| 13 months| Marketing measurement| chatgpt.com  
 [TikTok⁠⁠](<https://www.tiktok.com/legal/page/global/tiktok-website-cookies-policy/en>)| ttcsid_<pixelID>| 30 minutes| Marketing measurement| chatgpt.com  
@@ -224,18 +241,25 @@ chatgpt.com
 chatgpt.com  
 [Meta⁠](<https://www.facebook.com/privacy/policies/cookies/>)| fbclid| 24 hours| Marketing measurement| openai.com  
 chatgpt.com  
+ads.openai.com  
 [Meta](<https://www.facebook.com/privacy/policies/cookies/?entry_point=cookie_policy_redirect&entry=0>)| _fbp| 90 days| Marketing measurement| openai.com  
 chatgpt.com  
+ads.openai.com  
 [Meta](<https://www.facebook.com/privacy/policies/cookies/?entry_point=cookie_policy_redirect&entry=0>)| _fbc| 90 days| Marketing measurement| openai.com  
 chatgpt.com  
+ads.openai.com  
 [Meta](<https://www.facebook.com/privacy/policies/cookies/?entry_point=cookie_policy_redirect&entry=0>)| fr| 90 days| Marketing measurement| openai.com  
 chatgpt.com  
+ads.openai.com  
 [Meta](<https://www.facebook.com/privacy/policies/cookies/?entry_point=cookie_policy_redirect&entry=0>)| datr| 400 days| Marketing measurement| openai.com  
 chatgpt.com  
+ads.openai.com  
 [Meta](<https://www.facebook.com/privacy/policies/cookies/?entry_point=cookie_policy_redirect&entry=0>)| wd| 7 days| Marketing measurement| openai.com  
 chatgpt.com  
+ads.openai.com  
 [Meta](<https://www.facebook.com/privacy/policies/cookies/?entry_point=cookie_policy_redirect&entry=0>)| sb| 400 days| Marketing measurement| openai.com  
 chatgpt.com  
+ads.openai.com  
 [Bing](<https://learn.microsoft.com/en-us/answers/questions/2289901/purposes-of-bing-cookies>)| MR| 7 days| Marketing measurement| openai.com  
 chatgpt.com  
 [Bing](<https://learn.microsoft.com/en-us/answers/questions/2289901/purposes-of-bing-cookies>)| MSPTC| 180 days| Marketing measurement| openai.com  
@@ -256,7 +280,7 @@ chatgpt.com
 Depending on applicable law, you may be able to choose which cookies are used when using our Services. If you are in a jurisdiction that allows for that control, you can access your cookie settings directly on our various sites. Your web browser may also allow you to manage your cookie preferences, including to delete and disable cookies. You can take a look at the help section of your web browser or follow the links below to understand your options.
 
   * [Chrome⁠(opens in a new window)](<https://support.google.com/chrome/answer/95647?hl=en%E2%81%A0%E2%81%A0>)
-  * [Explorer⁠(opens in a new window)](<https://support.microsoft.com/en-us/help/17442/windows-internet-explorer-delete-manage-cookies%E2%81%A0%E2%81%A0>)
+  * [Edge⁠(opens in a new window)](<https://support.microsoft.com/en-us/edge/manage-cookies-in-microsoft-edge-view-allow-block-delete-and-use>)
   * [Safari⁠(opens in a new window)](<https://support.apple.com/guide/safari/manage-cookies-and-website-data-sfri11471/mac>)
   * [Firefox⁠(opens in a new window)](<https://support.mozilla.org/en-US/kb/cookies-information-websites-store-on-your-computer>)
   * [Opera⁠(opens in a new window)](<https://help.opera.com/en/latest/web-preferences/#cookies%E2%81%A0%E2%81%A0>)
@@ -283,9 +307,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -357,6 +381,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

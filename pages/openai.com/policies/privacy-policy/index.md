@@ -26,6 +26,14 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
+Select language
+
+…
+
+Updated: May 18, 2026
+
+# US privacy policy
+
 1\. Personal Data we collect
 
   * 1\. Personal Data we collect
@@ -44,13 +52,21 @@ OpenAI
 
 
 
-Select language
+  * 1\. Personal Data we collect
+  * 2\. How we use Personal Data
+  * 3\. Disclosure of Personal Data
+  * 4\. Retention
+  * 5\. Data controls
+  * 6\. Your rights
+  * 7\. Children
+  * 8\. Security
+  * 9\. Additional U.S. state disclosures
+  * 10\. Changes to the privacy policy
+  * 11\. Data controller
+  * 12\. How to contact us
+  * 13\. Useful resources
 
-…
 
-Updated: May 18, 2026
-
-# US privacy policy
 
 ([Previous version⁠](<https://openai.com/policies/us-privacy-policy/revisions/2026-04-01/>))  
   
@@ -297,9 +313,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -336,6 +352,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -369,6 +387,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

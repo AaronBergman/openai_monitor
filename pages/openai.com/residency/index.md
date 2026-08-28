@@ -70,7 +70,7 @@ Tyna Eloundou
 
 Dan Mossing, Former OpenAI Resident
 
-## Resident research
+### Resident research
 
 ![A square pattern with green squares in the center that transition to orange squares.](https://images.ctfassets.net/kftzwdyauwt9/373bf52a-5373-4d4e-230d7678254c/e6d514bd3908ce99747c59f686779e2b/improving-mathematical-reasoning-with-process-supervision.jpg?w=3840&q=90&fm=webp)
 

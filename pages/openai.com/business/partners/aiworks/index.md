@@ -38,7 +38,7 @@ OpenAI
 
 Aiworks is an OpenAI partner in Taiwan focused on helping enterprises adopt AI at scale. Evolved from AppWorks School, Aiworks combines AI enablement, workflow discovery, governance, and change management to support successful enterprise adoption of OpenAI solutions. We work with leadership teams, business units, and internal champions to identify high-value use cases, build practical AI capabilities, and drive measurable impact across organizations. Aiworks has supported leading companies across financial services, manufacturing, technology, retail, media, and other industries in their AI transformation journeys.
 
-![Advanced Partner](/images/partner-tier-badges/OAI_PartnerNetwork_AdvancedPartner.svg?dpl=dpl_7297xwZ764mVMEJDxDT2nr35Qnfp)
+![Advanced Partner](/images/partner-tier-badges/OAI_PartnerNetwork_AdvancedPartner.svg?dpl=dpl_BdRxAz7pUvB7ugzpY5eAx7A6JZLM)
 
 Countries served
     Taiwan

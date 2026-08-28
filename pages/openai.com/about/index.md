@@ -63,6 +63,12 @@ Developing safe and beneficial AI requires people from a wide range of disciplin
 
 * * *
 
+[The Hugging Face incident and the road aheadSecurity](</index/hugging-face-incident-and-the-road-ahead/>)
+
+![Pacing model development in an era of cyber-critical capabilities — Card image](https://images.ctfassets.net/kftzwdyauwt9/3tUOfo4E1xZComoOiRjHJm/51c532f25dd4062f92bff0e41ea00c3c/index-pacing-model-development-cyber-capabilities-dark-cover.png?w=3840&q=90&fm=webp)
+
+[Pacing model development in an era of cyber-critical capabilitiesCompany](</index/pacing-model-development-cyber-capabilities/>)
+
 ![math-breakthroughs art-card 1x1](https://images.ctfassets.net/kftzwdyauwt9/2zkd5RIOug4FcEj62mdSF4/3ea9e19c0456289c69f0d839cc929cb2/math-breakthroughs_art-card_1x1.png?w=3840&q=90&fm=webp)
 
 [Ten advances in mathematics and theoretical computer sciencePublication](</index/ten-advances-in-mathematics/>)
@@ -70,14 +76,6 @@ Developing safe and beneficial AI requires people from a wide range of disciplin
 ![ARC-AGI-3 art-card 1x1](https://images.ctfassets.net/kftzwdyauwt9/71xyJRWnTkM6EW1JKDUc59/91d2690ff9e7abaa975b4a5f64089056/ARC-AGI-3_art-card_1x1.png?w=3840&q=90&fm=webp)
 
 [How enabling two settings tripled our scores on the ARC-AGI-3 benchmarkResearch](</index/how-two-settings-tripled-our-arc-agi-3-scores/>)
-
-![oai Science Academic Research Academic Research 1x1](https://images.ctfassets.net/kftzwdyauwt9/59kTmFmujYzNh0VgSvCgwe/e9334dd9944b5309f8ca2d44fdc71b6f/academic-research-card.png?w=3840&q=90&fm=webp)
-
-[Accelerating scientific discovery with ChatGPT for Academic ResearchersCompany](</index/chatgpt-for-academic-researchers/>)
-
-![Scientific computing agentic AI card image \(1x1\)](https://images.ctfassets.net/kftzwdyauwt9/5opqp3rNWM7eax6GUc6MAl/1c710a4aba8c5c1e0b7d1c1c7c8b32db/1x1__1_.png?w=3840&q=90&fm=webp)
-
-[Scientific computing in the age of agentic AIPublication](</index/scientific-computing-agentic-ai/>)
 
   * [Read more](</news/company-announcements/>)
 

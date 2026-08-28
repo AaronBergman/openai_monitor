@@ -26,14 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Custom instructions
-
-  * Custom instructions
-  * Memory
-  * Other tools
-
-
-
 April 10, 2026
 
 OpenAI Academy
@@ -45,6 +37,20 @@ Customize ChatGPT’s behavior with instructions and memory to fit your needs.
 Loading…
 
 Share
+
+Custom instructions
+
+  * Custom instructions
+  * Memory
+  * Other tools
+
+
+
+  * Custom instructions
+  * Memory
+  * Other tools
+
+
 
 ChatGPT works best when you treat it less like a search box and more like a collaborator. It’s a new kind of tool—one that responds in a conversational way, can take on a “personality,” and adapts based on the guidance you give it. The more context and direction you provide, the more useful (and consistent) it becomes.
 
@@ -107,15 +113,15 @@ Discover additional guides and resources to help you build practical AI skills.
 
 ![Academy > Using files > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/7FdLCJL2BCjS8ef2BJ8rG0/8307b0a6be94e0333b43dbed5b93d187/using-files.png?w=3840&q=90&fm=webp)
 
-[Working with files in ChatGPTOpenAI AcademyApr 10, 2026](</academy/working-with-files/>)
+[Working with files in ChatGPT | OpenAIOpenAI AcademyApr 10, 2026](</academy/working-with-files/>)
 
 ![Academy > Search and deep research > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/6vCtWVZH9dyolSQQhXzGyx/686abd0c6c92eb96129cb71f6ab7917e/search-deep-research.png?w=3840&q=90&fm=webp)
 
-[Research with ChatGPTOpenAI AcademyApr 10, 2026](</academy/search-and-deep-research/>)
+[Research with ChatGPT | OpenAIOpenAI AcademyApr 10, 2026](</academy/search-and-deep-research/>)
 
 ![Academy > Image generation > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/4as9dmBmMnIulWoUEIBsOj/2441164935c8d325daa552d91c71f131/image-creation.png?w=3840&q=90&fm=webp)
 
-[Creating images with ChatGPTOpenAI AcademyApr 10, 2026](</academy/image-generation/>)
+[Creating images with ChatGPT | OpenAIOpenAI AcademyApr 10, 2026](</academy/image-generation/>)
 
 Research
 
@@ -127,9 +133,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -166,6 +172,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -199,6 +207,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

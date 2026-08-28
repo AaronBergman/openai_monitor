@@ -42,7 +42,7 @@ Share
 
 We are continually making improvements to ChatGPT and are supporting the essential role of the news industry in delivering real-time, authoritative information to users. We’re excited to announce partnerships with **Le Monde** and **Prisa Media** along with its publications like El País, Cinco Días, As, and El Huffpost. Our partnerships will enable ChatGPT users to engage with Le Monde and Prisa Media’s high-quality content on recent events in ChatGPT, and their content will also contribute to the training of our models. 
 
-**Brad Lightcap, COO of OpenAI,** said, "We're dedicated to supporting journalism by applying new AI technologies and enhancing opportunities for content creators. In partnership with Le Monde and Prisa Media, our goal is to enable ChatGPT users around the world to connect with the news in new ways that are interactive and insightful.”
+**Brad Lightcap, COO of OpenAI,** said, "We’re dedicated to supporting journalism by applying new AI technologies and enhancing opportunities for content creators. In partnership with Le Monde and Prisa Media, our goal is to enable ChatGPT users around the world to connect with the news in new ways that are interactive and insightful.”
 
 > “In partnership with Le Monde and Prisa Media, our goal is to enable ChatGPT users around the world to connect with the news in new ways that are interactive and insightful.”
 

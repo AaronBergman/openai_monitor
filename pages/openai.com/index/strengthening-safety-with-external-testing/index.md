@@ -26,6 +26,18 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
+November 19, 2025
+
+[Safety](</news/safety-alignment/>)
+
+# Strengthening our safety ecosystem with external testing
+
+Our approach to third party assessments for frontier AI.
+
+Loading…
+
+Share
+
 Why is this important? 
 
   * Why is this important? 
@@ -38,17 +50,15 @@ Why is this important?
 
 
 
-November 19, 2025
+  * Why is this important? 
+  * Independent evaluations by external labs
+  * Methodology review
+  * Subject-matter expert (SME) probing
+  * What makes a third party assessment collaboration successful?
+  * Looking ahead
+  * Appendix
 
-[Safety](</news/safety-alignment/>)
 
-# Strengthening our safety ecosystem with external testing
-
-Our approach to third party assessments for frontier AI.
-
-Loading…
-
-Share
 
 At OpenAI, we believe that independent, trusted third party assessments play a critical role in strengthening the safety ecosystem of frontier AI. Third party assessments are evaluations conducted on frontier models to confirm or provide additional evidence to claims about critical safety capabilities and mitigations. These evaluations help validate safety claims, protect against blind spots, and increase transparency around capabilities and risks. By inviting external experts to test our frontier models, we also aim to foster trust in the depth of our capability evaluations and safeguards, and help uplift the broader safety ecosystem.
 
@@ -151,17 +161,15 @@ Helpful-only models answer any request, even if the request is harmful. These ar
 
 [View all](</news/>)
 
-![oai 1x1](https://images.ctfassets.net/kftzwdyauwt9/7eONRWq61MKUix4tK4t88Y/170085acc9b241a0bdfba429bd217907/oai_1x1.png?w=3840&q=90&fm=webp)
+[The Hugging Face incident and the road aheadSecurityAug 26, 2026](</index/hugging-face-incident-and-the-road-ahead/>)
 
-[Advancing youth safety and opportunity through global leadershipGlobal AffairsJun 2, 2026](</index/advancing-youth-safety-and-opportunity-through-global-leadership/>)
+![Our commitment to Zero Data Retention as AI advances — card](https://images.ctfassets.net/kftzwdyauwt9/6bPStWA6pc66cahnhg0jo6/61786b178401b6e902e9da65fa4da095/Blog_Thumbnail_-_OpenAI_Blog.png?w=3840&q=90&fm=webp)
 
-![Technical foundations > Art Card](https://images.ctfassets.net/kftzwdyauwt9/6gugGfSiM1oO6UHxxwnqTk/c7173a5a2c096a8f8a24c258ddfa22dd/ArtCard-TechnicalFoundations.png?w=3840&q=90&fm=webp)
+[Offering Zero Data Retention for frontier modelsCompanyAug 19, 2026](</index/offering-zero-data-retention-for-frontier-models/>)
 
-[A shared playbook for trustworthy third party evaluationsSafetyMay 29, 2026](</index/trustworthy-third-party-evaluations-foundations/>)
+![ChatGPT for Teens — square card](https://images.ctfassets.net/kftzwdyauwt9/5IP7e1KeD8zkZq6YUrKdKW/2325215681ea59d32dd09b3ea90f12c5/Art_Card-TEENS-1x13x.png?w=3840&q=90&fm=webp)
 
-![Frontier Governance Framework > card image ](https://images.ctfassets.net/kftzwdyauwt9/2KoiHuErR5YxXGUnhCU8VY/e392c6249ec4644e07e944edea22e837/Frame2.png?w=3840&q=90&fm=webp)
-
-[OpenAI’s Frontier Governance FrameworkSafetyMay 28, 2026](</index/openai-frontier-governance-framework/>)
+[Introducing ChatGPT for TeensProductAug 18, 2026](</index/chatgpt-for-teens/>)
 
 Research
 
@@ -173,9 +181,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -212,6 +220,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -245,6 +255,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

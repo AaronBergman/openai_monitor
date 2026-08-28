@@ -26,14 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Safety
-
-  * Safety
-  * Pricing
-  * Get started
-
-
-
 April 23, 2025
 
 [Product](</news/product-releases/>)
@@ -45,6 +37,20 @@ April 23, 2025
 Loading…
 
 Share
+
+Safety
+
+  * Safety
+  * Pricing
+  * Get started
+
+
+
+  * Safety
+  * Pricing
+  * Get started
+
+
 
 When we introduced image generation in ChatGPT last month, it quickly became one of our most popular features: over 130 million users around the world created more than 700 million images in just the [_first week_ ⁠(opens in a new window)](<https://www.linkedin.com/posts/bradlightcap_very-crazy-first-week-for-images-in-chatgpt-activity-7313616345667878912-RBzt/>).
 
@@ -111,9 +117,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -150,6 +156,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -183,6 +191,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

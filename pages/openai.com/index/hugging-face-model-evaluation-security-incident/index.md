@@ -50,7 +50,7 @@ What happened during this incident
 
 
 
- _We are conducting a thorough review along with external advisors and with oversight from the Safety and Security Committee. Once the review is complete, we will publish a technical report of our learnings in the coming weeks._
+ _**Update on August 26, 2026:**_ Read [our findings from the Hugging Face incident⁠](</index/hugging-face-incident-and-the-road-ahead/>) and the steps we’re taking to strengthen security and model alignment.
 
 **_Update on July 29, 2026:_**
 

@@ -26,17 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Origin of the App Server
-
-  * Origin of the App Server
-  * Inside the Codex harness
-  * The conversation primitives
-  * Integrating with clients
-  * Choosing the right protocol
-  * Taking this forward
-
-
-
 February 4, 2026
 
 [Engineering](</news/engineering/>)
@@ -46,6 +35,46 @@ February 4, 2026
 By Celia Chen, Member of the Technical Staff
 
 Loading…
+
+Origin of the App Server
+
+  * Origin of the App Server
+  * Inside the Codex harness
+  * The conversation primitives
+  * Integrating with clients
+    * Local Apps & IDEs
+    * Codex Web
+    * TUI/Codex CLI
+  * Choosing the right protocol
+    * JSON-RPC protocols
+      * Codex as an MCP server
+      * Cross-provider agent harness protocols
+      * Codex App Server
+    * Other ways to Embed Codex
+      * Codex Exec
+      * Codex SDK
+  * Taking this forward
+
+
+
+  * Origin of the App Server
+  * Inside the Codex harness
+  * The conversation primitives
+  * Integrating with clients
+    * Local Apps & IDEs
+    * Codex Web
+    * TUI/Codex CLI
+  * Choosing the right protocol
+    * JSON-RPC protocols
+      * Codex as an MCP server
+      * Cross-provider agent harness protocols
+      * Codex App Server
+    * Other ways to Embed Codex
+      * Codex Exec
+      * Codex SDK
+  * Taking this forward
+
+
 
 OpenAI’s coding agent Codex exists across many different surfaces: [the web app⁠(opens in a new window)](<https://chatgpt.com/codex>), [the CLI⁠(opens in a new window)](<https://github.com/openai/codex>), [the IDE extension⁠(opens in a new window)](<https://developers.openai.com/codex/ide/>), and [the new Codex macOS app](</index/introducing-the-codex-app/>). Under the hood, they’re all powered by the same Codex harness—the agent loop and logic that underlies all Codex experiences. The critical link between them? The [Codex App Server⁠(opens in a new window)](<https://developers.openai.com/codex/app-server>), a client-friendly, bidirectional JSON-RPC1 API.
 
@@ -250,7 +279,7 @@ For other languages, you can generate a JSON Schema bundle and feed it into your
 
 `
 
-##### Local Apps & IDEs
+#### Local Apps & IDEs
 
 ![Screenshot of VS Code with the Codex extension running. A Rust test file is open, and below it the Codex panel describes running just fmt and cargo test -p codex-app-server, reporting that formatting and tests are in progress while awaiting a final pass/fail result.](https://images.ctfassets.net/kftzwdyauwt9/46bjlIFmumPZzRomG8CXUd/214fc14abb82d59a11a29926524a585f/OAI_Unlocking_the_Codex_harness_Codex_integration_in_VS_Code.png?w=3840&q=90&fm=webp)
 
@@ -258,7 +287,7 @@ Local clients typically bundle or fetch a platform-specific App Server binary, l
 
 Not every integration can ship client updates frequently. Some partners like Xcode decouple release cycles by keeping the client stable and allowing it to point to a newer App Server binary when needed. That way they can adopt server-side improvements (for example, better auto-compaction in Codex core or newly supported config keys) and roll out bug fixes without waiting for a client release. The App Server’s JSON-RPC surface is designed to be backward compatible, so older clients can talk to newer servers safely.
 
-##### Codex Web
+#### Codex Web
 
 ![Screenshot of a Codex web interface showing an update titled “Update login success message.” The left panel summarizes changes, tests, and modified files, while the right panel displays a code diff for login.rs with updated login success message phrasing.](https://images.ctfassets.net/kftzwdyauwt9/2DuXipFbMbPQy01hANRb72/28c8330864f1111b3561339d59221ed9/OAI_Unlocking_the_Codex_harness_Codex_web.png?w=3840&q=90&fm=webp)
 
@@ -266,7 +295,7 @@ Codex Web uses the Codex harness, but runs it in a container environment. A work
 
 Because web sessions are ephemeral (tabs close, networks drop), the web app cannot be the source of truth for long-running tasks. Keeping state and progress on the server means work continues even if the tab disappears. The streaming protocol and saved thread sessions make it easy for a new session to reconnect, pick up where it left off, and catch up without rebuilding state in the client.
 
-##### TUI/Codex CLI
+#### TUI/Codex CLI
 
 ![Screenshot of a terminal running the Codex CLI. It shows the OpenAI Codex banner with model gpt-5.2-codex medium, a user command “explain app server to me,” and a “Working” status. Below, a suggestion appears: “write tests for @filename,” with options for shortcuts.](https://images.ctfassets.net/kftzwdyauwt9/3jOA1oFRDJ8qbotZnCvlV6/c899a5997d295f2b820bde4f003afdbd/OAI_Unlocking_the_Codex_harness_Codex_CLI.png?w=3840&q=90&fm=webp)
 
@@ -278,27 +307,27 @@ Now that the App Server exists, we plan to [refactor the TUI⁠(opens in a new w
 
 Codex App Server will be the first-class integration method we maintain moving forward, but there are also other methods with more limited functionality. By default, we’d recommend that clients use Codex App Server to integrate with Codex, but it’s worth taking a look at different integration methods and understanding their pros and cons. Below are the most common ways to drive Codex and when each might be a good fit.
 
-#### JSON-RPC protocols
+### JSON-RPC protocols
 
-##### Codex as an MCP server
+#### Codex as an MCP server
 
 Run [`codex mcp-server`⁠(opens in a new window)](<https://developers.openai.com/codex/guides/agents-sdk/>) and connect from any MCP client that supports stdio servers (e.g., [OpenAI Agents SDK⁠(opens in a new window)](<https://openai.github.io/openai-agents-js/>)). This is a good fit if you already have an MCP-based workflow and want to invoke Codex as a callable tool. The downside is that you only get what MCP exposes, so Codex-specific interactions that rely on richer session semantics (e.g., diff updates) may not map cleanly through MCP endpoints.
 
-##### Cross-provider agent harness protocols
+#### Cross-provider agent harness protocols
 
 Some ecosystems offer a portable interface that can target multiple model providers and runtimes. This can be a good fit if you want one abstraction that coordinates multiple agents. The tradeoff is that these protocols often converge on the common subset of capabilities, which can make richer interactions harder to represent, especially when provider-specific tool and session semantics matter. This space is evolving quickly, and we expect that more common standards will emerge as we figure out the best primitives to represent real-world agent workflows ([skills⁠(opens in a new window)](<https://agentskills.io/home>) is a good example of this).
 
-##### Codex App Server
+#### Codex App Server
 
 Choose the App Server when you want the full Codex harness exposed as a stable, UI-friendly event stream. You get both the full functionality of the agent loop and other supporting features like Sign in with ChatGPT, model discovery, and configuration management. The main cost is integration work, since you need to build the client-side JSON-RPC binding in your language. In practice, however, Codex is able to do a lot of the heavy lifting if you feed it the JSON schema and documentation. Many teams we worked with were able to make to a working integration quickly using Codex.
 
-#### Other ways to Embed Codex
+### Other ways to Embed Codex
 
-##### [Codex Exec⁠(opens in a new window)](<https://developers.openai.com/codex/cli/reference/#codex-exec>)
+#### [Codex Exec⁠(opens in a new window)](<https://developers.openai.com/codex/cli/reference/#codex-exec>)
 
 A lightweight, scriptable CLI mode for one-off tasks and CI runs. It’s a good fit for automation and pipelines where you want a single command to run to completion non-interactively, stream structured output for logs, and exit with a clear success or failure signal.
 
-##### [Codex SDK⁠(opens in a new window)](<https://developers.openai.com/codex/sdk/>)
+#### [Codex SDK⁠(opens in a new window)](<https://developers.openai.com/codex/sdk/>)
 
 A TypeScript library for programmatically controlling local Codex agents from within your own application. It’s best when you want a native library interface for server-side tools and workflows without building a separate JSON-RPC client. Since it shipped earlier than the App Server, it currently supports fewer languages and a smaller surface area. If there is developer interest, we may add additional SDKs that wrap the App Server protocol so teams can cover more of the harness surface without writing JSON-RPC bindings.
 
@@ -338,17 +367,17 @@ We use a “JSON‑RPC lite” variant: it keeps the request/response/notificati
 
 [View all](</news/>)
 
-![Tax Agent > Art Card](https://images.ctfassets.net/kftzwdyauwt9/6ojJ6B55QUlmNdaLifgMkQ/22e429ec7b3fdd119a2499358af899b7/Art_Card.png?w=3840&q=90&fm=webp)
+![Jalapeño inference — Art Card](https://images.ctfassets.net/kftzwdyauwt9/26K8mLbrpbaDvoFY0NrE04/8e4ad0b3f28042c22d6d5130bd4f4019/jalapeno-art-card.png?w=3840&q=90&fm=webp)
 
-[Building self-improving tax agents with CodexEngineeringMay 27, 2026](</index/building-self-improving-tax-agents-with-codex/>)
+[Jalapeño’s first results show industry-leading speed and efficiency in AI inferenceEngineeringAug 25, 2026](</index/jalapeno-first-results/>)
 
-![codex windows > art card](https://images.ctfassets.net/kftzwdyauwt9/6ZvTl8ZL23BOhoI6jz0EmR/49d6038b9f92773d4f866f4bfacabdbf/Art_Card__5_.png?w=3840&q=90&fm=webp)
+![Continuous voice interaction with GPT Live - art card](https://images.ctfassets.net/kftzwdyauwt9/3PyfDzfjOozLbJnaZIkRLD/6aef080bb4e7d6a6b8a6dc23436848db/gpt-live-art-card.png?w=3840&q=90&fm=webp)
 
-[Building a safe, effective sandbox to enable Codex on WindowsEngineeringMay 13, 2026](</index/building-codex-windows-sandbox/>)
+[Continuous voice interaction with GPT LiveEngineeringAug 3, 2026](</index/continuous-voice-interaction-with-gpt-live/>)
 
-![MRC 1_1](https://images.ctfassets.net/kftzwdyauwt9/IRqiqOUeNlFne8NPTbELM/9ab024f4581e7065eaf42aa18d14b724/Art_Card.png?w=3840&q=90&fm=webp)
+![GPT-5.6 efficiency article — art card](https://images.ctfassets.net/kftzwdyauwt9/5ExPWhZDZXbZgTHE7aeE5d/0526071f749a3b44adff3c45a12322b7/How_GPT-5.6_fuses_frontier_intelligence_with_frontier_efficiency_ART_CARD__1_.png?w=3840&q=90&fm=webp)
 
-[Supercomputer networking to accelerate large scale AI trainingEngineeringMay 5, 2026](</index/mrc-supercomputer-networking/>)
+[How GPT-5.6 fuses frontier intelligence with frontier efficiencyEngineeringJul 29, 2026](</index/gpt-5-6-frontier-intelligence-efficiency/>)
 
 Research
 
@@ -360,9 +389,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -399,6 +428,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -432,6 +463,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

@@ -98,7 +98,7 @@ Explore proven ways to apply AI across your organization—built to fit how your
 
 [RetailDeliver better shopping experiences.](</solutions/industries/retail/>)
 
-![A woman smiles while typing on a laptop as she speaks with a man seated across from her at a desk, with papers spread out in a busy office environment.](https://images.ctfassets.net/kftzwdyauwt9/5hUbKlAi71npWnxgYgWya1/ec53c89c3491bed93290ddff1ae7f67d/image__9_-1x1.png?w=3840&q=90&fm=webp)
+![Three colleagues collaborate around a laptop and documents in an office with a world map in the background.](https://images.ctfassets.net/kftzwdyauwt9/58Z3FVzE5RBuiCdDvAu5AL/6bbf05f04d5da1b3f9a84347e532b745/Generated_image_1__2_.png?w=3840&q=90&fm=webp)
 
 [GovernmentSupport essential public services.](</solutions/industries/government/>)
 
@@ -106,7 +106,7 @@ Explore proven ways to apply AI across your organization—built to fit how your
 
 [EducationEmpower students, educators, and researchers.](</business/solutions/education/>)
 
-## Blueprints
+### Blueprints
 
 ![MCPKit > Cover image](https://images.ctfassets.net/kftzwdyauwt9/3dPHv7wBWSleh1Zlwdtjzp/98a7ad90806109dc245dc23c5c532040/MCPKit_Hero.png?w=3840&q=90&fm=webp)
 

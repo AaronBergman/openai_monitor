@@ -26,6 +26,14 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
+May 21, 2025
+
+[Product](</news/product-releases/>)
+
+# New tools and features in the Responses API
+
+Loading…
+
 New remote MCP server support
 
   * New remote MCP server support
@@ -35,13 +43,12 @@ New remote MCP server support
 
 
 
-May 21, 2025
+  * New remote MCP server support
+  * Updates to image generation, Code Interpreter, and file search
+  * New features in the Responses API
+  * Pricing and availability
 
-[Product](</news/product-releases/>)
 
-# New tools and features in the Responses API
-
-Loading…
 
 Today, we’re adding new built-in tools to the Responses API—our core API primitive for building agentic applications. This includes support for all [_remote Model Context Protocol (MCP) servers_ ⁠(opens in a new window)](<https://platform.openai.com/docs/guides/tools-remote-mcp>), as well as tools like [_image generation_ ⁠(opens in a new window)](<https://platform.openai.com/docs/guides/image-generation?image-generation-model=gpt-image-1#generate-images>), [_Code Interpreter_ ⁠(opens in a new window)](<https://platform.openai.com/docs/guides/tools-code-interpreter>), and improvements to [_file search_ ⁠(opens in a new window)](<https://platform.openai.com/docs/guides/tools-file-search>). These tools are available across our GPT‑4o series, GPT‑4.1 series, and OpenAI o-series reasoning models. o3 and o4-mini can now call tools and functions directly within their chain-of-thought in the Responses API, producing answers that are more contextually rich and relevant. Using o3 and o4-mini with the Responses API preserves reasoning tokens across requests and tool calls, improving model intelligence and reducing the cost and latency for developers.
 
@@ -289,9 +296,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -328,6 +335,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -361,6 +370,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

@@ -26,6 +26,18 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
+May 27, 2026
+
+[Engineering](</news/engineering/>)
+
+# Building self-improving tax agents with Codex
+
+By Members of Technical Staff: Aravind Srinivasan & Samay Shamdasani (Thrive Holdings), Arthur Fernandes Araujo & John de Wasseige (OpenAI)
+
+Loading…
+
+Share
+
 Measurable self-improvement
 
   * Measurable self-improvement
@@ -40,17 +52,17 @@ Measurable self-improvement
 
 
 
-May 27, 2026
+  * Measurable self-improvement
+  * The problem
+  * Our approach: a three-part loop
+  * Rental property example
+  * 1\. A practitioner correction reveals a failure
+  * 2\. Product traces turn corrections into evals
+  * 3\. The finding becomes a hill to climb for Codex
+  * How to use Codex to build this loop
+  * Expanding to new domains
 
-[Engineering](</news/engineering/>)
 
-# Building self-improving tax agents with Codex
-
-By Members of Technical Staff: Aravind Srinivasan & Samay Shamdasani (Thrive Holdings), Arthur Fernandes Araujo & John de Wasseige (OpenAI)
-
-Loading…
-
-Share
 
  _How Thrive Holdings and OpenAI co-developed Tax AI for Crete accountants by fusing practitioner expertise with a Codex-driven loop_
 
@@ -329,17 +341,17 @@ Aravind Srinivasan, Samay Shamdasani, Arthur Fernandes Araujo, John de Wasseige
 
 [View all](</news/>)
 
-![codex windows > art card](https://images.ctfassets.net/kftzwdyauwt9/6ZvTl8ZL23BOhoI6jz0EmR/49d6038b9f92773d4f866f4bfacabdbf/Art_Card__5_.png?w=3840&q=90&fm=webp)
+![Jalapeño inference — Art Card](https://images.ctfassets.net/kftzwdyauwt9/26K8mLbrpbaDvoFY0NrE04/8e4ad0b3f28042c22d6d5130bd4f4019/jalapeno-art-card.png?w=3840&q=90&fm=webp)
 
-[Building a safe, effective sandbox to enable Codex on WindowsEngineeringMay 13, 2026](</index/building-codex-windows-sandbox/>)
+[Jalapeño’s first results show industry-leading speed and efficiency in AI inferenceEngineeringAug 25, 2026](</index/jalapeno-first-results/>)
 
-![MRC 1_1](https://images.ctfassets.net/kftzwdyauwt9/IRqiqOUeNlFne8NPTbELM/9ab024f4581e7065eaf42aa18d14b724/Art_Card.png?w=3840&q=90&fm=webp)
+![Continuous voice interaction with GPT Live - art card](https://images.ctfassets.net/kftzwdyauwt9/3PyfDzfjOozLbJnaZIkRLD/6aef080bb4e7d6a6b8a6dc23436848db/gpt-live-art-card.png?w=3840&q=90&fm=webp)
 
-[Supercomputer networking to accelerate large scale AI trainingEngineeringMay 5, 2026](</index/mrc-supercomputer-networking/>)
+[Continuous voice interaction with GPT LiveEngineeringAug 3, 2026](</index/continuous-voice-interaction-with-gpt-live/>)
 
-![How OpenAI delivers low-latency voice AI at scale > art card](https://images.ctfassets.net/kftzwdyauwt9/3ZT7WZXrDjX1tFlLjcTPXp/07d42ee6cc762208896f09c385853359/Voice_AI__art_card.png?w=3840&q=90&fm=webp)
+![GPT-5.6 efficiency article — art card](https://images.ctfassets.net/kftzwdyauwt9/5ExPWhZDZXbZgTHE7aeE5d/0526071f749a3b44adff3c45a12322b7/How_GPT-5.6_fuses_frontier_intelligence_with_frontier_efficiency_ART_CARD__1_.png?w=3840&q=90&fm=webp)
 
-[How OpenAI delivers low-latency voice AI at scaleEngineeringMay 4, 2026](</index/delivering-low-latency-voice-ai-at-scale/>)
+[How GPT-5.6 fuses frontier intelligence with frontier efficiencyEngineeringJul 29, 2026](</index/gpt-5-6-frontier-intelligence-efficiency/>)
 
 Research
 
@@ -351,9 +363,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -390,6 +402,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -423,6 +437,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

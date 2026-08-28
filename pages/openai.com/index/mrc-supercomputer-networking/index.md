@@ -26,6 +26,16 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
+May 5, 2026
+
+[Engineering](</news/engineering/>)
+
+# Supercomputer networking to accelerate large scale AI training
+
+Loading…
+
+Share
+
 Why networks needed a new design
 
   * Why networks needed a new design
@@ -40,15 +50,17 @@ Why networks needed a new design
 
 
 
-May 5, 2026
+  * Why networks needed a new design
+  * Our answer: MRC
+  * The foundation: Multi-plane networks
+  * MRC’s shift: Spraying packets across hundreds of paths
+  * Replacing dynamic routing with source routing
+  * Stargate supercomputer built by Oracle Cloud Infrastructure (OCI) in Abilene, Texas
+  * What this looks like in production
+  * Key improvements
+  * Opening the protocol
 
-[Engineering](</news/engineering/>)
 
-# Supercomputer networking to accelerate large scale AI training
-
-Loading…
-
-Share
 
 Frontier model training depends on reliable supercomputer networks that can quickly move data between GPUs. To make this faster and more efficient, OpenAI has partnered with AMD, Broadcom, Intel, Microsoft, and NVIDIA to develop MRC (Multipath Reliable Connection): a novel protocol that improves GPU networking performance and resilience in large training clusters. We [_released MRC today_ ⁠(opens in a new window)](<https://www.opencompute.org/documents/ocp-mrc-1-0-pdf>) through the Open Compute Project (OCP) to enable the broader industry to use it. 
 
@@ -180,17 +192,17 @@ Cross-industry collaboration will continue to be essential to solving many of AI
 
 [View all](</news/>)
 
-![Tax Agent > Art Card](https://images.ctfassets.net/kftzwdyauwt9/6ojJ6B55QUlmNdaLifgMkQ/22e429ec7b3fdd119a2499358af899b7/Art_Card.png?w=3840&q=90&fm=webp)
+![Jalapeño inference — Art Card](https://images.ctfassets.net/kftzwdyauwt9/26K8mLbrpbaDvoFY0NrE04/8e4ad0b3f28042c22d6d5130bd4f4019/jalapeno-art-card.png?w=3840&q=90&fm=webp)
 
-[Building self-improving tax agents with CodexEngineeringMay 27, 2026](</index/building-self-improving-tax-agents-with-codex/>)
+[Jalapeño’s first results show industry-leading speed and efficiency in AI inferenceEngineeringAug 25, 2026](</index/jalapeno-first-results/>)
 
-![codex windows > art card](https://images.ctfassets.net/kftzwdyauwt9/6ZvTl8ZL23BOhoI6jz0EmR/49d6038b9f92773d4f866f4bfacabdbf/Art_Card__5_.png?w=3840&q=90&fm=webp)
+![Continuous voice interaction with GPT Live - art card](https://images.ctfassets.net/kftzwdyauwt9/3PyfDzfjOozLbJnaZIkRLD/6aef080bb4e7d6a6b8a6dc23436848db/gpt-live-art-card.png?w=3840&q=90&fm=webp)
 
-[Building a safe, effective sandbox to enable Codex on WindowsEngineeringMay 13, 2026](</index/building-codex-windows-sandbox/>)
+[Continuous voice interaction with GPT LiveEngineeringAug 3, 2026](</index/continuous-voice-interaction-with-gpt-live/>)
 
-![How OpenAI delivers low-latency voice AI at scale > art card](https://images.ctfassets.net/kftzwdyauwt9/3ZT7WZXrDjX1tFlLjcTPXp/07d42ee6cc762208896f09c385853359/Voice_AI__art_card.png?w=3840&q=90&fm=webp)
+![GPT-5.6 efficiency article — art card](https://images.ctfassets.net/kftzwdyauwt9/5ExPWhZDZXbZgTHE7aeE5d/0526071f749a3b44adff3c45a12322b7/How_GPT-5.6_fuses_frontier_intelligence_with_frontier_efficiency_ART_CARD__1_.png?w=3840&q=90&fm=webp)
 
-[How OpenAI delivers low-latency voice AI at scaleEngineeringMay 4, 2026](</index/delivering-low-latency-voice-ai-at-scale/>)
+[How GPT-5.6 fuses frontier intelligence with frontier efficiencyEngineeringJul 29, 2026](</index/gpt-5-6-frontier-intelligence-efficiency/>)
 
 Research
 
@@ -202,9 +214,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -241,6 +253,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -274,6 +288,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

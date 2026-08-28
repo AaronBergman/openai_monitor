@@ -37,54 +37,30 @@ Share
 Case studies
 
   * Case studies
-
     * Somatic oncology: Structural variant-guided tumor therapy benefit-risk decision
-
     * Functional genomics: CRISPR target validation: lncRNA transcript or genomic locus?
-
     * Statistical genetics: Prioritizing protein drug targets in a linked genetic locus
-
     * Clinical genomics / carrier screening: DRX1 carrier-screening residual risk under CNV and pseudogene calibration
-
     * Single-cell genomics: Activated-monocyte eQTL after ambient RNA correction
-
     * Structural genetics: Nested structural variant: expression support and clinical association
-
     * Regulatory genomics: Measuring chromatin loop strength after structural-variant and mapping artifact masking
-
     * Statistical genetics: Multi-parent QTL mapping with founder reconstruction
-
     * Population genetics: Parent-specific ancestry and recent admixture timing
-
     * Population genetics: Estimating selection from noisy ancient-DNA time series
 
 
-
-
-Table of contents
 
   * Case studies
-
     * Somatic oncology: Structural variant-guided tumor therapy benefit-risk decision
-
     * Functional genomics: CRISPR target validation: lncRNA transcript or genomic locus?
-
     * Statistical genetics: Prioritizing protein drug targets in a linked genetic locus
-
     * Clinical genomics / carrier screening: DRX1 carrier-screening residual risk under CNV and pseudogene calibration
-
     * Single-cell genomics: Activated-monocyte eQTL after ambient RNA correction
-
     * Structural genetics: Nested structural variant: expression support and clinical association
-
     * Regulatory genomics: Measuring chromatin loop strength after structural-variant and mapping artifact masking
-
     * Statistical genetics: Multi-parent QTL mapping with founder reconstruction
-
     * Population genetics: Parent-specific ancestry and recent admixture timing
-
     * Population genetics: Estimating selection from noisy ancient-DNA time series
-
 
 
 
@@ -933,9 +909,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -1007,6 +983,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

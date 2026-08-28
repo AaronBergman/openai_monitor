@@ -33,28 +33,18 @@ Published: April 24, 2026
 Civil requests for user data in the United States
 
   * Civil requests for user data in the United States
-
   * Civil requests related to users located in the EEA and Switzerland
-
   * Requirements for all civil legal process
-
   * Contractual notices are different
-
   * Disclaimer
-
 
 
 
   * Civil requests for user data in the United States
-
   * Civil requests related to users located in the EEA and Switzerland
-
   * Requirements for all civil legal process
-
   * Contractual notices are different
-
   * Disclaimer
-
 
 
 
@@ -207,6 +197,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

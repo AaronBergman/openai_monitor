@@ -11,7 +11,7 @@ Skip to main content
 
 
 
-Log in[Start building(opens in a new window)](<https://platform.openai.com/?utm_internal_source=openai_api>)
+Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
   * Research
   * Products
@@ -22,13 +22,15 @@ Log in[Start building(opens in a new window)](<https://platform.openai.com/?utm_
 
 
 
-[Start building(opens in a new window)](<https://platform.openai.com/?utm_internal_source=openai_api>)Login
+[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)Login
 
 OpenAI
 
 # Build leading AI products on OpenAI’s platform
 
-[Contact sales](</contact-sales/>)[Start building(opens in a new window)](<https://platform.openai.com/?utm_internal_source=openai_api>)
+[Contact sales](</contact-sales/>)
+
+Start building
 
 ## Powered by our frontier models
 

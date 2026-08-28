@@ -50,8 +50,6 @@ What was your first meaningful encounter with AI, and how did it influence the c
 
 
 
-Table of contents
-
   * What was your first meaningful encounter with AI, and how did it influence the creation of Model ML?
   * What are you seeing change inside financial services firms?
   * How does Model ML stand out compared to general-purpose AI tools, and how are new model capabilities benefiting your customers?
@@ -152,9 +150,9 @@ OpenAI
 
 [How CRED is tapping AI to deliver premium customer experiencesAPINov 5, 2025](</index/cred-swamy-seetharaman/>)
 
-![OpenAI on OpenAI: A research assistant > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/7sBOamDxRfxNSL8Kv6H4lJ/ece52c8dbeb7b5204903d875f2573b8c/Research_Assistant_-_Website_Stories_Post_-_1x1__1_.png?w=3840&q=90&fm=webp)
+![OpenAI on OpenAI: User Support > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/76CnrtKKvngPIfdfXYcXG8/cb789b59d9f7dd8e3b385b532be76a77/oai_SupportAgent_1x1.png?w=3840&q=90&fm=webp)
 
-[Empowering teams to unlock insights faster at OpenAIAPISep 29, 2025](</index/openai-research-assistant/>)
+[Improving support with every interaction at OpenAIAPISep 29, 2025](</index/openai-support-model/>)
 
 Research
 
@@ -166,9 +164,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -205,6 +203,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -238,6 +238,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

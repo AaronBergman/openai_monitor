@@ -26,16 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Why customer success teams use ChatGPT
-
-  * Why customer success teams use ChatGPT
-  * Use cases for customer success teams
-  * How teams get the most value 
-  * Key features for customer success teams
-  * Measuring impact
-
-
-
 April 10, 2026
 
 OpenAI Academy
@@ -47,6 +37,24 @@ Manage accounts, improve communication, and drive better customer outcomes.
 Loading…
 
 Share
+
+Why customer success teams use ChatGPT
+
+  * Why customer success teams use ChatGPT
+  * Use cases for customer success teams
+  * How teams get the most value 
+  * Key features for customer success teams
+  * Measuring impact
+
+
+
+  * Why customer success teams use ChatGPT
+  * Use cases for customer success teams
+  * How teams get the most value 
+  * Key features for customer success teams
+  * Measuring impact
+
+
 
 Customer success work blends relationship management with operational follow-through—onboarding, adoption, troubleshooting, renewals, and cross-functional coordination. The challenge is often the overhead including pulling context from calls and tickets, turning notes into plans, writing clear follow-ups, and keeping everyone aligned on next steps.
 
@@ -199,15 +207,15 @@ Discover additional guides and resources to help you build practical AI skills.
 
 ![Academy > Finance > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/5oD5aOV77eWiWp6ZLigAVN/d6ea39d836ba4832394f25e3e3fcc9e4/finance.png?w=3840&q=90&fm=webp)
 
-[ChatGPT for finance teamsOpenAI AcademyApr 10, 2026](</academy/finance/>)
+[ChatGPT for finance teams | OpenAIOpenAI AcademyApr 10, 2026](</academy/finance/>)
 
 ![Academy > Operations > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/66loCrCRxCGAdv5ElN6vc9/d844920d80ae903617bd7336fa6d99cc/operations.png?w=3840&q=90&fm=webp)
 
-[ChatGPT for operations teamsOpenAI AcademyApr 10, 2026](</academy/operations/>)
+[ChatGPT for operations teams | OpenAIOpenAI AcademyApr 10, 2026](</academy/operations/>)
 
 ![Academy > Managers > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/54U640Rg1XlL5A9UxhX8DY/576d590f1443e4abe0e85b94e79b38c3/managers.png?w=3840&q=90&fm=webp)
 
-[ChatGPT for managersOpenAI AcademyApr 10, 2026](</academy/managers/>)
+[ChatGPT for managers | OpenAIOpenAI AcademyApr 10, 2026](</academy/managers/>)
 
 Research
 
@@ -219,9 +227,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -258,6 +266,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -291,6 +301,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

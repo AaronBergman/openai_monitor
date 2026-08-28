@@ -50,7 +50,7 @@ In the report, Gartner recognized Codex’s strengths across its Ability to Exec
 
 We believe these advantages helped make OpenAI the right partner for Cisco, which used Codex to develop the majority of its AI Defense security platform, shortening delivery time from several quarters to weeks. Cisco’s SVP of Products for AI Software and Platform, DJ Sampath, shares how Codex is changing the way Cisco builds software.
 
-In our view, the best coding agents will combine frontier model capabilities with a deeply integrated product experience. That's why we are building Codex to reason through complex tasks, use developer tools, operate in controlled environments, and provide the governance, security, and control organizations need to deploy AI across the software development lifecycle.
+In our view, the best coding agents will combine frontier model capabilities with a deeply integrated product experience. That’s why we are building Codex to reason through complex tasks, use developer tools, operate in controlled environments, and provide the governance, security, and control organizations need to deploy AI across the software development lifecycle.
 
 “Enterprises are no longer asking only whether AI can write quality code; they are asking how to safely deploy agentic systems at scale as a new operating layer for their businesses. To us, the Gartner recognition reflects the momentum we’re seeing with Codex, now one of OpenAI’s fastest-growing enterprise products, as it expands from coding assistance to broader enterprise workflows.”
 
@@ -79,6 +79,10 @@ Gartner does not endorse any company, vendor, product or service depicted in its
 
 [View all](</news/>)
 
+![Introducing the Admin plugin for ChatGPT Work and Codex — art card v2](https://images.ctfassets.net/kftzwdyauwt9/i8FWARGpSxYbF9iCeAgfQ/5f0480157bd0a08505801483eb7a1e4b/cover-v2.png?w=3840&q=90&fm=webp)
+
+[Introducing the Admin plugin for ChatGPT Work and CodexAI AdoptionAug 25, 2026](</index/introducing-admin-plugin/>)
+
 ![Building AI for the ambitions of small businesses > Card image](https://images.ctfassets.net/kftzwdyauwt9/7wmfLwQnQQpV1xogqASUpR/76c80831b475e17a187ba35a7e0a46c8/SMB_launch_blog_1x1.png?w=3840&q=90&fm=webp)
 
 [Introducing the ChatGPT for small business programAI AdoptionJul 21, 2026](</index/introducing-chatgpt-small-business-program/>)
@@ -86,10 +90,6 @@ Gartner does not endorse any company, vendor, product or service depicted in its
 ![How to manage AI investments in the agentic era > Cover image](https://images.ctfassets.net/kftzwdyauwt9/1qXMreHMXalbFSVXr2CJXW/acbd7f4e05bd38b80a99523967ef69b7/Frame.png?w=3840&q=90&fm=webp)
 
 [How to manage AI investments in the agentic eraAI AdoptionJul 14, 2026](</index/managing-ai-investments-in-agentic-era/>)
-
-![Codex maxxing 1x1](https://images.ctfassets.net/kftzwdyauwt9/5RFmrNey5oX93M1WyqCs4o/5b6ccdce4022764200e06739cda7c21f/Codex_maxxing_1x1.png?w=3840&q=90&fm=webp)
-
-[Codex-Maxxing for Long-Running WorkAI AdoptionJun 22, 2026](</index/codex-maxxing-long-running-work/>)
 
 Research
 

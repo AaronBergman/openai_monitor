@@ -26,16 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Why operations teams use ChatGPT
-
-  * Why operations teams use ChatGPT
-  * Key use cases for operations
-  * How teams get the most value 
-  * Key features for operations teams
-  * Measuring impact 
-
-
-
 April 10, 2026
 
 OpenAI Academy
@@ -47,6 +37,24 @@ Bring structure and clarity to operational work with ChatGPT.
 Loading…
 
 Share
+
+Why operations teams use ChatGPT
+
+  * Why operations teams use ChatGPT
+  * Key use cases for operations
+  * How teams get the most value 
+  * Key features for operations teams
+  * Measuring impact 
+
+
+
+  * Why operations teams use ChatGPT
+  * Key use cases for operations
+  * How teams get the most value 
+  * Key features for operations teams
+  * Measuring impact 
+
+
 
 Operations teams sit at the intersection of information and execution. ChatGPT behaves like an always-on chief of staff. It reduces coordination friction by turning fragmented inputs into decision-ready summaries, documenting outcomes as reusable SOPs, and reinforcing the operating rhythm with consistent updates and artifacts.
 
@@ -235,15 +243,15 @@ Discover additional guides and resources to help you build practical AI skills.
 
 ![Academy > Managers > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/54U640Rg1XlL5A9UxhX8DY/576d590f1443e4abe0e85b94e79b38c3/managers.png?w=3840&q=90&fm=webp)
 
-[ChatGPT for managersOpenAI AcademyApr 10, 2026](</academy/managers/>)
+[ChatGPT for managers | OpenAIOpenAI AcademyApr 10, 2026](</academy/managers/>)
 
 ![Academy > Financial services > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/4rAdwKviie1mydzTjs8y1P/6d4be3abda880c4b1fc4dd67f45debc4/financial.png?w=3840&q=90&fm=webp)
 
-[Financial servicesOpenAI AcademyApr 10, 2026](</academy/financial-services/>)
+[Financial services | OpenAI AcademyOpenAI AcademyApr 10, 2026](</academy/financial-services/>)
 
 ![Academy > Healthcare > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/4PiE6YggOhzl7SQezkdnSK/d1cf00d0269d1f9c061d0d4d4c925372/healthcare.png?w=3840&q=90&fm=webp)
 
-[HealthcareOpenAI AcademyApr 10, 2026](</academy/healthcare/>)
+[Healthcare | OpenAI AcademyOpenAI AcademyApr 10, 2026](</academy/healthcare/>)
 
 Research
 
@@ -255,9 +263,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -294,6 +302,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -327,6 +337,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

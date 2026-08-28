@@ -41,32 +41,20 @@ Share
 ChatGPT search
 
   * ChatGPT search
-
     * How to use search in a chat
-
     * Additional considerations
-
   * Deep research
-
     * How to use deep research in a chat
-
   * Search vs. deep research
-
 
 
 
   * ChatGPT search
-
     * How to use search in a chat
-
     * Additional considerations
-
   * Deep research
-
     * How to use deep research in a chat
-
   * Search vs. deep research
-
 
 
 
@@ -244,6 +232,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

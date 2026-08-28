@@ -1,6 +1,56 @@
 # openai_monitor
 
 
+## 2026-08-28 — Run `2026-08-28T09-15Z`
+
+**Fetch time:** ~2026-08-28T09:15–09:25Z UTC | **Baseline:** 2026-08-27T09-16Z (consecutive day)
+
+**TL;DR:** A newsy day dressed up as a noisy one — of 963 pages with a changed `<lastmod>`, 95% turned out to be a single global rebuild event with no real edits, and most of the rest was carousel/nav-template churn. Underneath that: OpenAI published an open letter on **collective cyber defense**, co-signed by ~130 organizations including Anthropic, AWS, Microsoft, Google, and major banks — a clear follow-through from Tuesday's Hugging Face incident report. That report's fingerprints show up elsewhere too: the original 2025 Codex launch post quietly gained a footnote softening its old claim that the agent "cannot access external websites," pointing instead to a "current setup-phase and agent-phase networking" doc — a low-key correction in light of what the incident report revealed about agents defeating network isolation. Separately: **OpenAI opened commercial operations in Brazil** (São Paulo office, ~215M ChatGPT messages/day there already) and **launched a startup accelerator with Thailand's government**; a Bocconi University study found ChatGPT access and critical-thinking training have complementary, independent benefits for students; a new **Advertising Terms** legal doc formalized the ChatGPT Ads rollout covered in past runs; **GPT-5.6 Sol Fast Mode API pricing dropped 20–33%**; and the **Scale Tier throughput guarantee was quietly weakened** (99% > 100 tok/s → 99% > 50 tok/s). The Contact Sales page was also rebuilt as a multi-step form.
+
+### Anomalies
+
+- **Sitewide `<lastmod>` jitter affecting 918 of 963 "updated" URLs (95%).** Nearly every touched page's `<lastmod>` moved *backwards* by a tiny amount versus yesterday (median ≈1.1s, 97% under 60s, max ~5 minutes) — a global CMS rebuild/re-serialization artifact, not per-page edits. A content diff on a large sample of these confirms no text actually changed. This is what let us isolate the real news above from the noise.
+- **Two pages moved backward by >60 seconds** — [`/policies/terms-of-use/`](pages/openai.com/policies/terms-of-use/index.md) (−213.6s) and [`/policies/row-terms-of-use/`](pages/openai.com/policies/row-terms-of-use/index.md) (−306.6s). Investigated: the legal text is unchanged on both; only the footer nav template was touched (same ongoing nav-redesign rollout described below). Not a rollback of terms.
+- **A 34-day forward `<lastmod>` jump with zero content change:** [`/index/introducing-gpt-rosalind/`](pages/openai.com/index/introducing-gpt-rosalind/index.md) — the article body is byte-identical to yesterday; only its related-articles carousel changed. Flagged so it isn't mistaken for a new "GPT Rosalind" model announcement — there isn't one.
+- **Two long-standing 404s in the sitemap, not new today:** [`/brand-old/`](https://openai.com/brand-old/) and [`/index/inworld-ai-DO-NOT-PUBLISH/`](https://openai.com/index/inworld-ai-DO-NOT-PUBLISH/) have been listed continuously since this repo's May 7 bootstrap and have 404'd on every fetch attempt since, including the first. The latter's slug literally reads "DO-NOT-PUBLISH" — an internal placeholder OpenAI has left indexed but unpublished for 3.5+ months.
+
+### Notable additions
+
+- [`/collective-cyberdefense/`](pages/openai.com/collective-cyberdefense/index.md) — "A call for collective action on cyber defense": an open letter signed by ~130 organizations (Anthropic, AWS, Google, Microsoft, Cloudflare, CrowdStrike, Palo Alto Networks, Citi, Capital One, and more) calling for a global surge in cyber defense investment. Reads as a coordinated industry follow-up to Tuesday's Hugging Face security incident report.
+- [`/index/expanding-our-presence-in-brazil/`](pages/openai.com/index/expanding-our-presence-in-brazil/index.md) — OpenAI opens commercial operations in Brazil (São Paulo office). Brazil is one of ChatGPT's three largest markets by weekly active users; ~215M messages/day sent from the country.
+- [`/index/supporting-next-generation-ai-startups-thailand/`](pages/openai.com/index/supporting-next-generation-ai-startups-thailand/index.md) — an 8-week accelerator with Thailand's Ministry of Higher Education, Science, Research and Innovation for 10 Thai startups (health, wellness, education) — OpenAI's first public-private partnership with the Thai government.
+- [`/index/what-students-gain-from-chatgpt-critical-thinking-training/`](pages/openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training/index.md) — a Bocconi University / OpenAI Economic Research study of 1,000+ students: ChatGPT access improved work quality and coherence; separate critical-thinking (causal-reasoning) training boosted originality; students who got both saw both effects.
+- [`/policies/advertising-terms/`](pages/openai.com/policies/advertising-terms/index.md) — new formal legal terms governing OpenAI's Advertising Services / Ads Manager, dated Aug 25, 2026 — the legal scaffolding behind the ChatGPT Ads rollout ("Testing ads in ChatGPT," Aug 11; "ChatGPT Ads expands across Europe," Aug 18).
+
+### Notable updates
+
+- **GPT-5.6 Sol Fast Mode API pricing cut 20–33%.** [`/api-fast-mode/`](pages/openai.com/api-fast-mode/index.md): short-context $10.00/$1.00/$60.00 → **$8.00/$0.80/$40.00** per 1M input/cached-input/output tokens; long-context $20.00/$2.00/$90.00 → **$16.00/$1.60/$60.00**. Other models on the page unchanged.
+- **Scale Tier throughput guarantee weakened.** [`/api-scale-tier/`](pages/openai.com/api-scale-tier/index.md): the $750/unit/day committed-capacity tier's latency SLA dropped from "99% of requests > 100 tokens/second" to **"99% > 50 tokens/second."**
+- **Contact Sales rebuilt as a multi-step form.** [`/contact-sales/`](pages/openai.com/contact-sales/index.md): the old single-page form (all fields visible at once) is now a wizard ("Get started" → step "1/2" → "Continue").
+- **Cookie Policy refreshed** (last-updated June 23 → **August 14, 2026**). [`/policies/cookie-policy/`](pages/openai.com/policies/cookie-policy/index.md): dropped Swoogo event-registration cookies, added Google `GBRAID`/`WBRAID` marketing-measurement cookies and a new `__obi` OpenAI analytics cookie on chatgpt.com.
+- **Codex launch post gets a network-isolation caveat.** [`/index/introducing-codex/`](pages/openai.com/index/introducing-codex/index.md) — the original claim that the agent "cannot access external websites" now carries a footnote: *"This describes the launch configuration. For current setup-phase and agent-phase networking options, see Agent internet access."* Plausibly a quiet correction prompted by Tuesday's Hugging Face incident findings about agents defeating network isolation.
+- **Hugging Face incident brief cross-linked to the full report.** [`/index/hugging-face-model-evaluation-security-incident/`](pages/openai.com/index/hugging-face-model-evaluation-security-incident/index.md), the original July 22 disclosure, now links to Tuesday's full "road ahead" report. Expected follow-up, not new information.
+- **ChatGPT Work connector renames.** [`/business/plugins/`](pages/openai.com/business/plugins/index.md): "Data Analytics" → **"Data"** (slug `data-analytics` → `data`); "Azure Boards" → **"Azure DevOps"** (slug updated to match); "Microsoft Teams" label shortened to "Teams."
+- **"Introducing ChatGPT Work" promo banner retired** from several older `/business/put-ai-to-work-*/` pages and `/business/solving-complex-problems-with-openai-o1-models/`, `/business/workspace-agents/` — ChatGPT Work is no longer promoted as "New."
+- **Nav/footer redesign keeps propagating** (first spotted 2026-08-18 on `/business/` only): "Why OpenAI / Solutions / Resources / Pricing" nav reached `/business/guaranteed-capacity/`, `/business/plugins/microsoft-teams/`, several `/business/put-ai-to-work-*/` pages, `/contact-sales/`, and both Terms of Use pages today. Same ongoing rollout, no new design elements.
+- **Customer-stories carousel refreshed** on [`/business/customer-stories/`](pages/openai.com/business/customer-stories/index.md) with 5 newest case studies (loveholidays, Stampli, Replit, NVIDIA, Asana) — all previously covered; routine rotation.
+
+### Routine, low-signal updates
+
+- **370 of 963** updated pages: zero rendered-text difference — a pure `<lastmod>`/rebuild touch (see sitewide jitter anomaly above).
+- **421 of 963** updated pages: rendered diff limited entirely to template noise — related-articles carousel picking up today's 3 new company posts, continued nav/footer redesign propagation, partner-badge cache-busting query strings, or a client-rendered table-of-contents widget appearing for the first time (hydration-timing variance).
+- **~56 pages**: pure carousel-link swaps (different related post recommended), no other change.
+- **Several pages** (`/index/openai-elon-musk/`, `/index/introducing-chatgpt-pulse/`, `/global-affairs/introducing-openai-for-government/`, and others): straight→curly-quote re-encoding only.
+- A stray "Industrial policy for the Intelligence Age" sidebar link disappeared from several `/global-affairs/` and `/index/` pages — continued cleanup from yesterday's AI Futures → Intelligence Age rename.
+
+### Removals
+
+None this run.
+
+**Stats:** 1622 total URLs | 5 added | 963 updated | 0 removed | 6 anomalies | 36 sub-sitemaps | 2 persistent fetch failures (pre-existing)
+
+---
+
 ## 2026-08-27 — Run `2026-08-27T09-16Z`
 
 **Fetch time:** 2026-08-27T09:18:22Z UTC | **Baseline:** 2026-08-26T09-16Z (consecutive day)

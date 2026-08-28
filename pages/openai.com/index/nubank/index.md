@@ -104,7 +104,7 @@ This analysis is done in accordance with fraud prevention policies, regulatory r
 
 [Talk with our team](</contact-sales/>)
 
-## Keep reading
+### Keep reading
 
 [View all](</stories/>)
 

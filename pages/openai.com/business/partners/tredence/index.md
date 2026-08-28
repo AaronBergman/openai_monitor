@@ -38,7 +38,7 @@ OpenAI
 
 Tredence is the world's leading data and AI services company that helps enterprises accelerate business transformation through agentic AI, decision intelligence, and advanced analytics. As an OpenAI Partner, Tredence combines deep domain knowledge with cutting-edge AI innovation to design, build, and scale production-grade solutions powered by OpenAI technologies. Leveraging robust data platforms and proprietary accelerators, Tredence helps organizations modernize operations, elevate customer experiences, optimize decision-making, and realize measurable business value from AI at scale.
 
-![Select Partner](/images/partner-tier-badges/OAI_PartnerNetwork_SelectPartner.svg?dpl=dpl_7297xwZ764mVMEJDxDT2nr35Qnfp)
+![Select Partner](/images/partner-tier-badges/OAI_PartnerNetwork_SelectPartner.svg?dpl=dpl_BdRxAz7pUvB7ugzpY5eAx7A6JZLM)
 
 Countries served
     Global

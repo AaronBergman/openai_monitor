@@ -40,7 +40,7 @@ KPMG LLP is the U.S. firm of the KPMG global organization of independent profess
 
 This combination of global reach and local presence enables KPMG firms to help clients address complex business challenges and evolving market conditions. By bringing together industry knowledge, technical experience, and a collaborative approach, KPMG professionals support organizations in navigating transformation, identifying opportunities for growth, and making informed business decisions.
 
-![Elite Partner](/images/partner-tier-badges/OAI_PartnerNetwork_ElitePartner.svg?dpl=dpl_7297xwZ764mVMEJDxDT2nr35Qnfp)
+![Elite Partner](/images/partner-tier-badges/OAI_PartnerNetwork_ElitePartner.svg?dpl=dpl_BdRxAz7pUvB7ugzpY5eAx7A6JZLM)
 
 Countries served
     Global

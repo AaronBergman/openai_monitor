@@ -58,7 +58,7 @@ Meeting a new era of expectations
 
 
 
-Home improvement projects aren’t simple shopping trips. They're major investments, often involving thousands of dollars, multiple visits, and specialized expertise.
+Home improvement projects aren’t simple shopping trips. They’re major investments, often involving thousands of dollars, multiple visits, and specialized expertise.
 
 “When you’re buying a t-shirt and it doesn’t fit, you just return it. No big deal,” says Seemantini Godbole, EVP, Chief Digital and Information Officer at Lowe’s. “But if you’re renovating a kitchen or redoing your floors, those are expensive decisions. You want to feel confident. And that requires expertise.”​
 
@@ -95,7 +95,7 @@ Working with OpenAI, Lowe’s embedded GPT‑4o into two experiences designed to
 
 Mylow has quickly become one of Lowe’s most helpful digital tools, supporting customers as they navigate projects, explore options, and make confident purchasing decisions. “It’s helping customers feel more sure about what they need,” adds Cano. “It’s not just answering questions–it’s guiding them to the right solutions.”​
 
-Mylow Companion has had a similar impact in stores. “We've always wanted to give superpowers to our associates so they can spend more time with our customers,” says Godbole. “This makes it so we can give our associates these super powers.”​
+Mylow Companion has had a similar impact in stores. “We’ve always wanted to give superpowers to our associates so they can spend more time with our customers,” says Godbole. “This makes it so we can give our associates these super powers.”​
 
 Voice support was also essential. “Over 50 percent of interactions happen by voice,” adds Godbole. “Associates are moving. They’ve got one hand on a cart or carrying product. Typing in that environment isn’t natural, but talking is.”
 
@@ -186,17 +186,17 @@ For Lowe’s, the goal is simple: equip every associate and customer with the co
 
 ## Related articles
 
-![Health in ChatGPT > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/48aIp3cQOKJ57vpQeqOb8y/2e8732bcad5ceea1c7b20cf001bd2823/1_1_Art_Card.png?w=3840&q=90&fm=webp)
+![Supporting Thailand’s next generation of AI startups > Cover image](https://images.ctfassets.net/kftzwdyauwt9/6ttG55Aq2kyDRG8wxOkTx9/897d266cacc77edc0a25d06b9f6c2c45/supporting-next-generation-ai-startups-thailand--cover.png?w=3840&q=90&fm=webp)
 
-[Launching Health in ChatGPT ProductJul 23, 2026](</index/health-in-chatgpt/>)
+[Supporting Thailand’s next generation of AI startupsCompanyAug 28, 2026](</index/supporting-next-generation-ai-startups-thailand/>)
 
-![effingham county 1x1](https://images.ctfassets.net/kftzwdyauwt9/3f1fyaaSZELql3zECUImW3/1733a5ee7f07da894b993dcff75bea66/effingham_county_1x1.png?w=3840&q=90&fm=webp)
+![Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training > Cover image](https://images.ctfassets.net/kftzwdyauwt9/2X12MQqhR5AY1wog6JW3Q3/721873f6edd491a0f241038a9324b341/what-students-gain-chatgpt-critical-thinking--art-card-no-border.png?w=3840&q=90&fm=webp)
 
-[Building AI infrastructure with the Effingham County communityGlobal AffairsJul 22, 2026](</index/building-ai-infrastructure-with-the-effingham-county-community/>)
+[What students gain from ChatGPT and critical-thinking trainingCompanyAug 27, 2026](</index/what-students-gain-from-chatgpt-critical-thinking-training/>)
 
-![How news organizations are using AI > Card Image](https://images.ctfassets.net/kftzwdyauwt9/5nTzxwRy4Is9PQSluyYkWP/d6e7953a692a5a8c926885e2f50a3427/how_news_orgs_use_AI_1x1.png?w=3840&q=90&fm=webp)
+![Expanding OpenAI’s presence in Brazil > Cover image](https://images.ctfassets.net/kftzwdyauwt9/7jZgAn4y7ZP5GFx0HimbWT/84b3d734ebe29229bd58b8d8a775dc60/expanding-openai-presence-in-brazil-art-card.png?w=3840&q=90&fm=webp)
 
-[How news organizations use AI to advance their vital missionsCompanyJul 22, 2026](</index/how-news-organizations-are-using-ai/>)
+[Expanding OpenAI’s presence in BrazilCompanyAug 27, 2026](</index/expanding-our-presence-in-brazil/>)
 
 Research
 

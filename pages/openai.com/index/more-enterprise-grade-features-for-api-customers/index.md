@@ -47,8 +47,6 @@ Enhanced enterprise-grade security
 
 
 
-Table of contents
-
   * Enhanced enterprise-grade security
   * Better administrative control
   * Assistants API improvements
@@ -105,17 +103,17 @@ We plan to keep adding new features focused on enterprise-grade security, admini
 
 OpenAI
 
-## Related research
+### Related research
 
 ![A flock of paper planes flying over and through treetops.](//images.ctfassets.net/kftzwdyauwt9/6quMMGifGECzkdDNBAq7D/a3c19eff2e4005aebdb86ca28e53edf3/sora_paper-airplanes.png?w=3840&q=90&fm=webp)
 
 [Video generation models as world simulatorsSora](</index/sora/>)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/ec66425e-99ca-4314-d04b087f8727/de7341b6a5281c2a220b93a737ce19b0/building-an-early-warning-system-for-llm-aided-biological-threat-creation.jpg?w=3840&q=90&fm=webp)
+![Sweeping strokes of orange, yellow, and purple in an abstract design](https://images.ctfassets.net/kftzwdyauwt9/ec66425e-99ca-4314-d04b087f8727/de7341b6a5281c2a220b93a737ce19b0/building-an-early-warning-system-for-llm-aided-biological-threat-creation.jpg?w=3840&q=90&fm=webp)
 
 [Building an early warning system for LLM-aided biological threat creationPublicationJan 31, 2024](</index/building-an-early-warning-system-for-llm-aided-biological-threat-creation/>)
 
-![Weak To Strong Generalization](https://images.ctfassets.net/kftzwdyauwt9/1tCf4AONiCc3OkX47FmFy0/f95e25993d309257c631c4e64b699685/weak-to-strong-generalization.jpg?w=3840&q=90&fm=webp)
+![A vibrant, abstract image with radiating streaks of yellow, red, blue, and purple, creating a dramatic, explosive effect reminiscent of a colorful burst of light or energy.](https://images.ctfassets.net/kftzwdyauwt9/1tCf4AONiCc3OkX47FmFy0/f95e25993d309257c631c4e64b699685/weak-to-strong-generalization.jpg?w=3840&q=90&fm=webp)
 
 [Weak-to-strong generalizationSafetyDec 14, 2023](</index/weak-to-strong-generalization/>)
 
@@ -133,9 +131,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -172,6 +170,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -205,6 +205,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

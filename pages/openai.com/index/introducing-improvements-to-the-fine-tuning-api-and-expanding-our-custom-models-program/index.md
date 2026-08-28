@@ -67,7 +67,7 @@ Today, we’re introducing [new features⁠(opens in a new window)](<https://pla
 
 ### Assisted Fine-Tuning
 
-At DevDay last November, we [announced⁠](<https://openai.com/blog/new-models-and-developer-products-announced-at-devday>) a Custom Model program designed to train and optimize models for a specific domain, in partnership with a dedicated group of OpenAI researchers. Since then, we've met with dozens of customers to assess their custom model needs and evolved our program to further maximize performance.
+At DevDay last November, we [announced⁠](<https://openai.com/blog/new-models-and-developer-products-announced-at-devday>) a Custom Model program designed to train and optimize models for a specific domain, in partnership with a dedicated group of OpenAI researchers. Since then, we’ve met with dozens of customers to assess their custom model needs and evolved our program to further maximize performance.
 
 Today, we are formally announcing our assisted fine-tuning offering as part of the Custom Model program. Assisted fine-tuning is a collaborative effort with our technical teams to leverage techniques beyond the fine-tuning API, such as additional hyperparameters and various parameter efficient fine-tuning (PEFT) methods at a larger scale. It’s particularly helpful for organizations that need support setting up efficient training data pipelines, evaluation systems, and bespoke parameters and methods to maximize model performance for their use case or task.
 

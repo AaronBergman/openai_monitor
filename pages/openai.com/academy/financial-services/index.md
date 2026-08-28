@@ -41,24 +41,16 @@ Share
 Prompt pack for ChatGPT Enterprise
 
   * Prompt pack for ChatGPT Enterprise
-
   * On-demand webinar
-
   * Guides and whitepapers
-
   * Get started
-
 
 
 
   * Prompt pack for ChatGPT Enterprise
-
   * On-demand webinar
-
   * Guides and whitepapers
-
   * Get started
-
 
 
 
@@ -210,6 +202,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

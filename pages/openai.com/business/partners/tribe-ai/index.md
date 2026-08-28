@@ -44,7 +44,7 @@ Tribe AI exists to close the gap between what AI can do and the value enterprise
 
 3\. Supercharge every employee: embedding agentic tooling (Codex) into how work actually gets done, so individual productivity gains compound across the org.
 
-![Advanced Partner](/images/partner-tier-badges/OAI_PartnerNetwork_AdvancedPartner.svg?dpl=dpl_7297xwZ764mVMEJDxDT2nr35Qnfp)
+![Advanced Partner](/images/partner-tier-badges/OAI_PartnerNetwork_AdvancedPartner.svg?dpl=dpl_BdRxAz7pUvB7ugzpY5eAx7A6JZLM)
 
 Countries served
     United States, Canada, Brazil, United Kingdom, Ireland, Germany, Netherlands, France, Sweden, Spain, and Portugal

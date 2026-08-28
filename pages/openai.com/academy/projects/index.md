@@ -41,32 +41,20 @@ Share
 How to create a project
 
   * How to create a project
-
   * Why projects can be helpful
-
   * When to use a project
-
   * Example use cases
-
   * Project-only memory
-
   * Shared projects
-
 
 
 
   * How to create a project
-
   * Why projects can be helpful
-
   * When to use a project
-
   * Example use cases
-
   * Project-only memory
-
   * Shared projects
-
 
 
 
@@ -141,17 +129,17 @@ Discover additional guides and resources to help you build practical AI skills.
 
 [View all](</news/>)
 
-![Academy > Custom GPTs > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/2UV4fI7a8z34VgwSmpgzy1/2b09c857ffda3696fec60cad6fb18b86/custom-gpts.png?w=3840&q=90&fm=webp)
+![How data science teams use Codex > card image](https://images.ctfassets.net/kftzwdyauwt9/xyevYnp4Ptaa1eMgBDNjS/75fea80018f321b89809d893f1a5786d/data_science_teams.png?w=3840&q=90&fm=webp)
 
-[Using custom GPTs | OpenAIOpenAI AcademyApr 10, 2026](</academy/custom-gpts/>)
+[How data science teams use ChatGPT Work | OpenAIOpenAI AcademyJul 14, 2026](</academy/chatgpt-work/how-data-science-teams-use-codex/>)
 
-![Academy > Skills > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/5HjfQo619jC918nhDM0S4p/a788f0e356c534e61f30e6607402b5ab/skills.png?w=3840&q=90&fm=webp)
+![How sales teams use Codex > card image](https://images.ctfassets.net/kftzwdyauwt9/1O4te2wMh6O77eDV6kapG3/02845b054a09297b9fada40c4cc9a71f/sales_teams.png?w=3840&q=90&fm=webp)
 
-[Using skills in ChatGPT | OpenAIOpenAI AcademyApr 10, 2026](</academy/skills/>)
+[How sales teams use ChatGPT Work | OpenAIOpenAI AcademyJul 14, 2026](</academy/chatgpt-work/how-sales-teams-use-codex/>)
 
-![Academy > Prompting > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/6KuWyesIgCbrJUzXckTYSx/20183733ba66b4b535fe978fc7ec985b/your-first-chat.png?w=3840&q=90&fm=webp)
+![Academy > Getting started > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/1Xk9723QKj2Vb9dC6RMebS/5e588c112042794e62178a224eaff418/getting-started.png?w=3840&q=90&fm=webp)
 
-[Prompting fundamentals | OpenAIOpenAI AcademyApr 10, 2026](</academy/prompting/>)
+[Getting started with ChatGPT | OpenAIOpenAI AcademyJul 10, 2026](</academy/getting-started/>)
 
 Research
 
@@ -237,6 +225,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

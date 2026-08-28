@@ -77,7 +77,7 @@ OpenAI’s models power several key components of Wix’s AI website builder, in
 
 By integrating OpenAI’s technology, Wix enables users to go from an idea to a fully functional website in minutes. “I think the biggest game-changer is the fact that you can easily create a stunning website, but you don’t need to understand layout, design, or anything to get a great working website right from the start,” says Wix’s Head of Product Yaara Asaf.
 
-![Chat UI on the left showing an the Wix AI assistant interpreting a brief for a website and explaining the layout it's creating. On the right, the actual visual layout is displayed.](https://images.ctfassets.net/kftzwdyauwt9/60LX1mmxmIICnlAoq7fi6X/6a09ef38d51e5cc9c21ae0a34aff8ee7/oai_WIX_UI_2.png?w=3840&q=90&fm=webp)
+![Chat UI on the left showing an the Wix AI assistant interpreting a brief for a website and explaining the layout it’s creating. On the right, the actual visual layout is displayed.](https://images.ctfassets.net/kftzwdyauwt9/60LX1mmxmIICnlAoq7fi6X/6a09ef38d51e5cc9c21ae0a34aff8ee7/oai_WIX_UI_2.png?w=3840&q=90&fm=webp)
 
 ## Populating quality site content with OpenAI’s API
 

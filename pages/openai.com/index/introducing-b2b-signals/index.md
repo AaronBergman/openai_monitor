@@ -34,7 +34,7 @@ May 6, 2026
 
 B2B Signals shows how the frontier advantage is beginning to compound for firms using AI more deeply, more broadly, and in more delegated workflows.
 
-[Read B2B Signals](</signals/b2b/>)[Contact sales](</contact-sales/>)
+[Read B2B Signals](</signals/enterprise-data/>)[Contact sales](</contact-sales/>)
 
 Loading…
 
@@ -127,7 +127,7 @@ Organizations can move toward the frontier by measuring depth of use, building g
 
 Enterprise AI is evolving quickly, and leaders need clear data to understand what helps translate AI adoption into business value.
 
-[B2B Signals](</signals/b2b/>) tracks the behaviors and patterns of leading firms, giving organizations a clearer view of how leading companies are translating intelligence into business value. 
+[B2B Signals](</signals/enterprise-data/>) tracks the behaviors and patterns of leading firms, giving organizations a clearer view of how leading companies are translating intelligence into business value. 
 
 This first release focuses on depth of use, agentic workflows, and emerging patterns across industries and functions. Future updates will track progress on these measures and adapt the signals as enterprise AI evolves.
 
@@ -144,17 +144,17 @@ OpenAI
 
 [View all](</news/>)
 
-![How AI is expanding what we do at work > Cover image](https://images.ctfassets.net/kftzwdyauwt9/71jqBtMoMmnYCEyisAnZ0K/06d8fd5ae403146245901145f9d6f703/Art_Card__4_.png?w=3840&q=90&fm=webp)
+![Supporting Thailand’s next generation of AI startups > Cover image](https://images.ctfassets.net/kftzwdyauwt9/6ttG55Aq2kyDRG8wxOkTx9/897d266cacc77edc0a25d06b9f6c2c45/supporting-next-generation-ai-startups-thailand--cover.png?w=3840&q=90&fm=webp)
 
-[How AI is expanding what people do at workCompanyJul 27, 2026](</index/how-ai-is-expanding-what-people-do-at-work/>)
+[Supporting Thailand’s next generation of AI startupsCompanyAug 28, 2026](</index/supporting-next-generation-ai-startups-thailand/>)
 
-![effingham county 1x1](https://images.ctfassets.net/kftzwdyauwt9/3f1fyaaSZELql3zECUImW3/1733a5ee7f07da894b993dcff75bea66/effingham_county_1x1.png?w=3840&q=90&fm=webp)
+![Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training > Cover image](https://images.ctfassets.net/kftzwdyauwt9/2X12MQqhR5AY1wog6JW3Q3/721873f6edd491a0f241038a9324b341/what-students-gain-chatgpt-critical-thinking--art-card-no-border.png?w=3840&q=90&fm=webp)
 
-[Building AI infrastructure with the Effingham County communityGlobal AffairsJul 22, 2026](</index/building-ai-infrastructure-with-the-effingham-county-community/>)
+[What students gain from ChatGPT and critical-thinking trainingCompanyAug 27, 2026](</index/what-students-gain-from-chatgpt-critical-thinking-training/>)
 
-![How news organizations are using AI > Card Image](https://images.ctfassets.net/kftzwdyauwt9/5nTzxwRy4Is9PQSluyYkWP/d6e7953a692a5a8c926885e2f50a3427/how_news_orgs_use_AI_1x1.png?w=3840&q=90&fm=webp)
+![Expanding OpenAI’s presence in Brazil > Cover image](https://images.ctfassets.net/kftzwdyauwt9/7jZgAn4y7ZP5GFx0HimbWT/84b3d734ebe29229bd58b8d8a775dc60/expanding-openai-presence-in-brazil-art-card.png?w=3840&q=90&fm=webp)
 
-[How news organizations use AI to advance their vital missionsCompanyJul 22, 2026](</index/how-news-organizations-are-using-ai/>)
+[Expanding OpenAI’s presence in BrazilCompanyAug 27, 2026](</index/expanding-our-presence-in-brazil/>)
 
 Research
 

@@ -35,30 +35,18 @@ Share
 Using AI in a data-rich environment
 
   * Using AI in a data-rich environment
-
   * Surging AI adoption with the GPT Lab
-
   * Unlocking consumer insights with ChatGPT
-
   * Taking a product-led approach to GPT creation
-
   * AI’s impact on creativity and speed-to-market 
 
 
-
-
-Table of contents
 
   * Using AI in a data-rich environment
-
   * Surging AI adoption with the GPT Lab
-
   * Unlocking consumer insights with ChatGPT
-
   * Taking a product-led approach to GPT creation
-
   * AI’s impact on creativity and speed-to-market 
-
 
 
 
@@ -170,9 +158,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -209,6 +197,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -242,6 +232,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

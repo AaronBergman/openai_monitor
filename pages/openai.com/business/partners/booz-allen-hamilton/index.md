@@ -38,7 +38,7 @@ OpenAI
 
 Booz Allen builds advanced technology to help government and businesses win in today’s competitive world and prepare for what’s next. Our expertise comes from more than 20,000 technologists, including thousands of cyber specialists, software engineers, and AI innovators. We co-invest and co-build our proprietary tech with tech from powerhouse commercial partners to transform every layer of the tech stack from infrastructure to the end user. And we invest in what’s next, continuously scouting commercial tech to find the right solutions and products for government missions, making strategic investments in AI, cyber, defense tech, and deep tech, and leading R&D in next-gen technologies like quantum computing.
 
-![Select Partner](/images/partner-tier-badges/OAI_PartnerNetwork_SelectPartner.svg?dpl=dpl_7297xwZ764mVMEJDxDT2nr35Qnfp)
+![Select Partner](/images/partner-tier-badges/OAI_PartnerNetwork_SelectPartner.svg?dpl=dpl_BdRxAz7pUvB7ugzpY5eAx7A6JZLM)
 
 Countries served
     Global

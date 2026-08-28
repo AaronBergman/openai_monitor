@@ -38,7 +38,7 @@ OpenAI
 
 EY helps organizations shape the future with confidence by combining business, industry and technology expertise to drive transformation at scale. Enabled by data, AI and advanced technologies, EY teams work across assurance, consulting, strategy, tax and transactions to help clients grow, transform and operate. Through the EY Partner Ecosystem, EY collaborates with leading technology innovators to accelerate enterprise transformation, unlock new sources of value and deliver measurable business outcomes. With professionals serving clients in more than 150 countries and territories, EY brings deep sector knowledge, innovation and trusted execution to complex business challenges.
 
-![Elite Partner](/images/partner-tier-badges/OAI_PartnerNetwork_ElitePartner.svg?dpl=dpl_7297xwZ764mVMEJDxDT2nr35Qnfp)
+![Elite Partner](/images/partner-tier-badges/OAI_PartnerNetwork_ElitePartner.svg?dpl=dpl_BdRxAz7pUvB7ugzpY5eAx7A6JZLM)
 
 Countries served
     Global

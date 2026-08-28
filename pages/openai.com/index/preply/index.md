@@ -130,7 +130,7 @@ Within minutes of a lesson ending, the learner and their tutor receive a structu
 
 Those insights feed directly into Preply’s self-learning exercise engine to generate personalized homework—turning every human lesson into structured practice that compounds over time.
 
-“We were hearing time and time again, ‘How am I doing? Am I getting better? What do I get to do next?,’” says Emily Stott, Staff Product Manager at Preply. “Students wanted a more tangible view of their growth. Now, with Lesson Insights, we're able to understand exactly what you've been talking about, your goals, the topics you've been covering, your tutor’s feedback, and convert that into highly personalized and targeted practice.”
+“We were hearing time and time again, ‘How am I doing? Am I getting better? What do I get to do next?,’” says Emily Stott, Staff Product Manager at Preply. “Students wanted a more tangible view of their growth. Now, with Lesson Insights, we’re able to understand exactly what you’ve been talking about, your goals, the topics you’ve been covering, your tutor’s feedback, and convert that into highly personalized and targeted practice.”
 
 The result is a continuous learning experience that extends far beyond the lesson itself, helping learners build confidence, stay motivated, and make real progress. Instead of treating each session as a standalone event, learners receive guidance that compounds over time—creating a clearer path toward fluency.
 
@@ -140,11 +140,11 @@ Today, Preply uses OpenAI APIs across the organization, supporting customer serv
 
 The company has also embraced Codex as a core part of its engineering workflow.
 
-“It's the topic I'm most excited about,” says Dmytro. “Codex helps us write code with a speed that was previously unseen. With such a powerful tool, engineers can focus more on architecture in the system as a whole and solving customers' problems.”
+“It’s the topic I’m most excited about,” says Dmytro. “Codex helps us write code with a speed that was previously unseen. With such a powerful tool, engineers can focus more on architecture in the system as a whole and solving customers' problems.”
 
 Around 94% of Preply engineers use Codex and AI coding assistants for code generation, PR reviews, debugging, and accelerating development workflows. By reducing time spent on routine coding tasks, engineering teams can focus on building new learning experiences, scaling products across languages, and delivering value to tutors and learners faster.
 
-For Preply, AI is no longer a standalone initiative—it's becoming part of how the company builds products, serves customers, and operates day to day.
+For Preply, AI is no longer a standalone initiative—it’s becoming part of how the company builds products, serves customers, and operates day to day.
 
 > “There is an amazing opportunity for Preply to combine what humans are the best at—motivation, engagement, energy—with AI as a copilot. AI can handle all of the repetitive and administrative tasks.”
 
@@ -177,7 +177,7 @@ Before Lesson Insights, creating personalized homework assignments and lesson ma
 
 —Michelle Garcia Ramos, Spanish tutor, Preply
 
-For Michelle, the benefit isn't simply efficiency. AI provides ideas, highlights learning opportunities, and helps identify what students should focus on next.
+For Michelle, the benefit isn’t simply efficiency. AI provides ideas, highlights learning opportunities, and helps identify what students should focus on next.
 
 The result is better preparation, more focused lessons, and faster progress for learners.
 
@@ -189,7 +189,7 @@ The result is better preparation, more focused lessons, and faster progress for 
 
 
 
-> “It's not about replacing humans. It's about augmenting them with new capabilities and also sometimes redefining the essence of the job.”
+> “It’s not about replacing humans. It’s about augmenting them with new capabilities and also sometimes redefining the essence of the job.”
 
 —Dmytro Voloshyn, Co-founder & CTO, Preply
 
@@ -209,7 +209,7 @@ The company plans to build on Lesson Insights with experiences that create a dee
 
 The vision is a learning experience that adapts continuously around each individual, providing more precise guidance, pacing, curriculum recommendations, and feedback.
 
-“We're only at the beginning,” says Emily. “AI will make language learning dramatically more personalized: every learner will have a clear picture of exactly where they started, where they are now, and what they need to work on next. Not a one-size-fits-all curriculum, but a learning experience that adapts around each individual.”
+“We’re only at the beginning,” says Emily. “AI will make language learning dramatically more personalized: every learner will have a clear picture of exactly where they started, where they are now, and what they need to work on next. Not a one-size-fits-all curriculum, but a learning experience that adapts around each individual.”
 
 AI is also transforming how Preply builds products internally. As agentic development tools become increasingly capable, more employees can participate in building solutions—not just consuming them. That means faster innovation, broader experimentation, and greater support for learners and tutors around the world.
 
@@ -219,7 +219,7 @@ For Dmytro, the opportunity remains clear: combine the strengths of human teache
 
 —Dmytro Voloshyn, Co-founder & CTO, Preply
 
-The future, Preply believes, isn't human or AI. It's human-led, AI-enabled.
+The future, Preply believes, isn’t human or AI. It’s human-led, AI-enabled.
 
 ## Join the new era of work
 
@@ -229,17 +229,17 @@ More than 1 million businesses around the world are achieving meaningful results
 
 ## Keep reading
 
-![Health in ChatGPT > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/48aIp3cQOKJ57vpQeqOb8y/2e8732bcad5ceea1c7b20cf001bd2823/1_1_Art_Card.png?w=3840&q=90&fm=webp)
+![Supporting Thailand’s next generation of AI startups > Cover image](https://images.ctfassets.net/kftzwdyauwt9/6ttG55Aq2kyDRG8wxOkTx9/897d266cacc77edc0a25d06b9f6c2c45/supporting-next-generation-ai-startups-thailand--cover.png?w=3840&q=90&fm=webp)
 
-[Launching Health in ChatGPT ProductJul 23, 2026](</index/health-in-chatgpt/>)
+[Supporting Thailand’s next generation of AI startupsCompanyAug 28, 2026](</index/supporting-next-generation-ai-startups-thailand/>)
 
-![effingham county 1x1](https://images.ctfassets.net/kftzwdyauwt9/3f1fyaaSZELql3zECUImW3/1733a5ee7f07da894b993dcff75bea66/effingham_county_1x1.png?w=3840&q=90&fm=webp)
+![Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training > Cover image](https://images.ctfassets.net/kftzwdyauwt9/2X12MQqhR5AY1wog6JW3Q3/721873f6edd491a0f241038a9324b341/what-students-gain-chatgpt-critical-thinking--art-card-no-border.png?w=3840&q=90&fm=webp)
 
-[Building AI infrastructure with the Effingham County communityGlobal AffairsJul 22, 2026](</index/building-ai-infrastructure-with-the-effingham-county-community/>)
+[What students gain from ChatGPT and critical-thinking trainingCompanyAug 27, 2026](</index/what-students-gain-from-chatgpt-critical-thinking-training/>)
 
-![How news organizations are using AI > Card Image](https://images.ctfassets.net/kftzwdyauwt9/5nTzxwRy4Is9PQSluyYkWP/d6e7953a692a5a8c926885e2f50a3427/how_news_orgs_use_AI_1x1.png?w=3840&q=90&fm=webp)
+![Expanding OpenAI’s presence in Brazil > Cover image](https://images.ctfassets.net/kftzwdyauwt9/7jZgAn4y7ZP5GFx0HimbWT/84b3d734ebe29229bd58b8d8a775dc60/expanding-openai-presence-in-brazil-art-card.png?w=3840&q=90&fm=webp)
 
-[How news organizations use AI to advance their vital missionsCompanyJul 22, 2026](</index/how-news-organizations-are-using-ai/>)
+[Expanding OpenAI’s presence in BrazilCompanyAug 27, 2026](</index/expanding-our-presence-in-brazil/>)
 
 Research
 
