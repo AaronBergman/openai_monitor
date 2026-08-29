@@ -40,7 +40,7 @@ Tata Consultancy Services (TCS) is a digital transformation and technology partn
 
 The partnership between TCS and OpenAI goes beyond technology adoption, focusing on secure, scalable AI solutions across strategy, application modernisation, data, cloud, and operations. From enhancing employee productivity and customer experience to transforming software engineering and driving industry-specific initiatives, TCS helps organisations bridge the gap between cutting-edge AI capabilities and real-world business value, accelerating innovation and delivering sustainable growth.
 
-![Elite Partner](/images/partner-tier-badges/OAI_PartnerNetwork_ElitePartner.svg?dpl=dpl_BdRxAz7pUvB7ugzpY5eAx7A6JZLM)
+![Elite Partner](/images/partner-tier-badges/OAI_PartnerNetwork_ElitePartner.svg?dpl=dpl_8zRkpxed5hBwdqpwBygFpwR3bW43)
 
 Countries served
     Global

@@ -1,6 +1,41 @@
 # openai_monitor
 
 
+## 2026-08-29 — Run `2026-08-29T09-16Z`
+
+**Fetch time:** 2026-08-29T09:17:28Z UTC | **Baseline:** 2026-08-28T09-15Z (consecutive day)
+
+**TL;DR:** A quiet sitemap day (2 added, 2 removed, net zero) hiding one genuinely big story: **OpenAI is cutting Cursor off from its models**, effective November 12, 2026, after SpaceX acquired Cursor — OpenAI says it can't trust SpaceX to honor its terms of service, pointing to Twitter/X breaking a prior OpenAI contract post-Musk-acquisition and Musk's own 2026 sworn admission that xAI (also now under SpaceX) distilled OpenAI data. The post name-drops an unreleased model, "Astra," suggesting tighter access controls ahead of that release. Separately, **GPT-Rosalind rebranded as "Rosalind,"** OpenAI's life-sciences brand, moving from `/gpt-rosalind/` to a new `/rosalind/` page that adds a "Rosalind Workbench" product and a new "Rosalind Biodefense" program for public-health/defensive applications, with access now "expanded" beyond the original April research-preview cohort. Yesterday's cyber-defense open letter also quietly grew from 128 to 156 co-signing organizations (GitHub, Databricks, Datadog, PayPal, and 24 others joined; none dropped off). Underneath that: 8 unrelated enterprise-guide pages and one old incident write-up got multi-week-old `<lastmod>` jumps with zero actual text changes — bulk metadata housekeeping, not new edits.
+
+### Anomalies
+
+- **Bulk backdated-forward touch across the whole `business/guides-and-resources/` collection.** All 8 of that collection's other guides got `<lastmod>` pushed forward 15–38 days, landing within 3 seconds of each other (2026-08-28T19:01:19–22Z), with zero rendered-text change on any of them — a CMS-wide republish/reindex artifact, not real edits.
+- **53-day forward `<lastmod>` jump, zero content change:** [`/index/core-dump-epidemiology-data-infrastructure-bug/`](pages/openai.com/index/core-dump-epidemiology-data-infrastructure-bug/index.md) — same pattern as yesterday's GPT-Rosalind false alarm; flagged so it isn't mistaken for a new infrastructure incident.
+- **URL rename, not a real removal:** `/gpt-rosalind/` was removed from the sitemap and replaced by `/rosalind/` (see below) — same product line, migrated URL, not a page going away.
+- No future-dated or backwards-moving `<lastmod>` values, no backdated new URLs, no disappeared-then-reappeared URLs, no genuine sub-sitemap section moves. Both long-standing pre-existing 404s (`/brand-old/`, `/index/inworld-ai-DO-NOT-PUBLISH/`) remain listed, unchanged since bootstrap. All 65 page fetches succeeded on the first try.
+
+### Notable updates
+
+- **OpenAI winds down Cursor's model access after SpaceX acquisition.** [`/index/our-decision-on-cursor-following-its-acquisition-by-spacex/`](pages/openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/index.md) — OpenAI notified SpaceX it will end the contract supplying models to Cursor, with a proposed shutoff date of **November 12, 2026** (the maximum notice their contract allows). Cited reasons: Twitter/X (now part of SpaceX) broke a prior OpenAI contract after Musk acquired it in 2022, and Musk admitted under oath in 2026 that xAI (also now under SpaceX) had violated OpenAI's terms of service by distilling OpenAI data. The post references an upcoming model codenamed **"Astra"** and links to a page on "responding to next-frontier critical cyber capabilities," framing this partly as tighter pre-release access control. OpenAI says it worked with Cursor for "nearly four years" and wants to support affected developers through the transition.
+- **GPT-Rosalind rebrands to "Rosalind," adds a Workbench product and a Biodefense program.** [`/rosalind/`](pages/openai.com/rosalind/index.md) replaces `/gpt-rosalind/`: "Rosalind" is now OpenAI's life-sciences brand, with **Rosalind Workbench** (an orchestrated workspace pairing GPT-Rosalind with connected scientific tools — free "Explore mode" plus a gated "Research mode") and a new **Rosalind Biodefense** program for public-health/defensive-research applications. Access copy shifted from April's "research preview for qualified customers" to "expanded access for eligible organizations." The old `/form/life-sciences-access/` request form was retired in favor of embedded `chatgpt.com/r/...` request links. New customer quote from Novo Nordisk's CEO; Thermo Fisher Scientific, Moderna, and Oracle Health and Life Sciences are also named partners. Benchmarks cited: +53.7% (Genebench), +18.0% (Medchem Bench), +19.6% (Labworkbench), +4.42% (LifeSci Bench) performance-per-token.
+- **Collective cyber-defense letter gains 28 signatories overnight.** [`/collective-cyberdefense/`](pages/openai.com/collective-cyberdefense/index.md) (published Aug 28) grew from 128 to **156** co-signing organizations with zero dropouts — new joiners include GitHub, Databricks, Datadog, CoreWeave, PayPal, Nokia, AT&T, BCG, Booz Allen, Mizuho, Samsara, Tailscale, Bugcrowd, Chainguard, Netskope, and Dragos.
+
+### Routine, low-signal updates
+
+- **31 of 63** updated pages: zero rendered-text difference — pure `<lastmod>`/rebuild touches (includes the two flagged outlier cases above).
+- **27 of 63** updated pages: `/business/partners/*` badge images only — a CDN cache-busting deployment query string changed on the partner-tier badge SVG, no visible content change.
+- **~10 of 63** updated pages: related-articles carousel picked up today's new Cursor/SpaceX post (and, on a couple, yesterday's Thailand post) — routine rotation, not independent news on those pages.
+- A "key findings" bullet about early-career employees using AI more appears to have moved from a shared summary widget on `/signals/enterprise-data/` to also render on `/index/how-enterprises-put-ai-to-work/` — shared-component placement, not a new finding.
+
+### Removals
+
+- [`/gpt-rosalind/`](pages/openai.com/gpt-rosalind/index.md) — superseded by [`/rosalind/`](pages/openai.com/rosalind/index.md) (rebrand; last-known snapshot preserved locally).
+- [`/form/life-sciences-access/`](pages/openai.com/form/life-sciences-access/index.md) — retired request-access form; access now routes through external request links on `/rosalind/` (last-known snapshot preserved locally).
+
+**Stats:** 1622 total URLs | 2 added | 63 updated | 2 removed | 3 anomalies | 36 sub-sitemaps | 2 persistent pre-existing 404s (unchanged)
+
+---
+
 ## 2026-08-28 — Run `2026-08-28T09-15Z`
 
 **Fetch time:** ~2026-08-28T09:15–09:25Z UTC | **Baseline:** 2026-08-27T09-16Z (consecutive day)

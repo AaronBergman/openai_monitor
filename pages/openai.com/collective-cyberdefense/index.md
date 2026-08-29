@@ -11,6 +11,7 @@ An open letter for a global surge in cyber defense.
 ## Signatories
 
 1Password  
+7AI  
 Abnormal AI  
 Accenture  
 Adobe  
@@ -22,10 +23,18 @@ Anthropic
 APIsec  
 Arena  
 Arm  
+Atlassian  
+AT&T  
 AWS  
 BBVA  
+BCG  
+Bitsight  
 Block  
+BNY  
+Booz Allen  
+Box  
 Broadcom  
+Bugcrowd  
 Calif  
 Cantina Security  
 Cape  
@@ -34,7 +43,9 @@ Capital One
 Cato Networks  
 Center for Internet Security  
 Cerebras  
+Chainguard  
 Check Point  
+Circle  
 Cisco  
 Citadel  
 Citi  
@@ -45,14 +56,19 @@ Cogent Security
 Cognition  
 Cognizant  
 Corelight  
+CoreWeave  
 Corridor  
 Cotool  
 CrowdStrike  
 Cyera  
 Darktrace  
+Databricks  
+Datadog  
 Dell  
 depthfirst  
 Deutsche Telekom  
+Dialpad  
+Dragos  
 Dropzone.ai  
 DTCC  
 Elastic  
@@ -65,6 +81,7 @@ F5
 Factory  
 Fifth Third Bank  
 Figma  
+Firefox  
 FIS  
 Fiserv  
 Fleet AI  
@@ -72,6 +89,7 @@ Flexport
 Fortinet  
 Gen Digital  
 General Motors  
+GitHub  
 Glean  
 Glow  
 GoDaddy  
@@ -82,15 +100,21 @@ HCLTech
 Hugging Face  
 IBM  
 Incident.io  
+Intercontinental Exchange, Inc.  
 KPMG LLP  
+Kyndryl  
 Lovable  
 Lumen Technologies  
 Marsh  
 Mastercard  
+Mate Security  
 Mercor  
 Micron  
 Microsoft  
+Mizuho  
 Nationwide Building Society  
+Netskope  
+Nokia  
 NTT DATA  
 Obsidian Security  
 Octane Security  
@@ -101,6 +125,7 @@ OpenAI
 Oracle  
 Outtake AI  
 Palo Alto Networks  
+PayPal  
 Perplexity  
 Proofpoint  
 Prophet Security  
@@ -111,6 +136,7 @@ RemoteThreat
 Replit  
 Robinhood  
 RunSybil  
+Samsara  
 SAP  
 Scale AI  
 SentinelOne  
@@ -121,6 +147,7 @@ Snyk
 Socket  
 Sophos  
 SpecterOps  
+Tailscale  
 Tenable  
 Tenzai  
 The Clearing House  
@@ -139,7 +166,7 @@ XBOW
 Zscaler  
 Zurich Insurance Company
 
-1Password, Abnormal AI, Accenture, Adobe, Advent International, Aikido, Akamai, AMD, Anthropic, APIsec, Arena, Arm, AWS, BBVA, Block, Broadcom, Calif, Cantina Security, Cape, Capgemini, Capital One, Cato Networks, Center for Internet Security, Cerebras, Check Point, Cisco, Citadel, Citi, Clearly AI, Cloaked, Cloudflare, Cogent Security, Cognition, Cognizant, Corelight, Corridor, Cotool, CrowdStrike, Cyera, Darktrace, Dell, depthfirst, Deutsche Telekom, Dropzone.ai, DTCC, Elastic, Enclave, EPAM, Equinix, EXA.ai, ExodusPoint, F5, Factory, Fifth Third Bank, Figma, FIS, Fiserv, Fleet AI, Flexport, Fortinet, Gen Digital, General Motors, Glean, Glow, GoDaddy, Google, HackerOne, Harvey, HCLTech, Hugging Face, IBM, Incident.io, KPMG LLP, Lovable, Lumen Technologies, Marsh, Mastercard, Mercor, Micron, Microsoft, Nationwide Building Society, NTT DATA, Obsidian Security, Octane Security, Offensive AI Conference (OAIC), Okta, Oliver Wyman, OpenAI, Oracle, Outtake AI, Palo Alto Networks, Perplexity, Proofpoint, Prophet Security, PwC, Red Hat, ReliaQuest, RemoteThreat, Replit, Robinhood, RunSybil, SAP, Scale AI, SentinelOne, ServiceNow, Shopify, Snowflake, Snyk, Socket, Sophos, SpecterOps, Tenable, Tenzai, The Clearing House, Third Moment Research, Trail of Bits, TransUnion, TrendAI, Uber, Unisys, U.S. Bank, Vercel, Veria Labs, Visa, WWT, XBOW, Zscaler, and Zurich Insurance Company
+1Password, 7AI, Abnormal AI, Accenture, Adobe, Advent International, Aikido, Akamai, AMD, Anthropic, APIsec, Arena, Arm, Atlassian, AT&T, AWS, BBVA, BCG, Bitsight, Block, BNY, Booz Allen, Box, Broadcom, Bugcrowd, Calif, Cantina Security, Cape, Capgemini, Capital One, Cato Networks, Center for Internet Security, Cerebras, Chainguard, Check Point, Circle, Cisco, Citadel, Citi, Clearly AI, Cloaked, Cloudflare, Cogent Security, Cognition, Cognizant, Corelight, CoreWeave, Corridor, Cotool, CrowdStrike, Cyera, Darktrace, Databricks, Datadog, Dell, depthfirst, Deutsche Telekom, Dialpad, Dragos, Dropzone.ai, DTCC, Elastic, Enclave, EPAM, Equinix, EXA.ai, ExodusPoint, F5, Factory, Fifth Third Bank, Figma, Firefox, FIS, Fiserv, Fleet AI, Flexport, Fortinet, Gen Digital, General Motors, GitHub, Glean, Glow, GoDaddy, Google, HackerOne, Harvey, HCLTech, Hugging Face, IBM, Incident.io, Intercontinental Exchange, Inc., KPMG LLP, Kyndryl, Lovable, Lumen Technologies, Marsh, Mastercard, Mate Security, Mercor, Micron, Microsoft, Mizuho, Nationwide Building Society, Netskope, Nokia, NTT DATA, Obsidian Security, Octane Security, Offensive AI Conference (OAIC), Okta, Oliver Wyman, OpenAI, Oracle, Outtake AI, Palo Alto Networks, PayPal, Perplexity, Proofpoint, Prophet Security, PwC, Red Hat, ReliaQuest, RemoteThreat, Replit, Robinhood, RunSybil, Samsara, SAP, Scale AI, SentinelOne, ServiceNow, Shopify, Snowflake, Snyk, Socket, Sophos, SpecterOps, Tailscale, Tenable, Tenzai, The Clearing House, Third Moment Research, Trail of Bits, TransUnion, TrendAI, Uber, Unisys, U.S. Bank, Vercel, Veria Labs, Visa, WWT, XBOW, Zscaler, and Zurich Insurance Company
 
 We have a limited window to strengthen cyber defenses.
 
@@ -193,6 +220,16 @@ Provide responsible model access, significant funding, training, and hands-on su
 We call on leaders across industry and government to bring the full weight of their technology, resources, and expertise to this effort. Put cyber-capable AI in the hands of defenders, starting with the teams protecting essential services. Fix the most dangerous weaknesses, verify the fixes, and share what works so others can build on it. Together, we can turn today’s AI advances into lasting improvements in security that benefit everyone. Let’s put them to work.
 
 * * *
+
+**Join organizations across industry and government in calling for urgent, collective action on cyber defense.**
+
+Organization name *
+
+Email *
+
+Add your organization
+
+ _Submissions are subject to approval. Approved organizations will be listed by name only, without a logo._
 
 ## Supporting organizations
 

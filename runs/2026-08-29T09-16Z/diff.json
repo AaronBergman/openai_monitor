@@ -1,0 +1,348 @@
+{
+  "run_id": "2026-08-29T09-16Z",
+  "fetch_time": "2026-08-29T09:17:28Z",
+  "baseline": "2026-08-28T09-15Z",
+  "added": [
+    "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/",
+    "https://openai.com/rosalind/"
+  ],
+  "removed": [
+    "https://openai.com/form/life-sciences-access/",
+    "https://openai.com/gpt-rosalind/"
+  ],
+  "updated": [
+    {
+      "url": "https://openai.com/build-week/",
+      "old_lastmod": "2026-08-28T07:27:15.114Z",
+      "new_lastmod": "2026-08-28T20:30:08.339Z"
+    },
+    {
+      "url": "https://openai.com/business/guides-and-resources/a-practical-guide-to-building-ai-agents/",
+      "old_lastmod": "2026-08-14T02:43:27.913Z",
+      "new_lastmod": "2026-08-28T19:01:19.954Z"
+    },
+    {
+      "url": "https://openai.com/business/guides-and-resources/a-practical-guide-to-building-with-ai/",
+      "old_lastmod": "2026-07-28T02:04:33.745Z",
+      "new_lastmod": "2026-08-28T19:01:19.426Z"
+    },
+    {
+      "url": "https://openai.com/business/guides-and-resources/chatgpt-business-smb-guide/",
+      "old_lastmod": "2026-08-13T23:37:27.545Z",
+      "new_lastmod": "2026-08-28T19:01:20.117Z"
+    },
+    {
+      "url": "https://openai.com/business/guides-and-resources/chatgpt-usage-and-adoption-patterns-at-work/",
+      "old_lastmod": "2026-07-25T07:05:47.743Z",
+      "new_lastmod": "2026-08-28T19:01:22.192Z"
+    },
+    {
+      "url": "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai/",
+      "old_lastmod": "2026-07-21T16:15:43.184Z",
+      "new_lastmod": "2026-08-28T19:01:21.181Z"
+    },
+    {
+      "url": "https://openai.com/business/guides-and-resources/how-openai-uses-codex/",
+      "old_lastmod": "2026-08-13T23:14:42.985Z",
+      "new_lastmod": "2026-08-28T19:01:21.175Z"
+    },
+    {
+      "url": "https://openai.com/business/guides-and-resources/identifying-and-scaling-ai-use-cases/",
+      "old_lastmod": "2026-08-13T23:48:03.947Z",
+      "new_lastmod": "2026-08-28T19:01:19.258Z"
+    },
+    {
+      "url": "https://openai.com/business/guides-and-resources/inside-gpt5-our-best-model-for-work/",
+      "old_lastmod": "2026-08-14T02:10:06.423Z",
+      "new_lastmod": "2026-08-28T19:01:20.775Z"
+    },
+    {
+      "url": "https://openai.com/business/guides-and-resources/staying-ahead-in-the-age-of-ai/",
+      "old_lastmod": "2026-08-13T23:37:37.303Z",
+      "new_lastmod": "2026-08-28T19:01:20.146Z"
+    },
+    {
+      "url": "https://openai.com/business/guides-and-resources/the-state-of-enterprise-ai-2025-report/",
+      "old_lastmod": "2026-07-23T20:46:09.653Z",
+      "new_lastmod": "2026-08-28T19:01:21.394Z"
+    },
+    {
+      "url": "https://openai.com/business/partners/",
+      "old_lastmod": "2026-08-27T18:14:09.107Z",
+      "new_lastmod": "2026-08-28T17:18:56.771Z"
+    },
+    {
+      "url": "https://openai.com/business/partners/altimetrik/",
+      "old_lastmod": "2026-08-24T17:39:24.340Z",
+      "new_lastmod": "2026-08-28T18:56:38.667Z"
+    },
+    {
+      "url": "https://openai.com/business/partners/artium/",
+      "old_lastmod": "2026-08-24T17:39:11.400Z",
+      "new_lastmod": "2026-08-28T18:56:31.913Z"
+    },
+    {
+      "url": "https://openai.com/business/partners/capco/",
+      "old_lastmod": "2026-08-24T23:08:12.047Z",
+      "new_lastmod": "2026-08-28T18:56:42.375Z"
+    },
+    {
+      "url": "https://openai.com/business/partners/cloudwerx/",
+      "old_lastmod": "2026-08-24T17:39:23.340Z",
+      "new_lastmod": "2026-08-28T18:56:40.572Z"
+    },
+    {
+      "url": "https://openai.com/business/partners/cognizant/",
+      "old_lastmod": "2026-08-24T17:39:20.996Z",
+      "new_lastmod": "2026-08-28T18:56:30.782Z"
+    },
+    {
+      "url": "https://openai.com/business/partners/deepsense-ai/",
+      "old_lastmod": "2026-08-24T17:39:23.998Z",
+      "new_lastmod": "2026-08-28T18:56:37.985Z"
+    },
+    {
+      "url": "https://openai.com/business/partners/eliza/",
+      "old_lastmod": "2026-08-24T17:39:25.998Z",
+      "new_lastmod": "2026-08-28T18:56:31.624Z"
+    },
+    {
+      "url": "https://openai.com/business/partners/fellow-intelligence/",
+      "old_lastmod": "2026-08-24T17:39:25.491Z",
+      "new_lastmod": "2026-08-28T18:56:32.343Z"
+    },
+    {
+      "url": "https://openai.com/business/partners/fractal/",
+      "old_lastmod": "2026-08-24T17:39:26.450Z",
+      "new_lastmod": "2026-08-28T18:56:32.023Z"
+    },
+    {
+      "url": "https://openai.com/business/partners/merantix-momentum/",
+      "old_lastmod": "2026-08-24T17:39:19.254Z",
+      "new_lastmod": "2026-08-28T18:56:39.104Z"
+    },
+    {
+      "url": "https://openai.com/business/partners/nablon-ai/",
+      "old_lastmod": "2026-08-24T17:39:11.985Z",
+      "new_lastmod": "2026-08-28T18:56:31.929Z"
+    },
+    {
+      "url": "https://openai.com/business/partners/nagarro/",
+      "old_lastmod": "2026-08-24T17:39:18.965Z",
+      "new_lastmod": "2026-08-28T09:37:18.408Z"
+    },
+    {
+      "url": "https://openai.com/business/partners/rosetree-solutions/",
+      "old_lastmod": "2026-08-24T17:39:10.720Z",
+      "new_lastmod": "2026-08-28T18:56:30.177Z"
+    },
+    {
+      "url": "https://openai.com/business/partners/sia/",
+      "old_lastmod": "2026-08-27T18:14:08.500Z",
+      "new_lastmod": "2026-08-28T18:56:31.175Z"
+    },
+    {
+      "url": "https://openai.com/business/partners/sk-inc-ax/",
+      "old_lastmod": "2026-08-25T22:34:54.808Z",
+      "new_lastmod": "2026-08-28T11:59:56.710Z"
+    },
+    {
+      "url": "https://openai.com/business/partners/slalom/",
+      "old_lastmod": "2026-08-24T17:39:12.442Z",
+      "new_lastmod": "2026-08-28T18:56:31.586Z"
+    },
+    {
+      "url": "https://openai.com/business/partners/snorkel-ai/",
+      "old_lastmod": "2026-08-24T17:39:20.071Z",
+      "new_lastmod": "2026-08-28T18:56:39.614Z"
+    },
+    {
+      "url": "https://openai.com/business/partners/tcs/",
+      "old_lastmod": "2026-08-26T13:39:09.037Z",
+      "new_lastmod": "2026-08-28T17:18:55.020Z"
+    },
+    {
+      "url": "https://openai.com/business/partners/thinking-machines-data-science/",
+      "old_lastmod": "2026-08-24T17:39:19.253Z",
+      "new_lastmod": "2026-08-28T18:56:32.849Z"
+    },
+    {
+      "url": "https://openai.com/business/partners/tredence/",
+      "old_lastmod": "2026-08-24T17:39:03.528Z",
+      "new_lastmod": "2026-08-28T18:56:29.396Z"
+    },
+    {
+      "url": "https://openai.com/business/partners/tribe-ai/",
+      "old_lastmod": "2026-08-24T17:39:12.329Z",
+      "new_lastmod": "2026-08-28T18:56:40.209Z"
+    },
+    {
+      "url": "https://openai.com/business/plugins/figma/",
+      "old_lastmod": "2026-08-17T02:17:53.351Z",
+      "new_lastmod": "2026-08-28T10:40:48.115Z"
+    },
+    {
+      "url": "https://openai.com/business/plugins/investment-banking/",
+      "old_lastmod": "2026-08-27T23:54:55.198Z",
+      "new_lastmod": "2026-08-28T20:18:05.608Z"
+    },
+    {
+      "url": "https://openai.com/collective-cyberdefense/",
+      "old_lastmod": "2026-08-28T08:30:13.210Z",
+      "new_lastmod": "2026-08-29T03:21:05.499Z"
+    },
+    {
+      "url": "https://openai.com/education/",
+      "old_lastmod": "2026-08-28T08:07:06.338Z",
+      "new_lastmod": "2026-08-28T20:17:28.972Z"
+    },
+    {
+      "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts/",
+      "old_lastmod": "2026-08-28T08:30:19.740Z",
+      "new_lastmod": "2026-08-29T04:04:31.589Z"
+    },
+    {
+      "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug/",
+      "old_lastmod": "2026-07-06T16:30:57.356Z",
+      "new_lastmod": "2026-08-28T18:51:36.224Z"
+    },
+    {
+      "url": "https://openai.com/index/expanding-our-presence-in-brazil/",
+      "old_lastmod": "2026-08-27T19:58:19.471Z",
+      "new_lastmod": "2026-08-28T21:04:25.310Z"
+    },
+    {
+      "url": "https://openai.com/index/gpt-5-6-in-kiro/",
+      "old_lastmod": "2026-08-26T19:58:44.240Z",
+      "new_lastmod": "2026-08-28T17:42:32.538Z"
+    },
+    {
+      "url": "https://openai.com/index/gpt-5-safe-completions/",
+      "old_lastmod": "2026-08-27T22:10:33.870Z",
+      "new_lastmod": "2026-08-28T20:11:42.616Z"
+    },
+    {
+      "url": "https://openai.com/index/how-enterprises-put-ai-to-work/",
+      "old_lastmod": "2026-08-17T15:14:04.498Z",
+      "new_lastmod": "2026-08-28T23:24:04.869Z"
+    },
+    {
+      "url": "https://openai.com/index/hugging-face-incident-and-the-road-ahead/",
+      "old_lastmod": "2026-08-28T00:23:01.616Z",
+      "new_lastmod": "2026-08-28T20:12:07.082Z"
+    },
+    {
+      "url": "https://openai.com/index/introducing-admin-plugin/",
+      "old_lastmod": "2026-08-27T20:07:44.848Z",
+      "new_lastmod": "2026-08-28T19:39:10.209Z"
+    },
+    {
+      "url": "https://openai.com/index/introducing-codex/",
+      "old_lastmod": "2026-08-28T09:13:58.857Z",
+      "new_lastmod": "2026-08-28T17:54:40.655Z"
+    },
+    {
+      "url": "https://openai.com/index/introducing-gpt-rosalind/",
+      "old_lastmod": "2026-08-28T08:59:20.093Z",
+      "new_lastmod": "2026-08-28T11:25:29.208Z"
+    },
+    {
+      "url": "https://openai.com/index/introducing-intelligence-age/",
+      "old_lastmod": "2026-08-28T08:26:48.358Z",
+      "new_lastmod": "2026-08-28T14:15:38.684Z"
+    },
+    {
+      "url": "https://openai.com/index/learning-never-stops/",
+      "old_lastmod": "2026-08-28T09:15:49.154Z",
+      "new_lastmod": "2026-08-29T04:12:26.067Z"
+    },
+    {
+      "url": "https://openai.com/index/loveholidays/",
+      "old_lastmod": "2026-08-28T02:03:39.854Z",
+      "new_lastmod": "2026-08-28T19:00:35.733Z"
+    },
+    {
+      "url": "https://openai.com/index/nvidia/chatgpt-work/",
+      "old_lastmod": "2026-08-25T21:20:00.469Z",
+      "new_lastmod": "2026-08-28T17:27:40.641Z"
+    },
+    {
+      "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models/",
+      "old_lastmod": "2026-08-25T23:55:38.539Z",
+      "new_lastmod": "2026-08-29T01:58:44.124Z"
+    },
+    {
+      "url": "https://openai.com/index/partnering-with-codeai/",
+      "old_lastmod": "2026-08-24T10:17:07.951Z",
+      "new_lastmod": "2026-08-28T15:43:20.661Z"
+    },
+    {
+      "url": "https://openai.com/index/previewing-ultrafast/",
+      "old_lastmod": "2026-08-24T12:37:26.552Z",
+      "new_lastmod": "2026-08-28T10:25:07.929Z"
+    },
+    {
+      "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand/",
+      "old_lastmod": "2026-08-28T09:00:00.093Z",
+      "new_lastmod": "2026-08-29T08:59:06.016Z"
+    },
+    {
+      "url": "https://openai.com/index/the-defenders-window/",
+      "old_lastmod": "2026-08-26T19:11:36.749Z",
+      "new_lastmod": "2026-08-28T12:09:08.107Z"
+    },
+    {
+      "url": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training/",
+      "old_lastmod": "2026-08-28T09:05:16.112Z",
+      "new_lastmod": "2026-08-28T17:54:54.945Z"
+    },
+    {
+      "url": "https://openai.com/news/",
+      "old_lastmod": "2026-08-27T21:00:24.947Z",
+      "new_lastmod": "2026-08-28T14:15:46.174Z"
+    },
+    {
+      "url": "https://openai.com/news/intelligence-age/",
+      "old_lastmod": "2026-08-28T01:56:06.312Z",
+      "new_lastmod": "2026-08-28T16:51:44.469Z"
+    },
+    {
+      "url": "https://openai.com/policies/advertising-terms/",
+      "old_lastmod": "2026-08-28T00:32:01.715Z",
+      "new_lastmod": "2026-08-28T11:55:02.749Z"
+    },
+    {
+      "url": "https://openai.com/products/release-notes/",
+      "old_lastmod": "2026-08-25T07:51:33.683Z",
+      "new_lastmod": "2026-08-28T16:52:04.433Z"
+    },
+    {
+      "url": "https://openai.com/signals/",
+      "old_lastmod": "2026-08-28T09:12:06.101Z",
+      "new_lastmod": "2026-08-29T01:21:46.362Z"
+    },
+    {
+      "url": "https://openai.com/signals/enterprise-data/",
+      "old_lastmod": "2026-08-26T21:42:00.972Z",
+      "new_lastmod": "2026-08-28T23:23:32.839Z"
+    }
+  ],
+  "anomalies": [
+    {
+      "kind": "batch_forward_lastmod_no_content_change",
+      "url": "https://openai.com/business/guides-and-resources/*",
+      "details": "8 pages in the business/guides-and-resources/ collection (a-practical-guide-to-building-ai-agents, a-practical-guide-to-building-with-ai, chatgpt-business-smb-guide, chatgpt-usage-and-adoption-patterns-at-work, how-enterprises-are-scaling-ai, how-openai-uses-codex, identifying-and-scaling-ai-use-cases, inside-gpt5-our-best-model-for-work, staying-ahead-in-the-age-of-ai, the-state-of-enterprise-ai-2025-report) all had their <lastmod> jump forward 15-38 days to a tight cluster (2026-08-28T19:01:19Z-19:01:22Z), all within ~3 seconds of each other, with zero rendered-text change on any of them. Consistent with a bulk CMS republish/reindex of the whole collection, not real edits."
+    },
+    {
+      "kind": "large_forward_lastmod_no_content_change",
+      "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug/",
+      "details": "lastmod jumped forward 53 days (2026-07-06T16:30:57Z -> 2026-08-28T18:51:36Z) with zero rendered-text change. Flagged so it isn't mistaken for a new infrastructure incident; the article content is unchanged from its July version."
+    },
+    {
+      "kind": "url_rename",
+      "url": "https://openai.com/gpt-rosalind/ -> https://openai.com/rosalind/",
+      "details": "The GPT-Rosalind product landing page at /gpt-rosalind/ was removed from the sitemap and replaced by a new /rosalind/ URL carrying a rebranded page (new 'Rosalind' brand, 'Rosalind Workbench' product, 'Rosalind Biodefense' program). Not a real removal \u2014 same product, migrated URL. The original announcement post /index/introducing-gpt-rosalind/ is unaffected and remains at its URL."
+    }
+  ],
+  "fetch_failures": []
+}
