@@ -98,6 +98,14 @@ Note: we changed the name of this blog to _Intelligence Age_ to disambiguate thi
 
 Dean Ball
 
+## Keep reading
+
+[View all](</news/>)
+
+![Introducing Intelligence Age – Card image](https://images.ctfassets.net/kftzwdyauwt9/5HdminBqr4TZQsE5iFClGm/23242635382e36b97bd9e38a958fbd80/introducing-ai-futures-card-ocean-blue-1080x1080.png?w=3840&q=90&fm=webp)
+
+[Introducing Intelligence AgeIntelligence AgeAug 20, 2026](</index/introducing-ai-futures/>)
+
 Research
 
   * [Research Index](</research/index/>)
