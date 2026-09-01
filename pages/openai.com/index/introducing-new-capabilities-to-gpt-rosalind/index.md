@@ -62,7 +62,7 @@ Improving performance on scientifically-valuable tasks
 
 
 
-We’re introducing a new model update to our [GPT‑Rosalind](</gpt-rosalind/>) series purpose-built for life sciences research at enterprise scale. It combines GPT‑5.5’s agentic coding and tool-use capabilities with stronger model intelligence in core drug-discovery domains such as medicinal chemistry and genomics, while advancing performance across broader life sciences analysis, design, and experimental workflows.
+We’re introducing a new model update to our [GPT‑Rosalind](</rosalind/>) series purpose-built for life sciences research at enterprise scale. It combines GPT‑5.5’s agentic coding and tool-use capabilities with stronger model intelligence in core drug-discovery domains such as medicinal chemistry and genomics, while advancing performance across broader life sciences analysis, design, and experimental workflows.
 
 Progress in life sciences depends on synthesizing data and evidence across scales and modalities: molecules, genes, pathways, and living systems. In our evaluations, the updated GPT‑Rosalind shows broad performance gains on research tasks from biology experts, complex medicinal chemistry queries, quantitative biology, and wet lab troubleshooting.
 
@@ -170,7 +170,7 @@ On real wet lab protocol assistance, GPT‑Rosalind shows significant gains over
 
 ## From reasoning to executed workflows
 
-We built the [Life Sciences Research⁠(opens in a new window)](<https://github.com/openai/plugins/tree/main/plugins/life-science-research>) and [Life Sciences NGS Analysis⁠(opens in a new window)](<https://github.com/openai/plugins/tree/main/plugins/ngs-analysis>) plugins to extend the increased intelligence of [GPT‑Rosalind](</gpt-rosalind/>) with a practical execution layer for repeatable scientific workflows. Together, these plugins bring sourced evidence retrieval, biological interpretation, and bioinformatics execution into the same workspace, helping researchers connect external evidence with internal omics analyses while preserving artifacts and provenance. All users can now access both plugins through Codex. Qualified GPT‑Rosalind enterprise users can additionally use GPT‑Rosalind to power these plugins.
+We built the [Life Sciences Research⁠(opens in a new window)](<https://github.com/openai/plugins/tree/main/plugins/life-science-research>) and [Life Sciences NGS Analysis⁠(opens in a new window)](<https://github.com/openai/plugins/tree/main/plugins/ngs-analysis>) plugins to extend the increased intelligence of [GPT‑Rosalind](</rosalind/>) with a practical execution layer for repeatable scientific workflows. Together, these plugins bring sourced evidence retrieval, biological interpretation, and bioinformatics execution into the same workspace, helping researchers connect external evidence with internal omics analyses while preserving artifacts and provenance. All users can now access both plugins through Codex. Qualified GPT‑Rosalind enterprise users can additionally use GPT‑Rosalind to power these plugins.
 
 To better leverage Codex as a dynamic workbench for scientists, we added interactive viewers for biologically native file types. The initial set of sequence, alignment, and structure viewers are designed to keep scientists close to the evidence as GPT‑Rosalind reasons across a workflow and directly answer follow-up questions using the active viewer in-context.
 
@@ -194,7 +194,7 @@ Turn a bulk RNA-seq sample sheet, FASTQ bundle, and reference files into a QC-re
 
 ## Expanded access for trusted organizations
 
-We are expanding access to the [GPT‑Rosalind](</gpt-rosalind/>) series to eligible organizations globally. GPT‑Rosalind will be available in research preview through our trusted-access deployment structure for organizations that are conducting legitimate scientific research with clear public benefit, have strong governance and safety oversight, and controlled access with enterprise-grade security.
+We are expanding access to the [GPT‑Rosalind](</rosalind/>) series to eligible organizations globally. GPT‑Rosalind will be available in research preview through our trusted-access deployment structure for organizations that are conducting legitimate scientific research with clear public benefit, have strong governance and safety oversight, and controlled access with enterprise-grade security.
 
 As part of this global expansion, we’re excited to help support Novo Nordisk’s mission of bringing innovative treatment options to patients faster by helping scale their medical research with GPT‑Rosalind. Novo Nordisk is leveraging frontier AI capabilities to help researchers analyze complex datasets, uncover useful patterns, and test hypotheses more quickly. GPT‑Rosalind’s stronger biological understanding will help teams connect evidence across literature, genomics, transcriptomics, sequence, structure, and experimental results, making it easier to move from data to clearer research decisions.
 
@@ -214,11 +214,15 @@ The updated GPT‑Rosalind is the next step in our broader commitment to buildin
 
 This also means applying life sciences AI to high-impact public-benefit work, from drug discovery and translational medicine to public health, preparedness, and biodefense. Through [Rosalind Biodefense](</index/strengthening-societal-resilience-with-rosalind-biodefense/>) and our trusted-access deployment model, we aim to put frontier biological capabilities in the hands of the researchers, institutions, and defenders working to improve human health and strengthen societal resilience.
 
-We will continue building [GPT‑Rosalind](</gpt-rosalind/>) to become a more capable partner across the full life cycle of scientific research, helping scientists move more quickly from the right questions to clearer evidence, better experiments, and ultimately new treatments for patients.
+We will continue building [GPT‑Rosalind](</rosalind/>) to become a more capable partner across the full life cycle of scientific research, helping scientists move more quickly from the right questions to clearer evidence, better experiments, and ultimately new treatments for patients.
 
 ## Keep reading
 
 [View all](</news/>)
+
+![Expanding access to AI > Cover image](https://images.ctfassets.net/kftzwdyauwt9/x3ij3VqMj60KcdHucQvNc/414ce018aafcf0916557e004ee112d71/expanding-access-to-ai--art-card-purple-v001.png?w=3840&q=90&fm=webp)
+
+[A milestone in expanding access to AIProductAug 31, 2026](</index/expanding-access-to-ai-with-chatgpt-ads/>)
 
 ![ChatGPT for Teachers district expansion | Original neutral library cover](https://images.ctfassets.net/kftzwdyauwt9/4jHps0gmVQfIrnl2shwDBi/35e47854409876d353f3bb502a164317/teachers-original-neutral-listing.png?w=3840&q=90&fm=webp)
 
@@ -227,10 +231,6 @@ We will continue building [GPT‑Rosalind](</gpt-rosalind/>) to become a more ca
 ![Learning never stops card image](https://images.ctfassets.net/kftzwdyauwt9/rGBw0SMWP2aaIH5twRBgX/5f8f24d0e5a03eecfc74ab6cee3dc331/learning-never-stops-how-ai-makes-learning-continuous-cover.png?w=3840&q=90&fm=webp)
 
 [Learning never stops: How AI makes learning continuousProductAug 26, 2026](</index/learning-never-stops/>)
-
-![GPT-5.6 in Kiro > OpenAI and official Kiro full logo > 1:1 art card](https://images.ctfassets.net/kftzwdyauwt9/31NSq4ufuXRuOUqH9Xdjno/319b9502b892d44b8b91df7aef9d53ed/OAI_Kiro_Partnership_1x1_Art_Card_Official_Full_Lockup_2160.png?w=3840&q=90&fm=webp)
-
-[Advancing price-performance for developers with GPT‑5.6 in KiroProductAug 24, 2026](</index/gpt-5-6-in-kiro/>)
 
 Research
 

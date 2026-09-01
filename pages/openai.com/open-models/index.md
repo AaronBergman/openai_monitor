@@ -34,8 +34,6 @@ Advanced open-weight reasoning models to customize for any use case and run anyw
 
 [![](https://cdn.openai.com/ctf-cdn/open-models-card-bg.png?w=3840&q=50&fm=webp)-0.500.000.000.00-0.50gpt-ossOpen reasoning models designed to run locally on desktops, laptops, and in data centers—available in 120B and 20B parameters.Start building(opens in a new window)(opens in a new window)](<https://huggingface.co/collections/openai/gpt-oss-68911959590a1634ba11c7a4>)[![](https://cdn.openai.com/ctf-cdn/open-models-card-bg.png?w=3840&q=50&fm=webp)-0.500.000.000.00-0.50gpt-oss-safeguardOpen safety reasoning models that support custom safety policies—available in 120B and 20B parameters.Start building(opens in a new window)(opens in a new window)](<https://huggingface.co/collections/openai/gpt-oss-safeguard>)
 
-![Icon representing unlocking](https://images.ctfassets.net/kftzwdyauwt9/1TKGZmhwnWDTOyOhxWUOvk/4f7fdaf7831728aeb9c7fd304acb2f08/unlock.svg?w=3840&q=90)
-
 #### Permissive license
 
 These models are supported by the Apache 2.0 license. Build freely without worrying about copyleft restrictions or patent risk—whether you’re experimenting, customizing, or deploying commercially.

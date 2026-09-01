@@ -111,8 +111,6 @@ ChatGPT business product services and the API Platform have been evaluated by th
 
 ## Security at every step
 
-![Icon of a shield and lock ](https://images.ctfassets.net/kftzwdyauwt9/6hDBeQy0YjEeXZlEdGEVBY/b79abda438ebf3b2a509f0116cefe100/shield-lock.svg?w=3840&q=90)
-
 #### Defense in depth
 
 Infrastructure serving our products runs on trusted cloud providers using industry best practices, including encryption in transit and at rest, change management, and strict access controls. [_Read our ChatGPT Security Whitepaper_ ⁠(opens in a new window)](<https://trust.openai.com/?itemUid=382f924d-54f3-43a8-a9df-c39e6c959958&source=click>).
@@ -122,8 +120,6 @@ Infrastructure serving our products runs on trusted cloud providers using indust
 #### Responsible model development
 
 Our models and systems are regularly evaluated through evaluations against industry benchmarks, adversarial testing and ongoing safety monitoring. [_Learn more about OpenAI’s approach to model safety_ ⁠](<https://openai.com/safety/>).
-
-![ChatGPT business logo](https://images.ctfassets.net/kftzwdyauwt9/3jhYxDF9XjrncUXjMDyobX/7f9cbd7776f36cb322a094a4a0efc58e/business.svg?w=3840&q=90)
 
 #### Enterprise security controls
 

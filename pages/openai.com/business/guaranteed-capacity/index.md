@@ -50,13 +50,9 @@ Customers can choose 1-3-year commitments, with discounts that increase based on
 
 Secure access to shared capacity for production systems, customer-facing applications, and AI agents running on OpenAI.
 
-![Line drawing icon of a diagram](https://images.ctfassets.net/kftzwdyauwt9/6B7uZ7nncgj2nNSjSJQddb/cda68cbcb98dfc13985c47d6daf7f589/diagram-subsubsection.svg?w=3840&q=90)
-
 #### Plan with predictable compute
 
 Use guaranteed spend allocations across supported cloud providers and model families, with flexibility to evolve alongside your business needs.
-
-![Icon of a line trending upward](https://images.ctfassets.net/kftzwdyauwt9/1P4fYT1qO7MHBCnixZ02Ha/44a665c4e17209408fdc0b060a53ef33/trending.svg?w=3840&q=90)
 
 #### Align capacity to long-term growth
 

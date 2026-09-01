@@ -54,37 +54,25 @@ We believe AI should help every researcher make new discoveries. That’s why we
 
 Use our models and tools to move between scientific questions, technical workflows, and the practical work that keeps research moving.
 
-![Open book representing literature and evidence.](https://images.ctfassets.net/kftzwdyauwt9/7DCB8vjrCbOD0El7RcAxUG/ff6c3cf0f39459a8693d88e7e7562d15/Explore_literature_and_evidence.svg?w=3840&q=90)
-
 #### Explore literature and evidence
 
 Search across papers and public research resources, synthesize findings, evaluate citations, and identify questions worth investigating.
-
-![Code brackets representing data analysis and programming.](https://images.ctfassets.net/kftzwdyauwt9/1MYHDG9j52mGZXA5crgf4k/1c4f899dbe511d0a19a21d0034a34119/Analyze_data_and_write_code.svg?w=3840&q=90)
 
 #### Analyze data and write code
 
 Work with complex datasets, write and debug analysis code, build reproducible workflows, and manage research pipelines.
 
-![Laboratory flask representing scientific modeling.](https://images.ctfassets.net/kftzwdyauwt9/5PycrSzddNp720IfTfq6Aq/e6c81e403435eb7b53f09ecbab0920bd/Model_scientific_problems.svg?w=3840&q=90)
-
 #### Model scientific problems
 
 Explore mathematical ideas, support simulations, investigate molecular structures, and reason across scientific disciplines.
-
-![Connected cable endpoints representing research tool integrations.](https://images.ctfassets.net/kftzwdyauwt9/4QnO0hCepUC3SYBuVFEUb1/880c914c54a1b3223774d0e6f2c85397/Connect_existing_research_tools.svg?w=3840&q=90)
 
 #### Connect existing research tools
 
 Bring in scientific databases, computational notebooks, reference managers, data platforms, and other tools researchers already use.
 
-![Light bulb representing ideas and experimentation.](https://images.ctfassets.net/kftzwdyauwt9/5GPcYRRk10Pas2kpk5D4NX/0786cdf3530056f393f7ad5b882c5667/Move_from_ideas_to_experiments.svg?w=3840&q=90)
-
 #### Move from ideas to experiments
 
 Compare hypotheses, investigate potential mechanisms, and develop plans for researchers to evaluate and test.
-
-![Pen and text lines representing research writing and administration.](https://images.ctfassets.net/kftzwdyauwt9/5fu03QR5Gd29DmFiod1jXg/23d50290e5160caf7a1e33d11a3fbe8d/Handle_the_work_surrounding_science.svg?w=3840&q=90)
 
 #### Handle the work surrounding science
 

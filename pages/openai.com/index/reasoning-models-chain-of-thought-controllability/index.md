@@ -117,6 +117,7 @@ Our results suggest that CoT controllability is unlikely to currently pose a maj
 To help track these dynamics over time, we are going to start reporting CoT controllability alongside [_CoT monitorability_ ⁠](<https://openai.com/index/evaluating-chain-of-thought-monitorability/>) in system cards for future frontier models, starting with GPT‑5.4 Thinking, building on our [_ongoing commitment_ ⁠](<https://openai.com/index/chain-of-thought-monitoring/>) to not applying optimization pressure directly to the CoTs of frontier reasoning models.
 
   * [Ethics & Safety](</news/?tags=ethics-safety>)
+  * [Alignment](</news/?tags=alignment>)
   * [2026](</news/?tags=2026>)
 
 

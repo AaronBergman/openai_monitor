@@ -42,19 +42,13 @@ Help me design a new calendar feature
 
 ## Run product design with greater speed, consistency, and confidence
 
-![Pull request merged icon.](https://images.ctfassets.net/kftzwdyauwt9/5BU3WndA7H3xYRHc05J7Hx/f07bab19c69f070e592f073d372dc846/engineering-pull-request-merged.png?w=3840&q=90&fm=webp)
-
 #### Choose stronger directions
 
 Prototype and test more ideas before committing engineering time.
 
-![Batch icon.](https://images.ctfassets.net/kftzwdyauwt9/28B23RFp29OpbywTNRn4ms/94465ae53c2f27fb2380fb1d2df00c79/engineering-batch.png?w=3840&q=90&fm=webp)
-
 #### Design with consistency
 
 Review flows, identify UX gaps, and build from approved patterns teams can reuse.
-
-![Bar chart icon.](https://images.ctfassets.net/kftzwdyauwt9/76mLzAjM17l0d823uZsOg7/75056c5f1216a296779bfc6b97c4c3e7/engineering-bar-chart.png?w=3840&q=90&fm=webp)
 
 #### Catch issues earlier
 

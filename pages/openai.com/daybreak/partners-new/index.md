@@ -44,8 +44,6 @@ Daybreak integrates OpenAI with cybersecurity companies, global systems integrat
 
 Build at the frontier of cyber defense. Combine OpenAI’s frontier cyber capabilities with your products, expertise, and customer relationships to create the next generation of defensive solutions.
 
-![icon depicting a wrench](https://images.ctfassets.net/kftzwdyauwt9/5rRtPBCQYoLN5poacJhfqp/ead486284c437b6863a00541434c114d/settings-wrench.svg?w=3840&q=90)
-
 #### Build at the frontier of cyber defense
 
 Combine OpenAI’s frontier cyber capabilities with your products, expertise, and customer relationships to create the next generation of defensive solutions.
@@ -84,25 +82,17 @@ Bring OpenAI cyber capabilities into managed and advisory services while trained
 
 ## How the program works
 
-![Apply icon.](https://images.ctfassets.net/kftzwdyauwt9/6mgwaV1ILPeczYH8zLmCkT/ab2728c509c8d7001c8ec7fbff969eb0/apply.svg?w=3840&q=90)
-
 #### Apply
 
 Submit your interest through our [partner interest form](</form/daybreak-cyber-partner-program/>). The OpenAI team will review your interest.
-
-![Connect icon.](https://images.ctfassets.net/kftzwdyauwt9/5wy521gKvnz55t2fcsQeJU/efe2826dd30908fdaabae7ff5b846293/connect.svg?w=3840&q=90)
 
 #### Connect
 
 If your workflows are a good fit for the Daybreak partner program, the OpenAI team will reach out to initiate discussions.
 
-![Build icon.](https://images.ctfassets.net/kftzwdyauwt9/3PWJLxjdiwaLYPxACDmLYA/0db4af99ff3564d9f7481a4624798db3/build.svg?w=3840&q=90)
-
 #### Build
 
 Build and validate with support from OpenAI cyber deployment engineering, including safeguards and controls.
-
-![Launch icon.](https://images.ctfassets.net/kftzwdyauwt9/4OcSpdaXUf74Wb8q6a4aZL/538bfc79d9df73e570f943d513f4b605/launch.svg?w=3840&q=90)
 
 #### Launch
 

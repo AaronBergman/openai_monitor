@@ -10,163 +10,324 @@ An open letter for a global surge in cyber defense.
 
 ## Signatories
 
-1Password  
-7AI  
-Abnormal AI  
-Accenture  
-Adobe  
-Advent International  
-Aikido  
-Akamai  
-AMD  
-Anthropic  
-APIsec  
-Arena  
-Arm  
-Atlassian  
-AT&T  
-AWS  
-BBVA  
-BCG  
-Bitsight  
-Block  
-BNY  
-Booz Allen  
-Box  
-Broadcom  
-Bugcrowd  
-Calif  
-Cantina Security  
-Cape  
-Capgemini  
-Capital One  
-Cato Networks  
-Center for Internet Security  
-Cerebras  
-Chainguard  
-Check Point  
-Circle  
-Cisco  
-Citadel  
-Citi  
-Clearly AI  
-Cloaked  
-Cloudflare  
-Cogent Security  
-Cognition  
-Cognizant  
-Corelight  
-CoreWeave  
-Corridor  
-Cotool  
-CrowdStrike  
-Cyera  
-Darktrace  
-Databricks  
-Datadog  
-Dell  
-depthfirst  
-Deutsche Telekom  
-Dialpad  
-Dragos  
-Dropzone.ai  
-DTCC  
-Elastic  
-Enclave  
-EPAM  
-Equinix  
-EXA.ai  
-ExodusPoint  
-F5  
-Factory  
-Fifth Third Bank  
-Figma  
-Firefox  
-FIS  
-Fiserv  
-Fleet AI  
-Flexport  
-Fortinet  
-Gen Digital  
-General Motors  
-GitHub  
-Glean  
-Glow  
-GoDaddy  
-Google  
-HackerOne  
-Harvey  
-HCLTech  
-Hugging Face  
-IBM  
-Incident.io  
-Intercontinental Exchange, Inc.  
-KPMG LLP  
-Kyndryl  
-Lovable  
-Lumen Technologies  
-Marsh  
-Mastercard  
-Mate Security  
-Mercor  
-Micron  
-Microsoft  
-Mizuho  
-Nationwide Building Society  
-Netskope  
-Nokia  
-NTT DATA  
-Obsidian Security  
-Octane Security  
-Offensive AI Conference (OAIC)  
-Okta  
-Oliver Wyman  
-OpenAI  
-Oracle  
-Outtake AI  
-Palo Alto Networks  
-PayPal  
-Perplexity  
-Proofpoint  
-Prophet Security  
-PwC  
-Red Hat  
-ReliaQuest  
-RemoteThreat  
-Replit  
-Robinhood  
-RunSybil  
-Samsara  
-SAP  
-Scale AI  
-SentinelOne  
-ServiceNow  
-Shopify  
-Snowflake  
-Snyk  
-Socket  
-Sophos  
-SpecterOps  
-Tailscale  
-Tenable  
-Tenzai  
-The Clearing House  
-Third Moment Research  
-Trail of Bits  
-TransUnion  
-TrendAI  
-Uber  
-Unisys  
-U.S. Bank  
-Vercel  
-Veria Labs  
-Visa  
-WWT  
-XBOW  
-Zscaler  
-Zurich Insurance Company
+#ABCDEFGHIJKLMNOPQRSTUVWXYZ
 
-1Password, 7AI, Abnormal AI, Accenture, Adobe, Advent International, Aikido, Akamai, AMD, Anthropic, APIsec, Arena, Arm, Atlassian, AT&T, AWS, BBVA, BCG, Bitsight, Block, BNY, Booz Allen, Box, Broadcom, Bugcrowd, Calif, Cantina Security, Cape, Capgemini, Capital One, Cato Networks, Center for Internet Security, Cerebras, Chainguard, Check Point, Circle, Cisco, Citadel, Citi, Clearly AI, Cloaked, Cloudflare, Cogent Security, Cognition, Cognizant, Corelight, CoreWeave, Corridor, Cotool, CrowdStrike, Cyera, Darktrace, Databricks, Datadog, Dell, depthfirst, Deutsche Telekom, Dialpad, Dragos, Dropzone.ai, DTCC, Elastic, Enclave, EPAM, Equinix, EXA.ai, ExodusPoint, F5, Factory, Fifth Third Bank, Figma, Firefox, FIS, Fiserv, Fleet AI, Flexport, Fortinet, Gen Digital, General Motors, GitHub, Glean, Glow, GoDaddy, Google, HackerOne, Harvey, HCLTech, Hugging Face, IBM, Incident.io, Intercontinental Exchange, Inc., KPMG LLP, Kyndryl, Lovable, Lumen Technologies, Marsh, Mastercard, Mate Security, Mercor, Micron, Microsoft, Mizuho, Nationwide Building Society, Netskope, Nokia, NTT DATA, Obsidian Security, Octane Security, Offensive AI Conference (OAIC), Okta, Oliver Wyman, OpenAI, Oracle, Outtake AI, Palo Alto Networks, PayPal, Perplexity, Proofpoint, Prophet Security, PwC, Red Hat, ReliaQuest, RemoteThreat, Replit, Robinhood, RunSybil, Samsara, SAP, Scale AI, SentinelOne, ServiceNow, Shopify, Snowflake, Snyk, Socket, Sophos, SpecterOps, Tailscale, Tenable, Tenzai, The Clearing House, Third Moment Research, Trail of Bits, TransUnion, TrendAI, Uber, Unisys, U.S. Bank, Vercel, Veria Labs, Visa, WWT, XBOW, Zscaler, and Zurich Insurance Company
+  * 1Password
+
+  * 7AI
+
+  * Abnormal AI
+
+  * Accenture
+
+  * Adobe
+
+  * Advent International
+
+  * Aikido
+
+  * Akamai
+
+  * AMD
+
+  * Anthropic
+
+  * APIsec
+
+  * Arena
+
+  * Arm
+
+  * Atlassian
+
+  * AT&T
+
+  * AWS
+
+  * BBVA
+
+  * Bitsight
+
+  * Block
+
+  * BNY
+
+  * Booz Allen
+
+  * Box
+
+  * Broadcom
+
+  * Bugcrowd
+
+  * Calif
+
+  * Cantina Security
+
+  * Cape
+
+  * Capgemini
+
+  * Capital One
+
+  * Cato Networks
+
+  * Center for Internet Security
+
+  * Cerebras
+
+  * Chainguard
+
+  * Check Point
+
+  * Circle
+
+  * Cisco
+
+  * Citadel
+
+  * Citi
+
+  * Clearly AI
+
+  * Cloaked
+
+  * Cloudflare
+
+  * Cogent Security
+
+  * Cognition
+
+  * Cognizant
+
+  * Cohesity
+
+  * Corelight
+
+  * CoreWeave
+
+  * Corridor
+
+  * Cotool
+
+  * CrowdStrike
+
+  * Cyera
+
+  * Darktrace
+
+  * Databricks
+
+  * Datadog
+
+  * Dell
+
+  * depthfirst
+
+  * Deutsche Telekom
+
+  * Dialpad
+
+  * Dragos
+
+  * Dropzone.ai
+
+  * DTCC
+
+  * Elastic
+
+  * Enclave
+
+  * EPAM
+
+  * Equinix
+
+  * EXA.ai
+
+  * ExodusPoint
+
+  * F5
+
+  * Factory
+
+  * Fifth Third Bank
+
+  * Figma
+
+  * Firefox
+
+  * FIS
+
+  * Fiserv
+
+  * Fleet AI
+
+  * Flexport
+
+  * Fortinet
+
+  * Gen Digital
+
+  * General Motors
+
+  * GitHub
+
+  * Glean
+
+  * Glow
+
+  * GoDaddy
+
+  * Google
+
+  * HackerOne
+
+  * Harvey
+
+  * HCLTech
+
+  * HPE
+
+  * Hugging Face
+
+  * IBM
+
+  * Incident.io
+
+  * Intercontinental Exchange, Inc.
+
+  * KPMG LLP
+
+  * Kyndryl
+
+  * Lovable
+
+  * Lumen Technologies
+
+  * Marsh
+
+  * Mastercard
+
+  * Mate Security
+
+  * Mercor
+
+  * Micron
+
+  * Microsoft
+
+  * Mizuho
+
+  * Nationwide Building Society
+
+  * Netskope
+
+  * Nokia
+
+  * NTT DATA
+
+  * Obsidian Security
+
+  * Octane Security
+
+  * Offensive AI Conference (OAIC)
+
+  * Okta
+
+  * Oliver Wyman
+
+  * OpenAI
+
+  * Oracle
+
+  * Outtake AI
+
+  * Palo Alto Networks
+
+  * PayPal
+
+  * Perplexity
+
+  * Proofpoint
+
+  * Prophet Security
+
+  * PwC
+
+  * Red Hat
+
+  * ReliaQuest
+
+  * RemoteThreat
+
+  * Replit
+
+  * Robinhood
+
+  * RunSybil
+
+  * Samsara
+
+  * SAP
+
+  * Scale AI
+
+  * SentinelOne
+
+  * ServiceNow
+
+  * Shopify
+
+  * Snowflake
+
+  * Snyk
+
+  * Socket
+
+  * Sophos
+
+  * SpecterOps
+
+  * Tailscale
+
+  * Tenable
+
+  * Tenzai
+
+  * The Clearing House
+
+  * Third Moment Research
+
+  * Trail of Bits
+
+  * TransUnion
+
+  * TrendAI
+
+  * Uber
+
+  * Unisys
+
+  * U.S. Bank
+
+  * Vercel
+
+  * Veria Labs
+
+  * Visa
+
+  * WWT
+
+  * XBOW
+
+  * Zscaler
+
+  * Zurich Insurance Company
+
+
+
+
+1Password, 7AI, Abnormal AI, Accenture, Adobe, Advent International, Aikido, Akamai, AMD, Anthropic, APIsec, Arena, Arm, Atlassian, AT&T, AWS, BBVA, Bitsight, Block, BNY, Booz Allen, Box, Broadcom, Bugcrowd, Calif, Cantina Security, Cape, Capgemini, Capital One, Cato Networks, Center for Internet Security, Cerebras, Chainguard, Check Point, Circle, Cisco, Citadel, Citi, Clearly AI, Cloaked, Cloudflare, Cogent Security, Cognition, Cognizant, Cohesity, Corelight, CoreWeave, Corridor, Cotool, CrowdStrike, Cyera, Darktrace, Databricks, Datadog, Dell, depthfirst, Deutsche Telekom, Dialpad, Dragos, Dropzone.ai, DTCC, Elastic, Enclave, EPAM, Equinix, EXA.ai, ExodusPoint, F5, Factory, Fifth Third Bank, Figma, Firefox, FIS, Fiserv, Fleet AI, Flexport, Fortinet, Gen Digital, General Motors, GitHub, Glean, Glow, GoDaddy, Google, HackerOne, Harvey, HCLTech, HPE, Hugging Face, IBM, Incident.io, Intercontinental Exchange, Inc., KPMG LLP, Kyndryl, Lovable, Lumen Technologies, Marsh, Mastercard, Mate Security, Mercor, Micron, Microsoft, Mizuho, Nationwide Building Society, Netskope, Nokia, NTT DATA, Obsidian Security, Octane Security, Offensive AI Conference (OAIC), Okta, Oliver Wyman, OpenAI, Oracle, Outtake AI, Palo Alto Networks, PayPal, Perplexity, Proofpoint, Prophet Security, PwC, Red Hat, ReliaQuest, RemoteThreat, Replit, Robinhood, RunSybil, Samsara, SAP, Scale AI, SentinelOne, ServiceNow, Shopify, Snowflake, Snyk, Socket, Sophos, SpecterOps, Tailscale, Tenable, Tenzai, The Clearing House, Third Moment Research, Trail of Bits, TransUnion, TrendAI, Uber, Unisys, U.S. Bank, Vercel, Veria Labs, Visa, WWT, XBOW, Zscaler, and Zurich Insurance Company
 
 We have a limited window to strengthen cyber defenses.
 
@@ -231,7 +392,7 @@ Add your organization
 
  _Submissions are subject to approval. Approved organizations will be listed by name only, without a logo._
 
-## Supporting organizations
+## First day signatories
 
 [OpenAI © 2015–2026](</>)
 

@@ -44,8 +44,6 @@ Available on [macOS](<https://persistent.oaistatic.com/codex-app-prod/Codex.dmg>
 
 Point Codex to your sources and it turns scattered information into clear outputs—briefs, presentations, summaries, and reports—without the back-and-forth.
 
-![Clock history icon.](https://images.ctfassets.net/kftzwdyauwt9/34564l3SBZXgiTM9esNaDV/ca03c014f645e9bb1f8eafd2a0af8060/clock-history.svg?w=3840&q=90)
-
 #### Reduce repetitive work
 
 Offload recurring tasks so updates, reviews, and follow-ups are ready when you need them—without manual effort each time.

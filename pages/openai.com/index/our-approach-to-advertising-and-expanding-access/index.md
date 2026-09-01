@@ -47,7 +47,7 @@ Given that, we want to be clear about the principles that guide our approach to 
 ## Our ads principles
 
   * **Mission alignment:** Our mission is to ensure AGI benefits all of humanity; our pursuit of advertising is always in support of that mission and making AI more accessible.
-  * **Answer independence:** Ads do not influence the answers ChatGPT gives you. Answers are optimized based on what's most helpful to you. Ads are always separate and clearly labeled.
+  * **Answer independence:** Ads do not influence the answers ChatGPT gives you. Answers are optimized based on what’s most helpful to you. Ads are always separate and clearly labeled.
   * **Conversation privacy:** We keep your conversations with ChatGPT private from advertisers, and we never sell your data to advertisers.
   * **Choice and control:** You control how your data is used. You can turn off personalization, and you can clear the data used for ads at any time. We’ll always offer a way to not see ads in ChatGPT, including a paid tier that’s ad-free.
   * **Long-term value:** We do not optimize for time spent in ChatGPT. We prioritize user trust and user experience over revenue.
@@ -60,7 +60,7 @@ Here’s an example of what the first ad formats we plan to test could look like
 
 ![Mobile phone screen showing a ChatGPT response with simple, authentic Mexican dinner party recipes, followed by a clearly labeled sponsored product recommendation from Harvest Groceries for a hot sauce item, displayed against a soft blue gradient background.](https://images.ctfassets.net/kftzwdyauwt9/73QmMtFD4PrKmQkzxO5ErF/8aa0bb1d0112715bce00b13a0d9b80ef/OAI_Ad_Blog_Inline-AdMock2_16x9_V2.png?w=3840&q=90&fm=webp)
 
-The best ads are useful, entertaining, and help people discover new products and services. Given what AI can do, we're excited to develop new experiences over time that people find more helpful and relevant than any other ads. Conversational interfaces create possibilities for people to go beyond static messages and links. For example, soon you might see an ad and be able to directly ask the questions you need to make a purchase decision. 
+The best ads are useful, entertaining, and help people discover new products and services. Given what AI can do, we’re excited to develop new experiences over time that people find more helpful and relevant than any other ads. Conversational interfaces create possibilities for people to go beyond static messages and links. For example, soon you might see an ad and be able to directly ask the questions you need to make a purchase decision. 
 
 ![Two mobile phone screens showing a ChatGPT conversation about traveling to Santa Fe, New Mexico, with an informational travel response on the left and a clearly labeled sponsored listing for “Pueblo & Pine” desert cottages, and a follow-up chat view with a text input on the right, displayed against a soft blue gradient background.](https://images.ctfassets.net/kftzwdyauwt9/1oiSiUkLymK0xlEOWcJubw/1a99295f8d50f2bcfd82fda2f3bcf851/OAI_Ad_Blog_Inline-AdMock1_16x9_V2.png?w=3840&q=90&fm=webp)
 
@@ -83,17 +83,17 @@ Fidji Simo
 
 [View all](</news/>)
 
-![Supporting Thailand’s next generation of AI startups > Cover image](https://images.ctfassets.net/kftzwdyauwt9/6ttG55Aq2kyDRG8wxOkTx9/897d266cacc77edc0a25d06b9f6c2c45/supporting-next-generation-ai-startups-thailand--cover.png?w=3840&q=90&fm=webp)
+![California youth AI safety — cover](https://images.ctfassets.net/kftzwdyauwt9/3CsHxgcoiHHUUaYOB1FNiq/38e90de831dad795965ed98ffdd3a95a/Frame.png?w=3840&q=90&fm=webp)
 
-[Supporting Thailand’s next generation of AI startupsCompanyAug 28, 2026](</index/supporting-next-generation-ai-startups-thailand/>)
+[OpenAI supports California’s bill to advance youth AI safetyCompanyAug 31, 2026](</index/supporting-california-bill-advance-ai-youth-safety/>)
 
-![Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training > Cover image](https://images.ctfassets.net/kftzwdyauwt9/2X12MQqhR5AY1wog6JW3Q3/721873f6edd491a0f241038a9324b341/what-students-gain-chatgpt-critical-thinking--art-card-no-border.png?w=3840&q=90&fm=webp)
+![Expanding access to AI > Cover image](https://images.ctfassets.net/kftzwdyauwt9/x3ij3VqMj60KcdHucQvNc/414ce018aafcf0916557e004ee112d71/expanding-access-to-ai--art-card-purple-v001.png?w=3840&q=90&fm=webp)
 
-[What students gain from ChatGPT and critical-thinking trainingCompanyAug 27, 2026](</index/what-students-gain-from-chatgpt-critical-thinking-training/>)
+[A milestone in expanding access to AIProductAug 31, 2026](</index/expanding-access-to-ai-with-chatgpt-ads/>)
 
-![Expanding OpenAI’s presence in Brazil > Cover image](https://images.ctfassets.net/kftzwdyauwt9/7jZgAn4y7ZP5GFx0HimbWT/84b3d734ebe29229bd58b8d8a775dc60/expanding-openai-presence-in-brazil-art-card.png?w=3840&q=90&fm=webp)
+![Our decision on Cursor following its acquisition by SpaceX — cover](https://images.ctfassets.net/kftzwdyauwt9/3gFEgHvtA7Rsa5yUen97p5/b78a11ad81397a4003b879160e5a19b3/index-our-decision-on-cursor-following-its-acquisition-by-spacex-cover.png?w=3840&q=90&fm=webp)
 
-[Expanding OpenAI’s presence in BrazilCompanyAug 27, 2026](</index/expanding-our-presence-in-brazil/>)
+[Our decision on Cursor following its acquisition by SpaceXCompanyAug 28, 2026](</index/our-decision-on-cursor-following-its-acquisition-by-spacex/>)
 
 Research
 

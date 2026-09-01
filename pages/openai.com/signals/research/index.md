@@ -34,6 +34,8 @@ OpenAI’s Economic Research team periodically publishes reports and analysis on
 
 Explore the latest resources below, including country-focused Signals reports, research on how people use ChatGPT, and briefings on enterprise adoption and productivity outcomes.
 
+### [Training novices to think, or giving them LLMs? Evidence from an RCTAugust 2026 | A study examining how access to ChatGPT and training in causal reasoning affect how students approach and perform a real-world business problem.Learn more](<https://cdn.openai.com/pdf/novices-and-llm-august-2026.pdf>)
+
 ### [How organizations use AI: Evidence from ChatGPTAugust 2026 | Research examining how ChatGPT Enterprise has spread within and across organizations over the past two years.Learn more](<https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf>)
 
 ### [How AI is expanding what people do at workJuly 2026 | An analysis of how occupation-specific tasks spread across job boundaries.Learn more](<https://openai.com/index/how-ai-is-expanding-what-people-do-at-work/>)
@@ -59,8 +61,6 @@ Explore the latest resources below, including country-focused Signals reports, r
 ### [GPT as a measurement toolFebruary 2026 | This paper introduces GABRIEL, a software package that uses GPT to reliably quantify hard-to-measure attributes in qualitative text.Learn more](<https://cdn.openai.com/pdf/7517a586-5bfa-4b87-bd3d-6ea0e9e844c7/GPT-as-a-measurement-tool.pdf>)
 
 ### [Ending the capability overhangJanuary 2026 | Proposals to close the gap between what AI tools can do and how users are using them.Learn more](<https://cdn.openai.com/pdf/openai-ending-the-capability-overhang.pdf>)
-
-### [State of enterprise AI 2025December 2025 | A comprehensive look at how enterprises are adopting AI.Learn more](<https://cdn.openai.com/pdf/7ef17d82-96bf-4dd1-9df2-228f7f377a29/the-state-of-enterprise-ai_2025-report.pdf>)
 
 ### Discover more
 

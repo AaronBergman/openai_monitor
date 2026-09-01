@@ -87,7 +87,7 @@ These protections are based on our [_Under-18 Principles in our Model Spec_](</i
 
 This work also builds on the family tools we introduced with [_parental controls and notifications_](</index/introducing-parental-controls/>). Parents with linked teen accounts can set Quiet Hours, manage selected settings, and receive safety notifications in limited high-risk situations. We are adding additional notifications related to eating disorders, while limiting what is shared and focusing on moments when offline support may matter most.
 
-![ChatGPT parental controls showing linked accounts and settings for sensitive content, quiet hours, study hours, and data controls.](https://images.ctfassets.net/kftzwdyauwt9/6XoWSPfHrsVQNuZzOJQ8eI/e3e42a9755e9f59b10639045f4bec03d/Still-06-parent_setting.png?w=3840&q=90&fm=webp)
+![ChatGPT parental controls showing linked accounts and settings for sensitive content, quiet hours, study hours, and data controls.](https://images.ctfassets.net/kftzwdyauwt9/6XoWSPfHrsVQNuZzOJQ8eI/537db0f32ecc7a80284f2cc7ae8c042d/Still-06-parent_setting.png?w=3840&q=90&fm=webp)
 
 ## Supporting healthy, balanced use
 
@@ -103,7 +103,7 @@ We are also adding cues and controls that are meant to reduce risk in context an
 
 
 
-![ChatGPT reminds a teen to check for sensitive information before sharing a photo of handwritten math notes.](https://images.ctfassets.net/kftzwdyauwt9/7ko4xwppiixN2CxyBXfh0J/771b61aeeb362d68ace4103fd8bf4b7d/Still-05-Sensitive_Image.png?w=3840&q=90&fm=webp)
+![ChatGPT reminds a teen to check for sensitive information before sharing a photo of handwritten math notes.](https://images.ctfassets.net/kftzwdyauwt9/7ko4xwppiixN2CxyBXfh0J/722a86a193ce4917340ed5e4e829bb58/Still-05-Sensitive_Image.png?w=3840&q=90&fm=webp)
 
 ## Ongoing research for safe AI use by teens
 
@@ -128,17 +128,17 @@ OpenAI
 
 [View all](</news/>)
 
-![ChatGPT Ads expands across Europe - Card image](https://images.ctfassets.net/kftzwdyauwt9/IMh9E5WMDoVaUJyBJrsEP/697ba885d5e89b6bd27a55b9c9a783ae/chatgpt-ads-europe-readable-card.png?w=3840&q=90&fm=webp)
+![Expanding access to AI > Cover image](https://images.ctfassets.net/kftzwdyauwt9/x3ij3VqMj60KcdHucQvNc/414ce018aafcf0916557e004ee112d71/expanding-access-to-ai--art-card-purple-v001.png?w=3840&q=90&fm=webp)
 
-[ChatGPT Ads expands across EuropeProductAug 18, 2026](</index/chatgpt-ads-expands-across-europe/>)
+[A milestone in expanding access to AIProductAug 31, 2026](</index/expanding-access-to-ai-with-chatgpt-ads/>)
 
-![Previewing Ultrafast mode — clean cover](https://images.ctfassets.net/kftzwdyauwt9/74UiHrTiZoKnbvpopDTG1s/d33291d426eac29a4a5c0563e717376d/previewing-ultrafast-mode--cover-1080x1080-v001.png?w=3840&q=90&fm=webp)
+![ChatGPT for Teachers district expansion | Original neutral library cover](https://images.ctfassets.net/kftzwdyauwt9/4jHps0gmVQfIrnl2shwDBi/35e47854409876d353f3bb502a164317/teachers-original-neutral-listing.png?w=3840&q=90&fm=webp)
 
-[Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speedProductAug 13, 2026](</index/previewing-ultrafast/>)
+[Bringing ChatGPT for Teachers to more U.S. school districtsProductAug 26, 2026](</index/bringing-chatgpt-for-teachers-to-more-us-school-districts/>)
 
-![OAI AdsTest Blog ArtCard 1x1](https://images.ctfassets.net/kftzwdyauwt9/7drPwCnD6ied4wPzlJd7qa/d79ccfda974080bbca7d688ad9bcbc6f/OAI_AdsTest_Blog_ArtCard_1x1.png?w=3840&q=90&fm=webp)
+![Learning never stops card image](https://images.ctfassets.net/kftzwdyauwt9/rGBw0SMWP2aaIH5twRBgX/5f8f24d0e5a03eecfc74ab6cee3dc331/learning-never-stops-how-ai-makes-learning-continuous-cover.png?w=3840&q=90&fm=webp)
 
-[Testing ads in ChatGPTCompanyAug 11, 2026](</index/testing-ads-in-chatgpt/>)
+[Learning never stops: How AI makes learning continuousProductAug 26, 2026](</index/learning-never-stops/>)
 
 Research
 
