@@ -40,19 +40,13 @@ Use OpenAI technology to help agencies improve service delivery, expedite resear
 
 Support essential government functions with advanced capabilities.
 
-![brain icon](https://images.ctfassets.net/kftzwdyauwt9/2bEteBvSkwjtI5cmDzWm9T/2abd4399e3008ebe8e5a16a808cd301b/Improve__1_.svg?w=3840&q=90)
-
 #### Improve citizen services
 
 Reduce time spent on translation, drafting, analysis, and manual work so staff can focus on higher-value decisions.
 
-![shield and lock icon](https://images.ctfassets.net/kftzwdyauwt9/3RygAmomzAGAVGDjj4so8Z/04f072d176dfc909ebf0e99e293f78cd/Enhance.svg?w=3840&q=90)
-
 #### Enhance national security
 
 Use OpenAI best-in-class models to defend national interests, including cybersecurity, logistics, and national security operations.
-
-![accelerate icon](https://images.ctfassets.net/kftzwdyauwt9/4oLVnwIZbCsSzxrPpFxUwz/75ba8943b09142d65c98f4242b320453/Accelerate__1_.svg?w=3840&q=90)
 
 #### Accelerate research and analysis
 

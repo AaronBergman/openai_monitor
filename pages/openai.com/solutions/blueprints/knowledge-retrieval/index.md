@@ -1,28 +1,28 @@
 Skip to main content
 
-[](</>)
+[](</>)[](</business/>)
 
-  * [Research](</research/index/>)
+  * Why OpenAI
   * Products
-  * [Business](</business/>)
-  * [Developers](</api/>)
-  * [Company](</about/>)
-  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
+  * Solutions
+  * Resources
+  * [Customers](</business/customer-stories/>)
+  * [Pricing](</business/pricing/>)
 
 
 
-[Try now(opens in a new window)](<https://chatgpt.com/team-sign-up>)[Contact sales](</contact-sales/>)
+Try OpenAI[Contact sales](</contact-sales/>)
 
-  * Research
+  * Why OpenAI
   * Products
-  * Business
-  * Developers
-  * Company
-  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
+  * Solutions
+  * Resources
+  * [Customers](</business/customer-stories/>)
+  * [Pricing](</business/pricing/>)
 
 
 
-[Contact sales](</contact-sales/>)
+[Contact sales](</contact-sales/>)Try OpenAI
 
 OpenAI
 
@@ -38,13 +38,9 @@ Knowledge Retrieval helps you build assistants that deliver reliable responses f
 
 ### Build and scale with confidence 
 
-![Agentic code icon](https://images.ctfassets.net/kftzwdyauwt9/5OEoJzrBuSmHTiDu71MN8G/b2b66bd76644a1d359339524b226c48c/marker-code.svg?w=3840&q=90)
-
 #### Start with a proven foundation
 
 Build faster using reference architectures, pre-built UI, and tools that simplify setup and ensure consistent performance. 
-
-![A stylized graphic showing a quote inside a white rounded box on a blue gradient background. The quote text appears in black, and there is a small circular icon or marker accent near the quotation, giving it a clean, modern design aesthetic.](https://images.ctfassets.net/kftzwdyauwt9/3xAxWc2k3yXcEWUfNXsQVv/69c74beca080f33f0b123e1e18adb557/icon_24_regulations__1_.svg?w=3840&q=90)
 
 #### Deliver trusted answers
 
@@ -84,15 +80,15 @@ Generate evals to verify outputs, then ship with confidence.
 
 ## Learn from industry leaders driving change
 
-![Lowes > Cover media](https://images.ctfassets.net/kftzwdyauwt9/4X3HwsNsncluAzNEqlXFg3/558227ebd1d4edc388dc325ecbcd75f0/oai_Lowe_s_hero_4.5.png?w=3840&q=90&fm=webp)
+![Lowes logo superimposed on an abstract painting with prominent blue brushstrokes.](https://images.ctfassets.net/kftzwdyauwt9/4X3HwsNsncluAzNEqlXFg3/558227ebd1d4edc388dc325ecbcd75f0/oai_Lowe_s_hero_4.5.png?w=3840&q=90&fm=webp)
 
 [Lowe’s puts project expertise into every hand May 7, 2025](</index/lowes/>)
 
-![\[2.0\] Card > Media > Morgan Stanley](https://images.ctfassets.net/kftzwdyauwt9/5mCz669MifU0i9wCvVpIq1/7c67daad163769492a70a186fd606feb/oai_morganstanley_1_1.png?w=3840&q=90&fm=webp)
+![Morgan Stanley logo in white, displayed over a sleek blue-toned reflective surface with smooth, intersecting edges.](https://images.ctfassets.net/kftzwdyauwt9/5mCz669MifU0i9wCvVpIq1/7c67daad163769492a70a186fd606feb/oai_morganstanley_1_1.png?w=3840&q=90&fm=webp)
 
-[Shaping the future of financial servicesDec 4, 2024](</index/morgan-stanley/>)
+[Morgan Stanley is shaping the future of financial servicesDec 4, 2024](</index/morgan-stanley/>)
 
-![EF JohnDeere 1.1](https://images.ctfassets.net/kftzwdyauwt9/ipWlhbJxkXsig8F8AQLY3/b8abf5f2566658a37e74f7bec882f004/EF_JohnDeere_1.1.png?w=3840&q=90&fm=webp)
+![Abstract green, yellow, and teal background with the text “Ep 09” in white on the right side.](https://images.ctfassets.net/kftzwdyauwt9/ipWlhbJxkXsig8F8AQLY3/b8abf5f2566658a37e74f7bec882f004/EF_JohnDeere_1.1.png?w=3840&q=90&fm=webp)
 
 [AI helps John Deere transform agricultureAPIMay 6, 2025](</index/john-deere-justin-rose/>)
 
@@ -110,9 +106,9 @@ Research
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -149,6 +145,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -182,6 +180,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

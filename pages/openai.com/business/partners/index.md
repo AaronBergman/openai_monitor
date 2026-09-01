@@ -572,19 +572,13 @@ ZS
 
 ## A partner network built for outcomes
 
-![Store icon representing co-selling with OpenAI.](https://images.ctfassets.net/kftzwdyauwt9/1ZyWzjzF2FL2NwsNPGS695/cae58175fa39d85584b87d1690375e34/OAI_icon_store_24x24.svg?w=3840&q=90)
-
 #### Co-sell with OpenAI
 
 Engage with OpenAI through flexible co-selling motions that help connect customers to OpenAI technology.
 
-![Line icon representing build and deploy solutions](https://images.ctfassets.net/kftzwdyauwt9/47i35ks4k4t8zHDZSuBZRE/05137eb0eb7821e07e02e50de07e9cb0/circle-grid-2x2-badge-plus.svg?w=3840&q=90)
-
 #### Build and deploy solutions
 
 Access the resources, enablement, and technical support needed to build, deploy, and deliver AI solutions with OpenAI.
-
-![Arrow trend up icon representing customers moving from ambition to outcome.](https://images.ctfassets.net/kftzwdyauwt9/6sxFoCWWQh7pQ0NGVl5Mnn/2fdfb5b90c80ebd3a20722ea6e3a8927/OAI_icon_arrow-trend-up_24x24.svg?w=3840&q=90)
 
 #### Help customers move from ambition to outcome
 

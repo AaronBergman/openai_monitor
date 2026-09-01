@@ -113,15 +113,15 @@ Deploy AI confidently with secure workspaces, admin controls, encryption, and bu
 
 WebinarsEvents
 
-### [How Small Businesses Can Put ChatGPT Work Into PracticeSee how small teams can use ChatGPT Work to handle everyday tasks, move ambitious projects forward, and turn ideas into finished deliverables.Watch the recording](<https://webinar.openai.com/on-demand/abefa07c-8a2b-4c73-8398-bb5bc9024f7a>)
+### [How Small Businesses Can Put ChatGPT Work Into Practice (August 6, 2026 at 9:30AM PT)See how small teams can use ChatGPT Work to handle everyday tasks, move ambitious projects forward, and turn ideas into finished deliverables.Watch on-demand](<https://webinar.openai.com/small-business/chatgpt-work/>)
 
-### [Launch Smarter on Shopify with ChatGPT and Codex (August 19, 2026 at 9:30AM PT)Join OpenAI and Shopify to learn how ChatGPT and Codex can turn scattered product information and launch plans into repeatable, Shopify-ready workflows—no development experience required.Register here](<https://webinar.openai.com/launch-smarter-shopify/?>)
+### [Use QuickBooks Data in ChatGPT to Make Better Financial Decisions (August 25, 2026 at 9:30AM PT)Join OpenAI and Intuit to learn how QuickBooks in ChatGPT can turn financial data into a clear view of business health and practical next steps.Watch the recording](<https://webinar.openai.com/on-demand/e04957a9-6675-4973-8b89-08bfbf2a8da3>)
 
-### [Use QuickBooks in ChatGPT to Make Better Financial Decisions (August 25, 2026 at 9:30AM PT)Join OpenAI and Intuit to learn how QuickBooks in ChatGPT can turn financial data into a clear view of business health and practical next steps.Register here](<https://webinar.openai.com/quickbooks-chatgpt/>)
+### [OpenAI on OpenAI: How Our Marketing Team Uses ChatGPT Work (August 25, 9:30 AM PT)See how OpenAI’s Marketing team uses ChatGPT Work to bring campaign context and performance together, uncover what worked, and turn those insights into clear recommendations for the next launch.Watch the recording](<https://webinar.openai.com/chatgpt-work-series/marketing/>)
 
-### [OpenAI on OpenAI: How Our Marketing Team Uses ChatGPT Work (August 25, 9:30 AM PT)See how OpenAI’s Marketing team uses ChatGPT Work to bring campaign context and performance together, uncover what worked, and turn those insights into clear recommendations for the next launch. Register here](<https://webinar.openai.com/chatgpt-work-series/marketing/>)
+### [A Practical Introduction to Codex for Developers at Small Businesses (August 27, 2026 at 9:30AM PT)Join OpenAI to see how Codex helps lean engineering teams understand code, build features, and ship high-quality software faster.Watch the recording](<https://goldcast.registration.public-pr50.goldcast.io/on-demand/96035504-23da-4c50-8b31-2b89eee19348>)
 
-### [A Practical Introduction to Codex for Developers at Small Businesses (August 27, 2026 at 9:30AM PT)Join OpenAI to see how Codex helps lean engineering teams understand code, build features, and ship high-quality software faster.Register here](<https://webinar.openai.com/small-business/introduction-to-codex/>)
+### [Launch Smarter on Shopify with ChatGPT and Codex (Sep 2, 2026 at 9:30AM PT)Join OpenAI and Shopify to learn how ChatGPT and Codex can turn scattered product information and launch plans into repeatable, Shopify-ready workflows—no development experience required.Register here](<https://webinar.openai.com/launch-smarter-shopify/?>)
 
 # Resources
 

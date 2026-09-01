@@ -55,7 +55,7 @@ This partnership coincides with the launch of ChatGPT for Teens, a dedicated exp
 Over the next year, OpenAI and CodeAI will focus on practical programs that help students understand AI, use it with care, and explore how it can support learning and creativity.
 
   * **Creating a continuous feedback loop for responsible AI innovation.** OpenAI and CodeAI will establish a joint advisory council that will bring together experts and leaders on child development, youth public policy, and learning science. The council will provide ongoing guidance on emerging risks, responsible AI practices, and evolving educational needs, helping to shape the future development of ChatGPT for Teens.
-  * **Helping students build foundational AI literacy.** Through the [Hour of AI⁠(opens in a new window)](<https://code.org/en-US/hour-of-ai?utm_source=google&utm_medium=paid-search&utm_campaign=rebrand&utm_term=hoai&utm_content=brand&gad_source=1&gad_campaignid=23895304467&gbraid=0AAAAA-wkyMwC9Q0jiWEEAyfqYHz_HbKV_&gclid=CjwKCAjw4dDTBhAqEiwAkHYmSmvLXDDGEGbAlKNOt5Lolop5MsEPtxCiTqm_6LAGLHpR4Za2BmYUJxoCprQQAvD_BwE>), OpenAI and CodeAI will introduce millions of students to the basics of using AI thoughtfully and responsibly.
+  * **Helping students build foundational AI literacy.** Through the [Hour of AI⁠(opens in a new window)](<https://code.org/hour-of-ai>), OpenAI and CodeAI will introduce millions of students to the basics of using AI thoughtfully and responsibly.
   * **Inspiring the next generation of builders.** Through the first-ever Builders Challenge, high school students will have the opportunity to create with AI, receive mentorship from OpenAI team members, and showcase their work on a national stage alongside the teachers who support them.
   * **Supporting classroom learning.** OpenAI’s experts in AI systems, safety, and responsible use will be a resource that CodeAI can consult as they further develop [AI Foundations⁠(opens in a new window)](<https://code.org/en-US/curriculum/artificial-intelligence-foundations>), CodeAI’s free, year-long high school course.
   * **Making careers with AI more accessible.** Through Career Journeys, students will hear directly from OpenAI researchers, engineers, and leaders about how they work with AI to shape it, helping them see themselves as future builders, creators, and innovators.
@@ -80,6 +80,10 @@ OpenAI
 
 [View all](</news/>)
 
+![California youth AI safety — cover](https://images.ctfassets.net/kftzwdyauwt9/3CsHxgcoiHHUUaYOB1FNiq/38e90de831dad795965ed98ffdd3a95a/Frame.png?w=3840&q=90&fm=webp)
+
+[OpenAI supports California’s bill to advance youth AI safetyCompanyAug 31, 2026](</index/supporting-california-bill-advance-ai-youth-safety/>)
+
 ![Our decision on Cursor following its acquisition by SpaceX — cover](https://images.ctfassets.net/kftzwdyauwt9/3gFEgHvtA7Rsa5yUen97p5/b78a11ad81397a4003b879160e5a19b3/index-our-decision-on-cursor-following-its-acquisition-by-spacex-cover.png?w=3840&q=90&fm=webp)
 
 [Our decision on Cursor following its acquisition by SpaceXCompanyAug 28, 2026](</index/our-decision-on-cursor-following-its-acquisition-by-spacex/>)
@@ -87,10 +91,6 @@ OpenAI
 ![Supporting Thailand’s next generation of AI startups > Cover image](https://images.ctfassets.net/kftzwdyauwt9/6ttG55Aq2kyDRG8wxOkTx9/897d266cacc77edc0a25d06b9f6c2c45/supporting-next-generation-ai-startups-thailand--cover.png?w=3840&q=90&fm=webp)
 
 [Supporting Thailand’s next generation of AI startupsCompanyAug 28, 2026](</index/supporting-next-generation-ai-startups-thailand/>)
-
-![Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training > Cover image](https://images.ctfassets.net/kftzwdyauwt9/2X12MQqhR5AY1wog6JW3Q3/721873f6edd491a0f241038a9324b341/what-students-gain-chatgpt-critical-thinking--art-card-no-border.png?w=3840&q=90&fm=webp)
-
-[What students gain from ChatGPT and critical-thinking trainingCompanyAug 27, 2026](</index/what-students-gain-from-chatgpt-critical-thinking-training/>)
 
 Research
 

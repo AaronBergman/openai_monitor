@@ -1,6 +1,47 @@
 # openai_monitor
 
 
+## 2026-09-01 — Run `2026-09-01T09-16Z`
+
+**Fetch time:** 2026-09-01T09:17:44Z UTC | **Baseline:** 2026-08-31T09-15Z (consecutive day)
+
+**TL;DR:** Three new pages headline a busy day: **ChatGPT Ads has hit $1 billion in annualized revenue run rate** in under 200 days and is expanding self-service access to India, Europe, the Middle East, and North Africa; OpenAI publicly **backed California's SB 1119** youth-AI-safety bill and urged Governor Newsom to sign it; and a new customer story covers **Polimill**, whose QommonsAI (built on OpenAI's API/Codex) now serves ~1,050 Japanese municipalities. Underneath that, this was the biggest `<lastmod>` batch in weeks — 214 pages touched — but only 17 changed anything a reader would notice; the rest are routine "Keep reading" widget refreshes (127) or byte-identical metadata bumps (70). Of the real changes: **legal-services ads are now allowed in ChatGPT for US-licensed attorneys** (previously banned outright), the **collective cyberdefense pledge** picked up Cohesity and HPE while losing BCG, and the **ChatGPT-for-Teachers state count quietly dropped from 16 to 15** — New York fell off the list with no explanation given.
+
+### Anomalies
+
+None. No future-dated or backwards-moving `<lastmod>` values, no backdated new URLs, no reappeared URLs, and no sub-sitemap section migrations. All 217 changed/new page fetches (214 updated + 3 added) succeeded on the first attempt. The 214-update count itself is unusually large (vs. 25/51/63 the prior three days) but reflects a broad CMS reindex sweep touching content as old as ~150 days, not a timestamp inconsistency — see [`runs/2026-09-01T09-16Z/analysis.md`](runs/2026-09-01T09-16Z/analysis.md) for the full breakdown.
+
+### Notable additions
+
+- **[A milestone in expanding access to AI](pages/openai.com/index/expanding-access-to-ai-with-chatgpt-ads/index.md)** — ChatGPT Ads reaches $1B annualized revenue run rate; self-service Ads Manager access expands today to India, Europe, the Middle East, and North Africa.
+- **[OpenAI supports California's bill to advance youth AI safety](pages/openai.com/index/supporting-california-bill-advance-ai-youth-safety/index.md)** — OpenAI backs CA SB 1119 (age verification, independent audits, parental controls, ad-targeting limits for minors) and urges Governor Newsom to sign it, tying the support to the existing ChatGPT for Teens product.
+- **[Polimill builds Japan's next-generation public AI infrastructure](pages/openai.com/index/polimill/index.md)** — customer story: Polimill's QommonsAI, built on OpenAI's API and Codex, is used by ~1,050 Japanese municipalities and ~550,000 public employees; Codex cut development time 3–5x.
+
+### Notable updates
+
+- **[`/policies/ad-policies/`](pages/openai.com/policies/ad-policies/index.md)** — Legal-services ads, previously banned outright, are now permitted in the US for advertisers licensed to practice law there (still prohibited outside the US). Changelog bumped to v1.5.
+- **[`/collective-cyberdefense/`](pages/openai.com/collective-cyberdefense/index.md)** — Signatory roster: **+Cohesity, +HPE, −BCG** (net 155→156 companies). Page also restructured with an A–Z index and a new "First day signatories" footer heading.
+- **[`/index/bringing-chatgpt-for-teachers-to-more-us-school-districts/`](pages/openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts/index.md)** — Signed "General Offers" state count dropped from 16 to 15: **New York was removed** from the list, with no explanation on the page.
+- **[`/index/introducing-new-capabilities-to-gpt-rosalind/`](pages/openai.com/index/introducing-new-capabilities-to-gpt-rosalind/index.md)** — Internal links repointed from `/gpt-rosalind/` to `/rosalind/`, catching up to the Aug 29 Rosalind rebrand.
+- **[`/business/frontier/`](pages/openai.com/business/frontier/index.md)** — Compliance wording softened from "meets leading standards" to "is aligned with leading standards" (SOC 2, ISO/IEC, CSA STAR).
+- **[`/business/solutions/cybersecurity/`](pages/openai.com/business/solutions/cybersecurity/index.md)** — New banner promoting a Sept 3, 2026 livestream on AI in cyber defense.
+- **[`/products/release-notes/`](pages/openai.com/products/release-notes/index.md)** — Rolling window advanced; notable new GA entries include mTLS/X.509 workload identity federation for the API, multi-Google-account connect in ChatGPT, GitHub plugin-marketplace sync for Business admins, temporary-chat personalization controls, and centralized identity management in Admin Console.
+- **[`/signals/research/`](pages/openai.com/signals/research/index.md)** — New report listed: "Training novices to think, or giving them LLMs? Evidence from an RCT" (Aug 2026); the Dec 2025 "State of enterprise AI 2025" report was delisted.
+- Two legacy blueprint pages ([`mcpkit`](pages/openai.com/solutions/blueprints/mcpkit/index.md), [`knowledge-retrieval`](pages/openai.com/solutions/blueprints/knowledge-retrieval/index.md)) finally picked up the sitewide nav redesign that's been live since 2026-07-25.
+
+### Routine, low-signal updates
+
+- **127 of 214** updated pages: only their "Keep reading" related-articles widget changed, surfacing the day's new posts — no change to page content itself.
+- **70 of 214** updated pages: byte-for-byte identical to their prior snapshot — pure metadata/cache-bust touches, this time spanning unusually old content (some pages last substantively touched ~80–150 days ago). Full list in [`runs/2026-09-01T09-16Z/diff.json`](runs/2026-09-01T09-16Z/diff.json).
+
+### Removals
+
+None.
+
+**Stats:** 1625 total URLs | 3 added | 214 updated | 0 removed | 0 anomalies | 36 sub-sitemaps
+
+---
+
 ## 2026-08-31 — Run `2026-08-31T09-15Z`
 
 **Fetch time:** 2026-08-31T09:16:33Z UTC | **Baseline:** 2026-08-30T09-15Z (consecutive day)

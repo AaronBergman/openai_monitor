@@ -148,6 +148,8 @@ OpenAI’s Enterprise Signals tracks AI adoption across industries and business 
 
 ### Reports
 
+### [Training novices to think, or giving them LLMs? Evidence from an RCTAugust 2026 | A study examining how access to ChatGPT and training in causal reasoning affect how students approach and perform a real-world business problem.Learn more](<https://cdn.openai.com/pdf/novices-and-llm-august-2026.pdf>)
+
 ### [How organizations use AI: Evidence from ChatGPTAugust 2026 | Research examining how ChatGPT Enterprise has spread within and across organizations over the past two years.Learn more](<https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf>)
 
 ### [How AI is expanding what people do at workJuly 2026 | An analysis of how occupation-specific tasks spread across job boundaries.Learn more](<https://openai.com/index/how-ai-is-expanding-what-people-do-at-work/>)

@@ -51,19 +51,13 @@ Compare product performance and recommend where to focus next
 
 ## Give data and business teams a faster path from question to decision
 
-![Bolt motion lines icon.](https://images.ctfassets.net/kftzwdyauwt9/hvLBD8voJae8VeXfptI5e/bc0a69a32f61582baef5235c3f2eef7e/openai-for-marketing-value-modal-icon-bolt-motion-lines.svg?w=3840&q=90)
-
 #### Deliver decision-ready analysis faster
 
 Connect business data and context to produce cited analysis, dashboards, and executive readouts leaders can act on.
 
-![Tasks icon](https://images.ctfassets.net/kftzwdyauwt9/7KzuoeyT7FOOxiB79UDnmn/1c635e90af3c4cb9f802cccbcbdaa7bb/tasks.svg?w=3840&q=90)
-
 #### Scale every analyst’s impact
 
 Delegate recurring work to agents—from triaging requests and querying data to building reports—so analysts can deliver sharper insights and recommendations.
-
-![Checkmark shield icon.](https://images.ctfassets.net/kftzwdyauwt9/7ejo1NdwSiU3GoSpBrBl8k/6969470c36635dd4f4a1ee42e946aefd/finance-value-icon-checkmark-shield.svg?w=3840&q=90)
 
 #### Governed AI adoption
 

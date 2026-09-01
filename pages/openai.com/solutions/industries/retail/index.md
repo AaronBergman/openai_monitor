@@ -42,8 +42,6 @@ Give teams the tools to work more efficiently and make shopping memorable across
 
 Built to solve your biggest business challenges—from headquarters to every store.
 
-![Group icon representing multiple people, shown in a light mode style.](https://images.ctfassets.net/kftzwdyauwt9/5soommM9MNWbRdrj3aK493/a98d8cf71fa36503c645b24956749433/shoppingbag_lightmode.svg?w=3840&q=90)
-
 #### Powering the next era of retail 
 
 Stay ahead of shifting shopper expectations with insights from 800M+ weekly users researching and buying on ChatGPT.
@@ -53,8 +51,6 @@ Stay ahead of shifting shopper expectations with insights from 800M+ weekly user
 #### Proven retail adoption paths
 
 Used by thousands of associates, merchandisers, and corporate teams to improve efficiency and create better shopping experiences.
-
-![Lightning bolt icon representing speed or performance, shown in a light mode style.](https://images.ctfassets.net/kftzwdyauwt9/2HVeREzqysfhp6kYE5IOOR/9032b16f79be49c7f6957f2f5d6fcdb4/store_lightmode.svg?w=3840&q=90)
 
 #### Built to automate store processes
 

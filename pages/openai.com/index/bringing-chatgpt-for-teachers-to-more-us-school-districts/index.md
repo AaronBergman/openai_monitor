@@ -70,7 +70,7 @@ For school systems, responsible AI adoption also requires clear privacy protecti
 
 OpenAI is also expanding the privacy infrastructure that helps districts adopt AI responsibly. We’re introducing a 16-state National Data Privacy Agreement through the [Student Data Privacy Consortium⁠(opens in a new window)](<https://privacy.a4l.org/>) framework, giving districts in participating states a recognized path to evaluate and adopt ChatGPT for Teachers without negotiating separate agreements district by district. This is designed to meet districts and states within the privacy process they already use, adapting to state and local requirements, and making responsible adoption easier.
 
-Today, our signed General Offers cover 16 states: Illinois, Iowa, Maine, Massachusetts, Missouri, Nebraska, New Hampshire, New Jersey, New York, Ohio, Rhode Island, Tennessee, Texas, Vermont, Virginia, and Washington. California is also covered by a separate agreement.
+Today, our signed General Offers cover 15 states: Illinois, Iowa, Maine, Massachusetts, Missouri, Nebraska, New Hampshire, New Jersey, Ohio, Rhode Island, Tennessee, Texas, Vermont, Virginia, and Washington. California is also covered by a separate agreement.
 
 For school systems, responsible AI adoption depends not only on access, but on governance, privacy, procurement, and trust. This work builds on statewide agreements OpenAI has already signed and reflects a broader commitment to meeting districts where they are, with the legal and privacy protections their communities require.
 
@@ -96,7 +96,7 @@ Christina Ordonez, Technology & Media Department Chair, New Educator Coordinator
 
 Joe Binswanger, Executive Director, Accountability & Technology, Sarasota County Schools
 
-> “Every school district needs an AI strategy, and it needs one now—one that connects policy, responsible-use guidelines, family communication, capacity-building, and a way to measure impact.Partnering with OpenAI helped us define our priorities and surface the questions we needed to build our AI literacy framework—how to empower students and staff, protect data and integrity, embed AI literacy in the curriculum, engage families, and make the work sustainable.”
+> “Every school district needs an AI strategy, and it needs one now—one that connects policy, responsible-use guidelines, family communication, capacity-building, and a way to measure impact. Partnering with OpenAI helped us define our priorities and surface the questions we needed to build our AI literacy framework—how to empower students and staff, protect data and integrity, embed AI literacy in the curriculum, engage families, and make the work sustainable.”
 
 Patrick Gittisriboongul, Superintendent, Lynwood Unified School District
 
@@ -165,6 +165,10 @@ OpenAI
 
 [View all](</news/>)
 
+![Expanding access to AI > Cover image](https://images.ctfassets.net/kftzwdyauwt9/x3ij3VqMj60KcdHucQvNc/414ce018aafcf0916557e004ee112d71/expanding-access-to-ai--art-card-purple-v001.png?w=3840&q=90&fm=webp)
+
+[A milestone in expanding access to AIProductAug 31, 2026](</index/expanding-access-to-ai-with-chatgpt-ads/>)
+
 ![Learning never stops card image](https://images.ctfassets.net/kftzwdyauwt9/rGBw0SMWP2aaIH5twRBgX/5f8f24d0e5a03eecfc74ab6cee3dc331/learning-never-stops-how-ai-makes-learning-continuous-cover.png?w=3840&q=90&fm=webp)
 
 [Learning never stops: How AI makes learning continuousProductAug 26, 2026](</index/learning-never-stops/>)
@@ -172,10 +176,6 @@ OpenAI
 ![GPT-5.6 in Kiro > OpenAI and official Kiro full logo > 1:1 art card](https://images.ctfassets.net/kftzwdyauwt9/31NSq4ufuXRuOUqH9Xdjno/319b9502b892d44b8b91df7aef9d53ed/OAI_Kiro_Partnership_1x1_Art_Card_Official_Full_Lockup_2160.png?w=3840&q=90&fm=webp)
 
 [Advancing price-performance for developers with GPT‑5.6 in KiroProductAug 24, 2026](</index/gpt-5-6-in-kiro/>)
-
-![ChatGPT Ads expands across Europe - Card image](https://images.ctfassets.net/kftzwdyauwt9/IMh9E5WMDoVaUJyBJrsEP/697ba885d5e89b6bd27a55b9c9a783ae/chatgpt-ads-europe-readable-card.png?w=3840&q=90&fm=webp)
-
-[ChatGPT Ads expands across EuropeProductAug 18, 2026](</index/chatgpt-ads-expands-across-europe/>)
 
 Research
 

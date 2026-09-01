@@ -52,6 +52,10 @@ Switch cards to show Media
 
 Switch cards to hide Media
 
+![Expanding access to AI > Cover image](https://images.ctfassets.net/kftzwdyauwt9/x3ij3VqMj60KcdHucQvNc/414ce018aafcf0916557e004ee112d71/expanding-access-to-ai--art-card-purple-v001.png?w=3840&q=90&fm=webp)
+
+[A milestone in expanding access to AIProductAug 31, 2026](</index/expanding-access-to-ai-with-chatgpt-ads/>)
+
 ![ChatGPT for Teachers district expansion | Original neutral library cover](https://images.ctfassets.net/kftzwdyauwt9/4jHps0gmVQfIrnl2shwDBi/35e47854409876d353f3bb502a164317/teachers-original-neutral-listing.png?w=3840&q=90&fm=webp)
 
 [Bringing ChatGPT for Teachers to more U.S. school districtsProductAug 26, 2026](</index/bringing-chatgpt-for-teachers-to-more-us-school-districts/>)
@@ -83,10 +87,6 @@ Switch cards to hide Media
 ![Daybreak with AWS 1x1](https://images.ctfassets.net/kftzwdyauwt9/3u4XKQVExOBSWxMiiPMmpg/31dffb070dae6251a5fac4e46ec241dc/Art_card.png?w=3840&q=90&fm=webp)
 
 [Daybreak models are now available on AWSProductAug 11, 2026](</index/daybreak-models-are-now-available-on-aws/>)
-
-![Premium seats are coming to ChatGPT Business - Cover](https://images.ctfassets.net/kftzwdyauwt9/3C1p8T3c9oQN6T6gjOjDnD/4c3afdba8f3f226302d50c004a785fd0/premium-seats-cover-square.png?w=3840&q=90&fm=webp)
-
-[Premium seats now available on ChatGPT BusinessProductAug 10, 2026](</index/premium-seats-chatgpt-business/>)
 
 Load more
 

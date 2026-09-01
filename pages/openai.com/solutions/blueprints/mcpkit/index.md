@@ -1,28 +1,28 @@
 Skip to main content
 
-[](</>)
+[](</>)[](</business/>)
 
-  * [Research](</research/index/>)
+  * Why OpenAI
   * Products
-  * [Business](</business/>)
-  * [Developers](</api/>)
-  * [Company](</about/>)
-  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
+  * Solutions
+  * Resources
+  * [Customers](</business/customer-stories/>)
+  * [Pricing](</business/pricing/>)
 
 
 
-[Try now(opens in a new window)](<https://chatgpt.com/team-sign-up>)[Contact sales](</contact-sales/>)
+Try OpenAI[Contact sales](</contact-sales/>)
 
-  * Research
+  * Why OpenAI
   * Products
-  * Business
-  * Developers
-  * Company
-  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
+  * Solutions
+  * Resources
+  * [Customers](</business/customer-stories/>)
+  * [Pricing](</business/pricing/>)
 
 
 
-[Contact sales](</contact-sales/>)
+[Contact sales](</contact-sales/>)Try OpenAI
 
 OpenAI
 
@@ -40,13 +40,9 @@ MCPKit provides a sample repo that helps teams safely connect data with ChatGPT 
 
 With MCPKit, you can quickly create new connections to ChatGPT with a secure, consistent setup.
 
-![terminal icon](https://images.ctfassets.net/kftzwdyauwt9/6yo7MQrDj8nA9wlnitPNhK/760ea834652c8da4a67705294c226e10/terminal.svg?w=3840&q=90)
-
 #### Start with a proven foundation 
 
 Use a reference implementation aligned with the official MCP spec to build with confidence.
-
-![Dark interface illustrating privacy or data protection, featuring lock and shield icons.](https://images.ctfassets.net/kftzwdyauwt9/4u3dkDC1ltElGYfQBrTX3s/175e46235db925666fc78a7a2c6ca559/shield-lock.svg?w=3840&q=90)
 
 #### Control data access
 
@@ -88,58 +84,68 @@ Test locally with MCP Inspector, then register your app in ChatGPT with Dev Mode
 
 [Talk to an expert](</contact-sales/>)[Get started(opens in a new window)](<https://github.com/openai/openai-mcpkit>)
 
-Our Research
+Research
 
   * [Research Index](</research/index/>)
   * [Research Overview](</research/>)
-  * [Research Residency](</residency/>)
   * [Economic Research](</signals/>)
 
 
 
 Latest Advancements
 
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
-  * [GPT-5.3-Codex](</index/introducing-gpt-5-3-codex/>)
 
 
 
 Safety
 
   * [Safety Approach](</safety/>)
+  * [Deployment Safety(opens in a new window)](<https://deploymentsafety.openai.com/>)
   * [Security & Privacy](</security-and-privacy/>)
   * [Trust & Transparency](</trust-and-transparency/>)
 
 
 
-ChatGPT
+Products
 
-  * [Explore ChatGPT(opens in a new window)](<https://chatgpt.com/overview>)
-  * [Business](<https://chatgpt.com/business/business-plan>)
-  * [Enterprise](<https://chatgpt.com/business/enterprise>)
-  * [Education](<https://chatgpt.com/business/education>)
-  * [Pricing(opens in a new window)](<https://chatgpt.com/pricing>)
-  * [Download(opens in a new window)](<https://chatgpt.com/download>)
+  * [ChatGPT(opens in a new window)](<https://chatgpt.com/>)
+  * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
+  * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
+  * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
+  * [Codex](</codex/>)
+  * [Release Notes](</products/release-notes/>)
 
 
 
 API Platform
 
-  * [Platform Overview](</api/>)
-  * [Pricing](</api/pricing/>)
-  * [API log in(opens in a new window)](<https://platform.openai.com/login>)
-  * [Documentation(opens in a new window)](<https://developers.openai.com/api/docs>)
-  * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
+  * [Overview](</api/>)
+  * [API Log In(opens in a new window)](<https://platform.openai.com/login>)
+  * [Docs(opens in a new window)](<https://developers.openai.com/api/docs>)
 
 
 
-For Business
+Business
 
-  * [Business Overview](</business/>)
+  * [Overview](</business/>)
   * [Solutions](</solutions/>)
+  * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
+
+
+
+Developers
+
+  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
+  * [Open Models](</open-models/>)
+  * [Docs(opens in a new window)](<https://developers.openai.com/>)
+  * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
+  * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
 
 
 
@@ -147,9 +153,8 @@ Company
 
   * [About Us](</about/>)
   * [Our Charter](</charter/>)
-  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
   * [Careers](</careers/>)
-  * [Brand](</brand/>)
+  * [News](</news/>)
 
 
 
@@ -161,9 +166,9 @@ Support
 
 More
 
-  * [News](</news/>)
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)
@@ -183,3 +188,21 @@ Terms & Policies
 OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
+
+![Chat interface displaying a summary of the top five customer pain points reported in the last month, generated using the Customer Hub MCP connector, with a list of issues such as login failures, billing errors, and cancellation problems.](https://images.ctfassets.net/kftzwdyauwt9/aJl1A4JHWPsqKLFJtrg25/17582ba860bd3f892932042bb857b95b/Access_enterprise_knowledge_in_real_time.png?w=3840&q=90&fm=webp)
+
+![Chat interface showing an inventory management query using Inventory Operations MCP and Submit For Approval MCP to restock low-stock SKUs automatically.](https://images.ctfassets.net/kftzwdyauwt9/6Kioms0UuQYHeSeNnszmNj/e50be156d9aabf29c0bc682cc6386bcc/Orchestrate_tasks_across_systems.png?w=3840&q=90&fm=webp)
+
+![Chat interface summarizing a request to compile a 1-page memo and slide brief on the global payments sector using multiple MCP connectors.](https://images.ctfassets.net/kftzwdyauwt9/3AQtKhDiksbebdC3TRWknn/bd73c7ac3f7cf6d67b7ec807e07c5e8a/Scale_automation_across_departments.png?w=3840&q=90&fm=webp)
+
+### Access enterprise knowledge in real time
+
+Use ChatGPT to pull info from documents, CRMs, logs, and APIs—with control and governance.
+
+### Automate tasks across systems 
+
+Safely query data and coordinate actions across internal tools and databases.
+
+### Unify work in one interface
+
+Pull insights, generate deliverables, and take action through natural language—without switching tools or writing scripts.

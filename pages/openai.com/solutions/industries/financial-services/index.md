@@ -46,19 +46,13 @@ Built for the standards of finance—with the security, reliability, and control
 
 
 
-![Black icon of a person inside a shield, symbolizing user protection, privacy, or account security. The design uses clean, minimal lines and a centered circular head within the shield outline.](https://images.ctfassets.net/kftzwdyauwt9/4T3IgzPBrwZjqAGFmfzNDm/43c08dd22caf00f0a1c951cc91e96524/vector.svg?w=3840&q=90)
-
 #### Secure and compliant by design
 
 Keep data private and in your control with encryption and configurable policies.
 
-![Icon representing trending upwards](https://images.ctfassets.net/kftzwdyauwt9/45TQUpFBteHovYYWZ6jlcn/caad2125f6c153a4d9f15a223e41bcb5/icon-trending.svg?w=3840&q=90)
-
 #### Proven to scale
 
 Move from pilot to production with proven architectural patterns and employee enablement.
-
-![Black icon of a sparkle or star-like shape with two small dots to the right, often used to represent enhancements, creativity, or special features. The design is minimal and clean.](https://images.ctfassets.net/kftzwdyauwt9/6pk1JfjiYRMNOf8E4tqhgq/ce2c46e7204c2003c292451db0368d8d/vector.svg?w=3840&q=90)
 
 #### Frontier models for financial complexity
 

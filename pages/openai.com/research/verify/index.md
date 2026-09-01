@@ -34,19 +34,13 @@ Upload a fileDrag and drop or click to upload a file.Supported formats: PNG, JPG
 
 By uploading a file, you agree to our [Terms](</policies/terms-of-use/>) and have read our [Privacy Policy](</policies/privacy-policy/>).
 
-![icon depicting pulse](https://images.ctfassets.net/kftzwdyauwt9/2mBpq75rMXfpQQTbBnhtG5/270dd29b4afe06468a90aa3621d0dced/pulse.svg?w=3840&q=90)
-
 #### What does this tool do?
 
 This tool checks whether an uploaded file contains provenance signals associated with OpenAI tools. It looks for supported signals, including C2PA metadata and SynthID watermarks, and reports whether they are detected.
 
-![icon depicting a wrench](https://images.ctfassets.net/kftzwdyauwt9/5rRtPBCQYoLN5poacJhfqp/ead486284c437b6863a00541434c114d/settings-wrench.svg?w=3840&q=90)
-
 #### What content can it detect?
 
 The tool is designed to detect content generated with ChatGPT, the OpenAI API, or Codex. It currently supports images and audio files. Other content can be uploaded, but OpenAI provenance signals will only be detected if it was generated with our tools.
-
-![icon depicting sharing](https://images.ctfassets.net/kftzwdyauwt9/1gkOgwgs05hyxFzTRPomPe/a2f1cc014915c212ac61e16ba205426b/share-ios.svg?w=3840&q=90)
 
 #### How do I use it?
 

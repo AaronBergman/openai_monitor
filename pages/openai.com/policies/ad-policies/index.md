@@ -30,11 +30,11 @@ Select language
 
 …
 
-Updated: August 10, 2026
+Updated: August 31, 2026
 
 # Ad policies
 
-## 1\. Ad placement policy 
+## 1\. Ad placement policies
 
 OpenAI’s policy is to allow ads to be placed near chats that are safe, appropriate, and consistent with user trust and brand safety. Our safeguards are designed to prevent ad placements in sensitive user contexts and brand unsafe contexts, including but not limited to the contexts described below.
 
@@ -74,7 +74,7 @@ No ads on conversations associated with inappropriate categories, including harm
 
   
   
-## 2\. Ad content policy
+## 2\. Ad content policies
 
 Our ad content policies define the categories of advertising currently supported on ChatGPT. During the initial test period, ads are primarily limited to consumer verticals such as lifestyle and household goods, local services, travel and experiences, and digital products or education. These categories may expand over time. We may approve ads from approved advertisers within the financial services, healthcare & medicine, and legal services categories. These categories are being rolled out gradually with approvals being reviewed manually on a case-by-case basis.
 
@@ -179,15 +179,17 @@ We do not allow ads for unsafe or unapproved medical products; unsupported treat
 
 General health and wellness products that do not make medical claims may be permitted, including fitness equipment, wearable devices, menstrual products, and content with incidental references to health or self-care. Products that make unregulated health or wellness claims may be evaluated under the Wellness Claims policy.
 
-### Housing and Jobs
+### Housing and jobs
 
 Ads for individual job listings or housing rentals or sales are prohibited. Advertisers may link to platforms that have job or house listings as long as the landing page or ad creative does not reference a specific listing.
 
 ### Legal services
 
-Ads for legal advice, representation, or legal services offered to individuals or businesses are not permitted. This includes services related to immigration, personal injury, legal claims, or document preparation.
+Ads for legal advice, representation, or legal services offered to individuals or businesses are permitted in the US only when the advertiser is licensed to practice law in the jurisdiction where the ad is shown. This includes services related to immigration, personal injury, legal claims, or document preparation.
 
 Ads for general legal education or media may be allowed where no legal services are offered. Examples include legal-themed podcasts or educational materials about law (e.g., LSAT preparation courses). 
+
+Ads for legal services outside of the US are currently prohibited.
 
 ### Political content
 
@@ -300,6 +302,7 @@ The goal is straightforward: make it possible for businesses of all sizes to use
 
 ## Changelog
 
+  * v1.5 (Aug 2026): Updated to reflect that legal services are permitted in the US.
   * v1.4 (August 2026): Clarified our policy stance on housing and job listings.
   * v1.3 (July 2026): Introduced a new section on advertiser policies and updated the financial and health services sections to clarify eligible categories and markets.
   * v1.2 (May 2026): A new section explains what standards we apply, how we implement these standards, and what happens when ads don’t meet our safety bar.

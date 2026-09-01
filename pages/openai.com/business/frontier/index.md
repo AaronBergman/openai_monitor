@@ -38,25 +38,17 @@ Integrated with systems of record, governed by enterprise-grade security, and de
 
 ![Layered architecture diagram showing ChatGPT Enterprise, OpenAI Atlas, and Business Applications at the top; Your Agents, OpenAI Agents, and Third-Party Agents beneath; and foundational layers for Evaluation and Optimization, Agent Execution, and Business Context supporting enterprise AI workflows.](https://images.ctfassets.net/kftzwdyauwt9/74VrBsnsEegjyFCyN2CDdb/56a9e9a98745c87d08d4f4036a41badd/Desktop_Lightmode__1_.png?w=3840&q=90&fm=webp)
 
-![icon of circles and a plus, suggesting adding apps](https://images.ctfassets.net/kftzwdyauwt9/4LqkzOxvItoN3Q4NwiqOSA/c869217970ba54e9362d662290b96750/connect-apps.svg?w=3840&q=90)
-
 #### Create competence
 
 **Business Context** connects enterprise systems—data warehouses, CRM tools, and internal apps—so AI agents can work with the same information people do, building durable institutional memory over time.
-
-![Speedometer icon](https://images.ctfassets.net/kftzwdyauwt9/12zWLL3kbVxatH8yFh3zEA/901c6166664292a32b2cc84fb081a796/speedometer.svg?w=3840&q=90)
 
 #### Run agents in production
 
 **Agent Execution** enables AI agents to apply model intelligence to real business situations, working together in parallel to complete complex tasks reliably across real workflows and environments.
 
-![icon of two people with a plus sign, suggesting adding members](https://images.ctfassets.net/kftzwdyauwt9/6vmRpfl1Xmo7UE4bTZKTcx/4666769ac3a92168c6bc7aa6b30a3690/add-member.svg?w=3840&q=90)
-
 #### Improve with experience
 
 Built-in **evaluation and optimization** loops show what’s working and what isn’t, so agents can improve with experience and consistently do useful work over time.
-
-![Icon of a key with a lock](https://images.ctfassets.net/kftzwdyauwt9/35JWcrYLxCrzc32jCCDycS/b01d87eb01f8aaa714e7a38446ae1e21/api-key-admin.svg?w=3840&q=90)
 
 #### Embed trust
 
@@ -121,7 +113,7 @@ Enterprise Identity & Access Management (IAM) applies across your workforce of e
 
 #### Privacy, security & compliance 
 
-The Frontier platform is built on the same trusted security and compliance foundation that supports millions of business customers today. It meets leading standards including SOC 2 Type II, ISO/IEC 27001, 27017, 27018, 27701, and CSA STAR. [Learn more](</business-data/>)
+The Frontier platform is built on the same trusted security and compliance foundation that supports millions of business customers today. It is aligned with leading standards including SOC 2 Type II, ISO/IEC 27001, 27017, 27018, 27701, and CSA STAR. [Learn more](</business-data/>)
 
 ![icon of a chat bubble with an AI sparkle inside](https://images.ctfassets.net/kftzwdyauwt9/5IFPrTDSKlDGJFgaJJ1iuv/451840c51b13196dffd7046e9b9ce199/icon_40_ai-advisors.svg?w=3840&q=90)
 

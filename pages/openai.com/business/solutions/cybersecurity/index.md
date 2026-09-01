@@ -26,6 +26,12 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 OpenAI
 
+### [Livestream] Join us September 3, 2026 at 1pm PT
+
+to see how frontier AI is reshaping cyber defense.
+
+[Register now](</business/learn/intelligence-at-work-cyber/>)
+
 # Frontier intelligence for cybersecurity
 
 Help security teams find and validate vulnerabilities, investigate threats, and move faster from findings to fixes.
@@ -95,15 +101,11 @@ Best for running security scans from your terminal and integrating them into loc
 
 ## Built for the full security workflow
 
-![Magnifying glass icon](https://images.ctfassets.net/kftzwdyauwt9/7kQ9GoTOoBvpeap5lDT3R4/fc3ce7a5ed9c1b71d47345b9044d8251/magnifying-glass-md.svg?w=3840&q=90)
-
 #### Find vulnerabilities in code
 
 Codex Security + Daybreak Blue: Scan repositories and code changes for likely vulnerabilities, using codebase context to surface high-signal findings before they reach production.
 
 [Read the documentation(opens in a new window)](<https://learn.chatgpt.com/use-cases/scan-code-changes-for-security>)
-
-![Shield check icon](https://images.ctfassets.net/kftzwdyauwt9/4aO0Ze9yqtETC8ptzrApOD/0a1b8f05e3375f739edd50a9918a9b67/checkmark-shield.svg?w=3840&q=90)
 
 #### Validate what matters
 
@@ -111,15 +113,11 @@ Codex Security + Daybreak Blue: Reproduce candidate findings, establish reachabi
 
 [Read the documentation(opens in a new window)](<https://learn.chatgpt.com/use-cases/deep-security-scan>)
 
-![Wrench icon](https://images.ctfassets.net/kftzwdyauwt9/Qka5Kyd75opqRcmK7n39T/161f0db10fd6d6300a0f844aa83e7b82/wrench.svg?w=3840&q=90)
-
 #### Move from finding to fix
 
 Codex Security + Daybreak Blue: Generate focused patches, run relevant tests, and produce reviewable changes with evidence for engineering approval.
 
 [Read the documentation(opens in a new window)](<https://learn.chatgpt.com/use-cases/remediate-vulnerability-backlog>)
-
-![Laptop connector icon](https://images.ctfassets.net/kftzwdyauwt9/1oTPrbHzevi6NudjRbbvzo/a948debcf0e3caace064cd661f7c1c7b/laptop-connector.svg?w=3840&q=90)
 
 #### Anticipate how systems may be attacked
 
@@ -127,15 +125,11 @@ Daybreak Blue: Map assets, entry points, trust boundaries, sensitive data paths,
 
 [Read the documentation(opens in a new window)](<https://learn.chatgpt.com/docs/security/threat-model>)
 
-![Tasks icon](https://images.ctfassets.net/kftzwdyauwt9/18l4y2OsF2G773bnaNmlwR/eb2782a9ebe8a11ffaba9f315f9e1bce/tasks.svg?w=3840&q=90)
-
 #### Test systems like an adversary
 
 Daybreak Red: Conduct scoped penetration tests and realistic red-team exercises to validate defenses and demonstrate how vulnerabilities could be chained, under clear authorization and rules of engagement.
 
 [Read the documentation(opens in a new window)](<https://developers.openai.com/api/docs/guides/red-teaming>)
-
-![Sources icon](https://images.ctfassets.net/kftzwdyauwt9/622xQn0lErzdajJgmzBfAm/7930146f5f7c9e89c01a67e0285ee5f2/sources.svg?w=3840&q=90)
 
 #### Investigate complex security targets
 

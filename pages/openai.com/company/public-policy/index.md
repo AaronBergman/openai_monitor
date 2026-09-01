@@ -64,8 +64,6 @@ Updating our approaches as we learn more about an unpredictable future.
 
 We support policies that expand opportunity, mitigate risks, and broaden access to the benefits of AI.
 
-![Help vector](https://images.ctfassets.net/kftzwdyauwt9/3ZQh0fArnxauTMqO60vpyG/58dea85189cf3c545de44b787caf113b/vector.png?w=3840&q=90&fm=webp)
-
 #### Frontier model safety, security, and accountability
 
 Frontier AI safety is a national security and public safety issue.
@@ -74,15 +72,11 @@ Frontier AI safety is a national security and public safety issue.
 
 Read more
 
-![Trio vector](https://images.ctfassets.net/kftzwdyauwt9/FsRsNuoYoECdD3acvVFiA/b3b7f89ced92fb29b490b88d8b3370cc/vector__3_.png?w=3840&q=90&fm=webp)
-
 #### Youth safety
 
 Young people should have access to safe, trustworthy AI with strong protections.
 
 Read more
-
-![Book vector](https://images.ctfassets.net/kftzwdyauwt9/64rUg8oJi83kwccXkQXNsr/ab39250821b2e8b65899edcf4134f357/vector__2_.png?w=3840&q=90&fm=webp)
 
 #### Education and AI literacy
 
@@ -90,23 +84,17 @@ AI should expand educational opportunity while keeping educators central.
 
 Read more
 
-![Briefcase vector](https://images.ctfassets.net/kftzwdyauwt9/OzqFlDXKZ7TH2mlFYJwrf/d8ecf113003fbb866e8f8285a5b74dde/briefcase.png?w=3840&q=90&fm=webp)
-
 #### Workforce and economic transition
 
 Everyone should be able to participate in the opportunities AI creates.
 
 Read more
 
-![Analyze data vector](https://images.ctfassets.net/kftzwdyauwt9/4MYbtlj8VbnLKYGU8VlLda/612b7546ef6bac02800e081a647d565c/analyze-data.png?w=3840&q=90&fm=webp)
-
 #### Deepfakes and content provenance
 
 People should know where content comes from and be protected from harmful impersonation.
 
 Read more
-
-![Plan vector](https://images.ctfassets.net/kftzwdyauwt9/2jp3IMEfvul9elAsdG8JIU/8bdb3a164c39aefc935fb751ccc967c9/plan.png?w=3840&q=90&fm=webp)
 
 #### AI infrastructure and energy
 
@@ -117,8 +105,6 @@ Read more
 ## Our approach
 
 How we advance our policy priorities through partnerships, advocacy, and public engagement.
-
-![Building vector](https://images.ctfassets.net/kftzwdyauwt9/7x2Mw73tZmU2z6fQGrCxOw/266acec3506428dcc77fde19bedace8e/vector__4_.png?w=3840&q=90&fm=webp)
 
 #### Government partnerships
 
@@ -132,23 +118,17 @@ Ensuring workers have a voice in the AI transition.
 
 Read more
 
-![Batch vector](https://images.ctfassets.net/kftzwdyauwt9/1vlzxkKoTeF5SbPb9FtjjT/0e32ec55255937685cc34619c5c621e4/batch.png?w=3840&q=90&fm=webp)
-
 #### Direct lobbying and advocacy
 
 Providing policymakers with insight into AI and its societal impacts.
 
 Read more
 
-![Person vector](https://images.ctfassets.net/kftzwdyauwt9/5g3h2QFfBmXh7X41Q957ZP/442349904f42d932cc7ee40cb6fffa8b/person.png?w=3840&q=90&fm=webp)
-
 #### Memberships and partnerships
 
 Collaborating with organizations that engage on issues relevant to our mission and users.
 
 Read more
-
-![Circle grid vector](https://images.ctfassets.net/kftzwdyauwt9/7FPHIjlNGzCOQpOOmSlWNR/21370fcfbac156bb9f7ddb68d1b0dc13/circle-grid-2x2-connect.png?w=3840&q=90&fm=webp)
 
 #### Political action committees and 501(c)(4) organizations
 

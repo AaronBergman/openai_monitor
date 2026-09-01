@@ -102,25 +102,17 @@ Read more
 
 Even with strong protections in place, staying aware is important to reduce risk. This guidance may not prevent every prompt injection, but it makes it harder for attackers to succeed.
 
-![An illustrated hand raised upright, symbolizing volunteering, participation, or signaling attention.](https://images.ctfassets.net/kftzwdyauwt9/1ggF2HywbK5PFM6jsUWX0Z/21469b08b785061cd3318f6573632336/hand-raised.svg?w=3840&q=90)
-
 #### Limit access with built-in controls
 
 Where possible, limit an agent’s access to only the data it needs to complete a task. For example, when using agent mode in ChatGPT Atlas for vacation research, use logged-out mode if sign-in isn’t required.
-
-![An illustration of a hand giving a thumbs-up gesture, symbolizing approval, agreement, or positive feedback.](https://images.ctfassets.net/kftzwdyauwt9/5WHlb9A0IEPoFhKb71wdQ2/2cb34e6ec498ecad405d078b5edd31d7/thumbs.svg?w=3840&q=90)
 
 #### Carefully review before confirming agent actions
 
 We often design agents to ask for confirmation before taking important actions, like sending an email or completing a purchase. When prompted, review the details to ensure the action looks correct and that you’re comfortable with any information being shared.
 
-![A checklist icon with several items and checkmarks, representing completed tasks or organized to-do lists.](https://images.ctfassets.net/kftzwdyauwt9/7japq362WhFh0NEr3CPe3Y/d3f40b6d7852236385119e491ed20033/tasks.svg?w=3840&q=90)
-
 #### When possible, give an agent explicit instructions
 
 Giving an agent a very broad instruction such as "review my emails and take whatever action is needed" can make it easier for hidden malicious content to mislead the model, even though it is designed to check with you before taking sensitive actions. It’s safer to ask your agent to do specific things, and not to give it wide latitude to potentially follow harmful instructions from elsewhere like emails.
-
-![A simple line drawing of a smiling face with closed eyes, conveying a calm and relaxed expression.](https://images.ctfassets.net/kftzwdyauwt9/7DUTxwURAH3sIR7nv5nqXk/a595cb2b74aef88bd139e81bdcbd9f98/notification__bell.svg?w=3840&q=90)
 
 #### Stay informed on safety best practices
 

@@ -40,25 +40,17 @@ Compare course offerings against the skills employers are hiring for.
 
 ## Supporting mission-critical priorities across campus
 
-![Icon representing building student capability with AI.](https://images.ctfassets.net/kftzwdyauwt9/4Pw0eCr3W1iSURXejUf04B/d8ef9823f792e9d93ec33cb0a16c6d5e/Skills.svg?w=3840&q=90)
-
 #### Build student capability
 
 Build the skills students need to learn and thrive in an AI-powered workforce.
-
-![Icon representing expanded faculty and staff capacity with AI.](https://images.ctfassets.net/kftzwdyauwt9/3F4XGCibygiPxb9thOBlSg/43e9e041d82bd4026c9a5dbd7a3775e7/Group.svg?w=3840&q=90)
 
 #### Expand faculty and staff capacity
 
 Reduce administrative friction so teams can focus on the work that matters most.
 
-![Icon representing accelerated research and discovery with AI.](https://images.ctfassets.net/kftzwdyauwt9/4RThMc37UL0djsLWekywWQ/0c57b075a155ca319cd80bb3e1fcd240/Clock.svg?w=3840&q=90)
-
 #### Accelerate research and discovery
 
 Help researchers move faster with governed access to frontier AI.
-
-![Icon representing secure AI deployment at scale.](https://images.ctfassets.net/kftzwdyauwt9/5oPP66xjdFQPQI5SFWhONR/206977bdee17cb477905f2b6c3d6f398/Shield-Checkmark.svg?w=3840&q=90)
 
 #### Deploy securely at scale
 

@@ -32,7 +32,7 @@ See pricing for our business and enterprise plans.
 
 ChatGPTAPI
 
-![](https://images.ctfassets.net/kftzwdyauwt9/5VpL5Fj00dC65H8mTi1jHn/9dded36b68c5120e69f1b101638d2529/chat-1.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/73cC2JMkVW6V9PACERoZce/8b54dd2cc51e5284da1a8ab64c4ff880/pricing-plan-business.png?w=3840&q=90&fm=webp)
 
 ### Business
 
@@ -81,7 +81,7 @@ What’s included:
 
 For teams of 2–200 employees. Unlimited subject to abuse guardrails. [Learn more⁠⁠(opens in a new window)](<https://help.openai.com/en/articles/8792828-what-is-chatgpt-team>)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/s2GhJeU3baS4ToFbNYOTs/35171dcb81bd64418aec716692646f6e/chat-2.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/1QmprWl68NSPJFAwHcdDm4/63529f748566c4d710859f4dcb4cf946/pricing-plan-enterprise.png?w=3840&q=90&fm=webp)
 
 ### Enterprise
 

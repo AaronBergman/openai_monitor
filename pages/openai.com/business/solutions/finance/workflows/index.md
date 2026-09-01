@@ -40,25 +40,17 @@ Explore 16 real workflows across planning, forecasting, monthly close, treasury,
 
 Move beyond explaining what happened to understanding what’s changing, deciding what matters, and helping the business act sooner.
 
-![Live signal icon](https://images.ctfassets.net/kftzwdyauwt9/1SHfZ4tsTTPFSYhlCpsf0u/559e4a8226e38f6c59e5967e26b1ceea/live-signal.svg?w=3840&q=90)
-
 #### Decide & operate
 
 Use live signals to make faster decisions.
-
-![Summary icon](https://images.ctfassets.net/kftzwdyauwt9/79SBWcio2K9gxfHT1qwI1Q/b4859ad6931c231f0415b4961ba18667/summary.svg?w=3840&q=90)
 
 #### Close & report
 
 Reconcile results and share clear updates.
 
-![Arrow trending upward icon](https://images.ctfassets.net/kftzwdyauwt9/1ILEgQn8Z9vygBl2yGgVIm/04a9f3d4fe6594bc8ea7e8fcddbe3099/arrow-right-up-trending.svg?w=3840&q=90)
-
 #### Forecast & plan
 
 Model scenarios and plan what comes next.
-
-![Compare icon](https://images.ctfassets.net/kftzwdyauwt9/3Mj5zKQancOhM1up9DnS4d/0c73347e7d288a8fd26ed1f01becbd4e/compare.svg?w=3840&q=90)
 
 #### Communicate & orchestrate
 
