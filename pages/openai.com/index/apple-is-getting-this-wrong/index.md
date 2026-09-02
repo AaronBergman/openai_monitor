@@ -50,6 +50,8 @@ Apple’s request for a preliminary injunction is both based on false informatio
 
 **August 6, 2026 update** : You can read our Motion to Dismiss [here⁠(opens in a new window)](<https://storage.courtlistener.com/recap/gov.uscourts.cand.474095/gov.uscourts.cand.474095.59.0.pdf>).
 
+**September 1, 2026 update** : You can read our opposition to Apple's motion for preliminary injunction [here⁠(opens in a new window)](<https://storage.courtlistener.com/recap/gov.uscourts.cand.474095/gov.uscourts.cand.474095.97.0.pdf>).
+
 ## Messages
 
  _iMessages between Chang Liu (in blue) and Apple employees, where Chang—whose last day with Apple was January 22, 2026—is being asked by his former colleagues to help them locate files and information to assist them with their Apple work (all times UTC). Note: other individual names and Apple confidential information have been redacted._
@@ -426,17 +428,17 @@ OpenAI
 
 [View all](</news/>)
 
-![APA partnership > card image](https://images.ctfassets.net/kftzwdyauwt9/7Iu2mNExtUq2EqstK69WkH/7fb0f37c3c69d9481f8ea803af7ae613/openai-and-apa-advance-responsible-ai-for-youth-1_1.png?w=3840&q=90&fm=webp)
+![California youth AI safety — cover](https://images.ctfassets.net/kftzwdyauwt9/3CsHxgcoiHHUUaYOB1FNiq/38e90de831dad795965ed98ffdd3a95a/Frame.png?w=3840&q=90&fm=webp)
 
-[OpenAI and APA advance responsible AI for youthCompanyAug 6, 2026](</index/openai-and-apa-partner-to-advance-responsible-ai/>)
+[OpenAI supports California’s bill to advance youth AI safetyCompanyAug 31, 2026](</index/supporting-california-bill-advance-ai-youth-safety/>)
 
-![How people use ChatGPT around the world > Cover image](https://images.ctfassets.net/kftzwdyauwt9/5quRLt4fW8Js506D8eNKl3/3d9938860836620ec50b148f4e3f1a49/Art_Card__5_.png?w=3840&q=90&fm=webp)
+![Our decision on Cursor following its acquisition by SpaceX — cover](https://images.ctfassets.net/kftzwdyauwt9/3gFEgHvtA7Rsa5yUen97p5/b78a11ad81397a4003b879160e5a19b3/index-our-decision-on-cursor-following-its-acquisition-by-spacex-cover.png?w=3840&q=90&fm=webp)
 
-[How the world is putting ChatGPT to workCompanyAug 6, 2026](</index/how-the-world-is-putting-chatgpt-to-work/>)
+[Our decision on Cursor following its acquisition by SpaceXCompanyAug 28, 2026](</index/our-decision-on-cursor-following-its-acquisition-by-spacex/>)
 
-![Continuous voice interaction with GPT Live - art card](https://images.ctfassets.net/kftzwdyauwt9/3PyfDzfjOozLbJnaZIkRLD/6aef080bb4e7d6a6b8a6dc23436848db/gpt-live-art-card.png?w=3840&q=90&fm=webp)
+![Supporting Thailand’s next generation of AI startups > Cover image](https://images.ctfassets.net/kftzwdyauwt9/6ttG55Aq2kyDRG8wxOkTx9/897d266cacc77edc0a25d06b9f6c2c45/supporting-next-generation-ai-startups-thailand--cover.png?w=3840&q=90&fm=webp)
 
-[Continuous voice interaction with GPT LiveEngineeringAug 3, 2026](</index/continuous-voice-interaction-with-gpt-live/>)
+[Supporting Thailand’s next generation of AI startupsCompanyAug 28, 2026](</index/supporting-next-generation-ai-startups-thailand/>)
 
 Research
 

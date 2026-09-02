@@ -52,6 +52,10 @@ Switch cards to show Media
 
 Switch cards to hide Media
 
+![Path to Astra — Clean square cover — Neutral Option 062 v1](https://images.ctfassets.net/kftzwdyauwt9/4BabvjDCQdlYN2ISzOkgF9/78d35947274e9b3ac2483377782b007e/astra-cover-v001.png?w=3840&q=90&fm=webp)
+
+[Path to Astra: critical capabilities and frontier safeguardsSafetySep 1, 2026](</index/path-to-astra/>)
+
 [The Hugging Face incident and the road aheadSecurityAug 26, 2026](</index/hugging-face-incident-and-the-road-ahead/>)
 
 ![Our commitment to Zero Data Retention as AI advances — card](https://images.ctfassets.net/kftzwdyauwt9/6bPStWA6pc66cahnhg0jo6/61786b178401b6e902e9da65fa4da095/Blog_Thumbnail_-_OpenAI_Blog.png?w=3840&q=90&fm=webp)
@@ -81,10 +85,6 @@ Switch cards to hide Media
 ![GPT-5.5 Bio Bug Bounty > art card](https://images.ctfassets.net/kftzwdyauwt9/2wba91t9mgdv1oBPai3LTb/e48f5d6b5e44bdaafb0eac51f96458d1/bug_bounty_1_1.png?w=3840&q=90&fm=webp)
 
 [OpenAI Bio Bug BountySafetyJul 9, 2026](</index/bio-bug-bounty/>)
-
-![""](https://images.ctfassets.net/kftzwdyauwt9/2ygRvL6yUYAvtHiZYmCT8K/91195cbe6f282c24026d154fe3ac422e/System_card_1_1.png?w=3840&q=90&fm=webp)
-
-[GPT‑5.6 System CardSafetyJul 9, 2026(opens in a new window)](<https://deploymentsafety.openai.com/gpt-5-6>)
 
 Load more
 

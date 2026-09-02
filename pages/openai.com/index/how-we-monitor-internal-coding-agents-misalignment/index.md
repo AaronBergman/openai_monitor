@@ -163,15 +163,15 @@ Marcus Williams, Hao Sun, Swetha Sekhar, Micah Carroll, David G. Robinson, Ian K
 
 [View all](</news/>)
 
+![Path to Astra — Clean square cover — Neutral Option 062 v1](https://images.ctfassets.net/kftzwdyauwt9/4BabvjDCQdlYN2ISzOkgF9/78d35947274e9b3ac2483377782b007e/astra-cover-v001.png?w=3840&q=90&fm=webp)
+
+[Path to Astra: critical capabilities and frontier safeguardsSafetySep 1, 2026](</index/path-to-astra/>)
+
 [The Hugging Face incident and the road aheadSecurityAug 26, 2026](</index/hugging-face-incident-and-the-road-ahead/>)
 
 ![Our commitment to Zero Data Retention as AI advances — card](https://images.ctfassets.net/kftzwdyauwt9/6bPStWA6pc66cahnhg0jo6/61786b178401b6e902e9da65fa4da095/Blog_Thumbnail_-_OpenAI_Blog.png?w=3840&q=90&fm=webp)
 
 [Offering Zero Data Retention for frontier modelsCompanyAug 19, 2026](</index/offering-zero-data-retention-for-frontier-models/>)
-
-![Pacing model development in an era of cyber-critical capabilities — Card image](https://images.ctfassets.net/kftzwdyauwt9/3tUOfo4E1xZComoOiRjHJm/51c532f25dd4062f92bff0e41ea00c3c/index-pacing-model-development-cyber-capabilities-dark-cover.png?w=3840&q=90&fm=webp)
-
-[Pacing model development in an era of cyber-critical capabilitiesCompanyAug 18, 2026](</index/pacing-model-development-cyber-capabilities/>)
 
 Research
 

@@ -124,15 +124,15 @@ Greg Brockman
 
 [View all](</news/>)
 
+![Path to Astra — Clean square cover — Neutral Option 062 v1](https://images.ctfassets.net/kftzwdyauwt9/4BabvjDCQdlYN2ISzOkgF9/78d35947274e9b3ac2483377782b007e/astra-cover-v001.png?w=3840&q=90&fm=webp)
+
+[Path to Astra: critical capabilities and frontier safeguardsSafetySep 1, 2026](</index/path-to-astra/>)
+
 [The Hugging Face incident and the road aheadSecurityAug 26, 2026](</index/hugging-face-incident-and-the-road-ahead/>)
 
 ![GPT-Daybreak > Cover](https://images.ctfassets.net/kftzwdyauwt9/2iqsbTTLvgMNteNampw3gW/a38ed04432ee5548c4aec6c7b7a506f2/1x1_Art_Card.png?w=3840&q=90&fm=webp)
 
 [Expanding Daybreak as the Cyber Defense Window NarrowsSecurityAug 10, 2026](</index/expanding-daybreak-as-the-cyber-defense-window-narrows/>)
-
-![Daybreak partners 1x1](https://images.ctfassets.net/kftzwdyauwt9/3AQ3qKm4Rmbjm2C1cLKvkJ/d049df2fdc96d1c5dfc695f00c257ce2/Art_Card.png?w=3840&q=90&fm=webp)
-
-[Putting frontier cyber models in more trusted handsSecurityAug 10, 2026](</index/putting-frontier-cyber-models-in-more-trusted-hands/>)
 
 Research
 

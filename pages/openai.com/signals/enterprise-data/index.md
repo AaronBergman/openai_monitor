@@ -28,6 +28,8 @@ OpenAI
 
 Updated: August 12, 2026
 
+Guides
+
 # Enterprise signals: What frontier firms are doing differently
 
 New data shows a widening frontier gap between companies and how the frontier is moving from assistance to execution.

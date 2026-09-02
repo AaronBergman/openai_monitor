@@ -117,6 +117,10 @@ OpenAI
 
 [View all](</news/>)
 
+![How AI-native companies turn workflows into operating capability — card image](https://images.ctfassets.net/kftzwdyauwt9/mSi6hls2IXr3ax2lH8vTj/5a364b116ec5584ec7415feb4c1a7033/index-how-ai-native-companies-turn-workflows-into-operating-capability--cover-v001.png?w=3840&q=90&fm=webp)
+
+[How AI-native companies turn workflows into operating capabilityAI AdoptionSep 1, 2026](</index/ai-native-company-workflows/>)
+
 ![Building AI for the ambitions of small businesses > Card image](https://images.ctfassets.net/kftzwdyauwt9/7wmfLwQnQQpV1xogqASUpR/76c80831b475e17a187ba35a7e0a46c8/SMB_launch_blog_1x1.png?w=3840&q=90&fm=webp)
 
 [Introducing the ChatGPT for small business programAI AdoptionJul 21, 2026](</index/introducing-chatgpt-small-business-program/>)
@@ -124,10 +128,6 @@ OpenAI
 ![How to manage AI investments in the agentic era > Cover image](https://images.ctfassets.net/kftzwdyauwt9/1qXMreHMXalbFSVXr2CJXW/acbd7f4e05bd38b80a99523967ef69b7/Frame.png?w=3840&q=90&fm=webp)
 
 [How to manage AI investments in the agentic eraAI AdoptionJul 14, 2026](</index/managing-ai-investments-in-agentic-era/>)
-
-![Codex maxxing 1x1](https://images.ctfassets.net/kftzwdyauwt9/5RFmrNey5oX93M1WyqCs4o/5b6ccdce4022764200e06739cda7c21f/Codex_maxxing_1x1.png?w=3840&q=90&fm=webp)
-
-[Codex-Maxxing for Long-Running WorkAI AdoptionJun 22, 2026](</index/codex-maxxing-long-running-work/>)
 
 Research
 

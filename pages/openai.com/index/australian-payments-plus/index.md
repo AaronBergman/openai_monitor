@@ -173,17 +173,17 @@ More than 1 million businesses around the world are achieving meaningful results
 
 ## Keep reading
 
-![math-breakthroughs art-card 1x1](https://images.ctfassets.net/kftzwdyauwt9/2zkd5RIOug4FcEj62mdSF4/3ea9e19c0456289c69f0d839cc929cb2/math-breakthroughs_art-card_1x1.png?w=3840&q=90&fm=webp)
+![How AI-native companies turn workflows into operating capability — card image](https://images.ctfassets.net/kftzwdyauwt9/mSi6hls2IXr3ax2lH8vTj/5a364b116ec5584ec7415feb4c1a7033/index-how-ai-native-companies-turn-workflows-into-operating-capability--cover-v001.png?w=3840&q=90&fm=webp)
 
-[Ten advances in mathematics and theoretical computer sciencePublicationAug 1, 2026](</index/ten-advances-in-mathematics/>)
+[How AI-native companies turn workflows into operating capabilityAI AdoptionSep 1, 2026](</index/ai-native-company-workflows/>)
 
-![Advancing responsible AI across Europe — card](https://images.ctfassets.net/kftzwdyauwt9/1ZPK8n0N6mvnSq50i6b1zZ/9229a595a2f8fea9d0189ce9aa2f634b/card.png?w=3840&q=90&fm=webp)
+![Path to Astra — Clean square cover — Neutral Option 062 v1](https://images.ctfassets.net/kftzwdyauwt9/4BabvjDCQdlYN2ISzOkgF9/78d35947274e9b3ac2483377782b007e/astra-cover-v001.png?w=3840&q=90&fm=webp)
 
-[Advancing responsible AI across EuropeGlobal AffairsJul 31, 2026](</index/advancing-responsible-ai-across-europe/>)
+[Path to Astra: critical capabilities and frontier safeguardsSafetySep 1, 2026](</index/path-to-astra/>)
 
-![Building abundant intelligence — cover image](https://images.ctfassets.net/kftzwdyauwt9/36GHu3UGXM5RSmEuBptpXK/ed1ba0e606b4c32957e4cdbeb5a6c272/Frame__9_.png?w=3840&q=90&fm=webp)
+![Healthcare hero and SEO — original blue icon on white, smaller icon](https://images.ctfassets.net/kftzwdyauwt9/7pfIDODSObT8A9BTlfXyVc/43262863eeb33d7f4f8e191fe4783cab/healthcare-exact-smaller-icon-hero-2x.png?w=3840&q=90&fm=webp)
 
-[Building abundant intelligenceCompanyJul 31, 2026](</index/building-abundant-intelligence/>)
+[ChatGPT can now connect to healthcare sourcesProductSep 1, 2026](</index/chatgpt-connects-health-records-and-healthcare-sources/>)
 
 Research
 

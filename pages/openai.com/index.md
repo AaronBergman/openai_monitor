@@ -52,6 +52,10 @@ Message ChatGPT
 
 [View more](</news/company-announcements/>)
 
+![Path to Astra — Clean square cover — Neutral Option 062 v1](https://images.ctfassets.net/kftzwdyauwt9/4BabvjDCQdlYN2ISzOkgF9/78d35947274e9b3ac2483377782b007e/astra-cover-v001.png?w=3840&q=90&fm=webp)
+
+[Path to Astra: critical capabilities and frontier safeguardsSafetySep 1, 2026](</index/path-to-astra/>)
+
 ![Jalapeño inference — Art Card](https://images.ctfassets.net/kftzwdyauwt9/26K8mLbrpbaDvoFY0NrE04/8e4ad0b3f28042c22d6d5130bd4f4019/jalapeno-art-card.png?w=3840&q=90&fm=webp)
 
 [Jalapeño’s first results show industry-leading speed and efficiency in AI inferenceEngineeringAug 25, 2026](</index/jalapeno-first-results/>)
@@ -71,10 +75,6 @@ Message ChatGPT
 ![price-performance-frontier art-card 1x1](https://images.ctfassets.net/kftzwdyauwt9/38nqRc3lEvizMieZlPcd98/25da92d68f02fcc40d5a4dc48cca96cd/price-performance-frontier_art-card_1x1.png?w=3840&q=90&fm=webp)
 
 [Advancing the price-performance frontier with GPT‑5.6ProductJul 30, 2026](</index/advancing-the-price-performance-frontier-with-gpt-5-6/>)
-
-![OpenAI Presence 1x1](https://images.ctfassets.net/kftzwdyauwt9/5JBDenSGI6wx5CMPPlaM5J/da9d8e27a0bd70d845a816b28ac641a9/OpenAI_Presence_1x1.png?w=3840&q=90&fm=webp)
-
-[Introducing OpenAI PresenceProductJul 22, 2026](</index/introducing-openai-presence/>)
 
 ## Stories
 

@@ -151,15 +151,15 @@ OpenAI
 
 [View all](</news/>)
 
+![Path to Astra — Clean square cover — Neutral Option 062 v1](https://images.ctfassets.net/kftzwdyauwt9/4BabvjDCQdlYN2ISzOkgF9/78d35947274e9b3ac2483377782b007e/astra-cover-v001.png?w=3840&q=90&fm=webp)
+
+[Path to Astra: critical capabilities and frontier safeguardsSafetySep 1, 2026](</index/path-to-astra/>)
+
 [The Hugging Face incident and the road aheadSecurityAug 26, 2026](</index/hugging-face-incident-and-the-road-ahead/>)
 
 ![The Defender’s Window > Cover](https://images.ctfassets.net/kftzwdyauwt9/2We7bguC4FuOofZ8Lu6LUZ/02049fcee47c460695acab59bdb8f648/the-defenders-window-clean-cover.png?w=3840&q=90&fm=webp)
 
 [The Defender’s WindowSecurityAug 17, 2026](</index/the-defenders-window/>)
-
-![GPT-Daybreak > Cover](https://images.ctfassets.net/kftzwdyauwt9/2iqsbTTLvgMNteNampw3gW/a38ed04432ee5548c4aec6c7b7a506f2/1x1_Art_Card.png?w=3840&q=90&fm=webp)
-
-[Expanding Daybreak as the Cyber Defense Window NarrowsSecurityAug 10, 2026](</index/expanding-daybreak-as-the-cyber-defense-window-narrows/>)
 
 Research
 

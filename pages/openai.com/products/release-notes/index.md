@@ -41,6 +41,27 @@ Filter
 
 Sort
 
+ChatGPT
+
+Sep 1, 2026
+
+GA
+
+## Healthcare plugins for ChatGPT and Codex
+
+Eligible ChatGPT for Clinicians users in the United States can now use Healthcare Public Data in ChatGPT. Eligible ChatGPT for Healthcare and HIPAA-enabled ChatGPT Enterprise workspaces can use two healthcare plugins in ChatGPT and Codex:
+
+  * Healthcare Public Data: Search nine public healthcare sources for medical research, clinical trials, medication information, Medicare data, and provider records. The plugin is read-only and does not access patient charts.
+
+  * Epic: Review authorized patient information from your organization’s Epic electronic health record. Access is read-only and requires an administrator-configured Epic EHR app, an individual Epic sign-in, and existing patient-chart permissions.
+
+
+
+
+To get started with Healthcare Public Data, install the plugin from the Plugin directory, then connect the apps you want to use. Admins manage plugin availability and app access separately. Do not include protected health information in searches sent to public sources. Before using Epic with protected health information, confirm your organization has an applicable Business Associate Agreement and an approved workspace configuration.
+
+[View source(opens in a new window)](<https://help.openai.com/en/articles/6825453-chatgpt-release-notes#healthcare-public-data-in-chatgpt-for-clinicians>)[Help center(opens in a new window)](<https://help.openai.com/en/articles/10128477-chatgpt-enterprise-edu-release-notes#healthcare-plugins-for-chatgpt-and-codex>)[Help center(opens in a new window)](<https://help.openai.com/en/articles/20001489>)
+
 API
 
 Aug 29, 2026
@@ -103,29 +124,6 @@ We’re rolling out new controls in temporary chat. You can now choose to person
 
 
 [View source(opens in a new window)](<https://help.openai.com/en/articles/6825453-chatgpt-release-notes#more-controls-in-temporary-chat>)
-
-ChatGPT
-
-Aug 27, 2026
-
-GA
-
-## Centralized identity management in Admin Console
-
-Eligible ChatGPT Enterprise and Edu customers can now manage more workspace and identity settings in Admin Console:
-
-  * Manage workspace members, groups, roles, permissions, and general settings.
-
-  * Sync users and groups once through centralized, tenant-wide SCIM, then assign groups to supported ChatGPT workspaces or Ads accounts.
-
-  * Manage users and roles for Ads accounts, where available.
-
-
-
-
-Existing workspace-level SCIM configurations remain supported.
-
-[View source(opens in a new window)](<https://help.openai.com/en/articles/10128477-chatgpt-enterprise-edu-release-notes#centralized-identity-management-in-admin-console>)[Help center(opens in a new window)](<https://help.openai.com/en/articles/12289294-managing-your-tenant-in-admin-console>)[Help center(opens in a new window)](<https://help.openai.com/en/articles/10011769-scim-provisioning-and-management>)
 
 Load more
 

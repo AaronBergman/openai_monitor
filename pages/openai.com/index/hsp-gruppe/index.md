@@ -195,17 +195,17 @@ More than 1 million businesses around the world are achieving meaningful results
 
 ## Keep reading
 
-![Supporting Thailand’s next generation of AI startups > Cover image](https://images.ctfassets.net/kftzwdyauwt9/6ttG55Aq2kyDRG8wxOkTx9/897d266cacc77edc0a25d06b9f6c2c45/supporting-next-generation-ai-startups-thailand--cover.png?w=3840&q=90&fm=webp)
+![How AI-native companies turn workflows into operating capability — card image](https://images.ctfassets.net/kftzwdyauwt9/mSi6hls2IXr3ax2lH8vTj/5a364b116ec5584ec7415feb4c1a7033/index-how-ai-native-companies-turn-workflows-into-operating-capability--cover-v001.png?w=3840&q=90&fm=webp)
 
-[Supporting Thailand’s next generation of AI startupsCompanyAug 28, 2026](</index/supporting-next-generation-ai-startups-thailand/>)
+[How AI-native companies turn workflows into operating capabilityAI AdoptionSep 1, 2026](</index/ai-native-company-workflows/>)
 
-![Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training > Cover image](https://images.ctfassets.net/kftzwdyauwt9/2X12MQqhR5AY1wog6JW3Q3/721873f6edd491a0f241038a9324b341/what-students-gain-chatgpt-critical-thinking--art-card-no-border.png?w=3840&q=90&fm=webp)
+![Path to Astra — Clean square cover — Neutral Option 062 v1](https://images.ctfassets.net/kftzwdyauwt9/4BabvjDCQdlYN2ISzOkgF9/78d35947274e9b3ac2483377782b007e/astra-cover-v001.png?w=3840&q=90&fm=webp)
 
-[What students gain from ChatGPT and critical-thinking trainingCompanyAug 27, 2026](</index/what-students-gain-from-chatgpt-critical-thinking-training/>)
+[Path to Astra: critical capabilities and frontier safeguardsSafetySep 1, 2026](</index/path-to-astra/>)
 
-![Expanding OpenAI’s presence in Brazil > Cover image](https://images.ctfassets.net/kftzwdyauwt9/7jZgAn4y7ZP5GFx0HimbWT/84b3d734ebe29229bd58b8d8a775dc60/expanding-openai-presence-in-brazil-art-card.png?w=3840&q=90&fm=webp)
+![Healthcare hero and SEO — original blue icon on white, smaller icon](https://images.ctfassets.net/kftzwdyauwt9/7pfIDODSObT8A9BTlfXyVc/43262863eeb33d7f4f8e191fe4783cab/healthcare-exact-smaller-icon-hero-2x.png?w=3840&q=90&fm=webp)
 
-[Expanding OpenAI’s presence in BrazilCompanyAug 27, 2026](</index/expanding-our-presence-in-brazil/>)
+[ChatGPT can now connect to healthcare sourcesProductSep 1, 2026](</index/chatgpt-connects-health-records-and-healthcare-sources/>)
 
 Research
 

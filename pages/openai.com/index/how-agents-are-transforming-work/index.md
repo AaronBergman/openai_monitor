@@ -28,7 +28,7 @@ OpenAI
 
 June 25, 2026
 
-[Company](</news/company-announcements/>)
+[Company](</news/company-announcements/>)Guides
 
 # How agents are transforming work
 

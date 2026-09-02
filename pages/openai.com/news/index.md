@@ -52,6 +52,18 @@ Switch cards to show Media
 
 Switch cards to hide Media
 
+![How AI-native companies turn workflows into operating capability — card image](https://images.ctfassets.net/kftzwdyauwt9/mSi6hls2IXr3ax2lH8vTj/5a364b116ec5584ec7415feb4c1a7033/index-how-ai-native-companies-turn-workflows-into-operating-capability--cover-v001.png?w=3840&q=90&fm=webp)
+
+[How AI-native companies turn workflows into operating capabilityAI AdoptionSep 1, 2026](</index/ai-native-company-workflows/>)
+
+![Path to Astra — Clean square cover — Neutral Option 062 v1](https://images.ctfassets.net/kftzwdyauwt9/4BabvjDCQdlYN2ISzOkgF9/78d35947274e9b3ac2483377782b007e/astra-cover-v001.png?w=3840&q=90&fm=webp)
+
+[Path to Astra: critical capabilities and frontier safeguardsSafetySep 1, 2026](</index/path-to-astra/>)
+
+![Healthcare hero and SEO — original blue icon on white, smaller icon](https://images.ctfassets.net/kftzwdyauwt9/7pfIDODSObT8A9BTlfXyVc/43262863eeb33d7f4f8e191fe4783cab/healthcare-exact-smaller-icon-hero-2x.png?w=3840&q=90&fm=webp)
+
+[ChatGPT can now connect to healthcare sourcesProductSep 1, 2026](</index/chatgpt-connects-health-records-and-healthcare-sources/>)
+
 ![California youth AI safety — cover](https://images.ctfassets.net/kftzwdyauwt9/3CsHxgcoiHHUUaYOB1FNiq/38e90de831dad795965ed98ffdd3a95a/Frame.png?w=3840&q=90&fm=webp)
 
 [OpenAI supports California’s bill to advance youth AI safetyCompanyAug 31, 2026](</index/supporting-california-bill-advance-ai-youth-safety/>)
@@ -75,16 +87,6 @@ Switch cards to hide Media
 ![Expanding OpenAI’s presence in Brazil > Cover image](https://images.ctfassets.net/kftzwdyauwt9/7jZgAn4y7ZP5GFx0HimbWT/84b3d734ebe29229bd58b8d8a775dc60/expanding-openai-presence-in-brazil-art-card.png?w=3840&q=90&fm=webp)
 
 [Expanding OpenAI’s presence in BrazilCompanyAug 27, 2026](</index/expanding-our-presence-in-brazil/>)
-
-![ChatGPT for Teachers district expansion | Original neutral library cover](https://images.ctfassets.net/kftzwdyauwt9/4jHps0gmVQfIrnl2shwDBi/35e47854409876d353f3bb502a164317/teachers-original-neutral-listing.png?w=3840&q=90&fm=webp)
-
-[Bringing ChatGPT for Teachers to more U.S. school districtsProductAug 26, 2026](</index/bringing-chatgpt-for-teachers-to-more-us-school-districts/>)
-
-![Learning never stops card image](https://images.ctfassets.net/kftzwdyauwt9/rGBw0SMWP2aaIH5twRBgX/5f8f24d0e5a03eecfc74ab6cee3dc331/learning-never-stops-how-ai-makes-learning-continuous-cover.png?w=3840&q=90&fm=webp)
-
-[Learning never stops: How AI makes learning continuousProductAug 26, 2026](</index/learning-never-stops/>)
-
-[The Hugging Face incident and the road aheadSecurityAug 26, 2026](</index/hugging-face-incident-and-the-road-ahead/>)
 
 Load more
 

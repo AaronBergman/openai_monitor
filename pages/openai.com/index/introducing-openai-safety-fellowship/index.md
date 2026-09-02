@@ -62,15 +62,15 @@ OpenAI
 
 [View all](</news/>)
 
+![Path to Astra — Clean square cover — Neutral Option 062 v1](https://images.ctfassets.net/kftzwdyauwt9/4BabvjDCQdlYN2ISzOkgF9/78d35947274e9b3ac2483377782b007e/astra-cover-v001.png?w=3840&q=90&fm=webp)
+
+[Path to Astra: critical capabilities and frontier safeguardsSafetySep 1, 2026](</index/path-to-astra/>)
+
 [The Hugging Face incident and the road aheadSecurityAug 26, 2026](</index/hugging-face-incident-and-the-road-ahead/>)
 
 ![Our commitment to Zero Data Retention as AI advances — card](https://images.ctfassets.net/kftzwdyauwt9/6bPStWA6pc66cahnhg0jo6/61786b178401b6e902e9da65fa4da095/Blog_Thumbnail_-_OpenAI_Blog.png?w=3840&q=90&fm=webp)
 
 [Offering Zero Data Retention for frontier modelsCompanyAug 19, 2026](</index/offering-zero-data-retention-for-frontier-models/>)
-
-![ChatGPT for Teens — square card](https://images.ctfassets.net/kftzwdyauwt9/5IP7e1KeD8zkZq6YUrKdKW/2325215681ea59d32dd09b3ea90f12c5/Art_Card-TEENS-1x13x.png?w=3840&q=90&fm=webp)
-
-[Introducing ChatGPT for TeensProductAug 18, 2026](</index/chatgpt-for-teens/>)
 
 Research
 

@@ -42,7 +42,7 @@ The outcomes are what matter. Faster decisions. Stronger controls. More adaptive
 
 A disciplined march to value. From experimentation to enterprise accountability. Designed for what works today — ready for what’s next.
 
-![Advanced Partner](/images/partner-tier-badges/OAI_PartnerNetwork_AdvancedPartner.svg?dpl=dpl_BdRxAz7pUvB7ugzpY5eAx7A6JZLM)
+![Advanced Partner](/images/partner-tier-badges/OAI_PartnerNetwork_AdvancedPartner.svg?dpl=dpl_BF5Kd1Y523jPFyg3pm1J55YbVFdu)
 
 Countries served
     Global

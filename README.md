@@ -1,5 +1,48 @@
 # openai_monitor
 
+## 2026-09-02 — Run `2026-09-02T09-16Z`
+
+**Fetch time:** 2026-09-02T09:16–09:20Z UTC | **Baseline:** 2026-09-01T09-16Z (consecutive day)
+
+**TL;DR:** The headline today is safety, not marketing: OpenAI announced that its new **Astra** model is the first to meet the **"Critical" cybersecurity-capability threshold** under its Preparedness Framework — meaning, in the right hands, it can independently find and exploit unknown vulnerabilities in hardened systems — and detailed the safeguards (stronger refusal training, misalignment monitoring, limited initial access) it says make release safe. Separately, OpenAI **connected ChatGPT and Codex to Electronic Health Records** (via Epic) and public healthcare data sources for eligible clinicians and enterprise healthcare customers, and **filed a formal legal opposition to Apple's motion for a preliminary injunction** in their ongoing dispute. Two new customer stories (Gilbert + Tobin, an Australian law firm; and a healthcare landing-page refresh) round out the day. Of 294 pages with a `<lastmod>` bump, only about a dozen changed anything besides a "related articles" widget or a byte-identical metadata touch.
+
+### Anomalies
+
+None on the strict checks (no future-dated or backwards-moving `<lastmod>`, no backdated new URLs, no reappeared URLs, no section migrations; all 298 page fetches succeeded first try). One thing worth a raised eyebrow anyway: [`/index/introducing-b2b-signals/`](pages/openai.com/index/introducing-b2b-signals/index.md) picked up a new "Update" note dated **August 12, 2026** — three weeks before it actually showed up in our snapshots today. Its `<lastmod>` moved in step with our fetch, so it's not a backdating violation by the letter of the rule, just a reminder that a page's claimed update date and the date it was actually crawled/indexed can drift. Full breakdown in [`runs/2026-09-02T09-16Z/analysis.md`](runs/2026-09-02T09-16Z/analysis.md).
+
+### Notable additions
+
+- **[Path to Astra: critical capabilities and frontier safeguards](pages/openai.com/index/path-to-astra/index.md)** — OpenAI's Astra model is the first it has designated at the **Critical** cybersecurity capability level: in expert testing it built a full browser-sandbox-escape exploit chain, scored 100% on ExploitBench, and discovered two real zero-day vulnerabilities during evaluation (now being disclosed to maintainers). Development was partly paused after the earlier OpenAI–Hugging Face security incident to harden infrastructure; Astra ships with a 91.5% refusal rate on cyber-jailbreak evals (vs. 59% for the prior model), tighter behavior limits for high-risk accounts, and production monitoring that can pause or stop agent actions it flags as unauthorized. Advanced cyber-capability access starts with a small alpha group before expanding via "Daybreak Blue."
+- **[ChatGPT can now connect to healthcare sources](pages/openai.com/index/chatgpt-connects-health-records-and-healthcare-sources/index.md)** — new Epic EHR integration (read-only, admin-configured, requires a Business Associate Agreement for patient data) plus a "Healthcare Public Data" plugin covering nine public medical/clinical-trial/Medicare data sources, for ChatGPT for Healthcare, Clinicians, and HIPAA-enabled Enterprise workspaces.
+- **[How law firm Gilbert + Tobin governs and scales AI with OpenAI](pages/openai.com/index/gilbert-tobin/index.md)** — customer story: 87% active ChatGPT usage among enabled users at the Australian law firm (2x their internal adoption target), CEO-led governance, using ChatGPT + Codex.
+- **[How AI-native companies turn workflows into operating capability](pages/openai.com/index/ai-native-company-workflows/index.md)** — editorial piece profiling Basis, Clay, and Exa Labs on embedding agents into onboarding, account management, and developer-integration workflows.
+
+### Notable updates
+
+- **[`/index/apple-is-getting-this-wrong/`](pages/openai.com/index/apple-is-getting-this-wrong/index.md)** — new inline note: "September 1, 2026 update: You can read our opposition to Apple's motion for preliminary injunction here," linking a CourtListener-hosted PDF — OpenAI has now formally opposed Apple's injunction motion in their App Store/ChatGPT dispute.
+- **[`/solutions/industries/healthcare/`](pages/openai.com/solutions/industries/healthcare/index.md)** — rewritten to match the EHR announcement: old "standardize AI across your health system" copy replaced with sections on connecting EHR workflows and public healthcare data, accelerating care/operations work, and HIPAA-ready deployment controls.
+- **[`/products/release-notes/`](pages/openai.com/products/release-notes/index.md)** — rolling window advanced; new GA entry: "Healthcare plugins for ChatGPT and Codex" (Sep 1), matching the EHR/Healthcare Public Data launch above.
+- **[`/business/customer-stories/`](pages/openai.com/business/customer-stories/index.md)** — featured grid refreshed: **+Gilbert + Tobin, +Polimill**; Circles and Univé rotated out of the featured set (still live as standalone pages).
+- **[`/signals/data/`](pages/openai.com/signals/data/index.md)** — template restructure (sidebar TOC rendered as bullets, headings downgraded H2→H4, a data-download link promoted higher); no underlying dataset change.
+- 4 partner pages ([endava](pages/openai.com/business/partners/endava/index.md), [ernst-and-young](pages/openai.com/business/partners/ernst-and-young/index.md), [ntt-data](pages/openai.com/business/partners/ntt-data/index.md), [pwc](pages/openai.com/business/partners/pwc/index.md)) — pure CDN cache-bust on their partner-tier badge image, no visible change.
+- A ~4-year-old DALL·E 2 post ([`reducing-bias-and-improving-safety-in-dall-e-2`](pages/openai.com/index/reducing-bias-and-improving-safety-in-dall-e-2/index.md)) finally picked up the current sitewide footer nav.
+
+### Routine, low-signal updates
+
+- **~115 of 294** updated pages, including the homepage and the `/news/*` hub pages: only the "Keep reading" related-articles widget changed, surfacing today's new posts.
+- **160 of 294** updated pages: byte-for-byte identical to their prior snapshot — pure `<lastmod>`/metadata touch.
+- Full per-page breakdown in [`runs/2026-09-02T09-16Z/analysis.md`](runs/2026-09-02T09-16Z/analysis.md) and [`runs/2026-09-02T09-16Z/diff.json`](runs/2026-09-02T09-16Z/diff.json).
+
+### Removals
+
+- **[`/form/trusted-access-for-biology-research/`](pages/openai.com/form/trusted-access-for-biology-research/index.md)** — biosecurity-research access request form dropped from the sitemap (last snapshot preserved in git history).
+- **[`/index/openai-campus-network-student-club-interest-form/`](pages/openai.com/index/openai-campus-network-student-club-interest-form/index.md)** — student-club interest form dropped from the sitemap (last snapshot preserved in git history).
+
+**Stats:** 1627 total URLs | 4 added | 294 updated | 2 removed | 0 anomalies | 36 sub-sitemaps
+
+---
+
+
 
 ## 2026-09-01 — Run `2026-09-01T09-16Z`
 

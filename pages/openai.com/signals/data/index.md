@@ -32,23 +32,47 @@ Updated: August 6, 2026
 
 Browse the data to see global individual ChatGPT adoption patterns, geographic distribution, and use in and outside of work.
 
-How people use ChatGPTUsage by regionUsage by different groups
+[Download data and methodology](</signals/data-download/>)
+
+How people use ChatGPT
+
+  * How people use ChatGPT
+    * Overall usage
+    * ChatGPT at work
+  * Usage by region
+    * Global
+    * United States
+  * Usage by different groups
+    * Usage by self-reported age
+    * Users with typically feminine or masculine names
+
+
+
+  * How people use ChatGPT
+    * Overall usage
+    * ChatGPT at work
+  * Usage by region
+    * Global
+    * United States
+  * Usage by different groups
+    * Usage by self-reported age
+    * Users with typically feminine or masculine names
+
+
 
 On this page, you can find regularly updated, privacy-preserving insights on adoption and real-world use of individual ChatGPT use. This analysis is based on a sample of messages between July 2024 and June 2026. This dataset reflects only messages within ChatGPT Free, Go, Plus, and Pro accounts, which are accounts generally managed by individuals rather than institutions. For more information on how organizations are using AI, please visit Enterprise Signals [here](</signals/enterprise-data/>)⁠.
-
-Find the time series data to download for your own research [here _⁠_](</signals/data-download/>).
 
 ## How people use ChatGPT
 
 The data available here offers an insight into how individual ChatGPT is being used at work and for personal projects. This includes the high-level topics of conversation that occur most frequently, as well as whether users’ messages are focused on requesting a chatbot to do something, asking a chatbot questions or for information, or expressing themselves. This dataset includes only individual ChatGPT messages, excluding enterprise and Codex usage, and therefore likely underrepresents business and technical use cases.
 
-## Overall usage
+#### Overall usage
 
 This section looks at overall usage of ChatGPT across work and non-work settings. The data reveals that certain topics of conversation—such as technical help and writing—arise more frequently in work contexts than non-work contexts.
 
 Data is based on messages sent in June 2026.
 
-## ChatGPT at work
+#### ChatGPT at work
 
 This section explores how individual ChatGPT plans are used for work purposes, in particular what topics people focus on in work messages and the types of tasks they ask ChatGPT to perform. **This dataset includes only individual ChatGPT messages, excluding enterprise and Codex usage, and therefore likely underrepresents business and technical use cases.**
 
@@ -60,11 +84,11 @@ Not displayed on this page is information on share of messages and share of work
 
 ## Usage by region
 
-## Global
+#### Global
 
 The map above shows the ranking of countries by the number of messages sent per person between April and June 2026. Smaller numbers correspond to higher levels of per-capita usage. Countries with insufficient data and those in which OpenAI does not operate are excluded.
 
-## United States
+#### United States
 
 This figure is based on data from the year 2025.
 
@@ -74,13 +98,13 @@ This figure is based on data from the year 2025.
 
 This section offers data on how different groups of users are using ChatGPT. In particular, we look at the share of messages sent by users in each self-reported age group and users with typically masculine or feminine first names, as well as which topics of conversation are more or less frequent depending on the self-reported age group or type of name. This helps us understand how different demographic groups interact with ChatGPT.
 
-## Usage by self-reported age
+#### Usage by self-reported age
 
 This is an analysis of only users who self-reported their age within their ChatGPT platform.
 
 This is an analysis of only users who self-reported their age within their ChatGPT platform. The bars reflect the share of messages in each topic sent by users in each self-reported age group during June 2026.
 
-## Users with typically feminine or masculine names
+#### Users with typically feminine or masculine names
 
 This shows our best estimate of how many people with typically feminine or masculine names are using ChatGPT since we do not collect information on users’ gender.
 

@@ -52,6 +52,10 @@ Switch cards to show Media
 
 Switch cards to hide Media
 
+![Path to Astra — Clean square cover — Neutral Option 062 v1](https://images.ctfassets.net/kftzwdyauwt9/4BabvjDCQdlYN2ISzOkgF9/78d35947274e9b3ac2483377782b007e/astra-cover-v001.png?w=3840&q=90&fm=webp)
+
+[Path to Astra: critical capabilities and frontier safeguardsSafetySep 1, 2026](</index/path-to-astra/>)
+
 [The Hugging Face incident and the road aheadSecurityAug 26, 2026](</index/hugging-face-incident-and-the-road-ahead/>)
 
 ![The Defender’s Window > Cover](https://images.ctfassets.net/kftzwdyauwt9/2We7bguC4FuOofZ8Lu6LUZ/02049fcee47c460695acab59bdb8f648/the-defenders-window-clean-cover.png?w=3840&q=90&fm=webp)
@@ -81,10 +85,6 @@ Switch cards to hide Media
 ![Patch the Planet Art Card 1x1](https://images.ctfassets.net/kftzwdyauwt9/2PwBCyZF0Z5WLRtsbOpDdQ/338e19fbc39e5b9a63b1db664c006e74/Art_Card__5_.png?w=3840&q=90&fm=webp)
 
 [Patch the Planet: a Daybreak initiative to support open source maintainersSecurityJun 22, 2026](</index/patch-the-planet/>)
-
-![Expanding Daybreak Art Card](https://images.ctfassets.net/kftzwdyauwt9/735NOZviyogUBIFxd2EmWX/fa8baf9fc26e64f442ffa86d5fd9a41e/Art_Card__6_.png?w=3840&q=90&fm=webp)
-
-[Daybreak: Tools for securing every organization in the worldSecurityJun 22, 2026](</index/daybreak-securing-the-world/>)
 
 Load more
 

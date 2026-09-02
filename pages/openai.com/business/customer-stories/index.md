@@ -132,6 +132,14 @@ Customer stories
 
 Filter
 
+![Gilbert + Tobin customer story 1:1 art card](https://images.ctfassets.net/kftzwdyauwt9/4cbvqTfw8GlWMbaVJxtCdR/e159c683a888317c926ea6c0bb0b17ad/gilbert-tobin-customer-story-1x1.webp?w=3840&q=90&fm=webp)
+
+[How law firm Gilbert + Tobin governs and scales AI with OpenAISep 1, 2026](</index/gilbert-tobin/>)
+
+![Polimill customer story hero](https://images.ctfassets.net/kftzwdyauwt9/1eja3sAPi6Z5aHjjlDH315/84903917a6f317bca4aae51b0d61249f/oai_Polimill_1x1.png?w=3840&q=90&fm=webp)
+
+[Polimill builds Japan's next-generation public AI infrastructureAug 31, 2026](</index/polimill/>)
+
 ![loveholidays customer story art card v4](https://images.ctfassets.net/kftzwdyauwt9/42xFRYjHeI7h1ELHyL62wf/2a1c83c585109d5735c19967bb2a4e05/loveholidays-hero-art-card-v4.png?w=3840&q=90&fm=webp)
 
 [How loveholidays is making everyone a builder with CodexAug 26, 2026](</index/loveholidays/>)
@@ -171,14 +179,6 @@ Filter
 ![oai HSPGruppe 1x1](https://images.ctfassets.net/kftzwdyauwt9/2BdpQMESZ6vBBL3ms66ixC/369405aa3d8ed5a5e2994e0390e0d8a6/oai_HSPGruppe_1x1.png?w=3840&q=90&fm=webp)
 
 [How HSP GRUPPE builds AI capabilities for tax advisoryAug 7, 2026](</index/hsp-gruppe/>)
-
-![Circles customer story card and hero image](https://images.ctfassets.net/kftzwdyauwt9/5VkfxmlpCs54yu0Y5pywQ1/f787f9398ab67b7f3dcf8a7e9f421088/oai_Circles_1x1.png?w=3840&q=90&fm=webp)
-
-[Circles powers telco personalization with OpenAI technologyAug 3, 2026](</index/circles/>)
-
-![Univé customer story art card image](https://images.ctfassets.net/kftzwdyauwt9/4wUTx4QQxLp3nol3gwzH7f/8da5438602d7b0122180261ffc2d804f/oai_unive_1x1.png?w=3840&q=90&fm=webp)
-
-[Univé builds an AI-ready workforceJul 31, 2026](</index/unive/>)
 
 Load more
 
