@@ -36,6 +36,12 @@ B2B Signals shows how the frontier advantage is beginning to compound for firms 
 
 [Read B2B Signals](</signals/enterprise-data/>)[Contact sales](</contact-sales/>)
 
+## Update
+
+August 12, 2026
+
+B2B Signals is now called [Enterprise Signals](</signals/enterprise-data/>), where you can find the latest data.
+
 Loading…
 
 Share

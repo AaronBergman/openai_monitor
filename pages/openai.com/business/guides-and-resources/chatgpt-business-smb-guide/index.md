@@ -241,6 +241,10 @@ Learn how we help companies build scalable, responsible AI strategies.
 
 [View all](</news/>)
 
+![How agents are transforming work > Cover image](https://images.ctfassets.net/kftzwdyauwt9/7hmtkjKv0DxS4Yt8mQZju2/c168bfa2010da64bcc9dd60d6b5491e8/Art_Card__1_.png?w=3840&q=90&fm=webp)
+
+[How agents are transforming workCompanyJun 25, 2026](</index/how-agents-are-transforming-work/>)
+
 ![How enterprises are scaling AI > art card](https://images.ctfassets.net/kftzwdyauwt9/7bwFx4oZ7LkV7wTeDdAIbA/989f92a7be5c2bd36fafb94bbeef076f/Frame.png?w=3840&q=90&fm=webp)
 
 [ How enterprises are scaling AIGuidesMay 11, 2026](</business/guides-and-resources/how-enterprises-are-scaling-ai/>)
@@ -248,10 +252,6 @@ Learn how we help companies build scalable, responsible AI strategies.
 ![Business guides > Layout > Carousel > ChatGPT usage and adoption patterns at work > media > asset](https://images.ctfassets.net/kftzwdyauwt9/2rUSG4XSMDGLJMBdfgtVH/97f5474b4822fccb60211817a5cceb65/chatgpt-usage-and-adoption-patterns-at-work-IMAGE.png?w=3840&q=90&fm=webp)
 
 [ChatGPT usage and adoption patterns at workGuidesJan 22, 2026](</business/guides-and-resources/chatgpt-usage-and-adoption-patterns-at-work/>)
-
-![State of Enterprise AI 2025 > cover image](https://images.ctfassets.net/kftzwdyauwt9/1zzmHm4xiyh99UAioTRe3o/448a21b0cb11cfbdf90198f231ee7bff/homepage_feature_v2.png?w=3840&q=90&fm=webp)
-
-[The state of enterprise AIGuidesDec 17, 2025](</business/guides-and-resources/the-state-of-enterprise-ai-2025-report/>)
 
 Research
 

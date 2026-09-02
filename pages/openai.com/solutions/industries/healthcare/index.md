@@ -42,26 +42,19 @@ Deploy AI across clinical, research, and administrative workflows with enterpris
 
 [View enterprise privacy](</business-data/>)
 
-![Stethoscope icon in light mode style, representing healthcare or medical services.](https://images.ctfassets.net/kftzwdyauwt9/7IUf49sZqhK5g1zxjLtbjg/696b985b04f8984229e54636b785900f/stethoscope.svg?w=3840&q=90)
+#### Connect healthcare’s trusted systems and sources
 
-#### Standardize AI across your health system
-
-Move from ad-hoc AI use to a platform that supports HIPAA compliant use at scale.
+Bring authorized patient context from EHR workflows, trusted clinical evidence, official public healthcare data, and approved organizational knowledge into ChatGPT.
 
 ![Notepad icon in light mode style, representing notes, documentation, or written records.](https://images.ctfassets.net/kftzwdyauwt9/7IgmDnbuHuJz05XBPn5wxe/91b2a50656ce836237f3fe80186fb231/notepad.svg?w=3840&q=90)
 
-#### Reduce risk and help clinicians make better decisions, faster
+#### Accelerate work across care and operations
 
-Bring trusted, cited medical evidence directly into patient care.
+Prepare for visits, draft documentation, create reports, and improve software, helping teams spend more time focused on patients and the work that supports their care.
 
-![Upward trending arrow icon, symbolizing growth, improvement, or analytics.](https://images.ctfassets.net/kftzwdyauwt9/17eRMuIjUr4hzVnqsoU2Py/75acf7498ca68eb2817e3ce002626026/trending.svg?w=3840&q=90)
+#### Deploy AI with healthcare-ready controls
 
-#### Expand access to care by reducing administrative burden
-
-Spend less time on documentation and more time diagnosing, treating, and supporting patients.
-
-  
-
+Scale ChatGPT and Codex with enterprise security, administrative controls, existing permissions, and support for HIPAA-eligible workflows under an applicable BAA.
 
 ### Products built to bring AI safely into healthcare
 
