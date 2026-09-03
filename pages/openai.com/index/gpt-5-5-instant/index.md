@@ -195,103 +195,6 @@ With this update, the model’s responses are **tighter and more to-the-point wi
 
 Communication adviceWriting feedback
 
-## GPT-5.3 Instant
-
-how do i tell my coworker to quit yapping all the time
-
-You _can_ tell them—but “quit yapping” is how you start a workplace cold war 😄. The goal is to **protect your time without making it personal**.
-
-Here are a few ways to do it depending on your style:
-
-#### **1\. The polite redirect (most reliable)**
-
-> Hey, I’d love to catch up, but I’m trying to stay focused on this—can we circle back later?
-
-This works because it makes it about _your workload_ , not their behavior.
-
-* * *
-
-#### **2\. The gentle boundary (if it keeps happening)**
-
-> I’ve been trying to keep interruptions down so I can hit my deadlines—can we keep chats a bit shorter during the day?
-
-This signals a pattern without accusing them.
-
-* * *
-
-#### **3\. The in-the-moment cut-off**
-
-When they’re mid-ramble:
-
-> Sorry to jump in—I need to get back to this. Let’s pick it up another time.
-
-Short, neutral, and you just exit.
-
-* * *
-
-#### **4\. The preemptive defense**
-
-If they tend to swing by a lot:
-
-> I’m heads-down this afternoon, so I might be slow to chat.
-
-This reduces interruptions _before_ they start.
-
-* * *
-
-#### **5\. If you want a slightly firmer tone**
-
-> I’ve been getting pulled into a lot of side conversations—can we keep things work-focused during the day?
-
-Still professional, but clearer.
-
-* * *
-
-#### **What not to do**
-
-  * Don’t say “you talk too much” (true or not, it lands badly)
-  * Don’t over-explain or apologize a ton
-  * Don’t rely on hints—they usually don’t work on chatty people
-
-
-
-* * *
-
-If you want, tell me what your coworker is like (chatty-friendly vs. oblivious vs. senior vs. peer), and I can tailor a line that fits your exact dynamic.
-
-## GPT-5.5 Instant
-
-how do i tell my coworker to quit yapping all the time
-
-You probably _don’t_ want to say “quit yapping” unless you actively want workplace enemies. The trick is to redirect without making them feel rejected.
-
-A few versions depending on how direct you want to be:
-
-  * Gentle:  
-“Hey, I need to focus for a bit — can we catch up later?”
-  * Repeated offender:  
-“I’m trying to stay heads-down today, so I may be a little less chatty.”
-  * If they monologue in meetings:  
-“Can we keep this tight? I want to make sure we get through everything.”
-  * If they corner you constantly:  
-“I love talking with you, but I’m getting behind on work.”
-  * Slightly firmer:  
-“I’m gonna stop you there because I need to get back to this.”
-
-
-
-The key is:
-
-  * make it about _your focus/time_ , not their personality
-  * interrupt earlier instead of suffering silently for 20 minutes
-  * be consistent — people learn your boundaries fast
-
-
-
-And honestly, a lot of chronic yappers are operating on momentum, not malice. One clean redirect usually works better than a dramatic confrontation.
-
-GPT‑5.5 Instant uses 30.2% fewer words and 29.2% fewer lines. Its response is stronger because it gets the tone right: informal, practical, and workplace-safe without overexplaining. It gives usable scripts for different situations and frames the issue around boundaries rather than the coworker’s personality. GPT‑5.3 is more complete, especially with its “what not to do” section, but it feels slightly overbuilt for a casual advice prompt, with more structure and polish than the user likely needs.
-
 ## More personalized responses and controls
 
 Instant is now more effective at using context from past chats, files, and Gmail, if you have it connected, so answers feel more personally relevant while keeping you in control. It intelligently decides when a response can be improved with additional personalization and is faster at searching past conversations to find the right context, so you don’t have to repeat yourself as often. This is especially helpful for getting tailored suggestions and plans, or picking up where you left off for ongoing work.
@@ -509,3 +412,100 @@ Terms & Policies
 OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
+
+## GPT-5.3 Instant
+
+how do i tell my coworker to quit yapping all the time
+
+You _can_ tell them—but “quit yapping” is how you start a workplace cold war 😄. The goal is to **protect your time without making it personal**.
+
+Here are a few ways to do it depending on your style:
+
+#### **1\. The polite redirect (most reliable)**
+
+> Hey, I’d love to catch up, but I’m trying to stay focused on this—can we circle back later?
+
+This works because it makes it about _your workload_ , not their behavior.
+
+* * *
+
+#### **2\. The gentle boundary (if it keeps happening)**
+
+> I’ve been trying to keep interruptions down so I can hit my deadlines—can we keep chats a bit shorter during the day?
+
+This signals a pattern without accusing them.
+
+* * *
+
+#### **3\. The in-the-moment cut-off**
+
+When they’re mid-ramble:
+
+> Sorry to jump in—I need to get back to this. Let’s pick it up another time.
+
+Short, neutral, and you just exit.
+
+* * *
+
+#### **4\. The preemptive defense**
+
+If they tend to swing by a lot:
+
+> I’m heads-down this afternoon, so I might be slow to chat.
+
+This reduces interruptions _before_ they start.
+
+* * *
+
+#### **5\. If you want a slightly firmer tone**
+
+> I’ve been getting pulled into a lot of side conversations—can we keep things work-focused during the day?
+
+Still professional, but clearer.
+
+* * *
+
+#### **What not to do**
+
+  * Don’t say “you talk too much” (true or not, it lands badly)
+  * Don’t over-explain or apologize a ton
+  * Don’t rely on hints—they usually don’t work on chatty people
+
+
+
+* * *
+
+If you want, tell me what your coworker is like (chatty-friendly vs. oblivious vs. senior vs. peer), and I can tailor a line that fits your exact dynamic.
+
+## GPT-5.5 Instant
+
+how do i tell my coworker to quit yapping all the time
+
+You probably _don’t_ want to say “quit yapping” unless you actively want workplace enemies. The trick is to redirect without making them feel rejected.
+
+A few versions depending on how direct you want to be:
+
+  * Gentle:  
+“Hey, I need to focus for a bit — can we catch up later?”
+  * Repeated offender:  
+“I’m trying to stay heads-down today, so I may be a little less chatty.”
+  * If they monologue in meetings:  
+“Can we keep this tight? I want to make sure we get through everything.”
+  * If they corner you constantly:  
+“I love talking with you, but I’m getting behind on work.”
+  * Slightly firmer:  
+“I’m gonna stop you there because I need to get back to this.”
+
+
+
+The key is:
+
+  * make it about _your focus/time_ , not their personality
+  * interrupt earlier instead of suffering silently for 20 minutes
+  * be consistent — people learn your boundaries fast
+
+
+
+And honestly, a lot of chronic yappers are operating on momentum, not malice. One clean redirect usually works better than a dramatic confrontation.
+
+GPT‑5.5 Instant uses 30.2% fewer words and 29.2% fewer lines. Its response is stronger because it gets the tone right: informal, practical, and workplace-safe without overexplaining. It gives usable scripts for different situations and frames the issue around boundaries rather than the coworker’s personality. GPT‑5.3 is more complete, especially with its “what not to do” section, but it feels slightly overbuilt for a casual advice prompt, with more structure and polish than the user likely needs.

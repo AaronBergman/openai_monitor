@@ -74,8 +74,6 @@ We trained GPT‑5.6 to get more useful work from every token. On [**_Agents’ 
 
 Agents' Last ExamArtificial Analysis Intelligence Index v4.1
 
-[** _Agents’ Last Exam_** ⁠(opens in a new window)](<https://agents-last-exam.org/>)_: Long-horizon agentic workflows across professional domains._
-
 GPT‑5.6 launches with our most robust safeguards to date, designed to be resilient against determined and adaptive misuse without broadly limiting legitimate work. Before general availability, we put the models and safeguards through our most extensive evaluation period yet, combining human red teaming with large-scale automated testing. During the preview, we worked closely with expert organizations and with trusted partners to pressure-test defenses and strengthen safeguards before broader launch. The resulting system layers protections trained into the model with real-time checks, monitoring, and access calibrated to trust and risk.
 
 ## Efficient by default, maximum performance on demand
@@ -83,8 +81,6 @@ GPT‑5.6 launches with our most robust safeguards to date, designed to be resil
 GPT‑5.6 Sol is our best coding model yet. On the **Artificial Analysis Coding Agent Index,** GPT‑5.6 Sol with max reasoning sets a new state of the art at 80, 2.8 points above Fable 5, while using less than half the output tokens, taking less than half the time, and costing about one-third less. That advantage extends across the family: Terra performs just above Fable 5, while Luna outperforms Opus 4.8; each does so in roughly one-third of the time, with about half as many output tokens, and at approximately one-quarter the estimated cost. It also sets new state-of-the-art results on Terminal‑Bench 2.1 and DeepSWE, which test complex command-line workflows and long-horizon engineering in real codebases.
 
 Artificial Analysis Coding IndexTerminal-Bench 2.1DeepSWE v1.1
-
-** _Artificial Analysis Coding Agent Index:_**_an independent index of coding-agent performance across implementation, terminal use, and real codebases._
 
 GPT‑5.6 can write and run lightweight programs that coordinate tools, process intermediate results, monitor progress, and choose the next action as work unfolds. This lets tool-heavy tasks advance with fewer tokens, fewer model round trips, and less guidance. Instead of requiring developers to script every step or passing every tool response back through the model, [_Programmatic Tool Calling_ ⁠(opens in a new window)](<https://developers.openai.com/api/docs/guides/tools-programmatic-tool-calling>) in the Responses API can filter large amounts of intermediate data, retain only what matters, and adapt its workflow along the way. 
 
@@ -169,8 +165,6 @@ Interactive spirographInteractive wave interferenceInteractive GPT tokenizer exp
 GPT‑5.6’s strength on knowledge work shows up in evaluations spanning long-horizon professional analysis, browsing, tool use, and computer use. GPT‑5.6 Sol sets new state-of-the-art results on **BrowseComp** at 92.2% and **OSWorld 2.0** at 62.6%; on OSWorld, it surpasses Opus 4.8 while using 85% fewer output tokens. Here, the performance-per-dollar gains extend across the GPT‑5.6 family. Luna nearly matches GPT‑5.5’s peak performance at less than half the estimated cost, while Terra surpasses it at a lower cost.
 
 BrowseCompGDPval-AA v2OSWorld 2.0AutomationBench
-
-** _BrowseComp_** _: GPT‑5.6 Sol achieves a new state of the art on BrowseComp, consisting of agentic browsing tasks._
 
 **GPT‑5.6 Sol improves quality in presentations, documents, and spreadsheets,** producing outputs that are more polished and accurate. It can create fully editable presentations from scratch, translating a prompt and source material into a coherent visual narrative with strong layouts, hierarchy, and design.
 
@@ -258,15 +252,11 @@ Individuals can [_verify their identity and request trusted access_ ⁠(opens in
 
 ExploitBenchExploitGymSEC-Bench ProCapture-the-Flag
 
-** _ExploitBench:_**_Building progressively more capable V8 exploits; GPT‑5.6 shows a large gain over GPT‑5.5. Latency chart is not shown as latency estimation is unreliable for this benchmark._
-
 GPT‑5.6 Sol also shows broad gains across **scientific research**. On life sciences evaluations, GPT‑5.6 demonstrates Pareto improvements over GPT‑5.5 on real-world biology, life science research workflows, and chemistry.
 
 GeneBench ProLifeSciBenchMedChemBench
 
- __[**_GeneBench Pro_** ⁠](<https://openai.com/index/introducing-genebench-pro/>)** _:_**_Long-horizon genomics and quantitative-biology analyses; GPT‑5.6 reaches stronger results with fewer tokens and less time. Claude Fable 5 is not included as it_[ _does not answer_ ⁠(opens in a new window)](<https://www.anthropic.com/news/claude-fable-5-mythos-5>)_advanced biology questions and refuses the majority of questions in this eval._
-
-##  GPT‑5.6 accelerates OpenAI
+## GPT‑5.6 accelerates OpenAI
 
 GPT‑5.6 is our strongest model yet for accelerating AI research. Inside OpenAI, researchers use it across the development loop: diagnosing failures, optimizing training systems, running experiments, and interpreting results. We already saw that acceleration and stronger adoption during the internal testing period of GPT‑5.6, as average daily output tokens per active researcher were more than twice the highest level observed for GPT‑5.5.
 
@@ -276,9 +266,7 @@ To measure this capability directly, we developed an internal suite of evaluatio
 
 RSI IndexInternal Research Debugging EvalKernelGen 1PNanoGPT
 
- _**Aggregate RSI capability:**__On a bundle of evaluations measuring progress towards recursive self-improvement, we observe GPT‑5.6 Sol to be a 16.2 point improvement over GPT‑5.5, accelerating internal research across the board._
-
-##  Scaling safety and security with capability 
+## Scaling safety and security with capability 
 
 As model capabilities increase, we strengthen our safety stack so advanced intelligence can remain broadly useful while applying greater scrutiny to the highest-risk uses. For GPT‑5.6, we built our most robust safety system to date, calibrated to each model’s capabilities and powered by more compute than ever before.
 
@@ -573,3 +561,15 @@ Terms & Policies
 OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
+
+[**_Agents’ Last Exam_** ⁠(opens in a new window)](<https://agents-last-exam.org/>)_: Long-horizon agentic workflows across professional domains._
+
+**_Artificial Analysis Coding Agent Index:_**_an independent index of coding-agent performance across implementation, terminal use, and real codebases._
+
+**_BrowseComp_** _: GPT‑5.6 Sol achieves a new state of the art on BrowseComp, consisting of agentic browsing tasks._
+
+**_ExploitBench:_**_Building progressively more capable V8 exploits; GPT‑5.6 shows a large gain over GPT‑5.5. Latency chart is not shown as latency estimation is unreliable for this benchmark._
+
+__[**_GeneBench Pro_** ⁠](<https://openai.com/index/introducing-genebench-pro/>)** _:_**_Long-horizon genomics and quantitative-biology analyses; GPT‑5.6 reaches stronger results with fewer tokens and less time. Claude Fable 5 is not included as it_[ _does not answer_ ⁠(opens in a new window)](<https://www.anthropic.com/news/claude-fable-5-mythos-5>)_advanced biology questions and refuses the majority of questions in this eval._
+
+_**Aggregate RSI capability:**__On a bundle of evaluations measuring progress towards recursive self-improvement, we observe GPT‑5.6 Sol to be a 16.2 point improvement over GPT‑5.5, accelerating internal research across the board._

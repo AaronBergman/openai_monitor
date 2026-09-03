@@ -130,15 +130,9 @@ The magic of GPT‑Realtime‑2 shows up across a variety of different use cases
 
 Strategic reasoningTone and expressivenessSpatial reasoningAlphanumericsLogic puzzle
 
-Loading realtime example…
-
 During early testing, businesses used GPT‑Realtime‑2 to build voice agents that help customers and employees get things done through natural conversation:
 
 ZillowGleanGensparkBluejayIntercomPricelineFoundation Health
-
-> “What stood out about GPT-Realtime-2 was the intelligence and tool-calling reliability it brings to complex voice interactions. On our hardest adversarial benchmark, this translates to a 26-point lift in call success rate after prompt optimization (95% vs. 69%). GPT-Realtime-2 is also materially more robust on Fair Housing compliance, which is critical for our business. The combination of agentic competence and guardrail strength is what makes it viable for production voice at Zillow.”
-
-— Josh Weisberg, SVP and Head of AI at Zillow
 
 ## Realtime translation: build live multilingual voice experiences
 
@@ -149,10 +143,6 @@ For developers, live translation needs to preserve meaning while keeping pace wi
 In this video, Vimeo shows how GPT‑Realtime‑Translate can translate a product education video live as it plays, so global customers can hear updates in their preferred language without waiting for a separately produced version.
 
 BolnaAIVimeoDeutsche Telekom
-
-> “Building voice AI for India means handling diverse regional phonetics. In our evals across Hindi, Tamil, and Telugu, GPT-Realtime-Translate delivered 12.5% lower Word Error Rates than any other model we tested, along with lower fallback rates, higher task completion, and latency that sustained natural conversation. It sets a new standard for multilingual voice AI.”
-
-— Prateek Sachan, Co-founder & CTO at BolnaAI
 
 ## Realtime transcription: build low-latency transcription experiences
 
@@ -307,3 +297,13 @@ Terms & Policies
 OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
+
+Loading realtime example…
+
+> “What stood out about GPT-Realtime-2 was the intelligence and tool-calling reliability it brings to complex voice interactions. On our hardest adversarial benchmark, this translates to a 26-point lift in call success rate after prompt optimization (95% vs. 69%). GPT-Realtime-2 is also materially more robust on Fair Housing compliance, which is critical for our business. The combination of agentic competence and guardrail strength is what makes it viable for production voice at Zillow.”
+
+— Josh Weisberg, SVP and Head of AI at Zillow
+
+> “Building voice AI for India means handling diverse regional phonetics. In our evals across Hindi, Tamil, and Telugu, GPT-Realtime-Translate delivered 12.5% lower Word Error Rates than any other model we tested, along with lower fallback rates, higher task completion, and latency that sustained natural conversation. It sets a new standard for multilingual voice AI.”
+
+— Prateek Sachan, Co-founder & CTO at BolnaAI

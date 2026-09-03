@@ -76,10 +76,6 @@ Here’s what our customers think after testing GPT‑5.4 mini and nano in their
 
 HebbiaCodeRabbitMercorGitHubRoxNotionWhoopPerplexity
 
-> "GPT-5.4 mini delivers strong end-to-end performance for a model in this class. In our evaluations it matched or exceeded competitive models on several output tasks and citation recall at a much lower cost. It also achieved higher end-to-end pass rates and stronger source attribution than the larger GPT-5.4 model."
-
-— Aabhas Sharma, CTO at Hebbia
-
 ## Coding
 
 GPT‑5.4 mini and nano are especially effective in coding workflows that benefit from fast iteration. The models handle targeted edits, codebase navigation, front-end generation, and debugging loops with low latency, making them a strong fit for coding tasks that need to be completed at faster speeds and lower costs.
@@ -287,3 +283,7 @@ Terms & Policies
 OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
+
+> "GPT-5.4 mini delivers strong end-to-end performance for a model in this class. In our evaluations it matched or exceeded competitive models on several output tasks and citation recall at a much lower cost. It also achieved higher end-to-end pass rates and stronger source attribution than the larger GPT-5.4 model."
+
+— Aabhas Sharma, CTO at Hebbia

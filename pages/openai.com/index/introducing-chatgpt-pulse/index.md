@@ -94,14 +94,6 @@ We partnered with college students in the ChatGPT Lab to gather early feedback a
 
 Recommendations Follow-upsContextCombining interests
 
-Isaac Seiler
-
-### Actionable recommendations
-
-"Received this based on a conversation that I had yesterday that focused on calendar management/structuring PTO for my grant period in Taiwan. What it produced was several logical steps ahead of where I was at in the conversation. The update was incredibly helpful and exposed me to train and commute information I would have never come across or looked for otherwise."
-
-![Stylized illustration of a yellow and orange train at a station platform, surrounded by green and teal architecture. Below, the card text reads: ‘Book Smarter: Align Breaks With Train Releases. You’ve been optimizing school holidays into long weekends—here’s a smart add-on: time your plans to the exact train “ticket drops.”](https://images.ctfassets.net/kftzwdyauwt9/3fdg8iR34E3vBKRA4GA2E6/739cc46baf09beafca936dcd80a72bd4/FYP_recommendations__2_.png?w=3840&q=90&fm=webp)
-
 ## Limitations
 
 Pulse is a preview and won’t always get things right. It aims to show you what’s most relevant and useful but you may still see suggestions that miss the mark. For example, you may get tips for a project you already completed. You can guide what shows up by telling ChatGPT directly. It remembers your feedback for next time and improves as it learns from real use.
@@ -228,3 +220,11 @@ Terms & Policies
 OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
+
+Isaac Seiler
+
+### Actionable recommendations
+
+"Received this based on a conversation that I had yesterday that focused on calendar management/structuring PTO for my grant period in Taiwan. What it produced was several logical steps ahead of where I was at in the conversation. The update was incredibly helpful and exposed me to train and commute information I would have never come across or looked for otherwise."
+
+![Stylized illustration of a yellow and orange train at a station platform, surrounded by green and teal architecture. Below, the card text reads: ‘Book Smarter: Align Breaks With Train Releases. You’ve been optimizing school holidays into long weekends—here’s a smart add-on: time your plans to the exact train “ticket drops.”](https://images.ctfassets.net/kftzwdyauwt9/3fdg8iR34E3vBKRA4GA2E6/739cc46baf09beafca936dcd80a72bd4/FYP_recommendations__2_.png?w=3840&q=90&fm=webp)

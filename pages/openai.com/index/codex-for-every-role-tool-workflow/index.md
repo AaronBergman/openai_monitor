@@ -78,8 +78,6 @@ Plugins help Codex work with the tools, context, and workflows your team already
 
 Data analyticsCreative productionProduct designSalesPublic equity investing
 
-**Business performance analysis** with the data analytics plugin
-
 Plugins work out of the box. Teams can also adapt them to their workflows or build and share custom plugins for their own systems and processes.
 
 More role-specific plugins are coming soon, including Corporate Finance, Private Equity Investing, Marketing Strategy, Strategy Consulting, and Legal. And this is just the start: we’re building toward an open ecosystem where partners can create and deploy their own plugins directly in Codex and ChatGPT.
@@ -584,8 +582,6 @@ Instead of adapting work to the limits of a single tool or file, teams can creat
 
 Revenue forecast plannerEvent operations dashboardProduct launch hub
 
-![""](https://images.ctfassets.net/kftzwdyauwt9/5G0zHEnIZRLg0EWpZV602t/47c3851dd1f1cfbdf42d5f630fd36241/blossom-bank-forecasting-light-4k.png?w=3840&q=90&fm=webp)
-
 We’re also working with early partners including Vercel, Wix, Base44, Replit, Lovable, Figma, Webflow, and Emergent as we build towards a sites partner ecosystem.
 
 ## Refine your work with annotations
@@ -731,3 +727,7 @@ Terms & Policies
 OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
+
+**Business performance analysis** with the data analytics plugin
+
+![""](https://images.ctfassets.net/kftzwdyauwt9/5G0zHEnIZRLg0EWpZV602t/47c3851dd1f1cfbdf42d5f630fd36241/blossom-bank-forecasting-light-4k.png?w=3840&q=90&fm=webp)

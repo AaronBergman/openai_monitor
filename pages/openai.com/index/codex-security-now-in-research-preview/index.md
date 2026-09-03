@@ -76,10 +76,6 @@ It’s designed to operate at scale and surface the highest-confidence findings 
 
 NETGEARvLLMRaptive
 
-> "As a company laser-focused on product security, NETGEAR was pleased to join the early access program, and the results exceeded expectations. Codex Security integrated effortlessly into our robust security development environment, strengthening the pace and depth of our review processes. Its findings were impressively clear and comprehensive, often giving the sense that an experienced product security researcher was working alongside us."
-
-— Chandan Nandakumaraiah, Head of Product Security at NETGEAR and Member of CVE Board
-
 ## Supporting the open source community
 
 Open source software forms the foundation of modern systems, including our own. We’ve been using Codex Security to scan the open-source repositories we rely on most, sharing high impact security findings we identify with maintainers to help strengthen that foundation.
@@ -247,3 +243,7 @@ Terms & Policies
 OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
+
+> "As a company laser-focused on product security, NETGEAR was pleased to join the early access program, and the results exceeded expectations. Codex Security integrated effortlessly into our robust security development environment, strengthening the pace and depth of our review processes. Its findings were impressively clear and comprehensive, often giving the sense that an experienced product security researcher was working alongside us."
+
+— Chandan Nandakumaraiah, Head of Product Security at NETGEAR and Member of CVE Board

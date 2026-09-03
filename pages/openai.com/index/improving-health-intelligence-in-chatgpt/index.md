@@ -82,57 +82,7 @@ Comparing responses from models on real-world health questions over time shows h
 
 Understanding doctor's recommendationPreparing for appointment
 
-Why might a doctor recommend an MRI before a steroid injection for sciatica?
-
-## GPT-5.5
-
-**A doctor may recommend an MRI before a steroid injection for sciatica because the injection is more likely to be useful—and safer—when they know exactly what is compressing or irritating the nerve and where.  
-  
-** Common reasons include:
-
-  * Confirming the cause of sciatica. Sciatica-like pain can come from a herniated disc, spinal stenosis, foraminal narrowing, spondylolisthesis, tumor, infection, fracture, or sometimes non-spine causes. MRI is the preferred imaging test for seeing discs, nerves, and soft tissue nerve compression. (emedicine.medscape.com)
-  * Choosing the correct injection level and side. If symptoms suggest the L5 nerve root, for example, the MRI can show whether the problem is actually at L4–L5, L5–S1, or another level. This helps decide where to place the epidural or selective nerve-root injection.
-  * Selecting the safest/most appropriate injection approach. Epidural steroid injections can be done by different routes—interlaminar, transforaminal, or caudal. Pre-procedure imaging helps the clinician plan the route and avoid anatomic issues that could increase risk. Many interventionalists consider advanced imaging a prerequisite because it helps optimize medication delivery and reduce risk to neural or vascular structures. (pmc.ncbi.nlm.nih.gov)
-  * Checking for “red flags” or conditions where an injection may not be appropriate. MRI can help identify problems such as infection, cancer, severe stenosis, large disc extrusion, or other findings that might require urgent evaluation or a different treatment.
-  * Determining whether surgery or another treatment should be considered instead. If there is severe nerve compression, progressive weakness, or certain structural problems, an injection may not be the best next step.
-  * Avoiding a low-yield injection. If the MRI does not show nerve-root compression or inflammation that matches your symptoms, the doctor may reconsider whether a steroid injection is likely to help.
-
-
-
-That said, MRI is not always required for every case of sciatica. In people without red flags, many cases improve with time, physical therapy, and medication. Some studies have questioned whether routine MRI before lumbar epidural steroid injection always improves outcomes, but guidelines and many clinicians still favor imaging when symptoms persist and an injection or surgery is being considered. (pmc.ncbi.nlm.nih.gov)  
-  
-You should ask your doctor: “What are you looking for on the MRI, and how would the result change the injection plan?” That usually clarifies whether the MRI is for diagnosis, safety, targeting, or deciding whether an injection is appropriate at all.
-
-**Cited**
-
-  1. Lumbosacral Radiculopathy Workup: Imaging Studies, Other Tests, [https://emedicine.medscape.com/article/95025-workup⁠(opens in a new window)](<https://emedicine.medscape.com/article/95025-workup>)
-  2. Diagnostic and therapeutic spinal interventions: Epidural injections - PMC, [https://pmc.ncbi.nlm.nih.gov/articles/PMC5764532/⁠(opens in a new window)](<https://pmc.ncbi.nlm.nih.gov/articles/PMC5764532/>)
-  3. Should routine MRI of the lumbar spine be required prior to lumbar epidural steroid injection for sciatica pain? - PMC, [_https://pmc.ncbi.nlm.nih.gov/articles/PMC4392534/_ ⁠(opens in a new window)](<https://pmc.ncbi.nlm.nih.gov/articles/PMC4392534/?utm_source=openai>)__
-
-
-
-## GPT-1
-
-"   
-" i don’t know. "   
-" well, you’re going to have to find out. "   
-" i’m not sure i can. "   
-" you 'll figure it out. "   
-" i hope so. "   
-" i’m going to go back to the office and see if i can get some more information on this. "   
-" okay. "   
-" i 'll be back in a few hours. "   
-" okay. "   
-" bye. "   
-" bye. "   
-i hung up the phone and looked at the clock. it was almost eleven o'clock. i had been sitting there for over an hour. i got up and went into the bathroom and washed my face. i didn’t want to look like a slob. i put on some clean clothes and went back into the living room. i sat down on the couch and looked at the tv. i watched the news and then i heard a knock on the door. i jumped up and ran to the door.   
-" hello? " i called out.   
-" hi, i’m dr. peters. "   
-" oh, hi. " i smiled. " i’m sorry i
-
- _Click model name to see additional model responses._
-
-##  The medical expertise behind the progress
+## The medical expertise behind the progress
 
 This progress is shaped by physicians who help us define, measure, and improve health responses in ChatGPT. 
 
@@ -276,3 +226,53 @@ Terms & Policies
 OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
+
+Why might a doctor recommend an MRI before a steroid injection for sciatica?
+
+## GPT-5.5
+
+**A doctor may recommend an MRI before a steroid injection for sciatica because the injection is more likely to be useful—and safer—when they know exactly what is compressing or irritating the nerve and where.  
+  
+** Common reasons include:
+
+  * Confirming the cause of sciatica. Sciatica-like pain can come from a herniated disc, spinal stenosis, foraminal narrowing, spondylolisthesis, tumor, infection, fracture, or sometimes non-spine causes. MRI is the preferred imaging test for seeing discs, nerves, and soft tissue nerve compression. (emedicine.medscape.com)
+  * Choosing the correct injection level and side. If symptoms suggest the L5 nerve root, for example, the MRI can show whether the problem is actually at L4–L5, L5–S1, or another level. This helps decide where to place the epidural or selective nerve-root injection.
+  * Selecting the safest/most appropriate injection approach. Epidural steroid injections can be done by different routes—interlaminar, transforaminal, or caudal. Pre-procedure imaging helps the clinician plan the route and avoid anatomic issues that could increase risk. Many interventionalists consider advanced imaging a prerequisite because it helps optimize medication delivery and reduce risk to neural or vascular structures. (pmc.ncbi.nlm.nih.gov)
+  * Checking for “red flags” or conditions where an injection may not be appropriate. MRI can help identify problems such as infection, cancer, severe stenosis, large disc extrusion, or other findings that might require urgent evaluation or a different treatment.
+  * Determining whether surgery or another treatment should be considered instead. If there is severe nerve compression, progressive weakness, or certain structural problems, an injection may not be the best next step.
+  * Avoiding a low-yield injection. If the MRI does not show nerve-root compression or inflammation that matches your symptoms, the doctor may reconsider whether a steroid injection is likely to help.
+
+
+
+That said, MRI is not always required for every case of sciatica. In people without red flags, many cases improve with time, physical therapy, and medication. Some studies have questioned whether routine MRI before lumbar epidural steroid injection always improves outcomes, but guidelines and many clinicians still favor imaging when symptoms persist and an injection or surgery is being considered. (pmc.ncbi.nlm.nih.gov)  
+  
+You should ask your doctor: “What are you looking for on the MRI, and how would the result change the injection plan?” That usually clarifies whether the MRI is for diagnosis, safety, targeting, or deciding whether an injection is appropriate at all.
+
+**Cited**
+
+  1. Lumbosacral Radiculopathy Workup: Imaging Studies, Other Tests, [https://emedicine.medscape.com/article/95025-workup⁠(opens in a new window)](<https://emedicine.medscape.com/article/95025-workup>)
+  2. Diagnostic and therapeutic spinal interventions: Epidural injections - PMC, [https://pmc.ncbi.nlm.nih.gov/articles/PMC5764532/⁠(opens in a new window)](<https://pmc.ncbi.nlm.nih.gov/articles/PMC5764532/>)
+  3. Should routine MRI of the lumbar spine be required prior to lumbar epidural steroid injection for sciatica pain? - PMC, [_https://pmc.ncbi.nlm.nih.gov/articles/PMC4392534/_ ⁠(opens in a new window)](<https://pmc.ncbi.nlm.nih.gov/articles/PMC4392534/?utm_source=openai>)__
+
+
+
+## GPT-1
+
+"   
+" i don’t know. "   
+" well, you’re going to have to find out. "   
+" i’m not sure i can. "   
+" you 'll figure it out. "   
+" i hope so. "   
+" i’m going to go back to the office and see if i can get some more information on this. "   
+" okay. "   
+" i 'll be back in a few hours. "   
+" okay. "   
+" bye. "   
+" bye. "   
+i hung up the phone and looked at the clock. it was almost eleven o'clock. i had been sitting there for over an hour. i got up and went into the bathroom and washed my face. i didn’t want to look like a slob. i put on some clean clothes and went back into the living room. i sat down on the couch and looked at the tv. i watched the news and then i heard a knock on the door. i jumped up and ran to the door.   
+" hello? " i called out.   
+" hi, i’m dr. peters. "   
+" oh, hi. " i smiled. " i’m sorry i
+
+ _Click model name to see additional model responses._

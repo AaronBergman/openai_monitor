@@ -11,7 +11,7 @@ Skip to main content
 
 
 
-Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
+Log in[Start building(opens in a new window)](<https://platform.openai.com/?utm_internal_source=openai_api>)
 
   * Research
   * Products
@@ -22,15 +22,13 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 
 
-[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)Login
+[Start building(opens in a new window)](<https://platform.openai.com/?utm_internal_source=openai_api>)Login
 
 OpenAI
 
 # Build leading AI products on OpenAI’s platform
 
-[Contact sales](</contact-sales/>)
-
-Start building
+[Contact sales](</contact-sales/>)[Start building(opens in a new window)](<https://platform.openai.com/?utm_internal_source=openai_api>)
 
 ## Powered by our frontier models
 
@@ -115,10 +113,6 @@ Connect agents securely to business systems so they can take action across workf
 ## Bring AI experiences to life
 
 VoiceImage
-
-Build natural-sounding voice agents with [Realtime API⁠(opens in a new window)](<https://platform.openai.com/docs/guides/realtime>) for rich customer experiences and support.
-
-Zillow makes home and financing searches easier with voice using the Realtime API.
 
 ## Use cases driven by our platform
 
@@ -356,3 +350,7 @@ Terms & Policies
 OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
+
+Build natural-sounding voice agents with [Realtime API⁠(opens in a new window)](<https://platform.openai.com/docs/guides/realtime>) for rich customer experiences and support.
+
+Zillow makes home and financing searches easier with voice using the Realtime API.

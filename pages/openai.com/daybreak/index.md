@@ -136,6 +136,10 @@ _OpenAI’s commitment includes API credits and direct support for work with Tra
 
 Follow new evaluations, technical learnings, patches, and ecosystem work as they publish.
 
+![Abstract orange wallpaper with soft peach highlights.](https://images.ctfassets.net/kftzwdyauwt9/14QK7oeFx4wzFrk18r78pw/4a96ed4f5ed02090968d437320ff506e/agent-security-option-112-cover-1080.png?w=3840&q=90&fm=webp)
+
+[Agent security in the enterpriseSep 2, 2026](</business/learn/agent-security-enterprise/>)
+
 ![The Defender’s Window > Cover](https://images.ctfassets.net/kftzwdyauwt9/2We7bguC4FuOofZ8Lu6LUZ/02049fcee47c460695acab59bdb8f648/the-defenders-window-clean-cover.png?w=3840&q=90&fm=webp)
 
 [The Defender’s WindowSecurityAug 17, 2026](</index/the-defenders-window/>)
@@ -143,10 +147,6 @@ Follow new evaluations, technical learnings, patches, and ecosystem work as they
 ![GPT-Daybreak > Cover](https://images.ctfassets.net/kftzwdyauwt9/2iqsbTTLvgMNteNampw3gW/a38ed04432ee5548c4aec6c7b7a506f2/1x1_Art_Card.png?w=3840&q=90&fm=webp)
 
 [Expanding Daybreak as the Cyber Defense Window NarrowsSecurityAug 10, 2026](</index/expanding-daybreak-as-the-cyber-defense-window-narrows/>)
-
-![Cybersecurity in the Intelligence Age > Cover](https://images.ctfassets.net/kftzwdyauwt9/35g40K8HHuADEDF7IwCMCT/2237007c711eb46c1d3f3b2c7307fc01/Frame__11_.png?w=3840&q=90&fm=webp)
-
-[Cybersecurity in the Intelligence AgeGlobal AffairsApr 29, 2026](</index/cybersecurity-in-the-intelligence-age/>)
 
 ## Put frontier AI to work for defense
 

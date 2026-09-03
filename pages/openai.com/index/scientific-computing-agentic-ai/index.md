@@ -70,14 +70,6 @@ Contributors consistently describe a shift in the researchers’ role from imple
 
 cyvcf2HI.SIMhifiasmMHCflurrybayesm-rsRustar-aligner, svb, and kuvaRustQC, FastQC-Rust, and Trim GaloreHelixForge
 
-#### **Modernized a widely used library for parsing genomic data**
-
-cyvcf2 is a Python library for reading and writing genomic variant files. GPT‑5.5 replaced the library’s legacy build and packaging system with a modern, unified process designed to make the library easier to install, test, and release.
-
-> _With coding agents, it’s quite easy to go fast; for now, to go far in science, there’s still a need for expert guidance, understanding, taste, and care._
-
-—Brent Pedersen
-
 ## Recurring themes
 
 Though the projects varied widely in scope, they demonstrated that coding agents are making engineering labor and expertise less of a constraint in scientific computing. Now, the bottleneck is validating an AI agent’s output, which still depends on human judgement.
@@ -229,3 +221,11 @@ Terms & Policies
 OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
+
+#### **Modernized a widely used library for parsing genomic data**
+
+cyvcf2 is a Python library for reading and writing genomic variant files. GPT‑5.5 replaced the library’s legacy build and packaging system with a modern, unified process designed to make the library easier to install, test, and release.
+
+> _With coding agents, it’s quite easy to go fast; for now, to go far in science, there’s still a need for expert guidance, understanding, taste, and care._
+
+—Brent Pedersen

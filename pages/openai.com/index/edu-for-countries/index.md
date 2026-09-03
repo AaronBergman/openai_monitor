@@ -79,10 +79,6 @@ As AI is introduced at scale, rollouts typically follow a phased approach, start
 
 EstoniaGreeceJordanRepublic of KazakhstanSlovakiaTrinidad and TobagoUnited Arab Emirates
 
-> “We believe AI in education should strengthen how students learn, not just what they know. This partnership with OpenAI supports our nationwide AI Leap program, initiated by President Alar Karis’s call to use AI not the most, but the smartest way, focuses on giving every teacher and high school student equal access to AI tools purpose-built for learning. We’re studying both the benefits and risks of AI in classrooms to ensure it truly supports learning.”
-
-Ivo Visak, CEO of AI Leap
-
 ## Ensuring AI benefits everyone
 
 OpenAI’s mission is to ensure that advanced AI benefits everyone. We’re building AI to help people solve hard problems because by helping with the hard problems, AI can benefit the most people possible—through more scientific discoveries, better healthcare and education, and improved productivity. This work reflects a simple belief: powerful technologies should expand opportunity for all, not exclude people from it.
@@ -221,3 +217,7 @@ Terms & Policies
 OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
+
+> “We believe AI in education should strengthen how students learn, not just what they know. This partnership with OpenAI supports our nationwide AI Leap program, initiated by President Alar Karis’s call to use AI not the most, but the smartest way, focuses on giving every teacher and high school student equal access to AI tools purpose-built for learning. We’re studying both the benefits and risks of AI in classrooms to ensure it truly supports learning.”
+
+Ivo Visak, CEO of AI Leap

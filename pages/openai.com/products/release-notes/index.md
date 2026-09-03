@@ -62,6 +62,46 @@ To get started with Healthcare Public Data, install the plugin from the Plugin d
 
 [View source(opens in a new window)](<https://help.openai.com/en/articles/6825453-chatgpt-release-notes#healthcare-public-data-in-chatgpt-for-clinicians>)[Help center(opens in a new window)](<https://help.openai.com/en/articles/10128477-chatgpt-enterprise-edu-release-notes#healthcare-plugins-for-chatgpt-and-codex>)[Help center(opens in a new window)](<https://help.openai.com/en/articles/20001489>)
 
+Codex
+
+Sep 1, 2026
+
+GA
+
+## ChatGPT for iOS updates: cross-host attachments, task priority, and reliability
+
+### New features
+
+  * Attachments now work across all connected hosts, including Windows and Linux, and support videos from the Photo Library.
+
+  * Press and hold the attachment button to attach recent photos.
+
+  * A new Priority view brings running tasks, unread updates, and tasks awaiting your response to the top of the task list.
+
+  * Queued prompts now sync with the connected host, remain editable, and send even when the app is in the background.
+
+  * Long-running tasks now show their live working time.
+
+  * Task menus now include an option to copy the thread ID.
+
+
+
+
+### Improvements and bug fixes
+
+  * Task list loading and organization are faster and more reliable, with simpler date sections and fewer stalls or disappearing projects.
+
+  * Reconnects are more reliable, resolving stuck Send states, missing approvals, and stale task updates.
+
+  * Long responses now stream with fewer visual interruptions.
+
+  * Side chat messages remain available until you close them, even after the chat can no longer reconnect.
+
+
+
+
+[View source(opens in a new window)](<https://learn.chatgpt.com/docs/changelog#codex-2026-09-02-mobile>)
+
 API
 
 Aug 29, 2026
@@ -101,29 +141,6 @@ Workspace admins and owners can import plugin marketplaces from public or privat
 New plugins start with Available installation and authentication on install. Admins and owners can review each plugin's settings and required apps and control installation policies for eligible roles and required app access in workspace settings. Repository policy values do not override these settings, and importing a plugin does not grant app access or connect members' accounts; app permissions and authentication requirements still apply.
 
 [View source(opens in a new window)](<https://help.openai.com/en/articles/11391654-chatgpt-business-release-notes#import-and-sync-plugin-marketplaces-from-github>)[Help center(opens in a new window)](<https://help.openai.com/en/articles/10128477-chatgpt-enterprise-edu-release-notes#import-and-sync-plugin-marketplaces-from-github>)[Help center(opens in a new window)](<https://help.openai.com/en/articles/20001504>)
-
-ChatGPT
-
-Aug 27, 2026
-
-GA
-
-## More controls in temporary chat
-
-We’re rolling out new controls in temporary chat. You can now choose to personalize responses in a temporary chat with memory, plugins, and custom instructions from your regular chat settings. You can also choose to save a temporary chat.
-
-### How it works
-
-  * Personalized: When you create a temporary chat, you can choose to have personalized responses. Personalized temporary chats can use your memories, custom instructions, and plugins to tailor responses. They do not create new memories and remain out of your chat history unless you save them. Personalization can be set only when you start a temporary chat and cannot be changed after the conversation begins.
-
-  * Non-personalized: By default, temporary chats are not personalized. Non-personalized temporary chats do not use memory, custom instructions, or plugins, and they do not create new memories.
-
-  * Saving a temporary chat: When a conversation becomes useful for the future, you can add it to your chat history. Saving converts it into a regular chat, so it then follows your account-level personalization settings and model-improvement preferences. For example, if you have memory enabled and save a temporary chat, this will become part of your chat history and can be referenced to personalized future responses.
-
-
-
-
-[View source(opens in a new window)](<https://help.openai.com/en/articles/6825453-chatgpt-release-notes#more-controls-in-temporary-chat>)
 
 Load more
 

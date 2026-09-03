@@ -1,5 +1,46 @@
 # openai_monitor
 
+## 2026-09-03 — Run `2026-09-03T09-16Z`
+
+**Fetch time:** 2026-09-03T09:16:33–09:17:40Z UTC | **Baseline:** 2026-09-02T09-16Z (consecutive day)
+
+**TL;DR:** A quiet day with two real threads. First, OpenAI **quietly pruned six third-party app/plugin integrations** (Azure DevOps, Basecamp, Help Scout, Intercom, Teamwork.com, Zoho Desk) from its business connector catalog — the `/business/plugins/` directory dropped the Azure DevOps card the same day. Second, the **`/api/` landing page's main call-to-action changed** from "Try ChatGPT" (→ chatgpt.com) to "Start building" (→ platform.openai.com), a small but telling shift toward driving developer/platform signups rather than ChatGPT ones from that page. Two new pages appeared: a **customer story about ATV Big Air Tour** and a new enterprise guide, **"Agent security in the enterprise."** Release notes picked up a new ChatGPT-for-iOS entry (cross-host attachments, a Priority task view, reliability fixes). Of 212 pages with a bumped `<lastmod>`, only 13 changed anything beyond a randomized gallery reshuffle or an invisible metadata touch.
+
+### Anomalies
+
+None. No future-dated or backwards-moving `<lastmod>` values, no backdated new URLs, no reappeared URLs, no sub-sitemap section migrations. All 214 changed/new page fetches (212 updated + 2 added) succeeded on the first attempt. Full breakdown in [`runs/2026-09-03T09-16Z/analysis.md`](runs/2026-09-03T09-16Z/analysis.md).
+
+### Notable additions
+
+- **[Agent security in the enterprise](pages/openai.com/business/learn/agent-security-enterprise/index.md)** — a practical guide to deploying autonomous agents safely in enterprise settings; immediately cross-linked from the `/business/learn/` and `/daybreak/` hub pages.
+- **[ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT](pages/openai.com/index/atv-big-air-tour/index.md)** — customer story about an events/motorsports company compressing a multi-day production workflow using ChatGPT; immediately cross-linked from several other customer-story pages.
+
+### Notable updates
+
+- **[`/api/`](pages/openai.com/api/index.md)** — main CTA changed from "Try ChatGPT" (links to chatgpt.com) to "Start building" (links to platform.openai.com) — the API landing page now pushes developer/platform signups instead of ChatGPT signups as its top action.
+- **[`/products/release-notes/`](pages/openai.com/products/release-notes/index.md)** — new GA entry: "ChatGPT for iOS updates: cross-host attachments, task priority, and reliability" (Codex, Sep 1) — attachments now work across all connected hosts (incl. Windows/Linux) and support Photo Library videos, a new Priority task view, background-sync for queued prompts, live working-time display, plus reliability fixes to task loading, reconnects, and streaming.
+- **[`/index/chatgpt-ads-expands-across-europe/`](pages/openai.com/index/chatgpt-ads-expands-across-europe/index.md)** — picked up an "Update on August 31, 2026" note: self-service ChatGPT Ads via Ads Manager is now live across the 31 European markets originally announced Aug 18.
+- **[`/business/plugins/`](pages/openai.com/business/plugins/index.md)** — directory listing dropped its Azure DevOps card and surfaced an Aha! card, tracking the sitemap removal below (Aha!'s own page already existed and was unchanged).
+- **[`/index/gpt-5-6/`](pages/openai.com/index/gpt-5-6/index.md)** — six inline benchmark callouts (Agents' Last Exam, Coding Agent Index, BrowseComp, ExploitBench, GeneBench Pro, Aggregate RSI capability) were consolidated from scattered inline positions into one block near the end of the article — a wording-neutral restructure.
+- **[`/business/partners/slalom/`](pages/openai.com/business/partners/slalom/index.md)** — bio copy lightly edited, gained a closing "Learn more about Slalom's AI consulting services." sentence.
+- 5 pages ([stampli](pages/openai.com/index/stampli/index.md), [gilbert-tobin](pages/openai.com/index/gilbert-tobin/index.md), [polimill](pages/openai.com/index/polimill/index.md), [loveholidays](pages/openai.com/index/loveholidays/index.md), [daybreak](pages/openai.com/daybreak/index.md)) — "related content" carousel refreshed to surface today's two new pages in place of older cards; a downstream effect of the additions above, not independent edits.
+
+### Routine, low-signal updates
+
+- **37 of 212** updated pages: pure carousel/gallery reordering (same images/examples, different display order) — no underlying content change. Affects several GPT model-announcement pages and example galleries.
+- **162 of 212** updated pages: byte-for-byte identical to their prior snapshot — pure `<lastmod>`/CDN metadata touch.
+- Full per-page breakdown in [`runs/2026-09-03T09-16Z/analysis.md`](runs/2026-09-03T09-16Z/analysis.md) and [`runs/2026-09-03T09-16Z/diff.json`](runs/2026-09-03T09-16Z/diff.json).
+
+### Removals
+
+Six third-party app/plugin integration pages dropped from the sitemap, all part of the business connector catalog: [`azure-devops`](pages/openai.com/business/plugins/azure-devops/index.md), [`basecamp`](pages/openai.com/business/plugins/basecamp/index.md), [`help-scout`](pages/openai.com/business/plugins/help-scout/index.md), [`intercom`](pages/openai.com/business/plugins/intercom/index.md), [`teamwork-com`](pages/openai.com/business/plugins/teamwork-com/index.md), [`zoho-desk`](pages/openai.com/business/plugins/zoho-desk/index.md) — all stable since at least July 2026, removed the same day the `/business/plugins/` index dropped its Azure DevOps card. Reads as a deliberate catalog pruning. Last snapshots preserved in git history.
+
+**Stats:** 1623 total URLs | 2 added | 212 updated | 6 removed | 0 anomalies | 36 sub-sitemaps
+
+---
+
+
+
 ## 2026-09-02 — Run `2026-09-02T09-16Z`
 
 **Fetch time:** 2026-09-02T09:16–09:20Z UTC | **Baseline:** 2026-09-01T09-16Z (consecutive day)

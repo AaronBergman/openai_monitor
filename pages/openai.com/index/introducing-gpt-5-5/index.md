@@ -114,10 +114,6 @@ The model’s coding strengths show up especially clearly in Codex where it can 
 
 Space mission appEarthquake trackerDungeon game3D game
 
-The rendered trajectory uses NASA/JPL Horizons vector data for Orion, the Moon, and the Sun, with display scaling applied for readability.
-
-**Prompt:**[attached image] Implement this as a new app using webgl and vite using real data from the artemis II mission. Make sure to test the app thoroughly until it is fully functional and looks like the app in the picture. Pay close attention to the rendering of the planets and fly paths. I want to be able to interact with the 3D rendering. Ensure it has realistic orbital mechanics.
-
 Beyond benchmarks, early testers said GPT‑5.5 shows a stronger ability to understand the shape of a system: why something is failing, where the fix needs to land, and what else in the codebase would be affected.
 
 ![alt](https://images.ctfassets.net/kftzwdyauwt9/5A8f5mO7aKrwLH5ClDV0si/e49a0a3c56f63d9998dd338ce16d0dd6/Blog1.png?w=3840&q=90&fm=webp)
@@ -148,10 +144,6 @@ One engineer at NVIDIA who had early access to the model went as far as to say: 
 
 CursorLovableCognitionWindsurfGitHubJetBrainsSonar
 
-> “GPT-5.5 is noticeably smarter and more persistent than GPT-5.4, with stronger coding performance and more reliable tool use. It stays on task for significantly longer without stopping early, which matters most for the complex, long-running work our users delegate to Cursor.”
-
-— Michael Truell, Co-founder & CEO at Cursor
-
 ### Knowledge work
 
 The same strengths that make GPT‑5.5 great at coding also make it powerful for everyday work on a computer. Because the model is better at understanding intent, it can move more naturally through the full loop of knowledge work: finding information, understanding what matters, using tools, checking the output, and turning raw material into something useful.
@@ -171,10 +163,6 @@ GPT‑5.5 reaches state-of-the-art performance across multiple benchmarks that r
 Tau2-bench Telecom was run without prompt tuning (and GPT‑4.1 as user model). GPT‑5.5 understands the intent of the task better and is more token efficient than its predecessors.
 
 NVIDIACiscoAbridgeDatabricksHarveyBoxLowe’sGleanPalo Alto NetworksRampPerplexity
-
-> “GPT-5.5 delivers the sustained performance required for execution-heavy work. Built and served on NVIDIA GB200 NVL72 systems, the model enables our teams to ship end-to-end features from natural language prompts, cut debug time from days to hours, and turn weeks of experimentation into overnight progress in complex codebases. It’s more than faster coding—it’s a new way of working that helps people operate at a fundamentally different speed.”
-
-— Justin Boitano, VP of Enterprise AI at NVIDIA
 
 ### Scientific research
 
@@ -491,3 +479,15 @@ Terms & Policies
 OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
+
+The rendered trajectory uses NASA/JPL Horizons vector data for Orion, the Moon, and the Sun, with display scaling applied for readability.
+
+**Prompt:**[attached image] Implement this as a new app using webgl and vite using real data from the artemis II mission. Make sure to test the app thoroughly until it is fully functional and looks like the app in the picture. Pay close attention to the rendering of the planets and fly paths. I want to be able to interact with the 3D rendering. Ensure it has realistic orbital mechanics.
+
+> “GPT-5.5 is noticeably smarter and more persistent than GPT-5.4, with stronger coding performance and more reliable tool use. It stays on task for significantly longer without stopping early, which matters most for the complex, long-running work our users delegate to Cursor.”
+
+— Michael Truell, Co-founder & CEO at Cursor
+
+> “GPT-5.5 delivers the sustained performance required for execution-heavy work. Built and served on NVIDIA GB200 NVL72 systems, the model enables our teams to ship end-to-end features from natural language prompts, cut debug time from days to hours, and turn weeks of experimentation into overnight progress in complex codebases. It’s more than faster coding—it’s a new way of working that helps people operate at a fundamentally different speed.”
+
+— Justin Boitano, VP of Enterprise AI at NVIDIA

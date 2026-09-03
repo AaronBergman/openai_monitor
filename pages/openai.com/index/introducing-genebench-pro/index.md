@@ -182,63 +182,6 @@ Each GeneBench-Pro problem is a self-contained scientific analysis. Agents recei
 
 Benefit-Risk DecisionCRISPR Target ValidationLinked Genetic LocusDRX1 Carrier-ScreeningParent-Specific Ancestry
 
-## Structural variant-guided tumor therapy benefit-risk decision
-
-A molecular tumor board registry contains trial-eligible advanced solid-tumor cases considered for a TXR1-directed inhibitor. Estimate, for tumors with SV-driven TXR1 target-mediated activation at time zero, the marginal effect of TXR1i versus non-TXR1 systemic therapy on week-16 clinical benefit as if all patients had an assessable week-16 visit. Also estimate the 8-week treatment-limiting toxicity/discontinuation risk under TXR1i in the same target population. Report net clinical utility = benefit risk difference (percentage points) - 0.35 * toxicity risk (percentage points), and choose therapy_class_code 1 if TXR1i has positive net utility and 0 otherwise. 
-
-Use percentage-point units for all non-code quantities. Positive benefit means TXR1i improves week-16 clinical benefit relative to non-TXR1 systemic therapy.
-
-These data came from a real experiment; you will be graded not just on numerical correctness but the quality of analytical reasoning you exhibit; do not attempt to take any shortcuts.
-
-Return your final answer as exactly one JSON object.  
-Do not wrap the JSON in markdown.  
-Do not add prose before or after the JSON.  
-Do not omit any keys shown in the example.  
-Return the JSON object in your final answer:
-
-#### JSON
-
-`
-    
-    
-    1
-    
-    {
-    
-    2
-    
-      "answer": {
-    
-    3
-    
-        "therapy_class_code": <int>,
-    
-    4
-    
-        "benefit_rd_pp": <float>,
-    
-    5
-    
-        "toxicity_dropout_risk_pp": <float>,
-    
-    6
-    
-        "net_clinical_utility_pp": <float>
-    
-    7
-    
-      },
-    
-    8
-    
-      "reasoning": "<description of method and QC>"
-    
-    9
-    
-    }
-
-`
-
 Because we control the full data-generation process, we can grade correctness deterministically against known targets, avoiding model-choice variability and verbosity effects found in standard rubric-based evaluation.
 
 Each problem also comes with rich metadata, including the intended analysis structure, attached data files, a detailed multi-page case study, and expert review outcomes. We are fully open-sourcing 10 representative GeneBench-Pro questions on [_Hugging Face_ ⁠(opens in a new window)](<https://huggingface.co/datasets/openai/genebench-pro-public-package>), with an [_interactive web interface_](</index/genebench-pro/case-studies/>) for browsing them. Finally, we will provide a 50-question subset to [_Artificial Analysis_ ⁠(opens in a new window)](<https://artificialanalysis.ai/>) for independent, third-party benchmarking in the near future.
@@ -290,22 +233,6 @@ Lex Flagel, Director of Data Science at Gencove
 Still, the fact that frontier models still solve fewer than a third of these problems shows that there is substantial room for improvement. Models can make partial progress on challenging problems, but they struggle to close the inferential loop. This failure pattern mirrors the contrast between human experts and novices. Experts use their experience to frame the problem and adapt their approach, while novices make observations but struggle to integrate them into the broader context of the problem.
 
 Pharmacogenomic time-to-event responseConditional cell-type heritabilityBridge-calibrated peptide pQTL
-
-## Problem: Pharmacogenomic time-to-event response with time-varying treatment
-
-Treatment initiation, genotype-specific response, delayed pharmacodynamics, prevalent-user flags, and longitudinal biomarkers jointly determine the causal survival estimand.
-
-## GPT-5.5 pattern
-
-**Handles treatment timing with a conventional Cox outcome model but does not address treatment-confounder feedback.**
-
-> Fit a counting-process Cox model with treatment as a time-varying exposure, effective only after `treat_start`+90 days ... The model included G, treatment×G, baseline severity, age, and sex.
-
-## GPT-5.6 Sol pattern
-
-**Uses a more appropriate causal inference method to properly account for treatment-confounder feedback.**
-
-> Used a new-user marginal structural Cox model: excluded 818 flagged prevalent users, modeled treatment initiation with stabilized inverse-probability weights using baseline covariates and current biomarker, and treated exposure as time-varying with a 90-day efficacy lag.
 
 Achieving near-perfect performance will require evaluations that both reliably measure progress and identify where models still fail. Benchmarks like GeneBench-Pro can help to turn a vague capability deficiency into something we can diagnose and improve. 
 
@@ -443,3 +370,76 @@ Terms & Policies
 OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
+
+## Structural variant-guided tumor therapy benefit-risk decision
+
+A molecular tumor board registry contains trial-eligible advanced solid-tumor cases considered for a TXR1-directed inhibitor. Estimate, for tumors with SV-driven TXR1 target-mediated activation at time zero, the marginal effect of TXR1i versus non-TXR1 systemic therapy on week-16 clinical benefit as if all patients had an assessable week-16 visit. Also estimate the 8-week treatment-limiting toxicity/discontinuation risk under TXR1i in the same target population. Report net clinical utility = benefit risk difference (percentage points) - 0.35 * toxicity risk (percentage points), and choose therapy_class_code 1 if TXR1i has positive net utility and 0 otherwise. 
+
+Use percentage-point units for all non-code quantities. Positive benefit means TXR1i improves week-16 clinical benefit relative to non-TXR1 systemic therapy.
+
+These data came from a real experiment; you will be graded not just on numerical correctness but the quality of analytical reasoning you exhibit; do not attempt to take any shortcuts.
+
+Return your final answer as exactly one JSON object.  
+Do not wrap the JSON in markdown.  
+Do not add prose before or after the JSON.  
+Do not omit any keys shown in the example.  
+Return the JSON object in your final answer:
+
+#### JSON
+
+`
+    
+    
+    1
+    
+    {
+    
+    2
+    
+      "answer": {
+    
+    3
+    
+        "therapy_class_code": <int>,
+    
+    4
+    
+        "benefit_rd_pp": <float>,
+    
+    5
+    
+        "toxicity_dropout_risk_pp": <float>,
+    
+    6
+    
+        "net_clinical_utility_pp": <float>
+    
+    7
+    
+      },
+    
+    8
+    
+      "reasoning": "<description of method and QC>"
+    
+    9
+    
+    }
+
+`
+
+## Problem: Pharmacogenomic time-to-event response with time-varying treatment
+
+Treatment initiation, genotype-specific response, delayed pharmacodynamics, prevalent-user flags, and longitudinal biomarkers jointly determine the causal survival estimand.
+
+## GPT-5.5 pattern
+
+**Handles treatment timing with a conventional Cox outcome model but does not address treatment-confounder feedback.**
+
+> Fit a counting-process Cox model with treatment as a time-varying exposure, effective only after `treat_start`+90 days ... The model included G, treatment×G, baseline severity, age, and sex.
+
+## GPT-5.6 Sol pattern
+
+**Uses a more appropriate causal inference method to properly account for treatment-confounder feedback.**
+
+> Used a new-user marginal structural Cox model: excluded 818 flagged prevalent users, modeled treatment initiation with stabilized inverse-probability weights using baseline covariates and current biomarker, and treated exposure as time-varying with a 90-day efficacy lag.

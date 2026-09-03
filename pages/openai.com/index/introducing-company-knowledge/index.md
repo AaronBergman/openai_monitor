@@ -101,8 +101,6 @@ As ChatGPT becomes even more helpful at work, we’re giving organizations more 
 
 Synthesize insightsCreate a reportBuild a plan
 
-![ChatGPT interface showing a prompt reading ‘Summarize customer feedback and strategically prioritize the next mobile release.’ Below, the response references connected company data sources such as Google Slides \(‘Mobile App User Survey’\), Slack \(‘#user-feedback’\), and Intercom \(‘Mobile Performance’\), summarizing user insights and outlining key feedback for the upcoming mobile app release.](https://images.ctfassets.net/kftzwdyauwt9/4k5XhrsGOc7thw69bm6ncB/946cf07dc79604d863e4e4c60621a3e2/SynthesizeInsights_16x9.png?w=3840&q=90&fm=webp)
-
 Company knowledge goes beyond answering questions like “How do I file an expense report?” It helps ChatGPT understand your work context right away, so it can be more useful with tasks like drafting plans, compiling reports, or catching up on a new project—without you having to explain what you’re working on.
 
 Use it to help you:
@@ -251,3 +249,5 @@ Terms & Policies
 OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
+
+![ChatGPT interface showing a prompt reading ‘Summarize customer feedback and strategically prioritize the next mobile release.’ Below, the response references connected company data sources such as Google Slides \(‘Mobile App User Survey’\), Slack \(‘#user-feedback’\), and Intercom \(‘Mobile Performance’\), summarizing user insights and outlining key feedback for the upcoming mobile app release.](https://images.ctfassets.net/kftzwdyauwt9/4k5XhrsGOc7thw69bm6ncB/946cf07dc79604d863e4e4c60621a3e2/SynthesizeInsights_16x9.png?w=3840&q=90&fm=webp)

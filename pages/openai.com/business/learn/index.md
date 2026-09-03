@@ -36,6 +36,10 @@ GuidesOpenAI on OpenAIWebinarsDemos
 
 #### Guides
 
+![Abstract orange wallpaper with soft peach highlights.](https://images.ctfassets.net/kftzwdyauwt9/14QK7oeFx4wzFrk18r78pw/4a96ed4f5ed02090968d437320ff506e/agent-security-option-112-cover-1080.png?w=3840&q=90&fm=webp)
+
+## [Agent security in the enterpriseA practical guide to deploying autonomous agents safely](</business/learn/agent-security-enterprise/>)
+
 ![The builder’s guide to GPT-5.6 — Card image — Neutral Option 075](https://images.ctfassets.net/kftzwdyauwt9/4jmIFt2vH2c51Fj99rAiqH/bf22866b22d59f6230785fe304fee20c/the-builders-guide-to-gpt-5-6-option-075-card.png?w=3840&q=90&fm=webp)
 
 [The builder’s guide to GPT‑5.6Technical lessons from startups in production](</index/builders-guide-to-gpt-5-6/>)
@@ -75,10 +79,6 @@ GuidesOpenAI on OpenAIWebinarsDemos
 ![Abstract blue gradient background with scattered white code snippets; centered white rounded box shows a purple merge-icon label reading ‘Merged’ next to green ‘+217’ and red ‘-196’ line-change counts.](https://images.ctfassets.net/kftzwdyauwt9/2V3CASyikBG8IDxHXF8Lxa/6c0953d46fa9e1ee6542ed7e0506e47f/Codex_LP_01_v3.png?w=3840&q=90&fm=webp)
 
 [How OpenAI uses CodexA guide for developers.](</business/guides-and-resources/how-openai-uses-codex/>)
-
-![Swirling shades of blue, orange, and red](https://images.ctfassets.net/kftzwdyauwt9/2ur0VJM14fxdvMi8iPF4Oj/2de861811a58661145ca9412d08e8236/GPT-5_EntGuideBook_ArtCard_1x1.png?w=3840&q=90&fm=webp)
-
-[Inside GPT‑5, our best model for workTips for evaluating GPT-5 for your business.](</business/guides-and-resources/inside-gpt5-our-best-model-for-work/>)
 
 ![Abstract image with vivid, swirling colours including pink, orange, green, and blue, creating a dynamic, floral-like blur with high saturation and soft gradients.](https://images.ctfassets.net/kftzwdyauwt9/40QZWHLSVL1wQy9xS1E2gN/530c90abb62d7b31ff7262956760b6e5/image.png?w=3840&q=90&fm=webp)
 

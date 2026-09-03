@@ -85,12 +85,6 @@ At launch, we are supporting a first set of organizations building frontier appl
 
 Fourth EonSecureDNASecureBio DetectionHadrian Biodefense
 
-Fourth Eon Biosecurity builds adaptive screening infrastructure that can evolve alongside new technologies like AI. Starting with function-based screening for DNA synthesis, the organization helps labs and companies that handle biological materials prevent unsafe or malicious orders, including those involving novel designs.
-
-> “We’re excited to test OpenAI’s GPT-Rosalind in Fourth Eon’s work developing AI-native biosecurity screening systems that analyze sequences and generate detailed threat assessments. Robust screening can improve the ability to detect and mitigate potentially dangerous DNA orders before they create downstream risk, strengthening prevention.”
-
-– Gary Abel, Co-Founder & Chief Scientist
-
 Our goal is not only to accelerate life sciences research in the abstract, but to help create products and interventions that bolster societal resilience and show what responsible, high-impact biodefense can look like in practice. We’re especially interested in projects where advanced AI can materially improve the speed, quality, or scale of defensive research workflows, including literature synthesis, protocol design support, model-building, data harmonization, simulation, decision support, and scientific communication. We welcome applications from academic, nonprofit, government-affiliated, mission-driven companies and other qualified research teams working on projects with clear public benefit.
 
   * [Apply](</form/rosalind-biodefense-program/>)
@@ -245,3 +239,9 @@ Terms & Policies
 OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
+
+Fourth Eon Biosecurity builds adaptive screening infrastructure that can evolve alongside new technologies like AI. Starting with function-based screening for DNA synthesis, the organization helps labs and companies that handle biological materials prevent unsafe or malicious orders, including those involving novel designs.
+
+> “We’re excited to test OpenAI’s GPT-Rosalind in Fourth Eon’s work developing AI-native biosecurity screening systems that analyze sequences and generate detailed threat assessments. Robust screening can improve the ability to detect and mitigate potentially dangerous DNA orders before they create downstream risk, strengthening prevention.”
+
+– Gary Abel, Co-Founder & Chief Scientist

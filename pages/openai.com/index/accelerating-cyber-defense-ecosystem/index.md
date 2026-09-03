@@ -70,10 +70,6 @@ We will keep expanding Trusted Access for Cyber as we learn, with safeguards tha
 
 BNYCrowdStrikeCiscoCitiNVIDIAOracleZscaleriVerifySpecterOpsCloudflarePalo Alto Networks
 
-> “BNY is committed to helping protect the security and resilience of the financial system as AI capabilities accelerate. We are working closely with those at the forefront of enabling these efforts. Building on our ongoing collaboration with OpenAI, we are pleased to participate in their Trusted Access for Cyber program”
-
-—Leigh-Ann Russell, Chief Information Officer and Global Head of Engineering
-
   * [2026](</news/?tags=2026>)
 
 
@@ -200,3 +196,7 @@ Terms & Policies
 OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
+
+> “BNY is committed to helping protect the security and resilience of the financial system as AI capabilities accelerate. We are working closely with those at the forefront of enabling these efforts. Building on our ongoing collaboration with OpenAI, we are pleased to participate in their Trusted Access for Cyber program”
+
+—Leigh-Ann Russell, Chief Information Officer and Global Head of Engineering

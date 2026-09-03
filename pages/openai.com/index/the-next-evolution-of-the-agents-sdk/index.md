@@ -277,10 +277,6 @@ Here’s what some of the customers who tested the new SDK with us had to say:
 
 Oscar HealthActivelyLexisNexisFurtherAIThomson ReutersZoomTomoro AI
 
-> “The updated Agents SDK made it production-viable for us to automate a critical clinical records workflow that previous approaches couldn’t handle reliably enough. For us, the difference was not just extracting the right metadata, but correctly understanding the boundaries of each encounter in long, complex records. As a result, we can more quickly understand what’s happening for each patient in a given visit, helping members with their care needs and improving their experience with us.”
-
-— Rachael Burns, Staff Engineer & AI Tech Lead, Oscar Health
-
 ## A more capable harness for the agent loop
 
 With today’s release, the Agents SDK harness becomes more capable for agents that work with documents, files, and systems. It now has configurable memory, sandbox-aware orchestration, Codex-like filesystem tools, and standardized integrations with primitives that are becoming common in frontier agent systems.
@@ -462,3 +458,7 @@ Terms & Policies
 OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
+
+> “The updated Agents SDK made it production-viable for us to automate a critical clinical records workflow that previous approaches couldn’t handle reliably enough. For us, the difference was not just extracting the right metadata, but correctly understanding the boundaries of each encounter in long, complex records. As a result, we can more quickly understand what’s happening for each patient in a given visit, helping members with their care needs and improving their experience with us.”
+
+— Rachael Burns, Staff Engineer & AI Tech Lead, Oscar Health
