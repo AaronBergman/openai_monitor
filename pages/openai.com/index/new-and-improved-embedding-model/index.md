@@ -77,15 +77,6 @@ Print response
 
 Text searchCode searchSentence similarityText classification
 
-Model| Performance  
----|---  
-`**text-embedding-ada-002**`|  53.3  
-`text-search-davinci-*-001`| 52.8  
-`text-search-curie-*-001`| 50.9  
-`text-search-babbage-*-001`| 50.4  
-`text-search-ada-*-001`| 49.0  
-Dataset: [BEIR](<https://github.com/UKPLab/beir>) (ArguAna, ClimateFEVER, DBPedia, FEVER, FiQA2018, HotpotQA, NFCorpus, QuoraRetrieval, SciFact, TRECCOVID, Touche2020)
-
 **Unification of capabilities**. We have significantly simplified the interface of the [/embeddings⁠(opens in a new window)](<https://beta.openai.com/docs/api-reference/embeddings>) endpoint by merging the five separate models shown above (`text-similarity`, `text-search-query`, `text-search-doc`, `code-search-text` and `code-search-code`) into a single new model. This single representation performs better than our previous embedding models across a diverse set of text search, sentence similarity, and code search benchmarks.
 
 **Longer context.** The context length of the new model is increased by a factor of four, from 2048 to 8192, making it more convenient to work with long documents.
@@ -241,3 +232,12 @@ Terms & Policies
 OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
+
+Model| Performance  
+---|---  
+`**text-embedding-ada-002**`|  53.3  
+`text-search-davinci-*-001`| 52.8  
+`text-search-curie-*-001`| 50.9  
+`text-search-babbage-*-001`| 50.4  
+`text-search-ada-*-001`| 49.0  
+Dataset: [BEIR](<https://github.com/UKPLab/beir>) (ArguAna, ClimateFEVER, DBPedia, FEVER, FiQA2018, HotpotQA, NFCorpus, QuoraRetrieval, SciFact, TRECCOVID, Touche2020)

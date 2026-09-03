@@ -93,12 +93,6 @@ _Ongoing_
 
 Arlina YangKrishna RamasimhaDaira Velasquez Fonseca
 
-> “Watching students bring their ideas to life through AI was the highlight of the program. Seeing students proudly share the projects they built was a reminder of how powerful it is when students can see what’s possible—and then build it for themselves.”
-
-Arlina Yang, UC Davis
-
-![Arlina Yang speaking to students in a university classroom.](https://images.ctfassets.net/kftzwdyauwt9/gzjLHTlOdXRWFQjbTn5mP/2b8c522ce7d07ebd2c082f76eb0bc7e1/Arlina_Yang_highres.jpeg?w=3840&q=90&fm=webp)
-
 ### How to apply
 
 Applications are open through August 31, 2026 for students in Japan, Korea, the United Kingdom, Germany, and France. Applications for the Fall 2026 cohort have closed in the United States, Canada, and India.
@@ -330,6 +324,12 @@ Terms & Policies
 OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
+
+> “Watching students bring their ideas to life through AI was the highlight of the program. Seeing students proudly share the projects they built was a reminder of how powerful it is when students can see what’s possible—and then build it for themselves.”
+
+Arlina Yang, UC Davis
+
+![Arlina Yang speaking to students in a university classroom.](https://images.ctfassets.net/kftzwdyauwt9/gzjLHTlOdXRWFQjbTn5mP/2b8c522ce7d07ebd2c082f76eb0bc7e1/Arlina_Yang_highres.jpeg?w=3840&q=90&fm=webp)
 
 ### Can I apply if I haven’t used Codex or built with AI before?
 

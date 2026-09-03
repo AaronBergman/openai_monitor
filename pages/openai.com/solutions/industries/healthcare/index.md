@@ -111,10 +111,6 @@ Build AI into the systems your teams already use.
 
 Boston Children’s HospitalCedars-Sinai Medical Center Stanford Medicine Children’s HealthAdventHealthHCA HealthcareBaylor Scott & White Health
 
-> “Our early work with a custom OpenAI-powered solution allowed us to move quickly, prove value in a secure environment, and establish strong governance foundations. ChatGPT for Healthcare offers a path toward operational scale, providing an enterprise-grade platform that can support broad, responsible adoption across clinical, research, and administrative teams.”
-
-—John Brownstein, SVP and Chief Innovation Officer, Boston Children’s Hospital
-
 ## Supporting better healthcare with AI
 
 See how OpenAI can help your organization scale AI securely and responsibly.
@@ -249,3 +245,7 @@ Generate referral letters, prior authorization letters, and forms from a patient
 ### Personalized patient instructions
 
 Generate patient-friendly instructions from clinical notes, tailored to each patient’s language, literacy, and situation.
+
+> “Our early work with a custom OpenAI-powered solution allowed us to move quickly, prove value in a secure environment, and establish strong governance foundations. ChatGPT for Healthcare offers a path toward operational scale, providing an enterprise-grade platform that can support broad, responsible adoption across clinical, research, and administrative teams.”
+
+—John Brownstein, SVP and Chief Innovation Officer, Boston Children’s Hospital

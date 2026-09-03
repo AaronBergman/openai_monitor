@@ -139,10 +139,6 @@ Frontier firms also make continuous learning and experimentation part of everyda
 
 ContextToolsPersistence
 
-##### Give agents the full work context
-
-[PluginsBased on my work, explain plugins, show me how to connect my tools, and suggest one practical use case.(opens in a new window)](<https://chatgpt.com/?prompt=Based+on+my+work%2C+explain+plugins%2C+show+me+how+to+connect+my+tools%2C+and+suggest+one+practical+use+case.>)[AppshotsExplain appshots, show me how to share what I am viewing, and suggest one useful example for my work.(opens in a new window)](<https://chatgpt.com/?prompt=Explain+appshots%2C+show+me+how+to+share+what+I+am+viewing%2C+and+suggest+one+useful+example+for+my+work.>)[MemoryBased on my work, explain memory, show me how to use it, and suggest what I should save.(opens in a new window)](<https://chatgpt.com/?prompt=Based+on+my+work%2C+explain+memory%2C+show+me+how+to+use+it%2C+and+suggest+what+I+should+save.>)[Voice inputExplain voice input, show me how to get started, and suggest one useful hands-free task for my work.(opens in a new window)](<https://chatgpt.com/?prompt=Explain+voice+input%2C+show+me+how+to+get+started%2C+and+suggest+one+useful+hands-free+task+for+my+work.>)
-
 ## Agents are spreading beyond software development
 
 Software developers were among the first to adopt AI agents, but the fastest growth is now coming from general knowledge workers. Since February, the number of weekly active enterprise Codex users has grown 108× in legal, 41× in sales, 41× in recruiting, and 26× in marketing, compared with 5x among engineers. 
@@ -339,3 +335,7 @@ Terms & Policies
 OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
+
+##### Give agents the full work context
+
+[PluginsBased on my work, explain plugins, show me how to connect my tools, and suggest one practical use case.(opens in a new window)](<https://chatgpt.com/?prompt=Based+on+my+work%2C+explain+plugins%2C+show+me+how+to+connect+my+tools%2C+and+suggest+one+practical+use+case.>)[AppshotsExplain appshots, show me how to share what I am viewing, and suggest one useful example for my work.(opens in a new window)](<https://chatgpt.com/?prompt=Explain+appshots%2C+show+me+how+to+share+what+I+am+viewing%2C+and+suggest+one+useful+example+for+my+work.>)[MemoryBased on my work, explain memory, show me how to use it, and suggest what I should save.(opens in a new window)](<https://chatgpt.com/?prompt=Based+on+my+work%2C+explain+memory%2C+show+me+how+to+use+it%2C+and+suggest+what+I+should+save.>)[Voice inputExplain voice input, show me how to get started, and suggest one useful hands-free task for my work.(opens in a new window)](<https://chatgpt.com/?prompt=Explain+voice+input%2C+show+me+how+to+get+started%2C+and+suggest+one+useful+hands-free+task+for+my+work.>)

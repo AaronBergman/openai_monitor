@@ -64,10 +64,6 @@ Now when someone asks ChatGPT about one of the core topics, it can explain it an
 
 Conceptual understandingExploratory learning
 
-> “What stands out is how strongly this feature emphasizes conceptual understanding. When learning math, understanding why something works and how ideas connect helps concepts stick long term. I especially appreciate how it doesn’t stop at the original question but actively prompts you to extend thinking and explore deeper connections.”
-
-— Anjini Grover, High School Mathematics Teacher
-
 To try it out, you can ask ChatGPT:
 
   * Help me understand the Pythagorean Theorem
@@ -219,3 +215,7 @@ Terms & Policies
 OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
+
+> “What stands out is how strongly this feature emphasizes conceptual understanding. When learning math, understanding why something works and how ideas connect helps concepts stick long term. I especially appreciate how it doesn’t stop at the original question but actively prompts you to extend thinking and explore deeper connections.”
+
+— Anjini Grover, High School Mathematics Teacher

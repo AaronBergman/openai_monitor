@@ -137,10 +137,6 @@ Cohort 1 includes: Capistrano Unified School District (CA), Dallas Independent S
 
 Houston ISD, TexasPrince William, VirginiaFairfax, VirginiaFulton, Georgia
 
-> "Whether our staff are longtime ChatGPT users or just getting started, this is an exciting step forward. They will have access to trusted AI tools that help them save time, think bigger, and focus on what matters most: supporting our students and community."
-
-— Kerri Holt, Chief Technology Officer, Houston ISD
-
 ## Empowering teachers to lead
 
 Every student today is growing up with AI, and teachers play a central role in helping them learn how to use these tools responsibly and effectively. To support that work, educators need space to explore AI for themselves. ChatGPT for Teachers is built to help them do just that—offering practical, hands-on experience they can bring back to their classrooms. And by making it free for millions of educators, we hope to make it easier for all types of schools to benefit from safe, thoughtful uses of AI in learning.
@@ -285,3 +281,7 @@ Terms & Policies
 OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
+
+> "Whether our staff are longtime ChatGPT users or just getting started, this is an exciting step forward. They will have access to trusted AI tools that help them save time, think bigger, and focus on what matters most: supporting our students and community."
+
+— Kerri Holt, Chief Technology Officer, Houston ISD

@@ -92,10 +92,6 @@ Their feedback is helping us build stronger safeguards while keeping their infor
 
 GleanDatabricksAbridgeMicrosoft
 
-“Enterprise AI adoption depends solely on customer control of data, with no direct or derivative use beyond the chosen service. OpenAI’s no-training commitment and ZDR give Glean confidence to build with OpenAI. As models become more capable, OpenAI shows safety can advance without compromising the privacy and control that sustain enterprise trust.”
-
-—Sunil Agrawal, Chief Information Security Officer, Glean
-
 We will continue working with customers on the technical and operational details of our approach. We plan to start rolling out Private Safety Processing, and share a technical white paper, in September. We’ll keep customers informed every step of the way, sharing updates early, explaining what they mean for existing commitments, and providing the time and support customers need to plan ahead.
 
   * [2026](</news/?tags=2026>)
@@ -234,3 +230,7 @@ Terms & Policies
 OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
+
+“Enterprise AI adoption depends solely on customer control of data, with no direct or derivative use beyond the chosen service. OpenAI’s no-training commitment and ZDR give Glean confidence to build with OpenAI. As models become more capable, OpenAI shows safety can advance without compromising the privacy and control that sustain enterprise trust.”
+
+—Sunil Agrawal, Chief Information Security Officer, Glean

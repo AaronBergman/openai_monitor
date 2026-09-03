@@ -76,8 +76,6 @@ With your financial accounts connected, ChatGPT can combine that reasoning with 
 
 Goal planningTravel spend analysisSpending insightsScenario planningInvestment risksSubscription review
 
-![Mobile app showing a personal finance assistant creating a five-year home-buying plan based on the user’s finances and Chicago housing market data.](https://images.ctfassets.net/kftzwdyauwt9/6vqEtiJWI45VyDgCniABzZ/f89ed847a8e956ad4c7dc281d641f817/1-OAI-ChatGPT-Personal-Finances-GoalPlanning-16x9.png?w=3840&q=90&fm=webp)
-
 ChatGPT can help you stay informed and feel more confident managing your finances, but it is not a replacement for professional financial advice.
 
 Starting today, we’re rolling out the ability for Pro users in the U.S. to connect their financial accounts in ChatGPT on web and iOS, with support for more than 12,000 financial institutions. We’ll learn and improve from early use before rolling it out to Plus, with the goal of making it available to everyone.
@@ -366,10 +364,6 @@ This benchmark gives us a clearer way to measure progress, and we will continue 
 
 Psychologist Marketing professor EntrepreneurEducatorEngineerComposer
 
-> “Connecting my finances in ChatGPT helped me figure out how to pay off our mortgage with a realistic monthly plan I could actually follow.”
-
-—Richard K. Sohn, PsyD, psychologist
-
   * [2026](</news/?tags=2026>)
   * [ChatGPT](</news/?tags=chatgpt>)
 
@@ -499,3 +493,9 @@ Terms & Policies
 OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
+
+![Mobile app showing a personal finance assistant creating a five-year home-buying plan based on the user’s finances and Chicago housing market data.](https://images.ctfassets.net/kftzwdyauwt9/6vqEtiJWI45VyDgCniABzZ/f89ed847a8e956ad4c7dc281d641f817/1-OAI-ChatGPT-Personal-Finances-GoalPlanning-16x9.png?w=3840&q=90&fm=webp)
+
+> “Connecting my finances in ChatGPT helped me figure out how to pay off our mortgage with a realistic monthly plan I could actually follow.”
+
+—Richard K. Sohn, PsyD, psychologist

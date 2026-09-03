@@ -1,0 +1,262 @@
+Skip to main content
+
+[](</>)
+
+  * [Research](</research/index/>)
+  * Products
+  * [Business](</business/>)
+  * [Developers](</api/>)
+  * [Company](</about/>)
+  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
+
+
+
+Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
+
+  * Research
+  * Products
+  * Business
+  * Developers
+  * Company
+  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
+
+
+
+[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)Login
+
+OpenAI
+
+September 2, 2026
+
+# ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT
+
+How a two-person leadership team uses ChatGPT Work to run 26 events nationwide, improve visibility in AI search, and inventory merch in minutes.
+
+[Contact sales](</contact-sales/>)
+
+![ATV Big Air Tour logo on a close-up black ATV tire texture.](https://images.ctfassets.net/kftzwdyauwt9/4iU7b7GIMgwR1T5k2Q7Wy5/ba1e283600652676745fc9fb33832f32/A-square.png?w=3840&q=90&fm=webp)
+
+Company size: SMB
+
+Region: North America
+
+Industry: Media, Entertainment & Sport
+
+Results
+
+7 hours
+
+Saved per week on event listing reviews
+
+Results
+
+3 days > 3 hours
+
+To complete merchandise inventorying and reorder
+
+Results
+
+1,223%
+
+Increase in OpenAI search and user-bot hits
+
+Loading…
+
+Share
+
+Helping fans find accurate event information
+
+  * Helping fans find accurate event information
+  * Using inventory photos to make a merchandise plan
+  * Becoming her own CMO, and growing with AEO
+  * Turning days of work into minutes with ChatGPT Work
+
+
+
+  * Helping fans find accurate event information
+  * Using inventory photos to make a merchandise plan
+  * Becoming her own CMO, and growing with AEO
+  * Turning days of work into minutes with ChatGPT Work
+
+
+
+Families come to ATV Big Air Tour to put down their screens and share the excitement of something real: 75-foot jumps, roaring engines, and memories that last beyond the event. The company describes its performances as family experiences built around live action, interaction, and lasting memories.
+
+ATV Big Air Tour packs nearly 26 tour dates across the United States into a short season running May to November. Co-founders Larissa Guetter and Derek Guetter are literally racing from one community to the next, coordinating travel, riders, equipment, merchandise, marketing, and family life before the next crowd arrives.
+
+As their business was scaling up, they needed help to handle the workload and accelerate growth. ChatGPT Work was the answer, empowering them to offload time-consuming tasks from marketing to merchandising, and operate well beyond their human capacity.
+
+> “We’re a team of two, but using ChatGPT Work lets us compete with businesses that have much bigger budgets and teams. It helps us do the work of multiple team members.”
+
+—Larissa Guetter, Co-founder, ATV Big Air Tour
+
+![Derek and Larissa Guetter of ATV Big Air Tour at the Anoka County Fair.](https://images.ctfassets.net/kftzwdyauwt9/2IVA7l1VUy4G65FthJuOQ8/b7ccd654579e9857202b2ede64879bf0/atv-derek-larissa.jpg?w=3840&q=90&fm=webp)
+
+## Helping fans find accurate event information
+
+ATV Big Air Tour is promoted on many channels, by event organizers, volunteers, ticketing teams, local media, chambers of commerce, and more. But they don’t always get the details right. So Larissa was manually fact-checking about 30 online publications daily.
+
+Finding and correcting the errors was critical to company growth, but it was eating up a full workday every week. With ChatGPT Work, a scheduled briefing now does the work, checking Larissa’s priority sources and finding event listings she didn’t even know about.
+
+“ChatGPT Work runs this report for me every morning. It finds all the inconsistencies all the way across the internet, so I can ensure all of this information is correct,” said Larissa.
+
+ChatGPT Work also suggests the correct contacts for the publications and drafts the correction emails. Larissa shared, “Finding the right people and writing each email would normally be a lengthy process, but within minutes, I have the correction requests ready and sent to every publication that needs to update its website.”
+
+The ChatGPT workflow reduces total review time from around 8 hours to 1 hour per week and helps ATV Big Air Tour maintain accurate event information, ensuring a painless customer experience and making the tour easier to find.
+
+## Using inventory photos to make a merchandise plan
+
+Merchandise gives fans a lasting connection to the experience, but organizing inventory and planning reorders is a highly manual process. Larissa turned to ChatGPT Work for a solution.
+
+She started by taking photos of ATV Big Air Tour’s merchandise and uploading them to ChatGPT Work. ChatGPT organized the inventory, created a spreadsheet and visual inventory website, and generated reorder recommendations in under 15 minutes. Larissa said, “I’m still in shock at how painless this process is now. I used to dread it before!”
+
+Larissa then reviewed the recommendations, made adjustments, and sent the final order to her supplier. The entire process from inventorying to reordering took just two to three hours, down from two to three days.
+
+> “Prior to ChatGPT Work, inventorying and reordering merchandise would take me two to three full days. Now it takes me two to three hours.”
+
+—Larissa Guetter, Co-founder, ATV Big Air Tour
+
+## Becoming her own CMO, and growing with AEO
+
+Larissa knows that growth depends on being discoverable wherever families search, whether they use Google, ChatGPT, or another AI assistant to find family-friendly events and ticket information. But running a two-person company means she cannot hand growth strategy to a marketing team. ChatGPT Work lets her build that capability herself.
+
+“My goal is to be searchable from AI. The way that people are searching for information is changing, and as a small business, it’s very important for us to be on top of this so we can be seen on the same level as our larger competitors,” said Larissa.
+
+Larissa set up a daily ChatGPT Work automation focused on answer engine optimization, or AEO. Each day, ChatGPT audits ATV Big Air Tour’s website to assess whether essential information, including event dates, locations, and ticket details, is clearly structured and easy for AI-powered search tools and assistants like ChatGPT to understand and surface. One audit found that ChatGPT could not retrieve about 90% of the site’s FAQs. ChatGPT Work not only surfaced the issue, it recommended a solution.
+
+Website analytics showed OpenAI search and user-bot hits rising from 183 to 2,421 across consecutive 30-day periods, a 1,223% month-over-month increase. Larissa filtered the results to exclude training bots and other AI platforms.
+
+## Turning days of work into minutes with ChatGPT Work
+
+For ATV Big Air Tour, ChatGPT Work turns business-critical tasks that once took days into workflows Larissa can complete in minutes. Inventory planning dropped from two or three full days to just hours. Scheduled reviews help identify incorrect event information before it reaches fans. Plus, she has a ChatGPT Work automation helping her ensure that the company’s website stays optimized for AI discovery.
+
+> “Honestly, if I didn’t have ChatGPT Work, I don’t know where our business would be right now, because I would still be doing all these tedious tasks.”
+
+—Larissa Guetter, Co-founder, ATV Big Air Tour
+
+By reducing the administrative work behind every tour stop, ChatGPT Work gives Larissa more time to build the show, connect with families, and make the next event even better. Learn more about how ChatGPT Work helps small businesses [in this webinar⁠(opens in a new window)](<https://webinar.openai.com/25-jobs-small-business-does-with-chatgpt-work/>) with Larissa.
+
+## Join the new era of work
+
+More than 1 million businesses around the world are achieving meaningful results with OpenAI.
+
+[Contact sales](</contact-sales/>)
+
+## Keep reading
+
+![How AI-native companies turn workflows into operating capability — card image](https://images.ctfassets.net/kftzwdyauwt9/mSi6hls2IXr3ax2lH8vTj/5a364b116ec5584ec7415feb4c1a7033/index-how-ai-native-companies-turn-workflows-into-operating-capability--cover-v001.png?w=3840&q=90&fm=webp)
+
+[How AI-native companies turn workflows into operating capabilityAI AdoptionSep 1, 2026](</index/ai-native-company-workflows/>)
+
+![Path to Astra — Clean square cover — Neutral Option 062 v1](https://images.ctfassets.net/kftzwdyauwt9/4BabvjDCQdlYN2ISzOkgF9/78d35947274e9b3ac2483377782b007e/astra-cover-v001.png?w=3840&q=90&fm=webp)
+
+[Path to Astra: critical capabilities and frontier safeguardsSafetySep 1, 2026](</index/path-to-astra/>)
+
+![Healthcare hero and SEO — original blue icon on white, smaller icon](https://images.ctfassets.net/kftzwdyauwt9/7pfIDODSObT8A9BTlfXyVc/43262863eeb33d7f4f8e191fe4783cab/healthcare-exact-smaller-icon-hero-2x.png?w=3840&q=90&fm=webp)
+
+[ChatGPT can now connect to healthcare sourcesProductSep 1, 2026](</index/chatgpt-connects-health-records-and-healthcare-sources/>)
+
+Research
+
+  * [Research Index](</research/index/>)
+  * [Research Overview](</research/>)
+  * [Economic Research](</signals/>)
+
+
+
+Latest Advancements
+
+  * [GPT-5.6](</index/gpt-5-6/>)
+  * [GPT-5.5](</index/introducing-gpt-5-5/>)
+  * [GPT-5.4](</index/introducing-gpt-5-4/>)
+
+
+
+Safety
+
+  * [Safety Approach](</safety/>)
+  * [Deployment Safety(opens in a new window)](<https://deploymentsafety.openai.com/>)
+  * [Security & Privacy](</security-and-privacy/>)
+  * [Trust & Transparency](</trust-and-transparency/>)
+
+
+
+Products
+
+  * [ChatGPT(opens in a new window)](<https://chatgpt.com/>)
+  * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
+  * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
+  * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
+  * [Codex](</codex/>)
+  * [Release Notes](</products/release-notes/>)
+
+
+
+API Platform
+
+  * [Overview](</api/>)
+  * [API Log In(opens in a new window)](<https://platform.openai.com/login>)
+  * [Docs(opens in a new window)](<https://developers.openai.com/api/docs>)
+
+
+
+Business
+
+  * [Overview](</business/>)
+  * [Solutions](</solutions/>)
+  * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
+  * [Contact Sales](</contact-sales/>)
+
+
+
+Developers
+
+  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
+  * [Open Models](</open-models/>)
+  * [Docs(opens in a new window)](<https://developers.openai.com/>)
+  * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
+  * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
+
+
+
+Company
+
+  * [About Us](</about/>)
+  * [Our Charter](</charter/>)
+  * [Careers](</careers/>)
+  * [News](</news/>)
+
+
+
+Support
+
+  * [Help Center(opens in a new window)](<https://help.openai.com/>)
+
+
+
+More
+
+  * [Stories](</stories/>)
+  * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
+  * [Livestreams](</live/>)
+  * [Podcast](</podcast/>)
+  * [RSS](<https://openai.com/news/rss.xml>)
+
+
+
+Terms & Policies
+
+  * [Terms of Use](</policies/terms-of-use/>)
+  * [Privacy Policy](</policies/privacy-policy/>)
+  * [Other Policies ](</policies/>)
+
+
+
+[(opens in a new window)](<https://x.com/OpenAI>)[(opens in a new window)](<https://www.youtube.com/OpenAI>)[(opens in a new window)](<https://www.linkedin.com/company/openai>)[(opens in a new window)](<https://github.com/openai>)[(opens in a new window)](<https://www.instagram.com/openai/>)[(opens in a new window)](<https://www.tiktok.com/@openai>)[(opens in a new window)](<https://discord.gg/openai>)
+
+OpenAI © 2015–2026Your privacy choices
+
+EnglishUnited States

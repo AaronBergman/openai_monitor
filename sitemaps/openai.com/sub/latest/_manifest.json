@@ -1,18 +1,18 @@
 {
-  "fetch_time": "2026-08-31T09:16:33Z",
+  "fetch_time": "2026-09-03T09:17:40Z",
   "root_url": "https://openai.com/sitemap.xml",
   "sub_sitemaps": [
     {
       "section": "page",
       "url": "https://openai.com/sitemap.xml/page/",
       "file": "sitemap.xml_page.xml",
-      "count": 496
+      "count": 498
     },
     {
       "section": "ai-adoption",
       "url": "https://openai.com/sitemap.xml/ai-adoption/",
       "file": "sitemap.xml_ai-adoption.xml",
-      "count": 9
+      "count": 10
     },
     {
       "section": "api",
@@ -66,13 +66,13 @@
       "section": "apps-go-to-market",
       "url": "https://openai.com/sitemap.xml/apps-go-to-market/",
       "file": "sitemap.xml_apps-go-to-market.xml",
-      "count": 14
+      "count": 11
     },
     {
       "section": "apps-project-management",
       "url": "https://openai.com/sitemap.xml/apps-project-management/",
       "file": "sitemap.xml_apps-project-management.xml",
-      "count": 9
+      "count": 6
     },
     {
       "section": "brand-stories-api",
@@ -144,7 +144,7 @@
       "section": "learn-guides",
       "url": "https://openai.com/sitemap.xml/learn-guides/",
       "file": "sitemap.xml_learn-guides.xml",
-      "count": 10
+      "count": 12
     },
     {
       "section": "learn-openai-on-openai",
@@ -168,7 +168,7 @@
       "section": "product",
       "url": "https://openai.com/sitemap.xml/product/",
       "file": "sitemap.xml_product.xml",
-      "count": 176
+      "count": 178
     },
     {
       "section": "publication",
@@ -192,13 +192,13 @@
       "section": "safety",
       "url": "https://openai.com/sitemap.xml/safety/",
       "file": "sitemap.xml_safety.xml",
-      "count": 108
+      "count": 109
     },
     {
       "section": "security",
       "url": "https://openai.com/sitemap.xml/security/",
       "file": "sitemap.xml_security.xml",
-      "count": 47
+      "count": 48
     },
     {
       "section": "sora",

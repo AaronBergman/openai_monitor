@@ -90,47 +90,11 @@ The model excels at different types of editing—including adding, subtracting, 
 
 From party to livestreamLA skateboarding
 
-![chatgpt-images-example-1-input-2](//images.ctfassets.net/kftzwdyauwt9/5cwVlwaPmq2DToD9aownyp/e96fe76cb42c7494970aa2228e0601e8/chatgpt-images-example-1-input-2.png?w=640&q=90&fm=webp)![chatgpt-images-example-1-input-1](//images.ctfassets.net/kftzwdyauwt9/3ItRm2R52GpUvn4o98aTE1/7a0679e3821ba3c4833d1f81baacd03b/chatgpt-images-example-1-input-1.png?w=640&q=90&fm=webp)![chatgpt-images-example-1-input-2](//images.ctfassets.net/kftzwdyauwt9/6u6hRASp14bolVMdGkRsjz/f507cedcf291a87708155c7e37649d66/chatgpt-images-example-1-input-3.png?w=640&q=90&fm=webp)
-
-Combine the two men and the dog in a 2000s film camera-style photo of them looking bored at a kids birthday party.
-
-![chatgpt-images-example-1-output-1](//images.ctfassets.net/kftzwdyauwt9/3p5PZNWvpu3Ok2c42uyVBC/4bc40d7dfa085b24319dc9c145f52414/chatgpt-images-example-1-output-1.png?w=1920&q=90&fm=webp)
-
-Add chaotic kids in the background throwing things and screaming.
-
-![chatgpt-images-example-1-output-2](//images.ctfassets.net/kftzwdyauwt9/2OIjA3Xse41wKoqZYvufop/6bc2e7a400a7a96cf8d728854094d885/chatgpt-images-example-1-output-2.png?w=1920&q=90&fm=webp)
-
-Change the man on the left to a hand-drawn retro anime style, the dog to plushie style, keep the man on the right and background scenery the way they are.
-
-![chatgpt-images-example-1-output-3](//images.ctfassets.net/kftzwdyauwt9/233U5wNOE8Qz31D2YPOWci/f56c30ec626979c40c2fb73417bcf7b6/new-save.png?w=1920&q=90&fm=webp)
-
-![Screenshot 2025-12-12 at 10.23.01 AM](//images.ctfassets.net/kftzwdyauwt9/7AOaHOowpPaPvpDNW5cWXB/50e16c5d86f5524def326ca45c7e2a49/Screenshot_2025-12-12_at_10.23.01â__AM.png?w=640&q=90&fm=webp)
-
-Put them all in OpenAI sweaters that look like this. 
-
-![chatgpt-images-example-1-output-4](//images.ctfassets.net/kftzwdyauwt9/6bb3sSytfKWr5fcp90rItt/818818b77194486fd3e5865d3be5d27d/MIX-1.png?w=1920&q=90&fm=webp)
-
-Now remove the two men, just keep the dog, and put them in an OpenAI livestream that looks like the attached image. 
-
-![chatgpt-images-example-1-output-5](//images.ctfassets.net/kftzwdyauwt9/knEVvEnwmh6Y34ilARz8L/45f421babe24542d797359e0ccdcc557/livestream.png?w=1920&q=90&fm=webp)
-
 ### Creative transformations
 
 The model’s creativity shines through transformations that change and add elements—like text and layout—to bring ideas to life, while preserving important details. These transformations work for both simple and more intricate concepts, and are easy to try using preset styles and ideas in the new [ChatGPT Images⁠(opens in a new window)](<http://chatgpt.com/images>) feature—no written prompt required.
 
 Movie poster80s fitness instructorGlam dollOrnamentFashion adDress-up characterPaintingDrink ad
-
-![chatgpt-images-example-3-output-1](//images.ctfassets.net/kftzwdyauwt9/77uYvKV8jy6mBCKttWwLSY/12d2740c5825f7a5c11b7cb1a5b09da4/chatgpt-images-example-3-output-1.png?w=640&q=90&fm=webp)
-
-Make an old school golden age hollywood movie poster of a movie called 'codex' from the image of these two men. feel free to change their costumes to fit the times
-
-Change the names of the actors to Wojciech Zaremba (left) and Greg Brockman (right) 
-
-Directed by Sam Altman, produced by Fidji Simo. A Feel the AGI Pictures Production.
-
-Read more
-
-![chatgpt-images-example-3-output-2](//images.ctfassets.net/kftzwdyauwt9/3clHZx77q5d4oU2yP93p9Z/4fc98e68d06ab23af6d4407172d8380e/codex-redux.png?w=1080&q=90&fm=webp)
 
 ### Instruction following 
 
@@ -186,135 +150,11 @@ The model takes another step ahead in text rendering, capable of handling denser
 
 Markdown renderingCalorie infographicCoding
 
-There is a newspaper on a desk. The newspaper shows the markdown below laid out as a **natural** newspaper article. Preserve all content, formatting, and numbers exactly. The image should be tall.
-
-# Introducing GPT‑5.2
-
-### *The most advanced frontier model for professional work and long-running agents*
-
-**December 11, 2025**
-
-\---
-
-We are introducing **GPT‑5.2**, the most capable model series yet for professional knowledge work.
-
-Already, the average ChatGPT Enterprise user says AI saves them 40–60 minutes a day, and heavy users say it saves them more than 10 hours a week. We designed GPT‑5.2 to unlock even more economic value for people; it’s better at creating spreadsheets, building presentations, writing code, perceiving images, understanding long contexts, using tools, and handling complex, multi-step projects.
-
-GPT‑5.2 sets a new state of the art across many benchmarks, including GDPval, where it outperforms industry professionals at well-specified knowledge work tasks spanning 44 occupations.
-
-\---
-
-## Benchmark highlights
-
-| Benchmark | Domain | GPT‑5.2 Thinking | GPT‑5.1 Thinking |
-
-|---|---|---:|---:|
-
-| GDPval (wins or ties) | Knowledge work tasks | **70.9%** | 38.8% (GPT‑5) |
-
-| SWE-Bench Pro (public) | Software engineering | **55.6%** | 50.8% |
-
-| SWE-bench Verified | Software engineering | **80.0%** | 76.3% |
-
-| GPQA Diamond (no tools) | Science questions | **92.4%** | 88.1% |
-
-| CharXiv Reasoning (w/ Python) | Scientific figure questions | **88.7%** | 80.3% |
-
-| AIME 2025 (no tools) | Competition math | **100.0%** | 94.0% |
-
-| FrontierMath (Tier 1–3) | Advanced mathematics | **40.3%** | 31.0% |
-
-| FrontierMath (Tier 4) | Advanced mathematics | **14.6%** | 12.5% |
-
-| ARC-AGI-1 (Verified) | Abstract reasoning | **86.2%** | 72.8% |
-
-| ARC-AGI-2 (Verified) | Abstract reasoning | **52.9%** | 17.6% |
-
-\---
-
-Notion, Box, Shopify, Harvey, and Zoom observed that GPT‑5.2 demonstrates state-of-the-art long-horizon reasoning and tool-calling performance. Databricks, Hex, and Triple Whale found GPT‑5.2 to be exceptional at agentic data science and document analysis tasks. Cognition, Warp, Charlie Labs, JetBrains, and Augment Code report that GPT‑5.2 delivers state-of-the-art agentic coding performance, with measurable improvements in areas such as interactive coding, code reviews, and bug finding.
-
-In ChatGPT, GPT‑5.2 Instant, Thinking, and Pro will begin rolling out today, starting with paid plans. In the API, they are available now to all developers.
-
-Overall, GPT‑5.2 brings significant improvements in general intelligence, long-context understanding, agentic tool-calling, and vision—making it better at executing complex, real-world tasks end-to-end than any previous model.
-
-Read more
-
-![chatgpt-images-text-rendering-2](//images.ctfassets.net/kftzwdyauwt9/3DoDfZK3NJkTRfPoDyFST/886db80876a70561a50a277809e87b70/gpt5.2.png?w=1080&q=90&fm=webp)
-
-Now change the article to the markdown below:
-
-# Introducing GPT‑Image‑1.5
-
-### *The new and improved ChatGPT Images*
-
-**December 16, 2025**
-
-\---
-
-Today, we’re introducing a new and improved version of ChatGPT Images, powered by our best image generation model yet. With stronger instruction following and more precise editing, ChatGPT Images delivers the changes you ask for while keeping important details like facial likeness consistent across edits—now with generation speeds up to **4× faster**, making it easier to iterate and explore ideas with less waiting.
-
-This is our most capable general-purpose text-to-image model to date, with more expressive transformations, improved dense text rendering, and more natural-looking results. Whether you’re making a tiny fix or a total reinvention, you can simply say what you want—or choose from preset styles and ideas in the new Images experience—and ChatGPT handles the rest, delivering results that are both useful and compelling, and better match your intent.
-
-The new Images model and experience is beginning to roll out today in ChatGPT for all users, and in the API as **GPT‑Image‑1.5**.
-
-\---
-
-## Results that match your intent
-
-The model now follows instructions more reliably—down to the small details—changing what you ask for while able to keep elements like lighting, composition, and likeness consistent across inputs, outputs, and subsequent edits.
-
-This unlocks results that match your intent—more useful photo edits, more believable clothing and hairstyle try-ons, alongside stylistic filters and conceptual transformations that retain the essence of the original image. Together, these improvements mean ChatGPT can act as a creative studio in your pocket, capable of both practical edits and expressive reimaginings.
-
-### Editing
-
-The model excels at different types of editing so you get the changes you want without losing what makes the image special.
-
-### Creative Transformations
-
-The model’s creativity shines with creative transformations, changing and adding elements—like text and layout—that help the concept come to life while maintaining important details.
-
-### Instruction Following
-
-The model is able to better follow instructions versus GPT Image 1.0.
-
-### Text Rendering
-
-The model takes another step ahead in text rendering, capable of handling denser and smaller text.
-
-\---
-
-## A new creation space
-
-In addition to asking for images through ChatGPT by describing what you’d like to see, we’re also introducing a dedicated Images experience in the ChatGPT sidebar to make exploring and trying images easier and quicker. This includes preset filters and trending prompts to jump-start inspiration, as well as a one-time likeness upload so you can reuse your appearance across future creations without the need to go through your camera roll again.
-
-Together, these upgrades let you create images that better match your vision, from small edits to full reimaginings. Images now render up to four times faster, and you can continue generating new images while others are still in progress—so you can explore more ideas without waiting.
-
-Read more
-
-![chatgpt-images-text-rendering-3](//images.ctfassets.net/kftzwdyauwt9/3qG8z6RRO8GpUVM974J1a6/898fd15b1f08464edca95b194925c71c/image1.5.png?w=1080&q=90&fm=webp)
-
 ### Additional quality improvements 
 
 The model also improves on additional dimensions that translate to more immediately usable outputs, like rendering many small faces and how natural outputs look. 
 
 1970s LondonMany small facesDiver playing pianoPhoto with glare
-
-## New
-
-make a scene in chelsea, london in the 1970s, photorealistic, everything in focus, with tons of people, and a bus with an advertisement for "ImageGen 1.5" with the OpenAI logo and subtitle "Create what you imagine". Hyper-realistic amateur photography, iPhone snapshot quality…
-
-Read more
-
-![chatgpt-images-quality-1](//images.ctfassets.net/kftzwdyauwt9/61MZEpV2QadEsiVho5qUMs/a3d65485561efea74bb2722f7cf18df9/chatgpt-images-quality-1.png?w=1080&q=90&fm=webp)
-
-## Previous
-
-make a scene in chelsea, london in the 1970s, photorealistic, everything in focus, with tons of people, and a bus with an advertisement for "ImageGen 1.5" with the OpenAI logo and subtitle "Create what you imagine". Hyper-realistic amateur photography, iPhone snapshot quality…
-
-Read more
-
-![chatgpt-images-quality-2](//images.ctfassets.net/kftzwdyauwt9/4yp8kLpiKfITKiv6Hq7lug/6333f8e6a413c76b4270e1a2b394f7a0/chatgpt-images-quality-2.png?w=1080&q=90&fm=webp)
 
 ## A new creation space
 
@@ -328,21 +168,7 @@ We reran many of the examples from our initial image generation launch to evalua
 
 Deep sea poster (Improvement)World capitals (Improvement)Styles (Limitation)Multiple faces (Limitation)Multilingual (Limitation)
 
-## New
-
-create a poster of deep sea creatures at different depths, with a vertical ocean cutaway, styled in a beautiful japanese detailed anime style
-
-![chatgpt-images-output-1](//images.ctfassets.net/kftzwdyauwt9/77XvMAI2huKmd6qa0xnJQ8/2787c7f0a64df24dadd319d75a3497b6/sea.png?w=1080&q=90&fm=webp)
-
-## Previous
-
-create a poster of deep sea creatures at different depths, with a vertical ocean cutaway, styled in a beautiful japanese detailed anime style
-
-![chatgpt-images-output-2](//images.ctfassets.net/kftzwdyauwt9/6a108zSSu5emrU1xR3Sny1/b54a42baec20a0444f6f91f17b0bb882/chatgpt-images-output-2.png?w=1080&q=90&fm=webp)
-
- _Still some scientific inaccuracies, but ~70% correct and much more vivid graphics, avoids premature cropping._
-
-##  GPT Image 1.5 in the API
+## GPT Image 1.5 in the API
 
 [GPT Image 1.5 in the API⁠(opens in a new window)](<https://platform.openai.com/docs/guides/image-generation>) delivers all the same improvements as ChatGPT Images: it’s stronger at image preservation and editing than GPT Image 1.
 
@@ -356,19 +182,7 @@ Enterprises and startups across industries, including creative tools, e-commerce
 
 WixCanvaHiggsfieldFigma WeaveEnvatoShutterstock
 
-## New
-
-![chatgpt-images-API-output-1](//images.ctfassets.net/kftzwdyauwt9/2vsRNfefHCygu3Zbp0sAnt/71f8a390c45bc7a7d3131d3cf99b70d2/chatgpt-images-API-output-1.png?w=1080&q=90&fm=webp)
-
-## Previous
-
-![chatgpt-images-API-output-2](//images.ctfassets.net/kftzwdyauwt9/7cnGdkLJyPB51iKlxz9tnH/bdd379def09944aa3fe41091b7ca3e17/chatgpt-images-API-output-2.png?w=1080&q=90&fm=webp)
-
- _“GPT Image 1.5 generates high-fidelity images with strong prompt adherence, preserving composition, lighting, and fine-grained detail. The results are clean, realistic, and reliable, supporting faster concept-to-production workflows on platforms like Wix. Based on our testing and the main use cases we see at Wix, the consistency and quality compete to make it one of the flagship image generation models today.”_
-
- _— Hila Gat, Head of AI Research and Data Science at Wix_
-
-##  Availability
+## Availability
 
 The new [ChatGPT Images⁠(opens in a new window)](<http://chatgpt.com/images>) model is **rolling out now to all ChatGPT users and API users globally** today across surfaces. It works across models, so you don’t need to select anything in order to use it. The version of ChatGPT Images that launched earlier this year will remain available to all users as a [custom GPT⁠(opens in a new window)](<https://chatgpt.com/g/g-6940a876d5f4819186b4668deabcd580-4o-imagegen>).
 
@@ -568,3 +382,189 @@ Terms & Policies
 OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
+
+![chatgpt-images-example-1-input-2](//images.ctfassets.net/kftzwdyauwt9/5cwVlwaPmq2DToD9aownyp/e96fe76cb42c7494970aa2228e0601e8/chatgpt-images-example-1-input-2.png?w=640&q=90&fm=webp)![chatgpt-images-example-1-input-1](//images.ctfassets.net/kftzwdyauwt9/3ItRm2R52GpUvn4o98aTE1/7a0679e3821ba3c4833d1f81baacd03b/chatgpt-images-example-1-input-1.png?w=640&q=90&fm=webp)![chatgpt-images-example-1-input-2](//images.ctfassets.net/kftzwdyauwt9/6u6hRASp14bolVMdGkRsjz/f507cedcf291a87708155c7e37649d66/chatgpt-images-example-1-input-3.png?w=640&q=90&fm=webp)
+
+Combine the two men and the dog in a 2000s film camera-style photo of them looking bored at a kids birthday party.
+
+![chatgpt-images-example-1-output-1](//images.ctfassets.net/kftzwdyauwt9/3p5PZNWvpu3Ok2c42uyVBC/4bc40d7dfa085b24319dc9c145f52414/chatgpt-images-example-1-output-1.png?w=1920&q=90&fm=webp)
+
+Add chaotic kids in the background throwing things and screaming.
+
+![chatgpt-images-example-1-output-2](//images.ctfassets.net/kftzwdyauwt9/2OIjA3Xse41wKoqZYvufop/6bc2e7a400a7a96cf8d728854094d885/chatgpt-images-example-1-output-2.png?w=1920&q=90&fm=webp)
+
+Change the man on the left to a hand-drawn retro anime style, the dog to plushie style, keep the man on the right and background scenery the way they are.
+
+![chatgpt-images-example-1-output-3](//images.ctfassets.net/kftzwdyauwt9/233U5wNOE8Qz31D2YPOWci/f56c30ec626979c40c2fb73417bcf7b6/new-save.png?w=1920&q=90&fm=webp)
+
+![Screenshot 2025-12-12 at 10.23.01 AM](//images.ctfassets.net/kftzwdyauwt9/7AOaHOowpPaPvpDNW5cWXB/50e16c5d86f5524def326ca45c7e2a49/Screenshot_2025-12-12_at_10.23.01â__AM.png?w=640&q=90&fm=webp)
+
+Put them all in OpenAI sweaters that look like this. 
+
+![chatgpt-images-example-1-output-4](//images.ctfassets.net/kftzwdyauwt9/6bb3sSytfKWr5fcp90rItt/818818b77194486fd3e5865d3be5d27d/MIX-1.png?w=1920&q=90&fm=webp)
+
+Now remove the two men, just keep the dog, and put them in an OpenAI livestream that looks like the attached image. 
+
+![chatgpt-images-example-1-output-5](//images.ctfassets.net/kftzwdyauwt9/knEVvEnwmh6Y34ilARz8L/45f421babe24542d797359e0ccdcc557/livestream.png?w=1920&q=90&fm=webp)
+
+![chatgpt-images-example-3-output-1](//images.ctfassets.net/kftzwdyauwt9/77uYvKV8jy6mBCKttWwLSY/12d2740c5825f7a5c11b7cb1a5b09da4/chatgpt-images-example-3-output-1.png?w=640&q=90&fm=webp)
+
+Make an old school golden age hollywood movie poster of a movie called 'codex' from the image of these two men. feel free to change their costumes to fit the times
+
+Change the names of the actors to Wojciech Zaremba (left) and Greg Brockman (right) 
+
+Directed by Sam Altman, produced by Fidji Simo. A Feel the AGI Pictures Production.
+
+Read more
+
+![chatgpt-images-example-3-output-2](//images.ctfassets.net/kftzwdyauwt9/3clHZx77q5d4oU2yP93p9Z/4fc98e68d06ab23af6d4407172d8380e/codex-redux.png?w=1080&q=90&fm=webp)
+
+There is a newspaper on a desk. The newspaper shows the markdown below laid out as a **natural** newspaper article. Preserve all content, formatting, and numbers exactly. The image should be tall.
+
+# Introducing GPT‑5.2
+
+### *The most advanced frontier model for professional work and long-running agents*
+
+**December 11, 2025**
+
+\---
+
+We are introducing **GPT‑5.2**, the most capable model series yet for professional knowledge work.
+
+Already, the average ChatGPT Enterprise user says AI saves them 40–60 minutes a day, and heavy users say it saves them more than 10 hours a week. We designed GPT‑5.2 to unlock even more economic value for people; it’s better at creating spreadsheets, building presentations, writing code, perceiving images, understanding long contexts, using tools, and handling complex, multi-step projects.
+
+GPT‑5.2 sets a new state of the art across many benchmarks, including GDPval, where it outperforms industry professionals at well-specified knowledge work tasks spanning 44 occupations.
+
+\---
+
+## Benchmark highlights
+
+| Benchmark | Domain | GPT‑5.2 Thinking | GPT‑5.1 Thinking |
+
+|---|---|---:|---:|
+
+| GDPval (wins or ties) | Knowledge work tasks | **70.9%** | 38.8% (GPT‑5) |
+
+| SWE-Bench Pro (public) | Software engineering | **55.6%** | 50.8% |
+
+| SWE-bench Verified | Software engineering | **80.0%** | 76.3% |
+
+| GPQA Diamond (no tools) | Science questions | **92.4%** | 88.1% |
+
+| CharXiv Reasoning (w/ Python) | Scientific figure questions | **88.7%** | 80.3% |
+
+| AIME 2025 (no tools) | Competition math | **100.0%** | 94.0% |
+
+| FrontierMath (Tier 1–3) | Advanced mathematics | **40.3%** | 31.0% |
+
+| FrontierMath (Tier 4) | Advanced mathematics | **14.6%** | 12.5% |
+
+| ARC-AGI-1 (Verified) | Abstract reasoning | **86.2%** | 72.8% |
+
+| ARC-AGI-2 (Verified) | Abstract reasoning | **52.9%** | 17.6% |
+
+\---
+
+Notion, Box, Shopify, Harvey, and Zoom observed that GPT‑5.2 demonstrates state-of-the-art long-horizon reasoning and tool-calling performance. Databricks, Hex, and Triple Whale found GPT‑5.2 to be exceptional at agentic data science and document analysis tasks. Cognition, Warp, Charlie Labs, JetBrains, and Augment Code report that GPT‑5.2 delivers state-of-the-art agentic coding performance, with measurable improvements in areas such as interactive coding, code reviews, and bug finding.
+
+In ChatGPT, GPT‑5.2 Instant, Thinking, and Pro will begin rolling out today, starting with paid plans. In the API, they are available now to all developers.
+
+Overall, GPT‑5.2 brings significant improvements in general intelligence, long-context understanding, agentic tool-calling, and vision—making it better at executing complex, real-world tasks end-to-end than any previous model.
+
+Read more
+
+![chatgpt-images-text-rendering-2](//images.ctfassets.net/kftzwdyauwt9/3DoDfZK3NJkTRfPoDyFST/886db80876a70561a50a277809e87b70/gpt5.2.png?w=1080&q=90&fm=webp)
+
+Now change the article to the markdown below:
+
+# Introducing GPT‑Image‑1.5
+
+### *The new and improved ChatGPT Images*
+
+**December 16, 2025**
+
+\---
+
+Today, we’re introducing a new and improved version of ChatGPT Images, powered by our best image generation model yet. With stronger instruction following and more precise editing, ChatGPT Images delivers the changes you ask for while keeping important details like facial likeness consistent across edits—now with generation speeds up to **4× faster**, making it easier to iterate and explore ideas with less waiting.
+
+This is our most capable general-purpose text-to-image model to date, with more expressive transformations, improved dense text rendering, and more natural-looking results. Whether you’re making a tiny fix or a total reinvention, you can simply say what you want—or choose from preset styles and ideas in the new Images experience—and ChatGPT handles the rest, delivering results that are both useful and compelling, and better match your intent.
+
+The new Images model and experience is beginning to roll out today in ChatGPT for all users, and in the API as **GPT‑Image‑1.5**.
+
+\---
+
+## Results that match your intent
+
+The model now follows instructions more reliably—down to the small details—changing what you ask for while able to keep elements like lighting, composition, and likeness consistent across inputs, outputs, and subsequent edits.
+
+This unlocks results that match your intent—more useful photo edits, more believable clothing and hairstyle try-ons, alongside stylistic filters and conceptual transformations that retain the essence of the original image. Together, these improvements mean ChatGPT can act as a creative studio in your pocket, capable of both practical edits and expressive reimaginings.
+
+### Editing
+
+The model excels at different types of editing so you get the changes you want without losing what makes the image special.
+
+### Creative Transformations
+
+The model’s creativity shines with creative transformations, changing and adding elements—like text and layout—that help the concept come to life while maintaining important details.
+
+### Instruction Following
+
+The model is able to better follow instructions versus GPT Image 1.0.
+
+### Text Rendering
+
+The model takes another step ahead in text rendering, capable of handling denser and smaller text.
+
+\---
+
+## A new creation space
+
+In addition to asking for images through ChatGPT by describing what you’d like to see, we’re also introducing a dedicated Images experience in the ChatGPT sidebar to make exploring and trying images easier and quicker. This includes preset filters and trending prompts to jump-start inspiration, as well as a one-time likeness upload so you can reuse your appearance across future creations without the need to go through your camera roll again.
+
+Together, these upgrades let you create images that better match your vision, from small edits to full reimaginings. Images now render up to four times faster, and you can continue generating new images while others are still in progress—so you can explore more ideas without waiting.
+
+Read more
+
+![chatgpt-images-text-rendering-3](//images.ctfassets.net/kftzwdyauwt9/3qG8z6RRO8GpUVM974J1a6/898fd15b1f08464edca95b194925c71c/image1.5.png?w=1080&q=90&fm=webp)
+
+## New
+
+make a scene in chelsea, london in the 1970s, photorealistic, everything in focus, with tons of people, and a bus with an advertisement for "ImageGen 1.5" with the OpenAI logo and subtitle "Create what you imagine". Hyper-realistic amateur photography, iPhone snapshot quality…
+
+Read more
+
+![chatgpt-images-quality-1](//images.ctfassets.net/kftzwdyauwt9/61MZEpV2QadEsiVho5qUMs/a3d65485561efea74bb2722f7cf18df9/chatgpt-images-quality-1.png?w=1080&q=90&fm=webp)
+
+## Previous
+
+make a scene in chelsea, london in the 1970s, photorealistic, everything in focus, with tons of people, and a bus with an advertisement for "ImageGen 1.5" with the OpenAI logo and subtitle "Create what you imagine". Hyper-realistic amateur photography, iPhone snapshot quality…
+
+Read more
+
+![chatgpt-images-quality-2](//images.ctfassets.net/kftzwdyauwt9/4yp8kLpiKfITKiv6Hq7lug/6333f8e6a413c76b4270e1a2b394f7a0/chatgpt-images-quality-2.png?w=1080&q=90&fm=webp)
+
+## New
+
+create a poster of deep sea creatures at different depths, with a vertical ocean cutaway, styled in a beautiful japanese detailed anime style
+
+![chatgpt-images-output-1](//images.ctfassets.net/kftzwdyauwt9/77XvMAI2huKmd6qa0xnJQ8/2787c7f0a64df24dadd319d75a3497b6/sea.png?w=1080&q=90&fm=webp)
+
+## Previous
+
+create a poster of deep sea creatures at different depths, with a vertical ocean cutaway, styled in a beautiful japanese detailed anime style
+
+![chatgpt-images-output-2](//images.ctfassets.net/kftzwdyauwt9/6a108zSSu5emrU1xR3Sny1/b54a42baec20a0444f6f91f17b0bb882/chatgpt-images-output-2.png?w=1080&q=90&fm=webp)
+
+ _Still some scientific inaccuracies, but ~70% correct and much more vivid graphics, avoids premature cropping._
+
+## New
+
+![chatgpt-images-API-output-1](//images.ctfassets.net/kftzwdyauwt9/2vsRNfefHCygu3Zbp0sAnt/71f8a390c45bc7a7d3131d3cf99b70d2/chatgpt-images-API-output-1.png?w=1080&q=90&fm=webp)
+
+## Previous
+
+![chatgpt-images-API-output-2](//images.ctfassets.net/kftzwdyauwt9/7cnGdkLJyPB51iKlxz9tnH/bdd379def09944aa3fe41091b7ca3e17/chatgpt-images-API-output-2.png?w=1080&q=90&fm=webp)
+
+ _“GPT Image 1.5 generates high-fidelity images with strong prompt adherence, preserving composition, lighting, and fine-grained detail. The results are clean, realistic, and reliable, supporting faster concept-to-production workflows on platforms like Wix. Based on our testing and the main use cases we see at Wix, the consistency and quality compete to make it one of the flagship image generation models today.”_
+
+ _— Hila Gat, Head of AI Research and Data Science at Wix_

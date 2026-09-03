@@ -54,6 +54,14 @@ Where decisions take shape
 
 
 
+** _Update on August 31, 2026_** _: Self-service access to ChatGPT Ads through Ads Manager is now available across the 31 European markets announced below._
+
+_Businesses interested in getting started can sign up at_[ __ads.openai.com__ ⁠(opens in a new window)](<http://ads.openai.com>)_._
+
+* * *
+
+**_Originally published on August 18, 2026_**
+
 Next week, ChatGPT Ads will expand to 31 European countries, including Germany, France, Spain, Italy, Sweden, Norway, Denmark, the Netherlands, and Austria.
 
 Advertisers will initially be able to access ChatGPT Ads through the OpenAI Ads Solutions team, agency partners, and technology partners. Self-service access through Ads Manager will follow later this summer.

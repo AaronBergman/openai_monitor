@@ -82,12 +82,6 @@ Health is built with layered privacy and security safeguards. Connected medical 
 
 Technical program managerPortfolio managerNurseConsultantSmall business ownerOperations managerConsultant
 
-“The most useful part has been turning scattered medical history into something I can actually understand and explain. I have multiple overlapping issues and ChatGPT helped connect those pieces into a clear timeline, explain the medical terms in plain English, and create summaries I could share with a physical therapist or trainer.
-
-This has helped me feel less lost in my own health history. Instead of just seeing disconnected diagnoses, imaging results, and surgery notes, I could understand the bigger pattern. It made the information more usable and gave me better language to advocate for myself with providers and trainers.”
-
-—Blake, technical program manager
-
 ## Health conversations grounded in your information
 
 Earlier this year, we introduced a [_dedicated health experience_ ⁠](<https://openai.com/index/introducing-chatgpt-health/>) to a limited group of users that required visiting a separate space in ChatGPT to get the full benefit. Early testing showed that health questions often arose naturally in the course of conversations. For example, while planning meals or looking for recipes, someone might want ChatGPT to take a food allergy or dietary restriction into account. Among people with access, more than 70% of health-related conversations took place outside the dedicated health experience. Moving to a separate space added an unnecessary step.
@@ -97,8 +91,6 @@ Based on that feedback, you can now choose to let ChatGPT draw on relevant infor
 Health, in the left sidebar, remains your home base for connecting and managing your information, seeing recent data and trends, exploring suggested prompts, browsing synced records, and returning to past health conversations.
 
 Take action todayMeal planningHealth summaryFinding patternsAppointment prepExercise planning
-
-![Mobile phone showing a ChatGPT Health conversation recommending a 25-minute brisk walk after dinner, based on the user’s recent activity and missed workout.](https://images.ctfassets.net/kftzwdyauwt9/401YnvyXTYuaYIEWxnV48W/4113364c476df0fd17cce4d6e299e7d0/Health_Chat_1.png?w=3840&q=90&fm=webp)
 
 ## Improving health intelligence with physicians
 
@@ -290,3 +282,11 @@ Terms & Policies
 OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
+
+“The most useful part has been turning scattered medical history into something I can actually understand and explain. I have multiple overlapping issues and ChatGPT helped connect those pieces into a clear timeline, explain the medical terms in plain English, and create summaries I could share with a physical therapist or trainer.
+
+This has helped me feel less lost in my own health history. Instead of just seeing disconnected diagnoses, imaging results, and surgery notes, I could understand the bigger pattern. It made the information more usable and gave me better language to advocate for myself with providers and trainers.”
+
+—Blake, technical program manager
+
+![Mobile phone showing a ChatGPT Health conversation recommending a 25-minute brisk walk after dinner, based on the user’s recent activity and missed workout.](https://images.ctfassets.net/kftzwdyauwt9/401YnvyXTYuaYIEWxnV48W/4113364c476df0fd17cce4d6e299e7d0/Health_Chat_1.png?w=3840&q=90&fm=webp)

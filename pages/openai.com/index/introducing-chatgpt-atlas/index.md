@@ -82,17 +82,9 @@ Download at [_chatgpt.com/atlas_ ⁠(opens in a new window)](<https://chatgpt.co
 
 Open a tabAsk ChatGPTUse cursor
 
-![Atlas Browser window displaying the ChatGPT home screen with a search bar in the center. The user has typed ‘vrbo.com,’ and autocomplete suggestions include the VRBO homepage, VRBO login, and VRBO owner login links. The interface has a clean white background with a subtle blue gradient.](https://images.ctfassets.net/kftzwdyauwt9/7saYDwdsN5rfcrScPjtR7p/3f820ca3c9ad23a138c037a17248ab75/Homepage.png?w=3840&q=90&fm=webp)
-
-The new tab page is your starting point in Atlas. Ask a question or enter a URL to see faster, more useful results in one place. To explore more specific types of results beyond the chat, select from tabs for search links, images, videos, and news (where available).
-
 ### Built around you
 
 Personalized suggestionsAsk for anything
-
-![ChatGPT Atlas home screen in a web browser displaying a search bar with suggested prompts below it. The suggestions include: ‘Find holiday recipes,’ ‘Research holiday gifts,’ ‘Agent mode,’ and ‘Finish holiday shopping,’ each followed by short example queries like adding grocery items to Instacart or pulling product links from previous research.](https://images.ctfassets.net/kftzwdyauwt9/axYUBJJCjU0qUf2hUWXpF/8764219debcf3479ad305a54a5870a6e/Suggestions.png?w=3840&q=90&fm=webp)
-
-ChatGPT can remember what you’ve explored and suggest what to do next, whether that’s returning to past pages, digging deeper into a topic, surfacing related ideas, or automating routine tasks.
 
 ## More capability, more control
 
@@ -278,3 +270,11 @@ Terms & Policies
 OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
+
+![Atlas Browser window displaying the ChatGPT home screen with a search bar in the center. The user has typed ‘vrbo.com,’ and autocomplete suggestions include the VRBO homepage, VRBO login, and VRBO owner login links. The interface has a clean white background with a subtle blue gradient.](https://images.ctfassets.net/kftzwdyauwt9/7saYDwdsN5rfcrScPjtR7p/3f820ca3c9ad23a138c037a17248ab75/Homepage.png?w=3840&q=90&fm=webp)
+
+The new tab page is your starting point in Atlas. Ask a question or enter a URL to see faster, more useful results in one place. To explore more specific types of results beyond the chat, select from tabs for search links, images, videos, and news (where available).
+
+![ChatGPT Atlas home screen in a web browser displaying a search bar with suggested prompts below it. The suggestions include: ‘Find holiday recipes,’ ‘Research holiday gifts,’ ‘Agent mode,’ and ‘Finish holiday shopping,’ each followed by short example queries like adding grocery items to Instacart or pulling product links from previous research.](https://images.ctfassets.net/kftzwdyauwt9/axYUBJJCjU0qUf2hUWXpF/8764219debcf3479ad305a54a5870a6e/Suggestions.png?w=3840&q=90&fm=webp)
+
+ChatGPT can remember what you’ve explored and suggest what to do next, whether that’s returning to past pages, digging deeper into a topic, surfacing related ideas, or automating routine tasks.

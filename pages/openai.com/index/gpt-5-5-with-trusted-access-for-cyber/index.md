@@ -188,10 +188,6 @@ We’re working with these partners to help us evaluate how those capabilities t
 
 CiscoCrowdStrikePalo Alto NetworksOracleZscalerCloudflareAkamaiFortinet
 
-> “At Cisco, we view frontier models as a powerful force multiplier for defenders. Models like GPT-5.5 are fundamentally changing the velocity of our operations, enabling us to move faster on everything from incident investigation to proactive exposure reduction. But speed cannot be traded for trust. The true value of this technology isn’t found in the model alone, but in the enterprise-ready framework we wrap around it. A framework that helps us make more secure products. Our focus is on transforming our secure development and operations processes with these new capabilities. For us, it’s about enabling innovation that is as reliable as it is fast.”
-
-— Anthony Grieco, SVP, Chief Security & Trust Officer, Cisco
-
 **Vulnerability research and patching**
 
 The flywheel starts with finding vulnerabilities, validating their criticality, and patching affected systems. GPT‑5.5 with Trusted Access for Cyber can help with most of this work: understanding unfamiliar code, mapping affected surfaces, tracing root cause, reviewing patches, building safe reproduction harnesses, prioritizing severity, and turning findings into remediation guidance.
@@ -200,20 +196,12 @@ Some vulnerability research requires more permissive behavior, especially when a
 
 IntelQualysRapid7TenableTrail of BitsSpecterOps
 
-> “Intel is a leader in silicon and software, providing a trusted foundation for the global computing industry. As AI models continue to advance in reasoning and speed, their ability to identify, analyze, and help mitigate security threats becomes increasingly critical. Intel looks forward to partnering with OpenAI to bring governed, scalable AI capabilities into real-world cyber workflows—helping enterprises accelerate vulnerability research, strengthen remediation processes, and operate more securely at scale.”
-
-— Dhinesh Manoharan, Head of INT31 Security Research, Intel Corporation
-
 **  
 Detection and monitoring**
 
 If vulnerable software is already deployed, the next question is whether anyone is exploiting it. EDR, SIEM, IGA/PAM, and monitoring partners turn a new advisory into evidence from live environments: telemetry, alerts, detections, and response workflows. GPT‑5.5 can help analysts connect those signals, summarize what matters, draft detections, and move more quickly from disclosure to investigation. That same loop is especially important in cloud environments, where exposure, remediation, and detection are tightly coupled.
 
 SentinelOneOktaNetskope
-
-> “At SentinelOne, the real value of AI is how quickly it helps us turn signals into an actionable advantage for defenders. GPT-5.5 helps analysts connect telemetry, focus on what matters, and strengthen how organizations investigate, detect, and respond to emerging threats.”
-
-— Gregor Stewart, Chief AI Officer, SentinelOne
 
 **Software supply chain security**
 
@@ -222,10 +210,6 @@ The next turn is preventing known-bad code from reaching production in the first
 Partners such as Snyk, Gen Digital, Semgrep, and Socket can help us test how these capabilities apply to incidents like the axios compromise, where the fastest fix is preventing vulnerable or compromised dependencies from entering the build at all.
 
 SnykGen DigitalSemgrepSocket
-
-> “Attackers are already weaponizing frontier models. By deploying OpenAI’s Trusted Access for Cyber and GPT-5.5, we are giving defenders at Snyk the capability they need to protect critical supply chains. This partnership isn’t just a milestone; it’s a strategic necessity.”
-
-— Manoj Nair, Chief Innovation Officer, Snyk
 
 ## Codex Security for open source and defenders
 
@@ -378,3 +362,19 @@ Terms & Policies
 OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
+
+> “At Cisco, we view frontier models as a powerful force multiplier for defenders. Models like GPT-5.5 are fundamentally changing the velocity of our operations, enabling us to move faster on everything from incident investigation to proactive exposure reduction. But speed cannot be traded for trust. The true value of this technology isn’t found in the model alone, but in the enterprise-ready framework we wrap around it. A framework that helps us make more secure products. Our focus is on transforming our secure development and operations processes with these new capabilities. For us, it’s about enabling innovation that is as reliable as it is fast.”
+
+— Anthony Grieco, SVP, Chief Security & Trust Officer, Cisco
+
+> “Intel is a leader in silicon and software, providing a trusted foundation for the global computing industry. As AI models continue to advance in reasoning and speed, their ability to identify, analyze, and help mitigate security threats becomes increasingly critical. Intel looks forward to partnering with OpenAI to bring governed, scalable AI capabilities into real-world cyber workflows—helping enterprises accelerate vulnerability research, strengthen remediation processes, and operate more securely at scale.”
+
+— Dhinesh Manoharan, Head of INT31 Security Research, Intel Corporation
+
+> “At SentinelOne, the real value of AI is how quickly it helps us turn signals into an actionable advantage for defenders. GPT-5.5 helps analysts connect telemetry, focus on what matters, and strengthen how organizations investigate, detect, and respond to emerging threats.”
+
+— Gregor Stewart, Chief AI Officer, SentinelOne
+
+> “Attackers are already weaponizing frontier models. By deploying OpenAI’s Trusted Access for Cyber and GPT-5.5, we are giving defenders at Snyk the capability they need to protect critical supply chains. This partnership isn’t just a milestone; it’s a strategic necessity.”
+
+— Manoj Nair, Chief Innovation Officer, Snyk

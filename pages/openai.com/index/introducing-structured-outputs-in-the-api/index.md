@@ -96,6 +96,560 @@ We’re introducing Structured Outputs in two forms in the API:
 
 RequestOutput JSON
 
+2.**A new option for the**`**response_format**`**parameter:** developers can now supply a JSON Schema via `json_schema`, a new option for the `response_format` parameter. This is useful when the model is not calling a tool, but rather, responding to the user in a structured way. This feature works with our newest GPT‑4o models: `gpt-4o-2024-08-06`, released today, and `gpt-4o-mini-2024-07-18`. When a `response_format` is supplied with `strict: true`, model outputs will match the supplied schema.
+
+RequestOutput JSON
+
+## Safe Structured Outputs
+
+Safety is a top priority for OpenAI—the new Structured Outputs functionality will abide by our existing safety policies and will still allow the model to refuse an unsafe request. To make development simpler, there is a new `refusal` string value on API responses which allows developers to programmatically detect if the model has generated a refusal instead of output matching the schema. When the response does not include a refusal and the model’s response has not been prematurely interrupted (as indicated by `finish_reason`), then the model’s response will reliably produce valid JSON matching the supplied schema. 
+
+#### JSON
+
+`
+    
+    
+    1
+    
+    {
+    
+    2
+    
+      "id": "chatcmpl-9nYAG9LPNonX8DAyrkwYfemr3C8HC",
+    
+    3
+    
+      "object": "chat.completion",
+    
+    4
+    
+      "created": 1721596428,
+    
+    5
+    
+      "model": "gpt-4o-2024-08-06",
+    
+    6
+    
+      "choices": [
+    
+    7
+    
+        {
+    
+    8
+    
+          "index": 0,
+    
+    9
+    
+          "message": {
+    
+    10
+    
+            "role": "assistant",
+    
+    11
+    
+            "refusal": "I'm sorry, I cannot assist with that request."
+    
+    12
+    
+          },
+    
+    13
+    
+          "logprobs": null,
+    
+    14
+    
+          "finish_reason": "stop"
+    
+    15
+    
+        }
+    
+    16
+    
+      ],
+    
+    17
+    
+      "usage": {
+    
+    18
+    
+        "prompt_tokens": 81,
+    
+    19
+    
+        "completion_tokens": 11,
+    
+    20
+    
+        "total_tokens": 92
+    
+    21
+    
+      },
+    
+    22
+    
+      "system_fingerprint": "fp_3407719c7f"
+    
+    23
+    
+    }
+
+`
+
+## Native SDK support
+
+Our Python and Node SDKs have been updated with native support for Structured Outputs. Supplying a schema for tools or as a response format is as easy as supplying a Pydantic or Zod object, and our SDKs will handle converting the data type to a supported JSON schema, deserializing the JSON response into the typed data structure automatically, and parsing refusals if they arise.
+
+The following examples show native support for Structured Outputs with function calling.
+
+PythonNode
+
+Native Structured Outputs support is also available for `response_format`.
+
+PythonNode
+
+## Additional use cases
+
+Developers frequently use OpenAI’s models to generate structured data for various use cases. Some additional examples include:
+
+## Dynamically generating user interfaces based on the user’s intent
+
+For example, developers can use Structured Outputs to create code- or UI-generating applications. All of the following examples use the same `response_format`, and can be used to generate varying UIs based on user input.
+
+System
+
+`You are a user interface assistant. Your job is to help users visualize their website and app ideas.`
+
+Response format
+
+View JSON schema
+
+Assistant
+
+Landing page for a gardenerSign up screen for an appStock price widget
+
+## Separating a final answer from supporting reasoning or additional commentary
+
+It can be useful to give the model a separate field for chain of thought to improve the final quality of the response.
+
+RequestStructured Output
+
+## Extracting structured data from unstructured data
+
+For example, instructing the model to extract things like to-dos, due dates, and assignments from meeting notes.
+
+RequestStructured Output
+
+## Under the hood
+
+We took a two part approach to improving reliability for model outputs that match JSON Schema. First, we trained our newest model `gpt-4o-2024-08-06` to understand complicated schemas and how best to produce outputs that match them. However, model behavior is inherently non-deterministic—despite this model’s performance improvements (93% on our benchmark), it still did not meet the reliability that developers need to build robust applications. So we also took a deterministic, engineering-based approach to constrain the model’s outputs to achieve 100% reliability.
+
+## Constrained decoding
+
+Our approach is based on a technique known as constrained sampling or constrained decoding. By default, when models are sampled to produce outputs, they are entirely unconstrained and can select any token from the vocabulary as the next output. This flexibility is what allows models to make mistakes; for example, they are generally free to sample a curly brace token at any time, even when that would not produce valid JSON. In order to force valid outputs, we constrain our models to only tokens that would be valid according to the supplied schema, rather than all available tokens.
+
+It can be challenging to implement this constraining in practice, since the tokens that are valid differ throughout a model’s output. Let’s say we have the following schema:
+
+#### JSON
+
+`
+    
+    
+    1
+    
+    {
+    
+    2
+    
+      "type": "object",
+    
+    3
+    
+      "properties": {
+    
+    4
+    
+        "value": { "type": "number" }
+    
+    5
+    
+      },
+    
+    6
+    
+      "required": ["value"],
+    
+    7
+    
+      "additionalProperties": false
+    
+    8
+    
+    }
+
+`
+
+The tokens that are valid at the beginning of the output include things like `{`, `{“`, `{  
+`, etc. However, once the model has already sampled `{“val`, then `{` is no longer a valid token. Thus we need to implement dynamic constrained decoding, and determine which tokens are valid after each token is generated, rather than upfront at the beginning of the response.
+
+To do this, we convert the supplied JSON Schema into a context-free grammar (CFG). A grammar is a set of rules that defines a language, and a context-free grammar is a grammar that conforms to specific rules. You can think of JSON and JSON Schema as particular languages with rules to define what is valid within the language. Just as it’s not valid in English to have a sentence with no verb, it is not valid in JSON to have a trailing comma.
+
+Thus, for each JSON Schema, we compute a grammar that represents that schema, and pre-process its components to make it easily accessible during model sampling. This is why the first request with a new schema incurs a latency penalty—we must preprocess the schema to generate this artifact that we can use efficiently during sampling.
+
+While sampling, after every token, our inference engine will determine which tokens are valid to be produced next based on the previously generated tokens and the rules within the grammar that indicate which tokens are valid next. We then use this list of tokens to mask the next sampling step, which effectively lowers the probability of invalid tokens to 0. Because we have preprocessed the schema, we can use a cached data structure to do this efficiently, with minimal latency overhead.
+
+## Alternate approaches
+
+Alternate approaches to this problem often use finite state machines (FSMs) or regexes (generally implemented with FSMs) for constrained decoding. These function similarly in that they dynamically update which tokens are valid after each token is produced, but they have some key differences from the CFG approach. Notably, CFGs can express a broader class of languages than FSMs. In practice, this doesn’t matter for very simple schemas like the `value` schema shown above. However, we find that the difference is meaningful for more complex schemas that involve nested or recursive data structures. As an example, FSMs cannot generally express recursive types, which means FSM based approaches may struggle to match parentheses in deeply nested JSON. The following is a sample recursive schema that is supported on the OpenAI API with Structured Outputs but would not be possible to express with a FSM.
+
+#### JSON
+
+`
+    
+    
+    1
+    
+    {
+    
+    2
+    
+      "name": "ui",
+    
+    3
+    
+      "description": "Dynamically generated UI",
+    
+    4
+    
+      "strict": true,
+    
+    5
+    
+      "schema": {
+    
+    6
+    
+        "type": "object",
+    
+    7
+    
+        "properties": {
+    
+    8
+    
+          "type": {
+    
+    9
+    
+            "type": "string",
+    
+    10
+    
+            "description": "The type of the UI component",
+    
+    11
+    
+            "enum": ["div", "button", "header", "section", "field", "form"]
+    
+    12
+    
+          },
+    
+    13
+    
+          "label": {
+    
+    14
+    
+            "type": "string",
+    
+    15
+    
+            "description": "The label of the UI component, used for buttons or form fields"
+    
+    16
+    
+          },
+    
+    17
+    
+          "children": {
+    
+    18
+    
+            "type": "array",
+    
+    19
+    
+            "description": "Nested UI components",
+    
+    20
+    
+            "items": {
+    
+    21
+    
+              "$ref": "#"
+    
+    22
+    
+            }
+    
+    23
+    
+          },
+    
+    24
+    
+          "attributes": {
+    
+    25
+    
+            "type": "array",
+    
+    26
+    
+            "description": "Arbitrary attributes for the UI component, suitable for any element",
+    
+    27
+    
+            "items": {
+    
+    28
+    
+              "type": "object",
+    
+    29
+    
+              "properties": {
+    
+    30
+    
+                "name": {
+    
+    31
+    
+                  "type": "string",
+    
+    32
+    
+                  "description": "The name of the attribute, for example onClick or className"
+    
+    33
+    
+                },
+    
+    34
+    
+                "value": {
+    
+    35
+    
+                  "type": "string",
+    
+    36
+    
+                  "description": "The value of the attribute"
+    
+    37
+    
+                }
+    
+    38
+    
+              }
+    
+    39
+    
+            }
+    
+    40
+    
+          }
+    
+    41
+    
+        },
+    
+    42
+    
+        "required": ["type", "label", "children", "attributes"],
+    
+    43
+    
+        "additionalProperties": false
+    
+    44
+    
+      }
+    
+    45
+    
+    }
+
+`
+
+Note that each UI element can have arbitrary children which reference the root schema recursively. This flexibility is something that the CFG approach affords.
+
+## Limitations and restrictions
+
+There are a few limitations to keep in mind when using Structured Outputs:
+
+  * Structured Outputs allows only a subset of JSON Schema, detailed [_in our docs_ ⁠(opens in a new window)](<https://platform.openai.com/docs/guides/structured-outputs>). This helps us ensure the best possible performance.
+  * The first API response with a new schema will incur additional latency, but subsequent responses will be fast with no latency penalty. This is because during the first request, we process the schema as indicated above and then cache these artifacts for fast reuse later on. Typical schemas take under 10 seconds to process on the first request, but more complex schemas may take up to a minute.
+  * The model can fail to follow the schema if the model chooses to refuse an unsafe request. If it chooses to refuse, the return message will have the `refusal` boolean set to true to indicate this. 
+  * The model can fail to follow the schema if the generation reaches `max_tokens` or another stop condition before finishing. 
+  * Structured Outputs doesn’t prevent all kinds of model mistakes. For example, the model may still make mistakes within the values of the JSON object (e.g., getting a step wrong in a mathematical equation). If developers find mistakes, we recommend providing examples in the system instructions or splitting tasks into simpler subtasks.
+  * Structured Outputs is not compatible with parallel function calls. When a parallel function call is generated, it may not match supplied schemas. Set `parallel_tool_calls: false` to disable parallel function calling.
+  * JSON Schemas supplied with Structured Outputs aren’t [Zero Data Retention⁠(opens in a new window)](<https://platform.openai.com/docs/models/how-we-use-your-data>) (ZDR) eligible.
+
+
+
+## Availability
+
+Structured Outputs is generally available today in the API.   
+  
+Structured Outputs with function calling is available on all models that support function calling in the API. This includes our newest models (`gpt-4o`, `gpt-4o-mini`), all models after and including `gpt-4-0613` and `gpt-3.5-turbo-0613`, and any fine-tuned models that support function calling. This functionality is available on the Chat Completions API, Assistants API, and Batch API. Structured Outputs with function calling is also compatible with vision inputs.  
+  
+Structured Outputs with response formats is available on `gpt-4o-mini` and `gpt-4o-2024-08-06` and any fine tunes based on these models. This functionality is available on the Chat Completions API, Assistants API, and Batch API. Structured Outputs with response formats is also compatible with vision inputs.   
+  
+By switching to the new `gpt-4o-2024-08-06`, developers save 50% on inputs ($2.50/1M input tokens) and 33% on outputs ($10.00/1M output tokens) compared to `gpt-4o-2024-05-13`.  
+  
+To start using Structured Outputs, check out our [_docs_ ⁠(opens in a new window)](<https://platform.openai.com/docs/guides/structured-outputs>). 
+
+## Acknowledgements
+
+Structured Outputs takes inspiration from excellent work from the open source community: namely, the [outlines⁠(opens in a new window)](<https://github.com/dottxt-ai/outlines>), [jsonformer⁠(opens in a new window)](<https://github.com/1rgs/jsonformer>), [instructor⁠(opens in a new window)](<https://github.com/instructor-ai/instructor>), [guidance⁠(opens in a new window)](<https://github.com/guidance-ai/guidance>), and [lark⁠(opens in a new window)](<https://github.com/lark-parser/lark>) libraries.
+
+  * [API Platform](</news/?tags=api-platform>)
+  * [2024](</news/?tags=2024>)
+
+
+
+## Author
+
+Michelle Pokrass
+
+## Core contributors
+
+Chris Colby, Melody Guan, Michelle Pokrass, Ted Sanders, Brian Zhang
+
+## Acknowledgments
+
+John Allard, Filipe de Avila Belbute Peres, Ilan Bigio, Owen Campbell-Moore, Chen Ding, Atty Eleti, Elie Georges, Katia Gil Guzman, Jeff Harris, Johannes Heidecke, Beth Hoover, Romain Huet, Tomer Kaftan, Jillian Khoo, Karolis Kosas, Ryan Liu, Kevin Lu, Lindsay McCallum, Rohan Nuttall, Joe Palermo, Leher Pathak, Ishaan Singal, Felipe Petroski Such, Freddie Sulit, David Weedon
+
+Research
+
+  * [Research Index](</research/index/>)
+  * [Research Overview](</research/>)
+  * [Economic Research](</signals/>)
+
+
+
+Latest Advancements
+
+  * [GPT-5.6](</index/gpt-5-6/>)
+  * [GPT-5.5](</index/introducing-gpt-5-5/>)
+  * [GPT-5.4](</index/introducing-gpt-5-4/>)
+
+
+
+Safety
+
+  * [Safety Approach](</safety/>)
+  * [Deployment Safety(opens in a new window)](<https://deploymentsafety.openai.com/>)
+  * [Security & Privacy](</security-and-privacy/>)
+  * [Trust & Transparency](</trust-and-transparency/>)
+
+
+
+Products
+
+  * [ChatGPT(opens in a new window)](<https://chatgpt.com/>)
+  * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
+  * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
+  * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
+  * [Codex](</codex/>)
+  * [Release Notes](</products/release-notes/>)
+
+
+
+API Platform
+
+  * [Overview](</api/>)
+  * [API Log In(opens in a new window)](<https://platform.openai.com/login>)
+  * [Docs(opens in a new window)](<https://developers.openai.com/api/docs>)
+
+
+
+Business
+
+  * [Overview](</business/>)
+  * [Solutions](</solutions/>)
+  * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
+  * [Contact Sales](</contact-sales/>)
+
+
+
+Developers
+
+  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
+  * [Open Models](</open-models/>)
+  * [Docs(opens in a new window)](<https://developers.openai.com/>)
+  * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
+  * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
+
+
+
+Company
+
+  * [About Us](</about/>)
+  * [Our Charter](</charter/>)
+  * [Careers](</careers/>)
+  * [News](</news/>)
+
+
+
+Support
+
+  * [Help Center(opens in a new window)](<https://help.openai.com/>)
+
+
+
+More
+
+  * [Stories](</stories/>)
+  * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
+  * [Livestreams](</live/>)
+  * [Podcast](</podcast/>)
+  * [RSS](<https://openai.com/news/rss.xml>)
+
+
+
+Terms & Policies
+
+  * [Terms of Use](</policies/terms-of-use/>)
+  * [Privacy Policy](</policies/privacy-policy/>)
+  * [Other Policies ](</policies/>)
+
+
+
+[(opens in a new window)](<https://x.com/OpenAI>)[(opens in a new window)](<https://www.youtube.com/OpenAI>)[(opens in a new window)](<https://www.linkedin.com/company/openai>)[(opens in a new window)](<https://github.com/openai>)[(opens in a new window)](<https://www.instagram.com/openai/>)[(opens in a new window)](<https://www.tiktok.com/@openai>)[(opens in a new window)](<https://discord.gg/openai>)
+
+OpenAI © 2015–2026Your privacy choices
+
+EnglishUnited States
+
 #### JSON
 
 `
@@ -467,10 +1021,6 @@ RequestOutput JSON
 
 `
 
-2.**A new option for the**`**response_format**`**parameter:** developers can now supply a JSON Schema via `json_schema`, a new option for the `response_format` parameter. This is useful when the model is not calling a tool, but rather, responding to the user in a structured way. This feature works with our newest GPT‑4o models: `gpt-4o-2024-08-06`, released today, and `gpt-4o-mini-2024-07-18`. When a `response_format` is supplied with `strict: true`, model outputs will match the supplied schema.
-
-RequestOutput JSON
-
 #### Request
 
 `
@@ -665,117 +1215,6 @@ RequestOutput JSON
     }
 
 `
-
-## Safe Structured Outputs
-
-Safety is a top priority for OpenAI—the new Structured Outputs functionality will abide by our existing safety policies and will still allow the model to refuse an unsafe request. To make development simpler, there is a new `refusal` string value on API responses which allows developers to programmatically detect if the model has generated a refusal instead of output matching the schema. When the response does not include a refusal and the model’s response has not been prematurely interrupted (as indicated by `finish_reason`), then the model’s response will reliably produce valid JSON matching the supplied schema. 
-
-#### JSON
-
-`
-    
-    
-    1
-    
-    {
-    
-    2
-    
-      "id": "chatcmpl-9nYAG9LPNonX8DAyrkwYfemr3C8HC",
-    
-    3
-    
-      "object": "chat.completion",
-    
-    4
-    
-      "created": 1721596428,
-    
-    5
-    
-      "model": "gpt-4o-2024-08-06",
-    
-    6
-    
-      "choices": [
-    
-    7
-    
-        {
-    
-    8
-    
-          "index": 0,
-    
-    9
-    
-          "message": {
-    
-    10
-    
-            "role": "assistant",
-    
-    11
-    
-            "refusal": "I'm sorry, I cannot assist with that request."
-    
-    12
-    
-          },
-    
-    13
-    
-          "logprobs": null,
-    
-    14
-    
-          "finish_reason": "stop"
-    
-    15
-    
-        }
-    
-    16
-    
-      ],
-    
-    17
-    
-      "usage": {
-    
-    18
-    
-        "prompt_tokens": 81,
-    
-    19
-    
-        "completion_tokens": 11,
-    
-    20
-    
-        "total_tokens": 92
-    
-    21
-    
-      },
-    
-    22
-    
-      "system_fingerprint": "fp_3407719c7f"
-    
-    23
-    
-    }
-
-`
-
-## Native SDK support
-
-Our Python and Node SDKs have been updated with native support for Structured Outputs. Supplying a schema for tools or as a response format is as easy as supplying a Pydantic or Zod object, and our SDKs will handle converting the data type to a supported JSON schema, deserializing the JSON response into the typed data structure automatically, and parsing refusals if they arise.
-
-The following examples show native support for Structured Outputs with function calling.
-
-PythonNode
 
 #### Python
 
@@ -1108,10 +1547,6 @@ PythonNode
 
 `
 
-Native Structured Outputs support is also available for `response_format`.
-
-PythonNode
-
 #### Python
 
 `
@@ -1255,26 +1690,6 @@ PythonNode
         print(message.refusal)
 
 `
-
-## Additional use cases
-
-Developers frequently use OpenAI’s models to generate structured data for various use cases. Some additional examples include:
-
-## Dynamically generating user interfaces based on the user’s intent
-
-For example, developers can use Structured Outputs to create code- or UI-generating applications. All of the following examples use the same `response_format`, and can be used to generate varying UIs based on user input.
-
-System
-
-`You are a user interface assistant. Your job is to help users visualize their website and app ideas.`
-
-Response format
-
-View JSON schema
-
-Assistant
-
-Landing page for a gardenerSign up screen for an appStock price widget
 
 `
     
@@ -1734,12 +2149,6 @@ Seasonal Cleanup
 
 Custom Landscaping
 
-## Separating a final answer from supporting reasoning or additional commentary
-
-It can be useful to give the model a separate field for chain of thought to improve the final quality of the response.
-
-RequestStructured Output
-
 #### JSON
 
 `
@@ -1898,12 +2307,6 @@ RequestStructured Output
     }
 
 `
-
-## Extracting structured data from unstructured data
-
-For example, instructing the model to extract things like to-dos, due dates, and assignments from meeting notes.
-
-RequestStructured Output
 
 #### JSON
 
@@ -2115,406 +2518,3 @@ RequestStructured Output
     }
 
 `
-
-## Under the hood
-
-We took a two part approach to improving reliability for model outputs that match JSON Schema. First, we trained our newest model `gpt-4o-2024-08-06` to understand complicated schemas and how best to produce outputs that match them. However, model behavior is inherently non-deterministic—despite this model’s performance improvements (93% on our benchmark), it still did not meet the reliability that developers need to build robust applications. So we also took a deterministic, engineering-based approach to constrain the model’s outputs to achieve 100% reliability.
-
-## Constrained decoding
-
-Our approach is based on a technique known as constrained sampling or constrained decoding. By default, when models are sampled to produce outputs, they are entirely unconstrained and can select any token from the vocabulary as the next output. This flexibility is what allows models to make mistakes; for example, they are generally free to sample a curly brace token at any time, even when that would not produce valid JSON. In order to force valid outputs, we constrain our models to only tokens that would be valid according to the supplied schema, rather than all available tokens.
-
-It can be challenging to implement this constraining in practice, since the tokens that are valid differ throughout a model’s output. Let’s say we have the following schema:
-
-#### JSON
-
-`
-    
-    
-    1
-    
-    {
-    
-    2
-    
-      "type": "object",
-    
-    3
-    
-      "properties": {
-    
-    4
-    
-        "value": { "type": "number" }
-    
-    5
-    
-      },
-    
-    6
-    
-      "required": ["value"],
-    
-    7
-    
-      "additionalProperties": false
-    
-    8
-    
-    }
-
-`
-
-The tokens that are valid at the beginning of the output include things like `{`, `{“`, `{  
-`, etc. However, once the model has already sampled `{“val`, then `{` is no longer a valid token. Thus we need to implement dynamic constrained decoding, and determine which tokens are valid after each token is generated, rather than upfront at the beginning of the response.
-
-To do this, we convert the supplied JSON Schema into a context-free grammar (CFG). A grammar is a set of rules that defines a language, and a context-free grammar is a grammar that conforms to specific rules. You can think of JSON and JSON Schema as particular languages with rules to define what is valid within the language. Just as it’s not valid in English to have a sentence with no verb, it is not valid in JSON to have a trailing comma.
-
-Thus, for each JSON Schema, we compute a grammar that represents that schema, and pre-process its components to make it easily accessible during model sampling. This is why the first request with a new schema incurs a latency penalty—we must preprocess the schema to generate this artifact that we can use efficiently during sampling.
-
-While sampling, after every token, our inference engine will determine which tokens are valid to be produced next based on the previously generated tokens and the rules within the grammar that indicate which tokens are valid next. We then use this list of tokens to mask the next sampling step, which effectively lowers the probability of invalid tokens to 0. Because we have preprocessed the schema, we can use a cached data structure to do this efficiently, with minimal latency overhead.
-
-## Alternate approaches
-
-Alternate approaches to this problem often use finite state machines (FSMs) or regexes (generally implemented with FSMs) for constrained decoding. These function similarly in that they dynamically update which tokens are valid after each token is produced, but they have some key differences from the CFG approach. Notably, CFGs can express a broader class of languages than FSMs. In practice, this doesn’t matter for very simple schemas like the `value` schema shown above. However, we find that the difference is meaningful for more complex schemas that involve nested or recursive data structures. As an example, FSMs cannot generally express recursive types, which means FSM based approaches may struggle to match parentheses in deeply nested JSON. The following is a sample recursive schema that is supported on the OpenAI API with Structured Outputs but would not be possible to express with a FSM.
-
-#### JSON
-
-`
-    
-    
-    1
-    
-    {
-    
-    2
-    
-      "name": "ui",
-    
-    3
-    
-      "description": "Dynamically generated UI",
-    
-    4
-    
-      "strict": true,
-    
-    5
-    
-      "schema": {
-    
-    6
-    
-        "type": "object",
-    
-    7
-    
-        "properties": {
-    
-    8
-    
-          "type": {
-    
-    9
-    
-            "type": "string",
-    
-    10
-    
-            "description": "The type of the UI component",
-    
-    11
-    
-            "enum": ["div", "button", "header", "section", "field", "form"]
-    
-    12
-    
-          },
-    
-    13
-    
-          "label": {
-    
-    14
-    
-            "type": "string",
-    
-    15
-    
-            "description": "The label of the UI component, used for buttons or form fields"
-    
-    16
-    
-          },
-    
-    17
-    
-          "children": {
-    
-    18
-    
-            "type": "array",
-    
-    19
-    
-            "description": "Nested UI components",
-    
-    20
-    
-            "items": {
-    
-    21
-    
-              "$ref": "#"
-    
-    22
-    
-            }
-    
-    23
-    
-          },
-    
-    24
-    
-          "attributes": {
-    
-    25
-    
-            "type": "array",
-    
-    26
-    
-            "description": "Arbitrary attributes for the UI component, suitable for any element",
-    
-    27
-    
-            "items": {
-    
-    28
-    
-              "type": "object",
-    
-    29
-    
-              "properties": {
-    
-    30
-    
-                "name": {
-    
-    31
-    
-                  "type": "string",
-    
-    32
-    
-                  "description": "The name of the attribute, for example onClick or className"
-    
-    33
-    
-                },
-    
-    34
-    
-                "value": {
-    
-    35
-    
-                  "type": "string",
-    
-    36
-    
-                  "description": "The value of the attribute"
-    
-    37
-    
-                }
-    
-    38
-    
-              }
-    
-    39
-    
-            }
-    
-    40
-    
-          }
-    
-    41
-    
-        },
-    
-    42
-    
-        "required": ["type", "label", "children", "attributes"],
-    
-    43
-    
-        "additionalProperties": false
-    
-    44
-    
-      }
-    
-    45
-    
-    }
-
-`
-
-Note that each UI element can have arbitrary children which reference the root schema recursively. This flexibility is something that the CFG approach affords.
-
-## Limitations and restrictions
-
-There are a few limitations to keep in mind when using Structured Outputs:
-
-  * Structured Outputs allows only a subset of JSON Schema, detailed [_in our docs_ ⁠(opens in a new window)](<https://platform.openai.com/docs/guides/structured-outputs>). This helps us ensure the best possible performance.
-  * The first API response with a new schema will incur additional latency, but subsequent responses will be fast with no latency penalty. This is because during the first request, we process the schema as indicated above and then cache these artifacts for fast reuse later on. Typical schemas take under 10 seconds to process on the first request, but more complex schemas may take up to a minute.
-  * The model can fail to follow the schema if the model chooses to refuse an unsafe request. If it chooses to refuse, the return message will have the `refusal` boolean set to true to indicate this. 
-  * The model can fail to follow the schema if the generation reaches `max_tokens` or another stop condition before finishing. 
-  * Structured Outputs doesn’t prevent all kinds of model mistakes. For example, the model may still make mistakes within the values of the JSON object (e.g., getting a step wrong in a mathematical equation). If developers find mistakes, we recommend providing examples in the system instructions or splitting tasks into simpler subtasks.
-  * Structured Outputs is not compatible with parallel function calls. When a parallel function call is generated, it may not match supplied schemas. Set `parallel_tool_calls: false` to disable parallel function calling.
-  * JSON Schemas supplied with Structured Outputs aren’t [Zero Data Retention⁠(opens in a new window)](<https://platform.openai.com/docs/models/how-we-use-your-data>) (ZDR) eligible.
-
-
-
-## Availability
-
-Structured Outputs is generally available today in the API.   
-  
-Structured Outputs with function calling is available on all models that support function calling in the API. This includes our newest models (`gpt-4o`, `gpt-4o-mini`), all models after and including `gpt-4-0613` and `gpt-3.5-turbo-0613`, and any fine-tuned models that support function calling. This functionality is available on the Chat Completions API, Assistants API, and Batch API. Structured Outputs with function calling is also compatible with vision inputs.  
-  
-Structured Outputs with response formats is available on `gpt-4o-mini` and `gpt-4o-2024-08-06` and any fine tunes based on these models. This functionality is available on the Chat Completions API, Assistants API, and Batch API. Structured Outputs with response formats is also compatible with vision inputs.   
-  
-By switching to the new `gpt-4o-2024-08-06`, developers save 50% on inputs ($2.50/1M input tokens) and 33% on outputs ($10.00/1M output tokens) compared to `gpt-4o-2024-05-13`.  
-  
-To start using Structured Outputs, check out our [_docs_ ⁠(opens in a new window)](<https://platform.openai.com/docs/guides/structured-outputs>). 
-
-## Acknowledgements
-
-Structured Outputs takes inspiration from excellent work from the open source community: namely, the [outlines⁠(opens in a new window)](<https://github.com/dottxt-ai/outlines>), [jsonformer⁠(opens in a new window)](<https://github.com/1rgs/jsonformer>), [instructor⁠(opens in a new window)](<https://github.com/instructor-ai/instructor>), [guidance⁠(opens in a new window)](<https://github.com/guidance-ai/guidance>), and [lark⁠(opens in a new window)](<https://github.com/lark-parser/lark>) libraries.
-
-  * [API Platform](</news/?tags=api-platform>)
-  * [2024](</news/?tags=2024>)
-
-
-
-## Author
-
-Michelle Pokrass
-
-## Core contributors
-
-Chris Colby, Melody Guan, Michelle Pokrass, Ted Sanders, Brian Zhang
-
-## Acknowledgments
-
-John Allard, Filipe de Avila Belbute Peres, Ilan Bigio, Owen Campbell-Moore, Chen Ding, Atty Eleti, Elie Georges, Katia Gil Guzman, Jeff Harris, Johannes Heidecke, Beth Hoover, Romain Huet, Tomer Kaftan, Jillian Khoo, Karolis Kosas, Ryan Liu, Kevin Lu, Lindsay McCallum, Rohan Nuttall, Joe Palermo, Leher Pathak, Ishaan Singal, Felipe Petroski Such, Freddie Sulit, David Weedon
-
-Research
-
-  * [Research Index](</research/index/>)
-  * [Research Overview](</research/>)
-  * [Economic Research](</signals/>)
-
-
-
-Latest Advancements
-
-  * [GPT-5.6](</index/gpt-5-6/>)
-  * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
-
-
-
-Safety
-
-  * [Safety Approach](</safety/>)
-  * [Deployment Safety(opens in a new window)](<https://deploymentsafety.openai.com/>)
-  * [Security & Privacy](</security-and-privacy/>)
-  * [Trust & Transparency](</trust-and-transparency/>)
-
-
-
-Products
-
-  * [ChatGPT(opens in a new window)](<https://chatgpt.com/>)
-  * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
-  * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
-  * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
-  * [Release Notes](</products/release-notes/>)
-
-
-
-API Platform
-
-  * [Overview](</api/>)
-  * [API Log In(opens in a new window)](<https://platform.openai.com/login>)
-  * [Docs(opens in a new window)](<https://developers.openai.com/api/docs>)
-
-
-
-Business
-
-  * [Overview](</business/>)
-  * [Solutions](</solutions/>)
-  * [Resources](</business/learn/>)
-  * [Customer Stories](</business/customer-stories/>)
-  * [Partner Network](</business/partners/>)
-  * [Contact Sales](</contact-sales/>)
-
-
-
-Developers
-
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
-  * [Docs(opens in a new window)](<https://developers.openai.com/>)
-  * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
-  * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
-
-
-
-Company
-
-  * [About Us](</about/>)
-  * [Our Charter](</charter/>)
-  * [Careers](</careers/>)
-  * [News](</news/>)
-
-
-
-Support
-
-  * [Help Center(opens in a new window)](<https://help.openai.com/>)
-
-
-
-More
-
-  * [Stories](</stories/>)
-  * [Academy](</academy/>)
-  * [Supply Co.](</supply/>)
-  * [Livestreams](</live/>)
-  * [Podcast](</podcast/>)
-  * [RSS](<https://openai.com/news/rss.xml>)
-
-
-
-Terms & Policies
-
-  * [Terms of Use](</policies/terms-of-use/>)
-  * [Privacy Policy](</policies/privacy-policy/>)
-  * [Other Policies ](</policies/>)
-
-
-
-[(opens in a new window)](<https://x.com/OpenAI>)[(opens in a new window)](<https://www.youtube.com/OpenAI>)[(opens in a new window)](<https://www.linkedin.com/company/openai>)[(opens in a new window)](<https://github.com/openai>)[(opens in a new window)](<https://www.instagram.com/openai/>)[(opens in a new window)](<https://www.tiktok.com/@openai>)[(opens in a new window)](<https://discord.gg/openai>)
-
-OpenAI © 2015–2026Your privacy choices
-
-EnglishUnited States

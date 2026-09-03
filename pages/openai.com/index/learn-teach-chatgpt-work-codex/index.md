@@ -76,15 +76,11 @@ This work reflects what we’ve learned through our engagement with educators, i
 
 Assignment translationExit ticket briefFamily updatePractice test
 
-![K–12 educator plugin screenshot 1](https://images.ctfassets.net/kftzwdyauwt9/mzTmFxQZroetk0kocFgqY/f888b93fdd1877686556fbf295682aff/edu-plugin-k12-01.jpg?w=3840&q=90&fm=webp)
-
 The College Educator plugin enables course design, teaching, and academic planning. Faculty can update syllabi, create interactive websites or multimedia assessments, adapt materials for diverse learners, or package content for their LMS. With connected calendars, documents, and other approved tools, instructors can also work across teaching, research, and everyday tasks without having to recreate the context for each new project.
 
 ### College Educator plugin
 
 Interactive teaching siteCourse calendaringCourse materialsCourse poster
-
-![College educator plugin screenshot 1](https://images.ctfassets.net/kftzwdyauwt9/7Gipr8R5OsI0HPDNsodbU3/52a11031cf02d26be0523bcc14fc3b8c/edu-plugin-college-educator-01.jpg?w=3840&q=90&fm=webp)
 
 The College Student plugin helps students turn what they are already studying into more personalized learning experiences. Students can work with a guided tutor, practice difficult concepts, and create study guides, quizzes, flashcards, and interactive visual explanations from the sources they choose. Designed with university students across majors, geographies, and levels of AI fluency, the plugin draws on learning science to prioritize deeper understanding and build stronger study habits.
 
@@ -93,8 +89,6 @@ Together, these plugins give students and educators a more useful starting point
 ### College Student plugin
 
 Interactive learning siteFlashcardsStudy plan
-
-![College student plugin screenshot 1](https://images.ctfassets.net/kftzwdyauwt9/6gnPE7d5vVscQVos1cowcr/555766c14cde8cf33b7330514d90db65/InteractiveLearningSite.jpeg?w=3840&q=90&fm=webp)
 
 1 of 5
 
@@ -299,3 +293,9 @@ Terms & Policies
 OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
+
+![K–12 educator plugin screenshot 1](https://images.ctfassets.net/kftzwdyauwt9/mzTmFxQZroetk0kocFgqY/f888b93fdd1877686556fbf295682aff/edu-plugin-k12-01.jpg?w=3840&q=90&fm=webp)
+
+![College educator plugin screenshot 1](https://images.ctfassets.net/kftzwdyauwt9/7Gipr8R5OsI0HPDNsodbU3/52a11031cf02d26be0523bcc14fc3b8c/edu-plugin-college-educator-01.jpg?w=3840&q=90&fm=webp)
+
+![College student plugin screenshot 1](https://images.ctfassets.net/kftzwdyauwt9/6gnPE7d5vVscQVos1cowcr/555766c14cde8cf33b7330514d90db65/InteractiveLearningSite.jpeg?w=3840&q=90&fm=webp)

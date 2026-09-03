@@ -138,8 +138,6 @@ Once your apps and tools are connected, ChatGPT can understand what you’re try
 
 Revenue forecast plannerEvent operations dashboardProduct launch hub
 
-![""](https://images.ctfassets.net/kftzwdyauwt9/5G0zHEnIZRLg0EWpZV602t/47c3851dd1f1cfbdf42d5f630fd36241/blossom-bank-forecasting-light-4k.png?w=3840&q=90&fm=webp)
-
 We’re also introducing Sites in ChatGPT in public beta. With Sites, you can turn your work or ideas into an interactive site or web app and share it with your team or publicly through a URL. Sites are useful when you want to create things like live dashboards, project trackers, launch calendars, prototypes, internal portals, and interactive reports. You can test the Sites you build right inside ChatGPT and bring fresh web context into your project, too. ChatGPT can also update them as the underlying information changes.
 
 ## Delegate repetitive tasks to focus on work that matters
@@ -179,9 +177,7 @@ ChatGPT Work is powerful out of the box for all kinds of work: it can support co
 
 SalesMarketingFinanceBusiness OperationsData AnalyticsEngineering
 
-**Sales:** Sellers can keep a live command center current as account activity changes, without rebuilding account plans by hand. ChatGPT Work can synthesize new signals, update next steps, and help sellers spend more time moving deals forward._[Example prompt: Create an automation that monitors for new account activity and updates this site every day at 8am]_
-
-##  Security and governance for organizations
+## Security and governance for organizations
 
 Your organization remains in control even as ChatGPT takes on more substantive work for your teams. ChatGPT is built on the security, privacy, compliance, and workspace management [_foundation of ChatGPT Enterprise_](</business-data/>). Enterprise and Edu admins can centrally manage who has access, what company context ChatGPT can use, which tools it can connect to, and what actions it can take. The [_Compliance API_ ⁠(opens in a new window)](<https://help.openai.com/en/articles/9261474-openai-compliance-platform-for-enterprise-customers>) provides visibility into ChatGPT Work conversations and actions at scale to support enterprise oversight.
 
@@ -334,3 +330,7 @@ Terms & Policies
 OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
+
+![""](https://images.ctfassets.net/kftzwdyauwt9/5G0zHEnIZRLg0EWpZV602t/47c3851dd1f1cfbdf42d5f630fd36241/blossom-bank-forecasting-light-4k.png?w=3840&q=90&fm=webp)
+
+**Sales:** Sellers can keep a live command center current as account activity changes, without rebuilding account plans by hand. ChatGPT Work can synthesize new signals, update next steps, and help sellers spend more time moving deals forward._[Example prompt: Create an automation that monitors for new account activity and updates this site every day at 8am]_

@@ -99,27 +99,15 @@ _In GDPval, models attempt well-specified knowledge work spanning 44 occupations
 
 MercorWalleye CapitalFundamental Research LabsRogoBalyasny Asset Management
 
-> “GPT-5.4 is the best model we’ve ever tried. It’s now top of the leaderboard on our APEX-Agents benchmark, which measures model performance for professional services work. It excels at creating long-horizon deliverables such as slide decks, financial models, and legal analysis, delivering top performance while running faster and at a lower cost than competitive frontier models.”
-
-— Brendan Foody, CEO at Mercor
-
 We put a particular focus on improving GPT‑5.4’s ability to create and edit spreadsheets, presentations, and documents. On an internal benchmark of spreadsheet modeling tasks that a junior investment banking analyst might do, GPT‑5.4 achieves a mean score of **87.3%** , compared to **68.4%** for GPT‑5.2. On a set of presentation evaluation prompts, human raters preferred presentations from GPT‑5.4 **68.0%** of the time over those from GPT‑5.2 due to stronger aesthetics, greater visual variety, and more effective use of image generation.
 
 SpreadsheetsDocumentsPresentations
-
-![Side by side example of spreadsheet outputs from GPT-5.2 vs GPT-5.4](https://images.ctfassets.net/kftzwdyauwt9/6HIfga5zjofGwccjVeZA2e/fcca68f123b1110c7b4f275caa2d3669/Spreadsheet_-_desktop_-_light.png?w=3840&q=90&fm=webp)
-
- _Documents were generated with reasoning effort set to xhigh_
 
 You can try these capabilities in ChatGPT using GPT‑5.4 Thinking or Pro. If you’re an Enterprise customer, we recommend using our newly released [ChatGPT for Excel add-in⁠(opens in a new window)](<https://chatgpt.com/apps/spreadsheets/>), which was also launched today. We've also updated our [spreadsheet⁠(opens in a new window)](<https://github.com/openai/skills/tree/main/skills/.curated/spreadsheet>) and [presentation skills⁠(opens in a new window)](<https://github.com/openai/skills/tree/main/skills/.curated/slides>) available in Codex and the API.
 
 To make GPT‑5.4 better at real-world work, we continued our progress at driving down hallucinations and errors. GPT‑5.4 is our most factual model yet: on a set of de-identified prompts where users flagged factual errors, GPT‑5.4’s individual claims are 33% less likely to be false and its full responses are 18% less likely to contain any errors, relative to GPT‑5.2.
 
 HarveyThomson ReutersNotionHockeyStackLegoraClio
-
-> “GPT-5.4 sets a new bar for document-heavy legal work. On our BigLaw Bench eval, it scored 91%. Compared to other models, GPT-5.4 is currently better at structuring complex transactional analysis, maintaining accuracy across lengthy contracts, and delivering the high level of detail legal practitioners require.”
-
-— Niko Grupen, Head of Applied Research at Harvey
 
 ## Computer use and vision
 
@@ -135,8 +123,6 @@ _A tool yield is when an assistant yields to await tool responses. If 3 tools ar
 
 Email & calendarBulk data entry
 
-GPT‑5.4 interprets screenshots of a browser interface and interacts with UI elements through coordinate-based clicking to send emails and schedule a calendar event. **Video is not sped up.**
-
 GPT‑5.4’s improved computer use is built on the model’s improved general visual perception capabilities. On **MMMU-Pro** , a test of a model’s visual understanding and reasoning, GPT‑5.4 achieves an **81.2%** success rate without tool use, an improvement over**** GPT‑5.2’s **79.5%**. Improved visual perception also translates into better document parsing capabilities. On **OmniDocBench** , GPT‑5.4 without reasoning effort achieves an average error (measured by normalized edit distance between model prediction and ground truth) of **0.109** , improved from GPT‑5.2’s **0.140**.
 
 _MMMUPro was run with reasoning effort set to xhigh. OmniDocBench was run with reasoning effort set to none, to reflect low-cost, low-latency performance._
@@ -144,10 +130,6 @@ _MMMUPro was run with reasoning effort set to xhigh. OmniDocBench was run with r
 We’re also improving visual understanding for dense, high-resolution images where full fidelity matters. Starting with GPT‑5.4, we’re introducing an `original` image [input detail⁠(opens in a new window)](<https://developers.openai.com/api/docs/guides/images-vision/#specify-image-input-detail-level>) level which supports full-fidelity perception up to 10.24M total pixels or 6000-pixel maximum dimension, whichever is lower; the `high` image input detail level now supports up to 2.56M total pixels or a 2048-pixel maximum dimension. In early testing with API users, we observed strong gains in localization ability, image understanding, and click accuracy when using `original` or `high` detail.
 
 MainstayMomenticPace
-
-> “In our evals measuring computer use performance across ~30K HOA and property tax portals, GPT-5.4 achieved a 95% success rate on the first attempt and 100% within three attempts, compared to ~73–79% with prior CUA models. It also completed sessions ~3x faster while using ~70% fewer tokens, materially improving reliability and cost efficiency at scale."
-
-— Dod Fraser, CEO at Mainstay
 
 In the API, developers can access these capabilities using the updated `computer` tool. Please see our [updated documentation⁠(opens in a new window)](<https://developers.openai.com/api/docs/guides/latest-model>) for recommended best practices.
 
@@ -165,17 +147,7 @@ As a demonstration of the model’s improved computer-use and coding capabilitie
 
 Theme park simulation gameRPG gameGolden Gate Bridge flyover
 
-Theme park simulation game made with GPT‑5.4 from a single lightly specified prompt, using Playwright Interactive for browser playtesting and image generation for the isometric asset set. The simulation includes tile-based path placement, ride and scenery construction, guest pathfinding, queueing, and ride cycles, while park metrics like money, guest count, happiness, cleanliness, and rating rise or fall based on how the layout performs and how guests respond to it. Playwright was used to automate browser playtests by building and expanding the park, placing and removing paths and attractions, checking camera navigation, and verifying that guests, queues, ride states, and UI metrics updated correctly over several rounds of play.
-
-`**Prompt:**`` Use $playwright-interactive and $imagegen. Create an interactive isometric theme park simulation game that I can build and navigate in the browser. Use imagegen to establish the overall visual vision and generate the game’s assets, including rides, paths, terrain, trees, water, food stalls, decorations, buildings, icons, and UI illustrations. The world should feel cohesive, polished, and visually rich, with a premium art direction that works well from an isometric perspective. Let me place and remove paths, add attractions, position scenery, and move around the park smoothly while monitoring guest activity, ride status, and park growth. Include believable guest movement, simple park management systems like money, cleanliness, queueing, and happiness, and make the experience feel playful, clear, and complete rather than like a rough prototype. Prioritize charm, readability, and strong game feel over realism. `
-
-`When play testing, be sure to build and expand a park through several rounds of play, verify that placement and navigation work smoothly, confirm that guests react to the park layout and attractions, and ensure the visuals, UI, and interactions feel stable and cohesive.`
-
 CursorGitHubJetBrainsAugment CodeWindsurf
-
-> “GPT-5.4 is currently the leader on our internal benchmarks. Our engineers find it to be more natural and assertive than previous models. It works through ambiguous problems without second-guessing itself, and it’s proactive about parallelizing work to keep things moving.”
-
-— Lee Robinson, VP of Developer Education at Cursor
 
 ## Tool use
 
@@ -214,10 +186,6 @@ In practice, this means GPT‑5.4 Thinking is stronger at answering questions th
 _In BrowseComp, we used a search blocklist excluding websites containing benchmark answers from evaluation to prevent contamination and ensure a fair measure of performance. GPT‑5.4 was measured on a later date than GPT‑5.2, so scores reflect changes in the model, our search system, and state of the internet. GPT‑5.4 was tested with a longer, updated blocklist. Models use the ChatGPT search tool, which can have small differences from API search._
 
 ZapierGleanClayBasisHexDatabricksWhoop
-
-> “GPT-5.4 xhigh is the new state of the art for multi-step tool use. Zapier runs some of the most rigorous tool use benchmarks in the industry, testing models across hundreds of advanced real-world workflows. GPT-5.4 finished the job where previous models gave up - the most persistent model to date.”
-
-— Wade, CEO at Zapier
 
 ## Steerability
 
@@ -481,3 +449,35 @@ Terms & Policies
 OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
+
+> “GPT-5.4 is the best model we’ve ever tried. It’s now top of the leaderboard on our APEX-Agents benchmark, which measures model performance for professional services work. It excels at creating long-horizon deliverables such as slide decks, financial models, and legal analysis, delivering top performance while running faster and at a lower cost than competitive frontier models.”
+
+— Brendan Foody, CEO at Mercor
+
+![Side by side example of spreadsheet outputs from GPT-5.2 vs GPT-5.4](https://images.ctfassets.net/kftzwdyauwt9/6HIfga5zjofGwccjVeZA2e/fcca68f123b1110c7b4f275caa2d3669/Spreadsheet_-_desktop_-_light.png?w=3840&q=90&fm=webp)
+
+_Documents were generated with reasoning effort set to xhigh_
+
+> “GPT-5.4 sets a new bar for document-heavy legal work. On our BigLaw Bench eval, it scored 91%. Compared to other models, GPT-5.4 is currently better at structuring complex transactional analysis, maintaining accuracy across lengthy contracts, and delivering the high level of detail legal practitioners require.”
+
+— Niko Grupen, Head of Applied Research at Harvey
+
+GPT‑5.4 interprets screenshots of a browser interface and interacts with UI elements through coordinate-based clicking to send emails and schedule a calendar event. **Video is not sped up.**
+
+> “In our evals measuring computer use performance across ~30K HOA and property tax portals, GPT-5.4 achieved a 95% success rate on the first attempt and 100% within three attempts, compared to ~73–79% with prior CUA models. It also completed sessions ~3x faster while using ~70% fewer tokens, materially improving reliability and cost efficiency at scale."
+
+— Dod Fraser, CEO at Mainstay
+
+Theme park simulation game made with GPT‑5.4 from a single lightly specified prompt, using Playwright Interactive for browser playtesting and image generation for the isometric asset set. The simulation includes tile-based path placement, ride and scenery construction, guest pathfinding, queueing, and ride cycles, while park metrics like money, guest count, happiness, cleanliness, and rating rise or fall based on how the layout performs and how guests respond to it. Playwright was used to automate browser playtests by building and expanding the park, placing and removing paths and attractions, checking camera navigation, and verifying that guests, queues, ride states, and UI metrics updated correctly over several rounds of play.
+
+`**Prompt:**`` Use $playwright-interactive and $imagegen. Create an interactive isometric theme park simulation game that I can build and navigate in the browser. Use imagegen to establish the overall visual vision and generate the game’s assets, including rides, paths, terrain, trees, water, food stalls, decorations, buildings, icons, and UI illustrations. The world should feel cohesive, polished, and visually rich, with a premium art direction that works well from an isometric perspective. Let me place and remove paths, add attractions, position scenery, and move around the park smoothly while monitoring guest activity, ride status, and park growth. Include believable guest movement, simple park management systems like money, cleanliness, queueing, and happiness, and make the experience feel playful, clear, and complete rather than like a rough prototype. Prioritize charm, readability, and strong game feel over realism. `
+
+`When play testing, be sure to build and expand a park through several rounds of play, verify that placement and navigation work smoothly, confirm that guests react to the park layout and attractions, and ensure the visuals, UI, and interactions feel stable and cohesive.`
+
+> “GPT-5.4 is currently the leader on our internal benchmarks. Our engineers find it to be more natural and assertive than previous models. It works through ambiguous problems without second-guessing itself, and it’s proactive about parallelizing work to keep things moving.”
+
+— Lee Robinson, VP of Developer Education at Cursor
+
+> “GPT-5.4 xhigh is the new state of the art for multi-step tool use. Zapier runs some of the most rigorous tool use benchmarks in the industry, testing models across hundreds of advanced real-world workflows. GPT-5.4 finished the job where previous models gave up - the most persistent model to date.”
+
+— Wade, CEO at Zapier
