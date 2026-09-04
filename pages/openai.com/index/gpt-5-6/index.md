@@ -34,6 +34,14 @@ July 9, 2026
 
 More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.
 
+## This post introduced GPT-5.6 in 2026.
+
+Learn about OpenAI’s latest model:
+
+[GPT-6](</index/gpt-6-astra/>)
+
+[Compare models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
+
 Loading…
 
 Share
@@ -467,6 +475,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)

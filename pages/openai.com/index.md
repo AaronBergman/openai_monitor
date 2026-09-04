@@ -32,19 +32,19 @@ Message ChatGPT
 
 [Learn about ChatGPT Business](</business/>)[Talk with ChatGPT](<https://chatgpt.com/?mode=voice>)[Research](</research/>)[API Platform](</api/>)More
 
-![""](//images.ctfassets.net/kftzwdyauwt9/5uOBQ9CN3HA6yzWugjzzYZ/b5fe018bce4814a145bb9c8e57422db6/gpt-5-6-poster.png?w=3840&q=90&fm=webp)
+![""](//images.ctfassets.net/kftzwdyauwt9/5VQB7Gg4znBo0Td1c8DRZj/13c382ad9dee8df708eab9e3e5c96ab3/Hero_16x9.png?w=3840&q=90&fm=webp)
 
-[GPT-5.6: Frontier intelligence that scales with your ambitionProduct18 min read](</index/gpt-5-6/>)
+[GPT-6 Astra: A new generation of intelligenceResearch28 min read](</index/gpt-6-astra/>)
 
-![""](//images.ctfassets.net/kftzwdyauwt9/5uOBQ9CN3HA6yzWugjzzYZ/b5fe018bce4814a145bb9c8e57422db6/gpt-5-6-poster.png?w=3840&q=90&fm=webp)
+![""](//images.ctfassets.net/kftzwdyauwt9/5VQB7Gg4znBo0Td1c8DRZj/13c382ad9dee8df708eab9e3e5c96ab3/Hero_16x9.png?w=3840&q=90&fm=webp)
 
-[GPT-5.6: Frontier intelligence that scales with your ambitionProduct18 min read](</index/gpt-5-6/>)
+[GPT-6 Astra: A new generation of intelligenceResearch28 min read](</index/gpt-6-astra/>)
 
 [The Hugging Face incident and the road aheadSecurity22 min read](</index/hugging-face-incident-and-the-road-ahead/>)
 
-![GPT-Daybreak > Cover](https://images.ctfassets.net/kftzwdyauwt9/2iqsbTTLvgMNteNampw3gW/a38ed04432ee5548c4aec6c7b7a506f2/1x1_Art_Card.png?w=3840&q=90&fm=webp)
+![Daybreak for Critical Infrastructure — cover](https://images.ctfassets.net/kftzwdyauwt9/3iCwHSjR2bfJPdDiWomsis/86d511413c2b0338bd211b41545be495/Option_65___1080_1080.png?w=3840&q=90&fm=webp)
 
-[Expanding Daybreak as the Cyber Defense Window NarrowsSecurity8 min read](</index/expanding-daybreak-as-the-cyber-defense-window-narrows/>)
+[Daybreak for Frontline DefendersSecurity6 min read](</index/daybreak-for-frontline-defenders/>)
 
 [Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free usersProduct5 min read](</index/improving-gpt-5-6-sol-in-chatgpt/>)
 
@@ -138,6 +138,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)

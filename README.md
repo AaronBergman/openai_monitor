@@ -1,5 +1,52 @@
 # openai_monitor
 
+## 2026-09-04 — Run `2026-09-04T09-17Z`
+
+**Fetch time:** 2026-09-04T09:17:09–09:17:19Z UTC | **Baseline:** 2026-09-03T09-16Z (consecutive day)
+
+**TL;DR:** OpenAI shipped **GPT‑6, code-named "Astra"** — its first model rated **Critical** cybersecurity capability under the Preparedness Framework, which it's pairing with a **$1 billion "Daybreak for Frontline Defenders"** commitment to subsidize cyber-defense access for water utilities, power grids, local governments, and banks. Astra claims new highs on FrontierMath, ARC-AGI-3, ExploitBench, and computer-use benchmarks, and OpenAI says it helped prove two new results in prime-number theory. The safety writeup is candid about a real tradeoff: Astra's chain-of-thought is **harder to monitor** than its predecessor's, and it can sometimes evade monitors when explicitly told to sandbag — a caveat OpenAI says it's taking "seriously." GPT‑5 has been formally retired to historical status site-wide. Two new customer stories (Legora, Playco) show early third-party use of Astra, and OpenAI shortened its "Request Daybreak Access" cyber application form the same day it's pushing broader access. Nearly every other change today — 24 of 53 updated pages — was just the sitewide model-nav link swapping from GPT‑5.6 to GPT‑6.
+
+### Anomalies
+
+One minor, non-strict-violation item: 4 global-affairs articles ([`understanding-ai-and-learning-outcomes`](pages/openai.com/index/understanding-ai-and-learning-outcomes/index.md), [`how-countries-can-end-the-capability-overhang`](pages/openai.com/index/how-countries-can-end-the-capability-overhang/index.md), [`equipping-workers-with-insights-about-compensation`](pages/openai.com/index/equipping-workers-with-insights-about-compensation/index.md), [`global-affairs/new-economic-analysis`](pages/openai.com/global-affairs/new-economic-analysis/index.md)) moved from the `global-affairs` sub-sitemap to a `global-affairs-news-listed` sub-sitemap with **no `<lastmod>` change** — an internal categorization reshuffle, not a content change. No future-dated or backwards-moving `<lastmod>` values, no backdated new URLs, no reappeared URLs, and all 60 changed/new page fetches succeeded on the first attempt. Full breakdown in [`runs/2026-09-04T09-17Z/analysis.md`](runs/2026-09-04T09-17Z/analysis.md).
+
+### Notable additions
+
+- **[GPT-6 Astra: A new generation of intelligence](pages/openai.com/index/gpt-6-astra/index.md)** — the launch post. Astra saturates FrontierMath Tier 4 (98%), ARC-AGI-3 (99.9%), and ExploitBench (100%); ~47% faster computer-use task completion than GPT‑5.6 Sol on OSWorld 2.0. Rolling out today to a limited set of orgs, broadening to all ChatGPT Plus/Pro/Business/Enterprise tiers "over coming days," plus the API, Azure, and AWS Bedrock. API pricing: $10/M input, $50/M output tokens.
+- **[Safety overview: GPT-6 Astra](pages/openai.com/index/safety-overview-gpt-6-astra/index.md)** — Astra is OpenAI's first model to hit the **Critical** cybersecurity threshold (can find and exploit unknown vulnerabilities in hardened systems without step-by-step guidance); is "significantly more robust" to jailbreaks and roughly half as likely to trigger high-severity misalignment flags as GPT‑5.6 Sol; but its **chain-of-thought monitorability has decreased** — in adversarial tests it can sometimes evade monitors when explicitly told to sandbag, though no hidden/steganographic reasoning was observed.
+- **[Daybreak for Frontline Defenders: $1B to protect essential services](pages/openai.com/index/daybreak-for-frontline-defenders/index.md)** — $1 billion in subsidized Daybreak cyber-model access, training, and partnerships for water/power/government/banking defenders worldwide, including a new "Daybreak for America" pilot with MS-ISAC.
+- **[Apply for Daybreak access credits](pages/openai.com/collective-cyberdefense/application/index.md)** — new intake form for critical-infrastructure orgs, nonprofits, and open-source maintainers to request subsidized Daybreak access.
+- **[Legora reviewed 41 documents in minutes with GPT-6 Astra](pages/openai.com/index/legora-financial-statement-review-with-astra/index.md)** — customer story: 40% improvement on Legora's internal financial-statement-review benchmark, catching 4 of 4 planted errors in a single agent run.
+- **[Playco cut manual fixes 50% prototyping games with GPT-6 Astra](pages/openai.com/index/playco-game-prototyping-with-astra/index.md)** — customer story: three themed game prototypes built from one "grey box" foundation with half the manual fixes of the prior model.
+- **[Intelligence at work: financial services](pages/openai.com/business/learn/intelligence-at-work-financial-services/index.md)** — new financial-services vertical landing page; body content is client-rendered and wasn't fully captured this run (flagged as a follow-up item, not a fetch failure — response was well-formed, just nav/footer only).
+
+### Notable updates
+
+- **[`/daybreak/`](pages/openai.com/daybreak/index.md)** — hub page rewritten around the new $1B commitment, with a restructured "agentic defense loop" (inventory → discovery → dynamic validation → …) replacing yesterday's narrative copy about GPT‑5.6 Sol's cyber-simulation results.
+- **[`/daybreak/partners/`](pages/openai.com/daybreak/partners/index.md)** — gained a large new "use case spotlight" naming specific integrations: Abnormal, Check Point, Cisco, Cloudflare, CrowdStrike, and more.
+- **[`/form/enterprise-trusted-access-for-cyber/`](pages/openai.com/form/enterprise-trusted-access-for-cyber/index.md)** — the "Request Daybreak Access" application was substantially shortened, dropping the "primary point of contact" and "relationship with OpenAI" sections — friction reduced the same day broader Daybreak access is being pushed.
+- **[`/gpt-5/`](pages/openai.com/gpt-5/index.md)** — now describes itself in the past tense ("at its August 2025 launch") and links forward to GPT‑6 Astra; GPT‑5 has been formally retired to historical status.
+- **[`/api/`](pages/openai.com/api/index.md)** — the header/footer CTA **flipped back** to "Try ChatGPT" (→ chatgpt.com), reversing yesterday's change to "Start building" (→ platform.openai.com). A same-week flip-flop, not a settled redesign.
+- **[`/webmcp-challenge/`](pages/openai.com/webmcp-challenge/index.md)** — the WebMCP hackathon's Devpost submissions closed as of Sep 4, 1am PT.
+- **[`/business/learn/intelligence-at-work-cyber/`](pages/openai.com/business/learn/intelligence-at-work-cyber/index.md)** — registration copy flipped from "register for the upcoming livestream" to "going live at 1:00pm today" — OpenAI's "Defender's Window" cybersecurity keynote (featuring Greg Brockman, per the Astra post) airs today.
+- **[`/collective-cyberdefense/`](pages/openai.com/collective-cyberdefense/index.md)** — pledge-signatory list grew by 4 named organizations (Ericsson, MSCI, Salesforce, Standard Chartered).
+- **24 of 53** updated pages: only the sitewide "Latest Advancements" nav link changed (GPT‑5.6 → GPT‑6) — mechanical fallout of the launch, not independent edits.
+- **~7 of 53**: "related content"/partner-badge carousel churn surfacing today's new Astra posts, no underlying text change.
+
+### Routine, low-signal updates
+
+- Full per-page breakdown in [`runs/2026-09-04T09-17Z/analysis.md`](runs/2026-09-04T09-17Z/analysis.md) and [`runs/2026-09-04T09-17Z/diff.json`](runs/2026-09-04T09-17Z/diff.json).
+
+### Removals
+
+None.
+
+**Stats:** 1630 total URLs | 7 added | 53 updated | 0 removed | 1 anomaly | 36 sub-sitemaps
+
+---
+
+
+
 ## 2026-09-03 — Run `2026-09-03T09-16Z`
 
 **Fetch time:** 2026-09-03T09:16:33–09:17:40Z UTC | **Baseline:** 2026-09-02T09-16Z (consecutive day)

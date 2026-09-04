@@ -248,6 +248,114 @@ Dhawal Sharma, EVP AI Security and Strategic Initiatives, ZScaler
 
 
 
+## Use case spotlight
+
+![Abnormal](https://images.ctfassets.net/kftzwdyauwt9/7wRqKEmjlUF4vQmMuI05PP/2536aca595d1b58633e8f22db86e4f91/abnormal-white-panel.svg?w=3840&q=90)
+
+**Investigate suspicious cloud activity**
+
+Abnormal uses GPT cyber models with behavioral AI to detect, investigate, and respond to risky or malicious AI-agent behavior across cloud environments.
+
+![Check Point](https://images.ctfassets.net/kftzwdyauwt9/5kCeYmiBkliAJGZdxXEgGu/39e2e186136f4c73e20bbfd229cc4d41/check-point-white-panel.svg?w=3840&q=90)
+
+**Research CVEs and generate protections**
+
+Check Point applies GPT cyber models across its security platform to validate exploitable risk, investigate attack paths, and accelerate trusted protections.
+
+![Cisco](https://images.ctfassets.net/kftzwdyauwt9/4WqXyQMrPXzkfY9s1ycX6P/b906aa0c1666d008eec2ebb3af040c9f/cisco-white-panel.svg?w=3840&q=90)
+
+**Scan agent supply-chain risk**
+
+Cisco is validating Daybreak Blue and Red in AI Defense scanners to analyze skills and MCP servers, detect hidden supply-chain threats, and report evidence-backed findings before trust is granted.
+
+![Cloudflare](https://images.ctfassets.net/kftzwdyauwt9/2TdYY4RuUfWazKRVuoHnNT/4d6710beb2e9171b7e3ee503b67ed8c6/cloudflare-white-panel.svg?w=3840&q=90)
+
+**Run developer-platform detections**
+
+Cloudflare combines production traffic, WAF signals, and OpenAI-powered analysis to prioritize live vulnerabilities, propose patches, and scope edge mitigations.
+
+![CrowdStrike](https://images.ctfassets.net/kftzwdyauwt9/3mMUD989IJAmes1fTYmKZI/6b352174760bc7777b0ec461641f03c9/crowdstrike-white-panel.svg?w=3840&q=90)
+
+**Triage cloud risk with Falcon**
+
+CrowdStrike uses GPT cyber models in Falcon Cloud Security Risk Triage to assess cloud risk with remediation guidance.
+
+![Darktrace](https://images.ctfassets.net/kftzwdyauwt9/LtBl88fXTjPQ8lA1JEcG9/cb7f90bf3173dd62648ceb8df56683eb/darktrace-white-panel.svg?w=3840&q=90)
+
+**Enrich incidents with business context**
+
+Darktrace pairs its behavioral understanding with OpenAI models to add business context to incidents and help defenders prioritize action on AI-system risk.
+
+![Elastic](https://images.ctfassets.net/kftzwdyauwt9/549NxnXQMeGhU53TbmjtF0/e647c83a6c7aa904741db35d609d6bbc/elastic-white-panel.svg?w=3840&q=90)
+
+**Bring Daybreak into security operations**
+
+Elastic embeds GPT cyber models into Elastic Security workflows to sharpen alert triage, accelerate detection, and speed remediation without separate model infrastructure.
+
+![HackerOne](https://images.ctfassets.net/kftzwdyauwt9/7oqaqwfPj14CFPdvxz1Ddy/e2cfe78b903d602ec8f6c91fce622b9c/hackerone-white-panel.svg?w=3840&q=90)
+
+**Apply Daybreak models to remediation**
+
+HackerOne brings GPT cyber models into the H1 Platform to help teams discover, validate, prioritize, and remediate vulnerabilities faster.
+
+![Okta](https://images.ctfassets.net/kftzwdyauwt9/1iO1iNnssIjcTcjhs6oyMG/75f8958a605e780a7bbec29ec45f4119/okta-white-panel.svg?w=3840&q=90)
+
+**Detect runtime threats with SandyClaw**
+
+Okta’s Permiso applies GPT Cyber models to SandyClaw’s runtime behavioral record to identify sophisticated attack patterns, malicious intent, and novel threats.
+
+![Palo Alto Networks](https://images.ctfassets.net/kftzwdyauwt9/1ali0JBmoBhLktvBiz43q2/620b493d3bf685075caf444535cca796/palo-alto-networks-white-panel.svg?w=3840&q=90)
+
+**Validate attack paths with Unit 42**
+
+Palo Alto Networks brings Daybreak into Unit 42 Frontier AI Exposure Analysis to find exposures, test exploitability, validate attack paths, and prioritize remediation.
+
+![Proofpoint](https://images.ctfassets.net/kftzwdyauwt9/3hqKsRgqZWvfdO0syidYGP/51f20761aec1fde066c87bedb62c7604/proofpoint-white-panel.svg?w=3840&q=90)
+
+**Enable SOC investigation and response**
+
+Proofpoint’s SOC Analyst Agent uses OpenAI cyber capabilities with Proofpoint security data to accelerate investigations and recommend human-controlled next steps.
+
+![SentinelOne](https://images.ctfassets.net/kftzwdyauwt9/fXXbzUrkZ4K4Cah1n0Va2/9ba8f3e4d6c3d972cd5f7b74aa878c55/sentinelone-white-panel.svg?w=3840&q=90)
+
+**Deliver expert-led defense**
+
+SentinelOne uses GPT cyber models in Wayfinder Frontier AI Services to help experts analyze code risk, malware, and compromise evidence.
+
+![Sophos](https://images.ctfassets.net/kftzwdyauwt9/6DgCAiT514rNsL97RNCfC6/d85c87d27952ac84b681fbdebf8bb8ed/sophos-white-panel.svg?w=3840&q=90)
+
+**Verify exploit paths in Managed Risk**
+
+Sophos Managed Risk uses GPT cyber models to verify exploit paths, cite the evidence behind each verdict, and guide analyst-reviewed remediation.
+
+![Tenable](https://images.ctfassets.net/kftzwdyauwt9/47Ugv23X2YQRI10I1ruu1U/32689279abc1b45228a3c2218af0b7a0/tenable-white-panel.svg?w=3840&q=90)
+
+**Vet AI components before deployment**
+
+Tenable combines OpenAI GPT cyber models, Tenable One AI Exposure, and researcher review to inspect agents, skills, MCP servers, and playbooks before deployment.
+
+![Trend Micro](https://images.ctfassets.net/kftzwdyauwt9/2y2lUZVLErcFpSwYOWXeb5/eb3d8d57ea7210a86b4769dd6cef8aa1/trend-micro-white-panel.svg?w=3840&q=90)
+
+**Turn patch-diffs into threat intelligence**
+
+Trend Micro uses GPT cyber models in TrendAI workflows to turn N-day research and patch diffs into faster intelligence, detections, and virtual patches.
+
+![Zscaler](https://images.ctfassets.net/kftzwdyauwt9/55I5Tf8yhwNjajRnXPEq5I/674026fe1cbfbee043356e3d1c20aacd/zscaler-white-panel.svg?w=3840&q=90)
+
+**Map AI access and endpoint risk**
+
+Zscaler uses GPT cyber models to map endpoint and AI Access Graph risk, reconstruct attack chains, and guide human-approved remediation.
+
+## Daybreak resources
+
+### [$1B for Cyber Defense: Introducing Daybreak for Critical InfrastructureLearn more](<https://openai.com/index/daybreak-for-frontline-defenders/>)
+
+### [A call for collective action on cyberLearn more](</collective-cyberdefense/>)
+
+### [Expanding Daybreak as the Cyber Defense Window NarrowsLearn more](</index/expanding-daybreak-as-the-cyber-defense-window-narrows/>)
+
+### [CrowdStrike and OpenAI Expand Partnership to Secure the Agentic EraLearn more](<https://www.crowdstrike.com/en-us/press-releases/crowdstrike-and-openai-expand-partnership-to-secure-the-agentic-era/>)
+
 ## Help shape the next generation of cyber defense
 
 Daybreak is expanding through a controlled rollout. We’re gathering interest from organizations building or delivering governed cyber capabilities.
@@ -266,6 +374,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)

@@ -166,15 +166,15 @@ OpenAI
 
 [View all](</news/>)
 
+![Daybreak for Critical Infrastructure — cover](https://images.ctfassets.net/kftzwdyauwt9/3iCwHSjR2bfJPdDiWomsis/86d511413c2b0338bd211b41545be495/Option_65___1080_1080.png?w=3840&q=90&fm=webp)
+
+[Daybreak for Frontline DefendersSecuritySep 3, 2026](</index/daybreak-for-frontline-defenders/>)
+
+![Safety overview: GPT-6 Astra](https://images.ctfassets.net/kftzwdyauwt9/4vjHRXipk1bBYL1d5Jz11j/d2dbb46d66b1035b7f5f320e818e1608/gpt-6-astra-safety-overview-cover.png?w=3840&q=90&fm=webp)
+
+[Safety overview: GPT-6 AstraSafetySep 3, 2026](</index/safety-overview-gpt-6-astra/>)
+
 [The Hugging Face incident and the road aheadSecurityAug 26, 2026](</index/hugging-face-incident-and-the-road-ahead/>)
-
-![Our commitment to Zero Data Retention as AI advances — card](https://images.ctfassets.net/kftzwdyauwt9/6bPStWA6pc66cahnhg0jo6/61786b178401b6e902e9da65fa4da095/Blog_Thumbnail_-_OpenAI_Blog.png?w=3840&q=90&fm=webp)
-
-[Offering Zero Data Retention for frontier modelsCompanyAug 19, 2026](</index/offering-zero-data-retention-for-frontier-models/>)
-
-![ChatGPT for Teens — square card](https://images.ctfassets.net/kftzwdyauwt9/5IP7e1KeD8zkZq6YUrKdKW/2325215681ea59d32dd09b3ea90f12c5/Art_Card-TEENS-1x13x.png?w=3840&q=90&fm=webp)
-
-[Introducing ChatGPT for TeensProductAug 18, 2026](</index/chatgpt-for-teens/>)
 
 Research
 
@@ -186,6 +186,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)

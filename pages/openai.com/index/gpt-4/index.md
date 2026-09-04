@@ -26,6 +26,8 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
+March 14, 2023
+
 [Release](</research/index/release/>)
 
 # GPT‑4 is OpenAI’s most advanced system, producing safer and more useful responses
@@ -36,7 +38,7 @@ OpenAI
 
 Learn about OpenAI’s latest model:
 
-[GPT-5.6](</index/gpt-5-6/>)
+[GPT-6](</index/gpt-6-astra/>)
 
 [Compare models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
 
@@ -129,6 +131,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)

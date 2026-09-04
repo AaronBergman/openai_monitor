@@ -56,7 +56,7 @@ What early customers are experiencing
 
 
 
-Today, we’re sharing an early look at Ultrafast, a new service tier that runs GPT‑5.6 Sol up to 14× faster than Standard processing, launching first in the OpenAI API. Powered by Cerebras, Ultrafast generates up to 750 output tokens per second, bringing our most intelligent model to products and workflows where every second matters.
+Today, we’re sharing an early look at Ultrafast, a new service tier that runs GPT‑5.6 Sol up to 14× faster than Standard processing, launching first in the OpenAI API. Powered by Cerebras, Ultrafast generates up to 750 output tokens per second, bringing our most intelligent model at the time of this announcement to products and workflows where every second matters.
 
 With [GPT‑5.6](</index/gpt-5-6/>), we’re pushing the frontier on what our models can do and [making them more efficient](</index/gpt-5-6-frontier-intelligence-efficiency/>) across every layer of our stack. Those improvements have made advanced intelligence [more affordable](</index/advancing-the-price-performance-frontier-with-gpt-5-6/>) and [more useful to more people](</index/improving-gpt-5-6-sol-in-chatgpt/>). Until now, getting real-time speed typically meant choosing a smaller or more specialized model. Ultrafast points to progress in a new direction: _more useful work per second._
 
@@ -124,7 +124,7 @@ For research, our team uses Ultrafast to rapidly search knowledge sources, query
 
 ## Powered by Cerebras
 
-Ultrafast marks the next step in our partnership with Cerebras to bring ultra-low-latency inference to OpenAI’s platform. Now, with GPT‑5.6 Sol on Ultrafast mode, Cerebras is supporting OpenAI’s most intelligent model, delivering up to 750 output tokens per second, enabling businesses to build more responsive products, make faster decisions, and bring powerful AI directly into their most demanding workflows.
+Ultrafast marks the next step in our partnership with Cerebras to bring ultra-low-latency inference to OpenAI’s platform. Now, with GPT‑5.6 Sol on Ultrafast mode, Cerebras is supporting OpenAI’s most intelligent model at the time of this announcement, delivering up to 750 output tokens per second, enabling businesses to build more responsive products, make faster decisions, and bring powerful AI directly into their most demanding workflows.
 
 ## Availability
 
@@ -165,6 +165,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
