@@ -80,7 +80,7 @@ Find funding opportunities, prepare grant applications, draft manuscripts, manag
 
 ### Built with scientists, for the benefit of people
 
-Our most advanced general-purpose model family supports difficult work across mathematics, physics, biology, chemistry, and other scientific disciplines. GPT‑5.6 Sol Pro offers our highest-capability reasoning for demanding research problems.
+Explore GPT‑6, OpenAI’s latest model.
 
 ![GPT-Rosalind label on an abstract green and teal background.](https://images.ctfassets.net/kftzwdyauwt9/29Gs5Tt0m032tOo1XHc6zd/1426f0b9050fac8208d1e8c9b505b5b0/GPTRosalind.png?w=3840&q=90&fm=webp)
 
@@ -92,11 +92,11 @@ Our purpose-built life-science model helps qualified research organizations reas
 
 ![GPT-5.6 label over planets and a star-filled sky.](https://images.ctfassets.net/kftzwdyauwt9/6JhTH6AePSYpw5uXF8mWQY/4bfbaf3e3734e088cb6e759d5808f17e/GPT5.6.png?w=3840&q=90&fm=webp)
 
-### GPT-5.6
+### GPT-6
 
-Our most advanced general-purpose model family supports difficult work across mathematics, physics, biology, chemistry, and other scientific disciplines. GPT-5.6 Sol Pro offers our highest-capability reasoning for demanding research problems.
+Explore GPT-6, OpenAI’s latest model.
 
-[Learn more](</index/gpt-5-6/>)
+[Learn more](</index/gpt-6-astra/>)
 
 ![OpenAI for Science > Prism](https://images.ctfassets.net/kftzwdyauwt9/4x2DhtPDGnDKJb0kty2xlP/b4c2db879448b1c632c5822caec5073b/Frame_2147258749__4_.png?w=3840&q=90&fm=webp)
 
@@ -182,6 +182,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)

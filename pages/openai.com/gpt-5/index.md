@@ -30,9 +30,13 @@ OpenAI
 
 # GPT‑5 is here
 
-Our smartest, fastest, and most useful model yet, with thinking built in. Available to everyone.
+At its August 2025 launch, GPT‑5 was our smartest, fastest, and most useful model, with thinking built in. It was available to everyone.
 
 [Try it in ChatGPT(opens in a new window)](<https://chatgpt.com>)[Read the research](</index/introducing-gpt-5/>)
+
+## Update
+
+GPT‑5 was introduced in August 2025. [Explore GPT‑6⁠](</index/gpt-6-astra/>), OpenAI’s latest model.
 
 ChatGPTFor developersFor business
 
@@ -74,7 +78,7 @@ Explore the evolution of our models in ChatGPT
 
 For developers
 
-## Our most advanced model for coding and agentic tasks
+## Our most advanced model for coding and agentic tasks at its August 2025 launch
 
 GPT‑5 produces high-quality code, generates front-end UI with minimal prompting, and shows improvements to personality, steerability, and executing long chains of tool calls. GPT‑5 also introduces ‘minimal’ reasoning and a ‘verbosity’ parameter in the API.
 
@@ -104,7 +108,7 @@ Learn more(opens in a new window)(opens in a new window)](<https://platform.open
 
 For business
 
-## Our best model for work
+## Our best model for work at its August 2025 launch
 
 GPT‑5 is smarter, more reliable, and built for the tasks businesses depend on. Your teams can trust it to handle important work with higher confidence.
 
@@ -148,6 +152,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
@@ -267,8 +272,8 @@ Create clearer, more compelling messaging for everything from stories to speeche
 
 ### More useful health answers
 
-Our best model yet for health-related questions, providing more precise and reliable responses while acting as more of a proactive thought partner.
+Our best model for health-related questions at its August 2025 launch, providing more precise and reliable responses while acting as more of a proactive thought partner.
 
 ### Safer and more accurate
 
-Our most reliable model yet. It’s less prone to hallucinations and pretending to know things.
+Our most reliable model at its August 2025 launch. It was less prone to hallucinations and pretending to know things.

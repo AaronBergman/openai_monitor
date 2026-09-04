@@ -592,6 +592,10 @@ Bring your industry expertise, customer relationships, and delivery capacity to 
 
 ## [Find a partnerBrowse trusted organizations with the expertise that can help turn your business goals into AI solutions that work in the real world.Access our partner locator](</business/partners/locator/>)
 
+![Orange illustration of a shield between partner logo panels, representing the Daybreak Defense Network.](https://images.ctfassets.net/kftzwdyauwt9/1QMFdPH6vordiLImwroPwq/34a31c6ba077dd37bb5da12375dc6640/daybreak-source.png?w=3840&q=90&fm=webp)
+
+## [Daybreak partnersBuild the future of cyber defense with OpenAI through governed integrations and partner-operated workflows.Explore our Daybreak Defense Network](</daybreak/partners/>)
+
 ## Partner portal
 
 A simple path for organizations that want to join the program and work with OpenAI.
@@ -794,6 +798,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)

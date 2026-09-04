@@ -32,7 +32,7 @@ OpenAI
 
 10 days for exploring what’s possible with WebMCP.
 
-[Register ↗(opens in a new window)](<https://webmcp.devpost.com>)[Download Codex](</codex/>)
+[Submissions closed(opens in a new window)](<https://webmcp.devpost.com>)[Download Codex](</codex/>)
 
 00:00:00:00
 
@@ -66,7 +66,7 @@ The top 10 submissions will each receive:
 
 August 25 at 12 p.m. PT| Registration and submissions open  
 ---|---  
-September 3 at 1 p.m. PT| Submission deadline  
+September 4 at 1 a.m. PT| Submission deadline  
 September 23*| Winners announced  
   
 *The winner announcement date may change depending on the volume of submissions.
@@ -135,7 +135,7 @@ Browser Agent Lead, OpenAI
 
 Show us what’s possible when people and agents can use the web together.
 
-[Register now(opens in a new window)](<https://webmcp.devpost.com>)
+[Submissions closed(opens in a new window)](<https://webmcp.devpost.com>)
 
 Research
 
@@ -147,6 +147,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
@@ -288,7 +289,7 @@ Developers, founders, designers, startups, and independent builders are invited 
 
 ### How do I register?
 
-Registration is managed through the [Devpost challenge page ↗⁠(opens in a new window)](<https://webmcp.devpost.com>), where you’ll also find the official rules, submission requirements, and important dates.
+Submissions are now closed. You can find the official rules, submission requirements, and important dates on the [Devpost challenge page ↗⁠(opens in a new window)](<https://webmcp.devpost.com>).
 
 ### Do I have to build a new app?
 
@@ -300,7 +301,7 @@ Test your app in ChatGPT’s in-app browser, which supports WebMCP out of the bo
 
 ### How do I submit a project?
 
-Projects are submitted through the [Devpost challenge page ↗⁠(opens in a new window)](<https://webmcp.devpost.com>). Your submission should include a project description, a working live app, a code repository, and any additional materials required by the official rules. A demo video is also required.
+Submissions are now closed. Visit the [Devpost challenge page ↗⁠(opens in a new window)](<https://webmcp.devpost.com>) for challenge details.
 
 ### How will submissions be judged?
 

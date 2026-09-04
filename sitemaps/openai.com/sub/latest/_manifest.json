@@ -1,12 +1,12 @@
 {
-  "fetch_time": "2026-09-03T09:17:40Z",
+  "fetch_time": "2026-09-04T09:17:19Z",
   "root_url": "https://openai.com/sitemap.xml",
   "sub_sitemaps": [
     {
       "section": "page",
       "url": "https://openai.com/sitemap.xml/page/",
       "file": "sitemap.xml_page.xml",
-      "count": 498
+      "count": 499
     },
     {
       "section": "ai-adoption",
@@ -168,7 +168,7 @@
       "section": "product",
       "url": "https://openai.com/sitemap.xml/product/",
       "file": "sitemap.xml_product.xml",
-      "count": 178
+      "count": 179
     },
     {
       "section": "publication",
@@ -180,25 +180,25 @@
       "section": "release",
       "url": "https://openai.com/sitemap.xml/release/",
       "file": "sitemap.xml_release.xml",
-      "count": 79
+      "count": 80
     },
     {
       "section": "research",
       "url": "https://openai.com/sitemap.xml/research/",
       "file": "sitemap.xml_research.xml",
-      "count": 46
+      "count": 47
     },
     {
       "section": "safety",
       "url": "https://openai.com/sitemap.xml/safety/",
       "file": "sitemap.xml_safety.xml",
-      "count": 109
+      "count": 110
     },
     {
       "section": "security",
       "url": "https://openai.com/sitemap.xml/security/",
       "file": "sitemap.xml_security.xml",
-      "count": 48
+      "count": 50
     },
     {
       "section": "sora",
@@ -210,7 +210,7 @@
       "section": "startup",
       "url": "https://openai.com/sitemap.xml/startup/",
       "file": "sitemap.xml_startup.xml",
-      "count": 10
+      "count": 12
     },
     {
       "section": "webinar",

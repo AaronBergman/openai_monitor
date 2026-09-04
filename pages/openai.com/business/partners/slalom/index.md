@@ -36,9 +36,9 @@ OpenAI
 
 ## About
 
-Slalom is a fiercely human business and technology consulting company that leads with outcomes and helps organizations realize what's possible with AI. As an OpenAI services partner, we partner with leaders from strategy through delivery to build AI solutions that create value today while preparing for what's next. Whether modernizing software development with Codex, reimagining customer and employee experiences, or bringing new AI-powered products to market, we help organizations innovate with confidence, adopt AI responsibly, and create lasting impact for their business, their customers, and their people. Learn more about Slalom's AI consulting services.
+Slalom is a fiercely human business and technology consulting company that leads with outcomes and helps organizations realize what's possible with AI. As an OpenAI services partner, we partner with leaders from strategy through delivery to build AI solutions that create value today while preparing for what's next. Whether modernizing software development with Codex, reimagining customer and employee experiences, or bringing new AI-powered products to market, we help organizations innovate with confidence, adopt AI responsibly, and create lasting impact for their business, their customers, and their people. Learn more about Slalom's [AI consulting services⁠(opens in a new window)](<https://www.slalom.com/us/en/services/artificial-intelligence>).
 
-![Advanced Partner](/images/partner-tier-badges/OAI_PartnerNetwork_AdvancedPartner.svg?dpl=dpl_CHhe8t4m1fBdp5UoJE4ESoqcsEvd)
+![Advanced Partner](/images/partner-tier-badges/OAI_PartnerNetwork_AdvancedPartner.svg?dpl=dpl_A14pXtnVVdwRZKa69XezyxJEd6jh)
 
 Countries served
     Global
@@ -62,6 +62,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)

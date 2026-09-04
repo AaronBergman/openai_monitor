@@ -36,7 +36,7 @@ Loading…
 
 Share
 
-The GPT‑5.6 model family is now available in Kiro, a software development agent that brings engineering rigor and quality to AI-native coding at scale. For Kiro users, the update brings OpenAI’s latest flagship model series, including Sol, Terra, and Luna, into the development workflows where teams plan, build, review, and test software. Together, these models can help developers produce higher-quality code with fewer iterations and better value per token.
+The GPT‑5.6 model family is now available in Kiro, a software development agent that brings engineering rigor and quality to AI-native coding at scale. For Kiro users, the update brings OpenAI’s latest flagship model series at the time of this announcement, including Sol, Terra, and Luna, into the development workflows where teams plan, build, review, and test software. Together, these models can help developers produce higher-quality code with fewer iterations and better value per token.
 
 GPT‑5.6 delivers more useful work from every token, with stronger performance per dollar and on-demand capability for complex tasks. In Kiro, developers can apply these capabilities to long-running development work grounded in their requirements, codebase, and team standards.
 
@@ -124,6 +124,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)

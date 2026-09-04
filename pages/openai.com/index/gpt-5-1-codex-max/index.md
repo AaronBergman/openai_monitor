@@ -89,21 +89,6 @@ For example, GPT‑5.1‑Codex‑Max is able to produce high quality frontend de
 
 CartPoleSolar system sandboxKanbanSnell's law
 
-GPT-5.1-Codex-MaxGPT-5.1-Codex
-
-`**Prompt:**`` Generate a single self-contained browser app that renders an interactive CartPole RL sandbox with canvas graphics, a tiny policy-gradient controller, metrics, and an SVG network visualizer.`
-
-`Features`
-
-  * `Must be able to actually train a policy to make model better at cart pole`
-  * `Visualizer for the activations/weights when the model is training or at inference`
-  * `Steps in the episode, rewards this episode`
-  * `Last survival time and best survival time in steps`
-
-
-
-`Save to index.html`
-
 ## Long-running tasks
 
 Compaction enables GPT‑5.1‑Codex‑Max to complete tasks that would have previously failed due to context-window limits, such as complex refactors and long-running agent loops by pruning its history while preserving the most important context over long horizons. In Codex applications, GPT‑5.1‑Codex‑Max automatically compacts its session when it approaches its context window limit, giving it a fresh context window. It repeats this process until the task is completed.
@@ -163,17 +148,17 @@ OpenAI
 
 [View all](</news/>)
 
+![Healthcare hero and SEO — original blue icon on white, smaller icon](https://images.ctfassets.net/kftzwdyauwt9/7pfIDODSObT8A9BTlfXyVc/43262863eeb33d7f4f8e191fe4783cab/healthcare-exact-smaller-icon-hero-2x.png?w=3840&q=90&fm=webp)
+
+[ChatGPT can now connect to healthcare sourcesProductSep 1, 2026](</index/chatgpt-connects-health-records-and-healthcare-sources/>)
+
+![Expanding access to AI > Cover image](https://images.ctfassets.net/kftzwdyauwt9/x3ij3VqMj60KcdHucQvNc/414ce018aafcf0916557e004ee112d71/expanding-access-to-ai--art-card-purple-v001.png?w=3840&q=90&fm=webp)
+
+[A milestone in expanding access to AIProductAug 31, 2026](</index/expanding-access-to-ai-with-chatgpt-ads/>)
+
 ![ChatGPT for Teachers district expansion | Original neutral library cover](https://images.ctfassets.net/kftzwdyauwt9/4jHps0gmVQfIrnl2shwDBi/35e47854409876d353f3bb502a164317/teachers-original-neutral-listing.png?w=3840&q=90&fm=webp)
 
 [Bringing ChatGPT for Teachers to more U.S. school districtsProductAug 26, 2026](</index/bringing-chatgpt-for-teachers-to-more-us-school-districts/>)
-
-![Learning never stops card image](https://images.ctfassets.net/kftzwdyauwt9/rGBw0SMWP2aaIH5twRBgX/5f8f24d0e5a03eecfc74ab6cee3dc331/learning-never-stops-how-ai-makes-learning-continuous-cover.png?w=3840&q=90&fm=webp)
-
-[Learning never stops: How AI makes learning continuousProductAug 26, 2026](</index/learning-never-stops/>)
-
-![GPT-5.6 in Kiro > OpenAI and official Kiro full logo > 1:1 art card](https://images.ctfassets.net/kftzwdyauwt9/31NSq4ufuXRuOUqH9Xdjno/319b9502b892d44b8b91df7aef9d53ed/OAI_Kiro_Partnership_1x1_Art_Card_Official_Full_Lockup_2160.png?w=3840&q=90&fm=webp)
-
-[Advancing price-performance for developers with GPT‑5.6 in KiroProductAug 24, 2026](</index/gpt-5-6-in-kiro/>)
 
 Research
 
@@ -185,6 +170,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
@@ -279,3 +265,18 @@ Terms & Policies
 OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
+
+GPT-5.1-Codex-MaxGPT-5.1-Codex
+
+`**Prompt:**`` Generate a single self-contained browser app that renders an interactive CartPole RL sandbox with canvas graphics, a tiny policy-gradient controller, metrics, and an SVG network visualizer.`
+
+`Features`
+
+  * `Must be able to actually train a policy to make model better at cart pole`
+  * `Visualizer for the activations/weights when the model is training or at inference`
+  * `Steps in the episode, rewards this episode`
+  * `Last survival time and best survival time in steps`
+
+
+
+`Save to index.html`

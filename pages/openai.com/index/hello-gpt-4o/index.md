@@ -42,7 +42,7 @@ All videos on this page are at 1x real time.
 
 Learn about OpenAI’s latest model:
 
-[GPT-5.6](</index/gpt-5-6/>)
+[GPT-6](</index/gpt-6-astra/>)
 
 [Compare models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
 
@@ -169,22 +169,6 @@ As measured on traditional benchmarks, GPT‑4o achieves GPT‑4 Turbo-level per
 
 Text EvaluationAudio ASR performanceAudio translation performanceM3Exam Zero-Shot ResultsVision understanding evals
 
-## Text Evaluation
-
-### GPT-4o
-
-### GPT-4T
-
-### GPT-4 (Initial release 23-03-14)
-
-### Claude3 Opus
-
-### Gemini Pro 1.5
-
-### Gemini Ultra 1.0
-
-### Llama3 400b
-
 ### Language tokenization
 
 These 20 languages were chosen as representative of the new tokenizer's compression across different language families
@@ -299,6 +283,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
@@ -393,3 +378,19 @@ Terms & Policies
 OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
+
+## Text Evaluation
+
+### GPT-4o
+
+### GPT-4T
+
+### GPT-4 (Initial release 23-03-14)
+
+### Claude3 Opus
+
+### Gemini Pro 1.5
+
+### Gemini Ultra 1.0
+
+### Llama3 400b
