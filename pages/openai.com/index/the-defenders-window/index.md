@@ -62,7 +62,7 @@ AI models developed around the world are increasingly able to automate parts of 
 
 In the OpenAI-Hugging Face Incident, an agentic collective was able to autonomously penetrate not just OpenAI research infrastructure but also the production infrastructure of another company, chaining together vulnerabilities ranging from previously-unknown security flaws to using credentials to user accounts that had been leaked onto the internet. It is increasingly clear that the [_tech debt_ ⁠(opens in a new window)](<https://www.veracode.com/blog/2026-state-of-software-security-report-risky-security-debt/>) of every company masks significant flaws, and defenders need to find and fix them before attackers do.
 
-To advantage defenders relative to attackers, earlier this year we began releasing our cyber capabilities only to [_trusted defenders_](</index/trusted-access-for-cyber/>). Since then, various companies have released open weight models with cyber capabilities only a few months behind the frontier. The most recent of these models appears slated [_to be released_ ⁠(opens in a new window)](<https://z.ai/blog/glm-5.3>) at the end of August, and seems likely to significantly accelerate the threat landscape.
+To advantage defenders relative to attackers, earlier this year we began releasing our cyber capabilities only to [_trusted defenders_](</index/trusted-access-for-cyber/>). Since then, various companies have released broadly diffused models with cyber capabilities only a few months behind the frontier. The most recent of these models appears slated [_to be released_ ⁠(opens in a new window)](<https://z.ai/blog/glm-5.3>) at the end of August, and seems likely to significantly accelerate the threat landscape.
 
 While AI-powered attackers will soon be able to find longstanding flaws in many existing systems, AI will also make it much easier for defenders to find, prioritize, and fix those same flaws. Security is still a cat-and-mouse game, but AI may[ _shift its economics_ ⁠(opens in a new window)](<https://blog.mozilla.org/en/firefox/privacy-security/ai-security-zero-day-vulnerabilities/>) in ways that fundamentally advantage defenders. For example, we are starting to train our models specifically to write superhumanly secure code. Our models are also incredible at [_mathematical proofs_](</index/ten-advances-in-mathematics/>) , which can be applied to formally verify the security of software in a way that has proven intractable for humans.
 
@@ -113,6 +113,7 @@ The defender’s window is open now. Over the coming months, every organization 
 
   * [2026](</news/?tags=2026>)
   * [Codex](</news/?tags=codex>)
+  * [Cybersecurity](</news/?tags=cybersecurity>)
 
 
 
@@ -124,15 +125,15 @@ Greg Brockman
 
 [View all](</news/>)
 
+![Daybreak for Critical Infrastructure — cover](https://images.ctfassets.net/kftzwdyauwt9/3iCwHSjR2bfJPdDiWomsis/86d511413c2b0338bd211b41545be495/Option_65___1080_1080.png?w=3840&q=90&fm=webp)
+
+[Daybreak for Frontline DefendersSecuritySep 3, 2026](</index/daybreak-for-frontline-defenders/>)
+
 ![Path to Astra — Clean square cover — Neutral Option 062 v1](https://images.ctfassets.net/kftzwdyauwt9/4BabvjDCQdlYN2ISzOkgF9/78d35947274e9b3ac2483377782b007e/astra-cover-v001.png?w=3840&q=90&fm=webp)
 
 [Path to Astra: critical capabilities and frontier safeguardsSafetySep 1, 2026](</index/path-to-astra/>)
 
 [The Hugging Face incident and the road aheadSecurityAug 26, 2026](</index/hugging-face-incident-and-the-road-ahead/>)
-
-![GPT-Daybreak > Cover](https://images.ctfassets.net/kftzwdyauwt9/2iqsbTTLvgMNteNampw3gW/a38ed04432ee5548c4aec6c7b7a506f2/1x1_Art_Card.png?w=3840&q=90&fm=webp)
-
-[Expanding Daybreak as the Cyber Defense Window NarrowsSecurityAug 10, 2026](</index/expanding-daybreak-as-the-cyber-defense-window-narrows/>)
 
 Research
 
@@ -144,6 +145,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)

@@ -103,6 +103,7 @@ Based on Irregular’s investigation, the model also found and used credentials 
 We appreciate Irregular’s partnership and we will continue to work closely with them to support their review. Irregular is also developing a white paper to share best practices for containment and securely running cyber evals. We look forward to participating in the white paper to make the findings available to the community and continuing our partnership together. We see this kind of collaboration as essential for ensuring the safe and thorough evaluation of current and future models.
 
   * [2026](</news/?tags=2026>)
+  * [Cybersecurity](</news/?tags=cybersecurity>)
 
 
 
@@ -114,15 +115,15 @@ OpenAI
 
 [View all](</news/>)
 
+![Daybreak for Critical Infrastructure — cover](https://images.ctfassets.net/kftzwdyauwt9/3iCwHSjR2bfJPdDiWomsis/86d511413c2b0338bd211b41545be495/Option_65___1080_1080.png?w=3840&q=90&fm=webp)
+
+[Daybreak for Frontline DefendersSecuritySep 3, 2026](</index/daybreak-for-frontline-defenders/>)
+
 ![Path to Astra — Clean square cover — Neutral Option 062 v1](https://images.ctfassets.net/kftzwdyauwt9/4BabvjDCQdlYN2ISzOkgF9/78d35947274e9b3ac2483377782b007e/astra-cover-v001.png?w=3840&q=90&fm=webp)
 
 [Path to Astra: critical capabilities and frontier safeguardsSafetySep 1, 2026](</index/path-to-astra/>)
 
 [The Hugging Face incident and the road aheadSecurityAug 26, 2026](</index/hugging-face-incident-and-the-road-ahead/>)
-
-![The Defender’s Window > Cover](https://images.ctfassets.net/kftzwdyauwt9/2We7bguC4FuOofZ8Lu6LUZ/02049fcee47c460695acab59bdb8f648/the-defenders-window-clean-cover.png?w=3840&q=90&fm=webp)
-
-[The Defender’s WindowSecurityAug 17, 2026](</index/the-defenders-window/>)
 
 Research
 
@@ -134,6 +135,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)

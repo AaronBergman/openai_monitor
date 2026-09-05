@@ -28,15 +28,15 @@ OpenAI
 
 ChatGPT Work
 
-# Take on your most ambitious work with ChatGPT
+# Turn your team’s ambition into finished work.
 
-Powered by GPT‑5.6, ChatGPT Work brings together context from your team’s tools to turn scattered notes, drafts, and ideas into finished work — and keeps projects moving while you stay in control.
+Powered by GPT‑6, ChatGPT Work brings together your team’s context to tackle complex work—from weighing tradeoffs to creating polished presentations, reports, and analyses—while your team stays in control.
 
 [Contact sales](</contact-sales/>)
 
  _Available to all plans on macOS and Windows desktop, and to Plus, Pro, Business, Enterprise, and Edu on web and mobile._
 
-ChatGPT WorkUse casesGPT-5.6
+ChatGPT WorkUse casesGP-6
 
 ## Turn ideas into action
 
@@ -48,11 +48,9 @@ See how ChatGPT Work can help teams accomplish more.
 
 FinanceOpsMarketingSalesData analyticsEngineering
 
-Analyze business drivers and turn findings into forecasts, dashboards, or executive-ready presentations. [Learn more.⁠](<https://openai.com/business/solutions/finance/>)
+## Powered by GPT‑6
 
-## Powered by GPT‑5.6
-
-Our smartest model series for professional work. Give GPT‑5.6 Sol, Terra, or Luna an outcome, and it can navigate ambiguity, adapt as work unfolds, and deliver polished outputs with less prompting.
+GPT‑6 introduces Astra, a new tier of intelligence for work that demands deeper judgment.
 
 [Read the research](</index/gpt-5-6/>)
 
@@ -112,7 +110,7 @@ Explore hands-on learning sessions designed to build practical skills and help y
 
 Build Hour
 
-Learn how to get the most out of GPT‑5.6 in ChatGPT and the API.
+Learn how to get the most out of GPT‑6 in ChatGPT and the API.
 
 [Register now(opens in a new window)](<https://webinar.openai.com/buildhours/>)
 
@@ -132,6 +130,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
@@ -262,3 +261,5 @@ The new built-in browser experience in the ChatGPT desktop app makes it easier t
 ### Review the approach before work begins
 
 In Plan mode, ChatGPT gathers context, asks questions, and creates a step-by-step plan. You can suggest changes or approve the plan to start the work.
+
+Analyze business drivers and turn findings into forecasts, dashboards, or executive-ready presentations. [Learn more.⁠](<https://openai.com/business/solutions/finance/>)

@@ -34,7 +34,7 @@ Manage your business and develop your payments integration.
 
 [@Stripe Show me the list of my customers(opens in a new window)](<https://chatgpt.com/?prompt=%40Stripe+Show+me+the+list+of+my+customers>)[@Stripe Show me what products I have(opens in a new window)](<https://chatgpt.com/?prompt=%40Stripe+Show+me+what+products+I+have>)[@Stripe Tell me the prices I have created(opens in a new window)](<https://chatgpt.com/?prompt=%40Stripe+Tell+me+the+prices+I+have+created>)
 
-Use case: [Finance](</business/plugins/?tab=apps-finance>)
+Use case: [Finance](</business/plugins/?tab=apps-finance>) and [Small Business](</business/plugins/?tab=apps-small-business>)
 
 Made by: Stripe
 
@@ -94,6 +94,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)

@@ -40,7 +40,7 @@ Sync ClickUp tasks and docs for use in ChatGPT.
 
 ![@ClickUp Which deals have had no activity in 10+ days?](https://files.openai.com/content?id=file_00000000bfa871f683456914f7b8dc8d&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=1&sig=b02b710fa82617fe188ae1826e48d94a7ed93a7616e84c61f852e4514c50b4dc)
 
-Use case: [Project Management](</business/plugins/?tab=apps-project-management>)
+Use case: [Project Management](</business/plugins/?tab=apps-project-management>) and [Small Business](</business/plugins/?tab=apps-small-business>)
 
 Made by: ClickUp
 
@@ -100,6 +100,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)

@@ -112,7 +112,7 @@ Shlomo Kramer, Co-founder and CEO, Cato Networks
 
 > “With OpenAI, we are working to put advanced AI on the side of the defender through governed, prevention-first security workflows. This collaboration marks an important step in how AI can support the daily work of defending real organizations. By bringing OpenAI Daybreak Defense Network capabilities into Check Point’s prevention-first solutions through scoped product integrations, we can help defenders explain, prioritize, and remediate risk while maintaining the controls needed for responsible deployment. Check Point is proud to help define what responsible, frontier-grade defense looks like alongside OpenAI.”
 
-Jonathan Zanger, CTO, CheckPoint
+Jonathan Zanger, CTO, Check Point
 
 > “Defenders need tools that shift the advantage back to them inside the platforms they already use, under controls they already trust. Through the Daybreak Defense Network, Cisco and OpenAI are exploring how GPT‑5.5 with trusted access can help security teams triage faster, prioritize exposure, and enforce the right controls in Cisco Cloud Control.”
 
@@ -186,7 +186,7 @@ Dhawal Sharma, EVP AI Security and Strategic Initiatives, ZScaler
 
   * Cato Networks
 
-  * CheckPoint
+  * Check Point
 
   * Cisco
 
@@ -227,7 +227,7 @@ Dhawal Sharma, EVP AI Security and Strategic Initiatives, ZScaler
 
   * Akamai
   * Cato Networks
-  * CheckPoint
+  * Check Point
   * Cisco
   * Cloudflare
   * CrowdStrike
@@ -252,9 +252,9 @@ Dhawal Sharma, EVP AI Security and Strategic Initiatives, ZScaler
 
 ![Abnormal](https://images.ctfassets.net/kftzwdyauwt9/7wRqKEmjlUF4vQmMuI05PP/2536aca595d1b58633e8f22db86e4f91/abnormal-white-panel.svg?w=3840&q=90)
 
-**Investigate suspicious cloud activity**
+**Detect & Contain Rogue AI in the Cloud**
 
-Abnormal uses GPT cyber models with behavioral AI to detect, investigate, and respond to risky or malicious AI-agent behavior across cloud environments.
+Abnormal uses GPT cyber models to investigate and respond to behavioral anomalies across human and non-human identities (service accounts, API keys, AI agents) to catch malicious AI at machine speed.
 
 ![Check Point](https://images.ctfassets.net/kftzwdyauwt9/5kCeYmiBkliAJGZdxXEgGu/39e2e186136f4c73e20bbfd229cc4d41/check-point-white-panel.svg?w=3840&q=90)
 
@@ -270,7 +270,7 @@ Cisco is validating Daybreak Blue and Red in AI Defense scanners to analyze skil
 
 ![Cloudflare](https://images.ctfassets.net/kftzwdyauwt9/2TdYY4RuUfWazKRVuoHnNT/4d6710beb2e9171b7e3ee503b67ed8c6/cloudflare-white-panel.svg?w=3840&q=90)
 
-**Run developer-platform detections**
+**Pinpoint and patch vulnerabilities**
 
 Cloudflare combines production traffic, WAF signals, and OpenAI-powered analysis to prioritize live vulnerabilities, propose patches, and scope edge mitigations.
 
@@ -336,9 +336,9 @@ Tenable combines OpenAI GPT cyber models, Tenable One AI Exposure, and researche
 
 ![Trend Micro](https://images.ctfassets.net/kftzwdyauwt9/2y2lUZVLErcFpSwYOWXeb5/eb3d8d57ea7210a86b4769dd6cef8aa1/trend-micro-white-panel.svg?w=3840&q=90)
 
-**Turn patch-diffs into threat intelligence**
+**Shrink Exposure Time to Zero**
 
-Trend Micro uses GPT cyber models in TrendAI workflows to turn N-day research and patch diffs into faster intelligence, detections, and virtual patches.
+TrendAI uses GPT cyber models across its cybersecurity workflows to turn N-day research and patch diffs into real-time intelligence, to close the exposure window, from vulnerability to fix, faster than ever.
 
 ![Zscaler](https://images.ctfassets.net/kftzwdyauwt9/55I5Tf8yhwNjajRnXPEq5I/674026fe1cbfbee043356e3d1c20aacd/zscaler-white-panel.svg?w=3840&q=90)
 
@@ -355,6 +355,20 @@ Zscaler uses GPT cyber models to map endpoint and AI Access Graph risk, reconstr
 ### [Expanding Daybreak as the Cyber Defense Window NarrowsLearn more](</index/expanding-daybreak-as-the-cyber-defense-window-narrows/>)
 
 ### [CrowdStrike and OpenAI Expand Partnership to Secure the Agentic EraLearn more](<https://www.crowdstrike.com/en-us/press-releases/crowdstrike-and-openai-expand-partnership-to-secure-the-agentic-era/>)
+
+### [How Abnormal and OpenAI are Detecting and Responding to Rogue AI in the CloudLearn more](<https://abnormal.ai/blog/openai-rogue-ai-cloud-security>)
+
+### [Check Point Brings OpenAI Daybreak Models Across Its Security Platform to Help Defenders Find, Validate, and Remediate RiskLearn more](<https://blog.checkpoint.com/ai-security/check-point-brings-openai-daybreak-models-across-its-security-platform-to-help-defenders-find-validate-and-remediate-risk/>)
+
+### [Cloudflare Partners with OpenAI Daybreak Models to Redefine Vulnerability Management with AI-Powered Edge DefenseLearn more](<https://www.cloudflare.com/press/press-releases/2026/cloudflare-partners-with-openai-daybreak-models-to-redefine-vulnerability-management-with-ai-powered-edge-defense/>)
+
+### [Darktrace Advances Incident Investigation and AI-Agent Security with OpenAI Daybreak ModelsLearn more](<https://www.darktrace.com/blog/darktrace-advances-incident-investigation-and-ai-agent-security-with-openai-daybreak-models>)
+
+### [Elastic Brings OpenAI GPT Cyber Models Into Elastic Security to Help Defenders Investigate and Remediate Threats FasterLearn more](<https://ir.elastic.co/News--Events/news/news-details/2026/Elastic-Brings-OpenAI-GPT-Cyber-Models-Into-Elastic-Security-to-Help-Defenders-Investigate-and-Remediate-Threats-Faster/default.aspx>)
+
+### [Proofpoint Brings OpenAI GPT Cyber Models into Security Operations to Help Defenders Investigate Threats FasterLearn more](<https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-soc-analyst-agent-openai-daybreak>)
+
+Load more
 
 ## Help shape the next generation of cyber defense
 

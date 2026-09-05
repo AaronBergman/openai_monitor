@@ -40,13 +40,15 @@ Message ChatGPT
 
 [GPT-6 Astra: A new generation of intelligenceResearch28 min read](</index/gpt-6-astra/>)
 
+![""](https://images.ctfassets.net/kftzwdyauwt9/4EPFfixCR8upYpL3fOmjMo/2f995b1b7e03a6938bf5b654fb1df507/System_Card_1x1.png?w=3840&q=90&fm=webp)
+
+[GPT‑6 Astra System Card(opens in a new window)](<https://deploymentsafety.openai.com/gpt-6-astra>)
+
 [The Hugging Face incident and the road aheadSecurity22 min read](</index/hugging-face-incident-and-the-road-ahead/>)
 
 ![Daybreak for Critical Infrastructure — cover](https://images.ctfassets.net/kftzwdyauwt9/3iCwHSjR2bfJPdDiWomsis/86d511413c2b0338bd211b41545be495/Option_65___1080_1080.png?w=3840&q=90&fm=webp)
 
 [Daybreak for Frontline DefendersSecurity6 min read](</index/daybreak-for-frontline-defenders/>)
-
-[Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free usersProduct5 min read](</index/improving-gpt-5-6-sol-in-chatgpt/>)
 
 ## Recent news
 

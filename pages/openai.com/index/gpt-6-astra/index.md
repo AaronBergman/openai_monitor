@@ -151,7 +151,7 @@ Sequencing qualityCell-tracking workflow
 
 ## Cybersecurity
 
-As we discussed in our [_safety update_](</index/path-to-astra/>) , Astra is a significant jump in cyber capabilities and meets the [_Critical threshold_ ⁠(opens in a new window)](<https://www.google.com/url?q=https://openai.com/index/path-to-astra/&sa=D&source=docs&ust=1788394134604543&usg=AOvVaw0evbJw3ljnuix36JTZDiwA>) in cybersecurity under our [_Preparedness Framework_](</index/updating-our-preparedness-framework/>). Its ability to identify and develop zero-day exploits can help defenders find and patch weaknesses, but it also creates a need for stronger safeguards. To understand how far these capabilities extend, we ran Astra on internal and third-party expert evaluations. 
+As we discussed in our [_safety update_ ⁠](</index/path-to-astra/>), Astra is a significant jump in cyber capabilities and meets the [_Critical threshold_](</index/path-to-astra/>) in cybersecurity under our [_Preparedness Framework_](</index/updating-our-preparedness-framework/>). Its ability to identify and develop zero-day exploits can help defenders find and patch weaknesses, but it also creates a need for stronger safeguards. To understand how far these capabilities extend, we ran Astra on internal and third-party expert evaluations. 
 
 We first tested the model without production safeguards on ExploitBench and ExploitGym, which evaluate whether models can turn known software vulnerabilities into working exploits. On ExploitBench, Astra achieved a perfect score of 100%, compared with 78.5% for GPT‑5.6 Sol, our previous frontier cyber-capable model. On ExploitGym, Astra reached a 42.4% success rate, compared with 30.3% for GPT‑5.6 Sol, while using substantially fewer output tokens.13
 
@@ -181,13 +181,13 @@ Astra is also more likely to operate within the boundaries set by the user and i
 
 Circumventing auto-reviewExploitGym honeypot
 
-Astra additionally sets new marks in transparent user communication. In one evaluation, Astra is three times less likely than GPT 5.6-Sol to make inaccurate representations about its capabilities and affordances.
+Astra additionally sets new marks in transparent user communication. In one evaluation, Astra is three times less likely than GPT‑5.6 Sol to make inaccurate representations about its capabilities and affordances.
 
 _In our capability-hallucination evaluation, Astra shows a substantial improvement over GPT‑5.6 Sol, making fewer misleading claims about its capabilities._
 
 Our evaluations found Astra’s written reasoning harder to monitor than GPT‑5.6 Sol’s, based on tests that explicitly asked it to evade monitoring. We attribute this to Astra’s greater control over written reasoning on simpler tasks and ability to solve problems with fewer written steps. Astra still appears to struggle to conceal the reasoning needed for complex tasks, but we take the decline seriously. Improving monitorability remains a research priority, and the accompanying [_system card_ ⁠(opens in a new window)](<https://deploymentsafety.openai.com/gpt-6-astra>) details our findings and ongoing work.
 
-Alignment training is core to our approach to deployment. As additional layer of defenses, we also build system safeguards like Codex [_Auto-review_ ⁠(opens in a new window)](<https://alignment.openai.com/auto-review/>) and monitoring agents’ reasoning and actions to help detect and contain unsafe behavior. As described in our [_safety update_ ⁠](<https://openai.com/index/path-to-astra/>), we are also deploying misalignment monitoring in production for Astra-class models in order to have visibility into misalignment, and help contain its worst instances. These safeguards resemble our monitoring for internal deployments and involve a system of classifiers which check the model’s reasoning and actions for unauthorized behavior and automatically stop potentially unauthorized activity. 
+Alignment training is core to our approach to deployment. As an additional layer of defenses, we also build system safeguards like Codex [_Auto-review_ ⁠(opens in a new window)](<https://alignment.openai.com/auto-review/>) and monitoring agents’ reasoning and actions to help detect and contain unsafe behavior. As described in our [_safety update_ ⁠](<https://openai.com/index/path-to-astra/>), we are also deploying misalignment monitoring in production for Astra-class models in order to have visibility into misalignment, and help contain its worst instances. These safeguards resemble our monitoring for internal deployments and involve a system of classifiers which check the model’s reasoning and actions for unauthorized behavior and automatically stop potentially unauthorized activity. 
 
 Given the significant increase in Astra’s cybersecurity capabilities, we are being especially careful to make this deployment safe and secure. Extra safety checks can sometimes slow, pause, or stop legitimate work, including defensive cybersecurity. If a task is paused in ChatGPT or Codex, you may be asked to review the action before continuing. In the API, the task will stop. These checks can sometimes interrupt legitimate work, and we are continuing to iterate on this system to reduce unnecessary interruptions. Misalignment monitoring cannot replace alignment: our goal is to build models that reliably stay within their authorized scope, so these protections do not need to intervene. 
 
@@ -197,7 +197,7 @@ GPT‑6 Astra is rolling out today to a limited set of organizations and over th
 
 Astra supports Zero Data Retention for eligible API customers, and as we shared last month, we're testing [_Private Safety Processing_](</index/offering-zero-data-retention-for-frontier-models/>) to strengthen safety monitoring while preserving customer privacy.
 
-For developers, GPT‑6 Astra will be available in the OpenAI API as `gpt-6-astra `and through Microsoft Azure and Amazon Bedrock.
+For developers, GPT‑6 Astra will be available in the OpenAI API as `gpt-6-astra` and through Microsoft Azure and Amazon Bedrock.
 
 OpenAI API Standard pricing is $10 per million input tokens and $50 per million output tokens. Separate rates apply to cache reads and writes. Fast mode is available for GPT‑6 Astra in the API and delivers up to 2x the speed of Standard processing at 2x the Standard price.
 
@@ -207,14 +207,14 @@ OpenAI API Standard pricing is $10 per million input tokens and $50 per million 
 ---|---|---|---|---|---|---  
 Agents' Last Exam| 59.3%| 53.6%| -| 48.7%| 55.5%| -  
 OSWorld 2.0 (v2026.08.08, offline set, partial score)| 72.6%| 65.7%| -| -| 70.2%3| -  
-ScreenSpot-Pro (no tools)| 92.7%| 76.9%| -| 87.3%16| -| -  
+ScreenSpot-Pro (no tools)| 92.7%| 76.9%| -| 87.3%17| -| -  
   
 ### Professional
 
 **Professional**| **GPT‑6 Astra**| **GPT‑5.6 Sol**| **Claude Fable 5.1**| **Claude Fable 5**| **Claude Opus 5**| **Gemini 3.8 Flash**  
 ---|---|---|---|---|---|---  
 AutomationBench| 41.4%| 18.1%| 31.4%| 17.4%| 26.9%| -  
-BenchCAD| 95.9%| 83.3%| 84.3% 4| 67.5% 4| 82.1% 4| -  
+BenchCAD| 95.9%| 83.3%| 84.3% 5| 67.5% 5| 82.1% 5| -  
 BrowseComp| 91.5%| 90.4%| -| 87.4%| 90.8%| -  
 OpenScore String Quartets (1 - OMR-NED)| 0.84| 0.19| -| -| -| -  
 Internal Design Tasks| 50.0%| 47.4%| -| 35.8%| -| -  
@@ -225,12 +225,12 @@ Artificial Analysis Intelligence Index v4.1.1| 61.2| 60.9| 65.7| 62.1| 63.1| 58.
 
 **Coding**| **GPT‑6 Astra**| **GPT‑5.6 Sol**| **Claude Fable 5.1**| **Claude Fable 5**| **Claude Opus 5**| **Gemini 3.8 Flash**  
 ---|---|---|---|---|---|---  
-Terminal-Bench 4.0| 57.9%| 37.3%| 55.8%| 42.0%| 52.3%| 19.1%  
+Terminal-Bench 4.0| 57.9%| 37.3%| 55.8%| 44.5%| 52.6%| 19.1%  
 DeepSWE v1.1| 74.1%| 72.7%| 67.4%| 69.9%| 73.7%| 73.8%  
-FrontierCode 1.1 Extended (score)| 64.5% 7| 60.6%| 63.6%| 64.9%| 63.6%| 56.3%  
-FrontierCode 1.1 Main (score)| 53.3% 7| 47.5%| 50.9%| 53.5%| 53.4%| 43.6%  
-Internal Database Migration Tasks| 63.9%| 42.7%| 57.8%| 50.3%| |   
-Artificial Analysis Coding Agent Index v1.4| 67.0| 65.1| | 67.2| 68.1| 61.2  
+FrontierCode 1.1 Extended (score)| 64.5% 8| 60.6%| 63.6%| 64.9%| 63.6%| 56.3%  
+FrontierCode 1.1 Main (score)| 53.3% 8| 47.5%| 50.9%| 53.5%| 53.4%| 43.6%  
+Internal Database Migration Tasks| 63.9%| 42.7%| 57.8%| 50.3%| -| -  
+Artificial Analysis Coding Agent Index v1.4| 67.0| 65.1| -| 67.2| 68.1| 61.2  
   
 ### Academic
 
@@ -245,20 +245,20 @@ Humanity's Last Exam (w/ tools)| 57.2%| -| 65.0%| 63.8%| 63.6%| -
 
 **Science and Health**| **GPT‑6 Astra**| **GPT‑5.6 Sol**| **Claude Fable 5.1**| **Claude Fable 5**| **Claude Opus 5**| **Gemini 3.8 Flash**  
 ---|---|---|---|---|---|---  
-GeneBench Pro| 37.8%| 28.7%| | | |   
-MedChemBench (Internal)| 49.3%| 47.4%| | | |   
-LifeSciBench| 60.3%| 59.9%| | | |   
-HealthBench Professional (length-adjusted)| 63.4%| 60.5%| 58.1% 10| 60.9% 10| 56.4% 10| 52.1%  
+GeneBench Pro| 37.1%| 32.3%| -| -| -| -  
+MedChemBench (Internal)| 49.3%| 47.4%| -| -| -| -  
+LifeSciBench| 60.3%| 59.9%| -| -| -| -  
+HealthBench Professional (length-adjusted)| 63.4%| 60.5%| 58.1% 11| 60.9% 11| 56.4% 11| 52.1%  
   
 ### Cybersecurity
 
 **Cybersecurity**| **GPT‑6 Astra**| **GPT‑5.6 Sol**| **Claude Fable 5.1**| **Claude Fable 5**| **Claude Opus 5**| **Gemini 3.8 Flash**  
 ---|---|---|---|---|---|---  
-ExploitBench| 100.0%| 78.5%| | | 70%|   
-Exploit Gym| 42.4% 12| 30.3% 12| 30.4% 16| 28.4%16| 22.0%16|   
-ExploitBench (June-Aug 2026)| 39.0%| 11.5%| | | |   
-SRE-Bench| 88.0%| 55.9%| | | 12.5%|   
-SEC-Bench Pro| 85.4%| 79.1%| | | |   
+ExploitBench| 100.0%| 78.5%| -| -| 70%| -  
+ExploitGym| 42.4% 13| 30.3% 13| 30.4% 17| 28.4%17| 22.0%| -  
+ExploitBench (June-Aug 2026)| 39.0%| 5.5%| -| -| -| -  
+SRE-Bench| 88.0%| 55.9%| -| -| 12.5%| -  
+SEC-Bench Pro| 85.4%| 79.1%| -| -| -| -  
   
 ### Alignment
 
@@ -282,7 +282,7 @@ OpenAI MRCR v2 8-needle 512K-1M| 96.3%| 73.8%| -| -| -| -
 
 **Abstract reasoning**| **GPT‑6 Astra**| **GPT‑5.6 Sol**| **Claude Fable 5.1**| **Claude Fable 5**| **Claude Opus 5**| **Gemini 3.8 Flash**  
 ---|---|---|---|---|---|---  
-ARC-AGI-3| 99.9% [T7]| 7.8%| -| -| 30.2%| -  
+ARC-AGI-3| 99.9% 1| 7.8%| -| -| 30.2%| -  
 ARC-AGI-2| 95.0%| 92.5%| 90.0%| 89.2%| 90.4%| -  
 ARC-AGI-1| 98.5%| 97.5%| 97.5%| 98.5%| 97.5%| -  
   
@@ -348,7 +348,7 @@ On ExploitGym, we tested Astra and Sol without the 6-hour time limit, to better 
 
   14. 14
 
-ExploitBench (June–August 2026) contains 20 high-severity V8 vulnerabilities across 13 stable Chrome releases. The benchmark tests whether agents can achieve arbitrary code execution in V8 and official Chrome releases for Linux by exploiting each specified vulnerability. Some included vulnerabilities may not permit arbitrary code execution under the evaluation’s constraints, so a 100% success rate may not be achievable.
+ExploitBench (June–August 2026) contains 20 high-severity V8 vulnerabilities across 13 stable Chrome releases. The benchmark tests whether agents can achieve arbitrary code execution in V8 and official Chrome releases for Linux by exploiting each specified vulnerability. Some included vulnerabilities may not permit arbitrary code execution under the evaluation’s constraints, so a 100% success rate may not be achievable. Note: the 5.5% score of GPT-5.6 Sol is an artifact of the 300-turn limit in the benchmark, which is not a limit that real customers using max would have. The model at similar settings achieved an 11.5% score when hitting fewer limits.
 
   15. 15
 
