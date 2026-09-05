@@ -112,7 +112,7 @@ Shlomo Kramer, Co-founder and CEO, Cato Networks
 
 > “With OpenAI, we are working to put advanced AI on the side of the defender through governed, prevention-first security workflows. This collaboration marks an important step in how AI can support the daily work of defending real organizations. By bringing OpenAI Daybreak Defense Network capabilities into Check Point’s prevention-first solutions through scoped product integrations, we can help defenders explain, prioritize, and remediate risk while maintaining the controls needed for responsible deployment. Check Point is proud to help define what responsible, frontier-grade defense looks like alongside OpenAI.”
 
-Jonathan Zanger, CTO, CheckPoint
+Jonathan Zanger, CTO, Check Point
 
 > “Defenders need tools that shift the advantage back to them inside the platforms they already use, under controls they already trust. Through the Daybreak Defense Network, Cisco and OpenAI are exploring how GPT‑5.5 with trusted access can help security teams triage faster, prioritize exposure, and enforce the right controls in Cisco Cloud Control.”
 
@@ -186,7 +186,7 @@ Dhawal Sharma, EVP AI Security and Strategic Initiatives, ZScaler
 
   * Cato Networks
 
-  * CheckPoint
+  * Check Point
 
   * Cisco
 
@@ -227,7 +227,7 @@ Dhawal Sharma, EVP AI Security and Strategic Initiatives, ZScaler
 
   * Akamai
   * Cato Networks
-  * CheckPoint
+  * Check Point
   * Cisco
   * Cloudflare
   * CrowdStrike

@@ -54,13 +54,7 @@ Explore the latest resources below, including country-focused Signals reports, r
 
 ### [ChatGPT and the price of workMarch 2026 | How Americans use ChatGPT to help them close the wage information gap.Learn more](<https://cdn.openai.com/pdf/ChatGPT-and-the-price-of-work_report.pdf>)
 
-### [OpenAI SignalsFebruary 2026 | A new resource to measure AI adoption and empower decisions, while protecting privacy.Learn more](<https://cdn.openai.com/signals/openai-signals-global-report.pdf>)
-
-### [How India uses ChatGPTFebruary 2026 | Explore how users in the world’s largest democracy have adopted ChatGPT.Learn more](<https://cdn.openai.com/signals/how-india-uses-chatgpt.pdf>)
-
-### [GPT as a measurement toolFebruary 2026 | This paper introduces GABRIEL, a software package that uses GPT to reliably quantify hard-to-measure attributes in qualitative text.Learn more](<https://cdn.openai.com/pdf/7517a586-5bfa-4b87-bd3d-6ea0e9e844c7/GPT-as-a-measurement-tool.pdf>)
-
-### [Ending the capability overhangJanuary 2026 | Proposals to close the gap between what AI tools can do and how users are using them.Learn more](<https://cdn.openai.com/pdf/openai-ending-the-capability-overhang.pdf>)
+Load more
 
 ### Discover more
 
@@ -106,6 +100,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)

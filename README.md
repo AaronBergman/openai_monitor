@@ -1,5 +1,45 @@
 # openai_monitor
 
+## 2026-09-05 — Run `2026-09-05T09-15Z`
+
+**Fetch time:** 2026-09-05T09:16:41–09:20Z UTC | **Baseline:** 2026-09-04T09-17Z (consecutive day)
+
+**TL;DR:** A quiet aftershock day: **zero new or removed pages**, but yesterday's GPT‑6 Astra / "Daybreak" cybersecurity launch kept rippling outward. OpenAI **filed motions for summary judgment** in the New York Times and Authors Guild lawsuits (Sep 4) and rewrote its "fair use" argument page with a much longer essay. **The Defender's Window keynote aired** — its registration page flipped from "going live today" to "watch the recording." The **Astra launch post got same-day benchmark corrections** (a mislabeled ExploitBench score, footnote renumbering). **GPT‑6 Astra pricing went live on the API page** ($10/$50 per 1M tokens). The **Daybreak cyber-partner directory expanded** with new case-study copy and six partner press-release links (Abnormal, Check Point, Cloudflare, Darktrace, Elastic, Proofpoint), plus a "CheckPoint"→"Check Point" spelling fix. Eight business-plugin pages (Figma, Canva, Dropbox, Slack, HubSpot, Stripe, ClickUp, Gusto) picked up a new "Small Business" use-case tag, backed by a brand-new `apps-small-business` sub-sitemap section. Of 75 pages with a bumped `<lastmod>`, ~45 were just the sitewide "GPT‑6" nav link or a "Cybersecurity" topic tag propagating, and 13 had no visible content change at all.
+
+### Anomalies
+
+Two structural notes, no strict-violation anomalies. **(1)** A new sub-sitemap section, `apps-small-business`, appeared (36 → 37 sections) — but this is **not** a migration: all 8 of its URLs remain listed in their original category sub-sitemaps too. It's a new cross-cutting "Small Business" tag (confirmed by the "Use case: ... and Small Business" wording added to each page). **(2)** 13 pages from yesterday's Astra/Daybreak launch cluster got a `<lastmod>` bump today with **byte-identical content** — a CMS re-save/cache-bust, not a real edit. No future-dated or backwards-moving `<lastmod>` values, no backdated new URLs (none were new), no reappeared URLs, and all 75 changed-page fetches succeeded on the first attempt. Full breakdown in [`runs/2026-09-05T09-15Z/analysis.md`](runs/2026-09-05T09-15Z/analysis.md).
+
+### Notable updates
+
+- **[`/products/release-notes/`](pages/openai.com/products/release-notes/index.md)** — three new Sep 3 entries: **"Introducing GPT‑6 Astra"** in the API (model ID `gpt-6-astra`, new Responses-API controls for async tool calling, mid-turn steering, and mid-conversation reasoning-effort changes); **ChatGPT Sites can now be shared with named external viewers**; **Codex gets new enterprise browser/computer-use admin policies**. Three older Aug 28–29 entries (mTLS/X.509, multi-account Google connectors, GitHub marketplace sync) rolled off the visible window.
+- **[`/new-york-times/`](pages/openai.com/new-york-times/index.md)** — added a Sep 4 entry: **"We filed our motions for summary judgment"** in the NYT and Authors Guild cases, plus an Aug 6 note that the Court again narrowed both the NYT and Ziff Davis cases. The page's core argument section was substantially rewritten into a longer "Fair use benefits everyone" essay.
+- **[`/business/learn/intelligence-at-work-cyber/`](pages/openai.com/business/learn/intelligence-at-work-cyber/index.md)** — "The Defender's Window" keynote page flipped from "going live at 1:00pm today" to "watch the recording" — the livestream has aired; registration form gained Name/Title/Company fields.
+- **[`/index/gpt-6-astra/`](pages/openai.com/index/gpt-6-astra/index.md)** — same-day benchmark-table corrections: `ExploitBench (June–Aug 2026)` GPT‑5.6 Sol score fixed from 11.5% to 5.5% (with a new note explaining the 11.5% figure reflected a benchmark turn-limit artifact), plus footnote renumbering and small score adjustments elsewhere.
+- **[`/chatgpt-work/`](pages/openai.com/chatgpt-work/index.md)** — rebranded from "Powered by GPT‑5.6" to **"Powered by GPT‑6"**, headline changed to "Turn your team's ambition into finished work."
+- **[`/daybreak/partners/`](pages/openai.com/daybreak/partners/index.md)** — "CheckPoint" → "Check Point" spelling fix; new rewritten case-study blurbs (Abnormal, Elastic, Trend Micro/TrendAI) and six new partner press-release links (Abnormal, Check Point, Cloudflare, Darktrace, Elastic, Proofpoint) — the Daybreak partner ecosystem visibly expanding a day after launch.
+- **[`/form/enterprise-trusted-access-for-cyber/`](pages/openai.com/form/enterprise-trusted-access-for-cyber/index.md)** — "Daybreak Access" simplified to "Daybreak" in the intro copy.
+- **[`/api/`](pages/openai.com/api/index.md)** — **GPT‑6 Astra pricing tile added**: $10.00/1M input, $50.00/1M output tokens, 1.05M context length, 128K max output, knowledge cutoff Apr 30, 2026.
+- **[`/policies/supplier-security-measures/`](pages/openai.com/policies/supplier-security-measures/index.md)** — dated update moved from June 23, 2025 to **September 4, 2026**; suppliers must now notify a specific address (`security@openai.com`) on a security incident; minor legal cleanups.
+- **[`/index/the-defenders-window/`](pages/openai.com/index/the-defenders-window/index.md)** — competitive-messaging tweak: "open weight models" (rival cyber-capable releases) reworded to "broadly diffused models."
+- **8 business-plugin pages** (figma, canva, dropbox, slack, hubspot, stripe, clickup, gusto) — each gained a second "Small Business" use-case tag (see Anomaly #1).
+- **~45 of 75** updated pages: sitewide "GPT‑6" nav-footer link, a new "Cybersecurity" topic tag on older cyber articles, or related-content-carousel churn surfacing yesterday's new Astra/Daybreak posts — mechanical fallout of yesterday's launch, not independent edits.
+
+### Routine, low-signal updates
+
+- **13 of 75** updated pages: `<lastmod>` touch only, byte-identical content (see Anomaly #2).
+- Full per-page breakdown in [`runs/2026-09-05T09-15Z/analysis.md`](runs/2026-09-05T09-15Z/analysis.md) and [`runs/2026-09-05T09-15Z/diff.json`](runs/2026-09-05T09-15Z/diff.json).
+
+### Removals
+
+None.
+
+**Stats:** 1630 total URLs | 0 added | 75 updated | 0 removed | 2 anomalies | 37 sub-sitemaps
+
+---
+
+
+
 ## 2026-09-04 — Run `2026-09-04T09-17Z`
 
 **Fetch time:** 2026-09-04T09:17:09–09:17:19Z UTC | **Baseline:** 2026-09-03T09-16Z (consecutive day)

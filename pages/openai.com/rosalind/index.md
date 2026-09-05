@@ -162,10 +162,6 @@ Turn reviewed findings into testable hypotheses and follow-up plans. Review cont
 
 Novo NordiskThermo Fisher ScientificModernaOracle Health and Life Sciences
 
-“Novo Nordisk is taking an enterprise-wide approach to AI because meaningful transformation starts with broad literacy for our employees and a secure platform they can trust in their daily work. With more than a century of leadership in diabetes and a strong and growing presence in obesity—serving millions of patients worldwide—we bring unmatched data and scientific depth. Our partnership with OpenAI will help translate this scale into faster R&D and commercial execution, while maintaining the governance our patients and society expect.”
-
-—Mike Doustdar, CEO and President, Novo Nordisk
-
 ## Choose how to get started
 
 ![DNA helix icon on an abstract green and blue background](https://images.ctfassets.net/kftzwdyauwt9/6WX3D4fhEbS37lcoexnyN9/c11e19e68381c1676a18d2635741f5a7/Icon_1_Rosalind_plugin.png?w=3840&q=90&fm=webp)
@@ -216,6 +212,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
@@ -340,3 +337,7 @@ Extract and visualize findings from unstructured experimental results.
 ### Scale expertise
 
 Save workflows teams can inspect, share, and reuse.
+
+“Novo Nordisk is taking an enterprise-wide approach to AI because meaningful transformation starts with broad literacy for our employees and a secure platform they can trust in their daily work. With more than a century of leadership in diabetes and a strong and growing presence in obesity—serving millions of patients worldwide—we bring unmatched data and scientific depth. Our partnership with OpenAI will help translate this scale into faster R&D and commercial execution, while maintaining the governance our patients and society expect.”
+
+—Mike Doustdar, CEO and President, Novo Nordisk

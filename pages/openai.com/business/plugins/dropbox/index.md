@@ -44,7 +44,7 @@ Find and access your stored files.
 
 ![@Dropbox can you generate a Dropbox shareable link for this PDF?](https://files.openai.com/content?id=file_00000000a94871f7a6609943bf709fcf&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=1&sig=7b6b92aeb2e0d65e6d0341b8099d072c2515ff43554859aea46d988cafd51989&v=0)
 
-Use case: [File Sharing](</business/plugins/?tab=apps-file-sharing>)
+Use case: [File Sharing](</business/plugins/?tab=apps-file-sharing>) and [Small Business](</business/plugins/?tab=apps-small-business>)
 
 Made by: Dropbox
 
@@ -104,6 +104,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)

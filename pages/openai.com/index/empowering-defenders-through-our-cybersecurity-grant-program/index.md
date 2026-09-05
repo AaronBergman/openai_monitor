@@ -112,6 +112,7 @@ Submit your proposal [_here_ ⁠](<https://openai.com/form/cybersecurity-grant-p
   * [Policies and Procedures](</news/?tags=policies-procedures>)
   * [Culture & Careers](</news/?tags=culture-careers>)
   * [2024](</news/?tags=2024>)
+  * [Cybersecurity](</news/?tags=cybersecurity>)
 
 
 
@@ -129,6 +130,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)

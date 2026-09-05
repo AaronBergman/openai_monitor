@@ -36,7 +36,7 @@ Look up chats and messages.
 
 ![@Slack Summarize activity in Slack this month](https://files.openai.com/content?id=file_000000005dd071f7b5f1b13e38d9b682&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=1&sig=c04f351245ec29c398471da9639a1b507dc9595612933e6073de7c306ea93721)
 
-Use case: [Collaboration](</business/plugins/?tab=apps-collaboration>)
+Use case: [Collaboration](</business/plugins/?tab=apps-collaboration>) and [Small Business](</business/plugins/?tab=apps-small-business>)
 
 Made by: OpenAI
 
@@ -96,6 +96,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)

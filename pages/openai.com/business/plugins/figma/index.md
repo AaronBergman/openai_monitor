@@ -40,7 +40,7 @@ Make diagrams, slides, assets.
 
 ![@Figma create a competitive analysis deck comparing travel platforms](https://files.openai.com/content?id=file_0000000093c071f791b61c93d7285421&cdn=1&cp=pi&ma=32486400&ts=0&p=pi&cid=7&sig=633b64a89a3df0f445ba5ab594186b6cfb95d8cf96d1985f29b8f472ca253537&v=0)
 
-Use case: [Design](</business/plugins/?tab=apps-design>)
+Use case: [Design](</business/plugins/?tab=apps-design>) and [Small Business](</business/plugins/?tab=apps-small-business>)
 
 Made by: Figma
 
@@ -100,6 +100,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)

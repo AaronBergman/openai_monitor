@@ -28,8 +28,10 @@ OpenAI
 
 # Reporting the facts about the New York Times’ lawsuit
 
-The Times invades the privacy of tens of millions of people
+We filed our motions for summary judgment 
 
+  * We filed our motions for summary judgment 
+  * The cases continue narrowing
   * The Times invades the privacy of tens of millions of people
   * Additional update: 
   * Update on December 16, 2025:
@@ -43,6 +45,8 @@ The Times invades the privacy of tens of millions of people
 
 
 
+  * We filed our motions for summary judgment 
+  * The cases continue narrowing
   * The Times invades the privacy of tens of millions of people
   * Additional update: 
   * Update on December 16, 2025:
@@ -56,9 +60,49 @@ The Times invades the privacy of tens of millions of people
 
 
 
- _The New York Times says this lawsuit is about protecting journalism and principles. In reality, it’s about their lack of principles in pursuit of pure business interests. We’ve been consistent in our support for journalism, the long-established principles of fair use, and the Constitution 's promise of a more open, competitive future for sharing knowledge._
+Fair use benefits everyone. The New York Times has tried to present this lawsuit as a binary choice between human authorship and AI. That’s simply wrong. It’s also inconsistent with even their own use of this technology, not to mention the experience of many others within the news and publishing industries who are using AI in ways that keep human authorship front and center. At the heart of this case is the principle of fair use and the role it plays in delivering benefits for everyone; from accelerating medical research, to helping people grow small businesses and giving local newsrooms the tools to reach new audiences. This case is not about human authorship versus AI. It’s about the New York Times looking for an undeserved payday at the expense of progress that benefits everyone.
 
-_As the law around AI and fair use has become clearer, the Times has been forced to look for new ways to advance its case._
+#### A win-win: Fair use benefits everyone
+
+We’ve consistently supported journalism, the long-established principles of fair use, and the Constitution’s promise of a more open, competitive future for sharing knowledge. Over the past three years—long before this lawsuit was filed—we’ve worked together with leaders in the news industry to find new ways to benefit from AI. From reaching new audiences, to building interactive tools that make content more accessible, and enhancing business processes, [_newsrooms around the country_](</index/how-news-organizations-are-using-ai/>) are using our technology to support the important work they do to serve their communities. Fair use is central to unlocking these opportunities.
+
+Fair use isn’t some technical legal term that only affects what happens inside a courtroom; it’s played a critical role in decades of American innovation and creativity that’s benefited countless people over the years. Here, it’s fundamentally about facts and knowledge belonging to everyone, for the benefit of everyone.
+
+Today, training AI models on publicly available information is just one of the many, many ways the fair use doctrine boosts innovation. Our models are trained on publicly available data and grounded in fair use. Over a billion people each week use these models to improve their daily lives, such as by navigating the health system, growing their [_businesses_ ⁠(opens in a new window)](<https://www.youtube.com/watch?v=q571PxpsdoA>), learning new skills or even just getting help with [_everyday life tasks_ ⁠(opens in a new window)](<https://x.com/ChatGPT/status/2092366554965107164>) so they can spend more time with their families. Many people also use our models in ways that directly benefit the greater public, such as accelerating [_scientific_](</index/chatgpt-for-academic-researchers/>) [_discovery_](</index/ten-advances-in-mathematics/>) , improving [_health_](</index/chatgpt-connects-health-records-and-healthcare-sources/>) [_care_](</index/health-in-chatgpt/>) and advancing [_medical_ ⁠](<https://openai.com/index/boston-childrens-hospital/>) [_research_](</index/introducing-new-capabilities-to-gpt-rosalind/>). The [_OpenAI Foundation_ ⁠(opens in a new window)](<https://openaifoundation.org/>) is also focused on ensuring people benefit from AI, including through its work to [_accelerate life sciences_ ⁠(opens in a new window)](<https://openaifoundation.org/news/ai-for-alzheimers>).
+
+These are just a few examples of how fair use enables innovation that makes a positive and meaningful difference in real people’s lives. The Times is seeking to stand in the way of all of that, all for its own benefit. The Times’ lawsuit asks the Court to ignore existing law and a principle that has long delivered tangible benefits to society, and to allow their desires to take precedence over the interests of the wider public.
+
+As this lawsuit has progressed, the Court has [_continued to narrow this case_ ⁠(opens in a new window)](<https://storage.courtlistener.com/recap/gov.uscourts.nysd.640396/gov.uscourts.nysd.640396.1662.0.pdf>) and dismiss claims, and the Times has been forced to look for [_new ways to advance its case_ ⁠](<https://openai.com/new-york-times/#the-times-invades-the-privacy-of-tens-of-millions-of-people>). You can read more about recent relevant case law [_here_ ⁠](<https://openai.com/new-york-times/#ai-training-is-fair-use>).
+
+#### Journalism, human authorship and AI
+
+We believe the future of creativity is one that is fundamentally human. For example, a human author might use AI to research a period-accurate castle design for their historical fiction novel, or keep track of character movements across the sprawling fantasy epic they’ve been writing over many years. It’s clear that people want tools that support human creativity, not replace them. To us, success means empowering human authorship and journalism so there’s more of it in the world.
+
+We also believe that journalism plays a vital role in society—a principle that’s very much consistent with our focus on AI that’s built on democratic values. The Times’ own use of our technology in service of a [_Pulitzer-winning story_ ⁠(opens in a new window)](<https://www.niemanlab.org/2026/08/a-record-breaking-eight-pulitzer-awardees-disclosed-ai-use-this-year/>) is one of many great examples of the way newsrooms are using these tools to benefit their readers, journalists and businesses.
+
+The New York Times’ business is [_healthier than ever_ ⁠(opens in a new window)](<https://www.nytimes.com/2026/08/05/business/media/new-york-times-earnings-q2.html>). But we are sensitive to the financial challenges that have faced others in the news industry over the past two decades, even though those concerns predated ChatGPT ([_this report_ ⁠(opens in a new window)](<https://localnewsinitiative.northwestern.edu/research/state-of-local-news/2022/report/>)[ provides ⁠(opens in a new window)](<https://localnewsinitiative.northwestern.edu/research/state-of-local-news/2022/report/>)an example). That’s why we work so hard to further great journalism by providing tools that empower newsrooms and help them build more sustainable businesses. We’ve also led the AI industry by pioneering ways for organizations to express their preferences regarding how OpenAI’s crawlers access their content to appear in search results or train foundation models. AI systems are a force for good in journalism and everyday Americans. The New York Times knows this.
+
+Since 2023, we have partnered with news organizations around the world—both large and small, national and local—to support journalism. From our work with the Lenfest Institute, American Journalism Project and WAN-IFRA, to our partnerships with individual newsrooms to grow local coverage, expand audiences and support the very human work of reporting.
+
+You can read more about our work with news organizations [_here_](</index/how-news-organizations-are-using-ai/>) , as well as through our OpenAI Academy for News Organizations [_hub_ ⁠(opens in a new window)](<https://academy.openai.com/public/clubs/news-organizations-b9osl/overview>).
+
+* * *
+
+### 2026
+
+## We filed our motions for summary judgment 
+
+  * Court filing - September 4, 2026: [_Memorandum_ ⁠(opens in a new window)](<https://storage.courtlistener.com/recap/gov.uscourts.nysd.606655/gov.uscourts.nysd.606655.1221.0.pdf>) (regarding Authors Guild), [_Memorandum_ ⁠(opens in a new window)](<https://storage.courtlistener.com/recap/gov.uscourts.nysd.612697/gov.uscourts.nysd.612697.1496.0.pdf>) (regarding The New York Times)
+
+
+
+## The cases continue narrowing
+
+The Court once again dismissed claims in this case, as well as the Ziff Davis case, as both continue proving not to hold up under scrutiny.
+
+  * Court filing - August 6, 2026: [_Order_ ⁠(opens in a new window)](<https://storage.courtlistener.com/recap/gov.uscourts.nysd.640396/gov.uscourts.nysd.640396.1662.0.pdf>) (New York Times), [_order_ ⁠(opens in a new window)](<https://storage.courtlistener.com/recap/gov.uscourts.nysd.643043/gov.uscourts.nysd.643043.571.0.pdf>) (Ziff Davis)
+
+
 
 ### 2025
 
@@ -221,6 +265,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)

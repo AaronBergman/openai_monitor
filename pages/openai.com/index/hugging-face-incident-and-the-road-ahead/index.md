@@ -492,6 +492,7 @@ We will continue to share what we learn as we walk the road ahead.
 
   * [2026](</news/?tags=2026>)
   * [Alignment](</news/?tags=alignment>)
+  * [Cybersecurity](</news/?tags=cybersecurity>)
 
 
 
@@ -509,6 +510,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)

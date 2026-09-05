@@ -44,7 +44,7 @@ Search, create, and edit designs.
 
 ![@Canva Can you resize this poster as an Instagram post for my online store?](https://files.openai.com/content?id=file_00000000760471f7aa6344b4e165c521&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=7&sig=94fc5dc63dbfae022f2314de35970d7942ef710bc38331cb0fe66d8adc580e96&v=0)
 
-Use case: [Design](</business/plugins/?tab=apps-design>)
+Use case: [Design](</business/plugins/?tab=apps-design>) and [Small Business](</business/plugins/?tab=apps-small-business>)
 
 Made by: Canva Pty Ltd.
 
@@ -104,6 +104,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)

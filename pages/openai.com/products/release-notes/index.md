@@ -41,6 +41,92 @@ Filter
 
 Sort
 
+API
+
+Sep 3, 2026
+
+GA
+
+## Introducing GPT-6 Astra
+
+Today we’re introducing GPT‑6 Astra, with improvements in coding, research, computer use, and complex, multi-step work. Astra can create documents, spreadsheets, and presentations that follow your templates and instructions, and adapt when you add requirements or change direction.
+
+Access is rolling out to a limited set of organizations. Astra is not yet generally available. Broader availability is planned over the coming days.
+
+Astra includes additional safety monitoring to look for cases where agents may not have interpreted your instructions correctly. If a potential case is detected, the conversation may be paused or stopped as a precaution for you to review and decide how to proceed.
+
+gpt-6-astra  
+v1/responses  
+v1/chat/completions
+
+Released GPT‑6 Astra, our most capable model, built for the hardest end-to-end work.
+
+Use GPT‑6 Astra for reasoning, coding, computer use, research, and document creation. It combines these capabilities to carry complex tasks from an initial request to a finished result, using the context and tools you provide.
+
+Key changes to consider when migrating:
+
+  * GPT‑6 Astra does not support the `none` reasoning effort level.
+
+  * GPT‑6 Astra does not support custom `temperature` or `top_p` values or log probabilities (`logprobs`).
+
+  * Tool calling requires the Responses API. If you use tools with Chat Completions, follow the Responses migration guide.
+
+  * Misalignment monitoring asynchronously checks for potential issues during agent work in supported Responses API requests. Checks can trigger safety alerts or stop a conversation for review.
+
+
+
+
+v1/responses
+
+Added new controls for long-running work with GPT‑6 Astra in the Responses API:
+
+  * Async tool calling: Let the model continue working while your application runs function or custom tools, then return results as they become available.
+
+  * Mid-turn steering: Send additional instructions while a response is in progress over WebSockets, so the model can incorporate corrections or changing requirements.
+
+  * Change reasoning effort mid-conversation: Increase effort for difficult work or reduce it for routine follow-ups while preserving the cached prompt prefix.
+
+
+
+
+[View source(opens in a new window)](<https://developers.openai.com/api/docs/models/gpt-6-astra>)[Help center(opens in a new window)](<https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-gpt-6-astra>)[Platform docs(opens in a new window)](<https://developers.openai.com/api/docs/changelog>)
+
+ChatGPT
+
+Sep 3, 2026
+
+GA
+
+## Share ChatGPT Sites with people outside your workspace
+
+Eligible Site owners can now share a live ChatGPT Site with named people outside their workspace, without making the Site public. External viewers can use the shared Site but cannot edit or publish it.
+
+To share, open the Site, select Share, enter the recipient’s email, and save their viewer access. The recipient signs in with the account that was granted access. You can review or remove viewers in the Site’s sharing controls.
+
+ChatGPT Business Site owners can now share live Sites with named people outside their workspace. A viewer invitation provides access to the shared Site without adding the recipient to the Business workspace, granting editing access, or making the Site public.
+
+Open the Site and select Share to add the recipient’s email as a viewer, then save the change. Recipients sign in with the account that received access - you can review or remove viewer access using the sharing controls. Workspace Sites settings still apply.
+
+Eligible ChatGPT Enterprise workspaces can now let Site owners share live Sites with named external viewers. Recipients sign in with the account that was granted access and can view the shared Site without joining the workspace. Additionally, viewer access does not grant editing or publishing rights, or make the Site public.
+
+Workspace owners and admins can allow invitations for selected roles in Workspace settings > Permissions & roles by enabling Sites and Allow members to invite external visitors to sites. This permission is separate from public publishing.
+
+[View source(opens in a new window)](<https://help.openai.com/en/articles/6825453-chatgpt-release-notes#share-sites-with-people-outside-your-workspace>)[Help center(opens in a new window)](<https://help.openai.com/en/articles/11391654-chatgpt-business-release-notes#share-sites-with-people-outside-your-workspace>)[Help center(opens in a new window)](<https://help.openai.com/en/articles/10128477-chatgpt-enterprise-edu-release-notes#share-sites-with-people-outside-your-workspace>)
+
+Codex
+
+Sep 3, 2026
+
+GA
+
+## More control over browser and computer use
+
+New policy settings give enterprise admins more control over how supported desktop clients use browsers and native apps. Admins can set website defaults and exceptions, restrict uploads, downloads, browser history and developer access, and control automatic review, saved approvals and how long site approvals last. Native-app rules can allow or block specific macOS and Windows apps. Admins can also restrict importing data from another browser.
+
+Where the policy editor is available, open Codex Policies and Configurations and edit the policy’s Requirements. Controls apply on supported clients and platforms; allowing a site or app does not bypass other policies or approval prompts.
+
+[View source(opens in a new window)](<https://help.openai.com/en/articles/10128477-chatgpt-enterprise-edu-release-notes#more-control-over-browser-and-computer-use>)[Platform docs(opens in a new window)](<https://learn.chatgpt.com/docs/enterprise/managed-configuration>)
+
 ChatGPT
 
 Sep 1, 2026
@@ -101,46 +187,6 @@ GA
 
 
 [View source(opens in a new window)](<https://learn.chatgpt.com/docs/changelog#codex-2026-09-02-mobile>)
-
-API
-
-Aug 29, 2026
-
-GA
-
-## Mutual TLS and X.509 workload identity federation
-
-Mutual TLS (mTLS) and X.509 workload identity federation are now generally available for the OpenAI API. Configure certificates and X.509 identity providers directly in the Platform console, with access controlled by your organization's roles and permissions.
-
-[View source(opens in a new window)](<https://developers.openai.com/api/docs/guides/mutual-tls>)[Platform docs(opens in a new window)](<https://developers.openai.com/api/docs/guides/workload-identity-federation/x509>)[Admin console(opens in a new window)](<https://platform.openai.com/settings/organization/security>)
-
-ChatGPT
-
-Aug 28, 2026
-
-GA
-
-## Connect multiple Google accounts to ChatGPT
-
-You can now connect multiple accounts for Gmail, Google Calendar, and Google Contacts plugins in ChatGPT, bringing your personal and work accounts into the same conversation. Ask ChatGPT to check your calendars together when planning your day or find emails across your connected inboxes.
-
-Available globally on supported Plus, Pro, Business, and Enterprise plans across web, desktop, iOS, and Android.
-
-[View source(opens in a new window)](<https://help.openai.com/en/articles/6825453-chatgpt-release-notes#connect-multiple-google-accounts-to-chatgpt>)
-
-ChatGPT
-
-Aug 28, 2026
-
-GA
-
-## Import and sync plugin marketplaces from GitHub
-
-Workspace admins and owners can import plugin marketplaces from public or private GitHub repositories into the workspace directory, centrally distribute them, and keep plugins up to date with automatic daily sync. Go to Workspace settings > Plugins and select Add > Import marketplace to get started, or select Sync now on a marketplace to request an update.
-
-New plugins start with Available installation and authentication on install. Admins and owners can review each plugin's settings and required apps and control installation policies for eligible roles and required app access in workspace settings. Repository policy values do not override these settings, and importing a plugin does not grant app access or connect members' accounts; app permissions and authentication requirements still apply.
-
-[View source(opens in a new window)](<https://help.openai.com/en/articles/11391654-chatgpt-business-release-notes#import-and-sync-plugin-marketplaces-from-github>)[Help center(opens in a new window)](<https://help.openai.com/en/articles/10128477-chatgpt-enterprise-edu-release-notes#import-and-sync-plugin-marketplaces-from-github>)[Help center(opens in a new window)](<https://help.openai.com/en/articles/20001504>)
 
 Load more
 

@@ -28,9 +28,9 @@ OpenAI
 
 # Request Daybreak Access
 
-Daybreak Access is our Trusted Access for Cyber program and enables vetted enterprise customers and cybersecurity practitioners to use our most capable models for dual-use cybersecurity work. We view these capabilities as powerful force multipliers for network defenders, while recognizing that malicious actors may seek to exploit the same tools to increase the scale and sophistication of their operations.
+Daybreak enables vetted enterprise customers and cybersecurity practitioners to use our most capable models for dual-use cybersecurity work. We view these capabilities as powerful force multipliers for network defenders, while recognizing that malicious actors may seek to exploit the same tools to increase the scale and sophistication of their operations.
 
-Daybreak Access mitigates this risk by requiring members to provide additional identification and professional use-case information. While these measures are not expected to prevent all potential misuse, they work in combination with our existing cyber safeguards to meaningfully reduce the risk of harm, enabling us to make higher-risk, higher-impact capabilities available to a broader community of defenders.
+Daybreak helps reduce misuse risk by requiring members to provide additional identification and professional use-case information. While these measures are not expected to prevent all potential misuse, they work in combination with our existing cyber safeguards to meaningfully reduce the risk of harm, enabling us to make higher-risk, higher-impact capabilities available to a broader community of defenders.
 
 Requirements to join:
 

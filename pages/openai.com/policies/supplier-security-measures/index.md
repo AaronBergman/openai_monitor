@@ -26,11 +26,15 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Updated: June 23, 2025
+Select language
+
+…
+
+Updated: September 4, 2026
 
 # Supplier security measures
 
-These Supplier Security Measures apply to Supplier when it provides goods, services, or software to OpenAI and are incorporated into the applicable agreement between Supplier and OpenAI (the “Agreement”). Terms used here but not defined here are defined in the Agreement.
+These Supplier Security Measures apply to Supplier when it provides goods, services, or software to OpenAI and are incorporated into the applicable agreement between Supplier and OpenAI (“Agreement”). Terms used here but not defined here are defined in the Agreement.
 
 Supplier will maintain and operate an Information Security Program, which will be reviewed at least annually, or earlier if prompted by a Security Incident or a material change in applicable law. Oversight of the Information Security Program will be assigned to appropriately qualified senior personnel. 
 
@@ -95,7 +99,7 @@ Supplier will secure all corporate laptops, mobile devices, on-premises servers,
 ## 6\. Security Incidents
 
   * Maintain and operate a Security Incident response plan for responding to and resolving events that compromise the confidentiality, availability, or integrity of the Supplier’s performance or OpenAI Data.
-  * Upon becoming aware of an actual or suspected Security Incident, provide written notice without undue delay and, in any case, within 48 hours of becoming aware of the Security Incident. Where possible, such notice will include all available details required under Data Protection Laws for OpenAI to comply with its own notification obligations to regulatory authorities or individuals affected by the Security Incident.
+  * Upon becoming aware of an actual or suspected Security Incident, provide written notice to OpenAI at security@openai.com without undue delay and, in any case, within 48 hours of becoming aware of the Security Incident. Where possible, such notice will include all available details required under Data Protection Laws for OpenAI to comply with its own notification obligations to regulatory authorities or individuals affected by the Security Incident.
   * Take reasonable measures to mitigate the risks of further Security Incidents. Where the Security Incident is due to Supplier’s breach of these Supplier Security Measures, Supplier will reimburse (subject to the limitations of liability included in the Agreement) OpenAI for its actual, out of pocket remediation costs and expenses incurred as a result of actions required to be taken under Data Protection Laws or agreed upon between the parties with respect to a Security Incident, including, where applicable: (i) the creation and transmission of legally required notices to affected individuals; (ii) call center support to respond to inquiries; and (iii) legally required credit monitoring services for affected individuals. OpenAI shall have sole discretion to control the timing, content and manner of any notices provided under this paragraph.
 
 
@@ -197,7 +201,7 @@ At the expiry or termination of the Agreement, Supplier will, at OpenAI’s opti
 ## 17\. Internal Security Evaluations and Change Notification
 
   * Regularly assess the effectiveness of its security controls—through automated scanning, manual reviews, and policy compliance checks—against industry-standard frameworks and its own policies. 
-  * Notify OpenAI in advance of any material change to its infrastructure, architecture, third-party dependencies, data flows, or security posture that could reasonably affect the confidentiality, integrity, or availability of OpenAI Data. 
+  * Notify OpenAI in advance of any material change to its infrastructure, architecture, third-party dependencies, data flows, or security posture that could reasonably affect the confidentiality, integrity, or availability of OpenAI Data.
 
 
 
@@ -236,9 +240,9 @@ Supplier acknowledges that the Final Rule implementing Executive Order 14117 iss
 
 
 
-## 22\. Definitions.
+## 22\. Definitions
 
-  * _Covered Data_ means bulk U.S. sensitive data or U.S. government-related data, as this may be further defined under the Final Rule implementing Executive Order 14117 issued by the U.S. Department of Justice.
+  *  _Covered Data_ means bulk U.S. sensitive data or U.S. government-related data, as this may be further defined under the Final Rule implementing Executive Order 14117 issued by the U.S. Department of Justice.
   * _Data Protection Laws_ means all data protection laws applicable to Supplier’s performance under the Agreement.
   * _Hosted Service_ means software-as-a-service, platform-as-a-service, or any similar hosted or online services Supplier provides to OpenAI.
   * _Information Security Program_ means a structed framework of policies, procedures, and controls that includes administrative, technical, and physical controls aligned with industry standards, all designed to safeguard the confidentiality, integrity, and availability of OpenAI Data.
@@ -262,9 +266,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -336,6 +341,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

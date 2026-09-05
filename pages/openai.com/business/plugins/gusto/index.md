@@ -44,7 +44,7 @@ Ask payroll, benefits, and HR questions using your Gusto data.
 
 ![@Gusto all clear, let's submit](https://files.openai.com/content?id=file_00000000fca871f6b6d99f29e8c06b3e&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=1&sig=16fbfeb04d177915e82add568199002855c8afa8155bc87b0efa5dfad706577c)
 
-Use case: [Finance](</business/plugins/?tab=apps-finance>)
+Use case: [Finance](</business/plugins/?tab=apps-finance>) and [Small Business](</business/plugins/?tab=apps-small-business>)
 
 Made by: Gusto
 
@@ -104,6 +104,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)

@@ -36,7 +36,15 @@ Start building
 
 Our industry-leading models deliver advanced intelligence and multimodal capabilities.
 
-[![](https://cdn.openai.com/ctf-cdn/1-model-card-gpt-5-6-sol.png?w=3840&q=50&fm=webp)GPT-5.6 Sol
+[![](https://images.ctfassets.net/kftzwdyauwt9/0SotYKMgkBkausARecFVR/27635ea0612f99832114e19796a4728e/api-01-astra.png?w=3840&q=50&fm=webp)GPT-6 Astra
+
+  * Input: $10.00 per 1M tokens  
+Output: $50.00 per 1M tokens
+  * 1.05M context length  
+128K max output tokens
+  * Knowledge cut-off: Apr 30, 2026
+
+Learn more(opens in a new window)(opens in a new window)](<https://developers.openai.com/api/docs/models/gpt-6-astra>)[![](https://images.ctfassets.net/kftzwdyauwt9/2zTvWxw5vpGS4PdtmUP47F/afb08e191cd190b536e74682d4da631d/api-02-sol.png?w=3840&q=50&fm=webp)GPT-5.6 Sol
 
   * Input: $4.00 per 1M tokens  
 Output: $20.00 per 1M tokens
@@ -44,7 +52,7 @@ Output: $20.00 per 1M tokens
 128K max output tokens
   * Knowledge cut-off: Feb 16, 2026
 
-Learn more(opens in a new window)(opens in a new window)](<https://developers.openai.com/api/docs/models/gpt-5.6-sol>)[![](https://cdn.openai.com/ctf-cdn/2-model-card-gpt-5-6-terra.png?w=3840&q=50&fm=webp)GPT-5.6 Terra
+Learn more(opens in a new window)(opens in a new window)](<https://developers.openai.com/api/docs/models/gpt-5.6-sol>)[![](https://images.ctfassets.net/kftzwdyauwt9/5r4Jso5GmABVo0ZwHUoGfx/8812c3c4a444ddf2a257bfe4a583e567/api-03-terra.png?w=3840&q=50&fm=webp)GPT-5.6 Terra
 
   * Input: $2.00 per 1M tokens  
 Output: $12.00 per 1M tokens
@@ -52,7 +60,7 @@ Output: $12.00 per 1M tokens
 128K max output tokens
   * Knowledge cut-off: Feb 16, 2026
 
-Learn more(opens in a new window)(opens in a new window)](<https://developers.openai.com/api/docs/models/gpt-5.6-terra>)[![](https://cdn.openai.com/ctf-cdn/3-model-card-gpt-5-6-luna.png?w=3840&q=50&fm=webp)GPT-5.6 Luna
+Learn more(opens in a new window)(opens in a new window)](<https://developers.openai.com/api/docs/models/gpt-5.6-terra>)[![](https://images.ctfassets.net/kftzwdyauwt9/7l2hAkqGxKok3FuvXR9MU3/5863857a9572073b512db835016463ac/api-04-luna.png?w=3840&q=50&fm=webp)GPT-5.6 Luna
 
   * Input: $0.20 per 1M tokens  
 Output: $1.20 per 1M tokens
@@ -62,7 +70,7 @@ Output: $1.20 per 1M tokens
 
 Learn more(opens in a new window)(opens in a new window)](<https://developers.openai.com/api/docs/models/gpt-5.6-luna>)
 
-_Pricing above reflects standard processing rates for context lengths under 270K. Learn more about_[ _Batch Processing⁠_ ⁠(opens in a new window)](<https://developers.openai.com/api/docs/guides/batch>)_and_[ _Data residency & Regional Processing_⁠(opens in a new window)](<https://developers.openai.com/api/docs/guides/your-data#how-does-data-residency-work>)_._
+_Pricing above reflects standard processing rates for context lengths under 272K. Learn more about_[ _Batch Processing⁠_ ⁠(opens in a new window)](<https://developers.openai.com/api/docs/guides/batch>)_and_[ _Data residency & Regional Processing_⁠(opens in a new window)](<https://developers.openai.com/api/docs/guides/your-data#how-does-data-residency-work>)_._
 
 _GPT‑5.6 Sol’s promotional pricing is available at least through November 21, 2026._
 
