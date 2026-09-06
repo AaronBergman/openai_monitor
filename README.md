@@ -1,5 +1,37 @@
 # openai_monitor
 
+## 2026-09-06 — Run `2026-09-06T09-15Z`
+
+**Fetch time:** 2026-09-06T09:16:41–09:19Z UTC | **Baseline:** 2026-09-05T09-15Z (consecutive day)
+
+**TL;DR:** The quietest day of the GPT‑6 Astra/"Daybreak" launch week: **zero new or removed pages**, and only **45** of 1,630 known URLs had a `<lastmod>` bump (down from 75 yesterday, 53 the day before). Of those 45, **39 changed nothing visible at all** — pure cache-bust/re-save touches. The 6 real changes are all minor: the **GPT‑6 Astra launch post got another benchmark correction** (a competitor score — Claude Fable 5's FrontierMath Tier 4 result moved from 87.8% to 90.2%, all OpenAI-model scores unchanged), two partner pages (Ernst & Young, Quantium) got a fresh CDN image hash on their partner-tier badge with no visual change, two pages ([`our-decision-on-cursor...`](pages/openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/index.md), [`signals/enterprise-data`](pages/openai.com/signals/enterprise-data/index.md)) finally picked up the sitewide "GPT‑6" footer link three days after the rest of the site, and one article's related-content carousel swapped an old card for a GPT‑6 Astra one.
+
+### Anomalies
+
+None. No future-dated or backwards-moving `<lastmod>` values, no backdated new URLs (none were new), no reappeared URLs, and no sub-sitemap section migrations. All 37 sub-sitemaps and all 45 changed-page fetches succeeded on the first attempt. Worth noting as a pattern rather than a strict anomaly: **87% of today's "changed" pages (39/45) had zero visible content difference** — CMS re-save/cache-bust noise has been the majority of detected "activity" for two days running. Full breakdown in [`runs/2026-09-06T09-15Z/analysis.md`](runs/2026-09-06T09-15Z/analysis.md).
+
+### Notable updates
+
+- **[`/index/gpt-6-astra/`](pages/openai.com/index/gpt-6-astra/index.md)** — another same-week benchmark-table tweak: in the "Academic" comparison table, **Claude Fable 5**'s FrontierMath Tier 4 (v2) score was corrected from 87.8% to 90.2%. All OpenAI-model scores in that row are unchanged — this is a competitor-score fix, not a GPT‑6 Astra result change.
+- **[`/business/partners/ernst-and-young/`](pages/openai.com/business/partners/ernst-and-young/index.md)** and **[`/business/partners/quantium/`](pages/openai.com/business/partners/quantium/index.md)** — partner-tier badge image got a new CDN deployment hash; same badge, no visible change.
+- **[`/index/our-decision-on-cursor-following-its-acquisition-by-spacex/`](pages/openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/index.md)** and **[`/signals/enterprise-data/`](pages/openai.com/signals/enterprise-data/index.md)** — picked up the sitewide "GPT‑6" footer nav link, three days after most of the site got it (2026-09-04) — a reminder this site's CMS doesn't rebuild every page atomically.
+- **[`/index/expanding-access-to-ai-with-chatgpt-ads/`](pages/openai.com/index/expanding-access-to-ai-with-chatgpt-ads/index.md)** — related-content carousel swapped an old "Learning never stops" card for a "GPT‑6 Astra" card; article text itself unchanged.
+
+### Routine, low-signal updates
+
+- **39 of 45** updated pages: `<lastmod>` touch only, byte-identical content — all part of this week's Astra/Daybreak/cyber launch cluster. Full list in [`runs/2026-09-06T09-15Z/analysis.md`](runs/2026-09-06T09-15Z/analysis.md).
+- Full per-page breakdown in [`runs/2026-09-06T09-15Z/analysis.md`](runs/2026-09-06T09-15Z/analysis.md) and [`runs/2026-09-06T09-15Z/diff.json`](runs/2026-09-06T09-15Z/diff.json).
+
+### Removals
+
+None.
+
+**Stats:** 1630 total URLs | 0 added | 45 updated | 0 removed | 0 anomalies | 37 sub-sitemaps
+
+---
+
+
+
 ## 2026-09-05 — Run `2026-09-05T09-15Z`
 
 **Fetch time:** 2026-09-05T09:16:41–09:20Z UTC | **Baseline:** 2026-09-04T09-17Z (consecutive day)
