@@ -237,7 +237,7 @@ Artificial Analysis Coding Agent Index v1.4| 67.0| 65.1| -| 67.2| 68.1| 61.2
 **Academic**| **GPT‑6 Astra**| **GPT‑5.6 Sol**| **Claude Fable 5.1**| **Claude Fable 5**| **Claude Opus 5**| **Gemini 3.8 Flash**  
 ---|---|---|---|---|---|---  
 Terminal-Bench Science 0.1| 64.6%| 22.4%| 52.6%| 21.4%| 30.0%| -  
-FrontierMath Tier 4 (v2)| 97.6%| 83.0%| 87.8%| 87.8%| 73.2%| -  
+FrontierMath Tier 4 (v2)| 97.6%| 83.0%| 87.8%| 90.2%| 73.2%| -  
 GPQA Diamond| 96.0%| 94.6%| 93.7%| 92.6%| 93.7%| 95.3%  
 Humanity's Last Exam (w/ tools)| 57.2%| -| 65.0%| 63.8%| 63.6%| -  
   
