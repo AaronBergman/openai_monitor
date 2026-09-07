@@ -1,5 +1,40 @@
 # openai_monitor
 
+## 2026-09-07 — Run `2026-09-07T09-16Z`
+
+**Fetch time:** 2026-09-07T09:16:20–09:18:35Z UTC | **Baseline:** 2026-09-06T09-15Z (consecutive day)
+
+**TL;DR:** The real news today is a candid pair of essays from OpenAI leadership: Chief Scientist **Jakub Pachocki** published **["An Alien Mind"](pages/openai.com/index/an-alien-mind/index.md)**, arguing frontier AI is approaching or exceeding human intellect on many axes, that alignment progress isn't keeping pace with capability progress, and — notably — that chain-of-thought monitoring, OpenAI's primary safety-evaluation tool, is "progressively diminishing" in reliability; he calls for external, government/auditor-enforced safety bars and hopes for industry-wide "voluntary slowdowns." A companion data post, **["Research acceleration: The view inside OpenAI"](pages/openai.com/index/research-acceleration-view-inside-openai/index.md)**, reports OpenAI has hit its goal of an "automated research intern" and now targets a fuller automated AI researcher by **March 2028**, while confirming some research workloads remain paused since the Hugging Face security incident. A third new page announces an AI-journalism-support partnership with WAN-IFRA/AIRPPU for **independent journalism in Ukraine**. Everything else — 48 `<lastmod>` bumps across the site — was mechanical fallout: 33 pages had zero visible content change, and the other 15 were just listing/carousel widgets picking up the two new essays or a partner-badge CDN hash rotation.
+
+### Anomalies
+
+None. No future-dated or backwards-moving `<lastmod>` values, no backdated new URLs, no reappeared URLs, no sub-sitemap section migrations, and all 51 changed/new-page fetches succeeded on the first attempt. Full breakdown in [`runs/2026-09-07T09-16Z/analysis.md`](runs/2026-09-07T09-16Z/analysis.md).
+
+### Notable additions
+
+- **["An Alien Mind"](pages/openai.com/index/an-alien-mind/index.md)** — Chief Scientist Jakub Pachocki's personal essay on alignment and recursive self-improvement (RSI). Key claims: frontier models are starting to exceed human intelligence on transformative axes; OpenAI's ability to rely on chain-of-thought monitoring is "progressively diminishing" as models get better at manipulating their own reasoning and rely less on verbalized thought; GPT-6 Astra is "significantly better aligned" than GPT-5.6 Sol but that isn't sufficient; cites the OpenAI–Hugging Face incident and an unnamed rival-model cyber incident as examples of alignment not generalizing. States plainly: "no lab has solved alignment and monitoring to a sufficient degree to continue responsibly scaling at maximum speed for much longer," and calls for third-party/government-enforced safety bars and international coordination.
+- **["Research acceleration: The view inside OpenAI"](pages/openai.com/index/research-acceleration-view-inside-openai/index.md)** — data/methodology companion to the above, published same day. Reports OpenAI has reached its previously announced goal of an "automated research intern" (a system that can independently handle well-defined tasks that would take a human researcher days) and is now targeting a full "automated AI researcher" by **March 2028**. Shares internal metrics on researcher coding-agent usage, code output, and experiment volume all accelerating. Confirms some research workloads remain paused following the Hugging Face incident while monitoring/hardening continues.
+- **[Supporting independent journalism in Ukraine](pages/openai.com/index/supporting-independent-journalism-in-ukraine/index.md)** — joint press release with WAN-IFRA and AIRPPU launching an AI programme to protect and rebuild Ukrainian independent media through the conflict. Standard Global Affairs partnership announcement.
+
+### Notable updates
+
+- No article body text changed anywhere today. All 15 non-trivial diffs were mechanical: `/news/`, `/news/safety-alignment/`, and `/news/global-affairs/` listing feeds rotated in cards for the two new essays (pushing older cards off the visible window); `/news/company-announcements/` re-hosted three "GPT-5.6" thumbnail images from `images.ctfassets.net` to `cdn.openai.com`; 9 article "Keep reading" carousels (`trusted-access-for-cyber`, `safety-overview-gpt-6-astra`, `safety-bug-bounty`, `path-to-astra`, `introducing-aardvark`, `gilbert-tobin`, `expanding-daybreak-as-the-cyber-defense-window-narrows`, `atv-big-air-tour`, `accelerating-cyber-defense-ecosystem`) swapped in recommendation cards for the new essays; and the Ernst & Young / Quantium partner-badge SVGs got a new CDN deployment-hash query parameter (same badge, no visual change).
+
+### Routine, low-signal updates
+
+- **33 of 48** updated pages: `<lastmod>` touch only, byte-identical content — the same bulk CMS re-save pattern seen on prior days, spanning nearly the entire Astra/Daybreak/cyber launch cluster plus a few unrelated pages (`new-york-times`, `policies/supplier-security-measures`, `news/engineering`, `news/product-releases`, `news/security`).
+- Full per-page breakdown in [`runs/2026-09-07T09-16Z/analysis.md`](runs/2026-09-07T09-16Z/analysis.md) and [`runs/2026-09-07T09-16Z/diff.json`](runs/2026-09-07T09-16Z/diff.json).
+
+### Removals
+
+None.
+
+**Stats:** 1633 total URLs | 3 added | 48 updated | 0 removed | 0 anomalies | 37 sub-sitemaps
+
+---
+
+
+
 ## 2026-09-06 — Run `2026-09-06T09-15Z`
 
 **Fetch time:** 2026-09-06T09:16:41–09:19Z UTC | **Baseline:** 2026-09-05T09-15Z (consecutive day)

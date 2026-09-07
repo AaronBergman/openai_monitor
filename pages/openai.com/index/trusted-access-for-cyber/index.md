@@ -102,17 +102,17 @@ OpenAI
 
 [View all](</news/>)
 
+![An alien mind > Listing card](https://images.ctfassets.net/kftzwdyauwt9/7ut3G8rKt5ia4P3yRqi2qN/6ffb429f70548a881eb46a4e7e61498e/Option_120___1080_1080.png?w=3840&q=90&fm=webp)
+
+[An Alien MindSafetySep 6, 2026](</index/an-alien-mind/>)
+
+![Research acceleration: The view inside OpenAI > Cover image](https://images.ctfassets.net/kftzwdyauwt9/5kS3OG1Jfdja5xLmYcRwgr/f53b9dfe985df5969aff5dc41f2d1934/Art_Card__7_.png?w=3840&q=90&fm=webp)
+
+[Research acceleration: The view inside OpenAIResearchSep 6, 2026](</index/research-acceleration-view-inside-openai/>)
+
 ![Daybreak for Critical Infrastructure — cover](https://images.ctfassets.net/kftzwdyauwt9/3iCwHSjR2bfJPdDiWomsis/86d511413c2b0338bd211b41545be495/Option_65___1080_1080.png?w=3840&q=90&fm=webp)
 
 [Daybreak for Frontline DefendersSecuritySep 3, 2026](</index/daybreak-for-frontline-defenders/>)
-
-![Safety overview: GPT-6 Astra](https://images.ctfassets.net/kftzwdyauwt9/4vjHRXipk1bBYL1d5Jz11j/d2dbb46d66b1035b7f5f320e818e1608/gpt-6-astra-safety-overview-cover.png?w=3840&q=90&fm=webp)
-
-[Safety overview: GPT-6 AstraSafetySep 3, 2026](</index/safety-overview-gpt-6-astra/>)
-
-![Path to Astra — Clean square cover — Neutral Option 062 v1](https://images.ctfassets.net/kftzwdyauwt9/4BabvjDCQdlYN2ISzOkgF9/78d35947274e9b3ac2483377782b007e/astra-cover-v001.png?w=3840&q=90&fm=webp)
-
-[Path to Astra: critical capabilities and frontier safeguardsSafetySep 1, 2026](</index/path-to-astra/>)
 
 Research
 
