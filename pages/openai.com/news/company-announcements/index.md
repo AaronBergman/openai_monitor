@@ -52,11 +52,11 @@ Switch cards to show Media
 
 Switch cards to hide Media
 
-![""](//images.ctfassets.net/kftzwdyauwt9/5uOBQ9CN3HA6yzWugjzzYZ/b5fe018bce4814a145bb9c8e57422db6/gpt-5-6-poster.png?w=3840&q=90&fm=webp)
+![""](https://cdn.openai.com/ctf-cdn/gpt-5-6/5.6%20Blog%20Art%20Card%20-%20Motion%20-%204_5%20\(1\).png?w=3840&q=90&fm=webp)
 
 [GPT-5.6: Frontier intelligence that scales with your ambitionProductJul 9, 2026](</index/gpt-5-6/>)
 
-![""](//images.ctfassets.net/kftzwdyauwt9/5uOBQ9CN3HA6yzWugjzzYZ/b5fe018bce4814a145bb9c8e57422db6/gpt-5-6-poster.png?w=3840&q=90&fm=webp)
+![""](https://cdn.openai.com/ctf-cdn/gpt-5-6/5.6%20Blog%20Art%20Card%20-%20Motion%20-%204_5%20\(1\).png?w=3840&q=90&fm=webp)
 
 [GPT-5.6: Frontier intelligence that scales with your ambitionProductJul 9, 2026](</index/gpt-5-6/>)
 
@@ -70,7 +70,7 @@ Switch cards to hide Media
 
 [ChatGPT is now a partner for your most ambitious workProductJul 9, 2026](</index/chatgpt-for-your-most-ambitious-work/>)
 
-![""](//images.ctfassets.net/kftzwdyauwt9/5uOBQ9CN3HA6yzWugjzzYZ/b5fe018bce4814a145bb9c8e57422db6/gpt-5-6-poster.png?w=3840&q=90&fm=webp)
+![""](https://cdn.openai.com/ctf-cdn/gpt-5-6/5.6%20Blog%20Art%20Card%20-%20Motion%20-%204_5%20\(1\).png?w=3840&q=90&fm=webp)
 
 [GPT-5.6: Frontier intelligence that scales with your ambitionProductJul 9, 2026](</index/gpt-5-6/>)
 
