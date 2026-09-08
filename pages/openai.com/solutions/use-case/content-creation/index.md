@@ -40,7 +40,7 @@ Help teams create clear, consistent, and effective content—across reports, pre
 
 Compare products built for every stage of creation—from first ideas to finished deliverables.
 
-![solution-contentcreation-thumbnail-01](https://images.ctfassets.net/kftzwdyauwt9/5O0la4ppEFcxgK6FTykrWw/4878546104512cc861956745e4fc3f8a/solution-contentcreation-thumbnail-01.png?w=3840&q=90&fm=webp)
+![ChatGPT suggests names and drafts usage guidelines for a cross-functional collaboration feature.](https://images.ctfassets.net/kftzwdyauwt9/5O0la4ppEFcxgK6FTykrWw/4878546104512cc861956745e4fc3f8a/solution-contentcreation-thumbnail-01.png?w=3840&q=90&fm=webp)
 
 ### ChatGPT
 
@@ -147,6 +147,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)

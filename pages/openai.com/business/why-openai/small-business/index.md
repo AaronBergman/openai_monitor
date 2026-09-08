@@ -113,16 +113,6 @@ Deploy AI confidently with secure workspaces, admin controls, encryption, and bu
 
 WebinarsEvents
 
-### [How Small Businesses Can Put ChatGPT Work Into Practice (August 6, 2026 at 9:30AM PT)See how small teams can use ChatGPT Work to handle everyday tasks, move ambitious projects forward, and turn ideas into finished deliverables.Watch on-demand](<https://webinar.openai.com/small-business/chatgpt-work/>)
-
-### [Use QuickBooks Data in ChatGPT to Make Better Financial Decisions (August 25, 2026 at 9:30AM PT)Join OpenAI and Intuit to learn how QuickBooks in ChatGPT can turn financial data into a clear view of business health and practical next steps.Watch the recording](<https://webinar.openai.com/on-demand/e04957a9-6675-4973-8b89-08bfbf2a8da3>)
-
-### [OpenAI on OpenAI: How Our Marketing Team Uses ChatGPT Work (August 25, 9:30 AM PT)See how OpenAI’s Marketing team uses ChatGPT Work to bring campaign context and performance together, uncover what worked, and turn those insights into clear recommendations for the next launch.Watch the recording](<https://webinar.openai.com/chatgpt-work-series/marketing/>)
-
-### [A Practical Introduction to Codex for Developers at Small Businesses (August 27, 2026 at 9:30AM PT)Join OpenAI to see how Codex helps lean engineering teams understand code, build features, and ship high-quality software faster.Watch the recording](<https://goldcast.registration.public-pr50.goldcast.io/on-demand/96035504-23da-4c50-8b31-2b89eee19348>)
-
-### [Launch Smarter on Shopify with ChatGPT and Codex (Sep 2, 2026 at 9:30AM PT)Join OpenAI and Shopify to learn how ChatGPT and Codex can turn scattered product information and launch plans into repeatable, Shopify-ready workflows—no development experience required.Register here](<https://webinar.openai.com/launch-smarter-shopify/?>)
-
 # Resources
 
 Explore guides, real-world stories, and additional resources to help your business do more with AI.
@@ -155,6 +145,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
@@ -249,3 +240,13 @@ Terms & Policies
 OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
+
+### [How Small Businesses Can Put ChatGPT Work Into Practice (August 6, 2026 at 9:30AM PT)See how small teams can use ChatGPT Work to handle everyday tasks, move ambitious projects forward, and turn ideas into finished deliverables.Watch on-demand](<https://webinar.openai.com/small-business/chatgpt-work/>)
+
+### [Use QuickBooks Data in ChatGPT to Make Better Financial Decisions (August 25, 2026 at 9:30AM PT)Join OpenAI and Intuit to learn how QuickBooks in ChatGPT can turn financial data into a clear view of business health and practical next steps.Watch the recording](<https://webinar.openai.com/on-demand/e04957a9-6675-4973-8b89-08bfbf2a8da3>)
+
+### [OpenAI on OpenAI: How Our Marketing Team Uses ChatGPT Work (August 25, 9:30 AM PT)See how OpenAI’s Marketing team uses ChatGPT Work to bring campaign context and performance together, uncover what worked, and turn those insights into clear recommendations for the next launch.Watch the recording](<https://webinar.openai.com/chatgpt-work-series/marketing/>)
+
+### [A Practical Introduction to Codex for Developers at Small Businesses (August 27, 2026 at 9:30AM PT)Join OpenAI to see how Codex helps lean engineering teams understand code, build features, and ship high-quality software faster.Watch the recording](<https://goldcast.registration.public-pr50.goldcast.io/on-demand/96035504-23da-4c50-8b31-2b89eee19348>)
+
+### [Launch Smarter on Shopify with ChatGPT and Codex (Sep 2, 2026 at 9:30AM PT)Join OpenAI and Shopify to learn how ChatGPT and Codex can turn scattered product information and launch plans into repeatable, Shopify-ready workflows—no development experience required.Register here](<https://webinar.openai.com/launch-smarter-shopify/?>)

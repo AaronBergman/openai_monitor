@@ -95,6 +95,20 @@ ChatGPT
 
 Sep 3, 2026
 
+Beta
+
+## Zendesk and OneNote plugins in ChatGPT and Codex
+
+Today, we added the Zendesk and OneNote plugins in the Plugin directory. The Zendesk plugin helps teams review support tickets and customer history, find relevant knowledge, and prepare replies in ChatGPT and Codex. Members connect their own Zendesk accounts to work with the support information they can access.
+
+The OneNote plugin helps you find and summarize notes, gather decisions and action items, and create or update notes through supported actions in ChatGPT and Codex.
+
+[View source(opens in a new window)](<https://help.openai.com/en/articles/6825453-chatgpt-release-notes#zendesk-onenote-plugins-in-chatgpt-and-codex-beta>)[Help center(opens in a new window)](<https://help.openai.com/en/articles/11391654-chatgpt-business-release-notes#zendesk-onenote-plugins-in-chatgpt-and-codex-beta>)[Help center(opens in a new window)](<https://help.openai.com/en/articles/10128477-chatgpt-enterprise-edu-release-notes#zendesk-onenote-plugins-in-chatgpt-and-codex-beta>)
+
+ChatGPT
+
+Sep 3, 2026
+
 GA
 
 ## Share ChatGPT Sites with people outside your workspace
@@ -127,66 +141,17 @@ Where the policy editor is available, open Codex Policies and Configurations and
 
 [View source(opens in a new window)](<https://help.openai.com/en/articles/10128477-chatgpt-enterprise-edu-release-notes#more-control-over-browser-and-computer-use>)[Platform docs(opens in a new window)](<https://learn.chatgpt.com/docs/enterprise/managed-configuration>)
 
-ChatGPT
+API
 
 Sep 1, 2026
 
 GA
 
-## Healthcare plugins for ChatGPT and Codex
+## IPv6 support for api.openai.com
 
-Eligible ChatGPT for Clinicians users in the United States can now use Healthcare Public Data in ChatGPT. Eligible ChatGPT for Healthcare and HIPAA-enabled ChatGPT Enterprise workspaces can use two healthcare plugins in ChatGPT and Codex:
+Connections to `api.openai.com` can now use IPv6.
 
-  * Healthcare Public Data: Search nine public healthcare sources for medical research, clinical trials, medication information, Medicare data, and provider records. The plugin is read-only and does not access patient charts.
-
-  * Epic: Review authorized patient information from your organization’s Epic electronic health record. Access is read-only and requires an administrator-configured Epic EHR app, an individual Epic sign-in, and existing patient-chart permissions.
-
-
-
-
-To get started with Healthcare Public Data, install the plugin from the Plugin directory, then connect the apps you want to use. Admins manage plugin availability and app access separately. Do not include protected health information in searches sent to public sources. Before using Epic with protected health information, confirm your organization has an applicable Business Associate Agreement and an approved workspace configuration.
-
-[View source(opens in a new window)](<https://help.openai.com/en/articles/6825453-chatgpt-release-notes#healthcare-public-data-in-chatgpt-for-clinicians>)[Help center(opens in a new window)](<https://help.openai.com/en/articles/10128477-chatgpt-enterprise-edu-release-notes#healthcare-plugins-for-chatgpt-and-codex>)[Help center(opens in a new window)](<https://help.openai.com/en/articles/20001489>)
-
-Codex
-
-Sep 1, 2026
-
-GA
-
-## ChatGPT for iOS updates: cross-host attachments, task priority, and reliability
-
-### New features
-
-  * Attachments now work across all connected hosts, including Windows and Linux, and support videos from the Photo Library.
-
-  * Press and hold the attachment button to attach recent photos.
-
-  * A new Priority view brings running tasks, unread updates, and tasks awaiting your response to the top of the task list.
-
-  * Queued prompts now sync with the connected host, remain editable, and send even when the app is in the background.
-
-  * Long-running tasks now show their live working time.
-
-  * Task menus now include an option to copy the thread ID.
-
-
-
-
-### Improvements and bug fixes
-
-  * Task list loading and organization are faster and more reliable, with simpler date sections and fewer stalls or disappearing projects.
-
-  * Reconnects are more reliable, resolving stuck Send states, missing approvals, and stale task updates.
-
-  * Long responses now stream with fewer visual interruptions.
-
-  * Side chat messages remain available until you close them, even after the chat can no longer reconnect.
-
-
-
-
-[View source(opens in a new window)](<https://learn.chatgpt.com/docs/changelog#codex-2026-09-02-mobile>)
+[View source(opens in a new window)](<https://developers.openai.com/api/docs/changelog>)
 
 Load more
 

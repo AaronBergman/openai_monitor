@@ -100,10 +100,6 @@ Bring market, company, and internal data into one workflow for faster research a
 
 HgBBVAWalleye CapitalBalyasny Asset Management (BAM)Fidelity InternationalMUFGCommBankDatasite
 
-> “ChatGPT has materially accelerated our research and due diligence workflows—from financial analysis and market research to legal review and writing internal memos—while improving consistency across teams. It has expanded our team’s capacity, freeing our investment professionals to focus more time on judgment, debate, and conviction. We’re excited to be early adopters of new capabilities and to help shape how AI transforms financial services in the years ahead.”
-
-—Amr Ellabban, PhD, Head of AI, Hg
-
 ![oai Balyasny 1x1](https://images.ctfassets.net/kftzwdyauwt9/27WMGhOq82XBzmCqqaHy6q/a6d1207128885eae6b1ed73c43809dd5/oai_Balyasny_1x1.png?w=3840&q=90&fm=webp)
 
 [How Balyasny Asset Management built an AI research engine](</index/balyasny-asset-management/>)
@@ -132,6 +128,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
@@ -256,3 +253,7 @@ Migrate COBOL and other legacy code to deliver innovation projects faster and sa
 
   
 
+
+> “ChatGPT has materially accelerated our research and due diligence workflows—from financial analysis and market research to legal review and writing internal memos—while improving consistency across teams. It has expanded our team’s capacity, freeing our investment professionals to focus more time on judgment, debate, and conviction. We’re excited to be early adopters of new capabilities and to help shape how AI transforms financial services in the years ahead.”
+
+—Amr Ellabban, PhD, Head of AI, Hg

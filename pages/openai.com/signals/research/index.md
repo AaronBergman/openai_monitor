@@ -58,7 +58,7 @@ Load more
 
 ### Discover more
 
-![Signals > Layout > Group > Footer > Cards > Data lab > Media > Asset](https://images.ctfassets.net/kftzwdyauwt9/5d5uaKtcOHDQMTBWrQQz5y/d49a1270ad7911ffe170a63cf30f5021/data_lab.png?w=3840&q=90&fm=webp)
+![Globe icon in a white square on a blue and purple background.](https://images.ctfassets.net/kftzwdyauwt9/5d5uaKtcOHDQMTBWrQQz5y/d49a1270ad7911ffe170a63cf30f5021/data_lab.png?w=3840&q=90&fm=webp)
 
 ### Signals individual data
 
@@ -66,7 +66,7 @@ Browse the data to see global individual ChatGPT adoption patterns, geographic d
 
 [Learn more](</signals/data/>)
 
-![Signals > Layout > Group > Footer > Cards > Data methodology > Media > Asset](https://images.ctfassets.net/kftzwdyauwt9/3vC0tgoF5lQgERIEqDqnvd/39977145c360739c9ad55dd5d9032dca/Download_data_and_methodology.png?w=3840&q=90&fm=webp)
+![Database settings and download icons on a blue background.](https://images.ctfassets.net/kftzwdyauwt9/3vC0tgoF5lQgERIEqDqnvd/39977145c360739c9ad55dd5d9032dca/Download_data_and_methodology.png?w=3840&q=90&fm=webp)
 
 ### Data and methodology
 
@@ -74,7 +74,7 @@ Download data and understand the methodology behind what we have published.
 
 [Learn more](</signals/data-download/>)
 
-![Signals > Layout > Group > Footer > Cards > Signals homepage > Media > Asset](https://images.ctfassets.net/kftzwdyauwt9/6wgp9fWFmxEdTyh3cp6LZ3/00b8d5789e1c4d68b8bf1b71b2e3cf34/signals.png?w=3840&q=90&fm=webp)
+![Radar-style icon in a white square on a blue background.](https://images.ctfassets.net/kftzwdyauwt9/6wgp9fWFmxEdTyh3cp6LZ3/00b8d5789e1c4d68b8bf1b71b2e3cf34/signals.png?w=3840&q=90&fm=webp)
 
 ### OpenAI Signals
 
@@ -82,7 +82,7 @@ A hub for data, research, analysis, and stories from the OpenAI Economic Researc
 
 [Learn more](</signals/>)
 
-![Signals > Layout > Group > Footer > Cards > B2B Signals > Media > Asset](https://images.ctfassets.net/kftzwdyauwt9/dgxKw1vos15b7gFpzM3h2/0d7a2bcf630478821773d64afb29a33b/b2b.png?w=3840&q=90&fm=webp)
+![Building icon in a white square on a blue background.](https://images.ctfassets.net/kftzwdyauwt9/dgxKw1vos15b7gFpzM3h2/0d7a2bcf630478821773d64afb29a33b/b2b.png?w=3840&q=90&fm=webp)
 
 ### Enterprise Signals data
 

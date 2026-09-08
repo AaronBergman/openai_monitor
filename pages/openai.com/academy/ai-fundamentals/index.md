@@ -44,7 +44,7 @@ Understand what AI is, where it’s used, and how to use it responsibly.
 
 #### Explore more
 
-![Academy Hub > Layout > Group > Categories > Using ChatGPT > Media > Asset](https://images.ctfassets.net/kftzwdyauwt9/3UaiZFr75wVkOCJsHTd21x/1d1e7699325940e3b00c03d2ea9c70ac/using_chatgpt_1_1.png?w=3840&q=90&fm=webp)
+![ChatGPT logo in a white circle on a green and yellow gradient.](https://images.ctfassets.net/kftzwdyauwt9/3UaiZFr75wVkOCJsHTd21x/1d1e7699325940e3b00c03d2ea9c70ac/using_chatgpt_1_1.png?w=3840&q=90&fm=webp)
 
 ### Getting started with ChatGPT
 
@@ -52,7 +52,7 @@ Practical skills for prompting, tools, and everyday use.
 
 [Learn more](</academy/using-chatgpt/>)
 
-![Academy Hub > Layout > Group > Categories > ChatGPT for work > Media > Asset](https://images.ctfassets.net/kftzwdyauwt9/4isWF93VlOu8b5EpVONDeo/49c15b4f7808ecf53df0e3eef5dc126a/Work_1_1.png?w=3840&q=90&fm=webp)
+![ChatGPT and briefcase icons in white circles on a green and yellow gradient.](https://images.ctfassets.net/kftzwdyauwt9/4isWF93VlOu8b5EpVONDeo/49c15b4f7808ecf53df0e3eef5dc126a/Work_1_1.png?w=3840&q=90&fm=webp)
 
 ### ChatGPT for work
 
@@ -60,7 +60,7 @@ How teams use ChatGPT across roles and industries.
 
 [Learn more](</academy/chatgpt-for-work/>)
 
-![Academy Hub > Layout > Group > Categories > Building with AI > Media > Asset](https://images.ctfassets.net/kftzwdyauwt9/16ClwJMGpPN3flMrO4DXyL/aa1ead4fd9a3c861f19f96505d347e08/Building_1_1.png?w=3840&q=90&fm=webp)
+![Hammer icon in a white circle on a pink and orange gradient.](https://images.ctfassets.net/kftzwdyauwt9/16ClwJMGpPN3flMrO4DXyL/aa1ead4fd9a3c861f19f96505d347e08/Building_1_1.png?w=3840&q=90&fm=webp)
 
 ### Building with AI
 
@@ -84,6 +84,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)

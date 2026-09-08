@@ -54,7 +54,7 @@ Actor
 
 Our mission is to ensure that artificial general intelligence benefits all of humanity. We advance this mission by deploying our innovations to build AI tools that help people solve hard problems. This includes building tools that enable us to detect, investigate, disrupt and expose covert influence operations (IO): deceptive attempts to manipulate public opinion or influence political outcomes without revealing the true identity or intentions of the actors behind them.
 
-We recently banned a cluster of ChatGPT accounts originating in Russia that were being used to promote the International Burke Institute (IBI), a self-described “expert community” based in Israel. What began as an investigation into AI-generated social media posts led us to a much broader influence operation, built around a website containing copied and misattributed academic work, a “sovereignty” index that cast Russia in a favourable light, and efforts to disguise the operators’ Russian origins. Although the campaign appears to have reached relatively small audiences, its elaborate construction distinguishes it from other [Russia-linked⁠(opens in a new window)](<https://cdn.openai.com/threat-intelligence-reports/threat-intel-report-may-2024.pdf>) [influence⁠(opens in a new window)](<https://cdn.openai.com/threat-intelligence-reports/influence-and-cyber-operations-an-update_October-2024.pdf>) [operations⁠(opens in a new window)](<https://cdn.openai.com/threat-intelligence-reports/5f73af09-a3a3-4a55-992e-069237681620/disrupting-malicious-uses-of-ai-june-2025.pdf>) we have [disrupted⁠(opens in a new window)](<https://cdn.openai.com/pdf/df438d70-e3fe-4a6c-a403-ff632def8f79/disrupting-malicious-uses-of-ai.pdf>) since the start of the war in Ukraine. This report explains how the operation worked, where ChatGPT fit into it, and what we did to disrupt it.
+We recently banned a cluster of ChatGPT accounts originating in Russia that were being used to promote the International Burke Institute (IBI), a self-described “expert community” based in Israel. What began as an investigation into AI-generated social media posts led us to a much broader influence operation, built around a website containing copied and misattributed academic work, a “sovereignty” index _called the Burke Sovereignty Index_ that cast Russia in a favourable light, and efforts to disguise the operators’ Russian origins. Although the campaign appears to have reached relatively small audiences, its elaborate construction distinguishes it from other [Russia-linked⁠(opens in a new window)](<https://cdn.openai.com/threat-intelligence-reports/threat-intel-report-may-2024.pdf>) [influence⁠(opens in a new window)](<https://cdn.openai.com/threat-intelligence-reports/influence-and-cyber-operations-an-update_October-2024.pdf>) [operations⁠(opens in a new window)](<https://cdn.openai.com/threat-intelligence-reports/5f73af09-a3a3-4a55-992e-069237681620/disrupting-malicious-uses-of-ai-june-2025.pdf>) we have [disrupted⁠(opens in a new window)](<https://cdn.openai.com/pdf/df438d70-e3fe-4a6c-a403-ff632def8f79/disrupting-malicious-uses-of-ai.pdf>) since the start of the war in Ukraine. This report explains how the operation worked, where ChatGPT fit into it, and what we did to disrupt it.
 
 ## Actor
 
@@ -149,6 +149,10 @@ OpenAI
 
 [View all](</news/>)
 
+![Supporting independent journalism in Ukraine — card image](https://images.ctfassets.net/kftzwdyauwt9/3wATLIxaR9ch8uwHbmLURE/b43c566703960e61d4159760ed8a3c2b/supporting-independent-journalism-in-ukraine-cover-option-029.png?w=3840&q=90&fm=webp)
+
+[Supporting independent journalism in UkraineGlobal AffairsSep 7, 2026](</index/supporting-independent-journalism-in-ukraine/>)
+
 ![Strengthening Democratic Oversight in National Security — card image](https://images.ctfassets.net/kftzwdyauwt9/1qebg0OnHIh4dqr84zXR3Q/dba2f0e83ba4615a71894fd7fd1656e1/openai-democratic-oversight-page-cover-v002.png?w=3840&q=90&fm=webp)
 
 [Strengthening Democratic Oversight in National SecurityGlobal AffairsAug 18, 2026](</index/strengthening-democratic-oversight-in-national-security/>)
@@ -156,10 +160,6 @@ OpenAI
 ![OpenAI joins PORTS-Pike project, expanding community investment and supporting thousands of Southern Ohio jobs — card image](https://images.ctfassets.net/kftzwdyauwt9/6RUPcXx0eTGghDpM851Qy1/ab11d2d0849ad9544249bf7b77ee46fe/openai-joins-ports-pike-project-cover-v001.png?w=3840&q=90&fm=webp)
 
 [OpenAI joins PORTS-Pike projectGlobal AffairsAug 17, 2026](</index/openai-joins-ports-pike-project/>)
-
-![New policy ideas for the Intelligence Age — Card image](https://images.ctfassets.net/kftzwdyauwt9/AJqxrcFJn4IUKHIkwneFA/979315f3b490abc2e2055be12d97c9bb/new-policy-ideas-for-the-intelligence-age--cover-v001.png?w=3840&q=90&fm=webp)
-
-[New policy ideas for the Intelligence AgeGlobal AffairsAug 17, 2026](</index/new-policy-ideas-for-the-intelligence-age/>)
 
 Research
 

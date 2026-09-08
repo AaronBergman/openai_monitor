@@ -207,7 +207,7 @@ OpenAI Enterprise customers can also [request](</signals/enterprise/intake-form/
 
 ### Discover more
 
-![Signals > Layout > Group > Footer > Cards > Signals homepage > Media > Asset](https://images.ctfassets.net/kftzwdyauwt9/6wgp9fWFmxEdTyh3cp6LZ3/00b8d5789e1c4d68b8bf1b71b2e3cf34/signals.png?w=3840&q=90&fm=webp)
+![Radar-style icon in a white square on a blue background.](https://images.ctfassets.net/kftzwdyauwt9/6wgp9fWFmxEdTyh3cp6LZ3/00b8d5789e1c4d68b8bf1b71b2e3cf34/signals.png?w=3840&q=90&fm=webp)
 
 ### OpenAI Signals
 
@@ -215,7 +215,7 @@ A hub for data, research, analysis, and stories from the OpenAI Economic Researc
 
 [Learn more](</signals/>)
 
-![Signals > Layout > Group > Footer > Cards > Data lab > Media > Asset](https://images.ctfassets.net/kftzwdyauwt9/5d5uaKtcOHDQMTBWrQQz5y/d49a1270ad7911ffe170a63cf30f5021/data_lab.png?w=3840&q=90&fm=webp)
+![Globe icon in a white square on a blue and purple background.](https://images.ctfassets.net/kftzwdyauwt9/5d5uaKtcOHDQMTBWrQQz5y/d49a1270ad7911ffe170a63cf30f5021/data_lab.png?w=3840&q=90&fm=webp)
 
 ### Signals individual data
 
@@ -223,7 +223,7 @@ Browse the data to see global individual ChatGPT adoption patterns, geographic d
 
 [Learn more](</signals/data/>)
 
-![Signals > Layout > Group > Footer > Cards > Research and analysis > Media > Asset](https://images.ctfassets.net/kftzwdyauwt9/1xbgsNvA9Nhmm22lHNOjZZ/7b7bdc61e147c49d4e440d471ff7f12f/Research_and_analysis.png?w=3840&q=90&fm=webp)
+![Line-chart icon in a white square on a blue and green background.](https://images.ctfassets.net/kftzwdyauwt9/1xbgsNvA9Nhmm22lHNOjZZ/7b7bdc61e147c49d4e440d471ff7f12f/Research_and_analysis.png?w=3840&q=90&fm=webp)
 
 ### Research and analysis
 

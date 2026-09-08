@@ -36,11 +36,11 @@ Get startedGo further with ChatGPT WorkUse cases
 
 Start with the basics and build confidence.
 
-![Academy _ What is ChatGPT Work](https://images.ctfassets.net/kftzwdyauwt9/6EuxX10EA7KsJ0FgINrjxT/4e9ae5bd5a80949d0f4b054368fc934e/Screenshot_2026-07-10_at_16.02.53.png?w=3840&q=90&fm=webp)
+![Codex symbol on a rounded blue and purple tile.](https://images.ctfassets.net/kftzwdyauwt9/6EuxX10EA7KsJ0FgINrjxT/4e9ae5bd5a80949d0f4b054368fc934e/Screenshot_2026-07-10_at_16.02.53.png?w=3840&q=90&fm=webp)
 
 [What is ChatGPT Work?Learn what ChatGPT Work is and how to guide it towards getting real work done.](<https://learn.chatgpt.com/docs/get-started-with-work>)
 
-![Academy _ Plugins](https://images.ctfassets.net/kftzwdyauwt9/6xbJlGV8xCdtbFKTyemEcL/e1c76cf73acdd4c9eecdc47d41076244/Screenshot_2026-07-10_at_16.08.04.png?w=3840&q=90&fm=webp)
+![Four outlined circles form a grid on a rounded blue and purple tile.](https://images.ctfassets.net/kftzwdyauwt9/6xbJlGV8xCdtbFKTyemEcL/e1c76cf73acdd4c9eecdc47d41076244/Screenshot_2026-07-10_at_16.08.04.png?w=3840&q=90&fm=webp)
 
 [How to get startedDownload the desktop app and begin working on your first task.](<https://learn.chatgpt.com/docs/quickstart >)
 
@@ -48,19 +48,19 @@ Start with the basics and build confidence.
 
 Use connected tools, recurring tasks, and settings that help ChatGPT Work fit the way you work.
 
-![Academy _ Scheduled tasks](https://images.ctfassets.net/kftzwdyauwt9/4p3ANU6KjyqfjL0Ra5hlcv/3ef8d0d0daddc0993999f71009dd9afc/Screenshot_2026-07-10_at_16.06.48.png?w=3840&q=90&fm=webp)
+![Clock icon on a rounded blue and purple tile.](https://images.ctfassets.net/kftzwdyauwt9/4p3ANU6KjyqfjL0Ra5hlcv/3ef8d0d0daddc0993999f71009dd9afc/Screenshot_2026-07-10_at_16.06.48.png?w=3840&q=90&fm=webp)
 
 [Scheduled tasksSet up recurring work so repeated tasks take less manual effort.](<https://learn.chatgpt.com/docs/automations?surface=web>)
 
-![Academy _ Plugins](https://images.ctfassets.net/kftzwdyauwt9/6xbJlGV8xCdtbFKTyemEcL/e1c76cf73acdd4c9eecdc47d41076244/Screenshot_2026-07-10_at_16.08.04.png?w=3840&q=90&fm=webp)
+![Four outlined circles form a grid on a rounded blue and purple tile.](https://images.ctfassets.net/kftzwdyauwt9/6xbJlGV8xCdtbFKTyemEcL/e1c76cf73acdd4c9eecdc47d41076244/Screenshot_2026-07-10_at_16.08.04.png?w=3840&q=90&fm=webp)
 
 ## [Plugins and skillsConnect ChatGPT Work to your tools and help it learn the way you work.](<https://learn.chatgpt.com/docs/skills-and-plugins>)
 
-![Academy _ Settings ](https://images.ctfassets.net/kftzwdyauwt9/2TUIdkIBYpXb4nOw9t9siN/db7e789fd6e6b09c8b9e236c525f7026/Screenshot_2026-07-10_at_16.09.05.png?w=3840&q=90&fm=webp)
+![Settings gear icon on a rounded blue and purple tile.](https://images.ctfassets.net/kftzwdyauwt9/2TUIdkIBYpXb4nOw9t9siN/db7e789fd6e6b09c8b9e236c525f7026/Screenshot_2026-07-10_at_16.09.05.png?w=3840&q=90&fm=webp)
 
 ## [SettingsMake ChatGPT Work work the way you want, with fewer interruptions.](<https://learn.chatgpt.com/docs/reference/settings>)
 
-![Academy _ What is ChatGPT Work](https://images.ctfassets.net/kftzwdyauwt9/6EuxX10EA7KsJ0FgINrjxT/4e9ae5bd5a80949d0f4b054368fc934e/Screenshot_2026-07-10_at_16.02.53.png?w=3840&q=90&fm=webp)
+![Codex symbol on a rounded blue and purple tile.](https://images.ctfassets.net/kftzwdyauwt9/6EuxX10EA7KsJ0FgINrjxT/4e9ae5bd5a80949d0f4b054368fc934e/Screenshot_2026-07-10_at_16.02.53.png?w=3840&q=90&fm=webp)
 
 ## [ChatGPT SitesTurn your ideas into lightweight websites and apps.](<https://openai.com/academy/chatgpt-sites/>)
 
@@ -96,7 +96,7 @@ Join live and on-demand sessions to see ChatGPT Work in action, explore real bus
 
 #### Explore more
 
-![Academy V2 > Group > Courses > 3-card grid > Applied AI foundations > Media > Asset](https://images.ctfassets.net/kftzwdyauwt9/7rejk8WKElp9L5xYFBO1Zk/c8eb8e46dd564723e2eaaa5b203f26f7/Build_1_1__1_.png?w=3840&q=90&fm=webp)
+![Books icon in a white circle on a green background.](https://images.ctfassets.net/kftzwdyauwt9/7rejk8WKElp9L5xYFBO1Zk/c8eb8e46dd564723e2eaaa5b203f26f7/Build_1_1__1_.png?w=3840&q=90&fm=webp)
 
 ### AI fundamentals
 
@@ -104,7 +104,7 @@ An introduction to how AI works, where it’s applied, and how to use it respons
 
 [Learn more](</academy/ai-fundamentals/>)
 
-![Academy Hub > Layout > Group > Categories > Building with AI > Media > Asset](https://images.ctfassets.net/kftzwdyauwt9/16ClwJMGpPN3flMrO4DXyL/aa1ead4fd9a3c861f19f96505d347e08/Building_1_1.png?w=3840&q=90&fm=webp)
+![Hammer icon in a white circle on a pink and orange gradient.](https://images.ctfassets.net/kftzwdyauwt9/16ClwJMGpPN3flMrO4DXyL/aa1ead4fd9a3c861f19f96505d347e08/Building_1_1.png?w=3840&q=90&fm=webp)
 
 ### Building with AI
 
@@ -112,7 +112,7 @@ Learn to build AI with tools, techniques, and patterns.
 
 [Learn more](</academy/building-with-ai/>)
 
-![Academy Hub > Layout > Group > Categories > Using ChatGPT > Media > Asset](https://images.ctfassets.net/kftzwdyauwt9/3UaiZFr75wVkOCJsHTd21x/1d1e7699325940e3b00c03d2ea9c70ac/using_chatgpt_1_1.png?w=3840&q=90&fm=webp)
+![ChatGPT logo in a white circle on a green and yellow gradient.](https://images.ctfassets.net/kftzwdyauwt9/3UaiZFr75wVkOCJsHTd21x/1d1e7699325940e3b00c03d2ea9c70ac/using_chatgpt_1_1.png?w=3840&q=90&fm=webp)
 
 ### Getting started with ChatGPT
 
@@ -136,6 +136,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)

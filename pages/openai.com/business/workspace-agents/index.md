@@ -65,8 +65,6 @@ From sales and IT to finance and product operations, teams use agents to automat
 
 Vendor risk analysis Sales developmentIT supportMetrics reporterProduct analyst
 
-Research vendors, assess sanctions exposure and financial risk, and generate a structured report for the risk team to review.
-
 ### Built securely for enterprise
 
 Agents run workflows across teams while remaining fully governed by your organization.
@@ -91,7 +89,7 @@ Manage agents, permissions, and integrations from a central admin console so tea
 
 ### Explore more
 
-![chatpgt-agents-business-overview-card](https://images.ctfassets.net/kftzwdyauwt9/76rrwoX1S0igRXcM1zE5Qb/a1867da224a4e357a6db5b59cc0a5338/chatpgt-agents-business-overview-card.png?w=3840&q=90&fm=webp)
+![Soft green bands sweep diagonally across a pale blue background.](https://images.ctfassets.net/kftzwdyauwt9/76rrwoX1S0igRXcM1zE5Qb/a1867da224a4e357a6db5b59cc0a5338/chatpgt-agents-business-overview-card.png?w=3840&q=90&fm=webp)
 
 ### Business overview 
 
@@ -99,7 +97,7 @@ Explore plans, pricing, and enterprise features to deploy ChatGPT across your or
 
 [Learn more](</business/>)
 
-![solution-automation-hero 1 16x9](https://images.ctfassets.net/kftzwdyauwt9/64JUwGiMnbiuhmVpzi810g/544b0c12d0d514f83955143a1fe845d9/solution-automation-hero_1_16x9.png?w=3840&q=90&fm=webp)
+![An automation workflow connects a Start node to a Categorize Agent node.](https://images.ctfassets.net/kftzwdyauwt9/64JUwGiMnbiuhmVpzi810g/544b0c12d0d514f83955143a1fe845d9/solution-automation-hero_1_16x9.png?w=3840&q=90&fm=webp)
 
 ### Agent solutions 
 
@@ -107,7 +105,7 @@ Discover how teams apply AI agents across sales, operations, IT, and customer su
 
 [Learn more](</solutions/use-case/agents/>)
 
-![frontier-og-image](https://images.ctfassets.net/kftzwdyauwt9/7Lo0wk96bn7A6WLBE0keOT/9ad301bf55df16bfa0f4e16ac088643f/frontier-og-image.png?w=3840&q=90&fm=webp)
+![OpenAI Frontier wordmark over an orange and yellow abstract background.](https://images.ctfassets.net/kftzwdyauwt9/7Lo0wk96bn7A6WLBE0keOT/9ad301bf55df16bfa0f4e16ac088643f/frontier-og-image.png?w=3840&q=90&fm=webp)
 
 ### OpenAI Frontier 
 
@@ -129,6 +127,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
@@ -253,3 +252,5 @@ Anyone can create an agent in minutes. Define the job in plain language, connect
 
   
 
+
+Research vendors, assess sanctions exposure and financial risk, and generate a structured report for the risk team to review.

@@ -92,7 +92,7 @@ Join live and on-demand sessions to explore real workflows, see how others use A
 
 #### Explore more
 
-![Academy V2 > Group > Courses > 3-card grid > Applied AI foundations > Media > Asset](https://images.ctfassets.net/kftzwdyauwt9/7rejk8WKElp9L5xYFBO1Zk/c8eb8e46dd564723e2eaaa5b203f26f7/Build_1_1__1_.png?w=3840&q=90&fm=webp)
+![Books icon in a white circle on a green background.](https://images.ctfassets.net/kftzwdyauwt9/7rejk8WKElp9L5xYFBO1Zk/c8eb8e46dd564723e2eaaa5b203f26f7/Build_1_1__1_.png?w=3840&q=90&fm=webp)
 
 ### AI fundamentals
 
@@ -100,7 +100,7 @@ An introduction to how AI works, where it’s applied, and how to use it respons
 
 [Learn more](</academy/ai-fundamentals/>)
 
-![Academy Hub > Layout > Group > Categories > ChatGPT for work > Media > Asset](https://images.ctfassets.net/kftzwdyauwt9/4isWF93VlOu8b5EpVONDeo/49c15b4f7808ecf53df0e3eef5dc126a/Work_1_1.png?w=3840&q=90&fm=webp)
+![ChatGPT and briefcase icons in white circles on a green and yellow gradient.](https://images.ctfassets.net/kftzwdyauwt9/4isWF93VlOu8b5EpVONDeo/49c15b4f7808ecf53df0e3eef5dc126a/Work_1_1.png?w=3840&q=90&fm=webp)
 
 ### ChatGPT for work
 
@@ -108,7 +108,7 @@ How teams use ChatGPT across roles and industries.
 
 [Learn more](</academy/chatgpt-for-work/>)
 
-![Academy Hub > Layout > Group > Categories > Codex > Media > Asset](https://images.ctfassets.net/kftzwdyauwt9/4a0UlJKsQXDLL6k7khzEmr/e7428c71d17da9184f986ff9a120211b/Codex_1_1.png?w=3840&q=90&fm=webp)
+![Codex symbol in a white circle on a blue and purple gradient.](https://images.ctfassets.net/kftzwdyauwt9/4a0UlJKsQXDLL6k7khzEmr/e7428c71d17da9184f986ff9a120211b/Codex_1_1.png?w=3840&q=90&fm=webp)
 
 ### Codex
 
@@ -132,6 +132,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
