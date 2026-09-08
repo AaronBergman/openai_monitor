@@ -128,7 +128,7 @@ VoiceImage
 
 [Contact sales](<https://openai.com/contact-sales/>)[Start building(opens in a new window)](<https://platform.openai.com/?utm_internal_source=openai_api>)
 
-![api refresh 2025 > Layout > group > use cases powered by our platform > 3-up > coding > media > asset](https://images.ctfassets.net/kftzwdyauwt9/3qBzBe0iJJMfHi2ong0SpS/b43a125e5e753d022cbfdf1500223edf/coding_2x.png?w=3840&q=90&fm=webp)
+![A command-line prompt inside brackets in a white square on a pale blue background.](https://images.ctfassets.net/kftzwdyauwt9/3qBzBe0iJJMfHi2ong0SpS/b43a125e5e753d022cbfdf1500223edf/coding_2x.png?w=3840&q=90&fm=webp)
 
 ### Coding
 
@@ -136,7 +136,7 @@ Accelerate development cycles with models that write, review, debug, refactor, a
 
 View customer stories
 
-![api refresh 2025 > Layout > group > use cases powered by our platform > 3-up > customer support > media > asset](https://images.ctfassets.net/kftzwdyauwt9/5fnPlx5t70RgrYPCGSKWU5/dc3e9f9f2dd4b820773376e4eebc3911/customer-support_2x.png?w=3840&q=90&fm=webp)
+![Headset icon in a white square on a blue background.](https://images.ctfassets.net/kftzwdyauwt9/5fnPlx5t70RgrYPCGSKWU5/dc3e9f9f2dd4b820773376e4eebc3911/customer-support_2x.png?w=3840&q=90&fm=webp)
 
 ### Customer support
 
@@ -144,7 +144,7 @@ Deliver faster customer support with models that resolve issues autonomously and
 
 View customer stories
 
-![api refresh 2025 > Layout > group > use cases powered by our platform > 3-up > Personalized recommendations > media > asset](https://images.ctfassets.net/kftzwdyauwt9/7a1r5BTAEt4s7vyHsojVmt/82d149607364d97917c4cd7f31fc630a/personalized-recommendations_2x.png?w=3840&q=90&fm=webp)
+![Person-and-heart icon in a white square on a blue and yellow background.](https://images.ctfassets.net/kftzwdyauwt9/7a1r5BTAEt4s7vyHsojVmt/82d149607364d97917c4cd7f31fc630a/personalized-recommendations_2x.png?w=3840&q=90&fm=webp)
 
 ### Personalized recommendations
 
@@ -152,7 +152,7 @@ Surface recommendations tailored to your customers to drive engagement, retentio
 
 View customer stories
 
-![api refresh 2025 > Layout > group > use cases powered by our platform > 3-up > Research & data analysis > media > asset](https://images.ctfassets.net/kftzwdyauwt9/3baYPYWpssgmo7u2ElL6KL/12f627f293ea3f0d8c99d07098458e6a/research-data-analysis_2x.png?w=3840&q=90&fm=webp)
+![Telescope icon in a white square on a pale blue background.](https://images.ctfassets.net/kftzwdyauwt9/3baYPYWpssgmo7u2ElL6KL/12f627f293ea3f0d8c99d07098458e6a/research-data-analysis_2x.png?w=3840&q=90&fm=webp)
 
 ### Research & data analysis
 
@@ -160,7 +160,7 @@ Turn complex data into clear insights and synthesized findings.
 
 View customer stories
 
-![api refresh 2025 > Layout > group > use cases powered by our platform > 3-up > Content generation > media >asset](https://images.ctfassets.net/kftzwdyauwt9/6FSEdDU1FUgB8cy7p1QSsX/7d318c9346ff66b1776c45bf4a3278a0/content-generation_2x.png?w=3840&q=90&fm=webp)
+![Rocket icon in a white square on a blue background.](https://images.ctfassets.net/kftzwdyauwt9/6FSEdDU1FUgB8cy7p1QSsX/7d318c9346ff66b1776c45bf4a3278a0/content-generation_2x.png?w=3840&q=90&fm=webp)
 
 ### Content generation
 
@@ -168,7 +168,7 @@ Produce high-quality content across text and image to match your brand's look an
 
 View customer stories
 
-![api refresh 2025 > Layout > group > use cases powered by our platform > 3-up > Education > media > asset](https://images.ctfassets.net/kftzwdyauwt9/2AniBh9ORCXRMgibYpEjPW/9e0894c4d2ba4bed73a6ca6282e89f64/education_2x.png?w=3840&q=90&fm=webp)
+![Open-book icon in a white square on a pale blue background.](https://images.ctfassets.net/kftzwdyauwt9/2AniBh9ORCXRMgibYpEjPW/9e0894c4d2ba4bed73a6ca6282e89f64/education_2x.png?w=3840&q=90&fm=webp)
 
 ### Education
 

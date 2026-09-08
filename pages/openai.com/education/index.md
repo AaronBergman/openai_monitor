@@ -132,7 +132,7 @@ Laura Kalda, COO, AI Leap in Estonia
 
 ## [Introducing ChatGPT Futures: Class of 2026Company](</index/introducing-chatgpt-futures-class-of-2026/>)
 
-![ChatGPT helps teams](https://images.ctfassets.net/kftzwdyauwt9/vxIfg2dI8Hwvw7hkEnyTM/ac560201c4a70d89aea65533294df569/ChatGPT_helps_teams.png?w=3840&q=90&fm=webp)
+![ChatGPT menu with Work, Codex, and Chat options.](https://images.ctfassets.net/kftzwdyauwt9/vxIfg2dI8Hwvw7hkEnyTM/ac560201c4a70d89aea65533294df569/ChatGPT_helps_teams.png?w=3840&q=90&fm=webp)
 
 [Introducing ChatGPT Work. A More Capable ChatGPT for EducationChatGPT for Education](<https://edunewsletter.openai.com/p/introducing-chatgpt-work-a-more-capable>)
 
@@ -150,6 +150,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)

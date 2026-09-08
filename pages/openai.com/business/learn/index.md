@@ -72,7 +72,7 @@ GuidesOpenAI on OpenAIWebinarsDemos
 
 [The state of enterprise AIWhat we’re learning about AI at work.](</business/guides-and-resources/the-state-of-enterprise-ai-2025-report/>)
 
-![1x1 staying ahead](https://images.ctfassets.net/kftzwdyauwt9/5uCs5mXCel0eJTL8ahQ7TA/10959a8edd7a3753c5ff473c0ad460a9/1x1_staying_ahead.png?w=3840&q=90&fm=webp)
+![Pink, purple, and orange shapes blend in an abstract gradient.](https://images.ctfassets.net/kftzwdyauwt9/5uCs5mXCel0eJTL8ahQ7TA/10959a8edd7a3753c5ff473c0ad460a9/1x1_staying_ahead.png?w=3840&q=90&fm=webp)
 
 [Staying ahead in the age of AIA guide for leaders.](</business/guides-and-resources/staying-ahead-in-the-age-of-ai/>)
 
@@ -232,6 +232,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)

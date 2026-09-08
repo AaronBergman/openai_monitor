@@ -55,12 +55,6 @@ Frontier models built for the work your teams do every day.
 
 ChatGPT WorkCodexAPI
 
-Work faster with AI for writing, researching, creating, and everyday problem-solving.
-
-[Explore detailed pricing⁠](<https://openai.com/business/pricing>) | [Learn more >⁠(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
-
-![Screenshot of the ChatGPT Work interface.](https://images.ctfassets.net/kftzwdyauwt9/4AVbuPFymEnh3B3BxUxiN3/3373cdc98ce4acc73142360a81490b81/chatgpt_work__2_.png?w=3840&q=90&fm=webp)
-
 ## Explore more
 
 ![Abstract orange illustration of an enterprise interface with a circular chart and connected data rows.](https://images.ctfassets.net/kftzwdyauwt9/5cUuj8h2Y8GkVgusNTWXnK/76708da52c63208b1ef259b833ccb3f6/Enterprise.png?w=3840&q=90&fm=webp)
@@ -75,7 +69,7 @@ Work faster with AI for writing, researching, creating, and everyday problem-sol
 
 ## [Startups](</business/why-openai/startups/>)
 
-![Developers](https://images.ctfassets.net/kftzwdyauwt9/grGxBFxOV2O9uYOepq3lW/156f21d096cf499cb0a070a3f63750c1/Developers.png?w=3840&q=90&fm=webp)
+![Pink illustration with circular markers and rows of patterned horizontal bars.](https://images.ctfassets.net/kftzwdyauwt9/grGxBFxOV2O9uYOepq3lW/156f21d096cf499cb0a070a3f63750c1/Developers.png?w=3840&q=90&fm=webp)
 
 [Developers](<https://developers.openai.com/>)
 
@@ -95,6 +89,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
@@ -221,3 +216,9 @@ Move from concept to execution faster with AI-powered ideation, prototyping, con
 ### Security
 
 Security teams can investigate threats faster, automate response workflows, and strengthen protection across tools, data, and teams.
+
+Work faster with AI for writing, researching, creating, and everyday problem-solving.
+
+[Explore detailed pricing⁠](<https://openai.com/business/pricing>) | [Learn more >⁠(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
+
+![Screenshot of the ChatGPT Work interface.](https://images.ctfassets.net/kftzwdyauwt9/4AVbuPFymEnh3B3BxUxiN3/3373cdc98ce4acc73142360a81490b81/chatgpt_work__2_.png?w=3840&q=90&fm=webp)

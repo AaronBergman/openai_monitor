@@ -32,7 +32,7 @@ September 6, 2026
 
 # An Alien Mind
 
-Author: Jakub Pachocki, Chief Scientist at OpenAI
+By: Jakub Pachocki, Chief Scientist at OpenAI
 
 Loading…
 

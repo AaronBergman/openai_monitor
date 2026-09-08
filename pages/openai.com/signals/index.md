@@ -54,13 +54,13 @@ How the world is putting ChatGPT to work
 
 [Read more](</index/how-the-world-is-putting-chatgpt-to-work/>)
 
-![Signals Homepage > Layout > Hero > Card > ChatGPT and the price of work report > Media > Asset](https://images.ctfassets.net/kftzwdyauwt9/saWnkVSm6Lzukc5azs1BP/d146f8543015f84b5d602d7c9a165a29/Finding_Work_With_AI__2_.png?w=3840&q=90&fm=webp)
+![White dots sit at different heights on vertical dotted lines over a blue background.](https://images.ctfassets.net/kftzwdyauwt9/saWnkVSm6Lzukc5azs1BP/d146f8543015f84b5d602d7c9a165a29/Finding_Work_With_AI__2_.png?w=3840&q=90&fm=webp)
 
 How the world is putting ChatGPT to work
 
 [Read more](</index/how-the-world-is-putting-chatgpt-to-work/>)
 
-![Signals Homepage > Layout > ... > Card > Understanding the Labor Market webinar > Media](https://images.ctfassets.net/kftzwdyauwt9/3HNrm9KNf7ON87kvBpVq4k/0382f0ef2f3c4fa69904cf8d5867674b/understanding-the-labor-market.png?w=3840&q=90&fm=webp)
+![White dots and numbers follow intersecting dotted curves on a blue and green background.](https://images.ctfassets.net/kftzwdyauwt9/3HNrm9KNf7ON87kvBpVq4k/0382f0ef2f3c4fa69904cf8d5867674b/understanding-the-labor-market.png?w=3840&q=90&fm=webp)
 
 How the world is putting ChatGPT to work
 
@@ -90,13 +90,13 @@ How the world is putting ChatGPT to work
 
 [Read more](</index/how-the-world-is-putting-chatgpt-to-work/>)
 
-![Signals Homepage > Layout > Hero > Card > ChatGPT and the price of work report > Media > Asset](https://images.ctfassets.net/kftzwdyauwt9/saWnkVSm6Lzukc5azs1BP/d146f8543015f84b5d602d7c9a165a29/Finding_Work_With_AI__2_.png?w=3840&q=90&fm=webp)
+![White dots sit at different heights on vertical dotted lines over a blue background.](https://images.ctfassets.net/kftzwdyauwt9/saWnkVSm6Lzukc5azs1BP/d146f8543015f84b5d602d7c9a165a29/Finding_Work_With_AI__2_.png?w=3840&q=90&fm=webp)
 
 How the world is putting ChatGPT to work
 
 [Read more](</index/how-the-world-is-putting-chatgpt-to-work/>)
 
-![Signals Homepage > Layout > ... > Card > Understanding the Labor Market webinar > Media](https://images.ctfassets.net/kftzwdyauwt9/3HNrm9KNf7ON87kvBpVq4k/0382f0ef2f3c4fa69904cf8d5867674b/understanding-the-labor-market.png?w=3840&q=90&fm=webp)
+![White dots and numbers follow intersecting dotted curves on a blue and green background.](https://images.ctfassets.net/kftzwdyauwt9/3HNrm9KNf7ON87kvBpVq4k/0382f0ef2f3c4fa69904cf8d5867674b/understanding-the-labor-market.png?w=3840&q=90&fm=webp)
 
 How the world is putting ChatGPT to work
 
@@ -122,27 +122,27 @@ OpenAI’s Enterprise Signals tracks AI adoption across industries and business 
 
 ## Recent news
 
-![Signals Homepage > Layout > Group > Recent news > Cards > What students gain from ChatGPT and critical-thinking training > Media > Asset](https://images.ctfassets.net/kftzwdyauwt9/1gQDNMq1Ij1wSW2VvWfM6a/14e0887f53c86bc3fbfe652dbf10ef1a/what-students-gain-chatgpt-critical-thinking--art-card-no-border.png?w=3840&q=90&fm=webp)
+![Pale blue and green shapes blend in a soft abstract gradient.](https://images.ctfassets.net/kftzwdyauwt9/1gQDNMq1Ij1wSW2VvWfM6a/14e0887f53c86bc3fbfe652dbf10ef1a/what-students-gain-chatgpt-critical-thinking--art-card-no-border.png?w=3840&q=90&fm=webp)
 
 [What students gain from ChatGPT and critical-thinking training](<https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training/>)
 
-![Signals Homepage > Layout > Group > Recent news > Cards > From assistance to execution: How enterprises put AI to work > Media > Asset](https://images.ctfassets.net/kftzwdyauwt9/P6hw6P5TTfrSPTMPgz02q/83d6979cc3397dcbc07ab8517abecafa/Frame.png?w=3840&q=90&fm=webp)
+![Pale blue and lavender shapes overlap in a soft abstract gradient.](https://images.ctfassets.net/kftzwdyauwt9/P6hw6P5TTfrSPTMPgz02q/83d6979cc3397dcbc07ab8517abecafa/Frame.png?w=3840&q=90&fm=webp)
 
 [How enterprises put AI to work](<https://openai.com/index/how-enterprises-put-ai-to-work/>)
 
-![Signals Homepage > Layout > Group > Recent news > Cards > From asking to doing: How the world is putting ChatGPT to work > Media > Asset](https://images.ctfassets.net/kftzwdyauwt9/7L5UF79Bvsd6kQ7tMCZQe4/04242c5dd96ac7b6cdbdcaf4f94ca7dc/Art_Card__6_.png?w=3840&q=90&fm=webp)
+![Blue abstract shapes with green and yellow highlights.](https://images.ctfassets.net/kftzwdyauwt9/7L5UF79Bvsd6kQ7tMCZQe4/04242c5dd96ac7b6cdbdcaf4f94ca7dc/Art_Card__6_.png?w=3840&q=90&fm=webp)
 
 [How the world is putting ChatGPT to work](<https://openai.com/index/how-the-world-is-putting-chatgpt-to-work/>)
 
-![Signals Homepage > Layout > Group > Recent news > Cards > Exchange Cohort landing page > Media > Asset](https://images.ctfassets.net/kftzwdyauwt9/3CiHEuR2xgn3DkLHTEtx3n/ff43a35123921826c91480492e35087d/Frame.png?w=3840&q=90&fm=webp)
+![Pale blue waves blend across a bright blue background.](https://images.ctfassets.net/kftzwdyauwt9/3CiHEuR2xgn3DkLHTEtx3n/ff43a35123921826c91480492e35087d/Frame.png?w=3840&q=90&fm=webp)
 
 [The OpenAI Economic Research Exchange](<https://openai.com/economic-research-exchange/>)
 
-![Signals Homepage > Layout > Group > Recent news > Cards > AI and the Next Development Leap livestream > Media > Asset](https://images.ctfassets.net/kftzwdyauwt9/7vtWCcgf3AGEYe1w93NGxU/7d5008fbae2c7507972dd4d134a1be9d/Frame.png?w=3840&q=90&fm=webp)
+![Pale turquoise and white waves form a soft abstract pattern.](https://images.ctfassets.net/kftzwdyauwt9/7vtWCcgf3AGEYe1w93NGxU/7d5008fbae2c7507972dd4d134a1be9d/Frame.png?w=3840&q=90&fm=webp)
 
 [AI and the next development leap](<https://forum.openai.com/public/events/ai-and-the-next-development-leap-7llnij6pqv?agenda_day=6a6cf51027d9aaea09790ab3&agenda_track=6a6cf51127d9aaea09790aca&agenda_stage=6a6cf51027d9aaea09790ab9&agenda_filter_view=stage&agenda_view=list>)
 
-![Signals Homepage > Layout > Group > Recent news > Cards > Inside OpenAI: How OpenAI teams use Codex to do more > Media > Asset](https://images.ctfassets.net/kftzwdyauwt9/6wZT5PD2pKnXO2X533kQbB/30245193410300dbb52d85ffc22567f8/Frame.png?w=3840&q=90&fm=webp)
+![Blue streaks sweep across a pale pink and lavender background.](https://images.ctfassets.net/kftzwdyauwt9/6wZT5PD2pKnXO2X533kQbB/30245193410300dbb52d85ffc22567f8/Frame.png?w=3840&q=90&fm=webp)
 
 [Inside OpenAI: How OpenAI teams use Codex to do more](<https://forum.openai.com/public/videos/event-replay-inside-openai-how-openai-teams-use-codex-to-do-more-2026-07-14>)
 
@@ -168,7 +168,7 @@ OpenAI’s Enterprise Signals tracks AI adoption across industries and business 
 
 ### [The AI jobs transition frameworkApril 2026 | Mapping AI’s near-term impact on jobs.Learn more](<https://openai.com/index/modeling-ai-jobs-transition/>)
 
-### [ChatGPT and the price of workMarch 2026 | How Americans use ChatGPT to help them close the wage information gap.Learn more](<https://cdn.openai.com/pdf/ChatGPT-and-the-price-of-work_report.pdf>)
+Load more
 
   * [View all](</signals/research/>)
 
@@ -176,7 +176,7 @@ OpenAI’s Enterprise Signals tracks AI adoption across industries and business 
 
 ### Discover more
 
-![Signals > Layout > Group > Footer > Cards > Data methodology > Media > Asset](https://images.ctfassets.net/kftzwdyauwt9/3vC0tgoF5lQgERIEqDqnvd/39977145c360739c9ad55dd5d9032dca/Download_data_and_methodology.png?w=3840&q=90&fm=webp)
+![Database settings and download icons on a blue background.](https://images.ctfassets.net/kftzwdyauwt9/3vC0tgoF5lQgERIEqDqnvd/39977145c360739c9ad55dd5d9032dca/Download_data_and_methodology.png?w=3840&q=90&fm=webp)
 
 ### Data and methodology
 
@@ -184,7 +184,7 @@ Download data and understand the methodology behind what we have published.
 
 [Learn more](</signals/data-download/>)
 
-![Signals > Layout > Group > Footer > Cards > Research and analysis > Media > Asset](https://images.ctfassets.net/kftzwdyauwt9/1xbgsNvA9Nhmm22lHNOjZZ/7b7bdc61e147c49d4e440d471ff7f12f/Research_and_analysis.png?w=3840&q=90&fm=webp)
+![Line-chart icon in a white square on a blue and green background.](https://images.ctfassets.net/kftzwdyauwt9/1xbgsNvA9Nhmm22lHNOjZZ/7b7bdc61e147c49d4e440d471ff7f12f/Research_and_analysis.png?w=3840&q=90&fm=webp)
 
 ### Research and analysis
 
@@ -216,6 +216,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)

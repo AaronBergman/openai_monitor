@@ -98,7 +98,7 @@ Explore GPT-6, OpenAI’s latest model.
 
 [Learn more](</index/gpt-6-astra/>)
 
-![OpenAI for Science > Prism](https://images.ctfassets.net/kftzwdyauwt9/4x2DhtPDGnDKJb0kty2xlP/b4c2db879448b1c632c5822caec5073b/Frame_2147258749__4_.png?w=3840&q=90&fm=webp)
+![Prism app icon with a layered blue shape over a pale blue background.](https://images.ctfassets.net/kftzwdyauwt9/4x2DhtPDGnDKJb0kty2xlP/b4c2db879448b1c632c5822caec5073b/Frame_2147258749__4_.png?w=3840&q=90&fm=webp)
 
 ### Prism
 

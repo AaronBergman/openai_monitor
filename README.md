@@ -1,5 +1,41 @@
 # openai_monitor
 
+## 2026-09-08 — Run `2026-09-08T09-16Z`
+
+**Fetch time:** 2026-09-08T09:17:04–09:18:20Z UTC | **Baseline:** 2026-09-07T09-16Z (consecutive day)
+
+**TL;DR:** A quiet day with **zero new or removed pages** and no genuine anomalies. Of 108 URLs with a bumped `<lastmod>`, half (55) changed nothing visible at all, and another 20 picked up only a single cosmetic nav-line addition. The closest things to real news: two backfilled entries appeared on the [release notes](pages/openai.com/products/release-notes/index.md) page (Zendesk/OneNote plugins, IPv6 support for the API), a small factual addition named the "Burke Sovereignty Index" on an older influence-operation report, and the startup customer-story carousel finally picked up last week's Legora and Playco case studies. The bigger structural story is a **sitewide accessibility pass**: 92 image `alt` attributes across 20 pages were rewritten from internal CMS filenames/layout-paths into genuine descriptive text.
+
+### Anomalies
+
+None, after a methodology check. The raw diff initially flagged 4 URLs as "migrating" between the `global-affairs` and `global-affairs-news-listed` sub-sitemaps — but a direct check of the `<loc>` tags in both today's and yesterday's committed XML confirms these 4 URLs are (and have long been) genuinely cross-listed in **both** sub-sitemaps simultaneously. This is the same stable duplicate cross-listing this repo has debunked as a false positive repeatedly since 2026-07-09. No future-dated or backwards-moving `<lastmod>` values, no backdated new URLs (none were new), no reappeared URLs. All 108 changed-page fetches succeeded on the first attempt. Full detail in [`runs/2026-09-08T09-16Z/analysis.md`](runs/2026-09-08T09-16Z/analysis.md).
+
+### Notable updates
+
+- **[`/products/release-notes/`](pages/openai.com/products/release-notes/index.md)** — two entries newly visible: **"Zendesk and OneNote plugins in ChatGPT and Codex"** (Beta, dated Sep 3) for support-ticket triage and note summarization, and **"IPv6 support for api.openai.com"** (GA, dated Sep 1). The Zendesk/OneNote entry's Sep 3 date but first appearance today (Sep 8) — 5 days later, with no `<lastmod>` bump in between — suggests a backfilled historical entry rather than a same-day miss.
+- **[`/index/disrupting-malicious-uses-of-ai-influence-campaign-russia/`](pages/openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia/index.md)** — small factual addition naming the "sovereignty" index used in the operation as the **"Burke Sovereignty Index."** Related-content card also swapped to surface yesterday's new Ukraine-journalism piece.
+- **[`/business/why-openai/startups/`](pages/openai.com/business/why-openai/startups/index.md)** — customer-story carousel added the **Legora** and **Playco** GPT-6 Astra case studies (published 2026-09-03) five days after publication — the familiar non-atomic CMS-rebuild lag.
+- **Sitewide alt-text rewrite** — 92 `<img>` alt attributes across 20 pages (the `/academy/*` cluster, `/signals/*`, `/api/`, `/business/`, `/business/learn/`, `/business/workspace-agents/`, `/education/`, `/science/`, `/solutions/use-case/content-creation/`) were rewritten from internal CMS naming (e.g. `Signals Homepage > Layout > Hero > Card > ... > Asset`) to real descriptive text (e.g. "White dots sit at different heights on vertical dotted lines over a blue background") — reads as an automated accessibility/SEO remediation pass. No visible page text changed on any of these.
+- **[`/index/supporting-independent-journalism-in-ukraine/`](pages/openai.com/index/supporting-independent-journalism-in-ukraine/index.md)** — copyediting pass on yesterday's new press release (Oxford commas, byline formatting); no factual changes. **[`/index/an-alien-mind/`](pages/openai.com/index/an-alien-mind/index.md)** — byline label "Author:" → "By:".
+- **[`/business/partners/ernst-and-young/`](pages/openai.com/business/partners/ernst-and-young/index.md)** and **[`/business/partners/quantium/`](pages/openai.com/business/partners/quantium/index.md)** — partner-tier badge got a new CDN deployment-hash, same badge, no visual change.
+- **20 pages** picked up a single new sidebar-nav line, `GPT-6` added to the "Latest Advancements" list (a different, previously-unupdated nav element from the header link that switched back on 2026-09-04) — mechanical propagation, not independent edits.
+- **`/devday/`** and **`/business/solutions/finance/workflows/`** show large diffs (255 and 139 lines) that are pure DOM reordering — a footer nav block relocated earlier in the page relative to an unchanged card/video gallery — plus the alt-text and nav-line changes above. No visible text changed.
+
+### Routine, low-signal updates
+
+- **55 of 108** updated pages: `<lastmod>` touch only, byte-identical content.
+- Full per-page breakdown in [`runs/2026-09-08T09-16Z/analysis.md`](runs/2026-09-08T09-16Z/analysis.md) and [`runs/2026-09-08T09-16Z/diff.json`](runs/2026-09-08T09-16Z/diff.json).
+
+### Removals
+
+None.
+
+**Stats:** 1633 total URLs | 0 added | 108 updated | 0 removed | 0 anomalies | 37 sub-sitemaps
+
+---
+
+
+
 ## 2026-09-07 — Run `2026-09-07T09-16Z`
 
 **Fetch time:** 2026-09-07T09:16:20–09:18:35Z UTC | **Baseline:** 2026-09-06T09-15Z (consecutive day)
