@@ -16,49 +16,191 @@ An open letter for a global surge in cyber defense.
 
   * 7AI
 
+  * 27Street
+
+  * 360 Skills
+
   * Abnormal AI
 
+  * Above Security
+
+  * Abstract Security
+
   * Accenture
+
+  * ACME Brains
+
+  * Act Security
+
+  * Action1
+
+  * Acture Solutions
 
   * Adobe
 
   * Advent International
 
+  * AegisAI
+
+  * Aeon AI Risks Management
+
+  * Aidome
+
   * Aikido
+
+  * Aiseptor
+
+  * Aisle
+
+  * AITHURA
 
   * Akamai
 
+  * Alert Enterprise
+
+  * Align on Artificial Intelligence
+
+  * Allure Security
+
+  * Almin
+
   * AMD
+
+  * Amelia Jeffers, Auctioneers & Appraisers
+
+  * Americans 4 Equality
+
+  * AMPLIA Consulting Group
+
+  * AMworkplace
+
+  * Anaconda
+
+  * Ancora Cyber
 
   * Anthropic
 
   * APIsec
 
+  * Appgate
+
+  * APSIVON Systems Engineering
+
+  * Aptos Labs
+
+  * APX Security
+
+  * ARAMCO
+
+  * Arcade Dev
+
+  * Arcanna.ai
+
+  * ArcliteLabs
+
   * Arena
+
+  * Arista Networks
+
+  * ARK DEV
 
   * Arm
 
-  * Atlassian
+  * Arteris
+
+  * Asociación Amigos Pro Obras Sociales
+
+  * Astian
+
+  * Asurion
+
+  * AT Worthy Technology
 
   * AT&T
 
+  * Atea Sverige
+
+  * Atlan
+
+  * Atlassian
+
+  * Atredis Partners
+
+  * AttackIQ
+
+  * AuthHub
+
+  * Ava Labs
+
   * AWS
+
+  * Axiata Group
+
+  * Backslash Security
+
+  * Ban100 S.A.
+
+  * Banco Nacional de Costa Rica
+
+  * Barracuda Networks
 
   * BBVA
 
+  * Bedrock Labs
+
+  * BeyondTrust
+
+  * Binalyze
+
+  * Bitdefender
+
+  * BitScore Cybertech
+
   * Bitsight
+
+  * Black Kite
+
+  * Black Swan Cyber Security Solutions
+
+  * Blaze Information Security
 
   * Block
 
+  * Blue Shark Tech
+
+  * Bluebear Security
+
+  * Bluehex
+
   * BNY
+
+  * bondu
 
   * Booz Allen
 
+  * Bountykai
+
   * Box
+
+  * BrainSec Soluções
+
+  * Bremmar
+
+  * BridgePoint Technologies
 
   * Broadcom
 
+  * BTQ Technologies
+
+  * BugBase
+
   * Bugcrowd
+
+  * Business Cyber Guardian
+
+  * Byte
+
+  * C2SEC
 
   * Calif
 
@@ -70,7 +212,15 @@ An open letter for a global surge in cyber defense.
 
   * Capital One
 
+  * Casco
+
   * Cato Networks
+
+  * Caution
+
+  * Caveat Labs
+
+  * Celluster
 
   * Center for Internet Security
 
@@ -78,11 +228,17 @@ An open letter for a global surge in cyber defense.
 
   * Chainguard
 
+  * Chakam Cybersecurity
+
   * Check Point
+
+  * Ciphershield
 
   * Circle
 
   * Cisco
+
+  * Cisilion
 
   * Citadel
 
@@ -90,9 +246,27 @@ An open letter for a global surge in cyber defense.
 
   * Clearly AI
 
+  * ClickHouse
+
+  * Clifford Chance
+
   * Cloaked
 
+  * Cloud Solutions
+
+  * Cloudcomputing
+
   * Cloudflare
+
+  * CloudPeek
+
+  * Clover Security
+
+  * Cobalt
+
+  * Code75
+
+  * coframe.com
 
   * Cogent Security
 
@@ -102,6 +276,16 @@ An open letter for a global surge in cyber defense.
 
   * Cohesity
 
+  * Coinbase
+
+  * ConnectSecure
+
+  * Convergent Intelligence
+
+  * Conviso Application Security
+
+  * Copper Horse
+
   * Corelight
 
   * CoreWeave
@@ -110,9 +294,49 @@ An open letter for a global surge in cyber defense.
 
   * Cotool
 
+  * CPLANE.ai
+
+  * CPX
+
+  * CQR
+
   * CrowdStrike
 
+  * Cubercia
+
+  * Cult.fit
+
+  * CyberDome
+
+  * CyberFora
+
+  * CyberGeist Security
+
+  * cyberkurs
+
+  * CyberOps Advisory
+
+  * Cyberrock
+
+  * CyberSolace
+
+  * Cybyr.com
+
+  * Cycode
+
   * Cyera
+
+  * Cyolo
+
+  * Cyrex
+
+  * Cyware
+
+  * d-Media
+
+  * DaBoost Systems
+
+  * DAC REGIS/ZeroTRUST
 
   * Darktrace
 
@@ -120,23 +344,81 @@ An open letter for a global surge in cyber defense.
 
   * Datadog
 
+  * DataDome
+
+  * datamatrix
+
+  * Datasec
+
+  * Defiant Industries
+
+  * Degcorp
+
   * Dell
+
+  * DeNexus
 
   * depthfirst
 
   * Deutsche Telekom
 
+  * Dialog Enterprises
+
   * Dialpad
 
+  * DigIT Business
+
+  * Digital Directors Network
+
+  * DokterIN
+
+  * Domino Data Lab
+
+  * Donely
+
+  * Doppel
+
+  * Dowsers
+
   * Dragos
+
+  * Dravin Empire
+
+  * Droni.co
 
   * Dropzone.ai
 
   * DTCC
 
+  * Dtwo
+
+  * e-finance
+
+  * Echo
+
+  * Ecuanexus
+
+  * Edios Digital Memory Platform
+
+  * Eezee
+
+  * EFG Holding
+
+  * Ekaru
+
   * Elastic
 
+  * Ellis
+
+  * Ello
+
+  * EMDNET
+
   * Enclave
+
+  * Ent AI
+
+  * Eon
 
   * EPAM
 
@@ -144,13 +426,35 @@ An open letter for a global surge in cyber defense.
 
   * Ericsson
 
+  * eshOS
+
+  * Eskala Energy
+
+  * Essential Partners
+
+  * Evaluris Solutions
+
   * EXA.ai
 
+  * Excelsior Wireless
+
+  * Exein
+
   * ExodusPoint
+
+  * Exon Slovakia
+
+  * ExVul Security
+
+  * EY Global Services
 
   * F5
 
   * Factory
+
+  * Faraday
+
+  * FasteryDev
 
   * Fifth Third Bank
 
@@ -166,45 +470,203 @@ An open letter for a global surge in cyber defense.
 
   * Flexport
 
+  * Flowpay
+
+  * ForceAI Security
+
+  * ForEffect
+
   * Fortinet
+
+  * Fremverk
+
+  * Frenos
+
+  * Galactic Advisors
+
+  * Garanti BBVA
+
+  * Gardera Security
 
   * Gen Digital
 
   * General Motors
 
+  * Giantucchi
+
   * GitHub
+
+  * Glacis Technologies
+
+  * Glasswing Ventures
 
   * Glean
 
+  * Global AI Trust Alliance
+
+  * Global Atlantic Partners
+
   * Glow
+
+  * go ape
 
   * GoDaddy
 
+  * Golf Carts Modified
+
   * Google
 
+  * Gost Moto AI
+
+  * Granite Mountain Security Consultancy
+
+  * GraphDefined
+
+  * Gray Swan
+
+  * GRCSAC
+
+  * Grego AI
+
+  * GreyNoise
+
+  * Grip Security
+
+  * Grupo APL Ingeniería
+
+  * Hack The Box
+
+  * HackBlock
+
   * HackerOne
+
+  * Hackmetrix.com
 
   * Harvey
 
   * HCLTech
 
+  * Helmet Security
+
+  * HidenCloud
+
   * HPE
 
   * Hugging Face
 
+  * I Keep It Classic
+
+  * i-GENTIC AI
+
+  * i4 Ops
+
+  * IBLISS Digital Security
+
   * IBM
+
+  * ICE Technology Lab
+
+  * Illinois Cyber Foundation
+
+  * Imagen Tecnológica
+
+  * Immersive Technologies
+
+  * Immune Security
+
+  * Impact Advisors
+
+  * Impradel
 
   * Incident.io
 
+  * Inconcert
+
+  * Infosys
+
+  * INOVITEC DESIGN
+
+  * INT Intelligence and Telecom Technologies
+
+  * Intelsense AI
+
+  * Intent Analysis
+
   * Intercontinental Exchange, Inc.
+
+  * iSec
+
+  * Islo
+
+  * iT Synergy
+
+  * J14 Design Agency
+
+  * Jaarbeurs
+
+  * JANUS Associates
+
+  * Jasper
+
+  * Jestr
+
+  * Jscrambler
+
+  * Kairo AI
+
+  * Kasada
+
+  * KGNetworks Solutions
+
+  * kmay Strategic Consulting
+
+  * KOAN IT Security
+
+  * Kolega Labs
 
   * KPMG LLP
 
+  * Krav Maga Hacking
+
+  * Krill Security
+
   * Kyndryl
+
+  * Launch Layer
+
+  * Layer48 Technology Solutions (India)
+
+  * Legacy Data Access
+
+  * LinkShadow
+
+  * Lisnak Enterprises
+
+  * Loom Security
 
   * Lovable
 
+  * Lugapel
+
   * Lumen Technologies
+
+  * LUPO
+
+  * Lyrie.ai
+
+  * MachBlue
+
+  * Machina Record
+
+  * Magnitude AI
+
+  * Malwarebytes
+
+  * Manifest
+
+  * Mantissa
+
+  * Markmonitor Group
 
   * Marsh
 
@@ -212,23 +674,97 @@ An open letter for a global surge in cyber defense.
 
   * Mate Security
 
+  * McDowell Digital Services
+
+  * Mend.io
+
   * Mercor
 
   * Micron
 
   * Microsoft
 
+  * MicroWorld Technologies
+
+  * Mirlo Blanco Health Care
+
+  * mistwire.io
+
+  * Mitiga Security
+
+  * Mixmode
+
   * Mizuho
+
+  * MobilityPlus
+
+  * Modern Solutionz
+
+  * Móri Educação
+
+  * Mphasis
 
   * MSCI
 
+  * Municipalidad Distrital de Ventanilla
+
+  * Murad Counseling
+
+  * My Data Removal
+
+  * Myriad360
+
+  * N`KEMBA
+
+  * Nagarro
+
+  * Nametag
+
   * Nationwide Building Society
+
+  * Nebula Security
+
+  * Neo
+
+  * NetMatch
+
+  * NetShield
 
   * Netskope
 
+  * Netz16
+
+  * NeuroStrike
+
+  * New Way to Work
+
+  * Noah Labs
+
   * Nokia
 
+  * NOT NULL Makers
+
+  * Nothreat
+
+  * Novee Security
+
+  * Novem Digital
+
+  * nowsecure.com
+
+  * NROC Security
+
+  * NSS Labs
+
   * NTT DATA
+
+  * NUA Security
+
+  * Nubuss
+
+  * Nullify
+
+  * NullSquare
 
   * Obsidian Security
 
@@ -240,49 +776,187 @@ An open letter for a global surge in cyber defense.
 
   * Oliver Wyman
 
+  * OneClickComply
+
+  * oneNorma
+
+  * Open C Health Systems
+
   * OpenAI
+
+  * Opendatabay
+
+  * OpenFX
+
+  * Opsbreak
+
+  * OpsCompanion
 
   * Oracle
 
+  * Origin Technology
+
   * Outtake AI
+
+  * Owl Cyber Defense
+
+  * OWNROOT
 
   * Palo Alto Networks
 
+  * Palosade
+
+  * Pasach
+
+  * Passion Factory
+
   * PayPal
 
+  * Pcnaid
+
+  * Peach Studio
+
+  * Pendo.io
+
+  * Perpetual Systems
+
   * Perplexity
+
+  * Pervaziv AI
+
+  * PiensaHost
+
+  * Pildora Roja
+
+  * PlugSecure
+
+  * Portfolio BI
+
+  * PQShield
 
   * Proofpoint
 
   * Prophet Security
 
+  * PUC Services
+
   * PwC
 
+  * QuadMinds
+
+  * QuantM Technologies
+
+  * Quantum Sky
+
+  * Qwikpace Solutions
+
+  * Ralify Solutions
+
+  * Raven
+
   * Red Hat
+
+  * REDLattice
+
+  * Refelctiz
 
   * ReliaQuest
 
   * RemoteThreat
 
+  * Render AI
+
   * Replit
+
+  * Rexilience
+
+  * RideOttawa
+
+  * Right of Boom
+
+  * Rise Data Labs
+
+  * Risk for Good
 
   * Robinhood
 
+  * Rokkhe
+
+  * Rubrik
+
   * RunSybil
+
+  * Saffýr AI
 
   * Salesforce
 
+  * Saluca Labs
+
   * Samsara
+
+  * Samsung
 
   * SAP
 
+  * sasine.ai
+
   * Scale AI
+
+  * Scorpiones
+
+  * SDP Deep Tech
+
+  * Seal Security
+
+  * SecuraNova
+
+  * Securitate.Pro
+
+  * Security Risk Advisors
+
+  * Security Scorecard
+
+  * SecurityBridge
+
+  * Seekurity
+
+  * SEGURIDAD QAP
+
+  * Sekoia
+
+  * SelfHack AI
+
+  * semgrep
 
   * SentinelOne
 
+  * Serianu
+
   * ServiceNow
 
+  * Sevorix
+
+  * ShadeSec
+
+  * Sharpen Technologies
+
   * Shopify
+
+  * Silversight
+
+  * SIMONE SYSTEMS RESEARCH
+
+  * simpleroute
+
+  * SITS Group
+
+  * SKAGE CAPITAL
+
+  * SkillBit Labs
+
+  * Sky Developer Programmer
+
+  * SkyOne
 
   * Snowflake
 
@@ -290,21 +964,89 @@ An open letter for a global surge in cyber defense.
 
   * Socket
 
+  * SOCNova Bilişim
+
+  * SonarSource
+
   * Sophos
+
+  * Soul Core
+
+  * Sparkle Security
 
   * SpecterOps
 
+  * StampMyVisa
+
   * Standard Chartered
 
+  * Stratex
+
+  * Stridon
+
+  * Subverted
+
+  * Sumo Logic
+
+  * Supertide
+
+  * Syn.Agency
+
+  * Synaptrix Technologies
+
+  * Sysdig
+
+  * Taggl AI
+
   * Tailscale
+
+  * TaskHawk Systems
+
+  * Tata Consultancy Services
+
+  * Tavily
+
+  * TechSecure AI
+
+  * Techso Group
+
+  * Telefonica
 
   * Tenable
 
   * Tenzai
 
+  * Terra Security
+
+  * Tesorion
+
+  * TestMu AI
+
   * The Clearing House
 
+  * The Metadata Company
+
+  * The National Computer Incident Response Team of The Bahamas
+
+  * The North Highland Holding Company
+
+  * thinkingidentities.ai
+
   * Third Moment Research
+
+  * Token
+
+  * Tolmo
+
+  * Tools for Humanity
+
+  * Topologica
+
+  * Total Mobility Solution
+
+  * TowerVector
+
+  * Toyota Canada
 
   * Trail of Bits
 
@@ -312,30 +1054,126 @@ An open letter for a global surge in cyber defense.
 
   * TrendAI
 
+  * Trivora Insurance
+
+  * Tropico Security
+
+  * TrueSec Cybersecurity
+
+  * Trustpilot
+
+  * tryZone
+
+  * Turbo Law
+
+  * Tuskira
+
+  * U.S. Bank
+
   * Uber
+
+  * Under Protection
+
+  * Une Tecnologia e Serviços Digitais
 
   * Unisys
 
-  * U.S. Bank
+  * Unit6
+
+  * Uurnik Systems
+
+  * Valty
+
+  * ValueMentor
+
+  * Velite
+
+  * Veracode
 
   * Vercel
 
   * Veria Labs
 
+  * VerSprite
+
+  * Via Publica
+
+  * VicOne
+
+  * Vigil Research Labs
+
   * Visa
+
+  * Visabeira
+
+  * Vistaar Financial Services
+
+  * Vita Nuova
+
+  * VIVID Security
+
+  * Vmax
+
+  * VoiceForge AI
+
+  * VoodooSoft
+
+  * WatchGuard Technologies
+
+  * WebburnsTech
+
+  * Webera
+
+  * Wede Technology
+
+  * Wedlake Bell
+
+  * Wingback Security
+
+  * WinMagic
+
+  * Witness Engineering
+
+  * WMS Middle East
 
   * WWT
 
   * XBOW
 
+  * Xolaris-AI
+
+  * Xora
+
+  * Yarnell Consulting
+
+  * YesLinux
+
+  * Yukora
+
+  * Zellic
+
+  * Zenity
+
+  * Zenni Optical
+
+  * Zentara
+
+  * Zeppelin Group
+
+  * ZeroShield
+
+  * ZIMT
+
   * Zscaler
+
+  * Zup Innovation
 
   * Zurich Insurance Company
 
 
 
 
-1Password, 7AI, Abnormal AI, Accenture, Adobe, Advent International, Aikido, Akamai, AMD, Anthropic, APIsec, Arena, Arm, Atlassian, AT&T, AWS, BBVA, Bitsight, Block, BNY, Booz Allen, Box, Broadcom, Bugcrowd, Calif, Cantina Security, Cape, Capgemini, Capital One, Cato Networks, Center for Internet Security, Cerebras, Chainguard, Check Point, Circle, Cisco, Citadel, Citi, Clearly AI, Cloaked, Cloudflare, Cogent Security, Cognition, Cognizant, Cohesity, Corelight, CoreWeave, Corridor, Cotool, CrowdStrike, Cyera, Darktrace, Databricks, Datadog, Dell, depthfirst, Deutsche Telekom, Dialpad, Dragos, Dropzone.ai, DTCC, Elastic, Enclave, EPAM, Equinix, Ericsson, EXA.ai, ExodusPoint, F5, Factory, Fifth Third Bank, Figma, Firefox, FIS, Fiserv, Fleet AI, Flexport, Fortinet, Gen Digital, General Motors, GitHub, Glean, Glow, GoDaddy, Google, HackerOne, Harvey, HCLTech, HPE, Hugging Face, IBM, Incident.io, Intercontinental Exchange, Inc., KPMG LLP, Kyndryl, Lovable, Lumen Technologies, Marsh, Mastercard, Mate Security, Mercor, Micron, Microsoft, Mizuho, MSCI, Nationwide Building Society, Netskope, Nokia, NTT DATA, Obsidian Security, Octane Security, Offensive AI Conference (OAIC), Okta, Oliver Wyman, OpenAI, Oracle, Outtake AI, Palo Alto Networks, PayPal, Perplexity, Proofpoint, Prophet Security, PwC, Red Hat, ReliaQuest, RemoteThreat, Replit, Robinhood, RunSybil, Salesforce, Samsara, SAP, Scale AI, SentinelOne, ServiceNow, Shopify, Snowflake, Snyk, Socket, Sophos, SpecterOps, Standard Chartered, Tailscale, Tenable, Tenzai, The Clearing House, Third Moment Research, Trail of Bits, TransUnion, TrendAI, Uber, Unisys, U.S. Bank, Vercel, Veria Labs, Visa, WWT, XBOW, Zscaler, and Zurich Insurance Company
+1Password, 7AI, 27Street, 360 Skills, Abnormal AI, Above Security, Abstract Security, Accenture, ACME Brains, Act Security, Action1, Acture Solutions, Adobe, Advent International, AegisAI, Aeon AI Risks Management, Aidome, Aikido, Aiseptor, Aisle, AITHURA, Akamai, Alert Enterprise, Align on Artificial Intelligence, Allure Security, Almin, AMD, Amelia Jeffers, Auctioneers & Appraisers, Americans 4 Equality, AMPLIA Consulting Group, AMworkplace, Anaconda, Ancora Cyber, Anthropic, APIsec, Appgate, APSIVON Systems Engineering, Aptos Labs, APX Security, ARAMCO, Arcade Dev, Arcanna.ai, ArcliteLabs, Arena, Arista Networks, ARK DEV, Arm, Arteris, Asociación Amigos Pro Obras Sociales, Astian, Asurion, AT Worthy Technology, AT&T, Atea Sverige, Atlan, Atlassian, Atredis Partners, AttackIQ, AuthHub, Ava Labs, AWS, Axiata Group, Backslash Security, Ban100 S.A., Banco Nacional de Costa Rica, Barracuda Networks, BBVA, Bedrock Labs, BeyondTrust, Binalyze, Bitdefender, BitScore Cybertech, Bitsight, Black Kite, Black Swan Cyber Security Solutions, Blaze Information Security, Block, Blue Shark Tech, Bluebear Security, Bluehex, BNY, bondu, Booz Allen, Bountykai, Box, BrainSec Soluções, Bremmar, BridgePoint Technologies, Broadcom, BTQ Technologies, BugBase, Bugcrowd, Business Cyber Guardian, Byte, C2SEC, Calif, Cantina Security, Cape, Capgemini, Capital One, Casco, Cato Networks, Caution, Caveat Labs, Celluster, Center for Internet Security, Cerebras, Chainguard, Chakam Cybersecurity, Check Point, Ciphershield, Circle, Cisco, Cisilion, Citadel, Citi, Clearly AI, ClickHouse, Clifford Chance, Cloaked, Cloud Solutions, Cloudcomputing, Cloudflare, CloudPeek, Clover Security, Cobalt, Code75, coframe.com, Cogent Security, Cognition, Cognizant, Cohesity, Coinbase, ConnectSecure, Convergent Intelligence, Conviso Application Security, Copper Horse, Corelight, CoreWeave, Corridor, Cotool, CPLANE.ai, CPX, CQR, CrowdStrike, Cubercia, Cult.fit, CyberDome, CyberFora, CyberGeist Security, cyberkurs, CyberOps Advisory, Cyberrock, CyberSolace, Cybyr.com, Cycode, Cyera, Cyolo, Cyrex, Cyware, d-Media, DaBoost Systems, DAC REGIS/ZeroTRUST, Darktrace, Databricks, Datadog, DataDome, datamatrix, Datasec, Defiant Industries, Degcorp, Dell, DeNexus, depthfirst, Deutsche Telekom, Dialog Enterprises, Dialpad, DigIT Business, Digital Directors Network, DokterIN, Domino Data Lab, Donely, Doppel, Dowsers, Dragos, Dravin Empire, Droni.co, Dropzone.ai, DTCC, Dtwo, e-finance, Echo, Ecuanexus, Edios Digital Memory Platform, Eezee, EFG Holding, Ekaru, Elastic, Ellis, Ello, EMDNET, Enclave, Ent AI, Eon, EPAM, Equinix, Ericsson, eshOS, Eskala Energy, Essential Partners, Evaluris Solutions, EXA.ai, Excelsior Wireless, Exein, ExodusPoint, Exon Slovakia, ExVul Security, EY Global Services, F5, Factory, Faraday, FasteryDev, Fifth Third Bank, Figma, Firefox, FIS, Fiserv, Fleet AI, Flexport, Flowpay, ForceAI Security, ForEffect, Fortinet, Fremverk, Frenos, Galactic Advisors, Garanti BBVA, Gardera Security, Gen Digital, General Motors, Giantucchi, GitHub, Glacis Technologies, Glasswing Ventures, Glean, Global AI Trust Alliance, Global Atlantic Partners, Glow, go ape, GoDaddy, Golf Carts Modified, Google, Gost Moto AI, Granite Mountain Security Consultancy, GraphDefined, Gray Swan, GRCSAC, Grego AI, GreyNoise, Grip Security, Grupo APL Ingeniería, Hack The Box, HackBlock, HackerOne, Hackmetrix.com, Harvey, HCLTech, Helmet Security, HidenCloud, HPE, Hugging Face, I Keep It Classic, i-GENTIC AI, i4 Ops, IBLISS Digital Security, IBM, ICE Technology Lab, Illinois Cyber Foundation, Imagen Tecnológica, Immersive Technologies, Immune Security, Impact Advisors, Impradel, Incident.io, Inconcert, Infosys, INOVITEC DESIGN, INT Intelligence and Telecom Technologies, Intelsense AI, Intent Analysis, Intercontinental Exchange, Inc., iSec, Islo, iT Synergy, J14 Design Agency, Jaarbeurs, JANUS Associates, Jasper, Jestr, Jscrambler, Kairo AI, Kasada, KGNetworks Solutions, kmay Strategic Consulting, KOAN IT Security, Kolega Labs, KPMG LLP, Krav Maga Hacking, Krill Security, Kyndryl, Launch Layer, Layer48 Technology Solutions (India), Legacy Data Access, LinkShadow, Lisnak Enterprises, Loom Security, Lovable, Lugapel, Lumen Technologies, LUPO, Lyrie.ai, MachBlue, Machina Record, Magnitude AI, Malwarebytes, Manifest, Mantissa, Markmonitor Group, Marsh, Mastercard, Mate Security, McDowell Digital Services, Mend.io, Mercor, Micron, Microsoft, MicroWorld Technologies, Mirlo Blanco Health Care, mistwire.io, Mitiga Security, Mixmode, Mizuho, MobilityPlus, Modern Solutionz, Móri Educação, Mphasis, MSCI, Municipalidad Distrital de Ventanilla, Murad Counseling, My Data Removal, Myriad360, N`KEMBA, Nagarro, Nametag, Nationwide Building Society, Nebula Security, Neo, NetMatch, NetShield, Netskope, Netz16, NeuroStrike, New Way to Work, Noah Labs, Nokia, NOT NULL Makers, Nothreat, Novee Security, Novem Digital, nowsecure.com, NROC Security, NSS Labs, NTT DATA, NUA Security, Nubuss, Nullify, NullSquare, Obsidian Security, Octane Security, Offensive AI Conference (OAIC), Okta, Oliver Wyman, OneClickComply, oneNorma, Open C Health Systems, OpenAI, Opendatabay, OpenFX, Opsbreak, OpsCompanion, Oracle, Origin Technology, Outtake AI, Owl Cyber Defense, OWNROOT, Palo Alto Networks, Palosade, Pasach, Passion Factory, PayPal, Pcnaid, Peach Studio, Pendo.io, Perpetual Systems, Perplexity, Pervaziv AI, PiensaHost, Pildora Roja, PlugSecure, Portfolio BI, PQShield, Proofpoint, Prophet Security, PUC Services, PwC, QuadMinds, QuantM Technologies, Quantum Sky, Qwikpace Solutions, Ralify Solutions, Raven, Red Hat, REDLattice, Refelctiz, ReliaQuest, RemoteThreat, Render AI, Replit, Rexilience, RideOttawa, Right of Boom, Rise Data Labs, Risk for Good, Robinhood, Rokkhe, Rubrik, RunSybil, Saffýr AI, Salesforce, Saluca Labs, Samsara, Samsung, SAP, sasine.ai, Scale AI, Scorpiones, SDP Deep Tech, Seal Security, SecuraNova, Securitate.Pro, Security Risk Advisors, Security Scorecard, SecurityBridge, Seekurity, SEGURIDAD QAP, Sekoia, SelfHack AI, semgrep, SentinelOne, Serianu, ServiceNow, Sevorix, ShadeSec, Sharpen Technologies, Shopify, Silversight, SIMONE SYSTEMS RESEARCH, simpleroute, SITS Group, SKAGE CAPITAL, SkillBit Labs, Sky Developer Programmer, SkyOne, Snowflake, Snyk, Socket, SOCNova Bilişim, SonarSource, Sophos, Soul Core, Sparkle Security, SpecterOps, StampMyVisa, Standard Chartered, Stratex, Stridon, Subverted, Sumo Logic, Supertide, Syn.Agency, Synaptrix Technologies, Sysdig, Taggl AI, Tailscale, TaskHawk Systems, Tata Consultancy Services, Tavily, TechSecure AI, Techso Group, Telefonica, Tenable, Tenzai, Terra Security, Tesorion, TestMu AI, The Clearing House, The Metadata Company, The National Computer Incident Response Team of The Bahamas, The North Highland Holding Company, thinkingidentities.ai, Third Moment Research, Token, Tolmo, Tools for Humanity, Topologica, Total Mobility Solution, TowerVector, Toyota Canada, Trail of Bits, TransUnion, TrendAI, Trivora Insurance, Tropico Security, TrueSec Cybersecurity, Trustpilot, tryZone, Turbo Law, Tuskira, U.S. Bank, Uber, Under Protection, Une Tecnologia e Serviços Digitais, Unisys, Unit6, Uurnik Systems, Valty, ValueMentor, Velite, Veracode, Vercel, Veria Labs, VerSprite, Via Publica, VicOne, Vigil Research Labs, Visa, Visabeira, Vistaar Financial Services, Vita Nuova, VIVID Security, Vmax, VoiceForge AI, VoodooSoft, WatchGuard Technologies, WebburnsTech, Webera, Wede Technology, Wedlake Bell, Wingback Security, WinMagic, Witness Engineering, WMS Middle East, WWT, XBOW, Xolaris-AI, Xora, Yarnell Consulting, YesLinux, Yukora, Zellic, Zenity, Zenni Optical, Zentara, Zeppelin Group, ZeroShield, ZIMT, Zscaler, Zup Innovation, and Zurich Insurance Company
 
 We have a limited window to strengthen cyber defenses.
 

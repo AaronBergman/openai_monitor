@@ -1,5 +1,54 @@
 # openai_monitor
 
+## 2026-09-09 — Run `2026-09-09T09-16Z`
+
+**Fetch time:** 2026-09-09T09:16:00–09:17:20Z UTC | **Baseline:** 2026-09-08T09-16Z (consecutive day)
+
+**TL;DR:** The busiest news day this repo has logged in a while. OpenAI shipped a cluster of announcements the same day: a new **[ChatGPT Images 2.5](pages/openai.com/index/introducing-chatgpt-images-2-5/index.md)** image model, a new interactive **["ChatGPT TV"](pages/openai.com/gpt-tv/index.md)** livestream/video surface powered by GPT-6 Astra, a striking research claim of a **[proposed solution to the Navier–Stokes Millennium Prize Problem](pages/openai.com/index/navier-stokes-solution/index.md)**, a quantum-computing lab-automation case study, a $5M teen-AI-development research grants program, a journalism-support expansion, a CFO essay on consumer/enterprise economics, and — separately — a **13-page batch launch** of new SMB partner/plugin integrations (Canva, Gusto, HubSpot, QuickBooks, Stripe, DocuSign, HoneyBook, Mercury, PayPal, Shopify, Wix, ZoomInfo, plus a full content rewrite of the existing Dropbox page). The **["Collective Cyber Defense"](pages/openai.com/collective-cyberdefense/index.md)** partner directory roughly doubled in size (hundreds of new company names added), and the **[Daybreak](pages/openai.com/daybreak/index.md)** cyber-defense program page added a 5-step workflow diagram and what looks like a HackerOne partnership. 21 pages added, 82 updated (42 of which were `<lastmod>`-only touches with no visible content change), 0 removed, 0 anomalies.
+
+### Anomalies
+
+None of substance. One page (`/policies/communications-privacy-policy/`) carries a `<lastmod>` timestamp 22 seconds after this run's nominal start time but still well before the actual fetch completed — ordinary clock skew, not a genuine future-dated claim. No backwards-moving `<lastmod>` values, no backdated new URLs, no reappeared URLs, no sub-sitemap migrations. All 37 sub-sitemaps and all 103 changed/new-page fetches succeeded on the first attempt. Full detail in [`runs/2026-09-09T09-16Z/analysis.md`](runs/2026-09-09T09-16Z/analysis.md).
+
+### Notable additions
+
+- **["Introducing ChatGPT Images 2.5"](pages/openai.com/index/introducing-chatgpt-images-2-5/index.md)** — new image-generation model release (Product).
+- **["ChatGPT TV"](pages/openai.com/gpt-tv/index.md)** — a new interactive livestream/video product explicitly "Powered by GPT-6 Astra," with a channel-guide/volume/light-dark control interface styled like a smart-TV remote. Not a blog post — a standalone consumer surface at `/gpt-tv/`.
+- **["On the Navier–Stokes Millennium Prize Problem"](pages/openai.com/index/navier-stokes-solution/index.md)** — OpenAI states it is sharing a proposed solution to the Navier–Stokes existence-and-smoothness problem, one of the seven Clay Millennium Prize problems, with a linked paper and a Lean-formalized proof published to `github.com/openai/NavierStokesAndEuler`. **This is an extraordinary claim** that warrants independent mathematical-community verification before being taken at face value — Millennium Prize claims routinely draw intense scrutiny and revision.
+- **["How GPT‑5.6 Sol helps run quantum computing experiments"](pages/openai.com/index/codex-quantum-computing-experiments/index.md)** — case study on using an agentic model (referred to elsewhere as Codex) wired into lab software to automate calibration of superconducting qubits, with a physicist co-author and a linked technical PDF.
+- **["Funding grants for new research into AI and teen development"](pages/openai.com/index/teen-development-research-grants/index.md)** — OpenAI committing $5M to independent research on how generative AI affects teens aged 13–17.
+- **["OpenAI expands initiatives to support journalism from classrooms to newsrooms"](pages/openai.com/index/supporting-journalism-from-classrooms-to-newsrooms/index.md)** — expansion of journalism-education and newsroom partnerships.
+- **["The Work Now Within Reach"](pages/openai.com/index/the-work-now-within-reach/index.md)** — company essay by CFO Sarah Friar on how consumer and enterprise businesses reinforce each other and on compute economics.
+- **[`/index/1password/`](pages/openai.com/index/1password/index.md)** — new customer/partner story.
+- **5 new SMB partner pages:** [Canva](pages/openai.com/business/partners/canva/index.md), [Gusto](pages/openai.com/business/partners/gusto/index.md), [HubSpot](pages/openai.com/business/partners/hubspot/index.md), [QuickBooks](pages/openai.com/business/partners/quickbooks/index.md), [Stripe](pages/openai.com/business/partners/stripe/index.md).
+- **7 new SMB plugin pages:** [DocuSign](pages/openai.com/business/plugins/docusign/index.md), [HoneyBook](pages/openai.com/business/plugins/honeybook/index.md), [Mercury](pages/openai.com/business/plugins/mercury/index.md), [PayPal](pages/openai.com/business/plugins/paypal/index.md), [QuickBooks](pages/openai.com/business/plugins/quickbooks/index.md), [Shopify](pages/openai.com/business/plugins/shopify/index.md), [Wix](pages/openai.com/business/plugins/wix/index.md), [ZoomInfo](pages/openai.com/business/plugins/zoominfo/index.md) — all clustered around a 2026-09-08T13:53Z publish time, indicating a single coordinated batch launch of the ChatGPT-for-SMB plugin ecosystem (13 new/rewritten partner+plugin surfaces in one push, see below).
+
+### Notable updates
+
+- **[`/collective-cyberdefense/`](pages/openai.com/collective-cyberdefense/index.md)** — the largest single-page diff this run (846 diff lines): the partner/company directory roughly doubled, with hundreds of newly listed organizations (security vendors, MSSPs, and enterprises spanning Abnormal AI through AT&T, Bitdefender, BeyondTrust, Anthropic, and many more) inserted alphabetically — reads as rapid sign-up growth for OpenAI's cyber-defense coalition.
+- **[`/business/partners/dropbox/`](pages/openai.com/business/partners/dropbox/index.md)** — full content and CTA rewrite: headline changed from "Bring Dropbox context into ChatGPT" to "Get more done with Dropbox and ChatGPT"; the old promo-code discount ("2 seats free for 30 days plus a $50 credit") was replaced by a plugin-install-and-earn-credit flow ("$50 of workspace credits, limited to two per workspace"); feature framing changed from Discover/Create/Share to Find answers faster/Save time/Keep everyone on the same page. Matches the new partner-page template used by the 5 new partner pages above.
+- **[`/news/`](pages/openai.com/news/index.md) and [`/news/company-announcements/`](pages/openai.com/news/company-announcements/index.md)** — listing rails refreshed to surface GPT-6 Astra, ChatGPT Images 2.5, the Hugging Face incident write-up, "The Work Now Within Reach," and the journalism piece, displacing older GPT-5.6-era entries.
+- **["Introducing GPT Rosalind"](pages/openai.com/index/introducing-gpt-rosalind/index.md)** (life-sciences model) — access CTA changed from a waitlist form to a direct ChatGPT link plus a new `/rosalind/` "Learn more" page; related-posts rail refreshed to point at the new Navier–Stokes post; "GPT-6" added to the nav model list alongside GPT-5.6.
+- **[`/daybreak/`](pages/openai.com/daybreak/index.md)** — added a 5-step workflow diagram (Inventory → Discovery → Dynamic validation → Ownership assignment → Verified remediation) and swapped the partner-logo grid image to a file named "…hackerone-2x.png," suggesting HackerOne joined the Daybreak partner roster.
+- **[`/business/solutions/cybersecurity/`](pages/openai.com/business/solutions/cybersecurity/index.md)** — the September 3 livestream promo was converted to a "Watch the recording" CTA now that the event has passed; a Cloudflare CTO pull-quote was relocated further down the page; "GPT-6" added to nav.
+- **[`/business/why-openai/startups/`](pages/openai.com/business/why-openai/startups/index.md)** — routine events-calendar churn: past events removed, ~7 new campus/VC co-hosted events added for the Sept 20–25 window (MIT×Conviction, MIT×Index Ventures, Brown×Chemistry, Harvard×NEA, Yale×Founders Fund, Penn×First Round, Columbia×Thrive Capital).
+
+### Routine, low-signal updates
+
+- **42 of 82** updated pages: `<lastmod>` touch only, byte-identical content — background propagation from the launch-day nav/related-post component updates (e.g. `/index/gpt-5-first-look/`, `/index/gpt-5-cursor/`, `/index/o1-coding/`, `/index/my-dog-the-math-tutor/`, `/news/engineering/`, `/news/security/`, `/stories/`, most of the earlier Daybreak-wave posts).
+- The remaining small (3–20 line) diffs are legal/policy boilerplate touches (`/policies/*`, `/research/verify/`) and related-post rail swaps on `/index/atv-big-air-tour/`, `/index/an-alien-mind/`, `/index/research-acceleration-view-inside-openai/`, `/index/fishing-for-first-timers/`, `/index/sora-vallee-duhamel/`, `/index/ten-tiny-canvases/`, `/index/the-met-museum/`, `/new-york-times/`, `/daybreak/partners/`, `/business/partners/quantium/`, `/business/plugins/`, `/business/plugins/biorender/`, `/index/gpt-6-astra/`, `/index/chatgpt-connects-health-records-and-healthcare-sources/`, and the homepage (`/`) — no body-text changes.
+- Full per-page breakdown in [`runs/2026-09-09T09-16Z/analysis.md`](runs/2026-09-09T09-16Z/analysis.md) and [`runs/2026-09-09T09-16Z/diff.json`](runs/2026-09-09T09-16Z/diff.json).
+
+### Removals
+
+None.
+
+**Stats:** 1654 total URLs | 21 added | 82 updated | 0 removed | 0 anomalies | 37 sub-sitemaps
+
+---
+
+
+
 ## 2026-09-08 — Run `2026-09-08T09-16Z`
 
 **Fetch time:** 2026-09-08T09:17:04–09:18:20Z UTC | **Baseline:** 2026-09-07T09-16Z (consecutive day)

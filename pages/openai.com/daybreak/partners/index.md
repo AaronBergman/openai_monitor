@@ -64,7 +64,7 @@ Develop bounded, authorized workflows with safeguards, monitoring, human review,
 
 [Find a partner](<https://openai.com/business/partners/locator/?tags=partner-joint-cyber>)
 
-![Grid of logos for partners in OpenAI's Daybreak program](https://images.ctfassets.net/kftzwdyauwt9/5ocZoT8igzu8jMNPRXeqQR/064c12ba33187fec3cb55da3b5c8b835/logo_cloud_for_codex__3_.png?w=3840&q=90&fm=webp)
+![Grid of logos for partners in OpenAI's Daybreak program](https://images.ctfassets.net/kftzwdyauwt9/5DNXdTp2BCly1OpsJ3QdAK/9f149ffa9fe477416931f8e8e5d33a1c/daybreak-partner-logos-hackerone-2x.png?w=3840&q=90&fm=webp)
 
 ## Two ways to partner
 
