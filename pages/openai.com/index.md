@@ -32,23 +32,23 @@ Message ChatGPT
 
 [Learn about ChatGPT Business](</business/>)[Talk with ChatGPT](<https://chatgpt.com/?mode=voice>)[Research](</research/>)[API Platform](</api/>)More
 
-![""](//images.ctfassets.net/kftzwdyauwt9/5VQB7Gg4znBo0Td1c8DRZj/13c382ad9dee8df708eab9e3e5c96ab3/Hero_16x9.png?w=3840&q=90&fm=webp)
+![Hero 16x9](https://images.ctfassets.net/kftzwdyauwt9/5VQB7Gg4znBo0Td1c8DRZj/13c382ad9dee8df708eab9e3e5c96ab3/Hero_16x9.png?w=3840&q=50&fm=webp)
 
 [GPT-6 Astra: A new generation of intelligenceResearch28 min read](</index/gpt-6-astra/>)
 
-![""](//images.ctfassets.net/kftzwdyauwt9/5VQB7Gg4znBo0Td1c8DRZj/13c382ad9dee8df708eab9e3e5c96ab3/Hero_16x9.png?w=3840&q=90&fm=webp)
+![Hero 16x9](https://images.ctfassets.net/kftzwdyauwt9/5VQB7Gg4znBo0Td1c8DRZj/13c382ad9dee8df708eab9e3e5c96ab3/Hero_16x9.png?w=3840&q=50&fm=webp)
 
 [GPT-6 Astra: A new generation of intelligenceResearch28 min read](</index/gpt-6-astra/>)
+
+![images2point5 1-1](https://images.ctfassets.net/kftzwdyauwt9/6C1icjo4Zz6MzpbQl1K2qx/8bf8ec06aae235d81019c24f6098d2f0/images2point5_1-1c.png?w=3840&q=90&fm=webp)
+
+[Introducing ChatGPT Images 2.5Product6 min read](</index/introducing-chatgpt-images-2-5/>)
 
 ![""](https://images.ctfassets.net/kftzwdyauwt9/4EPFfixCR8upYpL3fOmjMo/2f995b1b7e03a6938bf5b654fb1df507/System_Card_1x1.png?w=3840&q=90&fm=webp)
 
 [GPT‑6 Astra System Card(opens in a new window)](<https://deploymentsafety.openai.com/gpt-6-astra>)
 
 [The Hugging Face incident and the road aheadSecurity22 min read](</index/hugging-face-incident-and-the-road-ahead/>)
-
-![Daybreak for Critical Infrastructure — cover](https://images.ctfassets.net/kftzwdyauwt9/3iCwHSjR2bfJPdDiWomsis/86d511413c2b0338bd211b41545be495/Option_65___1080_1080.png?w=3840&q=90&fm=webp)
-
-[Daybreak for Frontline DefendersSecurity6 min read](</index/daybreak-for-frontline-defenders/>)
 
 ## Recent news
 

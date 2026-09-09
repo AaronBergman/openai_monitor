@@ -34,7 +34,7 @@ April 16, 2026
 
 A new purpose-built model to accelerate scientific research and drug discovery.
 
-[Request access](</form/life-sciences-access/>)Learn more
+[Request access(opens in a new window)](<https://chatgpt.com/r/b749fb02595e04c3007a54375f3f4374>)[Learn more](</rosalind/>)
 
 Share
 
@@ -88,19 +88,11 @@ We are working with leading pharmaceutical, biotechnology, and research customer
 
 AmgenNovo NordiskThermo Fisher Scientific ModernaOracle Health and Life SciencesNVIDIAAllen InstituteBenchlingUCSF School of Pharmacy 
 
-> “The life sciences field demands precision at every step. The questions are highly complex, the data are highly unique, and the stakes are incredibly high. Our unique collaboration with OpenAI enables us to apply their most advanced capabilities and tools in new and innovative ways with the potential to accelerate how we deliver medicines to patients.”
-
-—Sean Bruich, Senior Vice President of Artificial Intelligence and Data, Amgen
-
 ## Performance and evaluation
 
 We evaluated GPT‑Rosalind across a range of capabilities fundamental to scientific discovery and industry research. These evaluations measure core reasoning across scientific subdomains, including chemical reaction mechanisms; protein structure, mutation effects, and interactions; and phylogenetic interpretation of DNA sequences. They also assess whether models can support real research workflows by interpreting experimental outputs, identifying expert-relevant patterns, and synthesizing external information to design follow-up experiments. Finally, they test whether models can select and use the right computational tools, databases, and domain-specific capabilities to augment their reasoning. Taken together, these evaluations show progress across the end-to-end process of scientific research and suggest a stronger ability to help researchers work through challenging discovery tasks.
 
 Organic chemistryProtein understandingGenomicsExperimental design and analysisTool usage
-
-Prompt
-
-I am planning a base-promoted SNAr coupling of 1-(pyridin-3-yl)ethanol with 1-fluoro-2-nitrobenzene with the goal of synthesizing 1-(pyridin-3-yl)ethyl 2-nitrophenyl ether. I found several patents that describe room-temperature O-arylation of alcohols in DMF/Cs2CO3, but the reaction is taking longer than I would like. How can I improve this reaction? Help me find any relevant literature or patents as well.
 
 ## Industry evaluations
 
@@ -152,17 +144,17 @@ Over time, we expect these systems to become increasingly capable partners in di
 
 [View all](</news/>)
 
-![ARC-AGI-3 art-card 1x1](https://images.ctfassets.net/kftzwdyauwt9/71xyJRWnTkM6EW1JKDUc59/91d2690ff9e7abaa975b4a5f64089056/ARC-AGI-3_art-card_1x1.png?w=3840&q=90&fm=webp)
+![Navier–Stokes solution — art card](https://images.ctfassets.net/kftzwdyauwt9/2VUQZfeF2GtKRitKYdkoLu/cc96d05424afb2c9adcca0734ecdafb1/navier-stokes-art-card.png?w=3840&q=90&fm=webp)
 
-[How enabling two settings tripled our scores on the ARC-AGI-3 benchmarkResearchJul 29, 2026](</index/how-two-settings-tripled-our-arc-agi-3-scores/>)
+[An OpenAI model proposes a solution to the Navier–Stokes problemResearchSep 8, 2026](</index/navier-stokes-solution/>)
 
-![oai Science Academic Research Academic Research 1x1](https://images.ctfassets.net/kftzwdyauwt9/59kTmFmujYzNh0VgSvCgwe/e9334dd9944b5309f8ca2d44fdc71b6f/academic-research-card.png?w=3840&q=90&fm=webp)
+![An alien mind > Listing card](https://images.ctfassets.net/kftzwdyauwt9/7ut3G8rKt5ia4P3yRqi2qN/6ffb429f70548a881eb46a4e7e61498e/Option_120___1080_1080.png?w=3840&q=90&fm=webp)
 
-[Accelerating scientific discovery with ChatGPT for Academic ResearchersCompanyJul 29, 2026](</index/chatgpt-for-academic-researchers/>)
+[An Alien MindSafetySep 6, 2026](</index/an-alien-mind/>)
 
-![Scientific computing agentic AI card image \(1x1\)](https://images.ctfassets.net/kftzwdyauwt9/5opqp3rNWM7eax6GUc6MAl/1c710a4aba8c5c1e0b7d1c1c7c8b32db/1x1__1_.png?w=3840&q=90&fm=webp)
+![Research acceleration: The view inside OpenAI > Cover image](https://images.ctfassets.net/kftzwdyauwt9/5kS3OG1Jfdja5xLmYcRwgr/f53b9dfe985df5969aff5dc41f2d1934/Art_Card__7_.png?w=3840&q=90&fm=webp)
 
-[Scientific computing in the age of agentic AIPublicationJul 28, 2026](</index/scientific-computing-agentic-ai/>)
+[Research acceleration: The view inside OpenAIResearchSep 6, 2026](</index/research-acceleration-view-inside-openai/>)
 
 Research
 
@@ -174,6 +166,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
@@ -268,3 +261,11 @@ Terms & Policies
 OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
+
+> “The life sciences field demands precision at every step. The questions are highly complex, the data are highly unique, and the stakes are incredibly high. Our unique collaboration with OpenAI enables us to apply their most advanced capabilities and tools in new and innovative ways with the potential to accelerate how we deliver medicines to patients.”
+
+—Sean Bruich, Senior Vice President of Artificial Intelligence and Data, Amgen
+
+Prompt
+
+I am planning a base-promoted SNAr coupling of 1-(pyridin-3-yl)ethanol with 1-fluoro-2-nitrobenzene with the goal of synthesizing 1-(pyridin-3-yl)ethyl 2-nitrophenyl ether. I found several patents that describe room-temperature O-arylation of alcohols in DMF/Cs2CO3, but the reaction is taking longer than I would like. How can I improve this reaction? Help me find any relevant literature or patents as well.

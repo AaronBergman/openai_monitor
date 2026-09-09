@@ -43,6 +43,7 @@ Plugins bring context from your tools and data into ChatGPT and the API, helping
   * Developer Tools
   * Design
   * Finance
+  * Small Business
 
 
 

@@ -28,9 +28,17 @@ OpenAI[View all plugins](</business/plugins/>)
 
 # BioRender
 
-Science visuals on demand.
+Find and create figures
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_691e3de0d2708191a6476a7b36e38779>)[Contact sales](</contact-sales/>)
+
+@BioRender Create a figure showing how CAR-T cells recognize and kill tumor cells.
+
+![@BioRender Create a figure showing how CAR-T cells recognize and kill tumor cells.](https://files.openai.com/content?id=file_00000000b958820dae1f1d427f11164d&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=8&sig=517f06c93126d58eea2484be209e048505a5a02d88ac8f841e08f3afc510b6e6&v=0)
+
+@BioRender Find existing figures or templates about T cell activation and the immune synapse.
+
+![@BioRender Find existing figures or templates about T cell activation and the immune synapse.](https://files.openai.com/content?id=file_0000000005a081f7b65f07edeee8d5ff&cdn=1&cp=pi&ma=30672000&ts=0&p=pi&cid=8&sig=d02dc1eaa96c9e6a7a809743ad21a0717a5b211edc0df35d9a6d8236a6bd1768&v=0)
 
 Use case: [Data](</business/plugins/?tab=apps-data>)
 
@@ -40,7 +48,7 @@ Website: [biorender.com(opens in a new window)](<https://biorender.com/>)
 
 ## How it works
 
-Help researchers find scientifically accurate icons and figure templates in ChatGPT to plan clear visuals for papers, presentations, and training materials.
+Search BioRender's library of scientific templates, find your files, and generate custom first-draft figures with AI. Results and previews appear right in your conversation, and every item links back to BioRender so you can open and keep editing.
 
 ### Speed up figure planning
 
@@ -92,6 +100,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)

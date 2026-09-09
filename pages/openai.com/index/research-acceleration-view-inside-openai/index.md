@@ -191,15 +191,17 @@ OpenAI
 
 [View all](</news/>)
 
+![Navier–Stokes solution — art card](https://images.ctfassets.net/kftzwdyauwt9/2VUQZfeF2GtKRitKYdkoLu/cc96d05424afb2c9adcca0734ecdafb1/navier-stokes-art-card.png?w=3840&q=90&fm=webp)
+
+[An OpenAI model proposes a solution to the Navier–Stokes problemResearchSep 8, 2026](</index/navier-stokes-solution/>)
+
+![Teen development research grants — Card image](https://images.ctfassets.net/kftzwdyauwt9/492WJ2zEboE6VdmchhCjIA/34e10aa1208a6988e3db2341d849d5b4/4bzz6p65ky7zwfd4pe42ou-cover__3_.png?w=3840&q=90&fm=webp)
+
+[Funding grants for new research into AI and teen developmentSafetySep 8, 2026](</index/teen-development-research-grants/>)
+
 ![An alien mind > Listing card](https://images.ctfassets.net/kftzwdyauwt9/7ut3G8rKt5ia4P3yRqi2qN/6ffb429f70548a881eb46a4e7e61498e/Option_120___1080_1080.png?w=3840&q=90&fm=webp)
 
 [An Alien MindSafetySep 6, 2026](</index/an-alien-mind/>)
-
-[GPT-6 Astra: A new generation of intelligenceResearchSep 3, 2026](</index/gpt-6-astra/>)
-
-![Safety overview: GPT-6 Astra](https://images.ctfassets.net/kftzwdyauwt9/4vjHRXipk1bBYL1d5Jz11j/d2dbb46d66b1035b7f5f320e818e1608/gpt-6-astra-safety-overview-cover.png?w=3840&q=90&fm=webp)
-
-[Safety overview: GPT-6 AstraSafetySep 3, 2026](</index/safety-overview-gpt-6-astra/>)
 
 Research
 

@@ -50,6 +50,36 @@ Daybreak turns that capability into a governed cyber defense stack: frontier mod
 
 Daybreak delivers an agentic defense loop: inventory, discover, validate, assign, remediate, and prove. Together, [Codex Security](</business/solutions/cybersecurity/>), GPT Cyber models, [Patch the Planet⁠(opens in a new window)](<https://trailofbits.com/patch-the-planet/>), and the [Daybreak Defense Network](</daybreak/partners-new/>) bring governed defensive capability into the tools and workflows teams already use.
 
+01
+
+#### Inventory
+
+Map, link, update
+
+02
+
+#### Discovery
+
+Scan, analyze, import
+
+03
+
+#### Dynamic validation
+
+Reproduce, test, confirm
+
+04
+
+#### Ownership assignment
+
+Identify, route, follow up
+
+05
+
+#### Verified remediation
+
+Patch, deploy, verify
+
   1. 01
 
 #### Inventory
@@ -131,7 +161,7 @@ Deploy GPT Cyber into the tools and services your organization already uses.
 
 [Explore Daybreak partners](</daybreak/partners/>)
 
-![Grid of logos for partners in OpenAI's Daybreak program](https://images.ctfassets.net/kftzwdyauwt9/5ocZoT8igzu8jMNPRXeqQR/064c12ba33187fec3cb55da3b5c8b835/logo_cloud_for_codex__3_.png?w=3840&q=90&fm=webp)
+![Grid of logos for partners in OpenAI's Daybreak program](https://images.ctfassets.net/kftzwdyauwt9/5DNXdTp2BCly1OpsJ3QdAK/9f149ffa9fe477416931f8e8e5d33a1c/daybreak-partner-logos-hackerone-2x.png?w=3840&q=90&fm=webp)
 
 ### Daybreak for the frontline defenders who need it most
 

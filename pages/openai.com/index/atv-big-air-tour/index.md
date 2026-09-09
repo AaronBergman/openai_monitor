@@ -144,17 +144,17 @@ More than 1 million businesses around the world are achieving meaningful results
 
 ## Keep reading
 
-![Supporting independent journalism in Ukraine — card image](https://images.ctfassets.net/kftzwdyauwt9/3wATLIxaR9ch8uwHbmLURE/b43c566703960e61d4159760ed8a3c2b/supporting-independent-journalism-in-ukraine-cover-option-029.png?w=3840&q=90&fm=webp)
+![How Codex helps run quantum computing experiments — Art card](https://images.ctfassets.net/kftzwdyauwt9/2Kovot5B2upbAxiLOfbEIO/464b5e73306e047fa31f8456acb34fa3/art-card.png?w=3840&q=90&fm=webp)
 
-[Supporting independent journalism in UkraineGlobal AffairsSep 7, 2026](</index/supporting-independent-journalism-in-ukraine/>)
+[How GPT-5.6 Sol helps run quantum computing experimentsApplied AISep 8, 2026](</index/codex-quantum-computing-experiments/>)
 
-![An alien mind > Listing card](https://images.ctfassets.net/kftzwdyauwt9/7ut3G8rKt5ia4P3yRqi2qN/6ffb429f70548a881eb46a4e7e61498e/Option_120___1080_1080.png?w=3840&q=90&fm=webp)
+![The Work Now Within Reach — clean cover](https://images.ctfassets.net/kftzwdyauwt9/5iHLTPM4ZhKe4dAwOPfpy2/347b9d804542685bb13dbb63e985d91e/c3f562e2b08a0bfc.png?w=3840&q=90&fm=webp)
 
-[An Alien MindSafetySep 6, 2026](</index/an-alien-mind/>)
+[The Work Now Within ReachCompanySep 8, 2026](</index/the-work-now-within-reach/>)
 
-![Research acceleration: The view inside OpenAI > Cover image](https://images.ctfassets.net/kftzwdyauwt9/5kS3OG1Jfdja5xLmYcRwgr/f53b9dfe985df5969aff5dc41f2d1934/Art_Card__7_.png?w=3840&q=90&fm=webp)
+![images2point5 1-1](https://images.ctfassets.net/kftzwdyauwt9/6C1icjo4Zz6MzpbQl1K2qx/8bf8ec06aae235d81019c24f6098d2f0/images2point5_1-1c.png?w=3840&q=90&fm=webp)
 
-[Research acceleration: The view inside OpenAIResearchSep 6, 2026](</index/research-acceleration-view-inside-openai/>)
+[Introducing ChatGPT Images 2.5ProductSep 8, 2026](</index/introducing-chatgpt-images-2-5/>)
 
 Research
 

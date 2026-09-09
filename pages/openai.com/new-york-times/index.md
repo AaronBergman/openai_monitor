@@ -84,6 +84,10 @@ The New York Times’ business is [_healthier than ever_ ⁠(opens in a new wind
 
 Since 2023, we have partnered with news organizations around the world—both large and small, national and local—to support journalism. From our work with the Lenfest Institute, American Journalism Project and WAN-IFRA, to our partnerships with individual newsrooms to grow local coverage, expand audiences and support the very human work of reporting.
 
+In September 2026, for example, we [_announced_ ⁠](<https://openai.com/index/supporting-independent-journalism-in-ukraine/>) a new initiative in partnership with WAN-IFRA and the Association of Independent Regional Press Publishers of Ukraine (AIRPPU) to support and strengthen Ukrainian news publishers. As Oksana Brovko, Chief Executive Officer of AIRPPU, said: 
+
+“Ongoing war, economic pressures, and disruption to daily lives have created unprecedented challenges for independent media in Ukraine. We believe that AI can greatly assist and provide significant opportunities to strengthen editorial workflows, improve efficiency, and better serve audiences. This program will provide Ukrainian publishers with access to international expertise, practical tools, and hands-on support that will help them turn those opportunities into tangible results. And most importantly—it should give journalists back time to do journalism.”
+
 You can read more about our work with news organizations [_here_](</index/how-news-organizations-are-using-ai/>) , as well as through our OpenAI Academy for News Organizations [_hub_ ⁠(opens in a new window)](<https://academy.openai.com/public/clubs/news-organizations-b9osl/overview>).
 
 * * *

@@ -151,15 +151,15 @@ OpenAI
 
 [View all](</news/>)
 
+![images2point5 1-1](https://images.ctfassets.net/kftzwdyauwt9/6C1icjo4Zz6MzpbQl1K2qx/8bf8ec06aae235d81019c24f6098d2f0/images2point5_1-1c.png?w=3840&q=90&fm=webp)
+
+[Introducing ChatGPT Images 2.5ProductSep 8, 2026](</index/introducing-chatgpt-images-2-5/>)
+
 [GPT-6 Astra: A new generation of intelligenceResearchSep 3, 2026](</index/gpt-6-astra/>)
 
 ![Expanding access to AI > Cover image](https://images.ctfassets.net/kftzwdyauwt9/x3ij3VqMj60KcdHucQvNc/414ce018aafcf0916557e004ee112d71/expanding-access-to-ai--art-card-purple-v001.png?w=3840&q=90&fm=webp)
 
 [A milestone in expanding access to AIProductAug 31, 2026](</index/expanding-access-to-ai-with-chatgpt-ads/>)
-
-![ChatGPT for Teachers district expansion | Original neutral library cover](https://images.ctfassets.net/kftzwdyauwt9/4jHps0gmVQfIrnl2shwDBi/35e47854409876d353f3bb502a164317/teachers-original-neutral-listing.png?w=3840&q=90&fm=webp)
-
-[Bringing ChatGPT for Teachers to more U.S. school districtsProductAug 26, 2026](</index/bringing-chatgpt-for-teachers-to-more-us-school-districts/>)
 
 Research
 

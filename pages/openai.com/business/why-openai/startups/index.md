@@ -272,19 +272,27 @@ PingoPaceAaruMonacoMinerva
 
 Join upcoming events for hands-on building, technical support, and connecting with other founders.
 
-### [Build Hour: Image Gen 2 (August 26, 10 am PT, Virtual)Learn how gpt-image-2 uses text, images, and broad world knowledge to generate and edit images with strong instruction following and contextual awareness.Register here](<https://webinar.openai.com/buildhours/imagegen2/>)
-
-### [Builder Lounge: London (September 3)Join us for an evening of hands-on building, live demos, and networking, co-hosted with Conduct.Register here](<https://luma.com/e9frs2c9>)
-
 ### [Builder Lounge: Berlin (September 9)Join us for an evening of hands-on building, live demos, and networking, co-hosted with Parloa.Register here](<https://luma.com/8uojs88j>)
 
 ### [Builder Lounge: Stockholm (September 15)Join us for an evening of hands-on building, live demos, and networking, co-hosted with Lovable.Register here](<https://luma.com/9lpe783q>)
 
+### [MITHacks × Conviction (September 20)Join OpenAI and Conviction for a pizza party after MIT Hacks. Celebrate the weekend, decompress after building, grab a slice, and connect with fellow hackers, founders, and friends.Register here](<https://luma.com/hackMIT_pizzaparty>)
+
+### [MIT × Index Ventures (September 21)Join MIT students for an evening with Index Ventures and OpenAI in Cambridge.Register here](<https://luma.com/index_openai>)
+
+### [Brown × Chemistry (September 22)Join fellow Brown University students for a morning with Chemistry and OpenAI in Providence.Register here](<https://luma.com/chemistry_openai>)
+
+### [Harvard × NEA (September 22)Join fellow Harvard students for an evening with NEA and OpenAI in Cambridge.Register here](<https://luma.com/harvard_openai>)
+
 ### [Builder Lounge: Paris (September 22)Join us for an evening of hands-on building, live demos, and networking, co-hosted with Photoroom.Register here](<https://luma.com/qfcsoul6>)
 
-### [Builder Lounge: Munich (September 29)Join us for an evening of hands-on building, live demos, and networking, co-hosted with n8n.Register here](<https://luma.com/k82f3c5u>)
+### [Yale × Founders Fund (September 23)Join fellow Yale students for an evening with Founders Fund and OpenAI in New Haven.Register here](<https://luma.com/foundersfund_openai_yale>)
 
-### [Build Hours (On Demand)Build with session materials from past Build Hours, including demos, starter code, and examples across agent workflows, integrations, and deployment patterns.Catch Up](<https://webinar.openai.com/buildhours/>)
+### [Penn × First Round (September 24)Join fellow Penn students for an evening with First Round, DRF, and OpenAI in Philly.Register here](<https://luma.com/firstround_openai>)
+
+### [Columbia × Thrive Capital (September 25)Join fellow Columbia students for an evening with Thrive Capital and OpenAI in New York City.Register here](<https://luma.com/thrive_openai>)
+
+Load more
 
 ## Hear from the founders bringing bold ideas to life
 

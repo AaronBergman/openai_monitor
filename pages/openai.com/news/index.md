@@ -52,6 +52,30 @@ Switch cards to show Media
 
 Switch cards to hide Media
 
+![How Codex helps run quantum computing experiments — Art card](https://images.ctfassets.net/kftzwdyauwt9/2Kovot5B2upbAxiLOfbEIO/464b5e73306e047fa31f8456acb34fa3/art-card.png?w=3840&q=90&fm=webp)
+
+[How GPT-5.6 Sol helps run quantum computing experimentsApplied AISep 8, 2026](</index/codex-quantum-computing-experiments/>)
+
+![The Work Now Within Reach — clean cover](https://images.ctfassets.net/kftzwdyauwt9/5iHLTPM4ZhKe4dAwOPfpy2/347b9d804542685bb13dbb63e985d91e/c3f562e2b08a0bfc.png?w=3840&q=90&fm=webp)
+
+[The Work Now Within ReachCompanySep 8, 2026](</index/the-work-now-within-reach/>)
+
+![images2point5 1-1](https://images.ctfassets.net/kftzwdyauwt9/6C1icjo4Zz6MzpbQl1K2qx/8bf8ec06aae235d81019c24f6098d2f0/images2point5_1-1c.png?w=3840&q=90&fm=webp)
+
+[Introducing ChatGPT Images 2.5ProductSep 8, 2026](</index/introducing-chatgpt-images-2-5/>)
+
+![Navier–Stokes solution — art card](https://images.ctfassets.net/kftzwdyauwt9/2VUQZfeF2GtKRitKYdkoLu/cc96d05424afb2c9adcca0734ecdafb1/navier-stokes-art-card.png?w=3840&q=90&fm=webp)
+
+[An OpenAI model proposes a solution to the Navier–Stokes problemResearchSep 8, 2026](</index/navier-stokes-solution/>)
+
+![Teen development research grants — Card image](https://images.ctfassets.net/kftzwdyauwt9/492WJ2zEboE6VdmchhCjIA/34e10aa1208a6988e3db2341d849d5b4/4bzz6p65ky7zwfd4pe42ou-cover__3_.png?w=3840&q=90&fm=webp)
+
+[Funding grants for new research into AI and teen developmentSafetySep 8, 2026](</index/teen-development-research-grants/>)
+
+![Supporting journalism from classrooms to newsrooms — listing card](https://images.ctfassets.net/kftzwdyauwt9/2uvvRNdvFkdWWXNtANgtAF/36e0f8b6a0c35abf88eec71519823409/Option_70___1080_1080.png?w=3840&q=90&fm=webp)
+
+[Supporting journalism from classrooms to newsroomsCompanySep 8, 2026](</index/supporting-journalism-from-classrooms-to-newsrooms/>)
+
 ![An alien mind > Listing card](https://images.ctfassets.net/kftzwdyauwt9/7ut3G8rKt5ia4P3yRqi2qN/6ffb429f70548a881eb46a4e7e61498e/Option_120___1080_1080.png?w=3840&q=90&fm=webp)
 
 [An Alien MindSafetySep 6, 2026](</index/an-alien-mind/>)
@@ -63,28 +87,6 @@ Switch cards to hide Media
 ![Daybreak for Critical Infrastructure — cover](https://images.ctfassets.net/kftzwdyauwt9/3iCwHSjR2bfJPdDiWomsis/86d511413c2b0338bd211b41545be495/Option_65___1080_1080.png?w=3840&q=90&fm=webp)
 
 [Daybreak for Frontline DefendersSecuritySep 3, 2026](</index/daybreak-for-frontline-defenders/>)
-
-[GPT-6 Astra: A new generation of intelligenceResearchSep 3, 2026](</index/gpt-6-astra/>)
-
-![Safety overview: GPT-6 Astra](https://images.ctfassets.net/kftzwdyauwt9/4vjHRXipk1bBYL1d5Jz11j/d2dbb46d66b1035b7f5f320e818e1608/gpt-6-astra-safety-overview-cover.png?w=3840&q=90&fm=webp)
-
-[Safety overview: GPT-6 AstraSafetySep 3, 2026](</index/safety-overview-gpt-6-astra/>)
-
-![GPT-6 Astra System Card](https://images.ctfassets.net/kftzwdyauwt9/4EPFfixCR8upYpL3fOmjMo/2f995b1b7e03a6938bf5b654fb1df507/System_Card_1x1.png?w=3840&q=90&fm=webp)
-
-[GPT‑6 Astra System CardSafetySep 3, 2026(opens in a new window)](<https://deploymentsafety.openai.com/gpt-6-astra>)
-
-![How AI-native companies turn workflows into operating capability — card image](https://images.ctfassets.net/kftzwdyauwt9/mSi6hls2IXr3ax2lH8vTj/5a364b116ec5584ec7415feb4c1a7033/index-how-ai-native-companies-turn-workflows-into-operating-capability--cover-v001.png?w=3840&q=90&fm=webp)
-
-[How AI-native companies turn workflows into operating capabilityAI AdoptionSep 1, 2026](</index/ai-native-company-workflows/>)
-
-![Path to Astra — Clean square cover — Neutral Option 062 v1](https://images.ctfassets.net/kftzwdyauwt9/4BabvjDCQdlYN2ISzOkgF9/78d35947274e9b3ac2483377782b007e/astra-cover-v001.png?w=3840&q=90&fm=webp)
-
-[Path to Astra: critical capabilities and frontier safeguardsSafetySep 1, 2026](</index/path-to-astra/>)
-
-![Healthcare hero and SEO — original blue icon on white, smaller icon](https://images.ctfassets.net/kftzwdyauwt9/7pfIDODSObT8A9BTlfXyVc/43262863eeb33d7f4f8e191fe4783cab/healthcare-exact-smaller-icon-hero-2x.png?w=3840&q=90&fm=webp)
-
-[ChatGPT can now connect to healthcare sourcesProductSep 1, 2026](</index/chatgpt-connects-health-records-and-healthcare-sources/>)
 
 Load more
 

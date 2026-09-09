@@ -26,11 +26,11 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 OpenAI
 
-### [Livestream] Join us September 3, 2026 at 1pm PT
+### Watch the recording:
 
-to see how frontier AI is reshaping cyber defense.
+See how frontier AI is reshaping cybersecurity
 
-[Register now](</business/learn/intelligence-at-work-cyber/>)
+[Watch recording](</business/learn/intelligence-at-work-cyber/>)
 
 # Frontier intelligence for cybersecurity
 
@@ -141,10 +141,6 @@ Daybreak Red: Analyze malware, binaries, firmware, and controlled proofs of conc
 
 CloudflareSalesforceCiscoCrowdStrikePalo Alto NetworksOracleZscalerAkamaiFortinet
 
-> “We’re excited about the potential of OpenAI’s cyber capabilities to bring stronger reasoning and more agentic execution into security workflows. It’s a big step forward for teams to be able to leverage frontier models not only to accelerate velocity, but also to improve their security posture.”
-
-— Dane Knecht, CTO, Cloudflare
-
 ## Choose how to get started
 
 Start with Codex Security, request advanced access, or work with us to bring Daybreak capabilities to your customers.
@@ -179,6 +175,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
@@ -285,6 +282,10 @@ Reproduce likely vulnerabilities in an isolated environment so teams can priorit
 ### Move from finding to fix
 
 Develop targeted patches, test relevant changes, and return reviewable evidence to the engineering and security tools teams already use.
+
+> “We’re excited about the potential of OpenAI’s cyber capabilities to bring stronger reasoning and more agentic execution into security workflows. It’s a big step forward for teams to be able to leverage frontier models not only to accelerate velocity, but also to improve their security posture.”
+
+— Dane Knecht, CTO, Cloudflare
 
 ### What can I scan?
 
