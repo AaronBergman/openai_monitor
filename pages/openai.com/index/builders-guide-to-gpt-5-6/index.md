@@ -193,6 +193,10 @@ This guide was developed by [Samarth Madduru⁠(opens in a new window)](<https:/
 
 [View all](</news/>)
 
+![How Codex helps run quantum computing experiments — Art card](https://images.ctfassets.net/kftzwdyauwt9/2Kovot5B2upbAxiLOfbEIO/464b5e73306e047fa31f8456acb34fa3/art-card.png?w=3840&q=90&fm=webp)
+
+[How GPT-5.6 Sol helps run quantum computing experimentsApplied AISep 8, 2026](</index/codex-quantum-computing-experiments/>)
+
 ![Derya Unutmaz card image](https://images.ctfassets.net/kftzwdyauwt9/6By12NX9sglstfwFKQTzYB/a28d6f84e91a8dae838f240db4c2524c/derya_1x1.png?w=3840&q=90&fm=webp)
 
 [How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mysteryApplied AIJun 23, 2026](</index/gpt-5-immunology-mystery/>)
@@ -200,10 +204,6 @@ This guide was developed by [Samarth Madduru⁠(opens in a new window)](<https:/
 ![Boston's Children Hospital NEJM > Cover image](https://images.ctfassets.net/kftzwdyauwt9/1VrF8z79R2Khy4PWmHRKME/38077532a039ebb39f054e84d6ae89c7/Art_Card.png?w=3840&q=90&fm=webp)
 
 [Using AI to help physicians diagnose rare genetic diseases affecting childrenApplied AIJun 18, 2026](</index/diagnose-rare-childhood-diseases/>)
-
-![Frame \(4\)](https://images.ctfassets.net/kftzwdyauwt9/1cXwxAxok14lQF5HiEO4zi/567dbae4950956776ef4a28f9790df4c/Frame__4_.png?w=3840&q=90&fm=webp)
-
-[How an astrophysicist uses Codex to help simulate black holesApplied AIJun 11, 2026](</index/using-codex-to-simulate-black-holes/>)
 
 Research
 
@@ -215,6 +215,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)

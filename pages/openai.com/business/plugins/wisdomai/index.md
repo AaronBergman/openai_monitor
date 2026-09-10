@@ -1,0 +1,185 @@
+Skip to main content
+
+[](</>)[](</business/>)
+
+  * Why OpenAI
+  * Products
+  * Solutions
+  * Resources
+  * [Customers](</business/customer-stories/>)
+  * [Pricing](</business/pricing/>)
+
+
+
+Try OpenAI[Contact sales](</contact-sales/>)
+
+  * Why OpenAI
+  * Products
+  * Solutions
+  * Resources
+  * [Customers](</business/customer-stories/>)
+  * [Pricing](</business/pricing/>)
+
+
+
+[Contact sales](</contact-sales/>)Try OpenAI
+
+OpenAI[View all plugins](</business/plugins/>)
+
+# WisdomAI
+
+Answers from data you govern
+
+[Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a91fcd93878819188347d20f83fe2ee>)[Contact sales](</contact-sales/>)
+
+[@WisdomAI How did Q3 net revenue track against plans in EMEA?(opens in a new window)](<https://chatgpt.com/?prompt=%40WisdomAI+How+did+Q3+net+revenue+track+against+plans+in+EMEA%3F>)[@WisdomAI Break that down by segment and show the last four quarters.(opens in a new window)](<https://chatgpt.com/?prompt=%40WisdomAI+Break+that+down+by+segment+and+show+the+last+four+quarters.>)[@WisdomAI Which definition of net revenue was used, and what data did it come from?(opens in a new window)](<https://chatgpt.com/?prompt=%40WisdomAI+Which+definition+of+net+revenue+was+used%2C+and+what+data+did+it+come+from%3F>)
+
+Use case: [Data & Research](</business/plugins/?tab=plugins-data-research>)
+
+Made by: Wisdom AI, Inc.
+
+Website: [wisdom.ai(opens in a new window)](<https://www.wisdom.ai/>)
+
+## How it works
+
+WisdomAI is the enterprise data harness inside ChatGPT, for the complex analytical questions where the answer has to be deterministic, traceable, and consistent. Connectors provide access. Catalogs and semantic layers provide definitions. The WisdomAI harness applies both at runtime by selecting the right context for each question, enforcing row- and column-level security for the person asking, optimizing execution for the underlying platform, verifying results, and repairing failed queries. Business context strengthens continuously as WisdomAI learns from documents, query logs, catalogs, semantic layers, dbt, and BI metadata, proactively identifies where it lacked sufficient context, and routes proposed changes through expert review and versioning. Corrections become governed organizational knowledge rather than one-time fixes buried in individual conversations. WisdomAI works across data platforms, sources, and deployment environments, including fully on-premises for regulated data that cannot leave your environment. The harness, the context, and query execution stay behind your firewall; only the answer crosses. Every answer is grounded in governed definitions, enterprise data, and visible sources making it trustworthy enough to run your business on. Use WisdomAI in ChatGPT to: \- Ask questions of governed business data: "How did Q3 net revenue track against plan in EMEA?" \- Follow up in the same line of analysis: "Break that down by segment and show the last 4 quarters" \- Investigate an open-ended question end to end: "We missed plan in EMEA last quarter. What drove it, which segments and accounts moved most, and what should we watch going into Q4?" \- Trace an answer to its definitions and sources: "Which definition of net revenue was used, and what data did it come from?" \- See what's available to you: "What data do I have access to, and which metrics are defined for finance?"
+
+### Explain a revenue plan gap
+
+Break a revenue shortfall into the segments contributing most and identify what deserves closer attention.
+
+### Assess product growth concentration
+
+Compare product sales over time to identify where growth is concentrated and which trends need attention.
+
+### Trace a finance metric
+
+Explain the governed definition and data sources behind net revenue for a finance review.
+
+## Sample prompts
+
+**@WisdomAI** Investigate last quarter's EMEA net revenue against plan. Break the gap down by segment and account, identify the largest contributors, and recommend what to watch next quarter, citing definitions and sources.
+
+**@WisdomAI** Compare product sales over the last four completed quarters. Identify the five biggest contributors to growth, show their regional mix, and recommend which trends deserve closer investigation using available data.
+
+**@WisdomAI** Trace net revenue to its governed definition and source data. Summarize calculation rules, exclusions, and any missing context that a finance team should resolve before using it in a quarterly report.
+
+## Resources
+
+### [Help centerRead more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
+
+### [Plugin supportRead more](<https://docs.wisdom.ai/manage-account/contact-support>)
+
+### [Privacy policyRead more](<https://www.wisdom.ai/privacy-policy>)
+
+## Get started with plugins
+
+Bring your organization’s data and tools into OpenAI products and accelerate what your teams can do.
+
+[Try ChatGPT Business(opens in a new window)](<https://chatgpt.com/team-sign-up>)[Contact sales](</contact-sales/>)
+
+Research
+
+  * [Research Index](</research/index/>)
+  * [Research Overview](</research/>)
+  * [Economic Research](</signals/>)
+
+
+
+Latest Advancements
+
+  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-5.6](</index/gpt-5-6/>)
+  * [GPT-5.5](</index/introducing-gpt-5-5/>)
+  * [GPT-5.4](</index/introducing-gpt-5-4/>)
+
+
+
+Safety
+
+  * [Safety Approach](</safety/>)
+  * [Deployment Safety(opens in a new window)](<https://deploymentsafety.openai.com/>)
+  * [Security & Privacy](</security-and-privacy/>)
+  * [Trust & Transparency](</trust-and-transparency/>)
+
+
+
+Products
+
+  * [ChatGPT(opens in a new window)](<https://chatgpt.com/>)
+  * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
+  * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
+  * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
+  * [Codex](</codex/>)
+  * [Release Notes](</products/release-notes/>)
+
+
+
+API Platform
+
+  * [Overview](</api/>)
+  * [API Log In(opens in a new window)](<https://platform.openai.com/login>)
+  * [Docs(opens in a new window)](<https://developers.openai.com/api/docs>)
+
+
+
+Business
+
+  * [Overview](</business/>)
+  * [Solutions](</solutions/>)
+  * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
+  * [Contact Sales](</contact-sales/>)
+
+
+
+Developers
+
+  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
+  * [Open Models](</open-models/>)
+  * [Docs(opens in a new window)](<https://developers.openai.com/>)
+  * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
+  * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
+
+
+
+Company
+
+  * [About Us](</about/>)
+  * [Our Charter](</charter/>)
+  * [Careers](</careers/>)
+  * [News](</news/>)
+
+
+
+Support
+
+  * [Help Center(opens in a new window)](<https://help.openai.com/>)
+
+
+
+More
+
+  * [Stories](</stories/>)
+  * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
+  * [Livestreams](</live/>)
+  * [Podcast](</podcast/>)
+  * [RSS](<https://openai.com/news/rss.xml>)
+
+
+
+Terms & Policies
+
+  * [Terms of Use](</policies/terms-of-use/>)
+  * [Privacy Policy](</policies/privacy-policy/>)
+  * [Other Policies ](</policies/>)
+
+
+
+[(opens in a new window)](<https://x.com/OpenAI>)[(opens in a new window)](<https://www.youtube.com/OpenAI>)[(opens in a new window)](<https://www.linkedin.com/company/openai>)[(opens in a new window)](<https://github.com/openai>)[(opens in a new window)](<https://www.instagram.com/openai/>)[(opens in a new window)](<https://www.tiktok.com/@openai>)[(opens in a new window)](<https://discord.gg/openai>)
+
+OpenAI © 2015–2026Your privacy choices
+
+EnglishUnited States

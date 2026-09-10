@@ -150,7 +150,7 @@ Often you end up with an image that’s too good not to share.
 
 Now when you share an image, you can also choose to include the prompt that got you there. Someone else can then run with the same idea, bringing in their own images and details to make a version that feels like their own.
 
-For example, try out [_this prompt_ ⁠(opens in a new window)](<https://chatgpt.com/s/p_659f135ed2ec8191a208f4f16a769813>) that’s currently going viral to see what you would’ve looked like in the ’80s!
+For example, try out [_this prompt_ ⁠(opens in a new window)](<https://chatgpt.com/images/prompt/80s-flashback>) that’s currently going viral to see what you would’ve looked like in the ’80s!
 
 ![A smiling man with curly hair wears a teal, navy, and pink windbreaker and a gold chain in an ’80s-style portrait with neon lights and a boombox.](https://images.ctfassets.net/kftzwdyauwt9/1oUEzmNEwhlktfQMqWLwTO/cde41dc57991caa0d6b22b35b2d8c70c/80s-headshot.png?w=3840&q=90&fm=webp)
 
@@ -225,15 +225,15 @@ OpenAI
 
 [View all](</news/>)
 
+![GPT-6 Astra business blog — art card](https://images.ctfassets.net/kftzwdyauwt9/4DiwuhcC2lGuzS8klQkxXh/f1ac95e9bed5621a5b29f054f75db40b/Business_blog_1x1.png?w=3840&q=90&fm=webp)
+
+[GPT-6 Astra: The next generation in intelligence for workProductSep 9, 2026](</index/gpt-6-astra-next-generation-work/>)
+
 [GPT-6 Astra: A new generation of intelligenceResearchSep 3, 2026](</index/gpt-6-astra/>)
 
 ![Healthcare hero and SEO — original blue icon on white, smaller icon](https://images.ctfassets.net/kftzwdyauwt9/7pfIDODSObT8A9BTlfXyVc/43262863eeb33d7f4f8e191fe4783cab/healthcare-exact-smaller-icon-hero-2x.png?w=3840&q=90&fm=webp)
 
 [ChatGPT can now connect to healthcare sourcesProductSep 1, 2026](</index/chatgpt-connects-health-records-and-healthcare-sources/>)
-
-![Expanding access to AI > Cover image](https://images.ctfassets.net/kftzwdyauwt9/x3ij3VqMj60KcdHucQvNc/414ce018aafcf0916557e004ee112d71/expanding-access-to-ai--art-card-purple-v001.png?w=3840&q=90&fm=webp)
-
-[A milestone in expanding access to AIProductAug 31, 2026](</index/expanding-access-to-ai-with-chatgpt-ads/>)
 
 Research
 

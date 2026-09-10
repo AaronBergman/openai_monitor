@@ -36,7 +36,7 @@ Search domain availability.
 
 ![@Spaceship Check next domains: mycompany.com, mysite.io, service.web, sales12345.com](https://files.openai.com/content?id=file_00000000da1871f7add9a1b3bf314670&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=1&sig=a88d5949ef10ef27ac2bd4224c6751a4e9101294675778fd32fa3d12316106a2)
 
-Use case: [Developer Tools](</business/plugins/?tab=apps-developer-tools>) and [Go-to-Market](</business/plugins/?tab=apps-go-to-market>)
+Use case: [Engineering & IT](</business/plugins/?tab=plugins-engineering-it>)
 
 Made by: Spaceship, Inc
 
@@ -96,6 +96,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)

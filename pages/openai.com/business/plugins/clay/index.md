@@ -36,7 +36,7 @@ Find and engage prospects.
 
 ![@Clay Find GTM Leaders at Conclusive AI](https://files.openai.com/content?id=file_00000000d37c71f69d6199c142276a2e&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=1&sig=bfb84f2c80e50f7bf3bd288515a059bbcd6fde8c16fc1e160f143487d0df82f6)
 
-Use case: [Go-to-Market](</business/plugins/?tab=apps-go-to-market>)
+Use case: [Productivity](</business/plugins/?tab=plugins-productivity>), [Sales & Commerce](</business/plugins/?tab=plugins-sales-commerce>), and [Marketing](</business/plugins/?tab=plugins-marketing>)
 
 Made by: Clay Inc
 
@@ -70,7 +70,7 @@ Draft personalized outreach emails
 
 Research company priorities
 
-**@Clay** Find companies hiring for [role] in [city] and suggest a partner outreach angle tailored to each company.
+**@Clay** For the contacts in this search, return available work emails, company headcount growth, and investors in one table for sales and operations.
 
 ## Resources
 
@@ -96,6 +96,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)

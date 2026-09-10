@@ -34,7 +34,7 @@ Automate finance tasks.
 
 [@Ramp Show me what needs my attention in Ramp(opens in a new window)](<https://chatgpt.com/?prompt=%40Ramp+Show+me+what+needs+my+attention+in+Ramp>)
 
-Use case: [Finance](</business/plugins/?tab=apps-finance>)
+Use case: [Finance](</business/plugins/?tab=plugins-finance>)
 
 Made by: Ramp
 
@@ -94,6 +94,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)

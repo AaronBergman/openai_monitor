@@ -44,20 +44,6 @@ How prompt injections can change AI behavior in everyday tasks.
 
 Manipulated recommendationsUnauthorized data sharing
 
-![A flowchart illustrating a prompt injection attack in which an attacker manipulates data through a webpage or form, resulting in a security warning icon on a web browser window.](https://images.ctfassets.net/kftzwdyauwt9/zWjus5XVKa8SIT72kFtsS/3ea52161740749d5c3d7942567ac0051/Biased_recommendations_LightMode.png?w=3840&q=90&fm=webp)
-
-  * **Your request  
-** You ask an AI to research apartments with some given criteria. 
-
-  * **The attack  
-** The attacker hides a prompt injection in an apartment listing, tricking the AI into recommending that listing regardless of your preferences. 
-
-  * **Potential result  
-** The AI may incorrectly recommend an apartment that isn’t the best match for your needs.
-
-
-
-
 ## Our approach to protecting users
 
 Defending against prompt injection is a challenge across the AI industry and a core focus at OpenAI. While we expect adversaries to continue developing such attacks, we’re building layered defenses designed to carry out the user’s intended task even when someone is trying to mislead them. 
@@ -134,6 +120,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
@@ -228,3 +215,17 @@ Terms & Policies
 OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
+
+![A flowchart illustrating a prompt injection attack in which an attacker manipulates data through a webpage or form, resulting in a security warning icon on a web browser window.](https://images.ctfassets.net/kftzwdyauwt9/zWjus5XVKa8SIT72kFtsS/3ea52161740749d5c3d7942567ac0051/Biased_recommendations_LightMode.png?w=3840&q=90&fm=webp)
+
+  * **Your request  
+** You ask an AI to research apartments with some given criteria. 
+
+  * **The attack  
+** The attacker hides a prompt injection in an apartment listing, tricking the AI into recommending that listing regardless of your preferences. 
+
+  * **Potential result  
+** The AI may incorrectly recommend an apartment that isn’t the best match for your needs.
+
+
+

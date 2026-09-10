@@ -45,7 +45,7 @@ This recapitalization provides OpenAI Group with the structure to raise capital 
 
 **Our Board**
 
-OpenAI Foundation is governed by its board of directors, which is comprised of independent directors Bret Taylor (Chair), Adam D’Angelo, Dr. Sue Desmond-Hellmann, Dr. Zico Kolter, Retired U.S. Army General Paul M. Nakasone, Adebayo Ogunlesi, and Nicole Seligman—as well as CEO Sam Altman.
+OpenAI Foundation is governed by its board of directors, which is comprised of independent directors Bret Taylor (Chair), Adam D’Angelo, **Paul Christiano,** Dr. Sue Desmond-Hellmann, Dr. Zico Kolter, Retired U.S. Army General Paul M. Nakasone, Adebayo Ogunlesi, Nicole Seligman, **David Vélez, and Robin Vince** —as well as CEO Sam Altman.
 
 Through special voting and governance rights held solely by the OpenAI Foundation, the OpenAI Foundation appoints all members of the board of directors of OpenAI Group and can replace directors at any time.
 
@@ -90,6 +90,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)

@@ -44,7 +44,7 @@ Design, combine, and edit
 
 ![@Adobe find a template for a promotional flyer](https://chatgpt.com/backend-api/estuary/content?id=file_000000006a2c71f7802eabc74839ce1c&cp=pi&ma=30326400&ts=0&p=pi&cid=8&sig=675ea7eca52babb54bfbae76bea60bdf63daf64963149642089831708c742b5d&v=0)
 
-Use case: [Design](</business/plugins/?tab=apps-design>)
+Use case: [Design & Creative](</business/plugins/?tab=plugins-design-creative>)
 
 Made by: Adobe Inc
 
@@ -70,15 +70,15 @@ Handle edits yourself and pick up where you left off, with access to your assets
 
 Retouch and edit photos in bulk
 
-**@Adobe** Retouch this set of photos by balancing the lighting and color, removing the backgrounds, and cropping each one to a 1:1 format.
+**@Adobe** Create a flyer for a local yoga studio using a template, customize the text and colors, and convert it into a polished PDF.
 
 Refine videos for any platform
 
-**@Adobe** Turn this video into a quick cut featuring the best moments, then resize it for YouTube Shorts and Instagram Reels.
+**@Adobe** Retouch this set of photos by balancing the lighting and color, removing the backgrounds, and cropping each one to a 1:1 format.
 
 Design from templates and create PDFs
 
-**@Adobe** Create a flyer for a local yoga studio using a template, customize the text and colors, and convert it into a polished PDF.
+**@Adobe** Turn this video into a quick cut featuring the best moments, then resize it for YouTube Shorts and Instagram Reels.
 
 ## Resources
 
@@ -104,6 +104,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)

@@ -32,9 +32,9 @@ Look up events and availability.
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_1p_fd0f4f41caa88191a9456514bbffa06d>)[Contact sales](</contact-sales/>)
 
-[@Outlook Calendar Summarize my day, compare availability, explain Outlook status, and draft the right event update(opens in a new window)](<https://chatgpt.com/?prompt=%40Outlook+Calendar+Summarize+my+day%2C+compare+availability%2C+explain+Outlook+status%2C+and+draft+the+right+event+update>)
+[@Outlook Calendar For my next 3 meetings today, generate short prep notes: attendees, likely goals, and questions I should ask(opens in a new window)](<https://chatgpt.com/?prompt=%40Outlook+Calendar+For+my+next+3+meetings+today%2C+generate+short+prep+notes%3A+attendees%2C+likely+goals%2C+and+questions+I+should+ask>)[@Outlook Calendar Build a weekly plan: group my meetings by theme (customer, internal, hiring, ops) and suggest slots for focus time(opens in a new window)](<https://chatgpt.com/?prompt=%40Outlook+Calendar+Build+a+weekly+plan%3A+group+my+meetings+by+theme+%28customer%2C+internal%2C+hiring%2C+ops%29+and+suggest+slots+for+focus+time>)[@Outlook Calendar Find this week's calendar conflicts. Suggest meetings to delegate, decline, or shorten, and draft a message for each(opens in a new window)](<https://chatgpt.com/?prompt=%40Outlook+Calendar+Find+this+week%27s+calendar+conflicts.+Suggest+meetings+to+delegate%2C+decline%2C+or+shorten%2C+and+draft+a+message+for+each>)
 
-Use case: [Collaboration](</business/plugins/?tab=apps-collaboration>)
+Use case: [Productivity](</business/plugins/?tab=plugins-productivity>)
 
 Made by: OpenAI
 
@@ -64,11 +64,11 @@ Create prep notes for meetings
 
 Create plan with next steps included
 
-**@Outlook Calendar** Create a weekly planning view that groups my meetings by theme (customer, internal, hiring, ops) and suggest where to add focus time.
+**@Outlook Calendar** Review my calendar for conflicts this week and recommend which meetings to delegate, decline, or shorten, with a suggested message each.
 
 Review calendar for conflicts
 
-**@Outlook Calendar** Review my calendar for conflicts this week and recommend which meetings to delegate, decline, or shorten, with a suggested message each.
+**@Outlook Calendar** Use the event details and related email threads for my latest [project] check-in to summarize documented decisions, open questions, and next steps with owners.
 
 ## Resources
 
@@ -94,6 +94,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)

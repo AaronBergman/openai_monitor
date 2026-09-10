@@ -32,15 +32,13 @@ Manage work in monday.com.
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_690aabb71bf481918b8d5b614ed3fd4c>)[Contact sales](</contact-sales/>)
 
-@Monday.com what's the marketing campaign status?
+@monday.com what can this connector do?
 
-![@Monday.com what's the marketing campaign status?](https://files.openai.com/content?id=file_00000000c00c71f6a43d88395f3d783d&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=a8b4bc9f32058e0013c5140eac4d93c735880cf9fe67c3155b9f9acb8d3aab27)
+![@monday.com what can this connector do?](https://files.openai.com/content?id=file_00000000c00c71f6a43d88395f3d783d&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=a8b4bc9f32058e0013c5140eac4d93c735880cf9fe67c3155b9f9acb8d3aab27)
 
-@Monday.com brief me on the onboarding revamp
+![Monday.com](https://files.openai.com/content?id=file_00000000070871f68c7e45aabf4cc165&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=1&sig=baacd5067fa14fc94edb3e30c3857bd8fee0de248ccd26f2e586d46546a3f18c)
 
-![@Monday.com brief me on the onboarding revamp](https://files.openai.com/content?id=file_00000000070871f68c7e45aabf4cc165&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=1&sig=baacd5067fa14fc94edb3e30c3857bd8fee0de248ccd26f2e586d46546a3f18c)
-
-Use case: [Project Management](</business/plugins/?tab=apps-project-management>)
+Use case: [Productivity](</business/plugins/?tab=plugins-productivity>)
 
 Made by: Monday.com
 
@@ -74,7 +72,7 @@ Update status update with next steps
 
 Suggest in-product automations
 
-**@Monday.com** Suggest two useful automations for this board based on how tasks move today and explain why they help.
+**@Monday.com** what's the marketing campaign status?
 
 ## Resources
 
@@ -100,6 +98,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)

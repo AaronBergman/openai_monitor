@@ -34,7 +34,7 @@ Create and adapt marketing assets faster.
 
 [@Creative Production Start me on a creative production workflow(opens in a new window)](<https://chatgpt.com/?prompt=%40Creative+Production+Start+me+on+a+creative+production+workflow>)[@Creative Production Generate concept images for this visual brief(opens in a new window)](<https://chatgpt.com/?prompt=%40Creative+Production+Generate+concept+images+for+this+visual+brief>)[@Creative Production Create product placements from this image(opens in a new window)](<https://chatgpt.com/?prompt=%40Creative+Production+Create+product+placements+from+this+image>)
 
-Use case: [Design](</business/plugins/?tab=apps-design>)
+Use case: [Design & Creative](</business/plugins/?tab=plugins-design-creative>)
 
 Made by: OpenAI
 
@@ -94,6 +94,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)

@@ -34,7 +34,7 @@ Search across your enterprise content sources.
 
 [@Coveo Use Coveo to help with this task(opens in a new window)](<https://chatgpt.com/?prompt=%40Coveo+Use+Coveo+to+help+with+this+task>)
 
-Use case: [Data](</business/plugins/?tab=apps-data>)
+Use case: [Productivity](</business/plugins/?tab=plugins-productivity>)
 
 Made by: Coveo
 
@@ -94,6 +94,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)

@@ -34,7 +34,7 @@ Create flyers, posts, and graphics quickly.
 
 [@Adobe Express I want to create an invitation for my son's birthday party.(opens in a new window)](<https://chatgpt.com/?prompt=%40Adobe+Express+I+want+to+create+an+invitation+for+my+son%27s+birthday+party.>)[@Adobe Express fill details Emma Smith's Zoo party on her 6th birthday at 45 Maple Drive(opens in a new window)](<https://chatgpt.com/?prompt=%40Adobe+Express+fill+details+Emma+Smith%27s+Zoo+party+on+her+6th+birthday+at+45+Maple+Drive>)[@Adobe Express Replace dinosaur with a baby croc(opens in a new window)](<https://chatgpt.com/?prompt=%40Adobe+Express+Replace+dinosaur+with+a+baby+croc>)
 
-Use case: [Design](</business/plugins/?tab=apps-design>)
+Use case: [Design & Creative](</business/plugins/?tab=plugins-design-creative>)
 
 Made by: Adobe
 
@@ -64,11 +64,11 @@ Create social ads from brief
 
 Build internal templates
 
-**@Adobe Express** Build a simple template pack for internal comms: announcement slide, email header, and a square post.
+**@Adobe Express** Create holiday themed email header graphics that still match our brand colors and feel premium, not cheesy.
 
 Design themed email assets
 
-**@Adobe Express** Create holiday themed email header graphics that still match our brand colors and feel premium, not cheesy.
+**@Adobe Express** Build a simple template pack for internal comms: announcement slide, email header, and a square post.
 
 ## Resources
 
@@ -94,6 +94,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)

@@ -28,13 +28,13 @@ OpenAI[View all plugins](</business/plugins/>)
 
 # HoneyBook
 
-Manage clients and invoices
+Book clients, get paid
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a7c329c161c8191a8df623446a34000>)[Contact sales](</contact-sales/>)
 
-[@HoneyBook What are my active projects and their stages in the pipeline(opens in a new window)](<https://chatgpt.com/?prompt=%40HoneyBook+What+are+my+active+projects+and+their+stages+in+the+pipeline>)[@HoneyBook Do I have any open overdue payments?(opens in a new window)](<https://chatgpt.com/?prompt=%40HoneyBook+Do+I+have+any+open+overdue+payments%3F>)[@HoneyBook Add a new contact for a potential client I just met(opens in a new window)](<https://chatgpt.com/?prompt=%40HoneyBook+Add+a+new+contact+for+a+potential+client+I+just+met>)
+[@HoneyBook Which of my leads have gone quiet?(opens in a new window)](<https://chatgpt.com/?prompt=%40HoneyBook+Which+of+my+leads+have+gone+quiet%3F>)[@HoneyBook Who still owes me money?(opens in a new window)](<https://chatgpt.com/?prompt=%40HoneyBook+Who+still+owes+me+money%3F>)[@HoneyBook Add a new contact for a client I just met(opens in a new window)](<https://chatgpt.com/?prompt=%40HoneyBook+Add+a+new+contact+for+a+client+I+just+met>)
 
-Use case: [Small Business](</business/plugins/?tab=apps-small-business>)
+Use case: [Productivity](</business/plugins/?tab=plugins-productivity>) and [Small Business](</business/plugins/?tab=plugins-small-business>)
 
 Made by: HoneyBook, Inc
 
@@ -42,33 +42,33 @@ Website: [honeybook.com(opens in a new window)](<https://www.honeybook.com/>)
 
 ## How it works
 
-Connect your HoneyBook account to look up clients, check on projects, and handle invoices without switching tabs. Ask for a client's contact details, see which projects are active, pull up an unpaid invoice, find a file you sent last month, or check the last message in a thread. Useful for catching up before a client call, chasing down what's overdue, or getting a quick read on your pipeline. Requires a HoneyBook account.
+HoneyBook is where independent businesses and lean teams run their client work: inquiries, proposals, contracts, invoices, payments and the messages in between. Connect your account and work through a whole job in one conversation. Ask which leads are worth chasing and get a ranked answer from your own bookings. Have the proposal built from your saved template. Review it before it goes anywhere. Later, ask who still owes you money, and raise a payment request for whoever does. You approve what it can reach before anything runs, resource by resource, and nothing reaches a client until you send it. Each request runs in an isolated environment, and your credentials are never shared with the model. Built for photographers, event planners, venues, designers and consultants. Requires a HoneyBook account.
 
-### Review your project pipeline
+### Prioritize quiet leads
 
-Look up active client projects and their stages to see where work stands across your business.
+Find stalled leads and decide which follow-ups deserve your attention.
 
-### Find overdue client payments
+### Prepare a client proposal
 
-Identify unpaid invoices and overdue payments to focus your billing follow-up.
+Build a proposal from your saved template and the client's project details.
 
-### Prepare for client conversations
+### Review overdue balances
 
-Review client details, shared files, and recent messages before a call without switching between records.
+See which clients owe money and where to focus collections.
 
 ## Sample prompts
 
 Track active projects
 
-List my active projects in a table with the client name and current pipeline stage.
+**@HoneyBook** Find leads I haven't contacted in two weeks and rank the five most worth following up with, using their project details and client history.
 
 Review overdue invoices
 
-Show my overdue client payments with the client, invoice, amount, and due date.
+**@HoneyBook** Prepare a proposal for the client I name using my saved template and their project details. Flag missing scope or pricing information and keep it unsent for my review.
 
 Prepare for a client call
 
-Prepare a briefing for my next call with Acme Corp using its contact details, active projects, most recent message, and files I sent last month.
+**@HoneyBook** List overdue client invoices with balances and due dates. Rank who to follow up with first and explain the priority using amount owed and age of the debt.
 
 ## Resources
 

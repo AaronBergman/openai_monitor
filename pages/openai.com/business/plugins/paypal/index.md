@@ -36,7 +36,7 @@ Payments and business tools
 
 ![@PayPal Create a $1500 PayPal invoice for Acme Corp for web development services.](https://files.openai.com/content?id=file_000000007fa871f78851dac4c1d9d3e8&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=f18f6f36d6cb3f6e45df43e363854a9dd795f02f104c8979f9ff80281acbaa28)
 
-Use case: [Finance](</business/plugins/?tab=apps-finance>) and [Small Business](</business/plugins/?tab=apps-small-business>)
+Use case: [Finance](</business/plugins/?tab=plugins-finance>) and [Small Business](</business/plugins/?tab=plugins-small-business>)
 
 Made by: PayPal
 
@@ -46,31 +46,31 @@ Website: [paypal.com(opens in a new window)](<https://www.paypal.com>)
 
 Manage your business and develop your payments integration.
 
-### Create client invoices
+### Create a client invoice
 
-Turn a description of services and charges into a PayPal invoice for a business customer.
+Prepare an invoice for a web development engagement.
 
-### Track invoice status
+### Prioritize unpaid invoices
 
-List invoices by status and review individual invoice details to keep track of customer billing.
+Rank overdue invoices so you can focus your collection efforts.
 
-### Follow up on unpaid invoices
+### Review open payment disputes
 
-Send a reminder for an existing invoice to follow up with a customer about payment.
+Turn your open disputes into a prioritized review list.
 
 ## Sample prompts
 
 Create an invoice
 
-Create a USD 1,500 PayPal invoice for Acme Corp at billing@acme.example for one web development project, and show the invoice details before sending.
+**@PayPal** Create a $1500 PayPal invoice for Acme Corp for web development services.
 
 Find unpaid invoices
 
-List my sent invoices that are still unpaid, with invoice IDs, customers, and amounts.
+**@PayPal** Review my unpaid invoices, identify which are overdue, and rank them by balance and days late. Summarize who needs a follow-up first.
 
 Send a payment reminder
 
-Send a payment reminder for invoice [invoice ID] and confirm whether it was sent.
+**@PayPal** List my open payment disputes, summarize each claim and any available response deadline, and prioritize the cases that need review first.
 
 ## Resources
 

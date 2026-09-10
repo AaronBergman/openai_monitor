@@ -40,7 +40,7 @@ Add structured data to ChatGPT.
 
 ![@Airtable which roadmap initiatives should I discuss with the enterprise sales team today?](https://files.openai.com/content?id=file_000000004eec71f68b402d889ed0928c&cdn=1&cp=pi&ma=32659200&ts=0&p=pi&cid=1&sig=e57e6ad716a38de19764dc591bcc1ef59236d25d6ee49395bb777e0ed2000dfc)
 
-Use case: [Data](</business/plugins/?tab=apps-data>)
+Use case: [Productivity](</business/plugins/?tab=plugins-productivity>) and [Data & Research](</business/plugins/?tab=plugins-data-research>)
 
 Made by: Airtable
 
@@ -70,11 +70,11 @@ Identify key risks and mitigation actions
 
 Summarize the roadmap for executive stakeholders
 
-**@Airtable** Summarize our [base] into a one page exec brief with milestones and dependencies.
+**@Airtable** Turn this messy list of customer requests into structured records with category impact and suggested priority.
 
 Standardize unstructured data
 
-**@Airtable** Turn this messy list of customer requests into structured records with category impact and suggested priority.
+**@Airtable** Summarize our [base] into a one page exec brief with milestones and dependencies.
 
 ## Resources
 
@@ -100,6 +100,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)

@@ -32,9 +32,9 @@ Explore BigQuery data and generate SQL from natural language.
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_1p_b1cefad35a80819184ba7ed35d601d34>)[Contact sales](</contact-sales/>)
 
-[@BigQuery Inspect BigQuery projects, datasets, tables, jobs, routines, models, row access policies, IAM, and query results(opens in a new window)](<https://chatgpt.com/?prompt=%40BigQuery+Inspect+BigQuery+projects%2C+datasets%2C+tables%2C+jobs%2C+routines%2C+models%2C+row+access+policies%2C+IAM%2C+and+query+results>)
+[@BigQuery Find the best dataset and tables for answering this question: [question]. Explain the fields and joins you would use(opens in a new window)](<https://chatgpt.com/?prompt=%40BigQuery+Find+the+best+dataset+and+tables+for+answering+this+question%3A+%5Bquestion%5D.+Explain+the+fields+and+joins+you+would+use>)[@BigQuery Write SQL to calculate [metric] by [dimension] for the last 90 days. Explain the logic and any assumptions(opens in a new window)](<https://chatgpt.com/?prompt=%40BigQuery+Write+SQL+to+calculate+%5Bmetric%5D+by+%5Bdimension%5D+for+the+last+90+days.+Explain+the+logic+and+any+assumptions>)[@BigQuery Summarize these query results for an executive update, highlighting key changes, anomalies, and follow-up analyses(opens in a new window)](<https://chatgpt.com/?prompt=%40BigQuery+Summarize+these+query+results+for+an+executive+update%2C+highlighting+key+changes%2C+anomalies%2C+and+follow-up+analyses>)
 
-Use case: [Data](</business/plugins/?tab=apps-data>)
+Use case: [Data & Research](</business/plugins/?tab=plugins-data-research>)
 
 Made by: OpenAI
 
@@ -94,6 +94,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)

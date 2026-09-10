@@ -32,7 +32,7 @@ Turn your ideas into real apps.
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6934801c799081918131791660f02890>)[Contact sales](</contact-sales/>)
 
-Use case: [Developer Tools](</business/plugins/?tab=apps-developer-tools>)
+Use case: [Engineering & IT](</business/plugins/?tab=plugins-engineering-it>)
 
 Made by: Replit
 
@@ -62,11 +62,11 @@ Create app prototype with next steps
 
 Create dashboard with key details
 
-**@Replit** Add a dashboard with charts and filters to the app and make sure the UI updates smoothly.
+**@Replit** Show me a live version of our dental office's appointment scheduler so I can try booking an appointment and switching between the admin and receptionist views.
 
 Fix build errors from logs
 
-**@Replit** The build is failing. Read the logs and fix the minimal set of issues then explain what changed.
+**@Replit** Add a dashboard with charts and filters to the app and make sure the UI updates smoothly.
 
 ## Resources
 
@@ -92,6 +92,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)

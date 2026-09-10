@@ -32,9 +32,9 @@ Search and reference files from your Drive.
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_1p_ab21a553bfbc81919ea8fd1858e3ffa7>)[Contact sales](</contact-sales/>)
 
-[@Google Drive Find the right Drive file, then summarize a Doc, update a Sheet, or edit a Slides deck(opens in a new window)](<https://chatgpt.com/?prompt=%40Google+Drive+Find+the+right+Drive+file%2C+then+summarize+a+Doc%2C+update+a+Sheet%2C+or+edit+a+Slides+deck>)
+[@Google Drive Search my Drive for the latest Q4 board deck and write a 10-bullet executive recap with the 3 biggest risks and 3 next actions(opens in a new window)](<https://chatgpt.com/?prompt=%40Google+Drive+Search+my+Drive+for+the+latest+Q4+board+deck+and+write+a+10-bullet+executive+recap+with+the+3+biggest+risks+and+3+next+actions>)[@Google Drive Rewrite this product one-pager using our brand guidelines doc: match the voice and format while keeping facts intact(opens in a new window)](<https://chatgpt.com/?prompt=%40Google+Drive+Rewrite+this+product+one-pager+using+our+brand+guidelines+doc%3A+match+the+voice+and+format+while+keeping+facts+intact>)[@Google Drive From [folder], pull key deliverables, timeline, and open questions, then draft a client-ready status update(opens in a new window)](<https://chatgpt.com/?prompt=%40Google+Drive+From+%5Bfolder%5D%2C+pull+key+deliverables%2C+timeline%2C+and+open+questions%2C+then+draft+a+client-ready+status+update>)
 
-Use case: [File Sharing](</business/plugins/?tab=apps-file-sharing>)
+Use case: [Productivity](</business/plugins/?tab=plugins-productivity>) and [Data & Research](</business/plugins/?tab=plugins-data-research>)
 
 Made by: OpenAI
 
@@ -64,11 +64,11 @@ Create executive summary
 
 Rewrite content to match brand voice
 
-**@Google Drive** Use our brand guidelines doc and rewrite this product one-pager to match the approved voice and formatting while keeping facts intact.
+**@Google Drive** From [folder], pull key deliverables, timeline, and open questions, then draft a client-ready status update.
 
 Summarize project status for quick alignment
 
-**@Google Drive** From [folder], pull key deliverables, timeline, and open questions, then draft a client-ready status update.
+**@Google Drive** Use our brand guidelines doc and rewrite this product one-pager to match the approved voice and formatting while keeping facts intact.
 
 ## Resources
 
@@ -94,6 +94,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)

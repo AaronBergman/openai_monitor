@@ -32,9 +32,9 @@ Search and reference your Notion pages.
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69c18c28f1188191bf5b8445c4ab0a2e>)[Contact sales](</contact-sales/>)
 
-[@Notion Search Notion workspace content, update pages, or turn specs, notes, and meeting context into structured outputs(opens in a new window)](<https://chatgpt.com/?prompt=%40Notion+Search+Notion+workspace+content%2C+update+pages%2C+or+turn+specs%2C+notes%2C+and+meeting+context+into+structured+outputs>)
+[@Notion Find the latest decision on pricing for [project] and summarize it with the supporting page links(opens in a new window)](<https://chatgpt.com/?prompt=%40Notion+Find+the+latest+decision+on+pricing+for+%5Bproject%5D+and+summarize+it+with+the+supporting+page+links>)[@Notion Create a roadmap database with properties for owner, status, quarter, and risk then populate it from this list of initiatives(opens in a new window)](<https://chatgpt.com/?prompt=%40Notion+Create+a+roadmap+database+with+properties+for+owner%2C+status%2C+quarter%2C+and+risk+then+populate+it+from+this+list+of+initiatives>)[@Notion Audit our top product docs for outdated info and give me a punch list of pages that should be updated first(opens in a new window)](<https://chatgpt.com/?prompt=%40Notion+Audit+our+top+product+docs+for+outdated+info+and+give+me+a+punch+list+of+pages+that+should+be+updated+first>)
 
-Use case: [Project Management](</business/plugins/?tab=apps-project-management>)
+Use case: [Productivity](</business/plugins/?tab=plugins-productivity>)
 
 Made by: Notion
 
@@ -64,11 +64,11 @@ Summarize recent project decisions
 
 Identify key risks and mitigation actions
 
-**@Notion** Create a roadmap database with properties for owner, status, quarter, and risk then populate it from this list of initiatives.
+**@Notion** Audit our top product docs for outdated info and give me a punch list of pages that should be updated first.
 
 Audit documentation and plan updates
 
-**@Notion** Audit our top product docs for outdated info and give me a punch list of pages that should be updated first.
+**@Notion** Create a roadmap database with properties for owner, status, quarter, and risk then populate it from this list of initiatives.
 
 ## Resources
 
@@ -94,6 +94,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)

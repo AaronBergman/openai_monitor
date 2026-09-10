@@ -44,33 +44,41 @@ Switch cards to show Media
 
 Switch cards to hide Media
 
-![A cyclist pushes a fat-tire bike across a wide snowy landscape.](https://images.ctfassets.net/kftzwdyauwt9/2tgWg3FVo92ztow3wQjynu/6803dbad048ec780c8f0c7c46347ebe9/OpenAI_Falcon_1x1.jpg?w=3840&q=90&fm=webp)
+![Bradford and Bryan Manning use their phones while standing in a city park.](https://images.ctfassets.net/kftzwdyauwt9/7bhGkj1QoCeQpqYhTldQLx/b84d760a2f127d930cc2dec9f3d59e17/tbb-retouched-art-card-1260x1260.png?w=3840&q=90&fm=webp)
 
-[Training to cycle across Antarctica with ChatGPTJun 11, 2026](</index/cycling-across-antarctica/>)
+[Supporting the blind community with ChatGPTSep 9, 2026](</index/two-blind-brothers/>)
 
-![A cyclist pushes a fat-tire bike across a wide snowy landscape.](https://images.ctfassets.net/kftzwdyauwt9/2tgWg3FVo92ztow3wQjynu/6803dbad048ec780c8f0c7c46347ebe9/OpenAI_Falcon_1x1.jpg?w=3840&q=90&fm=webp)
+![Bradford and Bryan Manning use their phones while standing in a city park.](https://images.ctfassets.net/kftzwdyauwt9/7bhGkj1QoCeQpqYhTldQLx/b84d760a2f127d930cc2dec9f3d59e17/tbb-retouched-art-card-1260x1260.png?w=3840&q=90&fm=webp)
 
-[Training to cycle across Antarctica with ChatGPTJun 11, 2026](</index/cycling-across-antarctica/>)
+[Supporting the blind community with ChatGPTSep 9, 2026](</index/two-blind-brothers/>)
+
+![Dr. César de la Fuente in profile against a colorful lab display.](https://images.ctfassets.net/kftzwdyauwt9/7gq9TtEoObNfTco2uH48q8/3b7813b2b5c5bce4a22a45a7220ac3f7/antibiotic-hero-1x1-preview.png?w=3840&q=90&fm=webp)
+
+[Accelerating antibiotic discovery with ChatGPTSep 9, 2026](</index/accelerating-antibiotic-discovery/>)
+
+![An ATV Big Air Tour rider performs an airborne stunt against a cloudy sky.](https://images.ctfassets.net/kftzwdyauwt9/6nM6RNbnqtlPZZQDx71iMm/46843eaee86998217108580d428ea457/atv-hero-square-x480.png?w=3840&q=90&fm=webp)
+
+[Using ChatGPT to grow ATV Big Air TourSep 9, 2026](</index/growing-atv-big-air-tour/>)
+
+![Bradford and Bryan Manning use their phones while standing in a city park.](https://images.ctfassets.net/kftzwdyauwt9/7bhGkj1QoCeQpqYhTldQLx/b84d760a2f127d930cc2dec9f3d59e17/tbb-retouched-art-card-1260x1260.png?w=3840&q=90&fm=webp)
+
+[Supporting the blind community with ChatGPTSep 9, 2026](</index/two-blind-brothers/>)
+
+![Dr. César de la Fuente in profile against a colorful lab display.](https://images.ctfassets.net/kftzwdyauwt9/7gq9TtEoObNfTco2uH48q8/3b7813b2b5c5bce4a22a45a7220ac3f7/antibiotic-hero-1x1-preview.png?w=3840&q=90&fm=webp)
+
+[Accelerating antibiotic discovery with ChatGPTSep 9, 2026](</index/accelerating-antibiotic-discovery/>)
+
+![An ATV Big Air Tour rider performs an airborne stunt against a cloudy sky.](https://images.ctfassets.net/kftzwdyauwt9/6nM6RNbnqtlPZZQDx71iMm/46843eaee86998217108580d428ea457/atv-hero-square-x480.png?w=3840&q=90&fm=webp)
+
+[Using ChatGPT to grow ATV Big Air TourSep 9, 2026](</index/growing-atv-big-air-tour/>)
 
 ![CK Chan stands inside a large radio telescope dish.](https://images.ctfassets.net/kftzwdyauwt9/5Owa7Jyi5pMx1lDrvN1B2C/3036661e68edf2e77d2d5d2454653740/2026_04_Gardi_ProjectOwl_KittPeak_Day1_02144.jpg?w=3840&q=90&fm=webp)
 
 [Creating new simulations of black holes with CodexJun 11, 2026](</index/creating-new-simulations-black-holes/>)
 
-![OpenAI-branded Chip Ganassi Racing car on a track with large R&D text over a blurred grandstand.](https://images.ctfassets.net/kftzwdyauwt9/2sMgyKsbMrlLNgBeM8SYAh/83460e94830cfb5865cddb57e6fe837f/OpenAI_Ganassi_1x1.jpg?w=3840&q=90&fm=webp)
-
-[Chip Ganassi Racing × OpenAIAPIMay 28, 2026](</index/chip-ganassi-racing/>)
-
-![Two people stand beside a large red combine harvester in an open, harvested field under a wide blue sky.](https://images.ctfassets.net/kftzwdyauwt9/6yOmkiVrFE8fk9ciEdFLyt/6cec40169a9c3d33c82b7a2935050d9e/SHARP_1x1_COMBINE.png?w=3840&q=90&fm=webp)
-
-[Small businesses are getting more done with ChatGPTChatGPTFeb 4, 2026](</index/small-business-stories/>)
-
 ![A cyclist pushes a fat-tire bike across a wide snowy landscape.](https://images.ctfassets.net/kftzwdyauwt9/2tgWg3FVo92ztow3wQjynu/6803dbad048ec780c8f0c7c46347ebe9/OpenAI_Falcon_1x1.jpg?w=3840&q=90&fm=webp)
 
 [Training to cycle across Antarctica with ChatGPTJun 11, 2026](</index/cycling-across-antarctica/>)
-
-![CK Chan stands inside a large radio telescope dish.](https://images.ctfassets.net/kftzwdyauwt9/5Owa7Jyi5pMx1lDrvN1B2C/3036661e68edf2e77d2d5d2454653740/2026_04_Gardi_ProjectOwl_KittPeak_Day1_02144.jpg?w=3840&q=90&fm=webp)
-
-[Creating new simulations of black holes with CodexJun 11, 2026](</index/creating-new-simulations-black-holes/>)
 
 ![OpenAI-branded Chip Ganassi Racing car on a track with large R&D text over a blurred grandstand.](https://images.ctfassets.net/kftzwdyauwt9/2sMgyKsbMrlLNgBeM8SYAh/83460e94830cfb5865cddb57e6fe837f/OpenAI_Ganassi_1x1.jpg?w=3840&q=90&fm=webp)
 
@@ -111,22 +119,6 @@ Switch cards to hide Media
 ![Fishing for first timers > Cover](https://images.ctfassets.net/kftzwdyauwt9/6cl3M6bIMNc5gIRSsJCQT4/92a5e4927ab415cee7a364320384a94d/Fishing_for_first_timers.jpg?w=3840&q=90&fm=webp)
 
 [Catching halibut with ChatGPTChatGPTFeb 4, 2025](</index/fishing-for-first-timers/>)
-
-![Ten tiny canvases > Media > Cover](https://images.ctfassets.net/kftzwdyauwt9/16VYfNV8RPoKM0nqEG4OrP/5ba2052acfb2a64a141ad161f5b92a38/Ten_tiny_canvases_.jpg?w=3840&q=90&fm=webp)
-
-[Creating nail art with ChatGPTChatGPTFeb 4, 2025](</index/ten-tiny-canvases/>)
-
-![Math Tutor > Cover media ](https://images.ctfassets.net/kftzwdyauwt9/2oDKH92TW20YedrGjlZ2bO/aee7f60283553fa4f600d6f38fddbd0f/My_dog__the_math_tutor.jpg?w=3840&q=90&fm=webp)
-
-[Building a custom math tutor powered by ChatGPTChatGPTFeb 4, 2025](</index/my-dog-the-math-tutor/>)
-
-![Reem Anchassi uses OpenAI deep research](https://images.ctfassets.net/kftzwdyauwt9/5tCYZqzCTYSDtYiIjx61FJ/2369d97a94e3777fa6405838b739b585/oai_deep-research_bain.png?w=3840&q=90&fm=webp)
-
-[Understanding complex trends with deep researchChatGPTFeb 2, 2025](</index/deep-research/>)
-
-![Minne Atairu & Sora](https://images.ctfassets.net/kftzwdyauwt9/4lIwZakY4SEB4JsT74WLtU/816b01aafecf3e632478c0a81d3b09da/Minne_Atairu___Sora.jpg?w=3840&q=90&fm=webp)
-
-[Minne Atairu & SoraSoraDec 9, 2024](</index/sora-minne-atairu/>)
 
 Load more
 

@@ -30,11 +30,11 @@ OpenAI[View all plugins](</business/plugins/>)
 
 Connect to sync Aha! product roadmaps and features for use in ChatGPT.
 
-[Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_1p_bbb01160dac48191bff1bdb3a7e7cfd7>)[Contact sales](</contact-sales/>)
+[Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_templated_apps_6a75de1e29a081919a00e5aaa57568d6>)[Contact sales](</contact-sales/>)
 
-[@Aha! Open Aha!(opens in a new window)](<https://chatgpt.com/?prompt=%40Aha%21+Open+Aha%21>)
+[@Aha! Summarize the customer feedback we received last week.(opens in a new window)](<https://chatgpt.com/?prompt=%40Aha%21+Summarize+the+customer+feedback+we+received+last+week.>)[@Aha! Create an executive summary of the upcoming release.(opens in a new window)](<https://chatgpt.com/?prompt=%40Aha%21+Create+an+executive+summary+of+the+upcoming+release.>)[@Aha! Report out progress and risks for my product initiatives.(opens in a new window)](<https://chatgpt.com/?prompt=%40Aha%21+Report+out+progress+and+risks+for+my+product+initiatives.>)
 
-Use case: [Project Management](</business/plugins/?tab=apps-project-management>)
+Use case: [Productivity](</business/plugins/?tab=plugins-productivity>)
 
 Made by: OpenAI
 
@@ -94,6 +94,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)

@@ -44,7 +44,7 @@ Search, create, and edit designs.
 
 ![@Canva Can you resize this poster as an Instagram post for my online store?](https://files.openai.com/content?id=file_00000000760471f7aa6344b4e165c521&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=7&sig=94fc5dc63dbfae022f2314de35970d7942ef710bc38331cb0fe66d8adc580e96&v=0)
 
-Use case: [Design](</business/plugins/?tab=apps-design>) and [Small Business](</business/plugins/?tab=apps-small-business>)
+Use case: [Design & Creative](</business/plugins/?tab=plugins-design-creative>) and [Small Business](</business/plugins/?tab=plugins-small-business>)
 
 Made by: Canva Pty Ltd.
 
@@ -78,7 +78,7 @@ Resize design for new channels
 
 Create a brand kit and templates
 
-**@Canva** Build a simple brand kit starter set for a new coffee shop and generate matching templates for menu poster and social post.
+**@Canva** Turn these launch notes into a presentation draft and give me the design link so our marketing team can finish it in the Canva editor.
 
 ## Resources
 

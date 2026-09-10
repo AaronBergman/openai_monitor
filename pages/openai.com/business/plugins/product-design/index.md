@@ -34,7 +34,7 @@ Turn product ideas into designs and research artifacts.
 
 [@Product Design Help me get started(opens in a new window)](<https://chatgpt.com/?prompt=%40Product+Design+Help+me+get+started>)[@Product Design Turn this product idea into three visual directions(opens in a new window)](<https://chatgpt.com/?prompt=%40Product+Design+Turn+this+product+idea+into+three+visual+directions>)[@Product Design Design a landing page for my business(opens in a new window)](<https://chatgpt.com/?prompt=%40Product+Design+Design+a+landing+page+for+my+business>)
 
-Use case: [Design](</business/plugins/?tab=apps-design>)
+Use case: [Design & Creative](</business/plugins/?tab=plugins-design-creative>)
 
 Made by: OpenAI
 
@@ -94,6 +94,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)

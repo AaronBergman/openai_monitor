@@ -34,7 +34,7 @@ Analyze CRM data and surface insights.
 
 [@HubSpot Create a follow-up task to schedule a meeting with Brightlane(opens in a new window)](<https://chatgpt.com/?prompt=%40HubSpot+Create+a+follow-up+task+to+schedule+a+meeting+with+Brightlane>)[@HubSpot Show me unresolved high-priority tickets(opens in a new window)](<https://chatgpt.com/?prompt=%40HubSpot+Show+me+unresolved+high-priority+tickets>)[@HubSpot Which lead sources brought in the most contacts this quarter?(opens in a new window)](<https://chatgpt.com/?prompt=%40HubSpot+Which+lead+sources+brought+in+the+most+contacts+this+quarter%3F>)
 
-Use case: [Go-to-Market](</business/plugins/?tab=apps-go-to-market>) and [Small Business](</business/plugins/?tab=apps-small-business>)
+Use case: [Productivity](</business/plugins/?tab=plugins-productivity>), [Sales & Commerce](</business/plugins/?tab=plugins-sales-commerce>), and [Small Business](</business/plugins/?tab=plugins-small-business>)
 
 Made by: HubSpot
 

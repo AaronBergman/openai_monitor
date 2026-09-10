@@ -86,14 +86,14 @@ Through this program, the Tow-Knight Center and the Knight Lab will help student
 
 This new initiative builds on OpenAI’s yearslong and ongoing support of the journalism ecosystem, which includes:
 
-  * Through our renewed partnership with the **American Journalism Project** , all 50+ of the news organizations in their portfolio will have the opportunity to access ChatGPT enterprise and API credits. AJP’s Product & AI Studio will turn the strongest uses cases into reusable tools and infrastructure, and share playbooks and lessons across the portfolio and with the broader nonprofit and local news community.
+  * Through our renewed partnership with the **American Journalism Project** , all 50+ of the news organizations in their portfolio will have the opportunity to access ChatGPT enterprise and API credits. AJP’s Product & AI Studio will turn the strongest use cases into reusable tools and infrastructure, and share playbooks and lessons across the portfolio and with the broader nonprofit and local news community.
   * OpenAI’s continued support for the **Lenfest Institute for Journalism** ’s AI Collaborative and Fellowship program, providing major local news organizations with funds to hire AI engineering fellows dedicated to building, scaling, and sharing projects that strengthen journalism and the business of news. Projects have focused on reporting on public data, making news archives more accessible to staff, developing new products that expand audience reach, and growing advertising, subscription, and membership revenue.
   * An ongoing partnership with **WAN-IFRA** , launched in 2024, through which OpenAI has supported multiple stages of its Newsroom AI Catalyst accelerator program, which has served over 165 newsrooms across Europe, Asia Pacific, South Asia, Latin America, and Australia and New Zealand. The program offers practical training, technical assistance, strategy development, and OpenAI API credits.
   * OpenAI’s ongoing work with **INMA** to support international news organizations to understand and shape the role AI can play across journalism and the business of news. The partnership has supported dedicated regional discussions with industry leaders from Europe, Latin America, and Asia Pacific, alongside webinars, and OpenAI API credits for hands-on building.
 
 
 
-The new Tow-Knight Center and Knight Lab program at the Newmark J-School and Medill program builds on these efforts and expands this work further upstream: helping future journalists build the skills, fluency, and confidence they will need before they enter the newsroom
+The new Tow-Knight Center and Knight Lab program at the Newmark J-School and Medill program builds on these efforts and expands this work further upstream: helping future journalists build the skills, fluency, and confidence they will need before they enter the newsroom.
 
 ## Supporting the full journalism ecosystem
 
@@ -126,6 +126,10 @@ ChatGPT Edu provides enterprise-level privacy, permissions and administrative co
 
 [View all](</news/>)
 
+![Paul Christiano joins OpenAI Foundation Board — card](https://images.ctfassets.net/kftzwdyauwt9/4PcDbhz75I70TjyGat7oHl/598dd1e865018860c3591cb95c9bc72e/paul-christiano-joins-openai-foundation-board--cover-v001.png?w=3840&q=90&fm=webp)
+
+[Paul Christiano joins OpenAI Foundation BoardCompanySep 9, 2026](</index/paul-christiano-joins-openai-foundation-board/>)
+
 ![The Work Now Within Reach — clean cover](https://images.ctfassets.net/kftzwdyauwt9/5iHLTPM4ZhKe4dAwOPfpy2/347b9d804542685bb13dbb63e985d91e/c3f562e2b08a0bfc.png?w=3840&q=90&fm=webp)
 
 [The Work Now Within ReachCompanySep 8, 2026](</index/the-work-now-within-reach/>)
@@ -133,10 +137,6 @@ ChatGPT Edu provides enterprise-level privacy, permissions and administrative co
 ![California youth AI safety — cover](https://images.ctfassets.net/kftzwdyauwt9/3CsHxgcoiHHUUaYOB1FNiq/38e90de831dad795965ed98ffdd3a95a/Frame.png?w=3840&q=90&fm=webp)
 
 [OpenAI supports California’s bill to advance youth AI safetyCompanyAug 31, 2026](</index/supporting-california-bill-advance-ai-youth-safety/>)
-
-![Our decision on Cursor following its acquisition by SpaceX — cover](https://images.ctfassets.net/kftzwdyauwt9/3gFEgHvtA7Rsa5yUen97p5/b78a11ad81397a4003b879160e5a19b3/index-our-decision-on-cursor-following-its-acquisition-by-spacex-cover.png?w=3840&q=90&fm=webp)
-
-[Our decision on Cursor following its acquisition by SpaceXCompanyAug 28, 2026](</index/our-decision-on-cursor-following-its-acquisition-by-spacex/>)
 
 Research
 

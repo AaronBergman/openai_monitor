@@ -32,15 +32,17 @@ Manage Jira and Confluence fast.
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_692de805e3ec8191834719067174a384>)[Contact sales](</contact-sales/>)
 
-@Atlassian Rovo What are the description, acceptance criteria, and subtasks for MOB-210?
+@Atlassian Rovo Find the Confluence page that explains the latest incident and summarize the root cause and mitigations with links
 
-![@Atlassian Rovo What are the description, acceptance criteria, and subtasks for MOB-210?](https://files.openai.com/content?id=file_00000000384c71f7ad56d91963a13341&cdn=1&cp=pi&ma=30672000&ts=0&p=pi&cid=7&sig=40aa44674c8508e89b6be0b3fe40aa61b04ddb11f2ee73ab40089242d1b2ea6a&v=0)
+![@Atlassian Rovo Find the Confluence page that explains the latest incident and summarize the root cause and mitigations with links](https://files.openai.com/content?id=file_00000000384c71f7ad56d91963a13341&cdn=1&cp=pi&ma=30672000&ts=0&p=pi&cid=7&sig=40aa44674c8508e89b6be0b3fe40aa61b04ddb11f2ee73ab40089242d1b2ea6a&v=0)
 
-@Atlassian Rovo Find Vitafleet Mobile strategy, roadmap, and architecture documents
+@Atlassian Rovo Convert this conversation into Jira tasks with clear titles acceptance criteria and owners
 
-![@Atlassian Rovo Find Vitafleet Mobile strategy, roadmap, and architecture documents](https://files.openai.com/content?id=file_00000000cdf071f79db0aa531cf4ec11&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=7&sig=4c347fe66269ba77b696cd22d531b5dc0e39619b817496d28e0b196764ea107b&v=0)
+![@Atlassian Rovo Convert this conversation into Jira tasks with clear titles acceptance criteria and owners](https://files.openai.com/content?id=file_00000000cdf071f79db0aa531cf4ec11&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=7&sig=4c347fe66269ba77b696cd22d531b5dc0e39619b817496d28e0b196764ea107b&v=0)
 
-Use case: [Collaboration](</business/plugins/?tab=apps-collaboration>) and [Data](</business/plugins/?tab=apps-data>)
+[@Atlassian Rovo Create a QBR style summary using the last month of Jira delivery metrics plus the key Confluence decision notes(opens in a new window)](<https://chatgpt.com/?prompt=%40Atlassian+Rovo+Create+a+QBR+style+summary+using+the+last+month+of+Jira+delivery+metrics+plus+the+key+Confluence+decision+notes>)
+
+Use case: [Productivity](</business/plugins/?tab=plugins-productivity>)
 
 Made by: Atlassian
 
@@ -100,6 +102,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)

@@ -34,7 +34,7 @@ Execute trades and access live market data using natural language.
 
 [@Alpaca Use Alpaca to help with this task(opens in a new window)](<https://chatgpt.com/?prompt=%40Alpaca+Use+Alpaca+to+help+with+this+task>)
 
-Use case: [Finance](</business/plugins/?tab=apps-finance>) and [Developer Tools](</business/plugins/?tab=apps-developer-tools>)
+Use case: [Finance](</business/plugins/?tab=plugins-finance>)
 
 Made by: Alpaca
 
@@ -94,6 +94,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)

@@ -32,11 +32,15 @@ Search docs and deploy apps.
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_690a90ec05c881918afb6a55dc9bbaa1>)[Contact sales](</contact-sales/>)
 
-@Vercel why is my build failing?
+@Vercel Audit this repo for Vercel deployment risks
 
-![@Vercel why is my build failing?](https://files.openai.com/content?id=file_000000006ff471f691966006ae9c2d19&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=1&sig=cf5bdc428b32693a39a7b2751547eb57998d8173413f7082598f02b3a43596da)
+![@Vercel Audit this repo for Vercel deployment risks](https://files.openai.com/content?id=file_000000006ff471f691966006ae9c2d19&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=1&sig=cf5bdc428b32693a39a7b2751547eb57998d8173413f7082598f02b3a43596da)
 
-Use case: [Developer Tools](</business/plugins/?tab=apps-developer-tools>)
+[@Vercel Which Vercel tools fit this app best(opens in a new window)](<https://chatgpt.com/?prompt=%40Vercel+Which+Vercel+tools+fit+this+app+best>)
+
+[@Vercel Help wire the Vercel app into this workflow(opens in a new window)](<https://chatgpt.com/?prompt=%40Vercel+Help+wire+the+Vercel+app+into+this+workflow>)
+
+Use case: [Engineering & IT](</business/plugins/?tab=plugins-engineering-it>)
 
 Made by: Vercel Labs
 
@@ -62,15 +66,15 @@ List and inspect team projects without switching tools, giving engineering leads
 
 Get updated project status
 
-**@Vercel** What is the status of the latest production deployment for [project] and what changed since the previous deploy.
+**@Vercel** List all domains for my team and identify which environments they point to including any risky misconfigurations.
 
 Identify configuration issues
 
-**@Vercel** List all domains for my team and identify which environments they point to including any risky misconfigurations.
+**@Vercel** What is the status of the latest production deployment for [project] and what changed since the previous deploy.
 
 Compare performance and address issues
 
-**@Vercel** Compare performance signals between the last two deployments and tell me what I should look at first.
+**@Vercel** List my team's projects with their latest deployment status and domains, and highlight any projects that need attention.
 
 ## Resources
 
@@ -96,6 +100,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)

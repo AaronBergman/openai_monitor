@@ -34,7 +34,7 @@ Create and manage your store
 
 [@Shopify Upload and add this product to my store.(opens in a new window)](<https://chatgpt.com/?prompt=%40Shopify+Upload+and+add+this+product+to+my+store.>)[@Shopify Show me the products I have in my store.(opens in a new window)](<https://chatgpt.com/?prompt=%40Shopify+Show+me+the+products+I+have+in+my+store.>)[@Shopify Show me my store's sales for the past three weeks.(opens in a new window)](<https://chatgpt.com/?prompt=%40Shopify+Show+me+my+store%27s+sales+for+the+past+three+weeks.>)
 
-Use case: [Small Business](</business/plugins/?tab=apps-small-business>)
+Use case: [Productivity](</business/plugins/?tab=plugins-productivity>), [Small Business](</business/plugins/?tab=plugins-small-business>), and [Sales & Commerce](</business/plugins/?tab=plugins-sales-commerce>)
 
 Made by: Shopify
 
@@ -44,31 +44,31 @@ Website: [shopify.com(opens in a new window)](<https://shopify.com>)
 
 Shopify for ChatGPT makes starting, running, and growing an online store as easy as having a conversation. Turn a small business idea into an ecommerce website with Shopify’s AI store builder: describe what you sell, create your store, add products, and sell online. Already have a Shopify store? Connect it to manage inventory across locations, create discount codes, review orders and customer details, and pull analytics on your store’s performance. Shopify supports selling online, in person, B2B, on marketplaces, and selling internationally. Whether you run a print on demand business, sell digital products, operate an online boutique, dropship, or serve wholesale buyers, Shopify gives you the foundation to build, sell, and grow.
 
-### Manage your product catalog
+### Review recent sales
 
-Add products and review your store's listings to keep the catalog ready for customers.
+See how sales changed over the past three weeks and identify the strongest week.
 
-### Check inventory across locations
+### Prepare a product launch
 
-Review inventory by location to identify products that need replenishment.
+Create a draft product from your supplied details, ready for review.
 
-### Understand store performance
+### Identify stock gaps
 
-Review sales, orders, and customer details to understand how your store is performing.
+Find product variants running low at each store location.
 
 ## Sample prompts
 
 Add a product from an upload
 
-Add the product in this uploaded file to my Shopify store and show me its title, price, and description.
+**@Shopify** Show my store's weekly sales for the past three weeks and highlight the strongest week.
 
 Check inventory by location
 
-Show inventory for our products by location and flag items with fewer than 10 units available.
+**@Shopify** Create a draft product from the details and image I provide, including its price and variants. Write a clear description using only those details and flag anything missing before launch.
 
 Review weekly sales
 
-Show my store's sales for the past three weeks, broken down by week, and summarize the changes.
+**@Shopify** Check stock for the product I name across all locations. List variants with fewer than five units and prioritize the locations that need attention.
 
 ## Resources
 

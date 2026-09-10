@@ -32,9 +32,9 @@ Search and reference your Outlook email.
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_1p_6bcb5879c73c819196abc70016166099>)[Contact sales](</contact-sales/>)
 
-[@Outlook Email Triage inbox, summarize thread, or draft reply or forward(opens in a new window)](<https://chatgpt.com/?prompt=%40Outlook+Email+Triage+inbox%2C+summarize+thread%2C+or+draft+reply+or+forward>)
+[@Outlook Email Summarize the most recent thread with procurement and pull the exact questions they asked so I can answer cleanly(opens in a new window)](<https://chatgpt.com/?prompt=%40Outlook+Email+Summarize+the+most+recent+thread+with+procurement+and+pull+the+exact+questions+they+asked+so+I+can+answer+cleanly>)[@Outlook Email Draft a reply to the latest customer message: acknowledge the concern, set expectations, and offer two ways forward(opens in a new window)](<https://chatgpt.com/?prompt=%40Outlook+Email+Draft+a+reply+to+the+latest+customer+message%3A+acknowledge+the+concern%2C+set+expectations%2C+and+offer+two+ways+forward>)[@Outlook Email Find the top 5 emails I should respond to today based on urgency, seniority, and deadlines; include one-line suggested replies(opens in a new window)](<https://chatgpt.com/?prompt=%40Outlook+Email+Find+the+top+5+emails+I+should+respond+to+today+based+on+urgency%2C+seniority%2C+and+deadlines%3B+include+one-line+suggested+replies>)
 
-Use case: [Collaboration](</business/plugins/?tab=apps-collaboration>)
+Use case: [Productivity](</business/plugins/?tab=plugins-productivity>) and [Data & Research](</business/plugins/?tab=plugins-data-research>)
 
 Made by: OpenAI
 
@@ -94,6 +94,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)

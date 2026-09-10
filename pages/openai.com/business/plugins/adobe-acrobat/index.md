@@ -40,7 +40,7 @@ Edit and organize PDFs easily.
 
 ![@Adobe Acrobat combine these reports into one PDF](https://files.openai.com/content?id=file_000000009b2071f6af7877f58b162a92&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=1&sig=85bc9caaf4f3928c59749c2e15742aef9bcb53132833b21bd3708cb8356c832f)
 
-Use case: [File Sharing](</business/plugins/?tab=apps-file-sharing>)
+Use case: [Productivity](</business/plugins/?tab=plugins-productivity>)
 
 Made by: Adobe Acrobat
 
@@ -70,11 +70,11 @@ Review proposals and flag risks
 
 Redact sensitive data and summarize
 
-**@Adobe Acrobat** Redact all SSNs bank account numbers and home addresses from this document and give me a redaction summary.
+**@Adobe Acrobat** Convert this scanned quarterly financial report into an Excel file using OCR so our finance team can review the tables without retyping them.
 
 Compress PDFs for email sharing
 
-**@Adobe Acrobat** Compress this PDF for email without making charts unreadable and tell me what settings you used.
+**@Adobe Acrobat** Redact all SSNs bank account numbers and home addresses from this document and give me a redaction summary.
 
 ## Resources
 
@@ -100,6 +100,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)

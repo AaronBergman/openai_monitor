@@ -34,7 +34,7 @@ Access live market insights.
 
 [@Morningstar Screen for ETFs with a Medalist Rating better than Silver, a Morningstar Rating over 4 stars, in the Large Value category.(opens in a new window)](<https://chatgpt.com/?prompt=%40Morningstar+Screen+for+ETFs+with+a+Medalist+Rating+better+than+Silver%2C+a+Morningstar+Rating+over+4+stars%2C+in+the+Large+Value+category.>)[@Morningstar Compare the funds SOXX and VOO.(opens in a new window)](<https://chatgpt.com/?prompt=%40Morningstar+Compare+the+funds+SOXX+and+VOO.>)[@Morningstar What are some datapoints that help me evaluate the performance of a fund?(opens in a new window)](<https://chatgpt.com/?prompt=%40Morningstar+What+are+some+datapoints+that+help+me+evaluate+the+performance+of+a+fund%3F>)
 
-Use case: [Data](</business/plugins/?tab=apps-data>)
+Use case: [Finance](</business/plugins/?tab=plugins-finance>) and [Data & Research](</business/plugins/?tab=plugins-data-research>)
 
 Made by: Morningstar Inc.
 
@@ -60,7 +60,7 @@ Look up fund and ETF holdings and review exposure using Morningstar ratings and 
 
 Compare ETF options and highlight differences
 
-**@Morningstar** Compare VOO, IVV, and SPY on fees, holdings overlap, risk, and ratings, and tell me which is best for a long term core position.
+**@Morningstar** Draft a short due diligence memo for an investment committee meeting comparing two funds I am considering.
 
 Find ETF candidates and pull highlights
 
@@ -68,7 +68,7 @@ Find ETF candidates and pull highlights
 
 Draft internal memos
 
-**@Morningstar** Draft a short due diligence memo for an investment committee meeting comparing two funds I am considering.
+**@Morningstar** Compare VOO, IVV, and SPY on fees, holdings overlap, risk, and ratings, and tell me which is best for a long term core position.
 
 ## Resources
 
@@ -94,6 +94,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)

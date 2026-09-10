@@ -32,7 +32,7 @@ Complete structured AI skills courses with applied practice and certificates.
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_693022c8c0088191a7c7572aee832a0c>)[Contact sales](</contact-sales/>)
 
-Use case: [Developer Tools](</business/plugins/?tab=apps-developer-tools>)
+Use case: [Data & Research](</business/plugins/?tab=plugins-data-research>)
 
 Made by: OpenAI Certified
 
@@ -90,6 +90,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)

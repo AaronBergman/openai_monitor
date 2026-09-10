@@ -36,7 +36,7 @@ Screen record with context.
 
 ![@Jam what does this bug report show?](https://files.openai.com/content?id=file_000000006f2c71f68ad2105458ca89ee&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=1&sig=c8f3f4802aa1ada09b1293357b9575097c96ce7ca09f8880df6ab16e3ea8a7eb)
 
-Use case: [Developer Tools](</business/plugins/?tab=apps-developer-tools>)
+Use case: [Productivity](</business/plugins/?tab=plugins-productivity>)
 
 Made by: Jam
 
@@ -96,6 +96,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
