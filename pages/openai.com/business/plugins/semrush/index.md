@@ -32,7 +32,7 @@ Ask about site metrics and traffic data.
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_691fa57b709c8191b61c48b1f78dce21>)[Contact sales](</contact-sales/>)
 
-Use case: [Go-to-Market](</business/plugins/?tab=apps-go-to-market>)
+Use case: [Productivity](</business/plugins/?tab=plugins-productivity>) and [Marketing](</business/plugins/?tab=plugins-marketing>)
 
 Made by: Semrush Holdings, Inc.
 
@@ -62,11 +62,11 @@ Find SEO opportunities and pull highlights
 
 Review SEO opportunities and flag risks
 
-**@Semrush** Run a technical SEO audit summary and give me the top fixes that will move organic traffic fastest.
+**@Semrush** Compare these competitor domains over the last 30 days. Highlight who's gaining or losing, key drivers of performance, biggest gaps vs. us, and 3 recommended actions.
 
 Analyze competitor domain performance
 
-**@Semrush** Compare these competitor domains over the last 30 days. Highlight who's gaining or losing, key drivers of performance, biggest gaps vs. us, and 3 recommended actions.
+**@Semrush** Run a technical SEO audit summary and give me the top fixes that will move organic traffic fastest.
 
 ## Resources
 
@@ -92,6 +92,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)

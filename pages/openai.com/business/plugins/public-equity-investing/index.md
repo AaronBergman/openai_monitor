@@ -34,7 +34,7 @@ Support company research and deal analysis.
 
 [@Public Equity Investing Build a deep NVIDIA pre-earnings preview: expectations, KPIs, margin debates, scenarios, and management questions.(opens in a new window)](<https://chatgpt.com/?prompt=%40Public+Equity+Investing+Build+a+deep+NVIDIA+pre-earnings+preview%3A+expectations%2C+KPIs%2C+margin+debates%2C+scenarios%2C+and+management+questions.>)[@Public Equity Investing Create a Disney long/short pitch: streaming, parks, ESPN, capital allocation, valuation, catalysts, and downside risks.(opens in a new window)](<https://chatgpt.com/?prompt=%40Public+Equity+Investing+Create+a+Disney+long%2Fshort+pitch%3A+streaming%2C+parks%2C+ESPN%2C+capital+allocation%2C+valuation%2C+catalysts%2C+and+downside+risks.>)[@Public Equity Investing Build a Tesla catalyst and valuation brief: recent news, expectations, key debates, scenarios, risks, and an investment view.(opens in a new window)](<https://chatgpt.com/?prompt=%40Public+Equity+Investing+Build+a+Tesla+catalyst+and+valuation+brief%3A+recent+news%2C+expectations%2C+key+debates%2C+scenarios%2C+risks%2C+and+an+investment+view.>)
 
-Use case: [Finance](</business/plugins/?tab=apps-finance>)
+Use case: [Finance](</business/plugins/?tab=plugins-finance>)
 
 Made by: OpenAI
 
@@ -64,11 +64,11 @@ Post earnings deep dive
 
 Investment pitch
 
-**@Public Equity Investing** Pressure-test a long thesis on [TICKER] by identifying the variant perception, catalyst path, downside case, sizing guardrails, and thesis breakers.
+**@Public Equity Investing** Turn these diligence notes for [company] into an issue list with workstreams, owners, open questions for management, and evidence still needed.
 
 Financial model updates
 
-**@Public Equity Investing** Update my public-equity model for [TICKER] using the latest quarter and produce a change log for estimates, valuation, target price, and recommendation.
+**@Public Equity Investing** Pressure-test a long thesis on [TICKER] by identifying the variant perception, catalyst path, downside case, sizing guardrails, and thesis breakers.
 
 ## Resources
 
@@ -94,6 +94,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)

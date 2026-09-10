@@ -34,7 +34,7 @@ Understand your finances
 
 [@Mercury what did we spend on software last quarter? How does this compare to the prior four quarters?(opens in a new window)](<https://chatgpt.com/?prompt=%40Mercury+what+did+we+spend+on+software+last+quarter%3F+How+does+this+compare+to+the+prior+four+quarters%3F>)[@Mercury graph our burn over the last 6 months, and tell me how quickly our burn rate is increasing month over month.(opens in a new window)](<https://chatgpt.com/?prompt=%40Mercury+graph+our+burn+over+the+last+6+months%2C+and+tell+me+how+quickly+our+burn+rate+is+increasing+month+over+month.>)[@Mercury what’s the current balance in my Payroll account? Show me any transfers out of that account in the last 30 days.(opens in a new window)](<https://chatgpt.com/?prompt=%40Mercury+what%E2%80%99s+the+current+balance+in+my+Payroll+account%3F+Show+me+any+transfers+out+of+that+account+in+the+last+30+days.>)
 
-Use case: [Finance](</business/plugins/?tab=apps-finance>) and [Small Business](</business/plugins/?tab=apps-small-business>)
+Use case: [Finance](</business/plugins/?tab=plugins-finance>) and [Small Business](</business/plugins/?tab=plugins-small-business>)
 
 Made by: Mercury Technologies inc
 
@@ -44,31 +44,31 @@ Website: [mercury.com(opens in a new window)](<https://mercury.com/>)
 
 Connect your Mercury account to ChatGPT to get answers about your finances in the same place you’re already doing the rest of your work.
 
-### Compare business spending
+### Compare software spending
 
-Review spending by category across quarters to see how business costs are changing.
+See how last quarter's software spending compares with the previous four quarters.
 
 ### Track monthly cash burn
 
-Chart cash burn over time and calculate monthly changes to inform financial planning.
+Chart six months of cash burn and see how quickly it is changing.
 
-### Check account balances and transfers
+### Review payroll account activity
 
-Look up account balances and recent outgoing transfers to understand where business funds have moved.
+Check your payroll account balance and its outgoing transfers over the past month.
 
 ## Sample prompts
 
 Compare software spending
 
-Show what we spent on software last quarter and compare it with each of the prior four quarters.
+**@Mercury** what did we spend on software last quarter? How does this compare to the prior four quarters?
 
 Review six months of cash burn
 
-Graph our cash burn for the past six months and show the month-over-month percentage change.
+**@Mercury** graph our burn over the last 6 months, and tell me how quickly our burn rate is increasing month over month.
 
 Review payroll balance and transfers
 
-Show the current balance in our Payroll account and list all outgoing transfers from that account in the past 30 days.
+**@Mercury** what’s the current balance in my Payroll account? Show me any transfers out of that account in the last 30 days.
 
 ## Resources
 

@@ -1,0 +1,411 @@
+{
+  "run_id": "2026-09-10T09-17Z",
+  "added": 31,
+  "updated": 156,
+  "removed": 0,
+  "anomalies": 80,
+  "fetch_failures": 0,
+  "anomaly_details": [
+    {
+      "kind": "section_migration",
+      "url": "https://openai.com/business/plugins/adobe-acrobat/",
+      "details": "Moved from sub-sitemap sitemap.xml_apps-file-sharing.xml to sitemap.xml_plugins-productivity.xml"
+    },
+    {
+      "kind": "section_migration",
+      "url": "https://openai.com/business/plugins/adobe-express/",
+      "details": "Moved from sub-sitemap sitemap.xml_apps-design.xml to sitemap.xml_plugins-design-creative.xml"
+    },
+    {
+      "kind": "section_migration",
+      "url": "https://openai.com/business/plugins/adobe/",
+      "details": "Moved from sub-sitemap sitemap.xml_apps-design.xml to sitemap.xml_plugins-design-creative.xml"
+    },
+    {
+      "kind": "section_migration",
+      "url": "https://openai.com/business/plugins/aha/",
+      "details": "Moved from sub-sitemap sitemap.xml_apps-project-management.xml to sitemap.xml_plugins-productivity.xml"
+    },
+    {
+      "kind": "section_migration",
+      "url": "https://openai.com/business/plugins/airtable/",
+      "details": "Moved from sub-sitemap sitemap.xml_apps-data.xml to sitemap.xml_plugins-productivity.xml"
+    },
+    {
+      "kind": "section_migration",
+      "url": "https://openai.com/business/plugins/alpaca/",
+      "details": "Moved from sub-sitemap sitemap.xml_apps-finance.xml to sitemap.xml_plugins-finance.xml"
+    },
+    {
+      "kind": "section_migration",
+      "url": "https://openai.com/business/plugins/amplitude/",
+      "details": "Moved from sub-sitemap sitemap.xml_apps-data.xml to sitemap.xml_plugins-productivity.xml"
+    },
+    {
+      "kind": "section_migration",
+      "url": "https://openai.com/business/plugins/asana/",
+      "details": "Moved from sub-sitemap sitemap.xml_apps-project-management.xml to sitemap.xml_plugins-productivity.xml"
+    },
+    {
+      "kind": "section_migration",
+      "url": "https://openai.com/business/plugins/atlassian-rovo/",
+      "details": "Moved from sub-sitemap sitemap.xml_apps-data.xml to sitemap.xml_plugins-productivity.xml"
+    },
+    {
+      "kind": "section_migration",
+      "url": "https://openai.com/business/plugins/bigquery/",
+      "details": "Moved from sub-sitemap sitemap.xml_apps-data.xml to sitemap.xml_plugins-data-research.xml"
+    },
+    {
+      "kind": "section_migration",
+      "url": "https://openai.com/business/plugins/biorender/",
+      "details": "Moved from sub-sitemap sitemap.xml_apps-data.xml to sitemap.xml_plugins-design-creative.xml"
+    },
+    {
+      "kind": "section_migration",
+      "url": "https://openai.com/business/plugins/box/",
+      "details": "Moved from sub-sitemap sitemap.xml_apps-file-sharing.xml to sitemap.xml_plugins-productivity.xml"
+    },
+    {
+      "kind": "section_migration",
+      "url": "https://openai.com/business/plugins/canva/",
+      "details": "Moved from sub-sitemap sitemap.xml_apps-small-business.xml to sitemap.xml_plugins-small-business.xml"
+    },
+    {
+      "kind": "section_migration",
+      "url": "https://openai.com/business/plugins/clay/",
+      "details": "Moved from sub-sitemap sitemap.xml_apps-go-to-market.xml to sitemap.xml_plugins-sales-commerce.xml"
+    },
+    {
+      "kind": "section_migration",
+      "url": "https://openai.com/business/plugins/clickup/",
+      "details": "Moved from sub-sitemap sitemap.xml_apps-small-business.xml to sitemap.xml_plugins-small-business.xml"
+    },
+    {
+      "kind": "section_migration",
+      "url": "https://openai.com/business/plugins/cloudinary/",
+      "details": "Moved from sub-sitemap sitemap.xml_apps-developer-tools.xml to sitemap.xml_plugins-engineering-it.xml"
+    },
+    {
+      "kind": "section_migration",
+      "url": "https://openai.com/business/plugins/conductor/",
+      "details": "Moved from sub-sitemap sitemap.xml_apps-go-to-market.xml to sitemap.xml_plugins-productivity.xml"
+    },
+    {
+      "kind": "section_migration",
+      "url": "https://openai.com/business/plugins/coupler-io/",
+      "details": "Moved from sub-sitemap sitemap.xml_apps-data.xml to sitemap.xml_plugins-data-research.xml"
+    },
+    {
+      "kind": "section_migration",
+      "url": "https://openai.com/business/plugins/coveo/",
+      "details": "Moved from sub-sitemap sitemap.xml_apps-data.xml to sitemap.xml_plugins-productivity.xml"
+    },
+    {
+      "kind": "section_migration",
+      "url": "https://openai.com/business/plugins/creative-production/",
+      "details": "Moved from sub-sitemap sitemap.xml_apps-design.xml to sitemap.xml_plugins-design-creative.xml"
+    },
+    {
+      "kind": "section_migration",
+      "url": "https://openai.com/business/plugins/daloopa/",
+      "details": "Moved from sub-sitemap sitemap.xml_apps-data.xml to sitemap.xml_plugins-finance.xml"
+    },
+    {
+      "kind": "section_migration",
+      "url": "https://openai.com/business/plugins/data/",
+      "details": "Moved from sub-sitemap sitemap.xml_apps-data.xml to sitemap.xml_plugins-data-research.xml"
+    },
+    {
+      "kind": "section_migration",
+      "url": "https://openai.com/business/plugins/databricks/",
+      "details": "Moved from sub-sitemap sitemap.xml_apps-data.xml to sitemap.xml_plugins-data-research.xml"
+    },
+    {
+      "kind": "section_migration",
+      "url": "https://openai.com/business/plugins/docusign/",
+      "details": "Moved from sub-sitemap sitemap.xml_apps-small-business.xml to sitemap.xml_plugins-small-business.xml"
+    },
+    {
+      "kind": "section_migration",
+      "url": "https://openai.com/business/plugins/dropbox/",
+      "details": "Moved from sub-sitemap sitemap.xml_apps-small-business.xml to sitemap.xml_plugins-small-business.xml"
+    },
+    {
+      "kind": "section_migration",
+      "url": "https://openai.com/business/plugins/egnyte/",
+      "details": "Moved from sub-sitemap sitemap.xml_apps-file-sharing.xml to sitemap.xml_plugins-productivity.xml"
+    },
+    {
+      "kind": "section_migration",
+      "url": "https://openai.com/business/plugins/figma/",
+      "details": "Moved from sub-sitemap sitemap.xml_apps-small-business.xml to sitemap.xml_plugins-small-business.xml"
+    },
+    {
+      "kind": "section_migration",
+      "url": "https://openai.com/business/plugins/fireflies/",
+      "details": "Moved from sub-sitemap sitemap.xml_apps-collaboration.xml to sitemap.xml_plugins-productivity.xml"
+    },
+    {
+      "kind": "section_migration",
+      "url": "https://openai.com/business/plugins/github/",
+      "details": "Moved from sub-sitemap sitemap.xml_apps-developer-tools.xml to sitemap.xml_plugins-engineering-it.xml"
+    },
+    {
+      "kind": "section_migration",
+      "url": "https://openai.com/business/plugins/gmail/",
+      "details": "Moved from sub-sitemap sitemap.xml_apps-collaboration.xml to sitemap.xml_plugins-productivity.xml"
+    },
+    {
+      "kind": "section_migration",
+      "url": "https://openai.com/business/plugins/google-calendar/",
+      "details": "Moved from sub-sitemap sitemap.xml_apps-collaboration.xml to sitemap.xml_plugins-productivity.xml"
+    },
+    {
+      "kind": "section_migration",
+      "url": "https://openai.com/business/plugins/google-drive/",
+      "details": "Moved from sub-sitemap sitemap.xml_apps-file-sharing.xml to sitemap.xml_plugins-productivity.xml"
+    },
+    {
+      "kind": "section_migration",
+      "url": "https://openai.com/business/plugins/gusto/",
+      "details": "Moved from sub-sitemap sitemap.xml_apps-small-business.xml to sitemap.xml_plugins-small-business.xml"
+    },
+    {
+      "kind": "section_migration",
+      "url": "https://openai.com/business/plugins/hex/",
+      "details": "Moved from sub-sitemap sitemap.xml_apps-data.xml to sitemap.xml_plugins-data-research.xml"
+    },
+    {
+      "kind": "section_migration",
+      "url": "https://openai.com/business/plugins/highlevel/",
+      "details": "Moved from sub-sitemap sitemap.xml_apps-go-to-market.xml to sitemap.xml_plugins-productivity.xml"
+    },
+    {
+      "kind": "section_migration",
+      "url": "https://openai.com/business/plugins/honeybook/",
+      "details": "Moved from sub-sitemap sitemap.xml_apps-small-business.xml to sitemap.xml_plugins-small-business.xml"
+    },
+    {
+      "kind": "section_migration",
+      "url": "https://openai.com/business/plugins/hubspot/",
+      "details": "Moved from sub-sitemap sitemap.xml_apps-small-business.xml to sitemap.xml_plugins-small-business.xml"
+    },
+    {
+      "kind": "section_migration",
+      "url": "https://openai.com/business/plugins/hugging-face/",
+      "details": "Moved from sub-sitemap sitemap.xml_apps-developer-tools.xml to sitemap.xml_plugins-engineering-it.xml"
+    },
+    {
+      "kind": "section_migration",
+      "url": "https://openai.com/business/plugins/investment-banking/",
+      "details": "Moved from sub-sitemap sitemap.xml_apps-finance.xml to sitemap.xml_plugins-finance.xml"
+    },
+    {
+      "kind": "section_migration",
+      "url": "https://openai.com/business/plugins/jam-dev/",
+      "details": "Moved from sub-sitemap sitemap.xml_apps-developer-tools.xml to sitemap.xml_plugins-productivity.xml"
+    },
+    {
+      "kind": "section_migration",
+      "url": "https://openai.com/business/plugins/klaviyo/",
+      "details": "Moved from sub-sitemap sitemap.xml_apps-go-to-market.xml to sitemap.xml_plugins-productivity.xml"
+    },
+    {
+      "kind": "section_migration",
+      "url": "https://openai.com/business/plugins/linear/",
+      "details": "Moved from sub-sitemap sitemap.xml_apps-project-management.xml to sitemap.xml_plugins-productivity.xml"
+    },
+    {
+      "kind": "section_migration",
+      "url": "https://openai.com/business/plugins/lovable/",
+      "details": "Moved from sub-sitemap sitemap.xml_apps-developer-tools.xml to sitemap.xml_plugins-engineering-it.xml"
+    },
+    {
+      "kind": "section_migration",
+      "url": "https://openai.com/business/plugins/lseg/",
+      "details": "Moved from sub-sitemap sitemap.xml_apps-data.xml to sitemap.xml_plugins-finance.xml"
+    },
+    {
+      "kind": "section_migration",
+      "url": "https://openai.com/business/plugins/mailchimp/",
+      "details": "Moved from sub-sitemap sitemap.xml_apps-go-to-market.xml to sitemap.xml_plugins-productivity.xml"
+    },
+    {
+      "kind": "section_migration",
+      "url": "https://openai.com/business/plugins/mercury/",
+      "details": "Moved from sub-sitemap sitemap.xml_apps-small-business.xml to sitemap.xml_plugins-small-business.xml"
+    },
+    {
+      "kind": "section_migration",
+      "url": "https://openai.com/business/plugins/microsoft-outlook-calendar/",
+      "details": "Moved from sub-sitemap sitemap.xml_apps-collaboration.xml to sitemap.xml_plugins-productivity.xml"
+    },
+    {
+      "kind": "section_migration",
+      "url": "https://openai.com/business/plugins/microsoft-outlook-email/",
+      "details": "Moved from sub-sitemap sitemap.xml_apps-collaboration.xml to sitemap.xml_plugins-productivity.xml"
+    },
+    {
+      "kind": "section_migration",
+      "url": "https://openai.com/business/plugins/microsoft-sharepoint/",
+      "details": "Moved from sub-sitemap sitemap.xml_apps-file-sharing.xml to sitemap.xml_plugins-productivity.xml"
+    },
+    {
+      "kind": "section_migration",
+      "url": "https://openai.com/business/plugins/microsoft-teams/",
+      "details": "Moved from sub-sitemap sitemap.xml_apps-collaboration.xml to sitemap.xml_plugins-productivity.xml"
+    },
+    {
+      "kind": "section_migration",
+      "url": "https://openai.com/business/plugins/monday-com/",
+      "details": "Moved from sub-sitemap sitemap.xml_apps-project-management.xml to sitemap.xml_plugins-productivity.xml"
+    },
+    {
+      "kind": "section_migration",
+      "url": "https://openai.com/business/plugins/morningstar/",
+      "details": "Moved from sub-sitemap sitemap.xml_apps-data.xml to sitemap.xml_plugins-finance.xml"
+    },
+    {
+      "kind": "section_migration",
+      "url": "https://openai.com/business/plugins/netlify/",
+      "details": "Moved from sub-sitemap sitemap.xml_apps-developer-tools.xml to sitemap.xml_plugins-engineering-it.xml"
+    },
+    {
+      "kind": "section_migration",
+      "url": "https://openai.com/business/plugins/notion/",
+      "details": "Moved from sub-sitemap sitemap.xml_apps-project-management.xml to sitemap.xml_plugins-productivity.xml"
+    },
+    {
+      "kind": "section_migration",
+      "url": "https://openai.com/business/plugins/openai-certified/",
+      "details": "Moved from sub-sitemap sitemap.xml_apps-developer-tools.xml to sitemap.xml_plugins-data-research.xml"
+    },
+    {
+      "kind": "section_migration",
+      "url": "https://openai.com/business/plugins/paypal/",
+      "details": "Moved from sub-sitemap sitemap.xml_apps-small-business.xml to sitemap.xml_plugins-small-business.xml"
+    },
+    {
+      "kind": "section_migration",
+      "url": "https://openai.com/business/plugins/pitchbook/",
+      "details": "Moved from sub-sitemap sitemap.xml_apps-data.xml to sitemap.xml_plugins-finance.xml"
+    },
+    {
+      "kind": "section_migration",
+      "url": "https://openai.com/business/plugins/product-design/",
+      "details": "Moved from sub-sitemap sitemap.xml_apps-design.xml to sitemap.xml_plugins-design-creative.xml"
+    },
+    {
+      "kind": "section_migration",
+      "url": "https://openai.com/business/plugins/public-equity-investing/",
+      "details": "Moved from sub-sitemap sitemap.xml_apps-finance.xml to sitemap.xml_plugins-finance.xml"
+    },
+    {
+      "kind": "section_migration",
+      "url": "https://openai.com/business/plugins/quickbooks/",
+      "details": "Moved from sub-sitemap sitemap.xml_apps-small-business.xml to sitemap.xml_plugins-small-business.xml"
+    },
+    {
+      "kind": "section_migration",
+      "url": "https://openai.com/business/plugins/ramp/",
+      "details": "Moved from sub-sitemap sitemap.xml_apps-finance.xml to sitemap.xml_plugins-finance.xml"
+    },
+    {
+      "kind": "section_migration",
+      "url": "https://openai.com/business/plugins/replit/",
+      "details": "Moved from sub-sitemap sitemap.xml_apps-developer-tools.xml to sitemap.xml_plugins-engineering-it.xml"
+    },
+    {
+      "kind": "section_migration",
+      "url": "https://openai.com/business/plugins/sales/",
+      "details": "Moved from sub-sitemap sitemap.xml_apps-go-to-market.xml to sitemap.xml_plugins-sales-commerce.xml"
+    },
+    {
+      "kind": "section_migration",
+      "url": "https://openai.com/business/plugins/salesforce/",
+      "details": "Moved from sub-sitemap sitemap.xml_apps-go-to-market.xml to sitemap.xml_plugins-sales-commerce.xml"
+    },
+    {
+      "kind": "section_migration",
+      "url": "https://openai.com/business/plugins/semrush/",
+      "details": "Moved from sub-sitemap sitemap.xml_apps-go-to-market.xml to sitemap.xml_plugins-productivity.xml"
+    },
+    {
+      "kind": "section_migration",
+      "url": "https://openai.com/business/plugins/shopify/",
+      "details": "Moved from sub-sitemap sitemap.xml_apps-small-business.xml to sitemap.xml_plugins-small-business.xml"
+    },
+    {
+      "kind": "section_migration",
+      "url": "https://openai.com/business/plugins/slack/",
+      "details": "Moved from sub-sitemap sitemap.xml_apps-small-business.xml to sitemap.xml_plugins-small-business.xml"
+    },
+    {
+      "kind": "section_migration",
+      "url": "https://openai.com/business/plugins/snowflake/",
+      "details": "Moved from sub-sitemap sitemap.xml_apps-data.xml to sitemap.xml_plugins-data-research.xml"
+    },
+    {
+      "kind": "section_migration",
+      "url": "https://openai.com/business/plugins/spaceship/",
+      "details": "Moved from sub-sitemap sitemap.xml_apps-go-to-market.xml to sitemap.xml_plugins-engineering-it.xml"
+    },
+    {
+      "kind": "section_migration",
+      "url": "https://openai.com/business/plugins/stripe/",
+      "details": "Moved from sub-sitemap sitemap.xml_apps-small-business.xml to sitemap.xml_plugins-small-business.xml"
+    },
+    {
+      "kind": "section_migration",
+      "url": "https://openai.com/business/plugins/vercel/",
+      "details": "Moved from sub-sitemap sitemap.xml_apps-developer-tools.xml to sitemap.xml_plugins-engineering-it.xml"
+    },
+    {
+      "kind": "section_migration",
+      "url": "https://openai.com/business/plugins/wix/",
+      "details": "Moved from sub-sitemap sitemap.xml_apps-small-business.xml to sitemap.xml_plugins-small-business.xml"
+    },
+    {
+      "kind": "section_migration",
+      "url": "https://openai.com/business/plugins/zoho-crm/",
+      "details": "Moved from sub-sitemap sitemap.xml_apps-go-to-market.xml to sitemap.xml_plugins-sales-commerce.xml"
+    },
+    {
+      "kind": "section_migration",
+      "url": "https://openai.com/business/plugins/zoom/",
+      "details": "Moved from sub-sitemap sitemap.xml_apps-collaboration.xml to sitemap.xml_plugins-productivity.xml"
+    },
+    {
+      "kind": "section_migration",
+      "url": "https://openai.com/business/plugins/zoominfo/",
+      "details": "Moved from sub-sitemap sitemap.xml_apps-small-business.xml to sitemap.xml_plugins-small-business.xml"
+    },
+    {
+      "kind": "section_migration",
+      "url": "https://openai.com/global-affairs/new-economic-analysis/",
+      "details": "Moved from sub-sitemap sitemap.xml_global-affairs.xml to sitemap.xml_global-affairs-news-listed.xml"
+    },
+    {
+      "kind": "section_migration",
+      "url": "https://openai.com/index/equipping-workers-with-insights-about-compensation/",
+      "details": "Moved from sub-sitemap sitemap.xml_global-affairs.xml to sitemap.xml_global-affairs-news-listed.xml"
+    },
+    {
+      "kind": "section_migration",
+      "url": "https://openai.com/index/how-countries-can-end-the-capability-overhang/",
+      "details": "Moved from sub-sitemap sitemap.xml_global-affairs.xml to sitemap.xml_global-affairs-news-listed.xml"
+    },
+    {
+      "kind": "section_migration",
+      "url": "https://openai.com/index/rakuten-2024/",
+      "details": "Moved from sub-sitemap sitemap.xml_api.xml to sitemap.xml_page.xml"
+    },
+    {
+      "kind": "section_migration",
+      "url": "https://openai.com/index/understanding-ai-and-learning-outcomes/",
+      "details": "Moved from sub-sitemap sitemap.xml_global-affairs.xml to sitemap.xml_global-affairs-news-listed.xml"
+    }
+  ],
+  "total": 1685
+}

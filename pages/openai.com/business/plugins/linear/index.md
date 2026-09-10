@@ -34,7 +34,7 @@ Find and reference issues and projects.
 
 [@Linear Triage or update relevant issues for this task with clear next actions(opens in a new window)](<https://chatgpt.com/?prompt=%40Linear+Triage+or+update+relevant+issues+for+this+task+with+clear+next+actions>)
 
-Use case: [Project Management](</business/plugins/?tab=apps-project-management>)
+Use case: [Productivity](</business/plugins/?tab=plugins-productivity>) and [Engineering & IT](</business/plugins/?tab=plugins-engineering-it>)
 
 Made by: Linear Orbit, Inc
 
@@ -64,7 +64,7 @@ Draft a weekly update for stakeholders
 
 Create issues from product requests
 
-**@Linear** Turn this product request into 5 well-scoped Linear issues with clear titles, descriptions, and acceptance criteria.
+**@Linear** Triage or update relevant issues for this task with clear next actions
 
 Extract open questions for follow-up
 
@@ -94,6 +94,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)

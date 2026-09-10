@@ -32,19 +32,15 @@ Faster workflows with market intelligence.
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_693850f6312c8191be5a026bf3538e80>)[Contact sales](</contact-sales/>)
 
-@PitchBook Summarize Stripe's funding history
+@PitchBook Use PitchBook to help with this task
 
-![@PitchBook Summarize Stripe's funding history](https://files.openai.com/content?id=file_00000000361c71f7b42b34329a9f0601&cdn=1&cp=pi&ma=31363200&ts=0&p=pi&cid=8&sig=f2afff1541dd1c78c84d93f29e705ef2ac1bd55fb7ee465c52d503ec4dbe6fa8&v=0)
+![@PitchBook Use PitchBook to help with this task](https://files.openai.com/content?id=file_00000000361c71f7b42b34329a9f0601&cdn=1&cp=pi&ma=31363200&ts=0&p=pi&cid=8&sig=f2afff1541dd1c78c84d93f29e705ef2ac1bd55fb7ee465c52d503ec4dbe6fa8&v=0)
 
-@PitchBook Who are the active investors in Stripe?
+![PitchBook](https://files.openai.com/content?id=file_000000008f8871f7830ca0230b9e7224&cdn=1&cp=pi&ma=31536000&ts=0&p=pi&cid=8&sig=29e5f7134f1166e1f3816611f3b9df170eeb96cb1f48822578915819d9305975&v=0)
 
-![@PitchBook Who are the active investors in Stripe?](https://files.openai.com/content?id=file_000000008f8871f7830ca0230b9e7224&cdn=1&cp=pi&ma=31536000&ts=0&p=pi&cid=8&sig=29e5f7134f1166e1f3816611f3b9df170eeb96cb1f48822578915819d9305975&v=0)
+![PitchBook](https://files.openai.com/content?id=file_000000003db471f78a544e6089ae898d&cdn=1&cp=pi&ma=30240000&ts=0&p=pi&cid=8&sig=616c0946f43935bcb5fcbe8ec4916b4f7fca6709dc61104207db27b0f1693c68&v=0)
 
-@PitchBook What are PitchBook analysts saying about FinTech right now?
-
-![@PitchBook What are PitchBook analysts saying about FinTech right now?](https://files.openai.com/content?id=file_000000003db471f78a544e6089ae898d&cdn=1&cp=pi&ma=30240000&ts=0&p=pi&cid=8&sig=616c0946f43935bcb5fcbe8ec4916b4f7fca6709dc61104207db27b0f1693c68&v=0)
-
-Use case: [Data](</business/plugins/?tab=apps-data>)
+Use case: [Finance](</business/plugins/?tab=plugins-finance>)
 
 Made by: PitchBook
 
@@ -74,11 +70,11 @@ Create company profile with key details
 
 Compare competitors
 
-**@PitchBook** Compare three competitors in my market on valuation, headcount growth, and fundraising momentum.
+**@PitchBook** Build a due diligence fact pack for this target company and include any red flags from ownership or deal terms.
 
 Build due diligence assets
 
-**@PitchBook** Build a due diligence fact pack for this target company and include any red flags from ownership or deal terms.
+**@PitchBook** Summarize available performance metrics, LP commitments, and recent activity for [fund] in a fact sheet for our fund research team.
 
 ## Resources
 
@@ -104,6 +100,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)

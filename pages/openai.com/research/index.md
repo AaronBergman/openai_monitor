@@ -44,6 +44,8 @@ Focus areas
 
 OpenAI’s GPT series models are fast, versatile, and cost-efficient AI systems designed to understand context, generate content, and reason across text, images, and more.
 
+[A new generation of intelligenceReleaseSep 3, 202628 min read](</index/gpt-6-astra/>)
+
 ![GPT 5-6 > Card](https://images.ctfassets.net/kftzwdyauwt9/1a9IPPV5nXWydTBosgmgYI/8e03f28ca04f26edc8bc81cdba387df1/5-6.jpg?w=3840&q=90&fm=webp)
 
 [More intelligence from every token for your hardest workReleaseJul 9, 202618 min read](</index/gpt-5-6/>)
@@ -51,10 +53,6 @@ OpenAI’s GPT series models are fast, versatile, and cost-efficient AI systems 
 ![Hero Art Card SEO 1x1](https://images.ctfassets.net/kftzwdyauwt9/cut4wyUCuBENXfd5CSI7Z/d934ffb49d8b39abea0bc33bb1a5b916/Hero_Art_Card_SEO_1x1.jpg?w=3840&q=90&fm=webp)
 
 [A new class of intelligence for real workReleaseApr 23, 202612 min read](</index/introducing-gpt-5-5/>)
-
-![5.4 Thinking Art Card](https://images.ctfassets.net/kftzwdyauwt9/5HSBM48XFBkni6rNv5CAbR/46fe1d133c1440563245262a5fa59c79/5.4_Thinking_Art_Card.png?w=3840&q=90&fm=webp)
-
-[Our most capable and efficient frontier model for professional workReleaseMar 5, 202616 min read](</index/introducing-gpt-5-4/>)
 
 ### Visual
 
@@ -102,6 +100,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)

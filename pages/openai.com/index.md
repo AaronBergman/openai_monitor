@@ -32,11 +32,11 @@ Message ChatGPT
 
 [Learn about ChatGPT Business](</business/>)[Talk with ChatGPT](<https://chatgpt.com/?mode=voice>)[Research](</research/>)[API Platform](</api/>)More
 
-![Hero 16x9](https://images.ctfassets.net/kftzwdyauwt9/5VQB7Gg4znBo0Td1c8DRZj/13c382ad9dee8df708eab9e3e5c96ab3/Hero_16x9.png?w=3840&q=50&fm=webp)
+![astra 16x9 poster](https://images.ctfassets.net/kftzwdyauwt9/6aziMFlkfqPiaNdkZujHdo/74adba940d8bc2c3d9f7e500c71298ab/astra_16x9_poster.png?w=3840&q=50&fm=webp)
 
 [GPT-6 Astra: A new generation of intelligenceResearch28 min read](</index/gpt-6-astra/>)
 
-![Hero 16x9](https://images.ctfassets.net/kftzwdyauwt9/5VQB7Gg4znBo0Td1c8DRZj/13c382ad9dee8df708eab9e3e5c96ab3/Hero_16x9.png?w=3840&q=50&fm=webp)
+![astra 16x9 poster](https://images.ctfassets.net/kftzwdyauwt9/6aziMFlkfqPiaNdkZujHdo/74adba940d8bc2c3d9f7e500c71298ab/astra_16x9_poster.png?w=3840&q=50&fm=webp)
 
 [GPT-6 Astra: A new generation of intelligenceResearch28 min read](</index/gpt-6-astra/>)
 
@@ -53,6 +53,10 @@ Message ChatGPT
 ## Recent news
 
 [View more](</news/company-announcements/>)
+
+![Paul Christiano joins OpenAI Foundation Board — card](https://images.ctfassets.net/kftzwdyauwt9/4PcDbhz75I70TjyGat7oHl/598dd1e865018860c3591cb95c9bc72e/paul-christiano-joins-openai-foundation-board--cover-v001.png?w=3840&q=90&fm=webp)
+
+[Paul Christiano joins OpenAI Foundation BoardCompanySep 9, 2026](</index/paul-christiano-joins-openai-foundation-board/>)
 
 ![Path to Astra — Clean square cover — Neutral Option 062 v1](https://images.ctfassets.net/kftzwdyauwt9/4BabvjDCQdlYN2ISzOkgF9/78d35947274e9b3ac2483377782b007e/astra-cover-v001.png?w=3840&q=90&fm=webp)
 
@@ -74,10 +78,6 @@ Message ChatGPT
 
 [OpenAI appoints Dali Rajic as Chief Revenue OfficerCompanyAug 13, 2026](</index/dali-rajic-chief-revenue-officer/>)
 
-![price-performance-frontier art-card 1x1](https://images.ctfassets.net/kftzwdyauwt9/38nqRc3lEvizMieZlPcd98/25da92d68f02fcc40d5a4dc48cca96cd/price-performance-frontier_art-card_1x1.png?w=3840&q=90&fm=webp)
-
-[Advancing the price-performance frontier with GPT‑5.6ProductJul 30, 2026](</index/advancing-the-price-performance-frontier-with-gpt-5-6/>)
-
 ## Stories
 
 [View all](</stories/>)
@@ -98,17 +98,17 @@ Message ChatGPT
 
 [View all](</research/index/>)
 
+![Navier–Stokes solution — art card](https://images.ctfassets.net/kftzwdyauwt9/2VUQZfeF2GtKRitKYdkoLu/cc96d05424afb2c9adcca0734ecdafb1/navier-stokes-art-card.png?w=3840&q=90&fm=webp)
+
+[An OpenAI model proposes a solution to the Navier–Stokes problemResearchSep 8, 2026](</index/navier-stokes-solution/>)
+
+![Research acceleration: The view inside OpenAI > Cover image](https://images.ctfassets.net/kftzwdyauwt9/5kS3OG1Jfdja5xLmYcRwgr/f53b9dfe985df5969aff5dc41f2d1934/Art_Card__7_.png?w=3840&q=90&fm=webp)
+
+[Research acceleration: The view inside OpenAIResearchSep 6, 2026](</index/research-acceleration-view-inside-openai/>)
+
 ![math-breakthroughs art-card 1x1](https://images.ctfassets.net/kftzwdyauwt9/2zkd5RIOug4FcEj62mdSF4/3ea9e19c0456289c69f0d839cc929cb2/math-breakthroughs_art-card_1x1.png?w=3840&q=90&fm=webp)
 
 [Ten advances in mathematics and theoretical computer sciencePublicationAug 1, 2026](</index/ten-advances-in-mathematics/>)
-
-![Geometry > ArtCard > Polynomial Construction](https://images.ctfassets.net/kftzwdyauwt9/6PqehRMmS1oVuin6e3VWYq/b96f1c7b5a2ac2c08a887591b8486ed3/ArtCard-Polynomial-Construction.png?w=3840&q=90&fm=webp)
-
-[An OpenAI model has disproved a central conjecture in discrete geometryResearchMay 20, 2026](</index/model-disproves-discrete-geometry-conjecture/>)
-
-![OAI GPT-Rosaling Art Card 1x1](https://images.ctfassets.net/kftzwdyauwt9/6DOv5mMIaI2sbsgdDbeiiY/d2d071aac3555468336b870cfeb9736e/OAI_GPT-Rosaling_Art_Card_1x1.png?w=3840&q=90&fm=webp)
-
-[Introducing GPT-Rosalind for life sciences researchResearchApr 16, 2026](</index/introducing-gpt-rosalind/>)
 
 ## OpenAI for business
 

@@ -26,8 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-[API](</stories/api/>)
-
 # Rakuten pairs data with AI to unlock customer insights and value
 
 ![A white Rakuten logo superimposed on a red background.](https://images.ctfassets.net/kftzwdyauwt9/2dpPH8h8jrBYrXYpujHykN/2bb8f2b6ad281701a79a5373e60a0ce7/Rakuten.jpg?w=3840&q=90&fm=webp)
@@ -88,6 +86,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)

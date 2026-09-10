@@ -35,15 +35,13 @@ Plugins bring context from your tools and data into ChatGPT and the API, helping
 #### Explore available plugins
 
   * All
-  * Collaboration
-  * File Sharing
-  * Project Management
-  * Go-to-Market
-  * Data
-  * Developer Tools
-  * Design
-  * Finance
   * Small Business
+  * Productivity
+  * Engineering & IT
+  * Data & Research
+  * Design & Creative
+  * Finance
+  * Sales & Commerce
 
 
 

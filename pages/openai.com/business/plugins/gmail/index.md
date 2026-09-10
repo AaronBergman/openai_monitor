@@ -32,9 +32,9 @@ Find and reference emails from your inbox.
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_1p_95d39881713c8191931482a62d6edff9>)[Contact sales](</contact-sales/>)
 
-[@Gmail Summarize inbox, draft replies, or process email threads(opens in a new window)](<https://chatgpt.com/?prompt=%40Gmail+Summarize+inbox%2C+draft+replies%2C+or+process+email+threads>)
+[@Gmail Summarize the last 5 messages in [subject line] and capture decisions, open questions, and what I should follow up on next(opens in a new window)](<https://chatgpt.com/?prompt=%40Gmail+Summarize+the+last+5+messages+in+%5Bsubject+line%5D+and+capture+decisions%2C+open+questions%2C+and+what+I+should+follow+up+on+next>)[@Gmail Draft a polite, firm reply to our auditor's latest email, with a short bullet list of exactly what we'll provide(opens in a new window)](<https://chatgpt.com/?prompt=%40Gmail+Draft+a+polite%2C+firm+reply+to+our+auditor%27s+latest+email%2C+with+a+short+bullet+list+of+exactly+what+we%27ll+provide>)[@Gmail Turn my latest customer escalation thread into an action tracker with owners, deadlines, and an email reference for each item(opens in a new window)](<https://chatgpt.com/?prompt=%40Gmail+Turn+my+latest+customer+escalation+thread+into+an+action+tracker+with+owners%2C+deadlines%2C+and+an+email+reference+for+each+item>)
 
-Use case: [Collaboration](</business/plugins/?tab=apps-collaboration>)
+Use case: [Productivity](</business/plugins/?tab=plugins-productivity>)
 
 Made by: OpenAI
 
@@ -64,11 +64,11 @@ Summarize decisions and next steps
 
 Draft an email reply with deliverables
 
-**@Gmail** Draft a reply to the latest email from our auditor that is polite, firm, and specific, and includes a short bullet list of what we will provide.
+**@Gmail** Turn my latest customer escalation thread into an action tracker with owners, deadlines, and the exact email reference for each item.
 
 Create action plan from emails
 
-**@Gmail** Turn my latest customer escalation thread into an action tracker with owners, deadlines, and the exact email reference for each item.
+**@Gmail** Review recent emails and identify the five conversations needing attention today. Explain urgency, upcoming deadlines, and customer or stakeholder risks, with a link to each thread.
 
 ## Resources
 
@@ -94,6 +94,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)

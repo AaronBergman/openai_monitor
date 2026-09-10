@@ -32,9 +32,9 @@ Ask governed analytics questions of Snowflake data.
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/Plugin_2af00ca970e88191b55798e3995f2aa3>)[Contact sales](</contact-sales/>)
 
-[@Snowflake Inspect Snowflake databases, schemas, tables, warehouses, SQL statements, Cortex Search resources, managed MCP servers, and customer-defined MCP tools(opens in a new window)](<https://chatgpt.com/?prompt=%40Snowflake+Inspect+Snowflake+databases%2C+schemas%2C+tables%2C+warehouses%2C+SQL+statements%2C+Cortex+Search+resources%2C+managed+MCP+servers%2C+and+customer-defined+MCP+tools>)
+[@Snowflake Using the revenue tables I can access, answer this question and show the SQL you used: [question](opens in a new window)](<https://chatgpt.com/?prompt=%40Snowflake+Using+the+revenue+tables+I+can+access%2C+answer+this+question+and+show+the+SQL+you+used%3A+%5Bquestion%5D>)[@Snowflake Review this SQL for correctness, explain what it calculates, and suggest a cleaner version if the logic can be simplified(opens in a new window)](<https://chatgpt.com/?prompt=%40Snowflake+Review+this+SQL+for+correctness%2C+explain+what+it+calculates%2C+and+suggest+a+cleaner+version+if+the+logic+can+be+simplified>)[@Snowflake Summarize the latest query results for leadership with key drivers, caveats, and 3 follow-up analyses to run next(opens in a new window)](<https://chatgpt.com/?prompt=%40Snowflake+Summarize+the+latest+query+results+for+leadership+with+key+drivers%2C+caveats%2C+and+3+follow-up+analyses+to+run+next>)
 
-Use case: [Data](</business/plugins/?tab=apps-data>)
+Use case: [Data & Research](</business/plugins/?tab=plugins-data-research>)
 
 Made by: OpenAI
 
@@ -94,6 +94,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)

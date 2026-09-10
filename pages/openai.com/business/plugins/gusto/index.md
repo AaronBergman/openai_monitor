@@ -44,7 +44,7 @@ Ask payroll, benefits, and HR questions using your Gusto data.
 
 ![@Gusto all clear, let's submit](https://files.openai.com/content?id=file_00000000fca871f6b6d99f29e8c06b3e&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=1&sig=16fbfeb04d177915e82add568199002855c8afa8155bc87b0efa5dfad706577c)
 
-Use case: [Finance](</business/plugins/?tab=apps-finance>) and [Small Business](</business/plugins/?tab=apps-small-business>)
+Use case: [Productivity](</business/plugins/?tab=plugins-productivity>), [Finance](</business/plugins/?tab=plugins-finance>), and [Small Business](</business/plugins/?tab=plugins-small-business>)
 
 Made by: Gusto
 
@@ -74,11 +74,11 @@ Review pay change and flag risks
 
 Compare labor costs and highlight differences
 
-**@Gusto** Compare overtime costs by department for the last quarter and highlight where it spiked and why.
+**@Gusto** Show headcount changes over the last 6 months and estimate the monthly payroll cost impact.
 
 Review headcount trends and flag risks
 
-**@Gusto** Show headcount changes over the last 6 months and estimate the monthly payroll cost impact.
+**@Gusto** Compare overtime costs by department for the last quarter and highlight where it spiked and why.
 
 ## Resources
 

@@ -44,7 +44,7 @@ Find and access your stored files.
 
 ![@Dropbox can you generate a Dropbox shareable link for this PDF?](https://files.openai.com/content?id=file_00000000a94871f7a6609943bf709fcf&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=1&sig=7b6b92aeb2e0d65e6d0341b8099d072c2515ff43554859aea46d988cafd51989&v=0)
 
-Use case: [File Sharing](</business/plugins/?tab=apps-file-sharing>) and [Small Business](</business/plugins/?tab=apps-small-business>)
+Use case: [Productivity](</business/plugins/?tab=plugins-productivity>) and [Small Business](</business/plugins/?tab=plugins-small-business>)
 
 Made by: Dropbox
 
@@ -78,7 +78,7 @@ Identify key risks and mitigation actions
 
 Summarize differences across document versions
 
-**@Dropbox** Find the most recent versions of this document and summarize what changed, highlighting key differences, additions, and removals, and their impact.
+**@Dropbox** Find where the [client] contract states the renewal notice period. Quote the relevant passage and include the document link so our account team can verify it.
 
 ## Resources
 

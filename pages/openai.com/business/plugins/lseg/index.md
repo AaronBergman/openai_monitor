@@ -44,7 +44,7 @@ Access LSEG financial data for pricing and market analysis.
 
 ![@LSEG Get daily price summaries for JPMorgan stock for last month](https://files.openai.com/content?id=file_00000000c7887208a3ae8ad02bcb1515&cdn=1&cp=pi&ma=31190400&ts=0&p=pi&cid=8&sig=50c125e6cdc7c63dc1ac5710b6bd9bde2b81d73f0a7e456a050fcdc47c368bf3&v=0)
 
-Use case: [Data](</business/plugins/?tab=apps-data>)
+Use case: [Finance](</business/plugins/?tab=plugins-finance>) and [Data & Research](</business/plugins/?tab=plugins-data-research>)
 
 Made by: LSEG Engineering
 
@@ -74,7 +74,7 @@ Summarize market brief with key takeaways
 
 Summarize work with key takeaways
 
-**@LSEG** Find the most recent earnings transcript for Microsoft and summarize the top 10 investor relevant takeaways.
+**@LSEG** Pull the latest inflation indicators and rate curves for the US and euro area, then summarize the differences our treasury team should review.
 
 Create market brief with key details
 
@@ -104,6 +104,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)

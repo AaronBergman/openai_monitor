@@ -40,7 +40,7 @@ Find and create figures
 
 ![@BioRender Find existing figures or templates about T cell activation and the immune synapse.](https://files.openai.com/content?id=file_0000000005a081f7b65f07edeee8d5ff&cdn=1&cp=pi&ma=30672000&ts=0&p=pi&cid=8&sig=d02dc1eaa96c9e6a7a809743ad21a0717a5b211edc0df35d9a6d8236a6bd1768&v=0)
 
-Use case: [Data](</business/plugins/?tab=apps-data>)
+Use case: [Design & Creative](</business/plugins/?tab=plugins-design-creative>)
 
 Made by: BioRender
 
@@ -74,7 +74,7 @@ Review graphical abstract and flag risks
 
 Create submission checklist with key details
 
-**@BioRender** Give me a journal submission checklist for figures so my BioRender exports meet typical publication requirements.
+**@BioRender** Find existing figures or templates about T cell activation and the immune synapse.
 
 ## Resources
 

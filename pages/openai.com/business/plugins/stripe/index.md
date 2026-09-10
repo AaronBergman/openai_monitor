@@ -34,7 +34,7 @@ Manage your business and develop your payments integration.
 
 [@Stripe Show me the list of my customers(opens in a new window)](<https://chatgpt.com/?prompt=%40Stripe+Show+me+the+list+of+my+customers>)[@Stripe Show me what products I have(opens in a new window)](<https://chatgpt.com/?prompt=%40Stripe+Show+me+what+products+I+have>)[@Stripe Tell me the prices I have created(opens in a new window)](<https://chatgpt.com/?prompt=%40Stripe+Tell+me+the+prices+I+have+created>)
 
-Use case: [Finance](</business/plugins/?tab=apps-finance>) and [Small Business](</business/plugins/?tab=apps-small-business>)
+Use case: [Finance](</business/plugins/?tab=plugins-finance>) and [Small Business](</business/plugins/?tab=plugins-small-business>)
 
 Made by: Stripe
 
@@ -60,15 +60,15 @@ Search Stripe docs for the appropriate flow—like Checkout, Elements, or Billin
 
 Ask strategic revenue questions
 
-**@Stripe** Why did revenue change week over week in the last 8 weeks? Break it down by new subscriptions, expansions, churn, refunds, and disputes.
+**@Stripe** List disputed charges and draft customer friendly responses for the 5 highest value disputes.
 
 Draft customer responses
 
-**@Stripe** List disputed charges and draft customer friendly responses for the 5 highest value disputes.
+**@Stripe** Identify subscriptions that canceled within 60 days of starting and summarize common patterns we can act on.
 
 Analyze and summarize past trends
 
-**@Stripe** Identify subscriptions that canceled within 60 days of starting and summarize common patterns we can act on.
+**@Stripe** Using these Checkout and Billing docs, outline the steps and implementation checks for adding recurring subscriptions to our product.
 
 ## Resources
 

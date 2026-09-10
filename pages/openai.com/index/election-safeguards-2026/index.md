@@ -32,11 +32,31 @@ May 27, 2026
 
 # Election information and safeguards in 2026
 
-Ahead of global elections, we’re helping people access information, supporting cyber defenders, and increasing AI transparency
+Ahead of global elections, we’re helping people access information, supporting cyber defenders, and increasing AI transparency.
 
 Loading…
 
 Share
+
+Surfacing reliable information
+
+  * Surfacing reliable information
+  * Supporting cyber infrastructure defenders
+  * Increasing transparency 
+  * Combatting misuse 
+  * Monitoring political bias in our models 
+  * Learning while we do our part
+
+
+
+  * Surfacing reliable information
+  * Supporting cyber infrastructure defenders
+  * Increasing transparency 
+  * Combatting misuse 
+  * Monitoring political bias in our models 
+  * Learning while we do our part
+
+
 
 2026 is the world’s second major election year since generative AI became widely available, and we’re continuing to build on the foundation we laid in 2024 to help protect elections in countries and territories around the world. 
 
@@ -50,7 +70,7 @@ Our focus is to build and responsibly deploy groundbreaking products in ways tha
 
 
 
-**Surfacing reliable information**
+## Surfacing reliable information
 
 People already use ChatGPT to ask practical questions in their preferred languages about civic events: how to register, where to vote, what deadlines apply, what’s happening with a developing news event, or where to find official election results.
 
@@ -58,13 +78,13 @@ Building on our efforts in 2024, we are working with partners to direct people t
 
 Since 2024, we have continued to improve the quality of information people get when they ask ChatGPT about election topics and breaking news. ChatGPT can search the web to provide stronger answers with source links so people can go deeper.
 
-**Supporting cyber infrastructure defenders**
+## Supporting cyber infrastructure defenders
 
-This is an important moment for cyber defenders across industries, and we believe AI plays a critical role in hardening digital infrastructure — including systems that support elections. OpenAI is committed to building resilience across the infrastructure stack, including in ways that support election execution. 
+This is an important moment for cyber defenders across industries, and we believe AI plays a critical role in hardening digital infrastructure—including systems that support elections. OpenAI is committed to building resilience across the infrastructure stack, including in ways that support election execution. 
 
 We recently announced [_Daybreak_ ⁠](<https://openai.com/daybreak/>), our effort to change the way software is built and defended. Daybreak includes a number of programs intended to make software safer and more resilient, including Codex Security, which automatically identifies, validates, and helps remediate vulnerabilities in developers code. For more advanced defense, our [_Trusted Access for Cyber_ ⁠](<https://openai.com/index/scaling-trusted-access-for-cyber-defense/>)(TAC) program provides verified individuals access to frontier models for cyber defense. We have offered Codex Security as well as TAC access to [_registered voting system manufacturers_ ⁠(opens in a new window)](<https://www.eac.gov/voting-equipment/registered-manufacturers>) in the US, and we are engaging the National Association of Secretaries of State (NASS) and the National Association of State Election Directors (NASED) to ensure state election authorities are briefed on the latest cyber capabilities and our tools for defenders. 
 
-**Increasing transparency**
+## Increasing transparency 
 
 People are increasingly using AI tools to create content they then share on social media, messaging apps, and the web. To help combat misleading “deepfakes”, we are investing in a multi-layered provenance approach that will equip people to verify whether content they’re seeing has been created or modified with AI. 
 
@@ -81,7 +101,7 @@ And we are excited to support legislation that would advance transparency:
 
 
 
-**Combatting misuse**
+## Combatting misuse 
 
 OpenAI will continue to do our part to combat election interference. We enforce [_Usage Policies_ ⁠](<https://openai.com/policies/usage-policies/>) prohibiting users from deploying our tools for election interference, demobilization, or deception about the origin of AI-generated content. 
 
@@ -93,33 +113,41 @@ While the public, policymakers, campaigns, and companies work to develop norms f
 
 AI tools offer real opportunities for people to engage others in new ways that expand and deepen civic communities by expanding access across languages, education-levels, and backgrounds. We believe it’s important that people can use AI systems to learn about, explore, and discuss political issues, and we will continue to enable that, while avoiding misuse by bad actors. 
 
-Consistent with our rules against using our services for scaled campaign advocacy, we will not allow advertisers to run political ads on our platform this cycle. You can read more about [_how we are approaching advertising on ChatGPT._ ⁠](<https://openai.com/index/our-approach-to-advertising-and-expanding-access/>)
+Consistent with our rules against using our services for scaled campaign advocacy, we will not allow advertisers to run political ads on our platform this cycle. You can read more about [_how we are approaching advertising on ChatGPT_ ⁠](<https://openai.com/index/our-approach-to-advertising-and-expanding-access/>).
 
-**Monitoring political bias in our models**
+## Monitoring political bias in our models 
 
 We know people come to ChatGPT for more than election logistics. They use ChatGPT to explore ideas, test arguments, and gain more understanding of issues they care about. That’s why we’re committed to combatting political bias in the way ChatGPT responds to questions. 
 
-Our Model Spec principle [_Seeking the Truth Together_ ⁠(opens in a new window)](<https://model-spec.openai.com/2025-12-18.html#seek_truth>) outlines our commitment to keeping ChatGPT objective by default, with the user in control, including when users engage in political conversations. ChatGPT is a tool for people to engage with big ideas and develop their own perspective on issues. So the model is designed to avoid behavior that would manipulate a user or to conceal relevant facts or viewpoints to nudge them in a particular direction. Last fall, [_we announced_ ⁠](<https://openai.com/index/defining-and-evaluating-political-bias-in-llms/>)a new political bias evaluation we use to test our models’ ability to remain objective. This important work has made OpenAI a leader in political bias evaluations that test how models respond to political topics.
+Our Model Spec principle [_Seeking the Truth Together_ ⁠(opens in a new window)](<https://model-spec.openai.com/2025-12-18.html#seek_truth>) outlines our commitment to keeping ChatGPT objective by default, with the user in control, including when users engage in political conversations. ChatGPT is a tool for people to engage with big ideas and develop their own perspective on issues. So the model is designed to avoid behavior that would manipulate a user or to conceal relevant facts or viewpoints to nudge them in a particular direction. Last fall, [_we announced_ ⁠](<https://openai.com/index/defining-and-evaluating-political-bias-in-llms/>) a new political bias evaluation we use to test our models’ ability to remain objective. This important work has made OpenAI a leader in political bias evaluations that test how models respond to political topics.
 
-**Learning while we do our part**
+## Learning while we do our part
 
-We will continue to learn from partners, update our safeguards, and adapt. Our goal is to support people’s ability to participate freely in elections and make their own decisions — with reliable information, transparency, and effective safeguards. We look forward to deepening the ways we can support our users, civil society, and voters as they participate in elections this year and beyond. 
+We will continue to learn from partners, update our safeguards, and adapt. Our goal is to support people’s ability to participate freely in elections and make their own decisions—with reliable information, transparency, and effective safeguards. We look forward to deepening the ways we can support our users, civil society, and voters as they participate in elections this year and beyond. 
+
+  * [2026](</news/?tags=2026>)
+
+
+
+## Author
+
+OpenAI
 
 ## Keep reading
 
 [View all](</news/>)
 
+![The AI Policy Window Is Open. We Need to Act. — card](https://images.ctfassets.net/kftzwdyauwt9/1h2LJdMeZWvaobm9wZl7T0/3cc15e97034f5375e78cd90163eed6a5/ai-policy-window-card.png?w=3840&q=90&fm=webp)
+
+[The AI policy window is open. We need to act.Global AffairsSep 9, 2026](</index/ai-policy-window/>)
+
+![Supporting independent journalism in Ukraine — card image](https://images.ctfassets.net/kftzwdyauwt9/3wATLIxaR9ch8uwHbmLURE/b43c566703960e61d4159760ed8a3c2b/supporting-independent-journalism-in-ukraine-cover-option-029.png?w=3840&q=90&fm=webp)
+
+[Supporting independent journalism in UkraineGlobal AffairsSep 7, 2026](</index/supporting-independent-journalism-in-ukraine/>)
+
 ![DMUA Russia > card image ](https://images.ctfassets.net/kftzwdyauwt9/ciRSLFnJsNyxXYQjdoyqu/ff8ab22ad273ff79a4c9840f0c209fe6/Frame.png?w=3840&q=90&fm=webp)
 
 [Disrupting a new covert influence campaign from RussiaGlobal AffairsAug 25, 2026](</index/disrupting-malicious-uses-of-ai-influence-campaign-russia/>)
-
-![Strengthening Democratic Oversight in National Security — card image](https://images.ctfassets.net/kftzwdyauwt9/1qebg0OnHIh4dqr84zXR3Q/dba2f0e83ba4615a71894fd7fd1656e1/openai-democratic-oversight-page-cover-v002.png?w=3840&q=90&fm=webp)
-
-[Strengthening Democratic Oversight in National SecurityGlobal AffairsAug 18, 2026](</index/strengthening-democratic-oversight-in-national-security/>)
-
-![OpenAI joins PORTS-Pike project, expanding community investment and supporting thousands of Southern Ohio jobs — card image](https://images.ctfassets.net/kftzwdyauwt9/6RUPcXx0eTGghDpM851Qy1/ab11d2d0849ad9544249bf7b77ee46fe/openai-joins-ports-pike-project-cover-v001.png?w=3840&q=90&fm=webp)
-
-[OpenAI joins PORTS-Pike projectGlobal AffairsAug 17, 2026](</index/openai-joins-ports-pike-project/>)
 
 Research
 
@@ -131,6 +159,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)

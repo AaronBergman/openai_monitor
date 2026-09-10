@@ -32,9 +32,9 @@ Access repositories, issues, and pull requests.
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_1p_1a69035c238881919c4190932b2df699>)[Contact sales](</contact-sales/>)
 
-[@GitHub Inspect PRs, triage issues, debug failing checks, and prepare code changes for review(opens in a new window)](<https://chatgpt.com/?prompt=%40GitHub+Inspect+PRs%2C+triage+issues%2C+debug+failing+checks%2C+and+prepare+code+changes+for+review>)
+[@GitHub Explain this repo's authentication using code and docs: components, request flow, and how credentials and tokens are handled(opens in a new window)](<https://chatgpt.com/?prompt=%40GitHub+Explain+this+repo%27s+authentication+using+code+and+docs%3A+components%2C+request+flow%2C+and+how+credentials+and+tokens+are+handled>)[@GitHub Summarize this pull request like a senior reviewer: what changed, what could break, and what tests are missing or weak(opens in a new window)](<https://chatgpt.com/?prompt=%40GitHub+Summarize+this+pull+request+like+a+senior+reviewer%3A+what+changed%2C+what+could+break%2C+and+what+tests+are+missing+or+weak>)[@GitHub Turn the last 7 days of commits and merged PRs into a stakeholder update: shipped work, risks, and next steps(opens in a new window)](<https://chatgpt.com/?prompt=%40GitHub+Turn+the+last+7+days+of+commits+and+merged+PRs+into+a+stakeholder+update%3A+shipped+work%2C+risks%2C+and+next+steps>)
 
-Use case: [Developer Tools](</business/plugins/?tab=apps-developer-tools>)
+Use case: [Engineering & IT](</business/plugins/?tab=plugins-engineering-it>) and [Data & Research](</business/plugins/?tab=plugins-data-research>)
 
 Made by: OpenAI
 
@@ -94,6 +94,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)

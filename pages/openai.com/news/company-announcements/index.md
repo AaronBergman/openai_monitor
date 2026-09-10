@@ -52,11 +52,11 @@ Switch cards to show Media
 
 Switch cards to hide Media
 
-![Hero 16x9](https://images.ctfassets.net/kftzwdyauwt9/5VQB7Gg4znBo0Td1c8DRZj/13c382ad9dee8df708eab9e3e5c96ab3/Hero_16x9.png?w=3840&q=50&fm=webp)
+![astra 16x9 poster](https://images.ctfassets.net/kftzwdyauwt9/6aziMFlkfqPiaNdkZujHdo/74adba940d8bc2c3d9f7e500c71298ab/astra_16x9_poster.png?w=3840&q=50&fm=webp)
 
 [GPT-6 Astra: A new generation of intelligenceResearch28 min read](</index/gpt-6-astra/>)
 
-![Hero 16x9](https://images.ctfassets.net/kftzwdyauwt9/5VQB7Gg4znBo0Td1c8DRZj/13c382ad9dee8df708eab9e3e5c96ab3/Hero_16x9.png?w=3840&q=50&fm=webp)
+![astra 16x9 poster](https://images.ctfassets.net/kftzwdyauwt9/6aziMFlkfqPiaNdkZujHdo/74adba940d8bc2c3d9f7e500c71298ab/astra_16x9_poster.png?w=3840&q=50&fm=webp)
 
 [GPT-6 Astra: A new generation of intelligenceResearch28 min read](</index/gpt-6-astra/>)
 
@@ -70,7 +70,7 @@ Switch cards to hide Media
 
 [Expanding Daybreak as the Cyber Defense Window NarrowsSecurityAug 10, 2026](</index/expanding-daybreak-as-the-cyber-defense-window-narrows/>)
 
-![Hero 16x9](https://images.ctfassets.net/kftzwdyauwt9/5VQB7Gg4znBo0Td1c8DRZj/13c382ad9dee8df708eab9e3e5c96ab3/Hero_16x9.png?w=3840&q=50&fm=webp)
+![astra 16x9 poster](https://images.ctfassets.net/kftzwdyauwt9/6aziMFlkfqPiaNdkZujHdo/74adba940d8bc2c3d9f7e500c71298ab/astra_16x9_poster.png?w=3840&q=50&fm=webp)
 
 [GPT-6 Astra: A new generation of intelligenceResearchSep 3, 202628 min read](</index/gpt-6-astra/>)
 
@@ -83,6 +83,10 @@ Switch cards to hide Media
 ![GPT-Daybreak > Cover](https://images.ctfassets.net/kftzwdyauwt9/2iqsbTTLvgMNteNampw3gW/a38ed04432ee5548c4aec6c7b7a506f2/1x1_Art_Card.png?w=3840&q=90&fm=webp)
 
 [Expanding Daybreak as the Cyber Defense Window NarrowsSecurityAug 10, 2026](</index/expanding-daybreak-as-the-cyber-defense-window-narrows/>)
+
+![Paul Christiano joins OpenAI Foundation Board — card](https://images.ctfassets.net/kftzwdyauwt9/4PcDbhz75I70TjyGat7oHl/598dd1e865018860c3591cb95c9bc72e/paul-christiano-joins-openai-foundation-board--cover-v001.png?w=3840&q=90&fm=webp)
+
+[Paul Christiano joins OpenAI Foundation BoardCompanySep 9, 2026](</index/paul-christiano-joins-openai-foundation-board/>)
 
 ![The Work Now Within Reach — clean cover](https://images.ctfassets.net/kftzwdyauwt9/5iHLTPM4ZhKe4dAwOPfpy2/347b9d804542685bb13dbb63e985d91e/c3f562e2b08a0bfc.png?w=3840&q=90&fm=webp)
 
@@ -115,10 +119,6 @@ Switch cards to hide Media
 ![The full stack behind abundant intelligence > Cover image](https://images.ctfassets.net/kftzwdyauwt9/4nRoI5iOfeV7qh4O3eAIEB/400545de8860b3c757548f2e3cd275fb/index-full-stack-behind-abundant-intelligence--cover-v001.png?w=3840&q=90&fm=webp)
 
 [The full stack behind abundant intelligenceCompanyAug 25, 2026](</index/the-full-stack-behind-abundant-intelligence/>)
-
-![Jalapeño inference — Art Card](https://images.ctfassets.net/kftzwdyauwt9/26K8mLbrpbaDvoFY0NrE04/8e4ad0b3f28042c22d6d5130bd4f4019/jalapeno-art-card.png?w=3840&q=90&fm=webp)
-
-[Jalapeño’s first results show industry-leading speed and efficiency in AI inferenceEngineeringAug 25, 2026](</index/jalapeno-first-results/>)
 
 Load more
 

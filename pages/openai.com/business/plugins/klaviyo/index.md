@@ -1,28 +1,28 @@
 Skip to main content
 
-[](</>)
+[](</>)[](</business/>)
 
-  * [Research](</research/index/>)
+  * Why OpenAI
   * Products
-  * [Business](</business/>)
-  * [Developers](</api/>)
-  * [Company](</about/>)
-  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
+  * Solutions
+  * Resources
+  * [Customers](</business/customer-stories/>)
+  * [Pricing](</business/pricing/>)
 
 
 
-Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
+Try OpenAI[Contact sales](</contact-sales/>)
 
-  * Research
+  * Why OpenAI
   * Products
-  * Business
-  * Developers
-  * Company
-  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
+  * Solutions
+  * Resources
+  * [Customers](</business/customer-stories/>)
+  * [Pricing](</business/pricing/>)
 
 
 
-[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)Login
+[Contact sales](</contact-sales/>)Try OpenAI
 
 OpenAI[View all plugins](</business/plugins/>)
 
@@ -34,7 +34,7 @@ Get marketing performance insights.
 
 [@Klaviyo Analyze my replenishment flow and make recommendations for improvements.(opens in a new window)](<https://chatgpt.com/?prompt=%40Klaviyo+Analyze+my+replenishment+flow+and+make+recommendations+for+improvements.>)[@Klaviyo Deep dive report on customer winback, outline what is working well and what needs my attention and why.(opens in a new window)](<https://chatgpt.com/?prompt=%40Klaviyo+Deep+dive+report+on+customer+winback%2C+outline+what+is+working+well+and+what+needs+my+attention+and+why.>)[@Klaviyo Give me a campaign performance report for last week [add dates] across all of my campaigns; overall metrics and per campaign.(opens in a new window)](<https://chatgpt.com/?prompt=%40Klaviyo+Give+me+a+campaign+performance+report+for+last+week+%5Badd+dates%5D+across+all+of+my+campaigns%3B+overall+metrics+and+per+campaign.>)
 
-Use case: [Go-to-Market](</business/plugins/?tab=apps-go-to-market>)
+Use case: [Productivity](</business/plugins/?tab=plugins-productivity>) and [Marketing](</business/plugins/?tab=plugins-marketing>)
 
 Made by: Klaviyo
 
@@ -60,15 +60,15 @@ Receive plain-language summaries and detailed readouts of campaign or flow perfo
 
 Summarize message performance with key takeaways
 
-**@Klaviyo** Summarize email and SMS performance for the last 30 days and call out the biggest wins and misses.
+**@Klaviyo** Give me a campaign performance report for last week [add dates] across all of my campaigns; overall metrics and per campaign.
 
 Plan campaigns for audience segments
 
-**@Klaviyo** Which segments generated the most revenue last month and what campaigns should we run for each segment next?
+**@Klaviyo** Compare email and SMS campaigns for the last 30 days with the previous 30 days. Separate results by channel and show available engagement metrics, conversion rates, and attributed revenue.
 
 Create campaign calendar with next steps
 
-**@Klaviyo** Build a 4-week campaign calendar for a DTC skincare brand including subject lines and audience ideas.
+**@Klaviyo** Summarize email and SMS performance for the last 30 days and call out the biggest wins and misses.
 
 ## Resources
 
@@ -94,6 +94,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)

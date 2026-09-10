@@ -32,9 +32,9 @@ Prepare account work and customer follow-up.
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/Plugin_af5b4b796b588191b3f2c610aa093799>)[Contact sales](</contact-sales/>)
 
-[@Sales What can you do?(opens in a new window)](<https://chatgpt.com/?prompt=%40Sales+What+can+you+do%3F>)[@Sales Prepare me for my next important customer meeting. Give me the context, likely blockers, and questions I should ask.(opens in a new window)](<https://chatgpt.com/?prompt=%40Sales+Prepare+me+for+my+next+important+customer+meeting.+Give+me+the+context%2C+likely+blockers%2C+and+questions+I+should+ask.>)[@Sales Which accounts should I focus on this week? Rank them, explain why, and recommend the next move for each.(opens in a new window)](<https://chatgpt.com/?prompt=%40Sales+Which+accounts+should+I+focus+on+this+week%3F+Rank+them%2C+explain+why%2C+and+recommend+the+next+move+for+each.>)
+[@Sales What can you do?(opens in a new window)](<https://chatgpt.com/?prompt=%40Sales+What+can+you+do%3F>)[@Sales Help me prepare for my upcoming customer meeting(opens in a new window)](<https://chatgpt.com/?prompt=%40Sales+Help+me+prepare+for+my+upcoming+customer+meeting>)[@Sales Build the first version of my seller dashboard(opens in a new window)](<https://chatgpt.com/?prompt=%40Sales+Build+the+first+version+of+my+seller+dashboard>)
 
-Use case: [Go-to-Market](</business/plugins/?tab=apps-go-to-market>)
+Use case: [Productivity](</business/plugins/?tab=plugins-productivity>) and [Sales & Commerce](</business/plugins/?tab=plugins-sales-commerce>)
 
 Made by: OpenAI
 
@@ -94,6 +94,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)

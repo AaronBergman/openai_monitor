@@ -230,6 +230,10 @@ PwC
 
 ![PwC logo](https://images.ctfassets.net/kftzwdyauwt9/5BFMsQmqE7Ua8oJBrFUumf/e4db788c32743ab8458efcd4d47d0030/pwc-square-light.svg?w=3840&q=90)
 
+Quantiphi
+
+![Quantiphi logo](https://images.ctfassets.net/kftzwdyauwt9/6uqWkpm1u8q0azmbBQEidg/b7436cfd2d33eef8cd3d4d8fea9bc187/54pMyV46Iow8eCySnmHtnt?w=3840&q=90&fm=webp)
+
 Quantium
 
 ![Quantium logo](https://images.ctfassets.net/kftzwdyauwt9/68uAUmDV09Nzn5CnJUI33z/4eaf4ae6ec3f20ef27008f139dde8f22/2KSUUrVGm5djFehqRkvTse?w=3840&q=90&fm=webp)
@@ -249,6 +253,10 @@ Samsung
 SB OAI Japan GK
 
 ![SB OAI Japan GK logo](https://images.ctfassets.net/kftzwdyauwt9/4MZKqHpj2E99yZzvHXXkrI/f827fcdc638caccb6303452fec7e28f5/sb-oai-japan-square-light.svg?w=3840&q=90)
+
+SDG Group
+
+![SDG Group logo](https://images.ctfassets.net/kftzwdyauwt9/1bjeD3D6QOSHlzc4K2imie/a18b216756661aad9de902767185c341/5iOd9I4Wu2L9SGOGnDL5xj?w=3840&q=90&fm=webp)
 
 SIA
 
@@ -498,6 +506,10 @@ PwC
 
 ![PwC logo](https://images.ctfassets.net/kftzwdyauwt9/5BFMsQmqE7Ua8oJBrFUumf/e4db788c32743ab8458efcd4d47d0030/pwc-square-light.svg?w=3840&q=90)
 
+Quantiphi
+
+![Quantiphi logo](https://images.ctfassets.net/kftzwdyauwt9/6uqWkpm1u8q0azmbBQEidg/b7436cfd2d33eef8cd3d4d8fea9bc187/54pMyV46Iow8eCySnmHtnt?w=3840&q=90&fm=webp)
+
 Quantium
 
 ![Quantium logo](https://images.ctfassets.net/kftzwdyauwt9/68uAUmDV09Nzn5CnJUI33z/4eaf4ae6ec3f20ef27008f139dde8f22/2KSUUrVGm5djFehqRkvTse?w=3840&q=90&fm=webp)
@@ -517,6 +529,10 @@ Samsung
 SB OAI Japan GK
 
 ![SB OAI Japan GK logo](https://images.ctfassets.net/kftzwdyauwt9/4MZKqHpj2E99yZzvHXXkrI/f827fcdc638caccb6303452fec7e28f5/sb-oai-japan-square-light.svg?w=3840&q=90)
+
+SDG Group
+
+![SDG Group logo](https://images.ctfassets.net/kftzwdyauwt9/1bjeD3D6QOSHlzc4K2imie/a18b216756661aad9de902767185c341/5iOd9I4Wu2L9SGOGnDL5xj?w=3840&q=90&fm=webp)
 
 SIA
 

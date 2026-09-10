@@ -1,5 +1,49 @@
 # openai_monitor
 
+## 2026-09-10T09-17Z
+
+**Fetch time:** 2026-09-10T09:17:18Z–09:20Z UTC | **Baseline:** 2026-09-09T09-16Z (consecutive day)
+
+**TL;DR:** Two things dominate today's snapshot. First, OpenAI quietly renamed and reorganized its business-integrations directory from "Apps" to "Plugins," collapsing eight categories (Collaboration, File Sharing, Project Management, Go-to-Market, Data, Developer Tools, Design, Finance) into six (Productivity, Engineering & IT, Data & Research, Design & Creative, Finance, Sales & Commerce) and adding 25 brand-new plugin listing pages for tools like Snowflake-adjacent data products (ClickHouse, Databricks-neighbor Motherduck, MongoDB, Firebase), BI tools (Power BI, Oracle Analytics, ThoughtSpot), and more. Second, OpenAI Foundation expanded its board of directors, adding AI-alignment researcher **Paul Christiano** (plus David Vélez and Robin Vince) as new independent directors — a governance story confirmed by a matching announcement page and a direct edit to the `/our-structure/` page's board listing. The 80 flagged anomalies this run are all a single, benign category: URLs moving between sub-sitemaps as a mechanical side effect of that Apps→Plugins rename, not suspicious backdating or manipulation. A large share of today's 156 "updated" pages are trivial — a new "GPT-6" link appearing in a shared footer widget after yesterday's GPT-6 Astra launch, or the "Keep reading" related-articles carousel rotating to newer posts — rather than substantive content changes.
+
+### ⚠️ Anomalies — all one story: the Apps → Plugins rename
+
+All 80 anomalies this run are `section_migration` events: pages whose sitemap listing moved from one sub-sitemap to another between yesterday and today. None are suspicious on inspection — they trace to a single coordinated IA change:
+
+- **75 business-integration pages** moved out of the old `apps-*` sub-sitemaps (`apps-data`, `apps-design`, `apps-file-sharing`, `apps-project-management`, `apps-finance`, `apps-go-to-market`, `apps-developer-tools`, `apps-collaboration`, `apps-small-business`) into seven new `plugins-*` sub-sitemaps (`plugins-productivity`, `plugins-design-creative`, `plugins-data-research`, `plugins-finance`, `plugins-engineering-it`, `plugins-sales-commerce`, `plugins-small-business`). This matches a live redesign of [`/business/plugins/`](https://openai.com/business/plugins/) (formerly `/business/apps/`-style tabs), where the filter tabs themselves were renamed from "Collaboration / File Sharing / Project Management / Go-to-Market / Data / Developer Tools / Design / Finance" to "Small Business / Productivity / Engineering & IT / Data & Research / Design & Creative / Finance / Sales & Commerce." Each affected plugin page (Slack, GitHub, Notion, Salesforce, Snowflake, BigQuery, etc.) had its "Use case" tag(s) rewritten to match. The 9 now-defunct `apps-*.xml` sub-sitemap snapshots have been removed from `sitemaps/openai.com/sub/latest/` (they remain in git history and in yesterday's dated snapshot) so they stop polluting future baselines with dead sections.
+- **4 pages** moved from `global-affairs` into a new `global-affairs-news-listed` sub-sitemap (a lighter-weight "news" bucket): `new-economic-analysis`, `equipping-workers-with-insights-about-compensation`, `how-countries-can-end-the-capability-overhang`, `understanding-ai-and-learning-outcomes`.
+- **1 page**, [`/index/rakuten-2024/`](https://openai.com/index/rakuten-2024/), moved from the `api` sub-sitemap into the general `page` sub-sitemap.
+
+No future-dated, backdated, or reappeared-URL anomalies were detected today.
+
+### Notable additions
+
+- **[Paul Christiano joins OpenAI Foundation Board](https://openai.com/index/paul-christiano-joins-openai-foundation-board/)** ([md](pages/openai.com/index/paul-christiano-joins-openai-foundation-board/index.md)) — Paul Christiano, founder of the Alignment Research Center and a former OpenAI alignment lead who helped develop RLHF, joins the Foundation Board as a non-voting observer and joins the Safety and Security Committee. Corroborated by a same-day edit to [`/our-structure/`](https://openai.com/our-structure/), whose board listing also added David Vélez and Robin Vince.
+- **[GPT‑6 Astra: The next generation in intelligence for work](https://openai.com/index/gpt-6-astra-next-generation-work/)** ([md](pages/openai.com/index/gpt-6-astra-next-generation-work/index.md)) — a dedicated business/work-focused landing page for GPT-6 Astra, the model whose initial launch was reported in yesterday's run.
+- **[The AI policy window is open. We need to act.](https://openai.com/index/ai-policy-window/)** ([md](pages/openai.com/index/ai-policy-window/index.md)) — a policy op-ed authored by Chris Lehane, OpenAI's Chief Global Affairs Officer.
+- Three new customer/human-interest stories: **[Accelerating antibiotic discovery with ChatGPT](https://openai.com/index/accelerating-antibiotic-discovery/)** (a researcher fighting antimicrobial resistance), **[Helping a small business go big with ChatGPT](https://openai.com/index/growing-atv-big-air-tour/)** (an ATV stunt-show business), and **[Using ChatGPT to navigate the world and run a nonprofit while blind](https://openai.com/index/two-blind-brothers/)**.
+- **25 new business-plugin listing pages**, part of the Apps→Plugins expansion above: data/BI tools (ClickHouse, dbt, Deepnote, Firebase, Metabase, Microsoft Azure CosmosDB, Power BI, Mixpanel, MongoDB, Motherduck, Omni, Oracle Analytics, PostHog, Redis, VillageSQL), go-to-market/research tools (G2, Similarweb, Alation, Statsig, WisdomAI), analytics (Tableau, ThoughtSpot). See [`/business/plugins/`](https://openai.com/business/plugins/) for the live directory.
+- **[`/business/model/`](https://openai.com/business/model/)** — another GPT-6 Astra-for-work landing page ("The next generation in intelligence for work"), covering computer use, reasoning, writing, and design capabilities for business teams.
+- Two new partner case pages: **[Quantiphi](https://openai.com/business/partners/quantiphi/)** and **[SDG Group](https://openai.com/business/partners/sdg-group/)**.
+
+### Notable updates
+
+- **[1Password customer case study](https://openai.com/index/1password/)** — the headline stat changed from "20.9% productivity improvement" to **"553% Estimated ROI from Codex,"** a different (and much larger-sounding) metric, not a revision of the same number. Worth watching if OpenAI is shifting how it markets Codex ROI claims.
+- **[`/our-structure/`](https://openai.com/our-structure/)** — board of directors list updated to add Paul Christiano, David Vélez, and Robin Vince (see Notable additions above).
+- **[`/collective-cyberdefense/`](https://openai.com/collective-cyberdefense/)** — one signatory ("I Keep It Classic") was quietly removed from the multi-hundred-company open letter list; otherwise unchanged.
+- Roughly **85 business-plugin pages** had their "Use case" tags and/or category labels rewritten as a direct consequence of the Apps→Plugins taxonomy change described above (e.g. Slack, GitHub, Salesforce, Snowflake, BigQuery, Figma, Notion, Zoom, Stripe, Shopify — see `runs/2026-09-10T09-17Z/analysis.md` for the full list); many also had their example `@mention` prompt text lightly copy-edited (capitalization/punctuation).
+- **~37 pages** changed only their `<lastmod>` timestamp with no visible content difference — routine re-touches, not real edits.
+- The remainder of today's ~34 other content diffs are almost all the shared "Latest Advancements" footer widget picking up a new **GPT-6** link (following yesterday's GPT-6 Astra launch) or the "Keep reading" related-articles carousel rotating to newer posts — cosmetic, not substantive.
+
+### Removed pages
+
+None.
+
+_Stats: 1685 total URLs | 31 added | 156 updated | 0 removed | 80 anomalies | 36 sub-sitemaps_
+
+---
+
+
 ## 2026-09-09 — Run `2026-09-09T09-16Z`
 
 **Fetch time:** 2026-09-09T09:16:00–09:17:20Z UTC | **Baseline:** 2026-09-08T09-16Z (consecutive day)

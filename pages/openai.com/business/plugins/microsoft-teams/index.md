@@ -32,9 +32,9 @@ Look up chats and messages.
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_1p_eba8b52fe53881918408d4b46b957644>)[Contact sales](</contact-sales/>)
 
-[@Teams Summarize chat, pull out action items, or draft follow-up(opens in a new window)](<https://chatgpt.com/?prompt=%40Teams+Summarize+chat%2C+pull+out+action+items%2C+or+draft+follow-up>)
+[@Teams Turn this Teams conversation into a clean action list with owners, due dates, and dependencies implied by the discussion(opens in a new window)](<https://chatgpt.com/?prompt=%40Teams+Turn+this+Teams+conversation+into+a+clean+action+list+with+owners%2C+due+dates%2C+and+dependencies+implied+by+the+discussion>)[@Teams Catch me up on the last 100 messages in the main project channel: key context, decisions, and open questions(opens in a new window)](<https://chatgpt.com/?prompt=%40Teams+Catch+me+up+on+the+last+100+messages+in+the+main+project+channel%3A+key+context%2C+decisions%2C+and+open+questions>)[@Teams Pull all links shared in the chat with [vendor] this month and organize them by topic with a one-line description each(opens in a new window)](<https://chatgpt.com/?prompt=%40Teams+Pull+all+links+shared+in+the+chat+with+%5Bvendor%5D+this+month+and+organize+them+by+topic+with+a+one-line+description+each>)
 
-Use case: [Collaboration](</business/plugins/?tab=apps-collaboration>)
+Use case: [Productivity](</business/plugins/?tab=plugins-productivity>) and [Data & Research](</business/plugins/?tab=plugins-data-research>)
 
 Made by: OpenAI
 
@@ -60,7 +60,7 @@ Retrieve relevant messages when questions arise so teams avoid repeated asks, st
 
 Create a to-do list from a conversation
 
-@Microsoft Teams Turn this Teams conversation into a clean action list with owners, due dates, and dependencies implied by the discussion.
+@Microsoft Teams Pull all links shared in the chat with [vendor] this month and organize them by topic with a one-line description each.
 
 Summarize project status for quick alignment
 
@@ -68,7 +68,7 @@ Summarize project status for quick alignment
 
 Highlight insights from a chat
 
-@Microsoft Teams Pull all links shared in the chat with [vendor] this month and organize them by topic with a one-line description each.
+@Microsoft Teams Find the earlier discussion about [project decision] and summarize the answer to [question], with links to the relevant messages so I can share the existing context.
 
 ## Resources
 
@@ -94,6 +94,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)

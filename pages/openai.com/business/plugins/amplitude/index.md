@@ -32,7 +32,7 @@ Search and analyze analytics data.
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_690e2dabf430819196f8b3701ec838ec>)[Contact sales](</contact-sales/>)
 
-Use case: [Data](</business/plugins/?tab=apps-data>)
+Use case: [Productivity](</business/plugins/?tab=plugins-productivity>) and [Data & Research](</business/plugins/?tab=plugins-data-research>)
 
 Made by: Amplitude
 
@@ -62,11 +62,11 @@ Review key product metrics
 
 Plan future experiment iterations
 
-**@Amplitude** Compare experiment variant performance for the last completed test and explain what I should do next.
+**@Amplitude** Write a weekly growth insights note using the biggest movers in activation retention and churn from the last 7 days.
 
 Write a weekly summary
 
-**@Amplitude** Write a weekly growth insights note using the biggest movers in activation retention and churn from the last 7 days.
+**@Amplitude** Compare experiment variant performance for the last completed test and explain what I should do next.
 
 ## Resources
 
@@ -92,6 +92,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)

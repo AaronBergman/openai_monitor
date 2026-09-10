@@ -40,8 +40,6 @@ Company size: Enterprise
 
 Region: Asia-Pacific & Oceania
 
-Industry: Professional Services
-
 Products: ChatGPT, Codex
 
 87%
@@ -152,17 +150,17 @@ More than 1 million businesses around the world are achieving meaningful results
 
 ## Keep reading
 
-![Supporting independent journalism in Ukraine — card image](https://images.ctfassets.net/kftzwdyauwt9/3wATLIxaR9ch8uwHbmLURE/b43c566703960e61d4159760ed8a3c2b/supporting-independent-journalism-in-ukraine-cover-option-029.png?w=3840&q=90&fm=webp)
+![The AI Policy Window Is Open. We Need to Act. — card](https://images.ctfassets.net/kftzwdyauwt9/1h2LJdMeZWvaobm9wZl7T0/3cc15e97034f5375e78cd90163eed6a5/ai-policy-window-card.png?w=3840&q=90&fm=webp)
 
-[Supporting independent journalism in UkraineGlobal AffairsSep 7, 2026](</index/supporting-independent-journalism-in-ukraine/>)
+[The AI policy window is open. We need to act.Global AffairsSep 9, 2026](</index/ai-policy-window/>)
 
-![An alien mind > Listing card](https://images.ctfassets.net/kftzwdyauwt9/7ut3G8rKt5ia4P3yRqi2qN/6ffb429f70548a881eb46a4e7e61498e/Option_120___1080_1080.png?w=3840&q=90&fm=webp)
+![GPT-6 Astra business blog — art card](https://images.ctfassets.net/kftzwdyauwt9/4DiwuhcC2lGuzS8klQkxXh/f1ac95e9bed5621a5b29f054f75db40b/Business_blog_1x1.png?w=3840&q=90&fm=webp)
 
-[An Alien MindSafetySep 6, 2026](</index/an-alien-mind/>)
+[GPT-6 Astra: The next generation in intelligence for workProductSep 9, 2026](</index/gpt-6-astra-next-generation-work/>)
 
-![Research acceleration: The view inside OpenAI > Cover image](https://images.ctfassets.net/kftzwdyauwt9/5kS3OG1Jfdja5xLmYcRwgr/f53b9dfe985df5969aff5dc41f2d1934/Art_Card__7_.png?w=3840&q=90&fm=webp)
+![Paul Christiano joins OpenAI Foundation Board — card](https://images.ctfassets.net/kftzwdyauwt9/4PcDbhz75I70TjyGat7oHl/598dd1e865018860c3591cb95c9bc72e/paul-christiano-joins-openai-foundation-board--cover-v001.png?w=3840&q=90&fm=webp)
 
-[Research acceleration: The view inside OpenAIResearchSep 6, 2026](</index/research-acceleration-view-inside-openai/>)
+[Paul Christiano joins OpenAI Foundation BoardCompanySep 9, 2026](</index/paul-christiano-joins-openai-foundation-board/>)
 
 Research
 

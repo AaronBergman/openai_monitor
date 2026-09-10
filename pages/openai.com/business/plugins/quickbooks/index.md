@@ -34,7 +34,7 @@ Business finances made simple
 
 [@Intuit QuickBooks Show top five industries in California by monthly profit(opens in a new window)](<https://chatgpt.com/?prompt=%40Intuit+QuickBooks+Show+top+five+industries+in+California+by+monthly+profit>)[@Intuit QuickBooks How does my profit compare to top 5 industries in my area(opens in a new window)](<https://chatgpt.com/?prompt=%40Intuit+QuickBooks+How+does+my+profit+compare+to+top+5+industries+in+my+area>)[@Intuit QuickBooks Show me my profit and loss statement from QuickBooks(opens in a new window)](<https://chatgpt.com/?prompt=%40Intuit+QuickBooks+Show+me+my+profit+and+loss+statement+from+QuickBooks>)
 
-Use case: [Finance](</business/plugins/?tab=apps-finance>) and [Small Business](</business/plugins/?tab=apps-small-business>)
+Use case: [Finance](</business/plugins/?tab=plugins-finance>) and [Small Business](</business/plugins/?tab=plugins-small-business>)
 
 Made by: Intuit QuickBooks
 
@@ -44,31 +44,31 @@ Website: [quickbooks.intuit.com(opens in a new window)](<https://quickbooks.intu
 
 Turn your business's raw financial data into clear financial insights. Analyze profitability, cash flow, accounts receivable and payable, and compare your performance against similar businesses in your industry and region. Generate accounting-compliant profit & loss, cash flow statements, balance sheets, and AR/AP aging reports in minutes. Manage invoices, estimates, payments, customers, products, and payroll directly from chat. Upload or paste transactions into the QuickBooks ChatGPT App to analyze personalized results, and view peer loan benchmarks as your business evolves.
 
-### Review business performance
+### Explain profit changes
 
-Generate profit and loss statements, cash flow statements, and balance sheets to understand how your business is performing.
+See which changes in revenue and expenses drove your latest monthly profit.
 
-### Compare industry benchmarks
+### Prioritize overdue invoices
 
-Compare profitability with businesses in your industry and region to put your results in context.
+Identify the overdue balances that deserve attention first.
 
-### Track receivables and payables
+### Benchmark business performance
 
-Review aging reports to see what customers owe and what your business needs to pay.
+Compare your profitability with similar businesses in your industry and region.
 
 ## Sample prompts
 
 Review quarterly profit and loss
 
-Show my profit and loss statement for last quarter, with total income, expenses, and net profit.
+**@Intuit QuickBooks** Generate last month's profit and loss statement, compare it with the prior month, and explain the three largest drivers of the change in net profit.
 
 Compare profitability
 
-Compare my business's profitability with similar businesses in my industry and region, and summarize the main differences.
+**@Intuit QuickBooks** Review my open invoices, identify overdue balances, and rank the five customers to follow up with first by amount owed and days overdue.
 
 Review receivables and payables
 
-Show my accounts receivable and payable aging reports, with outstanding amounts grouped by how long they have been overdue.
+**@Intuit QuickBooks** Compare my business's profitability with available benchmarks for similar businesses in my industry and region. Highlight the biggest gaps and explain which comparisons are most useful.
 
 ## Resources
 

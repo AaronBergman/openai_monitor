@@ -153,17 +153,17 @@ Toward next-generation public infrastructure where governments, companies, and c
 
 ## Keep reading
 
-![ATV Big Air Tour card and hero image](https://images.ctfassets.net/kftzwdyauwt9/4iU7b7GIMgwR1T5k2Q7Wy5/ba1e283600652676745fc9fb33832f32/A-square.png?w=3840&q=90&fm=webp)
+![The AI Policy Window Is Open. We Need to Act. — card](https://images.ctfassets.net/kftzwdyauwt9/1h2LJdMeZWvaobm9wZl7T0/3cc15e97034f5375e78cd90163eed6a5/ai-policy-window-card.png?w=3840&q=90&fm=webp)
 
-[ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPTSep 2, 2026](</index/atv-big-air-tour/>)
+[The AI policy window is open. We need to act.Global AffairsSep 9, 2026](</index/ai-policy-window/>)
 
-![How AI-native companies turn workflows into operating capability — card image](https://images.ctfassets.net/kftzwdyauwt9/mSi6hls2IXr3ax2lH8vTj/5a364b116ec5584ec7415feb4c1a7033/index-how-ai-native-companies-turn-workflows-into-operating-capability--cover-v001.png?w=3840&q=90&fm=webp)
+![GPT-6 Astra business blog — art card](https://images.ctfassets.net/kftzwdyauwt9/4DiwuhcC2lGuzS8klQkxXh/f1ac95e9bed5621a5b29f054f75db40b/Business_blog_1x1.png?w=3840&q=90&fm=webp)
 
-[How AI-native companies turn workflows into operating capabilityAI AdoptionSep 1, 2026](</index/ai-native-company-workflows/>)
+[GPT-6 Astra: The next generation in intelligence for workProductSep 9, 2026](</index/gpt-6-astra-next-generation-work/>)
 
-![Path to Astra — Clean square cover — Neutral Option 062 v1](https://images.ctfassets.net/kftzwdyauwt9/4BabvjDCQdlYN2ISzOkgF9/78d35947274e9b3ac2483377782b007e/astra-cover-v001.png?w=3840&q=90&fm=webp)
+![Paul Christiano joins OpenAI Foundation Board — card](https://images.ctfassets.net/kftzwdyauwt9/4PcDbhz75I70TjyGat7oHl/598dd1e865018860c3591cb95c9bc72e/paul-christiano-joins-openai-foundation-board--cover-v001.png?w=3840&q=90&fm=webp)
 
-[Path to Astra: critical capabilities and frontier safeguardsSafetySep 1, 2026](</index/path-to-astra/>)
+[Paul Christiano joins OpenAI Foundation BoardCompanySep 9, 2026](</index/paul-christiano-joins-openai-foundation-board/>)
 
 Research
 
@@ -175,6 +175,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)

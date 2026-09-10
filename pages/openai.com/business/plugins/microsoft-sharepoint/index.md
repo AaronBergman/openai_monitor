@@ -32,9 +32,9 @@ Search and pull from shared sites and OneDrive.
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_1p_dca009ae2c848191ae14df3a47c5e7fd>)[Contact sales](</contact-sales/>)
 
-[@SharePoint Summarize a SharePoint site or file, identify owners and status, or plan a safe update across documents, spreadsheets, or decks(opens in a new window)](<https://chatgpt.com/?prompt=%40SharePoint+Summarize+a+SharePoint+site+or+file%2C+identify+owners+and+status%2C+or+plan+a+safe+update+across+documents%2C+spreadsheets%2C+or+decks>)
+[@SharePoint Build an executive pre-read by pulling the most relevant files from [folder] and summarizing them into one brief(opens in a new window)](<https://chatgpt.com/?prompt=%40SharePoint+Build+an+executive+pre-read+by+pulling+the+most+relevant+files+from+%5Bfolder%5D+and+summarizing+them+into+one+brief>)[@SharePoint Summarize the documents in [folder] and rank the top risks with references back to the files(opens in a new window)](<https://chatgpt.com/?prompt=%40SharePoint+Summarize+the+documents+in+%5Bfolder%5D+and+rank+the+top+risks+with+references+back+to+the+files>)[@SharePoint Use this library's approved templates to draft a professional services statement of work for a 12-week data migration project(opens in a new window)](<https://chatgpt.com/?prompt=%40SharePoint+Use+this+library%27s+approved+templates+to+draft+a+professional+services+statement+of+work+for+a+12-week+data+migration+project>)
 
-Use case: [File Sharing](</business/plugins/?tab=apps-file-sharing>)
+Use case: [Productivity](</business/plugins/?tab=plugins-productivity>) and [Data & Research](</business/plugins/?tab=plugins-data-research>)
 
 Made by: OpenAI
 
@@ -94,6 +94,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)

@@ -32,9 +32,9 @@ Analyze lakehouse data and dashboards with natural language.
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/Plugin_1e24c86b19248191a8c6abb5bc115819>)[Contact sales](</contact-sales/>)
 
-[@Databricks Genie Inspect Databricks workspace objects, SQL resources, jobs, Lakeflow pipelines, Unity Catalog assets, and serving endpoints(opens in a new window)](<https://chatgpt.com/?prompt=%40Databricks+Genie+Inspect+Databricks+workspace+objects%2C+SQL+resources%2C+jobs%2C+Lakeflow+pipelines%2C+Unity+Catalog+assets%2C+and+serving+endpoints>)
+[@Databricks Genie Find the main drivers of last week's change in [metric]. Show the query path, summarize the result, and note caveats(opens in a new window)](<https://chatgpt.com/?prompt=%40Databricks+Genie+Find+the+main+drivers+of+last+week%27s+change+in+%5Bmetric%5D.+Show+the+query+path%2C+summarize+the+result%2C+and+note+caveats>)[@Databricks Genie Review this dashboard and explain what changed most versus the prior period, with likely drivers and follow-up checks(opens in a new window)](<https://chatgpt.com/?prompt=%40Databricks+Genie+Review+this+dashboard+and+explain+what+changed+most+versus+the+prior+period%2C+with+likely+drivers+and+follow-up+checks>)[@Databricks Genie Create a reusable analysis plan for [question], including required tables, joins, metrics, and validation steps(opens in a new window)](<https://chatgpt.com/?prompt=%40Databricks+Genie+Create+a+reusable+analysis+plan+for+%5Bquestion%5D%2C+including+required+tables%2C+joins%2C+metrics%2C+and+validation+steps>)
 
-Use case: [Data](</business/plugins/?tab=apps-data>)
+Use case: [Data & Research](</business/plugins/?tab=plugins-data-research>)
 
 Made by: OpenAI
 
@@ -64,11 +64,11 @@ Analyze a business metric
 
 Summarize dashboard changes
 
-@Databricks Review this dashboard and explain what changed most versus the prior period, with likely drivers and follow-up checks.
+**@Databricks Genie** Draft SQL to calculate [metric] by [dimension] for the last 90 days. Explain the joins and filters, and list checks for missing data or unexpected values.
 
 Draft reusable analysis
 
-@Databricks Create a reusable analysis plan for [question], including required tables, joins, metrics, and validation steps.
+@Databricks Review this dashboard and explain what changed most versus the prior period, with likely drivers and follow-up checks.
 
 ## Resources
 
@@ -94,6 +94,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)

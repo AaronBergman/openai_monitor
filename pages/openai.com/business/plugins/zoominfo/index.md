@@ -34,7 +34,7 @@ B2B data and GTM insights
 
 [@ZoomInfo Give me the top 10 companies in Boston by annual revenue.(opens in a new window)](<https://chatgpt.com/?prompt=%40ZoomInfo+Give+me+the+top+10+companies+in+Boston+by+annual+revenue.>)[@ZoomInfo Search VPs of Sales at fintech companies in California(opens in a new window)](<https://chatgpt.com/?prompt=%40ZoomInfo+Search+VPs+of+Sales+at+fintech+companies+in+California>)[@ZoomInfo Get funding and hiring signals for company ACME corp.(opens in a new window)](<https://chatgpt.com/?prompt=%40ZoomInfo+Get+funding+and+hiring+signals+for+company+ACME+corp.>)
 
-Use case: [Small Business](</business/plugins/?tab=apps-small-business>)
+Use case: [Productivity](</business/plugins/?tab=plugins-productivity>) and [Small Business](</business/plugins/?tab=plugins-small-business>)
 
 Made by: ZoomInfo Technologies LLC
 
@@ -42,33 +42,33 @@ Website: [zoominfo.com(opens in a new window)](<https://www.zoominfo.com/>)
 
 ## How it works
 
-ZoomInfo helps users find and enrich companies and professional contacts, research accounts and conversations, analyze buyer signals, manage private GTM audiences, and maintain organizational go-to-market context through ChatGPT.
+ZoomInfo — B2B company and professional intelligence. Use for prospecting, finding people at companies, current and past employment, job changes, org charts, executives, verified business contact information, company research, intent, Scoops, and GTM signals.
 
-### Build target account lists
+### Build a prospect shortlist
 
-Find companies by business criteria to assemble a focused list of prospective accounts.
+Find accounts that fit your target market and explain which deserve attention.
 
-### Find relevant business contacts
+### Map a buying committee
 
-Search for professional contacts by role, industry, and location to identify people for outreach.
+Identify relevant leaders and business contacts at a target account.
 
-### Research account buying signals
+### Prepare an account briefing
 
-Review funding, hiring, and other buyer signals to prepare for account conversations.
+Use company developments to shape a focused sales conversation.
 
 ## Sample prompts
 
 Find top companies in Boston
 
-List the 10 companies in Boston with the highest annual revenue, showing company name, industry, and revenue.
+**@ZoomInfo** Find 10 fintech companies in California with 200-1000 employees. Rank them using available growth and buying signals, and explain why each fits a sales prospecting shortlist.
 
 Find fintech sales leaders
 
-Find VPs of Sales at fintech companies in California and return a list with each person's company and role.
+**@ZoomInfo** Find the sales and IT leaders at the company I name. Map their roles, include available verified business contact details, and recommend who to approach first for a CRM discussion.
 
 Research account growth signals
 
-Get funding and hiring signals for Acme Corp and summarize what the data indicates about changes at the company.
+**@ZoomInfo** Prepare a meeting brief for the company I name using recent funding, hiring, and leadership changes. Highlight the strongest business signals and suggest three questions for the call.
 
 ## Resources
 

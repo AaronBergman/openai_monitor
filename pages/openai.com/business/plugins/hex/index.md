@@ -44,7 +44,7 @@ Ask data questions and start new analyses from Hex.
 
 ![@Hex how is our sales conversion vs. benchmarks?](https://files.openai.com/content?id=file_00000000de4c71f69424c3bf7dd8f58b&cdn=1&cp=pi&ma=31363200&ts=0&p=pi&cid=1&sig=0d031e2cad89bc6284a242459905a60077cb3d14e0aa3b610ee351a3d940b505)
 
-Use case: [Data](</business/plugins/?tab=apps-data>)
+Use case: [Data & Research](</business/plugins/?tab=plugins-data-research>)
 
 Made by: Hex
 
@@ -70,15 +70,15 @@ Request new analyses or visualizations to generate queries and charts in a threa
 
 Summarize dashboard with key takeaways
 
-**@Hex** Find the churn dashboard in our workspace and summarize what changed in the last month with key charts.
+**@Hex** Turn our latest executive metrics dashboard into a narrative update I can paste into an email.
 
 Analyze retention analysis and surface insights
 
-**@Hex** Start a new cohort retention analysis for new users in Q4 and produce a simple chart plus interpretation.
+**@Hex** Find the churn dashboard in our workspace and summarize what changed in the last month with key charts.
 
 Draft exec update for email sharing
 
-**@Hex** Turn our latest executive metrics dashboard into a narrative update I can paste into an email.
+**@Hex** Start a new cohort retention analysis for new users in Q4 and produce a simple chart plus interpretation.
 
 ## Resources
 
@@ -104,6 +104,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)

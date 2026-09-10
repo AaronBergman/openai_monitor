@@ -32,9 +32,9 @@ Look up events and availability.
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_1p_f8509de903288191b14a160c6c5d20b0>)[Contact sales](</contact-sales/>)
 
-[@Google Calendar Summarize my calendar, compare availability, prep meetings, or draft event details(opens in a new window)](<https://chatgpt.com/?prompt=%40Google+Calendar+Summarize+my+calendar%2C+compare+availability%2C+prep+meetings%2C+or+draft+event+details>)
+[@Google Calendar Look at my schedule tomorrow and build a realistic day plan with focus blocks and the meetings I should prep for first(opens in a new window)](<https://chatgpt.com/?prompt=%40Google+Calendar+Look+at+my+schedule+tomorrow+and+build+a+realistic+day+plan+with+focus+blocks+and+the+meetings+I+should+prep+for+first>)[@Google Calendar Analyze my last 4 weeks of meetings and summarize how my time is split across product, sales, and ops; suggest 3 changes(opens in a new window)](<https://chatgpt.com/?prompt=%40Google+Calendar+Analyze+my+last+4+weeks+of+meetings+and+summarize+how+my+time+is+split+across+product%2C+sales%2C+and+ops%3B+suggest+3+changes>)[@Google Calendar Brief me on my next meeting: details, attendees, agenda, recent context, key topics, goals, and questions to discuss(opens in a new window)](<https://chatgpt.com/?prompt=%40Google+Calendar+Brief+me+on+my+next+meeting%3A+details%2C+attendees%2C+agenda%2C+recent+context%2C+key+topics%2C+goals%2C+and+questions+to+discuss>)
 
-Use case: [Collaboration](</business/plugins/?tab=apps-collaboration>)
+Use case: [Productivity](</business/plugins/?tab=plugins-productivity>)
 
 Made by: OpenAI
 
@@ -60,15 +60,15 @@ Understand how productivity time is allocated, prepare for key meetings, and mak
 
 Organize your schedule
 
-**@Google Calendar** Look at my schedule tomorrow and build a realistic day plan with focus blocks and the meetings I should prep for first.
+**@Google Calendar** Summarize my calendar, compare availability, prep meetings, or draft event details
 
 Analyze meeting cadence
 
-**@Google Calendar** Analyze my last 4 weeks of meetings and summarize how my time is split across product, sales, and ops; suggest 3 changes.
+**@Google Calendar** Look at my schedule tomorrow and build a realistic day plan with focus blocks and the meetings I should prep for first.
 
 Prepare briefing for upcoming meeting
 
-**@Google Calendar** Prepare a brief for my upcoming meeting. Pull the meeting details, attendees, agenda, and any recent context, then summarize key topics, goals, and questions I should be ready to discuss.
+**@Google Calendar** Analyze my last 4 weeks of meetings and summarize how my time is split across product, sales, and ops; suggest 3 changes.
 
 ## Resources
 
@@ -94,6 +94,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)

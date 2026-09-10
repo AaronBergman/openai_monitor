@@ -32,11 +32,15 @@ Look up chats and messages.
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69a1d78e929881919bba0dbda1f6436d>)[Contact sales](</contact-sales/>)
 
-@Slack Summarize activity in Slack this month
+@Slack Summarize what mattered most in [channel] over the last 7 days and list decisions plus owners plus next steps
 
-![@Slack Summarize activity in Slack this month](https://files.openai.com/content?id=file_000000005dd071f7b5f1b13e38d9b682&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=1&sig=c04f351245ec29c398471da9639a1b507dc9595612933e6073de7c306ea93721)
+![@Slack Summarize what mattered most in \[channel\] over the last 7 days and list decisions plus owners plus next steps](https://files.openai.com/content?id=file_000000005dd071f7b5f1b13e38d9b682&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=1&sig=c04f351245ec29c398471da9639a1b507dc9595612933e6073de7c306ea93721)
 
-Use case: [Collaboration](</business/plugins/?tab=apps-collaboration>) and [Small Business](</business/plugins/?tab=apps-small-business>)
+[@Slack Draft a crisp reply in the same tone as the channel for the last customer escalation message in [channel](opens in a new window)](<https://chatgpt.com/?prompt=%40Slack+Draft+a+crisp+reply+in+the+same+tone+as+the+channel+for+the+last+customer+escalation+message+in+%5Bchannel%5D>)
+
+[@Slack Build a 30 minute meeting agenda based on the top themes from this mornings discussion in [channel](opens in a new window)](<https://chatgpt.com/?prompt=%40Slack+Build+a+30+minute+meeting+agenda+based+on+the+top+themes+from+this+mornings+discussion+in+%5Bchannel%5D>)
+
+Use case: [Productivity](</business/plugins/?tab=plugins-productivity>), [Small Business](</business/plugins/?tab=plugins-small-business>), and [Data & Research](</business/plugins/?tab=plugins-data-research>)
 
 Made by: OpenAI
 
@@ -46,31 +50,31 @@ Website: [slack.com(opens in a new window)](<https://slack.com/>)
 
 Use your Slack messages and channel discussions to create recaps, gather background before a meeting, highlight decisions, or draft responses with the right context.
 
-### Turn conversations into decisions
+### Turn briefs into proposals
 
-Summarize this week’s channel threads, identify decisions and owners, and create an action list to reduce meeting time and missed handoffs.
+Turn requirements, timelines, budgets, and objections from Slack conversations into a project proposal your team can review.
 
-### Onboard and unblock teams faster
+### Put your research to work
 
-Ask what was decided on a project, pull the relevant thread history, and generate a concise brief so new hires and stakeholders can ramp quickly.
+Connect your research with the questions your team is discussing in Slack and prepare a brief that invites useful feedback.
 
-### Create updates and follow-ups in minutes
+### Prep your code for review
 
-Draft a status update or customer-facing message based on the latest internal discussions, keeping teams aligned while reducing manual copy and paste.
+Bring the context behind a feature or fix into a clear Slack review request, with the changes, tradeoffs, and questions your team should focus on.
 
 ## Sample prompts
 
-Summarize the work and highlight
+Draft a project proposal
 
-**@Slack** Summarize what mattered most in [channel] over the last 7 days and list decisions plus owners plus next steps.
+**@Slack** Use the scope, timeline, budget, and concerns discussed in [channel] to draft a proposal for [project]. Recommend an approach, flag unresolved questions, and link to the conversations behind key decisions.
 
-Create escalation action plan
+Turn research into team discussion
 
-**@Slack** Draft a crisp reply in the same tone as the channel for the last customer escalation message in [channel].
+Use this research brief and relevant discussions in [channel] to draft a **@Slack** post with the key findings, recommended next steps, and questions where team feedback would change the recommendation.
 
-Translate messages into a meeting agenda
+Get feedback on your code
 
-**@Slack** Build a 30 minute meeting agenda based on the top themes from this mornings discussion in [channel].
+**@Slack** Use the diff and PR link I provide, plus relevant discussions in [channel], to draft a Slack review request for [feature]. Explain what changed, the key tradeoffs, and the questions reviewers should focus on.
 
 ## Resources
 

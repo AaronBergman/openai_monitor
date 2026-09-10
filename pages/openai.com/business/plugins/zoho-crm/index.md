@@ -34,7 +34,7 @@ Connect to sync Zoho CRM records and activities for use in ChatGPT.
 
 [@Zoho CRM Search Zoho CRM for open deals closing this quarter and summarize the highest-risk opportunities.(opens in a new window)](<https://chatgpt.com/?prompt=%40Zoho+CRM+Search+Zoho+CRM+for+open+deals+closing+this+quarter+and+summarize+the+highest-risk+opportunities.>)[@Zoho CRM Find Zoho CRM contacts at an account and summarize recent activities.(opens in a new window)](<https://chatgpt.com/?prompt=%40Zoho+CRM+Find+Zoho+CRM+contacts+at+an+account+and+summarize+recent+activities.>)[@Zoho CRM Pull Zoho CRM organization settings and users needed to audit access.(opens in a new window)](<https://chatgpt.com/?prompt=%40Zoho+CRM+Pull+Zoho+CRM+organization+settings+and+users+needed+to+audit+access.>)
 
-Use case: [Go-to-Market](</business/plugins/?tab=apps-go-to-market>)
+Use case: [Productivity](</business/plugins/?tab=plugins-productivity>), [Sales & Commerce](</business/plugins/?tab=plugins-sales-commerce>), and [Marketing](</business/plugins/?tab=plugins-marketing>)
 
 Made by: Zoho
 
@@ -64,11 +64,11 @@ Identify key risks and mitigation actions
 
 Create email thread with next steps
 
-**@Zoho CRM** Create a new lead from this email and log it with the right source and next step reminder for tomorrow.
+**@Zoho CRM** Find Zoho CRM contacts at an account and summarize recent activities.
 
 Audit data and recommend cleanup actions
 
-**@Zoho CRM** Find duplicates and missing key fields in my accounts list and recommend a cleanup workflow.
+**@Zoho CRM** Create a new lead from this email and log it with the right source and next step reminder for tomorrow.
 
 ## Resources
 
@@ -94,6 +94,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)

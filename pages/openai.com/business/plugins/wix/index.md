@@ -44,7 +44,7 @@ Create your own website
 
 ![@Wix Create a high-contrast running site with bookings and subscriptions.](https://files.openai.com/content?id=file_00000000027871f7afde1b3d2da7c439&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=1&sig=81bda45807b61e1d9bc043759a884dcd633cc78164f4d986264d49ab280dc23f)
 
-Use case: [Small Business](</business/plugins/?tab=apps-small-business>)
+Use case: [Productivity](</business/plugins/?tab=plugins-productivity>) and [Small Business](</business/plugins/?tab=plugins-small-business>)
 
 Made by: Wix.com
 
@@ -54,31 +54,31 @@ Website: [wix.com(opens in a new window)](<https://www.wix.com>)
 
 Build your entire site and buy a domain right from the chat. Just ask Wix for the website you want, including all the functionality you need, and get a complete, business-ready site generated for you in minutes. You can also connect the perfect custom domain to your site and manage everything seamlessly in one place. If you like, you can continue editing it inside the Wix Harmony editor using tons more AI tools and smooth drag and drop.
 
-### Build a business website
+### Build a commerce site
 
-Describe your company, services, and required features to generate a website for your business.
+Create a matcha business website with a store and booking tools.
 
-### Offer services and products online
+### Create an editorial site
 
-Create a site with an online store or booking tools so customers can buy products or schedule services.
+Build a minimalist blog to share stories from your homeware brand.
 
-### Connect a custom domain
+### Launch a running community
 
-Buy and connect a custom domain to give your business website a recognizable address.
+Create a running website with bookings and subscriptions.
 
 ## Sample prompts
 
 Build a consulting website
 
-Build a website for my operations consultancy with service pages and booking tools for discovery calls.
+**@Wix** Create a fresh matcha site with an online store and booking tools.
 
 Create a supplier storefront
 
-Create a website for a packaging supplier with an online store and product categories for boxes, labels, and mailers.
+**@Wix** Build a minimalist editorial blog website for my homeware brand.
 
 Find a custom domain
 
-Help me buy a custom domain for my consulting website. Show the available names and prices for approval before purchasing.
+**@Wix** Create a high-contrast running site with bookings and subscriptions.
 
 ## Resources
 
