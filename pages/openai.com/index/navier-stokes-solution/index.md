@@ -44,7 +44,7 @@ The problem
   * The result
   * How we found the proof
   * Concurrent work
-  * Progress and responsibility
+  * Progress and responsibility 
 
 
 
@@ -52,13 +52,13 @@ The problem
   * The result
   * How we found the proof
   * Concurrent work
-  * Progress and responsibility
+  * Progress and responsibility 
 
 
 
 We’re sharing a solution to the Navier–Stokes existence and smoothness problem, one of the Millennium Prize Problems. This proof, produced by an internal OpenAI system, shows that the dynamics of the Navier-Stokes equations for fluid motion can develop a singularity in finite time. We’re sharing both a writeup of the proof and a formalization in Lean.
 
-The [_Millennium Prize Problems_ ⁠(opens in a new window)](<https://www.claymath.org/millennium-problems/>) represent some of the deepest questions at the frontier of mathematics. The question of whether smooth three-dimensional fluid motion can break down has remained unresolved for roughly 90 years.
+The [_Millennium Prize Problems_ ⁠(opens in a new window)](<https://www.claymath.org/millennium-problems/>) represent some of the deepest questions at the frontier of mathematics. The question of whether smooth three-dimensional fluid motion can break down has remained unresolved for roughly 90 years. 
 
 A major goal of our work is to empower scientists to advance research and technology that benefits all of humanity. To solve the Navier–Stokes problem, we used an internal model that is significantly more capable than GPT‑6 Astra. We believe it is important to inform the world about the pace of AI progress and what to expect from upcoming models.
 
@@ -90,9 +90,9 @@ We used a system of coordinating agents powered by our internal model. The agent
 
 For each problem, we prompted different groups of agents with different variants of the problem statement, covering all variants of the problem. For the Navier–Stokes problem, we suggested versions “A” and “B” (particular forms of the Navier–Stokes problem which would result in a proof) and versions “C” and “D” (which would result in a disproof) to separate groups of agents.
 
-In addition to the full Millennium Prize problems, we asked our multiagent system to try a set of “easier” problems. One of these problems was a similar blowup question for the limit of the Navier–Stokes problem with the viscosity term removed. This is known as the regularity problem for the Euler equations, and our agents surprised us by resolving this question. The specific variant of the question that they resolved was the _unforced_ version, where no external force is applied to the fluid. Nearly 100 agents worked together for approximately 50 hours to produce our Euler regularity disproof.1
+In addition to the full Millennium Prize problems, we asked our multiagent system to try a set of “easier” problems. One of these problems was a similar blowup question for the limit of the Navier–Stokes problem with the viscosity term removed. This is known as the regularity problem for the Euler equations, and our agents surprised us by resolving this question. The specific variant of the question that they resolved was the _unforced_ version, where no external force is applied to the fluid. Nearly 100 agents worked together for approximately 50 hours to produce our Euler regularity disproof1. 
 
-Once we saw the Euler solution, we thought that Navier–Stokes was the most promising problem to work on. Thus, we decided to devote our resources to Navier–Stokes. To do so, we shifted agents away from the other Millennium Problems and prompted these agents with the Euler resolution. When a further trained version of our internal model became available over the course of the effort, we updated our agents to that model.
+Once we saw the Euler solution, we thought that Navier–Stokes was the most promising problem to work on. Thus, we decided to devote our resources to Navier–Stokes. To do so, we shifted agents away from the other Millennium Problems and prompted these agents with the Euler resolution. When a further trained version of our internal model became available over the course of the effort, we updated our agents to that model. 
 
 We encouraged different groups of agents to explore a diversity of approaches. After some time, we cross-pollinated the agent groups by using Codex to consolidate the most useful insights from each agent group. These follow-up prompts drew on the agents’ own intermediate results. The group that found the solution to Navier–Stokes was guided in such a way.
 
@@ -102,11 +102,13 @@ Across all attempted problems, the agents sent 4.9 million messages and used abo
 
 ## Concurrent work
 
-Our effort began on September 1st after hearing a rumor which we later realized was related to Levent Alpöge, an Anthropic employee, and Tristan Buckmaster, a math professor at NYU. After the completion of our full project and Lean verification (on September 6th), believing from the rumor they also had a solution of Navier–Stokes, we reached out to them to offer a concurrent release of our result and to recognize their priority in a joint announcement. At that point we found out that they had a resolution of the forced Euler problem. In these discussions we offered them visibility into all of the prompts we used and later to see the proof. We recognize the priority of their work on forced Euler and congratulate them on their remarkable mathematical achievement.
+Our effort began on September 1st after hearing a rumor which we later realized was related to Levent Alpöge, an Anthropic employee, and Tristan Buckmaster, a math professor at NYU.2 After the completion of our full project and Lean verification (on September 6th), believing from the rumor they also had a solution of Navier–Stokes, we reached out to them to offer a concurrent release of our result and to recognize their priority in a joint announcement. At that point we found out that, using an internal Anthropic model, they had produced a resolution of the forced Euler problem. In these discussions we offered them visibility into all of the prompts we used and later to see the proof. We recognize the priority of their work on forced Euler and congratulate them on their remarkable mathematical achievement.
 
-We (the researchers and the agents) did not see any of their work through any means until they released it publicly — in particular, no specific user data was accessed in order to solve this problem. While unlikely, we cannot rule out that de-identified data derived from their usage of our products helped [improve our models⁠](<https://openai.com/policies/how-your-data-is-used-to-improve-model-performance/>). However, our proofs differ significantly and even the precise results proved are different in the Euler case (forced vs unforced).
+We (the researchers and the agents) did not see any of their work through any means until they released it publicly — in particular, no specific user data was accessed in order to solve this problem. 
 
-## Progress and responsibility
+Following an investigation, we have confirmed that Buckmaster’s Codex prompts over the two months preceding this announcement and paper on September 8, 2026, could not have influenced the system in any way, including through training. The OpenAI internal model used for this result was developed through large-scale reinforcement learning on top of a previously pretrained model. Our proofs also differ significantly. In the Euler case, Alpöge and Buckmaster proved a result with external forcing, while OpenAI’s system proved a result without external forcing.
+
+## Progress and responsibility 
 
 Our goal in releasing this result is to report on the substantial progress of our AI models. We do not intend to claim the Millennium Prize for this result.
 
@@ -128,6 +130,10 @@ OpenAI
   1. 1
 
 [ _Read the Euler proof paper_ ⁠(opens in a new window)](<https://cdn.openai.com/pdf/315b36cd-ec98-4023-8342-93345194ece1/euler.pdf>) · [_Link to Lean formalized proof_ ⁠(opens in a new window)](<https://github.com/openai/NavierStokesAndEuler>)
+
+  2. 2
+
+Update — September 10, 2026: We have updated “Concurrent work” with findings from our investigation into whether user inputs could have influenced this result.
 
 
 

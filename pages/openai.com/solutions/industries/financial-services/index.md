@@ -26,6 +26,14 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 OpenAI
 
+New
+
+### Introducing ChatGPT for Financial Services
+
+GPT‑6 Astra, included financial data, and new tools for financial services teams.
+
+[Learn more](</index/introducing-chatgpt-financial-services/>)
+
 OpenAI for financial services
 
 # Reimagine financial services with AI you can trust

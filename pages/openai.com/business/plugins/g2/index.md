@@ -32,11 +32,9 @@ Real Buyer Behavior from G2
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6998622475e081918795d4f4c5e42df4>)[Contact sales](</contact-sales/>)
 
-@G2 MCP Create a Research Board for Slack
+[G2 MCP Create a Research Board for Slack(opens in a new window)](<https://chatgpt.com/?prompt=%40G2+MCP+Create+a+Research+Board+for+Slack>)
 
-![@G2 MCP Create a Research Board for Slack](https://files.openai.com/content?id=file_00000000899871f78875836a3c1269a4&cdn=1&cp=pi&ma=32140800&ts=0&p=pi&cid=8&sig=c3c94f0b1910e69ec97f34d473815b6e4254543816ed9c1b89f505a6396285ab&v=0)
-
-Use case: [Productivity](</business/plugins/?tab=plugins-productivity>) and [Data & Research](</business/plugins/?tab=plugins-data-research>)
+Use case: [Operations](</business/plugins/?tab=plugins-operations>) and [Data & Research](</business/plugins/?tab=plugins-data-research>)
 
 Made by: G2
 

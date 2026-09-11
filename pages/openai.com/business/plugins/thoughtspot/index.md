@@ -26,19 +26,13 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 OpenAI[View all plugins](</business/plugins/>)
 
-# ThoughtSpot
+# ThoughtSpot SpotterCode
 
-Your AI data analyst
+Build & Ship AI analytics
 
-[Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69d8425f7a1c8191a438821b9c553b79>)[Contact sales](</contact-sales/>)
+[Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6aa240082b3c81919f204960ce7e0dc0>)[Contact sales](</contact-sales/>)
 
-@ThoughtSpot Spotter Search ThoughtSpot for sales performance answers and summarize the key drivers.
-
-![@ThoughtSpot Spotter Search ThoughtSpot for sales performance answers and summarize the key drivers.](https://files.openai.com/content?id=file_00000000c2ac71f787d89931692ff112&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=1e23f0e744319911a4da2fbb42441d81445b6b4d4389a15d43cde9558d943987&v=0)
-
-[@ThoughtSpot Spotter Find dashboards related to pipeline health and explain the biggest movement this quarter.(opens in a new window)](<https://chatgpt.com/?prompt=%40ThoughtSpot+Spotter+Find+dashboards+related+to+pipeline+health+and+explain+the+biggest+movement+this+quarter.>)
-
-[@ThoughtSpot Spotter Analyze revenue by segment in ThoughtSpot and highlight anomalies worth investigating.(opens in a new window)](<https://chatgpt.com/?prompt=%40ThoughtSpot+Spotter+Analyze+revenue+by+segment+in+ThoughtSpot+and+highlight+anomalies+worth+investigating.>)
+[ThoughtSpot SpotterCode Embed a ThoughtSpot Liveboard in React with cookieless trusted auth and runtime filters by customer ID.(opens in a new window)](<https://chatgpt.com/?prompt=%40ThoughtSpot+SpotterCode+Embed+a+ThoughtSpot+Liveboard+in+React+with+cookieless+trusted+auth+and+runtime+filters+by+customer+ID.>)[ThoughtSpot SpotterCode List Liveboards tagged 'executive', show who can edit each, and tag them all 'Exec Reporting'.(opens in a new window)](<https://chatgpt.com/?prompt=%40ThoughtSpot+SpotterCode+List+Liveboards+tagged+%27executive%27%2C+show+who+can+edit+each%2C+and+tag+them+all+%27Exec+Reporting%27.>)[ThoughtSpot SpotterCode My SpotterEmbed keeps firing AuthExpire. How do I set up automatic token refresh?(opens in a new window)](<https://chatgpt.com/?prompt=%40ThoughtSpot+SpotterCode+My+SpotterEmbed+keeps+firing+AuthExpire.+How+do+I+set+up+automatic+token+refresh%3F>)
 
 Use case: [Data & Research](</business/plugins/?tab=plugins-data-research>)
 
@@ -48,33 +42,33 @@ Website: [thoughtspot.com(opens in a new window)](<https://www.thoughtspot.com/>
 
 ## How it works
 
-From everyday data questions to high-level strategic analyses, Spotter by ThoughtSpot helps business and data teams get answers and insights they can trust, validate, and act on, enabling everyone to use data to drive the business forward.
+Whether you're a developer building embedded analytics, a product leader shipping AI-powered features, or a data team managing a live data workflow, SpotterCode by ThoughtSpot is your AI pair programmer, turning instructions into execution and delivering AI analytics and management that drive the business forward.
 
-### Explain sales performance
+### Embed customer analytics
 
-Identify the regions and products that contributed most to recent sales changes.
+Build a React Liveboard embed with customer-specific filters and trusted authentication.
 
-### Review pipeline health
+### Organize executive reporting
 
-Surface the largest pipeline movements and focus the next sales review on the areas that need attention.
+Review edit access to executive Liveboards and apply a shared reporting tag.
 
-### Investigate revenue anomalies
+### Fix embedded authentication
 
-Find unusual segment-level revenue changes and prioritize the ones that warrant a closer look.
+Diagnose expiring embed sessions and implement token refresh.
 
 ## Sample prompts
 
-**@ThoughtSpot** Analyze last quarter's sales versus the previous quarter. Break down the change by region and product, rank the largest contributors, and summarize the evidence behind the main movements.
+**@ThoughtSpot SpotterCode** Embed a ThoughtSpot Liveboard in React with cookieless trusted auth and runtime filters by customer ID.
 
-**@ThoughtSpot** Find pipeline health dashboards and analyze this quarter's changes by stage and segment. Highlight the largest movements and prepare three evidence-based questions for our next sales review.
+**@ThoughtSpot SpotterCode** List Liveboards tagged 'executive', show who can edit each, and tag them all 'Exec Reporting'.
 
-**@ThoughtSpot** Analyze monthly revenue by segment over the last year. Identify unusual changes relative to each segment's history, distinguish one-off spikes from sustained shifts, and rank the anomalies worth investigating.
+**@ThoughtSpot SpotterCode** Diagnose repeated AuthExpire events in my SpotterEmbed. Review my authentication code, implement automatic token refresh, and explain how to verify that the embedded session recovers.
 
 ## Resources
 
 ### [Help centerRead more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
 
-### [Plugin supportRead more](<https://helpdesk@thoughtspot.com>)
+### [Plugin supportRead more](<https://thoughtspot.com/support-request>)
 
 ### [Privacy policyRead more](<https://www.thoughtspot.com/privacy-statement>)
 

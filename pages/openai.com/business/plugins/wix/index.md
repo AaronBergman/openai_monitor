@@ -32,19 +32,9 @@ Create your own website
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6947eaa4edd081919561e4ee3a2e5dcc>)[Contact sales](</contact-sales/>)
 
-@Wix Create a fresh matcha site with an online store and booking tools.
+[Wix Create a fresh matcha site with an online store and booking tools.(opens in a new window)](<https://chatgpt.com/?prompt=%40Wix+Create+a+fresh+matcha+site+with+an+online+store+and+booking+tools.>)[Wix Build a minimalist editorial blog website for my homeware brand.(opens in a new window)](<https://chatgpt.com/?prompt=%40Wix+Build+a+minimalist+editorial+blog+website+for+my+homeware+brand.>)[Wix Create a high-contrast running site with bookings and subscriptions.(opens in a new window)](<https://chatgpt.com/?prompt=%40Wix+Create+a+high-contrast+running+site+with+bookings+and+subscriptions.>)
 
-![@Wix Create a fresh matcha site with an online store and booking tools.](https://files.openai.com/content?id=file_00000000eefc71f7a61ac99a3b377f10&cdn=1&cp=pi&ma=31795200&ts=0&p=pi&cid=1&sig=935c988d0033579e5aadb63895eaac2a2b8bf79928aa62dbe3dc260279d44a56)
-
-@Wix Build a minimalist editorial blog website for my homeware brand.
-
-![@Wix Build a minimalist editorial blog website for my homeware brand.](https://files.openai.com/content?id=file_0000000012cc71f79114f4e7952db34a&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=1&sig=c5b6ce3c61d06a584a3d87e8b21f722d51b303f1faede70ef58e35de540ee2d3)
-
-@Wix Create a high-contrast running site with bookings and subscriptions.
-
-![@Wix Create a high-contrast running site with bookings and subscriptions.](https://files.openai.com/content?id=file_00000000027871f7afde1b3d2da7c439&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=1&sig=81bda45807b61e1d9bc043759a884dcd633cc78164f4d986264d49ab280dc23f)
-
-Use case: [Productivity](</business/plugins/?tab=plugins-productivity>) and [Small Business](</business/plugins/?tab=plugins-small-business>)
+Use case: [Operations](</business/plugins/?tab=plugins-operations>) and [Small Business](</business/plugins/?tab=plugins-small-business>)
 
 Made by: Wix.com
 

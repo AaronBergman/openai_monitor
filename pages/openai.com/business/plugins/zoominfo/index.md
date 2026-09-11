@@ -32,9 +32,9 @@ B2B data and GTM insights
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_698a340b9230819188ba5a5eea79022d>)[Contact sales](</contact-sales/>)
 
-[@ZoomInfo Give me the top 10 companies in Boston by annual revenue.(opens in a new window)](<https://chatgpt.com/?prompt=%40ZoomInfo+Give+me+the+top+10+companies+in+Boston+by+annual+revenue.>)[@ZoomInfo Search VPs of Sales at fintech companies in California(opens in a new window)](<https://chatgpt.com/?prompt=%40ZoomInfo+Search+VPs+of+Sales+at+fintech+companies+in+California>)[@ZoomInfo Get funding and hiring signals for company ACME corp.(opens in a new window)](<https://chatgpt.com/?prompt=%40ZoomInfo+Get+funding+and+hiring+signals+for+company+ACME+corp.>)
+[ZoomInfo Give me the top 10 companies in Boston by annual revenue.(opens in a new window)](<https://chatgpt.com/?prompt=%40ZoomInfo+Give+me+the+top+10+companies+in+Boston+by+annual+revenue.>)[ZoomInfo Search VPs of Sales at fintech companies in California(opens in a new window)](<https://chatgpt.com/?prompt=%40ZoomInfo+Search+VPs+of+Sales+at+fintech+companies+in+California>)[ZoomInfo Get funding and hiring signals for company ACME corp.(opens in a new window)](<https://chatgpt.com/?prompt=%40ZoomInfo+Get+funding+and+hiring+signals+for+company+ACME+corp.>)
 
-Use case: [Productivity](</business/plugins/?tab=plugins-productivity>) and [Small Business](</business/plugins/?tab=plugins-small-business>)
+Use case: [Operations](</business/plugins/?tab=plugins-operations>) and [Small Business](</business/plugins/?tab=plugins-small-business>)
 
 Made by: ZoomInfo Technologies LLC
 

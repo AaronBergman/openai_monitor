@@ -32,9 +32,9 @@ Analyze CRM data and surface insights.
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_697acb8e53d88191bf7a79e62012ae14>)[Contact sales](</contact-sales/>)
 
-[@HubSpot Create a follow-up task to schedule a meeting with Brightlane(opens in a new window)](<https://chatgpt.com/?prompt=%40HubSpot+Create+a+follow-up+task+to+schedule+a+meeting+with+Brightlane>)[@HubSpot Show me unresolved high-priority tickets(opens in a new window)](<https://chatgpt.com/?prompt=%40HubSpot+Show+me+unresolved+high-priority+tickets>)[@HubSpot Which lead sources brought in the most contacts this quarter?(opens in a new window)](<https://chatgpt.com/?prompt=%40HubSpot+Which+lead+sources+brought+in+the+most+contacts+this+quarter%3F>)
+[HubSpot Create a follow-up task to schedule a meeting with Brightlane(opens in a new window)](<https://chatgpt.com/?prompt=%40HubSpot+Create+a+follow-up+task+to+schedule+a+meeting+with+Brightlane>)[HubSpot Show me unresolved high-priority tickets(opens in a new window)](<https://chatgpt.com/?prompt=%40HubSpot+Show+me+unresolved+high-priority+tickets>)[HubSpot Which lead sources brought in the most contacts this quarter?(opens in a new window)](<https://chatgpt.com/?prompt=%40HubSpot+Which+lead+sources+brought+in+the+most+contacts+this+quarter%3F>)
 
-Use case: [Productivity](</business/plugins/?tab=plugins-productivity>), [Sales & Commerce](</business/plugins/?tab=plugins-sales-commerce>), and [Small Business](</business/plugins/?tab=plugins-small-business>)
+Use case: [Operations](</business/plugins/?tab=plugins-operations>), [Sales & Commerce](</business/plugins/?tab=plugins-sales-commerce>), and [Small Business](</business/plugins/?tab=plugins-small-business>)
 
 Made by: HubSpot
 

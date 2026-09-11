@@ -49,7 +49,7 @@ Add plugins to extend what ChatGPT Work can do. Plugins can connect customer con
   * [Google Drive](</business/plugins/google-drive/>)
   * [SharePoint](</business/plugins/microsoft-sharepoint/>)
   * [Snowflake](</business/plugins/snowflake/>)
-  * [Databricks](</business/plugins/databricks/>)
+  * [Databricks Genie](</business/plugins/databricks/>)
   * [BigQuery](</business/plugins/bigquery/>)
   * [Intercom](</business/plugins/intercom/>)
   * [Google Calendar](</business/plugins/google-calendar/>)
@@ -218,6 +218,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)

@@ -34,100 +34,97 @@ to see how OpenAI’s Data team uses ChatGPT Work to turn data and business cont
 
 [Register now(opens in a new window)](<https://webinar.openai.com/chatgpt-work-series/data-analytics/?utm_medium=website&utm_campaign=WBR-chatgpt-work-series-data-analytics-banner>)
 
-# AI for your data team’s most ambitious work  
+# Data intelligence for every team’s most ambitious work
+
+ChatGPT Work gives everyone the power to answer complex business questions, build interactive dashboards, and act on what they find—no specialized skills required.
+
+[Contact sales](</contact-sales/>)[Install data agent](</business/plugins/data/>)
+
+## Work across your data with trusted business context
+
+Plugins connect ChatGPT Work to your data ecosystem so you can analyze data, answer questions, and create interactive dashboards with no specialized skills required.
+
+  * [DataBuilt by OpenAI](</business/plugins/data/>)
+  * [Microsoft Power BI](</business/plugins/microsoft-power-bi/>)
+  * [Amplitude](</business/plugins/amplitude/>)
+  * [AWS Data Analytics](</business/plugins/aws-data-analytics/>)
+  * [Tableau](</business/plugins/tableau/>)
+  * [Snowflake](</business/plugins/snowflake/>)
+  * [Databricks Genie](</business/plugins/databricks/>)
+  * [ClickHouse](</business/plugins/clickhouse/>)
+  * [Google BigQuery](</business/plugins/bigquery/>)
+  * [MotherDuck](</business/plugins/motherduck/>)
+  * [Mixpanel](</business/plugins/mixpanel/>)
+  * [DBT](</business/plugins/dbt/>)
+  * [Oracle Analytics](</business/plugins/oracle-analytics/>)
+  * [Datadog Experiments](</business/plugins/datadog-experiments/>)
+  * [ThoughtSpot](</business/plugins/thoughtspot/>)
+  * [Sigma](</business/plugins/sigma/>)
+  * [Omni Analytics](</business/plugins/omni/>)
+  * [MongoDB](</business/plugins/mongodb/>)
+  * [Google Firebase](</business/plugins/firebase/>)
+  * [Microsoft Azure CosmosDB](</business/plugins/microsoft-azure-cosmosdb/>)
+  * [Deepnote](</business/plugins/deepnote/>)
+  * [Statsig](</business/plugins/statsig/>)
+  * [Alation](</business/plugins/alation/>)
+  * [PostHog](</business/plugins/posthog/>)
+  * [Hex](</business/plugins/hex/>)
+  * [Metabase](</business/plugins/metabase/>)
+  * [Redis](</business/plugins/redis/>)
+  * [G2](</business/plugins/g2/>)
+  * [WisdomAI](</business/plugins/wisdomai/>)
+  * [VillageSQL](</business/plugins/villagesql/>)
+  * [Google Drive](</business/plugins/google-drive/>)
+  * [Similarweb](</business/plugins/similarweb/>)
+  * [Microsoft SharePoint](</business/plugins/microsoft-sharepoint/>)
+  * [Slack](</business/plugins/slack/>)
+  * [Outlook Email](</business/plugins/microsoft-outlook-email/>)
+  * [Microsoft Teams](</business/plugins/microsoft-teams/>)
+  * [GitHub](</business/plugins/github/>)
 
 
-ChatGPT Work connects business data with company context, identifies what changed and why, and turns the findings into dashboards, recommendations, and action plans—so data teams spend less time reporting and more time shaping decisions.
 
-[Contact sales](</contact-sales/>)
+[View all plugins](</business/plugins/?tab=apps-data>)[Data agent](</business/plugins/data/>)
 
-Get started
+## Now everyone can put data to work
 
-Compare product performance and recommend where to focus next
+#### Connect your data ecosystem
 
-![OpenAI for Data Leaders hero chart.](https://images.ctfassets.net/kftzwdyauwt9/7qgjpzms6NBdduyRvWoRNq/db10560cf3a8d698b2d48a589e68eaeb/data-chart-1.png?w=3840&q=90&fm=webp)
+ChatGPT Work brings together your data warehouses, data lakes, BI tools, spreadsheets, and business documents so every analysis starts with complete context.
 
-![OpenAI for Data Leaders hero chart.](https://images.ctfassets.net/kftzwdyauwt9/5JlUSkKFq8bOZJbVPEE9dq/99ddf3af8e6808113cc4f936f74cde70/data-chart-2.png?w=3840&q=90&fm=webp)
+#### Analyze data by asking
 
-## Give data and business teams a faster path from question to decision
+Start by asking a business question in plain language. You can explore datasets, compare segments, and identify possible causes.
 
-#### Deliver decision-ready analysis faster
+#### Turn insights into agentic dashboards
 
-Connect business data and context to produce cited analysis, dashboards, and executive readouts leaders can act on.
+Create interactive dashboards, reports, and presentations that help stakeholders understand what changed, why it matters, and what to do next.
 
-#### Scale every analyst’s impact
+#### Take actions from proven analysis
 
-Delegate recurring work to agents—from triaging requests and querying data to building reports—so analysts can deliver sharper insights and recommendations.
+Identify the right stakeholders and share insights through Slack or email. ChatGPT Work recommends next steps and takes approved actions with connected tools to move work forward.
 
-#### Governed AI adoption
+## Try ChatGPT Work prompts for data teams
 
-Control access to approved data with RBAC, and get citations and reviews so teams trust the outputs.
+Adoption and retentionBusiness performance analysisOperational performanceProduct growthFinancial analysis
 
-## How data teams turn scattered data into decisions the business can act on with ChatGPT Work
+Follow the customer journey from installation and first use to ongoing activity. Find where customers get stuck and uncover opportunities to improve adoption.
 
-Product insights and recommendationsBusiness performance analysisMetric diagnosisKPI design and reportingDecision monitoring
+Create a dashboard tracking adoption of our product—from installation and first use to ongoing activity and retention. Help us find where customers get stuck.Try in ChatGPT Work
 
-### Compare performance and recommend how to improve.
+Create a dashboard tracking adoption of our product—from installation and first use to ongoing activity and retention. Help us find where customers get stuck.Try in ChatGPT Work
 
-Use @Databricks Genie metrics, @Salesforce data, and @Slack context to compare launch adoption and day-30 retention across products and customer segments. Build an interactive report with @Data Analytics and recommend what we should do next. Use the findings to create a PRD for improving the product.
+### Acme adoption and retention dashboard
 
-## Work across your data tools and context
+## Trusted by leading teams
 
-[View plugins](</business/plugins/>)
+ChatGPT Work is deployed to thousands of businesses including leading companies like Virgin Atlantic, BNY, and Estée Lauder.
 
-[](</business/apps/google-drive/>)
+1 of 5
 
-[](</business/apps/google-calendar/>)
+> “ChatGPT has really turbocharged our insights, understanding, and the ability to make decisions that ultimately enhance the end-to-end customer journey for our guests.”
 
-[](</business/apps/microsoft-teams/>)
-
-[](</business/apps/gmail/>)
-
-[](</business/apps/microsoft-sharepoint/>)
-
-[](</business/apps/slack/>)
-
-[](</business/apps/airtable/>)
-
-[](</business/apps/notion/>)
-
-[](</business/apps/linear/>)
-
-[](</business/apps/dropbox/>)
-
-[](</business/apps/figma/>)
-
-[](</business/apps/hubspot/>)
-
-[](</business/apps/google-drive/>)
-
-[](</business/apps/google-calendar/>)
-
-[](</business/apps/microsoft-teams/>)
-
-[](</business/apps/gmail/>)
-
-[](</business/apps/microsoft-sharepoint/>)
-
-[](</business/apps/slack/>)
-
-[](</business/apps/airtable/>)
-
-[](</business/apps/notion/>)
-
-[](</business/apps/linear/>)
-
-[](</business/apps/dropbox/>)
-
-[](</business/apps/figma/>)
-
-[](</business/apps/hubspot/>)
-
-## Why data teams choose OpenAI
-
-See how data teams are making OpenAI part of how they turn data into insights, accelerate reporting, and scale analysis across the organization.
-
-1 of 4
+Miles King, Head of Customer Experience at Virgin Atlantic
 
 > “We believe AI models, such as those developed by OpenAI, are the way to amplify the impact we can make on top of the data.”
 
@@ -145,6 +142,8 @@ Antonio Bravo, Global Head of Data & AI, BBVA
 
 Daniel Arzouman, Business Intelligence Analyst, San Antonio Spurs
 
+  * Virgin Atlantic
+
   * Rakuten Group
 
   * The Estée Lauder Companies
@@ -156,52 +155,130 @@ Daniel Arzouman, Business Intelligence Analyst, San Antonio Spurs
 
 
 
+  * Virgin Atlantic
   * Rakuten Group
   * The Estée Lauder Companies
   * BBVA
   * San Antonio Spurs
 
 
+
+![Virgin Atlantic ChatGPT Work card image](https://images.ctfassets.net/kftzwdyauwt9/4G2F8rchz4lfJxdQGBYEb0/e367ed4f9ac0a5cfe505ddb1eed20393/oai_VirginAtlantic_1x1.png?w=3840&q=90&fm=webp)
+
+[Virgin Atlantic sharpens customer journeys with ChatGPT Work](</index/virgin-atlantic/chatgpt-work/>)
 
 ![A white Rakuten logo superimposed on a red background.](https://images.ctfassets.net/kftzwdyauwt9/2dpPH8h8jrBYrXYpujHykN/2bb8f2b6ad281701a79a5373e60a0ce7/Rakuten.jpg?w=3840&q=90&fm=webp)
 
-## [Rakuten pairs data with AI to unlock customer insights and valueAPILearn more](</index/rakuten-2024/>)
+## [Rakuten pairs data with AI to unlock customer insights and value](</index/rakuten-2024/>)
 
 ![Estée Lauder Companies logo in white, set against a textured close-up of crushed pink powder, resembling makeup pigments.](https://images.ctfassets.net/kftzwdyauwt9/5r8WffR8g3bbiYmlugUs9c/d9232bfac9f79ed6ad2fa79327822878/oai_esteelauder_1_1.jpg?w=3840&q=90&fm=webp)
 
-## [Data-driven beauty: How The Estée Lauder Companies unlocks insights with ChatGPTLearn more](</index/estee-lauder/>)
+## [Data-driven beauty: How The Estée Lauder Companies unlocks insights with ChatGPT](</index/estee-lauder/>)
 
 ![BBVA  > oai bbva 1x1](https://images.ctfassets.net/kftzwdyauwt9/4Ygin6jpvTgfSBwBXZOJCb/76cb2f180b135e568c6f2b73cb97b236/oai_BBVA_1x1.png?w=3840&q=90&fm=webp)
 
-## [BBVA puts AI in the hands of every team with OpenAILearn more](</index/bbva/>)
+## [BBVA puts AI in the hands of every team with OpenAI](</index/bbva/>)
 
-![Grab logo in white, centered on a background of soft-focus green grass, with blades appearing to sway in motion.](https://images.ctfassets.net/kftzwdyauwt9/1oU3yr7ION7tdcVrPThcXv/5fcc97973d4b33cd95ca4cf335163cb4/oai_grab_1_1.jpg?w=3840&q=90&fm=webp)
+![San Antonio Spurs logo displayed on a stylized basketball court background with teal, orange, and cream-colored sections and lines.](https://images.ctfassets.net/kftzwdyauwt9/3T53lsDpxxxZkP95bJqGlk/72b9117d5dddf09c24521dfee740ce13/oai_Spur_1x1.png?w=3840&q=90&fm=webp)
 
-## [Grab builds smarter maps for Southeast Asia with vision fine-tuningLearn more](</index/grab/>)
+[The San Antonio Spurs use ChatGPT to scale impact on and off the court](</index/san-antonio-spurs/>)
 
-## Data analytics resources
+## Work with the data tools you trust
 
-Explore additional resources for getting started with OpenAI.
+The Data agent connects to your data sources, context layers, and visualization tools. Build and explore dashboards in the tools your team already uses, just by asking in ChatGPT Work.
+
+1 of 9
+
+> “With the Data agent in ChatGPT Work, users can connect directly to Amazon Redshift, making it as easy as asking a question to explore data, surface insights, and make faster decisions across their organization.”
+
+Naresh Chainani, Director of Engineering, AWS
+
+> “Connecting ClickHouse to the Data agent in ChatGPT Work puts real-time analytics in front of all business users making decisions big or small.”
+
+Ryadh Dahimene, Director of Product Management, ClickHouse
+
+> “Thousands of organizations rely on Databricks Genie to deliver trusted answers on their enterprise data. Genie has the rich context for bridging the gap from data to insights. We are thrilled to partner with OpenAI to make it easy for all ChatGPT users to tap into Genie's data intelligence.”
+
+Ken Wong, Senior Director, Product Management, Databricks
+
+> “Our customers have built a trusted foundation for enterprise data and context in Snowflake. With the Data agent in ChatGPT Work, employees can tap into that data and access controls to investigate business questions—while OpenAI models simultaneously bring intelligence to experiences like Snowflake CoCo and CoWork. Teams share a common, governed understanding of their business wherever they choose to work.”
+
+Umesh Unnikrishnan, Head of Developer Experiences, Snowflake
+
+> “Our customers' most important data lives in Atlas, updating in real time as their business runs — every order, every session, every event landing as it happens. Now the Data agent in ChatGPT Work can reach that data directly, so instead of waiting on a report built from yesterday's numbers, anyone can ask a plain-language question and get an answer grounded in what's happening right now.”
+
+Pablo Stern, Chief Product Officer, AI and Emerging Products, MongoDB
+
+> “Connecting Redis to the Data agent in ChatGPT Work lets agents go beyond querying data to acting on it in real time, with context and access controls our customers already trust. Teams spend less time wiring systems together and more time putting that data to work.”
+
+Rowan Trollope, CEO, Redis
+
+> “Connecting Tableau with ChatGPT Work brings trusted business semantics into a place employees already work, so the answers they get are grounded in the same data model their teams rely on. Users can easily transform insights into action by asking questions, exploring evidence, and publishing new views directly to Tableau using built-in design and analytics best practices.”
+
+Southard Jones, EVP & Chief Product Officer, Tableau
+
+> “Our customers use Sigma for revenue forecasts and operational planning because the metrics, workbooks, and analysis behind them are governed and shared. Bringing that into ChatGPT Work means the fastest place to ask a question is now also the place where answers are grounded in semantics.”
+
+Hassen Karaa, SVP of Product, Sigma
+
+> “G2's trusted B2B software data with the Data agent in ChatGPT Work helps teams understand buyer needs, competitive dynamics, and emerging trends. It brings insights from verified customer reviews, buyer intent signals, and market intelligence directly into the workflows where teams make decisions.”
+
+Godard Abel, CEO and co-founder, G2
+
+  * AWS
+
+  * ClickHouse
+
+  * Databricks
+
+  * Snowflake
+
+  * MongoDB
+
+  * Redis
+
+  * Tableau
+
+  * Sigma
+
+  * G2
+
+
+
+
+  * AWS
+  * ClickHouse
+  * Databricks
+  * Snowflake
+  * MongoDB
+  * Redis
+  * Tableau
+  * Sigma
+  * G2
+
+
+
+## Data resources
+
+Real customer stories, practical prompts, and guidance for business intelligence, performance analysis, and executive reporting.
 
 ![Abstract blue art card for ChatGPT Work webinar resources.](https://images.ctfassets.net/kftzwdyauwt9/6Ha7QQ4NC6ajzW0cJwlzzp/7a6339ffc1cd5cf02d2b58e8cac019ec/Webinar_art_card.png?w=3840&q=90&fm=webp)
 
-## [Watch webinarSee how our Data Analytics team uses ChatGPT Work to explain performance shifts and identify where to focus.(opens in a new window)](<https://webinar.openai.com/chatgpt-work-series/data-analytics/?utm_medium=website&utm_campaign=WBR-chatgpt-work-series-data-analytics-resources>)
+## [Watch webinarSee how our data team uses ChatGPT Work to turn campaign results into recommendations that improve the next launch.(opens in a new window)](<https://webinar.openai.com/chatgpt-work-series/data-analytics/?utm_medium=website&utm_campaign=WBR-chatgpt-work-series-data-analytics-resources>)
 
-![How data science teams use Codex > card image](https://images.ctfassets.net/kftzwdyauwt9/xyevYnp4Ptaa1eMgBDNjS/75fea80018f321b89809d893f1a5786d/data_science_teams.png?w=3840&q=90&fm=webp)
+![Now everyone can put data to work — card image](https://images.ctfassets.net/kftzwdyauwt9/6FhMXOSe8XadGwEUev6QjJ/916a64d20bcc59b8619fea1827fa6bd3/put-data-to-work--cover-v001.png?w=3840&q=90&fm=webp)
 
-[AcademyBuild AI skills with hands-on lessons and learning paths from OpenAI.](</academy/chatgpt-work/how-data-science-teams-use-codex/>)
+## [Data agent announcementIntroducing the new Data agent in ChatGPT Work to help turn your company’s data into answers, interactive dashboards, and action, just by asking.](</index/put-data-to-work/>)
 
-![Business Learning Hub 1x1](https://images.ctfassets.net/kftzwdyauwt9/3WaN0u4u87BK3dXsD569qh/f40a4e250dc00d0bbf5ec418be81fc9c/Business_Learning_Hub_1x1.png?w=3840&q=90&fm=webp)
+![orange abstract texture](https://images.ctfassets.net/kftzwdyauwt9/jewpiuXfA3a2uuDErMBS2/535acfacfc64051437a6fa215428e578/figma-15212-4503-option-001-cover.png?w=3840&q=90&fm=webp)
 
-[Guides & ResourcesExplore business guides for adopting AI securley and at scale.](</business/learn/>)
+[Guides & ResourcesGo to help center to get started on the Data agent.(opens in a new window)](<https://help.openai.com/articles/20001518>)
 
-## See what OpenAI can do for data analytics teams
+## Expand your data team’s capacity with OpenAI
 
-Whether you’re scaling an in-house data function or building data products for customers, we can help you identify where to start.
+Get your most ambitious work done by spending more time analyzing data, uncovering insights, and driving better business decisions with ChatGPT Work.
 
-[Contact sales](</contact-sales/>)
-
-Get started
+[Contact sales](</contact-sales/>)[Explore solutions](</business/solutions/>)
 
 Research
 

@@ -60,15 +60,17 @@ Because the future of AI won’t unfold exactly as anyone predicts—and may adv
 
 [View all](</news/>)
 
-[The Hugging Face incident and the road aheadSecurityAug 26, 2026](</index/hugging-face-incident-and-the-road-ahead/>)
+![Expanding AI access across every level of US government - listing image - Option 051](https://images.ctfassets.net/kftzwdyauwt9/2DbgwJ93neBePatQjKO2h7/d63008264f83f3dcc786fe98410151be/government-blog-card-option-051-review-1080x1080.png?w=3840&q=90&fm=webp)
 
-![DMUA Russia > card image ](https://images.ctfassets.net/kftzwdyauwt9/ciRSLFnJsNyxXYQjdoyqu/ff8ab22ad273ff79a4c9840f0c209fe6/Frame.png?w=3840&q=90&fm=webp)
+[Expanding AI access across every level of US governmentGlobal AffairsSep 10, 2026](</index/expanding-ai-access-us-government/>)
 
-[Disrupting a new covert influence campaign from RussiaGlobal AffairsAug 25, 2026](</index/disrupting-malicious-uses-of-ai-influence-campaign-russia/>)
+![The AI Policy Window Is Open. We Need to Act. — card](https://images.ctfassets.net/kftzwdyauwt9/1h2LJdMeZWvaobm9wZl7T0/3cc15e97034f5375e78cd90163eed6a5/ai-policy-window-card.png?w=3840&q=90&fm=webp)
 
-![Strengthening Democratic Oversight in National Security — card image](https://images.ctfassets.net/kftzwdyauwt9/1qebg0OnHIh4dqr84zXR3Q/dba2f0e83ba4615a71894fd7fd1656e1/openai-democratic-oversight-page-cover-v002.png?w=3840&q=90&fm=webp)
+[The AI policy window is open. We need to act.Global AffairsSep 9, 2026](</index/ai-policy-window/>)
 
-[Strengthening Democratic Oversight in National SecurityGlobal AffairsAug 18, 2026](</index/strengthening-democratic-oversight-in-national-security/>)
+![Navier–Stokes solution — art card](https://images.ctfassets.net/kftzwdyauwt9/2VUQZfeF2GtKRitKYdkoLu/cc96d05424afb2c9adcca0734ecdafb1/navier-stokes-art-card.png?w=3840&q=90&fm=webp)
+
+[An OpenAI model proposes a solution to the Navier–Stokes problemResearchSep 8, 2026](</index/navier-stokes-solution/>)
 
 Research
 
@@ -80,6 +82,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)

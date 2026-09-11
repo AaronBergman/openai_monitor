@@ -114,17 +114,17 @@ For Zenken, ChatGPT Enterprise is more than a tool. In Okada’s words, it has b
 
 ## Keep reading
 
-![Daybreak for Critical Infrastructure — cover](https://images.ctfassets.net/kftzwdyauwt9/3iCwHSjR2bfJPdDiWomsis/86d511413c2b0338bd211b41545be495/Option_65___1080_1080.png?w=3840&q=90&fm=webp)
+![How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules — card image](https://images.ctfassets.net/kftzwdyauwt9/5UARNm4AwJ9OfXCIzHZgLF/c05ef4322030e9552dfe2458d34ceaed/index-codex-chatgpt-antimicrobials--cover-v001.png?w=3840&q=90&fm=webp)
 
-[Daybreak for Frontline DefendersSecuritySep 3, 2026](</index/daybreak-for-frontline-defenders/>)
+[How a researcher uses Codex and ChatGPT to search for new antimicrobial moleculesApplied AISep 10, 2026](</index/using-codex-chatgpt-to-search-for-new-antimicrobials/>)
 
-![Legora customer story art card - Option C](https://images.ctfassets.net/kftzwdyauwt9/13uynVdSWJS9UT4Y7EppMn/7259e4915a7e6ea2f4c52c2109eace61/square.png?w=3840&q=90&fm=webp)
+![Now everyone can put data to work — card image](https://images.ctfassets.net/kftzwdyauwt9/6FhMXOSe8XadGwEUev6QjJ/916a64d20bcc59b8619fea1827fa6bd3/put-data-to-work--cover-v001.png?w=3840&q=90&fm=webp)
 
-[Legora reviewed 41 documents in minutes with GPT-6 AstraStartupSep 3, 2026](</index/legora-financial-statement-review-with-astra/>)
+[Now everyone can put data to workProductSep 10, 2026](</index/put-data-to-work/>)
 
-![Playco Astra customer story art card - Option B](https://images.ctfassets.net/kftzwdyauwt9/2GBXEJdShwgtUKQZc9Ojsm/ae87410a653bd421e514515deee02940/playco-art-card-option-b-approved.png?w=3840&q=90&fm=webp)
+![FinServ Blog - Art Card Texture Square](https://images.ctfassets.net/kftzwdyauwt9/6Bcg403pebiJhQdHUS17FK/572e478dc4579deca27c9700c662e908/finserv-art-card.png?w=3840&q=90&fm=webp)
 
-[Playco cut manual fixes 50% prototyping games with GPT-6 AstraStartupSep 3, 2026](</index/playco-game-prototyping-with-astra/>)
+[Introducing ChatGPT for Financial ServicesProductSep 10, 2026](</index/introducing-chatgpt-financial-services/>)
 
 Research
 

@@ -32,9 +32,9 @@ Book clients, get paid
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a7c329c161c8191a8df623446a34000>)[Contact sales](</contact-sales/>)
 
-[@HoneyBook Which of my leads have gone quiet?(opens in a new window)](<https://chatgpt.com/?prompt=%40HoneyBook+Which+of+my+leads+have+gone+quiet%3F>)[@HoneyBook Who still owes me money?(opens in a new window)](<https://chatgpt.com/?prompt=%40HoneyBook+Who+still+owes+me+money%3F>)[@HoneyBook Add a new contact for a client I just met(opens in a new window)](<https://chatgpt.com/?prompt=%40HoneyBook+Add+a+new+contact+for+a+client+I+just+met>)
+[HoneyBook Which of my leads have gone quiet?(opens in a new window)](<https://chatgpt.com/?prompt=%40HoneyBook+Which+of+my+leads+have+gone+quiet%3F>)[HoneyBook Who still owes me money?(opens in a new window)](<https://chatgpt.com/?prompt=%40HoneyBook+Who+still+owes+me+money%3F>)[HoneyBook Add a new contact for a client I just met(opens in a new window)](<https://chatgpt.com/?prompt=%40HoneyBook+Add+a+new+contact+for+a+client+I+just+met>)
 
-Use case: [Productivity](</business/plugins/?tab=plugins-productivity>) and [Small Business](</business/plugins/?tab=plugins-small-business>)
+Use case: [Operations](</business/plugins/?tab=plugins-operations>) and [Small Business](</business/plugins/?tab=plugins-small-business>)
 
 Made by: HoneyBook, Inc
 

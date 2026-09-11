@@ -122,6 +122,10 @@ More than 1 million businesses around the world are achieving meaningful results
 
 [View all](</news/>)
 
+![Introducing the Agents API — cover image](https://images.ctfassets.net/kftzwdyauwt9/6iP1bamSOXsPLwzFAepmx2/8b8fec31ba235a13ee695a607d7fe641/cover-image.png?w=3840&q=90&fm=webp)
+
+[Introducing the Agents APIProductSep 10, 2026](</index/introducing-the-agents-api/>)
+
 ![Higgsfield > Card Image](https://images.ctfassets.net/kftzwdyauwt9/1QYuGKBKSzphKj2bCMG4Tp/aab097df8ead5298a1cbce05209801f7/oai_higgsfield_1x1.png?w=3840&q=90&fm=webp)
 
 [How Higgsfield turns simple ideas into cinematic social videosAPIJan 21, 2026](</index/higgsfield/>)
@@ -129,10 +133,6 @@ More than 1 million businesses around the world are achieving meaningful results
 ![OpenAI on OpenAI: User Support > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/76CnrtKKvngPIfdfXYcXG8/cb789b59d9f7dd8e3b385b532be76a77/oai_SupportAgent_1x1.png?w=3840&q=90&fm=webp)
 
 [Improving support with every interaction at OpenAIAPISep 29, 2025](</index/openai-support-model/>)
-
-![OpenAI on OpenAI > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/5gbagfbtROvYfi0cQlpEM3/89367ef5dca927d48e541f6f430ea212/oai_GC_1x1__1_.png?w=3840&q=90&fm=webp)
-
-[Building OpenAI with OpenAIChatGPTSep 29, 2025](</index/building-openai-with-openai/>)
 
 Research
 
@@ -144,6 +144,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)

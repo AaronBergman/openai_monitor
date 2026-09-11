@@ -30,7 +30,9 @@ OpenAI[View all plugins](</business/plugins/>)
 
 See and understand data
 
-[Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a5937013728819186b9de76e1f68de1>)[Contact sales](</contact-sales/>)
+[Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugins_6aa0b89dcfc88191ba9971f2d7182516>)[Contact sales](</contact-sales/>)
+
+[Tableau Tell me about the Tableau Plugin and what it can do.(opens in a new window)](<https://chatgpt.com/?prompt=%40Tableau+Tell+me+about+the+Tableau+Plugin+and+what+it+can+do.>)[Tableau Show me the Commission Model dashboard. Also, tell me who is above 100% attainment(opens in a new window)](<https://chatgpt.com/?prompt=%40Tableau+Show+me+the+Commission+Model+dashboard.+Also%2C+tell+me+who+is+above+100%25+attainment>)[Tableau Use the superstore workbook as a starting point, and add a new sheet showing profit ratio (profit / sales) by category.(opens in a new window)](<https://chatgpt.com/?prompt=%40Tableau+Use+the+superstore+workbook+as+a+starting+point%2C+and+add+a+new+sheet+showing+profit+ratio+%28profit+%2F+sales%29+by+category.>)
 
 Use case: [Data & Research](</business/plugins/?tab=plugins-data-research>)
 
@@ -40,33 +42,33 @@ Website: [tableau.com(opens in a new window)](<https://www.tableau.com/>)
 
 ## How it works
 
-The Tableau app enables any Tableau Cloud user to seamlessly connect ChatGPT to their Tableau environment. Use this app to: \- Chat with your data – Reuse your trusted, curated data models to answer ad-hoc questions that are grounded on your business semantics and metadata. \- Find insights from pre-built data artifacts – Enable ChatGPT to query your published workbooks and extract data, images, custom views and more. \- Discover metrics and generate insights – Bring 100% accuracy and deterministic AI to ChatGPT by using Pulse metric definitions and the Pulse insights engine. \- Manage and administer your Tableau environment.
+Connects Codex to Tableau's hosted MCP server (mcp.tableau.com) so you can search Tableau sites, inspect workbooks and data sources, query data with VizQL, read Pulse metrics, and generate or modify workbooks by editing their TWB XML and publishing it back — all scoped to the OAuth-authenticated user's own Tableau permissions. Workbook authoring requires the 'authoring-tools' and 'mcp-apps' feature gates to be enabled on the Tableau site.
 
-### Explain revenue changes
+### Review sales attainment
 
-Compare revenue across regions and products to identify the largest contributors to a quarterly change.
+Identify sellers above target using the Commission Model dashboard.
 
-### Review Pulse metrics
+### Explain metric changes
 
-Turn Pulse metric changes and contributing factors into a focused business review.
+Summarize changes in selected Pulse metrics and prioritize areas for investigation.
 
-### Prepare a dashboard briefing
+### Compare category profitability
 
-Summarize a published sales workbook with supporting views and questions for the next business review.
+Add a profit-ratio view to the Superstore workbook when workbook authoring is enabled.
 
 ## Sample prompts
 
-**@Tableau** Compare last quarter's revenue with the previous quarter using our published sales data source. Break down the change by region and product, rank the largest contributors, and state the metric definitions used.
+**@Tableau** Show me the Commission Model dashboard. Also, tell me who is above 100% attainment
 
-**@Tableau** Review the Pulse metrics I follow. Summarize their latest period changes and top contributors, then prioritize three movements to investigate with the supporting metric values.
+**@Tableau** Review my Pulse metrics for [business area] over the last month. Summarize the largest changes and available insights, and recommend which metrics need investigation with links to the sources.
 
-**@Tableau** Find our published sales performance workbook and review its views. Prepare a concise briefing on the main trends and exceptions, link the supporting views, and recommend questions for the next review.
+**@Tableau** Use the superstore workbook as a starting point, and add a new sheet showing profit ratio (profit / sales) by category.
 
 ## Resources
 
 ### [Help centerRead more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
 
-### [Plugin supportRead more](<https://www.tableau.com/about/contact/customer-service>)
+### [Plugin supportRead more](<https://help.openai.com/en/articles/6614161-how-can-i-contact-support>)
 
 ### [Privacy policyRead more](<https://www.salesforce.com/company/legal/privacy/>)
 

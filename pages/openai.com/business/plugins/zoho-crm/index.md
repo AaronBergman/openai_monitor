@@ -32,9 +32,9 @@ Connect to sync Zoho CRM records and activities for use in ChatGPT.
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a193ef5e804819197c25f88d92d6bf7>)[Contact sales](</contact-sales/>)
 
-[@Zoho CRM Search Zoho CRM for open deals closing this quarter and summarize the highest-risk opportunities.(opens in a new window)](<https://chatgpt.com/?prompt=%40Zoho+CRM+Search+Zoho+CRM+for+open+deals+closing+this+quarter+and+summarize+the+highest-risk+opportunities.>)[@Zoho CRM Find Zoho CRM contacts at an account and summarize recent activities.(opens in a new window)](<https://chatgpt.com/?prompt=%40Zoho+CRM+Find+Zoho+CRM+contacts+at+an+account+and+summarize+recent+activities.>)[@Zoho CRM Pull Zoho CRM organization settings and users needed to audit access.(opens in a new window)](<https://chatgpt.com/?prompt=%40Zoho+CRM+Pull+Zoho+CRM+organization+settings+and+users+needed+to+audit+access.>)
+[Zoho CRM Search Zoho CRM for open deals closing this quarter and summarize the highest-risk opportunities.(opens in a new window)](<https://chatgpt.com/?prompt=%40Zoho+CRM+Search+Zoho+CRM+for+open+deals+closing+this+quarter+and+summarize+the+highest-risk+opportunities.>)[Zoho CRM Find Zoho CRM contacts at an account and summarize recent activities.(opens in a new window)](<https://chatgpt.com/?prompt=%40Zoho+CRM+Find+Zoho+CRM+contacts+at+an+account+and+summarize+recent+activities.>)[Zoho CRM Pull Zoho CRM organization settings and users needed to audit access.(opens in a new window)](<https://chatgpt.com/?prompt=%40Zoho+CRM+Pull+Zoho+CRM+organization+settings+and+users+needed+to+audit+access.>)
 
-Use case: [Productivity](</business/plugins/?tab=plugins-productivity>), [Sales & Commerce](</business/plugins/?tab=plugins-sales-commerce>), and [Marketing](</business/plugins/?tab=plugins-marketing>)
+Use case: [Operations](</business/plugins/?tab=plugins-operations>), [Sales & Commerce](</business/plugins/?tab=plugins-sales-commerce>), and [Marketing](</business/plugins/?tab=plugins-marketing>)
 
 Made by: Zoho
 

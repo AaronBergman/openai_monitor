@@ -52,6 +52,26 @@ Switch cards to show Media
 
 Switch cards to hide Media
 
+![Now everyone can put data to work — card image](https://images.ctfassets.net/kftzwdyauwt9/6FhMXOSe8XadGwEUev6QjJ/916a64d20bcc59b8619fea1827fa6bd3/put-data-to-work--cover-v001.png?w=3840&q=90&fm=webp)
+
+[Now everyone can put data to workProductSep 10, 2026](</index/put-data-to-work/>)
+
+![FinServ Blog - Art Card Texture Square](https://images.ctfassets.net/kftzwdyauwt9/6Bcg403pebiJhQdHUS17FK/572e478dc4579deca27c9700c662e908/finserv-art-card.png?w=3840&q=90&fm=webp)
+
+[Introducing ChatGPT for Financial ServicesProductSep 10, 2026](</index/introducing-chatgpt-financial-services/>)
+
+![GPT-Live-1 API | Green-blue cover | Option 038](https://images.ctfassets.net/kftzwdyauwt9/1uBabEULLfw3Vb2Gldmyyq/c19c1c121ca403ee8b2703cba18ef82d/introducing-gpt-live-1-green-cover.png?w=3840&q=90&fm=webp)
+
+[Build more natural voice experiences with GPT‑Live‑1 in the APIProductSep 10, 2026](</index/introducing-gpt-live-1-in-the-api/>)
+
+![Introducing the Agents API — cover image](https://images.ctfassets.net/kftzwdyauwt9/6iP1bamSOXsPLwzFAepmx2/8b8fec31ba235a13ee695a607d7fe641/cover-image.png?w=3840&q=90&fm=webp)
+
+[Introducing the Agents APIProductSep 10, 2026](</index/introducing-the-agents-api/>)
+
+![A Chat and Work toggle with Work selected against a dark starfield.](https://images.ctfassets.net/kftzwdyauwt9/4DiwuhcC2lGuzS8klQkxXh/f1ac95e9bed5621a5b29f054f75db40b/Business_blog_1x1.png?w=3840&q=90&fm=webp)
+
+[GPT-6 Astra: The next generation in intelligence for workProductSep 9, 2026](</index/gpt-6-astra-next-generation-work/>)
+
 ![images2point5 1-1](https://images.ctfassets.net/kftzwdyauwt9/6C1icjo4Zz6MzpbQl1K2qx/8bf8ec06aae235d81019c24f6098d2f0/images2point5_1-1c.png?w=3840&q=90&fm=webp)
 
 [Introducing ChatGPT Images 2.5ProductSep 8, 2026](</index/introducing-chatgpt-images-2-5/>)
@@ -65,26 +85,6 @@ Switch cards to hide Media
 ![Expanding access to AI > Cover image](https://images.ctfassets.net/kftzwdyauwt9/x3ij3VqMj60KcdHucQvNc/414ce018aafcf0916557e004ee112d71/expanding-access-to-ai--art-card-purple-v001.png?w=3840&q=90&fm=webp)
 
 [A milestone in expanding access to AIProductAug 31, 2026](</index/expanding-access-to-ai-with-chatgpt-ads/>)
-
-![ChatGPT for Teachers district expansion | Original neutral library cover](https://images.ctfassets.net/kftzwdyauwt9/4jHps0gmVQfIrnl2shwDBi/35e47854409876d353f3bb502a164317/teachers-original-neutral-listing.png?w=3840&q=90&fm=webp)
-
-[Bringing ChatGPT for Teachers to more U.S. school districtsProductAug 26, 2026](</index/bringing-chatgpt-for-teachers-to-more-us-school-districts/>)
-
-![Learning never stops card image](https://images.ctfassets.net/kftzwdyauwt9/rGBw0SMWP2aaIH5twRBgX/5f8f24d0e5a03eecfc74ab6cee3dc331/learning-never-stops-how-ai-makes-learning-continuous-cover.png?w=3840&q=90&fm=webp)
-
-[Learning never stops: How AI makes learning continuousProductAug 26, 2026](</index/learning-never-stops/>)
-
-![GPT-5.6 in Kiro > OpenAI and official Kiro full logo > 1:1 art card](https://images.ctfassets.net/kftzwdyauwt9/31NSq4ufuXRuOUqH9Xdjno/319b9502b892d44b8b91df7aef9d53ed/OAI_Kiro_Partnership_1x1_Art_Card_Official_Full_Lockup_2160.png?w=3840&q=90&fm=webp)
-
-[Advancing price-performance for developers with GPT‑5.6 in KiroProductAug 24, 2026](</index/gpt-5-6-in-kiro/>)
-
-![ChatGPT Ads expands across Europe - Card image](https://images.ctfassets.net/kftzwdyauwt9/IMh9E5WMDoVaUJyBJrsEP/697ba885d5e89b6bd27a55b9c9a783ae/chatgpt-ads-europe-readable-card.png?w=3840&q=90&fm=webp)
-
-[ChatGPT Ads expands across EuropeProductAug 18, 2026](</index/chatgpt-ads-expands-across-europe/>)
-
-![ChatGPT for Teens — square card](https://images.ctfassets.net/kftzwdyauwt9/5IP7e1KeD8zkZq6YUrKdKW/2325215681ea59d32dd09b3ea90f12c5/Art_Card-TEENS-1x13x.png?w=3840&q=90&fm=webp)
-
-[Introducing ChatGPT for TeensProductAug 18, 2026](</index/chatgpt-for-teens/>)
 
 Load more
 

@@ -26,6 +26,14 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 OpenAI
 
+New
+
+### Introducing ChatGPT for Financial Services
+
+GPT‑6 Astra, included financial data, and new tools for financial services teams.
+
+[Learn more](</index/introducing-chatgpt-financial-services/>)
+
 # AI for your finance team’s most ambitious work
 
 Finance teams use ChatGPT Work to get better visibility across the business, turn complex work into decision-ready analysis, and spend more time shaping what happens next.
@@ -100,14 +108,6 @@ Review this financial model and source materials. Update assumptions, check form
 ## AI for every finance function
 
 CFOFP&AAccountingFinance operationsCorporate developmentInvestor relations
-
-#### See what’s driving performance across the business
-
-#### Pressure-test forecasts, cash flow, and financial scenarios
-
-#### Prioritize capital allocation and strategic investment decisions
-
-#### Guide board-level decisions with clear financial insights
 
 ## Enterprise-grade security and controls
 
@@ -204,6 +204,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
@@ -298,3 +299,11 @@ Terms & Policies
 OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
+
+#### See what’s driving performance across the business
+
+#### Pressure-test forecasts, cash flow, and financial scenarios
+
+#### Prioritize capital allocation and strategic investment decisions
+
+#### Guide board-level decisions with clear financial insights

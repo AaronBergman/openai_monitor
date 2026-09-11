@@ -32,7 +32,7 @@ Complete structured AI skills courses with applied practice and certificates.
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_693022c8c0088191a7c7572aee832a0c>)[Contact sales](</contact-sales/>)
 
-Use case: [Data & Research](</business/plugins/?tab=plugins-data-research>)
+Use case: [Education](</business/plugins/?tab=plugins-education>)
 
 Made by: OpenAI Certified
 
