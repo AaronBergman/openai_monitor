@@ -32,15 +32,9 @@ Create marketing campaigns.
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_693b20fccbac8191bdc178bb493de3e5>)[Contact sales](</contact-sales/>)
 
-@Intuit Mailchimp Create a 4 week campaign for my business.
+[Intuit Mailchimp Create a 4 week campaign for my business.(opens in a new window)](<https://chatgpt.com/?prompt=%40Intuit+Mailchimp+Create+a+4+week+campaign+for+my+business.>)[Intuit Mailchimp Why did my last campaign underperform?(opens in a new window)](<https://chatgpt.com/?prompt=%40Intuit+Mailchimp+Why+did+my+last+campaign+underperform%3F>)
 
-![@Intuit Mailchimp Create a 4 week campaign for my business.](https://files.openai.com/content?id=file_000000000c648230a5767838264a2dd3&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=8&sig=c5f6c68e54b19d7a67d3ea2b36c5017e58b32d47077adcdbef52a48c783d26b7&v=0)
-
-@Intuit Mailchimp Why did my last campaign underperform?
-
-![@Intuit Mailchimp Why did my last campaign underperform?](https://files.openai.com/content?id=file_000000000b5881f69309e985c3e395a2&cdn=1&cp=pi&ma=31190400&ts=0&p=pi&cid=8&sig=489cc98ccbf621b77450fa7e57346f7f9b1d44873ea12556542a96b946395aa1&v=0)
-
-Use case: [Productivity](</business/plugins/?tab=plugins-productivity>)
+Use case: [Operations](</business/plugins/?tab=plugins-operations>)
 
 Made by: Intuit Inc
 

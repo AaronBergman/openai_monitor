@@ -58,11 +58,15 @@ OpenAI’s GPT series models are fast, versatile, and cost-efficient AI systems 
 
 Our research on visual and multimodal AI has led to advances in image generation, vision-language understanding, and models that can reason across images and text.
 
+![images2point5 1-1](https://images.ctfassets.net/kftzwdyauwt9/6C1icjo4Zz6MzpbQl1K2qx/8bf8ec06aae235d81019c24f6098d2f0/images2point5_1-1c.png?w=3840&q=90&fm=webp)
+
+[Sharper details, faster generation, and more precise editingChatGPT Images 2.5Sep 8, 20266 min read](</index/introducing-chatgpt-images-2-5/>)
+
 ![Images 2.0 blog art card](https://images.ctfassets.net/kftzwdyauwt9/7fPF7LU0YzPr5PrlNT6lo3/823a11178d4aac15d4f4260b9fcc490d/Blog_art_card.png?w=3840&q=90&fm=webp)
 
 [A state-of-the-art model that makes precise, immediately usable visualsChatGPT Images 2.0Apr 21, 202611 min read](</index/introducing-chatgpt-images-2-0/>)
 
-[A natively multimodal model capable of precise, accurate, photorealistic outputsImage GenerationMar 25, 20256 min read](</index/introducing-4o-image-generation/>)
+[A natively multimodal model capable of precise, accurate, photorealistic outputs4o Image GenerationMar 25, 20256 min read](</index/introducing-4o-image-generation/>)
 
 ### Audio
 

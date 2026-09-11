@@ -132,6 +132,22 @@ Customer stories
 
 Filter
 
+![1Password > Card image > Fiber ridge close-up](https://images.ctfassets.net/kftzwdyauwt9/6IJsWuQa1blfxNfvbdIF1m/0868067102440aea5fd1ad35ba436a77/square.png?w=3840&q=90&fm=webp)
+
+[1Password increases engineering productivity 21% with CodexSep 8, 2026](</index/1password/>)
+
+![Legora customer story art card - Option C](https://images.ctfassets.net/kftzwdyauwt9/13uynVdSWJS9UT4Y7EppMn/7259e4915a7e6ea2f4c52c2109eace61/square.png?w=3840&q=90&fm=webp)
+
+[Legora reviewed 41 documents in minutes with GPT-6 AstraStartupSep 3, 2026](</index/legora-financial-statement-review-with-astra/>)
+
+![Playco Astra customer story art card - Option B](https://images.ctfassets.net/kftzwdyauwt9/2GBXEJdShwgtUKQZc9Ojsm/ae87410a653bd421e514515deee02940/playco-art-card-option-b-approved.png?w=3840&q=90&fm=webp)
+
+[Playco cut manual fixes 50% prototyping games with GPT-6 AstraStartupSep 3, 2026](</index/playco-game-prototyping-with-astra/>)
+
+![ATV Big Air Tour card and hero image](https://images.ctfassets.net/kftzwdyauwt9/4iU7b7GIMgwR1T5k2Q7Wy5/ba1e283600652676745fc9fb33832f32/A-square.png?w=3840&q=90&fm=webp)
+
+[ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPTSep 2, 2026](</index/atv-big-air-tour/>)
+
 ![Gilbert + Tobin customer story 1:1 art card](https://images.ctfassets.net/kftzwdyauwt9/4cbvqTfw8GlWMbaVJxtCdR/e159c683a888317c926ea6c0bb0b17ad/gilbert-tobin-customer-story-1x1.webp?w=3840&q=90&fm=webp)
 
 [How law firm Gilbert + Tobin governs and scales AI with OpenAISep 1, 2026](</index/gilbert-tobin/>)
@@ -164,22 +180,6 @@ Filter
 
 [How RingCentral builds AI-native work from engineering to opsAug 12, 2026](</index/ringcentral/>)
 
-![Model ML customer story card image](https://images.ctfassets.net/kftzwdyauwt9/3STNMQMrFRC8mFdLYtjkV4/9cc21e9c729b2ae7cdf75aa3f49b3033/modelml-card.png?w=3840&q=90&fm=webp)
-
-[Model ML completes finance work more efficiently with GPT-5.6 SolStartupAug 10, 2026](</index/model-ml/>)
-
-![Virgin Atlantic ChatGPT Work card image](https://images.ctfassets.net/kftzwdyauwt9/4G2F8rchz4lfJxdQGBYEb0/e367ed4f9ac0a5cfe505ddb1eed20393/oai_VirginAtlantic_1x1.png?w=3840&q=90&fm=webp)
-
-[Virgin Atlantic sharpens customer journeys with ChatGPT WorkAug 10, 2026](</index/virgin-atlantic/chatgpt-work/>)
-
-![Zapier customer story 1x1 artcard](https://images.ctfassets.net/kftzwdyauwt9/6HUH0KlGRmTuI2IZ6h334C/3c78b804553f7184f6d72c9b33a668c3/oai_Zapier_1x1.png?w=3840&q=90&fm=webp)
-
-[How Zapier transformed core marketing processes with ChatGPT WorkAug 10, 2026](</index/zapier/>)
-
-![oai HSPGruppe 1x1](https://images.ctfassets.net/kftzwdyauwt9/2BdpQMESZ6vBBL3ms66ixC/369405aa3d8ed5a5e2994e0390e0d8a6/oai_HSPGruppe_1x1.png?w=3840&q=90&fm=webp)
-
-[How HSP GRUPPE builds AI capabilities for tax advisoryAug 7, 2026](</index/hsp-gruppe/>)
-
 Load more
 
 Research
@@ -192,6 +192,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)

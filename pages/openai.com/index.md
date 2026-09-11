@@ -82,17 +82,17 @@ Message ChatGPT
 
 [View all](</stories/>)
 
-![A cyclist pushes a fat-tire bike across a wide snowy landscape.](https://images.ctfassets.net/kftzwdyauwt9/2tgWg3FVo92ztow3wQjynu/6803dbad048ec780c8f0c7c46347ebe9/OpenAI_Falcon_1x1.jpg?w=3840&q=90&fm=webp)
+![An ATV Big Air Tour rider performs an airborne stunt against a cloudy sky.](https://images.ctfassets.net/kftzwdyauwt9/6nM6RNbnqtlPZZQDx71iMm/46843eaee86998217108580d428ea457/atv-hero-square-x480.png?w=3840&q=90&fm=webp)
 
-[Training to cycle across Antarctica with ChatGPTJun 11, 2026](</index/cycling-across-antarctica/>)
+[Using ChatGPT to grow ATV Big Air TourSep 9, 2026](</index/growing-atv-big-air-tour/>)
 
-![CK Chan stands inside a large radio telescope dish.](https://images.ctfassets.net/kftzwdyauwt9/5Owa7Jyi5pMx1lDrvN1B2C/3036661e68edf2e77d2d5d2454653740/2026_04_Gardi_ProjectOwl_KittPeak_Day1_02144.jpg?w=3840&q=90&fm=webp)
+![Bradford and Bryan Manning use their phones while standing in a city park.](https://images.ctfassets.net/kftzwdyauwt9/7bhGkj1QoCeQpqYhTldQLx/b84d760a2f127d930cc2dec9f3d59e17/tbb-retouched-art-card-1260x1260.png?w=3840&q=90&fm=webp)
 
-[Creating new simulations of black holes with CodexJun 11, 2026](</index/creating-new-simulations-black-holes/>)
+[Supporting the blind community with ChatGPTSep 9, 2026](</index/two-blind-brothers/>)
 
-![OpenAI-branded Chip Ganassi Racing car on a track with large R&D text over a blurred grandstand.](https://images.ctfassets.net/kftzwdyauwt9/2sMgyKsbMrlLNgBeM8SYAh/83460e94830cfb5865cddb57e6fe837f/OpenAI_Ganassi_1x1.jpg?w=3840&q=90&fm=webp)
+![Dr. César de la Fuente in profile against a colorful lab display.](https://images.ctfassets.net/kftzwdyauwt9/7gq9TtEoObNfTco2uH48q8/3b7813b2b5c5bce4a22a45a7220ac3f7/antibiotic-hero-1x1-preview.png?w=3840&q=90&fm=webp)
 
-[Chip Ganassi Racing × OpenAIAPIMay 28, 2026](</index/chip-ganassi-racing/>)
+[Accelerating antibiotic discovery with ChatGPTSep 9, 2026](</index/accelerating-antibiotic-discovery/>)
 
 ## Latest research
 

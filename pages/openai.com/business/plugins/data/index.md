@@ -32,7 +32,7 @@ Turn data into clear decisions.
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/Plugin_fc9843a6fb34819195d6c7802398a8a7>)[Contact sales](</contact-sales/>)
 
-[@Data Help me get started with my first data task(opens in a new window)](<https://chatgpt.com/?prompt=%40Data+Help+me+get+started+with+my+first+data+task>)[@Data Analyze product or business data and recommend where to focus next(opens in a new window)](<https://chatgpt.com/?prompt=%40Data+Analyze+product+or+business+data+and+recommend+where+to+focus+next>)[@Data Diagnose why a key metric changed and identify the biggest drivers(opens in a new window)](<https://chatgpt.com/?prompt=%40Data+Diagnose+why+a+key+metric+changed+and+identify+the+biggest+drivers>)
+[Data Help me get started with my first data task(opens in a new window)](<https://chatgpt.com/?prompt=%40Data+Help+me+get+started+with+my+first+data+task>)[Data Analyze product or business data and recommend where to focus next(opens in a new window)](<https://chatgpt.com/?prompt=%40Data+Analyze+product+or+business+data+and+recommend+where+to+focus+next>)[Data Turn my metric links and working preferences into reusable Data context(opens in a new window)](<https://chatgpt.com/?prompt=%40Data+Turn+my+metric+links+and+working+preferences+into+reusable+Data+context>)
 
 Use case: [Data & Research](</business/plugins/?tab=plugins-data-research>)
 

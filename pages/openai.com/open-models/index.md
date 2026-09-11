@@ -44,8 +44,6 @@ These models are supported by the Apache 2.0 license. Build freely without worry
 
 Leverage powerful instruction following and tool use within the chain-of-thought, including web search and Python code execution.
 
-![Customization icon](https://images.ctfassets.net/kftzwdyauwt9/49qTMsFaInUYQoz4ErRQmJ/456cc3f1188cf6419d4d4e2c69f21a7f/settings-slider.svg?w=3840&q=90)
-
 #### Deeply customizable
 
 Adjust the reasoning effort to low, medium, or high. Plus, customize the models to adapt to your use case with full-parameter fine-tuning.
@@ -143,6 +141,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)

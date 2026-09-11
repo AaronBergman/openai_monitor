@@ -26,6 +26,14 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 OpenAI
 
+Webinar
+
+### Join us Monday, September 14, 11:15 a.m.–12 p.m. ET
+
+to learn about OneGov access for eligible state, local, and federal governments and tribal nations.
+
+[Register Now(opens in a new window)](<https://academy.openai.com/home/events/openai-onegov-2-0-what-government-leaders-need-to-know-72u08jy54f>)
+
 OpenAI for government
 
 # AI that meets the needs of government
@@ -35,6 +43,16 @@ Use OpenAI technology to help agencies improve service delivery, expedite resear
 [Contact sales](</contact-sales/>)
 
 ![Three colleagues collaborate around a laptop and documents in an office with a world map in the background.](https://images.ctfassets.net/kftzwdyauwt9/58Z3FVzE5RBuiCdDvAu5AL/6bbf05f04d5da1b3f9a84347e532b745/Generated_image_1__2_.png?w=3840&q=90&fm=webp)
+
+A new offer for US government organizations
+
+### Announcing broader, more affordable AI access
+
+OpenAI is launching a new multi-year agreement for **state, local, tribal, and federal governments** to access ChatGPT for $0 (instead of the standard $15-per-user monthly license fee) and 50% off usage costs for eligible government organizations. 
+
+[Sign up](</form/openai-for-government/>)[Learn more](</index/expanding-ai-access-us-government/>)
+
+![us map](https://images.ctfassets.net/kftzwdyauwt9/5eR4aYFLJk5sm5a122pGHR/16cb509bff4f6e4e3ec39ff8d9997db1/Gov.png?w=3840&q=90&fm=webp)
 
 ## Enterprise AI for mission-critical government work
 
@@ -56,19 +74,11 @@ Help analysts and researchers move faster on reporting, grant work, policy analy
 
 OpenAI offers multiple ways to deploy AI to meet a range of government security and scale requirements.
 
-#### OneGov GSA $1 Deal
+#### OpenAI OneGov Deal
 
-Join over 1 million of your U.S. government colleagues using ChatGPT Enterprise for only $1.
-
-  * Enable internal workflows across U.S. federal agencies. 
-
-  * Manage usage with admin tools, access controls, and auditability.
-
-
-
-
-[OneGov GSA Partnership⁠(opens in a new window)](<https://www.gsa.gov/about-us/newsroom/news-releases/gsa-announces-new-partnership-with-openai-delivering-deep-discount-to-chatgpt-08062025>)  
-[Learn about OpenAI for Government⁠](<https://openai.com/global-affairs/introducing-openai-for-government/>)
+Public servants will have secure access to ChatGPT Enterprise, Codex, and OpenAI models—with $0 platform fee _(No seat or licenses costs)_ and 50% off eligible usage through GSA OneGov.  
+  
+More information will be released on September 10.
 
 #### FedRAMP controls
 

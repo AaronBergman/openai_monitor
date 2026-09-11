@@ -26,15 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Turning go-to-market into a search problem and solving it with AI
-
-  * Turning go-to-market into a search problem and solving it with AI
-  * Pairing OpenAI o3, GPT-4.1, and CUA with the right tasks
-  * Evaluating every model for reasoning quality
-  * Redefining go-to-market around product fit
-
-
-
 June 24, 2025
 
 # Unify engineers growth by using the right model for every task
@@ -46,6 +37,22 @@ By matching every OpenAI model to its best-fit task, Unify scales targeted outre
 Loading…
 
 Share
+
+Turning go-to-market into a search problem and solving it with AI
+
+  * Turning go-to-market into a search problem and solving it with AI
+  * Pairing OpenAI o3, GPT-4.1, and CUA with the right tasks
+  * Evaluating every model for reasoning quality
+  * Redefining go-to-market around product fit
+
+
+
+  * Turning go-to-market into a search problem and solving it with AI
+  * Pairing OpenAI o3, GPT-4.1, and CUA with the right tasks
+  * Evaluating every model for reasoning quality
+  * Redefining go-to-market around product fit
+
+
 
 [Unify⁠(opens in a new window)](<http://unifygtm.com/>) is a system of action built to reach the right customer, at the right time, with the right message, at scale. The platform enables this through intelligent prospecting, hyper-personalized messaging, and a repeatable, always-on workflow that automates what’s working.
 
@@ -119,9 +126,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -158,6 +166,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -191,6 +201,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

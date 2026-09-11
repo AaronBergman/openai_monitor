@@ -32,19 +32,9 @@ Review CRM records and update sales workflows.
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_697d413990c88191a2bf4799604f8f6c>)[Contact sales](</contact-sales/>)
 
-@Salesforce Build a meeting brief for [account]: opportunity status, key contacts, recent activity, risks, and questions to ask
+[Salesforce Build a meeting brief for [account]: opportunity status, key contacts, recent activity, risks, and questions to ask(opens in a new window)](<https://chatgpt.com/?prompt=%40Salesforce+Build+a+meeting+brief+for+%5Baccount%5D%3A+opportunity+status%2C+key+contacts%2C+recent+activity%2C+risks%2C+and+questions+to+ask>)[Salesforce Review my open opportunities closing this quarter: group by stage, flag stalled deals, and suggest next steps for each owner(opens in a new window)](<https://chatgpt.com/?prompt=%40Salesforce+Review+my+open+opportunities+closing+this+quarter%3A+group+by+stage%2C+flag+stalled+deals%2C+and+suggest+next+steps+for+each+owner>)[Salesforce Turn these customer call notes into a concise follow-up email and a CRM update with next steps, risks, and owner commitments(opens in a new window)](<https://chatgpt.com/?prompt=%40Salesforce+Turn+these+customer+call+notes+into+a+concise+follow-up+email+and+a+CRM+update+with+next+steps%2C+risks%2C+and+owner+commitments>)
 
-![@Salesforce Build a meeting brief for \[account\]: opportunity status, key contacts, recent activity, risks, and questions to ask](https://files.openai.com/content?id=file_0000000023cc71f7864bde14ce2f22e2&cdn=1&cp=pi&ma=31536000&ts=0&p=pi&cid=1&sig=b818cdbcdcf8d1cbc22ab980d3e7d01855c08c30288f9de1113f4746fe0443be)
-
-@Salesforce Review my open opportunities closing this quarter: group by stage, flag stalled deals, and suggest next steps for each owner
-
-![@Salesforce Review my open opportunities closing this quarter: group by stage, flag stalled deals, and suggest next steps for each owner](https://files.openai.com/content?id=file_00000000a1d471f793c78037efd3ec3b&cdn=1&cp=pi&ma=30326400&ts=0&p=pi&cid=1&sig=5fae4747ae920029bdb6c54d23ceabd5bf0eec3966ce6f5975067a07cf3fd9de)
-
-@Salesforce Turn these customer call notes into a concise follow-up email and a CRM update with next steps, risks, and owner commitments
-
-![@Salesforce Turn these customer call notes into a concise follow-up email and a CRM update with next steps, risks, and owner commitments](https://files.openai.com/content?id=file_000000005f4471f7838b3502876a2ac5&cdn=1&cp=pi&ma=31881600&ts=0&p=pi&cid=1&sig=f2f6abb8404dc7f8e488ed35057b1592a585b9b0794044d4f1ea0a40c55a1210)
-
-Use case: [Productivity](</business/plugins/?tab=plugins-productivity>) and [Sales & Commerce](</business/plugins/?tab=plugins-sales-commerce>)
+Use case: [Operations](</business/plugins/?tab=plugins-operations>) and [Sales & Commerce](</business/plugins/?tab=plugins-sales-commerce>)
 
 Made by: Salesforce
 

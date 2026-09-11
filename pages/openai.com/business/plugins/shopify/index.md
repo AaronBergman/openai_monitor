@@ -32,9 +32,9 @@ Create and manage your store
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69e65c430b3081919aa4d962ab5d1698>)[Contact sales](</contact-sales/>)
 
-[@Shopify Upload and add this product to my store.(opens in a new window)](<https://chatgpt.com/?prompt=%40Shopify+Upload+and+add+this+product+to+my+store.>)[@Shopify Show me the products I have in my store.(opens in a new window)](<https://chatgpt.com/?prompt=%40Shopify+Show+me+the+products+I+have+in+my+store.>)[@Shopify Show me my store's sales for the past three weeks.(opens in a new window)](<https://chatgpt.com/?prompt=%40Shopify+Show+me+my+store%27s+sales+for+the+past+three+weeks.>)
+[Shopify Upload and add this product to my store.(opens in a new window)](<https://chatgpt.com/?prompt=%40Shopify+Upload+and+add+this+product+to+my+store.>)[Shopify Show me the products I have in my store.(opens in a new window)](<https://chatgpt.com/?prompt=%40Shopify+Show+me+the+products+I+have+in+my+store.>)[Shopify Show me my store's sales for the past three weeks.(opens in a new window)](<https://chatgpt.com/?prompt=%40Shopify+Show+me+my+store%27s+sales+for+the+past+three+weeks.>)
 
-Use case: [Productivity](</business/plugins/?tab=plugins-productivity>), [Small Business](</business/plugins/?tab=plugins-small-business>), and [Sales & Commerce](</business/plugins/?tab=plugins-sales-commerce>)
+Use case: [Operations](</business/plugins/?tab=plugins-operations>), [Small Business](</business/plugins/?tab=plugins-small-business>), and [Sales & Commerce](</business/plugins/?tab=plugins-sales-commerce>)
 
 Made by: Shopify
 

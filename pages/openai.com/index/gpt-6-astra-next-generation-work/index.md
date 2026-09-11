@@ -248,7 +248,7 @@ OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
 
-**_Excel competition:_****_GPT‑6 Astra can complete Financial Modeling World Cup challenges using computer use about_** _**four times as fast**_** _as the winning human competitor—helping analysts spend less time building models and more time interpreting results and making decisions. From the_**[** _2023 Microsoft Excel World Championship_** ⁠(opens in a new window)](<https://play.excel-esports.com/>)**_._**
+**_Excel competition:_**_GPT‑6 Astra can complete Financial Modeling World Cup challenges using computer use about four times as fast as the winning human competitor—helping analysts spend less time building models and more time interpreting results and making decisions. From the_[ _2023 Microsoft Excel World Championship_ ⁠(opens in a new window)](<https://play.excel-esports.com/>)_._
 
 Reference file
 

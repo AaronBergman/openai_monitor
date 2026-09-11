@@ -11,7 +11,7 @@ Skip to main content
 
 
 
-Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
+Log in[Start building(opens in a new window)](<https://platform.openai.com/?utm_internal_source=openai_api>)
 
   * Research
   * Products
@@ -22,15 +22,13 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 
 
-[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)Login
+[Start building(opens in a new window)](<https://platform.openai.com/?utm_internal_source=openai_api>)Login
 
 OpenAI
 
 # Build leading AI products on OpenAI’s platform
 
-[Contact sales](</contact-sales/>)
-
-Start building
+[Contact sales](</contact-sales/>)[Start building(opens in a new window)](<https://platform.openai.com/?utm_internal_source=openai_api>)
 
 ## Powered by our frontier models
 
@@ -106,7 +104,7 @@ Build agents that use your context and tools to get work done across your system
 
 Build
 
-Create agent workflows with the Agents SDK and Responses API, and add voice with the Realtime API.
+Create agent workflows with the Agents SDK and Responses API, and add voice with GPT‑Live‑1.
 
 ![Six rounded square tool icons on a blue gradient background, including code, globe, sparkle, and image symbols.](https://images.ctfassets.net/kftzwdyauwt9/18GNHAsLWZApZeDaUTjW3E/0e1463c1f522a4d67446848d590cdfe7/2.png?w=3840&q=90&fm=webp)
 
@@ -362,6 +360,4 @@ OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
 
-Build natural-sounding voice agents with [Realtime API⁠(opens in a new window)](<https://platform.openai.com/docs/guides/realtime>) for rich customer experiences and support.
-
-Zillow makes home and financing searches easier with voice using the Realtime API.
+Build [voice experiences](</api/voice/>) that listen and respond naturally in real time with GPT‑Live‑1.

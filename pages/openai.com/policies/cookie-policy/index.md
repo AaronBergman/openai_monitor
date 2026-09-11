@@ -30,7 +30,7 @@ Select language
 
 …
 
-Last updated: August 14, 2026
+Last updated: September 10, 2026
 
 # Cookie policy
 
@@ -118,6 +118,8 @@ auth.openai.com
 ads.openai.com  
 [OpenAI](<https://openai.com/policies/privacy-policy/>)| sofaLastAdAccountId| 2 years| Service functionality| ads.openai.com  
 [OpenAI](<https://openai.com/policies/privacy-policy/>)| tapestry-theme| 1 year| Service functionality| ads.openai.com  
+[OpenAI](<https://openai.com/policies/privacy-policy/>)| oai-form-submissions| 180 days| Service functionality| openai.com  
+[OpenAI](<https://openai.com/policies/privacy-policy/>)| __oailb| 1 hour| Service functionality| chatgpt.com  
 [Auth0](<https://www.okta.com/legal/privacy-policy/>)| did| 1 year| User authentication| platform.openai.com  
 [Auth0](<https://www.okta.com/legal/privacy-policy/>)| did_compat| 1 year| User authentication| platform.openai.com  
 [Auth0](<https://www.okta.com/legal/privacy-policy/>)| auth0| 14 days| User authentication| platform.openai.com  
@@ -274,6 +276,15 @@ chatgpt.com
 chatgpt.com  
 [Bing](<https://learn.microsoft.com/en-us/answers/questions/2289901/purposes-of-bing-cookies>)| msclkid| 24 hours| Marketing measurement| openai.com  
 chatgpt.com  
+[Snapchat](<https://www.snap.com/cookie-policy>)| ScCid| 24 hours| Marketing measurement| chatgpt.com  
+[Snapchat](<https://www.snap.com/cookie-policy>)| _scid| 13 months| Marketing measurement| chatgpt.com  
+[Snapchat](<https://www.snap.com/cookie-policy>)| _scid_r| 13 months| Marketing measurement| chatgpt.com  
+[Snapchat](<https://www.snap.com/cookie-policy>)| _sctr| 13 months| Marketing measurement| chatgpt.com  
+[Snapchat](<https://www.snap.com/cookie-policy>)| sc_at| 390 days| Marketing measurement| chatgpt.com  
+[Snapchat](<https://www.snap.com/cookie-policy>)| u_sclid| 13 months| Marketing measurement| chatgpt.com  
+[Snapchat](<https://www.snap.com/cookie-policy>)| u_sclid_r| 13 months| Marketing measurement| chatgpt.com  
+[Snapchat](<https://www.snap.com/cookie-policy>)| u_scsid| Session| Marketing measurement| chatgpt.com  
+[Snapchat](<https://www.snap.com/cookie-policy>)| u_scsid_r| Session| Marketing measurement| chatgpt.com  
   
 ## Managing cookies
 
@@ -307,6 +318,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)

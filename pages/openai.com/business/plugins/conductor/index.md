@@ -32,11 +32,9 @@ Track brand sentiment in AI.
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69bc9080866081919c3b70ce64e1db0d>)[Contact sales](</contact-sales/>)
 
-@Conductor Who are top competitors for “wireless earbuds”
+[Conductor Who are top competitors for “wireless earbuds”(opens in a new window)](<https://chatgpt.com/?prompt=%40Conductor+Who+are+top+competitors+for+%E2%80%9Cwireless+earbuds%E2%80%9D>)
 
-![@Conductor Who are top competitors for “wireless earbuds”](https://files.openai.com/content?id=file_00000000aafc71f7b9c901beb97650ef&cdn=1&cp=pi&ma=30758400&ts=0&p=pi&cid=7&sig=5773925bdf2efb8f43ddb0dea41bb3b8e75f24835e47b64a3e0ef9a20e0552e2&v=0)
-
-Use case: [Productivity](</business/plugins/?tab=plugins-productivity>)
+Use case: [Operations](</business/plugins/?tab=plugins-operations>)
 
 Made by: Conductor Inc.
 

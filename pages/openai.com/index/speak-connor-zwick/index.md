@@ -45,7 +45,7 @@ What was your first meaningful encounter with AI and how did it shape your plans
   * What was your first meaningful encounter with AI and how did it shape your plans for Speak?
   * When you set out to build that AI language tutor, how did you think about injecting AI into the platform in a way that felt natural to language learners?
   * AI evolves really quickly—in that kind of environment, how do you think about effectively planning your product roadmap for the future?
-  * What is the most recent technical breakthrough in AI that has changed your thinking on what's possible for Speak?
+  * What is the most recent technical breakthrough in AI that has changed your thinking on what’s possible for Speak?
   * Are there any other areas of AI progress that might not seem relevant to Speak but are actually exciting for you?
   * How do you see the role of language teachers evolving in this AI-driven landscape?
   * As Speak scales, how do you foster AI fluency within your team?
@@ -56,7 +56,7 @@ What was your first meaningful encounter with AI and how did it shape your plans
   * What was your first meaningful encounter with AI and how did it shape your plans for Speak?
   * When you set out to build that AI language tutor, how did you think about injecting AI into the platform in a way that felt natural to language learners?
   * AI evolves really quickly—in that kind of environment, how do you think about effectively planning your product roadmap for the future?
-  * What is the most recent technical breakthrough in AI that has changed your thinking on what's possible for Speak?
+  * What is the most recent technical breakthrough in AI that has changed your thinking on what’s possible for Speak?
   * Are there any other areas of AI progress that might not seem relevant to Speak but are actually exciting for you?
   * How do you see the role of language teachers evolving in this AI-driven landscape?
   * As Speak scales, how do you foster AI fluency within your team?
@@ -94,7 +94,7 @@ If you do have that intuition, you can build for the future. For example, we som
 
 Understanding the difference between 90% accuracy, 98%, 99%, and 99.9%—and how that impacts the product experience—is crucial. The difference between 90% and 99.9% is a completely different ballgame, and being able to predict when that curve will go up is essential for making sound product decisions.
 
-## What is the most recent technical breakthrough in AI that has changed your thinking on what's possible for Speak?
+## What is the most recent technical breakthrough in AI that has changed your thinking on what’s possible for Speak?
 
 That’s easy—OpenAI’s real-time API and multimodality for audio. For our use case, where we’re building a superhuman AI speaking tutor that can help learners achieve fluency, having a rich understanding of what a learner is trying to say—beyond just transcribing their words—is critical. Instantly understanding tone, pronunciation, and intent, and then immediately responding with open-ended, natural feedback that matches the learner’s tone, is the holy grail of AI tutoring.
 
@@ -122,7 +122,7 @@ Everything can improve, but at this point, it’s about squeezing the juice out 
 
 We’ve been at this for a while, so we have a head start, but there’s still a long way to go. Even if AI stopped advancing today, we have years’ worth of exciting work ahead.
 
-> “These models are particularly good at language, interacting with people, and using language. In many other industries there might still need to be some breakthroughs before there is truly transformative effects, I actually think we've got everything we need.”
+> “These models are particularly good at language, interacting with people, and using language. In many other industries there might still need to be some breakthroughs before there is truly transformative effects, I actually think we’ve got everything we need.”
 
 Listen
 
@@ -142,7 +142,7 @@ Listen
 
 OpenAI
 
-## Related articles
+### Related articles
 
 ![EF Ep6 Web Card 1.1](https://images.ctfassets.net/kftzwdyauwt9/5Hw6KgWxbIzGOiw29zywIV/5e661f0c9a11816318979ef24211846d/EF_Ep6_Web_Card_1.1.png?w=3840&q=90&fm=webp)
 
@@ -166,6 +166,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)

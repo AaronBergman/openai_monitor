@@ -48,6 +48,7 @@ OpenAI
   * [Conversion Terms](</policies/conversion-terms/>): Terms that govern use of OpenAI's Conversion Tools.
   * [Merchant Feed Terms](</policies/merchant-feed-terms-of-service/>): Terms that govern use of merchant product and services feeds in connection with OpenAI Services.
   * [Ad Credit Terms](</policies/ad-credit-terms/>): Terms that govern Ad Credits.
+  * [Financial Services Terms](</policies/financial-services-terms/>): Terms governing Financial Plugins and ChatGPT for Financial Services.
 
 
 

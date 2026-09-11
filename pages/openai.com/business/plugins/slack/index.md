@@ -32,13 +32,7 @@ Look up chats and messages.
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69a1d78e929881919bba0dbda1f6436d>)[Contact sales](</contact-sales/>)
 
-@Slack Summarize what mattered most in [channel] over the last 7 days and list decisions plus owners plus next steps
-
-![@Slack Summarize what mattered most in \[channel\] over the last 7 days and list decisions plus owners plus next steps](https://files.openai.com/content?id=file_000000005dd071f7b5f1b13e38d9b682&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=1&sig=c04f351245ec29c398471da9639a1b507dc9595612933e6073de7c306ea93721)
-
-[@Slack Draft a crisp reply in the same tone as the channel for the last customer escalation message in [channel](opens in a new window)](<https://chatgpt.com/?prompt=%40Slack+Draft+a+crisp+reply+in+the+same+tone+as+the+channel+for+the+last+customer+escalation+message+in+%5Bchannel%5D>)
-
-[@Slack Build a 30 minute meeting agenda based on the top themes from this mornings discussion in [channel](opens in a new window)](<https://chatgpt.com/?prompt=%40Slack+Build+a+30+minute+meeting+agenda+based+on+the+top+themes+from+this+mornings+discussion+in+%5Bchannel%5D>)
+[Slack Summarize what mattered most in [channel] over the last 7 days and list decisions plus owners plus next steps(opens in a new window)](<https://chatgpt.com/?prompt=%40Slack+Summarize+what+mattered+most+in+%5Bchannel%5D+over+the+last+7+days+and+list+decisions+plus+owners+plus+next+steps>)[Slack Draft a crisp reply in the same tone as the channel for the last customer escalation message in [channel](opens in a new window)](<https://chatgpt.com/?prompt=%40Slack+Draft+a+crisp+reply+in+the+same+tone+as+the+channel+for+the+last+customer+escalation+message+in+%5Bchannel%5D>)[Slack Build a 30 minute meeting agenda based on the top themes from this mornings discussion in [channel](opens in a new window)](<https://chatgpt.com/?prompt=%40Slack+Build+a+30+minute+meeting+agenda+based+on+the+top+themes+from+this+mornings+discussion+in+%5Bchannel%5D>)
 
 Use case: [Productivity](</business/plugins/?tab=plugins-productivity>), [Small Business](</business/plugins/?tab=plugins-small-business>), and [Data & Research](</business/plugins/?tab=plugins-data-research>)
 
@@ -50,31 +44,31 @@ Website: [slack.com(opens in a new window)](<https://slack.com/>)
 
 Use your Slack messages and channel discussions to create recaps, gather background before a meeting, highlight decisions, or draft responses with the right context.
 
-### Turn briefs into proposals
+### Perfect every proposal
 
-Turn requirements, timelines, budgets, and objections from Slack conversations into a project proposal your team can review.
+ChatGPT can turn the requirements, objections, and pricing from your deals in Slack into a proposal your whole team can weigh in on.
 
 ### Put your research to work
 
-Connect your research with the questions your team is discussing in Slack and prepare a brief that invites useful feedback.
+With the Slack plugin, your team can weigh in on the research and analysis you do in ChatGPT and Codex. Just bring your finished brief into a channel, and let the ideas fly.
 
-### Prep your code for review
+### Code with company
 
-Bring the context behind a feature or fix into a clear Slack review request, with the changes, tradeoffs, and questions your team should focus on.
+Take the features and fixes you build in ChatGPT and Codex from good to great with your team in Slack. More eyes. More ideas. Better code.
 
 ## Sample prompts
 
-Draft a project proposal
+Turn briefs into proposals
 
-**@Slack** Use the scope, timeline, budget, and concerns discussed in [channel] to draft a proposal for [project]. Recommend an approach, flag unresolved questions, and link to the conversations behind key decisions.
+Use the scope, timeline, and budget from my **@Slack** conversations to draft a project proposal I can share with the team.
 
-Turn research into team discussion
+Prep your code for review
 
-Use this research brief and relevant discussions in [channel] to draft a **@Slack** post with the key findings, recommended next steps, and questions where team feedback would change the recommendation.
+**@Slack** Write a pull request description for the feature I built in Codex. Include what changed, the key tradeoffs, and anything my team should know.
 
-Get feedback on your code
+Make a plan before you build
 
-**@Slack** Use the diff and PR link I provide, plus relevant discussions in [channel], to draft a Slack review request for [feature]. Explain what changed, the key tradeoffs, and the questions reviewers should focus on.
+Turn my notes into a technical design doc with the problem, proposed approach, and open questions. Use relevant **@Slack** conversations for context.
 
 ## Resources
 

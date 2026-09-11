@@ -30,7 +30,7 @@ Select language
 
 …
 
-Updated: August 31, 2026
+Updated: September 10, 2026
 
 # Ad policies
 
@@ -102,11 +102,9 @@ Ads must not include derogatory, defamatory, or exclusionary content, including 
 
 Ads must be clearly distinguishable from the ChatGPT product experience. We may remove or require modification of ads that imitate the appearance, functionality, or voice of ChatGPT or other OpenAI interfaces in a way that could reasonably cause users to believe the ad is part of the product.
 
-OpenAI reserves the right to refuse to display ad content and website links for any reason. 
-
 ## Disallowed ads
 
-Ads must comply with [_OpenAI’s Usage Policies_ ⁠](<https://openai.com/policies/usage-policies/>). In addition, ChatGPT applies stricter standards to advertising in certain regulated and sensitive categories to protect user trust and brand safety.
+Ads must comply with [_OpenAI’s Usage Policies_ ⁠](<https://openai.com/policies/usage-policies/>). In addition, ChatGPT applies stricter standards to advertising in certain regulated and sensitive categories to protect user trust and brand safety. OpenAI reserves the right to decline, restrict, or remove advertisers and to refuse to display ad content and website links for any reason, including where they conflict with our advertising principles, business interests, or competitive position.
 
 ### Adult content
 
@@ -302,12 +300,13 @@ The goal is straightforward: make it possible for businesses of all sizes to use
 
 ## Changelog
 
-  * v1.5 (Aug 2026): Updated to reflect that legal services are permitted in the US.
+  * v1.6 (September 2026): Updated to clarify our right to decline ads where they conflict with our advertising principles, business interests, or competitive position.
+  * v1.5 (August 2026): Updated to reflect that legal services are permitted in the US.
   * v1.4 (August 2026): Clarified our policy stance on housing and job listings.
   * v1.3 (July 2026): Introduced a new section on advertiser policies and updated the financial and health services sections to clarify eligible categories and markets.
   * v1.2 (May 2026): A new section explains what standards we apply, how we implement these standards, and what happens when ads don’t meet our safety bar.
   * v1.1 (April 2026): We refined our ads placement policy to apply a more precise approach in some regulated-advice contexts. Medical, legal, and financial advice contexts are no longer categorically blocked from ads by default. Sensitive conversations and other prohibited contexts remain ineligible for ads.
-  * v1.0 (Mar 2026): Initial publication of the OpenAI Ads Policies.
+  * v1.0 (March 2026): Initial publication of the OpenAI Ads Policies.
 
 
 

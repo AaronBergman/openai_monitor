@@ -105,7 +105,7 @@ OpenAI
 
 ### Related research
 
-![A flock of paper planes flying over and through treetops.](//images.ctfassets.net/kftzwdyauwt9/6quMMGifGECzkdDNBAq7D/a3c19eff2e4005aebdb86ca28e53edf3/sora_paper-airplanes.png?w=3840&q=90&fm=webp)
+![sora paper-airplanes](https://images.ctfassets.net/kftzwdyauwt9/6quMMGifGECzkdDNBAq7D/a3c19eff2e4005aebdb86ca28e53edf3/sora_paper-airplanes.png?w=3840&q=50&fm=webp)
 
 [Video generation models as world simulatorsSora](</index/sora/>)
 
@@ -131,6 +131,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)

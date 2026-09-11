@@ -32,7 +32,7 @@ Explore dashboards, build analyses, and work with reports
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/Plugin_1c7fdf7f11dc819183017847ab1295cb>)[Contact sales](</contact-sales/>)
 
-[@Oracle Analytics Summarize my Oracle BI dashboard and explain what changed.(opens in a new window)](<https://chatgpt.com/?prompt=%40Oracle+Analytics+Summarize+my+Oracle+BI+dashboard+and+explain+what+changed.>)[@Oracle Analytics Compare this quarter with last quarter by region and export the results.(opens in a new window)](<https://chatgpt.com/?prompt=%40Oracle+Analytics+Compare+this+quarter+with+last+quarter+by+region+and+export+the+results.>)[@Oracle Analytics Create a revenue-by-region analysis and save it in My Folders.(opens in a new window)](<https://chatgpt.com/?prompt=%40Oracle+Analytics+Create+a+revenue-by-region+analysis+and+save+it+in+My+Folders.>)
+[Oracle Analytics Summarize my Oracle BI dashboard and explain what changed.(opens in a new window)](<https://chatgpt.com/?prompt=%40Oracle+Analytics+Summarize+my+Oracle+BI+dashboard+and+explain+what+changed.>)[Oracle Analytics Compare this quarter with last quarter by region and export the results.(opens in a new window)](<https://chatgpt.com/?prompt=%40Oracle+Analytics+Compare+this+quarter+with+last+quarter+by+region+and+export+the+results.>)[Oracle Analytics Create a revenue-by-region analysis and save it in My Folders.(opens in a new window)](<https://chatgpt.com/?prompt=%40Oracle+Analytics+Create+a+revenue-by-region+analysis+and+save+it+in+My+Folders.>)
 
 Use case: [Productivity](</business/plugins/?tab=plugins-productivity>) and [Data & Research](</business/plugins/?tab=plugins-data-research>)
 

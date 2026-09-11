@@ -1,5 +1,44 @@
 # openai_monitor
 
+## 2026-09-11T09-15Z
+
+**Fetch time:** 2026-09-11T09:16Z UTC | **Baseline:** 2026-09-10T09-17Z (consecutive day)
+
+**TL;DR:** OpenAI launched a coordinated go-to-market push on Sep 10 around two themes: a new **Financial Services** vertical (a dedicated ChatGPT-for-Financial-Services product page, a sales-contact page, a new legal terms page, and a new liability-disclaimer section added to the general Service Terms) and a broadened **"Data" pitch** — the `/business/solutions/data/` page was rewritten from data-team-only framing to "every team," gained a new Data agent CTA, and three new enterprise data plugins (AWS Data Analytics, Sigma, Datadog Experiments) went live. Separately, OpenAI shipped two new API products (a managed cloud-**Agents API** built on the Codex harness, and **GPT‑Live‑1** voice model coming to the API), announced a major US government access expansion ($0 license fee, 50% off usage, for ~23M federal/state/local/tribal public-sector workers), and quietly pushed a multi-jurisdiction privacy-policy cleanup (trimming stale Atlas-browser and Sora references, removing a mis-scoped "US state disclosures" section from non-US policies, and adding nine new Snapchat ad-tracking cookies to the cookie policy). 13 pages added, 311 updated (254 with real content changes — many of them just a shared "GPT-6" footer-link addition — the rest cosmetic carousel/lastmod-only noise), 1 removed (`/devday/` → `/devday/2025/` archive), 1 low-severity anomaly.
+
+### Anomalies
+
+One flagged item, benign: `https://openai.com/devday/` disappeared from the sitemap and was replaced by `/devday/2025/`, a retrospective archive page pointing to `devday.openai.com` for the 2026 event. No future-dated or backwards-moving `<lastmod>` values, no backdated new URLs, and no true reappearances were found anywhere in the 1,697-URL set. Full detail in [`runs/2026-09-11T09-15Z/analysis.md`](runs/2026-09-11T09-15Z/analysis.md).
+
+### Notable additions
+
+- **[Introducing ChatGPT for Financial Services](https://openai.com/index/introducing-chatgpt-financial-services/)** ([md](pages/openai.com/index/introducing-chatgpt-financial-services/index.md)) — new industry vertical positioning GPT-6 Astra for financial analysis, backed by a new [sales-contact page](pages/openai.com/business/contact-sales-financial-services/index.md) and new [Financial Services Terms](pages/openai.com/policies/financial-services-terms/index.md).
+- **[Now everyone can put data to work](https://openai.com/index/put-data-to-work/)** ([md](pages/openai.com/index/put-data-to-work/index.md)) — new "Data agent" for ChatGPT Work that turns natural-language questions into dashboards and reports across a connected data stack (warehouses, BI tools, spreadsheets).
+- **[Introducing the Agents API](https://openai.com/index/introducing-the-agents-api/)** ([md](pages/openai.com/index/introducing-the-agents-api/index.md)) — fully-managed cloud-agent API built on the Codex harness, with OpenAI-hosted sandboxes, long-running sessions, and subagent parallelization.
+- **[Build more natural voice experiences with GPT‑Live‑1 in the API](https://openai.com/index/introducing-gpt-live-1-in-the-api/)** ([md](pages/openai.com/index/introducing-gpt-live-1-in-the-api/index.md)) — brings the full-duplex, listen-while-speaking voice model first launched in ChatGPT to the developer API.
+- **[Expanding AI access and cyber defense for federal, state, local, and tribal governments](https://openai.com/index/expanding-ai-access-us-government/)** ([md](pages/openai.com/index/expanding-ai-access-us-government/index.md)) — new multi-year GSA agreement: $0 license fee (normally $15/user/month) and 50% off usage for public-sector workers, plus expanded cyber-defender support; extends eligibility to ~23M government employees. Backed by a new [government lead-gen form](pages/openai.com/form/openai-for-government/index.md).
+- **[How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules](https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials/)** ([md](pages/openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials/index.md)) — Applied AI profile of bioengineer César de la Fuente's lab using AI to mine genomic data for novel antimicrobials, against a backdrop of ~5M annual deaths linked to drug-resistant infections.
+- **Three new enterprise data plugins**, all cross-linked from the rewritten Data solutions page: **[AWS Data Analytics](pages/openai.com/business/plugins/aws-data-analytics/index.md)**, **[Sigma](pages/openai.com/business/plugins/sigma/index.md)**, and **[Datadog Experiments](pages/openai.com/business/plugins/datadog-experiments/index.md)**.
+- **[/devday/2025/](pages/openai.com/devday/2025/index.md)** — new archive/retrospective page for last year's developer event, replacing the bare `/devday/` URL (see Removals).
+
+### Notable updates
+
+- **[`/business/solutions/data/`](https://openai.com/business/solutions/data/)** — substantially rewritten: repositioned from "AI for your data team's most ambitious work" to **"Data intelligence for every team's most ambitious work,"** with a large expansion of the connected-plugin list and new "Install data agent" CTAs.
+- **Privacy-policy refresh across jurisdictions** (Korea, US, and general "communications" privacy policies, plus cookie policy, ad policies, and service terms — all dated Sep 10): removed a mis-scoped "Additional U.S. state disclosures" section from the non-US policies (it correctly remains in the US-specific policy); trimmed stale references to Atlas-browser incognito controls and to sharing Sora videos/characters; renamed "Saved Memories" → "Memories"; reworded ads-data-collection language to be more direct. `/policies/cookie-policy/` added two new first-party cookies (`oai-form-submissions`, `__oailb`) and **nine new Snapchat marketing-measurement cookies** on chatgpt.com — a new ad-tracking partner. `/policies/ad-policies/` bumped to v1.6, adding explicit language reserving OpenAI's right to decline advertisers over "business interests or competitive position."
+- **[`/policies/service-terms/`](https://openai.com/policies/service-terms/)** — added a new Section 13 ("Financial Plugins and ChatGPT for Financial Services"), a liability disclaimer for the new Financial Services product (informational only, not investment advice).
+- **Six plugin pages re-categorized** (section migrations, not content changes): `amplitude` productivity→data-research; `conductor`, `g2`, `highlevel`, `mailchimp` productivity→operations; `openai-certified` data-research→education — an ongoing refinement of the Apps→Plugins taxonomy from yesterday's run.
+- Roughly 250 other pages picked up a shared "GPT-6" link in the site-wide "Latest Advancements" footer widget and/or a reshuffled "Keep reading" carousel — cosmetic, not itemized individually. One large-looking diff, `/index/introducing-4o-image-generation/` (1,293 changed lines), turned out on inspection to be the same image-example gallery re-rendered in a different DOM order, not a real content change (aside from one link bump to "ChatGPT Images 2.5").
+- 57 pages changed only their `<lastmod>` timestamp with no visible content difference.
+
+### Removed pages
+
+- **`https://openai.com/devday/`** — superseded by the new `/devday/2025/` archive page as OpenAI points the bare `/devday/` URL toward next year's event (hosted externally at `devday.openai.com`). Last snapshot preserved in git history.
+
+_Stats: 1697 total URLs | 13 added | 311 updated | 1 removed | 1 anomaly | 38 sub-sitemaps_
+
+---
+
+
 ## 2026-09-10T09-17Z
 
 **Fetch time:** 2026-09-10T09:17:18Z–09:20Z UTC | **Baseline:** 2026-09-09T09-16Z (consecutive day)

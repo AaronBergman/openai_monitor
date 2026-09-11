@@ -32,9 +32,9 @@ Prepare account work and customer follow-up.
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/Plugin_af5b4b796b588191b3f2c610aa093799>)[Contact sales](</contact-sales/>)
 
-[@Sales What can you do?(opens in a new window)](<https://chatgpt.com/?prompt=%40Sales+What+can+you+do%3F>)[@Sales Help me prepare for my upcoming customer meeting(opens in a new window)](<https://chatgpt.com/?prompt=%40Sales+Help+me+prepare+for+my+upcoming+customer+meeting>)[@Sales Build the first version of my seller dashboard(opens in a new window)](<https://chatgpt.com/?prompt=%40Sales+Build+the+first+version+of+my+seller+dashboard>)
+[Sales What can you do?(opens in a new window)](<https://chatgpt.com/?prompt=%40Sales+What+can+you+do%3F>)[Sales Help me prepare for my upcoming customer meeting(opens in a new window)](<https://chatgpt.com/?prompt=%40Sales+Help+me+prepare+for+my+upcoming+customer+meeting>)[Sales Build the first version of my seller dashboard(opens in a new window)](<https://chatgpt.com/?prompt=%40Sales+Build+the+first+version+of+my+seller+dashboard>)
 
-Use case: [Productivity](</business/plugins/?tab=plugins-productivity>) and [Sales & Commerce](</business/plugins/?tab=plugins-sales-commerce>)
+Use case: [Operations](</business/plugins/?tab=plugins-operations>) and [Sales & Commerce](</business/plugins/?tab=plugins-sales-commerce>)
 
 Made by: OpenAI
 
