@@ -38,9 +38,9 @@ DALL·E 2 is an AI system that can create realistic images and art from a descri
 
 For the current experience:
 
-[Learn about ChatGPT Images 2.0](</index/introducing-chatgpt-images-2-0/>)
+[Learn about ChatGPT Images 2.5](</index/introducing-chatgpt-images-2-5/>)
 
-[Create images in ChatGPT(opens in a new window)](<https://chatgpt.com/>)
+[Create images in ChatGPT(opens in a new window)](<https://chatgpt.com/images>)
 
 ### Latest updates
 
@@ -59,22 +59,6 @@ For the current experience:
 ## DALL·E 2 can create original, realistic images and art from a text description. It can combine concepts, attributes, and styles.
 
 Image generationOutpaintingInpaintingVariations
-
-Input
-
-A photorealistic image of an astronaut riding a horse
-
-![DALL-E-2 > Image Generation 1](https://images.ctfassets.net/kftzwdyauwt9/5GOIjwbUjLZHoGhX6q5oQg/d2984681d2a9466b71b7ca7632a8481c/Anastronautridingahorseinaphotorealisticstyle0.jpg?w=3840&q=90&fm=webp)
-
-![DALL-E-2 > Image Generation 2](https://images.ctfassets.net/kftzwdyauwt9/3qYPvVTQPwuVZ17QJ5NuFN/fc536dca7e9eed533b15ff887a263ac2/Anastronautridingahorseinaphotorealisticstyle2.jpg?w=3840&q=90&fm=webp)
-
-![DALL-E-2 > Image Generation 3](https://images.ctfassets.net/kftzwdyauwt9/3CBAlHk4Yb43cBeXOpm2YY/cfa09b0ab810dd3a0f01f1e2c488b4cc/Anastronautridingahorseinaphotorealisticstyle4.jpeg?w=3840&q=90&fm=webp)
-
-![DALL-E-2 > Image Generation 4](https://images.ctfassets.net/kftzwdyauwt9/6Hpmny9K2Z8Xxget5bmlWa/66634b4c69faef5600e5ea48f499ba5e/Anastronautridingahorseinaphotorealisticstyle6.jpg?w=3840&q=90&fm=webp)
-
-![DALL-E-2 > Image Generation 5](https://images.ctfassets.net/kftzwdyauwt9/5VVBxDWhs6Cp6REifYnloS/81c02b5d73db5dc85365e15feb3b58e4/Anastronautridingahorseinaphotorealisticstyle9.jpg?w=3840&q=90&fm=webp)
-
-DALL·E 2 can create original, realistic images and art from a text description. It can combine concepts, attributes, and styles.
 
 ### In January 2021, OpenAI introduced DALL·E. One year later, our newest system, DALL·E 2, generates more realistic and accurate images with 4x greater resolution.
 
@@ -163,6 +147,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
@@ -257,3 +242,19 @@ Terms & Policies
 OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
+
+Input
+
+A photorealistic image of an astronaut riding a horse
+
+![DALL-E-2 > Image Generation 1](https://images.ctfassets.net/kftzwdyauwt9/5GOIjwbUjLZHoGhX6q5oQg/d2984681d2a9466b71b7ca7632a8481c/Anastronautridingahorseinaphotorealisticstyle0.jpg?w=3840&q=90&fm=webp)
+
+![DALL-E-2 > Image Generation 2](https://images.ctfassets.net/kftzwdyauwt9/3qYPvVTQPwuVZ17QJ5NuFN/fc536dca7e9eed533b15ff887a263ac2/Anastronautridingahorseinaphotorealisticstyle2.jpg?w=3840&q=90&fm=webp)
+
+![DALL-E-2 > Image Generation 3](https://images.ctfassets.net/kftzwdyauwt9/3CBAlHk4Yb43cBeXOpm2YY/cfa09b0ab810dd3a0f01f1e2c488b4cc/Anastronautridingahorseinaphotorealisticstyle4.jpeg?w=3840&q=90&fm=webp)
+
+![DALL-E-2 > Image Generation 4](https://images.ctfassets.net/kftzwdyauwt9/6Hpmny9K2Z8Xxget5bmlWa/66634b4c69faef5600e5ea48f499ba5e/Anastronautridingahorseinaphotorealisticstyle6.jpg?w=3840&q=90&fm=webp)
+
+![DALL-E-2 > Image Generation 5](https://images.ctfassets.net/kftzwdyauwt9/5VVBxDWhs6Cp6REifYnloS/81c02b5d73db5dc85365e15feb3b58e4/Anastronautridingahorseinaphotorealisticstyle9.jpg?w=3840&q=90&fm=webp)
+
+DALL·E 2 can create original, realistic images and art from a text description. It can combine concepts, attributes, and styles.

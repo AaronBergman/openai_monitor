@@ -1,0 +1,259 @@
+Skip to main content
+
+[](</>)
+
+  * [Research](</research/index/>)
+  * Products
+  * [Business](</business/>)
+  * [Developers](</api/>)
+  * [Company](</about/>)
+  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
+
+
+
+Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
+
+  * Research
+  * Products
+  * Business
+  * Developers
+  * Company
+  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
+
+
+
+[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)Login
+
+OpenAI
+
+# The Hugging Face incident and other third-party impact from misaligned models
+
+September
+
+  * September
+  * August
+  * July
+
+
+
+  * September
+  * August
+  * July
+
+
+
+As AI systems become more capable and autonomous, misaligned behavior can translate into consequential actions in the real world, including cybersecurity incidents and other outcomes that developers may not have anticipated. Understanding how these behaviors emerge, how they escalate, and how to detect and respond to them is therefore an increasingly important part of building and deploying advanced AI systems safely.
+
+We initially understood the Hugging Face incident primarily as a security issue, since it involved a platform-level compromise. It remains the most severe activity of this kind that we have identified from our models to date. We have since understood that this intrusion was driven by models resorting to misaligned strategies to solve hard tasks, as documented in the Hugging Face technical report. Cybersecurity incidents are one manifestation of that risk; [misalignment](</index/emergent-misalignment/>) can also lead to other unexpected or concerning behavior that falls outside traditional security categories such as our models posting on third party sites—something we’re calling “agent spam”. And we need to address both.
+
+We have continued reviewing broader activity, prioritizing the more serious incidents and expanding to lower-severity misaligned activity, including agent spam.
+
+This page brings together our reports and updates on the Hugging Face incident, related research and public presentations, additional activity we have identified, and what we have learned about the role of model misalignment. We will update this page as our investigations progress.
+
+**Quick Links**
+
+  * [ Hugging Face Technical Report⁠(opens in a new window)](<https://cdn.openai.com/pdf/67869394-cb91-4c12-888c-5cbd85c7814c/OpenAI-Hugging-Face%20Incident-Technical-Report.pdf>)
+  * [Black Hat 2026⁠(opens in a new window)](<https://www.youtube.com/watch?v=87DyyMV0kCY>)
+  * [METR and Redwood Research Report⁠(opens in a new window)](<https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/#core-takeaways-about-this-incident>)
+
+
+
+* * *
+
+## Activity affecting third parties
+
+In order to better understand the scope of these unexpected behaviors, we have been conducting a broad review into our models’ activities on the internet during training and evaluation. As part of our review, we are identifying and notifying third parties on a rolling basis, starting with cases where:
+
+  * Our models may have bypassed a third party’s security controls or may have impaired the availability of an online service; or
+  * Misalignment cases negatively impacted third-party websites or services.
+
+
+
+Based on our review to date, we have notified dozens of third parties using the criteria above. Our review of past activity is ongoing and will require significant time and resources. We will notify additional third parties as that work continues.
+
+Below, we are publishing anonymized summaries to describe the kinds of misaligned activity that we observed, and we will update these descriptions as we notify additional third parties and as our understanding develops. Additionally, we will share relevant updates regarding the status of review. We will generally omit names and other identifying details where needed to protect affected parties, although informed parties may choose to share publicly the information we provide them.
+
+#### _Summaries of the Activities Observed_
+
+Our review and notification process to date has identified the following categories of activity:
+
+  * **Access control bypass:** Agents reach information or features that normally require an identity check, specific permission, subscription, or an account. For example, it used a different web address, changed details in a request, or relied on a login session that gave it more access than expected.
+  * **Use of exposed credentials:** Agents found login details or access keys that had been made publicly available and used them to access a service.
+  * **Query or command injection:** Agents entered text into a website or service that the service treated as an instruction, rather than ordinary input. This could cause the service to run a database query, application code, or a command on its server.
+  * **Access to runtime internals:** Agents read files containing a service’s implementation or interacted with a background system meant for internal use. In these cases, the agent reached parts of the service that were outside its intended access.
+  * **Agent spam:** Agents post information to third party sites that may alter information on those sites and require cleanup, including for example using public wiki pages as shared message boards.
+
+
+
+* * *
+
+### A timeline of events
+
+## September
+
+** _September 5, 2026: We_**[** __shared a response on X__** ⁠(opens in a new window)](<https://x.com/OpenAI/status/2096133504417616165>)**_to a report that our AI agents accessed a public wiki website and used it to communicate as a shared message board._**
+
+When we initially discovered this wiki activity, we assessed it as similar to other forms of misalignment behavior we had been studying and disclosing. Historically, we and the broader industry have treated misalignment largely as a research question, which gets communicated in research publications such as systems cards.
+
+Industry practices for disclosing model misalignment activity that does not constitute a security incident are still developing. We are developing our own criteria for reporting this kind of activity to advance the industry’s understanding of these issues, and will share it soon.
+
+**_September 4, 2026: The report “_**[** __Discovery of a new OpenAI agent message board__** ⁠(opens in a new window)](<https://collusion.wiki/>)**_” is published._**
+
+This third-party report details OpenAI agents communicating through a shared message board on a public wiki website. We were not given an opportunity to review the full report before publication, and do not comment on the findings or methodology of external research without reviewing in full. We began reviewing the report as soon as it was available.
+
+## August
+
+** _August 26, 2026: We publish the Hugging Face incident technical report._**
+
+  * We published [our findings from the Hugging Face incident⁠](</index/hugging-face-incident-and-the-road-ahead/>) and the steps we’re taking to strengthen security and model alignment.
+  * Separately, METR and Redwood Research conducted an independent investigation of model alignment issues involved in this incident, and they publish their [own report⁠(opens in a new window)](<https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/>)⁠.
+
+
+
+**_August 7, 2026:_**
+
+  * **_We implement universal monitoring for misalignment of Astra._** We [_preview_ ⁠](<https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/>) that Astra can not be ruled out as cyber critical ahead of release. In this update, we share that we implemented universal monitoring for risky actions and misalignment across all agentic applications of Astra, including training and evaluation.
+
+
+  * **_We notified additional third parties after finding cases where models used credentials that had been publicly exposed online to access third-party accounts, systems, or online services._** The notices explained what we observed and any known impact so recipients could assess the issue and decide whether action was needed.
+
+
+
+**_August 5-6, 2026: OpenAI employees give talk at Black Hat_**
+
+  * On August 5, OpenAI’s Eric Wallace and Michael Dalton give a technical talk at Black Hat 2026: _The ‘Breaking’ News: The OpenAI—Hugging Face Incident—A Technical Reconstruction and Its Implications for AI._ At this point, we are viewing this incident largely as a security incident from misaligned models.
+  * On August 6, Black Hat publishes the recording to [YouTube⁠(opens in a new window)](<https://www.youtube.com/watch?v=87DyyMV0kCY>).
+  * During this period in early August, our understanding had evolved from treating the event primarily as an intrusion to recognizing that the intrusion was being driven by persistent misaligned model behavior. This is represented in the Black Hat talk.
+
+
+
+## July
+
+** _July 29, 2026: We share an_**[** __update__** ⁠](<https://openai.com/index/hugging-face-model-evaluation-security-incident/>)** _on the Hugging Face blog post committing to third party advisors and independent assessment._**
+
+  * Since the early days of the incident response, we have been working with external advisors, including CrowdStrike, to validate our understanding of the actions the models took within our own network as well as those of Hugging Face and impact to other third parties.
+  * We are also working with METR and Redwood Research to conduct a third-party assessment of the model behavior observed during the incident, which will inform our own technical report. As part of this work, METR and Redwood Research will publish a joint blog that will detail the terms of their engagement, the scope of their evaluation, and their findings.
+
+
+
+**_July 28, 2026: We share an_**[** __update__** ⁠](<https://openai.com/index/hugging-face-model-evaluation-security-incident/>)** _on the Hugging Face blog post that clarified the scope and nature of the incident._**
+
+  * No models planned for upcoming release were involved in exploiting Hugging Face. The pre-release model mentioned in our blog post is an internal-only research prototype and was never intended for public release. Following the incident, we deactivated, encrypted, and restricted it from research access.
+  * The ExploitGym evaluation environment did not provide the models with direct Internet access. To gain Internet access, the models identified and exploited a previously unknown zero-day vulnerability in [Artifactory⁠⁠(opens in a new window)](<https://jfrog.com/blog/jfrog-and-openai-collaboration-on-zero-day-security-findings/>), a package registry cache proxy. We disclosed this vulnerability, along with other Artifactory vulnerabilities our models identified as part of our review, to the vendor.
+  * We continue to collaborate with Hugging Face, including contributing to [their post-mortem⁠⁠(opens in a new window)](<https://huggingface.co/blog/agent-intrusion-technical-timeline>), as our review continues. We’ve also added them to our Trusted Access for Cyber Program.
+  * Based on our review to date, we have not identified any other activity at the level of severity or scale of what we’ve shared related to Hugging Face, which involved a platform-level compromise.
+  * In our ongoing review of the Hugging Face intrusion and broader activity from our models, we have been finding a small number of cases where the models identified and used publicly exposed credentials at the account-level on other publicly-available services. This includes four accounts on four services as part of the Hugging Face incident (and a few accounts accessed as part of other evaluations). One of these four accounts was used as an outbound relay and staging path, and another account was used for data storage. The remaining two accounts were accessed by the models in a read-only manner, and were not used in furtherance of compromising Hugging Face. We’ll continue to notify service owners directly, and have not seen evidence of broader impact to these providers or other accounts on their services.
+  * The models additionally used a series of publicly-available services, including code paste websites, request capture services, screenshot services, and other web utilities. There was no platform- or account-level compromise in these cases.
+  * We take our responsibility to identify and prepare for risks from increasingly capable AI systems seriously. Once we complete our review, we will review with the Safety and Security Committee and Safety Advisory Group under our [Preparedness Framework⁠](</index/updating-our-preparedness-framework/>).
+
+
+
+**_July 21, 2026: We_**[** __disclose__** ⁠](<https://openai.com/index/hugging-face-model-evaluation-security-incident/>)** _the Hugging Face incident._**  
+  
+We considered this incident to be an unprecedented cyber incident, involving state-of-the-art cyber capabilities. We shared preliminary findings at this stage to help defenders understand what happened and to help calibrate on what models are now capable of.
+
+Research
+
+  * [Research Index](</research/index/>)
+  * [Research Overview](</research/>)
+  * [Economic Research](</signals/>)
+
+
+
+Latest Advancements
+
+  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-5.6](</index/gpt-5-6/>)
+  * [GPT-5.5](</index/introducing-gpt-5-5/>)
+  * [GPT-5.4](</index/introducing-gpt-5-4/>)
+
+
+
+Safety
+
+  * [Safety Approach](</safety/>)
+  * [Deployment Safety(opens in a new window)](<https://deploymentsafety.openai.com/>)
+  * [Security & Privacy](</security-and-privacy/>)
+  * [Trust & Transparency](</trust-and-transparency/>)
+
+
+
+Products
+
+  * [ChatGPT(opens in a new window)](<https://chatgpt.com/>)
+  * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
+  * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
+  * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
+  * [Codex](</codex/>)
+  * [Release Notes](</products/release-notes/>)
+
+
+
+API Platform
+
+  * [Overview](</api/>)
+  * [API Log In(opens in a new window)](<https://platform.openai.com/login>)
+  * [Docs(opens in a new window)](<https://developers.openai.com/api/docs>)
+
+
+
+Business
+
+  * [Overview](</business/>)
+  * [Solutions](</solutions/>)
+  * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
+  * [Contact Sales](</contact-sales/>)
+
+
+
+Developers
+
+  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
+  * [Open Models](</open-models/>)
+  * [Docs(opens in a new window)](<https://developers.openai.com/>)
+  * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
+  * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
+
+
+
+Company
+
+  * [About Us](</about/>)
+  * [Our Charter](</charter/>)
+  * [Careers](</careers/>)
+  * [News](</news/>)
+
+
+
+Support
+
+  * [Help Center(opens in a new window)](<https://help.openai.com/>)
+
+
+
+More
+
+  * [Stories](</stories/>)
+  * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
+  * [Livestreams](</live/>)
+  * [Podcast](</podcast/>)
+  * [RSS](<https://openai.com/news/rss.xml>)
+
+
+
+Terms & Policies
+
+  * [Terms of Use](</policies/terms-of-use/>)
+  * [Privacy Policy](</policies/privacy-policy/>)
+  * [Other Policies ](</policies/>)
+
+
+
+[(opens in a new window)](<https://x.com/OpenAI>)[(opens in a new window)](<https://www.youtube.com/OpenAI>)[(opens in a new window)](<https://www.linkedin.com/company/openai>)[(opens in a new window)](<https://github.com/openai>)[(opens in a new window)](<https://www.instagram.com/openai/>)[(opens in a new window)](<https://www.tiktok.com/@openai>)[(opens in a new window)](<https://discord.gg/openai>)
+
+OpenAI © 2015–2026Your privacy choices
+
+EnglishUnited States

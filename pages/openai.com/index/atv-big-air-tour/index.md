@@ -134,7 +134,7 @@ For ATV Big Air Tour, ChatGPT Work turns business-critical tasks that once took 
 
 —Larissa Guetter, Co-founder, ATV Big Air Tour
 
-By reducing the administrative work behind every tour stop, ChatGPT Work gives Larissa more time to build the show, connect with families, and make the next event even better. Learn more about how ChatGPT Work helps small businesses [in this webinar⁠(opens in a new window)](<https://webinar.openai.com/25-jobs-small-business-does-with-chatgpt-work/>) with Larissa.
+By reducing the administrative work behind every tour stop, ChatGPT Work gives Larissa more time to build the show, connect with families, and make the next event even better. Learn more about how ChatGPT Work helps small businesses [in this webinar⁠(opens in a new window)](<https://webinar.openai.com/small-business/25-jobs-small-business-does-with-chatgpt-work/?utm_medium=organic&utm_source=website&utm_campaign=WEB-atv-tour-case-study>) with Larissa.
 
 ## Join the new era of work
 
@@ -144,17 +144,17 @@ More than 1 million businesses around the world are achieving meaningful results
 
 ## Keep reading
 
-![The AI Policy Window Is Open. We Need to Act. — card](https://images.ctfassets.net/kftzwdyauwt9/1h2LJdMeZWvaobm9wZl7T0/3cc15e97034f5375e78cd90163eed6a5/ai-policy-window-card.png?w=3840&q=90&fm=webp)
+![Perplexity customer story art card](https://images.ctfassets.net/kftzwdyauwt9/wGvW7AaxivnlRvLvZU7CE/146fd791b18b52b67dbb0a3692357a72/square.png?w=3840&q=90&fm=webp)
 
-[The AI policy window is open. We need to act.Global AffairsSep 9, 2026](</index/ai-policy-window/>)
+[Perplexity trusts GPT-6 Astra with end-to-end systemsSep 14, 2026](</index/perplexity-improving-accuracy-with-astra/>)
 
-![GPT-6 Astra business blog — art card](https://images.ctfassets.net/kftzwdyauwt9/4DiwuhcC2lGuzS8klQkxXh/f1ac95e9bed5621a5b29f054f75db40b/Business_blog_1x1.png?w=3840&q=90&fm=webp)
+![Scaling Storage for 1 Billion ChatGPT Users \(Part I\) card image](https://images.ctfassets.net/kftzwdyauwt9/2X23NOb0P4V1KDzUBkeNpl/888204b45a1c84ddfa24c9ed31111a9c/OAI_HabitatPT1_Art_Card_1x1.png?w=3840&q=90&fm=webp)
 
-[GPT-6 Astra: The next generation in intelligence for workProductSep 9, 2026](</index/gpt-6-astra-next-generation-work/>)
+[Rapidly scaling online storage to serve over 1 billion ChatGPT usersEngineeringSep 11, 2026](</index/scaling-storage-one-billion-users-part-one/>)
 
-![Paul Christiano joins OpenAI Foundation Board — card](https://images.ctfassets.net/kftzwdyauwt9/4PcDbhz75I70TjyGat7oHl/598dd1e865018860c3591cb95c9bc72e/paul-christiano-joins-openai-foundation-board--cover-v001.png?w=3840&q=90&fm=webp)
+![Cognition customer story art card](https://images.ctfassets.net/kftzwdyauwt9/6WY3rQtuqVbg3bPdMknIhE/3421ffc90ec044e3e4f27570b311813d/cognition-art-card-option-b.png?w=3840&q=90&fm=webp)
 
-[Paul Christiano joins OpenAI Foundation BoardCompanySep 9, 2026](</index/paul-christiano-joins-openai-foundation-board/>)
+[Cognition helps Devin test its own work with GPT‑6 AstraSep 11, 2026](</index/cognition-devin-testing-with-astra/>)
 
 Research
 

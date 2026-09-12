@@ -36,9 +36,9 @@ DALL·E 3 understands significantly more nuance and detail than our previous sys
 
 For the current experience:
 
-[Learn about ChatGPT Images 2.0](</index/introducing-chatgpt-images-2-0/>)
+[Learn about ChatGPT Images 2.5](</index/introducing-chatgpt-images-2-5/>)
 
-[Create images in ChatGPT(opens in a new window)](<https://chatgpt.com/>)
+[Create images in ChatGPT(opens in a new window)](<https://chatgpt.com/images>)
 
 ![An illustration of an avocado sitting in a therapist's chair, saying 'I just feel so empty inside' with a pit-sized hole in its center. The therapist, a spoon, scribbles notes.](https://images.ctfassets.net/kftzwdyauwt9/Nw3a33C8bfO7VJMCTNgSz/3633c190fd7309970a9ac85d7c7d3989/avocado-square.jpg?w=3840&q=90&fm=webp)
 
@@ -186,6 +186,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)

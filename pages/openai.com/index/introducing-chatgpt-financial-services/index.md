@@ -118,7 +118,7 @@ Evercore
 
 ChatGPT for Financial Services brings together the financial data teams need, with the depth of detail expected. We’ve included premium financial data, streamlined existing provider connections, and improved MCP performance.
 
-![Product screen showing the source picker in ChatGPT for Financial Services.](https://images.ctfassets.net/kftzwdyauwt9/wC2NgBeVjk1pQ5lpSf7Nr/a0ac021c1c75e8840c7b6302fd226dd2/finserv-source-picker-2x.png?w=3840&q=90&fm=webp)
+![Product screen showing the source picker in ChatGPT for Financial Services.](https://images.ctfassets.net/kftzwdyauwt9/177Xkw3tsiIpb0wPbEIgVS/fc3a1c52b98c084c309e5940c8a45b15/finserv-source-picker-2x-refresh.png?w=3840&q=90&fm=webp)
 
 _ChatGPT for Financial Services brings together built-in data, connected sources, and financial analysis workflows._
 
@@ -138,7 +138,7 @@ _Trace figures and claims to specific tables and passages, with the supporting i
 
 Data providers
 
-1 of 3
+1 of 4
 
 > “The value of financial research depends on the quality of its inputs, but reliable private market data can be difficult to find and validate from public sources. Now, Crunchbase’s structured private company data, covering companies, funding, investors, and acquisitions and continuously updated and verified, will be at the fingertips of financial teams using ChatGPT. With Crunchbase data, financial teams can move from questions to meaningful insight much faster.”
 
@@ -152,18 +152,25 @@ Thomas Li, CEO of Daloopa
 
 Tom Van Buskirk, Executive Vice President of Technology and Engineering, PitchBook
 
+> “Investment research with accurate structured data linked back to the source material right inside of ChatGPT is a game changer. With this partnership, OpenAI’s newest models combine Fiscal.ai’s fundamental financial data which is updated with industry leading speed just minutes after release.”
+
+Braden Dennis, CEO, Fiscal.ai
+
   * Crunchbase
 
   * Daloopa
 
   * PitchBook
 
+  * Fiscal.ai
+
 
 
 
   * Crunchbase
   * Daloopa
   * PitchBook
+  * Fiscal.ai
 
 
 
@@ -239,7 +246,7 @@ _Compare company performance in interactive charts, with the underlying data and
 
 In ChatGPT for Financial Services, administrators can publish Excel, Word, and PowerPoint templates through a dedicated admin page. With firm templates and style guides configured, teams can turn their analysis into valuation models, research notes, and pitchbooks in their firm’s format and style.
 
-![Product screen showing ChatGPT using a firm-approved template to create a company overview deck.](https://images.ctfassets.net/kftzwdyauwt9/7zuNhjcXy5lqc4IlydVZs4/26b42a031d96af4fab05c9524ca49d83/finserv-templates.png?w=3840&q=90&fm=webp)
+![Product screen showing ChatGPT using a firm-approved template to create a company overview deck.](https://images.ctfassets.net/kftzwdyauwt9/bZoYw0hzd3YPvQ3BssVCR/adc8f9a83d6bd50a8cfee28a42487a6d/finserv-templates-2x-refresh.png?w=3840&q=90&fm=webp)
 
 _Publish firm templates to the teams who use them._
 

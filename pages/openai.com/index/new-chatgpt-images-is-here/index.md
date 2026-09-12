@@ -38,9 +38,9 @@ December 16, 2025
 
 For the current experience:
 
-[Create images in ChatGPT(opens in a new window)](<https://chatgpt.com/>)
+[Create images in ChatGPT(opens in a new window)](<https://chatgpt.com/images>)
 
-[Release notes(opens in a new window)](<https://help.openai.com/en/articles/6825453-chatgpt-release-notes>)
+[Learn about ChatGPT Images 2.5](</index/introducing-chatgpt-images-2-5/>)
 
 Loading…
 

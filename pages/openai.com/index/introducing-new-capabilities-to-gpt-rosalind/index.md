@@ -62,11 +62,15 @@ Improving performance on scientifically-valuable tasks
 
 
 
+ _**Update on September 11, 2026**_ _:_[__GPT‑Rosalind__](</rosalind/>) _, our specialized model for life sciences research, is coming out of research preview and is now available globally to eligible organizations through our trusted-access program. All eligible organizations will continue to get access to the latest Rosalind models as they’re released. Published pricing will take effect on_** _October 5, 2026_** _. Review_[ __GPT‑Rosalind pricing⁠__ ⁠(opens in a new window)](<https://developers.openai.com/api/docs/pricing?latest-pricing=standard>).
+
+* * *
+
 We’re introducing a new model update to our [GPT‑Rosalind](</rosalind/>) series purpose-built for life sciences research at enterprise scale. It combines GPT‑5.5’s agentic coding and tool-use capabilities with stronger model intelligence in core drug-discovery domains such as medicinal chemistry and genomics, while advancing performance across broader life sciences analysis, design, and experimental workflows.
 
 Progress in life sciences depends on synthesizing data and evidence across scales and modalities: molecules, genes, pathways, and living systems. In our evaluations, the updated GPT‑Rosalind shows broad performance gains on research tasks from biology experts, complex medicinal chemistry queries, quantitative biology, and wet lab troubleshooting.
 
-GPT‑Rosalind is now available in research preview to eligible organizations globally through our trusted-access deployment structure.
+GPT‑Rosalind is available to eligible organizations globally through our trusted-access deployment structure.
 
 ## Improving performance on scientifically-valuable tasks
 
@@ -122,7 +126,7 @@ Turn a bulk RNA-seq sample sheet, FASTQ bundle, and reference files into a QC-re
 
 ## Expanded access for trusted organizations
 
-We are expanding access to the [GPT‑Rosalind](</rosalind/>) series to eligible organizations globally. GPT‑Rosalind will be available in research preview through our trusted-access deployment structure for organizations that are conducting legitimate scientific research with clear public benefit, have strong governance and safety oversight, and controlled access with enterprise-grade security.
+We are expanding access to the [GPT‑Rosalind](</rosalind/>) series to eligible organizations globally. GPT‑Rosalind will be available through our trusted-access deployment structure for organizations that are conducting legitimate scientific research with clear public benefit, have strong governance and safety oversight, and controlled access with enterprise-grade security.
 
 As part of this global expansion, we’re excited to help support Novo Nordisk’s mission of bringing innovative treatment options to patients faster by helping scale their medical research with GPT‑Rosalind. Novo Nordisk is leveraging frontier AI capabilities to help researchers analyze complex datasets, uncover useful patterns, and test hypotheses more quickly. GPT‑Rosalind’s stronger biological understanding will help teams connect evidence across literature, genomics, transcriptomics, sequence, structure, and experimental results, making it easier to move from data to clearer research decisions.
 
