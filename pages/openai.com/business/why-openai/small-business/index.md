@@ -26,11 +26,19 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 OpenAI
 
+New
+
+### Introducing ChatGPT-6 Astra:
+
+**Our most capable model, built for the hardest work businesses need to get done.**
+
+[Learn more](</business/model/>)
+
 OpenAI for small business
 
 # Be bold. Be ambitious. Build with ChatGPT.
 
-ChatGPT Business helps teams use agents in everyday work to manage customers, prepare financial reports, create marketing materials and run operations.
+ChatGPT Business helps small teams do more of their best work, giving them more capacity to serve customers, create, analyze, and keep the business moving.
 
 [Try ChatGPT Business(opens in a new window)](<https://chatgpt.com/team-sign-up>)[Contact sales](</contact-sales/>)
 

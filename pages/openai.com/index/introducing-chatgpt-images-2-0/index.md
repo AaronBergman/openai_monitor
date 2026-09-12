@@ -36,6 +36,14 @@ A new era of image generation
 
 [Try in ChatGPT(opens in a new window)](<https://chatgpt.com/images/>)
 
+## This post introduced ChatGPT Images 2.0.
+
+For the latest image experience:
+
+[Learn about ChatGPT Images 2.5](</index/introducing-chatgpt-images-2-5/>)
+
+[Create images in ChatGPT(opens in a new window)](<https://chatgpt.com/images>)
+
 Image modeClassic mode
 
 Research

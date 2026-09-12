@@ -26,6 +26,14 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 OpenAI
 
+New
+
+### Introducing ChatGPT-6 Astra:
+
+**Our most capable model, built for the hardest work businesses need to get done.**
+
+[Learn more](</business/model/>)
+
 # Frontier intelligenceeverywhere you work
 
 Get started

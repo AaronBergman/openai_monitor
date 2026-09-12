@@ -145,7 +145,7 @@ Evaluates the spoken answer to tool-using requests containing pauses, hesitation
 
 > “GPT‑Live-1 shows what a full-duplex model can unlock: It moves AI voice support from the stop-start rhythm toward the natural flow of a phone call. Customers can pause, interrupt, and change direction naturally; voice delivery is a clear step forward; and Fin can combine that natural conversation with its proprietary support system to do the deeper work needed to resolve the issue. For us, this is the clearest signal yet of where voice support is heading.”
 
-—Jordan Neil, COO
+—Jordan Neill, COO
 
 > “With Devin and GPT‑Live‑1, working with an AI engineer starts to feel more like collaborating with a teammate. You can talk through an idea, pressure-test an approach, or just hand off work while you’re away from your keyboard.”
 

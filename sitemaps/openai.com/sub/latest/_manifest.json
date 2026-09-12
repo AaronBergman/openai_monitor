@@ -1,7 +1,13 @@
 {
-  "fetch_time": "2026-09-11T09-15Z",
+  "fetch_time": "2026-09-12T09-17Z",
   "root_url": "https://openai.com/sitemap.xml",
   "sub_sitemaps": [
+    {
+      "section": "page",
+      "url": "https://openai.com/sitemap.xml/page/",
+      "file": "sitemap.xml_page.xml",
+      "count": 522
+    },
     {
       "section": "ai-adoption",
       "url": "https://openai.com/sitemap.xml/ai-adoption/",
@@ -66,19 +72,19 @@
       "section": "engineering",
       "url": "https://openai.com/sitemap.xml/engineering/",
       "file": "sitemap.xml_engineering.xml",
-      "count": 21
-    },
-    {
-      "section": "global-affairs-news-listed",
-      "url": "https://openai.com/sitemap.xml/global-affairs-news-listed/",
-      "file": "sitemap.xml_global-affairs-news-listed.xml",
-      "count": 4
+      "count": 22
     },
     {
       "section": "global-affairs",
       "url": "https://openai.com/sitemap.xml/global-affairs/",
       "file": "sitemap.xml_global-affairs.xml",
       "count": 153
+    },
+    {
+      "section": "global-affairs-news-listed",
+      "url": "https://openai.com/sitemap.xml/global-affairs-news-listed/",
+      "file": "sitemap.xml_global-affairs-news-listed.xml",
+      "count": 4
     },
     {
       "section": "intelligence-age",
@@ -109,12 +115,6 @@
       "url": "https://openai.com/sitemap.xml/openai-academy/",
       "file": "sitemap.xml_openai-academy.xml",
       "count": 30
-    },
-    {
-      "section": "page",
-      "url": "https://openai.com/sitemap.xml/page/",
-      "file": "sitemap.xml_page.xml",
-      "count": 516
     },
     {
       "section": "plugins-data-research",

@@ -38,10 +38,10 @@ Loading…
 
 Share
 
-Build cloud agents with a single API call
+What our customers are saying about Agents API
 
-  * Build cloud agents with a single API call
   * What our customers are saying about Agents API
+  * Build cloud agents with a single API call
   * Choose your agent environment
   * OpenAI hosted sandboxes
   * Build with an evolving Codex harness
@@ -53,8 +53,8 @@ Build cloud agents with a single API call
 
 
 
-  * Build cloud agents with a single API call
   * What our customers are saying about Agents API
+  * Build cloud agents with a single API call
   * Choose your agent environment
   * OpenAI hosted sandboxes
   * Build with an evolving Codex harness
@@ -69,6 +69,53 @@ Build cloud agents with a single API call
 As we’ve scaled Codex and ChatGPT for Work to millions of people around the world, we’ve learned what it takes to make long-running agents work well in practice. Useful agents need a powerful harness that manages context, uses tools efficiently, and coordinates subagents. They also need infrastructure that keeps them running reliably for days, with environments where they can work with files, run code, and save intermediate results.
 
 Today, we’re introducing the [_Agents API_ ⁠(opens in a new window)](<https://developers.openai.com/api/docs/guides/agents-api/overview>) in public beta, bringing that same harness and infrastructure that powers Codex to developers through a simple, flexible API.
+
+## What our customers are saying about Agents API
+
+1 of 8
+
+> “With the Agents API, our evaluation score went from 0.71 to 0.85. The subagent support in the API is great and drastically sped up our workflow. Previously it was pretty cumbersome to observe and orchestrate subagents in our old setup but the new APIs gave us a 4x latency reduction. We spent a long time trying to optimize for this and the subagent flows were a huge out-of-the-box lift.”
+
+Jack Weissenberger, CTO, Ciridae
+
+> “Transforming real-world businesses means deploying AI into workflows of every shape. Agents API supplies the harness; the environment, context, and UX stay ours. With our AI platform Nexus we now stand up agents in hours across industries, from residential services to architecture.”
+
+Rasmus Wissmann, CTO, Long Lake
+
+> “The Agents API has enabled us to think differently about how we can architect complex, multi-step workflows. We used to write prompt chains and manage our own set of tool calls, but now we can use agents directly in our code much like how Codex works on your laptop. It’s already helped us solve several problems that would’ve otherwise required us to build custom agent infrastructure.”
+
+Cole Striler, Director of Engineering, WithCoverage
+
+> “After migrating our case review workflow to the Agents API, we saw a 60% reduction in cost per case, lower latency, and significantly improved token efficiency while maintaining existing performance.”
+
+Bhavyansh Sabharwal, Member of Technical Staff, SafetyKit
+
+> “What stood out in our testing was how naturally the Agents API handled bursty workloads. We could fan out work across hundreds of agents, run them asynchronously, and collect the results later, without keeping infrastructure idle between peaks.”
+
+Dmitry Khanukov, Co-founder & CTO, Dwelly
+
+> “Earning customers’ trust is critical in financial services. OpenAI’s Agents API enables us to build more reliable agents, giving customers the confidence to use them in production. By separating the agent harness from the sandbox, we reduced failed agent responses by 86%.”
+
+Serhii Shchoholiev, Lead Engineer, Hypha
+
+> “The Agents API handled the implementation, independent review, remediation, and real-browser validation in a real, active repository. Overall, the agent’s engineering quality was very strong.”
+
+Maks Operlejn, Senior ML Engineer, deepsense.ai
+
+> “At Nash, we deploy thousands of long-running AI agents that manage hundreds of millions of deliveries across global logistics networks. OpenAI’s Agents API gives us the durable session and orchestration layer we need for agents operating continuously in production managing context, recovery, and multi-step execution, while Nash provides the tools and execution environment that connect them to the physical world. This lets our agents reason, act, recover, and collaborate across complex workflows that can span hours or days. These agents are production infrastructure running mission-critical logistics operations for our partners.”
+
+Aziz Alghunaim, Co-founder & CTO, Nash.ai
+
+  * Ciridae
+  * Long Lake
+  * WithCoverage
+  * SafetyKit
+  * Dwelly
+  * Hypha
+  * deepsense.ai
+  * Nash.ai
+
+
 
 ## Build cloud agents with a single API call
 
@@ -204,53 +251,6 @@ OpenAI hosts and maintains the harness. You choose the agent’s compute environ
 ![An application sends tasks to the Agents API and receives events and output. The Agents API runs the managed Codex harness, sending tool calls to a sandbox and receiving tool results. The application controls self-hosted compute.](https://images.ctfassets.net/kftzwdyauwt9/7oiK2YZ2Dx7hujorDOOj6R/47ba63c3fc77253118db0dbba04e19e4/agents-api_16x9_light_1.png?w=3840&q=90&fm=webp)
 
 Agents API powers your agents with the same harness and infrastructure behind Codex.
-
-## What our customers are saying about Agents API
-
-1 of 8
-
-> “With the Agents API, our evaluation score went from 0.71 to 0.85. The subagent support in the API is great and drastically sped up our workflow. Previously it was pretty cumbersome to observe and orchestrate subagents in our old setup but the new APIs gave us a 4x latency reduction. We spent a long time trying to optimize for this and the subagent flows were a huge out-of-the-box lift.”
-
-Jack Weissenberger, CTO, Ciridae
-
-> “Transforming real-world businesses means deploying AI into workflows of every shape. Agents API supplies the harness; the environment, context, and UX stay ours. With our AI platform Nexus we now stand up agents in hours across industries, from residential services to architecture.”
-
-Rasmus Wissmann, CTO, Long Lake
-
-> “The Agents API has enabled us to think differently about how we can architect complex, multi-step workflows. We used to write prompt chains and manage our own set of tool calls, but now we can use agents directly in our code much like how Codex works on your laptop. It’s already helped us solve several problems that would’ve otherwise required us to build custom agent infrastructure.”
-
-Cole Striler, Director of Engineering, WithCoverage
-
-> “After migrating our case review workflow to the Agents API, we saw a 60% reduction in cost per case, lower latency, and significantly improved token efficiency while maintaining existing performance.”
-
-Bhavyansh Sabharwal, Member of Technical Staff, SafetyKit
-
-> “What stood out in our testing was how naturally the Agents API handled bursty workloads. We could fan out work across hundreds of agents, run them asynchronously, and collect the results later, without keeping infrastructure idle between peaks.”
-
-Dmitry Khanukov, Co-founder & CTO, Dwelly
-
-> “Earning customers’ trust is critical in financial services. OpenAI’s Agents API enables us to build more reliable agents, giving customers the confidence to use them in production. By separating the agent harness from the sandbox, we reduced failed agent responses by 86%.”
-
-Serhii Shchoholiev, Lead Engineer, Hypha
-
-> “The Agents API handled the implementation, independent review, remediation, and real-browser validation in a real, active repository. Overall, the agent’s engineering quality was very strong.”
-
-Maks Operlejn, Senior ML Engineer, deepsense.ai
-
-> “At Nash, we deploy thousands of long-running AI agents that manage hundreds of millions of deliveries across global logistics networks. OpenAI’s Agents API gives us the durable session and orchestration layer we need for agents operating continuously in production managing context, recovery, and multi-step execution, while Nash provides the tools and execution environment that connect them to the physical world. This lets our agents reason, act, recover, and collaborate across complex workflows that can span hours or days. These agents are production infrastructure running mission-critical logistics operations for our partners.”
-
-Aziz Alghunaim, Co-founder & CTO, Nash.ai
-
-  * Ciridae
-  * Long Lake
-  * WithCoverage
-  * SafetyKit
-  * Dwelly
-  * Hypha
-  * deepsense.ai
-  * Nash.ai
-
-
 
 ## Choose your agent environment
 

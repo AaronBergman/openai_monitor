@@ -26,6 +26,14 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 OpenAI
 
+New
+
+### Introducing ChatGPT-6 Astra:
+
+**Our most capable model, built for the hardest work businesses need to get done.**
+
+[Learn more](</business/model/>)
+
 # Shape what’s next
 
 Transformative companies can come from anywhere. OpenAI supports founders at every stage of their startup journey to turn ambition into products, customers, and companies.

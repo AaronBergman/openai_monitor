@@ -36,7 +36,7 @@ Powered by GPT‑6, ChatGPT Work brings together your team’s context to tackle
 
  _Available to all plans on macOS and Windows desktop, and to Plus, Pro, Business, Enterprise, and Edu on web and mobile._
 
-ChatGPT WorkUse casesGP-6
+ChatGPT WorkUse casesGPT-6
 
 ## Turn ideas into action
 

@@ -43,115 +43,79 @@ Sort
 
 API
 
-Sep 3, 2026
+Sep 10, 2026
 
 GA
 
-## Introducing GPT-6 Astra
+## Project API key expiration and maximum lifetime controls
 
-Today we’re introducing GPT‑6 Astra, with improvements in coding, research, computer use, and complex, multi-step work. Astra can create documents, spreadsheets, and presentations that follow your templates and instructions, and adapt when you add requirements or change direction.
+You can now set expiration dates when creating project API keys. Administrators can also enforce a maximum key lifetime at the organization or project level in Platform settings, requiring newly created keys to expire within the configured limit.
 
-Access is rolling out to a limited set of organizations. Astra is not yet generally available. Broader availability is planned over the coming days.
-
-Astra includes additional safety monitoring to look for cases where agents may not have interpreted your instructions correctly. If a potential case is detected, the conversation may be paused or stopped as a precaution for you to review and decide how to proceed.
-
-gpt-6-astra  
-v1/responses  
-v1/chat/completions
-
-Released GPT‑6 Astra, our most capable model, built for the hardest end-to-end work.
-
-Use GPT‑6 Astra for reasoning, coding, computer use, research, and document creation. It combines these capabilities to carry complex tasks from an initial request to a finished result, using the context and tools you provide.
-
-Key changes to consider when migrating:
-
-  * GPT‑6 Astra does not support the `none` reasoning effort level.
-
-  * GPT‑6 Astra does not support custom `temperature` or `top_p` values or log probabilities (`logprobs`).
-
-  * Tool calling requires the Responses API. If you use tools with Chat Completions, follow the Responses migration guide.
-
-  * Misalignment monitoring asynchronously checks for potential issues during agent work in supported Responses API requests. Checks can trigger safety alerts or stop a conversation for review.
-
-
-
-
-v1/responses
-
-Added new controls for long-running work with GPT‑6 Astra in the Responses API:
-
-  * Async tool calling: Let the model continue working while your application runs function or custom tools, then return results as they become available.
-
-  * Mid-turn steering: Send additional instructions while a response is in progress over WebSockets, so the model can incorporate corrections or changing requirements.
-
-  * Change reasoning effort mid-conversation: Increase effort for difficult work or reduce it for routine follow-ups while preserving the cached prompt prefix.
-
-
-
-
-[View source(opens in a new window)](<https://developers.openai.com/api/docs/models/gpt-6-astra>)[Help center(opens in a new window)](<https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-gpt-6-astra>)[Platform docs(opens in a new window)](<https://developers.openai.com/api/docs/changelog>)
-
-ChatGPT
-
-Sep 3, 2026
-
-Beta
-
-## Zendesk and OneNote plugins in ChatGPT and Codex
-
-Today, we added the Zendesk and OneNote plugins in the Plugin directory. The Zendesk plugin helps teams review support tickets and customer history, find relevant knowledge, and prepare replies in ChatGPT and Codex. Members connect their own Zendesk accounts to work with the support information they can access.
-
-The OneNote plugin helps you find and summarize notes, gather decisions and action items, and create or update notes through supported actions in ChatGPT and Codex.
-
-[View source(opens in a new window)](<https://help.openai.com/en/articles/6825453-chatgpt-release-notes#zendesk-onenote-plugins-in-chatgpt-and-codex-beta>)[Help center(opens in a new window)](<https://help.openai.com/en/articles/11391654-chatgpt-business-release-notes#zendesk-onenote-plugins-in-chatgpt-and-codex-beta>)[Help center(opens in a new window)](<https://help.openai.com/en/articles/10128477-chatgpt-enterprise-edu-release-notes#zendesk-onenote-plugins-in-chatgpt-and-codex-beta>)
-
-ChatGPT
-
-Sep 3, 2026
-
-GA
-
-## Share ChatGPT Sites with people outside your workspace
-
-Eligible Site owners can now share a live ChatGPT Site with named people outside their workspace, without making the Site public. External viewers can use the shared Site but cannot edit or publish it.
-
-To share, open the Site, select Share, enter the recipient’s email, and save their viewer access. The recipient signs in with the account that was granted access. You can review or remove viewers in the Site’s sharing controls.
-
-ChatGPT Business Site owners can now share live Sites with named people outside their workspace. A viewer invitation provides access to the shared Site without adding the recipient to the Business workspace, granting editing access, or making the Site public.
-
-Open the Site and select Share to add the recipient’s email as a viewer, then save the change. Recipients sign in with the account that received access - you can review or remove viewer access using the sharing controls. Workspace Sites settings still apply.
-
-Eligible ChatGPT Enterprise workspaces can now let Site owners share live Sites with named external viewers. Recipients sign in with the account that was granted access and can view the shared Site without joining the workspace. Additionally, viewer access does not grant editing or publishing rights, or make the Site public.
-
-Workspace owners and admins can allow invitations for selected roles in Workspace settings > Permissions & roles by enabling Sites and Allow members to invite external visitors to sites. This permission is separate from public publishing.
-
-[View source(opens in a new window)](<https://help.openai.com/en/articles/6825453-chatgpt-release-notes#share-sites-with-people-outside-your-workspace>)[Help center(opens in a new window)](<https://help.openai.com/en/articles/11391654-chatgpt-business-release-notes#share-sites-with-people-outside-your-workspace>)[Help center(opens in a new window)](<https://help.openai.com/en/articles/10128477-chatgpt-enterprise-edu-release-notes#share-sites-with-people-outside-your-workspace>)
-
-Codex
-
-Sep 3, 2026
-
-GA
-
-## More control over browser and computer use
-
-New policy settings give enterprise admins more control over how supported desktop clients use browsers and native apps. Admins can set website defaults and exceptions, restrict uploads, downloads, browser history and developer access, and control automatic review, saved approvals and how long site approvals last. Native-app rules can allow or block specific macOS and Windows apps. Admins can also restrict importing data from another browser.
-
-Where the policy editor is available, open Codex Policies and Configurations and edit the policy’s Requirements. Controls apply on supported clients and platforms; allowing a site or app does not bypass other policies or approval prompts.
-
-[View source(opens in a new window)](<https://help.openai.com/en/articles/10128477-chatgpt-enterprise-edu-release-notes#more-control-over-browser-and-computer-use>)[Platform docs(opens in a new window)](<https://learn.chatgpt.com/docs/enterprise/managed-configuration>)
+[View source(opens in a new window)](<https://developers.openai.com/api/docs/guides/production-best-practices>)[Platform docs(opens in a new window)](<https://developers.openai.com/api/docs/changelog>)
 
 API
 
-Sep 1, 2026
+Sep 10, 2026
+
+Beta
+
+## Agents API public beta
+
+Released the Agents API in public beta. Build agents with a managed Codex harness while OpenAI handles session orchestration, context compaction, and recovery.
+
+Use durable sessions to continue work across turns, stream progress, and connect your own tools and MCP servers. Run agents in OpenAI-hosted sandboxes or connect a sandbox from your own infrastructure or a supported provider.
+
+[View source(opens in a new window)](<https://developers.openai.com/api/docs/guides/agents-api/overview>)[Platform docs(opens in a new window)](<https://developers.openai.com/api/docs/guides/agents-api/quickstart>)
+
+API
+
+Sep 10, 2026
 
 GA
 
-## IPv6 support for api.openai.com
+## GPT-Live 1 generally available in the API
 
-Connections to `api.openai.com` can now use IPv6.
+GPT‑Live 1 is now generally available in the API. Build full-duplex voice conversations that can continue while a backend model or agent handles reasoning and tools.
 
-[View source(opens in a new window)](<https://developers.openai.com/api/docs/changelog>)
+Use Responses delegation with an OpenAI model, or client delegation to connect your own backend. Voice sessions cost $0.05 per minute, billed per second; backend model and tool usage is charged separately.
+
+[View source(opens in a new window)](<https://developers.openai.com/api/docs/models/gpt-live-1>)[Platform docs(opens in a new window)](<https://developers.openai.com/api/docs/guides/live>)[Platform docs(opens in a new window)](<https://developers.openai.com/api/docs/pricing>)
+
+Codex
+
+Sep 10, 2026
+
+GA
+
+## Data plugin in ChatGPT Work and Codex
+
+The Data plugin helps you analyze connected business data in ChatGPT Work and Codex. Ask a business question, investigate changes, or create an interactive dashboard or report. You can refine the analysis with follow-up questions and bring in your team’s metric definitions and other business context.
+
+To get started, install Data from the plugin directory, then start a conversation with `@Data`. Connected sources may require setup or authorization, and queries use your connected account’s existing permissions.
+
+Workspace administrators can manage Data’s installation policy in Workspace settings > Plugins and enable the data-source plugins and apps the team needs. Administrators can review access by role or group. Data-source plugins and their apps may need separate setup. Members can start with `@Data` once Data is available in their workspace. Connected-account permissions and workspace access controls apply.
+
+[View source(opens in a new window)](<https://help.openai.com/en/articles/6825453-chatgpt-release-notes#data-plugin-in-chatgpt-work-and-codex>)[Help center(opens in a new window)](<https://help.openai.com/en/articles/11391654-chatgpt-business-release-notes#data-plugin-in-chatgpt-work-and-codex>)[Help center(opens in a new window)](<https://help.openai.com/en/articles/10128477-chatgpt-enterprise-edu-release-notes#data-plugin-in-chatgpt-work-and-codex>)
+
+ChatGPT
+
+Sep 10, 2026
+
+GA
+
+## Box, Dropbox, and SharePoint are now in Library
+
+Box, Dropbox, and SharePoint now join Google Drive in ChatGPT Library. Once connected, you can browse and search available files and folders, then add the files you need to a conversation through Add from Library or @mentions—without uploading them again. You can review supported file previews beside the conversation and follow citations back to the source as you work.
+
+When you’re working with a file, you can now keep Box, Dropbox, and SharePoint files open beside the conversation while asking ChatGPT to summarize, analyze, compare, or create something new from them. You can also select a folder and ask ChatGPT to work across the files it contains. Your content stays connected to their original source, so it’s easy to return to the original.
+
+Availability
+
+Box, Dropbox, and SharePoint integrations are now rolling out to Go, Plus, Pro, Business, Edu, Healthcare and Enterprise users on the web in both Chat and Work. Existing file permissions and workspace controls apply. Mobile support will follow.
+
+Rolling out to Plus, Pro, Enterprise, Edu, Healthcare and Business users on the web in both the Chat and Work toggles. Mobile support will follow.
+
+[View source(opens in a new window)](<https://help.openai.com/en/articles/6825453-chatgpt-release-notes#box-dropbox-and-sharepoint-are-now-in-library>)
 
 Load more
 

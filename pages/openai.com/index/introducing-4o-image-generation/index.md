@@ -36,13 +36,13 @@ Unlocking useful and valuable image generation with a natively multimodal model 
 
 [Try in ChatGPT (opens in a new window)](<https://chatgpt.com/>)
 
-## This launch post is outdated.
+## This post introduced 4o image generation.
 
 For the current image experience:
 
 [ChatGPT Images 2.5](</index/introducing-chatgpt-images-2-5/>)
 
-[Create images in ChatGPT(opens in a new window)](<https://chatgpt.com/>)
+[Create images in ChatGPT(opens in a new window)](<https://chatgpt.com/images>)
 
 Loading…
 

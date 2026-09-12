@@ -62,13 +62,17 @@ Built for scientific workflows
 
 
 
+ _**Update on September 11, 2026**_ _:_[__GPT‑Rosalind__](</rosalind/>) _, our specialized model for life sciences research, is coming out of research preview and is now available globally to eligible organizations through our trusted-access program. All eligible organizations will continue to get access to the latest Rosalind models as they’re released. Published pricing will take effect on_** _October 5, 2026_** _. Review_[ __GPT‑Rosalind pricing⁠__ ⁠(opens in a new window)](<https://developers.openai.com/api/docs/pricing?latest-pricing=standard>)_._
+
+* * *
+
 Today, we’re introducing GPT‑Rosalind, our frontier reasoning model built to support research across biology, drug discovery, and translational medicine. The life sciences model series is optimized for scientific workflows, combining improved tool use with deeper understanding across chemistry, protein engineering, and genomics.
 
 On average, it takes roughly 10 to 15 years to go from target discovery to regulatory approval for a new drug in the United States. Gains made at the earliest stages of discovery compound downstream in better target selection, stronger biological hypotheses and higher-quality experiments. Progress in the life sciences is constrained not only by the difficulty of the underlying science, but by the complexity of the research workflows themselves. Scientists must work across large volumes of literature, specialized databases, experimental data, and evolving hypotheses in order to generate and evaluate new ideas. These workflows are often time-intensive, fragmented, and difficult to scale.
 
 We believe advanced AI systems can help researchers move through these workflows faster—not just by making existing work more efficient, but by helping scientists explore more possibilities, surface connections that might otherwise be missed, and arrive at better hypotheses sooner. By supporting evidence synthesis, hypothesis generation, experimental planning, and other multi-step research tasks, this model is designed to help researchers accelerate the early stages of discovery. Over time, these systems could help life sciences organizations discover breakthroughs that wouldn’t otherwise be possible, with a much higher rate of success. 
 
-GPT‑Rosalind is now available as a research preview in ChatGPT, Codex, and the API for qualified customers through our trusted access program. We’re also introducing a freely accessible Life Sciences research plugin for Codex, helping scientists connect models to over 50 scientific tools and data sources. We are working with customers like Amgen, Moderna, the Allen Institute, Thermo Fisher Scientific, and others to apply GPT‑Rosalind across workflows that accelerate research and discovery.
+GPT‑Rosalind is available in ChatGPT, Codex, and the API for qualified customers through our trusted access program. We’re also introducing a freely accessible Life Sciences research plugin for Codex, helping scientists connect models to over 50 scientific tools and data sources. We are working with customers like Amgen, Moderna, the Allen Institute, Thermo Fisher Scientific, and others to apply GPT‑Rosalind across workflows that accelerate research and discovery.
 
 The model is named after Rosalind Franklin, whose rigorous research helped reveal the structure of DNA and laid foundations for modern molecular biology. 
 
@@ -119,13 +123,11 @@ Eligible Enterprise users can leverage this plugin in research workflows with GP
 
 We want to make these capabilities available to the scientists and research organizations best positioned to advance human health, while maintaining strong safeguards against biological misuse. The Life Sciences model is launching through a trusted-access deployment structure for qualified Enterprise customers in the U.S. to start, with controls around eligibility, access management, and organizational governance. At the same time, we are making a set of connectors and the Life Sciences Research Plugin available more broadly, so researchers can use our mainline models more effectively for life sciences research tasks. 
 
-The Life Sciences model was developed with heightened enterprise-grade security controls and strengthened access management, enabling professional scientific use in governed research environments. We evaluate access based on three core principles: beneficial use, strong governance and safety oversight, and controlled access with enterprise-grade security. In practice, this means participating organizations must be conducting legitimate scientific research with clear public benefit; maintain appropriate governance, compliance, and misuse-prevention controls; and restrict access to approved users within secure, well-managed environments. Organizations must also agree to the life sciences research preview terms and comply with OpenAI’s usage policies, and we may request additional information as part of onboarding or continued participation. 
+The Life Sciences model was developed with heightened enterprise-grade security controls and strengthened access management, enabling professional scientific use in governed research environments. We evaluate access based on three core principles: beneficial use, strong governance and safety oversight, and controlled access with enterprise-grade security. In practice, this means participating organizations must be conducting legitimate scientific research with clear public benefit; maintain appropriate governance, compliance, and misuse-prevention controls; and restrict access to approved users within secure, well-managed environments. 
 
 ## Getting started
 
-Organizations can [_request access_ ⁠](<https://openai.com/form/life-sciences-access>) through our qualification and safety review process.
-
-During the research preview, use of this model will not consume existing credits or tokens—subject to abuse guardrails. We’ll share more details on pricing and availability as the program expands.
+Organizations can [_request access_ ⁠(opens in a new window)](<https://chatgpt.com/r/b749fb02595e04c3007a54375f3f4374>) through our qualification and safety review process.
 
 The Life Sciences model is built to help scientific organizations do higher-quality work, faster, in environments that require both technical capability and operational control. Our dedicated Life Sciences team—as well as advisory partners including McKinsey & Company, Boston Consulting Group (BCG), and Bain & Company—help organizations identify high-impact use cases, integrate the model into enterprise environments, and drive measurable outcomes. If you’d like to explore ways OpenAI Life Sciences can support your work, you can [_contact our Life Sciences team_ ⁠](<https://openai.com/contact-sales/>).  
 
@@ -136,13 +138,13 @@ This is the first release in our Life Sciences model series, and we view it as t
 
 Over time, we expect these systems to become increasingly capable partners in discovery—helping scientists move faster from question to evidence, from evidence to insight, and from insight to new treatments for patients.
 
-##   
-  
-
-
 ## Keep reading
 
 [View all](</news/>)
+
+![GPT-Live-1 API | Green-blue cover | Option 038](https://images.ctfassets.net/kftzwdyauwt9/1uBabEULLfw3Vb2Gldmyyq/c19c1c121ca403ee8b2703cba18ef82d/introducing-gpt-live-1-green-cover.png?w=3840&q=90&fm=webp)
+
+[Build more natural voice experiences with GPT‑Live‑1 in the APIProductSep 10, 2026](</index/introducing-gpt-live-1-in-the-api/>)
 
 ![Navier–Stokes solution — art card](https://images.ctfassets.net/kftzwdyauwt9/2VUQZfeF2GtKRitKYdkoLu/cc96d05424afb2c9adcca0734ecdafb1/navier-stokes-art-card.png?w=3840&q=90&fm=webp)
 
@@ -151,10 +153,6 @@ Over time, we expect these systems to become increasingly capable partners in di
 ![An alien mind > Listing card](https://images.ctfassets.net/kftzwdyauwt9/7ut3G8rKt5ia4P3yRqi2qN/6ffb429f70548a881eb46a4e7e61498e/Option_120___1080_1080.png?w=3840&q=90&fm=webp)
 
 [An Alien MindSafetySep 6, 2026](</index/an-alien-mind/>)
-
-![Research acceleration: The view inside OpenAI > Cover image](https://images.ctfassets.net/kftzwdyauwt9/5kS3OG1Jfdja5xLmYcRwgr/f53b9dfe985df5969aff5dc41f2d1934/Art_Card__7_.png?w=3840&q=90&fm=webp)
-
-[Research acceleration: The view inside OpenAIResearchSep 6, 2026](</index/research-acceleration-view-inside-openai/>)
 
 Research
 

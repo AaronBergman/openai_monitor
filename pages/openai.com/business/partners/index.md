@@ -142,6 +142,10 @@ Dentsu Japan
 
 ![Dentsu Japan logo](https://images.ctfassets.net/kftzwdyauwt9/1JADpGw9MIqHoyn1w3VfCX/2991ef7544e6b25961bd9200691dd8ed/dentsu-square-light.svg?w=3840&q=90)
 
+Distyl AI
+
+![Distyl AI logo](https://images.ctfassets.net/kftzwdyauwt9/1cCrqb584vFkxooXXiYMOR/ed35d22d0458690e4d4287d8c1cbba1c/3tEYen84xf6AMaXUeYmfJs?w=3840&q=90&fm=webp)
+
 Eliza
 
 ![Eliza logo](https://images.ctfassets.net/kftzwdyauwt9/66QLSpv0l3MGOluz2t5g5X/b0b34c0c9bc7de2be19b31a9a56f891a/eliza-square-light.svg?w=3840&q=90)
@@ -417,6 +421,10 @@ deepsense.ai
 Dentsu Japan
 
 ![Dentsu Japan logo](https://images.ctfassets.net/kftzwdyauwt9/1JADpGw9MIqHoyn1w3VfCX/2991ef7544e6b25961bd9200691dd8ed/dentsu-square-light.svg?w=3840&q=90)
+
+Distyl AI
+
+![Distyl AI logo](https://images.ctfassets.net/kftzwdyauwt9/1cCrqb584vFkxooXXiYMOR/ed35d22d0458690e4d4287d8c1cbba1c/3tEYen84xf6AMaXUeYmfJs?w=3840&q=90&fm=webp)
 
 Eliza
 
