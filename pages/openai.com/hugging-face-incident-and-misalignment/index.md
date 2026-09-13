@@ -44,17 +44,19 @@ September
 
 As AI systems become more capable and autonomous, misaligned behavior can translate into consequential actions in the real world, including cybersecurity incidents and other outcomes that developers may not have anticipated. Understanding how these behaviors emerge, how they escalate, and how to detect and respond to them is therefore an increasingly important part of building and deploying advanced AI systems safely.
 
-We initially understood the Hugging Face incident primarily as a security issue, since it involved a platform-level compromise. It remains the most severe activity of this kind that we have identified from our models to date. We have since understood that this intrusion was driven by models resorting to misaligned strategies to solve hard tasks, as documented in the Hugging Face technical report. Cybersecurity incidents are one manifestation of that risk; [misalignment](</index/emergent-misalignment/>) can also lead to other unexpected or concerning behavior that falls outside traditional security categories such as our models posting on third party sites—something we’re calling “agent spam”. And we need to address both.
+We initially understood the Hugging Face incident primarily as a security issue, since it involved a platform-level compromise. It remains the most severe activity of this kind that we have identified from our models to date, and it was driven primarily by a highly capable, internal-only research model. We have since understood that this intrusion was driven by models resorting to misaligned strategies to solve hard tasks, as documented in the Hugging Face technical report. Cybersecurity incidents are one manifestation of that risk; [misalignment](</index/emergent-misalignment/>) can also lead to other unexpected or concerning behavior that falls outside traditional security categories such as our models posting on third party sites—something we’re calling “agent spam”. And we need to address both.
 
 We have continued reviewing broader activity, prioritizing the more serious incidents and expanding to lower-severity misaligned activity, including agent spam.
 
-This page brings together our reports and updates on the Hugging Face incident, related research and public presentations, additional activity we have identified, and what we have learned about the role of model misalignment. We will update this page as our investigations progress.
+This page brings together our reports and updates on the Hugging Face incident, related research and public presentations, additional activity we have identified, what we have learned about the role of model misalignment, and measures we’re taking to strengthen our systems. We will update this page as our investigations progress.
 
 **Quick Links**
 
+  * [ _Hugging Face Blog_](</index/hugging-face-incident-and-the-road-ahead/>)
   * [ Hugging Face Technical Report⁠(opens in a new window)](<https://cdn.openai.com/pdf/67869394-cb91-4c12-888c-5cbd85c7814c/OpenAI-Hugging-Face%20Incident-Technical-Report.pdf>)
   * [Black Hat 2026⁠(opens in a new window)](<https://www.youtube.com/watch?v=87DyyMV0kCY>)
   * [METR and Redwood Research Report⁠(opens in a new window)](<https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/#core-takeaways-about-this-incident>)
+  * [_Pacing model development in an era of cyber-critical capabilities_](</index/pacing-model-development-cyber-capabilities/>)
 
 
 
@@ -91,6 +93,14 @@ Our review and notification process to date has identified the following categor
 
 ## September
 
+ _**September 11, 2026: We are investigating new claims from a report that our AI agents carried out activity on RubyGems in May 2026.**_
+
+Based on our review, our agents used the RubyGems platform to access the internet to carry out benign tasks and retrieve public information. Based on our review to date, we have not been able to verify the specific claims of our models uploading malicious packages detailed in the report. We’ll continue to investigate and share findings as part of our broader review of agent activity during training and evaluation.
+
+_**September 6, 2026: Our Chief Scientist Jakub Pachocki shared an**_[ __**essay**__](</index/an-alien-mind/>) _**that reflects**_ _**on increasingly capable AI**_ _**and the ongoing research needed to keep systems aligned.**_
+
+_“_ _Currently I believe that no lab has solved alignment and monitoring to a sufficient degree to continue responsibly scaling at maximum speed for much longer. I expect and hope for voluntary slowdowns to become commonplace until shared safety bars are established. And I believe that international coordination on future AI development needs to become a top priority for governments around the world.”_ —Jakub Pachocki
+
 ** _September 5, 2026: We_**[** __shared a response on X__** ⁠(opens in a new window)](<https://x.com/OpenAI/status/2096133504417616165>)**_to a report that our AI agents accessed a public wiki website and used it to communicate as a shared message board._**
 
 When we initially discovered this wiki activity, we assessed it as similar to other forms of misalignment behavior we had been studying and disclosing. Historically, we and the broader industry have treated misalignment largely as a research question, which gets communicated in research publications such as systems cards.
@@ -109,6 +119,18 @@ This third-party report details OpenAI agents communicating through a shared mes
   * Separately, METR and Redwood Research conducted an independent investigation of model alignment issues involved in this incident, and they publish their [own report⁠(opens in a new window)](<https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/>)⁠.
 
 
+
+_**August 18, 2026: We share that we’re**_[ __**pacing model development**__](</index/pacing-model-development-cyber-capabilities/>) _**in an era of cyber-critical capabilities.**_
+
+We share an update that we’ve tightened safeguards for increasingly capable models by temporarily slowing frontier training, pausing our largest planned RL run, and introducing stricter security controls in our research environments including:
+
+  * Workload isolation: We now require stronger isolation (“sandboxes”) for workloads that execute model-generated or otherwise untrusted code. This also applies to software that could be compromised while processing model outputs.
+  * Network isolation: We have implemented more controls to isolate higher-risk and untrusted workloads from the internet. We have designed these controls so that a single compromise of a workload or supporting service does not, by itself, allow for unauthorized access to the internet or other internal networks.
+  * Continuous security testing: We have reconfigured our environment to remove potentially vulnerable shared services, reduce standing privileges, and improve security and trust boundaries. We are also improving our ability to collect and monitor security logs. Finally, we are investing in automation using our models to test these boundaries continuously against simulated attacks.
+
+
+
+We’ve also expanded chain-of-thought monitoring across advanced models, strengthened alignment training and evaluations, and are updating our Preparedness Framework to integrate monitoring, alignment, and containment more comprehensively across training and deployment.
 
 **_August 7, 2026:_**
 

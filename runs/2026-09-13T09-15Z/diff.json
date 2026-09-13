@@ -1,0 +1,33 @@
+{
+  "run_id": "2026-09-13T09-15Z",
+  "fetch_time": "2026-09-13T09:15Z-09:20Z",
+  "baseline": "2026-09-12T09-17Z",
+  "added": [],
+  "removed": [],
+  "updated": [
+    {"url": "https://openai.com/business/contact-sales-financial-services/", "old_lastmod": "2026-09-12T02:47:22.894Z", "new_lastmod": "2026-09-12T14:00:48.286Z"},
+    {"url": "https://openai.com/business/partners/canva/", "old_lastmod": "2026-09-12T05:17:01.645Z", "new_lastmod": "2026-09-12T21:40:49.977Z"},
+    {"url": "https://openai.com/business/partners/gusto/", "old_lastmod": "2026-09-11T20:12:15.767Z", "new_lastmod": "2026-09-13T08:33:41.132Z"},
+    {"url": "https://openai.com/business/partners/hubspot/", "old_lastmod": "2026-09-12T00:07:02.996Z", "new_lastmod": "2026-09-12T18:16:07.004Z"},
+    {"url": "https://openai.com/business/partners/quickbooks/", "old_lastmod": "2026-09-11T10:01:01.478Z", "new_lastmod": "2026-09-12T18:00:07.591Z"},
+    {"url": "https://openai.com/business/partners/stripe/", "old_lastmod": "2026-09-12T07:28:34.749Z", "new_lastmod": "2026-09-12T15:38:35.684Z"},
+    {"url": "https://openai.com/business/solutions/data/", "old_lastmod": "2026-09-12T08:48:02.021Z", "new_lastmod": "2026-09-13T04:47:03.131Z"},
+    {"url": "https://openai.com/hugging-face-incident-and-misalignment/", "old_lastmod": "2026-09-12T00:40:51.960Z", "new_lastmod": "2026-09-13T00:42:43.229Z"},
+    {"url": "https://openai.com/index/1password/", "old_lastmod": "2026-09-11T15:10:35.135Z", "new_lastmod": "2026-09-13T05:13:30.532Z"},
+    {"url": "https://openai.com/index/introducing-chatgpt-images-2-5/", "old_lastmod": "2026-09-11T16:27:55.747Z", "new_lastmod": "2026-09-12T21:07:03.699Z"},
+    {"url": "https://openai.com/index/legora-financial-statement-review-with-astra/", "old_lastmod": "2026-09-11T00:29:58.216Z", "new_lastmod": "2026-09-12T18:37:32.561Z"},
+    {"url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board/", "old_lastmod": "2026-09-12T04:38:39.510Z", "new_lastmod": "2026-09-12T15:59:01.806Z"},
+    {"url": "https://openai.com/index/research-acceleration-view-inside-openai/", "old_lastmod": "2026-09-12T02:14:41.507Z", "new_lastmod": "2026-09-12T21:45:29.606Z"},
+    {"url": "https://openai.com/index/supporting-independent-journalism-in-ukraine/", "old_lastmod": "2026-09-11T18:14:39.244Z", "new_lastmod": "2026-09-12T10:17:04.038Z"},
+    {"url": "https://openai.com/index/two-blind-brothers/", "old_lastmod": "2026-09-11T22:05:02.915Z", "new_lastmod": "2026-09-13T06:16:01.203Z"},
+    {"url": "https://openai.com/our-structure/", "old_lastmod": "2026-09-12T05:03:27.814Z", "new_lastmod": "2026-09-12T19:37:11.183Z"},
+    {"url": "https://openai.com/policies/", "old_lastmod": "2026-09-11T17:39:22.886Z", "new_lastmod": "2026-09-13T06:47:18.775Z"},
+    {"url": "https://openai.com/policies/ad-policies/", "old_lastmod": "2026-09-11T23:44:04.802Z", "new_lastmod": "2026-09-12T18:30:12.931Z"},
+    {"url": "https://openai.com/policies/cookie-policy/", "old_lastmod": "2026-09-11T19:26:54.524Z", "new_lastmod": "2026-09-13T09:14:36.730Z"},
+    {"url": "https://openai.com/policies/financial-services-terms/", "old_lastmod": "2026-09-11T17:38:15.869Z", "new_lastmod": "2026-09-12T18:38:24.701Z"},
+    {"url": "https://openai.com/policies/service-terms/", "old_lastmod": "2026-09-11T17:45:28.441Z", "new_lastmod": "2026-09-13T06:55:55.847Z"},
+    {"url": "https://openai.com/products/release-notes/", "old_lastmod": "2026-09-12T04:28:01.729Z", "new_lastmod": "2026-09-12T16:50:21.180Z"}
+  ],
+  "anomalies": [],
+  "fetch_failures": []
+}
