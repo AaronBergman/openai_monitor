@@ -1,5 +1,32 @@
 # openai_monitor
 
+## 2026-09-14T09-16Z
+
+**Fetch time:** 2026-09-14T09:16Z–09:20Z UTC | **Baseline:** 2026-09-13T09-15Z (consecutive day)
+
+**TL;DR:** Another very quiet day. One new page appeared — a startup customer story about Fyxer, an AI executive-assistant email product built on fine-tuned OpenAI models — and 22 pages bumped their `<lastmod>` timestamp, but on inspection **every single one of those 22 was a no-op republish**: byte-for-byte identical content except one page (a partner badge image) whose only change was an invisible build-hash in an image URL. No removals, no anomalies. Two of the touched URLs looked newsworthy by name (`gpt-6-astra`, `paul-christiano-joins-openai-foundation-board`) but confirmed to have no actual new content — just a routine CMS republish. 1705 total URLs across 38 sub-sitemaps.
+
+### Anomalies
+
+None. All 1705 URLs checked: no future-dated `<lastmod>` values, no backwards-moving `<lastmod>` values (all 22 updates moved forward), no backdated new URLs (the 1 new URL's lastmod is same-day as first_seen), no reappeared URLs, and no section migrations. Full detail in [`runs/2026-09-14T09-16Z/analysis.md`](runs/2026-09-14T09-16Z/analysis.md).
+
+### Notable additions
+
+- **[How Fyxer built an AI executive assistant people trust](pages/openai.com/index/fyxer/index.md)** — new startup customer story. Fyxer's AI executive assistant splits email handling across ~30–50 specialized fine-tuned OpenAI models (reply classification, intent prediction, memory retrieval, drafting) trained on 500,000+ hours of human-executive-assistant workflow data, plus a DPO-based self-training loop from user edits. Reports 53% of AI-generated drafts accepted as-written, 90% 90-day user retention, and 2025 ARR growth from $1M to $32M. Minor curiosity: the on-page byline reads "August 13, 2026," a full month before this page actually entered the sitemap — a display-date vs. publish-date mismatch, not a technical anomaly.
+
+### Notable updates
+
+None with real content change. All 22 pages that touched `<lastmod>` — six business/partner pages (Gusto, HubSpot, Quantiphi, Quickbooks, Stripe, plus the Financial Services contact page and Data solutions page), several index/news pages (1Password, GPT-6 Astra and its companion piece, Paul Christiano's board appointment, Codex quantum-computing experiments, teen development research grants, Two Blind Brothers, an AI-native-workflows piece, a New York Times item), plus `/business/model/`, `/business/pricing/`, `/chatgpt-work/`, `/collective-cyberdefense/application/`, and `/products/release-notes/` — were byte-identical republishes with zero visible content change. The lone exception, `/business/partners/quantiphi/`, changed only a cosmetic image-build hash in its partner-tier badge URL.
+
+### Removed pages
+
+None this run.
+
+_Stats: 1705 total URLs | 1 added | 22 updated (0 with real content change) | 0 removed | 0 anomalies | 38 sub-sitemaps_
+
+---
+
+
 ## 2026-09-13T09-15Z
 
 **Fetch time:** 2026-09-13T09:15Z–09:20Z UTC | **Baseline:** 2026-09-12T09-17Z (consecutive day)
