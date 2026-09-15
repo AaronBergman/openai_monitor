@@ -32,9 +32,9 @@ Find and engage prospects.
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69377d07cd9c8191a988f06f15b8c674>)[Contact sales](</contact-sales/>)
 
-[Clay Find GTM Leaders at Conclusive AI(opens in a new window)](<https://chatgpt.com/?prompt=%40Clay+Find+GTM+Leaders+at+Conclusive+AI>)
+[![](https://files.openai.com/content?id=file_0000000088dc71f6a290da6b9746773b&cdn=1&cp=pi&ma=32486400&ts=0&p=pi&cid=8&sig=053f47893fea5795866c05c071a32556575279ccb29b59b78c36b6efb2d97385&v=0)![](https://files.openai.com/content?id=file_0000000088dc71f6a290da6b9746773b&cdn=1&cp=pi&ma=32486400&ts=0&p=pi&cid=8&sig=053f47893fea5795866c05c071a32556575279ccb29b59b78c36b6efb2d97385&v=0)Clay Find GTM Leaders at Conclusive AI(opens in a new window)](<https://chatgpt.com/?prompt=%40Clay+Find+GTM+Leaders+at+Conclusive+AI>)
 
-Use case: [Operations](</business/plugins/?tab=plugins-operations>), [Sales & Commerce](</business/plugins/?tab=plugins-sales-commerce>), and [Marketing](</business/plugins/?tab=plugins-marketing>)
+Use case: [Operations](</business/plugins/?tab=plugins-operations>), [Sales](</business/plugins/?tab=plugins-sales-commerce>), and [Marketing](</business/plugins/?tab=plugins-marketing>)
 
 Made by: Clay Inc
 

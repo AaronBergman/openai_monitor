@@ -1,5 +1,36 @@
 # openai_monitor
 
+## 2026-09-15T09-16Z
+
+**Fetch time:** 2026-09-15T09:16Z–09:22Z UTC | **Baseline:** 2026-09-14T09-16Z (consecutive day)
+
+**TL;DR:** A quiet day with one genuinely new page and a pile of cosmetic noise. The one addition is a heartwarming applied-AI story about a college student's teen-built wildfire-detection sensor network that uses ChatGPT to turn raw sensor data into plain-language fire alerts for firefighters. Of 250 pages that touched their `<lastmod>`, only two changes carry real information: the release-notes page gained a new admin feature ("test a member's model access"), and one academy page got a title tweak. Everything else was "Keep reading" carousel reshuffling, a plugin-directory UI polish (new inline icons, "Sales & Commerce"→"Sales" and "Data & Research"→"Data" tag renames across ~40 plugin pages), stale pages catching up on a footer link added days ago, and one image cache-bust. No removals, no anomalies. 1706 total URLs across 38 sub-sitemaps.
+
+### Anomalies
+
+None. All 1706 URLs checked: no future-dated `<lastmod>` values, no backwards-moving `<lastmod>` values, no backdated new URLs, no reappeared URLs, and no section migrations. Full detail in [`runs/2026-09-15T09-16Z/analysis.md`](runs/2026-09-15T09-16Z/analysis.md).
+
+### Notable additions
+
+- **[Using ChatGPT to detect wildfires early](pages/openai.com/index/detecting-wildfires-early/index.md)** — profile of Ryan Honary, who turned a fifth-grade science project (started after the 2018 Camp Fire) into **SensoRy AI**, a network of solar-powered field sensors that detect heat, smoke, flame, and plume activity at ignition. ChatGPT translates the raw sensor data into plain-language alerts, and a ChatGPT-Voice "walkie-talkie" feature lets firefighters ask natural-language questions ("Is this a fire? Where is it? What's the best evacuation route?") and get answers in seconds. Quotes the Laguna Beach Fire Department and the Irvine Ranch Conservancy. Fits OpenAI's recurring "AI for good" story slot.
+
+### Notable updates
+
+- **[Release notes](pages/openai.com/products/release-notes/index.md)** — new entry, "Test a member's model access" (ChatGPT, GA, Sep 11): Business admins can now use Admin Console → Models → Test to look up which models a member can access and why, without changing any permissions.
+- **[ChatGPT for marketing teams](pages/openai.com/academy/marketing/index.md)** — retitled from "Learn ChatGPT workflows for marketing teams" to the punchier "ChatGPT for marketing teams"; no other content change.
+- **Plugin-directory UI polish (~40 pages under `/business/plugins/*`)** — each plugin page now renders small app icons inline next to its example prompt chips, and two use-case tag labels were simplified: "Sales & Commerce" → "Sales" and "Data & Research" → "Data." Cosmetic only.
+- **Stale footer-nav catch-up** — a handful of pages (`estee-lauder`, `how-finance-teams-use-codex`, `managing-ai-investments-in-agentic-era`, `signals/research/2026q1-update`, `business-data`, and others) finally picked up the "GPT-6" link in the "Latest Advancements" footer that was actually added site-wide back on 2026-09-10/11 — not a new change today.
+- 121 other URLs bumped `<lastmod>` with **zero visible content change** (build/re-render noise), and `/business/partners/quantiphi/` changed only an invisible image cache-bust parameter.
+
+### Removed pages
+
+None this run.
+
+_Stats: 1706 total URLs | 1 added | 250 updated (2 with real content change) | 0 removed | 0 anomalies | 38 sub-sitemaps_
+
+---
+
+
 ## 2026-09-14T09-16Z
 
 **Fetch time:** 2026-09-14T09:16Z–09:20Z UTC | **Baseline:** 2026-09-13T09-15Z (consecutive day)

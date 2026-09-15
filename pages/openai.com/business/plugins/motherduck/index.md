@@ -32,11 +32,9 @@ Get answers from your data
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_696a54f1c91c81919002b9153ce0e336>)[Contact sales](</contact-sales/>)
 
-@MotherDuck Show me the top 30 customers by revenue last quarter
+[![](https://files.openai.com/content?id=file_00000000bc4071f68f5cc1e52ef938ff&cdn=1&cp=pi&ma=32486400&ts=0&p=pi&cid=8&sig=d3d7a09c0580c743b219401469dee9237a513ab82f5bbcd15a3f833ff93d8912&v=0)![](https://files.openai.com/content?id=file_00000000bc4071f68f5cc1e52ef938ff&cdn=1&cp=pi&ma=32486400&ts=0&p=pi&cid=8&sig=d3d7a09c0580c743b219401469dee9237a513ab82f5bbcd15a3f833ff93d8912&v=0)MotherDuck Show me the top 30 customers by revenue last quarter(opens in a new window)](<https://chatgpt.com/?prompt=%40MotherDuck+Show+me+the+top+30+customers+by+revenue+last+quarter>)
 
-![@MotherDuck Show me the top 30 customers by revenue last quarter](https://files.openai.com/content?id=file_0000000062f87208863257825d8a6128&cdn=1&cp=pi&ma=31363200&ts=0&p=pi&cid=8&sig=2c2d32db2f85df7f8cc6438c60831adc493971f94861705ba91db132fcf8d248&v=0)
-
-Use case: [Data & Research](</business/plugins/?tab=plugins-data-research>)
+Use case: [Data](</business/plugins/?tab=plugins-data-research>)
 
 Made by: MotherDuck Corporation
 

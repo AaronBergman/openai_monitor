@@ -32,7 +32,7 @@ Connect to MongoDB Atlas
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a5fa5e2392c8191824fb0340191afba>)[Contact sales](</contact-sales/>)
 
-Use case: [Engineering & IT](</business/plugins/?tab=plugins-engineering-it>) and [Data & Research](</business/plugins/?tab=plugins-data-research>)
+Use case: [Engineering & IT](</business/plugins/?tab=plugins-engineering-it>) and [Data](</business/plugins/?tab=plugins-data-research>)
 
 Made by: MongoDB
 

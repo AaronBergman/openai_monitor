@@ -132,6 +132,18 @@ Customer stories
 
 Filter
 
+![Fyxer customer story 1x1 image](https://images.ctfassets.net/kftzwdyauwt9/7LbXXCnX1NLyS1i8mHGF1i/d75fdf2bf63cf463ce2e72915a783757/oai_Fyxer_1x1.png?w=3840&q=90&fm=webp)
+
+[How Fyxer built an AI executive assistant people trustStartupSep 14, 2026](</index/fyxer/>)
+
+![Perplexity customer story art card](https://images.ctfassets.net/kftzwdyauwt9/wGvW7AaxivnlRvLvZU7CE/146fd791b18b52b67dbb0a3692357a72/square.png?w=3840&q=90&fm=webp)
+
+[Perplexity trusts GPT-6 Astra with end-to-end systemsSep 14, 2026](</index/perplexity-improving-accuracy-with-astra/>)
+
+![Cognition customer story art card](https://images.ctfassets.net/kftzwdyauwt9/6WY3rQtuqVbg3bPdMknIhE/3421ffc90ec044e3e4f27570b311813d/cognition-art-card-option-b.png?w=3840&q=90&fm=webp)
+
+[Cognition helps Devin test its own work with GPT‑6 AstraSep 11, 2026](</index/cognition-devin-testing-with-astra/>)
+
 ![1Password > Card image > Fiber ridge close-up](https://images.ctfassets.net/kftzwdyauwt9/6IJsWuQa1blfxNfvbdIF1m/0868067102440aea5fd1ad35ba436a77/square.png?w=3840&q=90&fm=webp)
 
 [1Password increases engineering productivity 21% with CodexSep 8, 2026](</index/1password/>)
@@ -167,18 +179,6 @@ Filter
 ![replit-customer-story-art-card-1x1](https://images.ctfassets.net/kftzwdyauwt9/2ZUd2sTOK6p4MrjDZnvCoM/512b38a71cf26f09c3cda3c51169c401/replit-customer-story-art-card-1x1.png?w=3840&q=90&fm=webp)
 
 [Replit expands access to software creation with GPT-5.6 LunaStartupAug 19, 2026](</index/replit/>)
-
-![NVIDIA ChatGPT Work 1x1 hero and card image](https://images.ctfassets.net/kftzwdyauwt9/V9MQmG5c479ZrgoiOSq4S/606fe86ef0325f861c508a5f5726bed6/oai_NVIDIA_1x1_v3.png?w=3840&q=90&fm=webp)
-
-[How NVIDIA scales expertise with ChatGPT WorkAug 18, 2026](</index/nvidia/chatgpt-work/>)
-
-![Asana customer story square image](https://images.ctfassets.net/kftzwdyauwt9/RUuKViqxSTWhOoSAHvL40/753e6b4a52d6e4c2bbe5aa5cee129c5b/oai_asana_1x1.real.png?w=3840&q=90&fm=webp)
-
-[Asana cleared 5 years of engineering work in 2 weeks with CodexAug 18, 2026](</index/asana/>)
-
-![RingCentral customer story card image](https://images.ctfassets.net/kftzwdyauwt9/6WzF4VutJu2invSV6RybO2/6961cdf4099a44909ba58c02969369b1/ringcentral-drive-card.png?w=3840&q=90&fm=webp)
-
-[How RingCentral builds AI-native work from engineering to opsAug 12, 2026](</index/ringcentral/>)
 
 Load more
 

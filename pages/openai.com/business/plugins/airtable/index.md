@@ -32,15 +32,9 @@ Add structured data to ChatGPT.
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_693ca6ce2db08191bb52d66743c65184>)[Contact sales](</contact-sales/>)
 
-@Airtable show me a kanban of the product roadmap. What’s at risk? What’s up next?
+[![](https://files.openai.com/content?id=file_00000000ed5071f7ac257032bcf8cc5d&cdn=1&cp=pi&ma=30931200&ts=0&p=pi&cid=8&sig=5c39ec3d859bcbd5a64f66e922b81ef025929d041ece54ba8405ee30c2cb46be&v=0)![](https://files.openai.com/content?id=file_000000006914720ca7a34247e1112b83&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=5d06aac0f128e7c36a59adf200cc7a34308389a908a9967caef1163d3c75c06f&v=0)Airtable show me a kanban of the product roadmap. What’s at risk? What’s up next?(opens in a new window)](<https://chatgpt.com/?prompt=%40Airtable+show+me+a+kanban+of+the+product+roadmap.+What%E2%80%99s+at+risk%3F+What%E2%80%99s+up+next%3F>)[![](https://files.openai.com/content?id=file_00000000ed5071f7ac257032bcf8cc5d&cdn=1&cp=pi&ma=30931200&ts=0&p=pi&cid=8&sig=5c39ec3d859bcbd5a64f66e922b81ef025929d041ece54ba8405ee30c2cb46be&v=0)![](https://files.openai.com/content?id=file_000000006914720ca7a34247e1112b83&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=5d06aac0f128e7c36a59adf200cc7a34308389a908a9967caef1163d3c75c06f&v=0)Airtable which roadmap initiatives should I discuss with the enterprise sales team today?(opens in a new window)](<https://chatgpt.com/?prompt=%40Airtable+which+roadmap+initiatives+should+I+discuss+with+the+enterprise+sales+team+today%3F>)
 
-![@Airtable show me a kanban of the product roadmap. What’s at risk? What’s up next?](https://files.openai.com/content?id=file_00000000ef6471f6bbd5be3fdf237983&cdn=1&cp=pi&ma=31536000&ts=0&p=pi&cid=1&sig=35911859778acd5d7c9d2bc6e948d2e0df8fc079aa0def9fff710ebf00ed85f4)
-
-@Airtable which roadmap initiatives should I discuss with the enterprise sales team today?
-
-![@Airtable which roadmap initiatives should I discuss with the enterprise sales team today?](https://files.openai.com/content?id=file_000000004eec71f68b402d889ed0928c&cdn=1&cp=pi&ma=32659200&ts=0&p=pi&cid=1&sig=e57e6ad716a38de19764dc591bcc1ef59236d25d6ee49395bb777e0ed2000dfc)
-
-Use case: [Productivity](</business/plugins/?tab=plugins-productivity>) and [Data & Research](</business/plugins/?tab=plugins-data-research>)
+Use case: [Productivity](</business/plugins/?tab=plugins-productivity>) and [Data](</business/plugins/?tab=plugins-data-research>)
 
 Made by: Airtable
 

@@ -32,19 +32,9 @@ Ask data questions and start new analyses from Hex.
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_690a9430a270819196671dcb4c95898e>)[Contact sales](</contact-sales/>)
 
-@Hex pull up my board meeting dashboard
+[![](https://files.openai.com/content?id=file_00000000d39471f5895ac05d8dd82675&cdn=1&cp=pi&ma=30758400&ts=0&p=pi&cid=1&sig=9a5d10a9cef64950c8e49963cdfcc8723fd063b39649bb3ffbff98b539dea986&v=0)![](https://files.openai.com/content?id=file_00000000385881f7bc6c98a3bc181621&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=8&sig=40cd48a2f7eb162054efb6149fda37de4388c8a50c5f2eb84f338b62f952e8e3&v=0)Hex pull up my board meeting dashboard(opens in a new window)](<https://chatgpt.com/?prompt=%40Hex+pull+up+my+board+meeting+dashboard>)[![](https://files.openai.com/content?id=file_00000000d39471f5895ac05d8dd82675&cdn=1&cp=pi&ma=30758400&ts=0&p=pi&cid=1&sig=9a5d10a9cef64950c8e49963cdfcc8723fd063b39649bb3ffbff98b539dea986&v=0)![](https://files.openai.com/content?id=file_00000000385881f7bc6c98a3bc181621&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=8&sig=40cd48a2f7eb162054efb6149fda37de4388c8a50c5f2eb84f338b62f952e8e3&v=0)Hex who are our top customers by revenue?(opens in a new window)](<https://chatgpt.com/?prompt=%40Hex+who+are+our+top+customers+by+revenue%3F>)[![](https://files.openai.com/content?id=file_00000000d39471f5895ac05d8dd82675&cdn=1&cp=pi&ma=30758400&ts=0&p=pi&cid=1&sig=9a5d10a9cef64950c8e49963cdfcc8723fd063b39649bb3ffbff98b539dea986&v=0)![](https://files.openai.com/content?id=file_00000000385881f7bc6c98a3bc181621&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=8&sig=40cd48a2f7eb162054efb6149fda37de4388c8a50c5f2eb84f338b62f952e8e3&v=0)Hex how is our sales conversion vs. benchmarks?(opens in a new window)](<https://chatgpt.com/?prompt=%40Hex+how+is+our+sales+conversion+vs.+benchmarks%3F>)
 
-![@Hex pull up my board meeting dashboard](https://files.openai.com/content?id=file_000000004b9c71f6b198d6ad4e5efb3e&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=1&sig=d6b1696c298d992e254cc7a7129288e73b958ea29034590e2888e0c6287a6e5b)
-
-@Hex who are our top customers by revenue?
-
-![@Hex who are our top customers by revenue?](https://files.openai.com/content?id=file_00000000e0f071f6a6ef5b25a7dc17f0&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=1&sig=6cb10623e1d3ddccd7c4c96f864ff84b62009b32361ed96457d534bf088b3c20)
-
-@Hex how is our sales conversion vs. benchmarks?
-
-![@Hex how is our sales conversion vs. benchmarks?](https://files.openai.com/content?id=file_00000000de4c71f69424c3bf7dd8f58b&cdn=1&cp=pi&ma=31363200&ts=0&p=pi&cid=1&sig=0d031e2cad89bc6284a242459905a60077cb3d14e0aa3b610ee351a3d940b505)
-
-Use case: [Data & Research](</business/plugins/?tab=plugins-data-research>)
+Use case: [Data](</business/plugins/?tab=plugins-data-research>)
 
 Made by: Hex
 

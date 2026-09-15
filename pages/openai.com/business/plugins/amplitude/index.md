@@ -32,7 +32,7 @@ Search and analyze analytics data.
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_690e2dabf430819196f8b3701ec838ec>)[Contact sales](</contact-sales/>)
 
-Use case: [Data & Research](</business/plugins/?tab=plugins-data-research>)
+Use case: [Data](</business/plugins/?tab=plugins-data-research>)
 
 Made by: Amplitude
 

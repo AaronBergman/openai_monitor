@@ -32,15 +32,9 @@ Connect and analyze data from 400+ apps.
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6939ea66e1588191af5f9d2a52964d19>)[Contact sales](</contact-sales/>)
 
-@Coupler.io Show overall spend, impressions, clicks, and CPC
+[![](https://files.openai.com/content?id=file_000000004e58720cb8bbfc0978e3367e&cdn=1&cp=pi&ma=30758400&ts=0&p=pi&cid=1&sig=1b0376e78ef2e4f6f05a5b9bc138133fa5d468103e983c1f706341fe5f2293a7&v=0)![](https://files.openai.com/content?id=file_00000000c73081f7bf9eb20dcfc0bf64&cdn=1&cp=pi&ma=31363200&ts=0&p=pi&cid=8&sig=d62b12c0280b3d8053803e8a8fdf394b4f0e4e6c9bec46234bcbe8d3c1908747&v=0)Coupler.io Show overall spend, impressions, clicks, and CPC(opens in a new window)](<https://chatgpt.com/?prompt=%40Coupler.io+Show+overall+spend%2C+impressions%2C+clicks%2C+and+CPC>)
 
-![@Coupler.io Show overall spend, impressions, clicks, and CPC](https://files.openai.com/content?id=file_00000000070c71f69b62a7fcc89ca07f&cdn=1&cp=pi&ma=30412800&ts=0&p=pi&cid=1&sig=e7fc7460ebef22ba593111b4ac3f10e5d8d84f3dcf94684c76758352e138b488)
-
-![Coupler.io](https://files.openai.com/content?id=file_00000000ab3871f6a9f53b5f52d32301&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=1&sig=e148090729c539ed4a2ed53a74d3a9a9a684a1935d366092ae704e0642f5ae32)
-
-![Coupler.io](https://files.openai.com/content?id=file_000000001fe071f68735d765dd3554a1&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=1&sig=a929b72e5004166c2e364519efa08090624e86b1cb55882973340d5dbc740ac7)
-
-Use case: [Data & Research](</business/plugins/?tab=plugins-data-research>)
+Use case: [Data](</business/plugins/?tab=plugins-data-research>)
 
 Made by: Coupler.io
 

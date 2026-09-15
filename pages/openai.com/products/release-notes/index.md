@@ -41,6 +41,42 @@ Filter
 
 Sort
 
+ChatGPT
+
+Sep 11, 2026
+
+GA
+
+## Test a member's model access
+
+ChatGPT Business admins can use Model Test to understand which models a member can access and which settings contribute to that access. Open Admin Console, select your ChatGPT workspace, then use Models > Test to search for a member by name or email. Testing does not grant model access, change permissions or usage limits, or override the member’s seat type or workspace plan.
+
+[View source(opens in a new window)](<https://help.openai.com/en/articles/11391654-chatgpt-business-release-notes#test-a-members-model-access>)[Help center(opens in a new window)](<https://help.openai.com/en/articles/10128477-chatgpt-enterprise-edu-release-notes#test-a-members-model-access>)[Help center(opens in a new window)](<https://help.openai.com/en/articles/12289294-managing-your-tenant-in-admin-console>)
+
+Codex
+
+Sep 11, 2026
+
+GA
+
+## Audit logs for Codex policies and configurations
+
+Changes made through the Codex Policies & Configurations interface are recorded in workspace audit logs. Authorized admins can review the logs in the UI or retrieve them through the Compliance API.
+
+[View source(opens in a new window)](<https://help.openai.com/en/articles/10128477-chatgpt-enterprise-edu-release-notes#audit-logs-for-codex-policies-and-configurations>)[Help center(opens in a new window)](<https://help.openai.com/en/articles/9261474-openai-compliance-platform-for-enterprise-and-edu-customers>)
+
+API
+
+Sep 11, 2026
+
+GA
+
+## Create, update, and delete groups with the Admin API
+
+The Groups Admin API supports group creation, updates, and deletion in eligible workspaces, helping admins automate recurring group-management tasks. Workspace access and the required Admin key permissions still apply.
+
+[View source(opens in a new window)](<https://help.openai.com/en/articles/10128477-chatgpt-enterprise-edu-release-notes#create-update-and-delete-groups-with-the-admin-api>)[Help center(opens in a new window)](<https://help.openai.com/en/articles/20001407-managing-admin-keys-in-admin-console>)
+
 API
 
 Sep 10, 2026
@@ -66,56 +102,6 @@ Released the Agents API in public beta. Build agents with a managed Codex harnes
 Use durable sessions to continue work across turns, stream progress, and connect your own tools and MCP servers. Run agents in OpenAI-hosted sandboxes or connect a sandbox from your own infrastructure or a supported provider.
 
 [View source(opens in a new window)](<https://developers.openai.com/api/docs/guides/agents-api/overview>)[Platform docs(opens in a new window)](<https://developers.openai.com/api/docs/guides/agents-api/quickstart>)
-
-API
-
-Sep 10, 2026
-
-GA
-
-## GPT-Live 1 generally available in the API
-
-GPT‑Live 1 is now generally available in the API. Build full-duplex voice conversations that can continue while a backend model or agent handles reasoning and tools.
-
-Use Responses delegation with an OpenAI model, or client delegation to connect your own backend. Voice sessions cost $0.05 per minute, billed per second; backend model and tool usage is charged separately.
-
-[View source(opens in a new window)](<https://developers.openai.com/api/docs/models/gpt-live-1>)[Platform docs(opens in a new window)](<https://developers.openai.com/api/docs/guides/live>)[Platform docs(opens in a new window)](<https://developers.openai.com/api/docs/pricing>)
-
-Codex
-
-Sep 10, 2026
-
-GA
-
-## Data plugin in ChatGPT Work and Codex
-
-The Data plugin helps you analyze connected business data in ChatGPT Work and Codex. Ask a business question, investigate changes, or create an interactive dashboard or report. You can refine the analysis with follow-up questions and bring in your team’s metric definitions and other business context.
-
-To get started, install Data from the plugin directory, then start a conversation with `@Data`. Connected sources may require setup or authorization, and queries use your connected account’s existing permissions.
-
-Workspace administrators can manage Data’s installation policy in Workspace settings > Plugins and enable the data-source plugins and apps the team needs. Administrators can review access by role or group. Data-source plugins and their apps may need separate setup. Members can start with `@Data` once Data is available in their workspace. Connected-account permissions and workspace access controls apply.
-
-[View source(opens in a new window)](<https://help.openai.com/en/articles/6825453-chatgpt-release-notes#data-plugin-in-chatgpt-work-and-codex>)[Help center(opens in a new window)](<https://help.openai.com/en/articles/11391654-chatgpt-business-release-notes#data-plugin-in-chatgpt-work-and-codex>)[Help center(opens in a new window)](<https://help.openai.com/en/articles/10128477-chatgpt-enterprise-edu-release-notes#data-plugin-in-chatgpt-work-and-codex>)
-
-ChatGPT
-
-Sep 10, 2026
-
-GA
-
-## Box, Dropbox, and SharePoint are now in Library
-
-Box, Dropbox, and SharePoint now join Google Drive in ChatGPT Library. Once connected, you can browse and search available files and folders, then add the files you need to a conversation through Add from Library or @mentions—without uploading them again. You can review supported file previews beside the conversation and follow citations back to the source as you work.
-
-When you’re working with a file, you can now keep Box, Dropbox, and SharePoint files open beside the conversation while asking ChatGPT to summarize, analyze, compare, or create something new from them. You can also select a folder and ask ChatGPT to work across the files it contains. Your content stays connected to their original source, so it’s easy to return to the original.
-
-Availability
-
-Box, Dropbox, and SharePoint integrations are now rolling out to Go, Plus, Pro, Business, Edu, Healthcare and Enterprise users on the web in both Chat and Work. Existing file permissions and workspace controls apply. Mobile support will follow.
-
-Rolling out to Plus, Pro, Enterprise, Edu, Healthcare and Business users on the web in both the Chat and Work toggles. Mobile support will follow.
-
-[View source(opens in a new window)](<https://help.openai.com/en/articles/6825453-chatgpt-release-notes#box-dropbox-and-sharepoint-are-now-in-library>)
 
 Load more
 

@@ -52,6 +52,10 @@ Switch cards to hide Media
 
 [Supporting the blind community with ChatGPTSep 9, 2026](</index/two-blind-brothers/>)
 
+![Ryan Honary carries a solar-powered wildfire sensor through dry hills.](https://images.ctfassets.net/kftzwdyauwt9/4K8fZrgGrDLGPDyjncSEwx/6a70cd3a70d87b9d838467002de76f3e/phoenix-art-card-1x1-retouched-hires.png?w=3840&q=90&fm=webp)
+
+[Using ChatGPT to detect wildfires earlySep 14, 2026](</index/detecting-wildfires-early/>)
+
 ![Dr. César de la Fuente in profile against a colorful lab display.](https://images.ctfassets.net/kftzwdyauwt9/7gq9TtEoObNfTco2uH48q8/3b7813b2b5c5bce4a22a45a7220ac3f7/antibiotic-hero-1x1-preview.png?w=3840&q=90&fm=webp)
 
 [Accelerating antibiotic discovery with ChatGPTSep 9, 2026](</index/accelerating-antibiotic-discovery/>)
@@ -63,6 +67,10 @@ Switch cards to hide Media
 ![Bradford and Bryan Manning use their phones while standing in a city park.](https://images.ctfassets.net/kftzwdyauwt9/7bhGkj1QoCeQpqYhTldQLx/b84d760a2f127d930cc2dec9f3d59e17/tbb-retouched-art-card-1260x1260.png?w=3840&q=90&fm=webp)
 
 [Supporting the blind community with ChatGPTSep 9, 2026](</index/two-blind-brothers/>)
+
+![Ryan Honary carries a solar-powered wildfire sensor through dry hills.](https://images.ctfassets.net/kftzwdyauwt9/4K8fZrgGrDLGPDyjncSEwx/6a70cd3a70d87b9d838467002de76f3e/phoenix-art-card-1x1-retouched-hires.png?w=3840&q=90&fm=webp)
+
+[Using ChatGPT to detect wildfires earlySep 14, 2026](</index/detecting-wildfires-early/>)
 
 ![Dr. César de la Fuente in profile against a colorful lab display.](https://images.ctfassets.net/kftzwdyauwt9/7gq9TtEoObNfTco2uH48q8/3b7813b2b5c5bce4a22a45a7220ac3f7/antibiotic-hero-1x1-preview.png?w=3840&q=90&fm=webp)
 

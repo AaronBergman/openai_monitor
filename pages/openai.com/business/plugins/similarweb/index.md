@@ -32,19 +32,9 @@ Web, app, search & market data
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_695cdd7e863c819192b88beffc2033b6>)[Contact sales](</contact-sales/>)
 
-@Similarweb Analyze traffic trends for example.com versus its top competitors over the last six months.
+[![](https://files.openai.com/content?id=file_00000000faa071f68918f7da866d93a4&cdn=1&cp=pi&ma=30326400&ts=0&p=pi&cid=8&sig=4f07077e38872beff8ca7d05cc0692679dc04014200779e4cbce84f6604320cd&v=0)![](https://files.openai.com/content?id=file_00000000faa071f68918f7da866d93a4&cdn=1&cp=pi&ma=30326400&ts=0&p=pi&cid=8&sig=4f07077e38872beff8ca7d05cc0692679dc04014200779e4cbce84f6604320cd&v=0)Similarweb Analyze traffic trends for example.com versus its top competitors over the last six months.(opens in a new window)](<https://chatgpt.com/?prompt=%40Similarweb+Analyze+traffic+trends+for+example.com+versus+its+top+competitors+over+the+last+six+months.>)[![](https://files.openai.com/content?id=file_00000000faa071f68918f7da866d93a4&cdn=1&cp=pi&ma=30326400&ts=0&p=pi&cid=8&sig=4f07077e38872beff8ca7d05cc0692679dc04014200779e4cbce84f6604320cd&v=0)![](https://files.openai.com/content?id=file_00000000faa071f68918f7da866d93a4&cdn=1&cp=pi&ma=30326400&ts=0&p=pi&cid=8&sig=4f07077e38872beff8ca7d05cc0692679dc04014200779e4cbce84f6604320cd&v=0)Similarweb Find the top acquisition channels and referring sites for example.com and summarize growth opportunities.(opens in a new window)](<https://chatgpt.com/?prompt=%40Similarweb+Find+the+top+acquisition+channels+and+referring+sites+for+example.com+and+summarize+growth+opportunities.>)[![](https://files.openai.com/content?id=file_00000000faa071f68918f7da866d93a4&cdn=1&cp=pi&ma=30326400&ts=0&p=pi&cid=8&sig=4f07077e38872beff8ca7d05cc0692679dc04014200779e4cbce84f6604320cd&v=0)![](https://files.openai.com/content?id=file_00000000faa071f68918f7da866d93a4&cdn=1&cp=pi&ma=30326400&ts=0&p=pi&cid=8&sig=4f07077e38872beff8ca7d05cc0692679dc04014200779e4cbce84f6604320cd&v=0)Similarweb Compare audience geography and search keywords for example.com and a competitor.(opens in a new window)](<https://chatgpt.com/?prompt=%40Similarweb+Compare+audience+geography+and+search+keywords+for+example.com+and+a+competitor.>)
 
-![@Similarweb Analyze traffic trends for example.com versus its top competitors over the last six months.](https://files.openai.com/content?id=file_000000000414720692c47c366c6d2b18&cdn=1&cp=pi&ma=30931200&ts=0&p=pi&cid=7&sig=f565f9f7dd637d51c132998f6f6f2a3d0babebe5cfdde460c16c7aa7b3acc49f&v=0)
-
-@Similarweb Find the top acquisition channels and referring sites for example.com and summarize growth opportunities.
-
-![@Similarweb Find the top acquisition channels and referring sites for example.com and summarize growth opportunities.](https://files.openai.com/content?id=file_00000000582c7243abc1fb13bbb91c37&cdn=1&cp=pi&ma=32227200&ts=0&p=pi&cid=7&sig=45478d1306cbf3af52d9b86b2cacae898c6980a89cbb78c18b08e54326be8fc8&v=0)
-
-@Similarweb Compare audience geography and search keywords for example.com and a competitor.
-
-![@Similarweb Compare audience geography and search keywords for example.com and a competitor.](https://files.openai.com/content?id=file_00000000fc0072089b7d339f33a2f400&cdn=1&cp=pi&ma=30240000&ts=0&p=pi&cid=7&sig=5c53069c59b6e843f109773d1385ebc061e1edf8d9045441f94d795a01277f1c&v=0)
-
-Use case: [Data & Research](</business/plugins/?tab=plugins-data-research>)
+Use case: [Data](</business/plugins/?tab=plugins-data-research>)
 
 Made by: Similarweb Inc
 

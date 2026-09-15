@@ -26,7 +26,7 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-August 13, 2026
+September 14, 2026
 
 Startup
 
@@ -137,6 +137,10 @@ For Hollingsworth, the stronger signal is retention. Many Fyxer customers are no
 Looking ahead, Fyxer is building a richer understanding of relationships, preferences, and ongoing work threads. Their assistant continues to evolve beyond drafting replies toward a broader AI assistant that can manage more of a user’s communication and coordination workload.
 
 “Our vision is to get our customers doing as much of the work they absolutely love,” Hollingsworth says. “We want to get them to a place where they never have to open their computer and can trust Fyxer to manage all of that.”
+
+## OpenAI <3 startups
+
+[Join the community](</leads/startup/>)[Start building(opens in a new window)](</startups>)
 
 ## Keep reading
 

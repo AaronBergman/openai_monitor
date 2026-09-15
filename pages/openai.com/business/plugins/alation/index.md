@@ -32,19 +32,9 @@ Governed Knowledge Layer
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a0f9ab98bf4819197de479522d5367b>)[Contact sales](</contact-sales/>)
 
-@Alation Verify if the data you are working with is fresh and certified
+[![](https://files.openai.com/content?id=file_000000002c9871f88886c70ee05182be&cdn=1&cp=pi&ma=30585600&ts=0&p=pi&cid=1&sig=d9f82aa7ff5946d7b3572fb9749746956a02925ce49b4f256a1d6bb1575ef7cb&v=0)![](https://files.openai.com/content?id=file_000000002c9871f88886c70ee05182be&cdn=1&cp=pi&ma=30585600&ts=0&p=pi&cid=1&sig=d9f82aa7ff5946d7b3572fb9749746956a02925ce49b4f256a1d6bb1575ef7cb&v=0)Alation Verify if the data you are working with is fresh and certified(opens in a new window)](<https://chatgpt.com/?prompt=%40Alation+Verify+if+the+data+you+are+working+with+is+fresh+and+certified>)[![](https://files.openai.com/content?id=file_000000002c9871f88886c70ee05182be&cdn=1&cp=pi&ma=30585600&ts=0&p=pi&cid=1&sig=d9f82aa7ff5946d7b3572fb9749746956a02925ce49b4f256a1d6bb1575ef7cb&v=0)![](https://files.openai.com/content?id=file_000000002c9871f88886c70ee05182be&cdn=1&cp=pi&ma=30585600&ts=0&p=pi&cid=1&sig=d9f82aa7ff5946d7b3572fb9749746956a02925ce49b4f256a1d6bb1575ef7cb&v=0)Alation Verify data using widgets rendered from Alation primitives(opens in a new window)](<https://chatgpt.com/?prompt=%40Alation+Verify+data+using+widgets+rendered+from+Alation+primitives>)[![](https://files.openai.com/content?id=file_000000002c9871f88886c70ee05182be&cdn=1&cp=pi&ma=30585600&ts=0&p=pi&cid=1&sig=d9f82aa7ff5946d7b3572fb9749746956a02925ce49b4f256a1d6bb1575ef7cb&v=0)![](https://files.openai.com/content?id=file_000000002c9871f88886c70ee05182be&cdn=1&cp=pi&ma=30585600&ts=0&p=pi&cid=1&sig=d9f82aa7ff5946d7b3572fb9749746956a02925ce49b4f256a1d6bb1575ef7cb&v=0)Alation Securely run queries on your database without leaving the app(opens in a new window)](<https://chatgpt.com/?prompt=%40Alation+Securely+run+queries+on+your+database+without+leaving+the+app>)
 
-![@Alation Verify if the data you are working with is fresh and certified](https://files.openai.com/content?id=file_000000009aec71f7986bedc094f0f13a&cdn=1&cp=pi&ma=31795200&ts=0&p=pi&cid=1&sig=f520e86635ddcafb0cb54d3da33e3a223d04d349a84cb0cc6b67096d1df49edf&v=0)
-
-@Alation Verify data using widgets rendered from Alation primitives
-
-![@Alation Verify data using widgets rendered from Alation primitives](https://files.openai.com/content?id=file_00000000caec71f7be218b4b6c2d7719&cdn=1&cp=pi&ma=30672000&ts=0&p=pi&cid=1&sig=b0a417816182c745eb4f5bd8dbbe37c92d7296cb9d46b097cce48cb6aad602b1&v=0)
-
-@Alation Securely run queries on your database without leaving the app
-
-![@Alation Securely run queries on your database without leaving the app](https://files.openai.com/content?id=file_0000000016bc71f7a6d167a62b6163c0&cdn=1&cp=pi&ma=32227200&ts=0&p=pi&cid=1&sig=78b4cf09c36a786d8adccad6fa45a7f24c4e8a1b4ad075da94bbb10788d7d5af&v=0)
-
-Use case: [Data & Research](</business/plugins/?tab=plugins-data-research>)
+Use case: [Data](</business/plugins/?tab=plugins-data-research>)
 
 Made by: http://alation.com/
 

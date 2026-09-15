@@ -32,19 +32,9 @@ Query and analyze Mixpanel
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69b2e9aed45c8191b254b207dfcc2bb4>)[Contact sales](</contact-sales/>)
 
-@Mixpanel how many sign ups did we have in Feb?
+[![](https://files.openai.com/content?id=file_000000005b3871f6b95972994a48b4df&cdn=1&cp=pi&ma=32140800&ts=0&p=pi&cid=7&sig=6951ee8bd27a31bc3ffd73cd770da5a85c2109314f7f8a6c9ceaef0e3e889a8c&v=0)![](https://files.openai.com/content?id=file_00000000757071fda31fdc61ead4b1de&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=1&sig=6de478713f87a23958fc06e392cd5e8d77b097e68bbc59a4db72fabbb40b62bd&v=0)Mixpanel how many sign ups did we have in Feb?(opens in a new window)](<https://chatgpt.com/?prompt=%40Mixpanel+how+many+sign+ups+did+we+have+in+Feb%3F>)[![](https://files.openai.com/content?id=file_000000005b3871f6b95972994a48b4df&cdn=1&cp=pi&ma=32140800&ts=0&p=pi&cid=7&sig=6951ee8bd27a31bc3ffd73cd770da5a85c2109314f7f8a6c9ceaef0e3e889a8c&v=0)![](https://files.openai.com/content?id=file_00000000757071fda31fdc61ead4b1de&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=1&sig=6de478713f87a23958fc06e392cd5e8d77b097e68bbc59a4db72fabbb40b62bd&v=0)Mixpanel add descriptions to any events that don't have one(opens in a new window)](<https://chatgpt.com/?prompt=%40Mixpanel+add+descriptions+to+any+events+that+don%27t+have+one>)[![](https://files.openai.com/content?id=file_000000005b3871f6b95972994a48b4df&cdn=1&cp=pi&ma=32140800&ts=0&p=pi&cid=7&sig=6951ee8bd27a31bc3ffd73cd770da5a85c2109314f7f8a6c9ceaef0e3e889a8c&v=0)![](https://files.openai.com/content?id=file_00000000757071fda31fdc61ead4b1de&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=1&sig=6de478713f87a23958fc06e392cd5e8d77b097e68bbc59a4db72fabbb40b62bd&v=0)Mixpanel create a dashboard for purchase metrics(opens in a new window)](<https://chatgpt.com/?prompt=%40Mixpanel+create+a+dashboard+for+purchase+metrics>)
 
-![@Mixpanel how many sign ups did we have in Feb?](https://files.openai.com/content?id=file_000000008a7c71f7994dbbe709c12304&cdn=1&cp=pi&ma=31968000&ts=0&p=pi&cid=7&sig=d8d4f7de84009b1f9e32df3ff835d0b92ebbb30c1f584490371bc27370441278&v=0)
-
-@Mixpanel add descriptions to any events that don't have one
-
-![@Mixpanel add descriptions to any events that don't have one](https://files.openai.com/content?id=file_00000000dcc871f7b3068701f7969870&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=7&sig=c4cd181b7cd4058c85f840572f2de9831235b97ff47da6c1cd1612877e8d2f84&v=0)
-
-@Mixpanel create a dashboard for purchase metrics
-
-![@Mixpanel create a dashboard for purchase metrics](https://files.openai.com/content?id=file_000000003a6071f7b314272e09fc8b30&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=7&sig=a416c074ccf98fd85d3acef17e6dc34b4fd17f19cd377d13d9e4e829e02be3a4&v=0)
-
-Use case: [Data & Research](</business/plugins/?tab=plugins-data-research>)
+Use case: [Data](</business/plugins/?tab=plugins-data-research>)
 
 Made by: Mixpanel
 

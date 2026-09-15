@@ -32,7 +32,7 @@ Work with dbt projects
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_templated_apps_6a710de0c6b08191a298927933709e4e>)[Contact sales](</contact-sales/>)
 
-Use case: [Engineering & IT](</business/plugins/?tab=plugins-engineering-it>) and [Data & Research](</business/plugins/?tab=plugins-data-research>)
+Use case: [Engineering & IT](</business/plugins/?tab=plugins-engineering-it>) and [Data](</business/plugins/?tab=plugins-data-research>)
 
 Made by: dbt Labs, Inc.
 
