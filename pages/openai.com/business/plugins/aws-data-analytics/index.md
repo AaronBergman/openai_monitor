@@ -32,7 +32,7 @@ AWS Data Analytics Plugin
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a917708c64481918f7ddea0cef4b8e6>)[Contact sales](</contact-sales/>)
 
-Use case: [Data & Research](</business/plugins/?tab=plugins-data-research>)
+Use case: [Data](</business/plugins/?tab=plugins-data-research>)
 
 Made by: Amazon Web Services
 

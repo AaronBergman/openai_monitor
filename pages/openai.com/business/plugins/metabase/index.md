@@ -32,9 +32,9 @@ Query and explore your Metabase data
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/Plugin_b823126599908191973c3f6b7592b1c5>)[Contact sales](</contact-sales/>)
 
-[@Metabase Use Metabase to find tables related to <topic>.(opens in a new window)](<https://chatgpt.com/?prompt=%40Metabase+Use+Metabase+to+find+tables+related+to+%3Ctopic%3E.>)[@Metabase Use Metabase to query <table> and summarize <metric> by <dimension>.(opens in a new window)](<https://chatgpt.com/?prompt=%40Metabase+Use+Metabase+to+query+%3Ctable%3E+and+summarize+%3Cmetric%3E+by+%3Cdimension%3E.>)
+[![](https://files.openai.com/content?id=file_0000000059fc722f971e299766273267&cdn=1&cp=pi&ma=31795200&ts=0&p=pi&cid=1&sig=c2f626a4b43d972d019fe35011d284b1e334a431ff00c01b4e8b6e8f312c7726&v=0)![](https://files.openai.com/content?id=file_0000000059fc722f971e299766273267&cdn=1&cp=pi&ma=31795200&ts=0&p=pi&cid=1&sig=c2f626a4b43d972d019fe35011d284b1e334a431ff00c01b4e8b6e8f312c7726&v=0)Metabase Use Metabase to find tables related to <topic>.(opens in a new window)](<https://chatgpt.com/?prompt=%40Metabase+Use+Metabase+to+find+tables+related+to+%3Ctopic%3E.>)[![](https://files.openai.com/content?id=file_0000000059fc722f971e299766273267&cdn=1&cp=pi&ma=31795200&ts=0&p=pi&cid=1&sig=c2f626a4b43d972d019fe35011d284b1e334a431ff00c01b4e8b6e8f312c7726&v=0)![](https://files.openai.com/content?id=file_0000000059fc722f971e299766273267&cdn=1&cp=pi&ma=31795200&ts=0&p=pi&cid=1&sig=c2f626a4b43d972d019fe35011d284b1e334a431ff00c01b4e8b6e8f312c7726&v=0)Metabase Use Metabase to query <table> and summarize <metric> by <dimension>.(opens in a new window)](<https://chatgpt.com/?prompt=%40Metabase+Use+Metabase+to+query+%3Ctable%3E+and+summarize+%3Cmetric%3E+by+%3Cdimension%3E.>)
 
-Use case: [Data & Research](</business/plugins/?tab=plugins-data-research>)
+Use case: [Data](</business/plugins/?tab=plugins-data-research>)
 
 Made by: Metabase
 

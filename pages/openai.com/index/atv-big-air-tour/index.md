@@ -144,17 +144,17 @@ More than 1 million businesses around the world are achieving meaningful results
 
 ## Keep reading
 
+![Fyxer customer story 1x1 image](https://images.ctfassets.net/kftzwdyauwt9/7LbXXCnX1NLyS1i8mHGF1i/d75fdf2bf63cf463ce2e72915a783757/oai_Fyxer_1x1.png?w=3840&q=90&fm=webp)
+
+[How Fyxer built an AI executive assistant people trustStartupSep 14, 2026](</index/fyxer/>)
+
+![deployco seo image](https://images.ctfassets.net/kftzwdyauwt9/6pnntrVmfPSqsFYG5YlAvy/c69de8f9d518accd55c417898a20322e/og-seo.png?w=3840&q=90&fm=webp)
+
+[Monitoring trade-off impacts when building AI productsSep 14, 2026](</deployco/news/monitoring-trade-off-impacts-when-building-ai-products/>)
+
 ![Perplexity customer story art card](https://images.ctfassets.net/kftzwdyauwt9/wGvW7AaxivnlRvLvZU7CE/146fd791b18b52b67dbb0a3692357a72/square.png?w=3840&q=90&fm=webp)
 
 [Perplexity trusts GPT-6 Astra with end-to-end systemsSep 14, 2026](</index/perplexity-improving-accuracy-with-astra/>)
-
-![Scaling Storage for 1 Billion ChatGPT Users \(Part I\) card image](https://images.ctfassets.net/kftzwdyauwt9/2X23NOb0P4V1KDzUBkeNpl/888204b45a1c84ddfa24c9ed31111a9c/OAI_HabitatPT1_Art_Card_1x1.png?w=3840&q=90&fm=webp)
-
-[Rapidly scaling online storage to serve over 1 billion ChatGPT usersEngineeringSep 11, 2026](</index/scaling-storage-one-billion-users-part-one/>)
-
-![Cognition customer story art card](https://images.ctfassets.net/kftzwdyauwt9/6WY3rQtuqVbg3bPdMknIhE/3421ffc90ec044e3e4f27570b311813d/cognition-art-card-option-b.png?w=3840&q=90&fm=webp)
-
-[Cognition helps Devin test its own work with GPT‑6 AstraSep 11, 2026](</index/cognition-devin-testing-with-astra/>)
 
 Research
 

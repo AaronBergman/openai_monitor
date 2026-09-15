@@ -32,9 +32,9 @@ Real Buyer Behavior from G2
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6998622475e081918795d4f4c5e42df4>)[Contact sales](</contact-sales/>)
 
-[G2 MCP Create a Research Board for Slack(opens in a new window)](<https://chatgpt.com/?prompt=%40G2+MCP+Create+a+Research+Board+for+Slack>)
+[![](https://files.openai.com/content?id=file_00000000ade4720cbd31a99700103408&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=1&sig=9dac53f30fdff3bac46b98eab1ceb71b871c0d603fc3dbe4e4565367fd640b7f&v=0)![](https://files.openai.com/content?id=file_000000000eb481f7861627a90fe32ef2&cdn=1&cp=pi&ma=31881600&ts=0&p=pi&cid=8&sig=4a8ce5b240fce3dce9b92f4751e8b788a83d03f4c909f7408630b6a18213a395&v=0)G2 MCP Create a Research Board for Slack(opens in a new window)](<https://chatgpt.com/?prompt=%40G2+MCP+Create+a+Research+Board+for+Slack>)
 
-Use case: [Operations](</business/plugins/?tab=plugins-operations>) and [Data & Research](</business/plugins/?tab=plugins-data-research>)
+Use case: [Operations](</business/plugins/?tab=plugins-operations>) and [Data](</business/plugins/?tab=plugins-data-research>)
 
 Made by: G2
 

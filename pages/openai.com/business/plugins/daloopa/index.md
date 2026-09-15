@@ -32,7 +32,7 @@ Access financial KPIs with source links.
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_692f6343042c8191b6617e8352444692>)[Contact sales](</contact-sales/>)
 
-Use case: [Finance](</business/plugins/?tab=plugins-finance>) and [Data & Research](</business/plugins/?tab=plugins-data-research>)
+Use case: [Finance](</business/plugins/?tab=plugins-finance>) and [Data](</business/plugins/?tab=plugins-data-research>)
 
 Made by: Daloopa, Inc.
 

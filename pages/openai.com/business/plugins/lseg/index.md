@@ -32,19 +32,9 @@ Access LSEG financial data for pricing and market analysis.
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_698aec3092e48191a4484b43a3fc79b8>)[Contact sales](</contact-sales/>)
 
-@LSEG Get the spot price for the top 10 cross currencies traded on forex exchange
+[![](https://files.openai.com/content?id=file_00000000838c71f689139639dc435b8e&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=8&sig=ded0420cc73fb5c48598cd93c52b4a70df4b0f8445c20c8d1c8c2ecc49f77954&v=0)![](https://files.openai.com/content?id=file_00000000838c71f689139639dc435b8e&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=8&sig=ded0420cc73fb5c48598cd93c52b4a70df4b0f8445c20c8d1c8c2ecc49f77954&v=0)LSEG Get the spot price for the top 10 cross currencies traded on forex exchange(opens in a new window)](<https://chatgpt.com/?prompt=%40LSEG+Get+the+spot+price+for+the+top+10+cross+currencies+traded+on+forex+exchange>)[![](https://files.openai.com/content?id=file_00000000838c71f689139639dc435b8e&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=8&sig=ded0420cc73fb5c48598cd93c52b4a70df4b0f8445c20c8d1c8c2ecc49f77954&v=0)![](https://files.openai.com/content?id=file_00000000838c71f689139639dc435b8e&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=8&sig=ded0420cc73fb5c48598cd93c52b4a70df4b0f8445c20c8d1c8c2ecc49f77954&v=0)LSEG Get the IBES estimates for VOD.L, BT.L for the next 2 years(opens in a new window)](<https://chatgpt.com/?prompt=%40LSEG+Get+the+IBES+estimates+for+VOD.L%2C+BT.L+for+the+next+2+years>)[![](https://files.openai.com/content?id=file_00000000838c71f689139639dc435b8e&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=8&sig=ded0420cc73fb5c48598cd93c52b4a70df4b0f8445c20c8d1c8c2ecc49f77954&v=0)![](https://files.openai.com/content?id=file_00000000838c71f689139639dc435b8e&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=8&sig=ded0420cc73fb5c48598cd93c52b4a70df4b0f8445c20c8d1c8c2ecc49f77954&v=0)LSEG Get daily price summaries for JPMorgan stock for last month(opens in a new window)](<https://chatgpt.com/?prompt=%40LSEG+Get+daily+price+summaries+for+JPMorgan+stock+for+last+month>)
 
-![@LSEG Get the spot price for the top 10 cross currencies traded on forex exchange](https://files.openai.com/content?id=file_00000000a76c7207846e965bb9afd8e7&cdn=1&cp=pi&ma=32140800&ts=0&p=pi&cid=8&sig=e830811122bea31fd5749e8e798c5637aa9231371d8da0866f390e1e1eb9c6b0&v=0)
-
-@LSEG Get the IBES estimates for VOD.L, BT.L for the next 2 years
-
-![@LSEG Get the IBES estimates for VOD.L, BT.L for the next 2 years](https://files.openai.com/content?id=file_0000000090bc7246a0fba474e56c712c&cdn=1&cp=pi&ma=32227200&ts=0&p=pi&cid=8&sig=69ec3b65da482b2d7c68d81da0ec8e2dbf2f4d583a248a259bcd5af97881cde2&v=0)
-
-@LSEG Get daily price summaries for JPMorgan stock for last month
-
-![@LSEG Get daily price summaries for JPMorgan stock for last month](https://files.openai.com/content?id=file_00000000c7887208a3ae8ad02bcb1515&cdn=1&cp=pi&ma=31190400&ts=0&p=pi&cid=8&sig=50c125e6cdc7c63dc1ac5710b6bd9bde2b81d73f0a7e456a050fcdc47c368bf3&v=0)
-
-Use case: [Finance](</business/plugins/?tab=plugins-finance>) and [Data & Research](</business/plugins/?tab=plugins-data-research>)
+Use case: [Finance](</business/plugins/?tab=plugins-finance>) and [Data](</business/plugins/?tab=plugins-data-research>)
 
 Made by: LSEG Engineering
 
