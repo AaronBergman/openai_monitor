@@ -26,6 +26,8 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 OpenAI[View all plugins](</business/plugins/>)
 
+![](https://files.openai.com/content?id=file_00000000a7a881f79bd3e0bdaf6f44d8&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=3681847b083c03ec3f94453b15bea76630d8877224f486882867c1affcde9821&v=0)![](https://files.openai.com/content?id=file_00000000a7a881f79bd3e0bdaf6f44d8&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=3681847b083c03ec3f94453b15bea76630d8877224f486882867c1affcde9821&v=0)
+
 # DBT
 
 Work with dbt projects

@@ -26,13 +26,15 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 OpenAI[View all plugins](</business/plugins/>)
 
+![](https://files.openai.com/content?id=file_0000000021547230b7f5dfd4accb4de5&cdn=1&cp=pi&ma=31190400&ts=0&p=pi&cid=1&sig=dea02d9468c390a41124840b9b7cd6f54576f35b34b1ffe98d4ae90668efa963&v=0)![](https://files.openai.com/content?id=file_0000000021547230b7f5dfd4accb4de5&cdn=1&cp=pi&ma=31190400&ts=0&p=pi&cid=1&sig=dea02d9468c390a41124840b9b7cd6f54576f35b34b1ffe98d4ae90668efa963&v=0)
+
 # Linear
 
 Find and reference issues and projects.
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69a089a326dc8191b32a3f2553f5be2c>)[Contact sales](</contact-sales/>)
 
-[@Linear Triage or update relevant issues for this task with clear next actions(opens in a new window)](<https://chatgpt.com/?prompt=%40Linear+Triage+or+update+relevant+issues+for+this+task+with+clear+next+actions>)
+[![](https://files.openai.com/content?id=file_00000000dd2471f5acf570db7e33cb9f&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=1&sig=8d5055624cac6210281eefc6dd8fe06a80b7732442bd79feb9753c79a8d97338&v=0)Linear Triage or update relevant issues for this task with clear next actions(opens in a new window)](<https://chatgpt.com/?prompt=%40Linear+Triage+or+update+relevant+issues+for+this+task+with+clear+next+actions>)
 
 Use case: [Productivity](</business/plugins/?tab=plugins-productivity>) and [Engineering & IT](</business/plugins/?tab=plugins-engineering-it>)
 

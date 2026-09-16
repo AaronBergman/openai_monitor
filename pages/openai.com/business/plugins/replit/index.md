@@ -26,6 +26,8 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 OpenAI[View all plugins](</business/plugins/>)
 
+![](https://files.openai.com/content?id=file_000000003fa871fda8d5ccf17301b94b&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=1&sig=9ca1fad9ac2a8cb87e51c40261c029650c95213921623423ec39d0368045739e&v=0)![](https://files.openai.com/content?id=file_00000000878c81f7853a443065429025&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=be838736241f0296ba05934933d4fdc86ab15ca0f2f4925ed4d6166102f82945&v=0)
+
 # Replit
 
 Turn your ideas into real apps.

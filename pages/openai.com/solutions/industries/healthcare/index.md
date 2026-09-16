@@ -46,8 +46,6 @@ Deploy AI across clinical, research, and administrative workflows with enterpris
 
 Bring authorized patient context from EHR workflows, trusted clinical evidence, official public healthcare data, and approved organizational knowledge into ChatGPT.
 
-![Notepad icon in light mode style, representing notes, documentation, or written records.](https://images.ctfassets.net/kftzwdyauwt9/7IgmDnbuHuJz05XBPn5wxe/91b2a50656ce836237f3fe80186fb231/notepad.svg?w=3840&q=90)
-
 #### Accelerate work across care and operations
 
 Prepare for visits, draft documentation, create reports, and improve software, helping teams spend more time focused on patients and the work that supports their care.

@@ -26,13 +26,15 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 OpenAI[View all plugins](</business/plugins/>)
 
+![](https://files.openai.com/content?id=file_00000000d6fc722fa4dff586b8c41dc8&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=5416dd5d8d03380fd52488cd02fd95ebce2b8d1bcf9d05c3f70ee75839beddb0&v=0)![](https://files.openai.com/content?id=file_00000000a1b481f78615b21eab674f16&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=8&sig=5bd792122c549f4f0e016786a2d081fde182c2c00d4259b41d4e8fbfcb3da605&v=0)
+
 # Alpaca
 
 Execute trades and access live market data using natural language.
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_691f721a77bc8191be115b65c85075c0>)[Contact sales](</contact-sales/>)
 
-[@Alpaca Use Alpaca to help with this task(opens in a new window)](<https://chatgpt.com/?prompt=%40Alpaca+Use+Alpaca+to+help+with+this+task>)
+[![](https://files.openai.com/content?id=file_000000002eac71f788feb5c9e6daa59e&cdn=1&cp=pi&ma=31881600&ts=0&p=pi&cid=1&sig=0176cded21c42d8a5ce0a3d29f9cda91e89be58c37f10932ea2dfaf02b645983&v=0)Alpaca Use Alpaca to help with this task(opens in a new window)](<https://chatgpt.com/?prompt=%40Alpaca+Use+Alpaca+to+help+with+this+task>)
 
 Use case: [Finance](</business/plugins/?tab=plugins-finance>)
 

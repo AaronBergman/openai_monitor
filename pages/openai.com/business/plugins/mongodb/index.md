@@ -26,6 +26,8 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 OpenAI[View all plugins](</business/plugins/>)
 
+![](https://files.openai.com/content?id=file_000000006128824382b4c3ad66a596e3&cdn=1&cp=pi&ma=30326400&ts=0&p=pi&cid=8&sig=50bd4935c54840b2d48e9475f13d1d5f0b871988437c32444a362dc2bd9ea30a&v=0)![](https://files.openai.com/content?id=file_000000004b048243ba04d6743eb002c5&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=dc1a9d37ffc984e3cc3abfd0db6c6e0d81e9e47abfd5a77b422b0d4fc1cfdacd&v=0)
+
 # MongoDB
 
 Connect to MongoDB Atlas

@@ -26,17 +26,15 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 OpenAI[View all plugins](</business/plugins/>)
 
+![](https://files.openai.com/content?id=file_0000000037f071f8b6068fe1e8868d5f&cdn=1&cp=pi&ma=31795200&ts=0&p=pi&cid=1&sig=4e88bd7c06260140dc50570e468eb3e1b37336a8e4c5d56c85c723ff53bfd31b&v=0)![](https://files.openai.com/content?id=file_0000000037f071f8b6068fe1e8868d5f&cdn=1&cp=pi&ma=31795200&ts=0&p=pi&cid=1&sig=4e88bd7c06260140dc50570e468eb3e1b37336a8e4c5d56c85c723ff53bfd31b&v=0)
+
 # Hugging Face
 
 Inspect models, datasets, Spaces, and research.
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6939e86417648191b7bda087d872685b>)[Contact sales](</contact-sales/>)
 
-@Hugging Face Generate a realistic farm using FLUX.1
-
-![@Hugging Face Generate a realistic farm using FLUX.1](https://files.openai.com/content?id=file_00000000463871f6a0e5773127c8bc2b&cdn=1&cp=pi&ma=31968000&ts=0&p=pi&cid=1&sig=bfd7cff11076625abf062775095e00a2cad17b4eff05506a641e6df742baf8d4)
-
-![Hugging Face](https://files.openai.com/content?id=file_000000002f1871f6b787d3b13c9e870d&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=1&sig=590b91ea80a48fa7a66a19e308389e161b795f7e849001f741e8bb0c859c5f19)
+[![](https://files.openai.com/content?id=file_00000000390071f5999f6ff280280bb2&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=1&sig=23ea5ce3fba873e6dceee772ffa0d271901552b5863dbd888f9b75f04db06500&v=0)Hugging Face Generate a realistic farm using FLUX.1(opens in a new window)](<https://chatgpt.com/?prompt=%40Hugging+Face+Generate+a+realistic+farm+using+FLUX.1>)
 
 Use case: [Engineering & IT](</business/plugins/?tab=plugins-engineering-it>)
 

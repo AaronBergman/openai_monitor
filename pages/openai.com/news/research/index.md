@@ -52,6 +52,24 @@ Switch cards to show Media
 
 Switch cards to hide Media
 
+![GPT-Live-1 API | Green-blue cover | Option 038](https://images.ctfassets.net/kftzwdyauwt9/1uBabEULLfw3Vb2Gldmyyq/c19c1c121ca403ee8b2703cba18ef82d/introducing-gpt-live-1-green-cover.png?w=3840&q=90&fm=webp)
+
+[Build more natural voice experiences with GPT‑Live‑1 in the APIProductSep 10, 2026](</index/introducing-gpt-live-1-in-the-api/>)
+
+![Navier–Stokes solution — art card](https://images.ctfassets.net/kftzwdyauwt9/2VUQZfeF2GtKRitKYdkoLu/cc96d05424afb2c9adcca0734ecdafb1/navier-stokes-art-card.png?w=3840&q=90&fm=webp)
+
+[An OpenAI model proposes a solution to the Navier–Stokes problemResearchSep 8, 2026](</index/navier-stokes-solution/>)
+
+![Research acceleration: The view inside OpenAI > Cover image](https://images.ctfassets.net/kftzwdyauwt9/5kS3OG1Jfdja5xLmYcRwgr/f53b9dfe985df5969aff5dc41f2d1934/Art_Card__7_.png?w=3840&q=90&fm=webp)
+
+[Research acceleration: The view inside OpenAIResearchSep 6, 2026](</index/research-acceleration-view-inside-openai/>)
+
+[GPT-6 Astra: A new generation of intelligenceResearchSep 3, 2026](</index/gpt-6-astra/>)
+
+![GPT-6 Astra System Card](https://images.ctfassets.net/kftzwdyauwt9/4EPFfixCR8upYpL3fOmjMo/2f995b1b7e03a6938bf5b654fb1df507/System_Card_1x1.png?w=3840&q=90&fm=webp)
+
+[GPT‑6 Astra System CardSafetySep 3, 2026(opens in a new window)](<https://deploymentsafety.openai.com/gpt-6-astra>)
+
 [The Hugging Face incident and the road aheadSecurityAug 26, 2026](</index/hugging-face-incident-and-the-road-ahead/>)
 
 ![Pacing model development in an era of cyber-critical capabilities — Card image](https://images.ctfassets.net/kftzwdyauwt9/3tUOfo4E1xZComoOiRjHJm/51c532f25dd4062f92bff0e41ea00c3c/index-pacing-model-development-cyber-capabilities-dark-cover.png?w=3840&q=90&fm=webp)
@@ -66,26 +84,6 @@ Switch cards to hide Media
 
 [How enabling two settings tripled our scores on the ARC-AGI-3 benchmarkResearchJul 29, 2026](</index/how-two-settings-tripled-our-arc-agi-3-scores/>)
 
-![oai Science Academic Research Academic Research 1x1](https://images.ctfassets.net/kftzwdyauwt9/59kTmFmujYzNh0VgSvCgwe/e9334dd9944b5309f8ca2d44fdc71b6f/academic-research-card.png?w=3840&q=90&fm=webp)
-
-[Accelerating scientific discovery with ChatGPT for Academic ResearchersCompanyJul 29, 2026](</index/chatgpt-for-academic-researchers/>)
-
-![Scientific computing agentic AI card image \(1x1\)](https://images.ctfassets.net/kftzwdyauwt9/5opqp3rNWM7eax6GUc6MAl/1c710a4aba8c5c1e0b7d1c1c7c8b32db/1x1__1_.png?w=3840&q=90&fm=webp)
-
-[Scientific computing in the age of agentic AIPublicationJul 28, 2026](</index/scientific-computing-agentic-ai/>)
-
-![GPT-Red art card](https://images.ctfassets.net/kftzwdyauwt9/6q32m87ClqE8Ovn6vD424h/05ced72e47bbe42711fbac6a082cbff2/Art_Card.png?w=3840&q=90&fm=webp)
-
-[GPT-Red: Unlocking Self-Improvement for RobustnessSafetyJul 15, 2026](</index/unlocking-self-improvement-gpt-red/>)
-
-![GPT 5-6 > Card](https://images.ctfassets.net/kftzwdyauwt9/1a9IPPV5nXWydTBosgmgYI/8e03f28ca04f26edc8bc81cdba387df1/5-6.jpg?w=3840&q=90&fm=webp)
-
-[GPT-5.6: Frontier intelligence that scales with your ambitionProductJul 9, 2026](</index/gpt-5-6/>)
-
-![""](https://images.ctfassets.net/kftzwdyauwt9/2ygRvL6yUYAvtHiZYmCT8K/91195cbe6f282c24026d154fe3ac422e/System_card_1_1.png?w=3840&q=90&fm=webp)
-
-[GPT‑5.6 System CardSafetyJul 9, 2026(opens in a new window)](<https://deploymentsafety.openai.com/gpt-5-6>)
-
 Load more
 
 Research
@@ -98,6 +96,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)

@@ -54,23 +54,17 @@ See FAQs for more details.
 
 Review upcoming payroll for anything unexpected, fix timesheets and payroll inputs, onboard new hires, and prepare the run. Review the totals and confirm before anything is submitted.
 
-![Diff plus/minus icon.](https://images.ctfassets.net/kftzwdyauwt9/1DNqZ9YYy9LggLtHlMz6ZZ/a6397fe8443e4caa72406fcade8bcffd/diff-plus-minus__square-plus-minus.svg?w=3840&q=90)
-
 #### Spot what needs your attention.
 
 Spot the surprises before payday
 
 Compare a pending payroll against recent runs and see what’s different, from unusual hours to someone missing or pay that doesn’t match their job record.
 
-![Clock time icon.](https://images.ctfassets.net/kftzwdyauwt9/jhZV3WFFxEfhkeeQJzQIy/8e8eb70d0ab3be0f5e9ee378626085ee/clock-time__clock-time-history.svg?w=3840&q=90)
-
 #### Go from questions to action.
 
 Get the timesheets sorted
 
 Find missing or incorrect hours and fix them before you run payroll, including across multiple locations.
-
-![Banknote icon.](https://images.ctfassets.net/kftzwdyauwt9/5xsQcin2uH1gb6eBSEIX24/e29ee7536e2e96c5009f0ef501d2fd16/banknote.svg?w=3840&q=90)
 
 #### Bring the work together.
 

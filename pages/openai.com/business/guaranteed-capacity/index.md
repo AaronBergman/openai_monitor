@@ -44,8 +44,6 @@ Customers can choose 1-3-year commitments, with discounts that increase based on
 
 ##  Stay ahead as AI evolves
 
-![Icon of a lock with a keyhole within](https://images.ctfassets.net/kftzwdyauwt9/2BAsncs2UrGE9IMfApPPSU/89a46551268ce52e8b494ea89004bcfa/lock.svg?w=3840&q=90)
-
 #### Guarantee access for critical workflows
 
 Secure access to shared capacity for production systems, customer-facing applications, and AI agents running on OpenAI.
@@ -74,6 +72,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)

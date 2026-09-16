@@ -26,13 +26,15 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 OpenAI[View all plugins](</business/plugins/>)
 
+![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)
+
 # Product Design
 
 Turn product ideas into designs and research artifacts.
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/Plugin_fa77aec24fc08191bc6e57f377126d76>)[Contact sales](</contact-sales/>)
 
-[@Product Design Help me get started(opens in a new window)](<https://chatgpt.com/?prompt=%40Product+Design+Help+me+get+started>)[@Product Design Turn this product idea into three visual directions(opens in a new window)](<https://chatgpt.com/?prompt=%40Product+Design+Turn+this+product+idea+into+three+visual+directions>)[@Product Design Design a landing page for my business(opens in a new window)](<https://chatgpt.com/?prompt=%40Product+Design+Design+a+landing+page+for+my+business>)
+[![](https://files.openai.com/content?id=file_00000000a358822fbf938dc0f1cfe989&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=b02414fe449e927f3ec07e9366972921c4cfb1497cfccea32e86ecb29ef4e0f3&v=0)Product Design Help me get started(opens in a new window)](<https://chatgpt.com/?prompt=%40Product+Design+Help+me+get+started>)[![](https://files.openai.com/content?id=file_00000000a358822fbf938dc0f1cfe989&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=b02414fe449e927f3ec07e9366972921c4cfb1497cfccea32e86ecb29ef4e0f3&v=0)Product Design Turn this product idea into three visual directions(opens in a new window)](<https://chatgpt.com/?prompt=%40Product+Design+Turn+this+product+idea+into+three+visual+directions>)[![](https://files.openai.com/content?id=file_00000000a358822fbf938dc0f1cfe989&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=b02414fe449e927f3ec07e9366972921c4cfb1497cfccea32e86ecb29ef4e0f3&v=0)Product Design Design a landing page for my business(opens in a new window)](<https://chatgpt.com/?prompt=%40Product+Design+Design+a+landing+page+for+my+business>)
 
 Use case: [Design & Creative](</business/plugins/?tab=plugins-design-creative>)
 

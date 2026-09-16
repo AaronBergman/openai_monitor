@@ -34,19 +34,13 @@ Introducing a free, AI-first, LaTeX editor and scientific workspace that integra
 
 ### Built to accelerate everyday scientific work
 
-![icon depicting a group of people](https://images.ctfassets.net/kftzwdyauwt9/xD2EZQ0FO9uu8rJvIzmUF/3b4b4c416dfd07aa19462dc1f8254fb7/group.svg?w=3840&q=90)
-
 #### A free, unified LaTeX workspace with unlimited collaborators
 
 Draft, compile, and collaborate all in one place.
 
-![icon depicting quotation marks](https://images.ctfassets.net/kftzwdyauwt9/2u9I2BPHrLzKWJO9Wjf1b0/52f969ee3052d87485244a91a5c0444d/quotes-filled.svg?w=3840&q=90)
-
 #### AI-assisted proofreading, citations, and literature search
 
 Project-aware tools built into the writing workflow.
-
-![icon depicting a pencil](https://images.ctfassets.net/kftzwdyauwt9/M2di9IUWWErifeoHjiX8U/c27d7be11b9c4ad80b25341ce7249cf5/edit-sparkle.svg?w=3840&q=90)
 
 #### AI-driven automation for formatting and editing
 
@@ -103,6 +97,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)

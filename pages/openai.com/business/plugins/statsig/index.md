@@ -26,13 +26,15 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 OpenAI[View all plugins](</business/plugins/>)
 
+![](https://files.openai.com/content?id=file_000000007ee471f68631b7c4fb2ffa0a&cdn=1&cp=pi&ma=31536000&ts=0&p=pi&cid=7&sig=f39323d7fba4dba005497862549d9ff3191e0c24bc6700a2237bf3762d766f18&v=0)![](https://files.openai.com/content?id=file_00000000e2d871f68e451c2bb9f42a42&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=7&sig=3ba6e3e1b43a390e59ea926e37c54ea9438a2986c3edb670677ee8d4b26bfd24&v=0)
+
 # Statsig
 
 Connect to Statsig
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6967f065ac9481918969c660ff7686e9>)[Contact sales](</contact-sales/>)
 
-[![](https://files.openai.com/content?id=file_000000007ee471f68631b7c4fb2ffa0a&cdn=1&cp=pi&ma=31536000&ts=0&p=pi&cid=7&sig=f39323d7fba4dba005497862549d9ff3191e0c24bc6700a2237bf3762d766f18&v=0)![](https://files.openai.com/content?id=file_00000000e2d871f68e451c2bb9f42a42&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=7&sig=3ba6e3e1b43a390e59ea926e37c54ea9438a2986c3edb670677ee8d4b26bfd24&v=0)Statsig Analyze results of Statsig experiment shorter_blog_titles(opens in a new window)](<https://chatgpt.com/?prompt=%40Statsig+Analyze+results+of+Statsig+experiment+shorter_blog_titles>)
+[![](https://files.openai.com/content?id=file_000000005f5871f58e068d2bb520507f&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=1&sig=15b18a8514ce4e16e8c8c57fa202c2e844a0b8982c1e74d6fd8b26d329338fd4&v=0)Statsig Analyze results of Statsig experiment shorter_blog_titles(opens in a new window)](<https://chatgpt.com/?prompt=%40Statsig+Analyze+results+of+Statsig+experiment+shorter_blog_titles>)
 
 Use case: [Engineering & IT](</business/plugins/?tab=plugins-engineering-it>) and [Data](</business/plugins/?tab=plugins-data-research>)
 

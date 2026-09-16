@@ -46,6 +46,18 @@ Switch cards to show Media
 
 Switch cards to hide Media
 
+Product
+
+Sep 10, 2026
+
+[Build more natural voice experiences with GPT‑Live‑1 in the APIGPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.](</index/introducing-gpt-live-1-in-the-api/>)
+
+Research
+
+Sep 3, 2026
+
+[GPT-6 Astra: A new generation of intelligenceIntroducing GPT-6 Astra, our most intelligent and aligned model yet, with state-of-the-art capabilities across computer use, coding, cybersecurity, and science.](</index/gpt-6-astra/>)
+
 Company
 
 Jul 29, 2026
@@ -88,18 +100,6 @@ May 29, 2026
 
 [Strengthening societal resilience with Rosalind BiodefenseOpenAI launches Rosalind Biodefense, expanding trusted access to GPT-Rosalind for vetted developers and U.S. government partners advancing biodefense, public health, and pandemic preparedness through frontier AI.](</index/strengthening-societal-resilience-with-rosalind-biodefense/>)
 
-Product
-
-May 7, 2026
-
-[Advancing voice intelligence with new models in the APIExplore new realtime voice models in the OpenAI API that can reason, translate, and transcribe speech, enabling more natural and intelligent voice experiences.](</index/advancing-voice-intelligence-with-new-models-in-the-api/>)
-
-Product
-
-May 5, 2026
-
-[GPT-5.5 Instant: smarter, clearer, and more personalizedGPT-5.5 Instant updates ChatGPT’s default model with smarter, more accurate answers, reduced hallucinations, and improved personalization controls.](</index/gpt-5-5-instant/>)
-
 Load more
 
 Research
@@ -112,6 +112,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)

@@ -26,13 +26,15 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 OpenAI[View all plugins](</business/plugins/>)
 
+![](https://files.openai.com/content?id=file_00000000c52471f596902ad67edbbd95&cdn=1&cp=pi&ma=32227200&ts=0&p=pi&cid=1&sig=6a8f9ca3177a7d64b691a54e130a3d8b383f79e5821e9dd1c820aa10215c9370&v=0)![](https://files.openai.com/content?id=file_00000000fca081f789836eda5a49d065&cdn=1&cp=pi&ma=30672000&ts=0&p=pi&cid=8&sig=f1d018e8ba09a4f99aca9f43f459ad1a80e1635ae7a031e25267d13dccaaa9df&v=0)
+
 # Intuit Mailchimp
 
 Create marketing campaigns.
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_693b20fccbac8191bdc178bb493de3e5>)[Contact sales](</contact-sales/>)
 
-[Intuit Mailchimp Create a 4 week campaign for my business.(opens in a new window)](<https://chatgpt.com/?prompt=%40Intuit+Mailchimp+Create+a+4+week+campaign+for+my+business.>)[Intuit Mailchimp Why did my last campaign underperform?(opens in a new window)](<https://chatgpt.com/?prompt=%40Intuit+Mailchimp+Why+did+my+last+campaign+underperform%3F>)
+[![](https://files.openai.com/content?id=file_000000006100822fba053a7663790f13&cdn=1&cp=pi&ma=30412800&ts=0&p=pi&cid=8&sig=972cdfdc85a259f56209337d719704a8fea6db0b3f1feba6c523001c2ecbb6a7&v=0)Intuit Mailchimp Create a 4 week campaign for my business.(opens in a new window)](<https://chatgpt.com/?prompt=%40Intuit+Mailchimp+Create+a+4+week+campaign+for+my+business.>)[![](https://files.openai.com/content?id=file_000000006100822fba053a7663790f13&cdn=1&cp=pi&ma=30412800&ts=0&p=pi&cid=8&sig=972cdfdc85a259f56209337d719704a8fea6db0b3f1feba6c523001c2ecbb6a7&v=0)Intuit Mailchimp Why did my last campaign underperform?(opens in a new window)](<https://chatgpt.com/?prompt=%40Intuit+Mailchimp+Why+did+my+last+campaign+underperform%3F>)
 
 Use case: [Operations](</business/plugins/?tab=plugins-operations>)
 

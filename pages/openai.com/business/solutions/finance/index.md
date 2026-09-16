@@ -113,25 +113,17 @@ CFOFP&AAccountingFinance operationsCorporate developmentInvestor relations
 
 ChatGPT Work combines enterprise security, access controls, and source traceability—so finance can move faster without compromising accountability.
 
-![Checkmark shield icon](https://images.ctfassets.net/kftzwdyauwt9/HkyXgus6zfm2wo9vv4vCo/0a5537af0553147045907547951e4885/finance-trust-clean-checkmark-shield.svg?w=3840&q=90)
-
 #### Enterprise-grade security
 
 Protect sensitive financial information with built-in enterprise security and configurable data controls.
-
-![Person badge lock icon](https://images.ctfassets.net/kftzwdyauwt9/6t5TrtEsDPPn9uo9Fp6s46/c0f7ac868fa4927b6581dea709cfc348/finance-trust-clean-person-badge-lock.svg?w=3840&q=90)
 
 #### Access and traceability
 
 Control access to financial data and connected tools, and trace outputs back to approved sources.
 
-![Checkmark circle icon](https://images.ctfassets.net/kftzwdyauwt9/1wE182V8tgvjOlciWXXqFc/c09de93a996fd01c86d775ed1790f09b/finance-trust-clean-checkmark-circle.svg?w=3840&q=90)
-
 #### Human approval
 
 Keep sensitive actions subject to human review and final decisions in Finance’s hands.
-
-![Sliders icon](https://images.ctfassets.net/kftzwdyauwt9/3CF1Q3rwcJF2rzUhbfCdnT/0e009a26af39d8acfc52cc094e4aaf00/finance-trust-clean-sliders.svg?w=3840&q=90)
 
 #### Spend and usage controls
 

@@ -26,13 +26,15 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 OpenAI[View all plugins](</business/plugins/>)
 
+![](https://files.openai.com/content?id=file_000000009b8471f4bd4c0a644b3f1b4d&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=8&sig=0f067aa3abfe91502756fdd381b2577684eabf146a251d731310e6f471f6370a&v=0)![](https://files.openai.com/content?id=file_000000009b8471f4bd4c0a644b3f1b4d&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=8&sig=0f067aa3abfe91502756fdd381b2577684eabf146a251d731310e6f471f6370a&v=0)
+
 # ClickHouse
 
 Explore ClickHouse Cloud
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a57330f603c8191928119af462402b2>)[Contact sales](</contact-sales/>)
 
-[![](https://files.openai.com/content?id=file_000000009b8471f4bd4c0a644b3f1b4d&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=8&sig=0f067aa3abfe91502756fdd381b2577684eabf146a251d731310e6f471f6370a&v=0)![](https://files.openai.com/content?id=file_000000009b8471f4bd4c0a644b3f1b4d&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=8&sig=0f067aa3abfe91502756fdd381b2577684eabf146a251d731310e6f471f6370a&v=0)ClickHouse Show a ClickHouse Cloud overview for my primary org: service name, region, state, version, and HTTPS endpoint.(opens in a new window)](<https://chatgpt.com/?prompt=%40ClickHouse+Show+a+ClickHouse+Cloud+overview+for+my+primary+org%3A+service+name%2C+region%2C+state%2C+version%2C+and+HTTPS+endpoint.>)[![](https://files.openai.com/content?id=file_000000009b8471f4bd4c0a644b3f1b4d&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=8&sig=0f067aa3abfe91502756fdd381b2577684eabf146a251d731310e6f471f6370a&v=0)![](https://files.openai.com/content?id=file_000000009b8471f4bd4c0a644b3f1b4d&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=8&sig=0f067aa3abfe91502756fdd381b2577684eabf146a251d731310e6f471f6370a&v=0)ClickHouse Show my primary ClickHouse service health: state, version, HTTPS endpoint, backup schedule, latest backup.(opens in a new window)](<https://chatgpt.com/?prompt=%40ClickHouse+Show+my+primary+ClickHouse+service+health%3A+state%2C+version%2C+HTTPS+endpoint%2C+backup+schedule%2C+latest+backup.>)
+[![](https://files.openai.com/content?id=file_000000006b647243b5e3777140befd4f&cdn=1&cp=pi&ma=31795200&ts=0&p=pi&cid=8&sig=12e36da340acdb5b9829566ea8ca78f95aeaa709c39a174ca0d9eb8eac38a0c9&v=0)ClickHouse Show a ClickHouse Cloud overview for my primary org: service name, region, state, version, and HTTPS endpoint.(opens in a new window)](<https://chatgpt.com/?prompt=%40ClickHouse+Show+a+ClickHouse+Cloud+overview+for+my+primary+org%3A+service+name%2C+region%2C+state%2C+version%2C+and+HTTPS+endpoint.>)[![](https://files.openai.com/content?id=file_000000006b647243b5e3777140befd4f&cdn=1&cp=pi&ma=31795200&ts=0&p=pi&cid=8&sig=12e36da340acdb5b9829566ea8ca78f95aeaa709c39a174ca0d9eb8eac38a0c9&v=0)ClickHouse Show my primary ClickHouse service health: state, version, HTTPS endpoint, backup schedule, latest backup.(opens in a new window)](<https://chatgpt.com/?prompt=%40ClickHouse+Show+my+primary+ClickHouse+service+health%3A+state%2C+version%2C+HTTPS+endpoint%2C+backup+schedule%2C+latest+backup.>)
 
 Use case: [Engineering & IT](</business/plugins/?tab=plugins-engineering-it>) and [Data](</business/plugins/?tab=plugins-data-research>)
 

@@ -26,13 +26,15 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 OpenAI[View all plugins](</business/plugins/>)
 
+![](https://files.openai.com/content?id=file_000000004e58720cb8bbfc0978e3367e&cdn=1&cp=pi&ma=30758400&ts=0&p=pi&cid=1&sig=1b0376e78ef2e4f6f05a5b9bc138133fa5d468103e983c1f706341fe5f2293a7&v=0)![](https://files.openai.com/content?id=file_00000000c73081f7bf9eb20dcfc0bf64&cdn=1&cp=pi&ma=31363200&ts=0&p=pi&cid=8&sig=d62b12c0280b3d8053803e8a8fdf394b4f0e4e6c9bec46234bcbe8d3c1908747&v=0)
+
 # Coupler.io
 
 Connect and analyze data from 400+ apps.
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6939ea66e1588191af5f9d2a52964d19>)[Contact sales](</contact-sales/>)
 
-[![](https://files.openai.com/content?id=file_000000004e58720cb8bbfc0978e3367e&cdn=1&cp=pi&ma=30758400&ts=0&p=pi&cid=1&sig=1b0376e78ef2e4f6f05a5b9bc138133fa5d468103e983c1f706341fe5f2293a7&v=0)![](https://files.openai.com/content?id=file_00000000c73081f7bf9eb20dcfc0bf64&cdn=1&cp=pi&ma=31363200&ts=0&p=pi&cid=8&sig=d62b12c0280b3d8053803e8a8fdf394b4f0e4e6c9bec46234bcbe8d3c1908747&v=0)Coupler.io Show overall spend, impressions, clicks, and CPC(opens in a new window)](<https://chatgpt.com/?prompt=%40Coupler.io+Show+overall+spend%2C+impressions%2C+clicks%2C+and+CPC>)
+[![](https://files.openai.com/content?id=file_0000000027d4720cb3c6276cd8072cbf&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=1&sig=a3508d050069b869a7ea64497552aa36b5fd8ae401dbbdece236011f58213604&v=0)Coupler.io Show overall spend, impressions, clicks, and CPC(opens in a new window)](<https://chatgpt.com/?prompt=%40Coupler.io+Show+overall+spend%2C+impressions%2C+clicks%2C+and+CPC>)
 
 Use case: [Data](</business/plugins/?tab=plugins-data-research>)
 

@@ -26,13 +26,15 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 OpenAI[View all plugins](</business/plugins/>)
 
+![](https://files.openai.com/content?id=file_0000000043d481f49e11d0ddb981c815&cdn=1&cp=pi&ma=31881600&ts=0&p=pi&cid=8&sig=9c046ae646dbd8a544c454ac4d9fc7bc7d44336c5c1be29a4c080b94045c5a41&v=0)![](https://files.openai.com/content?id=file_0000000043d481f49e11d0ddb981c815&cdn=1&cp=pi&ma=31881600&ts=0&p=pi&cid=8&sig=9c046ae646dbd8a544c454ac4d9fc7bc7d44336c5c1be29a4c080b94045c5a41&v=0)
+
 # HoneyBook
 
 Book clients, get paid
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a7c329c161c8191a8df623446a34000>)[Contact sales](</contact-sales/>)
 
-[HoneyBook Which of my leads have gone quiet?(opens in a new window)](<https://chatgpt.com/?prompt=%40HoneyBook+Which+of+my+leads+have+gone+quiet%3F>)[HoneyBook Who still owes me money?(opens in a new window)](<https://chatgpt.com/?prompt=%40HoneyBook+Who+still+owes+me+money%3F>)[HoneyBook Add a new contact for a client I just met(opens in a new window)](<https://chatgpt.com/?prompt=%40HoneyBook+Add+a+new+contact+for+a+client+I+just+met>)
+[![](https://files.openai.com/content?id=file_00000000760881f49ff5c1190001e477&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=8&sig=22b2e5cbfd17e27451fe6fe1181e91add82a51ef890e256d049a2b4e942b0209&v=0)HoneyBook Which of my leads have gone quiet?(opens in a new window)](<https://chatgpt.com/?prompt=%40HoneyBook+Which+of+my+leads+have+gone+quiet%3F>)[![](https://files.openai.com/content?id=file_00000000760881f49ff5c1190001e477&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=8&sig=22b2e5cbfd17e27451fe6fe1181e91add82a51ef890e256d049a2b4e942b0209&v=0)HoneyBook Who still owes me money?(opens in a new window)](<https://chatgpt.com/?prompt=%40HoneyBook+Who+still+owes+me+money%3F>)[![](https://files.openai.com/content?id=file_00000000760881f49ff5c1190001e477&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=8&sig=22b2e5cbfd17e27451fe6fe1181e91add82a51ef890e256d049a2b4e942b0209&v=0)HoneyBook Add a new contact for a client I just met(opens in a new window)](<https://chatgpt.com/?prompt=%40HoneyBook+Add+a+new+contact+for+a+client+I+just+met>)
 
 Use case: [Operations](</business/plugins/?tab=plugins-operations>) and [Small Business](</business/plugins/?tab=plugins-small-business>)
 

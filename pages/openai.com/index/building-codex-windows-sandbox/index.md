@@ -328,15 +328,17 @@ Curious to see the Codex sandbox in action? [_Try it out_ ⁠](<https://openai.c
 
 [View all](</news/>)
 
-[The Hugging Face incident and the road aheadSecurityAug 26, 2026](</index/hugging-face-incident-and-the-road-ahead/>)
+![Scaling Storage for 1 Billion ChatGPT Users \(Part I\) card image](https://images.ctfassets.net/kftzwdyauwt9/2X23NOb0P4V1KDzUBkeNpl/888204b45a1c84ddfa24c9ed31111a9c/OAI_HabitatPT1_Art_Card_1x1.png?w=3840&q=90&fm=webp)
 
-![Jalapeño inference — Art Card](https://images.ctfassets.net/kftzwdyauwt9/26K8mLbrpbaDvoFY0NrE04/8e4ad0b3f28042c22d6d5130bd4f4019/jalapeno-art-card.png?w=3840&q=90&fm=webp)
+[Rapidly scaling online storage to serve over 1 billion ChatGPT usersEngineeringSep 11, 2026](</index/scaling-storage-one-billion-users-part-one/>)
 
-[Jalapeño’s first results show industry-leading speed and efficiency in AI inferenceEngineeringAug 25, 2026](</index/jalapeno-first-results/>)
+![Daybreak for Critical Infrastructure — cover](https://images.ctfassets.net/kftzwdyauwt9/3iCwHSjR2bfJPdDiWomsis/86d511413c2b0338bd211b41545be495/Option_65___1080_1080.png?w=3840&q=90&fm=webp)
 
-![The Defender’s Window > Cover](https://images.ctfassets.net/kftzwdyauwt9/2We7bguC4FuOofZ8Lu6LUZ/02049fcee47c460695acab59bdb8f648/the-defenders-window-clean-cover.png?w=3840&q=90&fm=webp)
+[Daybreak for Frontline DefendersSecuritySep 3, 2026](</index/daybreak-for-frontline-defenders/>)
 
-[The Defender’s WindowSecurityAug 17, 2026](</index/the-defenders-window/>)
+![Path to Astra — Clean square cover — Neutral Option 062 v1](https://images.ctfassets.net/kftzwdyauwt9/4BabvjDCQdlYN2ISzOkgF9/78d35947274e9b3ac2483377782b007e/astra-cover-v001.png?w=3840&q=90&fm=webp)
+
+[Path to Astra: critical capabilities and frontier safeguardsSafetySep 1, 2026](</index/path-to-astra/>)
 
 Research
 
@@ -348,6 +350,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)

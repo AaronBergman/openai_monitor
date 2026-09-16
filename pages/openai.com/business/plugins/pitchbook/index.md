@@ -26,19 +26,15 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 OpenAI[View all plugins](</business/plugins/>)
 
+![](https://files.openai.com/content?id=file_000000000aac722f9874ed898f906fe5&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=1&sig=85be1e32ecd5938ebde62c35d9d37bc83792db94ae1d5bbc145313f90f374c50&v=0)![](https://files.openai.com/content?id=file_000000009ec481f6b74903ef6fa4c2bd&cdn=1&cp=pi&ma=32486400&ts=0&p=pi&cid=8&sig=1b4092ec812db85c9135837e27a157eec9d4077b2ede5f941a94ea7ae1504a88&v=0)
+
 # PitchBook
 
 Faster workflows with market intelligence.
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_693850f6312c8191be5a026bf3538e80>)[Contact sales](</contact-sales/>)
 
-@PitchBook Use PitchBook to help with this task
-
-![@PitchBook Use PitchBook to help with this task](https://files.openai.com/content?id=file_00000000361c71f7b42b34329a9f0601&cdn=1&cp=pi&ma=31363200&ts=0&p=pi&cid=8&sig=f2afff1541dd1c78c84d93f29e705ef2ac1bd55fb7ee465c52d503ec4dbe6fa8&v=0)
-
-![PitchBook](https://files.openai.com/content?id=file_000000008f8871f7830ca0230b9e7224&cdn=1&cp=pi&ma=31536000&ts=0&p=pi&cid=8&sig=29e5f7134f1166e1f3816611f3b9df170eeb96cb1f48822578915819d9305975&v=0)
-
-![PitchBook](https://files.openai.com/content?id=file_000000003db471f78a544e6089ae898d&cdn=1&cp=pi&ma=30240000&ts=0&p=pi&cid=8&sig=616c0946f43935bcb5fcbe8ec4916b4f7fca6709dc61104207db27b0f1693c68&v=0)
+[![](https://files.openai.com/content?id=file_00000000a4fc722f948ccb2caa4885dc&cdn=1&cp=pi&ma=31190400&ts=0&p=pi&cid=1&sig=8e4793c6ddf9e77e63e5cb01318dbb623ae0b17e1f96fca4b2719a101044c7b9&v=0)PitchBook Use PitchBook to help with this task(opens in a new window)](<https://chatgpt.com/?prompt=%40PitchBook+Use+PitchBook+to+help+with+this+task>)
 
 Use case: [Finance](</business/plugins/?tab=plugins-finance>)
 

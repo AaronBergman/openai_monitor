@@ -179,17 +179,17 @@ OpenAI
 
 [View all](</news/>)
 
-![ChatGPT for Teachers district expansion | Original neutral library cover](https://images.ctfassets.net/kftzwdyauwt9/4jHps0gmVQfIrnl2shwDBi/35e47854409876d353f3bb502a164317/teachers-original-neutral-listing.png?w=3840&q=90&fm=webp)
+![Now everyone can put data to work — card image](https://images.ctfassets.net/kftzwdyauwt9/6FhMXOSe8XadGwEUev6QjJ/916a64d20bcc59b8619fea1827fa6bd3/put-data-to-work--cover-v001.png?w=3840&q=90&fm=webp)
 
-[Bringing ChatGPT for Teachers to more U.S. school districtsProductAug 26, 2026](</index/bringing-chatgpt-for-teachers-to-more-us-school-districts/>)
+[Now everyone can put data to workProductSep 10, 2026](</index/put-data-to-work/>)
 
-![Learning never stops card image](https://images.ctfassets.net/kftzwdyauwt9/rGBw0SMWP2aaIH5twRBgX/5f8f24d0e5a03eecfc74ab6cee3dc331/learning-never-stops-how-ai-makes-learning-continuous-cover.png?w=3840&q=90&fm=webp)
+![FinServ Blog - Art Card Texture Square](https://images.ctfassets.net/kftzwdyauwt9/6Bcg403pebiJhQdHUS17FK/572e478dc4579deca27c9700c662e908/finserv-art-card.png?w=3840&q=90&fm=webp)
 
-[Learning never stops: How AI makes learning continuousProductAug 26, 2026](</index/learning-never-stops/>)
+[Introducing ChatGPT for Financial ServicesProductSep 10, 2026](</index/introducing-chatgpt-financial-services/>)
 
-![GPT-5.6 in Kiro > OpenAI and official Kiro full logo > 1:1 art card](https://images.ctfassets.net/kftzwdyauwt9/31NSq4ufuXRuOUqH9Xdjno/319b9502b892d44b8b91df7aef9d53ed/OAI_Kiro_Partnership_1x1_Art_Card_Official_Full_Lockup_2160.png?w=3840&q=90&fm=webp)
+![GPT-Live-1 API | Green-blue cover | Option 038](https://images.ctfassets.net/kftzwdyauwt9/1uBabEULLfw3Vb2Gldmyyq/c19c1c121ca403ee8b2703cba18ef82d/introducing-gpt-live-1-green-cover.png?w=3840&q=90&fm=webp)
 
-[Advancing price-performance for developers with GPT‑5.6 in KiroProductAug 24, 2026](</index/gpt-5-6-in-kiro/>)
+[Build more natural voice experiences with GPT‑Live‑1 in the APIProductSep 10, 2026](</index/introducing-gpt-live-1-in-the-api/>)
 
 Research
 
@@ -201,6 +201,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)

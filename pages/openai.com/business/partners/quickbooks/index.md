@@ -58,23 +58,17 @@ See FAQs for more details.
 
 Get clear business insights, manage invoices, track payroll, and compare lending options, all from QuickBooks in ChatGPT.
 
-![Analyze data icon.](https://images.ctfassets.net/kftzwdyauwt9/4TX72KGBymJdBMaP53b7nS/adf5a3b08f18ce9c41263f2887cb58ca/analyze-data__text-square-analyze-data.svg?w=3840&q=90)
-
 #### Make better business decisions
 
 Business health and benchmarking
 
 Get an actionable view of your business health and see how you compare to peers. Get your P&L, cash flow, profit margin, and outstanding invoices together, so you see the full picture, what needs attention, and how it connects, then compare yourself to similar businesses to know where you stand.
 
-![Invoice icon.](https://images.ctfassets.net/kftzwdyauwt9/SgNx3JP1Lz1EV1XXc4bLv/4f6e599096e823e504406ea9e179ce22/invoice__receipt.svg?w=3840&q=90)
-
 #### Get paid faster
 
 Chase overdue invoices or create new ones from email conversations
 
 Get paid faster and turn conversations into invoices. See who owes you money, prioritize the right invoices to chase, and draft reminders ready for your review. When a customer email is ready to move forward, turn that thread into an accurate estimate or invoice, drafted for your approval before anything sends.
-
-![Calculator icon.](https://images.ctfassets.net/kftzwdyauwt9/3pxeRVXQu2ZeQjISHumMQE/a469742d6fd7085496d85e91a6a47f47/calculator.svg?w=3840&q=90)
 
 #### Keep payroll in check and see if you are loan ready
 

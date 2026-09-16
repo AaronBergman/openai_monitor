@@ -26,19 +26,15 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 OpenAI[View all plugins](</business/plugins/>)
 
+![](https://files.openai.com/content?id=file_000000000c1871f5a6cfddb62a46e9de&cdn=1&cp=pi&ma=31363200&ts=0&p=pi&cid=1&sig=81b62307ba341b02656de1a8a775263b1126c5aa1801f5f51ac5b3da3cb40a2c&v=0)![](https://files.openai.com/content?id=file_00000000551481f5a345351199fc73fd&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=d24c1524f8efa98e3db5084e8f55ca134b1ac198deddaffc355a1df03b180092&v=0)
+
 # Adobe Acrobat
 
 Edit and organize PDFs easily.
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6938a7d323f48191aeabaf579802bf45>)[Contact sales](</contact-sales/>)
 
-@Adobe Acrobat create a job application PDF by merging these docs
-
-![@Adobe Acrobat create a job application PDF by merging these docs](https://files.openai.com/content?id=file_0000000010d071f68af9b21fef05db7f&cdn=1&cp=pi&ma=32486400&ts=0&p=pi&cid=1&sig=04b5c32acf65c317e4c583076f6fcfbb415ca3cf1caeb5cf120de2cc131eecae)
-
-@Adobe Acrobat combine these reports into one PDF
-
-![@Adobe Acrobat combine these reports into one PDF](https://files.openai.com/content?id=file_000000009b2071f6af7877f58b162a92&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=1&sig=85bc9caaf4f3928c59749c2e15742aef9bcb53132833b21bd3708cb8356c832f)
+[![](https://files.openai.com/content?id=file_000000000c1871f5a6cfddb62a46e9de&cdn=1&cp=pi&ma=31363200&ts=0&p=pi&cid=1&sig=81b62307ba341b02656de1a8a775263b1126c5aa1801f5f51ac5b3da3cb40a2c&v=0)![](https://files.openai.com/content?id=file_00000000551481f5a345351199fc73fd&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=d24c1524f8efa98e3db5084e8f55ca134b1ac198deddaffc355a1df03b180092&v=0)Adobe Acrobat create a job application PDF by merging these docs(opens in a new window)](<https://chatgpt.com/?prompt=%40Adobe+Acrobat+create+a+job+application+PDF+by+merging+these+docs>)[![](https://files.openai.com/content?id=file_000000000c1871f5a6cfddb62a46e9de&cdn=1&cp=pi&ma=31363200&ts=0&p=pi&cid=1&sig=81b62307ba341b02656de1a8a775263b1126c5aa1801f5f51ac5b3da3cb40a2c&v=0)![](https://files.openai.com/content?id=file_00000000551481f5a345351199fc73fd&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=d24c1524f8efa98e3db5084e8f55ca134b1ac198deddaffc355a1df03b180092&v=0)Adobe Acrobat combine these reports into one PDF(opens in a new window)](<https://chatgpt.com/?prompt=%40Adobe+Acrobat+combine+these+reports+into+one+PDF>)
 
 Use case: [Productivity](</business/plugins/?tab=plugins-productivity>)
 

@@ -306,6 +306,10 @@ Load more
 
 * * *
 
+![Fyxer customer story 1x1 image](https://images.ctfassets.net/kftzwdyauwt9/7LbXXCnX1NLyS1i8mHGF1i/d75fdf2bf63cf463ce2e72915a783757/oai_Fyxer_1x1.png?w=3840&q=90&fm=webp)
+
+[How Fyxer built an AI executive assistant people trustStartupSep 14, 2026](</index/fyxer/>)
+
 ![Legora customer story art card - Option C](https://images.ctfassets.net/kftzwdyauwt9/13uynVdSWJS9UT4Y7EppMn/7259e4915a7e6ea2f4c52c2109eace61/square.png?w=3840&q=90&fm=webp)
 
 [Legora reviewed 41 documents in minutes with GPT-6 AstraStartupSep 3, 2026](</index/legora-financial-statement-review-with-astra/>)
@@ -317,10 +321,6 @@ Load more
 ![replit-customer-story-art-card-1x1](https://images.ctfassets.net/kftzwdyauwt9/2ZUd2sTOK6p4MrjDZnvCoM/512b38a71cf26f09c3cda3c51169c401/replit-customer-story-art-card-1x1.png?w=3840&q=90&fm=webp)
 
 [Replit expands access to software creation with GPT-5.6 LunaStartupAug 19, 2026](</index/replit/>)
-
-![Model ML customer story card image](https://images.ctfassets.net/kftzwdyauwt9/3STNMQMrFRC8mFdLYtjkV4/9cc21e9c729b2ae7cdf75aa3f49b3033/modelml-card.png?w=3840&q=90&fm=webp)
-
-[Model ML completes finance work more efficiently with GPT-5.6 SolStartupAug 10, 2026](</index/model-ml/>)
 
   * [Explore more stories](<https://openai.com/business/customer-stories/?tags=startup>)
 

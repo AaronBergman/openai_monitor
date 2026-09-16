@@ -26,23 +26,15 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 OpenAI[View all plugins](</business/plugins/>)
 
+![](https://files.openai.com/content?id=file_000000004a50722f96089a32eeed297c&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=1&sig=07807a7cbefb19d9cd968741565427527585e02f13335ddd46129d77e9dfe317&v=0)![](https://files.openai.com/content?id=file_0000000072dc81f69476895c0081c9c6&cdn=1&cp=pi&ma=31363200&ts=0&p=pi&cid=8&sig=ae98e7cc8005841970b2d7697ed1cfd38a1f393c65889c0de686c5db7b93da03&v=0)
+
 # Asana
 
 Turn Asana tasks into clear updates and plans.
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69616780bd208191b4fb44ba44f72b61>)[Contact sales](</contact-sales/>)
 
-@Asana Create a project to track creative requests
-
-![@Asana Create a project to track creative requests](https://files.openai.com/content?id=file_00000000863071f7aa9ab79475e9cd84&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=dbbd8bebbfe43dde5014296b0dbae178c0982f5ef272428e5abc4b8a92468aa0)
-
-@Asana Create a task to track follow up actions
-
-![@Asana Create a task to track follow up actions](https://files.openai.com/content?id=file_0000000026c471f79ec1a87b84922b06&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=1&sig=9445ca411ae107016caf1d576a508375a7d1c047f3ab0fd787877a3d1d8751ee)
-
-@Asana Show me what's on my plate in Asana today.
-
-![@Asana Show me what's on my plate in Asana today.](https://files.openai.com/content?id=file_00000000e69871f79daceb5bd9d258e4&cdn=1&cp=pi&ma=31190400&ts=0&p=pi&cid=1&sig=19f66b1cfd3f10f33341d5d8c7cb413090af7617b4b19fd6a46b1601835b0c2d)
+[![](https://files.openai.com/content?id=file_0000000017e0722f80510fbdbf0832a1&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=1&sig=20dd59f030cc7c32ba143c3ce12a6cdc0fb2f6d699f2b82a528d8408b854be7b&v=0)Asana Create a project to track creative requests(opens in a new window)](<https://chatgpt.com/?prompt=%40Asana+Create+a+project+to+track+creative+requests>)[![](https://files.openai.com/content?id=file_0000000017e0722f80510fbdbf0832a1&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=1&sig=20dd59f030cc7c32ba143c3ce12a6cdc0fb2f6d699f2b82a528d8408b854be7b&v=0)Asana Create a task to track follow up actions(opens in a new window)](<https://chatgpt.com/?prompt=%40Asana+Create+a+task+to+track+follow+up+actions>)[![](https://files.openai.com/content?id=file_0000000017e0722f80510fbdbf0832a1&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=1&sig=20dd59f030cc7c32ba143c3ce12a6cdc0fb2f6d699f2b82a528d8408b854be7b&v=0)Asana Show me what's on my plate in Asana today.(opens in a new window)](<https://chatgpt.com/?prompt=%40Asana+Show+me+what%27s+on+my+plate+in+Asana+today.>)
 
 Use case: [Productivity](</business/plugins/?tab=plugins-productivity>)
 

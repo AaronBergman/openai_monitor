@@ -26,13 +26,15 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 OpenAI[View all plugins](</business/plugins/>)
 
+![](https://files.openai.com/content?id=file_00000000d39471f5895ac05d8dd82675&cdn=1&cp=pi&ma=30758400&ts=0&p=pi&cid=1&sig=9a5d10a9cef64950c8e49963cdfcc8723fd063b39649bb3ffbff98b539dea986&v=0)![](https://files.openai.com/content?id=file_00000000385881f7bc6c98a3bc181621&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=8&sig=40cd48a2f7eb162054efb6149fda37de4388c8a50c5f2eb84f338b62f952e8e3&v=0)
+
 # Hex
 
 Ask data questions and start new analyses from Hex.
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_690a9430a270819196671dcb4c95898e>)[Contact sales](</contact-sales/>)
 
-[![](https://files.openai.com/content?id=file_00000000d39471f5895ac05d8dd82675&cdn=1&cp=pi&ma=30758400&ts=0&p=pi&cid=1&sig=9a5d10a9cef64950c8e49963cdfcc8723fd063b39649bb3ffbff98b539dea986&v=0)![](https://files.openai.com/content?id=file_00000000385881f7bc6c98a3bc181621&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=8&sig=40cd48a2f7eb162054efb6149fda37de4388c8a50c5f2eb84f338b62f952e8e3&v=0)Hex pull up my board meeting dashboard(opens in a new window)](<https://chatgpt.com/?prompt=%40Hex+pull+up+my+board+meeting+dashboard>)[![](https://files.openai.com/content?id=file_00000000d39471f5895ac05d8dd82675&cdn=1&cp=pi&ma=30758400&ts=0&p=pi&cid=1&sig=9a5d10a9cef64950c8e49963cdfcc8723fd063b39649bb3ffbff98b539dea986&v=0)![](https://files.openai.com/content?id=file_00000000385881f7bc6c98a3bc181621&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=8&sig=40cd48a2f7eb162054efb6149fda37de4388c8a50c5f2eb84f338b62f952e8e3&v=0)Hex who are our top customers by revenue?(opens in a new window)](<https://chatgpt.com/?prompt=%40Hex+who+are+our+top+customers+by+revenue%3F>)[![](https://files.openai.com/content?id=file_00000000d39471f5895ac05d8dd82675&cdn=1&cp=pi&ma=30758400&ts=0&p=pi&cid=1&sig=9a5d10a9cef64950c8e49963cdfcc8723fd063b39649bb3ffbff98b539dea986&v=0)![](https://files.openai.com/content?id=file_00000000385881f7bc6c98a3bc181621&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=8&sig=40cd48a2f7eb162054efb6149fda37de4388c8a50c5f2eb84f338b62f952e8e3&v=0)Hex how is our sales conversion vs. benchmarks?(opens in a new window)](<https://chatgpt.com/?prompt=%40Hex+how+is+our+sales+conversion+vs.+benchmarks%3F>)
+[![](https://files.openai.com/content?id=file_00000000fcb4720ca56d2ab5ac6ac7b8&cdn=1&cp=pi&ma=31795200&ts=0&p=pi&cid=1&sig=066aff3768bbf36fa211ac7adf2e11a4acf9269da0740a5723a19646224ff749&v=0)Hex pull up my board meeting dashboard(opens in a new window)](<https://chatgpt.com/?prompt=%40Hex+pull+up+my+board+meeting+dashboard>)[![](https://files.openai.com/content?id=file_00000000fcb4720ca56d2ab5ac6ac7b8&cdn=1&cp=pi&ma=31795200&ts=0&p=pi&cid=1&sig=066aff3768bbf36fa211ac7adf2e11a4acf9269da0740a5723a19646224ff749&v=0)Hex who are our top customers by revenue?(opens in a new window)](<https://chatgpt.com/?prompt=%40Hex+who+are+our+top+customers+by+revenue%3F>)[![](https://files.openai.com/content?id=file_00000000fcb4720ca56d2ab5ac6ac7b8&cdn=1&cp=pi&ma=31795200&ts=0&p=pi&cid=1&sig=066aff3768bbf36fa211ac7adf2e11a4acf9269da0740a5723a19646224ff749&v=0)Hex how is our sales conversion vs. benchmarks?(opens in a new window)](<https://chatgpt.com/?prompt=%40Hex+how+is+our+sales+conversion+vs.+benchmarks%3F>)
 
 Use case: [Data](</business/plugins/?tab=plugins-data-research>)
 

@@ -26,6 +26,8 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 OpenAI[View all plugins](</business/plugins/>)
 
+![](https://files.openai.com/content?id=file_00000000333471f69062a3ef9b51c5cc&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=1&sig=8497e91942dbb748ab58beeaf764b868b0233c8259f5375156a575f257f6ba72)![](https://files.openai.com/content?id=file_00000000b7b871f6a5c1c3749690cca3&cdn=1&cp=pi&ma=32486400&ts=0&p=pi&cid=1&sig=e856610017bcd39e2392d0467d774092cd216436cbe4703d7518137078f5bd73)
+
 # Omni Analytics
 
 Query business data

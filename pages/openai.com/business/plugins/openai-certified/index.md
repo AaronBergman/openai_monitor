@@ -26,6 +26,8 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 OpenAI[View all plugins](</business/plugins/>)
 
+![](https://files.openai.com/content?id=file_0000000059c071f699aa0c9a6126c1c4&cdn=1&cp=pi&ma=30412800&ts=0&p=pi&cid=1&sig=6e5be95a764660ee3463d1b811628737b39c8feb9242e69935259319bef3af30)![](https://files.openai.com/content?id=file_000000008b2c7230a31b920a76e70872&cdn=1&cp=pi&ma=32227200&ts=0&p=pi&cid=1&sig=2bdadb33af1218faa1cacc80584b8b39b47e59bf54ffb2c3e98db379f36a892d&v=0)
+
 # OpenAI Certified
 
 Complete structured AI skills courses with applied practice and certificates.

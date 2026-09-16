@@ -46,8 +46,6 @@ Built to solve your biggest business challenges—from headquarters to every sto
 
 Stay ahead of shifting shopper expectations with insights from 800M+ weekly users researching and buying on ChatGPT.
 
-![Briefcase icon representing work or business, shown in a light mode style.](https://images.ctfassets.net/kftzwdyauwt9/3ai6LRxJQJOoZ6KGYwEiB0/83c748d041750cc4a4701675d4c03c87/Group_lihghtmode.svg?w=3840&q=90)
-
 #### Proven retail adoption paths
 
 Used by thousands of associates, merchandisers, and corporate teams to improve efficiency and create better shopping experiences.

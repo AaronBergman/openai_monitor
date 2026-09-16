@@ -26,13 +26,15 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 OpenAI[View all plugins](</business/plugins/>)
 
+![](https://files.openai.com/content?id=file_00000000dff871fd97ecd3e12034e065&cdn=1&cp=pi&ma=31363200&ts=0&p=pi&cid=1&sig=ba5b5cb9e8613449f77c1752691f4f467846a43b941dc1f29632cf788fd3c426&v=0)![](https://files.openai.com/content?id=file_00000000b5bc71fdb6d8dc0bdc786058&cdn=1&cp=pi&ma=31795200&ts=0&p=pi&cid=1&sig=416aab41b7a94dcf98fc20d43b8d80a0c807853ab48379f20a984d6f6daa0b1a&v=0)
+
 # PostHog
 
 Analyze your product data
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_699caef2d680819188727b0ddbb349dd>)[Contact sales](</contact-sales/>)
 
-[![](https://files.openai.com/content?id=file_00000000dff871fd97ecd3e12034e065&cdn=1&cp=pi&ma=31363200&ts=0&p=pi&cid=1&sig=ba5b5cb9e8613449f77c1752691f4f467846a43b941dc1f29632cf788fd3c426&v=0)![](https://files.openai.com/content?id=file_00000000b5bc71fdb6d8dc0bdc786058&cdn=1&cp=pi&ma=31795200&ts=0&p=pi&cid=1&sig=416aab41b7a94dcf98fc20d43b8d80a0c807853ab48379f20a984d6f6daa0b1a&v=0)PostHog Show me signups this month(opens in a new window)](<https://chatgpt.com/?prompt=%40PostHog+Show+me+signups+this+month>)[![](https://files.openai.com/content?id=file_00000000dff871fd97ecd3e12034e065&cdn=1&cp=pi&ma=31363200&ts=0&p=pi&cid=1&sig=ba5b5cb9e8613449f77c1752691f4f467846a43b941dc1f29632cf788fd3c426&v=0)![](https://files.openai.com/content?id=file_00000000b5bc71fdb6d8dc0bdc786058&cdn=1&cp=pi&ma=31795200&ts=0&p=pi&cid=1&sig=416aab41b7a94dcf98fc20d43b8d80a0c807853ab48379f20a984d6f6daa0b1a&v=0)PostHog Create a feature flag for the new checkout(opens in a new window)](<https://chatgpt.com/?prompt=%40PostHog+Create+a+feature+flag+for+the+new+checkout>)[![](https://files.openai.com/content?id=file_00000000dff871fd97ecd3e12034e065&cdn=1&cp=pi&ma=31363200&ts=0&p=pi&cid=1&sig=ba5b5cb9e8613449f77c1752691f4f467846a43b941dc1f29632cf788fd3c426&v=0)![](https://files.openai.com/content?id=file_00000000b5bc71fdb6d8dc0bdc786058&cdn=1&cp=pi&ma=31795200&ts=0&p=pi&cid=1&sig=416aab41b7a94dcf98fc20d43b8d80a0c807853ab48379f20a984d6f6daa0b1a&v=0)PostHog Why are users dropping off in onboarding?(opens in a new window)](<https://chatgpt.com/?prompt=%40PostHog+Why+are+users+dropping+off+in+onboarding%3F>)
+[![](https://files.openai.com/content?id=file_00000000e40c722f9886bb66959790af&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=1&sig=e671c8b007daa1f637c6546233c128b34177ec7ae215c9c2b4f18e69624e3786&v=0)PostHog Show me signups this month(opens in a new window)](<https://chatgpt.com/?prompt=%40PostHog+Show+me+signups+this+month>)[![](https://files.openai.com/content?id=file_00000000e40c722f9886bb66959790af&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=1&sig=e671c8b007daa1f637c6546233c128b34177ec7ae215c9c2b4f18e69624e3786&v=0)PostHog Create a feature flag for the new checkout(opens in a new window)](<https://chatgpt.com/?prompt=%40PostHog+Create+a+feature+flag+for+the+new+checkout>)[![](https://files.openai.com/content?id=file_00000000e40c722f9886bb66959790af&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=1&sig=e671c8b007daa1f637c6546233c128b34177ec7ae215c9c2b4f18e69624e3786&v=0)PostHog Why are users dropping off in onboarding?(opens in a new window)](<https://chatgpt.com/?prompt=%40PostHog+Why+are+users+dropping+off+in+onboarding%3F>)
 
 Use case: [Data](</business/plugins/?tab=plugins-data-research>)
 

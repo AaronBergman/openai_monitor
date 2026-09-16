@@ -162,6 +162,10 @@ Ernst & Young
 
 ![Ernst & Young logo](https://images.ctfassets.net/kftzwdyauwt9/6Suyj9Tjsnh3vfKerGQX4l/fb741971ff7a89de2adf3e6388accc55/ey-square-light.svg?w=3840&q=90)
 
+EXL Service
+
+![EXL Service logo](https://images.ctfassets.net/kftzwdyauwt9/5JtCMvukg8WLA3URwDMN91/ace060bcffd25f1041eed72d48b85531/57jIrUpgYjXzlbxvflZk6z?w=3840&q=90&fm=webp)
+
 Fellow Intelligence
 
 ![Fellow Intelligence logo](https://images.ctfassets.net/kftzwdyauwt9/6FIFg8BiqhOjpVklDV06xM/bd1f38168083338c1d1bc76ba12d679c/fellow-square-light.svg?w=3840&q=90)
@@ -441,6 +445,10 @@ EPAM
 Ernst & Young
 
 ![Ernst & Young logo](https://images.ctfassets.net/kftzwdyauwt9/6Suyj9Tjsnh3vfKerGQX4l/fb741971ff7a89de2adf3e6388accc55/ey-square-light.svg?w=3840&q=90)
+
+EXL Service
+
+![EXL Service logo](https://images.ctfassets.net/kftzwdyauwt9/5JtCMvukg8WLA3URwDMN91/ace060bcffd25f1041eed72d48b85531/57jIrUpgYjXzlbxvflZk6z?w=3840&q=90&fm=webp)
 
 Fellow Intelligence
 

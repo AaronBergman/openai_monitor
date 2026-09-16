@@ -26,13 +26,15 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 OpenAI[View all plugins](</business/plugins/>)
 
+![](https://files.openai.com/content?id=file_000000007b5c71f68f4ce7109fe9895c&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=8&sig=a5a793a7e75695a72af470326e881780a30318137c1513faad1613814c2c9dc1&v=0)![](https://files.openai.com/content?id=file_0000000072c871f6aa01f4d6e74a0bac&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=8&sig=968d61b4c236ca6388c4568374ddba27d71bb52aff64cd2d86100a352481dbe3&v=0)
+
 # ZoomInfo
 
 B2B data and GTM insights
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_698a340b9230819188ba5a5eea79022d>)[Contact sales](</contact-sales/>)
 
-[ZoomInfo Give me the top 10 companies in Boston by annual revenue.(opens in a new window)](<https://chatgpt.com/?prompt=%40ZoomInfo+Give+me+the+top+10+companies+in+Boston+by+annual+revenue.>)[ZoomInfo Search VPs of Sales at fintech companies in California(opens in a new window)](<https://chatgpt.com/?prompt=%40ZoomInfo+Search+VPs+of+Sales+at+fintech+companies+in+California>)[ZoomInfo Get funding and hiring signals for company ACME corp.(opens in a new window)](<https://chatgpt.com/?prompt=%40ZoomInfo+Get+funding+and+hiring+signals+for+company+ACME+corp.>)
+[![](https://files.openai.com/content?id=file_000000007b5c71f68f4ce7109fe9895c&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=8&sig=a5a793a7e75695a72af470326e881780a30318137c1513faad1613814c2c9dc1&v=0)![](https://files.openai.com/content?id=file_0000000072c871f6aa01f4d6e74a0bac&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=8&sig=968d61b4c236ca6388c4568374ddba27d71bb52aff64cd2d86100a352481dbe3&v=0)ZoomInfo Give me the top 10 companies in Boston by annual revenue.(opens in a new window)](<https://chatgpt.com/?prompt=%40ZoomInfo+Give+me+the+top+10+companies+in+Boston+by+annual+revenue.>)[![](https://files.openai.com/content?id=file_000000007b5c71f68f4ce7109fe9895c&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=8&sig=a5a793a7e75695a72af470326e881780a30318137c1513faad1613814c2c9dc1&v=0)![](https://files.openai.com/content?id=file_0000000072c871f6aa01f4d6e74a0bac&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=8&sig=968d61b4c236ca6388c4568374ddba27d71bb52aff64cd2d86100a352481dbe3&v=0)ZoomInfo Search VPs of Sales at fintech companies in California(opens in a new window)](<https://chatgpt.com/?prompt=%40ZoomInfo+Search+VPs+of+Sales+at+fintech+companies+in+California>)[![](https://files.openai.com/content?id=file_000000007b5c71f68f4ce7109fe9895c&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=8&sig=a5a793a7e75695a72af470326e881780a30318137c1513faad1613814c2c9dc1&v=0)![](https://files.openai.com/content?id=file_0000000072c871f6aa01f4d6e74a0bac&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=8&sig=968d61b4c236ca6388c4568374ddba27d71bb52aff64cd2d86100a352481dbe3&v=0)ZoomInfo Get funding and hiring signals for company ACME corp.(opens in a new window)](<https://chatgpt.com/?prompt=%40ZoomInfo+Get+funding+and+hiring+signals+for+company+ACME+corp.>)
 
 Use case: [Operations](</business/plugins/?tab=plugins-operations>) and [Small Business](</business/plugins/?tab=plugins-small-business>)
 

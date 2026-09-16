@@ -26,17 +26,15 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 OpenAI[View all plugins](</business/plugins/>)
 
+![](https://files.openai.com/content?id=file_000000005ee871f88f1bfd73ad777a90&cdn=1&cp=pi&ma=32140800&ts=0&p=pi&cid=1&sig=df0e9e02b8a5bfd8995607513d9e3bab6e2c60df30c2542878eab19896af6a5b&v=0)![](https://files.openai.com/content?id=file_000000005ee871f88f1bfd73ad777a90&cdn=1&cp=pi&ma=32140800&ts=0&p=pi&cid=1&sig=df0e9e02b8a5bfd8995607513d9e3bab6e2c60df30c2542878eab19896af6a5b&v=0)
+
 # Monday.com
 
 Manage work in monday.com.
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_690aabb71bf481918b8d5b614ed3fd4c>)[Contact sales](</contact-sales/>)
 
-@monday.com what can this connector do?
-
-![@monday.com what can this connector do?](https://files.openai.com/content?id=file_00000000c00c71f6a43d88395f3d783d&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=a8b4bc9f32058e0013c5140eac4d93c735880cf9fe67c3155b9f9acb8d3aab27)
-
-![Monday.com](https://files.openai.com/content?id=file_00000000070871f68c7e45aabf4cc165&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=1&sig=baacd5067fa14fc94edb3e30c3857bd8fee0de248ccd26f2e586d46546a3f18c)
+[![](https://files.openai.com/content?id=file_00000000b3e08243817dc049a4750257&cdn=1&cp=pi&ma=30758400&ts=0&p=pi&cid=8&sig=f1a554a88cc3b205711a4efef6ed24daca9ece073f9b2b8be193fb79c0e7ae82&v=0)monday.com what can this connector do?(opens in a new window)](<https://chatgpt.com/?prompt=%40monday.com+what+can+this+connector+do%3F>)
 
 Use case: [Productivity](</business/plugins/?tab=plugins-productivity>)
 

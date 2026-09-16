@@ -26,13 +26,15 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 OpenAI[View all plugins](</business/plugins/>)
 
+![](https://files.openai.com/content?id=file_00000000d6d871f6af516dd237732886&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=8&sig=57605450edcdfd982a04b1b6acfaaefae75de19e6e4de54c96f260b5442b30a9&v=0)![](https://files.openai.com/content?id=file_00000000d6d871f6af516dd237732886&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=8&sig=57605450edcdfd982a04b1b6acfaaefae75de19e6e4de54c96f260b5442b30a9&v=0)
+
 # HubSpot
 
 Analyze CRM data and surface insights.
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_697acb8e53d88191bf7a79e62012ae14>)[Contact sales](</contact-sales/>)
 
-[![](https://files.openai.com/content?id=file_00000000d6d871f6af516dd237732886&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=8&sig=57605450edcdfd982a04b1b6acfaaefae75de19e6e4de54c96f260b5442b30a9&v=0)![](https://files.openai.com/content?id=file_00000000d6d871f6af516dd237732886&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=8&sig=57605450edcdfd982a04b1b6acfaaefae75de19e6e4de54c96f260b5442b30a9&v=0)HubSpot Create a follow-up task to schedule a meeting with Brightlane(opens in a new window)](<https://chatgpt.com/?prompt=%40HubSpot+Create+a+follow-up+task+to+schedule+a+meeting+with+Brightlane>)[![](https://files.openai.com/content?id=file_00000000d6d871f6af516dd237732886&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=8&sig=57605450edcdfd982a04b1b6acfaaefae75de19e6e4de54c96f260b5442b30a9&v=0)![](https://files.openai.com/content?id=file_00000000d6d871f6af516dd237732886&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=8&sig=57605450edcdfd982a04b1b6acfaaefae75de19e6e4de54c96f260b5442b30a9&v=0)HubSpot Show me unresolved high-priority tickets(opens in a new window)](<https://chatgpt.com/?prompt=%40HubSpot+Show+me+unresolved+high-priority+tickets>)[![](https://files.openai.com/content?id=file_00000000d6d871f6af516dd237732886&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=8&sig=57605450edcdfd982a04b1b6acfaaefae75de19e6e4de54c96f260b5442b30a9&v=0)![](https://files.openai.com/content?id=file_00000000d6d871f6af516dd237732886&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=8&sig=57605450edcdfd982a04b1b6acfaaefae75de19e6e4de54c96f260b5442b30a9&v=0)HubSpot Which lead sources brought in the most contacts this quarter?(opens in a new window)](<https://chatgpt.com/?prompt=%40HubSpot+Which+lead+sources+brought+in+the+most+contacts+this+quarter%3F>)
+[![](https://files.openai.com/content?id=file_00000000fd7471f5993b000c5f724582&cdn=1&cp=pi&ma=30931200&ts=0&p=pi&cid=1&sig=c4acde5ce277a221a14c10614283aba373c5d414cc96d96f111e4a757d64800b&v=0)HubSpot Show me unresolved high-priority tickets(opens in a new window)](<https://chatgpt.com/?prompt=%40HubSpot+Show+me+unresolved+high-priority+tickets>)[![](https://files.openai.com/content?id=file_00000000fd7471f5993b000c5f724582&cdn=1&cp=pi&ma=30931200&ts=0&p=pi&cid=1&sig=c4acde5ce277a221a14c10614283aba373c5d414cc96d96f111e4a757d64800b&v=0)HubSpot Which lead sources brought in the most contacts this quarter?(opens in a new window)](<https://chatgpt.com/?prompt=%40HubSpot+Which+lead+sources+brought+in+the+most+contacts+this+quarter%3F>)
 
 Use case: [Operations](</business/plugins/?tab=plugins-operations>), [Sales](</business/plugins/?tab=plugins-sales-commerce>), and [Small Business](</business/plugins/?tab=plugins-small-business>)
 

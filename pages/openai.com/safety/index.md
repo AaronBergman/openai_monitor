@@ -88,19 +88,13 @@ Feedback
 
 We work with industry leaders and policymakers to reduce harm and protect people across critical areas.
 
-![Illustration of two people avatar, with one smaller than the other, depicting a parent and child relationship.](https://images.ctfassets.net/kftzwdyauwt9/3Pnye15XS4LzFC5MKXMOfQ/48ed4691f91cef9d6d704c53cdfa6c65/Child_Safety_light.svg?w=3840&q=90)
-
 #### Child safety
 
 Read more
 
-![Illustration of a pair of sunglasses and a hat, depicting the concept of anonymity and privacy.](https://images.ctfassets.net/kftzwdyauwt9/1hD7jNR4a6Nm52qy2ZdzXj/959e5ffd2c51568b8a5769a4423db5b1/Private_Information_light.svg?w=3840&q=90)
-
 #### Private information
 
 Read more
-
-![An illustration of a human avatar inside of a shield depicting safety.](https://images.ctfassets.net/kftzwdyauwt9/6Ax9ev057EsSvXSPgPXQuS/8dccc721200679aeb367b537fd46e5d8/Deep_Fakes_light.svg?w=3840&q=90)
 
 #### Deep fakes
 
@@ -166,13 +160,7 @@ Read more
 
 ### [GPT-5 System CardLearn more](<https://openai.com/index/gpt-5-system-card/>)
 
-### [Addendum to OpenAI o3 and o4-mini system card: OpenAI o3 OperatorLearn more](<https://openai.com/index/o3-o4-mini-system-card-addendum-operator-o3/>)
-
-### [Addendum to OpenAI o3 and o4-mini system card: CodexLearn more](<https://openai.com/index/o3-o4-mini-codex-system-card-addendum/>)
-
-### [OpenAI o3 and o4-mini System CardLearn more](<https://openai.com/index/o3-o4-mini-system-card/>)
-
-### [Addendum to GPT-4o System Card: 4o image generationLearn more](<https://openai.com/index/gpt-4o-image-generation-system-card-addendum/>)
+Load more
 
 Research
 
@@ -184,6 +172,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)

@@ -26,13 +26,15 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 OpenAI[View all plugins](</business/plugins/>)
 
+![](https://files.openai.com/content?id=file_00000000e95471f6bca857c08854b722&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=7&sig=99d2aa1c649e05d312a91a8d58429dbd2e1ca5cbcbf4c6ecea7be67c7337eec3&v=0)![](https://files.openai.com/content?id=file_00000000e95471f6bca857c08854b722&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=7&sig=99d2aa1c649e05d312a91a8d58429dbd2e1ca5cbcbf4c6ecea7be67c7337eec3&v=0)
+
 # Conductor
 
 Track brand sentiment in AI.
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69bc9080866081919c3b70ce64e1db0d>)[Contact sales](</contact-sales/>)
 
-[Conductor Who are top competitors for “wireless earbuds”(opens in a new window)](<https://chatgpt.com/?prompt=%40Conductor+Who+are+top+competitors+for+%E2%80%9Cwireless+earbuds%E2%80%9D>)
+[![](https://files.openai.com/content?id=file_00000000df28722f805f38afa570951c&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=1&sig=5bb6adc94c55b8a48766a262cf9cadee712cbfa6498342cf0ba652b97958532e&v=0)Conductor Who are top competitors for “wireless earbuds”(opens in a new window)](<https://chatgpt.com/?prompt=%40Conductor+Who+are+top+competitors+for+%E2%80%9Cwireless+earbuds%E2%80%9D>)
 
 Use case: [Operations](</business/plugins/?tab=plugins-operations>)
 

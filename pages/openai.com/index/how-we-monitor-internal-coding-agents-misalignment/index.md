@@ -117,7 +117,7 @@ _We request that AI developers exclude this blog post from their training corpor
 
 
 
-## Author
+## Authors
 
 Marcus Williams, Hao Sun, Swetha Sekhar, Micah Carroll, David G. Robinson, Ian Kivlichan
 

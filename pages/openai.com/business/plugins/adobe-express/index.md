@@ -26,13 +26,15 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 OpenAI[View all plugins](</business/plugins/>)
 
+![](https://files.openai.com/content?id=file_00000000939071f7bfd24cf1e8d5f5fb&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=6ebfe2cc1f5b0b42e22ad009c72554b104befc2d3e0a54884a6fbfaea2420331&v=0)![](https://files.openai.com/content?id=file_00000000939071f7bfd24cf1e8d5f5fb&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=6ebfe2cc1f5b0b42e22ad009c72554b104befc2d3e0a54884a6fbfaea2420331&v=0)
+
 # Adobe Express
 
 Create flyers, posts, and graphics quickly.
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_699d522f170c81919c824678c7c03732>)[Contact sales](</contact-sales/>)
 
-[@Adobe Express I want to create an invitation for my son's birthday party.(opens in a new window)](<https://chatgpt.com/?prompt=%40Adobe+Express+I+want+to+create+an+invitation+for+my+son%27s+birthday+party.>)[@Adobe Express fill details Emma Smith's Zoo party on her 6th birthday at 45 Maple Drive(opens in a new window)](<https://chatgpt.com/?prompt=%40Adobe+Express+fill+details+Emma+Smith%27s+Zoo+party+on+her+6th+birthday+at+45+Maple+Drive>)[@Adobe Express Replace dinosaur with a baby croc(opens in a new window)](<https://chatgpt.com/?prompt=%40Adobe+Express+Replace+dinosaur+with+a+baby+croc>)
+[![](https://files.openai.com/content?id=file_00000000939071f7bfd24cf1e8d5f5fb&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=6ebfe2cc1f5b0b42e22ad009c72554b104befc2d3e0a54884a6fbfaea2420331&v=0)![](https://files.openai.com/content?id=file_00000000939071f7bfd24cf1e8d5f5fb&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=6ebfe2cc1f5b0b42e22ad009c72554b104befc2d3e0a54884a6fbfaea2420331&v=0)Adobe Express I want to create an invitation for my son's birthday party.(opens in a new window)](<https://chatgpt.com/?prompt=%40Adobe+Express+I+want+to+create+an+invitation+for+my+son%27s+birthday+party.>)[![](https://files.openai.com/content?id=file_00000000939071f7bfd24cf1e8d5f5fb&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=6ebfe2cc1f5b0b42e22ad009c72554b104befc2d3e0a54884a6fbfaea2420331&v=0)![](https://files.openai.com/content?id=file_00000000939071f7bfd24cf1e8d5f5fb&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=6ebfe2cc1f5b0b42e22ad009c72554b104befc2d3e0a54884a6fbfaea2420331&v=0)Adobe Express fill details Emma Smith's Zoo party on her 6th birthday at 45 Maple Drive(opens in a new window)](<https://chatgpt.com/?prompt=%40Adobe+Express+fill+details+Emma+Smith%27s+Zoo+party+on+her+6th+birthday+at+45+Maple+Drive>)[![](https://files.openai.com/content?id=file_00000000939071f7bfd24cf1e8d5f5fb&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=6ebfe2cc1f5b0b42e22ad009c72554b104befc2d3e0a54884a6fbfaea2420331&v=0)![](https://files.openai.com/content?id=file_00000000939071f7bfd24cf1e8d5f5fb&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=6ebfe2cc1f5b0b42e22ad009c72554b104befc2d3e0a54884a6fbfaea2420331&v=0)Adobe Express Replace dinosaur with a baby croc(opens in a new window)](<https://chatgpt.com/?prompt=%40Adobe+Express+Replace+dinosaur+with+a+baby+croc>)
 
 Use case: [Design & Creative](</business/plugins/?tab=plugins-design-creative>)
 
