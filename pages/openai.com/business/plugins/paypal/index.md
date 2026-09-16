@@ -26,15 +26,15 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 OpenAI[View all plugins](</business/plugins/>)
 
+![](https://files.openai.com/content?id=file_000000003a5c71f6a38690212fd23eb9&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=1&sig=f598ba4f0a6b7869dc10b9be408361dbe2cd56ee224ede60b76ce3dd8a9868fd)![](https://files.openai.com/content?id=file_000000003a5c71f6a38690212fd23eb9&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=1&sig=f598ba4f0a6b7869dc10b9be408361dbe2cd56ee224ede60b76ce3dd8a9868fd)
+
 # PayPal
 
 Payments and business tools
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6969249b1a948191a1a1e32116504509>)[Contact sales](</contact-sales/>)
 
-@PayPal Create a $1500 PayPal invoice for Acme Corp for web development services.
-
-![@PayPal Create a $1500 PayPal invoice for Acme Corp for web development services.](https://files.openai.com/content?id=file_000000007fa871f78851dac4c1d9d3e8&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=f18f6f36d6cb3f6e45df43e363854a9dd795f02f104c8979f9ff80281acbaa28)
+[![](https://files.openai.com/content?id=file_000000003a5c71f6a38690212fd23eb9&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=1&sig=f598ba4f0a6b7869dc10b9be408361dbe2cd56ee224ede60b76ce3dd8a9868fd)![](https://files.openai.com/content?id=file_000000003a5c71f6a38690212fd23eb9&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=1&sig=f598ba4f0a6b7869dc10b9be408361dbe2cd56ee224ede60b76ce3dd8a9868fd)PayPal Create a $1500 PayPal invoice for Acme Corp for web development services.(opens in a new window)](<https://chatgpt.com/?prompt=%40PayPal+Create+a+%241500+PayPal+invoice+for+Acme+Corp+for+web+development+services.>)
 
 Use case: [Finance](</business/plugins/?tab=plugins-finance>) and [Small Business](</business/plugins/?tab=plugins-small-business>)
 

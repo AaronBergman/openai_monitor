@@ -26,19 +26,15 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 OpenAI[View all plugins](</business/plugins/>)
 
+![](https://files.openai.com/content?id=file_000000007ed081f786d39446d9746d5c&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=8&sig=36bf3b5954d5b1ed1c41ae3b5b6fd725d3265dadb80cc88405e74313a65a8e1e&v=0)![](https://files.openai.com/content?id=file_000000007ed081f786d39446d9746d5c&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=8&sig=36bf3b5954d5b1ed1c41ae3b5b6fd725d3265dadb80cc88405e74313a65a8e1e&v=0)
+
 # Vercel
 
 Search docs and deploy apps.
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_690a90ec05c881918afb6a55dc9bbaa1>)[Contact sales](</contact-sales/>)
 
-@Vercel Audit this repo for Vercel deployment risks
-
-![@Vercel Audit this repo for Vercel deployment risks](https://files.openai.com/content?id=file_000000006ff471f691966006ae9c2d19&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=1&sig=cf5bdc428b32693a39a7b2751547eb57998d8173413f7082598f02b3a43596da)
-
-[@Vercel Which Vercel tools fit this app best(opens in a new window)](<https://chatgpt.com/?prompt=%40Vercel+Which+Vercel+tools+fit+this+app+best>)
-
-[@Vercel Help wire the Vercel app into this workflow(opens in a new window)](<https://chatgpt.com/?prompt=%40Vercel+Help+wire+the+Vercel+app+into+this+workflow>)
+[![](https://files.openai.com/content?id=file_00000000e96c722f90c74485f78831eb&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=1&sig=91892ac5549f1ba8e26b47472f8ac24137e18914a9f206d40df1e78354ee2378&v=0)Vercel Audit this repo for Vercel deployment risks(opens in a new window)](<https://chatgpt.com/?prompt=%40Vercel+Audit+this+repo+for+Vercel+deployment+risks>)[![](https://files.openai.com/content?id=file_00000000e96c722f90c74485f78831eb&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=1&sig=91892ac5549f1ba8e26b47472f8ac24137e18914a9f206d40df1e78354ee2378&v=0)Vercel Which Vercel tools fit this app best(opens in a new window)](<https://chatgpt.com/?prompt=%40Vercel+Which+Vercel+tools+fit+this+app+best>)[![](https://files.openai.com/content?id=file_00000000e96c722f90c74485f78831eb&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=1&sig=91892ac5549f1ba8e26b47472f8ac24137e18914a9f206d40df1e78354ee2378&v=0)Vercel Help wire the Vercel app into this workflow(opens in a new window)](<https://chatgpt.com/?prompt=%40Vercel+Help+wire+the+Vercel+app+into+this+workflow>)
 
 Use case: [Engineering & IT](</business/plugins/?tab=plugins-engineering-it>)
 

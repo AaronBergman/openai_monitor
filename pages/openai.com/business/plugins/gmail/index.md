@@ -26,13 +26,15 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 OpenAI[View all plugins](</business/plugins/>)
 
+![](https://files.openai.com/content?id=file_00000000990481fd9c316ee59df47fc5&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=8&sig=bd8ee8654d100eefe078aa49822119c307f7c6f39021603fafb3d083c1cb5cac&v=0)![](https://files.openai.com/content?id=file_00000000990481fd9c316ee59df47fc5&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=8&sig=bd8ee8654d100eefe078aa49822119c307f7c6f39021603fafb3d083c1cb5cac&v=0)
+
 # Gmail
 
 Find and reference emails from your inbox.
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_1p_95d39881713c8191931482a62d6edff9>)[Contact sales](</contact-sales/>)
 
-[@Gmail Summarize the last 5 messages in [subject line] and capture decisions, open questions, and what I should follow up on next(opens in a new window)](<https://chatgpt.com/?prompt=%40Gmail+Summarize+the+last+5+messages+in+%5Bsubject+line%5D+and+capture+decisions%2C+open+questions%2C+and+what+I+should+follow+up+on+next>)[@Gmail Draft a polite, firm reply to our auditor's latest email, with a short bullet list of exactly what we'll provide(opens in a new window)](<https://chatgpt.com/?prompt=%40Gmail+Draft+a+polite%2C+firm+reply+to+our+auditor%27s+latest+email%2C+with+a+short+bullet+list+of+exactly+what+we%27ll+provide>)[@Gmail Turn my latest customer escalation thread into an action tracker with owners, deadlines, and an email reference for each item(opens in a new window)](<https://chatgpt.com/?prompt=%40Gmail+Turn+my+latest+customer+escalation+thread+into+an+action+tracker+with+owners%2C+deadlines%2C+and+an+email+reference+for+each+item>)
+[![](https://files.openai.com/content?id=file_00000000fb5881f79c1246ea691411ba&cdn=1&cp=pi&ma=31881600&ts=0&p=pi&cid=8&sig=d1e8692c27cc084b92aaf2042ee475e3861fa2dbc085c344aa12e82c813e1493&v=0)Gmail Summarize the last 5 messages in [subject line] and capture decisions, open questions, and what I should follow up on next(opens in a new window)](<https://chatgpt.com/?prompt=%40Gmail+Summarize+the+last+5+messages+in+%5Bsubject+line%5D+and+capture+decisions%2C+open+questions%2C+and+what+I+should+follow+up+on+next>)[![](https://files.openai.com/content?id=file_00000000fb5881f79c1246ea691411ba&cdn=1&cp=pi&ma=31881600&ts=0&p=pi&cid=8&sig=d1e8692c27cc084b92aaf2042ee475e3861fa2dbc085c344aa12e82c813e1493&v=0)Gmail Draft a polite, firm reply to our auditor's latest email, with a short bullet list of exactly what we'll provide(opens in a new window)](<https://chatgpt.com/?prompt=%40Gmail+Draft+a+polite%2C+firm+reply+to+our+auditor%27s+latest+email%2C+with+a+short+bullet+list+of+exactly+what+we%27ll+provide>)[![](https://files.openai.com/content?id=file_00000000fb5881f79c1246ea691411ba&cdn=1&cp=pi&ma=31881600&ts=0&p=pi&cid=8&sig=d1e8692c27cc084b92aaf2042ee475e3861fa2dbc085c344aa12e82c813e1493&v=0)Gmail Turn my latest customer escalation thread into an action tracker with owners, deadlines, and an email reference for each item(opens in a new window)](<https://chatgpt.com/?prompt=%40Gmail+Turn+my+latest+customer+escalation+thread+into+an+action+tracker+with+owners%2C+deadlines%2C+and+an+email+reference+for+each+item>)
 
 Use case: [Productivity](</business/plugins/?tab=plugins-productivity>)
 

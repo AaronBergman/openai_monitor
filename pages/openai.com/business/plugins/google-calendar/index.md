@@ -26,13 +26,15 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 OpenAI[View all plugins](</business/plugins/>)
 
+![](https://files.openai.com/content?id=file_000000004f54720ca95439ac98f37bec&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=1&sig=e5d7098d5c3c07aa0e3d229476b0a0547fedb672feb751b0d0aa455dd84a6c33&v=0)![](https://files.openai.com/content?id=file_000000004f54720ca95439ac98f37bec&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=1&sig=e5d7098d5c3c07aa0e3d229476b0a0547fedb672feb751b0d0aa455dd84a6c33&v=0)
+
 # Google Calendar
 
 Look up events and availability.
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_1p_f8509de903288191b14a160c6c5d20b0>)[Contact sales](</contact-sales/>)
 
-[@Google Calendar Look at my schedule tomorrow and build a realistic day plan with focus blocks and the meetings I should prep for first(opens in a new window)](<https://chatgpt.com/?prompt=%40Google+Calendar+Look+at+my+schedule+tomorrow+and+build+a+realistic+day+plan+with+focus+blocks+and+the+meetings+I+should+prep+for+first>)[@Google Calendar Analyze my last 4 weeks of meetings and summarize how my time is split across product, sales, and ops; suggest 3 changes(opens in a new window)](<https://chatgpt.com/?prompt=%40Google+Calendar+Analyze+my+last+4+weeks+of+meetings+and+summarize+how+my+time+is+split+across+product%2C+sales%2C+and+ops%3B+suggest+3+changes>)[@Google Calendar Brief me on my next meeting: details, attendees, agenda, recent context, key topics, goals, and questions to discuss(opens in a new window)](<https://chatgpt.com/?prompt=%40Google+Calendar+Brief+me+on+my+next+meeting%3A+details%2C+attendees%2C+agenda%2C+recent+context%2C+key+topics%2C+goals%2C+and+questions+to+discuss>)
+[![](https://files.openai.com/content?id=file_00000000970481f5b8b68deb912e6bc5&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=8&sig=1b39aa1deb8a0282fdd5a8148464248cf892979c41421c48bb239eae61f7910a&v=0)Google Calendar Look at my schedule tomorrow and build a realistic day plan with focus blocks and the meetings I should prep for first(opens in a new window)](<https://chatgpt.com/?prompt=%40Google+Calendar+Look+at+my+schedule+tomorrow+and+build+a+realistic+day+plan+with+focus+blocks+and+the+meetings+I+should+prep+for+first>)[![](https://files.openai.com/content?id=file_00000000970481f5b8b68deb912e6bc5&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=8&sig=1b39aa1deb8a0282fdd5a8148464248cf892979c41421c48bb239eae61f7910a&v=0)Google Calendar Analyze my last 4 weeks of meetings and summarize how my time is split across product, sales, and ops; suggest 3 changes(opens in a new window)](<https://chatgpt.com/?prompt=%40Google+Calendar+Analyze+my+last+4+weeks+of+meetings+and+summarize+how+my+time+is+split+across+product%2C+sales%2C+and+ops%3B+suggest+3+changes>)[![](https://files.openai.com/content?id=file_00000000970481f5b8b68deb912e6bc5&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=8&sig=1b39aa1deb8a0282fdd5a8148464248cf892979c41421c48bb239eae61f7910a&v=0)Google Calendar Brief me on my next meeting: details, attendees, agenda, recent context, key topics, goals, and questions to discuss(opens in a new window)](<https://chatgpt.com/?prompt=%40Google+Calendar+Brief+me+on+my+next+meeting%3A+details%2C+attendees%2C+agenda%2C+recent+context%2C+key+topics%2C+goals%2C+and+questions+to+discuss>)
 
 Use case: [Productivity](</business/plugins/?tab=plugins-productivity>)
 

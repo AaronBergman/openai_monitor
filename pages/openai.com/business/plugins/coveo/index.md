@@ -26,13 +26,15 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 OpenAI[View all plugins](</business/plugins/>)
 
+![](https://files.openai.com/content?id=file_00000000a244722fb4d7617dd4d0de3e&cdn=1&cp=pi&ma=30326400&ts=0&p=pi&cid=1&sig=e415021db4f8bcb071c03376b31c4e68f467b7ab00dc0f85d47ff3f2e6f5b8ee&v=0)![](https://files.openai.com/content?id=file_00000000c47881f5939a1f42104d005a&cdn=1&cp=pi&ma=31881600&ts=0&p=pi&cid=8&sig=64a14e8543d4133aa2b341ae5d50d7ca8f0d6a23d99b3ba9328dac32b00b94eb&v=0)
+
 # Coveo
 
 Search across your enterprise content sources.
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_693251083bf48191a69098fd0ba36f17>)[Contact sales](</contact-sales/>)
 
-[@Coveo Use Coveo to help with this task(opens in a new window)](<https://chatgpt.com/?prompt=%40Coveo+Use+Coveo+to+help+with+this+task>)
+[![](https://files.openai.com/content?id=file_00000000280c71f581d1b587fe4e3273&cdn=1&cp=pi&ma=32659200&ts=0&p=pi&cid=1&sig=04d26c73823db45dd1f099ecbf4bf2a661c6fb6740f192f9b06bdc205e5a29b7&v=0)Coveo Use Coveo to help with this task(opens in a new window)](<https://chatgpt.com/?prompt=%40Coveo+Use+Coveo+to+help+with+this+task>)
 
 Use case: [Productivity](</business/plugins/?tab=plugins-productivity>)
 

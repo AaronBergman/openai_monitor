@@ -26,21 +26,15 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 OpenAI[View all plugins](</business/plugins/>)
 
+![](https://files.openai.com/content?id=file_000000000b0071f5a15a9c19c082b8e5&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=1&sig=2663b30a3556fd4f4ba683cb9f2229a0c1d6c2c03d5ee308c9d75206a0b9fd63&v=0)![](https://files.openai.com/content?id=file_00000000dd1871f59b6fbbe091d54c40&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=1&sig=0c80d0ad0efd55b7f0665e2b3a539a4ac11beb6ed99bb0f9b65065138f951a3c&v=0)
+
 # Atlassian Rovo
 
 Manage Jira and Confluence fast.
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_692de805e3ec8191834719067174a384>)[Contact sales](</contact-sales/>)
 
-@Atlassian Rovo Find the Confluence page that explains the latest incident and summarize the root cause and mitigations with links
-
-![@Atlassian Rovo Find the Confluence page that explains the latest incident and summarize the root cause and mitigations with links](https://files.openai.com/content?id=file_00000000384c71f7ad56d91963a13341&cdn=1&cp=pi&ma=30672000&ts=0&p=pi&cid=7&sig=40aa44674c8508e89b6be0b3fe40aa61b04ddb11f2ee73ab40089242d1b2ea6a&v=0)
-
-@Atlassian Rovo Convert this conversation into Jira tasks with clear titles acceptance criteria and owners
-
-![@Atlassian Rovo Convert this conversation into Jira tasks with clear titles acceptance criteria and owners](https://files.openai.com/content?id=file_00000000cdf071f79db0aa531cf4ec11&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=7&sig=4c347fe66269ba77b696cd22d531b5dc0e39619b817496d28e0b196764ea107b&v=0)
-
-[@Atlassian Rovo Create a QBR style summary using the last month of Jira delivery metrics plus the key Confluence decision notes(opens in a new window)](<https://chatgpt.com/?prompt=%40Atlassian+Rovo+Create+a+QBR+style+summary+using+the+last+month+of+Jira+delivery+metrics+plus+the+key+Confluence+decision+notes>)
+[![](https://files.openai.com/content?id=file_00000000fba081f5a22f635536f8fa4a&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=8&sig=4b57dba9e15efce912cb1c15fb3dd87d4c17f8b52cacc1ed934111ba43cc1861&v=0)Atlassian Rovo (Legacy) Find the Confluence page that explains the latest incident and summarize the root cause and mitigations with links(opens in a new window)](<https://chatgpt.com/?prompt=%40Atlassian+Rovo+%28Legacy%29+Find+the+Confluence+page+that+explains+the+latest+incident+and+summarize+the+root+cause+and+mitigations+with+links>)[![](https://files.openai.com/content?id=file_00000000fba081f5a22f635536f8fa4a&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=8&sig=4b57dba9e15efce912cb1c15fb3dd87d4c17f8b52cacc1ed934111ba43cc1861&v=0)Atlassian Rovo (Legacy) Convert this conversation into Jira tasks with clear titles acceptance criteria and owners(opens in a new window)](<https://chatgpt.com/?prompt=%40Atlassian+Rovo+%28Legacy%29+Convert+this+conversation+into+Jira+tasks+with+clear+titles+acceptance+criteria+and+owners>)[![](https://files.openai.com/content?id=file_00000000fba081f5a22f635536f8fa4a&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=8&sig=4b57dba9e15efce912cb1c15fb3dd87d4c17f8b52cacc1ed934111ba43cc1861&v=0)Atlassian Rovo (Legacy) Create a QBR style summary using the last month of Jira delivery metrics plus the key Confluence decision notes(opens in a new window)](<https://chatgpt.com/?prompt=%40Atlassian+Rovo+%28Legacy%29+Create+a+QBR+style+summary+using+the+last+month+of+Jira+delivery+metrics+plus+the+key+Confluence+decision+notes>)
 
 Use case: [Productivity](</business/plugins/?tab=plugins-productivity>)
 

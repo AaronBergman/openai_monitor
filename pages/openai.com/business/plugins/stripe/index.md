@@ -26,13 +26,15 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 OpenAI[View all plugins](</business/plugins/>)
 
+![](https://files.openai.com/content?id=file_00000000679472069fa7c35ce5919579&cdn=1&cp=pi&ma=32140800&ts=0&p=pi&cid=8&sig=38636a046f717091f234b4cacc5910c1314058595218bebbe09a395bf5f680c1&v=0)![](https://files.openai.com/content?id=file_00000000679472069fa7c35ce5919579&cdn=1&cp=pi&ma=32140800&ts=0&p=pi&cid=8&sig=38636a046f717091f234b4cacc5910c1314058595218bebbe09a395bf5f680c1&v=0)
+
 # Stripe
 
-Manage your business and develop your payments integration.
+Use the Stripe plugin for ChatGPT to analyze live revenue, customers, subscriptions, disputes, and refunds, and build payment integrations.
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_690ab09fa43c8191bca40280e4563238>)[Contact sales](</contact-sales/>)
 
-[@Stripe Show me the list of my customers(opens in a new window)](<https://chatgpt.com/?prompt=%40Stripe+Show+me+the+list+of+my+customers>)[@Stripe Show me what products I have(opens in a new window)](<https://chatgpt.com/?prompt=%40Stripe+Show+me+what+products+I+have>)[@Stripe Tell me the prices I have created(opens in a new window)](<https://chatgpt.com/?prompt=%40Stripe+Tell+me+the+prices+I+have+created>)
+[![](https://files.openai.com/content?id=file_0000000007fc81f794e4c935362dc538&cdn=1&cp=pi&ma=32140800&ts=0&p=pi&cid=8&sig=60e996a8a54e3052fcb5f967015ec5b2ebef20592c41388121afb65644056360&v=0)Stripe Show me the list of my customers(opens in a new window)](<https://chatgpt.com/?prompt=%40Stripe+Show+me+the+list+of+my+customers>)[![](https://files.openai.com/content?id=file_0000000007fc81f794e4c935362dc538&cdn=1&cp=pi&ma=32140800&ts=0&p=pi&cid=8&sig=60e996a8a54e3052fcb5f967015ec5b2ebef20592c41388121afb65644056360&v=0)Stripe Show me what products I have(opens in a new window)](<https://chatgpt.com/?prompt=%40Stripe+Show+me+what+products+I+have>)[![](https://files.openai.com/content?id=file_0000000007fc81f794e4c935362dc538&cdn=1&cp=pi&ma=32140800&ts=0&p=pi&cid=8&sig=60e996a8a54e3052fcb5f967015ec5b2ebef20592c41388121afb65644056360&v=0)Stripe Tell me the prices I have created(opens in a new window)](<https://chatgpt.com/?prompt=%40Stripe+Tell+me+the+prices+I+have+created>)
 
 Use case: [Finance](</business/plugins/?tab=plugins-finance>) and [Small Business](</business/plugins/?tab=plugins-small-business>)
 

@@ -26,15 +26,15 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 OpenAI[View all plugins](</business/plugins/>)
 
+![](https://files.openai.com/content?id=file_00000000440471f78cffc365511b8e80&cdn=1&cp=pi&ma=31881600&ts=0&p=pi&cid=1&sig=f07f4498df598353d97a997b6083d811acabaa559bf865c1e012389aad85a3e5&v=0)![](https://files.openai.com/content?id=file_00000000614c81f7b00a55473b0b8625&cdn=1&cp=pi&ma=32659200&ts=0&p=pi&cid=8&sig=1527d020b439d685cc304514980277b8e9d0958d3ca770e3036fd6edc98c1683&v=0)
+
 # Egnyte
 
 Explore and analyyze your content.
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_691f749cd9088191befeb1d543c37d98>)[Contact sales](</contact-sales/>)
 
-@Egnyte What IT contracts do we have
-
-![@Egnyte What IT contracts do we have](https://chatgpt.com/backend-api/estuary/content?id=file_00000000222871f6a429c3b27ea708a2&cp=pi&ma=32745600&ts=0&p=pi&cid=1&sig=da50999d0ddf0dc2f580cf00f7824e8c22ab4c6bdf5ae518fbfb9c5ef7d9ad7d)
+[![](https://files.openai.com/content?id=file_000000003bb8722fbea64d0a87f36d33&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=1&sig=7355697d61901b3cb56a17429fac65bc32bcba65b1a8bd4403c9fb574fd742db&v=0)Egnyte What IT contracts do we have(opens in a new window)](<https://chatgpt.com/?prompt=%40Egnyte+What+IT+contracts+do+we+have>)
 
 Use case: [Productivity](</business/plugins/?tab=plugins-productivity>)
 

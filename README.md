@@ -1,5 +1,38 @@
 # openai_monitor
 
+## 2026-09-16T09-15Z
+
+**Fetch time:** 2026-09-16T09:15Z–09:23Z UTC | **Baseline:** 2026-09-15T09-16Z (consecutive day)
+
+**TL;DR:** A busier-than-usual day: 3 new pages and 367 pages touching `<lastmod>` (vs. the recent norm of 0–250). The standout find is a page revealing a previously-unannounced OpenAI advertising beta — **"Sponsored Agents"** — being tested with HubSpot, gated behind a minimum daily ad-spend and referencing a "ChatGPT Ads account." Two other new pages: a new OpenAI partner, **EXL Service**, and a gated report announcing OpenAI was named a **Leader in the 2026 Gartner Magic Quadrant for Enterprise AI Assistants** (#1 for Agentic Workflows Use Case). Release notes gained two real entries: ChatGPT Health connections now default to auto-allow, and OpenAI is retiring automatic switching to "Thinking" mode for Plus/Pro users. Of the 367 lastmod-touched pages, only 168 had any visible content diff, and almost all of those were noise: continued rollout of clickable-icon prompt chips across ~130 plugin pages, "Keep reading" carousel reshuffles, and more pages catching up on a footer link added days ago. One plugin (Jam) was recategorized from "Productivity" to "Engineering & IT." No removals; no timestamp anomalies. 1709 total URLs across 38 sub-sitemaps.
+
+### Anomalies
+
+None of the usual kind (no future-dated or backwards-moving `<lastmod>` values, no backdated new URLs, no reappeared URLs). One **section migration**: `/business/plugins/jam-dev/` moved from the `plugins-productivity` sub-sitemap to `plugins-engineering-it`, matching an on-page "Use case" tag change from Productivity to Engineering & IT. Full detail in [`runs/2026-09-16T09-15Z/analysis.md`](runs/2026-09-16T09-15Z/analysis.md).
+
+### Notable additions
+
+- **[Register your interest in Sponsored Agents with HubSpot](pages/openai.com/form/sponsored-agents-hubspot/index.md)** — a lead-capture form for an unannounced OpenAI advertising beta called "Sponsored Agents." Eligibility criteria mentioned include "creative automation, automatic bidding, and a minimum daily ad spend for 28 days," and the form asks whether the registrant already has a "ChatGPT Ads account" — the first appearance of that term anywhere in this monitor's history. No public announcement page exists yet.
+- **[EXL Service](pages/openai.com/business/partners/exl-service/index.md)** — new OpenAI partner profile. EXL is a 68,000+ employee global data-and-AI company running an agentic platform ("EXLerate.ai") on OpenAI models for insurers, banks, healthcare payers, and life-sciences firms; also added to the logo grid on [`/business/partners/`](pages/openai.com/business/partners/index.md).
+- **[Download the Gartner Magic Quadrant for Enterprise AI Assistants](pages/openai.com/business/learn/gartner-2026-enterprise-ai-assistants-leader/index.md)** — gated report landing page: OpenAI named a Leader in the 2026 Gartner Magic Quadrant for Enterprise AI Assistants, ranked #1 for Agentic Workflows Use Case in the accompanying Critical Capabilities report.
+
+### Notable updates
+
+- **[Release notes](pages/openai.com/products/release-notes/index.md)** — two new entries: (1) "Updated permissions for new Health connections" (ChatGPT, GA, Sep 14) — new Health plugin connections now default to the user's global Plugins permission setting (default "Allow low-risk actions"), citing that 70%+ of Health users already choose that setting; (2) "Retiring automatic switching to Thinking in ChatGPT" (ChatGPT, Sunset) — OpenAI is retiring automatic Instant→Thinking switching and the "Higher intelligence" web setting for Plus/Pro users globally; manual model-picker selection still works.
+- **Continued plugin-directory UI rollout (~130 pages under `/business/plugins/*`)** — the icon-next-to-prompt-chip treatment that appeared on ~40 plugin pages yesterday rolled out to the rest of the directory today. Cosmetic/interaction polish only.
+- **[Safety hub](pages/openai.com/safety/index.md)** — reflow: dropped three small category icons (Child Safety, Private Information, Deep Fakes) and replaced a static list of four older system-card links with a "Load more" pagination control; also picked up the routine "GPT-6" footer-nav link. Content is presumably still reachable via pagination — not a real removal.
+- **"Keep reading" / research-listing reshuffles (~30 pages)** — widgets on `/research/index/`, `/research/index/publication/`, `/news/research/`, and various `/index/*` story pages reordered to surface already-known recent items (GPT-6 Astra, Fyxer, Paul Christiano board appointment, Navier–Stokes solution, GPT-Live-1). No new information.
+- ~15 other pages picked up the already-known "GPT-6" footer-nav link, and 199 URLs bumped `<lastmod>` with **zero visible content change** (build/re-render noise).
+
+### Removed pages
+
+None this run.
+
+_Stats: 1709 total URLs | 3 added | 367 updated (168 with real content change) | 0 removed | 1 anomaly (section migration) | 38 sub-sitemaps_
+
+---
+
+
 ## 2026-09-15T09-16Z
 
 **Fetch time:** 2026-09-15T09:16Z–09:22Z UTC | **Baseline:** 2026-09-14T09-16Z (consecutive day)

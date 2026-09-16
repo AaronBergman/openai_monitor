@@ -26,23 +26,15 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 OpenAI[View all plugins](</business/plugins/>)
 
+![](https://files.openai.com/content?id=file_000000003dec71f58ea31d11943374ac&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=1&sig=74ea60b3dccd88f76296af895d81de15f4ed38ee02b05e86001f9ee5e0091c6d&v=0)![](https://files.openai.com/content?id=file_000000003dec71f58ea31d11943374ac&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=1&sig=74ea60b3dccd88f76296af895d81de15f4ed38ee02b05e86001f9ee5e0091c6d&v=0)
+
 # Box
 
 Search and reference your documents.
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_695bfc98071c8191bac7bc479aa27de7>)[Contact sales](</contact-sales/>)
 
-@Box Find the contract's termination for convenience clause and quote it with a file reference for Legal to verify
-
-![@Box Find the contract's termination for convenience clause and quote it with a file reference for Legal to verify](https://files.openai.com/content?id=file_0000000028a871f7ad8cd808f365fc06&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=7&sig=12948a06b235c29083eea3de3c7b6a109f76d02ee98efe29557882f376ba6f5a&v=0)
-
-@Box Turn these docs into a clean onboarding guide for new analysts, with an actionable checklist for week 1
-
-![@Box Turn these docs into a clean onboarding guide for new analysts, with an actionable checklist for week 1](https://files.openai.com/content?id=file_0000000083dc71f7ad701eef9d9cc526&cdn=1&cp=pi&ma=31363200&ts=0&p=pi&cid=7&sig=2b6d0133ca6ebbfdca5b0c9b37ace80fdc067d16493ed514303470a6e7e17dc7&v=0)
-
-@Box Combine research docs, support summaries, and specs in [folder] into a single synthesis with themes and evidence for each
-
-![@Box Combine research docs, support summaries, and specs in \[folder\] into a single synthesis with themes and evidence for each](https://files.openai.com/content?id=file_00000000c99471f7921f0aa0beff074e&cdn=1&cp=pi&ma=30585600&ts=0&p=pi&cid=7&sig=45646d6967f58f776125fe8de4d706eb9c24c9d5c053fe6f8ba1774f39105b54&v=0)
+[![](https://files.openai.com/content?id=file_00000000f2dc81f78bf30509052978b6&cdn=1&cp=pi&ma=30240000&ts=0&p=pi&cid=8&sig=acdb1451e132ccfb4725fb76a774dc395606b11d488ef1d5b5f5df0104dede16&v=0)Box Find the contract's termination for convenience clause and quote it with a file reference for Legal to verify(opens in a new window)](<https://chatgpt.com/?prompt=%40Box+Find+the+contract%27s+termination+for+convenience+clause+and+quote+it+with+a+file+reference+for+Legal+to+verify>)[![](https://files.openai.com/content?id=file_00000000f2dc81f78bf30509052978b6&cdn=1&cp=pi&ma=30240000&ts=0&p=pi&cid=8&sig=acdb1451e132ccfb4725fb76a774dc395606b11d488ef1d5b5f5df0104dede16&v=0)Box Turn these docs into a clean onboarding guide for new analysts, with an actionable checklist for week 1(opens in a new window)](<https://chatgpt.com/?prompt=%40Box+Turn+these+docs+into+a+clean+onboarding+guide+for+new+analysts%2C+with+an+actionable+checklist+for+week+1>)[![](https://files.openai.com/content?id=file_00000000f2dc81f78bf30509052978b6&cdn=1&cp=pi&ma=30240000&ts=0&p=pi&cid=8&sig=acdb1451e132ccfb4725fb76a774dc395606b11d488ef1d5b5f5df0104dede16&v=0)Box Combine research docs, support summaries, and specs in [folder] into a single synthesis with themes and evidence for each(opens in a new window)](<https://chatgpt.com/?prompt=%40Box+Combine+research+docs%2C+support+summaries%2C+and+specs+in+%5Bfolder%5D+into+a+single+synthesis+with+themes+and+evidence+for+each>)
 
 Use case: [Productivity](</business/plugins/?tab=plugins-productivity>)
 

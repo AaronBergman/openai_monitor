@@ -26,6 +26,8 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 OpenAI[View all plugins](</business/plugins/>)
 
+![](https://files.openai.com/content?id=file_00000000af747230bc1606d46c839ee8&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=1&sig=c8a8bc6383ae28c34005525b223aab157382f62b2c5ff707b76f4a38b1b33e32&v=0)![](https://files.openai.com/content?id=file_00000000af747230bc1606d46c839ee8&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=1&sig=c8a8bc6383ae28c34005525b223aab157382f62b2c5ff707b76f4a38b1b33e32&v=0)
+
 # Daloopa
 
 Access financial KPIs with source links.

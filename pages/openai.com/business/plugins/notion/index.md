@@ -26,13 +26,15 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 OpenAI[View all plugins](</business/plugins/>)
 
+![](https://files.openai.com/content?id=file_00000000dca471f5a61c7e4a3fab77a4&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=1&sig=63bacca4cbadf25340543a539567d26664d1f530be2b3f6119d3aaeb4edbed56&v=0)![](https://files.openai.com/content?id=file_00000000aaf8722f9e07cbdd00ea7ad8&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=1&sig=450cfa6b24e75515f4907572297126983f2d33e3f6f73cab443b4b5596a0deef&v=0)
+
 # Notion
 
 Search and reference your Notion pages.
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69c18c28f1188191bf5b8445c4ab0a2e>)[Contact sales](</contact-sales/>)
 
-[@Notion Find the latest decision on pricing for [project] and summarize it with the supporting page links(opens in a new window)](<https://chatgpt.com/?prompt=%40Notion+Find+the+latest+decision+on+pricing+for+%5Bproject%5D+and+summarize+it+with+the+supporting+page+links>)[@Notion Create a roadmap database with properties for owner, status, quarter, and risk then populate it from this list of initiatives(opens in a new window)](<https://chatgpt.com/?prompt=%40Notion+Create+a+roadmap+database+with+properties+for+owner%2C+status%2C+quarter%2C+and+risk+then+populate+it+from+this+list+of+initiatives>)[@Notion Audit our top product docs for outdated info and give me a punch list of pages that should be updated first(opens in a new window)](<https://chatgpt.com/?prompt=%40Notion+Audit+our+top+product+docs+for+outdated+info+and+give+me+a+punch+list+of+pages+that+should+be+updated+first>)
+[![](https://files.openai.com/content?id=file_0000000035e081f78f1775acc52fc7e9&cdn=1&cp=pi&ma=32227200&ts=0&p=pi&cid=8&sig=70a4ffd53544abaed2c5f9108261ce67b893313dde6b5fb3d1c02e93d83ecfcc&v=0)Notion Find the latest decision on pricing for [project] and summarize it with the supporting page links(opens in a new window)](<https://chatgpt.com/?prompt=%40Notion+Find+the+latest+decision+on+pricing+for+%5Bproject%5D+and+summarize+it+with+the+supporting+page+links>)[![](https://files.openai.com/content?id=file_0000000035e081f78f1775acc52fc7e9&cdn=1&cp=pi&ma=32227200&ts=0&p=pi&cid=8&sig=70a4ffd53544abaed2c5f9108261ce67b893313dde6b5fb3d1c02e93d83ecfcc&v=0)Notion Create a roadmap database with properties for owner, status, quarter, and risk then populate it from this list of initiatives(opens in a new window)](<https://chatgpt.com/?prompt=%40Notion+Create+a+roadmap+database+with+properties+for+owner%2C+status%2C+quarter%2C+and+risk+then+populate+it+from+this+list+of+initiatives>)[![](https://files.openai.com/content?id=file_0000000035e081f78f1775acc52fc7e9&cdn=1&cp=pi&ma=32227200&ts=0&p=pi&cid=8&sig=70a4ffd53544abaed2c5f9108261ce67b893313dde6b5fb3d1c02e93d83ecfcc&v=0)Notion Audit our top product docs for outdated info and give me a punch list of pages that should be updated first(opens in a new window)](<https://chatgpt.com/?prompt=%40Notion+Audit+our+top+product+docs+for+outdated+info+and+give+me+a+punch+list+of+pages+that+should+be+updated+first>)
 
 Use case: [Productivity](</business/plugins/?tab=plugins-productivity>)
 

@@ -26,21 +26,15 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 OpenAI[View all plugins](</business/plugins/>)
 
+![](https://files.openai.com/content?id=file_000000003d64820c9105c859db57fe4d&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=8&sig=bc9fd0fe7aa6a14439c3dae08ded4377aa99f2dd20e5b52ca3db8dd40fd5d2fc&v=0)![](https://files.openai.com/content?id=file_000000001f3c81fd88149faceddc19df&cdn=1&cp=pi&ma=32659200&ts=0&p=pi&cid=8&sig=f45f28e94aaa8443b2c849d11cfe2c843efe0d98efc51230e2ab72c39610b193&v=0)
+
 # Figma
 
 Make diagrams, slides, assets.
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_68df038e0ba48191908c8434991bbac2>)[Contact sales](</contact-sales/>)
 
-@Figma Make a simple mobile onboarding wireframe for an app with 5 screens and clear copy placeholders
-
-![@Figma Make a simple mobile onboarding wireframe for an app with 5 screens and clear copy placeholders](https://files.openai.com/content?id=file_0000000008dc71f79812776d609a0f05&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=7&sig=c71053d3ce62bf3dc2bbcb103a20e9f90aff27b61497e486d019204a1133ea75&v=0)
-
-@Figma Create a FigJam flow diagram for our procurement process from request to approval to payment including decision points
-
-![@Figma Create a FigJam flow diagram for our procurement process from request to approval to payment including decision points](https://files.openai.com/content?id=file_0000000093c071f791b61c93d7285421&cdn=1&cp=pi&ma=32486400&ts=0&p=pi&cid=7&sig=633b64a89a3df0f445ba5ab594186b6cfb95d8cf96d1985f29b8f472ca253537&v=0)
-
-[@Figma Convert this user journey text into a storyboard layout with frames for key moments and annotations(opens in a new window)](<https://chatgpt.com/?prompt=%40Figma+Convert+this+user+journey+text+into+a+storyboard+layout+with+frames+for+key+moments+and+annotations>)
+[![](https://files.openai.com/content?id=file_00000000e83081f59a4ed665b9fe9d21&cdn=1&cp=pi&ma=32140800&ts=0&p=pi&cid=8&sig=9c86c2a95c26dd1e355f00de75b6977fcb4381b4d7c7bc45a958a450dcde059e&v=0)Figma Make a simple mobile onboarding wireframe for an app with 5 screens and clear copy placeholders(opens in a new window)](<https://chatgpt.com/?prompt=%40Figma+Make+a+simple+mobile+onboarding+wireframe+for+an+app+with+5+screens+and+clear+copy+placeholders>)[![](https://files.openai.com/content?id=file_00000000e83081f59a4ed665b9fe9d21&cdn=1&cp=pi&ma=32140800&ts=0&p=pi&cid=8&sig=9c86c2a95c26dd1e355f00de75b6977fcb4381b4d7c7bc45a958a450dcde059e&v=0)Figma Create a FigJam flow diagram for our procurement process from request to approval to payment including decision points(opens in a new window)](<https://chatgpt.com/?prompt=%40Figma+Create+a+FigJam+flow+diagram+for+our+procurement+process+from+request+to+approval+to+payment+including+decision+points>)[![](https://files.openai.com/content?id=file_00000000e83081f59a4ed665b9fe9d21&cdn=1&cp=pi&ma=32140800&ts=0&p=pi&cid=8&sig=9c86c2a95c26dd1e355f00de75b6977fcb4381b4d7c7bc45a958a450dcde059e&v=0)Figma Convert this user journey text into a storyboard layout with frames for key moments and annotations(opens in a new window)](<https://chatgpt.com/?prompt=%40Figma+Convert+this+user+journey+text+into+a+storyboard+layout+with+frames+for+key+moments+and+annotations>)
 
 Use case: [Design & Creative](</business/plugins/?tab=plugins-design-creative>) and [Small Business](</business/plugins/?tab=plugins-small-business>)
 

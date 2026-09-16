@@ -26,13 +26,15 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 OpenAI[View all plugins](</business/plugins/>)
 
+![](https://files.openai.com/content?id=file_00000000649881f78407f95b8ef708d5&cdn=1&cp=pi&ma=32659200&ts=0&p=pi&cid=8&sig=0bd3c0fdb82a0a8da2c99a9e4b526f0f84728962fd7637ee5423661fb7ef4db7&v=0)![](https://files.openai.com/content?id=file_00000000649881f78407f95b8ef708d5&cdn=1&cp=pi&ma=32659200&ts=0&p=pi&cid=8&sig=0bd3c0fdb82a0a8da2c99a9e4b526f0f84728962fd7637ee5423661fb7ef4db7&v=0)
+
 # Intuit QuickBooks
 
 Business finances made simple
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_697aea3231288191b28a0061066e51bd>)[Contact sales](</contact-sales/>)
 
-[@Intuit QuickBooks Show top five industries in California by monthly profit(opens in a new window)](<https://chatgpt.com/?prompt=%40Intuit+QuickBooks+Show+top+five+industries+in+California+by+monthly+profit>)[@Intuit QuickBooks How does my profit compare to top 5 industries in my area(opens in a new window)](<https://chatgpt.com/?prompt=%40Intuit+QuickBooks+How+does+my+profit+compare+to+top+5+industries+in+my+area>)[@Intuit QuickBooks Show me my profit and loss statement from QuickBooks(opens in a new window)](<https://chatgpt.com/?prompt=%40Intuit+QuickBooks+Show+me+my+profit+and+loss+statement+from+QuickBooks>)
+[![](https://files.openai.com/content?id=file_000000001e20722faa250d589f9cc0a7&cdn=1&cp=pi&ma=31968000&ts=0&p=pi&cid=1&sig=f44443a7c89e1f9033c6d368294ce35ad745384035de2f20b422b7eabc1f2d8e&v=0)Intuit QuickBooks Show top five industries in California by monthly profit(opens in a new window)](<https://chatgpt.com/?prompt=%40Intuit+QuickBooks+Show+top+five+industries+in+California+by+monthly+profit>)[![](https://files.openai.com/content?id=file_000000001e20722faa250d589f9cc0a7&cdn=1&cp=pi&ma=31968000&ts=0&p=pi&cid=1&sig=f44443a7c89e1f9033c6d368294ce35ad745384035de2f20b422b7eabc1f2d8e&v=0)Intuit QuickBooks How does my profit compare to top 5 industries in my area(opens in a new window)](<https://chatgpt.com/?prompt=%40Intuit+QuickBooks+How+does+my+profit+compare+to+top+5+industries+in+my+area>)[![](https://files.openai.com/content?id=file_000000001e20722faa250d589f9cc0a7&cdn=1&cp=pi&ma=31968000&ts=0&p=pi&cid=1&sig=f44443a7c89e1f9033c6d368294ce35ad745384035de2f20b422b7eabc1f2d8e&v=0)Intuit QuickBooks Show me my profit and loss statement from QuickBooks(opens in a new window)](<https://chatgpt.com/?prompt=%40Intuit+QuickBooks+Show+me+my+profit+and+loss+statement+from+QuickBooks>)
 
 Use case: [Finance](</business/plugins/?tab=plugins-finance>) and [Small Business](</business/plugins/?tab=plugins-small-business>)
 

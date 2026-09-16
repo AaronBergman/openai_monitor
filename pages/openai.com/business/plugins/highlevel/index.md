@@ -26,13 +26,15 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 OpenAI[View all plugins](</business/plugins/>)
 
+![](https://files.openai.com/content?id=file_0000000061a871f68140faf1037004cb&cdn=1&cp=pi&ma=31536000&ts=0&p=pi&cid=1&sig=b69c702ca391a3df6bd3fedfb2f21ce65b3f8694d7d27029410cb9ebc1e58215)![](https://files.openai.com/content?id=file_0000000061a871f68140faf1037004cb&cdn=1&cp=pi&ma=31536000&ts=0&p=pi&cid=1&sig=b69c702ca391a3df6bd3fedfb2f21ce65b3f8694d7d27029410cb9ebc1e58215)
+
 # HighLevel
 
 Interact with your CRM business data.
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69402343886881919c40ceb13a6ea1c2>)[Contact sales](</contact-sales/>)
 
-[HighLevel Give me overview of how things have been(opens in a new window)](<https://chatgpt.com/?prompt=%40HighLevel+Give+me+overview+of+how+things+have+been>)
+[![](https://files.openai.com/content?id=file_00000000d1f8720cba3022968ab73596&cdn=1&cp=pi&ma=31536000&ts=0&p=pi&cid=1&sig=f0ed88b0bcf4825b2256c341201ce481bd05322719f20eb08ad6d89aff9f0ee4&v=0)HighLevel Give me overview of how things have been(opens in a new window)](<https://chatgpt.com/?prompt=%40HighLevel+Give+me+overview+of+how+things+have+been>)
 
 Use case: [Operations](</business/plugins/?tab=plugins-operations>)
 

@@ -79,6 +79,10 @@ Gartner does not endorse any company, vendor, product or service depicted in its
 
 [View all](</news/>)
 
+![How AI-native companies turn workflows into operating capability — card image](https://images.ctfassets.net/kftzwdyauwt9/mSi6hls2IXr3ax2lH8vTj/5a364b116ec5584ec7415feb4c1a7033/index-how-ai-native-companies-turn-workflows-into-operating-capability--cover-v001.png?w=3840&q=90&fm=webp)
+
+[How AI-native companies turn workflows into operating capabilityAI AdoptionSep 1, 2026](</index/ai-native-company-workflows/>)
+
 ![Introducing the Admin plugin for ChatGPT Work and Codex — art card v2](https://images.ctfassets.net/kftzwdyauwt9/i8FWARGpSxYbF9iCeAgfQ/5f0480157bd0a08505801483eb7a1e4b/cover-v2.png?w=3840&q=90&fm=webp)
 
 [Introducing the Admin plugin for ChatGPT Work and CodexAI AdoptionAug 25, 2026](</index/introducing-admin-plugin/>)
@@ -86,10 +90,6 @@ Gartner does not endorse any company, vendor, product or service depicted in its
 ![Building AI for the ambitions of small businesses > Card image](https://images.ctfassets.net/kftzwdyauwt9/7wmfLwQnQQpV1xogqASUpR/76c80831b475e17a187ba35a7e0a46c8/SMB_launch_blog_1x1.png?w=3840&q=90&fm=webp)
 
 [Introducing the ChatGPT for small business programAI AdoptionJul 21, 2026](</index/introducing-chatgpt-small-business-program/>)
-
-![How to manage AI investments in the agentic era > Cover image](https://images.ctfassets.net/kftzwdyauwt9/1qXMreHMXalbFSVXr2CJXW/acbd7f4e05bd38b80a99523967ef69b7/Frame.png?w=3840&q=90&fm=webp)
-
-[How to manage AI investments in the agentic eraAI AdoptionJul 14, 2026](</index/managing-ai-investments-in-agentic-era/>)
 
 Research
 
@@ -101,6 +101,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)

@@ -58,23 +58,17 @@ See FAQs for more details.
 
 Install the plugin to give ChatGPT access to Stripe skills for building and maintaining Stripe integrations.
 
-![Code icon.](https://images.ctfassets.net/kftzwdyauwt9/7F0aB0DK2k4mCy0Xy2iwbs/94e6712f48d738848dcc76daba149df8/code.svg?w=3840&q=90)
-
 #### Build with current Stripe guidance
 
 Build payments and billing integrations
 
 Get guidance on payments, subscriptions, tax, financial accounts, and secure webhook handling.
 
-![Search connection icon.](https://images.ctfassets.net/kftzwdyauwt9/7Ii2s2ueLBfnQqgCOvuT3w/f7f9b61aabd8687e1548014206cf7a20/search-connection__magnifying-glass-lg-connection.svg?w=3840&q=90)
-
 #### Query live Stripe data with no manual config
 
 Set up marketplaces and platforms
 
 Choose a Stripe Connect configuration, onboard sellers, manage payouts, and understand verification requirements.
-
-![Circle grid icon.](https://images.ctfassets.net/kftzwdyauwt9/3NTxhdZvNjIshlqDX0AJpg/bfa874552a0f88c24c6c327ad5cb0593/circle-grid__circle-grid-2x2.svg?w=3840&q=90)
 
 #### Use specialized skills for payments, Connect, upgrades, and more
 

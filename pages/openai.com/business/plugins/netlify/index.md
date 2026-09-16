@@ -26,19 +26,15 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 OpenAI[View all plugins](</business/plugins/>)
 
+![](https://files.openai.com/content?id=file_00000000586c720ca16749edcfc2d0bb&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=1&sig=21aa84db12572cc51ca8196a442350fc0e60cfbf938e0c7b1405f3530d8700d2&v=0)![](https://files.openai.com/content?id=file_00000000e6a481f79673b2cee81b72b3&cdn=1&cp=pi&ma=30499200&ts=0&p=pi&cid=8&sig=494c8d6830248b749516d8f6b2e3966301fc75169465bac49c061193105eaccd&v=0)
+
 # Netlify
 
 Build and deploy sites on Netlify.
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_691f1f8f72408191afdbbdf8242bdf86>)[Contact sales](</contact-sales/>)
 
-@Netlify Deploy this project to Netlify and return the preview URL plus any required fixes
-
-![@Netlify Deploy this project to Netlify and return the preview URL plus any required fixes](https://files.openai.com/content?id=file_000000001e5871f689d2f25cac828a6c&cdn=1&cp=pi&ma=30931200&ts=0&p=pi&cid=1&sig=5aef61a2cbab4491522f71ca0edf0517b4100b12348ba92bff0df2fdd36a9711)
-
-![Netlify](https://files.openai.com/content?id=file_00000000338c71f6a9b7b2a76fb86d9b&cdn=1&cp=pi&ma=30326400&ts=0&p=pi&cid=1&sig=6a1f0498524002203a2cefbc09b3026d7ce971cf73757beb11056f1b5d55b2c7)
-
-![Netlify](https://files.openai.com/content?id=file_0000000015b071f685b1b175dfb38035&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=1&sig=b7d9e59547a7d06d3190ca09ca981cdacf171cb2b2b3ef6391d4737e5e7e2028)
+[![](https://files.openai.com/content?id=file_00000000075071f597aa27ecc6b886dc&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=1&sig=042cb4d8093f65e8071678d14c61675a616ca92949d66f3cd18171dcd8b279da&v=0)Netlify Deploy this project to Netlify and return the preview URL plus any required fixes(opens in a new window)](<https://chatgpt.com/?prompt=%40Netlify+Deploy+this+project+to+Netlify+and+return+the+preview+URL+plus+any+required+fixes>)
 
 Use case: [Engineering & IT](</business/plugins/?tab=plugins-engineering-it>)
 

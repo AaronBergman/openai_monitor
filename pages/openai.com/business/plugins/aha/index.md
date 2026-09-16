@@ -26,13 +26,15 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 OpenAI[View all plugins](</business/plugins/>)
 
+![](https://files.openai.com/content?id=file_00000000de3871f5a9d61f22fb5dc4fa&cdn=1&cp=pi&ma=30326400&ts=0&p=pi&cid=1&sig=30b770fbf2ff2445d1258c5266aefd30443586d3a61879ac51b37c1d0108e7e0&v=0)![](https://files.openai.com/content?id=file_000000001c0c720c824da845c28f9ae7&cdn=1&cp=pi&ma=30758400&ts=0&p=pi&cid=1&sig=6b297121107324c4226f3866945f82ede702bf19748225f48fbbba451f883232&v=0)
+
 # Aha!
 
 Connect to sync Aha! product roadmaps and features for use in ChatGPT.
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_templated_apps_6a75de1e29a081919a00e5aaa57568d6>)[Contact sales](</contact-sales/>)
 
-[@Aha! Summarize the customer feedback we received last week.(opens in a new window)](<https://chatgpt.com/?prompt=%40Aha%21+Summarize+the+customer+feedback+we+received+last+week.>)[@Aha! Create an executive summary of the upcoming release.(opens in a new window)](<https://chatgpt.com/?prompt=%40Aha%21+Create+an+executive+summary+of+the+upcoming+release.>)[@Aha! Report out progress and risks for my product initiatives.(opens in a new window)](<https://chatgpt.com/?prompt=%40Aha%21+Report+out+progress+and+risks+for+my+product+initiatives.>)
+[![](https://files.openai.com/content?id=file_00000000d94481f7a5d7fe678c79e2d3&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=8&sig=17e8c83c42eb29fe23a9ddeafefe51f6f355a986fd413c3f34febd802aef2bdc&v=0)Aha! Summarize the customer feedback we received last week.(opens in a new window)](<https://chatgpt.com/?prompt=%40Aha%21+Summarize+the+customer+feedback+we+received+last+week.>)[![](https://files.openai.com/content?id=file_00000000d94481f7a5d7fe678c79e2d3&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=8&sig=17e8c83c42eb29fe23a9ddeafefe51f6f355a986fd413c3f34febd802aef2bdc&v=0)Aha! Create an executive summary of the upcoming release.(opens in a new window)](<https://chatgpt.com/?prompt=%40Aha%21+Create+an+executive+summary+of+the+upcoming+release.>)[![](https://files.openai.com/content?id=file_00000000d94481f7a5d7fe678c79e2d3&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=8&sig=17e8c83c42eb29fe23a9ddeafefe51f6f355a986fd413c3f34febd802aef2bdc&v=0)Aha! Report out progress and risks for my product initiatives.(opens in a new window)](<https://chatgpt.com/?prompt=%40Aha%21+Report+out+progress+and+risks+for+my+product+initiatives.>)
 
 Use case: [Productivity](</business/plugins/?tab=plugins-productivity>)
 

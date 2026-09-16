@@ -38,8 +38,6 @@ Available on [macOS](<https://persistent.oaistatic.com/codex-app-prod/Codex.dmg>
 
 ## Built for teams delivering results with OpenAI
 
-![Internal knowledge icon.](https://images.ctfassets.net/kftzwdyauwt9/6tRFMG6pYu6jY5x08r9kKP/85b7f102a0ae39ea62034394602a90b7/internal-knowledge.svg?w=3840&q=90)
-
 #### Go from inputs to deliverables in minutes
 
 Point Codex to your sources and it turns scattered information into clear outputs—briefs, presentations, summaries, and reports—without the back-and-forth.
@@ -47,8 +45,6 @@ Point Codex to your sources and it turns scattered information into clear output
 #### Reduce repetitive work
 
 Offload recurring tasks so updates, reviews, and follow-ups are ready when you need them—without manual effort each time.
-
-![Generate suggested edits icon.](https://images.ctfassets.net/kftzwdyauwt9/5XoHiLJ2cxhyMVbLDyW8wq/8f70630e07eff12dcb316fa474041b8b/generate-suggested-edits.svg?w=3840&q=90)
 
 #### Make space for higher-impact work
 

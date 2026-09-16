@@ -112,7 +112,7 @@ _Special thanks to Matthew Ferrari, Philippe Tillet, Ahmed Ibrahim, Joe Gershens
 
 
 
-## Author
+## Authors
 
 Matthew Ferrari, Phil Tillet, Ahmed Ibrahim, Joe Gershenson, Steve Coffey
 

@@ -26,13 +26,15 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 OpenAI[View all plugins](</business/plugins/>)
 
+![](https://files.openai.com/content?id=file_00000000bc4071f68f5cc1e52ef938ff&cdn=1&cp=pi&ma=32486400&ts=0&p=pi&cid=8&sig=d3d7a09c0580c743b219401469dee9237a513ab82f5bbcd15a3f833ff93d8912&v=0)![](https://files.openai.com/content?id=file_00000000bc4071f68f5cc1e52ef938ff&cdn=1&cp=pi&ma=32486400&ts=0&p=pi&cid=8&sig=d3d7a09c0580c743b219401469dee9237a513ab82f5bbcd15a3f833ff93d8912&v=0)
+
 # MotherDuck
 
 Get answers from your data
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_696a54f1c91c81919002b9153ce0e336>)[Contact sales](</contact-sales/>)
 
-[![](https://files.openai.com/content?id=file_00000000bc4071f68f5cc1e52ef938ff&cdn=1&cp=pi&ma=32486400&ts=0&p=pi&cid=8&sig=d3d7a09c0580c743b219401469dee9237a513ab82f5bbcd15a3f833ff93d8912&v=0)![](https://files.openai.com/content?id=file_00000000bc4071f68f5cc1e52ef938ff&cdn=1&cp=pi&ma=32486400&ts=0&p=pi&cid=8&sig=d3d7a09c0580c743b219401469dee9237a513ab82f5bbcd15a3f833ff93d8912&v=0)MotherDuck Show me the top 30 customers by revenue last quarter(opens in a new window)](<https://chatgpt.com/?prompt=%40MotherDuck+Show+me+the+top+30+customers+by+revenue+last+quarter>)
+[![](https://files.openai.com/content?id=file_00000000fcec722f93ce8fc533902718&cdn=1&cp=pi&ma=30326400&ts=0&p=pi&cid=1&sig=70460db27b5551bfe8cd4fb2188caa7326485521b40f23f8b1c8b8c97fbcdff8&v=0)MotherDuck Show me the top 30 customers by revenue last quarter(opens in a new window)](<https://chatgpt.com/?prompt=%40MotherDuck+Show+me+the+top+30+customers+by+revenue+last+quarter>)
 
 Use case: [Data](</business/plugins/?tab=plugins-data-research>)
 

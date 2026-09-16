@@ -26,13 +26,15 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 OpenAI[View all plugins](</business/plugins/>)
 
+![](https://files.openai.com/content?id=file_00000000ed5071f7ac257032bcf8cc5d&cdn=1&cp=pi&ma=30931200&ts=0&p=pi&cid=8&sig=5c39ec3d859bcbd5a64f66e922b81ef025929d041ece54ba8405ee30c2cb46be&v=0)![](https://files.openai.com/content?id=file_000000006914720ca7a34247e1112b83&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=5d06aac0f128e7c36a59adf200cc7a34308389a908a9967caef1163d3c75c06f&v=0)
+
 # Airtable
 
 Add structured data to ChatGPT.
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_693ca6ce2db08191bb52d66743c65184>)[Contact sales](</contact-sales/>)
 
-[![](https://files.openai.com/content?id=file_00000000ed5071f7ac257032bcf8cc5d&cdn=1&cp=pi&ma=30931200&ts=0&p=pi&cid=8&sig=5c39ec3d859bcbd5a64f66e922b81ef025929d041ece54ba8405ee30c2cb46be&v=0)![](https://files.openai.com/content?id=file_000000006914720ca7a34247e1112b83&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=5d06aac0f128e7c36a59adf200cc7a34308389a908a9967caef1163d3c75c06f&v=0)Airtable show me a kanban of the product roadmap. What’s at risk? What’s up next?(opens in a new window)](<https://chatgpt.com/?prompt=%40Airtable+show+me+a+kanban+of+the+product+roadmap.+What%E2%80%99s+at+risk%3F+What%E2%80%99s+up+next%3F>)[![](https://files.openai.com/content?id=file_00000000ed5071f7ac257032bcf8cc5d&cdn=1&cp=pi&ma=30931200&ts=0&p=pi&cid=8&sig=5c39ec3d859bcbd5a64f66e922b81ef025929d041ece54ba8405ee30c2cb46be&v=0)![](https://files.openai.com/content?id=file_000000006914720ca7a34247e1112b83&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=5d06aac0f128e7c36a59adf200cc7a34308389a908a9967caef1163d3c75c06f&v=0)Airtable which roadmap initiatives should I discuss with the enterprise sales team today?(opens in a new window)](<https://chatgpt.com/?prompt=%40Airtable+which+roadmap+initiatives+should+I+discuss+with+the+enterprise+sales+team+today%3F>)
+[![](https://files.openai.com/content?id=file_000000002cbc722f936371ec567d6313&cdn=1&cp=pi&ma=31881600&ts=0&p=pi&cid=1&sig=113ef5f6ff9584cced6f29063d78eb2fa12a848249938c5f1cd5961d134df182&v=0)Airtable show me a kanban of the product roadmap. What’s at risk? What’s up next?(opens in a new window)](<https://chatgpt.com/?prompt=%40Airtable+show+me+a+kanban+of+the+product+roadmap.+What%E2%80%99s+at+risk%3F+What%E2%80%99s+up+next%3F>)[![](https://files.openai.com/content?id=file_000000002cbc722f936371ec567d6313&cdn=1&cp=pi&ma=31881600&ts=0&p=pi&cid=1&sig=113ef5f6ff9584cced6f29063d78eb2fa12a848249938c5f1cd5961d134df182&v=0)Airtable which roadmap initiatives should I discuss with the enterprise sales team today?(opens in a new window)](<https://chatgpt.com/?prompt=%40Airtable+which+roadmap+initiatives+should+I+discuss+with+the+enterprise+sales+team+today%3F>)
 
 Use case: [Productivity](</business/plugins/?tab=plugins-productivity>) and [Data](</business/plugins/?tab=plugins-data-research>)
 

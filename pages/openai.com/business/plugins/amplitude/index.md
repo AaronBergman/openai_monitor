@@ -26,6 +26,8 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 OpenAI[View all plugins](</business/plugins/>)
 
+![](https://files.openai.com/content?id=file_00000000dff471f588ea17f78eed1b4a&cdn=1&cp=pi&ma=31968000&ts=0&p=pi&cid=1&sig=06eddbb51a98c9ee74a1de3034ceb17a70d9c53ed5292fbf73a29439ad14d63b&v=0)![](https://files.openai.com/content?id=file_00000000dff471f588ea17f78eed1b4a&cdn=1&cp=pi&ma=31968000&ts=0&p=pi&cid=1&sig=06eddbb51a98c9ee74a1de3034ceb17a70d9c53ed5292fbf73a29439ad14d63b&v=0)
+
 # Amplitude
 
 Search and analyze analytics data.

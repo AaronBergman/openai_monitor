@@ -26,17 +26,17 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 OpenAI[View all plugins](</business/plugins/>)
 
+![](https://files.openai.com/content?id=file_00000000204c81f6a7ce2454929734b2&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=8&sig=22be634719e2dd0882100f485f9f393136907bfa13e6073e6caeff230455d50a&v=0)![](https://files.openai.com/content?id=file_00000000269081f7be2d535408c83d0c&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=e6e3ef926127f51341d02e0b047d2943efa2f141545bd3f83e40ded827f36352&v=0)
+
 # Jam
 
 Screen record with context.
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_6923e677f37c8191845e4e0b658dd718>)[Contact sales](</contact-sales/>)
 
-@Jam what does this bug report show?
+[![](https://files.openai.com/content?id=file_00000000b9a881f4b4467ce174b2723c&cdn=1&cp=pi&ma=30412800&ts=0&p=pi&cid=8&sig=85b08c317aead6be7b031d65ca7f74c2a349d9aad09386ccd7792225ced01e67&v=0)Jam what does this bug report show?(opens in a new window)](<https://chatgpt.com/?prompt=%40Jam+what+does+this+bug+report+show%3F>)[![](https://files.openai.com/content?id=file_00000000b9a881f4b4467ce174b2723c&cdn=1&cp=pi&ma=30412800&ts=0&p=pi&cid=8&sig=85b08c317aead6be7b031d65ca7f74c2a349d9aad09386ccd7792225ced01e67&v=0)Jam what network request failed in this jam?(opens in a new window)](<https://chatgpt.com/?prompt=%40Jam+what+network+request+failed+in+this+jam%3F>)[![](https://files.openai.com/content?id=file_00000000b9a881f4b4467ce174b2723c&cdn=1&cp=pi&ma=30412800&ts=0&p=pi&cid=8&sig=85b08c317aead6be7b031d65ca7f74c2a349d9aad09386ccd7792225ced01e67&v=0)Jam summarize the bugs my team reported this week(opens in a new window)](<https://chatgpt.com/?prompt=%40Jam+summarize+the+bugs+my+team+reported+this+week>)
 
-![@Jam what does this bug report show?](https://files.openai.com/content?id=file_000000006f2c71f68ad2105458ca89ee&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=1&sig=c8f3f4802aa1ada09b1293357b9575097c96ce7ca09f8880df6ab16e3ea8a7eb)
-
-Use case: [Productivity](</business/plugins/?tab=plugins-productivity>)
+Use case: [Engineering & IT](</business/plugins/?tab=plugins-engineering-it>)
 
 Made by: Jam
 

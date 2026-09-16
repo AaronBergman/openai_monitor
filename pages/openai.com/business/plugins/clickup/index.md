@@ -26,17 +26,15 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 OpenAI[View all plugins](</business/plugins/>)
 
+![](https://files.openai.com/content?id=file_000000008b7481f7aa2e265a01cf0d3e&cdn=1&cp=pi&ma=31795200&ts=0&p=pi&cid=8&sig=c3c00757c96e51a9618eb4626a24050b97ca6188b2971cef3b7bc9acdaa7fddc&v=0)![](https://files.openai.com/content?id=file_000000008b7481f7aa2e265a01cf0d3e&cdn=1&cp=pi&ma=31795200&ts=0&p=pi&cid=8&sig=c3c00757c96e51a9618eb4626a24050b97ca6188b2971cef3b7bc9acdaa7fddc&v=0)
+
 # ClickUp
 
 Sync ClickUp tasks and docs for use in ChatGPT.
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69431e6d26b88191b4029488aeb42f5b>)[Contact sales](</contact-sales/>)
 
-@ClickUp Flag whether Sprint 14: Simplifying UI is at risk
-
-![@ClickUp Flag whether Sprint 14: Simplifying UI is at risk](https://files.openai.com/content?id=file_00000000206871f6ace4c82dd8c4ddd1&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=1&sig=f4fac21a6e5c2deccb6af035f8496fde8cc61888e1ff53dee66c3fe0f3a818cd)
-
-![ClickUp](https://files.openai.com/content?id=file_00000000bfa871f683456914f7b8dc8d&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=1&sig=b02b710fa82617fe188ae1826e48d94a7ed93a7616e84c61f852e4514c50b4dc)
+[![](https://files.openai.com/content?id=file_00000000b7b8720c8deac386c4a94323&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=1&sig=edec0308e34d7485d891307f4570c7443408f7747e3c9e70865c59f30a4f84d6&v=0)ClickUp Flag whether Sprint 14: Simplifying UI is at risk(opens in a new window)](<https://chatgpt.com/?prompt=%40ClickUp+Flag+whether+Sprint+14%3A+Simplifying+UI+is+at+risk>)
 
 Use case: [Productivity](</business/plugins/?tab=plugins-productivity>) and [Small Business](</business/plugins/?tab=plugins-small-business>)
 

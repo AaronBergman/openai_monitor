@@ -69,30 +69,18 @@ Share
 Rebuilding engineering for speed, scale, and complexity
 
   * Rebuilding engineering for speed, scale, and complexity
-
   * Inside the rollout
-
   * Results at a glance
-
   * Leadership lessons
-
   * What’s next
 
 
-
-
-Table of contents
 
   * Rebuilding engineering for speed, scale, and complexity
-
   * Inside the rollout
-
   * Results at a glance
-
   * Leadership lessons
-
   * What’s next
-
 
 
 
@@ -158,17 +146,17 @@ More than 1 million businesses around the world are achieving meaningful results
 
 ## Keep reading
 
-![Helping build shared standards for advanced AI - card image](https://images.ctfassets.net/kftzwdyauwt9/3tqr0Vb3JnK38uBRBw7FAF/a3989888ee148ba286b834076aaa289b/helping-build-shared-standards-for-advanced-ai-1_1.png?w=3840&q=90&fm=webp)
+![Fyxer customer story 1x1 image](https://images.ctfassets.net/kftzwdyauwt9/7LbXXCnX1NLyS1i8mHGF1i/d75fdf2bf63cf463ce2e72915a783757/oai_Fyxer_1x1.png?w=3840&q=90&fm=webp)
 
-[Helping build shared standards for advanced AIGlobal AffairsJun 23, 2026](</index/helping-build-shared-standards-for-advanced-ai/>)
+[How Fyxer built an AI executive assistant people trustStartupSep 14, 2026](</index/fyxer/>)
 
-![Derya Unutmaz card image](https://images.ctfassets.net/kftzwdyauwt9/6By12NX9sglstfwFKQTzYB/a28d6f84e91a8dae838f240db4c2524c/derya_1x1.png?w=3840&q=90&fm=webp)
+![deployco seo image](https://images.ctfassets.net/kftzwdyauwt9/6pnntrVmfPSqsFYG5YlAvy/c69de8f9d518accd55c417898a20322e/og-seo.png?w=3840&q=90&fm=webp)
 
-[How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mysteryApplied AIJun 23, 2026](</index/gpt-5-immunology-mystery/>)
+[Monitoring trade-off impacts when building AI productsSep 14, 2026](</deployco/news/monitoring-trade-off-impacts-when-building-ai-products/>)
 
-![Omio > oai omio 1x1 card](https://images.ctfassets.net/kftzwdyauwt9/2nAmJWUrmCwC3avCecsdYa/34ddcd27c1c89aae828a7e91539b29df/oai_Omio_1x1.png?w=3840&q=90&fm=webp)
+![Perplexity customer story art card](https://images.ctfassets.net/kftzwdyauwt9/wGvW7AaxivnlRvLvZU7CE/146fd791b18b52b67dbb0a3692357a72/square.png?w=3840&q=90&fm=webp)
 
-[How Omio is building the future of conversational travelJun 23, 2026](</index/omio/>)
+[Perplexity trusts GPT-6 Astra with end-to-end systemsSep 14, 2026](</index/perplexity-improving-accuracy-with-astra/>)
 
 Research
 
@@ -180,9 +168,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -219,6 +208,8 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -252,6 +243,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

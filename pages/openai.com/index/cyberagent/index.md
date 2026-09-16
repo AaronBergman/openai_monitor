@@ -152,17 +152,17 @@ What stands out about CyberAgent’s approach is not only the scale of adoption,
 
 ## Keep reading
 
-![The builder’s guide to GPT-5.6 — Card image — Neutral Option 075](https://images.ctfassets.net/kftzwdyauwt9/4jmIFt2vH2c51Fj99rAiqH/bf22866b22d59f6230785fe304fee20c/the-builders-guide-to-gpt-5-6-option-075-card.png?w=3840&q=90&fm=webp)
+![Fyxer customer story 1x1 image](https://images.ctfassets.net/kftzwdyauwt9/7LbXXCnX1NLyS1i8mHGF1i/d75fdf2bf63cf463ce2e72915a783757/oai_Fyxer_1x1.png?w=3840&q=90&fm=webp)
 
-[The builder’s guide to GPT‑5.6Applied AIAug 13, 2026](</index/builders-guide-to-gpt-5-6/>)
+[How Fyxer built an AI executive assistant people trustStartupSep 14, 2026](</index/fyxer/>)
 
-![Previewing Ultrafast mode — clean cover](https://images.ctfassets.net/kftzwdyauwt9/74UiHrTiZoKnbvpopDTG1s/d33291d426eac29a4a5c0563e717376d/previewing-ultrafast-mode--cover-1080x1080-v001.png?w=3840&q=90&fm=webp)
+![deployco seo image](https://images.ctfassets.net/kftzwdyauwt9/6pnntrVmfPSqsFYG5YlAvy/c69de8f9d518accd55c417898a20322e/og-seo.png?w=3840&q=90&fm=webp)
 
-[Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speedProductAug 13, 2026](</index/previewing-ultrafast/>)
+[Monitoring trade-off impacts when building AI productsSep 14, 2026](</deployco/news/monitoring-trade-off-impacts-when-building-ai-products/>)
 
-![Dali Rajic > Article card](https://images.ctfassets.net/kftzwdyauwt9/5XuPL3BI8tkye6ojCL91Kc/74884b051d5c1a553cae8d3b952c79fe/dali-rajic-article-card-square-crop-v3.png?w=3840&q=90&fm=webp)
+![Perplexity customer story art card](https://images.ctfassets.net/kftzwdyauwt9/wGvW7AaxivnlRvLvZU7CE/146fd791b18b52b67dbb0a3692357a72/square.png?w=3840&q=90&fm=webp)
 
-[OpenAI appoints Dali Rajic as Chief Revenue OfficerCompanyAug 13, 2026](</index/dali-rajic-chief-revenue-officer/>)
+[Perplexity trusts GPT-6 Astra with end-to-end systemsSep 14, 2026](</index/perplexity-improving-accuracy-with-astra/>)
 
 Research
 
@@ -174,6 +174,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)

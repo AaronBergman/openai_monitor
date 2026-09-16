@@ -46,6 +46,36 @@ Switch cards to show Media
 
 Switch cards to hide Media
 
+Product
+
+Sep 10, 2026
+
+[Build more natural voice experiences with GPT‑Live‑1 in the APIGPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.](</index/introducing-gpt-live-1-in-the-api/>)
+
+Research
+
+Sep 8, 2026
+
+[An OpenAI model proposes a solution to the Navier–Stokes problemWe’re sharing an AI-generated solution to the Navier–Stokes Millennium Prize Problem, including a writeup and a formal proof in Lean.](</index/navier-stokes-solution/>)
+
+Research
+
+Sep 6, 2026
+
+[Research acceleration: The view inside OpenAIInside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration.](</index/research-acceleration-view-inside-openai/>)
+
+Research
+
+Sep 3, 2026
+
+[GPT-6 Astra: A new generation of intelligenceIntroducing GPT-6 Astra, our most intelligent and aligned model yet, with state-of-the-art capabilities across computer use, coding, cybersecurity, and science.](</index/gpt-6-astra/>)
+
+Safety
+
+Sep 3, 2026
+
+[GPT‑6 Astra System CardAstra is our first model to reach the Critical level of cybersecurity capability under our Preparedness Framework.(opens in a new window)](<https://deploymentsafety.openai.com/gpt-6-astra>)
+
 Security
 
 Aug 26, 2026
@@ -70,36 +100,6 @@ Jul 29, 2026
 
 [How enabling two settings tripled our scores on the ARC-AGI-3 benchmarkHow two API settings improved GPT-5.6 performance on ARC-AGI-3, boosting scores and efficiency by retaining reasoning and enabling compaction.](</index/how-two-settings-tripled-our-arc-agi-3-scores/>)
 
-Company
-
-Jul 29, 2026
-
-[Accelerating scientific discovery with ChatGPT for Academic ResearchersOpenAI is giving 100,000 academic researchers free access to ChatGPT's most advanced AI models to accelerate scientific research, collaboration, and discovery.](</index/chatgpt-for-academic-researchers/>)
-
-Publication
-
-Jul 28, 2026
-
-[Scientific computing in the age of agentic AIA new field report shows how scientists use AI coding agents to modernize scientific computing, accelerating software development and discovery in genomics and beyond.](</index/scientific-computing-agentic-ai/>)
-
-Safety
-
-Jul 15, 2026
-
-[GPT-Red: Unlocking Self-Improvement for RobustnessExplore GPT-Red, OpenAI’s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness.](</index/unlocking-self-improvement-gpt-red/>)
-
-Product
-
-Jul 9, 2026
-
-[GPT-5.6: Frontier intelligence that scales with your ambitionMore intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.](</index/gpt-5-6/>)
-
-Safety
-
-Jul 9, 2026
-
-[GPT‑5.6 System CardGPT-5.6 is a new family of three models: Sol, our new flagship model; Terra, a capable lower-cost option; and Luna, our fastest and most cost-efficient model. The safeguards we have built for this launch—our most robust yet—are built to deliver these models safely and at scale, around the world.(opens in a new window)](<https://deploymentsafety.openai.com/gpt-5-6>)
-
 Load more
 
 Research
@@ -112,6 +112,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)

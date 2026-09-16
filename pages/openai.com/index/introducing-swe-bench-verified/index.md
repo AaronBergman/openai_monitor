@@ -260,12 +260,6 @@ The results of our annotations are below:
 
 UnderspecificationEvaluation CriteriaOther Issues
 
-##### 
-
-Is the problem statement underspecified?
-
-% of SamplesSeverity
-
 We see that 38.3% of samples were flagged for underspecified problem statements, and 61.1% were flagged for unit tests that may unfairly mark valid solutions as incorrect. Overall, our annotation process resulted in 68.3% of SWE-bench samples being filtered out due to underspecification, unfair unit tests, or other issues. As discussed previously, this filtering process is likely to be overzealous but allows us to have high confidence in the feasibility of the unfiltered samples.
 
 We present a few examples of samples and their annotations below, cherry-picked to illustrate the diversity in sample quality:
@@ -428,6 +422,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
@@ -575,3 +570,9 @@ There are 4 possible labels for difficulty:
 
 
 
+
+##### 
+
+Is the problem statement underspecified?
+
+% of SamplesSeverity

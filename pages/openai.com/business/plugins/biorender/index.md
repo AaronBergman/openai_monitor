@@ -26,19 +26,15 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 OpenAI[View all plugins](</business/plugins/>)
 
+![](https://files.openai.com/content?id=file_000000009080720c98a45b9cd6ee083f&cdn=1&cp=pi&ma=30758400&ts=0&p=pi&cid=1&sig=8934eb25d96bba2bfd29b97de3ed875d8caa4e7e17c1b48e28843cc9423b10a9&v=0)![](https://files.openai.com/content?id=file_00000000c9bc81f7b98a27c81cc57bd7&cdn=1&cp=pi&ma=32659200&ts=0&p=pi&cid=8&sig=f14586e5e1c0907518a48f23fe94ffc19b99c728d987e8dab9ba8dd5111e4f94&v=0)
+
 # BioRender
 
 Find and create figures
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_691e3de0d2708191a6476a7b36e38779>)[Contact sales](</contact-sales/>)
 
-@BioRender Create a figure showing how CAR-T cells recognize and kill tumor cells.
-
-![@BioRender Create a figure showing how CAR-T cells recognize and kill tumor cells.](https://files.openai.com/content?id=file_00000000b958820dae1f1d427f11164d&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=8&sig=517f06c93126d58eea2484be209e048505a5a02d88ac8f841e08f3afc510b6e6&v=0)
-
-@BioRender Find existing figures or templates about T cell activation and the immune synapse.
-
-![@BioRender Find existing figures or templates about T cell activation and the immune synapse.](https://files.openai.com/content?id=file_0000000005a081f7b65f07edeee8d5ff&cdn=1&cp=pi&ma=30672000&ts=0&p=pi&cid=8&sig=d02dc1eaa96c9e6a7a809743ad21a0717a5b211edc0df35d9a6d8236a6bd1768&v=0)
+[![](https://files.openai.com/content?id=file_00000000940c71f7ab8384b5e684f813&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=1&sig=7fef39ef80b4fae6e0a4d54adfc75cddfff71d8e6ff320bf2bbc7c8487ed127e&v=0)BioRender Create a figure showing how CAR-T cells recognize and kill tumor cells.(opens in a new window)](<https://chatgpt.com/?prompt=%40BioRender+Create+a+figure+showing+how+CAR-T+cells+recognize+and+kill+tumor+cells.>)[![](https://files.openai.com/content?id=file_00000000940c71f7ab8384b5e684f813&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=1&sig=7fef39ef80b4fae6e0a4d54adfc75cddfff71d8e6ff320bf2bbc7c8487ed127e&v=0)BioRender Find existing figures or templates about T cell activation and the immune synapse.(opens in a new window)](<https://chatgpt.com/?prompt=%40BioRender+Find+existing+figures+or+templates+about+T+cell+activation+and+the+immune+synapse.>)
 
 Use case: [Design & Creative](</business/plugins/?tab=plugins-design-creative>)
 

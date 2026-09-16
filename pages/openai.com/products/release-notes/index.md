@@ -43,6 +43,38 @@ Sort
 
 ChatGPT
 
+Sep 14, 2026
+
+GA
+
+## Updated permissions for new Health connections
+
+For new Health plugin connections, ChatGPT will now default to each user’s global plugins permissions setting.
+
+If you make no changes to your Plugins settings, the default permission setting is “Allow low-risk actions.” This means that once you’ve connected your information in Health, ChatGPT can use it when relevant without asking for permission each time, unless you are attempting a sensitive action, such as asking ChatGPT to email a training plan based on your data to a running partner.
+
+This change reflects what we’ve seen from users: more than 70% of Health users already choose to allow ChatGPT to use data connected in Health without asking for permission each time.
+
+You can change your Health permissions anytime in Settings → Plugins → Health.
+
+[View source(opens in a new window)](<https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updated-permissions-for-new-health-connections>)[Help center(opens in a new window)](<https://help.openai.com/en/articles/20001036-health-in-chatgpt>)[Help center(opens in a new window)](<https://help.openai.com/en/articles/11487775-apps-in-chatgpt>)
+
+ChatGPT
+
+Sep 14, 2026
+
+Sunset
+
+## Retiring automatic switching to Thinking in ChatGPT
+
+We’re retiring automatic switching from Instant to Thinking (reasoning) for ChatGPT Plus and Pro users globally. You can still select an available option in the model picker to give ChatGPT more time to think or reason.
+
+We’re also removing the Higher intelligence setting from ChatGPT on the web for these plans. ChatGPT can still switch automatically for safety purposes.
+
+[View source(opens in a new window)](<https://help.openai.com/en/articles/6825453-chatgpt-release-notes#changes-to-automatic-switching-to-thinking-in-chatgpt-plus-and-pro>)[Help center(opens in a new window)](<https://help.openai.com/en/articles/20001354>)
+
+ChatGPT
+
 Sep 11, 2026
 
 GA
@@ -76,32 +108,6 @@ GA
 The Groups Admin API supports group creation, updates, and deletion in eligible workspaces, helping admins automate recurring group-management tasks. Workspace access and the required Admin key permissions still apply.
 
 [View source(opens in a new window)](<https://help.openai.com/en/articles/10128477-chatgpt-enterprise-edu-release-notes#create-update-and-delete-groups-with-the-admin-api>)[Help center(opens in a new window)](<https://help.openai.com/en/articles/20001407-managing-admin-keys-in-admin-console>)
-
-API
-
-Sep 10, 2026
-
-GA
-
-## Project API key expiration and maximum lifetime controls
-
-You can now set expiration dates when creating project API keys. Administrators can also enforce a maximum key lifetime at the organization or project level in Platform settings, requiring newly created keys to expire within the configured limit.
-
-[View source(opens in a new window)](<https://developers.openai.com/api/docs/guides/production-best-practices>)[Platform docs(opens in a new window)](<https://developers.openai.com/api/docs/changelog>)
-
-API
-
-Sep 10, 2026
-
-Beta
-
-## Agents API public beta
-
-Released the Agents API in public beta. Build agents with a managed Codex harness while OpenAI handles session orchestration, context compaction, and recovery.
-
-Use durable sessions to continue work across turns, stream progress, and connect your own tools and MCP servers. Run agents in OpenAI-hosted sandboxes or connect a sandbox from your own infrastructure or a supported provider.
-
-[View source(opens in a new window)](<https://developers.openai.com/api/docs/guides/agents-api/overview>)[Platform docs(opens in a new window)](<https://developers.openai.com/api/docs/guides/agents-api/quickstart>)
 
 Load more
 

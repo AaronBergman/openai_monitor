@@ -115,8 +115,6 @@ ChatGPT business product services and the API Platform have been evaluated by th
 
 Infrastructure serving our products runs on trusted cloud providers using industry best practices, including encryption in transit and at rest, change management, and strict access controls. [_Read our ChatGPT Security Whitepaper_ ⁠(opens in a new window)](<https://trust.openai.com/?itemUid=382f924d-54f3-43a8-a9df-c39e6c959958&source=click>).
 
-![Icon showing text on a code block](https://images.ctfassets.net/kftzwdyauwt9/n9Bbvq4Llmb7sM0fBZmU1/af6fd0f693d449f2566f9adafae9ea03/analyze-data.svg?w=3840&q=90)
-
 #### Responsible model development
 
 Our models and systems are regularly evaluated through evaluations against industry benchmarks, adversarial testing and ongoing safety monitoring. [_Learn more about OpenAI’s approach to model safety_ ⁠](<https://openai.com/safety/>).
@@ -124,8 +122,6 @@ Our models and systems are regularly evaluated through evaluations against indus
 #### Enterprise security controls
 
 OpenAI business products also support a range of [compliance and administrative features⁠⁠](<https://openai.com/index/new-tools-for-chatgpt-enterprise/>) such as [_audit logs_ ⁠(opens in a new window)](<https://help.openai.com/en/articles/9261474-compliance-api-for-enterprise-customers>), data residency for [_ChatGPT_ ⁠(opens in a new window)](<https://help.openai.com/en/articles/9903489-data-residency-and-inference-residency-for-chatgpt>) and [_API_ ⁠(opens in a new window)](<https://platform.openai.com/docs/guides/your-data#data-residency-controls>), [_account security_ ⁠(opens in a new window)](<https://help.openai.com/en/articles/10479654-understanding-your-ideal-user-management-setup>) and [_fine grained controls_ ⁠(opens in a new window)](<https://help.openai.com/en/articles/11750701-rbac>). 
-
-![Icon of a bug](https://images.ctfassets.net/kftzwdyauwt9/4LbzbNzdZ8BTBnci1lG7bj/7f2638c6926a568112e641bc14d9831c/bug.svg?w=3840&q=90)
 
 #### Reporting security issues
 

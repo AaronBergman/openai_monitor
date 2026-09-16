@@ -26,19 +26,15 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 OpenAI[View all plugins](</business/plugins/>)
 
+![](https://files.openai.com/content?id=file_00000000ffac722f987914a6f7db710b&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=26b2c9500db3c7de3659e1e158826d1ced4806f01d50f831132375e3b497a249&v=0)![](https://files.openai.com/content?id=file_00000000aa0081f79505b7d543758347&cdn=1&cp=pi&ma=30499200&ts=0&p=pi&cid=8&sig=73f24d3e0b666fdb3c380b13bb034ddd67e0e42a39ef70031b8401cfe081741c&v=0)
+
 # Cloudinary
 
 Manage, modify, and host your images and videos.
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_691f245d4070819184e05b4889161ba8>)[Contact sales](</contact-sales/>)
 
-@Cloudinary Upload this image and enable auto-tagging
-
-![@Cloudinary Upload this image and enable auto-tagging](https://files.openai.com/content?id=file_00000000c2f871f68e4108b82c4d8852&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=8c8c5373405425e7c5576e76e122608265bc65b5826ba7bcaee25e38417b0d8c)
-
-![Cloudinary](https://files.openai.com/content?id=file_00000000a5d071f6b7aca26eb32af001&cdn=1&cp=pi&ma=32659200&ts=0&p=pi&cid=1&sig=a5e1a4ee5e8cf8176ba1a7df37a9481498aad140a8076e20cf03ff85b5fe27ba)
-
-![Cloudinary](https://files.openai.com/content?id=file_000000004fb871f687a76885b2d12a29&cdn=1&cp=pi&ma=30240000&ts=0&p=pi&cid=1&sig=ee05d299f8f475d9aee990b6474f5e14f2083114f6ffdf5a9cd93c4bf118053a)
+[![](https://files.openai.com/content?id=file_000000007edc71f5b6e71a05d16220aa&cdn=1&cp=pi&ma=30585600&ts=0&p=pi&cid=1&sig=75532cd6420897161acc72328af06673960ff00435b9f4ed2d4a75c7194673a8&v=0)Cloudinary Upload this image and enable auto-tagging(opens in a new window)](<https://chatgpt.com/?prompt=%40Cloudinary+Upload+this+image+and+enable+auto-tagging>)
 
 Use case: [Engineering & IT](</business/plugins/?tab=plugins-engineering-it>)
 

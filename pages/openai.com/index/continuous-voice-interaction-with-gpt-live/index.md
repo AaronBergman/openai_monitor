@@ -208,7 +208,7 @@ If these are the kinds of engineering problems you want to solve, [come work wit
 
 
 
-## Author
+## Authors
 
 Justin Uberti, Zahan Malkani
 

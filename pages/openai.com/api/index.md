@@ -78,13 +78,13 @@ _GPT‑5.6 Sol’s promotional pricing is available at least through November 21
 
 #### Prompting guidance
 
-Learn how to prompt GPT‑5 series for highest performance.
+Learn how to prompt GPT‑6 series for highest performance.
 
 [View prompting guidance(opens in a new window)](<https://platform.openai.com/docs/guides/latest-model#prompting-guidance>)
 
 #### Migration support
 
-Learn how to migrate from other OpenAI models to the GPT‑5 series.
+Learn how to migrate from other OpenAI models to the GPT‑6 series.
 
 [View migration guide(opens in a new window)](<https://platform.openai.com/docs/guides/latest-model#migration-guidance>)
 

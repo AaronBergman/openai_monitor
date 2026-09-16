@@ -40,19 +40,13 @@ Investigate this issue and prepare the smallest tested fix for review
 
 ## Run engineering with greater speed, quality, and control
 
-![Pull request merged icon.](https://images.ctfassets.net/kftzwdyauwt9/5BU3WndA7H3xYRHc05J7Hx/f07bab19c69f070e592f073d372dc846/engineering-pull-request-merged.png?w=3840&q=90&fm=webp)
-
 #### Move from issue to PR faster
 
 Agents can plan changes, write code, run tests, and prepare PRs for engineers to review.
 
-![Batch icon.](https://images.ctfassets.net/kftzwdyauwt9/28B23RFp29OpbywTNRn4ms/94465ae53c2f27fb2380fb1d2df00c79/engineering-batch.png?w=3840&q=90&fm=webp)
-
 #### Expand engineering capacity
 
 Delegate routine fixes, test coverage, complex refactors, and large-scale migrations so teams can take on more of the roadmap.
-
-![Bar chart icon.](https://images.ctfassets.net/kftzwdyauwt9/76mLzAjM17l0d823uZsOg7/75056c5f1216a296779bfc6b97c4c3e7/engineering-bar-chart.png?w=3840&q=90&fm=webp)
 
 #### Ship with greater confidence
 

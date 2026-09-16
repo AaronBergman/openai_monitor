@@ -26,6 +26,8 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 OpenAI[View all plugins](</business/plugins/>)
 
+![](https://files.openai.com/content?id=file_000000000ed881f6857938316275184f&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=8&sig=51d210da2c1fa7b5abfba4519d8cab9a9ec45c6c4e6934371f929fd47fba01f7&v=0)![](https://files.openai.com/content?id=file_000000000ed881f6857938316275184f&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=8&sig=51d210da2c1fa7b5abfba4519d8cab9a9ec45c6c4e6934371f929fd47fba01f7&v=0)
+
 # AWS Data Analytics
 
 AWS Data Analytics Plugin

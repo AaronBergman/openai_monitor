@@ -26,15 +26,15 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 OpenAI[View all plugins](</business/plugins/>)
 
+![](https://files.openai.com/content?id=file_00000000973c720c9d9b1fabee04c427&cdn=1&cp=pi&ma=31968000&ts=0&p=pi&cid=1&sig=c11b3c8f43500e73dd0db9849b6ea13396b3dfef8f719d0c68eba87508d51fb6&v=0)![](https://files.openai.com/content?id=file_00000000d72881f7b7d15cc4fb008b3e&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=358cbc93092922858a3ae7e058c6131029faf209cdb642542d00f385d412c04a&v=0)
+
 # Spaceship
 
 Search domain availability.
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_692e119561848191979b13cc5c060389>)[Contact sales](</contact-sales/>)
 
-@Spaceship Check next domains: mycompany.com, mysite.io, service.web, sales12345.com
-
-![@Spaceship Check next domains: mycompany.com, mysite.io, service.web, sales12345.com](https://files.openai.com/content?id=file_00000000da1871f7add9a1b3bf314670&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=1&sig=a88d5949ef10ef27ac2bd4224c6751a4e9101294675778fd32fa3d12316106a2)
+[![](https://files.openai.com/content?id=file_00000000973c720c9d9b1fabee04c427&cdn=1&cp=pi&ma=31968000&ts=0&p=pi&cid=1&sig=c11b3c8f43500e73dd0db9849b6ea13396b3dfef8f719d0c68eba87508d51fb6&v=0)![](https://files.openai.com/content?id=file_00000000d72881f7b7d15cc4fb008b3e&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=358cbc93092922858a3ae7e058c6131029faf209cdb642542d00f385d412c04a&v=0)Spaceship Check next domains: mycompany.com, mysite.io, service.web, sales12345.com(opens in a new window)](<https://chatgpt.com/?prompt=%40Spaceship+Check+next+domains%3A+mycompany.com%2C+mysite.io%2C+service.web%2C+sales12345.com>)
 
 Use case: [Engineering & IT](</business/plugins/?tab=plugins-engineering-it>)
 

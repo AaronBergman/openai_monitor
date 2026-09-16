@@ -26,6 +26,8 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 OpenAI[View all plugins](</business/plugins/>)
 
+![](https://files.openai.com/content?id=file_000000001c74722fbf559d66b947677a&cdn=1&cp=pi&ma=30758400&ts=0&p=pi&cid=1&sig=c3949f45a99526b86e23253607118e8e4a255ccfa0d5b10d2a7e57c92d57e295&v=0)![](https://files.openai.com/content?id=file_0000000058f881f79ad4d119015bfa7c&cdn=1&cp=pi&ma=32659200&ts=0&p=pi&cid=8&sig=7ad389ade1c1fb108f1aa27b3c107e33432079c726d59206f69159c7d103502d&v=0)
+
 # Klaviyo
 
 Use the Klaviyo plugin to review campaign and flow performance, compare marketing results over time, and summarize supported marketing data.

@@ -26,6 +26,8 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 OpenAI[View all plugins](</business/plugins/>)
 
+![](https://files.openai.com/content?id=file_00000000a1a471fd81edff86e77ecd3b&cdn=1&cp=pi&ma=30326400&ts=0&p=pi&cid=1&sig=938d4b73498b8010276a2a2db3bd97736fb43368f7d6e6b918d92ed91ccbca4f&v=0)![](https://files.openai.com/content?id=file_00000000352871fd8a026326a6078808&cdn=1&cp=pi&ma=30585600&ts=0&p=pi&cid=1&sig=f2df03095c7e6c6c7c919a69e0395034bd5b155ed48e78a3780a4c33c6c23a4c&v=0)
+
 # Semrush
 
 Ask about site metrics and traffic data.

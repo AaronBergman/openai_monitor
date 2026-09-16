@@ -26,19 +26,15 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 OpenAI[View all plugins](</business/plugins/>)
 
+![](https://files.openai.com/content?id=file_000000001fb871f8bec8691546d07d0a&cdn=1&cp=pi&ma=32227200&ts=0&p=pi&cid=1&sig=9f1e5f10b8dfc59bbc3a51d513caa49fe2958261850a9d9b04e974432825960d&v=0)![](https://files.openai.com/content?id=file_000000001fb871f8bec8691546d07d0a&cdn=1&cp=pi&ma=32227200&ts=0&p=pi&cid=1&sig=9f1e5f10b8dfc59bbc3a51d513caa49fe2958261850a9d9b04e974432825960d&v=0)
+
 # Fireflies
 
 Search meeting transcripts.
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_6912075cb358819187346bcafb601db8>)[Contact sales](</contact-sales/>)
 
-@Fireflies Summarize our conversation history with Acme so far
-
-![@Fireflies Summarize our conversation history with Acme so far](https://files.openai.com/content?id=file_0000000068f871f6be85050178868a30&cdn=1&cp=pi&ma=30326400&ts=0&p=pi&cid=1&sig=ba57800549a38eac01d68bc0149737d5c5c74d999018590e492435ada1920224)
-
-![Fireflies](https://files.openai.com/content?id=file_000000007ff071f6b2e42dc4b8227403&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=0e5cdeccd3f20c4f558a044d59c451fa19db988240631bddad12db444ee06872)
-
-![Fireflies](https://files.openai.com/content?id=file_00000000c08871f697c7dfcacbc740a4&cdn=1&cp=pi&ma=31363200&ts=0&p=pi&cid=1&sig=f510041a67175254bb9c841c174b32d84b082ef77a3444c578471ede82d2d1f0)
+[![](https://files.openai.com/content?id=file_00000000a9f8722fbd055a681bb0a779&cdn=1&cp=pi&ma=32140800&ts=0&p=pi&cid=1&sig=1f854f45030b66a6fc0dfff15dd395faa907cb2ddb48d63c105de67b4d9975cd&v=0)Fireflies Summarize our conversation history with Acme so far(opens in a new window)](<https://chatgpt.com/?prompt=%40Fireflies+Summarize+our+conversation+history+with+Acme+so+far>)
 
 Use case: [Productivity](</business/plugins/?tab=plugins-productivity>)
 

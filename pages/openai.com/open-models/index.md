@@ -38,8 +38,6 @@ Advanced open-weight reasoning models to customize for any use case and run anyw
 
 These models are supported by the Apache 2.0 license. Build freely without worrying about copyleft restrictions or patent risk—whether you’re experimenting, customizing, or deploying commercially.
 
-![Agentic code icon](https://images.ctfassets.net/kftzwdyauwt9/5OEoJzrBuSmHTiDu71MN8G/b2b66bd76644a1d359339524b226c48c/marker-code.svg?w=3840&q=90)
-
 #### Designed for agentic tasks
 
 Leverage powerful instruction following and tool use within the chain-of-thought, including web search and Python code execution.
@@ -47,8 +45,6 @@ Leverage powerful instruction following and tool use within the chain-of-thought
 #### Deeply customizable
 
 Adjust the reasoning effort to low, medium, or high. Plus, customize the models to adapt to your use case with full-parameter fine-tuning.
-
-![Tasks icon](https://images.ctfassets.net/kftzwdyauwt9/7KzuoeyT7FOOxiB79UDnmn/1c635e90af3c4cb9f802cccbcbdaa7bb/tasks.svg?w=3840&q=90)
 
 #### Full chain-of-thought
 
@@ -85,11 +81,7 @@ AIME 2025| **97.9**| **98.7**|  98.4| 99.5
 
 
 
-![Icon representing security](https://images.ctfassets.net/kftzwdyauwt9/3XJ4lZho5mBYyUjEYfVNOK/d05d2727dcde6ec570e8b0a298a6ef9e/shield-lock.svg?w=3840&q=90)
-
 #### Safety is foundational to our open models
-
-![Icon representing scientific testing](https://images.ctfassets.net/kftzwdyauwt9/1aA2FTnaCAcL47TDkJT4Zj/288035e728aa47ef16798794e30212e6/flask.svg?w=3840&q=90)
 
 #### Comprehensive safety testing
 

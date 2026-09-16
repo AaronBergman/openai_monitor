@@ -26,13 +26,15 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 OpenAI[View all plugins](</business/plugins/>)
 
+![](https://files.openai.com/content?id=file_00000000b45c71f797469228048098cf&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=918ea83c51446a2cb487ba521a072a83187590f9dd92abd609524ab650826dc2&v=0)![](https://files.openai.com/content?id=file_0000000054bc720dae843a095a92471f&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=367db0eb3f3375f5e1ceb2fa3a9d6010b4cbc30ffa50a7b031b1664f12a3b96a&v=0)
+
 # Dropbox
 
 Find and access your stored files.
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69b31dc2110c8191b8b47dc98fe5a052>)[Contact sales](</contact-sales/>)
 
-[Dropbox save this proposal to my Dropbox(opens in a new window)](<https://chatgpt.com/?prompt=%40Dropbox+save+this+proposal+to+my+Dropbox>)[Dropbox can you show me my vacation photo?(opens in a new window)](<https://chatgpt.com/?prompt=%40Dropbox+can+you+show+me+my+vacation+photo%3F>)[Dropbox can you generate a Dropbox shareable link for this PDF?(opens in a new window)](<https://chatgpt.com/?prompt=%40Dropbox+can+you+generate+a+Dropbox+shareable+link+for+this+PDF%3F>)
+[![](https://files.openai.com/content?id=file_00000000b45c71f797469228048098cf&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=918ea83c51446a2cb487ba521a072a83187590f9dd92abd609524ab650826dc2&v=0)![](https://files.openai.com/content?id=file_0000000054bc720dae843a095a92471f&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=367db0eb3f3375f5e1ceb2fa3a9d6010b4cbc30ffa50a7b031b1664f12a3b96a&v=0)Dropbox save this proposal to my Dropbox(opens in a new window)](<https://chatgpt.com/?prompt=%40Dropbox+save+this+proposal+to+my+Dropbox>)[![](https://files.openai.com/content?id=file_00000000b45c71f797469228048098cf&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=918ea83c51446a2cb487ba521a072a83187590f9dd92abd609524ab650826dc2&v=0)![](https://files.openai.com/content?id=file_0000000054bc720dae843a095a92471f&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=367db0eb3f3375f5e1ceb2fa3a9d6010b4cbc30ffa50a7b031b1664f12a3b96a&v=0)Dropbox can you show me my vacation photo?(opens in a new window)](<https://chatgpt.com/?prompt=%40Dropbox+can+you+show+me+my+vacation+photo%3F>)[![](https://files.openai.com/content?id=file_00000000b45c71f797469228048098cf&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=918ea83c51446a2cb487ba521a072a83187590f9dd92abd609524ab650826dc2&v=0)![](https://files.openai.com/content?id=file_0000000054bc720dae843a095a92471f&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=367db0eb3f3375f5e1ceb2fa3a9d6010b4cbc30ffa50a7b031b1664f12a3b96a&v=0)Dropbox can you generate a Dropbox shareable link for this PDF?(opens in a new window)](<https://chatgpt.com/?prompt=%40Dropbox+can+you+generate+a+Dropbox+shareable+link+for+this+PDF%3F>)
 
 Use case: [Productivity](</business/plugins/?tab=plugins-productivity>) and [Small Business](</business/plugins/?tab=plugins-small-business>)
 

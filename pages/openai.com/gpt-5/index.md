@@ -50,19 +50,11 @@ GPT‑5 is smarter across the board, providing more useful responses across math
 
 #### More new features in ChatGPT
 
-![Icon representing customization](https://images.ctfassets.net/kftzwdyauwt9/4BRX77zabONkyN6QB2IBbm/d51f91c0f4cfc728fb50975d0f1bc3b9/customization_icon.svg?w=3840&q=90)
-
 #### Make it your own
-
-![Icon representing voice](https://images.ctfassets.net/kftzwdyauwt9/4mPGzTM0G36WQBMSIAWhbN/0fa676e94864c612c2fe86cf766c02dc/voice_icon.svg?w=3840&q=90)
 
 #### Voice improvements
 
-![Icon representing a book](https://images.ctfassets.net/kftzwdyauwt9/4jAoVAsq3LjWYdfCqMD0UZ/dac0554d12d5e333f0eb31182c5ce8d4/reading-level_icon.svg?w=3840&q=90)
-
 #### Study mode
-
-![Icon representing connectors](https://images.ctfassets.net/kftzwdyauwt9/4de7wGwnTHeWziK2o8KSQB/e7b75dae83ee68184fa81ca752fc6cd8/connected-apps.svg?w=3840&q=90)
 
 #### Connect your Gmail and Google Calendar
 

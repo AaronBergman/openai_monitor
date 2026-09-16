@@ -26,21 +26,15 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 OpenAI[View all plugins](</business/plugins/>)
 
+![](https://files.openai.com/content?id=file_00000000aa9071f59db729d014a2c122&cdn=1&cp=pi&ma=31795200&ts=0&p=pi&cid=1&sig=6709f94e3d491849be21f21c311321cfd336dd2079d72129fb55b6b76e78464e&v=0)![](https://files.openai.com/content?id=file_00000000289881f78412bec5f6f0a389&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=8&sig=52f0f0a1d820e8d2548e6d6e0e4f42e7a7900384b50418850b66476aad680181&v=0)
+
 # Zoom
 
 Smart meeting insights from Zoom.
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69373a13116c819189d046aea1278836>)[Contact sales](</contact-sales/>)
 
-@Zoom Search my recent Zoom meetings for the discussion about pricing.
-
-![@Zoom Search my recent Zoom meetings for the discussion about pricing.](https://files.openai.com/content?id=file_0000000070b071f685c1ee6b20431d85&cdn=1&cp=pi&ma=31363200&ts=0&p=pi&cid=1&sig=4ea9bd2dab0dd3fdbcb4f79752eb3e759af293087baf635d4ea65731bc73bb38)
-
-@Zoom Run /plan-zoom-product for a Zoom integration idea.
-
-![@Zoom Run /plan-zoom-product for a Zoom integration idea.](https://files.openai.com/content?id=file_00000000782471f6bf2a77630de478e1&cdn=1&cp=pi&ma=32659200&ts=0&p=pi&cid=1&sig=2e158b3171e168bf6d2d2928770d10722b0258bc65ee36b476d896696cd7a528)
-
-![Zoom](https://files.openai.com/content?id=file_0000000055a871f6b6cd038da90c2afa&cdn=1&cp=pi&ma=30585600&ts=0&p=pi&cid=1&sig=d99b128f4d599d21d83ef5b739ee0faf5b01785cdb3dbdceed07420f59186654)
+[![](https://files.openai.com/content?id=file_000000007f1c71f586a9c1c2a3cbe53b&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=4a30a6989c4c64e3532773e01bb9d858671cb03f5b73ca1b0e82ff38e48e18ba&v=0)Zoom Search my recent Zoom meetings for the discussion about pricing.(opens in a new window)](<https://chatgpt.com/?prompt=%40Zoom+Search+my+recent+Zoom+meetings+for+the+discussion+about+pricing.>)[![](https://files.openai.com/content?id=file_000000007f1c71f586a9c1c2a3cbe53b&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=4a30a6989c4c64e3532773e01bb9d858671cb03f5b73ca1b0e82ff38e48e18ba&v=0)Zoom Run /plan-zoom-product for a Zoom integration idea.(opens in a new window)](<https://chatgpt.com/?prompt=%40Zoom+Run+%2Fplan-zoom-product+for+a+Zoom+integration+idea.>)
 
 Use case: [Productivity](</business/plugins/?tab=plugins-productivity>)
 

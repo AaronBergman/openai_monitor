@@ -26,13 +26,15 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 OpenAI[View all plugins](</business/plugins/>)
 
+![](https://files.openai.com/content?id=file_00000000ac7471f5938c2faf47e7f4c3&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=1&sig=666dae78fb6f0df3e372c8b40b3fd36004957883e9a35c69e189eb35e870cdd3&v=0)![](https://files.openai.com/content?id=file_00000000841481f79700470475f74217&cdn=1&cp=pi&ma=31881600&ts=0&p=pi&cid=8&sig=3f58942b3f456302c0db30e62111cb2ffb6db3b48fa69730dbd16756d69af63f&v=0)
+
 # Gusto
 
 Ask payroll, benefits, and HR questions using your Gusto data.
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69375d9f172c8191b23d73be4107128a>)[Contact sales](</contact-sales/>)
 
-[Gusto let’s run payroll(opens in a new window)](<https://chatgpt.com/?prompt=%40Gusto+let%E2%80%99s+run+payroll>)[Gusto looks good, can you show me the summary?(opens in a new window)](<https://chatgpt.com/?prompt=%40Gusto+looks+good%2C+can+you+show+me+the+summary%3F>)[Gusto all clear, let's submit(opens in a new window)](<https://chatgpt.com/?prompt=%40Gusto+all+clear%2C+let%27s+submit>)
+[![](https://files.openai.com/content?id=file_00000000ac7471f5938c2faf47e7f4c3&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=1&sig=666dae78fb6f0df3e372c8b40b3fd36004957883e9a35c69e189eb35e870cdd3&v=0)![](https://files.openai.com/content?id=file_00000000841481f79700470475f74217&cdn=1&cp=pi&ma=31881600&ts=0&p=pi&cid=8&sig=3f58942b3f456302c0db30e62111cb2ffb6db3b48fa69730dbd16756d69af63f&v=0)Gusto let’s run payroll(opens in a new window)](<https://chatgpt.com/?prompt=%40Gusto+let%E2%80%99s+run+payroll>)[![](https://files.openai.com/content?id=file_00000000ac7471f5938c2faf47e7f4c3&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=1&sig=666dae78fb6f0df3e372c8b40b3fd36004957883e9a35c69e189eb35e870cdd3&v=0)![](https://files.openai.com/content?id=file_00000000841481f79700470475f74217&cdn=1&cp=pi&ma=31881600&ts=0&p=pi&cid=8&sig=3f58942b3f456302c0db30e62111cb2ffb6db3b48fa69730dbd16756d69af63f&v=0)Gusto looks good, can you show me the summary?(opens in a new window)](<https://chatgpt.com/?prompt=%40Gusto+looks+good%2C+can+you+show+me+the+summary%3F>)[![](https://files.openai.com/content?id=file_00000000ac7471f5938c2faf47e7f4c3&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=1&sig=666dae78fb6f0df3e372c8b40b3fd36004957883e9a35c69e189eb35e870cdd3&v=0)![](https://files.openai.com/content?id=file_00000000841481f79700470475f74217&cdn=1&cp=pi&ma=31881600&ts=0&p=pi&cid=8&sig=3f58942b3f456302c0db30e62111cb2ffb6db3b48fa69730dbd16756d69af63f&v=0)Gusto all clear, let's submit(opens in a new window)](<https://chatgpt.com/?prompt=%40Gusto+all+clear%2C+let%27s+submit>)
 
 Use case: [Operations](</business/plugins/?tab=plugins-operations>), [Finance](</business/plugins/?tab=plugins-finance>), and [Small Business](</business/plugins/?tab=plugins-small-business>)
 
