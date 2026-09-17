@@ -24,7 +24,9 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 [Contact sales](</contact-sales/>)Try OpenAI
 
-OpenAI[View all plugins](</business/plugins/>)
+OpenAI
+
+[Plugins](</business/plugins/>)
 
 ![](https://files.openai.com/content?id=file_0000000043d481f49e11d0ddb981c815&cdn=1&cp=pi&ma=31881600&ts=0&p=pi&cid=8&sig=9c046ae646dbd8a544c454ac4d9fc7bc7d44336c5c1be29a4c080b94045c5a41&v=0)![](https://files.openai.com/content?id=file_0000000043d481f49e11d0ddb981c815&cdn=1&cp=pi&ma=31881600&ts=0&p=pi&cid=8&sig=9c046ae646dbd8a544c454ac4d9fc7bc7d44336c5c1be29a4c080b94045c5a41&v=0)
 
@@ -34,51 +36,71 @@ Book clients, get paid
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a7c329c161c8191a8df623446a34000>)[Contact sales](</contact-sales/>)
 
+Category
+    [Operations](</business/plugins/?tab=plugins-operations>)
+
+Developer
+    HoneyBook, Inc
+
+Website
+    [(opens in a new window)](<https://www.honeybook.com/>)
+
 [![](https://files.openai.com/content?id=file_00000000760881f49ff5c1190001e477&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=8&sig=22b2e5cbfd17e27451fe6fe1181e91add82a51ef890e256d049a2b4e942b0209&v=0)HoneyBook Which of my leads have gone quiet?(opens in a new window)](<https://chatgpt.com/?prompt=%40HoneyBook+Which+of+my+leads+have+gone+quiet%3F>)[![](https://files.openai.com/content?id=file_00000000760881f49ff5c1190001e477&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=8&sig=22b2e5cbfd17e27451fe6fe1181e91add82a51ef890e256d049a2b4e942b0209&v=0)HoneyBook Who still owes me money?(opens in a new window)](<https://chatgpt.com/?prompt=%40HoneyBook+Who+still+owes+me+money%3F>)[![](https://files.openai.com/content?id=file_00000000760881f49ff5c1190001e477&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=8&sig=22b2e5cbfd17e27451fe6fe1181e91add82a51ef890e256d049a2b4e942b0209&v=0)HoneyBook Add a new contact for a client I just met(opens in a new window)](<https://chatgpt.com/?prompt=%40HoneyBook+Add+a+new+contact+for+a+client+I+just+met>)
-
-Use case: [Operations](</business/plugins/?tab=plugins-operations>) and [Small Business](</business/plugins/?tab=plugins-small-business>)
-
-Made by: HoneyBook, Inc
-
-Website: [honeybook.com(opens in a new window)](<https://www.honeybook.com/>)
 
 ## How it works
 
 HoneyBook is where independent businesses and lean teams run their client work: inquiries, proposals, contracts, invoices, payments and the messages in between. Connect your account and work through a whole job in one conversation. Ask which leads are worth chasing and get a ranked answer from your own bookings. Have the proposal built from your saved template. Review it before it goes anywhere. Later, ask who still owes you money, and raise a payment request for whoever does. You approve what it can reach before anything runs, resource by resource, and nothing reaches a client until you send it. Each request runs in an isolated environment, and your credentials are never shared with the model. Built for photographers, event planners, venues, designers and consultants. Requires a HoneyBook account.
 
-### Prioritize quiet leads
+## Common use cases
+
+  * ### Prioritize quiet leads
 
 Find stalled leads and decide which follow-ups deserve your attention.
 
-### Prepare a client proposal
+HoneyBook Find leads I haven't contacted in two weeks and rank the five most worth following up with, using their project details and client history.
+
+[(opens in a new window)](<https://chatgpt.com/?q=HoneyBook+Find+leads+I+haven%27t+contacted+in+two+weeks+and+rank+the+five+most+worth+following+up+with%2C+using+their+project+details+and+client+history.>)
+
+  * ### Prepare a client proposal
 
 Build a proposal from your saved template and the client's project details.
 
-### Review overdue balances
+HoneyBook Prepare a proposal for the client I name using my saved template and their project details. Flag missing scope or pricing information and keep it unsent for my review.
+
+[(opens in a new window)](<https://chatgpt.com/?q=HoneyBook+Prepare+a+proposal+for+the+client+I+name+using+my+saved+template+and+their+project+details.+Flag+missing+scope+or+pricing+information+and+keep+it+unsent+for+my+review.>)
+
+  * ### Review overdue balances
 
 See which clients owe money and where to focus collections.
 
-## Sample prompts
+HoneyBook List overdue client invoices with balances and due dates. Rank who to follow up with first and explain the priority using amount owed and age of the debt.
 
-Track active projects
+[(opens in a new window)](<https://chatgpt.com/?q=HoneyBook+List+overdue+client+invoices+with+balances+and+due+dates.+Rank+who+to+follow+up+with+first+and+explain+the+priority+using+amount+owed+and+age+of+the+debt.>)
 
-**@HoneyBook** Find leads I haven't contacted in two weeks and rank the five most worth following up with, using their project details and client history.
 
-Review overdue invoices
 
-**@HoneyBook** Prepare a proposal for the client I name using my saved template and their project details. Flag missing scope or pricing information and keep it unsent for my review.
 
-Prepare for a client call
+## What’s included
 
-**@HoneyBook** List overdue client invoices with balances and due dates. Rank who to follow up with first and explain the priority using amount owed and age of the debt.
+### App
+
+  * ![](https://files.openai.com/content?id=file_0000000043d481f49e11d0ddb981c815&cdn=1&cp=pi&ma=31881600&ts=0&p=pi&cid=8&sig=9c046ae646dbd8a544c454ac4d9fc7bc7d44336c5c1be29a4c080b94045c5a41&v=0)HoneyBook
+
+
+
+### Skill
+
+  * HoneyBook Project Pipeline
+
+
 
 ## Resources
 
-### [Help centerRead more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
+### [Help centerLearn more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
 
-### [Plugin supportRead more](<https://www.honeybook.com/company/contact-us>)
+### [Plugin supportLearn more](<https://www.honeybook.com/company/contact-us>)
 
-### [Privacy policyRead more](<https://www.honeybook.com/legal/privacy>)
+### [Privacy policyLearn more](<https://www.honeybook.com/legal/privacy>)
 
 ## Get started with plugins
 

@@ -24,7 +24,9 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 [Contact sales](</contact-sales/>)Try OpenAI
 
-OpenAI[View all plugins](</business/plugins/>)
+OpenAI
+
+[Plugins](</business/plugins/>)
 
 ![](https://files.openai.com/content?id=file_00000000bc4071f68f5cc1e52ef938ff&cdn=1&cp=pi&ma=32486400&ts=0&p=pi&cid=8&sig=d3d7a09c0580c743b219401469dee9237a513ab82f5bbcd15a3f833ff93d8912&v=0)![](https://files.openai.com/content?id=file_00000000bc4071f68f5cc1e52ef938ff&cdn=1&cp=pi&ma=32486400&ts=0&p=pi&cid=8&sig=d3d7a09c0580c743b219401469dee9237a513ab82f5bbcd15a3f833ff93d8912&v=0)
 
@@ -34,45 +36,65 @@ Get answers from your data
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_696a54f1c91c81919002b9153ce0e336>)[Contact sales](</contact-sales/>)
 
+Category
+    [Data](</business/plugins/?tab=plugins-data-research>)
+
+Developer
+    MotherDuck Corporation
+
+Website
+    [(opens in a new window)](<https://motherduck.com/>)
+
 [![](https://files.openai.com/content?id=file_00000000fcec722f93ce8fc533902718&cdn=1&cp=pi&ma=30326400&ts=0&p=pi&cid=1&sig=70460db27b5551bfe8cd4fb2188caa7326485521b40f23f8b1c8b8c97fbcdff8&v=0)MotherDuck Show me the top 30 customers by revenue last quarter(opens in a new window)](<https://chatgpt.com/?prompt=%40MotherDuck+Show+me+the+top+30+customers+by+revenue+last+quarter>)
-
-Use case: [Data](</business/plugins/?tab=plugins-data-research>)
-
-Made by: MotherDuck Corporation
-
-Website: [motherduck.com(opens in a new window)](<https://motherduck.com/>)
 
 ## How it works
 
 Connect AI assistants to your MotherDuck data warehouse. Explore, visualize, and manage data using natural language–no SQL skills required. Create Dives: interactive visualizations that let you save and share answers with your team, staying up-to-date with your latest data. Works with real-world data without requiring semantic models or pre-configuration. Your AI assistant acts like a data analyst, exploring, validating, analyzing, and visualizing data iteratively to answer your questions.
 
-### Rank top customers
+## Common use cases
+
+  * ### Rank top customers
 
 Identify your 30 highest-revenue customers from the previous quarter.
 
-### Investigate revenue shifts
+MotherDuck Show me the top 30 customers by revenue last quarter
+
+[(opens in a new window)](<https://chatgpt.com/?q=MotherDuck+Show+me+the+top+30+customers+by+revenue+last+quarter>)
+
+  * ### Investigate revenue shifts
 
 Break down monthly revenue changes to identify the segments driving growth or decline.
 
-### Build a revenue Dive
+MotherDuck Analyze monthly revenue over the last six months by customer segment. Validate the joins and revenue definition, identify the largest shifts, and summarize which segments warrant further investigation.
+
+[(opens in a new window)](<https://chatgpt.com/?q=MotherDuck+Analyze+monthly+revenue+over+the+last+six+months+by+customer+segment.+Validate+the+joins+and+revenue+definition%2C+identify+the+largest+shifts%2C+and+summarize+which+segments+warrant+further+investigation.>)
+
+  * ### Build a revenue Dive
 
 Create an interactive view of revenue trends that your team can revisit with current data.
 
-## Sample prompts
+MotherDuck Create a Dive showing monthly revenue by region over the last year, with region and date filters. Validate totals against the source data and save it in my workspace for the team's recurring business review.
 
-**@MotherDuck** Show me the top 30 customers by revenue last quarter
+[(opens in a new window)](<https://chatgpt.com/?q=MotherDuck+Create+a+Dive+showing+monthly+revenue+by+region+over+the+last+year%2C+with+region+and+date+filters.+Validate+totals+against+the+source+data+and+save+it+in+my+workspace+for+the+team%27s+recurring+business+review.>)
 
-**@MotherDuck** Analyze monthly revenue over the last six months by customer segment. Validate the joins and revenue definition, identify the largest shifts, and summarize which segments warrant further investigation.
 
-**@MotherDuck** Create a Dive showing monthly revenue by region over the last year, with region and date filters. Validate totals against the source data and save it in my workspace for the team's recurring business review.
+
+
+## What’s included
+
+### App
+
+  * ![](https://files.openai.com/content?id=file_00000000bc4071f68f5cc1e52ef938ff&cdn=1&cp=pi&ma=32486400&ts=0&p=pi&cid=8&sig=d3d7a09c0580c743b219401469dee9237a513ab82f5bbcd15a3f833ff93d8912&v=0)MotherDuck
+
+
 
 ## Resources
 
-### [Help centerRead more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
+### [Help centerLearn more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
 
-### [Plugin supportRead more](<https://motherduck.com/docs/troubleshooting/support/>)
+### [Plugin supportLearn more](<https://motherduck.com/docs/troubleshooting/support/>)
 
-### [Privacy policyRead more](<https://motherduck.com/privacy-policy/>)
+### [Privacy policyLearn more](<https://motherduck.com/privacy-policy/>)
 
 ## Get started with plugins
 

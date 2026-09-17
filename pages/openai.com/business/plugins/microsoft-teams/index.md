@@ -24,7 +24,9 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 [Contact sales](</contact-sales/>)Try OpenAI
 
-OpenAI[View all plugins](</business/plugins/>)
+OpenAI
+
+[Plugins](</business/plugins/>)
 
 ![](https://files.openai.com/content?id=file_00000000290c81f6b165c1e4941266a3&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=8&sig=aac8f7270051b9307ea721f89136ce46aaf1dffcbdaea6eba9ba95fc9212473d&v=0)![](https://files.openai.com/content?id=file_00000000290c81f6b165c1e4941266a3&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=8&sig=aac8f7270051b9307ea721f89136ce46aaf1dffcbdaea6eba9ba95fc9212473d&v=0)
 
@@ -34,51 +36,68 @@ Look up chats and messages.
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_1p_eba8b52fe53881918408d4b46b957644>)[Contact sales](</contact-sales/>)
 
+Capabilities
+    Interactive, Write
+
+Category
+    [Productivity](</business/plugins/?tab=plugins-productivity>)
+
+Developer
+    OpenAI
+
+Website
+    [(opens in a new window)](<https://www.microsoft.com/en-us/microsoft-teams/group-chat-software>)
+
 [![](https://files.openai.com/content?id=file_000000002d7481f7a628052e560e80a1&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=8&sig=a90e9a545e397b337c8bf01974289d252aaedd78b05d032d217ea90d3b30736e&v=0)Teams Turn this Teams conversation into a clean action list with owners, due dates, and dependencies implied by the discussion(opens in a new window)](<https://chatgpt.com/?prompt=%40Teams+Turn+this+Teams+conversation+into+a+clean+action+list+with+owners%2C+due+dates%2C+and+dependencies+implied+by+the+discussion>)[![](https://files.openai.com/content?id=file_000000002d7481f7a628052e560e80a1&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=8&sig=a90e9a545e397b337c8bf01974289d252aaedd78b05d032d217ea90d3b30736e&v=0)Teams Catch me up on the last 100 messages in the main project channel: key context, decisions, and open questions(opens in a new window)](<https://chatgpt.com/?prompt=%40Teams+Catch+me+up+on+the+last+100+messages+in+the+main+project+channel%3A+key+context%2C+decisions%2C+and+open+questions>)[![](https://files.openai.com/content?id=file_000000002d7481f7a628052e560e80a1&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=8&sig=a90e9a545e397b337c8bf01974289d252aaedd78b05d032d217ea90d3b30736e&v=0)Teams Pull all links shared in the chat with [vendor] this month and organize them by topic with a one-line description each(opens in a new window)](<https://chatgpt.com/?prompt=%40Teams+Pull+all+links+shared+in+the+chat+with+%5Bvendor%5D+this+month+and+organize+them+by+topic+with+a+one-line+description+each>)
-
-Use case: [Productivity](</business/plugins/?tab=plugins-productivity>) and [Data](</business/plugins/?tab=plugins-data-research>)
-
-Made by: OpenAI
-
-Website: [microsoft.com(opens in a new window)](<https://www.microsoft.com/en-us/microsoft-teams/group-chat-software>)
 
 ## How it works
 
 Search and retrieve Teams chats and messages so teams can quickly find past discussions, shared links, and context needed to move work forward.
 
-### Find past messages faster
+## Common use cases
+
+  * ### Find past messages faster
 
 Search chats and channels to quickly locate specific messages, links, or conversations, reducing time spent scrolling and asking teammates to resend context.
 
-### Recover context from ongoing work
+Teams Pull all links shared in the chat with [vendor] this month and organize them by topic with a one-line description each.
+
+[(opens in a new window)](<https://chatgpt.com/?q=Teams+Pull+all+links+shared+in+the+chat+with+%5Bvendor%5D+this+month+and+organize+them+by+topic+with+a+one-line+description+each.>)
+
+  * ### Recover context from ongoing work
 
 Look up prior discussions to understand what was discussed, shared, or decided, helping teams pick work back up without restarting conversations.
 
-### Reduce duplicate questions and rework
+Teams I joined mid-project. Review the last 100 messages in the main project channel and give me the key context, decisions, and open questions.
+
+[(opens in a new window)](<https://chatgpt.com/?q=Teams+I+joined+mid-project.+Review+the+last+100+messages+in+the+main+project+channel+and+give+me+the+key+context%2C+decisions%2C+and+open+questions.>)
+
+  * ### Reduce duplicate questions and rework
 
 Retrieve relevant messages when questions arise so teams avoid repeated asks, stay aligned, and keep projects moving with fewer interruptions.
 
-## Sample prompts
+Teams Find the earlier discussion about [project decision] and summarize the answer to [question], with links to the relevant messages so I can share the existing context.
 
-Create a to-do list from a conversation
+[(opens in a new window)](<https://chatgpt.com/?q=Teams+Find+the+earlier+discussion+about+%5Bproject+decision%5D+and+summarize+the+answer+to+%5Bquestion%5D%2C+with+links+to+the+relevant+messages+so+I+can+share+the+existing+context.>)
 
-@Microsoft Teams Pull all links shared in the chat with [vendor] this month and organize them by topic with a one-line description each.
 
-Summarize project status for quick alignment
 
-@Microsoft Teams I joined mid-project. Review the last 100 messages in the main project channel and give me the key context, decisions, and open questions.
 
-Highlight insights from a chat
+## What’s included
 
-@Microsoft Teams Find the earlier discussion about [project decision] and summarize the answer to [question], with links to the relevant messages so I can share the existing context.
+### App
+
+  * ![](https://chatgpt.com/images/ecosystem/apps/microsoft_teams/icon.png)Microsoft Teams
+
+
 
 ## Resources
 
-### [Help centerRead more](<https://help.openai.com/en/articles/12552368-microsoft-teams-connector-for-chatgpt>)
+### [Help centerLearn more](<https://help.openai.com/en/articles/12552368-microsoft-teams-connector-for-chatgpt>)
 
-### [Plugin supportRead more](<https://support.microsoft.com/teams>)
+### [Plugin supportLearn more](<https://support.microsoft.com/teams>)
 
-### [Privacy policyRead more](<https://privacy.microsoft.com>)
+### [Privacy policyLearn more](<https://privacy.microsoft.com>)
 
 ## Get started with plugins
 

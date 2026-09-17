@@ -28,6 +28,8 @@ OpenAI
 
 February 1, 2025
 
+[Safety](</news/safety-alignment/>)
+
 # Romance-baiting scam: AI-assisted pig butchering workflows
 
 OpenAI banned accounts that appeared to originate in Cambodia and used AI to translate and generate romance, investment scam conversations.
@@ -69,11 +71,17 @@ The scammers appear to have used a large number of different tools and platforms
 Based on our specific window into this activity, the scammers appear to have followed a common workflow in moving their targets from engagement to fraudulent investment:
 
   1. Public engagement: The scammers would make comments on social media posts by the target. These comments often ended in a question such as, “What do you think about [subject]?,” likely to increase the chance of engagement. In a handful of cases, they commented on politics, but more often, they talked about golf.
+
   2. Likely direct messaging: The scammers would then generate short, conversational comments. While we do not have full visibility into how and where these were deployed, the comments were consistent with a situation in which the scammer and target started exchanging direct messages.
+
   3. Secure messaging: Very soon, often within a few days, the scammers would generate messages that suggested moving to a more secure messaging app. Sometimes this would be justified by saying that the scammer did not trust social media; other times, it would be justified by a logistical excuse, such as saying that they were about to go somewhere they would not have access to social media.
+
   4. Romantic engagement: The scammers would write and translate increasingly affectionate and intimate messages. If the targets asked for photos of the “woman” they were chatting with, the scammers would make excuses.
+
   5. Financial engagement: The scammers would write and translate messages boasting about having made a large sum of money by online investment into foreign exchange, cryptocurrency, or gold. This would often be presented as the result of following the advice of a relative who worked in finance. The scammer would urge the target to start investing in the same way, and offer to guide them through the process.
+
   6. Fraud: The scammers would write and translate messages trying to convince the victim to transfer money into a trading app, and encourage them by talking up how much profit they were making. Any time the victim tried to withdraw their “profits,” the scammer would present an excuse, such as that a fee needed to be paid.
+
 
 
 
@@ -86,6 +94,11 @@ This activity appears to have included many false starts and failures. Some of t
 However, some conversations referenced sums of thousands of dollars (or equivalent currencies) as the scale of individual transactions. Given the use that these operators made of our models, we do not have visibility into whether these financial transactions were conducted, but the conversational references do suggest that in at least some cases, the scammers managed to defraud their targets.
 
 OpenAI’s policies strictly prohibit use of output from our tools for fraud or scams. We are dedicated to collaborating with industry peers and authorities to understand how AI is used in adversarial behaviors and to actively disrupt scam activities abusing our services. In line with this commitment, we have shared information about the scam networks we disrupted with industry peers and the relevant authorities.
+
+  * [Cambodia](</news/?tags=actor-origin-cambodia>)
+  * [Fraud & scams](</news/?tags=activity-type-fraud-scams>)
+
+
 
 ## Author
 
@@ -101,6 +114,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)

@@ -93,16 +93,22 @@ The memories synthesized by dreaming are reviewable through a summary of them ma
 When we think about what "good memory" looks like in ChatGPT, a few things come to mind:
 
   1. **Carry forward useful context:** You tell ChatGPT something once, and it remembers that information in your subsequent chats.
+
   2. **Follow preferences and constraints:** If you describe a preference (e.g., you’re vegetarian), then ChatGPT should take actions that are consistent with that preference going forward.
+
   3. **Stay current over time:** Memory should account for the passage of time. Imagine "The user is planning their birthday party for next Saturday"; eventually, Sunday arrives.
+
 
 
 
 We can evaluate how ChatGPT Plus and Pro memory has improved over time with respect to each of the three memory objectives above. We do this for each of:
 
   1. **2024** : Saved memories
+
   2. **2025** : Saved memories + Dreaming V0
+
   3. **2026** : Dreaming V3
+
 
 
 
@@ -122,17 +128,23 @@ To use **TTL flash underwater** , you need a compatible chain from **camera → 
 
   * **TTL-capable underwater strobe  
 ** Look for strobes that support your TTL type, such as **Inon S-TTL** , **Sea & Sea DS-TTL**, **Ikelite DS TTL** , or compatible Backscatter/Nauticam systems. TTL has to be supported by the strobe, not just the camera.
+
   * **TTL trigger or TTL converter  
 ** This is the key piece. It translates your camera’s flash metering into something the underwater strobe can understand. Examples include **Nauticam optical TTL converters** , **Sea & Sea TTL converters**, **Backscatter Smart Control optical TTL triggers** , or **Ikelite DS Link TTL converters** , depending on housing and camera brand. Backscatter notes that Nauticam optical TTL converters can work with fiber-optic-connected Inon and Sea & Sea TTL strobes, while Ikelite’s DS Link converters are made around Ikelite DS strobes and electrical sync setups. ([_Backscatter.com_ ⁠(opens in a new window)](<https://www.backscatter.com/reviews/post/Underwater-Camera-and-Housing-TTL-Reference-Guide?utm_source=chatgpt.com>))
+
   * **Connection cable  
 ** For **fiber optic TTL** , buy one fiber optic cable per strobe. Ikelite’s fiber-optic guide says each strobe needs its own light path, converter/adapter, and cord. ([_Ikelite_ ⁠(opens in a new window)](<https://www.ikelite.com/blogs/buying-guides/choosing-strobes-for-a-compact-fiber-optic-system?srsltid=AfmBOor6LitZ9VTa-x980CMwLUM7qfqGh-AiJrlkUCtYrL7oRV5aJmO4&utm_source=chatgpt.com>))  
 For **electrical TTL** , buy the correct sync cord, such as Ikelite-style, Nikonos 5-pin, or housing-specific bulkhead cable.
+
   * **Housing compatibility parts  
 ** You may need a **hot-shoe adapter** , **bulkhead** , **fiber optic window/adapter** , or housing-specific TTL board. Many TTL triggers mount inside the housing on the camera hot shoe.
+
   * **Strobe arms, clamps, tray, and mounting hardware  
 ** TTL controls exposure, but you still need to physically mount and aim the strobes.
+
   * **Batteries and spares  
 ** Bring strobe batteries, trigger batteries if required, spare fiber optic cables or sync cord O-rings, and silicone grease for serviceable O-rings.
+
 
 
 
@@ -151,8 +163,11 @@ You need all three to match:
 For example:
 
   * Sony camera + Nauticam housing + optical TTL trigger + Inon/Sea & Sea-compatible fiber optic strobe
+
   * Nikon/Canon/Sony camera + Ikelite housing/bulkhead + Ikelite DS Link TTL converter + Ikelite DS strobe
+
   * Compact camera with built-in flash + fiber optic cable + S-TTL/DS-TTL-capable strobe
+
 
 
 
@@ -304,10 +319,15 @@ Late afternoon: **Joo Chiat / Katong** or **Chinatown / Telok Ayer** for walking
 #### **My ranking for you**
 
   1. **Cloud Forest / Gardens by the Bay** — best combination of photogenic, iconic, heat-managed.
+
   2. **Bird Paradise + Night Safari** — best wildlife-focused day.
+
   3. **Botanic Gardens early morning** — best low-stress outdoor nature.
+
   4. **Joo Chiat / Katong** — best neighborhood walk.
+
   5. **Hawker centers** — worth doing, but not ideal for your seating preferences unless timed off-peak.
+
 
 
 
@@ -330,8 +350,11 @@ _The model produces a response that is personalized to the user’s interests in
 Preferences can take several forms:
 
   1. Instructions for how ChatGPT should respond ("don’t bring up Stan again").
+
   2. Your personal preferences or constraints ("I’m vegetarian")
+
   3. Implicit preferences that shape what’s relevant to you ("I live near San Francisco" → local options should be tailored to this area)
+
 
 
 
@@ -354,10 +377,15 @@ It’s **about 5:19 AM Sunday in Singapore** , so your safest take-out/delivery 
 **Best bets right now:**
 
   1. **McDelivery / McDonald’s Singapore** — easiest islandwide option; McDonald’s says McDelivery is available **24 hours, 7 days a week**. Breakfast menu should be on now. ([_McDonald 's Singapore_⁠(opens in a new window)](<https://www.mcdonalds.com.sg/mcdelivery?utm_source=chatgpt.com>))
+
   2. **Srisun Express** — good for prata, Indian Muslim food, local comfort food; their site says they’re **halal-certified and open 24/7**. ([_Sri Sun Express_ ⁠(opens in a new window)](<https://srisunexpress.com.sg/?utm_source=chatgpt.com>))
+
   3. **89.7 Supper Club** — good if you’re near **Changi Village or Geylang East** ; their outlets page says both locations are **open 24 hours, 7 days a week**. ([_89.7 Supper Club_ ⁠(opens in a new window)](<https://www.897supperclub.com.sg/outlets/?utm_source=chatgpt.com>))
+
   4. **126 Dim Sum Wen Dao Shi** — worth checking on GrabFood/foodpanda if you’re in the East; a 2025 guide says it runs till **5:30 AM on weekdays** and **round-the-clock on weekends**. Since it’s Sunday morning, it may still be available. ([_Eatbook_ ⁠(opens in a new window)](<https://eatbook.sg/supper-food-east-singapore/?utm_source=chatgpt.com>))
+
   5. **Prata around Geylang / Serangoon / Bedok / Jalan Kayu** — look in GrabFood or Google Maps for “prata open now”; guides list multiple 24-hour prata/supper spots, including Mufiz Prata Corner and RK Eating House. ([_Eatbook_ ⁠(opens in a new window)](<https://eatbook.sg/best-prata-in-singapore/?utm_source=chatgpt.com>))
+
 
 
 
@@ -374,10 +402,15 @@ I’ll use Portola Valley / Ladera as the starting point and prioritize places t
 For **tonight, Saturday May 30** , near Ladera / Portola Valley, I’d start here:
 
   1. **Alpine Inn** — safest casual pickup option. Open Saturday until **9:30 pm** and has **Order Takeout** on its site. Good for burgers / tavern food. ([_Rossotti 's Alpine Inn_⁠(opens in a new window)](<https://www.alpineinnpv.com/?utm_source=chatgpt.com>))
+
   2. **Taverna Portola Valley** — nearby at Ladera Country Shopper; open daily, Saturday dinner until **9:00 pm**. Better if you want Greek / Mediterranean. ([_TAVERNA Portola Valley_ ⁠(opens in a new window)](<https://www.tavernaportolavalley.net/?utm_source=chatgpt.com>))
+
   3. **Portola Bistro** — also nearby; Saturday dinner until **9:30 pm**. Good option for Italian / Mediterranean / pizza-ish dinner. ([_Portola Bistro -_ ⁠(opens in a new window)](<https://portolabistro.com/?utm_source=chatgpt.com>))
+
   4. **Amigos Grill** — Mexican, very close in Ladera Country Shopper. Official site says call to order at **650-851-3997** ; DoorDash / order.online lists pickup/delivery ordering until **8:40 pm**. ([_Amigos Grill_ ⁠(opens in a new window)](<https://amigosportola.com/?utm_source=chatgpt.com>))
+
   5. **State of Mind Slice House, Palo Alto** — best fallback if you want pizza and can drive farther; Friday–Saturday hours are **11 am–10 pm**. ([_State of Mind Slice House_ ⁠(opens in a new window)](<https://www.stateofmindslicehouse.com/?utm_source=chatgpt.com>))
+
 
 
 
@@ -412,17 +445,17 @@ OpenAI
 
 [View all](</news/>)
 
-![Now everyone can put data to work — card image](https://images.ctfassets.net/kftzwdyauwt9/6FhMXOSe8XadGwEUev6QjJ/916a64d20bcc59b8619fea1827fa6bd3/put-data-to-work--cover-v001.png?w=3840&q=90&fm=webp)
+![Reimagining advertising with AI — Card cover](https://images.ctfassets.net/kftzwdyauwt9/fHwkKLVG8WFHvuUPqMXtz/1c49ba0859fe1e1e21f5d64f692490f5/reimagining-advertising-with-ai-cover.png?w=3840&q=90&fm=webp)
 
-[Now everyone can put data to workProductSep 10, 2026](</index/put-data-to-work/>)
+[Reimagining advertising with AIProductSep 16, 2026](</index/reimagining-advertising-with-ai/>)
 
-![FinServ Blog - Art Card Texture Square](https://images.ctfassets.net/kftzwdyauwt9/6Bcg403pebiJhQdHUS17FK/572e478dc4579deca27c9700c662e908/finserv-art-card.png?w=3840&q=90&fm=webp)
+![How to connect AI usage to business value — art card](https://images.ctfassets.net/kftzwdyauwt9/36T42HPkipcJAs08yNirmR/f73d9408ef4f0b08b5cce3b839656843/cover-018.png?w=3840&q=90&fm=webp)
 
-[Introducing ChatGPT for Financial ServicesProductSep 10, 2026](</index/introducing-chatgpt-financial-services/>)
+[How to connect AI usage to business valueProductSep 16, 2026](</index/how-to-connect-ai-usage-to-business-value/>)
 
-![GPT-Live-1 API | Green-blue cover | Option 038](https://images.ctfassets.net/kftzwdyauwt9/1uBabEULLfw3Vb2Gldmyyq/c19c1c121ca403ee8b2703cba18ef82d/introducing-gpt-live-1-green-cover.png?w=3840&q=90&fm=webp)
+![Our framework for reporting model misalignment — card image](https://images.ctfassets.net/kftzwdyauwt9/3mJz9GkBOjZvAMYPx8M1dj/2a9ac4b7e18b1c08feef5368c4fde2e2/model-misalignment-reporting-framework--cover-v002.png?w=3840&q=90&fm=webp)
 
-[Build more natural voice experiences with GPT‑Live‑1 in the APIProductSep 10, 2026](</index/introducing-gpt-live-1-in-the-api/>)
+[Our framework for reporting model misalignmentResearchSep 16, 2026](</index/model-misalignment-reporting-framework/>)
 
 Research
 

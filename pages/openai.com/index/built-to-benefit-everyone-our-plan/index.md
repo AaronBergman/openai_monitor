@@ -94,7 +94,7 @@ _*AI resilience refers to the collective organizations, systems, and individuals
 
 
 
-## Author
+## Authors
 
 Sam Altman, Jakub Pachocki
 

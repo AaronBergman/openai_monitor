@@ -41,9 +41,13 @@ Today, OpenAI announced GPT‑5.6, which will become the new preferred model in 
 With GPT‑5.6, Microsoft 365 users will be able to create higher-quality work products with less effort across the apps they already rely on:
 
   * In Word, GPT‑5.6 can help people draft, edit, and refine documents with fewer rounds of prompting. 
+
   * In Excel, it can support deeper analysis while using tokens more efficiently, helping users move faster from data to insights. 
+
   * In PowerPoint, it can help turn early ideas into more polished, visually compelling presentations with less manual guidance. 
+
   * In Cowork, it can help users complete complex, cross-functional work and produce higher-quality outputs with less manual coordination.
+
 
 
 
@@ -67,17 +71,17 @@ OpenAI
 
 [View all](</news/>)
 
+![Reimagining advertising with AI — Card cover](https://images.ctfassets.net/kftzwdyauwt9/fHwkKLVG8WFHvuUPqMXtz/1c49ba0859fe1e1e21f5d64f692490f5/reimagining-advertising-with-ai-cover.png?w=3840&q=90&fm=webp)
+
+[Reimagining advertising with AIProductSep 16, 2026](</index/reimagining-advertising-with-ai/>)
+
+![How to connect AI usage to business value — art card](https://images.ctfassets.net/kftzwdyauwt9/36T42HPkipcJAs08yNirmR/f73d9408ef4f0b08b5cce3b839656843/cover-018.png?w=3840&q=90&fm=webp)
+
+[How to connect AI usage to business valueProductSep 16, 2026](</index/how-to-connect-ai-usage-to-business-value/>)
+
 ![Now everyone can put data to work — card image](https://images.ctfassets.net/kftzwdyauwt9/6FhMXOSe8XadGwEUev6QjJ/916a64d20bcc59b8619fea1827fa6bd3/put-data-to-work--cover-v001.png?w=3840&q=90&fm=webp)
 
 [Now everyone can put data to workProductSep 10, 2026](</index/put-data-to-work/>)
-
-![FinServ Blog - Art Card Texture Square](https://images.ctfassets.net/kftzwdyauwt9/6Bcg403pebiJhQdHUS17FK/572e478dc4579deca27c9700c662e908/finserv-art-card.png?w=3840&q=90&fm=webp)
-
-[Introducing ChatGPT for Financial ServicesProductSep 10, 2026](</index/introducing-chatgpt-financial-services/>)
-
-![GPT-Live-1 API | Green-blue cover | Option 038](https://images.ctfassets.net/kftzwdyauwt9/1uBabEULLfw3Vb2Gldmyyq/c19c1c121ca403ee8b2703cba18ef82d/introducing-gpt-live-1-green-cover.png?w=3840&q=90&fm=webp)
-
-[Build more natural voice experiences with GPT‑Live‑1 in the APIProductSep 10, 2026](</index/introducing-gpt-live-1-in-the-api/>)
 
 Research
 

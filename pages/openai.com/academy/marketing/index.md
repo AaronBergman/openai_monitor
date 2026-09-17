@@ -61,8 +61,11 @@ Marketing teams often use ChatGPT to move smoothly from idea to brief to assets 
 ## Why marketers use ChatGPT
 
   * **Helps you think more clearly, faster.** ChatGPT can take a messy starting point—notes, half-formed ideas, or lots of context—and turn it into a clear direction and next steps. It’s useful at both the beginning of a project, when you’re brainstorming or outlining, and at the end, when you’re tightening, polishing, and summarizing.
+
   * **Improved communication quality.** ChatGPT helps make writing clearer and more consistent—adapting tone, simplifying complex language, and tailoring messages to different audiences without losing the core meaning.
+
   * **Makes information easier to use.** It can condense long documents, meetings, or data-heavy updates into key takeaways so people can understand what matters and act on it.
+
 
 
 
@@ -78,9 +81,13 @@ Marketing teams often use ChatGPT to move smoothly from idea to brief to assets 
 ## How teams use ChatGPT effectively
 
   * **Treat it as a thought partner, not a one-shot tool.** Ask for multiple directions, react to what works, and refine from there.
+
   * **Improve work already in progress.** Adjust tone for different audiences, tighten messaging, or adapt one idea across channels and formats.
+
   * **Use ChatGPT to keep work moving**. Move past blank pages, explore ideas quickly, and reduce time spent rewriting.
+
   * **Apply human judgment for final decisions.** Review for nuance, accuracy, and final approvals.
+
 
 
 

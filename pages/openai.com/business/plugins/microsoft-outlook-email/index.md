@@ -24,7 +24,9 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 [Contact sales](</contact-sales/>)Try OpenAI
 
-OpenAI[View all plugins](</business/plugins/>)
+OpenAI
+
+[Plugins](</business/plugins/>)
 
 ![](https://files.openai.com/content?id=file_00000000f954722fa9fc7b5c09eb6970&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=1&sig=352148741b16c345f6537c69ed2fd83a3dacaeda210d5818bb7a66c44a09223b&v=0)![](https://files.openai.com/content?id=file_00000000f954722fa9fc7b5c09eb6970&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=1&sig=352148741b16c345f6537c69ed2fd83a3dacaeda210d5818bb7a66c44a09223b&v=0)
 
@@ -34,51 +36,68 @@ Search and reference your Outlook email.
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_1p_6bcb5879c73c819196abc70016166099>)[Contact sales](</contact-sales/>)
 
+Capabilities
+    Interactive, Write
+
+Category
+    [Productivity](</business/plugins/?tab=plugins-productivity>)
+
+Developer
+    OpenAI
+
+Website
+    [(opens in a new window)](<https://www.microsoft.com/en-us/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook>)
+
 [![](https://files.openai.com/content?id=file_0000000058ac81fbae22415c3105649e&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=8&sig=48cccf127f52db216b8d03d8f1602161a5b9d8145f27f8fbd36d14b6db41c76b&v=0)Outlook Email Summarize the most recent thread with procurement and pull the exact questions they asked so I can answer cleanly(opens in a new window)](<https://chatgpt.com/?prompt=%40Outlook+Email+Summarize+the+most+recent+thread+with+procurement+and+pull+the+exact+questions+they+asked+so+I+can+answer+cleanly>)[![](https://files.openai.com/content?id=file_0000000058ac81fbae22415c3105649e&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=8&sig=48cccf127f52db216b8d03d8f1602161a5b9d8145f27f8fbd36d14b6db41c76b&v=0)Outlook Email Draft a reply to the latest customer message: acknowledge the concern, set expectations, and offer two ways forward(opens in a new window)](<https://chatgpt.com/?prompt=%40Outlook+Email+Draft+a+reply+to+the+latest+customer+message%3A+acknowledge+the+concern%2C+set+expectations%2C+and+offer+two+ways+forward>)[![](https://files.openai.com/content?id=file_0000000058ac81fbae22415c3105649e&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=8&sig=48cccf127f52db216b8d03d8f1602161a5b9d8145f27f8fbd36d14b6db41c76b&v=0)Outlook Email Find the top 5 emails I should respond to today based on urgency, seniority, and deadlines; include one-line suggested replies(opens in a new window)](<https://chatgpt.com/?prompt=%40Outlook+Email+Find+the+top+5+emails+I+should+respond+to+today+based+on+urgency%2C+seniority%2C+and+deadlines%3B+include+one-line+suggested+replies>)
-
-Use case: [Productivity](</business/plugins/?tab=plugins-productivity>) and [Data](</business/plugins/?tab=plugins-data-research>)
-
-Made by: OpenAI
-
-Website: [microsoft.com(opens in a new window)](<https://www.microsoft.com/en-us/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook>)
 
 ## How it works
 
 Review your Outlook conversations to prepare replies, recap recent exchanges, gather talking points for meetings, or highlight action items.
 
-### Prepare faster with accurate communication history
+## Common use cases
+
+  * ### Prepare faster with accurate communication history
 
 Summarize long threads to capture decisions, risks, and open questions, helping teams enter customer or internal meetings aligned and ready with the right talking points.
 
-### Stay ahead of follow-ups and commitments
+Outlook Email Summarize the most recent thread with procurement and pull the exact questions they asked so I can answer cleanly.
+
+[(opens in a new window)](<https://chatgpt.com/?q=Outlook+Email+Summarize+the+most+recent+thread+with+procurement+and+pull+the+exact+questions+they+asked+so+I+can+answer+cleanly.>)
+
+  * ### Stay ahead of follow-ups and commitments
 
 Turn recent messages into clear action lists with owners and deadlines, reducing missed handoffs and keeping cross-functional work moving.
 
-### Prioritize high-impact conversations
+Outlook Email Draft a reply to the latest customer message that acknowledges the concern, sets expectations, and proposes two next-step options.
+
+[(opens in a new window)](<https://chatgpt.com/?q=Outlook+Email+Draft+a+reply+to+the+latest+customer+message+that+acknowledges+the+concern%2C+sets+expectations%2C+and+proposes+two+next-step+options.>)
+
+  * ### Prioritize high-impact conversations
 
 Highlight urgent messages, stakeholder outreach, and account risks so teams focus attention where it has the greatest business impact.
 
-## Sample prompts
+Outlook Email Find the top 5 emails I should respond to today based on urgency, seniority, and deadlines; include one-line suggested replies.
 
-Summarize an email thread
+[(opens in a new window)](<https://chatgpt.com/?q=Outlook+Email+Find+the+top+5+emails+I+should+respond+to+today+based+on+urgency%2C+seniority%2C+and+deadlines%3B+include+one-line+suggested+replies.>)
 
-**@Outlook Email** Summarize the most recent thread with procurement and pull the exact questions they asked so I can answer cleanly.
 
-Draft an email reply with deliverables
 
-**@Outlook Email** Draft a reply to the latest customer message that acknowledges the concern, sets expectations, and proposes two next-step options.
 
-Prioritize email responses
+## What’s included
 
-**@Outlook Email** Find the top 5 emails I should respond to today based on urgency, seniority, and deadlines; include one-line suggested replies.
+### App
+
+  * ![](https://chatgpt.com/images/ecosystem/apps/microsoft_outlook_email/icon.png)Microsoft Outlook Email
+
+
 
 ## Resources
 
-### [Help centerRead more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
+### [Help centerLearn more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
 
-### [Plugin supportRead more](<https://support.microsoft.com/outlook>)
+### [Plugin supportLearn more](<https://support.microsoft.com/outlook>)
 
-### [Privacy policyRead more](<https://privacy.microsoft.com>)
+### [Privacy policyLearn more](<https://privacy.microsoft.com>)
 
 ## Get started with plugins
 

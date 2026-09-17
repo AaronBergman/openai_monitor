@@ -28,6 +28,8 @@ OpenAI
 
 May 1, 2024
 
+[Safety](</news/safety-alignment/>)
+
 # Operation "Doppelganger": Russian influence activity targeting Ukraine
 
 OpenAI banned accounts associated with the Russia-origin operation "Doppelganger", using AI to generate anti-Ukraine social media comments, translations, and website copy across several languages.
@@ -96,6 +98,14 @@ _Reply on X to a Doppelganger post._
 
 Using the [Breakout Scale⁠(opens in a new window)](<https://www.brookings.edu/articles/the-breakout-scale-measuring-the-impact-of-influence-operations/>) to assess the impact of IO, which rates them on a scale of 1 (lowest) to 6 (highest), we would assess the activity that was related to the use of our models as being in Category 2, marked by posting activity on multiple platforms, but with no breakout or significant audience engagement in any of them.
 
+  * [Russia](</news/?tags=actor-origin-russia>)
+  * [ Europe](</news/?tags=target-geography-europe>)
+  * [North America](</news/?tags=target-geography-north-america>)
+  * [Influence operations](</news/?tags=activity-type-influence-operations>)
+  * [Harassment & repression](</news/?tags=harassment-and-repression>)
+
+
+
 ## Author
 
 OpenAI
@@ -110,6 +120,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)

@@ -24,7 +24,9 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 [Contact sales](</contact-sales/>)Try OpenAI
 
-OpenAI[View all plugins](</business/plugins/>)
+OpenAI
+
+[Plugins](</business/plugins/>)
 
 ![](https://files.openai.com/content?id=file_0000000052b881f4add502e930b75ba2&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=8&sig=f25dd4b463fb7b10dc7bdfc9d9e3155a9794b3dc8e9d8bb573af55798d90d229&v=0)![](https://files.openai.com/content?id=file_0000000052b881f4add502e930b75ba2&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=8&sig=f25dd4b463fb7b10dc7bdfc9d9e3155a9794b3dc8e9d8bb573af55798d90d229&v=0)
 
@@ -34,45 +36,65 @@ Build & Ship AI analytics
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6aa240082b3c81919f204960ce7e0dc0>)[Contact sales](</contact-sales/>)
 
+Category
+    [Data](</business/plugins/?tab=plugins-data-research>)
+
+Developer
+    ThoughtSpot
+
+Website
+    [(opens in a new window)](<https://www.thoughtspot.com/>)
+
 [![](https://files.openai.com/content?id=file_00000000ed648211bd6b1d2bd35935ae&cdn=1&cp=pi&ma=30931200&ts=0&p=pi&cid=8&sig=2301391f081d1fe4c1a980443f2225d8409c916973d8c89174b09f28387de4f4&v=0)ThoughtSpot SpotterCode Embed a ThoughtSpot Liveboard in React with cookieless trusted auth and runtime filters by customer ID.(opens in a new window)](<https://chatgpt.com/?prompt=%40ThoughtSpot+SpotterCode+Embed+a+ThoughtSpot+Liveboard+in+React+with+cookieless+trusted+auth+and+runtime+filters+by+customer+ID.>)[![](https://files.openai.com/content?id=file_00000000ed648211bd6b1d2bd35935ae&cdn=1&cp=pi&ma=30931200&ts=0&p=pi&cid=8&sig=2301391f081d1fe4c1a980443f2225d8409c916973d8c89174b09f28387de4f4&v=0)ThoughtSpot SpotterCode List Liveboards tagged 'executive', show who can edit each, and tag them all 'Exec Reporting'.(opens in a new window)](<https://chatgpt.com/?prompt=%40ThoughtSpot+SpotterCode+List+Liveboards+tagged+%27executive%27%2C+show+who+can+edit+each%2C+and+tag+them+all+%27Exec+Reporting%27.>)[![](https://files.openai.com/content?id=file_00000000ed648211bd6b1d2bd35935ae&cdn=1&cp=pi&ma=30931200&ts=0&p=pi&cid=8&sig=2301391f081d1fe4c1a980443f2225d8409c916973d8c89174b09f28387de4f4&v=0)ThoughtSpot SpotterCode My SpotterEmbed keeps firing AuthExpire. How do I set up automatic token refresh?(opens in a new window)](<https://chatgpt.com/?prompt=%40ThoughtSpot+SpotterCode+My+SpotterEmbed+keeps+firing+AuthExpire.+How+do+I+set+up+automatic+token+refresh%3F>)
-
-Use case: [Data](</business/plugins/?tab=plugins-data-research>)
-
-Made by: ThoughtSpot
-
-Website: [thoughtspot.com(opens in a new window)](<https://www.thoughtspot.com/>)
 
 ## How it works
 
 Whether you're a developer building embedded analytics, a product leader shipping AI-powered features, or a data team managing a live data workflow, SpotterCode by ThoughtSpot is your AI pair programmer, turning instructions into execution and delivering AI analytics and management that drive the business forward.
 
-### Embed customer analytics
+## Common use cases
+
+  * ### Embed customer analytics
 
 Build a React Liveboard embed with customer-specific filters and trusted authentication.
 
-### Organize executive reporting
+ThoughtSpot SpotterCode Embed a ThoughtSpot Liveboard in React with cookieless trusted auth and runtime filters by customer ID.
+
+[(opens in a new window)](<https://chatgpt.com/?q=ThoughtSpot+SpotterCode+Embed+a+ThoughtSpot+Liveboard+in+React+with+cookieless+trusted+auth+and+runtime+filters+by+customer+ID.>)
+
+  * ### Organize executive reporting
 
 Review edit access to executive Liveboards and apply a shared reporting tag.
 
-### Fix embedded authentication
+ThoughtSpot SpotterCode List Liveboards tagged 'executive', show who can edit each, and tag them all 'Exec Reporting'.
+
+[(opens in a new window)](<https://chatgpt.com/?q=ThoughtSpot+SpotterCode+List+Liveboards+tagged+%27executive%27%2C+show+who+can+edit+each%2C+and+tag+them+all+%27Exec+Reporting%27.>)
+
+  * ### Fix embedded authentication
 
 Diagnose expiring embed sessions and implement token refresh.
 
-## Sample prompts
+ThoughtSpot SpotterCode Diagnose repeated AuthExpire events in my SpotterEmbed. Review my authentication code, implement automatic token refresh, and explain how to verify that the embedded session recovers.
 
-**@ThoughtSpot SpotterCode** Embed a ThoughtSpot Liveboard in React with cookieless trusted auth and runtime filters by customer ID.
+[(opens in a new window)](<https://chatgpt.com/?q=ThoughtSpot+SpotterCode+Diagnose+repeated+AuthExpire+events+in+my+SpotterEmbed.+Review+my+authentication+code%2C+implement+automatic+token+refresh%2C+and+explain+how+to+verify+that+the+embedded+session+recovers.>)
 
-**@ThoughtSpot SpotterCode** List Liveboards tagged 'executive', show who can edit each, and tag them all 'Exec Reporting'.
 
-**@ThoughtSpot SpotterCode** Diagnose repeated AuthExpire events in my SpotterEmbed. Review my authentication code, implement automatic token refresh, and explain how to verify that the embedded session recovers.
+
+
+## What’s included
+
+### App
+
+  * ![](https://files.openai.com/content?id=file_0000000052b881f4add502e930b75ba2&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=8&sig=f25dd4b463fb7b10dc7bdfc9d9e3155a9794b3dc8e9d8bb573af55798d90d229&v=0)ThoughtSpot SpotterCode
+
+
 
 ## Resources
 
-### [Help centerRead more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
+### [Help centerLearn more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
 
-### [Plugin supportRead more](<https://thoughtspot.com/support-request>)
+### [Plugin supportLearn more](<https://thoughtspot.com/support-request>)
 
-### [Privacy policyRead more](<https://www.thoughtspot.com/privacy-statement>)
+### [Privacy policyLearn more](<https://www.thoughtspot.com/privacy-statement>)
 
 ## Get started with plugins
 

@@ -61,9 +61,13 @@ Preparing for recursive self-improvement
 _Here’s what we’re doing:_
 
   1. _**Pushing for mandatory national AI safety requirements.**__We want to work with Congress on mandatory, capability-based national AI safety regulation._
+
   2. _**Keeping up momentum in the states.**__Until Congress acts, we will continue supporting state legislation that strengthens the broader AI safety ecosystem. Today, we are announcing our support for four California bills: SB 813 on overall infrastructure for independent safety assessments, AB 1405 on AI-auditor standards, SB 1119 on protections for young people, and AB 1864 on safeguards against AI-enabled biological threats._
+
   3. _**Advancing industry-led standards.**__We will work with other frontier labs to advance frontier AI standards, building a voluntary effort now, with or without government support._
+
   4. _**Building global standards.**__We will advocate for compatible international approaches to measuring capabilities, managing risk, preserving human control, and determining when and how development should slow or stop, even if that means slowing the advancement of model capabilities._
+
 
 
 
@@ -162,17 +166,17 @@ Chris Lehane
 
 [View all](</news/>)
 
+![Helping older adults use AI in everyday life — art card](https://images.ctfassets.net/kftzwdyauwt9/6ewlK5oKVHp0phTezeh0rT/2c9454f9757b567c1837e07013ffe2f1/older-adults-art-card-v001.png?w=3840&q=90&fm=webp)
+
+[Helping older adults use AI in everyday lifeGlobal AffairsSep 16, 2026](</index/helping-older-adults-use-ai-in-everyday-life/>)
+
+![How workers are turning AI experimentation into new ways of working > Cover image](https://images.ctfassets.net/kftzwdyauwt9/2jmyTNjTKCj9B3jyQBjFMr/24da3865e110be70e6e93b196cfd752c/blog-art-card-option040-v001.png?w=3840&q=90&fm=webp)
+
+[How workers are unlocking new ways of workingGlobal AffairsSep 16, 2026](</index/unlocking-new-ways-of-working/>)
+
 ![Expanding AI access across every level of US government - listing image - Option 051](https://images.ctfassets.net/kftzwdyauwt9/2DbgwJ93neBePatQjKO2h7/d63008264f83f3dcc786fe98410151be/government-blog-card-option-051-review-1080x1080.png?w=3840&q=90&fm=webp)
 
 [Expanding AI access across every level of US governmentGlobal AffairsSep 10, 2026](</index/expanding-ai-access-us-government/>)
-
-![Supporting independent journalism in Ukraine — card image](https://images.ctfassets.net/kftzwdyauwt9/3wATLIxaR9ch8uwHbmLURE/b43c566703960e61d4159760ed8a3c2b/supporting-independent-journalism-in-ukraine-cover-option-029.png?w=3840&q=90&fm=webp)
-
-[Supporting independent journalism in UkraineGlobal AffairsSep 7, 2026](</index/supporting-independent-journalism-in-ukraine/>)
-
-![DMUA Russia > card image ](https://images.ctfassets.net/kftzwdyauwt9/ciRSLFnJsNyxXYQjdoyqu/ff8ab22ad273ff79a4c9840f0c209fe6/Frame.png?w=3840&q=90&fm=webp)
-
-[Disrupting a new covert influence campaign from RussiaGlobal AffairsAug 25, 2026](</index/disrupting-malicious-uses-of-ai-influence-campaign-russia/>)
 
 Research
 

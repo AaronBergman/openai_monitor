@@ -28,9 +28,11 @@ OpenAI
 
 May 1, 2024
 
+[Safety](</news/safety-alignment/>)
+
 # "Bad Grammar": Russian-linked Telegram comment activity
 
-OpenAI banned accounts linked to a previously unreprorted Russia-origin operation we dubbed "Bad Grammar", using AI to generate English- and Russian-language Telegram comments on Ukraine, Moldova, Baltic, and US politics.
+OpenAI banned accounts linked to a previously unreported Russia-origin operation we dubbed "Bad Grammar", using AI to generate English- and Russian-language Telegram comments on Ukraine, Moldova, Baltic, and US politics.
 
 Loading…
 
@@ -84,6 +86,19 @@ Occasionally, the network used our models to generate what appear to have been p
 
 Using the [Breakout Scale⁠(opens in a new window)](<https://www.brookings.edu/articles/the-breakout-scale-measuring-the-impact-of-influence-operations/>) to assess the impact of IO, which rates them on a scale of 1 (lowest) to 6 (highest), we would assess this as being in Category 1, marked by posting activity on a single platform, with no evidence of significant amplification by people outside the network.
 
+  * [Russia](</news/?tags=actor-origin-russia>)
+  * [Russia](</news/?tags=target-geography-russia>)
+  * [Ukraine](</news/?tags=target-geography-ukraine>)
+  * [Moldova](</news/?tags=target-geography-moldova>)
+  * [United States](</news/?tags=target-geography-united-states>)
+  * [Estonia](</news/?tags=target-geography-estonia>)
+  * [Latvia](</news/?tags=target-geography-latvia>)
+  * [Lithuania](</news/?tags=target-geography-lithuania>)
+  * [Tajikistan](</news/?tags=target-geography-tajikistan>)
+  * [Influence operations](</news/?tags=activity-type-influence-operations>)
+
+
+
 ## Author
 
 OpenAI
@@ -98,6 +113,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)

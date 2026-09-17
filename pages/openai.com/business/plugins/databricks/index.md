@@ -24,7 +24,9 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 [Contact sales](</contact-sales/>)Try OpenAI
 
-OpenAI[View all plugins](</business/plugins/>)
+OpenAI
+
+[Plugins](</business/plugins/>)
 
 ![](https://files.openai.com/content?id=file_00000000fb6081f7aa3f621147713ad6&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=7b7a02db1929ca7e8aebd24b459d525b6ac1ae88b282b387816507320645a98d&v=0)![](https://files.openai.com/content?id=file_00000000fb6081f7aa3f621147713ad6&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=7b7a02db1929ca7e8aebd24b459d525b6ac1ae88b282b387816507320645a98d&v=0)
 
@@ -34,51 +36,69 @@ Analyze lakehouse data and dashboards with natural language.
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/Plugin_1e24c86b19248191a8c6abb5bc115819>)[Contact sales](</contact-sales/>)
 
+Capabilities
+    Interactive, Read, Write
+
+Category
+    [Data](</business/plugins/?tab=plugins-data-research>)
+
+Developer
+    OpenAI
+
+Website
+    [(opens in a new window)](<https://www.databricks.com/>)
+
 [![](https://files.openai.com/content?id=file_00000000a06481f6b01ef561cffb7a27&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=8&sig=361dece7ef5ee83a94bd0a3362b6e9db0384316cfed471514d48be0228d20d15&v=0)Databricks Genie Find the main drivers of last week's change in [metric]. Show the query path, summarize the result, and note caveats(opens in a new window)](<https://chatgpt.com/?prompt=%40Databricks+Genie+Find+the+main+drivers+of+last+week%27s+change+in+%5Bmetric%5D.+Show+the+query+path%2C+summarize+the+result%2C+and+note+caveats>)[![](https://files.openai.com/content?id=file_00000000a06481f6b01ef561cffb7a27&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=8&sig=361dece7ef5ee83a94bd0a3362b6e9db0384316cfed471514d48be0228d20d15&v=0)Databricks Genie Review this dashboard and explain what changed most versus the prior period, with likely drivers and follow-up checks(opens in a new window)](<https://chatgpt.com/?prompt=%40Databricks+Genie+Review+this+dashboard+and+explain+what+changed+most+versus+the+prior+period%2C+with+likely+drivers+and+follow-up+checks>)[![](https://files.openai.com/content?id=file_00000000a06481f6b01ef561cffb7a27&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=8&sig=361dece7ef5ee83a94bd0a3362b6e9db0384316cfed471514d48be0228d20d15&v=0)Databricks Genie Create a reusable analysis plan for [question], including required tables, joins, metrics, and validation steps(opens in a new window)](<https://chatgpt.com/?prompt=%40Databricks+Genie+Create+a+reusable+analysis+plan+for+%5Bquestion%5D%2C+including+required+tables%2C+joins%2C+metrics%2C+and+validation+steps>)
-
-Use case: [Data](</business/plugins/?tab=plugins-data-research>)
-
-Made by: OpenAI
-
-Website: [databricks.com(opens in a new window)](<https://www.databricks.com/>)
 
 ## How it works
 
 Connect Databricks to ChatGPT to inspect governed lakehouse data, ask analytics questions, generate SQL, summarize dashboards or Genie outputs, and package insights for teams.
 
-### Explore lakehouse data faster
+## Common use cases
+
+  * ### Explore lakehouse data faster
 
 Ask questions across governed Databricks tables, dashboards, and metrics to get a clear starting point for analysis.
 
-### Generate and review SQL
+Databricks Genie Find the main drivers of last week's change in [metric]. Show the query path, summarize the result, and note caveats.
+
+[(opens in a new window)](<https://chatgpt.com/?q=Databricks+Genie+Find+the+main+drivers+of+last+week%27s+change+in+%5Bmetric%5D.+Show+the+query+path%2C+summarize+the+result%2C+and+note+caveats.>)
+
+  * ### Generate and review SQL
 
 Draft queries, explain logic, and inspect outputs so analysts can move from question to validated result faster.
 
-### Package insights for stakeholders
+Databricks Genie Draft SQL to calculate [metric] by [dimension] for the last 90 days. Explain the joins and filters, and list checks for missing data or unexpected values.
+
+[(opens in a new window)](<https://chatgpt.com/?q=Databricks+Genie+Draft+SQL+to+calculate+%5Bmetric%5D+by+%5Bdimension%5D+for+the+last+90+days.+Explain+the+joins+and+filters%2C+and+list+checks+for+missing+data+or+unexpected+values.>)
+
+  * ### Package insights for stakeholders
 
 Turn Databricks results into charts, reports, summaries, or next-step recommendations with source context preserved.
 
-## Sample prompts
+Databricks Genie Review this dashboard and explain what changed most versus the prior period, with likely drivers and follow-up checks.
 
-Analyze a business metric
+[(opens in a new window)](<https://chatgpt.com/?q=Databricks+Genie+Review+this+dashboard+and+explain+what+changed+most+versus+the+prior+period%2C+with+likely+drivers+and+follow-up+checks.>)
 
-@Databricks Find the main drivers of last week's change in [metric]. Show the query path, summarize the result, and note caveats.
 
-Summarize dashboard changes
 
-**@Databricks Genie** Draft SQL to calculate [metric] by [dimension] for the last 90 days. Explain the joins and filters, and list checks for missing data or unexpected values.
 
-Draft reusable analysis
+## What’s included
 
-@Databricks Review this dashboard and explain what changed most versus the prior period, with likely drivers and follow-up checks.
+### Skills
+
+  * databricks
+  * databricks-dashboards
+
+
 
 ## Resources
 
-### [Help centerRead more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
+### [Help centerLearn more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
 
-### [Plugin supportRead more](<https://help.databricks.com>)
+### [Plugin supportLearn more](<https://help.databricks.com>)
 
-### [Privacy policyRead more](<https://www.databricks.com/legal/privacynotice>)
+### [Privacy policyLearn more](<https://www.databricks.com/legal/privacynotice>)
 
 ## Get started with plugins
 

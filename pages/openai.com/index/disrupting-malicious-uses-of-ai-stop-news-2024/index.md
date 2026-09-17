@@ -28,6 +28,8 @@ OpenAI
 
 October 1, 2024
 
+[Safety](</news/safety-alignment/>)
+
 # Operation “Stop News”: Russia-origin influence activity
 
 OpenAI banned Russia-origin “Stop News” accounts using AI to generate multilingual articles and posts targeting Ukraine and the West.
@@ -85,9 +87,21 @@ As part of our disruption of this network, we have shared indicators with the re
 ## Domains associated with this activity
 
   * Euronewstop.co.uk
+
   * Newstop.africa
+
   * Britishtalks.com
+
   * Britishattitudes.com
+
+
+
+
+  * [Russia](</news/?tags=actor-origin-russia>)
+  * [United Kingdom](</news/?tags=target-geography-united-kingdom>)
+  * [West Africa](</news/?tags=target-geography-west-africa>)
+  * [Russia](</news/?tags=target-geography-russia>)
+  * [Influence operations](</news/?tags=activity-type-influence-operations>)
 
 
 
@@ -105,6 +119,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)

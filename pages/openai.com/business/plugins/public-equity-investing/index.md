@@ -24,7 +24,9 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 [Contact sales](</contact-sales/>)Try OpenAI
 
-OpenAI[View all plugins](</business/plugins/>)
+OpenAI
+
+[Plugins](</business/plugins/>)
 
 ![](https://files.openai.com/content?id=file_00000000179c722f9e8a66d8ff27e98b&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=1&sig=95f7e407c6513f685f25b524ef42ee91ef631083e36c6ea4e3e24667b4692c84&v=0)![](https://files.openai.com/content?id=file_00000000179c722f9e8a66d8ff27e98b&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=1&sig=95f7e407c6513f685f25b524ef42ee91ef631083e36c6ea4e3e24667b4692c84&v=0)
 
@@ -34,51 +36,90 @@ Support company research and deal analysis.
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/Plugin_b31b1ece54648191a6760ea4580bba3e>)[Contact sales](</contact-sales/>)
 
+Capabilities
+    Interactive, Read, Write
+
+Category
+    [Finance](</business/plugins/?tab=plugins-finance>)
+
+Developer
+    OpenAI
+
+Website
+    [(opens in a new window)](<https://openai.com/>)
+
 [![](https://files.openai.com/content?id=file_00000000328881f5bcf6af410729fa0d&cdn=1&cp=pi&ma=32486400&ts=0&p=pi&cid=8&sig=ca200c842643e497306fee6a9c4a0ef347d542205e82aafa607f8179d866de43&v=0)Public Equity Investing Build a deep NVIDIA pre-earnings preview: expectations, KPIs, margin debates, scenarios, and management questions.(opens in a new window)](<https://chatgpt.com/?prompt=%40Public+Equity+Investing+Build+a+deep+NVIDIA+pre-earnings+preview%3A+expectations%2C+KPIs%2C+margin+debates%2C+scenarios%2C+and+management+questions.>)[![](https://files.openai.com/content?id=file_00000000328881f5bcf6af410729fa0d&cdn=1&cp=pi&ma=32486400&ts=0&p=pi&cid=8&sig=ca200c842643e497306fee6a9c4a0ef347d542205e82aafa607f8179d866de43&v=0)Public Equity Investing Create a Disney long/short pitch: streaming, parks, ESPN, capital allocation, valuation, catalysts, and downside risks.(opens in a new window)](<https://chatgpt.com/?prompt=%40Public+Equity+Investing+Create+a+Disney+long%2Fshort+pitch%3A+streaming%2C+parks%2C+ESPN%2C+capital+allocation%2C+valuation%2C+catalysts%2C+and+downside+risks.>)[![](https://files.openai.com/content?id=file_00000000328881f5bcf6af410729fa0d&cdn=1&cp=pi&ma=32486400&ts=0&p=pi&cid=8&sig=ca200c842643e497306fee6a9c4a0ef347d542205e82aafa607f8179d866de43&v=0)Public Equity Investing Build a Tesla catalyst and valuation brief: recent news, expectations, key debates, scenarios, risks, and an investment view.(opens in a new window)](<https://chatgpt.com/?prompt=%40Public+Equity+Investing+Build+a+Tesla+catalyst+and+valuation+brief%3A+recent+news%2C+expectations%2C+key+debates%2C+scenarios%2C+risks%2C+and+an+investment+view.>)
-
-Use case: [Finance](</business/plugins/?tab=plugins-finance>)
-
-Made by: OpenAI
-
-Website: [openai.com(opens in a new window)](<https://openai.com/>)
 
 ## How it works
 
 Use Public Equity Investing in ChatGPT to support market scans, company research, diligence checklists, IC memos, and portfolio updates with structured analysis for human review.
 
-### Accelerate company research
+## Common use cases
+
+  * ### Accelerate company research
 
 Create company profiles, market maps, competitor summaries, and diligence questions from available sources and deal context.
 
-### Structure diligence workflows
+Public Equity Investing Build a PM-ready post-earnings deep dive for [TICKER] that separates what beat, what missed, what changed, and what would make us add, trim, or exit.
+
+[(opens in a new window)](<https://chatgpt.com/?q=Public+Equity+Investing+Build+a+PM-ready+post-earnings+deep+dive+for+%5BTICKER%5D+that+separates+what+beat%2C+what+missed%2C+what+changed%2C+and+what+would+make+us+add%2C+trim%2C+or+exit.>)
+
+  * ### Structure diligence workflows
 
 Turn scattered notes into issue lists, workstreams, owner trackers, and questions for management or advisors.
 
-### Draft investment materials
+Public Equity Investing Turn these diligence notes for [company] into an issue list with workstreams, owners, open questions for management, and evidence still needed.
+
+[(opens in a new window)](<https://chatgpt.com/?q=Public+Equity+Investing+Turn+these+diligence+notes+for+%5Bcompany%5D+into+an+issue+list+with+workstreams%2C+owners%2C+open+questions+for+management%2C+and+evidence+still+needed.>)
+
+  * ### Draft investment materials
 
 Prepare IC memo sections, portfolio updates, and thesis summaries with assumptions, risks, and open questions.
 
-## Sample prompts
+Public Equity Investing Pressure-test a long thesis on [TICKER] by identifying the variant perception, catalyst path, downside case, sizing guardrails, and thesis breakers.
 
-Post earnings deep dive
+[(opens in a new window)](<https://chatgpt.com/?q=Public+Equity+Investing+Pressure-test+a+long+thesis+on+%5BTICKER%5D+by+identifying+the+variant+perception%2C+catalyst+path%2C+downside+case%2C+sizing+guardrails%2C+and+thesis+breakers.>)
 
-**@Public Equity Investing** Build a PM-ready post-earnings deep dive for [TICKER] that separates what beat, what missed, what changed, and what would make us add, trim, or exit.
 
-Investment pitch
 
-**@Public Equity Investing** Turn these diligence notes for [company] into an issue list with workstreams, owners, open questions for management, and evidence still needed.
 
-Financial model updates
+## What’s included
 
-**@Public Equity Investing** Pressure-test a long thesis on [TICKER] by identifying the variant perception, catalyst path, downside case, sizing guardrails, and thesis breakers.
+### Apps
+
+  * ![](https://files.openai.com/content?id=file_00000000dc7c71fd8213f2c75804d1d3&cdn=1&cp=pi&ma=30240000&ts=0&p=pi&cid=8&sig=3ea4b7ce3505fba383377ac5ffba6ac1c2809a009416862019de7f5caa17ee45&v=0)Slack
+  * ![](https://files.openai.com/content?id=file_000000000aac722f9874ed898f906fe5&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=1&sig=85be1e32ecd5938ebde62c35d9d37bc83792db94ae1d5bbc145313f90f374c50&v=0)PitchBook
+  * ![](https://files.openai.com/content?id=file_00000000054071f6a741dd5d7b628fa2&cdn=1&cp=pi&ma=31795200&ts=0&p=pi&cid=8&sig=211ad3867a45dd32cdebba1d0492d56ee9800c4a2d0eba5e1ed2657f5dd4ec65&v=0)FactSet AI-Ready Data
+  * connector_69248819fa4c81918047c4b42b1f8823
+  * ![](https://files.openai.com/content?id=file_00000000838c71f689139639dc435b8e&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=8&sig=ded0420cc73fb5c48598cd93c52b4a70df4b0f8445c20c8d1c8c2ecc49f77954&v=0)LSEG
+  * ![](https://files.openai.com/content?id=file_000000000b0871f681cf070ad42e6f47&cdn=1&cp=pi&ma=31536000&ts=0&p=pi&cid=8&sig=2ea825488886901ff5f14e79cbcdecc2d386249ae609727e5466e71d6fb5acc2&v=0)S&P Global - Deterministic
+  * ![](https://files.openai.com/content?id=file_000000005c2871f687e91ff19cf14485&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=7&sig=02294f7bf0ef6013d4ee595b83d42995be0e52760b660bc21e45f4a1ae1043b8&v=0)Third Bridge
+  * ![](https://files.openai.com/content?id=file_00000000af747230bc1606d46c839ee8&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=1&sig=c8a8bc6383ae28c34005525b223aab157382f62b2c5ff707b76f4a38b1b33e32&v=0)Daloopa
+  * 7 more
+
+
+
+### Skills
+
+  * Catalyst Calendar
+  * Company Tearsheet
+  * Comps Valuation
+  * DCF Model Builder
+  * Deck & Report QC
+  * Earnings Deep Dive & Summary
+  * Earnings-Preview
+  * Economic Impact Report
+  * 15 more
+
+
 
 ## Resources
 
-### [Help centerRead more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
+### [Help centerLearn more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
 
-### [Plugin supportRead more](<https://help.openai.com/>)
+### [Plugin supportLearn more](<https://help.openai.com/>)
 
-### [Privacy policyRead more](<https://openai.com/policies/privacy-policy/>)
+### [Privacy policyLearn more](<https://openai.com/policies/privacy-policy/>)
 
 ## Get started with plugins
 

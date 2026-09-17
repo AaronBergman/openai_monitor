@@ -24,7 +24,9 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 [Contact sales](</contact-sales/>)Try OpenAI
 
-OpenAI[View all plugins](</business/plugins/>)
+OpenAI
+
+[Plugins](</business/plugins/>)
 
 ![](https://files.openai.com/content?id=file_000000007ee471f68631b7c4fb2ffa0a&cdn=1&cp=pi&ma=31536000&ts=0&p=pi&cid=7&sig=f39323d7fba4dba005497862549d9ff3191e0c24bc6700a2237bf3762d766f18&v=0)![](https://files.openai.com/content?id=file_00000000e2d871f68e451c2bb9f42a42&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=7&sig=3ba6e3e1b43a390e59ea926e37c54ea9438a2986c3edb670677ee8d4b26bfd24&v=0)
 
@@ -34,45 +36,65 @@ Connect to Statsig
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6967f065ac9481918969c660ff7686e9>)[Contact sales](</contact-sales/>)
 
+Category
+    [Engineering & IT](</business/plugins/?tab=plugins-engineering-it>)
+
+Developer
+    Statsig, LLC
+
+Website
+    [(opens in a new window)](<https://statsig.com>)
+
 [![](https://files.openai.com/content?id=file_000000005f5871f58e068d2bb520507f&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=1&sig=15b18a8514ce4e16e8c8c57fa202c2e844a0b8982c1e74d6fd8b26d329338fd4&v=0)Statsig Analyze results of Statsig experiment shorter_blog_titles(opens in a new window)](<https://chatgpt.com/?prompt=%40Statsig+Analyze+results+of+Statsig+experiment+shorter_blog_titles>)
-
-Use case: [Engineering & IT](</business/plugins/?tab=plugins-engineering-it>) and [Data](</business/plugins/?tab=plugins-data-research>)
-
-Made by: Statsig, LLC
-
-Website: [statsig.com(opens in a new window)](<https://statsig.com>)
 
 ## How it works
 
 Bring your Statsig workspace into Codex. Product builders can now explore, manage, and create Statsig experiments, feature gates, dynamic configs, and more directly in Codex conversations. Ask things like: “Move this experiment to 50% rollout.” “Turn on this feature gate for all users.” “Show me which dynamic configs changed this week.” "Explain how the DAU metric is defined.” You can both read and write to Statsig: inspect experiment settings, read metric definitions, update allocations, toggle feature flags, edit targeting rules, and modify dynamic config values directly from Codex. The app connects through Statsig’s MCP server and honors your existing Statsig permissions, so you only see and change what you’re authorized to access—across projects, environments, and teams.
 
-### Review an experiment decision
+## Common use cases
+
+  * ### Review an experiment decision
 
 Turn experiment results and guardrail metrics into a rollout recommendation with clear uncertainty.
 
-### Choose activation metrics
+Statsig Review the shorter_blog_titles experiment. Summarize primary and guardrail results, assess uncertainty, and recommend whether to ship, continue testing, or revise the experiment, with supporting evidence.
+
+[(opens in a new window)](<https://chatgpt.com/?q=Statsig+Review+the+shorter_blog_titles+experiment.+Summarize+primary+and+guardrail+results%2C+assess+uncertainty%2C+and+recommend+whether+to+ship%2C+continue+testing%2C+or+revise+the+experiment%2C+with+supporting+evidence.>)
+
+  * ### Choose activation metrics
 
 Select a primary metric and guardrails using the definitions already available in your Statsig project.
 
-### Audit recent rollout changes
+Statsig Find metrics relevant to a seven-day activation experiment. Compare their definitions and sources, recommend one primary metric and two guardrails, and explain any measurement gaps before launch.
+
+[(opens in a new window)](<https://chatgpt.com/?q=Statsig+Find+metrics+relevant+to+a+seven-day+activation+experiment.+Compare+their+definitions+and+sources%2C+recommend+one+primary+metric+and+two+guardrails%2C+and+explain+any+measurement+gaps+before+launch.>)
+
+  * ### Audit recent rollout changes
 
 Summarize recent gate and configuration changes and identify the changes that deserve closer review.
 
-## Sample prompts
+Statsig Review feature gate and dynamic config changes from the past seven days. Summarize what changed and who made each change, then prioritize items for review based on their targeting and rollout impact.
 
-**@Statsig** Review the shorter_blog_titles experiment. Summarize primary and guardrail results, assess uncertainty, and recommend whether to ship, continue testing, or revise the experiment, with supporting evidence.
+[(opens in a new window)](<https://chatgpt.com/?q=Statsig+Review+feature+gate+and+dynamic+config+changes+from+the+past+seven+days.+Summarize+what+changed+and+who+made+each+change%2C+then+prioritize+items+for+review+based+on+their+targeting+and+rollout+impact.>)
 
-**@Statsig** Find metrics relevant to a seven-day activation experiment. Compare their definitions and sources, recommend one primary metric and two guardrails, and explain any measurement gaps before launch.
 
-**@Statsig** Review feature gate and dynamic config changes from the past seven days. Summarize what changed and who made each change, then prioritize items for review based on their targeting and rollout impact.
+
+
+## What’s included
+
+### App
+
+  * ![](https://files.openai.com/content?id=file_000000007ee471f68631b7c4fb2ffa0a&cdn=1&cp=pi&ma=31536000&ts=0&p=pi&cid=7&sig=f39323d7fba4dba005497862549d9ff3191e0c24bc6700a2237bf3762d766f18&v=0)Statsig
+
+
 
 ## Resources
 
-### [Help centerRead more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
+### [Help centerLearn more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
 
-### [Plugin supportRead more](<https://statsigcommunity.slack.com/join/shared_invite/zt-3lyt5mtn8-KEM9tqPvLkBJ9ZC2ULqoxw#/shared-invite/email>)
+### [Plugin supportLearn more](<https://statsigcommunity.slack.com/join/shared_invite/zt-3lyt5mtn8-KEM9tqPvLkBJ9ZC2ULqoxw#/shared-invite/email>)
 
-### [Privacy policyRead more](<https://www.statsig.com/privacy>)
+### [Privacy policyLearn more](<https://www.statsig.com/privacy>)
 
 ## Get started with plugins
 

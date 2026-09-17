@@ -28,9 +28,11 @@ OpenAI
 
 May 1, 2024
 
+[Safety](</news/safety-alignment/>)
+
 # Operation "Zero Zeno": Israel-linked influence activity
 
-OpenAI banned accounts linked to a previously unreprorted Israel-origin operation we dubbed “Zero Zeno,” using AI to generate anti-Hamas, anti-Qatar, pro-Israel, anti-BJP, and pro-Histadrut content.
+OpenAI banned accounts linked to a previously unreported Israel-origin operation we dubbed “Zero Zeno,” using AI to generate anti-Hamas, anti-Qatar, pro-Israel, anti-BJP, and pro-Histadrut content.
 
 Loading…
 
@@ -101,9 +103,23 @@ _YouTube channel associated with this operation’s Canada-focused campaign. As 
 We identified the following domains as being associated with Zero Zeno’s campaigns.
 
   * nonagenda.com
+
   * the-good-samaritan.com
+
   * uc4canada.com
+
   * ufnews.io
+
+
+
+
+  * [Israel](</news/?tags=actor-origin-israel>)
+  * [Canada](</news/?tags=target-geography-canada>)
+  * [United States](</news/?tags=target-geography-united-states>)
+  * [Israel](</news/?tags=target-geography-israel>)
+  * [India](</news/?tags=target-geography-india>)
+  * [Ghana](</news/?tags=target-geography-ghana>)
+  * [Influence operations](</news/?tags=activity-type-influence-operations>)
 
 
 
@@ -121,6 +137,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)

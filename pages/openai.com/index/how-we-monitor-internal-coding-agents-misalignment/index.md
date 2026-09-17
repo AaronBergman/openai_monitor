@@ -99,8 +99,11 @@ While we continue to improve its reliability, our current asynchronous monitorin
 The roadmap towards such an infrastructure includes:
 
   1. Control evaluations which allow us to estimate the recall of our monitors on adversarially-constructed distributions and our ability to prevent harm by acting upon monitor predictions, including evaluations for whether the monitor could collude with the agent. As a first step towards this we developed an evaluation where an agent attempts to sneakily sabotage PRs to the OpenAI codebase (detailed in [_Guan et al., 2025_ ⁠(opens in a new window)](<https://arxiv.org/abs/2512.18311>)). On this task our latest monitor system achieved perfect performance, although this task is unrealistically easy for the monitor in many ways, and we’re working to understand the limitations of the current system.
+
   2. Standards for acceptable reliability and latency for monitors and human reviewers, and continued enhancements to privacy and security controls on the underlying monitor system.
+
   3. Expand monitoring to synchronous blocking would allow the system to evaluate model actions and block them before they are executed, rather than just alerting us shortly after.
+
 
 
 
@@ -125,6 +128,10 @@ Marcus Williams, Hao Sun, Swetha Sekhar, Micah Carroll, David G. Robinson, Ian K
 
 [View all](</news/>)
 
+![Our framework for reporting model misalignment — card image](https://images.ctfassets.net/kftzwdyauwt9/3mJz9GkBOjZvAMYPx8M1dj/2a9ac4b7e18b1c08feef5368c4fde2e2/model-misalignment-reporting-framework--cover-v002.png?w=3840&q=90&fm=webp)
+
+[Our framework for reporting model misalignmentResearchSep 16, 2026](</index/model-misalignment-reporting-framework/>)
+
 ![Navier–Stokes solution — art card](https://images.ctfassets.net/kftzwdyauwt9/2VUQZfeF2GtKRitKYdkoLu/cc96d05424afb2c9adcca0734ecdafb1/navier-stokes-art-card.png?w=3840&q=90&fm=webp)
 
 [An OpenAI model proposes a solution to the Navier–Stokes problemResearchSep 8, 2026](</index/navier-stokes-solution/>)
@@ -132,10 +139,6 @@ Marcus Williams, Hao Sun, Swetha Sekhar, Micah Carroll, David G. Robinson, Ian K
 ![Teen development research grants — Card image](https://images.ctfassets.net/kftzwdyauwt9/492WJ2zEboE6VdmchhCjIA/34e10aa1208a6988e3db2341d849d5b4/4bzz6p65ky7zwfd4pe42ou-cover__3_.png?w=3840&q=90&fm=webp)
 
 [Funding grants for new research into AI and teen developmentSafetySep 8, 2026](</index/teen-development-research-grants/>)
-
-![An alien mind > Listing card](https://images.ctfassets.net/kftzwdyauwt9/7ut3G8rKt5ia4P3yRqi2qN/6ffb429f70548a881eb46a4e7e61498e/Option_120___1080_1080.png?w=3840&q=90&fm=webp)
-
-[An Alien MindSafetySep 6, 2026](</index/an-alien-mind/>)
 
 Research
 

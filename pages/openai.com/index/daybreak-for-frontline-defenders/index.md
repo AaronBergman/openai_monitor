@@ -57,8 +57,11 @@ $1 billion for frontline defenders
  _**Today OpenAI is introducing Daybreak for Frontline Defenders, a new global initiative to help frontline defenders use frontier AI cyber capabilities to protect essential services in the United States and around the world. The initiative includes:**_
 
   * _**A $1 billion global commitment**_ _to expand subsidized access to Daybreak cyber models and products, training, technical support, and partnerships in the United States and internationally._
+
   * _**Daybreak for America, bringing together all of OpenAI’s U.S. work to protect the systems Americans rely on every day**_ _—from water and electricity to local government and banking—including a new pilot with the Multi-State Information Sharing and Analysis Center (MS-ISAC)._
+
   * _More than 35 enterprise products and partner-operated services through the_ _**Daybreak Defense Network,**__bringing Daybreak cyber models into the tools, services, and workflows enterprise defenders already use._
+
 
 
 

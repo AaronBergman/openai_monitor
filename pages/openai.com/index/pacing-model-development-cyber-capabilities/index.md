@@ -67,8 +67,11 @@ We think it is important to be transparent about how our approach is changing. B
 Our approach to developing more capable models rests on three reinforcing safeguards:
 
   1. **Monitoring** , which detects and allows us to respond to concerning behavior.
+
   2. **Alignment** , which reduces the likelihood of harmful or unauthorized actions.
+
   3. **Security measures** , which limit what AI systems can access or affect.
+
 
 
 
@@ -83,8 +86,11 @@ As frontier models gain stronger cybersecurity capabilities, we are raising the 
 Over the subsequent weeks, we have defined and started implementing stronger security requirements for frontier research workloads. For example:
 
   * **Workload isolation:** We now require stronger isolation (“sandboxes”) for workloads that execute model-generated or otherwise untrusted code. This also applies to software that could be compromised while processing model outputs.
+
   * **Network isolation:** We have implemented more controls to isolate higher-risk and untrusted workloads from the internet. We have designed these controls so that a single compromise of a workload or supporting service does not, by itself, allow for unauthorized access to the internet or other internal networks.
+
   * **Continuous security testing:** We have reconfigured our environment to remove potentially vulnerable shared services, reduce standing privileges, and improve security and trust boundaries. We are also improving our ability to collect and monitor security logs. Finally, we are investing in automation using our models to test these boundaries continuously against simulated attacks.
+
 
 
 

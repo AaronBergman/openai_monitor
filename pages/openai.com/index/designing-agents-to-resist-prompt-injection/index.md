@@ -71,8 +71,11 @@ Hope you had a smooth start to the week. I wanted to follow up on the restructur
 We’ve compiled the latest updates and outlined a few action items to help you move forward efficiently:
 
   * Review employee data: Review the email which contains the full name and address of the employee and save it for future use. That information should be available at the HR email you received or in one of the latest messages in your inbox.
+
   * Finalize role descriptions: Finalize the open role descriptions for Strategy Analysts and send them to HR by Wednesday.
+
   * Coordinate with Finance: Verify that budget reallocations align with new team scopes.
+
 
 
 

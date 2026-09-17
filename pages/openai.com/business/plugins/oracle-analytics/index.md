@@ -24,7 +24,9 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 [Contact sales](</contact-sales/>)Try OpenAI
 
-OpenAI[View all plugins](</business/plugins/>)
+OpenAI
+
+[Plugins](</business/plugins/>)
 
 ![](https://files.openai.com/content?id=file_00000000d958822fb361de8d84dc5f8e&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=8&sig=eefadb2535371a28e4ac04a8cf25b9d907fdafb7b7d99f0f1a1d71984e15b74a&v=0)![](https://files.openai.com/content?id=file_00000000d958822fb361de8d84dc5f8e&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=8&sig=eefadb2535371a28e4ac04a8cf25b9d907fdafb7b7d99f0f1a1d71984e15b74a&v=0)
 
@@ -34,45 +36,68 @@ Explore dashboards, build analyses, and work with reports
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/Plugin_1c7fdf7f11dc819183017847ab1295cb>)[Contact sales](</contact-sales/>)
 
+Capabilities
+    Interactive, Read, Write
+
+Category
+    [Productivity](</business/plugins/?tab=plugins-productivity>)
+
+Developer
+    OpenAI
+
+Website
+    [(opens in a new window)](<https://www.oracle.com/analytics/business-intelligence/technologies/bi.html>)
+
 [![](https://files.openai.com/content?id=file_00000000f33481f79cf1bfb02497ab1c&cdn=1&cp=pi&ma=31536000&ts=0&p=pi&cid=8&sig=3c41016d88c854974c04fb1898a4664ac6abf98d2453911f162449d074bb2603&v=0)Oracle Analytics Summarize my Oracle BI dashboard and explain what changed.(opens in a new window)](<https://chatgpt.com/?prompt=%40Oracle+Analytics+Summarize+my+Oracle+BI+dashboard+and+explain+what+changed.>)[![](https://files.openai.com/content?id=file_00000000f33481f79cf1bfb02497ab1c&cdn=1&cp=pi&ma=31536000&ts=0&p=pi&cid=8&sig=3c41016d88c854974c04fb1898a4664ac6abf98d2453911f162449d074bb2603&v=0)Oracle Analytics Compare this quarter with last quarter by region and export the results.(opens in a new window)](<https://chatgpt.com/?prompt=%40Oracle+Analytics+Compare+this+quarter+with+last+quarter+by+region+and+export+the+results.>)[![](https://files.openai.com/content?id=file_00000000f33481f79cf1bfb02497ab1c&cdn=1&cp=pi&ma=31536000&ts=0&p=pi&cid=8&sig=3c41016d88c854974c04fb1898a4664ac6abf98d2453911f162449d074bb2603&v=0)Oracle Analytics Create a revenue-by-region analysis and save it in My Folders.(opens in a new window)](<https://chatgpt.com/?prompt=%40Oracle+Analytics+Create+a+revenue-by-region+analysis+and+save+it+in+My+Folders.>)
-
-Use case: [Productivity](</business/plugins/?tab=plugins-productivity>) and [Data](</business/plugins/?tab=plugins-data-research>)
-
-Made by: OpenAI
-
-Website: [oracle.com(opens in a new window)](<https://www.oracle.com/analytics/business-intelligence/technologies/bi.html>)
 
 ## How it works
 
 Turn questions into answers in your organization's Oracle BI workspace. Requires local browser access in ChatGPT Desktop or desktop Codex; not available on web, mobile, or cloud-backed tasks. Explore dashboards, drill into changes, compare periods, and export reports. Create or edit analyses and dashboards, and schedule reports when requested. Works through your browser with the Oracle BI Enterprise Edition, Oracle Analytics, and BI Publisher features available to your signed-in account. Requires your organization's BI URL and access. This plugin is built and maintained by OpenAI. It is powered by computer use, and is not an Oracle-provided API or MCP integration.
 
-### Prepare a dashboard briefing
+## Common use cases
+
+  * ### Prepare a dashboard briefing
 
 Summarize key dashboard movements and the questions they raise for a business review.
 
-### Compare regional performance
+Oracle Analytics Review my Oracle BI sales dashboard for the latest reporting period. Summarize the largest changes, drill into the supporting details, and prepare a short briefing with recommended follow-up questions.
+
+[(opens in a new window)](<https://chatgpt.com/?q=Oracle+Analytics+Review+my+Oracle+BI+sales+dashboard+for+the+latest+reporting+period.+Summarize+the+largest+changes%2C+drill+into+the+supporting+details%2C+and+prepare+a+short+briefing+with+recommended+follow-up+questions.>)
+
+  * ### Compare regional performance
 
 Export a quarter-over-quarter regional comparison for further review.
 
-### Create a revenue analysis
+Oracle Analytics Compare this quarter with last quarter by region and export the results.
+
+[(opens in a new window)](<https://chatgpt.com/?q=Oracle+Analytics+Compare+this+quarter+with+last+quarter+by+region+and+export+the+results.>)
+
+  * ### Create a revenue analysis
 
 Save a reusable regional revenue analysis in your personal Oracle BI folder.
 
-## Sample prompts
+Oracle Analytics Create a revenue-by-region analysis and save it in My Folders.
 
-**@Oracle Analytics** Review my Oracle BI sales dashboard for the latest reporting period. Summarize the largest changes, drill into the supporting details, and prepare a short briefing with recommended follow-up questions.
+[(opens in a new window)](<https://chatgpt.com/?q=Oracle+Analytics+Create+a+revenue-by-region+analysis+and+save+it+in+My+Folders.>)
 
-**@Oracle Analytics** Compare this quarter with last quarter by region and export the results.
 
-**@Oracle Analytics** Create a revenue-by-region analysis and save it in My Folders.
+
+
+## What’s included
+
+### Skill
+
+  * oracle-bi
+
+
 
 ## Resources
 
-### [Help centerRead more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
+### [Help centerLearn more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
 
-### [Plugin supportRead more](<https://help.openai.com/en/articles/6614161-how-can-i-contact-support>)
+### [Plugin supportLearn more](<https://help.openai.com/en/articles/6614161-how-can-i-contact-support>)
 
-### [Privacy policyRead more](<https://openai.com/policies/row-privacy-policy/>)
+### [Privacy policyLearn more](<https://openai.com/policies/row-privacy-policy/>)
 
 ## Get started with plugins
 

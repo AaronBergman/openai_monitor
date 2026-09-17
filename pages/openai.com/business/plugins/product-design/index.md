@@ -24,7 +24,9 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 [Contact sales](</contact-sales/>)Try OpenAI
 
-OpenAI[View all plugins](</business/plugins/>)
+OpenAI
+
+[Plugins](</business/plugins/>)
 
 ![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)
 
@@ -34,51 +36,76 @@ Turn product ideas into designs and research artifacts.
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/Plugin_fa77aec24fc08191bc6e57f377126d76>)[Contact sales](</contact-sales/>)
 
-[![](https://files.openai.com/content?id=file_00000000a358822fbf938dc0f1cfe989&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=b02414fe449e927f3ec07e9366972921c4cfb1497cfccea32e86ecb29ef4e0f3&v=0)Product Design Help me get started(opens in a new window)](<https://chatgpt.com/?prompt=%40Product+Design+Help+me+get+started>)[![](https://files.openai.com/content?id=file_00000000a358822fbf938dc0f1cfe989&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=b02414fe449e927f3ec07e9366972921c4cfb1497cfccea32e86ecb29ef4e0f3&v=0)Product Design Turn this product idea into three visual directions(opens in a new window)](<https://chatgpt.com/?prompt=%40Product+Design+Turn+this+product+idea+into+three+visual+directions>)[![](https://files.openai.com/content?id=file_00000000a358822fbf938dc0f1cfe989&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=b02414fe449e927f3ec07e9366972921c4cfb1497cfccea32e86ecb29ef4e0f3&v=0)Product Design Design a landing page for my business(opens in a new window)](<https://chatgpt.com/?prompt=%40Product+Design+Design+a+landing+page+for+my+business>)
+Capabilities
+    Interactive, Read, Write
 
-Use case: [Design & Creative](</business/plugins/?tab=plugins-design-creative>)
+Category
+    [Design & Creative](</business/plugins/?tab=plugins-design-creative>)
 
-Made by: OpenAI
+Developer
+    OpenAI
 
-Website: [openai.com(opens in a new window)](<https://openai.com/>)
+Website
+    [(opens in a new window)](<https://openai.com/>)
+
+[![](https://files.openai.com/content?id=file_000000009bf881f5addc67f535609810&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=aef1732e7a5785a23cf9d8f6c0d965502775e063030e79ed8bc4d90f7d51bb67&v=0)Product Design Help me get started(opens in a new window)](<https://chatgpt.com/?prompt=%40Product+Design+Help+me+get+started>)[![](https://files.openai.com/content?id=file_000000009bf881f5addc67f535609810&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=aef1732e7a5785a23cf9d8f6c0d965502775e063030e79ed8bc4d90f7d51bb67&v=0)Product Design Turn this product idea into three visual directions(opens in a new window)](<https://chatgpt.com/?prompt=%40Product+Design+Turn+this+product+idea+into+three+visual+directions>)[![](https://files.openai.com/content?id=file_000000009bf881f5addc67f535609810&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=aef1732e7a5785a23cf9d8f6c0d965502775e063030e79ed8bc4d90f7d51bb67&v=0)Product Design Design a landing page for my business(opens in a new window)](<https://chatgpt.com/?prompt=%40Product+Design+Design+a+landing+page+for+my+business>)
 
 ## How it works
 
 Use Product Design in ChatGPT to turn product briefs, research notes, and user journeys into concepts, flows, prototypes, critique notes, and design-ready artifacts.
 
-### Shape product concepts quickly
+## Common use cases
+
+  * ### Shape product concepts quickly
 
 Translate goals, user needs, and constraints into flows, wireframe ideas, interaction patterns, and design options.
 
-### Synthesize research into decisions
+Product Design Turn this product idea into an interactive prototype.
+
+[(opens in a new window)](<https://chatgpt.com/?q=Product+Design+Turn+this+product+idea+into+an+interactive+prototype.>)
+
+  * ### Synthesize research into decisions
 
 Turn interviews, feedback, and usability notes into themes, opportunities, and prioritized design implications.
 
-### Prepare design handoff materials
+Product Design Summarize these interview notes into themes, pain points, opportunity areas, and implications for the next design iteration.
+
+[(opens in a new window)](<https://chatgpt.com/?q=Product+Design+Summarize+these+interview+notes+into+themes%2C+pain+points%2C+opportunity+areas%2C+and+implications+for+the+next+design+iteration.>)
+
+  * ### Prepare design handoff materials
 
 Create critique checklists, product narratives, prototype plans, or handoff notes that help teams align before build.
 
-## Sample prompts
+Product Design Review my app's authentication UX.
 
-Create app prototype from brief
+[(opens in a new window)](<https://chatgpt.com/?q=Product+Design+Review+my+app%27s+authentication+UX.>)
 
-**@Product Design** Turn this product idea into an interactive prototype.
 
-Synthesize user research
 
-**@Product Design** Summarize these interview notes into themes, pain points, opportunity areas, and implications for the next design iteration.
 
-Review my app's onboarding experience
+## What’s included
 
-**@Product Design** Review my app's authentication UX.
+### Skills
+
+  * Audit
+  * Design QA
+  * Get Context
+  * Ideate
+  * Image To Code
+  * Product Design
+  * Research
+  * Share
+  * 2 more
+
+
 
 ## Resources
 
-### [Help centerRead more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
+### [Help centerLearn more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
 
-### [Plugin supportRead more](<https://help.openai.com/>)
+### [Plugin supportLearn more](<https://help.openai.com/>)
 
-### [Privacy policyRead more](<https://openai.com/policies/privacy-policy/>)
+### [Privacy policyLearn more](<https://openai.com/policies/privacy-policy/>)
 
 ## Get started with plugins
 

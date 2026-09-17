@@ -291,10 +291,15 @@ chatgpt.com
 Depending on applicable law, you may be able to choose which cookies are used when using our Services. If you are in a jurisdiction that allows for that control, you can access your cookie settings directly on our various sites. Your web browser may also allow you to manage your cookie preferences, including to delete and disable cookies. You can take a look at the help section of your web browser or follow the links below to understand your options.
 
   * [Chrome⁠(opens in a new window)](<https://support.google.com/chrome/answer/95647?hl=en%E2%81%A0%E2%81%A0>)
+
   * [Edge⁠(opens in a new window)](<https://support.microsoft.com/en-us/edge/manage-cookies-in-microsoft-edge-view-allow-block-delete-and-use>)
+
   * [Safari⁠(opens in a new window)](<https://support.apple.com/guide/safari/manage-cookies-and-website-data-sfri11471/mac>)
+
   * [Firefox⁠(opens in a new window)](<https://support.mozilla.org/en-US/kb/cookies-information-websites-store-on-your-computer>)
+
   * [Opera⁠(opens in a new window)](<https://help.opera.com/en/latest/web-preferences/#cookies%E2%81%A0%E2%81%A0>)
+
 
 
 

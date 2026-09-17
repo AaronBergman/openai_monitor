@@ -24,7 +24,9 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 [Contact sales](</contact-sales/>)Try OpenAI
 
-OpenAI[View all plugins](</business/plugins/>)
+OpenAI
+
+[Plugins](</business/plugins/>)
 
 ![](https://files.openai.com/content?id=file_0000000088dc71f6a290da6b9746773b&cdn=1&cp=pi&ma=32486400&ts=0&p=pi&cid=8&sig=053f47893fea5795866c05c071a32556575279ccb29b59b78c36b6efb2d97385&v=0)![](https://files.openai.com/content?id=file_0000000088dc71f6a290da6b9746773b&cdn=1&cp=pi&ma=32486400&ts=0&p=pi&cid=8&sig=053f47893fea5795866c05c071a32556575279ccb29b59b78c36b6efb2d97385&v=0)
 
@@ -34,51 +36,65 @@ Find and engage prospects.
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69377d07cd9c8191a988f06f15b8c674>)[Contact sales](</contact-sales/>)
 
+Category
+    [Operations](</business/plugins/?tab=plugins-operations>)
+
+Developer
+    Clay Inc
+
+Website
+    [(opens in a new window)](<https://www.clay.com>)
+
 [![](https://files.openai.com/content?id=file_000000006244722fa29cb1a2ccba89d3&cdn=1&cp=pi&ma=30672000&ts=0&p=pi&cid=1&sig=570d8b0f7a6b43bcbdd74740568de0b84ea6ea58b62946c26922d76f93d3ab9b&v=0)Clay Find GTM Leaders at Conclusive AI(opens in a new window)](<https://chatgpt.com/?prompt=%40Clay+Find+GTM+Leaders+at+Conclusive+AI>)
-
-Use case: [Operations](</business/plugins/?tab=plugins-operations>), [Sales](</business/plugins/?tab=plugins-sales-commerce>), and [Marketing](</business/plugins/?tab=plugins-marketing>)
-
-Made by: Clay Inc
-
-Website: [clay.com(opens in a new window)](<https://www.clay.com>)
 
 ## How it works
 
 Use Clay’s contact databases, enrichment providers, and AI agents to research target accounts, surface verified, enriched contact info, and draft personalized outreach—all in ChatGPT.
 
-### Build verified target lists faster
+## Common use cases
+
+  * ### Build verified target lists faster
 
 Ask for VP-level roles at a named account, filter by region or tenure, and get enriched contacts and company context in one result set—reducing manual research and list-building time.
 
-### Improve personalization at scale
+Clay Build me a verified target list of VP Marketing at mid-market SaaS companies in the US Northeast.
+
+[(opens in a new window)](<https://chatgpt.com/?q=Clay+Build+me+a+verified+target+list+of+VP+Marketing+at+mid-market+SaaS+companies+in+the+US+Northeast.>)
+
+  * ### Improve personalization at scale
 
 Pull firmographics, tech stack, funding, and recent signals, then draft outreach that references what matters to each account—helping teams increase relevance without writing from scratch.
 
-### Standardize enrichment across teams
+Clay Draft personalized cold emails for these 10 accounts using recent signals like funding hiring or product launches.
+
+[(opens in a new window)](<https://chatgpt.com/?q=Clay+Draft+personalized+cold+emails+for+these+10+accounts+using+recent+signals+like+funding+hiring+or+product+launches.>)
+
+  * ### Standardize enrichment across teams
 
 Add emails, headcount growth, investors, and other fields to a saved search so reps and ops use the same data, reducing duplicate enrichment work and inconsistent CRM updates.
 
-## Sample prompts
+Clay For the contacts in this search, return available work emails, company headcount growth, and investors in one table for sales and operations.
 
-Build a target list
+[(opens in a new window)](<https://chatgpt.com/?q=Clay+For+the+contacts+in+this+search%2C+return+available+work+emails%2C+company+headcount+growth%2C+and+investors+in+one+table+for+sales+and+operations.>)
 
-**@Clay** Build me a verified target list of VP Marketing at mid-market SaaS companies in the US Northeast.
 
-Draft personalized outreach emails
 
-**@Clay** Draft personalized cold emails for these 10 accounts using recent signals like funding hiring or product launches.
 
-Research company priorities
+## What’s included
 
-**@Clay** For the contacts in this search, return available work emails, company headcount growth, and investors in one table for sales and operations.
+### App
+
+  * ![](https://files.openai.com/content?id=file_00000000268081fb809351406ca9267c&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=8&sig=dcb309a5f452a962c211f62889eda5ae7b2b900238a20deca61bd2ae11b3981a&v=0)Clay
+
+
 
 ## Resources
 
-### [Help centerRead more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
+### [Help centerLearn more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
 
-### [Plugin supportRead more](<https://www.clay.com/faq>)
+### [Plugin supportLearn more](<https://www.clay.com/faq>)
 
-### [Privacy policyRead more](<https://clay.com/privacy>)
+### [Privacy policyLearn more](<https://clay.com/privacy>)
 
 ## Get started with plugins
 

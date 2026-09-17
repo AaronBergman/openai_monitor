@@ -24,7 +24,9 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 [Contact sales](</contact-sales/>)Try OpenAI
 
-OpenAI[View all plugins](</business/plugins/>)
+OpenAI
+
+[Plugins](</business/plugins/>)
 
 ![](https://files.openai.com/content?id=file_00000000ac7471f5938c2faf47e7f4c3&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=1&sig=666dae78fb6f0df3e372c8b40b3fd36004957883e9a35c69e189eb35e870cdd3&v=0)![](https://files.openai.com/content?id=file_00000000841481f79700470475f74217&cdn=1&cp=pi&ma=31881600&ts=0&p=pi&cid=8&sig=3f58942b3f456302c0db30e62111cb2ffb6db3b48fa69730dbd16756d69af63f&v=0)
 
@@ -34,51 +36,65 @@ Ask payroll, benefits, and HR questions using your Gusto data.
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69375d9f172c8191b23d73be4107128a>)[Contact sales](</contact-sales/>)
 
+Category
+    [Operations](</business/plugins/?tab=plugins-operations>)
+
+Developer
+    Gusto
+
+Website
+    [(opens in a new window)](<https://gusto.com>)
+
 [![](https://files.openai.com/content?id=file_00000000ac7471f5938c2faf47e7f4c3&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=1&sig=666dae78fb6f0df3e372c8b40b3fd36004957883e9a35c69e189eb35e870cdd3&v=0)![](https://files.openai.com/content?id=file_00000000841481f79700470475f74217&cdn=1&cp=pi&ma=31881600&ts=0&p=pi&cid=8&sig=3f58942b3f456302c0db30e62111cb2ffb6db3b48fa69730dbd16756d69af63f&v=0)Gusto let’s run payroll(opens in a new window)](<https://chatgpt.com/?prompt=%40Gusto+let%E2%80%99s+run+payroll>)[![](https://files.openai.com/content?id=file_00000000ac7471f5938c2faf47e7f4c3&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=1&sig=666dae78fb6f0df3e372c8b40b3fd36004957883e9a35c69e189eb35e870cdd3&v=0)![](https://files.openai.com/content?id=file_00000000841481f79700470475f74217&cdn=1&cp=pi&ma=31881600&ts=0&p=pi&cid=8&sig=3f58942b3f456302c0db30e62111cb2ffb6db3b48fa69730dbd16756d69af63f&v=0)Gusto looks good, can you show me the summary?(opens in a new window)](<https://chatgpt.com/?prompt=%40Gusto+looks+good%2C+can+you+show+me+the+summary%3F>)[![](https://files.openai.com/content?id=file_00000000ac7471f5938c2faf47e7f4c3&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=1&sig=666dae78fb6f0df3e372c8b40b3fd36004957883e9a35c69e189eb35e870cdd3&v=0)![](https://files.openai.com/content?id=file_00000000841481f79700470475f74217&cdn=1&cp=pi&ma=31881600&ts=0&p=pi&cid=8&sig=3f58942b3f456302c0db30e62111cb2ffb6db3b48fa69730dbd16756d69af63f&v=0)Gusto all clear, let's submit(opens in a new window)](<https://chatgpt.com/?prompt=%40Gusto+all+clear%2C+let%27s+submit>)
-
-Use case: [Operations](</business/plugins/?tab=plugins-operations>), [Finance](</business/plugins/?tab=plugins-finance>), and [Small Business](</business/plugins/?tab=plugins-small-business>)
-
-Made by: Gusto
-
-Website: [gusto.com(opens in a new window)](<https://gusto.com>)
 
 ## How it works
 
 Bring payroll and team data from Gusto into ChatGPT to securely answer payroll, benefits, and HR questions using connected workforce records.
 
-### Answer payroll and benefits questions
+## Common use cases
+
+  * ### Answer payroll and benefits questions
 
 Ask questions about employee pay, deductions, benefits, and policies and receive answers based on current Gusto payroll and HR data.
 
-### Review payroll runs and changes
+Gusto Explain why this employees take home pay changed from last payroll using deductions, taxes, and benefits.
+
+[(opens in a new window)](<https://chatgpt.com/?q=Gusto+Explain+why+this+employees+take+home+pay+changed+from+last+payroll+using+deductions%2C+taxes%2C+and+benefits.>)
+
+  * ### Review payroll runs and changes
 
 Review upcoming and past payroll runs, employee changes, reimbursements, and totals using connected Gusto payroll data.
 
-### Explore payroll and team data
+Gusto Show headcount changes over the last 6 months and estimate the monthly payroll cost impact.
+
+[(opens in a new window)](<https://chatgpt.com/?q=Gusto+Show+headcount+changes+over+the+last+6+months+and+estimate+the+monthly+payroll+cost+impact.>)
+
+  * ### Explore payroll and team data
 
 Explore payroll and employee data to compare past runs, review hours and costs, and understand take-home pay using Gusto records.
 
-## Sample prompts
+Gusto Compare overtime costs by department for the last quarter and highlight where it spiked and why.
 
-Review pay change and flag risks
+[(opens in a new window)](<https://chatgpt.com/?q=Gusto+Compare+overtime+costs+by+department+for+the+last+quarter+and+highlight+where+it+spiked+and+why.>)
 
-**@Gusto** Explain why this employees take home pay changed from last payroll using deductions, taxes, and benefits.
 
-Compare labor costs and highlight differences
 
-**@Gusto** Show headcount changes over the last 6 months and estimate the monthly payroll cost impact.
 
-Review headcount trends and flag risks
+## What’s included
 
-**@Gusto** Compare overtime costs by department for the last quarter and highlight where it spiked and why.
+### App
+
+  * connector_69375d9f172c8191b23d73be4107128a
+
+
 
 ## Resources
 
-### [Help centerRead more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
+### [Help centerLearn more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
 
-### [Plugin supportRead more](<https://support.gusto.com/>)
+### [Plugin supportLearn more](<https://support.gusto.com/>)
 
-### [Privacy policyRead more](<https://gusto.com/legal/privacy>)
+### [Privacy policyLearn more](<https://gusto.com/legal/privacy>)
 
 ## Get started with plugins
 

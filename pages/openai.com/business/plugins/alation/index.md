@@ -24,7 +24,9 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 [Contact sales](</contact-sales/>)Try OpenAI
 
-OpenAI[View all plugins](</business/plugins/>)
+OpenAI
+
+[Plugins](</business/plugins/>)
 
 ![](https://files.openai.com/content?id=file_000000002c9871f88886c70ee05182be&cdn=1&cp=pi&ma=30585600&ts=0&p=pi&cid=1&sig=d9f82aa7ff5946d7b3572fb9749746956a02925ce49b4f256a1d6bb1575ef7cb&v=0)![](https://files.openai.com/content?id=file_000000002c9871f88886c70ee05182be&cdn=1&cp=pi&ma=30585600&ts=0&p=pi&cid=1&sig=d9f82aa7ff5946d7b3572fb9749746956a02925ce49b4f256a1d6bb1575ef7cb&v=0)
 
@@ -34,45 +36,65 @@ Governed Knowledge Layer
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a0f9ab98bf4819197de479522d5367b>)[Contact sales](</contact-sales/>)
 
+Category
+    [Data](</business/plugins/?tab=plugins-data-research>)
+
+Developer
+    http://alation.com/
+
+Website
+    [(opens in a new window)](<https://www.alation.com>)
+
 [![](https://files.openai.com/content?id=file_00000000d8b871f59f2b053d79434cf7&cdn=1&cp=pi&ma=32659200&ts=0&p=pi&cid=1&sig=1260d161f7837e4f08f855a95bbcbb482c1e2ca7e18c0bfea73f1401be69b24d&v=0)Alation Verify if the data you are working with is fresh and certified(opens in a new window)](<https://chatgpt.com/?prompt=%40Alation+Verify+if+the+data+you+are+working+with+is+fresh+and+certified>)[![](https://files.openai.com/content?id=file_00000000d8b871f59f2b053d79434cf7&cdn=1&cp=pi&ma=32659200&ts=0&p=pi&cid=1&sig=1260d161f7837e4f08f855a95bbcbb482c1e2ca7e18c0bfea73f1401be69b24d&v=0)Alation Verify data using widgets rendered from Alation primitives(opens in a new window)](<https://chatgpt.com/?prompt=%40Alation+Verify+data+using+widgets+rendered+from+Alation+primitives>)[![](https://files.openai.com/content?id=file_00000000d8b871f59f2b053d79434cf7&cdn=1&cp=pi&ma=32659200&ts=0&p=pi&cid=1&sig=1260d161f7837e4f08f855a95bbcbb482c1e2ca7e18c0bfea73f1401be69b24d&v=0)Alation Securely run queries on your database without leaving the app(opens in a new window)](<https://chatgpt.com/?prompt=%40Alation+Securely+run+queries+on+your+database+without+leaving+the+app>)
-
-Use case: [Data](</business/plugins/?tab=plugins-data-research>)
-
-Made by: http://alation.com/
-
-Website: [alation.com(opens in a new window)](<https://www.alation.com>)
 
 ## How it works
 
 Alation brings trusted enterprise data context into ChatGPT. Connect ChatGPT to Alation’s enterprise data catalog, governance, and trusted business context so users can discover, understand, and use data with confidence. The Alation Intelligence Operating System (AIOS) helps AI ground responses in trusted enterprise context, including catalog metadata, governance policies, semantic definitions, lineage, data quality, and documentation. The app is designed for enterprise teams that need AI-led data discovery without losing trust, context, or governance.
 
-### Find trusted revenue data
+## Common use cases
+
+  * ### Find trusted revenue data
 
 Identify suitable revenue datasets using catalog definitions, quality signals, and certification status.
 
-### Assess schema change impact
+Alation Find the best cataloged data for a quarterly revenue report. Compare candidate datasets using definitions, freshness, certification, and quality signals, then recommend a source and note missing evidence.
+
+[(opens in a new window)](<https://chatgpt.com/?q=Alation+Find+the+best+cataloged+data+for+a+quarterly+revenue+report.+Compare+candidate+datasets+using+definitions%2C+freshness%2C+certification%2C+and+quality+signals%2C+then+recommend+a+source+and+note+missing+evidence.>)
+
+  * ### Assess schema change impact
 
 Trace data dependencies to identify reports that need review before a customer table changes.
 
-### Reconcile metric definitions
+Alation Trace the lineage of dim_customer to its upstream sources and downstream reports. Summarize which analyses could be affected by a schema change and propose a review checklist with catalog links.
+
+[(opens in a new window)](<https://chatgpt.com/?q=Alation+Trace+the+lineage+of+dim_customer+to+its+upstream+sources+and+downstream+reports.+Summarize+which+analyses+could+be+affected+by+a+schema+change+and+propose+a+review+checklist+with+catalog+links.>)
+
+  * ### Reconcile metric definitions
 
 Compare cataloged revenue definitions and document differences that could explain conflicting reports.
 
-## Sample prompts
+Alation Find catalog definitions for gross revenue and net revenue. Compare their exclusions, calculation notes, and linked assets, then prepare a concise reference explaining which definition suits each use.
 
-**@Alation** Find the best cataloged data for a quarterly revenue report. Compare candidate datasets using definitions, freshness, certification, and quality signals, then recommend a source and note missing evidence.
+[(opens in a new window)](<https://chatgpt.com/?q=Alation+Find+catalog+definitions+for+gross+revenue+and+net+revenue.+Compare+their+exclusions%2C+calculation+notes%2C+and+linked+assets%2C+then+prepare+a+concise+reference+explaining+which+definition+suits+each+use.>)
 
-**@Alation** Trace the lineage of dim_customer to its upstream sources and downstream reports. Summarize which analyses could be affected by a schema change and propose a review checklist with catalog links.
 
-**@Alation** Find catalog definitions for gross revenue and net revenue. Compare their exclusions, calculation notes, and linked assets, then prepare a concise reference explaining which definition suits each use.
+
+
+## What’s included
+
+### App
+
+  * ![](https://files.openai.com/content?id=file_000000002c9871f88886c70ee05182be&cdn=1&cp=pi&ma=30585600&ts=0&p=pi&cid=1&sig=d9f82aa7ff5946d7b3572fb9749746956a02925ce49b4f256a1d6bb1575ef7cb&v=0)Alation
+
+
 
 ## Resources
 
-### [Help centerRead more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
+### [Help centerLearn more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
 
-### [Plugin supportRead more](<https://www.alation.com/contact-us/>)
+### [Plugin supportLearn more](<https://www.alation.com/contact-us/>)
 
-### [Privacy policyRead more](<https://www.alation.com/privacy-policy/>)
+### [Privacy policyLearn more](<https://www.alation.com/privacy-policy/>)
 
 ## Get started with plugins
 

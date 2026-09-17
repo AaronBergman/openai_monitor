@@ -24,7 +24,9 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 [Contact sales](</contact-sales/>)Try OpenAI
 
-OpenAI[View all plugins](</business/plugins/>)
+OpenAI
+
+[Plugins](</business/plugins/>)
 
 ![](https://files.openai.com/content?id=file_000000002684720c81b0d1d022c3dfd2&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=1&sig=4e111632389ebc732936b83f809c131e3a5fa201ca4cb43c8ea9b6fa2d62a87e&v=0)![](https://files.openai.com/content?id=file_00000000cba0822fa2188c4c599f4181&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=1&sig=34a683b818c6593bfcc47dd950aaadc850fbd5861b79f237b4627d27372983d1&v=0)
 
@@ -34,51 +36,68 @@ Access repositories, issues, and pull requests.
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_1p_1a69035c238881919c4190932b2df699>)[Contact sales](</contact-sales/>)
 
+Capabilities
+    Interactive, Write
+
+Category
+    [Engineering & IT](</business/plugins/?tab=plugins-engineering-it>)
+
+Developer
+    OpenAI
+
+Website
+    [(opens in a new window)](<https://github.com/>)
+
 [![](https://files.openai.com/content?id=file_000000008d0481fb9ac8c2286d8c0360&cdn=1&cp=pi&ma=30931200&ts=0&p=pi&cid=8&sig=815010da6abb924f37ed6dffd584c2870b2c91573d2ecea8666c8ff538a9b5e7&v=0)GitHub Explain this repo's authentication using code and docs: components, request flow, and how credentials and tokens are handled(opens in a new window)](<https://chatgpt.com/?prompt=%40GitHub+Explain+this+repo%27s+authentication+using+code+and+docs%3A+components%2C+request+flow%2C+and+how+credentials+and+tokens+are+handled>)[![](https://files.openai.com/content?id=file_000000008d0481fb9ac8c2286d8c0360&cdn=1&cp=pi&ma=30931200&ts=0&p=pi&cid=8&sig=815010da6abb924f37ed6dffd584c2870b2c91573d2ecea8666c8ff538a9b5e7&v=0)GitHub Summarize this pull request like a senior reviewer: what changed, what could break, and what tests are missing or weak(opens in a new window)](<https://chatgpt.com/?prompt=%40GitHub+Summarize+this+pull+request+like+a+senior+reviewer%3A+what+changed%2C+what+could+break%2C+and+what+tests+are+missing+or+weak>)[![](https://files.openai.com/content?id=file_000000008d0481fb9ac8c2286d8c0360&cdn=1&cp=pi&ma=30931200&ts=0&p=pi&cid=8&sig=815010da6abb924f37ed6dffd584c2870b2c91573d2ecea8666c8ff538a9b5e7&v=0)GitHub Turn the last 7 days of commits and merged PRs into a stakeholder update: shipped work, risks, and next steps(opens in a new window)](<https://chatgpt.com/?prompt=%40GitHub+Turn+the+last+7+days+of+commits+and+merged+PRs+into+a+stakeholder+update%3A+shipped+work%2C+risks%2C+and+next+steps>)
-
-Use case: [Engineering & IT](</business/plugins/?tab=plugins-engineering-it>) and [Data](</business/plugins/?tab=plugins-data-research>)
-
-Made by: OpenAI
-
-Website: [github.com(opens in a new window)](<https://github.com/>)
 
 ## How it works
 
 Explore repo files, docs, and commit history to understand code, summarize PRs, and generate clear explanations that streamline reviews and make technical work easier to share.
 
-### Accelerate code understanding and onboarding
+## Common use cases
+
+  * ### Accelerate code understanding and onboarding
 
 Ask how a module works or where a function lives, and get an explanation with cited snippets that helps new engineers ramp faster and reduces interruptions for senior developers.
 
-### Speed up reviews and reduce merge friction
+GitHub Using this repository’s code and documentation, explain how authentication works end to end, including the key components, request flow, and where credentials or tokens are handled.
+
+[(opens in a new window)](<https://chatgpt.com/?q=GitHub+Using+this+repository%E2%80%99s+code+and+documentation%2C+explain+how+authentication+works+end+to+end%2C+including+the+key+components%2C+request+flow%2C+and+where+credentials+or+tokens+are+handled.>)
+
+  * ### Speed up reviews and reduce merge friction
 
 Summarize a pull request, list risky changes, and suggest test gaps before review, reducing back-and-forth comments and shortening time from open to merge.
 
-### Turn repo activity into stakeholder-ready updates
+GitHub Summarize this pull request like a senior reviewer: what changed, what could break, and what tests are missing or weak.
+
+[(opens in a new window)](<https://chatgpt.com/?q=GitHub+Summarize+this+pull+request+like+a+senior+reviewer%3A+what+changed%2C+what+could+break%2C+and+what+tests+are+missing+or+weak.>)
+
+  * ### Turn repo activity into stakeholder-ready updates
 
 Generate a weekly engineering update from recent commits and PRs, highlighting shipped work, blockers, and next steps to keep stakeholders informed.
 
-## Sample prompts
+GitHub Turn the last 7 days of commits and merged PRs into a stakeholder-ready engineering update with shipped work, risks, and next steps.
 
-Explain a concept from a repository
+[(opens in a new window)](<https://chatgpt.com/?q=GitHub+Turn+the+last+7+days+of+commits+and+merged+PRs+into+a+stakeholder-ready+engineering+update+with+shipped+work%2C+risks%2C+and+next+steps.>)
 
-**@GitHub** Using this repository’s code and documentation, explain how authentication works end to end, including the key components, request flow, and where credentials or tokens are handled.
 
-Review code changes and flag risks
 
-**@GitHub** Summarize this pull request like a senior reviewer: what changed, what could break, and what tests are missing or weak.
 
-Identify key risks and mitigation actions
+## What’s included
 
-**@GitHub** Turn the last 7 days of commits and merged PRs into a stakeholder-ready engineering update with shipped work, risks, and next steps.
+### App
+
+  * ![](https://chatgpt.com/images/ecosystem/apps/github/icon.png)GitHub
+
+
 
 ## Resources
 
-### [Help centerRead more](<https://help.openai.com/en/articles/11145903-connecting-github-to-chatgpt-deep-research-to-chatgpt-deep-research>)
+### [Help centerLearn more](<https://help.openai.com/en/articles/11145903-connecting-github-to-chatgpt-deep-research-to-chatgpt-deep-research>)
 
-### [Plugin supportRead more](<https://docs.github.com/>)
+### [Plugin supportLearn more](<https://docs.github.com/>)
 
-### [Privacy policyRead more](<https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement>)
+### [Privacy policyLearn more](<https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement>)
 
 ## Get started with plugins
 

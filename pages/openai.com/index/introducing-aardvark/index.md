@@ -77,9 +77,13 @@ Aardvark works by monitoring commits and changes to codebases, identifying vulne
 Aardvark relies on a multi-stage pipeline to identify, explain, and fix vulnerabilities:
 
   * **Analysis** : It begins by analyzing the full repository to produce a threat model reflecting its understanding of the project’s security objectives and design.
+
   * **Commit scanning** : It scans for vulnerabilities by inspecting commit-level changes against the entire repository and threat model as new code is committed. When a repository is first connected, Aardvark will scan its history to identify existing issues. Aardvark explains the vulnerabilities it finds step-by-step, annotating code for human review.
+
   * **Validation** : Once Aardvark has identified a potential vulnerability, it will attempt to trigger it in an isolated, sandboxed environment to confirm its exploitability. Aardvark describes the steps taken to help ensure accurate, high-quality, and low false-positive insights are returned to users.
+
   * **Patching** : Aardvark integrates with OpenAI Codex to help fix the vulnerabilities it finds. It attaches a Codex-generated and Aardvark-scanned patch to each finding for human review and efficient, one-click patching.
+
 
 
 
@@ -128,17 +132,17 @@ Akshay Bhat, Andy Nguyen, Dave Aitel, Harold Nguyen, Ian Brelinsky, Tiffany Citr
 
 [View all](</news/>)
 
-![Now everyone can put data to work — card image](https://images.ctfassets.net/kftzwdyauwt9/6FhMXOSe8XadGwEUev6QjJ/916a64d20bcc59b8619fea1827fa6bd3/put-data-to-work--cover-v001.png?w=3840&q=90&fm=webp)
+![Reimagining advertising with AI — Card cover](https://images.ctfassets.net/kftzwdyauwt9/fHwkKLVG8WFHvuUPqMXtz/1c49ba0859fe1e1e21f5d64f692490f5/reimagining-advertising-with-ai-cover.png?w=3840&q=90&fm=webp)
 
-[Now everyone can put data to workProductSep 10, 2026](</index/put-data-to-work/>)
+[Reimagining advertising with AIProductSep 16, 2026](</index/reimagining-advertising-with-ai/>)
 
-![FinServ Blog - Art Card Texture Square](https://images.ctfassets.net/kftzwdyauwt9/6Bcg403pebiJhQdHUS17FK/572e478dc4579deca27c9700c662e908/finserv-art-card.png?w=3840&q=90&fm=webp)
+![How to connect AI usage to business value — art card](https://images.ctfassets.net/kftzwdyauwt9/36T42HPkipcJAs08yNirmR/f73d9408ef4f0b08b5cce3b839656843/cover-018.png?w=3840&q=90&fm=webp)
 
-[Introducing ChatGPT for Financial ServicesProductSep 10, 2026](</index/introducing-chatgpt-financial-services/>)
+[How to connect AI usage to business valueProductSep 16, 2026](</index/how-to-connect-ai-usage-to-business-value/>)
 
-![GPT-Live-1 API | Green-blue cover | Option 038](https://images.ctfassets.net/kftzwdyauwt9/1uBabEULLfw3Vb2Gldmyyq/c19c1c121ca403ee8b2703cba18ef82d/introducing-gpt-live-1-green-cover.png?w=3840&q=90&fm=webp)
+![Our framework for reporting model misalignment — card image](https://images.ctfassets.net/kftzwdyauwt9/3mJz9GkBOjZvAMYPx8M1dj/2a9ac4b7e18b1c08feef5368c4fde2e2/model-misalignment-reporting-framework--cover-v002.png?w=3840&q=90&fm=webp)
 
-[Build more natural voice experiences with GPT‑Live‑1 in the APIProductSep 10, 2026](</index/introducing-gpt-live-1-in-the-api/>)
+[Our framework for reporting model misalignmentResearchSep 16, 2026](</index/model-misalignment-reporting-framework/>)
 
 Research
 

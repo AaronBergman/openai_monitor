@@ -67,9 +67,13 @@ Our enterprise momentum is fueled in part by consumer adoption. With more than *
 To support this acceleration, we’ve launched a new wave of tools, integrations, and capabilities to help teams move from early use to full-scale deployment:
 
   * We introduced [**_company knowledge_**](</index/introducing-company-knowledge/>) , which lets ChatGPT reason across tools like Slack, SharePoint, Google Drive, GitHub, and more to get answers, do analysis, and take action using a version of GPT‑5 that’s optimized for working with tools and providing citations.
+
   * Adoption for [**_Codex_**](</index/introducing-codex/>) , our model for code generation, refactoring, and workflow automation has accelerated quickly—usage is up **10x since August**. Recently, organizations like **Cisco** have rolled out Codex into their engineering workflows, cutting code review times by **50%** and shrinking project timelines from **weeks to days**.
+
   * We also made enterprise agents practical to build and deploy with [**_AgentKit_**](</index/introducing-agentkit/>) , making it possible for teams to go from idea to production in **days instead of months**. Companies like **Carlyle** are already seeing results: the AgentKit evaluation platform cut development time on Carlyle’s multi-agent due diligence framework by **over 50%** and improved agent accuracy by **30%**.
+
   * We also advanced our **multimodal models** to enable richer workflows—from the [**_Image Generation API_**](</index/image-generation-api/>) and [**_Sora 2_**](</index/sora-2/>) for visual and video creation to [**_gpt-realtime and Realtime API_**](</index/introducing-gpt-realtime/>)**** to build production voice agents. Teams across every industry can now work across text, images, video, and audio **in one system**.
+
 
 
 
@@ -78,9 +82,13 @@ To support this acceleration, we’ve launched a new wave of tools, integrations
 AI is [_delivering real business value_ ⁠(opens in a new window)](<https://x.com/emollick/status/1983217724714066310>). According to a [_recent Wharton study_ ⁠(opens in a new window)](<https://ai.wharton.upenn.edu/wp-content/uploads/2025/10/2025-Wharton-GBK-AI-Adoption-Report_Full-Report.pdf>), **75% of enterprises report a positive ROI** , and fewer than **5% report a negative return**. While there are many studies on this topic, this one reflects what we see on the ground today with our customers: when AI is deployed with the right use case and infrastructure, teams see real results.
 
   * [**_Indeed_** ⁠](<https://openai.com/index/indeed>) is using OpenAI APIs in its Invite to Apply feature to drive a **20% increase in applications and a 13% uplift in downstream success**. 
+
   * [**_Lowe’s_**](</index/lowes/>) **empowers all associates in 1,700+ stores** with expert project guidance through Mylow Companion, an in-store app built with OpenAI models.
+
   * With OpenAI as the backbone of Fin, their customer service agent, [**_Intercom_**](</index/intercom/>) has accelerated development cycles **from quarters to days**. 
+
   * And starting today, [**_Databricks_** ⁠(opens in a new window)](<https://databricks.com/blog/native-openai-models-now-generally-available-databricks>) is bringing OpenAI frontier intelligence to where enterprises’ data already lives—**making it easier to build and run high-quality agents.**
+
 
 
 
@@ -104,17 +112,17 @@ OpenAI
 
 [View all](</news/>)
 
-![California youth AI safety — cover](https://images.ctfassets.net/kftzwdyauwt9/3CsHxgcoiHHUUaYOB1FNiq/38e90de831dad795965ed98ffdd3a95a/Frame.png?w=3840&q=90&fm=webp)
+![Paul Christiano joins OpenAI Foundation Board — card](https://images.ctfassets.net/kftzwdyauwt9/4PcDbhz75I70TjyGat7oHl/598dd1e865018860c3591cb95c9bc72e/paul-christiano-joins-openai-foundation-board--cover-v001.png?w=3840&q=90&fm=webp)
 
-[OpenAI supports California’s bill to advance youth AI safetyCompanyAug 31, 2026](</index/supporting-california-bill-advance-ai-youth-safety/>)
+[Paul Christiano joins OpenAI Foundation BoardCompanySep 9, 2026](</index/paul-christiano-joins-openai-foundation-board/>)
 
-![Our decision on Cursor following its acquisition by SpaceX — cover](https://images.ctfassets.net/kftzwdyauwt9/3gFEgHvtA7Rsa5yUen97p5/b78a11ad81397a4003b879160e5a19b3/index-our-decision-on-cursor-following-its-acquisition-by-spacex-cover.png?w=3840&q=90&fm=webp)
+![The Work Now Within Reach — clean cover](https://images.ctfassets.net/kftzwdyauwt9/5iHLTPM4ZhKe4dAwOPfpy2/347b9d804542685bb13dbb63e985d91e/c3f562e2b08a0bfc.png?w=3840&q=90&fm=webp)
 
-[Our decision on Cursor following its acquisition by SpaceXCompanyAug 28, 2026](</index/our-decision-on-cursor-following-its-acquisition-by-spacex/>)
+[The Work Now Within ReachCompanySep 8, 2026](</index/the-work-now-within-reach/>)
 
-![Supporting Thailand’s next generation of AI startups > Cover image](https://images.ctfassets.net/kftzwdyauwt9/6ttG55Aq2kyDRG8wxOkTx9/897d266cacc77edc0a25d06b9f6c2c45/supporting-next-generation-ai-startups-thailand--cover.png?w=3840&q=90&fm=webp)
+![Supporting journalism from classrooms to newsrooms — listing card](https://images.ctfassets.net/kftzwdyauwt9/2uvvRNdvFkdWWXNtANgtAF/36e0f8b6a0c35abf88eec71519823409/Option_70___1080_1080.png?w=3840&q=90&fm=webp)
 
-[Supporting Thailand’s next generation of AI startupsCompanyAug 28, 2026](</index/supporting-next-generation-ai-startups-thailand/>)
+[Supporting journalism from classrooms to newsroomsCompanySep 8, 2026](</index/supporting-journalism-from-classrooms-to-newsrooms/>)
 
 Research
 
@@ -126,6 +134,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)

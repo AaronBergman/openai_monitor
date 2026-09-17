@@ -28,6 +28,8 @@ OpenAI
 
 June 1, 2025
 
+[Safety](</news/safety-alignment/>)
+
 # Operation “Sneer Review”: China-origin influence activity
 
 OpenAI banned accounts using AI to generate posts criticizing a Taiwanese social media influencer and related US topics.
@@ -100,6 +102,14 @@ Engagement on X and TikTok was more varied; the two TikTok videos amassed a comb
 
 Using the IO impact [Breakout Scale⁠(opens in a new window)](<https://www.brookings.edu/articles/the-breakout-scale-measuring-the-impact-of-influence-operations/>), we would assess this as being at the low end of Category 3 if the figures for engagement on X and TikTok were authentic. We would revise this downwards if more evidence emerged to support the hypothesis that the majority of likes and views, like the majority of comments, were inauthentic.
 
+  * [China](</news/?tags=actor-origin-china>)
+  * [United States](</news/?tags=target-geography-united-states>)
+  * [Taiwan](</news/?tags=target-geography-taiwan>)
+  * [Pakistan](</news/?tags=target-geography-pakistan>)
+  * [Influence operations](</news/?tags=activity-type-influence-operations>)
+
+
+
 ## Author
 
 OpenAI
@@ -114,6 +124,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)

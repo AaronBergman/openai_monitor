@@ -55,10 +55,15 @@ Partnering to bring new advanced AI capabilities to enterprises worldwide
 **News:**
 
   * Amazon Web Services (AWS) and OpenAI will co-create a Stateful Runtime Environment powered by OpenAI models, available on Amazon Bedrock for AWS customers to build generative AI applications and agents at production scale.
+
   * AWS will be the exclusive third-party cloud distribution provider for OpenAI Frontier, which enables organizations to build, deploy, and manage teams of AI agents.
+
   * OpenAI to consume 2 gigawatts of Trainium capacity through AWS infrastructure to support demand for Stateful Runtime Environment, Frontier, and other advanced workloads.
+
   * OpenAI and Amazon will develop customized models available to power Amazon’s customer-facing applications.
+
   * Amazon will invest $50 billion in OpenAI.
+
 
 
 
@@ -92,10 +97,6 @@ OpenAI and Amazon will collaborate to develop customized models available to Ama
 
 OpenAIAmazon
 
-> “OpenAI and Amazon share a belief that AI should show up in ways that are practical and genuinely useful for people. Combining OpenAI’s intelligence with Amazon’s infrastructure and global reach helps us put powerful AI into the hands of businesses and users at real scale.”
-
-— Sam Altman, co-founder and CEO of OpenAI
-
   * [2026](</news/?tags=2026>)
   * [Partnerships](</news/?tags=partnerships>)
 
@@ -109,17 +110,17 @@ OpenAI
 
 [View all](</news/>)
 
-![California youth AI safety — cover](https://images.ctfassets.net/kftzwdyauwt9/3CsHxgcoiHHUUaYOB1FNiq/38e90de831dad795965ed98ffdd3a95a/Frame.png?w=3840&q=90&fm=webp)
+![Paul Christiano joins OpenAI Foundation Board — card](https://images.ctfassets.net/kftzwdyauwt9/4PcDbhz75I70TjyGat7oHl/598dd1e865018860c3591cb95c9bc72e/paul-christiano-joins-openai-foundation-board--cover-v001.png?w=3840&q=90&fm=webp)
 
-[OpenAI supports California’s bill to advance youth AI safetyCompanyAug 31, 2026](</index/supporting-california-bill-advance-ai-youth-safety/>)
+[Paul Christiano joins OpenAI Foundation BoardCompanySep 9, 2026](</index/paul-christiano-joins-openai-foundation-board/>)
 
-![Our decision on Cursor following its acquisition by SpaceX — cover](https://images.ctfassets.net/kftzwdyauwt9/3gFEgHvtA7Rsa5yUen97p5/b78a11ad81397a4003b879160e5a19b3/index-our-decision-on-cursor-following-its-acquisition-by-spacex-cover.png?w=3840&q=90&fm=webp)
+![The Work Now Within Reach — clean cover](https://images.ctfassets.net/kftzwdyauwt9/5iHLTPM4ZhKe4dAwOPfpy2/347b9d804542685bb13dbb63e985d91e/c3f562e2b08a0bfc.png?w=3840&q=90&fm=webp)
 
-[Our decision on Cursor following its acquisition by SpaceXCompanyAug 28, 2026](</index/our-decision-on-cursor-following-its-acquisition-by-spacex/>)
+[The Work Now Within ReachCompanySep 8, 2026](</index/the-work-now-within-reach/>)
 
-![Supporting Thailand’s next generation of AI startups > Cover image](https://images.ctfassets.net/kftzwdyauwt9/6ttG55Aq2kyDRG8wxOkTx9/897d266cacc77edc0a25d06b9f6c2c45/supporting-next-generation-ai-startups-thailand--cover.png?w=3840&q=90&fm=webp)
+![Supporting journalism from classrooms to newsrooms — listing card](https://images.ctfassets.net/kftzwdyauwt9/2uvvRNdvFkdWWXNtANgtAF/36e0f8b6a0c35abf88eec71519823409/Option_70___1080_1080.png?w=3840&q=90&fm=webp)
 
-[Supporting Thailand’s next generation of AI startupsCompanyAug 28, 2026](</index/supporting-next-generation-ai-startups-thailand/>)
+[Supporting journalism from classrooms to newsroomsCompanySep 8, 2026](</index/supporting-journalism-from-classrooms-to-newsrooms/>)
 
 Research
 
@@ -131,6 +132,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
@@ -225,3 +227,7 @@ Terms & Policies
 OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
+
+> “OpenAI and Amazon share a belief that AI should show up in ways that are practical and genuinely useful for people. Combining OpenAI’s intelligence with Amazon’s infrastructure and global reach helps us put powerful AI into the hands of businesses and users at real scale.”
+
+— Sam Altman, co-founder and CEO of OpenAI

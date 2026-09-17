@@ -63,11 +63,17 @@ We remain responsible for the decisions we make, but we’ll continue learning f
 We’re grateful to this initial group for their deep expertise and shared commitment to making AI supportive and safe. 
 
   * **David Bickham, Ph.D.** —Research Director at the Digital Wellness Lab at Boston Children’s Hospital and Assistant Professor at Harvard Medical School. His work looks at how young people’s social media use affects their mental health and development.
+
   * **Mathilde Cerioli, Ph.D.** —Chief Scientific Officer at everyone.AI, a nonprofit helping people understand the opportunities and risks of AI for children. With a Ph.D. in Cognitive Neuroscience and a Master’s Degree in Psychology, her research focuses on how AI intersects with child cognitive and emotional development.
+
   * **Munmun De Choudhury, Ph.D.** —J. Z. Liang Professor of Interactive Computing at Georgia Tech. She harnesses computational approaches to better understand the role of online technologies in shaping and improving mental health.
+
   * **Tracy Dennis-Tiwary, Ph.D.** —Professor of Psychology at Hunter College and co-founder and CSO at Arcade Therapeutics. She creates digital games for mental health and explores interactions between technology and emotional wellbeing. 
+
   * **David Mohr, Ph.D.** —Professor at Northwestern University and Director of the Center for Behavioral Intervention Technologies. He studies how technology can help prevent and treat common mental health conditions such as depression and anxiety.
+
   * **Robert K. Ross, M.D.** —A national leader and expert in health philanthropy, public health, and community-based health initiatives. He began his career as a pediatrician and is formerly the president and CEO of The California Endowment. 
+
 
 
 
@@ -120,6 +126,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)

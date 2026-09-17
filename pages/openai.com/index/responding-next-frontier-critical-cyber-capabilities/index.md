@@ -67,10 +67,15 @@ While we continue to benchmark and assess this model, our preliminary evaluation
 Accordingly, we have scaled up robustness testing of our safeguards and security controls so that they are appropriate for a deployment of these capabilities. Internally, we have also taken the following steps so that further development of this model happens safely and securely: 
 
   * We are implementing stricter security controls for higher-capability models and associated activities, including isolated testing environments, restricted network and tool access, enhanced model weight protections and encryption, additional monitoring and detection capabilities, and sandboxed execution.
+
   * We are pausing internal activities involving Astra that do not yet meet these strengthened security control requirements.
+
   * We have implemented universal monitoring for risky actions and misalignment across all agentic applications of Astra, including training and evaluation. Monitors evaluate the model's Chain of Thought and trigger a security response to review and interrupt high risk activity.
+
   * We will work with relevant government agencies and select AI safety organizations to test the capabilities for this model.
+
   * We will be providing recommended security controls to third-party testing partners for running higher risk evaluations and workloads safely. 
+
 
 
 

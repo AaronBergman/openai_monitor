@@ -50,21 +50,29 @@ The Blueprint champions the entrepreneurial spirit, scientific excellence, and i
 
   1. **Establish and grow the foundations needed for sustained AI growth—chips, data, energy, and talent  
 ** Chips, data, energy, and talent are the keys to winning in AI—and this is a race in which Europe can and must compete. In the AI era, these fundamental inputs will determine global leadership. Europe must secure and develop these resources to secure its prosperity and competitive edge.
+
   2. **Ensure that EU rules are streamlined and work in sync to enable AI progress rather than hinder it  
 ** Today—as Mario Draghi noted in his report—Europe’s regulatory environment is often too complex. EU policymakers should focus on reducing barriers within the single market by simplifying the digital rulebook, eliminating redundant or obsolete proposals and harmonizing rules to attract the investment necessary to develop and support cutting-edge AI.
+
   3. **Maximize the AI opportunity through widespread adoption across all sectors, regions and society  
 ** Increasing AI access and literacy is essential to ensure that AI has a positive impact on European businesses, large and small, public services and wider society. The skills to navigate, work with, and shape AI technologies are key to ensuring that AI improves the lives of all EU citizens and the bloc’s competitiveness.
+
   4. **Ensure that AI is built responsibly and reflects European values  
 ** The EU and the AI industry must work hand-in-hand to ensure that, as AI tools increasingly become part of Europeans’ daily lives, users can confidently trust the products for themselves and their families. Equally important is empowering individuals to meaningfully control and personalize these tools according to their specific needs and preferences. Building this trust is crucial to ensure AI is embraced widely and benefits everyone in society.
+
 
 
 
 To be a constructive partner to EU policymakers, we offer the following adoption-focused ideas as starting points to achieve high impact across the above recommendations:
 
   1. **AI Compute Scaling Plan:** Increase the EU’s computing capacity by at least 300% by 2030, with a clear focus on low-latency, geographically-distributed infrastructure optimized for inference, as a complement to the AI factories focused on training.
+
   2. **AI Accelerator Fund:** Launch a dedicated €1 billion fund to rapidly finance pilot projects demonstrating clear societal or economic value of AI.
+
   3. **100 Million AI Citizens** _:_ Train 100 million Europeans in foundational AI skills by 2030 through freely accessible online courses in all official EU languages.
+
   4. **Youth Digital Agency in AI Initiative** : Establish an EU-funded initiative that supports the development of AI applications co-designed with young people. This could involve participatory design sprints with educational institutions, youth councils, and child safety organizations to build features that reflect their needs and values.
+
 
 
 
@@ -99,6 +107,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)

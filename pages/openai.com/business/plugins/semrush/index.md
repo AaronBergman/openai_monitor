@@ -24,7 +24,9 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 [Contact sales](</contact-sales/>)Try OpenAI
 
-OpenAI[View all plugins](</business/plugins/>)
+OpenAI
+
+[Plugins](</business/plugins/>)
 
 ![](https://files.openai.com/content?id=file_00000000a1a471fd81edff86e77ecd3b&cdn=1&cp=pi&ma=30326400&ts=0&p=pi&cid=1&sig=938d4b73498b8010276a2a2db3bd97736fb43368f7d6e6b918d92ed91ccbca4f&v=0)![](https://files.openai.com/content?id=file_00000000352871fd8a026326a6078808&cdn=1&cp=pi&ma=30585600&ts=0&p=pi&cid=1&sig=f2df03095c7e6c6c7c919a69e0395034bd5b155ed48e78a3780a4c33c6c23a4c&v=0)
 
@@ -34,49 +36,63 @@ Ask about site metrics and traffic data.
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_691fa57b709c8191b61c48b1f78dce21>)[Contact sales](</contact-sales/>)
 
-Use case: [Productivity](</business/plugins/?tab=plugins-productivity>) and [Marketing](</business/plugins/?tab=plugins-marketing>)
+Category
+    [Productivity](</business/plugins/?tab=plugins-productivity>)
 
-Made by: Semrush Holdings, Inc.
+Developer
+    Semrush Holdings, Inc.
 
-Website: [semrush.com(opens in a new window)](<https://www.semrush.com/>)
+Website
+    [(opens in a new window)](<https://www.semrush.com/>)
 
 ## How it works
 
 Access SEO, traffic, and competitive insights from Semrush in ChatGPT using simple prompts to analyze competitors, find keyword opportunities, check market trends, and create quick reports.
 
-### Explore site and keyword metrics
+## Common use cases
+
+  * ### Explore site and keyword metrics
 
 View site metrics, keyword data, and ranking information to understand search visibility and demand.
 
-### Review competitor performance
+Semrush Find keyword opportunities for a fintech blog focused on small business lending and prioritize by difficulty and intent.
+
+[(opens in a new window)](<https://chatgpt.com/?q=Semrush+Find+keyword+opportunities+for+a+fintech+blog+focused+on+small+business+lending+and+prioritize+by+difficulty+and+intent.>)
+
+  * ### Review competitor performance
 
 Analyze competitor domains to review traffic data, visibility, and comparative performance.
 
-### Summarize SEO and traffic data
+Semrush Compare these competitor domains over the last 30 days. Highlight who's gaining or losing, key drivers of performance, biggest gaps vs. us, and 3 recommended actions.
+
+[(opens in a new window)](<https://chatgpt.com/?q=Semrush+Compare+these+competitor+domains+over+the+last+30+days.+Highlight+who%27s+gaining+or+losing%2C+key+drivers+of+performance%2C+biggest+gaps+vs.+us%2C+and+3+recommended+actions.>)
+
+  * ### Summarize SEO and traffic data
 
 Create quick summaries and reports from Semrush SEO and traffic data without leaving ChatGPT.
 
-## Sample prompts
+Semrush Run a technical SEO audit summary and give me the top fixes that will move organic traffic fastest.
 
-Find SEO opportunities and pull highlights
+[(opens in a new window)](<https://chatgpt.com/?q=Semrush+Run+a+technical+SEO+audit+summary+and+give+me+the+top+fixes+that+will+move+organic+traffic+fastest.>)
 
-**@Semrush** Find keyword opportunities for a fintech blog focused on small business lending and prioritize by difficulty and intent.
 
-Review SEO opportunities and flag risks
 
-**@Semrush** Compare these competitor domains over the last 30 days. Highlight who's gaining or losing, key drivers of performance, biggest gaps vs. us, and 3 recommended actions.
 
-Analyze competitor domain performance
+## What’s included
 
-**@Semrush** Run a technical SEO audit summary and give me the top fixes that will move organic traffic fastest.
+### App
+
+  * ![](https://files.openai.com/content?id=file_00000000b31481f48bebf1096d5f35e8&cdn=1&cp=pi&ma=30412800&ts=0&p=pi&cid=8&sig=c3e7e9456391e941e7cc4e521fed2663203a4344310dcace96382d82852ccfc5&v=0)Semrush
+
+
 
 ## Resources
 
-### [Help centerRead more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
+### [Help centerLearn more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
 
-### [Plugin supportRead more](<https://www.semrush.com/kb/>)
+### [Plugin supportLearn more](<https://www.semrush.com/kb/>)
 
-### [Privacy policyRead more](<https://www.semrush.com/legal/privacy-policy/>)
+### [Privacy policyLearn more](<https://www.semrush.com/legal/privacy-policy/>)
 
 ## Get started with plugins
 

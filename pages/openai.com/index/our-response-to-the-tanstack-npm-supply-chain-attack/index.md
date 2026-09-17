@@ -126,9 +126,13 @@ Updating ensures you are running versions signed with our latest certificate. Th
 Only download OpenAI apps from in-app updates or the official webpages below: 
 
   * [ChatGPT⁠(opens in a new window)](<https://chatgpt.com/download>)
+
   * [Codex App⁠](</codex/>)
+
   * [Codex CLI⁠(opens in a new window)](<https://github.com/openai/codex>)
+
   * [Atlas⁠](</atlas/>)
+
 
 
 
@@ -139,9 +143,13 @@ Do not install apps from links in emails, messages, ads, or third-party download
 Effective June 12, 2026, older versions of our macOS desktop apps will no longer receive updates or support, and may not be functional. These versions represent the last releases signed with our outdated certificate: 
 
   * ChatGPT Desktop: 1.2026.118
+
   * Codex App: 26.506.31421
+
   * Codex CLI: 0.130.0
+
   * Atlas: 1.2026.119.1
+
 
 
 

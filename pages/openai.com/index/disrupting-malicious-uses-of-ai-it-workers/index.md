@@ -28,6 +28,8 @@ OpenAI
 
 June 1, 2025
 
+[Safety](</news/safety-alignment/>)
+
 # Deceptive Employment Scheme: IT worker activity
 
 OpenAI banned accounts associated with suspected deceptive employment campaigns that used AI to develop materials for potentially fraudulent remote-job applications.
@@ -63,9 +65,13 @@ Meanwhile, the possible contractor operators used ChatGPT to help complete job a
 We determined that these threat actors attempted to use our models for a deceptive operation. Specifically, they used detailed prompts, instructions, and automation loops to generate tailored, credible résumés at scale.
 
   * Automating detailed résumés aligned to various tech job descriptions, personas, and industry norms: LLM Supported Social Engineering.
+
   * Answering employment-related application questions, coding assignments, and real-time interview questions based on uploaded resumes: LLM Supported Social Engineering.
+
   * Seeking guidance for remotely configuring corporate-issued laptops to appear domestically located, including geolocation masking and endpoint security evasion methods: LLM-Enhanced Anomaly Detection Evasion.
+
   * Assisting coding of tools to move the mouse automatically, or keep a computer awake remotely, possibly to assist in remote working infrastructure setups: LLM Aided Development.
+
 
 
 
@@ -74,6 +80,12 @@ We determined that these threat actors attempted to use our models for a decepti
 We cannot independently assess the success of these operations, as assessing impact would require inputs from multiple stakeholders.
 
 While the threat actors likely built AI into every step of their process to increase their efficiency, it also increased their exposure. By giving us insights across their workflows, they enabled us to share insights about these campaigns with relevant industry peers and authorities for each stage of their activity, enhancing our collective ability to detect, prevent, and respond to such threats while advancing our shared safety.
+
+  * [Global](</news/?tags=target-geography-global-internet-users>)
+  * [United States](</news/?tags=target-geography-united-states>)
+  * [Fraud & scams](</news/?tags=activity-type-fraud-scams>)
+
+
 
 ## Author
 
@@ -89,6 +101,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)

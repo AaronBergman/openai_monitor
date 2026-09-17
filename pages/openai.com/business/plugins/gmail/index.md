@@ -24,7 +24,9 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 [Contact sales](</contact-sales/>)Try OpenAI
 
-OpenAI[View all plugins](</business/plugins/>)
+OpenAI
+
+[Plugins](</business/plugins/>)
 
 ![](https://files.openai.com/content?id=file_00000000990481fd9c316ee59df47fc5&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=8&sig=bd8ee8654d100eefe078aa49822119c307f7c6f39021603fafb3d083c1cb5cac&v=0)![](https://files.openai.com/content?id=file_00000000990481fd9c316ee59df47fc5&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=8&sig=bd8ee8654d100eefe078aa49822119c307f7c6f39021603fafb3d083c1cb5cac&v=0)
 
@@ -34,51 +36,68 @@ Find and reference emails from your inbox.
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_1p_95d39881713c8191931482a62d6edff9>)[Contact sales](</contact-sales/>)
 
+Capabilities
+    Interactive, Write
+
+Category
+    [Productivity](</business/plugins/?tab=plugins-productivity>)
+
+Developer
+    OpenAI
+
+Website
+    [(opens in a new window)](<https://workspace.google.com/products/gmail/>)
+
 [![](https://files.openai.com/content?id=file_00000000fb5881f79c1246ea691411ba&cdn=1&cp=pi&ma=31881600&ts=0&p=pi&cid=8&sig=d1e8692c27cc084b92aaf2042ee475e3861fa2dbc085c344aa12e82c813e1493&v=0)Gmail Summarize the last 5 messages in [subject line] and capture decisions, open questions, and what I should follow up on next(opens in a new window)](<https://chatgpt.com/?prompt=%40Gmail+Summarize+the+last+5+messages+in+%5Bsubject+line%5D+and+capture+decisions%2C+open+questions%2C+and+what+I+should+follow+up+on+next>)[![](https://files.openai.com/content?id=file_00000000fb5881f79c1246ea691411ba&cdn=1&cp=pi&ma=31881600&ts=0&p=pi&cid=8&sig=d1e8692c27cc084b92aaf2042ee475e3861fa2dbc085c344aa12e82c813e1493&v=0)Gmail Draft a polite, firm reply to our auditor's latest email, with a short bullet list of exactly what we'll provide(opens in a new window)](<https://chatgpt.com/?prompt=%40Gmail+Draft+a+polite%2C+firm+reply+to+our+auditor%27s+latest+email%2C+with+a+short+bullet+list+of+exactly+what+we%27ll+provide>)[![](https://files.openai.com/content?id=file_00000000fb5881f79c1246ea691411ba&cdn=1&cp=pi&ma=31881600&ts=0&p=pi&cid=8&sig=d1e8692c27cc084b92aaf2042ee475e3861fa2dbc085c344aa12e82c813e1493&v=0)Gmail Turn my latest customer escalation thread into an action tracker with owners, deadlines, and an email reference for each item(opens in a new window)](<https://chatgpt.com/?prompt=%40Gmail+Turn+my+latest+customer+escalation+thread+into+an+action+tracker+with+owners%2C+deadlines%2C+and+an+email+reference+for+each+item>)
-
-Use case: [Productivity](</business/plugins/?tab=plugins-productivity>)
-
-Made by: OpenAI
-
-Website: [workspace.google.com(opens in a new window)](<https://workspace.google.com/products/gmail/>)
 
 ## How it works
 
 Review your Gmail conversations to prepare replies, recap recent exchanges, gather talking points for meetings, or highlight action items.
 
-### Prepare faster with accurate communication history
+## Common use cases
+
+  * ### Prepare faster with accurate communication history
 
 Summarize long threads to capture decisions, risks, and open questions so teams enter meetings aligned and ready with clear talking points.
 
-### Stay ahead of follow-ups and commitments
+Gmail Summarize the last 5 messages in [subject line] and capture decisions, open questions, and what I should follow up on next.
+
+[(opens in a new window)](<https://chatgpt.com/?q=Gmail+Summarize+the+last+5+messages+in+%5Bsubject+line%5D+and+capture+decisions%2C+open+questions%2C+and+what+I+should+follow+up+on+next.>)
+
+  * ### Stay ahead of follow-ups and commitments
 
 Turn recent messages into clear action lists with owners and deadlines to prevent missed handoffs and keep cross-functional work moving.
 
-### Prioritize high-impact conversations
+Gmail Turn my latest customer escalation thread into an action tracker with owners, deadlines, and the exact email reference for each item.
+
+[(opens in a new window)](<https://chatgpt.com/?q=Gmail+Turn+my+latest+customer+escalation+thread+into+an+action+tracker+with+owners%2C+deadlines%2C+and+the+exact+email+reference+for+each+item.>)
+
+  * ### Prioritize high-impact conversations
 
 Highlight urgent messages, stakeholder outreach, and account risks so teams focus on the highest-impact work.
 
-## Sample prompts
+Gmail Review recent emails and identify the five conversations needing attention today. Explain urgency, upcoming deadlines, and customer or stakeholder risks, with a link to each thread.
 
-Summarize decisions and next steps
+[(opens in a new window)](<https://chatgpt.com/?q=Gmail+Review+recent+emails+and+identify+the+five+conversations+needing+attention+today.+Explain+urgency%2C+upcoming+deadlines%2C+and+customer+or+stakeholder+risks%2C+with+a+link+to+each+thread.>)
 
-**@Gmail** Summarize the last 5 messages in [subject line] and capture decisions, open questions, and what I should follow up on next.
 
-Draft an email reply with deliverables
 
-**@Gmail** Turn my latest customer escalation thread into an action tracker with owners, deadlines, and the exact email reference for each item.
 
-Create action plan from emails
+## What’s included
 
-**@Gmail** Review recent emails and identify the five conversations needing attention today. Explain urgency, upcoming deadlines, and customer or stakeholder risks, with a link to each thread.
+### App
+
+  * connector_2128aebfecb84f64a069897515042a44
+
+
 
 ## Resources
 
-### [Help centerRead more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
+### [Help centerLearn more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
 
-### [Plugin supportRead more](<https://support.google.com/mail/>)
+### [Plugin supportLearn more](<https://support.google.com/mail/>)
 
-### [Privacy policyRead more](<https://policies.google.com/privacy>)
+### [Privacy policyLearn more](<https://policies.google.com/privacy>)
 
 ## Get started with plugins
 

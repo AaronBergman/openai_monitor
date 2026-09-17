@@ -28,6 +28,8 @@ OpenAI
 
 June 1, 2026
 
+[Safety](</news/safety-alignment/>)
+
 # “Tech and Tariffs” Campaign: Influence activity targeting US tech policy
 
 OpenAI banned likely PRC-origin accounts using AI to create comments and cartoons about US tech policy, tariffs, and trade restrictions.
@@ -92,6 +94,15 @@ Likewise, we appear to have observed similar tactics to harm OpenAI’s reputati
 
 This is a useful parallel to the earlier rare earths campaigns because the [14th Five-Year Plan Outline⁠(opens in a new window)](<https://www.ndrc.gov.cn/xxgk/zcfb/ghwb/202103/P020210323538797779059.pdf>), published in 2021, securitized the strategic mineral resources industry and specifically identified “high end rare earth functional materials” as a key priority. In both cases, inauthentic accounts targeted private companies in democracies operating in sectors that Beijing viewed as important to national development and security.
 
+  * [China](</news/?tags=actor-origin-china>)
+  * [United States](</news/?tags=target-geography-united-states>)
+  * [China](</news/?tags=target-geography-china>)
+  * [Influence operations](</news/?tags=activity-type-influence-operations>)
+  * [Surveillance & intelligence collection](</news/?tags=activity-type-surveillance-coercion>)
+  * [Harassment & repression](</news/?tags=harassment-and-repression>)
+
+
+
 ## Author
 
 OpenAI
@@ -106,6 +117,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)

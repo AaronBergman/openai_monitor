@@ -28,6 +28,8 @@ OpenAI
 
 October 1, 2025
 
+[Safety](</news/safety-alignment/>)
+
 # PRC-linked abuse: Surveillance and influence activity
 
 OpenAI banned PRC-linked accounts using AI to support surveillance-related planning, targeted profiling, and research on critics and other individuals.
@@ -64,6 +66,15 @@ For example, one user asked ChatGPT to identify funding sources for an X account
 
 Some of this activity used our models as an open-source research tool, in a similar way to which earlier users might have used internet or social media searches. For example, a third user asked ChatGPT to identify and summarize daily breaking news that would be of relevance to China, including on sensitive topics such as the anniversary of the Tiananmen Square massacre in 1989 and the birthday of the Dalai Lama.
 
+  * [Influence operations](</news/?tags=activity-type-influence-operations>)
+  * [Surveillance & intelligence collection](</news/?tags=activity-type-surveillance-coercion>)
+  * [Harassment & repression](</news/?tags=harassment-and-repression>)
+  * [China](</news/?tags=target-geography-china>)
+  * [Global](</news/?tags=target-geography-global-internet-users>)
+  * [China](</news/?tags=actor-origin-china>)
+
+
+
 ## Author
 
 OpenAI
@@ -78,6 +89,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)

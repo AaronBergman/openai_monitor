@@ -109,23 +109,31 @@ Our findings span every layer of the software stack, with many more still in the
 ### Operating systems
 
   * **Linux Kernel:** GPT‑5.5‑Cyber identified security-relevant components across more than 30 million lines of code, flagged potential security issues, and then validated them dynamically, generating 8 kernel pointer information leak proof-of-concepts (PoCs) and 24 local privilege escalation exploits. We note that hundreds of issues were identified, this is the subset for which PoCs were automatically generated.****
+
   * **OpenBSD:** Our models identified a 23-year-old [_use-after-free_ ⁠(opens in a new window)](<https://github.com/openbsd/src/commit/1957873d2063db11dab780eca75b5e629d1e838d>) in OpenBSD’s kernel implementation of System V semaphores. OpenAI researchers reproduced the issue and confirmed that it could allow an unprivileged local user to escalate privileges to root.
+
   * **FreeBSD:** Security researchers at Calif used Codex to find and validate using proof-of-concept exploits for [_several_ ⁠(opens in a new window)](<https://www.freebsd.org/security/advisories/FreeBSD-SA-26:18.setcred.asc>) [_LPEs_ ⁠(opens in a new window)](<https://www.freebsd.org/security/advisories/FreeBSD-SA-26:21.ptrace.asc>) in [_FreeBSD_ ⁠(opens in a new window)](<https://www.freebsd.org/security/advisories/FreeBSD-SA-26:19.file.asc>). Across a broader FreeBSD campaign, OpenAI researchers confirmed 34 vulnerabilities and produced 7 local privilege escalation PoCs.
+
 
 
 
 ### Network
 
   * **dnsmasq** : Codex Security independently identified vulnerable patterns corresponding to four of the six dnsmasq CVEs later fixed in `2.92rel2`: [CVE-2026-4890⁠(opens in a new window)](<https://www.cve.org/CVERecord?id=CVE-2026-4890>), [CVE-2026-4891⁠(opens in a new window)](<https://www.cve.org/CVERecord?id=CVE-2026-4891>), [CVE-2026-4892⁠(opens in a new window)](<https://www.cve.org/CVERecord?id=CVE-2026-4892>), and [CVE-2026-5172⁠(opens in a new window)](<https://www.cve.org/CVERecord?id=CVE-2026-5172>).
+
   * **HTTP/2 Bomb** : Calif used Codex to identify "[_HTTP/2 Bomb_ ⁠(opens in a new window)](<https://blog.calif.io/p/codex-discovered-a-hidden-http2-bomb>)," a denial-of-service technique affecting major HTTP/2 implementations including NGINX, Apache, IIS and Pingora. Calif’s analysis suggested that more than 880,000 Internet-facing websites were running affected server software with HTTP/2 enabled. 
+
 
 
 
 ### Browsers
 
   * **Chrome** : OpenAI researchers found and reported five exploitable vulnerabilities in Chrome’s V8 JavaScript engine, including three that were identified and remediated within days of being introduced. 
+
   * **Safari** : In roughly a week of focused WebKit work, over 10 exploitable Safari vulnerabilities were found and reported. 
+
   * **Firefox** : OpenAI Preparedness identified a WebAssembly vulnerability ([_CVE-2026-8390_ ⁠(opens in a new window)](<https://nvd.nist.gov/vuln/detail/CVE-2026-8390>)) with GPT‑5.5 during [_safety evaluations_ ⁠(opens in a new window)](<https://deploymentsafety.openai.com/gpt-5-5/vulnlmp>) that Mozilla patched two days before Pwn2Own Berlin, prompting five of six registered Firefox entries to withdraw. No Firefox exploit was successfully demonstrated at the competition.
+
 
 
 

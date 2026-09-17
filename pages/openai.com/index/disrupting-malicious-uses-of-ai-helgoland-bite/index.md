@@ -28,6 +28,8 @@ OpenAI
 
 June 1, 2025
 
+[Safety](</news/safety-alignment/>)
+
 # Operation “Helgoland Bite”: German-language influence activity
 
 OpenAI banned accounts that appeared to originate in Russia and used AI to generate German-language political content about Ukraine, NATO, and domestic issues.
@@ -68,6 +70,12 @@ As noted above, the Telegram channel counted 1,755 subscribers at the time of ou
 
 Using the IO impact [Breakout Scale⁠(opens in a new window)](<https://www.brookings.edu/articles/the-breakout-scale-measuring-the-impact-of-influence-operations/>), we would assess this as being towards the upper end of Category 2: activity on multiple platforms, but little authentic engagement or evidence that their content was widely shared.
 
+  * [Russia](</news/?tags=actor-origin-russia>)
+  * [Germany](</news/?tags=target-geography-germany>)
+  * [Influence operations](</news/?tags=activity-type-influence-operations>)
+
+
+
 ## Author
 
 OpenAI
@@ -82,6 +90,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)

@@ -81,8 +81,11 @@ Can I bike from the Mission to Ocean Beach after work today without getting soak
 Probably yes. Based on today's forecast, I'd expect you to stay dry on a Mission → Ocean Beach ride after work. Here's what I'd plan for:
 
   * **Rain:** No meaningful rain is forecast this evening. 
+
   * **Wind:** You'll likely have a **moderate west/northwest headwind** for the last stretch toward the beach, with gusts around 20–25 mph. That's more likely to slow you down than get you wet. 
+
   * **Temperature:** Expect a noticeable drop—from the upper 60s in the Mission to around the low 60s (or cooler if the marine layer moves in early) at Ocean Beach. 
+
 
 
 
@@ -95,16 +98,22 @@ If you're rolling out around **5:30 PM** , I'd go for it.
 Here's what I'd expect:
 
   * **Rain:** Still no indication of rain during the evening commute. 
+
   * **Temperature:** Around **67°F** when you leave the Mission, dropping to the low 60s by the time you reach Ocean Beach. 
+
   * **Wind:** This is the bigger factor. Expect a **15–20 mph westerly wind** , with gusts up to around **25 mph** , so the final miles westbound will likely feel noticeably harder. 
+
   * **Fog:** There's a chance you'll ride into the edge of the marine layer near the Great Highway. Even if it's foggy, it looks more like cool mist than actual rain. 
+
 
 
 
 So my prediction is:
 
   * **Mission → Golden Gate Park:** Comfortable.
+
   * **Golden Gate Park → Ocean Beach:** Cooler, windier, and maybe a little damp from fog—but **not soaked**.
+
 
 
 
@@ -175,17 +184,17 @@ OpenAI
 
 [View all](</news/>)
 
+![Reimagining advertising with AI — Card cover](https://images.ctfassets.net/kftzwdyauwt9/fHwkKLVG8WFHvuUPqMXtz/1c49ba0859fe1e1e21f5d64f692490f5/reimagining-advertising-with-ai-cover.png?w=3840&q=90&fm=webp)
+
+[Reimagining advertising with AIProductSep 16, 2026](</index/reimagining-advertising-with-ai/>)
+
+![How to connect AI usage to business value — art card](https://images.ctfassets.net/kftzwdyauwt9/36T42HPkipcJAs08yNirmR/f73d9408ef4f0b08b5cce3b839656843/cover-018.png?w=3840&q=90&fm=webp)
+
+[How to connect AI usage to business valueProductSep 16, 2026](</index/how-to-connect-ai-usage-to-business-value/>)
+
 ![Now everyone can put data to work — card image](https://images.ctfassets.net/kftzwdyauwt9/6FhMXOSe8XadGwEUev6QjJ/916a64d20bcc59b8619fea1827fa6bd3/put-data-to-work--cover-v001.png?w=3840&q=90&fm=webp)
 
 [Now everyone can put data to workProductSep 10, 2026](</index/put-data-to-work/>)
-
-![FinServ Blog - Art Card Texture Square](https://images.ctfassets.net/kftzwdyauwt9/6Bcg403pebiJhQdHUS17FK/572e478dc4579deca27c9700c662e908/finserv-art-card.png?w=3840&q=90&fm=webp)
-
-[Introducing ChatGPT for Financial ServicesProductSep 10, 2026](</index/introducing-chatgpt-financial-services/>)
-
-![GPT-Live-1 API | Green-blue cover | Option 038](https://images.ctfassets.net/kftzwdyauwt9/1uBabEULLfw3Vb2Gldmyyq/c19c1c121ca403ee8b2703cba18ef82d/introducing-gpt-live-1-green-cover.png?w=3840&q=90&fm=webp)
-
-[Build more natural voice experiences with GPT‑Live‑1 in the APIProductSep 10, 2026](</index/introducing-gpt-live-1-in-the-api/>)
 
 Research
 

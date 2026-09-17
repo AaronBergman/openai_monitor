@@ -67,12 +67,19 @@ More broadly, we believe that teens can benefit from AI without sacrificing safe
 SB 1119 pairs strong protections with continued access to useful AI tools. We strongly support these key requirements:
 
   * Determine a user’s age;
+
   * Identify and address safety risks before making a product available to young people;
+
   * Undergo independent audits;
+
   * Protect young people from harmful content, including self-harm, sexually exploitative content, and other high-risk interactions;
+
   * Provide parents with tools to guide and limit their children’s use;
+
   * Connect young people with crisis-support resources when serious safety risks arise; and
+
   * Limit targeted advertising and protect young people’s personal information.
+
 
 
 

@@ -38,7 +38,7 @@ OpenAI
 
 ML6 is a frontier AI engineering company, constantly pushing the boundaries of what’s possible with AI. We partner with bold leaders to turn cutting-edge AI into lasting business impact. With over a decade of proven expertise, we deliver AI that reshapes business models. AI that is reliable and secure, ensuring a lasting impact. From strategy to delivery, we don’t just follow the hype - we build the future. ML6 is active in Amsterdam, Berlin, Ghent and Munich.
 
-![Advanced Partner](/images/partner-tier-badges/OAI_PartnerNetwork_AdvancedPartner.svg?dpl=dpl_BdRxAz7pUvB7ugzpY5eAx7A6JZLM)
+![Advanced Partner](/images/partner-tier-badges/OAI_PartnerNetwork_AdvancedPartner.svg?dpl=dpl_GL1UxgKZ7jmDjn2HVeCSxaftH7vR)
 
 Countries served
     Belgium, Netherlands, Germany, United Kingdom, Switzerland, Denmark, Finland, Iceland, Norway, and Sweden
@@ -59,6 +59,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)

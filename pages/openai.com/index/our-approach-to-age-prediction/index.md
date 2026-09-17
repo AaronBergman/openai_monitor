@@ -69,10 +69,15 @@ Users who are incorrectly placed in the under-18 experience will always have a f
 When the age prediction model estimates that an account may belong to someone under 18, ChatGPT automatically applies [additional protections⁠](<https://openai.com/index/updating-model-spec-with-teen-protections/>) designed to reduce exposure to sensitive content, such as:
 
   * Graphic violence or gory content
+
   * Viral challenges that could encourage risky or harmful behavior in minors
+
   * Sexual, romantic, or violent role play
+
   * Depictions of self-harm
+
   * Content that promotes extreme beauty standards, unhealthy dieting, or body shaming
+
 
 
 

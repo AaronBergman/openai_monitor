@@ -149,9 +149,13 @@ This is what gives us conviction in OpenAI’s ability to lead through successiv
 ## Previous blogs from Sarah Friar:
 
   * [The full stack behind abundant intelligence⁠](<https://openai.com/index/the-full-stack-behind-abundant-intelligence/>)
+
   * [What building an AI-native finance function taught me⁠](<https://openai.com/index/building-an-ai-native-finance-function/>)
+
   * [A scorecard for the AI age⁠](<https://openai.com/index/a-scorecard-for-the-ai-age/>)
+
   * [A business that scales with the value of intelligence⁠](<https://openai.com/index/a-business-that-scales-with-the-value-of-intelligence/>)
+
 
 
 

@@ -26,14 +26,6 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 OpenAI
 
-Webinar
-
-### Join us September 10 at 9:30 AM PT
-
-to see how OpenAI’s Data team uses ChatGPT Work to turn data and business context into clear next steps.
-
-[Register now(opens in a new window)](<https://webinar.openai.com/chatgpt-work-series/data-analytics/?utm_medium=website&utm_campaign=WBR-chatgpt-work-series-data-analytics-banner>)
-
 # Data intelligence for every team’s most ambitious work
 
 ChatGPT Work gives everyone the power to answer complex business questions, build interactive dashboards, and act on what they find—no specialized skills required.

@@ -24,7 +24,9 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 [Contact sales](</contact-sales/>)Try OpenAI
 
-OpenAI[View all plugins](</business/plugins/>)
+OpenAI
+
+[Plugins](</business/plugins/>)
 
 ![](https://files.openai.com/content?id=file_00000000dff871fd97ecd3e12034e065&cdn=1&cp=pi&ma=31363200&ts=0&p=pi&cid=1&sig=ba5b5cb9e8613449f77c1752691f4f467846a43b941dc1f29632cf788fd3c426&v=0)![](https://files.openai.com/content?id=file_00000000b5bc71fdb6d8dc0bdc786058&cdn=1&cp=pi&ma=31795200&ts=0&p=pi&cid=1&sig=416aab41b7a94dcf98fc20d43b8d80a0c807853ab48379f20a984d6f6daa0b1a&v=0)
 
@@ -34,45 +36,74 @@ Analyze your product data
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_699caef2d680819188727b0ddbb349dd>)[Contact sales](</contact-sales/>)
 
+Capabilities
+    Interactive, Read, Write
+
+Category
+    [Data](</business/plugins/?tab=plugins-data-research>)
+
+Developer
+    PostHog Inc.
+
+Website
+    [(opens in a new window)](<https://posthog.com>)
+
 [![](https://files.openai.com/content?id=file_00000000e40c722f9886bb66959790af&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=1&sig=e671c8b007daa1f637c6546233c128b34177ec7ae215c9c2b4f18e69624e3786&v=0)PostHog Show me signups this month(opens in a new window)](<https://chatgpt.com/?prompt=%40PostHog+Show+me+signups+this+month>)[![](https://files.openai.com/content?id=file_00000000e40c722f9886bb66959790af&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=1&sig=e671c8b007daa1f637c6546233c128b34177ec7ae215c9c2b4f18e69624e3786&v=0)PostHog Create a feature flag for the new checkout(opens in a new window)](<https://chatgpt.com/?prompt=%40PostHog+Create+a+feature+flag+for+the+new+checkout>)[![](https://files.openai.com/content?id=file_00000000e40c722f9886bb66959790af&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=1&sig=e671c8b007daa1f637c6546233c128b34177ec7ae215c9c2b4f18e69624e3786&v=0)PostHog Why are users dropping off in onboarding?(opens in a new window)](<https://chatgpt.com/?prompt=%40PostHog+Why+are+users+dropping+off+in+onboarding%3F>)
-
-Use case: [Data](</business/plugins/?tab=plugins-data-research>)
-
-Made by: PostHog Inc.
-
-Website: [posthog.com(opens in a new window)](<https://posthog.com>)
 
 ## How it works
 
 PostHog gives your AI agent direct access to your product analytics, feature flags, experiments, error tracking, surveys, logs, and LLM analytics. Ask questions about your data, create insights, toggle feature flags, analyze errors, search docs, and more — all from chat.
 
-### Diagnose onboarding drop-offs
+## Common use cases
+
+  * ### Diagnose onboarding drop-offs
 
 Identify the onboarding stages and user segments with the largest losses and prioritize follow-up investigations.
 
-### Prioritize production errors
+PostHog Analyze onboarding conversion over the past 30 days. Identify the biggest drop-off steps, compare key user segments, and recommend three investigations, separating observed patterns from possible causes.
+
+[(opens in a new window)](<https://chatgpt.com/?q=PostHog+Analyze+onboarding+conversion+over+the+past+30+days.+Identify+the+biggest+drop-off+steps%2C+compare+key+user+segments%2C+and+recommend+three+investigations%2C+separating+observed+patterns+from+possible+causes.>)
+
+  * ### Prioritize production errors
 
 Rank recent errors by user impact and use stack traces to suggest where debugging should begin.
 
-### Prepare a checkout flag
+PostHog Review errors from the past seven days. Rank the top three by affected users and frequency, inspect their stack traces, and summarize likely causes and the next debugging step for each.
+
+[(opens in a new window)](<https://chatgpt.com/?q=PostHog+Review+errors+from+the+past+seven+days.+Rank+the+top+three+by+affected+users+and+frequency%2C+inspect+their+stack+traces%2C+and+summarize+likely+causes+and+the+next+debugging+step+for+each.>)
+
+  * ### Prepare a checkout flag
 
 Create a disabled checkout feature flag and outline checkpoints for reviewing a future rollout.
 
-## Sample prompts
+PostHog Create a disabled feature flag for the new checkout with a clear description and internal-user targeting. Summarize its configuration and propose checkpoints for evaluating a future rollout.
 
-**@PostHog** Analyze onboarding conversion over the past 30 days. Identify the biggest drop-off steps, compare key user segments, and recommend three investigations, separating observed patterns from possible causes.
+[(opens in a new window)](<https://chatgpt.com/?q=PostHog+Create+a+disabled+feature+flag+for+the+new+checkout+with+a+clear+description+and+internal-user+targeting.+Summarize+its+configuration+and+propose+checkpoints+for+evaluating+a+future+rollout.>)
 
-**@PostHog** Review errors from the past seven days. Rank the top three by affected users and frequency, inspect their stack traces, and summarize likely causes and the next debugging step for each.
 
-**@PostHog** Create a disabled feature flag for the new checkout with a clear description and internal-user targeting. Summarize its configuration and propose checkpoints for evaluating a future rollout.
+
+
+## What’s included
+
+### App
+
+  * ![](https://files.openai.com/content?id=file_00000000dff871fd97ecd3e12034e065&cdn=1&cp=pi&ma=31363200&ts=0&p=pi&cid=1&sig=ba5b5cb9e8613449f77c1752691f4f467846a43b941dc1f29632cf788fd3c426&v=0)PostHog
+
+
+
+### Skill
+
+  * PostHog
+
+
 
 ## Resources
 
-### [Help centerRead more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
+### [Help centerLearn more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
 
-### [Plugin supportRead more](<https://posthog.com/support>)
+### [Plugin supportLearn more](<https://posthog.com/support>)
 
-### [Privacy policyRead more](<https://posthog.com/privacy>)
+### [Privacy policyLearn more](<https://posthog.com/privacy>)
 
 ## Get started with plugins
 

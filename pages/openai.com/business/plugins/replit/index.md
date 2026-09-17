@@ -24,7 +24,9 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 [Contact sales](</contact-sales/>)Try OpenAI
 
-OpenAI[View all plugins](</business/plugins/>)
+OpenAI
+
+[Plugins](</business/plugins/>)
 
 ![](https://files.openai.com/content?id=file_000000003fa871fda8d5ccf17301b94b&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=1&sig=9ca1fad9ac2a8cb87e51c40261c029650c95213921623423ec39d0368045739e&v=0)![](https://files.openai.com/content?id=file_00000000878c81f7853a443065429025&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=be838736241f0296ba05934933d4fdc86ab15ca0f2f4925ed4d6166102f82945&v=0)
 
@@ -34,49 +36,63 @@ Turn your ideas into real apps.
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6934801c799081918131791660f02890>)[Contact sales](</contact-sales/>)
 
-Use case: [Engineering & IT](</business/plugins/?tab=plugins-engineering-it>)
+Category
+    [Engineering & IT](</business/plugins/?tab=plugins-engineering-it>)
 
-Made by: Replit
+Developer
+    Replit
 
-Website: [replit.com(opens in a new window)](<https://www.replit.com>)
+Website
+    [(opens in a new window)](<https://www.replit.com>)
 
 ## How it works
 
 Build real web or mobile apps in ChatGPT by describing what you want, see a live version right away, and iterate through follow-up prompts.
 
-### Create apps from a prompt
+## Common use cases
+
+  * ### Create apps from a prompt
 
 Describe an app idea and have Replit generate a working web or mobile app, including the underlying code and setup.
 
-### Interact with a live app
+Replit Prototype a lightweight appointment scheduler web app for a dental office with admin and receptionist views.
+
+[(opens in a new window)](<https://chatgpt.com/?q=Replit+Prototype+a+lightweight+appointment+scheduler+web+app+for+a+dental+office+with+admin+and+receptionist+views.>)
+
+  * ### Interact with a live app
 
 See and use a live version of your app right away to understand how it behaves as you make changes.
 
-### Update the app through prompts
+Replit Show me a live version of our dental office's appointment scheduler so I can try booking an appointment and switching between the admin and receptionist views.
+
+[(opens in a new window)](<https://chatgpt.com/?q=Replit+Show+me+a+live+version+of+our+dental+office%27s+appointment+scheduler+so+I+can+try+booking+an+appointment+and+switching+between+the+admin+and+receptionist+views.>)
+
+  * ### Update the app through prompts
 
 Request changes and improvements by sending follow-up prompts, and Replit updates the app without leaving ChatGPT.
 
-## Sample prompts
+Replit Add a dashboard with charts and filters to the app and make sure the UI updates smoothly.
 
-Create app prototype with next steps
+[(opens in a new window)](<https://chatgpt.com/?q=Replit+Add+a+dashboard+with+charts+and+filters+to+the+app+and+make+sure+the+UI+updates+smoothly.>)
 
-**@Replit** Prototype a lightweight appointment scheduler web app for a dental office with admin and receptionist views.
 
-Create dashboard with key details
 
-**@Replit** Show me a live version of our dental office's appointment scheduler so I can try booking an appointment and switching between the admin and receptionist views.
 
-Fix build errors from logs
+## What’s included
 
-**@Replit** Add a dashboard with charts and filters to the app and make sure the UI updates smoothly.
+### App
+
+  * ![](https://files.openai.com/content?id=file_000000003fa871fda8d5ccf17301b94b&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=1&sig=9ca1fad9ac2a8cb87e51c40261c029650c95213921623423ec39d0368045739e&v=0)Replit
+
+
 
 ## Resources
 
-### [Help centerRead more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
+### [Help centerLearn more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
 
-### [Plugin supportRead more](<https://docs.replit.com/>)
+### [Plugin supportLearn more](<https://docs.replit.com/>)
 
-### [Privacy policyRead more](<https://replit.com/site/privacy>)
+### [Privacy policyLearn more](<https://replit.com/site/privacy>)
 
 ## Get started with plugins
 

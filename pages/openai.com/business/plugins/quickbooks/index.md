@@ -24,7 +24,9 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 [Contact sales](</contact-sales/>)Try OpenAI
 
-OpenAI[View all plugins](</business/plugins/>)
+OpenAI
+
+[Plugins](</business/plugins/>)
 
 ![](https://files.openai.com/content?id=file_00000000649881f78407f95b8ef708d5&cdn=1&cp=pi&ma=32659200&ts=0&p=pi&cid=8&sig=0bd3c0fdb82a0a8da2c99a9e4b526f0f84728962fd7637ee5423661fb7ef4db7&v=0)![](https://files.openai.com/content?id=file_00000000649881f78407f95b8ef708d5&cdn=1&cp=pi&ma=32659200&ts=0&p=pi&cid=8&sig=0bd3c0fdb82a0a8da2c99a9e4b526f0f84728962fd7637ee5423661fb7ef4db7&v=0)
 
@@ -34,51 +36,79 @@ Business finances made simple
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_697aea3231288191b28a0061066e51bd>)[Contact sales](</contact-sales/>)
 
+Category
+    [Finance](</business/plugins/?tab=plugins-finance>)
+
+Developer
+    Intuit QuickBooks
+
+Website
+    [(opens in a new window)](<https://quickbooks.intuit.com>)
+
 [![](https://files.openai.com/content?id=file_000000001e20722faa250d589f9cc0a7&cdn=1&cp=pi&ma=31968000&ts=0&p=pi&cid=1&sig=f44443a7c89e1f9033c6d368294ce35ad745384035de2f20b422b7eabc1f2d8e&v=0)Intuit QuickBooks Show top five industries in California by monthly profit(opens in a new window)](<https://chatgpt.com/?prompt=%40Intuit+QuickBooks+Show+top+five+industries+in+California+by+monthly+profit>)[![](https://files.openai.com/content?id=file_000000001e20722faa250d589f9cc0a7&cdn=1&cp=pi&ma=31968000&ts=0&p=pi&cid=1&sig=f44443a7c89e1f9033c6d368294ce35ad745384035de2f20b422b7eabc1f2d8e&v=0)Intuit QuickBooks How does my profit compare to top 5 industries in my area(opens in a new window)](<https://chatgpt.com/?prompt=%40Intuit+QuickBooks+How+does+my+profit+compare+to+top+5+industries+in+my+area>)[![](https://files.openai.com/content?id=file_000000001e20722faa250d589f9cc0a7&cdn=1&cp=pi&ma=31968000&ts=0&p=pi&cid=1&sig=f44443a7c89e1f9033c6d368294ce35ad745384035de2f20b422b7eabc1f2d8e&v=0)Intuit QuickBooks Show me my profit and loss statement from QuickBooks(opens in a new window)](<https://chatgpt.com/?prompt=%40Intuit+QuickBooks+Show+me+my+profit+and+loss+statement+from+QuickBooks>)
-
-Use case: [Finance](</business/plugins/?tab=plugins-finance>) and [Small Business](</business/plugins/?tab=plugins-small-business>)
-
-Made by: Intuit QuickBooks
-
-Website: [quickbooks.intuit.com(opens in a new window)](<https://quickbooks.intuit.com>)
 
 ## How it works
 
 Turn your business's raw financial data into clear financial insights. Analyze profitability, cash flow, accounts receivable and payable, and compare your performance against similar businesses in your industry and region. Generate accounting-compliant profit & loss, cash flow statements, balance sheets, and AR/AP aging reports in minutes. Manage invoices, estimates, payments, customers, products, and payroll directly from chat. Upload or paste transactions into the QuickBooks ChatGPT App to analyze personalized results, and view peer loan benchmarks as your business evolves.
 
-### Explain profit changes
+## Common use cases
+
+  * ### Explain profit changes
 
 See which changes in revenue and expenses drove your latest monthly profit.
 
-### Prioritize overdue invoices
+Intuit QuickBooks Generate last month's profit and loss statement, compare it with the prior month, and explain the three largest drivers of the change in net profit.
+
+[(opens in a new window)](<https://chatgpt.com/?q=Intuit+QuickBooks+Generate+last+month%27s+profit+and+loss+statement%2C+compare+it+with+the+prior+month%2C+and+explain+the+three+largest+drivers+of+the+change+in+net+profit.>)
+
+  * ### Prioritize overdue invoices
 
 Identify the overdue balances that deserve attention first.
 
-### Benchmark business performance
+Intuit QuickBooks Review my open invoices, identify overdue balances, and rank the five customers to follow up with first by amount owed and days overdue.
+
+[(opens in a new window)](<https://chatgpt.com/?q=Intuit+QuickBooks+Review+my+open+invoices%2C+identify+overdue+balances%2C+and+rank+the+five+customers+to+follow+up+with+first+by+amount+owed+and+days+overdue.>)
+
+  * ### Benchmark business performance
 
 Compare your profitability with similar businesses in your industry and region.
 
-## Sample prompts
+Intuit QuickBooks Compare my business's profitability with available benchmarks for similar businesses in my industry and region. Highlight the biggest gaps and explain which comparisons are most useful.
 
-Review quarterly profit and loss
+[(opens in a new window)](<https://chatgpt.com/?q=Intuit+QuickBooks+Compare+my+business%27s+profitability+with+available+benchmarks+for+similar+businesses+in+my+industry+and+region.+Highlight+the+biggest+gaps+and+explain+which+comparisons+are+most+useful.>)
 
-**@Intuit QuickBooks** Generate last month's profit and loss statement, compare it with the prior month, and explain the three largest drivers of the change in net profit.
 
-Compare profitability
 
-**@Intuit QuickBooks** Review my open invoices, identify overdue balances, and rank the five customers to follow up with first by amount owed and days overdue.
 
-Review receivables and payables
+## What’s included
 
-**@Intuit QuickBooks** Compare my business's profitability with available benchmarks for similar businesses in my industry and region. Highlight the biggest gaps and explain which comparisons are most useful.
+### App
+
+  * connector_697aea3231288191b28a0061066e51bd
+
+
+
+### Skills
+
+  * analyze-payroll-cost
+  * Business Health Check
+  * chase-overdue-invoices
+  * email-to-estimate-invoice
+  * Industry Benchmark
+  * lending
+  * payroll-employee-onboarding
+  * payroll-help
+  * 1 more
+
+
 
 ## Resources
 
-### [Help centerRead more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
+### [Help centerLearn more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
 
-### [Plugin supportRead more](<https://help.openai.com/en/articles/6614161-how-can-i-contact-support>)
+### [Plugin supportLearn more](<https://help.openai.com/en/articles/6614161-how-can-i-contact-support>)
 
-### [Privacy policyRead more](<https://www.intuit.com/privacy/statement/>)
+### [Privacy policyLearn more](<https://www.intuit.com/privacy/statement/>)
 
 ## Get started with plugins
 

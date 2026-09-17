@@ -30,7 +30,7 @@ Select language
 
 …
 
-Published: September 10, 2026
+Updated: September 16, 2026
 
 # Financial Services Terms
 
@@ -80,11 +80,17 @@ You may use that data for your internal business operations, including internal 
 You and your End Users may not:
 
   * Use PitchBook data to train, fine-tune, ground, or otherwise develop any model, algorithm, or model weights.
+
   * Reconstitute PitchBook data in whole or substantial part, or commercially offer reconstituted PitchBook data as a standalone data feed.
+
   * Download or export substantial portions of PitchBook data as raw data on a standalone basis.
+
   * Input PitchBook data into a customer relationship management application or other database.
+
   * Use PitchBook data as a factor in establishing an individual’s eligibility for employment, or for credit or insurance used primarily for personal, family, or household purposes.
+
   * Use PitchBook data to develop, improve, or provide a product or service that competes with PitchBook’s data products or services. This restriction does not prohibit internal business operations, including internal research and analysis, subject to the other restrictions above.
+
 
 
 
@@ -93,6 +99,8 @@ You and your End Users may not:
 Nasdaq Basic with NLS Plus data made available through Financial Services is delayed by at least 15 minutes.
 
 © 2026 Nasdaq, Inc. All Rights Reserved. The information, data, analysis and Information contained herein (i) include the proprietary information of Nasdaq, Inc., the applicable Nasdaq Market, and/or Nasdaq European Market; (ii) are subject to applicable [Nasdaq Requirements⁠(opens in a new window)](<https://data.nasdaq.com/agreements_forms_policies_usage_reporting>) located at: https://data.nasdaq.com/agreements_forms_policies_usage_reporting or successor link; (iii) may not be copied or further disseminated except as specifically authorized by Nasdaq; (iv) do not constitute investment advice; (v) are provided solely for informational purposes; and (vi) Nasdaq makes no warranties, including that the information is complete, accurate or timely. Nasdaq, the Nasdaq Markets and the Nasdaq European Markets bear no liability with respect to the data, analysis and Information.
+
+You may not use it with Open-Environment AI Models, as defined in the Nasdaq Artificial Intelligence Data AI Policy located at: https://data.nasdaq.com/agreements_forms_policies_usage_reporting,or for AI uses prohibited by law. Model training, third-party AI tools, and redistribution may require additional permissions or licenses; access through Financial Services does not provide those additional rights.
 
 ### LSEG / Reuters News
 
@@ -111,6 +119,14 @@ User acknowledges that access to certain elements of the Information Product may
 NEITHER REFINITIV NOR ITS THIRD-PARTY PROVIDERS WARRANT THAT THE PROVISION OF THE INFORMATION PRODUCT WILL BE UNINTERRUPTED, ERROR FREE, TIMELY, COMPLETE OR ACCURATE, NOR DO THEY MAKE ANY WARRANTIES AS TO THE RESULTS TO BE OBTAINED FROM USE OF THE SAME. USE OF THE INFORMATION PRODUCT AND RELIANCE THEREON IS AT USER’S SOLE RISK. NEITHER REFINITIV NOR ITS THIRD-PARTY PROVIDERS WILL IN ANY WAY BE LIABLE TO USER OR ANY OTHER ENTITY OR PERSON FOR THEIR INABILITY TO USE THE INFORMATION PRODUCT, OR FOR ANY INACCURACIES, ERRORS, OMISSIONS, DELAYS, COMPUTER VIRUS OR OTHER INFIRMITY OR CORRUPTION, DAMAGES, CLAIMS, LIABILITIES OR LOSSES, REGARDLESS OF CAUSE, IN OR ARISING FROM THE USE OF THE INFORMATION PRODUCT. THE INFORMATION PRODUCT IS PROVIDED ON AN “AS IS” BASIS AND WITHOUT WARRANTY OF ANY KIND. NO WARRANTIES EITHER EXPRESSED OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY IMPLIED WARRANTY OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, INFRINGEMENT OR OTHERWISE ARE PROVIDED HEREUNDER.
 
 IN NO EVENT WILL REFINITIV OR ITS THIRD-PARTY PROVIDERS BE LIABLE FOR ANY DAMAGES, INCLUDING WITHOUT LIMITATION DIRECT OR INDIRECT, SPECIAL, INCIDENTAL, OR CONSEQUENTIAL DAMAGES, LOSSES OR EXPENSES ARISING IN CONNECTION WITH THE INFORMATION PRODUCT EVEN IF REFINITIV OR ITS THIRD-PARTY PROVIDERS OR THEIR REPRESENTATIVES ARE ADVISED OF THE POSSIBILITY OF SUCH DAMAGES, LOSSES OR EXPENSES. FURTHER, REFINITIV OR ITS THIRD-PARTY PROVIDERS SHALL NOT BE LIABLE IN ANY MANNER FOR REDISTRIBUTOR’S PRODUCTS OR SERVICES.
+
+### Daloopa
+
+Daloopa’s select fundamentals data is provided by Daloopa, Inc. on a 24-hour delay. You may use it for internal business operations, including internal research and analysis, subject to the restrictions below.
+
+You and your End Users may not use Daloopa data to develop, improve, or provide any product or service that competes with Daloopa’s data products or services.
+
+You and your End Users may not use Daloopa data to pre-train machine-learning foundation models, fine-tune models, or otherwise develop artificial intelligence, large language, machine-based, or similar models or technology.
 
 Research
 

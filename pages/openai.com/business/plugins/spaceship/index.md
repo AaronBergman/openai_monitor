@@ -24,7 +24,9 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 [Contact sales](</contact-sales/>)Try OpenAI
 
-OpenAI[View all plugins](</business/plugins/>)
+OpenAI
+
+[Plugins](</business/plugins/>)
 
 ![](https://files.openai.com/content?id=file_00000000973c720c9d9b1fabee04c427&cdn=1&cp=pi&ma=31968000&ts=0&p=pi&cid=1&sig=c11b3c8f43500e73dd0db9849b6ea13396b3dfef8f719d0c68eba87508d51fb6&v=0)![](https://files.openai.com/content?id=file_00000000d72881f7b7d15cc4fb008b3e&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=358cbc93092922858a3ae7e058c6131029faf209cdb642542d00f385d412c04a&v=0)
 
@@ -34,51 +36,65 @@ Search domain availability.
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_692e119561848191979b13cc5c060389>)[Contact sales](</contact-sales/>)
 
+Category
+    [Engineering & IT](</business/plugins/?tab=plugins-engineering-it>)
+
+Developer
+    Spaceship, Inc
+
+Website
+    [(opens in a new window)](<https://www.spaceship.com>)
+
 [![](https://files.openai.com/content?id=file_00000000973c720c9d9b1fabee04c427&cdn=1&cp=pi&ma=31968000&ts=0&p=pi&cid=1&sig=c11b3c8f43500e73dd0db9849b6ea13396b3dfef8f719d0c68eba87508d51fb6&v=0)![](https://files.openai.com/content?id=file_00000000d72881f7b7d15cc4fb008b3e&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=358cbc93092922858a3ae7e058c6131029faf209cdb642542d00f385d412c04a&v=0)Spaceship Check next domains: mycompany.com, mysite.io, service.web, sales12345.com(opens in a new window)](<https://chatgpt.com/?prompt=%40Spaceship+Check+next+domains%3A+mycompany.com%2C+mysite.io%2C+service.web%2C+sales12345.com>)
-
-Use case: [Engineering & IT](</business/plugins/?tab=plugins-engineering-it>)
-
-Made by: Spaceship, Inc
-
-Website: [spaceship.com(opens in a new window)](<https://www.spaceship.com>)
 
 ## How it works
 
 Search and check domain name availability in ChatGPT with pricing information using Spaceship.
 
-### Search domain availability
+## Common use cases
+
+  * ### Search domain availability
 
 Search for domain names to see which options are available across supported domain endings.
 
-### View domain pricing
+Spaceship Check availability for these domains: [domains]. Return which are available and which are taken, grouped by the base name.
+
+[(opens in a new window)](<https://chatgpt.com/?q=Spaceship+Check+availability+for+these+domains%3A+%5Bdomains%5D.+Return+which+are+available+and+which+are+taken%2C+grouped+by+the+base+name.>)
+
+  * ### View domain pricing
 
 View pricing information for available domain names when checking availability.
 
-### Compare domain options
+Spaceship For the available domains from my last check, show the registration and renewal pricing. Flag the best-value options based on price and extension fit.
+
+[(opens in a new window)](<https://chatgpt.com/?q=Spaceship+For+the+available+domains+from+my+last+check%2C+show+the+registration+and+renewal+pricing.+Flag+the+best-value+options+based+on+price+and+extension+fit.>)
+
+  * ### Compare domain options
 
 Compare available domain names and pricing details to review options.
 
-## Sample prompts
+Spaceship Compare these domain options: [domains]. Summarize pros/cons for brandability, trust, and cost, and recommend the top 3 choices with rationale.
 
-Check domain availability quickly
+[(opens in a new window)](<https://chatgpt.com/?q=Spaceship+Compare+these+domain+options%3A+%5Bdomains%5D.+Summarize+pros%2Fcons+for+brandability%2C+trust%2C+and+cost%2C+and+recommend+the+top+3+choices+with+rationale.>)
 
-**@Spaceship** Check availability for these domains: [domains]. Return which are available and which are taken, grouped by the base name.
 
-Compare pricing for available domains
 
-**@Spaceship** For the available domains from my last check, show the registration and renewal pricing. Flag the best-value options based on price and extension fit.
 
-Recommend best domain options
+## What’s included
 
-**@Spaceship** Compare these domain options: [domains]. Summarize pros/cons for brandability, trust, and cost, and recommend the top 3 choices with rationale.
+### App
+
+  * ![](https://files.openai.com/content?id=file_00000000973c720c9d9b1fabee04c427&cdn=1&cp=pi&ma=31968000&ts=0&p=pi&cid=1&sig=c11b3c8f43500e73dd0db9849b6ea13396b3dfef8f719d0c68eba87508d51fb6&v=0)Spaceship
+
+
 
 ## Resources
 
-### [Help centerRead more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
+### [Help centerLearn more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
 
-### [Plugin supportRead more](<https://spaceship.com/help>)
+### [Plugin supportLearn more](<https://spaceship.com/help>)
 
-### [Privacy policyRead more](<https://spaceship.com/privacy>)
+### [Privacy policyLearn more](<https://spaceship.com/privacy>)
 
 ## Get started with plugins
 

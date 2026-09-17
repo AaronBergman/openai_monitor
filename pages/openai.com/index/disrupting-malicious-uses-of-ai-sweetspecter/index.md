@@ -28,6 +28,8 @@ OpenAI
 
 October 1, 2024
 
+[Safety](</news/safety-alignment/>)
+
 # SweetSpecter: China-linked cyber activity
 
 OpenAI banned accounts likely belonging to a suspected China-based adversary tracked as SweetSpecter, using AI to research vulnerabilities, write code, and support spear-phishing activity.
@@ -87,6 +89,13 @@ Throughout this investigation, our security teams leveraged ChatGPT to analyze, 
 
 In line with what we observed in our first threat report, the operators’ use of our models did not appear to provide them with novel capabilities or directions that they could not otherwise have obtained from multiple publicly available resources. Our security mechanisms blocked the malicious adversary emails before they reached employee inboxes.
 
+  * [China](</news/?tags=actor-origin-china>)
+  * [United States](</news/?tags=target-geography-united-states>)
+  * [Global](</news/?tags=target-geography-global-internet-users>)
+  * [Cyber operations](</news/?tags=cyber-operations>)
+
+
+
 ## Author
 
 OpenAI
@@ -101,6 +110,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)

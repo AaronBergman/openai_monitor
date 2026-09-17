@@ -24,7 +24,9 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 [Contact sales](</contact-sales/>)Try OpenAI
 
-OpenAI[View all plugins](</business/plugins/>)
+OpenAI
+
+[Plugins](</business/plugins/>)
 
 ![](https://files.openai.com/content?id=file_00000000a4d081f69b863a2b652771ae&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=db1eeefb41bcca456f2fbb97788d54c93f92e16d7add3e4d35bc5431aba60b0a&v=0)![](https://files.openai.com/content?id=file_00000000a4d081f69b863a2b652771ae&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=db1eeefb41bcca456f2fbb97788d54c93f92e16d7add3e4d35bc5431aba60b0a&v=0)
 
@@ -34,45 +36,65 @@ Experiment and product data
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a7c7752de408191a101b78e59fda025>)[Contact sales](</contact-sales/>)
 
+Category
+    [Data](</business/plugins/?tab=plugins-data-research>)
+
+Developer
+    Datadog Inc
+
+Website
+    [(opens in a new window)](<https://www.datadoghq.com/>)
+
 [![](https://files.openai.com/content?id=file_00000000c5ac81f7981f0ba2186edefd&cdn=1&cp=pi&ma=32227200&ts=0&p=pi&cid=8&sig=991736a5b60d6bebf175e891640894fc768995b940bf94d5cc3fa50044ebee56&v=0)Datadog Experiments Analyze how users move through my product and find the largest drop-off.(opens in a new window)](<https://chatgpt.com/?prompt=%40Datadog+Experiments+Analyze+how+users+move+through+my+product+and+find+the+largest+drop-off.>)[![](https://files.openai.com/content?id=file_00000000c5ac81f7981f0ba2186edefd&cdn=1&cp=pi&ma=32227200&ts=0&p=pi&cid=8&sig=991736a5b60d6bebf175e891640894fc768995b940bf94d5cc3fa50044ebee56&v=0)Datadog Experiments Check this experiment's validity and explain its result.(opens in a new window)](<https://chatgpt.com/?prompt=%40Datadog+Experiments+Check+this+experiment%27s+validity+and+explain+its+result.>)[![](https://files.openai.com/content?id=file_00000000c5ac81f7981f0ba2186edefd&cdn=1&cp=pi&ma=32227200&ts=0&p=pi&cid=8&sig=991736a5b60d6bebf175e891640894fc768995b940bf94d5cc3fa50044ebee56&v=0)Datadog Experiments Create or update a feature flag for a controlled rollout.(opens in a new window)](<https://chatgpt.com/?prompt=%40Datadog+Experiments+Create+or+update+a+feature+flag+for+a+controlled+rollout.>)
-
-Use case: [Data](</business/plugins/?tab=plugins-data-research>)
-
-Made by: Datadog Inc
-
-Website: [datadoghq.com(opens in a new window)](<https://www.datadoghq.com/>)
 
 ## How it works
 
 This plugin is the best way to agentically interact with Datadog Product Analytics, Feature Flagging, and Experimentation
 
-### Find funnel drop-offs
+## Common use cases
+
+  * ### Find funnel drop-offs
 
 Identify the largest funnel drop-off and prioritize a product improvement.
 
-### Evaluate experiment results
+Datadog Experiments Analyze the [funnel] over the last 30 days. Identify the largest drop-off, compare available user segments, and recommend a focused improvement with the supporting data.
+
+[(opens in a new window)](<https://chatgpt.com/?q=Datadog+Experiments+Analyze+the+%5Bfunnel%5D+over+the+last+30+days.+Identify+the+largest+drop-off%2C+compare+available+user+segments%2C+and+recommend+a+focused+improvement+with+the+supporting+data.>)
+
+  * ### Evaluate experiment results
 
 Assess an experiment result and explain whether the evidence supports a rollout.
 
-### Configure a controlled rollout
+Datadog Experiments Check [experiment] for validity, review its primary metric and guardrails, and explain the result. Recommend whether to ship, continue, or investigate, with uncertainties made explicit.
+
+[(opens in a new window)](<https://chatgpt.com/?q=Datadog+Experiments+Check+%5Bexperiment%5D+for+validity%2C+review+its+primary+metric+and+guardrails%2C+and+explain+the+result.+Recommend+whether+to+ship%2C+continue%2C+or+investigate%2C+with+uncertainties+made+explicit.>)
+
+  * ### Configure a controlled rollout
 
 Prepare a feature flag with defined targeting and traffic allocation.
 
-## Sample prompts
+Datadog Experiments Create or update [feature flag] in [environment] for [target users] at [percentage] traffic. Review the existing configuration first and summarize the targeting and rollout changes.
 
-**@Datadog Experiments** Analyze the [funnel] over the last 30 days. Identify the largest drop-off, compare available user segments, and recommend a focused improvement with the supporting data.
+[(opens in a new window)](<https://chatgpt.com/?q=Datadog+Experiments+Create+or+update+%5Bfeature+flag%5D+in+%5Benvironment%5D+for+%5Btarget+users%5D+at+%5Bpercentage%5D+traffic.+Review+the+existing+configuration+first+and+summarize+the+targeting+and+rollout+changes.>)
 
-**@Datadog Experiments** Check [experiment] for validity, review its primary metric and guardrails, and explain the result. Recommend whether to ship, continue, or investigate, with uncertainties made explicit.
 
-**@Datadog Experiments** Create or update [feature flag] in [environment] for [target users] at [percentage] traffic. Review the existing configuration first and summarize the targeting and rollout changes.
+
+
+## What’s included
+
+### App
+
+  * ![](https://files.openai.com/content?id=file_00000000a4d081f69b863a2b652771ae&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=db1eeefb41bcca456f2fbb97788d54c93f92e16d7add3e4d35bc5431aba60b0a&v=0)Datadog Experiments
+
+
 
 ## Resources
 
-### [Help centerRead more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
+### [Help centerLearn more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
 
-### [Plugin supportRead more](<https://www.datadoghq.com/support/>)
+### [Plugin supportLearn more](<https://www.datadoghq.com/support/>)
 
-### [Privacy policyRead more](<https://www.datadoghq.com/legal/privacy/>)
+### [Privacy policyLearn more](<https://www.datadoghq.com/legal/privacy/>)
 
 ## Get started with plugins
 

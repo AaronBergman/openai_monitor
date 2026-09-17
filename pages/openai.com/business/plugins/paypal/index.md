@@ -24,61 +24,77 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 [Contact sales](</contact-sales/>)Try OpenAI
 
-OpenAI[View all plugins](</business/plugins/>)
+OpenAI
 
-![](https://files.openai.com/content?id=file_000000003a5c71f6a38690212fd23eb9&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=1&sig=f598ba4f0a6b7869dc10b9be408361dbe2cd56ee224ede60b76ce3dd8a9868fd)![](https://files.openai.com/content?id=file_000000003a5c71f6a38690212fd23eb9&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=1&sig=f598ba4f0a6b7869dc10b9be408361dbe2cd56ee224ede60b76ce3dd8a9868fd)
+[Plugins](</business/plugins/>)
+
+![](https://files.openai.com/content?id=file_000000001f24820c8690d15377467396&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=8&sig=488863f4dc57b6c8bf9c24411bc4dee7c68f9fb3d834d3e153b8cc66c609e437&v=0)![](https://files.openai.com/content?id=file_000000001f24820c8690d15377467396&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=8&sig=488863f4dc57b6c8bf9c24411bc4dee7c68f9fb3d834d3e153b8cc66c609e437&v=0)
 
 # PayPal
 
 Payments and business tools
 
-[Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6969249b1a948191a1a1e32116504509>)[Contact sales](</contact-sales/>)
+[Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a9b5923744081919700d462374ad1b6>)[Contact sales](</contact-sales/>)
 
-[![](https://files.openai.com/content?id=file_000000003a5c71f6a38690212fd23eb9&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=1&sig=f598ba4f0a6b7869dc10b9be408361dbe2cd56ee224ede60b76ce3dd8a9868fd)![](https://files.openai.com/content?id=file_000000003a5c71f6a38690212fd23eb9&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=1&sig=f598ba4f0a6b7869dc10b9be408361dbe2cd56ee224ede60b76ce3dd8a9868fd)PayPal Create a $1500 PayPal invoice for Acme Corp for web development services.(opens in a new window)](<https://chatgpt.com/?prompt=%40PayPal+Create+a+%241500+PayPal+invoice+for+Acme+Corp+for+web+development+services.>)
+Category
+    [Finance](</business/plugins/?tab=plugins-finance>)
 
-Use case: [Finance](</business/plugins/?tab=plugins-finance>) and [Small Business](</business/plugins/?tab=plugins-small-business>)
+Developer
+    PayPal
 
-Made by: PayPal
+Website
+    [(opens in a new window)](<https://www.paypal.com>)
 
-Website: [paypal.com(opens in a new window)](<https://www.paypal.com>)
+[![](https://files.openai.com/content?id=file_000000001f24820c8690d15377467396&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=8&sig=488863f4dc57b6c8bf9c24411bc4dee7c68f9fb3d834d3e153b8cc66c609e437&v=0)![](https://files.openai.com/content?id=file_000000001f24820c8690d15377467396&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=8&sig=488863f4dc57b6c8bf9c24411bc4dee7c68f9fb3d834d3e153b8cc66c609e437&v=0)PayPal Create an invoice for $1500 to John Doe email:john@example.com for web design services(opens in a new window)](<https://chatgpt.com/?prompt=%40PayPal+Create+an+invoice+for+%241500+to+John+Doe+email%3Ajohn%40example.com+for+web+design+services>)[![](https://files.openai.com/content?id=file_000000001f24820c8690d15377467396&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=8&sig=488863f4dc57b6c8bf9c24411bc4dee7c68f9fb3d834d3e153b8cc66c609e437&v=0)![](https://files.openai.com/content?id=file_000000001f24820c8690d15377467396&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=8&sig=488863f4dc57b6c8bf9c24411bc4dee7c68f9fb3d834d3e153b8cc66c609e437&v=0)PayPal Create a payment link for a handmade ceramic mug priced at $35, with the description 'Hand-thrown ceramic mug, dishwasher safe.'(opens in a new window)](<https://chatgpt.com/?prompt=%40PayPal+Create+a+payment+link+for+a+handmade+ceramic+mug+priced+at+%2435%2C+with+the+description+%27Hand-thrown+ceramic+mug%2C+dishwasher+safe.%27>)[![](https://files.openai.com/content?id=file_000000001f24820c8690d15377467396&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=8&sig=488863f4dc57b6c8bf9c24411bc4dee7c68f9fb3d834d3e153b8cc66c609e437&v=0)![](https://files.openai.com/content?id=file_000000001f24820c8690d15377467396&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=8&sig=488863f4dc57b6c8bf9c24411bc4dee7c68f9fb3d834d3e153b8cc66c609e437&v=0)PayPal Summarize my PayPal activity last month: transactions, disputes, invoice status.(opens in a new window)](<https://chatgpt.com/?prompt=%40PayPal+Summarize+my+PayPal+activity+last+month%3A+transactions%2C+disputes%2C+invoice+status.>)
 
 ## How it works
 
 Manage your business and develop your payments integration.
 
-### Create a client invoice
+## Common use cases
 
-Prepare an invoice for a web development engagement.
+  * ### Create a client invoice
 
-### Prioritize unpaid invoices
+Create a $1,500 invoice for web design services using the client's billing details.
 
-Rank overdue invoices so you can focus your collection efforts.
+@PayPal Create an invoice for $1500 to John Doe email:john@example.com for web design services
 
-### Review open payment disputes
+[(opens in a new window)](<https://chatgpt.com/?q=%40PayPal+Create+an+invoice+for+%241500+to+John+Doe+email%3Ajohn%40example.com+for+web+design+services>)
 
-Turn your open disputes into a prioritized review list.
+  * ### Create a product payment link
 
-## Sample prompts
+Generate a payment link for a $35 handmade ceramic mug with its product description.
 
-Create an invoice
+@PayPal Create a payment link for a handmade ceramic mug priced at $35, with the description 'Hand-thrown ceramic mug, dishwasher safe.'
 
-**@PayPal** Create a $1500 PayPal invoice for Acme Corp for web development services.
+[(opens in a new window)](<https://chatgpt.com/?q=%40PayPal+Create+a+payment+link+for+a+handmade+ceramic+mug+priced+at+%2435%2C+with+the+description+%27Hand-thrown+ceramic+mug%2C+dishwasher+safe.%27>)
 
-Find unpaid invoices
+  * ### Review monthly payment activity
 
-**@PayPal** Review my unpaid invoices, identify which are overdue, and rank them by balance and days late. Summarize who needs a follow-up first.
+Summarize last month's transactions, disputes, and invoice status for a business review.
 
-Send a payment reminder
+@PayPal Summarize my PayPal activity last month: transactions, disputes, invoice status.
 
-**@PayPal** List my open payment disputes, summarize each claim and any available response deadline, and prioritize the cases that need review first.
+[(opens in a new window)](<https://chatgpt.com/?q=%40PayPal+Summarize+my+PayPal+activity+last+month%3A+transactions%2C+disputes%2C+invoice+status.>)
+
+
+
+
+## What’s included
+
+### App
+
+  * ![](https://files.openai.com/content?id=file_000000001f24820c8690d15377467396&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=8&sig=488863f4dc57b6c8bf9c24411bc4dee7c68f9fb3d834d3e153b8cc66c609e437&v=0)PayPal
+
+
 
 ## Resources
 
-### [Help centerRead more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
+### [Help centerLearn more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
 
-### [Plugin supportRead more](<https://www.paypal.com/us/cshelp/contact-us>)
+### [Plugin supportLearn more](<https://www.paypal.com/us/cshelp/contact-us>)
 
-### [Privacy policyRead more](<https://www.paypal.com/us/legalhub/paypal/privacy-full>)
+### [Privacy policyLearn more](<https://www.paypal.com/us/legalhub/paypal/privacy-full>)
 
 ## Get started with plugins
 

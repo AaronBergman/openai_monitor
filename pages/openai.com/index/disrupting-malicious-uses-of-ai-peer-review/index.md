@@ -28,6 +28,8 @@ OpenAI
 
 February 1, 2025
 
+[Safety](</news/safety-alignment/>)
+
 # Operation “Peer Review”: AI-assisted surveillance planning
 
 OpenAI banned likely China-origin accounts using AI to draft surveillance-tool pitches, analyze documents, and debug code.
@@ -72,6 +74,15 @@ Very little of this operation’s activity appeared to be designed for publicati
 
 Assessing the impact of this activity would require inputs from multiple stakeholders, including operators of any open-source models who can shed a light on this activity.
 
+  * [China](</news/?tags=actor-origin-china>)
+  * [United States](</news/?tags=target-geography-united-states>)
+  * [Australia](</news/?tags=target-geography-australia>)
+  * [Cambodia](</news/?tags=actor-origin-cambodia>)
+  * [ Europe](</news/?tags=target-geography-europe>)
+  * [Surveillance & intelligence collection](</news/?tags=activity-type-surveillance-coercion>)
+
+
+
 ## Author
 
 OpenAI
@@ -86,6 +97,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)

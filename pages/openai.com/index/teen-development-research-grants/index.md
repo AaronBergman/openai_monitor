@@ -73,10 +73,15 @@ We want to build a stronger evidence base about the way teens use AI, as well as
 We welcome proposals that can deepen understanding and generate evidence relevant to current and emerging discourse, including:
 
   * How teens use generative AI and how different patterns of use relate to developmental outcomes
+
   * Potential impacts of AI use in teens’ lives
+
   * The individual, social, cultural, and technical factors that shape the effects of AI in teens’ lives
+
   * Technical interventions, safeguards, and design choices that can increase benefits or keep teens safer
+
   * How effects may differ across ages, developmental stages, populations, cultures, languages, and socioeconomic contexts
+
 
 
 
@@ -89,9 +94,13 @@ Qualitative, quantitative, experimental, observational, theoretical, participato
 We encourage submissions that relate to one or more of the following topics: 
 
   * **Emotional development and well-being:** Research on emotion regulation, resilience, identity, agency, self-esteem, and social connection.
+
   * **Social development and relationships:** Research on friendships, family relationships, belonging, communication, empathy, social skills, and the relationship between AI and human connection.
+
   * **Patterns, contexts, and variance across demographics:** Research on how outcomes vary by time spent, type and purpose of use, age, culture, language, socioeconomic circumstances, and other individual or contextual factors.
+
   * **Mitigations, age-appropriate design, and policy approaches:** Research evaluating safeguards, product interventions, AI literacy, parental or educator support, and healthy-use practices.
+
 
 
 
@@ -102,12 +111,19 @@ Research involving minors requires particular attention to informed consent and 
 Applicants proposing research involving minors must explain:
 
   * The relevant institutional or independent ethics-review process
+
   * How informed consent and age-appropriate assent will be handled
+
   * How participants’ privacy and data will be protected
+
   * How researchers will respond to disclosures of harm or imminent risk
+
   * Whether the project involves sensitive personal, behavioral, or mental-health information
+
   * What relevant child-development, clinical, or safeguarding expertise the research team possesses
+
   * Parental consent, where appropriate
+
 
 
 
@@ -118,20 +134,35 @@ Collecting sensitive information does not automatically make a project ineligibl
 Applications should be formatted as a single-spaced Google doc. Applicants should submit:
 
   * **Project summary:** A brief overview of the proposed research and its expected contribution, less than one page.
+
   * **Research proposal:** No more than three pages, excluding references, addressing:
+
     * Research questions
+
     * Relevant prior research
+
     * Proposed methods and analysis
+
     * Study population and recruitment strategy, including evidence of feasibility or access
+
     * Expected outputs
+
     * Potential limitations
+
     * Relevance to the program’s goals
+
   * **Project plan and timeline:** Key activities, milestones, and expected completion date.
+
   * **Budget and budget justification:** Requested funding, major cost categories, and any other committed sources of support.
+
   * **Project dependencies:** An explanation of requirements that must be met for the research to be carried out and risks that might endanger the project’s fruition. 
+
   * **Ethics and safeguarding statement:** Required for any research involving minors, sensitive information, or potentially vulnerable populations. Where relevant, proposals should explicitly reference any regulation governing research with teens and compliance strategy.
+
   * **Team information:** Short CVs or bios for the principal investigator and key team members.
+
   * **Independence and conflicts disclosure:** Relevant financial relationships, industry funding, or other potential conflicts of interest.
+
 
 
 
@@ -142,15 +173,25 @@ Applications must be submitted in English. Research itself may be conducted in a
 Proposals will be evaluated based on:
 
   * Scientific rigor: The strength and appropriateness of the research design and analysis
+
   * Relevance: Examination of a topic relevant to current public discourse on AI
+
   * Proposal quality: The clarity, focus, and coherence of the application
+
   * Actionability: The potential to translate findings into guidance for models, products, safeguards, regulatory approaches, or future research
+
   * Ethics and safeguarding: The adequacy of protections for minors and other participants
+
   * Feasibility: Whether the project can be completed with the proposed resources and timeline
+
   * Team expertise: The team’s ability to conduct the proposed work responsibly
+
   * Inclusion and generalizability: Attention to diverse populations, contexts, cultures, and experiences
+
   * Complementarity: The extent to which the work adds to existing evidence and complements OpenAI’s internal research agenda
+
   * Independence and credibility: The project’s ability to produce trustworthy findings regardless of whether those findings are favorable to providers of AI products
+
 
 
 
@@ -169,9 +210,13 @@ Submissions are open today through October 6, 2026. A panel of internal experts 
 A: Every funded project will be expected to provide OpenAI with a final report describing:
 
   * The research question and methods
+
   * Results and supporting evidence
+
   * Limitations and sources of uncertainty
+
   * Recommendations for policymakers, regulators, technology providers, or other stakeholders, where supported by the findings
+
 
 
 
@@ -184,7 +229,9 @@ We are prioritizing research that can advance public dialogue on these critical 
 A: To be eligible, applicants must be:
 
   * 18 or older 
+
   * Affiliated with a research institution or organization, and/or significant experience relevant to child or adolescent development, well-being, human-computer interaction, AI impacts, or a closely related field
+
 
 
 
@@ -223,6 +270,10 @@ OpenAI
 
 [View all](</news/>)
 
+![Our framework for reporting model misalignment — card image](https://images.ctfassets.net/kftzwdyauwt9/3mJz9GkBOjZvAMYPx8M1dj/2a9ac4b7e18b1c08feef5368c4fde2e2/model-misalignment-reporting-framework--cover-v002.png?w=3840&q=90&fm=webp)
+
+[Our framework for reporting model misalignmentResearchSep 16, 2026](</index/model-misalignment-reporting-framework/>)
+
 ![An alien mind > Listing card](https://images.ctfassets.net/kftzwdyauwt9/7ut3G8rKt5ia4P3yRqi2qN/6ffb429f70548a881eb46a4e7e61498e/Option_120___1080_1080.png?w=3840&q=90&fm=webp)
 
 [An Alien MindSafetySep 6, 2026](</index/an-alien-mind/>)
@@ -230,10 +281,6 @@ OpenAI
 ![Research acceleration: The view inside OpenAI > Cover image](https://images.ctfassets.net/kftzwdyauwt9/5kS3OG1Jfdja5xLmYcRwgr/f53b9dfe985df5969aff5dc41f2d1934/Art_Card__7_.png?w=3840&q=90&fm=webp)
 
 [Research acceleration: The view inside OpenAIResearchSep 6, 2026](</index/research-acceleration-view-inside-openai/>)
-
-![Safety overview: GPT-6 Astra](https://images.ctfassets.net/kftzwdyauwt9/4vjHRXipk1bBYL1d5Jz11j/d2dbb46d66b1035b7f5f320e818e1608/gpt-6-astra-safety-overview-cover.png?w=3840&q=90&fm=webp)
-
-[Safety overview: GPT-6 AstraSafetySep 3, 2026](</index/safety-overview-gpt-6-astra/>)
 
 Research
 

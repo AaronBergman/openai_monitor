@@ -24,7 +24,9 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 [Contact sales](</contact-sales/>)Try OpenAI
 
-OpenAI[View all plugins](</business/plugins/>)
+OpenAI
+
+[Plugins](</business/plugins/>)
 
 ![](https://files.openai.com/content?id=file_00000000586c720ca16749edcfc2d0bb&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=1&sig=21aa84db12572cc51ca8196a442350fc0e60cfbf938e0c7b1405f3530d8700d2&v=0)![](https://files.openai.com/content?id=file_00000000e6a481f79673b2cee81b72b3&cdn=1&cp=pi&ma=30499200&ts=0&p=pi&cid=8&sig=494c8d6830248b749516d8f6b2e3966301fc75169465bac49c061193105eaccd&v=0)
 
@@ -34,51 +36,82 @@ Build and deploy sites on Netlify.
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_691f1f8f72408191afdbbdf8242bdf86>)[Contact sales](</contact-sales/>)
 
+Capabilities
+    Interactive, Write
+
+Category
+    [Engineering & IT](</business/plugins/?tab=plugins-engineering-it>)
+
+Developer
+    Netlify
+
+Website
+    [(opens in a new window)](<https://www.netlify.com>)
+
 [![](https://files.openai.com/content?id=file_00000000075071f597aa27ecc6b886dc&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=1&sig=042cb4d8093f65e8071678d14c61675a616ca92949d66f3cd18171dcd8b279da&v=0)Netlify Deploy this project to Netlify and return the preview URL plus any required fixes(opens in a new window)](<https://chatgpt.com/?prompt=%40Netlify+Deploy+this+project+to+Netlify+and+return+the+preview+URL+plus+any+required+fixes>)
-
-Use case: [Engineering & IT](</business/plugins/?tab=plugins-engineering-it>)
-
-Made by: Netlify
-
-Website: [netlify.com(opens in a new window)](<https://www.netlify.com>)
 
 ## How it works
 
 Build, deploy, and manage Netlify web projects in ChatGPT using natural language to handle deployments, configuration, and access controls.
 
-### Support site setup and launches
+## Common use cases
+
+  * ### Support site setup and launches
 
 Create projects from repositories, set configurations, and trigger initial deploys using natural language commands.
 
-### Manage deployment configuration
+Netlify Create a new site from my GitHub repo and walk me through the required build settings and enironment variables.
+
+[(opens in a new window)](<https://chatgpt.com/?q=Netlify+Create+a+new+site+from+my+GitHub+repo+and+walk+me+through+the+required+build+settings+and+enironment+variables.>)
+
+  * ### Manage deployment configuration
 
 Manage environment variables, access controls, and extensions through ChatGPT to update site configuration.
 
-### Scale ongoing site operations
+Netlify List all environment variables for [site] and flag anything that looks unsafe or inconsistent across environments.
+
+[(opens in a new window)](<https://chatgpt.com/?q=Netlify+List+all+environment+variables+for+%5Bsite%5D+and+flag+anything+that+looks+unsafe+or+inconsistent+across+environments.>)
+
+  * ### Scale ongoing site operations
 
 Trigger redeploys and manage site updates through ChatGPT to support ongoing project maintenance.
 
-## Sample prompts
+Netlify Show me all sites under my team with their deploy status and last publish time and highlight anything stale.
 
-Create environment variables with key details
+[(opens in a new window)](<https://chatgpt.com/?q=Netlify+Show+me+all+sites+under+my+team+with+their+deploy+status+and+last+publish+time+and+highlight+anything+stale.>)
 
-**@Netlify** Create a new site from my GitHub repo and walk me through the required build settings and enironment variables.
 
-Review environment variables and flag risks
 
-**@Netlify** List all environment variables for [site] and flag anything that looks unsafe or inconsistent across environments.
 
-Summarize required updates
+## What’s included
 
-**@Netlify** Show me all sites under my team with their deploy status and last publish time and highlight anything stale.
+### App
+
+  * ![](https://files.openai.com/content?id=file_00000000586c720ca16749edcfc2d0bb&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=1&sig=21aa84db12572cc51ca8196a442350fc0e60cfbf938e0c7b1405f3530d8700d2&v=0)Netlify
+
+
+
+### Skills
+
+  * ![](https://files.openai.com/content?id=file_00000000075071f597aa27ecc6b886dc&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=1&sig=042cb4d8093f65e8071678d14c61675a616ca92949d66f3cd18171dcd8b279da&v=0)AI Gateway
+  * ![](https://files.openai.com/content?id=file_00000000075071f597aa27ecc6b886dc&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=1&sig=042cb4d8093f65e8071678d14c61675a616ca92949d66f3cd18171dcd8b279da&v=0)Blobs
+  * ![](https://files.openai.com/content?id=file_00000000075071f597aa27ecc6b886dc&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=1&sig=042cb4d8093f65e8071678d14c61675a616ca92949d66f3cd18171dcd8b279da&v=0)Caching
+  * ![](https://files.openai.com/content?id=file_00000000075071f597aa27ecc6b886dc&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=1&sig=042cb4d8093f65e8071678d14c61675a616ca92949d66f3cd18171dcd8b279da&v=0)CLI & Deploy
+  * ![](https://files.openai.com/content?id=file_00000000075071f597aa27ecc6b886dc&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=1&sig=042cb4d8093f65e8071678d14c61675a616ca92949d66f3cd18171dcd8b279da&v=0)Config
+  * ![](https://files.openai.com/content?id=file_00000000075071f597aa27ecc6b886dc&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=1&sig=042cb4d8093f65e8071678d14c61675a616ca92949d66f3cd18171dcd8b279da&v=0)Deploy
+  * ![](https://files.openai.com/content?id=file_00000000075071f597aa27ecc6b886dc&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=1&sig=042cb4d8093f65e8071678d14c61675a616ca92949d66f3cd18171dcd8b279da&v=0)Edge Functions
+  * ![](https://files.openai.com/content?id=file_00000000075071f597aa27ecc6b886dc&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=1&sig=042cb4d8093f65e8071678d14c61675a616ca92949d66f3cd18171dcd8b279da&v=0)Forms
+  * 4 more
+
+
 
 ## Resources
 
-### [Help centerRead more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
+### [Help centerLearn more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
 
-### [Plugin supportRead more](<https://www.netlify.com/support/>)
+### [Plugin supportLearn more](<https://www.netlify.com/support/>)
 
-### [Privacy policyRead more](<https://www.netlify.com/privacy/>)
+### [Privacy policyLearn more](<https://www.netlify.com/privacy/>)
 
 ## Get started with plugins
 

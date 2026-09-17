@@ -24,7 +24,9 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 [Contact sales](</contact-sales/>)Try OpenAI
 
-OpenAI[View all plugins](</business/plugins/>)
+OpenAI
+
+[Plugins](</business/plugins/>)
 
 ![](https://files.openai.com/content?id=file_000000006e70720e8240729562593f87&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=881a44cfa311712291121e9cda4ef4b8d7fef216108a65296a5898c02d91507e&v=0)![](https://files.openai.com/content?id=file_00000000042c720882209039c0de8dbb&cdn=1&cp=pi&ma=31881600&ts=0&p=pi&cid=8&sig=6488ddb504fdc95531899e70229555079be3267f213ba9f836a0a92bc39864a8&v=0)
 
@@ -34,51 +36,65 @@ Manage contracts from ChatGPT
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69fcc3b7582c81918df4ffae40cb7204>)[Contact sales](</contact-sales/>)
 
+Category
+    [Productivity](</business/plugins/?tab=plugins-productivity>)
+
+Developer
+    Docusign
+
+Website
+    [(opens in a new window)](<https://www.docusign.com>)
+
 [![](https://files.openai.com/content?id=file_000000008040722fab99266f6882677e&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=1&sig=e9c7383fbf48de80909d4b19edde78ac17d8be6ad57de4a34fabf349c190da92&v=0)Docusign Find DocuSign envelopes waiting on me and summarize what needs action.(opens in a new window)](<https://chatgpt.com/?prompt=%40Docusign+Find+DocuSign+envelopes+waiting+on+me+and+summarize+what+needs+action.>)[![](https://files.openai.com/content?id=file_000000008040722fab99266f6882677e&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=1&sig=e9c7383fbf48de80909d4b19edde78ac17d8be6ad57de4a34fabf349c190da92&v=0)Docusign Search for agreements with a customer and pull signing status, recipients, and key dates.(opens in a new window)](<https://chatgpt.com/?prompt=%40Docusign+Search+for+agreements+with+a+customer+and+pull+signing+status%2C+recipients%2C+and+key+dates.>)[![](https://files.openai.com/content?id=file_000000008040722fab99266f6882677e&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=1&sig=e9c7383fbf48de80909d4b19edde78ac17d8be6ad57de4a34fabf349c190da92&v=0)Docusign Review recently completed envelopes and extract renewal or obligation dates.(opens in a new window)](<https://chatgpt.com/?prompt=%40Docusign+Review+recently+completed+envelopes+and+extract+renewal+or+obligation+dates.>)
-
-Use case: [Productivity](</business/plugins/?tab=plugins-productivity>) and [Small Business](</business/plugins/?tab=plugins-small-business>)
-
-Made by: Docusign
-
-Website: [docusign.com(opens in a new window)](<https://www.docusign.com>)
 
 ## How it works
 
 Simplify contract management with intelligent automation powered by Docusign. Go beyond simple execution to make complex agreement workflows effortless. Use natural language to create and send a contract, instantly surface insights like renewal dates and key obligations, and automate workflows that keep your business moving faster and with less friction.
 
-### Review pending signatures
+## Common use cases
+
+  * ### Review pending signatures
 
 Find agreements waiting for your action and understand what needs attention.
 
-### Check customer agreements
+Docusign Find DocuSign envelopes waiting on me and summarize what needs action.
+
+[(opens in a new window)](<https://chatgpt.com/?q=Docusign+Find+DocuSign+envelopes+waiting+on+me+and+summarize+what+needs+action.>)
+
+  * ### Check customer agreements
 
 Get a customer agreement summary with signing progress, recipients, and key dates.
 
-### Surface agreement deadlines
+Docusign Search for agreements with a customer and pull signing status, recipients, and key dates.
+
+[(opens in a new window)](<https://chatgpt.com/?q=Docusign+Search+for+agreements+with+a+customer+and+pull+signing+status%2C+recipients%2C+and+key+dates.>)
+
+  * ### Surface agreement deadlines
 
 Extract renewal and obligation dates from recently completed agreements.
 
-## Sample prompts
+Docusign Review recently completed envelopes and extract renewal or obligation dates.
 
-Find agreements needing action
+[(opens in a new window)](<https://chatgpt.com/?q=Docusign+Review+recently+completed+envelopes+and+extract+renewal+or+obligation+dates.>)
 
-**@Docusign** Find DocuSign envelopes waiting on me and summarize what needs action.
 
-Review customer agreements
 
-**@Docusign** Search for agreements with a customer and pull signing status, recipients, and key dates.
 
-Review renewals and obligations
+## What’s included
 
-**@Docusign** Review recently completed envelopes and extract renewal or obligation dates.
+### App
+
+  * ![](https://files.openai.com/content?id=file_000000006e70720e8240729562593f87&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=881a44cfa311712291121e9cda4ef4b8d7fef216108a65296a5898c02d91507e&v=0)Docusign
+
+
 
 ## Resources
 
-### [Help centerRead more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
+### [Help centerLearn more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
 
-### [Plugin supportRead more](<https://support.docusign.com/>)
+### [Plugin supportLearn more](<https://support.docusign.com/>)
 
-### [Privacy policyRead more](<https://www.docusign.com/privacy>)
+### [Privacy policyLearn more](<https://www.docusign.com/privacy>)
 
 ## Get started with plugins
 

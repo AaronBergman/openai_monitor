@@ -85,13 +85,21 @@ Prism builds on the foundation of Crixet, a cloud-based LaTeX platform that Open
 With Prism, researchers can:
 
   * **Chat with GPT‑5.2 Thinking** , to explore ideas, test hypotheses, and reason through complex scientific problems in context
+
   * **Draft and revise papers with the full document as context** , including surrounding text, equations, citations, figures, and overall structure
+
   * **Search for and incorporate relevant literature** (for example, from arXiv) in the context of the current manuscript, and revise text in light of newly identified related work
+
   * **Create, refactor, and reason over equations, citations, and figures** , with AI that understands how those elements relate across the paper
+
   * **Turn whiteboard equations or diagrams directly into LaTeX** , saving hours of time manipulating graphics pixel-by-pixel
+
   * **Collaborate with co-authors, students, and advisors in real time** , with edits, comments, and revisions reflected immediately
+
   * **Make direct, in-place changes to the document** when requested, without copying content between separate editors or chat tools
+
   * **Use optional voice-based editing** to make simple changes without interrupting writing or review
+
 
 
 

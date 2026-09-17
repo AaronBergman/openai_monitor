@@ -89,10 +89,15 @@ Our local team will help Brazilian organizations identify valuable use cases, pr
 Through these new collaborations, we are deepening our commitment to Brazil, actively supporting professionals, companies, researchers, academia, and the government as they shape a vibrant, AI-powered future for the country. Here are a few examples of this work in action:
 
   * **Expanding access at ITA:** We are partnering with the Instituto Tecnológico de Aeronáutica to provide ChatGPT Edu accounts for students, faculty, and staff, together with credits for advanced capabilities including reasoning models and Codex.
+
   * **Supporting Brazilian research:** Through our [_global grants program_ ⁠](<https://openai.com/index/new-policy-ideas-for-the-intelligence-age/>), the Instituto de Matemática Pura e Aplicada (IMPA) will study what research institutions need to translate AI access into scientific progress. The Hospital das Clínicas da Faculdade de Medicina da Universidade de São Paulo (HCFMUSP) will evaluate a people-first clinical information infrastructure prototype for Brazil’s public health system, preserving physician judgment and human oversight.
+
   * **Building responsible AI literacy:** OpenAI and ENTER, a Brazilian AI unicorn in the legal sector, are developing a national AI literacy program for legal professionals across Brazil. The training will combine the use of ChatGPT with training to help participants use AI critically, safely and effectively.
+
   * **Supporting small businesses:** Together with Estímulo, we are developing free, mobile-first AI training for micro and small-business owners across Brazil. The program will cover practical applications in marketing, sales, customer service, finance, productivity, and management.
+
   * **Exploring better public services:** OpenAI and the city of São Paulo, through Prodam, signed a memorandum of understanding to make AI available to São Paulo and more public administrations across Brazil.
+
 
 
 

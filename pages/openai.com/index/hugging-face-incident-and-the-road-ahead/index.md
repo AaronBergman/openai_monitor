@@ -457,8 +457,11 @@ As discussed in our [report⁠(opens in a new window)](<https://cdn.openai.com/p
 We have implemented stronger security requirements for frontier research workloads. For example:
 
   * **Workload isolation** : We are implementing more isolated sandboxes for workloads that execute model-generated or otherwise untrusted code, including software that could be compromised while processing model outputs.
+
   * **Network isolation** : We have built more controls to isolate higher-risk and untrusted workloads from the internet. These controls are built to ensure that a single compromise of a workload or supporting service does not, by itself, allow for unauthorized access to the internet or other internal networks.
+
   * **Continuous security testing** : We are improving our ability to collect and monitor security logs and investing in automation using our models to test workload and network isolation boundaries continuously against simulated attacks.
+
 
 
 
@@ -471,8 +474,11 @@ Some research workloads are slowly resuming under these new controls, while othe
 We have also accelerated our existing work on alignment training throughout the model development pipeline. The Hugging Face incident has sharpened our focus on the specific behaviors that contributed to it, including:
 
   * **Cheating, broken environments, and safe stopping.** When a task is corrupted, broken, or impossible, agents should request clarification or stop safely, rather than pursue increasingly questionable alternatives. We are expanding the coverage of graders that assess not only whether a task was completed, but how. These graders reward models for correctly identifying broken tasks, requesting clarification, or stopping safely when necessary.
+
   * **Multi-agent alignment.** The incident revealed that our agents are not thoroughly discerning about whom they collaborate with. We are actively building RL environments that teach our models to distrust unauthorized instructions.
+
   * **Alignment over long tasks.** We are developing new training environments to teach our models to stay within their original task and permissions, even after discovering new tools, persuasive peers, exposed credentials, and more.
+
 
 
 

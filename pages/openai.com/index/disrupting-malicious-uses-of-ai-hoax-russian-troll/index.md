@@ -28,6 +28,8 @@ OpenAI
 
 October 1, 2024
 
+[Safety](</news/safety-alignment/>)
+
 # Hoax: Fake Russian “troll” error message
 
 OpenAI banned an account that likely originated in the US and used AI to create a fake ChatGPT error message claiming to detect “Russian troll” activity.
@@ -60,6 +62,12 @@ Concerning the content that was actually generated using our models, the actor b
 
 This was an unusual situation, and the reverse of the other cases discussed in this report. Rather than our models being used in an attempt to deceive people, likely non-AI activity was used to deceive people about the use of our models. The original tweet, as shown by one screenshot, achieved five reposts, 14 quotes, and three likes. Tweets about the tweet achieved at least a thousand times more spread—and were then further amplified on other social media platforms, and led to mainstream media inquiries. This would place the hoax at the upper end of Category 3 on the Breakout Scale, close to breaking out to Category 4 if mainstream media had amplified it. This is an object lesson in how quickly social media can amplify an appealing hoax, but it also shows how the mystique once possessed by Russian influence operations has been replaced by a far more skeptical view of their capabilities. One reason the hoax attracted an audience appears to have been that it appealed to a belief that Russian trolls are not only human, but sometimes laughably inept.
 
+  * [United States](</news/?tags=target-geography-united-states>)
+  * [United States](</news/?tags=actor-origin-united-states>)
+  * [Spam & platform manipulation](</news/?tags=spam-and-platform-manipulation>)
+
+
+
 ## Author
 
 OpenAI
@@ -74,6 +82,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)

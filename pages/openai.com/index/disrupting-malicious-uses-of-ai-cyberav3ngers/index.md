@@ -28,6 +28,8 @@ OpenAI
 
 October 1, 2024
 
+[Safety](</news/safety-alignment/>)
+
 # CyberAv3ngers: Iran-linked cyber research activity
 
 OpenAI banned accounts that appeared to belong to CyberAv3ngers using AI to research industrial control systems, default credentials, and targets.
@@ -80,6 +82,14 @@ Asking how to access user passwords in MacOS.| LLM-assisted post compromise acti
 
 In line with our findings from other investigations into state-sponsored threat actors using our models, we believe that these interactions did not provide CyberAv3ngers with any novel capability, resource, or information, and only offered limited, incremental capabilities that are already achievable with publicly available, non-AI powered tools.
 
+  * [Iran](</news/?tags=actor-origin-iran>)
+  * [Israel](</news/?tags=target-geography-israel>)
+  * [United States](</news/?tags=target-geography-united-states>)
+  * [Ireland](</news/?tags=target-geography-ireland>)
+  * [Cyber operations](</news/?tags=cyber-operations>)
+
+
+
 ## Author
 
 OpenAI
@@ -94,6 +104,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)

@@ -24,7 +24,9 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 [Contact sales](</contact-sales/>)Try OpenAI
 
-OpenAI[View all plugins](</business/plugins/>)
+OpenAI
+
+[Plugins](</business/plugins/>)
 
 ![](https://files.openai.com/content?id=file_000000006128824382b4c3ad66a596e3&cdn=1&cp=pi&ma=30326400&ts=0&p=pi&cid=8&sig=50bd4935c54840b2d48e9475f13d1d5f0b871988437c32444a362dc2bd9ea30a&v=0)![](https://files.openai.com/content?id=file_000000004b048243ba04d6743eb002c5&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=dc1a9d37ffc984e3cc3abfd0db6c6e0d81e9e47abfd5a77b422b0d4fc1cfdacd&v=0)
 
@@ -34,43 +36,74 @@ Connect to MongoDB Atlas
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a5fa5e2392c8191824fb0340191afba>)[Contact sales](</contact-sales/>)
 
-Use case: [Engineering & IT](</business/plugins/?tab=plugins-engineering-it>) and [Data](</business/plugins/?tab=plugins-data-research>)
+Category
+    [Engineering & IT](</business/plugins/?tab=plugins-engineering-it>)
 
-Made by: MongoDB
+Developer
+    MongoDB
 
-Website: [mongodb.com(opens in a new window)](<https://mongodb.com>)
+Website
+    [(opens in a new window)](<https://mongodb.com>)
 
 ## How it works
 
 Manage MongoDB Atlas and query your data. Connect to any MongoDB cluster or Atlas project to run queries and aggregations, inspect schemas and indexes, and read/write documents. Key features: * Query and manage data - Run finds, aggregations, and counts; insert, update, or delete documents; create collections and indexes. * Manage Atlas infrastructure - Create and upgrade clusters, manage database users and IP access lists, and inspect cluster metadata across your projects and organizations. * Optimize performance - Get index suggestions, schema recommendations, and slow query analysis from the Atlas Performance Advisor. * Build streaming pipelines - Create, monitor, and manage Atlas Stream Processing workspaces, connections, and processors. * Search MongoDB knowledge - Query official MongoDB documentation and expert guidance directly from the assistant knowledge base.
 
-### Analyze order trends
+## Common use cases
+
+  * ### Analyze order trends
 
 Aggregate order data to explain which products contributed most to changes in monthly sales.
 
-### Audit customer data quality
+MongoDB Inspect our orders schema, then aggregate sales by month and product for the last six months. Identify the largest changes, show the aggregation pipeline, and summarize any data gaps affecting the analysis.
+
+[(opens in a new window)](<https://chatgpt.com/?q=MongoDB+Inspect+our+orders+schema%2C+then+aggregate+sales+by+month+and+product+for+the+last+six+months.+Identify+the+largest+changes%2C+show+the+aggregation+pipeline%2C+and+summarize+any+data+gaps+affecting+the+analysis.>)
+
+  * ### Audit customer data quality
 
 Find missing or inconsistent customer fields and prioritize cleanup work.
 
-### Prioritize query improvements
+MongoDB Inspect the customers collection for missing identifiers, duplicate email addresses, and inconsistent field types. Quantify each issue and propose a prioritized cleanup plan without changing documents.
+
+[(opens in a new window)](<https://chatgpt.com/?q=MongoDB+Inspect+the+customers+collection+for+missing+identifiers%2C+duplicate+email+addresses%2C+and+inconsistent+field+types.+Quantify+each+issue+and+propose+a+prioritized+cleanup+plan+without+changing+documents.>)
+
+  * ### Prioritize query improvements
 
 Review slow-query evidence and index recommendations to focus database performance work.
 
-## Sample prompts
+MongoDB Review Performance Advisor recommendations and slow query logs for my Atlas cluster. Compare suggested indexes with existing ones, prioritize the highest-impact candidates, and explain the evidence and tradeoffs.
 
-**@MongoDB** Inspect our orders schema, then aggregate sales by month and product for the last six months. Identify the largest changes, show the aggregation pipeline, and summarize any data gaps affecting the analysis.
+[(opens in a new window)](<https://chatgpt.com/?q=MongoDB+Review+Performance+Advisor+recommendations+and+slow+query+logs+for+my+Atlas+cluster.+Compare+suggested+indexes+with+existing+ones%2C+prioritize+the+highest-impact+candidates%2C+and+explain+the+evidence+and+tradeoffs.>)
 
-**@MongoDB** Inspect the customers collection for missing identifiers, duplicate email addresses, and inconsistent field types. Quantify each issue and propose a prioritized cleanup plan without changing documents.
 
-**@MongoDB** Review Performance Advisor recommendations and slow query logs for my Atlas cluster. Compare suggested indexes with existing ones, prioritize the highest-impact candidates, and explain the evidence and tradeoffs.
+
+
+## What’s included
+
+### App
+
+  * ![](https://files.openai.com/content?id=file_000000006128824382b4c3ad66a596e3&cdn=1&cp=pi&ma=30326400&ts=0&p=pi&cid=8&sig=50bd4935c54840b2d48e9475f13d1d5f0b871988437c32444a362dc2bd9ea30a&v=0)MongoDB Atlas
+
+
+
+### Skills
+
+  * mongodb-atlas-stream-processing
+  * mongodb-connection
+  * mongodb-natural-language-querying
+  * mongodb-query-optimizer
+  * mongodb-schema-design
+  * mongodb-search-and-ai
+
+
 
 ## Resources
 
-### [Help centerRead more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
+### [Help centerLearn more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
 
-### [Plugin supportRead more](<https://support.mongodb.com/>)
+### [Plugin supportLearn more](<https://support.mongodb.com/>)
 
-### [Privacy policyRead more](<https://www.mongodb.com/legal/privacy/privacy-policy>)
+### [Privacy policyLearn more](<https://www.mongodb.com/legal/privacy/privacy-policy>)
 
 ## Get started with plugins
 

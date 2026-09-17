@@ -24,7 +24,9 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 [Contact sales](</contact-sales/>)Try OpenAI
 
-OpenAI[View all plugins](</business/plugins/>)
+OpenAI
+
+[Plugins](</business/plugins/>)
 
 ![](https://files.openai.com/content?id=file_00000000b45c71f797469228048098cf&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=918ea83c51446a2cb487ba521a072a83187590f9dd92abd609524ab650826dc2&v=0)![](https://files.openai.com/content?id=file_0000000054bc720dae843a095a92471f&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=367db0eb3f3375f5e1ceb2fa3a9d6010b4cbc30ffa50a7b031b1664f12a3b96a&v=0)
 
@@ -34,51 +36,76 @@ Find and access your stored files.
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69b31dc2110c8191b8b47dc98fe5a052>)[Contact sales](</contact-sales/>)
 
+Category
+    [Productivity](</business/plugins/?tab=plugins-productivity>)
+
+Developer
+    Dropbox
+
+Website
+    [(opens in a new window)](<https://www.dropbox.com>)
+
 [![](https://files.openai.com/content?id=file_00000000b45c71f797469228048098cf&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=918ea83c51446a2cb487ba521a072a83187590f9dd92abd609524ab650826dc2&v=0)![](https://files.openai.com/content?id=file_0000000054bc720dae843a095a92471f&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=367db0eb3f3375f5e1ceb2fa3a9d6010b4cbc30ffa50a7b031b1664f12a3b96a&v=0)Dropbox save this proposal to my Dropbox(opens in a new window)](<https://chatgpt.com/?prompt=%40Dropbox+save+this+proposal+to+my+Dropbox>)[![](https://files.openai.com/content?id=file_00000000b45c71f797469228048098cf&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=918ea83c51446a2cb487ba521a072a83187590f9dd92abd609524ab650826dc2&v=0)![](https://files.openai.com/content?id=file_0000000054bc720dae843a095a92471f&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=367db0eb3f3375f5e1ceb2fa3a9d6010b4cbc30ffa50a7b031b1664f12a3b96a&v=0)Dropbox can you show me my vacation photo?(opens in a new window)](<https://chatgpt.com/?prompt=%40Dropbox+can+you+show+me+my+vacation+photo%3F>)[![](https://files.openai.com/content?id=file_00000000b45c71f797469228048098cf&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=918ea83c51446a2cb487ba521a072a83187590f9dd92abd609524ab650826dc2&v=0)![](https://files.openai.com/content?id=file_0000000054bc720dae843a095a92471f&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=367db0eb3f3375f5e1ceb2fa3a9d6010b4cbc30ffa50a7b031b1664f12a3b96a&v=0)Dropbox can you generate a Dropbox shareable link for this PDF?(opens in a new window)](<https://chatgpt.com/?prompt=%40Dropbox+can+you+generate+a+Dropbox+shareable+link+for+this+PDF%3F>)
-
-Use case: [Productivity](</business/plugins/?tab=plugins-productivity>) and [Small Business](</business/plugins/?tab=plugins-small-business>)
-
-Made by: Dropbox
-
-Website: [dropbox.com(opens in a new window)](<https://www.dropbox.com>)
 
 ## How it works
 
 Use synced file content to surface key details and generate accurate briefs and updates, helping teams move faster without manual copy and paste.
 
-### Turn documents into decision-ready briefs
+## Common use cases
+
+  * ### Turn documents into decision-ready briefs
 
 Summarize a quarterly report or policy pack and generate a 1-page brief with risks, owners, and next steps, reducing preparation time for reviews and executive updates.
 
-### Synthesize knowledge across teams and projects
+Dropbox Summarize the latest quarterly report in this folder and pull the few numbers an executive will likely ask about.
+
+[(opens in a new window)](<https://chatgpt.com/?q=Dropbox+Summarize+the+latest+quarterly+report+in+this+folder+and+pull+the+few+numbers+an+executive+will+likely+ask+about.>)
+
+  * ### Synthesize knowledge across teams and projects
 
 Combine research decks, support summaries, and feedback docs into one report with clear themes and evidence, helping product and CX prioritize fixes faster.
 
-### Find answers with traceable source context
+Dropbox Pull all docs related to [client] renewal and create a prep brief with stakeholders, risks, timeline, and strongest proof points.
+
+[(opens in a new window)](<https://chatgpt.com/?q=Dropbox+Pull+all+docs+related+to+%5Bclient%5D+renewal+and+create+a+prep+brief+with+stakeholders%2C+risks%2C+timeline%2C+and+strongest+proof+points.>)
+
+  * ### Find answers with traceable source context
 
 Ask where a metric, clause, or decision appears, and pull the exact passages and links so stakeholders can verify details and reduce rework.
 
-## Sample prompts
+Dropbox Find where the [client] contract states the renewal notice period. Quote the relevant passage and include the document link so our account team can verify it.
 
-Summarize report highlights and key metrics
+[(opens in a new window)](<https://chatgpt.com/?q=Dropbox+Find+where+the+%5Bclient%5D+contract+states+the+renewal+notice+period.+Quote+the+relevant+passage+and+include+the+document+link+so+our+account+team+can+verify+it.>)
 
-**@Dropbox** Summarize the latest quarterly report in this folder and pull the few numbers an executive will likely ask about.
 
-Identify key risks and mitigation actions
 
-**@Dropbox** Pull all docs related to [client] renewal and create a prep brief with stakeholders, risks, timeline, and strongest proof points.
 
-Summarize differences across document versions
+## What’s included
 
-**@Dropbox** Find where the [client] contract states the renewal notice period. Quote the relevant passage and include the document link so our account team can verify it.
+### App
+
+  * ![](https://files.openai.com/content?id=file_00000000b45c71f797469228048098cf&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=918ea83c51446a2cb487ba521a072a83187590f9dd92abd609524ab650826dc2&v=0)Dropbox
+
+
+
+### Skills
+
+  * clean-up-dropbox-content
+  * collect-files-with-request
+  * find-dropbox-content
+  * inspect-dropbox-file
+  * organize-dropbox-folder
+  * share-dropbox-content
+
+
 
 ## Resources
 
-### [Help centerRead more](<https://help.openai.com/en/articles/12364275-dropbox-connector>)
+### [Help centerLearn more](<https://help.openai.com/en/articles/12364275-dropbox-connector>)
 
-### [Plugin supportRead more](<https://www.dropbox.com/support>)
+### [Plugin supportLearn more](<https://www.dropbox.com/support>)
 
-### [Privacy policyRead more](<https://www.dropbox.com/privacy>)
+### [Privacy policyLearn more](<https://www.dropbox.com/privacy>)
 
 ## Get started with plugins
 

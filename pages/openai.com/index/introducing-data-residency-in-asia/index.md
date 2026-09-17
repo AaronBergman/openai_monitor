@@ -77,9 +77,13 @@ Data residency builds on OpenAI’s robust data privacy, security, and complianc
 These features include:
 
   * **Advanced encryption technique** s: We use AES-256 for data at rest and TLS 1.2+ for data in transit between customers and OpenAI, and OpenAI and our service providers, to safeguard data confidentiality and integrity during storage and transmission across networks.
+
   * **No training on customer data** : By default, OpenAI’s models are not trained using data from ChatGPT business plans or the API unless a customer explicitly opts in to share data with us.
+
   * **Comprehensive data protection** : Our data protection practices can support compliance with GDPR, CCPA, and other privacy laws, and adhere to the CSA STAR and SOC 2 Type 2 standards. 
+
   * **Data Processing Addendum (DPA)** : We offer a comprehensive [_DPA_ ⁠(opens in a new window)](<https://openai-dotcom-20-git-preview-openai.vercel.app/policies/data-processing-addendum/>) that clarifies roles and responsibilities under GDPR and other privacy regulations, helping organizations meet their compliance obligations.
+
 
 
 

@@ -28,6 +28,8 @@ OpenAI
 
 June 1, 2025
 
+[Safety](</news/safety-alignment/>)
+
 # Vixen and Keyhole Panda: China-linked cyber operations
 
 OpenAI banned accounts associated with threat actors publicly attributed to the PRC, using AI to support vulnerability research, scripting, translation, and operational troubleshooting.
@@ -55,28 +57,45 @@ Another subset appeared to be attempting to engage in development of support act
 These threat actors generated content related to a number of topics:
 
   * Password bruteforcing: The threat actors sought help writing a script to try multiple username and password combinations against FTP servers.
+
   * Port scanning software: The threat actors used our models to modify and improve scripts to scan servers for specific ports.
+
   * AI-driven penetration testing: One threat actor researched how to use LLMs to automate penetration testing by analyzing Nmap scan output, building commands to run, and iteratively sending command output to the LLM to create new commands.
+
   * Social media automation: One threat actor worked on code designed to manage a fleet of Android devices to automate operations on social media platforms.
+
   * Research into US federal defense industry, military networks, and government technology: Multiple threat actors sought publicly available information on US Special Operations Command, satellite communications technologies, ground station terminal locations, government identity verification cards, and networking equipment.
+
 
 
 
 Representative examples of these activities can be mapped to the LLM ATT&CK framework as follows:
 
   * Researching vulnerabilities and generating AI-assisted penetration testing scripts designed to be used with OpenAI API: LLM Assisted Vulnerability Research.
+
   * Automating IP range conversion and network reconnaissance scripting: LLM Enhanced Scripting Techniques.
+
   * Profiling network infrastructure by pasting text and using models to extract IPs and hostnames: LLM Guided Infrastructure Profiling.
+
   * Asking for details on government identity verification and telecom infrastructure analysis: LLM-Advised Strategic Planning.
+
   * Automating command and control for Android device social media manipulation: LLM Enhanced Scripting Techniques.
+
   * Using LLMs to analyze and summarize vulnerability reports and generate exploit payload ideas: LLM Assisted Vulnerability Research.
+
   * Generating code obfuscation and anti-reverse engineering techniques for malware development: LLM-Optimized Payload Crafting.
+
 
 
 
 ## Impact
 
 We disabled all accounts associated with this activity and shared relevant indicators with industry partners. While this investigation provided unusually broad visibility into a network of PRC-affiliated threat actors and their operational workflows, including tool development, open-source research, and infrastructure profiling, we found no evidence that access to our models provided these actors with novel capabilities or directions that they could not otherwise have obtained from multiple publicly available resources.
+
+  * [China](</news/?tags=actor-origin-china>)
+  * [Cyber operations](</news/?tags=cyber-operations>)
+
+
 
 ## Author
 
@@ -92,6 +111,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)

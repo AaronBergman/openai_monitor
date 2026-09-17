@@ -59,7 +59,9 @@ GPT-5.1 Instant
 Today we’re upgrading the GPT‑5 series with the release of:
 
   * **GPT‑5.1 Instant** : our most-used model, now warmer, more intelligent, and better at following your instructions.
+
   * **GPT‑5.1 Thinking** : our advanced reasoning model, now easier to understand and faster on simple tasks, more persistent on complex ones.
+
 
 
 
@@ -82,8 +84,11 @@ Here are a few simple, effective ways to help ease stress — you can mix and ma
 ##### **🧘‍♀️ Quick Reset (1–5 minutes)**
 
   * **Deep breathing:** Try the _4-7-8_ method — inhale for 4 seconds, hold for 7, exhale for 8. Repeat 4 rounds.
+
   * **Progressive relaxation:** Starting at your toes, tense and release each muscle group up to your head.
+
   * **Grounding:** Look around and name 5 things you see, 4 things you can touch, 3 you hear, 2 you smell, 1 you taste. Brings you into the moment fast.
+
 
 
 
@@ -92,8 +97,11 @@ Here are a few simple, effective ways to help ease stress — you can mix and ma
 ##### **☕ 10–20 Minute Recharge**
 
   * **Go outside:** A short walk, especially somewhere green or with a view, helps drop cortisol quickly.
+
   * **Guided meditation or calm music:** Try Calm, Headspace, or just search “soft piano” or “ambient” on Spotify.
+
   * **Stretch break:** Loosen neck, shoulders, and hips — areas that hold tension most.
+
 
 
 
@@ -102,8 +110,11 @@ Here are a few simple, effective ways to help ease stress — you can mix and ma
 ##### **🌙 Longer Recalibration**
 
   * **Digital break:** Step away from screens and notifications for 30–60 minutes. Read, nap, or listen to a podcast.
+
   * **Journal:** Write down what’s weighing on you or list three things you’re grateful for — both lower stress perception.
+
   * **Warm shower or bath:** The heat relaxes muscles and slows heart rate. Add Epsom salt or lavender oil if you have it.
+
 
 
 
@@ -112,7 +123,9 @@ Here are a few simple, effective ways to help ease stress — you can mix and ma
 ##### **🧩 Mindset Shifts**
 
   * **Be kind to yourself:** Stress often spikes when we feel behind. Remind yourself: “I’m allowed to rest; I’ll think clearly after I recharge.”
+
   * **Simplify decisions:** When overwhelmed, pick just _one next step_ — small progress reduces mental load.
+
 
 
 
@@ -130,7 +143,9 @@ I’ve got you, Ron — that’s totally normal, especially with everything you�
 ##### **🌬️ If your mind feels scattered**
 
   * **Box breathing:** Inhale for 4 counts, hold for 4, exhale for 4, hold for 4 — repeat 5 times. It’s fast-acting and physically calms your nervous system.
+
   * **Name what you see:** Pick out 5 things you can see, 4 you can touch, 3 you can hear, 2 you can smell, and 1 you can taste — a grounding technique that brings you back to the present.
+
 
 
 
@@ -139,7 +154,9 @@ I’ve got you, Ron — that’s totally normal, especially with everything you�
 ##### **🎧 If you need to slow down**
 
   * **Music reset:** Put on something ambient or lo-fi (Brian Eno, Khruangbin, or even a Gorillaz instrumental). Let yourself zone out for one full track — no phone scrolling.
+
   * **Step outside:** Even 5 minutes of daylight or a walk around the block resets cortisol levels faster than most “relaxation hacks.”
+
 
 
 
@@ -148,7 +165,9 @@ I’ve got you, Ron — that’s totally normal, especially with everything you�
 ##### **🧘‍♂️ If you want to fully unwind**
 
   * **Stretch the stress out:** Roll your shoulders back, touch your toes, then lie on the floor with your legs up the wall for 3–5 minutes. It’s a simple yoga move (Viparita Karani) that’s surprisingly effective.
+
   * **Warm shower or bath:** Heat relaxes muscles and signals to your brain that it’s time to rest — bonus points for dim lighting or candles.
+
 
 
 
@@ -222,20 +241,28 @@ BABIP=H−HRAB−K−HR+SF \text{BABIP} = \frac{H - HR}{AB - K - HR + SF} BABIP=
 
 
 
+
 **Why it matters:**
 
   * Captures contact quality, defense, ballpark, and luck.
+
   * League average hovers around **.300** most seasons.
+
   * **Hitters:** Speed + hard contact can sustain above-average BABIP; big spikes/dips in small samples often regress.
+
   * **Pitchers:** BABIP allowed tends to cluster near league average; big outliers often regress unless it’s an extreme-contact profile + elite defense.
+
 
 
 
 **Quick reads:**
 
   * **>.330**: strong contact/speed _or_ some good fortune.
+
   * **.270–.300** : typical range.
+
   * **<.270**: weak contact/slow footspeed _or_ bad luck/elite defenses faced.
+
 
 
 
@@ -246,18 +273,26 @@ BABIP=H−HRAB−K−HR+SF \text{BABIP} = \frac{H - HR}{AB - K - HR + SF} BABIP=
 **Scale:**
 
   * **100** = league average
+
   * **120** = 20% better than league average
+
   * **80** = 20% worse than league average
+
   * **140+** = star/elite seasons
+
 
 
 
 **How it’s built (conceptually):**
 
   1. Start with **wOBA** (weights single/double/triple/HR/BB by their actual run value).
+
   2. Convert to **wRAA** (runs above average).
+
   3. Adjust for **park** and **league/season** effects.
+
   4. Normalize so **100 = average** → that’s **wRC+**.
+
 
 
 
@@ -266,7 +301,9 @@ BABIP=H−HRAB−K−HR+SF \text{BABIP} = \frac{H - HR}{AB - K - HR + SF} BABIP=
 **Limitations (both stats):**
 
   * BABIP is noisy in small samples; needs context (speed, batted-ball profile).
+
   * wRC+ is offense only; it ignores defense and baserunning (use WAR for the full picture).
+
 
 
 
@@ -292,35 +329,55 @@ BABIP = (Hits − Home Runs) ÷ (At-Bats − Strikeouts − Home Runs + Sacrific
 So:
 
   * It only cares about **balls that fielders can make a play on**.
+
   * It ignores:
+
     * Strikeouts (no ball in play)
+
     * Home runs (no fielder involved)
+
     * Walks/HBP (not at-bats)
+
 
 
 
 **Why it matters:**
 
   * BABIP is often used as a **luck / variance indicator** for both hitters and pitchers.
+
   * League-average BABIP is usually around **.295–.300**.
+
     * **Much higher than .300?** Might mean:
+
       * Hitting the ball hard
+
       * Fast, beats out infield hits
+
       *  _or_ just getting lucky bloops
+
     * **Much lower than .300?** Might mean:
+
       * Lots of weak contact
+
       * Shift / positioning hurting you
+
       *  _or_ bad luck, everything hit “right at” someone
+
 
 
 
 **How people actually use it:**
 
   * For hitters:
+
     * Very high BABIP + no history of high BABIP → “He’s probably going to cool off.”
+
     * Very low BABIP + solid skills → “He might bounce back.”
+
   * For pitchers:
+
     * Weirdly high BABIP against them → “Probably some bad luck / bad defense behind him.”
+
 
 
 
@@ -332,8 +389,11 @@ So:
 ** wRC+ is a **catch-all hitting stat** that tells you _how good a hitter is at creating runs compared to league average_ , adjusted for ballpark and era.
 
   * **100 = league average**
+
   * **120 = 20% better than league average**
+
   * **80 = 20% worse than league average**
+
 
 
 
@@ -344,33 +404,51 @@ So if a player has a **wRC+ of 135** , that means:
 **What goes into it (conceptually):**
 
   * It starts from **wRC (Weighted Runs Created)** , which:
+
     * Uses **wOBA** (weighted on-base average)
+
     * Assigns proper value to singles, doubles, HR, walks, etc.
+
     * Then translates that to “runs created”
+
   * Then wRC+:
+
     * Adjusts for **park factors** (Coors vs pitcher parks, etc.)
+
     * Adjusts for **run environment / era**
+
     * Normalizes everything so **100 is always league average**
+
 
 
 
 **Why it matters:**
 
   * wRC+ is one of the **best single-number hitting stats** because it:
+
     * Accounts for **how valuable each event is** (HR > single)
+
     * Adjusts for **ballpark** and **season context**
+
     * Puts everyone on the same scale
+
 
 
 
 **Rough ranges:**
 
   * **70 and below** – bad bat
+
   * **80–90** – below average
+
   * **100** – average
+
   * **110–120** – solidly above average
+
   * **130–140** – All-Star level
+
   * **150+** – MVP-type monster season
+
 
 
 
@@ -380,8 +458,10 @@ So if a player has a **wRC+ of 135** , that means:
 
   * **BABIP** : “How often do balls in play fall in for hits?”  
 → Used to sniff out **luck vs true skill** in contact results.
+
   * **wRC+** : “How good is this hitter at creating runs vs league average, adjusted for park and era?”  
 → **100 = average** , every point above/below is % better/worse.
+
 
 
 
@@ -402,16 +482,22 @@ Short answer: no, most people probably didn’t think that. We massively overest
 If it helps, here’s a quick reset for your brain:
 
   * Swap the story: “I looked dumb” → “I handled an annoying curveball and still showed up.”
+
   * One-liner if anyone mentioned it: “Coffee tried to jump ship; I carried on.” Then move on.
+
   * Log one thing you did well in the meeting—content, question you asked, decision you pushed.
+
 
 
 
 For next time (practical kit):
 
   * Tide/oxiclean pen or a dab of dish soap + water → blot from the outside in.
+
   * Dark cardigan/blazer in the office, just in case.
+
   * Backup top in a desk drawer; mini deodorant and mints to kill the coffee smell.
+
 
 
 
@@ -492,17 +578,17 @@ OpenAI
 
 [View all](</news/>)
 
+![Reimagining advertising with AI — Card cover](https://images.ctfassets.net/kftzwdyauwt9/fHwkKLVG8WFHvuUPqMXtz/1c49ba0859fe1e1e21f5d64f692490f5/reimagining-advertising-with-ai-cover.png?w=3840&q=90&fm=webp)
+
+[Reimagining advertising with AIProductSep 16, 2026](</index/reimagining-advertising-with-ai/>)
+
+![How to connect AI usage to business value — art card](https://images.ctfassets.net/kftzwdyauwt9/36T42HPkipcJAs08yNirmR/f73d9408ef4f0b08b5cce3b839656843/cover-018.png?w=3840&q=90&fm=webp)
+
+[How to connect AI usage to business valueProductSep 16, 2026](</index/how-to-connect-ai-usage-to-business-value/>)
+
 ![Now everyone can put data to work — card image](https://images.ctfassets.net/kftzwdyauwt9/6FhMXOSe8XadGwEUev6QjJ/916a64d20bcc59b8619fea1827fa6bd3/put-data-to-work--cover-v001.png?w=3840&q=90&fm=webp)
 
 [Now everyone can put data to workProductSep 10, 2026](</index/put-data-to-work/>)
-
-![FinServ Blog - Art Card Texture Square](https://images.ctfassets.net/kftzwdyauwt9/6Bcg403pebiJhQdHUS17FK/572e478dc4579deca27c9700c662e908/finserv-art-card.png?w=3840&q=90&fm=webp)
-
-[Introducing ChatGPT for Financial ServicesProductSep 10, 2026](</index/introducing-chatgpt-financial-services/>)
-
-![GPT-Live-1 API | Green-blue cover | Option 038](https://images.ctfassets.net/kftzwdyauwt9/1uBabEULLfw3Vb2Gldmyyq/c19c1c121ca403ee8b2703cba18ef82d/introducing-gpt-live-1-green-cover.png?w=3840&q=90&fm=webp)
-
-[Build more natural voice experiences with GPT‑Live‑1 in the APIProductSep 10, 2026](</index/introducing-gpt-live-1-in-the-api/>)
 
 Research
 

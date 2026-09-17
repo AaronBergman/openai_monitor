@@ -24,7 +24,9 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 [Contact sales](</contact-sales/>)Try OpenAI
 
-OpenAI[View all plugins](</business/plugins/>)
+OpenAI
+
+[Plugins](</business/plugins/>)
 
 ![](https://files.openai.com/content?id=file_00000000191081f79dfeddb7b502b1bf&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=3e3f6f7a793416cd9a93e61c94c2bd4631dd37631f592d4e774aa254e2b1c9b7&v=0)![](https://files.openai.com/content?id=file_00000000191081f79dfeddb7b502b1bf&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=3e3f6f7a793416cd9a93e61c94c2bd4631dd37631f592d4e774aa254e2b1c9b7&v=0)
 
@@ -34,51 +36,90 @@ Prepare account work and customer follow-up.
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/Plugin_af5b4b796b588191b3f2c610aa093799>)[Contact sales](</contact-sales/>)
 
-[![](https://files.openai.com/content?id=file_00000000479481f7b96c847ed14843ef&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=8&sig=5b8f16b7bc3190dcd0ab351f7f5c3293a50d9944f6e25dc16b3a974207b9a8eb&v=0)Sales What can you do?(opens in a new window)](<https://chatgpt.com/?prompt=%40Sales+What+can+you+do%3F>)[![](https://files.openai.com/content?id=file_00000000479481f7b96c847ed14843ef&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=8&sig=5b8f16b7bc3190dcd0ab351f7f5c3293a50d9944f6e25dc16b3a974207b9a8eb&v=0)Sales Help me prepare for my upcoming customer meeting(opens in a new window)](<https://chatgpt.com/?prompt=%40Sales+Help+me+prepare+for+my+upcoming+customer+meeting>)[![](https://files.openai.com/content?id=file_00000000479481f7b96c847ed14843ef&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=8&sig=5b8f16b7bc3190dcd0ab351f7f5c3293a50d9944f6e25dc16b3a974207b9a8eb&v=0)Sales Build the first version of my seller dashboard(opens in a new window)](<https://chatgpt.com/?prompt=%40Sales+Build+the+first+version+of+my+seller+dashboard>)
+Capabilities
+    Interactive, Read, Write
 
-Use case: [Operations](</business/plugins/?tab=plugins-operations>) and [Sales](</business/plugins/?tab=plugins-sales-commerce>)
+Category
+    [Operations](</business/plugins/?tab=plugins-operations>)
 
-Made by: OpenAI
+Developer
+    OpenAI
 
-Website: [openai.com(opens in a new window)](<https://openai.com/>)
+Website
+    [(opens in a new window)](<https://openai.com/>)
+
+[![](https://files.openai.com/content?id=file_00000000e8c081f59ddb247fd01e2217&cdn=1&cp=pi&ma=32140800&ts=0&p=pi&cid=8&sig=9e32ada229d197bd7e3c7c8d9ee1d62d2b076f11b47bbf35fe317cea2febe085&v=0)Sales What can you do?(opens in a new window)](<https://chatgpt.com/?prompt=%40Sales+What+can+you+do%3F>)[![](https://files.openai.com/content?id=file_00000000e8c081f59ddb247fd01e2217&cdn=1&cp=pi&ma=32140800&ts=0&p=pi&cid=8&sig=9e32ada229d197bd7e3c7c8d9ee1d62d2b076f11b47bbf35fe317cea2febe085&v=0)Sales Help me prepare for my upcoming customer meeting(opens in a new window)](<https://chatgpt.com/?prompt=%40Sales+Help+me+prepare+for+my+upcoming+customer+meeting>)[![](https://files.openai.com/content?id=file_00000000e8c081f59ddb247fd01e2217&cdn=1&cp=pi&ma=32140800&ts=0&p=pi&cid=8&sig=9e32ada229d197bd7e3c7c8d9ee1d62d2b076f11b47bbf35fe317cea2febe085&v=0)Sales Build the first version of my seller dashboard(opens in a new window)](<https://chatgpt.com/?prompt=%40Sales+Build+the+first+version+of+my+seller+dashboard>)
 
 ## How it works
 
 Use Sales in ChatGPT to prepare account plans, meeting briefs, outreach, follow-ups, and pipeline summaries from available context so teams can move faster across the customer lifecycle.
 
-### Prepare customer context faster
+## Common use cases
+
+  * ### Prepare customer context faster
 
 Create account briefs, meeting prep, stakeholder maps, and discovery questions from available CRM, email, calendar, and call context.
 
-### Improve follow-up quality
+Sales Build an account plan for [customer] with goals, stakeholders, open opportunities, risks, proof points, and next-best actions.
+
+[(opens in a new window)](<https://chatgpt.com/?q=Sales+Build+an+account+plan+for+%5Bcustomer%5D+with+goals%2C+stakeholders%2C+open+opportunities%2C+risks%2C+proof+points%2C+and+next-best+actions.>)
+
+  * ### Improve follow-up quality
 
 Draft concise customer emails, call summaries, next steps, and objection handling notes that stay specific to the account.
 
-### Strengthen pipeline oversight
+Sales Turn these meeting notes into a customer-ready follow-up email plus an internal summary with owners and deadlines.
+
+[(opens in a new window)](<https://chatgpt.com/?q=Sales+Turn+these+meeting+notes+into+a+customer-ready+follow-up+email+plus+an+internal+summary+with+owners+and+deadlines.>)
+
+  * ### Strengthen pipeline oversight
 
 Summarize risks, blockers, champions, next actions, and forecast signals so reps and managers can prioritize the right deals.
 
-## Sample prompts
+Sales Review my pipeline for this month and identify the deals most at risk, why they matter, and what I should do next.
 
-Prepare account plan
+[(opens in a new window)](<https://chatgpt.com/?q=Sales+Review+my+pipeline+for+this+month+and+identify+the+deals+most+at+risk%2C+why+they+matter%2C+and+what+I+should+do+next.>)
 
-**@Sales** Build an account plan for [customer] with goals, stakeholders, open opportunities, risks, proof points, and next-best actions.
 
-Draft customer follow-up
 
-**@Sales** Turn these meeting notes into a customer-ready follow-up email plus an internal summary with owners and deadlines.
 
-Review pipeline priorities
+## What’s included
 
-**@Sales** Review my pipeline for this month and identify the deals most at risk, why they matter, and what I should do next.
+### Apps
+
+  * ![](https://files.openai.com/content?id=file_00000000dc7c71fd8213f2c75804d1d3&cdn=1&cp=pi&ma=30240000&ts=0&p=pi&cid=8&sig=3ea4b7ce3505fba383377ac5ffba6ac1c2809a009416862019de7f5caa17ee45&v=0)Slack
+  * ![](https://chatgpt.com/images/ecosystem/apps/microsoft_teams/icon.png)Microsoft Teams
+  * ![](https://files.openai.com/content?id=file_00000000aa9071f59db729d014a2c122&cdn=1&cp=pi&ma=31795200&ts=0&p=pi&cid=1&sig=6709f94e3d491849be21f21c311321cfd336dd2079d72129fb55b6b76e78464e&v=0)Zoom
+  * ![](https://files.openai.com/content?id=file_000000009ee081f7aadc689e87706776&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=8&sig=9f71751ac27b106cf1f343137cc8c01e38e563f76984a47ee44db9b3002ae044&v=0)Zoom Revenue Accelerator
+  * ![](https://files.openai.com/content?id=file_00000000591471f69a7ca95a1d2a0127&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=1&sig=4eea39ddbc017575a5b3b92e4b2e85d8b953140e2fe832b4b713f6de01a9e59a)Granola
+  * ![](https://files.openai.com/content?id=file_000000001fb871f8bec8691546d07d0a&cdn=1&cp=pi&ma=32227200&ts=0&p=pi&cid=1&sig=9f1e5f10b8dfc59bbc3a51d513caa49fe2958261850a9d9b04e974432825960d&v=0)Fireflies
+  * ![](https://files.openai.com/content?id=file_000000008cdc71fdbb9e6057e03af6ec&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=1&sig=22f067789048f4a1a290e036b8ff0bdc4aa487e8b261c43bcdf2db2191b9f756&v=0)Otter.ai
+  * ![](https://files.openai.com/content?id=file_00000000179481f697b15912cc0639ec&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=8&sig=08ed84049c5782f92b252fc21e591bbfe923c8813543e6df158b78b2b7094337&v=0)Agentforce Sales
+  * 20 more
+
+
+
+### Skills
+
+  * Analyze Account Signals
+  * Build Business Case
+  * Build Competitive Brief
+  * Executive and Seller Dashboard Demo
+  * Enrich Company And Contact Data
+  * Find Customer Quotes
+  * Find Key Internal Sources
+  * Follow Up After Call
+  * 10 more
+
+
 
 ## Resources
 
-### [Help centerRead more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
+### [Help centerLearn more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
 
-### [Plugin supportRead more](<https://help.openai.com/>)
+### [Plugin supportLearn more](<https://help.openai.com/>)
 
-### [Privacy policyRead more](<https://openai.com/policies/privacy-policy/>)
+### [Privacy policyLearn more](<https://openai.com/policies/privacy-policy/>)
 
 ## Get started with plugins
 

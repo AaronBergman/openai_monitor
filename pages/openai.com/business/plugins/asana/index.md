@@ -24,7 +24,9 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 [Contact sales](</contact-sales/>)Try OpenAI
 
-OpenAI[View all plugins](</business/plugins/>)
+OpenAI
+
+[Plugins](</business/plugins/>)
 
 ![](https://files.openai.com/content?id=file_000000004a50722f96089a32eeed297c&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=1&sig=07807a7cbefb19d9cd968741565427527585e02f13335ddd46129d77e9dfe317&v=0)![](https://files.openai.com/content?id=file_0000000072dc81f69476895c0081c9c6&cdn=1&cp=pi&ma=31363200&ts=0&p=pi&cid=8&sig=ae98e7cc8005841970b2d7697ed1cfd38a1f393c65889c0de686c5db7b93da03&v=0)
 
@@ -34,51 +36,68 @@ Turn Asana tasks into clear updates and plans.
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69616780bd208191b4fb44ba44f72b61>)[Contact sales](</contact-sales/>)
 
+Capabilities
+    Interactive, Write
+
+Category
+    [Productivity](</business/plugins/?tab=plugins-productivity>)
+
+Developer
+    Asana, Inc.
+
+Website
+    [(opens in a new window)](<https://asana.com>)
+
 [![](https://files.openai.com/content?id=file_0000000017e0722f80510fbdbf0832a1&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=1&sig=20dd59f030cc7c32ba143c3ce12a6cdc0fb2f6d699f2b82a528d8408b854be7b&v=0)Asana Create a project to track creative requests(opens in a new window)](<https://chatgpt.com/?prompt=%40Asana+Create+a+project+to+track+creative+requests>)[![](https://files.openai.com/content?id=file_0000000017e0722f80510fbdbf0832a1&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=1&sig=20dd59f030cc7c32ba143c3ce12a6cdc0fb2f6d699f2b82a528d8408b854be7b&v=0)Asana Create a task to track follow up actions(opens in a new window)](<https://chatgpt.com/?prompt=%40Asana+Create+a+task+to+track+follow+up+actions>)[![](https://files.openai.com/content?id=file_0000000017e0722f80510fbdbf0832a1&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=1&sig=20dd59f030cc7c32ba143c3ce12a6cdc0fb2f6d699f2b82a528d8408b854be7b&v=0)Asana Show me what's on my plate in Asana today.(opens in a new window)](<https://chatgpt.com/?prompt=%40Asana+Show+me+what%27s+on+my+plate+in+Asana+today.>)
-
-Use case: [Productivity](</business/plugins/?tab=plugins-productivity>)
-
-Made by: Asana, Inc.
-
-Website: [asana.com(opens in a new window)](<https://asana.com>)
 
 ## How it works
 
 Work with your Asana tasks, subtasks, comments, due dates, and project details to create summaries, understand priorities, and prepare clear status updates.
 
-### Improve cross team visibility
+## Common use cases
+
+  * ### Improve cross team visibility
 
 Query tasks, subtasks, comments, and project status in real time to generate summaries and reports, helping leaders spot risks early and align teams on priorities.
 
-### Identify personal priorities
+Asana Identify overdue tasks and blocked work across [project] and propose a recovery plan.
+
+[(opens in a new window)](<https://chatgpt.com/?q=Asana+Identify+overdue+tasks+and+blocked+work+across+%5Bproject%5D+and+propose+a+recovery+plan.>)
+
+  * ### Identify personal priorities
 
 Retrieve high priority action items for the day to unblock the team and move work forward.
 
-### Generate SOPs from historical work
+Asana What should I work on today? Pull my highest priority tasks due soon and suggest an order based on dependencies.
+
+[(opens in a new window)](<https://chatgpt.com/?q=Asana+What+should+I+work+on+today%3F+Pull+my+highest+priority+tasks+due+soon+and+suggest+an+order+based+on+dependencies.>)
+
+  * ### Generate SOPs from historical work
 
 Retrieve standard operating procedures from historical work to inform who to work with and which process to follow to get work done.
 
-## Sample prompts
+Asana Use completed tasks and comments from [project] to draft an SOP with the steps, people to involve, and links to supporting work.
 
-Plan your tasks for the day
+[(opens in a new window)](<https://chatgpt.com/?q=Asana+Use+completed+tasks+and+comments+from+%5Bproject%5D+to+draft+an+SOP+with+the+steps%2C+people+to+involve%2C+and+links+to+supporting+work.>)
 
-**@Asana** Identify overdue tasks and blocked work across [project] and propose a recovery plan.
 
-Mitigate project risks
 
-**@Asana** What should I work on today? Pull my highest priority tasks due soon and suggest an order based on dependencies.
 
-Review notes and action items
+## What’s included
 
-**@Asana** Use completed tasks and comments from [project] to draft an SOP with the steps, people to involve, and links to supporting work.
+### App
+
+  * ![](https://files.openai.com/content?id=file_000000004a50722f96089a32eeed297c&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=1&sig=07807a7cbefb19d9cd968741565427527585e02f13335ddd46129d77e9dfe317&v=0)Asana
+
+
 
 ## Resources
 
-### [Help centerRead more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
+### [Help centerLearn more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
 
-### [Plugin supportRead more](<https://asana.com/support>)
+### [Plugin supportLearn more](<https://asana.com/support>)
 
-### [Privacy policyRead more](<https://asana.com/privacy>)
+### [Privacy policyLearn more](<https://asana.com/privacy>)
 
 ## Get started with plugins
 

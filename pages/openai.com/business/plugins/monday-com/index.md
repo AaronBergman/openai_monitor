@@ -24,7 +24,9 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 [Contact sales](</contact-sales/>)Try OpenAI
 
-OpenAI[View all plugins](</business/plugins/>)
+OpenAI
+
+[Plugins](</business/plugins/>)
 
 ![](https://files.openai.com/content?id=file_000000005ee871f88f1bfd73ad777a90&cdn=1&cp=pi&ma=32140800&ts=0&p=pi&cid=1&sig=df0e9e02b8a5bfd8995607513d9e3bab6e2c60df30c2542878eab19896af6a5b&v=0)![](https://files.openai.com/content?id=file_000000005ee871f88f1bfd73ad777a90&cdn=1&cp=pi&ma=32140800&ts=0&p=pi&cid=1&sig=df0e9e02b8a5bfd8995607513d9e3bab6e2c60df30c2542878eab19896af6a5b&v=0)
 
@@ -34,51 +36,65 @@ Manage work in monday.com.
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_690aabb71bf481918b8d5b614ed3fd4c>)[Contact sales](</contact-sales/>)
 
+Category
+    [Productivity](</business/plugins/?tab=plugins-productivity>)
+
+Developer
+    Monday.com
+
+Website
+    [(opens in a new window)](<https://monday.com>)
+
 [![](https://files.openai.com/content?id=file_00000000b3e08243817dc049a4750257&cdn=1&cp=pi&ma=30758400&ts=0&p=pi&cid=8&sig=f1a554a88cc3b205711a4efef6ed24daca9ece073f9b2b8be193fb79c0e7ae82&v=0)monday.com what can this connector do?(opens in a new window)](<https://chatgpt.com/?prompt=%40monday.com+what+can+this+connector+do%3F>)
-
-Use case: [Productivity](</business/plugins/?tab=plugins-productivity>)
-
-Made by: Monday.com
-
-Website: [monday.com(opens in a new window)](<https://monday.com>)
 
 ## How it works
 
 Get comprehensive access to monday.com features including board management, item operations, dashboards, and more, allowing AI assistants to help manage projects, gain insights, and automate workflows.
 
-### Capture structured work from conversations
+## Common use cases
+
+  * ### Capture structured work from conversations
 
 Convert requests into tasks with owners, dates, and status so teams can prioritize and track work without switching systems or relying on manual transcription.
 
-### Maintain accurate project status
+Monday.com Turn this chat into monday items with owners, due dates, and statuses so my team can start immediately.
+
+[(opens in a new window)](<https://chatgpt.com/?q=Monday.com+Turn+this+chat+into+monday+items+with+owners%2C+due+dates%2C+and+statuses+so+my+team+can+start+immediately.>)
+
+  * ### Maintain accurate project status
 
 Update items, fields, and timelines in place so capacity plans, dashboards, and stakeholder reports always reflect the latest decisions made in conversation.
 
-### Speed up reporting and planning
+Monday.com Update these items to reflect the new plan. Adjust owners, move dates, and set status to "In Progress" where appropriate.
+
+[(opens in a new window)](<https://chatgpt.com/?q=Monday.com+Update+these+items+to+reflect+the+new+plan.+Adjust+owners%2C+move+dates%2C+and+set+status+to+%22In+Progress%22+where+appropriate.>)
+
+  * ### Speed up reporting and planning
 
 Query boards for risks, blockers, and progress, summarize deliverables for leadership, and surface next steps that align cross-functional teams on outcomes.
 
-## Sample prompts
+Monday.com what's the marketing campaign status?
 
-Review team status
+[(opens in a new window)](<https://chatgpt.com/?q=Monday.com+what%27s+the+marketing+campaign+status%3F>)
 
-**@Monday.com** Turn this chat into monday items with owners, due dates, and statuses so my team can start immediately.
 
-Update status update with next steps
 
-**@Monday.com** Update these items to reflect the new plan. Adjust owners, move dates, and set status to "In Progress" where appropriate.
 
-Suggest in-product automations
+## What’s included
 
-**@Monday.com** what's the marketing campaign status?
+### App
+
+  * ![](https://files.openai.com/content?id=file_00000000cb7081f4ad57f20aa1312ba2&cdn=1&cp=pi&ma=30758400&ts=0&p=pi&cid=8&sig=1416f503053cf4cfa8b2076111fcb02fcd56eb83fd891a04c3368d0db37e363f&v=0)monday.com
+
+
 
 ## Resources
 
-### [Help centerRead more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
+### [Help centerLearn more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
 
-### [Plugin supportRead more](<https://support.monday.com/>)
+### [Plugin supportLearn more](<https://support.monday.com/>)
 
-### [Privacy policyRead more](<https://monday.com/legal/privacy-policy>)
+### [Privacy policyLearn more](<https://monday.com/legal/privacy-policy>)
 
 ## Get started with plugins
 

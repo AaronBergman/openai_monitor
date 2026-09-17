@@ -109,8 +109,11 @@ Make the goal concrete and time-bound.
 Examples:
 
   * “Save an extra $1,500 by August.”
+
   * “Build a one-month emergency cushion.”
+
   * “Save enough for travel / taxes / moving / investing.”
+
 
 
 
@@ -125,8 +128,11 @@ Food & delivery
 Good targets:
 
   * Reduce takeout from 5x/week → 2x/week
+
   * Bring coffee/lunch a few days per week
+
   * Set a fixed “fun food” budget
+
 
 
 
@@ -137,9 +143,13 @@ Subscriptions & recurring charges
 Look for:
 
   * Duplicate streaming/services
+
   * Annual plans you forgot about
+
   * Apps you rarely use
+
   * Higher-tier plans you don’t need
+
 
 
 
@@ -150,8 +160,11 @@ Impulse spending
 Instead of “don’t buy stuff,” use friction:
 
   * 48-hour rule for purchases over a set amount
+
   * Remove saved cards from shopping apps
+
   * Keep a running wishlist instead of instant purchases
+
 
 
 
@@ -164,15 +177,20 @@ The biggest difference-maker is usually automation.
 Try:
 
   * Automatic transfer every payday
+
   * Separate high-yield savings account
+
   * Move the money before you see it
+
 
 
 
 Even:
 
   * $75/week = ~$900 in 3 months
+
   * $150/week = ~$1,800 in 3 months
+
 
 
 
@@ -185,9 +203,13 @@ Don’t try to optimize every decision.
 Examples:
 
   * Weeknights = home-cooked meals
+
   * One no-spend day per week
+
   * Fixed entertainment budget
+
   * Only one convenience purchase category at a time
+
 
 
 
@@ -200,9 +222,13 @@ For a short-term savings push, earning a little extra is often easier psychologi
 Ideas:
 
   * Sell unused gear/clothes/electronics
+
   * Freelance or consulting work
+
   * Small weekend project
+
   * Negotiate a recurring expense (insurance, internet, phone)
+
 
 
 
@@ -225,16 +251,22 @@ If you want something sustainable and low-stress:
 Monthly
 
   * Cut 2–3 subscriptions
+
   * Reduce dining out modestly
+
   * Auto-transfer savings on payday
+
 
 
 
 Weekly
 
   * One no-spend day
+
   * One meal-prep session
+
   * Quick 5-minute money check-in
+
 
 
 
@@ -243,8 +275,11 @@ That alone can often create an extra few hundred dollars/month without dramatic 
 If you want, I can also help you build:
 
   * a lean 3-month savings plan,
+
   * a category-by-category budget,
+
   * or a “minimal pain” version based on your current spending habits.
+
 
 
 
@@ -339,8 +374,11 @@ Your conversations with connected financial accounts follow the same model train
 You are always in control of your information:
 
   * **Disconnecting accounts:** You can disconnect your financial accounts at any time in Settings > Apps > Finances, or from the Finances page. Once disconnected, your synced account data will be deleted from OpenAI’s systems within 30 days. Disconnecting an account will not affect financial information in your ChatGPT conversation history, but you can delete individual conversations at any time. 
+
   * **Deleting financial memories:** ChatGPT can remember key details you share, like goals, obligations, or context about your money, to make future financial conversations across ChatGPT more relevant and personalized. These are saved as financial memories, a dedicated type of memory used specifically to inform financial conversations. You can view or delete them at any time from the Finances page. 
+
   * **Temporary chats:** When you use temporary chats, ChatGPT won’t access your connected financial accounts. Temporary chats will not appear in your history.
+
 
 
 
@@ -377,17 +415,17 @@ OpenAI
 
 [View all](</news/>)
 
+![Reimagining advertising with AI — Card cover](https://images.ctfassets.net/kftzwdyauwt9/fHwkKLVG8WFHvuUPqMXtz/1c49ba0859fe1e1e21f5d64f692490f5/reimagining-advertising-with-ai-cover.png?w=3840&q=90&fm=webp)
+
+[Reimagining advertising with AIProductSep 16, 2026](</index/reimagining-advertising-with-ai/>)
+
+![How to connect AI usage to business value — art card](https://images.ctfassets.net/kftzwdyauwt9/36T42HPkipcJAs08yNirmR/f73d9408ef4f0b08b5cce3b839656843/cover-018.png?w=3840&q=90&fm=webp)
+
+[How to connect AI usage to business valueProductSep 16, 2026](</index/how-to-connect-ai-usage-to-business-value/>)
+
 ![Now everyone can put data to work — card image](https://images.ctfassets.net/kftzwdyauwt9/6FhMXOSe8XadGwEUev6QjJ/916a64d20bcc59b8619fea1827fa6bd3/put-data-to-work--cover-v001.png?w=3840&q=90&fm=webp)
 
 [Now everyone can put data to workProductSep 10, 2026](</index/put-data-to-work/>)
-
-![FinServ Blog - Art Card Texture Square](https://images.ctfassets.net/kftzwdyauwt9/6Bcg403pebiJhQdHUS17FK/572e478dc4579deca27c9700c662e908/finserv-art-card.png?w=3840&q=90&fm=webp)
-
-[Introducing ChatGPT for Financial ServicesProductSep 10, 2026](</index/introducing-chatgpt-financial-services/>)
-
-![GPT-Live-1 API | Green-blue cover | Option 038](https://images.ctfassets.net/kftzwdyauwt9/1uBabEULLfw3Vb2Gldmyyq/c19c1c121ca403ee8b2703cba18ef82d/introducing-gpt-live-1-green-cover.png?w=3840&q=90&fm=webp)
-
-[Build more natural voice experiences with GPT‑Live‑1 in the APIProductSep 10, 2026](</index/introducing-gpt-live-1-in-the-api/>)
 
 Research
 

@@ -24,7 +24,9 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 [Contact sales](</contact-sales/>)Try OpenAI
 
-OpenAI[View all plugins](</business/plugins/>)
+OpenAI
+
+[Plugins](</business/plugins/>)
 
 ![](https://files.openai.com/content?id=file_000000008b7481f7aa2e265a01cf0d3e&cdn=1&cp=pi&ma=31795200&ts=0&p=pi&cid=8&sig=c3c00757c96e51a9618eb4626a24050b97ca6188b2971cef3b7bc9acdaa7fddc&v=0)![](https://files.openai.com/content?id=file_000000008b7481f7aa2e265a01cf0d3e&cdn=1&cp=pi&ma=31795200&ts=0&p=pi&cid=8&sig=c3c00757c96e51a9618eb4626a24050b97ca6188b2971cef3b7bc9acdaa7fddc&v=0)
 
@@ -34,51 +36,65 @@ Sync ClickUp tasks and docs for use in ChatGPT.
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69431e6d26b88191b4029488aeb42f5b>)[Contact sales](</contact-sales/>)
 
-[![](https://files.openai.com/content?id=file_00000000b7b8720c8deac386c4a94323&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=1&sig=edec0308e34d7485d891307f4570c7443408f7747e3c9e70865c59f30a4f84d6&v=0)ClickUp Flag whether Sprint 14: Simplifying UI is at risk(opens in a new window)](<https://chatgpt.com/?prompt=%40ClickUp+Flag+whether+Sprint+14%3A+Simplifying+UI+is+at+risk>)
+Category
+    [Productivity](</business/plugins/?tab=plugins-productivity>)
 
-Use case: [Productivity](</business/plugins/?tab=plugins-productivity>) and [Small Business](</business/plugins/?tab=plugins-small-business>)
+Developer
+    ClickUp
 
-Made by: ClickUp
+Website
+    [(opens in a new window)](<https://clickup.com>)
 
-Website: [clickup.com(opens in a new window)](<https://clickup.com>)
+[![](https://files.openai.com/content?id=file_00000000b7b8720c8deac386c4a94323&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=1&sig=edec0308e34d7485d891307f4570c7443408f7747e3c9e70865c59f30a4f84d6&v=0)ClickUp What should I work on today?(opens in a new window)](<https://chatgpt.com/?prompt=%40ClickUp+What+should+I+work+on+today%3F>)[![](https://files.openai.com/content?id=file_00000000b7b8720c8deac386c4a94323&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=1&sig=edec0308e34d7485d891307f4570c7443408f7747e3c9e70865c59f30a4f84d6&v=0)ClickUp What's blocking my team right now?(opens in a new window)](<https://chatgpt.com/?prompt=%40ClickUp+What%27s+blocking+my+team+right+now%3F>)[![](https://files.openai.com/content?id=file_00000000b7b8720c8deac386c4a94323&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=1&sig=edec0308e34d7485d891307f4570c7443408f7747e3c9e70865c59f30a4f84d6&v=0)ClickUp What did we accomplish this week?(opens in a new window)](<https://chatgpt.com/?prompt=%40ClickUp+What+did+we+accomplish+this+week%3F>)
 
 ## How it works
 
 Let ChatGPT securely access ClickUp spaces, lists, and tasks to answer questions and create or update work items using synced ClickUp content.
 
-### View and update tasks
+## Common use cases
+
+  * ### View and update tasks
 
 Create and update tasks, subtasks, and lists in ClickUp through ChatGPT using synced workspace data.
 
-### Accelerate team workflows
+ClickUp Create a sprint plan from our backlog for the next 2 weeks and balance work across the team.
+
+[(opens in a new window)](<https://chatgpt.com/?q=ClickUp+Create+a+sprint+plan+from+our+backlog+for+the+next+2+weeks+and+balance+work+across+the+team.>)
+
+  * ### Accelerate team workflows
 
 Ask questions about tasks, owners, statuses, and priorities and receive answers based on current ClickUp content.
 
-### Improve operational visibility
+ClickUp Show my overdue tasks and recommend what to tackle first based on urgency and dependency.
+
+[(opens in a new window)](<https://chatgpt.com/?q=ClickUp+Show+my+overdue+tasks+and+recommend+what+to+tackle+first+based+on+urgency+and+dependency.>)
+
+  * ### Improve operational visibility
 
 Reference ClickUp project and workspace context in ChatGPT to understand how work is organized across teams.
 
-## Sample prompts
+ClickUp Summarize the current project status for [client] and write it like a professional weekly update.
 
-Review overdue tasks and set priorities
+[(opens in a new window)](<https://chatgpt.com/?q=ClickUp+Summarize+the+current+project+status+for+%5Bclient%5D+and+write+it+like+a+professional+weekly+update.>)
 
-@Clickup Create a sprint plan from our backlog for the next 2 weeks and balance work across the team.
 
-Summarize project status with key takeaways
 
-@Clickup Show my overdue tasks and recommend what to tackle first based on urgency and dependency.
 
-Create sprint plan with next steps
+## What’s included
 
-@Clickup Summarize the current project status for [client] and write it like a professional weekly update.
+### App
+
+  * ![](https://files.openai.com/content?id=file_00000000671881fb8e28decc47c8cfc5&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=8&sig=8c6fc8541a5b1acb44fe43c2dea37f7fa6806b032fe782082f4e6f5e3de8952e&v=0)ClickUp
+
+
 
 ## Resources
 
-### [Help centerRead more](<https://help.openai.com/en/articles/12628397-clickup-synced-connector>)
+### [Help centerLearn more](<https://help.openai.com/en/articles/12628397-clickup-synced-connector>)
 
-### [Plugin supportRead more](<https://help.clickup.com/hc/en-us>)
+### [Plugin supportLearn more](<https://help.clickup.com/hc/en-us>)
 
-### [Privacy policyRead more](<https://clickup.com/terms/privacy>)
+### [Privacy policyLearn more](<https://clickup.com/terms/privacy>)
 
 ## Get started with plugins
 

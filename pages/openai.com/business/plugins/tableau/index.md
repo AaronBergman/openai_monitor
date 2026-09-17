@@ -24,7 +24,9 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 [Contact sales](</contact-sales/>)Try OpenAI
 
-OpenAI[View all plugins](</business/plugins/>)
+OpenAI
+
+[Plugins](</business/plugins/>)
 
 ![](https://files.openai.com/content?id=file_00000000305c81f592476d99e3faab61&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=8&sig=64c45bfe23621d0cb193310b6fc5cded6a470a131c891a40a6dca4c7198340d4&v=0)![](https://files.openai.com/content?id=file_00000000dda481f58d27cff6712efd6e&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=8&sig=0f9a40070454550d86b04a4023fefbd1dbcceb54dc9defdb316dfc7467777022&v=0)
 
@@ -34,45 +36,73 @@ See and understand data
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugins_6aa0b89dcfc88191ba9971f2d7182516>)[Contact sales](</contact-sales/>)
 
+Capabilities
+    Read, Write
+
+Category
+    [Data](</business/plugins/?tab=plugins-data-research>)
+
+Developer
+    Salesforce, Inc.
+
+Website
+    [(opens in a new window)](<https://www.tableau.com/>)
+
 [![](https://files.openai.com/content?id=file_000000006ac081f5ad12ea3e0f1e1e0b&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=8&sig=977cbdfd5c9f8b12774015a82b583a346be0c0cab430e193072cdad3b970d30c&v=0)Tableau Tell me about the Tableau Plugin and what it can do.(opens in a new window)](<https://chatgpt.com/?prompt=%40Tableau+Tell+me+about+the+Tableau+Plugin+and+what+it+can+do.>)[![](https://files.openai.com/content?id=file_000000006ac081f5ad12ea3e0f1e1e0b&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=8&sig=977cbdfd5c9f8b12774015a82b583a346be0c0cab430e193072cdad3b970d30c&v=0)Tableau Show me the Commission Model dashboard. Also, tell me who is above 100% attainment(opens in a new window)](<https://chatgpt.com/?prompt=%40Tableau+Show+me+the+Commission+Model+dashboard.+Also%2C+tell+me+who+is+above+100%25+attainment>)[![](https://files.openai.com/content?id=file_000000006ac081f5ad12ea3e0f1e1e0b&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=8&sig=977cbdfd5c9f8b12774015a82b583a346be0c0cab430e193072cdad3b970d30c&v=0)Tableau Use the superstore workbook as a starting point, and add a new sheet showing profit ratio (profit / sales) by category.(opens in a new window)](<https://chatgpt.com/?prompt=%40Tableau+Use+the+superstore+workbook+as+a+starting+point%2C+and+add+a+new+sheet+showing+profit+ratio+%28profit+%2F+sales%29+by+category.>)
-
-Use case: [Data](</business/plugins/?tab=plugins-data-research>)
-
-Made by: Salesforce, Inc.
-
-Website: [tableau.com(opens in a new window)](<https://www.tableau.com/>)
 
 ## How it works
 
 Connects Codex to Tableau's hosted MCP server (mcp.tableau.com) so you can search Tableau sites, inspect workbooks and data sources, query data with VizQL, read Pulse metrics, and generate or modify workbooks by editing their TWB XML and publishing it back — all scoped to the OAuth-authenticated user's own Tableau permissions. Workbook authoring requires the 'authoring-tools' and 'mcp-apps' feature gates to be enabled on the Tableau site.
 
-### Review sales attainment
+## Common use cases
+
+  * ### Review sales attainment
 
 Identify sellers above target using the Commission Model dashboard.
 
-### Explain metric changes
+Tableau Show me the Commission Model dashboard. Also, tell me who is above 100% attainment
+
+[(opens in a new window)](<https://chatgpt.com/?q=Tableau+Show+me+the+Commission+Model+dashboard.+Also%2C+tell+me+who+is+above+100%25+attainment>)
+
+  * ### Explain metric changes
 
 Summarize changes in selected Pulse metrics and prioritize areas for investigation.
 
-### Compare category profitability
+Tableau Review my Pulse metrics for [business area] over the last month. Summarize the largest changes and available insights, and recommend which metrics need investigation with links to the sources.
+
+[(opens in a new window)](<https://chatgpt.com/?q=Tableau+Review+my+Pulse+metrics+for+%5Bbusiness+area%5D+over+the+last+month.+Summarize+the+largest+changes+and+available+insights%2C+and+recommend+which+metrics+need+investigation+with+links+to+the+sources.>)
+
+  * ### Compare category profitability
 
 Add a profit-ratio view to the Superstore workbook when workbook authoring is enabled.
 
-## Sample prompts
+Tableau Use the superstore workbook as a starting point, and add a new sheet showing profit ratio (profit / sales) by category.
 
-**@Tableau** Show me the Commission Model dashboard. Also, tell me who is above 100% attainment
+[(opens in a new window)](<https://chatgpt.com/?q=Tableau+Use+the+superstore+workbook+as+a+starting+point%2C+and+add+a+new+sheet+showing+profit+ratio+%28profit+%2F+sales%29+by+category.>)
 
-**@Tableau** Review my Pulse metrics for [business area] over the last month. Summarize the largest changes and available insights, and recommend which metrics need investigation with links to the sources.
 
-**@Tableau** Use the superstore workbook as a starting point, and add a new sheet showing profit ratio (profit / sales) by category.
+
+
+## What’s included
+
+### Skills
+
+  * tableau-about
+  * tableau-content-viewer
+  * Tableau Dashboard Advisor
+  * Tableau Data Quality Sentinel
+  * Tableau Viz Critique
+  * tableau-workbook-authoring
+
+
 
 ## Resources
 
-### [Help centerRead more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
+### [Help centerLearn more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
 
-### [Plugin supportRead more](<https://help.openai.com/en/articles/6614161-how-can-i-contact-support>)
+### [Plugin supportLearn more](<https://help.openai.com/en/articles/6614161-how-can-i-contact-support>)
 
-### [Privacy policyRead more](<https://www.salesforce.com/company/legal/privacy/>)
+### [Privacy policyLearn more](<https://www.salesforce.com/company/legal/privacy/>)
 
 ## Get started with plugins
 

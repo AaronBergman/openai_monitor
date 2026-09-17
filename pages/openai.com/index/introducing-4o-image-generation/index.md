@@ -759,8 +759,11 @@ Read more
 ![in-context-learning-prompt](//images.ctfassets.net/kftzwdyauwt9/3AwM2ExSPDwZfUmAP5Hdvh/f45a2e631e9dd442716700e66c74cb8b/in-context-learning-prompt.png?w=828&q=90&fm=webp)
 
   * draw a design for a vehicle with triangular wheels, using these images as reference.
+
   * label the front wheel, the back wheel, and at the of the diagram say (in small caps)
+
   * TRIANGLE WHEELED VEHICLE. English Patent. 2025. OPENAI.
+
 
 
 

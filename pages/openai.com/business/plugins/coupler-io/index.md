@@ -24,7 +24,9 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 [Contact sales](</contact-sales/>)Try OpenAI
 
-OpenAI[View all plugins](</business/plugins/>)
+OpenAI
+
+[Plugins](</business/plugins/>)
 
 ![](https://files.openai.com/content?id=file_000000004e58720cb8bbfc0978e3367e&cdn=1&cp=pi&ma=30758400&ts=0&p=pi&cid=1&sig=1b0376e78ef2e4f6f05a5b9bc138133fa5d468103e983c1f706341fe5f2293a7&v=0)![](https://files.openai.com/content?id=file_00000000c73081f7bf9eb20dcfc0bf64&cdn=1&cp=pi&ma=31363200&ts=0&p=pi&cid=8&sig=d62b12c0280b3d8053803e8a8fdf394b4f0e4e6c9bec46234bcbe8d3c1908747&v=0)
 
@@ -34,51 +36,65 @@ Connect and analyze data from 400+ apps.
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6939ea66e1588191af5f9d2a52964d19>)[Contact sales](</contact-sales/>)
 
+Category
+    [Data](</business/plugins/?tab=plugins-data-research>)
+
+Developer
+    Coupler.io
+
+Website
+    [(opens in a new window)](<https://www.coupler.io/>)
+
 [![](https://files.openai.com/content?id=file_0000000027d4720cb3c6276cd8072cbf&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=1&sig=a3508d050069b869a7ea64497552aa36b5fd8ae401dbbdece236011f58213604&v=0)Coupler.io Show overall spend, impressions, clicks, and CPC(opens in a new window)](<https://chatgpt.com/?prompt=%40Coupler.io+Show+overall+spend%2C+impressions%2C+clicks%2C+and+CPC>)
-
-Use case: [Data](</business/plugins/?tab=plugins-data-research>)
-
-Made by: Coupler.io
-
-Website: [coupler.io(opens in a new window)](<https://www.coupler.io/>)
 
 ## How it works
 
 Analyze multi-channel marketing, financial, sales, e-commerce, and other business data in ChatGPT by connecting to your Coupler.io data flows and fetching data from platforms like Google Ads, Facebook, HubSpot, and Salesforce using accurate, up-to-date information.
 
-### Get answers from live business data
+## Common use cases
+
+  * ### Get answers from live business data
 
 Ask questions about spend, revenue, pipeline, or cash flow and retrieve results from synced sources such as ads platforms, CRMs, and accounting tools.
 
-### Analyze cross-source datasets
+Coupler.io Using my synced data sources, what were revenue, ad spend, and gross profit last month? Break down by channel and highlight the largest drivers of change vs. the prior month.
+
+[(opens in a new window)](<https://chatgpt.com/?q=Coupler.io+Using+my+synced+data+sources%2C+what+were+revenue%2C+ad+spend%2C+and+gross+profit+last+month%3F+Break+down+by+channel+and+highlight+the+largest+drivers+of+change+vs.+the+prior+month.>)
+
+  * ### Analyze cross-source datasets
 
 Analyze consolidated datasets across marketing, sales, finance, and ecommerce platforms to review performance across multiple systems together.
 
-### Generate reports and summaries
+Coupler.io Combine the latest data from our ad platforms. Show a funnel view from spend, leads, opportunities‚ revenue, and call out drop-offs and likely causes.
+
+[(opens in a new window)](<https://chatgpt.com/?q=Coupler.io+Combine+the+latest+data+from+our+ad+platforms.+Show+a+funnel+view+from+spend%2C+leads%2C+opportunities%E2%80%9A+revenue%2C+and+call+out+drop-offs+and+likely+causes.>)
+
+  * ### Generate reports and summaries
 
 Generate reports and summaries such as pipeline views, ROI breakdowns, conversion rates, or profit comparisons using connected Coupler.io data.
 
-## Sample prompts
+Coupler.io Generate a weekly report with KPI table, trends, anomalies, and 3 recommended follow-ups. Include separate sections for marketing, sales pipeline, and finance.
 
-Answer revenue and spend questions
+[(opens in a new window)](<https://chatgpt.com/?q=Coupler.io+Generate+a+weekly+report+with+KPI+table%2C+trends%2C+anomalies%2C+and+3+recommended+follow-ups.+Include+separate+sections+for+marketing%2C+sales+pipeline%2C+and+finance.>)
 
-**@Coupler.io** Using my synced data sources, what were revenue, ad spend, and gross profit last month? Break down by channel and highlight the largest drivers of change vs. the prior month.
 
-Analyze funnel across platforms
 
-**@Coupler.io** Combine the latest data from our ad platforms. Show a funnel view from spend, leads, opportunities‚ revenue, and call out drop-offs and likely causes.
 
-Generate weekly performance report
+## What’s included
 
-**@Coupler.io** Generate a weekly report with KPI table, trends, anomalies, and 3 recommended follow-ups. Include separate sections for marketing, sales pipeline, and finance.
+### App
+
+  * ![](https://files.openai.com/content?id=file_000000004e58720cb8bbfc0978e3367e&cdn=1&cp=pi&ma=30758400&ts=0&p=pi&cid=1&sig=1b0376e78ef2e4f6f05a5b9bc138133fa5d468103e983c1f706341fe5f2293a7&v=0)Coupler.io
+
+
 
 ## Resources
 
-### [Help centerRead more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
+### [Help centerLearn more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
 
-### [Plugin supportRead more](<https://help.coupler.io/>)
+### [Plugin supportLearn more](<https://help.coupler.io/>)
 
-### [Privacy policyRead more](<https://www.coupler.io/privacy-policy>)
+### [Privacy policyLearn more](<https://www.coupler.io/privacy-policy>)
 
 ## Get started with plugins
 

@@ -28,7 +28,9 @@ OpenAI
 
 July 31, 2026
 
-# Disrupting a Criminal Scam Operation
+[Safety](</news/safety-alignment/>)
+
+# Disrupting a Cambodia-based criminal scam operation
 
 OpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes.
 
@@ -61,8 +63,11 @@ Although the narratives varied, users across the network consistently displayed 
 As we’ve highlighted [in⁠(opens in a new window)](<https://cdn.openai.com/threat-intelligence-reports/5f73af09-a3a3-4a55-992e-069237681620/disrupting-malicious-uses-of-ai-june-2025.pdf>) [previous⁠(opens in a new window)](<https://cdn.openai.com/threat-intelligence-reports/7d662b68-952f-4dfd-a2f2-fe55b041cc4a/disrupting-malicious-uses-of-ai-october-2025.pdf>) [reports⁠(opens in a new window)](<https://cdn.openai.com/pdf/df438d70-e3fe-4a6c-a403-ff632def8f79/disrupting-malicious-uses-of-ai.pdf>), the scammers followed a common pattern in their interactions with targets, which we think of as _the ping_ (outreach), _the zing_ (generate emotion), and _the sting_ (extract money).
 
   * **The ping:** The network used ChatGPT to translate and generate conversations with targets on messaging platforms such as WhatsApp and Telegram. Scammers also created social media content and researched dating profile material to support their fake personas.
+
   * **The zing:** Scammer messages frequently relied on emotional pressure and trust-building techniques. Examples included promises of guaranteed returns and “risk-free” investments, romantic language, instructions to keep conversations secret, and urgent requests for action before fictional bonuses expired.
+
   * **The sting:** The scammers instructed victims to make deposits to unlock purported rewards, pay activation fees, settle fictitious fines, and then provide screenshots of transfers or account information as proof of payment.
+
 
 
 
@@ -96,6 +101,12 @@ The full scale of financial losses associated with the network is unknown, but b
 
 More broadly, this case reinforces two trends. First, organized scam networks can be highly diversified, operating multiple fraud schemes simultaneously rather than narrowly adhering to a single scam type. Second, the boundaries between online fraud, organized crime, and human trafficking are often blurred. Effective disruption therefore requires targeting not just the victim-facing scam activity, but also the criminal organizations that orchestrate and profit from it.
 
+  * [Cambodia](</news/?tags=actor-origin-cambodia>)
+  * [Global](</news/?tags=target-geography-global-internet-users>)
+  * [Fraud & scams](</news/?tags=activity-type-fraud-scams>)
+
+
+
 ## Author
 
 OpenAI
@@ -110,6 +121,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)

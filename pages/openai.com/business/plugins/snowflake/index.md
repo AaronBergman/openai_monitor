@@ -24,7 +24,9 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 [Contact sales](</contact-sales/>)Try OpenAI
 
-OpenAI[View all plugins](</business/plugins/>)
+OpenAI
+
+[Plugins](</business/plugins/>)
 
 ![](https://files.openai.com/content?id=file_000000000f3081f7a148386e0036032a&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=23f27004207bf0063b44d64340b33c09de7704a5bb99b736cf24494db2663453&v=0)![](https://files.openai.com/content?id=file_000000000f3081f7a148386e0036032a&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=23f27004207bf0063b44d64340b33c09de7704a5bb99b736cf24494db2663453&v=0)
 
@@ -34,51 +36,60 @@ Ask governed analytics questions of Snowflake data.
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/Plugin_2af00ca970e88191b55798e3995f2aa3>)[Contact sales](</contact-sales/>)
 
+Capabilities
+    Interactive, Read, Write
+
+Category
+    [Data](</business/plugins/?tab=plugins-data-research>)
+
+Developer
+    OpenAI
+
+Website
+    [(opens in a new window)](<https://www.snowflake.com/>)
+
 [![](https://files.openai.com/content?id=file_00000000e8f081f796be3b17c9c53424&cdn=1&cp=pi&ma=30672000&ts=0&p=pi&cid=8&sig=27fc578a66c03b649cd8f6650181d46da30cb1043fbaf7fe4a3f9eed5661e5b7&v=0)Snowflake Using the revenue tables I can access, answer this question and show the SQL you used: [question](opens in a new window)](<https://chatgpt.com/?prompt=%40Snowflake+Using+the+revenue+tables+I+can+access%2C+answer+this+question+and+show+the+SQL+you+used%3A+%5Bquestion%5D>)[![](https://files.openai.com/content?id=file_00000000e8f081f796be3b17c9c53424&cdn=1&cp=pi&ma=30672000&ts=0&p=pi&cid=8&sig=27fc578a66c03b649cd8f6650181d46da30cb1043fbaf7fe4a3f9eed5661e5b7&v=0)Snowflake Review this SQL for correctness, explain what it calculates, and suggest a cleaner version if the logic can be simplified(opens in a new window)](<https://chatgpt.com/?prompt=%40Snowflake+Review+this+SQL+for+correctness%2C+explain+what+it+calculates%2C+and+suggest+a+cleaner+version+if+the+logic+can+be+simplified>)[![](https://files.openai.com/content?id=file_00000000e8f081f796be3b17c9c53424&cdn=1&cp=pi&ma=30672000&ts=0&p=pi&cid=8&sig=27fc578a66c03b649cd8f6650181d46da30cb1043fbaf7fe4a3f9eed5661e5b7&v=0)Snowflake Summarize the latest query results for leadership with key drivers, caveats, and 3 follow-up analyses to run next(opens in a new window)](<https://chatgpt.com/?prompt=%40Snowflake+Summarize+the+latest+query+results+for+leadership+with+key+drivers%2C+caveats%2C+and+3+follow-up+analyses+to+run+next>)
-
-Use case: [Data](</business/plugins/?tab=plugins-data-research>)
-
-Made by: OpenAI
-
-Website: [snowflake.com(opens in a new window)](<https://www.snowflake.com/>)
 
 ## How it works
 
 Connect Snowflake data to ChatGPT to ask business questions, inspect schemas, generate SQL, summarize query results, and turn governed warehouse data into reusable analysis.
 
-### Ask governed data questions
+## Common use cases
+
+  * ### Ask governed data questions
 
 Use natural language to explore Snowflake tables and metrics, with answers grounded in the data users are authorized to access.
 
-### Generate SQL and explain results
+Snowflake Using the revenue tables I can access, answer this question and show the SQL you used: [question].
+
+[(opens in a new window)](<https://chatgpt.com/?q=Snowflake+Using+the+revenue+tables+I+can+access%2C+answer+this+question+and+show+the+SQL+you+used%3A+%5Bquestion%5D.>)
+
+  * ### Generate SQL and explain results
 
 Draft queries, review logic, and summarize result sets so analysts move faster while keeping calculations inspectable.
 
-### Create reusable analysis assets
+Snowflake Review this SQL for correctness, explain what it calculates, and suggest a cleaner version if the logic can be simplified.
+
+[(opens in a new window)](<https://chatgpt.com/?q=Snowflake+Review+this+SQL+for+correctness%2C+explain+what+it+calculates%2C+and+suggest+a+cleaner+version+if+the+logic+can+be+simplified.>)
+
+  * ### Create reusable analysis assets
 
 Turn Snowflake findings into charts, dashboards, notebooks, reports, or stakeholder-ready summaries with source context.
 
-## Sample prompts
+Snowflake Summarize the latest query results for leadership with key drivers, caveats, and 3 follow-up analyses to run next.
 
-Answer business data question
+[(opens in a new window)](<https://chatgpt.com/?q=Snowflake+Summarize+the+latest+query+results+for+leadership+with+key+drivers%2C+caveats%2C+and+3+follow-up+analyses+to+run+next.>)
 
-**@Snowflake** Using the revenue tables I can access, answer this question and show the SQL you used: [question].
 
-Review query logic
 
-**@Snowflake** Review this SQL for correctness, explain what it calculates, and suggest a cleaner version if the logic can be simplified.
-
-Create executive summary
-
-**@Snowflake** Summarize the latest query results for leadership with key drivers, caveats, and 3 follow-up analyses to run next.
 
 ## Resources
 
-### [Help centerRead more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
+### [Help centerLearn more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
 
-### [Plugin supportRead more](<https://docs.snowflake.com/>)
+### [Plugin supportLearn more](<https://docs.snowflake.com/>)
 
-### [Privacy policyRead more](<https://www.snowflake.com/en/legal/privacy/privacy-statement/>)
+### [Privacy policyLearn more](<https://www.snowflake.com/en/legal/privacy/privacy-statement/>)
 
 ## Get started with plugins
 

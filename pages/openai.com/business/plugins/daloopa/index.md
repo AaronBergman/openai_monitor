@@ -24,7 +24,9 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 [Contact sales](</contact-sales/>)Try OpenAI
 
-OpenAI[View all plugins](</business/plugins/>)
+OpenAI
+
+[Plugins](</business/plugins/>)
 
 ![](https://files.openai.com/content?id=file_00000000af747230bc1606d46c839ee8&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=1&sig=c8a8bc6383ae28c34005525b223aab157382f62b2c5ff707b76f4a38b1b33e32&v=0)![](https://files.openai.com/content?id=file_00000000af747230bc1606d46c839ee8&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=1&sig=c8a8bc6383ae28c34005525b223aab157382f62b2c5ff707b76f4a38b1b33e32&v=0)
 
@@ -34,49 +36,77 @@ Access financial KPIs with source links.
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_692f6343042c8191b6617e8352444692>)[Contact sales](</contact-sales/>)
 
-Use case: [Finance](</business/plugins/?tab=plugins-finance>) and [Data](</business/plugins/?tab=plugins-data-research>)
+Category
+    [Finance](</business/plugins/?tab=plugins-finance>)
 
-Made by: Daloopa, Inc.
+Developer
+    Daloopa, Inc.
 
-Website: [daloopa.com(opens in a new window)](<https://daloopa.com/>)
+Website
+    [(opens in a new window)](<https://daloopa.com/>)
 
 ## How it works
 
 Access verified financial fundamentals and KPIs with direct source links in ChatGPT to support analysis, benchmarking, and modeling across public companies.
 
-### Accelerate financial data collection
+## Common use cases
+
+  * ### Accelerate financial data collection
 
 Retrieve verified fundamentals and KPIs with source links so models and analyses can use reliable data without manual data gathering.
 
-### Improve data reliability
+Daloopa Pull the last 5 years of revenue gross margin, operating margin, and FCF for Apple with source links.
+
+[(opens in a new window)](<https://chatgpt.com/?q=Daloopa+Pull+the+last+5+years+of+revenue+gross+margin%2C+operating+margin%2C+and+FCF+for+Apple+with+source+links.>)
+
+  * ### Improve data reliability
 
 Use verified, source-linked data to validate assumptions, compare peers, and review trends using consistent financial fundamentals.
 
-### Scale advanced financial workflows
+Daloopa Summarize the trend in unit economics for this company and point to the primary sources behind each metric.
+
+[(opens in a new window)](<https://chatgpt.com/?q=Daloopa+Summarize+the+trend+in+unit+economics+for+this+company+and+point+to+the+primary+sources+behind+each+metric.>)
+
+  * ### Scale advanced financial workflows
 
 Use structured fundamentals and KPIs to support benchmarking, valuation work, and other financial workflows across research teams.
 
-## Sample prompts
+Daloopa Create a quick benchmarking snapshot I can paste into an IC deck with the most decision relevant KPIs.
 
-Find key financials and pull highlights
+[(opens in a new window)](<https://chatgpt.com/?q=Daloopa+Create+a+quick+benchmarking+snapshot+I+can+paste+into+an+IC+deck+with+the+most+decision+relevant+KPIs.>)
 
-**@Daloopa** Pull the last 5 years of revenue gross margin, operating margin, and FCF for Apple with source links.
 
-Summarize unit economics with key takeaways
 
-**@Daloopa** Summarize the trend in unit economics for this company and point to the primary sources behind each metric.
 
-Create benchmark snapshot with key details
+## What’s included
 
-**@Daloopa** Create a quick benchmarking snapshot I can paste into an IC deck with the most decision relevant KPIs.
+### App
+
+  * ![](https://files.openai.com/content?id=file_00000000af747230bc1606d46c839ee8&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=1&sig=c8a8bc6383ae28c34005525b223aab157382f62b2c5ff707b76f4a38b1b33e32&v=0)Daloopa
+
+
+
+### Skills
+
+  * Build Model
+  * Bull Bear
+  * Capital Allocation
+  * Comp Sheet
+  * Comps
+  * DCF
+  * Earnings Flash
+  * Earnings Prep
+  * 13 more
+
+
 
 ## Resources
 
-### [Help centerRead more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
+### [Help centerLearn more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
 
-### [Plugin supportRead more](<https://daloopa.ai/support>)
+### [Plugin supportLearn more](<https://daloopa.ai/support>)
 
-### [Privacy policyRead more](<https://daloopa.ai/privacy>)
+### [Privacy policyLearn more](<https://daloopa.ai/privacy>)
 
 ## Get started with plugins
 

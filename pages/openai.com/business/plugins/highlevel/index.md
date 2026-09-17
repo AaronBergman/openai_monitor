@@ -24,7 +24,9 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 [Contact sales](</contact-sales/>)Try OpenAI
 
-OpenAI[View all plugins](</business/plugins/>)
+OpenAI
+
+[Plugins](</business/plugins/>)
 
 ![](https://files.openai.com/content?id=file_0000000061a871f68140faf1037004cb&cdn=1&cp=pi&ma=31536000&ts=0&p=pi&cid=1&sig=b69c702ca391a3df6bd3fedfb2f21ce65b3f8694d7d27029410cb9ebc1e58215)![](https://files.openai.com/content?id=file_0000000061a871f68140faf1037004cb&cdn=1&cp=pi&ma=31536000&ts=0&p=pi&cid=1&sig=b69c702ca391a3df6bd3fedfb2f21ce65b3f8694d7d27029410cb9ebc1e58215)
 
@@ -34,51 +36,65 @@ Interact with your CRM business data.
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69402343886881919c40ceb13a6ea1c2>)[Contact sales](</contact-sales/>)
 
+Category
+    [Operations](</business/plugins/?tab=plugins-operations>)
+
+Developer
+    HighLevel
+
+Website
+    [(opens in a new window)](<https://www.gohighlevel.com>)
+
 [![](https://files.openai.com/content?id=file_00000000d1f8720cba3022968ab73596&cdn=1&cp=pi&ma=31536000&ts=0&p=pi&cid=1&sig=f0ed88b0bcf4825b2256c341201ce481bd05322719f20eb08ad6d89aff9f0ee4&v=0)HighLevel Give me overview of how things have been(opens in a new window)](<https://chatgpt.com/?prompt=%40HighLevel+Give+me+overview+of+how+things+have+been>)
-
-Use case: [Operations](</business/plugins/?tab=plugins-operations>)
-
-Made by: HighLevel
-
-Website: [gohighlevel.com(opens in a new window)](<https://www.gohighlevel.com>)
 
 ## How it works
 
 Securely bring HighLevel CRM data into ChatGPT to review contacts, opportunities, appointments, and conversations and generate summaries from live records.
 
-### Query CRM records
+## Common use cases
+
+  * ### Query CRM records
 
 Ask questions about contacts, opportunities, appointments, or conversations and retrieve results directly from live HighLevel CRM data.
 
-### Review pipeline and activity
+HighLevel Show contacts added in the last 14 days and upcoming appointments in the next 7 days. Highlight any no-shows or missed follow-ups.
+
+[(opens in a new window)](<https://chatgpt.com/?q=HighLevel+Show+contacts+added+in+the+last+14+days+and+upcoming+appointments+in+the+next+7+days.+Highlight+any+no-shows+or+missed+follow-ups.>)
+
+  * ### Review pipeline and activity
 
 Review opportunities, deal stages, values, and recent activity to understand pipeline status and sales interactions.
 
-### Summarize CRM information
+HighLevel Summarize the pipeline by stage with counts and total value. For deals stalled >14 days, list the last activity and recommended next step.
+
+[(opens in a new window)](<https://chatgpt.com/?q=HighLevel+Summarize+the+pipeline+by+stage+with+counts+and+total+value.+For+deals+stalled+%3E14+days%2C+list+the+last+activity+and+recommended+next+step.>)
+
+  * ### Summarize CRM information
 
 Turn CRM records into clear summaries and context for follow-ups, reviews, or internal discussions using HighLevel data.
 
-## Sample prompts
+HighLevel For this opportunity, summarize recent conversations, deal status, last touch, and suggested next message based on the record history.
 
-Query contacts and appointments
+[(opens in a new window)](<https://chatgpt.com/?q=HighLevel+For+this+opportunity%2C+summarize+recent+conversations%2C+deal+status%2C+last+touch%2C+and+suggested+next+message+based+on+the+record+history.>)
 
-**@HighLevel** Show contacts added in the last 14 days and upcoming appointments in the next 7 days. Highlight any no-shows or missed follow-ups.
 
-Review pipeline health and activity
 
-**@HighLevel** Summarize the pipeline by stage with counts and total value. For deals stalled >14 days, list the last activity and recommended next step.
 
-Generate follow-up context summary
+## What’s included
 
-**@HighLevel** For this opportunity, summarize recent conversations, deal status, last touch, and suggested next message based on the record history.
+### App
+
+  * ![](https://files.openai.com/content?id=file_0000000061a871f68140faf1037004cb&cdn=1&cp=pi&ma=31536000&ts=0&p=pi&cid=1&sig=b69c702ca391a3df6bd3fedfb2f21ce65b3f8694d7d27029410cb9ebc1e58215)HighLevel
+
+
 
 ## Resources
 
-### [Help centerRead more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
+### [Help centerLearn more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
 
-### [Plugin supportRead more](<https://help.gohighlevel.com/>)
+### [Plugin supportLearn more](<https://help.gohighlevel.com/>)
 
-### [Privacy policyRead more](<https://www.gohighlevel.com/privacy-policy>)
+### [Privacy policyLearn more](<https://www.gohighlevel.com/privacy-policy>)
 
 ## Get started with plugins
 

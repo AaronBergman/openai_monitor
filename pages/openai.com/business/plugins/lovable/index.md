@@ -24,7 +24,9 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 [Contact sales](</contact-sales/>)Try OpenAI
 
-OpenAI[View all plugins](</business/plugins/>)
+OpenAI
+
+[Plugins](</business/plugins/>)
 
 ![](https://files.openai.com/content?id=file_00000000b4ec71f6ab8c69f2f285f74b&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=1&sig=20498371312886c59f32c51971b7921d0f0181ec2c93ce77a7bbcc652b6e8d97)![](https://files.openai.com/content?id=file_00000000b4ec71f6ab8c69f2f285f74b&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=1&sig=20498371312886c59f32c51971b7921d0f0181ec2c93ce77a7bbcc652b6e8d97)
 
@@ -34,51 +36,65 @@ Build apps and websites.
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_693a0a79ffe48191901173077edcf914>)[Contact sales](</contact-sales/>)
 
+Category
+    [Engineering & IT](</business/plugins/?tab=plugins-engineering-it>)
+
+Developer
+    Lovable Labs
+
+Website
+    [(opens in a new window)](<https://lovable.dev/>)
+
 [![](https://files.openai.com/content?id=file_00000000ce1481f498743ded8b95df09&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=8&sig=0d491067c970a89e695e62641b1852eb6905ebf6ae197806a2337959684bd2c5&v=0)Lovable build me an AI-powered customer support app(opens in a new window)](<https://chatgpt.com/?prompt=%40Lovable+build+me+an+AI-powered+customer+support+app>)[![](https://files.openai.com/content?id=file_00000000ce1481f498743ded8b95df09&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=8&sig=0d491067c970a89e695e62641b1852eb6905ebf6ae197806a2337959684bd2c5&v=0)Lovable build me an AI-powered coaching app(opens in a new window)](<https://chatgpt.com/?prompt=%40Lovable+build+me+an+AI-powered+coaching+app>)[![](https://files.openai.com/content?id=file_00000000ce1481f498743ded8b95df09&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=8&sig=0d491067c970a89e695e62641b1852eb6905ebf6ae197806a2337959684bd2c5&v=0)Lovable build me an marketing campaign planner(opens in a new window)](<https://chatgpt.com/?prompt=%40Lovable+build+me+an+marketing+campaign+planner>)
-
-Use case: [Engineering & IT](</business/plugins/?tab=plugins-engineering-it>)
-
-Made by: Lovable Labs
-
-Website: [lovable.dev(opens in a new window)](<https://lovable.dev/>)
 
 ## How it works
 
 Create functional apps and websites in ChatGPT by describing what you want and iterating on the result through natural language.
 
-### Generate apps and websites from a prompt
+## Common use cases
+
+  * ### Generate apps and websites from a prompt
 
 Describe an idea or workflow and generate a functional app or website based on your prompt.
 
-### Iterate with natural language
+Lovable Build a simple appointment booking web app for a small clinic with availability calendar and confirmation emails.
+
+[(opens in a new window)](<https://chatgpt.com/?q=Lovable+Build+a+simple+appointment+booking+web+app+for+a+small+clinic+with+availability+calendar+and+confirmation+emails.>)
+
+  * ### Iterate with natural language
 
 Refine apps and websites by asking for changes to layout, behavior, or content using follow-up prompts.
 
-### Create without technical experience
+Lovable Take the app you generated and add authentication with admin and staff roles plus a basic audit log.
+
+[(opens in a new window)](<https://chatgpt.com/?q=Lovable+Take+the+app+you+generated+and+add+authentication+with+admin+and+staff+roles+plus+a+basic+audit+log.>)
+
+  * ### Create without technical experience
 
 Build apps and websites without writing code or having prior technical experience.
 
-## Sample prompts
+Lovable Add a dashboard page with charts and filters and make sure the data refresh is efficient.
 
-Create app prototype with next steps
+[(opens in a new window)](<https://chatgpt.com/?q=Lovable+Add+a+dashboard+page+with+charts+and+filters+and+make+sure+the+data+refresh+is+efficient.>)
 
-**@Lovable** Build a simple appointment booking web app for a small clinic with availability calendar and confirmation emails.
 
-Review authentication and flag risks
 
-**@Lovable** Take the app you generated and add authentication with admin and staff roles plus a basic audit log.
 
-Create dashboard with key details
+## What’s included
 
-**@Lovable** Add a dashboard page with charts and filters and make sure the data refresh is efficient.
+### App
+
+  * ![](https://files.openai.com/content?id=file_00000000b4ec71f6ab8c69f2f285f74b&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=1&sig=20498371312886c59f32c51971b7921d0f0181ec2c93ce77a7bbcc652b6e8d97)Lovable
+
+
 
 ## Resources
 
-### [Help centerRead more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
+### [Help centerLearn more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
 
-### [Plugin supportRead more](<https://lovable.ai/support>)
+### [Plugin supportLearn more](<https://lovable.ai/support>)
 
-### [Privacy policyRead more](<https://lovable.ai/privacy>)
+### [Privacy policyLearn more](<https://lovable.ai/privacy>)
 
 ## Get started with plugins
 

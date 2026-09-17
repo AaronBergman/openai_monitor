@@ -63,10 +63,15 @@ With [GPT‑5.6](</index/gpt-5-6/>), we’re pushing the frontier on what our mo
 When speed no longer requires giving up intelligence, AI can move into the most time-sensitive parts of a business and new kinds of work become possible. We’ve already seen some encouraging scenarios for Ultrafast:
 
   * **Incident response and reliability:** When a critical system fails, analyze application logs, recent code changes, and engineer reports to identify the likely cause and help prepare a fix while the outage is still unfolding.
+
   * **Financial research and security:** Analyze market signals, assess transactions, and identify suspicious activity while conditions are still changing.
+
   * **Customer support and voice:** Resolve complex customer issues in real time without interrupting the conversation, even when finding the answer requires multiple steps or systems.
+
   * **Commerce:** Answer product questions, check inventory, personalize recommendations, and resolve checkout issues while the shopper is still deciding, before hesitation becomes an abandoned cart.
+
   * **Live research and experimentation:** Turn research that previously took an overnight run into an interactive working session, letting teams test an idea, examine the results, adjust their approach, and run another experiment without breaking their flow.
+
 
 
 
@@ -143,17 +148,17 @@ OpenAI
 
 [View all](</news/>)
 
+![Reimagining advertising with AI — Card cover](https://images.ctfassets.net/kftzwdyauwt9/fHwkKLVG8WFHvuUPqMXtz/1c49ba0859fe1e1e21f5d64f692490f5/reimagining-advertising-with-ai-cover.png?w=3840&q=90&fm=webp)
+
+[Reimagining advertising with AIProductSep 16, 2026](</index/reimagining-advertising-with-ai/>)
+
+![How to connect AI usage to business value — art card](https://images.ctfassets.net/kftzwdyauwt9/36T42HPkipcJAs08yNirmR/f73d9408ef4f0b08b5cce3b839656843/cover-018.png?w=3840&q=90&fm=webp)
+
+[How to connect AI usage to business valueProductSep 16, 2026](</index/how-to-connect-ai-usage-to-business-value/>)
+
 ![Now everyone can put data to work — card image](https://images.ctfassets.net/kftzwdyauwt9/6FhMXOSe8XadGwEUev6QjJ/916a64d20bcc59b8619fea1827fa6bd3/put-data-to-work--cover-v001.png?w=3840&q=90&fm=webp)
 
 [Now everyone can put data to workProductSep 10, 2026](</index/put-data-to-work/>)
-
-![FinServ Blog - Art Card Texture Square](https://images.ctfassets.net/kftzwdyauwt9/6Bcg403pebiJhQdHUS17FK/572e478dc4579deca27c9700c662e908/finserv-art-card.png?w=3840&q=90&fm=webp)
-
-[Introducing ChatGPT for Financial ServicesProductSep 10, 2026](</index/introducing-chatgpt-financial-services/>)
-
-![GPT-Live-1 API | Green-blue cover | Option 038](https://images.ctfassets.net/kftzwdyauwt9/1uBabEULLfw3Vb2Gldmyyq/c19c1c121ca403ee8b2703cba18ef82d/introducing-gpt-live-1-green-cover.png?w=3840&q=90&fm=webp)
-
-[Build more natural voice experiences with GPT‑Live‑1 in the APIProductSep 10, 2026](</index/introducing-gpt-live-1-in-the-api/>)
 
 Research
 

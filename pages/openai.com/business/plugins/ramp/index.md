@@ -24,7 +24,9 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 [Contact sales](</contact-sales/>)Try OpenAI
 
-OpenAI[View all plugins](</business/plugins/>)
+OpenAI
+
+[Plugins](</business/plugins/>)
 
 ![](https://files.openai.com/content?id=file_00000000a9cc722fb923cc9523b65b7d&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=1&sig=3dfed128f0bb03d09bf162a2dc55fbe09a77b2bb881e6dda9588c139623cb79f&v=0)![](https://files.openai.com/content?id=file_00000000ae1881f78cb19e9602da73eb&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=e6620dc8efa5f7ff134320dd09ead486087108035fdad05773799d910563ee89&v=0)
 
@@ -34,51 +36,73 @@ Automate finance tasks.
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69250fb6281c819195b52a1556b0060c>)[Contact sales](</contact-sales/>)
 
+Category
+    [Finance](</business/plugins/?tab=plugins-finance>)
+
+Developer
+    Ramp
+
+Website
+    [(opens in a new window)](<https://ramp.com/>)
+
 [![](https://files.openai.com/content?id=file_00000000a9cc722fb923cc9523b65b7d&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=1&sig=3dfed128f0bb03d09bf162a2dc55fbe09a77b2bb881e6dda9588c139623cb79f&v=0)![](https://files.openai.com/content?id=file_00000000ae1881f78cb19e9602da73eb&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=e6620dc8efa5f7ff134320dd09ead486087108035fdad05773799d910563ee89&v=0)Ramp Show me what needs my attention in Ramp(opens in a new window)](<https://chatgpt.com/?prompt=%40Ramp+Show+me+what+needs+my+attention+in+Ramp>)
-
-Use case: [Finance](</business/plugins/?tab=plugins-finance>)
-
-Made by: Ramp
-
-Website: [ramp.com(opens in a new window)](<https://ramp.com/>)
 
 ## How it works
 
 Connect your Ramp account to ChatGPT to manage company finances through natural conversation, with permission-based access for finance teams and employees.
 
-### Analyze company spend
+## Common use cases
+
+  * ### Analyze company spend
 
 Analyze spend trends, query transactions, vendors, and budgets, and review top expenses using Ramp data directly in ChatGPT.
 
-### Handle employee expense tasks
+Ramp Analyze our company spend over the last 90 days. Break down totals by category, department, and vendor, and call out the biggest increases vs. the prior 90 days.
+
+[(opens in a new window)](<https://chatgpt.com/?q=Ramp+Analyze+our+company+spend+over+the+last+90+days.+Break+down+totals+by+category%2C+department%2C+and+vendor%2C+and+call+out+the+biggest+increases+vs.+the+prior+90+days.>)
+
+  * ### Handle employee expense tasks
 
 Check card balances, activate cards, add transaction memos, request reimbursements, and get policy answers using connected Ramp data.
 
-### Work with permission-based access
+Ramp What is my current card balance, available limit, and any pending transactions? Summarize what's driving my spend this month.
+
+[(opens in a new window)](<https://chatgpt.com/?q=Ramp+What+is+my+current+card+balance%2C+available+limit%2C+and+any+pending+transactions%3F+Summarize+what%27s+driving+my+spend+this+month.>)
+
+  * ### Work with permission-based access
 
 Use permission-based access so employees see only their data, while finance teams and admins can review company-wide spend and analytics.
 
-## Sample prompts
+Ramp As a finance admin, summarize company-wide spend this month by department and flag any outliers. Also confirm what spend data a standard employee can and cannot see.
 
-Analyze spend trends by category
+[(opens in a new window)](<https://chatgpt.com/?q=Ramp+As+a+finance+admin%2C+summarize+company-wide+spend+this+month+by+department+and+flag+any+outliers.+Also+confirm+what+spend+data+a+standard+employee+can+and+cannot+see.>)
 
-**@Ramp** Analyze our company spend over the last 90 days. Break down totals by category, department, and vendor, and call out the biggest increases vs. the prior 90 days.
 
-Check card balance and limits
 
-**@Ramp** What is my current card balance, available limit, and any pending transactions? Summarize what's driving my spend this month.
 
-Review team spend with permissions
+## What’s included
 
-**@Ramp** As a finance admin, summarize company-wide spend this month by department and flag any outliers. Also confirm what spend data a standard employee can and cannot see.
+### App
+
+  * connector_69250fb6281c819195b52a1556b0060c
+
+
+
+### Skills
+
+  * Ramp Approval Dashboard
+  * Get Started With Ramp
+  * Ramp Spend Analysis
+
+
 
 ## Resources
 
-### [Help centerRead more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
+### [Help centerLearn more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
 
-### [Plugin supportRead more](<https://ramp.com/support>)
+### [Plugin supportLearn more](<https://ramp.com/support>)
 
-### [Privacy policyRead more](<https://ramp.com/legal/privacy-policy>)
+### [Privacy policyLearn more](<https://ramp.com/legal/privacy-policy>)
 
 ## Get started with plugins
 

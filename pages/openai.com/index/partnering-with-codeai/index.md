@@ -55,10 +55,15 @@ This partnership coincides with the launch of ChatGPT for Teens, a dedicated exp
 Over the next year, OpenAI and CodeAI will focus on practical programs that help students understand AI, use it with care, and explore how it can support learning and creativity.
 
   * **Creating a continuous feedback loop for responsible AI innovation.** OpenAI and CodeAI will establish a joint advisory council that will bring together experts and leaders on child development, youth public policy, and learning science. The council will provide ongoing guidance on emerging risks, responsible AI practices, and evolving educational needs, helping to shape the future development of ChatGPT for Teens.
+
   * **Helping students build foundational AI literacy.** Through the [Hour of AI⁠(opens in a new window)](<https://code.org/hour-of-ai>), OpenAI and CodeAI will introduce millions of students to the basics of using AI thoughtfully and responsibly.
+
   * **Inspiring the next generation of builders.** Through the first-ever Builders Challenge, high school students will have the opportunity to create with AI, receive mentorship from OpenAI team members, and showcase their work on a national stage alongside the teachers who support them.
+
   * **Supporting classroom learning.** OpenAI’s experts in AI systems, safety, and responsible use will be a resource that CodeAI can consult as they further develop [AI Foundations⁠(opens in a new window)](<https://code.org/en-US/curriculum/artificial-intelligence-foundations>), CodeAI’s free, year-long high school course.
+
   * **Making careers with AI more accessible.** Through Career Journeys, students will hear directly from OpenAI researchers, engineers, and leaders about how they work with AI to shape it, helping them see themselves as future builders, creators, and innovators.
+
 
 
 

@@ -70,11 +70,17 @@ We must also be open to risks that do not originate with malicious humans. The r
 The following broad principles—a non-exhaustive list—will help guide our work as we grapple with the inquiry we have set forth above:
 
   * Humans should maintain individual autonomy and opportunity in their use of AI and associated technologies, even if this sometimes trades off with both security and economic growth;
+
   * Individual autonomy depends upon individual _responsibility_ for misuse or abuse of technology;
+
   * There is a small but serious category of risks which requires some degree of collective action, and this collective action should be scoped to be as narrow and modest as possible;
+
   * Whenever possible, law should seek to level the playing field and empower individuals and small organizations rather than centralizing power;
+
   * Human political, social, and economic institutions should retain primacy in the direction of world affairs, even if they have to evolve in ways that may seem alien to us today;
+
   * Long-run AI governance will rely upon new institutional mechanisms to achieve _bounded legibility_ —when AI systems engage in high-stakes actions affecting the physical wellbeing or property of bystanders, those actions must be able to be tied back to a responsible human or human-controlled organization. Yet any such mechanisms _must_ be designed with privacy at the core; free expression requires anonymity, and humans should be free to use AI anonymously in many settings.
+
 
 
 

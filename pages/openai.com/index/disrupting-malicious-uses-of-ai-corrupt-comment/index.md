@@ -28,6 +28,8 @@ OpenAI
 
 October 1, 2024
 
+[Safety](</news/safety-alignment/>)
+
 # Corrupt Comment: Anti-corruption foundation criticism
 
 OpenAI banned accounts using AI to generate comments criticizing a Russian anti-corruption foundation and related figures.
@@ -64,6 +66,11 @@ _Three tweets by one of this operation’s accounts on June 24, all replying to 
 
 We identified this operation’s activity on X. Most of the accounts we identified had zero followers, and most of its accounts had zero replies. Its English-language replies to any one comment were usually outnumbered by Russian-language replies from third parties unrelated to this network, indicating that it had not drowned out the conversation, if that had been the intention. Using the Breakout Scale to assess the impact of IO, which rates them on a scale of 1 (lowest) to 6 (highest), we would assess the activity that was related to the use of our models as being.
 
+  * [Russia](</news/?tags=target-geography-russia>)
+  * [Influence operations](</news/?tags=activity-type-influence-operations>)
+
+
+
 ## Author
 
 OpenAI
@@ -78,6 +85,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
