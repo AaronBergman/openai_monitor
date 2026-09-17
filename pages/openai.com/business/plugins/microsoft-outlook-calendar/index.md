@@ -24,7 +24,9 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 [Contact sales](</contact-sales/>)Try OpenAI
 
-OpenAI[View all plugins](</business/plugins/>)
+OpenAI
+
+[Plugins](</business/plugins/>)
 
 ![](https://files.openai.com/content?id=file_000000002700722fa321dfd1a3710fc6&cdn=1&cp=pi&ma=32486400&ts=0&p=pi&cid=1&sig=1a95085af00317282f9ed2413840f1f88ec348d875db324b791570e026721710&v=0)![](https://files.openai.com/content?id=file_000000002700722fa321dfd1a3710fc6&cdn=1&cp=pi&ma=32486400&ts=0&p=pi&cid=1&sig=1a95085af00317282f9ed2413840f1f88ec348d875db324b791570e026721710&v=0)
 
@@ -34,51 +36,68 @@ Look up events and availability.
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_1p_fd0f4f41caa88191a9456514bbffa06d>)[Contact sales](</contact-sales/>)
 
+Capabilities
+    Interactive, Write
+
+Category
+    [Productivity](</business/plugins/?tab=plugins-productivity>)
+
+Developer
+    OpenAI
+
+Website
+    [(opens in a new window)](<https://www.microsoft.com/en-us/microsoft-365/outlook/calendar-app>)
+
 [![](https://files.openai.com/content?id=file_0000000020b881f79f64b17a38166052&cdn=1&cp=pi&ma=31536000&ts=0&p=pi&cid=8&sig=b8f7532209deaf547f86f6b5f11dce2f08e67cb229e8989a169b147cdaef7fec&v=0)Outlook Calendar For my next 3 meetings today, generate short prep notes: attendees, likely goals, and questions I should ask(opens in a new window)](<https://chatgpt.com/?prompt=%40Outlook+Calendar+For+my+next+3+meetings+today%2C+generate+short+prep+notes%3A+attendees%2C+likely+goals%2C+and+questions+I+should+ask>)[![](https://files.openai.com/content?id=file_0000000020b881f79f64b17a38166052&cdn=1&cp=pi&ma=31536000&ts=0&p=pi&cid=8&sig=b8f7532209deaf547f86f6b5f11dce2f08e67cb229e8989a169b147cdaef7fec&v=0)Outlook Calendar Build a weekly plan: group my meetings by theme (customer, internal, hiring, ops) and suggest slots for focus time(opens in a new window)](<https://chatgpt.com/?prompt=%40Outlook+Calendar+Build+a+weekly+plan%3A+group+my+meetings+by+theme+%28customer%2C+internal%2C+hiring%2C+ops%29+and+suggest+slots+for+focus+time>)[![](https://files.openai.com/content?id=file_0000000020b881f79f64b17a38166052&cdn=1&cp=pi&ma=31536000&ts=0&p=pi&cid=8&sig=b8f7532209deaf547f86f6b5f11dce2f08e67cb229e8989a169b147cdaef7fec&v=0)Outlook Calendar Find this week's calendar conflicts. Suggest meetings to delegate, decline, or shorten, and draft a message for each(opens in a new window)](<https://chatgpt.com/?prompt=%40Outlook+Calendar+Find+this+week%27s+calendar+conflicts.+Suggest+meetings+to+delegate%2C+decline%2C+or+shorten%2C+and+draft+a+message+for+each>)
-
-Use case: [Productivity](</business/plugins/?tab=plugins-productivity>)
-
-Made by: OpenAI
-
-Website: [microsoft.com(opens in a new window)](<https://www.microsoft.com/en-us/microsoft-365/outlook/calendar-app>)
 
 ## How it works
 
 Review your Outlook calendar events and email threads to prepare for calls, revisit past conversations, surface upcoming meetings, or pull out action items.
 
-### Prepare efficiently for upcoming meetings
+## Common use cases
+
+  * ### Prepare efficiently for upcoming meetings
 
 Generate agendas and talking points using attendee lists, past interactions, and related notes so teams arrive aligned and spend less time spent gathering context.
 
-### Improve schedule visibility and prioritization
+Outlook Calendar For my next 3 meetings today, generate short prep notes: attendees, likely goals, and questions I should ask.
+
+[(opens in a new window)](<https://chatgpt.com/?q=Outlook+Calendar+For+my+next+3+meetings+today%2C+generate+short+prep+notes%3A+attendees%2C+likely+goals%2C+and+questions+I+should+ask.>)
+
+  * ### Improve schedule visibility and prioritization
 
 Review upcoming events, identify conflicts, and highlight critical sessions, enabling you to plan days around the highest-value engagements.
 
-### Clarify actions tied to prior meetings
+Outlook Calendar Review my calendar for conflicts this week and recommend which meetings to delegate, decline, or shorten, with a suggested message each.
+
+[(opens in a new window)](<https://chatgpt.com/?q=Outlook+Calendar+Review+my+calendar+for+conflicts+this+week+and+recommend+which+meetings+to+delegate%2C+decline%2C+or+shorten%2C+with+a+suggested+message+each.>)
+
+  * ### Clarify actions tied to prior meetings
 
 Summarize past sessions to extract decisions and next steps, ensuring continuity across recurring reviews, project check-ins, and customer calls.
 
-## Sample prompts
+Outlook Calendar Use the event details and related email threads for my latest [project] check-in to summarize documented decisions, open questions, and next steps with owners.
 
-Create prep notes for meetings
+[(opens in a new window)](<https://chatgpt.com/?q=Outlook+Calendar+Use+the+event+details+and+related+email+threads+for+my+latest+%5Bproject%5D+check-in+to+summarize+documented+decisions%2C+open+questions%2C+and+next+steps+with+owners.>)
 
-**@Outlook Calendar** For my next 3 meetings today, generate short prep notes: attendees, likely goals, and questions I should ask.
 
-Create plan with next steps included
 
-**@Outlook Calendar** Review my calendar for conflicts this week and recommend which meetings to delegate, decline, or shorten, with a suggested message each.
 
-Review calendar for conflicts
+## What’s included
 
-**@Outlook Calendar** Use the event details and related email threads for my latest [project] check-in to summarize documented decisions, open questions, and next steps with owners.
+### App
+
+  * ![](https://chatgpt.com/images/ecosystem/apps/microsoft_outlook_calendar/icon.png)Microsoft Outlook Calendar
+
+
 
 ## Resources
 
-### [Help centerRead more](<https://help.openai.com/en/articles/12512241-outlook-email-and-calendar-connectors-for-chatgpt>)
+### [Help centerLearn more](<https://help.openai.com/en/articles/12512241-outlook-email-and-calendar-connectors-for-chatgpt>)
 
-### [Plugin supportRead more](<https://support.microsoft.com/outlook>)
+### [Plugin supportLearn more](<https://support.microsoft.com/outlook>)
 
-### [Privacy policyRead more](<https://privacy.microsoft.com>)
+### [Privacy policyLearn more](<https://privacy.microsoft.com>)
 
 ## Get started with plugins
 

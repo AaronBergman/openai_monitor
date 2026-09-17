@@ -87,8 +87,11 @@ Done. I found the agreement from the creative agency, downloaded the attachment,
 A few things to flag:
 
   * The payment terms differ from what was discussed in the email thread.
+
   * The usage language appears broader than the original scope.
+
   * The cancellation clause may be worth a closer look before signing.
+
 
 
 

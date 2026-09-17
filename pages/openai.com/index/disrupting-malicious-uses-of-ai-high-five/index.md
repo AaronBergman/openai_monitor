@@ -28,6 +28,8 @@ OpenAI
 
 June 1, 2025
 
+[Safety](</news/safety-alignment/>)
+
 # Operation “High Five”: Philippines political comments
 
 OpenAI banned accounts using AI to generate comments about Philippine politics and public officials across social platforms.
@@ -78,6 +80,12 @@ According to the threat actor’s own prompts, the goal of the Facebook commenti
 
 Using the IO impact [Breakout Scale⁠(opens in a new window)](<https://www.brookings.edu/articles/the-breakout-scale-measuring-the-impact-of-influence-operations/>), we would assess this as Category 2: activity on multiple platforms, but little evidence that real people picked up or widely shared their content.
 
+  * [Philippines](</news/?tags=target-geography-Philippines>)
+  * [Influence operations](</news/?tags=activity-type-influence-operations>)
+  * [Philippines](</news/?tags=actor-origin-philippines>)
+
+
+
 ## Author
 
 OpenAI
@@ -92,6 +100,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)

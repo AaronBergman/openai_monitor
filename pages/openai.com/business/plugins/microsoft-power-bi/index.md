@@ -24,7 +24,9 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 [Contact sales](</contact-sales/>)Try OpenAI
 
-OpenAI[View all plugins](</business/plugins/>)
+OpenAI
+
+[Plugins](</business/plugins/>)
 
 ![](https://files.openai.com/content?id=file_00000000f46881f78935875de96252d9&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=946d77979364c8757a0860fc685028b0cfbda4174232453d38b4aef0c34bd301&v=0)![](https://files.openai.com/content?id=file_00000000f46881f78935875de96252d9&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=946d77979364c8757a0860fc685028b0cfbda4174232453d38b4aef0c34bd301&v=0)
 
@@ -34,45 +36,68 @@ Explore and author analytics in your browser
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/Plugin_52b7f269362c819190348f32a2f9e7a9>)[Contact sales](</contact-sales/>)
 
+Capabilities
+    Interactive, Read, Write
+
+Category
+    [Data](</business/plugins/?tab=plugins-data-research>)
+
+Developer
+    OpenAI
+
+Website
+    [(opens in a new window)](<https://www.microsoft.com/power-platform/products/power-bi>)
+
 [![](https://files.openai.com/content?id=file_00000000950881f5b18ae017692607b6&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=2f69a0219cebf8f8889b3468924522d7b6dab9d4d9ee599f5d3baa7658a461cd&v=0)Microsoft Power BI Explain this Power BI report, including its filters and underlying data.(opens in a new window)](<https://chatgpt.com/?prompt=%40Microsoft+Power+BI+Explain+this+Power+BI+report%2C+including+its+filters+and+underlying+data.>)[![](https://files.openai.com/content?id=file_00000000950881f5b18ae017692607b6&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=2f69a0219cebf8f8889b3468924522d7b6dab9d4d9ee599f5d3baa7658a461cd&v=0)Microsoft Power BI Create a report from this semantic model and pin the key visuals to a dashboard.(opens in a new window)](<https://chatgpt.com/?prompt=%40Microsoft+Power+BI+Create+a+report+from+this+semantic+model+and+pin+the+key+visuals+to+a+dashboard.>)[![](https://files.openai.com/content?id=file_00000000950881f5b18ae017692607b6&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=2f69a0219cebf8f8889b3468924522d7b6dab9d4d9ee599f5d3baa7658a461cd&v=0)Microsoft Power BI Update this report's visuals and publish it to the workspace I specify.(opens in a new window)](<https://chatgpt.com/?prompt=%40Microsoft+Power+BI+Update+this+report%27s+visuals+and+publish+it+to+the+workspace+I+specify.>)
-
-Use case: [Data](</business/plugins/?tab=plugins-data-research>)
-
-Made by: OpenAI
-
-Website: [microsoft.com(opens in a new window)](<https://www.microsoft.com/power-platform/products/power-bi>)
 
 ## How it works
 
 Use Power BI, a Microsoft Fabric service, to explore reports, build visuals, and publish dashboards in your browser. Requires local browser access in ChatGPT Desktop or desktop Codex; not available on web, mobile, or cloud-backed tasks. Built and maintained by OpenAI. Uses the organization's web interface and the signed-in account's existing permissions; browser availability, product edition, and role determine supported actions. No API or MCP connection is included.
 
-### Explain report performance
+## Common use cases
+
+  * ### Explain report performance
 
 Understand the results in an open report and the filters shaping them.
 
-### Build an analysis report
+Microsoft Power BI Review the sales report open in my browser. Explain its filters, identify the largest regional changes this quarter, and summarize the three findings that matter most for our review.
+
+[(opens in a new window)](<https://chatgpt.com/?q=Microsoft+Power+BI+Review+the+sales+report+open+in+my+browser.+Explain+its+filters%2C+identify+the+largest+regional+changes+this+quarter%2C+and+summarize+the+three+findings+that+matter+most+for+our+review.>)
+
+  * ### Build an analysis report
 
 Build a report from your semantic model and pin key visuals to a dashboard.
 
-### Improve report clarity
+Microsoft Power BI Create a report from this semantic model and pin the key visuals to a dashboard.
+
+[(opens in a new window)](<https://chatgpt.com/?q=Microsoft+Power+BI+Create+a+report+from+this+semantic+model+and+pin+the+key+visuals+to+a+dashboard.>)
+
+  * ### Improve report clarity
 
 Make an existing report easier to read and interpret.
 
-## Sample prompts
+Microsoft Power BI In my browser, update the report I specify to make regional sales comparisons clearer. Choose suitable visuals, label units and time periods, and summarize your changes.
 
-**@Microsoft Power BI** Review the sales report open in my browser. Explain its filters, identify the largest regional changes this quarter, and summarize the three findings that matter most for our review.
+[(opens in a new window)](<https://chatgpt.com/?q=Microsoft+Power+BI+In+my+browser%2C+update+the+report+I+specify+to+make+regional+sales+comparisons+clearer.+Choose+suitable+visuals%2C+label+units+and+time+periods%2C+and+summarize+your+changes.>)
 
-**@Microsoft Power BI** Create a report from this semantic model and pin the key visuals to a dashboard.
 
-**@Microsoft Power BI** In my browser, update the report I specify to make regional sales comparisons clearer. Choose suitable visuals, label units and time periods, and summarize your changes.
+
+
+## What’s included
+
+### Skill
+
+  * power-bi
+
+
 
 ## Resources
 
-### [Help centerRead more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
+### [Help centerLearn more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
 
-### [Plugin supportRead more](<https://help.openai.com/en/articles/6614161-how-can-i-contact-support>)
+### [Plugin supportLearn more](<https://help.openai.com/en/articles/6614161-how-can-i-contact-support>)
 
-### [Privacy policyRead more](<https://openai.com/policies/row-privacy-policy/>)
+### [Privacy policyLearn more](<https://openai.com/policies/row-privacy-policy/>)
 
 ## Get started with plugins
 

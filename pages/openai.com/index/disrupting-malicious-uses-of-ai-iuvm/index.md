@@ -28,6 +28,8 @@ OpenAI
 
 May 1, 2024
 
+[Safety](</news/safety-alignment/>)
+
 # IUVM: Iran-linked influence content network
 
 OpenAI banned accounts associated with the Iran-origin operation "IUVM", using AI to generate and translate pro-Iran, anti-Israel and anti-US website content.
@@ -67,7 +69,15 @@ Using the [Breakout Scale⁠(opens in a new window)](<https://www.brookings.edu/
 We identified the following domains as being associated with this campaign.
 
   * iuvmpress.co
+
   * iuvmarchive.org
+
+
+
+
+  * [Global](</news/?tags=target-geography-global-internet-users>)
+  * [Influence operations](</news/?tags=activity-type-influence-operations>)
+  * [Iran](</news/?tags=actor-origin-iran>)
 
 
 
@@ -85,6 +95,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)

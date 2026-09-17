@@ -63,9 +63,13 @@ AI is moving from something people ask to something they put to work.
 For the first time, OpenAI is publishing country-by-country data showing how people around the world use ChatGPT. The findings reveal a technology that is moving beyond answers and into action, spreading beyond early adopters, and becoming useful to more people in more ways:
 
   * **From asking to doing:** At work, people are more than twice as likely to use ChatGPT to complete a task or create something, from writing and coding to analysis, than they are outside work.
+
   * **AI adoption is becoming more global:** Countries across Latin America, Africa, and Oceania are catching up to early adopters, narrowing the global adoption gap.
+
   * **AI is moving beyond text:** Multimedia is the fastest-growing use case globally, accounting for 7.8% of messages and more than one in ten in countries including Brazil and Colombia.
+
   * **AI is reaching beyond early adopters:** Usage among people over 35 is rising in nearly every country. In France and Czechia, their share of messages increased by more than 10 percentage points in the past year.
+
 
 
 

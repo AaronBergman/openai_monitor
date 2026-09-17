@@ -217,7 +217,7 @@ Open source is one of the fastest ways a vulnerability can spread across the eco
 
 Through [_Codex for Open Source_](</form/codex-for-oss/>) , selected maintainers of critical projects can receive conditional access to Codex Security alongside Codex and API credits to reduce maintenance and review load.
 
-We’ve also released a [Codex Security plugin⁠](<codex://plugins/codex-security@openai-curated>) that brings the existing security workflow directly into any Codex interface like the app or CLI, helping developers move from threat modeling to finding discovery, validation, attack-path analysis, and verified fixes.
+We’ve also released a [Codex Security plugin⁠(opens in a new window)](<codex://plugins/codex-security@openai-curated>) that brings the existing security workflow directly into any Codex interface like the app or CLI, helping developers move from threat modeling to finding discovery, validation, attack-path analysis, and verified fixes.
 
 ## Looking ahead
 
@@ -226,7 +226,9 @@ As models become more capable in cybersecurity, the best use of that capability 
 Gaining access to Trusted Access for Cyber is straightforward:
 
   * Individual users can verify their identity at[ _chatgpt.com/cyber⁠_ ⁠(opens in a new window)](<http://chatgpt.com/cyber?openaicom-did=5ad5d4d9-0b34-4104-af2f-6c0f2bceffe7&openaicom_referred=true>).
+
   * Enterprises can [_request trusted access⁠_](</form/enterprise-trusted-access-for-cyber/>) for their team through their OpenAI representative.
+
 
 
 

@@ -63,11 +63,17 @@ Cyber defense at an inflection point
 We’re expanding [_Daybreak_ ⁠](<https://openai.com/daybreak>) to help democratize patching vulnerable software at machine speed. For example, we’ve applied our models to discover and generate patches for [_critical vulnerabilities_ ⁠](</index/patch-the-planet/#operating-systems>) in major browsers, network infrastructure, and operating systems such as FreeBSD and the Linux kernel. To scale the impact of these capabilities:
 
   * **Codex Security:** We’re launching an update to the [_Codex Security plugin_ ⁠](<https://openai.com/daybreak/codex-security-plugin/>), which implements what we’ve learned from internal and customer usage of our models into a solution to accelerate the process of discovering and patching vulnerabilities in existing systems as well as automatically preventing new vulnerabilities from ever reaching production.
+
   * **GPT‑5.5‑Cyber:** Following an initial permissive-only preview, we’re launching the full version of GPT‑5.5‑Cyber through our continued limited release to trusted defenders. This model sets new state-of-the-art performance on CyberGym, reaching 85.6% compared with 81.8% for GPT‑5.5.
+
   * [**_Daybreak Cyber Partner Program_** ⁠](</daybreak/partners/>): Enabling security partners to scale the benefits to more organizations through our most capable models with trusted access in their products and services.
+
   * [**_Patch the Planet_** ⁠](</index/patch-the-planet/>): an initiative founded with Trail of Bits in collaboration with HackerOne, Calif, researchers, and maintainers to help widely used open-source projects move from findings to fixes.
+
     * More than 30 open-source projects have committed to participate, with initial participants including cURL, Go, Python, Sigstore, and pyca/cryptography. 
+
     * With Patch the Planet, we are working with researchers, maintainers, enterprises, and partners to make powerful cyber capability available to defenders with appropriate access, governance, and human oversight. Hear from Clint and Dan about this [_here_ ⁠(opens in a new window)](<https://x.com/OpenAI/status/2069104288417390688?s=20>).
+
 
 
 
@@ -96,10 +102,6 @@ We built Codex Security around a simple premise: put the equivalent of a securit
 Today, we’re releasing an update to the [_Codex Security plugin_ ⁠](</daybreak/codex-security-plugin/>) that enables out-of-the-box defensive security workflows. Developers can run deep scans or review recent changes, generate reports with severity, affected code locations, validation evidence, and remediation guidance, trace attack paths, build threat models, validate findings, and generate codebase-specific patches for review.
 
 Run a scan Review findings dashboardEvaluate in detailGenerate a fix
-
-![Screenshot of the Codex desktop app on a peach-to-orange gradient background. The main chat shows Codex preparing to run a Codex Security scan, with a “Set up security scan” panel open for a codebase scan of the juice-shop repository, scan area set to entire codebase, current branch master, and a green “Start scan” button. A right sidebar lists environment details including changes, local, master branch, and commit or push.](https://images.ctfassets.net/kftzwdyauwt9/6XYiIoqSFxKn0hFSilc95X/9880c09031f0c5a9d31d5741528afc6d/Image_1__1_.png?w=3840&q=90&fm=webp)
-
-Set up a scan to cover an entire codebase, a subset of the codebase, or a specific change or commit.
 
 The [_plugin_ ⁠](</daybreak/codex-security-plugin/>) can also triage and validate existing findings from scanners, advisories, bug-bounty reports, or ticketing systems, then automate patch generation at scale to quickly close a backlog of vulnerabilities. When Codex Security completes a scan, it can also export to an existing vulnerability management system or integrate into tools with SARIF files, CodeQL queries, and more. The plugin makes these capabilities much more accessible to support automated pipelines with Codex CLI or integrate into developer workflows in the Codex app. 
 
@@ -173,17 +175,17 @@ OpenAI
 
 [View all](</news/>)
 
-![Path to Astra — Clean square cover — Neutral Option 062 v1](https://images.ctfassets.net/kftzwdyauwt9/4BabvjDCQdlYN2ISzOkgF9/78d35947274e9b3ac2483377782b007e/astra-cover-v001.png?w=3840&q=90&fm=webp)
+![Paul Christiano joins OpenAI Foundation Board — card](https://images.ctfassets.net/kftzwdyauwt9/4PcDbhz75I70TjyGat7oHl/598dd1e865018860c3591cb95c9bc72e/paul-christiano-joins-openai-foundation-board--cover-v001.png?w=3840&q=90&fm=webp)
 
-[Path to Astra: critical capabilities and frontier safeguardsSafetySep 1, 2026](</index/path-to-astra/>)
+[Paul Christiano joins OpenAI Foundation BoardCompanySep 9, 2026](</index/paul-christiano-joins-openai-foundation-board/>)
 
-![California youth AI safety — cover](https://images.ctfassets.net/kftzwdyauwt9/3CsHxgcoiHHUUaYOB1FNiq/38e90de831dad795965ed98ffdd3a95a/Frame.png?w=3840&q=90&fm=webp)
+![The Work Now Within Reach — clean cover](https://images.ctfassets.net/kftzwdyauwt9/5iHLTPM4ZhKe4dAwOPfpy2/347b9d804542685bb13dbb63e985d91e/c3f562e2b08a0bfc.png?w=3840&q=90&fm=webp)
 
-[OpenAI supports California’s bill to advance youth AI safetyCompanyAug 31, 2026](</index/supporting-california-bill-advance-ai-youth-safety/>)
+[The Work Now Within ReachCompanySep 8, 2026](</index/the-work-now-within-reach/>)
 
-![Our decision on Cursor following its acquisition by SpaceX — cover](https://images.ctfassets.net/kftzwdyauwt9/3gFEgHvtA7Rsa5yUen97p5/b78a11ad81397a4003b879160e5a19b3/index-our-decision-on-cursor-following-its-acquisition-by-spacex-cover.png?w=3840&q=90&fm=webp)
+![Supporting journalism from classrooms to newsrooms — listing card](https://images.ctfassets.net/kftzwdyauwt9/2uvvRNdvFkdWWXNtANgtAF/36e0f8b6a0c35abf88eec71519823409/Option_70___1080_1080.png?w=3840&q=90&fm=webp)
 
-[Our decision on Cursor following its acquisition by SpaceXCompanyAug 28, 2026](</index/our-decision-on-cursor-following-its-acquisition-by-spacex/>)
+[Supporting journalism from classrooms to newsroomsCompanySep 8, 2026](</index/supporting-journalism-from-classrooms-to-newsrooms/>)
 
 Research
 
@@ -195,6 +197,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
@@ -289,3 +292,7 @@ Terms & Policies
 OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
+
+![Screenshot of the Codex desktop app on a peach-to-orange gradient background. The main chat shows Codex preparing to run a Codex Security scan, with a “Set up security scan” panel open for a codebase scan of the juice-shop repository, scan area set to entire codebase, current branch master, and a green “Start scan” button. A right sidebar lists environment details including changes, local, master branch, and commit or push.](https://images.ctfassets.net/kftzwdyauwt9/6XYiIoqSFxKn0hFSilc95X/9880c09031f0c5a9d31d5741528afc6d/Image_1__1_.png?w=3840&q=90&fm=webp)
+
+Set up a scan to cover an entire codebase, a subset of the codebase, or a specific change or commit.

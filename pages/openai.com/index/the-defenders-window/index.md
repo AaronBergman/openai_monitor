@@ -95,15 +95,25 @@ Lastly, we are investing heavily in fundamentals at scale. We continue to invest
 Time is of the essence, and defenders will need to pursue the steps below at turbo speed. Below I’ll mention OpenAI technology, but there are plenty of competitors in the ecosystem to evaluate as well. What matters is less the specific tool than getting capable AI into the hands of your defenders now.
 
   * **Get organizational commitment and buy-in**. We are experiencing a rapid change in security risk—ensure your security and engineering organizations have the support, partnership, and resources to address these risks quickly. Run tabletop exercises with your teams to mock up how these attacks might manifest in your organizations and how you will respond.
+
   * **Give your security team an agent**. Start using Codex, the [_Codex Security plugin_ ⁠(opens in a new window)](<https://learn.chatgpt.com/docs/security/plugin>), or another capable agentic coding and security tool. Give it approved access to the codebases, infrastructure configurations, and technical documentation your security team needs to assess. Do not wait for a company-wide rollout to start with your highest-priority systems.
+
   * **Equip that agent with security expertise**. Start from community-supported [_skills_ ⁠(opens in a new window)](<https://github.com/trailofbits/skills>), which include workflows for static analysis, security-focused code review, vulnerability variant analysis, software supply-chain risk, and other security workflows. Then build your own skills around your organization’s architecture, security standards, threat models, and playbooks.
+
   * **Run security assessments against your own systems immediately**. Prioritize assessments against internet-facing services, authentication flows, infrastructure as code, deployment pipelines, and systems handling sensitive information first. Expand your scanning as your team builds confidence. 
+
   * **Work through your existing vulnerability backlog**. Give your agent findings from code scanners, dependency alerts, security tickets, bug bounty reports, and prior assessments. Ask it to triage those findings, distinguish exploitable issues from noise, identify related vulnerabilities elsewhere in the codebase, and recommend what to fix first.
+
   * **Put security review directly into your development process**. Use agents to review code changes before they merge and run security checks in CI. Look for authentication mistakes, access-control bypasses, exposed credentials, unsafe dependencies, insecure defaults, changes that expand access to production systems, and other vulnerabilities.
+
   * **Have the agent help fix what it finds**. For validated issues, ask it to generate and verify a focused patch, write a regression test, and confirm the vulnerability no longer reproduces. Keep human review for consequential changes, but eliminate the unnecessary delay between identifying a real problem and putting a safe fix in front of an engineer.
+
   * **Incrementally automate detection triage**. Do not begin by trying to build an autonomous security operations center. Start by running a read-only security scan against one repository, or have an agent review previously resolved alerts using read-only access to your existing logs. Let it summarize evidence and recommend a disposition while a human makes every decision. As confidence grows, move to advisory pull-request scanning, then live alert triage, then automatic closure of narrowly defined false positives.
+
   * **Have an AI-assisted forensic investigation capability ready before you need it**. Apply for [_Trusted Access for Cyber_ ⁠(opens in a new window)](<https://learn.chatgpt.com/docs/cyber-safety#trusted-access-for-cyber>) and get your team approved to use GPT‑Daybreak‑Blue for authorized defensive work, including incident response, detection engineering, and malware analysis. Practice using this capability to analyze logs, telemetry, and security alerts.
+
   * **Experiment, run hack weeks, and iterate rapidly**. We will need to build all sorts of new tools, modify how we do work, and uplevel everyone for the world we are moving to. Encourage your workforce to run experiments, schedule a hack week to build new capabilities, and focus on quickly iterating loops that automate small parts of the problem. Rapid incremental progress leads to compounding defensive results, and you can expand autonomy gradually as your team builds confidence.
+
 
 
 

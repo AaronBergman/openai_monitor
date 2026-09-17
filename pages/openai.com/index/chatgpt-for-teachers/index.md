@@ -83,11 +83,17 @@ ChatGPT for Teachers brings the most helpful tools in ChatGPT—like unlimited m
 Here’s what it includes:
 
   * **Education-grade security & compliance:** Anything you share with ChatGPT for Teachers is not used to train our models by default, and the workspace is built to protect student data and help schools meet FERPA requirements.
+
   * **Personalized teaching support:** Tell ChatGPT to remember details like your grade level, curriculum, and preferred format so responses feel tailored to your teaching style and classroom. You’re in control of your settings.
+
   * **Connected to your tools:** Build presentations with Canva in ChatGPT, and bring in lesson plans and files from Google Drive or Microsoft 365 so every chat starts with your classroom context, saving you time on prep.
+
   * **Examples from real teachers:** Discover ready-to-use ideas and prompts from teachers already using ChatGPT, directly under the message composer in your workspace.
+
   * **Collaboration:** Use custom GPTs to create templates with other teachers at your school or district, or co-plan lessons and presentations together in shared projects.
+
   * **Admin controls:** School and district leaders can claim their domain to bring educators into one workspace with role-based access controls, and secure accounts with SAML SSO.
+
 
 
 
@@ -165,17 +171,17 @@ OpenAI
 
 [View all](</news/>)
 
+![Reimagining advertising with AI — Card cover](https://images.ctfassets.net/kftzwdyauwt9/fHwkKLVG8WFHvuUPqMXtz/1c49ba0859fe1e1e21f5d64f692490f5/reimagining-advertising-with-ai-cover.png?w=3840&q=90&fm=webp)
+
+[Reimagining advertising with AIProductSep 16, 2026](</index/reimagining-advertising-with-ai/>)
+
+![How to connect AI usage to business value — art card](https://images.ctfassets.net/kftzwdyauwt9/36T42HPkipcJAs08yNirmR/f73d9408ef4f0b08b5cce3b839656843/cover-018.png?w=3840&q=90&fm=webp)
+
+[How to connect AI usage to business valueProductSep 16, 2026](</index/how-to-connect-ai-usage-to-business-value/>)
+
 ![Now everyone can put data to work — card image](https://images.ctfassets.net/kftzwdyauwt9/6FhMXOSe8XadGwEUev6QjJ/916a64d20bcc59b8619fea1827fa6bd3/put-data-to-work--cover-v001.png?w=3840&q=90&fm=webp)
 
 [Now everyone can put data to workProductSep 10, 2026](</index/put-data-to-work/>)
-
-![FinServ Blog - Art Card Texture Square](https://images.ctfassets.net/kftzwdyauwt9/6Bcg403pebiJhQdHUS17FK/572e478dc4579deca27c9700c662e908/finserv-art-card.png?w=3840&q=90&fm=webp)
-
-[Introducing ChatGPT for Financial ServicesProductSep 10, 2026](</index/introducing-chatgpt-financial-services/>)
-
-![GPT-Live-1 API | Green-blue cover | Option 038](https://images.ctfassets.net/kftzwdyauwt9/1uBabEULLfw3Vb2Gldmyyq/c19c1c121ca403ee8b2703cba18ef82d/introducing-gpt-live-1-green-cover.png?w=3840&q=90&fm=webp)
-
-[Build more natural voice experiences with GPT‑Live‑1 in the APIProductSep 10, 2026](</index/introducing-gpt-live-1-in-the-api/>)
 
 Research
 

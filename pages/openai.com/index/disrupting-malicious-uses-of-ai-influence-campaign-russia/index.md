@@ -123,9 +123,13 @@ _Original of the article, published by the_[ _Migration Policy Institute_ ⁠(op
 Alongside these articles, the IBI website included reports on different countries and their sovereignty, as measured by the institute’s index. These were not generated using our models. Some of these reports were pitched as comparisons between two countries. Others focused on single countries, especially those which criticize Russia’s war on Ukraine such as France and Germany, and the European Union. The operation promoted similar narratives about the United States. These reports were typically critical, veering into the polemic; samples include:
 
   * [France⁠(opens in a new window)](<https://web.archive.org/web/20260706160710/https://ibi.institute/read/the-macron-decade-the-sovereignty-that-was-doomed-to-failure-why-does-france-need-a-sixth-republic?type=research>): “Ten years of Macronism produced exactly the result that a manager who came to the Elysée Palace from the Rothschild Bank must have given: France was opened like a safe with historical capital, and now it is being sold off in parts.”
+
   * [USA⁠(opens in a new window)](<https://web.archive.org/web/20260706161552/https://ibi.institute/read/trumps-visit-to-china-what-really-happened?type=research>): “Trump arrived [in Beijing] with the No. 1 sovereignty index in the world and left after taking a number of steps that [...] can be qualified as a voluntary reduction in autonomy.”
+
   * [Germany⁠(opens in a new window)](<https://web.archive.org/web/20260706162212/https://ibi.institute/read/requiem-for-germany-how-germany-sovereignty-melted-into-thin-air?type=research>): “Germany needs an industrial policy that protects jobs, not just stock prices. The country needs an honest discussion about identity, without taboos and hysteria. It needs real military sovereignty, not dependence on American bases. And she needs politicians whose first loyalty is to the German people, not to corporate boards of directors in New York.”
+
   * [EU⁠(opens in a new window)](<https://web.archive.org/web/20260706162404/https://ibi.institute/read/slovakia-vs-italy-the-paradoxes-of-the-sovereignty-of-the-hostage-countries-of-the-big-union?type=research>): “Slovakia vs Italy: The paradoxes of the Sovereignty of the Hostage-Countries of the ‘Big’ Union”
+
 
 
 
@@ -137,7 +141,9 @@ The operation’s immediate impact appears to have been limited: typical social 
 
 The significance of the operation lies less in the audience it reached, however, than in the infrastructure it had built. While the actors only used ChatGPT to produce isolated promotional posts, those posts pointed to an otherwise credible-appearing institution, complete with purported experts, republished academic work and a purported proprietary risk index. This illustrates how influence actors can use AI as a supporting tool within a broader effort to manufacture authority, obscure the source of favored narratives, and establish assets that could be scaled over time. It also illustrates how their supporting use of AI can lead to the broader operation being exposed.
 
+  * [Russia](</news/?tags=actor-origin-russia>)
   * [2026](</news/?tags=2026>)
+  * [Influence operations](</news/?tags=activity-type-influence-operations>)
 
 
 
@@ -149,17 +155,17 @@ OpenAI
 
 [View all](</news/>)
 
+![Helping older adults use AI in everyday life — art card](https://images.ctfassets.net/kftzwdyauwt9/6ewlK5oKVHp0phTezeh0rT/2c9454f9757b567c1837e07013ffe2f1/older-adults-art-card-v001.png?w=3840&q=90&fm=webp)
+
+[Helping older adults use AI in everyday lifeGlobal AffairsSep 16, 2026](</index/helping-older-adults-use-ai-in-everyday-life/>)
+
+![How workers are turning AI experimentation into new ways of working > Cover image](https://images.ctfassets.net/kftzwdyauwt9/2jmyTNjTKCj9B3jyQBjFMr/24da3865e110be70e6e93b196cfd752c/blog-art-card-option040-v001.png?w=3840&q=90&fm=webp)
+
+[How workers are unlocking new ways of workingGlobal AffairsSep 16, 2026](</index/unlocking-new-ways-of-working/>)
+
 ![Expanding AI access across every level of US government - listing image - Option 051](https://images.ctfassets.net/kftzwdyauwt9/2DbgwJ93neBePatQjKO2h7/d63008264f83f3dcc786fe98410151be/government-blog-card-option-051-review-1080x1080.png?w=3840&q=90&fm=webp)
 
 [Expanding AI access across every level of US governmentGlobal AffairsSep 10, 2026](</index/expanding-ai-access-us-government/>)
-
-![The AI Policy Window Is Open. We Need to Act. — card](https://images.ctfassets.net/kftzwdyauwt9/1h2LJdMeZWvaobm9wZl7T0/3cc15e97034f5375e78cd90163eed6a5/ai-policy-window-card.png?w=3840&q=90&fm=webp)
-
-[The AI policy window is open. We need to act.Global AffairsSep 9, 2026](</index/ai-policy-window/>)
-
-![Supporting independent journalism in Ukraine — card image](https://images.ctfassets.net/kftzwdyauwt9/3wATLIxaR9ch8uwHbmLURE/b43c566703960e61d4159760ed8a3c2b/supporting-independent-journalism-in-ukraine-cover-option-029.png?w=3840&q=90&fm=webp)
-
-[Supporting independent journalism in UkraineGlobal AffairsSep 7, 2026](</index/supporting-independent-journalism-in-ukraine/>)
 
 Research
 

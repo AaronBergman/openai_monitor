@@ -28,6 +28,8 @@ OpenAI
 
 June 1, 2026
 
+[Safety](</news/safety-alignment/>)
+
 # “Data Center Bandwagon” Campaign: US-targeted influence activity
 
 OpenAI banned a likely PRC-origin cluster using AI to generate social media content criticizing US data centers and AI infrastructure.
@@ -78,6 +80,12 @@ One report focused specifically on Facebook operations and emphasized building r
 
 The same report shows that they had extensively analyzed Facebook’s platform in order to increase their reach and reduce disruption risk. They discussed how Facebook’s content ecosystem, groups, pages, hashtags, advertising tools, recommendation systems and reporting mechanisms could be used to build influence and reach new audiences over time. They framed this as a dual-track approach combining organic engagement with Facebook ads, supported by iterative testing of topics, formats and audiences. They also emphasized account safety, creating backup accounts and separating account operational activity to avoid the platform detecting coordination as part of their workflow.
 
+  * [China](</news/?tags=actor-origin-china>)
+  * [United States](</news/?tags=target-geography-united-states>)
+  * [Influence operations](</news/?tags=activity-type-influence-operations>)
+
+
+
 ## Author
 
 OpenAI
@@ -92,6 +100,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)

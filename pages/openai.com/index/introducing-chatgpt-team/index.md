@@ -61,12 +61,19 @@ ChatGPT Team offers access to our advanced models like GPT‑4 and DALL·E 3, an
 **ChatGPT Team includes** :
 
   * Access to GPT‑4 with 32K context window
+
   * Tools like DALL·E 3, GPT‑4 with Vision, Browsing, Advanced Data Analysis—with higher message caps
+
   * No training on your business data or conversations
+
   * Secure workspace for your team
+
   * Create and share custom GPTs with your workspace
+
   * Admin console for workspace and team management
+
   * Early access to new features and improvements
+
 
 
 

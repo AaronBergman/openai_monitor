@@ -73,6 +73,22 @@ We’re also removing the Higher intelligence setting from ChatGPT on the web fo
 
 [View source(opens in a new window)](<https://help.openai.com/en/articles/6825453-chatgpt-release-notes#changes-to-automatic-switching-to-thinking-in-chatgpt-plus-and-pro>)[Help center(opens in a new window)](<https://help.openai.com/en/articles/20001354>)
 
+Codex
+
+Sep 14, 2026
+
+Sunset
+
+## GPT-5.5 retires from ChatGPT, ChatGPT Work, and Codex on October 14
+
+On October 14, 2026, GPT‑5.5 will retire from ChatGPT, ChatGPT Work, and Codex on all plans, including consumer, Business, Enterprise, and Edu plans. This retirement does not apply to the OpenAI API.
+
+For Codex with ChatGPT sign-in, switch from `gpt-5.5` to `gpt-5.6-sol` (GPT‑5.6 Sol) before the retirement date.
+
+Update workspace defaults, saved model settings, managed configurations, custom agents, scheduled tasks, and scripts that still select `gpt-5.5`.
+
+[View source(opens in a new window)](<https://learn.chatgpt.com/docs/changelog#codex-2026-09-14-gpt-55-retirement>)[Platform docs(opens in a new window)](<https://learn.chatgpt.com/docs/models#gpt-55-retirement>)[Platform docs(opens in a new window)](<https://learn.chatgpt.com/docs/enterprise/workspace-model-availability#prepare-for-the-gpt-55-retirement>)
+
 ChatGPT
 
 Sep 11, 2026
@@ -96,18 +112,6 @@ GA
 Changes made through the Codex Policies & Configurations interface are recorded in workspace audit logs. Authorized admins can review the logs in the UI or retrieve them through the Compliance API.
 
 [View source(opens in a new window)](<https://help.openai.com/en/articles/10128477-chatgpt-enterprise-edu-release-notes#audit-logs-for-codex-policies-and-configurations>)[Help center(opens in a new window)](<https://help.openai.com/en/articles/9261474-openai-compliance-platform-for-enterprise-and-edu-customers>)
-
-API
-
-Sep 11, 2026
-
-GA
-
-## Create, update, and delete groups with the Admin API
-
-The Groups Admin API supports group creation, updates, and deletion in eligible workspaces, helping admins automate recurring group-management tasks. Workspace access and the required Admin key permissions still apply.
-
-[View source(opens in a new window)](<https://help.openai.com/en/articles/10128477-chatgpt-enterprise-edu-release-notes#create-update-and-delete-groups-with-the-admin-api>)[Help center(opens in a new window)](<https://help.openai.com/en/articles/20001407-managing-admin-keys-in-admin-console>)
 
 Load more
 

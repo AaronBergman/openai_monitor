@@ -24,7 +24,9 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 [Contact sales](</contact-sales/>)Try OpenAI
 
-OpenAI[View all plugins](</business/plugins/>)
+OpenAI
+
+[Plugins](</business/plugins/>)
 
 ![](https://files.openai.com/content?id=file_00000000dff471f588ea17f78eed1b4a&cdn=1&cp=pi&ma=31968000&ts=0&p=pi&cid=1&sig=06eddbb51a98c9ee74a1de3034ceb17a70d9c53ed5292fbf73a29439ad14d63b&v=0)![](https://files.openai.com/content?id=file_00000000dff471f588ea17f78eed1b4a&cdn=1&cp=pi&ma=31968000&ts=0&p=pi&cid=1&sig=06eddbb51a98c9ee74a1de3034ceb17a70d9c53ed5292fbf73a29439ad14d63b&v=0)
 
@@ -34,49 +36,63 @@ Search and analyze analytics data.
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_690e2dabf430819196f8b3701ec838ec>)[Contact sales](</contact-sales/>)
 
-Use case: [Data](</business/plugins/?tab=plugins-data-research>)
+Category
+    [Data](</business/plugins/?tab=plugins-data-research>)
 
-Made by: Amplitude
+Developer
+    Amplitude
 
-Website: [amplitude.com(opens in a new window)](<https://amplitude.com/>)
+Website
+    [(opens in a new window)](<https://amplitude.com/>)
 
 ## How it works
 
 Product managers, marketers, and growth teams can now get instant answers about user behavior, experiments, and product metrics directly in ChatGPT—no SQL, no dashboards, no waiting on data teams.
 
-### Answer product analytics questions instantly
+## Common use cases
+
+  * ### Answer product analytics questions instantly
 
 Request metrics such as daily active users, new users, funnels, or retention over any time range and receive clear tables or charts in seconds, removing hours of manual analysis.
 
-### Align teams on trusted metrics
+Amplitude What is DAU and WAU for the last 90 days and how did retention change compared to the prior 90 days?
+
+[(opens in a new window)](<https://chatgpt.com/?q=Amplitude+What+is+DAU+and+WAU+for+the+last+90+days+and+how+did+retention+change+compared+to+the+prior+90+days%3F>)
+
+  * ### Align teams on trusted metrics
 
 Pull answers directly from your Amplitude workspace so product, marketing, and executives see the same definitions and results, reducing metric disputes and rework in reviews.
 
-### Explore data without SQL or dashboards
+Amplitude Write a weekly growth insights note using the biggest movers in activation retention and churn from the last 7 days.
+
+[(opens in a new window)](<https://chatgpt.com/?q=Amplitude+Write+a+weekly+growth+insights+note+using+the+biggest+movers+in+activation+retention+and+churn+from+the+last+7+days.>)
+
+  * ### Explore data without SQL or dashboards
 
 Non-technical users can explore trends, compare periods, and find insights by asking questions in plain language, expanding analytics access without adding tooling or training.
 
-## Sample prompts
+Amplitude Compare experiment variant performance for the last completed test and explain what I should do next.
 
-Review key product metrics
+[(opens in a new window)](<https://chatgpt.com/?q=Amplitude+Compare+experiment+variant+performance+for+the+last+completed+test+and+explain+what+I+should+do+next.>)
 
-**@Amplitude** What is DAU and WAU for the last 90 days and how did retention change compared to the prior 90 days?
 
-Plan future experiment iterations
 
-**@Amplitude** Write a weekly growth insights note using the biggest movers in activation retention and churn from the last 7 days.
 
-Write a weekly summary
+## What’s included
 
-**@Amplitude** Compare experiment variant performance for the last completed test and explain what I should do next.
+### App
+
+  * ![](https://files.openai.com/content?id=file_00000000dff471f588ea17f78eed1b4a&cdn=1&cp=pi&ma=31968000&ts=0&p=pi&cid=1&sig=06eddbb51a98c9ee74a1de3034ceb17a70d9c53ed5292fbf73a29439ad14d63b&v=0)Amplitude
+
+
 
 ## Resources
 
-### [Help centerRead more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
+### [Help centerLearn more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
 
-### [Plugin supportRead more](<https://help.amplitude.com/>)
+### [Plugin supportLearn more](<https://help.amplitude.com/>)
 
-### [Privacy policyRead more](<https://amplitude.com/privacy>)
+### [Privacy policyLearn more](<https://amplitude.com/privacy>)
 
 ## Get started with plugins
 

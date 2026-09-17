@@ -1,0 +1,228 @@
+Skip to main content
+
+[](</>)
+
+  * [Research](</research/index/>)
+  * Products
+  * [Business](</business/>)
+  * [Developers](</api/>)
+  * [Company](</about/>)
+  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
+
+
+
+Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
+
+  * Research
+  * Products
+  * Business
+  * Developers
+  * Company
+  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
+
+
+
+[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)Login
+
+OpenAI
+
+September 16, 2026
+
+[Product](</news/product-releases/>)
+
+# Reimagining advertising with AI
+
+Introducing new AI-powered experiences for ChatGPT Ads.
+
+Get started
+
+Loading…
+
+Share
+
+Being part of the AI conversation
+
+  * Being part of the AI conversation
+  * Putting AI to work for marketers
+  * Bringing new AI possibilities to existing marketing tools
+  * Building an AI-powered advertising platform
+
+
+
+  * Being part of the AI conversation
+  * Putting AI to work for marketers
+  * Bringing new AI possibilities to existing marketing tools
+  * Building an AI-powered advertising platform
+
+
+
+Today, we’re introducing new AI-powered experiences to make ads more useful for people and advertising easier for businesses.
+
+We’re testing Sponsored Agents, which let people start a conversation with a business-sponsored agent after clicking an ad in ChatGPT. We are making it easier to create ads by simply writing a few prompts in ChatGPT Work. At the same time, we are making Ads Manager more powerful with new AI creative tools. Finally, new integrations with HubSpot, our first CRM partner, and Shopify, our first ecommerce partner, are bringing ChatGPT Ads into the tools businesses already use.
+
+Together, these updates represent the next step in building our AI-based advertising platform.
+
+## Being part of the AI conversation
+
+Ads in ChatGPT help people find what they’re looking for or discover something they hadn’t considered. But seeing an interesting product or service is often just the beginning. A shopper might be curious about a dining table they see in an ad but have questions about whether it fits their space, how many people it seats, or how to care for its finish.
+
+Sponsored Agents give users the option to go deeper. After seeing a relevant ad, a user can choose to start a clearly labeled conversation with a business-sponsored agent in ChatGPT. The user can explain what matters to them, ask follow-up questions, and follow a link to the business’s website when they’re ready to take the next step.
+
+For users, this can make it easier to understand whether a product or service is the right fit. For businesses, it’s an opportunity to help interested customers explore their offerings through a personalized conversation. The conversation with a Sponsored Agent is distinct from ChatGPT’s independent answers and separate from the original conversation that the user started in ChatGPT.
+
+Sponsored Agents are now being tested with select advertisers in the United States.
+
+## Putting AI to work for marketers
+
+AI also opens new possibilities for how the work of advertising gets done. Many of the tasks involved in building and managing campaigns, from translating a brief into an ad to analyzing performance, can take significant time. Today, we’re rolling out new tools that make it easier for advertisers to use AI for ads management. Advertisers can now use simple, natural-language prompts to create, update, and analyze campaigns directly in ChatGPT with the Ads Manager plugin. They can turn a website or brief into a campaign, understand performance, and get recommendations on what to do next.
+
+We’re also rolling out AI assistance directly into Ads Manager to help advertisers create ads. When drafting an ad, advertisers can now receive suggested copy and imagery based on their landing page and campaign objective. Advertisers remain in control: they can review and edit suggestions before choosing whether to add them to a campaign.
+
+We’re also launching the ability to opt into AI-powered text customization. If enabled, it adapts an advertiser’s existing headlines and descriptions to better fit the context of a conversation and automatically translates ad copy to a user’s preferred language.
+
+## Bringing new AI possibilities to existing marketing tools
+
+Adopting a new advertising channel shouldn’t require businesses to rebuild the way they work. That’s why we’re integrating ChatGPT Ads into HubSpot and Shopify as our first CRM and ecommerce partners.
+
+Starting today, businesses managing their customers in HubSpot can connect a [ChatGPT Ads account⁠(opens in a new window)](<https://hubs.la/Q04tW3sT0>), create ads, track performance, and follow up on leads directly in HubSpot powered by their HubSpot context.  
+  
+Also available today, US-based Shopify merchants can use the new [ChatGPT Ads app⁠(opens in a new window)](<https://apps.shopify.com/chatgptads>) in the Shopify App Store to create and manage ChatGPT ad campaigns. Products are already integrated through Shopify Catalog, so merchants can start running these ads and tracking performance right away. The app will be available internationally in markets where ChatGPT Ads are available starting September 23.
+
+## Building an AI-powered advertising platform
+
+As people increasingly turn to AI to discover products, compare options, and make decisions, we’re creating new ways for people and businesses to connect. That means reimagining both sides of advertising: how people engage with businesses in an AI-native environment and how businesses use AI to create and manage their ads.
+
+Together, these launches reflect how we’re building an advertising platform with AI at its center: new ad experiences that make advertising more helpful for people and AI tools that let businesses spend less time on process and more time growing their business.
+
+Businesses can sign up at[ ads.openai.com⁠(opens in a new window)](<https://ads.openai.com>). Eligible businesses can also get started through the [ChatGPT Ads for Shopify app⁠(opens in a new window)](<https://apps.shopify.com/chatgptads>) or the [ChatGPT Ads in HubSpot app⁠(opens in a new window)](<https://hubs.la/Q04tW3sT0>).
+
+  * [2026](</news/?tags=2026>)
+  * [ChatGPT](</news/?tags=chatgpt>)
+
+
+
+## Author
+
+OpenAI
+
+## Keep reading
+
+[View all](</news/>)
+
+![How to connect AI usage to business value — art card](https://images.ctfassets.net/kftzwdyauwt9/36T42HPkipcJAs08yNirmR/f73d9408ef4f0b08b5cce3b839656843/cover-018.png?w=3840&q=90&fm=webp)
+
+[How to connect AI usage to business valueProductSep 16, 2026](</index/how-to-connect-ai-usage-to-business-value/>)
+
+![Now everyone can put data to work — card image](https://images.ctfassets.net/kftzwdyauwt9/6FhMXOSe8XadGwEUev6QjJ/916a64d20bcc59b8619fea1827fa6bd3/put-data-to-work--cover-v001.png?w=3840&q=90&fm=webp)
+
+[Now everyone can put data to workProductSep 10, 2026](</index/put-data-to-work/>)
+
+![FinServ Blog - Art Card Texture Square](https://images.ctfassets.net/kftzwdyauwt9/6Bcg403pebiJhQdHUS17FK/572e478dc4579deca27c9700c662e908/finserv-art-card.png?w=3840&q=90&fm=webp)
+
+[Introducing ChatGPT for Financial ServicesProductSep 10, 2026](</index/introducing-chatgpt-financial-services/>)
+
+Research
+
+  * [Research Index](</research/index/>)
+  * [Research Overview](</research/>)
+  * [Economic Research](</signals/>)
+
+
+
+Latest Advancements
+
+  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-5.6](</index/gpt-5-6/>)
+  * [GPT-5.5](</index/introducing-gpt-5-5/>)
+  * [GPT-5.4](</index/introducing-gpt-5-4/>)
+
+
+
+Safety
+
+  * [Safety Approach](</safety/>)
+  * [Deployment Safety(opens in a new window)](<https://deploymentsafety.openai.com/>)
+  * [Security & Privacy](</security-and-privacy/>)
+  * [Trust & Transparency](</trust-and-transparency/>)
+
+
+
+Products
+
+  * [ChatGPT(opens in a new window)](<https://chatgpt.com/>)
+  * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
+  * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
+  * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
+  * [Codex](</codex/>)
+  * [Release Notes](</products/release-notes/>)
+
+
+
+API Platform
+
+  * [Overview](</api/>)
+  * [API Log In(opens in a new window)](<https://platform.openai.com/login>)
+  * [Docs(opens in a new window)](<https://developers.openai.com/api/docs>)
+
+
+
+Business
+
+  * [Overview](</business/>)
+  * [Solutions](</solutions/>)
+  * [Resources](</business/learn/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
+  * [Contact Sales](</contact-sales/>)
+
+
+
+Developers
+
+  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
+  * [Open Models](</open-models/>)
+  * [Docs(opens in a new window)](<https://developers.openai.com/>)
+  * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
+  * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
+
+
+
+Company
+
+  * [About Us](</about/>)
+  * [Our Charter](</charter/>)
+  * [Careers](</careers/>)
+  * [News](</news/>)
+
+
+
+Support
+
+  * [Help Center(opens in a new window)](<https://help.openai.com/>)
+
+
+
+More
+
+  * [Stories](</stories/>)
+  * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
+  * [Livestreams](</live/>)
+  * [Podcast](</podcast/>)
+  * [RSS](<https://openai.com/news/rss.xml>)
+
+
+
+Terms & Policies
+
+  * [Terms of Use](</policies/terms-of-use/>)
+  * [Privacy Policy](</policies/privacy-policy/>)
+  * [Other Policies ](</policies/>)
+
+
+
+[(opens in a new window)](<https://x.com/OpenAI>)[(opens in a new window)](<https://www.youtube.com/OpenAI>)[(opens in a new window)](<https://www.linkedin.com/company/openai>)[(opens in a new window)](<https://github.com/openai>)[(opens in a new window)](<https://www.instagram.com/openai/>)[(opens in a new window)](<https://www.tiktok.com/@openai>)[(opens in a new window)](<https://discord.gg/openai>)
+
+OpenAI © 2015–2026Your privacy choices
+
+EnglishUnited States

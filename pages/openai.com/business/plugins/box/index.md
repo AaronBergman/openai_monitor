@@ -24,7 +24,9 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 [Contact sales](</contact-sales/>)Try OpenAI
 
-OpenAI[View all plugins](</business/plugins/>)
+OpenAI
+
+[Plugins](</business/plugins/>)
 
 ![](https://files.openai.com/content?id=file_000000003dec71f58ea31d11943374ac&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=1&sig=74ea60b3dccd88f76296af895d81de15f4ed38ee02b05e86001f9ee5e0091c6d&v=0)![](https://files.openai.com/content?id=file_000000003dec71f58ea31d11943374ac&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=1&sig=74ea60b3dccd88f76296af895d81de15f4ed38ee02b05e86001f9ee5e0091c6d&v=0)
 
@@ -34,51 +36,65 @@ Search and reference your documents.
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_695bfc98071c8191bac7bc479aa27de7>)[Contact sales](</contact-sales/>)
 
+Category
+    [Productivity](</business/plugins/?tab=plugins-productivity>)
+
+Developer
+    Box
+
+Website
+    [(opens in a new window)](<https://www.box.com/home>)
+
 [![](https://files.openai.com/content?id=file_00000000f2dc81f78bf30509052978b6&cdn=1&cp=pi&ma=30240000&ts=0&p=pi&cid=8&sig=acdb1451e132ccfb4725fb76a774dc395606b11d488ef1d5b5f5df0104dede16&v=0)Box Find the contract's termination for convenience clause and quote it with a file reference for Legal to verify(opens in a new window)](<https://chatgpt.com/?prompt=%40Box+Find+the+contract%27s+termination+for+convenience+clause+and+quote+it+with+a+file+reference+for+Legal+to+verify>)[![](https://files.openai.com/content?id=file_00000000f2dc81f78bf30509052978b6&cdn=1&cp=pi&ma=30240000&ts=0&p=pi&cid=8&sig=acdb1451e132ccfb4725fb76a774dc395606b11d488ef1d5b5f5df0104dede16&v=0)Box Turn these docs into a clean onboarding guide for new analysts, with an actionable checklist for week 1(opens in a new window)](<https://chatgpt.com/?prompt=%40Box+Turn+these+docs+into+a+clean+onboarding+guide+for+new+analysts%2C+with+an+actionable+checklist+for+week+1>)[![](https://files.openai.com/content?id=file_00000000f2dc81f78bf30509052978b6&cdn=1&cp=pi&ma=30240000&ts=0&p=pi&cid=8&sig=acdb1451e132ccfb4725fb76a774dc395606b11d488ef1d5b5f5df0104dede16&v=0)Box Combine research docs, support summaries, and specs in [folder] into a single synthesis with themes and evidence for each(opens in a new window)](<https://chatgpt.com/?prompt=%40Box+Combine+research+docs%2C+support+summaries%2C+and+specs+in+%5Bfolder%5D+into+a+single+synthesis+with+themes+and+evidence+for+each>)
-
-Use case: [Productivity](</business/plugins/?tab=plugins-productivity>)
-
-Made by: Box
-
-Website: [box.com(opens in a new window)](<https://www.box.com/home>)
 
 ## How it works
 
 Work with documents, spreadsheets, and presentations stored in Box to create concise summaries, pre-reads, or stakeholder updates.
 
-### Create decision-ready briefs from documents
+## Common use cases
+
+  * ### Create decision-ready briefs from documents
 
 Summarize a policy pack or QBR deck and generate a 1-page brief with risks, owners, and next steps, reducing preparation time for reviews and executive updates.
 
-### Synthesize knowledge across projects
+Box Summarize the ACME Hub
+
+[(opens in a new window)](<https://chatgpt.com/?q=Box+Summarize+the+ACME+Hub>)
+
+  * ### Synthesize knowledge across projects
 
 Combine research decks, support summaries, and specs into one report with clear themes and evidence, helping product and CX teams prioritize fixes and align messaging faster.
 
-### Find exact answers with sources
+Box Combine research docs, support summaries, and specs in [folder] into a single synthesis with themes and evidence for each.
+
+[(opens in a new window)](<https://chatgpt.com/?q=Box+Combine+research+docs%2C+support+summaries%2C+and+specs+in+%5Bfolder%5D+into+a+single+synthesis+with+themes+and+evidence+for+each.>)
+
+  * ### Find exact answers with sources
 
 Ask where a metric, clause, or decision appears, and get the relevant passages and file links so stakeholders can verify details quickly and avoid duplicated work.
 
-## Sample prompts
+Box Search for where the contract mentions termination for convenience and paste the clause with the file reference so Legal can verify.
 
-Find relevant documents
+[(opens in a new window)](<https://chatgpt.com/?q=Box+Search+for+where+the+contract+mentions+termination+for+convenience+and+paste+the+clause+with+the+file+reference+so+Legal+can+verify.>)
 
-**@Box** Summarize the ACME Hub
 
-Create an onboarding guide from documents
 
-**@Box** Combine research docs, support summaries, and specs in [folder] into a single synthesis with themes and evidence for each.
 
-Synthesize multiple documents into one summary
+## What’s included
 
-**@Box** Search for where the contract mentions termination for convenience and paste the clause with the file reference so Legal can verify.
+### App
+
+  * ![](https://files.openai.com/content?id=file_00000000a3f871f8bd29386238e36094&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=055bd0a304e9ace9046a0220179998d15415babe54b4dde550794726095a09e6&v=0)Box
+
+
 
 ## Resources
 
-### [Help centerRead more](<https://help.openai.com/en/articles/12368225-box-connector>)
+### [Help centerLearn more](<https://help.openai.com/en/articles/12368225-box-connector>)
 
-### [Plugin supportRead more](<https://support.box.com/>)
+### [Plugin supportLearn more](<https://support.box.com/>)
 
-### [Privacy policyRead more](<https://www.box.com/legal/privacy>)
+### [Privacy policyLearn more](<https://www.box.com/legal/privacy>)
 
 ## Get started with plugins
 

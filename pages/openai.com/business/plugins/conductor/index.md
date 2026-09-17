@@ -24,7 +24,9 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 [Contact sales](</contact-sales/>)Try OpenAI
 
-OpenAI[View all plugins](</business/plugins/>)
+OpenAI
+
+[Plugins](</business/plugins/>)
 
 ![](https://files.openai.com/content?id=file_00000000e95471f6bca857c08854b722&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=7&sig=99d2aa1c649e05d312a91a8d58429dbd2e1ca5cbcbf4c6ecea7be67c7337eec3&v=0)![](https://files.openai.com/content?id=file_00000000e95471f6bca857c08854b722&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=7&sig=99d2aa1c649e05d312a91a8d58429dbd2e1ca5cbcbf4c6ecea7be67c7337eec3&v=0)
 
@@ -34,51 +36,65 @@ Track brand sentiment in AI.
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69bc9080866081919c3b70ce64e1db0d>)[Contact sales](</contact-sales/>)
 
+Category
+    [Operations](</business/plugins/?tab=plugins-operations>)
+
+Developer
+    Conductor Inc.
+
+Website
+    [(opens in a new window)](<https://www.conductor.com/>)
+
 [![](https://files.openai.com/content?id=file_00000000df28722f805f38afa570951c&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=1&sig=5bb6adc94c55b8a48766a262cf9cadee712cbfa6498342cf0ba652b97958532e&v=0)Conductor Who are top competitors for “wireless earbuds”(opens in a new window)](<https://chatgpt.com/?prompt=%40Conductor+Who+are+top+competitors+for+%E2%80%9Cwireless+earbuds%E2%80%9D>)
-
-Use case: [Operations](</business/plugins/?tab=plugins-operations>)
-
-Made by: Conductor Inc.
-
-Website: [conductor.com(opens in a new window)](<https://www.conductor.com/>)
 
 ## How it works
 
 Analyze your brand’s AI presence in ChatGPT with Conductor to review visibility, sentiment, mentions, citations, and competitive share across platforms.
 
-### Measure brand presence in AI
+## Common use cases
+
+  * ### Measure brand presence in AI
 
 Review how often your brand and competitors appear in AI responses, including mentions and citations across topics and platforms.
 
-### Analyze context and sentiment
+Conductor Report how often our brand appears in AI responses for topics: [topics]. Compare against [competitor] and include mentions and citations share.
+
+[(opens in a new window)](<https://chatgpt.com/?q=Conductor+Report+how+often+our+brand+appears+in+AI+responses+for+topics%3A+%5Btopics%5D.+Compare+against+%5Bcompetitor%5D+and+include+mentions+and+citations+share.>)
+
+  * ### Analyze context and sentiment
 
 Analyze sentiment associated with your brand in AI results and understand how it varies by topic, intent, or source.
 
-### Explore topics and competitive share
+Conductor Analyze sentiment and context for [brand] mentions in AI results. Break down by topic and summarize the drivers of positive vs. negative sentiment.
+
+[(opens in a new window)](<https://chatgpt.com/?q=Conductor+Analyze+sentiment+and+context+for+%5Bbrand%5D+mentions+in+AI+results.+Break+down+by+topic+and+summarize+the+drivers+of+positive+vs.+negative+sentiment.>)
+
+  * ### Explore topics and competitive share
 
 Explore topics and prompts that generate AI mentions and citations to understand competitive share across brands and domains.
 
-## Sample prompts
+Conductor Identify the top prompts and topics where competitors outperform us in AI visibility. Recommend priority content areas and domains to improve our share of citations.
 
-Measure AI brand visibility
+[(opens in a new window)](<https://chatgpt.com/?q=Conductor+Identify+the+top+prompts+and+topics+where+competitors+outperform+us+in+AI+visibility.+Recommend+priority+content+areas+and+domains+to+improve+our+share+of+citations.>)
 
-**@Conductor** Report how often our brand appears in AI responses for topics: [topics]. Compare against [competitor] and include mentions and citations share.
 
-Analyze AI sentiment by topic
 
-**@Conductor** Analyze sentiment and context for [brand] mentions in AI results. Break down by topic and summarize the drivers of positive vs. negative sentiment.
 
-Identify topics driving competitor share
+## What’s included
 
-**@Conductor** Identify the top prompts and topics where competitors outperform us in AI visibility. Recommend priority content areas and domains to improve our share of citations.
+### App
+
+  * ![](https://files.openai.com/content?id=file_00000000e95471f6bca857c08854b722&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=7&sig=99d2aa1c649e05d312a91a8d58429dbd2e1ca5cbcbf4c6ecea7be67c7337eec3&v=0)Conductor
+
+
 
 ## Resources
 
-### [Help centerRead more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
+### [Help centerLearn more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
 
-### [Plugin supportRead more](<https://support.conductor.com/en_US/contact-us>)
+### [Plugin supportLearn more](<https://support.conductor.com/en_US/contact-us>)
 
-### [Privacy policyRead more](<https://www.conductor.com/legal/privacy-policy/>)
+### [Privacy policyLearn more](<https://www.conductor.com/legal/privacy-policy/>)
 
 ## Get started with plugins
 

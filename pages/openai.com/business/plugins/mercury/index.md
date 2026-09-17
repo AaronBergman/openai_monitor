@@ -24,7 +24,9 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 [Contact sales](</contact-sales/>)Try OpenAI
 
-OpenAI[View all plugins](</business/plugins/>)
+OpenAI
+
+[Plugins](</business/plugins/>)
 
 ![](https://files.openai.com/content?id=file_00000000ac7881f59a95b718896b7902&cdn=1&cp=pi&ma=31968000&ts=0&p=pi&cid=8&sig=8d4ea8c207d69a085a5d683c828b2957b9db2fc95aea683bf2589c66d6b62e66&v=0)![](https://files.openai.com/content?id=file_00000000ac7881f59a95b718896b7902&cdn=1&cp=pi&ma=31968000&ts=0&p=pi&cid=8&sig=8d4ea8c207d69a085a5d683c828b2957b9db2fc95aea683bf2589c66d6b62e66&v=0)
 
@@ -34,51 +36,71 @@ Understand your finances
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a17ae803744819187a3079d37479dae>)[Contact sales](</contact-sales/>)
 
+Category
+    [Finance](</business/plugins/?tab=plugins-finance>)
+
+Developer
+    Mercury Technologies inc
+
+Website
+    [(opens in a new window)](<https://mercury.com/>)
+
 [![](https://files.openai.com/content?id=file_00000000ac7881f59a95b718896b7902&cdn=1&cp=pi&ma=31968000&ts=0&p=pi&cid=8&sig=8d4ea8c207d69a085a5d683c828b2957b9db2fc95aea683bf2589c66d6b62e66&v=0)![](https://files.openai.com/content?id=file_00000000ac7881f59a95b718896b7902&cdn=1&cp=pi&ma=31968000&ts=0&p=pi&cid=8&sig=8d4ea8c207d69a085a5d683c828b2957b9db2fc95aea683bf2589c66d6b62e66&v=0)Mercury what did we spend on software last quarter? How does this compare to the prior four quarters?(opens in a new window)](<https://chatgpt.com/?prompt=%40Mercury+what+did+we+spend+on+software+last+quarter%3F+How+does+this+compare+to+the+prior+four+quarters%3F>)[![](https://files.openai.com/content?id=file_00000000ac7881f59a95b718896b7902&cdn=1&cp=pi&ma=31968000&ts=0&p=pi&cid=8&sig=8d4ea8c207d69a085a5d683c828b2957b9db2fc95aea683bf2589c66d6b62e66&v=0)![](https://files.openai.com/content?id=file_00000000ac7881f59a95b718896b7902&cdn=1&cp=pi&ma=31968000&ts=0&p=pi&cid=8&sig=8d4ea8c207d69a085a5d683c828b2957b9db2fc95aea683bf2589c66d6b62e66&v=0)Mercury graph our burn over the last 6 months, and tell me how quickly our burn rate is increasing month over month.(opens in a new window)](<https://chatgpt.com/?prompt=%40Mercury+graph+our+burn+over+the+last+6+months%2C+and+tell+me+how+quickly+our+burn+rate+is+increasing+month+over+month.>)[![](https://files.openai.com/content?id=file_00000000ac7881f59a95b718896b7902&cdn=1&cp=pi&ma=31968000&ts=0&p=pi&cid=8&sig=8d4ea8c207d69a085a5d683c828b2957b9db2fc95aea683bf2589c66d6b62e66&v=0)![](https://files.openai.com/content?id=file_00000000ac7881f59a95b718896b7902&cdn=1&cp=pi&ma=31968000&ts=0&p=pi&cid=8&sig=8d4ea8c207d69a085a5d683c828b2957b9db2fc95aea683bf2589c66d6b62e66&v=0)Mercury what’s the current balance in my Payroll account? Show me any transfers out of that account in the last 30 days.(opens in a new window)](<https://chatgpt.com/?prompt=%40Mercury+what%E2%80%99s+the+current+balance+in+my+Payroll+account%3F+Show+me+any+transfers+out+of+that+account+in+the+last+30+days.>)
-
-Use case: [Finance](</business/plugins/?tab=plugins-finance>) and [Small Business](</business/plugins/?tab=plugins-small-business>)
-
-Made by: Mercury Technologies inc
-
-Website: [mercury.com(opens in a new window)](<https://mercury.com/>)
 
 ## How it works
 
 Connect your Mercury account to ChatGPT to get answers about your finances in the same place you’re already doing the rest of your work.
 
-### Compare software spending
+## Common use cases
+
+  * ### Compare software spending
 
 See how last quarter's software spending compares with the previous four quarters.
 
-### Track monthly cash burn
+Mercury what did we spend on software last quarter? How does this compare to the prior four quarters?
+
+[(opens in a new window)](<https://chatgpt.com/?q=Mercury+what+did+we+spend+on+software+last+quarter%3F+How+does+this+compare+to+the+prior+four+quarters%3F>)
+
+  * ### Track monthly cash burn
 
 Chart six months of cash burn and see how quickly it is changing.
 
-### Review payroll account activity
+Mercury graph our burn over the last 6 months, and tell me how quickly our burn rate is increasing month over month.
+
+[(opens in a new window)](<https://chatgpt.com/?q=Mercury+graph+our+burn+over+the+last+6+months%2C+and+tell+me+how+quickly+our+burn+rate+is+increasing+month+over+month.>)
+
+  * ### Review payroll account activity
 
 Check your payroll account balance and its outgoing transfers over the past month.
 
-## Sample prompts
+Mercury what’s the current balance in my Payroll account? Show me any transfers out of that account in the last 30 days.
 
-Compare software spending
+[(opens in a new window)](<https://chatgpt.com/?q=Mercury+what%E2%80%99s+the+current+balance+in+my+Payroll+account%3F+Show+me+any+transfers+out+of+that+account+in+the+last+30+days.>)
 
-**@Mercury** what did we spend on software last quarter? How does this compare to the prior four quarters?
 
-Review six months of cash burn
 
-**@Mercury** graph our burn over the last 6 months, and tell me how quickly our burn rate is increasing month over month.
 
-Review payroll balance and transfers
+## What’s included
 
-**@Mercury** what’s the current balance in my Payroll account? Show me any transfers out of that account in the last 30 days.
+### App
+
+  * ![](https://files.openai.com/content?id=file_00000000ac7881f59a95b718896b7902&cdn=1&cp=pi&ma=31968000&ts=0&p=pi&cid=8&sig=8d4ea8c207d69a085a5d683c828b2957b9db2fc95aea683bf2589c66d6b62e66&v=0)Mercury
+
+
+
+### Skill
+
+  * Mercury MCP
+
+
 
 ## Resources
 
-### [Help centerRead more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
+### [Help centerLearn more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
 
-### [Plugin supportRead more](<https://mercury.com/contact-us>)
+### [Plugin supportLearn more](<https://mercury.com/contact-us>)
 
-### [Privacy policyRead more](<https://mercury.com/legal/privacy>)
+### [Privacy policyLearn more](<https://mercury.com/legal/privacy>)
 
 ## Get started with plugins
 

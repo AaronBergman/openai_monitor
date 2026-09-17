@@ -65,9 +65,13 @@ gpt-oss-safeguard enables developers to draw the policy lines that best fit thei
 The model takes two inputs at once—a policy and the content to classify under that policy—and outputs a conclusion about where the content falls, along with its reasoning. Developers decide how, if at all, to use those conclusions in their own safety pipelines. We’ve seen this reasoning-based approach perform especially well in situations where:
 
   * The potential harm is emerging or evolving, and policies need to adapt quickly.
+
   * The domain is highly nuanced and difficult for smaller classifiers to handle.
+
   * Developers don’t have enough samples to train a high-quality classifier for each risk on their platform.
+
   * Latency is less important than producing high-quality, explainable labels.
+
 
 
 

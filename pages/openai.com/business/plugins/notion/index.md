@@ -24,7 +24,9 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 [Contact sales](</contact-sales/>)Try OpenAI
 
-OpenAI[View all plugins](</business/plugins/>)
+OpenAI
+
+[Plugins](</business/plugins/>)
 
 ![](https://files.openai.com/content?id=file_00000000dca471f5a61c7e4a3fab77a4&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=1&sig=63bacca4cbadf25340543a539567d26664d1f530be2b3f6119d3aaeb4edbed56&v=0)![](https://files.openai.com/content?id=file_00000000aaf8722f9e07cbdd00ea7ad8&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=1&sig=450cfa6b24e75515f4907572297126983f2d33e3f6f73cab443b4b5596a0deef&v=0)
 
@@ -34,51 +36,77 @@ Search and reference your Notion pages.
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69c18c28f1188191bf5b8445c4ab0a2e>)[Contact sales](</contact-sales/>)
 
+Capabilities
+    Interactive, Read, Write
+
+Category
+    [Productivity](</business/plugins/?tab=plugins-productivity>)
+
+Developer
+    Notion
+
+Website
+    [(opens in a new window)](<https://www.notion.so/>)
+
 [![](https://files.openai.com/content?id=file_0000000035e081f78f1775acc52fc7e9&cdn=1&cp=pi&ma=32227200&ts=0&p=pi&cid=8&sig=70a4ffd53544abaed2c5f9108261ce67b893313dde6b5fb3d1c02e93d83ecfcc&v=0)Notion Find the latest decision on pricing for [project] and summarize it with the supporting page links(opens in a new window)](<https://chatgpt.com/?prompt=%40Notion+Find+the+latest+decision+on+pricing+for+%5Bproject%5D+and+summarize+it+with+the+supporting+page+links>)[![](https://files.openai.com/content?id=file_0000000035e081f78f1775acc52fc7e9&cdn=1&cp=pi&ma=32227200&ts=0&p=pi&cid=8&sig=70a4ffd53544abaed2c5f9108261ce67b893313dde6b5fb3d1c02e93d83ecfcc&v=0)Notion Create a roadmap database with properties for owner, status, quarter, and risk then populate it from this list of initiatives(opens in a new window)](<https://chatgpt.com/?prompt=%40Notion+Create+a+roadmap+database+with+properties+for+owner%2C+status%2C+quarter%2C+and+risk+then+populate+it+from+this+list+of+initiatives>)[![](https://files.openai.com/content?id=file_0000000035e081f78f1775acc52fc7e9&cdn=1&cp=pi&ma=32227200&ts=0&p=pi&cid=8&sig=70a4ffd53544abaed2c5f9108261ce67b893313dde6b5fb3d1c02e93d83ecfcc&v=0)Notion Audit our top product docs for outdated info and give me a punch list of pages that should be updated first(opens in a new window)](<https://chatgpt.com/?prompt=%40Notion+Audit+our+top+product+docs+for+outdated+info+and+give+me+a+punch+list+of+pages+that+should+be+updated+first>)
-
-Use case: [Productivity](</business/plugins/?tab=plugins-productivity>)
-
-Made by: Notion
-
-Website: [notion.so(opens in a new window)](<https://www.notion.so/>)
 
 ## How it works
 
 Connect AI to your knowledge base to find answers, draft docs, and keep project databases updated, reducing time spent searching and manual upkeep while improving alignment across teams.
 
-### Find decisions and specs faster
+## Common use cases
+
+  * ### Find decisions and specs faster
 
 Run semantic search across pages and connected tools to pull relevant context for briefs, QBRs, or incident reviews, reducing time spent searching for information and repeated questions.
 
-### Keep docs and wikis current
+Notion Find the latest decision on pricing for [project] and summarize it with the supporting page links.
+
+[(opens in a new window)](<https://chatgpt.com/?q=Notion+Find+the+latest+decision+on+pricing+for+%5Bproject%5D+and+summarize+it+with+the+supporting+page+links.>)
+
+  * ### Keep docs and wikis current
 
 Create meeting notes, FAQs, and status updates from prompts, then update pages and properties as work changes so teams maintain accurate information in a single source of truth.
 
-### Automate project tracking in databases
+Notion Audit our top product docs for outdated info and give me a punch list of pages that should be updated first.
+
+[(opens in a new window)](<https://chatgpt.com/?q=Notion+Audit+our+top+product+docs+for+outdated+info+and+give+me+a+punch+list+of+pages+that+should+be+updated+first.>)
+
+  * ### Automate project tracking in databases
 
 Create or update databases for roadmaps, risks, and action items, and move or duplicate pages for new cycles to help operations teams keep reporting accurate without extra work.
 
-## Sample prompts
+Notion Create a roadmap database with properties for owner, status, quarter, and risk then populate it from this list of initiatives.
 
-Summarize recent project decisions
+[(opens in a new window)](<https://chatgpt.com/?q=Notion+Create+a+roadmap+database+with+properties+for+owner%2C+status%2C+quarter%2C+and+risk+then+populate+it+from+this+list+of+initiatives.>)
 
-**@Notion** Find the latest decision on pricing for [project] and summarize it with the supporting page links.
 
-Identify key risks and mitigation actions
 
-**@Notion** Audit our top product docs for outdated info and give me a punch list of pages that should be updated first.
 
-Audit documentation and plan updates
+## What’s included
 
-**@Notion** Create a roadmap database with properties for owner, status, quarter, and risk then populate it from this list of initiatives.
+### App
+
+  * ![](https://files.openai.com/content?id=file_00000000463481f5a01bc9d80a0f7917&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=1&sig=01a1b240de984269d7cbd70608dbae9927b4da9367d008826ab68b3d0cb2cf6a&v=0)Notion
+
+
+
+### Skills
+
+  * ![](https://files.openai.com/content?id=file_00000000c8f881f6a3b24213526245e4&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=94a37c48bc9aaa80722e0773781de05bde95e70bd897712de88015a4d46d8d7a&v=0)Knowledge Capture
+  * ![](https://files.openai.com/content?id=file_00000000ebd881f6997a73df83eef94b&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=c7d0ef04fd4227ffd6778cf1444b312f7603be560de9f0e3ce83301954604f1c&v=0)Meeting Intelligence
+  * ![](https://files.openai.com/content?id=file_000000005d1c81f7bfd099000f0e7f00&cdn=1&cp=pi&ma=32659200&ts=0&p=pi&cid=8&sig=7a96299622fc3773f5f2a53eedbcae7cba430e3c1709036fd76f85655444c43a&v=0)Research & Documentation
+  * ![](https://files.openai.com/content?id=file_00000000e68481f7a65eccbf7d7cf319&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=819b1d7195fde5ca7a28aab685cde71885d480797406f81a8d74a2e228f060fb&v=0)Spec to Implementation
+
+
 
 ## Resources
 
-### [Help centerRead more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
+### [Help centerLearn more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
 
-### [Plugin supportRead more](<https://www.notion.so/help>)
+### [Plugin supportLearn more](<https://www.notion.so/help>)
 
-### [Privacy policyRead more](<https://www.notion.so/privacy>)
+### [Privacy policyLearn more](<https://www.notion.so/privacy>)
 
 ## Get started with plugins
 

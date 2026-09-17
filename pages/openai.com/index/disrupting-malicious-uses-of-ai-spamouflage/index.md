@@ -28,6 +28,8 @@ OpenAI
 
 May 1, 2024
 
+[Safety](</news/safety-alignment/>)
+
 # Operation "Spamouflage": China-linked influence activity
 
 OpenAI banned accounts associated with the PRC-origin operation "Spamouflage", using AI to research social media activity, generate posts, and debug a previously unreported website.
@@ -96,6 +98,14 @@ We identified the following domain as being associated with this campaign.
 
 
 
+
+  * [Global](</news/?tags=target-geography-global-internet-users>)
+  * [China](</news/?tags=actor-origin-china>)
+  * [Influence operations](</news/?tags=activity-type-influence-operations>)
+  * [Harassment & repression](</news/?tags=harassment-and-repression>)
+
+
+
 ## Author
 
 OpenAI
@@ -110,6 +120,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)

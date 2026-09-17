@@ -28,9 +28,11 @@ OpenAI
 
 October 1, 2025
 
+[Safety](</news/safety-alignment/>)
+
 # Operation “Nine–emdash Line”: Regional influence activity
 
-OpenAI banned accounts linked to a previously unreprorted PRC-origin operation we dubbed "Nine-emdash Line", using AI to create regional influence content about the South China Sea, Hong Kong, and US politics.
+OpenAI banned accounts linked to a previously unreported PRC-origin operation we dubbed "Nine-emdash Line", using AI to create regional influence content about the South China Sea, Hong Kong, and US politics.
 
 Loading…
 
@@ -86,6 +88,15 @@ Despite the volume of social media comments generated across multiple platforms,
 
 The personas used by the social media accounts were clearly coordinated and not sophisticated. They shared behavioral traits similar to other China-origin covert influence operations, such as posting hashtags, images or videos disseminated by past operations and used stock images as profile photos or default social media handles, which made them easy to identify. Their persistence and volume across platforms were identified by Philstar.com who independently discovered and reported on a subset of the network on X, which had continued to operate after we banned their ChatGPT accounts.
 
+  * [China](</news/?tags=actor-origin-china>)
+  * [Philippines](</news/?tags=target-geography-Philippines>)
+  * [Vietnam](</news/?tags=target-geography-vietnam>)
+  * [Hong Kong](</news/?tags=target-geography-hong-kong>)
+  * [United States](</news/?tags=target-geography-united-states>)
+  * [Influence operations](</news/?tags=activity-type-influence-operations>)
+
+
+
 ## Author
 
 OpenAI
@@ -100,6 +111,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)

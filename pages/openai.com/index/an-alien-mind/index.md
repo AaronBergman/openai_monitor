@@ -116,8 +116,11 @@ We understood the potential significance of chain-of-thought monitoring at the s
 This tool continues to be critical as we study the Astra class of models. However, unfortunately our evaluations indicate our ability to rely on CoT monitoring is progressively diminishing. This comes from a combination of factors.
 
   * Modern reasoning models are used in more complex environments than o1‑preview; their reasoning process is increasingly blended with communicating with people, other AIs, and using tools. Many of those interactions have to be supervised, thus blurring the boundary we aim to preserve.
+
   * The AI is becoming better at reasoning about and manipulating its own reasoning process.
+
   * With improved pretraining performance, we also see the models become much smarter even without using verbalized reasoning at all.
+
 
 
 
@@ -158,8 +161,11 @@ The core challenge of automating AI research is not “getting there” - it is 
 As [_we outlined recently with Sam_ ⁠](<https://openai.com/index/built-to-benefit-everyone-our-plan/>), OpenAI prioritizes work in service of three north stars:
 
   1. Navigating the next period of AI progress, by building an automated AI researcher, iterating with it on the alignment problem and finding ways for people to remain part of the self-improvement loop.
+
   2. Delivering the benefits of scientific progress and economic growth that very intelligent machines enable.
+
   3. Empowering everyone individually with a personal AGI.
+
 
 
 
@@ -195,6 +201,10 @@ A secondary reason for this design was preventing distillation. However, maintai
 
 [View all](</news/>)
 
+![Our framework for reporting model misalignment — card image](https://images.ctfassets.net/kftzwdyauwt9/3mJz9GkBOjZvAMYPx8M1dj/2a9ac4b7e18b1c08feef5368c4fde2e2/model-misalignment-reporting-framework--cover-v002.png?w=3840&q=90&fm=webp)
+
+[Our framework for reporting model misalignmentResearchSep 16, 2026](</index/model-misalignment-reporting-framework/>)
+
 ![Navier–Stokes solution — art card](https://images.ctfassets.net/kftzwdyauwt9/2VUQZfeF2GtKRitKYdkoLu/cc96d05424afb2c9adcca0734ecdafb1/navier-stokes-art-card.png?w=3840&q=90&fm=webp)
 
 [An OpenAI model proposes a solution to the Navier–Stokes problemResearchSep 8, 2026](</index/navier-stokes-solution/>)
@@ -202,10 +212,6 @@ A secondary reason for this design was preventing distillation. However, maintai
 ![Teen development research grants — Card image](https://images.ctfassets.net/kftzwdyauwt9/492WJ2zEboE6VdmchhCjIA/34e10aa1208a6988e3db2341d849d5b4/4bzz6p65ky7zwfd4pe42ou-cover__3_.png?w=3840&q=90&fm=webp)
 
 [Funding grants for new research into AI and teen developmentSafetySep 8, 2026](</index/teen-development-research-grants/>)
-
-![Research acceleration: The view inside OpenAI > Cover image](https://images.ctfassets.net/kftzwdyauwt9/5kS3OG1Jfdja5xLmYcRwgr/f53b9dfe985df5969aff5dc41f2d1934/Art_Card__7_.png?w=3840&q=90&fm=webp)
-
-[Research acceleration: The view inside OpenAIResearchSep 6, 2026](</index/research-acceleration-view-inside-openai/>)
 
 Research
 

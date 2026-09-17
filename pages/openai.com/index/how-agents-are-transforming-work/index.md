@@ -47,9 +47,13 @@ Over the last year, we witnessed this transformation first-hand at OpenAI. For t
 Codex adoption grew in tandem with Codex’s capabilities. As Codex leveraged stronger models and new product features, it became capable of taking on an expanding set of productive tasks. Across Individual users, Organizational users, and OpenAI workers, we document four trends over the past year:
 
   * **People use Codex for longer-horizon work**. By May 2026, 80.6% of sampled individual users made at least one Codex request estimated to exceed 30 minutes of human work, 70.2% made one estimated to exceed one hour, and 25.6% made at least one Codex request estimated to exceed eight hours.
+
   * **Codex became the primary AI tool for every department at OpenAI**. Engineering moved first, but Legal, Finance, and Recruiting crossed into Codex being their primary AI tool around April 2026. For the average OpenAI worker, Codex usage now accounts for more than 85% of output tokens. Since Codex users tend to use more tokens than non-users, its share of overall tokens is even higher: Codex accounts for 99.8% of weekly output tokens generated within OpenAI.
+
   * **Non-developer adoption grew especially rapidly, outpacing developer adoption**. Since August 2025, non-developer users rose 137x for individual users, 189x for organizational users, and 12x within OpenAI.
+
   * **Codex enabled OpenAI workers to do tasks outside their job description**. While technical usage is still most prevalent among engineers, non-technical users regularly use Codex to take on coding or technical execution, including automation, data transformation, tooling, debugging, and structured analysis.
+
 
 
 

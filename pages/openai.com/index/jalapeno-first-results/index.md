@@ -119,8 +119,11 @@ AI infrastructure is valuable because of the useful real-world work it enables. 
 Jalapeño expands what is possible for efficient, low-latency inference:
 
   * Ultra-fast-mode inference at efficiencies previously available only in fast mode
+
   * Fast-mode inference at efficiencies previously available only in batched mode
+
   * Higher efficiency for batched-mode inference
+
 
 
 

@@ -53,10 +53,15 @@ Designed to be the best inference platform for LLMs
 
 
   * Early testing shows that the first-generation accelerator will deliver performance per watt substantially better than current state-of-the-art
+
   * Built from the ground up for current and future LLMs across the industry
+
   * Developed from design to production in nine months, accelerated by OpenAI’s models
+
   * Expands OpenAI’s full-stack platform, from products to models and now to chips
+
   * To be deployed at gigawatt scale with data center partners, over multiple generations
+
 
 
 

@@ -28,6 +28,8 @@ OpenAI
 
 October 1, 2024
 
+[Safety](</news/safety-alignment/>)
+
 # Operation “A2Z”: Multilingual influence activity
 
 OpenAI banned “A2Z” accounts using AI to generate multilingual influence content about elections, Ukraine, and politics across platforms.
@@ -92,6 +94,12 @@ _Comment argument between an operation account (upper post) and a real person (l
 
 Using the Breakout Scale to assess the impact of IO, which rates them on a scale of 1 (lowest) to 6 (highest), we would assess this operation as being at the top end of Category Two, with a risk of breaking out into Category Three: it was marked by posting activity on multiple platforms, with some evidence that real people were engaging with its content. However, after we banned this operation from using our models and shared information with industry peers, the social media accounts that we had identified fell silent for many weeks. This operation thus highlights the increased capability that AI usage can give operators, but also the increased vulnerability to disruption that their reliance on an AI model brings.
 
+  * [United States](</news/?tags=actor-origin-united-states>)
+  * [Global](</news/?tags=target-geography-global-internet-users>)
+  * [Influence operations](</news/?tags=activity-type-influence-operations>)
+
+
+
 ## Author
 
 OpenAI
@@ -106,6 +114,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)

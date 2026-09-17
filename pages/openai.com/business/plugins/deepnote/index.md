@@ -24,7 +24,9 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 [Contact sales](</contact-sales/>)Try OpenAI
 
-OpenAI[View all plugins](</business/plugins/>)
+OpenAI
+
+[Plugins](</business/plugins/>)
 
 ![](https://files.openai.com/content?id=file_00000000f92071f79930229160a6ca3b&cdn=1&cp=pi&ma=30585600&ts=0&p=pi&cid=8&sig=6faeb8bbf3cc92b5d0996a82dd40d42ac8b54a7aa3afa8c7950b2f36720a3de7&v=0)![](https://files.openai.com/content?id=file_000000001bf871f7959c46e1bd9802cd&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=8&sig=64ebef30bd218a7048400d20b79b338a5efea8ec72de36dfbf0754fe82ec178e&v=0)
 
@@ -34,45 +36,78 @@ Run data workflows with agents
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69fb51f9519081919c1f3e44ea9a5a05>)[Contact sales](</contact-sales/>)
 
+Capabilities
+    Interactive, Read, Write
+
+Category
+    [Data](</business/plugins/?tab=plugins-data-research>)
+
+Developer
+    Deepnote, inc.
+
+Website
+    [(opens in a new window)](<https://deepnote.com/>)
+
 [![](https://files.openai.com/content?id=file_000000002508720c9a808a7a197929fc&cdn=1&cp=pi&ma=30240000&ts=0&p=pi&cid=1&sig=9e6d504a9756152e2d17d70009ee318ff522006ed005665c72b731a0a7201276&v=0)Deepnote Summarize my Deepnote workspace and recent notebook activity(opens in a new window)](<https://chatgpt.com/?prompt=%40Deepnote+Summarize+my+Deepnote+workspace+and+recent+notebook+activity>)[![](https://files.openai.com/content?id=file_000000002508720c9a808a7a197929fc&cdn=1&cp=pi&ma=30240000&ts=0&p=pi&cid=1&sig=9e6d504a9756152e2d17d70009ee318ff522006ed005665c72b731a0a7201276&v=0)Deepnote Explore active data connections to my Deepnote workspace(opens in a new window)](<https://chatgpt.com/?prompt=%40Deepnote+Explore+active+data+connections+to+my+Deepnote+workspace>)[![](https://files.openai.com/content?id=file_000000002508720c9a808a7a197929fc&cdn=1&cp=pi&ma=30240000&ts=0&p=pi&cid=1&sig=9e6d504a9756152e2d17d70009ee318ff522006ed005665c72b731a0a7201276&v=0)Deepnote Create a notebook exploring S&P 500 vs. Nasdaq gains over the last 5 years(opens in a new window)](<https://chatgpt.com/?prompt=%40Deepnote+Create+a+notebook+exploring+S%26P+500+vs.+Nasdaq+gains+over+the+last+5+years>)
-
-Use case: [Data](</business/plugins/?tab=plugins-data-research>)
-
-Made by: Deepnote, inc.
-
-Website: [deepnote.com(opens in a new window)](<https://deepnote.com/>)
 
 ## How it works
 
 Deepnote gives teams a collaborative workspace for notebooks, SQL, apps, and data workflows. This plugin helps OpenAI work with connected Deepnote projects, inspect and run notebooks, and turn workspace context into useful analysis and shareable results.
 
-### Build a revenue notebook
+## Common use cases
+
+  * ### Build a revenue notebook
 
 Create a runnable notebook that explains revenue changes with charts and the largest contributing segments.
 
-### Map notebook dependencies
+Deepnote Create and run a notebook comparing last quarter's revenue with the prior quarter by segment using our connected data. Include charts, the three largest contributors to the change, and data caveats.
+
+[(opens in a new window)](<https://chatgpt.com/?q=Deepnote+Create+and+run+a+notebook+comparing+last+quarter%27s+revenue+with+the+prior+quarter+by+segment+using+our+connected+data.+Include+charts%2C+the+three+largest+contributors+to+the+change%2C+and+data+caveats.>)
+
+  * ### Map notebook dependencies
 
 Identify the notebooks and analyses that depend on a data connection before planning a migration.
 
-### Diagnose a failed notebook
+Deepnote Inspect our warehouse connection and identify the projects, notebooks, and SQL blocks that use it. Summarize the analyses affected and prepare a checklist for validating them after a migration.
+
+[(opens in a new window)](<https://chatgpt.com/?q=Deepnote+Inspect+our+warehouse+connection+and+identify+the+projects%2C+notebooks%2C+and+SQL+blocks+that+use+it.+Summarize+the+analyses+affected+and+prepare+a+checklist+for+validating+them+after+a+migration.>)
+
+  * ### Diagnose a failed notebook
 
 Review a failed notebook run and recommend a focused correction based on its code and outputs.
 
-## Sample prompts
+Deepnote Find the latest failed run of our weekly reporting notebook. Review its blocks and available run outputs, explain the likely cause, and recommend the smallest correction with a way to validate it.
 
-**@Deepnote** Create and run a notebook comparing last quarter's revenue with the prior quarter by segment using our connected data. Include charts, the three largest contributors to the change, and data caveats.
+[(opens in a new window)](<https://chatgpt.com/?q=Deepnote+Find+the+latest+failed+run+of+our+weekly+reporting+notebook.+Review+its+blocks+and+available+run+outputs%2C+explain+the+likely+cause%2C+and+recommend+the+smallest+correction+with+a+way+to+validate+it.>)
 
-**@Deepnote** Inspect our warehouse connection and identify the projects, notebooks, and SQL blocks that use it. Summarize the analyses affected and prepare a checklist for validating them after a migration.
 
-**@Deepnote** Find the latest failed run of our weekly reporting notebook. Review its blocks and available run outputs, explain the likely cause, and recommend the smallest correction with a way to validate it.
+
+
+## What’s included
+
+### App
+
+  * ![](https://files.openai.com/content?id=file_00000000f92071f79930229160a6ca3b&cdn=1&cp=pi&ma=30585600&ts=0&p=pi&cid=8&sig=6faeb8bbf3cc92b5d0996a82dd40d42ac8b54a7aa3afa8c7950b2f36720a3de7&v=0)Deepnote
+
+
+
+### Skills
+
+  * deepnote
+  * deepnote-data-execution
+  * deepnote-links
+  * deepnote-notebook-editing
+  * deepnote-notebooks
+
+
 
 ## Resources
 
-### [Help centerRead more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
+### [Help centerLearn more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
 
-### [Plugin supportRead more](<https://support@deepnote.com>)
+### [Plugin supportLearn more](<https://support@deepnote.com>)
 
-### [Privacy policyRead more](<https://deepnote.com/privacy>)
+### [Privacy policyLearn more](<https://deepnote.com/privacy>)
 
 ## Get started with plugins
 

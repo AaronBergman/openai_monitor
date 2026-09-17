@@ -24,7 +24,9 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 [Contact sales](</contact-sales/>)Try OpenAI
 
-OpenAI[View all plugins](</business/plugins/>)
+OpenAI
+
+[Plugins](</business/plugins/>)
 
 ![](https://files.openai.com/content?id=file_00000000e4a8720c9b8cba8aaa6e4f70&cdn=1&cp=pi&ma=30672000&ts=0&p=pi&cid=1&sig=d35f6f0a310b11e0360584d048c93f8d76adf2e2f59543a08c73b34c7e02721f&v=0)![](https://files.openai.com/content?id=file_00000000e4a8720c9b8cba8aaa6e4f70&cdn=1&cp=pi&ma=30672000&ts=0&p=pi&cid=1&sig=d35f6f0a310b11e0360584d048c93f8d76adf2e2f59543a08c73b34c7e02721f&v=0)
 
@@ -34,51 +36,90 @@ Build banking analysis and client-ready materials.
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/Plugin_68c39ea2b3888191827c933053f3a1d1>)[Contact sales](</contact-sales/>)
 
+Capabilities
+    Interactive, Read, Write
+
+Category
+    [Finance](</business/plugins/?tab=plugins-finance>)
+
+Developer
+    OpenAI
+
+Website
+    [(opens in a new window)](<https://openai.com/>)
+
 [![](https://files.openai.com/content?id=file_00000000ce8481f7986ba74ddb54af68&cdn=1&cp=pi&ma=31881600&ts=0&p=pi&cid=8&sig=37c56c250e41c08c08743a7faa4863d310b65e8c99cf648f250452b5e474f5f9&v=0)Investment Banking Prepare an Intel strategic alternatives memo: asset sales, foundry partnerships, capital needs, buyers, and diligence gaps.(opens in a new window)](<https://chatgpt.com/?prompt=%40Investment+Banking+Prepare+an+Intel+strategic+alternatives+memo%3A+asset+sales%2C+foundry+partnerships%2C+capital+needs%2C+buyers%2C+and+diligence+gaps.>)[![](https://files.openai.com/content?id=file_00000000ce8481f7986ba74ddb54af68&cdn=1&cp=pi&ma=31881600&ts=0&p=pi&cid=8&sig=37c56c250e41c08c08743a7faa4863d310b65e8c99cf648f250452b5e474f5f9&v=0)Investment Banking Build Boeing financing alternatives: liquidity needs, debt capacity, rating risk, equity or hybrid options, and banker advice.(opens in a new window)](<https://chatgpt.com/?prompt=%40Investment+Banking+Build+Boeing+financing+alternatives%3A+liquidity+needs%2C+debt+capacity%2C+rating+risk%2C+equity+or+hybrid+options%2C+and+banker+advice.>)[![](https://files.openai.com/content?id=file_00000000ce8481f7986ba74ddb54af68&cdn=1&cp=pi&ma=31881600&ts=0&p=pi&cid=8&sig=37c56c250e41c08c08743a7faa4863d310b65e8c99cf648f250452b5e474f5f9&v=0)Investment Banking Analyze Warner Bros. Discovery as a breakup candidate: buyers, asset separation, leverage, valuation, process risks, and gaps.(opens in a new window)](<https://chatgpt.com/?prompt=%40Investment+Banking+Analyze+Warner+Bros.+Discovery+as+a+breakup+candidate%3A+buyers%2C+asset+separation%2C+leverage%2C+valuation%2C+process+risks%2C+and+gaps.>)
-
-Use case: [Finance](</business/plugins/?tab=plugins-finance>)
-
-Made by: OpenAI
-
-Website: [openai.com(opens in a new window)](<https://openai.com/>)
 
 ## How it works
 
 Use Investment Banking in ChatGPT to draft client-ready market updates, company profiles, comps summaries, pitch materials, and diligence support with clear assumptions for banker review.
 
-### Speed up client-ready drafting
+## Common use cases
+
+  * ### Speed up client-ready drafting
 
 Turn notes, data, and source materials into polished first drafts of market updates, pitch sections, and meeting prep.
 
-### Structure analysis and assumptions
+Investment Banking Draft a client-ready market update for [sector] with key themes, notable transactions, risks, and talking points.
+
+[(opens in a new window)](<https://chatgpt.com/?q=Investment+Banking+Draft+a+client-ready+market+update+for+%5Bsector%5D+with+key+themes%2C+notable+transactions%2C+risks%2C+and+talking+points.>)
+
+  * ### Structure analysis and assumptions
 
 Organize comps, precedent transaction notes, valuation drivers, and diligence findings so reviewers can inspect the logic.
 
-### Prepare bankers for conversations
+Investment Banking Build an accretion/dilution model for [ACQUIRER] acquiring [TARGET] with consideration mix, financing assumptions, synergies, and EPS impact.
+
+[(opens in a new window)](<https://chatgpt.com/?q=Investment+Banking+Build+an+accretion%2Fdilution+model+for+%5BACQUIRER%5D+acquiring+%5BTARGET%5D+with+consideration+mix%2C+financing+assumptions%2C+synergies%2C+and+EPS+impact.>)
+
+  * ### Prepare bankers for conversations
 
 Create call prep, buyer lists, question sets, and follow-up materials that keep teams aligned on next steps.
 
-## Sample prompts
+Investment Banking Build a prioritized buyer universe for [TARGET] with strategic and sponsor buyers, outreach rationale, likely concerns, and wave sequencing.
 
-Draft market update
+[(opens in a new window)](<https://chatgpt.com/?q=Investment+Banking+Build+a+prioritized+buyer+universe+for+%5BTARGET%5D+with+strategic+and+sponsor+buyers%2C+outreach+rationale%2C+likely+concerns%2C+and+wave+sequencing.>)
 
-**@Investment Banking** Draft a client-ready market update for [sector] with key themes, notable transactions, risks, and talking points.
 
-Buyer list
 
-**@Investment Banking** Build an accretion/dilution model for [ACQUIRER] acquiring [TARGET] with consideration mix, financing assumptions, synergies, and EPS impact.
 
-M&A model
+## What’s included
 
-**@Investment Banking** Build a prioritized buyer universe for [TARGET] with strategic and sponsor buyers, outreach rationale, likely concerns, and wave sequencing.
+### Apps
+
+  * ![](https://files.openai.com/content?id=file_00000000dc7c71fd8213f2c75804d1d3&cdn=1&cp=pi&ma=30240000&ts=0&p=pi&cid=8&sig=3ea4b7ce3505fba383377ac5ffba6ac1c2809a009416862019de7f5caa17ee45&v=0)Slack
+  * ![](https://files.openai.com/content?id=file_00000000054071f6a741dd5d7b628fa2&cdn=1&cp=pi&ma=31795200&ts=0&p=pi&cid=8&sig=211ad3867a45dd32cdebba1d0492d56ee9800c4a2d0eba5e1ed2657f5dd4ec65&v=0)FactSet AI-Ready Data
+  * ![](https://files.openai.com/content?id=file_00000000838c71f689139639dc435b8e&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=8&sig=ded0420cc73fb5c48598cd93c52b4a70df4b0f8445c20c8d1c8c2ecc49f77954&v=0)LSEG
+  * ![](https://files.openai.com/content?id=file_000000000b0871f681cf070ad42e6f47&cdn=1&cp=pi&ma=31536000&ts=0&p=pi&cid=8&sig=2ea825488886901ff5f14e79cbcdecc2d386249ae609727e5466e71d6fb5acc2&v=0)S&P Global - Deterministic
+  * ![](https://files.openai.com/content?id=file_000000000aac722f9874ed898f906fe5&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=1&sig=85be1e32ecd5938ebde62c35d9d37bc83792db94ae1d5bbc145313f90f374c50&v=0)PitchBook
+  * ![](https://files.openai.com/content?id=file_000000002c3c71f694189cab5696762c&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=8&sig=5ad2a39fb299db4c5627add19d40115f7717bc4108960506f94366445fd0ed78&v=0)Moody’s
+  * ![](https://files.openai.com/content?id=file_000000005c2871f687e91ff19cf14485&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=7&sig=02294f7bf0ef6013d4ee595b83d42995be0e52760b660bc21e45f4a1ae1043b8&v=0)Third Bridge
+  * ![](https://files.openai.com/content?id=file_00000000af747230bc1606d46c839ee8&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=1&sig=c8a8bc6383ae28c34005525b223aab157382f62b2c5ff707b76f4a38b1b33e32&v=0)Daloopa
+  * 4 more
+
+
+
+### Skills
+
+  * Buyer Investor List
+  * Capital Markets Issuance
+  * CIM Builder
+  * CIM Teardown
+  * ![](https://files.openai.com/content?id=file_00000000e8e081f7a19b5b641bd13ea6&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=736945f336742fd8de20e4c83692db8b3946c2257bfd870452fc54d5f382a65b&v=0)Company Tearsheet
+  * Comps Valuation
+  * Covenant Package Analyzer
+  * DCF Model Builder
+  * 15 more
+
+
 
 ## Resources
 
-### [Help centerRead more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
+### [Help centerLearn more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
 
-### [Plugin supportRead more](<https://help.openai.com/>)
+### [Plugin supportLearn more](<https://help.openai.com/>)
 
-### [Privacy policyRead more](<https://openai.com/policies/privacy-policy/>)
+### [Privacy policyLearn more](<https://openai.com/policies/privacy-policy/>)
 
 ## Get started with plugins
 

@@ -28,6 +28,8 @@ OpenAI
 
 June 1, 2025
 
+[Safety](</news/safety-alignment/>)
+
 # STORM-2035: Recidivist influence activity
 
 OpenAI banned accounts associated with the likely Iran-linked STORM-2035 operation using AI to create influence content about US, UK, Irish, and Venezuelan politics.
@@ -102,6 +104,15 @@ Typical tweets by this operation recorded 150–350 views and zero likes, shares
 
 Using the IO impact [Breakout Scale⁠(opens in a new window)](<https://www.brookings.edu/articles/the-breakout-scale-measuring-the-impact-of-influence-operations/>), we would assess this as Category 1: activity on one platform, with little evidence that real people picked up or widely shared their content.
 
+  * [Iran](</news/?tags=actor-origin-iran>)
+  * [United States](</news/?tags=target-geography-united-states>)
+  * [United Kingdom](</news/?tags=target-geography-united-kingdom>)
+  * [Ireland](</news/?tags=target-geography-ireland>)
+  * [Venezuela](</news/?tags=target-geography-venezuela>)
+  * [Influence operations](</news/?tags=activity-type-influence-operations>)
+
+
+
 ## Author
 
 OpenAI
@@ -116,6 +127,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)

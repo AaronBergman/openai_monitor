@@ -28,6 +28,8 @@ OpenAI
 
 June 1, 2025
 
+[Safety](</news/safety-alignment/>)
+
 # Operation “Wrong Number”: AI-assisted task scam
 
 OpenAI banned accounts that likely originated in Cambodia and used AI to support scam workflows targeting people in the UK.
@@ -69,8 +71,11 @@ The companies this network claimed to represent spanned a broad range of industr
 By combining off-platform indicators with internal observations, we identified a recurring workflow pattern. To promote broader understanding of this tactic and simplify its classification, we describe this pattern as: the ping (cold contact), the zing (generate enthusiasm), and the sting (extract money):
 
   1. The ping (cold contact): The network generates content intended for cold outreach, typically offering unusually high wages for minimal work or promising high returns on stock-market investments. These offers include high pay for simple tasks, such as liking social media posts, or lucrative investment opportunities.
+
   2. The zing (generate enthusiasm): The network translates conversations, likely between the operator and their “employees.” These exchanges include logistical details about tasks but are frequently interspersed with motivational messages about earnings and potential bonuses.
+
   3. The sting (extracting money): The network generates and/or sends content that pressures the “employee” or “investor” to contribute money to unlock larger rewards. This takes several forms, including an initial “deposit,” cryptocurrency purchases, and “handling fees.”
+
 
 
 
@@ -88,6 +93,12 @@ _Telegram message from the network to a potential victim, instructing them to pu
 
 It’s difficult to quantify this network’s true reach given our limited visibility. However, [off-platform reports⁠(opens in a new window)](<https://www.linkedin.com/company/cloudboost-technology-advertising-co-ltd/>) and conversations in which “employees” demanded refunds indicate that at least some individuals paid these alleged employers. We also observed genuine users defending the companies on social media, suggesting a degree of real-world engagement.
 
+  * [Cambodia](</news/?tags=actor-origin-cambodia>)
+  * [United Kingdom](</news/?tags=target-geography-united-kingdom>)
+  * [Fraud & scams](</news/?tags=activity-type-fraud-scams>)
+
+
+
 ## Author
 
 OpenAI
@@ -102,6 +113,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)

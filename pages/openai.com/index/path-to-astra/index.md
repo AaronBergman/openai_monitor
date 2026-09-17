@@ -71,7 +71,9 @@ We will share more details about our safety, security and alignment testing and 
 Under our [_Preparedness Framework_](</index/updating-our-preparedness-framework/>) , a model meets the Critical threshold if either of the following conditions is met:
 
   * The model can identify and develop functional zero-day exploits of all severity levels in many hardened real-world critical systems without human intervention.
+
   * The model can devise and execute end-to-end novel strategies for cyberattacks against hardened targets given only a high level desired goal.
+
 
 
 
@@ -90,7 +92,9 @@ In expert-led assessments against a hardened browser and operating system, Astra
 For models with Astra’s level of cybersecurity capabilities, we need to cover two pathways to minimize risk for severe cyber harm, both during development and before deployment:
 
   * **Malicious actors using the model.** Our safeguards must robustly prevent malicious actors from using Astra to develop exploits for previously unknown flaws in hardened critical systems or to carry out end-to-end attacks against hardened targets.
+
   * **The model taking unauthorized, misaligned actions.** Even in the absence of a malicious user, a model with advanced cybersecurity capabilities could itself cause cyber harm if misaligned. In addition to having a very high standard for alignment for models with these capabilities, our safeguards must be able to rapidly detect and contain misaligned actions that could cause significant real-world harm as a second layer of defense.
+
 
 
 
@@ -107,7 +111,9 @@ Since deploying the first model we treated as High capability in cybersecurity i
 For [_GPT‑5.6_ ⁠(opens in a new window)](<https://deploymentsafety.openai.com/gpt-5-6>), we significantly improved the robustness of our system level stack, including by adding activation classifiers to detect cyberabuse and improving coverage over universal jailbreaks found through intensive automated red-teaming. Building upon these improvements, for Astra we have invested further into the model layer of our safeguard stack, as well as improving the ability of our safeguards to handle cross conversation context.
 
   * Leveraging new training techniques for model robustness, Astra more robustly refuses requests for disallowed cyber assistance. On our set of cyber jailbreak evaluations, Astra refuses 91.5% of requests (compared to 59% from GPT‑5.6 Sol).
+
   * For accounts assessed as higher risk, we apply a more conservative model-behavior boundary that refuses a broader range of potentially risky cyber assistance. For high risk users, we’ve [_expanded the context_](</index/chatgpt-recognize-context-in-sensitive-conversations/>) of our monitoring systems to be able to catch these kinds of cyber abuse.
+
 
 
 
@@ -120,7 +126,9 @@ Helping defenders find and fix vulnerabilities remains a central pillar of our s
 We have also added additional layered protections to prevent the model from taking potentially misaligned actions:
 
   * **Model alignment:** In our evaluations, Astra was far more likely than GPT‑5.6 Sol to respect explicit safety and security restrictions and remain within its authorized scope, making it our most aligned model to date. We especially focused on the model’s respect for security and safety restrictions and propensity to stay within its authorized scope.
+
   * **Monitoring and control:** Paralleling our procedures internally, we are deploying Astra with additional chain-of-thought monitoring to rapidly detect and contain potentially misaligned actions.
+
 
 
 
@@ -166,6 +174,10 @@ OpenAI
 
 [View all](</news/>)
 
+![Our framework for reporting model misalignment — card image](https://images.ctfassets.net/kftzwdyauwt9/3mJz9GkBOjZvAMYPx8M1dj/2a9ac4b7e18b1c08feef5368c4fde2e2/model-misalignment-reporting-framework--cover-v002.png?w=3840&q=90&fm=webp)
+
+[Our framework for reporting model misalignmentResearchSep 16, 2026](</index/model-misalignment-reporting-framework/>)
+
 ![Teen development research grants — Card image](https://images.ctfassets.net/kftzwdyauwt9/492WJ2zEboE6VdmchhCjIA/34e10aa1208a6988e3db2341d849d5b4/4bzz6p65ky7zwfd4pe42ou-cover__3_.png?w=3840&q=90&fm=webp)
 
 [Funding grants for new research into AI and teen developmentSafetySep 8, 2026](</index/teen-development-research-grants/>)
@@ -173,10 +185,6 @@ OpenAI
 ![An alien mind > Listing card](https://images.ctfassets.net/kftzwdyauwt9/7ut3G8rKt5ia4P3yRqi2qN/6ffb429f70548a881eb46a4e7e61498e/Option_120___1080_1080.png?w=3840&q=90&fm=webp)
 
 [An Alien MindSafetySep 6, 2026](</index/an-alien-mind/>)
-
-![Research acceleration: The view inside OpenAI > Cover image](https://images.ctfassets.net/kftzwdyauwt9/5kS3OG1Jfdja5xLmYcRwgr/f53b9dfe985df5969aff5dc41f2d1934/Art_Card__7_.png?w=3840&q=90&fm=webp)
-
-[Research acceleration: The view inside OpenAIResearchSep 6, 2026](</index/research-acceleration-view-inside-openai/>)
 
 Research
 

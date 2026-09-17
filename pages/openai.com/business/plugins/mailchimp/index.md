@@ -24,7 +24,9 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 [Contact sales](</contact-sales/>)Try OpenAI
 
-OpenAI[View all plugins](</business/plugins/>)
+OpenAI
+
+[Plugins](</business/plugins/>)
 
 ![](https://files.openai.com/content?id=file_00000000c52471f596902ad67edbbd95&cdn=1&cp=pi&ma=32227200&ts=0&p=pi&cid=1&sig=6a8f9ca3177a7d64b691a54e130a3d8b383f79e5821e9dd1c820aa10215c9370&v=0)![](https://files.openai.com/content?id=file_00000000fca081f789836eda5a49d065&cdn=1&cp=pi&ma=30672000&ts=0&p=pi&cid=8&sig=f1d018e8ba09a4f99aca9f43f459ad1a80e1635ae7a031e25267d13dccaaa9df&v=0)
 
@@ -34,51 +36,72 @@ Create marketing campaigns.
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_693b20fccbac8191bdc178bb493de3e5>)[Contact sales](</contact-sales/>)
 
+Category
+    [Operations](</business/plugins/?tab=plugins-operations>)
+
+Developer
+    Intuit Inc
+
+Website
+    [(opens in a new window)](<https://mailchimp.com>)
+
 [![](https://files.openai.com/content?id=file_000000006100822fba053a7663790f13&cdn=1&cp=pi&ma=30412800&ts=0&p=pi&cid=8&sig=972cdfdc85a259f56209337d719704a8fea6db0b3f1feba6c523001c2ecbb6a7&v=0)Intuit Mailchimp Create a 4 week campaign for my business.(opens in a new window)](<https://chatgpt.com/?prompt=%40Intuit+Mailchimp+Create+a+4+week+campaign+for+my+business.>)[![](https://files.openai.com/content?id=file_000000006100822fba053a7663790f13&cdn=1&cp=pi&ma=30412800&ts=0&p=pi&cid=8&sig=972cdfdc85a259f56209337d719704a8fea6db0b3f1feba6c523001c2ecbb6a7&v=0)Intuit Mailchimp Why did my last campaign underperform?(opens in a new window)](<https://chatgpt.com/?prompt=%40Intuit+Mailchimp+Why+did+my+last+campaign+underperform%3F>)
-
-Use case: [Operations](</business/plugins/?tab=plugins-operations>)
-
-Made by: Intuit Inc
-
-Website: [mailchimp.com(opens in a new window)](<https://mailchimp.com>)
 
 ## How it works
 
 Create multichannel marketing campaign plans in ChatGPT using business inputs, then draft campaigns that can be exported to Mailchimp.
 
-### Plan multichannel campaigns
+## Common use cases
+
+  * ### Plan multichannel campaigns
 
 Create campaign plans for email, SMS, and social channels based on your goals and inputs.
 
-### Draft campaign strategies
+Intuit Mailchimp Create a multichannel campaign plan for a new product launch including email, SMS, and social with timing and messaging themes.
+
+[(opens in a new window)](<https://chatgpt.com/?q=Intuit+Mailchimp+Create+a+multichannel+campaign+plan+for+a+new+product+launch+including+email%2C+SMS%2C+and+social+with+timing+and+messaging+themes.>)
+
+  * ### Draft campaign strategies
 
 Generate suggested audiences, campaign types, and messaging ideas to shape marketing plans.
 
-### Prepare campaigns for execution
+Intuit Mailchimp Propose audience segments for my ecommerce list and suggest an A/B test plan for subject lines and offers.
+
+[(opens in a new window)](<https://chatgpt.com/?q=Intuit+Mailchimp+Propose+audience+segments+for+my+ecommerce+list+and+suggest+an+A%2FB+test+plan+for+subject+lines+and+offers.>)
+
+  * ### Prepare campaigns for execution
 
 Export campaign plans into Mailchimp as draft campaigns to continue setup and launch.
 
-## Sample prompts
+Intuit Mailchimp Convert this strategy into draft campaigns ready to export and label them clearly so my team can approve fast.
 
-Create campaign plan with next steps
+[(opens in a new window)](<https://chatgpt.com/?q=Intuit+Mailchimp+Convert+this+strategy+into+draft+campaigns+ready+to+export+and+label+them+clearly+so+my+team+can+approve+fast.>)
 
-@Mailchimp Create a multichannel campaign plan for a new product launch including email, SMS, and social with timing and messaging themes.
 
-Create audience segments with key details
 
-@Mailchimp Propose audience segments for my ecommerce list and suggest an A/B test plan for subject lines and offers.
 
-Draft campaign plan for external sharing
+## What’s included
 
-@Mailchimp Convert this strategy into draft campaigns ready to export and label them clearly so my team can approve fast.
+### App
+
+  * ![](https://files.openai.com/content?id=file_00000000c52471f596902ad67edbbd95&cdn=1&cp=pi&ma=32227200&ts=0&p=pi&cid=1&sig=6a8f9ca3177a7d64b691a54e130a3d8b383f79e5821e9dd1c820aa10215c9370&v=0)Intuit Mailchimp
+
+
+
+### Skills
+
+  * explain-campaign-performance
+  * plan-my-next-campaign
+
+
 
 ## Resources
 
-### [Help centerRead more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
+### [Help centerLearn more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
 
-### [Plugin supportRead more](<https://mailchimp.com/help/>)
+### [Plugin supportLearn more](<https://mailchimp.com/help/>)
 
-### [Privacy policyRead more](<https://mailchimp.com/about/privacy-rights/>)
+### [Privacy policyLearn more](<https://mailchimp.com/about/privacy-rights/>)
 
 ## Get started with plugins
 

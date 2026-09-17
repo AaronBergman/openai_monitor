@@ -54,7 +54,7 @@ Make Codex work the way your team does
 
 
 
-More than 5 million people now use Codex every week. Codex started as a tool for software development, but it's increasingly useful for more kinds of work. Non-developers—including analysts, marketers, operators, designers, researchers, investors, and bankers—[make up about 20% of overall Codex users⁠](</index/codex-for-knowledge-work/>) and are growing more than 3x as fast as developers.
+More than 5 million people now use Codex every week. Codex started as a tool for software development, but it’s increasingly useful for more kinds of work. Non-developers—including analysts, marketers, operators, designers, researchers, investors, and bankers—[make up about 20% of overall Codex users⁠](</index/codex-for-knowledge-work/>) and are growing more than 3x as fast as developers.
 
 Today, we’re introducing new ways to do more of your work with Codex: plugins that adapt Codex to your role and tools, annotations that help you refine the result in place, and a preview of the ability to create interactive websites and apps you can share with your workspace using a URL.
 
@@ -66,13 +66,20 @@ Codex is most useful when it works the way your team does: connected to the tool
 
 Plugins help Codex work with the tools, context, and workflows your team already uses. Today, we’re launching six new role-specific plugins that make Codex useful for more kinds of knowledge work, no coding required:
 
-  * Each [role-specific plugin⁠(opens in a new window)](<https://github.com/openai/role-based-plugins>) bundles the relevant apps, skills, instructions, and workflows. Together, they include 62 popular apps and 110 skills.
+  * Each role-specific plugin bundles the relevant apps, skills, instructions, and workflows. Together, they include 62 popular apps and 110 skills.
+
   * The [**data analytics plugin** ⁠(opens in a new window)](<https://chatgpt.com/plugins/share/32687761205248ae9b517f3d30ad8dd1>) helps analysts and business teams answer questions with data. They can explore product and business data, explain why key metrics changed, and create reports and dashboards using tools like Snowflake, Databricks Genie, Hex, and Tableau, with more coming soon.
+
   * The [**creative production plugin** ⁠(opens in a new window)](<https://chatgpt.com/plugins/share/a826391706e14c90816f2ceba9cc8b49>)**** helps marketing and creative teams turn a brief into assets they can review. Teams can create campaign boards, make and refine display ad variations, and produce product lifestyle shots or ecommerce-ready image sets with tools like Figma, Canva, Shutterstock, Picsart, and Fal.
+
   * The [**sales plugin** ⁠(opens in a new window)](<https://chatgpt.com/plugins/share/22ec24462a4a410bba1c56c099f6101c>) helps sales teams bring customer context into the work that moves deals forward. Sales teams can find high-priority accounts and signals, prepare for customer meetings, complete follow-ups, update customer records, build close plans, and review deals at risk using tools like Salesforce, HubSpot, Slack, Outreach, Clay, Rox, and Actively.
+
   * The [**product design plugin** ⁠(opens in a new window)](<https://chatgpt.com/plugins/share/37f657dbc41f408d9b05b52d30b8b527>) is built for turning early ideas into prototypes teams can review. Teams can explore product directions, audit user flows, prototype from a live URL, and make static screenshots interactive, with work that can be carried forward in tools like Figma and Canva.
+
   * The [**public equity investing plugin** ⁠(opens in a new window)](<https://chatgpt.com/plugins/share/8f2f2fb7215f4688a0853afd038f2a1a>) helps investors make sense of market and company information. They can review earnings, compare companies, track signals, and assess whether an investment thesis is strengthening or weakening using information from Moody’s, Daloopa, Datasite, FactSet, LSEG, S&P, PitchBook, and Hebbia.
+
   * The [**investment banking plugin** ⁠(opens in a new window)](<https://chatgpt.com/plugins/share/479468a8d5224cb2976c0fe6c6e599b5>) helps bankers turn research and diligence into client-ready materials. They can prepare pitch materials, analyze comparable companies and transactions, and turn diligence into recommendations using trusted data.
+
 
 
 
@@ -611,17 +618,17 @@ OpenAI
 
 [View all](</news/>)
 
+![Reimagining advertising with AI — Card cover](https://images.ctfassets.net/kftzwdyauwt9/fHwkKLVG8WFHvuUPqMXtz/1c49ba0859fe1e1e21f5d64f692490f5/reimagining-advertising-with-ai-cover.png?w=3840&q=90&fm=webp)
+
+[Reimagining advertising with AIProductSep 16, 2026](</index/reimagining-advertising-with-ai/>)
+
+![How to connect AI usage to business value — art card](https://images.ctfassets.net/kftzwdyauwt9/36T42HPkipcJAs08yNirmR/f73d9408ef4f0b08b5cce3b839656843/cover-018.png?w=3840&q=90&fm=webp)
+
+[How to connect AI usage to business valueProductSep 16, 2026](</index/how-to-connect-ai-usage-to-business-value/>)
+
 ![Now everyone can put data to work — card image](https://images.ctfassets.net/kftzwdyauwt9/6FhMXOSe8XadGwEUev6QjJ/916a64d20bcc59b8619fea1827fa6bd3/put-data-to-work--cover-v001.png?w=3840&q=90&fm=webp)
 
 [Now everyone can put data to workProductSep 10, 2026](</index/put-data-to-work/>)
-
-![FinServ Blog - Art Card Texture Square](https://images.ctfassets.net/kftzwdyauwt9/6Bcg403pebiJhQdHUS17FK/572e478dc4579deca27c9700c662e908/finserv-art-card.png?w=3840&q=90&fm=webp)
-
-[Introducing ChatGPT for Financial ServicesProductSep 10, 2026](</index/introducing-chatgpt-financial-services/>)
-
-![GPT-Live-1 API | Green-blue cover | Option 038](https://images.ctfassets.net/kftzwdyauwt9/1uBabEULLfw3Vb2Gldmyyq/c19c1c121ca403ee8b2703cba18ef82d/introducing-gpt-live-1-green-cover.png?w=3840&q=90&fm=webp)
-
-[Build more natural voice experiences with GPT‑Live‑1 in the APIProductSep 10, 2026](</index/introducing-gpt-live-1-in-the-api/>)
 
 Research
 

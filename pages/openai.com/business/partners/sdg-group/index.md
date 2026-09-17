@@ -38,7 +38,7 @@ OpenAI
 
 SDG Group is an AI, Data & Analytics consulting firm with offices in Italy, Spain, the USA, the UK, the Middle East, Portugal, the Netherlands, and Mexico. We help companies become truly data-driven, enhancing their agility and ability to adapt to market changes through co-created solutions and deep expertise in multiple business domains and industries. These results are made possible by a unique combination of business insight, advanced technologies, and a team of over 2,700 consultants.
 
-![Advanced Partner](/images/partner-tier-badges/OAI_PartnerNetwork_AdvancedPartner.svg?dpl=dpl_7AjPT4EAzjLn9jJMncY33GWAq9XL)
+![Advanced Partner](/images/partner-tier-badges/OAI_PartnerNetwork_AdvancedPartner.svg?dpl=dpl_GL1UxgKZ7jmDjn2HVeCSxaftH7vR)
 
 Countries served
     Global

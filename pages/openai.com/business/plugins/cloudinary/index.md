@@ -24,7 +24,9 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 [Contact sales](</contact-sales/>)Try OpenAI
 
-OpenAI[View all plugins](</business/plugins/>)
+OpenAI
+
+[Plugins](</business/plugins/>)
 
 ![](https://files.openai.com/content?id=file_00000000ffac722f987914a6f7db710b&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=26b2c9500db3c7de3659e1e158826d1ced4806f01d50f831132375e3b497a249&v=0)![](https://files.openai.com/content?id=file_00000000aa0081f79505b7d543758347&cdn=1&cp=pi&ma=30499200&ts=0&p=pi&cid=8&sig=73f24d3e0b666fdb3c380b13bb034ddd67e0e42a39ef70031b8401cfe081741c&v=0)
 
@@ -34,51 +36,65 @@ Manage, modify, and host your images and videos.
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_691f245d4070819184e05b4889161ba8>)[Contact sales](</contact-sales/>)
 
+Category
+    [Engineering & IT](</business/plugins/?tab=plugins-engineering-it>)
+
+Developer
+    Cloudinary
+
+Website
+    [(opens in a new window)](<https://cloudinary.com/>)
+
 [![](https://files.openai.com/content?id=file_000000007edc71f5b6e71a05d16220aa&cdn=1&cp=pi&ma=30585600&ts=0&p=pi&cid=1&sig=75532cd6420897161acc72328af06673960ff00435b9f4ed2d4a75c7194673a8&v=0)Cloudinary Upload this image and enable auto-tagging(opens in a new window)](<https://chatgpt.com/?prompt=%40Cloudinary+Upload+this+image+and+enable+auto-tagging>)
-
-Use case: [Engineering & IT](</business/plugins/?tab=plugins-engineering-it>)
-
-Made by: Cloudinary
-
-Website: [cloudinary.com(opens in a new window)](<https://cloudinary.com/>)
 
 ## How it works
 
 Connect your Cloudinary account to ChatGPT to manage, search, and transform images and videos from your media library using natural language.
 
-### Search and retrieve media assets
+## Common use cases
+
+  * ### Search and retrieve media assets
 
 Browse and search your Cloudinary media library by tag, folder, format, or metadata to find images and videos.
 
-### Transform images and videos
+Cloudinary Search my media library for assets tagged [tag] in folder [folder]. Return the top 10 results with file names, formats, dimensions, and last updated date.
+
+[(opens in a new window)](<https://chatgpt.com/?q=Cloudinary+Search+my+media+library+for+assets+tagged+%5Btag%5D+in+folder+%5Bfolder%5D.+Return+the+top+10+results+with+file+names%2C+formats%2C+dimensions%2C+and+last+updated+date.>)
+
+  * ### Transform images and videos
 
 Transform images or videos using Cloudinary’s syntax to resize, crop, reformat, compress, or apply filters for different use cases.
 
-### Organize and manage media libraries
+Cloudinary Take this asset and create optimized variants for web and social (e.g., 1200px, 1080px, 600px wide), using sensible crop and compression. Return the transformation URLs.
+
+[(opens in a new window)](<https://chatgpt.com/?q=Cloudinary+Take+this+asset+and+create+optimized+variants+for+web+and+social+%28e.g.%2C+1200px%2C+1080px%2C+600px+wide%29%2C+using+sensible+crop+and+compression.+Return+the+transformation+URLs.>)
+
+  * ### Organize and manage media libraries
 
 Upload assets, create folders, rename files, manage metadata, and maintain your Cloudinary media library directly from ChatGPT.
 
-## Sample prompts
+Cloudinary Create a folder structure for this campaign, move these assets into it, and add metadata fields for campaign, channel, and owner. Summarize what changed.
 
-Find assets by tag and folder
+[(opens in a new window)](<https://chatgpt.com/?q=Cloudinary+Create+a+folder+structure+for+this+campaign%2C+move+these+assets+into+it%2C+and+add+metadata+fields+for+campaign%2C+channel%2C+and+owner.+Summarize+what+changed.>)
 
-**@Cloudinary** Search my media library for assets tagged [tag] in folder [folder]. Return the top 10 results with file names, formats, dimensions, and last updated date.
 
-Generate resized web variants
 
-**@Cloudinary** Take this asset and create optimized variants for web and social (e.g., 1200px, 1080px, 600px wide), using sensible crop and compression. Return the transformation URLs.
 
-Organize assets with metadata
+## What’s included
 
-**@Cloudinary** Create a folder structure for this campaign, move these assets into it, and add metadata fields for campaign, channel, and owner. Summarize what changed.
+### App
+
+  * ![](https://files.openai.com/content?id=file_00000000ffac722f987914a6f7db710b&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=26b2c9500db3c7de3659e1e158826d1ced4806f01d50f831132375e3b497a249&v=0)Cloudinary
+
+
 
 ## Resources
 
-### [Help centerRead more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
+### [Help centerLearn more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
 
-### [Plugin supportRead more](<https://cloudinary.com/documentation>)
+### [Plugin supportLearn more](<https://cloudinary.com/documentation>)
 
-### [Privacy policyRead more](<https://cloudinary.com/privacy>)
+### [Privacy policyLearn more](<https://cloudinary.com/privacy>)
 
 ## Get started with plugins
 

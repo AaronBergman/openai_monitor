@@ -28,6 +28,8 @@ OpenAI
 
 October 1, 2024
 
+[Safety](</news/safety-alignment/>)
+
 # STORM-0817: Iran-linked malware and scraping activity
 
 OpenAI banned Iran-linked STORM-0817 accounts using AI to debug Android malware, scrape social platforms, and translate tooling.
@@ -53,15 +55,25 @@ These behaviors gave us unique insights into this adversary’s operations, incl
 STORM-0817 asked our models for debugging and coding support in implementing Android malware and the corresponding command and control infrastructure. The malware targeted Android and was relatively rudimentary. Code snippets in attacker supplied prompts indicated it had standard surveillanceware capabilities and could retrieve:
 
   * Contacts
+
   * Call logs
+
   * Installed packages
+
   * Media on external storage
+
   * Screenshots
+
   * Device IMEI and model
+
   * Browsing history
+
   * Latitude / longitude
+
   * Files off external storage (pdf, excel docs)
+
   * Content downloaded to external storage including files sent by secure messaging apps like WhatsApp and IMO.
+
 
 
 
@@ -99,6 +111,11 @@ Tactic| Technique| Procedure| Indicator
 3\. Coordinating and planning| 3.4 Running C2 infrastructure| 3.4.1 Using domains and subdomains for command and control (C2)| /datas/stickher/public_html//CallLogData.php  
 3\. Coordinating and planning| 3.4 Running C2 infrastructure| 3.4.1 Using domains and subdomains for command and control (C2)| /datas/stickher/public_html//pdf.php  
   
+  * [Iran](</news/?tags=actor-origin-iran>)
+  * [Cyber operations](</news/?tags=cyber-operations>)
+
+
+
 ## Author
 
 OpenAI
@@ -113,6 +130,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)

@@ -24,7 +24,9 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 [Contact sales](</contact-sales/>)Try OpenAI
 
-OpenAI[View all plugins](</business/plugins/>)
+OpenAI
+
+[Plugins](</business/plugins/>)
 
 ![](https://files.openai.com/content?id=file_00000000a9a081f78752dfef864b2597&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=18fa18d4c839a23ca63639259d332c2f50d433faa731d9b7755f08c333b78e47&v=0)![](https://files.openai.com/content?id=file_00000000a9a081f78752dfef864b2597&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=18fa18d4c839a23ca63639259d332c2f50d433faa731d9b7755f08c333b78e47&v=0)
 
@@ -34,51 +36,78 @@ Search and reference files from your Drive.
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_1p_ab21a553bfbc81919ea8fd1858e3ffa7>)[Contact sales](</contact-sales/>)
 
+Capabilities
+    Interactive, Write
+
+Category
+    [Productivity](</business/plugins/?tab=plugins-productivity>)
+
+Developer
+    OpenAI
+
+Website
+    [(opens in a new window)](<https://workspace.google.com/products/drive/>)
+
 [![](https://files.openai.com/content?id=file_00000000d44881f79ef4a45a9ca31665&cdn=1&cp=pi&ma=32140800&ts=0&p=pi&cid=8&sig=6da12bcc88c49877a8da66336a373910832a7afa15d9c4fbb0099bc5d7324ae6&v=0)Google Drive Search my Drive for the latest Q4 board deck and write a 10-bullet executive recap with the 3 biggest risks and 3 next actions(opens in a new window)](<https://chatgpt.com/?prompt=%40Google+Drive+Search+my+Drive+for+the+latest+Q4+board+deck+and+write+a+10-bullet+executive+recap+with+the+3+biggest+risks+and+3+next+actions>)[![](https://files.openai.com/content?id=file_00000000d44881f79ef4a45a9ca31665&cdn=1&cp=pi&ma=32140800&ts=0&p=pi&cid=8&sig=6da12bcc88c49877a8da66336a373910832a7afa15d9c4fbb0099bc5d7324ae6&v=0)Google Drive Rewrite this product one-pager using our brand guidelines doc: match the voice and format while keeping facts intact(opens in a new window)](<https://chatgpt.com/?prompt=%40Google+Drive+Rewrite+this+product+one-pager+using+our+brand+guidelines+doc%3A+match+the+voice+and+format+while+keeping+facts+intact>)[![](https://files.openai.com/content?id=file_00000000d44881f79ef4a45a9ca31665&cdn=1&cp=pi&ma=32140800&ts=0&p=pi&cid=8&sig=6da12bcc88c49877a8da66336a373910832a7afa15d9c4fbb0099bc5d7324ae6&v=0)Google Drive From [folder], pull key deliverables, timeline, and open questions, then draft a client-ready status update(opens in a new window)](<https://chatgpt.com/?prompt=%40Google+Drive+From+%5Bfolder%5D%2C+pull+key+deliverables%2C+timeline%2C+and+open+questions%2C+then+draft+a+client-ready+status+update>)
-
-Use case: [Productivity](</business/plugins/?tab=plugins-productivity>) and [Data](</business/plugins/?tab=plugins-data-research>)
-
-Made by: OpenAI
-
-Website: [workspace.google.com(opens in a new window)](<https://workspace.google.com/products/drive/>)
 
 ## How it works
 
 Work with Google Drive documents—including Docs, Slides, PDFs, and uploaded files—to search content, create summaries, synthesize information, and pull context into new drafts without manually switching between documents.
 
-### Accelerate drafting from existing content
+## Common use cases
+
+  * ### Accelerate drafting from existing content
 
 Generate first drafts of executive updates, reports, or playbooks from selected Drive files so teams start from accurate material and reduce rewriting and review time.
 
-### Simplify research synthesis across many documents
+Google Drive Search my Drive for the latest Q4 board deck and write a 10-bullet executive recap with the 3 biggest risks and 3 next actions.
+
+[(opens in a new window)](<https://chatgpt.com/?q=Google+Drive+Search+my+Drive+for+the+latest+Q4+board+deck+and+write+a+10-bullet+executive+recap+with+the+3+biggest+risks+and+3+next+actions.>)
+
+  * ### Simplify research synthesis across many documents
 
 Ask questions across multiple Docs, Slides, and PDFs and get concise syntheses, risk highlights, and version comparisons so stakeholders can align faster with fewer meetings.
 
-### Apply consistent standards to documents and presentations
+Google Drive From [folder], pull key deliverables, timeline, and open questions, then draft a client-ready status update.
+
+[(opens in a new window)](<https://chatgpt.com/?q=Google+Drive+From+%5Bfolder%5D%2C+pull+key+deliverables%2C+timeline%2C+and+open+questions%2C+then+draft+a+client-ready+status+update.>)
+
+  * ### Apply consistent standards to documents and presentations
 
 Use brand, policy, and guideline documents as a source of truth so generated decks, briefs, and onboarding materials stay aligned with current standards.
 
-## Sample prompts
+Google Drive Use our brand guidelines doc and rewrite this product one-pager to match the approved voice and formatting while keeping facts intact.
 
-Create executive summary
+[(opens in a new window)](<https://chatgpt.com/?q=Google+Drive+Use+our+brand+guidelines+doc+and+rewrite+this+product+one-pager+to+match+the+approved+voice+and+formatting+while+keeping+facts+intact.>)
 
-**@Google Drive** Search my Drive for the latest Q4 board deck and write a 10-bullet executive recap with the 3 biggest risks and 3 next actions.
 
-Rewrite content to match brand voice
 
-**@Google Drive** From [folder], pull key deliverables, timeline, and open questions, then draft a client-ready status update.
 
-Summarize project status for quick alignment
+## What’s included
 
-**@Google Drive** Use our brand guidelines doc and rewrite this product one-pager to match the approved voice and formatting while keeping facts intact.
+### App
+
+  * ![](https://chatgpt.com/images/ecosystem/apps/google_drive/icon.png)Google Drive
+
+
+
+### Skills
+
+  * ![](https://files.openai.com/content?id=file_00000000695881f7bc9af5bfae7716a0&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=6e6e7756e42cc19165e11b702cd64e73b86e8bb1639a43b29143df68f44cd00c&v=0)Google Docs
+  * ![](https://files.openai.com/content?id=file_00000000b01c81f7a134143afc2999a9&cdn=1&cp=pi&ma=31363200&ts=0&p=pi&cid=8&sig=8b354b353e61b8015923195e01af6f75c025845894e3831e35d6b3aab756e623&v=0)Google Drive
+  * Google Drive Comments
+  * ![](https://files.openai.com/content?id=file_00000000557481f7bf8d442719dc2b00&cdn=1&cp=pi&ma=30758400&ts=0&p=pi&cid=8&sig=ded97c83fd7923b04edbb1f0835a571f636aacd754fc556491d85572b64b047b&v=0)Google Sheets
+  * ![](https://files.openai.com/content?id=file_000000006b8881f7b2278b221925d2d6&cdn=1&cp=pi&ma=30499200&ts=0&p=pi&cid=8&sig=0eafb35f92d653e74e8ee8b47b6305fc15cf7cfe6a9aa0d43b84ec0b345a4bdc&v=0)Google Slides
+
+
 
 ## Resources
 
-### [Help centerRead more](<https://help.openai.com/en/articles/10948259-google-drive-synced-connectors-self-service-setup>)
+### [Help centerLearn more](<https://help.openai.com/en/articles/10948259-google-drive-synced-connectors-self-service-setup>)
 
-### [Plugin supportRead more](<https://support.google.com/drive/>)
+### [Plugin supportLearn more](<https://support.google.com/drive/>)
 
-### [Privacy policyRead more](<https://policies.google.com/privacy>)
+### [Privacy policyLearn more](<https://policies.google.com/privacy>)
 
 ## Get started with plugins
 

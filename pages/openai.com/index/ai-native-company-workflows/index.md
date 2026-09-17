@@ -97,11 +97,17 @@ Together, Basis, Clay, and Exa put the patterns we see across Enterprise Signals
 With the frontier gap widening, enterprise leaders need to give employees room to test consequential workflows, measure success, and turn the strongest experiments into repeatable practice. 
 
   * **Choose one consequential value surface.** Start with an end-to-end workflow where a strategic priority, systems, handoffs, controls, and measurable stakes meet. It should repeat often enough to learn from and matter enough to justify redesign.
+
   * **Define the outcome and how you will measure it.** Name the accountable owner, KPI, baseline, and guardrails. Track depth through completed tasks, connected context and tools, exceptions, and review load. Track value through cycle time, quality, cost, revenue, or risk. Output volume can show that people are asking AI to do more; workflow outcomes show whether it matters.
+
   * **Write the agent’s job description.** Define what triggers the work, the outcome, required context, tools, permissions, and how persistently the agent should work toward completion. Specify what evidence it must produce and where it must stop for human review.
+
   * **Build the human system around the agent.** Put the people closest to the workflow in the design loop. Name who owns the business outcome, domain logic, access and controls, adoption, and daily use. Startups compress these responsibilities into a few people; enterprises need explicit decision rights as the workflow scales.
+
   * **Make experimentation visible and reusable.** OpenAI [research](</index/how-enterprises-put-ai-to-work/>) finds that six months after adoption, early-career employees sent 13 more messages per week than executives. Give employees room to test new use cases, then capture the process and evidence behind what works and package it as skills, Plugins, or shared workspaces. [Chat, Work, and Codex⁠(opens in a new window)](<https://help.openai.com/en/articles/20001275-chatgpt-work-and-codex>) support different modes: Chat for questions and quick collaboration, Work for multi-step knowledge work and finished deliverables, and Codex for technical execution.
+
   * **Carry the operating pattern forward.** Preserve the context, permissions, evaluations, review points, owners, measures, and enablement that worked, then apply them to the next value surface. Each new experiment should give the next team a better place to start.
+
 
 
 

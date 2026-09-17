@@ -28,6 +28,8 @@ OpenAI
 
 October 1, 2025
 
+[Safety](</news/safety-alignment/>)
+
 # Scam operations: Online fraud networks
 
 OpenAI banned accounts tied to online fraud networks using AI to support scam scripts, impersonation, translation, and victim engagement.
@@ -86,6 +88,15 @@ In one case, the scammers attempted to explain a large-scale disruption of their
 
 _Screenshot of a WhatsApp message sent by the Cambodia-linked scam operation to an OpenAI investigator following WhatsApp’s takedown._
 
+  * [Cambodia](</news/?tags=actor-origin-cambodia>)
+  * [Myanmar](</news/?tags=actor-origin-myanmar>)
+  * [Nigeria](</news/?tags=actor-origin-nigeria>)
+  * [United States](</news/?tags=target-geography-united-states>)
+  * [Latin America](</news/?tags=target-geography-latin-america>)
+  * [Fraud & scams](</news/?tags=activity-type-fraud-scams>)
+
+
+
 ## Author
 
 OpenAI
@@ -100,6 +111,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)

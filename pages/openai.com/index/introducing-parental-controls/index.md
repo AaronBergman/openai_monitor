@@ -93,10 +93,15 @@ Guardrails help, but they’re not foolproof and can be bypassed if someone is i
 We’re also giving parents additional features they can customize for their teens. From a simple control page, parents can: 
 
   * **Set quiet hours** , or specific times when ChatGPT can’t be used. 
+
   * **Turn off voice mode** , to remove the option to use voice mode in ChatGPT. 
+
   * **Turn off memory** , so ChatGPT won’t save and use memories when responding.
+
   * **Remove image generation** , so ChatGPT won’t have the ability to create or edit images. 
+
   * **Opt out of model training,** so their teen’s conversations won’t be used to improve models powering ChatGPT.
+
 
 
 

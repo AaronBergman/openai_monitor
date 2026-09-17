@@ -24,7 +24,9 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 [Contact sales](</contact-sales/>)Try OpenAI
 
-OpenAI[View all plugins](</business/plugins/>)
+OpenAI
+
+[Plugins](</business/plugins/>)
 
 ![](https://files.openai.com/content?id=file_000000009080720c98a45b9cd6ee083f&cdn=1&cp=pi&ma=30758400&ts=0&p=pi&cid=1&sig=8934eb25d96bba2bfd29b97de3ed875d8caa4e7e17c1b48e28843cc9423b10a9&v=0)![](https://files.openai.com/content?id=file_00000000c9bc81f7b98a27c81cc57bd7&cdn=1&cp=pi&ma=32659200&ts=0&p=pi&cid=8&sig=f14586e5e1c0907518a48f23fe94ffc19b99c728d987e8dab9ba8dd5111e4f94&v=0)
 
@@ -34,51 +36,65 @@ Find and create figures
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_691e3de0d2708191a6476a7b36e38779>)[Contact sales](</contact-sales/>)
 
+Category
+    [Design & Creative](</business/plugins/?tab=plugins-design-creative>)
+
+Developer
+    BioRender
+
+Website
+    [(opens in a new window)](<https://biorender.com/>)
+
 [![](https://files.openai.com/content?id=file_00000000940c71f7ab8384b5e684f813&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=1&sig=7fef39ef80b4fae6e0a4d54adfc75cddfff71d8e6ff320bf2bbc7c8487ed127e&v=0)BioRender Create a figure showing how CAR-T cells recognize and kill tumor cells.(opens in a new window)](<https://chatgpt.com/?prompt=%40BioRender+Create+a+figure+showing+how+CAR-T+cells+recognize+and+kill+tumor+cells.>)[![](https://files.openai.com/content?id=file_00000000940c71f7ab8384b5e684f813&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=1&sig=7fef39ef80b4fae6e0a4d54adfc75cddfff71d8e6ff320bf2bbc7c8487ed127e&v=0)BioRender Find existing figures or templates about T cell activation and the immune synapse.(opens in a new window)](<https://chatgpt.com/?prompt=%40BioRender+Find+existing+figures+or+templates+about+T+cell+activation+and+the+immune+synapse.>)
-
-Use case: [Design & Creative](</business/plugins/?tab=plugins-design-creative>)
-
-Made by: BioRender
-
-Website: [biorender.com(opens in a new window)](<https://biorender.com/>)
 
 ## How it works
 
 Search BioRender's library of scientific templates, find your files, and generate custom first-draft figures with AI. Results and previews appear right in your conversation, and every item links back to BioRender so you can open and keep editing.
 
-### Speed up figure planning
+## Common use cases
+
+  * ### Speed up figure planning
 
 Find relevant icons and templates for topics like CRISPR or CAR-T to reduce time spent searching libraries and support draft figure planning.
 
-### Improve research communication
+BioRender I need a figure for a CRISPR knockout experiment. Suggest a clean layout and the icons I should use.
+
+[(opens in a new window)](<https://chatgpt.com/?q=BioRender+I+need+a+figure+for+a+CRISPR+knockout+experiment.+Suggest+a+clean+layout+and+the+icons+I+should+use.>)
+
+  * ### Improve research communication
 
 Use standardized, scientifically accurate visuals to communicate biological concepts consistently across publications, reviews, and presentations.
 
-### Reduce friction across research teams
+BioRender Outline a graphical abstract for this paper summary and recommend how to visually sequence the story.
+
+[(opens in a new window)](<https://chatgpt.com/?q=BioRender+Outline+a+graphical+abstract+for+this+paper+summary+and+recommend+how+to+visually+sequence+the+story.>)
+
+  * ### Reduce friction across research teams
 
 Help scientists and teams align on visual starting points when brainstorming or planning figures before formal design work begins.
 
-## Sample prompts
+BioRender Find existing figures or templates about T cell activation and the immune synapse.
 
-Create research figure with next steps
+[(opens in a new window)](<https://chatgpt.com/?q=BioRender+Find+existing+figures+or+templates+about+T+cell+activation+and+the+immune+synapse.>)
 
-**@BioRender** I need a figure for a CRISPR knockout experiment. Suggest a clean layout and the icons I should use.
 
-Review graphical abstract and flag risks
 
-**@BioRender** Outline a graphical abstract for this paper summary and recommend how to visually sequence the story.
 
-Create submission checklist with key details
+## What’s included
 
-**@BioRender** Find existing figures or templates about T cell activation and the immune synapse.
+### App
+
+  * ![](https://files.openai.com/content?id=file_000000009080720c98a45b9cd6ee083f&cdn=1&cp=pi&ma=30758400&ts=0&p=pi&cid=1&sig=8934eb25d96bba2bfd29b97de3ed875d8caa4e7e17c1b48e28843cc9423b10a9&v=0)BioRender
+
+
 
 ## Resources
 
-### [Help centerRead more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
+### [Help centerLearn more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
 
-### [Plugin supportRead more](<https://support.biorender.com/>)
+### [Plugin supportLearn more](<https://support.biorender.com/>)
 
-### [Privacy policyRead more](<https://biorender.com/privacy>)
+### [Privacy policyLearn more](<https://biorender.com/privacy>)
 
 ## Get started with plugins
 

@@ -24,7 +24,9 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 [Contact sales](</contact-sales/>)Try OpenAI
 
-OpenAI[View all plugins](</business/plugins/>)
+OpenAI
+
+[Plugins](</business/plugins/>)
 
 ![](https://files.openai.com/content?id=file_000000003d64820c9105c859db57fe4d&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=8&sig=bc9fd0fe7aa6a14439c3dae08ded4377aa99f2dd20e5b52ca3db8dd40fd5d2fc&v=0)![](https://files.openai.com/content?id=file_000000001f3c81fd88149faceddc19df&cdn=1&cp=pi&ma=32659200&ts=0&p=pi&cid=8&sig=f45f28e94aaa8443b2c849d11cfe2c843efe0d98efc51230e2ab72c39610b193&v=0)
 
@@ -34,51 +36,79 @@ Make diagrams, slides, assets.
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_68df038e0ba48191908c8434991bbac2>)[Contact sales](</contact-sales/>)
 
-[![](https://files.openai.com/content?id=file_00000000e83081f59a4ed665b9fe9d21&cdn=1&cp=pi&ma=32140800&ts=0&p=pi&cid=8&sig=9c86c2a95c26dd1e355f00de75b6977fcb4381b4d7c7bc45a958a450dcde059e&v=0)Figma Make a simple mobile onboarding wireframe for an app with 5 screens and clear copy placeholders(opens in a new window)](<https://chatgpt.com/?prompt=%40Figma+Make+a+simple+mobile+onboarding+wireframe+for+an+app+with+5+screens+and+clear+copy+placeholders>)[![](https://files.openai.com/content?id=file_00000000e83081f59a4ed665b9fe9d21&cdn=1&cp=pi&ma=32140800&ts=0&p=pi&cid=8&sig=9c86c2a95c26dd1e355f00de75b6977fcb4381b4d7c7bc45a958a450dcde059e&v=0)Figma Create a FigJam flow diagram for our procurement process from request to approval to payment including decision points(opens in a new window)](<https://chatgpt.com/?prompt=%40Figma+Create+a+FigJam+flow+diagram+for+our+procurement+process+from+request+to+approval+to+payment+including+decision+points>)[![](https://files.openai.com/content?id=file_00000000e83081f59a4ed665b9fe9d21&cdn=1&cp=pi&ma=32140800&ts=0&p=pi&cid=8&sig=9c86c2a95c26dd1e355f00de75b6977fcb4381b4d7c7bc45a958a450dcde059e&v=0)Figma Convert this user journey text into a storyboard layout with frames for key moments and annotations(opens in a new window)](<https://chatgpt.com/?prompt=%40Figma+Convert+this+user+journey+text+into+a+storyboard+layout+with+frames+for+key+moments+and+annotations>)
+Category
+    [Design & Creative](</business/plugins/?tab=plugins-design-creative>)
 
-Use case: [Design & Creative](</business/plugins/?tab=plugins-design-creative>) and [Small Business](</business/plugins/?tab=plugins-small-business>)
+Developer
+    Figma
 
-Made by: Figma
+Website
+    [(opens in a new window)](<https://www.figma.com>)
 
-Website: [figma.com(opens in a new window)](<https://www.figma.com>)
+[![](https://files.openai.com/content?id=file_0000000024f8820c99aca12aa7c4aea1&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=6ad06c130b5f6470718cd9915c35cab9c100ff75092d081b027c90a10102e8c0&v=0)Figma read the attached PRD and create a flowchart of the 2FA flow(opens in a new window)](<https://chatgpt.com/?prompt=%40Figma+read+the+attached+PRD+and+create+a+flowchart+of+the+2FA+flow>)[![](https://files.openai.com/content?id=file_0000000024f8820c99aca12aa7c4aea1&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=6ad06c130b5f6470718cd9915c35cab9c100ff75092d081b027c90a10102e8c0&v=0)Figma create a competitive analysis deck comparing travel platforms(opens in a new window)](<https://chatgpt.com/?prompt=%40Figma+create+a+competitive+analysis+deck+comparing+travel+platforms>)
 
 ## How it works
 
 Transform ideas into production-ready designs, slides, and diagrams by generating editable Figma and FigJam assets that streamline creation and collaboration.
 
-### Accelerate content and design creation
+## Common use cases
+
+  * ### Accelerate content and design creation
 
 Generate social posts, ads, and visuals from brief inputs to reduce production cycles and deliver consistent, on-brand assets across teams faster.
 
-### Produce polished presentations quickly
+Figma Convert this user journey text into a storyboard layout with frames for key moments and annotations.
+
+[(opens in a new window)](<https://chatgpt.com/?q=Figma+Convert+this+user+journey+text+into+a+storyboard+layout+with+frames+for+key+moments+and+annotations.>)
+
+  * ### Produce polished presentations quickly
 
 Turn outlines or goals into full slide decks, reducing manual formatting and enabling teams to share executive-ready content with minimal effort.
 
-### Build diagrams that clarify workflows
+Figma create a competitive analysis deck comparing travel platforms
+
+[(opens in a new window)](<https://chatgpt.com/?q=Figma+create+a+competitive+analysis+deck+comparing+travel+platforms>)
+
+  * ### Build diagrams that clarify workflows
 
 Create flowcharts, Gantt charts, and FigJam diagrams from prompts to document processes faster, reduce misalignment, and support smoother cross-functional planning.
 
-## Sample prompts
+Figma Create a FigJam flow diagram for our procurement process from request to approval to payment including decision points.
 
-Generate wireframes
+[(opens in a new window)](<https://chatgpt.com/?q=Figma+Create+a+FigJam+flow+diagram+for+our+procurement+process+from+request+to+approval+to+payment+including+decision+points.>)
 
-**@Figma** Convert this user journey text into a storyboard layout with frames for key moments and annotations.
 
-Draft diagram from documentation
 
-**@Figma** create a competitive analysis deck comparing travel platforms
 
-Create storyboard from text
+## What’s included
 
-**@Figma** Create a FigJam flow diagram for our procurement process from request to approval to payment including decision points.
+### App
+
+  * ![](https://files.openai.com/content?id=file_00000000506c723082a1829c75222641&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=8&sig=51027ff0441b7b917de8a4ddb2e43432c957574a3f152621ae7e541c404a6d69&v=0)Figma
+
+
+
+### Skills
+
+  * figma-code-connect
+  * figma-create-new-file
+  * figma-design-to-code
+  * figma-generate-design
+  * figma-generate-diagram
+  * figma-generate-library
+  * figma-generative-plugins
+  * figma-implement-motion
+  * 6 more
+
+
 
 ## Resources
 
-### [Help centerRead more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
+### [Help centerLearn more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
 
-### [Plugin supportRead more](<https://help.figma.com/>)
+### [Plugin supportLearn more](<https://help.figma.com/>)
 
-### [Privacy policyRead more](<https://www.figma.com/privacy/>)
+### [Privacy policyLearn more](<https://www.figma.com/privacy/>)
 
 ## Get started with plugins
 

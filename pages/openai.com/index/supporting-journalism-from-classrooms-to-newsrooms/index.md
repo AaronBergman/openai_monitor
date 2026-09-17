@@ -87,9 +87,13 @@ Through this program, the Tow-Knight Center and the Knight Lab will help student
 This new initiative builds on OpenAI’s yearslong and ongoing support of the journalism ecosystem, which includes:
 
   * Through our renewed partnership with the **American Journalism Project** , all 50+ of the news organizations in their portfolio will have the opportunity to access ChatGPT enterprise and API credits. AJP’s Product & AI Studio will turn the strongest use cases into reusable tools and infrastructure, and share playbooks and lessons across the portfolio and with the broader nonprofit and local news community.
+
   * OpenAI’s continued support for the **Lenfest Institute for Journalism** ’s AI Collaborative and Fellowship program, providing major local news organizations with funds to hire AI engineering fellows dedicated to building, scaling, and sharing projects that strengthen journalism and the business of news. Projects have focused on reporting on public data, making news archives more accessible to staff, developing new products that expand audience reach, and growing advertising, subscription, and membership revenue.
+
   * An ongoing partnership with **WAN-IFRA** , launched in 2024, through which OpenAI has supported multiple stages of its Newsroom AI Catalyst accelerator program, which has served over 165 newsrooms across Europe, Asia Pacific, South Asia, Latin America, and Australia and New Zealand. The program offers practical training, technical assistance, strategy development, and OpenAI API credits.
+
   * OpenAI’s ongoing work with **INMA** to support international news organizations to understand and shape the role AI can play across journalism and the business of news. The partnership has supported dedicated regional discussions with industry leaders from Europe, Latin America, and Asia Pacific, alongside webinars, and OpenAI API credits for hands-on building.
+
 
 
 

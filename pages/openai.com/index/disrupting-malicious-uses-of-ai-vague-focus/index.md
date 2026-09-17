@@ -28,6 +28,8 @@ OpenAI
 
 June 1, 2025
 
+[Safety](</news/safety-alignment/>)
+
 # Operation “VAGue Focus”: Social engineering and influence activity
 
 OpenAI banned accounts using AI for social engineering, surveillance-themed research, and influence activity targeting critics.
@@ -82,6 +84,14 @@ The social media accounts affiliated with this activity did not gain significant
 
 Using the IO impact [Breakout Scale⁠(opens in a new window)](<https://www.brookings.edu/articles/the-breakout-scale-measuring-the-impact-of-influence-operations/>), we would assess the public-facing part of this operation as being at the low end of Category 2: activity on multiple platforms, but little evidence that real people picked up or widely shared their content. There is insufficient evidence available to assess the impact of the operation’s social engineering and other covert activity.
 
+  * [China](</news/?tags=actor-origin-china>)
+  * [United States](</news/?tags=target-geography-united-states>)
+  * [ Europe](</news/?tags=target-geography-europe>)
+  * [Influence operations](</news/?tags=activity-type-influence-operations>)
+  * [Surveillance & intelligence collection](</news/?tags=activity-type-surveillance-coercion>)
+
+
+
 ## Author
 
 OpenAI
@@ -96,6 +106,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)

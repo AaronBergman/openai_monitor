@@ -65,18 +65,28 @@ The examples below—in the words of the news organizations themselves—are jus
 Publishers are finding many ways to put AI to work to enhance their research and reporting.
 
   * **The Associated Press** is using OpenAI technology to help journalists strengthen reporting, verification and newsroom workflows, all while keeping journalists in control of editorial judgment. A variety of tools help journalists scan overnight news and podcasts for reportable developments; support image and video verification through upload tracing, geolocation and chronolocation; and turn thousands of Supreme Court filings into searchable, structured information. AP is also applying the technology to surface potential stories in government datasets, recommend member content for editors to consider sharing, build integrated and actionable audience metrics reports, and convert AP articles into broadcast scripts. These tools reduce repetitive work and help journalists get to stories faster and devote more time to distinctive, original reporting.
+
   * At **POLITICO** , AI helps journalists analyze large volumes of public documents and data for deeper, more timely original reporting; while commercial teams use AI to tailor client sales experiences with richer data on POLITICO’s offerings, freeing the teams to focus on human relationships.
+
   * **Axios** has built a collection of custom GPTs to help with everything from understanding internal policies, receiving interdepartmental support, submitting open records requests, and checking their copy’s use of their signature Smart Brevity style. The “FOIA Refiner GPT,” for example, helps Axios reporters craft sound open-records requests that are specific, efficient, and less likely to be denied or delayed. The “O Caption! My Caption!” GPT optimizes captions for images on stories. The “Axiomizer” GPT reviews story copy to suggest sharper headlines and clearer writing.
+
   * **The Philadelphia Inquirer** * developed Scribe, an AI-powered tool that helps its journalists monitor public meetings across dozens of municipalities and school districts. Scribe uses OpenAI technology to turn public meeting transcripts into concise, categorized summaries. It then scores and ranks individual developments using a newsworthiness framework created by Inquirer reporters and editors.
+
   * **Axel Springer** is using OpenAI’s technology to elevate reader experiences and newsroom workflows across its brands. At Business Insider, AI powers audience features such as one-tap listening and helps journalists analyze audience commentary, giving reporters more time to focus on original journalism. At WELT, AI helps produce newsletters for niche audiences and provides an additional layer of fact-checking within the CMS while also helping journalists surface developments, sort sources, and assess what holds up before a story is written.
+
   * **Future** is also creating an in-house editorial platform that combines AI agents, flexible workflows and powerful tools into a seamless experience.
 
 
 
+
   * In 2022, the **Le Monde** newsroom expanded its coverage for English-speaking audiences with the launch of Le Monde In English. In 2025, its partnership with OpenAI marked a new step: the editorial teams incorporated their fine-grained translation style book in ChatGPT models in order to help accelerate the publication process. Le Monde freed up time from journalists, enabling them to focus even more on their core reporting and analysis missions.
+
   * **PRISA Media** uses OpenAI technology across a growing set of editorial tools supervised by its journalists: from a trend-and-information tracker built with Codex through vibe coding, to country-specific audio news briefings for the FIFA World Cup at Diario AS, to Vera, the conversational assistant answering EL PAÍS subscribers’ questions. OpenAI models also strengthen its knowledge management, automating high-impact tasks like content vectorization, article translation, and image rights attribution. Together, these initiatives show how AI can be embedded into newsrooms in practical ways, helping its teams spot opportunities, work faster, and extend the reach of its journalism.
+
   * **The Daily Beast** data team has built Data Scouts, a suite of OpenAI-powered agents that helps newsroom and business teams move more quickly from information to action. Rather than simply summarizing data, Data Scouts identify new opportunities, explain what is happening across the business, and recommend practical next steps for people to review. Most Data Scout interactions happen in Slack, where Daily Beast teams already collaborate and make decisions. This brings insights into existing conversations instead of requiring people to adopt another dashboard, while remaining flexible enough to meet teams in other tools and workflows.
+
   * The **American Journalism Project** ’s Product & AI Studio—supported by OpenAI—is a center of excellence helping local news organizations responsibly leverage AI to strengthen their work and sustainability. Nonprofit news organizations are quickly adopting AI workflows and seeing tangible benefits. Using OpenAI technology, Centro de Periodismo Investigativo (CPI), Puerto Rico’s leading investigative newsroom, built a [collection⁠(opens in a new window)](<https://l.gourl.es/l/344323a6711f2d6475b6108b1e3062c51690903d?w=amRldXRyb21Ab3BlbmFpLmNvbQ&u=13835094>) of custom GPTs that save time for its small team as they draft and translate donor communications in both English and Spanish—all while preserving the newsroom’s authentic voice. Innovations are traveling across the country, landing where they can be most impactful. CPI also developed a ChatGPT‑powered translation workflow that has since [inspired⁠(opens in a new window)](<https://l.gourl.es/l/59bb03d394c6829e8e91decf01913a2f6503cb21?w=amRldXRyb21Ab3BlbmFpLmNvbQ&u=13835094>) other newsrooms: Enlace Latino North Carolina adapted it to launch its first English-language newsletter, bringing its work to wider audiences and opening new sponsorship opportunities, and Boyle Heights Beat took the same approach to deliver real-time bilingual coverage during the L.A. fires.
+
 
 
 
@@ -85,13 +95,21 @@ Publishers are finding many ways to put AI to work to enhance their research and
 Publishers are using AI to help people discover, explore, and engage with trusted journalism in more useful and personalized ways.
 
   * **Condé Nast** is using OpenAI technology to power new ways for readers to engage with its trusted brands. Bon Appétit launched an AI-powered Test Kitchen Assistant that combines its extensive editorial archive with OpenAI’s models, allowing home cooks to ask questions about recipes, cooking techniques, ingredient substitutions, meal preparation, and product recommendations in real time. The Kitchen Assistant allows readers to experience Bon Appétit’s rich, trustworthy editor-approved culinary content in more interactive and personalized ways, providing guidance to help them confidently navigate the cooking process.
+
   * **The Atlantic** launched an immersive game—[Lemony Snicket’s Suspicious Incident in Dubious Park⁠(opens in a new window)](<https://www.theatlantic.com/games/lemony-snicket-suspicious-incident-dubious-park/>)—that is a murder mystery whodunit. To create the game, _The Atlantic_ worked with author Lemony Snicket to write the cast of characters, story, and plot. _The Atlantic_ then used ChatGPT’s API to create agents for each character using the unique dialogue, motives, and background that the author provided. This lets players interrogate and interact with the characters directly to uncover the perpetrator of the crime.
+
   * **Eater** recently launched an AI-powered restaurant search experience using OpenAI technology. The tool helps diners find personalized restaurant recommendations by connecting natural language queries with more than 20 years of Eater’s trusted dining recommendations and service journalism. By making Eater’s editorial expertise easier to explore through conversation, the experience helps readers quickly discover the right restaurant for any occasion.
+
   * **Future** launched its first two ChatGPT Plugins this year, helping ChatGPT better understand, present and activate its content in service of its readers and customers. Who What Wear helps people find the right look, personalized to them, with a rich interface and anchored to the best fashion content on the web.
+
   * **Le Monde** In 2025, to address constantly changing user habits in news consumption, Le Monde gave every article an audio voice. The voice and reading tone were carefully tested and designed in collaboration with professional voice actors to reflect Le Monde editorial identity. OpenAI models then made it possible to listen to any article right after publication.
+
   * **The San Francisco Standard*** is using OpenAI technology to help reimagine how readers experience local news. Its new AI-first subscriber app creates personalized briefings based on each reader’s interests, location and reading habits, while transforming the Standard’s reporting into interactive modules that answer follow-up questions, highlight notable people, and surface relevant material from its archive.
+
   * **BILD** ’s AI assistant, Hey_, has answered more than 250 million reader questions and has evolved into an everyday companion, helping readers understand what news means for them through chat and interactive article widgets, including tax and retirement calculators.
+
   * **Chicago Public Media** * is using OpenAI models to transcribe 40 years of audio archives for its radio station, WBEZ. These efforts are making this rich collection of local journalism searchable for the first time, providing a critical resource for journalists—and eventually the public—to better understand their community.
+
 
 
 
@@ -100,7 +118,9 @@ Publishers are using AI to help people discover, explore, and engage with truste
 Publishers are also using AI to turn complex business information into useful insights and help their teams work more effectively.
 
   * **News Corp** is developing a number of AI-powered “Knowledge Agents”. These agents are data and context aware meaning that they combine structured enterprise data with unstructured business knowledge to help teams answer complex analytical questions. Using OpenAI models together with Model Context Protocol (MCP), the agents can securely access data from News Corp’s global data lake, but a key innovation has been teaching these agents the semantic structure of their data.
+
   * **The Seattle Times** * developed an AI-powered prospecting agent using ChatGPT Enterprise to help its advertising team more efficiently identify and evaluate potential customers. Through a conversational custom GPT, sales representatives can generate targeted lead lists, score prospects against criteria developed by the Times, produce research reports, check whether an account is already active in its CRM system, and draft questions for discovery calls. The tool has reduced prospecting time from hours to minutes and has led directly to new sales.
+
 
 
 
@@ -122,17 +142,17 @@ OpenAI
 
 [View all](</news/>)
 
-![California youth AI safety — cover](https://images.ctfassets.net/kftzwdyauwt9/3CsHxgcoiHHUUaYOB1FNiq/38e90de831dad795965ed98ffdd3a95a/Frame.png?w=3840&q=90&fm=webp)
+![Paul Christiano joins OpenAI Foundation Board — card](https://images.ctfassets.net/kftzwdyauwt9/4PcDbhz75I70TjyGat7oHl/598dd1e865018860c3591cb95c9bc72e/paul-christiano-joins-openai-foundation-board--cover-v001.png?w=3840&q=90&fm=webp)
 
-[OpenAI supports California’s bill to advance youth AI safetyCompanyAug 31, 2026](</index/supporting-california-bill-advance-ai-youth-safety/>)
+[Paul Christiano joins OpenAI Foundation BoardCompanySep 9, 2026](</index/paul-christiano-joins-openai-foundation-board/>)
 
-![Our decision on Cursor following its acquisition by SpaceX — cover](https://images.ctfassets.net/kftzwdyauwt9/3gFEgHvtA7Rsa5yUen97p5/b78a11ad81397a4003b879160e5a19b3/index-our-decision-on-cursor-following-its-acquisition-by-spacex-cover.png?w=3840&q=90&fm=webp)
+![The Work Now Within Reach — clean cover](https://images.ctfassets.net/kftzwdyauwt9/5iHLTPM4ZhKe4dAwOPfpy2/347b9d804542685bb13dbb63e985d91e/c3f562e2b08a0bfc.png?w=3840&q=90&fm=webp)
 
-[Our decision on Cursor following its acquisition by SpaceXCompanyAug 28, 2026](</index/our-decision-on-cursor-following-its-acquisition-by-spacex/>)
+[The Work Now Within ReachCompanySep 8, 2026](</index/the-work-now-within-reach/>)
 
-![Supporting Thailand’s next generation of AI startups > Cover image](https://images.ctfassets.net/kftzwdyauwt9/6ttG55Aq2kyDRG8wxOkTx9/897d266cacc77edc0a25d06b9f6c2c45/supporting-next-generation-ai-startups-thailand--cover.png?w=3840&q=90&fm=webp)
+![Supporting journalism from classrooms to newsrooms — listing card](https://images.ctfassets.net/kftzwdyauwt9/2uvvRNdvFkdWWXNtANgtAF/36e0f8b6a0c35abf88eec71519823409/Option_70___1080_1080.png?w=3840&q=90&fm=webp)
 
-[Supporting Thailand’s next generation of AI startupsCompanyAug 28, 2026](</index/supporting-next-generation-ai-startups-thailand/>)
+[Supporting journalism from classrooms to newsroomsCompanySep 8, 2026](</index/supporting-journalism-from-classrooms-to-newsrooms/>)
 
 Research
 
@@ -144,6 +164,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)

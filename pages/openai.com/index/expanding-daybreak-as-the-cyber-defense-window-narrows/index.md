@@ -43,7 +43,9 @@ The cybersecurity world is rapidly changing—threat actors will increasingly us
 We’re expanding OpenAI Daybreak with two access tiers designed to give approved defenders the right capabilities for their work:
 
   * **Daybreak Blue** provides access to frontier general-purpose models, including GPT‑5.6 Sol, with safeguards tailored to authorized defensive security work. It is the recommended starting point for most defenders, supporting vulnerability discovery, secure code review, malware analysis, incident response, and patch validation.
+
   * **Daybreak Red** provides access to our purpose-trained cybersecurity models for authorized vulnerability research, exploit validation, and security testing.
+
 
 
 
@@ -90,8 +92,11 @@ If that number is used as an array index, the compiler may incorrectly assume it
 Aside from these V8 vulnerabilities, we have also used GPT‑5.6‑Cyber to identify high-severity issues in software that ranges from popular databases to mobile phones:
 
   * At least five vulnerabilities in a popular mobile operating system, including a chain from an untrusted app to local privilege escalation.
+
   * Three critical vulnerabilities in a popular database, including a remote path to code execution.
+
   * Over 400 vulnerabilities that can lead to privilege escalation in a popular operating system kernel.
+
 
 
 
@@ -112,18 +117,26 @@ Daybreak Blue and Daybreak Red access are available for approved [individuals⁠
 We are also taking additional steps to enable safer use of cyber models:
 
   * We are strongly encouraging Daybreak customers using Codex to switch from full-access mode to auto-review mode through app defaults and UI features. Auto-review evaluates actions requiring elevated permissions before execution and can block requests that pose a significant risk of destructive behavior.
+
   * We are requiring all individual accounts in Daybreak to adopt hardware security keys, beginning September 1, 2026.
+
   * We are actively working on additional security measures, including improved monitoring, which we intend to roll out in the coming weeks.
+
   * We are prioritizing alignment training and testing for upcoming Daybreak releases.
+
   * We’ve updated our Codex documentation on safety best practices to help teams keep cyber-capable agents within their intended security boundaries.
+
 
 
 
 Best practices for using the Daybreak series include:
 
   * **Sandbox and isolate.** Run security workflows in controlled environments without access to sensitive production systems or the open internet. Regularly test sandbox boundaries.
+
   * **Monitor agent actions.** Use [auto-review mode⁠(opens in a new window)](<https://learn.chatgpt.com/docs/sandboxing/auto-review>) to review tool calls outside the Codex sandbox before they execute. Add further monitoring and human oversight for higher-risk workflows.
+
   * **Define the scope.** Specify which systems and actions are authorized. Use [scoped permission profiles⁠(opens in a new window)](<https://learn.chatgpt.com/docs/permissions>) to enforce those boundaries.
+
 
 
 
@@ -152,6 +165,10 @@ OpenAI
 
 [View all](</news/>)
 
+![Our framework for reporting model misalignment — card image](https://images.ctfassets.net/kftzwdyauwt9/3mJz9GkBOjZvAMYPx8M1dj/2a9ac4b7e18b1c08feef5368c4fde2e2/model-misalignment-reporting-framework--cover-v002.png?w=3840&q=90&fm=webp)
+
+[Our framework for reporting model misalignmentResearchSep 16, 2026](</index/model-misalignment-reporting-framework/>)
+
 ![Teen development research grants — Card image](https://images.ctfassets.net/kftzwdyauwt9/492WJ2zEboE6VdmchhCjIA/34e10aa1208a6988e3db2341d849d5b4/4bzz6p65ky7zwfd4pe42ou-cover__3_.png?w=3840&q=90&fm=webp)
 
 [Funding grants for new research into AI and teen developmentSafetySep 8, 2026](</index/teen-development-research-grants/>)
@@ -159,10 +176,6 @@ OpenAI
 ![An alien mind > Listing card](https://images.ctfassets.net/kftzwdyauwt9/7ut3G8rKt5ia4P3yRqi2qN/6ffb429f70548a881eb46a4e7e61498e/Option_120___1080_1080.png?w=3840&q=90&fm=webp)
 
 [An Alien MindSafetySep 6, 2026](</index/an-alien-mind/>)
-
-![Research acceleration: The view inside OpenAI > Cover image](https://images.ctfassets.net/kftzwdyauwt9/5kS3OG1Jfdja5xLmYcRwgr/f53b9dfe985df5969aff5dc41f2d1934/Art_Card__7_.png?w=3840&q=90&fm=webp)
-
-[Research acceleration: The view inside OpenAIResearchSep 6, 2026](</index/research-acceleration-view-inside-openai/>)
 
 Research
 

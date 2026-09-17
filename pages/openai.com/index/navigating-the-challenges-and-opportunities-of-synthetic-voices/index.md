@@ -64,7 +64,9 @@ To better understand the potential uses of this technology, late last year we st
 
 
 
+
   * **Translating content** , like videos and podcasts, so creators and businesses can reach more people around the world, fluently and in their own voices. One early adopter of this is [HeyGen⁠(opens in a new window)](<https://www.heygen.com/>), an AI visual storytelling platform that works with their enterprise customers to create custom, human-like avatars for a variety of content, from product marketing to sales demos. They use Voice Engine for video translation, so they can translate a speaker's voice into multiple languages and reach a global audience. When used for translation, Voice Engine preserves the native accent of the original speaker: for example generating English with an audio sample from a French speaker would produce speech with a French accent.
+
 
 
 
@@ -74,15 +76,18 @@ Loading...
 
 
 
+
 Loading...
 
   * **Supporting people who are non-verbal** , such as therapeutic applications for individuals with conditions that affect speech and educational enhancements for those with learning needs. [Livox⁠(opens in a new window)](<https://livox.com.br/en/>), an AI alternative communication app, powers Augmentative & Alternative Communication (AAC) devices that enable people with disabilities to communicate. By using Voice Engine, they are able to offer people who are non-verbal unique and non-robotic voices across many languages. Their users can choose speech that best represents them, and for multilingual users, maintain a consistent voice across each spoken language.
 
 
 
+
 Loading...
 
   * **Helping patients recover their voice** , for those suffering from sudden or degenerative speech conditions. The Norman Prince Neurosciences Institute at [Lifespan⁠(opens in a new window)](<https://livox.com.br/en/>), a not-for-profit health system that serves as the primary teaching affiliate of Brown University's medical school, is exploring uses of AI in clinical contexts. They’ve been piloting a program offering Voice Engine to individuals with oncologic or neurologic etiologies for speech impairment. Since Voice Engine requires such a short audio sample, doctors Fatima Mirza, Rohaid Ali and Konstantina Svokos were able to restore the voice of a young patient who lost her fluent speech due to a vascular brain tumor, using audio from a video recorded for a school project.
+
 
 
 
@@ -97,9 +102,13 @@ We recognize that generating speech that resembles people's voices has serious r
 Voice Engine is a continuation of our commitment to understand the technical frontier and openly share what is becoming possible with AI. In line with our [approach to AI safety⁠](<https://openai.com/blog/our-approach-to-ai-safety>) and our [voluntary commitments⁠](<https://openai.com/blog/moving-ai-governance-forward>), we are choosing to preview but not widely release this technology at this time. We hope this preview of Voice Engine both underscores its potential and also motivates the need to bolster societal resilience against the challenges brought by ever more convincing generative models. Specifically, we encourage steps like:
 
   * Phasing out voice based authentication as a security measure for accessing bank accounts and other sensitive information
+
   * Exploring policies to protect the use of individuals' voices in AI
+
   * Educating the public in understanding the capabilities and limitations of AI technologies, including the possibility of deceptive AI content
+
   * Accelerating the development and adoption of techniques for tracking the origin of audiovisual content, so it’s always clear when you’re interacting with a real person or with an AI
+
 
 
 

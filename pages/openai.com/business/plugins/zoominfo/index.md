@@ -24,7 +24,9 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 [Contact sales](</contact-sales/>)Try OpenAI
 
-OpenAI[View all plugins](</business/plugins/>)
+OpenAI
+
+[Plugins](</business/plugins/>)
 
 ![](https://files.openai.com/content?id=file_000000007b5c71f68f4ce7109fe9895c&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=8&sig=a5a793a7e75695a72af470326e881780a30318137c1513faad1613814c2c9dc1&v=0)![](https://files.openai.com/content?id=file_0000000072c871f6aa01f4d6e74a0bac&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=8&sig=968d61b4c236ca6388c4568374ddba27d71bb52aff64cd2d86100a352481dbe3&v=0)
 
@@ -34,51 +36,79 @@ B2B data and GTM insights
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_698a340b9230819188ba5a5eea79022d>)[Contact sales](</contact-sales/>)
 
+Category
+    [Operations](</business/plugins/?tab=plugins-operations>)
+
+Developer
+    ZoomInfo Technologies LLC
+
+Website
+    [(opens in a new window)](<https://www.zoominfo.com/>)
+
 [![](https://files.openai.com/content?id=file_000000007b5c71f68f4ce7109fe9895c&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=8&sig=a5a793a7e75695a72af470326e881780a30318137c1513faad1613814c2c9dc1&v=0)![](https://files.openai.com/content?id=file_0000000072c871f6aa01f4d6e74a0bac&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=8&sig=968d61b4c236ca6388c4568374ddba27d71bb52aff64cd2d86100a352481dbe3&v=0)ZoomInfo Give me the top 10 companies in Boston by annual revenue.(opens in a new window)](<https://chatgpt.com/?prompt=%40ZoomInfo+Give+me+the+top+10+companies+in+Boston+by+annual+revenue.>)[![](https://files.openai.com/content?id=file_000000007b5c71f68f4ce7109fe9895c&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=8&sig=a5a793a7e75695a72af470326e881780a30318137c1513faad1613814c2c9dc1&v=0)![](https://files.openai.com/content?id=file_0000000072c871f6aa01f4d6e74a0bac&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=8&sig=968d61b4c236ca6388c4568374ddba27d71bb52aff64cd2d86100a352481dbe3&v=0)ZoomInfo Search VPs of Sales at fintech companies in California(opens in a new window)](<https://chatgpt.com/?prompt=%40ZoomInfo+Search+VPs+of+Sales+at+fintech+companies+in+California>)[![](https://files.openai.com/content?id=file_000000007b5c71f68f4ce7109fe9895c&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=8&sig=a5a793a7e75695a72af470326e881780a30318137c1513faad1613814c2c9dc1&v=0)![](https://files.openai.com/content?id=file_0000000072c871f6aa01f4d6e74a0bac&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=8&sig=968d61b4c236ca6388c4568374ddba27d71bb52aff64cd2d86100a352481dbe3&v=0)ZoomInfo Get funding and hiring signals for company ACME corp.(opens in a new window)](<https://chatgpt.com/?prompt=%40ZoomInfo+Get+funding+and+hiring+signals+for+company+ACME+corp.>)
-
-Use case: [Operations](</business/plugins/?tab=plugins-operations>) and [Small Business](</business/plugins/?tab=plugins-small-business>)
-
-Made by: ZoomInfo Technologies LLC
-
-Website: [zoominfo.com(opens in a new window)](<https://www.zoominfo.com/>)
 
 ## How it works
 
 ZoomInfo — B2B company and professional intelligence. Use for prospecting, finding people at companies, current and past employment, job changes, org charts, executives, verified business contact information, company research, intent, Scoops, and GTM signals.
 
-### Build a prospect shortlist
+## Common use cases
+
+  * ### Build a prospect shortlist
 
 Find accounts that fit your target market and explain which deserve attention.
 
-### Map a buying committee
+ZoomInfo Find 10 fintech companies in California with 200-1000 employees. Rank them using available growth and buying signals, and explain why each fits a sales prospecting shortlist.
+
+[(opens in a new window)](<https://chatgpt.com/?q=ZoomInfo+Find+10+fintech+companies+in+California+with+200-1000+employees.+Rank+them+using+available+growth+and+buying+signals%2C+and+explain+why+each+fits+a+sales+prospecting+shortlist.>)
+
+  * ### Map a buying committee
 
 Identify relevant leaders and business contacts at a target account.
 
-### Prepare an account briefing
+ZoomInfo Find the sales and IT leaders at the company I name. Map their roles, include available verified business contact details, and recommend who to approach first for a CRM discussion.
+
+[(opens in a new window)](<https://chatgpt.com/?q=ZoomInfo+Find+the+sales+and+IT+leaders+at+the+company+I+name.+Map+their+roles%2C+include+available+verified+business+contact+details%2C+and+recommend+who+to+approach+first+for+a+CRM+discussion.>)
+
+  * ### Prepare an account briefing
 
 Use company developments to shape a focused sales conversation.
 
-## Sample prompts
+ZoomInfo Prepare a meeting brief for the company I name using recent funding, hiring, and leadership changes. Highlight the strongest business signals and suggest three questions for the call.
 
-Find top companies in Boston
+[(opens in a new window)](<https://chatgpt.com/?q=ZoomInfo+Prepare+a+meeting+brief+for+the+company+I+name+using+recent+funding%2C+hiring%2C+and+leadership+changes.+Highlight+the+strongest+business+signals+and+suggest+three+questions+for+the+call.>)
 
-**@ZoomInfo** Find 10 fintech companies in California with 200-1000 employees. Rank them using available growth and buying signals, and explain why each fits a sales prospecting shortlist.
 
-Find fintech sales leaders
 
-**@ZoomInfo** Find the sales and IT leaders at the company I name. Map their roles, include available verified business contact details, and recommend who to approach first for a CRM discussion.
 
-Research account growth signals
+## What’s included
 
-**@ZoomInfo** Prepare a meeting brief for the company I name using recent funding, hiring, and leadership changes. Highlight the strongest business signals and suggest three questions for the call.
+### App
+
+  * ![](https://files.openai.com/content?id=file_000000007b5c71f68f4ce7109fe9895c&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=8&sig=a5a793a7e75695a72af470326e881780a30318137c1513faad1613814c2c9dc1&v=0)ZoomInfo
+
+
+
+### Skills
+
+  * account-health
+  * account-relationship-recap
+  * account-research
+  * ae-cs-handoff
+  * build-list
+  * buying-committee
+  * call-coaching
+  * call-recap
+  * 26 more
+
+
 
 ## Resources
 
-### [Help centerRead more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
+### [Help centerLearn more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
 
-### [Plugin supportRead more](<https://www.zoominfo.com/about/contact>)
+### [Plugin supportLearn more](<https://www.zoominfo.com/about/contact>)
 
-### [Privacy policyRead more](<https://www.zoominfo.com/legal/privacy-policy>)
+### [Privacy policyLearn more](<https://www.zoominfo.com/legal/privacy-policy>)
 
 ## Get started with plugins
 

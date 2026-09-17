@@ -77,9 +77,13 @@ _In keeping with our commitment to continuously review and improve internal acco
 _As we continue to develop and deploy increasingly capable technology, we actively monitor and mitigate a broad range of novel risks and real-world safety concerns to keep our models reliable and secure. And we are constantly refining and improving these processes._
 
   * _We have long published detailed System Cards and technical documentation with our major releases that lay out what our models can and can’t do, what risks we’ve tested for, and where we’re still learning._
+
   * _The Safety Hub provides public access to safety evaluation results for our models._
+
   * _Our Red Teaming Network brings in external experts to pressure-test our models_
+
   *  _The Model Spec offers a window into how we shape model behaviour to reflect human values and democratic norms._
+
 
 
 
@@ -92,8 +96,11 @@ _We will work closely with the EU AI Office, relevant authorities and our custom
 _Update: On September 25, 2024, we signed up to the three core commitments in the EU AI Pact._
 
   1. _Adopt an AI governance strategy to foster the uptake of AI in the organization and work towards future compliance with the AI Act;_
+
   2. _carry out to the extent feasible a mapping of AI systems provided or deployed in areas that would be considered high-risk under the AI Act;_
+
   3. _promote awareness and AI literacy of their staff and other persons dealing with AI systems on their behalf, taking into account their technical knowledge, experience, education and training and the context the AI systems are to be used in, and considering the persons or groups of persons affected by the use of the AI systems._
+
 
 
 
@@ -116,9 +123,13 @@ In this post, we provide an overview of some key topics in the AI Act, with a sp
 The AI Act will enter into force on August 1, 2024, 20 days after publication in the EU Official Journal. While most of the Act’s provisions will not become effective for 24 months after entry into force, there are several important deadlines to keep in mind: 
 
   * Bans on prohibited practices will become effective **6 months** after entry into force (February 2025) 
+
   * Codes of practice, which will cover many of the implementation details needed to comply with the Act, will need to be finalized within **9 months** after entry into force (May 2025) 
+
   * Most general purpose AI obligations will become effective **12 months** after entry into force (August 2025). 
+
   * Obligations for most high-risk AI systems apply **24 months** after entry into force (August 2026). 
+
 
 
 
@@ -137,8 +148,11 @@ Deployers are customers or partners who use these systems or models in their own
 Organizations outside the EU will still have to comply with the AI Act under a variety of conditions that can be quite wide-reaching. For example, the Act applies if: 
 
   * A provider places an AI system or GPAI model on the EU market, regardless of whether the company is established in the EU or another country; 
+
   * Deployers of an AI system have their place of establishment in or are located within the EU; 
+
   * Providers and deployers of AI systems are established or located in a third country, but the output produced by the AI system is used within the EU.
+
 
 
 
@@ -153,13 +167,21 @@ The AI Act is built upon a risk-based framework, with specific requirements for 
 Certain AI practices that are deemed to pose an unacceptable risk to individuals’ rights are entirely prohibited. These practices include: 
 
   * Deploying subliminal, manipulative, or deceptive techniques to distort behavior and impair informed decision-making, causing significant harm. 
+
   * Exploiting vulnerabilities related to age, disability, or socio-economic circumstances to distort behavior, causing significant harm. 
+
   * Biometric categorization systems that infer sensitive attributes like race, political opinions, trade union membership, religious or philosophical beliefs, sex life, or sexual orientation (with limited exceptions for labeling or filtering lawfully acquired datasets and for law enforcement use) 
+
   * Social scoring systems, such as systems that evaluate or classify individuals or groups based on social behavior or personal traits, causing them harm. 
+
   * Assessing the risk of an individual committing criminal offenses based solely on profiling or personality traits (with limited exceptions) 
+
   * Compiling facial recognition databases through untargeted scraping of facial images from the internet or CCTV footage
+
   * Inferring emotions in workplaces or educational institutions 
+
   * Real-time remote biometric identification in public places for law enforcement (with certain exceptions). 
+
 
 
 
@@ -178,18 +200,26 @@ Other AI systems that do not pose unacceptable or high-risks face only limited r
 Special requirements apply to providers of general purpose AI models and systems, like OpenAI, which will be required to: 
 
   * Develop detailed technical documentation of the model and provide it to the AI Office upon request
+
   * Create documentation for deployers who use the GPAI model to develop their own AI systems
+
   * Implement policies intended to respect EU copyright law
+
   * Provide a summary of the content used to train the GPAI model 
+
 
 
 
 In addition, providers of GPAI models with high impact capabilities that are deemed to present “systemic risks” (e.g., models trained on a large amount of compute, technically defined as 10^25 FLOPs), will be required to: 
 
   * Perform model evaluations to identify and mitigate systemic risks, and continuously assess and mitigate the risks presented
+
   * Notify the EU Commission of models that meet the criteria of this category
+
   * Monitor and report serious incidents 
+
   * Implement appropriate cybersecurity measures for the model and its physical infrastructure
+
 
 
 
@@ -211,6 +241,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)

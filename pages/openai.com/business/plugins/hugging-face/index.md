@@ -24,7 +24,9 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 [Contact sales](</contact-sales/>)Try OpenAI
 
-OpenAI[View all plugins](</business/plugins/>)
+OpenAI
+
+[Plugins](</business/plugins/>)
 
 ![](https://files.openai.com/content?id=file_0000000037f071f8b6068fe1e8868d5f&cdn=1&cp=pi&ma=31795200&ts=0&p=pi&cid=1&sig=4e88bd7c06260140dc50570e468eb3e1b37336a8e4c5d56c85c723ff53bfd31b&v=0)![](https://files.openai.com/content?id=file_0000000037f071f8b6068fe1e8868d5f&cdn=1&cp=pi&ma=31795200&ts=0&p=pi&cid=1&sig=4e88bd7c06260140dc50570e468eb3e1b37336a8e4c5d56c85c723ff53bfd31b&v=0)
 
@@ -34,51 +36,82 @@ Inspect models, datasets, Spaces, and research.
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6939e86417648191b7bda087d872685b>)[Contact sales](</contact-sales/>)
 
+Capabilities
+    Interactive, Read, Write
+
+Category
+    [Engineering & IT](</business/plugins/?tab=plugins-engineering-it>)
+
+Developer
+    Hugging Face
+
+Website
+    [(opens in a new window)](<https://huggingface.co>)
+
 [![](https://files.openai.com/content?id=file_00000000390071f5999f6ff280280bb2&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=1&sig=23ea5ce3fba873e6dceee772ffa0d271901552b5863dbd888f9b75f04db06500&v=0)Hugging Face Generate a realistic farm using FLUX.1(opens in a new window)](<https://chatgpt.com/?prompt=%40Hugging+Face+Generate+a+realistic+farm+using+FLUX.1>)
-
-Use case: [Engineering & IT](</business/plugins/?tab=plugins-engineering-it>)
-
-Made by: Hugging Face
-
-Website: [huggingface.co(opens in a new window)](<https://huggingface.co>)
 
 ## How it works
 
 Connect to the Hugging Face Hub in ChatGPT to explore models, datasets, and metadata and inspect options without manual browsing.
 
-### Browse models and datasets
+## Common use cases
+
+  * ### Browse models and datasets
 
 Explore models and datasets from the Hugging Face Hub and view associated metadata and documentation.
 
-### Inspect available options
+Hugging Face I need a model for multilingual semantic search. Compare the top candidates and recommend one with tradeoffs.
+
+[(opens in a new window)](<https://chatgpt.com/?q=Hugging+Face+I+need+a+model+for+multilingual+semantic+search.+Compare+the+top+candidates+and+recommend+one+with+tradeoffs.>)
+
+  * ### Inspect available options
 
 Inspect model and dataset details such as descriptions, associated datasets, and listed attributes to understand what’s available.
 
-### Explore Spaces and research
+Hugging Face Shortlist 5 text classification models that work well on medical notes and note any PHI considerations.
+
+[(opens in a new window)](<https://chatgpt.com/?q=Hugging+Face+Shortlist+5+text+classification+models+that+work+well+on+medical+notes+and+note+any+PHI+considerations.>)
+
+  * ### Explore Spaces and research
 
 Explore Hugging Face Spaces, research references, and related resources to see available tools and applications.
 
-## Sample prompts
+Hugging Face Find Spaces and research references for document question answering, and summarize which tools our team could evaluate.
 
-Compare model options and make a recommendation
+[(opens in a new window)](<https://chatgpt.com/?q=Hugging+Face+Find+Spaces+and+research+references+for+document+question+answering%2C+and+summarize+which+tools+our+team+could+evaluate.>)
 
-**@Hugging Face** I need a model for multilingual semantic search. Compare the top candidates and recommend one with tradeoffs.
 
-Research model capabilities
 
-**@Hugging Face** Shortlist 5 text classification models that work well on medical notes and note any PHI considerations.
 
-Get recommendations on models
+## What’s included
 
-**@Hugging Face** Find Spaces and research references for document question answering, and summarize which tools our team could evaluate.
+### App
+
+  * ![](https://files.openai.com/content?id=file_0000000037f071f8b6068fe1e8868d5f&cdn=1&cp=pi&ma=31795200&ts=0&p=pi&cid=1&sig=4e88bd7c06260140dc50570e468eb3e1b37336a8e4c5d56c85c723ff53bfd31b&v=0)Hugging Face
+
+
+
+### Skills
+
+  * HF CLI
+  * Community Evals
+  * Datasets
+  * Gradio
+  * Jobs
+  * LLM Trainer
+  * Paper Publisher
+  * Papers
+  * 3 more
+
+
 
 ## Resources
 
-### [Help centerRead more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
+### [Help centerLearn more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
 
-### [Plugin supportRead more](<https://huggingface.co/docs>)
+### [Plugin supportLearn more](<https://huggingface.co/docs>)
 
-### [Privacy policyRead more](<https://huggingface.co/privacy>)
+### [Privacy policyLearn more](<https://huggingface.co/privacy>)
 
 ## Get started with plugins
 

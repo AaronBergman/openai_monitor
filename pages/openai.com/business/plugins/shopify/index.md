@@ -24,7 +24,9 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 [Contact sales](</contact-sales/>)Try OpenAI
 
-OpenAI[View all plugins](</business/plugins/>)
+OpenAI
+
+[Plugins](</business/plugins/>)
 
 ![](https://files.openai.com/content?id=file_00000000c8c881f6b1898c574dac4e10&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=8&sig=5893839a27316a5af69bb3d001943b0ec293a3c64279d9ec08803564a1d9b16b&v=0)![](https://files.openai.com/content?id=file_000000006ab081f793cba420e30fd6aa&cdn=1&cp=pi&ma=30672000&ts=0&p=pi&cid=8&sig=abab6e040ce7a4e418276d0f37dcc1cfe7194cf719a08826f8b043598e18c0f9&v=0)
 
@@ -34,51 +36,79 @@ Create and manage your store
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69e65c430b3081919aa4d962ab5d1698>)[Contact sales](</contact-sales/>)
 
+Category
+    [Operations](</business/plugins/?tab=plugins-operations>)
+
+Developer
+    Shopify
+
+Website
+    [(opens in a new window)](<https://shopify.com>)
+
 [![](https://files.openai.com/content?id=file_00000000f0cc81f597371a9ec614d0ca&cdn=1&cp=pi&ma=32227200&ts=0&p=pi&cid=8&sig=847f6ee018969c1c8e79881f605d40d20da7035a4ebfbde8aed6739542050c9b&v=0)Shopify Upload and add this product to my store.(opens in a new window)](<https://chatgpt.com/?prompt=%40Shopify+Upload+and+add+this+product+to+my+store.>)[![](https://files.openai.com/content?id=file_00000000f0cc81f597371a9ec614d0ca&cdn=1&cp=pi&ma=32227200&ts=0&p=pi&cid=8&sig=847f6ee018969c1c8e79881f605d40d20da7035a4ebfbde8aed6739542050c9b&v=0)Shopify Show me the products I have in my store.(opens in a new window)](<https://chatgpt.com/?prompt=%40Shopify+Show+me+the+products+I+have+in+my+store.>)[![](https://files.openai.com/content?id=file_00000000f0cc81f597371a9ec614d0ca&cdn=1&cp=pi&ma=32227200&ts=0&p=pi&cid=8&sig=847f6ee018969c1c8e79881f605d40d20da7035a4ebfbde8aed6739542050c9b&v=0)Shopify Show me my store's sales for the past three weeks.(opens in a new window)](<https://chatgpt.com/?prompt=%40Shopify+Show+me+my+store%27s+sales+for+the+past+three+weeks.>)
-
-Use case: [Operations](</business/plugins/?tab=plugins-operations>), [Small Business](</business/plugins/?tab=plugins-small-business>), and [Sales](</business/plugins/?tab=plugins-sales-commerce>)
-
-Made by: Shopify
-
-Website: [shopify.com(opens in a new window)](<https://shopify.com>)
 
 ## How it works
 
 Shopify for ChatGPT makes starting, running, and growing an online store as easy as having a conversation. Turn a small business idea into an ecommerce website with Shopify’s AI store builder: describe what you sell, create your store, add products, and sell online. Already have a Shopify store? Connect it to manage inventory across locations, create discount codes, review orders and customer details, and pull analytics on your store’s performance. Shopify supports selling online, in person, B2B, on marketplaces, and selling internationally. Whether you run a print on demand business, sell digital products, operate an online boutique, dropship, or serve wholesale buyers, Shopify gives you the foundation to build, sell, and grow.
 
-### Review recent sales
+## Common use cases
+
+  * ### Review recent sales
 
 See how sales changed over the past three weeks and identify the strongest week.
 
-### Prepare a product launch
+Shopify Show my store's weekly sales for the past three weeks and highlight the strongest week.
+
+[(opens in a new window)](<https://chatgpt.com/?q=Shopify+Show+my+store%27s+weekly+sales+for+the+past+three+weeks+and+highlight+the+strongest+week.>)
+
+  * ### Prepare a product launch
 
 Create a draft product from your supplied details, ready for review.
 
-### Identify stock gaps
+Shopify Create a draft product from the details and image I provide, including its price and variants. Write a clear description using only those details and flag anything missing before launch.
+
+[(opens in a new window)](<https://chatgpt.com/?q=Shopify+Create+a+draft+product+from+the+details+and+image+I+provide%2C+including+its+price+and+variants.+Write+a+clear+description+using+only+those+details+and+flag+anything+missing+before+launch.>)
+
+  * ### Identify stock gaps
 
 Find product variants running low at each store location.
 
-## Sample prompts
+Shopify Check stock for the product I name across all locations. List variants with fewer than five units and prioritize the locations that need attention.
 
-Add a product from an upload
+[(opens in a new window)](<https://chatgpt.com/?q=Shopify+Check+stock+for+the+product+I+name+across+all+locations.+List+variants+with+fewer+than+five+units+and+prioritize+the+locations+that+need+attention.>)
 
-**@Shopify** Show my store's weekly sales for the past three weeks and highlight the strongest week.
 
-Check inventory by location
 
-**@Shopify** Create a draft product from the details and image I provide, including its price and variants. Write a clear description using only those details and flag anything missing before launch.
 
-Review weekly sales
+## What’s included
 
-**@Shopify** Check stock for the product I name across all locations. List variants with fewer than five units and prioritize the locations that need attention.
+### App
+
+  * ![](https://files.openai.com/content?id=file_00000000c8c881f6b1898c574dac4e10&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=8&sig=5893839a27316a5af69bb3d001943b0ec293a3c64279d9ec08803564a1d9b16b&v=0)Shopify
+
+
+
+### Skills
+
+  * Shopify Admin
+  * Shopify App Store Review
+  * Shopify Custom Data
+  * Shopify Customer
+  * Shopify Dev
+  * Shopify Functions
+  * Shopify Hydrogen
+  * Shopify Liquid
+  * 13 more
+
+
 
 ## Resources
 
-### [Help centerRead more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
+### [Help centerLearn more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
 
-### [Plugin supportRead more](<https://help.shopify.com>)
+### [Plugin supportLearn more](<https://help.shopify.com>)
 
-### [Privacy policyRead more](<https://www.shopify.com/legal/privacy>)
+### [Privacy policyLearn more](<https://www.shopify.com/legal/privacy>)
 
 ## Get started with plugins
 

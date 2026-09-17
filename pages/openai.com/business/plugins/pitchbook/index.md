@@ -24,7 +24,9 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 [Contact sales](</contact-sales/>)Try OpenAI
 
-OpenAI[View all plugins](</business/plugins/>)
+OpenAI
+
+[Plugins](</business/plugins/>)
 
 ![](https://files.openai.com/content?id=file_000000000aac722f9874ed898f906fe5&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=1&sig=85be1e32ecd5938ebde62c35d9d37bc83792db94ae1d5bbc145313f90f374c50&v=0)![](https://files.openai.com/content?id=file_000000009ec481f6b74903ef6fa4c2bd&cdn=1&cp=pi&ma=32486400&ts=0&p=pi&cid=8&sig=1b4092ec812db85c9135837e27a157eec9d4077b2ede5f941a94ea7ae1504a88&v=0)
 
@@ -34,51 +36,65 @@ Faster workflows with market intelligence.
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_693850f6312c8191be5a026bf3538e80>)[Contact sales](</contact-sales/>)
 
+Category
+    [Finance](</business/plugins/?tab=plugins-finance>)
+
+Developer
+    PitchBook
+
+Website
+    [(opens in a new window)](<https://www.pitchbook.com>)
+
 [![](https://files.openai.com/content?id=file_00000000a4fc722f948ccb2caa4885dc&cdn=1&cp=pi&ma=31190400&ts=0&p=pi&cid=1&sig=8e4793c6ddf9e77e63e5cb01318dbb623ae0b17e1f96fca4b2719a101044c7b9&v=0)PitchBook Use PitchBook to help with this task(opens in a new window)](<https://chatgpt.com/?prompt=%40PitchBook+Use+PitchBook+to+help+with+this+task>)
-
-Use case: [Finance](</business/plugins/?tab=plugins-finance>)
-
-Made by: PitchBook
-
-Website: [pitchbook.com(opens in a new window)](<https://www.pitchbook.com>)
 
 ## How it works
 
 Provide structured access to verified private market data in ChatGPT so teams can retrieve factual information on companies, investors, funds, and deals.
 
-### Strengthen investment research
+## Common use cases
+
+  * ### Strengthen investment research
 
 Retrieve company profiles, financing histories, firmographics, and financial metrics to support factual research and peer comparison.
 
-### Accelerate due diligence workflows
+PitchBook Give me a clean company profile for [company] including funding history, key investors, and recent deal activity.
+
+[(opens in a new window)](<https://chatgpt.com/?q=PitchBook+Give+me+a+clean+company+profile+for+%5Bcompany%5D+including+funding+history%2C+key+investors%2C+and+recent+deal+activity.>)
+
+  * ### Accelerate due diligence workflows
 
 Retrieve deal terms, valuations, ownership data, investor information, and team details as structured fields with source metadata.
 
-### Explore funds and LP data
+PitchBook Build a due diligence fact pack for this target company and include any red flags from ownership or deal terms.
+
+[(opens in a new window)](<https://chatgpt.com/?q=PitchBook+Build+a+due+diligence+fact+pack+for+this+target+company+and+include+any+red+flags+from+ownership+or+deal+terms.>)
+
+  * ### Explore funds and LP data
 
 Access fund performance metrics when available, LP commitments, investor portfolios, and fund activity to inform fund and LP research.
 
-## Sample prompts
+PitchBook Summarize available performance metrics, LP commitments, and recent activity for [fund] in a fact sheet for our fund research team.
 
-Create company profile with key details
+[(opens in a new window)](<https://chatgpt.com/?q=PitchBook+Summarize+available+performance+metrics%2C+LP+commitments%2C+and+recent+activity+for+%5Bfund%5D+in+a+fact+sheet+for+our+fund+research+team.>)
 
-**@PitchBook** Give me a clean company profile for [company] including funding history, key investors, and recent deal activity.
 
-Compare competitors
 
-**@PitchBook** Build a due diligence fact pack for this target company and include any red flags from ownership or deal terms.
 
-Build due diligence assets
+## What’s included
 
-**@PitchBook** Summarize available performance metrics, LP commitments, and recent activity for [fund] in a fact sheet for our fund research team.
+### App
+
+  * ![](https://files.openai.com/content?id=file_000000000aac722f9874ed898f906fe5&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=1&sig=85be1e32ecd5938ebde62c35d9d37bc83792db94ae1d5bbc145313f90f374c50&v=0)PitchBook
+
+
 
 ## Resources
 
-### [Help centerRead more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
+### [Help centerLearn more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
 
-### [Plugin supportRead more](<https://pitchbook.com/contact>)
+### [Plugin supportLearn more](<https://pitchbook.com/contact>)
 
-### [Privacy policyRead more](<https://pitchbook.com/privacy-policy>)
+### [Privacy policyLearn more](<https://pitchbook.com/privacy-policy>)
 
 ## Get started with plugins
 

@@ -24,7 +24,9 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 [Contact sales](</contact-sales/>)Try OpenAI
 
-OpenAI[View all plugins](</business/plugins/>)
+OpenAI
+
+[Plugins](</business/plugins/>)
 
 ![](https://files.openai.com/content?id=file_00000000a7a881f79bd3e0bdaf6f44d8&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=3681847b083c03ec3f94453b15bea76630d8877224f486882867c1affcde9821&v=0)![](https://files.openai.com/content?id=file_00000000a7a881f79bd3e0bdaf6f44d8&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=3681847b083c03ec3f94453b15bea76630d8877224f486882867c1affcde9821&v=0)
 
@@ -34,43 +36,71 @@ Work with dbt projects
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_templated_apps_6a710de0c6b08191a298927933709e4e>)[Contact sales](</contact-sales/>)
 
-Use case: [Engineering & IT](</business/plugins/?tab=plugins-engineering-it>) and [Data](</business/plugins/?tab=plugins-data-research>)
+Category
+    [Engineering & IT](</business/plugins/?tab=plugins-engineering-it>)
 
-Made by: dbt Labs, Inc.
+Developer
+    dbt Labs, Inc.
 
-Website: [docs.getdbt.com(opens in a new window)](<https://docs.getdbt.com>)
+Website
+    [(opens in a new window)](<https://docs.getdbt.com>)
 
 ## How it works
 
 dbt MCP Server helps users inspect dbt projects, query dbt Semantic Layer metrics, review lineage and model metadata, run dbt commands, manage dbt Platform jobs, generate dbt boilerplate, and search official dbt documentation through ChatGPT.
 
-### Explain metric changes
+## Common use cases
+
+  * ### Explain metric changes
 
 Compare governed revenue metrics across customer segments using consistent business definitions.
 
-### Assess model change impact
+DBT Query our Semantic Layer revenue metric for the last two quarters by customer segment. Identify the largest contributors to the change and explain the definition, filters, and time grain used.
+
+[(opens in a new window)](<https://chatgpt.com/?q=DBT+Query+our+Semantic+Layer+revenue+metric+for+the+last+two+quarters+by+customer+segment.+Identify+the+largest+contributors+to+the+change+and+explain+the+definition%2C+filters%2C+and+time+grain+used.>)
+
+  * ### Assess model change impact
 
 Identify the downstream models and metrics that need review before a model change.
 
-### Diagnose a failed job
+DBT Inspect the lineage and metadata for our orders model. Identify downstream models and metrics affected by changing its customer key, and propose a focused validation checklist before implementation.
+
+[(opens in a new window)](<https://chatgpt.com/?q=DBT+Inspect+the+lineage+and+metadata+for+our+orders+model.+Identify+downstream+models+and+metrics+affected+by+changing+its+customer+key%2C+and+propose+a+focused+validation+checklist+before+implementation.>)
+
+  * ### Diagnose a failed job
 
 Turn the latest failed job results into a prioritized recovery plan.
 
-## Sample prompts
+DBT Review the latest failed production job, its run results, and affected model metadata. Identify the likely failure point, distinguish evidence from hypotheses, and recommend the next debugging steps.
 
-**@DBT** Query our Semantic Layer revenue metric for the last two quarters by customer segment. Identify the largest contributors to the change and explain the definition, filters, and time grain used.
+[(opens in a new window)](<https://chatgpt.com/?q=DBT+Review+the+latest+failed+production+job%2C+its+run+results%2C+and+affected+model+metadata.+Identify+the+likely+failure+point%2C+distinguish+evidence+from+hypotheses%2C+and+recommend+the+next+debugging+steps.>)
 
-**@DBT** Inspect the lineage and metadata for our orders model. Identify downstream models and metrics affected by changing its customer key, and propose a focused validation checklist before implementation.
 
-**@DBT** Review the latest failed production job, its run results, and affected model metadata. Identify the likely failure point, distinguish evidence from hypotheses, and recommend the next debugging steps.
+
+
+## What’s included
+
+### Skills
+
+  * adding-dbt-unit-test
+  * answering-natural-language-questions-with-dbt
+  * building-dbt-semantic-layer
+  * configuring-dbt-mcp-server
+  * creating-mermaid-dbt-dag
+  * fetching-dbt-docs
+  * migrating-dbt-core-to-fusion
+  * migrating-dbt-project-across-platforms
+  * 6 more
+
+
 
 ## Resources
 
-### [Help centerRead more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
+### [Help centerLearn more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
 
-### [Plugin supportRead more](<https://help.openai.com/en/articles/6614161-how-can-i-contact-support>)
+### [Plugin supportLearn more](<https://help.openai.com/en/articles/6614161-how-can-i-contact-support>)
 
-### [Privacy policyRead more](<https://www.getdbt.com/cloud/privacy-policy>)
+### [Privacy policyLearn more](<https://www.getdbt.com/cloud/privacy-policy>)
 
 ## Get started with plugins
 

@@ -125,15 +125,25 @@ Ads promoting non-genuine products that copy or substantially imitate another br
 Ads for financial products and services are restricted. In the US, we may allow ads from approved financial advertisers on a case-by-case basis for:
 
   * Auto loans and leasing
+
   * Credit cards
+
   * Credit monitoring
+
   * Deposit accounts
+
   * Financial planning
+
   * Insurance
+
   * Investment services and brokerages
+
   * Mortgages
+
   * Personal loans
+
   * Payment services
+
 
 
 
@@ -160,14 +170,23 @@ Ads must also not depict graphic or realistic violence, including gore, severe i
 Ads for regulated medical products and services, or claims related to the prevention, diagnosis, or treatment of physical or mental health conditions, are restricted. Ads for health services outside the US are generally prohibited. In the US, we may allow ads from approved advertisers on a case-by-case basis for:
 
   * Consumer medical devices, wearables, and apps
+
   * Dental services
+
   * Dietary supplements
+
   * Disease awareness campaigns that do not advocate for public policy
+
   * Health insurance
+
   * Hospitals and urgent care
+
   * Medical testing and diagnostic products and services
+
   * Minimally invasive cosmetic procedures
+
   * Vision products and services
+
 
 
 
@@ -260,8 +279,11 @@ This section explains how we implement these standards, including how we review 
 Our review process evaluates the full ad experience at three levels:
 
   * **Advertisers:** When advertisers sign up on our ads manager platform, we assess whether they are legitimate businesses, comply with our advertiser eligibility requirements, and can safely participate in our ads ecosystem. This may include advertiser verification, account quality assessments, and analysis of risk signals associated with scams, fraud, abuse, or deceptive behavior.
+
   * **Ad creative and landing pages** : When an ad is uploaded, we review the title, copy, media, and landing page for compliance with our policies. Ads are rejected if any of these assets promote or meaningfully reference disallowed policy categories (e.g., weapons, alcohol, deceptive practices) or otherwise violate our baseline policy standards.
+
   * **Placement:** As a final step, we ensure approved ads only appear in conversations that comply with our placement policy.
+
 
 
 
@@ -270,9 +292,13 @@ Our review process evaluates the full ad experience at three levels:
 Most reviews are conducted through automated systems with human oversight and calibration. 
 
   * We use machine learning systems, including LLMs and classifiers, to review ads, landing pages, and advertiser signals for policy compliance before ads are eligible to run
+
   * Some decisions are escalated for human review based on severity, confidence, or potential risk.
+
   * Restricted categories (e.g. financial services) may require additional safeguards, including enhanced advertiser verification or manual review.
+
   * Ads or landing pages that cannot be reviewed or evaluated by our systems are not eligible to run.
+
 
 
 
@@ -301,12 +327,19 @@ The goal is straightforward: make it possible for businesses of all sizes to use
 ## Changelog
 
   * v1.6 (September 2026): Updated to clarify our right to decline ads where they conflict with our advertising principles, business interests, or competitive position.
+
   * v1.5 (August 2026): Updated to reflect that legal services are permitted in the US.
+
   * v1.4 (August 2026): Clarified our policy stance on housing and job listings.
+
   * v1.3 (July 2026): Introduced a new section on advertiser policies and updated the financial and health services sections to clarify eligible categories and markets.
+
   * v1.2 (May 2026): A new section explains what standards we apply, how we implement these standards, and what happens when ads don’t meet our safety bar.
+
   * v1.1 (April 2026): We refined our ads placement policy to apply a more precise approach in some regulated-advice contexts. Medical, legal, and financial advice contexts are no longer categorically blocked from ads by default. Sensitive conversations and other prohibited contexts remain ineligible for ads.
+
   * v1.0 (March 2026): Initial publication of the OpenAI Ads Policies.
+
 
 
 

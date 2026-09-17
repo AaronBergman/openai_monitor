@@ -24,7 +24,9 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 [Contact sales](</contact-sales/>)Try OpenAI
 
-OpenAI[View all plugins](</business/plugins/>)
+OpenAI
+
+[Plugins](</business/plugins/>)
 
 ![](https://files.openai.com/content?id=file_00000000ed5071f7ac257032bcf8cc5d&cdn=1&cp=pi&ma=30931200&ts=0&p=pi&cid=8&sig=5c39ec3d859bcbd5a64f66e922b81ef025929d041ece54ba8405ee30c2cb46be&v=0)![](https://files.openai.com/content?id=file_000000006914720ca7a34247e1112b83&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=5d06aac0f128e7c36a59adf200cc7a34308389a908a9967caef1163d3c75c06f&v=0)
 
@@ -34,51 +36,73 @@ Add structured data to ChatGPT.
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_693ca6ce2db08191bb52d66743c65184>)[Contact sales](</contact-sales/>)
 
-[![](https://files.openai.com/content?id=file_000000002cbc722f936371ec567d6313&cdn=1&cp=pi&ma=31881600&ts=0&p=pi&cid=1&sig=113ef5f6ff9584cced6f29063d78eb2fa12a848249938c5f1cd5961d134df182&v=0)Airtable show me a kanban of the product roadmap. What’s at risk? What’s up next?(opens in a new window)](<https://chatgpt.com/?prompt=%40Airtable+show+me+a+kanban+of+the+product+roadmap.+What%E2%80%99s+at+risk%3F+What%E2%80%99s+up+next%3F>)[![](https://files.openai.com/content?id=file_000000002cbc722f936371ec567d6313&cdn=1&cp=pi&ma=31881600&ts=0&p=pi&cid=1&sig=113ef5f6ff9584cced6f29063d78eb2fa12a848249938c5f1cd5961d134df182&v=0)Airtable which roadmap initiatives should I discuss with the enterprise sales team today?(opens in a new window)](<https://chatgpt.com/?prompt=%40Airtable+which+roadmap+initiatives+should+I+discuss+with+the+enterprise+sales+team+today%3F>)
+Category
+    [Productivity](</business/plugins/?tab=plugins-productivity>)
 
-Use case: [Productivity](</business/plugins/?tab=plugins-productivity>) and [Data](</business/plugins/?tab=plugins-data-research>)
+Developer
+    Airtable
 
-Made by: Airtable
+Website
+    [(opens in a new window)](<https://airtable.com>)
 
-Website: [airtable.com(opens in a new window)](<https://airtable.com>)
+[![](https://files.openai.com/content?id=file_000000005c2481fd858f93b128aaef20&cdn=1&cp=pi&ma=31795200&ts=0&p=pi&cid=8&sig=82e637f79ffd50f0f47b98a7194a2424b0ea2855792577811acb5d505fe33535&v=0)Airtable Airtable show me a kanban of the product roadmap. What’s at risk? What’s up next?(opens in a new window)](<https://chatgpt.com/?prompt=%40Airtable+Airtable+show+me+a+kanban+of+the+product+roadmap.+What%E2%80%99s+at+risk%3F+What%E2%80%99s+up+next%3F>)[![](https://files.openai.com/content?id=file_000000005c2481fd858f93b128aaef20&cdn=1&cp=pi&ma=31795200&ts=0&p=pi&cid=8&sig=82e637f79ffd50f0f47b98a7194a2424b0ea2855792577811acb5d505fe33535&v=0)Airtable Airtable which roadmap initiatives should I discuss with the enterprise sales team today?(opens in a new window)](<https://chatgpt.com/?prompt=%40Airtable+Airtable+which+roadmap+initiatives+should+I+discuss+with+the+enterprise+sales+team+today%3F>)
 
 ## How it works
 
 Ask questions, explore roadmaps, and update records across Airtable bases in ChatGPT to make reporting, planning, and execution more efficient without switching tools.
 
-### Get faster answers from live operational data
+## Common use cases
+
+  * ### Get faster answers from live operational data
 
 Ask questions like which projects are shipping this week or which deals are at risk, and get filtered tables or kanban views that reduce manual reporting time and improve decision speed.
 
-### Keep systems of record up to date
+Airtable Which projects are shipping this week across all bases? Show it in a simple table grouped by team and highlight anything at risk.
+
+[(opens in a new window)](<https://chatgpt.com/?q=Airtable+Which+projects+are+shipping+this+week+across+all+bases%3F+Show+it+in+a+simple+table+grouped+by+team+and+highlight+anything+at+risk.>)
+
+  * ### Keep systems of record up to date
 
 Create or update tasks, statuses, and priorities directly from ChatGPT, so teams stay aligned and information across planning and tracking workflows stays current.
 
-### Align teams with shared visibility
+Airtable Turn this messy list of customer requests into structured records with category impact and suggested priority.
+
+[(opens in a new window)](<https://chatgpt.com/?q=Airtable+Turn+this+messy+list+of+customer+requests+into+structured+records+with+category+impact+and+suggested+priority.>)
+
+  * ### Align teams with shared visibility
 
 Summarize roadmaps, initiatives, or customer work from Airtable into clear briefs for sales, executives, or partners, improving alignment without extra preparation.
 
-## Sample prompts
+Airtable Summarize our [base] into a one page exec brief with milestones and dependencies.
 
-Identify key risks and mitigation actions
+[(opens in a new window)](<https://chatgpt.com/?q=Airtable+Summarize+our+%5Bbase%5D+into+a+one+page+exec+brief+with+milestones+and+dependencies.>)
 
-**@Airtable** Which projects are shipping this week across all bases? Show it in a simple table grouped by team and highlight anything at risk.
 
-Summarize the roadmap for executive stakeholders
 
-**@Airtable** Turn this messy list of customer requests into structured records with category impact and suggested priority.
 
-Standardize unstructured data
+## What’s included
 
-**@Airtable** Summarize our [base] into a one page exec brief with milestones and dependencies.
+### App
+
+  * ![](https://files.openai.com/content?id=file_00000000dba88230babd878362f10a51&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=8&sig=f8051bde561d1f2955302c748c65752b6dd5ed57606b8502ee665d32bcac178b&v=0)Airtable
+
+
+
+### Skills
+
+  * Airtable CLI
+  * Airtable Filters
+  * Airtable Overview
+
+
 
 ## Resources
 
-### [Help centerRead more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
+### [Help centerLearn more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
 
-### [Plugin supportRead more](<https://support.airtable.com/>)
+### [Plugin supportLearn more](<https://support.airtable.com/>)
 
-### [Privacy policyRead more](<https://www.airtable.com/company/privacy>)
+### [Privacy policyLearn more](<https://www.airtable.com/company/privacy>)
 
 ## Get started with plugins
 

@@ -24,7 +24,9 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 [Contact sales](</contact-sales/>)Try OpenAI
 
-OpenAI[View all plugins](</business/plugins/>)
+OpenAI
+
+[Plugins](</business/plugins/>)
 
 ![](https://files.openai.com/content?id=file_0000000059c071f699aa0c9a6126c1c4&cdn=1&cp=pi&ma=30412800&ts=0&p=pi&cid=1&sig=6e5be95a764660ee3463d1b811628737b39c8feb9242e69935259319bef3af30)![](https://files.openai.com/content?id=file_000000008b2c7230a31b920a76e70872&cdn=1&cp=pi&ma=32227200&ts=0&p=pi&cid=1&sig=2bdadb33af1218faa1cacc80584b8b39b47e59bf54ffb2c3e98db379f36a892d&v=0)
 
@@ -34,47 +36,60 @@ Complete structured AI skills courses with applied practice and certificates.
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_693022c8c0088191a7c7572aee832a0c>)[Contact sales](</contact-sales/>)
 
-Use case: [Education](</business/plugins/?tab=plugins-education>)
+Category
+    [Education](</business/plugins/?tab=plugins-education>)
 
-Made by: OpenAI Certified
+Developer
+    OpenAI Certified
 
 ## How it works
 
 Give teams a clear, applied path to AI fluency with role-aware guidance, practical exercises, and OpenAI-issued certificates so leaders can scale adoption and prove capability.
 
-### Build applied AI fluency across roles
+## Common use cases
+
+  * ### Build applied AI fluency across roles
 
 Assign short courses with role-aware tutoring and hands-on exercises so teams learn safe prompting, verification, and workflow design.
 
-### Get visibility into AI skill progress
+OpenAI Certified Create a 2-week learning plan for [team] to build safe, applied AI fluency. Include daily 10-15 minute exercises, 2 hands-on workflows, and verification steps.
+
+[(opens in a new window)](<https://chatgpt.com/?q=OpenAI+Certified+Create+a+2-week+learning+plan+for+%5Bteam%5D+to+build+safe%2C+applied+AI+fluency.+Include+daily+10-15+minute+exercises%2C+2+hands-on+workflows%2C+and+verification+steps.>)
+
+  * ### Get visibility into AI skill progress
 
 Track completion and assessment results to see who is ready for advanced use, identify team gaps, and prioritize where to invest in training for the greatest impact.
 
-### Prove practical capability with credible signals
+OpenAI Certified Summarize completion and assessment results for the last 30 days by team and role. Identify skill gaps and recommend who should take advanced modules next.
+
+[(opens in a new window)](<https://chatgpt.com/?q=OpenAI+Certified+Summarize+completion+and+assessment+results+for+the+last+30+days+by+team+and+role.+Identify+skill+gaps+and+recommend+who+should+take+advanced+modules+next.>)
+
+  * ### Prove practical capability with credible signals
 
 Issue certificates based on defined competencies and structured assessments, with plans to validate skills through real work signals, giving leaders confidence in assigning AI-related work.
 
-## Sample prompts
+OpenAI Certified Define a certificate readiness checklist for [role]. Include required competencies, a short practical assessment, and criteria for passing with confidence.
 
-Assign role-based AI learning path
+[(opens in a new window)](<https://chatgpt.com/?q=OpenAI+Certified+Define+a+certificate+readiness+checklist+for+%5Brole%5D.+Include+required+competencies%2C+a+short+practical+assessment%2C+and+criteria+for+passing+with+confidence.>)
 
-@OpenAI Academy Create a 2-week learning plan for [team] to build safe, applied AI fluency. Include daily 10-15 minute exercises, 2 hands-on workflows, and verification steps.
 
-Summarize training progress and gaps
 
-@OpenAI Academy Summarize completion and assessment results for the last 30 days by team and role. Identify skill gaps and recommend who should take advanced modules next.
 
-Recommend certificate readiness checklist
+## What’s included
 
-@OpenAI Academy Define a certificate readiness checklist for [role]. Include required competencies, a short practical assessment, and criteria for passing with confidence.
+### App
+
+  * ![](https://files.openai.com/content?id=file_0000000059c071f699aa0c9a6126c1c4&cdn=1&cp=pi&ma=30412800&ts=0&p=pi&cid=1&sig=6e5be95a764660ee3463d1b811628737b39c8feb9242e69935259319bef3af30)OpenAI Certified
+
+
 
 ## Resources
 
-### [Help centerRead more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
+### [Help centerLearn more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
 
-### [Plugin supportRead more](<https://platform.openai.com/docs>)
+### [Plugin supportLearn more](<https://platform.openai.com/docs>)
 
-### [Privacy policyRead more](<https://openai.com/policies/privacy-policy>)
+### [Privacy policyLearn more](<https://openai.com/policies/privacy-policy>)
 
 ## Get started with plugins
 

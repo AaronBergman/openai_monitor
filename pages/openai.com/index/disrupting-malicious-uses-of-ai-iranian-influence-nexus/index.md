@@ -28,6 +28,8 @@ OpenAI
 
 February 1, 2025
 
+[Safety](</news/safety-alignment/>)
+
 # Iranian influence nexus: Cross-platform activity
 
 OpenAI banned Iran-linked accounts using AI to generate articles and social posts tied to IUVM and STORM-2035 influence activity.
@@ -78,6 +80,11 @@ As with previous Iranian covert influence operations focused on social media and
 
 Using the [Breakout Scale⁠(opens in a new window)](<https://www.brookings.edu/articles/the-breakout-scale-measuring-the-impact-of-influence-operations/>) to assess the impact of IO, which rates them on a scale of 1 (lowest) to 6 (highest), we would assess this as being at the low end of Category 2 (activity on multiple platforms, but no evidence that real people picked up or widely shared their content).
 
+  * [Iran](</news/?tags=actor-origin-iran>)
+  * [Influence operations](</news/?tags=activity-type-influence-operations>)
+
+
+
 ## Author
 
 OpenAI
@@ -92,6 +99,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)

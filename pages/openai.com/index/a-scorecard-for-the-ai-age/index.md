@@ -65,9 +65,13 @@ Answering that question requires looking more deeply than a metric such as cost 
 The ultimate scorecard for the age of AI could be looked at as “Useful Intelligence per Dollar.” This metric answers four key questions:
 
   1. Is AI completing work that matters?
+
   2. What does each successful task cost?
+
   3. Can people depend on the result?
+
   4. Does each AI dollar produce more value as usage grows?
+
 
 
 
@@ -100,8 +104,11 @@ At the model level, cost per successful task depends on price, the amount of com
 The calculation is straightforward:
 
   * Add the full cost of completing the work.
+
   * Count the tasks that met the required quality bar.
+
   * Divide the full cost by the number of successful tasks.
+
 
 
 
@@ -132,8 +139,11 @@ Dependability has direct economic value. When results are accurate, well-sourced
 Teams can make this concrete by tracking three outcomes:
 
   * Ready to use: The result met the quality bar as delivered.
+
   * Needs correction: The result required another attempt or human edits.
+
   * Needs escalation: A person needed to step in and finish the work.
+
 
 
 
@@ -142,8 +152,11 @@ These measures tell a richer story than model accuracy alone. They show whether 
 Dependability also requires clear boundaries. Before AI moves from drafting to taking action, organizations should define:
 
   * What data the system can access.
+
   * What systems it can use or change.
+
   * When a person should review or approve an action.
+
 
 
 

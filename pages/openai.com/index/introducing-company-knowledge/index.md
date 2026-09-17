@@ -89,9 +89,13 @@ And because it can think while it searches and use date filters, company knowled
 As ChatGPT becomes even more helpful at work, we’re giving organizations more control over who can access what, where data lives, and how it’s protected.
 
   * **Control:** Enterprise and Edu admins can manage access to the connected apps that power company knowledge across their workspace. They can create custom roles and [set group-level permissions⁠(opens in a new window)](<https://help.openai.com/en/articles/11750701-rbac>) to ensure users only access what they need. 
+
   * **Privacy** : Company knowledge respects your existing permissions—ChatGPT can only access what each user is already allowed to view. **OpenAI never trains on your data by default.**
+
   * **Security:** All data is protected with industry-standard encryption. [SSO⁠(opens in a new window)](<https://help.openai.com/en/articles/10468051-sso-overview>) and [SCIM⁠(opens in a new window)](<https://help.openai.com/en/articles/9627404-openai-chatgpt-scim-integration-faq>) simplify secure access management at scale, and [IP allowlisting⁠(opens in a new window)](<https://help.openai.com/en/articles/12111596-ip-allowlisting-for-chatgpt>) ensures only traffic from approved IP addresses can access ChatGPT.
+
   * **Compliance** : Admins can access conversation logs through the [Enterprise Compliance API⁠⁠(opens in a new window)](<https://help.openai.com/en/articles/9261474-compliance-apis-for-enterprise-customers>)**** for reporting and regulatory purposes.****
+
 
 
 
@@ -106,8 +110,11 @@ Company knowledge goes beyond answering questions like “How do I file an expen
 Use it to help you:
 
   * **Turn customer insights into strategy docs:** ChatGPT can synthesize the most recent customer feedback shared in Slack channels, survey results insights from Google Slides, and key themes from support tickets to help inform roadmap planning.
+
   * **Create reports using the latest info:** After a campaign, ChatGPT can pull contacts or deals tied to your campaign from HubSpot, briefs and post-mortem notes from Google Docs, and highlights shared in email threads to generate a performance summary.
+
   * **Build release plans** : ChatGPT can scan your GitHub repo for open TODOs, check Linear for related tickets, and look through your Slack engineering channels for any unresolved bug reports to help plan your next feature release. It can then summarize what’s outstanding, what’s already tracked, and what still needs to be logged.
+
 
 
 
@@ -133,17 +140,17 @@ OpenAI
 
 [View all](</news/>)
 
+![Reimagining advertising with AI — Card cover](https://images.ctfassets.net/kftzwdyauwt9/fHwkKLVG8WFHvuUPqMXtz/1c49ba0859fe1e1e21f5d64f692490f5/reimagining-advertising-with-ai-cover.png?w=3840&q=90&fm=webp)
+
+[Reimagining advertising with AIProductSep 16, 2026](</index/reimagining-advertising-with-ai/>)
+
+![How to connect AI usage to business value — art card](https://images.ctfassets.net/kftzwdyauwt9/36T42HPkipcJAs08yNirmR/f73d9408ef4f0b08b5cce3b839656843/cover-018.png?w=3840&q=90&fm=webp)
+
+[How to connect AI usage to business valueProductSep 16, 2026](</index/how-to-connect-ai-usage-to-business-value/>)
+
 ![Now everyone can put data to work — card image](https://images.ctfassets.net/kftzwdyauwt9/6FhMXOSe8XadGwEUev6QjJ/916a64d20bcc59b8619fea1827fa6bd3/put-data-to-work--cover-v001.png?w=3840&q=90&fm=webp)
 
 [Now everyone can put data to workProductSep 10, 2026](</index/put-data-to-work/>)
-
-![FinServ Blog - Art Card Texture Square](https://images.ctfassets.net/kftzwdyauwt9/6Bcg403pebiJhQdHUS17FK/572e478dc4579deca27c9700c662e908/finserv-art-card.png?w=3840&q=90&fm=webp)
-
-[Introducing ChatGPT for Financial ServicesProductSep 10, 2026](</index/introducing-chatgpt-financial-services/>)
-
-![GPT-Live-1 API | Green-blue cover | Option 038](https://images.ctfassets.net/kftzwdyauwt9/1uBabEULLfw3Vb2Gldmyyq/c19c1c121ca403ee8b2703cba18ef82d/introducing-gpt-live-1-green-cover.png?w=3840&q=90&fm=webp)
-
-[Build more natural voice experiences with GPT‑Live‑1 in the APIProductSep 10, 2026](</index/introducing-gpt-live-1-in-the-api/>)
 
 Research
 

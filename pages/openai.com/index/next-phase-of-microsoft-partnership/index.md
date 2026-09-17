@@ -41,10 +41,15 @@ Share
 The rapid pace of innovation requires us to continue to evolve our partnership to benefit our customers and both companies. Today, we are announcing an amended agreement to simplify our partnership and the way we work together, grounded in flexibility, certainty, and a focus on delivering the benefits of AI broadly. The greater predictability in the amended agreement strengthens our joint ability to build and operate AI platforms at scale while providing both companies the flexibility to pursue new opportunities. The agreement spells out: 
 
   * Microsoft remains OpenAI’s primary cloud partner, and OpenAI products will ship first on Azure, unless Microsoft cannot and chooses not to support the necessary capabilities. OpenAI can now serve all its products to customers across any cloud provider.
+
   * Microsoft will continue to have a license to OpenAI IP for models and products through 2032. Microsoft’s license will now be non-exclusive. 
+
   * Microsoft will no longer pay a revenue share to OpenAI.
+
   * Revenue share payments from OpenAI to Microsoft continue through 2030, independent of OpenAI’s technology progress, at the same percentage but subject to a total cap. 
+
   * Microsoft continues to participate directly in OpenAI’s growth as a major shareholder. 
+
 
 
 

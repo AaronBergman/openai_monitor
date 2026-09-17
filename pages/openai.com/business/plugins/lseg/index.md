@@ -24,7 +24,9 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 [Contact sales](</contact-sales/>)Try OpenAI
 
-OpenAI[View all plugins](</business/plugins/>)
+OpenAI
+
+[Plugins](</business/plugins/>)
 
 ![](https://files.openai.com/content?id=file_00000000838c71f689139639dc435b8e&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=8&sig=ded0420cc73fb5c48598cd93c52b4a70df4b0f8445c20c8d1c8c2ecc49f77954&v=0)![](https://files.openai.com/content?id=file_00000000838c71f689139639dc435b8e&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=8&sig=ded0420cc73fb5c48598cd93c52b4a70df4b0f8445c20c8d1c8c2ecc49f77954&v=0)
 
@@ -34,51 +36,65 @@ Access LSEG financial data for pricing and market analysis.
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_698aec3092e48191a4484b43a3fc79b8>)[Contact sales](</contact-sales/>)
 
+Category
+    [Finance](</business/plugins/?tab=plugins-finance>)
+
+Developer
+    LSEG Engineering
+
+Website
+    [(opens in a new window)](<https://www.lseg.com/>)
+
 [![](https://files.openai.com/content?id=file_00000000e45471f5b5de13a805b0fb63&cdn=1&cp=pi&ma=32486400&ts=0&p=pi&cid=1&sig=e9831c00e25c94de6b24d86bd2d8c9fbff051cc5586a98f3b5bc1cac5496a2af&v=0)LSEG Get the spot price for the top 10 cross currencies traded on forex exchange(opens in a new window)](<https://chatgpt.com/?prompt=%40LSEG+Get+the+spot+price+for+the+top+10+cross+currencies+traded+on+forex+exchange>)[![](https://files.openai.com/content?id=file_00000000e45471f5b5de13a805b0fb63&cdn=1&cp=pi&ma=32486400&ts=0&p=pi&cid=1&sig=e9831c00e25c94de6b24d86bd2d8c9fbff051cc5586a98f3b5bc1cac5496a2af&v=0)LSEG Get the IBES estimates for VOD.L, BT.L for the next 2 years(opens in a new window)](<https://chatgpt.com/?prompt=%40LSEG+Get+the+IBES+estimates+for+VOD.L%2C+BT.L+for+the+next+2+years>)[![](https://files.openai.com/content?id=file_00000000e45471f5b5de13a805b0fb63&cdn=1&cp=pi&ma=32486400&ts=0&p=pi&cid=1&sig=e9831c00e25c94de6b24d86bd2d8c9fbff051cc5586a98f3b5bc1cac5496a2af&v=0)LSEG Get daily price summaries for JPMorgan stock for last month(opens in a new window)](<https://chatgpt.com/?prompt=%40LSEG+Get+daily+price+summaries+for+JPMorgan+stock+for+last+month>)
-
-Use case: [Finance](</business/plugins/?tab=plugins-finance>) and [Data](</business/plugins/?tab=plugins-data-research>)
-
-Made by: LSEG Engineering
-
-Website: [lseg.com(opens in a new window)](<https://www.lseg.com/>)
 
 ## How it works
 
 Access LSEG’s institutional-grade financial data in ChatGPT to price and analyze bonds, FX, and equities, search news and earnings transcripts, and explore macroeconomic indicators.
 
-### Support market and instrument analysis
+## Common use cases
+
+  * ### Support market and instrument analysis
 
 Retrieve pricing data for bonds and FX instruments to support market analysis.
 
-### Enhance risk and exposure analysis
+LSEG Get the latest EURUSD spot plus key level context and summarize what changed since yesterday.
+
+[(opens in a new window)](<https://chatgpt.com/?q=LSEG+Get+the+latest+EURUSD+spot+plus+key+level+context+and+summarize+what+changed+since+yesterday.>)
+
+  * ### Enhance risk and exposure analysis
 
 Access credit, inflation, and rate curve data to review risk-related indicators across markets.
 
-### Improve research and market monitoring
+LSEG Pull the latest inflation indicators and rate curves for the US and euro area, then summarize the differences our treasury team should review.
+
+[(opens in a new window)](<https://chatgpt.com/?q=LSEG+Pull+the+latest+inflation+indicators+and+rate+curves+for+the+US+and+euro+area%2C+then+summarize+the+differences+our+treasury+team+should+review.>)
+
+  * ### Improve research and market monitoring
 
 Search global news, headlines, and earnings transcripts to support market research and monitoring.
 
-## Sample prompts
+LSEG Create a daily morning brief for my watchlist tickers using relevant headlines and price moves.
 
-Summarize market brief with key takeaways
+[(opens in a new window)](<https://chatgpt.com/?q=LSEG+Create+a+daily+morning+brief+for+my+watchlist+tickers+using+relevant+headlines+and+price+moves.>)
 
-**@LSEG** Get the latest EURUSD spot plus key level context and summarize what changed since yesterday.
 
-Summarize work with key takeaways
 
-**@LSEG** Pull the latest inflation indicators and rate curves for the US and euro area, then summarize the differences our treasury team should review.
 
-Create market brief with key details
+## What’s included
 
-**@LSEG** Create a daily morning brief for my watchlist tickers using relevant headlines and price moves.
+### App
+
+  * ![](https://files.openai.com/content?id=file_00000000838c71f689139639dc435b8e&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=8&sig=ded0420cc73fb5c48598cd93c52b4a70df4b0f8445c20c8d1c8c2ecc49f77954&v=0)LSEG
+
+
 
 ## Resources
 
-### [Help centerRead more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
+### [Help centerLearn more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
 
-### [Plugin supportRead more](<https://www.lseg.com/contact-us>)
+### [Plugin supportLearn more](<https://www.lseg.com/contact-us>)
 
-### [Privacy policyRead more](<https://www.lseg.com/privacy-statement>)
+### [Privacy policyLearn more](<https://www.lseg.com/privacy-statement>)
 
 ## Get started with plugins
 

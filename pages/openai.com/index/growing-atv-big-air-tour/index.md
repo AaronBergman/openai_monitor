@@ -73,10 +73,15 @@ Split the grandstand into three coverage zones: left, center, and right.
 ![Diagram showing a three-zone speaker setup for a 250-foot-wide grandstand.](//images.ctfassets.net/kftzwdyauwt9/5F7BC3AdsEq7Y3Y3HJFqXO/b8d87ad0fd39928964b74fe9f33b55fd/Screenshot_2026-08-25_at_12.06.00_PM.png?w=828&q=90&fm=webp)
 
   * Place one PS18 sub and one PS15 top about 20 feet left of center.
+
   * Place a second PS18 and PS15 stack at center.
+
   * Place the third PS18 and PS15 stack about 20 feet right of center.
+
   * Aim the center top straight ahead and angle the outside tops slightly outward to cover the left and right seating zones.
+
   * Use the fourth PS15 as a stage monitor or extra side fill if one outer section needs more coverage.
+
 
 
 
@@ -105,31 +110,42 @@ Absolutely. Here’s a practical marketing plan you can run in the week leading 
 **One week before**
 
   * Announce the event on Instagram, Facebook, and TikTok.
+
   * Share a stunt video with the date, location, and showtimes.
+
   * Tag the venue, sponsors, riders, and local Hays organizations.
+
   * Ask the coordinator to promote the show through their website, email, and social channels.
+
 
 
 
 **During the week**
 
   * Post rider spotlights, behind-the-scenes footage, and countdown reminders.
+
   * Run a small paid social campaign within 60 miles of Hays.
+
   * Share practical information, including admission, parking, weather, and showtimes.
+
 
 
 
 **Show day**
 
   * Post the schedule and capture setup, stunts, crowd reactions, giveaways, and sponsor signage.
+
   * Encourage guests to tag #ATVBigAirTour.
+
 
 
 
 **After the event**
 
   * Share a highlight reel and thank the organizers, sponsors, and fans.
+
   * Record attendance, social engagement, giveaways, and audience feedback for the client recap.
+
 
 
 

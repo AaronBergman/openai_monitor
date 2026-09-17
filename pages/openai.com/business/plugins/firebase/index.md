@@ -24,7 +24,9 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 [Contact sales](</contact-sales/>)Try OpenAI
 
-OpenAI[View all plugins](</business/plugins/>)
+OpenAI
+
+[Plugins](</business/plugins/>)
 
 ![](https://files.openai.com/content?id=file_00000000da6c81f58455d98a59b9e028&cdn=1&cp=pi&ma=30931200&ts=0&p=pi&cid=8&sig=03536f130f44c90a94877d9e78404b93460a7566485b46608088528082eb91c0&v=0)![](https://files.openai.com/content?id=file_00000000da6c81f58455d98a59b9e028&cdn=1&cp=pi&ma=30931200&ts=0&p=pi&cid=8&sig=03536f130f44c90a94877d9e78404b93460a7566485b46608088528082eb91c0&v=0)
 
@@ -34,45 +36,76 @@ Build and manage Firebase apps
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugins_6a8ddf314ab88191864c208fda197798>)[Contact sales](</contact-sales/>)
 
+Capabilities
+    Skills, MCP
+
+Category
+    [Engineering & IT](</business/plugins/?tab=plugins-engineering-it>)
+
+Developer
+    Firebase
+
+Website
+    [(opens in a new window)](<https://firebase.google.com>)
+
 [![](https://files.openai.com/content?id=file_00000000726481f5ba59622c8c34cbe2&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=8&sig=3339bca605253a664d9372c7c624deafa79cf69acd85ba55ce9e755251e8bcf4&v=0)Firebase Set up Firebase in this app.(opens in a new window)](<https://chatgpt.com/?prompt=%40Firebase+Set+up+Firebase+in+this+app.>)[![](https://files.openai.com/content?id=file_00000000726481f5ba59622c8c34cbe2&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=8&sig=3339bca605253a664d9372c7c624deafa79cf69acd85ba55ce9e755251e8bcf4&v=0)Firebase Audit my Firestore security rules.(opens in a new window)](<https://chatgpt.com/?prompt=%40Firebase+Audit+my+Firestore+security+rules.>)[![](https://files.openai.com/content?id=file_00000000726481f5ba59622c8c34cbe2&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=8&sig=3339bca605253a664d9372c7c624deafa79cf69acd85ba55ce9e755251e8bcf4&v=0)Firebase Deploy this app with Firebase Hosting.(opens in a new window)](<https://chatgpt.com/?prompt=%40Firebase+Deploy+this+app+with+Firebase+Hosting.>)
-
-Use case: [Engineering & IT](</business/plugins/?tab=plugins-engineering-it>) and [Data](</business/plugins/?tab=plugins-data-research>)
-
-Made by: Firebase
-
-Website: [firebase.google.com(opens in a new window)](<https://firebase.google.com>)
 
 ## How it works
 
 Use official Firebase skills and the Firebase MCP server to set up projects, configure backend services, query Firestore, manage authentication, deploy hosting, work with AI Logic, and audit security rules from Codex.
 
-### Audit customer data access
+## Common use cases
+
+  * ### Audit customer data access
 
 Find weaknesses in Firestore access rules and prioritize fixes that protect customer records.
 
-### Build customer portal sign-in
+Google Firebase Audit the Firestore rules in this app for access to other customers' records and unauthorized role changes. Rank the findings and propose fixes with emulator tests for allowed and denied requests.
+
+[(opens in a new window)](<https://chatgpt.com/?q=Google+Firebase+Audit+the+Firestore+rules+in+this+app+for+access+to+other+customers%27+records+and+unauthorized+role+changes.+Rank+the+findings+and+propose+fixes+with+emulator+tests+for+allowed+and+denied+requests.>)
+
+  * ### Build customer portal sign-in
 
 Add user sign-in and account recovery to a customer portal, with rules that keep each customer's records private.
 
-### Prepare a launch preview
+Google Firebase Add email sign-in and password recovery to this customer portal. Use Firebase Authentication and Firestore rules so users can access only their own profile, then test the flow locally.
+
+[(opens in a new window)](<https://chatgpt.com/?q=Google+Firebase+Add+email+sign-in+and+password+recovery+to+this+customer+portal.+Use+Firebase+Authentication+and+Firestore+rules+so+users+can+access+only+their+own+profile%2C+then+test+the+flow+locally.>)
+
+  * ### Prepare a launch preview
 
 Give reviewers a working preview of a static web app with checked routes and a clear list of launch blockers.
 
-## Sample prompts
+Google Firebase Prepare this static web app for review on a Firebase Hosting preview channel. Check build output, redirects, and asset loading, deploy to the test project, and return the preview URL with any launch blockers.
 
-**@Google Firebase** Audit the Firestore rules in this app for access to other customers' records and unauthorized role changes. Rank the findings and propose fixes with emulator tests for allowed and denied requests.
+[(opens in a new window)](<https://chatgpt.com/?q=Google+Firebase+Prepare+this+static+web+app+for+review+on+a+Firebase+Hosting+preview+channel.+Check+build+output%2C+redirects%2C+and+asset+loading%2C+deploy+to+the+test+project%2C+and+return+the+preview+URL+with+any+launch+blockers.>)
 
-**@Google Firebase** Add email sign-in and password recovery to this customer portal. Use Firebase Authentication and Firestore rules so users can access only their own profile, then test the flow locally.
 
-**@Google Firebase** Prepare this static web app for review on a Firebase Hosting preview channel. Check build output, redirects, and asset loading, deploy to the test project, and return the preview URL with any launch blockers.
+
+
+## What’s included
+
+### Skills
+
+  * extension-to-functions-codebase
+  * firebase-ai-logic-basics
+  * firebase-app-hosting-basics
+  * firebase-auth-basics
+  * firebase-basics
+  * firebase-crashlytics
+  * firebase-data-connect
+  * firebase-firestore
+  * 4 more
+
+
 
 ## Resources
 
-### [Help centerRead more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
+### [Help centerLearn more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
 
-### [Plugin supportRead more](<https://help.openai.com/en/articles/6614161-how-can-i-contact-support>)
+### [Plugin supportLearn more](<https://help.openai.com/en/articles/6614161-how-can-i-contact-support>)
 
-### [Privacy policyRead more](<https://policies.google.com/privacy>)
+### [Privacy policyLearn more](<https://policies.google.com/privacy>)
 
 ## Get started with plugins
 

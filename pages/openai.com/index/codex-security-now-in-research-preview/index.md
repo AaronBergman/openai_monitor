@@ -65,8 +65,11 @@ Starting today, Codex Security is rolling out in research preview to ChatGPT Pro
 Codex Security leverages OpenAI’s frontier models and the Codex agent. It can reduce noise and accelerate remediation by grounding vulnerability discovery, validation, and patching in system-specific context.
 
   1. **Build system context and create an editable threat model:** After configuring a scan, it analyzes your repository to understand the security-relevant structure of the system and generates a project-specific threat model that can capture what the system does, what it trusts, and where it is most exposed. Threat models can be edited to keep the agent aligned with your team.
+
   2. **Prioritize and validate issues:** Using the threat model as context, it searches for vulnerabilities and categorizes findings based on expected real-world impact in your system. Where possible, it pressure-tests findings in sandboxed validation environments to distinguish signal from noise. Users can see this analysis in the validated findings. When Codex Security is configured with an environment tailored to your project, it can validate potential issues directly in the context of the running system. That deeper validation can reduce false positives even further and enable the creation of working proof-of-concepts, giving security teams stronger evidence and a clearer path to remediation.
+
   3. **Patch issues with full system context:** Finally, Codex Security proposes fixes to the discovered issues that align with system intent and surrounding behavior. This enables patches that can improve security while minimizing regressions, making them safer to review and land. Users can filter the findings so they stay focused on what matters most to their team and has the highest security impact.
+
 
 
 
@@ -97,20 +100,35 @@ We’ll be rolling out Codex Security access to ChatGPT Enterprise, Business, an
 Examples of high impact OSS vulnerabilities discovered by Codex Security:
 
   * GnuTLS certtool Heap-Buffer Overflow (Off-by-One) — [CVE-2025-32990⁠(opens in a new window)](<https://www.cve.org/CVERecord?id=CVE-2025-32990>)
+
   * GnuTLS Heap Buffer Overread in SCT Extension Parsing — [CVE-2025-32989⁠(opens in a new window)](<https://www.cve.org/CVERecord?id=CVE-2025-32989>)
+
   * GnuTLS Double-Free in otherName SAN Export — [CVE-2025-32988⁠(opens in a new window)](<https://www.cve.org/CVERecord?id=CVE-2025-32989>)
+
   * 2FA Bypass GOGS — [CVE-2025-64175⁠(opens in a new window)](<https://github.com/advisories/GHSA-p6x6-9mx6-26wj>)
+
   * Unauth bypass GOGS — [CVE-2026-25242⁠(opens in a new window)](<https://github.com/advisories/GHSA-fc3h-92p8-h36f>)
+
   * Path traversal (arbitrary write) — download_ephemeral, download_children (agent) — [CVE-2025-35430⁠(opens in a new window)](<https://www.cve.org/CVERecord?id=CVE-2025-35430>)
+
   * LDAP injection (filters & DN) — LdapUserMap::new / get_unix_info / basic_auth_ldap — [CVE-2025-35431⁠(opens in a new window)](<https://www.cve.org/CVERecord?id=CVE-2025-35430>)
+
   * Unauthenticated DoS & mail abuse — resend_email_verification — [CVE-2025-35432⁠(opens in a new window)](<https://www.cve.org/CVERecord?id=CVE-2025-35432>) , [CVE-2025-35436⁠(opens in a new window)](<https://nvd.nist.gov/vuln/detail/CVE-2025-35436>)
+
   * Session not rotated on password change — User::update_user — [CVE-2025-35433⁠(opens in a new window)](<https://www.cve.org/CVERecord?id=CVE-2025-35433>)
+
   * Disabled TLS verification — Elasticsearch client — [CVE-2025-35434⁠(opens in a new window)](<https://www.cve.org/CVERecord?id=CVE-2025-35433>)
+
   * DoS: division by zero — /api/streams/depth/.../{split} — [CVE-2025-35435⁠(opens in a new window)](<https://www.cve.org/CVERecord?id=CVE-2025-35435>)
+
   * gpg-agent stack buffer overflow via PKDECRYPT --kem=CMS (ECC KEM) — [CVE-2026-24881⁠(opens in a new window)](<https://www.cve.org/CVERecord?id=CVE-2026-24881>)
+
   * Stack-based buffer overflow in TPM2 PKDECRYPT for RSA and ECC due to missing ciphertext length validation — [CVE-2026-24882⁠(opens in a new window)](<https://www.cve.org/CVERecord?id=CVE-2026-24881>)
+
   * CMS/PKCS7 AES-GCM ASN.1 params stack buffer overflow — [CVE-2025-15467⁠(opens in a new window)](<https://www.cve.org/CVERecord?id=CVE-2026-24881>)
+
   * PKCS#12 PBMAC1 PBKDF2 keyLength overflow + MAC bypass — [CVE-2025-11187⁠(opens in a new window)](<https://www.cve.org/CVERecord?id=CVE-2025-11187>)
+
 
 
 
@@ -128,17 +146,17 @@ OpenAI
 
 [View all](</news/>)
 
+![Reimagining advertising with AI — Card cover](https://images.ctfassets.net/kftzwdyauwt9/fHwkKLVG8WFHvuUPqMXtz/1c49ba0859fe1e1e21f5d64f692490f5/reimagining-advertising-with-ai-cover.png?w=3840&q=90&fm=webp)
+
+[Reimagining advertising with AIProductSep 16, 2026](</index/reimagining-advertising-with-ai/>)
+
+![How to connect AI usage to business value — art card](https://images.ctfassets.net/kftzwdyauwt9/36T42HPkipcJAs08yNirmR/f73d9408ef4f0b08b5cce3b839656843/cover-018.png?w=3840&q=90&fm=webp)
+
+[How to connect AI usage to business valueProductSep 16, 2026](</index/how-to-connect-ai-usage-to-business-value/>)
+
 ![Now everyone can put data to work — card image](https://images.ctfassets.net/kftzwdyauwt9/6FhMXOSe8XadGwEUev6QjJ/916a64d20bcc59b8619fea1827fa6bd3/put-data-to-work--cover-v001.png?w=3840&q=90&fm=webp)
 
 [Now everyone can put data to workProductSep 10, 2026](</index/put-data-to-work/>)
-
-![FinServ Blog - Art Card Texture Square](https://images.ctfassets.net/kftzwdyauwt9/6Bcg403pebiJhQdHUS17FK/572e478dc4579deca27c9700c662e908/finserv-art-card.png?w=3840&q=90&fm=webp)
-
-[Introducing ChatGPT for Financial ServicesProductSep 10, 2026](</index/introducing-chatgpt-financial-services/>)
-
-![GPT-Live-1 API | Green-blue cover | Option 038](https://images.ctfassets.net/kftzwdyauwt9/1uBabEULLfw3Vb2Gldmyyq/c19c1c121ca403ee8b2703cba18ef82d/introducing-gpt-live-1-green-cover.png?w=3840&q=90&fm=webp)
-
-[Build more natural voice experiences with GPT‑Live‑1 in the APIProductSep 10, 2026](</index/introducing-gpt-live-1-in-the-api/>)
 
 Research
 

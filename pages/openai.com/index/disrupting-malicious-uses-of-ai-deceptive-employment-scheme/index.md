@@ -28,6 +28,8 @@ OpenAI
 
 February 1, 2025
 
+[Safety](</news/safety-alignment/>)
+
 # Deceptive Employment Scheme: AI-assisted hiring deception
 
 OpenAI banned accounts potentially used to facilitate a deceptive employment scheme with characteristics of publicly reported North Korea-linked IT-worker activity.
@@ -70,6 +72,11 @@ Given our visibility into only a small portion of this overall set of activity, 
 
 OpenAI’s policies strictly prohibit use of output from our tools for fraud or scams. Through our investigation into deceptive employment schemes, we identified and banned dozens of accounts. We have shared insights about the fraudulent networks we disrupted with industry peers and relevant authorities, enhancing our collective ability to detect, prevent, and respond to such threats while advancing our shared safety.
 
+  * [Global](</news/?tags=target-geography-global-internet-users>)
+  * [Fraud & scams](</news/?tags=activity-type-fraud-scams>)
+
+
+
 ## Author
 
 OpenAI
@@ -84,6 +91,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)

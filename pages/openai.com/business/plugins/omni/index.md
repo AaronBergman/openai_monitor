@@ -24,7 +24,9 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 [Contact sales](</contact-sales/>)Try OpenAI
 
-OpenAI[View all plugins](</business/plugins/>)
+OpenAI
+
+[Plugins](</business/plugins/>)
 
 ![](https://files.openai.com/content?id=file_00000000333471f69062a3ef9b51c5cc&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=1&sig=8497e91942dbb748ab58beeaf764b868b0233c8259f5375156a575f257f6ba72)![](https://files.openai.com/content?id=file_00000000b7b871f6a5c1c3749690cca3&cdn=1&cp=pi&ma=32486400&ts=0&p=pi&cid=1&sig=e856610017bcd39e2392d0467d774092cd216436cbe4703d7518137078f5bd73)
 
@@ -34,45 +36,65 @@ Query business data
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_694e8b8715108191a49fe2db4398d9e2>)[Contact sales](</contact-sales/>)
 
+Category
+    [Data](</business/plugins/?tab=plugins-data-research>)
+
+Developer
+    Omni Analytics
+
+Website
+    [(opens in a new window)](<https://www.omni.co>)
+
 [![](https://files.openai.com/content?id=file_00000000333471f69062a3ef9b51c5cc&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=1&sig=8497e91942dbb748ab58beeaf764b868b0233c8259f5375156a575f257f6ba72)![](https://files.openai.com/content?id=file_00000000b7b871f6a5c1c3749690cca3&cdn=1&cp=pi&ma=32486400&ts=0&p=pi&cid=1&sig=e856610017bcd39e2392d0467d774092cd216436cbe4703d7518137078f5bd73)Omni Show me last year's orders by status(opens in a new window)](<https://chatgpt.com/?prompt=%40Omni+Show+me+last+year%27s+orders+by+status>)[![](https://files.openai.com/content?id=file_00000000333471f69062a3ef9b51c5cc&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=1&sig=8497e91942dbb748ab58beeaf764b868b0233c8259f5375156a575f257f6ba72)![](https://files.openai.com/content?id=file_00000000b7b871f6a5c1c3749690cca3&cdn=1&cp=pi&ma=32486400&ts=0&p=pi&cid=1&sig=e856610017bcd39e2392d0467d774092cd216436cbe4703d7518137078f5bd73)Omni Where are our users based?(opens in a new window)](<https://chatgpt.com/?prompt=%40Omni+Where+are+our+users+based%3F>)[![](https://files.openai.com/content?id=file_00000000333471f69062a3ef9b51c5cc&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=1&sig=8497e91942dbb748ab58beeaf764b868b0233c8259f5375156a575f257f6ba72)![](https://files.openai.com/content?id=file_00000000b7b871f6a5c1c3749690cca3&cdn=1&cp=pi&ma=32486400&ts=0&p=pi&cid=1&sig=e856610017bcd39e2392d0467d774092cd216436cbe4703d7518137078f5bd73)Omni Give me an analysis of our business over the last few years(opens in a new window)](<https://chatgpt.com/?prompt=%40Omni+Give+me+an+analysis+of+our+business+over+the+last+few+years>)
-
-Use case: [Data](</business/plugins/?tab=plugins-data-research>)
-
-Made by: Omni Analytics
-
-Website: [omni.co(opens in a new window)](<https://www.omni.co>)
 
 ## How it works
 
 Omni lets users work with their organization's governed business intelligence data from ChatGPT. The app can list available Omni models, select the best topic for a question, generate and run a single analytical query, start Omni's full AI assistant for deeper multi-step analysis, check the assistant job status, and search Omni documentation.
 
-### Review order performance
+## Common use cases
+
+  * ### Review order performance
 
 Explain how order volumes and completion rates have changed across recent months.
 
-### Compare geographic growth
+Omni Analytics Analyze monthly orders by status for the last year using our governed model. Calculate completion rates, identify the largest changes, and recommend which periods or statuses deserve a closer look.
+
+[(opens in a new window)](<https://chatgpt.com/?q=Omni+Analytics+Analyze+monthly+orders+by+status+for+the+last+year+using+our+governed+model.+Calculate+completion+rates%2C+identify+the+largest+changes%2C+and+recommend+which+periods+or+statuses+deserve+a+closer+look.>)
+
+  * ### Compare geographic growth
 
 Identify where your user base is growing and how its geographic mix is changing.
 
-### Explain quarterly revenue
+Omni Analytics Compare active users by country this quarter with last quarter. Show growth rates and each country's share of users, highlight the largest shifts, and state the active-user definition used.
+
+[(opens in a new window)](<https://chatgpt.com/?q=Omni+Analytics+Compare+active+users+by+country+this+quarter+with+last+quarter.+Show+growth+rates+and+each+country%27s+share+of+users%2C+highlight+the+largest+shifts%2C+and+state+the+active-user+definition+used.>)
+
+  * ### Explain quarterly revenue
 
 Investigate the segments behind quarterly revenue changes and prepare a business review summary.
 
-## Sample prompts
+Omni Analytics Investigate last quarter's revenue change versus the previous quarter. Use the relevant governed model, drill into the largest segment and product movements, and prepare a concise review with supporting figures.
 
-**@Omni Analytics** Analyze monthly orders by status for the last year using our governed model. Calculate completion rates, identify the largest changes, and recommend which periods or statuses deserve a closer look.
+[(opens in a new window)](<https://chatgpt.com/?q=Omni+Analytics+Investigate+last+quarter%27s+revenue+change+versus+the+previous+quarter.+Use+the+relevant+governed+model%2C+drill+into+the+largest+segment+and+product+movements%2C+and+prepare+a+concise+review+with+supporting+figures.>)
 
-**@Omni Analytics** Compare active users by country this quarter with last quarter. Show growth rates and each country's share of users, highlight the largest shifts, and state the active-user definition used.
 
-**@Omni Analytics** Investigate last quarter's revenue change versus the previous quarter. Use the relevant governed model, drill into the largest segment and product movements, and prepare a concise review with supporting figures.
+
+
+## What’s included
+
+### App
+
+  * ![](https://files.openai.com/content?id=file_00000000333471f69062a3ef9b51c5cc&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=1&sig=8497e91942dbb748ab58beeaf764b868b0233c8259f5375156a575f257f6ba72)Omni
+
+
 
 ## Resources
 
-### [Help centerRead more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
+### [Help centerLearn more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
 
-### [Plugin supportRead more](<https://omni.co/customer-support>)
+### [Plugin supportLearn more](<https://omni.co/customer-support>)
 
-### [Privacy policyRead more](<https://omni.co/privacy>)
+### [Privacy policyLearn more](<https://omni.co/privacy>)
 
 ## Get started with plugins
 

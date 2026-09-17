@@ -24,7 +24,9 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 [Contact sales](</contact-sales/>)Try OpenAI
 
-OpenAI[View all plugins](</business/plugins/>)
+OpenAI
+
+[Plugins](</business/plugins/>)
 
 ![](https://files.openai.com/content?id=file_00000000bec871f5b16bea82279ccf21&cdn=1&cp=pi&ma=31536000&ts=0&p=pi&cid=1&sig=dae48439fa494947db53290285649ef7f8819b8db88432aa57eb884533747051&v=0)![](https://files.openai.com/content?id=file_00000000bec871f5b16bea82279ccf21&cdn=1&cp=pi&ma=31536000&ts=0&p=pi&cid=1&sig=dae48439fa494947db53290285649ef7f8819b8db88432aa57eb884533747051&v=0)
 
@@ -34,51 +36,68 @@ Search and pull from shared sites and OneDrive.
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_1p_dca009ae2c848191ae14df3a47c5e7fd>)[Contact sales](</contact-sales/>)
 
+Capabilities
+    Interactive, Write
+
+Category
+    [Productivity](</business/plugins/?tab=plugins-productivity>)
+
+Developer
+    OpenAI
+
+Website
+    [(opens in a new window)](<https://www.microsoft.com/en-us/microsoft-365/sharepoint/collaboration>)
+
 [![](https://files.openai.com/content?id=file_000000006e3081f5aae481f57112b845&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=bee4638ab174d77a27e0ede0406e619c0057a6b50c5108a1369ee36e1aeaca53&v=0)SharePoint Build an executive pre-read by pulling the most relevant files from [folder] and summarizing them into one brief(opens in a new window)](<https://chatgpt.com/?prompt=%40SharePoint+Build+an+executive+pre-read+by+pulling+the+most+relevant+files+from+%5Bfolder%5D+and+summarizing+them+into+one+brief>)[![](https://files.openai.com/content?id=file_000000006e3081f5aae481f57112b845&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=bee4638ab174d77a27e0ede0406e619c0057a6b50c5108a1369ee36e1aeaca53&v=0)SharePoint Summarize the documents in [folder] and rank the top risks with references back to the files(opens in a new window)](<https://chatgpt.com/?prompt=%40SharePoint+Summarize+the+documents+in+%5Bfolder%5D+and+rank+the+top+risks+with+references+back+to+the+files>)[![](https://files.openai.com/content?id=file_000000006e3081f5aae481f57112b845&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=bee4638ab174d77a27e0ede0406e619c0057a6b50c5108a1369ee36e1aeaca53&v=0)SharePoint Use this library's approved templates to draft a professional services statement of work for a 12-week data migration project(opens in a new window)](<https://chatgpt.com/?prompt=%40SharePoint+Use+this+library%27s+approved+templates+to+draft+a+professional+services+statement+of+work+for+a+12-week+data+migration+project>)
-
-Use case: [Productivity](</business/plugins/?tab=plugins-productivity>) and [Data](</business/plugins/?tab=plugins-data-research>)
-
-Made by: OpenAI
-
-Website: [microsoft.com(opens in a new window)](<https://www.microsoft.com/en-us/microsoft-365/sharepoint/collaboration>)
 
 ## How it works
 
 Work with documents stored in SharePoint or OneDrive — including PDFs, Word, PowerPoint, and Excel docs — to create onboarding guides, prepare pre-reads, summarize complex materials, or extract key points for stakeholders.
 
-### Accelerate drafting from approved organizational content
+## Common use cases
+
+  * ### Accelerate drafting from approved organizational content
 
 Produce first drafts of guides, SOPs, and executive briefs using files already maintained by teams, reducing manual rewriting and improving turnaround times for stakeholder reviews.
 
-### Synthesize knowledge across files and departments
+SharePoint Build an executive pre-read by pulling the most relevant files from [folder] and summarizing them into one brief.
+
+[(opens in a new window)](<https://chatgpt.com/?q=SharePoint+Build+an+executive+pre-read+by+pulling+the+most+relevant+files+from+%5Bfolder%5D+and+summarizing+them+into+one+brief.>)
+
+  * ### Synthesize knowledge across files and departments
 
 Ask questions across large content repositories to generate concise summaries, identify risks, and compare versions so leaders can align quickly without opening multiple documents.
 
-### Keep generated content compliant with internal standards
+SharePoint Summarize the documents in [folder] and rank the top risks with references back to the files.
+
+[(opens in a new window)](<https://chatgpt.com/?q=SharePoint+Summarize+the+documents+in+%5Bfolder%5D+and+rank+the+top+risks+with+references+back+to+the+files.>)
+
+  * ### Keep generated content compliant with internal standards
 
 Ground outputs in policy documents, templates, and controlled sources to ensure consistent language, reduce compliance risk, and maintain alignment with governed materials.
 
-## Sample prompts
+SharePoint Use the approved templates in this library to draft a professional services statement of work for a 12-week data migration project.
 
-Build executive materials
+[(opens in a new window)](<https://chatgpt.com/?q=SharePoint+Use+the+approved+templates+in+this+library+to+draft+a+professional+services+statement+of+work+for+a+12-week+data+migration+project.>)
 
-**@SharePoint** Build an executive pre-read by pulling the most relevant files from [folder] and summarizing them into one brief.
 
-Identify key risks and mitigation actions
 
-**@SharePoint** Summarize the documents in [folder] and rank the top risks with references back to the files.
 
-Draft a new document
+## What’s included
 
-**@SharePoint** Use the approved templates in this library to draft a professional services statement of work for a 12-week data migration project.
+### App
+
+  * ![](https://chatgpt.com/images/ecosystem/apps/microsoft_sharepoint/icon.png)Microsoft SharePoint
+
+
 
 ## Resources
 
-### [Help centerRead more](<https://help.openai.com/en/articles/12143177-sharepoint-connectors-on-chatgpt>)
+### [Help centerLearn more](<https://help.openai.com/en/articles/12143177-sharepoint-connectors-on-chatgpt>)
 
-### [Plugin supportRead more](<https://support.microsoft.com/sharepoint>)
+### [Plugin supportLearn more](<https://support.microsoft.com/sharepoint>)
 
-### [Privacy policyRead more](<https://privacy.microsoft.com>)
+### [Privacy policyLearn more](<https://privacy.microsoft.com>)
 
 ## Get started with plugins
 

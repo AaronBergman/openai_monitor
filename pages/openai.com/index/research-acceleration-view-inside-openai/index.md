@@ -113,11 +113,17 @@ Both qualitative impressions and internal data indicate that the mix of tasks re
 To get a clearer picture of this trend, we analyzed recent usage in the research organization using a [_recently published taxonomy_ ⁠(opens in a new window)](<https://epoch.ai/gradient-updates/toward-an-onet-for-ai-rnd>) of the different kinds of work that are part of the AI R&D lifecycle, developed by Epoch AI. This taxonomy, inspired by the longstanding O*NET system for classifying all kinds of work, is specifically tailored to frontier AI R&D, and breaks the process down into six main phases:
 
   1. Decide: what to work on, what to continue, where to allocate
+
   2. Design: research ideas and engineering specs
+
   3. Build: code and datasets
+
   4. Run: training/eval runs, hardware, serving
+
   5. Analyze: experiments, models, deployment, external work
+
   6. Communicate: findings, feedback, status, decisions
+
 
 
 
@@ -174,7 +180,9 @@ Agent-powered AI research is still new, and we are still learning how to measure
 Across these analyses, unless otherwise noted:
 
   * “Researcher” is a broad term for any member of our research organization, including some who build research infrastructure, manage research projects, or otherwise support the enterprise.
+
   * Metrics of coding agent use cover most, but not all, usage given rapid evolution in the tools and systems researchers rely on.
+
 
 
 
@@ -191,6 +199,10 @@ OpenAI
 
 [View all](</news/>)
 
+![Our framework for reporting model misalignment — card image](https://images.ctfassets.net/kftzwdyauwt9/3mJz9GkBOjZvAMYPx8M1dj/2a9ac4b7e18b1c08feef5368c4fde2e2/model-misalignment-reporting-framework--cover-v002.png?w=3840&q=90&fm=webp)
+
+[Our framework for reporting model misalignmentResearchSep 16, 2026](</index/model-misalignment-reporting-framework/>)
+
 ![Navier–Stokes solution — art card](https://images.ctfassets.net/kftzwdyauwt9/2VUQZfeF2GtKRitKYdkoLu/cc96d05424afb2c9adcca0734ecdafb1/navier-stokes-art-card.png?w=3840&q=90&fm=webp)
 
 [An OpenAI model proposes a solution to the Navier–Stokes problemResearchSep 8, 2026](</index/navier-stokes-solution/>)
@@ -198,10 +210,6 @@ OpenAI
 ![Teen development research grants — Card image](https://images.ctfassets.net/kftzwdyauwt9/492WJ2zEboE6VdmchhCjIA/34e10aa1208a6988e3db2341d849d5b4/4bzz6p65ky7zwfd4pe42ou-cover__3_.png?w=3840&q=90&fm=webp)
 
 [Funding grants for new research into AI and teen developmentSafetySep 8, 2026](</index/teen-development-research-grants/>)
-
-![An alien mind > Listing card](https://images.ctfassets.net/kftzwdyauwt9/7ut3G8rKt5ia4P3yRqi2qN/6ffb429f70548a881eb46a4e7e61498e/Option_120___1080_1080.png?w=3840&q=90&fm=webp)
-
-[An Alien MindSafetySep 6, 2026](</index/an-alien-mind/>)
 
 Research
 

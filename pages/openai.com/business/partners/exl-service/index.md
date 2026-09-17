@@ -38,7 +38,7 @@ OpenAI
 
 EXL is a global data and AI company: 68,000+ employees, $2.24B in revenue over the last 12 months, and delivery centers on 6 continents. We design, build, and run AI systems inside the operations of insurers, banks, healthcare payers, and life sciences firms, where audit trails and model risk review decide whether anything ships. Our agentic platform, EXLerate.ai, deploys OpenAI models against client data and 25 years of process knowledge. Through iMerit, acquired in 2026, we add expert data annotation, model evaluation, and red-teaming for frontier AI labs. Data-and-AI-led services are 61% of revenue and grew 30% in the second quarter of 2026.
 
-![Select Partner](/images/partner-tier-badges/OAI_PartnerNetwork_SelectPartner.svg?dpl=dpl_7AjPT4EAzjLn9jJMncY33GWAq9XL)
+![Select Partner](/images/partner-tier-badges/OAI_PartnerNetwork_SelectPartner.svg?dpl=dpl_GL1UxgKZ7jmDjn2HVeCSxaftH7vR)
 
 Countries served
     United States, Canada, United Kingdom, Ireland, India, Philippines, Australia, South Africa, Bulgaria, Czech Republic, Romania, and Colombia

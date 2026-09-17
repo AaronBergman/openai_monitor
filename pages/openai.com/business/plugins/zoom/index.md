@@ -24,7 +24,9 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 [Contact sales](</contact-sales/>)Try OpenAI
 
-OpenAI[View all plugins](</business/plugins/>)
+OpenAI
+
+[Plugins](</business/plugins/>)
 
 ![](https://files.openai.com/content?id=file_00000000aa9071f59db729d014a2c122&cdn=1&cp=pi&ma=31795200&ts=0&p=pi&cid=1&sig=6709f94e3d491849be21f21c311321cfd336dd2079d72129fb55b6b76e78464e&v=0)![](https://files.openai.com/content?id=file_00000000289881f78412bec5f6f0a389&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=8&sig=52f0f0a1d820e8d2548e6d6e0e4f42e7a7900384b50418850b66476aad680181&v=0)
 
@@ -34,51 +36,82 @@ Smart meeting insights from Zoom.
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69373a13116c819189d046aea1278836>)[Contact sales](</contact-sales/>)
 
+Capabilities
+    Interactive, Read, Write
+
+Category
+    [Productivity](</business/plugins/?tab=plugins-productivity>)
+
+Developer
+    Zoom
+
+Website
+    [(opens in a new window)](<https://zoom.us>)
+
 [![](https://files.openai.com/content?id=file_000000007f1c71f586a9c1c2a3cbe53b&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=4a30a6989c4c64e3532773e01bb9d858671cb03f5b73ca1b0e82ff38e48e18ba&v=0)Zoom Search my recent Zoom meetings for the discussion about pricing.(opens in a new window)](<https://chatgpt.com/?prompt=%40Zoom+Search+my+recent+Zoom+meetings+for+the+discussion+about+pricing.>)[![](https://files.openai.com/content?id=file_000000007f1c71f586a9c1c2a3cbe53b&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=4a30a6989c4c64e3532773e01bb9d858671cb03f5b73ca1b0e82ff38e48e18ba&v=0)Zoom Run /plan-zoom-product for a Zoom integration idea.(opens in a new window)](<https://chatgpt.com/?prompt=%40Zoom+Run+%2Fplan-zoom-product+for+a+Zoom+integration+idea.>)
-
-Use case: [Productivity](</business/plugins/?tab=plugins-productivity>)
-
-Made by: Zoom
-
-Website: [zoom.us(opens in a new window)](<https://zoom.us>)
 
 ## How it works
 
 Bring Zoom’s meeting intelligence, powered by Zoom AI Companion, directly into ChatGPT. Ask questions and get precise moments from your recordings surfaced with an embedded player that jumps to the exact point of discussion. Make every meeting searchable, actionable, and seamlessly integrated into your AI workflows.
 
-### Accelerate meeting preparation
+## Common use cases
+
+  * ### Accelerate meeting preparation
 
 Auto-generate agendas, pre-reads, and related Zoom Docs to reduce manual preparation time and ensure teams enter meetings aligned on objectives.
 
-### Surface actionable meeting insights
+Zoom Build an agenda and pre-read for my 30 minute customer check in and create a Zoom Doc with it.
+
+[(opens in a new window)](<https://chatgpt.com/?q=Zoom+Build+an+agenda+and+pre-read+for+my+30+minute+customer+check+in+and+create+a+Zoom+Doc+with+it.>)
+
+  * ### Surface actionable meeting insights
 
 Quickly retrieve summaries, decisions, transcripts, and recordings so teams can resolve issues faster and maintain continuity across projects.
 
-### Create and manage content in one place
+Zoom Extract action items from the transcript and format them as a checklist I can paste into a project tracker.
+
+[(opens in a new window)](<https://chatgpt.com/?q=Zoom+Extract+action+items+from+the+transcript+and+format+them+as+a+checklist+I+can+paste+into+a+project+tracker.>)
+
+  * ### Create and manage content in one place
 
 Generate and attach Zoom Docs or Whiteboards, capture recaps, and organize meeting assets without switching tools, improving productivity and consistency.
 
-## Sample prompts
+Zoom Create a weekly summary across all my meetings with the top 5 themes and the most repeated risks.
 
-Draft agenda and pre-read
+[(opens in a new window)](<https://chatgpt.com/?q=Zoom+Create+a+weekly+summary+across+all+my+meetings+with+the+top+5+themes+and+the+most+repeated+risks.>)
 
-**@Zoom** Build an agenda and pre-read for my 30 minute customer check in and create a Zoom Doc with it.
 
-Extract next actions and assign owners
 
-**@Zoom** Extract action items from the transcript and format them as a checklist I can paste into a project tracker.
 
-Create summary across meetings
+## What’s included
 
-**@Zoom** Create a weekly summary across all my meetings with the top 5 themes and the most repeated risks.
+### App
+
+  * ![](https://files.openai.com/content?id=file_00000000aa9071f59db729d014a2c122&cdn=1&cp=pi&ma=31795200&ts=0&p=pi&cid=1&sig=6709f94e3d491849be21f21c311321cfd336dd2079d72129fb55b6b76e78464e&v=0)Zoom
+
+
+
+### Skills
+
+  * /build-zoom-bot
+  * /build-zoom-meeting-app
+  * Choose Zoom Approach
+  * Zoom Cobrowse SDK
+  * Build Zoom Contact Center App
+  * /debug-zoom
+  * Debug Zoom Integration
+  * Zoom General
+  * 19 more
+
+
 
 ## Resources
 
-### [Help centerRead more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
+### [Help centerLearn more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
 
-### [Plugin supportRead more](<https://support.zoom.us/>)
+### [Plugin supportLearn more](<https://support.zoom.us/>)
 
-### [Privacy policyRead more](<https://zoom.us/privacy>)
+### [Privacy policyLearn more](<https://zoom.us/privacy>)
 
 ## Get started with plugins
 

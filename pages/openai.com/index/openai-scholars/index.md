@@ -81,9 +81,13 @@ Once you’ve decided to join the field, there are many programs (such as our [F
 ## Resources we’ll provide
 
   * We’ll provide you with a $7.5k/mo stipend for 3 months from June 4, 2018 to August 31, 2018.
+
   * Each scholar will receive $25,000 worth of credits from [Amazon Web Services⁠(opens in a new window)](<https://aws.amazon.com/>).
+
   * You’ll have a mentor who will provide at least an hour of mentorship via video call each week, answer your questions via chat/email, and work with you to design and execute a good project to stretch your skills.
+
   * There will be a group Slack with the scholars and mentors. If you’re in the Bay Area, we’ll optionally provide a desk for you at the OpenAI office.
+
 
 
 
@@ -94,8 +98,11 @@ We’ve lined up the following mentors from OpenAI and the community. AWS is don
 ## Expectations
 
   * You should be studying deep learning full-time during the 3 months.
+
   * You should write a weekly blog post updating the community on your progress: describe what you learned during the week, what materials you found useful, what questions you find yourself asking, etc.
+
   * You should complete and open source a project by the end of the program.
+
 
 
 
@@ -104,9 +111,13 @@ We’ve lined up the following mentors from OpenAI and the community. AWS is don
 You are eligible to apply if:
 
   * You are a member of an underrepresented group in science and engineering.
+
   * You have US work authorization and are located in a US timezone.
+
   * You understand this article on [calculus⁠(opens in a new window)](<http://wiki.fast.ai/index.php/Calculus_for_Deep_Learning>) and this article on [linear algebra⁠(opens in a new window)](<https://www.quantstart.com/articles/matrix-algebra-linear-algebra-for-deep-learning-part-2>). It’s fine if you have to brush up on these skills.
+
   * You are comfortable programming in Python (other languages are helpful, but you’ll spend the program writing in Python).
+
 
 
 
@@ -115,8 +126,11 @@ We’re open to all experience levels and backgrounds that meet the above criter
 We’ll use these criteria for selection:
 
   * **Impact on you**. We want to understand why this grant and mentorship will help you achieve something you couldn’t otherwise.
+
   * **Self-motivation & communication**. We’re looking for people who will work hard through those three months, and who will inspire others (in the program and externally) to endeavor to learn deep learning as well.
+
   * **Technical skills**. The stronger your technical background, the more time you’ll spend focusing on the deep learning itself.
+
 
 
 
@@ -160,6 +174,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)

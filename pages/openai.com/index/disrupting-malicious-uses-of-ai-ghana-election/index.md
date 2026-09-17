@@ -28,6 +28,8 @@ OpenAI
 
 February 1, 2025
 
+[Safety](</news/safety-alignment/>)
+
 # Covert influence operation: Ghana election activity
 
 OpenAI banned accounts using AI to generate articles, posts, and fake engagement around Ghana’s 2024 presidential election.
@@ -76,6 +78,13 @@ Using the [Breakout Scale⁠(opens in a new window)](<https://www.brookings.edu/
 
 Empoweringghana[.]com.
 
+  * [Ghana](</news/?tags=target-geography-ghana>)
+  * [United Arab Emirates](</news/?tags=actor-origin-united-arab-emirates>)
+  * [Ghana](</news/?tags=actor-origin-ghana>)
+  * [Influence operations](</news/?tags=activity-type-influence-operations>)
+
+
+
 ## Author
 
 OpenAI
@@ -90,6 +99,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)

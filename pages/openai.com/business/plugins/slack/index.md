@@ -24,7 +24,9 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 [Contact sales](</contact-sales/>)Try OpenAI
 
-OpenAI[View all plugins](</business/plugins/>)
+OpenAI
+
+[Plugins](</business/plugins/>)
 
 ![](https://files.openai.com/content?id=file_00000000994081fd9df560367dfe54f4&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=8&sig=55e9028947fbc7ea3284b715ca95e34f797efbc5c4e0e47a9b2b0509d787308d&v=0)![](https://files.openai.com/content?id=file_00000000994081fd9df560367dfe54f4&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=8&sig=55e9028947fbc7ea3284b715ca95e34f797efbc5c4e0e47a9b2b0509d787308d&v=0)
 
@@ -34,51 +36,68 @@ Look up chats and messages.
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69a1d78e929881919bba0dbda1f6436d>)[Contact sales](</contact-sales/>)
 
+Capabilities
+    Interactive, Write
+
+Category
+    [Productivity](</business/plugins/?tab=plugins-productivity>)
+
+Developer
+    OpenAI
+
+Website
+    [(opens in a new window)](<https://slack.com/>)
+
 [![](https://files.openai.com/content?id=file_00000000f76081f7aadb2093dc9a88d7&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=a45ce46237849f50f780ce7660a9d5f9fca54426fe81c38dd4a49cfeb962335a&v=0)Slack Summarize what mattered most in [channel] over the last 7 days and list decisions plus owners plus next steps(opens in a new window)](<https://chatgpt.com/?prompt=%40Slack+Summarize+what+mattered+most+in+%5Bchannel%5D+over+the+last+7+days+and+list+decisions+plus+owners+plus+next+steps>)[![](https://files.openai.com/content?id=file_00000000f76081f7aadb2093dc9a88d7&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=a45ce46237849f50f780ce7660a9d5f9fca54426fe81c38dd4a49cfeb962335a&v=0)Slack Draft a crisp reply in the same tone as the channel for the last customer escalation message in [channel](opens in a new window)](<https://chatgpt.com/?prompt=%40Slack+Draft+a+crisp+reply+in+the+same+tone+as+the+channel+for+the+last+customer+escalation+message+in+%5Bchannel%5D>)[![](https://files.openai.com/content?id=file_00000000f76081f7aadb2093dc9a88d7&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=a45ce46237849f50f780ce7660a9d5f9fca54426fe81c38dd4a49cfeb962335a&v=0)Slack Build a 30 minute meeting agenda based on the top themes from this mornings discussion in [channel](opens in a new window)](<https://chatgpt.com/?prompt=%40Slack+Build+a+30+minute+meeting+agenda+based+on+the+top+themes+from+this+mornings+discussion+in+%5Bchannel%5D>)
-
-Use case: [Productivity](</business/plugins/?tab=plugins-productivity>), [Small Business](</business/plugins/?tab=plugins-small-business>), and [Data](</business/plugins/?tab=plugins-data-research>)
-
-Made by: OpenAI
-
-Website: [slack.com(opens in a new window)](<https://slack.com/>)
 
 ## How it works
 
 Use your Slack messages and channel discussions to create recaps, gather background before a meeting, highlight decisions, or draft responses with the right context.
 
-### Perfect every proposal
+## Common use cases
 
-ChatGPT can turn the requirements, objections, and pricing from your deals in Slack into a proposal your whole team can weigh in on.
+  * ### Turn briefs into proposals
 
-### Put your research to work
+Turn the scope, timeline, and budget discussed in Slack into a project proposal your team can review and build on.
 
-With the Slack plugin, your team can weigh in on the research and analysis you do in ChatGPT and Codex. Just bring your finished brief into a channel, and let the ideas fly.
+Use the scope, timeline, and budget from my Slack conversations to draft a project proposal I can share with the team.
 
-### Code with company
+[(opens in a new window)](<https://chatgpt.com/?q=Use+the+scope%2C+timeline%2C+and+budget+from+my+Slack+conversations+to+draft+a+project+proposal+I+can+share+with+the+team.>)
 
-Take the features and fixes you build in ChatGPT and Codex from good to great with your team in Slack. More eyes. More ideas. Better code.
+  * ### Prep your code for review
 
-## Sample prompts
+Help your team review the feature you built in Codex with a pull request description covering what changed, key tradeoffs, and important context.
 
-Turn briefs into proposals
+Write a pull request description for the feature I built in Codex. Include what changed, the key tradeoffs, and anything my team should know.
 
-Use the scope, timeline, and budget from my **@Slack** conversations to draft a project proposal I can share with the team.
+[(opens in a new window)](<https://chatgpt.com/?q=Write+a+pull+request+description+for+the+feature+I+built+in+Codex.+Include+what+changed%2C+the+key+tradeoffs%2C+and+anything+my+team+should+know.>)
 
-Prep your code for review
+  * ### Make a plan before you build
 
-**@Slack** Write a pull request description for the feature I built in Codex. Include what changed, the key tradeoffs, and anything my team should know.
+Use your notes and Slack conversations to outline the problem, proposed approach, and open questions before development begins.
 
-Make a plan before you build
+Turn my notes into a technical design doc with the problem, proposed approach, and open questions. Use relevant Slack conversations for context.
 
-Turn my notes into a technical design doc with the problem, proposed approach, and open questions. Use relevant **@Slack** conversations for context.
+[(opens in a new window)](<https://chatgpt.com/?q=Turn+my+notes+into+a+technical+design+doc+with+the+problem%2C+proposed+approach%2C+and+open+questions.+Use+relevant+Slack+conversations+for+context.>)
+
+
+
+
+## What’s included
+
+### App
+
+  * ![](https://files.openai.com/content?id=file_00000000dc7c71fd8213f2c75804d1d3&cdn=1&cp=pi&ma=30240000&ts=0&p=pi&cid=8&sig=3ea4b7ce3505fba383377ac5ffba6ac1c2809a009416862019de7f5caa17ee45&v=0)Slack
+
+
 
 ## Resources
 
-### [Help centerRead more](<https://intercom.help/openai/en/articles/12525822-chatgpt-connector-for-slack>)
+### [Help centerLearn more](<https://intercom.help/openai/en/articles/12525822-chatgpt-connector-for-slack>)
 
-### [Plugin supportRead more](<https://slack.com/help>)
+### [Plugin supportLearn more](<https://slack.com/help>)
 
-### [Privacy policyRead more](<https://slack.com/privacy-policy>)
+### [Privacy policyLearn more](<https://slack.com/privacy-policy>)
 
 ## Get started with plugins
 

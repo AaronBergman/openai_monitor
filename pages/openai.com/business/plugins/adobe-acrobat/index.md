@@ -24,7 +24,9 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 [Contact sales](</contact-sales/>)Try OpenAI
 
-OpenAI[View all plugins](</business/plugins/>)
+OpenAI
+
+[Plugins](</business/plugins/>)
 
 ![](https://files.openai.com/content?id=file_000000000c1871f5a6cfddb62a46e9de&cdn=1&cp=pi&ma=31363200&ts=0&p=pi&cid=1&sig=81b62307ba341b02656de1a8a775263b1126c5aa1801f5f51ac5b3da3cb40a2c&v=0)![](https://files.openai.com/content?id=file_00000000551481f5a345351199fc73fd&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=d24c1524f8efa98e3db5084e8f55ca134b1ac198deddaffc355a1df03b180092&v=0)
 
@@ -34,51 +36,65 @@ Edit and organize PDFs easily.
 
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6938a7d323f48191aeabaf579802bf45>)[Contact sales](</contact-sales/>)
 
+Category
+    [Productivity](</business/plugins/?tab=plugins-productivity>)
+
+Developer
+    Adobe Acrobat
+
+Website
+    [(opens in a new window)](<https://www.adobe.com/acrobat.html>)
+
 [![](https://files.openai.com/content?id=file_000000000c1871f5a6cfddb62a46e9de&cdn=1&cp=pi&ma=31363200&ts=0&p=pi&cid=1&sig=81b62307ba341b02656de1a8a775263b1126c5aa1801f5f51ac5b3da3cb40a2c&v=0)![](https://files.openai.com/content?id=file_00000000551481f5a345351199fc73fd&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=d24c1524f8efa98e3db5084e8f55ca134b1ac198deddaffc355a1df03b180092&v=0)Adobe Acrobat create a job application PDF by merging these docs(opens in a new window)](<https://chatgpt.com/?prompt=%40Adobe+Acrobat+create+a+job+application+PDF+by+merging+these+docs>)[![](https://files.openai.com/content?id=file_000000000c1871f5a6cfddb62a46e9de&cdn=1&cp=pi&ma=31363200&ts=0&p=pi&cid=1&sig=81b62307ba341b02656de1a8a775263b1126c5aa1801f5f51ac5b3da3cb40a2c&v=0)![](https://files.openai.com/content?id=file_00000000551481f5a345351199fc73fd&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=d24c1524f8efa98e3db5084e8f55ca134b1ac198deddaffc355a1df03b180092&v=0)Adobe Acrobat combine these reports into one PDF(opens in a new window)](<https://chatgpt.com/?prompt=%40Adobe+Acrobat+combine+these+reports+into+one+PDF>)
-
-Use case: [Productivity](</business/plugins/?tab=plugins-productivity>)
-
-Made by: Adobe Acrobat
-
-Website: [adobe.com(opens in a new window)](<https://www.adobe.com/acrobat.html>)
 
 ## How it works
 
 Work faster with PDFs directly in ChatGPT by editing, merging, splitting, converting, redacting, and extracting data to turn static files into usable, shareable assets—without switching tools.
 
-### Speed up document workflows
+## Common use cases
+
+  * ### Speed up document workflows
 
 Combine proposals and pricing into a single PDF or reorder pages quickly to reduce manual preparation time and create client-ready documents.
 
-### Unlock data from PDFs
+Adobe Acrobat Combine the proposal PDF and pricing PDF into one client ready packet with the pages in the right order.
+
+[(opens in a new window)](<https://chatgpt.com/?q=Adobe+Acrobat+Combine+the+proposal+PDF+and+pricing+PDF+into+one+client+ready+packet+with+the+pages+in+the+right+order.>)
+
+  * ### Unlock data from PDFs
 
 Convert financial reports or scanned documents into Excel or editable files with OCR to support faster review and reduce manual data entry.
 
-### Protect sensitive information
+Adobe Acrobat Convert this scanned quarterly financial report into an Excel file using OCR so our finance team can review the tables without retyping them.
+
+[(opens in a new window)](<https://chatgpt.com/?q=Adobe+Acrobat+Convert+this+scanned+quarterly+financial+report+into+an+Excel+file+using+OCR+so+our+finance+team+can+review+the+tables+without+retyping+them.>)
+
+  * ### Protect sensitive information
 
 Redact confidential information and compress files before sharing to help teams distribute documents securely inside and outside the organization.
 
-## Sample prompts
+Adobe Acrobat Redact all SSNs bank account numbers and home addresses from this document and give me a redaction summary.
 
-Review proposals and flag risks
+[(opens in a new window)](<https://chatgpt.com/?q=Adobe+Acrobat+Redact+all+SSNs+bank+account+numbers+and+home+addresses+from+this+document+and+give+me+a+redaction+summary.>)
 
-**@Adobe Acrobat** Combine the proposal PDF and pricing PDF into one client ready packet with the pages in the right order.
 
-Redact sensitive data and summarize
 
-**@Adobe Acrobat** Convert this scanned quarterly financial report into an Excel file using OCR so our finance team can review the tables without retyping them.
 
-Compress PDFs for email sharing
+## What’s included
 
-**@Adobe Acrobat** Redact all SSNs bank account numbers and home addresses from this document and give me a redaction summary.
+### App
+
+  * ![](https://files.openai.com/content?id=file_000000000c1871f5a6cfddb62a46e9de&cdn=1&cp=pi&ma=31363200&ts=0&p=pi&cid=1&sig=81b62307ba341b02656de1a8a775263b1126c5aa1801f5f51ac5b3da3cb40a2c&v=0)Adobe Acrobat
+
+
 
 ## Resources
 
-### [Help centerRead more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
+### [Help centerLearn more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
 
-### [Plugin supportRead more](<https://helpx.adobe.com/support.html>)
+### [Plugin supportLearn more](<https://helpx.adobe.com/support.html>)
 
-### [Privacy policyRead more](<https://www.adobe.com/privacy/policy.html>)
+### [Privacy policyLearn more](<https://www.adobe.com/privacy/policy.html>)
 
 ## Get started with plugins
 

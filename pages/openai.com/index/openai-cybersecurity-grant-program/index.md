@@ -49,8 +49,11 @@ Our goal is to work with defenders across the globe to change the power dynamics
 **Our program seeks to:**
 
   1. **Empower defenders** : We would like to ensure that cutting-edge AI capabilities benefit defenders first and most.
+
   2. **Measure capabilities** : We are working to develop methods for quantifying the cybersecurity capabilities of AI models, in order to better understand and improve their effectiveness.
+
   3. **Elevate discourse:** We are dedicated to fostering rigorous discussions at the intersection of AI and cybersecurity, encouraging a comprehensive and nuanced understanding of the challenges and opportunities in this domain.
+
 
 
 
@@ -59,21 +62,37 @@ A traditional view in cybersecurity is that the landscape naturally advantages a
 Below are some general project ideas that our team has put forward:
 
   * Collect and label data from cyber defenders to train defensive cybersecurity agents
+
   * Detect and mitigate social engineering tactics
+
   * Automate incident triage 
+
   * Identify security issues in source code
+
   * Assist network or device forensics
+
   * Automatically patch vulnerabilities
+
   * Optimize patch management processes to improve prioritization, scheduling, and deployment of security updates
+
   * Develop or improve confidential compute on GPUs
+
   * Create honeypots and deception technology to misdirect or trap attackers
+
   * Assist reverse engineers in creating signatures and behavior based detections of malware
+
   * Analyze an organization’s security controls and compare to compliance regimes
+
   * Assist developers to create [secure by design and secure by default⁠(opens in a new window)](<https://www.cisa.gov/sites/default/files/2023-04/principles_approaches_for_security-by-design-default_508_0.pdf>) software
+
   * Assist end users to adopt security best practices
+
   * Aid security engineers and developers to create robust threat models
+
   * Produce threat intelligence with salient and relevant information for defenders tailored to their organization
+
   * Help developers port code to memory safe languages
+
 
 
 

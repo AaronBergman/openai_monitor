@@ -32,7 +32,7 @@ Connect with OpenAI at AWS re:Invent
 
 ## Frontier intelligence. Enterprise-ready on AWS.
 
-At [_re:Invent 2026_ ⁠(opens in a new window)](<https://aws.amazon.com/events/reinvent/>), see how OpenAI and AWS are helping enterprises move from model evaluation to business value. Together, OpenAI’s frontier intelligence and the AWS foundation customers already trust, create a faster, safer, and more economical path to put advanced AI to work in production.
+At [_re:Invent 2026_ ⁠(opens in a new window)](<https://aws.amazon.com/events/reinvent/>), see how OpenAI and AWS are helping enterprises move from model evaluation to business value. Together, OpenAI’s frontier intelligence and the AWS foundation customers already trust create a faster, safer, and more economical path to put advanced AI to work in production.
 
 #### Meet us in Las Vegas
 

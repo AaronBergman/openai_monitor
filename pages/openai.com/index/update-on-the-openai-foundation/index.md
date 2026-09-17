@@ -81,8 +81,11 @@ We’re starting with Life Sciences & Curing Diseases, where we believe that AI 
 At the Foundation, we’ve identified three initial focus areas where we think this work could make a real difference:
 
   * **AI for Alzheimer’s:** Alzheimer’s is one of the hardest and most heartbreaking diseases families face – and one of the toughest problems in medicine. AI’s ability to reason across complex data could help researchers uncover new insights. We will be partnering with leading research institutions, with an initial focus on mapping disease pathways, detecting biomarkers for clinical care and clinical trials, and accelerating personalization of treatments—including, where possible, repurposing existing FDA-approved molecules.
+
   * **Public Data for Health:** Many of medicine’s biggest advances have been made possible by shared scientific data, and public access to data is essential to deliver the promise of AI for scientific breakthroughs. We will help partners create and expand open, high-quality datasets—and, where appropriate, help responsibly open previously closed ones – so researchers everywhere can leverage AI and use data to drive progress across diseases.
+
   * **Accelerating Progress on High-Mortality and High-Burden Diseases:** We believe AI can help lead to scientific breakthroughs, and lower the cost and risk of developing or repurposing therapies, particularly in high-mortality and high-burden disease areas that are underfunded. We will bring together AI researchers and disease experts, starting with a focused workshop to identify how best to empower scientists with AI tools and surface promising opportunities.
+
 
 
 
@@ -99,8 +102,11 @@ As previously announced, AI Resilience will also be one of our primary programs.
 We will initially focus on a few areas where concerns about impact are already apparent, and where we think early work can make a real difference:
 
   * **AI Impact on Children & Youth: **We want to help make sure AI tools are safe for young people and support healthy development. That includes investing in data-driven research and evaluation, and working across fields to help identify the right safeguards that help assure safe and beneficial interactions between AI and children and youth.
+
   * **Biosecurity:** We want to strengthen how society prepares for potential biological threats—both naturally occurring and AI enabled outbreaks. That includes improving detection, prevention, and mitigation. 
+
   * **AI Model Safety:** We want AI systems to be safer by default. That means supporting independent testing and evaluations, developing new and stronger industry standards, and funding foundational research that helps to avoid safety issues or to detect and address them early.
+
 
 
 
@@ -150,17 +156,17 @@ Bret Taylor
 
 [View all](</news/>)
 
-![California youth AI safety — cover](https://images.ctfassets.net/kftzwdyauwt9/3CsHxgcoiHHUUaYOB1FNiq/38e90de831dad795965ed98ffdd3a95a/Frame.png?w=3840&q=90&fm=webp)
+![Paul Christiano joins OpenAI Foundation Board — card](https://images.ctfassets.net/kftzwdyauwt9/4PcDbhz75I70TjyGat7oHl/598dd1e865018860c3591cb95c9bc72e/paul-christiano-joins-openai-foundation-board--cover-v001.png?w=3840&q=90&fm=webp)
 
-[OpenAI supports California’s bill to advance youth AI safetyCompanyAug 31, 2026](</index/supporting-california-bill-advance-ai-youth-safety/>)
+[Paul Christiano joins OpenAI Foundation BoardCompanySep 9, 2026](</index/paul-christiano-joins-openai-foundation-board/>)
 
-![Our decision on Cursor following its acquisition by SpaceX — cover](https://images.ctfassets.net/kftzwdyauwt9/3gFEgHvtA7Rsa5yUen97p5/b78a11ad81397a4003b879160e5a19b3/index-our-decision-on-cursor-following-its-acquisition-by-spacex-cover.png?w=3840&q=90&fm=webp)
+![The Work Now Within Reach — clean cover](https://images.ctfassets.net/kftzwdyauwt9/5iHLTPM4ZhKe4dAwOPfpy2/347b9d804542685bb13dbb63e985d91e/c3f562e2b08a0bfc.png?w=3840&q=90&fm=webp)
 
-[Our decision on Cursor following its acquisition by SpaceXCompanyAug 28, 2026](</index/our-decision-on-cursor-following-its-acquisition-by-spacex/>)
+[The Work Now Within ReachCompanySep 8, 2026](</index/the-work-now-within-reach/>)
 
-![Supporting Thailand’s next generation of AI startups > Cover image](https://images.ctfassets.net/kftzwdyauwt9/6ttG55Aq2kyDRG8wxOkTx9/897d266cacc77edc0a25d06b9f6c2c45/supporting-next-generation-ai-startups-thailand--cover.png?w=3840&q=90&fm=webp)
+![Supporting journalism from classrooms to newsrooms — listing card](https://images.ctfassets.net/kftzwdyauwt9/2uvvRNdvFkdWWXNtANgtAF/36e0f8b6a0c35abf88eec71519823409/Option_70___1080_1080.png?w=3840&q=90&fm=webp)
 
-[Supporting Thailand’s next generation of AI startupsCompanyAug 28, 2026](</index/supporting-next-generation-ai-startups-thailand/>)
+[Supporting journalism from classrooms to newsroomsCompanySep 8, 2026](</index/supporting-journalism-from-classrooms-to-newsrooms/>)
 
 Research
 
@@ -172,6 +178,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)

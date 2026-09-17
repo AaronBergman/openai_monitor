@@ -28,6 +28,8 @@ OpenAI
 
 October 1, 2024
 
+[Safety](</news/safety-alignment/>)
+
 # Tort Report: Abusive reporting activity
 
 OpenAI banned accounts using AI to draft abusive reports and complaints targeting Vietnamese public figures and platforms.
@@ -58,6 +60,11 @@ The content that this operation generated consisted of short comments in English
 
 We did not see any indication that posts targeted by this activity were restricted or blocked. Using the Breakout Scale to assess the impact of IO, which rates them on a scale of 1 (lowest) to 6 (highest), we would assess this as a Category 1 operation, as we did not observe any effect from its activity on either platform that it targeted.
 
+  * [Vietnam](</news/?tags=target-geography-vietnam>)
+  * [Harassment & repression](</news/?tags=harassment-and-repression>)
+
+
+
 ## Author
 
 OpenAI
@@ -72,6 +79,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)

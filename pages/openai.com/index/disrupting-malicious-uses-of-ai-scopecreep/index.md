@@ -28,6 +28,8 @@ OpenAI
 
 June 1, 2025
 
+[Safety](</news/safety-alignment/>)
+
 # Operation “ScopeCreep”: Russian-speaking malware development
 
 OpenAI banned Russian-language accounts using AI to build malware, refine loaders, and troubleshoot cyber tooling.
@@ -55,13 +57,21 @@ From there, the malware was designed to initiate a multi-stage process to escala
 The threat actor utilized our model to assist in developing the malware iteratively, by continually requesting ChatGPT to implement further specific features. ScopeCreep showcased a range of techniques across delivery, execution, evasion, and exfiltration, including:
 
   * C2 payloads designed to avoid signature-based detections.
+
   * Stealthy execution via DLL side-loading.
+
   * Obfuscation via custom packing with Themida.
+
   * Privilege escalation and evasion.
+
   * HTTPS over port 80.
+
   * Credential and session theft.
+
   * Attacker notifications via Telegram.
+
   * Proxy-based traffic obfuscation.
+
 
 
 
@@ -74,10 +84,15 @@ The model interactions from this cluster covered a wide range of development tas
 Representative examples of these activities can be mapped to the LLM ATT&CK framework as follows:
 
   * Using LLMs to compile a file, python310.dll, so that their code is executed whenever python.exe runs: LLM Aided Development.
+
   * Troubleshooting errors with SSL/TLS certificates designed to serve HTTPS traffic on port 80: LLM Aided Development.
+
   * Model-assisted migration of a Flask-based C2 server to a production-ready WSGI server: LLM Aided Development.
+
   * Developing PowerShell commands in Go to modify Windows Defender settings and add AV exclusions: LLM-Enhanced Anomaly Detection Evasion.
+
   * Debugging errors in code to notify an attacker-controlled Telegram channel when a new victim is compromised: LLM-Assisted Post-Compromise Activity.
+
 
 
 
@@ -88,6 +103,10 @@ At this stage, the impact of ScopeCreep may have been mitigated by quick reporti
 We assess this threat actor utilized our models in an attempt to speed up their malware development operations. Paradoxically, this also provided an opportunity for us to identify and disrupt the threat quickly and in what looked like its early stages.
 
 While this malware’s capabilities include privilege escalation, persistence, credential harvesting, and remote access, these are not particularly novel. Although this malware was likely active in the wild, with some samples appearing on VirusTotal, we did not see evidence of any widespread interest or distribution.
+
+  * [Cyber operations](</news/?tags=cyber-operations>)
+
+
 
 ## Author
 
@@ -103,6 +122,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)

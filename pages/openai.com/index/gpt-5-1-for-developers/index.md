@@ -101,7 +101,9 @@ show an npm command to list globally installed packages
 You can list globally installed npm packages with:
 
   * Just package names: npm ls -g --depth=0
+
   * Including their install paths: npm ls -g
+
 
 
 
@@ -130,11 +132,17 @@ _In_[ _SWE-bench Verified⁠_ ⁠](<https://openai.com/index/introducing-swe-ben
 We got early feedback on GPT‑5.1 from a handful of coding companies. Here are their impressions:
 
   * [**Augment Code** ⁠(opens in a new window)](<https://www.augmentcode.com/>) called GPT‑5.1 “more deliberate with fewer wasted actions, more efficient reasoning, and better task focus” and they’re seeing “more accurate changes, smoother pull requests, and faster iteration across multi-file projects.”
+
   * [**Cline** ⁠(opens in a new window)](<https://cline.bot/>)**** shared that in their evals, “GPT‑5.1 achieved SOTA on our diff editing benchmark with a 7% improvement, demonstrating exceptional reliability for complex coding tasks.”
+
   * [**CodeRabbit** ⁠(opens in a new window)](<https://coderabbit.ai/>) called GPT‑5.1 its “top model of choice for PR reviews.”
+
   * [**Cognition** ⁠(opens in a new window)](<https://cognition.ai/>) said GPT‑5.1 is “noticeably better at understanding what you’re asking for and working with you to get it done.”
+
   * [**Factory** ⁠(opens in a new window)](<https://factory.ai>) said “GPT‑5.1 delivers noticeably snappier responses and adapts its reasoning depth to the task, reducing overthinking and improving the overall developer experience.”
+
   * [**Warp** ⁠(opens in a new window)](<https://www.warp.dev/warp-ai>) is making GPT‑5.1 the default for new users, saying it “builds on the impressive intelligence gains that the GPT‑5 series introduced, while being a far more responsive model.”
+
 
 
 
@@ -201,17 +209,17 @@ OpenAI
 
 [View all](</news/>)
 
+![Reimagining advertising with AI — Card cover](https://images.ctfassets.net/kftzwdyauwt9/fHwkKLVG8WFHvuUPqMXtz/1c49ba0859fe1e1e21f5d64f692490f5/reimagining-advertising-with-ai-cover.png?w=3840&q=90&fm=webp)
+
+[Reimagining advertising with AIProductSep 16, 2026](</index/reimagining-advertising-with-ai/>)
+
+![How to connect AI usage to business value — art card](https://images.ctfassets.net/kftzwdyauwt9/36T42HPkipcJAs08yNirmR/f73d9408ef4f0b08b5cce3b839656843/cover-018.png?w=3840&q=90&fm=webp)
+
+[How to connect AI usage to business valueProductSep 16, 2026](</index/how-to-connect-ai-usage-to-business-value/>)
+
 ![Now everyone can put data to work — card image](https://images.ctfassets.net/kftzwdyauwt9/6FhMXOSe8XadGwEUev6QjJ/916a64d20bcc59b8619fea1827fa6bd3/put-data-to-work--cover-v001.png?w=3840&q=90&fm=webp)
 
 [Now everyone can put data to workProductSep 10, 2026](</index/put-data-to-work/>)
-
-![FinServ Blog - Art Card Texture Square](https://images.ctfassets.net/kftzwdyauwt9/6Bcg403pebiJhQdHUS17FK/572e478dc4579deca27c9700c662e908/finserv-art-card.png?w=3840&q=90&fm=webp)
-
-[Introducing ChatGPT for Financial ServicesProductSep 10, 2026](</index/introducing-chatgpt-financial-services/>)
-
-![GPT-Live-1 API | Green-blue cover | Option 038](https://images.ctfassets.net/kftzwdyauwt9/1uBabEULLfw3Vb2Gldmyyq/c19c1c121ca403ee8b2703cba18ef82d/introducing-gpt-live-1-green-cover.png?w=3840&q=90&fm=webp)
-
-[Build more natural voice experiences with GPT‑Live‑1 in the APIProductSep 10, 2026](</index/introducing-gpt-live-1-in-the-api/>)
 
 Research
 

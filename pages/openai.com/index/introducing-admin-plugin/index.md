@@ -67,9 +67,13 @@ Managing a growing workspace often means moving between analytics, settings, and
 With the Admin plugin, admins can complete their day-to-day tasks directly from ChatGPT Work and Codex, including but not limited to:
 
   * **Understand adoption and usage.** Review activity and credit usage across ChatGPT Work and Codex, identify where additional enablement may help and when members or groups are approaching credit limits.
+
   * **Manage members and groups.** Add or remove members, update groups, and complete routine onboarding, offboarding, and team changes.
+
   * **Manage access and permissions.** Review effective permissions, diagnose access issues, and control feature or model access by role or group.
+
   * **Manage usage limits and spending requests.** Adjust limits for members groups, and workspaces, review requests against current usage, and approve or deny them with context.
+
 
 
 
@@ -96,7 +100,9 @@ At OpenAI, the Admin plugin changes the first step of workspace administration f
 The Admin plugin is one example of a broader shift in how OpenAI’s IT team uses ChatGPT Work and Codex. OpenAI’s IT team uses these tools to bring the relevant context and workflows into one place.
 
   * In Slack, a ChatGPT Work agent handles employee IT requests, triages and actions support tickets, retrieves context, checks approved policies, completes supported tasks, and escalates exceptions. At the time of reporting, deployed workflows resolved about ~45% of ticket volume
+
   * ChatGPT Work made it possible to turn support ticket data and history into operational health dashboards, giving IT continuous visibility into service performance. That visibility helped eliminate the backlog and changed how the team operates. Instead of reacting to service issues, the team now uses live data to set priorities and plan for demand, even as support volume roughly doubled.
+
 
 
 

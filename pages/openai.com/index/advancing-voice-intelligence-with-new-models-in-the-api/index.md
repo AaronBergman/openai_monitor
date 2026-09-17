@@ -63,8 +63,11 @@ Voice as an interface between people and products
 We’re introducing three audio models in the API that unlock a new class of voice apps for developers. With these models, developers can build voice experiences that feel more natural, respond more intelligently, and take action in real time:
 
   * **GPT‑Realtime‑2** , our first voice model with GPT‑5‑class reasoning that can handle harder requests and carry the conversation forward naturally.
+
   * **GPT‑Realtime‑Translate** , a new live translation model that translates speech from 70+ input languages into 13 output languages while keeping pace with the speaker.
+
   * **GPT‑Realtime‑Whisper** , a new streaming speech-to-text that transcribes speech live as the speaker talks.
+
 
 
 
@@ -99,8 +102,11 @@ Together, the models we are launching move realtime audio from simple call-and-r
 As voice becomes a more natural way to use software, we’re seeing developers build around three emerging patterns in voice AI:
 
   * **Voice-to-action,** where people can describe what they need and the system can reason through the request, use tools, and complete the task. For example, Zillow is building an assistant that can listen, reason, and act on requests like: “find me homes within my BuyAbility, avoid busy streets, and schedule a tour for Saturday.”
+
   * **Systems-to-voice,** where software can turn context into live spoken guidance. For example, a travel app could proactively tell a traveler: “Your inbound flight is delayed, but you can still make your connection. I found the new gate, mapped the fastest route through the terminal, and your bag is still expected to transfer.”
+
   * **Voice-to-voice,** where AI can help live conversations continue across languages, tasks, or changing context. For example, Deutsche Telekom is building voice support experiences where customers can speak in the language they’re most comfortable using, while the model translates the conversation in real time.
+
 
 
 
@@ -113,18 +119,25 @@ These patterns can also work together. Priceline is working toward a future wher
 GPT‑Realtime‑2 is built for live voice interactions where the model keeps the conversation moving while it reasons through a request, calls tools, handles corrections or interruptions, and responds in a way that fits the moment.
 
   * **Preambles:** Developers can enable short phrases before a main response, like “let me check that” or “one moment while I look into it,” so users know the agent is working on the request.
+
   * **Parallel tool calls and tool transparency:** The model can call multiple tools at once and make those actions audible with phrases like “checking your calendar” or “looking that up now,” helping agents stay responsive while completing tasks.
+
   * **Stronger recovery behavior:** The model can recover more gracefully by saying things like “I’m having trouble with that right now,” instead of failing silently or breaking the conversation.
+
   * **Longer context for agentic workflows:** We’re increasing the context window from 32K to 128K to support longer, more coherent sessions and more complex task flows.
+
   * **Stronger domain understanding:** The model better retains specialized terminology, proper nouns, healthcare terms, and other vocabulary that matters in production settings.
+
   * **More controllable tone and delivery:** The model can better adjust its tone—speaking calmly while resolving an issue, empathetically when a user is frustrated, or upbeat when confirming a successful action.
+
   * **Adjustable reasoning effort:** Developers can now select from **minimal, low, medium, high, and xhigh** reasoning levels, with **low as the default** , balancing lower latency for straightforward interactions with more deliberate reasoning for complex requests.
+
 
 
 
 The gains show up on audio evals that map closely to production voice agents: GPT‑Realtime‑2 (high) scores 15.2% higher on Big Bench Audio for audio intelligence than GPT‑Realtime‑1.5. GPT‑Realtime‑2 (xhigh) scores 13.8% higher on Audio MultiChallenge for instruction following, improving over GPT‑Realtime‑1.5 and showing stronger reasoning, context management, and control in live conversations.
 
-[Big Bench Audio⁠](< https://artificialanalysis.ai/methodology/speech-to-speech-benchmarking>) evaluates challenging reasoning capabilities in language models that support audio input. [Audio MultiChallenge⁠(opens in a new window)](<https://labs.scale.com/leaderboard/audiomc-audio>) evaluates multi-turn conversational intelligence in spoken dialogue systems, including instruction following, context integration, self-consistency, and handling natural speech corrections.
+[Big Bench Audio⁠(opens in a new window)](< https://artificialanalysis.ai/methodology/speech-to-speech-benchmarking>) evaluates challenging reasoning capabilities in language models that support audio input. [Audio MultiChallenge⁠(opens in a new window)](<https://labs.scale.com/leaderboard/audiomc-audio>) evaluates multi-turn conversational intelligence in spoken dialogue systems, including instruction following, context integration, self-consistency, and handling natural speech corrections.
 
 The magic of GPT‑Realtime‑2 shows up across a variety of different use cases:
 
@@ -166,7 +179,7 @@ GPT‑Realtime‑2, GPT‑Realtime‑Translate and GPT‑Realtime‑Whisper are 
 
 You can test the new realtime voice models in the [Playground⁠(opens in a new window)](<https://platform.openai.com/audio/realtime>). 
 
-To start building, [open this prompt in Codex⁠](<codex://new?prompt=Build+or+add+a+minimal+Realtime+2+WebRTC+voice+agent+using+the+gpt-realtime-2+model.%0A%0AUse+the+latest+OpenAI+Realtime+API+docs+for+the+WebRTC+and+session+setup+patterns.+If+this+folder+already+contains+an+app%2C+add+it+to+the+existing+app.+Otherwise%2C+create+a+small+local+web+app.+Add+a+server-side+session+endpoint+that+uses+OPENAI_API_KEY+and+posts+browser+SDP+to+%2Fv1%2Frealtime%2Fcalls+following+the+docs+exactly%3A+multipart+FormData+fields+named+sdp+and+session%2C+not+file+uploads.+Connect+browser+microphone+input+and+model+audio+output+with+RTCPeerConnection%2C+open+an+oai-events+data+channel%2C+and+register+one+sample+function+tool+with+session.update%3A+check_calendar%28date%2C+time%29%2C+which+returns+whether+the+requested+time+is+available.%0A%0AKeep+it+small+and+include+setup%2Frun+instructions.>) to add GPT‑Realtime‑2 to an existing app or start a new one. If you don’t have Codex yet, download the [Codex app⁠](<https://openai.com/codex/>) first.
+To start building, [open this prompt in Codex⁠(opens in a new window)](<codex://new?prompt=Build+or+add+a+minimal+Realtime+2+WebRTC+voice+agent+using+the+gpt-realtime-2+model.%0A%0AUse+the+latest+OpenAI+Realtime+API+docs+for+the+WebRTC+and+session+setup+patterns.+If+this+folder+already+contains+an+app%2C+add+it+to+the+existing+app.+Otherwise%2C+create+a+small+local+web+app.+Add+a+server-side+session+endpoint+that+uses+OPENAI_API_KEY+and+posts+browser+SDP+to+%2Fv1%2Frealtime%2Fcalls+following+the+docs+exactly%3A+multipart+FormData+fields+named+sdp+and+session%2C+not+file+uploads.+Connect+browser+microphone+input+and+model+audio+output+with+RTCPeerConnection%2C+open+an+oai-events+data+channel%2C+and+register+one+sample+function+tool+with+session.update%3A+check_calendar%28date%2C+time%29%2C+which+returns+whether+the+requested+time+is+available.%0A%0AKeep+it+small+and+include+setup%2Frun+instructions.>) to add GPT‑Realtime‑2 to an existing app or start a new one. If you don’t have Codex yet, download the [Codex app⁠](<https://openai.com/codex/>) first.
 
   * [2026](</news/?tags=2026>)
   * [API Platform](</news/?tags=api-platform>)
@@ -181,17 +194,17 @@ OpenAI
 
 [View all](</news/>)
 
+![Reimagining advertising with AI — Card cover](https://images.ctfassets.net/kftzwdyauwt9/fHwkKLVG8WFHvuUPqMXtz/1c49ba0859fe1e1e21f5d64f692490f5/reimagining-advertising-with-ai-cover.png?w=3840&q=90&fm=webp)
+
+[Reimagining advertising with AIProductSep 16, 2026](</index/reimagining-advertising-with-ai/>)
+
+![How to connect AI usage to business value — art card](https://images.ctfassets.net/kftzwdyauwt9/36T42HPkipcJAs08yNirmR/f73d9408ef4f0b08b5cce3b839656843/cover-018.png?w=3840&q=90&fm=webp)
+
+[How to connect AI usage to business valueProductSep 16, 2026](</index/how-to-connect-ai-usage-to-business-value/>)
+
 ![Now everyone can put data to work — card image](https://images.ctfassets.net/kftzwdyauwt9/6FhMXOSe8XadGwEUev6QjJ/916a64d20bcc59b8619fea1827fa6bd3/put-data-to-work--cover-v001.png?w=3840&q=90&fm=webp)
 
 [Now everyone can put data to workProductSep 10, 2026](</index/put-data-to-work/>)
-
-![FinServ Blog - Art Card Texture Square](https://images.ctfassets.net/kftzwdyauwt9/6Bcg403pebiJhQdHUS17FK/572e478dc4579deca27c9700c662e908/finserv-art-card.png?w=3840&q=90&fm=webp)
-
-[Introducing ChatGPT for Financial ServicesProductSep 10, 2026](</index/introducing-chatgpt-financial-services/>)
-
-![GPT-Live-1 API | Green-blue cover | Option 038](https://images.ctfassets.net/kftzwdyauwt9/1uBabEULLfw3Vb2Gldmyyq/c19c1c121ca403ee8b2703cba18ef82d/introducing-gpt-live-1-green-cover.png?w=3840&q=90&fm=webp)
-
-[Build more natural voice experiences with GPT‑Live‑1 in the APIProductSep 10, 2026](</index/introducing-gpt-live-1-in-the-api/>)
 
 Research
 

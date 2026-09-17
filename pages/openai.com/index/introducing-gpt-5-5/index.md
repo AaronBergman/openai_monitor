@@ -239,8 +239,11 @@ GPT‑5.5 is an incremental but important step towards AI that can solve some of
 We’ve identified cybersecurity as a category in our [Preparedness Framework⁠(opens in a new window)](<https://cdn.openai.com/pdf/18a02b5d-6b67-4cec-ab64-68cdfbddebcd/preparedness-framework-v2.pdf>) for years as our models have incrementally improved, while we develop and calibrate mitigations iteratively, to be able to responsibly release models with meaningful cybersecurity capabilities.
 
   * **We are deploying industry-leading safeguards for this level of cyber capability.** We first introduced cyber-specific safeguards with [GPT‑5.2⁠(opens in a new window)](<https://deploymentsafety.openai.com/gpt-5-2/deception>) last year, which we have continued to test, refine, and build on in subsequent deployments. For GPT‑5.5, we designed tighter controls around higher-risk activity, sensitive cyber requests, and added protections for repeated misuse. Broad access is made possible through our investments in model safety, authenticated usage, and monitoring for impermissible use. We have been working with external experts for months to develop, test and iterate on the robustness of these safeguards. With GPT‑5.5, we are ensuring developers can secure their code with ease, while putting stronger controls around the cyber workflows most likely to cause harm by malicious actors.
+
   * **We are expanding access to accelerate cyber defense at every level.** We are making our cyber-permissive models available through [Trusted Access for Cyber⁠](<https://openai.com/index/scaling-trusted-access-for-cyber-defense/>), starting with Codex, which includes expanded access to the advanced cybersecurity capabilities of GPT‑5.5 with fewer restrictions for verified users meeting certain [trust signals⁠(opens in a new window)](<https://developers.openai.com/codex/concepts/cyber-safety>) at launch. Organizations who are responsible for [defending critical infrastructure⁠](<https://openai.com/index/accelerating-cyber-defense-ecosystem/>) can apply to access cyber-permissive models like GPT‑5.4‑Cyber, while meeting strict security requirements to use these models for securing their internal systems. This gives a wide range of verified defenders more capable tools for legitimate security work with less unnecessary friction to ensure we democratize access to important defensive capabilities. Users can apply for trusted access at [chatgpt.com/cyber⁠(opens in a new window)](<http://chatgpt.com/cyber>) to reduce unnecessary refusals while using GPT‑5.5 for verified defensive work.
+
   * **We are working with government partners to help protect critical infrastructure for the public.** Together, we are exploring how advanced AI can support the defensive work of trusted officials responsible for systems people rely on, from the digital systems that secure important taxpayer data to the power grid and water supplies in local communities.
+
 
 
 
@@ -363,17 +366,17 @@ OpenAI
 
 [View all](</news/>)
 
+![Reimagining advertising with AI — Card cover](https://images.ctfassets.net/kftzwdyauwt9/fHwkKLVG8WFHvuUPqMXtz/1c49ba0859fe1e1e21f5d64f692490f5/reimagining-advertising-with-ai-cover.png?w=3840&q=90&fm=webp)
+
+[Reimagining advertising with AIProductSep 16, 2026](</index/reimagining-advertising-with-ai/>)
+
+![How to connect AI usage to business value — art card](https://images.ctfassets.net/kftzwdyauwt9/36T42HPkipcJAs08yNirmR/f73d9408ef4f0b08b5cce3b839656843/cover-018.png?w=3840&q=90&fm=webp)
+
+[How to connect AI usage to business valueProductSep 16, 2026](</index/how-to-connect-ai-usage-to-business-value/>)
+
 ![Now everyone can put data to work — card image](https://images.ctfassets.net/kftzwdyauwt9/6FhMXOSe8XadGwEUev6QjJ/916a64d20bcc59b8619fea1827fa6bd3/put-data-to-work--cover-v001.png?w=3840&q=90&fm=webp)
 
 [Now everyone can put data to workProductSep 10, 2026](</index/put-data-to-work/>)
-
-![FinServ Blog - Art Card Texture Square](https://images.ctfassets.net/kftzwdyauwt9/6Bcg403pebiJhQdHUS17FK/572e478dc4579deca27c9700c662e908/finserv-art-card.png?w=3840&q=90&fm=webp)
-
-[Introducing ChatGPT for Financial ServicesProductSep 10, 2026](</index/introducing-chatgpt-financial-services/>)
-
-![GPT-Live-1 API | Green-blue cover | Option 038](https://images.ctfassets.net/kftzwdyauwt9/1uBabEULLfw3Vb2Gldmyyq/c19c1c121ca403ee8b2703cba18ef82d/introducing-gpt-live-1-green-cover.png?w=3840&q=90&fm=webp)
-
-[Build more natural voice experiences with GPT‑Live‑1 in the APIProductSep 10, 2026](</index/introducing-gpt-live-1-in-the-api/>)
 
 Research
 
