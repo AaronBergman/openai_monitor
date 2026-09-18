@@ -57,25 +57,25 @@ View email and SMS campaign and flow performance from Klaviyo in ChatGPT, with m
 
 View email and SMS campaign and flow metrics such as sends, open rate, click rate, conversion rate, and attributed revenue using Klaviyo reporting data.
 
-Klaviyo Give me a campaign performance report for last week [add dates] across all of my campaigns; overall metrics and per campaign.
+![](https://files.openai.com/content?id=file_000000001c74722fbf559d66b947677a&cdn=1&cp=pi&ma=30758400&ts=0&p=pi&cid=1&sig=c3949f45a99526b86e23253607118e8e4a255ccfa0d5b10d2a7e57c92d57e295&v=0)![](https://files.openai.com/content?id=file_0000000058f881f79ad4d119015bfa7c&cdn=1&cp=pi&ma=32659200&ts=0&p=pi&cid=8&sig=7ad389ade1c1fb108f1aa27b3c107e33432079c726d59206f69159c7d103502d&v=0)Klaviyo Give me a campaign performance report for last week [add dates] across all of my campaigns; overall metrics and per campaign.
 
-[(opens in a new window)](<https://chatgpt.com/?q=Klaviyo+Give+me+a+campaign+performance+report+for+last+week+%5Badd+dates%5D+across+all+of+my+campaigns%3B+overall+metrics+and+per+campaign.>)
+[(opens in a new window)](<https://chatgpt.com/?q=%40Klaviyo+Give+me+a+campaign+performance+report+for+last+week+%5Badd+dates%5D+across+all+of+my+campaigns%3B+overall+metrics+and+per+campaign.>)
 
   * ### Compare performance over time
 
 Review campaign and flow performance with comparisons to past results to understand changes in engagement and outcomes.
 
-Klaviyo Compare email and SMS campaigns for the last 30 days with the previous 30 days. Separate results by channel and show available engagement metrics, conversion rates, and attributed revenue.
+![](https://files.openai.com/content?id=file_000000001c74722fbf559d66b947677a&cdn=1&cp=pi&ma=30758400&ts=0&p=pi&cid=1&sig=c3949f45a99526b86e23253607118e8e4a255ccfa0d5b10d2a7e57c92d57e295&v=0)![](https://files.openai.com/content?id=file_0000000058f881f79ad4d119015bfa7c&cdn=1&cp=pi&ma=32659200&ts=0&p=pi&cid=8&sig=7ad389ade1c1fb108f1aa27b3c107e33432079c726d59206f69159c7d103502d&v=0)Klaviyo Compare email and SMS campaigns for the last 30 days with the previous 30 days. Separate results by channel and show available engagement metrics, conversion rates, and attributed revenue.
 
-[(opens in a new window)](<https://chatgpt.com/?q=Klaviyo+Compare+email+and+SMS+campaigns+for+the+last+30+days+with+the+previous+30+days.+Separate+results+by+channel+and+show+available+engagement+metrics%2C+conversion+rates%2C+and+attributed+revenue.>)
+[(opens in a new window)](<https://chatgpt.com/?q=%40Klaviyo+Compare+email+and+SMS+campaigns+for+the+last+30+days+with+the+previous+30+days.+Separate+results+by+channel+and+show+available+engagement+metrics%2C+conversion+rates%2C+and+attributed+revenue.>)
 
   * ### Summarize marketing results
 
 Receive plain-language summaries and detailed readouts of campaign or flow performance to stay informed without manual reporting.
 
-Klaviyo Summarize email and SMS performance for the last 30 days and call out the biggest wins and misses.
+![](https://files.openai.com/content?id=file_000000001c74722fbf559d66b947677a&cdn=1&cp=pi&ma=30758400&ts=0&p=pi&cid=1&sig=c3949f45a99526b86e23253607118e8e4a255ccfa0d5b10d2a7e57c92d57e295&v=0)![](https://files.openai.com/content?id=file_0000000058f881f79ad4d119015bfa7c&cdn=1&cp=pi&ma=32659200&ts=0&p=pi&cid=8&sig=7ad389ade1c1fb108f1aa27b3c107e33432079c726d59206f69159c7d103502d&v=0)Klaviyo Summarize email and SMS performance for the last 30 days and call out the biggest wins and misses.
 
-[(opens in a new window)](<https://chatgpt.com/?q=Klaviyo+Summarize+email+and+SMS+performance+for+the+last+30+days+and+call+out+the+biggest+wins+and+misses.>)
+[(opens in a new window)](<https://chatgpt.com/?q=%40Klaviyo+Summarize+email+and+SMS+performance+for+the+last+30+days+and+call+out+the+biggest+wins+and+misses.>)
 
 
 
@@ -95,6 +95,16 @@ Klaviyo Summarize email and SMS performance for the last 30 days and call out th
 ### [Plugin supportLearn more](<https://www.klaviyo.com/support>)
 
 ### [Privacy policyLearn more](<https://privacy.klaviyo.com/policies/en/>)
+
+## Add plugins in a few clicks
+
+Availability depends on the plugin, your plan, and workspace settings. Some connections require admin setup or approval. Contact your workspace admin if access is blocked.
+
+[View the setup guide](<https://learn.chatgpt.com/docs/plugins>)
+
+## Explore related plugins
+
+[![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)DataTurn data into clear decisions.](</business/plugins/data/>)[![](https://files.openai.com/content?id=file_00000000bdb4720caff269fd259bbdff&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=20268aaf4f0c92265b5b4945d13a456968c0e1a5013b3be043a94650a9b37e03&v=0)![](https://files.openai.com/content?id=file_00000000bdb4720caff269fd259bbdff&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=20268aaf4f0c92265b5b4945d13a456968c0e1a5013b3be043a94650a9b37e03&v=0)Creative ProductionUse the Creative Production plugin in ChatGPT to create, adapt, and review marketing assets, campaign concepts, ads, and launch creative.](</business/plugins/creative-production/>)[![](https://files.openai.com/content?id=file_00000000191081f79dfeddb7b502b1bf&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=3e3f6f7a793416cd9a93e61c94c2bd4631dd37631f592d4e774aa254e2b1c9b7&v=0)![](https://files.openai.com/content?id=file_00000000191081f79dfeddb7b502b1bf&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=3e3f6f7a793416cd9a93e61c94c2bd4631dd37631f592d4e774aa254e2b1c9b7&v=0)SalesPrepare account work and customer follow-up.](</business/plugins/sales/>)[![](https://files.openai.com/content?id=file_00000000c8c881f6b1898c574dac4e10&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=8&sig=5893839a27316a5af69bb3d001943b0ec293a3c64279d9ec08803564a1d9b16b&v=0)![](https://files.openai.com/content?id=file_000000006ab081f793cba420e30fd6aa&cdn=1&cp=pi&ma=30672000&ts=0&p=pi&cid=8&sig=abab6e040ce7a4e418276d0f37dcc1cfe7194cf719a08826f8b043598e18c0f9&v=0)ShopifyCreate and manage your store](</business/plugins/shopify/>)[![](https://files.openai.com/content?id=file_000000000ee871fd807d17a056d79aa7&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=1&sig=07ea3990463c5d5c58deba9d55d8dfa10178b2a1cabb20fb0fdcf93fc218472b&v=0)![](https://files.openai.com/content?id=file_000000000ee871fd807d17a056d79aa7&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=1&sig=07ea3990463c5d5c58deba9d55d8dfa10178b2a1cabb20fb0fdcf93fc218472b&v=0)CanvaSearch, create, and edit designs.](</business/plugins/canva/>)[![](https://files.openai.com/content?id=file_000000004e58720cb8bbfc0978e3367e&cdn=1&cp=pi&ma=30758400&ts=0&p=pi&cid=1&sig=1b0376e78ef2e4f6f05a5b9bc138133fa5d468103e983c1f706341fe5f2293a7&v=0)![](https://files.openai.com/content?id=file_00000000c73081f7bf9eb20dcfc0bf64&cdn=1&cp=pi&ma=31363200&ts=0&p=pi&cid=8&sig=d62b12c0280b3d8053803e8a8fdf394b4f0e4e6c9bec46234bcbe8d3c1908747&v=0)Coupler.ioConnect and analyze data from 400+ apps.](</business/plugins/coupler-io/>)
 
 ## Get started with plugins
 
@@ -207,3 +217,21 @@ Terms & Policies
 OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
+
+### 1Find a plugin1Find a plugin
+
+Browse for plugins that support your team’s tools and tasks.
+
+![ChatGPT plugin directory showing Google Drive, Slack, and Google Calendar.](https://images.ctfassets.net/kftzwdyauwt9/6yJgeQSCr32uzNSynka2cc/f5da877c4684cb18ecb9babf62723e2b/1.png?w=3840&q=90&fm=webp)
+
+### 2Install and connect2Install and connect
+
+Install the plugin, then follow the prompts to review permissions and connect any required apps.
+
+![Select the add button to install the Gmail plugin.](https://images.ctfassets.net/kftzwdyauwt9/7gNt7Pk3s8Mf0ql8JAedDS/c533bb5268aef1bed2ef56d5f5ccb06f/2.png?w=3840&q=90&fm=webp)
+
+### 3Put it to work3Put it to work
+
+Start a new chat in ChatGPT Work or Codex, describe the result you need, and ask it to use plugins.
+
+![Ask ChatGPT to prepare a meeting brief using Google Calendar, Gmail, and Slack.](https://images.ctfassets.net/kftzwdyauwt9/tQaC60CeLrMeEalZJnAwl/b4419ccddbaed0103124a22854097e81/3.png?w=3840&q=90&fm=webp)

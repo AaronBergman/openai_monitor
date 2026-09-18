@@ -60,25 +60,25 @@ Work with Google Drive documents—including Docs, Slides, PDFs, and uploaded fi
 
 Generate first drafts of executive updates, reports, or playbooks from selected Drive files so teams start from accurate material and reduce rewriting and review time.
 
-Google Drive Search my Drive for the latest Q4 board deck and write a 10-bullet executive recap with the 3 biggest risks and 3 next actions.
+![](https://files.openai.com/content?id=file_00000000d44881f79ef4a45a9ca31665&cdn=1&cp=pi&ma=32140800&ts=0&p=pi&cid=8&sig=6da12bcc88c49877a8da66336a373910832a7afa15d9c4fbb0099bc5d7324ae6&v=0)Google Drive Search my Drive for the latest Q4 board deck and write a 10-bullet executive recap with the 3 biggest risks and 3 next actions.
 
-[(opens in a new window)](<https://chatgpt.com/?q=Google+Drive+Search+my+Drive+for+the+latest+Q4+board+deck+and+write+a+10-bullet+executive+recap+with+the+3+biggest+risks+and+3+next+actions.>)
+[(opens in a new window)](<https://chatgpt.com/?q=%40Google+Drive+Search+my+Drive+for+the+latest+Q4+board+deck+and+write+a+10-bullet+executive+recap+with+the+3+biggest+risks+and+3+next+actions.>)
 
   * ### Simplify research synthesis across many documents
 
 Ask questions across multiple Docs, Slides, and PDFs and get concise syntheses, risk highlights, and version comparisons so stakeholders can align faster with fewer meetings.
 
-Google Drive From [folder], pull key deliverables, timeline, and open questions, then draft a client-ready status update.
+![](https://files.openai.com/content?id=file_00000000d44881f79ef4a45a9ca31665&cdn=1&cp=pi&ma=32140800&ts=0&p=pi&cid=8&sig=6da12bcc88c49877a8da66336a373910832a7afa15d9c4fbb0099bc5d7324ae6&v=0)Google Drive From [folder], pull key deliverables, timeline, and open questions, then draft a client-ready status update.
 
-[(opens in a new window)](<https://chatgpt.com/?q=Google+Drive+From+%5Bfolder%5D%2C+pull+key+deliverables%2C+timeline%2C+and+open+questions%2C+then+draft+a+client-ready+status+update.>)
+[(opens in a new window)](<https://chatgpt.com/?q=%40Google+Drive+From+%5Bfolder%5D%2C+pull+key+deliverables%2C+timeline%2C+and+open+questions%2C+then+draft+a+client-ready+status+update.>)
 
   * ### Apply consistent standards to documents and presentations
 
 Use brand, policy, and guideline documents as a source of truth so generated decks, briefs, and onboarding materials stay aligned with current standards.
 
-Google Drive Use our brand guidelines doc and rewrite this product one-pager to match the approved voice and formatting while keeping facts intact.
+![](https://files.openai.com/content?id=file_00000000d44881f79ef4a45a9ca31665&cdn=1&cp=pi&ma=32140800&ts=0&p=pi&cid=8&sig=6da12bcc88c49877a8da66336a373910832a7afa15d9c4fbb0099bc5d7324ae6&v=0)Google Drive Use our brand guidelines doc and rewrite this product one-pager to match the approved voice and formatting while keeping facts intact.
 
-[(opens in a new window)](<https://chatgpt.com/?q=Google+Drive+Use+our+brand+guidelines+doc+and+rewrite+this+product+one-pager+to+match+the+approved+voice+and+formatting+while+keeping+facts+intact.>)
+[(opens in a new window)](<https://chatgpt.com/?q=%40Google+Drive+Use+our+brand+guidelines+doc+and+rewrite+this+product+one-pager+to+match+the+approved+voice+and+formatting+while+keeping+facts+intact.>)
 
 
 
@@ -108,6 +108,16 @@ Google Drive Use our brand guidelines doc and rewrite this product one-pager to 
 ### [Plugin supportLearn more](<https://support.google.com/drive/>)
 
 ### [Privacy policyLearn more](<https://policies.google.com/privacy>)
+
+## Add plugins in a few clicks
+
+Availability depends on the plugin, your plan, and workspace settings. Some connections require admin setup or approval. Contact your workspace admin if access is blocked.
+
+[View the setup guide](<https://learn.chatgpt.com/docs/plugins>)
+
+## Explore related plugins
+
+[![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)DataTurn data into clear decisions.](</business/plugins/data/>)[![](https://files.openai.com/content?id=file_00000000191081f79dfeddb7b502b1bf&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=3e3f6f7a793416cd9a93e61c94c2bd4631dd37631f592d4e774aa254e2b1c9b7&v=0)![](https://files.openai.com/content?id=file_00000000191081f79dfeddb7b502b1bf&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=3e3f6f7a793416cd9a93e61c94c2bd4631dd37631f592d4e774aa254e2b1c9b7&v=0)SalesPrepare account work and customer follow-up.](</business/plugins/sales/>)[![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)Product DesignTurn product ideas into designs and research artifacts.](</business/plugins/product-design/>)[![](https://files.openai.com/content?id=file_00000000990481fd9c316ee59df47fc5&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=8&sig=bd8ee8654d100eefe078aa49822119c307f7c6f39021603fafb3d083c1cb5cac&v=0)![](https://files.openai.com/content?id=file_00000000990481fd9c316ee59df47fc5&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=8&sig=bd8ee8654d100eefe078aa49822119c307f7c6f39021603fafb3d083c1cb5cac&v=0)GmailFind and reference emails from your inbox.](</business/plugins/gmail/>)[![](https://files.openai.com/content?id=file_000000004f54720ca95439ac98f37bec&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=1&sig=e5d7098d5c3c07aa0e3d229476b0a0547fedb672feb751b0d0aa455dd84a6c33&v=0)![](https://files.openai.com/content?id=file_000000004f54720ca95439ac98f37bec&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=1&sig=e5d7098d5c3c07aa0e3d229476b0a0547fedb672feb751b0d0aa455dd84a6c33&v=0)Google CalendarLook up events and availability.](</business/plugins/google-calendar/>)[![](https://files.openai.com/content?id=file_00000000dca471f5a61c7e4a3fab77a4&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=1&sig=63bacca4cbadf25340543a539567d26664d1f530be2b3f6119d3aaeb4edbed56&v=0)![](https://files.openai.com/content?id=file_00000000aaf8722f9e07cbdd00ea7ad8&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=1&sig=450cfa6b24e75515f4907572297126983f2d33e3f6f73cab443b4b5596a0deef&v=0)NotionSearch and reference your Notion pages.](</business/plugins/notion/>)
 
 ## Get started with plugins
 
@@ -220,3 +230,21 @@ Terms & Policies
 OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
+
+### 1Find a plugin1Find a plugin
+
+Browse for plugins that support your team’s tools and tasks.
+
+![ChatGPT plugin directory showing Google Drive, Slack, and Google Calendar.](https://images.ctfassets.net/kftzwdyauwt9/6yJgeQSCr32uzNSynka2cc/f5da877c4684cb18ecb9babf62723e2b/1.png?w=3840&q=90&fm=webp)
+
+### 2Install and connect2Install and connect
+
+Install the plugin, then follow the prompts to review permissions and connect any required apps.
+
+![Select the add button to install the Gmail plugin.](https://images.ctfassets.net/kftzwdyauwt9/7gNt7Pk3s8Mf0ql8JAedDS/c533bb5268aef1bed2ef56d5f5ccb06f/2.png?w=3840&q=90&fm=webp)
+
+### 3Put it to work3Put it to work
+
+Start a new chat in ChatGPT Work or Codex, describe the result you need, and ask it to use plugins.
+
+![Ask ChatGPT to prepare a meeting brief using Google Calendar, Gmail, and Slack.](https://images.ctfassets.net/kftzwdyauwt9/tQaC60CeLrMeEalZJnAwl/b4419ccddbaed0103124a22854097e81/3.png?w=3840&q=90&fm=webp)

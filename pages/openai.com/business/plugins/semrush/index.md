@@ -55,25 +55,25 @@ Access SEO, traffic, and competitive insights from Semrush in ChatGPT using simp
 
 View site metrics, keyword data, and ranking information to understand search visibility and demand.
 
-Semrush Find keyword opportunities for a fintech blog focused on small business lending and prioritize by difficulty and intent.
+![](https://files.openai.com/content?id=file_00000000a1a471fd81edff86e77ecd3b&cdn=1&cp=pi&ma=30326400&ts=0&p=pi&cid=1&sig=938d4b73498b8010276a2a2db3bd97736fb43368f7d6e6b918d92ed91ccbca4f&v=0)![](https://files.openai.com/content?id=file_00000000352871fd8a026326a6078808&cdn=1&cp=pi&ma=30585600&ts=0&p=pi&cid=1&sig=f2df03095c7e6c6c7c919a69e0395034bd5b155ed48e78a3780a4c33c6c23a4c&v=0)Semrush Find keyword opportunities for a fintech blog focused on small business lending and prioritize by difficulty and intent.
 
-[(opens in a new window)](<https://chatgpt.com/?q=Semrush+Find+keyword+opportunities+for+a+fintech+blog+focused+on+small+business+lending+and+prioritize+by+difficulty+and+intent.>)
+[(opens in a new window)](<https://chatgpt.com/?q=%40Semrush+Find+keyword+opportunities+for+a+fintech+blog+focused+on+small+business+lending+and+prioritize+by+difficulty+and+intent.>)
 
   * ### Review competitor performance
 
 Analyze competitor domains to review traffic data, visibility, and comparative performance.
 
-Semrush Compare these competitor domains over the last 30 days. Highlight who's gaining or losing, key drivers of performance, biggest gaps vs. us, and 3 recommended actions.
+![](https://files.openai.com/content?id=file_00000000a1a471fd81edff86e77ecd3b&cdn=1&cp=pi&ma=30326400&ts=0&p=pi&cid=1&sig=938d4b73498b8010276a2a2db3bd97736fb43368f7d6e6b918d92ed91ccbca4f&v=0)![](https://files.openai.com/content?id=file_00000000352871fd8a026326a6078808&cdn=1&cp=pi&ma=30585600&ts=0&p=pi&cid=1&sig=f2df03095c7e6c6c7c919a69e0395034bd5b155ed48e78a3780a4c33c6c23a4c&v=0)Semrush Compare these competitor domains over the last 30 days. Highlight who's gaining or losing, key drivers of performance, biggest gaps vs. us, and 3 recommended actions.
 
-[(opens in a new window)](<https://chatgpt.com/?q=Semrush+Compare+these+competitor+domains+over+the+last+30+days.+Highlight+who%27s+gaining+or+losing%2C+key+drivers+of+performance%2C+biggest+gaps+vs.+us%2C+and+3+recommended+actions.>)
+[(opens in a new window)](<https://chatgpt.com/?q=%40Semrush+Compare+these+competitor+domains+over+the+last+30+days.+Highlight+who%27s+gaining+or+losing%2C+key+drivers+of+performance%2C+biggest+gaps+vs.+us%2C+and+3+recommended+actions.>)
 
   * ### Summarize SEO and traffic data
 
 Create quick summaries and reports from Semrush SEO and traffic data without leaving ChatGPT.
 
-Semrush Run a technical SEO audit summary and give me the top fixes that will move organic traffic fastest.
+![](https://files.openai.com/content?id=file_00000000a1a471fd81edff86e77ecd3b&cdn=1&cp=pi&ma=30326400&ts=0&p=pi&cid=1&sig=938d4b73498b8010276a2a2db3bd97736fb43368f7d6e6b918d92ed91ccbca4f&v=0)![](https://files.openai.com/content?id=file_00000000352871fd8a026326a6078808&cdn=1&cp=pi&ma=30585600&ts=0&p=pi&cid=1&sig=f2df03095c7e6c6c7c919a69e0395034bd5b155ed48e78a3780a4c33c6c23a4c&v=0)Semrush Run a technical SEO audit summary and give me the top fixes that will move organic traffic fastest.
 
-[(opens in a new window)](<https://chatgpt.com/?q=Semrush+Run+a+technical+SEO+audit+summary+and+give+me+the+top+fixes+that+will+move+organic+traffic+fastest.>)
+[(opens in a new window)](<https://chatgpt.com/?q=%40Semrush+Run+a+technical+SEO+audit+summary+and+give+me+the+top+fixes+that+will+move+organic+traffic+fastest.>)
 
 
 
@@ -93,6 +93,16 @@ Semrush Run a technical SEO audit summary and give me the top fixes that will mo
 ### [Plugin supportLearn more](<https://www.semrush.com/kb/>)
 
 ### [Privacy policyLearn more](<https://www.semrush.com/legal/privacy-policy/>)
+
+## Add plugins in a few clicks
+
+Availability depends on the plugin, your plan, and workspace settings. Some connections require admin setup or approval. Contact your workspace admin if access is blocked.
+
+[View the setup guide](<https://learn.chatgpt.com/docs/plugins>)
+
+## Explore related plugins
+
+[![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)DataTurn data into clear decisions.](</business/plugins/data/>)[![](https://files.openai.com/content?id=file_00000000bdb4720caff269fd259bbdff&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=20268aaf4f0c92265b5b4945d13a456968c0e1a5013b3be043a94650a9b37e03&v=0)![](https://files.openai.com/content?id=file_00000000bdb4720caff269fd259bbdff&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=20268aaf4f0c92265b5b4945d13a456968c0e1a5013b3be043a94650a9b37e03&v=0)Creative ProductionUse the Creative Production plugin in ChatGPT to create, adapt, and review marketing assets, campaign concepts, ads, and launch creative.](</business/plugins/creative-production/>)[![](https://files.openai.com/content?id=file_00000000faa071f68918f7da866d93a4&cdn=1&cp=pi&ma=30326400&ts=0&p=pi&cid=8&sig=4f07077e38872beff8ca7d05cc0692679dc04014200779e4cbce84f6604320cd&v=0)![](https://files.openai.com/content?id=file_00000000faa071f68918f7da866d93a4&cdn=1&cp=pi&ma=30326400&ts=0&p=pi&cid=8&sig=4f07077e38872beff8ca7d05cc0692679dc04014200779e4cbce84f6604320cd&v=0)SimilarwebWeb, app, search & market data](</business/plugins/similarweb/>)[![](https://files.openai.com/content?id=file_00000000e95471f6bca857c08854b722&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=7&sig=99d2aa1c649e05d312a91a8d58429dbd2e1ca5cbcbf4c6ecea7be67c7337eec3&v=0)![](https://files.openai.com/content?id=file_00000000e95471f6bca857c08854b722&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=7&sig=99d2aa1c649e05d312a91a8d58429dbd2e1ca5cbcbf4c6ecea7be67c7337eec3&v=0)ConductorTrack brand sentiment in AI.](</business/plugins/conductor/>)[![](https://files.openai.com/content?id=file_00000000c52471f596902ad67edbbd95&cdn=1&cp=pi&ma=32227200&ts=0&p=pi&cid=1&sig=6a8f9ca3177a7d64b691a54e130a3d8b383f79e5821e9dd1c820aa10215c9370&v=0)![](https://files.openai.com/content?id=file_00000000fca081f789836eda5a49d065&cdn=1&cp=pi&ma=30672000&ts=0&p=pi&cid=8&sig=f1d018e8ba09a4f99aca9f43f459ad1a80e1635ae7a031e25267d13dccaaa9df&v=0)Intuit MailchimpCreate marketing campaigns.](</business/plugins/mailchimp/>)[![](https://files.openai.com/content?id=file_000000000ee871fd807d17a056d79aa7&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=1&sig=07ea3990463c5d5c58deba9d55d8dfa10178b2a1cabb20fb0fdcf93fc218472b&v=0)![](https://files.openai.com/content?id=file_000000000ee871fd807d17a056d79aa7&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=1&sig=07ea3990463c5d5c58deba9d55d8dfa10178b2a1cabb20fb0fdcf93fc218472b&v=0)CanvaSearch, create, and edit designs.](</business/plugins/canva/>)
 
 ## Get started with plugins
 
@@ -205,3 +215,21 @@ Terms & Policies
 OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
+
+### 1Find a plugin1Find a plugin
+
+Browse for plugins that support your team’s tools and tasks.
+
+![ChatGPT plugin directory showing Google Drive, Slack, and Google Calendar.](https://images.ctfassets.net/kftzwdyauwt9/6yJgeQSCr32uzNSynka2cc/f5da877c4684cb18ecb9babf62723e2b/1.png?w=3840&q=90&fm=webp)
+
+### 2Install and connect2Install and connect
+
+Install the plugin, then follow the prompts to review permissions and connect any required apps.
+
+![Select the add button to install the Gmail plugin.](https://images.ctfassets.net/kftzwdyauwt9/7gNt7Pk3s8Mf0ql8JAedDS/c533bb5268aef1bed2ef56d5f5ccb06f/2.png?w=3840&q=90&fm=webp)
+
+### 3Put it to work3Put it to work
+
+Start a new chat in ChatGPT Work or Codex, describe the result you need, and ask it to use plugins.
+
+![Ask ChatGPT to prepare a meeting brief using Google Calendar, Gmail, and Slack.](https://images.ctfassets.net/kftzwdyauwt9/tQaC60CeLrMeEalZJnAwl/b4419ccddbaed0103124a22854097e81/3.png?w=3840&q=90&fm=webp)

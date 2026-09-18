@@ -60,25 +60,25 @@ Review your Outlook conversations to prepare replies, recap recent exchanges, ga
 
 Summarize long threads to capture decisions, risks, and open questions, helping teams enter customer or internal meetings aligned and ready with the right talking points.
 
-Outlook Email Summarize the most recent thread with procurement and pull the exact questions they asked so I can answer cleanly.
+![](https://files.openai.com/content?id=file_0000000058ac81fbae22415c3105649e&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=8&sig=48cccf127f52db216b8d03d8f1602161a5b9d8145f27f8fbd36d14b6db41c76b&v=0)Outlook Email Summarize the most recent thread with procurement and pull the exact questions they asked so I can answer cleanly.
 
-[(opens in a new window)](<https://chatgpt.com/?q=Outlook+Email+Summarize+the+most+recent+thread+with+procurement+and+pull+the+exact+questions+they+asked+so+I+can+answer+cleanly.>)
+[(opens in a new window)](<https://chatgpt.com/?q=%40Outlook+Email+Summarize+the+most+recent+thread+with+procurement+and+pull+the+exact+questions+they+asked+so+I+can+answer+cleanly.>)
 
   * ### Stay ahead of follow-ups and commitments
 
 Turn recent messages into clear action lists with owners and deadlines, reducing missed handoffs and keeping cross-functional work moving.
 
-Outlook Email Draft a reply to the latest customer message that acknowledges the concern, sets expectations, and proposes two next-step options.
+![](https://files.openai.com/content?id=file_0000000058ac81fbae22415c3105649e&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=8&sig=48cccf127f52db216b8d03d8f1602161a5b9d8145f27f8fbd36d14b6db41c76b&v=0)Outlook Email Draft a reply to the latest customer message that acknowledges the concern, sets expectations, and proposes two next-step options.
 
-[(opens in a new window)](<https://chatgpt.com/?q=Outlook+Email+Draft+a+reply+to+the+latest+customer+message+that+acknowledges+the+concern%2C+sets+expectations%2C+and+proposes+two+next-step+options.>)
+[(opens in a new window)](<https://chatgpt.com/?q=%40Outlook+Email+Draft+a+reply+to+the+latest+customer+message+that+acknowledges+the+concern%2C+sets+expectations%2C+and+proposes+two+next-step+options.>)
 
   * ### Prioritize high-impact conversations
 
 Highlight urgent messages, stakeholder outreach, and account risks so teams focus attention where it has the greatest business impact.
 
-Outlook Email Find the top 5 emails I should respond to today based on urgency, seniority, and deadlines; include one-line suggested replies.
+![](https://files.openai.com/content?id=file_0000000058ac81fbae22415c3105649e&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=8&sig=48cccf127f52db216b8d03d8f1602161a5b9d8145f27f8fbd36d14b6db41c76b&v=0)Outlook Email Find the top 5 emails I should respond to today based on urgency, seniority, and deadlines; include one-line suggested replies.
 
-[(opens in a new window)](<https://chatgpt.com/?q=Outlook+Email+Find+the+top+5+emails+I+should+respond+to+today+based+on+urgency%2C+seniority%2C+and+deadlines%3B+include+one-line+suggested+replies.>)
+[(opens in a new window)](<https://chatgpt.com/?q=%40Outlook+Email+Find+the+top+5+emails+I+should+respond+to+today+based+on+urgency%2C+seniority%2C+and+deadlines%3B+include+one-line+suggested+replies.>)
 
 
 
@@ -98,6 +98,16 @@ Outlook Email Find the top 5 emails I should respond to today based on urgency, 
 ### [Plugin supportLearn more](<https://support.microsoft.com/outlook>)
 
 ### [Privacy policyLearn more](<https://privacy.microsoft.com>)
+
+## Add plugins in a few clicks
+
+Availability depends on the plugin, your plan, and workspace settings. Some connections require admin setup or approval. Contact your workspace admin if access is blocked.
+
+[View the setup guide](<https://learn.chatgpt.com/docs/plugins>)
+
+## Explore related plugins
+
+[![](https://files.openai.com/content?id=file_00000000191081f79dfeddb7b502b1bf&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=3e3f6f7a793416cd9a93e61c94c2bd4631dd37631f592d4e774aa254e2b1c9b7&v=0)![](https://files.openai.com/content?id=file_00000000191081f79dfeddb7b502b1bf&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=3e3f6f7a793416cd9a93e61c94c2bd4631dd37631f592d4e774aa254e2b1c9b7&v=0)SalesPrepare account work and customer follow-up.](</business/plugins/sales/>)[![](https://files.openai.com/content?id=file_000000002700722fa321dfd1a3710fc6&cdn=1&cp=pi&ma=32486400&ts=0&p=pi&cid=1&sig=1a95085af00317282f9ed2413840f1f88ec348d875db324b791570e026721710&v=0)![](https://files.openai.com/content?id=file_000000002700722fa321dfd1a3710fc6&cdn=1&cp=pi&ma=32486400&ts=0&p=pi&cid=1&sig=1a95085af00317282f9ed2413840f1f88ec348d875db324b791570e026721710&v=0)Outlook CalendarLook up events and availability.](</business/plugins/microsoft-outlook-calendar/>)[![](https://files.openai.com/content?id=file_00000000bec871f5b16bea82279ccf21&cdn=1&cp=pi&ma=31536000&ts=0&p=pi&cid=1&sig=dae48439fa494947db53290285649ef7f8819b8db88432aa57eb884533747051&v=0)![](https://files.openai.com/content?id=file_00000000bec871f5b16bea82279ccf21&cdn=1&cp=pi&ma=31536000&ts=0&p=pi&cid=1&sig=dae48439fa494947db53290285649ef7f8819b8db88432aa57eb884533747051&v=0)SharePointSearch and pull from shared sites and OneDrive.](</business/plugins/microsoft-sharepoint/>)[![](https://files.openai.com/content?id=file_00000000290c81f6b165c1e4941266a3&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=8&sig=aac8f7270051b9307ea721f89136ce46aaf1dffcbdaea6eba9ba95fc9212473d&v=0)![](https://files.openai.com/content?id=file_00000000290c81f6b165c1e4941266a3&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=8&sig=aac8f7270051b9307ea721f89136ce46aaf1dffcbdaea6eba9ba95fc9212473d&v=0)TeamsLook up chats and messages.](</business/plugins/microsoft-teams/>)[![](https://files.openai.com/content?id=file_0000000005fc722f88207b67c3fbe10a&cdn=1&cp=pi&ma=31190400&ts=0&p=pi&cid=1&sig=4fccf640c85543b3c2aa0a0de6592ed9e1d71bbeb3169bb63bf4217a6809857f&v=0)![](https://files.openai.com/content?id=file_0000000005fc722f88207b67c3fbe10a&cdn=1&cp=pi&ma=31190400&ts=0&p=pi&cid=1&sig=4fccf640c85543b3c2aa0a0de6592ed9e1d71bbeb3169bb63bf4217a6809857f&v=0)SalesforceUse the Salesforce plugin to review permitted CRM records, understand accounts and deals, summarize pipeline risk, and prepare follow-up.](</business/plugins/salesforce/>)[![](https://files.openai.com/content?id=file_000000006e70720e8240729562593f87&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=881a44cfa311712291121e9cda4ef4b8d7fef216108a65296a5898c02d91507e&v=0)![](https://files.openai.com/content?id=file_00000000042c720882209039c0de8dbb&cdn=1&cp=pi&ma=31881600&ts=0&p=pi&cid=8&sig=6488ddb504fdc95531899e70229555079be3267f213ba9f836a0a92bc39864a8&v=0)DocusignManage contracts from ChatGPT](</business/plugins/docusign/>)
 
 ## Get started with plugins
 
@@ -210,3 +220,21 @@ Terms & Policies
 OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
+
+### 1Find a plugin1Find a plugin
+
+Browse for plugins that support your team’s tools and tasks.
+
+![ChatGPT plugin directory showing Google Drive, Slack, and Google Calendar.](https://images.ctfassets.net/kftzwdyauwt9/6yJgeQSCr32uzNSynka2cc/f5da877c4684cb18ecb9babf62723e2b/1.png?w=3840&q=90&fm=webp)
+
+### 2Install and connect2Install and connect
+
+Install the plugin, then follow the prompts to review permissions and connect any required apps.
+
+![Select the add button to install the Gmail plugin.](https://images.ctfassets.net/kftzwdyauwt9/7gNt7Pk3s8Mf0ql8JAedDS/c533bb5268aef1bed2ef56d5f5ccb06f/2.png?w=3840&q=90&fm=webp)
+
+### 3Put it to work3Put it to work
+
+Start a new chat in ChatGPT Work or Codex, describe the result you need, and ask it to use plugins.
+
+![Ask ChatGPT to prepare a meeting brief using Google Calendar, Gmail, and Slack.](https://images.ctfassets.net/kftzwdyauwt9/tQaC60CeLrMeEalZJnAwl/b4419ccddbaed0103124a22854097e81/3.png?w=3840&q=90&fm=webp)

@@ -57,25 +57,25 @@ Create multichannel marketing campaign plans in ChatGPT using business inputs, t
 
 Create campaign plans for email, SMS, and social channels based on your goals and inputs.
 
-Intuit Mailchimp Create a multichannel campaign plan for a new product launch including email, SMS, and social with timing and messaging themes.
+![](https://files.openai.com/content?id=file_000000006100822fba053a7663790f13&cdn=1&cp=pi&ma=30412800&ts=0&p=pi&cid=8&sig=972cdfdc85a259f56209337d719704a8fea6db0b3f1feba6c523001c2ecbb6a7&v=0)Intuit Mailchimp Create a multichannel campaign plan for a new product launch including email, SMS, and social with timing and messaging themes.
 
-[(opens in a new window)](<https://chatgpt.com/?q=Intuit+Mailchimp+Create+a+multichannel+campaign+plan+for+a+new+product+launch+including+email%2C+SMS%2C+and+social+with+timing+and+messaging+themes.>)
+[(opens in a new window)](<https://chatgpt.com/?q=%40Intuit+Mailchimp+Create+a+multichannel+campaign+plan+for+a+new+product+launch+including+email%2C+SMS%2C+and+social+with+timing+and+messaging+themes.>)
 
   * ### Draft campaign strategies
 
 Generate suggested audiences, campaign types, and messaging ideas to shape marketing plans.
 
-Intuit Mailchimp Propose audience segments for my ecommerce list and suggest an A/B test plan for subject lines and offers.
+![](https://files.openai.com/content?id=file_000000006100822fba053a7663790f13&cdn=1&cp=pi&ma=30412800&ts=0&p=pi&cid=8&sig=972cdfdc85a259f56209337d719704a8fea6db0b3f1feba6c523001c2ecbb6a7&v=0)Intuit Mailchimp Propose audience segments for my ecommerce list and suggest an A/B test plan for subject lines and offers.
 
-[(opens in a new window)](<https://chatgpt.com/?q=Intuit+Mailchimp+Propose+audience+segments+for+my+ecommerce+list+and+suggest+an+A%2FB+test+plan+for+subject+lines+and+offers.>)
+[(opens in a new window)](<https://chatgpt.com/?q=%40Intuit+Mailchimp+Propose+audience+segments+for+my+ecommerce+list+and+suggest+an+A%2FB+test+plan+for+subject+lines+and+offers.>)
 
   * ### Prepare campaigns for execution
 
 Export campaign plans into Mailchimp as draft campaigns to continue setup and launch.
 
-Intuit Mailchimp Convert this strategy into draft campaigns ready to export and label them clearly so my team can approve fast.
+![](https://files.openai.com/content?id=file_000000006100822fba053a7663790f13&cdn=1&cp=pi&ma=30412800&ts=0&p=pi&cid=8&sig=972cdfdc85a259f56209337d719704a8fea6db0b3f1feba6c523001c2ecbb6a7&v=0)Intuit Mailchimp Convert this strategy into draft campaigns ready to export and label them clearly so my team can approve fast.
 
-[(opens in a new window)](<https://chatgpt.com/?q=Intuit+Mailchimp+Convert+this+strategy+into+draft+campaigns+ready+to+export+and+label+them+clearly+so+my+team+can+approve+fast.>)
+[(opens in a new window)](<https://chatgpt.com/?q=%40Intuit+Mailchimp+Convert+this+strategy+into+draft+campaigns+ready+to+export+and+label+them+clearly+so+my+team+can+approve+fast.>)
 
 
 
@@ -102,6 +102,16 @@ Intuit Mailchimp Convert this strategy into draft campaigns ready to export and 
 ### [Plugin supportLearn more](<https://mailchimp.com/help/>)
 
 ### [Privacy policyLearn more](<https://mailchimp.com/about/privacy-rights/>)
+
+## Add plugins in a few clicks
+
+Availability depends on the plugin, your plan, and workspace settings. Some connections require admin setup or approval. Contact your workspace admin if access is blocked.
+
+[View the setup guide](<https://learn.chatgpt.com/docs/plugins>)
+
+## Explore related plugins
+
+[![](https://files.openai.com/content?id=file_00000000bdb4720caff269fd259bbdff&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=20268aaf4f0c92265b5b4945d13a456968c0e1a5013b3be043a94650a9b37e03&v=0)![](https://files.openai.com/content?id=file_00000000bdb4720caff269fd259bbdff&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=20268aaf4f0c92265b5b4945d13a456968c0e1a5013b3be043a94650a9b37e03&v=0)Creative ProductionUse the Creative Production plugin in ChatGPT to create, adapt, and review marketing assets, campaign concepts, ads, and launch creative.](</business/plugins/creative-production/>)[![](https://files.openai.com/content?id=file_00000000191081f79dfeddb7b502b1bf&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=3e3f6f7a793416cd9a93e61c94c2bd4631dd37631f592d4e774aa254e2b1c9b7&v=0)![](https://files.openai.com/content?id=file_00000000191081f79dfeddb7b502b1bf&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=3e3f6f7a793416cd9a93e61c94c2bd4631dd37631f592d4e774aa254e2b1c9b7&v=0)SalesPrepare account work and customer follow-up.](</business/plugins/sales/>)[![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)DataTurn data into clear decisions.](</business/plugins/data/>)[![](https://files.openai.com/content?id=file_000000000ee871fd807d17a056d79aa7&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=1&sig=07ea3990463c5d5c58deba9d55d8dfa10178b2a1cabb20fb0fdcf93fc218472b&v=0)![](https://files.openai.com/content?id=file_000000000ee871fd807d17a056d79aa7&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=1&sig=07ea3990463c5d5c58deba9d55d8dfa10178b2a1cabb20fb0fdcf93fc218472b&v=0)CanvaSearch, create, and edit designs.](</business/plugins/canva/>)[![](https://files.openai.com/content?id=file_00000000d6d871f6af516dd237732886&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=8&sig=57605450edcdfd982a04b1b6acfaaefae75de19e6e4de54c96f260b5442b30a9&v=0)![](https://files.openai.com/content?id=file_00000000d6d871f6af516dd237732886&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=8&sig=57605450edcdfd982a04b1b6acfaaefae75de19e6e4de54c96f260b5442b30a9&v=0)HubSpotAnalyze CRM data and surface insights.](</business/plugins/hubspot/>)[![](https://files.openai.com/content?id=file_00000000c8c881f6b1898c574dac4e10&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=8&sig=5893839a27316a5af69bb3d001943b0ec293a3c64279d9ec08803564a1d9b16b&v=0)![](https://files.openai.com/content?id=file_000000006ab081f793cba420e30fd6aa&cdn=1&cp=pi&ma=30672000&ts=0&p=pi&cid=8&sig=abab6e040ce7a4e418276d0f37dcc1cfe7194cf719a08826f8b043598e18c0f9&v=0)ShopifyCreate and manage your store](</business/plugins/shopify/>)
 
 ## Get started with plugins
 
@@ -214,3 +224,21 @@ Terms & Policies
 OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
+
+### 1Find a plugin1Find a plugin
+
+Browse for plugins that support your team’s tools and tasks.
+
+![ChatGPT plugin directory showing Google Drive, Slack, and Google Calendar.](https://images.ctfassets.net/kftzwdyauwt9/6yJgeQSCr32uzNSynka2cc/f5da877c4684cb18ecb9babf62723e2b/1.png?w=3840&q=90&fm=webp)
+
+### 2Install and connect2Install and connect
+
+Install the plugin, then follow the prompts to review permissions and connect any required apps.
+
+![Select the add button to install the Gmail plugin.](https://images.ctfassets.net/kftzwdyauwt9/7gNt7Pk3s8Mf0ql8JAedDS/c533bb5268aef1bed2ef56d5f5ccb06f/2.png?w=3840&q=90&fm=webp)
+
+### 3Put it to work3Put it to work
+
+Start a new chat in ChatGPT Work or Codex, describe the result you need, and ask it to use plugins.
+
+![Ask ChatGPT to prepare a meeting brief using Google Calendar, Gmail, and Slack.](https://images.ctfassets.net/kftzwdyauwt9/tQaC60CeLrMeEalZJnAwl/b4419ccddbaed0103124a22854097e81/3.png?w=3840&q=90&fm=webp)

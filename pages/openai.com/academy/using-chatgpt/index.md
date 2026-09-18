@@ -40,9 +40,9 @@ Build confidence with the basics.
 
 [Getting startedStart your first chat and navigate the interface.](</academy/getting-started/>)
 
-Prompting
+![Academy > Prompting > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/6KuWyesIgCbrJUzXckTYSx/20183733ba66b4b535fe978fc7ec985b/your-first-chat.png?w=3840&q=90&fm=webp)
 
-Write effective prompts that guide better responses.
+[PromptingWrite effective prompts that guide better responses.](</academy/prompting/>)
 
 ![Academy > Personalizing ChatGPT > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/2s9rOdoSHProR3I6Ai5P5/8ca619f82211ade2d76316f04aa3fbcc/personalizing-chatgpt.png?w=3840&q=90&fm=webp)
 
@@ -71,10 +71,6 @@ Create powerful and repeatable ways to work.
 ![Academy > Projects > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/L0cSoOsBFybec07VSIDJw/27647c6494be7191e0e2168f5bf27044/projects.png?w=3840&q=90&fm=webp)
 
 [ProjectsWork from shared context across conversations.](</academy/projects/>)
-
-![Academy > Custom GPTs > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/2UV4fI7a8z34VgwSmpgzy1/2b09c857ffda3696fec60cad6fb18b86/custom-gpts.png?w=3840&q=90&fm=webp)
-
-[Custom GPTsBuild tailored versions of ChatGPT for specific goals.](</academy/custom-gpts/>)
 
 ![Academy > Skills > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/5HjfQo619jC918nhDM0S4p/a788f0e356c534e61f30e6607402b5ab/skills.png?w=3840&q=90&fm=webp)
 

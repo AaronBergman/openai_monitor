@@ -57,25 +57,25 @@ Alation brings trusted enterprise data context into ChatGPT. Connect ChatGPT to 
 
 Identify suitable revenue datasets using catalog definitions, quality signals, and certification status.
 
-Alation Find the best cataloged data for a quarterly revenue report. Compare candidate datasets using definitions, freshness, certification, and quality signals, then recommend a source and note missing evidence.
+![](https://files.openai.com/content?id=file_00000000d8b871f59f2b053d79434cf7&cdn=1&cp=pi&ma=32659200&ts=0&p=pi&cid=1&sig=1260d161f7837e4f08f855a95bbcbb482c1e2ca7e18c0bfea73f1401be69b24d&v=0)Alation Find the best cataloged data for a quarterly revenue report. Compare candidate datasets using definitions, freshness, certification, and quality signals, then recommend a source and note missing evidence.
 
-[(opens in a new window)](<https://chatgpt.com/?q=Alation+Find+the+best+cataloged+data+for+a+quarterly+revenue+report.+Compare+candidate+datasets+using+definitions%2C+freshness%2C+certification%2C+and+quality+signals%2C+then+recommend+a+source+and+note+missing+evidence.>)
+[(opens in a new window)](<https://chatgpt.com/?q=%40Alation+Find+the+best+cataloged+data+for+a+quarterly+revenue+report.+Compare+candidate+datasets+using+definitions%2C+freshness%2C+certification%2C+and+quality+signals%2C+then+recommend+a+source+and+note+missing+evidence.>)
 
   * ### Assess schema change impact
 
 Trace data dependencies to identify reports that need review before a customer table changes.
 
-Alation Trace the lineage of dim_customer to its upstream sources and downstream reports. Summarize which analyses could be affected by a schema change and propose a review checklist with catalog links.
+![](https://files.openai.com/content?id=file_00000000d8b871f59f2b053d79434cf7&cdn=1&cp=pi&ma=32659200&ts=0&p=pi&cid=1&sig=1260d161f7837e4f08f855a95bbcbb482c1e2ca7e18c0bfea73f1401be69b24d&v=0)Alation Trace the lineage of dim_customer to its upstream sources and downstream reports. Summarize which analyses could be affected by a schema change and propose a review checklist with catalog links.
 
-[(opens in a new window)](<https://chatgpt.com/?q=Alation+Trace+the+lineage+of+dim_customer+to+its+upstream+sources+and+downstream+reports.+Summarize+which+analyses+could+be+affected+by+a+schema+change+and+propose+a+review+checklist+with+catalog+links.>)
+[(opens in a new window)](<https://chatgpt.com/?q=%40Alation+Trace+the+lineage+of+dim_customer+to+its+upstream+sources+and+downstream+reports.+Summarize+which+analyses+could+be+affected+by+a+schema+change+and+propose+a+review+checklist+with+catalog+links.>)
 
   * ### Reconcile metric definitions
 
 Compare cataloged revenue definitions and document differences that could explain conflicting reports.
 
-Alation Find catalog definitions for gross revenue and net revenue. Compare their exclusions, calculation notes, and linked assets, then prepare a concise reference explaining which definition suits each use.
+![](https://files.openai.com/content?id=file_00000000d8b871f59f2b053d79434cf7&cdn=1&cp=pi&ma=32659200&ts=0&p=pi&cid=1&sig=1260d161f7837e4f08f855a95bbcbb482c1e2ca7e18c0bfea73f1401be69b24d&v=0)Alation Find catalog definitions for gross revenue and net revenue. Compare their exclusions, calculation notes, and linked assets, then prepare a concise reference explaining which definition suits each use.
 
-[(opens in a new window)](<https://chatgpt.com/?q=Alation+Find+catalog+definitions+for+gross+revenue+and+net+revenue.+Compare+their+exclusions%2C+calculation+notes%2C+and+linked+assets%2C+then+prepare+a+concise+reference+explaining+which+definition+suits+each+use.>)
+[(opens in a new window)](<https://chatgpt.com/?q=%40Alation+Find+catalog+definitions+for+gross+revenue+and+net+revenue.+Compare+their+exclusions%2C+calculation+notes%2C+and+linked+assets%2C+then+prepare+a+concise+reference+explaining+which+definition+suits+each+use.>)
 
 
 
@@ -95,6 +95,16 @@ Alation Find catalog definitions for gross revenue and net revenue. Compare thei
 ### [Plugin supportLearn more](<https://www.alation.com/contact-us/>)
 
 ### [Privacy policyLearn more](<https://www.alation.com/privacy-policy/>)
+
+## Add plugins in a few clicks
+
+Availability depends on the plugin, your plan, and workspace settings. Some connections require admin setup or approval. Contact your workspace admin if access is blocked.
+
+[View the setup guide](<https://learn.chatgpt.com/docs/plugins>)
+
+## Explore related plugins
+
+[![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)DataTurn data into clear decisions.](</business/plugins/data/>)[![](https://files.openai.com/content?id=file_000000000f3081f7a148386e0036032a&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=23f27004207bf0063b44d64340b33c09de7704a5bb99b736cf24494db2663453&v=0)![](https://files.openai.com/content?id=file_000000000f3081f7a148386e0036032a&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=23f27004207bf0063b44d64340b33c09de7704a5bb99b736cf24494db2663453&v=0)SnowflakeAsk governed analytics questions of Snowflake data.](</business/plugins/snowflake/>)[![](https://files.openai.com/content?id=file_00000000fb6081f7aa3f621147713ad6&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=7b7a02db1929ca7e8aebd24b459d525b6ac1ae88b282b387816507320645a98d&v=0)![](https://files.openai.com/content?id=file_00000000fb6081f7aa3f621147713ad6&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=7b7a02db1929ca7e8aebd24b459d525b6ac1ae88b282b387816507320645a98d&v=0)Databricks GenieAnalyze lakehouse data and dashboards with natural language.](</business/plugins/databricks/>)[![](https://files.openai.com/content?id=file_00000000ed1481f78f9a3258f4550543&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=8&sig=5597c988d52ec699251bc1c8978153b96ff8b82c6227c6388fcbeca824ace455&v=0)![](https://files.openai.com/content?id=file_00000000ed1481f78f9a3258f4550543&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=8&sig=5597c988d52ec699251bc1c8978153b96ff8b82c6227c6388fcbeca824ace455&v=0)BigQueryExplore BigQuery data and generate SQL from natural language.](</business/plugins/bigquery/>)[![](https://files.openai.com/content?id=file_00000000a7a881f79bd3e0bdaf6f44d8&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=3681847b083c03ec3f94453b15bea76630d8877224f486882867c1affcde9821&v=0)![](https://files.openai.com/content?id=file_00000000a7a881f79bd3e0bdaf6f44d8&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=3681847b083c03ec3f94453b15bea76630d8877224f486882867c1affcde9821&v=0)DBTWork with dbt projects](</business/plugins/dbt/>)[![](https://files.openai.com/content?id=file_00000000c67881f688bdb0bc5231fadf&cdn=1&cp=pi&ma=30585600&ts=0&p=pi&cid=8&sig=de8015bdc697132f90021ae0a3d78e9fe108b53eb1442ecb3043964d7a03ee90&v=0)![](https://files.openai.com/content?id=file_00000000c67881f688bdb0bc5231fadf&cdn=1&cp=pi&ma=30585600&ts=0&p=pi&cid=8&sig=de8015bdc697132f90021ae0a3d78e9fe108b53eb1442ecb3043964d7a03ee90&v=0)WisdomAIAnswers from data you govern](</business/plugins/wisdomai/>)
 
 ## Get started with plugins
 
@@ -207,3 +217,21 @@ Terms & Policies
 OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
+
+### 1Find a plugin1Find a plugin
+
+Browse for plugins that support your team’s tools and tasks.
+
+![ChatGPT plugin directory showing Google Drive, Slack, and Google Calendar.](https://images.ctfassets.net/kftzwdyauwt9/6yJgeQSCr32uzNSynka2cc/f5da877c4684cb18ecb9babf62723e2b/1.png?w=3840&q=90&fm=webp)
+
+### 2Install and connect2Install and connect
+
+Install the plugin, then follow the prompts to review permissions and connect any required apps.
+
+![Select the add button to install the Gmail plugin.](https://images.ctfassets.net/kftzwdyauwt9/7gNt7Pk3s8Mf0ql8JAedDS/c533bb5268aef1bed2ef56d5f5ccb06f/2.png?w=3840&q=90&fm=webp)
+
+### 3Put it to work3Put it to work
+
+Start a new chat in ChatGPT Work or Codex, describe the result you need, and ask it to use plugins.
+
+![Ask ChatGPT to prepare a meeting brief using Google Calendar, Gmail, and Slack.](https://images.ctfassets.net/kftzwdyauwt9/tQaC60CeLrMeEalZJnAwl/b4419ccddbaed0103124a22854097e81/3.png?w=3840&q=90&fm=webp)

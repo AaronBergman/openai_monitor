@@ -249,6 +249,14 @@ A: A maximum of 10% of each project’s grant can support overhead or indirect c
 
 A: Yes.
 
+**Q: What is the project timeline?**
+
+A: We have a strong preference for research projects that can provide final results in a shorter timeframe. We ask that a working draft (i.e., suitable for discussion at a small conference) be provided within 12 months of receiving funds.
+
+**Q: Can multiple institutions collaborate on a proposal?**
+
+A: Yes.
+
 **Q: Are these grants funded by OpenAI Foundation or OpenAI Group PBC?**
 
 A: The grants are funded and administered by OpenAI Group PBC. 

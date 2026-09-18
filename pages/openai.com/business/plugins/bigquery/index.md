@@ -60,25 +60,25 @@ Connect BigQuery to ChatGPT to explore datasets, generate and review SQL, summar
 
 Ask questions about BigQuery datasets and tables to identify relevant fields, filters, and metrics before writing SQL.
 
-BigQuery Find the best dataset and tables for answering this question: [question]. Explain the fields and joins you would use.
+![](https://files.openai.com/content?id=file_00000000dd3481f789a6831e32ea8ef6&cdn=1&cp=pi&ma=32486400&ts=0&p=pi&cid=8&sig=e8f3973722e400f4b80234dd7944f41c5bc7ca178ea9ecc45dadd7d22f438cdf&v=0)BigQuery Find the best dataset and tables for answering this question: [question]. Explain the fields and joins you would use.
 
-[(opens in a new window)](<https://chatgpt.com/?q=BigQuery+Find+the+best+dataset+and+tables+for+answering+this+question%3A+%5Bquestion%5D.+Explain+the+fields+and+joins+you+would+use.>)
+[(opens in a new window)](<https://chatgpt.com/?q=%40BigQuery+Find+the+best+dataset+and+tables+for+answering+this+question%3A+%5Bquestion%5D.+Explain+the+fields+and+joins+you+would+use.>)
 
   * ### Generate and validate SQL
 
 Draft SQL from natural language, review joins and filters, and explain query outputs so teams can trust the analysis.
 
-BigQuery Write SQL to calculate [metric] by [dimension] for the last 90 days. Explain the logic and any assumptions.
+![](https://files.openai.com/content?id=file_00000000dd3481f789a6831e32ea8ef6&cdn=1&cp=pi&ma=32486400&ts=0&p=pi&cid=8&sig=e8f3973722e400f4b80234dd7944f41c5bc7ca178ea9ecc45dadd7d22f438cdf&v=0)BigQuery Write SQL to calculate [metric] by [dimension] for the last 90 days. Explain the logic and any assumptions.
 
-[(opens in a new window)](<https://chatgpt.com/?q=BigQuery+Write+SQL+to+calculate+%5Bmetric%5D+by+%5Bdimension%5D+for+the+last+90+days.+Explain+the+logic+and+any+assumptions.>)
+[(opens in a new window)](<https://chatgpt.com/?q=%40BigQuery+Write+SQL+to+calculate+%5Bmetric%5D+by+%5Bdimension%5D+for+the+last+90+days.+Explain+the+logic+and+any+assumptions.>)
 
   * ### Create data-backed summaries
 
 Turn query results into concise reports, charts, or stakeholder updates with assumptions and source context included.
 
-BigQuery Summarize these query results for an executive update, highlighting key changes, anomalies, and follow-up analyses.
+![](https://files.openai.com/content?id=file_00000000dd3481f789a6831e32ea8ef6&cdn=1&cp=pi&ma=32486400&ts=0&p=pi&cid=8&sig=e8f3973722e400f4b80234dd7944f41c5bc7ca178ea9ecc45dadd7d22f438cdf&v=0)BigQuery Summarize these query results for an executive update, highlighting key changes, anomalies, and follow-up analyses.
 
-[(opens in a new window)](<https://chatgpt.com/?q=BigQuery+Summarize+these+query+results+for+an+executive+update%2C+highlighting+key+changes%2C+anomalies%2C+and+follow-up+analyses.>)
+[(opens in a new window)](<https://chatgpt.com/?q=%40BigQuery+Summarize+these+query+results+for+an+executive+update%2C+highlighting+key+changes%2C+anomalies%2C+and+follow-up+analyses.>)
 
 
 
@@ -98,6 +98,16 @@ BigQuery Summarize these query results for an executive update, highlighting key
 ### [Plugin supportLearn more](<https://cloud.google.com/bigquery/docs>)
 
 ### [Privacy policyLearn more](<https://policies.google.com/privacy>)
+
+## Add plugins in a few clicks
+
+Availability depends on the plugin, your plan, and workspace settings. Some connections require admin setup or approval. Contact your workspace admin if access is blocked.
+
+[View the setup guide](<https://learn.chatgpt.com/docs/plugins>)
+
+## Explore related plugins
+
+[![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)DataTurn data into clear decisions.](</business/plugins/data/>)[![](https://files.openai.com/content?id=file_00000000191081f79dfeddb7b502b1bf&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=3e3f6f7a793416cd9a93e61c94c2bd4631dd37631f592d4e774aa254e2b1c9b7&v=0)![](https://files.openai.com/content?id=file_00000000191081f79dfeddb7b502b1bf&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=3e3f6f7a793416cd9a93e61c94c2bd4631dd37631f592d4e774aa254e2b1c9b7&v=0)SalesPrepare account work and customer follow-up.](</business/plugins/sales/>)[![](https://files.openai.com/content?id=file_00000000a7a881f79bd3e0bdaf6f44d8&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=3681847b083c03ec3f94453b15bea76630d8877224f486882867c1affcde9821&v=0)![](https://files.openai.com/content?id=file_00000000a7a881f79bd3e0bdaf6f44d8&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=3681847b083c03ec3f94453b15bea76630d8877224f486882867c1affcde9821&v=0)DBTWork with dbt projects](</business/plugins/dbt/>)[![](https://files.openai.com/content?id=file_000000004e58720cb8bbfc0978e3367e&cdn=1&cp=pi&ma=30758400&ts=0&p=pi&cid=1&sig=1b0376e78ef2e4f6f05a5b9bc138133fa5d468103e983c1f706341fe5f2293a7&v=0)![](https://files.openai.com/content?id=file_00000000c73081f7bf9eb20dcfc0bf64&cdn=1&cp=pi&ma=31363200&ts=0&p=pi&cid=8&sig=d62b12c0280b3d8053803e8a8fdf394b4f0e4e6c9bec46234bcbe8d3c1908747&v=0)Coupler.ioConnect and analyze data from 400+ apps.](</business/plugins/coupler-io/>)[![](https://files.openai.com/content?id=file_00000000305c81f592476d99e3faab61&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=8&sig=64c45bfe23621d0cb193310b6fc5cded6a470a131c891a40a6dca4c7198340d4&v=0)![](https://files.openai.com/content?id=file_00000000dda481f58d27cff6712efd6e&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=8&sig=0f9a40070454550d86b04a4023fefbd1dbcceb54dc9defdb316dfc7467777022&v=0)TableauSee and understand data](</business/plugins/tableau/>)[![](https://files.openai.com/content?id=file_00000000a9a081f78752dfef864b2597&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=18fa18d4c839a23ca63639259d332c2f50d433faa731d9b7755f08c333b78e47&v=0)![](https://files.openai.com/content?id=file_00000000a9a081f78752dfef864b2597&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=18fa18d4c839a23ca63639259d332c2f50d433faa731d9b7755f08c333b78e47&v=0)Google DriveSearch and reference files from your Drive.](</business/plugins/google-drive/>)
 
 ## Get started with plugins
 
@@ -210,3 +220,21 @@ Terms & Policies
 OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
+
+### 1Find a plugin1Find a plugin
+
+Browse for plugins that support your team’s tools and tasks.
+
+![ChatGPT plugin directory showing Google Drive, Slack, and Google Calendar.](https://images.ctfassets.net/kftzwdyauwt9/6yJgeQSCr32uzNSynka2cc/f5da877c4684cb18ecb9babf62723e2b/1.png?w=3840&q=90&fm=webp)
+
+### 2Install and connect2Install and connect
+
+Install the plugin, then follow the prompts to review permissions and connect any required apps.
+
+![Select the add button to install the Gmail plugin.](https://images.ctfassets.net/kftzwdyauwt9/7gNt7Pk3s8Mf0ql8JAedDS/c533bb5268aef1bed2ef56d5f5ccb06f/2.png?w=3840&q=90&fm=webp)
+
+### 3Put it to work3Put it to work
+
+Start a new chat in ChatGPT Work or Codex, describe the result you need, and ask it to use plugins.
+
+![Ask ChatGPT to prepare a meeting brief using Google Calendar, Gmail, and Slack.](https://images.ctfassets.net/kftzwdyauwt9/tQaC60CeLrMeEalZJnAwl/b4419ccddbaed0103124a22854097e81/3.png?w=3840&q=90&fm=webp)

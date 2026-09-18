@@ -57,25 +57,25 @@ Answer finance and operations questions with live Stripe data, review revenue dr
 
 Pull disputed charges, refunds, and failed payments, summarize root causes, and draft customer-ready responses—reducing resolution time.
 
-Stripe List disputed charges and draft customer friendly responses for the 5 highest value disputes.
+![](https://files.openai.com/content?id=file_0000000007fc81f794e4c935362dc538&cdn=1&cp=pi&ma=32140800&ts=0&p=pi&cid=8&sig=60e996a8a54e3052fcb5f967015ec5b2ebef20592c41388121afb65644056360&v=0)Stripe List disputed charges and draft customer friendly responses for the 5 highest value disputes.
 
-[(opens in a new window)](<https://chatgpt.com/?q=Stripe+List+disputed+charges+and+draft+customer+friendly+responses+for+the+5+highest+value+disputes.>)
+[(opens in a new window)](<https://chatgpt.com/?q=%40Stripe+List+disputed+charges+and+draft+customer+friendly+responses+for+the+5+highest+value+disputes.>)
 
   * ### Monitor subscription and product performance
 
 List active products and prices, spot plan changes or cancellations, and summarize trends for finance reviews so teams can respond quickly to plan reductions and retention risk.
 
-Stripe Identify subscriptions that canceled within 60 days of starting and summarize common patterns we can act on.
+![](https://files.openai.com/content?id=file_0000000007fc81f794e4c935362dc538&cdn=1&cp=pi&ma=32140800&ts=0&p=pi&cid=8&sig=60e996a8a54e3052fcb5f967015ec5b2ebef20592c41388121afb65644056360&v=0)Stripe Identify subscriptions that canceled within 60 days of starting and summarize common patterns we can act on.
 
-[(opens in a new window)](<https://chatgpt.com/?q=Stripe+Identify+subscriptions+that+canceled+within+60+days+of+starting+and+summarize+common+patterns+we+can+act+on.>)
+[(opens in a new window)](<https://chatgpt.com/?q=%40Stripe+Identify+subscriptions+that+canceled+within+60+days+of+starting+and+summarize+common+patterns+we+can+act+on.>)
 
   * ### Speed up payments integration work
 
 Search Stripe docs for the appropriate flow—like Checkout, Elements, or Billing—compare options, and generate implementation guidance to reduce debugging cycles and accelerate launch.
 
-Stripe Using these Checkout and Billing docs, outline the steps and implementation checks for adding recurring subscriptions to our product.
+![](https://files.openai.com/content?id=file_0000000007fc81f794e4c935362dc538&cdn=1&cp=pi&ma=32140800&ts=0&p=pi&cid=8&sig=60e996a8a54e3052fcb5f967015ec5b2ebef20592c41388121afb65644056360&v=0)Stripe Using these Checkout and Billing docs, outline the steps and implementation checks for adding recurring subscriptions to our product.
 
-[(opens in a new window)](<https://chatgpt.com/?q=Stripe+Using+these+Checkout+and+Billing+docs%2C+outline+the+steps+and+implementation+checks+for+adding+recurring+subscriptions+to+our+product.>)
+[(opens in a new window)](<https://chatgpt.com/?q=%40Stripe+Using+these+Checkout+and+Billing+docs%2C+outline+the+steps+and+implementation+checks+for+adding+recurring+subscriptions+to+our+product.>)
 
 
 
@@ -107,6 +107,16 @@ Stripe Using these Checkout and Billing docs, outline the steps and implementati
 ### [Plugin supportLearn more](<https://support.stripe.com/>)
 
 ### [Privacy policyLearn more](<https://stripe.com/privacy>)
+
+## Add plugins in a few clicks
+
+Availability depends on the plugin, your plan, and workspace settings. Some connections require admin setup or approval. Contact your workspace admin if access is blocked.
+
+[View the setup guide](<https://learn.chatgpt.com/docs/plugins>)
+
+## Explore related plugins
+
+[![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)DataTurn data into clear decisions.](</business/plugins/data/>)[![](https://files.openai.com/content?id=file_00000000191081f79dfeddb7b502b1bf&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=3e3f6f7a793416cd9a93e61c94c2bd4631dd37631f592d4e774aa254e2b1c9b7&v=0)![](https://files.openai.com/content?id=file_00000000191081f79dfeddb7b502b1bf&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=3e3f6f7a793416cd9a93e61c94c2bd4631dd37631f592d4e774aa254e2b1c9b7&v=0)SalesPrepare account work and customer follow-up.](</business/plugins/sales/>)[![](https://files.openai.com/content?id=file_00000000649881f78407f95b8ef708d5&cdn=1&cp=pi&ma=32659200&ts=0&p=pi&cid=8&sig=0bd3c0fdb82a0a8da2c99a9e4b526f0f84728962fd7637ee5423661fb7ef4db7&v=0)![](https://files.openai.com/content?id=file_00000000649881f78407f95b8ef708d5&cdn=1&cp=pi&ma=32659200&ts=0&p=pi&cid=8&sig=0bd3c0fdb82a0a8da2c99a9e4b526f0f84728962fd7637ee5423661fb7ef4db7&v=0)Intuit QuickBooksBusiness finances made simple](</business/plugins/quickbooks/>)[![](https://files.openai.com/content?id=file_00000000a9cc722fb923cc9523b65b7d&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=1&sig=3dfed128f0bb03d09bf162a2dc55fbe09a77b2bb881e6dda9588c139623cb79f&v=0)![](https://files.openai.com/content?id=file_00000000ae1881f78cb19e9602da73eb&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=e6620dc8efa5f7ff134320dd09ead486087108035fdad05773799d910563ee89&v=0)RampAutomate finance tasks.](</business/plugins/ramp/>)[![](https://files.openai.com/content?id=file_00000000ac7881f59a95b718896b7902&cdn=1&cp=pi&ma=31968000&ts=0&p=pi&cid=8&sig=8d4ea8c207d69a085a5d683c828b2957b9db2fc95aea683bf2589c66d6b62e66&v=0)![](https://files.openai.com/content?id=file_00000000ac7881f59a95b718896b7902&cdn=1&cp=pi&ma=31968000&ts=0&p=pi&cid=8&sig=8d4ea8c207d69a085a5d683c828b2957b9db2fc95aea683bf2589c66d6b62e66&v=0)MercuryUnderstand your finances](</business/plugins/mercury/>)[![](https://files.openai.com/content?id=file_000000004e58720cb8bbfc0978e3367e&cdn=1&cp=pi&ma=30758400&ts=0&p=pi&cid=1&sig=1b0376e78ef2e4f6f05a5b9bc138133fa5d468103e983c1f706341fe5f2293a7&v=0)![](https://files.openai.com/content?id=file_00000000c73081f7bf9eb20dcfc0bf64&cdn=1&cp=pi&ma=31363200&ts=0&p=pi&cid=8&sig=d62b12c0280b3d8053803e8a8fdf394b4f0e4e6c9bec46234bcbe8d3c1908747&v=0)Coupler.ioConnect and analyze data from 400+ apps.](</business/plugins/coupler-io/>)
 
 ## Get started with plugins
 
@@ -219,3 +229,21 @@ Terms & Policies
 OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
+
+### 1Find a plugin1Find a plugin
+
+Browse for plugins that support your team’s tools and tasks.
+
+![ChatGPT plugin directory showing Google Drive, Slack, and Google Calendar.](https://images.ctfassets.net/kftzwdyauwt9/6yJgeQSCr32uzNSynka2cc/f5da877c4684cb18ecb9babf62723e2b/1.png?w=3840&q=90&fm=webp)
+
+### 2Install and connect2Install and connect
+
+Install the plugin, then follow the prompts to review permissions and connect any required apps.
+
+![Select the add button to install the Gmail plugin.](https://images.ctfassets.net/kftzwdyauwt9/7gNt7Pk3s8Mf0ql8JAedDS/c533bb5268aef1bed2ef56d5f5ccb06f/2.png?w=3840&q=90&fm=webp)
+
+### 3Put it to work3Put it to work
+
+Start a new chat in ChatGPT Work or Codex, describe the result you need, and ask it to use plugins.
+
+![Ask ChatGPT to prepare a meeting brief using Google Calendar, Gmail, and Slack.](https://images.ctfassets.net/kftzwdyauwt9/tQaC60CeLrMeEalZJnAwl/b4419ccddbaed0103124a22854097e81/3.png?w=3840&q=90&fm=webp)

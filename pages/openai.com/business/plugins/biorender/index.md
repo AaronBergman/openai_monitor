@@ -57,25 +57,25 @@ Search BioRender's library of scientific templates, find your files, and generat
 
 Find relevant icons and templates for topics like CRISPR or CAR-T to reduce time spent searching libraries and support draft figure planning.
 
-BioRender I need a figure for a CRISPR knockout experiment. Suggest a clean layout and the icons I should use.
+![](https://files.openai.com/content?id=file_00000000940c71f7ab8384b5e684f813&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=1&sig=7fef39ef80b4fae6e0a4d54adfc75cddfff71d8e6ff320bf2bbc7c8487ed127e&v=0)BioRender I need a figure for a CRISPR knockout experiment. Suggest a clean layout and the icons I should use.
 
-[(opens in a new window)](<https://chatgpt.com/?q=BioRender+I+need+a+figure+for+a+CRISPR+knockout+experiment.+Suggest+a+clean+layout+and+the+icons+I+should+use.>)
+[(opens in a new window)](<https://chatgpt.com/?q=%40BioRender+I+need+a+figure+for+a+CRISPR+knockout+experiment.+Suggest+a+clean+layout+and+the+icons+I+should+use.>)
 
   * ### Improve research communication
 
 Use standardized, scientifically accurate visuals to communicate biological concepts consistently across publications, reviews, and presentations.
 
-BioRender Outline a graphical abstract for this paper summary and recommend how to visually sequence the story.
+![](https://files.openai.com/content?id=file_00000000940c71f7ab8384b5e684f813&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=1&sig=7fef39ef80b4fae6e0a4d54adfc75cddfff71d8e6ff320bf2bbc7c8487ed127e&v=0)BioRender Outline a graphical abstract for this paper summary and recommend how to visually sequence the story.
 
-[(opens in a new window)](<https://chatgpt.com/?q=BioRender+Outline+a+graphical+abstract+for+this+paper+summary+and+recommend+how+to+visually+sequence+the+story.>)
+[(opens in a new window)](<https://chatgpt.com/?q=%40BioRender+Outline+a+graphical+abstract+for+this+paper+summary+and+recommend+how+to+visually+sequence+the+story.>)
 
   * ### Reduce friction across research teams
 
 Help scientists and teams align on visual starting points when brainstorming or planning figures before formal design work begins.
 
-BioRender Find existing figures or templates about T cell activation and the immune synapse.
+![](https://files.openai.com/content?id=file_00000000940c71f7ab8384b5e684f813&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=1&sig=7fef39ef80b4fae6e0a4d54adfc75cddfff71d8e6ff320bf2bbc7c8487ed127e&v=0)BioRender Find existing figures or templates about T cell activation and the immune synapse.
 
-[(opens in a new window)](<https://chatgpt.com/?q=BioRender+Find+existing+figures+or+templates+about+T+cell+activation+and+the+immune+synapse.>)
+[(opens in a new window)](<https://chatgpt.com/?q=%40BioRender+Find+existing+figures+or+templates+about+T+cell+activation+and+the+immune+synapse.>)
 
 
 
@@ -95,6 +95,16 @@ BioRender Find existing figures or templates about T cell activation and the imm
 ### [Plugin supportLearn more](<https://support.biorender.com/>)
 
 ### [Privacy policyLearn more](<https://biorender.com/privacy>)
+
+## Add plugins in a few clicks
+
+Availability depends on the plugin, your plan, and workspace settings. Some connections require admin setup or approval. Contact your workspace admin if access is blocked.
+
+[View the setup guide](<https://learn.chatgpt.com/docs/plugins>)
+
+## Explore related plugins
+
+[![](https://files.openai.com/content?id=file_00000000bdb4720caff269fd259bbdff&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=20268aaf4f0c92265b5b4945d13a456968c0e1a5013b3be043a94650a9b37e03&v=0)![](https://files.openai.com/content?id=file_00000000bdb4720caff269fd259bbdff&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=20268aaf4f0c92265b5b4945d13a456968c0e1a5013b3be043a94650a9b37e03&v=0)Creative ProductionUse the Creative Production plugin in ChatGPT to create, adapt, and review marketing assets, campaign concepts, ads, and launch creative.](</business/plugins/creative-production/>)[![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)DataTurn data into clear decisions.](</business/plugins/data/>)[![](https://files.openai.com/content?id=file_000000003d64820c9105c859db57fe4d&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=8&sig=bc9fd0fe7aa6a14439c3dae08ded4377aa99f2dd20e5b52ca3db8dd40fd5d2fc&v=0)![](https://files.openai.com/content?id=file_000000001f3c81fd88149faceddc19df&cdn=1&cp=pi&ma=32659200&ts=0&p=pi&cid=8&sig=f45f28e94aaa8443b2c849d11cfe2c843efe0d98efc51230e2ab72c39610b193&v=0)FigmaMake diagrams, slides, assets.](</business/plugins/figma/>)[![](https://files.openai.com/content?id=file_000000000ee871fd807d17a056d79aa7&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=1&sig=07ea3990463c5d5c58deba9d55d8dfa10178b2a1cabb20fb0fdcf93fc218472b&v=0)![](https://files.openai.com/content?id=file_000000000ee871fd807d17a056d79aa7&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=1&sig=07ea3990463c5d5c58deba9d55d8dfa10178b2a1cabb20fb0fdcf93fc218472b&v=0)CanvaSearch, create, and edit designs.](</business/plugins/canva/>)[![](https://files.openai.com/content?id=file_00000000a9a081f78752dfef864b2597&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=18fa18d4c839a23ca63639259d332c2f50d433faa731d9b7755f08c333b78e47&v=0)![](https://files.openai.com/content?id=file_00000000a9a081f78752dfef864b2597&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=18fa18d4c839a23ca63639259d332c2f50d433faa731d9b7755f08c333b78e47&v=0)Google DriveSearch and reference files from your Drive.](</business/plugins/google-drive/>)[![](https://files.openai.com/content?id=file_000000000c1871f5a6cfddb62a46e9de&cdn=1&cp=pi&ma=31363200&ts=0&p=pi&cid=1&sig=81b62307ba341b02656de1a8a775263b1126c5aa1801f5f51ac5b3da3cb40a2c&v=0)![](https://files.openai.com/content?id=file_00000000551481f5a345351199fc73fd&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=d24c1524f8efa98e3db5084e8f55ca134b1ac198deddaffc355a1df03b180092&v=0)Adobe AcrobatEdit and organize PDFs easily.](</business/plugins/adobe-acrobat/>)
 
 ## Get started with plugins
 
@@ -207,3 +217,21 @@ Terms & Policies
 OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
+
+### 1Find a plugin1Find a plugin
+
+Browse for plugins that support your team’s tools and tasks.
+
+![ChatGPT plugin directory showing Google Drive, Slack, and Google Calendar.](https://images.ctfassets.net/kftzwdyauwt9/6yJgeQSCr32uzNSynka2cc/f5da877c4684cb18ecb9babf62723e2b/1.png?w=3840&q=90&fm=webp)
+
+### 2Install and connect2Install and connect
+
+Install the plugin, then follow the prompts to review permissions and connect any required apps.
+
+![Select the add button to install the Gmail plugin.](https://images.ctfassets.net/kftzwdyauwt9/7gNt7Pk3s8Mf0ql8JAedDS/c533bb5268aef1bed2ef56d5f5ccb06f/2.png?w=3840&q=90&fm=webp)
+
+### 3Put it to work3Put it to work
+
+Start a new chat in ChatGPT Work or Codex, describe the result you need, and ask it to use plugins.
+
+![Ask ChatGPT to prepare a meeting brief using Google Calendar, Gmail, and Slack.](https://images.ctfassets.net/kftzwdyauwt9/tQaC60CeLrMeEalZJnAwl/b4419ccddbaed0103124a22854097e81/3.png?w=3840&q=90&fm=webp)

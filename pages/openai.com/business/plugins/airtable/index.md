@@ -57,25 +57,25 @@ Ask questions, explore roadmaps, and update records across Airtable bases in Cha
 
 Ask questions like which projects are shipping this week or which deals are at risk, and get filtered tables or kanban views that reduce manual reporting time and improve decision speed.
 
-Airtable Which projects are shipping this week across all bases? Show it in a simple table grouped by team and highlight anything at risk.
+![](https://files.openai.com/content?id=file_000000005c2481fd858f93b128aaef20&cdn=1&cp=pi&ma=31795200&ts=0&p=pi&cid=8&sig=82e637f79ffd50f0f47b98a7194a2424b0ea2855792577811acb5d505fe33535&v=0)Airtable Which projects are shipping this week across all bases? Show it in a simple table grouped by team and highlight anything at risk.
 
-[(opens in a new window)](<https://chatgpt.com/?q=Airtable+Which+projects+are+shipping+this+week+across+all+bases%3F+Show+it+in+a+simple+table+grouped+by+team+and+highlight+anything+at+risk.>)
+[(opens in a new window)](<https://chatgpt.com/?q=%40Airtable+Which+projects+are+shipping+this+week+across+all+bases%3F+Show+it+in+a+simple+table+grouped+by+team+and+highlight+anything+at+risk.>)
 
   * ### Keep systems of record up to date
 
 Create or update tasks, statuses, and priorities directly from ChatGPT, so teams stay aligned and information across planning and tracking workflows stays current.
 
-Airtable Turn this messy list of customer requests into structured records with category impact and suggested priority.
+![](https://files.openai.com/content?id=file_000000005c2481fd858f93b128aaef20&cdn=1&cp=pi&ma=31795200&ts=0&p=pi&cid=8&sig=82e637f79ffd50f0f47b98a7194a2424b0ea2855792577811acb5d505fe33535&v=0)Airtable Turn this messy list of customer requests into structured records with category impact and suggested priority.
 
-[(opens in a new window)](<https://chatgpt.com/?q=Airtable+Turn+this+messy+list+of+customer+requests+into+structured+records+with+category+impact+and+suggested+priority.>)
+[(opens in a new window)](<https://chatgpt.com/?q=%40Airtable+Turn+this+messy+list+of+customer+requests+into+structured+records+with+category+impact+and+suggested+priority.>)
 
   * ### Align teams with shared visibility
 
 Summarize roadmaps, initiatives, or customer work from Airtable into clear briefs for sales, executives, or partners, improving alignment without extra preparation.
 
-Airtable Summarize our [base] into a one page exec brief with milestones and dependencies.
+![](https://files.openai.com/content?id=file_000000005c2481fd858f93b128aaef20&cdn=1&cp=pi&ma=31795200&ts=0&p=pi&cid=8&sig=82e637f79ffd50f0f47b98a7194a2424b0ea2855792577811acb5d505fe33535&v=0)Airtable Summarize our [base] into a one page exec brief with milestones and dependencies.
 
-[(opens in a new window)](<https://chatgpt.com/?q=Airtable+Summarize+our+%5Bbase%5D+into+a+one+page+exec+brief+with+milestones+and+dependencies.>)
+[(opens in a new window)](<https://chatgpt.com/?q=%40Airtable+Summarize+our+%5Bbase%5D+into+a+one+page+exec+brief+with+milestones+and+dependencies.>)
 
 
 
@@ -103,6 +103,16 @@ Airtable Summarize our [base] into a one page exec brief with milestones and dep
 ### [Plugin supportLearn more](<https://support.airtable.com/>)
 
 ### [Privacy policyLearn more](<https://www.airtable.com/company/privacy>)
+
+## Add plugins in a few clicks
+
+Availability depends on the plugin, your plan, and workspace settings. Some connections require admin setup or approval. Contact your workspace admin if access is blocked.
+
+[View the setup guide](<https://learn.chatgpt.com/docs/plugins>)
+
+## Explore related plugins
+
+[![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)DataTurn data into clear decisions.](</business/plugins/data/>)[![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)Product DesignTurn product ideas into designs and research artifacts.](</business/plugins/product-design/>)[![](https://files.openai.com/content?id=file_00000000191081f79dfeddb7b502b1bf&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=3e3f6f7a793416cd9a93e61c94c2bd4631dd37631f592d4e774aa254e2b1c9b7&v=0)![](https://files.openai.com/content?id=file_00000000191081f79dfeddb7b502b1bf&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=3e3f6f7a793416cd9a93e61c94c2bd4631dd37631f592d4e774aa254e2b1c9b7&v=0)SalesPrepare account work and customer follow-up.](</business/plugins/sales/>)[![](https://files.openai.com/content?id=file_000000004a50722f96089a32eeed297c&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=1&sig=07807a7cbefb19d9cd968741565427527585e02f13335ddd46129d77e9dfe317&v=0)![](https://files.openai.com/content?id=file_0000000072dc81f69476895c0081c9c6&cdn=1&cp=pi&ma=31363200&ts=0&p=pi&cid=8&sig=ae98e7cc8005841970b2d7697ed1cfd38a1f393c65889c0de686c5db7b93da03&v=0)AsanaTurn Asana tasks into clear updates and plans.](</business/plugins/asana/>)[![](https://files.openai.com/content?id=file_00000000a9a081f78752dfef864b2597&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=18fa18d4c839a23ca63639259d332c2f50d433faa731d9b7755f08c333b78e47&v=0)![](https://files.openai.com/content?id=file_00000000a9a081f78752dfef864b2597&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=18fa18d4c839a23ca63639259d332c2f50d433faa731d9b7755f08c333b78e47&v=0)Google DriveSearch and reference files from your Drive.](</business/plugins/google-drive/>)[![](https://files.openai.com/content?id=file_00000000994081fd9df560367dfe54f4&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=8&sig=55e9028947fbc7ea3284b715ca95e34f797efbc5c4e0e47a9b2b0509d787308d&v=0)![](https://files.openai.com/content?id=file_00000000994081fd9df560367dfe54f4&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=8&sig=55e9028947fbc7ea3284b715ca95e34f797efbc5c4e0e47a9b2b0509d787308d&v=0)SlackLook up chats and messages.](</business/plugins/slack/>)
 
 ## Get started with plugins
 
@@ -215,3 +225,21 @@ Terms & Policies
 OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
+
+### 1Find a plugin1Find a plugin
+
+Browse for plugins that support your team’s tools and tasks.
+
+![ChatGPT plugin directory showing Google Drive, Slack, and Google Calendar.](https://images.ctfassets.net/kftzwdyauwt9/6yJgeQSCr32uzNSynka2cc/f5da877c4684cb18ecb9babf62723e2b/1.png?w=3840&q=90&fm=webp)
+
+### 2Install and connect2Install and connect
+
+Install the plugin, then follow the prompts to review permissions and connect any required apps.
+
+![Select the add button to install the Gmail plugin.](https://images.ctfassets.net/kftzwdyauwt9/7gNt7Pk3s8Mf0ql8JAedDS/c533bb5268aef1bed2ef56d5f5ccb06f/2.png?w=3840&q=90&fm=webp)
+
+### 3Put it to work3Put it to work
+
+Start a new chat in ChatGPT Work or Codex, describe the result you need, and ask it to use plugins.
+
+![Ask ChatGPT to prepare a meeting brief using Google Calendar, Gmail, and Slack.](https://images.ctfassets.net/kftzwdyauwt9/tQaC60CeLrMeEalZJnAwl/b4419ccddbaed0103124a22854097e81/3.png?w=3840&q=90&fm=webp)

@@ -57,25 +57,25 @@ HoneyBook is where independent businesses and lean teams run their client work: 
 
 Find stalled leads and decide which follow-ups deserve your attention.
 
-HoneyBook Find leads I haven't contacted in two weeks and rank the five most worth following up with, using their project details and client history.
+![](https://files.openai.com/content?id=file_00000000760881f49ff5c1190001e477&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=8&sig=22b2e5cbfd17e27451fe6fe1181e91add82a51ef890e256d049a2b4e942b0209&v=0)HoneyBook Find leads I haven't contacted in two weeks and rank the five most worth following up with, using their project details and client history.
 
-[(opens in a new window)](<https://chatgpt.com/?q=HoneyBook+Find+leads+I+haven%27t+contacted+in+two+weeks+and+rank+the+five+most+worth+following+up+with%2C+using+their+project+details+and+client+history.>)
+[(opens in a new window)](<https://chatgpt.com/?q=%40HoneyBook+Find+leads+I+haven%27t+contacted+in+two+weeks+and+rank+the+five+most+worth+following+up+with%2C+using+their+project+details+and+client+history.>)
 
   * ### Prepare a client proposal
 
 Build a proposal from your saved template and the client's project details.
 
-HoneyBook Prepare a proposal for the client I name using my saved template and their project details. Flag missing scope or pricing information and keep it unsent for my review.
+![](https://files.openai.com/content?id=file_00000000760881f49ff5c1190001e477&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=8&sig=22b2e5cbfd17e27451fe6fe1181e91add82a51ef890e256d049a2b4e942b0209&v=0)HoneyBook Prepare a proposal for the client I name using my saved template and their project details. Flag missing scope or pricing information and keep it unsent for my review.
 
-[(opens in a new window)](<https://chatgpt.com/?q=HoneyBook+Prepare+a+proposal+for+the+client+I+name+using+my+saved+template+and+their+project+details.+Flag+missing+scope+or+pricing+information+and+keep+it+unsent+for+my+review.>)
+[(opens in a new window)](<https://chatgpt.com/?q=%40HoneyBook+Prepare+a+proposal+for+the+client+I+name+using+my+saved+template+and+their+project+details.+Flag+missing+scope+or+pricing+information+and+keep+it+unsent+for+my+review.>)
 
   * ### Review overdue balances
 
 See which clients owe money and where to focus collections.
 
-HoneyBook List overdue client invoices with balances and due dates. Rank who to follow up with first and explain the priority using amount owed and age of the debt.
+![](https://files.openai.com/content?id=file_00000000760881f49ff5c1190001e477&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=8&sig=22b2e5cbfd17e27451fe6fe1181e91add82a51ef890e256d049a2b4e942b0209&v=0)HoneyBook List overdue client invoices with balances and due dates. Rank who to follow up with first and explain the priority using amount owed and age of the debt.
 
-[(opens in a new window)](<https://chatgpt.com/?q=HoneyBook+List+overdue+client+invoices+with+balances+and+due+dates.+Rank+who+to+follow+up+with+first+and+explain+the+priority+using+amount+owed+and+age+of+the+debt.>)
+[(opens in a new window)](<https://chatgpt.com/?q=%40HoneyBook+List+overdue+client+invoices+with+balances+and+due+dates.+Rank+who+to+follow+up+with+first+and+explain+the+priority+using+amount+owed+and+age+of+the+debt.>)
 
 
 
@@ -101,6 +101,16 @@ HoneyBook List overdue client invoices with balances and due dates. Rank who to 
 ### [Plugin supportLearn more](<https://www.honeybook.com/company/contact-us>)
 
 ### [Privacy policyLearn more](<https://www.honeybook.com/legal/privacy>)
+
+## Add plugins in a few clicks
+
+Availability depends on the plugin, your plan, and workspace settings. Some connections require admin setup or approval. Contact your workspace admin if access is blocked.
+
+[View the setup guide](<https://learn.chatgpt.com/docs/plugins>)
+
+## Explore related plugins
+
+[![](https://files.openai.com/content?id=file_00000000191081f79dfeddb7b502b1bf&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=3e3f6f7a793416cd9a93e61c94c2bd4631dd37631f592d4e774aa254e2b1c9b7&v=0)![](https://files.openai.com/content?id=file_00000000191081f79dfeddb7b502b1bf&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=3e3f6f7a793416cd9a93e61c94c2bd4631dd37631f592d4e774aa254e2b1c9b7&v=0)SalesPrepare account work and customer follow-up.](</business/plugins/sales/>)[![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)DataTurn data into clear decisions.](</business/plugins/data/>)[![](https://files.openai.com/content?id=file_000000006e70720e8240729562593f87&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=881a44cfa311712291121e9cda4ef4b8d7fef216108a65296a5898c02d91507e&v=0)![](https://files.openai.com/content?id=file_00000000042c720882209039c0de8dbb&cdn=1&cp=pi&ma=31881600&ts=0&p=pi&cid=8&sig=6488ddb504fdc95531899e70229555079be3267f213ba9f836a0a92bc39864a8&v=0)DocusignManage contracts from ChatGPT](</business/plugins/docusign/>)[![](https://files.openai.com/content?id=file_00000000649881f78407f95b8ef708d5&cdn=1&cp=pi&ma=32659200&ts=0&p=pi&cid=8&sig=0bd3c0fdb82a0a8da2c99a9e4b526f0f84728962fd7637ee5423661fb7ef4db7&v=0)![](https://files.openai.com/content?id=file_00000000649881f78407f95b8ef708d5&cdn=1&cp=pi&ma=32659200&ts=0&p=pi&cid=8&sig=0bd3c0fdb82a0a8da2c99a9e4b526f0f84728962fd7637ee5423661fb7ef4db7&v=0)Intuit QuickBooksBusiness finances made simple](</business/plugins/quickbooks/>)[![](https://files.openai.com/content?id=file_00000000990481fd9c316ee59df47fc5&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=8&sig=bd8ee8654d100eefe078aa49822119c307f7c6f39021603fafb3d083c1cb5cac&v=0)![](https://files.openai.com/content?id=file_00000000990481fd9c316ee59df47fc5&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=8&sig=bd8ee8654d100eefe078aa49822119c307f7c6f39021603fafb3d083c1cb5cac&v=0)GmailFind and reference emails from your inbox.](</business/plugins/gmail/>)[![](https://files.openai.com/content?id=file_000000004f54720ca95439ac98f37bec&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=1&sig=e5d7098d5c3c07aa0e3d229476b0a0547fedb672feb751b0d0aa455dd84a6c33&v=0)![](https://files.openai.com/content?id=file_000000004f54720ca95439ac98f37bec&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=1&sig=e5d7098d5c3c07aa0e3d229476b0a0547fedb672feb751b0d0aa455dd84a6c33&v=0)Google CalendarLook up events and availability.](</business/plugins/google-calendar/>)
 
 ## Get started with plugins
 
@@ -213,3 +223,21 @@ Terms & Policies
 OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
+
+### 1Find a plugin1Find a plugin
+
+Browse for plugins that support your team’s tools and tasks.
+
+![ChatGPT plugin directory showing Google Drive, Slack, and Google Calendar.](https://images.ctfassets.net/kftzwdyauwt9/6yJgeQSCr32uzNSynka2cc/f5da877c4684cb18ecb9babf62723e2b/1.png?w=3840&q=90&fm=webp)
+
+### 2Install and connect2Install and connect
+
+Install the plugin, then follow the prompts to review permissions and connect any required apps.
+
+![Select the add button to install the Gmail plugin.](https://images.ctfassets.net/kftzwdyauwt9/7gNt7Pk3s8Mf0ql8JAedDS/c533bb5268aef1bed2ef56d5f5ccb06f/2.png?w=3840&q=90&fm=webp)
+
+### 3Put it to work3Put it to work
+
+Start a new chat in ChatGPT Work or Codex, describe the result you need, and ask it to use plugins.
+
+![Ask ChatGPT to prepare a meeting brief using Google Calendar, Gmail, and Slack.](https://images.ctfassets.net/kftzwdyauwt9/tQaC60CeLrMeEalZJnAwl/b4419ccddbaed0103124a22854097e81/3.png?w=3840&q=90&fm=webp)

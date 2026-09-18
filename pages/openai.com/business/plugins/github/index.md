@@ -60,25 +60,25 @@ Explore repo files, docs, and commit history to understand code, summarize PRs, 
 
 Ask how a module works or where a function lives, and get an explanation with cited snippets that helps new engineers ramp faster and reduces interruptions for senior developers.
 
-GitHub Using this repository’s code and documentation, explain how authentication works end to end, including the key components, request flow, and where credentials or tokens are handled.
+![](https://files.openai.com/content?id=file_000000008d0481fb9ac8c2286d8c0360&cdn=1&cp=pi&ma=30931200&ts=0&p=pi&cid=8&sig=815010da6abb924f37ed6dffd584c2870b2c91573d2ecea8666c8ff538a9b5e7&v=0)GitHub Using this repository’s code and documentation, explain how authentication works end to end, including the key components, request flow, and where credentials or tokens are handled.
 
-[(opens in a new window)](<https://chatgpt.com/?q=GitHub+Using+this+repository%E2%80%99s+code+and+documentation%2C+explain+how+authentication+works+end+to+end%2C+including+the+key+components%2C+request+flow%2C+and+where+credentials+or+tokens+are+handled.>)
+[(opens in a new window)](<https://chatgpt.com/?q=%40GitHub+Using+this+repository%E2%80%99s+code+and+documentation%2C+explain+how+authentication+works+end+to+end%2C+including+the+key+components%2C+request+flow%2C+and+where+credentials+or+tokens+are+handled.>)
 
   * ### Speed up reviews and reduce merge friction
 
 Summarize a pull request, list risky changes, and suggest test gaps before review, reducing back-and-forth comments and shortening time from open to merge.
 
-GitHub Summarize this pull request like a senior reviewer: what changed, what could break, and what tests are missing or weak.
+![](https://files.openai.com/content?id=file_000000008d0481fb9ac8c2286d8c0360&cdn=1&cp=pi&ma=30931200&ts=0&p=pi&cid=8&sig=815010da6abb924f37ed6dffd584c2870b2c91573d2ecea8666c8ff538a9b5e7&v=0)GitHub Summarize this pull request like a senior reviewer: what changed, what could break, and what tests are missing or weak.
 
-[(opens in a new window)](<https://chatgpt.com/?q=GitHub+Summarize+this+pull+request+like+a+senior+reviewer%3A+what+changed%2C+what+could+break%2C+and+what+tests+are+missing+or+weak.>)
+[(opens in a new window)](<https://chatgpt.com/?q=%40GitHub+Summarize+this+pull+request+like+a+senior+reviewer%3A+what+changed%2C+what+could+break%2C+and+what+tests+are+missing+or+weak.>)
 
   * ### Turn repo activity into stakeholder-ready updates
 
 Generate a weekly engineering update from recent commits and PRs, highlighting shipped work, blockers, and next steps to keep stakeholders informed.
 
-GitHub Turn the last 7 days of commits and merged PRs into a stakeholder-ready engineering update with shipped work, risks, and next steps.
+![](https://files.openai.com/content?id=file_000000008d0481fb9ac8c2286d8c0360&cdn=1&cp=pi&ma=30931200&ts=0&p=pi&cid=8&sig=815010da6abb924f37ed6dffd584c2870b2c91573d2ecea8666c8ff538a9b5e7&v=0)GitHub Turn the last 7 days of commits and merged PRs into a stakeholder-ready engineering update with shipped work, risks, and next steps.
 
-[(opens in a new window)](<https://chatgpt.com/?q=GitHub+Turn+the+last+7+days+of+commits+and+merged+PRs+into+a+stakeholder-ready+engineering+update+with+shipped+work%2C+risks%2C+and+next+steps.>)
+[(opens in a new window)](<https://chatgpt.com/?q=%40GitHub+Turn+the+last+7+days+of+commits+and+merged+PRs+into+a+stakeholder-ready+engineering+update+with+shipped+work%2C+risks%2C+and+next+steps.>)
 
 
 
@@ -98,6 +98,16 @@ GitHub Turn the last 7 days of commits and merged PRs into a stakeholder-ready e
 ### [Plugin supportLearn more](<https://docs.github.com/>)
 
 ### [Privacy policyLearn more](<https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement>)
+
+## Add plugins in a few clicks
+
+Availability depends on the plugin, your plan, and workspace settings. Some connections require admin setup or approval. Contact your workspace admin if access is blocked.
+
+[View the setup guide](<https://learn.chatgpt.com/docs/plugins>)
+
+## Explore related plugins
+
+[![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)Product DesignTurn product ideas into designs and research artifacts.](</business/plugins/product-design/>)[![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)DataTurn data into clear decisions.](</business/plugins/data/>)[![](https://files.openai.com/content?id=file_0000000021547230b7f5dfd4accb4de5&cdn=1&cp=pi&ma=31190400&ts=0&p=pi&cid=1&sig=dea02d9468c390a41124840b9b7cd6f54576f35b34b1ffe98d4ae90668efa963&v=0)![](https://files.openai.com/content?id=file_0000000021547230b7f5dfd4accb4de5&cdn=1&cp=pi&ma=31190400&ts=0&p=pi&cid=1&sig=dea02d9468c390a41124840b9b7cd6f54576f35b34b1ffe98d4ae90668efa963&v=0)LinearFind and reference issues and projects.](</business/plugins/linear/>)[![](https://files.openai.com/content?id=file_000000007ed081f786d39446d9746d5c&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=8&sig=36bf3b5954d5b1ed1c41ae3b5b6fd725d3265dadb80cc88405e74313a65a8e1e&v=0)![](https://files.openai.com/content?id=file_000000007ed081f786d39446d9746d5c&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=8&sig=36bf3b5954d5b1ed1c41ae3b5b6fd725d3265dadb80cc88405e74313a65a8e1e&v=0)VercelSearch docs and deploy apps.](</business/plugins/vercel/>)[![](https://files.openai.com/content?id=file_00000000204c81f6a7ce2454929734b2&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=8&sig=22be634719e2dd0882100f485f9f393136907bfa13e6073e6caeff230455d50a&v=0)![](https://files.openai.com/content?id=file_00000000269081f7be2d535408c83d0c&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=e6e3ef926127f51341d02e0b047d2943efa2f141545bd3f83e40ded827f36352&v=0)JamScreen record with context.](</business/plugins/jam-dev/>)[![](https://files.openai.com/content?id=file_000000000b0071f5a15a9c19c082b8e5&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=1&sig=2663b30a3556fd4f4ba683cb9f2229a0c1d6c2c03d5ee308c9d75206a0b9fd63&v=0)![](https://files.openai.com/content?id=file_00000000dd1871f59b6fbbe091d54c40&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=1&sig=0c80d0ad0efd55b7f0665e2b3a539a4ac11beb6ed99bb0f9b65065138f951a3c&v=0)Atlassian RovoManage Jira and Confluence fast.](</business/plugins/atlassian-rovo/>)
 
 ## Get started with plugins
 
@@ -210,3 +220,21 @@ Terms & Policies
 OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
+
+### 1Find a plugin1Find a plugin
+
+Browse for plugins that support your team’s tools and tasks.
+
+![ChatGPT plugin directory showing Google Drive, Slack, and Google Calendar.](https://images.ctfassets.net/kftzwdyauwt9/6yJgeQSCr32uzNSynka2cc/f5da877c4684cb18ecb9babf62723e2b/1.png?w=3840&q=90&fm=webp)
+
+### 2Install and connect2Install and connect
+
+Install the plugin, then follow the prompts to review permissions and connect any required apps.
+
+![Select the add button to install the Gmail plugin.](https://images.ctfassets.net/kftzwdyauwt9/7gNt7Pk3s8Mf0ql8JAedDS/c533bb5268aef1bed2ef56d5f5ccb06f/2.png?w=3840&q=90&fm=webp)
+
+### 3Put it to work3Put it to work
+
+Start a new chat in ChatGPT Work or Codex, describe the result you need, and ask it to use plugins.
+
+![Ask ChatGPT to prepare a meeting brief using Google Calendar, Gmail, and Slack.](https://images.ctfassets.net/kftzwdyauwt9/tQaC60CeLrMeEalZJnAwl/b4419ccddbaed0103124a22854097e81/3.png?w=3840&q=90&fm=webp)

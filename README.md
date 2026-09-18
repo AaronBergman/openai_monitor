@@ -1,5 +1,42 @@
 # openai_monitor
 
+## 2026-09-18T09-15Z
+
+**Fetch time:** 2026-09-18T09:15Z–09:25Z UTC | **Baseline:** 2026-09-17T09-15Z (consecutive day)
+
+**TL;DR:** OpenAI launched **Astra for Law** — its first named legal-industry product — a version of GPT‑6 Astra tuned for legal work, paired with a 230M+ URL legal search index built partly on Free Law Project/CourtListener's case-law collection (99.9%+ of published U.S. precedential case law). Early API partners **Harvey** and **Legora** are building on it, a Cooley (major IPO-market law firm) case study shows the product in use, and a new law industry-solutions page plus a dedicated legal sales-contact form went live. The business-plugins directory's Legal category doubled from 10 to 20 listings (8 new today: Clio, DeepJudge, Harvey, iManage Work, Legora, NetDocuments, Relativity, Thomson Reuters HighQ), and all ~110 plugin pages picked up a matching template refresh (new "Add plugins in a few clicks" and "Explore related plugins" sections, @-mention example-prompt links). Separately, a small ChatGPT-Work content push added finance- and marketing-team guides/case-studies, and the sitewide "Latest Advancements" nav finally added a GPT‑6 link two weeks after GPT‑6 Astra's actual launch — timed to coincide with today's news. One page was confirmed genuinely removed (404): `academy/custom-gpts`. No timestamp anomalies. 1,748 total URLs across 40 sub-sitemaps (up from 39 — a new `learn-webinars` section appeared).
+
+### Anomalies
+
+No future-dated or backwards-moving `<lastmod>` values, no backdated new URLs, no reappeared URLs. Two anomalies this run, both explained by the Astra for Law launch:
+- **New sub-sitemap section**: `learn-webinars` appeared (40 sections, up from 39), currently holding a single URL (the marketing-team ChatGPT Work webinar page).
+- **1 section migration**: `/business/plugins/box/` moved from `plugins-productivity` to `plugins-operations` (still cross-listed under `plugins-legal`).
+
+Full detail in [`runs/2026-09-18T09-15Z/analysis.md`](runs/2026-09-18T09-15Z/analysis.md).
+
+### Notable additions
+
+- **[Introducing Astra for Law](pages/openai.com/index/astra-for-law/index.md)** — new legal-industry AI foundation combining GPT‑6 Astra with a legal search index (U.S. case law, statutes, regulations, court rules, administrative decisions; incorporates Free Law Project/CourtListener's case-law collection covering 99.9%+ of published U.S. precedential case law) and firm-specific privacy/governance controls. API customers Harvey and Legora will build on it; firms can customize it with new legal-ecosystem plugins like Relativity and Clio.
+- **[Solutions for law](pages/openai.com/solutions/industries/law/index.md)** — new industry page: Astra for Law is "initially available to selected law firms through Trusted Access in ChatGPT and Codex," with zero-data-retention API usage and "eyes-off" human review as headline trust features.
+- **[Contact Legal sales](pages/openai.com/business/contact-sales-legal/index.md)** — new dedicated sales-contact form for the legal vertical.
+- **[How Cooley built GO Public](pages/openai.com/index/cooley-gopublic/index.md)** — customer case study: Cooley (advised on 180 deals worth $51.5B+ in 2025, a leading US issuer-side IPO firm) built "GO Public," a proprietary agentic AI tool on ChatGPT Work to synthesize IPO-related legal work.
+- **8 new legal-tech plugins**, growing the Legal directory category from 10 to 20 listings: [Clio](pages/openai.com/business/plugins/clio/index.md), [DeepJudge](pages/openai.com/business/plugins/deepjudge/index.md), [Harvey](pages/openai.com/business/plugins/harvey/index.md), [iManage Work](pages/openai.com/business/plugins/imanage-work/index.md), [Legora](pages/openai.com/business/plugins/legora/index.md), [NetDocuments](pages/openai.com/business/plugins/netdocuments/index.md), [Relativity](pages/openai.com/business/plugins/relativity/index.md), [Thomson Reuters HighQ](pages/openai.com/business/plugins/thomson-reuters-highq/index.md). Several are cross-listed under a second category (Productivity or Operations) as well.
+- **4 new gated ChatGPT Work pages for finance/marketing teams**: [finance-team guide download](pages/openai.com/business/learn/download-the-chatgpt-work-guide-for-finance-teams/index.md), [marketing-team guide download](pages/openai.com/business/learn/download-the-chatgpt-work-guide-for-marketing-teams/index.md), [how our finance team uses ChatGPT Work](pages/openai.com/business/learn/how-our-finance-team-uses-chatgpt-work/index.md), [how our marketing team uses ChatGPT Work](pages/openai.com/business/learn/how-our-marketing-team-uses-chatgpt-work/index.md) (webinar; the sole page in the new `learn-webinars` section). All are lead-capture forms with no visible article body.
+
+### Notable updates
+
+- **Plugin-directory template refresh (110 pages)** — every existing `/business/plugins/*` page picked up: an icon on each example-prompt card, an `@`-prefixed plugin mention in the "open in ChatGPT" links (e.g. `?q=Airtable+...` → `?q=%40Airtable+...`), a new "Add plugins in a few clicks" section, a new "Explore related plugins" carousel, and (on many pages) a "Find a plugin / Install and connect / Put it to work" onboarding walkthrough with screenshots. Directory-wide UX refresh timed to the legal-plugin expansion, not per-plugin content.
+- **Sitewide nav: "GPT-6" added to "Latest Advancements"** — the persistent sidebar/footer block on many `/index/*` pages now leads with GPT‑6 (linking to the `gpt-6-astra` page) ahead of GPT‑5.6/5.5/5.4. GPT‑6 Astra itself launched 2026-09-04 — this nav update was apparently held back roughly two weeks, landing today alongside Astra for Law.
+- ~64 other pages had their only change be the routine "recent posts" carousel surfacing stories already reported in the last two runs (misalignment-reporting framework, older-adults AI workshops, unlocking new ways of working); 122 URLs bumped `<lastmod>` with zero visible content change; 12 pages changed only a CDN deploy-hash in an image URL. Two small genuine copy edits: an "Author"→"Authors" heading fix, and a partner-logo/quote block reordered lower on one Global Affairs page.
+
+### Removed pages
+
+- **`academy/custom-gpts`** — removed from the sitemap and confirmed to now return HTTP 404 on the live site. First tracked 2026-05-07. Last snapshot preserved in git history.
+
+_Stats: 1748 total URLs | 16 added | 308 updated (174 with visible content diff) | 1 removed | 2 anomalies (1 new sub-sitemap section + 1 section migration) | 40 sub-sitemaps_
+
+---
+
 ## 2026-09-17T09-15Z
 
 **Fetch time:** 2026-09-17T09:16Z–09:20Z UTC | **Baseline:** 2026-09-16T09-15Z (consecutive day)

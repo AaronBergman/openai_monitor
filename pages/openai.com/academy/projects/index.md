@@ -65,8 +65,11 @@ Projects are especially useful for work that continues over time. Instead of spr
 ## How to create a project
 
   1. Open **Projects** from the left-hand menu.
+
   2. Create a new project and give it a name. 
+
   3. You can now add files, set project instructions, or move existing chats into the project. If sharing is available on your plan, you can also invite collaborators.
+
 
 
 
@@ -85,10 +88,15 @@ Projects help address this by keeping related materials—chats, files, and inst
 A good rule of thumb is to use a project when your work has some ongoing context. That might include:
 
   * A topic you are researching over time
+
   * A writing project with multiple drafts
+
   * A recurring planning process
+
   * A collection of files and conversations tied to one goal
+
   * A shared effort where more than one person needs access to the same materials
+
 
 
 
@@ -151,6 +159,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)

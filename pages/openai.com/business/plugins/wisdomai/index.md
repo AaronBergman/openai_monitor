@@ -57,25 +57,25 @@ WisdomAI is the enterprise data harness inside ChatGPT, for the complex analytic
 
 Break a revenue shortfall into the segments contributing most and identify what deserves closer attention.
 
-WisdomAI Investigate last quarter's EMEA net revenue against plan. Break the gap down by segment and account, identify the largest contributors, and recommend what to watch next quarter, citing definitions and sources.
+![](https://files.openai.com/content?id=file_000000007d3c8230a0d4b5cf4cc5b4d6&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=2e746895b7a1bfde74fa4037cef172ff0ec83cd3d04aab2fb291b4d1f7bfdf31&v=0)WisdomAI Investigate last quarter's EMEA net revenue against plan. Break the gap down by segment and account, identify the largest contributors, and recommend what to watch next quarter, citing definitions and sources.
 
-[(opens in a new window)](<https://chatgpt.com/?q=WisdomAI+Investigate+last+quarter%27s+EMEA+net+revenue+against+plan.+Break+the+gap+down+by+segment+and+account%2C+identify+the+largest+contributors%2C+and+recommend+what+to+watch+next+quarter%2C+citing+definitions+and+sources.>)
+[(opens in a new window)](<https://chatgpt.com/?q=%40WisdomAI+Investigate+last+quarter%27s+EMEA+net+revenue+against+plan.+Break+the+gap+down+by+segment+and+account%2C+identify+the+largest+contributors%2C+and+recommend+what+to+watch+next+quarter%2C+citing+definitions+and+sources.>)
 
   * ### Assess product growth concentration
 
 Compare product sales over time to identify where growth is concentrated and which trends need attention.
 
-WisdomAI Compare product sales over the last four completed quarters. Identify the five biggest contributors to growth, show their regional mix, and recommend which trends deserve closer investigation using available data.
+![](https://files.openai.com/content?id=file_000000007d3c8230a0d4b5cf4cc5b4d6&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=2e746895b7a1bfde74fa4037cef172ff0ec83cd3d04aab2fb291b4d1f7bfdf31&v=0)WisdomAI Compare product sales over the last four completed quarters. Identify the five biggest contributors to growth, show their regional mix, and recommend which trends deserve closer investigation using available data.
 
-[(opens in a new window)](<https://chatgpt.com/?q=WisdomAI+Compare+product+sales+over+the+last+four+completed+quarters.+Identify+the+five+biggest+contributors+to+growth%2C+show+their+regional+mix%2C+and+recommend+which+trends+deserve+closer+investigation+using+available+data.>)
+[(opens in a new window)](<https://chatgpt.com/?q=%40WisdomAI+Compare+product+sales+over+the+last+four+completed+quarters.+Identify+the+five+biggest+contributors+to+growth%2C+show+their+regional+mix%2C+and+recommend+which+trends+deserve+closer+investigation+using+available+data.>)
 
   * ### Trace a finance metric
 
 Explain the governed definition and data sources behind net revenue for a finance review.
 
-WisdomAI Trace net revenue to its governed definition and source data. Summarize calculation rules, exclusions, and any missing context that a finance team should resolve before using it in a quarterly report.
+![](https://files.openai.com/content?id=file_000000007d3c8230a0d4b5cf4cc5b4d6&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=2e746895b7a1bfde74fa4037cef172ff0ec83cd3d04aab2fb291b4d1f7bfdf31&v=0)WisdomAI Trace net revenue to its governed definition and source data. Summarize calculation rules, exclusions, and any missing context that a finance team should resolve before using it in a quarterly report.
 
-[(opens in a new window)](<https://chatgpt.com/?q=WisdomAI+Trace+net+revenue+to+its+governed+definition+and+source+data.+Summarize+calculation+rules%2C+exclusions%2C+and+any+missing+context+that+a+finance+team+should+resolve+before+using+it+in+a+quarterly+report.>)
+[(opens in a new window)](<https://chatgpt.com/?q=%40WisdomAI+Trace+net+revenue+to+its+governed+definition+and+source+data.+Summarize+calculation+rules%2C+exclusions%2C+and+any+missing+context+that+a+finance+team+should+resolve+before+using+it+in+a+quarterly+report.>)
 
 
 
@@ -95,6 +95,16 @@ WisdomAI Trace net revenue to its governed definition and source data. Summarize
 ### [Plugin supportLearn more](<https://docs.wisdom.ai/manage-account/contact-support>)
 
 ### [Privacy policyLearn more](<https://www.wisdom.ai/privacy-policy>)
+
+## Add plugins in a few clicks
+
+Availability depends on the plugin, your plan, and workspace settings. Some connections require admin setup or approval. Contact your workspace admin if access is blocked.
+
+[View the setup guide](<https://learn.chatgpt.com/docs/plugins>)
+
+## Explore related plugins
+
+[![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)DataTurn data into clear decisions.](</business/plugins/data/>)[![](https://files.openai.com/content?id=file_000000000f3081f7a148386e0036032a&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=23f27004207bf0063b44d64340b33c09de7704a5bb99b736cf24494db2663453&v=0)![](https://files.openai.com/content?id=file_000000000f3081f7a148386e0036032a&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=23f27004207bf0063b44d64340b33c09de7704a5bb99b736cf24494db2663453&v=0)SnowflakeAsk governed analytics questions of Snowflake data.](</business/plugins/snowflake/>)[![](https://files.openai.com/content?id=file_00000000fb6081f7aa3f621147713ad6&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=7b7a02db1929ca7e8aebd24b459d525b6ac1ae88b282b387816507320645a98d&v=0)![](https://files.openai.com/content?id=file_00000000fb6081f7aa3f621147713ad6&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=7b7a02db1929ca7e8aebd24b459d525b6ac1ae88b282b387816507320645a98d&v=0)Databricks GenieAnalyze lakehouse data and dashboards with natural language.](</business/plugins/databricks/>)[![](https://files.openai.com/content?id=file_00000000ed1481f78f9a3258f4550543&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=8&sig=5597c988d52ec699251bc1c8978153b96ff8b82c6227c6388fcbeca824ace455&v=0)![](https://files.openai.com/content?id=file_00000000ed1481f78f9a3258f4550543&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=8&sig=5597c988d52ec699251bc1c8978153b96ff8b82c6227c6388fcbeca824ace455&v=0)BigQueryExplore BigQuery data and generate SQL from natural language.](</business/plugins/bigquery/>)[![](https://files.openai.com/content?id=file_00000000a7a881f79bd3e0bdaf6f44d8&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=3681847b083c03ec3f94453b15bea76630d8877224f486882867c1affcde9821&v=0)![](https://files.openai.com/content?id=file_00000000a7a881f79bd3e0bdaf6f44d8&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=3681847b083c03ec3f94453b15bea76630d8877224f486882867c1affcde9821&v=0)DBTWork with dbt projects](</business/plugins/dbt/>)[![](https://files.openai.com/content?id=file_000000002c9871f88886c70ee05182be&cdn=1&cp=pi&ma=30585600&ts=0&p=pi&cid=1&sig=d9f82aa7ff5946d7b3572fb9749746956a02925ce49b4f256a1d6bb1575ef7cb&v=0)![](https://files.openai.com/content?id=file_000000002c9871f88886c70ee05182be&cdn=1&cp=pi&ma=30585600&ts=0&p=pi&cid=1&sig=d9f82aa7ff5946d7b3572fb9749746956a02925ce49b4f256a1d6bb1575ef7cb&v=0)AlationGoverned Knowledge Layer](</business/plugins/alation/>)
 
 ## Get started with plugins
 
@@ -207,3 +217,21 @@ Terms & Policies
 OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
+
+### 1Find a plugin1Find a plugin
+
+Browse for plugins that support your team’s tools and tasks.
+
+![ChatGPT plugin directory showing Google Drive, Slack, and Google Calendar.](https://images.ctfassets.net/kftzwdyauwt9/6yJgeQSCr32uzNSynka2cc/f5da877c4684cb18ecb9babf62723e2b/1.png?w=3840&q=90&fm=webp)
+
+### 2Install and connect2Install and connect
+
+Install the plugin, then follow the prompts to review permissions and connect any required apps.
+
+![Select the add button to install the Gmail plugin.](https://images.ctfassets.net/kftzwdyauwt9/7gNt7Pk3s8Mf0ql8JAedDS/c533bb5268aef1bed2ef56d5f5ccb06f/2.png?w=3840&q=90&fm=webp)
+
+### 3Put it to work3Put it to work
+
+Start a new chat in ChatGPT Work or Codex, describe the result you need, and ask it to use plugins.
+
+![Ask ChatGPT to prepare a meeting brief using Google Calendar, Gmail, and Slack.](https://images.ctfassets.net/kftzwdyauwt9/tQaC60CeLrMeEalZJnAwl/b4419ccddbaed0103124a22854097e81/3.png?w=3840&q=90&fm=webp)

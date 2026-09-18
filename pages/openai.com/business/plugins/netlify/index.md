@@ -60,25 +60,25 @@ Build, deploy, and manage Netlify web projects in ChatGPT using natural language
 
 Create projects from repositories, set configurations, and trigger initial deploys using natural language commands.
 
-Netlify Create a new site from my GitHub repo and walk me through the required build settings and enironment variables.
+![](https://files.openai.com/content?id=file_00000000075071f597aa27ecc6b886dc&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=1&sig=042cb4d8093f65e8071678d14c61675a616ca92949d66f3cd18171dcd8b279da&v=0)Netlify Create a new site from my GitHub repo and walk me through the required build settings and enironment variables.
 
-[(opens in a new window)](<https://chatgpt.com/?q=Netlify+Create+a+new+site+from+my+GitHub+repo+and+walk+me+through+the+required+build+settings+and+enironment+variables.>)
+[(opens in a new window)](<https://chatgpt.com/?q=%40Netlify+Create+a+new+site+from+my+GitHub+repo+and+walk+me+through+the+required+build+settings+and+enironment+variables.>)
 
   * ### Manage deployment configuration
 
 Manage environment variables, access controls, and extensions through ChatGPT to update site configuration.
 
-Netlify List all environment variables for [site] and flag anything that looks unsafe or inconsistent across environments.
+![](https://files.openai.com/content?id=file_00000000075071f597aa27ecc6b886dc&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=1&sig=042cb4d8093f65e8071678d14c61675a616ca92949d66f3cd18171dcd8b279da&v=0)Netlify List all environment variables for [site] and flag anything that looks unsafe or inconsistent across environments.
 
-[(opens in a new window)](<https://chatgpt.com/?q=Netlify+List+all+environment+variables+for+%5Bsite%5D+and+flag+anything+that+looks+unsafe+or+inconsistent+across+environments.>)
+[(opens in a new window)](<https://chatgpt.com/?q=%40Netlify+List+all+environment+variables+for+%5Bsite%5D+and+flag+anything+that+looks+unsafe+or+inconsistent+across+environments.>)
 
   * ### Scale ongoing site operations
 
 Trigger redeploys and manage site updates through ChatGPT to support ongoing project maintenance.
 
-Netlify Show me all sites under my team with their deploy status and last publish time and highlight anything stale.
+![](https://files.openai.com/content?id=file_00000000075071f597aa27ecc6b886dc&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=1&sig=042cb4d8093f65e8071678d14c61675a616ca92949d66f3cd18171dcd8b279da&v=0)Netlify Show me all sites under my team with their deploy status and last publish time and highlight anything stale.
 
-[(opens in a new window)](<https://chatgpt.com/?q=Netlify+Show+me+all+sites+under+my+team+with+their+deploy+status+and+last+publish+time+and+highlight+anything+stale.>)
+[(opens in a new window)](<https://chatgpt.com/?q=%40Netlify+Show+me+all+sites+under+my+team+with+their+deploy+status+and+last+publish+time+and+highlight+anything+stale.>)
 
 
 
@@ -93,14 +93,14 @@ Netlify Show me all sites under my team with their deploy status and last publis
 
 ### Skills
 
-  * ![](https://files.openai.com/content?id=file_00000000075071f597aa27ecc6b886dc&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=1&sig=042cb4d8093f65e8071678d14c61675a616ca92949d66f3cd18171dcd8b279da&v=0)AI Gateway
-  * ![](https://files.openai.com/content?id=file_00000000075071f597aa27ecc6b886dc&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=1&sig=042cb4d8093f65e8071678d14c61675a616ca92949d66f3cd18171dcd8b279da&v=0)Blobs
-  * ![](https://files.openai.com/content?id=file_00000000075071f597aa27ecc6b886dc&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=1&sig=042cb4d8093f65e8071678d14c61675a616ca92949d66f3cd18171dcd8b279da&v=0)Caching
-  * ![](https://files.openai.com/content?id=file_00000000075071f597aa27ecc6b886dc&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=1&sig=042cb4d8093f65e8071678d14c61675a616ca92949d66f3cd18171dcd8b279da&v=0)CLI & Deploy
-  * ![](https://files.openai.com/content?id=file_00000000075071f597aa27ecc6b886dc&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=1&sig=042cb4d8093f65e8071678d14c61675a616ca92949d66f3cd18171dcd8b279da&v=0)Config
-  * ![](https://files.openai.com/content?id=file_00000000075071f597aa27ecc6b886dc&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=1&sig=042cb4d8093f65e8071678d14c61675a616ca92949d66f3cd18171dcd8b279da&v=0)Deploy
-  * ![](https://files.openai.com/content?id=file_00000000075071f597aa27ecc6b886dc&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=1&sig=042cb4d8093f65e8071678d14c61675a616ca92949d66f3cd18171dcd8b279da&v=0)Edge Functions
-  * ![](https://files.openai.com/content?id=file_00000000075071f597aa27ecc6b886dc&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=1&sig=042cb4d8093f65e8071678d14c61675a616ca92949d66f3cd18171dcd8b279da&v=0)Forms
+  * AI Gateway
+  * Blobs
+  * Caching
+  * CLI & Deploy
+  * Config
+  * Deploy
+  * Edge Functions
+  * Forms
   * 4 more
 
 
@@ -112,6 +112,16 @@ Netlify Show me all sites under my team with their deploy status and last publis
 ### [Plugin supportLearn more](<https://www.netlify.com/support/>)
 
 ### [Privacy policyLearn more](<https://www.netlify.com/privacy/>)
+
+## Add plugins in a few clicks
+
+Availability depends on the plugin, your plan, and workspace settings. Some connections require admin setup or approval. Contact your workspace admin if access is blocked.
+
+[View the setup guide](<https://learn.chatgpt.com/docs/plugins>)
+
+## Explore related plugins
+
+[![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)Product DesignTurn product ideas into designs and research artifacts.](</business/plugins/product-design/>)[![](https://files.openai.com/content?id=file_000000002684720c81b0d1d022c3dfd2&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=1&sig=4e111632389ebc732936b83f809c131e3a5fa201ca4cb43c8ea9b6fa2d62a87e&v=0)![](https://files.openai.com/content?id=file_00000000cba0822fa2188c4c599f4181&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=1&sig=34a683b818c6593bfcc47dd950aaadc850fbd5861b79f237b4627d27372983d1&v=0)GitHubAccess repositories, issues, and pull requests.](</business/plugins/github/>)[![](https://files.openai.com/content?id=file_000000007ed081f786d39446d9746d5c&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=8&sig=36bf3b5954d5b1ed1c41ae3b5b6fd725d3265dadb80cc88405e74313a65a8e1e&v=0)![](https://files.openai.com/content?id=file_000000007ed081f786d39446d9746d5c&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=8&sig=36bf3b5954d5b1ed1c41ae3b5b6fd725d3265dadb80cc88405e74313a65a8e1e&v=0)VercelSearch docs and deploy apps.](</business/plugins/vercel/>)[![](https://files.openai.com/content?id=file_000000003fa871fda8d5ccf17301b94b&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=1&sig=9ca1fad9ac2a8cb87e51c40261c029650c95213921623423ec39d0368045739e&v=0)![](https://files.openai.com/content?id=file_00000000878c81f7853a443065429025&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=be838736241f0296ba05934933d4fdc86ab15ca0f2f4925ed4d6166102f82945&v=0)ReplitTurn your ideas into real apps.](</business/plugins/replit/>)[![](https://files.openai.com/content?id=file_00000000b4ec71f6ab8c69f2f285f74b&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=1&sig=20498371312886c59f32c51971b7921d0f0181ec2c93ce77a7bbcc652b6e8d97)![](https://files.openai.com/content?id=file_00000000b4ec71f6ab8c69f2f285f74b&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=1&sig=20498371312886c59f32c51971b7921d0f0181ec2c93ce77a7bbcc652b6e8d97)LovableBuild apps and websites.](</business/plugins/lovable/>)[![](https://files.openai.com/content?id=file_00000000da6c81f58455d98a59b9e028&cdn=1&cp=pi&ma=30931200&ts=0&p=pi&cid=8&sig=03536f130f44c90a94877d9e78404b93460a7566485b46608088528082eb91c0&v=0)![](https://files.openai.com/content?id=file_00000000da6c81f58455d98a59b9e028&cdn=1&cp=pi&ma=30931200&ts=0&p=pi&cid=8&sig=03536f130f44c90a94877d9e78404b93460a7566485b46608088528082eb91c0&v=0)Google FirebaseBuild and manage Firebase apps](</business/plugins/firebase/>)
 
 ## Get started with plugins
 
@@ -224,3 +234,21 @@ Terms & Policies
 OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
+
+### 1Find a plugin1Find a plugin
+
+Browse for plugins that support your team’s tools and tasks.
+
+![ChatGPT plugin directory showing Google Drive, Slack, and Google Calendar.](https://images.ctfassets.net/kftzwdyauwt9/6yJgeQSCr32uzNSynka2cc/f5da877c4684cb18ecb9babf62723e2b/1.png?w=3840&q=90&fm=webp)
+
+### 2Install and connect2Install and connect
+
+Install the plugin, then follow the prompts to review permissions and connect any required apps.
+
+![Select the add button to install the Gmail plugin.](https://images.ctfassets.net/kftzwdyauwt9/7gNt7Pk3s8Mf0ql8JAedDS/c533bb5268aef1bed2ef56d5f5ccb06f/2.png?w=3840&q=90&fm=webp)
+
+### 3Put it to work3Put it to work
+
+Start a new chat in ChatGPT Work or Codex, describe the result you need, and ask it to use plugins.
+
+![Ask ChatGPT to prepare a meeting brief using Google Calendar, Gmail, and Slack.](https://images.ctfassets.net/kftzwdyauwt9/tQaC60CeLrMeEalZJnAwl/b4419ccddbaed0103124a22854097e81/3.png?w=3840&q=90&fm=webp)

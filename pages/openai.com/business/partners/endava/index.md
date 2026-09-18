@@ -38,7 +38,7 @@ OpenAI
 
 Endava is a global technology consulting and engineering company helping enterprises become AI-native, accelerate growth and thrive in evolving markets. As an OpenAI partner, we combine frontier AI models, deep industry expertise and an AI-native approach with strengths in software engineering, cloud, data, APIs and enterprise transformation. From ideation to production, we work with business and technology teams to identify high-impact opportunities, embed AI into products, workflows and software delivery, and build the capabilities needed for lasting adoption. Using Dava.Flow™, our AI-native delivery methodology, we help organisations move from strategy and experimentation to secure, production-ready AI that delivers measurable business outcomes at scale.
 
-![Advanced Partner](/images/partner-tier-badges/OAI_PartnerNetwork_AdvancedPartner.svg?dpl=dpl_GL1UxgKZ7jmDjn2HVeCSxaftH7vR)
+![Advanced Partner](/images/partner-tier-badges/OAI_PartnerNetwork_AdvancedPartner.svg?dpl=dpl_DytABQsw94uz64J9325cLDf1x65x)
 
 Countries served
     Global

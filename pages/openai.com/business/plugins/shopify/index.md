@@ -57,25 +57,25 @@ Shopify for ChatGPT makes starting, running, and growing an online store as easy
 
 See how sales changed over the past three weeks and identify the strongest week.
 
-Shopify Show my store's weekly sales for the past three weeks and highlight the strongest week.
+![](https://files.openai.com/content?id=file_00000000f0cc81f597371a9ec614d0ca&cdn=1&cp=pi&ma=32227200&ts=0&p=pi&cid=8&sig=847f6ee018969c1c8e79881f605d40d20da7035a4ebfbde8aed6739542050c9b&v=0)Shopify Show my store's weekly sales for the past three weeks and highlight the strongest week.
 
-[(opens in a new window)](<https://chatgpt.com/?q=Shopify+Show+my+store%27s+weekly+sales+for+the+past+three+weeks+and+highlight+the+strongest+week.>)
+[(opens in a new window)](<https://chatgpt.com/?q=%40Shopify+Show+my+store%27s+weekly+sales+for+the+past+three+weeks+and+highlight+the+strongest+week.>)
 
   * ### Prepare a product launch
 
 Create a draft product from your supplied details, ready for review.
 
-Shopify Create a draft product from the details and image I provide, including its price and variants. Write a clear description using only those details and flag anything missing before launch.
+![](https://files.openai.com/content?id=file_00000000f0cc81f597371a9ec614d0ca&cdn=1&cp=pi&ma=32227200&ts=0&p=pi&cid=8&sig=847f6ee018969c1c8e79881f605d40d20da7035a4ebfbde8aed6739542050c9b&v=0)Shopify Create a draft product from the details and image I provide, including its price and variants. Write a clear description using only those details and flag anything missing before launch.
 
-[(opens in a new window)](<https://chatgpt.com/?q=Shopify+Create+a+draft+product+from+the+details+and+image+I+provide%2C+including+its+price+and+variants.+Write+a+clear+description+using+only+those+details+and+flag+anything+missing+before+launch.>)
+[(opens in a new window)](<https://chatgpt.com/?q=%40Shopify+Create+a+draft+product+from+the+details+and+image+I+provide%2C+including+its+price+and+variants.+Write+a+clear+description+using+only+those+details+and+flag+anything+missing+before+launch.>)
 
   * ### Identify stock gaps
 
 Find product variants running low at each store location.
 
-Shopify Check stock for the product I name across all locations. List variants with fewer than five units and prioritize the locations that need attention.
+![](https://files.openai.com/content?id=file_00000000f0cc81f597371a9ec614d0ca&cdn=1&cp=pi&ma=32227200&ts=0&p=pi&cid=8&sig=847f6ee018969c1c8e79881f605d40d20da7035a4ebfbde8aed6739542050c9b&v=0)Shopify Check stock for the product I name across all locations. List variants with fewer than five units and prioritize the locations that need attention.
 
-[(opens in a new window)](<https://chatgpt.com/?q=Shopify+Check+stock+for+the+product+I+name+across+all+locations.+List+variants+with+fewer+than+five+units+and+prioritize+the+locations+that+need+attention.>)
+[(opens in a new window)](<https://chatgpt.com/?q=%40Shopify+Check+stock+for+the+product+I+name+across+all+locations.+List+variants+with+fewer+than+five+units+and+prioritize+the+locations+that+need+attention.>)
 
 
 
@@ -109,6 +109,16 @@ Shopify Check stock for the product I name across all locations. List variants w
 ### [Plugin supportLearn more](<https://help.shopify.com>)
 
 ### [Privacy policyLearn more](<https://www.shopify.com/legal/privacy>)
+
+## Add plugins in a few clicks
+
+Availability depends on the plugin, your plan, and workspace settings. Some connections require admin setup or approval. Contact your workspace admin if access is blocked.
+
+[View the setup guide](<https://learn.chatgpt.com/docs/plugins>)
+
+## Explore related plugins
+
+[![](https://files.openai.com/content?id=file_00000000191081f79dfeddb7b502b1bf&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=3e3f6f7a793416cd9a93e61c94c2bd4631dd37631f592d4e774aa254e2b1c9b7&v=0)![](https://files.openai.com/content?id=file_00000000191081f79dfeddb7b502b1bf&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=3e3f6f7a793416cd9a93e61c94c2bd4631dd37631f592d4e774aa254e2b1c9b7&v=0)SalesPrepare account work and customer follow-up.](</business/plugins/sales/>)[![](https://files.openai.com/content?id=file_00000000bdb4720caff269fd259bbdff&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=20268aaf4f0c92265b5b4945d13a456968c0e1a5013b3be043a94650a9b37e03&v=0)![](https://files.openai.com/content?id=file_00000000bdb4720caff269fd259bbdff&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=20268aaf4f0c92265b5b4945d13a456968c0e1a5013b3be043a94650a9b37e03&v=0)Creative ProductionUse the Creative Production plugin in ChatGPT to create, adapt, and review marketing assets, campaign concepts, ads, and launch creative.](</business/plugins/creative-production/>)[![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)DataTurn data into clear decisions.](</business/plugins/data/>)[![](https://files.openai.com/content?id=file_00000000679472069fa7c35ce5919579&cdn=1&cp=pi&ma=32140800&ts=0&p=pi&cid=8&sig=38636a046f717091f234b4cacc5910c1314058595218bebbe09a395bf5f680c1&v=0)![](https://files.openai.com/content?id=file_00000000679472069fa7c35ce5919579&cdn=1&cp=pi&ma=32140800&ts=0&p=pi&cid=8&sig=38636a046f717091f234b4cacc5910c1314058595218bebbe09a395bf5f680c1&v=0)StripeUse the Stripe plugin for ChatGPT to analyze live revenue, customers, subscriptions, disputes, and refunds, and build payment integrations.](</business/plugins/stripe/>)[![](https://files.openai.com/content?id=file_000000001c74722fbf559d66b947677a&cdn=1&cp=pi&ma=30758400&ts=0&p=pi&cid=1&sig=c3949f45a99526b86e23253607118e8e4a255ccfa0d5b10d2a7e57c92d57e295&v=0)![](https://files.openai.com/content?id=file_0000000058f881f79ad4d119015bfa7c&cdn=1&cp=pi&ma=32659200&ts=0&p=pi&cid=8&sig=7ad389ade1c1fb108f1aa27b3c107e33432079c726d59206f69159c7d103502d&v=0)KlaviyoUse the Klaviyo plugin to review campaign and flow performance, compare marketing results over time, and summarize supported marketing data.](</business/plugins/klaviyo/>)[![](https://files.openai.com/content?id=file_00000000649881f78407f95b8ef708d5&cdn=1&cp=pi&ma=32659200&ts=0&p=pi&cid=8&sig=0bd3c0fdb82a0a8da2c99a9e4b526f0f84728962fd7637ee5423661fb7ef4db7&v=0)![](https://files.openai.com/content?id=file_00000000649881f78407f95b8ef708d5&cdn=1&cp=pi&ma=32659200&ts=0&p=pi&cid=8&sig=0bd3c0fdb82a0a8da2c99a9e4b526f0f84728962fd7637ee5423661fb7ef4db7&v=0)Intuit QuickBooksBusiness finances made simple](</business/plugins/quickbooks/>)
 
 ## Get started with plugins
 
@@ -221,3 +231,21 @@ Terms & Policies
 OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
+
+### 1Find a plugin1Find a plugin
+
+Browse for plugins that support your team’s tools and tasks.
+
+![ChatGPT plugin directory showing Google Drive, Slack, and Google Calendar.](https://images.ctfassets.net/kftzwdyauwt9/6yJgeQSCr32uzNSynka2cc/f5da877c4684cb18ecb9babf62723e2b/1.png?w=3840&q=90&fm=webp)
+
+### 2Install and connect2Install and connect
+
+Install the plugin, then follow the prompts to review permissions and connect any required apps.
+
+![Select the add button to install the Gmail plugin.](https://images.ctfassets.net/kftzwdyauwt9/7gNt7Pk3s8Mf0ql8JAedDS/c533bb5268aef1bed2ef56d5f5ccb06f/2.png?w=3840&q=90&fm=webp)
+
+### 3Put it to work3Put it to work
+
+Start a new chat in ChatGPT Work or Codex, describe the result you need, and ask it to use plugins.
+
+![Ask ChatGPT to prepare a meeting brief using Google Calendar, Gmail, and Slack.](https://images.ctfassets.net/kftzwdyauwt9/tQaC60CeLrMeEalZJnAwl/b4419ccddbaed0103124a22854097e81/3.png?w=3840&q=90&fm=webp)

@@ -60,25 +60,25 @@ Connect AI to your knowledge base to find answers, draft docs, and keep project 
 
 Run semantic search across pages and connected tools to pull relevant context for briefs, QBRs, or incident reviews, reducing time spent searching for information and repeated questions.
 
-Notion Find the latest decision on pricing for [project] and summarize it with the supporting page links.
+![](https://files.openai.com/content?id=file_0000000035e081f78f1775acc52fc7e9&cdn=1&cp=pi&ma=32227200&ts=0&p=pi&cid=8&sig=70a4ffd53544abaed2c5f9108261ce67b893313dde6b5fb3d1c02e93d83ecfcc&v=0)Notion Find the latest decision on pricing for [project] and summarize it with the supporting page links.
 
-[(opens in a new window)](<https://chatgpt.com/?q=Notion+Find+the+latest+decision+on+pricing+for+%5Bproject%5D+and+summarize+it+with+the+supporting+page+links.>)
+[(opens in a new window)](<https://chatgpt.com/?q=%40Notion+Find+the+latest+decision+on+pricing+for+%5Bproject%5D+and+summarize+it+with+the+supporting+page+links.>)
 
   * ### Keep docs and wikis current
 
 Create meeting notes, FAQs, and status updates from prompts, then update pages and properties as work changes so teams maintain accurate information in a single source of truth.
 
-Notion Audit our top product docs for outdated info and give me a punch list of pages that should be updated first.
+![](https://files.openai.com/content?id=file_0000000035e081f78f1775acc52fc7e9&cdn=1&cp=pi&ma=32227200&ts=0&p=pi&cid=8&sig=70a4ffd53544abaed2c5f9108261ce67b893313dde6b5fb3d1c02e93d83ecfcc&v=0)Notion Audit our top product docs for outdated info and give me a punch list of pages that should be updated first.
 
-[(opens in a new window)](<https://chatgpt.com/?q=Notion+Audit+our+top+product+docs+for+outdated+info+and+give+me+a+punch+list+of+pages+that+should+be+updated+first.>)
+[(opens in a new window)](<https://chatgpt.com/?q=%40Notion+Audit+our+top+product+docs+for+outdated+info+and+give+me+a+punch+list+of+pages+that+should+be+updated+first.>)
 
   * ### Automate project tracking in databases
 
 Create or update databases for roadmaps, risks, and action items, and move or duplicate pages for new cycles to help operations teams keep reporting accurate without extra work.
 
-Notion Create a roadmap database with properties for owner, status, quarter, and risk then populate it from this list of initiatives.
+![](https://files.openai.com/content?id=file_0000000035e081f78f1775acc52fc7e9&cdn=1&cp=pi&ma=32227200&ts=0&p=pi&cid=8&sig=70a4ffd53544abaed2c5f9108261ce67b893313dde6b5fb3d1c02e93d83ecfcc&v=0)Notion Create a roadmap database with properties for owner, status, quarter, and risk then populate it from this list of initiatives.
 
-[(opens in a new window)](<https://chatgpt.com/?q=Notion+Create+a+roadmap+database+with+properties+for+owner%2C+status%2C+quarter%2C+and+risk+then+populate+it+from+this+list+of+initiatives.>)
+[(opens in a new window)](<https://chatgpt.com/?q=%40Notion+Create+a+roadmap+database+with+properties+for+owner%2C+status%2C+quarter%2C+and+risk+then+populate+it+from+this+list+of+initiatives.>)
 
 
 
@@ -107,6 +107,16 @@ Notion Create a roadmap database with properties for owner, status, quarter, and
 ### [Plugin supportLearn more](<https://www.notion.so/help>)
 
 ### [Privacy policyLearn more](<https://www.notion.so/privacy>)
+
+## Add plugins in a few clicks
+
+Availability depends on the plugin, your plan, and workspace settings. Some connections require admin setup or approval. Contact your workspace admin if access is blocked.
+
+[View the setup guide](<https://learn.chatgpt.com/docs/plugins>)
+
+## Explore related plugins
+
+[![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)Product DesignTurn product ideas into designs and research artifacts.](</business/plugins/product-design/>)[![](https://files.openai.com/content?id=file_00000000191081f79dfeddb7b502b1bf&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=3e3f6f7a793416cd9a93e61c94c2bd4631dd37631f592d4e774aa254e2b1c9b7&v=0)![](https://files.openai.com/content?id=file_00000000191081f79dfeddb7b502b1bf&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=3e3f6f7a793416cd9a93e61c94c2bd4631dd37631f592d4e774aa254e2b1c9b7&v=0)SalesPrepare account work and customer follow-up.](</business/plugins/sales/>)[![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)DataTurn data into clear decisions.](</business/plugins/data/>)[![](https://files.openai.com/content?id=file_0000000021547230b7f5dfd4accb4de5&cdn=1&cp=pi&ma=31190400&ts=0&p=pi&cid=1&sig=dea02d9468c390a41124840b9b7cd6f54576f35b34b1ffe98d4ae90668efa963&v=0)![](https://files.openai.com/content?id=file_0000000021547230b7f5dfd4accb4de5&cdn=1&cp=pi&ma=31190400&ts=0&p=pi&cid=1&sig=dea02d9468c390a41124840b9b7cd6f54576f35b34b1ffe98d4ae90668efa963&v=0)LinearFind and reference issues and projects.](</business/plugins/linear/>)[![](https://files.openai.com/content?id=file_00000000994081fd9df560367dfe54f4&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=8&sig=55e9028947fbc7ea3284b715ca95e34f797efbc5c4e0e47a9b2b0509d787308d&v=0)![](https://files.openai.com/content?id=file_00000000994081fd9df560367dfe54f4&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=8&sig=55e9028947fbc7ea3284b715ca95e34f797efbc5c4e0e47a9b2b0509d787308d&v=0)SlackLook up chats and messages.](</business/plugins/slack/>)[![](https://files.openai.com/content?id=file_00000000a9a081f78752dfef864b2597&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=18fa18d4c839a23ca63639259d332c2f50d433faa731d9b7755f08c333b78e47&v=0)![](https://files.openai.com/content?id=file_00000000a9a081f78752dfef864b2597&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=18fa18d4c839a23ca63639259d332c2f50d433faa731d9b7755f08c333b78e47&v=0)Google DriveSearch and reference files from your Drive.](</business/plugins/google-drive/>)
 
 ## Get started with plugins
 
@@ -219,3 +229,21 @@ Terms & Policies
 OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
+
+### 1Find a plugin1Find a plugin
+
+Browse for plugins that support your team’s tools and tasks.
+
+![ChatGPT plugin directory showing Google Drive, Slack, and Google Calendar.](https://images.ctfassets.net/kftzwdyauwt9/6yJgeQSCr32uzNSynka2cc/f5da877c4684cb18ecb9babf62723e2b/1.png?w=3840&q=90&fm=webp)
+
+### 2Install and connect2Install and connect
+
+Install the plugin, then follow the prompts to review permissions and connect any required apps.
+
+![Select the add button to install the Gmail plugin.](https://images.ctfassets.net/kftzwdyauwt9/7gNt7Pk3s8Mf0ql8JAedDS/c533bb5268aef1bed2ef56d5f5ccb06f/2.png?w=3840&q=90&fm=webp)
+
+### 3Put it to work3Put it to work
+
+Start a new chat in ChatGPT Work or Codex, describe the result you need, and ask it to use plugins.
+
+![Ask ChatGPT to prepare a meeting brief using Google Calendar, Gmail, and Slack.](https://images.ctfassets.net/kftzwdyauwt9/tQaC60CeLrMeEalZJnAwl/b4419ccddbaed0103124a22854097e81/3.png?w=3840&q=90&fm=webp)

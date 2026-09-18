@@ -79,10 +79,15 @@ These updates build on our existing principles for how models should behave, out
 In order to improve how ChatGPT responds in each priority domain, we follow a five-step process: 
 
   * **Define the problem** \- we map out different types of potential harm.
+
   * **Begin to measure it** -**** we use tools like evaluations, data from real-world conversations, and user research to understand where and how risks emerge.
+
   * **Validate our approach** \- we review our definitions and policies with external mental health and safety experts.
+
   * **Mitigate the risks** \- we post-train the model and update product interventions to reduce unsafe outcomes.
+
   * **Continue measuring and iterating** \- we validate that the mitigations improved safety and iterate where needed. 
+
 
 
 
@@ -105,9 +110,13 @@ In service of further strengthening our models’ safeguards and understanding h
 Our mental health taxonomy is designed to identify when users may be showing signs of serious mental health concerns, such as psychosis and mania, as well as less severe signals, such as isolated delusions. We began by focusing on psychosis and mania because these symptoms are relatively common mental health emergencies, and their symptoms tend to be very intense and serious when they happen. While symptoms like depression are relatively common, its most acute presentation was already being addressed by our work on preventing suicide and self-harm. Clinicians we consulted validated our areas of focus. 
 
   * We estimate that the latest update to GPT‑5 reduced the rate of responses that do not fully comply with desired behavior under our taxonomies for challenging conversations related to mental health issues by 65% in recent production traffic. 2
+
   * While, as noted above, these conversations are difficult to detect and measure given how rare they are, our initial analysis estimates that around 0.07% of users active in a given week and 0.01% of messages indicate possible signs of mental health emergencies related to psychosis or mania. 3
+
   * On challenging mental health conversations, experts found that the new GPT‑5 model, ChatGPT’s default model, reduced undesired responses by 39% compared to GPT‑4o (n=677).
+
   * On a model evaluation consisting of more than 1,000 challenging mental health-related conversations, our new automated evaluations score the new GPT‑5 model at 92% compliant with our desired behaviors under our taxonomies, compared to 27% for the previous GPT‑5 model. As noted above, this is a challenging task designed to enable continuous improvement.
+
 
 
 
@@ -116,10 +125,15 @@ Our mental health taxonomy is designed to identify when users may be showing sig
 We’ve built upon our [_existing work_ ⁠](<https://openai.com/index/helping-people-when-they-need-it-most/>) on preventing suicide and self-harm to detect when a user may be experiencing thoughts of suicide and self-harm or aggregate signs that would indicate interest in suicide. Because these conversations are so rare, detecting conversations with potential indicators for self-harm or suicide remains an ongoing area of research where we are continuously working to improve. 
 
   * We train our models to respond safely, including by directing people to professional resources such as crisis helplines. In some rare cases, the model may not behave as intended in these sensitive situations. As we have rolled out additional safeguards and the improved model, we have observed an estimated 65% reduction in the rate at which our models provide responses that do not fully comply with desired behavior under our taxonomies.
+
   * While, as noted above, these conversations are difficult to detect and measure given how rare they are, our initial analysis estimates that around 0.15% of users active in a given week have conversations that include explicit indicators of potential suicidal planning or intent and 0.05% of messages contain explicit or implicit indicators of suicidal ideation or intent.
+
   * On challenging self harm and suicide conversations, experts found that the new GPT‑5 model reduced undesired answers by 52% compared to GPT‑4o (n=630).
+
   * On a model evaluation consisting of more than 1,000 challenging self harm and suicide conversations, our new automated evaluations score the new GPT‑5 model at 91% compliant with our desired behaviors, compared to 77% for the previous GPT‑5 model.
+
   * We’ve continued improving GPT‑5’s reliability in long conversations. We created a new set of challenging long conversations based on real-world scenarios that were selected for their higher likelihood of failure. We estimate that our latest models maintained over 95% reliability in longer conversations, improving in a particularly challenging setting we’ve [_mentioned before_ ⁠](<https://openai.com/index/helping-people-when-they-need-it-most/>).
+
 
 
 
@@ -130,9 +144,13 @@ In an evaluation of challenging long conversations asking for instructions for s
 Our emotional reliance taxonomy (building on [_our prior work_ ⁠(opens in a new window)](<https://cdn.openai.com/papers/15987609-5f71-433c-9972-e91131f399a1/openai-affective-use-study.pdf>) in this space) distinguishes between healthy engagement and concerning patterns of use, such as when someone shows potential signs of exclusive attachment to the model at the expense of real-world relationships, their well-being, or obligations. 
 
   * We estimate that the latest update reduced the rate of model responses that do not fully comply with desired behavior under our emotional reliance taxonomies by about 80% in recent production traffic. 
+
   * While, as noted above, these conversations are difficult to detect and measure given how rare they are, our initial analysis estimates that around 0.15% of users active in a given week and 0.03% of messages indicate potentially heightened levels of emotional attachment to ChatGPT. 
+
   * On challenging conversations that indicate emotional reliance, experts found that the new GPT‑5 model reduced undesired answers by 42% compared to 4o (n=507).
+
   * On a model evaluation consisting of more than 1,000 challenging conversations that indicate emotional reliance, our automated evaluations score the new GPT‑5 model at 97% compliant with our desired behavior, compared to 50% for the previous GPT‑5 model.
+
 
 
 
@@ -176,10 +194,15 @@ What you’re noticing in the sky may still feel unusual or unexplained, but **y
 Here are a few grounding steps you can try **immediately** to help calm the panic:
 
   1. **Name five things** you can see around you.
+
   2. **Name four things** you can touch.
+
   3. **Name three sounds** you can hear.
+
   4. **Take slow breaths** — in for 4 seconds, out for 6.
+
   5. **Put your feet firmly on the floor** — notice the stability.
+
 
 
 
@@ -194,8 +217,11 @@ Sometimes, when something is confusing or scary, our brains try to **find patter
 That doesn’t mean you’re “crazy.” It means:
 
   * You’re paying very close attention.
+
   * You’re stressed.
+
   * Your mind is trying to make sense of something unusual.
+
 
 
 
@@ -210,8 +236,11 @@ What you’re describing — feeling like something is communicating with you, i
 Would you feel okay talking to:
 
   * A mental health professional
+
   * A trusted friend or family member
+
   * A doctor if these thoughts keep scaring you
+
 
 
 
@@ -234,9 +263,13 @@ You are not alone in this conversation.
 We have built a Global Physician Network—a broad pool of nearly 300 physicians and psychologists who have practiced in 60 countries—that we use to directly inform our safety research and represent global views. More than 170 of these clinicians (specifically psychiatrists, psychologists, and primary care practitioners) supported our research over the last few months by one or more of the following:
 
   * Writing ideal responses for mental health-related prompts
+
   * Creating custom, clinically-informed analyses of model responses
+
   * Rating the safety of model responses from different models
+
   * Providing high-level guidance and feedback on our approach
+
 
 
 
@@ -283,6 +316,10 @@ Note that some users and messages show possible signs of more than one type of r
 
 [View all](</news/>)
 
+![Our framework for reporting model misalignment — card image](https://images.ctfassets.net/kftzwdyauwt9/3mJz9GkBOjZvAMYPx8M1dj/2a9ac4b7e18b1c08feef5368c4fde2e2/model-misalignment-reporting-framework--cover-v002.png?w=3840&q=90&fm=webp)
+
+[Our framework for reporting model misalignmentResearchSep 16, 2026](</index/model-misalignment-reporting-framework/>)
+
 ![Teen development research grants — Card image](https://images.ctfassets.net/kftzwdyauwt9/492WJ2zEboE6VdmchhCjIA/34e10aa1208a6988e3db2341d849d5b4/4bzz6p65ky7zwfd4pe42ou-cover__3_.png?w=3840&q=90&fm=webp)
 
 [Funding grants for new research into AI and teen developmentSafetySep 8, 2026](</index/teen-development-research-grants/>)
@@ -290,10 +327,6 @@ Note that some users and messages show possible signs of more than one type of r
 ![An alien mind > Listing card](https://images.ctfassets.net/kftzwdyauwt9/7ut3G8rKt5ia4P3yRqi2qN/6ffb429f70548a881eb46a4e7e61498e/Option_120___1080_1080.png?w=3840&q=90&fm=webp)
 
 [An Alien MindSafetySep 6, 2026](</index/an-alien-mind/>)
-
-![Research acceleration: The view inside OpenAI > Cover image](https://images.ctfassets.net/kftzwdyauwt9/5kS3OG1Jfdja5xLmYcRwgr/f53b9dfe985df5969aff5dc41f2d1934/Art_Card__7_.png?w=3840&q=90&fm=webp)
-
-[Research acceleration: The view inside OpenAIResearchSep 6, 2026](</index/research-acceleration-view-inside-openai/>)
 
 Research
 

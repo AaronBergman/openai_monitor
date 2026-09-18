@@ -37,7 +37,7 @@ Search and reference your documents.
 [Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_695bfc98071c8191bac7bc479aa27de7>)[Contact sales](</contact-sales/>)
 
 Category
-    [Productivity](</business/plugins/?tab=plugins-productivity>)
+    [Operations](</business/plugins/?tab=plugins-operations>)
 
 Developer
     Box
@@ -45,7 +45,7 @@ Developer
 Website
     [(opens in a new window)](<https://www.box.com/home>)
 
-[![](https://files.openai.com/content?id=file_00000000f2dc81f78bf30509052978b6&cdn=1&cp=pi&ma=30240000&ts=0&p=pi&cid=8&sig=acdb1451e132ccfb4725fb76a774dc395606b11d488ef1d5b5f5df0104dede16&v=0)Box Find the contract's termination for convenience clause and quote it with a file reference for Legal to verify(opens in a new window)](<https://chatgpt.com/?prompt=%40Box+Find+the+contract%27s+termination+for+convenience+clause+and+quote+it+with+a+file+reference+for+Legal+to+verify>)[![](https://files.openai.com/content?id=file_00000000f2dc81f78bf30509052978b6&cdn=1&cp=pi&ma=30240000&ts=0&p=pi&cid=8&sig=acdb1451e132ccfb4725fb76a774dc395606b11d488ef1d5b5f5df0104dede16&v=0)Box Turn these docs into a clean onboarding guide for new analysts, with an actionable checklist for week 1(opens in a new window)](<https://chatgpt.com/?prompt=%40Box+Turn+these+docs+into+a+clean+onboarding+guide+for+new+analysts%2C+with+an+actionable+checklist+for+week+1>)[![](https://files.openai.com/content?id=file_00000000f2dc81f78bf30509052978b6&cdn=1&cp=pi&ma=30240000&ts=0&p=pi&cid=8&sig=acdb1451e132ccfb4725fb76a774dc395606b11d488ef1d5b5f5df0104dede16&v=0)Box Combine research docs, support summaries, and specs in [folder] into a single synthesis with themes and evidence for each(opens in a new window)](<https://chatgpt.com/?prompt=%40Box+Combine+research+docs%2C+support+summaries%2C+and+specs+in+%5Bfolder%5D+into+a+single+synthesis+with+themes+and+evidence+for+each>)
+[![](https://files.openai.com/content?id=file_000000003dec71f58ea31d11943374ac&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=1&sig=74ea60b3dccd88f76296af895d81de15f4ed38ee02b05e86001f9ee5e0091c6d&v=0)![](https://files.openai.com/content?id=file_000000003dec71f58ea31d11943374ac&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=1&sig=74ea60b3dccd88f76296af895d81de15f4ed38ee02b05e86001f9ee5e0091c6d&v=0)Box Preview the ACME Sales pitch(opens in a new window)](<https://chatgpt.com/?prompt=%40Box+Preview+the+ACME+Sales+pitch>)[![](https://files.openai.com/content?id=file_000000003dec71f58ea31d11943374ac&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=1&sig=74ea60b3dccd88f76296af895d81de15f4ed38ee02b05e86001f9ee5e0091c6d&v=0)![](https://files.openai.com/content?id=file_000000003dec71f58ea31d11943374ac&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=1&sig=74ea60b3dccd88f76296af895d81de15f4ed38ee02b05e86001f9ee5e0091c6d&v=0)Box Extract metadata from Techbridge invoice(opens in a new window)](<https://chatgpt.com/?prompt=%40Box+Extract+metadata+from+Techbridge+invoice>)[![](https://files.openai.com/content?id=file_000000003dec71f58ea31d11943374ac&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=1&sig=74ea60b3dccd88f76296af895d81de15f4ed38ee02b05e86001f9ee5e0091c6d&v=0)![](https://files.openai.com/content?id=file_000000003dec71f58ea31d11943374ac&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=1&sig=74ea60b3dccd88f76296af895d81de15f4ed38ee02b05e86001f9ee5e0091c6d&v=0)Box Summarize the ACME Hub(opens in a new window)](<https://chatgpt.com/?prompt=%40Box+Summarize+the+ACME+Hub>)
 
 ## How it works
 
@@ -57,25 +57,25 @@ Work with documents, spreadsheets, and presentations stored in Box to create con
 
 Summarize a policy pack or QBR deck and generate a 1-page brief with risks, owners, and next steps, reducing preparation time for reviews and executive updates.
 
-Box Summarize the ACME Hub
+![](https://files.openai.com/content?id=file_000000003dec71f58ea31d11943374ac&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=1&sig=74ea60b3dccd88f76296af895d81de15f4ed38ee02b05e86001f9ee5e0091c6d&v=0)![](https://files.openai.com/content?id=file_000000003dec71f58ea31d11943374ac&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=1&sig=74ea60b3dccd88f76296af895d81de15f4ed38ee02b05e86001f9ee5e0091c6d&v=0)Box Summarize the ACME Hub
 
-[(opens in a new window)](<https://chatgpt.com/?q=Box+Summarize+the+ACME+Hub>)
+[(opens in a new window)](<https://chatgpt.com/?q=%40Box+Summarize+the+ACME+Hub>)
 
   * ### Synthesize knowledge across projects
 
 Combine research decks, support summaries, and specs into one report with clear themes and evidence, helping product and CX teams prioritize fixes and align messaging faster.
 
-Box Combine research docs, support summaries, and specs in [folder] into a single synthesis with themes and evidence for each.
+![](https://files.openai.com/content?id=file_000000003dec71f58ea31d11943374ac&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=1&sig=74ea60b3dccd88f76296af895d81de15f4ed38ee02b05e86001f9ee5e0091c6d&v=0)![](https://files.openai.com/content?id=file_000000003dec71f58ea31d11943374ac&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=1&sig=74ea60b3dccd88f76296af895d81de15f4ed38ee02b05e86001f9ee5e0091c6d&v=0)Box Combine research docs, support summaries, and specs in [folder] into a single synthesis with themes and evidence for each.
 
-[(opens in a new window)](<https://chatgpt.com/?q=Box+Combine+research+docs%2C+support+summaries%2C+and+specs+in+%5Bfolder%5D+into+a+single+synthesis+with+themes+and+evidence+for+each.>)
+[(opens in a new window)](<https://chatgpt.com/?q=%40Box+Combine+research+docs%2C+support+summaries%2C+and+specs+in+%5Bfolder%5D+into+a+single+synthesis+with+themes+and+evidence+for+each.>)
 
   * ### Find exact answers with sources
 
 Ask where a metric, clause, or decision appears, and get the relevant passages and file links so stakeholders can verify details quickly and avoid duplicated work.
 
-Box Search for where the contract mentions termination for convenience and paste the clause with the file reference so Legal can verify.
+![](https://files.openai.com/content?id=file_000000003dec71f58ea31d11943374ac&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=1&sig=74ea60b3dccd88f76296af895d81de15f4ed38ee02b05e86001f9ee5e0091c6d&v=0)![](https://files.openai.com/content?id=file_000000003dec71f58ea31d11943374ac&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=1&sig=74ea60b3dccd88f76296af895d81de15f4ed38ee02b05e86001f9ee5e0091c6d&v=0)Box Search for where the contract mentions termination for convenience and paste the clause with the file reference so Legal can verify.
 
-[(opens in a new window)](<https://chatgpt.com/?q=Box+Search+for+where+the+contract+mentions+termination+for+convenience+and+paste+the+clause+with+the+file+reference+so+Legal+can+verify.>)
+[(opens in a new window)](<https://chatgpt.com/?q=%40Box+Search+for+where+the+contract+mentions+termination+for+convenience+and+paste+the+clause+with+the+file+reference+so+Legal+can+verify.>)
 
 
 
@@ -88,6 +88,16 @@ Box Search for where the contract mentions termination for convenience and paste
 
 
 
+### Skills
+
+  * box
+  * box-legal-workflows-contract
+  * box-legal-workflows-intake
+  * box-legal-workflows-ma
+  * box-legal-workflows-ocg
+
+
+
 ## Resources
 
 ### [Help centerLearn more](<https://help.openai.com/en/articles/12368225-box-connector>)
@@ -95,6 +105,16 @@ Box Search for where the contract mentions termination for convenience and paste
 ### [Plugin supportLearn more](<https://support.box.com/>)
 
 ### [Privacy policyLearn more](<https://www.box.com/legal/privacy>)
+
+## Add plugins in a few clicks
+
+Availability depends on the plugin, your plan, and workspace settings. Some connections require admin setup or approval. Contact your workspace admin if access is blocked.
+
+[View the setup guide](<https://learn.chatgpt.com/docs/plugins>)
+
+## Explore related plugins
+
+[![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)DataTurn data into clear decisions.](</business/plugins/data/>)[![](https://files.openai.com/content?id=file_00000000191081f79dfeddb7b502b1bf&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=3e3f6f7a793416cd9a93e61c94c2bd4631dd37631f592d4e774aa254e2b1c9b7&v=0)![](https://files.openai.com/content?id=file_00000000191081f79dfeddb7b502b1bf&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=3e3f6f7a793416cd9a93e61c94c2bd4631dd37631f592d4e774aa254e2b1c9b7&v=0)SalesPrepare account work and customer follow-up.](</business/plugins/sales/>)[![](https://files.openai.com/content?id=file_00000000e4a8720c9b8cba8aaa6e4f70&cdn=1&cp=pi&ma=30672000&ts=0&p=pi&cid=1&sig=d35f6f0a310b11e0360584d048c93f8d76adf2e2f59543a08c73b34c7e02721f&v=0)![](https://files.openai.com/content?id=file_00000000e4a8720c9b8cba8aaa6e4f70&cdn=1&cp=pi&ma=30672000&ts=0&p=pi&cid=1&sig=d35f6f0a310b11e0360584d048c93f8d76adf2e2f59543a08c73b34c7e02721f&v=0)Investment BankingBuild banking analysis and client-ready materials.](</business/plugins/investment-banking/>)[![](https://files.openai.com/content?id=file_000000000c1871f5a6cfddb62a46e9de&cdn=1&cp=pi&ma=31363200&ts=0&p=pi&cid=1&sig=81b62307ba341b02656de1a8a775263b1126c5aa1801f5f51ac5b3da3cb40a2c&v=0)![](https://files.openai.com/content?id=file_00000000551481f5a345351199fc73fd&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=d24c1524f8efa98e3db5084e8f55ca134b1ac198deddaffc355a1df03b180092&v=0)Adobe AcrobatEdit and organize PDFs easily.](</business/plugins/adobe-acrobat/>)[![](https://files.openai.com/content?id=file_000000006e70720e8240729562593f87&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=881a44cfa311712291121e9cda4ef4b8d7fef216108a65296a5898c02d91507e&v=0)![](https://files.openai.com/content?id=file_00000000042c720882209039c0de8dbb&cdn=1&cp=pi&ma=31881600&ts=0&p=pi&cid=8&sig=6488ddb504fdc95531899e70229555079be3267f213ba9f836a0a92bc39864a8&v=0)DocusignManage contracts from ChatGPT](</business/plugins/docusign/>)[![](https://files.openai.com/content?id=file_00000000994081fd9df560367dfe54f4&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=8&sig=55e9028947fbc7ea3284b715ca95e34f797efbc5c4e0e47a9b2b0509d787308d&v=0)![](https://files.openai.com/content?id=file_00000000994081fd9df560367dfe54f4&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=8&sig=55e9028947fbc7ea3284b715ca95e34f797efbc5c4e0e47a9b2b0509d787308d&v=0)SlackLook up chats and messages.](</business/plugins/slack/>)
 
 ## Get started with plugins
 
@@ -207,3 +227,21 @@ Terms & Policies
 OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
+
+### 1Find a plugin1Find a plugin
+
+Browse for plugins that support your team’s tools and tasks.
+
+![ChatGPT plugin directory showing Google Drive, Slack, and Google Calendar.](https://images.ctfassets.net/kftzwdyauwt9/6yJgeQSCr32uzNSynka2cc/f5da877c4684cb18ecb9babf62723e2b/1.png?w=3840&q=90&fm=webp)
+
+### 2Install and connect2Install and connect
+
+Install the plugin, then follow the prompts to review permissions and connect any required apps.
+
+![Select the add button to install the Gmail plugin.](https://images.ctfassets.net/kftzwdyauwt9/7gNt7Pk3s8Mf0ql8JAedDS/c533bb5268aef1bed2ef56d5f5ccb06f/2.png?w=3840&q=90&fm=webp)
+
+### 3Put it to work3Put it to work
+
+Start a new chat in ChatGPT Work or Codex, describe the result you need, and ask it to use plugins.
+
+![Ask ChatGPT to prepare a meeting brief using Google Calendar, Gmail, and Slack.](https://images.ctfassets.net/kftzwdyauwt9/tQaC60CeLrMeEalZJnAwl/b4419ccddbaed0103124a22854097e81/3.png?w=3840&q=90&fm=webp)

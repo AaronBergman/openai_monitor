@@ -55,8 +55,11 @@ We are scaling up our Trusted Access for Cyber (TAC) program to thousands of ver
 The progressive use of AI accelerates defenders – those responsible for keeping systems, data, and users safe – enabling them to find and fix problems faster in the digital infrastructure everyone relies on. Similarly, AI is being [_used_ ⁠](<https://openai.com/global-affairs/disrupting-malicious-uses-of-ai-october-2025/>) by attackers looking to cause harm. We’ve been preparing for this. Since 2023, we’ve supported defenders through our [_Cybersecurity Grant Program_ ⁠](<https://openai.com/index/openai-cybersecurity-grant-program/>) and strengthened safeguards through our [_Preparedness Framework_ ⁠](<https://openai.com/index/updating-our-preparedness-framework/>). The same year, we started evaluating our models' cyber capabilities, and in 2025, we began including [_cyber-specific safeguards_ ⁠(opens in a new window)](<https://deploymentsafety.openai.com/gpt-5-3-codex/cybersecurity>) in our [_model deployments_ ⁠](<https://openai.com/index/introducing-gpt-5-2/>). Earlier this year, we furthered our support for defenders with the launch of [_Codex Security_ ⁠](<https://openai.com/index/codex-security-now-in-research-preview/>) to identify and fix vulnerabilities at scale. Our approach to this continuous advancement of capabilities is guided by three principles:
 
   * **Democratized access:** Our goal is to make these tools as widely available as possible while preventing misuse. We design mechanisms which avoid arbitrarily deciding who gets access for legitimate use and who doesn’t. That means using clear, objective criteria and methods – such as strong KYC and identity verification – to guide [_who can access_ ⁠](<https://openai.com/index/trusted-access-for-cyber/>) more advanced capabilities and automating these processes over time. Ultimately, we aim to make advanced defensive capabilities available to legitimate actors large and small, including those responsible for protecting critical infrastructure, public services, and the digital systems people depend on every day.
+
   * **Iterative deployment:** We learn the most by [_putting these systems into the world carefully_ ⁠](<https://openai.com/safety/how-we-think-about-safety-alignment/>) and improving them over time. As we better understand both their capabilities and risks, we update our models and safety systems accordingly. This includes understanding the differentiated benefits and risks of specific models, improving resilience to jailbreaks and other adversarial attacks, and improving defensive capabilities — while mitigating harms. 
+
   * **Investing in ecosystem resilience:** We support and accelerate the community of defenders through trusted access pathways, targeted [_grants_ ⁠](<https://openai.com/index/openai-cybersecurity-grant-program/>), contributions to [_open-source security initiatives_ ⁠(opens in a new window)](<https://www.linuxfoundation.org/press/linux-foundation-announces-12.5-million-in-grant-funding-from-leading-organizations-to-advance-open-source-security>), and technologies like [_Codex Security_ ⁠](<https://openai.com/index/codex-security-now-in-research-preview/>) that help defenders more rapidly find and patch vulnerabilities. 
+
 
 
 
@@ -66,16 +69,25 @@ For years, our cybersecurity strategy has been to invest in research, prevent mi
 
   * **Cyber risk is already here and accelerating, but we can act.** Digital infrastructure has already [_been vulnerable_ ⁠(opens in a new window)](<https://www.cisa.gov/news-events/alerts/2017/05/12/indicators-associated-wannacry-ransomware>) for years, before advanced AI even came along. Now, existing models can help find vulnerabilities, reason across codebases, and support meaningful parts of the cyber workflow, and threat actors are experimenting with novel AI-driven approaches. We’ve seen sophisticated harnesses elicit stronger and stronger capabilities by using more test-time compute with existing models. That means safeguards cannot wait for a single future threshold.  
 
+
   * **Expand access based on who is using these systems and how they’re being used.** Cyber capabilities are inherently dual-use, so risk isn’t defined by the model alone. It also depends on the user, the [_trust signals_ ⁠(opens in a new window)](<https://developers.openai.com/codex/concepts/cyber-safety>) around them, and the level of access they’re given.
+
     * Broad access to general models with safeguards can coexist with more granular controls for higher-risk capabilities, supported by stronger verification, clearer signals of intent, and better visibility into use.
+
     * To enable responsible use at scale, we need systems that can validate trustworthy users and use cases in more automated and more objective ways. This allows us to expand access based on evidence and real signals of trust, rather than relying on manual decisions. We don’t think it’s practical or appropriate to centrally decide who gets to defend themselves. Instead, we aim to enable as many legitimate defenders as possible, with access grounded in verification, trust signals, and accountability.  
 
+
   * **Defenses should be continually scaled with capability.** As model capabilities increase, defenses need to scale alongside them. We’ve seen steady improvements in agentic coding, which have direct implications for cybersecurity and we’ve adapted our approach in step.
+
     * We began cyber-specific safety training with GPT‑5.2, then expanded it with additional safeguards through GPT‑5.3‑Codex and GPT‑5.4, where we also classified the model as “high” cyber capability under our Preparedness Framework. In parallel, we increased support for defenders: launching a [_$10M Cybersecurity Grant Program_ ⁠](<https://openai.com/form/cybersecurity-grant-program/>), reached over 1,000 open source projects with [_Codex for Open Source_ ⁠(opens in a new window)](<https://developers.openai.com/community/codex-for-oss>) which provides free security scanning, and continued to improve Codex Security.
+
     * Codex Security, which launched in private beta six months ago, and as a research preview [_earlier this year_ ⁠](<https://openai.com/index/codex-security-now-in-research-preview/>), automatically monitors codebases, validates issues, and proposes fixes. As models have improved, so has the system’s precision and usefulness. Since the recent launch, Codex Security has contributed to over 3,000 critical and high fixed vulnerabilities, along with many more lower-severity fixed findings across the ecosystem.
+
     * Across these releases, we’ve also refined how models handle sensitive requests, calibrating refusal boundaries while expanding trusted access through programs like TAC.  
 
+
   * **Software development itself must be made more secure.** The strongest ecosystem is one that continuously identifies, validates, and fixes security issues as software is written. By integrating advanced coding models and agentic capabilities into developer workflows, we can give developers immediate, actionable feedback while they are building, shifting security from episodic audits and static bug inventories to ongoing, tangible risk reduction.  
+
 
 
 
@@ -91,7 +103,9 @@ Because this model is more permissive, we are starting with a limited, iterative
 Gaining access to TAC is straightforward:
 
   * Individual users can verify their identity at[ _chatgpt.com/cyber_ ⁠(opens in a new window)](<http://chatgpt.com/cyber>). 
+
   * Enterprises can [_request trusted access_ ⁠](<https://openai.com/form/enterprise-trusted-access-for-cyber/>) for their team through their OpenAI representative. 
+
 
 
 
@@ -115,15 +129,17 @@ OpenAI
 
 [View all](</news/>)
 
-[The Hugging Face incident and the road aheadSecurityAug 26, 2026](</index/hugging-face-incident-and-the-road-ahead/>)
+![Our framework for reporting model misalignment — card image](https://images.ctfassets.net/kftzwdyauwt9/3mJz9GkBOjZvAMYPx8M1dj/2a9ac4b7e18b1c08feef5368c4fde2e2/model-misalignment-reporting-framework--cover-v002.png?w=3840&q=90&fm=webp)
 
-![Our commitment to Zero Data Retention as AI advances — card](https://images.ctfassets.net/kftzwdyauwt9/6bPStWA6pc66cahnhg0jo6/61786b178401b6e902e9da65fa4da095/Blog_Thumbnail_-_OpenAI_Blog.png?w=3840&q=90&fm=webp)
+[Our framework for reporting model misalignmentResearchSep 16, 2026](</index/model-misalignment-reporting-framework/>)
 
-[Offering Zero Data Retention for frontier modelsCompanyAug 19, 2026](</index/offering-zero-data-retention-for-frontier-models/>)
+![Teen development research grants — Card image](https://images.ctfassets.net/kftzwdyauwt9/492WJ2zEboE6VdmchhCjIA/34e10aa1208a6988e3db2341d849d5b4/4bzz6p65ky7zwfd4pe42ou-cover__3_.png?w=3840&q=90&fm=webp)
 
-![ChatGPT for Teens — square card](https://images.ctfassets.net/kftzwdyauwt9/5IP7e1KeD8zkZq6YUrKdKW/2325215681ea59d32dd09b3ea90f12c5/Art_Card-TEENS-1x13x.png?w=3840&q=90&fm=webp)
+[Funding grants for new research into AI and teen developmentSafetySep 8, 2026](</index/teen-development-research-grants/>)
 
-[Introducing ChatGPT for TeensProductAug 18, 2026](</index/chatgpt-for-teens/>)
+![An alien mind > Listing card](https://images.ctfassets.net/kftzwdyauwt9/7ut3G8rKt5ia4P3yRqi2qN/6ffb429f70548a881eb46a4e7e61498e/Option_120___1080_1080.png?w=3840&q=90&fm=webp)
+
+[An Alien MindSafetySep 6, 2026](</index/an-alien-mind/>)
 
 Research
 
@@ -135,6 +151,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)

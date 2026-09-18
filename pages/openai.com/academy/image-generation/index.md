@@ -83,7 +83,9 @@ The best way to improve an image is usually through small, targeted revisions. S
 Examples of useful, actionable adjustments:
 
   * “Make it brighter,” “tone down the colors,” “simplify the background”
+
   * “Keep the same composition, but make the style more modern / softer / more playful”
+
 
 
 
@@ -104,9 +106,13 @@ When combining elements, use clear spatial language—such as left, right, foreg
 Text works best when instructions are very specific:
 
   * Put text in quotes or ALL CAPS
+
   * Specify font style, size, color, placement
+
   * Keep text short
+
   * For brand names/uncommon words, spell out letter-by-letter (e.g., “S-T-R-I-P-E”)
+
 
 
 
@@ -119,9 +125,13 @@ Infographics are useful for explainers, posters, labeled diagrams, timelines, an
 ## Additional considerations
 
   * **Be mindful with likenesses:** If generating images of real people (including yourself or others), use a reference photo for accuracy and make sure you have permission to use their likeness.
+
   * **Generic over specific:** When in doubt, request “generic” or “ownable” versions of a design rather than imitating a specific brand, product, or artwork.
+
   * **Attribution optional:** You aren’t required to credit OpenAI when using generated images, but you may do so if it helps clarify how the asset was created.
+
   * **Policy compliance:** All image use should follow your organization’s guidelines and [OpenAI’s usage policies⁠](<https://openai.com/policies/usage-policies/>).
+
 
 
 
@@ -135,17 +145,17 @@ Discover additional guides and resources to help you build practical AI skills.
 
 [View all](</news/>)
 
-![Academy > Projects > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/L0cSoOsBFybec07VSIDJw/27647c6494be7191e0e2168f5bf27044/projects.png?w=3840&q=90&fm=webp)
+![How data science teams use Codex > card image](https://images.ctfassets.net/kftzwdyauwt9/xyevYnp4Ptaa1eMgBDNjS/75fea80018f321b89809d893f1a5786d/data_science_teams.png?w=3840&q=90&fm=webp)
 
-[Using projects in ChatGPT | OpenAIOpenAI AcademyApr 10, 2026](</academy/projects/>)
+[How data science teams use ChatGPT Work | OpenAIOpenAI AcademyJul 14, 2026](</academy/chatgpt-work/how-data-science-teams-use-codex/>)
 
-![Academy > Custom GPTs > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/2UV4fI7a8z34VgwSmpgzy1/2b09c857ffda3696fec60cad6fb18b86/custom-gpts.png?w=3840&q=90&fm=webp)
+![How sales teams use Codex > card image](https://images.ctfassets.net/kftzwdyauwt9/1O4te2wMh6O77eDV6kapG3/02845b054a09297b9fada40c4cc9a71f/sales_teams.png?w=3840&q=90&fm=webp)
 
-[Using custom GPTs | OpenAIOpenAI AcademyApr 10, 2026](</academy/custom-gpts/>)
+[How sales teams use ChatGPT Work | OpenAIOpenAI AcademyJul 14, 2026](</academy/chatgpt-work/how-sales-teams-use-codex/>)
 
-![Academy > Skills > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/5HjfQo619jC918nhDM0S4p/a788f0e356c534e61f30e6607402b5ab/skills.png?w=3840&q=90&fm=webp)
+![Academy > Getting started > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/1Xk9723QKj2Vb9dC6RMebS/5e588c112042794e62178a224eaff418/getting-started.png?w=3840&q=90&fm=webp)
 
-[Using skills in ChatGPT | OpenAIOpenAI AcademyApr 10, 2026](</academy/skills/>)
+[Getting started with ChatGPT | OpenAIOpenAI AcademyJul 10, 2026](</academy/getting-started/>)
 
 Research
 
@@ -157,6 +167,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)

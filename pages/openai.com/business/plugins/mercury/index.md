@@ -57,25 +57,25 @@ Connect your Mercury account to ChatGPT to get answers about your finances in th
 
 See how last quarter's software spending compares with the previous four quarters.
 
-Mercury what did we spend on software last quarter? How does this compare to the prior four quarters?
+![](https://files.openai.com/content?id=file_00000000ac7881f59a95b718896b7902&cdn=1&cp=pi&ma=31968000&ts=0&p=pi&cid=8&sig=8d4ea8c207d69a085a5d683c828b2957b9db2fc95aea683bf2589c66d6b62e66&v=0)![](https://files.openai.com/content?id=file_00000000ac7881f59a95b718896b7902&cdn=1&cp=pi&ma=31968000&ts=0&p=pi&cid=8&sig=8d4ea8c207d69a085a5d683c828b2957b9db2fc95aea683bf2589c66d6b62e66&v=0)Mercury what did we spend on software last quarter? How does this compare to the prior four quarters?
 
-[(opens in a new window)](<https://chatgpt.com/?q=Mercury+what+did+we+spend+on+software+last+quarter%3F+How+does+this+compare+to+the+prior+four+quarters%3F>)
+[(opens in a new window)](<https://chatgpt.com/?q=%40Mercury+what+did+we+spend+on+software+last+quarter%3F+How+does+this+compare+to+the+prior+four+quarters%3F>)
 
   * ### Track monthly cash burn
 
 Chart six months of cash burn and see how quickly it is changing.
 
-Mercury graph our burn over the last 6 months, and tell me how quickly our burn rate is increasing month over month.
+![](https://files.openai.com/content?id=file_00000000ac7881f59a95b718896b7902&cdn=1&cp=pi&ma=31968000&ts=0&p=pi&cid=8&sig=8d4ea8c207d69a085a5d683c828b2957b9db2fc95aea683bf2589c66d6b62e66&v=0)![](https://files.openai.com/content?id=file_00000000ac7881f59a95b718896b7902&cdn=1&cp=pi&ma=31968000&ts=0&p=pi&cid=8&sig=8d4ea8c207d69a085a5d683c828b2957b9db2fc95aea683bf2589c66d6b62e66&v=0)Mercury graph our burn over the last 6 months, and tell me how quickly our burn rate is increasing month over month.
 
-[(opens in a new window)](<https://chatgpt.com/?q=Mercury+graph+our+burn+over+the+last+6+months%2C+and+tell+me+how+quickly+our+burn+rate+is+increasing+month+over+month.>)
+[(opens in a new window)](<https://chatgpt.com/?q=%40Mercury+graph+our+burn+over+the+last+6+months%2C+and+tell+me+how+quickly+our+burn+rate+is+increasing+month+over+month.>)
 
   * ### Review payroll account activity
 
 Check your payroll account balance and its outgoing transfers over the past month.
 
-Mercury what’s the current balance in my Payroll account? Show me any transfers out of that account in the last 30 days.
+![](https://files.openai.com/content?id=file_00000000ac7881f59a95b718896b7902&cdn=1&cp=pi&ma=31968000&ts=0&p=pi&cid=8&sig=8d4ea8c207d69a085a5d683c828b2957b9db2fc95aea683bf2589c66d6b62e66&v=0)![](https://files.openai.com/content?id=file_00000000ac7881f59a95b718896b7902&cdn=1&cp=pi&ma=31968000&ts=0&p=pi&cid=8&sig=8d4ea8c207d69a085a5d683c828b2957b9db2fc95aea683bf2589c66d6b62e66&v=0)Mercury what’s the current balance in my Payroll account? Show me any transfers out of that account in the last 30 days.
 
-[(opens in a new window)](<https://chatgpt.com/?q=Mercury+what%E2%80%99s+the+current+balance+in+my+Payroll+account%3F+Show+me+any+transfers+out+of+that+account+in+the+last+30+days.>)
+[(opens in a new window)](<https://chatgpt.com/?q=%40Mercury+what%E2%80%99s+the+current+balance+in+my+Payroll+account%3F+Show+me+any+transfers+out+of+that+account+in+the+last+30+days.>)
 
 
 
@@ -101,6 +101,16 @@ Mercury what’s the current balance in my Payroll account? Show me any transfer
 ### [Plugin supportLearn more](<https://mercury.com/contact-us>)
 
 ### [Privacy policyLearn more](<https://mercury.com/legal/privacy>)
+
+## Add plugins in a few clicks
+
+Availability depends on the plugin, your plan, and workspace settings. Some connections require admin setup or approval. Contact your workspace admin if access is blocked.
+
+[View the setup guide](<https://learn.chatgpt.com/docs/plugins>)
+
+## Explore related plugins
+
+[![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)DataTurn data into clear decisions.](</business/plugins/data/>)[![](https://files.openai.com/content?id=file_00000000649881f78407f95b8ef708d5&cdn=1&cp=pi&ma=32659200&ts=0&p=pi&cid=8&sig=0bd3c0fdb82a0a8da2c99a9e4b526f0f84728962fd7637ee5423661fb7ef4db7&v=0)![](https://files.openai.com/content?id=file_00000000649881f78407f95b8ef708d5&cdn=1&cp=pi&ma=32659200&ts=0&p=pi&cid=8&sig=0bd3c0fdb82a0a8da2c99a9e4b526f0f84728962fd7637ee5423661fb7ef4db7&v=0)Intuit QuickBooksBusiness finances made simple](</business/plugins/quickbooks/>)[![](https://files.openai.com/content?id=file_00000000a9cc722fb923cc9523b65b7d&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=1&sig=3dfed128f0bb03d09bf162a2dc55fbe09a77b2bb881e6dda9588c139623cb79f&v=0)![](https://files.openai.com/content?id=file_00000000ae1881f78cb19e9602da73eb&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=e6620dc8efa5f7ff134320dd09ead486087108035fdad05773799d910563ee89&v=0)RampAutomate finance tasks.](</business/plugins/ramp/>)[![](https://files.openai.com/content?id=file_00000000ac7471f5938c2faf47e7f4c3&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=1&sig=666dae78fb6f0df3e372c8b40b3fd36004957883e9a35c69e189eb35e870cdd3&v=0)![](https://files.openai.com/content?id=file_00000000841481f79700470475f74217&cdn=1&cp=pi&ma=31881600&ts=0&p=pi&cid=8&sig=3f58942b3f456302c0db30e62111cb2ffb6db3b48fa69730dbd16756d69af63f&v=0)GustoAsk payroll, benefits, and HR questions using your Gusto data.](</business/plugins/gusto/>)[![](https://files.openai.com/content?id=file_00000000679472069fa7c35ce5919579&cdn=1&cp=pi&ma=32140800&ts=0&p=pi&cid=8&sig=38636a046f717091f234b4cacc5910c1314058595218bebbe09a395bf5f680c1&v=0)![](https://files.openai.com/content?id=file_00000000679472069fa7c35ce5919579&cdn=1&cp=pi&ma=32140800&ts=0&p=pi&cid=8&sig=38636a046f717091f234b4cacc5910c1314058595218bebbe09a395bf5f680c1&v=0)StripeUse the Stripe plugin for ChatGPT to analyze live revenue, customers, subscriptions, disputes, and refunds, and build payment integrations.](</business/plugins/stripe/>)[![](https://files.openai.com/content?id=file_000000001f24820c8690d15377467396&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=8&sig=488863f4dc57b6c8bf9c24411bc4dee7c68f9fb3d834d3e153b8cc66c609e437&v=0)![](https://files.openai.com/content?id=file_000000001f24820c8690d15377467396&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=8&sig=488863f4dc57b6c8bf9c24411bc4dee7c68f9fb3d834d3e153b8cc66c609e437&v=0)PayPalPayments and business tools](</business/plugins/paypal/>)
 
 ## Get started with plugins
 
@@ -213,3 +223,21 @@ Terms & Policies
 OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
+
+### 1Find a plugin1Find a plugin
+
+Browse for plugins that support your team’s tools and tasks.
+
+![ChatGPT plugin directory showing Google Drive, Slack, and Google Calendar.](https://images.ctfassets.net/kftzwdyauwt9/6yJgeQSCr32uzNSynka2cc/f5da877c4684cb18ecb9babf62723e2b/1.png?w=3840&q=90&fm=webp)
+
+### 2Install and connect2Install and connect
+
+Install the plugin, then follow the prompts to review permissions and connect any required apps.
+
+![Select the add button to install the Gmail plugin.](https://images.ctfassets.net/kftzwdyauwt9/7gNt7Pk3s8Mf0ql8JAedDS/c533bb5268aef1bed2ef56d5f5ccb06f/2.png?w=3840&q=90&fm=webp)
+
+### 3Put it to work3Put it to work
+
+Start a new chat in ChatGPT Work or Codex, describe the result you need, and ask it to use plugins.
+
+![Ask ChatGPT to prepare a meeting brief using Google Calendar, Gmail, and Slack.](https://images.ctfassets.net/kftzwdyauwt9/tQaC60CeLrMeEalZJnAwl/b4419ccddbaed0103124a22854097e81/3.png?w=3840&q=90&fm=webp)

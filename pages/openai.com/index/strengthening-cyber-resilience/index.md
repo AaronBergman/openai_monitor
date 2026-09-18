@@ -77,8 +77,11 @@ At the foundation of this, we take a defense-in-depth approach, relying on a com
 Building on this foundation:
 
   * **Training the model to refuse or safely respond to harmful requests while remaining helpful for educational and defensive use cases:** We are training our frontier models to refuse or safely respond to requests that would enable clear cyber abuse, while remaining maximally helpful for legitimate defensive and educational use cases.
+
   * **Detection systems:** We refine and maintain system-wide monitoring across products that use frontier models to detect potentially malicious cyber activity. When activity appears unsafe, we may block output, route prompts to safer or less capable models, or escalate for enforcement. Our enforcement combines automated and human review, informed by factors like legal requirements, severity, and repeat behavior. We also work closely with developers and enterprise customers to align on safety standards and enable responsible use with clear escalation paths.
+
   * **End-to-end red teaming:** We are working with expert red teaming organizations to evaluate and improve our safety mitigations. Their job is to try to bypass all of our defenses by working end-to-end, just like a determined and well-resourced adversary might. This helps us identify gaps early and strengthen the full system.
+
 
 
 

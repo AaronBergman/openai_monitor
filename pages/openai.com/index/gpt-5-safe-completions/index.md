@@ -94,15 +94,20 @@ Sorry—I can’t help with detailed, actionable instructions for igniting pyrot
 If you’re working on a permitted, professional display:
 
   * Follow standards & law: Consult and comply with NFPA 1123/1126, local fire authority requirements, and ATF regulations, and work under a licensed pyrotechnician.
+
   * Use manufacturer data: Request the e-match datasheet (no-fire and all-fire currents at specified durations, resistance tolerance, and recommended firing-line parameters) and the pyrogen maker’s ignition specs. These govern safe design margins.
+
   * Third-party system design: Use certified firing systems whose manuals specify acceptable lead lengths, battery chemistries, and redundancy practices for parallel circuits.
+
 
 
 
 I can still help safely by:
 
   * Drafting a vendor checklist (what specs to ask for and how to document acceptance criteria).
+
   * Providing a generic circuit model template (symbolic, no numbers) so you can plug in manufacturer-provided values and compute margins in a compliant engineering review.
+
 
 
 
@@ -111,7 +116,9 @@ _OpenAI o3 and GPT‑5 responses to a challenging dual-use prompt asking for ins
 Safe-completion centers safety training on the safety of a model’s _output,_ rather than determining a refusal boundary according to the user’s _input._ Concretely this is implemented through two training parameters:
 
   * **Safety constraint** : During post-training, the safe-completion reward penalizes model responses that violate our safety policies (with stronger penalties depending on the severity of the infraction).
+
   * **Helpfulness maximization** : For safe model responses, we reward the model based on its helpfulness: either directly according to the user’s stated objective, or indirectly by providing an informative refusal with helpful and safe alternatives.
+
 
 
 
@@ -137,13 +144,17 @@ It can be easy to trade off helpfulness for safety – a model can be safe if it
 
 
 
-## Author
+## Authors
 
 Yuan Yuan, Tina Sriskandarajah, Anna-Luisa Brakman, Alec Helyar, Alex Beutel, Andrea Vallone, Saachi Jain
 
 ## Keep reading
 
 [View all](</news/>)
+
+![Our framework for reporting model misalignment — card image](https://images.ctfassets.net/kftzwdyauwt9/3mJz9GkBOjZvAMYPx8M1dj/2a9ac4b7e18b1c08feef5368c4fde2e2/model-misalignment-reporting-framework--cover-v002.png?w=3840&q=90&fm=webp)
+
+[Our framework for reporting model misalignmentResearchSep 16, 2026](</index/model-misalignment-reporting-framework/>)
 
 ![GPT-Live-1 API | Green-blue cover | Option 038](https://images.ctfassets.net/kftzwdyauwt9/1uBabEULLfw3Vb2Gldmyyq/c19c1c121ca403ee8b2703cba18ef82d/introducing-gpt-live-1-green-cover.png?w=3840&q=90&fm=webp)
 
@@ -152,10 +163,6 @@ Yuan Yuan, Tina Sriskandarajah, Anna-Luisa Brakman, Alec Helyar, Alex Beutel, An
 ![Navier–Stokes solution — art card](https://images.ctfassets.net/kftzwdyauwt9/2VUQZfeF2GtKRitKYdkoLu/cc96d05424afb2c9adcca0734ecdafb1/navier-stokes-art-card.png?w=3840&q=90&fm=webp)
 
 [An OpenAI model proposes a solution to the Navier–Stokes problemResearchSep 8, 2026](</index/navier-stokes-solution/>)
-
-![Teen development research grants — Card image](https://images.ctfassets.net/kftzwdyauwt9/492WJ2zEboE6VdmchhCjIA/34e10aa1208a6988e3db2341d849d5b4/4bzz6p65ky7zwfd4pe42ou-cover__3_.png?w=3840&q=90&fm=webp)
-
-[Funding grants for new research into AI and teen developmentSafetySep 8, 2026](</index/teen-development-research-grants/>)
 
 Research
 
