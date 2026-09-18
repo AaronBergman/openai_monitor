@@ -57,25 +57,25 @@ Analyze multi-channel marketing, financial, sales, e-commerce, and other busines
 
 Ask questions about spend, revenue, pipeline, or cash flow and retrieve results from synced sources such as ads platforms, CRMs, and accounting tools.
 
-Coupler.io Using my synced data sources, what were revenue, ad spend, and gross profit last month? Break down by channel and highlight the largest drivers of change vs. the prior month.
+![](https://files.openai.com/content?id=file_0000000027d4720cb3c6276cd8072cbf&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=1&sig=a3508d050069b869a7ea64497552aa36b5fd8ae401dbbdece236011f58213604&v=0)Coupler.io Using my synced data sources, what were revenue, ad spend, and gross profit last month? Break down by channel and highlight the largest drivers of change vs. the prior month.
 
-[(opens in a new window)](<https://chatgpt.com/?q=Coupler.io+Using+my+synced+data+sources%2C+what+were+revenue%2C+ad+spend%2C+and+gross+profit+last+month%3F+Break+down+by+channel+and+highlight+the+largest+drivers+of+change+vs.+the+prior+month.>)
+[(opens in a new window)](<https://chatgpt.com/?q=%40Coupler.io+Using+my+synced+data+sources%2C+what+were+revenue%2C+ad+spend%2C+and+gross+profit+last+month%3F+Break+down+by+channel+and+highlight+the+largest+drivers+of+change+vs.+the+prior+month.>)
 
   * ### Analyze cross-source datasets
 
 Analyze consolidated datasets across marketing, sales, finance, and ecommerce platforms to review performance across multiple systems together.
 
-Coupler.io Combine the latest data from our ad platforms. Show a funnel view from spend, leads, opportunities‚ revenue, and call out drop-offs and likely causes.
+![](https://files.openai.com/content?id=file_0000000027d4720cb3c6276cd8072cbf&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=1&sig=a3508d050069b869a7ea64497552aa36b5fd8ae401dbbdece236011f58213604&v=0)Coupler.io Combine the latest data from our ad platforms. Show a funnel view from spend, leads, opportunities‚ revenue, and call out drop-offs and likely causes.
 
-[(opens in a new window)](<https://chatgpt.com/?q=Coupler.io+Combine+the+latest+data+from+our+ad+platforms.+Show+a+funnel+view+from+spend%2C+leads%2C+opportunities%E2%80%9A+revenue%2C+and+call+out+drop-offs+and+likely+causes.>)
+[(opens in a new window)](<https://chatgpt.com/?q=%40Coupler.io+Combine+the+latest+data+from+our+ad+platforms.+Show+a+funnel+view+from+spend%2C+leads%2C+opportunities%E2%80%9A+revenue%2C+and+call+out+drop-offs+and+likely+causes.>)
 
   * ### Generate reports and summaries
 
 Generate reports and summaries such as pipeline views, ROI breakdowns, conversion rates, or profit comparisons using connected Coupler.io data.
 
-Coupler.io Generate a weekly report with KPI table, trends, anomalies, and 3 recommended follow-ups. Include separate sections for marketing, sales pipeline, and finance.
+![](https://files.openai.com/content?id=file_0000000027d4720cb3c6276cd8072cbf&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=1&sig=a3508d050069b869a7ea64497552aa36b5fd8ae401dbbdece236011f58213604&v=0)Coupler.io Generate a weekly report with KPI table, trends, anomalies, and 3 recommended follow-ups. Include separate sections for marketing, sales pipeline, and finance.
 
-[(opens in a new window)](<https://chatgpt.com/?q=Coupler.io+Generate+a+weekly+report+with+KPI+table%2C+trends%2C+anomalies%2C+and+3+recommended+follow-ups.+Include+separate+sections+for+marketing%2C+sales+pipeline%2C+and+finance.>)
+[(opens in a new window)](<https://chatgpt.com/?q=%40Coupler.io+Generate+a+weekly+report+with+KPI+table%2C+trends%2C+anomalies%2C+and+3+recommended+follow-ups.+Include+separate+sections+for+marketing%2C+sales+pipeline%2C+and+finance.>)
 
 
 
@@ -95,6 +95,16 @@ Coupler.io Generate a weekly report with KPI table, trends, anomalies, and 3 rec
 ### [Plugin supportLearn more](<https://help.coupler.io/>)
 
 ### [Privacy policyLearn more](<https://www.coupler.io/privacy-policy>)
+
+## Add plugins in a few clicks
+
+Availability depends on the plugin, your plan, and workspace settings. Some connections require admin setup or approval. Contact your workspace admin if access is blocked.
+
+[View the setup guide](<https://learn.chatgpt.com/docs/plugins>)
+
+## Explore related plugins
+
+[![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)DataTurn data into clear decisions.](</business/plugins/data/>)[![](https://files.openai.com/content?id=file_00000000191081f79dfeddb7b502b1bf&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=3e3f6f7a793416cd9a93e61c94c2bd4631dd37631f592d4e774aa254e2b1c9b7&v=0)![](https://files.openai.com/content?id=file_00000000191081f79dfeddb7b502b1bf&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=3e3f6f7a793416cd9a93e61c94c2bd4631dd37631f592d4e774aa254e2b1c9b7&v=0)SalesPrepare account work and customer follow-up.](</business/plugins/sales/>)[![](https://files.openai.com/content?id=file_00000000d6d871f6af516dd237732886&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=8&sig=57605450edcdfd982a04b1b6acfaaefae75de19e6e4de54c96f260b5442b30a9&v=0)![](https://files.openai.com/content?id=file_00000000d6d871f6af516dd237732886&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=8&sig=57605450edcdfd982a04b1b6acfaaefae75de19e6e4de54c96f260b5442b30a9&v=0)HubSpotAnalyze CRM data and surface insights.](</business/plugins/hubspot/>)[![](https://files.openai.com/content?id=file_0000000005fc722f88207b67c3fbe10a&cdn=1&cp=pi&ma=31190400&ts=0&p=pi&cid=1&sig=4fccf640c85543b3c2aa0a0de6592ed9e1d71bbeb3169bb63bf4217a6809857f&v=0)![](https://files.openai.com/content?id=file_0000000005fc722f88207b67c3fbe10a&cdn=1&cp=pi&ma=31190400&ts=0&p=pi&cid=1&sig=4fccf640c85543b3c2aa0a0de6592ed9e1d71bbeb3169bb63bf4217a6809857f&v=0)SalesforceUse the Salesforce plugin to review permitted CRM records, understand accounts and deals, summarize pipeline risk, and prepare follow-up.](</business/plugins/salesforce/>)[![](https://files.openai.com/content?id=file_00000000f46881f78935875de96252d9&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=946d77979364c8757a0860fc685028b0cfbda4174232453d38b4aef0c34bd301&v=0)![](https://files.openai.com/content?id=file_00000000f46881f78935875de96252d9&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=946d77979364c8757a0860fc685028b0cfbda4174232453d38b4aef0c34bd301&v=0)Microsoft Power BIExplore and author analytics in your browser](</business/plugins/microsoft-power-bi/>)[![](https://files.openai.com/content?id=file_00000000c8c881f6b1898c574dac4e10&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=8&sig=5893839a27316a5af69bb3d001943b0ec293a3c64279d9ec08803564a1d9b16b&v=0)![](https://files.openai.com/content?id=file_000000006ab081f793cba420e30fd6aa&cdn=1&cp=pi&ma=30672000&ts=0&p=pi&cid=8&sig=abab6e040ce7a4e418276d0f37dcc1cfe7194cf719a08826f8b043598e18c0f9&v=0)ShopifyCreate and manage your store](</business/plugins/shopify/>)
 
 ## Get started with plugins
 
@@ -207,3 +217,21 @@ Terms & Policies
 OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
+
+### 1Find a plugin1Find a plugin
+
+Browse for plugins that support your team’s tools and tasks.
+
+![ChatGPT plugin directory showing Google Drive, Slack, and Google Calendar.](https://images.ctfassets.net/kftzwdyauwt9/6yJgeQSCr32uzNSynka2cc/f5da877c4684cb18ecb9babf62723e2b/1.png?w=3840&q=90&fm=webp)
+
+### 2Install and connect2Install and connect
+
+Install the plugin, then follow the prompts to review permissions and connect any required apps.
+
+![Select the add button to install the Gmail plugin.](https://images.ctfassets.net/kftzwdyauwt9/7gNt7Pk3s8Mf0ql8JAedDS/c533bb5268aef1bed2ef56d5f5ccb06f/2.png?w=3840&q=90&fm=webp)
+
+### 3Put it to work3Put it to work
+
+Start a new chat in ChatGPT Work or Codex, describe the result you need, and ask it to use plugins.
+
+![Ask ChatGPT to prepare a meeting brief using Google Calendar, Gmail, and Slack.](https://images.ctfassets.net/kftzwdyauwt9/tQaC60CeLrMeEalZJnAwl/b4419ccddbaed0103124a22854097e81/3.png?w=3840&q=90&fm=webp)

@@ -133,6 +133,8 @@ Reporting and other resources.
 
 ### [Election Compliance Plan in connection with TSE Ordinance No. 463/2026 and TSE Resolution No. 23,610/2019 (Portuguese)Download](<https://cdn.openai.com/trust-and-transparency/plano-de-conformidade-oai-16-de-agosto-de-2026.pdf>)
 
+### [ECA Digital Transparency Report OpenAI OpCo, LLC Brazil ECA Digital Transparency Report H1-2026 (Portuguese)Download](<https://cdn.openai.com/pdf/estatuto-digital-da-crianca-e-do-adolescente-eca-digital-relatorio-de-transparencia-2026.pdf>)
+
 ### Trust & transparency resources
 
 Additional trust and transparency resources.
@@ -155,6 +157,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)

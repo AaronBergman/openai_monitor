@@ -60,25 +60,25 @@ Use Investment Banking in ChatGPT to draft client-ready market updates, company 
 
 Turn notes, data, and source materials into polished first drafts of market updates, pitch sections, and meeting prep.
 
-Investment Banking Draft a client-ready market update for [sector] with key themes, notable transactions, risks, and talking points.
+![](https://files.openai.com/content?id=file_00000000ce8481f7986ba74ddb54af68&cdn=1&cp=pi&ma=31881600&ts=0&p=pi&cid=8&sig=37c56c250e41c08c08743a7faa4863d310b65e8c99cf648f250452b5e474f5f9&v=0)Investment Banking Draft a client-ready market update for [sector] with key themes, notable transactions, risks, and talking points.
 
-[(opens in a new window)](<https://chatgpt.com/?q=Investment+Banking+Draft+a+client-ready+market+update+for+%5Bsector%5D+with+key+themes%2C+notable+transactions%2C+risks%2C+and+talking+points.>)
+[(opens in a new window)](<https://chatgpt.com/?q=%40Investment+Banking+Draft+a+client-ready+market+update+for+%5Bsector%5D+with+key+themes%2C+notable+transactions%2C+risks%2C+and+talking+points.>)
 
   * ### Structure analysis and assumptions
 
 Organize comps, precedent transaction notes, valuation drivers, and diligence findings so reviewers can inspect the logic.
 
-Investment Banking Build an accretion/dilution model for [ACQUIRER] acquiring [TARGET] with consideration mix, financing assumptions, synergies, and EPS impact.
+![](https://files.openai.com/content?id=file_00000000ce8481f7986ba74ddb54af68&cdn=1&cp=pi&ma=31881600&ts=0&p=pi&cid=8&sig=37c56c250e41c08c08743a7faa4863d310b65e8c99cf648f250452b5e474f5f9&v=0)Investment Banking Build an accretion/dilution model for [ACQUIRER] acquiring [TARGET] with consideration mix, financing assumptions, synergies, and EPS impact.
 
-[(opens in a new window)](<https://chatgpt.com/?q=Investment+Banking+Build+an+accretion%2Fdilution+model+for+%5BACQUIRER%5D+acquiring+%5BTARGET%5D+with+consideration+mix%2C+financing+assumptions%2C+synergies%2C+and+EPS+impact.>)
+[(opens in a new window)](<https://chatgpt.com/?q=%40Investment+Banking+Build+an+accretion%2Fdilution+model+for+%5BACQUIRER%5D+acquiring+%5BTARGET%5D+with+consideration+mix%2C+financing+assumptions%2C+synergies%2C+and+EPS+impact.>)
 
   * ### Prepare bankers for conversations
 
 Create call prep, buyer lists, question sets, and follow-up materials that keep teams aligned on next steps.
 
-Investment Banking Build a prioritized buyer universe for [TARGET] with strategic and sponsor buyers, outreach rationale, likely concerns, and wave sequencing.
+![](https://files.openai.com/content?id=file_00000000ce8481f7986ba74ddb54af68&cdn=1&cp=pi&ma=31881600&ts=0&p=pi&cid=8&sig=37c56c250e41c08c08743a7faa4863d310b65e8c99cf648f250452b5e474f5f9&v=0)Investment Banking Build a prioritized buyer universe for [TARGET] with strategic and sponsor buyers, outreach rationale, likely concerns, and wave sequencing.
 
-[(opens in a new window)](<https://chatgpt.com/?q=Investment+Banking+Build+a+prioritized+buyer+universe+for+%5BTARGET%5D+with+strategic+and+sponsor+buyers%2C+outreach+rationale%2C+likely+concerns%2C+and+wave+sequencing.>)
+[(opens in a new window)](<https://chatgpt.com/?q=%40Investment+Banking+Build+a+prioritized+buyer+universe+for+%5BTARGET%5D+with+strategic+and+sponsor+buyers%2C+outreach+rationale%2C+likely+concerns%2C+and+wave+sequencing.>)
 
 
 
@@ -120,6 +120,16 @@ Investment Banking Build a prioritized buyer universe for [TARGET] with strategi
 ### [Plugin supportLearn more](<https://help.openai.com/>)
 
 ### [Privacy policyLearn more](<https://openai.com/policies/privacy-policy/>)
+
+## Add plugins in a few clicks
+
+Availability depends on the plugin, your plan, and workspace settings. Some connections require admin setup or approval. Contact your workspace admin if access is blocked.
+
+[View the setup guide](<https://learn.chatgpt.com/docs/plugins>)
+
+## Explore related plugins
+
+[![](https://files.openai.com/content?id=file_00000000179c722f9e8a66d8ff27e98b&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=1&sig=95f7e407c6513f685f25b524ef42ee91ef631083e36c6ea4e3e24667b4692c84&v=0)![](https://files.openai.com/content?id=file_00000000179c722f9e8a66d8ff27e98b&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=1&sig=95f7e407c6513f685f25b524ef42ee91ef631083e36c6ea4e3e24667b4692c84&v=0)Public Equity InvestingSupport company research and deal analysis.](</business/plugins/public-equity-investing/>)[![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)DataTurn data into clear decisions.](</business/plugins/data/>)[![](https://files.openai.com/content?id=file_000000000aac722f9874ed898f906fe5&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=1&sig=85be1e32ecd5938ebde62c35d9d37bc83792db94ae1d5bbc145313f90f374c50&v=0)![](https://files.openai.com/content?id=file_000000009ec481f6b74903ef6fa4c2bd&cdn=1&cp=pi&ma=32486400&ts=0&p=pi&cid=8&sig=1b4092ec812db85c9135837e27a157eec9d4077b2ede5f941a94ea7ae1504a88&v=0)PitchBookFaster workflows with market intelligence.](</business/plugins/pitchbook/>)[![](https://files.openai.com/content?id=file_00000000af747230bc1606d46c839ee8&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=1&sig=c8a8bc6383ae28c34005525b223aab157382f62b2c5ff707b76f4a38b1b33e32&v=0)![](https://files.openai.com/content?id=file_00000000af747230bc1606d46c839ee8&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=1&sig=c8a8bc6383ae28c34005525b223aab157382f62b2c5ff707b76f4a38b1b33e32&v=0)DaloopaAccess financial KPIs with source links.](</business/plugins/daloopa/>)[![](https://files.openai.com/content?id=file_00000000838c71f689139639dc435b8e&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=8&sig=ded0420cc73fb5c48598cd93c52b4a70df4b0f8445c20c8d1c8c2ecc49f77954&v=0)![](https://files.openai.com/content?id=file_00000000838c71f689139639dc435b8e&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=8&sig=ded0420cc73fb5c48598cd93c52b4a70df4b0f8445c20c8d1c8c2ecc49f77954&v=0)LSEGAccess LSEG financial data for pricing and market analysis.](</business/plugins/lseg/>)[![](https://files.openai.com/content?id=file_000000000c1871f5a6cfddb62a46e9de&cdn=1&cp=pi&ma=31363200&ts=0&p=pi&cid=1&sig=81b62307ba341b02656de1a8a775263b1126c5aa1801f5f51ac5b3da3cb40a2c&v=0)![](https://files.openai.com/content?id=file_00000000551481f5a345351199fc73fd&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=d24c1524f8efa98e3db5084e8f55ca134b1ac198deddaffc355a1df03b180092&v=0)Adobe AcrobatEdit and organize PDFs easily.](</business/plugins/adobe-acrobat/>)
 
 ## Get started with plugins
 
@@ -232,3 +242,21 @@ Terms & Policies
 OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
+
+### 1Find a plugin1Find a plugin
+
+Browse for plugins that support your team’s tools and tasks.
+
+![ChatGPT plugin directory showing Google Drive, Slack, and Google Calendar.](https://images.ctfassets.net/kftzwdyauwt9/6yJgeQSCr32uzNSynka2cc/f5da877c4684cb18ecb9babf62723e2b/1.png?w=3840&q=90&fm=webp)
+
+### 2Install and connect2Install and connect
+
+Install the plugin, then follow the prompts to review permissions and connect any required apps.
+
+![Select the add button to install the Gmail plugin.](https://images.ctfassets.net/kftzwdyauwt9/7gNt7Pk3s8Mf0ql8JAedDS/c533bb5268aef1bed2ef56d5f5ccb06f/2.png?w=3840&q=90&fm=webp)
+
+### 3Put it to work3Put it to work
+
+Start a new chat in ChatGPT Work or Codex, describe the result you need, and ask it to use plugins.
+
+![Ask ChatGPT to prepare a meeting brief using Google Calendar, Gmail, and Slack.](https://images.ctfassets.net/kftzwdyauwt9/tQaC60CeLrMeEalZJnAwl/b4419ccddbaed0103124a22854097e81/3.png?w=3840&q=90&fm=webp)

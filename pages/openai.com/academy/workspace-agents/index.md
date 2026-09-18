@@ -81,9 +81,13 @@ Generally speaking, an agent is a system that carries out a task with three comp
 Agents are most useful when the work is:
 
   * **Repeatable:** The same task comes up regularly
+
   * **Structured:** There’s a clear format for the output (so you can tell if the agent is doing a good job)
+
   * **Time-based or event-driven:** It runs on a cadence or is triggered by an event
+
   * **Tool-based:** It requires reading from or writing to systems your team uses
+
 
 
 
@@ -135,9 +139,13 @@ Once you understand the basics and have identified a strong use case, you can st
 _Note: in ChatGPT Enterprise, access to build agents is controlled by your workspace administrators._
 
   1. **Start in plain language:** In the agent builder chat, describe the job the agent should do, what a successful outcome looks like, and any constraints it needs to follow. The builder can translate this into a clear workflow with defined steps, which you can keep refining in chat or edit directly in the workflow and instructions.
+
   2. **Choose tools and connectors:** Select the approved apps the agent can use to complete the workflow. You can also describe the systems the agent needs to access, and the builder will guide you through adding and authenticating them.
+
   3. **Choose a trigger:** Decide when the agent should run. An agent trigger is the event that starts the agent running. For workspace agents, it can be human-triggered (someone asks it to do something), schedule-triggered (it runs at a set time). You can use the agent builder chat to set up your trigger using plain language.
+
   4. **Add guardrails:** Set boundaries, required approvals, and any human-in-the-loop checkpoints for sensitive actions. You can add these directly into the agent builder chat, and the agent builder will modify the instructions.
+
 
 
 
@@ -152,7 +160,9 @@ Start with a few realistic examples, including both straightforward requests and
 As you test your agent, it’s expected that the first version won’t be perfect. When something feels off, there are two effective ways to improve it.
 
   * **Update the instructions directly:** Make small, specific changes in the editor, such as clarifying a step, adjusting the output format, or adding a constraint.
+
   * **Coach it in natural language:** When the issue is less clear, use the builder conversation to work through it. You can point out what it missed, ask open-ended questions, or have it explain its reasoning to surface gaps in the instructions.
+
 
 
 
@@ -178,17 +188,17 @@ Discover additional guides and resources to help you build practical AI skills.
 
 [View all](</news/>)
 
-![Academy > Custom GPTs > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/2UV4fI7a8z34VgwSmpgzy1/2b09c857ffda3696fec60cad6fb18b86/custom-gpts.png?w=3840&q=90&fm=webp)
+![How data science teams use Codex > card image](https://images.ctfassets.net/kftzwdyauwt9/xyevYnp4Ptaa1eMgBDNjS/75fea80018f321b89809d893f1a5786d/data_science_teams.png?w=3840&q=90&fm=webp)
 
-[Using custom GPTs | OpenAIOpenAI AcademyApr 10, 2026](</academy/custom-gpts/>)
+[How data science teams use ChatGPT Work | OpenAIOpenAI AcademyJul 14, 2026](</academy/chatgpt-work/how-data-science-teams-use-codex/>)
 
-![Academy > Projects > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/L0cSoOsBFybec07VSIDJw/27647c6494be7191e0e2168f5bf27044/projects.png?w=3840&q=90&fm=webp)
+![How sales teams use Codex > card image](https://images.ctfassets.net/kftzwdyauwt9/1O4te2wMh6O77eDV6kapG3/02845b054a09297b9fada40c4cc9a71f/sales_teams.png?w=3840&q=90&fm=webp)
 
-[Using projects in ChatGPT | OpenAIOpenAI AcademyApr 10, 2026](</academy/projects/>)
+[How sales teams use ChatGPT Work | OpenAIOpenAI AcademyJul 14, 2026](</academy/chatgpt-work/how-sales-teams-use-codex/>)
 
-![Academy > Skills > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/5HjfQo619jC918nhDM0S4p/a788f0e356c534e61f30e6607402b5ab/skills.png?w=3840&q=90&fm=webp)
+![Academy > Getting started > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/1Xk9723QKj2Vb9dC6RMebS/5e588c112042794e62178a224eaff418/getting-started.png?w=3840&q=90&fm=webp)
 
-[Using skills in ChatGPT | OpenAIOpenAI AcademyApr 10, 2026](</academy/skills/>)
+[Getting started with ChatGPT | OpenAIOpenAI AcademyJul 10, 2026](</academy/getting-started/>)
 
 Research
 
@@ -200,6 +210,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)

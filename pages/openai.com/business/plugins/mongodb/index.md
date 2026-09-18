@@ -55,25 +55,25 @@ Manage MongoDB Atlas and query your data. Connect to any MongoDB cluster or Atla
 
 Aggregate order data to explain which products contributed most to changes in monthly sales.
 
-MongoDB Inspect our orders schema, then aggregate sales by month and product for the last six months. Identify the largest changes, show the aggregation pipeline, and summarize any data gaps affecting the analysis.
+![](https://files.openai.com/content?id=file_00000000c74c81f4abf2d67234503030&cdn=1&cp=pi&ma=31968000&ts=0&p=pi&cid=8&sig=e4ee497a3c171a2216c9227600fca6d715f038d4d9675b3059fdc6cb2f3168a5&v=0)MongoDB Inspect our orders schema, then aggregate sales by month and product for the last six months. Identify the largest changes, show the aggregation pipeline, and summarize any data gaps affecting the analysis.
 
-[(opens in a new window)](<https://chatgpt.com/?q=MongoDB+Inspect+our+orders+schema%2C+then+aggregate+sales+by+month+and+product+for+the+last+six+months.+Identify+the+largest+changes%2C+show+the+aggregation+pipeline%2C+and+summarize+any+data+gaps+affecting+the+analysis.>)
+[(opens in a new window)](<https://chatgpt.com/?q=%40MongoDB+Inspect+our+orders+schema%2C+then+aggregate+sales+by+month+and+product+for+the+last+six+months.+Identify+the+largest+changes%2C+show+the+aggregation+pipeline%2C+and+summarize+any+data+gaps+affecting+the+analysis.>)
 
   * ### Audit customer data quality
 
 Find missing or inconsistent customer fields and prioritize cleanup work.
 
-MongoDB Inspect the customers collection for missing identifiers, duplicate email addresses, and inconsistent field types. Quantify each issue and propose a prioritized cleanup plan without changing documents.
+![](https://files.openai.com/content?id=file_00000000c74c81f4abf2d67234503030&cdn=1&cp=pi&ma=31968000&ts=0&p=pi&cid=8&sig=e4ee497a3c171a2216c9227600fca6d715f038d4d9675b3059fdc6cb2f3168a5&v=0)MongoDB Inspect the customers collection for missing identifiers, duplicate email addresses, and inconsistent field types. Quantify each issue and propose a prioritized cleanup plan without changing documents.
 
-[(opens in a new window)](<https://chatgpt.com/?q=MongoDB+Inspect+the+customers+collection+for+missing+identifiers%2C+duplicate+email+addresses%2C+and+inconsistent+field+types.+Quantify+each+issue+and+propose+a+prioritized+cleanup+plan+without+changing+documents.>)
+[(opens in a new window)](<https://chatgpt.com/?q=%40MongoDB+Inspect+the+customers+collection+for+missing+identifiers%2C+duplicate+email+addresses%2C+and+inconsistent+field+types.+Quantify+each+issue+and+propose+a+prioritized+cleanup+plan+without+changing+documents.>)
 
   * ### Prioritize query improvements
 
 Review slow-query evidence and index recommendations to focus database performance work.
 
-MongoDB Review Performance Advisor recommendations and slow query logs for my Atlas cluster. Compare suggested indexes with existing ones, prioritize the highest-impact candidates, and explain the evidence and tradeoffs.
+![](https://files.openai.com/content?id=file_00000000c74c81f4abf2d67234503030&cdn=1&cp=pi&ma=31968000&ts=0&p=pi&cid=8&sig=e4ee497a3c171a2216c9227600fca6d715f038d4d9675b3059fdc6cb2f3168a5&v=0)MongoDB Review Performance Advisor recommendations and slow query logs for my Atlas cluster. Compare suggested indexes with existing ones, prioritize the highest-impact candidates, and explain the evidence and tradeoffs.
 
-[(opens in a new window)](<https://chatgpt.com/?q=MongoDB+Review+Performance+Advisor+recommendations+and+slow+query+logs+for+my+Atlas+cluster.+Compare+suggested+indexes+with+existing+ones%2C+prioritize+the+highest-impact+candidates%2C+and+explain+the+evidence+and+tradeoffs.>)
+[(opens in a new window)](<https://chatgpt.com/?q=%40MongoDB+Review+Performance+Advisor+recommendations+and+slow+query+logs+for+my+Atlas+cluster.+Compare+suggested+indexes+with+existing+ones%2C+prioritize+the+highest-impact+candidates%2C+and+explain+the+evidence+and+tradeoffs.>)
 
 
 
@@ -104,6 +104,16 @@ MongoDB Review Performance Advisor recommendations and slow query logs for my At
 ### [Plugin supportLearn more](<https://support.mongodb.com/>)
 
 ### [Privacy policyLearn more](<https://www.mongodb.com/legal/privacy/privacy-policy>)
+
+## Add plugins in a few clicks
+
+Availability depends on the plugin, your plan, and workspace settings. Some connections require admin setup or approval. Contact your workspace admin if access is blocked.
+
+[View the setup guide](<https://learn.chatgpt.com/docs/plugins>)
+
+## Explore related plugins
+
+[![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)DataTurn data into clear decisions.](</business/plugins/data/>)[![](https://files.openai.com/content?id=file_000000002684720c81b0d1d022c3dfd2&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=1&sig=4e111632389ebc732936b83f809c131e3a5fa201ca4cb43c8ea9b6fa2d62a87e&v=0)![](https://files.openai.com/content?id=file_00000000cba0822fa2188c4c599f4181&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=1&sig=34a683b818c6593bfcc47dd950aaadc850fbd5861b79f237b4627d27372983d1&v=0)GitHubAccess repositories, issues, and pull requests.](</business/plugins/github/>)[![](https://files.openai.com/content?id=file_00000000da6c81f58455d98a59b9e028&cdn=1&cp=pi&ma=30931200&ts=0&p=pi&cid=8&sig=03536f130f44c90a94877d9e78404b93460a7566485b46608088528082eb91c0&v=0)![](https://files.openai.com/content?id=file_00000000da6c81f58455d98a59b9e028&cdn=1&cp=pi&ma=30931200&ts=0&p=pi&cid=8&sig=03536f130f44c90a94877d9e78404b93460a7566485b46608088528082eb91c0&v=0)Google FirebaseBuild and manage Firebase apps](</business/plugins/firebase/>)[![](https://files.openai.com/content?id=file_0000000061808208a0ba7d0cacf9a3c7&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=8&sig=c678cbe8bab4044fb4dc7e3b2dec96396a91828ad6edb77f5d8f7cc69a6b5e59&v=0)![](https://files.openai.com/content?id=file_0000000061808208a0ba7d0cacf9a3c7&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=8&sig=c678cbe8bab4044fb4dc7e3b2dec96396a91828ad6edb77f5d8f7cc69a6b5e59&v=0)Microsoft Azure CosmosDBAzure Cosmos DB plugin](</business/plugins/microsoft-azure-cosmosdb/>)[![](https://files.openai.com/content?id=file_0000000089e88210b97f2055f754743c&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=8&sig=3bd7e451889949a66e1b5b7a65e9a9d79bb852f6236c5520d688c16fcf5e7c71&v=0)![](https://files.openai.com/content?id=file_0000000089e88210b97f2055f754743c&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=8&sig=3bd7e451889949a66e1b5b7a65e9a9d79bb852f6236c5520d688c16fcf5e7c71&v=0)Redis IncBuild Redis applications](</business/plugins/redis/>)[![](https://files.openai.com/content?id=file_000000009b8471f4bd4c0a644b3f1b4d&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=8&sig=0f067aa3abfe91502756fdd381b2577684eabf146a251d731310e6f471f6370a&v=0)![](https://files.openai.com/content?id=file_000000009b8471f4bd4c0a644b3f1b4d&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=8&sig=0f067aa3abfe91502756fdd381b2577684eabf146a251d731310e6f471f6370a&v=0)ClickHouseExplore ClickHouse Cloud](</business/plugins/clickhouse/>)
 
 ## Get started with plugins
 
@@ -216,3 +226,21 @@ Terms & Policies
 OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
+
+### 1Find a plugin1Find a plugin
+
+Browse for plugins that support your team’s tools and tasks.
+
+![ChatGPT plugin directory showing Google Drive, Slack, and Google Calendar.](https://images.ctfassets.net/kftzwdyauwt9/6yJgeQSCr32uzNSynka2cc/f5da877c4684cb18ecb9babf62723e2b/1.png?w=3840&q=90&fm=webp)
+
+### 2Install and connect2Install and connect
+
+Install the plugin, then follow the prompts to review permissions and connect any required apps.
+
+![Select the add button to install the Gmail plugin.](https://images.ctfassets.net/kftzwdyauwt9/7gNt7Pk3s8Mf0ql8JAedDS/c533bb5268aef1bed2ef56d5f5ccb06f/2.png?w=3840&q=90&fm=webp)
+
+### 3Put it to work3Put it to work
+
+Start a new chat in ChatGPT Work or Codex, describe the result you need, and ask it to use plugins.
+
+![Ask ChatGPT to prepare a meeting brief using Google Calendar, Gmail, and Slack.](https://images.ctfassets.net/kftzwdyauwt9/tQaC60CeLrMeEalZJnAwl/b4419ccddbaed0103124a22854097e81/3.png?w=3840&q=90&fm=webp)

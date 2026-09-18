@@ -57,25 +57,25 @@ Bring Morningstar research and market data into workflows to analyze investments
 
 Retrieve analyst reports, ratings, and market commentary for stocks, funds, and ETFs to support faster research and responses.
 
-Morningstar Draft a short due diligence memo for an investment committee meeting comparing two funds I am considering.
+![](https://files.openai.com/content?id=file_0000000040a071f59035080394b85878&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=1&sig=7f0b73057fb6d2751f37081fbea05f5e14ee664fa57b6306cd7691deb0b95240&v=0)Morningstar Draft a short due diligence memo for an investment committee meeting comparing two funds I am considering.
 
-[(opens in a new window)](<https://chatgpt.com/?q=Morningstar+Draft+a+short+due+diligence+memo+for+an+investment+committee+meeting+comparing+two+funds+I+am+considering.>)
+[(opens in a new window)](<https://chatgpt.com/?q=%40Morningstar+Draft+a+short+due+diligence+memo+for+an+investment+committee+meeting+comparing+two+funds+I+am+considering.>)
 
   * ### Improve screening and comparisons
 
 Screen equities, mutual funds, and ETFs by ratings, returns, or rankings, and compare holdings and metrics side by side to support research and due diligence.
 
-Morningstar Screen for dividend focused ETFs with strong ratings, low fees, and consistent returns, and show the top candidates.
+![](https://files.openai.com/content?id=file_0000000040a071f59035080394b85878&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=1&sig=7f0b73057fb6d2751f37081fbea05f5e14ee664fa57b6306cd7691deb0b95240&v=0)Morningstar Screen for dividend focused ETFs with strong ratings, low fees, and consistent returns, and show the top candidates.
 
-[(opens in a new window)](<https://chatgpt.com/?q=Morningstar+Screen+for+dividend+focused+ETFs+with+strong+ratings%2C+low+fees%2C+and+consistent+returns%2C+and+show+the+top+candidates.>)
+[(opens in a new window)](<https://chatgpt.com/?q=%40Morningstar+Screen+for+dividend+focused+ETFs+with+strong+ratings%2C+low+fees%2C+and+consistent+returns%2C+and+show+the+top+candidates.>)
 
   * ### Analyze portfolios with context
 
 Look up fund and ETF holdings and review exposure using Morningstar ratings and research to better understand risk and overlap.
 
-Morningstar Compare VOO, IVV, and SPY on fees, holdings overlap, risk, and ratings, and tell me which is best for a long term core position.
+![](https://files.openai.com/content?id=file_0000000040a071f59035080394b85878&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=1&sig=7f0b73057fb6d2751f37081fbea05f5e14ee664fa57b6306cd7691deb0b95240&v=0)Morningstar Compare VOO, IVV, and SPY on fees, holdings overlap, risk, and ratings, and tell me which is best for a long term core position.
 
-[(opens in a new window)](<https://chatgpt.com/?q=Morningstar+Compare+VOO%2C+IVV%2C+and+SPY+on+fees%2C+holdings+overlap%2C+risk%2C+and+ratings%2C+and+tell+me+which+is+best+for+a+long+term+core+position.>)
+[(opens in a new window)](<https://chatgpt.com/?q=%40Morningstar+Compare+VOO%2C+IVV%2C+and+SPY+on+fees%2C+holdings+overlap%2C+risk%2C+and+ratings%2C+and+tell+me+which+is+best+for+a+long+term+core+position.>)
 
 
 
@@ -90,10 +90,10 @@ Morningstar Compare VOO, IVV, and SPY on fees, holdings overlap, risk, and ratin
 
 ### Skills
 
-  * ![](https://files.openai.com/content?id=file_0000000040a071f59035080394b85878&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=1&sig=7f0b73057fb6d2751f37081fbea05f5e14ee664fa57b6306cd7691deb0b95240&v=0)Datapoint Finder
+  * Datapoint Finder
   * ![](https://files.openai.com/content?id=file_000000003ea481f7a67c7e9fe635ae2a&cdn=1&cp=pi&ma=32140800&ts=0&p=pi&cid=8&sig=6f7c776f0c1596c220f84952edafa25982f0f63380e7656054b7850182d07776&v=0)Fund Comparison
-  * ![](https://files.openai.com/content?id=file_0000000040a071f59035080394b85878&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=1&sig=7f0b73057fb6d2751f37081fbea05f5e14ee664fa57b6306cd7691deb0b95240&v=0)Fund Screener
-  * ![](https://files.openai.com/content?id=file_0000000040a071f59035080394b85878&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=1&sig=7f0b73057fb6d2751f37081fbea05f5e14ee664fa57b6306cd7691deb0b95240&v=0)Fund Summarizer
+  * Fund Screener
+  * Fund Summarizer
   * ![](https://files.openai.com/content?id=file_00000000dd5481f7bb6b9db338bbcba5&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=8&sig=c6d634b91b0618547af46388c470b5f8d84d4aeda2035fe79d350e8b6b6296c2&v=0)Medalist Rating Analyzer
 
 
@@ -105,6 +105,16 @@ Morningstar Compare VOO, IVV, and SPY on fees, holdings overlap, risk, and ratin
 ### [Plugin supportLearn more](<https://www.morningstar.com/views/contact-us>)
 
 ### [Privacy policyLearn more](<https://www.morningstar.com/company/privacy-policy>)
+
+## Add plugins in a few clicks
+
+Availability depends on the plugin, your plan, and workspace settings. Some connections require admin setup or approval. Contact your workspace admin if access is blocked.
+
+[View the setup guide](<https://learn.chatgpt.com/docs/plugins>)
+
+## Explore related plugins
+
+[![](https://files.openai.com/content?id=file_00000000179c722f9e8a66d8ff27e98b&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=1&sig=95f7e407c6513f685f25b524ef42ee91ef631083e36c6ea4e3e24667b4692c84&v=0)![](https://files.openai.com/content?id=file_00000000179c722f9e8a66d8ff27e98b&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=1&sig=95f7e407c6513f685f25b524ef42ee91ef631083e36c6ea4e3e24667b4692c84&v=0)Public Equity InvestingSupport company research and deal analysis.](</business/plugins/public-equity-investing/>)[![](https://files.openai.com/content?id=file_00000000e4a8720c9b8cba8aaa6e4f70&cdn=1&cp=pi&ma=30672000&ts=0&p=pi&cid=1&sig=d35f6f0a310b11e0360584d048c93f8d76adf2e2f59543a08c73b34c7e02721f&v=0)![](https://files.openai.com/content?id=file_00000000e4a8720c9b8cba8aaa6e4f70&cdn=1&cp=pi&ma=30672000&ts=0&p=pi&cid=1&sig=d35f6f0a310b11e0360584d048c93f8d76adf2e2f59543a08c73b34c7e02721f&v=0)Investment BankingBuild banking analysis and client-ready materials.](</business/plugins/investment-banking/>)[![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)DataTurn data into clear decisions.](</business/plugins/data/>)[![](https://files.openai.com/content?id=file_00000000af747230bc1606d46c839ee8&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=1&sig=c8a8bc6383ae28c34005525b223aab157382f62b2c5ff707b76f4a38b1b33e32&v=0)![](https://files.openai.com/content?id=file_00000000af747230bc1606d46c839ee8&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=1&sig=c8a8bc6383ae28c34005525b223aab157382f62b2c5ff707b76f4a38b1b33e32&v=0)DaloopaAccess financial KPIs with source links.](</business/plugins/daloopa/>)[![](https://files.openai.com/content?id=file_00000000838c71f689139639dc435b8e&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=8&sig=ded0420cc73fb5c48598cd93c52b4a70df4b0f8445c20c8d1c8c2ecc49f77954&v=0)![](https://files.openai.com/content?id=file_00000000838c71f689139639dc435b8e&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=8&sig=ded0420cc73fb5c48598cd93c52b4a70df4b0f8445c20c8d1c8c2ecc49f77954&v=0)LSEGAccess LSEG financial data for pricing and market analysis.](</business/plugins/lseg/>)[![](https://files.openai.com/content?id=file_000000000aac722f9874ed898f906fe5&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=1&sig=85be1e32ecd5938ebde62c35d9d37bc83792db94ae1d5bbc145313f90f374c50&v=0)![](https://files.openai.com/content?id=file_000000009ec481f6b74903ef6fa4c2bd&cdn=1&cp=pi&ma=32486400&ts=0&p=pi&cid=8&sig=1b4092ec812db85c9135837e27a157eec9d4077b2ede5f941a94ea7ae1504a88&v=0)PitchBookFaster workflows with market intelligence.](</business/plugins/pitchbook/>)
 
 ## Get started with plugins
 
@@ -217,3 +227,21 @@ Terms & Policies
 OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
+
+### 1Find a plugin1Find a plugin
+
+Browse for plugins that support your team’s tools and tasks.
+
+![ChatGPT plugin directory showing Google Drive, Slack, and Google Calendar.](https://images.ctfassets.net/kftzwdyauwt9/6yJgeQSCr32uzNSynka2cc/f5da877c4684cb18ecb9babf62723e2b/1.png?w=3840&q=90&fm=webp)
+
+### 2Install and connect2Install and connect
+
+Install the plugin, then follow the prompts to review permissions and connect any required apps.
+
+![Select the add button to install the Gmail plugin.](https://images.ctfassets.net/kftzwdyauwt9/7gNt7Pk3s8Mf0ql8JAedDS/c533bb5268aef1bed2ef56d5f5ccb06f/2.png?w=3840&q=90&fm=webp)
+
+### 3Put it to work3Put it to work
+
+Start a new chat in ChatGPT Work or Codex, describe the result you need, and ask it to use plugins.
+
+![Ask ChatGPT to prepare a meeting brief using Google Calendar, Gmail, and Slack.](https://images.ctfassets.net/kftzwdyauwt9/tQaC60CeLrMeEalZJnAwl/b4419ccddbaed0103124a22854097e81/3.png?w=3840&q=90&fm=webp)

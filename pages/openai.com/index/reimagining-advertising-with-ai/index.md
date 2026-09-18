@@ -60,6 +60,8 @@ Today, we’re introducing new AI-powered experiences to make ads more useful fo
 
 We’re testing Sponsored Agents, which let people start a conversation with a business-sponsored agent after clicking an ad in ChatGPT. We are making it easier to create ads by simply writing a few prompts in ChatGPT Work. At the same time, we are making Ads Manager more powerful with new AI creative tools. Finally, new integrations with HubSpot, our first CRM partner, and Shopify, our first ecommerce partner, are bringing ChatGPT Ads into the tools businesses already use.
 
+Throughout this work, our [ads principles](</index/our-approach-to-advertising-and-expanding-access/>) remain unchanged, and protecting the trust people place in ChatGPT remains our North Star.
+
 Together, these updates represent the next step in building our AI-based advertising platform.
 
 ## Being part of the AI conversation

@@ -36,7 +36,7 @@ See how frontier AI is reshaping cybersecurity
 
 Help security teams find and validate vulnerabilities, investigate threats, and move faster from findings to fixes.
 
-[Contact Cyber sales](</daybreak/contact-cyber-sales/>)[Start scanning with Codex Security(opens in a new window)](<https://chatgpt.com/plugins/share/676aca3811d54fa7bcdef5255236b3c4>)
+[Contact Cyber sales](</daybreak/contact-cyber-sales/>)[Start scanning with Codex Security(opens in a new window)](<https://chatgpt.com/plugins/codex-security?open_in_app>)
 
 ## Models for defense and red teaming
 
@@ -163,7 +163,7 @@ Start with Codex Security, request advanced access, or work with us to bring Day
 
 Help security teams find and validate vulnerabilities, investigate threats, and move faster from findings to fixes.
 
-[Contact Cyber sales](</daybreak/contact-cyber-sales/>)[Start scanning with Codex Security(opens in a new window)](<https://chatgpt.com/plugins/share/676aca3811d54fa7bcdef5255236b3c4>)
+[Contact Cyber sales](</daybreak/contact-cyber-sales/>)[Start scanning with Codex Security(opens in a new window)](<https://chatgpt.com/plugins/codex-security?open_in_app>)
 
 Research
 

@@ -63,8 +63,11 @@ Our goals are aligned with yours. If ChatGPT genuinely helps you, you’ll want 
 This is what a helpful ChatGPT experience could look like:
 
   * “Help me prepare for a tough conversation with my boss.” ChatGPT tunes into what you need to feel at your best, with resources like practice scenarios or a tailored pep talk so you can walk in feeling grounded and confident.
+
   * “I need to understand my lab results.” It explains the numbers and helps you ask the right questions of your doctor, so you and your doctor can personalize your care with more information.
+
   * “I’m feeling stuck—help me untangle my thoughts.” It acts as a sounding board while empowering you with tools of thought so you can think more clearly.
+
 
 
 
@@ -81,8 +84,11 @@ We also know that AI can feel more responsive and personal than prior technologi
 That’s why we’ve been working on the following changes to ChatGPT:
 
   * **Supporting you when you’re struggling.** ChatGPT is trained to respond with grounded honesty. There have been instances where our 4o model fell short in recognizing signs of delusion or emotional dependency. While rare, we’re continuing to improve our models and are developing tools to better detect signs of mental or emotional distress so ChatGPT can respond appropriately and point people to evidence-based resources when needed.
+
   * **Keeping you in control of your time.** Starting today, you’ll see gentle reminders during long sessions to encourage breaks. We’ll keep tuning when and how they show up so they feel natural and helpful.
+
   * **Helping you solve personal challenges**. When you ask something like “Should I break up with my boyfriend?” ChatGPT shouldn’t give you an answer. It should help you think it through—asking questions, weighing pros and cons. New behavior for high-stakes personal decisions is rolling out soon.
+
 
 
 
@@ -91,8 +97,11 @@ That’s why we’ve been working on the following changes to ChatGPT:
 We’re working closely with experts to improve how ChatGPT responds in critical moments—for example, when someone shows signs of mental or emotional distress.
 
   * **Medical expertise.** We worked with over 90 physicians across over 30 countries—psychiatrists, pediatricians, and general practitioners — to build custom rubrics for evaluating complex, multi-turn conversations.
+
   * **Research collaboration.** We’re engaging human-computer-interaction (HCI) researchers and clinicians to give feedback on how we’ve identified concerning behaviors, refine our evaluation methods, and stress-test our product safeguards.
+
   * **Advisory group.** We’re convening an advisory group of experts in mental health, youth development, and HCI. This group will help ensure our approach reflects the latest research and best practices.
+
 
 
 
@@ -117,17 +126,17 @@ OpenAI
 
 [View all](</news/>)
 
-![Now everyone can put data to work — card image](https://images.ctfassets.net/kftzwdyauwt9/6FhMXOSe8XadGwEUev6QjJ/916a64d20bcc59b8619fea1827fa6bd3/put-data-to-work--cover-v001.png?w=3840&q=90&fm=webp)
+![Reimagining advertising with AI — Card cover](https://images.ctfassets.net/kftzwdyauwt9/fHwkKLVG8WFHvuUPqMXtz/1c49ba0859fe1e1e21f5d64f692490f5/reimagining-advertising-with-ai-cover.png?w=3840&q=90&fm=webp)
 
-[Now everyone can put data to workProductSep 10, 2026](</index/put-data-to-work/>)
+[Reimagining advertising with AIProductSep 16, 2026](</index/reimagining-advertising-with-ai/>)
 
-![FinServ Blog - Art Card Texture Square](https://images.ctfassets.net/kftzwdyauwt9/6Bcg403pebiJhQdHUS17FK/572e478dc4579deca27c9700c662e908/finserv-art-card.png?w=3840&q=90&fm=webp)
+![How to connect AI usage to business value — art card](https://images.ctfassets.net/kftzwdyauwt9/36T42HPkipcJAs08yNirmR/f73d9408ef4f0b08b5cce3b839656843/cover-018.png?w=3840&q=90&fm=webp)
 
-[Introducing ChatGPT for Financial ServicesProductSep 10, 2026](</index/introducing-chatgpt-financial-services/>)
+[How to connect AI usage to business valueProductSep 16, 2026](</index/how-to-connect-ai-usage-to-business-value/>)
 
-![GPT-Live-1 API | Green-blue cover | Option 038](https://images.ctfassets.net/kftzwdyauwt9/1uBabEULLfw3Vb2Gldmyyq/c19c1c121ca403ee8b2703cba18ef82d/introducing-gpt-live-1-green-cover.png?w=3840&q=90&fm=webp)
+![Our framework for reporting model misalignment — card image](https://images.ctfassets.net/kftzwdyauwt9/3mJz9GkBOjZvAMYPx8M1dj/2a9ac4b7e18b1c08feef5368c4fde2e2/model-misalignment-reporting-framework--cover-v002.png?w=3840&q=90&fm=webp)
 
-[Build more natural voice experiences with GPT‑Live‑1 in the APIProductSep 10, 2026](</index/introducing-gpt-live-1-in-the-api/>)
+[Our framework for reporting model misalignmentResearchSep 16, 2026](</index/model-misalignment-reporting-framework/>)
 
 Research
 

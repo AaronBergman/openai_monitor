@@ -57,25 +57,25 @@ Connect your Cloudinary account to ChatGPT to manage, search, and transform imag
 
 Browse and search your Cloudinary media library by tag, folder, format, or metadata to find images and videos.
 
-Cloudinary Search my media library for assets tagged [tag] in folder [folder]. Return the top 10 results with file names, formats, dimensions, and last updated date.
+![](https://files.openai.com/content?id=file_000000007edc71f5b6e71a05d16220aa&cdn=1&cp=pi&ma=30585600&ts=0&p=pi&cid=1&sig=75532cd6420897161acc72328af06673960ff00435b9f4ed2d4a75c7194673a8&v=0)Cloudinary Search my media library for assets tagged [tag] in folder [folder]. Return the top 10 results with file names, formats, dimensions, and last updated date.
 
-[(opens in a new window)](<https://chatgpt.com/?q=Cloudinary+Search+my+media+library+for+assets+tagged+%5Btag%5D+in+folder+%5Bfolder%5D.+Return+the+top+10+results+with+file+names%2C+formats%2C+dimensions%2C+and+last+updated+date.>)
+[(opens in a new window)](<https://chatgpt.com/?q=%40Cloudinary+Search+my+media+library+for+assets+tagged+%5Btag%5D+in+folder+%5Bfolder%5D.+Return+the+top+10+results+with+file+names%2C+formats%2C+dimensions%2C+and+last+updated+date.>)
 
   * ### Transform images and videos
 
 Transform images or videos using Cloudinary’s syntax to resize, crop, reformat, compress, or apply filters for different use cases.
 
-Cloudinary Take this asset and create optimized variants for web and social (e.g., 1200px, 1080px, 600px wide), using sensible crop and compression. Return the transformation URLs.
+![](https://files.openai.com/content?id=file_000000007edc71f5b6e71a05d16220aa&cdn=1&cp=pi&ma=30585600&ts=0&p=pi&cid=1&sig=75532cd6420897161acc72328af06673960ff00435b9f4ed2d4a75c7194673a8&v=0)Cloudinary Take this asset and create optimized variants for web and social (e.g., 1200px, 1080px, 600px wide), using sensible crop and compression. Return the transformation URLs.
 
-[(opens in a new window)](<https://chatgpt.com/?q=Cloudinary+Take+this+asset+and+create+optimized+variants+for+web+and+social+%28e.g.%2C+1200px%2C+1080px%2C+600px+wide%29%2C+using+sensible+crop+and+compression.+Return+the+transformation+URLs.>)
+[(opens in a new window)](<https://chatgpt.com/?q=%40Cloudinary+Take+this+asset+and+create+optimized+variants+for+web+and+social+%28e.g.%2C+1200px%2C+1080px%2C+600px+wide%29%2C+using+sensible+crop+and+compression.+Return+the+transformation+URLs.>)
 
   * ### Organize and manage media libraries
 
 Upload assets, create folders, rename files, manage metadata, and maintain your Cloudinary media library directly from ChatGPT.
 
-Cloudinary Create a folder structure for this campaign, move these assets into it, and add metadata fields for campaign, channel, and owner. Summarize what changed.
+![](https://files.openai.com/content?id=file_000000007edc71f5b6e71a05d16220aa&cdn=1&cp=pi&ma=30585600&ts=0&p=pi&cid=1&sig=75532cd6420897161acc72328af06673960ff00435b9f4ed2d4a75c7194673a8&v=0)Cloudinary Create a folder structure for this campaign, move these assets into it, and add metadata fields for campaign, channel, and owner. Summarize what changed.
 
-[(opens in a new window)](<https://chatgpt.com/?q=Cloudinary+Create+a+folder+structure+for+this+campaign%2C+move+these+assets+into+it%2C+and+add+metadata+fields+for+campaign%2C+channel%2C+and+owner.+Summarize+what+changed.>)
+[(opens in a new window)](<https://chatgpt.com/?q=%40Cloudinary+Create+a+folder+structure+for+this+campaign%2C+move+these+assets+into+it%2C+and+add+metadata+fields+for+campaign%2C+channel%2C+and+owner.+Summarize+what+changed.>)
 
 
 
@@ -95,6 +95,16 @@ Cloudinary Create a folder structure for this campaign, move these assets into i
 ### [Plugin supportLearn more](<https://cloudinary.com/documentation>)
 
 ### [Privacy policyLearn more](<https://cloudinary.com/privacy>)
+
+## Add plugins in a few clicks
+
+Availability depends on the plugin, your plan, and workspace settings. Some connections require admin setup or approval. Contact your workspace admin if access is blocked.
+
+[View the setup guide](<https://learn.chatgpt.com/docs/plugins>)
+
+## Explore related plugins
+
+[![](https://files.openai.com/content?id=file_00000000bdb4720caff269fd259bbdff&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=20268aaf4f0c92265b5b4945d13a456968c0e1a5013b3be043a94650a9b37e03&v=0)![](https://files.openai.com/content?id=file_00000000bdb4720caff269fd259bbdff&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=20268aaf4f0c92265b5b4945d13a456968c0e1a5013b3be043a94650a9b37e03&v=0)Creative ProductionUse the Creative Production plugin in ChatGPT to create, adapt, and review marketing assets, campaign concepts, ads, and launch creative.](</business/plugins/creative-production/>)[![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)Product DesignTurn product ideas into designs and research artifacts.](</business/plugins/product-design/>)[![](https://files.openai.com/content?id=file_0000000000b4720ca05473965adda507&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=1&sig=9c83a384615d57139ad7d061085b80c28688ba0a35d60b1bf150a24d56b4546d&v=0)![](https://files.openai.com/content?id=file_0000000001b471f5ad526d510a0feb96&cdn=1&cp=pi&ma=30585600&ts=0&p=pi&cid=1&sig=a778b150e22cd0e7791ca90fdccf9115ebd65e275bd6876c85ee9cd143a46b9c&v=0)AdobeDesign, combine, and edit](</business/plugins/adobe/>)[![](https://files.openai.com/content?id=file_000000000ee871fd807d17a056d79aa7&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=1&sig=07ea3990463c5d5c58deba9d55d8dfa10178b2a1cabb20fb0fdcf93fc218472b&v=0)![](https://files.openai.com/content?id=file_000000000ee871fd807d17a056d79aa7&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=1&sig=07ea3990463c5d5c58deba9d55d8dfa10178b2a1cabb20fb0fdcf93fc218472b&v=0)CanvaSearch, create, and edit designs.](</business/plugins/canva/>)[![](https://files.openai.com/content?id=file_000000002684720c81b0d1d022c3dfd2&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=1&sig=4e111632389ebc732936b83f809c131e3a5fa201ca4cb43c8ea9b6fa2d62a87e&v=0)![](https://files.openai.com/content?id=file_00000000cba0822fa2188c4c599f4181&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=1&sig=34a683b818c6593bfcc47dd950aaadc850fbd5861b79f237b4627d27372983d1&v=0)GitHubAccess repositories, issues, and pull requests.](</business/plugins/github/>)[![](https://files.openai.com/content?id=file_000000007ed081f786d39446d9746d5c&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=8&sig=36bf3b5954d5b1ed1c41ae3b5b6fd725d3265dadb80cc88405e74313a65a8e1e&v=0)![](https://files.openai.com/content?id=file_000000007ed081f786d39446d9746d5c&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=8&sig=36bf3b5954d5b1ed1c41ae3b5b6fd725d3265dadb80cc88405e74313a65a8e1e&v=0)VercelSearch docs and deploy apps.](</business/plugins/vercel/>)
 
 ## Get started with plugins
 
@@ -207,3 +217,21 @@ Terms & Policies
 OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
+
+### 1Find a plugin1Find a plugin
+
+Browse for plugins that support your team’s tools and tasks.
+
+![ChatGPT plugin directory showing Google Drive, Slack, and Google Calendar.](https://images.ctfassets.net/kftzwdyauwt9/6yJgeQSCr32uzNSynka2cc/f5da877c4684cb18ecb9babf62723e2b/1.png?w=3840&q=90&fm=webp)
+
+### 2Install and connect2Install and connect
+
+Install the plugin, then follow the prompts to review permissions and connect any required apps.
+
+![Select the add button to install the Gmail plugin.](https://images.ctfassets.net/kftzwdyauwt9/7gNt7Pk3s8Mf0ql8JAedDS/c533bb5268aef1bed2ef56d5f5ccb06f/2.png?w=3840&q=90&fm=webp)
+
+### 3Put it to work3Put it to work
+
+Start a new chat in ChatGPT Work or Codex, describe the result you need, and ask it to use plugins.
+
+![Ask ChatGPT to prepare a meeting brief using Google Calendar, Gmail, and Slack.](https://images.ctfassets.net/kftzwdyauwt9/tQaC60CeLrMeEalZJnAwl/b4419ccddbaed0103124a22854097e81/3.png?w=3840&q=90&fm=webp)

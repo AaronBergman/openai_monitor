@@ -57,25 +57,25 @@ Bring your Statsig workspace into Codex. Product builders can now explore, manag
 
 Turn experiment results and guardrail metrics into a rollout recommendation with clear uncertainty.
 
-Statsig Review the shorter_blog_titles experiment. Summarize primary and guardrail results, assess uncertainty, and recommend whether to ship, continue testing, or revise the experiment, with supporting evidence.
+![](https://files.openai.com/content?id=file_000000005f5871f58e068d2bb520507f&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=1&sig=15b18a8514ce4e16e8c8c57fa202c2e844a0b8982c1e74d6fd8b26d329338fd4&v=0)Statsig Review the shorter_blog_titles experiment. Summarize primary and guardrail results, assess uncertainty, and recommend whether to ship, continue testing, or revise the experiment, with supporting evidence.
 
-[(opens in a new window)](<https://chatgpt.com/?q=Statsig+Review+the+shorter_blog_titles+experiment.+Summarize+primary+and+guardrail+results%2C+assess+uncertainty%2C+and+recommend+whether+to+ship%2C+continue+testing%2C+or+revise+the+experiment%2C+with+supporting+evidence.>)
+[(opens in a new window)](<https://chatgpt.com/?q=%40Statsig+Review+the+shorter_blog_titles+experiment.+Summarize+primary+and+guardrail+results%2C+assess+uncertainty%2C+and+recommend+whether+to+ship%2C+continue+testing%2C+or+revise+the+experiment%2C+with+supporting+evidence.>)
 
   * ### Choose activation metrics
 
 Select a primary metric and guardrails using the definitions already available in your Statsig project.
 
-Statsig Find metrics relevant to a seven-day activation experiment. Compare their definitions and sources, recommend one primary metric and two guardrails, and explain any measurement gaps before launch.
+![](https://files.openai.com/content?id=file_000000005f5871f58e068d2bb520507f&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=1&sig=15b18a8514ce4e16e8c8c57fa202c2e844a0b8982c1e74d6fd8b26d329338fd4&v=0)Statsig Find metrics relevant to a seven-day activation experiment. Compare their definitions and sources, recommend one primary metric and two guardrails, and explain any measurement gaps before launch.
 
-[(opens in a new window)](<https://chatgpt.com/?q=Statsig+Find+metrics+relevant+to+a+seven-day+activation+experiment.+Compare+their+definitions+and+sources%2C+recommend+one+primary+metric+and+two+guardrails%2C+and+explain+any+measurement+gaps+before+launch.>)
+[(opens in a new window)](<https://chatgpt.com/?q=%40Statsig+Find+metrics+relevant+to+a+seven-day+activation+experiment.+Compare+their+definitions+and+sources%2C+recommend+one+primary+metric+and+two+guardrails%2C+and+explain+any+measurement+gaps+before+launch.>)
 
   * ### Audit recent rollout changes
 
 Summarize recent gate and configuration changes and identify the changes that deserve closer review.
 
-Statsig Review feature gate and dynamic config changes from the past seven days. Summarize what changed and who made each change, then prioritize items for review based on their targeting and rollout impact.
+![](https://files.openai.com/content?id=file_000000005f5871f58e068d2bb520507f&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=1&sig=15b18a8514ce4e16e8c8c57fa202c2e844a0b8982c1e74d6fd8b26d329338fd4&v=0)Statsig Review feature gate and dynamic config changes from the past seven days. Summarize what changed and who made each change, then prioritize items for review based on their targeting and rollout impact.
 
-[(opens in a new window)](<https://chatgpt.com/?q=Statsig+Review+feature+gate+and+dynamic+config+changes+from+the+past+seven+days.+Summarize+what+changed+and+who+made+each+change%2C+then+prioritize+items+for+review+based+on+their+targeting+and+rollout+impact.>)
+[(opens in a new window)](<https://chatgpt.com/?q=%40Statsig+Review+feature+gate+and+dynamic+config+changes+from+the+past+seven+days.+Summarize+what+changed+and+who+made+each+change%2C+then+prioritize+items+for+review+based+on+their+targeting+and+rollout+impact.>)
 
 
 
@@ -95,6 +95,16 @@ Statsig Review feature gate and dynamic config changes from the past seven days.
 ### [Plugin supportLearn more](<https://statsigcommunity.slack.com/join/shared_invite/zt-3lyt5mtn8-KEM9tqPvLkBJ9ZC2ULqoxw#/shared-invite/email>)
 
 ### [Privacy policyLearn more](<https://www.statsig.com/privacy>)
+
+## Add plugins in a few clicks
+
+Availability depends on the plugin, your plan, and workspace settings. Some connections require admin setup or approval. Contact your workspace admin if access is blocked.
+
+[View the setup guide](<https://learn.chatgpt.com/docs/plugins>)
+
+## Explore related plugins
+
+[![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)DataTurn data into clear decisions.](</business/plugins/data/>)[![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)Product DesignTurn product ideas into designs and research artifacts.](</business/plugins/product-design/>)[![](https://files.openai.com/content?id=file_000000002684720c81b0d1d022c3dfd2&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=1&sig=4e111632389ebc732936b83f809c131e3a5fa201ca4cb43c8ea9b6fa2d62a87e&v=0)![](https://files.openai.com/content?id=file_00000000cba0822fa2188c4c599f4181&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=1&sig=34a683b818c6593bfcc47dd950aaadc850fbd5861b79f237b4627d27372983d1&v=0)GitHubAccess repositories, issues, and pull requests.](</business/plugins/github/>)[![](https://files.openai.com/content?id=file_00000000dff471f588ea17f78eed1b4a&cdn=1&cp=pi&ma=31968000&ts=0&p=pi&cid=1&sig=06eddbb51a98c9ee74a1de3034ceb17a70d9c53ed5292fbf73a29439ad14d63b&v=0)![](https://files.openai.com/content?id=file_00000000dff471f588ea17f78eed1b4a&cdn=1&cp=pi&ma=31968000&ts=0&p=pi&cid=1&sig=06eddbb51a98c9ee74a1de3034ceb17a70d9c53ed5292fbf73a29439ad14d63b&v=0)AmplitudeSearch and analyze analytics data.](</business/plugins/amplitude/>)[![](https://files.openai.com/content?id=file_00000000dff871fd97ecd3e12034e065&cdn=1&cp=pi&ma=31363200&ts=0&p=pi&cid=1&sig=ba5b5cb9e8613449f77c1752691f4f467846a43b941dc1f29632cf788fd3c426&v=0)![](https://files.openai.com/content?id=file_00000000b5bc71fdb6d8dc0bdc786058&cdn=1&cp=pi&ma=31795200&ts=0&p=pi&cid=1&sig=416aab41b7a94dcf98fc20d43b8d80a0c807853ab48379f20a984d6f6daa0b1a&v=0)PostHogAnalyze your product data](</business/plugins/posthog/>)[![](https://files.openai.com/content?id=file_00000000a4d081f69b863a2b652771ae&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=db1eeefb41bcca456f2fbb97788d54c93f92e16d7add3e4d35bc5431aba60b0a&v=0)![](https://files.openai.com/content?id=file_00000000a4d081f69b863a2b652771ae&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=db1eeefb41bcca456f2fbb97788d54c93f92e16d7add3e4d35bc5431aba60b0a&v=0)Datadog ExperimentsExperiment and product data](</business/plugins/datadog-experiments/>)
 
 ## Get started with plugins
 
@@ -207,3 +217,21 @@ Terms & Policies
 OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
+
+### 1Find a plugin1Find a plugin
+
+Browse for plugins that support your team’s tools and tasks.
+
+![ChatGPT plugin directory showing Google Drive, Slack, and Google Calendar.](https://images.ctfassets.net/kftzwdyauwt9/6yJgeQSCr32uzNSynka2cc/f5da877c4684cb18ecb9babf62723e2b/1.png?w=3840&q=90&fm=webp)
+
+### 2Install and connect2Install and connect
+
+Install the plugin, then follow the prompts to review permissions and connect any required apps.
+
+![Select the add button to install the Gmail plugin.](https://images.ctfassets.net/kftzwdyauwt9/7gNt7Pk3s8Mf0ql8JAedDS/c533bb5268aef1bed2ef56d5f5ccb06f/2.png?w=3840&q=90&fm=webp)
+
+### 3Put it to work3Put it to work
+
+Start a new chat in ChatGPT Work or Codex, describe the result you need, and ask it to use plugins.
+
+![Ask ChatGPT to prepare a meeting brief using Google Calendar, Gmail, and Slack.](https://images.ctfassets.net/kftzwdyauwt9/tQaC60CeLrMeEalZJnAwl/b4419ccddbaed0103124a22854097e81/3.png?w=3840&q=90&fm=webp)

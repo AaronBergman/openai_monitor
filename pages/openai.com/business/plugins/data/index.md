@@ -48,7 +48,11 @@ Developer
 Website
     [(opens in a new window)](<https://openai.com/>)
 
-[![](https://files.openai.com/content?id=file_000000009804820cbf2894d53192dff7&cdn=1&cp=pi&ma=30672000&ts=0&p=pi&cid=8&sig=a9860920b46514cec1c7deb876e6365a9193d6c702effa9480a23038231ebeb8&v=0)Data Help me get started with my first data task(opens in a new window)](<https://chatgpt.com/?prompt=%40Data+Help+me+get+started+with+my+first+data+task>)[![](https://files.openai.com/content?id=file_000000009804820cbf2894d53192dff7&cdn=1&cp=pi&ma=30672000&ts=0&p=pi&cid=8&sig=a9860920b46514cec1c7deb876e6365a9193d6c702effa9480a23038231ebeb8&v=0)Data Analyze product or business data and recommend where to focus next(opens in a new window)](<https://chatgpt.com/?prompt=%40Data+Analyze+product+or+business+data+and+recommend+where+to+focus+next>)[![](https://files.openai.com/content?id=file_000000009804820cbf2894d53192dff7&cdn=1&cp=pi&ma=30672000&ts=0&p=pi&cid=8&sig=a9860920b46514cec1c7deb876e6365a9193d6c702effa9480a23038231ebeb8&v=0)Data Turn my metric links and working preferences into reusable Data context(opens in a new window)](<https://chatgpt.com/?prompt=%40Data+Turn+my+metric+links+and+working+preferences+into+reusable+Data+context>)
+## Acme adoption and retention dashboard
+
+Create a dashboard tracking adoption of our product—from installation and first use to ongoing activity and retention. Help us find where customers get stuck.
+
+Create a dashboard tracking adoption of our product—from installation and first use to ongoing activity and retention. Help us find where customers get stuck.
 
 ## How it works
 
@@ -60,25 +64,25 @@ Use Data Analytics in ChatGPT to investigate metrics, analyze product or busines
 
 Compare periods, validate definitions, and identify likely drivers so teams understand what changed and what to check next.
 
-Data Diagnose why weekly active users changed last week. Identify likely drivers, compare against prior periods, and recommend the next checks.
+![](https://files.openai.com/content?id=file_000000006f4c81f784b61adbf62901e1&cdn=1&cp=pi&ma=30585600&ts=0&p=pi&cid=8&sig=c6e33944a94e14e7fe7121869937bf0d776dc3e571758bb6b505304170dcfbcc&v=0)Data Diagnose why weekly active users changed last week. Identify likely drivers, compare against prior periods, and recommend the next checks.
 
-[(opens in a new window)](<https://chatgpt.com/?q=Data+Diagnose+why+weekly+active+users+changed+last+week.+Identify+likely+drivers%2C+compare+against+prior+periods%2C+and+recommend+the+next+checks.>)
+[(opens in a new window)](<https://chatgpt.com/?q=%40Data+Diagnose+why+weekly+active+users+changed+last+week.+Identify+likely+drivers%2C+compare+against+prior+periods%2C+and+recommend+the+next+checks.>)
 
   * ### Design decision-ready measurement
 
 Define KPIs, drivers, guardrails, targets, and data requirements so teams know how success will be measured.
 
-Data Design a KPI framework for this new product area with primary metrics, drivers, guardrails, targets, and data validation needs.
+![](https://files.openai.com/content?id=file_000000006f4c81f784b61adbf62901e1&cdn=1&cp=pi&ma=30585600&ts=0&p=pi&cid=8&sig=c6e33944a94e14e7fe7121869937bf0d776dc3e571758bb6b505304170dcfbcc&v=0)Data Design a KPI framework for this new product area with primary metrics, drivers, guardrails, targets, and data validation needs.
 
-[(opens in a new window)](<https://chatgpt.com/?q=Data+Design+a+KPI+framework+for+this+new+product+area+with+primary+metrics%2C+drivers%2C+guardrails%2C+targets%2C+and+data+validation+needs.>)
+[(opens in a new window)](<https://chatgpt.com/?q=%40Data+Design+a+KPI+framework+for+this+new+product+area+with+primary+metrics%2C+drivers%2C+guardrails%2C+targets%2C+and+data+validation+needs.>)
 
   * ### Operationalize insights
 
 Create dashboards, reports, notebooks, or summaries that make evidence, caveats, and recommendations easy to review.
 
-Data Turn this month's metrics into a leadership-ready update with actuals, comparisons, drivers, caveats, and recommended actions.
+![](https://files.openai.com/content?id=file_000000006f4c81f784b61adbf62901e1&cdn=1&cp=pi&ma=30585600&ts=0&p=pi&cid=8&sig=c6e33944a94e14e7fe7121869937bf0d776dc3e571758bb6b505304170dcfbcc&v=0)Data Turn this month's metrics into a leadership-ready update with actuals, comparisons, drivers, caveats, and recommended actions.
 
-[(opens in a new window)](<https://chatgpt.com/?q=Data+Turn+this+month%27s+metrics+into+a+leadership-ready+update+with+actuals%2C+comparisons%2C+drivers%2C+caveats%2C+and+recommended+actions.>)
+[(opens in a new window)](<https://chatgpt.com/?q=%40Data+Turn+this+month%27s+metrics+into+a+leadership-ready+update+with+actuals%2C+comparisons%2C+drivers%2C+caveats%2C+and+recommended+actions.>)
 
 
 
@@ -106,6 +110,16 @@ Data Turn this month's metrics into a leadership-ready update with actuals, comp
 ### [Plugin supportLearn more](<https://help.openai.com/>)
 
 ### [Privacy policyLearn more](<https://openai.com/policies/privacy-policy/>)
+
+## Add plugins in a few clicks
+
+Availability depends on the plugin, your plan, and workspace settings. Some connections require admin setup or approval. Contact your workspace admin if access is blocked.
+
+[View the setup guide](<https://learn.chatgpt.com/docs/plugins>)
+
+## Explore related plugins
+
+[![](https://files.openai.com/content?id=file_000000000f3081f7a148386e0036032a&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=23f27004207bf0063b44d64340b33c09de7704a5bb99b736cf24494db2663453&v=0)![](https://files.openai.com/content?id=file_000000000f3081f7a148386e0036032a&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=23f27004207bf0063b44d64340b33c09de7704a5bb99b736cf24494db2663453&v=0)SnowflakeAsk governed analytics questions of Snowflake data.](</business/plugins/snowflake/>)[![](https://files.openai.com/content?id=file_00000000fb6081f7aa3f621147713ad6&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=7b7a02db1929ca7e8aebd24b459d525b6ac1ae88b282b387816507320645a98d&v=0)![](https://files.openai.com/content?id=file_00000000fb6081f7aa3f621147713ad6&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=7b7a02db1929ca7e8aebd24b459d525b6ac1ae88b282b387816507320645a98d&v=0)Databricks GenieAnalyze lakehouse data and dashboards with natural language.](</business/plugins/databricks/>)[![](https://files.openai.com/content?id=file_00000000ed1481f78f9a3258f4550543&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=8&sig=5597c988d52ec699251bc1c8978153b96ff8b82c6227c6388fcbeca824ace455&v=0)![](https://files.openai.com/content?id=file_00000000ed1481f78f9a3258f4550543&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=8&sig=5597c988d52ec699251bc1c8978153b96ff8b82c6227c6388fcbeca824ace455&v=0)BigQueryExplore BigQuery data and generate SQL from natural language.](</business/plugins/bigquery/>)[![](https://files.openai.com/content?id=file_00000000f46881f78935875de96252d9&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=946d77979364c8757a0860fc685028b0cfbda4174232453d38b4aef0c34bd301&v=0)![](https://files.openai.com/content?id=file_00000000f46881f78935875de96252d9&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=946d77979364c8757a0860fc685028b0cfbda4174232453d38b4aef0c34bd301&v=0)Microsoft Power BIExplore and author analytics in your browser](</business/plugins/microsoft-power-bi/>)[![](https://files.openai.com/content?id=file_00000000dff471f588ea17f78eed1b4a&cdn=1&cp=pi&ma=31968000&ts=0&p=pi&cid=1&sig=06eddbb51a98c9ee74a1de3034ceb17a70d9c53ed5292fbf73a29439ad14d63b&v=0)![](https://files.openai.com/content?id=file_00000000dff471f588ea17f78eed1b4a&cdn=1&cp=pi&ma=31968000&ts=0&p=pi&cid=1&sig=06eddbb51a98c9ee74a1de3034ceb17a70d9c53ed5292fbf73a29439ad14d63b&v=0)AmplitudeSearch and analyze analytics data.](</business/plugins/amplitude/>)
 
 ## Get started with plugins
 
@@ -218,3 +232,21 @@ Terms & Policies
 OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
+
+### 1Find a plugin1Find a plugin
+
+Browse for plugins that support your team’s tools and tasks.
+
+![ChatGPT plugin directory showing Google Drive, Slack, and Google Calendar.](https://images.ctfassets.net/kftzwdyauwt9/6yJgeQSCr32uzNSynka2cc/f5da877c4684cb18ecb9babf62723e2b/1.png?w=3840&q=90&fm=webp)
+
+### 2Install and connect2Install and connect
+
+Install the plugin, then follow the prompts to review permissions and connect any required apps.
+
+![Select the add button to install the Gmail plugin.](https://images.ctfassets.net/kftzwdyauwt9/7gNt7Pk3s8Mf0ql8JAedDS/c533bb5268aef1bed2ef56d5f5ccb06f/2.png?w=3840&q=90&fm=webp)
+
+### 3Put it to work3Put it to work
+
+Start a new chat in ChatGPT Work or Codex, describe the result you need, and ask it to use plugins.
+
+![Ask ChatGPT to prepare a meeting brief using Google Calendar, Gmail, and Slack.](https://images.ctfassets.net/kftzwdyauwt9/tQaC60CeLrMeEalZJnAwl/b4419ccddbaed0103124a22854097e81/3.png?w=3840&q=90&fm=webp)

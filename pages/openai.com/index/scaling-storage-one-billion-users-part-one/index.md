@@ -373,7 +373,7 @@ If you want to work on OLTP systems at frontier scale and are interested in this
 
 
 
-## Author
+## Authors
 
 Jon Lee, Chaomin Yu, Ben Ries
 

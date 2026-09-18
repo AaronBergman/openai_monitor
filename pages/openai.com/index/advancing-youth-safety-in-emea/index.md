@@ -77,25 +77,33 @@ We are excited to announce 12 recipients of our [EMEA Youth & Wellbeing Grant](<
 The chosen recipients are conducting practical work and independent research that will help define what safe, responsible AI looks like in the real world. This grant funding will support a range of projects, including critical youth wellbeing services, mental health support, improved AI literacy, age assurance research, and frontline resources for parents, educators, youth workers, and young people, including those in vulnerable communities.
 
   * **Centre for Information Policy Leadership:** supporting research on AI-driven age estimation within broader age-assurance systems.
+
   * **East Europe Foundation (UA):** researching how teens in conflict-affected countries use AI for learning and mental health support.
+
   * **e-Enfance (FR):** delivering youth wellbeing and digital literacy projects and training.
+
   * **FSM (DE):** developing**** AI literacy tools for parents, teachers, and educators.
+
   * **Luma (KE):** developing AI-powered e-tutor for young people in remote communities.
+
   * **Mental Health Innovations (UK):** evaluating chatbot-based signposting into crisis support services.
+
   * **OPEN (FR):** extending ongoing NUAJE research into the impact of AI on youth people.
+
   * **Open Source Association (JO):** researching AI-assisted reporting systems for survivors of trafficking and gender-based violence.
+
   * **Parent Zone (UK):** delivering AI literacy support for parents and policy/product-design learnings on helping young people use AI.
+
   * **Teen Turn (IE)** : program to provide young girls from disadvantaged backgrounds with AI literacy skills to promote digital equity.
+
   * **Telefono Azzurro (IT):** supporting AzzurroChat — an AI-based mental health and digital wellbeing platform for teens.
+
   * **UNICRI Centre for AI and Robotics:** supporting AI literacy for teachers and schools globally.
 
 
 
+
 CIPLEast Europe FoundationFSMLumaMental Health InnovationsOPENParent ZoneTeen TurnTelefono AzzurroUNICRI
-
-> “Getting age assurance right is key to balancing children’s privacy and safety with fair access to the digital world. Through our multistakeholder dialogue, CIPL has helped move this challenge from debate to practical, accountable policy proposals. We are excited for the opportunity to build on that momentum and deepen our research into effective, trusted AI-supported age assurance.” 
-
-Natascha Gerlach, Director Privacy and Data Policy, Centre for Information Policy Leadership (CIPL)
 
 ## Supporting our broader youth safety work
 
@@ -109,15 +117,17 @@ Youth safety is ongoing work. We’re committed to making strong teen protection
 
 [View all](</news/>)
 
-[The Hugging Face incident and the road aheadSecurityAug 26, 2026](</index/hugging-face-incident-and-the-road-ahead/>)
+![Helping older adults use AI in everyday life — art card](https://images.ctfassets.net/kftzwdyauwt9/6ewlK5oKVHp0phTezeh0rT/2c9454f9757b567c1837e07013ffe2f1/older-adults-art-card-v001.png?w=3840&q=90&fm=webp)
 
-![DMUA Russia > card image ](https://images.ctfassets.net/kftzwdyauwt9/ciRSLFnJsNyxXYQjdoyqu/ff8ab22ad273ff79a4c9840f0c209fe6/Frame.png?w=3840&q=90&fm=webp)
+[Helping older adults use AI in everyday lifeGlobal AffairsSep 16, 2026](</index/helping-older-adults-use-ai-in-everyday-life/>)
 
-[Disrupting a new covert influence campaign from RussiaGlobal AffairsAug 25, 2026](</index/disrupting-malicious-uses-of-ai-influence-campaign-russia/>)
+![Our framework for reporting model misalignment — card image](https://images.ctfassets.net/kftzwdyauwt9/3mJz9GkBOjZvAMYPx8M1dj/2a9ac4b7e18b1c08feef5368c4fde2e2/model-misalignment-reporting-framework--cover-v002.png?w=3840&q=90&fm=webp)
 
-![Our commitment to Zero Data Retention as AI advances — card](https://images.ctfassets.net/kftzwdyauwt9/6bPStWA6pc66cahnhg0jo6/61786b178401b6e902e9da65fa4da095/Blog_Thumbnail_-_OpenAI_Blog.png?w=3840&q=90&fm=webp)
+[Our framework for reporting model misalignmentResearchSep 16, 2026](</index/model-misalignment-reporting-framework/>)
 
-[Offering Zero Data Retention for frontier modelsCompanyAug 19, 2026](</index/offering-zero-data-retention-for-frontier-models/>)
+![How workers are turning AI experimentation into new ways of working > Cover image](https://images.ctfassets.net/kftzwdyauwt9/2jmyTNjTKCj9B3jyQBjFMr/24da3865e110be70e6e93b196cfd752c/blog-art-card-option040-v001.png?w=3840&q=90&fm=webp)
+
+[How workers are unlocking new ways of workingGlobal AffairsSep 16, 2026](</index/unlocking-new-ways-of-working/>)
 
 Research
 
@@ -129,6 +139,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
@@ -223,3 +234,7 @@ Terms & Policies
 OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
+
+> “Getting age assurance right is key to balancing children’s privacy and safety with fair access to the digital world. Through our multistakeholder dialogue, CIPL has helped move this challenge from debate to practical, accountable policy proposals. We are excited for the opportunity to build on that momentum and deepen our research into effective, trusted AI-supported age assurance.” 
+
+Natascha Gerlach, Director Privacy and Data Policy, Centre for Information Policy Leadership (CIPL)

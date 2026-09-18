@@ -57,25 +57,25 @@ Build your entire site and buy a domain right from the chat. Just ask Wix for th
 
 Create a matcha business website with a store and booking tools.
 
-Wix Create a fresh matcha site with an online store and booking tools.
+![](https://files.openai.com/content?id=file_000000000eb47208a148e48aae716c7b&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=8&sig=61dc670eea5127013647920e57ad0b5513740878b4a240cbc9fc11ed7e0de837&v=0)Wix Create a fresh matcha site with an online store and booking tools.
 
-[(opens in a new window)](<https://chatgpt.com/?q=Wix+Create+a+fresh+matcha+site+with+an+online+store+and+booking+tools.>)
+[(opens in a new window)](<https://chatgpt.com/?q=%40Wix+Create+a+fresh+matcha+site+with+an+online+store+and+booking+tools.>)
 
   * ### Create an editorial site
 
 Build a minimalist blog to share stories from your homeware brand.
 
-Wix Build a minimalist editorial blog website for my homeware brand.
+![](https://files.openai.com/content?id=file_000000000eb47208a148e48aae716c7b&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=8&sig=61dc670eea5127013647920e57ad0b5513740878b4a240cbc9fc11ed7e0de837&v=0)Wix Build a minimalist editorial blog website for my homeware brand.
 
-[(opens in a new window)](<https://chatgpt.com/?q=Wix+Build+a+minimalist+editorial+blog+website+for+my+homeware+brand.>)
+[(opens in a new window)](<https://chatgpt.com/?q=%40Wix+Build+a+minimalist+editorial+blog+website+for+my+homeware+brand.>)
 
   * ### Launch a running community
 
 Create a running website with bookings and subscriptions.
 
-Wix Create a high-contrast running site with bookings and subscriptions.
+![](https://files.openai.com/content?id=file_000000000eb47208a148e48aae716c7b&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=8&sig=61dc670eea5127013647920e57ad0b5513740878b4a240cbc9fc11ed7e0de837&v=0)Wix Create a high-contrast running site with bookings and subscriptions.
 
-[(opens in a new window)](<https://chatgpt.com/?q=Wix+Create+a+high-contrast+running+site+with+bookings+and+subscriptions.>)
+[(opens in a new window)](<https://chatgpt.com/?q=%40Wix+Create+a+high-contrast+running+site+with+bookings+and+subscriptions.>)
 
 
 
@@ -104,6 +104,16 @@ Wix Create a high-contrast running site with bookings and subscriptions.
 ### [Plugin supportLearn more](<https://support.wix.com/en/>)
 
 ### [Privacy policyLearn more](<https://www.wix.com/about/privacy>)
+
+## Add plugins in a few clicks
+
+Availability depends on the plugin, your plan, and workspace settings. Some connections require admin setup or approval. Contact your workspace admin if access is blocked.
+
+[View the setup guide](<https://learn.chatgpt.com/docs/plugins>)
+
+## Explore related plugins
+
+[![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)Product DesignTurn product ideas into designs and research artifacts.](</business/plugins/product-design/>)[![](https://files.openai.com/content?id=file_00000000bdb4720caff269fd259bbdff&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=20268aaf4f0c92265b5b4945d13a456968c0e1a5013b3be043a94650a9b37e03&v=0)![](https://files.openai.com/content?id=file_00000000bdb4720caff269fd259bbdff&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=20268aaf4f0c92265b5b4945d13a456968c0e1a5013b3be043a94650a9b37e03&v=0)Creative ProductionUse the Creative Production plugin in ChatGPT to create, adapt, and review marketing assets, campaign concepts, ads, and launch creative.](</business/plugins/creative-production/>)[![](https://files.openai.com/content?id=file_00000000191081f79dfeddb7b502b1bf&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=3e3f6f7a793416cd9a93e61c94c2bd4631dd37631f592d4e774aa254e2b1c9b7&v=0)![](https://files.openai.com/content?id=file_00000000191081f79dfeddb7b502b1bf&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=3e3f6f7a793416cd9a93e61c94c2bd4631dd37631f592d4e774aa254e2b1c9b7&v=0)SalesPrepare account work and customer follow-up.](</business/plugins/sales/>)[![](https://files.openai.com/content?id=file_000000000ee871fd807d17a056d79aa7&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=1&sig=07ea3990463c5d5c58deba9d55d8dfa10178b2a1cabb20fb0fdcf93fc218472b&v=0)![](https://files.openai.com/content?id=file_000000000ee871fd807d17a056d79aa7&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=1&sig=07ea3990463c5d5c58deba9d55d8dfa10178b2a1cabb20fb0fdcf93fc218472b&v=0)CanvaSearch, create, and edit designs.](</business/plugins/canva/>)[![](https://files.openai.com/content?id=file_00000000a1a471fd81edff86e77ecd3b&cdn=1&cp=pi&ma=30326400&ts=0&p=pi&cid=1&sig=938d4b73498b8010276a2a2db3bd97736fb43368f7d6e6b918d92ed91ccbca4f&v=0)![](https://files.openai.com/content?id=file_00000000352871fd8a026326a6078808&cdn=1&cp=pi&ma=30585600&ts=0&p=pi&cid=1&sig=f2df03095c7e6c6c7c919a69e0395034bd5b155ed48e78a3780a4c33c6c23a4c&v=0)SemrushAsk about site metrics and traffic data.](</business/plugins/semrush/>)[![](https://files.openai.com/content?id=file_00000000973c720c9d9b1fabee04c427&cdn=1&cp=pi&ma=31968000&ts=0&p=pi&cid=1&sig=c11b3c8f43500e73dd0db9849b6ea13396b3dfef8f719d0c68eba87508d51fb6&v=0)![](https://files.openai.com/content?id=file_00000000d72881f7b7d15cc4fb008b3e&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=358cbc93092922858a3ae7e058c6131029faf209cdb642542d00f385d412c04a&v=0)SpaceshipSearch domain availability.](</business/plugins/spaceship/>)
 
 ## Get started with plugins
 
@@ -216,3 +226,21 @@ Terms & Policies
 OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
+
+### 1Find a plugin1Find a plugin
+
+Browse for plugins that support your team’s tools and tasks.
+
+![ChatGPT plugin directory showing Google Drive, Slack, and Google Calendar.](https://images.ctfassets.net/kftzwdyauwt9/6yJgeQSCr32uzNSynka2cc/f5da877c4684cb18ecb9babf62723e2b/1.png?w=3840&q=90&fm=webp)
+
+### 2Install and connect2Install and connect
+
+Install the plugin, then follow the prompts to review permissions and connect any required apps.
+
+![Select the add button to install the Gmail plugin.](https://images.ctfassets.net/kftzwdyauwt9/7gNt7Pk3s8Mf0ql8JAedDS/c533bb5268aef1bed2ef56d5f5ccb06f/2.png?w=3840&q=90&fm=webp)
+
+### 3Put it to work3Put it to work
+
+Start a new chat in ChatGPT Work or Codex, describe the result you need, and ask it to use plugins.
+
+![Ask ChatGPT to prepare a meeting brief using Google Calendar, Gmail, and Slack.](https://images.ctfassets.net/kftzwdyauwt9/tQaC60CeLrMeEalZJnAwl/b4419ccddbaed0103124a22854097e81/3.png?w=3840&q=90&fm=webp)

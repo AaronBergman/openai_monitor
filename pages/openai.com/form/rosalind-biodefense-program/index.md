@@ -41,8 +41,11 @@ Strong proposals will be focused, technically credible, and designed for real-wo
 **Application materials to include:**
 
   * Who’s involved, what you plan to do, when and where it will happen, and why it matters 
+
   * How you’ll make your results available to others 
+
   * An idea of the budget—including what you could accomplish with different levels of funding.
+
 
 
 
@@ -219,6 +222,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)

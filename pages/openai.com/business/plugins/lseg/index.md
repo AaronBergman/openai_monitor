@@ -57,25 +57,25 @@ Access LSEG’s institutional-grade financial data in ChatGPT to price and analy
 
 Retrieve pricing data for bonds and FX instruments to support market analysis.
 
-LSEG Get the latest EURUSD spot plus key level context and summarize what changed since yesterday.
+![](https://files.openai.com/content?id=file_00000000e45471f5b5de13a805b0fb63&cdn=1&cp=pi&ma=32486400&ts=0&p=pi&cid=1&sig=e9831c00e25c94de6b24d86bd2d8c9fbff051cc5586a98f3b5bc1cac5496a2af&v=0)LSEG Get the latest EURUSD spot plus key level context and summarize what changed since yesterday.
 
-[(opens in a new window)](<https://chatgpt.com/?q=LSEG+Get+the+latest+EURUSD+spot+plus+key+level+context+and+summarize+what+changed+since+yesterday.>)
+[(opens in a new window)](<https://chatgpt.com/?q=%40LSEG+Get+the+latest+EURUSD+spot+plus+key+level+context+and+summarize+what+changed+since+yesterday.>)
 
   * ### Enhance risk and exposure analysis
 
 Access credit, inflation, and rate curve data to review risk-related indicators across markets.
 
-LSEG Pull the latest inflation indicators and rate curves for the US and euro area, then summarize the differences our treasury team should review.
+![](https://files.openai.com/content?id=file_00000000e45471f5b5de13a805b0fb63&cdn=1&cp=pi&ma=32486400&ts=0&p=pi&cid=1&sig=e9831c00e25c94de6b24d86bd2d8c9fbff051cc5586a98f3b5bc1cac5496a2af&v=0)LSEG Pull the latest inflation indicators and rate curves for the US and euro area, then summarize the differences our treasury team should review.
 
-[(opens in a new window)](<https://chatgpt.com/?q=LSEG+Pull+the+latest+inflation+indicators+and+rate+curves+for+the+US+and+euro+area%2C+then+summarize+the+differences+our+treasury+team+should+review.>)
+[(opens in a new window)](<https://chatgpt.com/?q=%40LSEG+Pull+the+latest+inflation+indicators+and+rate+curves+for+the+US+and+euro+area%2C+then+summarize+the+differences+our+treasury+team+should+review.>)
 
   * ### Improve research and market monitoring
 
 Search global news, headlines, and earnings transcripts to support market research and monitoring.
 
-LSEG Create a daily morning brief for my watchlist tickers using relevant headlines and price moves.
+![](https://files.openai.com/content?id=file_00000000e45471f5b5de13a805b0fb63&cdn=1&cp=pi&ma=32486400&ts=0&p=pi&cid=1&sig=e9831c00e25c94de6b24d86bd2d8c9fbff051cc5586a98f3b5bc1cac5496a2af&v=0)LSEG Create a daily morning brief for my watchlist tickers using relevant headlines and price moves.
 
-[(opens in a new window)](<https://chatgpt.com/?q=LSEG+Create+a+daily+morning+brief+for+my+watchlist+tickers+using+relevant+headlines+and+price+moves.>)
+[(opens in a new window)](<https://chatgpt.com/?q=%40LSEG+Create+a+daily+morning+brief+for+my+watchlist+tickers+using+relevant+headlines+and+price+moves.>)
 
 
 
@@ -95,6 +95,16 @@ LSEG Create a daily morning brief for my watchlist tickers using relevant headli
 ### [Plugin supportLearn more](<https://www.lseg.com/contact-us>)
 
 ### [Privacy policyLearn more](<https://www.lseg.com/privacy-statement>)
+
+## Add plugins in a few clicks
+
+Availability depends on the plugin, your plan, and workspace settings. Some connections require admin setup or approval. Contact your workspace admin if access is blocked.
+
+[View the setup guide](<https://learn.chatgpt.com/docs/plugins>)
+
+## Explore related plugins
+
+[![](https://files.openai.com/content?id=file_00000000179c722f9e8a66d8ff27e98b&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=1&sig=95f7e407c6513f685f25b524ef42ee91ef631083e36c6ea4e3e24667b4692c84&v=0)![](https://files.openai.com/content?id=file_00000000179c722f9e8a66d8ff27e98b&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=1&sig=95f7e407c6513f685f25b524ef42ee91ef631083e36c6ea4e3e24667b4692c84&v=0)Public Equity InvestingSupport company research and deal analysis.](</business/plugins/public-equity-investing/>)[![](https://files.openai.com/content?id=file_00000000e4a8720c9b8cba8aaa6e4f70&cdn=1&cp=pi&ma=30672000&ts=0&p=pi&cid=1&sig=d35f6f0a310b11e0360584d048c93f8d76adf2e2f59543a08c73b34c7e02721f&v=0)![](https://files.openai.com/content?id=file_00000000e4a8720c9b8cba8aaa6e4f70&cdn=1&cp=pi&ma=30672000&ts=0&p=pi&cid=1&sig=d35f6f0a310b11e0360584d048c93f8d76adf2e2f59543a08c73b34c7e02721f&v=0)Investment BankingBuild banking analysis and client-ready materials.](</business/plugins/investment-banking/>)[![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)DataTurn data into clear decisions.](</business/plugins/data/>)[![](https://files.openai.com/content?id=file_00000000af747230bc1606d46c839ee8&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=1&sig=c8a8bc6383ae28c34005525b223aab157382f62b2c5ff707b76f4a38b1b33e32&v=0)![](https://files.openai.com/content?id=file_00000000af747230bc1606d46c839ee8&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=1&sig=c8a8bc6383ae28c34005525b223aab157382f62b2c5ff707b76f4a38b1b33e32&v=0)DaloopaAccess financial KPIs with source links.](</business/plugins/daloopa/>)[![](https://files.openai.com/content?id=file_000000009c38722f80144f00dd87ea34&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=1&sig=8e9598782d7e36464e64c394a2fecb5ab3bf6b35731be6a16d3b9ec05b080a32&v=0)![](https://files.openai.com/content?id=file_000000003ec881f6aaeecf3f949966e5&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=1c18816d30ee51f5b8365b1c3d420e3b9da7e6f4d0f9830032b871fc457f48f6&v=0)MorningstarAccess live market insights.](</business/plugins/morningstar/>)[![](https://files.openai.com/content?id=file_00000000d6fc722fa4dff586b8c41dc8&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=5416dd5d8d03380fd52488cd02fd95ebce2b8d1bcf9d05c3f70ee75839beddb0&v=0)![](https://files.openai.com/content?id=file_00000000a1b481f78615b21eab674f16&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=8&sig=5bd792122c549f4f0e016786a2d081fde182c2c00d4259b41d4e8fbfcb3da605&v=0)AlpacaExecute trades and access live market data using natural language.](</business/plugins/alpaca/>)
 
 ## Get started with plugins
 
@@ -207,3 +217,21 @@ Terms & Policies
 OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
+
+### 1Find a plugin1Find a plugin
+
+Browse for plugins that support your team’s tools and tasks.
+
+![ChatGPT plugin directory showing Google Drive, Slack, and Google Calendar.](https://images.ctfassets.net/kftzwdyauwt9/6yJgeQSCr32uzNSynka2cc/f5da877c4684cb18ecb9babf62723e2b/1.png?w=3840&q=90&fm=webp)
+
+### 2Install and connect2Install and connect
+
+Install the plugin, then follow the prompts to review permissions and connect any required apps.
+
+![Select the add button to install the Gmail plugin.](https://images.ctfassets.net/kftzwdyauwt9/7gNt7Pk3s8Mf0ql8JAedDS/c533bb5268aef1bed2ef56d5f5ccb06f/2.png?w=3840&q=90&fm=webp)
+
+### 3Put it to work3Put it to work
+
+Start a new chat in ChatGPT Work or Codex, describe the result you need, and ask it to use plugins.
+
+![Ask ChatGPT to prepare a meeting brief using Google Calendar, Gmail, and Slack.](https://images.ctfassets.net/kftzwdyauwt9/tQaC60CeLrMeEalZJnAwl/b4419ccddbaed0103124a22854097e81/3.png?w=3840&q=90&fm=webp)

@@ -60,25 +60,25 @@ Connect to the Hugging Face Hub in ChatGPT to explore models, datasets, and meta
 
 Explore models and datasets from the Hugging Face Hub and view associated metadata and documentation.
 
-Hugging Face I need a model for multilingual semantic search. Compare the top candidates and recommend one with tradeoffs.
+![](https://files.openai.com/content?id=file_00000000390071f5999f6ff280280bb2&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=1&sig=23ea5ce3fba873e6dceee772ffa0d271901552b5863dbd888f9b75f04db06500&v=0)Hugging Face I need a model for multilingual semantic search. Compare the top candidates and recommend one with tradeoffs.
 
-[(opens in a new window)](<https://chatgpt.com/?q=Hugging+Face+I+need+a+model+for+multilingual+semantic+search.+Compare+the+top+candidates+and+recommend+one+with+tradeoffs.>)
+[(opens in a new window)](<https://chatgpt.com/?q=%40Hugging+Face+I+need+a+model+for+multilingual+semantic+search.+Compare+the+top+candidates+and+recommend+one+with+tradeoffs.>)
 
   * ### Inspect available options
 
 Inspect model and dataset details such as descriptions, associated datasets, and listed attributes to understand what’s available.
 
-Hugging Face Shortlist 5 text classification models that work well on medical notes and note any PHI considerations.
+![](https://files.openai.com/content?id=file_00000000390071f5999f6ff280280bb2&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=1&sig=23ea5ce3fba873e6dceee772ffa0d271901552b5863dbd888f9b75f04db06500&v=0)Hugging Face Shortlist 5 text classification models that work well on medical notes and note any PHI considerations.
 
-[(opens in a new window)](<https://chatgpt.com/?q=Hugging+Face+Shortlist+5+text+classification+models+that+work+well+on+medical+notes+and+note+any+PHI+considerations.>)
+[(opens in a new window)](<https://chatgpt.com/?q=%40Hugging+Face+Shortlist+5+text+classification+models+that+work+well+on+medical+notes+and+note+any+PHI+considerations.>)
 
   * ### Explore Spaces and research
 
 Explore Hugging Face Spaces, research references, and related resources to see available tools and applications.
 
-Hugging Face Find Spaces and research references for document question answering, and summarize which tools our team could evaluate.
+![](https://files.openai.com/content?id=file_00000000390071f5999f6ff280280bb2&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=1&sig=23ea5ce3fba873e6dceee772ffa0d271901552b5863dbd888f9b75f04db06500&v=0)Hugging Face Find Spaces and research references for document question answering, and summarize which tools our team could evaluate.
 
-[(opens in a new window)](<https://chatgpt.com/?q=Hugging+Face+Find+Spaces+and+research+references+for+document+question+answering%2C+and+summarize+which+tools+our+team+could+evaluate.>)
+[(opens in a new window)](<https://chatgpt.com/?q=%40Hugging+Face+Find+Spaces+and+research+references+for+document+question+answering%2C+and+summarize+which+tools+our+team+could+evaluate.>)
 
 
 
@@ -112,6 +112,16 @@ Hugging Face Find Spaces and research references for document question answering
 ### [Plugin supportLearn more](<https://huggingface.co/docs>)
 
 ### [Privacy policyLearn more](<https://huggingface.co/privacy>)
+
+## Add plugins in a few clicks
+
+Availability depends on the plugin, your plan, and workspace settings. Some connections require admin setup or approval. Contact your workspace admin if access is blocked.
+
+[View the setup guide](<https://learn.chatgpt.com/docs/plugins>)
+
+## Explore related plugins
+
+[![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)DataTurn data into clear decisions.](</business/plugins/data/>)[![](https://files.openai.com/content?id=file_000000002684720c81b0d1d022c3dfd2&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=1&sig=4e111632389ebc732936b83f809c131e3a5fa201ca4cb43c8ea9b6fa2d62a87e&v=0)![](https://files.openai.com/content?id=file_00000000cba0822fa2188c4c599f4181&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=1&sig=34a683b818c6593bfcc47dd950aaadc850fbd5861b79f237b4627d27372983d1&v=0)GitHubAccess repositories, issues, and pull requests.](</business/plugins/github/>)[![](https://files.openai.com/content?id=file_00000000f92071f79930229160a6ca3b&cdn=1&cp=pi&ma=30585600&ts=0&p=pi&cid=8&sig=6faeb8bbf3cc92b5d0996a82dd40d42ac8b54a7aa3afa8c7950b2f36720a3de7&v=0)![](https://files.openai.com/content?id=file_000000001bf871f7959c46e1bd9802cd&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=8&sig=64ebef30bd218a7048400d20b79b338a5efea8ec72de36dfbf0754fe82ec178e&v=0)DeepnoteRun data workflows with agents](</business/plugins/deepnote/>)[![](https://files.openai.com/content?id=file_000000003fa871fda8d5ccf17301b94b&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=1&sig=9ca1fad9ac2a8cb87e51c40261c029650c95213921623423ec39d0368045739e&v=0)![](https://files.openai.com/content?id=file_00000000878c81f7853a443065429025&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=be838736241f0296ba05934933d4fdc86ab15ca0f2f4925ed4d6166102f82945&v=0)ReplitTurn your ideas into real apps.](</business/plugins/replit/>)[![](https://files.openai.com/content?id=file_00000000da6c81f58455d98a59b9e028&cdn=1&cp=pi&ma=30931200&ts=0&p=pi&cid=8&sig=03536f130f44c90a94877d9e78404b93460a7566485b46608088528082eb91c0&v=0)![](https://files.openai.com/content?id=file_00000000da6c81f58455d98a59b9e028&cdn=1&cp=pi&ma=30931200&ts=0&p=pi&cid=8&sig=03536f130f44c90a94877d9e78404b93460a7566485b46608088528082eb91c0&v=0)Google FirebaseBuild and manage Firebase apps](</business/plugins/firebase/>)[![](https://files.openai.com/content?id=file_000000006128824382b4c3ad66a596e3&cdn=1&cp=pi&ma=30326400&ts=0&p=pi&cid=8&sig=50bd4935c54840b2d48e9475f13d1d5f0b871988437c32444a362dc2bd9ea30a&v=0)![](https://files.openai.com/content?id=file_000000004b048243ba04d6743eb002c5&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=dc1a9d37ffc984e3cc3abfd0db6c6e0d81e9e47abfd5a77b422b0d4fc1cfdacd&v=0)MongoDBConnect to MongoDB Atlas](</business/plugins/mongodb/>)
 
 ## Get started with plugins
 
@@ -224,3 +234,21 @@ Terms & Policies
 OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
+
+### 1Find a plugin1Find a plugin
+
+Browse for plugins that support your team’s tools and tasks.
+
+![ChatGPT plugin directory showing Google Drive, Slack, and Google Calendar.](https://images.ctfassets.net/kftzwdyauwt9/6yJgeQSCr32uzNSynka2cc/f5da877c4684cb18ecb9babf62723e2b/1.png?w=3840&q=90&fm=webp)
+
+### 2Install and connect2Install and connect
+
+Install the plugin, then follow the prompts to review permissions and connect any required apps.
+
+![Select the add button to install the Gmail plugin.](https://images.ctfassets.net/kftzwdyauwt9/7gNt7Pk3s8Mf0ql8JAedDS/c533bb5268aef1bed2ef56d5f5ccb06f/2.png?w=3840&q=90&fm=webp)
+
+### 3Put it to work3Put it to work
+
+Start a new chat in ChatGPT Work or Codex, describe the result you need, and ask it to use plugins.
+
+![Ask ChatGPT to prepare a meeting brief using Google Calendar, Gmail, and Slack.](https://images.ctfassets.net/kftzwdyauwt9/tQaC60CeLrMeEalZJnAwl/b4419ccddbaed0103124a22854097e81/3.png?w=3840&q=90&fm=webp)

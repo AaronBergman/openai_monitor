@@ -81,11 +81,17 @@ _Ongoing_
 ### What you’ll receive
 
   * **A ChatGPT subscription and Codex credits** for the duration of the program
+
   * **Funding, credits, and merch** to help you organize campus events
+
   * **Training, resources, and guidance** on the latest OpenAI tools and technology
+
   * **Access to the OpenAI team** and a global network of Campus Leads
+
   * **A** **cash stipend** each semester in recognition of your time and leadership
+
   * **Opportunities for a HQ** visit in June 2027 and other surprises along the way
+
 
 
 
@@ -104,11 +110,17 @@ Students from every discipline are encouraged to apply. We're looking for underg
 #### Qualifications
 
   * You love ChatGPT, Codex, and OpenAI tools.
+
   * You’re 18 years or older.
+
   * You’re enrolled in an undergraduate college or university program as of August 2026 and expect to graduate after December 2027.
+
   * You’re committed to 4–6 hours per week of participation from August 2026–June 2027.
+
   * You study in the United States, Canada, the United Kingdom, France, Germany, India, Japan, or South Korea and have work authorization in your country of study. _Studying elsewhere? You can register your interest by submitting an application, and we’ll let you know when the Collective becomes available in your country._
+
   * You’re not currently an ambassador or intern for any other AI programs or companies.
+
 
 
 
@@ -230,6 +242,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)

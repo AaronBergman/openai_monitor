@@ -60,25 +60,25 @@ View upcoming events and attendee availability to plan meetings, avoid conflicts
 
 Look up upcoming events and attendee availability in real time to find open time slots, reduce back-and-forth, and schedule meetings faster across teams.
 
-Google Calendar Summarize my calendar, compare availability, prep meetings, or draft event details
+![](https://files.openai.com/content?id=file_00000000970481f5b8b68deb912e6bc5&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=8&sig=1b39aa1deb8a0282fdd5a8148464248cf892979c41421c48bb239eae61f7910a&v=0)Google Calendar Summarize my calendar, compare availability, prep meetings, or draft event details
 
-[(opens in a new window)](<https://chatgpt.com/?q=Google+Calendar+Summarize+my+calendar%2C+compare+availability%2C+prep+meetings%2C+or+draft+event+details>)
+[(opens in a new window)](<https://chatgpt.com/?q=%40Google+Calendar+Summarize+my+calendar%2C+compare+availability%2C+prep+meetings%2C+or+draft+event+details>)
 
   * ### Improve schedule visibility and prioritization
 
 Review upcoming events for conflicts, and highlight critical sessions so leaders can plan their days around the highest-value engagements.
 
-Google Calendar Look at my schedule tomorrow and build a realistic day plan with focus blocks and the meetings I should prep for first.
+![](https://files.openai.com/content?id=file_00000000970481f5b8b68deb912e6bc5&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=8&sig=1b39aa1deb8a0282fdd5a8148464248cf892979c41421c48bb239eae61f7910a&v=0)Google Calendar Look at my schedule tomorrow and build a realistic day plan with focus blocks and the meetings I should prep for first.
 
-[(opens in a new window)](<https://chatgpt.com/?q=Google+Calendar+Look+at+my+schedule+tomorrow+and+build+a+realistic+day+plan+with+focus+blocks+and+the+meetings+I+should+prep+for+first.>)
+[(opens in a new window)](<https://chatgpt.com/?q=%40Google+Calendar+Look+at+my+schedule+tomorrow+and+build+a+realistic+day+plan+with+focus+blocks+and+the+meetings+I+should+prep+for+first.>)
 
   * ### Plan days and weeks with clarity
 
 Understand how productivity time is allocated, prepare for key meetings, and make informed tradeoffs when scheduling new work.
 
-Google Calendar Analyze my last 4 weeks of meetings and summarize how my time is split across product, sales, and ops; suggest 3 changes.
+![](https://files.openai.com/content?id=file_00000000970481f5b8b68deb912e6bc5&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=8&sig=1b39aa1deb8a0282fdd5a8148464248cf892979c41421c48bb239eae61f7910a&v=0)Google Calendar Analyze my last 4 weeks of meetings and summarize how my time is split across product, sales, and ops; suggest 3 changes.
 
-[(opens in a new window)](<https://chatgpt.com/?q=Google+Calendar+Analyze+my+last+4+weeks+of+meetings+and+summarize+how+my+time+is+split+across+product%2C+sales%2C+and+ops%3B+suggest+3+changes.>)
+[(opens in a new window)](<https://chatgpt.com/?q=%40Google+Calendar+Analyze+my+last+4+weeks+of+meetings+and+summarize+how+my+time+is+split+across+product%2C+sales%2C+and+ops%3B+suggest+3+changes.>)
 
 
 
@@ -98,6 +98,16 @@ Google Calendar Analyze my last 4 weeks of meetings and summarize how my time is
 ### [Plugin supportLearn more](<https://support.google.com/calendar/>)
 
 ### [Privacy policyLearn more](<https://policies.google.com/privacy>)
+
+## Add plugins in a few clicks
+
+Availability depends on the plugin, your plan, and workspace settings. Some connections require admin setup or approval. Contact your workspace admin if access is blocked.
+
+[View the setup guide](<https://learn.chatgpt.com/docs/plugins>)
+
+## Explore related plugins
+
+[![](https://files.openai.com/content?id=file_00000000191081f79dfeddb7b502b1bf&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=3e3f6f7a793416cd9a93e61c94c2bd4631dd37631f592d4e774aa254e2b1c9b7&v=0)![](https://files.openai.com/content?id=file_00000000191081f79dfeddb7b502b1bf&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=3e3f6f7a793416cd9a93e61c94c2bd4631dd37631f592d4e774aa254e2b1c9b7&v=0)SalesPrepare account work and customer follow-up.](</business/plugins/sales/>)[![](https://files.openai.com/content?id=file_00000000990481fd9c316ee59df47fc5&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=8&sig=bd8ee8654d100eefe078aa49822119c307f7c6f39021603fafb3d083c1cb5cac&v=0)![](https://files.openai.com/content?id=file_00000000990481fd9c316ee59df47fc5&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=8&sig=bd8ee8654d100eefe078aa49822119c307f7c6f39021603fafb3d083c1cb5cac&v=0)GmailFind and reference emails from your inbox.](</business/plugins/gmail/>)[![](https://files.openai.com/content?id=file_00000000a9a081f78752dfef864b2597&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=18fa18d4c839a23ca63639259d332c2f50d433faa731d9b7755f08c333b78e47&v=0)![](https://files.openai.com/content?id=file_00000000a9a081f78752dfef864b2597&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=18fa18d4c839a23ca63639259d332c2f50d433faa731d9b7755f08c333b78e47&v=0)Google DriveSearch and reference files from your Drive.](</business/plugins/google-drive/>)[![](https://files.openai.com/content?id=file_00000000aa9071f59db729d014a2c122&cdn=1&cp=pi&ma=31795200&ts=0&p=pi&cid=1&sig=6709f94e3d491849be21f21c311321cfd336dd2079d72129fb55b6b76e78464e&v=0)![](https://files.openai.com/content?id=file_00000000289881f78412bec5f6f0a389&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=8&sig=52f0f0a1d820e8d2548e6d6e0e4f42e7a7900384b50418850b66476aad680181&v=0)ZoomSmart meeting insights from Zoom.](</business/plugins/zoom/>)[![](https://files.openai.com/content?id=file_000000004a50722f96089a32eeed297c&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=1&sig=07807a7cbefb19d9cd968741565427527585e02f13335ddd46129d77e9dfe317&v=0)![](https://files.openai.com/content?id=file_0000000072dc81f69476895c0081c9c6&cdn=1&cp=pi&ma=31363200&ts=0&p=pi&cid=8&sig=ae98e7cc8005841970b2d7697ed1cfd38a1f393c65889c0de686c5db7b93da03&v=0)AsanaTurn Asana tasks into clear updates and plans.](</business/plugins/asana/>)[![](https://files.openai.com/content?id=file_00000000994081fd9df560367dfe54f4&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=8&sig=55e9028947fbc7ea3284b715ca95e34f797efbc5c4e0e47a9b2b0509d787308d&v=0)![](https://files.openai.com/content?id=file_00000000994081fd9df560367dfe54f4&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=8&sig=55e9028947fbc7ea3284b715ca95e34f797efbc5c4e0e47a9b2b0509d787308d&v=0)SlackLook up chats and messages.](</business/plugins/slack/>)
 
 ## Get started with plugins
 
@@ -210,3 +220,21 @@ Terms & Policies
 OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
+
+### 1Find a plugin1Find a plugin
+
+Browse for plugins that support your team’s tools and tasks.
+
+![ChatGPT plugin directory showing Google Drive, Slack, and Google Calendar.](https://images.ctfassets.net/kftzwdyauwt9/6yJgeQSCr32uzNSynka2cc/f5da877c4684cb18ecb9babf62723e2b/1.png?w=3840&q=90&fm=webp)
+
+### 2Install and connect2Install and connect
+
+Install the plugin, then follow the prompts to review permissions and connect any required apps.
+
+![Select the add button to install the Gmail plugin.](https://images.ctfassets.net/kftzwdyauwt9/7gNt7Pk3s8Mf0ql8JAedDS/c533bb5268aef1bed2ef56d5f5ccb06f/2.png?w=3840&q=90&fm=webp)
+
+### 3Put it to work3Put it to work
+
+Start a new chat in ChatGPT Work or Codex, describe the result you need, and ask it to use plugins.
+
+![Ask ChatGPT to prepare a meeting brief using Google Calendar, Gmail, and Slack.](https://images.ctfassets.net/kftzwdyauwt9/tQaC60CeLrMeEalZJnAwl/b4419ccddbaed0103124a22854097e81/3.png?w=3840&q=90&fm=webp)
