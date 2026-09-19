@@ -34,7 +34,7 @@ OpenAI
 
 Search docs and deploy apps.
 
-[Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_690a90ec05c881918afb6a55dc9bbaa1>)[Contact sales](</contact-sales/>)
+[Install plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_690a90ec05c881918afb6a55dc9bbaa1>)[Contact sales](</contact-sales/>)
 
 Capabilities
     Interactive, Write
@@ -48,37 +48,31 @@ Developer
 Website
     [(opens in a new window)](<https://vercel.com/>)
 
-[![](https://files.openai.com/content?id=file_00000000e96c722f90c74485f78831eb&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=1&sig=91892ac5549f1ba8e26b47472f8ac24137e18914a9f206d40df1e78354ee2378&v=0)Vercel Audit this repo for Vercel deployment risks(opens in a new window)](<https://chatgpt.com/?prompt=%40Vercel+Audit+this+repo+for+Vercel+deployment+risks>)[![](https://files.openai.com/content?id=file_00000000e96c722f90c74485f78831eb&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=1&sig=91892ac5549f1ba8e26b47472f8ac24137e18914a9f206d40df1e78354ee2378&v=0)Vercel Which Vercel tools fit this app best(opens in a new window)](<https://chatgpt.com/?prompt=%40Vercel+Which+Vercel+tools+fit+this+app+best>)[![](https://files.openai.com/content?id=file_00000000e96c722f90c74485f78831eb&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=1&sig=91892ac5549f1ba8e26b47472f8ac24137e18914a9f206d40df1e78354ee2378&v=0)Vercel Help wire the Vercel app into this workflow(opens in a new window)](<https://chatgpt.com/?prompt=%40Vercel+Help+wire+the+Vercel+app+into+this+workflow>)
+[![](https://files.openai.com/content?id=file_00000000e96c722f90c74485f78831eb&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=1&sig=91892ac5549f1ba8e26b47472f8ac24137e18914a9f206d40df1e78354ee2378&v=0)Vercel Audit this repo for Vercel deployment risks(opens in a new window)](<https://chatgpt.com/?prompt=%40Vercel+Audit+this+repo+for+Vercel+deployment+risks>)
 
 ## How it works
 
 Use natural language to inspect projects and deployments, and review logs within workflows to accelerate troubleshooting, improve delivery speed, and reduce context switching.
 
-## Common use cases
+## What else can you do?
 
   * ### Accelerate issue diagnosis
 
-Quickly surface documentation, configuration details, and error logs for faster root-cause analysis to reduce time spent navigating consoles and impove response times across teams.
-
 ![](https://files.openai.com/content?id=file_00000000e96c722f90c74485f78831eb&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=1&sig=91892ac5549f1ba8e26b47472f8ac24137e18914a9f206d40df1e78354ee2378&v=0)Vercel List all domains for my team and identify which environments they point to including any risky misconfigurations.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Vercel+List+all+domains+for+my+team+and+identify+which+environments+they+point+to+including+any+risky+misconfigurations.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Vercel+List+all+domains+for+my+team+and+identify+which+environments+they+point+to+including+any+risky+misconfigurations.>)
 
   * ### Improve deployment visibility
 
-View project metadata, domains, and latest deployment states in one step, enabling faster release reviews, environment validation, and confident production changes.
-
 ![](https://files.openai.com/content?id=file_00000000e96c722f90c74485f78831eb&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=1&sig=91892ac5549f1ba8e26b47472f8ac24137e18914a9f206d40df1e78354ee2378&v=0)Vercel What is the status of the latest production deployment for [project] and what changed since the previous deploy.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Vercel+What+is+the+status+of+the+latest+production+deployment+for+%5Bproject%5D+and+what+changed+since+the+previous+deploy.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Vercel+What+is+the+status+of+the+latest+production+deployment+for+%5Bproject%5D+and+what+changed+since+the+previous+deploy.>)
 
   * ### Streamline project management
 
-List and inspect team projects without switching tools, giving engineering leads clearer oversight of assets, activity, and operational health across their Vercel footprint.
-
 ![](https://files.openai.com/content?id=file_00000000e96c722f90c74485f78831eb&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=1&sig=91892ac5549f1ba8e26b47472f8ac24137e18914a9f206d40df1e78354ee2378&v=0)Vercel List my team's projects with their latest deployment status and domains, and highlight any projects that need attention.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Vercel+List+my+team%27s+projects+with+their+latest+deployment+status+and+domains%2C+and+highlight+any+projects+that+need+attention.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Vercel+List+my+team%27s+projects+with+their+latest+deployment+status+and+domains%2C+and+highlight+any+projects+that+need+attention.>)
 
 
 

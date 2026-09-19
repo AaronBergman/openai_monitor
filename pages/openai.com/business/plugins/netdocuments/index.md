@@ -34,7 +34,7 @@ OpenAI
 
 Search and retrieve documents
 
-[Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_templated_apps_6a88a619b36c8191ac27a9756491ee61>)[Contact sales](</contact-sales/>)
+[Install plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_templated_apps_6a88a619b36c8191ac27a9756491ee61>)[Contact sales](</contact-sales/>)
 
 Category
     [Operations](</business/plugins/?tab=plugins-operations>)
@@ -45,37 +45,31 @@ Developer
 Website
     [(opens in a new window)](<https://www.netdocuments.com/>)
 
-[![](https://files.openai.com/content?id=file_0000000055bc81f7aebf1b809bc460a0&cdn=1&cp=pi&ma=31881600&ts=0&p=pi&cid=8&sig=b62819253a7e5be506c70576d1c3d97cbb1767df476d4287cc18848edf60311d&v=0)NetDocuments Summarize the key terms in [document name], with a link to the source in NetDocuments.(opens in a new window)](<https://chatgpt.com/?prompt=%40NetDocuments+Summarize+the+key+terms+in+%5Bdocument+name%5D%2C+with+a+link+to+the+source+in+NetDocuments.>)[![](https://files.openai.com/content?id=file_0000000055bc81f7aebf1b809bc460a0&cdn=1&cp=pi&ma=31881600&ts=0&p=pi&cid=8&sig=b62819253a7e5be506c70576d1c3d97cbb1767df476d4287cc18848edf60311d&v=0)NetDocuments Find our agreements with [counterparty] and compare their terms.(opens in a new window)](<https://chatgpt.com/?prompt=%40NetDocuments+Find+our+agreements+with+%5Bcounterparty%5D+and+compare+their+terms.>)[![](https://files.openai.com/content?id=file_0000000055bc81f7aebf1b809bc460a0&cdn=1&cp=pi&ma=31881600&ts=0&p=pi&cid=8&sig=b62819253a7e5be506c70576d1c3d97cbb1767df476d4287cc18848edf60311d&v=0)NetDocuments Find our [document type] for [matter] and use it to draft a playbook.(opens in a new window)](<https://chatgpt.com/?prompt=%40NetDocuments+Find+our+%5Bdocument+type%5D+for+%5Bmatter%5D+and+use+it+to+draft+a+playbook.>)
+[![](https://files.openai.com/content?id=file_0000000055bc81f7aebf1b809bc460a0&cdn=1&cp=pi&ma=31881600&ts=0&p=pi&cid=8&sig=b62819253a7e5be506c70576d1c3d97cbb1767df476d4287cc18848edf60311d&v=0)NetDocuments Summarize the key terms in [document name], with a link to the source in NetDocuments.(opens in a new window)](<https://chatgpt.com/?prompt=%40NetDocuments+Summarize+the+key+terms+in+%5Bdocument+name%5D%2C+with+a+link+to+the+source+in+NetDocuments.>)
 
 ## How it works
 
 NetDocuments lets users search their permission-scoped legal document repository, retrieve document text, and use source-linked content for summaries, comparisons, and questions in ChatGPT. Repository permissions, ethical walls, and AI data loss prevention policies are enforced.
 
-## Common use cases
+## What else can you do?
 
   * ### Brief the agreement
 
-Produce a concise agreement brief with key terms, obligations, and questions for review linked to the source.
-
 ![](https://files.openai.com/content?id=file_0000000055bc81f7aebf1b809bc460a0&cdn=1&cp=pi&ma=31881600&ts=0&p=pi&cid=8&sig=b62819253a7e5be506c70576d1c3d97cbb1767df476d4287cc18848edf60311d&v=0)NetDocuments Prepare a one-page brief of [document name] covering key terms, obligations, and deadlines. Flag ambiguous provisions and questions for review, with links to the source in NetDocuments.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40NetDocuments+Prepare+a+one-page+brief+of+%5Bdocument+name%5D+covering+key+terms%2C+obligations%2C+and+deadlines.+Flag+ambiguous+provisions+and+questions+for+review%2C+with+links+to+the+source+in+NetDocuments.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40NetDocuments+Prepare+a+one-page+brief+of+%5Bdocument+name%5D+covering+key+terms%2C+obligations%2C+and+deadlines.+Flag+ambiguous+provisions+and+questions+for+review%2C+with+links+to+the+source+in+NetDocuments.>)
 
   * ### Compare counterparty terms
 
-Compare a counterparty's agreements to surface differences in commercial terms that deserve attention.
-
 ![](https://files.openai.com/content?id=file_0000000055bc81f7aebf1b809bc460a0&cdn=1&cp=pi&ma=31881600&ts=0&p=pi&cid=8&sig=b62819253a7e5be506c70576d1c3d97cbb1767df476d4287cc18848edf60311d&v=0)NetDocuments Find up to five agreements with [counterparty] and compare payment, renewal, termination, and liability terms. Highlight differences that merit review and link each source.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40NetDocuments+Find+up+to+five+agreements+with+%5Bcounterparty%5D+and+compare+payment%2C+renewal%2C+termination%2C+and+liability+terms.+Highlight+differences+that+merit+review+and+link+each+source.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40NetDocuments+Find+up+to+five+agreements+with+%5Bcounterparty%5D+and+compare+payment%2C+renewal%2C+termination%2C+and+liability+terms.+Highlight+differences+that+merit+review+and+link+each+source.>)
 
   * ### Draft a negotiation playbook
 
-Build a source-backed negotiation playbook from matter documents, separating precedent language from suggested positions.
-
 ![](https://files.openai.com/content?id=file_0000000055bc81f7aebf1b809bc460a0&cdn=1&cp=pi&ma=31881600&ts=0&p=pi&cid=8&sig=b62819253a7e5be506c70576d1c3d97cbb1767df476d4287cc18848edf60311d&v=0)NetDocuments Use up to five [document type] documents from [matter] to draft a negotiation playbook with recurring positions, fallback language, and unresolved gaps. Cite each source and distinguish examples from recommended wording.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40NetDocuments+Use+up+to+five+%5Bdocument+type%5D+documents+from+%5Bmatter%5D+to+draft+a+negotiation+playbook+with+recurring+positions%2C+fallback+language%2C+and+unresolved+gaps.+Cite+each+source+and+distinguish+examples+from+recommended+wording.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40NetDocuments+Use+up+to+five+%5Bdocument+type%5D+documents+from+%5Bmatter%5D+to+draft+a+negotiation+playbook+with+recurring+positions%2C+fallback+language%2C+and+unresolved+gaps.+Cite+each+source+and+distinguish+examples+from+recommended+wording.>)
 
 
 

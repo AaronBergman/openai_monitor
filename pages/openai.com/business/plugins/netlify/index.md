@@ -34,7 +34,7 @@ OpenAI
 
 Build and deploy sites on Netlify.
 
-[Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_691f1f8f72408191afdbbdf8242bdf86>)[Contact sales](</contact-sales/>)
+[Install plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_691f1f8f72408191afdbbdf8242bdf86>)[Contact sales](</contact-sales/>)
 
 Capabilities
     Interactive, Write
@@ -54,31 +54,25 @@ Website
 
 Build, deploy, and manage Netlify web projects in ChatGPT using natural language to handle deployments, configuration, and access controls.
 
-## Common use cases
+## What else can you do?
 
   * ### Support site setup and launches
 
-Create projects from repositories, set configurations, and trigger initial deploys using natural language commands.
-
 ![](https://files.openai.com/content?id=file_00000000075071f597aa27ecc6b886dc&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=1&sig=042cb4d8093f65e8071678d14c61675a616ca92949d66f3cd18171dcd8b279da&v=0)Netlify Create a new site from my GitHub repo and walk me through the required build settings and enironment variables.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Netlify+Create+a+new+site+from+my+GitHub+repo+and+walk+me+through+the+required+build+settings+and+enironment+variables.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Netlify+Create+a+new+site+from+my+GitHub+repo+and+walk+me+through+the+required+build+settings+and+enironment+variables.>)
 
   * ### Manage deployment configuration
 
-Manage environment variables, access controls, and extensions through ChatGPT to update site configuration.
-
 ![](https://files.openai.com/content?id=file_00000000075071f597aa27ecc6b886dc&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=1&sig=042cb4d8093f65e8071678d14c61675a616ca92949d66f3cd18171dcd8b279da&v=0)Netlify List all environment variables for [site] and flag anything that looks unsafe or inconsistent across environments.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Netlify+List+all+environment+variables+for+%5Bsite%5D+and+flag+anything+that+looks+unsafe+or+inconsistent+across+environments.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Netlify+List+all+environment+variables+for+%5Bsite%5D+and+flag+anything+that+looks+unsafe+or+inconsistent+across+environments.>)
 
   * ### Scale ongoing site operations
 
-Trigger redeploys and manage site updates through ChatGPT to support ongoing project maintenance.
-
 ![](https://files.openai.com/content?id=file_00000000075071f597aa27ecc6b886dc&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=1&sig=042cb4d8093f65e8071678d14c61675a616ca92949d66f3cd18171dcd8b279da&v=0)Netlify Show me all sites under my team with their deploy status and last publish time and highlight anything stale.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Netlify+Show+me+all+sites+under+my+team+with+their+deploy+status+and+last+publish+time+and+highlight+anything+stale.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Netlify+Show+me+all+sites+under+my+team+with+their+deploy+status+and+last+publish+time+and+highlight+anything+stale.>)
 
 
 

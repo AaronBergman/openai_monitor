@@ -34,7 +34,7 @@ OpenAI
 
 Record work, unlock insight
 
-[Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6aa0a6c7b624819196b60e3eaef05562>)[Contact sales](</contact-sales/>)
+[Install plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6aa0a6c7b624819196b60e3eaef05562>)[Contact sales](</contact-sales/>)
 
 Category
     [Operations](</business/plugins/?tab=plugins-operations>)
@@ -45,37 +45,31 @@ Developer
 Website
     [(opens in a new window)](<https://www.laurel.ai/>)
 
-[![](https://files.openai.com/content?id=file_00000000572081fdb633f5eb2f3333a5&cdn=1&cp=pi&ma=31968000&ts=0&p=pi&cid=8&sig=9faa90356e266819a13ff969381e4678715e1743c81e39d9711a66605adffe8b&v=0)Laurel get my entries from yesterday(opens in a new window)](<https://chatgpt.com/?prompt=%40Laurel+get+my+entries+from+yesterday>)[![](https://files.openai.com/content?id=file_00000000572081fdb633f5eb2f3333a5&cdn=1&cp=pi&ma=31968000&ts=0&p=pi&cid=8&sig=9faa90356e266819a13ff969381e4678715e1743c81e39d9711a66605adffe8b&v=0)Laurel get my activities from yesterday(opens in a new window)](<https://chatgpt.com/?prompt=%40Laurel+get+my+activities+from+yesterday>)
+[![](https://files.openai.com/content?id=file_00000000572081fdb633f5eb2f3333a5&cdn=1&cp=pi&ma=31968000&ts=0&p=pi&cid=8&sig=9faa90356e266819a13ff969381e4678715e1743c81e39d9711a66605adffe8b&v=0)Laurel get my entries from yesterday(opens in a new window)](<https://chatgpt.com/?prompt=%40Laurel+get+my+entries+from+yesterday>)
 
 ## How it works
 
 Laurel is the AI timekeeping and work intelligence platform built for professional services firms. This plugin brings that work into ChatGPT, so knowledge workers can review their day without leaving the conversation. Retrieve the time entries and activities Laurel captured throughout the day, and see where billable time went. Summarize work by client, matter, or application, and spot the gaps between what got done and what's been recorded. Turn that activity into billing narratives, ready for an end-of-day or weekly review. Access stays tied to your Laurel account throughout.
 
-## Common use cases
+## What else can you do?
 
   * ### Summarize your working day
 
-See how yesterday's recorded time was distributed across clients and matters.
-
 ![](https://files.openai.com/content?id=file_00000000572081fdb633f5eb2f3333a5&cdn=1&cp=pi&ma=31968000&ts=0&p=pi&cid=8&sig=9faa90356e266819a13ff969381e4678715e1743c81e39d9711a66605adffe8b&v=0)Laurel Retrieve yesterday's time entries and summarize recorded time by client and matter. Highlight the largest allocations and identify entries with missing context for my review.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Laurel+Retrieve+yesterday%27s+time+entries+and+summarize+recorded+time+by+client+and+matter.+Highlight+the+largest+allocations+and+identify+entries+with+missing+context+for+my+review.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Laurel+Retrieve+yesterday%27s+time+entries+and+summarize+recorded+time+by+client+and+matter.+Highlight+the+largest+allocations+and+identify+entries+with+missing+context+for+my+review.>)
 
   * ### Find gaps in recorded time
 
-Compare captured work activity with time entries to identify possible omissions that need review.
-
 ![](https://files.openai.com/content?id=file_00000000572081fdb633f5eb2f3333a5&cdn=1&cp=pi&ma=31968000&ts=0&p=pi&cid=8&sig=9faa90356e266819a13ff969381e4678715e1743c81e39d9711a66605adffe8b&v=0)Laurel Compare yesterday's captured activities with my time entries. Identify activity that may be missing from the recorded time, explain the evidence, and flag uncertain matches for my review.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Laurel+Compare+yesterday%27s+captured+activities+with+my+time+entries.+Identify+activity+that+may+be+missing+from+the+recorded+time%2C+explain+the+evidence%2C+and+flag+uncertain+matches+for+my+review.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Laurel+Compare+yesterday%27s+captured+activities+with+my+time+entries.+Identify+activity+that+may+be+missing+from+the+recorded+time%2C+explain+the+evidence%2C+and+flag+uncertain+matches+for+my+review.>)
 
   * ### Draft billing narratives
 
-Turn captured activities into clear billing narratives for a weekly review.
-
 ![](https://files.openai.com/content?id=file_00000000572081fdb633f5eb2f3333a5&cdn=1&cp=pi&ma=31968000&ts=0&p=pi&cid=8&sig=9faa90356e266819a13ff969381e4678715e1743c81e39d9711a66605adffe8b&v=0)Laurel Use this week's time entries and activities to draft concise billing narratives by client and matter. Ground each narrative in the captured work and flag missing context for my review.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Laurel+Use+this+week%27s+time+entries+and+activities+to+draft+concise+billing+narratives+by+client+and+matter.+Ground+each+narrative+in+the+captured+work+and+flag+missing+context+for+my+review.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Laurel+Use+this+week%27s+time+entries+and+activities+to+draft+concise+billing+narratives+by+client+and+matter.+Ground+each+narrative+in+the+captured+work+and+flag+missing+context+for+my+review.>)
 
 
 

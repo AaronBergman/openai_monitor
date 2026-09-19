@@ -34,7 +34,7 @@ OpenAI
 
 Access Vincent in Clio
 
-[Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a9ae42bf8148191b31cd429bd5937d5>)[Contact sales](</contact-sales/>)
+[Install plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a9ae42bf8148191b31cd429bd5937d5>)[Contact sales](</contact-sales/>)
 
 Category
     [Productivity](</business/plugins/?tab=plugins-productivity>)
@@ -49,31 +49,25 @@ Website
 
 Bring Vincent’s legal intelligence into Codex. Research the law, analyze dockets and develop case strategy with access to Clio Library and Clio Docket, with citations back to the underlying sources. Your matters and firm data stay securely governed in Clio.
 
-## Common use cases
+## What else can you do?
 
   * ### Compare legal requirements
 
-Get a cited comparison of legal requirements and the differences that matter for a business decision.
-
 ![](https://files.openai.com/content?id=file_0000000014b881fda4f58beb54ae1129&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=8&sig=097778accce66c9462f925d14fe6d63009ebbb6be816acb21bf7d5b3dc7a1c62&v=0)Clio Compare [legal issue] in [jurisdiction A] and [jurisdiction B]. Prepare a cited memo on material differences, risks for the facts below, and questions counsel should resolve before advising the business.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Clio+Compare+%5Blegal+issue%5D+in+%5Bjurisdiction+A%5D+and+%5Bjurisdiction+B%5D.+Prepare+a+cited+memo+on+material+differences%2C+risks+for+the+facts+below%2C+and+questions+counsel+should+resolve+before+advising+the+business.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Clio+Compare+%5Blegal+issue%5D+in+%5Bjurisdiction+A%5D+and+%5Bjurisdiction+B%5D.+Prepare+a+cited+memo+on+material+differences%2C+risks+for+the+facts+below%2C+and+questions+counsel+should+resolve+before+advising+the+business.>)
 
   * ### Brief recent docket activity
 
-Turn recent court filings into a procedural timeline with key rulings and unresolved motions.
-
 ![](https://files.openai.com/content?id=file_0000000014b881fda4f58beb54ae1129&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=8&sig=097778accce66c9462f925d14fe6d63009ebbb6be816acb21bf7d5b3dc7a1c62&v=0)Clio Review available filings for [case and court] from the past 90 days. Build a cited procedural timeline, summarize key rulings and pending motions, and identify issues that need counsel's attention.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Clio+Review+available+filings+for+%5Bcase+and+court%5D+from+the+past+90+days.+Build+a+cited+procedural+timeline%2C+summarize+key+rulings+and+pending+motions%2C+and+identify+issues+that+need+counsel%27s+attention.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Clio+Review+available+filings+for+%5Bcase+and+court%5D+from+the+past+90+days.+Build+a+cited+procedural+timeline%2C+summarize+key+rulings+and+pending+motions%2C+and+identify+issues+that+need+counsel%27s+attention.>)
 
   * ### Build a motion argument
 
-Develop an argument outline that weighs supporting and adverse authority and exposes factual gaps.
-
 ![](https://files.openai.com/content?id=file_0000000014b881fda4f58beb54ae1129&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=8&sig=097778accce66c9462f925d14fe6d63009ebbb6be816acb21bf7d5b3dc7a1c62&v=0)Clio Build an argument outline for [motion] in [jurisdiction] using the facts below. Cite supporting and adverse authorities, distinguish weak comparisons, and flag factual gaps for attorney review.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Clio+Build+an+argument+outline+for+%5Bmotion%5D+in+%5Bjurisdiction%5D+using+the+facts+below.+Cite+supporting+and+adverse+authorities%2C+distinguish+weak+comparisons%2C+and+flag+factual+gaps+for+attorney+review.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Clio+Build+an+argument+outline+for+%5Bmotion%5D+in+%5Bjurisdiction%5D+using+the+facts+below.+Cite+supporting+and+adverse+authorities%2C+distinguish+weak+comparisons%2C+and+flag+factual+gaps+for+attorney+review.>)
 
 
 

@@ -503,12 +503,19 @@ Note that each UI element can have arbitrary children which reference the root s
 There are a few limitations to keep in mind when using Structured Outputs:
 
   * Structured Outputs allows only a subset of JSON Schema, detailed [_in our docs_ ⁠(opens in a new window)](<https://platform.openai.com/docs/guides/structured-outputs>). This helps us ensure the best possible performance.
+
   * The first API response with a new schema will incur additional latency, but subsequent responses will be fast with no latency penalty. This is because during the first request, we process the schema as indicated above and then cache these artifacts for fast reuse later on. Typical schemas take under 10 seconds to process on the first request, but more complex schemas may take up to a minute.
+
   * The model can fail to follow the schema if the model chooses to refuse an unsafe request. If it chooses to refuse, the return message will have the `refusal` boolean set to true to indicate this. 
+
   * The model can fail to follow the schema if the generation reaches `max_tokens` or another stop condition before finishing. 
+
   * Structured Outputs doesn’t prevent all kinds of model mistakes. For example, the model may still make mistakes within the values of the JSON object (e.g., getting a step wrong in a mathematical equation). If developers find mistakes, we recommend providing examples in the system instructions or splitting tasks into simpler subtasks.
+
   * Structured Outputs is not compatible with parallel function calls. When a parallel function call is generated, it may not match supplied schemas. Set `parallel_tool_calls: false` to disable parallel function calling.
+
   * JSON Schemas supplied with Structured Outputs aren’t [Zero Data Retention⁠(opens in a new window)](<https://platform.openai.com/docs/models/how-we-use-your-data>) (ZDR) eligible.
+
 
 
 

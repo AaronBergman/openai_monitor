@@ -34,7 +34,7 @@ OpenAI
 
 Make diagrams, slides, assets.
 
-[Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_68df038e0ba48191908c8434991bbac2>)[Contact sales](</contact-sales/>)
+[Install plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_68df038e0ba48191908c8434991bbac2>)[Contact sales](</contact-sales/>)
 
 Category
     [Design & Creative](</business/plugins/?tab=plugins-design-creative>)
@@ -45,37 +45,35 @@ Developer
 Website
     [(opens in a new window)](<https://www.figma.com>)
 
-[![](https://files.openai.com/content?id=file_0000000024f8820c99aca12aa7c4aea1&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=6ad06c130b5f6470718cd9915c35cab9c100ff75092d081b027c90a10102e8c0&v=0)Figma read the attached PRD and create a flowchart of the 2FA flow(opens in a new window)](<https://chatgpt.com/?prompt=%40Figma+read+the+attached+PRD+and+create+a+flowchart+of+the+2FA+flow>)[![](https://files.openai.com/content?id=file_0000000024f8820c99aca12aa7c4aea1&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=6ad06c130b5f6470718cd9915c35cab9c100ff75092d081b027c90a10102e8c0&v=0)Figma create a competitive analysis deck comparing travel platforms(opens in a new window)](<https://chatgpt.com/?prompt=%40Figma+create+a+competitive+analysis+deck+comparing+travel+platforms>)
+## Landing page design
+
+![](https://files.openai.com/content?id=file_0000000024f8820c99aca12aa7c4aea1&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=6ad06c130b5f6470718cd9915c35cab9c100ff75092d081b027c90a10102e8c0&v=0)Figma turn our latest product brief in Google Drive into a landing page design with desktop and mobile layouts. Use our brand styles and a clear call to action.
+
+![](https://files.openai.com/content?id=file_0000000024f8820c99aca12aa7c4aea1&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=6ad06c130b5f6470718cd9915c35cab9c100ff75092d081b027c90a10102e8c0&v=0)Figma turn our latest product brief in Google Drive into a landing page design with desktop and mobile layouts. Use our brand styles and a clear call to action.
 
 ## How it works
 
 Transform ideas into production-ready designs, slides, and diagrams by generating editable Figma and FigJam assets that streamline creation and collaboration.
 
-## Common use cases
+## What else can you do?
 
   * ### Accelerate content and design creation
 
-Generate social posts, ads, and visuals from brief inputs to reduce production cycles and deliver consistent, on-brand assets across teams faster.
-
 ![](https://files.openai.com/content?id=file_0000000024f8820c99aca12aa7c4aea1&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=6ad06c130b5f6470718cd9915c35cab9c100ff75092d081b027c90a10102e8c0&v=0)Figma Convert this user journey text into a storyboard layout with frames for key moments and annotations.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Figma+Convert+this+user+journey+text+into+a+storyboard+layout+with+frames+for+key+moments+and+annotations.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Figma+Convert+this+user+journey+text+into+a+storyboard+layout+with+frames+for+key+moments+and+annotations.>)
 
   * ### Produce polished presentations quickly
 
-Turn outlines or goals into full slide decks, reducing manual formatting and enabling teams to share executive-ready content with minimal effort.
-
 ![](https://files.openai.com/content?id=file_0000000024f8820c99aca12aa7c4aea1&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=6ad06c130b5f6470718cd9915c35cab9c100ff75092d081b027c90a10102e8c0&v=0)Figma create a competitive analysis deck comparing travel platforms
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Figma+create+a+competitive+analysis+deck+comparing+travel+platforms>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Figma+create+a+competitive+analysis+deck+comparing+travel+platforms>)
 
   * ### Build diagrams that clarify workflows
 
-Create flowcharts, Gantt charts, and FigJam diagrams from prompts to document processes faster, reduce misalignment, and support smoother cross-functional planning.
-
 ![](https://files.openai.com/content?id=file_0000000024f8820c99aca12aa7c4aea1&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=6ad06c130b5f6470718cd9915c35cab9c100ff75092d081b027c90a10102e8c0&v=0)Figma Create a FigJam flow diagram for our procurement process from request to approval to payment including decision points.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Figma+Create+a+FigJam+flow+diagram+for+our+procurement+process+from+request+to+approval+to+payment+including+decision+points.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Figma+Create+a+FigJam+flow+diagram+for+our+procurement+process+from+request+to+approval+to+payment+including+decision+points.>)
 
 
 

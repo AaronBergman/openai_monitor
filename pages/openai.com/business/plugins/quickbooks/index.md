@@ -34,7 +34,7 @@ OpenAI
 
 Business finances made simple
 
-[Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_697aea3231288191b28a0061066e51bd>)[Contact sales](</contact-sales/>)
+[Install plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_697aea3231288191b28a0061066e51bd>)[Contact sales](</contact-sales/>)
 
 Category
     [Finance](</business/plugins/?tab=plugins-finance>)
@@ -45,37 +45,31 @@ Developer
 Website
     [(opens in a new window)](<https://quickbooks.intuit.com>)
 
-[![](https://files.openai.com/content?id=file_000000001e20722faa250d589f9cc0a7&cdn=1&cp=pi&ma=31968000&ts=0&p=pi&cid=1&sig=f44443a7c89e1f9033c6d368294ce35ad745384035de2f20b422b7eabc1f2d8e&v=0)Intuit QuickBooks Show top five industries in California by monthly profit(opens in a new window)](<https://chatgpt.com/?prompt=%40Intuit+QuickBooks+Show+top+five+industries+in+California+by+monthly+profit>)[![](https://files.openai.com/content?id=file_000000001e20722faa250d589f9cc0a7&cdn=1&cp=pi&ma=31968000&ts=0&p=pi&cid=1&sig=f44443a7c89e1f9033c6d368294ce35ad745384035de2f20b422b7eabc1f2d8e&v=0)Intuit QuickBooks How does my profit compare to top 5 industries in my area(opens in a new window)](<https://chatgpt.com/?prompt=%40Intuit+QuickBooks+How+does+my+profit+compare+to+top+5+industries+in+my+area>)[![](https://files.openai.com/content?id=file_000000001e20722faa250d589f9cc0a7&cdn=1&cp=pi&ma=31968000&ts=0&p=pi&cid=1&sig=f44443a7c89e1f9033c6d368294ce35ad745384035de2f20b422b7eabc1f2d8e&v=0)Intuit QuickBooks Show me my profit and loss statement from QuickBooks(opens in a new window)](<https://chatgpt.com/?prompt=%40Intuit+QuickBooks+Show+me+my+profit+and+loss+statement+from+QuickBooks>)
+[![](https://files.openai.com/content?id=file_000000001e20722faa250d589f9cc0a7&cdn=1&cp=pi&ma=31968000&ts=0&p=pi&cid=1&sig=f44443a7c89e1f9033c6d368294ce35ad745384035de2f20b422b7eabc1f2d8e&v=0)Intuit QuickBooks Show top five industries in California by monthly profit(opens in a new window)](<https://chatgpt.com/?prompt=%40Intuit+QuickBooks+Show+top+five+industries+in+California+by+monthly+profit>)
 
 ## How it works
 
 Turn your business's raw financial data into clear financial insights. Analyze profitability, cash flow, accounts receivable and payable, and compare your performance against similar businesses in your industry and region. Generate accounting-compliant profit & loss, cash flow statements, balance sheets, and AR/AP aging reports in minutes. Manage invoices, estimates, payments, customers, products, and payroll directly from chat. Upload or paste transactions into the QuickBooks ChatGPT App to analyze personalized results, and view peer loan benchmarks as your business evolves.
 
-## Common use cases
+## What else can you do?
 
   * ### Explain profit changes
 
-See which changes in revenue and expenses drove your latest monthly profit.
-
 ![](https://files.openai.com/content?id=file_000000001e20722faa250d589f9cc0a7&cdn=1&cp=pi&ma=31968000&ts=0&p=pi&cid=1&sig=f44443a7c89e1f9033c6d368294ce35ad745384035de2f20b422b7eabc1f2d8e&v=0)Intuit QuickBooks Generate last month's profit and loss statement, compare it with the prior month, and explain the three largest drivers of the change in net profit.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Intuit+QuickBooks+Generate+last+month%27s+profit+and+loss+statement%2C+compare+it+with+the+prior+month%2C+and+explain+the+three+largest+drivers+of+the+change+in+net+profit.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Intuit+QuickBooks+Generate+last+month%27s+profit+and+loss+statement%2C+compare+it+with+the+prior+month%2C+and+explain+the+three+largest+drivers+of+the+change+in+net+profit.>)
 
   * ### Prioritize overdue invoices
 
-Identify the overdue balances that deserve attention first.
-
 ![](https://files.openai.com/content?id=file_000000001e20722faa250d589f9cc0a7&cdn=1&cp=pi&ma=31968000&ts=0&p=pi&cid=1&sig=f44443a7c89e1f9033c6d368294ce35ad745384035de2f20b422b7eabc1f2d8e&v=0)Intuit QuickBooks Review my open invoices, identify overdue balances, and rank the five customers to follow up with first by amount owed and days overdue.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Intuit+QuickBooks+Review+my+open+invoices%2C+identify+overdue+balances%2C+and+rank+the+five+customers+to+follow+up+with+first+by+amount+owed+and+days+overdue.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Intuit+QuickBooks+Review+my+open+invoices%2C+identify+overdue+balances%2C+and+rank+the+five+customers+to+follow+up+with+first+by+amount+owed+and+days+overdue.>)
 
   * ### Benchmark business performance
 
-Compare your profitability with similar businesses in your industry and region.
-
 ![](https://files.openai.com/content?id=file_000000001e20722faa250d589f9cc0a7&cdn=1&cp=pi&ma=31968000&ts=0&p=pi&cid=1&sig=f44443a7c89e1f9033c6d368294ce35ad745384035de2f20b422b7eabc1f2d8e&v=0)Intuit QuickBooks Compare my business's profitability with available benchmarks for similar businesses in my industry and region. Highlight the biggest gaps and explain which comparisons are most useful.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Intuit+QuickBooks+Compare+my+business%27s+profitability+with+available+benchmarks+for+similar+businesses+in+my+industry+and+region.+Highlight+the+biggest+gaps+and+explain+which+comparisons+are+most+useful.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Intuit+QuickBooks+Compare+my+business%27s+profitability+with+available+benchmarks+for+similar+businesses+in+my+industry+and+region.+Highlight+the+biggest+gaps+and+explain+which+comparisons+are+most+useful.>)
 
 
 
@@ -84,7 +78,7 @@ Compare your profitability with similar businesses in your industry and region.
 
 ### App
 
-  * connector_697aea3231288191b28a0061066e51bd
+  * Intuit QuickBooks
 
 
 

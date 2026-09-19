@@ -34,7 +34,7 @@ OpenAI
 
 Automate firm workflows
 
-[Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_templated_apps_6a892d6c4df08191bd32d876917d1912>)[Contact sales](</contact-sales/>)
+[Install plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_templated_apps_6a892d6c4df08191bd32d876917d1912>)[Contact sales](</contact-sales/>)
 
 Category
     [Finance](</business/plugins/?tab=plugins-finance>)
@@ -49,31 +49,25 @@ Website
 
 Search, create, and update records across the Intapp Celeste portfolio with secure, compliant retrieval via Intapp Celeste plugin. Ensure the workflows you rely on from Intapp Celeste are available to integrate into your projects with the governance your clients demand.
 
-## Common use cases
+## What else can you do?
 
   * ### Prepare a client briefing
 
-Bring together available company, contact, and deal records into a concise briefing for a client meeting.
-
 ![](https://files.openai.com/content?id=file_00000000e39481f4a94925ba97c64b34&cdn=1&cp=pi&ma=31190400&ts=0&p=pi&cid=8&sig=5c661dfe20590e1cbc27838f189c30c4af86da75007e13501964e5dda9cac1b7&v=0)Intapp Celeste Find the DealCloud records for the client I name. Summarize available company, contact, and deal information into a meeting brief, with record references and gaps that need follow-up.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Intapp+Celeste+Find+the+DealCloud+records+for+the+client+I+name.+Summarize+available+company%2C+contact%2C+and+deal+information+into+a+meeting+brief%2C+with+record+references+and+gaps+that+need+follow-up.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Intapp+Celeste+Find+the+DealCloud+records+for+the+client+I+name.+Summarize+available+company%2C+contact%2C+and+deal+information+into+a+meeting+brief%2C+with+record+references+and+gaps+that+need+follow-up.>)
 
   * ### Review the deal pipeline
 
-Summarize deals by stage and surface missing information for a focused pipeline review.
-
 ![](https://files.openai.com/content?id=file_00000000e39481f4a94925ba97c64b34&cdn=1&cp=pi&ma=31190400&ts=0&p=pi&cid=8&sig=5c661dfe20590e1cbc27838f189c30c4af86da75007e13501964e5dda9cac1b7&v=0)Intapp Celeste Review our current DealCloud pipeline using the fields available in our account. Group deals by stage, summarize available values, and flag missing information for the team to review.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Intapp+Celeste+Review+our+current+DealCloud+pipeline+using+the+fields+available+in+our+account.+Group+deals+by+stage%2C+summarize+available+values%2C+and+flag+missing+information+for+the+team+to+review.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Intapp+Celeste+Review+our+current+DealCloud+pipeline+using+the+fields+available+in+our+account.+Group+deals+by+stage%2C+summarize+available+values%2C+and+flag+missing+information+for+the+team+to+review.>)
 
   * ### Find supporting internal documents
 
-Locate relevant SharePoint documents and turn their contents into a source-linked answer to a business question.
-
 ![](https://files.openai.com/content?id=file_00000000e39481f4a94925ba97c64b34&cdn=1&cp=pi&ma=31190400&ts=0&p=pi&cid=8&sig=5c661dfe20590e1cbc27838f189c30c4af86da75007e13501964e5dda9cac1b7&v=0)Intapp Celeste Find SharePoint documents relevant to the business question I provide. Summarize the evidence from supported files, link each finding to its source, and identify questions the documents do not answer.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Intapp+Celeste+Find+SharePoint+documents+relevant+to+the+business+question+I+provide.+Summarize+the+evidence+from+supported+files%2C+link+each+finding+to+its+source%2C+and+identify+questions+the+documents+do+not+answer.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Intapp+Celeste+Find+SharePoint+documents+relevant+to+the+business+question+I+provide.+Summarize+the+evidence+from+supported+files%2C+link+each+finding+to+its+source%2C+and+identify+questions+the+documents+do+not+answer.>)
 
 
 

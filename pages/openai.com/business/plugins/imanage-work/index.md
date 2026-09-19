@@ -34,7 +34,7 @@ OpenAI
 
 Governed knowledge. AI ready.
 
-[Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a7c5d8a6c508191893a34347001ed1c>)[Contact sales](</contact-sales/>)
+[Install plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a7c5d8a6c508191893a34347001ed1c>)[Contact sales](</contact-sales/>)
 
 Category
     [Productivity](</business/plugins/?tab=plugins-productivity>)
@@ -45,37 +45,31 @@ Developer
 Website
     [(opens in a new window)](<https://imanage.com>)
 
-[![](https://files.openai.com/content?id=file_000000006d488243a4f7690295604f37&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=9a16612ee54d0438f4439dd105d8835500a50a06952d450cd28a233292d0be77&v=0)iManage Work Find our matter for the Corvale acquisition for Thornwick.(opens in a new window)](<https://chatgpt.com/?prompt=%40iManage+Work+Find+our+matter+for+the+Corvale+acquisition+for+Thornwick.>)[![](https://files.openai.com/content?id=file_000000006d488243a4f7690295604f37&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=9a16612ee54d0438f4439dd105d8835500a50a06952d450cd28a233292d0be77&v=0)iManage Work Open the Project Corvale due diligence report and summarize the key risks for me.(opens in a new window)](<https://chatgpt.com/?prompt=%40iManage+Work+Open+the+Project+Corvale+due+diligence+report+and+summarize+the+key+risks+for+me.>)[![](https://files.openai.com/content?id=file_000000006d488243a4f7690295604f37&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=9a16612ee54d0438f4439dd105d8835500a50a06952d450cd28a233292d0be77&v=0)iManage Work The Project Corvale SPA has been revised. What changed between version 1 and the current draft, and what points are still open?(opens in a new window)](<https://chatgpt.com/?prompt=%40iManage+Work+The+Project+Corvale+SPA+has+been+revised.+What+changed+between+version+1+and+the+current+draft%2C+and+what+points+are+still+open%3F>)
+[![](https://files.openai.com/content?id=file_000000006d488243a4f7690295604f37&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=9a16612ee54d0438f4439dd105d8835500a50a06952d450cd28a233292d0be77&v=0)iManage Work Find our matter for the Corvale acquisition for Thornwick.(opens in a new window)](<https://chatgpt.com/?prompt=%40iManage+Work+Find+our+matter+for+the+Corvale+acquisition+for+Thornwick.>)
 
 ## How it works
 
 Securely connect governed iManage content to ChatGPT. Search, read, and organize documents, inspect workspaces and folders, and upload or update content - all permission-bound and auditable. AI accesses your documents where they live in iManage, without requiring bulk exports or replication, as your AI strategy evolves.
 
-## Common use cases
+## What else can you do?
 
   * ### Prepare a matter handoff
 
-Turn key matter documents into a concise handoff covering deal status, open questions, and information gaps.
-
 ![](https://files.openai.com/content?id=file_000000006d488243a4f7690295604f37&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=9a16612ee54d0438f4439dd105d8835500a50a06952d450cd28a233292d0be77&v=0)iManage Work Prepare a one-page handoff brief for Thornwick's Corvale acquisition from up to five key matter documents. Summarize the deal status and open questions, link each source, and flag missing information.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40iManage+Work+Prepare+a+one-page+handoff+brief+for+Thornwick%27s+Corvale+acquisition+from+up+to+five+key+matter+documents.+Summarize+the+deal+status+and+open+questions%2C+link+each+source%2C+and+flag+missing+information.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40iManage+Work+Prepare+a+one-page+handoff+brief+for+Thornwick%27s+Corvale+acquisition+from+up+to+five+key+matter+documents.+Summarize+the+deal+status+and+open+questions%2C+link+each+source%2C+and+flag+missing+information.>)
 
   * ### Prioritize diligence risks
 
-Create a focused briefing on the due diligence findings that matter most to the deal team.
-
 ![](https://files.openai.com/content?id=file_000000006d488243a4f7690295604f37&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=9a16612ee54d0438f4439dd105d8835500a50a06952d450cd28a233292d0be77&v=0)iManage Work Open the Project Corvale due diligence report and prepare a briefing on its five most consequential risks. Explain the business impact, cite the supporting sections, and recommend questions for the deal team.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40iManage+Work+Open+the+Project+Corvale+due+diligence+report+and+prepare+a+briefing+on+its+five+most+consequential+risks.+Explain+the+business+impact%2C+cite+the+supporting+sections%2C+and+recommend+questions+for+the+deal+team.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40iManage+Work+Open+the+Project+Corvale+due+diligence+report+and+prepare+a+briefing+on+its+five+most+consequential+risks.+Explain+the+business+impact%2C+cite+the+supporting+sections%2C+and+recommend+questions+for+the+deal+team.>)
 
   * ### Review agreement revisions
 
-Compare the original and current acquisition agreement to identify changes and points that remain open.
-
 ![](https://files.openai.com/content?id=file_000000006d488243a4f7690295604f37&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=9a16612ee54d0438f4439dd105d8835500a50a06952d450cd28a233292d0be77&v=0)iManage Work The Project Corvale SPA has been revised. What changed between version 1 and the current draft, and what points are still open?
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40iManage+Work+The+Project+Corvale+SPA+has+been+revised.+What+changed+between+version+1+and+the+current+draft%2C+and+what+points+are+still+open%3F>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40iManage+Work+The+Project+Corvale+SPA+has+been+revised.+What+changed+between+version+1+and+the+current+draft%2C+and+what+points+are+still+open%3F>)
 
 
 

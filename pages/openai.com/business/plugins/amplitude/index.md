@@ -34,7 +34,7 @@ OpenAI
 
 Search and analyze analytics data.
 
-[Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_690e2dabf430819196f8b3701ec838ec>)[Contact sales](</contact-sales/>)
+[Install plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_690e2dabf430819196f8b3701ec838ec>)[Contact sales](</contact-sales/>)
 
 Category
     [Data](</business/plugins/?tab=plugins-data-research>)
@@ -49,31 +49,25 @@ Website
 
 Product managers, marketers, and growth teams can now get instant answers about user behavior, experiments, and product metrics directly in ChatGPT—no SQL, no dashboards, no waiting on data teams.
 
-## Common use cases
+## What else can you do?
 
   * ### Answer product analytics questions instantly
 
-Request metrics such as daily active users, new users, funnels, or retention over any time range and receive clear tables or charts in seconds, removing hours of manual analysis.
-
 ![](https://files.openai.com/content?id=file_00000000dff471f588ea17f78eed1b4a&cdn=1&cp=pi&ma=31968000&ts=0&p=pi&cid=1&sig=06eddbb51a98c9ee74a1de3034ceb17a70d9c53ed5292fbf73a29439ad14d63b&v=0)![](https://files.openai.com/content?id=file_00000000dff471f588ea17f78eed1b4a&cdn=1&cp=pi&ma=31968000&ts=0&p=pi&cid=1&sig=06eddbb51a98c9ee74a1de3034ceb17a70d9c53ed5292fbf73a29439ad14d63b&v=0)Amplitude What is DAU and WAU for the last 90 days and how did retention change compared to the prior 90 days?
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Amplitude+What+is+DAU+and+WAU+for+the+last+90+days+and+how+did+retention+change+compared+to+the+prior+90+days%3F>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Amplitude+What+is+DAU+and+WAU+for+the+last+90+days+and+how+did+retention+change+compared+to+the+prior+90+days%3F>)
 
   * ### Align teams on trusted metrics
 
-Pull answers directly from your Amplitude workspace so product, marketing, and executives see the same definitions and results, reducing metric disputes and rework in reviews.
-
 ![](https://files.openai.com/content?id=file_00000000dff471f588ea17f78eed1b4a&cdn=1&cp=pi&ma=31968000&ts=0&p=pi&cid=1&sig=06eddbb51a98c9ee74a1de3034ceb17a70d9c53ed5292fbf73a29439ad14d63b&v=0)![](https://files.openai.com/content?id=file_00000000dff471f588ea17f78eed1b4a&cdn=1&cp=pi&ma=31968000&ts=0&p=pi&cid=1&sig=06eddbb51a98c9ee74a1de3034ceb17a70d9c53ed5292fbf73a29439ad14d63b&v=0)Amplitude Write a weekly growth insights note using the biggest movers in activation retention and churn from the last 7 days.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Amplitude+Write+a+weekly+growth+insights+note+using+the+biggest+movers+in+activation+retention+and+churn+from+the+last+7+days.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Amplitude+Write+a+weekly+growth+insights+note+using+the+biggest+movers+in+activation+retention+and+churn+from+the+last+7+days.>)
 
   * ### Explore data without SQL or dashboards
 
-Non-technical users can explore trends, compare periods, and find insights by asking questions in plain language, expanding analytics access without adding tooling or training.
-
 ![](https://files.openai.com/content?id=file_00000000dff471f588ea17f78eed1b4a&cdn=1&cp=pi&ma=31968000&ts=0&p=pi&cid=1&sig=06eddbb51a98c9ee74a1de3034ceb17a70d9c53ed5292fbf73a29439ad14d63b&v=0)![](https://files.openai.com/content?id=file_00000000dff471f588ea17f78eed1b4a&cdn=1&cp=pi&ma=31968000&ts=0&p=pi&cid=1&sig=06eddbb51a98c9ee74a1de3034ceb17a70d9c53ed5292fbf73a29439ad14d63b&v=0)Amplitude Compare experiment variant performance for the last completed test and explain what I should do next.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Amplitude+Compare+experiment+variant+performance+for+the+last+completed+test+and+explain+what+I+should+do+next.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Amplitude+Compare+experiment+variant+performance+for+the+last+completed+test+and+explain+what+I+should+do+next.>)
 
 
 

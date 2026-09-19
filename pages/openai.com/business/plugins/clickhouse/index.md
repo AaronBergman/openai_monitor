@@ -34,7 +34,7 @@ OpenAI
 
 Explore ClickHouse Cloud
 
-[Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a57330f603c8191928119af462402b2>)[Contact sales](</contact-sales/>)
+[Install plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a57330f603c8191928119af462402b2>)[Contact sales](</contact-sales/>)
 
 Category
     [Engineering & IT](</business/plugins/?tab=plugins-engineering-it>)
@@ -45,37 +45,31 @@ Developer
 Website
     [(opens in a new window)](<https://clickhouse.com/>)
 
-[![](https://files.openai.com/content?id=file_000000006b647243b5e3777140befd4f&cdn=1&cp=pi&ma=31795200&ts=0&p=pi&cid=8&sig=12e36da340acdb5b9829566ea8ca78f95aeaa709c39a174ca0d9eb8eac38a0c9&v=0)ClickHouse Show a ClickHouse Cloud overview for my primary org: service name, region, state, version, and HTTPS endpoint.(opens in a new window)](<https://chatgpt.com/?prompt=%40ClickHouse+Show+a+ClickHouse+Cloud+overview+for+my+primary+org%3A+service+name%2C+region%2C+state%2C+version%2C+and+HTTPS+endpoint.>)[![](https://files.openai.com/content?id=file_000000006b647243b5e3777140befd4f&cdn=1&cp=pi&ma=31795200&ts=0&p=pi&cid=8&sig=12e36da340acdb5b9829566ea8ca78f95aeaa709c39a174ca0d9eb8eac38a0c9&v=0)ClickHouse Show my primary ClickHouse service health: state, version, HTTPS endpoint, backup schedule, latest backup.(opens in a new window)](<https://chatgpt.com/?prompt=%40ClickHouse+Show+my+primary+ClickHouse+service+health%3A+state%2C+version%2C+HTTPS+endpoint%2C+backup+schedule%2C+latest+backup.>)
+[![](https://files.openai.com/content?id=file_000000006b647243b5e3777140befd4f&cdn=1&cp=pi&ma=31795200&ts=0&p=pi&cid=8&sig=12e36da340acdb5b9829566ea8ca78f95aeaa709c39a174ca0d9eb8eac38a0c9&v=0)ClickHouse Show a ClickHouse Cloud overview for my primary org: service name, region, state, version, and HTTPS endpoint.(opens in a new window)](<https://chatgpt.com/?prompt=%40ClickHouse+Show+a+ClickHouse+Cloud+overview+for+my+primary+org%3A+service+name%2C+region%2C+state%2C+version%2C+and+HTTPS+endpoint.>)
 
 ## How it works
 
 ClickHouse plugin helps users inspect ClickHouse Cloud organizations, services, databases, tables, backups, ClickPipes, billing costs, and Managed Postgres diagnostics, and run read-only SQL queries.
 
-## Common use cases
+## What else can you do?
 
   * ### Review service health
 
-Get a concise view of your primary service configuration and its most recent backup.
-
 ![](https://files.openai.com/content?id=file_000000006b647243b5e3777140befd4f&cdn=1&cp=pi&ma=31795200&ts=0&p=pi&cid=8&sig=12e36da340acdb5b9829566ea8ca78f95aeaa709c39a174ca0d9eb8eac38a0c9&v=0)ClickHouse Show my primary ClickHouse service health: state, version, HTTPS endpoint, backup schedule, latest backup.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40ClickHouse+Show+my+primary+ClickHouse+service+health%3A+state%2C+version%2C+HTTPS+endpoint%2C+backup+schedule%2C+latest+backup.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40ClickHouse+Show+my+primary+ClickHouse+service+health%3A+state%2C+version%2C+HTTPS+endpoint%2C+backup+schedule%2C+latest+backup.>)
 
   * ### Investigate signup trends
 
-Find which acquisition channels contributed most to a change in weekly signups.
-
 ![](https://files.openai.com/content?id=file_000000006b647243b5e3777140befd4f&cdn=1&cp=pi&ma=31795200&ts=0&p=pi&cid=8&sig=12e36da340acdb5b9829566ea8ca78f95aeaa709c39a174ca0d9eb8eac38a0c9&v=0)ClickHouse Using read-only SQL on our signup data, compare weekly signups over the last eight weeks by acquisition channel. Identify the largest changes and show the query and evidence behind your findings.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40ClickHouse+Using+read-only+SQL+on+our+signup+data%2C+compare+weekly+signups+over+the+last+eight+weeks+by+acquisition+channel.+Identify+the+largest+changes+and+show+the+query+and+evidence+behind+your+findings.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40ClickHouse+Using+read-only+SQL+on+our+signup+data%2C+compare+weekly+signups+over+the+last+eight+weeks+by+acquisition+channel.+Identify+the+largest+changes+and+show+the+query+and+evidence+behind+your+findings.>)
 
   * ### Review cloud spending
 
-Identify the services responsible for the largest share of your monthly ClickHouse Cloud spending.
-
 ![](https://files.openai.com/content?id=file_000000006b647243b5e3777140befd4f&cdn=1&cp=pi&ma=31795200&ts=0&p=pi&cid=8&sig=12e36da340acdb5b9829566ea8ca78f95aeaa709c39a174ca0d9eb8eac38a0c9&v=0)ClickHouse Review my organization's costs for the last complete month. Rank services by spend, summarize the largest cost components available, and recommend where to investigate potential savings.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40ClickHouse+Review+my+organization%27s+costs+for+the+last+complete+month.+Rank+services+by+spend%2C+summarize+the+largest+cost+components+available%2C+and+recommend+where+to+investigate+potential+savings.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40ClickHouse+Review+my+organization%27s+costs+for+the+last+complete+month.+Rank+services+by+spend%2C+summarize+the+largest+cost+components+available%2C+and+recommend+where+to+investigate+potential+savings.>)
 
 
 

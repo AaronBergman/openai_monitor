@@ -34,7 +34,7 @@ OpenAI
 
 Prepare account work and customer follow-up.
 
-[Add plugin(opens in a new window)](<https://chatgpt.com/plugins/Plugin_af5b4b796b588191b3f2c610aa093799>)[Contact sales](</contact-sales/>)
+[Install plugin(opens in a new window)](<https://chatgpt.com/plugins/Plugin_af5b4b796b588191b3f2c610aa093799>)[Contact sales](</contact-sales/>)
 
 Capabilities
     Interactive, Read, Write
@@ -48,37 +48,31 @@ Developer
 Website
     [(opens in a new window)](<https://openai.com/>)
 
-[![](https://files.openai.com/content?id=file_00000000e8c081f59ddb247fd01e2217&cdn=1&cp=pi&ma=32140800&ts=0&p=pi&cid=8&sig=9e32ada229d197bd7e3c7c8d9ee1d62d2b076f11b47bbf35fe317cea2febe085&v=0)Sales What can you do?(opens in a new window)](<https://chatgpt.com/?prompt=%40Sales+What+can+you+do%3F>)[![](https://files.openai.com/content?id=file_00000000e8c081f59ddb247fd01e2217&cdn=1&cp=pi&ma=32140800&ts=0&p=pi&cid=8&sig=9e32ada229d197bd7e3c7c8d9ee1d62d2b076f11b47bbf35fe317cea2febe085&v=0)Sales Help me prepare for my upcoming customer meeting(opens in a new window)](<https://chatgpt.com/?prompt=%40Sales+Help+me+prepare+for+my+upcoming+customer+meeting>)[![](https://files.openai.com/content?id=file_00000000e8c081f59ddb247fd01e2217&cdn=1&cp=pi&ma=32140800&ts=0&p=pi&cid=8&sig=9e32ada229d197bd7e3c7c8d9ee1d62d2b076f11b47bbf35fe317cea2febe085&v=0)Sales Build the first version of my seller dashboard(opens in a new window)](<https://chatgpt.com/?prompt=%40Sales+Build+the+first+version+of+my+seller+dashboard>)
+[![](https://files.openai.com/content?id=file_00000000e8c081f59ddb247fd01e2217&cdn=1&cp=pi&ma=32140800&ts=0&p=pi&cid=8&sig=9e32ada229d197bd7e3c7c8d9ee1d62d2b076f11b47bbf35fe317cea2febe085&v=0)Sales What can you do?(opens in a new window)](<https://chatgpt.com/?prompt=%40Sales+What+can+you+do%3F>)
 
 ## How it works
 
 Use Sales in ChatGPT to prepare account plans, meeting briefs, outreach, follow-ups, and pipeline summaries from available context so teams can move faster across the customer lifecycle.
 
-## Common use cases
+## What else can you do?
 
   * ### Prepare customer context faster
 
-Create account briefs, meeting prep, stakeholder maps, and discovery questions from available CRM, email, calendar, and call context.
-
 ![](https://files.openai.com/content?id=file_00000000e8c081f59ddb247fd01e2217&cdn=1&cp=pi&ma=32140800&ts=0&p=pi&cid=8&sig=9e32ada229d197bd7e3c7c8d9ee1d62d2b076f11b47bbf35fe317cea2febe085&v=0)Sales Build an account plan for [customer] with goals, stakeholders, open opportunities, risks, proof points, and next-best actions.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Sales+Build+an+account+plan+for+%5Bcustomer%5D+with+goals%2C+stakeholders%2C+open+opportunities%2C+risks%2C+proof+points%2C+and+next-best+actions.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Sales+Build+an+account+plan+for+%5Bcustomer%5D+with+goals%2C+stakeholders%2C+open+opportunities%2C+risks%2C+proof+points%2C+and+next-best+actions.>)
 
   * ### Improve follow-up quality
 
-Draft concise customer emails, call summaries, next steps, and objection handling notes that stay specific to the account.
-
 ![](https://files.openai.com/content?id=file_00000000e8c081f59ddb247fd01e2217&cdn=1&cp=pi&ma=32140800&ts=0&p=pi&cid=8&sig=9e32ada229d197bd7e3c7c8d9ee1d62d2b076f11b47bbf35fe317cea2febe085&v=0)Sales Turn these meeting notes into a customer-ready follow-up email plus an internal summary with owners and deadlines.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Sales+Turn+these+meeting+notes+into+a+customer-ready+follow-up+email+plus+an+internal+summary+with+owners+and+deadlines.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Sales+Turn+these+meeting+notes+into+a+customer-ready+follow-up+email+plus+an+internal+summary+with+owners+and+deadlines.>)
 
   * ### Strengthen pipeline oversight
 
-Summarize risks, blockers, champions, next actions, and forecast signals so reps and managers can prioritize the right deals.
-
 ![](https://files.openai.com/content?id=file_00000000e8c081f59ddb247fd01e2217&cdn=1&cp=pi&ma=32140800&ts=0&p=pi&cid=8&sig=9e32ada229d197bd7e3c7c8d9ee1d62d2b076f11b47bbf35fe317cea2febe085&v=0)Sales Review my pipeline for this month and identify the deals most at risk, why they matter, and what I should do next.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Sales+Review+my+pipeline+for+this+month+and+identify+the+deals+most+at+risk%2C+why+they+matter%2C+and+what+I+should+do+next.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Sales+Review+my+pipeline+for+this+month+and+identify+the+deals+most+at+risk%2C+why+they+matter%2C+and+what+I+should+do+next.>)
 
 
 

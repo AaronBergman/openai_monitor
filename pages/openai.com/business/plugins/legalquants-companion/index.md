@@ -34,7 +34,7 @@ OpenAI
 
 Your AI journey as a lawyer
 
-[Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugins_6aa11d9434f4819189f3ca4fd2154fe8>)[Contact sales](</contact-sales/>)
+[Install plugin(opens in a new window)](<https://chatgpt.com/plugins/plugins_6aa11d9434f4819189f3ca4fd2154fe8>)[Contact sales](</contact-sales/>)
 
 Category
     [Productivity](</business/plugins/?tab=plugins-productivity>)
@@ -45,37 +45,31 @@ Developer
 Website
     [(opens in a new window)](<https://legalquants.com>)
 
-[![](https://files.openai.com/content?id=file_000000005f3c81f697a70c442d989af2&cdn=1&cp=pi&ma=31968000&ts=0&p=pi&cid=8&sig=173c97d2354fe4eb0539edd124dcf1f9f7ba6ba6dc200d9ea7146277ffc4aff0&v=0)The LegalQuants Companion I don't know what to type.(opens in a new window)](<https://chatgpt.com/?prompt=%40The+LegalQuants+Companion+I+don%27t+know+what+to+type.>)[![](https://files.openai.com/content?id=file_000000005f3c81f697a70c442d989af2&cdn=1&cp=pi&ma=31968000&ts=0&p=pi&cid=8&sig=173c97d2354fe4eb0539edd124dcf1f9f7ba6ba6dc200d9ea7146277ffc4aff0&v=0)The LegalQuants Companion Assess me. Where am I with AI as a lawyer?(opens in a new window)](<https://chatgpt.com/?prompt=%40The+LegalQuants+Companion+Assess+me.+Where+am+I+with+AI+as+a+lawyer%3F>)[![](https://files.openai.com/content?id=file_000000005f3c81f697a70c442d989af2&cdn=1&cp=pi&ma=31968000&ts=0&p=pi&cid=8&sig=173c97d2354fe4eb0539edd124dcf1f9f7ba6ba6dc200d9ea7146277ffc4aff0&v=0)The LegalQuants Companion Was that an LQ moment?(opens in a new window)](<https://chatgpt.com/?prompt=%40The+LegalQuants+Companion+Was+that+an+LQ+moment%3F>)
+[![](https://files.openai.com/content?id=file_000000005f3c81f697a70c442d989af2&cdn=1&cp=pi&ma=31968000&ts=0&p=pi&cid=8&sig=173c97d2354fe4eb0539edd124dcf1f9f7ba6ba6dc200d9ea7146277ffc4aff0&v=0)The LegalQuants Companion I don't know what to type.(opens in a new window)](<https://chatgpt.com/?prompt=%40The+LegalQuants+Companion+I+don%27t+know+what+to+type.>)
 
 ## How it works
 
 Your journey with AI as a lawyer — ask, assess, reflect, apply, connect.
 
-## Common use cases
+## What else can you do?
 
   * ### Assess your AI practice
 
-Assess where you are with AI as a lawyer and identify areas for further development.
-
 ![](https://files.openai.com/content?id=file_000000005f3c81f697a70c442d989af2&cdn=1&cp=pi&ma=31968000&ts=0&p=pi&cid=8&sig=173c97d2354fe4eb0539edd124dcf1f9f7ba6ba6dc200d9ea7146277ffc4aff0&v=0)The LegalQuants Companion Assess me. Where am I with AI as a lawyer?
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40The+LegalQuants+Companion+Assess+me.+Where+am+I+with+AI+as+a+lawyer%3F>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40The+LegalQuants+Companion+Assess+me.+Where+am+I+with+AI+as+a+lawyer%3F>)
 
   * ### Shape your first AI assignment
 
-Turn an everyday legal task into a clear assignment you can try with AI.
-
 ![](https://files.openai.com/content?id=file_000000005f3c81f697a70c442d989af2&cdn=1&cp=pi&ma=31968000&ts=0&p=pi&cid=8&sig=173c97d2354fe4eb0539edd124dcf1f9f7ba6ba6dc200d9ea7146277ffc4aff0&v=0)The LegalQuants Companion Help me choose a bounded task from my legal practice to try with AI. Ask about the work, available materials, and constraints, then draft an assignment with a clear outcome and review criteria.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40The+LegalQuants+Companion+Help+me+choose+a+bounded+task+from+my+legal+practice+to+try+with+AI.+Ask+about+the+work%2C+available+materials%2C+and+constraints%2C+then+draft+an+assignment+with+a+clear+outcome+and+review+criteria.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40The+LegalQuants+Companion+Help+me+choose+a+bounded+task+from+my+legal+practice+to+try+with+AI.+Ask+about+the+work%2C+available+materials%2C+and+constraints%2C+then+draft+an+assignment+with+a+clear+outcome+and+review+criteria.>)
 
   * ### Reflect on an AI workflow
 
-Review a recent experience using AI and identify a practical improvement for your next assignment.
-
 ![](https://files.openai.com/content?id=file_000000005f3c81f697a70c442d989af2&cdn=1&cp=pi&ma=31968000&ts=0&p=pi&cid=8&sig=173c97d2354fe4eb0539edd124dcf1f9f7ba6ba6dc200d9ea7146277ffc4aff0&v=0)The LegalQuants Companion Help me debrief a recent legal task I completed with AI. Ask what I tried and how I checked the result, identify what worked and what needs improvement, and suggest one change for next time.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40The+LegalQuants+Companion+Help+me+debrief+a+recent+legal+task+I+completed+with+AI.+Ask+what+I+tried+and+how+I+checked+the+result%2C+identify+what+worked+and+what+needs+improvement%2C+and+suggest+one+change+for+next+time.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40The+LegalQuants+Companion+Help+me+debrief+a+recent+legal+task+I+completed+with+AI.+Ask+what+I+tried+and+how+I+checked+the+result%2C+identify+what+worked+and+what+needs+improvement%2C+and+suggest+one+change+for+next+time.>)
 
 
 

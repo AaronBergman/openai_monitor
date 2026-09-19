@@ -34,7 +34,7 @@ OpenAI
 
 Search and reference files from your Drive.
 
-[Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_1p_ab21a553bfbc81919ea8fd1858e3ffa7>)[Contact sales](</contact-sales/>)
+[Install plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_1p_ab21a553bfbc81919ea8fd1858e3ffa7>)[Contact sales](</contact-sales/>)
 
 Capabilities
     Interactive, Write
@@ -48,37 +48,31 @@ Developer
 Website
     [(opens in a new window)](<https://workspace.google.com/products/drive/>)
 
-[![](https://files.openai.com/content?id=file_00000000d44881f79ef4a45a9ca31665&cdn=1&cp=pi&ma=32140800&ts=0&p=pi&cid=8&sig=6da12bcc88c49877a8da66336a373910832a7afa15d9c4fbb0099bc5d7324ae6&v=0)Google Drive Search my Drive for the latest Q4 board deck and write a 10-bullet executive recap with the 3 biggest risks and 3 next actions(opens in a new window)](<https://chatgpt.com/?prompt=%40Google+Drive+Search+my+Drive+for+the+latest+Q4+board+deck+and+write+a+10-bullet+executive+recap+with+the+3+biggest+risks+and+3+next+actions>)[![](https://files.openai.com/content?id=file_00000000d44881f79ef4a45a9ca31665&cdn=1&cp=pi&ma=32140800&ts=0&p=pi&cid=8&sig=6da12bcc88c49877a8da66336a373910832a7afa15d9c4fbb0099bc5d7324ae6&v=0)Google Drive Rewrite this product one-pager using our brand guidelines doc: match the voice and format while keeping facts intact(opens in a new window)](<https://chatgpt.com/?prompt=%40Google+Drive+Rewrite+this+product+one-pager+using+our+brand+guidelines+doc%3A+match+the+voice+and+format+while+keeping+facts+intact>)[![](https://files.openai.com/content?id=file_00000000d44881f79ef4a45a9ca31665&cdn=1&cp=pi&ma=32140800&ts=0&p=pi&cid=8&sig=6da12bcc88c49877a8da66336a373910832a7afa15d9c4fbb0099bc5d7324ae6&v=0)Google Drive From [folder], pull key deliverables, timeline, and open questions, then draft a client-ready status update(opens in a new window)](<https://chatgpt.com/?prompt=%40Google+Drive+From+%5Bfolder%5D%2C+pull+key+deliverables%2C+timeline%2C+and+open+questions%2C+then+draft+a+client-ready+status+update>)
+[![](https://files.openai.com/content?id=file_00000000d44881f79ef4a45a9ca31665&cdn=1&cp=pi&ma=32140800&ts=0&p=pi&cid=8&sig=6da12bcc88c49877a8da66336a373910832a7afa15d9c4fbb0099bc5d7324ae6&v=0)Google Drive Search my Drive for the latest Q4 board deck and write a 10-bullet executive recap with the 3 biggest risks and 3 next actions(opens in a new window)](<https://chatgpt.com/?prompt=%40Google+Drive+Search+my+Drive+for+the+latest+Q4+board+deck+and+write+a+10-bullet+executive+recap+with+the+3+biggest+risks+and+3+next+actions>)
 
 ## How it works
 
 Work with Google Drive documents—including Docs, Slides, PDFs, and uploaded files—to search content, create summaries, synthesize information, and pull context into new drafts without manually switching between documents.
 
-## Common use cases
+## What else can you do?
 
   * ### Accelerate drafting from existing content
 
-Generate first drafts of executive updates, reports, or playbooks from selected Drive files so teams start from accurate material and reduce rewriting and review time.
-
 ![](https://files.openai.com/content?id=file_00000000d44881f79ef4a45a9ca31665&cdn=1&cp=pi&ma=32140800&ts=0&p=pi&cid=8&sig=6da12bcc88c49877a8da66336a373910832a7afa15d9c4fbb0099bc5d7324ae6&v=0)Google Drive Search my Drive for the latest Q4 board deck and write a 10-bullet executive recap with the 3 biggest risks and 3 next actions.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Google+Drive+Search+my+Drive+for+the+latest+Q4+board+deck+and+write+a+10-bullet+executive+recap+with+the+3+biggest+risks+and+3+next+actions.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Google+Drive+Search+my+Drive+for+the+latest+Q4+board+deck+and+write+a+10-bullet+executive+recap+with+the+3+biggest+risks+and+3+next+actions.>)
 
   * ### Simplify research synthesis across many documents
 
-Ask questions across multiple Docs, Slides, and PDFs and get concise syntheses, risk highlights, and version comparisons so stakeholders can align faster with fewer meetings.
-
 ![](https://files.openai.com/content?id=file_00000000d44881f79ef4a45a9ca31665&cdn=1&cp=pi&ma=32140800&ts=0&p=pi&cid=8&sig=6da12bcc88c49877a8da66336a373910832a7afa15d9c4fbb0099bc5d7324ae6&v=0)Google Drive From [folder], pull key deliverables, timeline, and open questions, then draft a client-ready status update.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Google+Drive+From+%5Bfolder%5D%2C+pull+key+deliverables%2C+timeline%2C+and+open+questions%2C+then+draft+a+client-ready+status+update.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Google+Drive+From+%5Bfolder%5D%2C+pull+key+deliverables%2C+timeline%2C+and+open+questions%2C+then+draft+a+client-ready+status+update.>)
 
   * ### Apply consistent standards to documents and presentations
 
-Use brand, policy, and guideline documents as a source of truth so generated decks, briefs, and onboarding materials stay aligned with current standards.
-
 ![](https://files.openai.com/content?id=file_00000000d44881f79ef4a45a9ca31665&cdn=1&cp=pi&ma=32140800&ts=0&p=pi&cid=8&sig=6da12bcc88c49877a8da66336a373910832a7afa15d9c4fbb0099bc5d7324ae6&v=0)Google Drive Use our brand guidelines doc and rewrite this product one-pager to match the approved voice and formatting while keeping facts intact.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Google+Drive+Use+our+brand+guidelines+doc+and+rewrite+this+product+one-pager+to+match+the+approved+voice+and+formatting+while+keeping+facts+intact.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Google+Drive+Use+our+brand+guidelines+doc+and+rewrite+this+product+one-pager+to+match+the+approved+voice+and+formatting+while+keeping+facts+intact.>)
 
 
 

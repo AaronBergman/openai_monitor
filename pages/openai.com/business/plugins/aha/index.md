@@ -34,7 +34,7 @@ OpenAI
 
 Connect to sync Aha! product roadmaps and features for use in ChatGPT.
 
-[Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_templated_apps_6a75de1e29a081919a00e5aaa57568d6>)[Contact sales](</contact-sales/>)
+[Install plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_templated_apps_6a75de1e29a081919a00e5aaa57568d6>)[Contact sales](</contact-sales/>)
 
 Category
     [Productivity](</business/plugins/?tab=plugins-productivity>)
@@ -45,37 +45,31 @@ Developer
 Website
     [(opens in a new window)](<https://www.aha.io/>)
 
-[![](https://files.openai.com/content?id=file_00000000d94481f7a5d7fe678c79e2d3&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=8&sig=17e8c83c42eb29fe23a9ddeafefe51f6f355a986fd413c3f34febd802aef2bdc&v=0)Aha! Summarize the customer feedback we received last week.(opens in a new window)](<https://chatgpt.com/?prompt=%40Aha%21+Summarize+the+customer+feedback+we+received+last+week.>)[![](https://files.openai.com/content?id=file_00000000d94481f7a5d7fe678c79e2d3&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=8&sig=17e8c83c42eb29fe23a9ddeafefe51f6f355a986fd413c3f34febd802aef2bdc&v=0)Aha! Create an executive summary of the upcoming release.(opens in a new window)](<https://chatgpt.com/?prompt=%40Aha%21+Create+an+executive+summary+of+the+upcoming+release.>)[![](https://files.openai.com/content?id=file_00000000d94481f7a5d7fe678c79e2d3&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=8&sig=17e8c83c42eb29fe23a9ddeafefe51f6f355a986fd413c3f34febd802aef2bdc&v=0)Aha! Report out progress and risks for my product initiatives.(opens in a new window)](<https://chatgpt.com/?prompt=%40Aha%21+Report+out+progress+and+risks+for+my+product+initiatives.>)
+[![](https://files.openai.com/content?id=file_00000000d94481f7a5d7fe678c79e2d3&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=8&sig=17e8c83c42eb29fe23a9ddeafefe51f6f355a986fd413c3f34febd802aef2bdc&v=0)Aha! Summarize the customer feedback we received last week.(opens in a new window)](<https://chatgpt.com/?prompt=%40Aha%21+Summarize+the+customer+feedback+we+received+last+week.>)
 
 ## How it works
 
 Give teams instant, accurate answers about roadmaps, releases, and priorities by securely referencing live Aha! product data in ChatGPT.
 
-## Common use cases
+## What else can you do?
 
   * ### Get instant roadmap clarity
 
-Ask natural questions like what features ship next or which epics are at risk, and get answers grounded in current Aha! roadmaps without manual searches or status meetings.
-
 ![](https://files.openai.com/content?id=file_00000000d94481f7a5d7fe678c79e2d3&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=8&sig=17e8c83c42eb29fe23a9ddeafefe51f6f355a986fd413c3f34febd802aef2bdc&v=0)Aha! What features are scheduled to ship next, and which ones look at risk based on status, dependencies, or slipped dates? Keep it easy to scan and make the language exec-friendly.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Aha%21+What+features+are+scheduled+to+ship+next%2C+and+which+ones+look+at+risk+based+on+status%2C+dependencies%2C+or+slipped+dates%3F+Keep+it+easy+to+scan+and+make+the+language+exec-friendly.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Aha%21+What+features+are+scheduled+to+ship+next%2C+and+which+ones+look+at+risk+based+on+status%2C+dependencies%2C+or+slipped+dates%3F+Keep+it+easy+to+scan+and+make+the+language+exec-friendly.>)
 
   * ### Speed up release communication
 
-Draft release notes and summaries directly from recent Aha! feature updates, reducing PM and marketing preparation time while keeping stakeholders aligned on what shipped and why.
-
 ![](https://files.openai.com/content?id=file_00000000d94481f7a5d7fe678c79e2d3&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=8&sig=17e8c83c42eb29fe23a9ddeafefe51f6f355a986fd413c3f34febd802aef2bdc&v=0)Aha! Draft release notes for the most recent release using the latest feature updates and make it customer-friendly (no internal jargon).
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Aha%21+Draft+release+notes+for+the+most+recent+release+using+the+latest+feature+updates+and+make+it+customer-friendly+%28no+internal+jargon%29.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Aha%21+Draft+release+notes+for+the+most+recent+release+using+the+latest+feature+updates+and+make+it+customer-friendly+%28no+internal+jargon%29.>)
 
   * ### Make better priority decisions
 
-Identify top ideas by votes, status, or impact from Aha! data to support prioritization discussions with clear evidence and enable faster executive decision-making.
-
 ![](https://files.openai.com/content?id=file_00000000d94481f7a5d7fe678c79e2d3&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=8&sig=17e8c83c42eb29fe23a9ddeafefe51f6f355a986fd413c3f34febd802aef2bdc&v=0)Aha! Find the ideas with the most votes in the last 90 days, group them by theme, and suggest a shortlist for next quarter planning.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Aha%21+Find+the+ideas+with+the+most+votes+in+the+last+90+days%2C+group+them+by+theme%2C+and+suggest+a+shortlist+for+next+quarter+planning.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Aha%21+Find+the+ideas+with+the+most+votes+in+the+last+90+days%2C+group+them+by+theme%2C+and+suggest+a+shortlist+for+next+quarter+planning.>)
 
 
 

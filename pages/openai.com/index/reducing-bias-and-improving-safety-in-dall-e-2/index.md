@@ -61,8 +61,11 @@ We are continuing to research how AI systems, like DALL·E, might reflect biases
 During the research preview we have taken other steps to improve our safety systems, including:
 
   * Minimizing the risk of DALL·E being misused to create deceptive content by rejecting image uploads containing realistic faces and attempts to create the likeness of public figures, including celebrities and prominent political figures.
+
   * Making our content filters more accurate so that they are more effective at blocking prompts and image uploads that violate our [content policy⁠(opens in a new window)](<https://labs.openai.com/policies/content-policy>) while still allowing creative expression.
+
   * Refining automated and human monitoring systems to guard against misuse.
+
 
 
 

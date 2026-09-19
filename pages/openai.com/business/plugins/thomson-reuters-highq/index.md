@@ -34,7 +34,7 @@ OpenAI
 
 Search your matter data
 
-[Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6aa95c3626508191a8a262e31f60aa7e>)[Contact sales](</contact-sales/>)
+[Install plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6aa95c3626508191a8a262e31f60aa7e>)[Contact sales](</contact-sales/>)
 
 Category
     [Productivity](</business/plugins/?tab=plugins-productivity>)
@@ -45,37 +45,31 @@ Developer
 Website
     [(opens in a new window)](<https://legal.thomsonreuters.com/en/products/highq>)
 
-[![](https://files.openai.com/content?id=file_000000008778820aaf542943defec32c&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=8&sig=7e04815fb511aa36f179f25085932a92224fa2bd0d24ae24ec349f5e5128fce1&v=0)HighQ Summarize this contract like a senior associate: parties, key terms, obligations, and any clauses that need a closer look.(opens in a new window)](<https://chatgpt.com/?prompt=%40HighQ+Summarize+this+contract+like+a+senior+associate%3A+parties%2C+key+terms%2C+obligations%2C+and+any+clauses+that+need+a+closer+look.>)[![](https://files.openai.com/content?id=file_000000008778820aaf542943defec32c&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=8&sig=7e04815fb511aa36f179f25085932a92224fa2bd0d24ae24ec349f5e5128fce1&v=0)HighQ Pull open litigation claims from matter iSheet by jurisdiction and risk, and flag anything with missing or incomplete data(opens in a new window)](<https://chatgpt.com/?prompt=%40HighQ+Pull+open+litigation+claims+from+matter+iSheet+by+jurisdiction+and+risk%2C+and+flag+anything+with+missing+or+incomplete+data>)[![](https://files.openai.com/content?id=file_000000008778820aaf542943defec32c&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=8&sig=7e04815fb511aa36f179f25085932a92224fa2bd0d24ae24ec349f5e5128fce1&v=0)HighQ Show me who's had access to this matter's records, any changes made in the last 7 days, and flag any external users added(opens in a new window)](<https://chatgpt.com/?prompt=%40HighQ+Show+me+who%27s+had+access+to+this+matter%27s+records%2C+any+changes+made+in+the+last+7+days%2C+and+flag+any+external+users+added>)
+[![](https://files.openai.com/content?id=file_000000008778820aaf542943defec32c&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=8&sig=7e04815fb511aa36f179f25085932a92224fa2bd0d24ae24ec349f5e5128fce1&v=0)HighQ Summarize this contract like a senior associate: parties, key terms, obligations, and any clauses that need a closer look.(opens in a new window)](<https://chatgpt.com/?prompt=%40HighQ+Summarize+this+contract+like+a+senior+associate%3A+parties%2C+key+terms%2C+obligations%2C+and+any+clauses+that+need+a+closer+look.>)
 
 ## How it works
 
 Connect ChatGPT to the matters your team already manage in HighQ. Retrieve data from files, folders, and iSheets, whether that's a matter tracker, a due diligence review, client documentation or a contract register. Seamlessly Incorporate legal matter context directly into your ChatGPT workflows. Administrators can also review audit history across sites and iSheets. Access read-only and always follows your existing HighQ permissions.
 
-## Common use cases
+## What else can you do?
 
   * ### Prepare a contract brief
 
-Summarize a contract's key terms and obligations, with priority questions for the reviewing lawyer.
-
 ![](https://files.openai.com/content?id=file_000000008778820aaf542943defec32c&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=8&sig=7e04815fb511aa36f179f25085932a92224fa2bd0d24ae24ec349f5e5128fce1&v=0)HighQ Read [contract] in [matter folder] and prepare a brief covering parties, key terms, obligations, and deadlines. Cite relevant sections and prioritize clauses that need a closer look by the reviewing lawyer.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40HighQ+Read+%5Bcontract%5D+in+%5Bmatter+folder%5D+and+prepare+a+brief+covering+parties%2C+key+terms%2C+obligations%2C+and+deadlines.+Cite+relevant+sections+and+prioritize+clauses+that+need+a+closer+look+by+the+reviewing+lawyer.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40HighQ+Read+%5Bcontract%5D+in+%5Bmatter+folder%5D+and+prepare+a+brief+covering+parties%2C+key+terms%2C+obligations%2C+and+deadlines.+Cite+relevant+sections+and+prioritize+clauses+that+need+a+closer+look+by+the+reviewing+lawyer.>)
 
   * ### Prioritize open litigation claims
 
-Turn a matter tracker into a prioritized view of litigation risk and missing information.
-
 ![](https://files.openai.com/content?id=file_000000008778820aaf542943defec32c&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=8&sig=7e04815fb511aa36f179f25085932a92224fa2bd0d24ae24ec349f5e5128fce1&v=0)HighQ Review open litigation claims in [matter iSheet]. Group them by jurisdiction and recorded risk, identify approaching deadlines and incomplete records, and recommend which claims need the team's attention first.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40HighQ+Review+open+litigation+claims+in+%5Bmatter+iSheet%5D.+Group+them+by+jurisdiction+and+recorded+risk%2C+identify+approaching+deadlines+and+incomplete+records%2C+and+recommend+which+claims+need+the+team%27s+attention+first.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40HighQ+Review+open+litigation+claims+in+%5Bmatter+iSheet%5D.+Group+them+by+jurisdiction+and+recorded+risk%2C+identify+approaching+deadlines+and+incomplete+records%2C+and+recommend+which+claims+need+the+team%27s+attention+first.>)
 
   * ### Review membership changes
 
-Summarize recent membership changes across the instance and flag external users for administrator review.
-
 ![](https://files.openai.com/content?id=file_000000008778820aaf542943defec32c&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=8&sig=7e04815fb511aa36f179f25085932a92224fa2bd0d24ae24ec349f5e5128fce1&v=0)HighQ Review user management audit records across this instance for the past seven days. Summarize users added or removed, flag external users, and prioritize changes for administrator review with references to the audit records.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40HighQ+Review+user+management+audit+records+across+this+instance+for+the+past+seven+days.+Summarize+users+added+or+removed%2C+flag+external+users%2C+and+prioritize+changes+for+administrator+review+with+references+to+the+audit+records.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40HighQ+Review+user+management+audit+records+across+this+instance+for+the+past+seven+days.+Summarize+users+added+or+removed%2C+flag+external+users%2C+and+prioritize+changes+for+administrator+review+with+references+to+the+audit+records.>)
 
 
 

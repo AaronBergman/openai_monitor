@@ -34,7 +34,7 @@ OpenAI
 
 Connect to sync Zoho CRM records and activities for use in ChatGPT.
 
-[Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a193ef5e804819197c25f88d92d6bf7>)[Contact sales](</contact-sales/>)
+[Install plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a193ef5e804819197c25f88d92d6bf7>)[Contact sales](</contact-sales/>)
 
 Category
     [Operations](</business/plugins/?tab=plugins-operations>)
@@ -45,37 +45,31 @@ Developer
 Website
     [(opens in a new window)](<https://www.zoho.com/en-in/crm/>)
 
-[![](https://files.openai.com/content?id=file_00000000ea6871f587f4d6459490197f&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=1&sig=479f0dacdd095fd22c887fad89d51d19282bbd638187396e501b6b2e08a48ed2&v=0)Zoho CRM Search Zoho CRM for open deals closing this quarter and summarize the highest-risk opportunities.(opens in a new window)](<https://chatgpt.com/?prompt=%40Zoho+CRM+Search+Zoho+CRM+for+open+deals+closing+this+quarter+and+summarize+the+highest-risk+opportunities.>)[![](https://files.openai.com/content?id=file_00000000ea6871f587f4d6459490197f&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=1&sig=479f0dacdd095fd22c887fad89d51d19282bbd638187396e501b6b2e08a48ed2&v=0)Zoho CRM Find Zoho CRM contacts at an account and summarize recent activities.(opens in a new window)](<https://chatgpt.com/?prompt=%40Zoho+CRM+Find+Zoho+CRM+contacts+at+an+account+and+summarize+recent+activities.>)[![](https://files.openai.com/content?id=file_00000000ea6871f587f4d6459490197f&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=1&sig=479f0dacdd095fd22c887fad89d51d19282bbd638187396e501b6b2e08a48ed2&v=0)Zoho CRM Pull Zoho CRM organization settings and users needed to audit access.(opens in a new window)](<https://chatgpt.com/?prompt=%40Zoho+CRM+Pull+Zoho+CRM+organization+settings+and+users+needed+to+audit+access.>)
+[![](https://files.openai.com/content?id=file_00000000ea6871f587f4d6459490197f&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=1&sig=479f0dacdd095fd22c887fad89d51d19282bbd638187396e501b6b2e08a48ed2&v=0)Zoho CRM Search Zoho CRM for open deals closing this quarter and summarize the highest-risk opportunities.(opens in a new window)](<https://chatgpt.com/?prompt=%40Zoho+CRM+Search+Zoho+CRM+for+open+deals+closing+this+quarter+and+summarize+the+highest-risk+opportunities.>)
 
 ## How it works
 
 Review your pipeline, summarize account activity, and create follow-ups and next steps, helping sellers prioritize work and keep forecasts current.
 
-## Common use cases
+## What else can you do?
 
   * ### Get instant pipeline visibility
 
-Ask for open deals closing this month, stalled stages, or top risks, then generate a focused call plan for each owner to improve forecast accuracy and avoid end-of-quarter pressure.
-
 ![](https://files.openai.com/content?id=file_00000000ea6871f587f4d6459490197f&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=1&sig=479f0dacdd095fd22c887fad89d51d19282bbd638187396e501b6b2e08a48ed2&v=0)Zoho CRM Show deals closing this month and flag anything that looks at risk. Then suggest the top 3 actions per rep.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Zoho+CRM+Show+deals+closing+this+month+and+flag+anything+that+looks+at+risk.+Then+suggest+the+top+3+actions+per+rep.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Zoho+CRM+Show+deals+closing+this+month+and+flag+anything+that+looks+at+risk.+Then+suggest+the+top+3+actions+per+rep.>)
 
   * ### Prepare for meetings in minutes
 
-Pull key contacts, recent notes, emails, and activities for an account, then draft an agenda and follow-up summary so reps can enter conversations better informed and aligned.
-
 ![](https://files.openai.com/content?id=file_00000000ea6871f587f4d6459490197f&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=1&sig=479f0dacdd095fd22c887fad89d51d19282bbd638187396e501b6b2e08a48ed2&v=0)Zoho CRM Find Zoho CRM contacts at an account and summarize recent activities.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Zoho+CRM+Find+Zoho+CRM+contacts+at+an+account+and+summarize+recent+activities.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Zoho+CRM+Find+Zoho+CRM+contacts+at+an+account+and+summarize+recent+activities.>)
 
   * ### Reduce manual CRM updates
 
-Create a new lead from an email, log next steps, or capture meeting notes as an activity record, keeping the system of record current without switching tabs.
-
 ![](https://files.openai.com/content?id=file_00000000ea6871f587f4d6459490197f&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=1&sig=479f0dacdd095fd22c887fad89d51d19282bbd638187396e501b6b2e08a48ed2&v=0)Zoho CRM Create a new lead from this email and log it with the right source and next step reminder for tomorrow.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Zoho+CRM+Create+a+new+lead+from+this+email+and+log+it+with+the+right+source+and+next+step+reminder+for+tomorrow.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Zoho+CRM+Create+a+new+lead+from+this+email+and+log+it+with+the+right+source+and+next+step+reminder+for+tomorrow.>)
 
 
 

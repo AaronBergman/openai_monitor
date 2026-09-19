@@ -61,16 +61,22 @@ How memory works
 
 
   *  _June 3, 2025 update: Memory improvements are starting to roll out for free users. In addition to the saved memories that were there before, ChatGPT now references your recent conversations to provide more personalized responses._
+
   * _Free users have a lightweight version of memory improvements that provides short term continuity across conversations. Memory for Plus and Pro users provides a longer term understanding of the user._
+
   * _You’re in control of ChatGPT’s memory and can turn off referencing “saved memories” or “chat history” at any time in Settings._
+
 
 
 
 * * *
 
   * _April 10, 2025 update: Memory in ChatGPT is now more comprehensive. In addition to the saved memories that were there before, it now references all your past conversations to deliver responses that feel more relevant and tailored to you. This means memory now works in two ways: "saved memories" you’ve asked it to remember and "chat history", which are insights ChatGPT gathers from past chats to improve future ones._
+
   * _You’re in control of ChatGPT’s memory. You can turn off referencing "saved memories" or "chat history" at any time in Settings. If you’ve already opted out of memory, ChatGPT won’t reference past conversations by default. You can also ask ChatGPT to change what it knows about you directly in conversation, or use Temporary Chat for conversations that don’t use or update memory. To see what ChatGPT remembers about you, you can also ask it._
+
   * _The more you use ChatGPT, the more useful it becomes. New conversations build upon what it already knows about you to make smoother, more tailored interactions over time. This is available in ChatGPT to Plus and Pro users, and Team, Enterprise, and Edu users in a few weeks._
+
 
 
 
@@ -93,9 +99,13 @@ We are rolling out to a small portion of ChatGPT free and Plus users this week t
 As you chat with ChatGPT, you can ask it to remember something specific or let it pick up details itself. ChatGPT’s memory will get better the more you use it and you’ll start to notice the improvements over time. For example: 
 
   * You’ve explained that you prefer meeting notes to have headlines, bullets and action items summarized at the bottom. ChatGPT remembers this and recaps meetings this way.
+
   * You’ve told ChatGPT you own a neighborhood coffee shop. When brainstorming messaging for a social post celebrating a new location, ChatGPT knows where to start. 
+
   * You mention that you have a toddler and that she loves jellyfish. When you ask ChatGPT to help create her birthday card, it suggests a jellyfish wearing a party hat. 
+
   * As a kindergarten teacher with 25 students, you prefer 50-minute lessons with follow-up activities. ChatGPT remembers this when helping you create lesson plans.
+
 
 
 
@@ -130,8 +140,11 @@ Memory brings additional privacy and safety considerations, such as what type of
 For Enterprise and Team users, memory can be useful when using ChatGPT for work. It can learn your style and preferences, and build upon past interactions. This saves you time and leads to more relevant and insightful responses. For example:
 
   * ChatGPT can remember your tone, voice, and format preferences, and automatically apply them to blog post drafts without needing repetition.
+
   * When coding, you tell ChatGPT your programming language and frameworks. It can remember these preferences for subsequent tasks, streamlining the process.
+
   * For monthly business reviews, you securely upload your data to ChatGPT and it creates your preferred charts with three takeaways each.
+
 
 
 
@@ -147,9 +160,11 @@ GPTs will have their own distinct memory. Builders will have the option to enabl
 
 
 
+
 Each GPT has its own memory, so you might need to repeat details you’ve previously shared with ChatGPT. For example:
 
   * If you’re using the [Artful Greeting Card GPT⁠(opens in a new window)](<https://chat.openai.com/g/g-SnF78wo4p-artful-greeting-ai-cards>) to create a birthday card for your daughter, it won’t know her age or that she loves jellyfish. You’ll need to tell it the relevant details.
+
 
 
 

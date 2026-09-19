@@ -81,10 +81,15 @@ Canvas opens automatically when ChatGPT detects a scenario in which it could be 
 Writing shortcuts include:
 
   * **Suggest edits:** ChatGPT offers inline suggestions and feedback.
+
   * **Adjust the length:** Edits the document length to be shorter or longer.
+
   * **Change reading level:** Adjusts the reading level, from Kindergarten to Graduate School.
+
   * **Add final polish:** Checks for grammar, clarity, and consistency.
+
   * **Add emojis:** Adds relevant emojis for emphasis and color.
+
 
 
 
@@ -95,10 +100,15 @@ Coding is an iterative process, and it can be hard to follow all the revisions t
 Coding shortcuts include: 
 
   * **Review code:** ChatGPT provides inline suggestions to improve your code.
+
   * **Add logs:** Inserts print statements to help you debug and understand your code.
+
   * **Add comments:** Adds comments to the code to make it easier to understand.
+
   * **Fix bugs:** Detects and rewrites problematic code to resolve errors.
+
   * **Port to a language:** Translates your code into JavaScript, TypeScript, Python, Java, C++, or PHP.
+
 
 
 
@@ -109,10 +119,15 @@ We trained GPT‑4o to collaborate as a creative partner. The model knows when t
 To support this, our research team developed the following core behaviors:
 
   * Triggering the canvas for writing and coding 
+
   * Generating diverse content types
+
   * Making targeted edits
+
   * Rewriting documents
+
   * Providing inline critique
+
 
 
 

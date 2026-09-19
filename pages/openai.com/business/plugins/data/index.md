@@ -34,7 +34,7 @@ OpenAI
 
 Turn data into clear decisions.
 
-[Add plugin(opens in a new window)](<https://chatgpt.com/plugins/Plugin_fc9843a6fb34819195d6c7802398a8a7>)[Contact sales](</contact-sales/>)
+[Install plugin(opens in a new window)](<https://chatgpt.com/plugins/Plugin_fc9843a6fb34819195d6c7802398a8a7>)[Contact sales](</contact-sales/>)
 
 Capabilities
     Interactive, Read, Write
@@ -58,31 +58,25 @@ Create a dashboard tracking adoption of our product—from installation and firs
 
 Use Data Analytics in ChatGPT to investigate metrics, analyze product or business performance, design KPIs, build dashboards or reports, and turn messy questions into clear, source-backed decisions.
 
-## Common use cases
+## What else can you do?
 
   * ### Diagnose metric movement
 
-Compare periods, validate definitions, and identify likely drivers so teams understand what changed and what to check next.
-
 ![](https://files.openai.com/content?id=file_000000006f4c81f784b61adbf62901e1&cdn=1&cp=pi&ma=30585600&ts=0&p=pi&cid=8&sig=c6e33944a94e14e7fe7121869937bf0d776dc3e571758bb6b505304170dcfbcc&v=0)Data Diagnose why weekly active users changed last week. Identify likely drivers, compare against prior periods, and recommend the next checks.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Data+Diagnose+why+weekly+active+users+changed+last+week.+Identify+likely+drivers%2C+compare+against+prior+periods%2C+and+recommend+the+next+checks.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Data+Diagnose+why+weekly+active+users+changed+last+week.+Identify+likely+drivers%2C+compare+against+prior+periods%2C+and+recommend+the+next+checks.>)
 
   * ### Design decision-ready measurement
 
-Define KPIs, drivers, guardrails, targets, and data requirements so teams know how success will be measured.
-
 ![](https://files.openai.com/content?id=file_000000006f4c81f784b61adbf62901e1&cdn=1&cp=pi&ma=30585600&ts=0&p=pi&cid=8&sig=c6e33944a94e14e7fe7121869937bf0d776dc3e571758bb6b505304170dcfbcc&v=0)Data Design a KPI framework for this new product area with primary metrics, drivers, guardrails, targets, and data validation needs.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Data+Design+a+KPI+framework+for+this+new+product+area+with+primary+metrics%2C+drivers%2C+guardrails%2C+targets%2C+and+data+validation+needs.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Data+Design+a+KPI+framework+for+this+new+product+area+with+primary+metrics%2C+drivers%2C+guardrails%2C+targets%2C+and+data+validation+needs.>)
 
   * ### Operationalize insights
 
-Create dashboards, reports, notebooks, or summaries that make evidence, caveats, and recommendations easy to review.
-
 ![](https://files.openai.com/content?id=file_000000006f4c81f784b61adbf62901e1&cdn=1&cp=pi&ma=30585600&ts=0&p=pi&cid=8&sig=c6e33944a94e14e7fe7121869937bf0d776dc3e571758bb6b505304170dcfbcc&v=0)Data Turn this month's metrics into a leadership-ready update with actuals, comparisons, drivers, caveats, and recommended actions.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Data+Turn+this+month%27s+metrics+into+a+leadership-ready+update+with+actuals%2C+comparisons%2C+drivers%2C+caveats%2C+and+recommended+actions.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Data+Turn+this+month%27s+metrics+into+a+leadership-ready+update+with+actuals%2C+comparisons%2C+drivers%2C+caveats%2C+and+recommended+actions.>)
 
 
 
@@ -119,7 +113,7 @@ Availability depends on the plugin, your plan, and workspace settings. Some conn
 
 ## Explore related plugins
 
-[![](https://files.openai.com/content?id=file_000000000f3081f7a148386e0036032a&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=23f27004207bf0063b44d64340b33c09de7704a5bb99b736cf24494db2663453&v=0)![](https://files.openai.com/content?id=file_000000000f3081f7a148386e0036032a&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=23f27004207bf0063b44d64340b33c09de7704a5bb99b736cf24494db2663453&v=0)SnowflakeAsk governed analytics questions of Snowflake data.](</business/plugins/snowflake/>)[![](https://files.openai.com/content?id=file_00000000fb6081f7aa3f621147713ad6&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=7b7a02db1929ca7e8aebd24b459d525b6ac1ae88b282b387816507320645a98d&v=0)![](https://files.openai.com/content?id=file_00000000fb6081f7aa3f621147713ad6&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=7b7a02db1929ca7e8aebd24b459d525b6ac1ae88b282b387816507320645a98d&v=0)Databricks GenieAnalyze lakehouse data and dashboards with natural language.](</business/plugins/databricks/>)[![](https://files.openai.com/content?id=file_00000000ed1481f78f9a3258f4550543&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=8&sig=5597c988d52ec699251bc1c8978153b96ff8b82c6227c6388fcbeca824ace455&v=0)![](https://files.openai.com/content?id=file_00000000ed1481f78f9a3258f4550543&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=8&sig=5597c988d52ec699251bc1c8978153b96ff8b82c6227c6388fcbeca824ace455&v=0)BigQueryExplore BigQuery data and generate SQL from natural language.](</business/plugins/bigquery/>)[![](https://files.openai.com/content?id=file_00000000f46881f78935875de96252d9&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=946d77979364c8757a0860fc685028b0cfbda4174232453d38b4aef0c34bd301&v=0)![](https://files.openai.com/content?id=file_00000000f46881f78935875de96252d9&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=946d77979364c8757a0860fc685028b0cfbda4174232453d38b4aef0c34bd301&v=0)Microsoft Power BIExplore and author analytics in your browser](</business/plugins/microsoft-power-bi/>)[![](https://files.openai.com/content?id=file_00000000dff471f588ea17f78eed1b4a&cdn=1&cp=pi&ma=31968000&ts=0&p=pi&cid=1&sig=06eddbb51a98c9ee74a1de3034ceb17a70d9c53ed5292fbf73a29439ad14d63b&v=0)![](https://files.openai.com/content?id=file_00000000dff471f588ea17f78eed1b4a&cdn=1&cp=pi&ma=31968000&ts=0&p=pi&cid=1&sig=06eddbb51a98c9ee74a1de3034ceb17a70d9c53ed5292fbf73a29439ad14d63b&v=0)AmplitudeSearch and analyze analytics data.](</business/plugins/amplitude/>)
+[![](https://files.openai.com/content?id=file_000000000f3081f7a148386e0036032a&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=23f27004207bf0063b44d64340b33c09de7704a5bb99b736cf24494db2663453&v=0)![](https://files.openai.com/content?id=file_000000000f3081f7a148386e0036032a&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=23f27004207bf0063b44d64340b33c09de7704a5bb99b736cf24494db2663453&v=0)SnowflakeAsk governed analytics questions of Snowflake data.](</business/plugins/snowflake/>)[![](https://files.openai.com/content?id=file_00000000fb6081f7aa3f621147713ad6&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=7b7a02db1929ca7e8aebd24b459d525b6ac1ae88b282b387816507320645a98d&v=0)![](https://files.openai.com/content?id=file_00000000fb6081f7aa3f621147713ad6&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=7b7a02db1929ca7e8aebd24b459d525b6ac1ae88b282b387816507320645a98d&v=0)Databricks GenieAnalyze lakehouse data and dashboards with natural language.](</business/plugins/databricks/>)[![](https://files.openai.com/content?id=file_00000000ed1481f78f9a3258f4550543&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=8&sig=5597c988d52ec699251bc1c8978153b96ff8b82c6227c6388fcbeca824ace455&v=0)![](https://files.openai.com/content?id=file_00000000ed1481f78f9a3258f4550543&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=8&sig=5597c988d52ec699251bc1c8978153b96ff8b82c6227c6388fcbeca824ace455&v=0)BigQueryExplore BigQuery data and generate SQL from natural language.](</business/plugins/bigquery/>)[![](https://files.openai.com/content?id=file_00000000f46881f78935875de96252d9&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=946d77979364c8757a0860fc685028b0cfbda4174232453d38b4aef0c34bd301&v=0)![](https://files.openai.com/content?id=file_00000000f46881f78935875de96252d9&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=946d77979364c8757a0860fc685028b0cfbda4174232453d38b4aef0c34bd301&v=0)Microsoft Power BIExplore and author analytics in your browser](</business/plugins/microsoft-power-bi/>)[![](https://files.openai.com/content?id=file_00000000dff471f588ea17f78eed1b4a&cdn=1&cp=pi&ma=31968000&ts=0&p=pi&cid=1&sig=06eddbb51a98c9ee74a1de3034ceb17a70d9c53ed5292fbf73a29439ad14d63b&v=0)![](https://files.openai.com/content?id=file_00000000dff471f588ea17f78eed1b4a&cdn=1&cp=pi&ma=31968000&ts=0&p=pi&cid=1&sig=06eddbb51a98c9ee74a1de3034ceb17a70d9c53ed5292fbf73a29439ad14d63b&v=0)AmplitudeSearch and analyze analytics data.](</business/plugins/amplitude/>)[![](https://files.openai.com/content?id=file_00000000305c81f592476d99e3faab61&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=8&sig=64c45bfe23621d0cb193310b6fc5cded6a470a131c891a40a6dca4c7198340d4&v=0)![](https://files.openai.com/content?id=file_00000000dda481f58d27cff6712efd6e&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=8&sig=0f9a40070454550d86b04a4023fefbd1dbcceb54dc9defdb316dfc7467777022&v=0)TableauSee and understand data](</business/plugins/tableau/>)
 
 ## Get started with plugins
 

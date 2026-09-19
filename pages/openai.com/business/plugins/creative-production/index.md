@@ -34,7 +34,7 @@ OpenAI
 
 Use the Creative Production plugin in ChatGPT to create, adapt, and review marketing assets, campaign concepts, ads, and launch creative.
 
-[Add plugin(opens in a new window)](<https://chatgpt.com/plugins/Plugin_9e6ca248b5248191ac8c599038990ad9>)[Contact sales](</contact-sales/>)
+[Install plugin(opens in a new window)](<https://chatgpt.com/plugins/Plugin_9e6ca248b5248191ac8c599038990ad9>)[Contact sales](</contact-sales/>)
 
 Capabilities
     Interactive, Write
@@ -48,37 +48,31 @@ Developer
 Website
     [(opens in a new window)](<https://openai.com/>)
 
-[![](https://files.openai.com/content?id=file_00000000c63c722f9b823ccc53aa7260&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=1&sig=dee934a3ef28c2b995472657ab8c642635358ccae1c1f4c0f739b51e04a4330c&v=0)Creative Production Start me on a creative production workflow(opens in a new window)](<https://chatgpt.com/?prompt=%40Creative+Production+Start+me+on+a+creative+production+workflow>)[![](https://files.openai.com/content?id=file_00000000c63c722f9b823ccc53aa7260&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=1&sig=dee934a3ef28c2b995472657ab8c642635358ccae1c1f4c0f739b51e04a4330c&v=0)Creative Production Generate concept images for this visual brief(opens in a new window)](<https://chatgpt.com/?prompt=%40Creative+Production+Generate+concept+images+for+this+visual+brief>)[![](https://files.openai.com/content?id=file_00000000c63c722f9b823ccc53aa7260&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=1&sig=dee934a3ef28c2b995472657ab8c642635358ccae1c1f4c0f739b51e04a4330c&v=0)Creative Production Create product placements from this image(opens in a new window)](<https://chatgpt.com/?prompt=%40Creative+Production+Create+product+placements+from+this+image>)
+[![](https://files.openai.com/content?id=file_00000000c63c722f9b823ccc53aa7260&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=1&sig=dee934a3ef28c2b995472657ab8c642635358ccae1c1f4c0f739b51e04a4330c&v=0)Creative Production Start me on a creative production workflow(opens in a new window)](<https://chatgpt.com/?prompt=%40Creative+Production+Start+me+on+a+creative+production+workflow>)
 
 ## How it works
 
 Use Creative Production in ChatGPT to create, adapt, and review marketing assets, image prompts, social concepts, static ads, and launch creative while keeping outputs aligned to brand and channel needs.
 
-## Common use cases
+## What else can you do?
 
   * ### Move from brief to concept
 
-Turn campaign goals, audience notes, and proof points into visual directions, copy lanes, and production-ready creative prompts.
-
 ![](https://files.openai.com/content?id=file_00000000c63c722f9b823ccc53aa7260&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=1&sig=dee934a3ef28c2b995472657ab8c642635358ccae1c1f4c0f739b51e04a4330c&v=0)Creative Production Create 9 social image concepts based on this marketing brief.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Creative+Production+Create+9+social+image+concepts+based+on+this+marketing+brief.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Creative+Production+Create+9+social+image+concepts+based+on+this+marketing+brief.>)
 
   * ### Adapt assets across channels
 
-Resize, rewrite, and tailor concepts for social, web, email, events, or sales enablement without losing the core message.
-
 ![](https://files.openai.com/content?id=file_00000000c63c722f9b823ccc53aa7260&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=1&sig=dee934a3ef28c2b995472657ab8c642635358ccae1c1f4c0f739b51e04a4330c&v=0)Creative Production Turn this top performing visual asset into variations for other channels while keeping brand and message consistent.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Creative+Production+Turn+this+top+performing+visual+asset+into+variations+for+other+channels+while+keeping+brand+and+message+consistent.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Creative+Production+Turn+this+top+performing+visual+asset+into+variations+for+other+channels+while+keeping+brand+and+message+consistent.>)
 
   * ### Review brand and readiness
 
-Check creative against brief, audience, channel, brand, and approval risks before production or stakeholder review.
-
 ![](https://files.openai.com/content?id=file_00000000c63c722f9b823ccc53aa7260&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=1&sig=dee934a3ef28c2b995472657ab8c642635358ccae1c1f4c0f739b51e04a4330c&v=0)Creative Production Review this ad concept against the brief and flag brand, claim, audience, and production risks.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Creative+Production+Review+this+ad+concept+against+the+brief+and+flag+brand%2C+claim%2C+audience%2C+and+production+risks.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Creative+Production+Review+this+ad+concept+against+the+brief+and+flag+brand%2C+claim%2C+audience%2C+and+production+risks.>)
 
 
 

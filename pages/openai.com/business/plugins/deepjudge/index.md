@@ -34,7 +34,7 @@ OpenAI
 
 Search internal knowledge
 
-[Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_templated_apps_6a912914ffe08191a761d4b44f55c048>)[Contact sales](</contact-sales/>)
+[Install plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_templated_apps_6a912914ffe08191a761d4b44f55c048>)[Contact sales](</contact-sales/>)
 
 Category
     [Productivity](</business/plugins/?tab=plugins-productivity>)
@@ -45,37 +45,31 @@ Developer
 Website
     [(opens in a new window)](<https://www.deepjudge.ai/>)
 
-[![](https://files.openai.com/content?id=file_00000000e51c820a9016d312d0bff162&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=1bffa8e0936cf5c472d0e3ca4f2151587e3d20c774a8555a6e264b2e2dd0668f&v=0)DeepJudge Find precedent clauses confirming management's indemnification rights survive unchanged after a merger.(opens in a new window)](<https://chatgpt.com/?prompt=%40DeepJudge+Find+precedent+clauses+confirming+management%27s+indemnification+rights+survive+unchanged+after+a+merger.>)[![](https://files.openai.com/content?id=file_00000000e51c820a9016d312d0bff162&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=1bffa8e0936cf5c472d0e3ca4f2151587e3d20c774a8555a6e264b2e2dd0668f&v=0)DeepJudge Find termination clauses tied to extended force majeure events that require advance written notice.(opens in a new window)](<https://chatgpt.com/?prompt=%40DeepJudge+Find+termination+clauses+tied+to+extended+force+majeure+events+that+require+advance+written+notice.>)[![](https://files.openai.com/content?id=file_00000000e51c820a9016d312d0bff162&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=1bffa8e0936cf5c472d0e3ca4f2151587e3d20c774a8555a6e264b2e2dd0668f&v=0)DeepJudge Search contracts for severance and equity acceleration terms triggered by a change of control.(opens in a new window)](<https://chatgpt.com/?prompt=%40DeepJudge+Search+contracts+for+severance+and+equity+acceleration+terms+triggered+by+a+change+of+control.>)
+[![](https://files.openai.com/content?id=file_00000000e51c820a9016d312d0bff162&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=1bffa8e0936cf5c472d0e3ca4f2151587e3d20c774a8555a6e264b2e2dd0668f&v=0)DeepJudge Find precedent clauses confirming management's indemnification rights survive unchanged after a merger.(opens in a new window)](<https://chatgpt.com/?prompt=%40DeepJudge+Find+precedent+clauses+confirming+management%27s+indemnification+rights+survive+unchanged+after+a+merger.>)
 
 ## How it works
 
 DeepJudge helps authorized users search internal documents, retrieve source content, and run high-effort research tasks with cited results.
 
-## Common use cases
+## What else can you do?
 
   * ### Find merger protection precedents
 
-Identify prior clauses protecting management indemnification after a merger and compare their scope and exceptions.
-
 ![](https://files.openai.com/content?id=file_00000000e51c820a9016d312d0bff162&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=1bffa8e0936cf5c472d0e3ca4f2151587e3d20c774a8555a6e264b2e2dd0668f&v=0)DeepJudge Find internal precedents preserving management's indemnification rights after a merger. Compare scope and exceptions, recommend the closest matches for our draft, and cite source clauses.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40DeepJudge+Find+internal+precedents+preserving+management%27s+indemnification+rights+after+a+merger.+Compare+scope+and+exceptions%2C+recommend+the+closest+matches+for+our+draft%2C+and+cite+source+clauses.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40DeepJudge+Find+internal+precedents+preserving+management%27s+indemnification+rights+after+a+merger.+Compare+scope+and+exceptions%2C+recommend+the+closest+matches+for+our+draft%2C+and+cite+source+clauses.>)
 
   * ### Compare force majeure exits
 
-Compare termination triggers and notice requirements in prior contracts to inform a force majeure clause review.
-
 ![](https://files.openai.com/content?id=file_00000000e51c820a9016d312d0bff162&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=1bffa8e0936cf5c472d0e3ca4f2151587e3d20c774a8555a6e264b2e2dd0668f&v=0)DeepJudge Find internal contracts allowing termination after extended force majeure. Compare duration thresholds and written notice requirements in a cited table, and flag differences to consider in our draft.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40DeepJudge+Find+internal+contracts+allowing+termination+after+extended+force+majeure.+Compare+duration+thresholds+and+written+notice+requirements+in+a+cited+table%2C+and+flag+differences+to+consider+in+our+draft.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40DeepJudge+Find+internal+contracts+allowing+termination+after+extended+force+majeure.+Compare+duration+thresholds+and+written+notice+requirements+in+a+cited+table%2C+and+flag+differences+to+consider+in+our+draft.>)
 
   * ### Assess change of control terms
 
-Summarize severance and equity acceleration provisions in the selected matter to prioritize further review.
-
 ![](https://files.openai.com/content?id=file_00000000e51c820a9016d312d0bff162&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=1bffa8e0936cf5c472d0e3ca4f2151587e3d20c774a8555a6e264b2e2dd0668f&v=0)DeepJudge Search contracts for this matter for severance and equity acceleration triggered by a change of control. Summarize triggers and conditions with source citations, and prioritize provisions for further review.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40DeepJudge+Search+contracts+for+this+matter+for+severance+and+equity+acceleration+triggered+by+a+change+of+control.+Summarize+triggers+and+conditions+with+source+citations%2C+and+prioritize+provisions+for+further+review.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40DeepJudge+Search+contracts+for+this+matter+for+severance+and+equity+acceleration+triggered+by+a+change+of+control.+Summarize+triggers+and+conditions+with+source+citations%2C+and+prioritize+provisions+for+further+review.>)
 
 
 

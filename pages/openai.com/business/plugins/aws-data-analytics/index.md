@@ -34,7 +34,7 @@ OpenAI
 
 AWS Data Analytics Plugin
 
-[Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a917708c64481918f7ddea0cef4b8e6>)[Contact sales](</contact-sales/>)
+[Install plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a917708c64481918f7ddea0cef4b8e6>)[Contact sales](</contact-sales/>)
 
 Category
     [Data](</business/plugins/?tab=plugins-data-research>)
@@ -49,31 +49,25 @@ Website
 
 Data lake, analytics, and ETL workflows with S3 Tables, AWS Glue, and Athena. Covers managed Iceberg tables on S3 Tables, ingestion from JDBC databases, Amazon Redshift, Snowflake, BigQuery, and DynamoDB, AWS Glue Data Catalog inventory and asset discovery, federated Athena queries, and vector storage and semantic search on Amazon S3 Vectors.
 
-## Common use cases
+## What else can you do?
 
   * ### Find analytics data
 
-Identify catalog tables that can support a business question and explain the available fields.
-
 ![](https://files.openai.com/content?id=file_000000000ed881f6857938316275184f&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=8&sig=51d210da2c1fa7b5abfba4519d8cab9a9ec45c6c4e6934371f929fd47fba01f7&v=0)![](https://files.openai.com/content?id=file_000000000ed881f6857938316275184f&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=8&sig=51d210da2c1fa7b5abfba4519d8cab9a9ec45c6c4e6934371f929fd47fba01f7&v=0)AWS Data Analytics Find tables in the Glue Data Catalog in [region] that could answer [business question]. Summarize their schemas and locations, recommend the best sources, and flag missing data.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40AWS+Data+Analytics+Find+tables+in+the+Glue+Data+Catalog+in+%5Bregion%5D+that+could+answer+%5Bbusiness+question%5D.+Summarize+their+schemas+and+locations%2C+recommend+the+best+sources%2C+and+flag+missing+data.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40AWS+Data+Analytics+Find+tables+in+the+Glue+Data+Catalog+in+%5Bregion%5D+that+could+answer+%5Bbusiness+question%5D.+Summarize+their+schemas+and+locations%2C+recommend+the+best+sources%2C+and+flag+missing+data.>)
 
   * ### Analyze sales trends
 
-Summarize monthly sales from Athena queries and identify the largest changes.
-
 ![](https://files.openai.com/content?id=file_000000000ed881f6857938316275184f&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=8&sig=51d210da2c1fa7b5abfba4519d8cab9a9ec45c6c4e6934371f929fd47fba01f7&v=0)![](https://files.openai.com/content?id=file_000000000ed881f6857938316275184f&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=8&sig=51d210da2c1fa7b5abfba4519d8cab9a9ec45c6c4e6934371f929fd47fba01f7&v=0)AWS Data Analytics Use Athena to analyze monthly sales in [table] for the last quarter. Compare regions, identify the largest changes, and return the SQL with a concise findings summary.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40AWS+Data+Analytics+Use+Athena+to+analyze+monthly+sales+in+%5Btable%5D+for+the+last+quarter.+Compare+regions%2C+identify+the+largest+changes%2C+and+return+the+SQL+with+a+concise+findings+summary.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40AWS+Data+Analytics+Use+Athena+to+analyze+monthly+sales+in+%5Btable%5D+for+the+last+quarter.+Compare+regions%2C+identify+the+largest+changes%2C+and+return+the+SQL+with+a+concise+findings+summary.>)
 
   * ### Plan data lake ingestion
 
-Produce an ingestion plan for moving a source table into managed Iceberg storage.
-
 ![](https://files.openai.com/content?id=file_000000000ed881f6857938316275184f&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=8&sig=51d210da2c1fa7b5abfba4519d8cab9a9ec45c6c4e6934371f929fd47fba01f7&v=0)![](https://files.openai.com/content?id=file_000000000ed881f6857938316275184f&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=8&sig=51d210da2c1fa7b5abfba4519d8cab9a9ec45c6c4e6934371f929fd47fba01f7&v=0)AWS Data Analytics Plan ingestion of [source table] into S3 Tables in [region]. Inspect the source schema, recommend an ingestion approach, and list prerequisites and validation checks before any data movement.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40AWS+Data+Analytics+Plan+ingestion+of+%5Bsource+table%5D+into+S3+Tables+in+%5Bregion%5D.+Inspect+the+source+schema%2C+recommend+an+ingestion+approach%2C+and+list+prerequisites+and+validation+checks+before+any+data+movement.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40AWS+Data+Analytics+Plan+ingestion+of+%5Bsource+table%5D+into+S3+Tables+in+%5Bregion%5D.+Inspect+the+source+schema%2C+recommend+an+ingestion+approach%2C+and+list+prerequisites+and+validation+checks+before+any+data+movement.>)
 
 
 

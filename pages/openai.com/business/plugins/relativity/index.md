@@ -34,7 +34,7 @@ OpenAI
 
 Administer RelativityOne
 
-[Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a7f2ee21b748191ab9ae65f8228f23c>)[Contact sales](</contact-sales/>)
+[Install plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a7f2ee21b748191ab9ae65f8228f23c>)[Contact sales](</contact-sales/>)
 
 Category
     [Productivity](</business/plugins/?tab=plugins-productivity>)
@@ -45,37 +45,31 @@ Developer
 Website
     [(opens in a new window)](<https://relativity.com>)
 
-[![](https://files.openai.com/content?id=file_00000000552081f6ac46d4c1d59ae773&cdn=1&cp=pi&ma=31190400&ts=0&p=pi&cid=8&sig=f960228679b2b55e238326ea22a293b0e79436cb868554da8a5f5264e531d239&v=0)Relativity Show me all workspaces created this year.(opens in a new window)](<https://chatgpt.com/?prompt=%40Relativity+Show+me+all+workspaces+created+this+year.>)[![](https://files.openai.com/content?id=file_00000000552081f6ac46d4c1d59ae773&cdn=1&cp=pi&ma=31190400&ts=0&p=pi&cid=8&sig=f960228679b2b55e238326ea22a293b0e79436cb868554da8a5f5264e531d239&v=0)Relativity Generate a workspace storage usage report for Q1.(opens in a new window)](<https://chatgpt.com/?prompt=%40Relativity+Generate+a+workspace+storage+usage+report+for+Q1.>)[![](https://files.openai.com/content?id=file_00000000552081f6ac46d4c1d59ae773&cdn=1&cp=pi&ma=31190400&ts=0&p=pi&cid=8&sig=f960228679b2b55e238326ea22a293b0e79436cb868554da8a5f5264e531d239&v=0)Relativity Add John.Doe@domain.com to the 'Contractors' group.(opens in a new window)](<https://chatgpt.com/?prompt=%40Relativity+Add+John.Doe%40domain.com+to+the+%27Contractors%27+group.>)
+[![](https://files.openai.com/content?id=file_00000000552081f6ac46d4c1d59ae773&cdn=1&cp=pi&ma=31190400&ts=0&p=pi&cid=8&sig=f960228679b2b55e238326ea22a293b0e79436cb868554da8a5f5264e531d239&v=0)Relativity Show me all workspaces created this year.(opens in a new window)](<https://chatgpt.com/?prompt=%40Relativity+Show+me+all+workspaces+created+this+year.>)
 
 ## How it works
 
 The Relativity MCP server is designed to give AI assistants access to RelativityOne capabilities through Model Context Protocol, an open standard for connecting AI tools to external data and services through MCP clients. As a system administrator, you can use it to perform day-to-day tasks such as managing matters, configuring workspaces, granting access, and reviewing system usage.
 
-## Common use cases
+## What else can you do?
 
   * ### Review workspace inventory
 
-Get an organized workspace inventory with naming and assignment issues highlighted for review.
-
 ![](https://files.openai.com/content?id=file_00000000552081f6ac46d4c1d59ae773&cdn=1&cp=pi&ma=31190400&ts=0&p=pi&cid=8&sig=f960228679b2b55e238326ea22a293b0e79436cb868554da8a5f5264e531d239&v=0)Relativity Review workspaces created this year. Group them by client and matter, summarize their status and use case, and flag unclear names or assignments for administrator review.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Relativity+Review+workspaces+created+this+year.+Group+them+by+client+and+matter%2C+summarize+their+status+and+use+case%2C+and+flag+unclear+names+or+assignments+for+administrator+review.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Relativity+Review+workspaces+created+this+year.+Group+them+by+client+and+matter%2C+summarize+their+status+and+use+case%2C+and+flag+unclear+names+or+assignments+for+administrator+review.>)
 
   * ### Explain storage usage
 
-See which workspaces account for the most storage and where administrators should investigate.
-
 ![](https://files.openai.com/content?id=file_00000000552081f6ac46d4c1d59ae773&cdn=1&cp=pi&ma=31190400&ts=0&p=pi&cid=8&sig=f960228679b2b55e238326ea22a293b0e79436cb868554da8a5f5264e531d239&v=0)Relativity Generate a workspace storage usage report for last quarter. Rank workspaces by storage, explain the largest contributors, and provide a table of findings for administrator review.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Relativity+Generate+a+workspace+storage+usage+report+for+last+quarter.+Rank+workspaces+by+storage%2C+explain+the+largest+contributors%2C+and+provide+a+table+of+findings+for+administrator+review.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Relativity+Generate+a+workspace+storage+usage+report+for+last+quarter.+Rank+workspaces+by+storage%2C+explain+the+largest+contributors%2C+and+provide+a+table+of+findings+for+administrator+review.>)
 
   * ### Audit workspace access
 
-Compare workspace groups and members with an approved roster to identify access changes for review.
-
 ![](https://files.openai.com/content?id=file_00000000552081f6ac46d4c1d59ae773&cdn=1&cp=pi&ma=31190400&ts=0&p=pi&cid=8&sig=f960228679b2b55e238326ea22a293b0e79436cb868554da8a5f5264e531d239&v=0)Relativity Audit group access to [workspace]. List each group's members, compare them with the approved roster below, and recommend additions or removals with reasons for administrator review.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Relativity+Audit+group+access+to+%5Bworkspace%5D.+List+each+group%27s+members%2C+compare+them+with+the+approved+roster+below%2C+and+recommend+additions+or+removals+with+reasons+for+administrator+review.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Relativity+Audit+group+access+to+%5Bworkspace%5D.+List+each+group%27s+members%2C+compare+them+with+the+approved+roster+below%2C+and+recommend+additions+or+removals+with+reasons+for+administrator+review.>)
 
 
 

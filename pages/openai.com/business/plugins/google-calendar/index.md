@@ -34,7 +34,7 @@ OpenAI
 
 Look up events and availability.
 
-[Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_1p_f8509de903288191b14a160c6c5d20b0>)[Contact sales](</contact-sales/>)
+[Install plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_1p_f8509de903288191b14a160c6c5d20b0>)[Contact sales](</contact-sales/>)
 
 Capabilities
     Interactive, Write
@@ -48,37 +48,31 @@ Developer
 Website
     [(opens in a new window)](<https://workspace.google.com/products/calendar/>)
 
-[![](https://files.openai.com/content?id=file_00000000970481f5b8b68deb912e6bc5&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=8&sig=1b39aa1deb8a0282fdd5a8148464248cf892979c41421c48bb239eae61f7910a&v=0)Google Calendar Look at my schedule tomorrow and build a realistic day plan with focus blocks and the meetings I should prep for first(opens in a new window)](<https://chatgpt.com/?prompt=%40Google+Calendar+Look+at+my+schedule+tomorrow+and+build+a+realistic+day+plan+with+focus+blocks+and+the+meetings+I+should+prep+for+first>)[![](https://files.openai.com/content?id=file_00000000970481f5b8b68deb912e6bc5&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=8&sig=1b39aa1deb8a0282fdd5a8148464248cf892979c41421c48bb239eae61f7910a&v=0)Google Calendar Analyze my last 4 weeks of meetings and summarize how my time is split across product, sales, and ops; suggest 3 changes(opens in a new window)](<https://chatgpt.com/?prompt=%40Google+Calendar+Analyze+my+last+4+weeks+of+meetings+and+summarize+how+my+time+is+split+across+product%2C+sales%2C+and+ops%3B+suggest+3+changes>)[![](https://files.openai.com/content?id=file_00000000970481f5b8b68deb912e6bc5&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=8&sig=1b39aa1deb8a0282fdd5a8148464248cf892979c41421c48bb239eae61f7910a&v=0)Google Calendar Brief me on my next meeting: details, attendees, agenda, recent context, key topics, goals, and questions to discuss(opens in a new window)](<https://chatgpt.com/?prompt=%40Google+Calendar+Brief+me+on+my+next+meeting%3A+details%2C+attendees%2C+agenda%2C+recent+context%2C+key+topics%2C+goals%2C+and+questions+to+discuss>)
+[![](https://files.openai.com/content?id=file_00000000970481f5b8b68deb912e6bc5&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=8&sig=1b39aa1deb8a0282fdd5a8148464248cf892979c41421c48bb239eae61f7910a&v=0)Google Calendar Look at my schedule tomorrow and build a realistic day plan with focus blocks and the meetings I should prep for first(opens in a new window)](<https://chatgpt.com/?prompt=%40Google+Calendar+Look+at+my+schedule+tomorrow+and+build+a+realistic+day+plan+with+focus+blocks+and+the+meetings+I+should+prep+for+first>)
 
 ## How it works
 
 View upcoming events and attendee availability to plan meetings, avoid conflicts, and coordinate schedules faster across teams.
 
-## Common use cases
+## What else can you do?
 
   * ### Schedules meetings more easily
 
-Look up upcoming events and attendee availability in real time to find open time slots, reduce back-and-forth, and schedule meetings faster across teams.
-
 ![](https://files.openai.com/content?id=file_00000000970481f5b8b68deb912e6bc5&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=8&sig=1b39aa1deb8a0282fdd5a8148464248cf892979c41421c48bb239eae61f7910a&v=0)Google Calendar Summarize my calendar, compare availability, prep meetings, or draft event details
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Google+Calendar+Summarize+my+calendar%2C+compare+availability%2C+prep+meetings%2C+or+draft+event+details>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Google+Calendar+Summarize+my+calendar%2C+compare+availability%2C+prep+meetings%2C+or+draft+event+details>)
 
   * ### Improve schedule visibility and prioritization
 
-Review upcoming events for conflicts, and highlight critical sessions so leaders can plan their days around the highest-value engagements.
-
 ![](https://files.openai.com/content?id=file_00000000970481f5b8b68deb912e6bc5&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=8&sig=1b39aa1deb8a0282fdd5a8148464248cf892979c41421c48bb239eae61f7910a&v=0)Google Calendar Look at my schedule tomorrow and build a realistic day plan with focus blocks and the meetings I should prep for first.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Google+Calendar+Look+at+my+schedule+tomorrow+and+build+a+realistic+day+plan+with+focus+blocks+and+the+meetings+I+should+prep+for+first.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Google+Calendar+Look+at+my+schedule+tomorrow+and+build+a+realistic+day+plan+with+focus+blocks+and+the+meetings+I+should+prep+for+first.>)
 
   * ### Plan days and weeks with clarity
 
-Understand how productivity time is allocated, prepare for key meetings, and make informed tradeoffs when scheduling new work.
-
 ![](https://files.openai.com/content?id=file_00000000970481f5b8b68deb912e6bc5&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=8&sig=1b39aa1deb8a0282fdd5a8148464248cf892979c41421c48bb239eae61f7910a&v=0)Google Calendar Analyze my last 4 weeks of meetings and summarize how my time is split across product, sales, and ops; suggest 3 changes.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Google+Calendar+Analyze+my+last+4+weeks+of+meetings+and+summarize+how+my+time+is+split+across+product%2C+sales%2C+and+ops%3B+suggest+3+changes.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Google+Calendar+Analyze+my+last+4+weeks+of+meetings+and+summarize+how+my+time+is+split+across+product%2C+sales%2C+and+ops%3B+suggest+3+changes.>)
 
 
 
@@ -87,7 +81,7 @@ Understand how productivity time is allocated, prepare for key meetings, and mak
 
 ### App
 
-  * connector_947e0d954944416db111db556030eea6
+  * Google Calendar
 
 
 

@@ -34,7 +34,7 @@ OpenAI
 
 Search and reference your Outlook email.
 
-[Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_1p_6bcb5879c73c819196abc70016166099>)[Contact sales](</contact-sales/>)
+[Install plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_1p_6bcb5879c73c819196abc70016166099>)[Contact sales](</contact-sales/>)
 
 Capabilities
     Interactive, Write
@@ -48,37 +48,35 @@ Developer
 Website
     [(opens in a new window)](<https://www.microsoft.com/en-us/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook>)
 
-[![](https://files.openai.com/content?id=file_0000000058ac81fbae22415c3105649e&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=8&sig=48cccf127f52db216b8d03d8f1602161a5b9d8145f27f8fbd36d14b6db41c76b&v=0)Outlook Email Summarize the most recent thread with procurement and pull the exact questions they asked so I can answer cleanly(opens in a new window)](<https://chatgpt.com/?prompt=%40Outlook+Email+Summarize+the+most+recent+thread+with+procurement+and+pull+the+exact+questions+they+asked+so+I+can+answer+cleanly>)[![](https://files.openai.com/content?id=file_0000000058ac81fbae22415c3105649e&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=8&sig=48cccf127f52db216b8d03d8f1602161a5b9d8145f27f8fbd36d14b6db41c76b&v=0)Outlook Email Draft a reply to the latest customer message: acknowledge the concern, set expectations, and offer two ways forward(opens in a new window)](<https://chatgpt.com/?prompt=%40Outlook+Email+Draft+a+reply+to+the+latest+customer+message%3A+acknowledge+the+concern%2C+set+expectations%2C+and+offer+two+ways+forward>)[![](https://files.openai.com/content?id=file_0000000058ac81fbae22415c3105649e&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=8&sig=48cccf127f52db216b8d03d8f1602161a5b9d8145f27f8fbd36d14b6db41c76b&v=0)Outlook Email Find the top 5 emails I should respond to today based on urgency, seniority, and deadlines; include one-line suggested replies(opens in a new window)](<https://chatgpt.com/?prompt=%40Outlook+Email+Find+the+top+5+emails+I+should+respond+to+today+based+on+urgency%2C+seniority%2C+and+deadlines%3B+include+one-line+suggested+replies>)
+## Emails that need a reply
+
+![](https://files.openai.com/content?id=file_0000000058ac81fbae22415c3105649e&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=8&sig=48cccf127f52db216b8d03d8f1602161a5b9d8145f27f8fbd36d14b6db41c76b&v=0)Outlook Email prioritize today’s emails that need a response, check Microsoft Teams and SharePoint for context, and add draft replies directly.
+
+![](https://files.openai.com/content?id=file_0000000058ac81fbae22415c3105649e&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=8&sig=48cccf127f52db216b8d03d8f1602161a5b9d8145f27f8fbd36d14b6db41c76b&v=0)Outlook Email prioritize today’s emails that need a response, check Microsoft Teams and SharePoint for context, and add draft replies directly.
 
 ## How it works
 
 Review your Outlook conversations to prepare replies, recap recent exchanges, gather talking points for meetings, or highlight action items.
 
-## Common use cases
+## What else can you do?
 
   * ### Prepare faster with accurate communication history
 
-Summarize long threads to capture decisions, risks, and open questions, helping teams enter customer or internal meetings aligned and ready with the right talking points.
-
 ![](https://files.openai.com/content?id=file_0000000058ac81fbae22415c3105649e&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=8&sig=48cccf127f52db216b8d03d8f1602161a5b9d8145f27f8fbd36d14b6db41c76b&v=0)Outlook Email Summarize the most recent thread with procurement and pull the exact questions they asked so I can answer cleanly.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Outlook+Email+Summarize+the+most+recent+thread+with+procurement+and+pull+the+exact+questions+they+asked+so+I+can+answer+cleanly.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Outlook+Email+Summarize+the+most+recent+thread+with+procurement+and+pull+the+exact+questions+they+asked+so+I+can+answer+cleanly.>)
 
   * ### Stay ahead of follow-ups and commitments
 
-Turn recent messages into clear action lists with owners and deadlines, reducing missed handoffs and keeping cross-functional work moving.
-
 ![](https://files.openai.com/content?id=file_0000000058ac81fbae22415c3105649e&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=8&sig=48cccf127f52db216b8d03d8f1602161a5b9d8145f27f8fbd36d14b6db41c76b&v=0)Outlook Email Draft a reply to the latest customer message that acknowledges the concern, sets expectations, and proposes two next-step options.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Outlook+Email+Draft+a+reply+to+the+latest+customer+message+that+acknowledges+the+concern%2C+sets+expectations%2C+and+proposes+two+next-step+options.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Outlook+Email+Draft+a+reply+to+the+latest+customer+message+that+acknowledges+the+concern%2C+sets+expectations%2C+and+proposes+two+next-step+options.>)
 
   * ### Prioritize high-impact conversations
 
-Highlight urgent messages, stakeholder outreach, and account risks so teams focus attention where it has the greatest business impact.
-
 ![](https://files.openai.com/content?id=file_0000000058ac81fbae22415c3105649e&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=8&sig=48cccf127f52db216b8d03d8f1602161a5b9d8145f27f8fbd36d14b6db41c76b&v=0)Outlook Email Find the top 5 emails I should respond to today based on urgency, seniority, and deadlines; include one-line suggested replies.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Outlook+Email+Find+the+top+5+emails+I+should+respond+to+today+based+on+urgency%2C+seniority%2C+and+deadlines%3B+include+one-line+suggested+replies.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Outlook+Email+Find+the+top+5+emails+I+should+respond+to+today+based+on+urgency%2C+seniority%2C+and+deadlines%3B+include+one-line+suggested+replies.>)
 
 
 

@@ -43,6 +43,50 @@ Sort
 
 ChatGPT
 
+Sep 17, 2026
+
+GA
+
+## ChatGPT for Word
+
+ChatGPT is now available in Microsoft Word. You can draft from notes, summarize a document, revise selected text, and adjust headings and formatting from the ChatGPT sidebar. Word joins Excel and PowerPoint through the same Microsoft add-in.
+
+ChatGPT for Word is available on all ChatGPT plans, including Free. Your plan’s token limits apply, and Word draws from the shared usage allowance for Codex and other premium features on plans that include it.
+
+For ChatGPT Business, Enterprise, and Edu, workspace admins can turn Word access on or off in the ChatGPT admin console. Microsoft 365 admins must also allow the ChatGPT add-in. Starting Oct 1, 2026, Word access will be enabled by default.
+
+For ChatGPT Business, Enterprise, and Edu, Word uses token-based pricing at the API rates for the model you use.
+
+[View source(opens in a new window)](<https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-for-word>)[Help center(opens in a new window)](<https://help.openai.com/en/articles/11391654-chatgpt-business-release-notes#chatgpt-for-word>)[Help center(opens in a new window)](<https://help.openai.com/en/articles/10128477-chatgpt-enterprise-edu-release-notes#chatgpt-for-word>)
+
+ChatGPT
+
+Sep 17, 2026
+
+GA
+
+## Connect multiple accounts to plugins in ChatGPT
+
+You can now connect multiple accounts to plugins in ChatGPT, expanding support beyond Gmail, Google Calendar, and Google Contacts. Bring your personal and work accounts into the same conversation, so ChatGPT can help you find information and get things done across your personal and work accounts. Available on all ChatGPT plans across web, mobile, and desktop.
+
+[View source(opens in a new window)](<https://help.openai.com/en/articles/6825453-chatgpt-release-notes#connect-multiple-accounts-to-plugins-in-chatgpt>)
+
+API
+
+Sep 17, 2026
+
+GA
+
+## Manage API Platform access with SCIM
+
+Tenant-wide SCIM now supports API Platform. Enterprise and Edu global admins can assign synchronized groups to API organizations and selected projects through Product access in Admin Console. This extends the existing tenant-wide SCIM setup for ChatGPT workspaces and Ads accounts.
+
+Members receive access without accepting an invitation. Manage synchronized group membership in your identity provider, and SCIM updates the API memberships it manages as group assignments change.
+
+[View source(opens in a new window)](<https://help.openai.com/en/articles/10128477-chatgpt-enterprise-edu-release-notes#manage-api-platform-access-with-scim>)[Help center(opens in a new window)](<https://help.openai.com/en/articles/10011769>)
+
+ChatGPT
+
 Sep 14, 2026
 
 GA
@@ -72,46 +116,6 @@ We’re retiring automatic switching from Instant to Thinking (reasoning) for Ch
 We’re also removing the Higher intelligence setting from ChatGPT on the web for these plans. ChatGPT can still switch automatically for safety purposes.
 
 [View source(opens in a new window)](<https://help.openai.com/en/articles/6825453-chatgpt-release-notes#changes-to-automatic-switching-to-thinking-in-chatgpt-plus-and-pro>)[Help center(opens in a new window)](<https://help.openai.com/en/articles/20001354>)
-
-Codex
-
-Sep 14, 2026
-
-Sunset
-
-## GPT-5.5 retires from ChatGPT, ChatGPT Work, and Codex on October 14
-
-On October 14, 2026, GPT‑5.5 will retire from ChatGPT, ChatGPT Work, and Codex on all plans, including consumer, Business, Enterprise, and Edu plans. This retirement does not apply to the OpenAI API.
-
-For Codex with ChatGPT sign-in, switch from `gpt-5.5` to `gpt-5.6-sol` (GPT‑5.6 Sol) before the retirement date.
-
-Update workspace defaults, saved model settings, managed configurations, custom agents, scheduled tasks, and scripts that still select `gpt-5.5`.
-
-[View source(opens in a new window)](<https://learn.chatgpt.com/docs/changelog#codex-2026-09-14-gpt-55-retirement>)[Platform docs(opens in a new window)](<https://learn.chatgpt.com/docs/models#gpt-55-retirement>)[Platform docs(opens in a new window)](<https://learn.chatgpt.com/docs/enterprise/workspace-model-availability#prepare-for-the-gpt-55-retirement>)
-
-ChatGPT
-
-Sep 11, 2026
-
-GA
-
-## Test a member's model access
-
-ChatGPT Business admins can use Model Test to understand which models a member can access and which settings contribute to that access. Open Admin Console, select your ChatGPT workspace, then use Models > Test to search for a member by name or email. Testing does not grant model access, change permissions or usage limits, or override the member’s seat type or workspace plan.
-
-[View source(opens in a new window)](<https://help.openai.com/en/articles/11391654-chatgpt-business-release-notes#test-a-members-model-access>)[Help center(opens in a new window)](<https://help.openai.com/en/articles/10128477-chatgpt-enterprise-edu-release-notes#test-a-members-model-access>)[Help center(opens in a new window)](<https://help.openai.com/en/articles/12289294-managing-your-tenant-in-admin-console>)
-
-Codex
-
-Sep 11, 2026
-
-GA
-
-## Audit logs for Codex policies and configurations
-
-Changes made through the Codex Policies & Configurations interface are recorded in workspace audit logs. Authorized admins can review the logs in the UI or retrieve them through the Compliance API.
-
-[View source(opens in a new window)](<https://help.openai.com/en/articles/10128477-chatgpt-enterprise-edu-release-notes#audit-logs-for-codex-policies-and-configurations>)[Help center(opens in a new window)](<https://help.openai.com/en/articles/9261474-openai-compliance-platform-for-enterprise-and-edu-customers>)
 
 Load more
 

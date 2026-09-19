@@ -153,7 +153,7 @@ Working with selected firms, our forward-deployed engineers have been adapting C
 
 
 
-1 of 3
+1 of 4
 
 > “Our collaboration with OpenAI has allowed us to rethink how this work gets done – moving lawyers and management teams more quickly through intensive preparation and into questions that require judgment, market experience and strategic thinking.”
 
@@ -167,18 +167,25 @@ Robert Giuffra Jr. and Scott Miller, Co-Chairs, **Sullivan & Cromwell**
 
 **Ropes & Gray**
 
+> “Skadden is excited to work with OpenAI to bring frontier AI together with the firm's deep legal experience. We're designing a suite of tools to help clients assess regulatory risk and make informed decisions as they pursue transactions or bring products to market—just one of the many ways we're incorporating these new capabilities to deliver valued solutions for our clients.”
+
+Skadden
+
   * Cooley
 
   * Sullivan & Cromwell
 
   * Ropes & Gray
 
+  * Skadden
+
 
 
 
   * Cooley
   * Sullivan & Cromwell
   * Ropes & Gray
+  * Skadden
 
 
 
@@ -224,6 +231,10 @@ OpenAI
 
 [View all](</news/>)
 
+![Introducing the Australian Youth Safety Blueprint — cover](https://images.ctfassets.net/kftzwdyauwt9/3hSPxVZReGirTIsDaGBwaN/6a402fc967b16c7a33e509a2bea2bc44/introducing-the-australian-youth-safety-blueprint-cover.png?w=3840&q=90&fm=webp)
+
+[Introducing the Australian Youth Safety BlueprintCompanySep 18, 2026](</index/australian-youth-safety-blueprint/>)
+
 ![Paul Christiano joins OpenAI Foundation Board — card](https://images.ctfassets.net/kftzwdyauwt9/4PcDbhz75I70TjyGat7oHl/598dd1e865018860c3591cb95c9bc72e/paul-christiano-joins-openai-foundation-board--cover-v001.png?w=3840&q=90&fm=webp)
 
 [Paul Christiano joins OpenAI Foundation BoardCompanySep 9, 2026](</index/paul-christiano-joins-openai-foundation-board/>)
@@ -231,10 +242,6 @@ OpenAI
 ![The Work Now Within Reach — clean cover](https://images.ctfassets.net/kftzwdyauwt9/5iHLTPM4ZhKe4dAwOPfpy2/347b9d804542685bb13dbb63e985d91e/c3f562e2b08a0bfc.png?w=3840&q=90&fm=webp)
 
 [The Work Now Within ReachCompanySep 8, 2026](</index/the-work-now-within-reach/>)
-
-![Supporting journalism from classrooms to newsrooms — listing card](https://images.ctfassets.net/kftzwdyauwt9/2uvvRNdvFkdWWXNtANgtAF/36e0f8b6a0c35abf88eec71519823409/Option_70___1080_1080.png?w=3840&q=90&fm=webp)
-
-[Supporting journalism from classrooms to newsroomsCompanySep 8, 2026](</index/supporting-journalism-from-classrooms-to-newsrooms/>)
 
 Research
 

@@ -34,7 +34,7 @@ OpenAI
 
 Look up chats and messages.
 
-[Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69a1d78e929881919bba0dbda1f6436d>)[Contact sales](</contact-sales/>)
+[Install plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69a1d78e929881919bba0dbda1f6436d>)[Contact sales](</contact-sales/>)
 
 Capabilities
     Interactive, Write
@@ -48,37 +48,35 @@ Developer
 Website
     [(opens in a new window)](<https://slack.com/>)
 
-[![](https://files.openai.com/content?id=file_00000000f76081f7aadb2093dc9a88d7&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=a45ce46237849f50f780ce7660a9d5f9fca54426fe81c38dd4a49cfeb962335a&v=0)Slack Summarize what mattered most in [channel] over the last 7 days and list decisions plus owners plus next steps(opens in a new window)](<https://chatgpt.com/?prompt=%40Slack+Summarize+what+mattered+most+in+%5Bchannel%5D+over+the+last+7+days+and+list+decisions+plus+owners+plus+next+steps>)[![](https://files.openai.com/content?id=file_00000000f76081f7aadb2093dc9a88d7&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=a45ce46237849f50f780ce7660a9d5f9fca54426fe81c38dd4a49cfeb962335a&v=0)Slack Draft a crisp reply in the same tone as the channel for the last customer escalation message in [channel](opens in a new window)](<https://chatgpt.com/?prompt=%40Slack+Draft+a+crisp+reply+in+the+same+tone+as+the+channel+for+the+last+customer+escalation+message+in+%5Bchannel%5D>)[![](https://files.openai.com/content?id=file_00000000f76081f7aadb2093dc9a88d7&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=a45ce46237849f50f780ce7660a9d5f9fca54426fe81c38dd4a49cfeb962335a&v=0)Slack Build a 30 minute meeting agenda based on the top themes from this mornings discussion in [channel](opens in a new window)](<https://chatgpt.com/?prompt=%40Slack+Build+a+30+minute+meeting+agenda+based+on+the+top+themes+from+this+mornings+discussion+in+%5Bchannel%5D>)
+## This week in procurement
+
+![](https://files.openai.com/content?id=file_00000000f76081f7aadb2093dc9a88d7&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=a45ce46237849f50f780ce7660a9d5f9fca54426fe81c38dd4a49cfeb962335a&v=0)Slack turn this week’s team conversations into a project update with progress, blockers, owners, and recommended next steps.
+
+![](https://files.openai.com/content?id=file_00000000f76081f7aadb2093dc9a88d7&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=a45ce46237849f50f780ce7660a9d5f9fca54426fe81c38dd4a49cfeb962335a&v=0)Slack turn this week’s team conversations into a project update with progress, blockers, owners, and recommended next steps.
 
 ## How it works
 
 Use your Slack messages and channel discussions to create recaps, gather background before a meeting, highlight decisions, or draft responses with the right context.
 
-## Common use cases
+## What else can you do?
 
   * ### Turn briefs into proposals
 
-Turn the scope, timeline, and budget discussed in Slack into a project proposal your team can review and build on.
-
 Use the scope, timeline, and budget from my ![](https://files.openai.com/content?id=file_00000000f76081f7aadb2093dc9a88d7&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=a45ce46237849f50f780ce7660a9d5f9fca54426fe81c38dd4a49cfeb962335a&v=0)Slack conversations to draft a project proposal I can share with the team.
 
-[(opens in a new window)](<https://chatgpt.com/?q=Use+the+scope%2C+timeline%2C+and+budget+from+my+%40Slack+conversations+to+draft+a+project+proposal+I+can+share+with+the+team.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=Use+the+scope%2C+timeline%2C+and+budget+from+my+%40Slack+conversations+to+draft+a+project+proposal+I+can+share+with+the+team.>)
 
   * ### Prep your code for review
 
-Help your team review the feature you built in Codex with a pull request description covering what changed, key tradeoffs, and important context.
-
 ![](https://files.openai.com/content?id=file_00000000f76081f7aadb2093dc9a88d7&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=a45ce46237849f50f780ce7660a9d5f9fca54426fe81c38dd4a49cfeb962335a&v=0)Slack Write a pull request description for the feature I built in Codex. Include what changed, the key tradeoffs, and anything my team should know.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Slack+Write+a+pull+request+description+for+the+feature+I+built+in+Codex.+Include+what+changed%2C+the+key+tradeoffs%2C+and+anything+my+team+should+know.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Slack+Write+a+pull+request+description+for+the+feature+I+built+in+Codex.+Include+what+changed%2C+the+key+tradeoffs%2C+and+anything+my+team+should+know.>)
 
   * ### Make a plan before you build
 
-Use your notes and Slack conversations to outline the problem, proposed approach, and open questions before development begins.
-
 Turn my notes into a technical design doc with the problem, proposed approach, and open questions. Use relevant ![](https://files.openai.com/content?id=file_00000000f76081f7aadb2093dc9a88d7&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=a45ce46237849f50f780ce7660a9d5f9fca54426fe81c38dd4a49cfeb962335a&v=0)Slack conversations for context.
 
-[(opens in a new window)](<https://chatgpt.com/?q=Turn+my+notes+into+a+technical+design+doc+with+the+problem%2C+proposed+approach%2C+and+open+questions.+Use+relevant+%40Slack+conversations+for+context.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=Turn+my+notes+into+a+technical+design+doc+with+the+problem%2C+proposed+approach%2C+and+open+questions.+Use+relevant+%40Slack+conversations+for+context.>)
 
 
 

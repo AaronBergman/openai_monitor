@@ -34,7 +34,7 @@ OpenAI
 
 Get legal info for business
 
-[Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6994f3546cec819184a464f0089ca8d6>)[Contact sales](</contact-sales/>)
+[Install plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6994f3546cec819184a464f0089ca8d6>)[Contact sales](</contact-sales/>)
 
 Category
     [Operations](</business/plugins/?tab=plugins-operations>)
@@ -45,37 +45,31 @@ Developer
 Website
     [(opens in a new window)](<https://www.legalzoom.com>)
 
-[![](https://files.openai.com/content?id=file_00000000098471f6bd9aaab8ccef8131&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=1&sig=3365264582da9a861b0753c4dd3e42a815bb428276f27a8fedd9b52773b99d9e)![](https://files.openai.com/content?id=file_0000000093a471f6943b2dcff2380b7a&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=1&sig=06f6401c5c42b937eca69ed07e4fe86cbec30810f4b5c4e52a70f67ec7b832d3)LegalZoom What is the difference between an LLC and a DBA?(opens in a new window)](<https://chatgpt.com/?prompt=%40LegalZoom+What+is+the+difference+between+an+LLC+and+a+DBA%3F>)[![](https://files.openai.com/content?id=file_00000000098471f6bd9aaab8ccef8131&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=1&sig=3365264582da9a861b0753c4dd3e42a815bb428276f27a8fedd9b52773b99d9e)![](https://files.openai.com/content?id=file_0000000093a471f6943b2dcff2380b7a&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=1&sig=06f6401c5c42b937eca69ed07e4fe86cbec30810f4b5c4e52a70f67ec7b832d3)LegalZoom Help me write a sales contract for my business?(opens in a new window)](<https://chatgpt.com/?prompt=%40LegalZoom+Help+me+write+a+sales+contract+for+my+business%3F>)
+[![](https://files.openai.com/content?id=file_00000000098471f6bd9aaab8ccef8131&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=1&sig=3365264582da9a861b0753c4dd3e42a815bb428276f27a8fedd9b52773b99d9e)![](https://files.openai.com/content?id=file_0000000093a471f6943b2dcff2380b7a&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=1&sig=06f6401c5c42b937eca69ed07e4fe86cbec30810f4b5c4e52a70f67ec7b832d3)LegalZoom What is the difference between an LLC and a DBA?(opens in a new window)](<https://chatgpt.com/?prompt=%40LegalZoom+What+is+the+difference+between+an+LLC+and+a+DBA%3F>)
 
 ## How it works
 
 LegalZoom provides reliable legal information to help you start and run your business. Use the app to ask questions, discover relevant LegalZoom resources, and receive guided next steps for common legal tasks. What you can do: 1\. Understand business formation basics (LLC vs. corporation, common filing steps) 2\. Get help navigating contracts (what to include, when to use which agreement) 3\. Learn about compliance and updates (registered agent, annual/biennial requirements, amendments) Important: This app provides legal information and educational content—it does not provide legal advice and is not a substitute for a lawyer. If you need advice for your specific situation, consider speaking with an attorney.
 
-## Common use cases
+## What else can you do?
 
   * ### Compare business formation options
 
-Understand the differences between an LLC and a corporation and prepare questions to discuss with an attorney.
-
 ![](https://files.openai.com/content?id=file_00000000098471f6bd9aaab8ccef8131&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=1&sig=3365264582da9a861b0753c4dd3e42a815bb428276f27a8fedd9b52773b99d9e)![](https://files.openai.com/content?id=file_0000000093a471f6943b2dcff2380b7a&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=1&sig=06f6401c5c42b937eca69ed07e4fe86cbec30810f4b5c4e52a70f67ec7b832d3)LegalZoom Explain the differences between an LLC and a corporation for a new consulting business. Compare formation and ongoing requirements, link to relevant resources, and list questions to take to an attorney.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40LegalZoom+Explain+the+differences+between+an+LLC+and+a+corporation+for+a+new+consulting+business.+Compare+formation+and+ongoing+requirements%2C+link+to+relevant+resources%2C+and+list+questions+to+take+to+an+attorney.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40LegalZoom+Explain+the+differences+between+an+LLC+and+a+corporation+for+a+new+consulting+business.+Compare+formation+and+ongoing+requirements%2C+link+to+relevant+resources%2C+and+list+questions+to+take+to+an+attorney.>)
 
   * ### Prepare a contract checklist
 
-Build a checklist of sales contract provisions and unresolved details to review before drafting.
-
 ![](https://files.openai.com/content?id=file_00000000098471f6bd9aaab8ccef8131&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=1&sig=3365264582da9a861b0753c4dd3e42a815bb428276f27a8fedd9b52773b99d9e)![](https://files.openai.com/content?id=file_0000000093a471f6943b2dcff2380b7a&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=1&sig=06f6401c5c42b937eca69ed07e4fe86cbec30810f4b5c4e52a70f67ec7b832d3)LegalZoom Help me prepare a sales contract checklist for my business. Explain common provisions, ask about missing business details, and identify questions to discuss with an attorney.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40LegalZoom+Help+me+prepare+a+sales+contract+checklist+for+my+business.+Explain+common+provisions%2C+ask+about+missing+business+details%2C+and+identify+questions+to+discuss+with+an+attorney.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40LegalZoom+Help+me+prepare+a+sales+contract+checklist+for+my+business.+Explain+common+provisions%2C+ask+about+missing+business+details%2C+and+identify+questions+to+discuss+with+an+attorney.>)
 
   * ### Plan ongoing business compliance
 
-Organize common business maintenance requirements and find resources for checking the rules that apply.
-
 ![](https://files.openai.com/content?id=file_00000000098471f6bd9aaab8ccef8131&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=1&sig=3365264582da9a861b0753c4dd3e42a815bb428276f27a8fedd9b52773b99d9e)![](https://files.openai.com/content?id=file_0000000093a471f6943b2dcff2380b7a&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=1&sig=06f6401c5c42b937eca69ed07e4fe86cbec30810f4b5c4e52a70f67ec7b832d3)LegalZoom Ask for my business entity type and state, then explain common annual filing and registered agent requirements. Give me a checklist with relevant resources and questions that need professional advice.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40LegalZoom+Ask+for+my+business+entity+type+and+state%2C+then+explain+common+annual+filing+and+registered+agent+requirements.+Give+me+a+checklist+with+relevant+resources+and+questions+that+need+professional+advice.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40LegalZoom+Ask+for+my+business+entity+type+and+state%2C+then+explain+common+annual+filing+and+registered+agent+requirements.+Give+me+a+checklist+with+relevant+resources+and+questions+that+need+professional+advice.>)
 
 
 

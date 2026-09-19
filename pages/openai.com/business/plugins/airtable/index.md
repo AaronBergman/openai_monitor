@@ -34,7 +34,7 @@ OpenAI
 
 Add structured data to ChatGPT.
 
-[Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_693ca6ce2db08191bb52d66743c65184>)[Contact sales](</contact-sales/>)
+[Install plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_693ca6ce2db08191bb52d66743c65184>)[Contact sales](</contact-sales/>)
 
 Category
     [Productivity](</business/plugins/?tab=plugins-productivity>)
@@ -45,37 +45,31 @@ Developer
 Website
     [(opens in a new window)](<https://airtable.com>)
 
-[![](https://files.openai.com/content?id=file_000000005c2481fd858f93b128aaef20&cdn=1&cp=pi&ma=31795200&ts=0&p=pi&cid=8&sig=82e637f79ffd50f0f47b98a7194a2424b0ea2855792577811acb5d505fe33535&v=0)Airtable Airtable show me a kanban of the product roadmap. What’s at risk? What’s up next?(opens in a new window)](<https://chatgpt.com/?prompt=%40Airtable+Airtable+show+me+a+kanban+of+the+product+roadmap.+What%E2%80%99s+at+risk%3F+What%E2%80%99s+up+next%3F>)[![](https://files.openai.com/content?id=file_000000005c2481fd858f93b128aaef20&cdn=1&cp=pi&ma=31795200&ts=0&p=pi&cid=8&sig=82e637f79ffd50f0f47b98a7194a2424b0ea2855792577811acb5d505fe33535&v=0)Airtable Airtable which roadmap initiatives should I discuss with the enterprise sales team today?(opens in a new window)](<https://chatgpt.com/?prompt=%40Airtable+Airtable+which+roadmap+initiatives+should+I+discuss+with+the+enterprise+sales+team+today%3F>)
+[![](https://files.openai.com/content?id=file_000000005c2481fd858f93b128aaef20&cdn=1&cp=pi&ma=31795200&ts=0&p=pi&cid=8&sig=82e637f79ffd50f0f47b98a7194a2424b0ea2855792577811acb5d505fe33535&v=0)Airtable Airtable show me a kanban of the product roadmap. What’s at risk? What’s up next?(opens in a new window)](<https://chatgpt.com/?prompt=%40Airtable+Airtable+show+me+a+kanban+of+the+product+roadmap.+What%E2%80%99s+at+risk%3F+What%E2%80%99s+up+next%3F>)
 
 ## How it works
 
 Ask questions, explore roadmaps, and update records across Airtable bases in ChatGPT to make reporting, planning, and execution more efficient without switching tools.
 
-## Common use cases
+## What else can you do?
 
   * ### Get faster answers from live operational data
 
-Ask questions like which projects are shipping this week or which deals are at risk, and get filtered tables or kanban views that reduce manual reporting time and improve decision speed.
-
 ![](https://files.openai.com/content?id=file_000000005c2481fd858f93b128aaef20&cdn=1&cp=pi&ma=31795200&ts=0&p=pi&cid=8&sig=82e637f79ffd50f0f47b98a7194a2424b0ea2855792577811acb5d505fe33535&v=0)Airtable Which projects are shipping this week across all bases? Show it in a simple table grouped by team and highlight anything at risk.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Airtable+Which+projects+are+shipping+this+week+across+all+bases%3F+Show+it+in+a+simple+table+grouped+by+team+and+highlight+anything+at+risk.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Airtable+Which+projects+are+shipping+this+week+across+all+bases%3F+Show+it+in+a+simple+table+grouped+by+team+and+highlight+anything+at+risk.>)
 
   * ### Keep systems of record up to date
 
-Create or update tasks, statuses, and priorities directly from ChatGPT, so teams stay aligned and information across planning and tracking workflows stays current.
-
 ![](https://files.openai.com/content?id=file_000000005c2481fd858f93b128aaef20&cdn=1&cp=pi&ma=31795200&ts=0&p=pi&cid=8&sig=82e637f79ffd50f0f47b98a7194a2424b0ea2855792577811acb5d505fe33535&v=0)Airtable Turn this messy list of customer requests into structured records with category impact and suggested priority.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Airtable+Turn+this+messy+list+of+customer+requests+into+structured+records+with+category+impact+and+suggested+priority.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Airtable+Turn+this+messy+list+of+customer+requests+into+structured+records+with+category+impact+and+suggested+priority.>)
 
   * ### Align teams with shared visibility
 
-Summarize roadmaps, initiatives, or customer work from Airtable into clear briefs for sales, executives, or partners, improving alignment without extra preparation.
-
 ![](https://files.openai.com/content?id=file_000000005c2481fd858f93b128aaef20&cdn=1&cp=pi&ma=31795200&ts=0&p=pi&cid=8&sig=82e637f79ffd50f0f47b98a7194a2424b0ea2855792577811acb5d505fe33535&v=0)Airtable Summarize our [base] into a one page exec brief with milestones and dependencies.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Airtable+Summarize+our+%5Bbase%5D+into+a+one+page+exec+brief+with+milestones+and+dependencies.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Airtable+Summarize+our+%5Bbase%5D+into+a+one+page+exec+brief+with+milestones+and+dependencies.>)
 
 
 

@@ -34,7 +34,7 @@ OpenAI
 
 Search and reference your documents.
 
-[Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_695bfc98071c8191bac7bc479aa27de7>)[Contact sales](</contact-sales/>)
+[Install plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_695bfc98071c8191bac7bc479aa27de7>)[Contact sales](</contact-sales/>)
 
 Category
     [Operations](</business/plugins/?tab=plugins-operations>)
@@ -45,37 +45,31 @@ Developer
 Website
     [(opens in a new window)](<https://www.box.com/home>)
 
-[![](https://files.openai.com/content?id=file_000000003dec71f58ea31d11943374ac&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=1&sig=74ea60b3dccd88f76296af895d81de15f4ed38ee02b05e86001f9ee5e0091c6d&v=0)![](https://files.openai.com/content?id=file_000000003dec71f58ea31d11943374ac&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=1&sig=74ea60b3dccd88f76296af895d81de15f4ed38ee02b05e86001f9ee5e0091c6d&v=0)Box Preview the ACME Sales pitch(opens in a new window)](<https://chatgpt.com/?prompt=%40Box+Preview+the+ACME+Sales+pitch>)[![](https://files.openai.com/content?id=file_000000003dec71f58ea31d11943374ac&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=1&sig=74ea60b3dccd88f76296af895d81de15f4ed38ee02b05e86001f9ee5e0091c6d&v=0)![](https://files.openai.com/content?id=file_000000003dec71f58ea31d11943374ac&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=1&sig=74ea60b3dccd88f76296af895d81de15f4ed38ee02b05e86001f9ee5e0091c6d&v=0)Box Extract metadata from Techbridge invoice(opens in a new window)](<https://chatgpt.com/?prompt=%40Box+Extract+metadata+from+Techbridge+invoice>)[![](https://files.openai.com/content?id=file_000000003dec71f58ea31d11943374ac&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=1&sig=74ea60b3dccd88f76296af895d81de15f4ed38ee02b05e86001f9ee5e0091c6d&v=0)![](https://files.openai.com/content?id=file_000000003dec71f58ea31d11943374ac&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=1&sig=74ea60b3dccd88f76296af895d81de15f4ed38ee02b05e86001f9ee5e0091c6d&v=0)Box Summarize the ACME Hub(opens in a new window)](<https://chatgpt.com/?prompt=%40Box+Summarize+the+ACME+Hub>)
+[![](https://files.openai.com/content?id=file_000000003dec71f58ea31d11943374ac&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=1&sig=74ea60b3dccd88f76296af895d81de15f4ed38ee02b05e86001f9ee5e0091c6d&v=0)![](https://files.openai.com/content?id=file_000000003dec71f58ea31d11943374ac&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=1&sig=74ea60b3dccd88f76296af895d81de15f4ed38ee02b05e86001f9ee5e0091c6d&v=0)Box Preview the ACME Sales pitch(opens in a new window)](<https://chatgpt.com/?prompt=%40Box+Preview+the+ACME+Sales+pitch>)
 
 ## How it works
 
 Work with documents, spreadsheets, and presentations stored in Box to create concise summaries, pre-reads, or stakeholder updates.
 
-## Common use cases
+## What else can you do?
 
   * ### Create decision-ready briefs from documents
 
-Summarize a policy pack or QBR deck and generate a 1-page brief with risks, owners, and next steps, reducing preparation time for reviews and executive updates.
-
 ![](https://files.openai.com/content?id=file_000000003dec71f58ea31d11943374ac&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=1&sig=74ea60b3dccd88f76296af895d81de15f4ed38ee02b05e86001f9ee5e0091c6d&v=0)![](https://files.openai.com/content?id=file_000000003dec71f58ea31d11943374ac&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=1&sig=74ea60b3dccd88f76296af895d81de15f4ed38ee02b05e86001f9ee5e0091c6d&v=0)Box Summarize the ACME Hub
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Box+Summarize+the+ACME+Hub>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Box+Summarize+the+ACME+Hub>)
 
   * ### Synthesize knowledge across projects
 
-Combine research decks, support summaries, and specs into one report with clear themes and evidence, helping product and CX teams prioritize fixes and align messaging faster.
-
 ![](https://files.openai.com/content?id=file_000000003dec71f58ea31d11943374ac&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=1&sig=74ea60b3dccd88f76296af895d81de15f4ed38ee02b05e86001f9ee5e0091c6d&v=0)![](https://files.openai.com/content?id=file_000000003dec71f58ea31d11943374ac&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=1&sig=74ea60b3dccd88f76296af895d81de15f4ed38ee02b05e86001f9ee5e0091c6d&v=0)Box Combine research docs, support summaries, and specs in [folder] into a single synthesis with themes and evidence for each.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Box+Combine+research+docs%2C+support+summaries%2C+and+specs+in+%5Bfolder%5D+into+a+single+synthesis+with+themes+and+evidence+for+each.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Box+Combine+research+docs%2C+support+summaries%2C+and+specs+in+%5Bfolder%5D+into+a+single+synthesis+with+themes+and+evidence+for+each.>)
 
   * ### Find exact answers with sources
 
-Ask where a metric, clause, or decision appears, and get the relevant passages and file links so stakeholders can verify details quickly and avoid duplicated work.
-
 ![](https://files.openai.com/content?id=file_000000003dec71f58ea31d11943374ac&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=1&sig=74ea60b3dccd88f76296af895d81de15f4ed38ee02b05e86001f9ee5e0091c6d&v=0)![](https://files.openai.com/content?id=file_000000003dec71f58ea31d11943374ac&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=1&sig=74ea60b3dccd88f76296af895d81de15f4ed38ee02b05e86001f9ee5e0091c6d&v=0)Box Search for where the contract mentions termination for convenience and paste the clause with the file reference so Legal can verify.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Box+Search+for+where+the+contract+mentions+termination+for+convenience+and+paste+the+clause+with+the+file+reference+so+Legal+can+verify.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Box+Search+for+where+the+contract+mentions+termination+for+convenience+and+paste+the+clause+with+the+file+reference+so+Legal+can+verify.>)
 
 
 

@@ -34,7 +34,7 @@ OpenAI
 
 Build and manage Firebase apps
 
-[Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugins_6a8ddf314ab88191864c208fda197798>)[Contact sales](</contact-sales/>)
+[Install plugin(opens in a new window)](<https://chatgpt.com/plugins/plugins_6a8ddf314ab88191864c208fda197798>)[Contact sales](</contact-sales/>)
 
 Capabilities
     Skills, MCP
@@ -48,37 +48,31 @@ Developer
 Website
     [(opens in a new window)](<https://firebase.google.com>)
 
-[![](https://files.openai.com/content?id=file_00000000726481f5ba59622c8c34cbe2&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=8&sig=3339bca605253a664d9372c7c624deafa79cf69acd85ba55ce9e755251e8bcf4&v=0)Google Firebase Set up Firebase in this app.(opens in a new window)](<https://chatgpt.com/?prompt=%40Google+Firebase+Set+up+Firebase+in+this+app.>)[![](https://files.openai.com/content?id=file_00000000726481f5ba59622c8c34cbe2&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=8&sig=3339bca605253a664d9372c7c624deafa79cf69acd85ba55ce9e755251e8bcf4&v=0)Google Firebase Audit my Firestore security rules.(opens in a new window)](<https://chatgpt.com/?prompt=%40Google+Firebase+Audit+my+Firestore+security+rules.>)[![](https://files.openai.com/content?id=file_00000000726481f5ba59622c8c34cbe2&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=8&sig=3339bca605253a664d9372c7c624deafa79cf69acd85ba55ce9e755251e8bcf4&v=0)Google Firebase Deploy this app with Firebase Hosting.(opens in a new window)](<https://chatgpt.com/?prompt=%40Google+Firebase+Deploy+this+app+with+Firebase+Hosting.>)
+[![](https://files.openai.com/content?id=file_00000000726481f5ba59622c8c34cbe2&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=8&sig=3339bca605253a664d9372c7c624deafa79cf69acd85ba55ce9e755251e8bcf4&v=0)Firebase Set up Firebase in this app.(opens in a new window)](<https://chatgpt.com/?prompt=%40Firebase+Set+up+Firebase+in+this+app.>)
 
 ## How it works
 
 Use official Firebase skills and the Firebase MCP server to set up projects, configure backend services, query Firestore, manage authentication, deploy hosting, work with AI Logic, and audit security rules from Codex.
 
-## Common use cases
+## What else can you do?
 
   * ### Audit customer data access
 
-Find weaknesses in Firestore access rules and prioritize fixes that protect customer records.
-
 ![](https://files.openai.com/content?id=file_00000000726481f5ba59622c8c34cbe2&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=8&sig=3339bca605253a664d9372c7c624deafa79cf69acd85ba55ce9e755251e8bcf4&v=0)Google Firebase Audit the Firestore rules in this app for access to other customers' records and unauthorized role changes. Rank the findings and propose fixes with emulator tests for allowed and denied requests.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Google+Firebase+Audit+the+Firestore+rules+in+this+app+for+access+to+other+customers%27+records+and+unauthorized+role+changes.+Rank+the+findings+and+propose+fixes+with+emulator+tests+for+allowed+and+denied+requests.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Google+Firebase+Audit+the+Firestore+rules+in+this+app+for+access+to+other+customers%27+records+and+unauthorized+role+changes.+Rank+the+findings+and+propose+fixes+with+emulator+tests+for+allowed+and+denied+requests.>)
 
   * ### Build customer portal sign-in
 
-Add user sign-in and account recovery to a customer portal, with rules that keep each customer's records private.
-
 ![](https://files.openai.com/content?id=file_00000000726481f5ba59622c8c34cbe2&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=8&sig=3339bca605253a664d9372c7c624deafa79cf69acd85ba55ce9e755251e8bcf4&v=0)Google Firebase Add email sign-in and password recovery to this customer portal. Use Firebase Authentication and Firestore rules so users can access only their own profile, then test the flow locally.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Google+Firebase+Add+email+sign-in+and+password+recovery+to+this+customer+portal.+Use+Firebase+Authentication+and+Firestore+rules+so+users+can+access+only+their+own+profile%2C+then+test+the+flow+locally.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Google+Firebase+Add+email+sign-in+and+password+recovery+to+this+customer+portal.+Use+Firebase+Authentication+and+Firestore+rules+so+users+can+access+only+their+own+profile%2C+then+test+the+flow+locally.>)
 
   * ### Prepare a launch preview
 
-Give reviewers a working preview of a static web app with checked routes and a clear list of launch blockers.
-
 ![](https://files.openai.com/content?id=file_00000000726481f5ba59622c8c34cbe2&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=8&sig=3339bca605253a664d9372c7c624deafa79cf69acd85ba55ce9e755251e8bcf4&v=0)Google Firebase Prepare this static web app for review on a Firebase Hosting preview channel. Check build output, redirects, and asset loading, deploy to the test project, and return the preview URL with any launch blockers.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Google+Firebase+Prepare+this+static+web+app+for+review+on+a+Firebase+Hosting+preview+channel.+Check+build+output%2C+redirects%2C+and+asset+loading%2C+deploy+to+the+test+project%2C+and+return+the+preview+URL+with+any+launch+blockers.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Google+Firebase+Prepare+this+static+web+app+for+review+on+a+Firebase+Hosting+preview+channel.+Check+build+output%2C+redirects%2C+and+asset+loading%2C+deploy+to+the+test+project%2C+and+return+the+preview+URL+with+any+launch+blockers.>)
 
 
 

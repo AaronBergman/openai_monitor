@@ -34,7 +34,7 @@ OpenAI
 
 Design, combine, and edit
 
-[Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69312da8e4dc81919370cb86fd172b6c>)[Contact sales](</contact-sales/>)
+[Install plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69312da8e4dc81919370cb86fd172b6c>)[Contact sales](</contact-sales/>)
 
 Category
     [Design & Creative](</business/plugins/?tab=plugins-design-creative>)
@@ -45,37 +45,35 @@ Developer
 Website
     [(opens in a new window)](<https://www.adobe.com>)
 
-[![](https://files.openai.com/content?id=file_000000008108722fa64c915ee284fa0e&cdn=1&cp=pi&ma=32140800&ts=0&p=pi&cid=1&sig=25a10da078b208cf17cb0b82990d661e47ff5e76f42ea343b344508ff725507e&v=0)Adobe turn my video into a short highlight reel(opens in a new window)](<https://chatgpt.com/?prompt=%40Adobe+turn+my+video+into+a+short+highlight+reel>)[![](https://files.openai.com/content?id=file_000000008108722fa64c915ee284fa0e&cdn=1&cp=pi&ma=32140800&ts=0&p=pi&cid=1&sig=25a10da078b208cf17cb0b82990d661e47ff5e76f42ea343b344508ff725507e&v=0)Adobe resize these photos for my social media platforms(opens in a new window)](<https://chatgpt.com/?prompt=%40Adobe+resize+these+photos+for+my+social+media+platforms>)[![](https://files.openai.com/content?id=file_000000008108722fa64c915ee284fa0e&cdn=1&cp=pi&ma=32140800&ts=0&p=pi&cid=1&sig=25a10da078b208cf17cb0b82990d661e47ff5e76f42ea343b344508ff725507e&v=0)Adobe find a template for a promotional flyer(opens in a new window)](<https://chatgpt.com/?prompt=%40Adobe+find+a+template+for+a+promotional+flyer>)
+## Product photos for each channel
+
+![](https://files.openai.com/content?id=file_000000008108722fa64c915ee284fa0e&cdn=1&cp=pi&ma=32140800&ts=0&p=pi&cid=1&sig=25a10da078b208cf17cb0b82990d661e47ff5e76f42ea343b344508ff725507e&v=0)Adobe get these product photos ready for our website and social: remove backgrounds, match lighting, and resize for each channel.
+
+![](https://files.openai.com/content?id=file_000000008108722fa64c915ee284fa0e&cdn=1&cp=pi&ma=32140800&ts=0&p=pi&cid=1&sig=25a10da078b208cf17cb0b82990d661e47ff5e76f42ea343b344508ff725507e&v=0)Adobe get these product photos ready for our website and social: remove backgrounds, match lighting, and resize for each channel.
 
 ## How it works
 
 Describe what you want to make or change, and Adobe tools can help you turn ideas, images, videos, and documents into polished outputs. Edit and transform photos, create PDFs, design social assets, resize videos for different platforms, search Creative Cloud assets, and generate data-driven documents from the conversation.
 
-## Common use cases
+## What else can you do?
 
   * ### Go from idea to finished work in one conversation
 
-Plan, create, edit, and refine with Adobe’s creativity and productivity tools, all in one connected workflow.
-
 ![](https://files.openai.com/content?id=file_000000008108722fa64c915ee284fa0e&cdn=1&cp=pi&ma=32140800&ts=0&p=pi&cid=1&sig=25a10da078b208cf17cb0b82990d661e47ff5e76f42ea343b344508ff725507e&v=0)Adobe Create a flyer for a local yoga studio using a template, customize the text and colors, and convert it into a polished PDF.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Adobe+Create+a+flyer+for+a+local+yoga+studio+using+a+template%2C+customize+the+text+and+colors%2C+and+convert+it+into+a+polished+PDF.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Adobe+Create+a+flyer+for+a+local+yoga+studio+using+a+template%2C+customize+the+text+and+colors%2C+and+convert+it+into+a+polished+PDF.>)
 
   * ### Create polished content that matches your style
 
-Turn ideas, images, videos, and documents into polished outputs that match your preferences and style, using simple prompts.
-
 ![](https://files.openai.com/content?id=file_000000008108722fa64c915ee284fa0e&cdn=1&cp=pi&ma=32140800&ts=0&p=pi&cid=1&sig=25a10da078b208cf17cb0b82990d661e47ff5e76f42ea343b344508ff725507e&v=0)Adobe Retouch this set of photos by balancing the lighting and color, removing the backgrounds, and cropping each one to a 1:1 format.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Adobe+Retouch+this+set+of+photos+by+balancing+the+lighting+and+color%2C+removing+the+backgrounds%2C+and+cropping+each+one+to+a+1%3A1+format.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Adobe+Retouch+this+set+of+photos+by+balancing+the+lighting+and+color%2C+removing+the+backgrounds%2C+and+cropping+each+one+to+a+1%3A1+format.>)
 
   * ### Reduce creative bottlenecks
 
-Handle edits yourself and pick up where you left off, with access to your assets and saved work across conversations and sessions.
-
 ![](https://files.openai.com/content?id=file_000000008108722fa64c915ee284fa0e&cdn=1&cp=pi&ma=32140800&ts=0&p=pi&cid=1&sig=25a10da078b208cf17cb0b82990d661e47ff5e76f42ea343b344508ff725507e&v=0)Adobe Turn this video into a quick cut featuring the best moments, then resize it for YouTube Shorts and Instagram Reels.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Adobe+Turn+this+video+into+a+quick+cut+featuring+the+best+moments%2C+then+resize+it+for+YouTube+Shorts+and+Instagram+Reels.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Adobe+Turn+this+video+into+a+quick+cut+featuring+the+best+moments%2C+then+resize+it+for+YouTube+Shorts+and+Instagram+Reels.>)
 
 
 

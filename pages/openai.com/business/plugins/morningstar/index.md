@@ -34,7 +34,7 @@ OpenAI
 
 Access live market insights.
 
-[Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69248819fa4c81918047c4b42b1f8823>)[Contact sales](</contact-sales/>)
+[Install plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69248819fa4c81918047c4b42b1f8823>)[Contact sales](</contact-sales/>)
 
 Category
     [Finance](</business/plugins/?tab=plugins-finance>)
@@ -45,37 +45,31 @@ Developer
 Website
     [(opens in a new window)](<https://www.morningstar.com/business/products/direct-ai-solutions>)
 
-[![](https://files.openai.com/content?id=file_0000000040a071f59035080394b85878&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=1&sig=7f0b73057fb6d2751f37081fbea05f5e14ee664fa57b6306cd7691deb0b95240&v=0)Morningstar Screen for ETFs with a Medalist Rating better than Silver, a Morningstar Rating over 4 stars, in the Large Value category.(opens in a new window)](<https://chatgpt.com/?prompt=%40Morningstar+Screen+for+ETFs+with+a+Medalist+Rating+better+than+Silver%2C+a+Morningstar+Rating+over+4+stars%2C+in+the+Large+Value+category.>)[![](https://files.openai.com/content?id=file_0000000040a071f59035080394b85878&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=1&sig=7f0b73057fb6d2751f37081fbea05f5e14ee664fa57b6306cd7691deb0b95240&v=0)Morningstar Compare the funds SOXX and VOO.(opens in a new window)](<https://chatgpt.com/?prompt=%40Morningstar+Compare+the+funds+SOXX+and+VOO.>)[![](https://files.openai.com/content?id=file_0000000040a071f59035080394b85878&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=1&sig=7f0b73057fb6d2751f37081fbea05f5e14ee664fa57b6306cd7691deb0b95240&v=0)Morningstar What are some datapoints that help me evaluate the performance of a fund?(opens in a new window)](<https://chatgpt.com/?prompt=%40Morningstar+What+are+some+datapoints+that+help+me+evaluate+the+performance+of+a+fund%3F>)
+[![](https://files.openai.com/content?id=file_0000000040a071f59035080394b85878&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=1&sig=7f0b73057fb6d2751f37081fbea05f5e14ee664fa57b6306cd7691deb0b95240&v=0)Morningstar Screen for ETFs with a Medalist Rating better than Silver, a Morningstar Rating over 4 stars, in the Large Value category.(opens in a new window)](<https://chatgpt.com/?prompt=%40Morningstar+Screen+for+ETFs+with+a+Medalist+Rating+better+than+Silver%2C+a+Morningstar+Rating+over+4+stars%2C+in+the+Large+Value+category.>)
 
 ## How it works
 
 Bring Morningstar research and market data into workflows to analyze investments, screen opportunities, and answer portfolio questions using consistent, analyst-backed insights.
 
-## Common use cases
+## What else can you do?
 
   * ### Speed up investment research
 
-Retrieve analyst reports, ratings, and market commentary for stocks, funds, and ETFs to support faster research and responses.
-
 ![](https://files.openai.com/content?id=file_0000000040a071f59035080394b85878&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=1&sig=7f0b73057fb6d2751f37081fbea05f5e14ee664fa57b6306cd7691deb0b95240&v=0)Morningstar Draft a short due diligence memo for an investment committee meeting comparing two funds I am considering.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Morningstar+Draft+a+short+due+diligence+memo+for+an+investment+committee+meeting+comparing+two+funds+I+am+considering.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Morningstar+Draft+a+short+due+diligence+memo+for+an+investment+committee+meeting+comparing+two+funds+I+am+considering.>)
 
   * ### Improve screening and comparisons
 
-Screen equities, mutual funds, and ETFs by ratings, returns, or rankings, and compare holdings and metrics side by side to support research and due diligence.
-
 ![](https://files.openai.com/content?id=file_0000000040a071f59035080394b85878&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=1&sig=7f0b73057fb6d2751f37081fbea05f5e14ee664fa57b6306cd7691deb0b95240&v=0)Morningstar Screen for dividend focused ETFs with strong ratings, low fees, and consistent returns, and show the top candidates.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Morningstar+Screen+for+dividend+focused+ETFs+with+strong+ratings%2C+low+fees%2C+and+consistent+returns%2C+and+show+the+top+candidates.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Morningstar+Screen+for+dividend+focused+ETFs+with+strong+ratings%2C+low+fees%2C+and+consistent+returns%2C+and+show+the+top+candidates.>)
 
   * ### Analyze portfolios with context
 
-Look up fund and ETF holdings and review exposure using Morningstar ratings and research to better understand risk and overlap.
-
 ![](https://files.openai.com/content?id=file_0000000040a071f59035080394b85878&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=1&sig=7f0b73057fb6d2751f37081fbea05f5e14ee664fa57b6306cd7691deb0b95240&v=0)Morningstar Compare VOO, IVV, and SPY on fees, holdings overlap, risk, and ratings, and tell me which is best for a long term core position.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Morningstar+Compare+VOO%2C+IVV%2C+and+SPY+on+fees%2C+holdings+overlap%2C+risk%2C+and+ratings%2C+and+tell+me+which+is+best+for+a+long+term+core+position.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Morningstar+Compare+VOO%2C+IVV%2C+and+SPY+on+fees%2C+holdings+overlap%2C+risk%2C+and+ratings%2C+and+tell+me+which+is+best+for+a+long+term+core+position.>)
 
 
 
@@ -84,7 +78,7 @@ Look up fund and ETF holdings and review exposure using Morningstar ratings and 
 
 ### App
 
-  * connector_69248819fa4c81918047c4b42b1f8823
+  * Morningstar
 
 
 

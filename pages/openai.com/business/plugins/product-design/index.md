@@ -34,7 +34,7 @@ OpenAI
 
 Turn product ideas into designs and research artifacts.
 
-[Add plugin(opens in a new window)](<https://chatgpt.com/plugins/Plugin_fa77aec24fc08191bc6e57f377126d76>)[Contact sales](</contact-sales/>)
+[Install plugin(opens in a new window)](<https://chatgpt.com/plugins/Plugin_fa77aec24fc08191bc6e57f377126d76>)[Contact sales](</contact-sales/>)
 
 Capabilities
     Interactive, Read, Write
@@ -48,37 +48,31 @@ Developer
 Website
     [(opens in a new window)](<https://openai.com/>)
 
-[![](https://files.openai.com/content?id=file_000000009bf881f5addc67f535609810&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=aef1732e7a5785a23cf9d8f6c0d965502775e063030e79ed8bc4d90f7d51bb67&v=0)Product Design Help me get started(opens in a new window)](<https://chatgpt.com/?prompt=%40Product+Design+Help+me+get+started>)[![](https://files.openai.com/content?id=file_000000009bf881f5addc67f535609810&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=aef1732e7a5785a23cf9d8f6c0d965502775e063030e79ed8bc4d90f7d51bb67&v=0)Product Design Turn this product idea into three visual directions(opens in a new window)](<https://chatgpt.com/?prompt=%40Product+Design+Turn+this+product+idea+into+three+visual+directions>)[![](https://files.openai.com/content?id=file_000000009bf881f5addc67f535609810&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=aef1732e7a5785a23cf9d8f6c0d965502775e063030e79ed8bc4d90f7d51bb67&v=0)Product Design Design a landing page for my business(opens in a new window)](<https://chatgpt.com/?prompt=%40Product+Design+Design+a+landing+page+for+my+business>)
+[![](https://files.openai.com/content?id=file_000000009bf881f5addc67f535609810&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=aef1732e7a5785a23cf9d8f6c0d965502775e063030e79ed8bc4d90f7d51bb67&v=0)Product Design Help me get started(opens in a new window)](<https://chatgpt.com/?prompt=%40Product+Design+Help+me+get+started>)
 
 ## How it works
 
 Use Product Design in ChatGPT to turn product briefs, research notes, and user journeys into concepts, flows, prototypes, critique notes, and design-ready artifacts.
 
-## Common use cases
+## What else can you do?
 
   * ### Shape product concepts quickly
 
-Translate goals, user needs, and constraints into flows, wireframe ideas, interaction patterns, and design options.
-
 ![](https://files.openai.com/content?id=file_000000009bf881f5addc67f535609810&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=aef1732e7a5785a23cf9d8f6c0d965502775e063030e79ed8bc4d90f7d51bb67&v=0)Product Design Turn this product idea into an interactive prototype.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Product+Design+Turn+this+product+idea+into+an+interactive+prototype.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Product+Design+Turn+this+product+idea+into+an+interactive+prototype.>)
 
   * ### Synthesize research into decisions
 
-Turn interviews, feedback, and usability notes into themes, opportunities, and prioritized design implications.
-
 ![](https://files.openai.com/content?id=file_000000009bf881f5addc67f535609810&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=aef1732e7a5785a23cf9d8f6c0d965502775e063030e79ed8bc4d90f7d51bb67&v=0)Product Design Summarize these interview notes into themes, pain points, opportunity areas, and implications for the next design iteration.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Product+Design+Summarize+these+interview+notes+into+themes%2C+pain+points%2C+opportunity+areas%2C+and+implications+for+the+next+design+iteration.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Product+Design+Summarize+these+interview+notes+into+themes%2C+pain+points%2C+opportunity+areas%2C+and+implications+for+the+next+design+iteration.>)
 
   * ### Prepare design handoff materials
 
-Create critique checklists, product narratives, prototype plans, or handoff notes that help teams align before build.
-
 ![](https://files.openai.com/content?id=file_000000009bf881f5addc67f535609810&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=aef1732e7a5785a23cf9d8f6c0d965502775e063030e79ed8bc4d90f7d51bb67&v=0)Product Design Review my app's authentication UX.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Product+Design+Review+my+app%27s+authentication+UX.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Product+Design+Review+my+app%27s+authentication+UX.>)
 
 
 

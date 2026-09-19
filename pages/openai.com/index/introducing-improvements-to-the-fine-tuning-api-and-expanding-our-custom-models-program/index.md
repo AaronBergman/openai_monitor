@@ -53,11 +53,17 @@ For example, [Indeed⁠(opens in a new window)](<https://www.indeed.com/>), a gl
 Today, we’re introducing [new features⁠(opens in a new window)](<https://platform.openai.com/docs/guides/fine-tuning/create-a-fine-tuned-model>) to give developers even more control over their fine-tuning jobs, including:
 
   * **Epoch-based Checkpoint Creation:** Automatically produce one full fine-tuned model checkpoint during each training epoch, which reduces the need for subsequent retraining, especially in the cases of overfitting
+
   * **Comparative Playground** : A new side-by-side Playground UI for comparing model quality and performance, allowing human evaluation of the outputs of multiple models or fine-tune snapshots against a single prompt
+
   * **Third-party Integration:** Support for integrations with third-party platforms (starting with [Weights and Biases⁠(opens in a new window)](<https://wandb.ai/site>) this week) to let developers share detailed fine-tuning data to the rest of their stack
+
   * **Comprehensive Validation Metrics** : The ability to compute metrics like loss and accuracy over the entire validation dataset instead of a sampled batch, providing better insight on model quality
+
   * **Hyperparameter Configuration** : The ability to configure available hyperparameters from the [Dashboard⁠(opens in a new window)](<https://platform.openai.com/finetune>) (rather than only through the API or SDK) 
+
   * **Fine-Tuning Dashboard Improvements** : Including the ability to configure hyperparameters, view more detailed training metrics, and rerun jobs from previous configurations
+
 
 
 

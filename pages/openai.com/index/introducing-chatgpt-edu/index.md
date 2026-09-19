@@ -57,8 +57,11 @@ We built ChatGPT Edu because we saw the success universities like the University
 ChatGPT can help with various tasks across campus, such as providing personalized tutoring for students and reviewing their resumes, helping researchers write grant applications, and assisting faculty with grading and feedback. Our university partners have found innovative ways to make AI accessible to students, faculty, researchers, and campus operations. A few examples include:
 
   * Professor Nabila El-Bassel at Columbia University is leading an [_initiative to integrate AI into community-based strategies to reduce overdose fatalities_ ⁠(opens in a new window)](<https://sig.columbia.edu/news/revolutionary-collaboration-columbia-uses-ai-combat-overdose-deaths-new-york-communities?utm_source=newsletter&utm_medium=email&utm_campaign=highlights021624>). Her team built a GPT that analyzes and synthesizes large datasets to inform interventions, reducing weeks of research work into seconds.
+
   * Undergraduates and MBA students in Professor Ethan Mollick’s courses at Wharton completed their final reflection assignments through discussions with a GPT trained on course materials, reporting that ChatGPT got them to think more deeply about what they’ve learned.
+
   * Christiane Reves, an assistant professor at Arizona State University, [_is developing a custom Language Buddies GPT for students_ ⁠(opens in a new window)](<https://tech.asu.edu/meet-next-ai-powered-language-buddy>) to engage in German conversations suited to their language level while receiving tailored feedback. The GPT will help students build communication skills and save faculty time on assessments.
+
 
 
 
@@ -69,12 +72,19 @@ To build on these applications, we designed ChatGPT Edu as an accessible option 
 ChatGPT Edu includes:
 
   * Access to GPT‑4o, our flagship model, excelling in text interpretation, coding, and mathematics
+
   * Advanced capabilities such as data analytics, web browsing, and document summarization
+
   * The ability to build GPTs, custom versions of ChatGPT, and share them within university workspaces
+
   * Significantly higher message limits than the free version of ChatGPT
+
   * Improved language capabilities across quality and speed, with over 50 languages supported
+
   * Robust security, data privacy, and administrative controls such as group permissions, SSO, SCIM 1, and GPT management
+
   * Conversations and data are not used to train OpenAI models
+
 
 
 

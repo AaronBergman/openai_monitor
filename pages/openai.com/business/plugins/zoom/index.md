@@ -34,7 +34,7 @@ OpenAI
 
 Smart meeting insights from Zoom.
 
-[Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69373a13116c819189d046aea1278836>)[Contact sales](</contact-sales/>)
+[Install plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69373a13116c819189d046aea1278836>)[Contact sales](</contact-sales/>)
 
 Capabilities
     Interactive, Read, Write
@@ -48,37 +48,31 @@ Developer
 Website
     [(opens in a new window)](<https://zoom.us>)
 
-[![](https://files.openai.com/content?id=file_000000007f1c71f586a9c1c2a3cbe53b&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=4a30a6989c4c64e3532773e01bb9d858671cb03f5b73ca1b0e82ff38e48e18ba&v=0)Zoom Search my recent Zoom meetings for the discussion about pricing.(opens in a new window)](<https://chatgpt.com/?prompt=%40Zoom+Search+my+recent+Zoom+meetings+for+the+discussion+about+pricing.>)[![](https://files.openai.com/content?id=file_000000007f1c71f586a9c1c2a3cbe53b&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=4a30a6989c4c64e3532773e01bb9d858671cb03f5b73ca1b0e82ff38e48e18ba&v=0)Zoom Run /plan-zoom-product for a Zoom integration idea.(opens in a new window)](<https://chatgpt.com/?prompt=%40Zoom+Run+%2Fplan-zoom-product+for+a+Zoom+integration+idea.>)
+[![](https://files.openai.com/content?id=file_000000007f1c71f586a9c1c2a3cbe53b&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=4a30a6989c4c64e3532773e01bb9d858671cb03f5b73ca1b0e82ff38e48e18ba&v=0)Zoom Search my recent Zoom meetings for the discussion about pricing.(opens in a new window)](<https://chatgpt.com/?prompt=%40Zoom+Search+my+recent+Zoom+meetings+for+the+discussion+about+pricing.>)
 
 ## How it works
 
 Bring Zoom’s meeting intelligence, powered by Zoom AI Companion, directly into ChatGPT. Ask questions and get precise moments from your recordings surfaced with an embedded player that jumps to the exact point of discussion. Make every meeting searchable, actionable, and seamlessly integrated into your AI workflows.
 
-## Common use cases
+## What else can you do?
 
   * ### Accelerate meeting preparation
 
-Auto-generate agendas, pre-reads, and related Zoom Docs to reduce manual preparation time and ensure teams enter meetings aligned on objectives.
-
 ![](https://files.openai.com/content?id=file_000000007f1c71f586a9c1c2a3cbe53b&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=4a30a6989c4c64e3532773e01bb9d858671cb03f5b73ca1b0e82ff38e48e18ba&v=0)Zoom Build an agenda and pre-read for my 30 minute customer check in and create a Zoom Doc with it.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Zoom+Build+an+agenda+and+pre-read+for+my+30+minute+customer+check+in+and+create+a+Zoom+Doc+with+it.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Zoom+Build+an+agenda+and+pre-read+for+my+30+minute+customer+check+in+and+create+a+Zoom+Doc+with+it.>)
 
   * ### Surface actionable meeting insights
 
-Quickly retrieve summaries, decisions, transcripts, and recordings so teams can resolve issues faster and maintain continuity across projects.
-
 ![](https://files.openai.com/content?id=file_000000007f1c71f586a9c1c2a3cbe53b&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=4a30a6989c4c64e3532773e01bb9d858671cb03f5b73ca1b0e82ff38e48e18ba&v=0)Zoom Extract action items from the transcript and format them as a checklist I can paste into a project tracker.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Zoom+Extract+action+items+from+the+transcript+and+format+them+as+a+checklist+I+can+paste+into+a+project+tracker.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Zoom+Extract+action+items+from+the+transcript+and+format+them+as+a+checklist+I+can+paste+into+a+project+tracker.>)
 
   * ### Create and manage content in one place
 
-Generate and attach Zoom Docs or Whiteboards, capture recaps, and organize meeting assets without switching tools, improving productivity and consistency.
-
 ![](https://files.openai.com/content?id=file_000000007f1c71f586a9c1c2a3cbe53b&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=4a30a6989c4c64e3532773e01bb9d858671cb03f5b73ca1b0e82ff38e48e18ba&v=0)Zoom Create a weekly summary across all my meetings with the top 5 themes and the most repeated risks.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Zoom+Create+a+weekly+summary+across+all+my+meetings+with+the+top+5+themes+and+the+most+repeated+risks.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Zoom+Create+a+weekly+summary+across+all+my+meetings+with+the+top+5+themes+and+the+most+repeated+risks.>)
 
 
 

@@ -34,7 +34,7 @@ OpenAI
 
 Analyze legal spend and risk
 
-[Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugins_6a91edf74f488191ae3e90e50125a0fb>)[Contact sales](</contact-sales/>)
+[Install plugin(opens in a new window)](<https://chatgpt.com/plugins/plugins_6a91edf74f488191ae3e90e50125a0fb>)[Contact sales](</contact-sales/>)
 
 Capabilities
     File Analysis, Spreadsheet Export
@@ -48,37 +48,31 @@ Developer
 Website
     [(opens in a new window)](<https://www.lecg.com>)
 
-[![](https://files.openai.com/content?id=file_0000000003a4820c887063c2cb71a1c0&cdn=1&cp=pi&ma=31968000&ts=0&p=pi&cid=8&sig=2d32e5733497e25fae13a5c78e9d22716f9ccc7a2ffddcea4a47d995242dbde7&v=0)Spend Management Analysis Review this legal billing export for staffing and budget risks.(opens in a new window)](<https://chatgpt.com/?prompt=%40Spend+Management+Analysis+Review+this+legal+billing+export+for+staffing+and+budget+risks.>)[![](https://files.openai.com/content?id=file_0000000003a4820c887063c2cb71a1c0&cdn=1&cp=pi&ma=31968000&ts=0&p=pi&cid=8&sig=2d32e5733497e25fae13a5c78e9d22716f9ccc7a2ffddcea4a47d995242dbde7&v=0)Spend Management Analysis Prepare QBR talking points from my outside counsel spend.(opens in a new window)](<https://chatgpt.com/?prompt=%40Spend+Management+Analysis+Prepare+QBR+talking+points+from+my+outside+counsel+spend.>)[![](https://files.openai.com/content?id=file_0000000003a4820c887063c2cb71a1c0&cdn=1&cp=pi&ma=31968000&ts=0&p=pi&cid=8&sig=2d32e5733497e25fae13a5c78e9d22716f9ccc7a2ffddcea4a47d995242dbde7&v=0)Spend Management Analysis Check whether this active matter is on track against budget.(opens in a new window)](<https://chatgpt.com/?prompt=%40Spend+Management+Analysis+Check+whether+this+active+matter+is+on+track+against+budget.>)
+[![](https://files.openai.com/content?id=file_0000000003a4820c887063c2cb71a1c0&cdn=1&cp=pi&ma=31968000&ts=0&p=pi&cid=8&sig=2d32e5733497e25fae13a5c78e9d22716f9ccc7a2ffddcea4a47d995242dbde7&v=0)Spend Management Analysis Review this legal billing export for staffing and budget risks.(opens in a new window)](<https://chatgpt.com/?prompt=%40Spend+Management+Analysis+Review+this+legal+billing+export+for+staffing+and+budget+risks.>)
 
 ## How it works
 
 Analyze uploaded legal e-billing, invoice, timekeeping, or matter-economics data. Surface staffing-mix issues, budget variance, allocation patterns, and supported AI-leverage opportunities, then produce an audience-tailored report, workbook, and findings CSV.
 
-## Common use cases
+## What else can you do?
 
   * ### Review legal billing risks
 
-Analyze a legal billing export to surface staffing and budget risks for review.
-
 ![](https://files.openai.com/content?id=file_0000000003a4820c887063c2cb71a1c0&cdn=1&cp=pi&ma=31968000&ts=0&p=pi&cid=8&sig=2d32e5733497e25fae13a5c78e9d22716f9ccc7a2ffddcea4a47d995242dbde7&v=0)Spend Management Analysis Review this legal billing export for staffing and budget risks.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Spend+Management+Analysis+Review+this+legal+billing+export+for+staffing+and+budget+risks.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Spend+Management+Analysis+Review+this+legal+billing+export+for+staffing+and+budget+risks.>)
 
   * ### Prepare outside counsel review points
 
-Turn outside counsel spending data into talking points for a quarterly business review.
-
 ![](https://files.openai.com/content?id=file_0000000003a4820c887063c2cb71a1c0&cdn=1&cp=pi&ma=31968000&ts=0&p=pi&cid=8&sig=2d32e5733497e25fae13a5c78e9d22716f9ccc7a2ffddcea4a47d995242dbde7&v=0)Spend Management Analysis Prepare QBR talking points from my outside counsel spend.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Spend+Management+Analysis+Prepare+QBR+talking+points+from+my+outside+counsel+spend.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Spend+Management+Analysis+Prepare+QBR+talking+points+from+my+outside+counsel+spend.>)
 
   * ### Check a matter's budget
 
-Compare an active matter's spending with its budget to assess whether it is on track.
-
 ![](https://files.openai.com/content?id=file_0000000003a4820c887063c2cb71a1c0&cdn=1&cp=pi&ma=31968000&ts=0&p=pi&cid=8&sig=2d32e5733497e25fae13a5c78e9d22716f9ccc7a2ffddcea4a47d995242dbde7&v=0)Spend Management Analysis Check whether this active matter is on track against budget.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Spend+Management+Analysis+Check+whether+this+active+matter+is+on+track+against+budget.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Spend+Management+Analysis+Check+whether+this+active+matter+is+on+track+against+budget.>)
 
 
 

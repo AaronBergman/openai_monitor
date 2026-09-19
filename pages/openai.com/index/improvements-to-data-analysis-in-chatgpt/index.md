@@ -41,8 +41,11 @@ Share
 Today, we’re starting to roll out enhancements to data analysis:
 
   * Upload the latest file versions directly from Google Drive and Microsoft OneDrive
+
   * Interact with tables and charts in a new expandable view
+
   * Customize and download charts for presentations and documents 
+
 
 
 

@@ -34,7 +34,7 @@ OpenAI
 
 Real Buyer Behavior from G2
 
-[Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6998622475e081918795d4f4c5e42df4>)[Contact sales](</contact-sales/>)
+[Install plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6998622475e081918795d4f4c5e42df4>)[Contact sales](</contact-sales/>)
 
 Category
     [Operations](</business/plugins/?tab=plugins-operations>)
@@ -45,37 +45,31 @@ Developer
 Website
     [(opens in a new window)](<https://www.g2.com/>)
 
-[![](https://files.openai.com/content?id=file_00000000ade4720cbd31a99700103408&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=1&sig=9dac53f30fdff3bac46b98eab1ceb71b871c0d603fc3dbe4e4565367fd640b7f&v=0)![](https://files.openai.com/content?id=file_000000000eb481f7861627a90fe32ef2&cdn=1&cp=pi&ma=31881600&ts=0&p=pi&cid=8&sig=4a8ce5b240fce3dce9b92f4751e8b788a83d03f4c909f7408630b6a18213a395&v=0)G2 Create a Research Board for Slack(opens in a new window)](<https://chatgpt.com/?prompt=%40G2+Create+a+Research+Board+for+Slack>)
+[![](https://files.openai.com/content?id=file_00000000ade4720cbd31a99700103408&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=1&sig=9dac53f30fdff3bac46b98eab1ceb71b871c0d603fc3dbe4e4565367fd640b7f&v=0)![](https://files.openai.com/content?id=file_000000000eb481f7861627a90fe32ef2&cdn=1&cp=pi&ma=31881600&ts=0&p=pi&cid=8&sig=4a8ce5b240fce3dce9b92f4751e8b788a83d03f4c909f7408630b6a18213a395&v=0)G2 MCP Create a Research Board for Slack(opens in a new window)](<https://chatgpt.com/?prompt=%40G2+MCP+Create+a+Research+Board+for+Slack>)
 
 ## How it works
 
 Use G2 data in ChatGPT to research and compare software using verified reviews and product information. Explore Research Boards to evaluate and compare solutions, and access Buyer Intent data to understand how companies are researching and engaging with products and competitors.
 
-## Common use cases
+## What else can you do?
 
   * ### Compare collaboration software
 
-Build a research board and compare collaboration tools using product information and verified reviews.
-
 ![](https://files.openai.com/content?id=file_00000000ade4720cbd31a99700103408&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=1&sig=9dac53f30fdff3bac46b98eab1ceb71b871c0d603fc3dbe4e4565367fd640b7f&v=0)![](https://files.openai.com/content?id=file_000000000eb481f7861627a90fe32ef2&cdn=1&cp=pi&ma=31881600&ts=0&p=pi&cid=8&sig=4a8ce5b240fce3dce9b92f4751e8b788a83d03f4c909f7408630b6a18213a395&v=0)G2 Create a Research Board comparing Slack and Microsoft Teams. Use product details and available verified reviews to summarize strengths, recurring drawbacks, and questions a 200-person company should resolve before choosing.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40G2+Create+a+Research+Board+comparing+Slack+and+Microsoft+Teams.+Use+product+details+and+available+verified+reviews+to+summarize+strengths%2C+recurring+drawbacks%2C+and+questions+a+200-person+company+should+resolve+before+choosing.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40G2+Create+a+Research+Board+comparing+Slack+and+Microsoft+Teams.+Use+product+details+and+available+verified+reviews+to+summarize+strengths%2C+recurring+drawbacks%2C+and+questions+a+200-person+company+should+resolve+before+choosing.>)
 
   * ### Prioritize active software buyers
 
-Use recent buyer intent signals to identify accounts with the strongest evidence of active evaluation.
-
 ![](https://files.openai.com/content?id=file_00000000ade4720cbd31a99700103408&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=1&sig=9dac53f30fdff3bac46b98eab1ceb71b871c0d603fc3dbe4e4565367fd640b7f&v=0)![](https://files.openai.com/content?id=file_000000000eb481f7861627a90fe32ef2&cdn=1&cp=pi&ma=31881600&ts=0&p=pi&cid=8&sig=4a8ce5b240fce3dce9b92f4751e8b788a83d03f4c909f7408630b6a18213a395&v=0)G2 Review the past 30 days of Buyer Intent for our products. Rank ten accounts by research activity and intent, show the competitors they are evaluating, and recommend a relevant outreach angle for each.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40G2+Review+the+past+30+days+of+Buyer+Intent+for+our+products.+Rank+ten+accounts+by+research+activity+and+intent%2C+show+the+competitors+they+are+evaluating%2C+and+recommend+a+relevant+outreach+angle+for+each.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40G2+Review+the+past+30+days+of+Buyer+Intent+for+our+products.+Rank+ten+accounts+by+research+activity+and+intent%2C+show+the+competitors+they+are+evaluating%2C+and+recommend+a+relevant+outreach+angle+for+each.>)
 
   * ### Identify competitive product gaps
 
-Compare review themes across your product and alternatives to inform product priorities.
-
 ![](https://files.openai.com/content?id=file_00000000ade4720cbd31a99700103408&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=1&sig=9dac53f30fdff3bac46b98eab1ceb71b871c0d603fc3dbe4e4565367fd640b7f&v=0)![](https://files.openai.com/content?id=file_000000000eb481f7861627a90fe32ef2&cdn=1&cp=pi&ma=31881600&ts=0&p=pi&cid=8&sig=4a8ce5b240fce3dce9b92f4751e8b788a83d03f4c909f7408630b6a18213a395&v=0)G2 Compare available reviews for our product and its top two listed competitors. Identify recurring feature complaints and praised capabilities, then propose three product priorities with supporting review evidence.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40G2+Compare+available+reviews+for+our+product+and+its+top+two+listed+competitors.+Identify+recurring+feature+complaints+and+praised+capabilities%2C+then+propose+three+product+priorities+with+supporting+review+evidence.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40G2+Compare+available+reviews+for+our+product+and+its+top+two+listed+competitors.+Identify+recurring+feature+complaints+and+praised+capabilities%2C+then+propose+three+product+priorities+with+supporting+review+evidence.>)
 
 
 

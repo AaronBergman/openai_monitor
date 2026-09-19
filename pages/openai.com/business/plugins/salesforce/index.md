@@ -34,7 +34,7 @@ OpenAI
 
 Use the Salesforce plugin to review permitted CRM records, understand accounts and deals, summarize pipeline risk, and prepare follow-up.
 
-[Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_697d413990c88191a2bf4799604f8f6c>)[Contact sales](</contact-sales/>)
+[Install plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_697d413990c88191a2bf4799604f8f6c>)[Contact sales](</contact-sales/>)
 
 Capabilities
     Interactive, Read, Write
@@ -48,37 +48,35 @@ Developer
 Website
     [(opens in a new window)](<https://www.salesforce.com/>)
 
-[![](https://files.openai.com/content?id=file_00000000c20081f7b233a71bce0a397c&cdn=1&cp=pi&ma=30240000&ts=0&p=pi&cid=8&sig=6715815383d0a871ae9254bdaa6fa0167bf535b95c9cf40b13873f46a2cd96b8&v=0)Salesforce Build a meeting brief for [account]: opportunity status, key contacts, recent activity, risks, and questions to ask(opens in a new window)](<https://chatgpt.com/?prompt=%40Salesforce+Build+a+meeting+brief+for+%5Baccount%5D%3A+opportunity+status%2C+key+contacts%2C+recent+activity%2C+risks%2C+and+questions+to+ask>)[![](https://files.openai.com/content?id=file_00000000c20081f7b233a71bce0a397c&cdn=1&cp=pi&ma=30240000&ts=0&p=pi&cid=8&sig=6715815383d0a871ae9254bdaa6fa0167bf535b95c9cf40b13873f46a2cd96b8&v=0)Salesforce Review my open opportunities closing this quarter: group by stage, flag stalled deals, and suggest next steps for each owner(opens in a new window)](<https://chatgpt.com/?prompt=%40Salesforce+Review+my+open+opportunities+closing+this+quarter%3A+group+by+stage%2C+flag+stalled+deals%2C+and+suggest+next+steps+for+each+owner>)[![](https://files.openai.com/content?id=file_00000000c20081f7b233a71bce0a397c&cdn=1&cp=pi&ma=30240000&ts=0&p=pi&cid=8&sig=6715815383d0a871ae9254bdaa6fa0167bf535b95c9cf40b13873f46a2cd96b8&v=0)Salesforce Turn these customer call notes into a concise follow-up email and a CRM update with next steps, risks, and owner commitments(opens in a new window)](<https://chatgpt.com/?prompt=%40Salesforce+Turn+these+customer+call+notes+into+a+concise+follow-up+email+and+a+CRM+update+with+next+steps%2C+risks%2C+and+owner+commitments>)
+## Deals that need attention
+
+![](https://files.openai.com/content?id=file_00000000c20081f7b233a71bce0a397c&cdn=1&cp=pi&ma=30240000&ts=0&p=pi&cid=8&sig=6715815383d0a871ae9254bdaa6fa0167bf535b95c9cf40b13873f46a2cd96b8&v=0)Salesforce review deals closing this quarter, flag the biggest risks, and create a prioritized action plan to move them forward. Include owners and due dates.
+
+![](https://files.openai.com/content?id=file_00000000c20081f7b233a71bce0a397c&cdn=1&cp=pi&ma=30240000&ts=0&p=pi&cid=8&sig=6715815383d0a871ae9254bdaa6fa0167bf535b95c9cf40b13873f46a2cd96b8&v=0)Salesforce review deals closing this quarter, flag the biggest risks, and create a prioritized action plan to move them forward. Include owners and due dates.
 
 ## How it works
 
 Connect Salesforce CRM context to ChatGPT to review accounts, opportunities, contacts, and activity, create deal summaries, and prepare follow-ups while keeping teams aligned on the latest customer data.
 
-## Common use cases
+## What else can you do?
 
   * ### Understand account and deal context
 
-Pull account, contact, opportunity, and activity details into one view so reps and managers can prepare quickly without digging through CRM records.
-
 ![](https://files.openai.com/content?id=file_00000000c20081f7b233a71bce0a397c&cdn=1&cp=pi&ma=30240000&ts=0&p=pi&cid=8&sig=6715815383d0a871ae9254bdaa6fa0167bf535b95c9cf40b13873f46a2cd96b8&v=0)Salesforce Pull CRM context for [account] and create a meeting brief with opportunity status, key contacts, recent activity, risks, and recommended questions.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Salesforce+Pull+CRM+context+for+%5Baccount%5D+and+create+a+meeting+brief+with+opportunity+status%2C+key+contacts%2C+recent+activity%2C+risks%2C+and+recommended+questions.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Salesforce+Pull+CRM+context+for+%5Baccount%5D+and+create+a+meeting+brief+with+opportunity+status%2C+key+contacts%2C+recent+activity%2C+risks%2C+and+recommended+questions.>)
 
   * ### Summarize pipeline and risks
 
-Review stages, next steps, close dates, and recent activity to spot stalled deals, missing follow-ups, and forecast risk.
-
 ![](https://files.openai.com/content?id=file_00000000c20081f7b233a71bce0a397c&cdn=1&cp=pi&ma=30240000&ts=0&p=pi&cid=8&sig=6715815383d0a871ae9254bdaa6fa0167bf535b95c9cf40b13873f46a2cd96b8&v=0)Salesforce Review my open opportunities closing this quarter. Group by stage, flag stalled deals, and suggest next actions for each account owner.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Salesforce+Review+my+open+opportunities+closing+this+quarter.+Group+by+stage%2C+flag+stalled+deals%2C+and+suggest+next+actions+for+each+account+owner.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Salesforce+Review+my+open+opportunities+closing+this+quarter.+Group+by+stage%2C+flag+stalled+deals%2C+and+suggest+next+actions+for+each+account+owner.>)
 
   * ### Create follow-up and CRM updates
 
-Draft call notes, next steps, and customer-ready follow-ups, then turn them into structured updates for the CRM workflow.
-
 ![](https://files.openai.com/content?id=file_00000000c20081f7b233a71bce0a397c&cdn=1&cp=pi&ma=30240000&ts=0&p=pi&cid=8&sig=6715815383d0a871ae9254bdaa6fa0167bf535b95c9cf40b13873f46a2cd96b8&v=0)Salesforce Turn these customer call notes into a concise follow-up email and a CRM update with next steps, risks, and owner commitments.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Salesforce+Turn+these+customer+call+notes+into+a+concise+follow-up+email+and+a+CRM+update+with+next+steps%2C+risks%2C+and+owner+commitments.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Salesforce+Turn+these+customer+call+notes+into+a+concise+follow-up+email+and+a+CRM+update+with+next+steps%2C+risks%2C+and+owner+commitments.>)
 
 
 

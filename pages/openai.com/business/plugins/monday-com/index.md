@@ -34,7 +34,7 @@ OpenAI
 
 Manage work in monday.com.
 
-[Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_690aabb71bf481918b8d5b614ed3fd4c>)[Contact sales](</contact-sales/>)
+[Install plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_690aabb71bf481918b8d5b614ed3fd4c>)[Contact sales](</contact-sales/>)
 
 Category
     [Productivity](</business/plugins/?tab=plugins-productivity>)
@@ -45,37 +45,31 @@ Developer
 Website
     [(opens in a new window)](<https://monday.com>)
 
-[![](https://files.openai.com/content?id=file_00000000b3e08243817dc049a4750257&cdn=1&cp=pi&ma=30758400&ts=0&p=pi&cid=8&sig=f1a554a88cc3b205711a4efef6ed24daca9ece073f9b2b8be193fb79c0e7ae82&v=0)Monday.com what can this connector do?(opens in a new window)](<https://chatgpt.com/?prompt=%40Monday.com+what+can+this+connector+do%3F>)
+[![](https://files.openai.com/content?id=file_00000000b3e08243817dc049a4750257&cdn=1&cp=pi&ma=30758400&ts=0&p=pi&cid=8&sig=f1a554a88cc3b205711a4efef6ed24daca9ece073f9b2b8be193fb79c0e7ae82&v=0)monday.com what can this connector do?(opens in a new window)](<https://chatgpt.com/?prompt=%40monday.com+what+can+this+connector+do%3F>)
 
 ## How it works
 
 Get comprehensive access to monday.com features including board management, item operations, dashboards, and more, allowing AI assistants to help manage projects, gain insights, and automate workflows.
 
-## Common use cases
+## What else can you do?
 
   * ### Capture structured work from conversations
 
-Convert requests into tasks with owners, dates, and status so teams can prioritize and track work without switching systems or relying on manual transcription.
-
 ![](https://files.openai.com/content?id=file_00000000b3e08243817dc049a4750257&cdn=1&cp=pi&ma=30758400&ts=0&p=pi&cid=8&sig=f1a554a88cc3b205711a4efef6ed24daca9ece073f9b2b8be193fb79c0e7ae82&v=0)Monday.com Turn this chat into monday items with owners, due dates, and statuses so my team can start immediately.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Monday.com+Turn+this+chat+into+monday+items+with+owners%2C+due+dates%2C+and+statuses+so+my+team+can+start+immediately.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Monday.com+Turn+this+chat+into+monday+items+with+owners%2C+due+dates%2C+and+statuses+so+my+team+can+start+immediately.>)
 
   * ### Maintain accurate project status
 
-Update items, fields, and timelines in place so capacity plans, dashboards, and stakeholder reports always reflect the latest decisions made in conversation.
-
 ![](https://files.openai.com/content?id=file_00000000b3e08243817dc049a4750257&cdn=1&cp=pi&ma=30758400&ts=0&p=pi&cid=8&sig=f1a554a88cc3b205711a4efef6ed24daca9ece073f9b2b8be193fb79c0e7ae82&v=0)Monday.com Update these items to reflect the new plan. Adjust owners, move dates, and set status to "In Progress" where appropriate.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Monday.com+Update+these+items+to+reflect+the+new+plan.+Adjust+owners%2C+move+dates%2C+and+set+status+to+%22In+Progress%22+where+appropriate.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Monday.com+Update+these+items+to+reflect+the+new+plan.+Adjust+owners%2C+move+dates%2C+and+set+status+to+%22In+Progress%22+where+appropriate.>)
 
   * ### Speed up reporting and planning
 
-Query boards for risks, blockers, and progress, summarize deliverables for leadership, and surface next steps that align cross-functional teams on outcomes.
-
 ![](https://files.openai.com/content?id=file_00000000b3e08243817dc049a4750257&cdn=1&cp=pi&ma=30758400&ts=0&p=pi&cid=8&sig=f1a554a88cc3b205711a4efef6ed24daca9ece073f9b2b8be193fb79c0e7ae82&v=0)Monday.com what's the marketing campaign status?
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Monday.com+what%27s+the+marketing+campaign+status%3F>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Monday.com+what%27s+the+marketing+campaign+status%3F>)
 
 
 

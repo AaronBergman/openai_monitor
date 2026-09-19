@@ -57,10 +57,15 @@ In early 2023, to identify our voice actors, we had the privilege of partnering 
 Some of these characteristics included:
 
   * Actors from diverse backgrounds or who could speak multiple languages
+
   * A voice that feels timeless
+
   * An approachable voice that inspires trust
+
   * A warm, engaging, confidence-inspiring, charismatic voice with rich tone
+
   * Natural and easy to listen to
+
 
 
 
