@@ -34,7 +34,7 @@ OpenAI
 
 Turn Asana tasks into clear updates and plans.
 
-[Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69616780bd208191b4fb44ba44f72b61>)[Contact sales](</contact-sales/>)
+[Install plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69616780bd208191b4fb44ba44f72b61>)[Contact sales](</contact-sales/>)
 
 Capabilities
     Interactive, Write
@@ -48,37 +48,31 @@ Developer
 Website
     [(opens in a new window)](<https://asana.com>)
 
-[![](https://files.openai.com/content?id=file_0000000017e0722f80510fbdbf0832a1&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=1&sig=20dd59f030cc7c32ba143c3ce12a6cdc0fb2f6d699f2b82a528d8408b854be7b&v=0)Asana Create a project to track creative requests(opens in a new window)](<https://chatgpt.com/?prompt=%40Asana+Create+a+project+to+track+creative+requests>)[![](https://files.openai.com/content?id=file_0000000017e0722f80510fbdbf0832a1&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=1&sig=20dd59f030cc7c32ba143c3ce12a6cdc0fb2f6d699f2b82a528d8408b854be7b&v=0)Asana Create a task to track follow up actions(opens in a new window)](<https://chatgpt.com/?prompt=%40Asana+Create+a+task+to+track+follow+up+actions>)[![](https://files.openai.com/content?id=file_0000000017e0722f80510fbdbf0832a1&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=1&sig=20dd59f030cc7c32ba143c3ce12a6cdc0fb2f6d699f2b82a528d8408b854be7b&v=0)Asana Show me what's on my plate in Asana today.(opens in a new window)](<https://chatgpt.com/?prompt=%40Asana+Show+me+what%27s+on+my+plate+in+Asana+today.>)
+[![](https://files.openai.com/content?id=file_0000000017e0722f80510fbdbf0832a1&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=1&sig=20dd59f030cc7c32ba143c3ce12a6cdc0fb2f6d699f2b82a528d8408b854be7b&v=0)Asana Create a project to track creative requests(opens in a new window)](<https://chatgpt.com/?prompt=%40Asana+Create+a+project+to+track+creative+requests>)
 
 ## How it works
 
 Work with your Asana tasks, subtasks, comments, due dates, and project details to create summaries, understand priorities, and prepare clear status updates.
 
-## Common use cases
+## What else can you do?
 
   * ### Improve cross team visibility
 
-Query tasks, subtasks, comments, and project status in real time to generate summaries and reports, helping leaders spot risks early and align teams on priorities.
-
 ![](https://files.openai.com/content?id=file_0000000017e0722f80510fbdbf0832a1&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=1&sig=20dd59f030cc7c32ba143c3ce12a6cdc0fb2f6d699f2b82a528d8408b854be7b&v=0)Asana Identify overdue tasks and blocked work across [project] and propose a recovery plan.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Asana+Identify+overdue+tasks+and+blocked+work+across+%5Bproject%5D+and+propose+a+recovery+plan.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Asana+Identify+overdue+tasks+and+blocked+work+across+%5Bproject%5D+and+propose+a+recovery+plan.>)
 
   * ### Identify personal priorities
 
-Retrieve high priority action items for the day to unblock the team and move work forward.
-
 ![](https://files.openai.com/content?id=file_0000000017e0722f80510fbdbf0832a1&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=1&sig=20dd59f030cc7c32ba143c3ce12a6cdc0fb2f6d699f2b82a528d8408b854be7b&v=0)Asana What should I work on today? Pull my highest priority tasks due soon and suggest an order based on dependencies.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Asana+What+should+I+work+on+today%3F+Pull+my+highest+priority+tasks+due+soon+and+suggest+an+order+based+on+dependencies.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Asana+What+should+I+work+on+today%3F+Pull+my+highest+priority+tasks+due+soon+and+suggest+an+order+based+on+dependencies.>)
 
   * ### Generate SOPs from historical work
 
-Retrieve standard operating procedures from historical work to inform who to work with and which process to follow to get work done.
-
 ![](https://files.openai.com/content?id=file_0000000017e0722f80510fbdbf0832a1&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=1&sig=20dd59f030cc7c32ba143c3ce12a6cdc0fb2f6d699f2b82a528d8408b854be7b&v=0)Asana Use completed tasks and comments from [project] to draft an SOP with the steps, people to involve, and links to supporting work.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Asana+Use+completed+tasks+and+comments+from+%5Bproject%5D+to+draft+an+SOP+with+the+steps%2C+people+to+involve%2C+and+links+to+supporting+work.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Asana+Use+completed+tasks+and+comments+from+%5Bproject%5D+to+draft+an+SOP+with+the+steps%2C+people+to+involve%2C+and+links+to+supporting+work.>)
 
 
 

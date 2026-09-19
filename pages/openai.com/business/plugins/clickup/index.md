@@ -34,7 +34,7 @@ OpenAI
 
 Sync ClickUp tasks and docs for use in ChatGPT.
 
-[Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69431e6d26b88191b4029488aeb42f5b>)[Contact sales](</contact-sales/>)
+[Install plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69431e6d26b88191b4029488aeb42f5b>)[Contact sales](</contact-sales/>)
 
 Category
     [Productivity](</business/plugins/?tab=plugins-productivity>)
@@ -45,37 +45,31 @@ Developer
 Website
     [(opens in a new window)](<https://clickup.com>)
 
-[![](https://files.openai.com/content?id=file_00000000b7b8720c8deac386c4a94323&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=1&sig=edec0308e34d7485d891307f4570c7443408f7747e3c9e70865c59f30a4f84d6&v=0)ClickUp What should I work on today?(opens in a new window)](<https://chatgpt.com/?prompt=%40ClickUp+What+should+I+work+on+today%3F>)[![](https://files.openai.com/content?id=file_00000000b7b8720c8deac386c4a94323&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=1&sig=edec0308e34d7485d891307f4570c7443408f7747e3c9e70865c59f30a4f84d6&v=0)ClickUp What's blocking my team right now?(opens in a new window)](<https://chatgpt.com/?prompt=%40ClickUp+What%27s+blocking+my+team+right+now%3F>)[![](https://files.openai.com/content?id=file_00000000b7b8720c8deac386c4a94323&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=1&sig=edec0308e34d7485d891307f4570c7443408f7747e3c9e70865c59f30a4f84d6&v=0)ClickUp What did we accomplish this week?(opens in a new window)](<https://chatgpt.com/?prompt=%40ClickUp+What+did+we+accomplish+this+week%3F>)
+[![](https://files.openai.com/content?id=file_00000000b7b8720c8deac386c4a94323&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=1&sig=edec0308e34d7485d891307f4570c7443408f7747e3c9e70865c59f30a4f84d6&v=0)ClickUp What should I work on today?(opens in a new window)](<https://chatgpt.com/?prompt=%40ClickUp+What+should+I+work+on+today%3F>)
 
 ## How it works
 
 Let ChatGPT securely access ClickUp spaces, lists, and tasks to answer questions and create or update work items using synced ClickUp content.
 
-## Common use cases
+## What else can you do?
 
   * ### View and update tasks
 
-Create and update tasks, subtasks, and lists in ClickUp through ChatGPT using synced workspace data.
-
 ![](https://files.openai.com/content?id=file_00000000b7b8720c8deac386c4a94323&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=1&sig=edec0308e34d7485d891307f4570c7443408f7747e3c9e70865c59f30a4f84d6&v=0)ClickUp Create a sprint plan from our backlog for the next 2 weeks and balance work across the team.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40ClickUp+Create+a+sprint+plan+from+our+backlog+for+the+next+2+weeks+and+balance+work+across+the+team.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40ClickUp+Create+a+sprint+plan+from+our+backlog+for+the+next+2+weeks+and+balance+work+across+the+team.>)
 
   * ### Accelerate team workflows
 
-Ask questions about tasks, owners, statuses, and priorities and receive answers based on current ClickUp content.
-
 ![](https://files.openai.com/content?id=file_00000000b7b8720c8deac386c4a94323&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=1&sig=edec0308e34d7485d891307f4570c7443408f7747e3c9e70865c59f30a4f84d6&v=0)ClickUp Show my overdue tasks and recommend what to tackle first based on urgency and dependency.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40ClickUp+Show+my+overdue+tasks+and+recommend+what+to+tackle+first+based+on+urgency+and+dependency.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40ClickUp+Show+my+overdue+tasks+and+recommend+what+to+tackle+first+based+on+urgency+and+dependency.>)
 
   * ### Improve operational visibility
 
-Reference ClickUp project and workspace context in ChatGPT to understand how work is organized across teams.
-
 ![](https://files.openai.com/content?id=file_00000000b7b8720c8deac386c4a94323&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=1&sig=edec0308e34d7485d891307f4570c7443408f7747e3c9e70865c59f30a4f84d6&v=0)ClickUp Summarize the current project status for [client] and write it like a professional weekly update.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40ClickUp+Summarize+the+current+project+status+for+%5Bclient%5D+and+write+it+like+a+professional+weekly+update.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40ClickUp+Summarize+the+current+project+status+for+%5Bclient%5D+and+write+it+like+a+professional+weekly+update.>)
 
 
 

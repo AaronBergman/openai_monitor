@@ -34,7 +34,7 @@ OpenAI
 
 Explore BigQuery data and generate SQL from natural language.
 
-[Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_1p_b1cefad35a80819184ba7ed35d601d34>)[Contact sales](</contact-sales/>)
+[Install plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_1p_b1cefad35a80819184ba7ed35d601d34>)[Contact sales](</contact-sales/>)
 
 Capabilities
     Interactive, Read, Write
@@ -48,37 +48,31 @@ Developer
 Website
     [(opens in a new window)](<https://cloud.google.com/bigquery>)
 
-[![](https://files.openai.com/content?id=file_00000000dd3481f789a6831e32ea8ef6&cdn=1&cp=pi&ma=32486400&ts=0&p=pi&cid=8&sig=e8f3973722e400f4b80234dd7944f41c5bc7ca178ea9ecc45dadd7d22f438cdf&v=0)BigQuery Find the best dataset and tables for answering this question: [question]. Explain the fields and joins you would use(opens in a new window)](<https://chatgpt.com/?prompt=%40BigQuery+Find+the+best+dataset+and+tables+for+answering+this+question%3A+%5Bquestion%5D.+Explain+the+fields+and+joins+you+would+use>)[![](https://files.openai.com/content?id=file_00000000dd3481f789a6831e32ea8ef6&cdn=1&cp=pi&ma=32486400&ts=0&p=pi&cid=8&sig=e8f3973722e400f4b80234dd7944f41c5bc7ca178ea9ecc45dadd7d22f438cdf&v=0)BigQuery Write SQL to calculate [metric] by [dimension] for the last 90 days. Explain the logic and any assumptions(opens in a new window)](<https://chatgpt.com/?prompt=%40BigQuery+Write+SQL+to+calculate+%5Bmetric%5D+by+%5Bdimension%5D+for+the+last+90+days.+Explain+the+logic+and+any+assumptions>)[![](https://files.openai.com/content?id=file_00000000dd3481f789a6831e32ea8ef6&cdn=1&cp=pi&ma=32486400&ts=0&p=pi&cid=8&sig=e8f3973722e400f4b80234dd7944f41c5bc7ca178ea9ecc45dadd7d22f438cdf&v=0)BigQuery Summarize these query results for an executive update, highlighting key changes, anomalies, and follow-up analyses(opens in a new window)](<https://chatgpt.com/?prompt=%40BigQuery+Summarize+these+query+results+for+an+executive+update%2C+highlighting+key+changes%2C+anomalies%2C+and+follow-up+analyses>)
+[![](https://files.openai.com/content?id=file_00000000dd3481f789a6831e32ea8ef6&cdn=1&cp=pi&ma=32486400&ts=0&p=pi&cid=8&sig=e8f3973722e400f4b80234dd7944f41c5bc7ca178ea9ecc45dadd7d22f438cdf&v=0)BigQuery Find the best dataset and tables for answering this question: [question]. Explain the fields and joins you would use(opens in a new window)](<https://chatgpt.com/?prompt=%40BigQuery+Find+the+best+dataset+and+tables+for+answering+this+question%3A+%5Bquestion%5D.+Explain+the+fields+and+joins+you+would+use>)
 
 ## How it works
 
 Connect BigQuery to ChatGPT to explore datasets, generate and review SQL, summarize query results, and turn Google Cloud warehouse data into analysis, charts, and reports.
 
-## Common use cases
+## What else can you do?
 
   * ### Explore datasets in plain language
 
-Ask questions about BigQuery datasets and tables to identify relevant fields, filters, and metrics before writing SQL.
-
 ![](https://files.openai.com/content?id=file_00000000dd3481f789a6831e32ea8ef6&cdn=1&cp=pi&ma=32486400&ts=0&p=pi&cid=8&sig=e8f3973722e400f4b80234dd7944f41c5bc7ca178ea9ecc45dadd7d22f438cdf&v=0)BigQuery Find the best dataset and tables for answering this question: [question]. Explain the fields and joins you would use.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40BigQuery+Find+the+best+dataset+and+tables+for+answering+this+question%3A+%5Bquestion%5D.+Explain+the+fields+and+joins+you+would+use.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40BigQuery+Find+the+best+dataset+and+tables+for+answering+this+question%3A+%5Bquestion%5D.+Explain+the+fields+and+joins+you+would+use.>)
 
   * ### Generate and validate SQL
 
-Draft SQL from natural language, review joins and filters, and explain query outputs so teams can trust the analysis.
-
 ![](https://files.openai.com/content?id=file_00000000dd3481f789a6831e32ea8ef6&cdn=1&cp=pi&ma=32486400&ts=0&p=pi&cid=8&sig=e8f3973722e400f4b80234dd7944f41c5bc7ca178ea9ecc45dadd7d22f438cdf&v=0)BigQuery Write SQL to calculate [metric] by [dimension] for the last 90 days. Explain the logic and any assumptions.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40BigQuery+Write+SQL+to+calculate+%5Bmetric%5D+by+%5Bdimension%5D+for+the+last+90+days.+Explain+the+logic+and+any+assumptions.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40BigQuery+Write+SQL+to+calculate+%5Bmetric%5D+by+%5Bdimension%5D+for+the+last+90+days.+Explain+the+logic+and+any+assumptions.>)
 
   * ### Create data-backed summaries
 
-Turn query results into concise reports, charts, or stakeholder updates with assumptions and source context included.
-
 ![](https://files.openai.com/content?id=file_00000000dd3481f789a6831e32ea8ef6&cdn=1&cp=pi&ma=32486400&ts=0&p=pi&cid=8&sig=e8f3973722e400f4b80234dd7944f41c5bc7ca178ea9ecc45dadd7d22f438cdf&v=0)BigQuery Summarize these query results for an executive update, highlighting key changes, anomalies, and follow-up analyses.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40BigQuery+Summarize+these+query+results+for+an+executive+update%2C+highlighting+key+changes%2C+anomalies%2C+and+follow-up+analyses.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40BigQuery+Summarize+these+query+results+for+an+executive+update%2C+highlighting+key+changes%2C+anomalies%2C+and+follow-up+analyses.>)
 
 
 

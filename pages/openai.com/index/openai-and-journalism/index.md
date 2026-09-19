@@ -63,9 +63,13 @@ Our goal is to develop AI tools that [empower people⁠(opens in a new window)](
 While we disagree with the claims in The New York Times lawsuit, we view it as an opportunity to clarify our business, our intent, and how we build our technology. Our position can be summed up in these four points, which we flesh out below:
 
   1. We collaborate with news organizations and are creating new opportunities
+
   2. Training is fair use, but we provide an opt-out because it’s the right thing to do
+
   3. “Regurgitation” is a rare bug that we are working to drive to zero
+
   4. The New York Times is not telling the full story
+
 
 
 
@@ -76,8 +80,11 @@ We work hard in our technology design process to support news organizations. We�
 Our goals are to support a healthy news ecosystem, be a good partner, and create mutually beneficial opportunities. With this in mind, we have pursued partnerships with news organizations to achieve these objectives:
 
   1. Deploy our products to benefit and support reporters and editors, by assisting with time-consuming tasks like analyzing voluminous public records and translating stories.
+
   2. Teach our AI models about the world by training on additional historical, non-publicly available content.
+
   3. Display real-time content with attribution in ChatGPT, providing new ways for news publishers to connect with readers.
+
 
 
 

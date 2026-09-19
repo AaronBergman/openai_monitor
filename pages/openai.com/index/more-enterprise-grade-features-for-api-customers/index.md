@@ -72,11 +72,15 @@ With our new [Projects⁠(opens in a new window)](<https://help.openai.com/en/ar
 We’ve introduced several updates to the Assistants API for more accurate retrieval, flexibility around model behavior and tools used to complete tasks, and better control over costs. These features include:
 
   * Improved retrieval with ‘file_search’ which can ingest up to 10,000 files per assistant—a 500x increase from the previous file limit of 20. The tool is faster, supports parallel queries through multi-threaded searches, and has enhanced reranking and query rewriting.
+
   * Streaming support for real-time, conversational responses—one of the top requests from developers and enterprises.  
 New ‘vector_store’ objects in the API so files can be added to a vector store and automatically parsed, chunked, and embedded in preparation for file search. Vector stores can be used across assistants and threads, simplifying file management and billing.
+
   * Control over the maximum number of tokens used per run, plus limits on previous and recent messages used in each run, so you can manage token usage costs.  
 New ‘tool_choice’ parameter to select a specific tool (like ‘file_search’, ‘code_interpreter’, or ‘function’) in a particular run.
+
   * Support for fine-tuned GPT‑3.5 Turbo models in the API (to start, we’ll support fine-tunes of ‘gpt-3.5-turbo-0125’).
+
 
 
 
@@ -87,7 +91,11 @@ New ‘tool_choice’ parameter to select a specific tool (like ‘file_search�
 To help organizations scale their AI usage without over-extending their budgets, we’ve added two new ways to reduce costs on consistent and asynchronous workloads:
 
   * **Discounted usage on committed throughput:** Customers with a sustained level of tokens per minute (TPM) usage on GPT‑4 or GPT‑4 Turbo can request access to provisioned throughput to get discounts ranging from 10–50% based on the size of the commitment.
-  * **Reduced costs on asynchronous workloads:** Customers can use our new [Batch API⁠(opens in a new window)](<https://platform.openai.com/docs/api-reference/batch>)to run non-urgent workloads asynchronously. Batch API requests are priced at 50% off shared prices, offer much higher rate limits, and return results within 24 hours. This is ideal for use cases like model evaluation, offline classification, summarization, and synthetic data generation.
+
+  * **Reduced costs on asynchronous workloads:** Customers can use our new [Batch API⁠(opens in a new window)](<https://platform.openai.com/docs/api-reference/batch>)
+
+to run non-urgent workloads asynchronously. Batch API requests are priced at 50% off shared prices, offer much higher rate limits, and return results within 24 hours. This is ideal for use cases like model evaluation, offline classification, summarization, and synthetic data generation.
+
 
 
 

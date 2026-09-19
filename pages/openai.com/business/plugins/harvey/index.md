@@ -34,7 +34,7 @@ OpenAI
 
 Legal intelligence from Harvey
 
-[Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6aa4a9f42500819195c270ab28582cf5>)[Contact sales](</contact-sales/>)
+[Install plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6aa4a9f42500819195c270ab28582cf5>)[Contact sales](</contact-sales/>)
 
 Category
     [Operations](</business/plugins/?tab=plugins-operations>)
@@ -45,37 +45,31 @@ Developer
 Website
     [(opens in a new window)](<https://harvey.ai/>)
 
-[![](https://files.openai.com/content?id=file_00000000c1f081f68c5168709a419cff&cdn=1&cp=pi&ma=30499200&ts=0&p=pi&cid=8&sig=d7478adc86d605015d8c577fcd1d01af34696b51fc632a7f736c0816e26c0c00&v=0)Harvey What are the elements of a breach of contract claim, and what defenses are commonly raised?(opens in a new window)](<https://chatgpt.com/?prompt=%40Harvey+What+are+the+elements+of+a+breach+of+contract+claim%2C+and+what+defenses+are+commonly+raised%3F>)[![](https://files.openai.com/content?id=file_00000000c1f081f68c5168709a419cff&cdn=1&cp=pi&ma=30499200&ts=0&p=pi&cid=8&sig=d7478adc86d605015d8c577fcd1d01af34696b51fc632a7f736c0816e26c0c00&v=0)Harvey Find my most recently updated Vaults in Harvey.(opens in a new window)](<https://chatgpt.com/?prompt=%40Harvey+Find+my+most+recently+updated+Vaults+in+Harvey.>)[![](https://files.openai.com/content?id=file_00000000c1f081f68c5168709a419cff&cdn=1&cp=pi&ma=30499200&ts=0&p=pi&cid=8&sig=d7478adc86d605015d8c577fcd1d01af34696b51fc632a7f736c0816e26c0c00&v=0)Harvey Using Harvey's UK Tax knowledge source, what is HMRC's guidance on capital gains for non-residents?(opens in a new window)](<https://chatgpt.com/?prompt=%40Harvey+Using+Harvey%27s+UK+Tax+knowledge+source%2C+what+is+HMRC%27s+guidance+on+capital+gains+for+non-residents%3F>)
+[![](https://files.openai.com/content?id=file_00000000c1f081f68c5168709a419cff&cdn=1&cp=pi&ma=30499200&ts=0&p=pi&cid=8&sig=d7478adc86d605015d8c577fcd1d01af34696b51fc632a7f736c0816e26c0c00&v=0)Harvey What are the elements of a breach of contract claim, and what defenses are commonly raised?(opens in a new window)](<https://chatgpt.com/?prompt=%40Harvey+What+are+the+elements+of+a+breach+of+contract+claim%2C+and+what+defenses+are+commonly+raised%3F>)
 
 ## How it works
 
 The Harvey plugin connects ChatGPT to Harvey's AI-powered legal intelligence platform. It supports three core capabilities: (1) General legal inquiries grounded in Harvey's legal knowledge; (2) Analysis and search over your firm's Vault projects — saved work product, memos, and prior documents; (3) Targeted research using specialized knowledge sources, such as UK Tax legislation and HMRC manuals. Discovery tools let users list available Vault projects and knowledge sources. All tools are read-only and operate strictly within the authenticated user's Harvey permissions. Access requires a Harvey account with an active license and the MCP feature enabled by your workspace admin.
 
-## Common use cases
+## What else can you do?
 
   * ### Assess a contract dispute
 
-Prepare an issue memo mapping a contract dispute to potential claims, defenses, and facts that could change the assessment.
-
 ![](https://files.openai.com/content?id=file_00000000c1f081f68c5168709a419cff&cdn=1&cp=pi&ma=30499200&ts=0&p=pi&cid=8&sig=d7478adc86d605015d8c577fcd1d01af34696b51fc632a7f736c0816e26c0c00&v=0)Harvey Prepare an issue memo for the contract dispute below under [jurisdiction] law. Map the facts to breach-of-contract elements, assess likely defenses, and prioritize missing facts that could change the analysis.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Harvey+Prepare+an+issue+memo+for+the+contract+dispute+below+under+%5Bjurisdiction%5D+law.+Map+the+facts+to+breach-of-contract+elements%2C+assess+likely+defenses%2C+and+prioritize+missing+facts+that+could+change+the+analysis.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Harvey+Prepare+an+issue+memo+for+the+contract+dispute+below+under+%5Bjurisdiction%5D+law.+Map+the+facts+to+breach-of-contract+elements%2C+assess+likely+defenses%2C+and+prioritize+missing+facts+that+could+change+the+analysis.>)
 
   * ### Review acquisition contract risks
 
-Compare change-of-control and termination clauses in a deal Vault and prioritize provisions that need attention before signing.
-
 ![](https://files.openai.com/content?id=file_00000000c1f081f68c5168709a419cff&cdn=1&cp=pi&ma=30499200&ts=0&p=pi&cid=8&sig=d7478adc86d605015d8c577fcd1d01af34696b51fc632a7f736c0816e26c0c00&v=0)Harvey Analyze contracts in [deal Vault] for change-of-control and termination provisions. Produce a table with document references, triggering events, and consent requirements; prioritize risks to resolve before signing.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Harvey+Analyze+contracts+in+%5Bdeal+Vault%5D+for+change-of-control+and+termination+provisions.+Produce+a+table+with+document+references%2C+triggering+events%2C+and+consent+requirements%3B+prioritize+risks+to+resolve+before+signing.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Harvey+Analyze+contracts+in+%5Bdeal+Vault%5D+for+change-of-control+and+termination+provisions.+Produce+a+table+with+document+references%2C+triggering+events%2C+and+consent+requirements%3B+prioritize+risks+to+resolve+before+signing.>)
 
   * ### Research UK tax exposure
 
-Build a cited research brief on non-resident capital gains rules and identify the facts needed to assess a planned transaction.
-
 ![](https://files.openai.com/content?id=file_00000000c1f081f68c5168709a419cff&cdn=1&cp=pi&ma=30499200&ts=0&p=pi&cid=8&sig=d7478adc86d605015d8c577fcd1d01af34696b51fc632a7f736c0816e26c0c00&v=0)Harvey Using the UK Tax knowledge source, prepare a brief on non-resident capital gains for [transaction and tax year]. Cite legislation and HMRC guidance, explain relevant exceptions, and flag facts needed for tax counsel.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Harvey+Using+the+UK+Tax+knowledge+source%2C+prepare+a+brief+on+non-resident+capital+gains+for+%5Btransaction+and+tax+year%5D.+Cite+legislation+and+HMRC+guidance%2C+explain+relevant+exceptions%2C+and+flag+facts+needed+for+tax+counsel.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Harvey+Using+the+UK+Tax+knowledge+source%2C+prepare+a+brief+on+non-resident+capital+gains+for+%5Btransaction+and+tax+year%5D.+Cite+legislation+and+HMRC+guidance%2C+explain+relevant+exceptions%2C+and+flag+facts+needed+for+tax+counsel.>)
 
 
 

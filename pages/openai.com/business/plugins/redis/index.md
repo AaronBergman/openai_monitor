@@ -34,7 +34,7 @@ OpenAI
 
 Build Redis applications
 
-[Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugins_6a85b91f8aa081918a9daf1444559586>)[Contact sales](</contact-sales/>)
+[Install plugin(opens in a new window)](<https://chatgpt.com/plugins/plugins_6a85b91f8aa081918a9daf1444559586>)[Contact sales](</contact-sales/>)
 
 Capabilities
     Read, Write
@@ -48,37 +48,31 @@ Developer
 Website
     [(opens in a new window)](<https://redis.io>)
 
-[![](https://files.openai.com/content?id=file_00000000b20881f495cc14a11bbf3efb&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=8&sig=51dcd57c06f0a9e2e78497661f9f9214d9b5b29b1dbc5d786a14270f49e63560&v=0)Redis Inc Design a Redis data model for this feature.(opens in a new window)](<https://chatgpt.com/?prompt=%40Redis+Inc+Design+a+Redis+data+model+for+this+feature.>)[![](https://files.openai.com/content?id=file_00000000b20881f495cc14a11bbf3efb&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=8&sig=51dcd57c06f0a9e2e78497661f9f9214d9b5b29b1dbc5d786a14270f49e63560&v=0)Redis Inc Review this Redis code for correctness and performance.(opens in a new window)](<https://chatgpt.com/?prompt=%40Redis+Inc+Review+this+Redis+code+for+correctness+and+performance.>)[![](https://files.openai.com/content?id=file_00000000b20881f495cc14a11bbf3efb&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=8&sig=51dcd57c06f0a9e2e78497661f9f9214d9b5b29b1dbc5d786a14270f49e63560&v=0)Redis Inc Build a Redis Search schema and query for this application.(opens in a new window)](<https://chatgpt.com/?prompt=%40Redis+Inc+Build+a+Redis+Search+schema+and+query+for+this+application.>)
+[![](https://files.openai.com/content?id=file_00000000b20881f495cc14a11bbf3efb&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=8&sig=51dcd57c06f0a9e2e78497661f9f9214d9b5b29b1dbc5d786a14270f49e63560&v=0)Redis Design a Redis data model for this feature.(opens in a new window)](<https://chatgpt.com/?prompt=%40Redis+Design+a+Redis+data+model+for+this+feature.>)
 
 ## How it works
 
 Design, implement, review, and troubleshoot Redis applications with focused guidance for data structures, connections, Redis Search, semantic caching, clustering, security, observability, and Iris agent memory.
 
-## Common use cases
+## What else can you do?
 
   * ### Design a shopping cart cache
 
-Get a Redis data model for shopping carts with clear expiration rules and safe concurrent updates.
-
 ![](https://files.openai.com/content?id=file_00000000b20881f495cc14a11bbf3efb&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=8&sig=51dcd57c06f0a9e2e78497661f9f9214d9b5b29b1dbc5d786a14270f49e63560&v=0)Redis Inc Design a Redis data model for our shopping carts. Compare Hash and JSON, choose key and expiration rules, and provide code and tests for concurrent item updates and cart expiry.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Redis+Inc+Design+a+Redis+data+model+for+our+shopping+carts.+Compare+Hash+and+JSON%2C+choose+key+and+expiration+rules%2C+and+provide+code+and+tests+for+concurrent+item+updates+and+cart+expiry.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Redis+Inc+Design+a+Redis+data+model+for+our+shopping+carts.+Compare+Hash+and+JSON%2C+choose+key+and+expiration+rules%2C+and+provide+code+and+tests+for+concurrent+item+updates+and+cart+expiry.>)
 
   * ### Diagnose Redis latency
 
-Turn Redis metrics, slow logs, and client code into a prioritized plan to reduce request latency.
-
 ![](https://files.openai.com/content?id=file_00000000b20881f495cc14a11bbf3efb&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=8&sig=51dcd57c06f0a9e2e78497661f9f9214d9b5b29b1dbc5d786a14270f49e63560&v=0)Redis Inc Review the attached Redis INFO, SLOWLOG output, and client code from our latency incident. Rank likely causes, propose the smallest fixes, and define measurements to confirm each improvement.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Redis+Inc+Review+the+attached+Redis+INFO%2C+SLOWLOG+output%2C+and+client+code+from+our+latency+incident.+Rank+likely+causes%2C+propose+the+smallest+fixes%2C+and+define+measurements+to+confirm+each+improvement.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Redis+Inc+Review+the+attached+Redis+INFO%2C+SLOWLOG+output%2C+and+client+code+from+our+latency+incident.+Rank+likely+causes%2C+propose+the+smallest+fixes%2C+and+define+measurements+to+confirm+each+improvement.>)
 
   * ### Build product catalog search
 
-Create a Redis Search schema and queries that combine product keywords with category and price filters.
-
 ![](https://files.openai.com/content?id=file_00000000b20881f495cc14a11bbf3efb&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=8&sig=51dcd57c06f0a9e2e78497661f9f9214d9b5b29b1dbc5d786a14270f49e63560&v=0)Redis Inc Build a Redis Search schema for our product JSON and queries for keyword search with category and price filters. Choose field types, add representative query tests, and explain how to profile slow searches.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Redis+Inc+Build+a+Redis+Search+schema+for+our+product+JSON+and+queries+for+keyword+search+with+category+and+price+filters.+Choose+field+types%2C+add+representative+query+tests%2C+and+explain+how+to+profile+slow+searches.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Redis+Inc+Build+a+Redis+Search+schema+for+our+product+JSON+and+queries+for+keyword+search+with+category+and+price+filters.+Choose+field+types%2C+add+representative+query+tests%2C+and+explain+how+to+profile+slow+searches.>)
 
 
 

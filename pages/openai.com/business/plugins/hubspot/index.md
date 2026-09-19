@@ -34,7 +34,7 @@ OpenAI
 
 Analyze CRM data and surface insights.
 
-[Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_697acb8e53d88191bf7a79e62012ae14>)[Contact sales](</contact-sales/>)
+[Install plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_697acb8e53d88191bf7a79e62012ae14>)[Contact sales](</contact-sales/>)
 
 Category
     [Operations](</business/plugins/?tab=plugins-operations>)
@@ -45,37 +45,35 @@ Developer
 Website
     [(opens in a new window)](<https://www.hubspot.com/>)
 
-[![](https://files.openai.com/content?id=file_00000000fd7471f5993b000c5f724582&cdn=1&cp=pi&ma=30931200&ts=0&p=pi&cid=1&sig=c4acde5ce277a221a14c10614283aba373c5d414cc96d96f111e4a757d64800b&v=0)HubSpot Show me unresolved high-priority tickets(opens in a new window)](<https://chatgpt.com/?prompt=%40HubSpot+Show+me+unresolved+high-priority+tickets>)[![](https://files.openai.com/content?id=file_00000000fd7471f5993b000c5f724582&cdn=1&cp=pi&ma=30931200&ts=0&p=pi&cid=1&sig=c4acde5ce277a221a14c10614283aba373c5d414cc96d96f111e4a757d64800b&v=0)HubSpot Which lead sources brought in the most contacts this quarter?(opens in a new window)](<https://chatgpt.com/?prompt=%40HubSpot+Which+lead+sources+brought+in+the+most+contacts+this+quarter%3F>)
+## Your follow-ups this week
+
+![](https://files.openai.com/content?id=file_00000000fd7471f5993b000c5f724582&cdn=1&cp=pi&ma=30931200&ts=0&p=pi&cid=1&sig=c4acde5ce277a221a14c10614283aba373c5d414cc96d96f111e4a757d64800b&v=0)HubSpot find the five leads I should follow up with this week and draft personalized emails in Gmail based on their recent activity.
+
+![](https://files.openai.com/content?id=file_00000000fd7471f5993b000c5f724582&cdn=1&cp=pi&ma=30931200&ts=0&p=pi&cid=1&sig=c4acde5ce277a221a14c10614283aba373c5d414cc96d96f111e4a757d64800b&v=0)HubSpot find the five leads I should follow up with this week and draft personalized emails in Gmail based on their recent activity.
 
 ## How it works
 
 Work with your HubSpot data to uncover patterns, prepare reports, and answer everyday questions about your pipeline or customer base.
 
-## Common use cases
+## What else can you do?
 
   * ### Answer everyday questions with chat
 
-Use chat to quickly answer simple questions, such as “Give me a breakdown of open vs. closed deals,” using your HubSpot data directly.
-
 ![](https://files.openai.com/content?id=file_00000000fd7471f5993b000c5f724582&cdn=1&cp=pi&ma=30931200&ts=0&p=pi&cid=1&sig=c4acde5ce277a221a14c10614283aba373c5d414cc96d96f111e4a757d64800b&v=0)HubSpot Give me a pipeline health check including open deals by stage, biggest risks, and which deals need attention today.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40HubSpot+Give+me+a+pipeline+health+check+including+open+deals+by+stage%2C+biggest+risks%2C+and+which+deals+need+attention+today.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40HubSpot+Give+me+a+pipeline+health+check+including+open+deals+by+stage%2C+biggest+risks%2C+and+which+deals+need+attention+today.>)
 
   * ### Conduct complex analysis with deep research
 
-Use deep research to run more advanced analyses with your HubSpot context, such as identifying why deals were lost last quarter or which segments are trending up.
-
 ![](https://files.openai.com/content?id=file_00000000fd7471f5993b000c5f724582&cdn=1&cp=pi&ma=30931200&ts=0&p=pi&cid=1&sig=c4acde5ce277a221a14c10614283aba373c5d414cc96d96f111e4a757d64800b&v=0)HubSpot Analyze deals lost last quarter and summarize the top loss reasons by segment, including patterns in notes or missing fields.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40HubSpot+Analyze+deals+lost+last+quarter+and+summarize+the+top+loss+reasons+by+segment%2C+including+patterns+in+notes+or+missing+fields.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40HubSpot+Analyze+deals+lost+last+quarter+and+summarize+the+top+loss+reasons+by+segment%2C+including+patterns+in+notes+or+missing+fields.>)
 
   * ### Trusted results aligned to HubSpot permissions
 
-Access is based on a user’s HubSpot permissions, so they only see data they're authorized to view, excluding Sensitive Data Properties and Highly Sensitive Data (e.g. PHI).
-
 ![](https://files.openai.com/content?id=file_00000000fd7471f5993b000c5f724582&cdn=1&cp=pi&ma=30931200&ts=0&p=pi&cid=1&sig=c4acde5ce277a221a14c10614283aba373c5d414cc96d96f111e4a757d64800b&v=0)HubSpot For my next customer call, pull contact/company history plus recent emails and notes, then suggest a short agenda and smart questions.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40HubSpot+For+my+next+customer+call%2C+pull+contact%2Fcompany+history+plus+recent+emails+and+notes%2C+then+suggest+a+short+agenda+and+smart+questions.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40HubSpot+For+my+next+customer+call%2C+pull+contact%2Fcompany+history+plus+recent+emails+and+notes%2C+then+suggest+a+short+agenda+and+smart+questions.>)
 
 
 

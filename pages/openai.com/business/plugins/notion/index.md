@@ -34,7 +34,7 @@ OpenAI
 
 Search and reference your Notion pages.
 
-[Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69c18c28f1188191bf5b8445c4ab0a2e>)[Contact sales](</contact-sales/>)
+[Install plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69c18c28f1188191bf5b8445c4ab0a2e>)[Contact sales](</contact-sales/>)
 
 Capabilities
     Interactive, Read, Write
@@ -48,37 +48,31 @@ Developer
 Website
     [(opens in a new window)](<https://www.notion.so/>)
 
-[![](https://files.openai.com/content?id=file_0000000035e081f78f1775acc52fc7e9&cdn=1&cp=pi&ma=32227200&ts=0&p=pi&cid=8&sig=70a4ffd53544abaed2c5f9108261ce67b893313dde6b5fb3d1c02e93d83ecfcc&v=0)Notion Find the latest decision on pricing for [project] and summarize it with the supporting page links(opens in a new window)](<https://chatgpt.com/?prompt=%40Notion+Find+the+latest+decision+on+pricing+for+%5Bproject%5D+and+summarize+it+with+the+supporting+page+links>)[![](https://files.openai.com/content?id=file_0000000035e081f78f1775acc52fc7e9&cdn=1&cp=pi&ma=32227200&ts=0&p=pi&cid=8&sig=70a4ffd53544abaed2c5f9108261ce67b893313dde6b5fb3d1c02e93d83ecfcc&v=0)Notion Create a roadmap database with properties for owner, status, quarter, and risk then populate it from this list of initiatives(opens in a new window)](<https://chatgpt.com/?prompt=%40Notion+Create+a+roadmap+database+with+properties+for+owner%2C+status%2C+quarter%2C+and+risk+then+populate+it+from+this+list+of+initiatives>)[![](https://files.openai.com/content?id=file_0000000035e081f78f1775acc52fc7e9&cdn=1&cp=pi&ma=32227200&ts=0&p=pi&cid=8&sig=70a4ffd53544abaed2c5f9108261ce67b893313dde6b5fb3d1c02e93d83ecfcc&v=0)Notion Audit our top product docs for outdated info and give me a punch list of pages that should be updated first(opens in a new window)](<https://chatgpt.com/?prompt=%40Notion+Audit+our+top+product+docs+for+outdated+info+and+give+me+a+punch+list+of+pages+that+should+be+updated+first>)
+[![](https://files.openai.com/content?id=file_0000000035e081f78f1775acc52fc7e9&cdn=1&cp=pi&ma=32227200&ts=0&p=pi&cid=8&sig=70a4ffd53544abaed2c5f9108261ce67b893313dde6b5fb3d1c02e93d83ecfcc&v=0)Notion Find the latest decision on pricing for [project] and summarize it with the supporting page links(opens in a new window)](<https://chatgpt.com/?prompt=%40Notion+Find+the+latest+decision+on+pricing+for+%5Bproject%5D+and+summarize+it+with+the+supporting+page+links>)
 
 ## How it works
 
 Connect AI to your knowledge base to find answers, draft docs, and keep project databases updated, reducing time spent searching and manual upkeep while improving alignment across teams.
 
-## Common use cases
+## What else can you do?
 
   * ### Find decisions and specs faster
 
-Run semantic search across pages and connected tools to pull relevant context for briefs, QBRs, or incident reviews, reducing time spent searching for information and repeated questions.
-
 ![](https://files.openai.com/content?id=file_0000000035e081f78f1775acc52fc7e9&cdn=1&cp=pi&ma=32227200&ts=0&p=pi&cid=8&sig=70a4ffd53544abaed2c5f9108261ce67b893313dde6b5fb3d1c02e93d83ecfcc&v=0)Notion Find the latest decision on pricing for [project] and summarize it with the supporting page links.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Notion+Find+the+latest+decision+on+pricing+for+%5Bproject%5D+and+summarize+it+with+the+supporting+page+links.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Notion+Find+the+latest+decision+on+pricing+for+%5Bproject%5D+and+summarize+it+with+the+supporting+page+links.>)
 
   * ### Keep docs and wikis current
 
-Create meeting notes, FAQs, and status updates from prompts, then update pages and properties as work changes so teams maintain accurate information in a single source of truth.
-
 ![](https://files.openai.com/content?id=file_0000000035e081f78f1775acc52fc7e9&cdn=1&cp=pi&ma=32227200&ts=0&p=pi&cid=8&sig=70a4ffd53544abaed2c5f9108261ce67b893313dde6b5fb3d1c02e93d83ecfcc&v=0)Notion Audit our top product docs for outdated info and give me a punch list of pages that should be updated first.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Notion+Audit+our+top+product+docs+for+outdated+info+and+give+me+a+punch+list+of+pages+that+should+be+updated+first.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Notion+Audit+our+top+product+docs+for+outdated+info+and+give+me+a+punch+list+of+pages+that+should+be+updated+first.>)
 
   * ### Automate project tracking in databases
 
-Create or update databases for roadmaps, risks, and action items, and move or duplicate pages for new cycles to help operations teams keep reporting accurate without extra work.
-
 ![](https://files.openai.com/content?id=file_0000000035e081f78f1775acc52fc7e9&cdn=1&cp=pi&ma=32227200&ts=0&p=pi&cid=8&sig=70a4ffd53544abaed2c5f9108261ce67b893313dde6b5fb3d1c02e93d83ecfcc&v=0)Notion Create a roadmap database with properties for owner, status, quarter, and risk then populate it from this list of initiatives.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Notion+Create+a+roadmap+database+with+properties+for+owner%2C+status%2C+quarter%2C+and+risk+then+populate+it+from+this+list+of+initiatives.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Notion+Create+a+roadmap+database+with+properties+for+owner%2C+status%2C+quarter%2C+and+risk+then+populate+it+from+this+list+of+initiatives.>)
 
 
 

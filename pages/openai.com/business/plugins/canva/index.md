@@ -34,7 +34,7 @@ OpenAI
 
 Search, create, and edit designs.
 
-[Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_68df33b1a2d081918778431a9cfca8ba>)[Contact sales](</contact-sales/>)
+[Install plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_68df33b1a2d081918778431a9cfca8ba>)[Contact sales](</contact-sales/>)
 
 Category
     [Design & Creative](</business/plugins/?tab=plugins-design-creative>)
@@ -45,37 +45,35 @@ Developer
 Website
     [(opens in a new window)](<https://www.canva.com>)
 
-[![](https://files.openai.com/content?id=file_000000007478722f8721ba64db8d16ae&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=1&sig=68378adbd4626ca205973ef325bc9e488290921586ef1d1cb6a46f3d8ce14fb5&v=0)Canva Create some social media posts based on our October campaign brief(opens in a new window)](<https://chatgpt.com/?prompt=%40Canva+Create+some+social+media+posts+based+on+our+October+campaign+brief>)[![](https://files.openai.com/content?id=file_000000007478722f8721ba64db8d16ae&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=1&sig=68378adbd4626ca205973ef325bc9e488290921586ef1d1cb6a46f3d8ce14fb5&v=0)Canva Use these latest investor meeting notes to make a Q1 2026 pitch deck(opens in a new window)](<https://chatgpt.com/?prompt=%40Canva+Use+these+latest+investor+meeting+notes+to+make+a+Q1+2026+pitch+deck>)[![](https://files.openai.com/content?id=file_000000007478722f8721ba64db8d16ae&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=1&sig=68378adbd4626ca205973ef325bc9e488290921586ef1d1cb6a46f3d8ce14fb5&v=0)Canva Can you resize this poster as an Instagram post for my online store?(opens in a new window)](<https://chatgpt.com/?prompt=%40Canva+Can+you+resize+this+poster+as+an+Instagram+post+for+my+online+store%3F>)
+## Launch presentation and social posts
+
+![](https://files.openai.com/content?id=file_000000007478722f8721ba64db8d16ae&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=1&sig=68378adbd4626ca205973ef325bc9e488290921586ef1d1cb6a46f3d8ce14fb5&v=0)Canva turn our latest launch brief in Google Drive into a branded presentation and three social posts using our templates. Include clear calls to action.
+
+![](https://files.openai.com/content?id=file_000000007478722f8721ba64db8d16ae&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=1&sig=68378adbd4626ca205973ef325bc9e488290921586ef1d1cb6a46f3d8ce14fb5&v=0)Canva turn our latest launch brief in Google Drive into a branded presentation and three social posts using our templates. Include clear calls to action.
 
 ## How it works
 
 Ask Canva to create social posts, presentations, marketing materials, or other visual assets based on your current conversation, then continue editing together in the chat.
 
-## Common use cases
+## What else can you do?
 
   * ### Create designs directly from conversation
 
-Turn live discussion into visual assets by generating social posts, presentations, or marketing materials based on chat context, reducing handoffs and speeding initial drafts.
-
 ![](https://files.openai.com/content?id=file_000000007478722f8721ba64db8d16ae&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=1&sig=68378adbd4626ca205973ef325bc9e488290921586ef1d1cb6a46f3d8ce14fb5&v=0)Canva Create 3 Instagram post concepts for a nonprofit fundraiser next Saturday with short captions and a consistent look.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Canva+Create+3+Instagram+post+concepts+for+a+nonprofit+fundraiser+next+Saturday+with+short+captions+and+a+consistent+look.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Canva+Create+3+Instagram+post+concepts+for+a+nonprofit+fundraiser+next+Saturday+with+short+captions+and+a+consistent+look.>)
 
   * ### Iterate and adapt designs in real time
 
-Refine designs through simple requests like resizing for new channels or translating content, enabling faster iteration without restarting or switching tools.
-
 ![](https://files.openai.com/content?id=file_000000007478722f8721ba64db8d16ae&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=1&sig=68378adbd4626ca205973ef325bc9e488290921586ef1d1cb6a46f3d8ce14fb5&v=0)Canva Resize my existing design into versions for LinkedIn feed, Instagram story, and email header while keeping typography readable.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Canva+Resize+my+existing+design+into+versions+for+LinkedIn+feed%2C+Instagram+story%2C+and+email+header+while+keeping+typography+readable.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Canva+Resize+my+existing+design+into+versions+for+LinkedIn+feed%2C+Instagram+story%2C+and+email+header+while+keeping+typography+readable.>)
 
   * ### Move seamlessly from draft to final asset
 
-Start collaboratively in chat, then open designs instantly in the editor for final polish, keeping momentum while supporting deeper hands-on control when needed.
-
 ![](https://files.openai.com/content?id=file_000000007478722f8721ba64db8d16ae&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=1&sig=68378adbd4626ca205973ef325bc9e488290921586ef1d1cb6a46f3d8ce14fb5&v=0)Canva Turn these launch notes into a presentation draft and give me the design link so our marketing team can finish it in the Canva editor.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Canva+Turn+these+launch+notes+into+a+presentation+draft+and+give+me+the+design+link+so+our+marketing+team+can+finish+it+in+the+Canva+editor.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Canva+Turn+these+launch+notes+into+a+presentation+draft+and+give+me+the+design+link+so+our+marketing+team+can+finish+it+in+the+Canva+editor.>)
 
 
 

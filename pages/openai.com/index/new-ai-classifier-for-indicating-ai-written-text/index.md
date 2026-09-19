@@ -71,11 +71,17 @@ Try our free work-in-progress classifier yourself:
 Our classifier has a number of important limitations. **It should not be used as a primary decision-making tool** , but instead as a complement to other methods of determining the source of a piece of text.
 
   1. The classifier is very unreliable on short texts (below 1,000 characters). Even longer texts are sometimes incorrectly labeled by the classifier.
+
   2. Sometimes human-written text will be incorrectly but confidently labeled as AI-written by our classifier.
+
   3. We recommend using the classifier only for English text. It performs significantly worse in other languages and it is unreliable on code.
+
   4. Text that is very predictable cannot be reliably identified. For example, it is impossible to predict whether a list of the first 1,000 prime numbers was written by AI or humans, because the correct answer is always the same.
+
   5. AI-written text can be edited to evade the classifier. Classifiers like ours can be updated and retrained based on successful attacks, but it is unclear whether detection has an advantage in the long-term.
+
   6. Classifiers based on neural networks are known to be poorly calibrated outside of their training data. For inputs that are very different from text in our training set, the classifier is sometimes extremely confident in a wrong prediction.
+
 
 
 

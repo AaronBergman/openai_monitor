@@ -34,7 +34,7 @@ OpenAI
 
 Research regulatory changes
 
-[Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugins_6aa2e3dfeac4819199d6e0df1d881288>)[Contact sales](</contact-sales/>)
+[Install plugin(opens in a new window)](<https://chatgpt.com/plugins/plugins_6aa2e3dfeac4819199d6e0df1d881288>)[Contact sales](</contact-sales/>)
 
 Capabilities
     Read
@@ -48,37 +48,31 @@ Developer
 Website
     [(opens in a new window)](<https://www.lecg.com/>)
 
-[![](https://files.openai.com/content?id=file_000000009c2481f8b9e6b2dbc533ffed&cdn=1&cp=pi&ma=30326400&ts=0&p=pi&cid=8&sig=cb88bea07f7a355d0efbae2a01208f208fed790260aac686be48a32abb9c0db9&v=0)Compliance Horizon Scanner Set up my compliance profile and help me choose US states.(opens in a new window)](<https://chatgpt.com/?prompt=%40Compliance+Horizon+Scanner+Set+up+my+compliance+profile+and+help+me+choose+US+states.>)[![](https://files.openai.com/content?id=file_000000009c2481f8b9e6b2dbc533ffed&cdn=1&cp=pi&ma=30326400&ts=0&p=pi&cid=8&sig=cb88bea07f7a355d0efbae2a01208f208fed790260aac686be48a32abb9c0db9&v=0)Compliance Horizon Scanner Find regulatory changes since my last scan, with sources and gaps.(opens in a new window)](<https://chatgpt.com/?prompt=%40Compliance+Horizon+Scanner+Find+regulatory+changes+since+my+last+scan%2C+with+sources+and+gaps.>)[![](https://files.openai.com/content?id=file_000000009c2481f8b9e6b2dbc533ffed&cdn=1&cp=pi&ma=30326400&ts=0&p=pi&cid=8&sig=cb88bea07f7a355d0efbae2a01208f208fed790260aac686be48a32abb9c0db9&v=0)Compliance Horizon Scanner Build a sourced calendar of upcoming regulatory deadlines.(opens in a new window)](<https://chatgpt.com/?prompt=%40Compliance+Horizon+Scanner+Build+a+sourced+calendar+of+upcoming+regulatory+deadlines.>)
+[![](https://files.openai.com/content?id=file_000000009c2481f8b9e6b2dbc533ffed&cdn=1&cp=pi&ma=30326400&ts=0&p=pi&cid=8&sig=cb88bea07f7a355d0efbae2a01208f208fed790260aac686be48a32abb9c0db9&v=0)Compliance Horizon Scanner Set up my compliance profile and help me choose US states.(opens in a new window)](<https://chatgpt.com/?prompt=%40Compliance+Horizon+Scanner+Set+up+my+compliance+profile+and+help+me+choose+US+states.>)
 
 ## How it works
 
 A disciplined horizon-scanning workflow for legal and compliance teams. You build a compliance profile once — jurisdictions, sector, headcount, data and AI exposure, supply chain, materiality thresholds — and each scan queries US federal, optionally selected US states, EU, and UK primary sources for what has changed since your last run, suppresses what you have already seen, and scores each development for whether it binds you, what it would take to comply, and by when. Every claim carries a link to the primary source and a verbatim quote from the provision it rests on; anything that cannot be sourced is reported as a named coverage gap rather than summarised from memory. Outputs include an executive memo, a client alert, obligation register rows, a short digest, and a forward compliance calendar. Regulatory intelligence, not legal advice.
 
-## Common use cases
+## What else can you do?
 
   * ### Define your compliance profile
 
-Build a compliance profile and select relevant US states to focus future regulatory scans.
-
 ![](https://files.openai.com/content?id=file_000000009c2481f8b9e6b2dbc533ffed&cdn=1&cp=pi&ma=30326400&ts=0&p=pi&cid=8&sig=cb88bea07f7a355d0efbae2a01208f208fed790260aac686be48a32abb9c0db9&v=0)Compliance Horizon Scanner Set up my compliance profile and help me choose US states.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Compliance+Horizon+Scanner+Set+up+my+compliance+profile+and+help+me+choose+US+states.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Compliance+Horizon+Scanner+Set+up+my+compliance+profile+and+help+me+choose+US+states.>)
 
   * ### Review recent regulatory changes
 
-Find developments since your last scan with sources and explicit coverage gaps.
-
 ![](https://files.openai.com/content?id=file_000000009c2481f8b9e6b2dbc533ffed&cdn=1&cp=pi&ma=30326400&ts=0&p=pi&cid=8&sig=cb88bea07f7a355d0efbae2a01208f208fed790260aac686be48a32abb9c0db9&v=0)Compliance Horizon Scanner Find regulatory changes since my last scan, with sources and gaps.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Compliance+Horizon+Scanner+Find+regulatory+changes+since+my+last+scan%2C+with+sources+and+gaps.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Compliance+Horizon+Scanner+Find+regulatory+changes+since+my+last+scan%2C+with+sources+and+gaps.>)
 
   * ### Plan around regulatory deadlines
 
-Build a calendar of upcoming regulatory deadlines supported by source links.
-
 ![](https://files.openai.com/content?id=file_000000009c2481f8b9e6b2dbc533ffed&cdn=1&cp=pi&ma=30326400&ts=0&p=pi&cid=8&sig=cb88bea07f7a355d0efbae2a01208f208fed790260aac686be48a32abb9c0db9&v=0)Compliance Horizon Scanner Build a sourced calendar of upcoming regulatory deadlines.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Compliance+Horizon+Scanner+Build+a+sourced+calendar+of+upcoming+regulatory+deadlines.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Compliance+Horizon+Scanner+Build+a+sourced+calendar+of+upcoming+regulatory+deadlines.>)
 
 
 

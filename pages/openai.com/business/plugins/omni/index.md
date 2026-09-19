@@ -34,7 +34,7 @@ OpenAI
 
 Query business data
 
-[Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_694e8b8715108191a49fe2db4398d9e2>)[Contact sales](</contact-sales/>)
+[Install plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_694e8b8715108191a49fe2db4398d9e2>)[Contact sales](</contact-sales/>)
 
 Category
     [Data](</business/plugins/?tab=plugins-data-research>)
@@ -45,37 +45,31 @@ Developer
 Website
     [(opens in a new window)](<https://www.omni.co>)
 
-[![](https://files.openai.com/content?id=file_00000000333471f69062a3ef9b51c5cc&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=1&sig=8497e91942dbb748ab58beeaf764b868b0233c8259f5375156a575f257f6ba72)![](https://files.openai.com/content?id=file_00000000b7b871f6a5c1c3749690cca3&cdn=1&cp=pi&ma=32486400&ts=0&p=pi&cid=1&sig=e856610017bcd39e2392d0467d774092cd216436cbe4703d7518137078f5bd73)Omni Analytics Show me last year's orders by status(opens in a new window)](<https://chatgpt.com/?prompt=%40Omni+Analytics+Show+me+last+year%27s+orders+by+status>)[![](https://files.openai.com/content?id=file_00000000333471f69062a3ef9b51c5cc&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=1&sig=8497e91942dbb748ab58beeaf764b868b0233c8259f5375156a575f257f6ba72)![](https://files.openai.com/content?id=file_00000000b7b871f6a5c1c3749690cca3&cdn=1&cp=pi&ma=32486400&ts=0&p=pi&cid=1&sig=e856610017bcd39e2392d0467d774092cd216436cbe4703d7518137078f5bd73)Omni Analytics Where are our users based?(opens in a new window)](<https://chatgpt.com/?prompt=%40Omni+Analytics+Where+are+our+users+based%3F>)[![](https://files.openai.com/content?id=file_00000000333471f69062a3ef9b51c5cc&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=1&sig=8497e91942dbb748ab58beeaf764b868b0233c8259f5375156a575f257f6ba72)![](https://files.openai.com/content?id=file_00000000b7b871f6a5c1c3749690cca3&cdn=1&cp=pi&ma=32486400&ts=0&p=pi&cid=1&sig=e856610017bcd39e2392d0467d774092cd216436cbe4703d7518137078f5bd73)Omni Analytics Give me an analysis of our business over the last few years(opens in a new window)](<https://chatgpt.com/?prompt=%40Omni+Analytics+Give+me+an+analysis+of+our+business+over+the+last+few+years>)
+[![](https://files.openai.com/content?id=file_00000000333471f69062a3ef9b51c5cc&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=1&sig=8497e91942dbb748ab58beeaf764b868b0233c8259f5375156a575f257f6ba72)![](https://files.openai.com/content?id=file_00000000b7b871f6a5c1c3749690cca3&cdn=1&cp=pi&ma=32486400&ts=0&p=pi&cid=1&sig=e856610017bcd39e2392d0467d774092cd216436cbe4703d7518137078f5bd73)Omni Show me last year's orders by status(opens in a new window)](<https://chatgpt.com/?prompt=%40Omni+Show+me+last+year%27s+orders+by+status>)
 
 ## How it works
 
 Omni lets users work with their organization's governed business intelligence data from ChatGPT. The app can list available Omni models, select the best topic for a question, generate and run a single analytical query, start Omni's full AI assistant for deeper multi-step analysis, check the assistant job status, and search Omni documentation.
 
-## Common use cases
+## What else can you do?
 
   * ### Review order performance
 
-Explain how order volumes and completion rates have changed across recent months.
-
 ![](https://files.openai.com/content?id=file_00000000333471f69062a3ef9b51c5cc&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=1&sig=8497e91942dbb748ab58beeaf764b868b0233c8259f5375156a575f257f6ba72)![](https://files.openai.com/content?id=file_00000000b7b871f6a5c1c3749690cca3&cdn=1&cp=pi&ma=32486400&ts=0&p=pi&cid=1&sig=e856610017bcd39e2392d0467d774092cd216436cbe4703d7518137078f5bd73)Omni Analytics Analyze monthly orders by status for the last year using our governed model. Calculate completion rates, identify the largest changes, and recommend which periods or statuses deserve a closer look.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Omni+Analytics+Analyze+monthly+orders+by+status+for+the+last+year+using+our+governed+model.+Calculate+completion+rates%2C+identify+the+largest+changes%2C+and+recommend+which+periods+or+statuses+deserve+a+closer+look.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Omni+Analytics+Analyze+monthly+orders+by+status+for+the+last+year+using+our+governed+model.+Calculate+completion+rates%2C+identify+the+largest+changes%2C+and+recommend+which+periods+or+statuses+deserve+a+closer+look.>)
 
   * ### Compare geographic growth
 
-Identify where your user base is growing and how its geographic mix is changing.
-
 ![](https://files.openai.com/content?id=file_00000000333471f69062a3ef9b51c5cc&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=1&sig=8497e91942dbb748ab58beeaf764b868b0233c8259f5375156a575f257f6ba72)![](https://files.openai.com/content?id=file_00000000b7b871f6a5c1c3749690cca3&cdn=1&cp=pi&ma=32486400&ts=0&p=pi&cid=1&sig=e856610017bcd39e2392d0467d774092cd216436cbe4703d7518137078f5bd73)Omni Analytics Compare active users by country this quarter with last quarter. Show growth rates and each country's share of users, highlight the largest shifts, and state the active-user definition used.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Omni+Analytics+Compare+active+users+by+country+this+quarter+with+last+quarter.+Show+growth+rates+and+each+country%27s+share+of+users%2C+highlight+the+largest+shifts%2C+and+state+the+active-user+definition+used.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Omni+Analytics+Compare+active+users+by+country+this+quarter+with+last+quarter.+Show+growth+rates+and+each+country%27s+share+of+users%2C+highlight+the+largest+shifts%2C+and+state+the+active-user+definition+used.>)
 
   * ### Explain quarterly revenue
 
-Investigate the segments behind quarterly revenue changes and prepare a business review summary.
-
 ![](https://files.openai.com/content?id=file_00000000333471f69062a3ef9b51c5cc&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=1&sig=8497e91942dbb748ab58beeaf764b868b0233c8259f5375156a575f257f6ba72)![](https://files.openai.com/content?id=file_00000000b7b871f6a5c1c3749690cca3&cdn=1&cp=pi&ma=32486400&ts=0&p=pi&cid=1&sig=e856610017bcd39e2392d0467d774092cd216436cbe4703d7518137078f5bd73)Omni Analytics Investigate last quarter's revenue change versus the previous quarter. Use the relevant governed model, drill into the largest segment and product movements, and prepare a concise review with supporting figures.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Omni+Analytics+Investigate+last+quarter%27s+revenue+change+versus+the+previous+quarter.+Use+the+relevant+governed+model%2C+drill+into+the+largest+segment+and+product+movements%2C+and+prepare+a+concise+review+with+supporting+figures.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Omni+Analytics+Investigate+last+quarter%27s+revenue+change+versus+the+previous+quarter.+Use+the+relevant+governed+model%2C+drill+into+the+largest+segment+and+product+movements%2C+and+prepare+a+concise+review+with+supporting+figures.>)
 
 
 

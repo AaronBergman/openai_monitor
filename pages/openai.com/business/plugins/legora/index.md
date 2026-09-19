@@ -34,7 +34,7 @@ OpenAI
 
 Legal research with citations
 
-[Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a8f4e884cd081a49d91eeabec7efa87>)[Contact sales](</contact-sales/>)
+[Install plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a8f4e884cd081a49d91eeabec7efa87>)[Contact sales](</contact-sales/>)
 
 Category
     [Productivity](</business/plugins/?tab=plugins-productivity>)
@@ -45,37 +45,31 @@ Developer
 Website
     [(opens in a new window)](<https://legora.com>)
 
-[![](https://files.openai.com/content?id=file_00000000026881fcacf89c34c00ae264&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=9f7a7c88884594e12ca59cfe6c4310eeb0465a44582ec2e190349d505f40c230&v=0)Legora Ask Legora to summarize the key legal issues in a document and provide a link back to the Legora thread for citation review.(opens in a new window)](<https://chatgpt.com/?prompt=%40Legora+Ask+Legora+to+summarize+the+key+legal+issues+in+a+document+and+provide+a+link+back+to+the+Legora+thread+for+citation+review.>)[![](https://files.openai.com/content?id=file_00000000026881fcacf89c34c00ae264&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=9f7a7c88884594e12ca59cfe6c4310eeb0465a44582ec2e190349d505f40c230&v=0)Legora Ask Legora to research how recent legislation affects a clause in a legal agreement.(opens in a new window)](<https://chatgpt.com/?prompt=%40Legora+Ask+Legora+to+research+how+recent+legislation+affects+a+clause+in+a+legal+agreement.>)[![](https://files.openai.com/content?id=file_00000000026881fcacf89c34c00ae264&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=9f7a7c88884594e12ca59cfe6c4310eeb0465a44582ec2e190349d505f40c230&v=0)Legora Ask Legora to identify key risks in an NDA and explain which points need lawyer review.(opens in a new window)](<https://chatgpt.com/?prompt=%40Legora+Ask+Legora+to+identify+key+risks+in+an+NDA+and+explain+which+points+need+lawyer+review.>)
+[![](https://files.openai.com/content?id=file_00000000026881fcacf89c34c00ae264&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=9f7a7c88884594e12ca59cfe6c4310eeb0465a44582ec2e190349d505f40c230&v=0)Legora Ask Legora to summarize the key legal issues in a document and provide a link back to the Legora thread for citation review.(opens in a new window)](<https://chatgpt.com/?prompt=%40Legora+Ask+Legora+to+summarize+the+key+legal+issues+in+a+document+and+provide+a+link+back+to+the+Legora+thread+for+citation+review.>)
 
 ## How it works
 
 Bring Legora’s legal intelligence into ChatGPT. The Legora MCP server supports legal questions and jurisdiction-scoped research using Legora’s legal research capabilities where available. ChatGPT can ask Legora a question and receive a grounded text answer with links back to Legora for citations, source review, and auditability.
 
-## Common use cases
+## What else can you do?
 
   * ### Review NDA negotiation risks
 
-Identify the most material risks in supplied NDA clauses and prepare focused questions for counsel before negotiations.
-
 ![](https://files.openai.com/content?id=file_00000000026881fcacf89c34c00ae264&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=9f7a7c88884594e12ca59cfe6c4310eeb0465a44582ec2e190349d505f40c230&v=0)Legora Review the NDA clause text below under [jurisdiction] law. Rank the three most material risks, explain their business impact, and suggest questions for counsel. Include a Legora link for citation review.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Legora+Review+the+NDA+clause+text+below+under+%5Bjurisdiction%5D+law.+Rank+the+three+most+material+risks%2C+explain+their+business+impact%2C+and+suggest+questions+for+counsel.+Include+a+Legora+link+for+citation+review.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Legora+Review+the+NDA+clause+text+below+under+%5Bjurisdiction%5D+law.+Rank+the+three+most+material+risks%2C+explain+their+business+impact%2C+and+suggest+questions+for+counsel.+Include+a+Legora+link+for+citation+review.>)
 
   * ### Assess a legislative change
 
-Explain how a law or amendment affects a contract clause, including effective dates and priorities for revision.
-
 ![](https://files.openai.com/content?id=file_00000000026881fcacf89c34c00ae264&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=9f7a7c88884594e12ca59cfe6c4310eeb0465a44582ec2e190349d505f40c230&v=0)Legora Research how [law or amendment] affects the clause text below in [jurisdiction] as of [date]. Summarize material changes, effective dates, and revision priorities, with a Legora link for citation review.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Legora+Research+how+%5Blaw+or+amendment%5D+affects+the+clause+text+below+in+%5Bjurisdiction%5D+as+of+%5Bdate%5D.+Summarize+material+changes%2C+effective+dates%2C+and+revision+priorities%2C+with+a+Legora+link+for+citation+review.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Legora+Research+how+%5Blaw+or+amendment%5D+affects+the+clause+text+below+in+%5Bjurisdiction%5D+as+of+%5Bdate%5D.+Summarize+material+changes%2C+effective+dates%2C+and+revision+priorities%2C+with+a+Legora+link+for+citation+review.>)
 
   * ### Compare market entry requirements
 
-Compare legal obligations for a business activity in two jurisdictions and highlight differences that affect market entry.
-
 ![](https://files.openai.com/content?id=file_00000000026881fcacf89c34c00ae264&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=9f7a7c88884594e12ca59cfe6c4310eeb0465a44582ec2e190349d505f40c230&v=0)Legora Compare [business activity] requirements in [jurisdiction A] and [jurisdiction B] as of [date]. Produce a decision brief on key obligations, material differences, and unresolved questions, with Legora links for citation review.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Legora+Compare+%5Bbusiness+activity%5D+requirements+in+%5Bjurisdiction+A%5D+and+%5Bjurisdiction+B%5D+as+of+%5Bdate%5D.+Produce+a+decision+brief+on+key+obligations%2C+material+differences%2C+and+unresolved+questions%2C+with+Legora+links+for+citation+review.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Legora+Compare+%5Bbusiness+activity%5D+requirements+in+%5Bjurisdiction+A%5D+and+%5Bjurisdiction+B%5D+as+of+%5Bdate%5D.+Produce+a+decision+brief+on+key+obligations%2C+material+differences%2C+and+unresolved+questions%2C+with+Legora+links+for+citation+review.>)
 
 
 

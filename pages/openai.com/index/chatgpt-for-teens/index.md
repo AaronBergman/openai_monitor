@@ -45,9 +45,13 @@ This launch builds on the foundational work to support teens on our platform inc
 We believe AI should expand educational opportunity, which is why we designed ChatGPT for Teens to support moments outside the classroom when help is not always available, while keeping teens engaged in an active and collaborative learning process. A teen studying for a test, for example, can ask ChatGPT to explain an unfamiliar concept, work through a practice problem, and check their understanding. If they ask for a quick answer, ChatGPT for Teens can guide them toward the steps and questions that help them work through it themselves. The experience brings together: 
 
   * Study Mode, which uses guiding questions and step-by-step support to help teens understand the material.
+
   * New responsible homework reminders, which can recognize when a teen appears to be trying to shortcut an assignment and redirect them toward Study Mode for step-by-step collaborative problem solving.
+
   * Quizzes and [_Learning Visualizations_](</index/new-ways-to-learn-math-and-science-in-chatgpt/>) which give teens more ways to practice, test what they know, and see difficult concepts more clearly to test understanding.
+
   * And with new Study Hours, teens or parents can choose times when Study Mode is on by default, making it easier to turn better study habits into a routine.
+
 
 
 
@@ -98,8 +102,11 @@ We’re continuing to strengthen ChatGPT’s age-appropriate behavior for users 
 We are also adding cues and controls that are meant to reduce risk in context and point teens toward useful tools and protections, including: 
 
   * Sensitive-image upload reminders caution teens against sharing private or sensitive images. 
+
   * Teen-specific onboarding introduces the learning and safety features available to them from the start. 
+
   * And simple customization options, like accent colors and voice variations, help make the experience feel personal without blurring the line between a useful tool and a human relationship.
+
 
 
 
@@ -128,17 +135,17 @@ OpenAI
 
 [View all](</news/>)
 
-![Now everyone can put data to work — card image](https://images.ctfassets.net/kftzwdyauwt9/6FhMXOSe8XadGwEUev6QjJ/916a64d20bcc59b8619fea1827fa6bd3/put-data-to-work--cover-v001.png?w=3840&q=90&fm=webp)
+![Reimagining advertising with AI — Card cover](https://images.ctfassets.net/kftzwdyauwt9/fHwkKLVG8WFHvuUPqMXtz/1c49ba0859fe1e1e21f5d64f692490f5/reimagining-advertising-with-ai-cover.png?w=3840&q=90&fm=webp)
 
-[Now everyone can put data to workProductSep 10, 2026](</index/put-data-to-work/>)
+[Reimagining advertising with AIProductSep 16, 2026](</index/reimagining-advertising-with-ai/>)
 
-![FinServ Blog - Art Card Texture Square](https://images.ctfassets.net/kftzwdyauwt9/6Bcg403pebiJhQdHUS17FK/572e478dc4579deca27c9700c662e908/finserv-art-card.png?w=3840&q=90&fm=webp)
+![How to connect AI usage to business value — art card](https://images.ctfassets.net/kftzwdyauwt9/36T42HPkipcJAs08yNirmR/f73d9408ef4f0b08b5cce3b839656843/cover-018.png?w=3840&q=90&fm=webp)
 
-[Introducing ChatGPT for Financial ServicesProductSep 10, 2026](</index/introducing-chatgpt-financial-services/>)
+[How to connect AI usage to business valueProductSep 16, 2026](</index/how-to-connect-ai-usage-to-business-value/>)
 
-![GPT-Live-1 API | Green-blue cover | Option 038](https://images.ctfassets.net/kftzwdyauwt9/1uBabEULLfw3Vb2Gldmyyq/c19c1c121ca403ee8b2703cba18ef82d/introducing-gpt-live-1-green-cover.png?w=3840&q=90&fm=webp)
+![Our framework for reporting model misalignment — card image](https://images.ctfassets.net/kftzwdyauwt9/3mJz9GkBOjZvAMYPx8M1dj/2a9ac4b7e18b1c08feef5368c4fde2e2/model-misalignment-reporting-framework--cover-v002.png?w=3840&q=90&fm=webp)
 
-[Build more natural voice experiences with GPT‑Live‑1 in the APIProductSep 10, 2026](</index/introducing-gpt-live-1-in-the-api/>)
+[Our framework for reporting model misalignmentResearchSep 16, 2026](</index/model-misalignment-reporting-framework/>)
 
 Research
 

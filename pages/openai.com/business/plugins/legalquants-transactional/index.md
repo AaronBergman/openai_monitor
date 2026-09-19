@@ -34,7 +34,7 @@ OpenAI
 
 Contract and deal workflows
 
-[Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugins_6aa11c28e0508191be4554b18c907693>)[Contact sales](</contact-sales/>)
+[Install plugin(opens in a new window)](<https://chatgpt.com/plugins/plugins_6aa11c28e0508191be4554b18c907693>)[Contact sales](</contact-sales/>)
 
 Category
     [Productivity](</business/plugins/?tab=plugins-productivity>)
@@ -45,37 +45,31 @@ Developer
 Website
     [(opens in a new window)](<https://legalquants.com>)
 
-[![](https://files.openai.com/content?id=file_000000007014820c953ab6bad806a6cb&cdn=1&cp=pi&ma=31536000&ts=0&p=pi&cid=8&sig=e9542bc464e9059accb64cafd4f092eb30b57a3cab17c7990532fa3b2dc2322d&v=0)LegalQuants Transactional Check the defined terms in this agreement.(opens in a new window)](<https://chatgpt.com/?prompt=%40LegalQuants+Transactional+Check+the+defined+terms+in+this+agreement.>)[![](https://files.openai.com/content?id=file_000000007014820c953ab6bad806a6cb&cdn=1&cp=pi&ma=31536000&ts=0&p=pi&cid=8&sig=e9542bc464e9059accb64cafd4f092eb30b57a3cab17c7990532fa3b2dc2322d&v=0)LegalQuants Transactional Build the closing checklist from the SPA.(opens in a new window)](<https://chatgpt.com/?prompt=%40LegalQuants+Transactional+Build+the+closing+checklist+from+the+SPA.>)[![](https://files.openai.com/content?id=file_000000007014820c953ab6bad806a6cb&cdn=1&cp=pi&ma=31536000&ts=0&p=pi&cid=8&sig=e9542bc464e9059accb64cafd4f092eb30b57a3cab17c7990532fa3b2dc2322d&v=0)LegalQuants Transactional Build the signing packs for this closing.(opens in a new window)](<https://chatgpt.com/?prompt=%40LegalQuants+Transactional+Build+the+signing+packs+for+this+closing.>)
+[![](https://files.openai.com/content?id=file_000000007014820c953ab6bad806a6cb&cdn=1&cp=pi&ma=31536000&ts=0&p=pi&cid=8&sig=e9542bc464e9059accb64cafd4f092eb30b57a3cab17c7990532fa3b2dc2322d&v=0)LegalQuants Transactional Check the defined terms in this agreement.(opens in a new window)](<https://chatgpt.com/?prompt=%40LegalQuants+Transactional+Check+the+defined+terms+in+this+agreement.>)
 
 ## How it works
 
 Deal workflows for transactional attorneys, with shared daily-practice tools.
 
-## Common use cases
+## What else can you do?
 
   * ### Check an agreement's defined terms
 
-Review defined terms in an agreement and surface inconsistencies that need attention.
-
 ![](https://files.openai.com/content?id=file_000000007014820c953ab6bad806a6cb&cdn=1&cp=pi&ma=31536000&ts=0&p=pi&cid=8&sig=e9542bc464e9059accb64cafd4f092eb30b57a3cab17c7990532fa3b2dc2322d&v=0)LegalQuants Transactional Check the defined terms in this agreement.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40LegalQuants+Transactional+Check+the+defined+terms+in+this+agreement.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40LegalQuants+Transactional+Check+the+defined+terms+in+this+agreement.>)
 
   * ### Build a closing checklist
 
-Turn a share purchase agreement into a checklist for tracking the closing.
-
 ![](https://files.openai.com/content?id=file_000000007014820c953ab6bad806a6cb&cdn=1&cp=pi&ma=31536000&ts=0&p=pi&cid=8&sig=e9542bc464e9059accb64cafd4f092eb30b57a3cab17c7990532fa3b2dc2322d&v=0)LegalQuants Transactional Build the closing checklist from the SPA.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40LegalQuants+Transactional+Build+the+closing+checklist+from+the+SPA.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40LegalQuants+Transactional+Build+the+closing+checklist+from+the+SPA.>)
 
   * ### Prepare closing signing packs
 
-Assemble signing packs from the supplied closing materials for review.
-
 ![](https://files.openai.com/content?id=file_000000007014820c953ab6bad806a6cb&cdn=1&cp=pi&ma=31536000&ts=0&p=pi&cid=8&sig=e9542bc464e9059accb64cafd4f092eb30b57a3cab17c7990532fa3b2dc2322d&v=0)LegalQuants Transactional Build the signing packs for this closing.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40LegalQuants+Transactional+Build+the+signing+packs+for+this+closing.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40LegalQuants+Transactional+Build+the+signing+packs+for+this+closing.>)
 
 
 

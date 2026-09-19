@@ -1,5 +1,42 @@
 # openai_monitor
 
+## 2026-09-19T09-15Z
+
+**Fetch time:** 2026-09-19T09:15Z–09:19Z UTC | **Baseline:** 2026-09-18T09-15Z (consecutive day)
+
+**TL;DR:** OpenAI roughly doubled the size of its business-plugins directory overnight, adding **224 new plugin listings in a single day** — Slack/Gmail-style integrations for tools spanning dev infrastructure (GitLab, Datadog, Supabase, DigitalOcean), finance/crypto (Binance, CoinGecko, Xero, FactSet), sales/CRM (Apollo, Gong, Outreach, LinkedIn), HR (Ashby, Workable, Lattice), customer support (Zendesk, Pylon), AI-agent tooling (Manus, Browser Use, Firecrawl, Exa, Context7), and more. Two brand-new plugin categories appeared (Customer Support, HR), the plugin directory landing page got a full redesign (new hero, example-prompt cards, a 3-step "Add plugins in a few clicks" walkthrough), and all 224 new plugin pages plus many existing ones picked up a matching template (an "Install plugin" CTA, `surface=work`-tagged try-it links, and a display-name fix for the "App" field that previously leaked a raw internal connector ID). Separately, OpenAI's release notes gained three GA features — **ChatGPT is now available in Microsoft Word** (joining Excel/PowerPoint, enabled by default for Business/Enterprise/Edu starting Oct 1), **multi-account plugin connections**, and **SCIM provisioning for API Platform** — published a new **Australian Youth Safety Blueprint** policy document tied to the ChatGPT for Teens rollout, added a **Hex** customer case study for GPT‑6 Astra, and gave **Skadden** a testimonial quote on the Astra for Law page (joining Cooley and Ropes & Gray). The entire partner directory grid also became clickable (each of ~140 partner logos now links to its own profile page). No timestamp anomalies. 1,974 total URLs across 42 sub-sitemaps (up from 1,748 across 40).
+
+### Anomalies
+
+No future-dated or backwards-moving `<lastmod>` values, no backdated new URLs, no reappeared URLs. Three structural anomalies this run, all explained by the plugins-directory expansion:
+- **Two new sub-sitemap sections**: `plugins-customer-support` (9 URLs: Zendesk, Pylon, Unthread, Gleap, and others) and `plugins-hr` (8 URLs: Ashby, Workable, Teamtailor, Lattice, LinkedIn, Upwork, Manatal, Gusto).
+- **1 cross-listing addition**: `business/plugins/gusto/` gained a 4th category (plugins-hr) alongside its existing finance/operations/small-business listings.
+
+Full detail in [`runs/2026-09-19T09-15Z/analysis.md`](runs/2026-09-19T09-15Z/analysis.md).
+
+### Notable additions
+
+- **224 new business-plugin listings**, roughly doubling the directory in one day (was ~110 pages before yesterday's legal-plugin push, now 300+). Two new categories: [Customer Support](pages/openai.com/business/plugins/index.md) and HR. Notable/recognizable new integrations include dev tools ([GitLab](pages/openai.com/business/plugins/gitlab/index.md), [Datadog](pages/openai.com/business/plugins/datadog/index.md), [Supabase](pages/openai.com/business/plugins/supabase/index.md), [Vanta](pages/openai.com/business/plugins/vanta/index.md)), AI-agent/search tooling ([Manus](pages/openai.com/business/plugins/manus/index.md), [Browser Use](pages/openai.com/business/plugins/browser-use/index.md), [Firecrawl](pages/openai.com/business/plugins/firecrawl/index.md), [Exa](pages/openai.com/business/plugins/exa/index.md), [Context7](pages/openai.com/business/plugins/context7/index.md), [Wolfram](pages/openai.com/business/plugins/wolfram/index.md)), finance/crypto ([Binance](pages/openai.com/business/plugins/binance/index.md), [CoinGecko](pages/openai.com/business/plugins/coingecko/index.md), [Xero](pages/openai.com/business/plugins/xero/index.md), [FactSet](pages/openai.com/business/plugins/factset/index.md)), sales/CRM ([Apollo](pages/openai.com/business/plugins/apollo/index.md), [Gong](pages/openai.com/business/plugins/gong/index.md), [Outreach](pages/openai.com/business/plugins/outreach/index.md), [LinkedIn](pages/openai.com/business/plugins/linkedin/index.md)), HR ([Ashby](pages/openai.com/business/plugins/ashby/index.md), [Workable](pages/openai.com/business/plugins/workable/index.md), [Lattice](pages/openai.com/business/plugins/lattice/index.md)), customer support ([Zendesk](pages/openai.com/business/plugins/zendesk/index.md), [Pylon](pages/openai.com/business/plugins/pylon/index.md)), and creative/productivity tools ([Trello](pages/openai.com/business/plugins/trello/index.md), [Webflow](pages/openai.com/business/plugins/webflow/index.md), [Miro](pages/openai.com/business/plugins/miro/index.md), [Gamma](pages/openai.com/business/plugins/gamma/index.md), HeyGen, Runway, Descript). Full list of all 224 in [`runs/2026-09-19T09-15Z/diff.json`](runs/2026-09-19T09-15Z/diff.json).
+- **[Introducing the Australian Youth Safety Blueprint](pages/openai.com/index/australian-youth-safety-blueprint/index.md)** — new policy PDF setting out six pillars for protecting teens using AI in Australia (AI literacy, age-appropriate safeguards, privacy-protective age assurance, crisis-support links, parental controls, industry accountability), tied to the ChatGPT for Teens rollout that began there in August.
+- **[Hex turns complex analysis into visual reports with GPT‑6 Astra](pages/openai.com/index/hex-gpt-6-astra/index.md)** — new startup customer case study: Hex's agentic data platform uses GPT‑6 Astra to generate interactive data-visualization artifacts employees are "proud to share."
+
+### Notable updates
+
+- **[Business plugins directory](pages/openai.com/business/plugins/index.md) full redesign** — new hero ("Work across your favorite apps from ChatGPT"), 12 example-prompt cards for flagship plugins (Slack, Gmail, GitHub, HubSpot, Figma, Adobe, Salesforce, Outlook, Databricks, Canva, Snowflake), expanded category tabs (Customer Support and HR added), a new 3-step "Add plugins in a few clicks" walkthrough with screenshots, and a rewritten FAQ. Matching template refresh landed on all 224 new plugin pages and many existing ones: "Add plugin" → "Install plugin" CTA, a new example-prompt teaser section, "Common use cases" renamed "What else can you do?", try-it links gained a `surface=work` parameter, and the "App" field now shows a human-readable name instead of a raw internal connector ID.
+- **[Release notes](pages/openai.com/products/release-notes/index.md)** — 3 new GA entries (Sep 17): **ChatGPT for Word** (joins Excel/PowerPoint; on all plans including Free; enabled by default for Business/Enterprise/Edu starting Oct 1, 2026); **multi-account plugin connections** (mix personal and work accounts in one chat, beyond just Gmail/Calendar/Contacts); **SCIM for API Platform** (Enterprise/Edu admins can now provision API-org access via synced identity-provider groups).
+- **[Introducing Astra for Law](pages/openai.com/index/astra-for-law/index.md)** — gained a fourth law-firm testimonial: Skadden joins Cooley and Ropes & Gray, with a quote about building regulatory-risk-assessment tools.
+- **[Business partners directory](pages/openai.com/business/partners/index.md)** — all ~140 partner logos are now clickable links to individual `/business/partners/<slug>/` profile pages (previously static logo + name).
+- **[Developer platform homepage](pages/openai.com/api/index.md)** — top-nav/hero CTA changed from "Start building → platform.openai.com" to "Try ChatGPT → chatgpt.com," a minor but notable shift toward promoting ChatGPT even on the API landing page.
+- ~15 other `/index/*` article pages had their only change be the routine "recent posts" carousel picking up today's two new pages; 3 partner-profile pages (EXL Service, KPMG, Quantiphi) changed only a CDN deploy-hash in an image URL; 124 further URLs bumped `<lastmod>` with zero visible content change.
+
+### Removed pages
+
+None this run.
+
+_Stats: 1974 total URLs | 226 added | 233 updated (109 with visible content diff) | 0 removed | 3 anomalies (2 new sub-sitemap sections + 1 cross-listing addition) | 42 sub-sitemaps_
+
+---
+
 ## 2026-09-18T09-15Z
 
 **Fetch time:** 2026-09-18T09:15Z–09:25Z UTC | **Baseline:** 2026-09-17T09-15Z (consecutive day)

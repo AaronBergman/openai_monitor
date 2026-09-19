@@ -146,6 +146,10 @@ Looking ahead, Fyxer is building a richer understanding of relationships, prefer
 
 [View all](</news/>)
 
+![Hex customer story art card - Option A](https://images.ctfassets.net/kftzwdyauwt9/5bCMJ2MIvqqM2APZbalxmT/c17219c832b98a3a79a4b9d014fecda8/square.png?w=3840&q=90&fm=webp)
+
+[Hex turns complex analysis into visual reports with GPT‑6 AstraStartupSep 16, 2026](</index/hex-gpt-6-astra/>)
+
 ![Legora customer story art card - Option C](https://images.ctfassets.net/kftzwdyauwt9/13uynVdSWJS9UT4Y7EppMn/7259e4915a7e6ea2f4c52c2109eace61/square.png?w=3840&q=90&fm=webp)
 
 [Legora reviewed 41 documents in minutes with GPT-6 AstraStartupSep 3, 2026](</index/legora-financial-statement-review-with-astra/>)
@@ -153,10 +157,6 @@ Looking ahead, Fyxer is building a richer understanding of relationships, prefer
 ![Playco Astra customer story art card - Option B](https://images.ctfassets.net/kftzwdyauwt9/2GBXEJdShwgtUKQZc9Ojsm/ae87410a653bd421e514515deee02940/playco-art-card-option-b-approved.png?w=3840&q=90&fm=webp)
 
 [Playco cut manual fixes 50% prototyping games with GPT-6 AstraStartupSep 3, 2026](</index/playco-game-prototyping-with-astra/>)
-
-![replit-customer-story-art-card-1x1](https://images.ctfassets.net/kftzwdyauwt9/2ZUd2sTOK6p4MrjDZnvCoM/512b38a71cf26f09c3cda3c51169c401/replit-customer-story-art-card-1x1.png?w=3840&q=90&fm=webp)
-
-[Replit expands access to software creation with GPT-5.6 LunaStartupAug 19, 2026](</index/replit/>)
 
 Research
 

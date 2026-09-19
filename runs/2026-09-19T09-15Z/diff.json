@@ -1,0 +1,1419 @@
+{
+  "run_id": "2026-09-19T09-15Z",
+  "fetch_time": "2026-09-19T09:15:00Z-09:19:00Z",
+  "baseline": "2026-09-18T09-15Z",
+  "added": [
+    "https://openai.com/business/plugins/01-superdesign/",
+    "https://openai.com/business/plugins/academic-writing-toolkit/",
+    "https://openai.com/business/plugins/accuratescribe/",
+    "https://openai.com/business/plugins/activecampaign/",
+    "https://openai.com/business/plugins/adspirer/",
+    "https://openai.com/business/plugins/affinity/",
+    "https://openai.com/business/plugins/ahrefs/",
+    "https://openai.com/business/plugins/ai-graphic-design/",
+    "https://openai.com/business/plugins/ai-video-maker/",
+    "https://openai.com/business/plugins/ai-voice-generator/",
+    "https://openai.com/business/plugins/aiera/",
+    "https://openai.com/business/plugins/alpha-vantage/",
+    "https://openai.com/business/plugins/apollo/",
+    "https://openai.com/business/plugins/appdeploy/",
+    "https://openai.com/business/plugins/ashby/",
+    "https://openai.com/business/plugins/attio/",
+    "https://openai.com/business/plugins/audioscrape/",
+    "https://openai.com/business/plugins/autodesk-product-help/",
+    "https://openai.com/business/plugins/aws-core/",
+    "https://openai.com/business/plugins/base44/",
+    "https://openai.com/business/plugins/bigdata-com/",
+    "https://openai.com/business/plugins/binance/",
+    "https://openai.com/business/plugins/brevo/",
+    "https://openai.com/business/plugins/browser-use/",
+    "https://openai.com/business/plugins/build-web-data-visualization/",
+    "https://openai.com/business/plugins/calendly/",
+    "https://openai.com/business/plugins/catalyst-by-zoho/",
+    "https://openai.com/business/plugins/chatgpt-admin/",
+    "https://openai.com/business/plugins/chatgpt-ads-manager/",
+    "https://openai.com/business/plugins/circleback/",
+    "https://openai.com/business/plugins/close/",
+    "https://openai.com/business/plugins/coda/",
+    "https://openai.com/business/plugins/codex-security/",
+    "https://openai.com/business/plugins/coingecko/",
+    "https://openai.com/business/plugins/coinmarketcap/",
+    "https://openai.com/business/plugins/company-knowledge/",
+    "https://openai.com/business/plugins/consensus/",
+    "https://openai.com/business/plugins/context7/",
+    "https://openai.com/business/plugins/coursera-learning/",
+    "https://openai.com/business/plugins/creative-claw/",
+    "https://openai.com/business/plugins/datadog/",
+    "https://openai.com/business/plugins/datasite/",
+    "https://openai.com/business/plugins/demandbase/",
+    "https://openai.com/business/plugins/descript/",
+    "https://openai.com/business/plugins/digitalocean/",
+    "https://openai.com/business/plugins/documents/",
+    "https://openai.com/business/plugins/dropbox-dash/",
+    "https://openai.com/business/plugins/easyreply/",
+    "https://openai.com/business/plugins/elevenlabs/",
+    "https://openai.com/business/plugins/elicit/",
+    "https://openai.com/business/plugins/exa/",
+    "https://openai.com/business/plugins/explain-video-generator/",
+    "https://openai.com/business/plugins/factset/",
+    "https://openai.com/business/plugins/fal/",
+    "https://openai.com/business/plugins/fathom/",
+    "https://openai.com/business/plugins/fieldy/",
+    "https://openai.com/business/plugins/financial-datasets/",
+    "https://openai.com/business/plugins/firecrawl/",
+    "https://openai.com/business/plugins/floot/",
+    "https://openai.com/business/plugins/foreflight-mobile/",
+    "https://openai.com/business/plugins/forms-ai/",
+    "https://openai.com/business/plugins/gamma/",
+    "https://openai.com/business/plugins/gitbook/",
+    "https://openai.com/business/plugins/gitlab/",
+    "https://openai.com/business/plugins/gleap/",
+    "https://openai.com/business/plugins/godaddy/",
+    "https://openai.com/business/plugins/gong/",
+    "https://openai.com/business/plugins/google-contacts/",
+    "https://openai.com/business/plugins/grain/",
+    "https://openai.com/business/plugins/granola/",
+    "https://openai.com/business/plugins/gsc-seo-and-content-planner/",
+    "https://openai.com/business/plugins/gsc-wizard/",
+    "https://openai.com/business/plugins/happyscribe/",
+    "https://openai.com/business/plugins/hatchable/",
+    "https://openai.com/business/plugins/helium-10/",
+    "https://openai.com/business/plugins/heygen/",
+    "https://openai.com/business/plugins/higgsfield/",
+    "https://openai.com/business/plugins/highspot/",
+    "https://openai.com/business/plugins/hostinger-connector/",
+    "https://openai.com/business/plugins/hostinger-mail/",
+    "https://openai.com/business/plugins/hostinger/",
+    "https://openai.com/business/plugins/hunter/",
+    "https://openai.com/business/plugins/hypd-ai/",
+    "https://openai.com/business/plugins/hyperframes-by-heygen/",
+    "https://openai.com/business/plugins/instantly-ai/",
+    "https://openai.com/business/plugins/interactive-brokers/",
+    "https://openai.com/business/plugins/invideo/",
+    "https://openai.com/business/plugins/jobtread/",
+    "https://openai.com/business/plugins/jotform/",
+    "https://openai.com/business/plugins/khan-academy/",
+    "https://openai.com/business/plugins/kling-ai/",
+    "https://openai.com/business/plugins/krisp/",
+    "https://openai.com/business/plugins/lattice/",
+    "https://openai.com/business/plugins/legal-data-hunter/",
+    "https://openai.com/business/plugins/life-sciences-literature/",
+    "https://openai.com/business/plugins/life-sciences-ngs-analysis/",
+    "https://openai.com/business/plugins/linkedin-ads/",
+    "https://openai.com/business/plugins/linkedin/",
+    "https://openai.com/business/plugins/litera-lito/",
+    "https://openai.com/business/plugins/longbridge/",
+    "https://openai.com/business/plugins/lucid/",
+    "https://openai.com/business/plugins/lusha/",
+    "https://openai.com/business/plugins/magnific/",
+    "https://openai.com/business/plugins/mailerlite/",
+    "https://openai.com/business/plugins/mailopoly-inbox/",
+    "https://openai.com/business/plugins/make/",
+    "https://openai.com/business/plugins/malwarebytes/",
+    "https://openai.com/business/plugins/manatal/",
+    "https://openai.com/business/plugins/manus/",
+    "https://openai.com/business/plugins/massive/",
+    "https://openai.com/business/plugins/mcp-server-for-wordpress/",
+    "https://openai.com/business/plugins/mermaid-chart/",
+    "https://openai.com/business/plugins/metaview/",
+    "https://openai.com/business/plugins/metricool/",
+    "https://openai.com/business/plugins/microsoft-dataverse/",
+    "https://openai.com/business/plugins/midpage/",
+    "https://openai.com/business/plugins/miro/",
+    "https://openai.com/business/plugins/mixpanel-headless/",
+    "https://openai.com/business/plugins/mobbin/",
+    "https://openai.com/business/plugins/muninx/",
+    "https://openai.com/business/plugins/namecheap/",
+    "https://openai.com/business/plugins/neon/",
+    "https://openai.com/business/plugins/netsuite/",
+    "https://openai.com/business/plugins/ngs-analysis-workbench/",
+    "https://openai.com/business/plugins/nvidia-skills/",
+    "https://openai.com/business/plugins/omnisend/",
+    "https://openai.com/business/plugins/onenote/",
+    "https://openai.com/business/plugins/openai-ads-conversions/",
+    "https://openai.com/business/plugins/openai-developers/",
+    "https://openai.com/business/plugins/openart/",
+    "https://openai.com/business/plugins/opera-browser-connector/",
+    "https://openai.com/business/plugins/otter-ai/",
+    "https://openai.com/business/plugins/outreach/",
+    "https://openai.com/business/plugins/parallel-search/",
+    "https://openai.com/business/plugins/parqet/",
+    "https://openai.com/business/plugins/pdf/",
+    "https://openai.com/business/plugins/peach-for-whatsapp-business/",
+    "https://openai.com/business/plugins/pendo/",
+    "https://openai.com/business/plugins/picsart/",
+    "https://openai.com/business/plugins/planning-center/",
+    "https://openai.com/business/plugins/plaud/",
+    "https://openai.com/business/plugins/pocket-ai/",
+    "https://openai.com/business/plugins/presentations/",
+    "https://openai.com/business/plugins/prompt-perfect/",
+    "https://openai.com/business/plugins/pylon/",
+    "https://openai.com/business/plugins/qbo-connector-by-meridian/",
+    "https://openai.com/business/plugins/quartr/",
+    "https://openai.com/business/plugins/quo/",
+    "https://openai.com/business/plugins/railway/",
+    "https://openai.com/business/plugins/read-ai/",
+    "https://openai.com/business/plugins/remote-desktop-commander/",
+    "https://openai.com/business/plugins/render/",
+    "https://openai.com/business/plugins/resend/",
+    "https://openai.com/business/plugins/ringcentral-phone/",
+    "https://openai.com/business/plugins/rocketreach/",
+    "https://openai.com/business/plugins/runway/",
+    "https://openai.com/business/plugins/sanity/",
+    "https://openai.com/business/plugins/scholar-gateway/",
+    "https://openai.com/business/plugins/scispace/",
+    "https://openai.com/business/plugins/scite/",
+    "https://openai.com/business/plugins/se-ranking/",
+    "https://openai.com/business/plugins/seismic/",
+    "https://openai.com/business/plugins/sent/",
+    "https://openai.com/business/plugins/sentinelx/",
+    "https://openai.com/business/plugins/shipstatic/",
+    "https://openai.com/business/plugins/shutterstock/",
+    "https://openai.com/business/plugins/sider-scholar/",
+    "https://openai.com/business/plugins/slidesgpt/",
+    "https://openai.com/business/plugins/smartsheet-us/",
+    "https://openai.com/business/plugins/soundbreak/",
+    "https://openai.com/business/plugins/sp-global-deterministic/",
+    "https://openai.com/business/plugins/spinach-ai/",
+    "https://openai.com/business/plugins/spreadsheets/",
+    "https://openai.com/business/plugins/supabase/",
+    "https://openai.com/business/plugins/superhuman-docs/",
+    "https://openai.com/business/plugins/superhuman-mail/",
+    "https://openai.com/business/plugins/supermetrics/",
+    "https://openai.com/business/plugins/support-ticket-validator/",
+    "https://openai.com/business/plugins/sync-labs/",
+    "https://openai.com/business/plugins/tally/",
+    "https://openai.com/business/plugins/tavily-ai/",
+    "https://openai.com/business/plugins/teamtailor/",
+    "https://openai.com/business/plugins/temporal/",
+    "https://openai.com/business/plugins/text/",
+    "https://openai.com/business/plugins/third-bridge/",
+    "https://openai.com/business/plugins/thoughtspot-spotter/",
+    "https://openai.com/business/plugins/ticktick/",
+    "https://openai.com/business/plugins/tinyfish/",
+    "https://openai.com/business/plugins/tldv/",
+    "https://openai.com/business/plugins/to3d/",
+    "https://openai.com/business/plugins/transkriptor/",
+    "https://openai.com/business/plugins/trello/",
+    "https://openai.com/business/plugins/twilio-developer-kit/",
+    "https://openai.com/business/plugins/typeform/",
+    "https://openai.com/business/plugins/ubersuggest/",
+    "https://openai.com/business/plugins/undermind/",
+    "https://openai.com/business/plugins/unthread/",
+    "https://openai.com/business/plugins/upwork/",
+    "https://openai.com/business/plugins/vanta/",
+    "https://openai.com/business/plugins/veed-video-generator/",
+    "https://openai.com/business/plugins/ventor/",
+    "https://openai.com/business/plugins/vidiq/",
+    "https://openai.com/business/plugins/visla-video-maker/",
+    "https://openai.com/business/plugins/voder/",
+    "https://openai.com/business/plugins/weavely-forms-and-surveys/",
+    "https://openai.com/business/plugins/webflow/",
+    "https://openai.com/business/plugins/werify/",
+    "https://openai.com/business/plugins/whimsical/",
+    "https://openai.com/business/plugins/whisper-transcribe-ai/",
+    "https://openai.com/business/plugins/windsor-ai-facebook-ads/",
+    "https://openai.com/business/plugins/windsor-ai-google-ads/",
+    "https://openai.com/business/plugins/windsor-ai/",
+    "https://openai.com/business/plugins/wispr-flow/",
+    "https://openai.com/business/plugins/wolfram/",
+    "https://openai.com/business/plugins/wordpress-com/",
+    "https://openai.com/business/plugins/workable/",
+    "https://openai.com/business/plugins/wpvibe/",
+    "https://openai.com/business/plugins/wpwriter/",
+    "https://openai.com/business/plugins/wrike/",
+    "https://openai.com/business/plugins/xero/",
+    "https://openai.com/business/plugins/xmind/",
+    "https://openai.com/business/plugins/zendesk/",
+    "https://openai.com/business/plugins/zoom-revenue-accelerator/",
+    "https://openai.com/business/plugins/zotero/",
+    "https://openai.com/index/australian-youth-safety-blueprint/",
+    "https://openai.com/index/hex-gpt-6-astra/"
+  ],
+  "removed": [],
+  "updated": [
+    {
+      "url": "https://openai.com/api/",
+      "old_lastmod": "2026-09-18T07:34:56.834Z",
+      "new_lastmod": "2026-09-18T12:16:34.733Z"
+    },
+    {
+      "url": "https://openai.com/business/contact-sales-legal/",
+      "old_lastmod": "2026-09-18T08:54:46.305Z",
+      "new_lastmod": "2026-09-19T01:52:00.341Z"
+    },
+    {
+      "url": "https://openai.com/business/partners/",
+      "old_lastmod": "2026-09-18T08:45:29.895Z",
+      "new_lastmod": "2026-09-18T23:27:38.761Z"
+    },
+    {
+      "url": "https://openai.com/business/partners/aws/",
+      "old_lastmod": "2026-09-18T08:51:09.920Z",
+      "new_lastmod": "2026-09-19T00:59:47.677Z"
+    },
+    {
+      "url": "https://openai.com/business/partners/exl-service/",
+      "old_lastmod": "2026-09-18T07:01:15.128Z",
+      "new_lastmod": "2026-09-19T02:30:14.474Z"
+    },
+    {
+      "url": "https://openai.com/business/partners/hubspot/",
+      "old_lastmod": "2026-09-17T12:39:01.106Z",
+      "new_lastmod": "2026-09-18T20:58:03.140Z"
+    },
+    {
+      "url": "https://openai.com/business/partners/kpmg/",
+      "old_lastmod": "2026-09-17T19:04:39.902Z",
+      "new_lastmod": "2026-09-18T18:33:10.669Z"
+    },
+    {
+      "url": "https://openai.com/business/partners/quantiphi/",
+      "old_lastmod": "2026-09-17T09:17:00.410Z",
+      "new_lastmod": "2026-09-18T10:46:38.642Z"
+    },
+    {
+      "url": "https://openai.com/business/partners/quickbooks/",
+      "old_lastmod": "2026-09-17T06:59:03.471Z",
+      "new_lastmod": "2026-09-18T23:46:11.519Z"
+    },
+    {
+      "url": "https://openai.com/business/plugins/",
+      "old_lastmod": "2026-09-17T20:49:01.687Z",
+      "new_lastmod": "2026-09-19T09:16:22.613Z"
+    },
+    {
+      "url": "https://openai.com/business/plugins/adobe-acrobat/",
+      "old_lastmod": "2026-09-17T21:56:52.810Z",
+      "new_lastmod": "2026-09-19T05:07:44.060Z"
+    },
+    {
+      "url": "https://openai.com/business/plugins/adobe-express/",
+      "old_lastmod": "2026-09-17T22:02:44.817Z",
+      "new_lastmod": "2026-09-19T03:13:11.967Z"
+    },
+    {
+      "url": "https://openai.com/business/plugins/adobe/",
+      "old_lastmod": "2026-09-17T21:57:27.902Z",
+      "new_lastmod": "2026-09-19T03:13:12.652Z"
+    },
+    {
+      "url": "https://openai.com/business/plugins/aha/",
+      "old_lastmod": "2026-09-17T22:14:11.464Z",
+      "new_lastmod": "2026-09-19T05:07:45.388Z"
+    },
+    {
+      "url": "https://openai.com/business/plugins/airtable/",
+      "old_lastmod": "2026-09-17T22:15:48.149Z",
+      "new_lastmod": "2026-09-19T05:07:46.495Z"
+    },
+    {
+      "url": "https://openai.com/business/plugins/alation/",
+      "old_lastmod": "2026-09-17T21:56:51.243Z",
+      "new_lastmod": "2026-09-19T04:56:32.042Z"
+    },
+    {
+      "url": "https://openai.com/business/plugins/alpaca/",
+      "old_lastmod": "2026-09-17T21:58:29.685Z",
+      "new_lastmod": "2026-09-19T07:24:15.080Z"
+    },
+    {
+      "url": "https://openai.com/business/plugins/amplitude/",
+      "old_lastmod": "2026-09-17T22:16:10.334Z",
+      "new_lastmod": "2026-09-19T04:56:35.328Z"
+    },
+    {
+      "url": "https://openai.com/business/plugins/asana/",
+      "old_lastmod": "2026-09-17T22:16:18.416Z",
+      "new_lastmod": "2026-09-19T05:07:56.478Z"
+    },
+    {
+      "url": "https://openai.com/business/plugins/atlassian-rovo/",
+      "old_lastmod": "2026-09-17T22:15:45.630Z",
+      "new_lastmod": "2026-09-19T05:07:51.206Z"
+    },
+    {
+      "url": "https://openai.com/business/plugins/aws-data-analytics/",
+      "old_lastmod": "2026-09-17T21:59:02.549Z",
+      "new_lastmod": "2026-09-19T06:07:13.705Z"
+    },
+    {
+      "url": "https://openai.com/business/plugins/bigquery/",
+      "old_lastmod": "2026-09-17T22:14:46.286Z",
+      "new_lastmod": "2026-09-19T04:56:35.720Z"
+    },
+    {
+      "url": "https://openai.com/business/plugins/biorender/",
+      "old_lastmod": "2026-09-17T22:07:15.151Z",
+      "new_lastmod": "2026-09-19T06:45:49.677Z"
+    },
+    {
+      "url": "https://openai.com/business/plugins/box/",
+      "old_lastmod": "2026-09-17T22:16:20.772Z",
+      "new_lastmod": "2026-09-19T01:30:15.947Z"
+    },
+    {
+      "url": "https://openai.com/business/plugins/canva/",
+      "old_lastmod": "2026-09-17T22:15:55.227Z",
+      "new_lastmod": "2026-09-19T09:16:37.390Z"
+    },
+    {
+      "url": "https://openai.com/business/plugins/clay/",
+      "old_lastmod": "2026-09-17T22:14:53.939Z",
+      "new_lastmod": "2026-09-19T03:57:52.632Z"
+    },
+    {
+      "url": "https://openai.com/business/plugins/clickhouse/",
+      "old_lastmod": "2026-09-17T22:00:48.447Z",
+      "new_lastmod": "2026-09-19T09:16:25.514Z"
+    },
+    {
+      "url": "https://openai.com/business/plugins/clickup/",
+      "old_lastmod": "2026-09-17T21:57:46.077Z",
+      "new_lastmod": "2026-09-19T09:16:35.282Z"
+    },
+    {
+      "url": "https://openai.com/business/plugins/clio/",
+      "old_lastmod": "2026-09-17T21:58:43.570Z",
+      "new_lastmod": "2026-09-18T21:35:57.487Z"
+    },
+    {
+      "url": "https://openai.com/business/plugins/courtlistener/",
+      "old_lastmod": "2026-09-17T21:59:25.608Z",
+      "new_lastmod": "2026-09-18T21:48:26.094Z"
+    },
+    {
+      "url": "https://openai.com/business/plugins/creative-production/",
+      "old_lastmod": "2026-09-17T22:15:52.816Z",
+      "new_lastmod": "2026-09-19T03:13:13.796Z"
+    },
+    {
+      "url": "https://openai.com/business/plugins/daloopa/",
+      "old_lastmod": "2026-09-17T21:58:35.511Z",
+      "new_lastmod": "2026-09-18T21:32:34.189Z"
+    },
+    {
+      "url": "https://openai.com/business/plugins/data/",
+      "old_lastmod": "2026-09-17T22:14:29.062Z",
+      "new_lastmod": "2026-09-19T04:56:36.550Z"
+    },
+    {
+      "url": "https://openai.com/business/plugins/databricks/",
+      "old_lastmod": "2026-09-17T22:16:16.845Z",
+      "new_lastmod": "2026-09-19T04:56:33.625Z"
+    },
+    {
+      "url": "https://openai.com/business/plugins/deepjudge/",
+      "old_lastmod": "2026-09-17T22:02:18.445Z",
+      "new_lastmod": "2026-09-18T21:33:43.606Z"
+    },
+    {
+      "url": "https://openai.com/business/plugins/docusign/",
+      "old_lastmod": "2026-09-17T22:16:13.000Z",
+      "new_lastmod": "2026-09-19T09:16:38.447Z"
+    },
+    {
+      "url": "https://openai.com/business/plugins/dropbox/",
+      "old_lastmod": "2026-09-17T22:14:34.249Z",
+      "new_lastmod": "2026-09-19T09:16:38.131Z"
+    },
+    {
+      "url": "https://openai.com/business/plugins/figma/",
+      "old_lastmod": "2026-09-17T22:15:30.850Z",
+      "new_lastmod": "2026-09-19T09:16:36.379Z"
+    },
+    {
+      "url": "https://openai.com/business/plugins/firebase/",
+      "old_lastmod": "2026-09-17T21:57:10.754Z",
+      "new_lastmod": "2026-09-18T21:32:18.002Z"
+    },
+    {
+      "url": "https://openai.com/business/plugins/g2/",
+      "old_lastmod": "2026-09-17T21:56:56.872Z",
+      "new_lastmod": "2026-09-18T21:42:50.370Z"
+    },
+    {
+      "url": "https://openai.com/business/plugins/github/",
+      "old_lastmod": "2026-09-17T22:14:31.907Z",
+      "new_lastmod": "2026-09-19T04:56:33.793Z"
+    },
+    {
+      "url": "https://openai.com/business/plugins/gmail/",
+      "old_lastmod": "2026-09-17T22:16:12.297Z",
+      "new_lastmod": "2026-09-19T05:07:44.572Z"
+    },
+    {
+      "url": "https://openai.com/business/plugins/google-calendar/",
+      "old_lastmod": "2026-09-17T22:15:42.585Z",
+      "new_lastmod": "2026-09-19T05:07:50.203Z"
+    },
+    {
+      "url": "https://openai.com/business/plugins/google-drive/",
+      "old_lastmod": "2026-09-17T22:14:32.590Z",
+      "new_lastmod": "2026-09-19T05:07:57.773Z"
+    },
+    {
+      "url": "https://openai.com/business/plugins/gusto/",
+      "old_lastmod": "2026-09-17T22:11:40.144Z",
+      "new_lastmod": "2026-09-18T22:21:53.515Z"
+    },
+    {
+      "url": "https://openai.com/business/plugins/harvey/",
+      "old_lastmod": "2026-09-17T21:57:52.433Z",
+      "new_lastmod": "2026-09-18T21:35:18.378Z"
+    },
+    {
+      "url": "https://openai.com/business/plugins/honeybook/",
+      "old_lastmod": "2026-09-17T22:16:17.203Z",
+      "new_lastmod": "2026-09-19T09:16:21.931Z"
+    },
+    {
+      "url": "https://openai.com/business/plugins/hubspot/",
+      "old_lastmod": "2026-09-17T22:15:38.831Z",
+      "new_lastmod": "2026-09-19T09:16:36.981Z"
+    },
+    {
+      "url": "https://openai.com/business/plugins/imanage-work/",
+      "old_lastmod": "2026-09-17T21:57:05.440Z",
+      "new_lastmod": "2026-09-18T21:34:41.332Z"
+    },
+    {
+      "url": "https://openai.com/business/plugins/intapp-celeste/",
+      "old_lastmod": "2026-09-17T21:56:53.302Z",
+      "new_lastmod": "2026-09-18T21:37:06.678Z"
+    },
+    {
+      "url": "https://openai.com/business/plugins/investment-banking/",
+      "old_lastmod": "2026-09-17T22:15:14.622Z",
+      "new_lastmod": "2026-09-19T07:24:18.351Z"
+    },
+    {
+      "url": "https://openai.com/business/plugins/ironclad-contracts/",
+      "old_lastmod": "2026-09-17T22:10:34.075Z",
+      "new_lastmod": "2026-09-18T21:34:13.754Z"
+    },
+    {
+      "url": "https://openai.com/business/plugins/laurel/",
+      "old_lastmod": "2026-09-17T22:01:51.999Z",
+      "new_lastmod": "2026-09-18T21:34:40.801Z"
+    },
+    {
+      "url": "https://openai.com/business/plugins/lecg-compliance-horizon-scanner/",
+      "old_lastmod": "2026-09-17T21:56:53.123Z",
+      "new_lastmod": "2026-09-18T21:32:32.643Z"
+    },
+    {
+      "url": "https://openai.com/business/plugins/lecg-spend-management-analysis/",
+      "old_lastmod": "2026-09-17T22:01:51.909Z",
+      "new_lastmod": "2026-09-18T21:34:13.545Z"
+    },
+    {
+      "url": "https://openai.com/business/plugins/legalquants-companion/",
+      "old_lastmod": "2026-09-17T21:59:28.090Z",
+      "new_lastmod": "2026-09-18T21:37:49.220Z"
+    },
+    {
+      "url": "https://openai.com/business/plugins/legalquants-litigation/",
+      "old_lastmod": "2026-09-17T21:58:12.517Z",
+      "new_lastmod": "2026-09-18T21:36:04.015Z"
+    },
+    {
+      "url": "https://openai.com/business/plugins/legalquants-transactional/",
+      "old_lastmod": "2026-09-17T22:05:51.901Z",
+      "new_lastmod": "2026-09-18T21:35:43.564Z"
+    },
+    {
+      "url": "https://openai.com/business/plugins/legalzoom/",
+      "old_lastmod": "2026-09-17T22:00:52.584Z",
+      "new_lastmod": "2026-09-18T21:32:42.348Z"
+    },
+    {
+      "url": "https://openai.com/business/plugins/legora/",
+      "old_lastmod": "2026-09-17T21:57:00.891Z",
+      "new_lastmod": "2026-09-18T21:45:49.702Z"
+    },
+    {
+      "url": "https://openai.com/business/plugins/lseg/",
+      "old_lastmod": "2026-09-17T21:58:05.523Z",
+      "new_lastmod": "2026-09-18T21:43:46.963Z"
+    },
+    {
+      "url": "https://openai.com/business/plugins/mailchimp/",
+      "old_lastmod": "2026-09-17T22:15:24.062Z",
+      "new_lastmod": "2026-09-19T01:30:18.531Z"
+    },
+    {
+      "url": "https://openai.com/business/plugins/mercury/",
+      "old_lastmod": "2026-09-17T22:15:57.146Z",
+      "new_lastmod": "2026-09-19T09:16:21.858Z"
+    },
+    {
+      "url": "https://openai.com/business/plugins/microsoft-azure-cosmosdb/",
+      "old_lastmod": "2026-09-17T21:58:20.300Z",
+      "new_lastmod": "2026-09-18T21:37:39.508Z"
+    },
+    {
+      "url": "https://openai.com/business/plugins/microsoft-outlook-calendar/",
+      "old_lastmod": "2026-09-17T22:16:26.294Z",
+      "new_lastmod": "2026-09-19T05:07:50.610Z"
+    },
+    {
+      "url": "https://openai.com/business/plugins/microsoft-outlook-email/",
+      "old_lastmod": "2026-09-17T22:16:33.877Z",
+      "new_lastmod": "2026-09-19T05:07:44.305Z"
+    },
+    {
+      "url": "https://openai.com/business/plugins/microsoft-power-bi/",
+      "old_lastmod": "2026-09-17T21:56:52.149Z",
+      "new_lastmod": "2026-09-18T21:32:19.400Z"
+    },
+    {
+      "url": "https://openai.com/business/plugins/microsoft-sharepoint/",
+      "old_lastmod": "2026-09-17T22:15:24.796Z",
+      "new_lastmod": "2026-09-19T05:07:55.769Z"
+    },
+    {
+      "url": "https://openai.com/business/plugins/microsoft-teams/",
+      "old_lastmod": "2026-09-17T22:14:39.870Z",
+      "new_lastmod": "2026-09-19T05:07:55.118Z"
+    },
+    {
+      "url": "https://openai.com/business/plugins/monday-com/",
+      "old_lastmod": "2026-09-17T22:01:30.218Z",
+      "new_lastmod": "2026-09-18T21:35:36.293Z"
+    },
+    {
+      "url": "https://openai.com/business/plugins/morningstar/",
+      "old_lastmod": "2026-09-17T21:58:47.972Z",
+      "new_lastmod": "2026-09-18T21:37:06.083Z"
+    },
+    {
+      "url": "https://openai.com/business/plugins/netdocuments/",
+      "old_lastmod": "2026-09-17T21:57:04.464Z",
+      "new_lastmod": "2026-09-18T21:36:46.259Z"
+    },
+    {
+      "url": "https://openai.com/business/plugins/netlify/",
+      "old_lastmod": "2026-09-17T21:56:53.121Z",
+      "new_lastmod": "2026-09-18T21:34:35.877Z"
+    },
+    {
+      "url": "https://openai.com/business/plugins/notion/",
+      "old_lastmod": "2026-09-17T22:15:48.506Z",
+      "new_lastmod": "2026-09-19T05:07:52.516Z"
+    },
+    {
+      "url": "https://openai.com/business/plugins/omni/",
+      "old_lastmod": "2026-09-17T22:01:23.051Z",
+      "new_lastmod": "2026-09-18T21:33:50.253Z"
+    },
+    {
+      "url": "https://openai.com/business/plugins/paypal/",
+      "old_lastmod": "2026-09-17T22:14:51.582Z",
+      "new_lastmod": "2026-09-19T09:16:38.619Z"
+    },
+    {
+      "url": "https://openai.com/business/plugins/pitchbook/",
+      "old_lastmod": "2026-09-17T22:06:45.599Z",
+      "new_lastmod": "2026-09-18T21:36:12.341Z"
+    },
+    {
+      "url": "https://openai.com/business/plugins/product-design/",
+      "old_lastmod": "2026-09-17T22:15:56.839Z",
+      "new_lastmod": "2026-09-19T03:13:16.658Z"
+    },
+    {
+      "url": "https://openai.com/business/plugins/public-equity-investing/",
+      "old_lastmod": "2026-09-17T22:15:35.325Z",
+      "new_lastmod": "2026-09-19T07:24:18.108Z"
+    },
+    {
+      "url": "https://openai.com/business/plugins/quickbooks/",
+      "old_lastmod": "2026-09-17T22:14:26.276Z",
+      "new_lastmod": "2026-09-19T09:16:37.708Z"
+    },
+    {
+      "url": "https://openai.com/business/plugins/ramp/",
+      "old_lastmod": "2026-09-17T21:56:52.505Z",
+      "new_lastmod": "2026-09-18T21:35:37.040Z"
+    },
+    {
+      "url": "https://openai.com/business/plugins/redis/",
+      "old_lastmod": "2026-09-17T21:58:10.388Z",
+      "new_lastmod": "2026-09-18T21:32:19.996Z"
+    },
+    {
+      "url": "https://openai.com/business/plugins/relativity/",
+      "old_lastmod": "2026-09-17T22:14:01.549Z",
+      "new_lastmod": "2026-09-18T21:47:49.650Z"
+    },
+    {
+      "url": "https://openai.com/business/plugins/replit/",
+      "old_lastmod": "2026-09-17T22:14:36.243Z",
+      "new_lastmod": "2026-09-19T04:17:07.322Z"
+    },
+    {
+      "url": "https://openai.com/business/plugins/sales/",
+      "old_lastmod": "2026-09-17T22:15:14.750Z",
+      "new_lastmod": "2026-09-19T03:57:51.900Z"
+    },
+    {
+      "url": "https://openai.com/business/plugins/salesforce/",
+      "old_lastmod": "2026-09-17T22:15:39.870Z",
+      "new_lastmod": "2026-09-19T03:57:51.115Z"
+    },
+    {
+      "url": "https://openai.com/business/plugins/shopify/",
+      "old_lastmod": "2026-09-17T22:15:53.766Z",
+      "new_lastmod": "2026-09-19T09:16:22.388Z"
+    },
+    {
+      "url": "https://openai.com/business/plugins/slack/",
+      "old_lastmod": "2026-09-17T22:14:14.742Z",
+      "new_lastmod": "2026-09-19T09:16:37.392Z"
+    },
+    {
+      "url": "https://openai.com/business/plugins/snowflake/",
+      "old_lastmod": "2026-09-17T22:14:46.968Z",
+      "new_lastmod": "2026-09-19T04:56:33.344Z"
+    },
+    {
+      "url": "https://openai.com/business/plugins/stripe/",
+      "old_lastmod": "2026-09-17T22:15:58.099Z",
+      "new_lastmod": "2026-09-19T09:16:36.697Z"
+    },
+    {
+      "url": "https://openai.com/business/plugins/tableau/",
+      "old_lastmod": "2026-09-17T21:57:22.462Z",
+      "new_lastmod": "2026-09-18T21:34:51.985Z"
+    },
+    {
+      "url": "https://openai.com/business/plugins/thomson-reuters-highq/",
+      "old_lastmod": "2026-09-17T22:01:54.996Z",
+      "new_lastmod": "2026-09-18T21:49:22.740Z"
+    },
+    {
+      "url": "https://openai.com/business/plugins/vercel/",
+      "old_lastmod": "2026-09-17T22:15:34.977Z",
+      "new_lastmod": "2026-09-19T04:17:00.599Z"
+    },
+    {
+      "url": "https://openai.com/business/plugins/villagesql/",
+      "old_lastmod": "2026-09-17T22:13:34.476Z",
+      "new_lastmod": "2026-09-18T21:33:14.501Z"
+    },
+    {
+      "url": "https://openai.com/business/plugins/wix/",
+      "old_lastmod": "2026-09-17T22:16:15.794Z",
+      "new_lastmod": "2026-09-19T09:16:22.306Z"
+    },
+    {
+      "url": "https://openai.com/business/plugins/zoho-crm/",
+      "old_lastmod": "2026-09-17T22:01:06.468Z",
+      "new_lastmod": "2026-09-18T21:37:19.901Z"
+    },
+    {
+      "url": "https://openai.com/business/plugins/zoom/",
+      "old_lastmod": "2026-09-17T22:02:38.227Z",
+      "new_lastmod": "2026-09-18T21:35:33.874Z"
+    },
+    {
+      "url": "https://openai.com/daybreak/partners-new/",
+      "old_lastmod": "2026-09-11T23:19:21.568Z",
+      "new_lastmod": "2026-09-18T20:02:09.590Z"
+    },
+    {
+      "url": "https://openai.com/daybreak/partners/",
+      "old_lastmod": "2026-09-16T10:04:28.455Z",
+      "new_lastmod": "2026-09-18T20:07:08.996Z"
+    },
+    {
+      "url": "https://openai.com/form/100-chats-book-request/",
+      "old_lastmod": "2026-09-17T20:56:14.454Z",
+      "new_lastmod": "2026-09-18T09:31:07.978Z"
+    },
+    {
+      "url": "https://openai.com/form/chatgpt-pro-community/",
+      "old_lastmod": "2026-09-17T20:56:16.910Z",
+      "new_lastmod": "2026-09-18T09:31:08.911Z"
+    },
+    {
+      "url": "https://openai.com/form/rosalind-biodefense-program/",
+      "old_lastmod": "2026-09-17T20:56:16.239Z",
+      "new_lastmod": "2026-09-18T09:31:08.477Z"
+    },
+    {
+      "url": "https://openai.com/form/sponsored-agents-hubspot/",
+      "old_lastmod": "2026-09-18T08:52:38.071Z",
+      "new_lastmod": "2026-09-19T03:19:02.804Z"
+    },
+    {
+      "url": "https://openai.com/form/trademark-counterfeit-disputes/",
+      "old_lastmod": "2026-09-17T20:56:14.553Z",
+      "new_lastmod": "2026-09-18T09:31:06.301Z"
+    },
+    {
+      "url": "https://openai.com/hugging-face-incident-and-misalignment/",
+      "old_lastmod": "2026-09-18T01:48:02.416Z",
+      "new_lastmod": "2026-09-18T15:49:13.779Z"
+    },
+    {
+      "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/",
+      "old_lastmod": "2026-09-17T11:33:45.315Z",
+      "new_lastmod": "2026-09-18T17:55:42.245Z"
+    },
+    {
+      "url": "https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api/",
+      "old_lastmod": "2026-09-17T01:43:45.162Z",
+      "new_lastmod": "2026-09-18T17:55:56.182Z"
+    },
+    {
+      "url": "https://openai.com/index/an-alien-mind/",
+      "old_lastmod": "2026-09-18T08:32:10.401Z",
+      "new_lastmod": "2026-09-19T01:30:51.569Z"
+    },
+    {
+      "url": "https://openai.com/index/apple-is-getting-this-wrong/",
+      "old_lastmod": "2026-09-17T15:10:41.177Z",
+      "new_lastmod": "2026-09-19T04:01:29.294Z"
+    },
+    {
+      "url": "https://openai.com/index/astra-for-law/",
+      "old_lastmod": "2026-09-18T08:40:29.325Z",
+      "new_lastmod": "2026-09-19T07:46:41.972Z"
+    },
+    {
+      "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts/",
+      "old_lastmod": "2026-09-17T11:33:55.961Z",
+      "new_lastmod": "2026-09-18T17:55:45.967Z"
+    },
+    {
+      "url": "https://openai.com/index/building-more-helpful-chatgpt-experiences-for-everyone/",
+      "old_lastmod": "2026-09-17T01:43:44.627Z",
+      "new_lastmod": "2026-09-18T17:55:56.024Z"
+    },
+    {
+      "url": "https://openai.com/index/building-towards-age-prediction/",
+      "old_lastmod": "2026-09-18T08:32:28.671Z",
+      "new_lastmod": "2026-09-18T17:55:49.322Z"
+    },
+    {
+      "url": "https://openai.com/index/chatgpt-ads-expands-across-europe/",
+      "old_lastmod": "2026-09-17T11:33:51.102Z",
+      "new_lastmod": "2026-09-18T17:55:43.920Z"
+    },
+    {
+      "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources/",
+      "old_lastmod": "2026-09-17T11:33:47.737Z",
+      "new_lastmod": "2026-09-18T17:55:42.343Z"
+    },
+    {
+      "url": "https://openai.com/index/chatgpt-enterprise-spend-controls/",
+      "old_lastmod": "2026-09-17T01:43:36.731Z",
+      "new_lastmod": "2026-09-18T17:55:50.332Z"
+    },
+    {
+      "url": "https://openai.com/index/chatgpt-for-teachers/",
+      "old_lastmod": "2026-09-17T01:43:33.008Z",
+      "new_lastmod": "2026-09-18T17:55:47.500Z"
+    },
+    {
+      "url": "https://openai.com/index/chatgpt-for-teens/",
+      "old_lastmod": "2026-09-15T11:52:12.587Z",
+      "new_lastmod": "2026-09-18T17:55:46.761Z"
+    },
+    {
+      "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work/",
+      "old_lastmod": "2026-09-17T11:33:45.259Z",
+      "new_lastmod": "2026-09-18T17:55:42.358Z"
+    },
+    {
+      "url": "https://openai.com/index/chatgpt-memory-dreaming/",
+      "old_lastmod": "2026-09-17T01:43:38.024Z",
+      "new_lastmod": "2026-09-18T17:55:51.245Z"
+    },
+    {
+      "url": "https://openai.com/index/chatgpt-whatsapp-transition/",
+      "old_lastmod": "2026-09-17T01:43:44.952Z",
+      "new_lastmod": "2026-09-18T17:55:56.408Z"
+    },
+    {
+      "url": "https://openai.com/index/codex-for-every-role-tool-workflow/",
+      "old_lastmod": "2026-09-18T09:15:02.252Z",
+      "new_lastmod": "2026-09-18T17:55:47.480Z"
+    },
+    {
+      "url": "https://openai.com/index/codex-security-now-in-research-preview/",
+      "old_lastmod": "2026-09-17T11:33:51.723Z",
+      "new_lastmod": "2026-09-18T17:55:44.011Z"
+    },
+    {
+      "url": "https://openai.com/index/cooley-gopublic/",
+      "old_lastmod": "2026-09-17T23:05:50.714Z",
+      "new_lastmod": "2026-09-19T08:17:07.465Z"
+    },
+    {
+      "url": "https://openai.com/index/dall-e-now-available-without-waitlist/",
+      "old_lastmod": "2026-09-11T08:41:05.318Z",
+      "new_lastmod": "2026-09-18T17:01:23.448Z"
+    },
+    {
+      "url": "https://openai.com/index/daybreak-models-are-now-available-on-aws/",
+      "old_lastmod": "2026-09-17T01:43:33.962Z",
+      "new_lastmod": "2026-09-18T17:55:47.731Z"
+    },
+    {
+      "url": "https://openai.com/index/detecting-wildfires-early/",
+      "old_lastmod": "2026-09-17T09:31:02.730Z",
+      "new_lastmod": "2026-09-18T12:24:03.753Z"
+    },
+    {
+      "url": "https://openai.com/index/developers-can-now-submit-apps-to-chatgpt/",
+      "old_lastmod": "2026-09-17T01:43:41.085Z",
+      "new_lastmod": "2026-09-18T17:55:53.516Z"
+    },
+    {
+      "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-bad-grammar/",
+      "old_lastmod": "2026-09-18T09:06:56.492Z",
+      "new_lastmod": "2026-09-19T08:24:06.261Z"
+    },
+    {
+      "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation/",
+      "old_lastmod": "2026-09-18T08:35:04.204Z",
+      "new_lastmod": "2026-09-19T08:44:07.054Z"
+    },
+    {
+      "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-data-center-bandwagon/",
+      "old_lastmod": "2026-09-18T09:06:55.091Z",
+      "new_lastmod": "2026-09-19T08:31:01.651Z"
+    },
+    {
+      "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-deceptive-employment-scheme/",
+      "old_lastmod": "2026-09-18T08:32:01.263Z",
+      "new_lastmod": "2026-09-19T08:44:07.067Z"
+    },
+    {
+      "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-doppelganger/",
+      "old_lastmod": "2026-09-18T09:06:51.020Z",
+      "new_lastmod": "2026-09-19T08:24:22.357Z"
+    },
+    {
+      "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia/",
+      "old_lastmod": "2026-09-18T09:06:55.981Z",
+      "new_lastmod": "2026-09-19T08:22:49.516Z"
+    },
+    {
+      "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-romance-baiting-scam/",
+      "old_lastmod": "2026-09-18T08:32:02.784Z",
+      "new_lastmod": "2026-09-19T08:44:07.330Z"
+    },
+    {
+      "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-spamouflage/",
+      "old_lastmod": "2026-09-18T09:06:50.036Z",
+      "new_lastmod": "2026-09-19T08:22:03.908Z"
+    },
+    {
+      "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-tech-and-tariffs/",
+      "old_lastmod": "2026-09-18T09:06:48.612Z",
+      "new_lastmod": "2026-09-19T08:24:05.286Z"
+    },
+    {
+      "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-wrong-number/",
+      "old_lastmod": "2026-09-18T08:32:01.764Z",
+      "new_lastmod": "2026-09-19T08:44:08.379Z"
+    },
+    {
+      "url": "https://openai.com/index/disrupting-malicious-uses-of-ai/",
+      "old_lastmod": "2026-09-18T09:06:49.623Z",
+      "new_lastmod": "2026-09-19T08:44:08.029Z"
+    },
+    {
+      "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads/",
+      "old_lastmod": "2026-09-17T11:33:47.992Z",
+      "new_lastmod": "2026-09-18T17:55:42.342Z"
+    },
+    {
+      "url": "https://openai.com/index/fyxer/",
+      "old_lastmod": "2026-09-17T19:23:21.000Z",
+      "new_lastmod": "2026-09-18T16:42:17.143Z"
+    },
+    {
+      "url": "https://openai.com/index/gpt-4-api-general-availability/",
+      "old_lastmod": "2026-09-11T08:41:00.323Z",
+      "new_lastmod": "2026-09-18T17:01:18.501Z"
+    },
+    {
+      "url": "https://openai.com/index/gpt-5-1-for-developers/",
+      "old_lastmod": "2026-09-17T01:43:31.757Z",
+      "new_lastmod": "2026-09-18T17:55:46.922Z"
+    },
+    {
+      "url": "https://openai.com/index/gpt-5-1/",
+      "old_lastmod": "2026-09-17T01:43:37.311Z",
+      "new_lastmod": "2026-09-18T17:55:50.528Z"
+    },
+    {
+      "url": "https://openai.com/index/gpt-5-5-instant/",
+      "old_lastmod": "2026-09-17T01:43:45.485Z",
+      "new_lastmod": "2026-09-18T17:55:57.182Z"
+    },
+    {
+      "url": "https://openai.com/index/gpt-5-6-in-kiro/",
+      "old_lastmod": "2026-09-17T11:33:54.962Z",
+      "new_lastmod": "2026-09-18T17:55:44.634Z"
+    },
+    {
+      "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot/",
+      "old_lastmod": "2026-09-17T11:33:55.321Z",
+      "new_lastmod": "2026-09-18T17:55:45.951Z"
+    },
+    {
+      "url": "https://openai.com/index/gpt-5-6/",
+      "old_lastmod": "2026-09-17T11:33:55.801Z",
+      "new_lastmod": "2026-09-18T17:55:45.524Z"
+    },
+    {
+      "url": "https://openai.com/index/gpt-6-astra-next-generation-work/",
+      "old_lastmod": "2026-09-18T09:10:40.989Z",
+      "new_lastmod": "2026-09-19T04:17:44.343Z"
+    },
+    {
+      "url": "https://openai.com/index/gpt-6-astra/",
+      "old_lastmod": "2026-09-18T08:59:59.628Z",
+      "new_lastmod": "2026-09-19T05:01:12.484Z"
+    },
+    {
+      "url": "https://openai.com/index/growing-atv-big-air-tour/",
+      "old_lastmod": "2026-09-17T16:11:40.248Z",
+      "new_lastmod": "2026-09-19T06:15:03.034Z"
+    },
+    {
+      "url": "https://openai.com/index/health-in-chatgpt/",
+      "old_lastmod": "2026-09-17T01:43:34.952Z",
+      "new_lastmod": "2026-09-18T17:55:48.508Z"
+    },
+    {
+      "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life/",
+      "old_lastmod": "2026-09-18T08:50:10.192Z",
+      "new_lastmod": "2026-09-18T17:33:17.470Z"
+    },
+    {
+      "url": "https://openai.com/index/helping-people-when-they-need-it-most/",
+      "old_lastmod": "2026-09-18T08:32:16.808Z",
+      "new_lastmod": "2026-09-18T17:55:52.000Z"
+    },
+    {
+      "url": "https://openai.com/index/how-the-voices-for-chatgpt-were-chosen/",
+      "old_lastmod": "2026-09-11T08:41:03.910Z",
+      "new_lastmod": "2026-09-18T17:01:22.086Z"
+    },
+    {
+      "url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value/",
+      "old_lastmod": "2026-09-18T09:14:07.849Z",
+      "new_lastmod": "2026-09-19T06:54:03.938Z"
+    },
+    {
+      "url": "https://openai.com/index/improvements-to-data-analysis-in-chatgpt/",
+      "old_lastmod": "2026-09-11T08:41:05.551Z",
+      "new_lastmod": "2026-09-18T17:01:21.945Z"
+    },
+    {
+      "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/",
+      "old_lastmod": "2026-09-17T01:43:34.867Z",
+      "new_lastmod": "2026-09-18T17:55:48.476Z"
+    },
+    {
+      "url": "https://openai.com/index/improving-health-intelligence-in-chatgpt/",
+      "old_lastmod": "2026-09-17T01:43:37.867Z",
+      "new_lastmod": "2026-09-18T17:55:50.913Z"
+    },
+    {
+      "url": "https://openai.com/index/introducing-4o-image-generation/",
+      "old_lastmod": "2026-09-17T01:43:43.678Z",
+      "new_lastmod": "2026-09-18T17:55:41.832Z"
+    },
+    {
+      "url": "https://openai.com/index/introducing-aardvark/",
+      "old_lastmod": "2026-09-17T10:07:03.771Z",
+      "new_lastmod": "2026-09-18T17:55:43.759Z"
+    },
+    {
+      "url": "https://openai.com/index/introducing-canvas/",
+      "old_lastmod": "2026-09-11T08:41:02.387Z",
+      "new_lastmod": "2026-09-18T17:01:20.877Z"
+    },
+    {
+      "url": "https://openai.com/index/introducing-chatgpt-agent/",
+      "old_lastmod": "2026-09-17T01:43:46.504Z",
+      "new_lastmod": "2026-09-18T17:55:57.600Z"
+    },
+    {
+      "url": "https://openai.com/index/introducing-chatgpt-atlas/",
+      "old_lastmod": "2026-09-17T01:43:33.585Z",
+      "new_lastmod": "2026-09-18T17:55:47.932Z"
+    },
+    {
+      "url": "https://openai.com/index/introducing-chatgpt-edu/",
+      "old_lastmod": "2026-09-11T08:41:05.861Z",
+      "new_lastmod": "2026-09-18T17:01:23.367Z"
+    },
+    {
+      "url": "https://openai.com/index/introducing-chatgpt-financial-services/",
+      "old_lastmod": "2026-09-17T11:34:09.357Z",
+      "new_lastmod": "2026-09-19T03:14:07.373Z"
+    },
+    {
+      "url": "https://openai.com/index/introducing-chatgpt-health/",
+      "old_lastmod": "2026-09-17T11:33:43.926Z",
+      "new_lastmod": "2026-09-18T17:55:41.822Z"
+    },
+    {
+      "url": "https://openai.com/index/introducing-chatgpt-images-2-0/",
+      "old_lastmod": "2026-09-17T11:33:47.833Z",
+      "new_lastmod": "2026-09-18T17:55:42.358Z"
+    },
+    {
+      "url": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+      "old_lastmod": "2026-09-18T02:53:42.872Z",
+      "new_lastmod": "2026-09-18T17:55:39.600Z"
+    },
+    {
+      "url": "https://openai.com/index/introducing-chatgpt-pulse/",
+      "old_lastmod": "2026-09-17T01:43:35.902Z",
+      "new_lastmod": "2026-09-18T17:55:49.287Z"
+    },
+    {
+      "url": "https://openai.com/index/introducing-chatgpt-team/",
+      "old_lastmod": "2026-09-17T01:43:40.378Z",
+      "new_lastmod": "2026-09-18T17:55:53.157Z"
+    },
+    {
+      "url": "https://openai.com/index/introducing-company-knowledge/",
+      "old_lastmod": "2026-09-17T01:43:36.922Z",
+      "new_lastmod": "2026-09-18T17:55:49.935Z"
+    },
+    {
+      "url": "https://openai.com/index/introducing-data-residency-in-asia/",
+      "old_lastmod": "2026-09-17T01:43:32.262Z",
+      "new_lastmod": "2026-09-18T17:55:56.698Z"
+    },
+    {
+      "url": "https://openai.com/index/introducing-data-residency-in-europe/",
+      "old_lastmod": "2026-09-17T01:43:46.390Z",
+      "new_lastmod": "2026-09-18T17:55:57.163Z"
+    },
+    {
+      "url": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano/",
+      "old_lastmod": "2026-09-17T11:33:49.156Z",
+      "new_lastmod": "2026-09-18T17:55:55.825Z"
+    },
+    {
+      "url": "https://openai.com/index/introducing-gpt-5-4/",
+      "old_lastmod": "2026-09-17T01:43:44.143Z",
+      "new_lastmod": "2026-09-18T17:55:55.393Z"
+    },
+    {
+      "url": "https://openai.com/index/introducing-gpt-5-5/",
+      "old_lastmod": "2026-09-17T11:33:54.823Z",
+      "new_lastmod": "2026-09-18T17:55:44.948Z"
+    },
+    {
+      "url": "https://openai.com/index/introducing-gpt-5/",
+      "old_lastmod": "2026-09-17T01:43:29.672Z",
+      "new_lastmod": "2026-09-18T17:55:45.366Z"
+    },
+    {
+      "url": "https://openai.com/index/introducing-gpt-live/",
+      "old_lastmod": "2026-09-17T11:33:44.113Z",
+      "new_lastmod": "2026-09-18T17:55:42.237Z"
+    },
+    {
+      "url": "https://openai.com/index/introducing-gpt-oss-safeguard/",
+      "old_lastmod": "2026-09-17T01:43:28.001Z",
+      "new_lastmod": "2026-09-18T17:55:43.510Z"
+    },
+    {
+      "url": "https://openai.com/index/introducing-gpts/",
+      "old_lastmod": "2026-09-11T08:41:03.057Z",
+      "new_lastmod": "2026-09-18T17:01:20.232Z"
+    },
+    {
+      "url": "https://openai.com/index/introducing-improvements-to-the-fine-tuning-api-and-expanding-our-custom-models-program/",
+      "old_lastmod": "2026-09-11T08:41:01.431Z",
+      "new_lastmod": "2026-09-18T17:01:19.530Z"
+    },
+    {
+      "url": "https://openai.com/index/introducing-lockdown-mode-and-elevated-risk-labels-in-chatgpt/",
+      "old_lastmod": "2026-09-17T01:43:45.914Z",
+      "new_lastmod": "2026-09-18T17:55:57.009Z"
+    },
+    {
+      "url": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind/",
+      "old_lastmod": "2026-09-17T01:43:39.086Z",
+      "new_lastmod": "2026-09-18T17:55:51.923Z"
+    },
+    {
+      "url": "https://openai.com/index/introducing-openai-for-nonprofits/",
+      "old_lastmod": "2026-09-17T01:43:41.527Z",
+      "new_lastmod": "2026-09-18T17:55:53.963Z"
+    },
+    {
+      "url": "https://openai.com/index/introducing-openai-partner-network/",
+      "old_lastmod": "2026-09-17T01:43:36.299Z",
+      "new_lastmod": "2026-09-18T17:55:50.077Z"
+    },
+    {
+      "url": "https://openai.com/index/introducing-openai-presence/",
+      "old_lastmod": "2026-09-17T01:43:34.380Z",
+      "new_lastmod": "2026-09-18T17:55:47.790Z"
+    },
+    {
+      "url": "https://openai.com/index/introducing-parental-controls/",
+      "old_lastmod": "2026-09-18T08:32:16.909Z",
+      "new_lastmod": "2026-09-18T17:55:52.698Z"
+    },
+    {
+      "url": "https://openai.com/index/introducing-prism/",
+      "old_lastmod": "2026-09-17T01:43:45.163Z",
+      "new_lastmod": "2026-09-18T17:55:56.219Z"
+    },
+    {
+      "url": "https://openai.com/index/introducing-structured-outputs-in-the-api/",
+      "old_lastmod": "2026-09-11T08:41:01.784Z",
+      "new_lastmod": "2026-09-18T17:01:19.969Z"
+    },
+    {
+      "url": "https://openai.com/index/introducing-the-agents-api/",
+      "old_lastmod": "2026-09-17T11:33:42.955Z",
+      "new_lastmod": "2026-09-18T17:55:41.699Z"
+    },
+    {
+      "url": "https://openai.com/index/learn-teach-chatgpt-work-codex/",
+      "old_lastmod": "2026-09-17T01:43:32.168Z",
+      "new_lastmod": "2026-09-18T17:55:47.509Z"
+    },
+    {
+      "url": "https://openai.com/index/learning-never-stops/",
+      "old_lastmod": "2026-09-17T11:33:51.454Z",
+      "new_lastmod": "2026-09-18T17:55:43.064Z"
+    },
+    {
+      "url": "https://openai.com/index/memory-and-new-controls-for-chatgpt/",
+      "old_lastmod": "2026-09-11T08:41:04.881Z",
+      "new_lastmod": "2026-09-18T17:01:23.306Z"
+    },
+    {
+      "url": "https://openai.com/index/model-misalignment-reporting-framework/",
+      "old_lastmod": "2026-09-18T09:14:49.643Z",
+      "new_lastmod": "2026-09-18T13:38:48.916Z"
+    },
+    {
+      "url": "https://openai.com/index/more-enterprise-grade-features-for-api-customers/",
+      "old_lastmod": "2026-09-11T08:41:04.152Z",
+      "new_lastmod": "2026-09-18T17:01:21.506Z"
+    },
+    {
+      "url": "https://openai.com/index/navier-stokes-solution/",
+      "old_lastmod": "2026-09-17T11:54:54.753Z",
+      "new_lastmod": "2026-09-18T17:11:47.190Z"
+    },
+    {
+      "url": "https://openai.com/index/navigating-the-challenges-and-opportunities-of-synthetic-voices/",
+      "old_lastmod": "2026-09-17T01:43:42.688Z",
+      "new_lastmod": "2026-09-18T17:55:54.540Z"
+    },
+    {
+      "url": "https://openai.com/index/new-ai-classifier-for-indicating-ai-written-text/",
+      "old_lastmod": "2026-09-11T08:41:05.092Z",
+      "new_lastmod": "2026-09-18T17:01:22.541Z"
+    },
+    {
+      "url": "https://openai.com/index/new-and-improved-content-moderation-tooling/",
+      "old_lastmod": "2026-09-11T08:41:02.434Z",
+      "new_lastmod": "2026-09-18T17:01:20.632Z"
+    },
+    {
+      "url": "https://openai.com/index/new-and-improved-embedding-model/",
+      "old_lastmod": "2026-09-11T08:41:04.698Z",
+      "new_lastmod": "2026-09-18T17:01:22.923Z"
+    },
+    {
+      "url": "https://openai.com/index/new-chatgpt-images-is-here/",
+      "old_lastmod": "2026-09-17T01:43:52.825Z",
+      "new_lastmod": "2026-09-18T17:55:41.999Z"
+    },
+    {
+      "url": "https://openai.com/index/new-tools-for-chatgpt-enterprise/",
+      "old_lastmod": "2026-09-11T08:41:18.931Z",
+      "new_lastmod": "2026-09-18T17:01:23.289Z"
+    },
+    {
+      "url": "https://openai.com/index/new-ways-to-learn-math-and-science-in-chatgpt/",
+      "old_lastmod": "2026-09-17T01:43:44.232Z",
+      "new_lastmod": "2026-09-18T17:55:55.622Z"
+    },
+    {
+      "url": "https://openai.com/index/openai-and-journalism/",
+      "old_lastmod": "2026-09-11T08:40:59.888Z",
+      "new_lastmod": "2026-09-18T17:01:18.145Z"
+    },
+    {
+      "url": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws/",
+      "old_lastmod": "2026-09-17T01:43:41.531Z",
+      "new_lastmod": "2026-09-18T17:55:54.183Z"
+    },
+    {
+      "url": "https://openai.com/index/optimizing-chatgpt/",
+      "old_lastmod": "2026-09-18T08:32:14.382Z",
+      "new_lastmod": "2026-09-18T17:01:16.734Z"
+    },
+    {
+      "url": "https://openai.com/index/our-approach-to-advertising-and-expanding-access/",
+      "old_lastmod": "2026-09-17T11:33:40.262Z",
+      "new_lastmod": "2026-09-18T17:55:39.589Z"
+    },
+    {
+      "url": "https://openai.com/index/path-to-astra/",
+      "old_lastmod": "2026-09-18T08:32:12.347Z",
+      "new_lastmod": "2026-09-18T17:43:51.704Z"
+    },
+    {
+      "url": "https://openai.com/index/personal-finance-chatgpt/",
+      "old_lastmod": "2026-09-17T11:33:46.916Z",
+      "new_lastmod": "2026-09-18T17:55:41.282Z"
+    },
+    {
+      "url": "https://openai.com/index/premium-seats-chatgpt-business/",
+      "old_lastmod": "2026-09-17T11:33:48.683Z",
+      "new_lastmod": "2026-09-18T17:55:42.575Z"
+    },
+    {
+      "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
+      "old_lastmod": "2026-09-17T01:43:36.528Z",
+      "new_lastmod": "2026-09-18T17:55:49.538Z"
+    },
+    {
+      "url": "https://openai.com/index/previewing-ultrafast/",
+      "old_lastmod": "2026-09-17T11:33:54.921Z",
+      "new_lastmod": "2026-09-18T17:55:45.407Z"
+    },
+    {
+      "url": "https://openai.com/index/put-data-to-work/",
+      "old_lastmod": "2026-09-17T18:39:05.727Z",
+      "new_lastmod": "2026-09-18T17:55:39.257Z"
+    },
+    {
+      "url": "https://openai.com/index/reducing-bias-and-improving-safety-in-dall-e-2/",
+      "old_lastmod": "2026-09-11T08:41:07.588Z",
+      "new_lastmod": "2026-09-18T17:01:26.062Z"
+    },
+    {
+      "url": "https://openai.com/index/reimagining-advertising-with-ai/",
+      "old_lastmod": "2026-09-18T08:24:31.506Z",
+      "new_lastmod": "2026-09-19T04:03:25.185Z"
+    },
+    {
+      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one/",
+      "old_lastmod": "2026-09-18T07:32:02.098Z",
+      "new_lastmod": "2026-09-19T06:31:00.742Z"
+    },
+    {
+      "url": "https://openai.com/index/searchgpt-prototype/",
+      "old_lastmod": "2026-09-11T08:41:00.946Z",
+      "new_lastmod": "2026-09-18T17:01:19.224Z"
+    },
+    {
+      "url": "https://openai.com/index/sora-2/",
+      "old_lastmod": "2026-09-17T01:43:32.632Z",
+      "new_lastmod": "2026-09-18T17:55:47.337Z"
+    },
+    {
+      "url": "https://openai.com/index/sora-is-here/",
+      "old_lastmod": "2026-09-11T08:41:01.474Z",
+      "new_lastmod": "2026-09-18T17:01:19.679Z"
+    },
+    {
+      "url": "https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense/",
+      "old_lastmod": "2026-09-17T01:43:34.865Z",
+      "new_lastmod": "2026-09-18T17:55:48.301Z"
+    },
+    {
+      "url": "https://openai.com/index/teen-development-research-grants/",
+      "old_lastmod": "2026-09-18T09:12:11.556Z",
+      "new_lastmod": "2026-09-18T21:54:50.400Z"
+    },
+    {
+      "url": "https://openai.com/index/testing-ads-in-chatgpt/",
+      "old_lastmod": "2026-09-17T11:33:40.356Z",
+      "new_lastmod": "2026-09-18T17:55:39.997Z"
+    },
+    {
+      "url": "https://openai.com/index/unlocking-new-ways-of-working/",
+      "old_lastmod": "2026-09-18T08:44:48.267Z",
+      "new_lastmod": "2026-09-19T07:59:48.914Z"
+    },
+    {
+      "url": "https://openai.com/index/updating-model-spec-with-teen-protections/",
+      "old_lastmod": "2026-09-18T08:32:15.487Z",
+      "new_lastmod": "2026-09-18T12:06:03.283Z"
+    },
+    {
+      "url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials/",
+      "old_lastmod": "2026-09-17T16:35:47.866Z",
+      "new_lastmod": "2026-09-19T07:39:14.455Z"
+    },
+    {
+      "url": "https://openai.com/index/why-codex-security-doesnt-include-sast/",
+      "old_lastmod": "2026-09-17T11:33:53.163Z",
+      "new_lastmod": "2026-09-18T17:55:44.180Z"
+    },
+    {
+      "url": "https://openai.com/news/",
+      "old_lastmod": "2026-09-18T08:32:13.581Z",
+      "new_lastmod": "2026-09-18T17:55:46.499Z"
+    },
+    {
+      "url": "https://openai.com/news/product-releases/",
+      "old_lastmod": "2026-09-17T10:07:06.989Z",
+      "new_lastmod": "2026-09-18T17:55:46.187Z"
+    },
+    {
+      "url": "https://openai.com/policies/financial-services-terms/",
+      "old_lastmod": "2026-09-18T08:45:14.787Z",
+      "new_lastmod": "2026-09-18T09:38:03.159Z"
+    },
+    {
+      "url": "https://openai.com/products/release-notes/",
+      "old_lastmod": "2026-09-18T07:05:34.322Z",
+      "new_lastmod": "2026-09-19T08:35:19.607Z"
+    },
+    {
+      "url": "https://openai.com/research/verify/",
+      "old_lastmod": "2026-09-09T14:16:05.833Z",
+      "new_lastmod": "2026-09-18T20:02:59.886Z"
+    },
+    {
+      "url": "https://openai.com/student-collective/",
+      "old_lastmod": "2026-09-17T20:56:15.052Z",
+      "new_lastmod": "2026-09-18T09:31:06.326Z"
+    }
+  ],
+  "anomalies": [
+    {
+      "kind": "new_sub_sitemap_section",
+      "url": null,
+      "details": "plugins-customer-support (9 URLs) appeared as a new sub-sitemap section"
+    },
+    {
+      "kind": "new_sub_sitemap_section",
+      "url": null,
+      "details": "plugins-hr (8 URLs) appeared as a new sub-sitemap section"
+    },
+    {
+      "kind": "cross_listed_addition",
+      "url": "https://openai.com/business/plugins/gusto/",
+      "details": "gained section(s) ['plugins-hr']; now listed under ['plugins-finance', 'plugins-hr', 'plugins-operations', 'plugins-small-business']"
+    }
+  ],
+  "fetch_failures": []
+}

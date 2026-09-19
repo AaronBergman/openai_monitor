@@ -34,7 +34,7 @@ OpenAI
 
 Create and manage your store
 
-[Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69e65c430b3081919aa4d962ab5d1698>)[Contact sales](</contact-sales/>)
+[Install plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69e65c430b3081919aa4d962ab5d1698>)[Contact sales](</contact-sales/>)
 
 Category
     [Operations](</business/plugins/?tab=plugins-operations>)
@@ -45,37 +45,31 @@ Developer
 Website
     [(opens in a new window)](<https://shopify.com>)
 
-[![](https://files.openai.com/content?id=file_00000000f0cc81f597371a9ec614d0ca&cdn=1&cp=pi&ma=32227200&ts=0&p=pi&cid=8&sig=847f6ee018969c1c8e79881f605d40d20da7035a4ebfbde8aed6739542050c9b&v=0)Shopify Upload and add this product to my store.(opens in a new window)](<https://chatgpt.com/?prompt=%40Shopify+Upload+and+add+this+product+to+my+store.>)[![](https://files.openai.com/content?id=file_00000000f0cc81f597371a9ec614d0ca&cdn=1&cp=pi&ma=32227200&ts=0&p=pi&cid=8&sig=847f6ee018969c1c8e79881f605d40d20da7035a4ebfbde8aed6739542050c9b&v=0)Shopify Show me the products I have in my store.(opens in a new window)](<https://chatgpt.com/?prompt=%40Shopify+Show+me+the+products+I+have+in+my+store.>)[![](https://files.openai.com/content?id=file_00000000f0cc81f597371a9ec614d0ca&cdn=1&cp=pi&ma=32227200&ts=0&p=pi&cid=8&sig=847f6ee018969c1c8e79881f605d40d20da7035a4ebfbde8aed6739542050c9b&v=0)Shopify Show me my store's sales for the past three weeks.(opens in a new window)](<https://chatgpt.com/?prompt=%40Shopify+Show+me+my+store%27s+sales+for+the+past+three+weeks.>)
+[![](https://files.openai.com/content?id=file_00000000f0cc81f597371a9ec614d0ca&cdn=1&cp=pi&ma=32227200&ts=0&p=pi&cid=8&sig=847f6ee018969c1c8e79881f605d40d20da7035a4ebfbde8aed6739542050c9b&v=0)Shopify Upload and add this product to my store.(opens in a new window)](<https://chatgpt.com/?prompt=%40Shopify+Upload+and+add+this+product+to+my+store.>)
 
 ## How it works
 
 Shopify for ChatGPT makes starting, running, and growing an online store as easy as having a conversation. Turn a small business idea into an ecommerce website with Shopify’s AI store builder: describe what you sell, create your store, add products, and sell online. Already have a Shopify store? Connect it to manage inventory across locations, create discount codes, review orders and customer details, and pull analytics on your store’s performance. Shopify supports selling online, in person, B2B, on marketplaces, and selling internationally. Whether you run a print on demand business, sell digital products, operate an online boutique, dropship, or serve wholesale buyers, Shopify gives you the foundation to build, sell, and grow.
 
-## Common use cases
+## What else can you do?
 
   * ### Review recent sales
 
-See how sales changed over the past three weeks and identify the strongest week.
-
 ![](https://files.openai.com/content?id=file_00000000f0cc81f597371a9ec614d0ca&cdn=1&cp=pi&ma=32227200&ts=0&p=pi&cid=8&sig=847f6ee018969c1c8e79881f605d40d20da7035a4ebfbde8aed6739542050c9b&v=0)Shopify Show my store's weekly sales for the past three weeks and highlight the strongest week.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Shopify+Show+my+store%27s+weekly+sales+for+the+past+three+weeks+and+highlight+the+strongest+week.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Shopify+Show+my+store%27s+weekly+sales+for+the+past+three+weeks+and+highlight+the+strongest+week.>)
 
   * ### Prepare a product launch
 
-Create a draft product from your supplied details, ready for review.
-
 ![](https://files.openai.com/content?id=file_00000000f0cc81f597371a9ec614d0ca&cdn=1&cp=pi&ma=32227200&ts=0&p=pi&cid=8&sig=847f6ee018969c1c8e79881f605d40d20da7035a4ebfbde8aed6739542050c9b&v=0)Shopify Create a draft product from the details and image I provide, including its price and variants. Write a clear description using only those details and flag anything missing before launch.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Shopify+Create+a+draft+product+from+the+details+and+image+I+provide%2C+including+its+price+and+variants.+Write+a+clear+description+using+only+those+details+and+flag+anything+missing+before+launch.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Shopify+Create+a+draft+product+from+the+details+and+image+I+provide%2C+including+its+price+and+variants.+Write+a+clear+description+using+only+those+details+and+flag+anything+missing+before+launch.>)
 
   * ### Identify stock gaps
 
-Find product variants running low at each store location.
-
 ![](https://files.openai.com/content?id=file_00000000f0cc81f597371a9ec614d0ca&cdn=1&cp=pi&ma=32227200&ts=0&p=pi&cid=8&sig=847f6ee018969c1c8e79881f605d40d20da7035a4ebfbde8aed6739542050c9b&v=0)Shopify Check stock for the product I name across all locations. List variants with fewer than five units and prioritize the locations that need attention.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Shopify+Check+stock+for+the+product+I+name+across+all+locations.+List+variants+with+fewer+than+five+units+and+prioritize+the+locations+that+need+attention.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Shopify+Check+stock+for+the+product+I+name+across+all+locations.+List+variants+with+fewer+than+five+units+and+prioritize+the+locations+that+need+attention.>)
 
 
 

@@ -34,7 +34,7 @@ OpenAI
 
 Execute trades and access live market data using natural language.
 
-[Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_691f721a77bc8191be115b65c85075c0>)[Contact sales](</contact-sales/>)
+[Install plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_691f721a77bc8191be115b65c85075c0>)[Contact sales](</contact-sales/>)
 
 Category
     [Finance](</business/plugins/?tab=plugins-finance>)
@@ -51,31 +51,25 @@ Website
 
 Ask natural-language questions in ChatGPT to access Alpaca stock, options, and crypto market data—including quotes, historical data, and option chains—and place trading actions.
 
-## Common use cases
+## What else can you do?
 
   * ### Ask market questions
 
-Ask questions about stocks, options, or crypto and receive live or historical market data such as quotes, snapshots, and option chains using Alpaca data.
-
 ![](https://files.openai.com/content?id=file_000000002eac71f788feb5c9e6daa59e&cdn=1&cp=pi&ma=31881600&ts=0&p=pi&cid=1&sig=0176cded21c42d8a5ce0a3d29f9cda91e89be58c37f10932ea2dfaf02b645983&v=0)Alpaca For this ticket show today's quote, 30-day price trend, and notable volume changes. Summarize what changed most in the last week.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Alpaca+For+this+ticket+show+today%27s+quote%2C+30-day+price+trend%2C+and+notable+volume+changes.+Summarize+what+changed+most+in+the+last+week.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Alpaca+For+this+ticket+show+today%27s+quote%2C+30-day+price+trend%2C+and+notable+volume+changes.+Summarize+what+changed+most+in+the+last+week.>)
 
   * ### Access live trading data
 
-Access live stock, options, and crypto market data embedded directly in the conversation for analysis and exploration.
-
 ![](https://files.openai.com/content?id=file_000000002eac71f788feb5c9e6daa59e&cdn=1&cp=pi&ma=31881600&ts=0&p=pi&cid=1&sig=0176cded21c42d8a5ce0a3d29f9cda91e89be58c37f10932ea2dfaf02b645983&v=0)Alpaca Pull the current option chain for this ticker expiring on [date]. Summarize high open interest strikes, implied volatility, and how calls vs. puts are distributed.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Alpaca+Pull+the+current+option+chain+for+this+ticker+expiring+on+%5Bdate%5D.+Summarize+high+open+interest+strikes%2C+implied+volatility%2C+and+how+calls+vs.+puts+are+distributed.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Alpaca+Pull+the+current+option+chain+for+this+ticker+expiring+on+%5Bdate%5D.+Summarize+high+open+interest+strikes%2C+implied+volatility%2C+and+how+calls+vs.+puts+are+distributed.>)
 
   * ### Trigger trading actions
 
-Use Alpaca’s API-backed actions in ChatGPT to place trading orders based on your analysis and prompts.
-
 ![](https://files.openai.com/content?id=file_000000002eac71f788feb5c9e6daa59e&cdn=1&cp=pi&ma=31881600&ts=0&p=pi&cid=1&sig=0176cded21c42d8a5ce0a3d29f9cda91e89be58c37f10932ea2dfaf02b645983&v=0)Alpaca Place a limit buy order for [ticker] for [amount] shares at [limit]. Before submitting, restate the order details and ask me to confirm.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Alpaca+Place+a+limit+buy+order+for+%5Bticker%5D+for+%5Bamount%5D+shares+at+%5Blimit%5D.+Before+submitting%2C+restate+the+order+details+and+ask+me+to+confirm.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Alpaca+Place+a+limit+buy+order+for+%5Bticker%5D+for+%5Bamount%5D+shares+at+%5Blimit%5D.+Before+submitting%2C+restate+the+order+details+and+ask+me+to+confirm.>)
 
 
 

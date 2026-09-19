@@ -34,7 +34,7 @@ OpenAI
 
 Access financial KPIs with source links.
 
-[Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_692f6343042c8191b6617e8352444692>)[Contact sales](</contact-sales/>)
+[Install plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_692f6343042c8191b6617e8352444692>)[Contact sales](</contact-sales/>)
 
 Category
     [Finance](</business/plugins/?tab=plugins-finance>)
@@ -49,31 +49,25 @@ Website
 
 Access verified financial fundamentals and KPIs with direct source links in ChatGPT to support analysis, benchmarking, and modeling across public companies.
 
-## Common use cases
+## What else can you do?
 
   * ### Accelerate financial data collection
 
-Retrieve verified fundamentals and KPIs with source links so models and analyses can use reliable data without manual data gathering.
-
 ![](https://files.openai.com/content?id=file_000000005a64722f96b05ee7cfdb3efd&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=1&sig=d5977ffc3ac4bfb68290039aabaf412a46dff8e7d1a637889effaabbe28c5ed4&v=0)Daloopa Pull the last 5 years of revenue gross margin, operating margin, and FCF for Apple with source links.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Daloopa+Pull+the+last+5+years+of+revenue+gross+margin%2C+operating+margin%2C+and+FCF+for+Apple+with+source+links.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Daloopa+Pull+the+last+5+years+of+revenue+gross+margin%2C+operating+margin%2C+and+FCF+for+Apple+with+source+links.>)
 
   * ### Improve data reliability
 
-Use verified, source-linked data to validate assumptions, compare peers, and review trends using consistent financial fundamentals.
-
 ![](https://files.openai.com/content?id=file_000000005a64722f96b05ee7cfdb3efd&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=1&sig=d5977ffc3ac4bfb68290039aabaf412a46dff8e7d1a637889effaabbe28c5ed4&v=0)Daloopa Summarize the trend in unit economics for this company and point to the primary sources behind each metric.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Daloopa+Summarize+the+trend+in+unit+economics+for+this+company+and+point+to+the+primary+sources+behind+each+metric.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Daloopa+Summarize+the+trend+in+unit+economics+for+this+company+and+point+to+the+primary+sources+behind+each+metric.>)
 
   * ### Scale advanced financial workflows
 
-Use structured fundamentals and KPIs to support benchmarking, valuation work, and other financial workflows across research teams.
-
 ![](https://files.openai.com/content?id=file_000000005a64722f96b05ee7cfdb3efd&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=1&sig=d5977ffc3ac4bfb68290039aabaf412a46dff8e7d1a637889effaabbe28c5ed4&v=0)Daloopa Create a quick benchmarking snapshot I can paste into an IC deck with the most decision relevant KPIs.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Daloopa+Create+a+quick+benchmarking+snapshot+I+can+paste+into+an+IC+deck+with+the+most+decision+relevant+KPIs.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Daloopa+Create+a+quick+benchmarking+snapshot+I+can+paste+into+an+IC+deck+with+the+most+decision+relevant+KPIs.>)
 
 
 

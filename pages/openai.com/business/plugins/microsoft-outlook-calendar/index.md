@@ -34,7 +34,7 @@ OpenAI
 
 Look up events and availability.
 
-[Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_1p_fd0f4f41caa88191a9456514bbffa06d>)[Contact sales](</contact-sales/>)
+[Install plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_1p_fd0f4f41caa88191a9456514bbffa06d>)[Contact sales](</contact-sales/>)
 
 Capabilities
     Interactive, Write
@@ -48,37 +48,31 @@ Developer
 Website
     [(opens in a new window)](<https://www.microsoft.com/en-us/microsoft-365/outlook/calendar-app>)
 
-[![](https://files.openai.com/content?id=file_0000000020b881f79f64b17a38166052&cdn=1&cp=pi&ma=31536000&ts=0&p=pi&cid=8&sig=b8f7532209deaf547f86f6b5f11dce2f08e67cb229e8989a169b147cdaef7fec&v=0)Outlook Calendar For my next 3 meetings today, generate short prep notes: attendees, likely goals, and questions I should ask(opens in a new window)](<https://chatgpt.com/?prompt=%40Outlook+Calendar+For+my+next+3+meetings+today%2C+generate+short+prep+notes%3A+attendees%2C+likely+goals%2C+and+questions+I+should+ask>)[![](https://files.openai.com/content?id=file_0000000020b881f79f64b17a38166052&cdn=1&cp=pi&ma=31536000&ts=0&p=pi&cid=8&sig=b8f7532209deaf547f86f6b5f11dce2f08e67cb229e8989a169b147cdaef7fec&v=0)Outlook Calendar Build a weekly plan: group my meetings by theme (customer, internal, hiring, ops) and suggest slots for focus time(opens in a new window)](<https://chatgpt.com/?prompt=%40Outlook+Calendar+Build+a+weekly+plan%3A+group+my+meetings+by+theme+%28customer%2C+internal%2C+hiring%2C+ops%29+and+suggest+slots+for+focus+time>)[![](https://files.openai.com/content?id=file_0000000020b881f79f64b17a38166052&cdn=1&cp=pi&ma=31536000&ts=0&p=pi&cid=8&sig=b8f7532209deaf547f86f6b5f11dce2f08e67cb229e8989a169b147cdaef7fec&v=0)Outlook Calendar Find this week's calendar conflicts. Suggest meetings to delegate, decline, or shorten, and draft a message for each(opens in a new window)](<https://chatgpt.com/?prompt=%40Outlook+Calendar+Find+this+week%27s+calendar+conflicts.+Suggest+meetings+to+delegate%2C+decline%2C+or+shorten%2C+and+draft+a+message+for+each>)
+[![](https://files.openai.com/content?id=file_0000000020b881f79f64b17a38166052&cdn=1&cp=pi&ma=31536000&ts=0&p=pi&cid=8&sig=b8f7532209deaf547f86f6b5f11dce2f08e67cb229e8989a169b147cdaef7fec&v=0)Outlook Calendar For my next 3 meetings today, generate short prep notes: attendees, likely goals, and questions I should ask(opens in a new window)](<https://chatgpt.com/?prompt=%40Outlook+Calendar+For+my+next+3+meetings+today%2C+generate+short+prep+notes%3A+attendees%2C+likely+goals%2C+and+questions+I+should+ask>)
 
 ## How it works
 
 Review your Outlook calendar events and email threads to prepare for calls, revisit past conversations, surface upcoming meetings, or pull out action items.
 
-## Common use cases
+## What else can you do?
 
   * ### Prepare efficiently for upcoming meetings
 
-Generate agendas and talking points using attendee lists, past interactions, and related notes so teams arrive aligned and spend less time spent gathering context.
-
 ![](https://files.openai.com/content?id=file_0000000020b881f79f64b17a38166052&cdn=1&cp=pi&ma=31536000&ts=0&p=pi&cid=8&sig=b8f7532209deaf547f86f6b5f11dce2f08e67cb229e8989a169b147cdaef7fec&v=0)Outlook Calendar For my next 3 meetings today, generate short prep notes: attendees, likely goals, and questions I should ask.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Outlook+Calendar+For+my+next+3+meetings+today%2C+generate+short+prep+notes%3A+attendees%2C+likely+goals%2C+and+questions+I+should+ask.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Outlook+Calendar+For+my+next+3+meetings+today%2C+generate+short+prep+notes%3A+attendees%2C+likely+goals%2C+and+questions+I+should+ask.>)
 
   * ### Improve schedule visibility and prioritization
 
-Review upcoming events, identify conflicts, and highlight critical sessions, enabling you to plan days around the highest-value engagements.
-
 ![](https://files.openai.com/content?id=file_0000000020b881f79f64b17a38166052&cdn=1&cp=pi&ma=31536000&ts=0&p=pi&cid=8&sig=b8f7532209deaf547f86f6b5f11dce2f08e67cb229e8989a169b147cdaef7fec&v=0)Outlook Calendar Review my calendar for conflicts this week and recommend which meetings to delegate, decline, or shorten, with a suggested message each.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Outlook+Calendar+Review+my+calendar+for+conflicts+this+week+and+recommend+which+meetings+to+delegate%2C+decline%2C+or+shorten%2C+with+a+suggested+message+each.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Outlook+Calendar+Review+my+calendar+for+conflicts+this+week+and+recommend+which+meetings+to+delegate%2C+decline%2C+or+shorten%2C+with+a+suggested+message+each.>)
 
   * ### Clarify actions tied to prior meetings
 
-Summarize past sessions to extract decisions and next steps, ensuring continuity across recurring reviews, project check-ins, and customer calls.
-
 ![](https://files.openai.com/content?id=file_0000000020b881f79f64b17a38166052&cdn=1&cp=pi&ma=31536000&ts=0&p=pi&cid=8&sig=b8f7532209deaf547f86f6b5f11dce2f08e67cb229e8989a169b147cdaef7fec&v=0)Outlook Calendar Use the event details and related email threads for my latest [project] check-in to summarize documented decisions, open questions, and next steps with owners.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Outlook+Calendar+Use+the+event+details+and+related+email+threads+for+my+latest+%5Bproject%5D+check-in+to+summarize+documented+decisions%2C+open+questions%2C+and+next+steps+with+owners.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Outlook+Calendar+Use+the+event+details+and+related+email+threads+for+my+latest+%5Bproject%5D+check-in+to+summarize+documented+decisions%2C+open+questions%2C+and+next+steps+with+owners.>)
 
 
 

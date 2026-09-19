@@ -34,7 +34,7 @@ OpenAI
 
 Create flyers, posts, and graphics quickly.
 
-[Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_699d522f170c81919c824678c7c03732>)[Contact sales](</contact-sales/>)
+[Install plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_699d522f170c81919c824678c7c03732>)[Contact sales](</contact-sales/>)
 
 Category
     [Design & Creative](</business/plugins/?tab=plugins-design-creative>)
@@ -45,37 +45,31 @@ Developer
 Website
     [(opens in a new window)](<https://www.adobe.com/express/>)
 
-[![](https://files.openai.com/content?id=file_00000000939071f7bfd24cf1e8d5f5fb&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=6ebfe2cc1f5b0b42e22ad009c72554b104befc2d3e0a54884a6fbfaea2420331&v=0)![](https://files.openai.com/content?id=file_00000000939071f7bfd24cf1e8d5f5fb&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=6ebfe2cc1f5b0b42e22ad009c72554b104befc2d3e0a54884a6fbfaea2420331&v=0)Adobe Express I want to create an invitation for my son's birthday party.(opens in a new window)](<https://chatgpt.com/?prompt=%40Adobe+Express+I+want+to+create+an+invitation+for+my+son%27s+birthday+party.>)[![](https://files.openai.com/content?id=file_00000000939071f7bfd24cf1e8d5f5fb&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=6ebfe2cc1f5b0b42e22ad009c72554b104befc2d3e0a54884a6fbfaea2420331&v=0)![](https://files.openai.com/content?id=file_00000000939071f7bfd24cf1e8d5f5fb&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=6ebfe2cc1f5b0b42e22ad009c72554b104befc2d3e0a54884a6fbfaea2420331&v=0)Adobe Express fill details Emma Smith's Zoo party on her 6th birthday at 45 Maple Drive(opens in a new window)](<https://chatgpt.com/?prompt=%40Adobe+Express+fill+details+Emma+Smith%27s+Zoo+party+on+her+6th+birthday+at+45+Maple+Drive>)[![](https://files.openai.com/content?id=file_00000000939071f7bfd24cf1e8d5f5fb&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=6ebfe2cc1f5b0b42e22ad009c72554b104befc2d3e0a54884a6fbfaea2420331&v=0)![](https://files.openai.com/content?id=file_00000000939071f7bfd24cf1e8d5f5fb&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=6ebfe2cc1f5b0b42e22ad009c72554b104befc2d3e0a54884a6fbfaea2420331&v=0)Adobe Express Replace dinosaur with a baby croc(opens in a new window)](<https://chatgpt.com/?prompt=%40Adobe+Express+Replace+dinosaur+with+a+baby+croc>)
+[![](https://files.openai.com/content?id=file_00000000939071f7bfd24cf1e8d5f5fb&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=6ebfe2cc1f5b0b42e22ad009c72554b104befc2d3e0a54884a6fbfaea2420331&v=0)![](https://files.openai.com/content?id=file_00000000939071f7bfd24cf1e8d5f5fb&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=6ebfe2cc1f5b0b42e22ad009c72554b104befc2d3e0a54884a6fbfaea2420331&v=0)Adobe Express I want to create an invitation for my son's birthday party.(opens in a new window)](<https://chatgpt.com/?prompt=%40Adobe+Express+I+want+to+create+an+invitation+for+my+son%27s+birthday+party.>)
 
 ## How it works
 
 Create business and marketing visuals in ChatGPT using professional templates, customizing text, colors, and images to produce ready-to-use designs without design expertise.
 
-## Common use cases
+## What else can you do?
 
   * ### Create marketing assets faster
 
-Create social posts, flyers, posters, and invitations from templates in minutes to support campaigns, events, or announcements.
-
 ![](https://files.openai.com/content?id=file_00000000939071f7bfd24cf1e8d5f5fb&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=6ebfe2cc1f5b0b42e22ad009c72554b104befc2d3e0a54884a6fbfaea2420331&v=0)![](https://files.openai.com/content?id=file_00000000939071f7bfd24cf1e8d5f5fb&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=6ebfe2cc1f5b0b42e22ad009c72554b104befc2d3e0a54884a6fbfaea2420331&v=0)Adobe Express Create a set of 3 social ads for a gym January promo using bold typography and a consistent style.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Adobe+Express+Create+a+set+of+3+social+ads+for+a+gym+January+promo+using+bold+typography+and+a+consistent+style.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Adobe+Express+Create+a+set+of+3+social+ads+for+a+gym+January+promo+using+bold+typography+and+a+consistent+style.>)
 
   * ### Keep branding consistent
 
-Customize templates with brand colors, messaging, and imagery to keep visuals aligned across channels without needing designer updates.
-
 ![](https://files.openai.com/content?id=file_00000000939071f7bfd24cf1e8d5f5fb&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=6ebfe2cc1f5b0b42e22ad009c72554b104befc2d3e0a54884a6fbfaea2420331&v=0)![](https://files.openai.com/content?id=file_00000000939071f7bfd24cf1e8d5f5fb&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=6ebfe2cc1f5b0b42e22ad009c72554b104befc2d3e0a54884a6fbfaea2420331&v=0)Adobe Express Create holiday themed email header graphics that still match our brand colors and feel premium, not cheesy.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Adobe+Express+Create+holiday+themed+email+header+graphics+that+still+match+our+brand+colors+and+feel+premium%2C+not+cheesy.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Adobe+Express+Create+holiday+themed+email+header+graphics+that+still+match+our+brand+colors+and+feel+premium%2C+not+cheesy.>)
 
   * ### Support self-serve design
 
-Let non-design teams create business cards, event flyers, and promos themselves to reduce design requests and speed up turnaround.
-
 ![](https://files.openai.com/content?id=file_00000000939071f7bfd24cf1e8d5f5fb&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=6ebfe2cc1f5b0b42e22ad009c72554b104befc2d3e0a54884a6fbfaea2420331&v=0)![](https://files.openai.com/content?id=file_00000000939071f7bfd24cf1e8d5f5fb&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=6ebfe2cc1f5b0b42e22ad009c72554b104befc2d3e0a54884a6fbfaea2420331&v=0)Adobe Express Build a simple template pack for internal comms: announcement slide, email header, and a square post.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Adobe+Express+Build+a+simple+template+pack+for+internal+comms%3A+announcement+slide%2C+email+header%2C+and+a+square+post.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Adobe+Express+Build+a+simple+template+pack+for+internal+comms%3A+announcement+slide%2C+email+header%2C+and+a+square+post.>)
 
 
 

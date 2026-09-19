@@ -34,573 +34,297 @@ Build, co-sell, and deliver AI solutions with OpenAI.
 
 Already a partner? [_Log in →_ ⁠(opens in a new window)](<https://partners.openai.com/s/login/>)
 
-Accenture
+[Accenture![Accenture logo](https://images.ctfassets.net/kftzwdyauwt9/5qbj6p7TGD0ORHqbsZQTCX/650a10e24e5ed2af6f4a56589781e021/accenture-square-light.svg?w=3840&q=90)](</business/partners/accenture/>)
 
-![Accenture logo](https://images.ctfassets.net/kftzwdyauwt9/5qbj6p7TGD0ORHqbsZQTCX/650a10e24e5ed2af6f4a56589781e021/accenture-square-light.svg?w=3840&q=90)
+[Accenture Federal Services![Accenture Federal Services logo](https://images.ctfassets.net/kftzwdyauwt9/1bV7hMj7OBsW1oEKNRZvNa/bf80e051f64f09f35eda929d4644ff7c/accenture-federal-services-square-light.svg?w=3840&q=90)](</business/partners/accenture-federal-services/>)
 
-Accenture Federal Services
+[Aiworks![Aiworks logo](https://images.ctfassets.net/kftzwdyauwt9/1BFM7GTbhx2wh1BzVFoiDM/348f12a321bcbe6d06c3c4c521523ba7/aiworks-square-light.svg?w=3840&q=90)](</business/partners/aiworks/>)
 
-![Accenture Federal Services logo](https://images.ctfassets.net/kftzwdyauwt9/1bV7hMj7OBsW1oEKNRZvNa/bf80e051f64f09f35eda929d4644ff7c/accenture-federal-services-square-light.svg?w=3840&q=90)
+[Algorithmic Intelligence![Algorithmic Intelligence, Pte. Ltd. logo](https://images.ctfassets.net/kftzwdyauwt9/1J3EYnwuji3gkYwsFolOqc/b75f58ecebdcf4112bb2e4634525ca47/algorithmic-intelligence-square-light.svg?w=3840&q=90)](</business/partners/algorithmic-intelligence/>)
 
-AI Works
+[Altimetrik![Altimetrik logo](https://images.ctfassets.net/kftzwdyauwt9/xkjCRE7KNvx5nP80Td02A/45c914e53eed999001c3d9fc43da5c6a/altimetrik-square-light.svg?w=3840&q=90)](</business/partners/altimetrik/>)
 
-![Aiworks logo](https://images.ctfassets.net/kftzwdyauwt9/1BFM7GTbhx2wh1BzVFoiDM/348f12a321bcbe6d06c3c4c521523ba7/aiworks-square-light.svg?w=3840&q=90)
+[Altudo![Altudo logo](https://images.ctfassets.net/kftzwdyauwt9/4BNDHqFBrw3KTgTGkuE3F8/014c0d3ab439e07cf1e2f11f142d5b9d/Altudo_square_light.svg?w=3840&q=90)](</business/partners/altudo/>)
 
-Algorithmic Intelligence
+[Artefact![Artefact logo](https://images.ctfassets.net/kftzwdyauwt9/3LFiPmNCK28yTAnSwD3dTj/5f3f1f6ce0ca77ae62e5e890eaa577cd/artefact-square-light.svg?w=3840&q=90)](</business/partners/artefact/>)
 
-![Algorithmic Intelligence, Pte. Ltd. logo](https://images.ctfassets.net/kftzwdyauwt9/1J3EYnwuji3gkYwsFolOqc/b75f58ecebdcf4112bb2e4634525ca47/algorithmic-intelligence-square-light.svg?w=3840&q=90)
+[Artium![Artium logo](https://images.ctfassets.net/kftzwdyauwt9/5roOVPJFbzHwn9meVaATmj/373b40d5a7acd2cc6ed3d07806a14476/artium-square-light.svg?w=3840&q=90)](</business/partners/artium/>)
 
-Altimetrik
+[AWS![AWS logo](https://images.ctfassets.net/kftzwdyauwt9/2fzUGOqeA4gmwd3ZvfZ7Et/d9ecc3a1a0bf6e65fec5f67a83ffe28f/aws-light.svg?w=3840&q=90)](</business/partners/aws/>)
 
-![Altimetrik logo](https://images.ctfassets.net/kftzwdyauwt9/xkjCRE7KNvx5nP80Td02A/45c914e53eed999001c3d9fc43da5c6a/altimetrik-square-light.svg?w=3840&q=90)
+[Bain & Company![Bain & Company logo](https://images.ctfassets.net/kftzwdyauwt9/6EKBRRuf3ZgQYv5UFtu0WJ/0ad835dd088f2c94e00d411aeb1724ce/bain___company_square_light.svg?w=3840&q=90)](</business/partners/bain-and-company/>)
 
-Altudo
+[BCG![Boston Consulting Group logo](https://images.ctfassets.net/kftzwdyauwt9/YGZBAwOPwnl7w1zlhojKH/1139fe3fc7bd98608a900d600eeb229b/bcg-square-light.svg?w=3840&q=90)](</business/partners/boston-consulting-group/>)
 
-![Altudo logo](https://images.ctfassets.net/kftzwdyauwt9/4BNDHqFBrw3KTgTGkuE3F8/014c0d3ab439e07cf1e2f11f142d5b9d/Altudo_square_light.svg?w=3840&q=90)
+[Blank Metal![Blank Metal logo](https://images.ctfassets.net/kftzwdyauwt9/4dWRkqa4RVUF0hT1oGuNoR/71cd1bdec6377c26831e5c674ba48081/phia-select-47-squareLight.svg?w=3840&q=90)](</business/partners/blank-metal/>)
 
-Artefact
+[Blend 360![Blend360 logo](https://images.ctfassets.net/kftzwdyauwt9/3nqJs9eFUtUv22CigSNONC/2d15c1b1a71de29e56456b45b88a6b38/phia-select-50-squareLight.svg?w=3840&q=90)](</business/partners/blend360/>)
 
-![Artefact logo](https://images.ctfassets.net/kftzwdyauwt9/3LFiPmNCK28yTAnSwD3dTj/5f3f1f6ce0ca77ae62e5e890eaa577cd/artefact-square-light.svg?w=3840&q=90)
+[Booz Allen Hamilton![Booz Allen Hamilton logo](https://images.ctfassets.net/kftzwdyauwt9/5dL22zZMFd5NLcJ1gn1mdf/cfc187cf341b723fe31badf321fd3ddf/Booz_Allen_Hamilton_square_light.svg?w=3840&q=90)](</business/partners/booz-allen-hamilton/>)
 
-Artium
+[Capco![Capco logo](https://images.ctfassets.net/kftzwdyauwt9/tutYO1wUAO777hm8UAW7w/91e47ee5a6a121bb898953732ec01eef/capco-square-light.svg?w=3840&q=90)](</business/partners/capco/>)
 
-![Artium logo](https://images.ctfassets.net/kftzwdyauwt9/5roOVPJFbzHwn9meVaATmj/373b40d5a7acd2cc6ed3d07806a14476/artium-square-light.svg?w=3840&q=90)
+[Capgemini![Capgemini logo](https://images.ctfassets.net/kftzwdyauwt9/4vR1Q4kfD1DSskol6Z1St2/50704efd170efcfe108d169a76c50e1d/capgemini-square-light.svg?w=3840&q=90)](</business/partners/capgemini/>)
 
-AWS
+[CDW![CDW logo](https://images.ctfassets.net/kftzwdyauwt9/37b3zodoczhm8WjBBRnnpe/d0c670fb24fe305ab3b812d282a131cb/CDW_square_light.svg?w=3840&q=90)](</business/partners/cdw/>)
 
-![AWS logo](https://images.ctfassets.net/kftzwdyauwt9/2fzUGOqeA4gmwd3ZvfZ7Et/d9ecc3a1a0bf6e65fec5f67a83ffe28f/aws-light.svg?w=3840&q=90)
+[CGI![CGI logo](https://images.ctfassets.net/kftzwdyauwt9/4OyqFKpOMbw10mPHcLWFmn/0d4907540050fb709f8d5c364589d5a2/cgi-square-light.svg?w=3840&q=90)](</business/partners/cgi/>)
 
-Bain & Company
+[CHIEFTNS![CHIEFTNS logo](https://images.ctfassets.net/kftzwdyauwt9/63aR4cVzIG6TV4HOtNJAH0/2c401fe133d437b2b77a91251e4a959d/CHIEFTNS_square_light.svg?w=3840&q=90)](</business/partners/chieftns/>)
 
-![Bain & Company logo](https://images.ctfassets.net/kftzwdyauwt9/6EKBRRuf3ZgQYv5UFtu0WJ/0ad835dd088f2c94e00d411aeb1724ce/bain___company_square_light.svg?w=3840&q=90)
+[Clarinet![Clarinet logo](https://images.ctfassets.net/kftzwdyauwt9/Cun7DSRXKXK1X3ZhM4JEZ/a7a29ac0acd8e772deb5d83a31fdd40d/clarinet-square-light.svg?w=3840&q=90)](</business/partners/clarinet/>)
 
-BCG
+[Cloudwerx![Cloudwerx logo](https://images.ctfassets.net/kftzwdyauwt9/18HmYVDFm3nGcgYctMdDdK/64db2282fc7cad540024082b11bedfdc/phia-select-46-squareLight.svg?w=3840&q=90)](</business/partners/cloudwerx/>)
 
-![Boston Consulting Group logo](https://images.ctfassets.net/kftzwdyauwt9/YGZBAwOPwnl7w1zlhojKH/1139fe3fc7bd98608a900d600eeb229b/bcg-square-light.svg?w=3840&q=90)
+[Cognita Reply![Cognita Reply logo](https://images.ctfassets.net/kftzwdyauwt9/partnerLocatorReplySquareLight20260714/cba66d9cf084a6eae756fe2a0d559e29/Cognita_Reply.svg?w=3840&q=90)](</business/partners/cognita-reply/>)
 
-Blank Metal
+[Cognizant![Cognizant logo](https://images.ctfassets.net/kftzwdyauwt9/7Fb9eG5Q5ovKNO4YIdDF0T/501e9eadb92c7eb6e6e838005425f452/cognizant-square-light.svg?w=3840&q=90)](</business/partners/cognizant/>)
 
-![Blank Metal logo](https://images.ctfassets.net/kftzwdyauwt9/4dWRkqa4RVUF0hT1oGuNoR/71cd1bdec6377c26831e5c674ba48081/phia-select-47-squareLight.svg?w=3840&q=90)
-
-Blend 360
-
-![Blend360 logo](https://images.ctfassets.net/kftzwdyauwt9/3nqJs9eFUtUv22CigSNONC/2d15c1b1a71de29e56456b45b88a6b38/phia-select-50-squareLight.svg?w=3840&q=90)
-
-Booz Allen Hamilton
-
-![Booz Allen Hamilton logo](https://images.ctfassets.net/kftzwdyauwt9/5dL22zZMFd5NLcJ1gn1mdf/cfc187cf341b723fe31badf321fd3ddf/Booz_Allen_Hamilton_square_light.svg?w=3840&q=90)
-
-Capco
-
-![Capco logo](https://images.ctfassets.net/kftzwdyauwt9/tutYO1wUAO777hm8UAW7w/91e47ee5a6a121bb898953732ec01eef/capco-square-light.svg?w=3840&q=90)
-
-Capgemini
-
-![Capgemini logo](https://images.ctfassets.net/kftzwdyauwt9/4vR1Q4kfD1DSskol6Z1St2/50704efd170efcfe108d169a76c50e1d/capgemini-square-light.svg?w=3840&q=90)
-
-CDW
-
-![CDW logo](https://images.ctfassets.net/kftzwdyauwt9/37b3zodoczhm8WjBBRnnpe/d0c670fb24fe305ab3b812d282a131cb/CDW_square_light.svg?w=3840&q=90)
-
-CGI
-
-![CGI logo](https://images.ctfassets.net/kftzwdyauwt9/4OyqFKpOMbw10mPHcLWFmn/0d4907540050fb709f8d5c364589d5a2/cgi-square-light.svg?w=3840&q=90)
-
-CHIEFTNS
-
-![CHIEFTNS logo](https://images.ctfassets.net/kftzwdyauwt9/63aR4cVzIG6TV4HOtNJAH0/2c401fe133d437b2b77a91251e4a959d/CHIEFTNS_square_light.svg?w=3840&q=90)
-
-Clarinet
-
-![Clarinet logo](https://images.ctfassets.net/kftzwdyauwt9/Cun7DSRXKXK1X3ZhM4JEZ/a7a29ac0acd8e772deb5d83a31fdd40d/clarinet-square-light.svg?w=3840&q=90)
-
-Cloudwerx
-
-![Cloudwerx logo](https://images.ctfassets.net/kftzwdyauwt9/18HmYVDFm3nGcgYctMdDdK/64db2282fc7cad540024082b11bedfdc/phia-select-46-squareLight.svg?w=3840&q=90)
-
-Cognita Reply
-
-![Cognita Reply logo](https://images.ctfassets.net/kftzwdyauwt9/partnerLocatorReplySquareLight20260714/cba66d9cf084a6eae756fe2a0d559e29/Cognita_Reply.svg?w=3840&q=90)
-
-Cognizant
-
-![Cognizant logo](https://images.ctfassets.net/kftzwdyauwt9/7Fb9eG5Q5ovKNO4YIdDF0T/501e9eadb92c7eb6e6e838005425f452/cognizant-square-light.svg?w=3840&q=90)
-
-Corca
-
-![Corca logo](https://images.ctfassets.net/kftzwdyauwt9/6t5rCWDtyXFr55Zhg3XR5n/436e1dedb8091dddfbcf6ec43b042987/corca-square-light.svg?w=3840&q=90)
+[Corca![Corca logo](https://images.ctfassets.net/kftzwdyauwt9/6t5rCWDtyXFr55Zhg3XR5n/436e1dedb8091dddfbcf6ec43b042987/corca-square-light.svg?w=3840&q=90)](</business/partners/corca/>)
 
 Databricks
 
 ![Databricks logo](https://images.ctfassets.net/kftzwdyauwt9/4RZpkFlKPZ3v1IAIXt11hb/650b4fb9cfe5cb1a788ba4d6649f0075/databricks-light.svg?w=3840&q=90)
 
-deepsense.ai
+[deepsense.ai![deepsense.ai logo](https://images.ctfassets.net/kftzwdyauwt9/6LzIuojrKqcpRB7lQJ4eaE/3b36f504583e4c18143f0c154310905b/deepsense-square-light.svg?w=3840&q=90)](</business/partners/deepsense-ai/>)
 
-![deepsense.ai logo](https://images.ctfassets.net/kftzwdyauwt9/6LzIuojrKqcpRB7lQJ4eaE/3b36f504583e4c18143f0c154310905b/deepsense-square-light.svg?w=3840&q=90)
+[Dentsu Japan![Dentsu Japan logo](https://images.ctfassets.net/kftzwdyauwt9/1JADpGw9MIqHoyn1w3VfCX/2991ef7544e6b25961bd9200691dd8ed/dentsu-square-light.svg?w=3840&q=90)](</business/partners/dentsu-japan/>)
 
-Dentsu Japan
+[Distyl AI![Distyl AI logo](https://images.ctfassets.net/kftzwdyauwt9/1cCrqb584vFkxooXXiYMOR/ed35d22d0458690e4d4287d8c1cbba1c/3tEYen84xf6AMaXUeYmfJs?w=3840&q=90&fm=webp)](</business/partners/distyl-ai/>)
 
-![Dentsu Japan logo](https://images.ctfassets.net/kftzwdyauwt9/1JADpGw9MIqHoyn1w3VfCX/2991ef7544e6b25961bd9200691dd8ed/dentsu-square-light.svg?w=3840&q=90)
+[Eliza![Eliza logo](https://images.ctfassets.net/kftzwdyauwt9/66QLSpv0l3MGOluz2t5g5X/b0b34c0c9bc7de2be19b31a9a56f891a/eliza-square-light.svg?w=3840&q=90)](</business/partners/eliza/>)
 
-Distyl AI
+[Endava![Endava logo](https://images.ctfassets.net/kftzwdyauwt9/23kZ9A1DIl8OyyR4rzgHt3/60b3d4187870e3e1610c2ec3ffad1da8/endava-square-light.svg?w=3840&q=90)](</business/partners/endava/>)
 
-![Distyl AI logo](https://images.ctfassets.net/kftzwdyauwt9/1cCrqb584vFkxooXXiYMOR/ed35d22d0458690e4d4287d8c1cbba1c/3tEYen84xf6AMaXUeYmfJs?w=3840&q=90&fm=webp)
+[EPAM![EPAM logo](https://images.ctfassets.net/kftzwdyauwt9/1PKvv5gn0HzqrDcl9F7DyB/520eed0951f666fb9c37419bce2b133e/epam-square-light.svg?w=3840&q=90)](</business/partners/epam/>)
 
-Eliza
+[Ernst & Young![Ernst & Young logo](https://images.ctfassets.net/kftzwdyauwt9/6Suyj9Tjsnh3vfKerGQX4l/fb741971ff7a89de2adf3e6388accc55/ey-square-light.svg?w=3840&q=90)](</business/partners/ernst-and-young/>)
 
-![Eliza logo](https://images.ctfassets.net/kftzwdyauwt9/66QLSpv0l3MGOluz2t5g5X/b0b34c0c9bc7de2be19b31a9a56f891a/eliza-square-light.svg?w=3840&q=90)
+[EXL Service![EXL Service logo](https://images.ctfassets.net/kftzwdyauwt9/5JtCMvukg8WLA3URwDMN91/ace060bcffd25f1041eed72d48b85531/57jIrUpgYjXzlbxvflZk6z?w=3840&q=90&fm=webp)](</business/partners/exl-service/>)
 
-Endava
+[Fellow Intelligence![Fellow Intelligence logo](https://images.ctfassets.net/kftzwdyauwt9/6FIFg8BiqhOjpVklDV06xM/bd1f38168083338c1d1bc76ba12d679c/fellow-square-light.svg?w=3840&q=90)](</business/partners/fellow-intelligence/>)
 
-![Endava logo](https://images.ctfassets.net/kftzwdyauwt9/23kZ9A1DIl8OyyR4rzgHt3/60b3d4187870e3e1610c2ec3ffad1da8/endava-square-light.svg?w=3840&q=90)
+[Fractal![Fractal logo](https://images.ctfassets.net/kftzwdyauwt9/4UCDXLMAv2r1UY1zuJJ4UN/c5baa5f297fda1e219f6d11e35127306/fractal-analytics-square-light.svg?w=3840&q=90)](</business/partners/fractal/>)
 
-EPAM
+[Fujitsu![Fujitsu logo](https://images.ctfassets.net/kftzwdyauwt9/4zYSWifSjmF255A6W3oaMK/a94ecd0e9b647f70612d03940f9c260e/fujitsu-square-light.svg?w=3840&q=90)](</business/partners/fujitsu/>)
 
-![EPAM logo](https://images.ctfassets.net/kftzwdyauwt9/1PKvv5gn0HzqrDcl9F7DyB/520eed0951f666fb9c37419bce2b133e/epam-square-light.svg?w=3840&q=90)
+[Globant![Globant logo](https://images.ctfassets.net/kftzwdyauwt9/2XEMLdXwGxogFc9GMKnv3o/3bb133e8785e4ff31dfe59e257f71d6a/phia-select-56-squareLight.svg?w=3840&q=90)](</business/partners/globant/>)
 
-Ernst & Young
+[HCLTech![HCLTech logo](https://images.ctfassets.net/kftzwdyauwt9/5FnTDKYvobYJVeFiNomq0u/429baa84d8a3678b321ccd5394b289b3/hcltech-square-light.svg?w=3840&q=90)](</business/partners/hcltech/>)
 
-![Ernst & Young logo](https://images.ctfassets.net/kftzwdyauwt9/6Suyj9Tjsnh3vfKerGQX4l/fb741971ff7a89de2adf3e6388accc55/ey-square-light.svg?w=3840&q=90)
+[IBM![IBM logo](https://images.ctfassets.net/kftzwdyauwt9/21DyEzMiD4hgERWVy9jMVR/fdca1bd91f0661b4edf39c0822342c83/square-light.svg?w=3840&q=90)](</business/partners/ibm/>)
 
-EXL Service
+[Infosys![Infosys logo](https://images.ctfassets.net/kftzwdyauwt9/partnerLocatorInfosysSquareLight20260714/ced93869a47cf4b8bf2aecf0da3fdfc9/Infosys.svg?w=3840&q=90)](</business/partners/infosys/>)
 
-![EXL Service logo](https://images.ctfassets.net/kftzwdyauwt9/5JtCMvukg8WLA3URwDMN91/ace060bcffd25f1041eed72d48b85531/57jIrUpgYjXzlbxvflZk6z?w=3840&q=90&fm=webp)
+[Insurgence![Insurgence logo](https://images.ctfassets.net/kftzwdyauwt9/6EyRPJMTj2FuKCsbnqklUI/1c3a7631d5fcd9f5041bb26e2b67282e/insurgence-square-light.svg?w=3840&q=90)](</business/partners/insurgence/>)
 
-Fellow Intelligence
+[KPMG![KPMG logo](https://images.ctfassets.net/kftzwdyauwt9/5L0vA3Wliji92xaqTcGlQi/af968e49adbbfb5962c93dc995c9a905/kpmg-square-light.svg?w=3840&q=90)](</business/partners/kpmg/>)
 
-![Fellow Intelligence logo](https://images.ctfassets.net/kftzwdyauwt9/6FIFg8BiqhOjpVklDV06xM/bd1f38168083338c1d1bc76ba12d679c/fellow-square-light.svg?w=3840&q=90)
+[Mantel![Mantel logo](https://images.ctfassets.net/kftzwdyauwt9/4e2rSyhgn3lTXXUNbhAVjZ/d73323de824f9a1893fd5966486a709d/Mantel_square_light.svg?w=3840&q=90)](</business/partners/mantel/>)
 
-Fractal
+[McKinsey & Company![McKinsey & Company logo](https://images.ctfassets.net/kftzwdyauwt9/6Z4q8mSHnaA4SfqLCTUNQt/6cfa8ebfa66f186895fb93c12c5a1ce6/mckinsey-company-square-light.svg?w=3840&q=90)](</business/partners/mckinsey-and-company/>)
 
-![Fractal logo](https://images.ctfassets.net/kftzwdyauwt9/4UCDXLMAv2r1UY1zuJJ4UN/c5baa5f297fda1e219f6d11e35127306/fractal-analytics-square-light.svg?w=3840&q=90)
+[Merantix Momentum![Merantix Momentum logo](https://images.ctfassets.net/kftzwdyauwt9/55C7XYTNrYu5sgL1I48JSC/6d1cd7a97343ecd907fd9810d113c6a4/merantix-momentum-square-light.svg?w=3840&q=90)](</business/partners/merantix-momentum/>)
 
-Fujitsu
+[ML6![ML6 logo](https://images.ctfassets.net/kftzwdyauwt9/2a4BTwNCZiYVRhFl4ueZKM/c135d9c0722c1266b870871473af26fe/ml6-square-light.svg?w=3840&q=90)](</business/partners/ml6/>)
 
-![Fujitsu logo](https://images.ctfassets.net/kftzwdyauwt9/4zYSWifSjmF255A6W3oaMK/a94ecd0e9b647f70612d03940f9c260e/fujitsu-square-light.svg?w=3840&q=90)
+[Nablon AI![Nablon AI logo](https://images.ctfassets.net/kftzwdyauwt9/7q9cw4RwHk5qwqf6l70qWw/b1a64105dfc1c06a9da8323065fec9aa/phia-select-48-squareLight.svg?w=3840&q=90)](</business/partners/nablon-ai/>)
 
-Globant
+[Nagarro![Nagarro square logo](https://images.ctfassets.net/kftzwdyauwt9/ii271qmQ49t4oeUmkczwL/21e9a8a94ef9b8492bb533bb8cc787ff/square-light.svg?w=3840&q=90)](</business/partners/nagarro/>)
 
-![Globant logo](https://images.ctfassets.net/kftzwdyauwt9/2XEMLdXwGxogFc9GMKnv3o/3bb133e8785e4ff31dfe59e257f71d6a/phia-select-56-squareLight.svg?w=3840&q=90)
+[NTT DATA![NTT DATA logo](https://images.ctfassets.net/kftzwdyauwt9/4mU16WlH0VDLJE5rOMA8sw/2cd075f9af2dc5273f01fd605b1332d6/ntt-data-square-light.svg?w=3840&q=90)](</business/partners/ntt-data/>)
 
-HCLTech
+[Pathfindr![Pathfindr logo](https://images.ctfassets.net/kftzwdyauwt9/5lqoMzOw4EfPUWi4z1PS5m/aab78dace7955528f7854b24feffba82/pathfindr-square-light.svg?w=3840&q=90)](</business/partners/pathfindr/>)
 
-![HCLTech logo](https://images.ctfassets.net/kftzwdyauwt9/5FnTDKYvobYJVeFiNomq0u/429baa84d8a3678b321ccd5394b289b3/hcltech-square-light.svg?w=3840&q=90)
+[PwC![PwC logo](https://images.ctfassets.net/kftzwdyauwt9/5BFMsQmqE7Ua8oJBrFUumf/e4db788c32743ab8458efcd4d47d0030/pwc-square-light.svg?w=3840&q=90)](</business/partners/pwc/>)
 
-IBM
+[Quantiphi![Quantiphi logo](https://images.ctfassets.net/kftzwdyauwt9/6uqWkpm1u8q0azmbBQEidg/b7436cfd2d33eef8cd3d4d8fea9bc187/54pMyV46Iow8eCySnmHtnt?w=3840&q=90&fm=webp)](</business/partners/quantiphi/>)
 
-![IBM logo](https://images.ctfassets.net/kftzwdyauwt9/21DyEzMiD4hgERWVy9jMVR/fdca1bd91f0661b4edf39c0822342c83/square-light.svg?w=3840&q=90)
+[Quantium![Quantium logo](https://images.ctfassets.net/kftzwdyauwt9/68uAUmDV09Nzn5CnJUI33z/4eaf4ae6ec3f20ef27008f139dde8f22/2KSUUrVGm5djFehqRkvTse?w=3840&q=90&fm=webp)](</business/partners/quantium/>)
 
-Infosys
+[Recursive![Recursive logo](https://images.ctfassets.net/kftzwdyauwt9/1XGnEYNfaiLQbyxX19lJmY/0c2bf69adbe257130d2bfc442fc601c2/recursive-square-light.svg?w=3840&q=90)](</business/partners/recursive/>)
 
-![Infosys logo](https://images.ctfassets.net/kftzwdyauwt9/partnerLocatorInfosysSquareLight20260714/ced93869a47cf4b8bf2aecf0da3fdfc9/Infosys.svg?w=3840&q=90)
+[Rosetree Solutions![Rosetree Solutions logo](https://images.ctfassets.net/kftzwdyauwt9/4KshZ0a5mAJOQPJ5OJetL7/5238623d6456c63ebed4b67acb51604d/phia-select-44-squareLight.svg?w=3840&q=90)](</business/partners/rosetree-solutions/>)
 
-Insurgence
+[Samsung SDS![Samsung SDS logo](https://images.ctfassets.net/kftzwdyauwt9/4l0rwkAOHIYWvBijJtyob4/37a124ce8e8faef91183e50b47a0f1c6/phia-samsung-sds-squareLight.svg?w=3840&q=90)](</business/partners/samsung-sds/>)
 
-![Insurgence logo](https://images.ctfassets.net/kftzwdyauwt9/6EyRPJMTj2FuKCsbnqklUI/1c3a7631d5fcd9f5041bb26e2b67282e/insurgence-square-light.svg?w=3840&q=90)
+[SB OAI Japan GK![SB OAI Japan GK logo](https://images.ctfassets.net/kftzwdyauwt9/4MZKqHpj2E99yZzvHXXkrI/f827fcdc638caccb6303452fec7e28f5/sb-oai-japan-square-light.svg?w=3840&q=90)](</business/partners/sb-oai-japan-gk/>)
 
-KPMG
+[SDG Group![SDG Group logo](https://images.ctfassets.net/kftzwdyauwt9/1bjeD3D6QOSHlzc4K2imie/a18b216756661aad9de902767185c341/5iOd9I4Wu2L9SGOGnDL5xj?w=3840&q=90&fm=webp)](</business/partners/sdg-group/>)
 
-![KPMG logo](https://images.ctfassets.net/kftzwdyauwt9/5L0vA3Wliji92xaqTcGlQi/af968e49adbbfb5962c93dc995c9a905/kpmg-square-light.svg?w=3840&q=90)
+[SIA![Sia logo](https://images.ctfassets.net/kftzwdyauwt9/7EbNrlh85ii4tjQRVEOJrZ/17aef4a8b572f343d38f0156c47424c6/eatDzSVC0hvDI2WMEkKBc?w=3840&q=90&fm=webp)](</business/partners/sia/>)
 
-Mantel
+[SK Inc. AX![SK Inc. AX logo](https://images.ctfassets.net/kftzwdyauwt9/3EMnbLGQLQ2OjLDD0pJZWM/e1cb3fad27fe2dd91f651e490f5a3e9f/sk-inc-ax-square-light.svg?w=3840&q=90)](</business/partners/sk-inc-ax/>)
 
-![Mantel logo](https://images.ctfassets.net/kftzwdyauwt9/4e2rSyhgn3lTXXUNbhAVjZ/d73323de824f9a1893fd5966486a709d/Mantel_square_light.svg?w=3840&q=90)
+[Slalom![Slalom logo](https://images.ctfassets.net/kftzwdyauwt9/7LryOfmv03Ymfgx7saxJH6/3d0cece0236a17fc784746d4b995ca77/slalom-square-light.svg?w=3840&q=90)](</business/partners/slalom/>)
 
-McKinsey & Company
-
-![McKinsey & Company logo](https://images.ctfassets.net/kftzwdyauwt9/6Z4q8mSHnaA4SfqLCTUNQt/6cfa8ebfa66f186895fb93c12c5a1ce6/mckinsey-company-square-light.svg?w=3840&q=90)
-
-Merantix Momentum
-
-![Merantix Momentum logo](https://images.ctfassets.net/kftzwdyauwt9/55C7XYTNrYu5sgL1I48JSC/6d1cd7a97343ecd907fd9810d113c6a4/merantix-momentum-square-light.svg?w=3840&q=90)
-
-ML6
-
-![ML6 logo](https://images.ctfassets.net/kftzwdyauwt9/2a4BTwNCZiYVRhFl4ueZKM/c135d9c0722c1266b870871473af26fe/ml6-square-light.svg?w=3840&q=90)
-
-Nablon AI
-
-![Nablon AI logo](https://images.ctfassets.net/kftzwdyauwt9/7q9cw4RwHk5qwqf6l70qWw/b1a64105dfc1c06a9da8323065fec9aa/phia-select-48-squareLight.svg?w=3840&q=90)
-
-Nagarro
-
-![Nagarro square logo](https://images.ctfassets.net/kftzwdyauwt9/ii271qmQ49t4oeUmkczwL/21e9a8a94ef9b8492bb533bb8cc787ff/square-light.svg?w=3840&q=90)
-
-NTT DATA
-
-![NTT DATA logo](https://images.ctfassets.net/kftzwdyauwt9/4mU16WlH0VDLJE5rOMA8sw/2cd075f9af2dc5273f01fd605b1332d6/ntt-data-square-light.svg?w=3840&q=90)
-
-Pathfindr
-
-![Pathfindr logo](https://images.ctfassets.net/kftzwdyauwt9/5lqoMzOw4EfPUWi4z1PS5m/aab78dace7955528f7854b24feffba82/pathfindr-square-light.svg?w=3840&q=90)
-
-PwC
-
-![PwC logo](https://images.ctfassets.net/kftzwdyauwt9/5BFMsQmqE7Ua8oJBrFUumf/e4db788c32743ab8458efcd4d47d0030/pwc-square-light.svg?w=3840&q=90)
-
-Quantiphi
-
-![Quantiphi logo](https://images.ctfassets.net/kftzwdyauwt9/6uqWkpm1u8q0azmbBQEidg/b7436cfd2d33eef8cd3d4d8fea9bc187/54pMyV46Iow8eCySnmHtnt?w=3840&q=90&fm=webp)
-
-Quantium
-
-![Quantium logo](https://images.ctfassets.net/kftzwdyauwt9/68uAUmDV09Nzn5CnJUI33z/4eaf4ae6ec3f20ef27008f139dde8f22/2KSUUrVGm5djFehqRkvTse?w=3840&q=90&fm=webp)
-
-Recursive
-
-![Recursive logo](https://images.ctfassets.net/kftzwdyauwt9/1XGnEYNfaiLQbyxX19lJmY/0c2bf69adbe257130d2bfc442fc601c2/recursive-square-light.svg?w=3840&q=90)
-
-Rosetree Solutions
-
-![Rosetree Solutions logo](https://images.ctfassets.net/kftzwdyauwt9/4KshZ0a5mAJOQPJ5OJetL7/5238623d6456c63ebed4b67acb51604d/phia-select-44-squareLight.svg?w=3840&q=90)
-
-Samsung
-
-![Samsung SDS logo](https://images.ctfassets.net/kftzwdyauwt9/4l0rwkAOHIYWvBijJtyob4/37a124ce8e8faef91183e50b47a0f1c6/phia-samsung-sds-squareLight.svg?w=3840&q=90)
-
-SB OAI Japan GK
-
-![SB OAI Japan GK logo](https://images.ctfassets.net/kftzwdyauwt9/4MZKqHpj2E99yZzvHXXkrI/f827fcdc638caccb6303452fec7e28f5/sb-oai-japan-square-light.svg?w=3840&q=90)
-
-SDG Group
-
-![SDG Group logo](https://images.ctfassets.net/kftzwdyauwt9/1bjeD3D6QOSHlzc4K2imie/a18b216756661aad9de902767185c341/5iOd9I4Wu2L9SGOGnDL5xj?w=3840&q=90&fm=webp)
-
-SIA
-
-![Sia logo](https://images.ctfassets.net/kftzwdyauwt9/7EbNrlh85ii4tjQRVEOJrZ/17aef4a8b572f343d38f0156c47424c6/eatDzSVC0hvDI2WMEkKBc?w=3840&q=90&fm=webp)
-
-SK Inc. AX
-
-![SK Inc. AX logo](https://images.ctfassets.net/kftzwdyauwt9/3EMnbLGQLQ2OjLDD0pJZWM/e1cb3fad27fe2dd91f651e490f5a3e9f/sk-inc-ax-square-light.svg?w=3840&q=90)
-
-Slalom
-
-![Slalom logo](https://images.ctfassets.net/kftzwdyauwt9/7LryOfmv03Ymfgx7saxJH6/3d0cece0236a17fc784746d4b995ca77/slalom-square-light.svg?w=3840&q=90)
-
-Snorkel AI
-
-![Snorkel AI logo](https://images.ctfassets.net/kftzwdyauwt9/59ggSe5NWn7dyafugmnXTn/a2012b321070b1e79f6c310c30a4b913/phia-select-49-squareLight.svg?w=3840&q=90)
+[Snorkel AI![Snorkel AI logo](https://images.ctfassets.net/kftzwdyauwt9/59ggSe5NWn7dyafugmnXTn/a2012b321070b1e79f6c310c30a4b913/phia-select-49-squareLight.svg?w=3840&q=90)](</business/partners/snorkel-ai/>)
 
 Snowflake
 
 ![Snowflake logo](https://images.ctfassets.net/kftzwdyauwt9/7er955ZHkrHs8B4doJwzYf/f12394c0a5f59d6df2f81d2252d2138f/snowflake-light.svg?w=3840&q=90)
 
-statworx
+[statworx![statworx logo](https://images.ctfassets.net/kftzwdyauwt9/Yx30LAXRjjMmlOsGr52fj/1141616753f711fc5451ac2a717d28d0/statworx-square-light.svg?w=3840&q=90)](</business/partners/statworx/>)
 
-![statworx logo](https://images.ctfassets.net/kftzwdyauwt9/Yx30LAXRjjMmlOsGr52fj/1141616753f711fc5451ac2a717d28d0/statworx-square-light.svg?w=3840&q=90)
+[TCS![TCS logo](https://images.ctfassets.net/kftzwdyauwt9/55P4y3cpv0If7lYmQZCHOc/eda7195f9936d398c4ae891768b16741/tcs-square-light.svg?w=3840&q=90)](</business/partners/tcs/>)
 
-TCS
+[teamLab![teamLab logo](https://images.ctfassets.net/kftzwdyauwt9/41MyjZv3R7h6e3kO7RHaLZ/aa55b89195089b4aba2ac17f02bc1e9b/teamlab-square-light.svg?w=3840&q=90)](</business/partners/teamlab/>)
 
-![TCS logo](https://images.ctfassets.net/kftzwdyauwt9/55P4y3cpv0If7lYmQZCHOc/eda7195f9936d398c4ae891768b16741/tcs-square-light.svg?w=3840&q=90)
+[Thinking Machines Data Science![Thinking Machines Data Science logo](https://images.ctfassets.net/kftzwdyauwt9/UYLJLH7J6sZlWLWmXb5e2/7ca6490de7136f3f832382c550c57a89/thinking-machines-square-light.svg?w=3840&q=90)](</business/partners/thinking-machines-data-science/>)
 
-teamLab
+[Tredence![Tredence logo](https://images.ctfassets.net/kftzwdyauwt9/5y5BIfaMtE7NwJbRkX4WOo/5e250544566dabc373a0f12aa2f41bc8/phia-select-55-squareLight.svg?w=3840&q=90)](</business/partners/tredence/>)
 
-![teamLab logo](https://images.ctfassets.net/kftzwdyauwt9/41MyjZv3R7h6e3kO7RHaLZ/aa55b89195089b4aba2ac17f02bc1e9b/teamlab-square-light.svg?w=3840&q=90)
+[Tribe AI![Tribe AI logo](https://images.ctfassets.net/kftzwdyauwt9/58bpcebl4R36RHWHAWLL8v/c3780b7859a728448c66ad0fc3b83eff/lockup-square-light.svg?w=3840&q=90)](</business/partners/tribe-ai/>)
 
-Thinking Machines Data Science
+[Unit8![Unit8 logo](https://images.ctfassets.net/kftzwdyauwt9/4De5vNUZllDLPo5daDTOsq/0219bd79df722d08cf67ae16244414fa/unit8-square-light.svg?w=3840&q=90)](</business/partners/unit8/>)
 
-![Thinking Machines Data Science logo](https://images.ctfassets.net/kftzwdyauwt9/UYLJLH7J6sZlWLWmXb5e2/7ca6490de7136f3f832382c550c57a89/thinking-machines-square-light.svg?w=3840&q=90)
+[ZS![ZS logo](https://images.ctfassets.net/kftzwdyauwt9/7EmcDUXGqqG80noTsXBp5J/ab553a814763e313c201cde8edc57f59/phia-select-51-squareLight.svg?w=3840&q=90)](</business/partners/zs/>)
 
-Tredence
+[Accenture![Accenture logo](https://images.ctfassets.net/kftzwdyauwt9/5qbj6p7TGD0ORHqbsZQTCX/650a10e24e5ed2af6f4a56589781e021/accenture-square-light.svg?w=3840&q=90)](</business/partners/accenture/>)
 
-![Tredence logo](https://images.ctfassets.net/kftzwdyauwt9/5y5BIfaMtE7NwJbRkX4WOo/5e250544566dabc373a0f12aa2f41bc8/phia-select-55-squareLight.svg?w=3840&q=90)
+[Accenture Federal Services![Accenture Federal Services logo](https://images.ctfassets.net/kftzwdyauwt9/1bV7hMj7OBsW1oEKNRZvNa/bf80e051f64f09f35eda929d4644ff7c/accenture-federal-services-square-light.svg?w=3840&q=90)](</business/partners/accenture-federal-services/>)
 
-Tribe AI
+[Aiworks![Aiworks logo](https://images.ctfassets.net/kftzwdyauwt9/1BFM7GTbhx2wh1BzVFoiDM/348f12a321bcbe6d06c3c4c521523ba7/aiworks-square-light.svg?w=3840&q=90)](</business/partners/aiworks/>)
 
-![Tribe AI logo](https://images.ctfassets.net/kftzwdyauwt9/58bpcebl4R36RHWHAWLL8v/c3780b7859a728448c66ad0fc3b83eff/lockup-square-light.svg?w=3840&q=90)
+[Algorithmic Intelligence![Algorithmic Intelligence, Pte. Ltd. logo](https://images.ctfassets.net/kftzwdyauwt9/1J3EYnwuji3gkYwsFolOqc/b75f58ecebdcf4112bb2e4634525ca47/algorithmic-intelligence-square-light.svg?w=3840&q=90)](</business/partners/algorithmic-intelligence/>)
 
-Unit8
+[Altimetrik![Altimetrik logo](https://images.ctfassets.net/kftzwdyauwt9/xkjCRE7KNvx5nP80Td02A/45c914e53eed999001c3d9fc43da5c6a/altimetrik-square-light.svg?w=3840&q=90)](</business/partners/altimetrik/>)
 
-![Unit8 logo](https://images.ctfassets.net/kftzwdyauwt9/4De5vNUZllDLPo5daDTOsq/0219bd79df722d08cf67ae16244414fa/unit8-square-light.svg?w=3840&q=90)
+[Altudo![Altudo logo](https://images.ctfassets.net/kftzwdyauwt9/4BNDHqFBrw3KTgTGkuE3F8/014c0d3ab439e07cf1e2f11f142d5b9d/Altudo_square_light.svg?w=3840&q=90)](</business/partners/altudo/>)
 
-ZS
+[Artefact![Artefact logo](https://images.ctfassets.net/kftzwdyauwt9/3LFiPmNCK28yTAnSwD3dTj/5f3f1f6ce0ca77ae62e5e890eaa577cd/artefact-square-light.svg?w=3840&q=90)](</business/partners/artefact/>)
 
-![ZS logo](https://images.ctfassets.net/kftzwdyauwt9/7EmcDUXGqqG80noTsXBp5J/ab553a814763e313c201cde8edc57f59/phia-select-51-squareLight.svg?w=3840&q=90)
+[Artium![Artium logo](https://images.ctfassets.net/kftzwdyauwt9/5roOVPJFbzHwn9meVaATmj/373b40d5a7acd2cc6ed3d07806a14476/artium-square-light.svg?w=3840&q=90)](</business/partners/artium/>)
 
-Accenture
+[AWS![AWS logo](https://images.ctfassets.net/kftzwdyauwt9/2fzUGOqeA4gmwd3ZvfZ7Et/d9ecc3a1a0bf6e65fec5f67a83ffe28f/aws-light.svg?w=3840&q=90)](</business/partners/aws/>)
 
-![Accenture logo](https://images.ctfassets.net/kftzwdyauwt9/5qbj6p7TGD0ORHqbsZQTCX/650a10e24e5ed2af6f4a56589781e021/accenture-square-light.svg?w=3840&q=90)
+[Bain & Company![Bain & Company logo](https://images.ctfassets.net/kftzwdyauwt9/6EKBRRuf3ZgQYv5UFtu0WJ/0ad835dd088f2c94e00d411aeb1724ce/bain___company_square_light.svg?w=3840&q=90)](</business/partners/bain-and-company/>)
 
-Accenture Federal Services
+[BCG![Boston Consulting Group logo](https://images.ctfassets.net/kftzwdyauwt9/YGZBAwOPwnl7w1zlhojKH/1139fe3fc7bd98608a900d600eeb229b/bcg-square-light.svg?w=3840&q=90)](</business/partners/boston-consulting-group/>)
 
-![Accenture Federal Services logo](https://images.ctfassets.net/kftzwdyauwt9/1bV7hMj7OBsW1oEKNRZvNa/bf80e051f64f09f35eda929d4644ff7c/accenture-federal-services-square-light.svg?w=3840&q=90)
+[Blank Metal![Blank Metal logo](https://images.ctfassets.net/kftzwdyauwt9/4dWRkqa4RVUF0hT1oGuNoR/71cd1bdec6377c26831e5c674ba48081/phia-select-47-squareLight.svg?w=3840&q=90)](</business/partners/blank-metal/>)
 
-AI Works
+[Blend 360![Blend360 logo](https://images.ctfassets.net/kftzwdyauwt9/3nqJs9eFUtUv22CigSNONC/2d15c1b1a71de29e56456b45b88a6b38/phia-select-50-squareLight.svg?w=3840&q=90)](</business/partners/blend360/>)
 
-![Aiworks logo](https://images.ctfassets.net/kftzwdyauwt9/1BFM7GTbhx2wh1BzVFoiDM/348f12a321bcbe6d06c3c4c521523ba7/aiworks-square-light.svg?w=3840&q=90)
+[Booz Allen Hamilton![Booz Allen Hamilton logo](https://images.ctfassets.net/kftzwdyauwt9/5dL22zZMFd5NLcJ1gn1mdf/cfc187cf341b723fe31badf321fd3ddf/Booz_Allen_Hamilton_square_light.svg?w=3840&q=90)](</business/partners/booz-allen-hamilton/>)
 
-Algorithmic Intelligence
+[Capco![Capco logo](https://images.ctfassets.net/kftzwdyauwt9/tutYO1wUAO777hm8UAW7w/91e47ee5a6a121bb898953732ec01eef/capco-square-light.svg?w=3840&q=90)](</business/partners/capco/>)
 
-![Algorithmic Intelligence, Pte. Ltd. logo](https://images.ctfassets.net/kftzwdyauwt9/1J3EYnwuji3gkYwsFolOqc/b75f58ecebdcf4112bb2e4634525ca47/algorithmic-intelligence-square-light.svg?w=3840&q=90)
+[Capgemini![Capgemini logo](https://images.ctfassets.net/kftzwdyauwt9/4vR1Q4kfD1DSskol6Z1St2/50704efd170efcfe108d169a76c50e1d/capgemini-square-light.svg?w=3840&q=90)](</business/partners/capgemini/>)
 
-Altimetrik
+[CDW![CDW logo](https://images.ctfassets.net/kftzwdyauwt9/37b3zodoczhm8WjBBRnnpe/d0c670fb24fe305ab3b812d282a131cb/CDW_square_light.svg?w=3840&q=90)](</business/partners/cdw/>)
 
-![Altimetrik logo](https://images.ctfassets.net/kftzwdyauwt9/xkjCRE7KNvx5nP80Td02A/45c914e53eed999001c3d9fc43da5c6a/altimetrik-square-light.svg?w=3840&q=90)
+[CGI![CGI logo](https://images.ctfassets.net/kftzwdyauwt9/4OyqFKpOMbw10mPHcLWFmn/0d4907540050fb709f8d5c364589d5a2/cgi-square-light.svg?w=3840&q=90)](</business/partners/cgi/>)
 
-Altudo
+[CHIEFTNS![CHIEFTNS logo](https://images.ctfassets.net/kftzwdyauwt9/63aR4cVzIG6TV4HOtNJAH0/2c401fe133d437b2b77a91251e4a959d/CHIEFTNS_square_light.svg?w=3840&q=90)](</business/partners/chieftns/>)
 
-![Altudo logo](https://images.ctfassets.net/kftzwdyauwt9/4BNDHqFBrw3KTgTGkuE3F8/014c0d3ab439e07cf1e2f11f142d5b9d/Altudo_square_light.svg?w=3840&q=90)
+[Clarinet![Clarinet logo](https://images.ctfassets.net/kftzwdyauwt9/Cun7DSRXKXK1X3ZhM4JEZ/a7a29ac0acd8e772deb5d83a31fdd40d/clarinet-square-light.svg?w=3840&q=90)](</business/partners/clarinet/>)
 
-Artefact
+[Cloudwerx![Cloudwerx logo](https://images.ctfassets.net/kftzwdyauwt9/18HmYVDFm3nGcgYctMdDdK/64db2282fc7cad540024082b11bedfdc/phia-select-46-squareLight.svg?w=3840&q=90)](</business/partners/cloudwerx/>)
 
-![Artefact logo](https://images.ctfassets.net/kftzwdyauwt9/3LFiPmNCK28yTAnSwD3dTj/5f3f1f6ce0ca77ae62e5e890eaa577cd/artefact-square-light.svg?w=3840&q=90)
+[Cognita Reply![Cognita Reply logo](https://images.ctfassets.net/kftzwdyauwt9/partnerLocatorReplySquareLight20260714/cba66d9cf084a6eae756fe2a0d559e29/Cognita_Reply.svg?w=3840&q=90)](</business/partners/cognita-reply/>)
 
-Artium
+[Cognizant![Cognizant logo](https://images.ctfassets.net/kftzwdyauwt9/7Fb9eG5Q5ovKNO4YIdDF0T/501e9eadb92c7eb6e6e838005425f452/cognizant-square-light.svg?w=3840&q=90)](</business/partners/cognizant/>)
 
-![Artium logo](https://images.ctfassets.net/kftzwdyauwt9/5roOVPJFbzHwn9meVaATmj/373b40d5a7acd2cc6ed3d07806a14476/artium-square-light.svg?w=3840&q=90)
-
-AWS
-
-![AWS logo](https://images.ctfassets.net/kftzwdyauwt9/2fzUGOqeA4gmwd3ZvfZ7Et/d9ecc3a1a0bf6e65fec5f67a83ffe28f/aws-light.svg?w=3840&q=90)
-
-Bain & Company
-
-![Bain & Company logo](https://images.ctfassets.net/kftzwdyauwt9/6EKBRRuf3ZgQYv5UFtu0WJ/0ad835dd088f2c94e00d411aeb1724ce/bain___company_square_light.svg?w=3840&q=90)
-
-BCG
-
-![Boston Consulting Group logo](https://images.ctfassets.net/kftzwdyauwt9/YGZBAwOPwnl7w1zlhojKH/1139fe3fc7bd98608a900d600eeb229b/bcg-square-light.svg?w=3840&q=90)
-
-Blank Metal
-
-![Blank Metal logo](https://images.ctfassets.net/kftzwdyauwt9/4dWRkqa4RVUF0hT1oGuNoR/71cd1bdec6377c26831e5c674ba48081/phia-select-47-squareLight.svg?w=3840&q=90)
-
-Blend 360
-
-![Blend360 logo](https://images.ctfassets.net/kftzwdyauwt9/3nqJs9eFUtUv22CigSNONC/2d15c1b1a71de29e56456b45b88a6b38/phia-select-50-squareLight.svg?w=3840&q=90)
-
-Booz Allen Hamilton
-
-![Booz Allen Hamilton logo](https://images.ctfassets.net/kftzwdyauwt9/5dL22zZMFd5NLcJ1gn1mdf/cfc187cf341b723fe31badf321fd3ddf/Booz_Allen_Hamilton_square_light.svg?w=3840&q=90)
-
-Capco
-
-![Capco logo](https://images.ctfassets.net/kftzwdyauwt9/tutYO1wUAO777hm8UAW7w/91e47ee5a6a121bb898953732ec01eef/capco-square-light.svg?w=3840&q=90)
-
-Capgemini
-
-![Capgemini logo](https://images.ctfassets.net/kftzwdyauwt9/4vR1Q4kfD1DSskol6Z1St2/50704efd170efcfe108d169a76c50e1d/capgemini-square-light.svg?w=3840&q=90)
-
-CDW
-
-![CDW logo](https://images.ctfassets.net/kftzwdyauwt9/37b3zodoczhm8WjBBRnnpe/d0c670fb24fe305ab3b812d282a131cb/CDW_square_light.svg?w=3840&q=90)
-
-CGI
-
-![CGI logo](https://images.ctfassets.net/kftzwdyauwt9/4OyqFKpOMbw10mPHcLWFmn/0d4907540050fb709f8d5c364589d5a2/cgi-square-light.svg?w=3840&q=90)
-
-CHIEFTNS
-
-![CHIEFTNS logo](https://images.ctfassets.net/kftzwdyauwt9/63aR4cVzIG6TV4HOtNJAH0/2c401fe133d437b2b77a91251e4a959d/CHIEFTNS_square_light.svg?w=3840&q=90)
-
-Clarinet
-
-![Clarinet logo](https://images.ctfassets.net/kftzwdyauwt9/Cun7DSRXKXK1X3ZhM4JEZ/a7a29ac0acd8e772deb5d83a31fdd40d/clarinet-square-light.svg?w=3840&q=90)
-
-Cloudwerx
-
-![Cloudwerx logo](https://images.ctfassets.net/kftzwdyauwt9/18HmYVDFm3nGcgYctMdDdK/64db2282fc7cad540024082b11bedfdc/phia-select-46-squareLight.svg?w=3840&q=90)
-
-Cognita Reply
-
-![Cognita Reply logo](https://images.ctfassets.net/kftzwdyauwt9/partnerLocatorReplySquareLight20260714/cba66d9cf084a6eae756fe2a0d559e29/Cognita_Reply.svg?w=3840&q=90)
-
-Cognizant
-
-![Cognizant logo](https://images.ctfassets.net/kftzwdyauwt9/7Fb9eG5Q5ovKNO4YIdDF0T/501e9eadb92c7eb6e6e838005425f452/cognizant-square-light.svg?w=3840&q=90)
-
-Corca
-
-![Corca logo](https://images.ctfassets.net/kftzwdyauwt9/6t5rCWDtyXFr55Zhg3XR5n/436e1dedb8091dddfbcf6ec43b042987/corca-square-light.svg?w=3840&q=90)
+[Corca![Corca logo](https://images.ctfassets.net/kftzwdyauwt9/6t5rCWDtyXFr55Zhg3XR5n/436e1dedb8091dddfbcf6ec43b042987/corca-square-light.svg?w=3840&q=90)](</business/partners/corca/>)
 
 Databricks
 
 ![Databricks logo](https://images.ctfassets.net/kftzwdyauwt9/4RZpkFlKPZ3v1IAIXt11hb/650b4fb9cfe5cb1a788ba4d6649f0075/databricks-light.svg?w=3840&q=90)
 
-deepsense.ai
+[deepsense.ai![deepsense.ai logo](https://images.ctfassets.net/kftzwdyauwt9/6LzIuojrKqcpRB7lQJ4eaE/3b36f504583e4c18143f0c154310905b/deepsense-square-light.svg?w=3840&q=90)](</business/partners/deepsense-ai/>)
 
-![deepsense.ai logo](https://images.ctfassets.net/kftzwdyauwt9/6LzIuojrKqcpRB7lQJ4eaE/3b36f504583e4c18143f0c154310905b/deepsense-square-light.svg?w=3840&q=90)
+[Dentsu Japan![Dentsu Japan logo](https://images.ctfassets.net/kftzwdyauwt9/1JADpGw9MIqHoyn1w3VfCX/2991ef7544e6b25961bd9200691dd8ed/dentsu-square-light.svg?w=3840&q=90)](</business/partners/dentsu-japan/>)
 
-Dentsu Japan
+[Distyl AI![Distyl AI logo](https://images.ctfassets.net/kftzwdyauwt9/1cCrqb584vFkxooXXiYMOR/ed35d22d0458690e4d4287d8c1cbba1c/3tEYen84xf6AMaXUeYmfJs?w=3840&q=90&fm=webp)](</business/partners/distyl-ai/>)
 
-![Dentsu Japan logo](https://images.ctfassets.net/kftzwdyauwt9/1JADpGw9MIqHoyn1w3VfCX/2991ef7544e6b25961bd9200691dd8ed/dentsu-square-light.svg?w=3840&q=90)
+[Eliza![Eliza logo](https://images.ctfassets.net/kftzwdyauwt9/66QLSpv0l3MGOluz2t5g5X/b0b34c0c9bc7de2be19b31a9a56f891a/eliza-square-light.svg?w=3840&q=90)](</business/partners/eliza/>)
 
-Distyl AI
+[Endava![Endava logo](https://images.ctfassets.net/kftzwdyauwt9/23kZ9A1DIl8OyyR4rzgHt3/60b3d4187870e3e1610c2ec3ffad1da8/endava-square-light.svg?w=3840&q=90)](</business/partners/endava/>)
 
-![Distyl AI logo](https://images.ctfassets.net/kftzwdyauwt9/1cCrqb584vFkxooXXiYMOR/ed35d22d0458690e4d4287d8c1cbba1c/3tEYen84xf6AMaXUeYmfJs?w=3840&q=90&fm=webp)
+[EPAM![EPAM logo](https://images.ctfassets.net/kftzwdyauwt9/1PKvv5gn0HzqrDcl9F7DyB/520eed0951f666fb9c37419bce2b133e/epam-square-light.svg?w=3840&q=90)](</business/partners/epam/>)
 
-Eliza
+[Ernst & Young![Ernst & Young logo](https://images.ctfassets.net/kftzwdyauwt9/6Suyj9Tjsnh3vfKerGQX4l/fb741971ff7a89de2adf3e6388accc55/ey-square-light.svg?w=3840&q=90)](</business/partners/ernst-and-young/>)
 
-![Eliza logo](https://images.ctfassets.net/kftzwdyauwt9/66QLSpv0l3MGOluz2t5g5X/b0b34c0c9bc7de2be19b31a9a56f891a/eliza-square-light.svg?w=3840&q=90)
+[EXL Service![EXL Service logo](https://images.ctfassets.net/kftzwdyauwt9/5JtCMvukg8WLA3URwDMN91/ace060bcffd25f1041eed72d48b85531/57jIrUpgYjXzlbxvflZk6z?w=3840&q=90&fm=webp)](</business/partners/exl-service/>)
 
-Endava
+[Fellow Intelligence![Fellow Intelligence logo](https://images.ctfassets.net/kftzwdyauwt9/6FIFg8BiqhOjpVklDV06xM/bd1f38168083338c1d1bc76ba12d679c/fellow-square-light.svg?w=3840&q=90)](</business/partners/fellow-intelligence/>)
 
-![Endava logo](https://images.ctfassets.net/kftzwdyauwt9/23kZ9A1DIl8OyyR4rzgHt3/60b3d4187870e3e1610c2ec3ffad1da8/endava-square-light.svg?w=3840&q=90)
+[Fractal![Fractal logo](https://images.ctfassets.net/kftzwdyauwt9/4UCDXLMAv2r1UY1zuJJ4UN/c5baa5f297fda1e219f6d11e35127306/fractal-analytics-square-light.svg?w=3840&q=90)](</business/partners/fractal/>)
 
-EPAM
+[Fujitsu![Fujitsu logo](https://images.ctfassets.net/kftzwdyauwt9/4zYSWifSjmF255A6W3oaMK/a94ecd0e9b647f70612d03940f9c260e/fujitsu-square-light.svg?w=3840&q=90)](</business/partners/fujitsu/>)
 
-![EPAM logo](https://images.ctfassets.net/kftzwdyauwt9/1PKvv5gn0HzqrDcl9F7DyB/520eed0951f666fb9c37419bce2b133e/epam-square-light.svg?w=3840&q=90)
+[Globant![Globant logo](https://images.ctfassets.net/kftzwdyauwt9/2XEMLdXwGxogFc9GMKnv3o/3bb133e8785e4ff31dfe59e257f71d6a/phia-select-56-squareLight.svg?w=3840&q=90)](</business/partners/globant/>)
 
-Ernst & Young
+[HCLTech![HCLTech logo](https://images.ctfassets.net/kftzwdyauwt9/5FnTDKYvobYJVeFiNomq0u/429baa84d8a3678b321ccd5394b289b3/hcltech-square-light.svg?w=3840&q=90)](</business/partners/hcltech/>)
 
-![Ernst & Young logo](https://images.ctfassets.net/kftzwdyauwt9/6Suyj9Tjsnh3vfKerGQX4l/fb741971ff7a89de2adf3e6388accc55/ey-square-light.svg?w=3840&q=90)
+[IBM![IBM logo](https://images.ctfassets.net/kftzwdyauwt9/21DyEzMiD4hgERWVy9jMVR/fdca1bd91f0661b4edf39c0822342c83/square-light.svg?w=3840&q=90)](</business/partners/ibm/>)
 
-EXL Service
+[Infosys![Infosys logo](https://images.ctfassets.net/kftzwdyauwt9/partnerLocatorInfosysSquareLight20260714/ced93869a47cf4b8bf2aecf0da3fdfc9/Infosys.svg?w=3840&q=90)](</business/partners/infosys/>)
 
-![EXL Service logo](https://images.ctfassets.net/kftzwdyauwt9/5JtCMvukg8WLA3URwDMN91/ace060bcffd25f1041eed72d48b85531/57jIrUpgYjXzlbxvflZk6z?w=3840&q=90&fm=webp)
+[Insurgence![Insurgence logo](https://images.ctfassets.net/kftzwdyauwt9/6EyRPJMTj2FuKCsbnqklUI/1c3a7631d5fcd9f5041bb26e2b67282e/insurgence-square-light.svg?w=3840&q=90)](</business/partners/insurgence/>)
 
-Fellow Intelligence
+[KPMG![KPMG logo](https://images.ctfassets.net/kftzwdyauwt9/5L0vA3Wliji92xaqTcGlQi/af968e49adbbfb5962c93dc995c9a905/kpmg-square-light.svg?w=3840&q=90)](</business/partners/kpmg/>)
 
-![Fellow Intelligence logo](https://images.ctfassets.net/kftzwdyauwt9/6FIFg8BiqhOjpVklDV06xM/bd1f38168083338c1d1bc76ba12d679c/fellow-square-light.svg?w=3840&q=90)
+[Mantel![Mantel logo](https://images.ctfassets.net/kftzwdyauwt9/4e2rSyhgn3lTXXUNbhAVjZ/d73323de824f9a1893fd5966486a709d/Mantel_square_light.svg?w=3840&q=90)](</business/partners/mantel/>)
 
-Fractal
+[McKinsey & Company![McKinsey & Company logo](https://images.ctfassets.net/kftzwdyauwt9/6Z4q8mSHnaA4SfqLCTUNQt/6cfa8ebfa66f186895fb93c12c5a1ce6/mckinsey-company-square-light.svg?w=3840&q=90)](</business/partners/mckinsey-and-company/>)
 
-![Fractal logo](https://images.ctfassets.net/kftzwdyauwt9/4UCDXLMAv2r1UY1zuJJ4UN/c5baa5f297fda1e219f6d11e35127306/fractal-analytics-square-light.svg?w=3840&q=90)
+[Merantix Momentum![Merantix Momentum logo](https://images.ctfassets.net/kftzwdyauwt9/55C7XYTNrYu5sgL1I48JSC/6d1cd7a97343ecd907fd9810d113c6a4/merantix-momentum-square-light.svg?w=3840&q=90)](</business/partners/merantix-momentum/>)
 
-Fujitsu
+[ML6![ML6 logo](https://images.ctfassets.net/kftzwdyauwt9/2a4BTwNCZiYVRhFl4ueZKM/c135d9c0722c1266b870871473af26fe/ml6-square-light.svg?w=3840&q=90)](</business/partners/ml6/>)
 
-![Fujitsu logo](https://images.ctfassets.net/kftzwdyauwt9/4zYSWifSjmF255A6W3oaMK/a94ecd0e9b647f70612d03940f9c260e/fujitsu-square-light.svg?w=3840&q=90)
+[Nablon AI![Nablon AI logo](https://images.ctfassets.net/kftzwdyauwt9/7q9cw4RwHk5qwqf6l70qWw/b1a64105dfc1c06a9da8323065fec9aa/phia-select-48-squareLight.svg?w=3840&q=90)](</business/partners/nablon-ai/>)
 
-Globant
+[Nagarro![Nagarro square logo](https://images.ctfassets.net/kftzwdyauwt9/ii271qmQ49t4oeUmkczwL/21e9a8a94ef9b8492bb533bb8cc787ff/square-light.svg?w=3840&q=90)](</business/partners/nagarro/>)
 
-![Globant logo](https://images.ctfassets.net/kftzwdyauwt9/2XEMLdXwGxogFc9GMKnv3o/3bb133e8785e4ff31dfe59e257f71d6a/phia-select-56-squareLight.svg?w=3840&q=90)
+[NTT DATA![NTT DATA logo](https://images.ctfassets.net/kftzwdyauwt9/4mU16WlH0VDLJE5rOMA8sw/2cd075f9af2dc5273f01fd605b1332d6/ntt-data-square-light.svg?w=3840&q=90)](</business/partners/ntt-data/>)
 
-HCLTech
+[Pathfindr![Pathfindr logo](https://images.ctfassets.net/kftzwdyauwt9/5lqoMzOw4EfPUWi4z1PS5m/aab78dace7955528f7854b24feffba82/pathfindr-square-light.svg?w=3840&q=90)](</business/partners/pathfindr/>)
 
-![HCLTech logo](https://images.ctfassets.net/kftzwdyauwt9/5FnTDKYvobYJVeFiNomq0u/429baa84d8a3678b321ccd5394b289b3/hcltech-square-light.svg?w=3840&q=90)
+[PwC![PwC logo](https://images.ctfassets.net/kftzwdyauwt9/5BFMsQmqE7Ua8oJBrFUumf/e4db788c32743ab8458efcd4d47d0030/pwc-square-light.svg?w=3840&q=90)](</business/partners/pwc/>)
 
-IBM
+[Quantiphi![Quantiphi logo](https://images.ctfassets.net/kftzwdyauwt9/6uqWkpm1u8q0azmbBQEidg/b7436cfd2d33eef8cd3d4d8fea9bc187/54pMyV46Iow8eCySnmHtnt?w=3840&q=90&fm=webp)](</business/partners/quantiphi/>)
 
-![IBM logo](https://images.ctfassets.net/kftzwdyauwt9/21DyEzMiD4hgERWVy9jMVR/fdca1bd91f0661b4edf39c0822342c83/square-light.svg?w=3840&q=90)
+[Quantium![Quantium logo](https://images.ctfassets.net/kftzwdyauwt9/68uAUmDV09Nzn5CnJUI33z/4eaf4ae6ec3f20ef27008f139dde8f22/2KSUUrVGm5djFehqRkvTse?w=3840&q=90&fm=webp)](</business/partners/quantium/>)
 
-Infosys
+[Recursive![Recursive logo](https://images.ctfassets.net/kftzwdyauwt9/1XGnEYNfaiLQbyxX19lJmY/0c2bf69adbe257130d2bfc442fc601c2/recursive-square-light.svg?w=3840&q=90)](</business/partners/recursive/>)
 
-![Infosys logo](https://images.ctfassets.net/kftzwdyauwt9/partnerLocatorInfosysSquareLight20260714/ced93869a47cf4b8bf2aecf0da3fdfc9/Infosys.svg?w=3840&q=90)
+[Rosetree Solutions![Rosetree Solutions logo](https://images.ctfassets.net/kftzwdyauwt9/4KshZ0a5mAJOQPJ5OJetL7/5238623d6456c63ebed4b67acb51604d/phia-select-44-squareLight.svg?w=3840&q=90)](</business/partners/rosetree-solutions/>)
 
-Insurgence
+[Samsung SDS![Samsung SDS logo](https://images.ctfassets.net/kftzwdyauwt9/4l0rwkAOHIYWvBijJtyob4/37a124ce8e8faef91183e50b47a0f1c6/phia-samsung-sds-squareLight.svg?w=3840&q=90)](</business/partners/samsung-sds/>)
 
-![Insurgence logo](https://images.ctfassets.net/kftzwdyauwt9/6EyRPJMTj2FuKCsbnqklUI/1c3a7631d5fcd9f5041bb26e2b67282e/insurgence-square-light.svg?w=3840&q=90)
+[SB OAI Japan GK![SB OAI Japan GK logo](https://images.ctfassets.net/kftzwdyauwt9/4MZKqHpj2E99yZzvHXXkrI/f827fcdc638caccb6303452fec7e28f5/sb-oai-japan-square-light.svg?w=3840&q=90)](</business/partners/sb-oai-japan-gk/>)
 
-KPMG
+[SDG Group![SDG Group logo](https://images.ctfassets.net/kftzwdyauwt9/1bjeD3D6QOSHlzc4K2imie/a18b216756661aad9de902767185c341/5iOd9I4Wu2L9SGOGnDL5xj?w=3840&q=90&fm=webp)](</business/partners/sdg-group/>)
 
-![KPMG logo](https://images.ctfassets.net/kftzwdyauwt9/5L0vA3Wliji92xaqTcGlQi/af968e49adbbfb5962c93dc995c9a905/kpmg-square-light.svg?w=3840&q=90)
+[SIA![Sia logo](https://images.ctfassets.net/kftzwdyauwt9/7EbNrlh85ii4tjQRVEOJrZ/17aef4a8b572f343d38f0156c47424c6/eatDzSVC0hvDI2WMEkKBc?w=3840&q=90&fm=webp)](</business/partners/sia/>)
 
-Mantel
+[SK Inc. AX![SK Inc. AX logo](https://images.ctfassets.net/kftzwdyauwt9/3EMnbLGQLQ2OjLDD0pJZWM/e1cb3fad27fe2dd91f651e490f5a3e9f/sk-inc-ax-square-light.svg?w=3840&q=90)](</business/partners/sk-inc-ax/>)
 
-![Mantel logo](https://images.ctfassets.net/kftzwdyauwt9/4e2rSyhgn3lTXXUNbhAVjZ/d73323de824f9a1893fd5966486a709d/Mantel_square_light.svg?w=3840&q=90)
+[Slalom![Slalom logo](https://images.ctfassets.net/kftzwdyauwt9/7LryOfmv03Ymfgx7saxJH6/3d0cece0236a17fc784746d4b995ca77/slalom-square-light.svg?w=3840&q=90)](</business/partners/slalom/>)
 
-McKinsey & Company
-
-![McKinsey & Company logo](https://images.ctfassets.net/kftzwdyauwt9/6Z4q8mSHnaA4SfqLCTUNQt/6cfa8ebfa66f186895fb93c12c5a1ce6/mckinsey-company-square-light.svg?w=3840&q=90)
-
-Merantix Momentum
-
-![Merantix Momentum logo](https://images.ctfassets.net/kftzwdyauwt9/55C7XYTNrYu5sgL1I48JSC/6d1cd7a97343ecd907fd9810d113c6a4/merantix-momentum-square-light.svg?w=3840&q=90)
-
-ML6
-
-![ML6 logo](https://images.ctfassets.net/kftzwdyauwt9/2a4BTwNCZiYVRhFl4ueZKM/c135d9c0722c1266b870871473af26fe/ml6-square-light.svg?w=3840&q=90)
-
-Nablon AI
-
-![Nablon AI logo](https://images.ctfassets.net/kftzwdyauwt9/7q9cw4RwHk5qwqf6l70qWw/b1a64105dfc1c06a9da8323065fec9aa/phia-select-48-squareLight.svg?w=3840&q=90)
-
-Nagarro
-
-![Nagarro square logo](https://images.ctfassets.net/kftzwdyauwt9/ii271qmQ49t4oeUmkczwL/21e9a8a94ef9b8492bb533bb8cc787ff/square-light.svg?w=3840&q=90)
-
-NTT DATA
-
-![NTT DATA logo](https://images.ctfassets.net/kftzwdyauwt9/4mU16WlH0VDLJE5rOMA8sw/2cd075f9af2dc5273f01fd605b1332d6/ntt-data-square-light.svg?w=3840&q=90)
-
-Pathfindr
-
-![Pathfindr logo](https://images.ctfassets.net/kftzwdyauwt9/5lqoMzOw4EfPUWi4z1PS5m/aab78dace7955528f7854b24feffba82/pathfindr-square-light.svg?w=3840&q=90)
-
-PwC
-
-![PwC logo](https://images.ctfassets.net/kftzwdyauwt9/5BFMsQmqE7Ua8oJBrFUumf/e4db788c32743ab8458efcd4d47d0030/pwc-square-light.svg?w=3840&q=90)
-
-Quantiphi
-
-![Quantiphi logo](https://images.ctfassets.net/kftzwdyauwt9/6uqWkpm1u8q0azmbBQEidg/b7436cfd2d33eef8cd3d4d8fea9bc187/54pMyV46Iow8eCySnmHtnt?w=3840&q=90&fm=webp)
-
-Quantium
-
-![Quantium logo](https://images.ctfassets.net/kftzwdyauwt9/68uAUmDV09Nzn5CnJUI33z/4eaf4ae6ec3f20ef27008f139dde8f22/2KSUUrVGm5djFehqRkvTse?w=3840&q=90&fm=webp)
-
-Recursive
-
-![Recursive logo](https://images.ctfassets.net/kftzwdyauwt9/1XGnEYNfaiLQbyxX19lJmY/0c2bf69adbe257130d2bfc442fc601c2/recursive-square-light.svg?w=3840&q=90)
-
-Rosetree Solutions
-
-![Rosetree Solutions logo](https://images.ctfassets.net/kftzwdyauwt9/4KshZ0a5mAJOQPJ5OJetL7/5238623d6456c63ebed4b67acb51604d/phia-select-44-squareLight.svg?w=3840&q=90)
-
-Samsung
-
-![Samsung SDS logo](https://images.ctfassets.net/kftzwdyauwt9/4l0rwkAOHIYWvBijJtyob4/37a124ce8e8faef91183e50b47a0f1c6/phia-samsung-sds-squareLight.svg?w=3840&q=90)
-
-SB OAI Japan GK
-
-![SB OAI Japan GK logo](https://images.ctfassets.net/kftzwdyauwt9/4MZKqHpj2E99yZzvHXXkrI/f827fcdc638caccb6303452fec7e28f5/sb-oai-japan-square-light.svg?w=3840&q=90)
-
-SDG Group
-
-![SDG Group logo](https://images.ctfassets.net/kftzwdyauwt9/1bjeD3D6QOSHlzc4K2imie/a18b216756661aad9de902767185c341/5iOd9I4Wu2L9SGOGnDL5xj?w=3840&q=90&fm=webp)
-
-SIA
-
-![Sia logo](https://images.ctfassets.net/kftzwdyauwt9/7EbNrlh85ii4tjQRVEOJrZ/17aef4a8b572f343d38f0156c47424c6/eatDzSVC0hvDI2WMEkKBc?w=3840&q=90&fm=webp)
-
-SK Inc. AX
-
-![SK Inc. AX logo](https://images.ctfassets.net/kftzwdyauwt9/3EMnbLGQLQ2OjLDD0pJZWM/e1cb3fad27fe2dd91f651e490f5a3e9f/sk-inc-ax-square-light.svg?w=3840&q=90)
-
-Slalom
-
-![Slalom logo](https://images.ctfassets.net/kftzwdyauwt9/7LryOfmv03Ymfgx7saxJH6/3d0cece0236a17fc784746d4b995ca77/slalom-square-light.svg?w=3840&q=90)
-
-Snorkel AI
-
-![Snorkel AI logo](https://images.ctfassets.net/kftzwdyauwt9/59ggSe5NWn7dyafugmnXTn/a2012b321070b1e79f6c310c30a4b913/phia-select-49-squareLight.svg?w=3840&q=90)
+[Snorkel AI![Snorkel AI logo](https://images.ctfassets.net/kftzwdyauwt9/59ggSe5NWn7dyafugmnXTn/a2012b321070b1e79f6c310c30a4b913/phia-select-49-squareLight.svg?w=3840&q=90)](</business/partners/snorkel-ai/>)
 
 Snowflake
 
 ![Snowflake logo](https://images.ctfassets.net/kftzwdyauwt9/7er955ZHkrHs8B4doJwzYf/f12394c0a5f59d6df2f81d2252d2138f/snowflake-light.svg?w=3840&q=90)
 
-statworx
+[statworx![statworx logo](https://images.ctfassets.net/kftzwdyauwt9/Yx30LAXRjjMmlOsGr52fj/1141616753f711fc5451ac2a717d28d0/statworx-square-light.svg?w=3840&q=90)](</business/partners/statworx/>)
 
-![statworx logo](https://images.ctfassets.net/kftzwdyauwt9/Yx30LAXRjjMmlOsGr52fj/1141616753f711fc5451ac2a717d28d0/statworx-square-light.svg?w=3840&q=90)
+[TCS![TCS logo](https://images.ctfassets.net/kftzwdyauwt9/55P4y3cpv0If7lYmQZCHOc/eda7195f9936d398c4ae891768b16741/tcs-square-light.svg?w=3840&q=90)](</business/partners/tcs/>)
 
-TCS
+[teamLab![teamLab logo](https://images.ctfassets.net/kftzwdyauwt9/41MyjZv3R7h6e3kO7RHaLZ/aa55b89195089b4aba2ac17f02bc1e9b/teamlab-square-light.svg?w=3840&q=90)](</business/partners/teamlab/>)
 
-![TCS logo](https://images.ctfassets.net/kftzwdyauwt9/55P4y3cpv0If7lYmQZCHOc/eda7195f9936d398c4ae891768b16741/tcs-square-light.svg?w=3840&q=90)
+[Thinking Machines Data Science![Thinking Machines Data Science logo](https://images.ctfassets.net/kftzwdyauwt9/UYLJLH7J6sZlWLWmXb5e2/7ca6490de7136f3f832382c550c57a89/thinking-machines-square-light.svg?w=3840&q=90)](</business/partners/thinking-machines-data-science/>)
 
-teamLab
+[Tredence![Tredence logo](https://images.ctfassets.net/kftzwdyauwt9/5y5BIfaMtE7NwJbRkX4WOo/5e250544566dabc373a0f12aa2f41bc8/phia-select-55-squareLight.svg?w=3840&q=90)](</business/partners/tredence/>)
 
-![teamLab logo](https://images.ctfassets.net/kftzwdyauwt9/41MyjZv3R7h6e3kO7RHaLZ/aa55b89195089b4aba2ac17f02bc1e9b/teamlab-square-light.svg?w=3840&q=90)
+[Tribe AI![Tribe AI logo](https://images.ctfassets.net/kftzwdyauwt9/58bpcebl4R36RHWHAWLL8v/c3780b7859a728448c66ad0fc3b83eff/lockup-square-light.svg?w=3840&q=90)](</business/partners/tribe-ai/>)
 
-Thinking Machines Data Science
+[Unit8![Unit8 logo](https://images.ctfassets.net/kftzwdyauwt9/4De5vNUZllDLPo5daDTOsq/0219bd79df722d08cf67ae16244414fa/unit8-square-light.svg?w=3840&q=90)](</business/partners/unit8/>)
 
-![Thinking Machines Data Science logo](https://images.ctfassets.net/kftzwdyauwt9/UYLJLH7J6sZlWLWmXb5e2/7ca6490de7136f3f832382c550c57a89/thinking-machines-square-light.svg?w=3840&q=90)
-
-Tredence
-
-![Tredence logo](https://images.ctfassets.net/kftzwdyauwt9/5y5BIfaMtE7NwJbRkX4WOo/5e250544566dabc373a0f12aa2f41bc8/phia-select-55-squareLight.svg?w=3840&q=90)
-
-Tribe AI
-
-![Tribe AI logo](https://images.ctfassets.net/kftzwdyauwt9/58bpcebl4R36RHWHAWLL8v/c3780b7859a728448c66ad0fc3b83eff/lockup-square-light.svg?w=3840&q=90)
-
-Unit8
-
-![Unit8 logo](https://images.ctfassets.net/kftzwdyauwt9/4De5vNUZllDLPo5daDTOsq/0219bd79df722d08cf67ae16244414fa/unit8-square-light.svg?w=3840&q=90)
-
-ZS
-
-![ZS logo](https://images.ctfassets.net/kftzwdyauwt9/7EmcDUXGqqG80noTsXBp5J/ab553a814763e313c201cde8edc57f59/phia-select-51-squareLight.svg?w=3840&q=90)
+[ZS![ZS logo](https://images.ctfassets.net/kftzwdyauwt9/7EmcDUXGqqG80noTsXBp5J/ab553a814763e313c201cde8edc57f59/phia-select-51-squareLight.svg?w=3840&q=90)](</business/partners/zs/>)
 
 ## A partner network built for outcomes
 

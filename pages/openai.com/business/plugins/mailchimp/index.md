@@ -34,7 +34,7 @@ OpenAI
 
 Create marketing campaigns.
 
-[Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_693b20fccbac8191bdc178bb493de3e5>)[Contact sales](</contact-sales/>)
+[Install plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_693b20fccbac8191bdc178bb493de3e5>)[Contact sales](</contact-sales/>)
 
 Category
     [Operations](</business/plugins/?tab=plugins-operations>)
@@ -45,37 +45,31 @@ Developer
 Website
     [(opens in a new window)](<https://mailchimp.com>)
 
-[![](https://files.openai.com/content?id=file_000000006100822fba053a7663790f13&cdn=1&cp=pi&ma=30412800&ts=0&p=pi&cid=8&sig=972cdfdc85a259f56209337d719704a8fea6db0b3f1feba6c523001c2ecbb6a7&v=0)Intuit Mailchimp Create a 4 week campaign for my business.(opens in a new window)](<https://chatgpt.com/?prompt=%40Intuit+Mailchimp+Create+a+4+week+campaign+for+my+business.>)[![](https://files.openai.com/content?id=file_000000006100822fba053a7663790f13&cdn=1&cp=pi&ma=30412800&ts=0&p=pi&cid=8&sig=972cdfdc85a259f56209337d719704a8fea6db0b3f1feba6c523001c2ecbb6a7&v=0)Intuit Mailchimp Why did my last campaign underperform?(opens in a new window)](<https://chatgpt.com/?prompt=%40Intuit+Mailchimp+Why+did+my+last+campaign+underperform%3F>)
+[![](https://files.openai.com/content?id=file_000000006100822fba053a7663790f13&cdn=1&cp=pi&ma=30412800&ts=0&p=pi&cid=8&sig=972cdfdc85a259f56209337d719704a8fea6db0b3f1feba6c523001c2ecbb6a7&v=0)Intuit Mailchimp Create a 4 week campaign for my business.(opens in a new window)](<https://chatgpt.com/?prompt=%40Intuit+Mailchimp+Create+a+4+week+campaign+for+my+business.>)
 
 ## How it works
 
 Create multichannel marketing campaign plans in ChatGPT using business inputs, then draft campaigns that can be exported to Mailchimp.
 
-## Common use cases
+## What else can you do?
 
   * ### Plan multichannel campaigns
 
-Create campaign plans for email, SMS, and social channels based on your goals and inputs.
-
 ![](https://files.openai.com/content?id=file_000000006100822fba053a7663790f13&cdn=1&cp=pi&ma=30412800&ts=0&p=pi&cid=8&sig=972cdfdc85a259f56209337d719704a8fea6db0b3f1feba6c523001c2ecbb6a7&v=0)Intuit Mailchimp Create a multichannel campaign plan for a new product launch including email, SMS, and social with timing and messaging themes.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Intuit+Mailchimp+Create+a+multichannel+campaign+plan+for+a+new+product+launch+including+email%2C+SMS%2C+and+social+with+timing+and+messaging+themes.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Intuit+Mailchimp+Create+a+multichannel+campaign+plan+for+a+new+product+launch+including+email%2C+SMS%2C+and+social+with+timing+and+messaging+themes.>)
 
   * ### Draft campaign strategies
 
-Generate suggested audiences, campaign types, and messaging ideas to shape marketing plans.
-
 ![](https://files.openai.com/content?id=file_000000006100822fba053a7663790f13&cdn=1&cp=pi&ma=30412800&ts=0&p=pi&cid=8&sig=972cdfdc85a259f56209337d719704a8fea6db0b3f1feba6c523001c2ecbb6a7&v=0)Intuit Mailchimp Propose audience segments for my ecommerce list and suggest an A/B test plan for subject lines and offers.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Intuit+Mailchimp+Propose+audience+segments+for+my+ecommerce+list+and+suggest+an+A%2FB+test+plan+for+subject+lines+and+offers.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Intuit+Mailchimp+Propose+audience+segments+for+my+ecommerce+list+and+suggest+an+A%2FB+test+plan+for+subject+lines+and+offers.>)
 
   * ### Prepare campaigns for execution
 
-Export campaign plans into Mailchimp as draft campaigns to continue setup and launch.
-
 ![](https://files.openai.com/content?id=file_000000006100822fba053a7663790f13&cdn=1&cp=pi&ma=30412800&ts=0&p=pi&cid=8&sig=972cdfdc85a259f56209337d719704a8fea6db0b3f1feba6c523001c2ecbb6a7&v=0)Intuit Mailchimp Convert this strategy into draft campaigns ready to export and label them clearly so my team can approve fast.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Intuit+Mailchimp+Convert+this+strategy+into+draft+campaigns+ready+to+export+and+label+them+clearly+so+my+team+can+approve+fast.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Intuit+Mailchimp+Convert+this+strategy+into+draft+campaigns+ready+to+export+and+label+them+clearly+so+my+team+can+approve+fast.>)
 
 
 

@@ -34,7 +34,7 @@ September 10, 2026
 
 Frontier intelligence, built for financial services.
 
-[Contact financial services sales](</business/contact-sales-financial-services/>)
+[Contact sales](</business/contact-sales-financial-services/>)
 
 Loading…
 
@@ -118,7 +118,7 @@ Evercore
 
 ChatGPT for Financial Services brings together the financial data teams need, with the depth of detail expected. We’ve included premium financial data, streamlined existing provider connections, and improved MCP performance.
 
-![Product screen showing the source picker in ChatGPT for Financial Services.](https://images.ctfassets.net/kftzwdyauwt9/177Xkw3tsiIpb0wPbEIgVS/fc3a1c52b98c084c309e5940c8a45b15/finserv-source-picker-2x-refresh.png?w=3840&q=90&fm=webp)
+![Product screen showing the source picker in ChatGPT for Financial Services.](https://images.ctfassets.net/kftzwdyauwt9/53nzN8JBQyMAzX0BeyvGda/8ecf741d5f3fc2c31b892a0ebd96f86d/source_picker.png?w=3840&q=90&fm=webp)
 
 _ChatGPT for Financial Services brings together built-in data, connected sources, and financial analysis workflows._
 

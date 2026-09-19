@@ -114,6 +114,10 @@ OpenAI
 
 [View all](</news/>)
 
+![Introducing the Australian Youth Safety Blueprint — cover](https://images.ctfassets.net/kftzwdyauwt9/3hSPxVZReGirTIsDaGBwaN/6a402fc967b16c7a33e509a2bea2bc44/introducing-the-australian-youth-safety-blueprint-cover.png?w=3840&q=90&fm=webp)
+
+[Introducing the Australian Youth Safety BlueprintCompanySep 18, 2026](</index/australian-youth-safety-blueprint/>)
+
 ![Introducing Astra for Law — art card](https://images.ctfassets.net/kftzwdyauwt9/4vshYjPreJaZEO8O7sSTFX/e61e1b0c2f67305b55171ae3cc8042b8/introducing-astra-for-law-art-card.png?w=3840&q=90&fm=webp)
 
 [Introducing Astra for LawCompanySep 17, 2026](</index/astra-for-law/>)
@@ -121,10 +125,6 @@ OpenAI
 ![Our framework for reporting model misalignment — card image](https://images.ctfassets.net/kftzwdyauwt9/3mJz9GkBOjZvAMYPx8M1dj/2a9ac4b7e18b1c08feef5368c4fde2e2/model-misalignment-reporting-framework--cover-v002.png?w=3840&q=90&fm=webp)
 
 [Our framework for reporting model misalignmentResearchSep 16, 2026](</index/model-misalignment-reporting-framework/>)
-
-![Paul Christiano joins OpenAI Foundation Board — card](https://images.ctfassets.net/kftzwdyauwt9/4PcDbhz75I70TjyGat7oHl/598dd1e865018860c3591cb95c9bc72e/paul-christiano-joins-openai-foundation-board--cover-v001.png?w=3840&q=90&fm=webp)
-
-[Paul Christiano joins OpenAI Foundation BoardCompanySep 9, 2026](</index/paul-christiano-joins-openai-foundation-board/>)
 
 Research
 

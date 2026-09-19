@@ -34,7 +34,7 @@ OpenAI
 
 Automate finance tasks.
 
-[Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69250fb6281c819195b52a1556b0060c>)[Contact sales](</contact-sales/>)
+[Install plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69250fb6281c819195b52a1556b0060c>)[Contact sales](</contact-sales/>)
 
 Category
     [Finance](</business/plugins/?tab=plugins-finance>)
@@ -51,31 +51,25 @@ Website
 
 Connect your Ramp account to ChatGPT to manage company finances through natural conversation, with permission-based access for finance teams and employees.
 
-## Common use cases
+## What else can you do?
 
   * ### Analyze company spend
 
-Analyze spend trends, query transactions, vendors, and budgets, and review top expenses using Ramp data directly in ChatGPT.
-
 ![](https://files.openai.com/content?id=file_00000000a9cc722fb923cc9523b65b7d&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=1&sig=3dfed128f0bb03d09bf162a2dc55fbe09a77b2bb881e6dda9588c139623cb79f&v=0)![](https://files.openai.com/content?id=file_00000000ae1881f78cb19e9602da73eb&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=e6620dc8efa5f7ff134320dd09ead486087108035fdad05773799d910563ee89&v=0)Ramp Analyze our company spend over the last 90 days. Break down totals by category, department, and vendor, and call out the biggest increases vs. the prior 90 days.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Ramp+Analyze+our+company+spend+over+the+last+90+days.+Break+down+totals+by+category%2C+department%2C+and+vendor%2C+and+call+out+the+biggest+increases+vs.+the+prior+90+days.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Ramp+Analyze+our+company+spend+over+the+last+90+days.+Break+down+totals+by+category%2C+department%2C+and+vendor%2C+and+call+out+the+biggest+increases+vs.+the+prior+90+days.>)
 
   * ### Handle employee expense tasks
 
-Check card balances, activate cards, add transaction memos, request reimbursements, and get policy answers using connected Ramp data.
-
 ![](https://files.openai.com/content?id=file_00000000a9cc722fb923cc9523b65b7d&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=1&sig=3dfed128f0bb03d09bf162a2dc55fbe09a77b2bb881e6dda9588c139623cb79f&v=0)![](https://files.openai.com/content?id=file_00000000ae1881f78cb19e9602da73eb&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=e6620dc8efa5f7ff134320dd09ead486087108035fdad05773799d910563ee89&v=0)Ramp What is my current card balance, available limit, and any pending transactions? Summarize what's driving my spend this month.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Ramp+What+is+my+current+card+balance%2C+available+limit%2C+and+any+pending+transactions%3F+Summarize+what%27s+driving+my+spend+this+month.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Ramp+What+is+my+current+card+balance%2C+available+limit%2C+and+any+pending+transactions%3F+Summarize+what%27s+driving+my+spend+this+month.>)
 
   * ### Work with permission-based access
 
-Use permission-based access so employees see only their data, while finance teams and admins can review company-wide spend and analytics.
-
 ![](https://files.openai.com/content?id=file_00000000a9cc722fb923cc9523b65b7d&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=1&sig=3dfed128f0bb03d09bf162a2dc55fbe09a77b2bb881e6dda9588c139623cb79f&v=0)![](https://files.openai.com/content?id=file_00000000ae1881f78cb19e9602da73eb&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=e6620dc8efa5f7ff134320dd09ead486087108035fdad05773799d910563ee89&v=0)Ramp As a finance admin, summarize company-wide spend this month by department and flag any outliers. Also confirm what spend data a standard employee can and cannot see.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Ramp+As+a+finance+admin%2C+summarize+company-wide+spend+this+month+by+department+and+flag+any+outliers.+Also+confirm+what+spend+data+a+standard+employee+can+and+cannot+see.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Ramp+As+a+finance+admin%2C+summarize+company-wide+spend+this+month+by+department+and+flag+any+outliers.+Also+confirm+what+spend+data+a+standard+employee+can+and+cannot+see.>)
 
 
 
@@ -84,7 +78,7 @@ Use permission-based access so employees see only their data, while finance team
 
 ### App
 
-  * connector_69250fb6281c819195b52a1556b0060c
+  * Ramp
 
 
 

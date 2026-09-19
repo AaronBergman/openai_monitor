@@ -34,7 +34,7 @@ OpenAI
 
 Access LSEG financial data for pricing and market analysis.
 
-[Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_698aec3092e48191a4484b43a3fc79b8>)[Contact sales](</contact-sales/>)
+[Install plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_698aec3092e48191a4484b43a3fc79b8>)[Contact sales](</contact-sales/>)
 
 Category
     [Finance](</business/plugins/?tab=plugins-finance>)
@@ -45,37 +45,31 @@ Developer
 Website
     [(opens in a new window)](<https://www.lseg.com/>)
 
-[![](https://files.openai.com/content?id=file_00000000e45471f5b5de13a805b0fb63&cdn=1&cp=pi&ma=32486400&ts=0&p=pi&cid=1&sig=e9831c00e25c94de6b24d86bd2d8c9fbff051cc5586a98f3b5bc1cac5496a2af&v=0)LSEG Get the spot price for the top 10 cross currencies traded on forex exchange(opens in a new window)](<https://chatgpt.com/?prompt=%40LSEG+Get+the+spot+price+for+the+top+10+cross+currencies+traded+on+forex+exchange>)[![](https://files.openai.com/content?id=file_00000000e45471f5b5de13a805b0fb63&cdn=1&cp=pi&ma=32486400&ts=0&p=pi&cid=1&sig=e9831c00e25c94de6b24d86bd2d8c9fbff051cc5586a98f3b5bc1cac5496a2af&v=0)LSEG Get the IBES estimates for VOD.L, BT.L for the next 2 years(opens in a new window)](<https://chatgpt.com/?prompt=%40LSEG+Get+the+IBES+estimates+for+VOD.L%2C+BT.L+for+the+next+2+years>)[![](https://files.openai.com/content?id=file_00000000e45471f5b5de13a805b0fb63&cdn=1&cp=pi&ma=32486400&ts=0&p=pi&cid=1&sig=e9831c00e25c94de6b24d86bd2d8c9fbff051cc5586a98f3b5bc1cac5496a2af&v=0)LSEG Get daily price summaries for JPMorgan stock for last month(opens in a new window)](<https://chatgpt.com/?prompt=%40LSEG+Get+daily+price+summaries+for+JPMorgan+stock+for+last+month>)
+[![](https://files.openai.com/content?id=file_00000000e45471f5b5de13a805b0fb63&cdn=1&cp=pi&ma=32486400&ts=0&p=pi&cid=1&sig=e9831c00e25c94de6b24d86bd2d8c9fbff051cc5586a98f3b5bc1cac5496a2af&v=0)LSEG Get the spot price for the top 10 cross currencies traded on forex exchange(opens in a new window)](<https://chatgpt.com/?prompt=%40LSEG+Get+the+spot+price+for+the+top+10+cross+currencies+traded+on+forex+exchange>)
 
 ## How it works
 
 Access LSEG’s institutional-grade financial data in ChatGPT to price and analyze bonds, FX, and equities, search news and earnings transcripts, and explore macroeconomic indicators.
 
-## Common use cases
+## What else can you do?
 
   * ### Support market and instrument analysis
 
-Retrieve pricing data for bonds and FX instruments to support market analysis.
-
 ![](https://files.openai.com/content?id=file_00000000e45471f5b5de13a805b0fb63&cdn=1&cp=pi&ma=32486400&ts=0&p=pi&cid=1&sig=e9831c00e25c94de6b24d86bd2d8c9fbff051cc5586a98f3b5bc1cac5496a2af&v=0)LSEG Get the latest EURUSD spot plus key level context and summarize what changed since yesterday.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40LSEG+Get+the+latest+EURUSD+spot+plus+key+level+context+and+summarize+what+changed+since+yesterday.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40LSEG+Get+the+latest+EURUSD+spot+plus+key+level+context+and+summarize+what+changed+since+yesterday.>)
 
   * ### Enhance risk and exposure analysis
 
-Access credit, inflation, and rate curve data to review risk-related indicators across markets.
-
 ![](https://files.openai.com/content?id=file_00000000e45471f5b5de13a805b0fb63&cdn=1&cp=pi&ma=32486400&ts=0&p=pi&cid=1&sig=e9831c00e25c94de6b24d86bd2d8c9fbff051cc5586a98f3b5bc1cac5496a2af&v=0)LSEG Pull the latest inflation indicators and rate curves for the US and euro area, then summarize the differences our treasury team should review.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40LSEG+Pull+the+latest+inflation+indicators+and+rate+curves+for+the+US+and+euro+area%2C+then+summarize+the+differences+our+treasury+team+should+review.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40LSEG+Pull+the+latest+inflation+indicators+and+rate+curves+for+the+US+and+euro+area%2C+then+summarize+the+differences+our+treasury+team+should+review.>)
 
   * ### Improve research and market monitoring
 
-Search global news, headlines, and earnings transcripts to support market research and monitoring.
-
 ![](https://files.openai.com/content?id=file_00000000e45471f5b5de13a805b0fb63&cdn=1&cp=pi&ma=32486400&ts=0&p=pi&cid=1&sig=e9831c00e25c94de6b24d86bd2d8c9fbff051cc5586a98f3b5bc1cac5496a2af&v=0)LSEG Create a daily morning brief for my watchlist tickers using relevant headlines and price moves.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40LSEG+Create+a+daily+morning+brief+for+my+watchlist+tickers+using+relevant+headlines+and+price+moves.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40LSEG+Create+a+daily+morning+brief+for+my+watchlist+tickers+using+relevant+headlines+and+price+moves.>)
 
 
 

@@ -34,7 +34,7 @@ OpenAI
 
 Use the Stripe plugin for ChatGPT to analyze live revenue, customers, subscriptions, disputes, and refunds, and build payment integrations.
 
-[Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_690ab09fa43c8191bca40280e4563238>)[Contact sales](</contact-sales/>)
+[Install plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_690ab09fa43c8191bca40280e4563238>)[Contact sales](</contact-sales/>)
 
 Category
     [Finance](</business/plugins/?tab=plugins-finance>)
@@ -45,37 +45,31 @@ Developer
 Website
     [(opens in a new window)](<https://stripe.com>)
 
-[![](https://files.openai.com/content?id=file_0000000007fc81f794e4c935362dc538&cdn=1&cp=pi&ma=32140800&ts=0&p=pi&cid=8&sig=60e996a8a54e3052fcb5f967015ec5b2ebef20592c41388121afb65644056360&v=0)Stripe Show me the list of my customers(opens in a new window)](<https://chatgpt.com/?prompt=%40Stripe+Show+me+the+list+of+my+customers>)[![](https://files.openai.com/content?id=file_0000000007fc81f794e4c935362dc538&cdn=1&cp=pi&ma=32140800&ts=0&p=pi&cid=8&sig=60e996a8a54e3052fcb5f967015ec5b2ebef20592c41388121afb65644056360&v=0)Stripe Show me what products I have(opens in a new window)](<https://chatgpt.com/?prompt=%40Stripe+Show+me+what+products+I+have>)[![](https://files.openai.com/content?id=file_0000000007fc81f794e4c935362dc538&cdn=1&cp=pi&ma=32140800&ts=0&p=pi&cid=8&sig=60e996a8a54e3052fcb5f967015ec5b2ebef20592c41388121afb65644056360&v=0)Stripe Tell me the prices I have created(opens in a new window)](<https://chatgpt.com/?prompt=%40Stripe+Tell+me+the+prices+I+have+created>)
+[![](https://files.openai.com/content?id=file_0000000007fc81f794e4c935362dc538&cdn=1&cp=pi&ma=32140800&ts=0&p=pi&cid=8&sig=60e996a8a54e3052fcb5f967015ec5b2ebef20592c41388121afb65644056360&v=0)Stripe Show me the list of my customers(opens in a new window)](<https://chatgpt.com/?prompt=%40Stripe+Show+me+the+list+of+my+customers>)
 
 ## How it works
 
 Answer finance and operations questions with live Stripe data, review revenue drivers, customers, and subscription changes.
 
-## Common use cases
+## What else can you do?
 
   * ### Resolve revenue-impact issues faster
 
-Pull disputed charges, refunds, and failed payments, summarize root causes, and draft customer-ready responses—reducing resolution time.
-
 ![](https://files.openai.com/content?id=file_0000000007fc81f794e4c935362dc538&cdn=1&cp=pi&ma=32140800&ts=0&p=pi&cid=8&sig=60e996a8a54e3052fcb5f967015ec5b2ebef20592c41388121afb65644056360&v=0)Stripe List disputed charges and draft customer friendly responses for the 5 highest value disputes.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Stripe+List+disputed+charges+and+draft+customer+friendly+responses+for+the+5+highest+value+disputes.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Stripe+List+disputed+charges+and+draft+customer+friendly+responses+for+the+5+highest+value+disputes.>)
 
   * ### Monitor subscription and product performance
 
-List active products and prices, spot plan changes or cancellations, and summarize trends for finance reviews so teams can respond quickly to plan reductions and retention risk.
-
 ![](https://files.openai.com/content?id=file_0000000007fc81f794e4c935362dc538&cdn=1&cp=pi&ma=32140800&ts=0&p=pi&cid=8&sig=60e996a8a54e3052fcb5f967015ec5b2ebef20592c41388121afb65644056360&v=0)Stripe Identify subscriptions that canceled within 60 days of starting and summarize common patterns we can act on.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Stripe+Identify+subscriptions+that+canceled+within+60+days+of+starting+and+summarize+common+patterns+we+can+act+on.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Stripe+Identify+subscriptions+that+canceled+within+60+days+of+starting+and+summarize+common+patterns+we+can+act+on.>)
 
   * ### Speed up payments integration work
 
-Search Stripe docs for the appropriate flow—like Checkout, Elements, or Billing—compare options, and generate implementation guidance to reduce debugging cycles and accelerate launch.
-
 ![](https://files.openai.com/content?id=file_0000000007fc81f794e4c935362dc538&cdn=1&cp=pi&ma=32140800&ts=0&p=pi&cid=8&sig=60e996a8a54e3052fcb5f967015ec5b2ebef20592c41388121afb65644056360&v=0)Stripe Using these Checkout and Billing docs, outline the steps and implementation checks for adding recurring subscriptions to our product.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Stripe+Using+these+Checkout+and+Billing+docs%2C+outline+the+steps+and+implementation+checks+for+adding+recurring+subscriptions+to+our+product.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Stripe+Using+these+Checkout+and+Billing+docs%2C+outline+the+steps+and+implementation+checks+for+adding+recurring+subscriptions+to+our+product.>)
 
 
 

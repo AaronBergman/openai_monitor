@@ -34,7 +34,7 @@ OpenAI
 
 Build banking analysis and client-ready materials.
 
-[Add plugin(opens in a new window)](<https://chatgpt.com/plugins/Plugin_68c39ea2b3888191827c933053f3a1d1>)[Contact sales](</contact-sales/>)
+[Install plugin(opens in a new window)](<https://chatgpt.com/plugins/Plugin_68c39ea2b3888191827c933053f3a1d1>)[Contact sales](</contact-sales/>)
 
 Capabilities
     Interactive, Read, Write
@@ -48,37 +48,31 @@ Developer
 Website
     [(opens in a new window)](<https://openai.com/>)
 
-[![](https://files.openai.com/content?id=file_00000000ce8481f7986ba74ddb54af68&cdn=1&cp=pi&ma=31881600&ts=0&p=pi&cid=8&sig=37c56c250e41c08c08743a7faa4863d310b65e8c99cf648f250452b5e474f5f9&v=0)Investment Banking Prepare an Intel strategic alternatives memo: asset sales, foundry partnerships, capital needs, buyers, and diligence gaps.(opens in a new window)](<https://chatgpt.com/?prompt=%40Investment+Banking+Prepare+an+Intel+strategic+alternatives+memo%3A+asset+sales%2C+foundry+partnerships%2C+capital+needs%2C+buyers%2C+and+diligence+gaps.>)[![](https://files.openai.com/content?id=file_00000000ce8481f7986ba74ddb54af68&cdn=1&cp=pi&ma=31881600&ts=0&p=pi&cid=8&sig=37c56c250e41c08c08743a7faa4863d310b65e8c99cf648f250452b5e474f5f9&v=0)Investment Banking Build Boeing financing alternatives: liquidity needs, debt capacity, rating risk, equity or hybrid options, and banker advice.(opens in a new window)](<https://chatgpt.com/?prompt=%40Investment+Banking+Build+Boeing+financing+alternatives%3A+liquidity+needs%2C+debt+capacity%2C+rating+risk%2C+equity+or+hybrid+options%2C+and+banker+advice.>)[![](https://files.openai.com/content?id=file_00000000ce8481f7986ba74ddb54af68&cdn=1&cp=pi&ma=31881600&ts=0&p=pi&cid=8&sig=37c56c250e41c08c08743a7faa4863d310b65e8c99cf648f250452b5e474f5f9&v=0)Investment Banking Analyze Warner Bros. Discovery as a breakup candidate: buyers, asset separation, leverage, valuation, process risks, and gaps.(opens in a new window)](<https://chatgpt.com/?prompt=%40Investment+Banking+Analyze+Warner+Bros.+Discovery+as+a+breakup+candidate%3A+buyers%2C+asset+separation%2C+leverage%2C+valuation%2C+process+risks%2C+and+gaps.>)
+[![](https://files.openai.com/content?id=file_00000000ce8481f7986ba74ddb54af68&cdn=1&cp=pi&ma=31881600&ts=0&p=pi&cid=8&sig=37c56c250e41c08c08743a7faa4863d310b65e8c99cf648f250452b5e474f5f9&v=0)Investment Banking Prepare an Intel strategic alternatives memo: asset sales, foundry partnerships, capital needs, buyers, and diligence gaps.(opens in a new window)](<https://chatgpt.com/?prompt=%40Investment+Banking+Prepare+an+Intel+strategic+alternatives+memo%3A+asset+sales%2C+foundry+partnerships%2C+capital+needs%2C+buyers%2C+and+diligence+gaps.>)
 
 ## How it works
 
 Use Investment Banking in ChatGPT to draft client-ready market updates, company profiles, comps summaries, pitch materials, and diligence support with clear assumptions for banker review.
 
-## Common use cases
+## What else can you do?
 
   * ### Speed up client-ready drafting
 
-Turn notes, data, and source materials into polished first drafts of market updates, pitch sections, and meeting prep.
-
 ![](https://files.openai.com/content?id=file_00000000ce8481f7986ba74ddb54af68&cdn=1&cp=pi&ma=31881600&ts=0&p=pi&cid=8&sig=37c56c250e41c08c08743a7faa4863d310b65e8c99cf648f250452b5e474f5f9&v=0)Investment Banking Draft a client-ready market update for [sector] with key themes, notable transactions, risks, and talking points.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Investment+Banking+Draft+a+client-ready+market+update+for+%5Bsector%5D+with+key+themes%2C+notable+transactions%2C+risks%2C+and+talking+points.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Investment+Banking+Draft+a+client-ready+market+update+for+%5Bsector%5D+with+key+themes%2C+notable+transactions%2C+risks%2C+and+talking+points.>)
 
   * ### Structure analysis and assumptions
 
-Organize comps, precedent transaction notes, valuation drivers, and diligence findings so reviewers can inspect the logic.
-
 ![](https://files.openai.com/content?id=file_00000000ce8481f7986ba74ddb54af68&cdn=1&cp=pi&ma=31881600&ts=0&p=pi&cid=8&sig=37c56c250e41c08c08743a7faa4863d310b65e8c99cf648f250452b5e474f5f9&v=0)Investment Banking Build an accretion/dilution model for [ACQUIRER] acquiring [TARGET] with consideration mix, financing assumptions, synergies, and EPS impact.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Investment+Banking+Build+an+accretion%2Fdilution+model+for+%5BACQUIRER%5D+acquiring+%5BTARGET%5D+with+consideration+mix%2C+financing+assumptions%2C+synergies%2C+and+EPS+impact.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Investment+Banking+Build+an+accretion%2Fdilution+model+for+%5BACQUIRER%5D+acquiring+%5BTARGET%5D+with+consideration+mix%2C+financing+assumptions%2C+synergies%2C+and+EPS+impact.>)
 
   * ### Prepare bankers for conversations
 
-Create call prep, buyer lists, question sets, and follow-up materials that keep teams aligned on next steps.
-
 ![](https://files.openai.com/content?id=file_00000000ce8481f7986ba74ddb54af68&cdn=1&cp=pi&ma=31881600&ts=0&p=pi&cid=8&sig=37c56c250e41c08c08743a7faa4863d310b65e8c99cf648f250452b5e474f5f9&v=0)Investment Banking Build a prioritized buyer universe for [TARGET] with strategic and sponsor buyers, outreach rationale, likely concerns, and wave sequencing.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Investment+Banking+Build+a+prioritized+buyer+universe+for+%5BTARGET%5D+with+strategic+and+sponsor+buyers%2C+outreach+rationale%2C+likely+concerns%2C+and+wave+sequencing.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Investment+Banking+Build+a+prioritized+buyer+universe+for+%5BTARGET%5D+with+strategic+and+sponsor+buyers%2C+outreach+rationale%2C+likely+concerns%2C+and+wave+sequencing.>)
 
 
 

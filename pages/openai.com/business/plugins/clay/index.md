@@ -34,7 +34,7 @@ OpenAI
 
 Find and engage prospects.
 
-[Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69377d07cd9c8191a988f06f15b8c674>)[Contact sales](</contact-sales/>)
+[Install plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69377d07cd9c8191a988f06f15b8c674>)[Contact sales](</contact-sales/>)
 
 Category
     [Operations](</business/plugins/?tab=plugins-operations>)
@@ -51,31 +51,25 @@ Website
 
 Use Clay’s contact databases, enrichment providers, and AI agents to research target accounts, surface verified, enriched contact info, and draft personalized outreach—all in ChatGPT.
 
-## Common use cases
+## What else can you do?
 
   * ### Build verified target lists faster
 
-Ask for VP-level roles at a named account, filter by region or tenure, and get enriched contacts and company context in one result set—reducing manual research and list-building time.
-
 ![](https://files.openai.com/content?id=file_000000006244722fa29cb1a2ccba89d3&cdn=1&cp=pi&ma=30672000&ts=0&p=pi&cid=1&sig=570d8b0f7a6b43bcbdd74740568de0b84ea6ea58b62946c26922d76f93d3ab9b&v=0)Clay Build me a verified target list of VP Marketing at mid-market SaaS companies in the US Northeast.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Clay+Build+me+a+verified+target+list+of+VP+Marketing+at+mid-market+SaaS+companies+in+the+US+Northeast.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Clay+Build+me+a+verified+target+list+of+VP+Marketing+at+mid-market+SaaS+companies+in+the+US+Northeast.>)
 
   * ### Improve personalization at scale
 
-Pull firmographics, tech stack, funding, and recent signals, then draft outreach that references what matters to each account—helping teams increase relevance without writing from scratch.
-
 ![](https://files.openai.com/content?id=file_000000006244722fa29cb1a2ccba89d3&cdn=1&cp=pi&ma=30672000&ts=0&p=pi&cid=1&sig=570d8b0f7a6b43bcbdd74740568de0b84ea6ea58b62946c26922d76f93d3ab9b&v=0)Clay Draft personalized cold emails for these 10 accounts using recent signals like funding hiring or product launches.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Clay+Draft+personalized+cold+emails+for+these+10+accounts+using+recent+signals+like+funding+hiring+or+product+launches.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Clay+Draft+personalized+cold+emails+for+these+10+accounts+using+recent+signals+like+funding+hiring+or+product+launches.>)
 
   * ### Standardize enrichment across teams
 
-Add emails, headcount growth, investors, and other fields to a saved search so reps and ops use the same data, reducing duplicate enrichment work and inconsistent CRM updates.
-
 ![](https://files.openai.com/content?id=file_000000006244722fa29cb1a2ccba89d3&cdn=1&cp=pi&ma=30672000&ts=0&p=pi&cid=1&sig=570d8b0f7a6b43bcbdd74740568de0b84ea6ea58b62946c26922d76f93d3ab9b&v=0)Clay For the contacts in this search, return available work emails, company headcount growth, and investors in one table for sales and operations.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Clay+For+the+contacts+in+this+search%2C+return+available+work+emails%2C+company+headcount+growth%2C+and+investors+in+one+table+for+sales+and+operations.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Clay+For+the+contacts+in+this+search%2C+return+available+work+emails%2C+company+headcount+growth%2C+and+investors+in+one+table+for+sales+and+operations.>)
 
 
 

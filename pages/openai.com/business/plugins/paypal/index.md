@@ -34,7 +34,7 @@ OpenAI
 
 Payments and business tools
 
-[Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a9b5923744081919700d462374ad1b6>)[Contact sales](</contact-sales/>)
+[Install plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a9b5923744081919700d462374ad1b6>)[Contact sales](</contact-sales/>)
 
 Category
     [Finance](</business/plugins/?tab=plugins-finance>)
@@ -45,37 +45,31 @@ Developer
 Website
     [(opens in a new window)](<https://www.paypal.com>)
 
-[![](https://files.openai.com/content?id=file_000000001f24820c8690d15377467396&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=8&sig=488863f4dc57b6c8bf9c24411bc4dee7c68f9fb3d834d3e153b8cc66c609e437&v=0)![](https://files.openai.com/content?id=file_000000001f24820c8690d15377467396&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=8&sig=488863f4dc57b6c8bf9c24411bc4dee7c68f9fb3d834d3e153b8cc66c609e437&v=0)PayPal Create an invoice for $1500 to John Doe email:john@example.com for web design services(opens in a new window)](<https://chatgpt.com/?prompt=%40PayPal+Create+an+invoice+for+%241500+to+John+Doe+email%3Ajohn%40example.com+for+web+design+services>)[![](https://files.openai.com/content?id=file_000000001f24820c8690d15377467396&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=8&sig=488863f4dc57b6c8bf9c24411bc4dee7c68f9fb3d834d3e153b8cc66c609e437&v=0)![](https://files.openai.com/content?id=file_000000001f24820c8690d15377467396&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=8&sig=488863f4dc57b6c8bf9c24411bc4dee7c68f9fb3d834d3e153b8cc66c609e437&v=0)PayPal Create a payment link for a handmade ceramic mug priced at $35, with the description 'Hand-thrown ceramic mug, dishwasher safe.'(opens in a new window)](<https://chatgpt.com/?prompt=%40PayPal+Create+a+payment+link+for+a+handmade+ceramic+mug+priced+at+%2435%2C+with+the+description+%27Hand-thrown+ceramic+mug%2C+dishwasher+safe.%27>)[![](https://files.openai.com/content?id=file_000000001f24820c8690d15377467396&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=8&sig=488863f4dc57b6c8bf9c24411bc4dee7c68f9fb3d834d3e153b8cc66c609e437&v=0)![](https://files.openai.com/content?id=file_000000001f24820c8690d15377467396&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=8&sig=488863f4dc57b6c8bf9c24411bc4dee7c68f9fb3d834d3e153b8cc66c609e437&v=0)PayPal Summarize my PayPal activity last month: transactions, disputes, invoice status.(opens in a new window)](<https://chatgpt.com/?prompt=%40PayPal+Summarize+my+PayPal+activity+last+month%3A+transactions%2C+disputes%2C+invoice+status.>)
+[![](https://files.openai.com/content?id=file_000000001f24820c8690d15377467396&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=8&sig=488863f4dc57b6c8bf9c24411bc4dee7c68f9fb3d834d3e153b8cc66c609e437&v=0)![](https://files.openai.com/content?id=file_000000001f24820c8690d15377467396&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=8&sig=488863f4dc57b6c8bf9c24411bc4dee7c68f9fb3d834d3e153b8cc66c609e437&v=0)PayPal Create an invoice for $1500 to John Doe email:john@example.com for web design services(opens in a new window)](<https://chatgpt.com/?prompt=%40PayPal+Create+an+invoice+for+%241500+to+John+Doe+email%3Ajohn%40example.com+for+web+design+services>)
 
 ## How it works
 
 Manage your business and develop your payments integration.
 
-## Common use cases
+## What else can you do?
 
   * ### Create a client invoice
 
-Create a $1,500 invoice for web design services using the client's billing details.
-
 ![](https://files.openai.com/content?id=file_000000001f24820c8690d15377467396&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=8&sig=488863f4dc57b6c8bf9c24411bc4dee7c68f9fb3d834d3e153b8cc66c609e437&v=0)![](https://files.openai.com/content?id=file_000000001f24820c8690d15377467396&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=8&sig=488863f4dc57b6c8bf9c24411bc4dee7c68f9fb3d834d3e153b8cc66c609e437&v=0)PayPal Create an invoice for $1500 to John Doe email:john@example.com for web design services
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40PayPal+Create+an+invoice+for+%241500+to+John+Doe+email%3Ajohn%40example.com+for+web+design+services>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40PayPal+Create+an+invoice+for+%241500+to+John+Doe+email%3Ajohn%40example.com+for+web+design+services>)
 
   * ### Create a product payment link
 
-Generate a payment link for a $35 handmade ceramic mug with its product description.
-
 ![](https://files.openai.com/content?id=file_000000001f24820c8690d15377467396&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=8&sig=488863f4dc57b6c8bf9c24411bc4dee7c68f9fb3d834d3e153b8cc66c609e437&v=0)![](https://files.openai.com/content?id=file_000000001f24820c8690d15377467396&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=8&sig=488863f4dc57b6c8bf9c24411bc4dee7c68f9fb3d834d3e153b8cc66c609e437&v=0)PayPal Create a payment link for a handmade ceramic mug priced at $35, with the description 'Hand-thrown ceramic mug, dishwasher safe.'
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40PayPal+Create+a+payment+link+for+a+handmade+ceramic+mug+priced+at+%2435%2C+with+the+description+%27Hand-thrown+ceramic+mug%2C+dishwasher+safe.%27>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40PayPal+Create+a+payment+link+for+a+handmade+ceramic+mug+priced+at+%2435%2C+with+the+description+%27Hand-thrown+ceramic+mug%2C+dishwasher+safe.%27>)
 
   * ### Review monthly payment activity
 
-Summarize last month's transactions, disputes, and invoice status for a business review.
-
 ![](https://files.openai.com/content?id=file_000000001f24820c8690d15377467396&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=8&sig=488863f4dc57b6c8bf9c24411bc4dee7c68f9fb3d834d3e153b8cc66c609e437&v=0)![](https://files.openai.com/content?id=file_000000001f24820c8690d15377467396&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=8&sig=488863f4dc57b6c8bf9c24411bc4dee7c68f9fb3d834d3e153b8cc66c609e437&v=0)PayPal Summarize my PayPal activity last month: transactions, disputes, invoice status.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40PayPal+Summarize+my+PayPal+activity+last+month%3A+transactions%2C+disputes%2C+invoice+status.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40PayPal+Summarize+my+PayPal+activity+last+month%3A+transactions%2C+disputes%2C+invoice+status.>)
 
 
 

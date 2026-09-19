@@ -34,7 +34,7 @@ OpenAI
 
 Create your own website
 
-[Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6947eaa4edd081919561e4ee3a2e5dcc>)[Contact sales](</contact-sales/>)
+[Install plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6947eaa4edd081919561e4ee3a2e5dcc>)[Contact sales](</contact-sales/>)
 
 Category
     [Operations](</business/plugins/?tab=plugins-operations>)
@@ -45,37 +45,31 @@ Developer
 Website
     [(opens in a new window)](<https://www.wix.com>)
 
-[![](https://files.openai.com/content?id=file_000000000eb47208a148e48aae716c7b&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=8&sig=61dc670eea5127013647920e57ad0b5513740878b4a240cbc9fc11ed7e0de837&v=0)Wix Build a minimalist editorial blog website for my homeware brand.(opens in a new window)](<https://chatgpt.com/?prompt=%40Wix+Build+a+minimalist+editorial+blog+website+for+my+homeware+brand.>)[![](https://files.openai.com/content?id=file_000000000eb47208a148e48aae716c7b&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=8&sig=61dc670eea5127013647920e57ad0b5513740878b4a240cbc9fc11ed7e0de837&v=0)Wix Create a high-contrast running site with bookings and subscriptions.(opens in a new window)](<https://chatgpt.com/?prompt=%40Wix+Create+a+high-contrast+running+site+with+bookings+and+subscriptions.>)[![](https://files.openai.com/content?id=file_000000000eb47208a148e48aae716c7b&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=8&sig=61dc670eea5127013647920e57ad0b5513740878b4a240cbc9fc11ed7e0de837&v=0)Wix Create a fresh matcha site with an online store and booking tools.(opens in a new window)](<https://chatgpt.com/?prompt=%40Wix+Create+a+fresh+matcha+site+with+an+online+store+and+booking+tools.>)
+[![](https://files.openai.com/content?id=file_000000000eb47208a148e48aae716c7b&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=8&sig=61dc670eea5127013647920e57ad0b5513740878b4a240cbc9fc11ed7e0de837&v=0)Wix Build a minimalist editorial blog website for my homeware brand.(opens in a new window)](<https://chatgpt.com/?prompt=%40Wix+Build+a+minimalist+editorial+blog+website+for+my+homeware+brand.>)
 
 ## How it works
 
 Build your entire site and buy a domain right from the chat. Just ask Wix for the website you want, including all the functionality you need, and get a complete, business-ready site generated for you in minutes. You can also connect the perfect custom domain to your site and manage everything seamlessly in one place. If you like, you can continue editing it inside the Wix Harmony editor using tons more AI tools and smooth drag and drop.
 
-## Common use cases
+## What else can you do?
 
   * ### Build a commerce site
 
-Create a matcha business website with a store and booking tools.
-
 ![](https://files.openai.com/content?id=file_000000000eb47208a148e48aae716c7b&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=8&sig=61dc670eea5127013647920e57ad0b5513740878b4a240cbc9fc11ed7e0de837&v=0)Wix Create a fresh matcha site with an online store and booking tools.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Wix+Create+a+fresh+matcha+site+with+an+online+store+and+booking+tools.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Wix+Create+a+fresh+matcha+site+with+an+online+store+and+booking+tools.>)
 
   * ### Create an editorial site
 
-Build a minimalist blog to share stories from your homeware brand.
-
 ![](https://files.openai.com/content?id=file_000000000eb47208a148e48aae716c7b&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=8&sig=61dc670eea5127013647920e57ad0b5513740878b4a240cbc9fc11ed7e0de837&v=0)Wix Build a minimalist editorial blog website for my homeware brand.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Wix+Build+a+minimalist+editorial+blog+website+for+my+homeware+brand.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Wix+Build+a+minimalist+editorial+blog+website+for+my+homeware+brand.>)
 
   * ### Launch a running community
 
-Create a running website with bookings and subscriptions.
-
 ![](https://files.openai.com/content?id=file_000000000eb47208a148e48aae716c7b&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=8&sig=61dc670eea5127013647920e57ad0b5513740878b4a240cbc9fc11ed7e0de837&v=0)Wix Create a high-contrast running site with bookings and subscriptions.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Wix+Create+a+high-contrast+running+site+with+bookings+and+subscriptions.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Wix+Create+a+high-contrast+running+site+with+bookings+and+subscriptions.>)
 
 
 

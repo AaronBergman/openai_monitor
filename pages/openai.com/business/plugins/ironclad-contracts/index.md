@@ -34,7 +34,7 @@ OpenAI
 
 Plain language search for fast
 
-[Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69f0f2e2c7708191b18a9940856fa450>)[Contact sales](</contact-sales/>)
+[Install plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69f0f2e2c7708191b18a9940856fa450>)[Contact sales](</contact-sales/>)
 
 Category
     [Operations](</business/plugins/?tab=plugins-operations>)
@@ -45,37 +45,31 @@ Developer
 Website
     [(opens in a new window)](<https://ironcladapp.com>)
 
-[![](https://files.openai.com/content?id=file_00000000ab2c81f79ce02f9c44c322c0&cdn=1&cp=pi&ma=30240000&ts=0&p=pi&cid=8&sig=333f73af42c9a5ef26ac6369d04ef09dbc01a2493291d7356442bcb088eee905&v=0)![](https://files.openai.com/content?id=file_00000000a46c81f79ebe5f831e1439f7&cdn=1&cp=pi&ma=30672000&ts=0&p=pi&cid=8&sig=67b1dd8d2d5cd61a8838bd32a112ca2cd2e70ead646f287dcce6f68c14d58e73&v=0)Ironclad Contracts What type of agreements do we have with Potrero Labs?(opens in a new window)](<https://chatgpt.com/?prompt=%40Ironclad+Contracts+What+type+of+agreements+do+we+have+with+Potrero+Labs%3F>)[![](https://files.openai.com/content?id=file_00000000ab2c81f79ce02f9c44c322c0&cdn=1&cp=pi&ma=30240000&ts=0&p=pi&cid=8&sig=333f73af42c9a5ef26ac6369d04ef09dbc01a2493291d7356442bcb088eee905&v=0)![](https://files.openai.com/content?id=file_00000000a46c81f79ebe5f831e1439f7&cdn=1&cp=pi&ma=30672000&ts=0&p=pi&cid=8&sig=67b1dd8d2d5cd61a8838bd32a112ca2cd2e70ead646f287dcce6f68c14d58e73&v=0)Ironclad Contracts What is the governing law of our agreements with Luminary Labs?(opens in a new window)](<https://chatgpt.com/?prompt=%40Ironclad+Contracts+What+is+the+governing+law+of+our+agreements+with+Luminary+Labs%3F>)[![](https://files.openai.com/content?id=file_00000000ab2c81f79ce02f9c44c322c0&cdn=1&cp=pi&ma=30240000&ts=0&p=pi&cid=8&sig=333f73af42c9a5ef26ac6369d04ef09dbc01a2493291d7356442bcb088eee905&v=0)![](https://files.openai.com/content?id=file_00000000a46c81f79ebe5f831e1439f7&cdn=1&cp=pi&ma=30672000&ts=0&p=pi&cid=8&sig=67b1dd8d2d5cd61a8838bd32a112ca2cd2e70ead646f287dcce6f68c14d58e73&v=0)Ironclad Contracts How many data processing addendums do we currently have in review?(opens in a new window)](<https://chatgpt.com/?prompt=%40Ironclad+Contracts+How+many+data+processing+addendums+do+we+currently+have+in+review%3F>)
+[![](https://files.openai.com/content?id=file_00000000ab2c81f79ce02f9c44c322c0&cdn=1&cp=pi&ma=30240000&ts=0&p=pi&cid=8&sig=333f73af42c9a5ef26ac6369d04ef09dbc01a2493291d7356442bcb088eee905&v=0)![](https://files.openai.com/content?id=file_00000000a46c81f79ebe5f831e1439f7&cdn=1&cp=pi&ma=30672000&ts=0&p=pi&cid=8&sig=67b1dd8d2d5cd61a8838bd32a112ca2cd2e70ead646f287dcce6f68c14d58e73&v=0)Ironclad Contracts What type of agreements do we have with Potrero Labs?(opens in a new window)](<https://chatgpt.com/?prompt=%40Ironclad+Contracts+What+type+of+agreements+do+we+have+with+Potrero+Labs%3F>)
 
 ## How it works
 
 Ironclad's MCP server lets ChatGPT search your contract repository and workflows using plain language. Ask things like "which MSAs are expiring in the next 90 days" or "show me vendor agreements with termination for convenience clauses" \- and get back the right contracts and answers instantly. An extension of Ironclad's contract search results are automatically scoped to each user's permissions, so your team spends less time searching and more time acting on what they find.
 
-## Common use cases
+## What else can you do?
 
   * ### Prioritize upcoming contract renewals
 
-Identify agreements expiring soon and compare their renewal terms so your team can prioritize follow-up.
-
 ![](https://files.openai.com/content?id=file_00000000ab2c81f79ce02f9c44c322c0&cdn=1&cp=pi&ma=30240000&ts=0&p=pi&cid=8&sig=333f73af42c9a5ef26ac6369d04ef09dbc01a2493291d7356442bcb088eee905&v=0)![](https://files.openai.com/content?id=file_00000000a46c81f79ebe5f831e1439f7&cdn=1&cp=pi&ma=30672000&ts=0&p=pi&cid=8&sig=67b1dd8d2d5cd61a8838bd32a112ca2cd2e70ead646f287dcce6f68c14d58e73&v=0)Ironclad Contracts Find MSAs expiring in the next 90 days. Summarize counterparties, expiration dates, and renewal terms; flag agreements needing attention first and link to the source contracts.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Ironclad+Contracts+Find+MSAs+expiring+in+the+next+90+days.+Summarize+counterparties%2C+expiration+dates%2C+and+renewal+terms%3B+flag+agreements+needing+attention+first+and+link+to+the+source+contracts.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Ironclad+Contracts+Find+MSAs+expiring+in+the+next+90+days.+Summarize+counterparties%2C+expiration+dates%2C+and+renewal+terms%3B+flag+agreements+needing+attention+first+and+link+to+the+source+contracts.>)
 
   * ### Compare vendor exit terms
 
-Compare termination provisions across vendor agreements to prepare a focused review of exit options.
-
 ![](https://files.openai.com/content?id=file_00000000ab2c81f79ce02f9c44c322c0&cdn=1&cp=pi&ma=30240000&ts=0&p=pi&cid=8&sig=333f73af42c9a5ef26ac6369d04ef09dbc01a2493291d7356442bcb088eee905&v=0)![](https://files.openai.com/content?id=file_00000000a46c81f79ebe5f831e1439f7&cdn=1&cp=pi&ma=30672000&ts=0&p=pi&cid=8&sig=67b1dd8d2d5cd61a8838bd32a112ca2cd2e70ead646f287dcce6f68c14d58e73&v=0)Ironclad Contracts Find vendor agreements with termination for convenience clauses. Compare notice periods and any stated fees, cite the relevant language, and flag missing details for review.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Ironclad+Contracts+Find+vendor+agreements+with+termination+for+convenience+clauses.+Compare+notice+periods+and+any+stated+fees%2C+cite+the+relevant+language%2C+and+flag+missing+details+for+review.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Ironclad+Contracts+Find+vendor+agreements+with+termination+for+convenience+clauses.+Compare+notice+periods+and+any+stated+fees%2C+cite+the+relevant+language%2C+and+flag+missing+details+for+review.>)
 
   * ### Review the DPA backlog
 
-Summarize data processing addendums in review and highlight workflow records that need follow-up.
-
 ![](https://files.openai.com/content?id=file_00000000ab2c81f79ce02f9c44c322c0&cdn=1&cp=pi&ma=30240000&ts=0&p=pi&cid=8&sig=333f73af42c9a5ef26ac6369d04ef09dbc01a2493291d7356442bcb088eee905&v=0)![](https://files.openai.com/content?id=file_00000000a46c81f79ebe5f831e1439f7&cdn=1&cp=pi&ma=30672000&ts=0&p=pi&cid=8&sig=67b1dd8d2d5cd61a8838bd32a112ca2cd2e70ead646f287dcce6f68c14d58e73&v=0)Ironclad Contracts Find data processing addendums currently in review. Group them by workflow stage, list available owner and date information, and flag records needing follow-up without inferring missing details.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Ironclad+Contracts+Find+data+processing+addendums+currently+in+review.+Group+them+by+workflow+stage%2C+list+available+owner+and+date+information%2C+and+flag+records+needing+follow-up+without+inferring+missing+details.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Ironclad+Contracts+Find+data+processing+addendums+currently+in+review.+Group+them+by+workflow+stage%2C+list+available+owner+and+date+information%2C+and+flag+records+needing+follow-up+without+inferring+missing+details.>)
 
 
 

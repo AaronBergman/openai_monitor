@@ -34,7 +34,7 @@ OpenAI
 
 Legal research for everyone
 
-[Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a393898430881918250b54d31c8799b>)[Contact sales](</contact-sales/>)
+[Install plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a393898430881918250b54d31c8799b>)[Contact sales](</contact-sales/>)
 
 Category
     [Education](</business/plugins/?tab=plugins-education>)
@@ -45,37 +45,31 @@ Developer
 Website
     [(opens in a new window)](<https://free.law/>)
 
-[![](https://files.openai.com/content?id=file_00000000562081f68433ad2572eea69c&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=30898b33f26be715595fdf2944b327ba1ad92753d28968f1abff786947081c62&v=0)CourtListener What have federal appeals courts held about qualified immunity for school officials?(opens in a new window)](<https://chatgpt.com/?prompt=%40CourtListener+What+have+federal+appeals+courts+held+about+qualified+immunity+for+school+officials%3F>)[![](https://files.openai.com/content?id=file_00000000562081f68433ad2572eea69c&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=30898b33f26be715595fdf2944b327ba1ad92753d28968f1abff786947081c62&v=0)CourtListener Is Varghese v. China Southern Airlines Co., 925 F.3d 1339 (11th Cir. 2019), a real case?(opens in a new window)](<https://chatgpt.com/?prompt=%40CourtListener+Is+Varghese+v.+China+Southern+Airlines+Co.%2C+925+F.3d+1339+%2811th+Cir.+2019%29%2C+a+real+case%3F>)[![](https://files.openai.com/content?id=file_00000000562081f68433ad2572eea69c&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=30898b33f26be715595fdf2944b327ba1ad92753d28968f1abff786947081c62&v=0)CourtListener Alert me to new filings in the Google ad tech case.(opens in a new window)](<https://chatgpt.com/?prompt=%40CourtListener+Alert+me+to+new+filings+in+the+Google+ad+tech+case.>)
+[![](https://files.openai.com/content?id=file_00000000562081f68433ad2572eea69c&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=30898b33f26be715595fdf2944b327ba1ad92753d28968f1abff786947081c62&v=0)CourtListener What have federal appeals courts held about qualified immunity for school officials?(opens in a new window)](<https://chatgpt.com/?prompt=%40CourtListener+What+have+federal+appeals+courts+held+about+qualified+immunity+for+school+officials%3F>)
 
 ## How it works
 
 Connect to CourtListener, the Free Law Project's legal research platform, with access to millions of U.S. court opinions, PACER dockets, judge profiles, oral arguments, and citation data. Search case law across federal and state courts, retrieve full case metadata, extract and verify legal citations against a canonical database, and set up alerts for new opinions or docket updates. Built and operated by Free Law Project, a 501(c)(3) nonprofit dedicated to making the law broadly accessible. Suited for attorneys, legal researchers, journalists, academics, and pro se litigants who need fast, reliable access to primary legal sources.
 
-## Common use cases
+## What else can you do?
 
   * ### Compare court decisions
 
-Prepare a source-linked overview of how federal appeals courts have addressed qualified immunity for school officials.
-
 ![](https://files.openai.com/content?id=file_00000000562081f68433ad2572eea69c&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=30898b33f26be715595fdf2944b327ba1ad92753d28968f1abff786947081c62&v=0)CourtListener Find federal appeals court decisions on qualified immunity for school officials. Compare their holdings and relevant facts in a research memo with citations, links, and questions requiring further research.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40CourtListener+Find+federal+appeals+court+decisions+on+qualified+immunity+for+school+officials.+Compare+their+holdings+and+relevant+facts+in+a+research+memo+with+citations%2C+links%2C+and+questions+requiring+further+research.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40CourtListener+Find+federal+appeals+court+decisions+on+qualified+immunity+for+school+officials.+Compare+their+holdings+and+relevant+facts+in+a+research+memo+with+citations%2C+links%2C+and+questions+requiring+further+research.>)
 
   * ### Verify citations in a draft
 
-Check case citations against CourtListener and identify references that are missing or inconsistent.
-
 ![](https://files.openai.com/content?id=file_00000000562081f68433ad2572eea69c&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=30898b33f26be715595fdf2944b327ba1ad92753d28968f1abff786947081c62&v=0)CourtListener Check the case citations in my uploaded draft against CourtListener. Return a table with matching cases, citation discrepancies, and unresolved references, with links for each verified match.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40CourtListener+Check+the+case+citations+in+my+uploaded+draft+against+CourtListener.+Return+a+table+with+matching+cases%2C+citation+discrepancies%2C+and+unresolved+references%2C+with+links+for+each+verified+match.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40CourtListener+Check+the+case+citations+in+my+uploaded+draft+against+CourtListener.+Return+a+table+with+matching+cases%2C+citation+discrepancies%2C+and+unresolved+references%2C+with+links+for+each+verified+match.>)
 
   * ### Track new case filings
 
-Set up an alert for new filings in the Google ad tech case.
-
 ![](https://files.openai.com/content?id=file_00000000562081f68433ad2572eea69c&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=30898b33f26be715595fdf2944b327ba1ad92753d28968f1abff786947081c62&v=0)CourtListener Alert me to new filings in the Google ad tech case.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40CourtListener+Alert+me+to+new+filings+in+the+Google+ad+tech+case.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40CourtListener+Alert+me+to+new+filings+in+the+Google+ad+tech+case.>)
 
 
 

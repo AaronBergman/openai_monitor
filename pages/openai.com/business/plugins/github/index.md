@@ -34,7 +34,7 @@ OpenAI
 
 Access repositories, issues, and pull requests.
 
-[Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_1p_1a69035c238881919c4190932b2df699>)[Contact sales](</contact-sales/>)
+[Install plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_1p_1a69035c238881919c4190932b2df699>)[Contact sales](</contact-sales/>)
 
 Capabilities
     Interactive, Write
@@ -48,37 +48,35 @@ Developer
 Website
     [(opens in a new window)](<https://github.com/>)
 
-[![](https://files.openai.com/content?id=file_000000008d0481fb9ac8c2286d8c0360&cdn=1&cp=pi&ma=30931200&ts=0&p=pi&cid=8&sig=815010da6abb924f37ed6dffd584c2870b2c91573d2ecea8666c8ff538a9b5e7&v=0)GitHub Explain this repo's authentication using code and docs: components, request flow, and how credentials and tokens are handled(opens in a new window)](<https://chatgpt.com/?prompt=%40GitHub+Explain+this+repo%27s+authentication+using+code+and+docs%3A+components%2C+request+flow%2C+and+how+credentials+and+tokens+are+handled>)[![](https://files.openai.com/content?id=file_000000008d0481fb9ac8c2286d8c0360&cdn=1&cp=pi&ma=30931200&ts=0&p=pi&cid=8&sig=815010da6abb924f37ed6dffd584c2870b2c91573d2ecea8666c8ff538a9b5e7&v=0)GitHub Summarize this pull request like a senior reviewer: what changed, what could break, and what tests are missing or weak(opens in a new window)](<https://chatgpt.com/?prompt=%40GitHub+Summarize+this+pull+request+like+a+senior+reviewer%3A+what+changed%2C+what+could+break%2C+and+what+tests+are+missing+or+weak>)[![](https://files.openai.com/content?id=file_000000008d0481fb9ac8c2286d8c0360&cdn=1&cp=pi&ma=30931200&ts=0&p=pi&cid=8&sig=815010da6abb924f37ed6dffd584c2870b2c91573d2ecea8666c8ff538a9b5e7&v=0)GitHub Turn the last 7 days of commits and merged PRs into a stakeholder update: shipped work, risks, and next steps(opens in a new window)](<https://chatgpt.com/?prompt=%40GitHub+Turn+the+last+7+days+of+commits+and+merged+PRs+into+a+stakeholder+update%3A+shipped+work%2C+risks%2C+and+next+steps>)
+## Pull request review
+
+![](https://files.openai.com/content?id=file_000000008d0481fb9ac8c2286d8c0360&cdn=1&cp=pi&ma=30931200&ts=0&p=pi&cid=8&sig=815010da6abb924f37ed6dffd584c2870b2c91573d2ecea8666c8ff538a9b5e7&v=0)GitHub get my latest pull request ready for review: address feedback, investigate failing checks, and prepare fixes. Summarize the changes for reviewers.
+
+![](https://files.openai.com/content?id=file_000000008d0481fb9ac8c2286d8c0360&cdn=1&cp=pi&ma=30931200&ts=0&p=pi&cid=8&sig=815010da6abb924f37ed6dffd584c2870b2c91573d2ecea8666c8ff538a9b5e7&v=0)GitHub get my latest pull request ready for review: address feedback, investigate failing checks, and prepare fixes. Summarize the changes for reviewers.
 
 ## How it works
 
 Explore repo files, docs, and commit history to understand code, summarize PRs, and generate clear explanations that streamline reviews and make technical work easier to share.
 
-## Common use cases
+## What else can you do?
 
   * ### Accelerate code understanding and onboarding
 
-Ask how a module works or where a function lives, and get an explanation with cited snippets that helps new engineers ramp faster and reduces interruptions for senior developers.
-
 ![](https://files.openai.com/content?id=file_000000008d0481fb9ac8c2286d8c0360&cdn=1&cp=pi&ma=30931200&ts=0&p=pi&cid=8&sig=815010da6abb924f37ed6dffd584c2870b2c91573d2ecea8666c8ff538a9b5e7&v=0)GitHub Using this repository’s code and documentation, explain how authentication works end to end, including the key components, request flow, and where credentials or tokens are handled.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40GitHub+Using+this+repository%E2%80%99s+code+and+documentation%2C+explain+how+authentication+works+end+to+end%2C+including+the+key+components%2C+request+flow%2C+and+where+credentials+or+tokens+are+handled.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40GitHub+Using+this+repository%E2%80%99s+code+and+documentation%2C+explain+how+authentication+works+end+to+end%2C+including+the+key+components%2C+request+flow%2C+and+where+credentials+or+tokens+are+handled.>)
 
   * ### Speed up reviews and reduce merge friction
 
-Summarize a pull request, list risky changes, and suggest test gaps before review, reducing back-and-forth comments and shortening time from open to merge.
-
 ![](https://files.openai.com/content?id=file_000000008d0481fb9ac8c2286d8c0360&cdn=1&cp=pi&ma=30931200&ts=0&p=pi&cid=8&sig=815010da6abb924f37ed6dffd584c2870b2c91573d2ecea8666c8ff538a9b5e7&v=0)GitHub Summarize this pull request like a senior reviewer: what changed, what could break, and what tests are missing or weak.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40GitHub+Summarize+this+pull+request+like+a+senior+reviewer%3A+what+changed%2C+what+could+break%2C+and+what+tests+are+missing+or+weak.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40GitHub+Summarize+this+pull+request+like+a+senior+reviewer%3A+what+changed%2C+what+could+break%2C+and+what+tests+are+missing+or+weak.>)
 
   * ### Turn repo activity into stakeholder-ready updates
 
-Generate a weekly engineering update from recent commits and PRs, highlighting shipped work, blockers, and next steps to keep stakeholders informed.
-
 ![](https://files.openai.com/content?id=file_000000008d0481fb9ac8c2286d8c0360&cdn=1&cp=pi&ma=30931200&ts=0&p=pi&cid=8&sig=815010da6abb924f37ed6dffd584c2870b2c91573d2ecea8666c8ff538a9b5e7&v=0)GitHub Turn the last 7 days of commits and merged PRs into a stakeholder-ready engineering update with shipped work, risks, and next steps.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40GitHub+Turn+the+last+7+days+of+commits+and+merged+PRs+into+a+stakeholder-ready+engineering+update+with+shipped+work%2C+risks%2C+and+next+steps.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40GitHub+Turn+the+last+7+days+of+commits+and+merged+PRs+into+a+stakeholder-ready+engineering+update+with+shipped+work%2C+risks%2C+and+next+steps.>)
 
 
 

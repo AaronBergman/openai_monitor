@@ -75,13 +75,21 @@ With the API, [_workspace owners_ ⁠(opens in a new window)](<https://help.open
 Enterprise workspace owners can access the Enterprise Compliance API directly or can choose to use a third-party compliance integration to simplify the process of syncing ChatGPT Enterprise data. These new integrations offered by the following providers support a range of compliance-related activities, such as archiving, audit trails, data redaction and retention, and policy enforcement:
 
   * [Forcepoint⁠(opens in a new window)](<https://www.forcepoint.com/newsroom/2024/forcepoint-launches-comprehensive-genai-security>)
+
   * [Global Relay⁠(opens in a new window)](<https://www.globalrelay.com/resources/our-news/global-relay-announces-integration-with-openais-chatgpt-enterprise-compliance-api/?utm_source=OpenAI&utm_medium=announcement-1&utm_campaign=gr-ba-global-q324-connector-chatgpt&utm_content>)
+
   * [Microsoft Purview⁠(opens in a new window)](<https://techcommunity.microsoft.com/t5/security-compliance-and-identity/microsoft-purview-integrates-with-chatgpt-enterprise-compliance/ba-p/4192868>)
+
   * [Netskope⁠(opens in a new window)](<https://www.netskope.com/press-releases/netskope-announces-integration-with-openais-chatgpt-enterprise-to-strengthen-data-governance-and-compliance>)
+
   * [Palo Alto Networks⁠(opens in a new window)](<https://www.paloaltonetworks.com/blog/2024/07/announcing-openai-chatgpt-enterprise-compliance-integration/>)
+
   * [Relativity⁠(opens in a new window)](<https://www.prnewswire.com/news-releases/relativity-announces-openai-chatgpt-enterprise-compliance-api-integration-302200238.html?tc=eml_cleartime>)
+
   * [Smarsh⁠(opens in a new window)](<https://www.smarsh.com/blog/thought-leadership/smarsh-launches-integration-with-openai-chatgpt-enterprise-compliance-api>)
+
   * [Zscaler⁠(opens in a new window)](<https://www.zscaler.com/blogs/product-insights/zscaler-delivers-new-chatgpt-enterprise-compliance-api-integration-drive>)
+
 
 
 
@@ -89,8 +97,11 @@ Enterprise workspace owners can access the Enterprise Compliance API directly or
 Integrations help ChatGPT Enterprise customers with:
 
   * Compliance programs: Support meeting requirements for regulations like FINRA, HIPAA, and GDPR
+
   * eDiscovery and legal holds: Preparing and maintaining data in the case of legal proceedings
+
   * Data Loss Prevention (DLP): Monitoring and deleting sensitive data such as Personally Identifiable Information (PII), Protected Health Information (PHI), or financial data
+
 
 
 
@@ -117,8 +128,11 @@ Previously, admins could only fully allow or block usage of GPT actions created 
 In addition to this new setting, Enterprise admins also have access to:
 
   * [_Group permissions_ ⁠(opens in a new window)](<https://help.openai.com/en/articles/9083985-group-permissions-in-gpts>): Create and edit user groups to control GPT access and permissions more granularly within your workspace.
+
   * [_Comprehensive GPT settings_ ⁠(opens in a new window)](<https://help.openai.com/en/articles/8840492-what-gpt-settings-can-i-control-for-my-workspace>): Manage GPT sharing permissions, view the configuration of any GPT in your workspace, remove GPTs, transfer ownership, and set global GPT capabilities.
+
   * [_Third-party GPT controls_ ⁠(opens in a new window)](<https://help.openai.com/en/articles/8840492-what-gpt-settings-can-i-control-for-my-workspace#h_0c5b86d61b>): Approve specific third-party GPTs in your workspace, or set global controls to allow or restrict all external GPTs. 
+
 
 
 
@@ -130,10 +144,15 @@ GPTs provide more personalized outputs based on the knowledge and information us
 We continue to invest deeply in enterprise security. In addition to these new tools, ChatGPT Enterprise offers robust [_data privacy, security, and admin controls_ ⁠](<https://openai.com/enterprise-privacy/>), including:
 
   * No customer data or metadata is used for training models
+
   * Data encryption at rest and in transit
+
   * Custom data retention window
+
   * Single Sign-On (SSO) and domain verification
+
   * CCPA, CSA STAR, and SOC 2 Type 2 compliance
+
 
 
 
