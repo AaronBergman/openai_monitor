@@ -34,7 +34,7 @@ OpenAI
 
 Track brand sentiment in AI.
 
-[Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69bc9080866081919c3b70ce64e1db0d>)[Contact sales](</contact-sales/>)
+[Install plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69bc9080866081919c3b70ce64e1db0d>)[Contact sales](</contact-sales/>)
 
 Category
     [Operations](</business/plugins/?tab=plugins-operations>)
@@ -51,31 +51,25 @@ Website
 
 Analyze your brand’s AI presence in ChatGPT with Conductor to review visibility, sentiment, mentions, citations, and competitive share across platforms.
 
-## Common use cases
+## What else can you do?
 
   * ### Measure brand presence in AI
 
-Review how often your brand and competitors appear in AI responses, including mentions and citations across topics and platforms.
-
 ![](https://files.openai.com/content?id=file_00000000df28722f805f38afa570951c&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=1&sig=5bb6adc94c55b8a48766a262cf9cadee712cbfa6498342cf0ba652b97958532e&v=0)Conductor Report how often our brand appears in AI responses for topics: [topics]. Compare against [competitor] and include mentions and citations share.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Conductor+Report+how+often+our+brand+appears+in+AI+responses+for+topics%3A+%5Btopics%5D.+Compare+against+%5Bcompetitor%5D+and+include+mentions+and+citations+share.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Conductor+Report+how+often+our+brand+appears+in+AI+responses+for+topics%3A+%5Btopics%5D.+Compare+against+%5Bcompetitor%5D+and+include+mentions+and+citations+share.>)
 
   * ### Analyze context and sentiment
 
-Analyze sentiment associated with your brand in AI results and understand how it varies by topic, intent, or source.
-
 ![](https://files.openai.com/content?id=file_00000000df28722f805f38afa570951c&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=1&sig=5bb6adc94c55b8a48766a262cf9cadee712cbfa6498342cf0ba652b97958532e&v=0)Conductor Analyze sentiment and context for [brand] mentions in AI results. Break down by topic and summarize the drivers of positive vs. negative sentiment.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Conductor+Analyze+sentiment+and+context+for+%5Bbrand%5D+mentions+in+AI+results.+Break+down+by+topic+and+summarize+the+drivers+of+positive+vs.+negative+sentiment.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Conductor+Analyze+sentiment+and+context+for+%5Bbrand%5D+mentions+in+AI+results.+Break+down+by+topic+and+summarize+the+drivers+of+positive+vs.+negative+sentiment.>)
 
   * ### Explore topics and competitive share
 
-Explore topics and prompts that generate AI mentions and citations to understand competitive share across brands and domains.
-
 ![](https://files.openai.com/content?id=file_00000000df28722f805f38afa570951c&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=1&sig=5bb6adc94c55b8a48766a262cf9cadee712cbfa6498342cf0ba652b97958532e&v=0)Conductor Identify the top prompts and topics where competitors outperform us in AI visibility. Recommend priority content areas and domains to improve our share of citations.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Conductor+Identify+the+top+prompts+and+topics+where+competitors+outperform+us+in+AI+visibility.+Recommend+priority+content+areas+and+domains+to+improve+our+share+of+citations.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Conductor+Identify+the+top+prompts+and+topics+where+competitors+outperform+us+in+AI+visibility.+Recommend+priority+content+areas+and+domains+to+improve+our+share+of+citations.>)
 
 
 

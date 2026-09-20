@@ -34,7 +34,7 @@ OpenAI
 
 Manage, modify, and host your images and videos.
 
-[Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_691f245d4070819184e05b4889161ba8>)[Contact sales](</contact-sales/>)
+[Install plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_691f245d4070819184e05b4889161ba8>)[Contact sales](</contact-sales/>)
 
 Category
     [Engineering & IT](</business/plugins/?tab=plugins-engineering-it>)
@@ -51,31 +51,25 @@ Website
 
 Connect your Cloudinary account to ChatGPT to manage, search, and transform images and videos from your media library using natural language.
 
-## Common use cases
+## What else can you do?
 
   * ### Search and retrieve media assets
 
-Browse and search your Cloudinary media library by tag, folder, format, or metadata to find images and videos.
-
 ![](https://files.openai.com/content?id=file_000000007edc71f5b6e71a05d16220aa&cdn=1&cp=pi&ma=30585600&ts=0&p=pi&cid=1&sig=75532cd6420897161acc72328af06673960ff00435b9f4ed2d4a75c7194673a8&v=0)Cloudinary Search my media library for assets tagged [tag] in folder [folder]. Return the top 10 results with file names, formats, dimensions, and last updated date.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Cloudinary+Search+my+media+library+for+assets+tagged+%5Btag%5D+in+folder+%5Bfolder%5D.+Return+the+top+10+results+with+file+names%2C+formats%2C+dimensions%2C+and+last+updated+date.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Cloudinary+Search+my+media+library+for+assets+tagged+%5Btag%5D+in+folder+%5Bfolder%5D.+Return+the+top+10+results+with+file+names%2C+formats%2C+dimensions%2C+and+last+updated+date.>)
 
   * ### Transform images and videos
 
-Transform images or videos using Cloudinary’s syntax to resize, crop, reformat, compress, or apply filters for different use cases.
-
 ![](https://files.openai.com/content?id=file_000000007edc71f5b6e71a05d16220aa&cdn=1&cp=pi&ma=30585600&ts=0&p=pi&cid=1&sig=75532cd6420897161acc72328af06673960ff00435b9f4ed2d4a75c7194673a8&v=0)Cloudinary Take this asset and create optimized variants for web and social (e.g., 1200px, 1080px, 600px wide), using sensible crop and compression. Return the transformation URLs.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Cloudinary+Take+this+asset+and+create+optimized+variants+for+web+and+social+%28e.g.%2C+1200px%2C+1080px%2C+600px+wide%29%2C+using+sensible+crop+and+compression.+Return+the+transformation+URLs.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Cloudinary+Take+this+asset+and+create+optimized+variants+for+web+and+social+%28e.g.%2C+1200px%2C+1080px%2C+600px+wide%29%2C+using+sensible+crop+and+compression.+Return+the+transformation+URLs.>)
 
   * ### Organize and manage media libraries
 
-Upload assets, create folders, rename files, manage metadata, and maintain your Cloudinary media library directly from ChatGPT.
-
 ![](https://files.openai.com/content?id=file_000000007edc71f5b6e71a05d16220aa&cdn=1&cp=pi&ma=30585600&ts=0&p=pi&cid=1&sig=75532cd6420897161acc72328af06673960ff00435b9f4ed2d4a75c7194673a8&v=0)Cloudinary Create a folder structure for this campaign, move these assets into it, and add metadata fields for campaign, channel, and owner. Summarize what changed.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Cloudinary+Create+a+folder+structure+for+this+campaign%2C+move+these+assets+into+it%2C+and+add+metadata+fields+for+campaign%2C+channel%2C+and+owner.+Summarize+what+changed.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Cloudinary+Create+a+folder+structure+for+this+campaign%2C+move+these+assets+into+it%2C+and+add+metadata+fields+for+campaign%2C+channel%2C+and+owner.+Summarize+what+changed.>)
 
 
 

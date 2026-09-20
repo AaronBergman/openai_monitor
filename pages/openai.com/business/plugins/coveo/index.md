@@ -34,7 +34,7 @@ OpenAI
 
 Search across your enterprise content sources.
 
-[Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_693251083bf48191a69098fd0ba36f17>)[Contact sales](</contact-sales/>)
+[Install plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_693251083bf48191a69098fd0ba36f17>)[Contact sales](</contact-sales/>)
 
 Category
     [Productivity](</business/plugins/?tab=plugins-productivity>)
@@ -51,31 +51,25 @@ Website
 
 Search and retrieve answers from your enterprise content in ChatGPT using Coveo to find relevant documents and source passages.
 
-## Common use cases
+## What else can you do?
 
   * ### Reduce time spent finding accurate answers
 
-Quickly retrieve precise answers and source passages, reducing time spent manual searching.
-
 ![](https://files.openai.com/content?id=file_00000000280c71f581d1b587fe4e3273&cdn=1&cp=pi&ma=32659200&ts=0&p=pi&cid=1&sig=04d26c73823db45dd1f099ecbf4bf2a661c6fb6740f192f9b06bdc205e5a29b7&v=0)Coveo Find the best answer to the below question. Provide a concise answer and include the top supporting passages with document titles and locations so I can verify quickly.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Coveo+Find+the+best+answer+to+the+below+question.+Provide+a+concise+answer+and+include+the+top+supporting+passages+with+document+titles+and+locations+so+I+can+verify+quickly.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Coveo+Find+the+best+answer+to+the+below+question.+Provide+a+concise+answer+and+include+the+top+supporting+passages+with+document+titles+and+locations+so+I+can+verify+quickly.>)
 
   * ### Improve confidence in technical and product decisions
 
-Ensure responses are grounded in the latest documentation, helping teams avoid outdated guidance, reduce errors, and make informed implementation choices.
-
 ![](https://files.openai.com/content?id=file_00000000280c71f581d1b587fe4e3273&cdn=1&cp=pi&ma=32659200&ts=0&p=pi&cid=1&sig=04d26c73823db45dd1f099ecbf4bf2a661c6fb6740f192f9b06bdc205e5a29b7&v=0)Coveo For this topic, retrieve the most recent official documentation and summarize the current recommended approach. Flag any older guidance that conflicts with the latest sources.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Coveo+For+this+topic%2C+retrieve+the+most+recent+official+documentation+and+summarize+the+current+recommended+approach.+Flag+any+older+guidance+that+conflicts+with+the+latest+sources.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Coveo+For+this+topic%2C+retrieve+the+most+recent+official+documentation+and+summarize+the+current+recommended+approach.+Flag+any+older+guidance+that+conflicts+with+the+latest+sources.>)
 
   * ### Support teams at enterprise scale
 
-Enable consistent, self-serve access to trusted knowledge across large organizations.
-
 ![](https://files.openai.com/content?id=file_00000000280c71f581d1b587fe4e3273&cdn=1&cp=pi&ma=32659200&ts=0&p=pi&cid=1&sig=04d26c73823db45dd1f099ecbf4bf2a661c6fb6740f192f9b06bdc205e5a29b7&v=0)Coveo Draft a reusable internal answer for the below question. Ground it in the latest docs and include links to the exact source passages for support teams to reference.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Coveo+Draft+a+reusable+internal+answer+for+the+below+question.+Ground+it+in+the+latest+docs+and+include+links+to+the+exact+source+passages+for+support+teams+to+reference.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Coveo+Draft+a+reusable+internal+answer+for+the+below+question.+Ground+it+in+the+latest+docs+and+include+links+to+the+exact+source+passages+for+support+teams+to+reference.>)
 
 
 

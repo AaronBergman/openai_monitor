@@ -34,7 +34,7 @@ OpenAI
 
 Experiment and product data
 
-[Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a7c7752de408191a101b78e59fda025>)[Contact sales](</contact-sales/>)
+[Install plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a7c7752de408191a101b78e59fda025>)[Contact sales](</contact-sales/>)
 
 Category
     [Data](</business/plugins/?tab=plugins-data-research>)
@@ -45,37 +45,31 @@ Developer
 Website
     [(opens in a new window)](<https://www.datadoghq.com/>)
 
-[![](https://files.openai.com/content?id=file_00000000c5ac81f7981f0ba2186edefd&cdn=1&cp=pi&ma=32227200&ts=0&p=pi&cid=8&sig=991736a5b60d6bebf175e891640894fc768995b940bf94d5cc3fa50044ebee56&v=0)Datadog Experiments Analyze how users move through my product and find the largest drop-off.(opens in a new window)](<https://chatgpt.com/?prompt=%40Datadog+Experiments+Analyze+how+users+move+through+my+product+and+find+the+largest+drop-off.>)[![](https://files.openai.com/content?id=file_00000000c5ac81f7981f0ba2186edefd&cdn=1&cp=pi&ma=32227200&ts=0&p=pi&cid=8&sig=991736a5b60d6bebf175e891640894fc768995b940bf94d5cc3fa50044ebee56&v=0)Datadog Experiments Check this experiment's validity and explain its result.(opens in a new window)](<https://chatgpt.com/?prompt=%40Datadog+Experiments+Check+this+experiment%27s+validity+and+explain+its+result.>)[![](https://files.openai.com/content?id=file_00000000c5ac81f7981f0ba2186edefd&cdn=1&cp=pi&ma=32227200&ts=0&p=pi&cid=8&sig=991736a5b60d6bebf175e891640894fc768995b940bf94d5cc3fa50044ebee56&v=0)Datadog Experiments Create or update a feature flag for a controlled rollout.(opens in a new window)](<https://chatgpt.com/?prompt=%40Datadog+Experiments+Create+or+update+a+feature+flag+for+a+controlled+rollout.>)
+[![](https://files.openai.com/content?id=file_00000000c5ac81f7981f0ba2186edefd&cdn=1&cp=pi&ma=32227200&ts=0&p=pi&cid=8&sig=991736a5b60d6bebf175e891640894fc768995b940bf94d5cc3fa50044ebee56&v=0)Datadog Experiments Analyze how users move through my product and find the largest drop-off.(opens in a new window)](<https://chatgpt.com/?prompt=%40Datadog+Experiments+Analyze+how+users+move+through+my+product+and+find+the+largest+drop-off.>)
 
 ## How it works
 
 This plugin is the best way to agentically interact with Datadog Product Analytics, Feature Flagging, and Experimentation
 
-## Common use cases
+## What else can you do?
 
   * ### Find funnel drop-offs
 
-Identify the largest funnel drop-off and prioritize a product improvement.
-
 ![](https://files.openai.com/content?id=file_00000000c5ac81f7981f0ba2186edefd&cdn=1&cp=pi&ma=32227200&ts=0&p=pi&cid=8&sig=991736a5b60d6bebf175e891640894fc768995b940bf94d5cc3fa50044ebee56&v=0)Datadog Experiments Analyze the [funnel] over the last 30 days. Identify the largest drop-off, compare available user segments, and recommend a focused improvement with the supporting data.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Datadog+Experiments+Analyze+the+%5Bfunnel%5D+over+the+last+30+days.+Identify+the+largest+drop-off%2C+compare+available+user+segments%2C+and+recommend+a+focused+improvement+with+the+supporting+data.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Datadog+Experiments+Analyze+the+%5Bfunnel%5D+over+the+last+30+days.+Identify+the+largest+drop-off%2C+compare+available+user+segments%2C+and+recommend+a+focused+improvement+with+the+supporting+data.>)
 
   * ### Evaluate experiment results
 
-Assess an experiment result and explain whether the evidence supports a rollout.
-
 ![](https://files.openai.com/content?id=file_00000000c5ac81f7981f0ba2186edefd&cdn=1&cp=pi&ma=32227200&ts=0&p=pi&cid=8&sig=991736a5b60d6bebf175e891640894fc768995b940bf94d5cc3fa50044ebee56&v=0)Datadog Experiments Check [experiment] for validity, review its primary metric and guardrails, and explain the result. Recommend whether to ship, continue, or investigate, with uncertainties made explicit.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Datadog+Experiments+Check+%5Bexperiment%5D+for+validity%2C+review+its+primary+metric+and+guardrails%2C+and+explain+the+result.+Recommend+whether+to+ship%2C+continue%2C+or+investigate%2C+with+uncertainties+made+explicit.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Datadog+Experiments+Check+%5Bexperiment%5D+for+validity%2C+review+its+primary+metric+and+guardrails%2C+and+explain+the+result.+Recommend+whether+to+ship%2C+continue%2C+or+investigate%2C+with+uncertainties+made+explicit.>)
 
   * ### Configure a controlled rollout
 
-Prepare a feature flag with defined targeting and traffic allocation.
-
 ![](https://files.openai.com/content?id=file_00000000c5ac81f7981f0ba2186edefd&cdn=1&cp=pi&ma=32227200&ts=0&p=pi&cid=8&sig=991736a5b60d6bebf175e891640894fc768995b940bf94d5cc3fa50044ebee56&v=0)Datadog Experiments Create or update [feature flag] in [environment] for [target users] at [percentage] traffic. Review the existing configuration first and summarize the targeting and rollout changes.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Datadog+Experiments+Create+or+update+%5Bfeature+flag%5D+in+%5Benvironment%5D+for+%5Btarget+users%5D+at+%5Bpercentage%5D+traffic.+Review+the+existing+configuration+first+and+summarize+the+targeting+and+rollout+changes.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Datadog+Experiments+Create+or+update+%5Bfeature+flag%5D+in+%5Benvironment%5D+for+%5Btarget+users%5D+at+%5Bpercentage%5D+traffic.+Review+the+existing+configuration+first+and+summarize+the+targeting+and+rollout+changes.>)
 
 
 

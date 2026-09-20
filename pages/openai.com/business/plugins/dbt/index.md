@@ -34,7 +34,7 @@ OpenAI
 
 Work with dbt projects
 
-[Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_templated_apps_6a710de0c6b08191a298927933709e4e>)[Contact sales](</contact-sales/>)
+[Install plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_templated_apps_6a710de0c6b08191a298927933709e4e>)[Contact sales](</contact-sales/>)
 
 Category
     [Engineering & IT](</business/plugins/?tab=plugins-engineering-it>)
@@ -49,31 +49,25 @@ Website
 
 dbt MCP Server helps users inspect dbt projects, query dbt Semantic Layer metrics, review lineage and model metadata, run dbt commands, manage dbt Platform jobs, generate dbt boilerplate, and search official dbt documentation through ChatGPT.
 
-## Common use cases
+## What else can you do?
 
   * ### Explain metric changes
 
-Compare governed revenue metrics across customer segments using consistent business definitions.
-
 ![](https://files.openai.com/content?id=file_00000000df4881f788a37df4207ac9dc&cdn=1&cp=pi&ma=30326400&ts=0&p=pi&cid=8&sig=4020564437afe11a5605bfe53ade5270adde75ec5dd47fc0054ea7bff442c67f&v=0)DBT Query our Semantic Layer revenue metric for the last two quarters by customer segment. Identify the largest contributors to the change and explain the definition, filters, and time grain used.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40DBT+Query+our+Semantic+Layer+revenue+metric+for+the+last+two+quarters+by+customer+segment.+Identify+the+largest+contributors+to+the+change+and+explain+the+definition%2C+filters%2C+and+time+grain+used.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40DBT+Query+our+Semantic+Layer+revenue+metric+for+the+last+two+quarters+by+customer+segment.+Identify+the+largest+contributors+to+the+change+and+explain+the+definition%2C+filters%2C+and+time+grain+used.>)
 
   * ### Assess model change impact
 
-Identify the downstream models and metrics that need review before a model change.
-
 ![](https://files.openai.com/content?id=file_00000000df4881f788a37df4207ac9dc&cdn=1&cp=pi&ma=30326400&ts=0&p=pi&cid=8&sig=4020564437afe11a5605bfe53ade5270adde75ec5dd47fc0054ea7bff442c67f&v=0)DBT Inspect the lineage and metadata for our orders model. Identify downstream models and metrics affected by changing its customer key, and propose a focused validation checklist before implementation.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40DBT+Inspect+the+lineage+and+metadata+for+our+orders+model.+Identify+downstream+models+and+metrics+affected+by+changing+its+customer+key%2C+and+propose+a+focused+validation+checklist+before+implementation.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40DBT+Inspect+the+lineage+and+metadata+for+our+orders+model.+Identify+downstream+models+and+metrics+affected+by+changing+its+customer+key%2C+and+propose+a+focused+validation+checklist+before+implementation.>)
 
   * ### Diagnose a failed job
 
-Turn the latest failed job results into a prioritized recovery plan.
-
 ![](https://files.openai.com/content?id=file_00000000df4881f788a37df4207ac9dc&cdn=1&cp=pi&ma=30326400&ts=0&p=pi&cid=8&sig=4020564437afe11a5605bfe53ade5270adde75ec5dd47fc0054ea7bff442c67f&v=0)DBT Review the latest failed production job, its run results, and affected model metadata. Identify the likely failure point, distinguish evidence from hypotheses, and recommend the next debugging steps.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40DBT+Review+the+latest+failed+production+job%2C+its+run+results%2C+and+affected+model+metadata.+Identify+the+likely+failure+point%2C+distinguish+evidence+from+hypotheses%2C+and+recommend+the+next+debugging+steps.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40DBT+Review+the+latest+failed+production+job%2C+its+run+results%2C+and+affected+model+metadata.+Identify+the+likely+failure+point%2C+distinguish+evidence+from+hypotheses%2C+and+recommend+the+next+debugging+steps.>)
 
 
 

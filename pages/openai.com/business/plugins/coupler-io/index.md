@@ -34,7 +34,7 @@ OpenAI
 
 Connect and analyze data from 400+ apps.
 
-[Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6939ea66e1588191af5f9d2a52964d19>)[Contact sales](</contact-sales/>)
+[Install plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6939ea66e1588191af5f9d2a52964d19>)[Contact sales](</contact-sales/>)
 
 Category
     [Data](</business/plugins/?tab=plugins-data-research>)
@@ -51,31 +51,25 @@ Website
 
 Analyze multi-channel marketing, financial, sales, e-commerce, and other business data in ChatGPT by connecting to your Coupler.io data flows and fetching data from platforms like Google Ads, Facebook, HubSpot, and Salesforce using accurate, up-to-date information.
 
-## Common use cases
+## What else can you do?
 
   * ### Get answers from live business data
 
-Ask questions about spend, revenue, pipeline, or cash flow and retrieve results from synced sources such as ads platforms, CRMs, and accounting tools.
-
 ![](https://files.openai.com/content?id=file_0000000027d4720cb3c6276cd8072cbf&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=1&sig=a3508d050069b869a7ea64497552aa36b5fd8ae401dbbdece236011f58213604&v=0)Coupler.io Using my synced data sources, what were revenue, ad spend, and gross profit last month? Break down by channel and highlight the largest drivers of change vs. the prior month.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Coupler.io+Using+my+synced+data+sources%2C+what+were+revenue%2C+ad+spend%2C+and+gross+profit+last+month%3F+Break+down+by+channel+and+highlight+the+largest+drivers+of+change+vs.+the+prior+month.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Coupler.io+Using+my+synced+data+sources%2C+what+were+revenue%2C+ad+spend%2C+and+gross+profit+last+month%3F+Break+down+by+channel+and+highlight+the+largest+drivers+of+change+vs.+the+prior+month.>)
 
   * ### Analyze cross-source datasets
 
-Analyze consolidated datasets across marketing, sales, finance, and ecommerce platforms to review performance across multiple systems together.
-
 ![](https://files.openai.com/content?id=file_0000000027d4720cb3c6276cd8072cbf&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=1&sig=a3508d050069b869a7ea64497552aa36b5fd8ae401dbbdece236011f58213604&v=0)Coupler.io Combine the latest data from our ad platforms. Show a funnel view from spend, leads, opportunities‚ revenue, and call out drop-offs and likely causes.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Coupler.io+Combine+the+latest+data+from+our+ad+platforms.+Show+a+funnel+view+from+spend%2C+leads%2C+opportunities%E2%80%9A+revenue%2C+and+call+out+drop-offs+and+likely+causes.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Coupler.io+Combine+the+latest+data+from+our+ad+platforms.+Show+a+funnel+view+from+spend%2C+leads%2C+opportunities%E2%80%9A+revenue%2C+and+call+out+drop-offs+and+likely+causes.>)
 
   * ### Generate reports and summaries
 
-Generate reports and summaries such as pipeline views, ROI breakdowns, conversion rates, or profit comparisons using connected Coupler.io data.
-
 ![](https://files.openai.com/content?id=file_0000000027d4720cb3c6276cd8072cbf&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=1&sig=a3508d050069b869a7ea64497552aa36b5fd8ae401dbbdece236011f58213604&v=0)Coupler.io Generate a weekly report with KPI table, trends, anomalies, and 3 recommended follow-ups. Include separate sections for marketing, sales pipeline, and finance.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Coupler.io+Generate+a+weekly+report+with+KPI+table%2C+trends%2C+anomalies%2C+and+3+recommended+follow-ups.+Include+separate+sections+for+marketing%2C+sales+pipeline%2C+and+finance.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Coupler.io+Generate+a+weekly+report+with+KPI+table%2C+trends%2C+anomalies%2C+and+3+recommended+follow-ups.+Include+separate+sections+for+marketing%2C+sales+pipeline%2C+and+finance.>)
 
 
 

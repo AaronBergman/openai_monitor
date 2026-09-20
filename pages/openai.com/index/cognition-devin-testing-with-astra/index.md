@@ -88,6 +88,10 @@ Walden Yan, Co-founder, Cognition
 
 ## Keep reading
 
+![Introducing the Australian Youth Safety Blueprint — cover](https://images.ctfassets.net/kftzwdyauwt9/3hSPxVZReGirTIsDaGBwaN/6a402fc967b16c7a33e509a2bea2bc44/introducing-the-australian-youth-safety-blueprint-cover.png?w=3840&q=90&fm=webp)
+
+[Introducing the Australian Youth Safety BlueprintCompanySep 18, 2026](</index/australian-youth-safety-blueprint/>)
+
 ![Cooley customer story Option A art card](https://images.ctfassets.net/kftzwdyauwt9/5OYdzanPC7fpSJGLq4nEei/6b2c065869933403a99fd6ccf36a6aa0/square.png?w=3840&q=90&fm=webp)
 
 [How Cooley is accelerating IPO work with ChatGPTSep 17, 2026](</index/cooley-gopublic/>)
@@ -95,10 +99,6 @@ Walden Yan, Co-founder, Cognition
 ![Introducing Astra for Law — art card](https://images.ctfassets.net/kftzwdyauwt9/4vshYjPreJaZEO8O7sSTFX/e61e1b0c2f67305b55171ae3cc8042b8/introducing-astra-for-law-art-card.png?w=3840&q=90&fm=webp)
 
 [Introducing Astra for LawCompanySep 17, 2026](</index/astra-for-law/>)
-
-![Helping older adults use AI in everyday life — art card](https://images.ctfassets.net/kftzwdyauwt9/6ewlK5oKVHp0phTezeh0rT/2c9454f9757b567c1837e07013ffe2f1/older-adults-art-card-v001.png?w=3840&q=90&fm=webp)
-
-[Helping older adults use AI in everyday lifeGlobal AffairsSep 16, 2026](</index/helping-older-adults-use-ai-in-everyday-life/>)
 
 Research
 

@@ -1,5 +1,35 @@
 # openai_monitor
 
+## 2026-09-20T09-16Z
+
+**Fetch time:** 2026-09-20T09:18:40Z–09:18:49Z UTC | **Baseline:** 2026-09-19T09-15Z (consecutive day)
+
+**TL;DR:** A quiet day after yesterday's big plugin-directory expansion. The sitemap is unchanged in size — still **1,974 URLs across 42 sub-sitemaps**, zero pages added or removed. 95 URLs got a `<lastmod>` bump, but only 10 of them had any visible content change, and all 10 turn out to be the tail end of yesterday's plugin-page template refresh finally reaching a handful of pages that missed the first wave: Cloudinary, Conductor, Coupler.io, Coveo, Datadog Experiments, dbt, Deepnote, Egnyte, and Fireflies all picked up the "Install plugin" button text, the "What else can you do?" section heading, and `surface=work`-tagged try-it links. No new articles, no removed pages, no timestamp anomalies.
+
+### Anomalies
+
+None. No future-dated or backwards-moving `<lastmod>` values, no backdated new URLs (there were no new URLs today), no reappeared URLs, no sub-sitemap section changes or migrations.
+
+Full detail in [`runs/2026-09-20T09-16Z/analysis.md`](runs/2026-09-20T09-16Z/analysis.md).
+
+### Notable additions
+
+None. 0 new URLs today.
+
+### Notable updates
+
+- **9 plugin pages catch up to yesterday's template refresh** — [Cloudinary](pages/openai.com/business/plugins/cloudinary/index.md), [Conductor](pages/openai.com/business/plugins/conductor/index.md), [Coupler.io](pages/openai.com/business/plugins/coupler-io/index.md), [Coveo](pages/openai.com/business/plugins/coveo/index.md), [Datadog Experiments](pages/openai.com/business/plugins/datadog-experiments/index.md), [dbt](pages/openai.com/business/plugins/dbt/index.md), [Deepnote](pages/openai.com/business/plugins/deepnote/index.md), [Egnyte](pages/openai.com/business/plugins/egnyte/index.md), and [Fireflies](pages/openai.com/business/plugins/fireflies/index.md) all switched their "Add plugin" CTA to "Install plugin," renamed "Common use cases" to "What else can you do?", added `surface=work` to their example try-it links (button text now "Try in ChatGPT Work"), and dropped the one-line description that used to sit above each example screenshot. This is the same refresh that landed on 224 other plugin pages on 2026-09-19 — these nine appear to have simply been queued for a later deploy. Datadog Experiments and Deepnote also had their top hero image strip shrink from 3 example thumbnails to 1.
+- **[Cognition/Devin testing with Astra](pages/openai.com/index/cognition-devin-testing-with-astra/index.md)** — only its "recent posts" carousel changed (swapped in the Australian Youth Safety Blueprint card, dropped the older-adults-AI card); the article itself is unchanged.
+- 85 further URLs (mostly plugin pages, plus several `index/*` articles and the release notes page) bumped `<lastmod>` with zero visible content change — routine CDN/asset re-signing.
+
+### Removed pages
+
+None this run.
+
+_Stats: 1974 total URLs | 0 added | 95 updated (10 with visible content diff) | 0 removed | 0 anomalies | 42 sub-sitemaps_
+
+---
+
 ## 2026-09-19T09-15Z
 
 **Fetch time:** 2026-09-19T09:15Z–09:19Z UTC | **Baseline:** 2026-09-18T09-15Z (consecutive day)
