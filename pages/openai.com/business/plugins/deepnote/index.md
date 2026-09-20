@@ -34,7 +34,7 @@ OpenAI
 
 Run data workflows with agents
 
-[Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69fb51f9519081919c1f3e44ea9a5a05>)[Contact sales](</contact-sales/>)
+[Install plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69fb51f9519081919c1f3e44ea9a5a05>)[Contact sales](</contact-sales/>)
 
 Capabilities
     Interactive, Read, Write
@@ -48,37 +48,31 @@ Developer
 Website
     [(opens in a new window)](<https://deepnote.com/>)
 
-[![](https://files.openai.com/content?id=file_000000002508720c9a808a7a197929fc&cdn=1&cp=pi&ma=30240000&ts=0&p=pi&cid=1&sig=9e6d504a9756152e2d17d70009ee318ff522006ed005665c72b731a0a7201276&v=0)Deepnote Summarize my Deepnote workspace and recent notebook activity(opens in a new window)](<https://chatgpt.com/?prompt=%40Deepnote+Summarize+my+Deepnote+workspace+and+recent+notebook+activity>)[![](https://files.openai.com/content?id=file_000000002508720c9a808a7a197929fc&cdn=1&cp=pi&ma=30240000&ts=0&p=pi&cid=1&sig=9e6d504a9756152e2d17d70009ee318ff522006ed005665c72b731a0a7201276&v=0)Deepnote Explore active data connections to my Deepnote workspace(opens in a new window)](<https://chatgpt.com/?prompt=%40Deepnote+Explore+active+data+connections+to+my+Deepnote+workspace>)[![](https://files.openai.com/content?id=file_000000002508720c9a808a7a197929fc&cdn=1&cp=pi&ma=30240000&ts=0&p=pi&cid=1&sig=9e6d504a9756152e2d17d70009ee318ff522006ed005665c72b731a0a7201276&v=0)Deepnote Create a notebook exploring S&P 500 vs. Nasdaq gains over the last 5 years(opens in a new window)](<https://chatgpt.com/?prompt=%40Deepnote+Create+a+notebook+exploring+S%26P+500+vs.+Nasdaq+gains+over+the+last+5+years>)
+[![](https://files.openai.com/content?id=file_000000002508720c9a808a7a197929fc&cdn=1&cp=pi&ma=30240000&ts=0&p=pi&cid=1&sig=9e6d504a9756152e2d17d70009ee318ff522006ed005665c72b731a0a7201276&v=0)Deepnote Summarize my Deepnote workspace and recent notebook activity(opens in a new window)](<https://chatgpt.com/?prompt=%40Deepnote+Summarize+my+Deepnote+workspace+and+recent+notebook+activity>)
 
 ## How it works
 
 Deepnote gives teams a collaborative workspace for notebooks, SQL, apps, and data workflows. This plugin helps OpenAI work with connected Deepnote projects, inspect and run notebooks, and turn workspace context into useful analysis and shareable results.
 
-## Common use cases
+## What else can you do?
 
   * ### Build a revenue notebook
 
-Create a runnable notebook that explains revenue changes with charts and the largest contributing segments.
-
 ![](https://files.openai.com/content?id=file_000000002508720c9a808a7a197929fc&cdn=1&cp=pi&ma=30240000&ts=0&p=pi&cid=1&sig=9e6d504a9756152e2d17d70009ee318ff522006ed005665c72b731a0a7201276&v=0)Deepnote Create and run a notebook comparing last quarter's revenue with the prior quarter by segment using our connected data. Include charts, the three largest contributors to the change, and data caveats.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Deepnote+Create+and+run+a+notebook+comparing+last+quarter%27s+revenue+with+the+prior+quarter+by+segment+using+our+connected+data.+Include+charts%2C+the+three+largest+contributors+to+the+change%2C+and+data+caveats.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Deepnote+Create+and+run+a+notebook+comparing+last+quarter%27s+revenue+with+the+prior+quarter+by+segment+using+our+connected+data.+Include+charts%2C+the+three+largest+contributors+to+the+change%2C+and+data+caveats.>)
 
   * ### Map notebook dependencies
 
-Identify the notebooks and analyses that depend on a data connection before planning a migration.
-
 ![](https://files.openai.com/content?id=file_000000002508720c9a808a7a197929fc&cdn=1&cp=pi&ma=30240000&ts=0&p=pi&cid=1&sig=9e6d504a9756152e2d17d70009ee318ff522006ed005665c72b731a0a7201276&v=0)Deepnote Inspect our warehouse connection and identify the projects, notebooks, and SQL blocks that use it. Summarize the analyses affected and prepare a checklist for validating them after a migration.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Deepnote+Inspect+our+warehouse+connection+and+identify+the+projects%2C+notebooks%2C+and+SQL+blocks+that+use+it.+Summarize+the+analyses+affected+and+prepare+a+checklist+for+validating+them+after+a+migration.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Deepnote+Inspect+our+warehouse+connection+and+identify+the+projects%2C+notebooks%2C+and+SQL+blocks+that+use+it.+Summarize+the+analyses+affected+and+prepare+a+checklist+for+validating+them+after+a+migration.>)
 
   * ### Diagnose a failed notebook
 
-Review a failed notebook run and recommend a focused correction based on its code and outputs.
-
 ![](https://files.openai.com/content?id=file_000000002508720c9a808a7a197929fc&cdn=1&cp=pi&ma=30240000&ts=0&p=pi&cid=1&sig=9e6d504a9756152e2d17d70009ee318ff522006ed005665c72b731a0a7201276&v=0)Deepnote Find the latest failed run of our weekly reporting notebook. Review its blocks and available run outputs, explain the likely cause, and recommend the smallest correction with a way to validate it.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Deepnote+Find+the+latest+failed+run+of+our+weekly+reporting+notebook.+Review+its+blocks+and+available+run+outputs%2C+explain+the+likely+cause%2C+and+recommend+the+smallest+correction+with+a+way+to+validate+it.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Deepnote+Find+the+latest+failed+run+of+our+weekly+reporting+notebook.+Review+its+blocks+and+available+run+outputs%2C+explain+the+likely+cause%2C+and+recommend+the+smallest+correction+with+a+way+to+validate+it.>)
 
 
 

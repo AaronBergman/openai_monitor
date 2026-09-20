@@ -34,7 +34,7 @@ OpenAI
 
 Search meeting transcripts.
 
-[Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_6912075cb358819187346bcafb601db8>)[Contact sales](</contact-sales/>)
+[Install plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_6912075cb358819187346bcafb601db8>)[Contact sales](</contact-sales/>)
 
 Category
     [Productivity](</business/plugins/?tab=plugins-productivity>)
@@ -51,31 +51,25 @@ Website
 
 Use meeting recordings and transcripts from Fireflies in ChatGPT to summarize conversations, surface action items, and search discussions across your organization.
 
-## Common use cases
+## What else can you do?
 
   * ### Summarize meetings and transcripts
 
-Summarize meeting transcripts to review key discussion points and decisions from sales, customer success, product, or internal meetings.
-
 ![](https://files.openai.com/content?id=file_00000000a9f8722fbd055a681bb0a779&cdn=1&cp=pi&ma=32140800&ts=0&p=pi&cid=1&sig=1f854f45030b66a6fc0dfff15dd395faa907cb2ddb48d63c105de67b4d9975cd&v=0)Fireflies Summarize the transcript from my last meeting titled [meeting name]. Capture key themes, decisions made, and any open questions.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Fireflies+Summarize+the+transcript+from+my+last+meeting+titled+%5Bmeeting+name%5D.+Capture+key+themes%2C+decisions+made%2C+and+any+open+questions.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Fireflies+Summarize+the+transcript+from+my+last+meeting+titled+%5Bmeeting+name%5D.+Capture+key+themes%2C+decisions+made%2C+and+any+open+questions.>)
 
   * ### Extract action items and context
 
-Identify action items, follow-ups, and relevant context from meeting transcripts to understand next steps discussed in conversations.
-
 ![](https://files.openai.com/content?id=file_00000000a9f8722fbd055a681bb0a779&cdn=1&cp=pi&ma=32140800&ts=0&p=pi&cid=1&sig=1f854f45030b66a6fc0dfff15dd395faa907cb2ddb48d63c105de67b4d9975cd&v=0)Fireflies From the meeting transcript, list all action items with owners (if stated), due dates (if stated), and the exact supporting quote for each.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Fireflies+From+the+meeting+transcript%2C+list+all+action+items+with+owners+%28if+stated%29%2C+due+dates+%28if+stated%29%2C+and+the+exact+supporting+quote+for+each.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Fireflies+From+the+meeting+transcript%2C+list+all+action+items+with+owners+%28if+stated%29%2C+due+dates+%28if+stated%29%2C+and+the+exact+supporting+quote+for+each.>)
 
   * ### Search conversations and knowledge
 
-Search across meeting transcripts to retrieve context, feature requests, pain points, and past discussions using Fireflies data.
-
 ![](https://files.openai.com/content?id=file_00000000a9f8722fbd055a681bb0a779&cdn=1&cp=pi&ma=32140800&ts=0&p=pi&cid=1&sig=1f854f45030b66a6fc0dfff15dd395faa907cb2ddb48d63c105de67b4d9975cd&v=0)Fireflies Search across meeting transcripts for mentions of this topic. Return the most relevant meetings, a short summary of what was said, and links or timestamps to the passages.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Fireflies+Search+across+meeting+transcripts+for+mentions+of+this+topic.+Return+the+most+relevant+meetings%2C+a+short+summary+of+what+was+said%2C+and+links+or+timestamps+to+the+passages.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Fireflies+Search+across+meeting+transcripts+for+mentions+of+this+topic.+Return+the+most+relevant+meetings%2C+a+short+summary+of+what+was+said%2C+and+links+or+timestamps+to+the+passages.>)
 
 
 

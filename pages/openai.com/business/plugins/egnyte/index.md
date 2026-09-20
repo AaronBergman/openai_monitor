@@ -34,7 +34,7 @@ OpenAI
 
 Explore and analyyze your content.
 
-[Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_691f749cd9088191befeb1d543c37d98>)[Contact sales](</contact-sales/>)
+[Install plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_691f749cd9088191befeb1d543c37d98>)[Contact sales](</contact-sales/>)
 
 Category
     [Productivity](</business/plugins/?tab=plugins-productivity>)
@@ -51,31 +51,25 @@ Website
 
 Securely search, open, and work with Egnyte files in ChatGPT using permission-based access, including document Q&A, summarization, Knowledge Base querying, and project navigation.
 
-## Common use cases
+## What else can you do?
 
   * ### Search and open enterprise files
 
-Use full-text and advanced search to find files, navigate projects and folders, and locate contracts, reports, or technical documents across Egnyte repositories.
-
 ![](https://files.openai.com/content?id=file_000000003bb8722fbea64d0a87f36d33&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=1&sig=7355697d61901b3cb56a17429fac65bc32bcba65b1a8bd4403c9fb574fd742db&v=0)Egnyte Search for [key term] across our Egnyte repositories. Return the most relevant contracts, reports, or specs with file paths and a 1-2 sentence relevance note.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Egnyte+Search+for+%5Bkey+term%5D+across+our+Egnyte+repositories.+Return+the+most+relevant+contracts%2C+reports%2C+or+specs+with+file+paths+and+a+1-2+sentence+relevance+note.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Egnyte+Search+for+%5Bkey+term%5D+across+our+Egnyte+repositories.+Return+the+most+relevant+contracts%2C+reports%2C+or+specs+with+file+paths+and+a+1-2+sentence+relevance+note.>)
 
   * ### Ask questions and summarize documents
 
-Ask questions about files and generate summaries to understand key details from documents such as policies, SOWs, audits, or technical specifications.
-
 ![](https://files.openai.com/content?id=file_000000003bb8722fbea64d0a87f36d33&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=1&sig=7355697d61901b3cb56a17429fac65bc32bcba65b1a8bd4403c9fb574fd742db&v=0)Egnyte Open [file] and summarize purpose, key obligations or requirements, deadlines, owners, and any risks or exceptions. Quote the exact sections for critical items.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Egnyte+Open+%5Bfile%5D+and+summarize+purpose%2C+key+obligations+or+requirements%2C+deadlines%2C+owners%2C+and+any+risks+or+exceptions.+Quote+the+exact+sections+for+critical+items.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Egnyte+Open+%5Bfile%5D+and+summarize+purpose%2C+key+obligations+or+requirements%2C+deadlines%2C+owners%2C+and+any+risks+or+exceptions.+Quote+the+exact+sections+for+critical+items.>)
 
   * ### Work with files and collaboration context
 
-Open files, access Knowledge Base content, download documents, and view collaboration details like comments and links directly in ChatGPT.
-
 ![](https://files.openai.com/content?id=file_000000003bb8722fbea64d0a87f36d33&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=1&sig=7355697d61901b3cb56a17429fac65bc32bcba65b1a8bd4403c9fb574fd742db&v=0)Egnyte Show recent file activity, comments, and shared links. Highlight any documents that look actively in review or awaiting approval.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Egnyte+Show+recent+file+activity%2C+comments%2C+and+shared+links.+Highlight+any+documents+that+look+actively+in+review+or+awaiting+approval.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Egnyte+Show+recent+file+activity%2C+comments%2C+and+shared+links.+Highlight+any+documents+that+look+actively+in+review+or+awaiting+approval.>)
 
 
 
