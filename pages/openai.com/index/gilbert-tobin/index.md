@@ -150,17 +150,17 @@ More than 1 million businesses around the world are achieving meaningful results
 
 ## Keep reading
 
-![Helping older adults use AI in everyday life — art card](https://images.ctfassets.net/kftzwdyauwt9/6ewlK5oKVHp0phTezeh0rT/2c9454f9757b567c1837e07013ffe2f1/older-adults-art-card-v001.png?w=3840&q=90&fm=webp)
+![Introducing the Australian Youth Safety Blueprint — cover](https://images.ctfassets.net/kftzwdyauwt9/3hSPxVZReGirTIsDaGBwaN/6a402fc967b16c7a33e509a2bea2bc44/introducing-the-australian-youth-safety-blueprint-cover.png?w=3840&q=90&fm=webp)
 
-[Helping older adults use AI in everyday lifeGlobal AffairsSep 16, 2026](</index/helping-older-adults-use-ai-in-everyday-life/>)
+[Introducing the Australian Youth Safety BlueprintCompanySep 18, 2026](</index/australian-youth-safety-blueprint/>)
 
-![Reimagining advertising with AI — Card cover](https://images.ctfassets.net/kftzwdyauwt9/fHwkKLVG8WFHvuUPqMXtz/1c49ba0859fe1e1e21f5d64f692490f5/reimagining-advertising-with-ai-cover.png?w=3840&q=90&fm=webp)
+![Cooley customer story Option A art card](https://images.ctfassets.net/kftzwdyauwt9/5OYdzanPC7fpSJGLq4nEei/6b2c065869933403a99fd6ccf36a6aa0/square.png?w=3840&q=90&fm=webp)
 
-[Reimagining advertising with AIProductSep 16, 2026](</index/reimagining-advertising-with-ai/>)
+[How Cooley is accelerating IPO work with ChatGPTSep 17, 2026](</index/cooley-gopublic/>)
 
-![How to connect AI usage to business value — art card](https://images.ctfassets.net/kftzwdyauwt9/36T42HPkipcJAs08yNirmR/f73d9408ef4f0b08b5cce3b839656843/cover-018.png?w=3840&q=90&fm=webp)
+![Introducing Astra for Law — art card](https://images.ctfassets.net/kftzwdyauwt9/4vshYjPreJaZEO8O7sSTFX/e61e1b0c2f67305b55171ae3cc8042b8/introducing-astra-for-law-art-card.png?w=3840&q=90&fm=webp)
 
-[How to connect AI usage to business valueProductSep 16, 2026](</index/how-to-connect-ai-usage-to-business-value/>)
+[Introducing Astra for LawCompanySep 17, 2026](</index/astra-for-law/>)
 
 Research
 

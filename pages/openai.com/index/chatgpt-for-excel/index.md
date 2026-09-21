@@ -89,8 +89,11 @@ We’re introducing **ChatGPT for Excel** in beta—a version of ChatGPT embedde
 #### How it works
 
   * **Build and update spreadsheet models faster**. Instead of building spreadsheet models or running scenario analysis manually, teams can describe what they need in plain language, and ChatGPT will create or update live Excel models directly in the workbook. Teams can run data analysis, reporting, inventory management, budgeting—all while preserving structure, formulas, and assumptions in a formatted, Excel-native workbook.
+
   * **Get insights from large spreadsheets without manual reconciliation**. ChatGPT can reason across workbooks, understand how sheets and formulas connect across the model, explain why outputs changed, trace and fix errors, and show how assumptions flow through a model. This is especially useful when users inherit existing templates, need to get up to speed quickly, or want to understand and test a workbook before making decisions.
+
   * **Follow the logic and trust the outputs**. ChatGPT explains what it’s doing as it works and links answers to the exact cells it references and updates. Because calculations run directly in Excel, teams can trace assumptions, audit formulas, and verify how results were produced. Before making changes to a workbook, ChatGPT asks for permission, so users can review each step and undo edits if needed.
+
 
 
 
@@ -125,9 +128,13 @@ Teams can also use apps with research in ChatGPT to pull from filings, transcrip
 For organizations adopting ChatGPT at work, ChatGPT Enterprise includes the security, governance, and access controls needed to use ChatGPT confidently, especially in regulated or data-sensitive environments:
 
   * Manage and monitor access with RBAC, SAML SSO, SCIM, and audit logs, with support for common DLP and SIEM tools.
+
   * Protect firm data with encryption in transit with TLS 1.2+ and at rest with AES-256, plus enterprise key management support.
+
   * Meet regional data requirements with data residency and regional processing controls.
+
   * By default, data shared with ChatGPT Enterprise is not used to train or improve our models.
+
 
 
 
@@ -138,10 +145,6 @@ For organizations adopting ChatGPT at work, ChatGPT Enterprise includes the secu
 We’re working closely with financial institutions as they apply ChatGPT across research, underwriting, auditing, client engagement, code modernization, and operations. Across banks, asset managers, and insurance, we’re seeing impact in workflows like due diligence, client experience, and investment research—and we’ll keep learning alongside customers as they scale their AI deployments. 
 
 HgBBVAWalleye CapitalBalyasny Asset Management (BAM)Fidelity InternationalMUFGCommBankDatasite
-
-> “ChatGPT has materially accelerated our research and due diligence workflows—from financial analysis and market research to legal review and writing internal memos—while improving consistency across teams. It has expanded our team’s capacity, freeing our investment professionals to focus more time on judgment, debate, and conviction. We’re excited to be early adopters of new capabilities and to help shape how AI transforms financial services in the years ahead.”
-
-—Amr Ellabban, PhD, Head of AI, Hg
 
 * * *
 
@@ -155,17 +158,17 @@ To learn more, [_contact our team_ ⁠](<https://openai.com/contact-sales/>). En
 
 [View all](</news/>)
 
-![ChatGPT for Teachers district expansion | Original neutral library cover](https://images.ctfassets.net/kftzwdyauwt9/4jHps0gmVQfIrnl2shwDBi/35e47854409876d353f3bb502a164317/teachers-original-neutral-listing.png?w=3840&q=90&fm=webp)
+![Reimagining advertising with AI — Card cover](https://images.ctfassets.net/kftzwdyauwt9/fHwkKLVG8WFHvuUPqMXtz/1c49ba0859fe1e1e21f5d64f692490f5/reimagining-advertising-with-ai-cover.png?w=3840&q=90&fm=webp)
 
-[Bringing ChatGPT for Teachers to more U.S. school districtsProductAug 26, 2026](</index/bringing-chatgpt-for-teachers-to-more-us-school-districts/>)
+[Reimagining advertising with AIProductSep 16, 2026](</index/reimagining-advertising-with-ai/>)
 
-![Learning never stops card image](https://images.ctfassets.net/kftzwdyauwt9/rGBw0SMWP2aaIH5twRBgX/5f8f24d0e5a03eecfc74ab6cee3dc331/learning-never-stops-how-ai-makes-learning-continuous-cover.png?w=3840&q=90&fm=webp)
+![How to connect AI usage to business value — art card](https://images.ctfassets.net/kftzwdyauwt9/36T42HPkipcJAs08yNirmR/f73d9408ef4f0b08b5cce3b839656843/cover-018.png?w=3840&q=90&fm=webp)
 
-[Learning never stops: How AI makes learning continuousProductAug 26, 2026](</index/learning-never-stops/>)
+[How to connect AI usage to business valueProductSep 16, 2026](</index/how-to-connect-ai-usage-to-business-value/>)
 
-![GPT-5.6 in Kiro > OpenAI and official Kiro full logo > 1:1 art card](https://images.ctfassets.net/kftzwdyauwt9/31NSq4ufuXRuOUqH9Xdjno/319b9502b892d44b8b91df7aef9d53ed/OAI_Kiro_Partnership_1x1_Art_Card_Official_Full_Lockup_2160.png?w=3840&q=90&fm=webp)
+![Now everyone can put data to work — card image](https://images.ctfassets.net/kftzwdyauwt9/6FhMXOSe8XadGwEUev6QjJ/916a64d20bcc59b8619fea1827fa6bd3/put-data-to-work--cover-v001.png?w=3840&q=90&fm=webp)
 
-[Advancing price-performance for developers with GPT‑5.6 in KiroProductAug 24, 2026](</index/gpt-5-6-in-kiro/>)
+[Now everyone can put data to workProductSep 10, 2026](</index/put-data-to-work/>)
 
 Research
 
@@ -177,6 +180,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
@@ -271,3 +275,7 @@ Terms & Policies
 OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
+
+> “ChatGPT has materially accelerated our research and due diligence workflows—from financial analysis and market research to legal review and writing internal memos—while improving consistency across teams. It has expanded our team’s capacity, freeing our investment professionals to focus more time on judgment, debate, and conviction. We’re excited to be early adopters of new capabilities and to help shape how AI transforms financial services in the years ahead.”
+
+—Amr Ellabban, PhD, Head of AI, Hg
