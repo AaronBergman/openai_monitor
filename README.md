@@ -1,5 +1,36 @@
 # openai_monitor
 
+## 2026-09-21T09-17Z
+
+**Fetch time:** 2026-09-21T09:17:39Z–09:18:43Z UTC | **Baseline:** 2026-09-20T09-16Z (consecutive day)
+
+**TL;DR:** Another quiet day. The sitemap is unchanged in size — still **1,974 URLs across 42 sub-sitemaps**, zero pages added or removed. 38 URLs got a `<lastmod>` bump, but only 4 of them had any visible content change, and all 4 turn out to be cosmetic — a "recent posts" carousel swapping cards on ChatGPT for Excel, 1Password, and Gilbert + Tobin, plus a CDN badge-image hash change on a partner profile page. One incidental find: the ChatGPT for Excel page's global nav now renders a **GPT-6** entry in the "Latest Advancements" dropdown, worth watching to see if that sticks sitewide. No new articles, no removed pages, no timestamp anomalies.
+
+### Anomalies
+
+None. No future-dated or backwards-moving `<lastmod>` values, no backdated new URLs (there were no new URLs today), no reappeared URLs, no real section migrations. (An initial pass flagged 4 Global Affairs URLs as having "moved" sub-sitemap sections; on verification they're cross-listed in both `global-affairs` and `global-affairs-news-listed` in both yesterday's and today's snapshots — a false positive from the diff tool only tracking one section per URL, now noted in the analysis for future runs to avoid.)
+
+Full detail in [`runs/2026-09-21T09-17Z/analysis.md`](runs/2026-09-21T09-17Z/analysis.md).
+
+### Notable additions
+
+None. 0 new URLs today.
+
+### Notable updates
+
+- **[ChatGPT for Excel](pages/openai.com/index/chatgpt-for-excel/index.md)** — carousel-only refresh (swapped 3 "recent posts" cards) plus a repositioned customer testimonial; but its cached global nav also now shows a **GPT-6** link in the "Latest Advancements" dropdown (`/index/gpt-6-astra/`) that wasn't there before — the first sighting of GPT-6 in that nav slot in this log.
+- **[1Password](pages/openai.com/index/1password/index.md)** and **[Gilbert + Tobin](pages/openai.com/index/gilbert-tobin/index.md)** — both had only their "recent posts" carousel cards swap out for newer articles; no change to the articles themselves.
+- **[SDG Group partner profile](pages/openai.com/business/partners/sdg-group/index.md)** — only its "Advanced Partner" badge image's CDN deploy-hash changed; visually identical.
+- 34 further URLs (7 more partner profiles, the finance-workflows solutions page, the full 9-page "disrupting malicious uses of AI" report series, release notes, and a dozen other `index/*` articles) bumped `<lastmod>` with zero visible content change — routine CDN/asset re-signing.
+
+### Removed pages
+
+None this run.
+
+_Stats: 1974 total URLs | 0 added | 38 updated (4 with visible content diff, 0 substantive) | 0 removed | 0 anomalies | 42 sub-sitemaps_
+
+---
+
 ## 2026-09-20T09-16Z
 
 **Fetch time:** 2026-09-20T09:18:40Z–09:18:49Z UTC | **Baseline:** 2026-09-19T09-15Z (consecutive day)
