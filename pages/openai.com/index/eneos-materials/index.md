@@ -71,8 +71,11 @@ Recognizing the need to boost productivity amid labor shortages and rising costs
 The impact of this adoption can be seen in the following results:
 
   * 80% of employees reported significant improvements in their workflows during their pilot phase
+
   * 90% reduction in data aggregation and analysis time for the HR department
+
   * Investigations reduced from months to minutes with deep research capabilities within ChatGPT
+
 
 
 
@@ -97,8 +100,11 @@ Since adopting ChatGPT Enterprise, ENEOS Materials has experienced rapid adoptio
 Committed to boosting productivity, elevating product quality, and reducing environmental impact, the department relies on rapid, precise research into cutting edge technologies to stay ahead. By deploying deep research, the team has translated that ambition into measurable outcomes:
 
   * Investigations that took months now finish in minutes
+
   * Hungarian content translated into precise Japanese to capture insights
+
   * Calculations and analyses that once consumed half a day are completed in minutes
+
 
 
 
@@ -129,8 +135,11 @@ The HR department conducts numerous employee training sessions annually, collect
 Introducing a custom GPT for training analysis enabled HR to significantly streamline their processes:
 
   * Tasks requiring 1-2 hours manually now complete in 20 seconds
+
   * The AI-driven system evaluates and analyzes training based on established educational frameworks
+
   * Data-driven insights continuously refine training content
+
 
 
 
@@ -139,11 +148,17 @@ Despite having no prior experience with coding, Takeda also independently built 
 ## Results at a glance
 
   * Over 90% of employees using ChatGPT Enterprise weekly
+
   * 80% of employees reported significant workflow improvements during their pilot phase
+
   * Investigations reduced from months to minutes with deep research
+
   * 90% reduction in HR data aggregation and analysis time
+
   * Over 1,000 custom GPTs created across the organization
+
   * Faster, safer plant design and improved training effectiveness
+
 
 
 
@@ -169,17 +184,17 @@ More than 1 million businesses around the world are achieving meaningful results
 
 ## Keep reading
 
-![Fyxer customer story 1x1 image](https://images.ctfassets.net/kftzwdyauwt9/7LbXXCnX1NLyS1i8mHGF1i/d75fdf2bf63cf463ce2e72915a783757/oai_Fyxer_1x1.png?w=3840&q=90&fm=webp)
+![Advisory Group on Mathematics and Artificial Intelligence — cover](https://images.ctfassets.net/kftzwdyauwt9/7I8A6x8LfZld8C8IZUbZmi/6c9da8e137ce049fb07e486958636739/advisory-group-on-mathematics-and-artificial-intelligence-cover.png?w=3840&q=90&fm=webp)
 
-[How Fyxer built an AI executive assistant people trustStartupSep 14, 2026](</index/fyxer/>)
+[Advisory group on mathematics and artificial intelligenceCompanySep 21, 2026](</index/advisory-group-on-mathematics-and-ai/>)
 
-![deployco seo image](https://images.ctfassets.net/kftzwdyauwt9/6pnntrVmfPSqsFYG5YlAvy/c69de8f9d518accd55c417898a20322e/og-seo.png?w=3840&q=90&fm=webp)
+![Higgsfield AI customer story art card](https://images.ctfassets.net/kftzwdyauwt9/7A0WMEXBwLKT6RUmIz7pfX/c764d19c42285ef2628de699c0820571/square.png?w=3840&q=90&fm=webp)
 
-[Monitoring trade-off impacts when building AI productsSep 14, 2026](</deployco/news/monitoring-trade-off-impacts-when-building-ai-products/>)
+[Higgsfield AI ships new video features in a day with GPT-6 AstraStartupSep 21, 2026](</index/higgsfield-from-prompt-to-production-with-astra/>)
 
-![Perplexity customer story art card](https://images.ctfassets.net/kftzwdyauwt9/wGvW7AaxivnlRvLvZU7CE/146fd791b18b52b67dbb0a3692357a72/square.png?w=3840&q=90&fm=webp)
+![Building shared standards for the next phase of AI - art card](https://images.ctfassets.net/kftzwdyauwt9/aQqo6ytHD8RKLFOAPu3vC/c7189f6ec0853600e0e7110885d03541/building-shared-standards-next-phase-ai-cover.png?w=3840&q=90&fm=webp)
 
-[Perplexity trusts GPT-6 Astra with end-to-end systemsSep 14, 2026](</index/perplexity-improving-accuracy-with-astra/>)
+[Building standards for the next phase of AIGlobal AffairsSep 21, 2026](</index/building-standards-next-phase-ai/>)
 
 Research
 
@@ -231,6 +246,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)

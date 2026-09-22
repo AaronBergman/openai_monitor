@@ -151,31 +151,47 @@ These agentic workflows are designed to proactively prepare recurring work acros
 ## Results at a glance
 
   * 97% of ChatGPT Enterprise licences activated, demonstrating broad adoption across the organisation.
+
   * 85% of licensed users are active every week, reflecting sustained engagement across the workforce.
+
   * Employees average 40 prompts per active user each week, showing AI has become part of everyday work.
+
   * Employees have created approximately 1,500 custom GPTs tailored to internal workflows.
+
   * Pet insurance claims that previously took hours to prepare can now be ready for decision in minutes, while claims professionals retain full accountability for every final decision.
+
   * AI adoption now spans virtually every knowledge-based function across the organization.
+
   * Underwriters begin their day with prepared work queues, allowing them to spend less time gathering information and more time making high-quality decisions.
+
   * Employees increasingly solve operational challenges themselves instead of relying on lengthy software projects or scarce specialist resources.
+
   * Internal conversations have shifted from “Should we use AI?” to “What should we build next?”
+
 
 
 
 ## Leadership lessons
 
   * Treat AI as an organizational capability—not another IT implementation.
+
   * Treat governance as an accelerator, not a gatekeeper. Strong guardrails allow innovation to scale responsibly.
+
   * Invest in leaders as much as technology. Leadership creates the conditions for transformation.
+
   * Give employees permission, time, and structure to redesign their own work.
+
 
 
 
 ## Tips
 
   * Design governance into the rollout from day one to give employees the confidence to experiment responsibly.
+
   * Give employees time to experiment, not just access to the technology.
+
   * Measure success by sustained adoption and employee capability—not simply productivity.
+
 
 
 
@@ -197,17 +213,17 @@ More than 1 million businesses around the world are achieving meaningful results
 
 ## Keep reading
 
-![How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules — card image](https://images.ctfassets.net/kftzwdyauwt9/5UARNm4AwJ9OfXCIzHZgLF/c05ef4322030e9552dfe2458d34ceaed/index-codex-chatgpt-antimicrobials--cover-v001.png?w=3840&q=90&fm=webp)
+![Advisory Group on Mathematics and Artificial Intelligence — cover](https://images.ctfassets.net/kftzwdyauwt9/7I8A6x8LfZld8C8IZUbZmi/6c9da8e137ce049fb07e486958636739/advisory-group-on-mathematics-and-artificial-intelligence-cover.png?w=3840&q=90&fm=webp)
 
-[How a researcher uses Codex and ChatGPT to search for new antimicrobial moleculesApplied AISep 10, 2026](</index/using-codex-chatgpt-to-search-for-new-antimicrobials/>)
+[Advisory group on mathematics and artificial intelligenceCompanySep 21, 2026](</index/advisory-group-on-mathematics-and-ai/>)
 
-![Now everyone can put data to work — card image](https://images.ctfassets.net/kftzwdyauwt9/6FhMXOSe8XadGwEUev6QjJ/916a64d20bcc59b8619fea1827fa6bd3/put-data-to-work--cover-v001.png?w=3840&q=90&fm=webp)
+![Higgsfield AI customer story art card](https://images.ctfassets.net/kftzwdyauwt9/7A0WMEXBwLKT6RUmIz7pfX/c764d19c42285ef2628de699c0820571/square.png?w=3840&q=90&fm=webp)
 
-[Now everyone can put data to workProductSep 10, 2026](</index/put-data-to-work/>)
+[Higgsfield AI ships new video features in a day with GPT-6 AstraStartupSep 21, 2026](</index/higgsfield-from-prompt-to-production-with-astra/>)
 
-![FinServ Blog - Art Card Texture Square](https://images.ctfassets.net/kftzwdyauwt9/6Bcg403pebiJhQdHUS17FK/572e478dc4579deca27c9700c662e908/finserv-art-card.png?w=3840&q=90&fm=webp)
+![Building shared standards for the next phase of AI - art card](https://images.ctfassets.net/kftzwdyauwt9/aQqo6ytHD8RKLFOAPu3vC/c7189f6ec0853600e0e7110885d03541/building-shared-standards-next-phase-ai-cover.png?w=3840&q=90&fm=webp)
 
-[Introducing ChatGPT for Financial ServicesProductSep 10, 2026](</index/introducing-chatgpt-financial-services/>)
+[Building standards for the next phase of AIGlobal AffairsSep 21, 2026](</index/building-standards-next-phase-ai/>)
 
 Research
 
@@ -259,6 +275,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)

@@ -34,7 +34,7 @@ OpenAI
 
 Interact with your CRM business data.
 
-[Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69402343886881919c40ceb13a6ea1c2>)[Contact sales](</contact-sales/>)
+[Install plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69402343886881919c40ceb13a6ea1c2>)[Contact sales](</contact-sales/>)
 
 Category
     [Operations](</business/plugins/?tab=plugins-operations>)
@@ -51,31 +51,25 @@ Website
 
 Securely bring HighLevel CRM data into ChatGPT to review contacts, opportunities, appointments, and conversations and generate summaries from live records.
 
-## Common use cases
+## What else can you do?
 
   * ### Query CRM records
 
-Ask questions about contacts, opportunities, appointments, or conversations and retrieve results directly from live HighLevel CRM data.
-
 ![](https://files.openai.com/content?id=file_00000000d1f8720cba3022968ab73596&cdn=1&cp=pi&ma=31536000&ts=0&p=pi&cid=1&sig=f0ed88b0bcf4825b2256c341201ce481bd05322719f20eb08ad6d89aff9f0ee4&v=0)HighLevel Show contacts added in the last 14 days and upcoming appointments in the next 7 days. Highlight any no-shows or missed follow-ups.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40HighLevel+Show+contacts+added+in+the+last+14+days+and+upcoming+appointments+in+the+next+7+days.+Highlight+any+no-shows+or+missed+follow-ups.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40HighLevel+Show+contacts+added+in+the+last+14+days+and+upcoming+appointments+in+the+next+7+days.+Highlight+any+no-shows+or+missed+follow-ups.>)
 
   * ### Review pipeline and activity
 
-Review opportunities, deal stages, values, and recent activity to understand pipeline status and sales interactions.
-
 ![](https://files.openai.com/content?id=file_00000000d1f8720cba3022968ab73596&cdn=1&cp=pi&ma=31536000&ts=0&p=pi&cid=1&sig=f0ed88b0bcf4825b2256c341201ce481bd05322719f20eb08ad6d89aff9f0ee4&v=0)HighLevel Summarize the pipeline by stage with counts and total value. For deals stalled >14 days, list the last activity and recommended next step.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40HighLevel+Summarize+the+pipeline+by+stage+with+counts+and+total+value.+For+deals+stalled+%3E14+days%2C+list+the+last+activity+and+recommended+next+step.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40HighLevel+Summarize+the+pipeline+by+stage+with+counts+and+total+value.+For+deals+stalled+%3E14+days%2C+list+the+last+activity+and+recommended+next+step.>)
 
   * ### Summarize CRM information
 
-Turn CRM records into clear summaries and context for follow-ups, reviews, or internal discussions using HighLevel data.
-
 ![](https://files.openai.com/content?id=file_00000000d1f8720cba3022968ab73596&cdn=1&cp=pi&ma=31536000&ts=0&p=pi&cid=1&sig=f0ed88b0bcf4825b2256c341201ce481bd05322719f20eb08ad6d89aff9f0ee4&v=0)HighLevel For this opportunity, summarize recent conversations, deal status, last touch, and suggested next message based on the record history.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40HighLevel+For+this+opportunity%2C+summarize+recent+conversations%2C+deal+status%2C+last+touch%2C+and+suggested+next+message+based+on+the+record+history.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40HighLevel+For+this+opportunity%2C+summarize+recent+conversations%2C+deal+status%2C+last+touch%2C+and+suggested+next+message+based+on+the+record+history.>)
 
 
 
@@ -162,6 +156,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)

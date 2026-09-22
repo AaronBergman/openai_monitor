@@ -1,5 +1,46 @@
 # openai_monitor
 
+## 2026-09-22T09-16Z
+
+**Fetch time:** 2026-09-22T09:17:31Z (sitemap) / 09:17:31Z–09:18:14Z (472 pages) UTC | **Baseline:** 2026-09-21T09-17Z (consecutive day)
+
+**TL;DR:** A genuinely newsy day. OpenAI disclosed that its internal "Astra" model has now solved **over 100 long-standing open math problems** since August 28 and is standing up an independent mathematician advisory group (including Edward Witten) in response to community concern about AI-solved-problem benchmarking. Separately, a Global Affairs essay argues the **US should lead an international standards effort for frontier AI, explicitly covering recursive self-improvement (RSI)** — and references the previously-disclosed Hugging Face security incident as a preview of bigger risks to come. On the commercial side: **13 new legal-industry ChatGPT plugins** launched (Everlaw, UniCourt, GC AI, and others), the site's "Apps" directory is being folded into "Plugins" (nav + 3 solutions pages repointed), and the plugin-page CTA/heading rebrand from prior days ("Install plugin," "What else can you do?") finished rolling out — which alone explains 370 of this run's 451 lastmod bumps via one new footer-nav link. The Consumer Privacy page got a full copy rewrite, Daybreak's CTA switched from "contact sales" to "apply," and 26 new members joined the Collective Cyberdefense list. One product page — "OpenAI Guaranteed Capacity" — was pulled from the sitemap. **1,993 URLs across 42 sub-sitemaps** (+21 added, −2 removed).
+
+### Anomalies
+
+Nothing concerning. One `<lastmod>` claimed 5 seconds after our fetch (clock-skew scale, not a real "future" edit). Four URLs were initially flagged as migrating between the two Global Affairs sub-sitemaps — verified as the same cross-listing false positive already seen on 2026-09-21 (they're listed in both sections both before and after; not a real move). Two plugin pages (Midpage, Legal Data Hunter) did have a real, deliberate second sitemap listing added (into `plugins-legal`), part of today's legal-plugins push — not an anomaly, just noted for completeness. No backwards-moving lastmods, no backdated new URLs, no reappeared URLs.
+
+Full detail in [`runs/2026-09-22T09-16Z/analysis.md`](runs/2026-09-22T09-16Z/analysis.md).
+
+### Notable additions
+
+- **[Advisory Group on Mathematics and Artificial Intelligence](pages/openai.com/index/advisory-group-on-mathematics-and-ai/index.md)** — OpenAI's internal "Astra" model has resolved **100+ long-standing open math problems** since August 28 (following its Navier–Stokes Millennium Prize solution). In response to community concern (an open letter, "A Severe Misalignment of AI in Mathematics"), OpenAI is forming an independent advisory group of mathematicians — hosted at the Institute for Advanced Study — including **Edward Witten**, Timothy Gowers, and Martin Hairer, explicitly empowered to criticize OpenAI publicly and *not* tasked with pacing OpenAI's internal research.
+- **[Building standards for the next phase of AI](pages/openai.com/index/building-standards-next-phase-ai/index.md)** — policy essay arguing the US should lead an international technical-standards effort for frontier AI covering recursive self-improvement (RSI); states "fully autonomous RSI is not happening today" but treats it as approaching, and cites the earlier-disclosed Hugging Face incident as a preview of larger risks without stronger safeguards.
+- **13 new legal-industry ChatGPT plugins**: [Everlaw](pages/openai.com/business/plugins/everlaw/index.md), [UniCourt](pages/openai.com/business/plugins/unicourt/index.md), [GC AI](pages/openai.com/business/plugins/gc-ai/index.md), [Courtroom5](pages/openai.com/business/plugins/courtroom5/index.md), [PandaDoc](pages/openai.com/business/plugins/pandadoc/index.md), [Patlytics](pages/openai.com/business/plugins/patlytics/index.md), [Trellis Law](pages/openai.com/business/plugins/trellis-law/index.md), Boardwise, Consolio Aurora, Definely, Descrybe, Lawve AI, and The L Suite (Lloyd/TopCounsel) — pushing the `plugins-legal` category from 21 to 37 listings.
+- **[Expanding OpenAI Academy with new learning paths](pages/openai.com/index/expanding-openai-academy-with-new-learning-paths/index.md)** — role-based learning tracks for employees, developers, leaders, educators, and students.
+- **[Higgsfield AI](pages/openai.com/index/higgsfield-from-prompt-to-production-with-astra/index.md)** and **[V7](pages/openai.com/index/v7/index.md)** — new startup customer case studies built on GPT‑6 Astra (video-ad generation; "institutional memory" for AI agents, 89% accuracy on its hardest graph-query tests).
+- Two new gated "ChatGPT Work" landing pages ([data-team guide](pages/openai.com/business/learn/download-the-chatgpt-work-guide-for-data-teams/index.md), [webinar](pages/openai.com/business/learn/how-our-data-analytics-team-uses-chatgpt-work/index.md)), continuing the enterprise "ChatGPT Work" brand push.
+
+### Notable updates
+
+- **"Apps" folded into "Plugins":** three solutions pages ([design](pages/openai.com/business/solutions/design/index.md), [education](pages/openai.com/business/solutions/education/index.md), [engineering](pages/openai.com/business/solutions/engineering/index.md)) had their app-icon strips repointed from `/business/apps/*` to `/business/plugins/*`, and the sitewide footer nav gained a new "Plugins" link — the latter alone touched 370 pages' `<lastmod>` with no other change.
+- **Plugin-page rebrand completed:** remaining plugin pages (Highlevel, Hex, Hugging Face, Jam.dev, Klaviyo, and others) switched "Add plugin" → "Install plugin," "Common use cases" → "What else can you do?", and try-it links to "Try in ChatGPT Work."
+- **[Consumer Privacy](pages/openai.com/consumer-privacy/index.md)** — full copy rewrite: new headline ("Clear privacy choices, with protections built in"), a direct link to the new `chatgpt.com/privacy-center`, and restructured into three explicit commitments (don't sell your data / we secure your information / you control your data).
+- **[Daybreak](pages/openai.com/daybreak/index.md)** (AI-for-cybersecurity initiative) — CTA changed from "Contact Cyber sales" to "Apply for Daybreak," suggesting a shift to an application-based intake.
+- **[Collective Cyberdefense](pages/openai.com/collective-cyberdefense/index.md)** — 26 new member organizations added, including Illumio, SailPoint, Contrast Security, and Supabase.
+- **[Service Terms](pages/openai.com/policies/service-terms/index.md)** — updated Sep 10 → Sep 21; now references new standalone "Credit Score Terms" (no live page for those terms yet — watching for it to appear).
+- **[How OpenAI uses Codex](pages/openai.com/business/guides-and-resources/how-openai-uses-codex/index.md)** — lost a block of ~8 internal-engineer Codex testimonial quotes (removed, not replaced).
+- Several older research posts (`evaluating-chain-of-thought-monitorability`, `frontierscience`, `gdpval`, `introducing-indqa`, `improving-model-safety-behavior-with-rule-based-rewards`) lost embedded example/transcript content blocks in this diff — flagged as ambiguous (could be a shared widget/rendering change rather than deliberate editorial removal); watching to see if it reverts.
+- 52 further URLs had lastmod bumps with only whitespace reflow or CDN asset-hash changes — no substantive diff.
+
+### Removed pages
+
+- **`business/guaranteed-capacity/`** and **`form/guaranteed-capacity/`** — the "OpenAI Guaranteed Capacity" enterprise-compute product page and its lead-gen form both disappeared from the sitemap. Last snapshot preserved in git history; cause unclear (consolidated elsewhere vs. retired offering) — watching for a reappearance.
+
+_Stats: 1993 total URLs | 21 added | 451 updated (81 with visible content diff, 29 substantive) | 2 removed | 7 anomalies (0 of real concern) | 42 sub-sitemaps_
+
+---
+
 ## 2026-09-21T09-17Z
 
 **Fetch time:** 2026-09-21T09:17:39Z–09:18:43Z UTC | **Baseline:** 2026-09-20T09-16Z (consecutive day)

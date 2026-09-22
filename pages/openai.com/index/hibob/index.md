@@ -75,10 +75,15 @@ Internally, GPTs support every employee task, from tactical prep to strategic pl
 A few examples include:
 
   * Meeting Prep GPT: Pulls data from CRM systems, transcripts, and notes to generate briefings for sales and CS teams. This saves hours of prep per week.
+
   * Upsell GPT: Analyzes usage patterns and customer behavior to flag expansion opportunities and help revenue teams prioritize outreach.
+
   * VBO Project Manager Assistant: Summarizes onboarding call transcripts, creates task lists, and tracks progress to improve delivery and CSAT.
+
   * SEO Assistant: Connects to web analytics APIs to generate keyword recommendations, gap analyses, and performance insights.
+
   * Roadmap GPT: Aggregates product roadmap data and turns it into actionable insights for go-to-market teams.
+
 
 
 
@@ -91,10 +96,15 @@ Beyond simply giving access, HiBob has turned AI into a core capability by givin
 The framework includes:
 
   1. Idea and proof of concept: Employees propose GPT ideas grounded in specific pain points.
+
   2. Build: Engineers create secure, compliant agents using ChatGPT Enterprise and internal systems.
+
   3. Adoption and enablement: Each GPT is supported with documentation, training, and a named owner.
+
   4. Maintenance: Feedback loops help refine performance and ensure relevance.
+
   5. Scale: Effective agents are added to a searchable internal directory for reuse and adaptation, and proven "agent builder" GPTs are published to an internal directory for reuse across departments.
+
 
 
 
@@ -115,9 +125,13 @@ HiBob's key insight is that AI becomes most effective when employees are more th
 Results to date include:
 
   * Over 90% of employees actively using ChatGPT Enterprise
+
   * 2,500+ experimental GPTs built to deploy 200 successfully into internal workflows
+
   * AI features, leveraging GPT‑4o, embedded across the customer-facing Bob platform
+
   * Internal and external KPIs tied to revenue impact, onboarding efficiency, and customer satisfaction
+
 
 
 
@@ -135,17 +149,17 @@ More than 1 million businesses around the world are achieving meaningful results
 
 ## Keep reading
 
-![How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules — card image](https://images.ctfassets.net/kftzwdyauwt9/5UARNm4AwJ9OfXCIzHZgLF/c05ef4322030e9552dfe2458d34ceaed/index-codex-chatgpt-antimicrobials--cover-v001.png?w=3840&q=90&fm=webp)
+![Advisory Group on Mathematics and Artificial Intelligence — cover](https://images.ctfassets.net/kftzwdyauwt9/7I8A6x8LfZld8C8IZUbZmi/6c9da8e137ce049fb07e486958636739/advisory-group-on-mathematics-and-artificial-intelligence-cover.png?w=3840&q=90&fm=webp)
 
-[How a researcher uses Codex and ChatGPT to search for new antimicrobial moleculesApplied AISep 10, 2026](</index/using-codex-chatgpt-to-search-for-new-antimicrobials/>)
+[Advisory group on mathematics and artificial intelligenceCompanySep 21, 2026](</index/advisory-group-on-mathematics-and-ai/>)
 
-![Now everyone can put data to work — card image](https://images.ctfassets.net/kftzwdyauwt9/6FhMXOSe8XadGwEUev6QjJ/916a64d20bcc59b8619fea1827fa6bd3/put-data-to-work--cover-v001.png?w=3840&q=90&fm=webp)
+![Higgsfield AI customer story art card](https://images.ctfassets.net/kftzwdyauwt9/7A0WMEXBwLKT6RUmIz7pfX/c764d19c42285ef2628de699c0820571/square.png?w=3840&q=90&fm=webp)
 
-[Now everyone can put data to workProductSep 10, 2026](</index/put-data-to-work/>)
+[Higgsfield AI ships new video features in a day with GPT-6 AstraStartupSep 21, 2026](</index/higgsfield-from-prompt-to-production-with-astra/>)
 
-![FinServ Blog - Art Card Texture Square](https://images.ctfassets.net/kftzwdyauwt9/6Bcg403pebiJhQdHUS17FK/572e478dc4579deca27c9700c662e908/finserv-art-card.png?w=3840&q=90&fm=webp)
+![Building shared standards for the next phase of AI - art card](https://images.ctfassets.net/kftzwdyauwt9/aQqo6ytHD8RKLFOAPu3vC/c7189f6ec0853600e0e7110885d03541/building-shared-standards-next-phase-ai-cover.png?w=3840&q=90&fm=webp)
 
-[Introducing ChatGPT for Financial ServicesProductSep 10, 2026](</index/introducing-chatgpt-financial-services/>)
+[Building standards for the next phase of AIGlobal AffairsSep 21, 2026](</index/building-standards-next-phase-ai/>)
 
 Research
 
@@ -197,6 +211,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)

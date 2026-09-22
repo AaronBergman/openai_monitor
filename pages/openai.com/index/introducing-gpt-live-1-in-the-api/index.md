@@ -63,11 +63,17 @@ For the API release of GPT‑Live‑1, we’ve focused on new capabilities that 
 Key strengths of GPT‑Live‑1 in the API:
 
   * **Interruption handling:** Improves interruption handling via a single model that reasons over incoming and outgoing audio together, avoiding the latency and brittle handoffs of chained STT–LLM–TTS architectures.
+
   * **Reasoning & tool calling delegation:** GPT‑Live‑1 can delegate reasoning and tool calls to a backend text model like GPT‑6 Astra or a third-party model.
+
   * **Tone, pace, and style:** Lets developers shape an agent’s tone, pace, and conversational style through the system prompt.
+
   * **Silent context management & background noise:** Better handles background noise and silence without interrupting the conversation or narrating every step out loud.
+
   * **Long-session reliability:** Improves context retention and conversational quality across extended interactions.
+
   * **Telephony support:** Enables deployment of full-duplex voice agents for phone calls, from restaurant reservations to customer support.
+
 
 
 
@@ -281,17 +287,17 @@ OpenAI
 
 [View all](</news/>)
 
+![Reimagining advertising with AI — Card cover](https://images.ctfassets.net/kftzwdyauwt9/fHwkKLVG8WFHvuUPqMXtz/1c49ba0859fe1e1e21f5d64f692490f5/reimagining-advertising-with-ai-cover.png?w=3840&q=90&fm=webp)
+
+[Reimagining advertising with AIProductSep 16, 2026](</index/reimagining-advertising-with-ai/>)
+
+![How to connect AI usage to business value — art card](https://images.ctfassets.net/kftzwdyauwt9/36T42HPkipcJAs08yNirmR/f73d9408ef4f0b08b5cce3b839656843/cover-018.png?w=3840&q=90&fm=webp)
+
+[How to connect AI usage to business valueProductSep 16, 2026](</index/how-to-connect-ai-usage-to-business-value/>)
+
 ![Now everyone can put data to work — card image](https://images.ctfassets.net/kftzwdyauwt9/6FhMXOSe8XadGwEUev6QjJ/916a64d20bcc59b8619fea1827fa6bd3/put-data-to-work--cover-v001.png?w=3840&q=90&fm=webp)
 
 [Now everyone can put data to workProductSep 10, 2026](</index/put-data-to-work/>)
-
-![FinServ Blog - Art Card Texture Square](https://images.ctfassets.net/kftzwdyauwt9/6Bcg403pebiJhQdHUS17FK/572e478dc4579deca27c9700c662e908/finserv-art-card.png?w=3840&q=90&fm=webp)
-
-[Introducing ChatGPT for Financial ServicesProductSep 10, 2026](</index/introducing-chatgpt-financial-services/>)
-
-![Introducing the Agents API — cover image](https://images.ctfassets.net/kftzwdyauwt9/6iP1bamSOXsPLwzFAepmx2/8b8fec31ba235a13ee695a607d7fe641/cover-image.png?w=3840&q=90&fm=webp)
-
-[Introducing the Agents APIProductSep 10, 2026](</index/introducing-the-agents-api/>)
 
 Research
 
@@ -343,6 +349,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)

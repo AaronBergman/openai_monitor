@@ -129,9 +129,13 @@ We also find that we can generate longer and more comprehensive critiques by usi
 ## Limitations
 
   * We trained CriticGPT on ChatGPT answers that are quite short. To supervise the agents of the future, we will need to develop methods that can help trainers to understand long and complex tasks.
+
   * Models still hallucinate and sometimes trainers make labeling mistakes after seeing those hallucinations.
+
   * Sometimes real-world mistakes can be spread across many parts of an answer. Our work focuses on errors that can be pointed out in one place, but in the future we need to tackle dispersed errors as well.
+
   * CriticGPT can only help so much: if a task or response is extremely complex even an expert with model help may not be able to correctly evaluate it.
+
 
 
 
@@ -164,6 +168,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
@@ -203,6 +208,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)

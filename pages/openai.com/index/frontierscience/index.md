@@ -86,21 +86,6 @@ The full FrontierScience evaluation spans over 700 textual questions (with 160 i
 
 Chemistry olympiadPhysics olympiadBiology olympiadChemistry researchPhysics researchBiology research
 
-B1 reacts with aqueous bromine (Br2) to form B2. B2 reacts with potassium nitrite (KNO2) to form B3. B3 is nitrated in nitric acid (HNO3) and sulfuric acid (H2SO4) to form B4.
-
-  * B1 contains a monosubstituted aromatic 5-membered heterocycle and has a molar mass of 96.08 g/mol. It may be produced by dehydrating 5-carbon sugars (e.g. xylose) in an acid catalyst.
-  * B2 has the molecular formula C4H2Br2O3 and contains a tetrasubstituted alkene with 2 substituents being bromines cis to each other.
-  * B3 is a dipotassium salt with a molar mass of 269.27 g/mol. It contains 1 hydrogen.
-  * B4 is an achiral pseudohalogen dimer with 2 carbons, no hydrogens and a molar mass of 300. g/mol.
-
-
-
-When B4 decomposes in solution, it forms an intermediate B5 and 1 equivalent of dinitrogen tetroxide (N2O4) as a side product. Intermediate B5 can be trapped and detected as a Diels-Alder adduct.
-
-Provide the structures of B1, B2, B3, B4, and B5 in the following format, "B1: X; B2: X; B3: X; B4: X; B5: X".
-
-Each task in FrontierScience is written and verified by a domain expert in physics, chemistry, or biology. For the Olympiad set, all experts were awarded a medal in at least one (and often multiple) international olympiad competitions. For the Research set, all experts hold a relevant PhD degree.
-
 The Olympiad questions were created in collaboration with 42 former international medalists or national team coaches in the relevant domains, totalling 109 olympiad medals. The research questions were created in collaboration with 45 qualified scientists and domain experts. All scientists were either doctoral candidates, post-doctoral researchers, or professors. Their areas of expertise spanned an array of specialized and important scientific disciplines, from quantum electrodynamics to synthetic organic chemistry to evolutionary biology.
 
 The task creation process for both sets included some selection against OpenAI internal models (e.g., discarding tasks that models successfully got right, so we expect the evaluation to be somewhat biased against these models relative to others). We open-source the Olympiad gold set of 100 questions and Research gold set of 60 questions, holding out the other questions to track contamination.
@@ -255,15 +240,17 @@ OpenAI
 
 [View all](</news/>)
 
-[The Hugging Face incident and the road aheadSecurityAug 26, 2026](</index/hugging-face-incident-and-the-road-ahead/>)
+![Our framework for reporting model misalignment — card image](https://images.ctfassets.net/kftzwdyauwt9/3mJz9GkBOjZvAMYPx8M1dj/2a9ac4b7e18b1c08feef5368c4fde2e2/model-misalignment-reporting-framework--cover-v002.png?w=3840&q=90&fm=webp)
 
-![Pacing model development in an era of cyber-critical capabilities — Card image](https://images.ctfassets.net/kftzwdyauwt9/3tUOfo4E1xZComoOiRjHJm/51c532f25dd4062f92bff0e41ea00c3c/index-pacing-model-development-cyber-capabilities-dark-cover.png?w=3840&q=90&fm=webp)
+[Our framework for reporting model misalignmentResearchSep 16, 2026](</index/model-misalignment-reporting-framework/>)
 
-[Pacing model development in an era of cyber-critical capabilitiesCompanyAug 18, 2026](</index/pacing-model-development-cyber-capabilities/>)
+![Navier–Stokes solution — art card](https://images.ctfassets.net/kftzwdyauwt9/2VUQZfeF2GtKRitKYdkoLu/cc96d05424afb2c9adcca0734ecdafb1/navier-stokes-art-card.png?w=3840&q=90&fm=webp)
 
-![math-breakthroughs art-card 1x1](https://images.ctfassets.net/kftzwdyauwt9/2zkd5RIOug4FcEj62mdSF4/3ea9e19c0456289c69f0d839cc929cb2/math-breakthroughs_art-card_1x1.png?w=3840&q=90&fm=webp)
+[An OpenAI model proposes a solution to the Navier–Stokes problemResearchSep 8, 2026](</index/navier-stokes-solution/>)
 
-[Ten advances in mathematics and theoretical computer sciencePublicationAug 1, 2026](</index/ten-advances-in-mathematics/>)
+![An alien mind > Listing card](https://images.ctfassets.net/kftzwdyauwt9/7ut3G8rKt5ia4P3yRqi2qN/6ffb429f70548a881eb46a4e7e61498e/Option_120___1080_1080.png?w=3840&q=90&fm=webp)
+
+[An Alien MindSafetySep 6, 2026](</index/an-alien-mind/>)
 
 Research
 
@@ -275,6 +262,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
@@ -314,6 +302,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -369,3 +358,22 @@ Terms & Policies
 OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
+
+B1 reacts with aqueous bromine (Br2) to form B2. B2 reacts with potassium nitrite (KNO2) to form B3. B3 is nitrated in nitric acid (HNO3) and sulfuric acid (H2SO4) to form B4.
+
+  * B1 contains a monosubstituted aromatic 5-membered heterocycle and has a molar mass of 96.08 g/mol. It may be produced by dehydrating 5-carbon sugars (e.g. xylose) in an acid catalyst.
+
+  * B2 has the molecular formula C4H2Br2O3 and contains a tetrasubstituted alkene with 2 substituents being bromines cis to each other.
+
+  * B3 is a dipotassium salt with a molar mass of 269.27 g/mol. It contains 1 hydrogen.
+
+  * B4 is an achiral pseudohalogen dimer with 2 carbons, no hydrogens and a molar mass of 300. g/mol.
+
+
+
+
+When B4 decomposes in solution, it forms an intermediate B5 and 1 equivalent of dinitrogen tetroxide (N2O4) as a side product. Intermediate B5 can be trapped and detected as a Diels-Alder adduct.
+
+Provide the structures of B1, B2, B3, B4, and B5 in the following format, "B1: X; B2: X; B3: X; B4: X; B5: X".
+
+Each task in FrontierScience is written and verified by a domain expert in physics, chemistry, or biology. For the Olympiad set, all experts were awarded a medal in at least one (and often multiple) international olympiad competitions. For the Research set, all experts hold a relevant PhD degree.

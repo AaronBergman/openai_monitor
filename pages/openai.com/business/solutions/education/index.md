@@ -66,31 +66,31 @@ Analyze these anonymized student responses against the learning objective. Surfa
 
 ## Bring intelligence into every part of your campus workflow
 
-[View apps](</business/apps/>)
+[View plugins](</business/plugins/>)
 
-[](</business/apps/google-drive/>)
+[](</business/plugins/google-drive/>)
 
-[](</business/apps/microsoft-sharepoint/>)
+[](</business/plugins/microsoft-sharepoint/>)
 
-[](</business/apps/slack/>)
+[](</business/plugins/slack/>)
 
-[](</business/apps/microsoft-teams/>)
+[](</business/plugins/microsoft-teams/>)
 
-[](</business/apps/gmail/>)
+[](</business/plugins/gmail/>)
 
-[](</business/apps/google-calendar/>)
+[](</business/plugins/google-calendar/>)
 
-[](</business/apps/google-drive/>)
+[](</business/plugins/google-drive/>)
 
-[](</business/apps/microsoft-sharepoint/>)
+[](</business/plugins/microsoft-sharepoint/>)
 
-[](</business/apps/slack/>)
+[](</business/plugins/slack/>)
 
-[](</business/apps/microsoft-teams/>)
+[](</business/plugins/microsoft-teams/>)
 
-[](</business/apps/gmail/>)
+[](</business/plugins/gmail/>)
 
-[](</business/apps/google-calendar/>)
+[](</business/plugins/google-calendar/>)
 
 ## The leading AI platform for higher education
 
@@ -206,6 +206,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)

@@ -128,6 +128,10 @@ We identify their occupations from role or department information provided durin
 
 [View all](</news/>)
 
+![Building shared standards for the next phase of AI - art card](https://images.ctfassets.net/kftzwdyauwt9/aQqo6ytHD8RKLFOAPu3vC/c7189f6ec0853600e0e7110885d03541/building-shared-standards-next-phase-ai-cover.png?w=3840&q=90&fm=webp)
+
+[Building standards for the next phase of AIGlobal AffairsSep 21, 2026](</index/building-standards-next-phase-ai/>)
+
 ![Helping older adults use AI in everyday life — art card](https://images.ctfassets.net/kftzwdyauwt9/6ewlK5oKVHp0phTezeh0rT/2c9454f9757b567c1837e07013ffe2f1/older-adults-art-card-v001.png?w=3840&q=90&fm=webp)
 
 [Helping older adults use AI in everyday lifeGlobal AffairsSep 16, 2026](</index/helping-older-adults-use-ai-in-everyday-life/>)
@@ -135,10 +139,6 @@ We identify their occupations from role or department information provided durin
 ![Expanding AI access across every level of US government - listing image - Option 051](https://images.ctfassets.net/kftzwdyauwt9/2DbgwJ93neBePatQjKO2h7/d63008264f83f3dcc786fe98410151be/government-blog-card-option-051-review-1080x1080.png?w=3840&q=90&fm=webp)
 
 [Expanding AI access across every level of US governmentGlobal AffairsSep 10, 2026](</index/expanding-ai-access-us-government/>)
-
-![The AI Policy Window Is Open. We Need to Act. — card](https://images.ctfassets.net/kftzwdyauwt9/1h2LJdMeZWvaobm9wZl7T0/3cc15e97034f5375e78cd90163eed6a5/ai-policy-window-card.png?w=3840&q=90&fm=webp)
-
-[The AI policy window is open. We need to act.Global AffairsSep 9, 2026](</index/ai-policy-window/>)
 
 Research
 
@@ -190,6 +190,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)

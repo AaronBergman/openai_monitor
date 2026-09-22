@@ -108,17 +108,17 @@ The result is a more complete and faster first pass and a clearer record to revi
 
 [View all](</news/>)
 
-![Playco Astra customer story art card - Option B](https://images.ctfassets.net/kftzwdyauwt9/2GBXEJdShwgtUKQZc9Ojsm/ae87410a653bd421e514515deee02940/playco-art-card-option-b-approved.png?w=3840&q=90&fm=webp)
+![Higgsfield AI customer story art card](https://images.ctfassets.net/kftzwdyauwt9/7A0WMEXBwLKT6RUmIz7pfX/c764d19c42285ef2628de699c0820571/square.png?w=3840&q=90&fm=webp)
 
-[Playco cut manual fixes 50% prototyping games with GPT-6 AstraStartupSep 3, 2026](</index/playco-game-prototyping-with-astra/>)
+[Higgsfield AI ships new video features in a day with GPT-6 AstraStartupSep 21, 2026](</index/higgsfield-from-prompt-to-production-with-astra/>)
 
-![replit-customer-story-art-card-1x1](https://images.ctfassets.net/kftzwdyauwt9/2ZUd2sTOK6p4MrjDZnvCoM/512b38a71cf26f09c3cda3c51169c401/replit-customer-story-art-card-1x1.png?w=3840&q=90&fm=webp)
+![V7 customer story hero art card - graphite texture](https://images.ctfassets.net/kftzwdyauwt9/69ITITTOHLrgzbSw13s3L1/eded3a71f9961eacc29f699371f3a9f2/V7-art-card-1x1-option-a.png?w=3840&q=90&fm=webp)
 
-[Replit expands access to software creation with GPT-5.6 LunaStartupAug 19, 2026](</index/replit/>)
+[How V7 gives AI agents institutional memoryStartupSep 21, 2026](</index/v7/>)
 
-![Model ML customer story card image](https://images.ctfassets.net/kftzwdyauwt9/3STNMQMrFRC8mFdLYtjkV4/9cc21e9c729b2ae7cdf75aa3f49b3033/modelml-card.png?w=3840&q=90&fm=webp)
+![Hex customer story art card - Option A](https://images.ctfassets.net/kftzwdyauwt9/5bCMJ2MIvqqM2APZbalxmT/c17219c832b98a3a79a4b9d014fecda8/square.png?w=3840&q=90&fm=webp)
 
-[Model ML completes finance work more efficiently with GPT-5.6 SolStartupAug 10, 2026](</index/model-ml/>)
+[Hex turns complex analysis into visual reports with GPT‑6 AstraStartupSep 16, 2026](</index/hex-gpt-6-astra/>)
 
 Research
 
@@ -170,6 +170,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)

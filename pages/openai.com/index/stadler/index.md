@@ -93,9 +93,13 @@ The rollout combined bottom-up experimentation with top-down support. Employees 
 Today, ChatGPT is embedded across nearly every function:
 
   * Engineering & data teams use it for analysis, code support, and performance evaluation
+
   * Project and management teams use custom GPTs to structure processes and improve documentation
+
   * Marketing teams translate complex technical knowledge into clear global communication
+
   * All teams use it for drafting, summarizing, research, and structured thinking
+
 
 
 
@@ -118,11 +122,17 @@ Instead of starting from scratch, employees begin with structured outputs and fo
 Key outcomes include:
 
   * 30-40% time savings on common knowledge tasks such as summarizing and documentation
+
   * 2.5x faster time to first draft on average, with up to 6x acceleration in high-volume use cases like social media
+
   * >85% daily active usage, with employees engaging multiple times per day
+
   * Faster decision-making, driven by quicker access to structured insights
+
   * Higher-quality outputs, with improved clarity, consistency, and structure
+
   * Reduced friction, making complex tasks easier to start and complete
+
 
 
 
@@ -148,17 +158,17 @@ More than 1 million businesses around the world are achieving meaningful results
 
 ## Keep reading
 
-![How AI-native companies turn workflows into operating capability — card image](https://images.ctfassets.net/kftzwdyauwt9/mSi6hls2IXr3ax2lH8vTj/5a364b116ec5584ec7415feb4c1a7033/index-how-ai-native-companies-turn-workflows-into-operating-capability--cover-v001.png?w=3840&q=90&fm=webp)
+![Advisory Group on Mathematics and Artificial Intelligence — cover](https://images.ctfassets.net/kftzwdyauwt9/7I8A6x8LfZld8C8IZUbZmi/6c9da8e137ce049fb07e486958636739/advisory-group-on-mathematics-and-artificial-intelligence-cover.png?w=3840&q=90&fm=webp)
 
-[How AI-native companies turn workflows into operating capabilityAI AdoptionSep 1, 2026](</index/ai-native-company-workflows/>)
+[Advisory group on mathematics and artificial intelligenceCompanySep 21, 2026](</index/advisory-group-on-mathematics-and-ai/>)
 
-![Path to Astra — Clean square cover — Neutral Option 062 v1](https://images.ctfassets.net/kftzwdyauwt9/4BabvjDCQdlYN2ISzOkgF9/78d35947274e9b3ac2483377782b007e/astra-cover-v001.png?w=3840&q=90&fm=webp)
+![Higgsfield AI customer story art card](https://images.ctfassets.net/kftzwdyauwt9/7A0WMEXBwLKT6RUmIz7pfX/c764d19c42285ef2628de699c0820571/square.png?w=3840&q=90&fm=webp)
 
-[Path to Astra: critical capabilities and frontier safeguardsSafetySep 1, 2026](</index/path-to-astra/>)
+[Higgsfield AI ships new video features in a day with GPT-6 AstraStartupSep 21, 2026](</index/higgsfield-from-prompt-to-production-with-astra/>)
 
-![Healthcare hero and SEO — original blue icon on white, smaller icon](https://images.ctfassets.net/kftzwdyauwt9/7pfIDODSObT8A9BTlfXyVc/43262863eeb33d7f4f8e191fe4783cab/healthcare-exact-smaller-icon-hero-2x.png?w=3840&q=90&fm=webp)
+![Building shared standards for the next phase of AI - art card](https://images.ctfassets.net/kftzwdyauwt9/aQqo6ytHD8RKLFOAPu3vC/c7189f6ec0853600e0e7110885d03541/building-shared-standards-next-phase-ai-cover.png?w=3840&q=90&fm=webp)
 
-[ChatGPT can now connect to healthcare sourcesProductSep 1, 2026](</index/chatgpt-connects-health-records-and-healthcare-sources/>)
+[Building standards for the next phase of AIGlobal AffairsSep 21, 2026](</index/building-standards-next-phase-ai/>)
 
 Research
 
@@ -170,6 +180,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
@@ -209,6 +220,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)

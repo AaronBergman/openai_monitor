@@ -94,10 +94,6 @@ During incident response, Codex helps engineers ramp into new areas quickly by s
 
 Retrieval systemsAPI platformInfrastructure services
 
-> “When I fix a bug, I use Ask mode to see where else in the codebase the same issue might appear”
-
-Performance Engineer, Retrieval Systems
-
 ##### Try using Codex for code understanding with these sample prompts:
 
   * Where is the authentication logic implemented in this repo?
@@ -121,10 +117,6 @@ They’re also using it for code cleanup by breaking up oversized modules, repla
 
 ChatGPT web ChatGPT Enterprise
 
-> “Codex swapped every legacy getUserById( ) for our new service pattern and opened the PR. It did in minutes what would’ve taken hours.”
-
-Backend Engineer, ChatGPT Web
-
 ##### Try using Codex for refactoring and migrations with these sample prompts:
 
   * **Split this file into separate modules by concern and generate tests for each one.**
@@ -145,10 +137,6 @@ Codex is also used to support code health by identifying risky or deprecated pat
 ### Anecdotes from our teams
 
 API ReliabilityModel Serving
-
-> “I use Codex to scan for repeated expensive DB calls. It’s great at flagging hot paths and drafting batched queries I can later tune.”
-
-Infrastructure Engineer, API Reliability
 
 ##### Try using Codex for performance optimization with these sample prompts:
 
@@ -173,10 +161,6 @@ Codex is particularly helpful for identifying boundary conditions like empty inp
 
 ChatGPT DesktopPayments & Billing
 
-> “I point Codex at low‑coverage modules overnight and wake up to runnable unit‑test PRs.”
-
-Frontend Engineer, ChatGPT Desktop
-
 ##### Try using Codex for performance optimization with these sample prompts:
 
   * **Write unit tests for this function, including edge cases and failure paths.**
@@ -200,10 +184,6 @@ It’s also used to turn product feedback into starter code. Engineers often pas
 
 ChatGPT EnterpriseInternal Tools
 
-> “I was in meetings all day and still merged 4 PRs because Codex was working in the background.”
-
-Product Engineer, ChatGPT Enterprise
-
 ##### Try using Codex for increasing development velocity with these sample prompts:
 
   * **Scaffold a new API route for POST /events with basic validation and logging.**
@@ -222,10 +202,6 @@ It’s used to capture unfinished work, turn notes into working prototypes, or s
 
 ChatGPT APIInfrastructure Observability
 
-> “If I spot a drive‑by fix, I fire a Codex task instead of swapping branches and review its PR when I’m free.”
-
-Backend Engineer, ChatGPT API
-
 ##### Try using Codex for staying in flow with these sample prompts:
 
 ## Use case 7: Exploration and ideation
@@ -235,10 +211,6 @@ Codex is also useful for open-ended work like finding alternative solutions or v
 It’s also used to identify related bugs. Given a known issue or deprecated method, Codex can identify similar patterns elsewhere in the code, making it easier to catch regressions or finish cleanup work.
 
 ChatGPT DesktopRetrieval systems
-
-> “Codex helps me solve the cold‑start problem — I paste a spec and docs and it scaffolds code or shows me what I forgot.”
-
-Product Engineer, ChatGPT Desktop
 
 ##### Try using Codex for exploration and ideation with these sample prompts:
 
@@ -299,6 +271,10 @@ Learn how we help companies build scalable, responsible AI strategies.
 
 [View all](</news/>)
 
+![How agents are transforming work > Cover image](https://images.ctfassets.net/kftzwdyauwt9/7hmtkjKv0DxS4Yt8mQZju2/c168bfa2010da64bcc9dd60d6b5491e8/Art_Card__1_.png?w=3840&q=90&fm=webp)
+
+[How agents are transforming workCompanyJun 25, 2026](</index/how-agents-are-transforming-work/>)
+
 ![How enterprises are scaling AI > art card](https://images.ctfassets.net/kftzwdyauwt9/7bwFx4oZ7LkV7wTeDdAIbA/989f92a7be5c2bd36fafb94bbeef076f/Frame.png?w=3840&q=90&fm=webp)
 
 [ How enterprises are scaling AIGuidesMay 11, 2026](</business/guides-and-resources/how-enterprises-are-scaling-ai/>)
@@ -306,10 +282,6 @@ Learn how we help companies build scalable, responsible AI strategies.
 ![Business guides > Layout > Carousel > ChatGPT usage and adoption patterns at work > media > asset](https://images.ctfassets.net/kftzwdyauwt9/2rUSG4XSMDGLJMBdfgtVH/97f5474b4822fccb60211817a5cceb65/chatgpt-usage-and-adoption-patterns-at-work-IMAGE.png?w=3840&q=90&fm=webp)
 
 [ChatGPT usage and adoption patterns at workGuidesJan 22, 2026](</business/guides-and-resources/chatgpt-usage-and-adoption-patterns-at-work/>)
-
-![State of Enterprise AI 2025 > cover image](https://images.ctfassets.net/kftzwdyauwt9/1zzmHm4xiyh99UAioTRe3o/448a21b0cb11cfbdf90198f231ee7bff/homepage_feature_v2.png?w=3840&q=90&fm=webp)
-
-[The state of enterprise AIGuidesDec 17, 2025](</business/guides-and-resources/the-state-of-enterprise-ai-2025-report/>)
 
 Research
 
@@ -321,6 +293,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
@@ -360,6 +333,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -415,3 +389,31 @@ Terms & Policies
 OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
+
+> “When I fix a bug, I use Ask mode to see where else in the codebase the same issue might appear”
+
+Performance Engineer, Retrieval Systems
+
+> “Codex swapped every legacy getUserById( ) for our new service pattern and opened the PR. It did in minutes what would’ve taken hours.”
+
+Backend Engineer, ChatGPT Web
+
+> “I use Codex to scan for repeated expensive DB calls. It’s great at flagging hot paths and drafting batched queries I can later tune.”
+
+Infrastructure Engineer, API Reliability
+
+> “I point Codex at low‑coverage modules overnight and wake up to runnable unit‑test PRs.”
+
+Frontend Engineer, ChatGPT Desktop
+
+> “I was in meetings all day and still merged 4 PRs because Codex was working in the background.”
+
+Product Engineer, ChatGPT Enterprise
+
+> “If I spot a drive‑by fix, I fire a Codex task instead of swapping branches and review its PR when I’m free.”
+
+Backend Engineer, ChatGPT API
+
+> “Codex helps me solve the cold‑start problem — I paste a spec and docs and it scaffolds code or shows me what I forgot.”
+
+Product Engineer, ChatGPT Desktop

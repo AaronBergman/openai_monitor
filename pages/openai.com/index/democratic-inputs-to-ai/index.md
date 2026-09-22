@@ -87,8 +87,11 @@ Once the application period closes, we hope to select ten successful grant recip
 ## Timeline
 
   * June 24, 2023 9:00 pm Pacific Time: Deadline to submit grant application
+
   * July 14, 2023: Successful applicants will be selected and notified
+
   * October 20, 2023: Complete public report of working prototype and results
+
 
 
 
@@ -99,13 +102,21 @@ To participate, teams should choose one or more questions from the provided list
 The scope of this grant pertains to policy questions concerning model behavior, as it enables A/B tests with modified model behavior according to the policy recommendations. We acknowledge the limitations of this grant and recognize that numerous AI issues could be addressed through the democratic process, extending beyond model behavior to include areas such as guidelines for the use of AI in various contexts, economic impact, distribution of benefits and more.
 
   * _How far do you think personalization of AI assistants like ChatGPT to align with a user’s tastes and preferences should go? What boundaries, if any, should exist in this process?_
+
   * _How should AI assistants respond to questions about public figure viewpoints? e.g., Should they be neutral? Should they refuse to answer? Should they provide sources of some kind?_
+
   * _Under what conditions, if any, should AI assistants be allowed to provide medical/financial/legal advice?_
+
   * _In which cases, if any, should AI assistants offer emotional support to individuals?_
+
   * _Should joint vision–language models be permitted to identify people’s gender, race, emotion, and identity/name from their images? Why or why not?_
+
   * _When generative models create images for underspecified prompts like “a CEO,” “a doctor,” or “a nurse,” they have the potential to produce either diverse or homogeneous outputs. How should AI models balance these possibilities? What factors should be prioritized when deciding the depiction of people in such cases?_
+
   * _What principles should guide AI when handling topics that involve both human rights and local cultural or legal differences, like LGBTQ rights and women’s rights? Should AI responses change based on the location or culture in which it’s used?_
+
   * _Which categories of content, if any, do you believe creators of AI models should focus on limiting or denying? What criteria should be used to determine these restrictions?_
+
 
 
 
@@ -114,21 +125,32 @@ The primary objective of this grant is to foster innovation in processes—we ne
 ## Application advisory committee
 
   * [Colin Megill, Co-Founder of pol.is⁠(opens in a new window)](<https://colinmegill.com/>)
+
   * [Hélène Landemore, Professor of Political Science at Yale⁠(opens in a new window)](<https://politicalscience.yale.edu/people/h-l-ne-landemore>)
+
   * [Aviv Ovadya, Berkman Klein Center⁠(opens in a new window)](<https://aviv.me/>)
+
 
 
 
 ## Application review factors
 
   * **Evaluation** : We encourage participants to establish metrics for evaluating the quality of their methods, such as participant satisfaction, shifts in polarization, scalability, or other relevant indicators, and to invent new metrics for a healthy democratic process. 
+
   * **Robustness** : Measures to prevent or address inappropriate behavior, such as trolling and fake accounts.
+
   * **Inclusiveness and representativeness** : Strategies for including individuals from diverse backgrounds and levels of familiarity with AI systems in the democratic process.
+
   * **Empowerment of Minority Opinions** : Ensuring that unpopular or minority opinions are heard and providing smaller groups the opportunity to influence matters of significant concern to them.
+
   * **Effective Moderation** : Addressing challenges in moderation, including ensuring diverse representation of viewpoints, distinguishing valuable contributions from “off-topic” comments, and preventing moderator biases from influencing the process.
+
   * **Scalability** : We emphasize scalable processes that can be conducted virtually, rather than through in-person engagement. We are aware that this approach might sacrifice some benefits associated with in-person discussions, and we recognize that certain aspects could be lost in a virtual setting.
+
   * **Actionability** : The degree of actionability of the information elicited by the deliberation process.
+
   * **Legibility** : How easy it is to understand and trust the process.
+
 
 
 
@@ -189,6 +211,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
@@ -228,6 +251,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)

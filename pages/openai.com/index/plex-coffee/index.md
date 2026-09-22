@@ -109,18 +109,26 @@ With ChatGPT Business, Cheng was able to leverage his 25-page handbook in a new 
 Once onboarding and knowledge sharing were running smoothly, Plex Coffee started experimenting with other ways to apply ChatGPT Business.
 
   * **Expansion research:** As Plex grows, Cheng uses ChatGPT Business to evaluate new locations: “I use the deep research tools to make revenue potential estimations on customer volumes over time.”
+
   * **Understanding demand shift:** If there’s a particularly slow or strong day or week, “ChatGPT usually gives an amazing explanation, like how many students are leaving, or what events are happening that week. It is invaluable to understand demand patterns instantly and at a deeper level.” Cheng says.
+
   * **Automating supply orders:** Placing orders with vendors takes time, because each one has different portals and workflows. To solve that, Plex is “experimenting with ordering from our suppliers directly through Agent,” Cheng says. For a multi-city chain, this could reduce repetitive admin work and ensure stock is always in place.
+
 
 
 
 ## Results at a glance
 
   * Onboarding time reduced from weeks to days
+
   * WhatsApp messages on operational questions reduced by over 50%
+
   * Store managers regained focus time for community engagement
+
   * Faster, more consistent training across locations
+
   * Improved visibility into demand patterns and expansion planning
+
 
 
 
@@ -142,17 +150,17 @@ More than 1 million businesses around the world are achieving meaningful results
 
 ## Keep reading
 
-![How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules — card image](https://images.ctfassets.net/kftzwdyauwt9/5UARNm4AwJ9OfXCIzHZgLF/c05ef4322030e9552dfe2458d34ceaed/index-codex-chatgpt-antimicrobials--cover-v001.png?w=3840&q=90&fm=webp)
+![Advisory Group on Mathematics and Artificial Intelligence — cover](https://images.ctfassets.net/kftzwdyauwt9/7I8A6x8LfZld8C8IZUbZmi/6c9da8e137ce049fb07e486958636739/advisory-group-on-mathematics-and-artificial-intelligence-cover.png?w=3840&q=90&fm=webp)
 
-[How a researcher uses Codex and ChatGPT to search for new antimicrobial moleculesApplied AISep 10, 2026](</index/using-codex-chatgpt-to-search-for-new-antimicrobials/>)
+[Advisory group on mathematics and artificial intelligenceCompanySep 21, 2026](</index/advisory-group-on-mathematics-and-ai/>)
 
-![Now everyone can put data to work — card image](https://images.ctfassets.net/kftzwdyauwt9/6FhMXOSe8XadGwEUev6QjJ/916a64d20bcc59b8619fea1827fa6bd3/put-data-to-work--cover-v001.png?w=3840&q=90&fm=webp)
+![Higgsfield AI customer story art card](https://images.ctfassets.net/kftzwdyauwt9/7A0WMEXBwLKT6RUmIz7pfX/c764d19c42285ef2628de699c0820571/square.png?w=3840&q=90&fm=webp)
 
-[Now everyone can put data to workProductSep 10, 2026](</index/put-data-to-work/>)
+[Higgsfield AI ships new video features in a day with GPT-6 AstraStartupSep 21, 2026](</index/higgsfield-from-prompt-to-production-with-astra/>)
 
-![FinServ Blog - Art Card Texture Square](https://images.ctfassets.net/kftzwdyauwt9/6Bcg403pebiJhQdHUS17FK/572e478dc4579deca27c9700c662e908/finserv-art-card.png?w=3840&q=90&fm=webp)
+![Building shared standards for the next phase of AI - art card](https://images.ctfassets.net/kftzwdyauwt9/aQqo6ytHD8RKLFOAPu3vC/c7189f6ec0853600e0e7110885d03541/building-shared-standards-next-phase-ai-cover.png?w=3840&q=90&fm=webp)
 
-[Introducing ChatGPT for Financial ServicesProductSep 10, 2026](</index/introducing-chatgpt-financial-services/>)
+[Building standards for the next phase of AIGlobal AffairsSep 21, 2026](</index/building-standards-next-phase-ai/>)
 
 Research
 
@@ -204,6 +212,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)

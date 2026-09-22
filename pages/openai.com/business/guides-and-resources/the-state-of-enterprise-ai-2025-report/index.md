@@ -458,6 +458,10 @@ Learn how we help companies build scalable, responsible AI strategies.
 
 [View all](</news/>)
 
+![How agents are transforming work > Cover image](https://images.ctfassets.net/kftzwdyauwt9/7hmtkjKv0DxS4Yt8mQZju2/c168bfa2010da64bcc9dd60d6b5491e8/Art_Card__1_.png?w=3840&q=90&fm=webp)
+
+[How agents are transforming workCompanyJun 25, 2026](</index/how-agents-are-transforming-work/>)
+
 ![How enterprises are scaling AI > art card](https://images.ctfassets.net/kftzwdyauwt9/7bwFx4oZ7LkV7wTeDdAIbA/989f92a7be5c2bd36fafb94bbeef076f/Frame.png?w=3840&q=90&fm=webp)
 
 [ How enterprises are scaling AIGuidesMay 11, 2026](</business/guides-and-resources/how-enterprises-are-scaling-ai/>)
@@ -465,10 +469,6 @@ Learn how we help companies build scalable, responsible AI strategies.
 ![Business guides > Layout > Carousel > ChatGPT usage and adoption patterns at work > media > asset](https://images.ctfassets.net/kftzwdyauwt9/2rUSG4XSMDGLJMBdfgtVH/97f5474b4822fccb60211817a5cceb65/chatgpt-usage-and-adoption-patterns-at-work-IMAGE.png?w=3840&q=90&fm=webp)
 
 [ChatGPT usage and adoption patterns at workGuidesJan 22, 2026](</business/guides-and-resources/chatgpt-usage-and-adoption-patterns-at-work/>)
-
-![1x1 staying ahead](https://images.ctfassets.net/kftzwdyauwt9/5uCs5mXCel0eJTL8ahQ7TA/10959a8edd7a3753c5ff473c0ad460a9/1x1_staying_ahead.png?w=3840&q=90&fm=webp)
-
-[Staying ahead in the age of AIGuidesDec 16, 2025](</business/guides-and-resources/staying-ahead-in-the-age-of-ai/>)
 
 Research
 
@@ -480,6 +480,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
@@ -519,6 +520,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)

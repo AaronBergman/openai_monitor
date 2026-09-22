@@ -119,11 +119,17 @@ Employees reported positive feedback on the accuracy of ChatGPT for complex task
 Results:
 
   * Reduced product release cycles from 3–6 months to 2 weeks
+
   * Enabled thousands of employees globally within weeks
+
   * Accelerated customer delivery timelines to ~4 weeks from request to production
+
   * Increased analyst productivity through faster research and synthesis
+
   * Improved cross-functional collaboration by accelerating information flow across functions
+
   * Expanded innovation velocity, with ideas moving from concept to prototype in hours
+
 
 
 
@@ -134,10 +140,15 @@ Results:
 ## Leadership lessons
 
   * Rethink workflows, not just tasks: The biggest gains come from redesigning how work gets done
+
   * Enable broadly, early: Giving teams access at scale accelerates learning and adoption
+
   * Balance speed with trust: Strong governance enables faster, safer innovation
+
   * Empower experimentation: Innovation emerges when employees are trusted to explore
+
   * Avoid extremes: The most effective approach to AI is thoughtful, accountable adoption
+
 
 
 
@@ -148,9 +159,13 @@ Results:
 ## Tips
 
   * Start with high-impact, low-risk use cases: Governance is critical for scaling safely for LSEG.
+
   * Empower early adopters: Adoption accelerated for LSEG when value was immediately visible.
+
   * Invest in training and enablement: The best use cases often emerge from users themselves.
+
   * Be demanding about outcomes: Be clear on what success looks like before scaling.
+
 
 
 
@@ -170,17 +185,17 @@ Looking ahead, LSEG sees its greatest opportunity in scale: empowering its globa
 
 ## Keep reading
 
-![Fyxer customer story 1x1 image](https://images.ctfassets.net/kftzwdyauwt9/7LbXXCnX1NLyS1i8mHGF1i/d75fdf2bf63cf463ce2e72915a783757/oai_Fyxer_1x1.png?w=3840&q=90&fm=webp)
+![Advisory Group on Mathematics and Artificial Intelligence — cover](https://images.ctfassets.net/kftzwdyauwt9/7I8A6x8LfZld8C8IZUbZmi/6c9da8e137ce049fb07e486958636739/advisory-group-on-mathematics-and-artificial-intelligence-cover.png?w=3840&q=90&fm=webp)
 
-[How Fyxer built an AI executive assistant people trustStartupSep 14, 2026](</index/fyxer/>)
+[Advisory group on mathematics and artificial intelligenceCompanySep 21, 2026](</index/advisory-group-on-mathematics-and-ai/>)
 
-![deployco seo image](https://images.ctfassets.net/kftzwdyauwt9/6pnntrVmfPSqsFYG5YlAvy/c69de8f9d518accd55c417898a20322e/og-seo.png?w=3840&q=90&fm=webp)
+![Higgsfield AI customer story art card](https://images.ctfassets.net/kftzwdyauwt9/7A0WMEXBwLKT6RUmIz7pfX/c764d19c42285ef2628de699c0820571/square.png?w=3840&q=90&fm=webp)
 
-[Monitoring trade-off impacts when building AI productsSep 14, 2026](</deployco/news/monitoring-trade-off-impacts-when-building-ai-products/>)
+[Higgsfield AI ships new video features in a day with GPT-6 AstraStartupSep 21, 2026](</index/higgsfield-from-prompt-to-production-with-astra/>)
 
-![Perplexity customer story art card](https://images.ctfassets.net/kftzwdyauwt9/wGvW7AaxivnlRvLvZU7CE/146fd791b18b52b67dbb0a3692357a72/square.png?w=3840&q=90&fm=webp)
+![Building shared standards for the next phase of AI - art card](https://images.ctfassets.net/kftzwdyauwt9/aQqo6ytHD8RKLFOAPu3vC/c7189f6ec0853600e0e7110885d03541/building-shared-standards-next-phase-ai-cover.png?w=3840&q=90&fm=webp)
 
-[Perplexity trusts GPT-6 Astra with end-to-end systemsSep 14, 2026](</index/perplexity-improving-accuracy-with-astra/>)
+[Building standards for the next phase of AIGlobal AffairsSep 21, 2026](</index/building-standards-next-phase-ai/>)
 
 Research
 
@@ -232,6 +247,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)

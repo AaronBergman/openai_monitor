@@ -102,9 +102,18 @@ Fukabori describes the difference with an everyday shopping problem.
 
 avatarin designed the agent around three essential qualities:
 
-  * **Keeping product information accurate without slowing the conversation.** A retrieval-augmented generation system grounds the agent’s responses in product information, while GPT‑Realtime keeps the interaction responsive. This allows shoppers to have a fluid voice conversation while still receiving information based on relevant product data.
-  * **Translating Yamada Denki’s sales expertise into conversation design.** The information a sales associate needs to gather varies significantly by product category. avatarin incorporated Yamada Denki’s customer service knowledge into the agent’s conversation flows and prompting. The system is designed to adapt when customers change their requirements or move temporarily off topic, while guardrails help keep the conversation focused on the shopping experience.
-  * **Designing an agent that asks, rather than only answers.** Many traditional chatbot experiences wait for the customer to provide the next instruction. avatarin took a more proactive approach. The agent asks follow-up questions to uncover the customer’s actual needs, helping move the conversation from a simple question-and-answer exchange toward guided product discovery.
+  * **Keeping product information accurate without slowing the conversation.**
+
+A retrieval-augmented generation system grounds the agent’s responses in product information, while GPT‑Realtime keeps the interaction responsive. This allows shoppers to have a fluid voice conversation while still receiving information based on relevant product data.
+
+  * **Translating Yamada Denki’s sales expertise into conversation design.**
+
+The information a sales associate needs to gather varies significantly by product category. avatarin incorporated Yamada Denki’s customer service knowledge into the agent’s conversation flows and prompting. The system is designed to adapt when customers change their requirements or move temporarily off topic, while guardrails help keep the conversation focused on the shopping experience.
+
+  * **Designing an agent that asks, rather than only answers.**
+
+Many traditional chatbot experiences wait for the customer to provide the next instruction. avatarin took a more proactive approach. The agent asks follow-up questions to uncover the customer’s actual needs, helping move the conversation from a simple question-and-answer exchange toward guided product discovery.
+
 
 
 
@@ -117,8 +126,11 @@ OpenAI worked with avatarin to structure complex prompts, optimize API costs for
 The public campaign made the impact visible in just two weeks:
 
   * Approximately 30,000 users
+
   * 24/7 multilingual support by voice and text
+
   * 92% positive survey responses
+
 
 
 
@@ -150,17 +162,17 @@ More than 1 million businesses around the world are achieving meaningful results
 
 ## Keep reading
 
-![Supporting Thailand’s next generation of AI startups > Cover image](https://images.ctfassets.net/kftzwdyauwt9/6ttG55Aq2kyDRG8wxOkTx9/897d266cacc77edc0a25d06b9f6c2c45/supporting-next-generation-ai-startups-thailand--cover.png?w=3840&q=90&fm=webp)
+![Advisory Group on Mathematics and Artificial Intelligence — cover](https://images.ctfassets.net/kftzwdyauwt9/7I8A6x8LfZld8C8IZUbZmi/6c9da8e137ce049fb07e486958636739/advisory-group-on-mathematics-and-artificial-intelligence-cover.png?w=3840&q=90&fm=webp)
 
-[Supporting Thailand’s next generation of AI startupsCompanyAug 28, 2026](</index/supporting-next-generation-ai-startups-thailand/>)
+[Advisory group on mathematics and artificial intelligenceCompanySep 21, 2026](</index/advisory-group-on-mathematics-and-ai/>)
 
-![Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training > Cover image](https://images.ctfassets.net/kftzwdyauwt9/2X12MQqhR5AY1wog6JW3Q3/721873f6edd491a0f241038a9324b341/what-students-gain-chatgpt-critical-thinking--art-card-no-border.png?w=3840&q=90&fm=webp)
+![Higgsfield AI customer story art card](https://images.ctfassets.net/kftzwdyauwt9/7A0WMEXBwLKT6RUmIz7pfX/c764d19c42285ef2628de699c0820571/square.png?w=3840&q=90&fm=webp)
 
-[What students gain from ChatGPT and critical-thinking trainingCompanyAug 27, 2026](</index/what-students-gain-from-chatgpt-critical-thinking-training/>)
+[Higgsfield AI ships new video features in a day with GPT-6 AstraStartupSep 21, 2026](</index/higgsfield-from-prompt-to-production-with-astra/>)
 
-![Expanding OpenAI’s presence in Brazil > Cover image](https://images.ctfassets.net/kftzwdyauwt9/7jZgAn4y7ZP5GFx0HimbWT/84b3d734ebe29229bd58b8d8a775dc60/expanding-openai-presence-in-brazil-art-card.png?w=3840&q=90&fm=webp)
+![Building shared standards for the next phase of AI - art card](https://images.ctfassets.net/kftzwdyauwt9/aQqo6ytHD8RKLFOAPu3vC/c7189f6ec0853600e0e7110885d03541/building-shared-standards-next-phase-ai-cover.png?w=3840&q=90&fm=webp)
 
-[Expanding OpenAI’s presence in BrazilCompanyAug 27, 2026](</index/expanding-our-presence-in-brazil/>)
+[Building standards for the next phase of AIGlobal AffairsSep 21, 2026](</index/building-standards-next-phase-ai/>)
 
 Research
 
@@ -172,6 +184,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
@@ -211,6 +224,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)

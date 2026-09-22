@@ -53,9 +53,13 @@ Since its founding in 2013, Nubank—one of the world’s largest digital financ
 By leveraging AI solutions developed with OpenAI, Nubank enhances both customer experiences and internal efficiency:
 
   * **Internal enterprise knowledge search** : Provides employees with instant access to company insights, driving smarter, faster decisions.
+
   * **Call center copilot** : Empowers human agents with conversation summaries and recommended answers, increasing customer satisfaction and reducing time spent on each ticket.
+
   * **AI-powered assistant** : Resolves 55% of Tier 1 inquiries, handling over 2 million monthly chats and reducing chat response times by 70%.
+
   * **Fraud quality assurance** : Uses GPT‑4o vision to analyze transactions and documents, streamlining fraud detection and delivering high quality of service.
+
 
 
 
@@ -82,9 +86,13 @@ Together, Nubank and OpenAI developed a **Call Center Copilot** to assist agents
 With the help of the copilot, agent support remains available 24 hours a day, and over 45% of Nubank agents use the copilot’s key features:
 
   * **Next-reply suggestions** : Ensures accurate, empathetic responses by recommended best answers for human agents.
+
   * **Chat summarization** : Provides quick context for ongoing or past conversations.
+
   * **Step-by-step guidance** : Simplifies technical issues and complex queries, reducing the cognitive load on staff.
+
   * **Chat powered by AI:** Handles over 2 million monthly chats and emails, resolving more than up to 50% of tier 1 inquiries without escalating to a human agent. With the help of OpenAI, Nubank reduced the chat response time by 70%, providing customers with a faster and more accurate experience.
+
 
 
 
@@ -170,6 +178,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)

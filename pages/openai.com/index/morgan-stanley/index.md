@@ -69,8 +69,11 @@ Morgan Stanley met this challenge by implementing an evaluation (eval) framework
 The team began with three targeted goals for their first AI use cases:
 
   * Faster information retrieval to save advisors hours of document searching.
+
   * Automation of repetitive tasks like summarizing research reports.
+
   * Enhanced insights tailored to client needs.
+
 
 
 
@@ -116,8 +119,11 @@ OpenAI’s zero data retention policy also addressed key security concerns, ensu
 Morgan Stanley’s focus on quality and reliability has led to trusted, secure solutions that employees want to use:
 
   * Nearly all advisor teams now use AI tools like the Assistant daily, achieving over 98% adoption in wealth management.
+
   * Access to documents has jumped from 20% to 80%, dramatically reducing search time and increasing document retrieval efficiency.
+
   * Advisors spend more time on client relationships, thanks to task automation and faster insights.
+
 
 
 
@@ -199,6 +205,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
