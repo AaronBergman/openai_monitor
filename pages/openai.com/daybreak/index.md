@@ -36,7 +36,9 @@ OpenAI
 
 The defense the AI era demands.
 
-[Explore Daybreak solutions](</business/solutions/cybersecurity/>)[Contact Cyber sales](<https://openai.com/daybreak/contact-cyber-sales/>)
+[Explore Daybreak solutions](</business/solutions/cybersecurity/>)
+
+Apply for Daybreak
 
 ## Building the future of cyber defense
 
@@ -291,6 +293,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)

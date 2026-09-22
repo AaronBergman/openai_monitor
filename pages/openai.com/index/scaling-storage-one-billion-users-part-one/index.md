@@ -86,11 +86,11 @@ Play
 
 
 
-### Clients
+Clients
 
-### Online storage platform
+Online storage platform
 
-### Storage resources
+Storage resources
 
   * ChatGPT
 
@@ -105,7 +105,7 @@ Play
 
 
 
-#### Habitat
+Habitat
 
   * CachingCaches
   * ACL policiesAuthorization
@@ -127,9 +127,8 @@ Play
 
 
 
-  * CDC ServicesChange Data Capture
 
-
+CDC ServicesChange Data Capture
 
   * Databricks
 
@@ -184,18 +183,15 @@ Play
 
 
 
-### Client
+Client
 
-### OpenAI
+OpenAI
 
-### Azure Cosmos DB
+Azure Cosmos DB
 
-  * Habitat client sdk
+Habitat client sdk
 
-
-
-  * envoy
-
+envoy
 
   * habitat-serviceprocess 1
   * habitat-serviceprocess 2
@@ -203,8 +199,7 @@ Play
 
 
 
-  * habitat-envoy
-
+habitat-envoy
 
   * habitat-cosmos-db-us0
   * habitat-cosmos-db-us1
@@ -443,6 +438,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)

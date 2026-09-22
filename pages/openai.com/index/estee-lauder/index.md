@@ -101,10 +101,15 @@ The Estée Lauder Companies structures its GPT creation process like a sprint, f
 Within the GPT Lab, “teams” of people—a business user, a subject matter expert (SME), and a technical lead—are responsible for ensuring each idea is based on impact and feasibility:
 
   1. **Design** :**** the business user defines the purpose, scope, and audience for the GPT in a two-page Use Case Brief to gain clarity before building.
+
   2. **Prepare** : the SME shapes the use case by gathering and preparing relevant data, ensuring best practices for GPT development.
+
   3. **Build & Test**: the tech lead builds the GPT with sets of data and rigorously tests to assess accuracy and consistency.
+
   4. **Launch** : the full team deploys the GPT and a user guide for teams to use.
+
   5. **Pivot & Scale**: the full team uses feedback loops to iterate and optimize the outputs based on GPT performance.
+
 
 
 
@@ -117,8 +122,11 @@ By working in iterative cycles and sharing insights, the GPT Lab was able to dev
 Not only has ChatGPT helped employees work faster, it’s expanded their creative capacity by reducing manual tasks:
 
   * **Time savings** : Across R&D and marketing teams, ChatGPT has improved response time by more than 90%. What once took teams several hours to research—like finding claims about product efficacy—now takes minutes. 
+
   * **Speed to market** : By accelerating data analysis, ELC can launch products faster, ensuring they remain responsive to fast-changing consumer trends. 
+
   * **Internal adoption** : There’s been enthusiastic adoption of GPT across the organization, with more teams asking to integrate AI into their workflows for creative solutions.
+
 
 
 
@@ -198,6 +206,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)

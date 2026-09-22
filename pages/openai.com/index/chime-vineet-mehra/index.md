@@ -73,8 +73,11 @@ This next era offers the potential to unlock growth like never before. The role 
 The most successful AI adoption strategy is built around a clear, structured framework that ensures AI isn’t just a series of disconnected tools but an integrated system that amplifies marketing’s impact. It starts with three key principles:
 
   * Champion AI from the top: AI adoption isn’t just a technology decision—it’s a business transformation. CMOs must own the shift by driving the strategic roadmap, ensuring teams understand AI’s potential, and setting the vision for how AI fuels both creativity and growth.
+
   * Start small, scale fast: One of the biggest barriers to AI adoption is the temptation to boil the ocean or aim for immediate transformation. The reality is that AI is best learned through hands-on experimentation—quick wins build momentum, drive confidence, and fuel faster scaling. We started with AI for simple tasks like copy refinement, then expanded into AI-assisted creative production, SEO, and real-time media optimization. Every AI deployment should drive measurable impact, whether in efficiency gains, content velocity, or higher conversion rates.
+
   * AI is only as good as the inputs it gets: AI doesn’t just work on its own—it’s only as effective as the data and parameters it’s given. The quality of inputs defines the quality of AI outputs. Early in our AI journey, we saw that personalization models and predictive value bidding struggled until we refined our data inputs. Similarly, our AI-driven content creation was more successful once we built a custom GPT trained on Chime’s best-performing content rather than relying on off-the-shelf models. CMOs must prioritize data quality and model training as they scale AI, ensuring it aligns with their business goals rather than just automating tasks.
+
 
 
 
@@ -87,8 +90,11 @@ Listen
 AI is transforming how our marketing organization operates by making us faster, more adaptive, and more precise in how we create, optimize, and learn. At Chime, we’ve embedded AI across many of our marketing workflows to drive greater efficiency and impact, with the biggest changes happening in three areas:
 
   * Creative and content velocity: AI is accelerating content creation without sacrificing quality or brand integrity. From AI-assisted storyboarding and video generation to automated content development, we’ve cut reliance on external agencies and built in-house AI capabilities that increase creative output while reducing costs. AI-powered workflows now allow us to develop and deploy assets more quickly, giving us more agility in-market.
+
   * Real-time optimization in media and lifecycle marketing: AI is helping us move from manual testing to real-time, automated decision-making. Tools like PMAX and OfferFit dynamically adjust media spend, messaging, and customer touchpoints based on live performance signals, ensuring that every interaction is optimized for impact. Instead of relying on set-it-and-forget-it campaigns, AI enables us to constantly refine and improve marketing performance in the moment.
+
   * Faster, smarter customer insights: AI isn’t just improving execution; it’s reshaping how we understand and respond to our customers. AI-powered trend spotting and sentiment analysis allow us to process vast amounts of customer feedback in real time. For example, our AI-driven voice of customer analysis generates weekly insights that directly inform product and marketing strategy, ensuring that we’re always adapting to what matters most to our members. In addition, our research team has created a Custom GPT that serves as an interactive database where users can ask questions and get responses from synthetic personas that represent our key segments.
+
 
 
 
@@ -114,17 +120,17 @@ More than 1 million businesses around the world are achieving meaningful results
 
 ## Keep reading
 
-![Fyxer customer story 1x1 image](https://images.ctfassets.net/kftzwdyauwt9/7LbXXCnX1NLyS1i8mHGF1i/d75fdf2bf63cf463ce2e72915a783757/oai_Fyxer_1x1.png?w=3840&q=90&fm=webp)
+![Advisory Group on Mathematics and Artificial Intelligence — cover](https://images.ctfassets.net/kftzwdyauwt9/7I8A6x8LfZld8C8IZUbZmi/6c9da8e137ce049fb07e486958636739/advisory-group-on-mathematics-and-artificial-intelligence-cover.png?w=3840&q=90&fm=webp)
 
-[How Fyxer built an AI executive assistant people trustStartupSep 14, 2026](</index/fyxer/>)
+[Advisory group on mathematics and artificial intelligenceCompanySep 21, 2026](</index/advisory-group-on-mathematics-and-ai/>)
 
-![deployco seo image](https://images.ctfassets.net/kftzwdyauwt9/6pnntrVmfPSqsFYG5YlAvy/c69de8f9d518accd55c417898a20322e/og-seo.png?w=3840&q=90&fm=webp)
+![Higgsfield AI customer story art card](https://images.ctfassets.net/kftzwdyauwt9/7A0WMEXBwLKT6RUmIz7pfX/c764d19c42285ef2628de699c0820571/square.png?w=3840&q=90&fm=webp)
 
-[Monitoring trade-off impacts when building AI productsSep 14, 2026](</deployco/news/monitoring-trade-off-impacts-when-building-ai-products/>)
+[Higgsfield AI ships new video features in a day with GPT-6 AstraStartupSep 21, 2026](</index/higgsfield-from-prompt-to-production-with-astra/>)
 
-![Perplexity customer story art card](https://images.ctfassets.net/kftzwdyauwt9/wGvW7AaxivnlRvLvZU7CE/146fd791b18b52b67dbb0a3692357a72/square.png?w=3840&q=90&fm=webp)
+![Building shared standards for the next phase of AI - art card](https://images.ctfassets.net/kftzwdyauwt9/aQqo6ytHD8RKLFOAPu3vC/c7189f6ec0853600e0e7110885d03541/building-shared-standards-next-phase-ai-cover.png?w=3840&q=90&fm=webp)
 
-[Perplexity trusts GPT-6 Astra with end-to-end systemsSep 14, 2026](</index/perplexity-improving-accuracy-with-astra/>)
+[Building standards for the next phase of AIGlobal AffairsSep 21, 2026](</index/building-standards-next-phase-ai/>)
 
 Research
 
@@ -176,6 +182,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)

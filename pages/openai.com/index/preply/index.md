@@ -121,10 +121,15 @@ Lesson Insights became the centerpiece of Preply's customer-facing AI strategy. 
 Within minutes of a lesson ending, the learner and their tutor receive a structured, personalized report in their chat thread that includes:
 
   * A summary of key lesson topics
+
   * Grammar corrections and explanations
+
   * Vocabulary highlights and translations
+
   * Pronunciation feedback
+
   * Recommended next steps
+
 
 
 
@@ -159,11 +164,17 @@ Preply has always had very high engagement on a per lesson basis. But its AI-gen
 **Results:**
 
   * **95% ChatGPT weekly active usage** among Preply employees
+
   * **75% of English-language learners** actively use Lesson Insights, powered by OpenAI APIs
+
   * **More than 70% of tutors** use the feature
+
   * **Around 75% of active learners** continue engaging with Lesson Insights more than a year after adoption
+
   * **4.7/5 satisfaction rating** among tutors and students, from more than 300k ratings received directly on the platform
+
   * **70% product market fit score** , significantly above the threshold often associated with strong customer demand
+
 
 
 
@@ -184,8 +195,11 @@ The result is better preparation, more focused lessons, and faster progress for 
 ### Leadership lessons
 
   * **Treat AI as a cultural transformation, not a tooling rollout:** Adoption accelerates when leadership sets a clear strategy, teams are trained to use it, and AI becomes part of everyday work across the business
+
   * **Pick high-impact use cases:** It’s better to go deep on a small number of features with clear user value and measurable impact than many experiments that don’t reach quality
+
   * **Build partnerships:** Work with organizations that can support rollout, develop teams’ knowledge, and collaborate on how to solve customers’ problems in the best way
+
 
 
 
@@ -196,8 +210,11 @@ The result is better preparation, more focused lessons, and faster progress for 
 ### Tips
 
   * **Make it a company priority:** Preply’s adoption of ChatGPT Enterprise was reflected in its strategy, roadmaps, and objectives—signaling that its use was an expectation, not an experiment
+
   * **Invest in enablement:** Structured training, hands-on workshops, and internal sessions helped teams move from curiosity to practical usage
+
   * **Work with users:** Preply collaborated with tutors to build data sets, evaluate prompts and ensure it had high standards for quality
+
 
 
 
@@ -229,17 +246,17 @@ More than 1 million businesses around the world are achieving meaningful results
 
 ## Keep reading
 
-![Fyxer customer story 1x1 image](https://images.ctfassets.net/kftzwdyauwt9/7LbXXCnX1NLyS1i8mHGF1i/d75fdf2bf63cf463ce2e72915a783757/oai_Fyxer_1x1.png?w=3840&q=90&fm=webp)
+![Advisory Group on Mathematics and Artificial Intelligence — cover](https://images.ctfassets.net/kftzwdyauwt9/7I8A6x8LfZld8C8IZUbZmi/6c9da8e137ce049fb07e486958636739/advisory-group-on-mathematics-and-artificial-intelligence-cover.png?w=3840&q=90&fm=webp)
 
-[How Fyxer built an AI executive assistant people trustStartupSep 14, 2026](</index/fyxer/>)
+[Advisory group on mathematics and artificial intelligenceCompanySep 21, 2026](</index/advisory-group-on-mathematics-and-ai/>)
 
-![deployco seo image](https://images.ctfassets.net/kftzwdyauwt9/6pnntrVmfPSqsFYG5YlAvy/c69de8f9d518accd55c417898a20322e/og-seo.png?w=3840&q=90&fm=webp)
+![Higgsfield AI customer story art card](https://images.ctfassets.net/kftzwdyauwt9/7A0WMEXBwLKT6RUmIz7pfX/c764d19c42285ef2628de699c0820571/square.png?w=3840&q=90&fm=webp)
 
-[Monitoring trade-off impacts when building AI productsSep 14, 2026](</deployco/news/monitoring-trade-off-impacts-when-building-ai-products/>)
+[Higgsfield AI ships new video features in a day with GPT-6 AstraStartupSep 21, 2026](</index/higgsfield-from-prompt-to-production-with-astra/>)
 
-![Perplexity customer story art card](https://images.ctfassets.net/kftzwdyauwt9/wGvW7AaxivnlRvLvZU7CE/146fd791b18b52b67dbb0a3692357a72/square.png?w=3840&q=90&fm=webp)
+![Building shared standards for the next phase of AI - art card](https://images.ctfassets.net/kftzwdyauwt9/aQqo6ytHD8RKLFOAPu3vC/c7189f6ec0853600e0e7110885d03541/building-shared-standards-next-phase-ai-cover.png?w=3840&q=90&fm=webp)
 
-[Perplexity trusts GPT-6 Astra with end-to-end systemsSep 14, 2026](</index/perplexity-improving-accuracy-with-astra/>)
+[Building standards for the next phase of AIGlobal AffairsSep 21, 2026](</index/building-standards-next-phase-ai/>)
 
 Research
 
@@ -291,6 +308,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)

@@ -147,31 +147,47 @@ That shift—from AI assisting people to AI orchestrating work across entire pro
 ## Results at a glance
 
   * Achieved 84% weekly active usage, with 755 weekly active users and 913 unique users over six months (February 1 to July 14, 2026).
+
   * During the evaluated period from February 1 to July 14, 2026, users exchanged more than 500,000 messages with ChatGPT.
+
   * 98.6% of surveyed employees reported higher productivity, while 84.6% reported improved quality of work.
+
   * 95.9% of respondents reported weekly time savings; 63.5% saved at least two hours per week, and 25.7% saved at least five hours. HSP is already seeing an operational leading indicator in its annual capacity planning, with professionals planning significantly more work than in previous years because employees recognize additional capacity created through AI-supported work. The organization expects to assess the full financial impact later this year.
+
   * 79.7% reported better client service and 78.1% reported higher job satisfaction.
+
   * A deliberately conservative internal scenario estimates approximately 40,000 hours of additional annual capacity. Around 28,000 hours could support productive, generally billable specialist work, while roughly 12,000 hours could support administration, client service, and support. Based on conservative hourly rates, HSP estimates a theoretical annual revenue potential of approximately €3.8 million. This is a capacity scenario—not realized or guaranteed revenue.
+
 
 
 
 ## Leadership lessons
 
   * **Treat AI as an organizational capability, not an individual tool.** Scale successful experiments into repeatable workflows that everyone can benefit from.
+
   * **Invest in operational foundations first.** Strong processes, governance, and quality systems accelerate AI adoption.
+
   * **Create a culture of continuous learning.** Regular AI forums helped successful ideas spread quickly across the organization.
+
   * **Redesign workflows—not just tasks.** The greatest value comes from rethinking end-to-end processes rather than automating isolated activities.
+
   * **Build AI around professional judgement.** The greatest value comes when AI enhances expertise rather than replacing it.
+
 
 
 
 ## Tips
 
   * Start with business problems—not AI features.
+
   * Create regular forums where employees can share successful use cases across teams.
+
   * Pair AI specialists with domain experts to turn successful experiments into scalable workflows.
+
   * Pilot new capabilities with small groups before expanding organization-wide.
+
   * Measure adoption and business impact—not just deployment—to understand where AI is creating real value.
+
 
 
 
@@ -195,17 +211,17 @@ More than 1 million businesses around the world are achieving meaningful results
 
 ## Keep reading
 
-![How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules — card image](https://images.ctfassets.net/kftzwdyauwt9/5UARNm4AwJ9OfXCIzHZgLF/c05ef4322030e9552dfe2458d34ceaed/index-codex-chatgpt-antimicrobials--cover-v001.png?w=3840&q=90&fm=webp)
+![Advisory Group on Mathematics and Artificial Intelligence — cover](https://images.ctfassets.net/kftzwdyauwt9/7I8A6x8LfZld8C8IZUbZmi/6c9da8e137ce049fb07e486958636739/advisory-group-on-mathematics-and-artificial-intelligence-cover.png?w=3840&q=90&fm=webp)
 
-[How a researcher uses Codex and ChatGPT to search for new antimicrobial moleculesApplied AISep 10, 2026](</index/using-codex-chatgpt-to-search-for-new-antimicrobials/>)
+[Advisory group on mathematics and artificial intelligenceCompanySep 21, 2026](</index/advisory-group-on-mathematics-and-ai/>)
 
-![Now everyone can put data to work — card image](https://images.ctfassets.net/kftzwdyauwt9/6FhMXOSe8XadGwEUev6QjJ/916a64d20bcc59b8619fea1827fa6bd3/put-data-to-work--cover-v001.png?w=3840&q=90&fm=webp)
+![Higgsfield AI customer story art card](https://images.ctfassets.net/kftzwdyauwt9/7A0WMEXBwLKT6RUmIz7pfX/c764d19c42285ef2628de699c0820571/square.png?w=3840&q=90&fm=webp)
 
-[Now everyone can put data to workProductSep 10, 2026](</index/put-data-to-work/>)
+[Higgsfield AI ships new video features in a day with GPT-6 AstraStartupSep 21, 2026](</index/higgsfield-from-prompt-to-production-with-astra/>)
 
-![FinServ Blog - Art Card Texture Square](https://images.ctfassets.net/kftzwdyauwt9/6Bcg403pebiJhQdHUS17FK/572e478dc4579deca27c9700c662e908/finserv-art-card.png?w=3840&q=90&fm=webp)
+![Building shared standards for the next phase of AI - art card](https://images.ctfassets.net/kftzwdyauwt9/aQqo6ytHD8RKLFOAPu3vC/c7189f6ec0853600e0e7110885d03541/building-shared-standards-next-phase-ai-cover.png?w=3840&q=90&fm=webp)
 
-[Introducing ChatGPT for Financial ServicesProductSep 10, 2026](</index/introducing-chatgpt-financial-services/>)
+[Building standards for the next phase of AIGlobal AffairsSep 21, 2026](</index/building-standards-next-phase-ai/>)
 
 Research
 
@@ -257,6 +273,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)

@@ -1,0 +1,232 @@
+Skip to main content
+
+[](</>)[](</business/>)
+
+  * Why OpenAI
+  * Products
+  * Solutions
+  * Resources
+  * [Customers](</business/customer-stories/>)
+  * [Pricing](</business/pricing/>)
+
+
+
+Try OpenAI[Contact sales](</contact-sales/>)
+
+  * Why OpenAI
+  * Products
+  * Solutions
+  * Resources
+  * [Customers](</business/customer-stories/>)
+  * [Pricing](</business/pricing/>)
+
+
+
+[Contact sales](</contact-sales/>)Try OpenAI
+
+OpenAI
+
+[Plugins](</business/plugins/>)
+
+![](https://files.openai.com/content?id=file_000000003fa081f7ad2f4a34170c6fc4&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=437564dd3e217c0cf67273428a57c88db7f15d7ae2ecc3a6c05a166b08d589eb&v=0)![](https://files.openai.com/content?id=file_000000003fa081f7ad2f4a34170c6fc4&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=437564dd3e217c0cf67273428a57c88db7f15d7ae2ecc3a6c05a166b08d589eb&v=0)
+
+# Courtroom5
+
+Civil legal help, 50 states
+
+[Install plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a30d2fd05c88191adc78db28e24442b>)[Contact sales](</contact-sales/>)
+
+Category
+    [Productivity](</business/plugins/?tab=plugins-productivity>)
+
+Developer
+    Courtroom5
+
+Website
+    [(opens in a new window)](<https://courtroom5.com>)
+
+[![](https://files.openai.com/content?id=file_000000003fa081f7ad2f4a34170c6fc4&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=437564dd3e217c0cf67273428a57c88db7f15d7ae2ecc3a6c05a166b08d589eb&v=0)![](https://files.openai.com/content?id=file_000000003fa081f7ad2f4a34170c6fc4&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=437564dd3e217c0cf67273428a57c88db7f15d7ae2ecc3a6c05a166b08d589eb&v=0)Courtroom5 My landlord kept my security deposit and I never received an itemized list of deductions. What can I do?(opens in a new window)](<https://chatgpt.com/?prompt=%40Courtroom5+My+landlord+kept+my+security+deposit+and+I+never+received+an+itemized+list+of+deductions.+What+can+I+do%3F>)
+
+## How it works
+
+Courtroom5 serves self-represented litigants (SRLs) — people who must navigate civil court without an attorney, typically because they cannot afford one. Roughly 80% of civil litigants in the United States appear without legal representation. Without guidance, they lose cases on procedural technicalities before the merits are ever heard. The Courtroom5 app gives ChatGPT users access to three jurisdiction-aware legal tools: a case intake assessment that evaluates a user's situation and identifies applicable civil claims; a deadline calculator that returns precise procedural deadlines and consequences by state and court level; and next-step guidance for users already in active litigation. All tools are scoped to civil matters in US state and federal courts and designed for plain-language delivery to non-lawyers. Courtroom5 is a Techstars graduate and recipient of the ABA Woman of Legal Tech recognition. We have served over 12,000 self-represented litigants across all 50 states.
+
+## What else can you do?
+
+  * ### Assess a civil dispute
+
+![](https://files.openai.com/content?id=file_000000003fa081f7ad2f4a34170c6fc4&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=437564dd3e217c0cf67273428a57c88db7f15d7ae2ecc3a6c05a166b08d589eb&v=0)![](https://files.openai.com/content?id=file_000000003fa081f7ad2f4a34170c6fc4&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=437564dd3e217c0cf67273428a57c88db7f15d7ae2ecc3a6c05a166b08d589eb&v=0)Courtroom5 Assess this civil dispute in [state]: [brief facts]. Identify potential claims and the likely court, explain missing facts that matter, and suggest initial preparation steps in plain language.
+
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Courtroom5+Assess+this+civil+dispute+in+%5Bstate%5D%3A+%5Bbrief+facts%5D.+Identify+potential+claims+and+the+likely+court%2C+explain+missing+facts+that+matter%2C+and+suggest+initial+preparation+steps+in+plain+language.>)
+
+  * ### Understand a response deadline
+
+![](https://files.openai.com/content?id=file_000000003fa081f7ad2f4a34170c6fc4&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=437564dd3e217c0cf67273428a57c88db7f15d7ae2ecc3a6c05a166b08d589eb&v=0)![](https://files.openai.com/content?id=file_000000003fa081f7ad2f4a34170c6fc4&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=437564dd3e217c0cf67273428a57c88db7f15d7ae2ecc3a6c05a166b08d589eb&v=0)Courtroom5 I was served with [civil filing] in [state and court] on [date] by [service method]. Calculate my response deadline if supported, explain the assumptions and consequences, and flag details to verify.
+
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Courtroom5+I+was+served+with+%5Bcivil+filing%5D+in+%5Bstate+and+court%5D+on+%5Bdate%5D+by+%5Bservice+method%5D.+Calculate+my+response+deadline+if+supported%2C+explain+the+assumptions+and+consequences%2C+and+flag+details+to+verify.>)
+
+  * ### Prioritize the next steps
+
+![](https://files.openai.com/content?id=file_000000003fa081f7ad2f4a34170c6fc4&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=437564dd3e217c0cf67273428a57c88db7f15d7ae2ecc3a6c05a166b08d589eb&v=0)![](https://files.openai.com/content?id=file_000000003fa081f7ad2f4a34170c6fc4&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=437564dd3e217c0cf67273428a57c88db7f15d7ae2ecc3a6c05a166b08d589eb&v=0)Courtroom5 I am the [plaintiff or defendant] in a [case type] in [state and court], now at [stage]. Identify the next three preparation priorities, explain why they matter, and flag information needed to refine them.
+
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Courtroom5+I+am+the+%5Bplaintiff+or+defendant%5D+in+a+%5Bcase+type%5D+in+%5Bstate+and+court%5D%2C+now+at+%5Bstage%5D.+Identify+the+next+three+preparation+priorities%2C+explain+why+they+matter%2C+and+flag+information+needed+to+refine+them.>)
+
+
+
+
+## What’s included
+
+### App
+
+  * ![](https://files.openai.com/content?id=file_000000003fa081f7ad2f4a34170c6fc4&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=437564dd3e217c0cf67273428a57c88db7f15d7ae2ecc3a6c05a166b08d589eb&v=0)Courtroom5
+
+
+
+## Resources
+
+### [Help centerLearn more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
+
+### [Plugin supportLearn more](<https://courtroom5.com/chatgpt/>)
+
+### [Privacy policyLearn more](<https://courtroom5.com/privacy/>)
+
+## Add plugins in a few clicks
+
+Availability depends on the plugin, your plan, and workspace settings. Some connections require admin setup or approval. Contact your workspace admin if access is blocked.
+
+[View the setup guide](<https://learn.chatgpt.com/docs/plugins>)
+
+## Explore related plugins
+
+[![](https://files.openai.com/content?id=file_000000004c0c81f78746051c8894e9f0&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=94634a13f89821846ddbbbaa5e99aadc55c2198ec4b4dbd453217f71362d0950&v=0)![](https://files.openai.com/content?id=file_000000004c0c81f78746051c8894e9f0&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=94634a13f89821846ddbbbaa5e99aadc55c2198ec4b4dbd453217f71362d0950&v=0)DocumentsCreate and edit documents](</business/plugins/documents/>)[![](https://files.openai.com/content?id=file_00000000a9a081f78752dfef864b2597&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=18fa18d4c839a23ca63639259d332c2f50d433faa731d9b7755f08c333b78e47&v=0)![](https://files.openai.com/content?id=file_00000000a9a081f78752dfef864b2597&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=18fa18d4c839a23ca63639259d332c2f50d433faa731d9b7755f08c333b78e47&v=0)Google DriveSearch and reference files from your Drive.](</business/plugins/google-drive/>)[![](https://files.openai.com/content?id=file_0000000033ec81f6a5077baa2c492e08&cdn=1&cp=pi&ma=31536000&ts=0&p=pi&cid=8&sig=3fc3f532d061de604b2bee6605c591e9ea8b4b532b4f90c3be4c357147560563&v=0)![](https://files.openai.com/content?id=file_0000000033ec81f6a5077baa2c492e08&cdn=1&cp=pi&ma=31536000&ts=0&p=pi&cid=8&sig=3fc3f532d061de604b2bee6605c591e9ea8b4b532b4f90c3be4c357147560563&v=0)CourtListenerLegal research for everyone](</business/plugins/courtlistener/>)[![](https://files.openai.com/content?id=file_00000000003481f7a8fe0376ff21ba62&cdn=1&cp=pi&ma=30240000&ts=0&p=pi&cid=8&sig=f9275aa12f61ddc6c49623d0b708ca1a4c8130b211d9410e2bc7aca98388e900&v=0)![](https://files.openai.com/content?id=file_00000000003481f7a8fe0376ff21ba62&cdn=1&cp=pi&ma=30240000&ts=0&p=pi&cid=8&sig=f9275aa12f61ddc6c49623d0b708ca1a4c8130b211d9410e2bc7aca98388e900&v=0)Descrybe Legal EnginePrimary law research toolkit](</business/plugins/descrybe/>)[![](https://files.openai.com/content?id=file_00000000bfe482118babfdd9b0cf7353&cdn=1&cp=pi&ma=31190400&ts=0&p=pi&cid=8&sig=9da1a179f76e5116bb70d62b7a8de51b3b8add7a4e804d73b286809f88d6f98c&v=0)![](https://files.openai.com/content?id=file_0000000021a08246892b9999b59759a6&cdn=1&cp=pi&ma=30499200&ts=0&p=pi&cid=8&sig=aa853daac645b2aae1fd54239165f2e024b6ba195281b5bbce6fdce230f8d381&v=0)Midpage Legal ResearchLegal Research Data for AI](</business/plugins/midpage/>)[![](https://files.openai.com/content?id=file_000000001db881f78e8a1c56203626b5&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=8&sig=7cf4a2b9e3754507f40a0ce1ecbfe5ad1a214f7e95e0d26812ac1c35e5b9e569&v=0)![](https://files.openai.com/content?id=file_000000001db881f78e8a1c56203626b5&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=8&sig=7cf4a2b9e3754507f40a0ce1ecbfe5ad1a214f7e95e0d26812ac1c35e5b9e569&v=0)Legal Data HunterFind laws and cases worldwide](</business/plugins/legal-data-hunter/>)
+
+## Get started with plugins
+
+Bring your organization’s data and tools into OpenAI products and accelerate what your teams can do.
+
+[Try ChatGPT Business(opens in a new window)](<https://chatgpt.com/team-sign-up>)[Contact sales](</contact-sales/>)
+
+Research
+
+  * [Research Index](</research/index/>)
+  * [Research Overview](</research/>)
+  * [Economic Research](</signals/>)
+
+
+
+Latest Advancements
+
+  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-5.6](</index/gpt-5-6/>)
+  * [GPT-5.5](</index/introducing-gpt-5-5/>)
+  * [GPT-5.4](</index/introducing-gpt-5-4/>)
+
+
+
+Safety
+
+  * [Safety Approach](</safety/>)
+  * [Deployment Safety(opens in a new window)](<https://deploymentsafety.openai.com/>)
+  * [Security & Privacy](</security-and-privacy/>)
+  * [Trust & Transparency](</trust-and-transparency/>)
+
+
+
+Products
+
+  * [ChatGPT(opens in a new window)](<https://chatgpt.com/>)
+  * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
+  * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
+  * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
+  * [Codex](</codex/>)
+  * [Release Notes](</products/release-notes/>)
+
+
+
+API Platform
+
+  * [Overview](</api/>)
+  * [API Log In(opens in a new window)](<https://platform.openai.com/login>)
+  * [Docs(opens in a new window)](<https://developers.openai.com/api/docs>)
+
+
+
+Business
+
+  * [Overview](</business/>)
+  * [Solutions](</solutions/>)
+  * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
+  * [Contact Sales](</contact-sales/>)
+
+
+
+Developers
+
+  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
+  * [Open Models](</open-models/>)
+  * [Docs(opens in a new window)](<https://developers.openai.com/>)
+  * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
+  * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
+
+
+
+Company
+
+  * [About Us](</about/>)
+  * [Our Charter](</charter/>)
+  * [Careers](</careers/>)
+  * [News](</news/>)
+
+
+
+Support
+
+  * [Help Center(opens in a new window)](<https://help.openai.com/>)
+
+
+
+More
+
+  * [Stories](</stories/>)
+  * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
+  * [Livestreams](</live/>)
+  * [Podcast](</podcast/>)
+  * [RSS](<https://openai.com/news/rss.xml>)
+
+
+
+Terms & Policies
+
+  * [Terms of Use](</policies/terms-of-use/>)
+  * [Privacy Policy](</policies/privacy-policy/>)
+  * [Other Policies ](</policies/>)
+
+
+
+[(opens in a new window)](<https://x.com/OpenAI>)[(opens in a new window)](<https://www.youtube.com/OpenAI>)[(opens in a new window)](<https://www.linkedin.com/company/openai>)[(opens in a new window)](<https://github.com/openai>)[(opens in a new window)](<https://www.instagram.com/openai/>)[(opens in a new window)](<https://www.tiktok.com/@openai>)[(opens in a new window)](<https://discord.gg/openai>)
+
+OpenAI © 2015–2026Your privacy choices
+
+EnglishUnited States
+
+### 1Find a plugin1Find a plugin
+
+Browse for plugins that support your team’s tools and tasks.
+
+![ChatGPT plugin directory showing Google Drive, Slack, and Google Calendar.](https://images.ctfassets.net/kftzwdyauwt9/6yJgeQSCr32uzNSynka2cc/f5da877c4684cb18ecb9babf62723e2b/1.png?w=3840&q=90&fm=webp)
+
+### 2Install and connect2Install and connect
+
+Install the plugin, then follow the prompts to review permissions and connect any required apps.
+
+![Select the add button to install the Gmail plugin.](https://images.ctfassets.net/kftzwdyauwt9/7gNt7Pk3s8Mf0ql8JAedDS/c533bb5268aef1bed2ef56d5f5ccb06f/2.png?w=3840&q=90&fm=webp)
+
+### 3Put it to work3Put it to work
+
+Start a new chat in ChatGPT Work or Codex, describe the result you need, and ask it to use plugins.
+
+![Ask ChatGPT to prepare a meeting brief using Google Calendar, Gmail, and Slack.](https://images.ctfassets.net/kftzwdyauwt9/tQaC60CeLrMeEalZJnAwl/b4419ccddbaed0103124a22854097e81/3.png?w=3840&q=90&fm=webp)

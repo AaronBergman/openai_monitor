@@ -64,45 +64,129 @@ Can you check @Linear for the seat selection bug and figure out a plan to fix it
 
 [View plugins](</business/plugins/>)
 
-[](</business/apps/google-drive/>)
+[](</business/plugins/github/>)
 
-[](</business/apps/google-calendar/>)
+[](</business/plugins/gitlab-issues/>)
 
-[](</business/apps/microsoft-teams/>)
+[](</business/plugins/azure-boards/>)
 
-[](</business/apps/gmail/>)
+[](</business/plugins/linear/>)
 
-[](</business/apps/microsoft-sharepoint/>)
+[](</business/plugins/atlassian-rovo/>)
 
-[](</business/apps/slack/>)
+[](</business/plugins/vercel/>)
 
-[](</business/apps/linear/>)
+[](</business/plugins/netlify/>)
 
-[](</business/apps/figma/>)
+[](</business/plugins/replit/>)
 
-[](</business/apps/notion/>)
+[](</business/plugins/lovable/>)
 
-[](</business/apps/dropbox/>)
+[](</business/plugins/hugging-face/>)
 
-[](</business/apps/google-drive/>)
+[](</business/plugins/jam-dev/>)
 
-[](</business/apps/google-calendar/>)
+[](</business/plugins/figma/>)
 
-[](</business/apps/microsoft-teams/>)
+[](</business/plugins/aha/>)
 
-[](</business/apps/gmail/>)
+[](</business/plugins/notion/>)
 
-[](</business/apps/microsoft-sharepoint/>)
+[](</business/plugins/cloudinary/>)
 
-[](</business/apps/slack/>)
+[](</business/plugins/bigquery/>)
 
-[](</business/apps/linear/>)
+[](</business/plugins/snowflake/>)
 
-[](</business/apps/figma/>)
+[](</business/plugins/databricks/>)
 
-[](</business/apps/notion/>)
+[](</business/plugins/stripe/>)
 
-[](</business/apps/dropbox/>)
+[](</business/plugins/openai-certified/>)
+
+[](</business/plugins/google-drive/>)
+
+[](</business/plugins/slack/>)
+
+[](</business/plugins/microsoft-teams/>)
+
+[](</business/plugins/gmail/>)
+
+[](</business/plugins/google-calendar/>)
+
+[](</business/plugins/microsoft-outlook-email/>)
+
+[](</business/plugins/microsoft-outlook-calendar/>)
+
+[](</business/plugins/microsoft-sharepoint/>)
+
+[](</business/plugins/box/>)
+
+[](</business/plugins/dropbox/>)
+
+[](</business/plugins/salesforce/>)
+
+[](</business/plugins/github/>)
+
+[](</business/plugins/gitlab-issues/>)
+
+[](</business/plugins/azure-boards/>)
+
+[](</business/plugins/linear/>)
+
+[](</business/plugins/atlassian-rovo/>)
+
+[](</business/plugins/vercel/>)
+
+[](</business/plugins/netlify/>)
+
+[](</business/plugins/replit/>)
+
+[](</business/plugins/lovable/>)
+
+[](</business/plugins/hugging-face/>)
+
+[](</business/plugins/jam-dev/>)
+
+[](</business/plugins/figma/>)
+
+[](</business/plugins/aha/>)
+
+[](</business/plugins/notion/>)
+
+[](</business/plugins/cloudinary/>)
+
+[](</business/plugins/bigquery/>)
+
+[](</business/plugins/snowflake/>)
+
+[](</business/plugins/databricks/>)
+
+[](</business/plugins/stripe/>)
+
+[](</business/plugins/openai-certified/>)
+
+[](</business/plugins/google-drive/>)
+
+[](</business/plugins/slack/>)
+
+[](</business/plugins/microsoft-teams/>)
+
+[](</business/plugins/gmail/>)
+
+[](</business/plugins/google-calendar/>)
+
+[](</business/plugins/microsoft-outlook-email/>)
+
+[](</business/plugins/microsoft-outlook-calendar/>)
+
+[](</business/plugins/microsoft-sharepoint/>)
+
+[](</business/plugins/box/>)
+
+[](</business/plugins/dropbox/>)
+
+[](</business/plugins/salesforce/>)
 
 ## Why engineering teams choose OpenAI
 
@@ -232,6 +316,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)

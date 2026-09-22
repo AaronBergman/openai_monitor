@@ -66,33 +66,113 @@ Make this a live working prototype, then add an interaction to open the cards in
 
 [View plugins](</business/plugins/>)
 
-[](</business/apps/google-drive/>)
+[](</business/plugins/adobe-express/>)
 
-[](</business/apps/google-calendar/>)
+[](</business/plugins/adobe-photoshop/>)
 
-[](</business/apps/gmail/>)
+[](</business/plugins/figma/>)
 
-[](</business/apps/microsoft-sharepoint/>)
+[](</business/plugins/canva/>)
 
-[](</business/apps/microsoft-teams/>)
+[](</business/plugins/github/>)
 
-[](</business/apps/slack/>)
+[](</business/plugins/replit/>)
 
-[](</business/apps/figma/>)
+[](</business/plugins/lovable/>)
 
-[](</business/apps/google-drive/>)
+[](</business/plugins/product-design/>)
 
-[](</business/apps/google-calendar/>)
+[](</business/plugins/notion/>)
 
-[](</business/apps/gmail/>)
+[](</business/plugins/asana/>)
 
-[](</business/apps/microsoft-sharepoint/>)
+[](</business/plugins/linear/>)
 
-[](</business/apps/microsoft-teams/>)
+[](</business/plugins/adobe-acrobat/>)
 
-[](</business/apps/slack/>)
+[](</business/plugins/google-drive/>)
 
-[](</business/apps/figma/>)
+[](</business/plugins/dropbox/>)
+
+[](</business/plugins/box/>)
+
+[](</business/plugins/slack/>)
+
+[](</business/plugins/microsoft-teams/>)
+
+[](</business/plugins/gmail/>)
+
+[](</business/plugins/google-calendar/>)
+
+[](</business/plugins/microsoft-outlook-email/>)
+
+[](</business/plugins/microsoft-outlook-calendar/>)
+
+[](</business/plugins/microsoft-sharepoint/>)
+
+[](</business/plugins/atlassian-rovo/>)
+
+[](</business/plugins/salesforce/>)
+
+[](</business/plugins/snowflake/>)
+
+[](</business/plugins/databricks/>)
+
+[](</business/plugins/bigquery/>)
+
+[](</business/plugins/adobe-express/>)
+
+[](</business/plugins/adobe-photoshop/>)
+
+[](</business/plugins/figma/>)
+
+[](</business/plugins/canva/>)
+
+[](</business/plugins/github/>)
+
+[](</business/plugins/replit/>)
+
+[](</business/plugins/lovable/>)
+
+[](</business/plugins/product-design/>)
+
+[](</business/plugins/notion/>)
+
+[](</business/plugins/asana/>)
+
+[](</business/plugins/linear/>)
+
+[](</business/plugins/adobe-acrobat/>)
+
+[](</business/plugins/google-drive/>)
+
+[](</business/plugins/dropbox/>)
+
+[](</business/plugins/box/>)
+
+[](</business/plugins/slack/>)
+
+[](</business/plugins/microsoft-teams/>)
+
+[](</business/plugins/gmail/>)
+
+[](</business/plugins/google-calendar/>)
+
+[](</business/plugins/microsoft-outlook-email/>)
+
+[](</business/plugins/microsoft-outlook-calendar/>)
+
+[](</business/plugins/microsoft-sharepoint/>)
+
+[](</business/plugins/atlassian-rovo/>)
+
+[](</business/plugins/salesforce/>)
+
+[](</business/plugins/snowflake/>)
+
+[](</business/plugins/databricks/>)
+
+[](</business/plugins/bigquery/>)
 
 ## Why design teams choose OpenAI
 
@@ -217,6 +297,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)

@@ -28,7 +28,7 @@ OpenAI
 
 Plugins
 
-# Work across your favorite apps from ChatGPT
+# Work across your favorite apps in ChatGPT
 
 Connect the apps you love and the data you rely on right into ChatGPT with plugins.
 
@@ -147,6 +147,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)

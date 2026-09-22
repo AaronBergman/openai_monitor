@@ -235,18 +235,6 @@ The resulting dataset includes 30 fully reviewed tasks per occupation (full-set)
 
 Manufacturing engineerOrder clerkProducer
 
-### Prompt + task context
-
-This is June 2025 and you are a Manufacturing Engineer, in an automobile assembly line. The product is a cable spooling truck for underground mining operations, and you are reviewing the final testing step. In the final testing step, a big spool of cable needs to be reeled in and reeled out 2 times, to ensure the cable spooling works as per requirement. The current operation requires 2 persons to work on this test. The first person needs to bring and position the spool near the test unit, the second person will connect the open end of the cable spool to the test unit and start the reel in step. While the cable is being unreeled from the spool, and onto the truck, the first person will need to rotate the spool in order to facilitate the unreeling. When the cable is fully reeled onto the truck, the next step is to perform the operation in reverse order, so the cable gets reeled out of the truck and back onto its own reel. This test is done another time to ensure functionality. This task is complicated, has associated risks, requires high labor and makes the work area cluttered. Your manager has requested you to develop a jig/fixture to simplify reel in and reel out of the cable reel spool, so the test can be done by one person. Attached to this request is an information document which provides basic details about the cable reel drum size, information to design the cable reel spooling jig and to structure the deliverable. The deliverable for this task will be a preliminary concept design only. Separate tasks will be done to calculate design foundations such as stress, strength, cost benefit analysis, etc. Design a jig using 3d modelling software and create a presentation using Microsoft PowerPoint. As part of the deliverable, upload only a pdf document summarizing the design, using snapshots of the 3d design created. The 3d design file is not required for submission.
-
-Cable reel project requirements.pdf
-
-### Experienced human deliverable
-
-![Exploded view of a design for a cable reel](https://images.ctfassets.net/kftzwdyauwt9/732Vs6DLTkqEojY7KA6SpE/7e13b42ca15a6fc5e6a3ca109b05f872/Cable_Reel_DesignProject_3x.png?w=3840&q=90&fm=webp)
-
-Each task in GDPval is designed by an experienced professional and reflects real knowledge work from their occupation. The prompt is a realistic work assignment created by a domain expert, and the gold deliverable is the expert’s own solution.
-
 ## How we grade model performance
 
 To evaluate model performance on GDPval tasks, we rely on expert “graders”—a group of experienced professionals from the same occupations represented in the dataset. These graders blindly compare model-generated deliverables with those produced by task writers (not knowing which is AI versus human generated), and offer critiques and rankings. Graders then rank the human and AI deliverables and classify each AI deliverable as “better”, “as good as”, or “worse than” one another.
@@ -278,7 +266,9 @@ GDPval is an early step. While it covers 44 occupations and hundreds of tasks, w
 ## Get involved
 
   * **If you’re an industry expert** interested in contributing to GDPval, please [show your interest here](</form/real-world-knowledge-work/>).
+
   * **If you’re a customer working with OpenAI** and you’d like to contribute to a future round of GDPval, please [express interest here](</form/gdpval-customer-contribution/>).
+
 
 
 
@@ -299,15 +289,17 @@ OpenAI
 
 [View all](</news/>)
 
-[The Hugging Face incident and the road aheadSecurityAug 26, 2026](</index/hugging-face-incident-and-the-road-ahead/>)
+![Our framework for reporting model misalignment — card image](https://images.ctfassets.net/kftzwdyauwt9/3mJz9GkBOjZvAMYPx8M1dj/2a9ac4b7e18b1c08feef5368c4fde2e2/model-misalignment-reporting-framework--cover-v002.png?w=3840&q=90&fm=webp)
 
-![Pacing model development in an era of cyber-critical capabilities — Card image](https://images.ctfassets.net/kftzwdyauwt9/3tUOfo4E1xZComoOiRjHJm/51c532f25dd4062f92bff0e41ea00c3c/index-pacing-model-development-cyber-capabilities-dark-cover.png?w=3840&q=90&fm=webp)
+[Our framework for reporting model misalignmentResearchSep 16, 2026](</index/model-misalignment-reporting-framework/>)
 
-[Pacing model development in an era of cyber-critical capabilitiesCompanyAug 18, 2026](</index/pacing-model-development-cyber-capabilities/>)
+![Navier–Stokes solution — art card](https://images.ctfassets.net/kftzwdyauwt9/2VUQZfeF2GtKRitKYdkoLu/cc96d05424afb2c9adcca0734ecdafb1/navier-stokes-art-card.png?w=3840&q=90&fm=webp)
 
-![math-breakthroughs art-card 1x1](https://images.ctfassets.net/kftzwdyauwt9/2zkd5RIOug4FcEj62mdSF4/3ea9e19c0456289c69f0d839cc929cb2/math-breakthroughs_art-card_1x1.png?w=3840&q=90&fm=webp)
+[An OpenAI model proposes a solution to the Navier–Stokes problemResearchSep 8, 2026](</index/navier-stokes-solution/>)
 
-[Ten advances in mathematics and theoretical computer sciencePublicationAug 1, 2026](</index/ten-advances-in-mathematics/>)
+![An alien mind > Listing card](https://images.ctfassets.net/kftzwdyauwt9/7ut3G8rKt5ia4P3yRqi2qN/6ffb429f70548a881eb46a4e7e61498e/Option_120___1080_1080.png?w=3840&q=90&fm=webp)
+
+[An Alien MindSafetySep 6, 2026](</index/an-alien-mind/>)
 
 Research
 
@@ -319,6 +311,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
@@ -358,6 +351,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -413,3 +407,15 @@ Terms & Policies
 OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
+
+### Prompt + task context
+
+This is June 2025 and you are a Manufacturing Engineer, in an automobile assembly line. The product is a cable spooling truck for underground mining operations, and you are reviewing the final testing step. In the final testing step, a big spool of cable needs to be reeled in and reeled out 2 times, to ensure the cable spooling works as per requirement. The current operation requires 2 persons to work on this test. The first person needs to bring and position the spool near the test unit, the second person will connect the open end of the cable spool to the test unit and start the reel in step. While the cable is being unreeled from the spool, and onto the truck, the first person will need to rotate the spool in order to facilitate the unreeling. When the cable is fully reeled onto the truck, the next step is to perform the operation in reverse order, so the cable gets reeled out of the truck and back onto its own reel. This test is done another time to ensure functionality. This task is complicated, has associated risks, requires high labor and makes the work area cluttered. Your manager has requested you to develop a jig/fixture to simplify reel in and reel out of the cable reel spool, so the test can be done by one person. Attached to this request is an information document which provides basic details about the cable reel drum size, information to design the cable reel spooling jig and to structure the deliverable. The deliverable for this task will be a preliminary concept design only. Separate tasks will be done to calculate design foundations such as stress, strength, cost benefit analysis, etc. Design a jig using 3d modelling software and create a presentation using Microsoft PowerPoint. As part of the deliverable, upload only a pdf document summarizing the design, using snapshots of the 3d design created. The 3d design file is not required for submission.
+
+Cable reel project requirements.pdf
+
+### Experienced human deliverable
+
+![Exploded view of a design for a cable reel](https://images.ctfassets.net/kftzwdyauwt9/732Vs6DLTkqEojY7KA6SpE/7e13b42ca15a6fc5e6a3ca109b05f872/Cable_Reel_DesignProject_3x.png?w=3840&q=90&fm=webp)
+
+Each task in GDPval is designed by an experienced professional and reflects real knowledge work from their occupation. The prompt is a realistic work assignment created by a domain expert, and the gold deliverable is the expert’s own solution.

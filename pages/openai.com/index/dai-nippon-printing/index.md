@@ -77,10 +77,15 @@ Founded in 1876, Dai Nippon Printing Co., Ltd. (DNP) is one of the world's large
 As part of this commitment, DNP has long embraced emerging technologies. In April 2023, the company made a strategic decision to adopt AI across the organization. By May, DNP had built a secure environment for enterprise-wide use. In February 2025, the company launched ChatGPT Enterprise across ten core departments. Within three months, results included:
 
   * 90% of use cases with ChatGPT Enterprise showed measurable results
+
   * 100% weekly active usage rate
+
   * 87% automation rate in time reduction
+
   * 70% knowledge reuse rate (custom GPTs)
+
   * 10x increase in processing volume
+
 
 
 
@@ -103,8 +108,11 @@ In the departments where ChatGPT Enterprise was introduced, the greatest impact 
 His team built the following workflows using ChatGPT Enterprise:
 
   * Patent research: automated search, summarization, and classification, cutting research time by 95% and expanding coverage 10x
+
   * Application strategy: identified key differentiators between DNP's technology and competitors' patents, reducing rejection risk and minimizing revisions
+
   * Competitive analysis: generated first-draft reports automatically, reducing preparation time by 80%
+
 
 
 
@@ -121,7 +129,9 @@ DNP's research division promoting production technology advances QCD (quality, c
 Key outcomes include:
 
   * Structuring information from English patents and equipment principles in three days, down from several months
+
   * Enabling employees with no Python experience to generate and run code through ChatGPT Enterprise
+
 
 
 
@@ -132,8 +142,11 @@ A particularly notable use case involved employees with no prior experience in P
 DNP is modernizing IT governance with ChatGPT Enterprise. Masahiro Kobayashi, General Manager of System Infrastructure Development Division, ICT Center, Information Innovation Operations, highlighted improvements in tasks that were once manual and inconsistent:
 
   * External security audit: cut audit comparison time from 30 minutes to 5 minutes; reduced cryptographic suite selection from 3 hours to 1 hour
+
   * Cloud security: completed the initial check of ~100 CIS Benchmark noncompliance items in 10 minutes instead of two person-days
+
   * Review support: shortened requirement reviews from 1 hour to 30 minutes by referencing design policies and past records
+
 
 
 
@@ -156,10 +169,15 @@ His team uses ChatGPT Enterprise to structure and digitize unstructured data fro
 ### Results at a glance
 
   * 90% of use cases showed measurable results
+
   * 100% weekly active usage rate
+
   * 95% reduction in patent research time
+
   * 87% automation rate in task time reduction
+
   * 10x increase in processing volume
+
 
 
 
@@ -179,17 +197,17 @@ More than 1 million businesses around the world are achieving meaningful results
 
 ## Keep reading
 
-![Fyxer customer story 1x1 image](https://images.ctfassets.net/kftzwdyauwt9/7LbXXCnX1NLyS1i8mHGF1i/d75fdf2bf63cf463ce2e72915a783757/oai_Fyxer_1x1.png?w=3840&q=90&fm=webp)
+![Advisory Group on Mathematics and Artificial Intelligence — cover](https://images.ctfassets.net/kftzwdyauwt9/7I8A6x8LfZld8C8IZUbZmi/6c9da8e137ce049fb07e486958636739/advisory-group-on-mathematics-and-artificial-intelligence-cover.png?w=3840&q=90&fm=webp)
 
-[How Fyxer built an AI executive assistant people trustStartupSep 14, 2026](</index/fyxer/>)
+[Advisory group on mathematics and artificial intelligenceCompanySep 21, 2026](</index/advisory-group-on-mathematics-and-ai/>)
 
-![deployco seo image](https://images.ctfassets.net/kftzwdyauwt9/6pnntrVmfPSqsFYG5YlAvy/c69de8f9d518accd55c417898a20322e/og-seo.png?w=3840&q=90&fm=webp)
+![Higgsfield AI customer story art card](https://images.ctfassets.net/kftzwdyauwt9/7A0WMEXBwLKT6RUmIz7pfX/c764d19c42285ef2628de699c0820571/square.png?w=3840&q=90&fm=webp)
 
-[Monitoring trade-off impacts when building AI productsSep 14, 2026](</deployco/news/monitoring-trade-off-impacts-when-building-ai-products/>)
+[Higgsfield AI ships new video features in a day with GPT-6 AstraStartupSep 21, 2026](</index/higgsfield-from-prompt-to-production-with-astra/>)
 
-![Perplexity customer story art card](https://images.ctfassets.net/kftzwdyauwt9/wGvW7AaxivnlRvLvZU7CE/146fd791b18b52b67dbb0a3692357a72/square.png?w=3840&q=90&fm=webp)
+![Building shared standards for the next phase of AI - art card](https://images.ctfassets.net/kftzwdyauwt9/aQqo6ytHD8RKLFOAPu3vC/c7189f6ec0853600e0e7110885d03541/building-shared-standards-next-phase-ai-cover.png?w=3840&q=90&fm=webp)
 
-[Perplexity trusts GPT-6 Astra with end-to-end systemsSep 14, 2026](</index/perplexity-improving-accuracy-with-astra/>)
+[Building standards for the next phase of AIGlobal AffairsSep 21, 2026](</index/building-standards-next-phase-ai/>)
 
 Research
 
@@ -241,6 +259,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)

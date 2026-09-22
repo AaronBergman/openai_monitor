@@ -34,7 +34,7 @@ OpenAI
 
 Ask data questions and start new analyses from Hex.
 
-[Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_690a9430a270819196671dcb4c95898e>)[Contact sales](</contact-sales/>)
+[Install plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_690a9430a270819196671dcb4c95898e>)[Contact sales](</contact-sales/>)
 
 Capabilities
     Interactive, Read, Write
@@ -48,37 +48,31 @@ Developer
 Website
     [(opens in a new window)](<https://hex.tech/>)
 
-[![](https://files.openai.com/content?id=file_00000000fcb4720ca56d2ab5ac6ac7b8&cdn=1&cp=pi&ma=31795200&ts=0&p=pi&cid=1&sig=066aff3768bbf36fa211ac7adf2e11a4acf9269da0740a5723a19646224ff749&v=0)Hex pull up my board meeting dashboard(opens in a new window)](<https://chatgpt.com/?prompt=%40Hex+pull+up+my+board+meeting+dashboard>)[![](https://files.openai.com/content?id=file_00000000fcb4720ca56d2ab5ac6ac7b8&cdn=1&cp=pi&ma=31795200&ts=0&p=pi&cid=1&sig=066aff3768bbf36fa211ac7adf2e11a4acf9269da0740a5723a19646224ff749&v=0)Hex who are our top customers by revenue?(opens in a new window)](<https://chatgpt.com/?prompt=%40Hex+who+are+our+top+customers+by+revenue%3F>)[![](https://files.openai.com/content?id=file_00000000fcb4720ca56d2ab5ac6ac7b8&cdn=1&cp=pi&ma=31795200&ts=0&p=pi&cid=1&sig=066aff3768bbf36fa211ac7adf2e11a4acf9269da0740a5723a19646224ff749&v=0)Hex how is our sales conversion vs. benchmarks?(opens in a new window)](<https://chatgpt.com/?prompt=%40Hex+how+is+our+sales+conversion+vs.+benchmarks%3F>)
+[![](https://files.openai.com/content?id=file_00000000fcb4720ca56d2ab5ac6ac7b8&cdn=1&cp=pi&ma=31795200&ts=0&p=pi&cid=1&sig=066aff3768bbf36fa211ac7adf2e11a4acf9269da0740a5723a19646224ff749&v=0)Hex pull up my board meeting dashboard(opens in a new window)](<https://chatgpt.com/?prompt=%40Hex+pull+up+my+board+meeting+dashboard>)
 
 ## How it works
 
 Ask data questions and start new analyses in ChatGPT by accessing dashboards and workspace data from Hex.
 
-## Common use cases
+## What else can you do?
 
   * ### Ask questions of workspace data
 
-Ask questions about customers, revenue, or performance and get answers based on data from your Hex workspace.
-
 ![](https://files.openai.com/content?id=file_00000000fcb4720ca56d2ab5ac6ac7b8&cdn=1&cp=pi&ma=31795200&ts=0&p=pi&cid=1&sig=066aff3768bbf36fa211ac7adf2e11a4acf9269da0740a5723a19646224ff749&v=0)Hex Turn our latest executive metrics dashboard into a narrative update I can paste into an email.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Hex+Turn+our+latest+executive+metrics+dashboard+into+a+narrative+update+I+can+paste+into+an+email.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Hex+Turn+our+latest+executive+metrics+dashboard+into+a+narrative+update+I+can+paste+into+an+email.>)
 
   * ### Locate dashboards and reports
 
-Search for dashboards or reports in Hex, view matching projects, and share the relevant source when answering questions.
-
 ![](https://files.openai.com/content?id=file_00000000fcb4720ca56d2ab5ac6ac7b8&cdn=1&cp=pi&ma=31795200&ts=0&p=pi&cid=1&sig=066aff3768bbf36fa211ac7adf2e11a4acf9269da0740a5723a19646224ff749&v=0)Hex Find the churn dashboard in our workspace and summarize what changed in the last month with key charts.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Hex+Find+the+churn+dashboard+in+our+workspace+and+summarize+what+changed+in+the+last+month+with+key+charts.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Hex+Find+the+churn+dashboard+in+our+workspace+and+summarize+what+changed+in+the+last+month+with+key+charts.>)
 
   * ### Start new analyses and visuals
 
-Request new analyses or visualizations to generate queries and charts in a thread, then iterate using follow-up questions.
-
 ![](https://files.openai.com/content?id=file_00000000fcb4720ca56d2ab5ac6ac7b8&cdn=1&cp=pi&ma=31795200&ts=0&p=pi&cid=1&sig=066aff3768bbf36fa211ac7adf2e11a4acf9269da0740a5723a19646224ff749&v=0)Hex Start a new cohort retention analysis for new users in Q4 and produce a simple chart plus interpretation.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Hex+Start+a+new+cohort+retention+analysis+for+new+users+in+Q4+and+produce+a+simple+chart+plus+interpretation.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Hex+Start+a+new+cohort+retention+analysis+for+new+users+in+Q4+and+produce+a+simple+chart+plus+interpretation.>)
 
 
 
@@ -171,6 +165,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)

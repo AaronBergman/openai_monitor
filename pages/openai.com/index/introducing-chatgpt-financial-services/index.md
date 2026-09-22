@@ -174,7 +174,7 @@ Braden Dennis, CEO, Fiscal.ai
 
 
 
-![group of partner logos](https://images.ctfassets.net/kftzwdyauwt9/2gpPgIfp7FlucHuTAY5flg/38aae4eab0af25e83d88227931b9b071/OAI_Finances_4_16x9-_SEO__1_.png?w=3840&q=90&fm=webp)
+![group of partner logos](https://images.ctfassets.net/kftzwdyauwt9/4tSOTqM18xtreyDHtHe4dX/f19f5d6fefa4ab7c8e62cb66707097d7/OAI_Finances_4_16x9-_SEO__4_.png?w=3840&q=90&fm=webp)
 
 ###   
   
@@ -340,6 +340,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)

@@ -133,8 +133,11 @@ With this foundation of security and governance in place, Codex adoption is movi
 Codex adoption at NTT DATA Group has moved beyond experimentation and is already delivering tangible results across the organization.
 
   * Completed in 30 minutes a complex incident analysis that previously took five experienced engineers three days
+
   * Increased weekly active Codex users by 1.4 times after publishing a usage guide and conducting hands on training
+
   * Automated internal system operations using Playwright, reducing time spent on routine daily tasks, and enabled organization-wide adoption by packaging the automation as Skills
+
 
 
 
@@ -143,10 +146,15 @@ Codex adoption at NTT DATA Group has moved beyond experimentation and is already
 NTT DATA Group’s experience highlights five lessons for embedding Codex across an organization.
 
   * Make ChatGPT Enterprise part of daily work and help employees build the habits needed to collaborate with AI
+
   * Deploy ChatGPT Enterprise broadly to create network effects through peer learning and word of mouth
+
   * Create an environment where employees can use AI safely with appropriate security and privacy protections
+
   * Treat deployment as the beginning, then continuously improve adoption programs using usage data, surveys, and employee interviews
+
   * Have the CoE identify and generalize high impact use cases, then share them as reusable best practices with appropriate safeguards
+
 
 
 
@@ -168,17 +176,17 @@ More than 1 million businesses around the world are achieving meaningful results
 
 ## Keep reading
 
-![Fyxer customer story 1x1 image](https://images.ctfassets.net/kftzwdyauwt9/7LbXXCnX1NLyS1i8mHGF1i/d75fdf2bf63cf463ce2e72915a783757/oai_Fyxer_1x1.png?w=3840&q=90&fm=webp)
+![Advisory Group on Mathematics and Artificial Intelligence — cover](https://images.ctfassets.net/kftzwdyauwt9/7I8A6x8LfZld8C8IZUbZmi/6c9da8e137ce049fb07e486958636739/advisory-group-on-mathematics-and-artificial-intelligence-cover.png?w=3840&q=90&fm=webp)
 
-[How Fyxer built an AI executive assistant people trustStartupSep 14, 2026](</index/fyxer/>)
+[Advisory group on mathematics and artificial intelligenceCompanySep 21, 2026](</index/advisory-group-on-mathematics-and-ai/>)
 
-![deployco seo image](https://images.ctfassets.net/kftzwdyauwt9/6pnntrVmfPSqsFYG5YlAvy/c69de8f9d518accd55c417898a20322e/og-seo.png?w=3840&q=90&fm=webp)
+![Higgsfield AI customer story art card](https://images.ctfassets.net/kftzwdyauwt9/7A0WMEXBwLKT6RUmIz7pfX/c764d19c42285ef2628de699c0820571/square.png?w=3840&q=90&fm=webp)
 
-[Monitoring trade-off impacts when building AI productsSep 14, 2026](</deployco/news/monitoring-trade-off-impacts-when-building-ai-products/>)
+[Higgsfield AI ships new video features in a day with GPT-6 AstraStartupSep 21, 2026](</index/higgsfield-from-prompt-to-production-with-astra/>)
 
-![Perplexity customer story art card](https://images.ctfassets.net/kftzwdyauwt9/wGvW7AaxivnlRvLvZU7CE/146fd791b18b52b67dbb0a3692357a72/square.png?w=3840&q=90&fm=webp)
+![Building shared standards for the next phase of AI - art card](https://images.ctfassets.net/kftzwdyauwt9/aQqo6ytHD8RKLFOAPu3vC/c7189f6ec0853600e0e7110885d03541/building-shared-standards-next-phase-ai-cover.png?w=3840&q=90&fm=webp)
 
-[Perplexity trusts GPT-6 Astra with end-to-end systemsSep 14, 2026](</index/perplexity-improving-accuracy-with-astra/>)
+[Building standards for the next phase of AIGlobal AffairsSep 21, 2026](</index/building-standards-next-phase-ai/>)
 
 Research
 
@@ -230,6 +238,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)

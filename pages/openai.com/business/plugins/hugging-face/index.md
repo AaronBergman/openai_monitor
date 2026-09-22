@@ -34,7 +34,7 @@ OpenAI
 
 Inspect models, datasets, Spaces, and research.
 
-[Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6939e86417648191b7bda087d872685b>)[Contact sales](</contact-sales/>)
+[Install plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6939e86417648191b7bda087d872685b>)[Contact sales](</contact-sales/>)
 
 Capabilities
     Interactive, Read, Write
@@ -54,31 +54,25 @@ Website
 
 Connect to the Hugging Face Hub in ChatGPT to explore models, datasets, and metadata and inspect options without manual browsing.
 
-## Common use cases
+## What else can you do?
 
   * ### Browse models and datasets
 
-Explore models and datasets from the Hugging Face Hub and view associated metadata and documentation.
-
 ![](https://files.openai.com/content?id=file_00000000390071f5999f6ff280280bb2&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=1&sig=23ea5ce3fba873e6dceee772ffa0d271901552b5863dbd888f9b75f04db06500&v=0)Hugging Face I need a model for multilingual semantic search. Compare the top candidates and recommend one with tradeoffs.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Hugging+Face+I+need+a+model+for+multilingual+semantic+search.+Compare+the+top+candidates+and+recommend+one+with+tradeoffs.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Hugging+Face+I+need+a+model+for+multilingual+semantic+search.+Compare+the+top+candidates+and+recommend+one+with+tradeoffs.>)
 
   * ### Inspect available options
 
-Inspect model and dataset details such as descriptions, associated datasets, and listed attributes to understand what’s available.
-
 ![](https://files.openai.com/content?id=file_00000000390071f5999f6ff280280bb2&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=1&sig=23ea5ce3fba873e6dceee772ffa0d271901552b5863dbd888f9b75f04db06500&v=0)Hugging Face Shortlist 5 text classification models that work well on medical notes and note any PHI considerations.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Hugging+Face+Shortlist+5+text+classification+models+that+work+well+on+medical+notes+and+note+any+PHI+considerations.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Hugging+Face+Shortlist+5+text+classification+models+that+work+well+on+medical+notes+and+note+any+PHI+considerations.>)
 
   * ### Explore Spaces and research
 
-Explore Hugging Face Spaces, research references, and related resources to see available tools and applications.
-
 ![](https://files.openai.com/content?id=file_00000000390071f5999f6ff280280bb2&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=1&sig=23ea5ce3fba873e6dceee772ffa0d271901552b5863dbd888f9b75f04db06500&v=0)Hugging Face Find Spaces and research references for document question answering, and summarize which tools our team could evaluate.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Hugging+Face+Find+Spaces+and+research+references+for+document+question+answering%2C+and+summarize+which+tools+our+team+could+evaluate.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Hugging+Face+Find+Spaces+and+research+references+for+document+question+answering%2C+and+summarize+which+tools+our+team+could+evaluate.>)
 
 
 
@@ -179,6 +173,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)

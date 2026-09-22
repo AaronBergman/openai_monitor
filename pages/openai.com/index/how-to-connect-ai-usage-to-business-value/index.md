@@ -185,7 +185,7 @@ From shipping software to running live events, customers are putting AI to work 
 
 ## How to get started 
 
-Open **Insights** in the Admin Console and choose a common task that supports a business priority. Review it with a business owner, agree on a baseline and the outcome to measure, and set a date to review progress. Use the results to decide whether to expand the workflow, improve how teams use it, or test a different approach. [_Learn more_ ⁠(opens in a new window)](<http://learn.chatgpt.com/docs/enterprise/work-codex-analytics>) in our docs. 
+Open **Insights** in the Admin Console and choose a common task that supports a business priority. Review it with a business owner, agree on a baseline and the outcome to measure, and set a date to review progress. Use the results to decide whether to expand the workflow, improve how teams use it, or test a different approach. [_Learn more_ ⁠(opens in a new window)](< https://learn.chatgpt.com/docs/enterprise/usage-insights>) in our docs. 
 
 **Data privacy.** [_We don’t train our models on your organization’s business data by default._](</enterprise-privacy/>)
 
@@ -263,6 +263,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)

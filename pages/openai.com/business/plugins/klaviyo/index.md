@@ -34,7 +34,7 @@ OpenAI
 
 Use the Klaviyo plugin to review campaign and flow performance, compare marketing results over time, and summarize supported marketing data.
 
-[Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_694421e60cc88191a1e5bb4aa79950e4>)[Contact sales](</contact-sales/>)
+[Install plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_694421e60cc88191a1e5bb4aa79950e4>)[Contact sales](</contact-sales/>)
 
 Category
     [Productivity](</business/plugins/?tab=plugins-productivity>)
@@ -45,37 +45,31 @@ Developer
 Website
     [(opens in a new window)](<https://www.klaviyo.com/>)
 
-[![](https://files.openai.com/content?id=file_000000001c74722fbf559d66b947677a&cdn=1&cp=pi&ma=30758400&ts=0&p=pi&cid=1&sig=c3949f45a99526b86e23253607118e8e4a255ccfa0d5b10d2a7e57c92d57e295&v=0)![](https://files.openai.com/content?id=file_0000000058f881f79ad4d119015bfa7c&cdn=1&cp=pi&ma=32659200&ts=0&p=pi&cid=8&sig=7ad389ade1c1fb108f1aa27b3c107e33432079c726d59206f69159c7d103502d&v=0)Klaviyo Analyze my replenishment flow and make recommendations for improvements.(opens in a new window)](<https://chatgpt.com/?prompt=%40Klaviyo+Analyze+my+replenishment+flow+and+make+recommendations+for+improvements.>)[![](https://files.openai.com/content?id=file_000000001c74722fbf559d66b947677a&cdn=1&cp=pi&ma=30758400&ts=0&p=pi&cid=1&sig=c3949f45a99526b86e23253607118e8e4a255ccfa0d5b10d2a7e57c92d57e295&v=0)![](https://files.openai.com/content?id=file_0000000058f881f79ad4d119015bfa7c&cdn=1&cp=pi&ma=32659200&ts=0&p=pi&cid=8&sig=7ad389ade1c1fb108f1aa27b3c107e33432079c726d59206f69159c7d103502d&v=0)Klaviyo Deep dive report on customer winback, outline what is working well and what needs my attention and why.(opens in a new window)](<https://chatgpt.com/?prompt=%40Klaviyo+Deep+dive+report+on+customer+winback%2C+outline+what+is+working+well+and+what+needs+my+attention+and+why.>)[![](https://files.openai.com/content?id=file_000000001c74722fbf559d66b947677a&cdn=1&cp=pi&ma=30758400&ts=0&p=pi&cid=1&sig=c3949f45a99526b86e23253607118e8e4a255ccfa0d5b10d2a7e57c92d57e295&v=0)![](https://files.openai.com/content?id=file_0000000058f881f79ad4d119015bfa7c&cdn=1&cp=pi&ma=32659200&ts=0&p=pi&cid=8&sig=7ad389ade1c1fb108f1aa27b3c107e33432079c726d59206f69159c7d103502d&v=0)Klaviyo Give me a campaign performance report for last week [add dates] across all of my campaigns; overall metrics and per campaign.(opens in a new window)](<https://chatgpt.com/?prompt=%40Klaviyo+Give+me+a+campaign+performance+report+for+last+week+%5Badd+dates%5D+across+all+of+my+campaigns%3B+overall+metrics+and+per+campaign.>)
+[![](https://files.openai.com/content?id=file_000000001c74722fbf559d66b947677a&cdn=1&cp=pi&ma=30758400&ts=0&p=pi&cid=1&sig=c3949f45a99526b86e23253607118e8e4a255ccfa0d5b10d2a7e57c92d57e295&v=0)![](https://files.openai.com/content?id=file_0000000058f881f79ad4d119015bfa7c&cdn=1&cp=pi&ma=32659200&ts=0&p=pi&cid=8&sig=7ad389ade1c1fb108f1aa27b3c107e33432079c726d59206f69159c7d103502d&v=0)Klaviyo Analyze my replenishment flow and make recommendations for improvements.(opens in a new window)](<https://chatgpt.com/?prompt=%40Klaviyo+Analyze+my+replenishment+flow+and+make+recommendations+for+improvements.>)
 
 ## How it works
 
 View email and SMS campaign and flow performance from Klaviyo in ChatGPT, with metrics tables and plain-language summaries to understand recent and past results.
 
-## Common use cases
+## What else can you do?
 
   * ### View campaign and flow performance
 
-View email and SMS campaign and flow metrics such as sends, open rate, click rate, conversion rate, and attributed revenue using Klaviyo reporting data.
-
 ![](https://files.openai.com/content?id=file_000000001c74722fbf559d66b947677a&cdn=1&cp=pi&ma=30758400&ts=0&p=pi&cid=1&sig=c3949f45a99526b86e23253607118e8e4a255ccfa0d5b10d2a7e57c92d57e295&v=0)![](https://files.openai.com/content?id=file_0000000058f881f79ad4d119015bfa7c&cdn=1&cp=pi&ma=32659200&ts=0&p=pi&cid=8&sig=7ad389ade1c1fb108f1aa27b3c107e33432079c726d59206f69159c7d103502d&v=0)Klaviyo Give me a campaign performance report for last week [add dates] across all of my campaigns; overall metrics and per campaign.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Klaviyo+Give+me+a+campaign+performance+report+for+last+week+%5Badd+dates%5D+across+all+of+my+campaigns%3B+overall+metrics+and+per+campaign.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Klaviyo+Give+me+a+campaign+performance+report+for+last+week+%5Badd+dates%5D+across+all+of+my+campaigns%3B+overall+metrics+and+per+campaign.>)
 
   * ### Compare performance over time
 
-Review campaign and flow performance with comparisons to past results to understand changes in engagement and outcomes.
-
 ![](https://files.openai.com/content?id=file_000000001c74722fbf559d66b947677a&cdn=1&cp=pi&ma=30758400&ts=0&p=pi&cid=1&sig=c3949f45a99526b86e23253607118e8e4a255ccfa0d5b10d2a7e57c92d57e295&v=0)![](https://files.openai.com/content?id=file_0000000058f881f79ad4d119015bfa7c&cdn=1&cp=pi&ma=32659200&ts=0&p=pi&cid=8&sig=7ad389ade1c1fb108f1aa27b3c107e33432079c726d59206f69159c7d103502d&v=0)Klaviyo Compare email and SMS campaigns for the last 30 days with the previous 30 days. Separate results by channel and show available engagement metrics, conversion rates, and attributed revenue.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Klaviyo+Compare+email+and+SMS+campaigns+for+the+last+30+days+with+the+previous+30+days.+Separate+results+by+channel+and+show+available+engagement+metrics%2C+conversion+rates%2C+and+attributed+revenue.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Klaviyo+Compare+email+and+SMS+campaigns+for+the+last+30+days+with+the+previous+30+days.+Separate+results+by+channel+and+show+available+engagement+metrics%2C+conversion+rates%2C+and+attributed+revenue.>)
 
   * ### Summarize marketing results
 
-Receive plain-language summaries and detailed readouts of campaign or flow performance to stay informed without manual reporting.
-
 ![](https://files.openai.com/content?id=file_000000001c74722fbf559d66b947677a&cdn=1&cp=pi&ma=30758400&ts=0&p=pi&cid=1&sig=c3949f45a99526b86e23253607118e8e4a255ccfa0d5b10d2a7e57c92d57e295&v=0)![](https://files.openai.com/content?id=file_0000000058f881f79ad4d119015bfa7c&cdn=1&cp=pi&ma=32659200&ts=0&p=pi&cid=8&sig=7ad389ade1c1fb108f1aa27b3c107e33432079c726d59206f69159c7d103502d&v=0)Klaviyo Summarize email and SMS performance for the last 30 days and call out the biggest wins and misses.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Klaviyo+Summarize+email+and+SMS+performance+for+the+last+30+days+and+call+out+the+biggest+wins+and+misses.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Klaviyo+Summarize+email+and+SMS+performance+for+the+last+30+days+and+call+out+the+biggest+wins+and+misses.>)
 
 
 
@@ -162,6 +156,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)

@@ -73,9 +73,13 @@ What large firms achieve through specialized staff, Steuerrecht.com now does wit
 With ChatGPT Business, the firm has effectively built its own set of “virtual departments”:
 
   * Marketing: With ChatGPT, Korts says, “We set up a dedicated blog on tax criminal law, updated weekly. It’s now so comprehensive that we don’t miss a single court decision we’d otherwise have to research manually.” They also leverage AI for social media: “Through LinkedIn we’ve positioned ourselves prominently, even transforming photos into animations that draw attention.”
+
   * Contracts: Routine agreements that once took hours now take minutes. “We can generate standardized but still customized contracts—like a CEO employment contract or the formation of a small limited company—by drawing on automated templates,” Korts says, noting that they use custom GPTs for this purpose. “It’s the most boring work, but it still demands individualization. Now we can finish it in a few minutes.”
+
   * Research & publications: The firm also uses AI to strengthen its professional voice. “When we write an article, we’ll input our position and then ask ChatGPT for the counter-arguments,” Korts explains. “The interplay gives us a much higher-quality debate than we could produce on our own.”
+
   * Knowledge management: By connecting their internal data to ChatGPT, “we’ve built a portfolio of text modules and contract templates we can access instantly,” Korts says.
+
 
 
 
@@ -90,8 +94,11 @@ With ChatGPT Business, the firm has effectively built its own set of “virtual 
 These virtual departments have reshaped the firm’s core legal workflows. What used to consume days of manual effort is now completed in hours, or even minutes:
 
   * Researching legal requirements for supervisory board meetings of joint-stock companies now takes minutes instead of three to four hours.
+
   * Drafting court submissions against tax authorities, once a full day of extracting arguments and preparing counterpoints, is often reduced to ten minutes before a final legal review.
+
   * Responding to lengthy filings from the tax office used to take up to three days, but now can be done in a few hours, giving lawyers back critical time for strategy and client relationships.
+
 
 
 
@@ -120,10 +127,15 @@ Adoption, meanwhile, was deliberate and firm-wide. The team held morning session
 ## Results at a glance
 
   * Legal research and drafting reduced from days to hours or minutes
+
   * Up to 10 hours of work saved per week per lawyer
+
   * Routine contracts generated in minutes instead of hours
+
   * Faster, clearer communication across languages and audiences
+
   * Increased capacity for client acquisition and complex cases
+
 
 
 
@@ -145,17 +157,17 @@ More than 1 million businesses around the world are achieving meaningful results
 
 ## Keep reading
 
-![How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules — card image](https://images.ctfassets.net/kftzwdyauwt9/5UARNm4AwJ9OfXCIzHZgLF/c05ef4322030e9552dfe2458d34ceaed/index-codex-chatgpt-antimicrobials--cover-v001.png?w=3840&q=90&fm=webp)
+![Advisory Group on Mathematics and Artificial Intelligence — cover](https://images.ctfassets.net/kftzwdyauwt9/7I8A6x8LfZld8C8IZUbZmi/6c9da8e137ce049fb07e486958636739/advisory-group-on-mathematics-and-artificial-intelligence-cover.png?w=3840&q=90&fm=webp)
 
-[How a researcher uses Codex and ChatGPT to search for new antimicrobial moleculesApplied AISep 10, 2026](</index/using-codex-chatgpt-to-search-for-new-antimicrobials/>)
+[Advisory group on mathematics and artificial intelligenceCompanySep 21, 2026](</index/advisory-group-on-mathematics-and-ai/>)
 
-![Now everyone can put data to work — card image](https://images.ctfassets.net/kftzwdyauwt9/6FhMXOSe8XadGwEUev6QjJ/916a64d20bcc59b8619fea1827fa6bd3/put-data-to-work--cover-v001.png?w=3840&q=90&fm=webp)
+![Higgsfield AI customer story art card](https://images.ctfassets.net/kftzwdyauwt9/7A0WMEXBwLKT6RUmIz7pfX/c764d19c42285ef2628de699c0820571/square.png?w=3840&q=90&fm=webp)
 
-[Now everyone can put data to workProductSep 10, 2026](</index/put-data-to-work/>)
+[Higgsfield AI ships new video features in a day with GPT-6 AstraStartupSep 21, 2026](</index/higgsfield-from-prompt-to-production-with-astra/>)
 
-![FinServ Blog - Art Card Texture Square](https://images.ctfassets.net/kftzwdyauwt9/6Bcg403pebiJhQdHUS17FK/572e478dc4579deca27c9700c662e908/finserv-art-card.png?w=3840&q=90&fm=webp)
+![Building shared standards for the next phase of AI - art card](https://images.ctfassets.net/kftzwdyauwt9/aQqo6ytHD8RKLFOAPu3vC/c7189f6ec0853600e0e7110885d03541/building-shared-standards-next-phase-ai-cover.png?w=3840&q=90&fm=webp)
 
-[Introducing ChatGPT for Financial ServicesProductSep 10, 2026](</index/introducing-chatgpt-financial-services/>)
+[Building standards for the next phase of AIGlobal AffairsSep 21, 2026](</index/building-standards-next-phase-ai/>)
 
 Research
 
@@ -207,6 +219,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)

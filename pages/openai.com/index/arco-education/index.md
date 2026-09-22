@@ -67,8 +67,11 @@ Active in over 11,000 schools across all 27 Brazilian states, Arco’s trusted n
 After evaluating various generative AI models, Arco chose OpenAI for three key reasons:
 
   1. **Superior performance in Brazilian Portuguese:** Arco’s data science team conducted rigorous experiments and found that GPT‑4 achieved a 90% accuracy rate in creating and assessing pedagogical content in Portuguese, compared to 73% from the next-best model.
+
   2. **Quality & reliability**: In tests where Arco’s pedagogical team evaluated generated questions, GPT‑4 had a 70% approval rate, significantly higher than the 56% approval rate of the second-place model. Arco was also able to take advantage of fine-tuning with GPT‑4 to iteratively improve on quality. 
+
   3. **Cost efficiency** : Arco employs a mix of OpenAI models to balance cost and performance. By fine-tuning lighter models like GPT‑4o mini and GPT‑3.5, Arco maintains high-quality results while managing costs.
+
 
 
 
@@ -118,6 +121,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
@@ -157,6 +161,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)

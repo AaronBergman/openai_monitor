@@ -85,37 +85,19 @@ IndQA uses a rubric-based approach. Each response is graded against criteria wri
 ## How we built IndQA
 
   * **Expert‑authored questions.** We worked with partners to find experts in India across 10 different domains. They drafted difficult, reasoning‑focused prompts tied to their regions and specialties. These experts are native‑level speakers of the relevant language (and English) and bring deep subject expertise.
+
   * **Adversarial filtering:** Each question was tested against OpenAI’s strongest models at the time of their creation: GPT‑4o, OpenAI o3, GPT‑4.5, and (partially, post public launch) GPT‑5. We kept only those questions where a majority of these models failed to produce acceptable answers, preserving headroom for progress
+
   * **Detailed Criteria.** Along with every question, domain experts provided criteria used to grade the model response, similar to an exam rubric for an essay question. These criteria are used to grade responses from candidate models.
+
   * **Ideal answers + review.** Experts added ideal answers and English translations, followed by peer review and iterative fixes until sign‑off.
+
 
 
 
 ## Example questions
 
 BengaliGujaratiHindiHinglishKannadaMalayalamMarathiOdiaPunjabiTamilTelugu
-
-## Language: Bengali
-
-## Domain: Literature and linguistics
-
-**Prompt**
-
-‘দণ্ডক থেকে মরিচঝাঁপি’ উপন্যাসের লেখক নিম্নবর্ণের পুরুষ ও নারীদের দণ্ডকারন্যে পুনর্বাসন পরবর্তী জীবন কিভাবে দেখিয়েছেন? দণ্ডকারণ্যে পুনর্বাসন কি সরকারী উদাসীনতার ফল? পরিবর্তিত প্রাকৃতিক পরিবেশের সাথে উদ্বাস্তুরা কিভাবে মানিয়ে নিয়েছিল?
-
-**English Translation**
-
-How did the writer of Bengali novel ‘Dandak Theke Marichjhanpi’ depict the post-rehabilitation lives of lower caste men and women? Was the rehabilitation in Dandakaranya a result of governmental indifference? What was its relation with the new natural landscapes?
-
-## Domain: Food and cuisine
-
-**Prompt**
-
-কোন পরিপ্রেক্ষিতে উনিশ শতকের শেষ দিক থেকে রান্নার বইগুলো বেরচ্ছিল ? প্রথম বাংলা রান্নার বইটির সাথে বিপ্রদাস মুখোপাধ্যায় রচিত বইটির পার্থক্য কোথায় ? বিপ্রদাসের উদ্যোগে প্রকাশিত পত্রিকাটি চলেছিল কতদিন ? বিপ্রদাস ও প্রজ্ঞা সুন্দরীর লেখা অনুসরণ করে দিঘাপতিয়া থেকে কোন বইটি বেরিয়েছিল ?
-
-**English Translation**
-
-In what context were cookbooks published from the end of the 19th century? What is the difference between the first Bengali cookbook and the book written by Bipradas Mukherjee? How long did the magazine published by Bipradas run? Which book was published by Dighapatiya following the writings of Bipradas and Pragya Sundari?
 
 ## Improvements over time
 
@@ -134,15 +116,25 @@ Additionally, because questions were filtered to those GPT‑4o, OpenAI o3, GPT�
 We’re grateful to the **261** Indian experts—journalists, linguists, scholars, artists, and industry practitioners—who authored and reviewed questions for IndQA. A few examples of the experts we worked with includes:
 
   * A Nandi Award winning Telugu actor and screenwriter with over 750 films
+
   * A Marathi journalist and editor at Tarun Bharat 
+
   * A scholar of Kannada linguistics and dictionary editor
+
   * An International Chess Grandmaster who coaches top-100 chess players
+
   * A Tamil writer, poet, and cultural activist advocating for social justice, caste equity, and literary freedom
+
   * An award winning Punjabi music composer
+
   * A Gujarati heritage curator and conservation specialist
+
   * An award winning Malayalam poet and performance artist
+
   * A professor of history, specializing in Bengal's rich cultural heritage
+
   * A professor of architecture, focusing on Odishan temples
+
 
 
 
@@ -164,17 +156,17 @@ OpenAI
 
 [View all](</news/>)
 
-![ARC-AGI-3 art-card 1x1](https://images.ctfassets.net/kftzwdyauwt9/71xyJRWnTkM6EW1JKDUc59/91d2690ff9e7abaa975b4a5f64089056/ARC-AGI-3_art-card_1x1.png?w=3840&q=90&fm=webp)
+![Our framework for reporting model misalignment — card image](https://images.ctfassets.net/kftzwdyauwt9/3mJz9GkBOjZvAMYPx8M1dj/2a9ac4b7e18b1c08feef5368c4fde2e2/model-misalignment-reporting-framework--cover-v002.png?w=3840&q=90&fm=webp)
 
-[How enabling two settings tripled our scores on the ARC-AGI-3 benchmarkResearchJul 29, 2026](</index/how-two-settings-tripled-our-arc-agi-3-scores/>)
+[Our framework for reporting model misalignmentResearchSep 16, 2026](</index/model-misalignment-reporting-framework/>)
 
-![oai Science Academic Research Academic Research 1x1](https://images.ctfassets.net/kftzwdyauwt9/59kTmFmujYzNh0VgSvCgwe/e9334dd9944b5309f8ca2d44fdc71b6f/academic-research-card.png?w=3840&q=90&fm=webp)
+![GPT-Live-1 API | Green-blue cover | Option 038](https://images.ctfassets.net/kftzwdyauwt9/1uBabEULLfw3Vb2Gldmyyq/c19c1c121ca403ee8b2703cba18ef82d/introducing-gpt-live-1-green-cover.png?w=3840&q=90&fm=webp)
 
-[Accelerating scientific discovery with ChatGPT for Academic ResearchersCompanyJul 29, 2026](</index/chatgpt-for-academic-researchers/>)
+[Build more natural voice experiences with GPT‑Live‑1 in the APIProductSep 10, 2026](</index/introducing-gpt-live-1-in-the-api/>)
 
-![Scientific computing agentic AI card image \(1x1\)](https://images.ctfassets.net/kftzwdyauwt9/5opqp3rNWM7eax6GUc6MAl/1c710a4aba8c5c1e0b7d1c1c7c8b32db/1x1__1_.png?w=3840&q=90&fm=webp)
+![Navier–Stokes solution — art card](https://images.ctfassets.net/kftzwdyauwt9/2VUQZfeF2GtKRitKYdkoLu/cc96d05424afb2c9adcca0734ecdafb1/navier-stokes-art-card.png?w=3840&q=90&fm=webp)
 
-[Scientific computing in the age of agentic AIPublicationJul 28, 2026](</index/scientific-computing-agentic-ai/>)
+[An OpenAI model proposes a solution to the Navier–Stokes problemResearchSep 8, 2026](</index/navier-stokes-solution/>)
 
 Research
 
@@ -186,6 +178,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
@@ -225,6 +218,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -280,3 +274,25 @@ Terms & Policies
 OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
+
+## Language: Bengali
+
+## Domain: Literature and linguistics
+
+**Prompt**
+
+‘দণ্ডক থেকে মরিচঝাঁপি’ উপন্যাসের লেখক নিম্নবর্ণের পুরুষ ও নারীদের দণ্ডকারন্যে পুনর্বাসন পরবর্তী জীবন কিভাবে দেখিয়েছেন? দণ্ডকারণ্যে পুনর্বাসন কি সরকারী উদাসীনতার ফল? পরিবর্তিত প্রাকৃতিক পরিবেশের সাথে উদ্বাস্তুরা কিভাবে মানিয়ে নিয়েছিল?
+
+**English Translation**
+
+How did the writer of Bengali novel ‘Dandak Theke Marichjhanpi’ depict the post-rehabilitation lives of lower caste men and women? Was the rehabilitation in Dandakaranya a result of governmental indifference? What was its relation with the new natural landscapes?
+
+## Domain: Food and cuisine
+
+**Prompt**
+
+কোন পরিপ্রেক্ষিতে উনিশ শতকের শেষ দিক থেকে রান্নার বইগুলো বেরচ্ছিল ? প্রথম বাংলা রান্নার বইটির সাথে বিপ্রদাস মুখোপাধ্যায় রচিত বইটির পার্থক্য কোথায় ? বিপ্রদাসের উদ্যোগে প্রকাশিত পত্রিকাটি চলেছিল কতদিন ? বিপ্রদাস ও প্রজ্ঞা সুন্দরীর লেখা অনুসরণ করে দিঘাপতিয়া থেকে কোন বইটি বেরিয়েছিল ?
+
+**English Translation**
+
+In what context were cookbooks published from the end of the 19th century? What is the difference between the first Bengali cookbook and the book written by Bipradas Mukherjee? How long did the magazine published by Bipradas run? Which book was published by Dighapatiya following the writings of Bipradas and Pragya Sundari?

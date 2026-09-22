@@ -73,8 +73,11 @@ We wanted to move from transactional responses to empathetic conversations, whic
 Cleo handles three common query types
 
   * Informational: “What is CRED Cash?”
+
   * Contextual: “Am I eligible for CRED Cash?”
+
   * Transactional: “Can I refund to my wallet or original payment method?”
+
 
 
 
@@ -184,6 +187,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
