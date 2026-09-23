@@ -34,7 +34,7 @@ OpenAI
 
 Find and reference issues and projects.
 
-[Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69a089a326dc8191b32a3f2553f5be2c>)[Contact sales](</contact-sales/>)
+[Install plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69a089a326dc8191b32a3f2553f5be2c>)[Contact sales](</contact-sales/>)
 
 Category
     [Productivity](</business/plugins/?tab=plugins-productivity>)
@@ -51,31 +51,25 @@ Website
 
 Use your Linear issues and comments to create clear status updates, identify themes in recent work, or understand progress on a feature. Attachments aren’t included.
 
-## Common use cases
+## What else can you do?
 
   * ### Generate accurate status updates fast
 
-Turn completed work, open items, and comments into a weekly update with shipped work, blockers, and next steps, reducing manual status writing and keeping stakeholders aligned.
-
 ![](https://files.openai.com/content?id=file_00000000dd2471f5acf570db7e33cb9f&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=1&sig=8d5055624cac6210281eefc6dd8fe06a80b7732442bd79feb9753c79a8d97338&v=0)Linear Create a weekly update from recent issues including what shipped, what's in progress, what's blocked, and what needs a decision.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Linear+Create+a+weekly+update+from+recent+issues+including+what+shipped%2C+what%27s+in+progress%2C+what%27s+blocked%2C+and+what+needs+a+decision.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Linear+Create+a+weekly+update+from+recent+issues+including+what+shipped%2C+what%27s+in+progress%2C+what%27s+blocked%2C+and+what+needs+a+decision.>)
 
   * ### Triage bugs and unblock delivery
 
-Ask for unresolved bugs by area or label, summarize what’s stuck and why, and draft a clear plan with owners and deadlines to reduce cycle time and avoid late-stage blockers.
-
 ![](https://files.openai.com/content?id=file_00000000dd2471f5acf570db7e33cb9f&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=1&sig=8d5055624cac6210281eefc6dd8fe06a80b7732442bd79feb9753c79a8d97338&v=0)Linear Triage or update relevant issues for this task with clear next actions
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Linear+Triage+or+update+relevant+issues+for+this+task+with+clear+next+actions>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Linear+Triage+or+update+relevant+issues+for+this+task+with+clear+next+actions>)
 
   * ### Improve onboarding and technical clarity
 
-Ask how a feature is tracking, what was decided, and what is still open, and get a concise brief from issues and comments so new team members can ramp faster with fewer interruptions.
-
 ![](https://files.openai.com/content?id=file_00000000dd2471f5acf570db7e33cb9f&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=1&sig=8d5055624cac6210281eefc6dd8fe06a80b7732442bd79feb9753c79a8d97338&v=0)Linear I just joined the team. Give me the current state of the [project] including decisions made, open questions, and where to start reading.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Linear+I+just+joined+the+team.+Give+me+the+current+state+of+the+%5Bproject%5D+including+decisions+made%2C+open+questions%2C+and+where+to+start+reading.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Linear+I+just+joined+the+team.+Give+me+the+current+state+of+the+%5Bproject%5D+including+decisions+made%2C+open+questions%2C+and+where+to+start+reading.>)
 
 
 
@@ -96,7 +90,7 @@ Ask how a feature is tracking, what was decided, and what is still open, and get
 
 ### [Privacy policyLearn more](<https://linear.app/privacy>)
 
-## Add plugins in a few clicks
+## Add the Linear plugin in a few clicks
 
 Availability depends on the plugin, your plan, and workspace settings. Some connections require admin setup or approval. Contact your workspace admin if access is blocked.
 
@@ -162,6 +156,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -218,7 +213,7 @@ OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
 
-### 1Find a plugin1Find a plugin
+### 1Find the Linear plugin1Find the Linear plugin
 
 Browse for plugins that support your team’s tools and tasks.
 

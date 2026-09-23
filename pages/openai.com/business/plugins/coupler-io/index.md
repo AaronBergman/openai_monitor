@@ -90,7 +90,7 @@ Analyze multi-channel marketing, financial, sales, e-commerce, and other busines
 
 ### [Privacy policyLearn more](<https://www.coupler.io/privacy-policy>)
 
-## Add plugins in a few clicks
+## Add the Coupler.io plugin in a few clicks
 
 Availability depends on the plugin, your plan, and workspace settings. Some connections require admin setup or approval. Contact your workspace admin if access is blocked.
 
@@ -213,7 +213,7 @@ OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
 
-### 1Find a plugin1Find a plugin
+### 1Find the Coupler.io plugin1Find the Coupler.io plugin
 
 Browse for plugins that support your team’s tools and tasks.
 

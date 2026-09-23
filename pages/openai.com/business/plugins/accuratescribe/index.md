@@ -90,7 +90,7 @@ AccurateScribe is an AI-powered speech-to-text and transcription app built for m
 
 ### [Privacy policyLearn more](<https://accuratescribe.ai/privacy>)
 
-## Add plugins in a few clicks
+## Add the AccurateScribe.ai – Transcribe plugin in a few clicks
 
 Availability depends on the plugin, your plan, and workspace settings. Some connections require admin setup or approval. Contact your workspace admin if access is blocked.
 
@@ -213,7 +213,7 @@ OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
 
-### 1Find a plugin1Find a plugin
+### 1Find the AccurateScribe.ai – Transcribe plugin1Find the AccurateScribe.ai – Transcribe plugin
 
 Browse for plugins that support your team’s tools and tasks.
 

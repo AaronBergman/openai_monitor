@@ -99,7 +99,7 @@ Build your entire site and buy a domain right from the chat. Just ask Wix for th
 
 ### [Privacy policyLearn more](<https://www.wix.com/about/privacy>)
 
-## Add plugins in a few clicks
+## Add the Wix plugin in a few clicks
 
 Availability depends on the plugin, your plan, and workspace settings. Some connections require admin setup or approval. Contact your workspace admin if access is blocked.
 
@@ -222,7 +222,7 @@ OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
 
-### 1Find a plugin1Find a plugin
+### 1Find the Wix plugin1Find the Wix plugin
 
 Browse for plugins that support your team’s tools and tasks.
 

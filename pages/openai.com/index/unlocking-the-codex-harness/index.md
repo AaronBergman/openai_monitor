@@ -119,8 +119,11 @@ Next, we’ll break down the conversation primitives, the building blocks of the
 **1\. Item:** An item is the atomic unit of input/output in Codex. Items are typed (e.g., user message, agent message, tool execution, approval request, diff) and each has an explicit lifecycle:
 
   * `item/started` when the item begins
+
   * optional `item/*/delta` events as content streams in (for streaming item types)
+
   * `item/completed` when the item finalizes with its terminal payload
+
 
 
 
@@ -429,6 +432,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)

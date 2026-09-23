@@ -90,7 +90,7 @@ Analyze keywords, rankings, traffic trends, backlinks, competitor performance, a
 
 ### [Privacy policyLearn more](<https://ahrefs.com/legal/privacy-policy>)
 
-## Add plugins in a few clicks
+## Add the Ahrefs plugin in a few clicks
 
 Availability depends on the plugin, your plan, and workspace settings. Some connections require admin setup or approval. Contact your workspace admin if access is blocked.
 
@@ -213,7 +213,7 @@ OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
 
-### 1Find a plugin1Find a plugin
+### 1Find the Ahrefs plugin1Find the Ahrefs plugin
 
 Browse for plugins that support your team’s tools and tasks.
 

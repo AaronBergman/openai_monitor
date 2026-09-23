@@ -100,7 +100,7 @@ Build fully functional apps and websites with AI in minutes. No code, just your 
 
 ### [Privacy policyLearn more](<https://base44.com/privacy-policy>)
 
-## Add plugins in a few clicks
+## Add the Base44 plugin in a few clicks
 
 Availability depends on the plugin, your plan, and workspace settings. Some connections require admin setup or approval. Contact your workspace admin if access is blocked.
 
@@ -223,7 +223,7 @@ OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
 
-### 1Find a plugin1Find a plugin
+### 1Find the Base44 plugin1Find the Base44 plugin
 
 Browse for plugins that support your team’s tools and tasks.
 

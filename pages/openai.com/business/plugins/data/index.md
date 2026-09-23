@@ -50,9 +50,9 @@ Website
 
 ## Acme adoption and retention dashboard
 
-Create a dashboard tracking adoption of our product—from installation and first use to ongoing activity and retention. Help us find where customers get stuck.
+![](https://files.openai.com/content?id=file_000000006f4c81f784b61adbf62901e1&cdn=1&cp=pi&ma=30585600&ts=0&p=pi&cid=8&sig=c6e33944a94e14e7fe7121869937bf0d776dc3e571758bb6b505304170dcfbcc&v=0)DataCreate a dashboard tracking adoption of our product—from installation and first use to ongoing activity and retention. Help us find where customers get stuck.
 
-Create a dashboard tracking adoption of our product—from installation and first use to ongoing activity and retention. Help us find where customers get stuck.
+![](https://files.openai.com/content?id=file_000000006f4c81f784b61adbf62901e1&cdn=1&cp=pi&ma=30585600&ts=0&p=pi&cid=8&sig=c6e33944a94e14e7fe7121869937bf0d776dc3e571758bb6b505304170dcfbcc&v=0)DataCreate a dashboard tracking adoption of our product—from installation and first use to ongoing activity and retention. Help us find where customers get stuck.
 
 ## How it works
 
@@ -105,7 +105,7 @@ Use Data Analytics in ChatGPT to investigate metrics, analyze product or busines
 
 ### [Privacy policyLearn more](<https://openai.com/policies/privacy-policy/>)
 
-## Add plugins in a few clicks
+## Add the Data plugin in a few clicks
 
 Availability depends on the plugin, your plan, and workspace settings. Some connections require admin setup or approval. Contact your workspace admin if access is blocked.
 
@@ -228,7 +228,7 @@ OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
 
-### 1Find a plugin1Find a plugin
+### 1Find the Data plugin1Find the Data plugin
 
 Browse for plugins that support your team’s tools and tasks.
 

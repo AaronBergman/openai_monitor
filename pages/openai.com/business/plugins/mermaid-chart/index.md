@@ -90,7 +90,7 @@ Validates Mermaid syntax, renders diagrams as high-quality SVG, and displays the
 
 ### [Privacy policyLearn more](<https://www.mermaidchart.com/privacy-policy>)
 
-## Add plugins in a few clicks
+## Add the Mermaid Chart plugin in a few clicks
 
 Availability depends on the plugin, your plan, and workspace settings. Some connections require admin setup or approval. Contact your workspace admin if access is blocked.
 
@@ -156,6 +156,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -212,7 +213,7 @@ OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
 
-### 1Find a plugin1Find a plugin
+### 1Find the Mermaid Chart plugin1Find the Mermaid Chart plugin
 
 Browse for plugins that support your team’s tools and tasks.
 

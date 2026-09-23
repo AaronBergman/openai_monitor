@@ -102,7 +102,7 @@ Includes the AWS MCP Server configuration and default skills for common AWS work
 
 ### [Privacy policyLearn more](<https://docs.aws.amazon.com/agent-toolkit/latest/userguide/data-protection.html>)
 
-## Add plugins in a few clicks
+## Add the AWS Core plugin in a few clicks
 
 Availability depends on the plugin, your plan, and workspace settings. Some connections require admin setup or approval. Contact your workspace admin if access is blocked.
 
@@ -225,7 +225,7 @@ OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
 
-### 1Find a plugin1Find a plugin
+### 1Find the AWS Core plugin1Find the AWS Core plugin
 
 Browse for plugins that support your team’s tools and tasks.
 

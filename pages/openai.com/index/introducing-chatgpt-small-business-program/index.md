@@ -43,9 +43,13 @@ Small businesses start with people who are exceptional at what they do—a craft
 We’re announcing the launch of our [ChatGPT for small businesses program](</business/why-openai/small-business/>), an initiative to help small businesses be more productive and scale their businesses with ChatGPT. The ChatGPT for small businesses program includes:
 
   * [**Hands on virtual training:** ⁠(opens in a new window)](<https://webinar.openai.com/small-business/>) Product-specific webinars that show how small businesses can use ChatGPT Work in their day-to-day. Attendees will see demos with specific small business use cases, get prompts to try, and learn automations and workflows across accounting, marketing, ecommerce, and more. We will also feature partner webinars and Q&As to have clear takeaways that apply immediately to your business.
+
   * [**In-person small business AI academies** ⁠(opens in a new window)](<https://academy.openai.com/home/clubs/small-business-ipf4m/events>): Meet in person across the US with our OpenAI Academy team. These events bring together local business owners for guided instruction, hands-on exercises, and support from fellow business owners. At our [Small Business AI Jams](</index/small-business-ai-jam/>) last year, 78% of participants built a functional AI workflow in a single day, and 42% saved more than five hours a week with the help of AI, and we’re excited to recreate this success this year.
+
   * **New guides to get started:** New content from [customer stories](</index/small-business-stories/>), to interactive guides you can upload right into ChatGPT Work to start your workflow, to short-form videos you can consume on your own time. These resources have specific prompts and examples of how business owners can get started with ChatGPT Work in minutes.
+
   * **New agents and partners built for small business:** Explore plugins, skills, and special offers from a curated list of partners most useful to small businesses, including Dropbox, Shopify, Intuit, Slack, Atlassian, Wix, and more. The skills are built specifically for common small business workflows, while exclusive promotions make it easier to get started with the tools you already use. These workflows, promos, and partner webinars, will ensure any owner can integrate with their other tools and utilize agents to finish work with accuracy and efficiency.
+
 
 
 
@@ -89,8 +93,11 @@ We recently announced [ChatGPT Work](</index/chatgpt-for-your-most-ambitious-wor
 We’re most excited for small businesses to explore use cases with ChatGPT Work, and let it take on tasks that would have otherwise been outsourced, fallen to the wayside, or handled as one of the many hats an owner has to tackle. Every business works differently whether you’re a design studio, technology startup, or a non-profit, but one thing remains the same—the work needs to get done. Some examples of how busy owners can use ChatGPT Work to:
 
   * **Be more productive** – send a free-flow voice note to ChatGPT Work and it will translate your ideas into a concise Slack note that you can send to multiple channels in one go.
+
   * **Stretch your thinking** – start every week with a Site that updates in real time with market mentions, competitor performance, or product trends you’re interested in. And ask ChatGPT Work to evaluate your current inventory and send ideas for new products or marketing campaigns to boost sales.
+
   * **Improve your services and offerings** – create a project with your locations’ customer reviews and ask ChatGPT Work to help create a training presentation to celebrate wins and find opportunities for improvement.
+
 
 
 
@@ -183,6 +190,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)

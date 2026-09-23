@@ -61,8 +61,11 @@ Zendesk has helped businesses deliver great customer experiences for over a deca
 In early 2023, Zendesk began working closely with OpenAI to explore how AI could reshape service and product development. Today Zendesk is [_piloting a new class of AI agents_ ⁠(opens in a new window)](<https://www.zendesk.com/newsroom/articles/relate-2025-resolution-platform/>), powered by OpenAI models, that not only manage entire conversations but plan and execute responses autonomously: 
 
   * Reducing setup time from **days to minutes**
+
   * Increasing automation rates toward**80%**
+
   * Giving teams**full control** over how the AI behaves
+
 
 
 
@@ -85,9 +88,13 @@ Zendesk’s new class of agentic AI agents is purpose-built for service. Powered
 The platform leverages a multi-agent architecture comprising of specialized agents such as:
 
   * **Task identification agent** : Instead of relying on manual training this AI agent has a real conversation to understand what the user needs, asking clarifying questions and disambiguating similar issues.
+
   * **Conversational RAG agent** : Extends traditional RAG by grounding in multi-turn conversation. For example, when a user asks about payment options, the agent can follow up to ask where the user is located before retrieving region-specific policies.
+
   * **Procedure compilation agent** : Balancing agency with control, Zendesk’s procedure compliance agent converts business rules from natural language into a structured flow, ensuring the AI understands and visually reflects how to execute the company’s procedures.
+
   * **Procedure execution agent** : Carries out actions by calling APIs, triggering workflows, and updating systems, all within the logic defined by the business.
+
 
 
 
@@ -193,6 +200,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)

@@ -88,7 +88,7 @@ MailerLite helps users manage subscribers, groups, campaigns, forms, segments, w
 
 ### [Privacy policyLearn more](<https://www.mailerlite.com/legal/privacy-policy>)
 
-## Add plugins in a few clicks
+## Add the MailerLite plugin in a few clicks
 
 Availability depends on the plugin, your plan, and workspace settings. Some connections require admin setup or approval. Contact your workspace admin if access is blocked.
 
@@ -154,6 +154,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -210,7 +211,7 @@ OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
 
-### 1Find a plugin1Find a plugin
+### 1Find the MailerLite plugin1Find the MailerLite plugin
 
 Browse for plugins that support your team’s tools and tasks.
 

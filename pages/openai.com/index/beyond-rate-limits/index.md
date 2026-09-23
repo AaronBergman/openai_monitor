@@ -75,7 +75,9 @@ Underneath this is a complex system that fuses limits, real‑time usage trackin
 Zooming out, traditional access models tend to force a choice:
 
   * **Rate limits** can be helpful at first, but leave users with a bad experience when they run out: “come back later”
+
   * **Usage‑based billing** is flexible, but leaves users paying from the first token—not ideal for supporting early exploration
+
 
 
 
@@ -88,9 +90,13 @@ What we needed instead was a single hybrid system combining real-time limits wit
 This system had to:
 
   * Enforce rate limits _until_ they’re reached
+
   * Seamlessly transition to credits _within the same request_
+
   * Make that decision in real time
+
   * Be rigorously accurate and auditable when tracking credit consumption
+
 
 
 
@@ -115,8 +121,11 @@ When a user hits a limit and has credits available, the system must know _immedi
 We also needed to offer transparency into every outcome:
 
   * Why a request was allowed or blocked
+
   * How much usage it consumed
+
   * Which limits or balances were applied
+
 
 
 
@@ -129,9 +138,13 @@ To power this, we built a distributed usage and balance system designed specific
 At a high level, the system:
 
   * Tracks per‑user, per‑feature usage
+
   * Maintains rate‑limit windows
+
   * Maintains real‑time credit balances
+
   * Debits balances idempotently through a streaming async processor
+
 
 
 
@@ -144,17 +157,24 @@ Every request passes through a single evaluation path that makes a real‑time d
 One of the key design principles of this system is that we must be able to _prove_ that our billing is correct. This reflects the roots of our credit support, which originated with enterprise customers. In the above system diagram, we have three separate datasets that all tie together:
 
   * **Product usage events:** What the user actually did
+
   * **Monetization events:** What we charge the user for their usage
+
   * **Balance updates:** How much we adjusted the user’s credit balance and why
+
 
 
 
 These datasets aren’t a casual by-product; they actually drive the system, with each dataset triggering the next. Separating what occurred, any associated charges, and what we debited lets us independently audit, replay, and reconcile every layer. This is an intentional trade-off where we are prioritizing provable correctness, at the cost of credit balance updates being slightly delayed. How we accomplished this:
 
   * Product usage events are published for all user activity, whether it drives credit consumption or not. This provides an audit trail for user activity and allows us to explain why we charged, or didn’t charge, credits.
+
   * Every event carries a stable idempotency key, so retries, replays, or worker restarts can never double‑debit a balance, which prevents double‑charging. This also lets us run a batch reconciliation to verify our work offline.
+
   * We do asynchronous (but still near-real-time) balance updates instead of synchronous updates to create an audit trail. We tolerate a small delay in updating the user’s balance so that we can prove that the system is functioning and assure our users that we are not misbilling them. When that brief delay causes us to overshoot a user’s credit balance, we automatically refund it; we choose provable correctness and user trust over strict enforcement.
+
   * We decrease the _Credit Balance_ and insert a _Balance Update_ record in a single atomic database transaction. Balance updates are serialized per account, so concurrent requests can never race to spend the same credits. The _Balance Update_ record contains both the debit amount as well as attribution back to the monetization event that triggered the update; wrapping this in a single database transaction guarantees we have an audit trail for every adjustment to the credit balance.
+
 
 
 
@@ -248,6 +268,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)

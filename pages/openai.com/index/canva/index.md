@@ -55,8 +55,11 @@ Magic Studio had to ensure that various modalities—text, image, video—could 
 Using the creative power of GPT‑4 to power several of the tools within [Magic Studio⁠(opens in a new window)](<https://www.canva.com/magic/>):
 
   * [Magic Write⁠(opens in a new window)](<https://www.canva.com/magic-write/>) is an AI writing tool powered by OpenAI's API. In addition to generating text in response to a prompt, Magic Write is optimized to support every step of the writing process, including outlining, generating paragraphs, rewriting, paraphrasing, grammar checking, and summarizing. Users across languages and content types have written over 10 billion words using Magic Write.
+
   * [Magic Design⁠(opens in a new window)](<https://www.canva.com/magic-design/>), Canva’s design generation tool, pairs OpenAI’s API with Canva’s own AI design engine and library of over 100 million assets and templates. To generate presentations, social media posts, and videos, users simply enter a prompt for what they want to create. 
+
   * [Magic Switch⁠(opens in a new window)](<https://www.canva.com/pro/magic-switch/>) converts one design into countless other formats at the click of a button. Canva leverages OpenAI’s API and vision technology to help parse and understand the content designs, from whiteboards to presentations. Magic Switch can summarize, translate, rearrange, or even convert it to another format like an email song lyrics. All the user has to do is describe what they want, such as “convert this poster to a presentation in French” or “make this document horizontal.” And OpenAIs GPT‑4 model supports more than 100 languages for instant translation. 
+
 
 
 
@@ -97,6 +100,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
@@ -136,6 +140,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)

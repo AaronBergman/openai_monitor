@@ -75,7 +75,9 @@ Where existing Windows tools fell short
 When I joined the Codex engineering team in September 2025, Codex for Windows didn’t have a sandbox implementation meaning that Windows users were forced to choose between two subpar options when using OpenAI's coding agents:
 
   1. Approving nearly every command (even reads) that a coding agent wanted to run, which is inefficient and pesky. A major benefit of using Codex is that you don’t have to do all the tedious work yourself.
+
   2. Enabling Full Access mode: letting Codex run all commands without approval or restrictions, which removes friction at the expense of oversight.
+
 
 
 
@@ -98,24 +100,33 @@ Windows offers some tools and primitives for isolation. While none of them quite
 **AppContainer**
 
   * **What:** AppContainer is the native Windows sandbox, a capability-based isolation model built for apps that know, up front, exactly what they need to access.
+
   * **Why** : Appealing because it offers a real OS boundary instead of best-effort restrictions.
+
   * **Why not** : Codex is not one tightly scoped app. It drives open-ended developer workflows: shells, Git, Python, package managers, build tools, and whatever other binaries the agent decides it needs. In practice, that made AppContainer the wrong shape for the problem. It was strong isolation, but for a much narrower class of workloads than “let an agent operate like a developer.”
+
 
 
 
 **Windows Sandbox**
 
   * **What:** Windows Sandbox is Microsoft’s disposable lightweight VM. You get a fresh Windows desktop with a strong isolation boundary, and whatever you do inside it disappears when the session ends.
+
   * **Why** : Interesting for obvious reasons—far more compatible with arbitrary software than AppContainer, and from a security perspective it’s a much stronger box.
+
   * **Why not** : Codex needs to act directly on the user’s actual checkout, tools, and environment, not inside a separate throwaway desktop that would need setup and host/guest bridging. It also had a fundamental product problem: Windows Sandbox isn’t even available on Windows Home SKUs.
+
 
 
 
 **Mandatory Integrity Control (MIC) integrity labeling**
 
   * **What** : Windows has a concept called “integrity levels,” such as low, medium, and high, that determine how much the system trusts objects and processes. The basic rule is that a lower-integrity process cannot write to an object with a higher integrity level, even if the normal ACL would otherwise allow it. For example, a low-integrity process is treated as less trusted, so Windows blocks it from writing to normal medium-integrity objects, unless those objects are explicitly relabeled to allow it.
+
   * **Why** : MIC looked elegant on paper—run Codex at low integrity, relabel the writable roots as low integrity, and let Windows enforce no-writes everywhere else. That would've given us a non-admin path with a real OS mechanism behind it.
+
   * **Why not** : Like ACLs, integrity labels modify the real host filesystem, and in this case the semantic change is especially broad. Marking a workspace as low integrity does not just mean “Codex can write here.” It means low-integrity processes _in general_ can write there. On a real developer machine, that turns the user’s actual checkout into a low-integrity sink for the host, which is much riskier than granting carefully targeted ACLs to one sandbox design. Even if medium-integrity developer tools continue to work, the underlying trust model of the workspace has changed in a way that’s hard to contain and harder to justify.
+
 
 
 
@@ -142,7 +153,9 @@ Process tokens are security objects in Windows that define identity and privileg
 In order for a write to succeed, two checks must pass:
 
   1. The normal user identity (the token “owner”) must be allowed to do it
+
   2. At least one SID in the token’s restricted SID list must also be granted access
+
 
 
 
@@ -153,14 +166,23 @@ In practice, these checks let us use ACLs to define exactly where the sandbox co
 With SIDs and write-restricted tokens, our unelevated sandbox worked like this:
 
   1. The sandbox setup created a synthetic SID called `sandbox-write`.
+
   2. The `sandbox-write` SID was granted write, execute, and delete access to
+
      1. The current working directory
+
      2. Any additional `writable_roots` configured in `config.toml`.
+
   3. The sandbox setup explicitly denied that same SID write access to “read-only within writable” locations such as:
+
      1. `<cwd>/.git`
+
      2. `<cwd>/.codex`
+
      3. `<cwd>/.agents`
+
   4. Codex launched commands under a write-restricted token whose restricted SID list includes `Everyone`, the current logged in session SID, and the `sandbox-write` synthetic SID.
+
 
 
 
@@ -175,10 +197,15 @@ Without Windows Firewall as an option, we limited what we could control. We trie
 For example, here are some of the specific environment overrides we used to limit network access:
 
   * `HTTPS_PROXY=http://127.0.0.1:9`
+
   * `ALL_PROXY=http://127.0.0.1:9`
+
   * `GIT_HTTPS_PROXY=http://127.0.0.1:9`
+
   * `NO_PROXY=localhost,127.0.0.1,::1`
+
   * `GIT_SSH_COMMAND=cmd /c exit 1`
+
 
 
 
@@ -191,9 +218,13 @@ That caught a lot of normal tool-driven traffic, but it was still only advisory.
 As with any interesting software implementation, the first prototype had some pros and cons. While it got the job done with only a few standard Windows capabilities, allowed for very explicit and granular filesystem writes, and ran unelevated—cutting the need for users to accept excessive elevation prompts or be admins on their local machine—it had some real drawbacks, some of which disqualified it from becoming our final design:
 
   * Speed of setup: Applying workspace ACLs can be expensive depending on the topology of the workspace directory.
+
   * Footprint: We applied real ACLs to the developer’s system, although the footprint is not particularly invasive because all the applied ACLs pertain to a custom-created synthetic SID that is used only by the sandbox.
+
   * Difficult-to-change semantics: The reliance on ACLs for file-based restrictions means it’s expensive and complex to change sandbox semantics. Whereas on macOS, we can dynamically change how we generate the `.sbpl` file used to configure Seatbelt, the Windows sandbox could require a slow and intense operation to adjust ACLs.
+
   * Network protection is weak. As mentioned before, it was “advisory,” would definitely be circumvented by some programs that implemented their own networking stack, and wasn’t designed to hold up to adversarial code.
+
 
 
 
@@ -206,8 +237,11 @@ In addition to a malicious agent being able to easily circumvent the environment
 To gain better network suppression, we wanted to use Windows Firewall, which allows us to block outbound network traffic for users or programs. Unfortunately, we couldn’t effectively create a functional firewall rule that applied only to the commands spawned by the Codex harness for a few reasons:
 
   * Windows doesn’t allow matching a firewall rule to the non-principal identity of a restricted token. This means we couldn’t apply a firewall rule to “any token that includes our synthetic SID in its restricted SID list."
+
   * While we could create a firewall rule that matches a specific binary, that only allows us to limit networking for `codex.exe` itself. It wouldn’t apply to the processes that the agent spawns on behalf of the user, like Git or Python processes.
+
   * Other firewall match dimensions were the wrong shape, too. User-scoped rules still matched the real Windows user in the unelevated design, not just the restricted child. Program-path rules were too coarse: they could block `codex.exe` or `python.exe` generally, but not this one sandboxed invocation of `python.exe`. Port- or address-based rules were also the wrong policy entirely. For instance, we didn’t want to block port 443; we wanted to block arbitrary outbound access for this specific restricted process tree.
+
 
 
 
@@ -218,7 +252,9 @@ To apply a firewall rule specifically to our sandboxed commands, we needed to ru
 The next iteration of the sandbox, which is our current implementation, requires elevated admin permissions at setup time. I therefore refer to it as “the elevated sandbox.” At the boundary where Codex spawns a command on the system, the elevated sandbox looks like the unelevated one. It still runs child processes under a restricted token—similarly a `write_restricted` token with the same restricted SID list of `[Everyone, Logon, ``Synthetic``]`—however, the principal of this token is no longer the actual Windows user but one of two local users created by Codex itself:
 
   * `CodexSandboxOffline` (the one targeted by firewall rules)
+
   * `CodexSandboxOnline` (the one not targeted by firewall rules)
+
 
 
 
@@ -233,16 +269,22 @@ It’s visually similar to the unelevated prototype, with the introduction of fi
 The unelevated sandbox design had a simple setup step, but it was relatively small:
 
   * Create a synthetic SID if needed
+
   * Apply ACLs for the sandbox-write synthetic SID
+
 
 
 
 The elevated sandbox, however, has more to do.
 
   * Create a synthetic SID, if not already created
+
   * Create the online and offline sandbox users, if not already created
+
   * Store the newly-created users’ credentials locally and encrypt using the Windows Data Protection API (DPAPI) in a place where the sandbox users cannot actually read
+
   * Create firewall rules that block all outbound network access for the `CodexSandboxOffline` user or, if they already exist, validate they’re correct
+
 
 
 
@@ -251,10 +293,15 @@ There’s an additional wrinkle in the setup stage. Codex’s sandbox is expecte
 To address this, we added another layer to the sandbox setup process—one for granting _read_ ACLs to the sandbox users where such ACLs might not already exist. For example, to some commonly used Windows directories:
 
   * `C:\Users\<real-user>`
+
   * `C:\Windows\`
+
   * `C:\Program Files\`
+
   * `C:\Program Files (x86)\`
+
   * `C:\ProgramData\`
+
 
 
 
@@ -269,9 +316,13 @@ We encapsulated the setup logic in its own binary partly to cross the UAC bounda
 Because of how Windows user and token login boundaries work, we couldn’t continue to create a restricted token and spawn a process under it the way we could with the unelevated sandbox. To actually spawn commands as a different Windows user, our first idea was the following flow:
 
   * `codex.exe` runs as the real Windows user. Then, in a sequence, Codex:
+
     * Calls `LogonUserW(...)` for the sandbox user.
+
     * Calls `CreateRestrictedToken(...)` on that sandbox-user token.
+
     * Using that restricted sandbox-user token, calls `CreateProcessAsUserW(...)` to launch the final child.
+
 
 
 
@@ -285,11 +336,15 @@ That requirement led to `codex-command-runner.exe`, a new binary whose only job 
 
 
 
+
 **Part 2**
 
   * Inside the runner, `OpenProcessToken(GetCurrentProcess(), ...)` opens the runner’s own token, which already belongs to the sandbox user.
+
   * The runner calls `GetTokenInformation(...)` to extract the sandbox logon SID, then `CreateRestrictedToken(...)` to build the final restricted token.
+
   * Still inside the runner, it calls `CreateProcessAsUserW(...)` with that restricted token to launch the real child.
+
 
 
 
@@ -300,9 +355,13 @@ That requirement led to `codex-command-runner.exe`, a new binary whose only job 
 Albert Einstein said, “Everything should be made as simple as possible, but no simpler.” In that spirit, our design adequately solved each problem. The final architecture has the four layers we have previously covered:
 
   * `codex.exe` itself
+
   * `codex-windows-sandbox-setup.exe` for handling all elevated setup related work
+
   * `codex-command-runner.exe` for running restricted token commands
+
   * The child process
+
 
 
 
@@ -390,6 +449,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)

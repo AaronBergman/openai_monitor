@@ -90,7 +90,7 @@ Find and organize companies without leaving ChatGPT. This app connects directly 
 
 ### [Privacy policyLearn more](<https://hunter.io/privacy-policy>)
 
-## Add plugins in a few clicks
+## Add the Hunter plugin in a few clicks
 
 Availability depends on the plugin, your plan, and workspace settings. Some connections require admin setup or approval. Contact your workspace admin if access is blocked.
 
@@ -213,7 +213,7 @@ OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
 
-### 1Find a plugin1Find a plugin
+### 1Find the Hunter plugin1Find the Hunter plugin
 
 Browse for plugins that support your team’s tools and tasks.
 

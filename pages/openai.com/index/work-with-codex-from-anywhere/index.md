@@ -77,9 +77,13 @@ As Codex handles work over longer stretches, timely guidance becomes a bigger pa
 With Codex in your pocket, now you can:
 
   * **Start investigating a bug while waiting for your coffee.** Because Codex is running from your development environment, it can begin inspecting the relevant files, reproduce the issue in the browser, run tests, and begin working toward a fix. If Codex needs clarification or permission to continue, you can answer or approve from your phone. And as it works, you can follow along with screenshots, terminal output, test results, and eventually review the resulting diff before you are back at your computer. 
+
   * **Reach a decision point during your commute.** Before leaving for the office, you ask Codex to take on a refactor that will need time to work through, expecting to review the result when you get to your desk. Mid-commute, Codex finds two viable approaches and needs your direction before it can continue. From your phone, you review the tradeoffs, choose a path, and by the time you arrive, the task has kept moving in the direction you wanted.
+
   * **Head into a fast-moving customer conversation better prepared.** You come out of back-to-back meetings to find a support issue evolving across Slack, email, documents, and browser-based tools, with a customer call coming up next. From your phone, you ask Codex to synthesize the latest updates, flag the key open questions, and prepare a concise briefing for the conversation. If new details come in, you can ask Codex to refresh the summary before you join.
+
   * **Turn a new idea into forward motion while it is still fresh.** Whether you are at lunch, out for a walk, or listening to something that sparks a thought, you can send it to Codex from your phone by starting a new thread or adding it to active work. The task can begin taking shape before you return to your desk, without pulling you fully out of the moment that sparked it.
+
 
 
 
@@ -94,8 +98,11 @@ Once connected, those environments can become accessible across your authorized 
 We’re also releasing several updates that expand how teams can automate, customize, and manage Codex at scale:
 
   * [**Programmatic access tokens** ⁠(opens in a new window)](<https://developers.openai.com/codex/enterprise/access-tokens>) provide scoped credentials that can be issued directly from ChatGPT workspace settings for CI pipelines, release workflows, and internal automations.
+
   * [**Hooks** ⁠(opens in a new window)](<https://developers.openai.com/codex/hooks>) are now generally available and can be used to scan prompts for secrets, run validators, log conversations, create memories, or customize Codex behavior for specific repositories and directories.
+
   * **Support for HIPAA-compliant use of Codex in local environments** (CLI, IDE, App) for ChatGPT Enterprise workspaces, enabling healthcare organizations to support patient care and operational workflows with greater speed and confidence.
+
 
 
 
@@ -118,17 +125,17 @@ OpenAI
 
 [View all](</news/>)
 
-![Now everyone can put data to work — card image](https://images.ctfassets.net/kftzwdyauwt9/6FhMXOSe8XadGwEUev6QjJ/916a64d20bcc59b8619fea1827fa6bd3/put-data-to-work--cover-v001.png?w=3840&q=90&fm=webp)
+![Better prompt caching for GPT-6 — Card image](https://images.ctfassets.net/kftzwdyauwt9/72ZKzMh8JgRDfdg4EYRtwY/ee5e406a08b69f00b0beb4ac00270364/7kneoqlc2qh37z1utkmtfk-cover-v1.png?w=3840&q=90&fm=webp)
 
-[Now everyone can put data to workProductSep 10, 2026](</index/put-data-to-work/>)
+[Better prompt caching for GPT-6ProductSep 22, 2026](</index/better-prompt-caching-for-gpt-6/>)
 
-![FinServ Blog - Art Card Texture Square](https://images.ctfassets.net/kftzwdyauwt9/6Bcg403pebiJhQdHUS17FK/572e478dc4579deca27c9700c662e908/finserv-art-card.png?w=3840&q=90&fm=webp)
+![Introducing GPT-6 Sol and Luna — Art card](https://images.ctfassets.net/kftzwdyauwt9/4HANTuYDvaT04gpR91bEQ9/885481304c5675cb7525bcccbe8c5580/gpt-6-sol-luna-art.png?w=3840&q=90&fm=webp)
 
-[Introducing ChatGPT for Financial ServicesProductSep 10, 2026](</index/introducing-chatgpt-financial-services/>)
+[Introducing GPT-6 Sol and LunaProductSep 22, 2026](</index/introducing-gpt-6-sol-and-luna/>)
 
-![GPT-Live-1 API | Green-blue cover | Option 038](https://images.ctfassets.net/kftzwdyauwt9/1uBabEULLfw3Vb2Gldmyyq/c19c1c121ca403ee8b2703cba18ef82d/introducing-gpt-live-1-green-cover.png?w=3840&q=90&fm=webp)
+![Reimagining advertising with AI — Card cover](https://images.ctfassets.net/kftzwdyauwt9/fHwkKLVG8WFHvuUPqMXtz/1c49ba0859fe1e1e21f5d64f692490f5/reimagining-advertising-with-ai-cover.png?w=3840&q=90&fm=webp)
 
-[Build more natural voice experiences with GPT‑Live‑1 in the APIProductSep 10, 2026](</index/introducing-gpt-live-1-in-the-api/>)
+[Reimagining advertising with AIProductSep 16, 2026](</index/reimagining-advertising-with-ai/>)
 
 Research
 
@@ -180,6 +187,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)

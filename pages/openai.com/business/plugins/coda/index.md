@@ -88,7 +88,7 @@ Connects ChatGPT to your Coda workspace, allowing it to read docs, query tables,
 
 ### [Privacy policyLearn more](<https://www.grammarly.com/privacy-policy>)
 
-## Add plugins in a few clicks
+## Add the Coda plugin in a few clicks
 
 Availability depends on the plugin, your plan, and workspace settings. Some connections require admin setup or approval. Contact your workspace admin if access is blocked.
 
@@ -211,7 +211,7 @@ OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
 
-### 1Find a plugin1Find a plugin
+### 1Find the Coda plugin1Find the Coda plugin
 
 Browse for plugins that support your team’s tools and tasks.
 

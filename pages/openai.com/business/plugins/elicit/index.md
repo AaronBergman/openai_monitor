@@ -88,7 +88,7 @@ Elicit's MCP server gives AI assistants direct access to a corpus of over 125 mi
 
 ### [Privacy policyLearn more](<https://elicit.com/operations/privacy>)
 
-## Add plugins in a few clicks
+## Add the Elicit plugin in a few clicks
 
 Availability depends on the plugin, your plan, and workspace settings. Some connections require admin setup or approval. Contact your workspace admin if access is blocked.
 
@@ -211,7 +211,7 @@ OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
 
-### 1Find a plugin1Find a plugin
+### 1Find the Elicit plugin1Find the Elicit plugin
 
 Browse for plugins that support your team’s tools and tasks.
 

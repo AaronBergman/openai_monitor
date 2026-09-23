@@ -93,9 +93,13 @@ The Codex CLI sends HTTP requests to the [_Responses API_ ⁠(opens in a new win
 The Responses API endpoint that the Codex CLI uses is [_configurable_ ⁠(opens in a new window)](<https://developers.openai.com/codex/config-advanced#custom-model-providers>), so it can be used with any endpoint that [_implements the Responses API_ ⁠(opens in a new window)](<https://www.openresponses.org>):
 
   * [_When using ChatGPT login_ ⁠(opens in a new window)](<https://github.com/openai/codex/blob/d886a8646cb8d3671c3029d08ae8f13fa6536899/codex-rs/core/src/model_provider_info.rs#L141>) with the Codex CLI, it uses `https://chatgpt.com/backend-api/codex/responses` as the endpoint
+
   * [ _When using API-key authentication_ ⁠(opens in a new window)](<https://github.com/openai/codex/blob/d886a8646cb8d3671c3029d08ae8f13fa6536899/codex-rs/core/src/model_provider_info.rs#L143>) with OpenAI hosted models, it uses `https://api.openai.com/v1/responses` as the endpoint
+
   * When running Codex CLI with `--oss` to use [_gpt-oss_ ⁠](<https://openai.com/index/introducing-gpt-oss/>) with [_ollama 0.13.4+_ ⁠(opens in a new window)](<https://github.com/openai/codex/pull/8798>) or [_LM Studio 0.3.39+_ ⁠(opens in a new window)](<https://lmstudio.ai/blog/openresponses>), it defaults to `http://localhost:11434/v1/responses` running locally on your computer
+
   * Codex CLI can be used with the Responses API hosted by a cloud provider such as Azure
+
 
 
 
@@ -110,8 +114,11 @@ In the initial prompt, every item in the list is associated with a role. The `ro
 The [_Responses API_ ⁠(opens in a new window)](<https://platform.openai.com/docs/api-reference/responses/create>) takes a JSON payload with many parameters. We’ll focus on these three:
 
   * [`_instructions_` ⁠(opens in a new window)](<https://platform.openai.com/docs/api-reference/responses/create#responses_create-instructions>): system (or developer) message inserted into the model’s context
+
   * [` _tools_` ⁠(opens in a new window)](<https://platform.openai.com/docs/api-reference/responses/create#responses_create-tools>): a list of tools the model may call while generating a response
+
   * [` _input_` ⁠(opens in a new window)](<https://platform.openai.com/docs/api-reference/responses/create#responses_create-input>): a list of text, image, or file inputs to the model
+
 
 
 
@@ -375,11 +382,17 @@ The message is built from a template where the key pieces of content come from s
 3\. (Optional) A message with `role=user` whose contents are the “user instructions,” which are not sourced from a single file but are [_aggregated across multiple sources_ ⁠(opens in a new window)](<https://github.com/openai/codex/blob/99f47d6e9a3546c14c43af99c7a58fa6bd130548/codex-rs/core/src/project_doc.rs#L37-L42>). In general, more specific instructions appear later:
 
   * Contents of `AGENTS.override.md` and `AGENTS.md` in `$CODEX_HOME`
+
   * Subject to a limit (32 KiB, by default), look in each folder from the Git/project root of the `cwd` (if it it exists) up to the `cwd` itself: add the contents of any of `AGENTS.override.md`, `AGENTS.md`, or any filename specified by `project_doc_fallback_filenames in config.toml`
+
   * If any [_skills_ ⁠(opens in a new window)](<https://developers.openai.com/codex/skills/>) have been configured:
+
     * a short preamble about skills
+
     * the [_skill metadata_ ⁠(opens in a new window)](<https://github.com/openai/codex/blob/99f47d6e9a3546c14c43af99c7a58fa6bd130548/codex-rs/core/src/skills/model.rs#L6-L13>) for each skill
+
     * a section on [_how to use skills_ ⁠(opens in a new window)](<https://github.com/openai/codex/blob/99f47d6e9a3546c14c43af99c7a58fa6bd130548/codex-rs/core/src/skills/render.rs#L20>)
+
 
 
 
@@ -750,8 +763,11 @@ _Cache hits are only possible for exact prefix matches within a prompt. To reali
 With this in mind, let’s consider what types of operations could cause a “cache miss” in Codex:
 
   * Changing the `tools` available to the model in the middle of the conversation.
+
   * Changing the `model` that is the target of the Responses API request (in practice, this changes the third item in the original prompt, as it contains model-specific instructions).
+
   * Changing the sandbox configuration, approval mode, or current working directory.
+
 
 
 
@@ -760,7 +776,9 @@ The Codex team must be diligent when introducing new features in the Codex CLI t
 When possible, we handle configuration changes that happen mid-conversation by appending a _new_ message to `input` to reflect the change rather than modifying an earlier message:
 
   * If the sandbox configuration or approval mode changes, we [_insert_ ⁠(opens in a new window)](<https://github.com/openai/codex/blob/99f47d6e9a3546c14c43af99c7a58fa6bd130548/codex-rs/core/src/codex.rs#L1037-L1057>) a new `role=developer` message with the same format as the original `<permissions instructions>` item.
+
   * If the current working directory changes, we [_insert_ ⁠(opens in a new window)](<https://github.com/openai/codex/blob/99f47d6e9a3546c14c43af99c7a58fa6bd130548/codex-rs/core/src/codex.rs#L1017-L1035>) a new `role=user` message with the same format as the original `<environment_context>`.
+
 
 
 
@@ -855,6 +873,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)

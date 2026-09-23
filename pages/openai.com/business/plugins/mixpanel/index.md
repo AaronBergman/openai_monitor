@@ -34,7 +34,7 @@ OpenAI
 
 Query and analyze Mixpanel
 
-[Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69b2e9aed45c8191b254b207dfcc2bb4>)[Contact sales](</contact-sales/>)
+[Install plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69b2e9aed45c8191b254b207dfcc2bb4>)[Contact sales](</contact-sales/>)
 
 Capabilities
     Interactive, Read, Write
@@ -48,37 +48,31 @@ Developer
 Website
     [(opens in a new window)](<https://mixpanel.com/home>)
 
-[![](https://files.openai.com/content?id=file_0000000078a0720cb09ada9b963d9ae2&cdn=1&cp=pi&ma=31363200&ts=0&p=pi&cid=1&sig=ea4dd34961af995dcdc8d19cde15c8a45f4b6d3fc566fb43c566071a6b7291ba&v=0)Mixpanel how many sign ups did we have in Feb?(opens in a new window)](<https://chatgpt.com/?prompt=%40Mixpanel+how+many+sign+ups+did+we+have+in+Feb%3F>)[![](https://files.openai.com/content?id=file_0000000078a0720cb09ada9b963d9ae2&cdn=1&cp=pi&ma=31363200&ts=0&p=pi&cid=1&sig=ea4dd34961af995dcdc8d19cde15c8a45f4b6d3fc566fb43c566071a6b7291ba&v=0)Mixpanel add descriptions to any events that don't have one(opens in a new window)](<https://chatgpt.com/?prompt=%40Mixpanel+add+descriptions+to+any+events+that+don%27t+have+one>)[![](https://files.openai.com/content?id=file_0000000078a0720cb09ada9b963d9ae2&cdn=1&cp=pi&ma=31363200&ts=0&p=pi&cid=1&sig=ea4dd34961af995dcdc8d19cde15c8a45f4b6d3fc566fb43c566071a6b7291ba&v=0)Mixpanel create a dashboard for purchase metrics(opens in a new window)](<https://chatgpt.com/?prompt=%40Mixpanel+create+a+dashboard+for+purchase+metrics>)
+[![](https://files.openai.com/content?id=file_0000000078a0720cb09ada9b963d9ae2&cdn=1&cp=pi&ma=31363200&ts=0&p=pi&cid=1&sig=ea4dd34961af995dcdc8d19cde15c8a45f4b6d3fc566fb43c566071a6b7291ba&v=0)Mixpanel how many sign ups did we have in Feb?(opens in a new window)](<https://chatgpt.com/?prompt=%40Mixpanel+how+many+sign+ups+did+we+have+in+Feb%3F>)
 
 ## How it works
 
 Query and analyze your Mixpanel data directly in ChatGPT. Run segmentation, funnel, and retention analyses, explore your event taxonomy, manage Lexicon metadata, and resolve data quality issues - all without leaving your conversation. With the Mixpanel MCP server connected, ChatGPT can reason about your product analytics alongside your code, documents, and decisions. Ask questions in plain language, drill into user behavior, and get answers grounded in your actual data.
 
-## Common use cases
+## What else can you do?
 
   * ### Find onboarding friction
 
-Identify the onboarding steps and user segments with the greatest conversion losses.
-
 ![](https://files.openai.com/content?id=file_0000000078a0720cb09ada9b963d9ae2&cdn=1&cp=pi&ma=31363200&ts=0&p=pi&cid=1&sig=ea4dd34961af995dcdc8d19cde15c8a45f4b6d3fc566fb43c566071a6b7291ba&v=0)Mixpanel Analyze the signup-to-activation funnel for the last 30 days. Compare drop-off by platform and acquisition channel, identify the biggest friction points, and recommend two follow-up investigations.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Mixpanel+Analyze+the+signup-to-activation+funnel+for+the+last+30+days.+Compare+drop-off+by+platform+and+acquisition+channel%2C+identify+the+biggest+friction+points%2C+and+recommend+two+follow-up+investigations.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Mixpanel+Analyze+the+signup-to-activation+funnel+for+the+last+30+days.+Compare+drop-off+by+platform+and+acquisition+channel%2C+identify+the+biggest+friction+points%2C+and+recommend+two+follow-up+investigations.>)
 
   * ### Compare user retention
 
-Determine which recent signup cohorts return most consistently and where retention has weakened.
-
 ![](https://files.openai.com/content?id=file_0000000078a0720cb09ada9b963d9ae2&cdn=1&cp=pi&ma=31363200&ts=0&p=pi&cid=1&sig=ea4dd34961af995dcdc8d19cde15c8a45f4b6d3fc566fb43c566071a6b7291ba&v=0)Mixpanel Compare weekly retention for signup cohorts from the last eight weeks. Break down the largest differences by platform, account for incomplete observation windows, and summarize which cohorts need attention.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Mixpanel+Compare+weekly+retention+for+signup+cohorts+from+the+last+eight+weeks.+Break+down+the+largest+differences+by+platform%2C+account+for+incomplete+observation+windows%2C+and+summarize+which+cohorts+need+attention.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Mixpanel+Compare+weekly+retention+for+signup+cohorts+from+the+last+eight+weeks.+Break+down+the+largest+differences+by+platform%2C+account+for+incomplete+observation+windows%2C+and+summarize+which+cohorts+need+attention.>)
 
   * ### Build a purchase dashboard
 
-Create a dashboard that brings purchase activity and conversion trends into one recurring review.
-
 ![](https://files.openai.com/content?id=file_0000000078a0720cb09ada9b963d9ae2&cdn=1&cp=pi&ma=31363200&ts=0&p=pi&cid=1&sig=ea4dd34961af995dcdc8d19cde15c8a45f4b6d3fc566fb43c566071a6b7291ba&v=0)Mixpanel Create a dashboard for weekly purchase activity over the last three months. Include purchase counts, revenue where tracked, and the checkout funnel, with notes defining each metric and highlighting recent changes.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Mixpanel+Create+a+dashboard+for+weekly+purchase+activity+over+the+last+three+months.+Include+purchase+counts%2C+revenue+where+tracked%2C+and+the+checkout+funnel%2C+with+notes+defining+each+metric+and+highlighting+recent+changes.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Mixpanel+Create+a+dashboard+for+weekly+purchase+activity+over+the+last+three+months.+Include+purchase+counts%2C+revenue+where+tracked%2C+and+the+checkout+funnel%2C+with+notes+defining+each+metric+and+highlighting+recent+changes.>)
 
 
 
@@ -99,7 +93,7 @@ Create a dashboard that brings purchase activity and conversion trends into one 
 
 ### [Privacy policyLearn more](<https://mixpanel.com/legal/privacy-policy/>)
 
-## Add plugins in a few clicks
+## Add the Mixpanel plugin in a few clicks
 
 Availability depends on the plugin, your plan, and workspace settings. Some connections require admin setup or approval. Contact your workspace admin if access is blocked.
 
@@ -165,6 +159,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -221,7 +216,7 @@ OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
 
-### 1Find a plugin1Find a plugin
+### 1Find the Mixpanel plugin1Find the Mixpanel plugin
 
 Browse for plugins that support your team’s tools and tasks.
 

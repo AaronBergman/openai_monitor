@@ -88,7 +88,7 @@ Connect your WordPress site to ChatGPT. ChatGPT can use the abilities exposed by
 
 ### [Privacy policyLearn more](<https://plugins.miniorange.com/privacy-policy-for-security-mcp-server>)
 
-## Add plugins in a few clicks
+## Add the MCP Server For WordPress plugin in a few clicks
 
 Availability depends on the plugin, your plan, and workspace settings. Some connections require admin setup or approval. Contact your workspace admin if access is blocked.
 
@@ -154,6 +154,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -210,7 +211,7 @@ OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
 
-### 1Find a plugin1Find a plugin
+### 1Find the MCP Server For WordPress plugin1Find the MCP Server For WordPress plugin
 
 Browse for plugins that support your team’s tools and tasks.
 

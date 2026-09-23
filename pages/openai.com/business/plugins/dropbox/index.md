@@ -101,7 +101,7 @@ Use synced file content to surface key details and generate accurate briefs and 
 
 ### [Privacy policyLearn more](<https://www.dropbox.com/privacy>)
 
-## Add plugins in a few clicks
+## Add the Dropbox plugin in a few clicks
 
 Availability depends on the plugin, your plan, and workspace settings. Some connections require admin setup or approval. Contact your workspace admin if access is blocked.
 
@@ -224,7 +224,7 @@ OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
 
-### 1Find a plugin1Find a plugin
+### 1Find the Dropbox plugin1Find the Dropbox plugin
 
 Browse for plugins that support your team’s tools and tasks.
 

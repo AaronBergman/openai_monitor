@@ -101,7 +101,7 @@ You already work in ChatGPT. Now drive and track your marketing outcomes there t
 
 ### [Privacy policyLearn more](<https://www.activecampaign.com/legal/privacy-policy>)
 
-## Add plugins in a few clicks
+## Add the ActiveCampaign plugin in a few clicks
 
 Availability depends on the plugin, your plan, and workspace settings. Some connections require admin setup or approval. Contact your workspace admin if access is blocked.
 
@@ -224,7 +224,7 @@ OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
 
-### 1Find a plugin1Find a plugin
+### 1Find the ActiveCampaign plugin1Find the ActiveCampaign plugin
 
 Browse for plugins that support your team’s tools and tasks.
 

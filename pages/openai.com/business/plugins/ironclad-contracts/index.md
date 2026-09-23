@@ -32,7 +32,7 @@ OpenAI
 
 # Ironclad Contracts
 
-Plain language search for fast
+Plain language search for faster contract answers
 
 [Install plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69f0f2e2c7708191b18a9940856fa450>)[Contact sales](</contact-sales/>)
 
@@ -90,7 +90,7 @@ Ironclad's MCP server lets ChatGPT search your contract repository and workflows
 
 ### [Privacy policyLearn more](<https://legal.ironcladapp.com/#privacy-policy>)
 
-## Add plugins in a few clicks
+## Add the Ironclad Contracts plugin in a few clicks
 
 Availability depends on the plugin, your plan, and workspace settings. Some connections require admin setup or approval. Contact your workspace admin if access is blocked.
 
@@ -213,7 +213,7 @@ OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
 
-### 1Find a plugin1Find a plugin
+### 1Find the Ironclad Contracts plugin1Find the Ironclad Contracts plugin
 
 Browse for plugins that support your team’s tools and tasks.
 

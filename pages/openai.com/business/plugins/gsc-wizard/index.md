@@ -90,7 +90,7 @@ GSC Wizard connects ChatGPT to your own Google Search Console properties so you 
 
 ### [Privacy policyLearn more](<https://www.gscwizard.com/privacy.html>)
 
-## Add plugins in a few clicks
+## Add the GSC Wizard plugin in a few clicks
 
 Availability depends on the plugin, your plan, and workspace settings. Some connections require admin setup or approval. Contact your workspace admin if access is blocked.
 
@@ -213,7 +213,7 @@ OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
 
-### 1Find a plugin1Find a plugin
+### 1Find the GSC Wizard plugin1Find the GSC Wizard plugin
 
 Browse for plugins that support your team’s tools and tasks.
 

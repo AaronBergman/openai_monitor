@@ -99,7 +99,7 @@ Provision and configure a DigitalOcean droplet as a remote Codex SSH workspace u
 
 ### [Privacy policyLearn more](<https://www.digitalocean.com/legal/privacy-policy>)
 
-## Add plugins in a few clicks
+## Add the DigitalOcean plugin in a few clicks
 
 Availability depends on the plugin, your plan, and workspace settings. Some connections require admin setup or approval. Contact your workspace admin if access is blocked.
 
@@ -222,7 +222,7 @@ OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
 
-### 1Find a plugin1Find a plugin
+### 1Find the DigitalOcean plugin1Find the DigitalOcean plugin
 
 Browse for plugins that support your team’s tools and tasks.
 

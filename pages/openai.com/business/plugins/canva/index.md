@@ -107,7 +107,7 @@ Ask Canva to create social posts, presentations, marketing materials, or other v
 
 ### [Privacy policyLearn more](<https://www.canva.com/policies/privacy-policy/>)
 
-## Add plugins in a few clicks
+## Add the Canva plugin in a few clicks
 
 Availability depends on the plugin, your plan, and workspace settings. Some connections require admin setup or approval. Contact your workspace admin if access is blocked.
 
@@ -230,7 +230,7 @@ OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
 
-### 1Find a plugin1Find a plugin
+### 1Find the Canva plugin1Find the Canva plugin
 
 Browse for plugins that support your team’s tools and tasks.
 

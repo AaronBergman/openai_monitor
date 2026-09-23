@@ -90,7 +90,7 @@ Bring Calendly into ChatGPT to take scheduling actions through simple prompts. C
 
 ### [Privacy policyLearn more](<https://calendly.com/legal/privacy-notice>)
 
-## Add plugins in a few clicks
+## Add the Calendly plugin in a few clicks
 
 Availability depends on the plugin, your plan, and workspace settings. Some connections require admin setup or approval. Contact your workspace admin if access is blocked.
 
@@ -213,7 +213,7 @@ OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
 
-### 1Find a plugin1Find a plugin
+### 1Find the Calendly plugin1Find the Calendly plugin
 
 Browse for plugins that support your team’s tools and tasks.
 

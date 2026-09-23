@@ -104,6 +104,224 @@ Similar to how a human may think for a long time before responding to a difficul
 
 CipherCodingMathCrosswordEnglishScienceSafetyHealth Science
 
+## Coding
+
+We trained a model that scored 213 points and ranked in the 49th percentile in the 2024 International Olympiad in Informatics (IOI), by initializing from o1 and training to further improve programming skills. This model competed in the 2024 IOI under the same conditions as the human contestants. It had ten hours to solve six challenging algorithmic problems and was allowed 50 submissions per problem.
+
+For each problem, our system sampled many candidate submissions and submitted 50 of them based on a test-time selection strategy. Submissions were selected based on performance on the IOI public test cases, model-generated test cases, and a learned scoring function. If we had instead submitted at random, we would have only scored 156 points on average, suggesting that this strategy was worth nearly 60 points under competition constraints.
+
+With a relaxed submission constraint, we found that model performance improved significantly. When allowed 10,000 submissions per problem, the model achieved a score of 362.14 – above the gold medal threshold – even without any test-time selection strategy. 
+
+Finally, we simulated competitive programming contests hosted by Codeforces to demonstrate this model’s coding skill. Our evaluations closely matched competition rules and allowed for 10 submissions. GPT‑4o achieved an Elo rating3 of 808, which is in the 11th percentile of human competitors. This model far exceeded both GPT‑4o and o1—it achieved an Elo rating of 1807, performing better than 93% of competitors.
+
+![The image shows a bar chart comparing Codeforces Elo percentile rankings for different models. GPT-4o has 808 Elo \(11th percentile\), o1 preview has 1258 Elo \(62nd percentile\), o1 has 1673 Elo \(89th percentile\), and o1-ioi has 1807 Elo \(93rd percentile\).](https://images.ctfassets.net/kftzwdyauwt9/2A6QVjt4bIQo4XR7VEnhgq/892e593ed472562b300c71fe40116bc3/ioi-code.png?w=3840&q=90&fm=webp)
+
+Further fine-tuning on programming competitions improves o1. The improved model ranked in the 49th percentile in the 2024 International Olympiad in Informatics under competition rules.
+
+## Human preference evaluation
+
+In addition to exams and academic benchmarks, we also evaluated human preference of o1‑preview vs GPT‑4o on challenging, open-ended prompts in a broad spectrum of domains. In this evaluation, human trainers were shown anonymized responses to a prompt from o1‑preview and GPT‑4o, and voted for which response they preferred. o1‑preview is preferred to gpt-4o by a large margin in reasoning-heavy categories like data analysis, coding, and math. However, o1‑preview is not preferred on some natural language tasks, suggesting that it is not well-suited for all use cases.
+
+![win rate matplotlib](https://images.ctfassets.net/kftzwdyauwt9/7fCp1d7GJ0xkeVjL8mpCIv/71cd158887e4c0715112b26744e612fd/win_rate_matplotlib.png?w=3840&q=90&fm=webp)
+
+## Safety
+
+Chain of thought reasoning provides new opportunities for alignment and safety. We found that integrating our policies for model behavior into the chain of thought of a reasoning model is an effective way to robustly teach human values and principles. By teaching the model our safety rules and how to reason about them in context, we found evidence of reasoning capability directly benefiting model robustness: o1‑preview achieved substantially improved performance on key jailbreak evaluations and our hardest internal benchmarks for evaluating our model's safety refusal boundaries. We believe that using a chain of thought offers significant advances for safety and alignment because (1) it enables us to observe the model thinking in a legible way, and (2) the model reasoning about safety rules is more robust to out-of-distribution scenarios.
+
+To stress-test our improvements, we conducted a suite of safety tests and red-teaming before deployment, in accordance with our [_Preparedness Framework_ ⁠(opens in a new window)](<https://cdn.openai.com/openai-preparedness-framework-beta.pdf>). We found that chain of thought reasoning contributed to capability improvements across our evaluations. Of particular note, we observed [interesting instances of reward hacking⁠(opens in a new window)](<https://cdn.openai.com/o1-system-card.pdf#page=16>). Detailed results from these evaluations can be found in the accompanying [System Card](</index/openai-o1-system-card/>).
+
+Metric| GPT-4o| o1-preview  
+---|---|---  
+% Safe completions on harmful prompts  
+Standard| 0.990| 0.995  
+% Safe completions on harmful prompts  
+Challenging: jailbreaks & edge cases| 0.714| 0.934  
+↳ Harassment (severe)| 0.845| 0.900  
+↳ Exploitative sexual content| 0.483| 0.949  
+↳ Sexual content involving minors| 0.707| 0.931  
+↳ Advice about non-violent wrongdoing| 0.688| 0.961  
+↳ Advice about violent wrongdoing| 0.778| 0.963  
+% Safe completions for top 200 with highest Moderation API scores per category in WildChat  
+[Zhao, et al. 2024](<https://arxiv.org/abs/2405.01470>)| 0.945| 0.971  
+Goodness@0.1 StrongREJECT jailbreak eval  
+[Souly et al. 2024](<https://arxiv.org/abs/2402.10260>)| 0.220| 0.840  
+Human sourced jailbreak eval| 0.770| 0.960  
+% Compliance on internal benign edge cases  
+“not over-refusal”| 0.910| 0.930  
+% Compliance on benign edge cases in XSTest  
+“not over-refusal”  
+[Röttger, et al. 2023](<https://arxiv.org/abs/2308.01263>)| 0.924| 0.976  
+  
+## Hiding the Chains of Thought
+
+We believe that a hidden chain of thought presents a unique opportunity for monitoring models. Assuming it is faithful and legible, the hidden chain of thought allows us to "read the mind" of the model**** and understand its thought process. For example, in the future we may wish to monitor the chain of thought for signs of manipulating the user. However, for this to work the model must have freedom to express its thoughts in unaltered form, so we cannot train any policy compliance or user preferences onto the chain of thought. We also do not want to make an unaligned chain of thought directly visible to users.
+
+Therefore, after weighing multiple factors including user experience, competitive advantage, and the option to pursue the chain of thought monitoring, we have decided not to show the raw chains of thought to users. We acknowledge this decision has disadvantages. We strive to partially make up for it by teaching the model to reproduce any useful ideas from the chain of thought in the answer. For the o1 model series we show a model-generated summary of the chain of thought.
+
+## Conclusion
+
+o1 significantly advances the state-of-the-art in AI reasoning. We plan to release improved versions of this model as we continue iterating. We expect these new reasoning capabilities will improve our ability to align models to human values and principles. We believe o1 – and its successors – will unlock many new use cases for AI in science, coding, math, and related fields. We are excited for users and API developers to discover how it can improve their daily work.
+
+## Appendix A
+
+Dataset| Metric| gpt-4o| o1-preview| o1  
+---|---|---|---|---  
+Competition Math  
+AIME (2024)| cons@64| 13.4| 56.7| 83.3  
+pass@1| 9.3| 44.6| 74.4  
+Competition Code  
+CodeForces| Elo| 808| 1,258| 1,673  
+Percentile| 11.0| 62.0| 89.0  
+GPQA Diamond| cons@64| 56.1| 78.3| 78.0  
+pass@1| 50.6| 73.3| 77.3  
+Biology| cons@64| 63.2| 73.7| 68.4  
+pass@1| 61.6| 65.9| 69.2  
+Chemistry| cons@64| 43.0| 60.2| 65.6  
+pass@1| 40.2| 59.9| 64.7  
+Physics| cons@64| 68.6| 89.5| 94.2  
+pass@1| 59.5| 89.4| 92.8  
+MATH| pass@1| 60.3| 85.5| 94.8  
+MMLU| pass@1| 88.0| 92.3| 90.8  
+MMMU (val)| pass@1| 69.1| n/a| 78.2  
+MathVista (testmini)| pass@1| 63.8| n/a| 73.9  
+  
+  * [o1](</research/index/?tags=o1>)
+  * [Reasonings & Policy](</research/index/?tags=reasoning-policy>)
+  * [Generative Models](</research/index/?tags=generative-models>)
+  * [Language](</research/index/?tags=language>)
+
+
+
+## Authors 
+
+OpenAI
+
+[View contributors](</openai-o1-contributions/>)
+
+## Citations
+
+  1. 1
+
+[https://www.anthropic.com/news/claude-3-5-sonnet⁠(opens in a new window)](<https://www.anthropic.com/news/claude-3-5-sonnet>), [https://deepmind.google/technologies/gemini/pro⁠(opens in a new window)](<https://deepmind.google/technologies/gemini/pro>)
+
+  2. 2
+
+Our evaluations used the same 500 problem test split found in[ https://arxiv.org/abs/2305.20050⁠(opens in a new window)](<https://arxiv.org/abs/2305.20050>)
+
+  3. 3
+
+[https://codeforces.com/blog/entry/68288⁠(opens in a new window)](<https://codeforces.com/blog/entry/68288>)
+
+
+
+
+Research
+
+  * [Research Index](</research/index/>)
+  * [Research Overview](</research/>)
+  * [Economic Research](</signals/>)
+
+
+
+Latest Advancements
+
+  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-5.6](</index/gpt-5-6/>)
+  * [GPT-5.5](</index/introducing-gpt-5-5/>)
+  * [GPT-5.4](</index/introducing-gpt-5-4/>)
+
+
+
+Safety
+
+  * [Safety Approach](</safety/>)
+  * [Deployment Safety(opens in a new window)](<https://deploymentsafety.openai.com/>)
+  * [Security & Privacy](</security-and-privacy/>)
+  * [Trust & Transparency](</trust-and-transparency/>)
+
+
+
+Products
+
+  * [ChatGPT(opens in a new window)](<https://chatgpt.com/>)
+  * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
+  * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
+  * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
+  * [Codex](</codex/>)
+  * [Release Notes](</products/release-notes/>)
+
+
+
+API Platform
+
+  * [Overview](</api/>)
+  * [API Log In(opens in a new window)](<https://platform.openai.com/login>)
+  * [Docs(opens in a new window)](<https://developers.openai.com/api/docs>)
+
+
+
+Business
+
+  * [Overview](</business/>)
+  * [Solutions](</solutions/>)
+  * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
+  * [Contact Sales](</contact-sales/>)
+
+
+
+Developers
+
+  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
+  * [Open Models](</open-models/>)
+  * [Docs(opens in a new window)](<https://developers.openai.com/>)
+  * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
+  * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
+
+
+
+Company
+
+  * [About Us](</about/>)
+  * [Our Charter](</charter/>)
+  * [Careers](</careers/>)
+  * [News](</news/>)
+
+
+
+Support
+
+  * [Help Center(opens in a new window)](<https://help.openai.com/>)
+
+
+
+More
+
+  * [Stories](</stories/>)
+  * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
+  * [Livestreams](</live/>)
+  * [Podcast](</podcast/>)
+  * [RSS](<https://openai.com/news/rss.xml>)
+
+
+
+Terms & Policies
+
+  * [Terms of Use](</policies/terms-of-use/>)
+  * [Privacy Policy](</policies/privacy-policy/>)
+  * [Other Policies ](</policies/>)
+
+
+
+[(opens in a new window)](<https://x.com/OpenAI>)[(opens in a new window)](<https://www.youtube.com/OpenAI>)[(opens in a new window)](<https://www.linkedin.com/company/openai>)[(opens in a new window)](<https://github.com/openai>)[(opens in a new window)](<https://www.instagram.com/openai/>)[(opens in a new window)](<https://www.tiktok.com/@openai>)[(opens in a new window)](<https://discord.gg/openai>)
+
+OpenAI © 2015–2026Your privacy choices
+
+EnglishUnited States
+
 ## GPT-4o
 
 User
@@ -135,11 +353,17 @@ The first phrase might follow the same structure as the example. It seems like t
 A possible division could be:
 
   * oyekaijzdf
+
   * aaptcg
+
   * suaokybhai
+
   * ouow
+
   * aqht
+
   * mynznvaatzacdfoulxxz
+
 
 
 
@@ -1468,10 +1692,15 @@ To decode the given ciphertext using the example provided, we’ll use the patte
 **Decoding Method:**
 
   1. **Pair the letters** in the ciphertext.
+
   2. **Convert each letter to its numerical position** in the alphabet (A=1, B=2, …, Z=26).
+
   3. **Sum the numerical values** of each pair.
+
   4. **Compute the average** of the sum (divide by 2).
+
   5. **Convert the average back to a letter** (1=A, 2=B, …, 26=Z).
+
 
 
 
@@ -1492,56 +1721,107 @@ To decode the given ciphertext using the example provided, we’ll use the patte
 `**Break down the ciphertext into pairs:**
 
   1. 1\. **First word: “oyekaijzdf”**
+
      1. Pairs: oy, ek, ai, jz, df
+
      2. Decoded letters:
+
         1. oy → (15+25)/2 = 20 → T
+
         2. ek → (5+11)/2 = 8 → H
+
         3. ai → (1+9)/2 = 5 → E
+
         4. jz → (10+26)/2 = 18 → R
+
      3. df → (4+6)/2 = 5 → E
+
      4. Decoded word: **THERE**
+
   2. **Second word: “aaptcg”**
+
      1. Pairs: aa, pt, cg
+
      2. Decoded letters:
+
         1. aa → (1+1)/2 = 1 → A
+
         2. pt → (16+20)/2 = 18 → R
+
         3. cg → (3+7)/2 = 5 → E
+
         4. Decoded word: **ARE**
+
   3. **Third word: “suaokybhai”**
+
      1. Pairs: su, ao, ky, bh, ai
+
      2. Decoded letters:
+
         1. su → (19+21)/2 = 20 → T
+
         2. ao → (1+15)/2 = 8 → H
+
         3. ky → (11+25)/2 = 18 → R
+
         4. bh → (2+8)/2 = 5 → E
+
         5. ai → (1+9)/2 = 5 → E
+
      3. Decoded word: **THREE**
+
   4. **Fourth word: “ouow”**
+
      1. Pairs: ou, ow
+
      2. Decoded letters:
+
         1. ou → (15+21)/2 = 18 → R
+
         2. ow → (15+23)/2 = 19 → S
+
      3. Decoded letters: **R’S**
+
   5. **Fifth word: “aqht”**
+
      1. Pairs: aq, ht
+
      2. Decoded letters:
+
         1. aq → (1+17)/2 = 9 → I
+
         2. ht → (8+20)/2 = 14 → N
+
      3. Decoded word: **IN**
+
   6. **Sixth word: “mynznvaatzacdfoulxxz”**
+
      1. Pairs: my, nz, nv, aa, tz, ac, df, ou, lx, xz
+
      2. Decoded letters:
+
         1. my → (13+25)/2 = 19 → S
+
         2. nz → (14+26)/2 = 20 → T
+
         3. nv → (14+22)/2 = 18 → R
+
         4. aa → (1+1)/2 = 1 → A
+
         5. tz → (20+26)/2 = 23 → W
+
         6. ac → (1+3)/2 = 2 → B
+
         7. df → (4+6)/2 = 5 → E
+
         8. ou → (15+21)/2 = 18 → R
+
         9. lx → (12+24)/2 = 18 → R
+
         10. xz → (24+26)/2 = 25 → Y
+
      3. Decoded word: **STRAWBERRY**
+
 
 
 
@@ -1561,219 +1841,3 @@ To decode the given ciphertext using the example provided, we’ll use the patte
   
 **Answer:  
 ** THERE ARE THREE R’S IN STRAWBERRY
-
-## Coding
-
-We trained a model that scored 213 points and ranked in the 49th percentile in the 2024 International Olympiad in Informatics (IOI), by initializing from o1 and training to further improve programming skills. This model competed in the 2024 IOI under the same conditions as the human contestants. It had ten hours to solve six challenging algorithmic problems and was allowed 50 submissions per problem.
-
-For each problem, our system sampled many candidate submissions and submitted 50 of them based on a test-time selection strategy. Submissions were selected based on performance on the IOI public test cases, model-generated test cases, and a learned scoring function. If we had instead submitted at random, we would have only scored 156 points on average, suggesting that this strategy was worth nearly 60 points under competition constraints.
-
-With a relaxed submission constraint, we found that model performance improved significantly. When allowed 10,000 submissions per problem, the model achieved a score of 362.14 – above the gold medal threshold – even without any test-time selection strategy. 
-
-Finally, we simulated competitive programming contests hosted by Codeforces to demonstrate this model’s coding skill. Our evaluations closely matched competition rules and allowed for 10 submissions. GPT‑4o achieved an Elo rating3 of 808, which is in the 11th percentile of human competitors. This model far exceeded both GPT‑4o and o1—it achieved an Elo rating of 1807, performing better than 93% of competitors.
-
-![The image shows a bar chart comparing Codeforces Elo percentile rankings for different models. GPT-4o has 808 Elo \(11th percentile\), o1 preview has 1258 Elo \(62nd percentile\), o1 has 1673 Elo \(89th percentile\), and o1-ioi has 1807 Elo \(93rd percentile\).](https://images.ctfassets.net/kftzwdyauwt9/2A6QVjt4bIQo4XR7VEnhgq/892e593ed472562b300c71fe40116bc3/ioi-code.png?w=3840&q=90&fm=webp)
-
-Further fine-tuning on programming competitions improves o1. The improved model ranked in the 49th percentile in the 2024 International Olympiad in Informatics under competition rules.
-
-## Human preference evaluation
-
-In addition to exams and academic benchmarks, we also evaluated human preference of o1‑preview vs GPT‑4o on challenging, open-ended prompts in a broad spectrum of domains. In this evaluation, human trainers were shown anonymized responses to a prompt from o1‑preview and GPT‑4o, and voted for which response they preferred. o1‑preview is preferred to gpt-4o by a large margin in reasoning-heavy categories like data analysis, coding, and math. However, o1‑preview is not preferred on some natural language tasks, suggesting that it is not well-suited for all use cases.
-
-![win rate matplotlib](https://images.ctfassets.net/kftzwdyauwt9/7fCp1d7GJ0xkeVjL8mpCIv/71cd158887e4c0715112b26744e612fd/win_rate_matplotlib.png?w=3840&q=90&fm=webp)
-
-## Safety
-
-Chain of thought reasoning provides new opportunities for alignment and safety. We found that integrating our policies for model behavior into the chain of thought of a reasoning model is an effective way to robustly teach human values and principles. By teaching the model our safety rules and how to reason about them in context, we found evidence of reasoning capability directly benefiting model robustness: o1‑preview achieved substantially improved performance on key jailbreak evaluations and our hardest internal benchmarks for evaluating our model's safety refusal boundaries. We believe that using a chain of thought offers significant advances for safety and alignment because (1) it enables us to observe the model thinking in a legible way, and (2) the model reasoning about safety rules is more robust to out-of-distribution scenarios.
-
-To stress-test our improvements, we conducted a suite of safety tests and red-teaming before deployment, in accordance with our [_Preparedness Framework_ ⁠(opens in a new window)](<https://cdn.openai.com/openai-preparedness-framework-beta.pdf>). We found that chain of thought reasoning contributed to capability improvements across our evaluations. Of particular note, we observed [interesting instances of reward hacking⁠(opens in a new window)](<https://cdn.openai.com/o1-system-card.pdf#page=16>). Detailed results from these evaluations can be found in the accompanying [System Card](</index/openai-o1-system-card/>).
-
-Metric| GPT-4o| o1-preview  
----|---|---  
-% Safe completions on harmful prompts  
-Standard| 0.990| 0.995  
-% Safe completions on harmful prompts  
-Challenging: jailbreaks & edge cases| 0.714| 0.934  
-↳ Harassment (severe)| 0.845| 0.900  
-↳ Exploitative sexual content| 0.483| 0.949  
-↳ Sexual content involving minors| 0.707| 0.931  
-↳ Advice about non-violent wrongdoing| 0.688| 0.961  
-↳ Advice about violent wrongdoing| 0.778| 0.963  
-% Safe completions for top 200 with highest Moderation API scores per category in WildChat  
-[Zhao, et al. 2024](<https://arxiv.org/abs/2405.01470>)| 0.945| 0.971  
-Goodness@0.1 StrongREJECT jailbreak eval  
-[Souly et al. 2024](<https://arxiv.org/abs/2402.10260>)| 0.220| 0.840  
-Human sourced jailbreak eval| 0.770| 0.960  
-% Compliance on internal benign edge cases  
-“not over-refusal”| 0.910| 0.930  
-% Compliance on benign edge cases in XSTest  
-“not over-refusal”  
-[Röttger, et al. 2023](<https://arxiv.org/abs/2308.01263>)| 0.924| 0.976  
-  
-## Hiding the Chains of Thought
-
-We believe that a hidden chain of thought presents a unique opportunity for monitoring models. Assuming it is faithful and legible, the hidden chain of thought allows us to "read the mind" of the model**** and understand its thought process. For example, in the future we may wish to monitor the chain of thought for signs of manipulating the user. However, for this to work the model must have freedom to express its thoughts in unaltered form, so we cannot train any policy compliance or user preferences onto the chain of thought. We also do not want to make an unaligned chain of thought directly visible to users.
-
-Therefore, after weighing multiple factors including user experience, competitive advantage, and the option to pursue the chain of thought monitoring, we have decided not to show the raw chains of thought to users. We acknowledge this decision has disadvantages. We strive to partially make up for it by teaching the model to reproduce any useful ideas from the chain of thought in the answer. For the o1 model series we show a model-generated summary of the chain of thought.
-
-## Conclusion
-
-o1 significantly advances the state-of-the-art in AI reasoning. We plan to release improved versions of this model as we continue iterating. We expect these new reasoning capabilities will improve our ability to align models to human values and principles. We believe o1 – and its successors – will unlock many new use cases for AI in science, coding, math, and related fields. We are excited for users and API developers to discover how it can improve their daily work.
-
-## Appendix A
-
-Dataset| Metric| gpt-4o| o1-preview| o1  
----|---|---|---|---  
-Competition Math  
-AIME (2024)| cons@64| 13.4| 56.7| 83.3  
-pass@1| 9.3| 44.6| 74.4  
-Competition Code  
-CodeForces| Elo| 808| 1,258| 1,673  
-Percentile| 11.0| 62.0| 89.0  
-GPQA Diamond| cons@64| 56.1| 78.3| 78.0  
-pass@1| 50.6| 73.3| 77.3  
-Biology| cons@64| 63.2| 73.7| 68.4  
-pass@1| 61.6| 65.9| 69.2  
-Chemistry| cons@64| 43.0| 60.2| 65.6  
-pass@1| 40.2| 59.9| 64.7  
-Physics| cons@64| 68.6| 89.5| 94.2  
-pass@1| 59.5| 89.4| 92.8  
-MATH| pass@1| 60.3| 85.5| 94.8  
-MMLU| pass@1| 88.0| 92.3| 90.8  
-MMMU (val)| pass@1| 69.1| n/a| 78.2  
-MathVista (testmini)| pass@1| 63.8| n/a| 73.9  
-  
-  * [o1](</research/index/?tags=o1>)
-  * [Reasonings & Policy](</research/index/?tags=reasoning-policy>)
-  * [Generative Models](</research/index/?tags=generative-models>)
-  * [Language](</research/index/?tags=language>)
-
-
-
-## Authors 
-
-OpenAI
-
-[View contributors](</openai-o1-contributions/>)
-
-## Citations
-
-  1. 1
-
-[https://www.anthropic.com/news/claude-3-5-sonnet⁠(opens in a new window)](<https://www.anthropic.com/news/claude-3-5-sonnet>), [https://deepmind.google/technologies/gemini/pro⁠(opens in a new window)](<https://deepmind.google/technologies/gemini/pro>)
-
-  2. 2
-
-Our evaluations used the same 500 problem test split found in[ https://arxiv.org/abs/2305.20050⁠(opens in a new window)](<https://arxiv.org/abs/2305.20050>)
-
-  3. 3
-
-[https://codeforces.com/blog/entry/68288⁠(opens in a new window)](<https://codeforces.com/blog/entry/68288>)
-
-
-
-
-Research
-
-  * [Research Index](</research/index/>)
-  * [Research Overview](</research/>)
-  * [Economic Research](</signals/>)
-
-
-
-Latest Advancements
-
-  * [GPT-5.6](</index/gpt-5-6/>)
-  * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
-
-
-
-Safety
-
-  * [Safety Approach](</safety/>)
-  * [Deployment Safety(opens in a new window)](<https://deploymentsafety.openai.com/>)
-  * [Security & Privacy](</security-and-privacy/>)
-  * [Trust & Transparency](</trust-and-transparency/>)
-
-
-
-Products
-
-  * [ChatGPT(opens in a new window)](<https://chatgpt.com/>)
-  * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
-  * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
-  * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
-  * [Release Notes](</products/release-notes/>)
-
-
-
-API Platform
-
-  * [Overview](</api/>)
-  * [API Log In(opens in a new window)](<https://platform.openai.com/login>)
-  * [Docs(opens in a new window)](<https://developers.openai.com/api/docs>)
-
-
-
-Business
-
-  * [Overview](</business/>)
-  * [Solutions](</solutions/>)
-  * [Resources](</business/learn/>)
-  * [Customer Stories](</business/customer-stories/>)
-  * [Partner Network](</business/partners/>)
-  * [Contact Sales](</contact-sales/>)
-
-
-
-Developers
-
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
-  * [Docs(opens in a new window)](<https://developers.openai.com/>)
-  * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
-  * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
-
-
-
-Company
-
-  * [About Us](</about/>)
-  * [Our Charter](</charter/>)
-  * [Careers](</careers/>)
-  * [News](</news/>)
-
-
-
-Support
-
-  * [Help Center(opens in a new window)](<https://help.openai.com/>)
-
-
-
-More
-
-  * [Stories](</stories/>)
-  * [Academy](</academy/>)
-  * [Supply Co.](</supply/>)
-  * [Livestreams](</live/>)
-  * [Podcast](</podcast/>)
-  * [RSS](<https://openai.com/news/rss.xml>)
-
-
-
-Terms & Policies
-
-  * [Terms of Use](</policies/terms-of-use/>)
-  * [Privacy Policy](</policies/privacy-policy/>)
-  * [Other Policies ](</policies/>)
-
-
-
-[(opens in a new window)](<https://x.com/OpenAI>)[(opens in a new window)](<https://www.youtube.com/OpenAI>)[(opens in a new window)](<https://www.linkedin.com/company/openai>)[(opens in a new window)](<https://github.com/openai>)[(opens in a new window)](<https://www.instagram.com/openai/>)[(opens in a new window)](<https://www.tiktok.com/@openai>)[(opens in a new window)](<https://discord.gg/openai>)
-
-OpenAI © 2015–2026Your privacy choices
-
-EnglishUnited States

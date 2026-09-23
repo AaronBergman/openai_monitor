@@ -96,7 +96,7 @@ dbt MCP Server helps users inspect dbt projects, query dbt Semantic Layer metric
 
 ### [Privacy policyLearn more](<https://www.getdbt.com/cloud/privacy-policy>)
 
-## Add plugins in a few clicks
+## Add the DBT plugin in a few clicks
 
 Availability depends on the plugin, your plan, and workspace settings. Some connections require admin setup or approval. Contact your workspace admin if access is blocked.
 
@@ -219,7 +219,7 @@ OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
 
-### 1Find a plugin1Find a plugin
+### 1Find the DBT plugin1Find the DBT plugin
 
 Browse for plugins that support your team’s tools and tasks.
 

@@ -102,7 +102,7 @@ Data lake, analytics, and ETL workflows with S3 Tables, AWS Glue, and Athena. Co
 
 ### [Privacy policyLearn more](<https://docs.aws.amazon.com/agent-toolkit/latest/userguide/data-protection.html>)
 
-## Add plugins in a few clicks
+## Add the AWS Data Analytics plugin in a few clicks
 
 Availability depends on the plugin, your plan, and workspace settings. Some connections require admin setup or approval. Contact your workspace admin if access is blocked.
 
@@ -225,7 +225,7 @@ OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
 
-### 1Find a plugin1Find a plugin
+### 1Find the AWS Data Analytics plugin1Find the AWS Data Analytics plugin
 
 Browse for plugins that support your team’s tools and tasks.
 

@@ -104,7 +104,7 @@ Create images, videos, branded content, and websites with Higgsfield in ChatGPT.
 
 ### [Privacy policyLearn more](<https://higgsfield.ai/privacy-policy>)
 
-## Add plugins in a few clicks
+## Add the Higgsfield plugin in a few clicks
 
 Availability depends on the plugin, your plan, and workspace settings. Some connections require admin setup or approval. Contact your workspace admin if access is blocked.
 
@@ -227,7 +227,7 @@ OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
 
-### 1Find a plugin1Find a plugin
+### 1Find the Higgsfield plugin1Find the Higgsfield plugin
 
 Browse for plugins that support your team’s tools and tasks.
 

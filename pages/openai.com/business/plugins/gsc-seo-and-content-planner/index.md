@@ -96,7 +96,7 @@ Connect Google Search Console to analyze finalized search performance, uncover k
 
 ### [Privacy policyLearn more](<https://smepost.io/privacy>)
 
-## Add plugins in a few clicks
+## Add the GSC SEO & Content Planner plugin in a few clicks
 
 Availability depends on the plugin, your plan, and workspace settings. Some connections require admin setup or approval. Contact your workspace admin if access is blocked.
 
@@ -219,7 +219,7 @@ OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
 
-### 1Find a plugin1Find a plugin
+### 1Find the GSC SEO & Content Planner plugin1Find the GSC SEO & Content Planner plugin
 
 Browse for plugins that support your team’s tools and tasks.
 

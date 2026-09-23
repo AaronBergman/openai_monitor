@@ -93,7 +93,7 @@ Search and retrieve Teams chats and messages so teams can quickly find past disc
 
 ### [Privacy policyLearn more](<https://privacy.microsoft.com>)
 
-## Add plugins in a few clicks
+## Add the Teams plugin in a few clicks
 
 Availability depends on the plugin, your plan, and workspace settings. Some connections require admin setup or approval. Contact your workspace admin if access is blocked.
 
@@ -216,7 +216,7 @@ OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
 
-### 1Find a plugin1Find a plugin
+### 1Find the Teams plugin1Find the Teams plugin
 
 Browse for plugins that support your team’s tools and tasks.
 

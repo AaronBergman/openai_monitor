@@ -98,7 +98,7 @@ Connect Databricks to ChatGPT to inspect governed lakehouse data, ask analytics 
 
 ### [Privacy policyLearn more](<https://www.databricks.com/legal/privacynotice>)
 
-## Add plugins in a few clicks
+## Add the Databricks Genie plugin in a few clicks
 
 Availability depends on the plugin, your plan, and workspace settings. Some connections require admin setup or approval. Contact your workspace admin if access is blocked.
 
@@ -221,7 +221,7 @@ OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
 
-### 1Find a plugin1Find a plugin
+### 1Find the Databricks Genie plugin1Find the Databricks Genie plugin
 
 Browse for plugins that support your team’s tools and tasks.
 

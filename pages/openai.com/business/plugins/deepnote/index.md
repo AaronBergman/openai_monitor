@@ -103,7 +103,7 @@ Deepnote gives teams a collaborative workspace for notebooks, SQL, apps, and dat
 
 ### [Privacy policyLearn more](<https://deepnote.com/privacy>)
 
-## Add plugins in a few clicks
+## Add the Deepnote plugin in a few clicks
 
 Availability depends on the plugin, your plan, and workspace settings. Some connections require admin setup or approval. Contact your workspace admin if access is blocked.
 
@@ -226,7 +226,7 @@ OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
 
-### 1Find a plugin1Find a plugin
+### 1Find the Deepnote plugin1Find the Deepnote plugin
 
 Browse for plugins that support your team’s tools and tasks.
 

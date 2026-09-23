@@ -90,7 +90,7 @@ Connect to CourtListener, the Free Law Project's legal research platform, with a
 
 ### [Privacy policyLearn more](<https://wiki.free.law/c/terms/courtlistener/courtlistenercom-terms-of-service-and-policies#privacy-policy>)
 
-## Add plugins in a few clicks
+## Add the CourtListener plugin in a few clicks
 
 Availability depends on the plugin, your plan, and workspace settings. Some connections require admin setup or approval. Contact your workspace admin if access is blocked.
 
@@ -213,7 +213,7 @@ OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
 
-### 1Find a plugin1Find a plugin
+### 1Find the CourtListener plugin1Find the CourtListener plugin
 
 Browse for plugins that support your team’s tools and tasks.
 

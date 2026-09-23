@@ -93,7 +93,7 @@ View upcoming events and attendee availability to plan meetings, avoid conflicts
 
 ### [Privacy policyLearn more](<https://policies.google.com/privacy>)
 
-## Add plugins in a few clicks
+## Add the Google Calendar plugin in a few clicks
 
 Availability depends on the plugin, your plan, and workspace settings. Some connections require admin setup or approval. Contact your workspace admin if access is blocked.
 
@@ -216,7 +216,7 @@ OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
 
-### 1Find a plugin1Find a plugin
+### 1Find the Google Calendar plugin1Find the Google Calendar plugin
 
 Browse for plugins that support your team’s tools and tasks.
 
