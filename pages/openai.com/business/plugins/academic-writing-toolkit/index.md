@@ -88,7 +88,7 @@ Academic Writing Toolkit helps users review pasted academic writing materials in
 
 ### [Privacy policyLearn more](<https://github.com/yha9806/academic-writing-toolkit/blob/master/docs/privacy.md>)
 
-## Add plugins in a few clicks
+## Add the Academic Writing Toolkit plugin in a few clicks
 
 Availability depends on the plugin, your plan, and workspace settings. Some connections require admin setup or approval. Contact your workspace admin if access is blocked.
 
@@ -211,7 +211,7 @@ OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
 
-### 1Find a plugin1Find a plugin
+### 1Find the Academic Writing Toolkit plugin1Find the Academic Writing Toolkit plugin
 
 Browse for plugins that support your team’s tools and tasks.
 

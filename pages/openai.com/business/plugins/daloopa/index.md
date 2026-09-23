@@ -102,7 +102,7 @@ Access verified financial fundamentals and KPIs with direct source links in Chat
 
 ### [Privacy policyLearn more](<https://daloopa.ai/privacy>)
 
-## Add plugins in a few clicks
+## Add the Daloopa plugin in a few clicks
 
 Availability depends on the plugin, your plan, and workspace settings. Some connections require admin setup or approval. Contact your workspace admin if access is blocked.
 
@@ -225,7 +225,7 @@ OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
 
-### 1Find a plugin1Find a plugin
+### 1Find the Daloopa plugin1Find the Daloopa plugin
 
 Browse for plugins that support your team’s tools and tasks.
 

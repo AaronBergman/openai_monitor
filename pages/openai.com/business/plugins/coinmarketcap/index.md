@@ -98,7 +98,7 @@ Real-time prices, market cap, and volume for millions of crypto assets tracked b
 
 ### [Privacy policyLearn more](<https://coinmarketcap.com/privacy/>)
 
-## Add plugins in a few clicks
+## Add the CoinMarketCap plugin in a few clicks
 
 Availability depends on the plugin, your plan, and workspace settings. Some connections require admin setup or approval. Contact your workspace admin if access is blocked.
 
@@ -221,7 +221,7 @@ OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
 
-### 1Find a plugin1Find a plugin
+### 1Find the CoinMarketCap plugin1Find the CoinMarketCap plugin
 
 Browse for plugins that support your team’s tools and tasks.
 

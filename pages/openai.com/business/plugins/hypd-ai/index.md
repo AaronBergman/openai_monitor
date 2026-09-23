@@ -90,7 +90,7 @@ HYPD brings your advertising and analytics accounts into ChatGPT so you can anal
 
 ### [Privacy policyLearn more](<https://www.hypd.ai/privacy>)
 
-## Add plugins in a few clicks
+## Add the HYPD AI - Paid Ads & Analytics plugin in a few clicks
 
 Availability depends on the plugin, your plan, and workspace settings. Some connections require admin setup or approval. Contact your workspace admin if access is blocked.
 
@@ -213,7 +213,7 @@ OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
 
-### 1Find a plugin1Find a plugin
+### 1Find the HYPD AI - Paid Ads & Analytics plugin1Find the HYPD AI - Paid Ads & Analytics plugin
 
 Browse for plugins that support your team’s tools and tasks.
 

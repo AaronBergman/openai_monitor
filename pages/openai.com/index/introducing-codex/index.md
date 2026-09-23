@@ -142,9 +142,13 @@ Technical teams at OpenAI have started using Codex as part of their daily toolki
 Leading up to release, we’ve also been working with a small group of external testers to better understand how Codex performs across diverse codebases, development processes, and teams.
 
   * [_Cisco_ ⁠(opens in a new window)](<https://blogs.cisco.com/news/the-future-is-coming-faster-than-you-think>) is exploring how Codex can help their engineering teams bring ambitious ideas to life faster. As early design partners, Cisco is helping shape the future of Codex by evaluating it for real-world use cases across their product portfolio and providing feedback to the OpenAI team.
+
   * [_Temporal_ ⁠(opens in a new window)](<https://temporal.io/>) uses Codex to accelerate feature development, debug issues, write and execute tests, and refactor large codebases. It also helps them stay focused by running complex tasks in the background—keeping engineers in flow while speeding up iteration.
+
   * [_Superhuman_ ⁠(opens in a new window)](<https://superhuman.com/>)**** uses Codex to speed up small but repetitive tasks like improving test coverage and fixing integration failures. It also helps them ship faster by enabling product managers to contribute lightweight code changes without pulling in an engineer, except for code review.
+
   * [_Kodiak_ ⁠(opens in a new window)](<https://kodiak.ai/>) is using Codex to help write debugging tools, improve test coverage, and refactor code—accelerating development of the Kodiak Driver, their autonomous driving technology. Codex has also become a valuable reference tool, helping engineers understand unfamiliar parts of the stack by surfacing relevant context and past changes.
+
 
 
 
@@ -433,6 +437,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)

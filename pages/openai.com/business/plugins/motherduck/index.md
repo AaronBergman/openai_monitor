@@ -34,7 +34,7 @@ OpenAI
 
 Get answers from your data
 
-[Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_696a54f1c91c81919002b9153ce0e336>)[Contact sales](</contact-sales/>)
+[Install plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_696a54f1c91c81919002b9153ce0e336>)[Contact sales](</contact-sales/>)
 
 Category
     [Data](</business/plugins/?tab=plugins-data-research>)
@@ -51,31 +51,25 @@ Website
 
 Connect AI assistants to your MotherDuck data warehouse. Explore, visualize, and manage data using natural language–no SQL skills required. Create Dives: interactive visualizations that let you save and share answers with your team, staying up-to-date with your latest data. Works with real-world data without requiring semantic models or pre-configuration. Your AI assistant acts like a data analyst, exploring, validating, analyzing, and visualizing data iteratively to answer your questions.
 
-## Common use cases
+## What else can you do?
 
   * ### Rank top customers
 
-Identify your 30 highest-revenue customers from the previous quarter.
-
 ![](https://files.openai.com/content?id=file_00000000fcec722f93ce8fc533902718&cdn=1&cp=pi&ma=30326400&ts=0&p=pi&cid=1&sig=70460db27b5551bfe8cd4fb2188caa7326485521b40f23f8b1c8b8c97fbcdff8&v=0)MotherDuck Show me the top 30 customers by revenue last quarter
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40MotherDuck+Show+me+the+top+30+customers+by+revenue+last+quarter>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40MotherDuck+Show+me+the+top+30+customers+by+revenue+last+quarter>)
 
   * ### Investigate revenue shifts
 
-Break down monthly revenue changes to identify the segments driving growth or decline.
-
 ![](https://files.openai.com/content?id=file_00000000fcec722f93ce8fc533902718&cdn=1&cp=pi&ma=30326400&ts=0&p=pi&cid=1&sig=70460db27b5551bfe8cd4fb2188caa7326485521b40f23f8b1c8b8c97fbcdff8&v=0)MotherDuck Analyze monthly revenue over the last six months by customer segment. Validate the joins and revenue definition, identify the largest shifts, and summarize which segments warrant further investigation.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40MotherDuck+Analyze+monthly+revenue+over+the+last+six+months+by+customer+segment.+Validate+the+joins+and+revenue+definition%2C+identify+the+largest+shifts%2C+and+summarize+which+segments+warrant+further+investigation.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40MotherDuck+Analyze+monthly+revenue+over+the+last+six+months+by+customer+segment.+Validate+the+joins+and+revenue+definition%2C+identify+the+largest+shifts%2C+and+summarize+which+segments+warrant+further+investigation.>)
 
   * ### Build a revenue Dive
 
-Create an interactive view of revenue trends that your team can revisit with current data.
-
 ![](https://files.openai.com/content?id=file_00000000fcec722f93ce8fc533902718&cdn=1&cp=pi&ma=30326400&ts=0&p=pi&cid=1&sig=70460db27b5551bfe8cd4fb2188caa7326485521b40f23f8b1c8b8c97fbcdff8&v=0)MotherDuck Create a Dive showing monthly revenue by region over the last year, with region and date filters. Validate totals against the source data and save it in my workspace for the team's recurring business review.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40MotherDuck+Create+a+Dive+showing+monthly+revenue+by+region+over+the+last+year%2C+with+region+and+date+filters.+Validate+totals+against+the+source+data+and+save+it+in+my+workspace+for+the+team%27s+recurring+business+review.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40MotherDuck+Create+a+Dive+showing+monthly+revenue+by+region+over+the+last+year%2C+with+region+and+date+filters.+Validate+totals+against+the+source+data+and+save+it+in+my+workspace+for+the+team%27s+recurring+business+review.>)
 
 
 
@@ -96,7 +90,7 @@ Create an interactive view of revenue trends that your team can revisit with cur
 
 ### [Privacy policyLearn more](<https://motherduck.com/privacy-policy/>)
 
-## Add plugins in a few clicks
+## Add the MotherDuck plugin in a few clicks
 
 Availability depends on the plugin, your plan, and workspace settings. Some connections require admin setup or approval. Contact your workspace admin if access is blocked.
 
@@ -162,6 +156,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -218,7 +213,7 @@ OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
 
-### 1Find a plugin1Find a plugin
+### 1Find the MotherDuck plugin1Find the MotherDuck plugin
 
 Browse for plugins that support your team’s tools and tasks.
 

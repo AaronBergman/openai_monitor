@@ -34,7 +34,7 @@ OpenAI
 
 Query and explore your Metabase data
 
-[Add plugin(opens in a new window)](<https://chatgpt.com/plugins/Plugin_b823126599908191973c3f6b7592b1c5>)[Contact sales](</contact-sales/>)
+[Install plugin(opens in a new window)](<https://chatgpt.com/plugins/Plugin_b823126599908191973c3f6b7592b1c5>)[Contact sales](</contact-sales/>)
 
 Capabilities
     Read, Write
@@ -48,37 +48,31 @@ Developer
 Website
     [(opens in a new window)](<https://www.metabase.com>)
 
-[![](https://files.openai.com/content?id=file_000000002bbc71f5bc755e91691ff8b1&cdn=1&cp=pi&ma=32486400&ts=0&p=pi&cid=1&sig=6b12f8cfafed2fa5e27593ce8152920034846f504425a61c8312400130de3991&v=0)Metabase Use Metabase to find tables related to <topic>.(opens in a new window)](<https://chatgpt.com/?prompt=%40Metabase+Use+Metabase+to+find+tables+related+to+%3Ctopic%3E.>)[![](https://files.openai.com/content?id=file_000000002bbc71f5bc755e91691ff8b1&cdn=1&cp=pi&ma=32486400&ts=0&p=pi&cid=1&sig=6b12f8cfafed2fa5e27593ce8152920034846f504425a61c8312400130de3991&v=0)Metabase Use Metabase to query <table> and summarize <metric> by <dimension>.(opens in a new window)](<https://chatgpt.com/?prompt=%40Metabase+Use+Metabase+to+query+%3Ctable%3E+and+summarize+%3Cmetric%3E+by+%3Cdimension%3E.>)
+[![](https://files.openai.com/content?id=file_000000002bbc71f5bc755e91691ff8b1&cdn=1&cp=pi&ma=32486400&ts=0&p=pi&cid=1&sig=6b12f8cfafed2fa5e27593ce8152920034846f504425a61c8312400130de3991&v=0)Metabase Use Metabase to find tables related to <topic>.(opens in a new window)](<https://chatgpt.com/?prompt=%40Metabase+Use+Metabase+to+find+tables+related+to+%3Ctopic%3E.>)
 
 ## How it works
 
 Search tables and metrics, run queries, explore field values, spin up instances, and embed dashboards
 
-## Common use cases
+## What else can you do?
 
   * ### Find the right reporting data
 
-Identify tables, metrics, and fields that can support a revenue report before writing a query.
-
 ![](https://files.openai.com/content?id=file_000000002bbc71f5bc755e91691ff8b1&cdn=1&cp=pi&ma=32486400&ts=0&p=pi&cid=1&sig=6b12f8cfafed2fa5e27593ce8152920034846f504425a61c8312400130de3991&v=0)Metabase Find tables and metrics for a quarterly revenue report by region. Inspect their fields and sample values, recommend the best sources and joins, and flag missing definitions or date coverage.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Metabase+Find+tables+and+metrics+for+a+quarterly+revenue+report+by+region.+Inspect+their+fields+and+sample+values%2C+recommend+the+best+sources+and+joins%2C+and+flag+missing+definitions+or+date+coverage.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Metabase+Find+tables+and+metrics+for+a+quarterly+revenue+report+by+region.+Inspect+their+fields+and+sample+values%2C+recommend+the+best+sources+and+joins%2C+and+flag+missing+definitions+or+date+coverage.>)
 
   * ### Explain regional revenue changes
 
-Query regional revenue trends and highlight the regions contributing most to the overall change.
-
 ![](https://files.openai.com/content?id=file_000000002bbc71f5bc755e91691ff8b1&cdn=1&cp=pi&ma=32486400&ts=0&p=pi&cid=1&sig=6b12f8cfafed2fa5e27593ce8152920034846f504425a61c8312400130de3991&v=0)Metabase Query revenue by region for the last two completed quarters using our existing metric definition. Chart the comparison, identify the largest contributors to the change, and summarize data limitations.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Metabase+Query+revenue+by+region+for+the+last+two+completed+quarters+using+our+existing+metric+definition.+Chart+the+comparison%2C+identify+the+largest+contributors+to+the+change%2C+and+summarize+data+limitations.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Metabase+Query+revenue+by+region+for+the+last+two+completed+quarters+using+our+existing+metric+definition.+Chart+the+comparison%2C+identify+the+largest+contributors+to+the+change%2C+and+summarize+data+limitations.>)
 
   * ### Audit order data completeness
 
-Measure missing fields and duplicate order identifiers to prioritize data quality fixes.
-
 ![](https://files.openai.com/content?id=file_000000002bbc71f5bc755e91691ff8b1&cdn=1&cp=pi&ma=32486400&ts=0&p=pi&cid=1&sig=6b12f8cfafed2fa5e27593ce8152920034846f504425a61c8312400130de3991&v=0)Metabase Inspect our orders table and check the past 30 days for missing customer IDs, blank order dates, and duplicate order IDs. Summarize issue rates by week and prioritize the checks needing follow-up.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Metabase+Inspect+our+orders+table+and+check+the+past+30+days+for+missing+customer+IDs%2C+blank+order+dates%2C+and+duplicate+order+IDs.+Summarize+issue+rates+by+week+and+prioritize+the+checks+needing+follow-up.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Metabase+Inspect+our+orders+table+and+check+the+past+30+days+for+missing+customer+IDs%2C+blank+order+dates%2C+and+duplicate+order+IDs.+Summarize+issue+rates+by+week+and+prioritize+the+checks+needing+follow-up.>)
 
 
 
@@ -99,7 +93,7 @@ Measure missing fields and duplicate order identifiers to prioritize data qualit
 
 ### [Privacy policyLearn more](<https://www.metabase.com/privacy>)
 
-## Add plugins in a few clicks
+## Add the Metabase plugin in a few clicks
 
 Availability depends on the plugin, your plan, and workspace settings. Some connections require admin setup or approval. Contact your workspace admin if access is blocked.
 
@@ -165,6 +159,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -221,7 +216,7 @@ OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
 
-### 1Find a plugin1Find a plugin
+### 1Find the Metabase plugin1Find the Metabase plugin
 
 Browse for plugins that support your team’s tools and tasks.
 

@@ -48,6 +48,12 @@ Switch cards to hide Media
 
 Product
 
+Sep 22, 2026
+
+[Introducing GPT-6 Sol and LunaMeet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost.](</index/introducing-gpt-6-sol-and-luna/>)
+
+Product
+
 Sep 10, 2026
 
 [Build more natural voice experiences with GPT‑Live‑1 in the APIGPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.](</index/introducing-gpt-live-1-in-the-api/>)
@@ -93,12 +99,6 @@ Publication
 Aug 1, 2026
 
 [Ten advances in mathematics and theoretical computer scienceOpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexity.](</index/ten-advances-in-mathematics/>)
-
-Research
-
-Jul 29, 2026
-
-[How enabling two settings tripled our scores on the ARC-AGI-3 benchmarkHow two API settings improved GPT-5.6 performance on ARC-AGI-3, boosting scores and efficiency by retaining reasoning and enabling compaction.](</index/how-two-settings-tripled-our-arc-agi-3-scores/>)
 
 Load more
 

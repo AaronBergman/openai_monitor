@@ -90,7 +90,7 @@ Krisp AI Meeting Assistant MCP gives your AI assistant secure access to your mee
 
 ### [Privacy policyLearn more](<https://krisp.ai/privacy-policy/>)
 
-## Add plugins in a few clicks
+## Add the Krisp plugin in a few clicks
 
 Availability depends on the plugin, your plan, and workspace settings. Some connections require admin setup or approval. Contact your workspace admin if access is blocked.
 
@@ -213,7 +213,7 @@ OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
 
-### 1Find a plugin1Find a plugin
+### 1Find the Krisp plugin1Find the Krisp plugin
 
 Browse for plugins that support your team’s tools and tasks.
 

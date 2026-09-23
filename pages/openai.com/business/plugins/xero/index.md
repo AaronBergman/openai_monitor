@@ -49,7 +49,7 @@ Website
 
 ## How it works
 
-Check your P&L, cash position, outstanding invoices, top customers and more — directly from Claude. Xero surfaces real-time financial summaries with flexible date ranges, year-over-year comparisons, and links back to Xero for deeper analysis. ChatGPT connects with read-only access. Any data retrieved is used only to respond to your questions and is never stored between sessions.
+Check your P&L, cash position, outstanding invoices, top customers and more — directly from ChatGPT. Xero surfaces real-time financial summaries with flexible date ranges, year-over-year comparisons, and links back to Xero for deeper analysis. ChatGPT connects with read-only access. Any data retrieved is used only to respond to your questions and is never stored between sessions.
 
 ## What else can you do?
 
@@ -90,7 +90,7 @@ Check your P&L, cash position, outstanding invoices, top customers and more — 
 
 ### [Privacy policyLearn more](<https://www.xero.com/legal/privacy/>)
 
-## Add plugins in a few clicks
+## Add the Xero plugin in a few clicks
 
 Availability depends on the plugin, your plan, and workspace settings. Some connections require admin setup or approval. Contact your workspace admin if access is blocked.
 
@@ -156,6 +156,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -212,7 +213,7 @@ OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
 
-### 1Find a plugin1Find a plugin
+### 1Find the Xero plugin1Find the Xero plugin
 
 Browse for plugins that support your team’s tools and tasks.
 

@@ -96,7 +96,7 @@ Connect your Mercury account to ChatGPT to get answers about your finances in th
 
 ### [Privacy policyLearn more](<https://mercury.com/legal/privacy>)
 
-## Add plugins in a few clicks
+## Add the Mercury plugin in a few clicks
 
 Availability depends on the plugin, your plan, and workspace settings. Some connections require admin setup or approval. Contact your workspace admin if access is blocked.
 
@@ -219,7 +219,7 @@ OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
 
-### 1Find a plugin1Find a plugin
+### 1Find the Mercury plugin1Find the Mercury plugin
 
 Browse for plugins that support your team’s tools and tasks.
 

@@ -104,7 +104,7 @@ Shopify for ChatGPT makes starting, running, and growing an online store as easy
 
 ### [Privacy policyLearn more](<https://www.shopify.com/legal/privacy>)
 
-## Add plugins in a few clicks
+## Add the Shopify plugin in a few clicks
 
 Availability depends on the plugin, your plan, and workspace settings. Some connections require admin setup or approval. Contact your workspace admin if access is blocked.
 
@@ -227,7 +227,7 @@ OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
 
-### 1Find a plugin1Find a plugin
+### 1Find the Shopify plugin1Find the Shopify plugin
 
 Browse for plugins that support your team’s tools and tasks.
 

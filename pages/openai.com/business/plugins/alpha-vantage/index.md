@@ -90,7 +90,7 @@ Real-time and historical stock prices, quotes, and price history for any ticker,
 
 ### [Privacy policyLearn more](<https://www.alphavantage.co/privacy/>)
 
-## Add plugins in a few clicks
+## Add the Alpha Vantage plugin in a few clicks
 
 Availability depends on the plugin, your plan, and workspace settings. Some connections require admin setup or approval. Contact your workspace admin if access is blocked.
 
@@ -213,7 +213,7 @@ OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
 
-### 1Find a plugin1Find a plugin
+### 1Find the Alpha Vantage plugin1Find the Alpha Vantage plugin
 
 Browse for plugins that support your team’s tools and tasks.
 

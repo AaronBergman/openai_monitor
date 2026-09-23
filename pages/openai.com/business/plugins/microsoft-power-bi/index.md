@@ -93,7 +93,7 @@ Use Power BI, a Microsoft Fabric service, to explore reports, build visuals, and
 
 ### [Privacy policyLearn more](<https://openai.com/policies/row-privacy-policy/>)
 
-## Add plugins in a few clicks
+## Add the Microsoft Power BI plugin in a few clicks
 
 Availability depends on the plugin, your plan, and workspace settings. Some connections require admin setup or approval. Contact your workspace admin if access is blocked.
 
@@ -159,6 +159,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -215,7 +216,7 @@ OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
 
-### 1Find a plugin1Find a plugin
+### 1Find the Microsoft Power BI plugin1Find the Microsoft Power BI plugin
 
 Browse for plugins that support your team’s tools and tasks.
 

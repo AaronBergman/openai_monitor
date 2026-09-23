@@ -97,8 +97,11 @@ In the early days of the product, most of the correction was manual. Practitione
 That led us to design the system around three pillars:
 
   1. **Stay close to practitioners:** The people doing the work need to steer what the product learns. Their intuition and understanding reveal which errors matter and help inform which parts of the workflow are worth focusing on next.
+
   2. **Build the product so production creates evidence:** The product has to capture more than just inputs and outputs; it needs to capture the full path from source material, to extracted fields and provenance, to downstream submission and expert correction.
+
   3. **Create a Codex-driven improvement loop:** Once production issues are visible and structured, they can become findings, tailored evals, and scoped engineering tasks. Codex can then help investigate, propose changes, validate them against targeted and regression evals, and move the product forward faster than a purely manual iteration cycle. 
+
 
 
 
@@ -123,8 +126,11 @@ Because we could see these corrections in detail, we transformed the review proc
 For a complex workflow like rental properties, the system has to preserve what happens between the source files and the filed return. Along that path, documents are organized, split, and classified; rental-property fields are extracted with citations back to the source material; those values are mapped into the tax engine; and practitioners may still correct them before filing. Those product-level traces make it possible to investigate where a failure occurred. To turn practitioner corrections into useful evaluation targets, the system processes them in three steps:
 
   * **Capture the difference:** Tax AI’s output is compared with the filed return to produce field-level review rows that capture the expected value, predicted value, and whether the difference appears actionable.
+
   * **Group related failures:** Similar review rows are grouped to separate recurring product failures from expected workflow noise. For example, repeated practitioner corrections might show that Tax AI often misses fair-rental-day fields, mishandles “other expenses,” or confuses multiple rental properties across the same source package.
+
   * **Turn repeated patterns into eval targets** : Once reviewed and measured, repeated findings become clear eval targets for Codex to improve.
+
 
 
 
@@ -141,9 +147,13 @@ Suppose our eval pipeline flags that Tax AI consistently misses the "fair rental
 Codex isn’t working solely with a sub-par final output. It inspects the trace, eval, repo, and skills together:
 
   * **Investigate the pipeline:** Inspect source packages, extraction schemas, mapper behavior, and code paths to determine whether the issue is an unsupported field, a missed extraction pattern, a source-selection problem, a mapper gap, or a grader issue.
+
   * **Implement targeted fixes:** Extend the extraction schema, improve source selection for rental-property documents, update the tax-engine mapper, or refine the grader if expected workflow noise is being counted as a failure.
+
   * **Validate and propose:** Rerun the targeted eval, run broader regression suites, and surface a candidate pull request for engineering review.
+
   * **Close the loop:** Turn a recurring practitioner correction into a measurable engineering task. If the evidence is ambiguous or not safely automatable, the case routes back to the product team instead of being forced through the loop.
+
 
 
 
@@ -403,6 +413,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)

@@ -90,7 +90,7 @@ Demandbase integration with ChatGPT and Codex gives sales, marketing, and GTM te
 
 ### [Privacy policyLearn more](<https://www.demandbase.com/privacy/>)
 
-## Add plugins in a few clicks
+## Add the Demandbase plugin in a few clicks
 
 Availability depends on the plugin, your plan, and workspace settings. Some connections require admin setup or approval. Contact your workspace admin if access is blocked.
 
@@ -213,7 +213,7 @@ OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
 
-### 1Find a plugin1Find a plugin
+### 1Find the Demandbase plugin1Find the Demandbase plugin
 
 Browse for plugins that support your team’s tools and tasks.
 

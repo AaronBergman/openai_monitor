@@ -1,5 +1,38 @@
 # openai_monitor
 
+## 2026-09-23T09-15Z
+
+**Fetch time:** 2026-09-23T09:17:06Z (sitemap) / 09:17Z–09:18Z (570 pages) UTC | **Baseline:** 2026-09-22T09-16Z (consecutive day)
+
+**TL;DR:** A quiet news day carrying forward two mechanical rollouts from earlier in the week. Four new pages went up: **GPT‑6 Sol and Luna**, two cheaper/faster siblings to GPT‑6 Astra with a claimed **50% API price cut**; a **prompt-caching overhaul** for GPT‑6 (new dashboard, cache-miss diagnostics, 30-minute cache-reuse window); a startup case study (**Parallel**, research time/cost cut in half with Astra); and a safety-policy essay on **priorities and principles for third-party assessments** of frontier models, a companion piece to Monday's international-standards essay. Otherwise, the plugin-page rebrand tracked since 2026-09-21 continued spreading (214 more plugin pages got "Install plugin," personalized "Add the X plugin" instructions, and "Try in ChatGPT Work" links), and the sitewide footer "Plugins" nav link reached 97 more pages. The remaining ~250 `<lastmod>` bumps were just "Keep reading" recirculation-widget noise. **1,997 URLs across 42 sub-sitemaps** (+4 added, 0 removed).
+
+### Anomalies
+
+No timestamp anomalies (no future/backwards `<lastmod>`, no backdated new URLs, no reappeared URLs, no sub-sitemap migrations). Two fetch-quality anomalies worth flagging, though: (1) `research/index/publication/` rendered its article list as "No results found" this run while its sibling listing pages fetched fine — almost certainly a one-off client-render glitch in our scrape, not OpenAI pulling their publications; watching next run. (2) The old (2024) "Learning to reason with LLMs" (o1) post recovered **~1,500 lines** of body content that was missing in our prior snapshot — strong confirmation that last run's flagged "content losses" on similar old posts were scraper rendering artifacts, not real edits (though the specific 4 pages flagged 2026-09-22 didn't recover today, so it's intermittent, not fixed).
+
+Full detail in [`runs/2026-09-23T09-15Z/analysis.md`](runs/2026-09-23T09-15Z/analysis.md).
+
+### Notable additions
+
+- **[Introducing GPT‑6 Sol and Luna](pages/openai.com/index/introducing-gpt-6-sol-and-luna/index.md)** — two new cheaper/faster models below GPT‑6 Astra in the GPT‑6 family, with **50% lower API pricing** than their GPT‑5.6 predecessors (Sol: $4→$2 in / $20→$10 out; Luna: $0.20→$0.10 in / $1.20→$0.50 out, per 1M tokens). Inherits Astra's coding, factuality, and computer-use gains at lower cost; benchmarked extensively against Claude Opus 5 and "Claude Fable 5.1."
+- **[Better prompt caching for GPT‑6](pages/openai.com/index/better-prompt-caching-for-gpt-6/index.md)** — new Prompt Caching Dashboard, a cache-miss diagnostics tool, and a 30-minute shared-prefix cache-reuse window (discounts up to 90% on cached input tokens). Includes a customer quote from GitHub Copilot's CPO citing a 50%+ drop in tokens needing fresh processing.
+- **[Parallel cut research time and cost in half with GPT‑6 Astra](pages/openai.com/index/parallel-cuts-time-and-cost-with-astra/index.md)** — startup case study: Astra compiled a multi-state labor-market research task in half the time and roughly half the cost of prior models.
+- **[Priorities and principles for effective third party assessments](pages/openai.com/index/priorities-principles-third-party-assessments/index.md)** — safety-policy essay proposing four priority areas for independent assessors (safety cases, safeguards, Preparedness Framework evaluations, misalignment-incident investigation) and seven principles for how those assessments should run. Explicitly references the Hugging Face incident as a case study.
+
+### Notable updates
+
+- **Plugin-page rebrand continues:** 214 more plugin detail pages (of ~356 total) picked up "Install plugin" button text, "What else can you do?" section heading, per-plugin-personalized "Add the [X] plugin in a few clicks" instructions (previously generic), and "Try in ChatGPT Work" try-it links with `surface=work`. Each use-case bullet also lost its one-sentence description, keeping only the bold headline.
+- **Footer "Plugins" nav link** reached 97 more pages (continuing the rollout that hit 370 pages on 2026-09-22), scattered across plugin pages, global-affairs essays, the "disrupting malicious uses of AI" report series, and misc. pages like `/codex/` and `/devday/2025/` — no clear pattern to the rollout order.
+- ~253 further URLs bumped `<lastmod>` from "Keep reading" recirculation-widget card rotation only (reflecting today's 4 new posts) — no article content changed.
+
+### Removed pages
+
+None this run.
+
+_Stats: 1997 total URLs | 4 added | 566 updated (214 plugin-rebrand + 97 footer-nav-only + ~253 recirculation noise + 2 fetch-rendering anomalies) | 0 removed | 2 anomalies (both fetch-quality, not real site changes) | 42 sub-sitemaps_
+
+---
+
 ## 2026-09-22T09-16Z
 
 **Fetch time:** 2026-09-22T09:17:31Z (sitemap) / 09:17:31Z–09:18:14Z (472 pages) UTC | **Baseline:** 2026-09-21T09-17Z (consecutive day)

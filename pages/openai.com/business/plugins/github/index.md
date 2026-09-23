@@ -97,7 +97,7 @@ Explore repo files, docs, and commit history to understand code, summarize PRs, 
 
 ### [Privacy policyLearn more](<https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement>)
 
-## Add plugins in a few clicks
+## Add the GitHub plugin in a few clicks
 
 Availability depends on the plugin, your plan, and workspace settings. Some connections require admin setup or approval. Contact your workspace admin if access is blocked.
 
@@ -220,7 +220,7 @@ OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
 
-### 1Find a plugin1Find a plugin
+### 1Find the GitHub plugin1Find the GitHub plugin
 
 Browse for plugins that support your team’s tools and tasks.
 

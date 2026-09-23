@@ -107,7 +107,7 @@ Connect to the Hugging Face Hub in ChatGPT to explore models, datasets, and meta
 
 ### [Privacy policyLearn more](<https://huggingface.co/privacy>)
 
-## Add plugins in a few clicks
+## Add the Hugging Face plugin in a few clicks
 
 Availability depends on the plugin, your plan, and workspace settings. Some connections require admin setup or approval. Contact your workspace admin if access is blocked.
 
@@ -230,7 +230,7 @@ OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
 
-### 1Find a plugin1Find a plugin
+### 1Find the Hugging Face plugin1Find the Hugging Face plugin
 
 Browse for plugins that support your team’s tools and tasks.
 

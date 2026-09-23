@@ -104,7 +104,7 @@ Bigdata.com brings cited financial research to ChatGPT: research stocks and comp
 
 ### [Privacy policyLearn more](<https://bigdata.com/privacy-policy>)
 
-## Add plugins in a few clicks
+## Add the Bigdata.com plugin in a few clicks
 
 Availability depends on the plugin, your plan, and workspace settings. Some connections require admin setup or approval. Contact your workspace admin if access is blocked.
 
@@ -227,7 +227,7 @@ OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
 
-### 1Find a plugin1Find a plugin
+### 1Find the Bigdata.com plugin1Find the Bigdata.com plugin
 
 Browse for plugins that support your team’s tools and tasks.
 

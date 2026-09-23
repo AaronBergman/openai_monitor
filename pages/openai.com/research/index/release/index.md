@@ -48,6 +48,12 @@ Switch cards to hide Media
 
 Product
 
+Sep 22, 2026
+
+[Introducing GPT-6 Sol and LunaMeet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost.](</index/introducing-gpt-6-sol-and-luna/>)
+
+Product
+
 Sep 10, 2026
 
 [Build more natural voice experiences with GPT‑Live‑1 in the APIGPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.](</index/introducing-gpt-live-1-in-the-api/>)
@@ -93,12 +99,6 @@ Product
 Jun 3, 2026
 
 [Introducing new capabilities to GPT-RosalindGPT-Rosalind advances life sciences research with enhanced biological reasoning, medicinal chemistry expertise, genomics analysis, and experimental workflow capabilities.](</index/introducing-new-capabilities-to-gpt-rosalind/>)
-
-Product
-
-May 29, 2026
-
-[Strengthening societal resilience with Rosalind BiodefenseOpenAI launches Rosalind Biodefense, expanding trusted access to GPT-Rosalind for vetted developers and U.S. government partners advancing biodefense, public health, and pandemic preparedness through frontier AI.](</index/strengthening-societal-resilience-with-rosalind-biodefense/>)
 
 Load more
 

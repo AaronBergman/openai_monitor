@@ -26,13 +26,7 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 OpenAI
 
-New
-
-### Introducing ChatGPT-6 Astra:
-
-**Our most capable model, built for the hardest work businesses need to get done.**
-
-[Learn more](</business/model/>)
+[Join the livestream on September 29\--d : --h : --m](<https://devday.openai.com/>)
 
 # Frontier intelligenceeverywhere you work
 
@@ -47,9 +41,13 @@ Get started
 Take on your most ambitious work with enterprise controls and governance.
 
   * Create polished docs, decks, and spreadsheets
+
   * Automate tasks in the background
+
   * Pairs with your preferred tools and plugins
+
   * Included with ChatGPT Business and Enterprise plans
+
 
 
 
@@ -137,6 +135,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -196,6 +195,8 @@ EnglishUnited States
 ### Finance
 
 Streamline analysis, reporting, forecasting, and operational workflows to improve speed and accuracy.
+
+[Learn more](</business/solutions/finance/>)
 
 ### Data analytics
 

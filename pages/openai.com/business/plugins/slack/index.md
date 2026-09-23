@@ -97,7 +97,7 @@ Turn my notes into a technical design doc with the problem, proposed approach, a
 
 ### [Privacy policyLearn more](<https://slack.com/privacy-policy>)
 
-## Add plugins in a few clicks
+## Add the Slack plugin in a few clicks
 
 Availability depends on the plugin, your plan, and workspace settings. Some connections require admin setup or approval. Contact your workspace admin if access is blocked.
 
@@ -220,7 +220,7 @@ OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
 
-### 1Find a plugin1Find a plugin
+### 1Find the Slack plugin1Find the Slack plugin
 
 Browse for plugins that support your team’s tools and tasks.
 

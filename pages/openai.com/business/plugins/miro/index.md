@@ -90,7 +90,7 @@ Speed up product development from ideation to launch. Align teams, break tool si
 
 ### [Privacy policyLearn more](<https://miro.com/legal/privacy-policy/>)
 
-## Add plugins in a few clicks
+## Add the Miro plugin in a few clicks
 
 Availability depends on the plugin, your plan, and workspace settings. Some connections require admin setup or approval. Contact your workspace admin if access is blocked.
 
@@ -156,6 +156,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -212,7 +213,7 @@ OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
 
-### 1Find a plugin1Find a plugin
+### 1Find the Miro plugin1Find the Miro plugin
 
 Browse for plugins that support your team’s tools and tasks.
 

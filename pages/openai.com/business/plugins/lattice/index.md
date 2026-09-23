@@ -88,7 +88,7 @@ Performance management doesn't happen just in performance management software. I
 
 ### [Privacy policyLearn more](<https://lattice.com/trust/privacy-policy>)
 
-## Add plugins in a few clicks
+## Add the Lattice plugin in a few clicks
 
 Availability depends on the plugin, your plan, and workspace settings. Some connections require admin setup or approval. Contact your workspace admin if access is blocked.
 
@@ -211,7 +211,7 @@ OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
 
-### 1Find a plugin1Find a plugin
+### 1Find the Lattice plugin1Find the Lattice plugin
 
 Browse for plugins that support your team’s tools and tasks.
 

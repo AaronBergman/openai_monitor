@@ -46,61 +46,7 @@ Switch cards to show Media
 
 Switch cards to hide Media
 
-Research
-
-Sep 8, 2026
-
-[An OpenAI model proposes a solution to the Navier–Stokes problemWe’re sharing an AI-generated solution to the Navier–Stokes Millennium Prize Problem, including a writeup and a formal proof in Lean.](</index/navier-stokes-solution/>)
-
-Research
-
-Sep 6, 2026
-
-[Research acceleration: The view inside OpenAIInside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration.](</index/research-acceleration-view-inside-openai/>)
-
-Safety
-
-Sep 3, 2026
-
-[GPT‑6 Astra System CardAstra is our first model to reach the Critical level of cybersecurity capability under our Preparedness Framework.(opens in a new window)](<https://deploymentsafety.openai.com/gpt-6-astra>)
-
-Security
-
-Aug 26, 2026
-
-[The Hugging Face incident and the road aheadOpenAI shares findings from the Hugging Face security incident and the steps we’re taking to strengthen AI model security, monitoring, and alignment.](</index/hugging-face-incident-and-the-road-ahead/>)
-
-Company
-
-Aug 18, 2026
-
-[Pacing model development in an era of cyber-critical capabilitiesOpenAI is strengthening monitoring, alignment, and security for frontier AI models. See how new safeguards are guiding the pace of model development.](</index/pacing-model-development-cyber-capabilities/>)
-
-Publication
-
-Aug 1, 2026
-
-[Ten advances in mathematics and theoretical computer scienceOpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexity.](</index/ten-advances-in-mathematics/>)
-
-Research
-
-Jul 29, 2026
-
-[How enabling two settings tripled our scores on the ARC-AGI-3 benchmarkHow two API settings improved GPT-5.6 performance on ARC-AGI-3, boosting scores and efficiency by retaining reasoning and enabling compaction.](</index/how-two-settings-tripled-our-arc-agi-3-scores/>)
-
-Publication
-
-Jul 28, 2026
-
-[Scientific computing in the age of agentic AIA new field report shows how scientists use AI coding agents to modernize scientific computing, accelerating software development and discovery in genomics and beyond.](</index/scientific-computing-agentic-ai/>)
-
-Safety
-
-Jul 15, 2026
-
-[GPT-Red: Unlocking Self-Improvement for RobustnessExplore GPT-Red, OpenAI’s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness.](</index/unlocking-self-improvement-gpt-red/>)
-
-Load more
+No results found.
 
 Research
 
@@ -152,6 +98,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)

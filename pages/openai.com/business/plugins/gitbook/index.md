@@ -101,7 +101,7 @@ The GitBook MCP server gives AI agents a full read/write connection to your GitB
 
 ### [Privacy policyLearn more](<https://gitbook.com/docs/policies>)
 
-## Add plugins in a few clicks
+## Add the GitBook plugin in a few clicks
 
 Availability depends on the plugin, your plan, and workspace settings. Some connections require admin setup or approval. Contact your workspace admin if access is blocked.
 
@@ -224,7 +224,7 @@ OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
 
-### 1Find a plugin1Find a plugin
+### 1Find the GitBook plugin1Find the GitBook plugin
 
 Browse for plugins that support your team’s tools and tasks.
 

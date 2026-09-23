@@ -90,7 +90,7 @@ Namecheap’s enables domain name availability checking and pricing lookup for s
 
 ### [Privacy policyLearn more](<https://www.namecheap.com/legal/general/privacy-policy>)
 
-## Add plugins in a few clicks
+## Add the Namecheap plugin in a few clicks
 
 Availability depends on the plugin, your plan, and workspace settings. Some connections require admin setup or approval. Contact your workspace admin if access is blocked.
 
@@ -156,6 +156,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -212,7 +213,7 @@ OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
 
-### 1Find a plugin1Find a plugin
+### 1Find the Namecheap plugin1Find the Namecheap plugin
 
 Browse for plugins that support your team’s tools and tasks.
 

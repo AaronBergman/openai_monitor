@@ -77,8 +77,11 @@ Uber’s marketplace is incredibly complex. It spans multiple segments: from our
 We tailor our AI strategy for each segment: 
 
   * **Rides:** Fare adjustments need to be made when routes change due to traffic or tolls. We use AI to interpret what happened, provide equitable resolutions, and communicate transparently to riders and drivers.
+
   * **Uber Eats:** If a wrong food item is delivered, AI helps analyze photos, track an item’s lifecycle, and determine where the error occurred. If necessary, we can process refunds or reorders more efficiently.
+
   * **Grocery:** In grocery delivery, our AI assists with real-time inventory challenges by facilitating real-time communication between consumers and shoppers, suggesting optimal recourse based on customer preferences leading to increased satisfaction and overall efficiencies.
+
 
 
 
@@ -200,6 +203,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)

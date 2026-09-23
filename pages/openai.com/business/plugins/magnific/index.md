@@ -49,7 +49,7 @@ Website
 
 ## How it works
 
-Turn ideas into finished visuals with Magnific in Claude. Access every image, audio, video generative models in one place. Run multi-step creative workflows. Upscale to 4K, relight, add voiceovers, build 3D models. Auto-extract layers from any design.
+Turn ideas into finished visuals with Magnific in ChatGPT. Access every image, audio, video generative models in one place. Run multi-step creative workflows. Upscale to 4K, relight, add voiceovers, build 3D models. Auto-extract layers from any design.
 
 ## What else can you do?
 
@@ -90,7 +90,7 @@ Turn ideas into finished visuals with Magnific in Claude. Access every image, au
 
 ### [Privacy policyLearn more](<https://www.magnific.com/legal/privacy>)
 
-## Add plugins in a few clicks
+## Add the Magnific plugin in a few clicks
 
 Availability depends on the plugin, your plan, and workspace settings. Some connections require admin setup or approval. Contact your workspace admin if access is blocked.
 
@@ -156,6 +156,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -212,7 +213,7 @@ OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
 
-### 1Find a plugin1Find a plugin
+### 1Find the Magnific plugin1Find the Magnific plugin
 
 Browse for plugins that support your team’s tools and tasks.
 

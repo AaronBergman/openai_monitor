@@ -88,7 +88,7 @@ Connect your Interactive Brokers account to ChatGPT and manage your portfolio th
 
 ### [Privacy policyLearn more](<https://gdcdyn.interactivebrokers.com/Universal/servlet/Registration_v2.formSampleView?formdb=2192>)
 
-## Add plugins in a few clicks
+## Add the Interactive Brokers (IBKR) plugin in a few clicks
 
 Availability depends on the plugin, your plan, and workspace settings. Some connections require admin setup or approval. Contact your workspace admin if access is blocked.
 
@@ -211,7 +211,7 @@ OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
 
-### 1Find a plugin1Find a plugin
+### 1Find the Interactive Brokers (IBKR) plugin1Find the Interactive Brokers (IBKR) plugin
 
 Browse for plugins that support your team’s tools and tasks.
 

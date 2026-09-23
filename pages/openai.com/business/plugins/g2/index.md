@@ -90,7 +90,7 @@ Use G2 data in ChatGPT to research and compare software using verified reviews a
 
 ### [Privacy policyLearn more](<https://legal.g2.com/privacy-policy>)
 
-## Add plugins in a few clicks
+## Add the G2 plugin in a few clicks
 
 Availability depends on the plugin, your plan, and workspace settings. Some connections require admin setup or approval. Contact your workspace admin if access is blocked.
 
@@ -213,7 +213,7 @@ OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
 
-### 1Find a plugin1Find a plugin
+### 1Find the G2 plugin1Find the G2 plugin
 
 Browse for plugins that support your team’s tools and tasks.
 

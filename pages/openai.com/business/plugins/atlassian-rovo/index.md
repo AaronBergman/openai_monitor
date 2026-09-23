@@ -93,7 +93,7 @@ Easily access the context of Jira, Confluence, and Compass and immediately take 
 
 ### [Privacy policyLearn more](<https://www.atlassian.com/legal/privacy-policy>)
 
-## Add plugins in a few clicks
+## Add the Atlassian Rovo plugin in a few clicks
 
 Availability depends on the plugin, your plan, and workspace settings. Some connections require admin setup or approval. Contact your workspace admin if access is blocked.
 
@@ -216,7 +216,7 @@ OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
 
-### 1Find a plugin1Find a plugin
+### 1Find the Atlassian Rovo plugin1Find the Atlassian Rovo plugin
 
 Browse for plugins that support your team’s tools and tasks.
 

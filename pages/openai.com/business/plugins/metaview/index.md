@@ -88,7 +88,7 @@ Connect Metaview to ChatGPT to query interview transcripts, summaries, and notes
 
 ### [Privacy policyLearn more](<https://www.metaview.ai/privacy-policy>)
 
-## Add plugins in a few clicks
+## Add the Metaview plugin in a few clicks
 
 Availability depends on the plugin, your plan, and workspace settings. Some connections require admin setup or approval. Contact your workspace admin if access is blocked.
 
@@ -211,7 +211,7 @@ OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
 
-### 1Find a plugin1Find a plugin
+### 1Find the Metaview plugin1Find the Metaview plugin
 
 Browse for plugins that support your team’s tools and tasks.
 

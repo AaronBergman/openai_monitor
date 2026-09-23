@@ -69,8 +69,11 @@ In the Responses API, previous flagship models like GPT‑5 and GPT‑5.2 ran at
 Around November of 2025, we launched a performance sprint on the Responses API, landing many optimizations to the critical-path latency for a single request: 
 
   * Caching rendered tokens and model configuration in memory to skip expensive tokenization and network calls for multi-turn responses
+
   * Reducing network hop latency by eliminating calls to intermediate services (for example, image processing resolution) and directly calling the inference service itself
+
   * Improving our safety stack so we could run certain classifiers to flag conversations faster
+
 
 
 
@@ -103,9 +106,13 @@ On a WebSocket connection, the server keeps a connection-scoped, in-memory cache
 That cached state includes:
 
   * The previous `response` object
+
   * Prior input and output items
+
   * Tool definitions and namespaces
+
   * Reusable sampling artifacts, like previously rendered tokens
+
 
 
 
@@ -114,9 +121,13 @@ That cached state includes:
 By reusing the in-memory previous response state, we were able to land several major optimizations:
 
   * Making some of our safety classifiers and request validators process only new input, not the full history every time
+
   * Keeping an in-memory cache of rendered tokens that we append to so we can skip unnecessary tokenization
+
   * Reusing our successful model resolution/routing logic across requests 
+
   * Overlapping non-blocking postinference work like billing with subsequent requests
+
 
 
 
@@ -129,9 +140,13 @@ After a two-month sprint building WebSocket mode, we launched an alpha with key 
 The launch results were immediate. Codex quickly ramped up the majority of their Responses API traffic onto WebSocket mode, seeing significant latency improvements. For GPT‑5.3‑Codex‑Spark, we hit our 1,000 TPS target and saw bursts up to 4,000 TPS, showing that the Responses API could keep up with much faster inference in real production traffic. The impact showed up quickly in the developer community too:
 
   * Codex quickly ramped the majority of their traffic onto WebSockets. Codex users running the latest models such as [GPT‑5.3‑Codex⁠(opens in a new window)](<https://developers.openai.com/api/docs/models/gpt-5.3-codex>), [GPT‑5.4⁠(opens in a new window)](<https://developers.openai.com/api/docs/models/gpt-5.4>), and beyond all benefit from WebSocket mode’s speed up.
+
   * Vercel integrated WebSocket mode into the AI SDK and saw latency decrease by [up to 40%⁠(opens in a new window)](<https://x.com/aisdk/status/2026031263925039591>).
+
   * Cline’s multi-file workflows are [39% faster⁠(opens in a new window)](<https://x.com/cline/status/2026031848791630033>).
+
   * OpenAI models in Cursor became up to [30% faster⁠(opens in a new window)](<https://x.com/leerob/status/2026030244407468259>).
+
 
 
 
@@ -217,6 +232,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)

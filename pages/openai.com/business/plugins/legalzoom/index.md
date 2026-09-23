@@ -90,7 +90,7 @@ LegalZoom provides reliable legal information to help you start and run your bus
 
 ### [Privacy policyLearn more](<https://www.legalzoom.com/legal/general-terms/privacy-policy>)
 
-## Add plugins in a few clicks
+## Add the LegalZoom plugin in a few clicks
 
 Availability depends on the plugin, your plan, and workspace settings. Some connections require admin setup or approval. Contact your workspace admin if access is blocked.
 
@@ -213,7 +213,7 @@ OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
 
-### 1Find a plugin1Find a plugin
+### 1Find the LegalZoom plugin1Find the LegalZoom plugin
 
 Browse for plugins that support your team’s tools and tasks.
 

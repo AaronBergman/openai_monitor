@@ -36,6 +36,8 @@ Astra
 
 ## A new generation of intelligence
 
+ _**Update on September 22, 2026:**__We are expanding our GPT‑6 family with GPT‑6 Sol and GPT‑6 Luna._[_Learn more._](</index/introducing-gpt-6-sol-and-luna/>)
+
 We’re introducing GPT‑6 Astra, the world’s most intelligent and aligned model.
 
 GPT‑6 Astra brings together years of research and big bets across pre-training, reinforcement learning, and alignment. Astra is state-of-the-art on computer use, browsing, software engineering, cybersecurity, science, and professional work. Astra saturates FrontierMath Tier 4 with a 98% score, having already helped [_solve long-standing open problems_ ⁠](<https://openai.com/index/ten-advances-in-mathematics/>) in mathematics. Astra also saturates ARC-AGI-3 with a 99.9% score and ExploitBench with a 100% score. It also sets a new frontier on computer and browser use, handling the most demanding professional work with unmatched speed, accuracy, and judgment. 

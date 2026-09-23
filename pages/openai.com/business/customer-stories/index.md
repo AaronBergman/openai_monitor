@@ -132,6 +132,26 @@ Customer stories
 
 Filter
 
+![Parallel customer story card image - Option C](https://images.ctfassets.net/kftzwdyauwt9/IE8b4WhSed5XqFQUzyyp7/40124aabc92ea8266c99be14d0f380f1/square.png?w=3840&q=90&fm=webp)
+
+[Parallel cut research time and cost in half with GPT‑6 AstraStartupSep 22, 2026](</index/parallel-cuts-time-and-cost-with-astra/>)
+
+![Higgsfield AI customer story art card](https://images.ctfassets.net/kftzwdyauwt9/7A0WMEXBwLKT6RUmIz7pfX/c764d19c42285ef2628de699c0820571/square.png?w=3840&q=90&fm=webp)
+
+[Higgsfield AI ships new video features in a day with GPT-6 AstraStartupSep 21, 2026](</index/higgsfield-from-prompt-to-production-with-astra/>)
+
+![V7 customer story hero art card - graphite texture](https://images.ctfassets.net/kftzwdyauwt9/69ITITTOHLrgzbSw13s3L1/eded3a71f9961eacc29f699371f3a9f2/V7-art-card-1x1-option-a.png?w=3840&q=90&fm=webp)
+
+[How V7 gives AI agents institutional memoryStartupSep 21, 2026](</index/v7/>)
+
+![Cooley customer story Option A art card](https://images.ctfassets.net/kftzwdyauwt9/5OYdzanPC7fpSJGLq4nEei/6b2c065869933403a99fd6ccf36a6aa0/square.png?w=3840&q=90&fm=webp)
+
+[How Cooley is accelerating IPO work with ChatGPTSep 17, 2026](</index/cooley-gopublic/>)
+
+![Hex customer story art card - Option A](https://images.ctfassets.net/kftzwdyauwt9/5bCMJ2MIvqqM2APZbalxmT/c17219c832b98a3a79a4b9d014fecda8/square.png?w=3840&q=90&fm=webp)
+
+[Hex turns complex analysis into visual reports with GPT‑6 AstraStartupSep 16, 2026](</index/hex-gpt-6-astra/>)
+
 ![Fyxer customer story 1x1 image](https://images.ctfassets.net/kftzwdyauwt9/7LbXXCnX1NLyS1i8mHGF1i/d75fdf2bf63cf463ce2e72915a783757/oai_Fyxer_1x1.png?w=3840&q=90&fm=webp)
 
 [How Fyxer built an AI executive assistant people trustStartupSep 14, 2026](</index/fyxer/>)
@@ -159,26 +179,6 @@ Filter
 ![ATV Big Air Tour card and hero image](https://images.ctfassets.net/kftzwdyauwt9/4iU7b7GIMgwR1T5k2Q7Wy5/ba1e283600652676745fc9fb33832f32/A-square.png?w=3840&q=90&fm=webp)
 
 [ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPTSep 2, 2026](</index/atv-big-air-tour/>)
-
-![Gilbert + Tobin customer story 1:1 art card](https://images.ctfassets.net/kftzwdyauwt9/4cbvqTfw8GlWMbaVJxtCdR/e159c683a888317c926ea6c0bb0b17ad/gilbert-tobin-customer-story-1x1.webp?w=3840&q=90&fm=webp)
-
-[How law firm Gilbert + Tobin governs and scales AI with OpenAISep 1, 2026](</index/gilbert-tobin/>)
-
-![Polimill customer story hero](https://images.ctfassets.net/kftzwdyauwt9/1eja3sAPi6Z5aHjjlDH315/84903917a6f317bca4aae51b0d61249f/oai_Polimill_1x1.png?w=3840&q=90&fm=webp)
-
-[Polimill builds Japan's next-generation public AI infrastructureAug 31, 2026](</index/polimill/>)
-
-![loveholidays customer story art card v4](https://images.ctfassets.net/kftzwdyauwt9/42xFRYjHeI7h1ELHyL62wf/2a1c83c585109d5735c19967bb2a4e05/loveholidays-hero-art-card-v4.png?w=3840&q=90&fm=webp)
-
-[How loveholidays is making everyone a builder with CodexAug 26, 2026](</index/loveholidays/>)
-
-![Stampli Customer Story Art Card / Hero Image - Ribbed Blue V2](https://images.ctfassets.net/kftzwdyauwt9/3xEyRSvkAPmbr2ub5jaJUz/4d5ce10e48995a14263aa1e2c7f696cc/stampli-art-card-hero-1x1-v2-ribbed.png?w=3840&q=90&fm=webp)
-
-[How ChatGPT Work helps Stampli move ideas to marketAug 20, 2026](</index/stampli/>)
-
-![replit-customer-story-art-card-1x1](https://images.ctfassets.net/kftzwdyauwt9/2ZUd2sTOK6p4MrjDZnvCoM/512b38a71cf26f09c3cda3c51169c401/replit-customer-story-art-card-1x1.png?w=3840&q=90&fm=webp)
-
-[Replit expands access to software creation with GPT-5.6 LunaStartupAug 19, 2026](</index/replit/>)
 
 Load more
 
@@ -232,6 +232,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)

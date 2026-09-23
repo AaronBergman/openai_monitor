@@ -90,7 +90,7 @@ Connect Brevo to analyze email campaign performance and A/B test results, look u
 
 ### [Privacy policyLearn more](<https://www.brevo.com/legal/privacypolicy/>)
 
-## Add plugins in a few clicks
+## Add the Brevo plugin in a few clicks
 
 Availability depends on the plugin, your plan, and workspace settings. Some connections require admin setup or approval. Contact your workspace admin if access is blocked.
 
@@ -213,7 +213,7 @@ OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
 
-### 1Find a plugin1Find a plugin
+### 1Find the Brevo plugin1Find the Brevo plugin
 
 Browse for plugins that support your team’s tools and tasks.
 

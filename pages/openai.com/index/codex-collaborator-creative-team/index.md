@@ -105,9 +105,13 @@ When Chad has a prototype in mind, he can describe it and start building. If a w
 For creatives, this reduces the gap between idea and execution:
 
   * Technical hurdles that once required a handoff can become part of the same creative process.
+
   * Creative directors can work with composition and lighting controls instead of long prompts.
+
   * Designers can prototype an interface without waiting for custom tools to be scoped and built.
+
   * Teams can explore more concepts while keeping human judgment at the center.
+
 
 
 
@@ -190,6 +194,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)

@@ -81,8 +81,11 @@ Although the platform offered hundreds of filters, they were only helpful if tra
 Booking.com quickly assembled a task force to bring the AI Trip Planner to life:
 
   * **Leveraging existing ML infrastructure** : The team integrated OpenAI’s GPT models with Booking.com’s proprietary data on properties, pricing, and availability.
+
   * **Rapid development cycle** : The first prototype, capable of destination discovery and itinerary building, was launched in just 10 weeks.
+
   * **Focus on natural language** : The model was trained to understand conversational prompts and map them to structured data like dates, locations, and property availability.
+
 
 
 
@@ -126,9 +129,13 @@ Booking.com has also built a stronger foundation for future AI development. Open
 While Booking.com is still collecting long-term performance data, they have already seen measurable lift in engagement and satisfaction:
 
   * **Increased engagement:** AI Trip Planner has kept users on the platform longer as they explore personalized itineraries.
+
   * **Faster search:** Smart Filters have made it easier for travelers to find specific results, reducing the time spent on search.
+
   * **Fewer customer support contacts:** Property Q&A has lowered support volumes with more accurate in-app answers.
+
   * **Higher booking confidence:** Review summarization has helped travelers make faster decisions with less uncertainty.
+
 
 
 
@@ -220,6 +227,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
