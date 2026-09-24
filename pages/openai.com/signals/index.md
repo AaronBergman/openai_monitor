@@ -126,6 +126,10 @@ OpenAI’s Enterprise Signals tracks AI adoption across industries and business 
 
 [How workers are unlocking new ways of working](<https://openai.com/index/unlocking-new-ways-of-working/>)
 
+![Abstract gradient background blending lime green, teal, and blue tones with soft, blurred transitions.                    ChatGPT can make mistakes. Workspace data isn't used to train models.](https://images.ctfassets.net/kftzwdyauwt9/3SsL01aaujzUwylnfxBDQA/f7a08e1c6713d05972eba8f60d640536/Art_Card__7_.png?w=3840&q=90&fm=webp)
+
+[Research acceleration: The view inside OpenAI](<https://openai.com/index/research-acceleration-view-inside-openai/>)
+
 ![Pale blue and green shapes blend in a soft abstract gradient.](https://images.ctfassets.net/kftzwdyauwt9/1gQDNMq1Ij1wSW2VvWfM6a/14e0887f53c86bc3fbfe652dbf10ef1a/what-students-gain-chatgpt-critical-thinking--art-card-no-border.png?w=3840&q=90&fm=webp)
 
 [What students gain from ChatGPT and critical-thinking training](<https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training/>)
@@ -141,10 +145,6 @@ OpenAI’s Enterprise Signals tracks AI adoption across industries and business 
 ![Pale blue waves blend across a bright blue background.](https://images.ctfassets.net/kftzwdyauwt9/3CiHEuR2xgn3DkLHTEtx3n/ff43a35123921826c91480492e35087d/Frame.png?w=3840&q=90&fm=webp)
 
 [The OpenAI Economic Research Exchange](<https://openai.com/economic-research-exchange/>)
-
-![Pale turquoise and white waves form a soft abstract pattern.](https://images.ctfassets.net/kftzwdyauwt9/7vtWCcgf3AGEYe1w93NGxU/7d5008fbae2c7507972dd4d134a1be9d/Frame.png?w=3840&q=90&fm=webp)
-
-[AI and the next development leap](<https://forum.openai.com/public/events/ai-and-the-next-development-leap-7llnij6pqv?agenda_day=6a6cf51027d9aaea09790ab3&agenda_track=6a6cf51127d9aaea09790aca&agenda_stage=6a6cf51027d9aaea09790ab9&agenda_filter_view=stage&agenda_view=list>)
 
 ### Reports
 
@@ -256,6 +256,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)

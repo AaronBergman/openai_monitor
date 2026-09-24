@@ -60,8 +60,6 @@ Leading enterprises and startups across industries including creative tools, e-c
 
 AdobeAirtableFigmaGammaHeyGenOpusClipQuoraWixPhotoroomPlayground
 
-**Adobe’s** leading ecosystem of creative tools including its Firefly and Express apps will provide access to OpenAI’s image generation capabilities, giving creators the choice and flexibility to experiment with different aesthetic styles—something business professionals, consumers and creators all value when generating new creative ideas.
-
 We’re also continuing to work with developers and businesses to uncover more ways image generation in the API can serve their use cases, including:
 
 **Designing and editing: Canva** is exploring ways to integrate OpenAI's `gpt-image-1` to push the boundaries of design generation and editing in its Canva AI and Magic Studio tools. Through `gpt-image-1` capabilities like transforming rough sketches into stunning graphic elements and enabling high-fidelity visual edits, Canva will further empower its 230 million users to bring their ideas to life in entirely new ways.
@@ -85,8 +83,11 @@ By default, we never train on customer API data, and all image inputs and output
 Usage of `gpt-image-1` is priced per token, with separate pricing for text and image tokens:
 
   * **Text input tokens (prompt text):** $5 per 1M tokens
+
   * **Image input tokens (input images):** $10 per 1M tokens
+
   * **Image output tokens (generated images):** $40 per 1M tokens
+
 
 
 
@@ -117,6 +118,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
@@ -156,6 +158,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -211,3 +214,5 @@ Terms & Policies
 OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
+
+**Adobe’s** leading ecosystem of creative tools including its Firefly and Express apps will provide access to OpenAI’s image generation capabilities, giving creators the choice and flexibility to experiment with different aesthetic styles—something business professionals, consumers and creators all value when generating new creative ideas.

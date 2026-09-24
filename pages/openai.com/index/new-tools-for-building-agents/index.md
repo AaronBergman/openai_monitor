@@ -65,9 +65,13 @@ Today, we’re releasing the first set of building blocks that will help develop
 To address these challenges, we’re launching a new set of APIs and tools specifically designed to simplify the development of agentic applications:
 
   * The new [_Responses API_ ⁠(opens in a new window)](<https://platform.openai.com/docs/quickstart?api-mode=responses>), combining the simplicity of the Chat Completions API with the tool use capabilities of the Assistants API for building agents
+
   * Built-in tools including [_web search_ ⁠(opens in a new window)](<https://platform.openai.com/docs/guides/tools-web-search>), [_file search_ ⁠(opens in a new window)](<https://platform.openai.com/docs/guides/tools-file-search>), and [_computer use_ ⁠(opens in a new window)](<https://platform.openai.com/docs/guides/tools-computer-use>)
+
   * The new [_Agents SDK_ ⁠(opens in a new window)](<https://platform.openai.com/docs/guides/agents>) to orchestrate single-agent and multi-agent workflows
+
   * Integrated [_observability tools_ ⁠(opens in a new window)](<https://platform.openai.com/docs/guides/agents#orchestration>) to trace and inspect agent workflow execution
+
 
 
 
@@ -84,7 +88,9 @@ The Responses API is designed for developers who want to easily combine OpenAI m
 ## What this means for existing APIs
 
   * [ _Chat Completions API_ ⁠(opens in a new window)](<https://platform.openai.com/docs/guides/text-generation>): Chat Completions remains our most widely adopted API, and we’re fully committed to supporting it with new models and capabilities. Developers who don’t require built-in tools can confidently continue using Chat Completions. We’ll keep releasing new models to Chat Completions whenever their capabilities don’t depend on built-in tools or multiple model calls. However, the Responses API is a [_superset_ ⁠(opens in a new window)](<https://platform.openai.com/docs/guides/responses-vs-chat-completions>) of Chat Completions with the same great performance, so for new integrations, we recommend starting with the Responses API.
+
   * [_Assistants API_ ⁠(opens in a new window)](<https://platform.openai.com/docs/assistants/overview>): Based on developer feedback from the Assistants API beta, we’ve incorporated key improvements into the Responses API, making it more flexible, faster, and easier to use. We’re working to achieve full feature parity between the Assistants and the Responses API, including support for Assistant-like and Thread-like objects, and the Code Interpreter tool. Once this is complete, we plan to formally announce the deprecation of the Assistants API with a target sunset date in mid-2026. Upon deprecation, we will provide a clear migration guide from the Assistants API to the Responses API that allows developers to preserve all their data and migrate their applications. Until we formally announce the deprecation, we will continue delivering new models to the Assistants API. The Responses API represents the future direction for building agents on OpenAI.
+
 
 
 
@@ -315,9 +321,13 @@ In addition to building the core logic of agents and giving them access to tools
 Improvements include:
 
   * **Agents** : Easily configurable LLMs with clear instructions and built-in tools.
+
   * **Handoffs** : Intelligently transfer control between agents.
+
   * **Guardrails** : Configurable safety checks for input and output validation.
+
   * **Tracing & Observability**: Visualize agent execution traces to debug and optimize performance.
+
 
 
 
@@ -482,6 +492,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
@@ -521,6 +532,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)

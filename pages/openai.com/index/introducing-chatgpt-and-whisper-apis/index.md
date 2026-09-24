@@ -49,8 +49,6 @@ Early users of GPT-3.5 Turbo and Whisper APIs
 
 
 
-Table of contents
-
   * Early users of GPT-3.5 Turbo and Whisper APIs
   * GPT-3.5 API
   * ChatGPT upgrades
@@ -100,41 +98,6 @@ We’ve created a new endpoint to interact with our ChatGPT models:
 
 RequestResponsePython bindings
 
-#### Bash
-
-`
-    
-    
-    1
-    
-    curl https://api.openai.com/v1/chat/completions \
-    
-    2
-    
-     -H "Authorization: Bearer $OPENAI_API_KEY" \
-    
-    3
-    
-     -H "Content-Type: application/json" \
-    
-    4
-    
-     -d '{
-    
-    5
-    
-     "model": "gpt-3.5-turbo",
-    
-    6
-    
-     "messages": [{"role": "user", "content": "What is the OpenAI mission?"}] 
-    
-    7
-    
-     }'
-
-`
-
 To learn more about the GPT‑3.5 API, [visit our Chat guide⁠(opens in a new window)](<https://platform.openai.com/docs/guides/chat>).
 
 ## ChatGPT upgrades
@@ -157,33 +120,6 @@ Whisper API is available through our `transcriptions` (transcribes in source lan
 
 RequestResponsePython bindings
 
-#### Bash
-
-`
-    
-    
-    1
-    
-    curl https://api.openai.com/v1/audio/transcriptions
-    
-    2
-    
-     -H "Authorization: Bearer $OPENAI_API_KEY" \
-    
-    3
-    
-     -H "Content-Type: multipart/form-data" \
-    
-    4
-    
-     -F model="whisper-1" \
-    
-    5
-    
-     -F file="@/path/to/file/openai.mp3"
-
-`
-
 To learn more about the Whisper API, [visit our Speech to Text guide⁠(opens in a new window)](<https://platform.openai.com/docs/guides/speech-to-text>).
 
 ## Developer focus
@@ -191,10 +127,15 @@ To learn more about the Whisper API, [visit our Speech to Text guide⁠(opens in
 Over the past six months, we’ve been collecting feedback from our API customers to understand how we can better serve them. We’ve made concrete changes, such as:
 
   * Data submitted through the API is no longer used for service improvements (including model training) unless the organization opts in
+
   * Implementing a default 30-day data retention policy for API users, with options for stricter retention depending on user needs.
+
   * Removing our pre-launch review (unlocked by improving our automated monitoring)
+
   * Improving developer documentation
+
   * Simplifying our [Terms of Service and Usage Policies⁠(opens in a new window)](<https://platform.openai.com/docs/usage-policies>), including terms around data ownership: users own the input and output of the models.
+
 
 
 
@@ -224,15 +165,15 @@ Jeff Belgum, Jake Berdine, Trevor Cai, Alexander Carney, Brooke Chan, Che Chang,
 
 [View all](</news/>)
 
-![Newspartnership Cover](https://images.ctfassets.net/kftzwdyauwt9/ffffbd46-a171-41c5-25d9eec16b7d/bd1bc987f38b1c2901819b4c211886a2/NewsPartnership_Cover.png?w=3840&q=90&fm=webp)
+![Soft pastel painting depicting a serene sky with wispy clouds, blending aqua, peach, and a hint of yellow at the horizon.](https://images.ctfassets.net/kftzwdyauwt9/ffffbd46-a171-41c5-25d9eec16b7d/bd1bc987f38b1c2901819b4c211886a2/NewsPartnership_Cover.png?w=3840&q=90&fm=webp)
 
 [Global news partnerships: Le Monde and Prisa MediaCompanyMar 13, 2024](</index/global-news-partnerships-le-monde-and-prisa-media/>)
 
-![News > Company carousel > Review completed > Media](https://images.ctfassets.net/kftzwdyauwt9/3BEH4mYgX0MXC45XOsbOru/fdcc0dadabd87f8e9a776a2f34647de0/37.png?w=3840&q=90&fm=webp)
+![Blurred abstract image with a soft fusion of peach, green, and pink hues with a white smudge in the upper region.](https://images.ctfassets.net/kftzwdyauwt9/3BEH4mYgX0MXC45XOsbOru/fdcc0dadabd87f8e9a776a2f34647de0/37.png?w=3840&q=90&fm=webp)
 
 [Review completed & Altman, Brockman to continue to lead OpenAICompanyMar 8, 2024](</index/review-completed-altman-brockman-to-continue-to-lead-openai/>)
 
-![New board of directors](https://images.ctfassets.net/kftzwdyauwt9/5J9s3ItUUDOTebSo0ZVmun/642e8632be32866792c7aaae0113aaa5/44.png?w=3840&q=90&fm=webp)
+![Abstract soft-focus background with a delicate blend of pale peach and a hint of pink.](https://images.ctfassets.net/kftzwdyauwt9/5J9s3ItUUDOTebSo0ZVmun/642e8632be32866792c7aaae0113aaa5/44.png?w=3840&q=90&fm=webp)
 
 [OpenAI announces new members to board of directorsCompanyMar 8, 2024](</index/openai-announces-new-members-to-board-of-directors/>)
 
@@ -246,9 +187,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -285,6 +227,9 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -318,6 +263,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)
@@ -337,3 +283,65 @@ Terms & Policies
 OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
+
+#### Bash
+
+`
+    
+    
+    1
+    
+    curl https://api.openai.com/v1/chat/completions \
+    
+    2
+    
+     -H "Authorization: Bearer $OPENAI_API_KEY" \
+    
+    3
+    
+     -H "Content-Type: application/json" \
+    
+    4
+    
+     -d '{
+    
+    5
+    
+     "model": "gpt-3.5-turbo",
+    
+    6
+    
+     "messages": [{"role": "user", "content": "What is the OpenAI mission?"}] 
+    
+    7
+    
+     }'
+
+`
+
+#### Bash
+
+`
+    
+    
+    1
+    
+    curl https://api.openai.com/v1/audio/transcriptions
+    
+    2
+    
+     -H "Authorization: Bearer $OPENAI_API_KEY" \
+    
+    3
+    
+     -H "Content-Type: multipart/form-data" \
+    
+    4
+    
+     -F model="whisper-1" \
+    
+    5
+    
+     -F file="@/path/to/file/openai.mp3"
+
+`

@@ -148,8 +148,6 @@ To address these concerns without limiting agents' usefulness, we built hosted c
 
 Container setupAccessing network
 
-![Diagram of controlled network access via access egress proxy: container setup](https://images.ctfassets.net/kftzwdyauwt9/5jdZBRDhIKcZYnInY56pfP/1da57e4e1067b57e0e6fa66a794c0807/OAI_Equip_Responses_API_with_a_computer_environment_Controlled_network_access_via_access_egress_proxy_-_container_setup_desk.svg?w=3840&q=90)
-
 ## Agent skills
 
 Shell commands are powerful, but many tasks repeat the same multi-step patterns. Agents have to rediscover the workflow each run—replanning, reissuing commands, and relearning conventions—leading to inconsistent results and wasted execution. [Agent skills⁠(opens in a new window)](<https://agentskills.io/home>) package those patterns into reusable, composable building blocks. Concretely, a skill is a folder bundle that includes ‘[SKILL.md⁠(opens in a new window)](<http://skill.md>)’ (containing metadata and instructions) plus any supporting resources, such as API specs and UI assets.
@@ -159,8 +157,11 @@ This structure maps naturally to the runtime architecture we described earlier. 
 We provide [APIs⁠(opens in a new window)](<https://developers.openai.com/api/reference/resources/skills>) to manage skills in the OpenAI platform. Developers upload and store skill folders as versioned bundles, which can later be retrieved by skill ID. Before sending the prompt to the model, the Responses API loads the skill and includes it in model context. This sequence is deterministic:
 
   1. Fetch skill metadata, including name and description.
+
   2. Fetch the skill bundle, copy it into the container, and unpack it.
+
   3. Update model context with skill metadata and the container path.
+
 
 
 
@@ -178,11 +179,7 @@ The diagram below shows how this system works for creating a spreadsheet from li
 
 Skill discoveryPlanning and setupData acquisitionData processingArtifact generation
 
-![Diagram of request lifecycle: from one prompt to durable artifacts, skill discovery](https://images.ctfassets.net/kftzwdyauwt9/2HpM23YXC1Pl0UC2j3E2ZN/18288c2295455fe4b32c26fed6f8bb15/OAI_Equip_Responses_API_with_a_computer_environment_Request_lifecycle_-_1_Skill_discovery_desktop-light__3_.svg?w=3840&q=90)
-
- _The Responses API orchestrates an agentic task_
-
-##  Make your own agent
+## Make your own agent
 
 For an in-depth example of combining the shell tool and computer environment for end-to-end workflows, see our [developer blog post⁠(opens in a new window)](<https://developers.openai.com/blog/skills-shell-tips>) and [cookbook⁠(opens in a new window)](<https://developers.openai.com/cookbook/examples/skills_in_api>) walking through packaging a skill and executing it through the Responses API.
 
@@ -193,13 +190,17 @@ We’re excited to see what developers build with this set of primitives. Langua
 
 
 
-## Author
+## Authors
 
 Bo Xu, Danny Zhang, Rohit Arunachalam
 
 ## Keep reading
 
 [View all](</news/>)
+
+![Scaling Storage for 1 Billion ChatGPT Users \(Part I\) card image](https://images.ctfassets.net/kftzwdyauwt9/2X23NOb0P4V1KDzUBkeNpl/888204b45a1c84ddfa24c9ed31111a9c/OAI_HabitatPT1_Art_Card_1x1.png?w=3840&q=90&fm=webp)
+
+[Rapidly scaling online storage to serve over 1 billion ChatGPT usersEngineeringSep 11, 2026](</index/scaling-storage-one-billion-users-part-one/>)
 
 ![Jalapeño inference — Art Card](https://images.ctfassets.net/kftzwdyauwt9/26K8mLbrpbaDvoFY0NrE04/8e4ad0b3f28042c22d6d5130bd4f4019/jalapeno-art-card.png?w=3840&q=90&fm=webp)
 
@@ -208,10 +209,6 @@ Bo Xu, Danny Zhang, Rohit Arunachalam
 ![Continuous voice interaction with GPT Live - art card](https://images.ctfassets.net/kftzwdyauwt9/3PyfDzfjOozLbJnaZIkRLD/6aef080bb4e7d6a6b8a6dc23436848db/gpt-live-art-card.png?w=3840&q=90&fm=webp)
 
 [Continuous voice interaction with GPT LiveEngineeringAug 3, 2026](</index/continuous-voice-interaction-with-gpt-live/>)
-
-![GPT-5.6 efficiency article — art card](https://images.ctfassets.net/kftzwdyauwt9/5ExPWhZDZXbZgTHE7aeE5d/0526071f749a3b44adff3c45a12322b7/How_GPT-5.6_fuses_frontier_intelligence_with_frontier_efficiency_ART_CARD__1_.png?w=3840&q=90&fm=webp)
-
-[How GPT-5.6 fuses frontier intelligence with frontier efficiencyEngineeringJul 29, 2026](</index/gpt-5-6-frontier-intelligence-efficiency/>)
 
 Research
 
@@ -223,6 +220,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
@@ -262,6 +260,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -317,3 +316,9 @@ Terms & Policies
 OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
+
+![Diagram of controlled network access via access egress proxy: container setup](https://images.ctfassets.net/kftzwdyauwt9/5jdZBRDhIKcZYnInY56pfP/1da57e4e1067b57e0e6fa66a794c0807/OAI_Equip_Responses_API_with_a_computer_environment_Controlled_network_access_via_access_egress_proxy_-_container_setup_desk.svg?w=3840&q=90)
+
+![Diagram of request lifecycle: from one prompt to durable artifacts, skill discovery](https://images.ctfassets.net/kftzwdyauwt9/2HpM23YXC1Pl0UC2j3E2ZN/18288c2295455fe4b32c26fed6f8bb15/OAI_Equip_Responses_API_with_a_computer_environment_Request_lifecycle_-_1_Skill_discovery_desktop-light__3_.svg?w=3840&q=90)
+
+_The Responses API orchestrates an agentic task_

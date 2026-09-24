@@ -75,11 +75,17 @@ ChatGPT for Healthcare is built to support the careful, evidence-based reasoning
 Here’s what it includes:
 
   * **Models built for healthcare workflows:** High-quality responses for clinical, research, and operational work—powered by GPT‑5 models built for healthcare and evaluated through physician-led testing across benchmarks and real workflows, including [_HealthBench_ ⁠](<https://openai.com/index/healthbench/>) and [_GDPval_ ⁠](<https://openai.com/index/gdpval/>).
+
   * **Evidence retrieval with transparent citations:** Answers grounded in relevant medical sources—drawing from millions of peer-reviewed research studies, public health guidance, and clinical guidelines—with clear citations including titles, journals, and publication dates to support quick source-checking. This helps clinicians reason through cases with greater confidence, so patients get to the right diagnosis and treatment sooner.
+
   * **Institutional policy and care pathway alignment:** Integrations with enterprise tools such as Microsoft SharePoint and other systems, so responses can incorporate an institution’s approved policies, pathway documents, and operational guidance to support consistent execution across teams and help ensure patients receive high-quality care.
+
   * **Reusable templates to automate workflows:** Shared templates for common tasks like drafting discharge summaries, patient instructions, clinical letters, and prior authorization support. Clinical teams spend less time rewriting and searching, and patients have clearer next steps and smoother transitions of care.
+
   * **Access management and governance:** A centralized workspace with role-based access controls and organization-wide user management through SAML SSO and SCIM. This gives healthcare organizations the governance and visibility they need to deploy AI across clinical, administrative, and research teams.
+
   * **Data control and support for HIPAA compliance:** Patient data and PHI remain under an organization’s control, with options for data residency, audit logs, customer-managed encryption keys, and a Business Associate Agreement (BAA) with OpenAI to support HIPAA-compliant use. Content shared with ChatGPT for Healthcare is not used to train models. 
+
 
 
 
@@ -89,8 +95,6 @@ Here’s what it includes:
 
 Clinical searchApproved care pathwayReferral letter
 
-![Clinical reasoning interface showing a differential diagnosis table with likelihoods and cited sources alongside a neurologist’s patient query about post-stroke cognitive decline.](https://images.ctfassets.net/kftzwdyauwt9/3koScumqEQcBHL5ANNAH55/dc7b0b642ac4d214ca86e4ae7f76e9cd/OAI_forHealth_2_Clinical_reasoning_support_16-9.png?w=3840&q=90&fm=webp)
-
 [ _Reach out to our team_ ⁠](<https://openai.com/contact-sales/>) to learn more and get started, or visit the [_OpenAI Academy_ ⁠(opens in a new window)](<https://academy.openai.com/chatgpt-for-healthcare>) for examples of how clinicians, researchers, and administrators can use ChatGPT for Healthcare in their daily work. 
 
 ## Early hospital partners
@@ -98,10 +102,6 @@ Clinical searchApproved care pathwayReferral letter
 Healthcare is among the fastest-growing [_enterprise markets_ ⁠](<https://openai.com/index/the-state-of-enterprise-ai-2025-report/>) adopting AI, and hospitals and academic medical centers are already rolling out ChatGPT for Healthcare across their teams.
 
 Boston Children’s HospitalCedars-Sinai Medical CenterStanford Medicine Children’s HealthAdventHealthHCA HealthcareBaylor Scott & White Health
-
-> “Our early work with a custom OpenAI-powered solution allowed us to move quickly, prove value in a secure environment, and establish strong governance foundations. ChatGPT for Healthcare offers a path toward operational scale, providing an enterprise-grade platform that can support broad, responsible adoption across clinical, research, and administrative teams.”
-
-John Brownstein, SVP and Chief Innovation Officer, Boston Children’s Hospital
 
 ## OpenAI API for Healthcare
 
@@ -147,17 +147,17 @@ OpenAI
 
 [View all](</news/>)
 
-![Supporting Thailand’s next generation of AI startups > Cover image](https://images.ctfassets.net/kftzwdyauwt9/6ttG55Aq2kyDRG8wxOkTx9/897d266cacc77edc0a25d06b9f6c2c45/supporting-next-generation-ai-startups-thailand--cover.png?w=3840&q=90&fm=webp)
+![Two years of OpenAI Academy — card image](https://images.ctfassets.net/kftzwdyauwt9/Tc4KzRhOgVSaIxQoUkr9R/25c2cf38c314d47e6f3cb93e54e382aa/two-years-of-openai-academy-cover.png?w=3840&q=90&fm=webp)
 
-[Supporting Thailand’s next generation of AI startupsCompanyAug 28, 2026](</index/supporting-next-generation-ai-startups-thailand/>)
+[Two years of OpenAI AcademyCompanySep 23, 2026](</index/two-years-of-openai-academy/>)
 
-![Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training > Cover image](https://images.ctfassets.net/kftzwdyauwt9/2X12MQqhR5AY1wog6JW3Q3/721873f6edd491a0f241038a9324b341/what-students-gain-chatgpt-critical-thinking--art-card-no-border.png?w=3840&q=90&fm=webp)
+![ChatGPT Ads expands to Southeast Asia and Taiwan — cover](https://images.ctfassets.net/kftzwdyauwt9/2LRApkCOWR8QHAX6Sj3Rik/367336096ea9ec8e9623c1f4d6035c9f/chatgpt-ads-expands-to-southeast-asia-and-taiwan-cover.png?w=3840&q=90&fm=webp)
 
-[What students gain from ChatGPT and critical-thinking trainingCompanyAug 27, 2026](</index/what-students-gain-from-chatgpt-critical-thinking-training/>)
+[ChatGPT Ads expands to Southeast Asia and TaiwanProductSep 23, 2026](</index/chatgpt-ads-expands-southeast-asia-taiwan/>)
 
-![Expanding OpenAI’s presence in Brazil > Cover image](https://images.ctfassets.net/kftzwdyauwt9/7jZgAn4y7ZP5GFx0HimbWT/84b3d734ebe29229bd58b8d8a775dc60/expanding-openai-presence-in-brazil-art-card.png?w=3840&q=90&fm=webp)
+![Airbnb widens access to GPT-6 Astra and OpenAI frontier models - card image](https://images.ctfassets.net/kftzwdyauwt9/2prIXE6DtUo7UsJqRAl52K/f8c082ed29505ebfbcff9fe828ccc123/airbnb-widens-access-to-gpt-6-astra-and-openai-frontier-models-cover.png?w=3840&q=90&fm=webp)
 
-[Expanding OpenAI’s presence in BrazilCompanyAug 27, 2026](</index/expanding-our-presence-in-brazil/>)
+[Airbnb expands access to GPT-6 AstraCompanySep 23, 2026](</index/airbnb-gpt-6-astra/>)
 
 Research
 
@@ -169,6 +169,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
@@ -208,6 +209,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -263,3 +265,9 @@ Terms & Policies
 OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
+
+![Clinical reasoning interface showing a differential diagnosis table with likelihoods and cited sources alongside a neurologist’s patient query about post-stroke cognitive decline.](https://images.ctfassets.net/kftzwdyauwt9/3koScumqEQcBHL5ANNAH55/dc7b0b642ac4d214ca86e4ae7f76e9cd/OAI_forHealth_2_Clinical_reasoning_support_16-9.png?w=3840&q=90&fm=webp)
+
+> “Our early work with a custom OpenAI-powered solution allowed us to move quickly, prove value in a secure environment, and establish strong governance foundations. ChatGPT for Healthcare offers a path toward operational scale, providing an enterprise-grade platform that can support broad, responsible adoption across clinical, research, and administrative teams.”
+
+John Brownstein, SVP and Chief Innovation Officer, Boston Children’s Hospital

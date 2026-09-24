@@ -46,6 +46,12 @@ Switch cards to show Media
 
 Switch cards to hide Media
 
+Publication
+
+Sep 23, 2026
+
+[Introducing MentalHealthBenchMentalHealthBench is an expert-informed benchmark for evaluating helpful and safe AI responses across realistic mental health conversations.](</index/introducing-mentalhealthbench/>)
+
 Product
 
 Sep 22, 2026
@@ -93,12 +99,6 @@ Company
 Aug 18, 2026
 
 [Pacing model development in an era of cyber-critical capabilitiesOpenAI is strengthening monitoring, alignment, and security for frontier AI models. See how new safeguards are guiding the pace of model development.](</index/pacing-model-development-cyber-capabilities/>)
-
-Publication
-
-Aug 1, 2026
-
-[Ten advances in mathematics and theoretical computer scienceOpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexity.](</index/ten-advances-in-mathematics/>)
 
 Load more
 

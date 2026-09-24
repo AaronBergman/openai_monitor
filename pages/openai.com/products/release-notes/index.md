@@ -41,6 +41,58 @@ Filter
 
 Sort
 
+Codex
+
+Sep 22, 2026
+
+GA
+
+## GPT-6 Sol and GPT-6 Luna
+
+We’re introducing GPT‑6 Sol and GPT‑6 Luna in ChatGPT Work and Codex. These models are separate from the models available in Chat.
+
+Codex desktop keeps the model you selected manually.
+
+Available models and reasoning effort options depend on your plan and workspace settings.
+
+GPT‑6 Sol and GPT‑6 Luna are rolling out to Codex and ChatGPT Work at lower token prices than their GPT‑5.6 predecessors. Use Sol for complex coding and agentic workflows, and Luna for focused, high-volume tasks.
+
+Both models are rolling out to Plus, Pro, Business, Enterprise, and Edu users. Free and Go users can access Luna in the desktop app. Availability depends on rollout and workspace settings; Enterprise administrators must enable the new models. In ChatGPT, the models are available in Work and Codex, but not Chat.
+
+[View source(opens in a new window)](<https://developers.openai.com/api/docs/models/gpt-6-sol>)[Platform docs(opens in a new window)](<https://learn.chatgpt.com/docs/changelog#codex-2026-09-22-gpt-6-sol-luna>)[Help center(opens in a new window)](<https://help.openai.com/en/articles/6825453-chatgpt-release-notes#gpt-6-sol-and-luna-in-work-and-codex>)
+
+ChatGPT
+
+Sep 22, 2026
+
+GA
+
+## Create flashcards in ChatGPT
+
+You can now create interactive flashcards in ChatGPT. Ask for flashcards on a topic you want to learn, or upload your notes and ask ChatGPT to turn them into flashcards.
+
+Tap a card to flip it, then select ✔️ if you know the answer or ❌ to practice it again later. Shuffle your cards to practice in a different order.
+
+Flashcards are automatically saved in your library. To practice again, open them there or ask ChatGPT to review them back.
+
+Available on mobile and web for all ChatGPT plans.
+
+[View source(opens in a new window)](<https://help.openai.com/en/articles/6825453-chatgpt-release-notes#create-flashcards-in-chatgpt>)
+
+ChatGPT
+
+Sep 21, 2026
+
+GA
+
+## Privacy Center in ChatGPT
+
+Privacy Center is rolling out to signed-in ChatGPT Free, Go, Plus, Pro, and Business users. It brings together information about chat privacy, memory, personalization, data use, connected apps, and account security, with links to the settings that manage them. Your privacy controls remain in ChatGPT Settings.
+
+On the web, open your account menu, select Help, then select Privacy Center. On mobile, open Settings, then select Privacy Center on iOS or Privacy center on Android. Available options depend on your plan, region, and workspace settings.
+
+[View source(opens in a new window)](<https://help.openai.com/en/articles/6825453-chatgpt-release-notes#privacy-center-in-chatgpt>)[Help center(opens in a new window)](<https://help.openai.com/en/articles/11391654-chatgpt-business-release-notes#privacy-center-in-chatgpt>)[Help center(opens in a new window)](<https://help.openai.com/en/articles/20001488>)
+
 ChatGPT
 
 Sep 17, 2026
@@ -70,52 +122,6 @@ GA
 You can now connect multiple accounts to plugins in ChatGPT, expanding support beyond Gmail, Google Calendar, and Google Contacts. Bring your personal and work accounts into the same conversation, so ChatGPT can help you find information and get things done across your personal and work accounts. Available on all ChatGPT plans across web, mobile, and desktop.
 
 [View source(opens in a new window)](<https://help.openai.com/en/articles/6825453-chatgpt-release-notes#connect-multiple-accounts-to-plugins-in-chatgpt>)
-
-API
-
-Sep 17, 2026
-
-GA
-
-## Manage API Platform access with SCIM
-
-Tenant-wide SCIM now supports API Platform. Enterprise and Edu global admins can assign synchronized groups to API organizations and selected projects through Product access in Admin Console. This extends the existing tenant-wide SCIM setup for ChatGPT workspaces and Ads accounts.
-
-Members receive access without accepting an invitation. Manage synchronized group membership in your identity provider, and SCIM updates the API memberships it manages as group assignments change.
-
-[View source(opens in a new window)](<https://help.openai.com/en/articles/10128477-chatgpt-enterprise-edu-release-notes#manage-api-platform-access-with-scim>)[Help center(opens in a new window)](<https://help.openai.com/en/articles/10011769>)
-
-ChatGPT
-
-Sep 14, 2026
-
-GA
-
-## Updated permissions for new Health connections
-
-For new Health plugin connections, ChatGPT will now default to each user’s global plugins permissions setting.
-
-If you make no changes to your Plugins settings, the default permission setting is “Allow low-risk actions.” This means that once you’ve connected your information in Health, ChatGPT can use it when relevant without asking for permission each time, unless you are attempting a sensitive action, such as asking ChatGPT to email a training plan based on your data to a running partner.
-
-This change reflects what we’ve seen from users: more than 70% of Health users already choose to allow ChatGPT to use data connected in Health without asking for permission each time.
-
-You can change your Health permissions anytime in Settings → Plugins → Health.
-
-[View source(opens in a new window)](<https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updated-permissions-for-new-health-connections>)[Help center(opens in a new window)](<https://help.openai.com/en/articles/20001036-health-in-chatgpt>)[Help center(opens in a new window)](<https://help.openai.com/en/articles/11487775-apps-in-chatgpt>)
-
-ChatGPT
-
-Sep 14, 2026
-
-Sunset
-
-## Retiring automatic switching to Thinking in ChatGPT
-
-We’re retiring automatic switching from Instant to Thinking (reasoning) for ChatGPT Plus and Pro users globally. You can still select an available option in the model picker to give ChatGPT more time to think or reason.
-
-We’re also removing the Higher intelligence setting from ChatGPT on the web for these plans. ChatGPT can still switch automatically for safety purposes.
-
-[View source(opens in a new window)](<https://help.openai.com/en/articles/6825453-chatgpt-release-notes#changes-to-automatic-switching-to-thinking-in-chatgpt-plus-and-pro>)[Help center(opens in a new window)](<https://help.openai.com/en/articles/20001354>)
 
 Load more
 

@@ -47,8 +47,11 @@ If usage exceeds your reserved amount, the additional usage is processed on a pa
 For example:
 
   * If you reserve $2 per minute for GPT‑5.6, eligible usage for that model is deducted from your reserved amount at list price.
+
   * For any minute where your eligible usage is $2 or less, your usage is covered by Reserved Tier and no additional usage charges apply.
+
   * If your eligible usage exceeds $2 in a minute, the amount above your reservation is billed at normal pay-as-you-go rates. For example, if you use $2.75 in a minute, $2.00 is covered by Reserved Tier and $0.75 is billed as pay-as-you-go overage.
+
 
 
 
@@ -110,6 +113,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)

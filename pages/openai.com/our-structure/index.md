@@ -35,9 +35,13 @@ In 2019, we created a for-profit subsidiary to help us scale our research and de
 With our updated structure, announced on October 28, 2025:
 
   * The nonprofit is now the OpenAI Foundation.
+
   * The for-profit is now a public benefit corporation, called OpenAI Group PBC, which—unlike a conventional corporation—is required to advance its stated mission and consider the broader interests of all stakeholders, ensuring the company's mission and commercial success advance together.
+
   * The OpenAI Foundation continues to control the OpenAI Group. It now holds conventional equity in OpenAI Group – with all stockholders participating proportionally in any increase in value of the OpenAI Group – aligning long-term incentives around impact and growth. 
+
   * OpenAI Foundation and OpenAI Group have the same mission. 
+
 
 
 
@@ -130,6 +134,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
