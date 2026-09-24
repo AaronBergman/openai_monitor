@@ -90,7 +90,7 @@ Integrate prompt management and analysis directly into your ChatGPT workflow. Us
 
 ### [Privacy policyLearn more](<https://chatgpt.promptperfect.xyz/privacy.html>)
 
-## Add plugins in a few clicks
+## Add the Prompt Perfect plugin in a few clicks
 
 Availability depends on the plugin, your plan, and workspace settings. Some connections require admin setup or approval. Contact your workspace admin if access is blocked.
 
@@ -156,6 +156,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -212,7 +213,7 @@ OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
 
-### 1Find a plugin1Find a plugin
+### 1Find the Prompt Perfect plugin1Find the Prompt Perfect plugin
 
 Browse for plugins that support your team’s tools and tasks.
 

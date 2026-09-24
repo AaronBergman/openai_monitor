@@ -111,8 +111,11 @@ The smaller 5.6-family models are a strong fit for high-volume workloads, latenc
 In addition to making GPT‑5.6 more performant out of the box, we also shipped new primitives to the Responses API to unlock further gains. We trained GPT‑5.6 end-to-end with three complementary architectural interventions that enable agents to operate more efficiently:
 
   1. **Reuse work already performed:** by allowing [reasoning to be persisted⁠(opens in a new window)](<https://developers.openai.com/api/docs/guides/reasoning#preserve-reasoning-across-calls>) across model turns and using [native compaction⁠(opens in a new window)](<https://developers.openai.com/api/docs/guides/compaction>) to compress long-running conversations, the model can maintain coherence in its work across longer task horizons without getting confused or having to reconstruct prior context.
+
   2. **Parallel decomposition where appropriate:** using [native multi-agent orchestration⁠(opens in a new window)](<https://developers.openai.com/api/docs/guides/responses-multi-agent>) allows coordinating multiple agents across parallel workstreams to finish complex tasks faster.
+
   3. **Move deterministic work into code:** using [programmatic tool calling⁠(opens in a new window)](<https://developers.openai.com/api/docs/guides/tools-programmatic-tool-calling>) to filter, aggregate, and orchestrate tool outputs outside the model’s context window, reserving model tokens for judgment and reducing cost, latency, and context rot.
+
 
 
 
@@ -123,7 +126,9 @@ Used together, the difference can be dramatic. For example, on ARC-AGI-3, GPT‑
 Agentic workflows often involve two kinds of work:
 
   1. Tasks that require judgment
+
   2. Work that mostly requires moving, filtering, and combining data
+
 
 
 
@@ -255,6 +260,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)

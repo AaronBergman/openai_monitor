@@ -44,10 +44,6 @@ GPT‑5 delivers leaps in accuracy, speed, reasoning, context recognition, struc
 
 AmgenBBVALowe’sUberModernaSalesforce
 
-> “Amgen fights the world’s toughest diseases by bringing together the best of biology and technology. We hold AI to the highest bar for scientific accuracy and quality. It’s still early, but based on our internal evaluation, GPT-5 has met that bar and is doing a better job navigating ambiguity where context matters. We are seeing promising early results from deploying GPT-5 across workflows at Amgen including increased accuracy and reliability, higher quality outputs and faster speeds compared to prior models.”
-
-Sean Bruich, Senior Vice President of AI & Data at Amgen
-
 The launch of GPT‑5 also coincides with nearly 700 million people using ChatGPT weekly. Powerful AI is now more deeply interwoven into the way we live and work, and consumers’ growing ease with the technology is inspiring enterprises to provide employees direct OpenAI access for greater productivity, efficiency, and creative output. 
 
 With GPT‑5, companies embracing AI will quickly benefit from its unified ChatGPT experience and, under more advanced use cases, its enhanced API performance on [_agents and coding_ ⁠](<https://openai.com/index/introducing-gpt-5-for-developers>). We anticipate early adoption to drive industry leadership on what’s possible with AI powered by GPT‑5, leading to better decision-making, improved collaboration, and faster outcomes on high-stakes work for organizations. 
@@ -70,17 +66,17 @@ OpenAI
 
 [View all](</news/>)
 
-![ChatGPT for Teachers district expansion | Original neutral library cover](https://images.ctfassets.net/kftzwdyauwt9/4jHps0gmVQfIrnl2shwDBi/35e47854409876d353f3bb502a164317/teachers-original-neutral-listing.png?w=3840&q=90&fm=webp)
+![ChatGPT Ads expands to Southeast Asia and Taiwan — cover](https://images.ctfassets.net/kftzwdyauwt9/2LRApkCOWR8QHAX6Sj3Rik/367336096ea9ec8e9623c1f4d6035c9f/chatgpt-ads-expands-to-southeast-asia-and-taiwan-cover.png?w=3840&q=90&fm=webp)
 
-[Bringing ChatGPT for Teachers to more U.S. school districtsProductAug 26, 2026](</index/bringing-chatgpt-for-teachers-to-more-us-school-districts/>)
+[ChatGPT Ads expands to Southeast Asia and TaiwanProductSep 23, 2026](</index/chatgpt-ads-expands-southeast-asia-taiwan/>)
 
-![Learning never stops card image](https://images.ctfassets.net/kftzwdyauwt9/rGBw0SMWP2aaIH5twRBgX/5f8f24d0e5a03eecfc74ab6cee3dc331/learning-never-stops-how-ai-makes-learning-continuous-cover.png?w=3840&q=90&fm=webp)
+![Better prompt caching for GPT-6 — Card image](https://images.ctfassets.net/kftzwdyauwt9/72ZKzMh8JgRDfdg4EYRtwY/ee5e406a08b69f00b0beb4ac00270364/7kneoqlc2qh37z1utkmtfk-cover-v1.png?w=3840&q=90&fm=webp)
 
-[Learning never stops: How AI makes learning continuousProductAug 26, 2026](</index/learning-never-stops/>)
+[Better prompt caching for GPT-6ProductSep 22, 2026](</index/better-prompt-caching-for-gpt-6/>)
 
-![GPT-5.6 in Kiro > OpenAI and official Kiro full logo > 1:1 art card](https://images.ctfassets.net/kftzwdyauwt9/31NSq4ufuXRuOUqH9Xdjno/319b9502b892d44b8b91df7aef9d53ed/OAI_Kiro_Partnership_1x1_Art_Card_Official_Full_Lockup_2160.png?w=3840&q=90&fm=webp)
+![Introducing GPT-6 Sol and Luna — Art card](https://images.ctfassets.net/kftzwdyauwt9/4HANTuYDvaT04gpR91bEQ9/885481304c5675cb7525bcccbe8c5580/gpt-6-sol-luna-art.png?w=3840&q=90&fm=webp)
 
-[Advancing price-performance for developers with GPT‑5.6 in KiroProductAug 24, 2026](</index/gpt-5-6-in-kiro/>)
+[Introducing GPT-6 Sol and LunaProductSep 22, 2026](</index/introducing-gpt-6-sol-and-luna/>)
 
 Research
 
@@ -92,6 +88,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
@@ -131,6 +128,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -186,3 +184,7 @@ Terms & Policies
 OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
+
+> “Amgen fights the world’s toughest diseases by bringing together the best of biology and technology. We hold AI to the highest bar for scientific accuracy and quality. It’s still early, but based on our internal evaluation, GPT-5 has met that bar and is doing a better job navigating ambiguity where context matters. We are seeing promising early results from deploying GPT-5 across workflows at Amgen including increased accuracy and reliability, higher quality outputs and faster speeds compared to prior models.”
+
+Sean Bruich, Senior Vice President of AI & Data at Amgen

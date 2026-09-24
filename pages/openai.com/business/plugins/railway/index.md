@@ -96,7 +96,7 @@ Use Railway from ChatGPT with the Railway App and Railway Skills. Create and lau
 
 ### [Privacy policyLearn more](<https://railway.com/legal/privacy>)
 
-## Add plugins in a few clicks
+## Add the Railway plugin in a few clicks
 
 Availability depends on the plugin, your plan, and workspace settings. Some connections require admin setup or approval. Contact your workspace admin if access is blocked.
 
@@ -162,6 +162,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -218,7 +219,7 @@ OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
 
-### 1Find a plugin1Find a plugin
+### 1Find the Railway plugin1Find the Railway plugin
 
 Browse for plugins that support your team’s tools and tasks.
 

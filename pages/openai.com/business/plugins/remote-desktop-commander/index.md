@@ -88,7 +88,7 @@ Reach an authorized computer's filesystem and terminal from ChatGPT through Desk
 
 ### [Privacy policyLearn more](<https://legal.desktopcommander.app/#/privacy_desktop_commander_mcp>)
 
-## Add plugins in a few clicks
+## Add the Remote Desktop Commander plugin in a few clicks
 
 Availability depends on the plugin, your plan, and workspace settings. Some connections require admin setup or approval. Contact your workspace admin if access is blocked.
 
@@ -154,6 +154,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -210,7 +211,7 @@ OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
 
-### 1Find a plugin1Find a plugin
+### 1Find the Remote Desktop Commander plugin1Find the Remote Desktop Commander plugin
 
 Browse for plugins that support your team’s tools and tasks.
 

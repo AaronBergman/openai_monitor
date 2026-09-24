@@ -90,7 +90,7 @@ Create and edit images, videos, audio, and text with Picsart AI models. Compose 
 
 ### [Privacy policyLearn more](<https://picsart.com/privacy-policy/>)
 
-## Add plugins in a few clicks
+## Add the Picsart plugin in a few clicks
 
 Availability depends on the plugin, your plan, and workspace settings. Some connections require admin setup or approval. Contact your workspace admin if access is blocked.
 
@@ -156,6 +156,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -212,7 +213,7 @@ OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
 
-### 1Find a plugin1Find a plugin
+### 1Find the Picsart plugin1Find the Picsart plugin
 
 Browse for plugins that support your team’s tools and tasks.
 

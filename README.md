@@ -1,5 +1,43 @@
 # openai_monitor
 
+## 2026-09-24T09-16Z
+
+**Fetch time:** 2026-09-24T09:17Z (sitemap) / 09:19Z–09:24Z (251 pages) UTC | **Baseline:** 2026-09-23T09-15Z (consecutive day)
+
+**TL;DR:** A busy new-content day (10 new pages, the most since 2026-09-22) carrying forward the same two mechanical rollouts as the past several days. Highlights: a full-transcript **Sam Altman speech to the UN Security Council** on AI risk and international standards; a new **MentalHealthBench** safety benchmark built with 80+ licensed mental-health experts; expanded **Daybreak cyber-defense access for Ukraine's government**; and four more GPT‑6 Astra customer case studies (Airbnb, Harvey, invideo, Ringg). The release notes page picked up two real product updates: **GPT‑6 Sol/Luna now live in Codex and ChatGPT Work**, and a new **flashcards feature in ChatGPT**. A smaller but interesting find: the `chatgpt-ads-expands-across-europe` page had its ads-justification sentence quietly rewritten to reinsert OpenAI's canonical "AGI benefits all of humanity" mission language. Otherwise, the plugin-page rebrand (42 more pages) and footer "Plugins" nav link (14 more) continued their slow rollout, and the bulk of the remaining `<lastmod>` bumps (117 of 241) were "Keep reading" recirculation-widget noise or page reflow with zero editorial change. **2,007 URLs across 42 sub-sitemaps** (+10 added, 0 removed).
+
+### Anomalies
+
+No timestamp anomalies (no future/backwards `<lastmod>`, no backdated new URLs, no reappeared URLs, no real sub-sitemap migrations — 386 URLs remain intentionally cross-listed in 2+ sections, same as prior runs). Two fetch-quality anomalies, both continuing the intermittent client-side rendering instability first logged 2026-09-22/23: (1) `introducing-chatgpt-and-whisper-apis` **lost** two Bash code examples that rendered fine yesterday — the mirror image of a "content recovery" case logged last run; watching to see if it self-corrects. (2) `new-tools-and-features-in-the-responses-api` had large sections of its body reordered and its code blocks re-formatted between fetches, with no net content added or removed — same rendering nondeterminism, different symptom.
+
+Full detail in [`runs/2026-09-24T09-16Z/analysis.md`](runs/2026-09-24T09-16Z/analysis.md).
+
+### Notable additions
+
+- **[Sam Altman's remarks at the United Nations Security Council](pages/openai.com/index/sam-altman-un-security-council-remarks/index.md)** — full transcript of a UN Security Council address. Names two risks to avoid: losing control of AI systems moving faster than institutions can track, and AI concentrating power such that "no company or country" can impose its worldview on everyone else. States OpenAI has "unilaterally slowed down in the past" and will again; calls for international frontier-AI standards on capability measurement, incident reporting, and cross-government vulnerability sharing. Same policy-standards thread as 2026-09-21's and 2026-09-23's essays, but here as primary-source transcript rather than a company post.
+- **[Introducing MentalHealthBench](pages/openai.com/index/introducing-mentalhealthbench/index.md)** — new open benchmark, built with 80+ licensed mental-health experts, for evaluating AI responses in realistic mental-health conversations. Ships with a technical paper.
+- **[OpenAI extends cyber access to Ukraine for civilian defense](pages/openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense/index.md)** — Ukraine's government gets access to OpenAI's "Daybreak" cyber-defense program for civilian infrastructure, announced at the UN General Assembly; cites CERT-UA handling ~6,000 cyber incidents in 2025.
+- Four new GPT‑6 Astra customer stories: **[Airbnb](pages/openai.com/index/airbnb-gpt-6-astra/index.md)** (broader frontier-model access via APIs and Amazon Bedrock), **[Harvey](pages/openai.com/index/harvey-from-context-to-confidence-with-astra/index.md)** (legal drafting), **[invideo](pages/openai.com/index/invideo-builds-with-gpt-6-astra/index.md)** (3x color-grading improvement), and **[Ringg](pages/openai.com/index/ringg/index.md)** (up to 65% of customer calls resolved by AI agents).
+- **[ChatGPT Ads expands to Southeast Asia and Taiwan](pages/openai.com/index/chatgpt-ads-expands-southeast-asia-taiwan/index.md)** — 7 more markets, 60+ countries total.
+- **[Grab and OpenAI bring practical AI skills to Southeast Asia](pages/openai.com/index/grab-openai-ai-skills-southeast-asia/index.md)** — new "GO Forward with AI" program targeting 30,000 Grab driver/delivery/merchant partners over two years, starting in Singapore.
+- **[Two years of OpenAI Academy](pages/openai.com/index/two-years-of-openai-academy/index.md)** — anniversary retrospective on the Academy skilling initiative.
+
+### Notable updates
+
+- **[Release notes](pages/openai.com/products/release-notes/index.md): two real product updates.** GPT‑6 Sol and Luna (introduced 2026-09-22) are now rolling out specifically inside **Codex** and **ChatGPT Work**, not regular Chat, for Plus/Pro/Business/Enterprise/Edu (Free/Go get Luna, desktop-only; Enterprise admins must opt in). Also new: **flashcards in ChatGPT** — create from a topic or uploaded notes, flip/rate/shuffle, auto-saved to a library, available on mobile and web for all plans.
+- **[`chatgpt-ads-expands-across-europe`](pages/openai.com/index/chatgpt-ads-expands-across-europe/index.md) mission-statement reframing:** the ads-rationale sentence changed from "Ads help advance our mission to democratize access to the best AI" to "Our mission is to ensure that artificial general intelligence benefits all of humanity, and Ads help democratize access to intelligence" — a small deliberate copy edit reinserting canonical AGI-mission language into ads copy on an already-published page.
+- **[Collective Cyberdefense](pages/openai.com/collective-cyberdefense/index.md) partner-list churn:** 6 additions (Cyber Together, Eudia, Lambert Technology Solutions, Regent AB, Signet Global, Turn Key Solutions LLC), 1 removal (EY Global Services).
+- Plugin-page rebrand continued on 42 more plugin detail pages (personalized "Add the [X] plugin" wording, verified on `business/plugins/netlify/`), and the sitewide footer "Plugins" nav link reached 14 more pages — both continuations of the rollout tracked since 2026-09-21.
+- 117 further URLs bumped `<lastmod>` from "Keep reading" recirculation-widget rotation, paginated-listing refresh, or same-content block reflow only — no article text changed.
+
+### Removed pages
+
+None this run.
+
+_Stats: 2007 total URLs | 10 added | 241 updated (3 real content changes + 2 fetch-rendering anomalies + 56 known-rollout continuations + 180 pure noise) | 0 removed | 2 anomalies (both fetch-quality, not real site changes) | 42 sub-sitemaps_
+
+---
+
 ## 2026-09-23T09-15Z
 
 **Fetch time:** 2026-09-23T09:17:06Z (sitemap) / 09:17Z–09:18Z (570 pages) UTC | **Baseline:** 2026-09-22T09-16Z (consecutive day)

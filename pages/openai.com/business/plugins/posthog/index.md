@@ -34,7 +34,7 @@ OpenAI
 
 Analyze your product data
 
-[Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_699caef2d680819188727b0ddbb349dd>)[Contact sales](</contact-sales/>)
+[Install plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_699caef2d680819188727b0ddbb349dd>)[Contact sales](</contact-sales/>)
 
 Category
     [Data](</business/plugins/?tab=plugins-data-research>)
@@ -45,37 +45,31 @@ Developer
 Website
     [(opens in a new window)](<https://posthog.com>)
 
-[![](https://files.openai.com/content?id=file_00000000698481f79a48a743c021e3a0&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=8&sig=82b60a46207e627d071525bd5ad463b117cb7d4dc19a04ead2897af4debf86f8&v=0)PostHog Show me the current A/B split for my ship variant button experiment(opens in a new window)](<https://chatgpt.com/?prompt=%40PostHog+Show+me+the+current+A%2FB+split+for+my+ship+variant+button+experiment>)[![](https://files.openai.com/content?id=file_00000000698481f79a48a743c021e3a0&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=8&sig=82b60a46207e627d071525bd5ad463b117cb7d4dc19a04ead2897af4debf86f8&v=0)PostHog Show me the number of page views from the last 7 days(opens in a new window)](<https://chatgpt.com/?prompt=%40PostHog+Show+me+the+number+of+page+views+from+the+last+7+days>)
+[![](https://files.openai.com/content?id=file_00000000698481f79a48a743c021e3a0&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=8&sig=82b60a46207e627d071525bd5ad463b117cb7d4dc19a04ead2897af4debf86f8&v=0)PostHog Show me the current A/B split for my ship variant button experiment(opens in a new window)](<https://chatgpt.com/?prompt=%40PostHog+Show+me+the+current+A%2FB+split+for+my+ship+variant+button+experiment>)
 
 ## How it works
 
 PostHog gives your AI agent direct access to your product analytics, feature flags, experiments, error tracking, surveys, logs, and LLM analytics. Ask questions about your data, create insights, toggle feature flags, analyze errors, search docs, and more — all from chat.
 
-## Common use cases
+## What else can you do?
 
   * ### Diagnose onboarding drop-offs
 
-Identify the onboarding stages and user segments with the largest losses and prioritize follow-up investigations.
-
 ![](https://files.openai.com/content?id=file_00000000698481f79a48a743c021e3a0&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=8&sig=82b60a46207e627d071525bd5ad463b117cb7d4dc19a04ead2897af4debf86f8&v=0)PostHog Analyze onboarding conversion over the past 30 days. Identify the biggest drop-off steps, compare key user segments, and recommend three investigations, separating observed patterns from possible causes.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40PostHog+Analyze+onboarding+conversion+over+the+past+30+days.+Identify+the+biggest+drop-off+steps%2C+compare+key+user+segments%2C+and+recommend+three+investigations%2C+separating+observed+patterns+from+possible+causes.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40PostHog+Analyze+onboarding+conversion+over+the+past+30+days.+Identify+the+biggest+drop-off+steps%2C+compare+key+user+segments%2C+and+recommend+three+investigations%2C+separating+observed+patterns+from+possible+causes.>)
 
   * ### Prioritize production errors
 
-Rank recent errors by user impact and use stack traces to suggest where debugging should begin.
-
 ![](https://files.openai.com/content?id=file_00000000698481f79a48a743c021e3a0&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=8&sig=82b60a46207e627d071525bd5ad463b117cb7d4dc19a04ead2897af4debf86f8&v=0)PostHog Review errors from the past seven days. Rank the top three by affected users and frequency, inspect their stack traces, and summarize likely causes and the next debugging step for each.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40PostHog+Review+errors+from+the+past+seven+days.+Rank+the+top+three+by+affected+users+and+frequency%2C+inspect+their+stack+traces%2C+and+summarize+likely+causes+and+the+next+debugging+step+for+each.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40PostHog+Review+errors+from+the+past+seven+days.+Rank+the+top+three+by+affected+users+and+frequency%2C+inspect+their+stack+traces%2C+and+summarize+likely+causes+and+the+next+debugging+step+for+each.>)
 
   * ### Prepare a checkout flag
 
-Create a disabled checkout feature flag and outline checkpoints for reviewing a future rollout.
-
 ![](https://files.openai.com/content?id=file_00000000698481f79a48a743c021e3a0&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=8&sig=82b60a46207e627d071525bd5ad463b117cb7d4dc19a04ead2897af4debf86f8&v=0)PostHog Create a disabled feature flag for the new checkout with a clear description and internal-user targeting. Summarize its configuration and propose checkpoints for evaluating a future rollout.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40PostHog+Create+a+disabled+feature+flag+for+the+new+checkout+with+a+clear+description+and+internal-user+targeting.+Summarize+its+configuration+and+propose+checkpoints+for+evaluating+a+future+rollout.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40PostHog+Create+a+disabled+feature+flag+for+the+new+checkout+with+a+clear+description+and+internal-user+targeting.+Summarize+its+configuration+and+propose+checkpoints+for+evaluating+a+future+rollout.>)
 
 
 
@@ -102,7 +96,7 @@ Create a disabled checkout feature flag and outline checkpoints for reviewing a 
 
 ### [Privacy policyLearn more](<https://posthog.com/privacy>)
 
-## Add plugins in a few clicks
+## Add the PostHog plugin in a few clicks
 
 Availability depends on the plugin, your plan, and workspace settings. Some connections require admin setup or approval. Contact your workspace admin if access is blocked.
 
@@ -168,6 +162,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -224,7 +219,7 @@ OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
 
-### 1Find a plugin1Find a plugin
+### 1Find the PostHog plugin1Find the PostHog plugin
 
 Browse for plugins that support your team’s tools and tasks.
 

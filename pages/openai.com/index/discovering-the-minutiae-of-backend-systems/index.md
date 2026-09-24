@@ -102,7 +102,7 @@ OpenAI
 
 [View all](</news/>)
 
-![city](https://images.ctfassets.net/kftzwdyauwt9/5Wm11GSMw6U7lLDKdcyuUY/3180687ca07ba934009f3c2b9219c10c/city.webp?w=3840&q=90&fm=webp)
+![Abstract image with warm tones and geometric shapes reminiscent of a sunset over a stylized city skyline.](https://images.ctfassets.net/kftzwdyauwt9/5Wm11GSMw6U7lLDKdcyuUY/3180687ca07ba934009f3c2b9219c10c/city.webp?w=3840&q=90&fm=webp)
 
 [Introducing OpenAI LondonCompanyJun 28, 2023](</index/introducing-openai-london/>)
 
@@ -110,7 +110,7 @@ OpenAI
 
 [The power of continuous learningCompanyDec 23, 2022](</index/the-power-of-continuous-learning/>)
 
-![openai-residency](https://images.ctfassets.net/kftzwdyauwt9/3CWY2fzXldmJCJPs2UQU4m/e433068601b00f45980358b7d03a0524/openai-residency.jpg?w=3840&q=90&fm=webp)
+![Expressionistic use of pastels to create a vivid scene of pink peaks against a bright blue sky.](https://images.ctfassets.net/kftzwdyauwt9/3CWY2fzXldmJCJPs2UQU4m/e433068601b00f45980358b7d03a0524/openai-residency.jpg?w=3840&q=90&fm=webp)
 
 [OpenAI ResidencyCompanyNov 30, 2021](</index/openai-residency/>)
 
@@ -124,6 +124,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
@@ -163,6 +164,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)

@@ -144,15 +144,15 @@ ELC plans to apply top GPTs across its portfolio of brands, empowering more team
 
 ## Keep reading
 
-![\[2.0\] Card > Media > Promega](https://images.ctfassets.net/kftzwdyauwt9/6nmHlhPH7ZDcQjAldewFpJ/4a2873907763d0d626525aa47d417885/oai_promega_1_1.jpg?w=3840&q=90&fm=webp)
+![Promega logo in white, placed over a background of swirling yellow and orange organic textures, resembling scientific imagery.](https://images.ctfassets.net/kftzwdyauwt9/6nmHlhPH7ZDcQjAldewFpJ/4a2873907763d0d626525aa47d417885/oai_promega_1_1.jpg?w=3840&q=90&fm=webp)
 
 [Promega’s top-down adoption of ChatGPT accelerates manufacturing, sales, and marketingOct 31, 2024](</index/promega/>)
 
-![Decagon](https://images.ctfassets.net/kftzwdyauwt9/3XcP4wsSw7Bxx5HuAz2Ht9/524e1452a4784a62c8db436ac7451445/oai_decagon_1_1.jpg?w=3840&q=90&fm=webp)
+![Decagon logo in white, featuring a hexagonal icon, over a background of dark metallic and glass-like surfaces reflecting blue light.](https://images.ctfassets.net/kftzwdyauwt9/3XcP4wsSw7Bxx5HuAz2Ht9/524e1452a4784a62c8db436ac7451445/oai_decagon_1_1.jpg?w=3840&q=90&fm=webp)
 
 [Delivering high-performance customer supportOct 29, 2024](</index/decagon/>)
 
-![\[2.0\] Card > Media > Altera](https://images.ctfassets.net/kftzwdyauwt9/4RjhPEjIMnlzfNLaV6BboT/7f1311aef24163bf80e22bc529ba72bc/oai_A.Altera_1_1.jpg?w=3840&q=90&fm=webp)
+![Altera logo in white, set against a close-up of an orange leaf with intricate veins, creating a natural, textured background.](https://images.ctfassets.net/kftzwdyauwt9/4RjhPEjIMnlzfNLaV6BboT/7f1311aef24163bf80e22bc529ba72bc/oai_A.Altera_1_1.jpg?w=3840&q=90&fm=webp)
 
 [Creating agent and human collaboration with GPT 4oOct 1, 2024](</index/altera/>)
 

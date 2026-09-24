@@ -52,6 +52,10 @@ Switch cards to show Media
 
 Switch cards to hide Media
 
+![ChatGPT Ads expands to Southeast Asia and Taiwan — cover](https://images.ctfassets.net/kftzwdyauwt9/2LRApkCOWR8QHAX6Sj3Rik/367336096ea9ec8e9623c1f4d6035c9f/chatgpt-ads-expands-to-southeast-asia-and-taiwan-cover.png?w=3840&q=90&fm=webp)
+
+[ChatGPT Ads expands to Southeast Asia and TaiwanProductSep 23, 2026](</index/chatgpt-ads-expands-southeast-asia-taiwan/>)
+
 ![Better prompt caching for GPT-6 — Card image](https://images.ctfassets.net/kftzwdyauwt9/72ZKzMh8JgRDfdg4EYRtwY/ee5e406a08b69f00b0beb4ac00270364/7kneoqlc2qh37z1utkmtfk-cover-v1.png?w=3840&q=90&fm=webp)
 
 [Better prompt caching for GPT-6ProductSep 22, 2026](</index/better-prompt-caching-for-gpt-6/>)
@@ -83,10 +87,6 @@ Switch cards to hide Media
 ![Introducing the Agents API — cover image](https://images.ctfassets.net/kftzwdyauwt9/6iP1bamSOXsPLwzFAepmx2/8b8fec31ba235a13ee695a607d7fe641/cover-image.png?w=3840&q=90&fm=webp)
 
 [Introducing the Agents APIProductSep 10, 2026](</index/introducing-the-agents-api/>)
-
-![A Chat and Work toggle with Work selected against a dark starfield.](https://images.ctfassets.net/kftzwdyauwt9/4DiwuhcC2lGuzS8klQkxXh/f1ac95e9bed5621a5b29f054f75db40b/Business_blog_1x1.png?w=3840&q=90&fm=webp)
-
-[GPT-6 Astra: The next generation in intelligence for workProductSep 9, 2026](</index/gpt-6-astra-next-generation-work/>)
 
 Load more
 

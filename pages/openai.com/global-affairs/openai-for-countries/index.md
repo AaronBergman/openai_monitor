@@ -51,10 +51,15 @@ Today, we’re introducing OpenAI for Countries, a new initiative within the Sta
 In response to these interested governments, OpenAI is offering a new kind of partnership for the Intelligence Age. Through formalized infrastructure collaborations, and in coordination with the US government, OpenAI will:
 
   * **Partner with countries to help build in-country data center capacity.** These secure data centers will help support the sovereignty of a country’s data, build new local industries, and make it easy to customize AI and leverage their data in a private and compliant way.
+
   * **Provide customized ChatGPT to citizens.** This will help deliver improved healthcare and education, more efficient public services, and more. This will be AI of, by, and for the needs of each particular country, localized in their language and for their culture and respecting future global standards.
+
   * **Continue evolving security and safety controls for AI models.** As our models become more powerful, we will continue to make investments in the processes and controls, including the data center and physical security needed to deploy, operate and protect them. As part of AI safety, it is critical to respect democratic processes and human rights; we are excited to collaborate on future directions for global democratic input to shape AI.
+
   * **Together, raise and deploy a national start-up fund.** With local as well as OpenAI capital, together we can seed healthy national AI ecosystems so the new infrastructure is creating new jobs, new companies, new revenue, and new communities for each country while also supporting existing public- and private-sector needs.
+
   * **Partner countries also would invest in expanding the global Stargate Project** —and thus in continued US-led AI leadership and a global, growing network effect for democratic AI.
+
 
 
 
@@ -88,6 +93,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
@@ -127,6 +133,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)

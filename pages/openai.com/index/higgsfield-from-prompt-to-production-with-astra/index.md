@@ -90,6 +90,10 @@ With GPT‑6 Astra, Higgsfield brings new creative tools to market faster and he
 
 [View all](</news/>)
 
+![Harvey customer story card image - Option C](https://images.ctfassets.net/kftzwdyauwt9/59usTWVI6pc0I3Lb6TL2ol/3d45075f7a623fa6ba4d8d13459065c1/square.png?w=3840&q=90&fm=webp)
+
+[Harvey turns legal context into stronger drafts with GPT-6 AstraStartupSep 23, 2026](</index/harvey-from-context-to-confidence-with-astra/>)
+
 ![Parallel customer story card image - Option C](https://images.ctfassets.net/kftzwdyauwt9/IE8b4WhSed5XqFQUzyyp7/40124aabc92ea8266c99be14d0f380f1/square.png?w=3840&q=90&fm=webp)
 
 [Parallel cut research time and cost in half with GPT‑6 AstraStartupSep 22, 2026](</index/parallel-cuts-time-and-cost-with-astra/>)
@@ -97,10 +101,6 @@ With GPT‑6 Astra, Higgsfield brings new creative tools to market faster and he
 ![V7 customer story hero art card - graphite texture](https://images.ctfassets.net/kftzwdyauwt9/69ITITTOHLrgzbSw13s3L1/eded3a71f9961eacc29f699371f3a9f2/V7-art-card-1x1-option-a.png?w=3840&q=90&fm=webp)
 
 [How V7 gives AI agents institutional memoryStartupSep 21, 2026](</index/v7/>)
-
-![Hex customer story art card - Option A](https://images.ctfassets.net/kftzwdyauwt9/5bCMJ2MIvqqM2APZbalxmT/c17219c832b98a3a79a4b9d014fecda8/square.png?w=3840&q=90&fm=webp)
-
-[Hex turns complex analysis into visual reports with GPT‑6 AstraStartupSep 16, 2026](</index/hex-gpt-6-astra/>)
 
 Research
 

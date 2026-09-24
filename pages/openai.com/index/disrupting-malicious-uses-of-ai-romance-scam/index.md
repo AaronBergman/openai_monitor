@@ -79,15 +79,15 @@ OpenAI
 
 [View all](</news/>)
 
-![DMUA card image - COVERT IO: Operation "Date Bait" - 7jczv8ZAQpYaSf3MHOW7EM](https://images.ctfassets.net/kftzwdyauwt9/dmuaCard7jczv8ZAQpYaSf3MHOW7EM/976564398aff3abcd802a5b9c276311e/1x1___COVERT_IO__Operation__Date_Bait_.png?w=3840&q=90&fm=webp)
+![COVERT IO: Operation "Date Bait" card image.](https://images.ctfassets.net/kftzwdyauwt9/dmuaCard7jczv8ZAQpYaSf3MHOW7EM/976564398aff3abcd802a5b9c276311e/1x1___COVERT_IO__Operation__Date_Bait_.png?w=3840&q=90&fm=webp)
 
 [Operation “Date Bait”: AI-enabled scam targeting loveseekersSafetyFeb 1, 2026](</index/disrupting-malicious-uses-of-ai-date-bait/>)
 
-![DMUA card image - SCAM: Operation "False Witness" - 1jpf7tKUjA3UjSbQEgqHMY](https://images.ctfassets.net/kftzwdyauwt9/dmuaCard1jpf7tKUjA3UjSbQEgqHMY/47eb11909e5c542f67afa14ef26be41b/1x1___SCAM__Operation__False_Witness_.png?w=3840&q=90&fm=webp)
+![SCAM: Operation "False Witness" card image.](https://images.ctfassets.net/kftzwdyauwt9/dmuaCard1jpf7tKUjA3UjSbQEgqHMY/47eb11909e5c542f67afa14ef26be41b/1x1___SCAM__Operation__False_Witness_.png?w=3840&q=90&fm=webp)
 
 [Operation “False Witness”: Fake recovery service impersonating authoritiesSafetyFeb 1, 2026](</index/disrupting-malicious-uses-of-ai-false-witness/>)
 
-![DMUA card image - SURVEILLANCE: Operation "Silver Lining Playbook" - 5EyztnzBrxfmeUwFvj4Yox](https://images.ctfassets.net/kftzwdyauwt9/dmuaCard5EyztnzBrxfmeUwFvj4Yox/60e22473333452d13efae1ff2b22c73c/1x1___SURVEILLANCE__Operation__Silver_Lining_Playbook_.png?w=3840&q=90&fm=webp)
+![SURVEILLANCE: Operation "Silver Lining Playbook" card image.](https://images.ctfassets.net/kftzwdyauwt9/dmuaCard5EyztnzBrxfmeUwFvj4Yox/60e22473333452d13efae1ff2b22c73c/1x1___SURVEILLANCE__Operation__Silver_Lining_Playbook_.png?w=3840&q=90&fm=webp)
 
 [Silver lining playbook: Likely China-origin activity targeting US personsSafetyFeb 1, 2026](</index/disrupting-malicious-uses-of-ai-silver-lining-playbook/>)
 
@@ -141,6 +141,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)

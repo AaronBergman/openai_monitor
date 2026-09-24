@@ -99,15 +99,15 @@ Visit our [fine-tuning API⁠(opens in a new window)](<https://platform.openai.c
 
 [View all](</news/>)
 
-![Young Tiger](https://images.ctfassets.net/kftzwdyauwt9/28bcbcb2-563a-432b-df938802863b/5fff5e2602331f7682792f5f541c75f9/young-tiger.jpg?w=3840&q=90&fm=webp)
+![Illustration of a tiger cub under a fantastical apple tree at dusk.](https://images.ctfassets.net/kftzwdyauwt9/28bcbcb2-563a-432b-df938802863b/5fff5e2602331f7682792f5f541c75f9/young-tiger.jpg?w=3840&q=90&fm=webp)
 
 [Video generation models as world simulatorsPublicationFeb 15, 2024](</index/video-generation-models-as-world-simulators/>)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/ec66425e-99ca-4314-d04b087f8727/de7341b6a5281c2a220b93a737ce19b0/building-an-early-warning-system-for-llm-aided-biological-threat-creation.jpg?w=3840&q=90&fm=webp)
+![Sweeping strokes of orange, yellow, and purple in an abstract design](https://images.ctfassets.net/kftzwdyauwt9/ec66425e-99ca-4314-d04b087f8727/de7341b6a5281c2a220b93a737ce19b0/building-an-early-warning-system-for-llm-aided-biological-threat-creation.jpg?w=3840&q=90&fm=webp)
 
 [Building an early warning system for LLM-aided biological threat creationPublicationJan 31, 2024](</index/building-an-early-warning-system-for-llm-aided-biological-threat-creation/>)
 
-![Weak To Strong Generalization](https://images.ctfassets.net/kftzwdyauwt9/1tCf4AONiCc3OkX47FmFy0/f95e25993d309257c631c4e64b699685/weak-to-strong-generalization.jpg?w=3840&q=90&fm=webp)
+![A vibrant, abstract image with radiating streaks of yellow, red, blue, and purple, creating a dramatic, explosive effect reminiscent of a colorful burst of light or energy.](https://images.ctfassets.net/kftzwdyauwt9/1tCf4AONiCc3OkX47FmFy0/f95e25993d309257c631c4e64b699685/weak-to-strong-generalization.jpg?w=3840&q=90&fm=webp)
 
 [Weak-to-strong generalizationSafetyDec 14, 2023](</index/weak-to-strong-generalization/>)
 
@@ -161,6 +161,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)

@@ -37,9 +37,13 @@ Share
 Today we’re introducing more capable models, new tools for customization, and upgrades that improve performance, flexibility, and cost-efficiency for developers building with AI. This includes:
 
   * [**_OpenAI o1 in the API_** ⁠(opens in a new window)](<https://platform.openai.com/docs/models#o1>), with support for function calling, developer messages, Structured Outputs, and vision capabilities.
+
   * [**_Realtime API updates_** ⁠(opens in a new window)](<https://platform.openai.com/docs/guides/realtime>), including simple WebRTC integration, a 60% price reduction for GPT‑4o audio, and support for GPT‑4o mini at one-tenth of previous audio rates.
+
   * [**_Preference Fine-Tuning_** ⁠(opens in a new window)](<https://platform.openai.com/docs/guides/fine-tuning#preference>), a new model customization technique that makes it easier to tailor models based on user and developer preferences.
+
   * [**_New Go and Java SDKs_** ⁠(opens in a new window)](<https://platform.openai.com/docs/libraries>) available in beta.
+
 
 
 
@@ -50,11 +54,17 @@ Today we’re introducing more capable models, new tools for customization, and 
 o1 is production-ready with key features to enable real-world use cases, including:
 
   * [**_Function calling_** ⁠(opens in a new window)](<https://platform.openai.com/docs/guides/function-calling>): Seamlessly connect o1 to external data and APIs.
+
   * [**_Structured Outputs_** ⁠(opens in a new window)](<https://platform.openai.com/docs/guides/structured-outputs>): Generate responses that reliably adhere to your custom JSON Schema.
+
   * **Developer messages** : Specify instructions or context for the model to follow, such as defining tone, style and other behavioral guidance.
+
   * **Vision capabilities** : Reason over images to unlock many more applications in science, manufacturing, or coding, where visual inputs matter.
+
   * **Lower latency** : o1 uses on average 60% fewer reasoning tokens than o1‑preview for a given request.
+
   * A new `**reasoning_effort** ` API parameter allows you to control how long the model thinks before answering. 
+
 
 
 
@@ -175,9 +185,13 @@ These snapshots are available in the [_Realtime API_ ⁠(opens in a new window)]
 We’re shipping the following features to the Realtime API to make it easier to deliver exceptional voice-driven experiences:
 
   * [**_Concurrent out-of-band responses_** ⁠(opens in a new window)](<https://platform.openai.com/docs/guides/realtime-model-capabilities#create-responses-outside-the-default-conversation>) to enable background tasks such as content moderation or classification to run without interrupting the user’s voice interaction.
+
   * [**_Custom input context_** ⁠(opens in a new window)](<https://platform.openai.com/docs/guides/realtime-model-capabilities#create-a-custom-context-for-responses>) to specify which conversation items to include as model input. For example, run a moderation check on just the user’s last utterance or re-use a past response without permanently altering the session state.
+
   * [**_Controlled response timing_** ⁠(opens in a new window)](<https://platform.openai.com/docs/guides/realtime-model-capabilities#keep-vad-but-disable-automatic-responses>)**** to use server-side Voice Activity Detection (VAD) without automatically triggering a response. For instance, gather necessary data such as account details and add it to the model’s context before manually initiating a voice reply, offering more control over timing and accuracy.
+
   * [**_Increased maximum session length_** ⁠(opens in a new window)](<https://platform.openai.com/docs/guides/realtime-model-capabilities#session-lifecycle-events>) from 15 to 30 min.
+
 
 
 
@@ -396,6 +410,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
@@ -435,6 +450,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
