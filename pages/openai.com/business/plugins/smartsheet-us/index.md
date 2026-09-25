@@ -88,7 +88,7 @@ Make Smartsheet a native part of your AI workflow. Ask your AI to analyze projec
 
 ### [Privacy policyLearn more](<https://www.smartsheet.com/legal/privacy>)
 
-## Add plugins in a few clicks
+## Add the Smartsheet US plugin in a few clicks
 
 Availability depends on the plugin, your plan, and workspace settings. Some connections require admin setup or approval. Contact your workspace admin if access is blocked.
 
@@ -154,6 +154,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -210,7 +211,7 @@ OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
 
-### 1Find a plugin1Find a plugin
+### 1Find the Smartsheet US plugin1Find the Smartsheet US plugin
 
 Browse for plugins that support your team’s tools and tasks.
 

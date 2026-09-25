@@ -50,9 +50,9 @@ Website
 
 ## Acme adoption and retention dashboard
 
-![](https://files.openai.com/content?id=file_000000006f4c81f784b61adbf62901e1&cdn=1&cp=pi&ma=30585600&ts=0&p=pi&cid=8&sig=c6e33944a94e14e7fe7121869937bf0d776dc3e571758bb6b505304170dcfbcc&v=0)DataCreate a dashboard tracking adoption of our product—from installation and first use to ongoing activity and retention. Help us find where customers get stuck.
+![](https://files.openai.com/content?id=file_00000000f8b481f783f1cfe7713af974&cdn=1&cp=pi&ma=31363200&ts=0&p=pi&cid=8&sig=fda22083625c345ea058048e4be1cab6ea0fdadbb5bc046fee801190289bf055&v=0)DataCreate a dashboard tracking adoption of our product—from installation and first use to ongoing activity and retention. Help us find where customers get stuck.
 
-![](https://files.openai.com/content?id=file_000000006f4c81f784b61adbf62901e1&cdn=1&cp=pi&ma=30585600&ts=0&p=pi&cid=8&sig=c6e33944a94e14e7fe7121869937bf0d776dc3e571758bb6b505304170dcfbcc&v=0)DataCreate a dashboard tracking adoption of our product—from installation and first use to ongoing activity and retention. Help us find where customers get stuck.
+![](https://files.openai.com/content?id=file_00000000f8b481f783f1cfe7713af974&cdn=1&cp=pi&ma=31363200&ts=0&p=pi&cid=8&sig=fda22083625c345ea058048e4be1cab6ea0fdadbb5bc046fee801190289bf055&v=0)DataCreate a dashboard tracking adoption of our product—from installation and first use to ongoing activity and retention. Help us find where customers get stuck.
 
 ## How it works
 
@@ -62,19 +62,19 @@ Use Data Analytics in ChatGPT to investigate metrics, analyze product or busines
 
   * ### Diagnose metric movement
 
-![](https://files.openai.com/content?id=file_000000006f4c81f784b61adbf62901e1&cdn=1&cp=pi&ma=30585600&ts=0&p=pi&cid=8&sig=c6e33944a94e14e7fe7121869937bf0d776dc3e571758bb6b505304170dcfbcc&v=0)Data Diagnose why weekly active users changed last week. Identify likely drivers, compare against prior periods, and recommend the next checks.
+![](https://files.openai.com/content?id=file_00000000f8b481f783f1cfe7713af974&cdn=1&cp=pi&ma=31363200&ts=0&p=pi&cid=8&sig=fda22083625c345ea058048e4be1cab6ea0fdadbb5bc046fee801190289bf055&v=0)Data Diagnose why weekly active users changed last week. Identify likely drivers, compare against prior periods, and recommend the next checks.
 
 [Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Data+Diagnose+why+weekly+active+users+changed+last+week.+Identify+likely+drivers%2C+compare+against+prior+periods%2C+and+recommend+the+next+checks.>)
 
   * ### Design decision-ready measurement
 
-![](https://files.openai.com/content?id=file_000000006f4c81f784b61adbf62901e1&cdn=1&cp=pi&ma=30585600&ts=0&p=pi&cid=8&sig=c6e33944a94e14e7fe7121869937bf0d776dc3e571758bb6b505304170dcfbcc&v=0)Data Design a KPI framework for this new product area with primary metrics, drivers, guardrails, targets, and data validation needs.
+![](https://files.openai.com/content?id=file_00000000f8b481f783f1cfe7713af974&cdn=1&cp=pi&ma=31363200&ts=0&p=pi&cid=8&sig=fda22083625c345ea058048e4be1cab6ea0fdadbb5bc046fee801190289bf055&v=0)Data Design a KPI framework for this new product area with primary metrics, drivers, guardrails, targets, and data validation needs.
 
 [Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Data+Design+a+KPI+framework+for+this+new+product+area+with+primary+metrics%2C+drivers%2C+guardrails%2C+targets%2C+and+data+validation+needs.>)
 
   * ### Operationalize insights
 
-![](https://files.openai.com/content?id=file_000000006f4c81f784b61adbf62901e1&cdn=1&cp=pi&ma=30585600&ts=0&p=pi&cid=8&sig=c6e33944a94e14e7fe7121869937bf0d776dc3e571758bb6b505304170dcfbcc&v=0)Data Turn this month's metrics into a leadership-ready update with actuals, comparisons, drivers, caveats, and recommended actions.
+![](https://files.openai.com/content?id=file_00000000f8b481f783f1cfe7713af974&cdn=1&cp=pi&ma=31363200&ts=0&p=pi&cid=8&sig=fda22083625c345ea058048e4be1cab6ea0fdadbb5bc046fee801190289bf055&v=0)Data Turn this month's metrics into a leadership-ready update with actuals, comparisons, drivers, caveats, and recommended actions.
 
 [Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Data+Turn+this+month%27s+metrics+into+a+leadership-ready+update+with+actuals%2C+comparisons%2C+drivers%2C+caveats%2C+and+recommended+actions.>)
 
@@ -82,6 +82,20 @@ Use Data Analytics in ChatGPT to investigate metrics, analyze product or busines
 
 
 ## What’s included
+
+### Apps
+
+  * ![](https://files.openai.com/content?id=file_00000000e07481f7a9b125f3d6b3a7f8&cdn=1&cp=pi&ma=30240000&ts=0&p=pi&cid=8&sig=379d210bf490f759dfc16804f41b8ea27b8ecb0af708899d7c2b29ca27f929ad&v=0)Slack
+  * ![](https://files.openai.com/content?id=file_00000000bc9481f5b8b85a85bddd3576&cdn=1&cp=pi&ma=32659200&ts=0&p=pi&cid=8&sig=318f558986dc75467ff5f5e6c51222cdc5b7f115ab4ff2555836f1c074a09ab6&v=0)Teams
+  * ![](https://files.openai.com/content?id=file_00000000888c81f58498ed091b03bc04&cdn=1&cp=pi&ma=30326400&ts=0&p=pi&cid=8&sig=2fbc63e8884cddb51b76c071ad970051cc995bab1de5c3ea1493de86b495752b&v=0)Notion
+  * ![](https://files.openai.com/content?id=file_0000000076ec81f781eb7d3411c86768&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=8&sig=a79e5a0eeed78f9094dbeb21dc090aa140341aef4a54a636c8473ed1cc53aca1&v=0)Gmail
+  * ![](https://files.openai.com/content?id=file_000000004cd081f797845d3a5fc32d25&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=8&sig=e29695420bbf127996af816598986f76232bea38445fe2e423db60bc05690591&v=0)Outlook Email
+  * ![](https://files.openai.com/content?id=file_0000000087dc81f783c699f284fad19f&cdn=1&cp=pi&ma=32659200&ts=0&p=pi&cid=8&sig=1a62ee7c566ca713d2d82e0e8edadcc8445d7ea42b3d8705a421fd70309d781e&v=0)Outlook Calendar
+  * ![](https://files.openai.com/content?id=file_0000000088c081f5a5df05f3ccb77c37&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=049c536a3ac3e353e8fe23a648922cf9bf98f9a008ce80b954663a4f54291a6e&v=0)Google Calendar
+  * ![](https://files.openai.com/content?id=file_000000004e1881f79d21ca333f2f4eae&cdn=1&cp=pi&ma=30931200&ts=0&p=pi&cid=8&sig=e25d11f09de489646b3ab3c78bde711f3883ea7317a8434db6e080c78c9546bc&v=0)Google Drive
+  * 32 more
+
+
 
 ### Skills
 

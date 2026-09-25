@@ -88,7 +88,7 @@ Use natural language to query a range of S&P Global datasets, including S&P Capi
 
 ### [Privacy policyLearn more](<https://www.spglobal.com/en/privacy/privacy-policy-english>)
 
-## Add plugins in a few clicks
+## Add the S&P Global - Deterministic plugin in a few clicks
 
 Availability depends on the plugin, your plan, and workspace settings. Some connections require admin setup or approval. Contact your workspace admin if access is blocked.
 
@@ -154,6 +154,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -210,7 +211,7 @@ OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
 
-### 1Find a plugin1Find a plugin
+### 1Find the S&P Global - Deterministic plugin1Find the S&P Global - Deterministic plugin
 
 Browse for plugins that support your team’s tools and tasks.
 

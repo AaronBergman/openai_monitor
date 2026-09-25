@@ -45,7 +45,7 @@ Developer
 Website
     [(opens in a new window)](<https://higgsfield.ai>)
 
-[![](https://files.openai.com/content?id=file_00000000d2fc81f6922d7a69b2579a06&cdn=1&cp=pi&ma=30412800&ts=0&p=pi&cid=8&sig=4a0938ad03674b1305cb368656c7f231656db252133d741008df95356a66bc2e&v=0)![](https://files.openai.com/content?id=file_0000000067a081f5b3ef671cffafae08&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=dac975dd12b3306e012a91e3072c0c47200d3ef1dfc687a0ee36f7804b124708&v=0)Higgsfield Make a 2-minute faceless explainer on how airlines make more money selling points than seats(opens in a new window)](<https://chatgpt.com/?prompt=%40Higgsfield+Make+a+2-minute+faceless+explainer+on+how+airlines+make+more+money+selling+points+than+seats>)
+[![](https://files.openai.com/content?id=file_00000000d2fc81f6922d7a69b2579a06&cdn=1&cp=pi&ma=30412800&ts=0&p=pi&cid=8&sig=4a0938ad03674b1305cb368656c7f231656db252133d741008df95356a66bc2e&v=0)![](https://files.openai.com/content?id=file_0000000067a081f5b3ef671cffafae08&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=dac975dd12b3306e012a91e3072c0c47200d3ef1dfc687a0ee36f7804b124708&v=0)Higgsfield Create 4 image ads for my product in different styles(opens in a new window)](<https://chatgpt.com/?prompt=%40Higgsfield+Create+4+image+ads+for+my+product+in+different+styles>)
 
 ## How it works
 
@@ -86,13 +86,13 @@ Create images, videos, branded content, and websites with Higgsfield in ChatGPT.
 
   * Ad Multiplier
   * AI Host Video
-  * ![](https://files.openai.com/content?id=file_00000000659482089f3061a8c015f9b9&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=8&sig=ced551bedbbcf36591a932402b170350c16d7a89229afdd6ca221b74c476bd35&v=0)Faceless Video
+  * ![](https://files.openai.com/content?id=file_00000000ca708211bb7730ae99672cab&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=8&sig=af5630e201196f85bc076539c24d93752c253437a05c8af1306a150875c9ae28&v=0)Faceless Video
   * Higgsfield Presets
   * Motion Craft
-  * ![](https://files.openai.com/content?id=file_0000000083a0820881caab85c8b2cf3f&cdn=1&cp=pi&ma=32486400&ts=0&p=pi&cid=8&sig=19edab95a5a66ff14ca29616454f04e94f685374dd9a301af77a921d67549869&v=0)Narrator
-  * Product Photographer
-  * ![](https://files.openai.com/content?id=file_000000007b3c82119ec3f32d70e09a0c&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=6f5c92c8dc1b56b3c34cd89a798e4ee64862dd25304171144eb5f9600437c24b&v=0)Subtitles
-  * 10 more
+  * ![](https://files.openai.com/content?id=file_000000006ed88211a06e82fd0c97767c&cdn=1&cp=pi&ma=30585600&ts=0&p=pi&cid=8&sig=e52fef06240dc5154d330396fb2cc17676a9692699f98531aad257d68d1de2ee&v=0)Narrator
+  * ![](https://files.openai.com/content?id=file_000000000274821190a438e0c0962489&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=8&sig=0e3a477edde15b34d2e4b889782a655f7d177216bdf16a388642bbe047c38dea&v=0)Subtitles
+  * Thumbnail Generation
+  * 9 more
 
 
 

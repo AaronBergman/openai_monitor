@@ -88,7 +88,7 @@ Unthread is a B2B support platform for engineering and product teams. This plugi
 
 ### [Privacy policyLearn more](<https://unthread.io/privacy>)
 
-## Add plugins in a few clicks
+## Add the Unthread plugin in a few clicks
 
 Availability depends on the plugin, your plan, and workspace settings. Some connections require admin setup or approval. Contact your workspace admin if access is blocked.
 
@@ -211,7 +211,7 @@ OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
 
-### 1Find a plugin1Find a plugin
+### 1Find the Unthread plugin1Find the Unthread plugin
 
 Browse for plugins that support your team’s tools and tasks.
 

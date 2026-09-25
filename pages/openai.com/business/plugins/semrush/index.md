@@ -34,7 +34,7 @@ OpenAI
 
 Ask about site metrics and traffic data.
 
-[Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_691fa57b709c8191b61c48b1f78dce21>)[Contact sales](</contact-sales/>)
+[Install plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_691fa57b709c8191b61c48b1f78dce21>)[Contact sales](</contact-sales/>)
 
 Category
     [Productivity](</business/plugins/?tab=plugins-productivity>)
@@ -49,31 +49,25 @@ Website
 
 Access SEO, traffic, and competitive insights from Semrush in ChatGPT using simple prompts to analyze competitors, find keyword opportunities, check market trends, and create quick reports.
 
-## Common use cases
+## What else can you do?
 
   * ### Explore site and keyword metrics
 
-View site metrics, keyword data, and ranking information to understand search visibility and demand.
-
 ![](https://files.openai.com/content?id=file_00000000a1a471fd81edff86e77ecd3b&cdn=1&cp=pi&ma=30326400&ts=0&p=pi&cid=1&sig=938d4b73498b8010276a2a2db3bd97736fb43368f7d6e6b918d92ed91ccbca4f&v=0)![](https://files.openai.com/content?id=file_00000000352871fd8a026326a6078808&cdn=1&cp=pi&ma=30585600&ts=0&p=pi&cid=1&sig=f2df03095c7e6c6c7c919a69e0395034bd5b155ed48e78a3780a4c33c6c23a4c&v=0)Semrush Find keyword opportunities for a fintech blog focused on small business lending and prioritize by difficulty and intent.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Semrush+Find+keyword+opportunities+for+a+fintech+blog+focused+on+small+business+lending+and+prioritize+by+difficulty+and+intent.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Semrush+Find+keyword+opportunities+for+a+fintech+blog+focused+on+small+business+lending+and+prioritize+by+difficulty+and+intent.>)
 
   * ### Review competitor performance
 
-Analyze competitor domains to review traffic data, visibility, and comparative performance.
-
 ![](https://files.openai.com/content?id=file_00000000a1a471fd81edff86e77ecd3b&cdn=1&cp=pi&ma=30326400&ts=0&p=pi&cid=1&sig=938d4b73498b8010276a2a2db3bd97736fb43368f7d6e6b918d92ed91ccbca4f&v=0)![](https://files.openai.com/content?id=file_00000000352871fd8a026326a6078808&cdn=1&cp=pi&ma=30585600&ts=0&p=pi&cid=1&sig=f2df03095c7e6c6c7c919a69e0395034bd5b155ed48e78a3780a4c33c6c23a4c&v=0)Semrush Compare these competitor domains over the last 30 days. Highlight who's gaining or losing, key drivers of performance, biggest gaps vs. us, and 3 recommended actions.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Semrush+Compare+these+competitor+domains+over+the+last+30+days.+Highlight+who%27s+gaining+or+losing%2C+key+drivers+of+performance%2C+biggest+gaps+vs.+us%2C+and+3+recommended+actions.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Semrush+Compare+these+competitor+domains+over+the+last+30+days.+Highlight+who%27s+gaining+or+losing%2C+key+drivers+of+performance%2C+biggest+gaps+vs.+us%2C+and+3+recommended+actions.>)
 
   * ### Summarize SEO and traffic data
 
-Create quick summaries and reports from Semrush SEO and traffic data without leaving ChatGPT.
-
 ![](https://files.openai.com/content?id=file_00000000a1a471fd81edff86e77ecd3b&cdn=1&cp=pi&ma=30326400&ts=0&p=pi&cid=1&sig=938d4b73498b8010276a2a2db3bd97736fb43368f7d6e6b918d92ed91ccbca4f&v=0)![](https://files.openai.com/content?id=file_00000000352871fd8a026326a6078808&cdn=1&cp=pi&ma=30585600&ts=0&p=pi&cid=1&sig=f2df03095c7e6c6c7c919a69e0395034bd5b155ed48e78a3780a4c33c6c23a4c&v=0)Semrush Run a technical SEO audit summary and give me the top fixes that will move organic traffic fastest.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Semrush+Run+a+technical+SEO+audit+summary+and+give+me+the+top+fixes+that+will+move+organic+traffic+fastest.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Semrush+Run+a+technical+SEO+audit+summary+and+give+me+the+top+fixes+that+will+move+organic+traffic+fastest.>)
 
 
 
@@ -94,7 +88,7 @@ Create quick summaries and reports from Semrush SEO and traffic data without lea
 
 ### [Privacy policyLearn more](<https://www.semrush.com/legal/privacy-policy/>)
 
-## Add plugins in a few clicks
+## Add the Semrush plugin in a few clicks
 
 Availability depends on the plugin, your plan, and workspace settings. Some connections require admin setup or approval. Contact your workspace admin if access is blocked.
 
@@ -160,6 +154,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -216,7 +211,7 @@ OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
 
-### 1Find a plugin1Find a plugin
+### 1Find the Semrush plugin1Find the Semrush plugin
 
 Browse for plugins that support your team’s tools and tasks.
 

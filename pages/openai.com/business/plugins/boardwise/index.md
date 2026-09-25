@@ -96,7 +96,7 @@ BoardWise helps licensed professionals respond to actions from their regulatory 
 
 ### [Privacy policyLearn more](<https://boardwise.online/privacy-policy>)
 
-## Add plugins in a few clicks
+## Add the BoardWise plugin in a few clicks
 
 Availability depends on the plugin, your plan, and workspace settings. Some connections require admin setup or approval. Contact your workspace admin if access is blocked.
 
@@ -219,7 +219,7 @@ OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
 
-### 1Find a plugin1Find a plugin
+### 1Find the BoardWise plugin1Find the BoardWise plugin
 
 Browse for plugins that support your team’s tools and tasks.
 

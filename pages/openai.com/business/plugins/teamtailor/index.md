@@ -88,7 +88,7 @@ Teamtailor Public MCP lets authorized users search recruiting workspace data, in
 
 ### [Privacy policyLearn more](<https://support.teamtailor.com/en/articles/15955588-teamtailor-mcp-server-privacy-policy>)
 
-## Add plugins in a few clicks
+## Add the Teamtailor plugin in a few clicks
 
 Availability depends on the plugin, your plan, and workspace settings. Some connections require admin setup or approval. Contact your workspace admin if access is blocked.
 
@@ -211,7 +211,7 @@ OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
 
-### 1Find a plugin1Find a plugin
+### 1Find the Teamtailor plugin1Find the Teamtailor plugin
 
 Browse for plugins that support your team’s tools and tasks.
 

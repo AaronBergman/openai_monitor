@@ -34,7 +34,7 @@ OpenAI
 
 Web, app, search & market data
 
-[Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_695cdd7e863c819192b88beffc2033b6>)[Contact sales](</contact-sales/>)
+[Install plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_695cdd7e863c819192b88beffc2033b6>)[Contact sales](</contact-sales/>)
 
 Category
     [Data](</business/plugins/?tab=plugins-data-research>)
@@ -45,37 +45,31 @@ Developer
 Website
     [(opens in a new window)](<https://similarweb.com>)
 
-[![](https://files.openai.com/content?id=file_000000009d0071f5ad3cbad0a88690f5&cdn=1&cp=pi&ma=32140800&ts=0&p=pi&cid=1&sig=ddfb136802d4f75b9472deb3d7639ea8b6b6c1731c73a196b34f0eba8af34905&v=0)Similarweb Analyze traffic trends for example.com versus its top competitors over the last six months.(opens in a new window)](<https://chatgpt.com/?prompt=%40Similarweb+Analyze+traffic+trends+for+example.com+versus+its+top+competitors+over+the+last+six+months.>)[![](https://files.openai.com/content?id=file_000000009d0071f5ad3cbad0a88690f5&cdn=1&cp=pi&ma=32140800&ts=0&p=pi&cid=1&sig=ddfb136802d4f75b9472deb3d7639ea8b6b6c1731c73a196b34f0eba8af34905&v=0)Similarweb Find the top acquisition channels and referring sites for example.com and summarize growth opportunities.(opens in a new window)](<https://chatgpt.com/?prompt=%40Similarweb+Find+the+top+acquisition+channels+and+referring+sites+for+example.com+and+summarize+growth+opportunities.>)[![](https://files.openai.com/content?id=file_000000009d0071f5ad3cbad0a88690f5&cdn=1&cp=pi&ma=32140800&ts=0&p=pi&cid=1&sig=ddfb136802d4f75b9472deb3d7639ea8b6b6c1731c73a196b34f0eba8af34905&v=0)Similarweb Compare audience geography and search keywords for example.com and a competitor.(opens in a new window)](<https://chatgpt.com/?prompt=%40Similarweb+Compare+audience+geography+and+search+keywords+for+example.com+and+a+competitor.>)
+[![](https://files.openai.com/content?id=file_000000009d0071f5ad3cbad0a88690f5&cdn=1&cp=pi&ma=32140800&ts=0&p=pi&cid=1&sig=ddfb136802d4f75b9472deb3d7639ea8b6b6c1731c73a196b34f0eba8af34905&v=0)Similarweb Analyze traffic trends for example.com versus its top competitors over the last six months.(opens in a new window)](<https://chatgpt.com/?prompt=%40Similarweb+Analyze+traffic+trends+for+example.com+versus+its+top+competitors+over+the+last+six+months.>)
 
 ## How it works
 
 Research any website or app inside ChatGPT using Similarweb's market intelligence data. Analyze competitor traffic, uncover top keywords, explore audience demographics, and benchmark performance across industries—all through simple prompts. Ask things like "Show me Nike's traffic sources breakdown" or "What keywords is Adidas ranking for?" and get real-time insights without switching tools. Whether you're a marketer, analyst, investor, or strategist, Similarweb helps you turn competitive questions into answers instantly.
 
-## Common use cases
+## What else can you do?
 
   * ### Benchmark competitive traffic
 
-Compare six months of traffic trends to understand how a website is performing against its competitors.
-
 ![](https://files.openai.com/content?id=file_000000009d0071f5ad3cbad0a88690f5&cdn=1&cp=pi&ma=32140800&ts=0&p=pi&cid=1&sig=ddfb136802d4f75b9472deb3d7639ea8b6b6c1731c73a196b34f0eba8af34905&v=0)Similarweb Analyze traffic trends for example.com versus its top competitors over the last six months.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Similarweb+Analyze+traffic+trends+for+example.com+versus+its+top+competitors+over+the+last+six+months.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Similarweb+Analyze+traffic+trends+for+example.com+versus+its+top+competitors+over+the+last+six+months.>)
 
   * ### Find acquisition opportunities
 
-Identify acquisition channels and referring sites that point to potential growth opportunities.
-
 ![](https://files.openai.com/content?id=file_000000009d0071f5ad3cbad0a88690f5&cdn=1&cp=pi&ma=32140800&ts=0&p=pi&cid=1&sig=ddfb136802d4f75b9472deb3d7639ea8b6b6c1731c73a196b34f0eba8af34905&v=0)Similarweb Find the top acquisition channels and referring sites for example.com and summarize growth opportunities.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Similarweb+Find+the+top+acquisition+channels+and+referring+sites+for+example.com+and+summarize+growth+opportunities.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Similarweb+Find+the+top+acquisition+channels+and+referring+sites+for+example.com+and+summarize+growth+opportunities.>)
 
   * ### Compare audience and search
 
-Compare a website and competitor by audience geography and search keywords.
-
 ![](https://files.openai.com/content?id=file_000000009d0071f5ad3cbad0a88690f5&cdn=1&cp=pi&ma=32140800&ts=0&p=pi&cid=1&sig=ddfb136802d4f75b9472deb3d7639ea8b6b6c1731c73a196b34f0eba8af34905&v=0)Similarweb Compare audience geography and search keywords for example.com and a competitor.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Similarweb+Compare+audience+geography+and+search+keywords+for+example.com+and+a+competitor.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Similarweb+Compare+audience+geography+and+search+keywords+for+example.com+and+a+competitor.>)
 
 
 
@@ -96,7 +90,7 @@ Compare a website and competitor by audience geography and search keywords.
 
 ### [Privacy policyLearn more](<https://www.similarweb.com/corp/legal/privacy-policy/>)
 
-## Add plugins in a few clicks
+## Add the Similarweb plugin in a few clicks
 
 Availability depends on the plugin, your plan, and workspace settings. Some connections require admin setup or approval. Contact your workspace admin if access is blocked.
 
@@ -162,6 +156,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -218,7 +213,7 @@ OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
 
-### 1Find a plugin1Find a plugin
+### 1Find the Similarweb plugin1Find the Similarweb plugin
 
 Browse for plugins that support your team’s tools and tasks.
 

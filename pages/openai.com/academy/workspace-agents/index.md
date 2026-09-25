@@ -99,7 +99,7 @@ Agents are also different from traditional API workflows you may have built in t
 
 A helpful way to design a workspace agent is to break it into parts. Think about what you would clarify before handing work to a person: what they are responsible for, when they should begin, what should make them pause or stop, which tools and information they can use, the process they should follow, and the rules they must stay within.   
   
-An agent may require access to plugins. Learn more about [plugins in ChatGPT.⁠](<https://openai.com/business/apps/>)
+An agent may require access to plugins. Learn more about [plugins in ChatGPT.](</business/plugins/>)
 
 See some examples of agent breakdowns below:
 
@@ -250,6 +250,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)

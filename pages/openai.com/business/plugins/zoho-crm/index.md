@@ -90,7 +90,7 @@ Review your pipeline, summarize account activity, and create follow-ups and next
 
 ### [Privacy policyLearn more](<https://www.zoho.com/privacy.html>)
 
-## Add plugins in a few clicks
+## Add the Zoho CRM plugin in a few clicks
 
 Availability depends on the plugin, your plan, and workspace settings. Some connections require admin setup or approval. Contact your workspace admin if access is blocked.
 
@@ -156,6 +156,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -212,7 +213,7 @@ OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
 
-### 1Find a plugin1Find a plugin
+### 1Find the Zoho CRM plugin1Find the Zoho CRM plugin
 
 Browse for plugins that support your team’s tools and tasks.
 

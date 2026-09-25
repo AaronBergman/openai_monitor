@@ -38,26 +38,26 @@ Get started
 
 Add plugins to extend what ChatGPT Work can do. Plugins connect customer and campaign context from tools like HubSpot, Figma, and Adobe. Use OpenAI’s Data and Product Design plugins to run pre-built workflows for campaign analysis, creative development, and prototyping.
 
-  * [DataBuilt by OpenAI](</business/plugins/data-analytics/>)
-  * [Product DesignBuilt by OpenAI](</business/plugins/product-design/>)
-  * [Canva](</business/plugins/canva/>)
-  * [Adobe](</business/plugins/adobe/>)
-  * [Google Drive](</business/plugins/google-drive/>)
-  * [SharePoint](</business/plugins/microsoft-sharepoint/>)
-  * [Salesforce](</business/plugins/salesforce/>)
-  * [Mailchimp](</business/plugins/mailchimp/>)
-  * [HubSpot](</business/plugins/hubspot/>)
-  * [Figma](</business/plugins/figma/>)
-  * [Slack](</business/plugins/slack/>)
-  * [BigQuery](</business/plugins/bigquery/>)
-  * [Airtable](</business/plugins/airtable/>)
-  * [monday.com](</business/plugins/monday-com/>)
-  * [Klaviyo](</business/plugins/klaviyo/>)
-  * [Semrush](</business/plugins/semrush/>)
+  * [![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)DataBuilt by OpenAI](</business/plugins/data/>)
+  * [![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)Product DesignBuilt by OpenAI](</business/plugins/product-design/>)
+  * [![](https://files.openai.com/content?id=file_000000000ee871fd807d17a056d79aa7&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=1&sig=07ea3990463c5d5c58deba9d55d8dfa10178b2a1cabb20fb0fdcf93fc218472b&v=0)![](https://files.openai.com/content?id=file_000000000ee871fd807d17a056d79aa7&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=1&sig=07ea3990463c5d5c58deba9d55d8dfa10178b2a1cabb20fb0fdcf93fc218472b&v=0)Canva](</business/plugins/canva/>)
+  * [![](https://files.openai.com/content?id=file_0000000000b4720ca05473965adda507&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=1&sig=9c83a384615d57139ad7d061085b80c28688ba0a35d60b1bf150a24d56b4546d&v=0)![](https://files.openai.com/content?id=file_0000000001b471f5ad526d510a0feb96&cdn=1&cp=pi&ma=30585600&ts=0&p=pi&cid=1&sig=a778b150e22cd0e7791ca90fdccf9115ebd65e275bd6876c85ee9cd143a46b9c&v=0)Adobe](</business/plugins/adobe/>)
+  * [![](https://files.openai.com/content?id=file_00000000a9a081f78752dfef864b2597&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=18fa18d4c839a23ca63639259d332c2f50d433faa731d9b7755f08c333b78e47&v=0)![](https://files.openai.com/content?id=file_00000000a9a081f78752dfef864b2597&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=18fa18d4c839a23ca63639259d332c2f50d433faa731d9b7755f08c333b78e47&v=0)Google Drive](</business/plugins/google-drive/>)
+  * [![](https://files.openai.com/content?id=file_00000000bec871f5b16bea82279ccf21&cdn=1&cp=pi&ma=31536000&ts=0&p=pi&cid=1&sig=dae48439fa494947db53290285649ef7f8819b8db88432aa57eb884533747051&v=0)![](https://files.openai.com/content?id=file_00000000bec871f5b16bea82279ccf21&cdn=1&cp=pi&ma=31536000&ts=0&p=pi&cid=1&sig=dae48439fa494947db53290285649ef7f8819b8db88432aa57eb884533747051&v=0)SharePoint](</business/plugins/microsoft-sharepoint/>)
+  * [![](https://files.openai.com/content?id=file_0000000005fc722f88207b67c3fbe10a&cdn=1&cp=pi&ma=31190400&ts=0&p=pi&cid=1&sig=4fccf640c85543b3c2aa0a0de6592ed9e1d71bbeb3169bb63bf4217a6809857f&v=0)![](https://files.openai.com/content?id=file_0000000005fc722f88207b67c3fbe10a&cdn=1&cp=pi&ma=31190400&ts=0&p=pi&cid=1&sig=4fccf640c85543b3c2aa0a0de6592ed9e1d71bbeb3169bb63bf4217a6809857f&v=0)Salesforce](</business/plugins/salesforce/>)
+  * [![](https://files.openai.com/content?id=file_00000000c52471f596902ad67edbbd95&cdn=1&cp=pi&ma=32227200&ts=0&p=pi&cid=1&sig=6a8f9ca3177a7d64b691a54e130a3d8b383f79e5821e9dd1c820aa10215c9370&v=0)![](https://files.openai.com/content?id=file_00000000fca081f789836eda5a49d065&cdn=1&cp=pi&ma=30672000&ts=0&p=pi&cid=8&sig=f1d018e8ba09a4f99aca9f43f459ad1a80e1635ae7a031e25267d13dccaaa9df&v=0)Intuit Mailchimp](</business/plugins/mailchimp/>)
+  * [![](https://files.openai.com/content?id=file_00000000d6d871f6af516dd237732886&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=8&sig=57605450edcdfd982a04b1b6acfaaefae75de19e6e4de54c96f260b5442b30a9&v=0)![](https://files.openai.com/content?id=file_00000000d6d871f6af516dd237732886&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=8&sig=57605450edcdfd982a04b1b6acfaaefae75de19e6e4de54c96f260b5442b30a9&v=0)HubSpot](</business/plugins/hubspot/>)
+  * [![](https://files.openai.com/content?id=file_000000003d64820c9105c859db57fe4d&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=8&sig=bc9fd0fe7aa6a14439c3dae08ded4377aa99f2dd20e5b52ca3db8dd40fd5d2fc&v=0)![](https://files.openai.com/content?id=file_000000001f3c81fd88149faceddc19df&cdn=1&cp=pi&ma=32659200&ts=0&p=pi&cid=8&sig=f45f28e94aaa8443b2c849d11cfe2c843efe0d98efc51230e2ab72c39610b193&v=0)Figma](</business/plugins/figma/>)
+  * [![](https://files.openai.com/content?id=file_00000000994081fd9df560367dfe54f4&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=8&sig=55e9028947fbc7ea3284b715ca95e34f797efbc5c4e0e47a9b2b0509d787308d&v=0)![](https://files.openai.com/content?id=file_00000000994081fd9df560367dfe54f4&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=8&sig=55e9028947fbc7ea3284b715ca95e34f797efbc5c4e0e47a9b2b0509d787308d&v=0)Slack](</business/plugins/slack/>)
+  * [![](https://files.openai.com/content?id=file_00000000ed1481f78f9a3258f4550543&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=8&sig=5597c988d52ec699251bc1c8978153b96ff8b82c6227c6388fcbeca824ace455&v=0)![](https://files.openai.com/content?id=file_00000000ed1481f78f9a3258f4550543&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=8&sig=5597c988d52ec699251bc1c8978153b96ff8b82c6227c6388fcbeca824ace455&v=0)BigQuery](</business/plugins/bigquery/>)
+  * [![](https://files.openai.com/content?id=file_00000000ed5071f7ac257032bcf8cc5d&cdn=1&cp=pi&ma=30931200&ts=0&p=pi&cid=8&sig=5c39ec3d859bcbd5a64f66e922b81ef025929d041ece54ba8405ee30c2cb46be&v=0)![](https://files.openai.com/content?id=file_000000006914720ca7a34247e1112b83&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=5d06aac0f128e7c36a59adf200cc7a34308389a908a9967caef1163d3c75c06f&v=0)Airtable](</business/plugins/airtable/>)
+  * [![](https://files.openai.com/content?id=file_000000005ee871f88f1bfd73ad777a90&cdn=1&cp=pi&ma=32140800&ts=0&p=pi&cid=1&sig=df0e9e02b8a5bfd8995607513d9e3bab6e2c60df30c2542878eab19896af6a5b&v=0)![](https://files.openai.com/content?id=file_000000005ee871f88f1bfd73ad777a90&cdn=1&cp=pi&ma=32140800&ts=0&p=pi&cid=1&sig=df0e9e02b8a5bfd8995607513d9e3bab6e2c60df30c2542878eab19896af6a5b&v=0)Monday.com](</business/plugins/monday-com/>)
+  * [![](https://files.openai.com/content?id=file_000000001c74722fbf559d66b947677a&cdn=1&cp=pi&ma=30758400&ts=0&p=pi&cid=1&sig=c3949f45a99526b86e23253607118e8e4a255ccfa0d5b10d2a7e57c92d57e295&v=0)![](https://files.openai.com/content?id=file_0000000058f881f79ad4d119015bfa7c&cdn=1&cp=pi&ma=32659200&ts=0&p=pi&cid=8&sig=7ad389ade1c1fb108f1aa27b3c107e33432079c726d59206f69159c7d103502d&v=0)Klaviyo](</business/plugins/klaviyo/>)
+  * [![](https://files.openai.com/content?id=file_00000000a1a471fd81edff86e77ecd3b&cdn=1&cp=pi&ma=30326400&ts=0&p=pi&cid=1&sig=938d4b73498b8010276a2a2db3bd97736fb43368f7d6e6b918d92ed91ccbca4f&v=0)![](https://files.openai.com/content?id=file_00000000352871fd8a026326a6078808&cdn=1&cp=pi&ma=30585600&ts=0&p=pi&cid=1&sig=f2df03095c7e6c6c7c919a69e0395034bd5b155ed48e78a3780a4c33c6c23a4c&v=0)Semrush](</business/plugins/semrush/>)
 
 
 
-[View all plugins](</business/plugins/?tab=apps-go-to-market>)[Add Data plugin](</business/plugins/data-analytics/>)
+[View all plugins](</business/plugins/?tab=apps-go-to-market>)[Add Data plugin](</business/plugins/data/>)
 
 ## AI that gives marketers room for more impact
 
@@ -226,6 +226,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)

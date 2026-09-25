@@ -34,7 +34,7 @@ OpenAI
 
 Build and explore your data
 
-[Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_templated_apps_6a9b05b3b5e0819197d074e79dfc2e8d>)[Contact sales](</contact-sales/>)
+[Install plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_templated_apps_6a9b05b3b5e0819197d074e79dfc2e8d>)[Contact sales](</contact-sales/>)
 
 Category
     [Data](</business/plugins/?tab=plugins-data-research>)
@@ -45,37 +45,31 @@ Developer
 Website
     [(opens in a new window)](<https://www.sigmacomputing.com/>)
 
-[![](https://files.openai.com/content?id=file_00000000e97081f79cd511a9656ac268&cdn=1&cp=pi&ma=30412800&ts=0&p=pi&cid=8&sig=5e7172e91f10b74e76b8fe2f395e03ad39b429894bc3bd3ade3d9ba90acf2b7b&v=0)Sigma give me a summary of purchase data in the last quarter(opens in a new window)](<https://chatgpt.com/?prompt=%40Sigma+give+me+a+summary+of+purchase+data+in+the+last+quarter>)[![](https://files.openai.com/content?id=file_00000000e97081f79cd511a9656ac268&cdn=1&cp=pi&ma=30412800&ts=0&p=pi&cid=8&sig=5e7172e91f10b74e76b8fe2f395e03ad39b429894bc3bd3ade3d9ba90acf2b7b&v=0)Sigma create a dashboard that tracks changes in profit this year(opens in a new window)](<https://chatgpt.com/?prompt=%40Sigma+create+a+dashboard+that+tracks+changes+in+profit+this+year>)[![](https://files.openai.com/content?id=file_00000000e97081f79cd511a9656ac268&cdn=1&cp=pi&ma=30412800&ts=0&p=pi&cid=8&sig=5e7172e91f10b74e76b8fe2f395e03ad39b429894bc3bd3ade3d9ba90acf2b7b&v=0)Sigma build a sales pipeline forecasting application(opens in a new window)](<https://chatgpt.com/?prompt=%40Sigma+build+a+sales+pipeline+forecasting+application>)
+[![](https://files.openai.com/content?id=file_00000000e97081f79cd511a9656ac268&cdn=1&cp=pi&ma=30412800&ts=0&p=pi&cid=8&sig=5e7172e91f10b74e76b8fe2f395e03ad39b429894bc3bd3ade3d9ba90acf2b7b&v=0)Sigma give me a summary of purchase data in the last quarter(opens in a new window)](<https://chatgpt.com/?prompt=%40Sigma+give+me+a+summary+of+purchase+data+in+the+last+quarter>)
 
 ## How it works
 
 Explore, search, query your data, and build applications and dashboards in Sigma directly from the ChatGPT interface. You can search across your organization for relevant documents and elements, answer and iterate on complex data questions, and perform detailed analysis using natural language.
 
-## Common use cases
+## What else can you do?
 
   * ### Analyze quarterly purchases
 
-Summarize quarterly purchasing patterns and identify the largest changes.
-
 ![](https://files.openai.com/content?id=file_00000000e97081f79cd511a9656ac268&cdn=1&cp=pi&ma=30412800&ts=0&p=pi&cid=8&sig=5e7172e91f10b74e76b8fe2f395e03ad39b429894bc3bd3ade3d9ba90acf2b7b&v=0)Sigma Analyze last quarter's purchase data by supplier and category. Compare it with the previous quarter, identify the biggest spending changes, and summarize the findings with links to the source data.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Sigma+Analyze+last+quarter%27s+purchase+data+by+supplier+and+category.+Compare+it+with+the+previous+quarter%2C+identify+the+biggest+spending+changes%2C+and+summarize+the+findings+with+links+to+the+source+data.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Sigma+Analyze+last+quarter%27s+purchase+data+by+supplier+and+category.+Compare+it+with+the+previous+quarter%2C+identify+the+biggest+spending+changes%2C+and+summarize+the+findings+with+links+to+the+source+data.>)
 
   * ### Build a profit dashboard
 
-Create a dashboard showing profit trends and the segments driving changes.
-
 ![](https://files.openai.com/content?id=file_00000000e97081f79cd511a9656ac268&cdn=1&cp=pi&ma=30412800&ts=0&p=pi&cid=8&sig=5e7172e91f10b74e76b8fe2f395e03ad39b429894bc3bd3ade3d9ba90acf2b7b&v=0)Sigma Create a dashboard tracking monthly profit this year by region and product category. Use our existing profit definition, highlight the largest changes, and include filters for exploring the results.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Sigma+Create+a+dashboard+tracking+monthly+profit+this+year+by+region+and+product+category.+Use+our+existing+profit+definition%2C+highlight+the+largest+changes%2C+and+include+filters+for+exploring+the+results.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Sigma+Create+a+dashboard+tracking+monthly+profit+this+year+by+region+and+product+category.+Use+our+existing+profit+definition%2C+highlight+the+largest+changes%2C+and+include+filters+for+exploring+the+results.>)
 
   * ### Forecast the sales pipeline
 
-Build a pipeline forecasting application with explicit assumptions and deal-level detail.
-
 ![](https://files.openai.com/content?id=file_00000000e97081f79cd511a9656ac268&cdn=1&cp=pi&ma=30412800&ts=0&p=pi&cid=8&sig=5e7172e91f10b74e76b8fe2f395e03ad39b429894bc3bd3ade3d9ba90acf2b7b&v=0)Sigma Build a sales pipeline forecasting application using our opportunity data. Show expected revenue by close month, expose stage-probability assumptions, and let users inspect the deals behind each total.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40Sigma+Build+a+sales+pipeline+forecasting+application+using+our+opportunity+data.+Show+expected+revenue+by+close+month%2C+expose+stage-probability+assumptions%2C+and+let+users+inspect+the+deals+behind+each+total.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Sigma+Build+a+sales+pipeline+forecasting+application+using+our+opportunity+data.+Show+expected+revenue+by+close+month%2C+expose+stage-probability+assumptions%2C+and+let+users+inspect+the+deals+behind+each+total.>)
 
 
 
@@ -96,7 +90,7 @@ Build a pipeline forecasting application with explicit assumptions and deal-leve
 
 ### [Privacy policyLearn more](<https://www.sigmacomputing.com/legal/privacy-policy>)
 
-## Add plugins in a few clicks
+## Add the Sigma plugin in a few clicks
 
 Availability depends on the plugin, your plan, and workspace settings. Some connections require admin setup or approval. Contact your workspace admin if access is blocked.
 
@@ -162,6 +156,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -218,7 +213,7 @@ OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
 
-### 1Find a plugin1Find a plugin
+### 1Find the Sigma plugin1Find the Sigma plugin
 
 Browse for plugins that support your team’s tools and tasks.
 

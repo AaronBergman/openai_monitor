@@ -45,7 +45,7 @@ Developer
 Website
     [(opens in a new window)](<https://legalquants.com>)
 
-[![](https://files.openai.com/content?id=file_000000005f3c81f697a70c442d989af2&cdn=1&cp=pi&ma=31968000&ts=0&p=pi&cid=8&sig=173c97d2354fe4eb0539edd124dcf1f9f7ba6ba6dc200d9ea7146277ffc4aff0&v=0)The LegalQuants Companion I don't know what to type.(opens in a new window)](<https://chatgpt.com/?prompt=%40The+LegalQuants+Companion+I+don%27t+know+what+to+type.>)
+[![](https://files.openai.com/content?id=file_0000000012d881f699ced32c30041c21&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=48a3694868be0061a0914e166ba0071ff5a39ea717481abb696d34f92cc245fb&v=0)The LegalQuants Companion I don't know what to type.(opens in a new window)](<https://chatgpt.com/?prompt=%40The+LegalQuants+Companion+I+don%27t+know+what+to+type.>)
 
 ## How it works
 
@@ -55,19 +55,19 @@ Your journey with AI as a lawyer — ask, assess, reflect, apply, connect.
 
   * ### Assess your AI practice
 
-![](https://files.openai.com/content?id=file_000000005f3c81f697a70c442d989af2&cdn=1&cp=pi&ma=31968000&ts=0&p=pi&cid=8&sig=173c97d2354fe4eb0539edd124dcf1f9f7ba6ba6dc200d9ea7146277ffc4aff0&v=0)The LegalQuants Companion Assess me. Where am I with AI as a lawyer?
+![](https://files.openai.com/content?id=file_0000000012d881f699ced32c30041c21&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=48a3694868be0061a0914e166ba0071ff5a39ea717481abb696d34f92cc245fb&v=0)The LegalQuants Companion Assess me. Where am I with AI as a lawyer?
 
 [Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40The+LegalQuants+Companion+Assess+me.+Where+am+I+with+AI+as+a+lawyer%3F>)
 
   * ### Shape your first AI assignment
 
-![](https://files.openai.com/content?id=file_000000005f3c81f697a70c442d989af2&cdn=1&cp=pi&ma=31968000&ts=0&p=pi&cid=8&sig=173c97d2354fe4eb0539edd124dcf1f9f7ba6ba6dc200d9ea7146277ffc4aff0&v=0)The LegalQuants Companion Help me choose a bounded task from my legal practice to try with AI. Ask about the work, available materials, and constraints, then draft an assignment with a clear outcome and review criteria.
+![](https://files.openai.com/content?id=file_0000000012d881f699ced32c30041c21&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=48a3694868be0061a0914e166ba0071ff5a39ea717481abb696d34f92cc245fb&v=0)The LegalQuants Companion Help me choose a bounded task from my legal practice to try with AI. Ask about the work, available materials, and constraints, then draft an assignment with a clear outcome and review criteria.
 
 [Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40The+LegalQuants+Companion+Help+me+choose+a+bounded+task+from+my+legal+practice+to+try+with+AI.+Ask+about+the+work%2C+available+materials%2C+and+constraints%2C+then+draft+an+assignment+with+a+clear+outcome+and+review+criteria.>)
 
   * ### Reflect on an AI workflow
 
-![](https://files.openai.com/content?id=file_000000005f3c81f697a70c442d989af2&cdn=1&cp=pi&ma=31968000&ts=0&p=pi&cid=8&sig=173c97d2354fe4eb0539edd124dcf1f9f7ba6ba6dc200d9ea7146277ffc4aff0&v=0)The LegalQuants Companion Help me debrief a recent legal task I completed with AI. Ask what I tried and how I checked the result, identify what worked and what needs improvement, and suggest one change for next time.
+![](https://files.openai.com/content?id=file_0000000012d881f699ced32c30041c21&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=48a3694868be0061a0914e166ba0071ff5a39ea717481abb696d34f92cc245fb&v=0)The LegalQuants Companion Help me debrief a recent legal task I completed with AI. Ask what I tried and how I checked the result, identify what worked and what needs improvement, and suggest one change for next time.
 
 [Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40The+LegalQuants+Companion+Help+me+debrief+a+recent+legal+task+I+completed+with+AI.+Ask+what+I+tried+and+how+I+checked+the+result%2C+identify+what+worked+and+what+needs+improvement%2C+and+suggest+one+change+for+next+time.>)
 
@@ -97,7 +97,7 @@ Your journey with AI as a lawyer — ask, assess, reflect, apply, connect.
 
 ### [Privacy policyLearn more](<https://legalquants.com/privacy>)
 
-## Add plugins in a few clicks
+## Add the The LegalQuants Companion plugin in a few clicks
 
 Availability depends on the plugin, your plan, and workspace settings. Some connections require admin setup or approval. Contact your workspace admin if access is blocked.
 
@@ -163,6 +163,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -219,7 +220,7 @@ OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
 
-### 1Find a plugin1Find a plugin
+### 1Find the The LegalQuants Companion plugin1Find the The LegalQuants Companion plugin
 
 Browse for plugins that support your team’s tools and tasks.
 

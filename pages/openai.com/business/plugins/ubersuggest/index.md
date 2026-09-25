@@ -82,6 +82,20 @@ Ubersuggest is a free SEO research app that helps you quickly explore keyword id
 
 
 
+### Skills
+
+  * AI Search Visibility
+  * Competitor Analysis
+  * Content Brief
+  * Content Demand Finder
+  * Keyword Research
+  * Project Setup
+  * SEO Action Plan
+  * SEO Foundations
+  * 1 more
+
+
+
 ## Resources
 
 ### [Help centerLearn more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
@@ -90,7 +104,7 @@ Ubersuggest is a free SEO research app that helps you quickly explore keyword id
 
 ### [Privacy policyLearn more](<https://npdigital.com/privacy-notice/>)
 
-## Add plugins in a few clicks
+## Add the Ubersuggest plugin in a few clicks
 
 Availability depends on the plugin, your plan, and workspace settings. Some connections require admin setup or approval. Contact your workspace admin if access is blocked.
 
@@ -156,6 +170,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -212,7 +227,7 @@ OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
 
-### 1Find a plugin1Find a plugin
+### 1Find the Ubersuggest plugin1Find the Ubersuggest plugin
 
 Browse for plugins that support your team’s tools and tasks.
 

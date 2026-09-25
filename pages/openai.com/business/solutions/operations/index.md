@@ -36,26 +36,26 @@ ChatGPT Work pulls project updates from across your systems, surfaces risks and 
 
 Add plugins to extend what ChatGPT Work can do. Plugins connect ChatGPT Work to tools like SharePoint, Slack, and Google Drive so you can bring project context together. Use OpenAI’s Data plugin to analyze operational data and turn updates into clear next steps.
 
-  * [DataBuilt by OpenAI](</business/plugins/data-analytics/>)
-  * [SharePoint](</business/plugins/microsoft-sharepoint/>)
-  * [Slack](</business/plugins/slack/>)
-  * [Google Drive](</business/plugins/google-drive/>)
-  * [Asana](</business/plugins/asana/>)
-  * [Teams](</business/plugins/microsoft-teams/>)
-  * [Outlook Email](</business/plugins/microsoft-outlook-email/>)
-  * [Atlassian Rovo](</business/plugins/atlassian-rovo/>)
-  * [Salesforce](</business/plugins/salesforce/>)
-  * [monday.com](</business/plugins/monday-com/>)
-  * [Box](</business/plugins/box/>)
-  * [Gmail](</business/plugins/gmail/>)
-  * [Databricks Genie](</business/plugins/databricks/>)
-  * [Snowflake](</business/plugins/snowflake/>)
-  * [BigQuery](</business/plugins/bigquery/>)
-  * [Airtable](</business/plugins/airtable/>)
+  * [![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)DataBuilt by OpenAI](</business/plugins/data/>)
+  * [![](https://files.openai.com/content?id=file_00000000bec871f5b16bea82279ccf21&cdn=1&cp=pi&ma=31536000&ts=0&p=pi&cid=1&sig=dae48439fa494947db53290285649ef7f8819b8db88432aa57eb884533747051&v=0)![](https://files.openai.com/content?id=file_00000000bec871f5b16bea82279ccf21&cdn=1&cp=pi&ma=31536000&ts=0&p=pi&cid=1&sig=dae48439fa494947db53290285649ef7f8819b8db88432aa57eb884533747051&v=0)SharePoint](</business/plugins/microsoft-sharepoint/>)
+  * [![](https://files.openai.com/content?id=file_00000000994081fd9df560367dfe54f4&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=8&sig=55e9028947fbc7ea3284b715ca95e34f797efbc5c4e0e47a9b2b0509d787308d&v=0)![](https://files.openai.com/content?id=file_00000000994081fd9df560367dfe54f4&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=8&sig=55e9028947fbc7ea3284b715ca95e34f797efbc5c4e0e47a9b2b0509d787308d&v=0)Slack](</business/plugins/slack/>)
+  * [![](https://files.openai.com/content?id=file_00000000a9a081f78752dfef864b2597&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=18fa18d4c839a23ca63639259d332c2f50d433faa731d9b7755f08c333b78e47&v=0)![](https://files.openai.com/content?id=file_00000000a9a081f78752dfef864b2597&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=18fa18d4c839a23ca63639259d332c2f50d433faa731d9b7755f08c333b78e47&v=0)Google Drive](</business/plugins/google-drive/>)
+  * [![](https://files.openai.com/content?id=file_000000004a50722f96089a32eeed297c&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=1&sig=07807a7cbefb19d9cd968741565427527585e02f13335ddd46129d77e9dfe317&v=0)![](https://files.openai.com/content?id=file_0000000072dc81f69476895c0081c9c6&cdn=1&cp=pi&ma=31363200&ts=0&p=pi&cid=8&sig=ae98e7cc8005841970b2d7697ed1cfd38a1f393c65889c0de686c5db7b93da03&v=0)Asana](</business/plugins/asana/>)
+  * [![](https://files.openai.com/content?id=file_00000000290c81f6b165c1e4941266a3&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=8&sig=aac8f7270051b9307ea721f89136ce46aaf1dffcbdaea6eba9ba95fc9212473d&v=0)![](https://files.openai.com/content?id=file_00000000290c81f6b165c1e4941266a3&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=8&sig=aac8f7270051b9307ea721f89136ce46aaf1dffcbdaea6eba9ba95fc9212473d&v=0)Teams](</business/plugins/microsoft-teams/>)
+  * [![](https://files.openai.com/content?id=file_00000000f954722fa9fc7b5c09eb6970&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=1&sig=352148741b16c345f6537c69ed2fd83a3dacaeda210d5818bb7a66c44a09223b&v=0)![](https://files.openai.com/content?id=file_00000000f954722fa9fc7b5c09eb6970&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=1&sig=352148741b16c345f6537c69ed2fd83a3dacaeda210d5818bb7a66c44a09223b&v=0)Outlook Email](</business/plugins/microsoft-outlook-email/>)
+  * [![](https://files.openai.com/content?id=file_000000000b0071f5a15a9c19c082b8e5&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=1&sig=2663b30a3556fd4f4ba683cb9f2229a0c1d6c2c03d5ee308c9d75206a0b9fd63&v=0)![](https://files.openai.com/content?id=file_00000000dd1871f59b6fbbe091d54c40&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=1&sig=0c80d0ad0efd55b7f0665e2b3a539a4ac11beb6ed99bb0f9b65065138f951a3c&v=0)Atlassian Rovo](</business/plugins/atlassian-rovo/>)
+  * [![](https://files.openai.com/content?id=file_0000000005fc722f88207b67c3fbe10a&cdn=1&cp=pi&ma=31190400&ts=0&p=pi&cid=1&sig=4fccf640c85543b3c2aa0a0de6592ed9e1d71bbeb3169bb63bf4217a6809857f&v=0)![](https://files.openai.com/content?id=file_0000000005fc722f88207b67c3fbe10a&cdn=1&cp=pi&ma=31190400&ts=0&p=pi&cid=1&sig=4fccf640c85543b3c2aa0a0de6592ed9e1d71bbeb3169bb63bf4217a6809857f&v=0)Salesforce](</business/plugins/salesforce/>)
+  * [![](https://files.openai.com/content?id=file_000000005ee871f88f1bfd73ad777a90&cdn=1&cp=pi&ma=32140800&ts=0&p=pi&cid=1&sig=df0e9e02b8a5bfd8995607513d9e3bab6e2c60df30c2542878eab19896af6a5b&v=0)![](https://files.openai.com/content?id=file_000000005ee871f88f1bfd73ad777a90&cdn=1&cp=pi&ma=32140800&ts=0&p=pi&cid=1&sig=df0e9e02b8a5bfd8995607513d9e3bab6e2c60df30c2542878eab19896af6a5b&v=0)Monday.com](</business/plugins/monday-com/>)
+  * [![](https://files.openai.com/content?id=file_000000003dec71f58ea31d11943374ac&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=1&sig=74ea60b3dccd88f76296af895d81de15f4ed38ee02b05e86001f9ee5e0091c6d&v=0)![](https://files.openai.com/content?id=file_000000003dec71f58ea31d11943374ac&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=1&sig=74ea60b3dccd88f76296af895d81de15f4ed38ee02b05e86001f9ee5e0091c6d&v=0)Box](</business/plugins/box/>)
+  * [![](https://files.openai.com/content?id=file_00000000990481fd9c316ee59df47fc5&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=8&sig=bd8ee8654d100eefe078aa49822119c307f7c6f39021603fafb3d083c1cb5cac&v=0)![](https://files.openai.com/content?id=file_00000000990481fd9c316ee59df47fc5&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=8&sig=bd8ee8654d100eefe078aa49822119c307f7c6f39021603fafb3d083c1cb5cac&v=0)Gmail](</business/plugins/gmail/>)
+  * [![](https://files.openai.com/content?id=file_00000000fb6081f7aa3f621147713ad6&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=7b7a02db1929ca7e8aebd24b459d525b6ac1ae88b282b387816507320645a98d&v=0)![](https://files.openai.com/content?id=file_00000000fb6081f7aa3f621147713ad6&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=7b7a02db1929ca7e8aebd24b459d525b6ac1ae88b282b387816507320645a98d&v=0)Databricks Genie](</business/plugins/databricks/>)
+  * [![](https://files.openai.com/content?id=file_000000000f3081f7a148386e0036032a&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=23f27004207bf0063b44d64340b33c09de7704a5bb99b736cf24494db2663453&v=0)![](https://files.openai.com/content?id=file_000000000f3081f7a148386e0036032a&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=23f27004207bf0063b44d64340b33c09de7704a5bb99b736cf24494db2663453&v=0)Snowflake](</business/plugins/snowflake/>)
+  * [![](https://files.openai.com/content?id=file_00000000ed1481f78f9a3258f4550543&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=8&sig=5597c988d52ec699251bc1c8978153b96ff8b82c6227c6388fcbeca824ace455&v=0)![](https://files.openai.com/content?id=file_00000000ed1481f78f9a3258f4550543&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=8&sig=5597c988d52ec699251bc1c8978153b96ff8b82c6227c6388fcbeca824ace455&v=0)BigQuery](</business/plugins/bigquery/>)
+  * [![](https://files.openai.com/content?id=file_00000000ed5071f7ac257032bcf8cc5d&cdn=1&cp=pi&ma=30931200&ts=0&p=pi&cid=8&sig=5c39ec3d859bcbd5a64f66e922b81ef025929d041ece54ba8405ee30c2cb46be&v=0)![](https://files.openai.com/content?id=file_000000006914720ca7a34247e1112b83&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=5d06aac0f128e7c36a59adf200cc7a34308389a908a9967caef1163d3c75c06f&v=0)Airtable](</business/plugins/airtable/>)
 
 
 
-[View all plugins](</business/plugins/>)[Add Data plugin](</business/plugins/data-analytics/>)
+[View all plugins](</business/plugins/>)[Add Data plugin](</business/plugins/data/>)
 
 ## Act on what's slowing operations work down
 
@@ -200,6 +200,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)

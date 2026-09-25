@@ -48,7 +48,7 @@ Developer
 Website
     [(opens in a new window)](<https://www.tableau.com/>)
 
-[![](https://files.openai.com/content?id=file_000000006ac081f5ad12ea3e0f1e1e0b&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=8&sig=977cbdfd5c9f8b12774015a82b583a346be0c0cab430e193072cdad3b970d30c&v=0)Tableau Tell me about the Tableau Plugin and what it can do.(opens in a new window)](<https://chatgpt.com/?prompt=%40Tableau+Tell+me+about+the+Tableau+Plugin+and+what+it+can+do.>)
+[![](https://files.openai.com/content?id=file_00000000bac481fdae8a18454b21033c&cdn=1&cp=pi&ma=31881600&ts=0&p=pi&cid=8&sig=8d0e9980c88584df67cf888a8455ea5b89f8cd6c68083164a1bf1caf22c16a21&v=0)Tableau Tell me about the Tableau Plugin and what it can do.(opens in a new window)](<https://chatgpt.com/?prompt=%40Tableau+Tell+me+about+the+Tableau+Plugin+and+what+it+can+do.>)
 
 ## How it works
 
@@ -58,19 +58,19 @@ Connects Codex to Tableau's hosted MCP server (mcp.tableau.com) so you can searc
 
   * ### Review sales attainment
 
-![](https://files.openai.com/content?id=file_000000006ac081f5ad12ea3e0f1e1e0b&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=8&sig=977cbdfd5c9f8b12774015a82b583a346be0c0cab430e193072cdad3b970d30c&v=0)Tableau Show me the Commission Model dashboard. Also, tell me who is above 100% attainment
+![](https://files.openai.com/content?id=file_00000000bac481fdae8a18454b21033c&cdn=1&cp=pi&ma=31881600&ts=0&p=pi&cid=8&sig=8d0e9980c88584df67cf888a8455ea5b89f8cd6c68083164a1bf1caf22c16a21&v=0)Tableau Show me the Commission Model dashboard. Also, tell me who is above 100% attainment
 
 [Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Tableau+Show+me+the+Commission+Model+dashboard.+Also%2C+tell+me+who+is+above+100%25+attainment>)
 
   * ### Explain metric changes
 
-![](https://files.openai.com/content?id=file_000000006ac081f5ad12ea3e0f1e1e0b&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=8&sig=977cbdfd5c9f8b12774015a82b583a346be0c0cab430e193072cdad3b970d30c&v=0)Tableau Review my Pulse metrics for [business area] over the last month. Summarize the largest changes and available insights, and recommend which metrics need investigation with links to the sources.
+![](https://files.openai.com/content?id=file_00000000bac481fdae8a18454b21033c&cdn=1&cp=pi&ma=31881600&ts=0&p=pi&cid=8&sig=8d0e9980c88584df67cf888a8455ea5b89f8cd6c68083164a1bf1caf22c16a21&v=0)Tableau Review my Pulse metrics for [business area] over the last month. Summarize the largest changes and available insights, and recommend which metrics need investigation with links to the sources.
 
 [Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Tableau+Review+my+Pulse+metrics+for+%5Bbusiness+area%5D+over+the+last+month.+Summarize+the+largest+changes+and+available+insights%2C+and+recommend+which+metrics+need+investigation+with+links+to+the+sources.>)
 
   * ### Compare category profitability
 
-![](https://files.openai.com/content?id=file_000000006ac081f5ad12ea3e0f1e1e0b&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=8&sig=977cbdfd5c9f8b12774015a82b583a346be0c0cab430e193072cdad3b970d30c&v=0)Tableau Use the superstore workbook as a starting point, and add a new sheet showing profit ratio (profit / sales) by category.
+![](https://files.openai.com/content?id=file_00000000bac481fdae8a18454b21033c&cdn=1&cp=pi&ma=31881600&ts=0&p=pi&cid=8&sig=8d0e9980c88584df67cf888a8455ea5b89f8cd6c68083164a1bf1caf22c16a21&v=0)Tableau Use the superstore workbook as a starting point, and add a new sheet showing profit ratio (profit / sales) by category.
 
 [Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Tableau+Use+the+superstore+workbook+as+a+starting+point%2C+and+add+a+new+sheet+showing+profit+ratio+%28profit+%2F+sales%29+by+category.>)
 
@@ -78,6 +78,12 @@ Connects Codex to Tableau's hosted MCP server (mcp.tableau.com) so you can searc
 
 
 ## What’s included
+
+### App
+
+  * ![](https://files.openai.com/content?id=file_0000000068d871f7beb4f77cda16c4f9&cdn=1&cp=pi&ma=32659200&ts=0&p=pi&cid=8&sig=209b1c756f9ec74e884cdb534185f8b1b0b96c8ae5040c847bacda3cbb822437&v=0)Tableau (MCP only; EOL soon)
+
+
 
 ### Skills
 
@@ -98,7 +104,7 @@ Connects Codex to Tableau's hosted MCP server (mcp.tableau.com) so you can searc
 
 ### [Privacy policyLearn more](<https://www.salesforce.com/company/legal/privacy/>)
 
-## Add plugins in a few clicks
+## Add the Tableau plugin in a few clicks
 
 Availability depends on the plugin, your plan, and workspace settings. Some connections require admin setup or approval. Contact your workspace admin if access is blocked.
 
@@ -164,6 +170,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -220,7 +227,7 @@ OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
 
-### 1Find a plugin1Find a plugin
+### 1Find the Tableau plugin1Find the Tableau plugin
 
 Browse for plugins that support your team’s tools and tasks.
 

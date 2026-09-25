@@ -85,12 +85,14 @@ Answer finance and operations questions with live Stripe data, review revenue dr
 ### Skills
 
   * connect-recommend
+  * connect-required-verification-information
+  * metronome
   * stripe-apps
   * stripe-best-practices
   * stripe-directory
   * stripe-docs
-  * stripe-projects
-  * upgrade-stripe
+  * stripe-pay
+  * 2 more
 
 
 

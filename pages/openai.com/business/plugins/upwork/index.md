@@ -90,7 +90,7 @@ Upwork connects clients hiring for work with the freelancers doing it. Clients c
 
 ### [Privacy policyLearn more](<https://www.upwork.com/legal#privacy>)
 
-## Add plugins in a few clicks
+## Add the Upwork plugin in a few clicks
 
 Availability depends on the plugin, your plan, and workspace settings. Some connections require admin setup or approval. Contact your workspace admin if access is blocked.
 
@@ -213,7 +213,7 @@ OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
 
-### 1Find a plugin1Find a plugin
+### 1Find the Upwork plugin1Find the Upwork plugin
 
 Browse for plugins that support your team’s tools and tasks.
 
