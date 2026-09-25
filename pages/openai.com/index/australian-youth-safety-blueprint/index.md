@@ -50,17 +50,17 @@ This is ongoing work, and there is more to do. Australia has an opportunity to h
 
 [View all](</news/>)
 
+![Two years of OpenAI Academy — card image](https://images.ctfassets.net/kftzwdyauwt9/Tc4KzRhOgVSaIxQoUkr9R/25c2cf38c314d47e6f3cb93e54e382aa/two-years-of-openai-academy-cover.png?w=3840&q=90&fm=webp)
+
+[Two years of OpenAI AcademyCompanySep 23, 2026](</index/two-years-of-openai-academy/>)
+
+![Airbnb widens access to GPT-6 Astra and OpenAI frontier models - card image](https://images.ctfassets.net/kftzwdyauwt9/2prIXE6DtUo7UsJqRAl52K/f8c082ed29505ebfbcff9fe828ccc123/airbnb-widens-access-to-gpt-6-astra-and-openai-frontier-models-cover.png?w=3840&q=90&fm=webp)
+
+[Airbnb expands access to GPT-6 AstraCompanySep 23, 2026](</index/airbnb-gpt-6-astra/>)
+
 ![Advisory Group on Mathematics and Artificial Intelligence — cover](https://images.ctfassets.net/kftzwdyauwt9/7I8A6x8LfZld8C8IZUbZmi/6c9da8e137ce049fb07e486958636739/advisory-group-on-mathematics-and-artificial-intelligence-cover.png?w=3840&q=90&fm=webp)
 
 [Advisory group on mathematics and artificial intelligenceCompanySep 21, 2026](</index/advisory-group-on-mathematics-and-ai/>)
-
-![Expanding OpenAI Academy with new learning paths — cover](https://images.ctfassets.net/kftzwdyauwt9/45fB7Wzg6PiQPzz8V49LVr/ef443412e9d5f03f9d5ffcc79aefe18e/expanding-openai-academy-with-new-learning-paths-cover.png?w=3840&q=90&fm=webp)
-
-[Expanding OpenAI Academy with new learning pathsCompanySep 21, 2026](</index/expanding-openai-academy-with-new-learning-paths/>)
-
-![Introducing Astra for Law — art card](https://images.ctfassets.net/kftzwdyauwt9/4vshYjPreJaZEO8O7sSTFX/e61e1b0c2f67305b55171ae3cc8042b8/introducing-astra-for-law-art-card.png?w=3840&q=90&fm=webp)
-
-[Introducing Astra for LawCompanySep 17, 2026](</index/astra-for-law/>)
 
 Research
 

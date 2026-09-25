@@ -30,13 +30,13 @@ September 21, 2026
 
 Startup
 
-# How V7 gives AI agents institutional memory
+# V7 cuts costs 78% while boosting accuracy with GPT‑5.6 Luna
 
-V7 turns company files into agent context, with GPT‑6 Astra reaching 89% accuracy on its hardest graph-query tests.
+How V7 gives AI agents institutional memory for complex work, with GPT‑6 Astra hitting 89% accuracy on its hardest graph-query tests.
 
 [Start building with OpenAI](</startups/>)
 
-![White V7 logo over a black graphite macro texture.](https://images.ctfassets.net/kftzwdyauwt9/69ITITTOHLrgzbSw13s3L1/eded3a71f9961eacc29f699371f3a9f2/V7-art-card-1x1-option-a.png?w=3840&q=90&fm=webp)
+![White V7 logo over a black graphite macro texture.](https://images.ctfassets.net/kftzwdyauwt9/3Av2nLs9MOiSrB5wMXLvL2/35fbde20aca9773bd64b1e8ea2897750/square.png?w=3840&q=90&fm=webp)
 
 Company size: Startup
 

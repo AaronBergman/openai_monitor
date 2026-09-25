@@ -45,7 +45,7 @@ Developer
 Website
     [(opens in a new window)](<https://legora.com>)
 
-[![](https://files.openai.com/content?id=file_00000000026881fcacf89c34c00ae264&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=9f7a7c88884594e12ca59cfe6c4310eeb0465a44582ec2e190349d505f40c230&v=0)Legora Ask Legora to summarize the key legal issues in a document and provide a link back to the Legora thread for citation review.(opens in a new window)](<https://chatgpt.com/?prompt=%40Legora+Ask+Legora+to+summarize+the+key+legal+issues+in+a+document+and+provide+a+link+back+to+the+Legora+thread+for+citation+review.>)
+[![](https://files.openai.com/content?id=file_00000000cd8081fc9f95e0e65cfcab24&cdn=1&cp=pi&ma=30585600&ts=0&p=pi&cid=8&sig=ed890962a5953259741629667abc29cb1e8e20e64a980d0fed9ca8fc1134f24b&v=0)Legora Ask Legora to summarize the key legal issues in a document and provide a link back to the Legora thread for citation review.(opens in a new window)](<https://chatgpt.com/?prompt=%40Legora+Ask+Legora+to+summarize+the+key+legal+issues+in+a+document+and+provide+a+link+back+to+the+Legora+thread+for+citation+review.>)
 
 ## How it works
 
@@ -55,19 +55,19 @@ Bring Legora’s legal intelligence into ChatGPT. The Legora MCP server supports
 
   * ### Review NDA negotiation risks
 
-![](https://files.openai.com/content?id=file_00000000026881fcacf89c34c00ae264&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=9f7a7c88884594e12ca59cfe6c4310eeb0465a44582ec2e190349d505f40c230&v=0)Legora Review the NDA clause text below under [jurisdiction] law. Rank the three most material risks, explain their business impact, and suggest questions for counsel. Include a Legora link for citation review.
+![](https://files.openai.com/content?id=file_00000000cd8081fc9f95e0e65cfcab24&cdn=1&cp=pi&ma=30585600&ts=0&p=pi&cid=8&sig=ed890962a5953259741629667abc29cb1e8e20e64a980d0fed9ca8fc1134f24b&v=0)Legora Review the NDA clause text below under [jurisdiction] law. Rank the three most material risks, explain their business impact, and suggest questions for counsel. Include a Legora link for citation review.
 
 [Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Legora+Review+the+NDA+clause+text+below+under+%5Bjurisdiction%5D+law.+Rank+the+three+most+material+risks%2C+explain+their+business+impact%2C+and+suggest+questions+for+counsel.+Include+a+Legora+link+for+citation+review.>)
 
   * ### Assess a legislative change
 
-![](https://files.openai.com/content?id=file_00000000026881fcacf89c34c00ae264&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=9f7a7c88884594e12ca59cfe6c4310eeb0465a44582ec2e190349d505f40c230&v=0)Legora Research how [law or amendment] affects the clause text below in [jurisdiction] as of [date]. Summarize material changes, effective dates, and revision priorities, with a Legora link for citation review.
+![](https://files.openai.com/content?id=file_00000000cd8081fc9f95e0e65cfcab24&cdn=1&cp=pi&ma=30585600&ts=0&p=pi&cid=8&sig=ed890962a5953259741629667abc29cb1e8e20e64a980d0fed9ca8fc1134f24b&v=0)Legora Research how [law or amendment] affects the clause text below in [jurisdiction] as of [date]. Summarize material changes, effective dates, and revision priorities, with a Legora link for citation review.
 
 [Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Legora+Research+how+%5Blaw+or+amendment%5D+affects+the+clause+text+below+in+%5Bjurisdiction%5D+as+of+%5Bdate%5D.+Summarize+material+changes%2C+effective+dates%2C+and+revision+priorities%2C+with+a+Legora+link+for+citation+review.>)
 
   * ### Compare market entry requirements
 
-![](https://files.openai.com/content?id=file_00000000026881fcacf89c34c00ae264&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=9f7a7c88884594e12ca59cfe6c4310eeb0465a44582ec2e190349d505f40c230&v=0)Legora Compare [business activity] requirements in [jurisdiction A] and [jurisdiction B] as of [date]. Produce a decision brief on key obligations, material differences, and unresolved questions, with Legora links for citation review.
+![](https://files.openai.com/content?id=file_00000000cd8081fc9f95e0e65cfcab24&cdn=1&cp=pi&ma=30585600&ts=0&p=pi&cid=8&sig=ed890962a5953259741629667abc29cb1e8e20e64a980d0fed9ca8fc1134f24b&v=0)Legora Compare [business activity] requirements in [jurisdiction A] and [jurisdiction B] as of [date]. Produce a decision brief on key obligations, material differences, and unresolved questions, with Legora links for citation review.
 
 [Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Legora+Compare+%5Bbusiness+activity%5D+requirements+in+%5Bjurisdiction+A%5D+and+%5Bjurisdiction+B%5D+as+of+%5Bdate%5D.+Produce+a+decision+brief+on+key+obligations%2C+material+differences%2C+and+unresolved+questions%2C+with+Legora+links+for+citation+review.>)
 
@@ -78,7 +78,7 @@ Bring Legora’s legal intelligence into ChatGPT. The Legora MCP server supports
 
 ### App
 
-  * ![](https://files.openai.com/content?id=file_0000000042e881fc8502e92a53b8fd86&cdn=1&cp=pi&ma=30240000&ts=0&p=pi&cid=8&sig=f4e663b3c13ed42309372692978d68c9992ccae23344891eff34ae04f405f1d0&v=0)Legora
+  * ![](https://files.openai.com/content?id=file_00000000929081fcb7760ebdb95b8d7e&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=8&sig=8cb669f5381e67b03e8d1217ac84d21b3cc298ef64e6093c8a9896f7f45ec2ce&v=0)Legora
 
 
 

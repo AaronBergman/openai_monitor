@@ -88,7 +88,7 @@ Windsor.ai Facebook Ads helps marketers analyze live Facebook Ads and Meta Ads p
 
 ### [Privacy policyLearn more](<https://windsor.ai/privacy-statement/>)
 
-## Add plugins in a few clicks
+## Add the Windsor.ai Facebook Ads plugin in a few clicks
 
 Availability depends on the plugin, your plan, and workspace settings. Some connections require admin setup or approval. Contact your workspace admin if access is blocked.
 
@@ -154,6 +154,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -210,7 +211,7 @@ OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
 
-### 1Find a plugin1Find a plugin
+### 1Find the Windsor.ai Facebook Ads plugin1Find the Windsor.ai Facebook Ads plugin
 
 Browse for plugins that support your team’s tools and tasks.
 

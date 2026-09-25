@@ -41,6 +41,64 @@ Filter
 
 Sort
 
+ChatGPT
+
+Sep 23, 2026
+
+GA
+
+## Use plugins in Voice and get work done by speaking
+
+Live now supports plugins on web, iOS, and Android. You can use the plugins and connected apps available to your account during a Voice conversation and follow written responses in the chat.
+
+Voice is also available in Work on web and mobile. Ask it to create documents, presentations, and spreadsheets, use connected apps, or work in a browser. When you end a Voice call in Work, an unfinished task can continue in text.
+
+Free and Go users can use Voice in Chat with the plugins their plan supports. Existing app connections, permissions, and usage limits apply.
+
+For Business, Enterprise, and Edu workspaces, workspace controls continue to apply. Voice in Work requires both Voice and Work access, and plugins retain their existing app access, data permissions, and action restrictions. Enabling Voice does not enable Work or a blocked plugin. When an action needs your approval, review it on screen.
+
+[View source(opens in a new window)](<https://help.openai.com/en/articles/6825453-chatgpt-release-notes#use-plugins-in-voice-and-get-work-done-by-speaking>)[Help center(opens in a new window)](<https://help.openai.com/en/articles/11391654-chatgpt-business-release-notes#use-plugins-in-voice-and-get-work-done-by-speaking>)[Help center(opens in a new window)](<https://help.openai.com/en/articles/10128477-chatgpt-enterprise-and-edu-release-notes#use-plugins-in-voice-and-get-work-done-by-speaking>)
+
+Codex
+
+Sep 23, 2026
+
+GA
+
+## ChatGPT for iOS updates: redesigned home, iPad split view, and nested repositories
+
+### New features
+
+  * Redesigned home screen.
+
+  * New iPad split view keeps your task list beside the open task in landscape.
+
+  * Added support for browsing changes inside nested Git repositories.
+
+
+
+
+### Improvements and bug fixes
+
+  * Side chats now carry over attachments, selected text, and review comments.
+
+  * Fixed replies appearing blank or incomplete when the next queued prompt starts.
+
+  * New tasks preserve your selected computer and better recognize project checkouts and worktrees.
+
+  * More reliable file links, with clearer loading feedback when opening files and new tasks.
+
+  * Clearer error messages explain why task history could not load and what to try next.
+
+  * Smoother animations when adding photos from the camera or Photo Library.
+
+  * Fixed pairing failures caused by an incorrect device clock and SSH connection issues on Mac and Linux.
+
+
+
+
+[View source(opens in a new window)](<https://learn.chatgpt.com/docs/changelog#codex-2026-09-23-mobile>)
+
 Codex
 
 Sep 22, 2026
@@ -92,36 +150,6 @@ Privacy Center is rolling out to signed-in ChatGPT Free, Go, Plus, Pro, and Busi
 On the web, open your account menu, select Help, then select Privacy Center. On mobile, open Settings, then select Privacy Center on iOS or Privacy center on Android. Available options depend on your plan, region, and workspace settings.
 
 [View source(opens in a new window)](<https://help.openai.com/en/articles/6825453-chatgpt-release-notes#privacy-center-in-chatgpt>)[Help center(opens in a new window)](<https://help.openai.com/en/articles/11391654-chatgpt-business-release-notes#privacy-center-in-chatgpt>)[Help center(opens in a new window)](<https://help.openai.com/en/articles/20001488>)
-
-ChatGPT
-
-Sep 17, 2026
-
-GA
-
-## ChatGPT for Word
-
-ChatGPT is now available in Microsoft Word. You can draft from notes, summarize a document, revise selected text, and adjust headings and formatting from the ChatGPT sidebar. Word joins Excel and PowerPoint through the same Microsoft add-in.
-
-ChatGPT for Word is available on all ChatGPT plans, including Free. Your plan’s token limits apply, and Word draws from the shared usage allowance for Codex and other premium features on plans that include it.
-
-For ChatGPT Business, Enterprise, and Edu, workspace admins can turn Word access on or off in the ChatGPT admin console. Microsoft 365 admins must also allow the ChatGPT add-in. Starting Oct 1, 2026, Word access will be enabled by default.
-
-For ChatGPT Business, Enterprise, and Edu, Word uses token-based pricing at the API rates for the model you use.
-
-[View source(opens in a new window)](<https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-for-word>)[Help center(opens in a new window)](<https://help.openai.com/en/articles/11391654-chatgpt-business-release-notes#chatgpt-for-word>)[Help center(opens in a new window)](<https://help.openai.com/en/articles/10128477-chatgpt-enterprise-edu-release-notes#chatgpt-for-word>)
-
-ChatGPT
-
-Sep 17, 2026
-
-GA
-
-## Connect multiple accounts to plugins in ChatGPT
-
-You can now connect multiple accounts to plugins in ChatGPT, expanding support beyond Gmail, Google Calendar, and Google Contacts. Bring your personal and work accounts into the same conversation, so ChatGPT can help you find information and get things done across your personal and work accounts. Available on all ChatGPT plans across web, mobile, and desktop.
-
-[View source(opens in a new window)](<https://help.openai.com/en/articles/6825453-chatgpt-release-notes#connect-multiple-accounts-to-plugins-in-chatgpt>)
 
 Load more
 

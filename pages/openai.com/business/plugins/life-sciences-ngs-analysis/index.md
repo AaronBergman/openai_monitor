@@ -48,7 +48,7 @@ Developer
 Website
     [(opens in a new window)](<https://openai.com/>)
 
-[![](https://files.openai.com/content?id=file_0000000028d0720c8c056a13d057bf25&cdn=1&cp=pi&ma=32140800&ts=0&p=pi&cid=1&sig=ee8d0ef5b422b59b694fd733cf914e868b1a3d3d844714f7ef85f1edd4cc2a4d&v=0)Life Sciences NGS Analysis Clarify the NGS analysis goal, inspect available inputs and tools, select a suitable pipeline, and run supported local workflows with pre-execution checks and saved artifacts.(opens in a new window)](<https://chatgpt.com/?prompt=%40Life+Sciences+NGS+Analysis+Clarify+the+NGS+analysis+goal%2C+inspect+available+inputs+and+tools%2C+select+a+suitable+pipeline%2C+and+run+supported+local+workflows+with+pre-execution+checks+and+saved+artifacts.>)
+[![](https://files.openai.com/content?id=file_0000000028d0720c8c056a13d057bf25&cdn=1&cp=pi&ma=32140800&ts=0&p=pi&cid=1&sig=ee8d0ef5b422b59b694fd733cf914e868b1a3d3d844714f7ef85f1edd4cc2a4d&v=0)Life Sciences NGS Analysis Inspect my BCL/FASTQ files or count matrices, clarify the analysis goal, and choose a suitable pipeline. Check tools and inputs, run supported local workflows after validation, and capture outputs.(opens in a new window)](<https://chatgpt.com/?prompt=%40Life+Sciences+NGS+Analysis+Inspect+my+BCL%2FFASTQ+files+or+count+matrices%2C+clarify+the+analysis+goal%2C+and+choose+a+suitable+pipeline.+Check+tools+and+inputs%2C+run+supported+local+workflows+after+validation%2C+and+capture+outputs.>)
 
 ## How it works
 

@@ -84,8 +84,8 @@ Create, edit, and analyze forms directly inside ChatGPT. Simply describe what yo
 
 ### Skills
 
-  * Upload Document
   * Edit Operation
+  * Upload Document
 
 
 

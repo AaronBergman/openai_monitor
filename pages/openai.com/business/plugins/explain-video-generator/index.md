@@ -45,7 +45,7 @@ Developer
 Website
     [(opens in a new window)](<https://scrimba.com>)
 
-[![](https://files.openai.com/content?id=file_00000000195482438730590050f8aac5&cdn=1&cp=pi&ma=30585600&ts=0&p=pi&cid=8&sig=2e86e0d667232ae71627e5a63567559e6beeb18b0ae8d98f1878b5f77e5677a4&v=0)Explain Video Generator Turn this employee onboarding PDF into a video(opens in a new window)](<https://chatgpt.com/?prompt=%40Explain+Video+Generator+Turn+this+employee+onboarding+PDF+into+a+video>)
+[![](https://files.openai.com/content?id=file_00000000195482438730590050f8aac5&cdn=1&cp=pi&ma=30585600&ts=0&p=pi&cid=8&sig=2e86e0d667232ae71627e5a63567559e6beeb18b0ae8d98f1878b5f77e5677a4&v=0)Explain Video Generator Turn this employee onboarding PDF into an explainer video(opens in a new window)](<https://chatgpt.com/?prompt=%40Explain+Video+Generator+Turn+this+employee+onboarding+PDF+into+an+explainer+video>)
 
 ## How it works
 

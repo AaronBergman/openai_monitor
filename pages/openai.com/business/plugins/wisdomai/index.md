@@ -34,7 +34,7 @@ OpenAI
 
 Answers from data you govern
 
-[Add plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a91fcd93878819188347d20f83fe2ee>)[Contact sales](</contact-sales/>)
+[Install plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a91fcd93878819188347d20f83fe2ee>)[Contact sales](</contact-sales/>)
 
 Category
     [Data](</business/plugins/?tab=plugins-data-research>)
@@ -45,37 +45,31 @@ Developer
 Website
     [(opens in a new window)](<https://www.wisdom.ai/>)
 
-[![](https://files.openai.com/content?id=file_000000007d3c8230a0d4b5cf4cc5b4d6&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=2e746895b7a1bfde74fa4037cef172ff0ec83cd3d04aab2fb291b4d1f7bfdf31&v=0)WisdomAI How did Q3 net revenue track against plans in EMEA?(opens in a new window)](<https://chatgpt.com/?prompt=%40WisdomAI+How+did+Q3+net+revenue+track+against+plans+in+EMEA%3F>)[![](https://files.openai.com/content?id=file_000000007d3c8230a0d4b5cf4cc5b4d6&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=2e746895b7a1bfde74fa4037cef172ff0ec83cd3d04aab2fb291b4d1f7bfdf31&v=0)WisdomAI Break that down by segment and show the last four quarters.(opens in a new window)](<https://chatgpt.com/?prompt=%40WisdomAI+Break+that+down+by+segment+and+show+the+last+four+quarters.>)[![](https://files.openai.com/content?id=file_000000007d3c8230a0d4b5cf4cc5b4d6&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=2e746895b7a1bfde74fa4037cef172ff0ec83cd3d04aab2fb291b4d1f7bfdf31&v=0)WisdomAI Which definition of net revenue was used, and what data did it come from?(opens in a new window)](<https://chatgpt.com/?prompt=%40WisdomAI+Which+definition+of+net+revenue+was+used%2C+and+what+data+did+it+come+from%3F>)
+[![](https://files.openai.com/content?id=file_000000007d3c8230a0d4b5cf4cc5b4d6&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=2e746895b7a1bfde74fa4037cef172ff0ec83cd3d04aab2fb291b4d1f7bfdf31&v=0)WisdomAI How did Q3 net revenue track against plans in EMEA?(opens in a new window)](<https://chatgpt.com/?prompt=%40WisdomAI+How+did+Q3+net+revenue+track+against+plans+in+EMEA%3F>)
 
 ## How it works
 
 WisdomAI is the enterprise data harness inside ChatGPT, for the complex analytical questions where the answer has to be deterministic, traceable, and consistent. Connectors provide access. Catalogs and semantic layers provide definitions. The WisdomAI harness applies both at runtime by selecting the right context for each question, enforcing row- and column-level security for the person asking, optimizing execution for the underlying platform, verifying results, and repairing failed queries. Business context strengthens continuously as WisdomAI learns from documents, query logs, catalogs, semantic layers, dbt, and BI metadata, proactively identifies where it lacked sufficient context, and routes proposed changes through expert review and versioning. Corrections become governed organizational knowledge rather than one-time fixes buried in individual conversations. WisdomAI works across data platforms, sources, and deployment environments, including fully on-premises for regulated data that cannot leave your environment. The harness, the context, and query execution stay behind your firewall; only the answer crosses. Every answer is grounded in governed definitions, enterprise data, and visible sources making it trustworthy enough to run your business on. Use WisdomAI in ChatGPT to: \- Ask questions of governed business data: "How did Q3 net revenue track against plan in EMEA?" \- Follow up in the same line of analysis: "Break that down by segment and show the last 4 quarters" \- Investigate an open-ended question end to end: "We missed plan in EMEA last quarter. What drove it, which segments and accounts moved most, and what should we watch going into Q4?" \- Trace an answer to its definitions and sources: "Which definition of net revenue was used, and what data did it come from?" \- See what's available to you: "What data do I have access to, and which metrics are defined for finance?"
 
-## Common use cases
+## What else can you do?
 
   * ### Explain a revenue plan gap
 
-Break a revenue shortfall into the segments contributing most and identify what deserves closer attention.
-
 ![](https://files.openai.com/content?id=file_000000007d3c8230a0d4b5cf4cc5b4d6&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=2e746895b7a1bfde74fa4037cef172ff0ec83cd3d04aab2fb291b4d1f7bfdf31&v=0)WisdomAI Investigate last quarter's EMEA net revenue against plan. Break the gap down by segment and account, identify the largest contributors, and recommend what to watch next quarter, citing definitions and sources.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40WisdomAI+Investigate+last+quarter%27s+EMEA+net+revenue+against+plan.+Break+the+gap+down+by+segment+and+account%2C+identify+the+largest+contributors%2C+and+recommend+what+to+watch+next+quarter%2C+citing+definitions+and+sources.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40WisdomAI+Investigate+last+quarter%27s+EMEA+net+revenue+against+plan.+Break+the+gap+down+by+segment+and+account%2C+identify+the+largest+contributors%2C+and+recommend+what+to+watch+next+quarter%2C+citing+definitions+and+sources.>)
 
   * ### Assess product growth concentration
 
-Compare product sales over time to identify where growth is concentrated and which trends need attention.
-
 ![](https://files.openai.com/content?id=file_000000007d3c8230a0d4b5cf4cc5b4d6&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=2e746895b7a1bfde74fa4037cef172ff0ec83cd3d04aab2fb291b4d1f7bfdf31&v=0)WisdomAI Compare product sales over the last four completed quarters. Identify the five biggest contributors to growth, show their regional mix, and recommend which trends deserve closer investigation using available data.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40WisdomAI+Compare+product+sales+over+the+last+four+completed+quarters.+Identify+the+five+biggest+contributors+to+growth%2C+show+their+regional+mix%2C+and+recommend+which+trends+deserve+closer+investigation+using+available+data.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40WisdomAI+Compare+product+sales+over+the+last+four+completed+quarters.+Identify+the+five+biggest+contributors+to+growth%2C+show+their+regional+mix%2C+and+recommend+which+trends+deserve+closer+investigation+using+available+data.>)
 
   * ### Trace a finance metric
 
-Explain the governed definition and data sources behind net revenue for a finance review.
-
 ![](https://files.openai.com/content?id=file_000000007d3c8230a0d4b5cf4cc5b4d6&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=2e746895b7a1bfde74fa4037cef172ff0ec83cd3d04aab2fb291b4d1f7bfdf31&v=0)WisdomAI Trace net revenue to its governed definition and source data. Summarize calculation rules, exclusions, and any missing context that a finance team should resolve before using it in a quarterly report.
 
-[(opens in a new window)](<https://chatgpt.com/?q=%40WisdomAI+Trace+net+revenue+to+its+governed+definition+and+source+data.+Summarize+calculation+rules%2C+exclusions%2C+and+any+missing+context+that+a+finance+team+should+resolve+before+using+it+in+a+quarterly+report.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40WisdomAI+Trace+net+revenue+to+its+governed+definition+and+source+data.+Summarize+calculation+rules%2C+exclusions%2C+and+any+missing+context+that+a+finance+team+should+resolve+before+using+it+in+a+quarterly+report.>)
 
 
 
@@ -96,7 +90,7 @@ Explain the governed definition and data sources behind net revenue for a financ
 
 ### [Privacy policyLearn more](<https://www.wisdom.ai/privacy-policy>)
 
-## Add plugins in a few clicks
+## Add the WisdomAI plugin in a few clicks
 
 Availability depends on the plugin, your plan, and workspace settings. Some connections require admin setup or approval. Contact your workspace admin if access is blocked.
 
@@ -162,6 +156,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -218,7 +213,7 @@ OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
 
-### 1Find a plugin1Find a plugin
+### 1Find the WisdomAI plugin1Find the WisdomAI plugin
 
 Browse for plugins that support your team’s tools and tasks.
 

@@ -45,6 +45,8 @@ Developer
 Website
     [(opens in a new window)](<https://www.tavily.com>)
 
+[![](https://files.openai.com/content?id=file_00000000db5471f78030a84d4c7ffec3&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=8&sig=691e837757c624611f830295997bac0d0f092d5ff79b7a84d5f8d4dd0733b7eb&v=0)![](https://files.openai.com/content?id=file_0000000055bc71f781a8bf8e79ee9778&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=8&sig=3a4149a8e19059c635a953c559b35aee6f0890f44b7f64db891f48857b25eb81&v=0)Tavily Find key decision-makers at [company] and summarize their professional backgrounds.(opens in a new window)](<https://chatgpt.com/?prompt=%40Tavily+Find+key+decision-makers+at+%5Bcompany%5D+and+summarize+their+professional+backgrounds.>)
+
 ## How it works
 
 The Web Infrastructure Layer for AI Agents. A purpose-built web API for real-time search, scraping, crawling, and structured data retrieval. AI-native enterprises trust Tavily for data enrichment, research, RAG pipelines, and autonomous AI systems-ensuring fresh, accurate, and scalable intelligence.
@@ -76,7 +78,18 @@ The Web Infrastructure Layer for AI Agents. A purpose-built web API for real-tim
 
 ### App
 
-  * ![](https://files.openai.com/content?id=file_00000000db5471f78030a84d4c7ffec3&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=8&sig=691e837757c624611f830295997bac0d0f092d5ff79b7a84d5f8d4dd0733b7eb&v=0)Tavily AI
+  * ![](https://files.openai.com/content?id=file_00000000433c81f7a3f6364e878cf9d0&cdn=1&cp=pi&ma=30931200&ts=0&p=pi&cid=8&sig=0b4cdd2b1ad627bb2ef1715a27fbcf86a0ed4a9c517aae0dba712ec1e447a1a8&v=0)Tavily
+
+
+
+### Skills
+
+  * tavily-best-practices
+  * tavily-crawl
+  * tavily-extract
+  * tavily-map
+  * tavily-research
+  * tavily-search
 
 
 
@@ -88,7 +101,7 @@ The Web Infrastructure Layer for AI Agents. A purpose-built web API for real-tim
 
 ### [Privacy policyLearn more](<https://www.tavily.com/privacy>)
 
-## Add plugins in a few clicks
+## Add the Tavily AI plugin in a few clicks
 
 Availability depends on the plugin, your plan, and workspace settings. Some connections require admin setup or approval. Contact your workspace admin if access is blocked.
 
@@ -154,6 +167,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -210,7 +224,7 @@ OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
 
-### 1Find a plugin1Find a plugin
+### 1Find the Tavily AI plugin1Find the Tavily AI plugin
 
 Browse for plugins that support your team’s tools and tasks.
 

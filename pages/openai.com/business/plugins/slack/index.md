@@ -91,7 +91,7 @@ Turn my notes into a technical design doc with the problem, proposed approach, a
 
 ## Resources
 
-### [Help centerLearn more](<https://intercom.help/openai/en/articles/12525822-chatgpt-connector-for-slack>)
+### [Help centerLearn more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
 
 ### [Plugin supportLearn more](<https://slack.com/help>)
 

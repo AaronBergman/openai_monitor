@@ -38,26 +38,26 @@ Get started
 
 Add plugins to extend what ChatGPT Work can do. Plugins can connect customer context from tools like Salesforce, HubSpot, and Gmail. Use OpenAI’s Sales plugin to run pre-built workflows for core sales tasks.
 
-  * [SalesBuilt by OpenAI](</business/plugins/sales/>)
-  * [Salesforce](</business/plugins/salesforce/>)
-  * [HubSpot](</business/plugins/hubspot/>)
-  * [Clay](</business/plugins/clay/>)
-  * [Zoho CRM](</business/plugins/zoho-crm/>)
-  * [Gmail](</business/plugins/gmail/>)
-  * [Outlook](</business/plugins/microsoft-outlook-email/>)
-  * [Teams](</business/plugins/microsoft-teams/>)
-  * [Google Drive](</business/plugins/google-drive/>)
-  * [SharePoint](</business/plugins/microsoft-sharepoint/>)
-  * [Snowflake](</business/plugins/snowflake/>)
-  * [Databricks Genie](</business/plugins/databricks/>)
-  * [BigQuery](</business/plugins/bigquery/>)
-  * [Intercom](</business/plugins/intercom/>)
-  * [Google Calendar](</business/plugins/google-calendar/>)
-  * [Slack](</business/plugins/slack/>)
+  * [![](https://files.openai.com/content?id=file_00000000191081f79dfeddb7b502b1bf&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=3e3f6f7a793416cd9a93e61c94c2bd4631dd37631f592d4e774aa254e2b1c9b7&v=0)![](https://files.openai.com/content?id=file_00000000191081f79dfeddb7b502b1bf&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=3e3f6f7a793416cd9a93e61c94c2bd4631dd37631f592d4e774aa254e2b1c9b7&v=0)SalesBuilt by OpenAI](</business/plugins/sales/>)
+  * [![](https://files.openai.com/content?id=file_0000000005fc722f88207b67c3fbe10a&cdn=1&cp=pi&ma=31190400&ts=0&p=pi&cid=1&sig=4fccf640c85543b3c2aa0a0de6592ed9e1d71bbeb3169bb63bf4217a6809857f&v=0)![](https://files.openai.com/content?id=file_0000000005fc722f88207b67c3fbe10a&cdn=1&cp=pi&ma=31190400&ts=0&p=pi&cid=1&sig=4fccf640c85543b3c2aa0a0de6592ed9e1d71bbeb3169bb63bf4217a6809857f&v=0)Salesforce](</business/plugins/salesforce/>)
+  * [![](https://files.openai.com/content?id=file_00000000d6d871f6af516dd237732886&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=8&sig=57605450edcdfd982a04b1b6acfaaefae75de19e6e4de54c96f260b5442b30a9&v=0)![](https://files.openai.com/content?id=file_00000000d6d871f6af516dd237732886&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=8&sig=57605450edcdfd982a04b1b6acfaaefae75de19e6e4de54c96f260b5442b30a9&v=0)HubSpot](</business/plugins/hubspot/>)
+  * [![](https://files.openai.com/content?id=file_0000000088dc71f6a290da6b9746773b&cdn=1&cp=pi&ma=32486400&ts=0&p=pi&cid=8&sig=053f47893fea5795866c05c071a32556575279ccb29b59b78c36b6efb2d97385&v=0)![](https://files.openai.com/content?id=file_0000000088dc71f6a290da6b9746773b&cdn=1&cp=pi&ma=32486400&ts=0&p=pi&cid=8&sig=053f47893fea5795866c05c071a32556575279ccb29b59b78c36b6efb2d97385&v=0)Clay](</business/plugins/clay/>)
+  * [![](https://files.openai.com/content?id=file_00000000aaa871f88a34781f5d3b0b4b&cdn=1&cp=pi&ma=30326400&ts=0&p=pi&cid=1&sig=1c06dbfa6124c46ba704c3b117f7d0305da93bc6ef5465612e3adcbffe34dfef&v=0)![](https://files.openai.com/content?id=file_00000000aaa871f88a34781f5d3b0b4b&cdn=1&cp=pi&ma=30326400&ts=0&p=pi&cid=1&sig=1c06dbfa6124c46ba704c3b117f7d0305da93bc6ef5465612e3adcbffe34dfef&v=0)Zoho CRM](</business/plugins/zoho-crm/>)
+  * [![](https://files.openai.com/content?id=file_00000000990481fd9c316ee59df47fc5&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=8&sig=bd8ee8654d100eefe078aa49822119c307f7c6f39021603fafb3d083c1cb5cac&v=0)![](https://files.openai.com/content?id=file_00000000990481fd9c316ee59df47fc5&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=8&sig=bd8ee8654d100eefe078aa49822119c307f7c6f39021603fafb3d083c1cb5cac&v=0)Gmail](</business/plugins/gmail/>)
+  * [![](https://files.openai.com/content?id=file_00000000f954722fa9fc7b5c09eb6970&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=1&sig=352148741b16c345f6537c69ed2fd83a3dacaeda210d5818bb7a66c44a09223b&v=0)![](https://files.openai.com/content?id=file_00000000f954722fa9fc7b5c09eb6970&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=1&sig=352148741b16c345f6537c69ed2fd83a3dacaeda210d5818bb7a66c44a09223b&v=0)Outlook Email](</business/plugins/microsoft-outlook-email/>)
+  * [![](https://files.openai.com/content?id=file_00000000290c81f6b165c1e4941266a3&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=8&sig=aac8f7270051b9307ea721f89136ce46aaf1dffcbdaea6eba9ba95fc9212473d&v=0)![](https://files.openai.com/content?id=file_00000000290c81f6b165c1e4941266a3&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=8&sig=aac8f7270051b9307ea721f89136ce46aaf1dffcbdaea6eba9ba95fc9212473d&v=0)Teams](</business/plugins/microsoft-teams/>)
+  * [![](https://files.openai.com/content?id=file_00000000a9a081f78752dfef864b2597&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=18fa18d4c839a23ca63639259d332c2f50d433faa731d9b7755f08c333b78e47&v=0)![](https://files.openai.com/content?id=file_00000000a9a081f78752dfef864b2597&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=18fa18d4c839a23ca63639259d332c2f50d433faa731d9b7755f08c333b78e47&v=0)Google Drive](</business/plugins/google-drive/>)
+  * [![](https://files.openai.com/content?id=file_00000000bec871f5b16bea82279ccf21&cdn=1&cp=pi&ma=31536000&ts=0&p=pi&cid=1&sig=dae48439fa494947db53290285649ef7f8819b8db88432aa57eb884533747051&v=0)![](https://files.openai.com/content?id=file_00000000bec871f5b16bea82279ccf21&cdn=1&cp=pi&ma=31536000&ts=0&p=pi&cid=1&sig=dae48439fa494947db53290285649ef7f8819b8db88432aa57eb884533747051&v=0)SharePoint](</business/plugins/microsoft-sharepoint/>)
+  * [![](https://files.openai.com/content?id=file_000000000f3081f7a148386e0036032a&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=23f27004207bf0063b44d64340b33c09de7704a5bb99b736cf24494db2663453&v=0)![](https://files.openai.com/content?id=file_000000000f3081f7a148386e0036032a&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=23f27004207bf0063b44d64340b33c09de7704a5bb99b736cf24494db2663453&v=0)Snowflake](</business/plugins/snowflake/>)
+  * [![](https://files.openai.com/content?id=file_00000000fb6081f7aa3f621147713ad6&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=7b7a02db1929ca7e8aebd24b459d525b6ac1ae88b282b387816507320645a98d&v=0)![](https://files.openai.com/content?id=file_00000000fb6081f7aa3f621147713ad6&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=7b7a02db1929ca7e8aebd24b459d525b6ac1ae88b282b387816507320645a98d&v=0)Databricks Genie](</business/plugins/databricks/>)
+  * [![](https://files.openai.com/content?id=file_00000000ed1481f78f9a3258f4550543&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=8&sig=5597c988d52ec699251bc1c8978153b96ff8b82c6227c6388fcbeca824ace455&v=0)![](https://files.openai.com/content?id=file_00000000ed1481f78f9a3258f4550543&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=8&sig=5597c988d52ec699251bc1c8978153b96ff8b82c6227c6388fcbeca824ace455&v=0)BigQuery](</business/plugins/bigquery/>)
+  * [![](https://files.openai.com/content?id=file_000000004f54720ca95439ac98f37bec&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=1&sig=e5d7098d5c3c07aa0e3d229476b0a0547fedb672feb751b0d0aa455dd84a6c33&v=0)![](https://files.openai.com/content?id=file_000000004f54720ca95439ac98f37bec&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=1&sig=e5d7098d5c3c07aa0e3d229476b0a0547fedb672feb751b0d0aa455dd84a6c33&v=0)Google Calendar](</business/plugins/google-calendar/>)
+  * [![](https://files.openai.com/content?id=file_00000000994081fd9df560367dfe54f4&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=8&sig=55e9028947fbc7ea3284b715ca95e34f797efbc5c4e0e47a9b2b0509d787308d&v=0)![](https://files.openai.com/content?id=file_00000000994081fd9df560367dfe54f4&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=8&sig=55e9028947fbc7ea3284b715ca95e34f797efbc5c4e0e47a9b2b0509d787308d&v=0)Slack](</business/plugins/slack/>)
+  * [![](https://files.openai.com/content?id=file_00000000923c71f68ff2719faaafd27f&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=8&sig=b9bb22908a8da00fd980853bc965d8e449373ed05eb9f9e314d2502eda1c0fdf&v=0)![](https://files.openai.com/content?id=file_00000000923c71f68ff2719faaafd27f&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=8&sig=b9bb22908a8da00fd980853bc965d8e449373ed05eb9f9e314d2502eda1c0fdf&v=0)Apollo.io](</business/plugins/apollo/>)
 
 
 
-[View all plugins](</business/plugins/?tab=apps-go-to-market>)[Add Sales plugin](</business/plugins/sales/>)
+[View all plugins](</business/plugins/?tab=plugins-sales-commerce>)[Add Sales plugin](</business/plugins/sales/>)
 
 ## Powering a new pace for sales teams
 
@@ -258,6 +258,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)

@@ -45,7 +45,7 @@ Developer
 Website
     [(opens in a new window)](<https://hostinger.com>)
 
-[![](https://files.openai.com/content?id=file_000000009644720c9da27f8b6b4f49a7&cdn=1&cp=pi&ma=31881600&ts=0&p=pi&cid=1&sig=39e08d6b08548a253c2586fe74fbfe85db683745c6592f484ac6ba9210eed661&v=0)Hostinger Check the relevant Hostinger site or account status(opens in a new window)](<https://chatgpt.com/?prompt=%40Hostinger+Check+the+relevant+Hostinger+site+or+account+status>)
+[![](https://files.openai.com/content?id=file_00000000c894821093cfed8b87a879fa&cdn=1&cp=pi&ma=31363200&ts=0&p=pi&cid=8&sig=3dd9cd7297bd54849a89e8dca1eab792f91b6758fc229721edb251e4c84bd955&v=0)Hostinger AI Builder Build me workouts generator app(opens in a new window)](<https://chatgpt.com/?prompt=%40Hostinger+AI+Builder+Build+me+workouts+generator+app>)
 
 ## How it works
 
@@ -55,19 +55,19 @@ Hostinger Horizons lets you build real websites and apps just by describing what
 
   * ### Build a feedback app
 
-![](https://files.openai.com/content?id=file_000000009644720c9da27f8b6b4f49a7&cdn=1&cp=pi&ma=31881600&ts=0&p=pi&cid=1&sig=39e08d6b08548a253c2586fe74fbfe85db683745c6592f484ac6ba9210eed661&v=0)Hostinger Build a feedback app with a submission form and a list of responses. Include category and status fields, use sample data for the preview, and explain how to run it.
+![](https://files.openai.com/content?id=file_00000000c894821093cfed8b87a879fa&cdn=1&cp=pi&ma=31363200&ts=0&p=pi&cid=8&sig=3dd9cd7297bd54849a89e8dca1eab792f91b6758fc229721edb251e4c84bd955&v=0)Hostinger Build a feedback app with a submission form and a list of responses. Include category and status fields, use sample data for the preview, and explain how to run it.
 
 [Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Hostinger+Build+a+feedback+app+with+a+submission+form+and+a+list+of+responses.+Include+category+and+status+fields%2C+use+sample+data+for+the+preview%2C+and+explain+how+to+run+it.>)
 
   * ### Create a business website
 
-![](https://files.openai.com/content?id=file_000000009644720c9da27f8b6b4f49a7&cdn=1&cp=pi&ma=31881600&ts=0&p=pi&cid=1&sig=39e08d6b08548a253c2586fe74fbfe85db683745c6592f484ac6ba9210eed661&v=0)Hostinger Create a three-page website from this brief: home, services, and contact. Use the supplied copy and brand assets, make it work on mobile, and show a preview.
+![](https://files.openai.com/content?id=file_00000000c894821093cfed8b87a879fa&cdn=1&cp=pi&ma=31363200&ts=0&p=pi&cid=8&sig=3dd9cd7297bd54849a89e8dca1eab792f91b6758fc229721edb251e4c84bd955&v=0)Hostinger Create a three-page website from this brief: home, services, and contact. Use the supplied copy and brand assets, make it work on mobile, and show a preview.
 
 [Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Hostinger+Create+a+three-page+website+from+this+brief%3A+home%2C+services%2C+and+contact.+Use+the+supplied+copy+and+brand+assets%2C+make+it+work+on+mobile%2C+and+show+a+preview.>)
 
   * ### Prototype an internal tool
 
-![](https://files.openai.com/content?id=file_000000009644720c9da27f8b6b4f49a7&cdn=1&cp=pi&ma=31881600&ts=0&p=pi&cid=1&sig=39e08d6b08548a253c2586fe74fbfe85db683745c6592f484ac6ba9210eed661&v=0)Hostinger Build a prototype for tracking equipment requests with item, requester, status, and due date. Use sample records and show how a request moves from submitted to completed.
+![](https://files.openai.com/content?id=file_00000000c894821093cfed8b87a879fa&cdn=1&cp=pi&ma=31363200&ts=0&p=pi&cid=8&sig=3dd9cd7297bd54849a89e8dca1eab792f91b6758fc229721edb251e4c84bd955&v=0)Hostinger Build a prototype for tracking equipment requests with item, requester, status, and due date. Use sample records and show how a request moves from submitted to completed.
 
 [Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Hostinger+Build+a+prototype+for+tracking+equipment+requests+with+item%2C+requester%2C+status%2C+and+due+date.+Use+sample+records+and+show+how+a+request+moves+from+submitted+to+completed.>)
 
@@ -78,7 +78,7 @@ Hostinger Horizons lets you build real websites and apps just by describing what
 
 ### App
 
-  * ![](https://files.openai.com/content?id=file_00000000e48871f6a7da07217c377d6a&cdn=1&cp=pi&ma=32659200&ts=0&p=pi&cid=1&sig=3a78b7daef60728bd2b21b5f4e7a101b1706ec3164d63f8edf66a59eab240699&v=0)Hostinger
+  * ![](https://files.openai.com/content?id=file_00000000171882439b3cabc318bd5724&cdn=1&cp=pi&ma=30326400&ts=0&p=pi&cid=8&sig=307f01d2a3ef07a5a253815babedebffd31951fe9f76a8b170c10d3318ecf5e9&v=0)Hostinger AI Builder
 
 
 

@@ -90,7 +90,7 @@ Access LSEG’s institutional-grade financial data in ChatGPT to price and analy
 
 ### [Privacy policyLearn more](<https://www.lseg.com/privacy-statement>)
 
-## Add plugins in a few clicks
+## Add the LSEG plugin in a few clicks
 
 Availability depends on the plugin, your plan, and workspace settings. Some connections require admin setup or approval. Contact your workspace admin if access is blocked.
 
@@ -98,7 +98,7 @@ Availability depends on the plugin, your plan, and workspace settings. Some conn
 
 ## Explore related plugins
 
-[![](https://files.openai.com/content?id=file_00000000179c722f9e8a66d8ff27e98b&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=1&sig=95f7e407c6513f685f25b524ef42ee91ef631083e36c6ea4e3e24667b4692c84&v=0)![](https://files.openai.com/content?id=file_00000000179c722f9e8a66d8ff27e98b&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=1&sig=95f7e407c6513f685f25b524ef42ee91ef631083e36c6ea4e3e24667b4692c84&v=0)Public Equity InvestingSupport company research and deal analysis.](</business/plugins/public-equity-investing/>)[![](https://files.openai.com/content?id=file_00000000e4a8720c9b8cba8aaa6e4f70&cdn=1&cp=pi&ma=30672000&ts=0&p=pi&cid=1&sig=d35f6f0a310b11e0360584d048c93f8d76adf2e2f59543a08c73b34c7e02721f&v=0)![](https://files.openai.com/content?id=file_00000000e4a8720c9b8cba8aaa6e4f70&cdn=1&cp=pi&ma=30672000&ts=0&p=pi&cid=1&sig=d35f6f0a310b11e0360584d048c93f8d76adf2e2f59543a08c73b34c7e02721f&v=0)Investment BankingBuild banking analysis and client-ready materials.](</business/plugins/investment-banking/>)[![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)DataTurn data into clear decisions.](</business/plugins/data/>)[![](https://files.openai.com/content?id=file_00000000af747230bc1606d46c839ee8&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=1&sig=c8a8bc6383ae28c34005525b223aab157382f62b2c5ff707b76f4a38b1b33e32&v=0)![](https://files.openai.com/content?id=file_00000000af747230bc1606d46c839ee8&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=1&sig=c8a8bc6383ae28c34005525b223aab157382f62b2c5ff707b76f4a38b1b33e32&v=0)DaloopaAccess financial KPIs with source links.](</business/plugins/daloopa/>)[![](https://files.openai.com/content?id=file_000000009c38722f80144f00dd87ea34&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=1&sig=8e9598782d7e36464e64c394a2fecb5ab3bf6b35731be6a16d3b9ec05b080a32&v=0)![](https://files.openai.com/content?id=file_000000003ec881f6aaeecf3f949966e5&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=1c18816d30ee51f5b8365b1c3d420e3b9da7e6f4d0f9830032b871fc457f48f6&v=0)MorningstarAccess live market insights.](</business/plugins/morningstar/>)[![](https://files.openai.com/content?id=file_00000000d6fc722fa4dff586b8c41dc8&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=5416dd5d8d03380fd52488cd02fd95ebce2b8d1bcf9d05c3f70ee75839beddb0&v=0)![](https://files.openai.com/content?id=file_00000000a1b481f78615b21eab674f16&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=8&sig=5bd792122c549f4f0e016786a2d081fde182c2c00d4259b41d4e8fbfcb3da605&v=0)AlpacaExecute trades and access live market data using natural language.](</business/plugins/alpaca/>)
+[![](https://files.openai.com/content?id=file_00000000179c722f9e8a66d8ff27e98b&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=1&sig=95f7e407c6513f685f25b524ef42ee91ef631083e36c6ea4e3e24667b4692c84&v=0)![](https://files.openai.com/content?id=file_00000000179c722f9e8a66d8ff27e98b&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=1&sig=95f7e407c6513f685f25b524ef42ee91ef631083e36c6ea4e3e24667b4692c84&v=0)Public Equity InvestingSupport company research and deal analysis.](</business/plugins/public-equity-investing/>)[![](https://files.openai.com/content?id=file_00000000e4a8720c9b8cba8aaa6e4f70&cdn=1&cp=pi&ma=30672000&ts=0&p=pi&cid=1&sig=d35f6f0a310b11e0360584d048c93f8d76adf2e2f59543a08c73b34c7e02721f&v=0)![](https://files.openai.com/content?id=file_00000000e4a8720c9b8cba8aaa6e4f70&cdn=1&cp=pi&ma=30672000&ts=0&p=pi&cid=1&sig=d35f6f0a310b11e0360584d048c93f8d76adf2e2f59543a08c73b34c7e02721f&v=0)Investment BankingBuild banking analysis and client-ready materials.](</business/plugins/investment-banking/>)[![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)DataTurn data into clear decisions.](</business/plugins/data/>)[![](https://files.openai.com/content?id=file_00000000af747230bc1606d46c839ee8&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=1&sig=c8a8bc6383ae28c34005525b223aab157382f62b2c5ff707b76f4a38b1b33e32&v=0)![](https://files.openai.com/content?id=file_00000000af747230bc1606d46c839ee8&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=1&sig=c8a8bc6383ae28c34005525b223aab157382f62b2c5ff707b76f4a38b1b33e32&v=0)DaloopaAccess financial KPIs with source links.](</business/plugins/daloopa/>)[![](https://files.openai.com/content?id=file_000000009c38722f80144f00dd87ea34&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=1&sig=8e9598782d7e36464e64c394a2fecb5ab3bf6b35731be6a16d3b9ec05b080a32&v=0)![](https://files.openai.com/content?id=file_000000003ec881f6aaeecf3f949966e5&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=1c18816d30ee51f5b8365b1c3d420e3b9da7e6f4d0f9830032b871fc457f48f6&v=0)MorningstarAccess live market insights.](</business/plugins/morningstar/>)[![](https://files.openai.com/content?id=file_00000000481081fd8fa0b56b51d4dfa6&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=8&sig=6bebe30dc8d1f4c345fef5b8b23efabdde989bb11c89c7ee921440c96af1211f&v=0)![](https://files.openai.com/content?id=file_00000000481081fd8fa0b56b51d4dfa6&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=8&sig=6bebe30dc8d1f4c345fef5b8b23efabdde989bb11c89c7ee921440c96af1211f&v=0)Interactive Brokers (IBKR)Analyze global markets](</business/plugins/interactive-brokers/>)
 
 ## Get started with plugins
 
@@ -156,6 +156,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -212,7 +213,7 @@ OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
 
-### 1Find a plugin1Find a plugin
+### 1Find the LSEG plugin1Find the LSEG plugin
 
 Browse for plugins that support your team’s tools and tasks.
 

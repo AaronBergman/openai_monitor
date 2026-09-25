@@ -48,7 +48,7 @@ Developer
 Website
     [(opens in a new window)](<https://ads.openai.com/>)
 
-[![](https://files.openai.com/content?id=file_0000000038f081f5806700f3422d7610&cdn=1&cp=pi&ma=30240000&ts=0&p=pi&cid=8&sig=de76f97529504062545191446696a05e28786232b3e446c336b5bcfd0ac26796&v=0)ChatGPT Ads Manager Help me create a new Ad.(opens in a new window)](<https://chatgpt.com/?prompt=%40ChatGPT+Ads+Manager+Help+me+create+a+new+Ad.>)
+[![](https://files.openai.com/content?id=file_00000000341081fda1cf8dbbd8717af9&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=b2d2947344376a03013ff347580827fd3caf0dfe4153de6ee83165950245f487&v=0)ChatGPT Ads Manager Help me create a new Ad.(opens in a new window)](<https://chatgpt.com/?prompt=%40ChatGPT+Ads+Manager+Help+me+create+a+new+Ad.>)
 
 ## How it works
 
@@ -58,19 +58,19 @@ Use Ads Manager to discover and manage ad accounts, campaigns, ad groups, and ad
 
   * ### Review advertising performance
 
-![](https://files.openai.com/content?id=file_0000000038f081f5806700f3422d7610&cdn=1&cp=pi&ma=30240000&ts=0&p=pi&cid=8&sig=de76f97529504062545191446696a05e28786232b3e446c336b5bcfd0ac26796&v=0)ChatGPT Ads Manager Compare spend, clicks, and conversions across my campaigns over the last 30 days. Flag missing attribution context and rank the areas that deserve investigation.
+![](https://files.openai.com/content?id=file_00000000341081fda1cf8dbbd8717af9&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=b2d2947344376a03013ff347580827fd3caf0dfe4153de6ee83165950245f487&v=0)ChatGPT Ads Manager Compare spend, clicks, and conversions across my campaigns over the last 30 days. Flag missing attribution context and rank the areas that deserve investigation.
 
 [Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40ChatGPT+Ads+Manager+Compare+spend%2C+clicks%2C+and+conversions+across+my+campaigns+over+the+last+30+days.+Flag+missing+attribution+context+and+rank+the+areas+that+deserve+investigation.>)
 
   * ### Investigate inefficient spend
 
-![](https://files.openai.com/content?id=file_0000000038f081f5806700f3422d7610&cdn=1&cp=pi&ma=30240000&ts=0&p=pi&cid=8&sig=de76f97529504062545191446696a05e28786232b3e446c336b5bcfd0ac26796&v=0)ChatGPT Ads Manager Find campaigns with high spend and weak conversion performance over the last month. Explain the evidence and recommend a short list of follow-up checks.
+![](https://files.openai.com/content?id=file_00000000341081fda1cf8dbbd8717af9&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=b2d2947344376a03013ff347580827fd3caf0dfe4153de6ee83165950245f487&v=0)ChatGPT Ads Manager Find campaigns with high spend and weak conversion performance over the last month. Explain the evidence and recommend a short list of follow-up checks.
 
 [Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40ChatGPT+Ads+Manager+Find+campaigns+with+high+spend+and+weak+conversion+performance+over+the+last+month.+Explain+the+evidence+and+recommend+a+short+list+of+follow-up+checks.>)
 
   * ### Prepare a campaign report
 
-![](https://files.openai.com/content?id=file_0000000038f081f5806700f3422d7610&cdn=1&cp=pi&ma=30240000&ts=0&p=pi&cid=8&sig=de76f97529504062545191446696a05e28786232b3e446c336b5bcfd0ac26796&v=0)ChatGPT Ads Manager Summarize this campaign's results for the last month versus the previous month. Highlight material changes, likely questions for the team, and data limitations.
+![](https://files.openai.com/content?id=file_00000000341081fda1cf8dbbd8717af9&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=b2d2947344376a03013ff347580827fd3caf0dfe4153de6ee83165950245f487&v=0)ChatGPT Ads Manager Summarize this campaign's results for the last month versus the previous month. Highlight material changes, likely questions for the team, and data limitations.
 
 [Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40ChatGPT+Ads+Manager+Summarize+this+campaign%27s+results+for+the+last+month+versus+the+previous+month.+Highlight+material+changes%2C+likely+questions+for+the+team%2C+and+data+limitations.>)
 
@@ -95,7 +95,7 @@ Use Ads Manager to discover and manage ad accounts, campaigns, ad groups, and ad
   * Ads Manager Help
   * Ads Manager Insights
   * Set Up Ads Manager
-  * 2 more
+  * 3 more
 
 
 

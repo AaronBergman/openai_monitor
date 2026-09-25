@@ -90,7 +90,7 @@ scite helps users search and read scientific papers, inspect citation context an
 
 ### [Privacy policyLearn more](<https://scite.ai/policy>)
 
-## Add plugins in a few clicks
+## Add the Scite plugin in a few clicks
 
 Availability depends on the plugin, your plan, and workspace settings. Some connections require admin setup or approval. Contact your workspace admin if access is blocked.
 
@@ -213,7 +213,7 @@ OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
 
-### 1Find a plugin1Find a plugin
+### 1Find the Scite plugin1Find the Scite plugin
 
 Browse for plugins that support your team’s tools and tasks.
 

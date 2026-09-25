@@ -37,7 +37,7 @@ Search and scrape the web
 [Install plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a314a73f8ac819195b0d55e36b9c609>)[Contact sales](</contact-sales/>)
 
 Category
-    [Engineering & IT](</business/plugins/?tab=plugins-engineering-it>)
+    [Productivity](</business/plugins/?tab=plugins-productivity>)
 
 Developer
     SideGuide Technologies, Inc.
@@ -78,7 +78,7 @@ Firecrawl helps users search the web, retrieve clean page content, crawl sites, 
 
 ### App
 
-  * ![](https://files.openai.com/content?id=file_00000000af1081f4901b619fda21ac3a&cdn=1&cp=pi&ma=30499200&ts=0&p=pi&cid=8&sig=bd7edeadf068af7c818051f11055cb543fc14ab0dd0395ba3d37187c044fcd29&v=0)Firecrawl
+  * ![](https://files.openai.com/content?id=file_000000009d0882068edebdf0b48b730f&cdn=1&cp=pi&ma=31363200&ts=0&p=pi&cid=8&sig=2a53421112d9a8c0cae7038780d86b873d4701f1e0132c67ae943797379fc775&v=0)Firecrawl
 
 
 
@@ -92,7 +92,7 @@ Firecrawl helps users search the web, retrieve clean page content, crawl sites, 
   * firecrawl-interact
   * firecrawl-map
   * firecrawl-monitor
-  * 4 more
+  * 5 more
 
 
 

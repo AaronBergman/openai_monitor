@@ -48,7 +48,7 @@ Developer
 Website
     [(opens in a new window)](<https://openai.com/>)
 
-[![](https://files.openai.com/content?id=file_000000009bf881f5addc67f535609810&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=aef1732e7a5785a23cf9d8f6c0d965502775e063030e79ed8bc4d90f7d51bb67&v=0)Product Design Help me get started(opens in a new window)](<https://chatgpt.com/?prompt=%40Product+Design+Help+me+get+started>)
+[![](https://files.openai.com/content?id=file_00000000fbf481f482108795756c37c9&cdn=1&cp=pi&ma=30240000&ts=0&p=pi&cid=8&sig=d560e5bb3f73e93b1407b8c99fae66c368d23432f82c0d237713e4d3f41a1961&v=0)Product Design Help me get started(opens in a new window)](<https://chatgpt.com/?prompt=%40Product+Design+Help+me+get+started>)
 
 ## How it works
 
@@ -58,19 +58,19 @@ Use Product Design in ChatGPT to turn product briefs, research notes, and user j
 
   * ### Shape product concepts quickly
 
-![](https://files.openai.com/content?id=file_000000009bf881f5addc67f535609810&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=aef1732e7a5785a23cf9d8f6c0d965502775e063030e79ed8bc4d90f7d51bb67&v=0)Product Design Turn this product idea into an interactive prototype.
+![](https://files.openai.com/content?id=file_00000000fbf481f482108795756c37c9&cdn=1&cp=pi&ma=30240000&ts=0&p=pi&cid=8&sig=d560e5bb3f73e93b1407b8c99fae66c368d23432f82c0d237713e4d3f41a1961&v=0)Product Design Turn this product idea into an interactive prototype.
 
 [Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Product+Design+Turn+this+product+idea+into+an+interactive+prototype.>)
 
   * ### Synthesize research into decisions
 
-![](https://files.openai.com/content?id=file_000000009bf881f5addc67f535609810&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=aef1732e7a5785a23cf9d8f6c0d965502775e063030e79ed8bc4d90f7d51bb67&v=0)Product Design Summarize these interview notes into themes, pain points, opportunity areas, and implications for the next design iteration.
+![](https://files.openai.com/content?id=file_00000000fbf481f482108795756c37c9&cdn=1&cp=pi&ma=30240000&ts=0&p=pi&cid=8&sig=d560e5bb3f73e93b1407b8c99fae66c368d23432f82c0d237713e4d3f41a1961&v=0)Product Design Summarize these interview notes into themes, pain points, opportunity areas, and implications for the next design iteration.
 
 [Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Product+Design+Summarize+these+interview+notes+into+themes%2C+pain+points%2C+opportunity+areas%2C+and+implications+for+the+next+design+iteration.>)
 
   * ### Prepare design handoff materials
 
-![](https://files.openai.com/content?id=file_000000009bf881f5addc67f535609810&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=aef1732e7a5785a23cf9d8f6c0d965502775e063030e79ed8bc4d90f7d51bb67&v=0)Product Design Review my app's authentication UX.
+![](https://files.openai.com/content?id=file_00000000fbf481f482108795756c37c9&cdn=1&cp=pi&ma=30240000&ts=0&p=pi&cid=8&sig=d560e5bb3f73e93b1407b8c99fae66c368d23432f82c0d237713e4d3f41a1961&v=0)Product Design Review my app's authentication UX.
 
 [Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Product+Design+Review+my+app%27s+authentication+UX.>)
 

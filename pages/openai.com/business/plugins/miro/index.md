@@ -78,7 +78,7 @@ Speed up product development from ideation to launch. Align teams, break tool si
 
 ### App
 
-  * ![](https://files.openai.com/content?id=file_000000008dc481f7b61b0e99245634da&cdn=1&cp=pi&ma=30499200&ts=0&p=pi&cid=8&sig=21b69796b1bb01a2a25a7cc6bdc8146ed659522b1b4e8d866db33fb986b68bf4&v=0)Miro
+  * ![](https://files.openai.com/content?id=file_00000000f91481f7b993f5ed8f67f6af&cdn=1&cp=pi&ma=30240000&ts=0&p=pi&cid=8&sig=3d809d58845e7cac32ef445b32c2adeede249195d0121d66dfec319abc893bd1&v=0)Miro
 
 
 

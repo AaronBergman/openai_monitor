@@ -1,5 +1,39 @@
 # openai_monitor
 
+## 2026-09-25T09-16Z
+
+**Fetch time:** 2026-09-25T09:16Z (sitemap) / 09:19Z–09:20Z (435 pages) UTC | **Baseline:** 2026-09-24T09-16Z (consecutive day)
+
+**TL;DR:** No new pages today, but the ChatGPT **plugin/apps directory got a coordinated overhaul**: "Add plugin" buttons became "Install plugin," use-case links now read "Try in ChatGPT Work," headings were personalized per plugin, and a new "Plugins" breadcrumb was added — rolled out across roughly 120 plugin pages, tying the whole directory to the new **ChatGPT Work** surface referenced in this week's release notes. In the same sweep, **23 third-party plugins were delisted** (21 of them had only been live since 2026-09-19 — a six-day lifespan), and the "Data" plugin's URL was renamed from `/business/plugins/data-analytics/` to `/business/plugins/data/`. Separately, OpenAI announced the **DevDay 2026 keynote livestream for Tuesday, September 29 at 10 AM PDT** on the `/live/` page, and the `/research/index/publication/` listing — which had rendered empty ("No results found") for at least the past two days — is populated again with 9 publications. Release notes picked up two real entries (plugins in Voice, ChatGPT iOS redesign), and the customer-story carousels rotated in six new case studies. **1,984 URLs across 42 sub-sitemaps** (0 added, 435 updated — only 143 with real content changes — 23 removed).
+
+### Anomalies
+
+1. **High-churn plugin delisting.** All 23 removed pages are `/business/plugins/<slug>/`. 21 of them were first added just six days ago (2026-09-19T09-15Z run) and are now gone — confirmed HTTP 404 on spot-checked URLs (`floot`, `make`, `whisper-transcribe-ai`). One (`alpaca`) had been listed since 2026-07-10. Reads like a batch of third-party plugin listings that got pulled shortly after approval.
+2. **Sub-sitemap migration.** `business/plugins/firecrawl/` moved from `sitemap.xml/plugins-engineering-it/` to `sitemap.xml/plugins-productivity/`, alongside the same-day plugin-directory overhaul.
+
+No future-dated or backwards-moving `<lastmod>` values this run.
+
+Full detail in [`runs/2026-09-25T09-16Z/analysis.md`](runs/2026-09-25T09-16Z/analysis.md).
+
+### Notable updates
+
+- **Plugin directory ↔ "ChatGPT Work" integration.** Across ~120 `business/plugins/<slug>/` pages: "Add plugin" → "Install plugin"; "Common use cases" → "What else can you do?" with trimmed descriptions; example-prompt links now go to `chatgpt.com/?surface=work&q=...` ("Try in ChatGPT Work") instead of a bare `?q=...` link; headings personalized (e.g. "Find a plugin" → "Find the ZoomInfo plugin"); new "Plugins" breadcrumb added to page footers. Matches a 2026-09-23 [release-notes](pages/openai.com/products/release-notes/index.md) entry: "Live now supports plugins on web, iOS, and Android... Voice is also available in Work."
+- **["Data" plugin renamed](pages/openai.com/business/plugins/data/index.md):** URL changed from `/business/plugins/data-analytics/` to `/business/plugins/data/`; links updated across the `business/solutions/marketing/`, `finance/`, `operations/`, and `sales/` pages, which also gained newly-rendering plugin icon images.
+- **[DevDay 2026 keynote announced](pages/openai.com/live/index.md)** — livestream Tuesday, September 29 at 10 AM PDT; page also dropped several 2025 replay links behind a "Load more" control.
+- **[Release notes](pages/openai.com/products/release-notes/index.md): two real entries** (Sep 23) — "Use plugins in Voice and get work done by speaking" (Voice now supports plugins/connected apps on web, iOS, Android, plus Voice-in-Work), and "ChatGPT for iOS updates" (redesigned home screen, iPad split view, nested-repo browsing in Codex).
+- **[`research/index/publication/`](pages/openai.com/research/index/publication/index.md) listing fixed:** rendered "No results found" for at least the 2026-09-23 and 2026-09-24 snapshots; now lists 9 publications from 2026-07-28 through 2026-09-23 (MentalHealthBench, the Navier–Stokes solution, GPT-6 Astra system card, the Hugging Face incident writeup, and others).
+- **Customer-story rotation:** [`business/customer-stories/`](pages/openai.com/business/customer-stories/index.md) and [`business/why-openai/startups/`](pages/openai.com/business/why-openai/startups/index.md) swapped in Harvey, Ringg, invideo, Parallel, Higgsfield AI, and a retitled V7 story, dropping Fyxer, Legora, Playco, Replit, and an ATV Big Air Tour story.
+- News listing pages (`news/applied-ai/`, `news/ai-adoption/`, `news/company-announcements/`) surfaced previously-published articles into their carousels and picked up new "GPT-6"/"Plugins" nav links — underlying articles aren't new, only their listing placement is.
+- 292 further URLs (mostly `business/plugins/*`) bumped `<lastmod>` with **zero** rendered-content difference — a pure republish/cache-regeneration sweep across the plugin directory, not reported individually.
+
+### Removed pages
+
+23 pages, all `/business/plugins/<slug>/`: academic-writing-toolkit, accuratescribe, alpaca, appdeploy, build-web-data-visualization, fieldy, floot, forms-ai, gsc-seo-and-content-planner, hatchable, mailopoly-inbox, make, peach-for-whatsapp-business, pocket-ai, prompt-perfect, shipstatic, spinach-ai, to3d, voder, weavely-forms-and-surveys, werify, whisper-transcribe-ai, wpwriter. See Anomaly #1 above.
+
+_Stats: 1984 total URLs | 0 added | 435 updated (143 real content changes + 292 pure `<lastmod>`-only noise) | 23 removed | 2 anomalies | 42 sub-sitemaps_
+
+---
+
 ## 2026-09-24T09-16Z
 
 **Fetch time:** 2026-09-24T09:17Z (sitemap) / 09:19Z–09:24Z (251 pages) UTC | **Baseline:** 2026-09-23T09-15Z (consecutive day)

@@ -90,7 +90,7 @@ Courtroom5 serves self-represented litigants (SRLs) — people who must navigate
 
 ### [Privacy policyLearn more](<https://courtroom5.com/privacy/>)
 
-## Add plugins in a few clicks
+## Add the Courtroom5 plugin in a few clicks
 
 Availability depends on the plugin, your plan, and workspace settings. Some connections require admin setup or approval. Contact your workspace admin if access is blocked.
 
@@ -213,7 +213,7 @@ OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
 
-### 1Find a plugin1Find a plugin
+### 1Find the Courtroom5 plugin1Find the Courtroom5 plugin
 
 Browse for plugins that support your team’s tools and tasks.
 

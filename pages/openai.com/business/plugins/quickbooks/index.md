@@ -45,7 +45,7 @@ Developer
 Website
     [(opens in a new window)](<https://quickbooks.intuit.com>)
 
-[![](https://files.openai.com/content?id=file_000000001e20722faa250d589f9cc0a7&cdn=1&cp=pi&ma=31968000&ts=0&p=pi&cid=1&sig=f44443a7c89e1f9033c6d368294ce35ad745384035de2f20b422b7eabc1f2d8e&v=0)Intuit QuickBooks Show top five industries in California by monthly profit(opens in a new window)](<https://chatgpt.com/?prompt=%40Intuit+QuickBooks+Show+top+five+industries+in+California+by+monthly+profit>)
+[![](https://files.openai.com/content?id=file_000000001e20722faa250d589f9cc0a7&cdn=1&cp=pi&ma=31968000&ts=0&p=pi&cid=1&sig=f44443a7c89e1f9033c6d368294ce35ad745384035de2f20b422b7eabc1f2d8e&v=0)Intuit QuickBooks How does my profit compare to top 5 industries in my area(opens in a new window)](<https://chatgpt.com/?prompt=%40Intuit+QuickBooks+How+does+my+profit+compare+to+top+5+industries+in+my+area>)
 
 ## How it works
 

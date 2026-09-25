@@ -26,11 +26,17 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-July 9, 2026
+### Join us for the OpenAI DevDay 2026 keynote
+
+Livestream will begin on Tuesday, September 29 at 10 AM PDT.
+
+Get notified
 
 # OpenAI livestreams
 
 ## Past livestreams
+
+### [Introducing ChatGPT Work, powered by Codex and GPT-5.6July 9, 2026Watch the replay](<https://www.youtube.com/live/Wq45rvPGNHs?si=hqeMI2sTErIxwp9f>)
 
 ### [ This is the new ChatGPT Voice, powered by GPT-LiveJuly 8, 2026Watch the replay](<https://www.youtube.com/watch?v=9f-Ew_lDtxc>)
 
@@ -50,15 +56,7 @@ July 9, 2026
 
 ### [ChatGPT for BusinessJune 4, 2025Watch the replay](</business/updates-to-chatgpt-business-plans-livestream-june-2025/>)
 
-### [Introducing CodexMay 16, 2025Watch the replay](</index/introducing-codex/#livestream-replay>)
-
-### [Introducing OpenAI o3 and o4-miniApril 16, 2025Watch the replay](<https://openai.com/index/introducing-o3-and-o4-mini/#livestream-replay>)
-
-### [Introducing GPT-4.1 in the APIApril 14, 2025Watch the replay](<https://openai.com/index/gpt-4-1/#livestream-replay>)
-
-### [Introducing 4o Image GenerationMarch 25, 2025Watch the replay](<https://openai.com/index/introducing-4o-image-generation/#livestream-replay>)
-
-### [Introducing next-generation audio models in the APIMarch 20, 2025Watch the replay](<https://openai.com/index/introducing-our-next-generation-audio-models/#livestream-replay>)
+Load more
 
 ### Get notified when we go live
 
@@ -82,6 +80,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
@@ -121,6 +120,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)

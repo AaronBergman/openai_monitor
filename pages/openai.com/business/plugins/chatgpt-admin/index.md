@@ -48,7 +48,7 @@ Developer
 Website
     [(opens in a new window)](<https://admin.openai.com/>)
 
-[![](https://files.openai.com/content?id=file_000000003d448211b42c882bf999f94a&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=8&sig=8d4ec9a678c556a5c355195db8f98d04ad191e558e2ea10f46d7a7dba2bc70ec&v=0)ChatGPT Admin Who are the highest-usage users this month?(opens in a new window)](<https://chatgpt.com/?prompt=%40ChatGPT+Admin+Who+are+the+highest-usage+users+this+month%3F>)
+[![](https://files.openai.com/content?id=file_0000000019a481f79bfa0fc50a0ac411&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=8&sig=63d6aa1f24c101b414207af7873e83da02a329773169df996113b68e3440639f&v=0)ChatGPT Admin Who are the highest-usage users this month?(opens in a new window)](<https://chatgpt.com/?prompt=%40ChatGPT+Admin+Who+are+the+highest-usage+users+this+month%3F>)
 
 ## How it works
 
@@ -58,19 +58,19 @@ Built for ChatGPT workspace owners and admins to manage members, groups, roles, 
 
   * ### Review workspace usage
 
-![](https://files.openai.com/content?id=file_000000003d448211b42c882bf999f94a&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=8&sig=8d4ec9a678c556a5c355195db8f98d04ad191e558e2ea10f46d7a7dba2bc70ec&v=0)ChatGPT Admin Summarize this month's workspace usage by the available product and member breakdowns. Highlight unusual changes and flag gaps in the data.
+![](https://files.openai.com/content?id=file_0000000019a481f79bfa0fc50a0ac411&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=8&sig=63d6aa1f24c101b414207af7873e83da02a329773169df996113b68e3440639f&v=0)ChatGPT Admin Summarize this month's workspace usage by the available product and member breakdowns. Highlight unusual changes and flag gaps in the data.
 
 [Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40ChatGPT+Admin+Summarize+this+month%27s+workspace+usage+by+the+available+product+and+member+breakdowns.+Highlight+unusual+changes+and+flag+gaps+in+the+data.>)
 
   * ### Audit member access
 
-![](https://files.openai.com/content?id=file_000000003d448211b42c882bf999f94a&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=8&sig=8d4ec9a678c556a5c355195db8f98d04ad191e558e2ea10f46d7a7dba2bc70ec&v=0)ChatGPT Admin Review workspace members, groups, and roles. Summarize elevated permissions and identify access questions for the administrator to resolve.
+![](https://files.openai.com/content?id=file_0000000019a481f79bfa0fc50a0ac411&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=8&sig=63d6aa1f24c101b414207af7873e83da02a329773169df996113b68e3440639f&v=0)ChatGPT Admin Review workspace members, groups, and roles. Summarize elevated permissions and identify access questions for the administrator to resolve.
 
 [Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40ChatGPT+Admin+Review+workspace+members%2C+groups%2C+and+roles.+Summarize+elevated+permissions+and+identify+access+questions+for+the+administrator+to+resolve.>)
 
   * ### Assess usage requests
 
-![](https://files.openai.com/content?id=file_000000003d448211b42c882bf999f94a&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=8&sig=8d4ec9a678c556a5c355195db8f98d04ad191e558e2ea10f46d7a7dba2bc70ec&v=0)ChatGPT Admin Review pending usage-limit requests alongside available usage data. Summarize each request and recommend the questions needed for an informed decision.
+![](https://files.openai.com/content?id=file_0000000019a481f79bfa0fc50a0ac411&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=8&sig=63d6aa1f24c101b414207af7873e83da02a329773169df996113b68e3440639f&v=0)ChatGPT Admin Review pending usage-limit requests alongside available usage data. Summarize each request and recommend the questions needed for an informed decision.
 
 [Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40ChatGPT+Admin+Review+pending+usage-limit+requests+alongside+available+usage+data.+Summarize+each+request+and+recommend+the+questions+needed+for+an+informed+decision.>)
 

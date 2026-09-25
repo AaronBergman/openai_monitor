@@ -90,7 +90,7 @@ Ventor connects ChatGPT to a private Ventor workspace to review customer convers
 
 ### [Privacy policyLearn more](<https://www.ventorchat.com/legal/privacidad>)
 
-## Add plugins in a few clicks
+## Add the Ventor plugin in a few clicks
 
 Availability depends on the plugin, your plan, and workspace settings. Some connections require admin setup or approval. Contact your workspace admin if access is blocked.
 
@@ -213,7 +213,7 @@ OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
 
-### 1Find a plugin1Find a plugin
+### 1Find the Ventor plugin1Find the Ventor plugin
 
 Browse for plugins that support your team’s tools and tasks.
 

@@ -45,7 +45,7 @@ Developer
 Website
     [(opens in a new window)](<https://creativeclaw.co/chatgpt/>)
 
-[![](https://files.openai.com/content?id=file_000000009b087208b2b8ffa954cdd255&cdn=1&cp=pi&ma=31968000&ts=0&p=pi&cid=8&sig=3a198ffa1eb7fd3b4b57715dc778789deac5cb566cf8ce015445042b9941a810&v=0)Creative Claw Turn my product photo into an Instagram image ad that matches my brand. Keep the product accurate and estimate credits first.(opens in a new window)](<https://chatgpt.com/?prompt=%40Creative+Claw+Turn+my+product+photo+into+an+Instagram+image+ad+that+matches+my+brand.+Keep+the+product+accurate+and+estimate+credits+first.>)
+[![](https://files.openai.com/content?id=file_000000009b087208b2b8ffa954cdd255&cdn=1&cp=pi&ma=31968000&ts=0&p=pi&cid=8&sig=3a198ffa1eb7fd3b4b57715dc778789deac5cb566cf8ce015445042b9941a810&v=0)Creative Claw Turn my product photo into an Instagram image ad that matches my brand.(opens in a new window)](<https://chatgpt.com/?prompt=%40Creative+Claw+Turn+my+product+photo+into+an+Instagram+image+ad+that+matches+my+brand.>)
 
 ## How it works
 
@@ -85,14 +85,14 @@ Create AI videos, ads, images, voiceovers, and cloned voices directly in ChatGPT
 ### Skills
 
   * Creative Claw — AI Media Studio
-  * Creative Claw — Long Video to Reels
-  * Creative Claw — Generate Image
   * Creative Claw — Add Intro and Outro
-  * Creative Claw — Chatterbox
-  * Creative Claw — Cut and Reframe Video
-  * Creative Claw — Edit Existing Media
-  * Creative Claw — ElevenLabs Multilingual v2
-  * 23 more
+  * Creative Claw — Build Film
+  * Creative Claw — Voice Cloning
+  * Creative Claw Create Your Avatar
+  * Creative Claw — Create Character
+  * Creative Claw — Long Video to Reels
+  * Creative Claw — Create UGC Ad
+  * 13 more
 
 
 

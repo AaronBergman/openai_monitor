@@ -306,21 +306,21 @@ Load more
 
 * * *
 
-![Fyxer customer story 1x1 image](https://images.ctfassets.net/kftzwdyauwt9/7LbXXCnX1NLyS1i8mHGF1i/d75fdf2bf63cf463ce2e72915a783757/oai_Fyxer_1x1.png?w=3840&q=90&fm=webp)
+![Harvey customer story card image - Option C](https://images.ctfassets.net/kftzwdyauwt9/59usTWVI6pc0I3Lb6TL2ol/3d45075f7a623fa6ba4d8d13459065c1/square.png?w=3840&q=90&fm=webp)
 
-[How Fyxer built an AI executive assistant people trustStartupSep 14, 2026](</index/fyxer/>)
+[Harvey turns legal context into stronger drafts with GPT-6 AstraStartupSep 23, 2026](</index/harvey-from-context-to-confidence-with-astra/>)
 
-![Legora customer story art card - Option C](https://images.ctfassets.net/kftzwdyauwt9/13uynVdSWJS9UT4Y7EppMn/7259e4915a7e6ea2f4c52c2109eace61/square.png?w=3840&q=90&fm=webp)
+![Parallel customer story card image - Option C](https://images.ctfassets.net/kftzwdyauwt9/IE8b4WhSed5XqFQUzyyp7/40124aabc92ea8266c99be14d0f380f1/square.png?w=3840&q=90&fm=webp)
 
-[Legora reviewed 41 documents in minutes with GPT-6 AstraStartupSep 3, 2026](</index/legora-financial-statement-review-with-astra/>)
+[Parallel cut research time and cost in half with GPT‑6 AstraStartupSep 22, 2026](</index/parallel-cuts-time-and-cost-with-astra/>)
 
-![Playco Astra customer story art card - Option B](https://images.ctfassets.net/kftzwdyauwt9/2GBXEJdShwgtUKQZc9Ojsm/ae87410a653bd421e514515deee02940/playco-art-card-option-b-approved.png?w=3840&q=90&fm=webp)
+![Higgsfield AI customer story art card](https://images.ctfassets.net/kftzwdyauwt9/7A0WMEXBwLKT6RUmIz7pfX/c764d19c42285ef2628de699c0820571/square.png?w=3840&q=90&fm=webp)
 
-[Playco cut manual fixes 50% prototyping games with GPT-6 AstraStartupSep 3, 2026](</index/playco-game-prototyping-with-astra/>)
+[Higgsfield AI ships new video features in a day with GPT-6 AstraStartupSep 21, 2026](</index/higgsfield-from-prompt-to-production-with-astra/>)
 
-![replit-customer-story-art-card-1x1](https://images.ctfassets.net/kftzwdyauwt9/2ZUd2sTOK6p4MrjDZnvCoM/512b38a71cf26f09c3cda3c51169c401/replit-customer-story-art-card-1x1.png?w=3840&q=90&fm=webp)
+![V7 customer story hero art card - graphite texture](https://images.ctfassets.net/kftzwdyauwt9/69ITITTOHLrgzbSw13s3L1/eded3a71f9961eacc29f699371f3a9f2/V7-art-card-1x1-option-a.png?w=3840&q=90&fm=webp)
 
-[Replit expands access to software creation with GPT-5.6 LunaStartupAug 19, 2026](</index/replit/>)
+[How V7 gives AI agents institutional memoryStartupSep 21, 2026](</index/v7/>)
 
   * [Explore more stories](<https://openai.com/business/customer-stories/?tags=startup>)
 
@@ -384,6 +384,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)

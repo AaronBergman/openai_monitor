@@ -90,7 +90,7 @@ Scholar Gateway enables ChatGPT to generate responses grounded in peer-reviewed 
 
 ### [Privacy policyLearn more](<https://www.wiley.com/privacy/>)
 
-## Add plugins in a few clicks
+## Add the Scholar Gateway plugin in a few clicks
 
 Availability depends on the plugin, your plan, and workspace settings. Some connections require admin setup or approval. Contact your workspace admin if access is blocked.
 
@@ -213,7 +213,7 @@ OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
 
-### 1Find a plugin1Find a plugin
+### 1Find the Scholar Gateway plugin1Find the Scholar Gateway plugin
 
 Browse for plugins that support your team’s tools and tasks.
 

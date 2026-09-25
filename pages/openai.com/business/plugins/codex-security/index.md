@@ -48,7 +48,7 @@ Developer
 Website
     [(opens in a new window)](<https://openai.com/>)
 
-[![](https://files.openai.com/content?id=file_00000000e1f481f78c51bd08f86f9316&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=8&sig=3672bcf183bae3aa6d84b9e0445b35a6c3f4a66caa75577663a9c321a31ec2b9&v=0)Codex Security Run a Codex Security scan on this repository.(opens in a new window)](<https://chatgpt.com/?prompt=%40Codex+Security+Run+a+Codex+Security+scan+on+this+repository.>)
+[![](https://files.openai.com/content?id=file_0000000009fc8230ae12def58fd21498&cdn=1&cp=pi&ma=31795200&ts=0&p=pi&cid=8&sig=53a717b0a4fcf0f30e3b83fe039ee627c9036c8a1c7d7c78c5f5c722f11ba1fb&v=0)Codex Security Run a Codex Security scan on this repository.(opens in a new window)](<https://chatgpt.com/?prompt=%40Codex+Security+Run+a+Codex+Security+scan+on+this+repository.>)
 
 ## How it works
 
@@ -58,19 +58,19 @@ Codex Security packages reusable workflows for security scans, analysis, validat
 
   * ### Scan a repository
 
-![](https://files.openai.com/content?id=file_00000000e1f481f78c51bd08f86f9316&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=8&sig=3672bcf183bae3aa6d84b9e0445b35a6c3f4a66caa75577663a9c321a31ec2b9&v=0)Codex Security Run a Codex Security scan on this repository.
+![](https://files.openai.com/content?id=file_0000000009fc8230ae12def58fd21498&cdn=1&cp=pi&ma=31795200&ts=0&p=pi&cid=8&sig=53a717b0a4fcf0f30e3b83fe039ee627c9036c8a1c7d7c78c5f5c722f11ba1fb&v=0)Codex Security Run a Codex Security scan on this repository.
 
 [Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Codex+Security+Run+a+Codex+Security+scan+on+this+repository.>)
 
   * ### Review a code change
 
-![](https://files.openai.com/content?id=file_00000000e1f481f78c51bd08f86f9316&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=8&sig=3672bcf183bae3aa6d84b9e0445b35a6c3f4a66caa75577663a9c321a31ec2b9&v=0)Codex Security Run a Codex Security diff scan on this PR, commit, branch diff, or working-tree patch.
+![](https://files.openai.com/content?id=file_0000000009fc8230ae12def58fd21498&cdn=1&cp=pi&ma=31795200&ts=0&p=pi&cid=8&sig=53a717b0a4fcf0f30e3b83fe039ee627c9036c8a1c7d7c78c5f5c722f11ba1fb&v=0)Codex Security Run a Codex Security diff scan on this PR, commit, branch diff, or working-tree patch.
 
 [Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Codex+Security+Run+a+Codex+Security+diff+scan+on+this+PR%2C+commit%2C+branch+diff%2C+or+working-tree+patch.>)
 
   * ### Triage security findings
 
-![](https://files.openai.com/content?id=file_00000000e1f481f78c51bd08f86f9316&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=8&sig=3672bcf183bae3aa6d84b9e0445b35a6c3f4a66caa75577663a9c321a31ec2b9&v=0)Codex Security Triage existing security findings against this repository.
+![](https://files.openai.com/content?id=file_0000000009fc8230ae12def58fd21498&cdn=1&cp=pi&ma=31795200&ts=0&p=pi&cid=8&sig=53a717b0a4fcf0f30e3b83fe039ee627c9036c8a1c7d7c78c5f5c722f11ba1fb&v=0)Codex Security Triage existing security findings against this repository.
 
 [Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Codex+Security+Triage+existing+security+findings+against+this+repository.>)
 
@@ -94,7 +94,7 @@ Codex Security packages reusable workflows for security scans, analysis, validat
   * Deep Security Scan
   * Define Security Policy
   * Finding Discovery
-  * Fix Finding
+  * Fix Security Finding
   * Propose Security Hardening
   * Security Diff Scan
   * 7 more
