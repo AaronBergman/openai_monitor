@@ -81,8 +81,11 @@ Pre-deployment evaluations used across the industry generally consist of a mix o
 While traditional evaluations remain crucial for the first goal, Deployment Simulation represents a significant step forward with regards to the second goal for non-tail risks (in our experiments, our approach can’t be expected to measure behaviors that occur with frequency less than 1 in 200,000 messages). Deployment Simulation’s strength comes from side-stepping some core challenges with traditional evaluations:
 
   * **Coverage:** it is difficult to be confident that evaluation prompts will cover all possible types of undesired model behavior. Measuring new types of undesired behavior requires creating new evaluations, and knowing what harms to measure. This can be time and labor intensive, and evaluations can saturate over time.
+
   * **Selection biases:** traditional evaluations generally are built with specific undesired model behaviors in mind, selected in ways that bias towards contexts have previously occurred. This may make their estimates less informative about incidence of such behaviors in the full breadth of the deployment distribution.
+
   * **Being recognizable as tests by models:** models have been increasingly able to determine they are being tested, which can distort their behavior and our downstream measurements of their safety. While many of the traditional evaluations we use at OpenAI are also drawn from production traffic and don’t suffer from this issue, this is a common concern for many traditional evaluations used across the industry.
+
 
 
 
@@ -112,8 +115,11 @@ The production traffic we leveraged was also from Thinking models of the GPT‑5
 We evaluate the quality of the pre-deployment risk-assessment produced by Deployment Simulation in three main ways:
 
   * **Taxonomy coverage:** did post-release auditing surface any important misaligned behaviors missing from our initial bad behavior taxonomy?
+
   * **Directional accuracy:** did the simulation correctly predict whether deployment prevalence would increase or decrease for known behaviors?
+
   * **Rate calibration:** were our pre-deployment estimates close to the rates we later observed in deployment? Achieving good rate calibration requires more than directional accuracy, making this the highest possible quality standard.
+
 
 
 
@@ -136,7 +142,9 @@ _Figure 3. Deployment Simulation predicts both the direction of incidence change
 **Sources of simulation error in our pipeline.** We also studied the current sources of error in our pipeline. Specifically, large tail errors make the pipeline less trustworthy for deployment decisions: for example, when seeing a large predicted increase in an undesirable behavior of a certain type, if the pipeline is known to have even occasional large errors, it raises doubt about whether this is a reliable estimate or an artifact of the pipeline. There are two main sources of possible error:
 
   * **Resampling environment fidelity error:** to estimate production rates accurately, our simulation pipeline needs to be as realistic as possible. This is in part an engineering problem (sampling from the model using the same pipelines used for production traffic), and in part an interesting challenge for tools which need read/write access to external resources which are constantly changing (e.g. web searches or interacting with local files). We can isolate the simulation fidelity error by comparing predictions from an actual deployment and its simulation (that is, simulating the deployment of the already deployed model).
+
   * **Prompt distribution shift error:** a major concern with Deployment Simulation is that any model’s deployment will cause a distributional shift in inputs, especially if users adapt to new model affordances. We isolate prompt distribution error by comparing estimates when simulating the deployment using recent prompts vs prompts from the realized deployment.
+
 
 
 
@@ -200,17 +208,17 @@ OpenAI
 
 [View all](</news/>)
 
-![ARC-AGI-3 art-card 1x1](https://images.ctfassets.net/kftzwdyauwt9/71xyJRWnTkM6EW1JKDUc59/91d2690ff9e7abaa975b4a5f64089056/ARC-AGI-3_art-card_1x1.png?w=3840&q=90&fm=webp)
+![Introducing GPT-6 Sol and Luna — Art card](https://images.ctfassets.net/kftzwdyauwt9/4HANTuYDvaT04gpR91bEQ9/885481304c5675cb7525bcccbe8c5580/gpt-6-sol-luna-art.png?w=3840&q=90&fm=webp)
 
-[How enabling two settings tripled our scores on the ARC-AGI-3 benchmarkResearchJul 29, 2026](</index/how-two-settings-tripled-our-arc-agi-3-scores/>)
+[Introducing GPT-6 Sol and LunaProductSep 22, 2026](</index/introducing-gpt-6-sol-and-luna/>)
 
-![oai Science Academic Research Academic Research 1x1](https://images.ctfassets.net/kftzwdyauwt9/59kTmFmujYzNh0VgSvCgwe/e9334dd9944b5309f8ca2d44fdc71b6f/academic-research-card.png?w=3840&q=90&fm=webp)
+![Our framework for reporting model misalignment — card image](https://images.ctfassets.net/kftzwdyauwt9/3mJz9GkBOjZvAMYPx8M1dj/2a9ac4b7e18b1c08feef5368c4fde2e2/model-misalignment-reporting-framework--cover-v002.png?w=3840&q=90&fm=webp)
 
-[Accelerating scientific discovery with ChatGPT for Academic ResearchersCompanyJul 29, 2026](</index/chatgpt-for-academic-researchers/>)
+[Our framework for reporting model misalignmentResearchSep 16, 2026](</index/model-misalignment-reporting-framework/>)
 
-![Scientific computing agentic AI card image \(1x1\)](https://images.ctfassets.net/kftzwdyauwt9/5opqp3rNWM7eax6GUc6MAl/1c710a4aba8c5c1e0b7d1c1c7c8b32db/1x1__1_.png?w=3840&q=90&fm=webp)
+![Navier–Stokes solution — art card](https://images.ctfassets.net/kftzwdyauwt9/2VUQZfeF2GtKRitKYdkoLu/cc96d05424afb2c9adcca0734ecdafb1/navier-stokes-art-card.png?w=3840&q=90&fm=webp)
 
-[Scientific computing in the age of agentic AIPublicationJul 28, 2026](</index/scientific-computing-agentic-ai/>)
+[An OpenAI model proposes a solution to the Navier–Stokes problemResearchSep 8, 2026](</index/navier-stokes-solution/>)
 
 Research
 
@@ -222,6 +230,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
@@ -261,6 +270,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)

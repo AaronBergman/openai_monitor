@@ -1,5 +1,42 @@
 # openai_monitor
 
+## 2026-09-26T09-15Z
+
+**Fetch time:** 2026-09-26T09:15Z (sitemap) / 09:19Z–09:24Z (301 pages) UTC | **Baseline:** 2026-09-25T09-16Z (consecutive day)
+
+**TL;DR:** A quiet day with one interesting exception: OpenAI quietly **rewrote its Asana Codex case study**, replacing the bold "5 years of engineering work in 2 weeks" / "$6M vs $12K" headline framing with softer language that drops the $6M comparison from the stat tiles. One new customer story went up (**Proaction**, a Codex sales-automation win), `/products/release-notes/` picked up a real entry on new **admin controls for ChatGPT Sites and Ads access**, and `/signals/` swapped in a new economic-research report ("Work at the Frontier"). The small-business solutions page traded its webinar list for a plugin showcase, continuing the ChatGPT Work integration push. Otherwise it was mostly noise: of 300 `<lastmod>` bumps, only 123 had any rendered difference, and 80 of those were just "related articles" sidebar rotation. The ongoing "Plugins"/"GPT-6" footer-nav rollout reached another 15–24 legacy pages (GPT-4, DALL·E, Whisper, Sora, o1, etc.). **1,985 URLs across 42 sub-sitemaps** (+1 added, 0 removed).
+
+### Anomalies
+
+1. **Sub-sitemap migration.** `business/plugins/activecampaign/` moved from `sitemap.xml/plugins-operations/` to `sitemap.xml/plugins-marketing/` — a plausible recategorization (it's a marketing-automation tool), not concerning by itself.
+
+No future-dated or backwards-moving `<lastmod>` values this run; no URLs disappeared or reappeared.
+
+Full detail in [`runs/2026-09-26T09-15Z/analysis.md`](runs/2026-09-26T09-15Z/analysis.md).
+
+### Notable additions
+
+- **[Proaction boosts sales 60% and saves 75+ hours with Codex](pages/openai.com/index/proaction/index.md)** — new customer story, immediately promoted to the top of the [`business/customer-stories/`](pages/openai.com/business/customer-stories/index.md) carousel, bumping the Sep 8 1Password story out of the visible set.
+
+### Notable updates
+
+- **[Asana case study quietly softened](pages/openai.com/index/asana/index.md):** headline changed from "Asana cleared 5 years of engineering work in 2 weeks with Codex" to "Asana completed a years-long code migration in 2 weeks with Codex." The stat tile leading with "Model and infrastructure cost versus Asana's ~$6M staffing estimate" was rewritten to drop the $6M figure entirely from the headline stats (it now appears once, in body copy). The line "In about two weeks, Asana completed work it expected to take five years" was cut. Reads as toning down an easily-quotable but hard-to-verify marketing claim.
+- **[Release notes](pages/openai.com/products/release-notes/index.md): one real entry** (Sep 24) — "External access controls": global admins in ChatGPT Business/Enterprise can now manage whether ChatGPT Sites can use members' connected apps and whether apps can access ChatGPT Ads, via a redesigned Admin Console page; off by default during the preview.
+- **[`/signals/`](pages/openai.com/signals/index.md) featured report swapped:** "The AI jobs transition framework" (April 2026) replaced by "Work at the Frontier: How workers are unlocking new ways of working" (September 2026), a new report on how workers use AI outside their core job tasks.
+- **[Small-business solutions page](pages/openai.com/business/why-openai/small-business/index.md)** dropped its webinar list for a plugin showcase (Dropbox, Slack, Docusign, ClickUp, Intuit QuickBooks) plus a new customer quote — continuing the ChatGPT Work / plugins integration push into solution-specific landing pages.
+- **"Plugins"/"GPT-6" footer-nav rollout continues:** 24 more pages (mostly legacy model-announcement pages — GPT-4, DALL·E 2/3, Whisper, Sora, o1, o3/o4-mini system card, consistency models — plus `enterprise-privacy/`, `business-data/`, `solutions/industries/healthcare/`) gained a "Plugins" nav link; 15 of those also gained a "GPT-6" link. Cosmetic template propagation, not new news.
+- Five pages embed client-rendered "random example" widgets (`browsecomp/`, `our-approach-to-the-model-spec/`, `how-confessions-can-keep-language-models-honest/`, `separating-signal-from-noise-coding-evaluations/`, `extracting-concepts-from-gpt-4/`) that each showed a different example than yesterday — looks like randomized-per-load content, not edits; noted for transparency.
+- `index/healthbench/` lost a data table ("Languages spoken / Medical specialties") that was present yesterday — likely a client-side render timing issue in our scrape, not a deliberate removal; watching next run.
+- 177 further URLs bumped `<lastmod>` with zero rendered-content difference — pure cache/CDN regeneration noise.
+
+### Removed pages
+
+None this run.
+
+_Stats: 1985 total URLs | 1 added | 300 updated (123 real content changes, of which 80 were pure related-articles carousel rotation) | 0 removed | 1 anomaly | 42 sub-sitemaps_
+
+---
+
 ## 2026-09-25T09-16Z
 
 **Fetch time:** 2026-09-25T09:16Z (sitemap) / 09:19Z–09:20Z (435 pages) UTC | **Baseline:** 2026-09-24T09-16Z (consecutive day)

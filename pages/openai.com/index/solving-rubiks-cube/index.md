@@ -212,15 +212,15 @@ Photography: Eric Haines
 
 [View all](</news/>)
 
-![CLIP](https://images.ctfassets.net/kftzwdyauwt9/5e490f66-703f-4228-221ca64049ed/8ed4358ba4b9f8779e07a2b15d7256e1/image_125.png?w=3840&q=90&fm=webp)
+![A grid of images with stacked duplicates of the images, emulating a 3D effect.](https://images.ctfassets.net/kftzwdyauwt9/5e490f66-703f-4228-221ca64049ed/8ed4358ba4b9f8779e07a2b15d7256e1/image_125.png?w=3840&q=90&fm=webp)
 
 [CLIP: Connecting text and imagesMilestoneJan 5, 2021](</index/clip/>)
 
-![Learning Dexterity](https://images.ctfassets.net/kftzwdyauwt9/296c85d3-a3a1-448a-083f6b2029b1/695e55d1e8c1f265c5e8d9b1e9fda631/learning-dexterity.jpg?w=3840&q=90&fm=webp)
+![A 3D-rendered stack of robotic hands in various colors.](https://images.ctfassets.net/kftzwdyauwt9/296c85d3-a3a1-448a-083f6b2029b1/695e55d1e8c1f265c5e8d9b1e9fda631/learning-dexterity.jpg?w=3840&q=90&fm=webp)
 
 [Learning dexterityMilestoneJul 30, 2018](</index/learning-dexterity/>)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/ca9bbff7-d22d-4d9c-5e73e4e6168e/7817018b3e1dd3961c132da96874c996/image-47.webp?w=3840&q=90&fm=webp)
+![An abstract expressionist painting depicting pink flowers.](https://images.ctfassets.net/kftzwdyauwt9/ca9bbff7-d22d-4d9c-5e73e4e6168e/7817018b3e1dd3961c132da96874c996/image-47.webp?w=3840&q=90&fm=webp)
 
 [Retro Contest: ResultsConclusionJun 22, 2018](</index/retro-contest-results/>)
 
@@ -234,6 +234,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
@@ -273,6 +274,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)

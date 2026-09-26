@@ -231,7 +231,7 @@ The Sora team
 
 [View all](</news/>)
 
-![Sora 2 system card cover image](https://images.ctfassets.net/kftzwdyauwt9/2ODeQUACmwUM3lkFQKzWki/426121ad50716c1a1eb4034ecb824c7e/1_x_1__.png?w=3840&q=90&fm=webp)
+![Sora 2 system card](https://images.ctfassets.net/kftzwdyauwt9/2ODeQUACmwUM3lkFQKzWki/426121ad50716c1a1eb4034ecb824c7e/1_x_1__.png?w=3840&q=90&fm=webp)
 
 [Sora 2 System CardPublicationSep 30, 2025](</index/sora-2-system-card/>)
 
@@ -293,6 +293,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)

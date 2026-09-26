@@ -44,9 +44,9 @@ _Note: Priority processing was renamed Fast mode on July 30, 2026. You can use e
 |  Short context| Long context| Uptime SLA3| Latency SLA3  
 ---|---|---|---|---  
 Price per 1M input tokens| Price per 1M input tokens (cached)| Price per 1M output tokens| Price per 1M input tokens| Price per 1M input tokens (cached)| Price per 1M output tokens  
-GPT-6 Astra| $20.00| $2.00| $100.00| $40.00| $4.00| $150.00| |   
-GPT-6 Sol| $4.00| $0.40| $20.00| $8.00| $0.80| $30.00| |   
-GPT-6 Luna| $0.20| $0.02| $1.00| $0.40| $0.04| $1.50| |   
+GPT-6 Astra| $20.00| $2.00| $100.00| $40.00| $4.00| $150.00| —| —  
+GPT-6 Sol| $4.00| $0.40| $20.00| $8.00| $0.80| $30.00| —| —  
+GPT-6 Luna| $0.20| $0.02| $1.00| $0.40| $0.04| $1.50| —| —  
 GPT-5.6 Sol| $8.00| $0.80| $40.00| $16.00| $1.60| $60.00| 99.9%| 99% > 80 tokens per second2  
 GPT-5.6 Terra| $4.00| $0.40| $24.00| $8.00| $0.80| $36.00| 99.9%| 99% > 70 tokens per second2  
 GPT-5.6 Luna| $0.40| $0.04| $2.40| $0.80| $0.08| $3.60| 99.9%| 99% > 100 tokens per second2  

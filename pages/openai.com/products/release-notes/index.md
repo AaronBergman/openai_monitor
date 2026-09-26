@@ -43,6 +43,20 @@ Sort
 
 ChatGPT
 
+Sep 24, 2026
+
+Preview
+
+## External access controls
+
+Global admins in ChatGPT Business and Enterprise organizations can now manage whether ChatGPT Sites can use members’ connected apps and whether applications can access ChatGPT Ads. These controls are on the redesigned External access page in the OpenAI Admin Console. Identity-only sign-in remains separate from data access.
+
+Both new permissions are off by default during the admin preview. Members must still authorize access using their own permissions. Sites access also depends on workspace and individual app settings.
+
+[View source(opens in a new window)](<https://help.openai.com/en/articles/11391654-chatgpt-business-release-notes#external-access-controls>)[Help center(opens in a new window)](<https://help.openai.com/en/articles/10128477-chatgpt-enterprise-and-edu-release-notes#external-access-controls>)[Help center(opens in a new window)](<https://help.openai.com/en/articles/12289294-managing-your-tenant-in-admin-console>)
+
+ChatGPT
+
 Sep 23, 2026
 
 GA
@@ -136,20 +150,6 @@ Flashcards are automatically saved in your library. To practice again, open them
 Available on mobile and web for all ChatGPT plans.
 
 [View source(opens in a new window)](<https://help.openai.com/en/articles/6825453-chatgpt-release-notes#create-flashcards-in-chatgpt>)
-
-ChatGPT
-
-Sep 21, 2026
-
-GA
-
-## Privacy Center in ChatGPT
-
-Privacy Center is rolling out to signed-in ChatGPT Free, Go, Plus, Pro, and Business users. It brings together information about chat privacy, memory, personalization, data use, connected apps, and account security, with links to the settings that manage them. Your privacy controls remain in ChatGPT Settings.
-
-On the web, open your account menu, select Help, then select Privacy Center. On mobile, open Settings, then select Privacy Center on iOS or Privacy center on Android. Available options depend on your plan, region, and workspace settings.
-
-[View source(opens in a new window)](<https://help.openai.com/en/articles/6825453-chatgpt-release-notes#privacy-center-in-chatgpt>)[Help center(opens in a new window)](<https://help.openai.com/en/articles/11391654-chatgpt-business-release-notes#privacy-center-in-chatgpt>)[Help center(opens in a new window)](<https://help.openai.com/en/articles/20001488>)
 
 Load more
 

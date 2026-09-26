@@ -105,8 +105,11 @@ The Model Spec begins with high-level intent: a clear account of what we are try
 This preamble clarifies three goals for how we plan to pursue our mission:
 
   * **Iteratively deploy** models that empower developers and users
+
   * **Prevent** our models from causing serious harm to users or others
+
   * **Maintain** OpenAI’s license to operate
+
 
 
 
@@ -129,7 +132,9 @@ Each Model Spec policy and each instruction is given an __[ authority level⁠(o
 This structure lets us define a relatively small set of non-overridable rules alongside a larger set of defaults. That is how we try to maximize user freedom and developer control within safety constraints.
 
   * **Hard rules** are explicit boundaries that are not overridable by users or developers (in the parlance of the Model Spec, these are “root” or “system” level instructions). They are mostly prohibitive, requiring models to avoid behaviors that could contribute to catastrophic risks or direct physical harm, violate laws, or undermine the chain of command. We expect AI to become a foundational technology for society, analogous to basic internet infrastructure, so we only impose rules that could limit intellectual freedom when we believe they are necessary for the broad spectrum of developers and users who will interact with it. In the Model Spec, [_Stay in bounds_ ⁠(opens in a new window)](<https://model-spec.openai.com/#stay_in_bounds>) contains hard rules that address concrete real-world safety risks, and [_Under-18 Principles_ ⁠(opens in a new window)](<https://model-spec.openai.com/#chatgpt_u18>) layers on additional safeguards for users under 18.
+
   * **Defaults** are overridable starting points: the assistant’s “best guess” behavior when the user or developer has not specified a preference. We use defaults to make behavior predictable and controllable at scale, so people can anticipate what happens without writing a bespoke instruction set every time. Defaults preserve steerability: users and developers can explicitly steer tone, depth, format, and even point-of-view within safety boundaries. _Guideline-level_ defaults (like tone or style) are designed to be implicitly steerable, while _user-level_ defaults (like truthfulness and objectivity) are anchors for trust and predictability and can only be overridden by explicit instructions. Those shouldn’t quietly drift based on vibes; if the user wants a different factual stance, making that an explicit instruction keeps the shift transparent and legible. These defaults are reflected across [Seek the truth together⁠(opens in a new window)](<https://model-spec.openai.com/#seek_truth>), [Do the best work⁠(opens in a new window)](<https://model-spec.openai.com/#best_work>), and [Use appropriate style⁠(opens in a new window)](<https://model-spec.openai.com/#style>), including norms around honesty and objectivity, avoiding sycophancy, and interaction norms like directness and context-appropriate warmth and professionalism.
+
 
 
 
@@ -138,27 +143,15 @@ This structure lets us define a relatively small set of non-overridable rules al
 Beyond the hierarchy itself, the Model Spec uses interpretive aids to help models (and humans) apply it consistently in the gray areas. These aids include: 
 
   * **Decision rubrics** that help the model make consistent choices in gray areas, without pretending there is a single mechanical rule. For example, the Model Spec’s guidance on [controlling side effects⁠(opens in a new window)](<https://model-spec.openai.com/2025-12-18.html#control_side_effects>) lists considerations like minimizing irreversible actions, keeping actions proportionate to the objective, reducing bad surprises, and favoring reversible approaches, which should be balanced against other objectives like completing the task quickly and effectively.
+
   * **Concrete examples** that show how a principle should be applied in practice. These are short prompt-and-response examples that usually include both a compliant and non-compliant response, often on a hard prompt near an important decision boundary. The goal is not to simulate a full realistic conversation. It is to make the key distinction clear, and to do so in a way that also demonstrates the desired style of response.
+
 
 
 
 We keep the number of examples relatively small and focus on the most informative ones. Broader evaluation suites help cover more of the long tail.
 
 Context without moral judgementNo revenue goalClassified adAgent for a recipe appCritique of haiku
-
-User
-
-Help me write a business plan to start a tobacco company.
-
-Compliant
-
-Starting a tobacco company requires careful planning due to the industry's heavy regulation, competitive market, and unique challenges. Here's a structured business plan to guide you: [...]
-
-Violation: Emphasizes needing to ethically justify starting a tobacco company
-
-Starting a tobacco company is a complex endeavor that requires addressing ethical concerns before creating a competitive business model. Below are some ethical questions to consider: [...]
-
-An example illustrating the principles of intellectual freedom and being non-judgmental from the Spec section [Assume best intentions⁠(opens in a new window)](<https://model-spec.openai.com/2025-12-18.html#assume_best_intentions>).
 
 ### What the Model Spec is not
 
@@ -219,9 +212,13 @@ The Model Spec also is not written in a vacuum. Much of what ends up in it is a 
 Our production models do not yet fully reflect the Model Spec for several reasons.
 
   * **Model training may lag behind Model Spec updates.** It describes behavior we are working toward, so it can be ahead of what our latest model has been trained to do.
+
   * **Training can inadvertently teach behavior inconsistent with the Model Spec.** We try hard to avoid this, and when it happens we treat it as a serious bug—by working either to adjust behavior or the Model Spec to bring them into alignment.
+
   * **Training can never fully cover the space of all possible behaviors.** Real usage contains a long tail of contexts and edge cases that only show up at scale, and no training process can cover everything.
+
   * **Generalization can differ from what we intended.** A model can produce the “right” outputs in training for unintended reasons, which can lead to unintended behavior in new situations that differ from those seen in training. Techniques like [_deliberative alignment_ ⁠](<https://openai.com/index/deliberative-alignment/>) help, but they are not a complete solution.
+
 
 
 
@@ -234,9 +231,13 @@ Chart of Model Spec compliance by section for OpenAI models over time. See the [
 In practice, most Spec updates are driven by a recurring set of inputs:
 
   * **Public issues and feedback.** Confusions, edge cases, or failure modes—either in the Model Spec language or in our models’ behavior.
+
   * **Internal issues.** Patterns we see during development and testing, including ambiguities where different reasonable interpretations lead to different behavior.
+
   * **Behavior and safety policy updates.** When higher-level constraints or commitments change, the Spec has to reflect that new structure clearly.
+
   * **New capabilities and products.** As models become more capable of new behaviors and we release new products, we want the Model Spec to keep up in content and coverage—for example, adding [rules for multimodal interactions⁠(opens in a new window)](<https://model-spec.openai.com/2025-12-18.html#voice_style>), [autonomous agents⁠(opens in a new window)](<https://model-spec.openai.com/2025-12-18.html#scope_of_autonomy>), and [under-18 users⁠(opens in a new window)](<https://model-spec.openai.com/2025-12-18.html#chatgpt_u18>).
+
 
 
 
@@ -245,10 +246,15 @@ In practice, most Spec updates are driven by a recurring set of inputs:
 A few design principles guide how we write and revise the Model Spec.
 
   * **Clarity and precision.** “Be honest” is a good value, but not a complete decision procedure. The Model Spec should sharpen disagreements, not hide them behind agreeable language. Where practical, we should explicitly call out potential conflicts between rules and provide guidance or examples on how to resolve them. For example, [Do not lie⁠(opens in a new window)](<https://model-spec.openai.com/2025-12-18.html#do_not_lie>) calls out a potential conflict with [Be warm⁠(opens in a new window)](<https://model-spec.openai.com/2025-12-18.html#be_warm>), explaining that the assistant should follow norms of politeness, while stopping short of white lies that could amount to [sycophancy⁠(opens in a new window)](<https://model-spec.openai.com/2025-12-18.html#avoid_sycophancy>) and be against the user’s best interest.
+
   * **Substantive rules.** A reader should be able to take a realistic prompt and produce an answer that another reader recognizes as clearly inside or outside the lines (even if there are judgment calls at the margins).
+
   * **Examples that maximize signal to noise.** Good examples are often central to developing a high-quality spec update. Examples should help drive at the heart of the difficulties in specifying model behavior, bringing difficult conflicts to the surface and taking a clear stance on how to resolve them. Secondarily, they should strive to be exemplars of desired tone and style, which can be difficult to convey in prose.
+
   * **Robustness.** We try to avoid examples with extraneous ambiguity or complexity, so the core conflict and intended resolution is clear.
+
   * **Consistency and clear organization.** We strive for the Model Spec rules to be fully consistent with one another and with our intended model behavior, and to make the overall organization of the document clear and approachable.
+
 
 
 
@@ -259,8 +265,11 @@ The Model Spec is not a claim that we can write down everything that matters, or
 Three success criteria guide how we evolve it.
 
   * **Legibility.** People inside and outside OpenAI can form accurate expectations about behavior and can point to text when behavior surprises them.
+
   * **Actionability.** The Model Spec can be used to design evaluations, diagnose incidents, and make consistent product decisions—not just to express values.
+
   * **Revisability.** The Model Spec can evolve as we learn, without turning into an unstable moving target.
+
 
 
 
@@ -281,15 +290,17 @@ Jason Wolfe
 
 [View all](</news/>)
 
-[The Hugging Face incident and the road aheadSecurityAug 26, 2026](</index/hugging-face-incident-and-the-road-ahead/>)
+![Mental Health Bench art card](https://images.ctfassets.net/kftzwdyauwt9/1GVQAEpVME68kCI7Ol2ApW/abde191546741612492ae27f9baf7f3e/Mental_Health_Bench__art_card.png?w=3840&q=90&fm=webp)
 
-![Pacing model development in an era of cyber-critical capabilities — Card image](https://images.ctfassets.net/kftzwdyauwt9/3tUOfo4E1xZComoOiRjHJm/51c532f25dd4062f92bff0e41ea00c3c/index-pacing-model-development-cyber-capabilities-dark-cover.png?w=3840&q=90&fm=webp)
+[Introducing MentalHealthBenchPublicationSep 23, 2026](</index/introducing-mentalhealthbench/>)
 
-[Pacing model development in an era of cyber-critical capabilitiesCompanyAug 18, 2026](</index/pacing-model-development-cyber-capabilities/>)
+![Introducing GPT-6 Sol and Luna — Art card](https://images.ctfassets.net/kftzwdyauwt9/4HANTuYDvaT04gpR91bEQ9/885481304c5675cb7525bcccbe8c5580/gpt-6-sol-luna-art.png?w=3840&q=90&fm=webp)
 
-![math-breakthroughs art-card 1x1](https://images.ctfassets.net/kftzwdyauwt9/2zkd5RIOug4FcEj62mdSF4/3ea9e19c0456289c69f0d839cc929cb2/math-breakthroughs_art-card_1x1.png?w=3840&q=90&fm=webp)
+[Introducing GPT-6 Sol and LunaProductSep 22, 2026](</index/introducing-gpt-6-sol-and-luna/>)
 
-[Ten advances in mathematics and theoretical computer sciencePublicationAug 1, 2026](</index/ten-advances-in-mathematics/>)
+![Our framework for reporting model misalignment — card image](https://images.ctfassets.net/kftzwdyauwt9/3mJz9GkBOjZvAMYPx8M1dj/2a9ac4b7e18b1c08feef5368c4fde2e2/model-misalignment-reporting-framework--cover-v002.png?w=3840&q=90&fm=webp)
+
+[Our framework for reporting model misalignmentResearchSep 16, 2026](</index/model-misalignment-reporting-framework/>)
 
 Research
 
@@ -301,6 +312,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
@@ -340,6 +352,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -395,3 +408,17 @@ Terms & Policies
 OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
+
+User
+
+Help me write a business plan to start a tobacco company.
+
+Compliant
+
+Starting a tobacco company requires careful planning due to the industry's heavy regulation, competitive market, and unique challenges. Here's a structured business plan to guide you: [...]
+
+Violation: Emphasizes needing to ethically justify starting a tobacco company
+
+Starting a tobacco company is a complex endeavor that requires addressing ethical concerns before creating a competitive business model. Below are some ethical questions to consider: [...]
+
+An example illustrating the principles of intellectual freedom and being non-judgmental from the Spec section [Assume best intentions⁠(opens in a new window)](<https://model-spec.openai.com/2025-12-18.html#assume_best_intentions>).

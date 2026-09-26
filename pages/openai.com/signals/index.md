@@ -148,6 +148,8 @@ OpenAI’s Enterprise Signals tracks AI adoption across industries and business 
 
 ### Reports
 
+### [Work at the Frontier: How workers are unlocking new ways of workingSeptember 2026 | An analysis of how workers use AI to do tasks outside their typical occupation and which new tasks they build into their workflows.Learn more](<https://cdn.openai.com/pdf/work-at-the-frontier-report-202609.pdf>)
+
 ### [Training novices to think, or giving them LLMs? Evidence from an RCTAugust 2026 | A study examining how access to ChatGPT and training in causal reasoning affect how students approach and perform a real-world business problem.Learn more](<https://cdn.openai.com/pdf/novices-and-llm-august-2026.pdf>)
 
 ### [How organizations use AI: Evidence from ChatGPTAugust 2026 | Research examining how ChatGPT Enterprise has spread within and across organizations over the past two years.Learn more](<https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf>)
@@ -165,8 +167,6 @@ OpenAI’s Enterprise Signals tracks AI adoption across industries and business 
 ### [How frontier firms are pulling aheadMay 2026 | B2B Signals shows how the frontier advantage is beginning to compound for firms using AI more deeply, more broadly, and in more delegated workflows.Learn more](<https://openai.com/index/introducing-b2b-signals/>)
 
 ### [Main Street entrepreneurship, powered by ChatGPTMay 2026 | Empowering entrepreneurs with ChatGPT.Learn more](<https://openai.com/index/ai-first-hire-small-business/>)
-
-### [The AI jobs transition frameworkApril 2026 | Mapping AI’s near-term impact on jobs.Learn more](<https://openai.com/index/modeling-ai-jobs-transition/>)
 
 Load more
 

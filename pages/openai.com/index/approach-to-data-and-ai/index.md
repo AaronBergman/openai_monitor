@@ -111,8 +111,11 @@ Each new generation of foundation models is trained from scratch on a new datase
 We train our models using:
 
   * Select publicly available data, mostly collected from industry-standard machine learning datasets and web crawls, similar to search engines. We exclude sources we know to have paywalls, primarily aggregate personally identifiable information, have content that violates our policies, or have opted-out.
+
   * Proprietary data from [data partnerships⁠](<https://openai.com/blog/data-partnerships>). We partner to access non-publicly available content, such as archives and metadata. Our partners range from a major private video library for images and videos to train Sora to the [Government of Iceland⁠](<https://openai.com/customer-stories/government-of-iceland>) to help preserve their native languages. We don’t pursue paid partnerships for purely publicly available information. 
+
   * Human feedback from AI trainers, red teamers, employees, and users whose data control settings allow model improvements.
+
 
 
 
@@ -143,6 +146,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
@@ -182,6 +186,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)

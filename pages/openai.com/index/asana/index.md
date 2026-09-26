@@ -28,9 +28,9 @@ OpenAI
 
 August 18, 2026
 
-# Asana cleared 5 years of engineering work in 2 weeks with Codex
+# Asana completed a years-long code migration in 2 weeks with Codex
 
-Using OpenAI Codex, Asana replaced an outdated testing system in two weeks for about $12K.
+Using OpenAI Codex, Asana replaced an outdated testing system in two weeks, with about $12K in model and infrastructure costs.
 
 [Contact sales](</contact-sales/>)
 
@@ -46,21 +46,21 @@ Products: Codex, API
 
 2
 
-Calendar weeks to finish work expected to take 5 years
+Weeks to complete a migration projected to take ~5 more years at its prior pace
 
 $12K
 
-Model and infrastructure cost versus Asana’s ~$6M staffing estimate
+Model and infrastructure costs
 
 Loading…
 
 Share
 
-In about two weeks, Asana completed work it expected to take five years.
+In order to modernize its frontend stack, Asana needed to finish a long-running code migration that was still years from completion. At its prior pace—with only a few engineers working on the migration incrementally alongside other priorities—Asana projected that it would take roughly five more years to complete. With Codex, Asana completed the project in about two weeks.
 
 Asana helps teams coordinate work. Its platform uses AI agents and automations to help customers manage, track, and execute that work. Asana brings the same approach to its engineering organization, where people use OpenAI Codex, powered by frontier models, to tackle large codebase changes, then review and approve each proposed change.
 
-For this project, Codex helped Asana’s engineers remove Enzyme, an outdated testing system that had made the company’s code harder to upgrade. Model and infrastructure costs came to about $12,000, compared with Asana’s roughly $6 million estimate for the previous staffing plan.
+For this project, [Codex helped Asana’s engineers remove Enzyme⁠(opens in a new window)](<https://asana.com/inside-asana/migrating-off-enzyme-2-weeks>), an outdated testing system that had made the company’s code harder to upgrade. Model and infrastructure costs came to about $12,000.
 
 > “Not every years-long project will collapse into weeks. But agents can give engineers more room for craft—and make once-impossible work worth attempting.”
 
@@ -68,7 +68,7 @@ For this project, Codex helped Asana’s engineers remove Enzyme, an outdated te
 
 Their old testing tool, Enzyme, had fallen out of active maintenance and was becoming a blocker to modernizing Asana’s frontend stack. Asana used Codex, powered by frontier models, to do the work. From a five-sentence prompt, up to four coding agents worked in parallel, each in a separate copy of the codebase. An engineer checked progress twice a day and reviewed every proposed change. Simpler instructions worked better than a more elaborate setup.
 
-After 1.5 weeks of engineering effort spread across two calendar weeks, Enzyme was fully removed. Model and infrastructure costs totaled about $12K. For comparison: the previous plan was expected to take at least five years and estimated to cost roughly $6M. The experience changed which long-running software projects the company believes are practical to take on.
+After 1.5 weeks of engineering effort spread across two calendar weeks, Enzyme was fully removed. The work also delivered benefits beyond the framework migration itself, improving test coverage, fixing poor-quality tests, and cleaning up legacy testing infrastructure. Model and infrastructure costs totaled about $12K. Asana estimates that completing that same scope through manual engineering work would have represented roughly $6M in fully loaded engineering effort. The experience changed which long-running software projects the company believes are practical to take on.
 
 With this migration complete, Asana can test agents on other migrations, rewrites, and performance problems it once assumed would take years. The team hopes this will give engineers more room to focus on craft while people continue to review the work.
 
@@ -80,17 +80,17 @@ More than 1 million businesses around the world are achieving meaningful results
 
 ## Keep reading
 
-![Better prompt caching for GPT-6 — Card image](https://images.ctfassets.net/kftzwdyauwt9/72ZKzMh8JgRDfdg4EYRtwY/ee5e406a08b69f00b0beb4ac00270364/7kneoqlc2qh37z1utkmtfk-cover-v1.png?w=3840&q=90&fm=webp)
+![Proaction customer story art card - Option A](https://images.ctfassets.net/kftzwdyauwt9/46K6EGB5ApjTSkngvI7uU7/ce0c43f11865fd90348773ceb39485ee/proaction-option-a-art-card.png?w=3840&q=90&fm=webp)
 
-[Better prompt caching for GPT-6ProductSep 22, 2026](</index/better-prompt-caching-for-gpt-6/>)
+[Proaction boosts sales 60% and saves 75+ hours with CodexSep 25, 2026](</index/proaction/>)
 
-![Introducing GPT-6 Sol and Luna — Art card](https://images.ctfassets.net/kftzwdyauwt9/4HANTuYDvaT04gpR91bEQ9/885481304c5675cb7525bcccbe8c5580/gpt-6-sol-luna-art.png?w=3840&q=90&fm=webp)
+![Two years of OpenAI Academy — card image](https://images.ctfassets.net/kftzwdyauwt9/Tc4KzRhOgVSaIxQoUkr9R/25c2cf38c314d47e6f3cb93e54e382aa/two-years-of-openai-academy-cover.png?w=3840&q=90&fm=webp)
 
-[Introducing GPT-6 Sol and LunaProductSep 22, 2026](</index/introducing-gpt-6-sol-and-luna/>)
+[Two years of OpenAI AcademyCompanySep 23, 2026](</index/two-years-of-openai-academy/>)
 
-![Parallel customer story card image - Option C](https://images.ctfassets.net/kftzwdyauwt9/IE8b4WhSed5XqFQUzyyp7/40124aabc92ea8266c99be14d0f380f1/square.png?w=3840&q=90&fm=webp)
+![OpenAI extends cyber access to Ukraine for civilian defense — cover](https://images.ctfassets.net/kftzwdyauwt9/4NsiJiqUurW5ypfaulGCFm/8b5bfad7d895c4fc6aa20766d5c88b0c/openai-extends-cyber-access-to-ukraine-for-civilian-defense-cover.png?w=3840&q=90&fm=webp)
 
-[Parallel cut research time and cost in half with GPT‑6 AstraStartupSep 22, 2026](</index/parallel-cuts-time-and-cost-with-astra/>)
+[OpenAI extends cyber access to Ukraine for civilian defenseGlobal AffairsSep 23, 2026](</index/openai-extends-cyber-access-to-ukraine-for-civilian-defense/>)
 
 Research
 
