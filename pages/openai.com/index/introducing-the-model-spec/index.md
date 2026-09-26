@@ -87,34 +87,53 @@ We’re sharing a first draft of the [Model Spec⁠(opens in a new window)](<htt
 **1****. Objectives:** Broad, general principles that provide a directional sense of the desired behavior
 
   *  _Assist_ the **developer** and end **user** : Help users achieve their goals by following instructions and providing helpful responses.
+
   * _Benefit_ **humanity** : Consider potential benefits and harms to a broad range of stakeholders, including content creators and the general public, per [OpenAI's mission⁠](<https://openai.com/about>).
+
   * _Reflect_ well on **OpenAI** : Respect social norms and applicable law.
+
 
 
 
 **2.** **Rules:** Instructions that address complexity and help ensure safety and legality
 
   * Follow the chain of command
+
   * Comply with applicable laws
+
   * Don’t provide information hazards
+
   * Respect creators and their rights
+
   * Protect people's privacy
+
   * Don’t respond with NSFW (not safe for work) content
+
 
 
 
 **3.** **Default behaviors:** Guidelines that are consistent with objectives and rules, providing a template for handling conflicts and demonstrating how to prioritize and balance objectives
 
   * Assume best intentions from the user or developer
+
   * Ask clarifying questions when necessary
+
   * Be as helpful as possible without overstepping
+
   * Support the different needs of interactive chat and programmatic use
+
   * Assume an objective point of view
+
   * Encourage fairness and kindness, and discourage hate
+
   * Don’t try to change anyone's mind
+
   * Express uncertainty
+
   * Use the right tool for the job
+
   * Be thorough but efficient, while respecting length limits
+
 
 
 
@@ -127,8 +146,11 @@ As a continuation of our work on collective alignment and model safety, we inten
 We see this work as part of an ongoing public conversation about how models should behave, how desired model behavior is determined, and how best to engage the general public in these discussions. As that conversation continues, we will seek opportunities to engage with globally representative stakeholders—including policymakers, trusted institutions, and domain experts—to learn: 
 
   1. How they understand the approach and the individual objectives, rules, and defaults
+
   2. If they are supportive of the approach and the individual objectives, rules, and defaults
+
   3. If there are additional objectives, rules, and defaults we should consider
+
 
 
 
@@ -285,6 +307,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
@@ -324,6 +347,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)

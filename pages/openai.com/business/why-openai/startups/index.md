@@ -318,7 +318,7 @@ Load more
 
 [Higgsfield AI ships new video features in a day with GPT-6 AstraStartupSep 21, 2026](</index/higgsfield-from-prompt-to-production-with-astra/>)
 
-![V7 customer story hero art card - graphite texture](https://images.ctfassets.net/kftzwdyauwt9/69ITITTOHLrgzbSw13s3L1/eded3a71f9961eacc29f699371f3a9f2/V7-art-card-1x1-option-a.png?w=3840&q=90&fm=webp)
+![V7 customer story art card - smaller logo](https://images.ctfassets.net/kftzwdyauwt9/3Av2nLs9MOiSrB5wMXLvL2/35fbde20aca9773bd64b1e8ea2897750/square.png?w=3840&q=90&fm=webp)
 
 [How V7 gives AI agents institutional memoryStartupSep 21, 2026](</index/v7/>)
 

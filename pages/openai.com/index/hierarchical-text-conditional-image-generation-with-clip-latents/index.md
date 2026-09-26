@@ -58,15 +58,15 @@ Aditya Ramesh, Prafulla Dhariwal, Alex Nichol, Casey Chu, Mark Chen
 
 [View all](</news/>)
 
-![Whisper](https://images.ctfassets.net/kftzwdyauwt9/13c810cb-0592-442d-190ab7378bef/a7cb2299d034abe93023f662f8d32263/Speech_Rec_16_9.png?w=3840&q=90&fm=webp)
+![An abstract expressionist painting with soft, pastel colors depicting a pond and orange flowers.](https://images.ctfassets.net/kftzwdyauwt9/13c810cb-0592-442d-190ab7378bef/a7cb2299d034abe93023f662f8d32263/Speech_Rec_16_9.png?w=3840&q=90&fm=webp)
 
 [Introducing WhisperReleaseSep 21, 2022](</index/whisper/>)
 
-![An aerial view of a crowd of people facing away, wearing hats and bearing flags](https://images.ctfassets.net/kftzwdyauwt9/d22f177f-5116-4b3b-5ddcdbe54569/b657a1299069351973db72804b5811d1/image_131.png?w=3840&q=90&fm=webp)
+![A crowd of people holding colorful flags and signs looking away from the camera.](https://images.ctfassets.net/kftzwdyauwt9/d22f177f-5116-4b3b-5ddcdbe54569/b657a1299069351973db72804b5811d1/image_131.png?w=3840&q=90&fm=webp)
 
 [DALL·E 2 pre-training mitigationsPublicationJun 28, 2022](</index/dall-e-2-pre-training-mitigations/>)
 
-![Solving Some Formal Math Olympiad Problems](https://images.ctfassets.net/kftzwdyauwt9/107bb1e1-daad-40bf-85975dfa741c/57d987d185a7a46828ea203bb0132867/image-12_copy.png?w=3840&q=90&fm=webp)
+![An abstract expressionist painting with yellow, blue, and green.](https://images.ctfassets.net/kftzwdyauwt9/107bb1e1-daad-40bf-85975dfa741c/57d987d185a7a46828ea203bb0132867/image-12_copy.png?w=3840&q=90&fm=webp)
 
 [Solving (some) formal math olympiad problemsMilestoneFeb 2, 2022](</index/formal-math/>)
 
@@ -80,6 +80,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
@@ -119,6 +120,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)

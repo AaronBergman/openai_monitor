@@ -83,9 +83,13 @@ As part of our iterative deployment framework, this early prototype also played 
 [_In March of this year_ ⁠](<https://openai.com/index/navigating-the-challenges-and-opportunities-of-synthetic-voices/>), we previewed Voice Engine’s capability of creating custom voices with a small set of trusted partners. This initiative aimed to raise awareness about the capabilities of synthetic voices and support the following goals:
 
   * Phasing out voice based authentication as a security measure for accessing bank accounts and other sensitive information
+
   * Exploring policies to protect the use of individuals' voices in AI
+
   * Educating the public in understanding the capabilities and limitations of AI technologies, including the possibility of deceptive AI content
+
   * Accelerating the development and adoption of techniques for tracking the origin of audiovisual content, so it’s always clear when you’re interacting with a real person or with an AI
+
 
 
 
@@ -123,6 +127,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
@@ -162,6 +167,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)

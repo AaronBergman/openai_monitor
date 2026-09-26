@@ -81,8 +81,11 @@ As described in our [_technical report_ ⁠](<https://openai.com/index/video-gen
 Sora was trained on diverse datasets, including a mix of publicly available data, proprietary data accessed through partnerships, and custom datasets developed in-house. These consist of:
 
   * **Select publicly available data** , mostly collected from industry-standard machine learning datasets and web crawls.
+
   * **Proprietary data from data partnerships**. We form partnerships to access non-publicly available data. For example, we partnered with Shutterstock⁠ Pond5 on building and delivering AI-generated images. We also partner to commission and create datasets fit for our needs.
+
   * **Human data:** Feedback from AI trainers, red teamers, and employees. 
+
 
 
 
@@ -161,9 +164,13 @@ In addition to the protections we have built into the model and system to preven
 We are also clearly communicating policy guidelines through in-product and publicly available education on:
 
   * Use of another person’s likeness without their permission, and a prohibition on depicting real minors;
+
   * Creating illegal content or content that violates intellectual property rights;
+
   * The generation of explicit and harmful content, such as non-consensual intimate imagery, content used to bully, harass, or defame, or content intended to promote violence, hatred, or the suffering of others; and 
+
   * The creation and distribution of content used to defraud, scam, or mislead others.
+
 
 
 
@@ -186,8 +193,11 @@ OpenAI is [_deeply committed to addressing_ ⁠](</index/child-safety-adopting-s
 For Child Safety we leverage 3 different input mitigations across text, image and video input: 
 
   * For all image and video uploads, we integrate with Safer, developed by Thorn, to detect matches with known CSAM. Confirmed matches are rejected and reported to NCMEC. Additionally, we utilize Thorn’s CSAM classifier to identify potentially new, unhashed CSAM content.
+
   * We leverage a multi-modal moderation classifier to detect and moderate any sexual content that involves minors via text, image and video input. 
+
   * For Sora, we developed a classifier to analyze text and images to predict whether an individual under the age of 18 is depicted or if the accompanying caption references a minor. We reject requests for image to video that contain under-18 individuals. If text-to-video is determined to be under 18, we enforce much stricter thresholds for moderation related to sexual, violent or self-harm content. 
+
 
 
 
@@ -210,7 +220,9 @@ Note: precision is calculated as the % of is_child classifications that are real
 As mentioned above, once we identify a reference to minors on text input with our under-18 classifier, we enforce strict thresholds for moderation related to sexual, violent or self harm content on output. Below are the two output classifiers we use to achieve this: 
 
   * Multi modal moderation classifier which scans for unsafe video outputs reject requests that may be particularly sensitive 
+
   * We are also leveraging our existing DALL·E image classifier to scan for violations related to child safety.
+
 
 
 
@@ -273,8 +285,11 @@ Given that many risks associated with Sora, such as harmful deepfake content, ar
 For general availability, our provenance safety tooling will include:
 
   * C2PA metadata on all assets (verifiable origin, industry standard)
+
   * Animated visible Sora watermarks by default (transparency of viewers that this ‘AI’)
+
   * Internal reverse video search tool, to help members of OpenAI’s Intelligence & Investigation team assess with high confidence if content is created by Sora 
+
 
 
 
@@ -315,7 +330,9 @@ Thank you to all of OpenAI's internal teams, including Comms, Comms Design, Glob
 We are grateful to our group of Alpha artists and our expert red teamers who provided feedback, helped test our models at early stages of development and informed our risk assessments and evaluations. Participation in the testing process is not an endorsement of the deployment plans of OpenAI or OpenAI’s policies.
 
   * **Red Teaming Individuals (alphabetical):** Alexandra García Pérez, Arjun Singh Puri, Caroline Friedman Levy, Dani Madrid-Morales, Emily Lynell Edwards, Grant Brailsford, Herman Wasserman, Javier García Arredondo, Kate Turetsky, Kelly Bare, Matt Groh, Maximilian Müller, Naomi Hart, Nathan Heath, Patrick Caughey, Per Wikman Svahn, Rafael González-Vázquez, Sara Kingsley, Shelby Grossman, Vincent Nestler
+
   * **Red Teaming Organizations:** ScaleAI****
+
 
 
 
@@ -369,6 +386,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
@@ -408,6 +426,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)

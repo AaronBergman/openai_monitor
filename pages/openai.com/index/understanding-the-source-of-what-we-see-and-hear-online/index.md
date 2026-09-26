@@ -70,23 +70,36 @@ Contributing to authenticity standards
 _**Researching text solutions**_
 
   *  _Our teams have prioritized launching audiovisual content provenance solutions, which are widely considered to present higher levels of risk at this stage of capabilities of our models._
+
   * _We have also done extensive research on the area of text provenance and have explored a range of solutions, including classifiers, watermarking and metadata. You can read more on these efforts in_[ _this case study we did with the Partnership on AI_ ⁠(opens in a new window)](<https://partnershiponai.org/wp-content/uploads/2024/03/pai-synthetic-media-case-study-openai.pdf>)_._
+
   * _A few updates on some of the approaches we’re currently researching and considering:_
+
     * _Text watermarking_
+
       *  _Our teams have developed a text watermarking method that we continue to consider as we research alternatives._
+
       * _While it has been highly accurate and even effective against localized tampering, such as paraphrasing, it is less robust against globalized tampering; like using translation systems, rewording with another generative model, or asking the model to insert a special character in between every word and then deleting that character - making it trivial to circumvention by bad actors._
+
       * _Another important risk we are weighing is that our research suggests the text watermarking method has the potential to disproportionately impact some groups. For example, it could stigmatize use of AI as a useful writing tool for non-native English speakers._
+
     * _Text metadata_
+
       *  _Our teams are also researching how metadata could be used as a text provenance method._
+
       * _We are still in the early stages of exploration, so it is too early to gauge how effective the approach will be, but there are characteristics of metadata that would make this approach particularly promising._
+
       * _For example, unlike watermarking, metadata is cryptographically signed, which means that there are no false positives. We expect this will be increasingly important as the volume of generated text increases. While text watermarking has a low false positive rate, applying it to large volumes of text would lead to a large number of total false positives._
+
 
 
 
 **_Expanding our image detection tools as we build new features_**
 
   *  _As part of our continued efforts on content provenance, we’ve been working to include_[ _C2PA_ ⁠(opens in a new window)](<https://c2pa.org/>)_metadata – a widely used standard for digital content – as we update features in our products. As users can now edit DALL-E 3 generated images in ChatGPT, we wanted to ensure that provenance information continues to be demonstrated along with those edits. If a user edits an image, we’ve built in a means for our C2PA credential to show that the image was edited and how._
+
   * _In the example image, you can see the original AI-generated picture of a caterpillar, then edited to have the caterpillar wearing a Santa hat. When a user edits this image, the C2PA credentials update to reflect these changes, ensuring transparency. The C2PA credential includes details like the app and tool used (OpenAI’s DALL-E), the actions taken (like format conversion and edits), and other modifications. This way, the entire history of the image is tracked and displayed._
+
 
 
 
@@ -161,6 +174,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
@@ -200,6 +214,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)

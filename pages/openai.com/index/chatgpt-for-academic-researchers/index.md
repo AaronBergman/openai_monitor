@@ -135,7 +135,7 @@ OpenAI
 
 [View all](</news/>)
 
-![Owl story hero image](https://images.ctfassets.net/kftzwdyauwt9/5Owa7Jyi5pMx1lDrvN1B2C/3036661e68edf2e77d2d5d2454653740/2026_04_Gardi_ProjectOwl_KittPeak_Day1_02144.jpg?w=3840&q=90&fm=webp)
+![CK Chan stands inside a large radio telescope dish.](https://images.ctfassets.net/kftzwdyauwt9/5Owa7Jyi5pMx1lDrvN1B2C/3036661e68edf2e77d2d5d2454653740/2026_04_Gardi_ProjectOwl_KittPeak_Day1_02144.jpg?w=3840&q=90&fm=webp)
 
 [Creating new simulations of black holes with CodexJun 11, 2026](</index/creating-new-simulations-black-holes/>)
 

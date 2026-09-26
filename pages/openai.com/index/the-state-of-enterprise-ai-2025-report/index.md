@@ -67,7 +67,9 @@ Today, we’re excited to introduce [the state of enterprise AI report⁠(opens 
 This analysis draws on two novel sources of data:
 
   * Real-world usage data from enterprise customers of OpenAI.
+
   * An OpenAI survey of 9,000 workers across almost 100 enterprises documenting patterns of AI adoption.
+
 
 
 
@@ -78,8 +80,11 @@ _All data points were deidentified and aggregated to preserve privacy._
 The picture that emerges is clear: enterprise AI adoption is accelerating not just in breadth, but in depth. It is reshaping how people work, how teams collaborate, and how organizations build and deliver products.
 
   * Over the past year weekly messages in ChatGPT Enterprise increased roughly 8×, and the average worker is sending 30% more messages.
+
   * Usage of structured workflows such as Projects and Custom GPTs has increased 19× year-to-date, showing a shift from casual querying to integrated, repeatable processes.
+
   * Average reasoning token consumption per organization has increased by approximately 320× in the past 12 months, suggesting that more intelligent models are being systematically integrated into expanding products and services.
+
 
 
 
@@ -90,7 +95,9 @@ People aren’t just using AI more often. They are using it for increasingly sop
 AI is gaining traction across every sector, but we’re seeing especially strong momentum in:
 
   * Technology, healthcare, and manufacturing, which are the fastest growing sectors.
+
   * Professional services, finance, and technology, which operate at the largest scale.
+
 
 
 
@@ -103,16 +110,22 @@ International API customer growth has exceeded 70% over the last six months, wit
 Across surveyed enterprises, 75% of workers report that using AI at work has improved either the speed or quality of their output. Workers report saving 40-60 minutes per day, with heavy users reporting more than 10 hours per week. Workers report AI is contributing to value across departments:
 
   * 87% of IT workers report faster IT issue resolution.
+
   * 85% of marketing and product users report faster campaign execution.
+
   * 75% of HR professionals report improved employee engagement.
+
   * 73% of engineers report faster code delivery.
+
 
 
 
 Crucially, AI is not just helping people do the same work faster—it is enabling people to do new kinds of work.
 
   * Coding-related messages increased 36% for workers outside of technical functions.
+
   * 75% of users report being able to complete new tasks they previously could not perform.
+
 
 
 
@@ -123,8 +136,11 @@ AI reduces the gap between intent and execution. Individuals can translate ideas
 Our data shows a widening gap between “frontier” workers and firms, and the median.
 
   * Frontier workers (95th percentile) send 6× more messages than the median employee and engage more intensively across advanced capabilities.
+
   * Frontier firms send 2× more messages per seat and show deeper integration of AI across teams.
+
   * These patterns are particularly meaningful given the finding that time savings increase as users consume more intelligence and engage across more distinct tasks.
+
 
 
 
@@ -150,17 +166,17 @@ OpenAI
 
 [View all](</news/>)
 
-![DMUA Russia > card image ](https://images.ctfassets.net/kftzwdyauwt9/ciRSLFnJsNyxXYQjdoyqu/ff8ab22ad273ff79a4c9840f0c209fe6/Frame.png?w=3840&q=90&fm=webp)
+![OpenAI extends cyber access to Ukraine for civilian defense — cover](https://images.ctfassets.net/kftzwdyauwt9/4NsiJiqUurW5ypfaulGCFm/8b5bfad7d895c4fc6aa20766d5c88b0c/openai-extends-cyber-access-to-ukraine-for-civilian-defense-cover.png?w=3840&q=90&fm=webp)
 
-[Disrupting a new covert influence campaign from RussiaGlobal AffairsAug 25, 2026](</index/disrupting-malicious-uses-of-ai-influence-campaign-russia/>)
+[OpenAI extends cyber access to Ukraine for civilian defenseGlobal AffairsSep 23, 2026](</index/openai-extends-cyber-access-to-ukraine-for-civilian-defense/>)
 
-![Strengthening Democratic Oversight in National Security — card image](https://images.ctfassets.net/kftzwdyauwt9/1qebg0OnHIh4dqr84zXR3Q/dba2f0e83ba4615a71894fd7fd1656e1/openai-democratic-oversight-page-cover-v002.png?w=3840&q=90&fm=webp)
+![Sam Altman’s remarks at the United Nations Security Council cover image](https://images.ctfassets.net/kftzwdyauwt9/4O6fFZArVSBeCoNjTFwXXZ/cc5e374a6b62b8f328555f002b3bca49/sam-altman-s-remarks-at-the-united-nations-security-council-cover.png?w=3840&q=90&fm=webp)
 
-[Strengthening Democratic Oversight in National SecurityGlobal AffairsAug 18, 2026](</index/strengthening-democratic-oversight-in-national-security/>)
+[Sam Altman’s remarks at the United Nations Security CouncilGlobal AffairsSep 23, 2026](</index/sam-altman-un-security-council-remarks/>)
 
-![OpenAI joins PORTS-Pike project, expanding community investment and supporting thousands of Southern Ohio jobs — card image](https://images.ctfassets.net/kftzwdyauwt9/6RUPcXx0eTGghDpM851Qy1/ab11d2d0849ad9544249bf7b77ee46fe/openai-joins-ports-pike-project-cover-v001.png?w=3840&q=90&fm=webp)
+![Grab and OpenAI bring practical AI skills to Southeast Asia — cover](https://images.ctfassets.net/kftzwdyauwt9/54XrkC2PjMSkrDcHjY0L2j/403cfe92efa0592525d62bded987ce5c/grab-and-openai-bring-practical-ai-skills-to-southeast-asia-cover.png?w=3840&q=90&fm=webp)
 
-[OpenAI joins PORTS-Pike projectGlobal AffairsAug 17, 2026](</index/openai-joins-ports-pike-project/>)
+[Grab and OpenAI bring practical AI skills to Southeast AsiaGlobal AffairsSep 23, 2026](</index/grab-openai-ai-skills-southeast-asia/>)
 
 Research
 
@@ -172,6 +188,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
@@ -211,6 +228,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)

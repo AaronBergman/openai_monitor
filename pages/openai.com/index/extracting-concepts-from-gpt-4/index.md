@@ -76,20 +76,6 @@ We used our recipe to train a variety of autoencoders on GPT‑2 small and GPT�
 
 Human ImperfectionPrice IncreasesX and YTraining LogsRhetorical QuestionsAlgebraic RingsWho/What theDopamine
 
-GPT-4 feature: phrases relating to things (especially humans) being flawed
-
-[View full visualization(opens in a new window)](<https://openaipublic.blob.core.windows.net/sparse-autoencoder/sae-viewer/index.html#/model/gpt4/family/v5_latelayer_postmlp/feature/63541>)
-
-most people, it isn’t. We all have wonderful days, glimpses of what we perceive to be perfection, but we can also all have truly shit-tastic ones, and I can assure you that you’re not alone. So toddler of mine, and most other toddlers out there, remember; Don’t be a
-
-has warts. What system that is used to build real world software doesn't? I've built systems in a number of languages and frameworks and they all had warts and issues. How much research has the author done to find other solutions? The plea at the end seemed very lazywebish to me
-
-often put our hope in the wrong places – in the world, in other people, in our abilities or finances – but all of that is like sinking sand. The only place we can find hope is in Jesus Christ. These words by Kutless tell us just where we need to go to find hope. I lift my
-
-churches since the last Great Reformation has also become warped. I state again, while churches are formed and planted with the most Holy and Divine of inspirations, they are not free from the corruption of humanity. While they are of our great and perfect Father, they are on an imperfect Earth. And we Rogues are
-
-perfect. If anyone does not believe that let them say so. You really do appear to be just about a meter away from me. But you are actually in my brain. What artistry! What perfection! Not the slightest blurring. And in 3-D. Sound is also 3-D. And images.
-
 We found many other interesting features, which you can [_browse here_ ⁠(opens in a new window)](<https://openaipublic.blob.core.windows.net/sparse-autoencoder/sae-viewer/index.html>).
 
 ## Limitations
@@ -97,8 +83,11 @@ We found many other interesting features, which you can [_browse here_ ⁠(opens
 We are excited for interpretability to eventually increase model trustworthiness and steerability. However, this is still early work with many limitations:
 
   * Like previous works, many of the discovered features are still difficult to interpret, with many activating with no clear pattern or exhibiting spurious activations unrelated to the concept they seem to usually encode. Furthermore, we don’t have good ways to check the validity of interpretations.
+
   * The sparse autoencoder does not capture all the behavior of the original model. Currently, passing GPT‑4’s activations through the sparse autoencoder results in a performance equivalent to a model trained with roughly 10x less compute. To fully map the concepts in frontier LLMs, we may need to scale to billions or trillions of features, which would be challenging even with our improved scaling techniques.
+
   * Sparse autoencoders can find features at one point in the model, but that’s only one step towards interpreting the model. Much further work is required to understand how the model computes those features and how those features are used downstream in the rest of the model.
+
 
 
 
@@ -132,6 +121,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
@@ -171,6 +161,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -226,3 +217,17 @@ Terms & Policies
 OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
+
+GPT-4 feature: phrases relating to things (especially humans) being flawed
+
+[View full visualization(opens in a new window)](<https://openaipublic.blob.core.windows.net/sparse-autoencoder/sae-viewer/index.html#/model/gpt4/family/v5_latelayer_postmlp/feature/63541>)
+
+most people, it isn’t. We all have wonderful days, glimpses of what we perceive to be perfection, but we can also all have truly shit-tastic ones, and I can assure you that you’re not alone. So toddler of mine, and most other toddlers out there, remember; Don’t be a
+
+has warts. What system that is used to build real world software doesn't? I've built systems in a number of languages and frameworks and they all had warts and issues. How much research has the author done to find other solutions? The plea at the end seemed very lazywebish to me
+
+often put our hope in the wrong places – in the world, in other people, in our abilities or finances – but all of that is like sinking sand. The only place we can find hope is in Jesus Christ. These words by Kutless tell us just where we need to go to find hope. I lift my
+
+churches since the last Great Reformation has also become warped. I state again, while churches are formed and planted with the most Holy and Divine of inspirations, they are not free from the corruption of humanity. While they are of our great and perfect Father, they are on an imperfect Earth. And we Rogues are
+
+perfect. If anyone does not believe that let them say so. You really do appear to be just about a meter away from me. But you are actually in my brain. What artistry! What perfection! Not the slightest blurring. And in 3-D. Sound is also 3-D. And images.

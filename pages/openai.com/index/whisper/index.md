@@ -103,15 +103,15 @@ Zhang, Y., Park, D. S., Han, W., Qin, J., Gulati, A., Shor, J., Jansen, A., Xu, 
 
 [View all](</news/>)
 
-![Hierarchical Text Conditional Image Generation With Clip Latents](https://images.ctfassets.net/kftzwdyauwt9/7c44eedc-3563-4438-c613706c52b1/fcfc38b26fd4878a3c6b4ca8d1d73b17/hierarchical-text-conditional-image-generation-with-clip-latents.jpg?w=3840&q=90&fm=webp)
+![A painting of a white and brown cat playing chess in a surrealism style.](https://images.ctfassets.net/kftzwdyauwt9/7c44eedc-3563-4438-c613706c52b1/fcfc38b26fd4878a3c6b4ca8d1d73b17/hierarchical-text-conditional-image-generation-with-clip-latents.jpg?w=3840&q=90&fm=webp)
 
 [Hierarchical text-conditional image generation with CLIP latentsPublicationApr 13, 2022](</index/hierarchical-text-conditional-image-generation-with-clip-latents/>)
 
-![Solving Some Formal Math Olympiad Problems](https://images.ctfassets.net/kftzwdyauwt9/107bb1e1-daad-40bf-85975dfa741c/57d987d185a7a46828ea203bb0132867/image-12_copy.png?w=3840&q=90&fm=webp)
+![An abstract expressionist painting with yellow, blue, and green.](https://images.ctfassets.net/kftzwdyauwt9/107bb1e1-daad-40bf-85975dfa741c/57d987d185a7a46828ea203bb0132867/image-12_copy.png?w=3840&q=90&fm=webp)
 
 [Solving (some) formal math olympiad problemsMilestoneFeb 2, 2022](</index/formal-math/>)
 
-![Solving Math Word Problems](https://images.ctfassets.net/kftzwdyauwt9/433b7203-a2d4-4062-8ff51f6c1ac9/c61bd6b915dfd01deddff4fd5787d2e2/image-15.webp?w=3840&q=90&fm=webp)
+![An abstract expressionist painting in soft, pastel pink and purple, and orange palette.](https://images.ctfassets.net/kftzwdyauwt9/433b7203-a2d4-4062-8ff51f6c1ac9/c61bd6b915dfd01deddff4fd5787d2e2/image-15.webp?w=3840&q=90&fm=webp)
 
 [Solving math word problemsPublicationOct 29, 2021](</index/solving-math-word-problems/>)
 
@@ -125,6 +125,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
@@ -164,6 +165,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)

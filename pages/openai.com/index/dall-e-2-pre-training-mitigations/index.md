@@ -63,8 +63,11 @@ This post focuses on  _pre-training mitigations,_ a subset of these guardrails w
 This post is organized in three sections, each describing a different pre-training mitigation:
 
   * In the first section, we describe how we filtered out violent and sexual images from DALL·E 2’s training dataset. Without this mitigation, the model would learn to produce graphic or explicit images when prompted for them, and might even return such images unintentionally in response to seemingly innocuous prompts.
+
   * In the second section, we find that filtering training data can amplify biases, and describe our technique to mitigate this effect. For example, without this mitigation, we noticed that models trained on filtered data sometimes generated more images depicting men and fewer images depicting women compared to models trained on the original dataset.
+
   * In the final section, we turn to the issue of memorization, finding that models like DALL·E 2 can sometimes reproduce images they were trained on rather than creating novel images. In practice, we found that this  _image regurgitation_ is caused by images that are replicated many times in the dataset, and mitigate the issue by removing images that are visually similar to other images in the dataset.
+
 
 
 
@@ -137,8 +140,11 @@ Once we had a model trained on deduplicated data, we reran the regurgitation sea
 While all of the mitigations discussed above represent significant progress towards our goal of reducing the risks associated with DALL·E 2, each mitigation still has room to improve:
 
   * Better pre-training filters could allow us to train DALL·E 2 on more data and potentially further reduce bias in the model. Our current filters are tuned for a low miss-rate at the cost of many false positives. As a result, we filtered out roughly 5% of our entire dataset even though most of these filtered images do not violate our content policy at all. Improving our filters could allow us to reclaim some of this training data.
+
   * Bias is introduced and potentially amplified at many stages of system development and deployment. Evaluating and mitigating the bias in systems like DALL·E 2 and the harm induced by this bias is an important interdisciplinary problem that we continue to study at OpenAI as part of our broader mission. Our work on this includes building evaluations to better understand the problem, curating new datasets, and applying techniques like human feedback and fine-tuning to build more robust and representative technologies.
+
   * It is also crucial that we continue to study memorization and generalization in deep learning systems. While deduplication is a good first step towards preventing memorization, it does not tell us everything there is to learn about why or how models like DALL·E 2 memorize training data.
+
 
 
 
@@ -185,15 +191,15 @@ Greg Brockman, Aditya Ramesh, Pamela Mishkin, Mark Chen, Pranav Shyam, Casey Chu
 
 [View all](</news/>)
 
-![Democratic Inputs To AI Grant Program Update](https://images.ctfassets.net/kftzwdyauwt9/f50ce1d2-4f61-4ed2-e560c624d631/6f4dd4542898a35d0a91b137f85c9834/Democratic_inputs_to_AI_grant_program_lessons_learned_and_implementation_plans.jpg?w=3840&q=90&fm=webp)
+![Abstract floral pattern with vibrant purple blooms on a green backdrop](https://images.ctfassets.net/kftzwdyauwt9/f50ce1d2-4f61-4ed2-e560c624d631/6f4dd4542898a35d0a91b137f85c9834/Democratic_inputs_to_AI_grant_program_lessons_learned_and_implementation_plans.jpg?w=3840&q=90&fm=webp)
 
 [Democratic inputs to AI grant program: lessons learned and implementation plansSafetyJan 16, 2024](</index/democratic-inputs-to-ai-grant-program-update/>)
 
-![Practices For Governing Agentic AI Systems](https://images.ctfassets.net/kftzwdyauwt9/dfdeca52-d054-4ce9-18d684209ff9/f3a2e6e71ebefb70fca386ff7bbb9d92/practices-for-governing-agentic-ai-systems.jpg?w=3840&q=90&fm=webp)
+![An abstract expressionist painting with a flurry of blue, white, orange, and red brushstrokes, evoking the bustling energy of an urban skyline.](https://images.ctfassets.net/kftzwdyauwt9/dfdeca52-d054-4ce9-18d684209ff9/f3a2e6e71ebefb70fca386ff7bbb9d92/practices-for-governing-agentic-ai-systems.jpg?w=3840&q=90&fm=webp)
 
 [Practices for Governing Agentic AI SystemsPublicationDec 14, 2023](</index/practices-for-governing-agentic-ai-systems/>)
 
-![Confidence-Building Measures for Artificial Intelligence Workshop proceedings](https://images.ctfassets.net/kftzwdyauwt9/Z9HqTzpgkOEFSdz1i0Mkl/4a794853a9d3412851d52a0e18d407f3/Confidence-Building_Measures_for_Artificial_Intelligence__Workshop_proceedings.png?w=3840&q=90&fm=webp)
+![A digital painting with a pastel landscape of rolling hills under a soft pink sky, suggesting a peaceful dawn](https://images.ctfassets.net/kftzwdyauwt9/Z9HqTzpgkOEFSdz1i0Mkl/4a794853a9d3412851d52a0e18d407f3/Confidence-Building_Measures_for_Artificial_Intelligence__Workshop_proceedings.png?w=3840&q=90&fm=webp)
 
 [Confidence-Building Measures for Artificial Intelligence: Workshop proceedingsConclusionAug 1, 2023](</index/confidence-building-measures-for-artificial-intelligence/>)
 
@@ -207,6 +213,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
@@ -246,6 +253,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)

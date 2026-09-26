@@ -67,9 +67,13 @@ We find evidence of breaking issues in a significant portion of the dataset. Our
 The issues primarily fell into four categories:
 
   * _Overly strict tests_1 enforce specific implementation details not specified in the prompt, invalidating many functionally correct submissions.
+
   * _Underspecified prompts_2 omit requirements that hidden tests enforce and that are not reasonably inferable.
+
   * _Low-coverage tests_ under check the requested feature, so incomplete fixes can pass.
+
   * A _misleading prompt_ points models toward the wrong behavior or contradicts what tests require.
+
 
 
 
@@ -102,54 +106,6 @@ Compared with the agent pipeline, the human reviewers were also more likely to s
 ### Failure modes
 
 Misleading promptOverly strict testsUnderspecified promptLow-coverage tests
-
-In several cases the task prompt prescribed a specific implementation, but the hidden test cases expected different behavior.
-
-## OpenLibrary-77c16d5
-
-This task involves normalizing table-of-contents entries and rendering them back to Markdown via `TocEntry.to_markdown()`. The task prompt specifies serialization down to character-level spacing, describing how exact spacing and pipes are enforced, and gives examples such as `" | Chapter 1 | 1"` and `"** | Chapter 1 | 1"`:
-
-#### None
-
-`
-    
-    
-    1
-    
-    "[space]| Chapter 1 | 1"
-    
-    2
-    
-    "**[space]| Chapter 1 | 1"
-    
-    3
-    
-    "[space]| Just title | "
-
-`
-
-The hidden `test_to_markdown` assertions instead require `" | Chapter 1 | 1"` and `"** | Chapter 1 | 1"`:
-
-#### None
-
-`
-    
-    
-    1
-    
-    "[space][space]| Chapter 1 | 1"
-    
-    2
-    
-    "**[space][space]| Chapter 1 | 1"
-    
-    3
-    
-    "[space][space]| Just title | "
-
-`
-
-There are two leading spaces in the hidden tests, but the example given to the model only contains one leading space. If a model rightly follows the given prompt, that one-character difference would fail the hidden test cases and the task would be marked incorrect.
 
 ## Discussion
 
@@ -187,15 +143,17 @@ We previously referred to this category as wide tests.
 
 [View all](</news/>)
 
-[The Hugging Face incident and the road aheadSecurityAug 26, 2026](</index/hugging-face-incident-and-the-road-ahead/>)
+![Mental Health Bench art card](https://images.ctfassets.net/kftzwdyauwt9/1GVQAEpVME68kCI7Ol2ApW/abde191546741612492ae27f9baf7f3e/Mental_Health_Bench__art_card.png?w=3840&q=90&fm=webp)
 
-![Pacing model development in an era of cyber-critical capabilities — Card image](https://images.ctfassets.net/kftzwdyauwt9/3tUOfo4E1xZComoOiRjHJm/51c532f25dd4062f92bff0e41ea00c3c/index-pacing-model-development-cyber-capabilities-dark-cover.png?w=3840&q=90&fm=webp)
+[Introducing MentalHealthBenchPublicationSep 23, 2026](</index/introducing-mentalhealthbench/>)
 
-[Pacing model development in an era of cyber-critical capabilitiesCompanyAug 18, 2026](</index/pacing-model-development-cyber-capabilities/>)
+![Introducing GPT-6 Sol and Luna — Art card](https://images.ctfassets.net/kftzwdyauwt9/4HANTuYDvaT04gpR91bEQ9/885481304c5675cb7525bcccbe8c5580/gpt-6-sol-luna-art.png?w=3840&q=90&fm=webp)
 
-![math-breakthroughs art-card 1x1](https://images.ctfassets.net/kftzwdyauwt9/2zkd5RIOug4FcEj62mdSF4/3ea9e19c0456289c69f0d839cc929cb2/math-breakthroughs_art-card_1x1.png?w=3840&q=90&fm=webp)
+[Introducing GPT-6 Sol and LunaProductSep 22, 2026](</index/introducing-gpt-6-sol-and-luna/>)
 
-[Ten advances in mathematics and theoretical computer sciencePublicationAug 1, 2026](</index/ten-advances-in-mathematics/>)
+![Our framework for reporting model misalignment — card image](https://images.ctfassets.net/kftzwdyauwt9/3mJz9GkBOjZvAMYPx8M1dj/2a9ac4b7e18b1c08feef5368c4fde2e2/model-misalignment-reporting-framework--cover-v002.png?w=3840&q=90&fm=webp)
+
+[Our framework for reporting model misalignmentResearchSep 16, 2026](</index/model-misalignment-reporting-framework/>)
 
 Research
 
@@ -207,6 +165,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
@@ -246,6 +205,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -301,3 +261,51 @@ Terms & Policies
 OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
+
+In several cases the task prompt prescribed a specific implementation, but the hidden test cases expected different behavior.
+
+## OpenLibrary-77c16d5
+
+This task involves normalizing table-of-contents entries and rendering them back to Markdown via `TocEntry.to_markdown()`. The task prompt specifies serialization down to character-level spacing, describing how exact spacing and pipes are enforced, and gives examples such as `" | Chapter 1 | 1"` and `"** | Chapter 1 | 1"`:
+
+#### None
+
+`
+    
+    
+    1
+    
+    "[space]| Chapter 1 | 1"
+    
+    2
+    
+    "**[space]| Chapter 1 | 1"
+    
+    3
+    
+    "[space]| Just title | "
+
+`
+
+The hidden `test_to_markdown` assertions instead require `" | Chapter 1 | 1"` and `"** | Chapter 1 | 1"`:
+
+#### None
+
+`
+    
+    
+    1
+    
+    "[space][space]| Chapter 1 | 1"
+    
+    2
+    
+    "**[space][space]| Chapter 1 | 1"
+    
+    3
+    
+    "[space][space]| Just title | "
+
+`
+
+There are two leading spaces in the hidden tests, but the example given to the model only contains one leading space. If a model rightly follows the given prompt, that one-character difference would fail the hidden test cases and the task would be marked incorrect.
