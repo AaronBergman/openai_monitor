@@ -1,0 +1,117 @@
+{
+  "run_id": "2026-09-27T09-16Z",
+  "fetch_time": "2026-09-27T09:16:59Z",
+  "baseline": "2026-09-26T09-15Z",
+  "added": [],
+  "removed": [],
+  "updated": [
+    {
+      "url": "https://openai.com/business/learn/how-our-data-analytics-team-uses-chatgpt-work/",
+      "old_lastmod": "2026-09-25T20:28:10.353Z",
+      "new_lastmod": "2026-09-26T16:04:20.874Z"
+    },
+    {
+      "url": "https://openai.com/business/learn/how-our-marketing-team-uses-chatgpt-work/",
+      "old_lastmod": "2026-09-24T19:18:20.856Z",
+      "new_lastmod": "2026-09-26T16:01:45.565Z"
+    },
+    {
+      "url": "https://openai.com/hugging-face-incident-and-misalignment/",
+      "old_lastmod": "2026-09-26T08:31:23.947Z",
+      "new_lastmod": "2026-09-27T08:27:10.473Z"
+    },
+    {
+      "url": "https://openai.com/index/accelerating-antibiotic-discovery/",
+      "old_lastmod": "2026-09-24T19:00:09.986Z",
+      "new_lastmod": "2026-09-26T10:16:00.616Z"
+    },
+    {
+      "url": "https://openai.com/index/astra-for-law/",
+      "old_lastmod": "2026-09-25T19:16:14.009Z",
+      "new_lastmod": "2026-09-26T11:57:04.491Z"
+    },
+    {
+      "url": "https://openai.com/index/australian-youth-safety-blueprint/",
+      "old_lastmod": "2026-09-25T19:16:12.301Z",
+      "new_lastmod": "2026-09-26T15:28:43.733Z"
+    },
+    {
+      "url": "https://openai.com/index/cooley-gopublic/",
+      "old_lastmod": "2026-09-25T13:15:07.048Z",
+      "new_lastmod": "2026-09-26T15:05:09.956Z"
+    },
+    {
+      "url": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths/",
+      "old_lastmod": "2026-09-25T19:16:11.008Z",
+      "new_lastmod": "2026-09-27T08:53:31.242Z"
+    },
+    {
+      "url": "https://openai.com/index/grab-openai-ai-skills-southeast-asia/",
+      "old_lastmod": "2026-09-26T00:03:19.809Z",
+      "new_lastmod": "2026-09-26T19:44:05.836Z"
+    },
+    {
+      "url": "https://openai.com/index/hex-gpt-6-astra/",
+      "old_lastmod": "2026-09-25T20:29:15.676Z",
+      "new_lastmod": "2026-09-26T12:23:34.653Z"
+    },
+    {
+      "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra/",
+      "old_lastmod": "2026-09-26T03:33:48.770Z",
+      "new_lastmod": "2026-09-26T12:05:33.141Z"
+    },
+    {
+      "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
+      "old_lastmod": "2026-09-25T19:18:10.151Z",
+      "new_lastmod": "2026-09-26T09:51:08.046Z"
+    },
+    {
+      "url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense/",
+      "old_lastmod": "2026-09-25T20:27:54.405Z",
+      "new_lastmod": "2026-09-26T22:35:22.165Z"
+    },
+    {
+      "url": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra/",
+      "old_lastmod": "2026-09-26T04:57:17.551Z",
+      "new_lastmod": "2026-09-26T22:21:19.281Z"
+    },
+    {
+      "url": "https://openai.com/index/reimagining-advertising-with-ai/",
+      "old_lastmod": "2026-09-25T19:16:11.371Z",
+      "new_lastmod": "2026-09-26T12:26:15.440Z"
+    },
+    {
+      "url": "https://openai.com/index/research-acceleration-view-inside-openai/",
+      "old_lastmod": "2026-09-26T01:15:03.316Z",
+      "new_lastmod": "2026-09-27T03:53:46.530Z"
+    },
+    {
+      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one/",
+      "old_lastmod": "2026-09-25T19:16:10.387Z",
+      "new_lastmod": "2026-09-26T14:25:04.165Z"
+    },
+    {
+      "url": "https://openai.com/index/two-years-of-openai-academy/",
+      "old_lastmod": "2026-09-26T07:11:00.634Z",
+      "new_lastmod": "2026-09-27T01:38:14.767Z"
+    },
+    {
+      "url": "https://openai.com/index/v7/",
+      "old_lastmod": "2026-09-25T07:35:13.003Z",
+      "new_lastmod": "2026-09-26T19:52:34.699Z"
+    },
+    {
+      "url": "https://openai.com/live/",
+      "old_lastmod": "2026-09-25T19:10:25.549Z",
+      "new_lastmod": "2026-09-26T22:26:19.898Z"
+    },
+    {
+      "url": "https://openai.com/products/release-notes/",
+      "old_lastmod": "2026-09-26T03:19:19.680Z",
+      "new_lastmod": "2026-09-26T19:49:19.281Z"
+    }
+  ],
+  "anomalies": [],
+  "fetch_failures": [],
+  "note": "All 21 lastmod-only updates were checked: none had substantive content changes (0 real diffs vs prior markdown snapshots). The 4 apparent sub-sitemap 'migrations' detected in an initial pass were a false positive caused by inconsistent iteration order when a URL is legitimately cross-listed in multiple sub-sitemaps (e.g. global-affairs.xml and global-affairs-news-listed.xml both list the same posts, unchanged from the prior run)."
+}
