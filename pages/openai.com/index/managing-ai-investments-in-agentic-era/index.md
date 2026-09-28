@@ -75,8 +75,11 @@ Enterprise leaders need **a plain view of AI usage:** who is using it, which pro
 Insights at different altitudes help guide investment and enablement decisions:
 
   * Workspace: Are adoption and spend moving together?
+
   * Team and user: Where is demand growing, and who may need more support?
+
   * Product and model: Where is more expensive intelligence being used, and is that demand sustained?
+
 
 
 
@@ -188,6 +191,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)

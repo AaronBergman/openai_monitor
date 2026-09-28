@@ -44,7 +44,7 @@ Focus areas
 
 OpenAI’s GPT series models are fast, versatile, and cost-efficient AI systems designed to understand context, generate content, and reason across text, images, and more.
 
-[A new generation of intelligenceReleaseSep 3, 202628 min read](</index/gpt-6-astra/>)
+[GPT‑6 Astra: A new generation of intelligenceReleaseSep 3, 202628 min read](</index/gpt-6-astra/>)
 
 ![GPT 5-6 > Card](https://images.ctfassets.net/kftzwdyauwt9/1a9IPPV5nXWydTBosgmgYI/8e03f28ca04f26edc8bc81cdba387df1/5-6.jpg?w=3840&q=90&fm=webp)
 
@@ -144,6 +144,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)

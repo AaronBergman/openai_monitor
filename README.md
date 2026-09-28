@@ -1,5 +1,36 @@
 # openai_monitor
 
+## 2026-09-28T09-17Z
+
+**Fetch time:** 2026-09-28T09:17Z (sitemap + 35 pages) UTC | **Baseline:** 2026-09-27T09-16Z (consecutive day)
+
+**TL;DR:** Another quiet, no-anomaly day. No pages added or removed; the sitemap held flat at 1,985 URLs across the same 42 sub-sitemaps. 35 URLs bumped their `<lastmod>` timestamp, but only 7 had any rendered difference at all, and none were substantive edits to article content: a "Plugins" footer-nav link continued its slow rollout to four more pages (`/index/devday-2026/`, `/index/managing-ai-investments-in-agentic-era/`, `/research/`, `/science/`), the `/research/` page tweaked one card's title to add a "GPT‑6 Astra:" prefix, and three pages' "latest posts" recirculation widgets rotated in newer already-known articles. `/live/` and `/index/devday-2026/` both got timestamp touches, consistent with OpenAI prepping for tomorrow's (Sep 29, 10 AM PDT) DevDay 2026 keynote livestream — not new news itself, just pre-event housekeeping.
+
+### Anomalies
+
+None. No future-dated or backwards-moving `<lastmod>` values, no URLs added/removed/reappeared, no sub-sitemap migrations.
+
+Full detail in [`runs/2026-09-28T09-17Z/analysis.md`](runs/2026-09-28T09-17Z/analysis.md).
+
+### Notable additions
+
+None this run.
+
+### Notable updates
+
+- **"Plugins" footer-nav rollout continues:** four more pages ([`/index/devday-2026/`](pages/openai.com/index/devday-2026/index.md), [`/index/managing-ai-investments-in-agentic-era/`](pages/openai.com/index/managing-ai-investments-in-agentic-era/index.md), [`/research/`](pages/openai.com/research/index.md), [`/science/`](pages/openai.com/science/index.md)) picked up the `[Plugins](/business/plugins/)` footer link seen spreading across the site on recent runs. The Plugins page itself is unchanged — this is template propagation, not new content.
+- **[`/research/`](pages/openai.com/research/index.md) card title tweak:** a release card's title changed from "A new generation of intelligence" to "GPT‑6 Astra: A new generation of intelligence" (same link, `/index/gpt-6-astra/`).
+- Three pages' "latest posts" recirculation carousels rotated to surface newer already-indexed articles in place of older ones (`/index/codex-flexible-pricing-for-teams/`, `/index/codex-for-almost-everything/`, `/index/previewing-gpt-5-6-sol/`) — automated widget behavior, not article edits.
+- 28 further URLs bumped `<lastmod>` with zero rendered-content difference — pure cache/CDN regeneration noise.
+
+### Removed pages
+
+None this run.
+
+_Stats: 1985 total URLs | 0 added | 35 updated (7 real, mostly cosmetic/nav) | 0 removed | 0 anomalies | 42 sub-sitemaps_
+
+---
+
 ## 2026-09-27T09-16Z
 
 **Fetch time:** 2026-09-27T09:17Z (sitemap + 21 pages) UTC | **Baseline:** 2026-09-26T09-15Z (consecutive day)
