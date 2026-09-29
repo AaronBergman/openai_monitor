@@ -37,8 +37,11 @@ This program helps reduce coding and review load with tools built for real maint
 Selected maintainers receive:
 
   * 6 months of ChatGPT Pro, which includes Codex
+
   * Conditional access to Codex Security
+
   * API credits for coding, maintainer automation, release workflows, and core open source work  
+
 
 
 
@@ -97,6 +100,7 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
@@ -136,6 +140,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)

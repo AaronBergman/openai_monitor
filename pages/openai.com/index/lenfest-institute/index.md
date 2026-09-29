@@ -40,7 +40,9 @@ Loading…
 
 Share
 
- _Editor’s Note: This news was originally shared by Lenfest Institute and can be read_[ _here_ ⁠(opens in a new window)](<https://www.lenfestinstitute.org/institute-news/lenfest-institute-openai-microsoft-ai-collaborative-fellowship>)_._
+** _Update, September 28, 2026_** _: OpenAI and the Lenfest Institute have announced the_[ _program’s next phase_ ⁠](<https://openai.com/index/lenfest-ai-collaborative-expansion/>) _._
+
+_Editor’s Note: This news was originally shared by Lenfest Institute and can be read_[ _here_ ⁠(opens in a new window)](<https://www.lenfestinstitute.org/institute-news/lenfest-institute-openai-microsoft-ai-collaborative-fellowship>)_._
 
 The Lenfest Institute for Journalism, a leader in developing solutions for the next era of local news, on Tuesday announced a major new collaboration with OpenAI and Microsoft Corp. to help newsrooms explore and implement ways in which artificial intelligence can help drive business sustainability and innovation in local journalism through the Lenfest Institute AI Collaborative and Fellowship program. 
 
@@ -55,10 +57,15 @@ The first slate of AI Collaborative and Fellows members will work on projects th
 The selected projects are: 
 
   * **Chicago Public Media,** which publishes The Chicago Sun-Times and runs public radio station WBEZ, will focus on leveraging AI for transcription, summarization and translation to expand content offerings and reach new audiences. 
+
   * **The Minnesota Star Tribune** will experiment with AI summarization, analysis and content discovery for both its journalists and readers. 
+
   * **Newsday** will build AI public data summarization and aggregation tools for its newsroom, for readers and for businesses as a marketing services offering. 
+
   * **The Philadelphia Inquirer** will use AI platforms to build a conversational search interface for its archives. It will also leverage AI to monitor and analyze media produced by local municipalities and agencies. 
+
   * **The Seattle Times** will use AI platforms to assist in advertising go-to-market, sales training support, and other sales analytics before rolling out learnings to other business functions and departments. 
+
 
 
 
@@ -89,9 +96,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
   * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -128,6 +136,9 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -161,6 +172,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

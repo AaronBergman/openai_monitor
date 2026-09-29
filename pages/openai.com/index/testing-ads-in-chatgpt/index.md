@@ -143,17 +143,17 @@ OpenAI
 
 [View all](</news/>)
 
+![How we will do better for Australia — Cover](https://images.ctfassets.net/kftzwdyauwt9/3SiXxEkdWUe8tQHvZb54qo/16b56e5dc615e45cd29845671386e74d/our-response-to-the-incidents-affecting-australian-government-agencies-cover.png?w=3840&q=90&fm=webp)
+
+[How we will do better for AustraliaCompanySep 28, 2026](</index/how-we-will-do-better-for-australia/>)
+
+![Lenfest AI Collaborative expansion — September 2026 — cover](https://images.ctfassets.net/kftzwdyauwt9/67l2OXB95GXzinbThkLw7Q/649b8bdd5a890e72b761a5f7a97044f4/lenfest-september-cover.png?w=3840&q=90&fm=webp)
+
+[Lenfest grows landmark program with OpenAI supportCompanySep 28, 2026](</index/lenfest-ai-collaborative-expansion/>)
+
 ![Two years of OpenAI Academy — card image](https://images.ctfassets.net/kftzwdyauwt9/Tc4KzRhOgVSaIxQoUkr9R/25c2cf38c314d47e6f3cb93e54e382aa/two-years-of-openai-academy-cover.png?w=3840&q=90&fm=webp)
 
 [Two years of OpenAI AcademyCompanySep 23, 2026](</index/two-years-of-openai-academy/>)
-
-![ChatGPT Ads expands to Southeast Asia and Taiwan — cover](https://images.ctfassets.net/kftzwdyauwt9/2LRApkCOWR8QHAX6Sj3Rik/367336096ea9ec8e9623c1f4d6035c9f/chatgpt-ads-expands-to-southeast-asia-and-taiwan-cover.png?w=3840&q=90&fm=webp)
-
-[ChatGPT Ads expands to Southeast Asia and TaiwanProductSep 23, 2026](</index/chatgpt-ads-expands-southeast-asia-taiwan/>)
-
-![Airbnb widens access to GPT-6 Astra and OpenAI frontier models - card image](https://images.ctfassets.net/kftzwdyauwt9/2prIXE6DtUo7UsJqRAl52K/f8c082ed29505ebfbcff9fe828ccc123/airbnb-widens-access-to-gpt-6-astra-and-openai-frontier-models-cover.png?w=3840&q=90&fm=webp)
-
-[Airbnb expands access to GPT-6 AstraCompanySep 23, 2026](</index/airbnb-gpt-6-astra/>)
 
 Research
 

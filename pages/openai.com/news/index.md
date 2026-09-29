@@ -52,6 +52,18 @@ Switch cards to show Media
 
 Switch cards to hide Media
 
+![Safety cases for frontier AI training > Card image](https://images.ctfassets.net/kftzwdyauwt9/1XyYuz1U7KqnQDU3dz8Ig9/aea6b4ea875a8dd7ee89e57cd9c3caef/safetfy-cases-for-frontier-ai-training-cover.png?w=3840&q=90&fm=webp)
+
+[Towards safety cases for frontier AI trainingSafetySep 28, 2026](</index/towards-safety-cases-for-frontier-ai-training/>)
+
+![How we will do better for Australia — Cover](https://images.ctfassets.net/kftzwdyauwt9/3SiXxEkdWUe8tQHvZb54qo/16b56e5dc615e45cd29845671386e74d/our-response-to-the-incidents-affecting-australian-government-agencies-cover.png?w=3840&q=90&fm=webp)
+
+[How we will do better for AustraliaCompanySep 28, 2026](</index/how-we-will-do-better-for-australia/>)
+
+![Lenfest AI Collaborative expansion — September 2026 — cover](https://images.ctfassets.net/kftzwdyauwt9/67l2OXB95GXzinbThkLw7Q/649b8bdd5a890e72b761a5f7a97044f4/lenfest-september-cover.png?w=3840&q=90&fm=webp)
+
+[Lenfest grows landmark program with OpenAI supportCompanySep 28, 2026](</index/lenfest-ai-collaborative-expansion/>)
+
 ![Two years of OpenAI Academy — card image](https://images.ctfassets.net/kftzwdyauwt9/Tc4KzRhOgVSaIxQoUkr9R/25c2cf38c314d47e6f3cb93e54e382aa/two-years-of-openai-academy-cover.png?w=3840&q=90&fm=webp)
 
 [Two years of OpenAI AcademyCompanySep 23, 2026](</index/two-years-of-openai-academy/>)
@@ -75,18 +87,6 @@ Switch cards to hide Media
 ![Introducing GPT-6 Sol and Luna — Art card](https://images.ctfassets.net/kftzwdyauwt9/4HANTuYDvaT04gpR91bEQ9/885481304c5675cb7525bcccbe8c5580/gpt-6-sol-luna-art.png?w=3840&q=90&fm=webp)
 
 [Introducing GPT-6 Sol and LunaProductSep 22, 2026](</index/introducing-gpt-6-sol-and-luna/>)
-
-![Priorities and principles for effective third party assessments cover](https://images.ctfassets.net/kftzwdyauwt9/12cpbLOJFwXJ00Ma66GDVk/d4b392c0a9e18f078b23247a3f755f57/priorities-and-principles-for-effective-third-party-assessments-cover.png?w=3840&q=90&fm=webp)
-
-[Priorities and principles for effective third party assessmentsSafetySep 22, 2026](</index/priorities-principles-third-party-assessments/>)
-
-![Advisory Group on Mathematics and Artificial Intelligence — cover](https://images.ctfassets.net/kftzwdyauwt9/7I8A6x8LfZld8C8IZUbZmi/6c9da8e137ce049fb07e486958636739/advisory-group-on-mathematics-and-artificial-intelligence-cover.png?w=3840&q=90&fm=webp)
-
-[Advisory group on mathematics and artificial intelligenceCompanySep 21, 2026](</index/advisory-group-on-mathematics-and-ai/>)
-
-![Expanding OpenAI Academy with new learning paths — cover](https://images.ctfassets.net/kftzwdyauwt9/45fB7Wzg6PiQPzz8V49LVr/ef443412e9d5f03f9d5ffcc79aefe18e/expanding-openai-academy-with-new-learning-paths-cover.png?w=3840&q=90&fm=webp)
-
-[Expanding OpenAI Academy with new learning pathsCompanySep 21, 2026](</index/expanding-openai-academy-with-new-learning-paths/>)
 
 Load more
 

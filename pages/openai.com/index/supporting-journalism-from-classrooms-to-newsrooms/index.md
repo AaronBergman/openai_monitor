@@ -88,7 +88,7 @@ This new initiative builds on OpenAI’s yearslong and ongoing support of the jo
 
   * Through our renewed partnership with the **American Journalism Project** , all 50+ of the news organizations in their portfolio will have the opportunity to access ChatGPT enterprise and API credits. AJP’s Product & AI Studio will turn the strongest use cases into reusable tools and infrastructure, and share playbooks and lessons across the portfolio and with the broader nonprofit and local news community.
 
-  * OpenAI’s continued support for the **Lenfest Institute for Journalism** ’s AI Collaborative and Fellowship program, providing major local news organizations with funds to hire AI engineering fellows dedicated to building, scaling, and sharing projects that strengthen journalism and the business of news. Projects have focused on reporting on public data, making news archives more accessible to staff, developing new products that expand audience reach, and growing advertising, subscription, and membership revenue.
+  * OpenAI’s continued support for the [**Lenfest Institute for Journalism** ⁠](<https://openai.com/index/lenfest-ai-collaborative-expansion/>)’s AI Collaborative and Fellowship program, providing major local news organizations with funds to hire AI engineering fellows dedicated to building, scaling, and sharing projects that strengthen journalism and the business of news. Projects have focused on reporting on public data, making news archives more accessible to staff, developing new products that expand audience reach, and growing advertising, subscription, and membership revenue.
 
   * An ongoing partnership with **WAN-IFRA** , launched in 2024, through which OpenAI has supported multiple stages of its Newsroom AI Catalyst accelerator program, which has served over 165 newsrooms across Europe, Asia Pacific, South Asia, Latin America, and Australia and New Zealand. The program offers practical training, technical assistance, strategy development, and OpenAI API credits.
 
@@ -130,17 +130,17 @@ ChatGPT Edu provides enterprise-level privacy, permissions and administrative co
 
 [View all](</news/>)
 
+![How we will do better for Australia — Cover](https://images.ctfassets.net/kftzwdyauwt9/3SiXxEkdWUe8tQHvZb54qo/16b56e5dc615e45cd29845671386e74d/our-response-to-the-incidents-affecting-australian-government-agencies-cover.png?w=3840&q=90&fm=webp)
+
+[How we will do better for AustraliaCompanySep 28, 2026](</index/how-we-will-do-better-for-australia/>)
+
+![Lenfest AI Collaborative expansion — September 2026 — cover](https://images.ctfassets.net/kftzwdyauwt9/67l2OXB95GXzinbThkLw7Q/649b8bdd5a890e72b761a5f7a97044f4/lenfest-september-cover.png?w=3840&q=90&fm=webp)
+
+[Lenfest grows landmark program with OpenAI supportCompanySep 28, 2026](</index/lenfest-ai-collaborative-expansion/>)
+
 ![Two years of OpenAI Academy — card image](https://images.ctfassets.net/kftzwdyauwt9/Tc4KzRhOgVSaIxQoUkr9R/25c2cf38c314d47e6f3cb93e54e382aa/two-years-of-openai-academy-cover.png?w=3840&q=90&fm=webp)
 
 [Two years of OpenAI AcademyCompanySep 23, 2026](</index/two-years-of-openai-academy/>)
-
-![Airbnb widens access to GPT-6 Astra and OpenAI frontier models - card image](https://images.ctfassets.net/kftzwdyauwt9/2prIXE6DtUo7UsJqRAl52K/f8c082ed29505ebfbcff9fe828ccc123/airbnb-widens-access-to-gpt-6-astra-and-openai-frontier-models-cover.png?w=3840&q=90&fm=webp)
-
-[Airbnb expands access to GPT-6 AstraCompanySep 23, 2026](</index/airbnb-gpt-6-astra/>)
-
-![Advisory Group on Mathematics and Artificial Intelligence — cover](https://images.ctfassets.net/kftzwdyauwt9/7I8A6x8LfZld8C8IZUbZmi/6c9da8e137ce049fb07e486958636739/advisory-group-on-mathematics-and-artificial-intelligence-cover.png?w=3840&q=90&fm=webp)
-
-[Advisory group on mathematics and artificial intelligenceCompanySep 21, 2026](</index/advisory-group-on-mathematics-and-ai/>)
 
 Research
 

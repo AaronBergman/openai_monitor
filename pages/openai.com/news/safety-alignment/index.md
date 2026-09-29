@@ -52,6 +52,14 @@ Switch cards to show Media
 
 Switch cards to hide Media
 
+![Safety cases for frontier AI training > Card image](https://images.ctfassets.net/kftzwdyauwt9/1XyYuz1U7KqnQDU3dz8Ig9/aea6b4ea875a8dd7ee89e57cd9c3caef/safetfy-cases-for-frontier-ai-training-cover.png?w=3840&q=90&fm=webp)
+
+[Towards safety cases for frontier AI trainingSafetySep 28, 2026](</index/towards-safety-cases-for-frontier-ai-training/>)
+
+![How we will do better for Australia — Cover](https://images.ctfassets.net/kftzwdyauwt9/3SiXxEkdWUe8tQHvZb54qo/16b56e5dc615e45cd29845671386e74d/our-response-to-the-incidents-affecting-australian-government-agencies-cover.png?w=3840&q=90&fm=webp)
+
+[How we will do better for AustraliaCompanySep 28, 2026](</index/how-we-will-do-better-for-australia/>)
+
 ![Sam Altman’s remarks at the United Nations Security Council cover image](https://images.ctfassets.net/kftzwdyauwt9/4O6fFZArVSBeCoNjTFwXXZ/cc5e374a6b62b8f328555f002b3bca49/sam-altman-s-remarks-at-the-united-nations-security-council-cover.png?w=3840&q=90&fm=webp)
 
 [Sam Altman’s remarks at the United Nations Security CouncilGlobal AffairsSep 23, 2026](</index/sam-altman-un-security-council-remarks/>)
@@ -79,14 +87,6 @@ Switch cards to hide Media
 ![Safety overview: GPT-6 Astra](https://images.ctfassets.net/kftzwdyauwt9/4vjHRXipk1bBYL1d5Jz11j/d2dbb46d66b1035b7f5f320e818e1608/gpt-6-astra-safety-overview-cover.png?w=3840&q=90&fm=webp)
 
 [Safety overview: GPT-6 AstraSafetySep 3, 2026](</index/safety-overview-gpt-6-astra/>)
-
-![GPT-6 Astra System Card](https://images.ctfassets.net/kftzwdyauwt9/4EPFfixCR8upYpL3fOmjMo/2f995b1b7e03a6938bf5b654fb1df507/System_Card_1x1.png?w=3840&q=90&fm=webp)
-
-[GPT‑6 Astra System CardSafetySep 3, 2026(opens in a new window)](<https://deploymentsafety.openai.com/gpt-6-astra>)
-
-![Path to Astra — Clean square cover — Neutral Option 062 v1](https://images.ctfassets.net/kftzwdyauwt9/4BabvjDCQdlYN2ISzOkgF9/78d35947274e9b3ac2483377782b007e/astra-cover-v001.png?w=3840&q=90&fm=webp)
-
-[Path to Astra: critical capabilities and frontier safeguardsSafetySep 1, 2026](</index/path-to-astra/>)
 
 Load more
 
