@@ -88,6 +88,14 @@ Switch cards to hide Media
 
 [Introducing MentalHealthBenchPublication8 min read](</index/introducing-mentalhealthbench/>)
 
+![How we will do better for Australia — Cover](https://images.ctfassets.net/kftzwdyauwt9/3SiXxEkdWUe8tQHvZb54qo/16b56e5dc615e45cd29845671386e74d/our-response-to-the-incidents-affecting-australian-government-agencies-cover.png?w=3840&q=90&fm=webp)
+
+[How we will do better for AustraliaCompanySep 28, 2026](</index/how-we-will-do-better-for-australia/>)
+
+![Lenfest AI Collaborative expansion — September 2026 — cover](https://images.ctfassets.net/kftzwdyauwt9/67l2OXB95GXzinbThkLw7Q/649b8bdd5a890e72b761a5f7a97044f4/lenfest-september-cover.png?w=3840&q=90&fm=webp)
+
+[Lenfest grows landmark program with OpenAI supportCompanySep 28, 2026](</index/lenfest-ai-collaborative-expansion/>)
+
 ![Two years of OpenAI Academy — card image](https://images.ctfassets.net/kftzwdyauwt9/Tc4KzRhOgVSaIxQoUkr9R/25c2cf38c314d47e6f3cb93e54e382aa/two-years-of-openai-academy-cover.png?w=3840&q=90&fm=webp)
 
 [Two years of OpenAI AcademyCompanySep 23, 2026](</index/two-years-of-openai-academy/>)
@@ -115,14 +123,6 @@ Switch cards to hide Media
 ![Paul Christiano joins OpenAI Foundation Board — card](https://images.ctfassets.net/kftzwdyauwt9/4PcDbhz75I70TjyGat7oHl/598dd1e865018860c3591cb95c9bc72e/paul-christiano-joins-openai-foundation-board--cover-v001.png?w=3840&q=90&fm=webp)
 
 [Paul Christiano joins OpenAI Foundation BoardCompanySep 9, 2026](</index/paul-christiano-joins-openai-foundation-board/>)
-
-![The Work Now Within Reach — clean cover](https://images.ctfassets.net/kftzwdyauwt9/5iHLTPM4ZhKe4dAwOPfpy2/347b9d804542685bb13dbb63e985d91e/c3f562e2b08a0bfc.png?w=3840&q=90&fm=webp)
-
-[The Work Now Within ReachCompanySep 8, 2026](</index/the-work-now-within-reach/>)
-
-![Supporting journalism from classrooms to newsrooms — listing card](https://images.ctfassets.net/kftzwdyauwt9/2uvvRNdvFkdWWXNtANgtAF/36e0f8b6a0c35abf88eec71519823409/Option_70___1080_1080.png?w=3840&q=90&fm=webp)
-
-[Supporting journalism from classrooms to newsroomsCompanySep 8, 2026](</index/supporting-journalism-from-classrooms-to-newsrooms/>)
 
 Load more
 

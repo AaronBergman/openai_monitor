@@ -41,6 +41,34 @@ Filter
 
 Sort
 
+API
+
+Sep 25, 2026
+
+GA
+
+## Fixed GPT-6 Sol and Luna image understanding
+
+Fixed a bug in image encoding that degraded image understanding in GPT‑6 Sol and GPT‑6 Luna. This update improves results on visual tasks in the API and Codex, including computer use.
+
+If your use cases involve image inputs, we recommend rerunning your evaluations and retrying workflows affected by the issue.
+
+[View source(opens in a new window)](<https://developers.openai.com/api/docs/models/gpt-6-sol>)[Platform docs(opens in a new window)](<https://developers.openai.com/api/docs/models/gpt-6-luna>)[Platform docs(opens in a new window)](<https://developers.openai.com/api/docs/changelog>)
+
+ChatGPT
+
+Sep 25, 2026
+
+GA
+
+## Security history in ChatGPT
+
+We’re introducing security history, a new way to review recent security activity for your OpenAI account. You can see sign-ins, sign-outs, and changes to multi-factor authentication (MFA), passkeys, and other security settings. Events include the time, location, and device details. Some details may be approximate or unavailable.
+
+To view your history in ChatGPT on the web, go to Settings > Security and login, then select Security history.
+
+[View source(opens in a new window)](<https://help.openai.com/en/articles/6825453-chatgpt-release-notes#security-history-in-chatgpt>)[Help center(opens in a new window)](<https://help.openai.com/en/articles/8304786-keeping-your-openai-account-secure>)
+
 ChatGPT
 
 Sep 24, 2026
@@ -112,44 +140,6 @@ GA
 
 
 [View source(opens in a new window)](<https://learn.chatgpt.com/docs/changelog#codex-2026-09-23-mobile>)
-
-Codex
-
-Sep 22, 2026
-
-GA
-
-## GPT-6 Sol and GPT-6 Luna
-
-We’re introducing GPT‑6 Sol and GPT‑6 Luna in ChatGPT Work and Codex. These models are separate from the models available in Chat.
-
-Codex desktop keeps the model you selected manually.
-
-Available models and reasoning effort options depend on your plan and workspace settings.
-
-GPT‑6 Sol and GPT‑6 Luna are rolling out to Codex and ChatGPT Work at lower token prices than their GPT‑5.6 predecessors. Use Sol for complex coding and agentic workflows, and Luna for focused, high-volume tasks.
-
-Both models are rolling out to Plus, Pro, Business, Enterprise, and Edu users. Free and Go users can access Luna in the desktop app. Availability depends on rollout and workspace settings; Enterprise administrators must enable the new models. In ChatGPT, the models are available in Work and Codex, but not Chat.
-
-[View source(opens in a new window)](<https://developers.openai.com/api/docs/models/gpt-6-sol>)[Platform docs(opens in a new window)](<https://learn.chatgpt.com/docs/changelog#codex-2026-09-22-gpt-6-sol-luna>)[Help center(opens in a new window)](<https://help.openai.com/en/articles/6825453-chatgpt-release-notes#gpt-6-sol-and-luna-in-work-and-codex>)
-
-ChatGPT
-
-Sep 22, 2026
-
-GA
-
-## Create flashcards in ChatGPT
-
-You can now create interactive flashcards in ChatGPT. Ask for flashcards on a topic you want to learn, or upload your notes and ask ChatGPT to turn them into flashcards.
-
-Tap a card to flip it, then select ✔️ if you know the answer or ❌ to practice it again later. Shuffle your cards to practice in a different order.
-
-Flashcards are automatically saved in your library. To practice again, open them there or ask ChatGPT to review them back.
-
-Available on mobile and web for all ChatGPT plans.
-
-[View source(opens in a new window)](<https://help.openai.com/en/articles/6825453-chatgpt-release-notes#create-flashcards-in-chatgpt>)
 
 Load more
 

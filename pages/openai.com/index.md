@@ -26,6 +26,14 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
+# OpenAI DevDay [2026]
+
+Join us September 29 at 10 a.m. PT for a first look at what’s next in ChatGPT, Codex, and tools for building.
+
+[Get a reminder](<https://openai.com/live/#get-notified>)
+
+Close
+
 What can I help with?
 
 Message ChatGPT
