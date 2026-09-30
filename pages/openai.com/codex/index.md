@@ -28,43 +28,168 @@ OpenAI
 
 ![ChatGPT logo](https://images.ctfassets.net/kftzwdyauwt9/77tJ5U1tgxHMZflZ5m4Z24/ace4d8b6ad200d87ebcb69c466344343/Blossom_4k_Icon_1.png?w=3840&q=90&fm=webp)
 
-# Codex
+# Build anything with Codex
 
-The same powerful coding agent—now in ChatGPT.
+Move faster, go further, and bring your biggest ideas to life.
 
 Trusted by top teams
+
+## Get started
+
+Codex is included in your ChatGPT plan.
+
+### Plus
+
+Includes Codex usage for focused coding sessions each week.
+
+$20
+
+/ month
+
+[Get Plus(opens in a new window)](<https://chatgpt.com/?ifpazk=ioaj&default_tab=personal&highlight_plan=plus#pricing>)
+
+### Pro
+
+Higher usage limits to power full workdays across multiple projects.
+
+$100
+
+/ month
+
+[Get Pro(opens in a new window)](<https://chatgpt.com/?ifpazk=1k0d2&default_tab=personal&highlight_plan=pro#pricing>)
+
+### Business
+
+Secure, shared workspace with admin controls and flexible pricing for teams using Codex across repositories.
+
+$20
+
+/ user / month*
+
+[Try ChatGPT Business(opens in a new window)](<https://chatgpt.com/team-sign-up>)
+
+*For 2+ seats, billed annually  
+Unlimited subject to abuse guardrails. [Learn more⁠(opens in a new window)](<https://help.openai.com/en/articles/8792828-what-is-chatgpt-team>)
 
 ## The best way to build with agents
 
 ### Built to drive real engineering work
 
-From routine pull requests to your hardest problems, Codex reliably completes tasks end to end, like building features, complex refactors, migrations, and more, powered by OpenAI’s frontier coding models.
+Give Codex your toughest engineering problems, from hard-to-find bugs to complex refactors and new features. Codex works efficiently, delivering high-quality results with fewer tokens.
 
-![Codex interface showing an engineering task with progress details and a changed-files review panel on a soft gradient background.](https://images.ctfassets.net/kftzwdyauwt9/3VNkIvFSqReRhjyqqBUOjd/cea1689f7e9ce0215dd3699e7befd6b0/Built.png?w=3840&q=90&fm=webp)
+![Codex interface showing an engineering task with progress details and a changed-files review panel on a soft gradient background.](https://images.ctfassets.net/kftzwdyauwt9/3VNkIvFSqReRhjyqqBUOjd/d012247d6c18ac7b317a70848576fe9b/Built.png?w=3840&q=90&fm=webp)
 
 ### Designed for multi-agent workflows
 
-Codex in ChatGPT is a command center for agentic coding. With built-in worktrees and cloud environments, agents work in parallel across projects, completing weeks of work in days.
+Codex runs many agents in parallel, using computer and browser tools to verify work until your requirements are met. Follow progress, steer agents, and review results in one place.
 
-![Codex workspace showing multiple coding agents working in parallel across app and code contexts on a soft gradient background.](https://images.ctfassets.net/kftzwdyauwt9/UtVI8zlaSGX2kpwGW6pYH/d55ba8e59b2acf5758001feaf46a0449/Designed.png?w=3840&q=90&fm=webp)
+![Codex desktop workspace showing parallel agents working across projects on a gradient background.](https://images.ctfassets.net/kftzwdyauwt9/DTo3YvyA78TugiPkNTm4K/b718932af081729f6ebd88cfb9a710ad/Designed.png?w=3840&q=90&fm=webp)
 
-### Adapts to how your team builds
+### Keep tasks moving in the cloud
 
-With Skills, you can teach Codex your team’s standards, workflows, and ways of working. Codex applies them consistently across tasks, so it can contribute more effectively with less supervision.
+Codex keeps going when you close your laptop, with reusable cloud environments for every repo. Start tasks, follow progress, and pick up where you left off from another device.
 
-![Codex interface showing connected development context and output panels for team workflows on a soft gradient background.](https://images.ctfassets.net/kftzwdyauwt9/6ZHpURIvfkGDl4gt6WMCPc/a87365519609598bdf5d89cf6126eab7/Adapts_v2.png?w=3840&q=90&fm=webp)
+![Codex mobile cloud view showing projects and tasks on a gradient background.](https://images.ctfassets.net/kftzwdyauwt9/63xmiufjKw4FKCC760ndnw/cf1aecc7d9b9e21e0dc3764f892981f0/Cloud.png?w=3840&q=90&fm=webp)
 
-### Made for always-on background work
+### Scale code review confidently
 
-Schedule Codex to pick up routine but important work like issue triage, alert monitoring, CI/CD, and more, so your team can stay focused on building.
+Keep code changes moving as your team builds faster. Codex automatically reviews pull requests, surfaces findings, and answers questions, so you can focus where your judgment is needed most.
 
-![Codex automation workflow showing an inbox panel and generated work for always-on background tasks on a soft gradient background.](https://images.ctfassets.net/kftzwdyauwt9/6F8UWSzmwmGiAla39KwMI8/7e13f917ea442cbb07cf42d520fea8ca/Made_for.png?w=3840&q=90&fm=webp)
+![Codex code review showing a pull request discussion and review activity on a gradient background.](https://images.ctfassets.net/kftzwdyauwt9/53kOFxfeYiUaRBtz2oRitX/cb600e016ebe6d7a2f622c591fe352dc/Scale.png?w=3840&q=90&fm=webp)
 
-### Raises the bar across your team
+## Bring Codex directly to your workflows
 
-Codex raises baseline quality with more thorough designs, comprehensive testing, and high-signal code review—so issues are caught early and your team ships with confidence.
+Connect your tools and add specialized capabilities with plugins. Give Codex the context and access it needs to take action across your apps and do more of the work for you.
 
-![Codex interface showing review and quality-focused engineering work with supporting panels on a soft gradient background.](https://images.ctfassets.net/kftzwdyauwt9/7eEkHwSfjAAJMP20Dcjh50/df2a67569f3f931dff3492c9993fef8d/Raise_the_bar.png?w=3840&q=90&fm=webp)
+[Browse plugins](<https://chatgpt.com/plugins>)
+
+![](https://images.ctfassets.net/kftzwdyauwt9/4K6Q7Ckl1zv35MThjXyRVd/4e597920aef1f40a71265d350e997a6f/github_2.png?w=3840&q=90&fm=webp)
+
+![](https://images.ctfassets.net/kftzwdyauwt9/3o2V8cOofna2jDJJ8eir4g/0a8689550d6d9fbb08f40dd53dc209e7/google-calendar.png?w=3840&q=90&fm=webp)
+
+![](https://images.ctfassets.net/kftzwdyauwt9/4K6Q7Ckl1zv35MThjXyRVd/4e597920aef1f40a71265d350e997a6f/github_2.png?w=3840&q=90&fm=webp)
+
+![](https://images.ctfassets.net/kftzwdyauwt9/3o2V8cOofna2jDJJ8eir4g/0a8689550d6d9fbb08f40dd53dc209e7/google-calendar.png?w=3840&q=90&fm=webp)
+
+![](https://images.ctfassets.net/kftzwdyauwt9/4K6Q7Ckl1zv35MThjXyRVd/4e597920aef1f40a71265d350e997a6f/github_2.png?w=3840&q=90&fm=webp)
+
+![](https://images.ctfassets.net/kftzwdyauwt9/3o2V8cOofna2jDJJ8eir4g/0a8689550d6d9fbb08f40dd53dc209e7/google-calendar.png?w=3840&q=90&fm=webp)
+
+![](https://images.ctfassets.net/kftzwdyauwt9/6vuY2qPBTNzPpDeq0PzW3z/5eb127400365c92705dfdee9b95fe0a4/slack.png?w=3840&q=90&fm=webp)
+
+![](https://images.ctfassets.net/kftzwdyauwt9/3WsTZQKs62yNZ9gm21mfyv/83202db261b16faa17feac61b64da93b/gmail.png?w=3840&q=90&fm=webp)
+
+![](https://images.ctfassets.net/kftzwdyauwt9/6vuY2qPBTNzPpDeq0PzW3z/5eb127400365c92705dfdee9b95fe0a4/slack.png?w=3840&q=90&fm=webp)
+
+![](https://images.ctfassets.net/kftzwdyauwt9/3WsTZQKs62yNZ9gm21mfyv/83202db261b16faa17feac61b64da93b/gmail.png?w=3840&q=90&fm=webp)
+
+![](https://images.ctfassets.net/kftzwdyauwt9/6vuY2qPBTNzPpDeq0PzW3z/5eb127400365c92705dfdee9b95fe0a4/slack.png?w=3840&q=90&fm=webp)
+
+![](https://images.ctfassets.net/kftzwdyauwt9/3WsTZQKs62yNZ9gm21mfyv/83202db261b16faa17feac61b64da93b/gmail.png?w=3840&q=90&fm=webp)
+
+![](https://images.ctfassets.net/kftzwdyauwt9/VYdmXtdogLS5VRxj7p59q/8e2e2ba5d5913f5e55221e648820147d/google-drive.png?w=3840&q=90&fm=webp)
+
+![](https://images.ctfassets.net/kftzwdyauwt9/7mU0lYWLn52yrVRLl2Z4PT/4e94ff718812f9b5f94319ae02e5af6d/figma.png?w=3840&q=90&fm=webp)
+
+![](https://images.ctfassets.net/kftzwdyauwt9/VYdmXtdogLS5VRxj7p59q/8e2e2ba5d5913f5e55221e648820147d/google-drive.png?w=3840&q=90&fm=webp)
+
+![](https://images.ctfassets.net/kftzwdyauwt9/7mU0lYWLn52yrVRLl2Z4PT/4e94ff718812f9b5f94319ae02e5af6d/figma.png?w=3840&q=90&fm=webp)
+
+![](https://images.ctfassets.net/kftzwdyauwt9/VYdmXtdogLS5VRxj7p59q/8e2e2ba5d5913f5e55221e648820147d/google-drive.png?w=3840&q=90&fm=webp)
+
+![](https://images.ctfassets.net/kftzwdyauwt9/7mU0lYWLn52yrVRLl2Z4PT/4e94ff718812f9b5f94319ae02e5af6d/figma.png?w=3840&q=90&fm=webp)
+
+![](https://images.ctfassets.net/kftzwdyauwt9/3l0BWf0MisgWVx1G5ot786/c2f4d318b20173e96097bc0d4722fd0d/notion_2.png?w=3840&q=90&fm=webp)
+
+![](https://images.ctfassets.net/kftzwdyauwt9/1ISOgL209vkQDcu4Eul8R3/3df6056a21d573629e6e41420fa748ff/supabase.png?w=3840&q=90&fm=webp)
+
+![](https://images.ctfassets.net/kftzwdyauwt9/3l0BWf0MisgWVx1G5ot786/c2f4d318b20173e96097bc0d4722fd0d/notion_2.png?w=3840&q=90&fm=webp)
+
+![](https://images.ctfassets.net/kftzwdyauwt9/1ISOgL209vkQDcu4Eul8R3/3df6056a21d573629e6e41420fa748ff/supabase.png?w=3840&q=90&fm=webp)
+
+![](https://images.ctfassets.net/kftzwdyauwt9/3l0BWf0MisgWVx1G5ot786/c2f4d318b20173e96097bc0d4722fd0d/notion_2.png?w=3840&q=90&fm=webp)
+
+![](https://images.ctfassets.net/kftzwdyauwt9/1ISOgL209vkQDcu4Eul8R3/3df6056a21d573629e6e41420fa748ff/supabase.png?w=3840&q=90&fm=webp)
+
+![](https://images.ctfassets.net/kftzwdyauwt9/4K6Q7Ckl1zv35MThjXyRVd/4e597920aef1f40a71265d350e997a6f/github_2.png?w=3840&q=90&fm=webp)
+
+![](https://images.ctfassets.net/kftzwdyauwt9/3WsTZQKs62yNZ9gm21mfyv/83202db261b16faa17feac61b64da93b/gmail.png?w=3840&q=90&fm=webp)
+
+![](https://images.ctfassets.net/kftzwdyauwt9/VYdmXtdogLS5VRxj7p59q/8e2e2ba5d5913f5e55221e648820147d/google-drive.png?w=3840&q=90&fm=webp)
+
+![](https://images.ctfassets.net/kftzwdyauwt9/1ISOgL209vkQDcu4Eul8R3/3df6056a21d573629e6e41420fa748ff/supabase.png?w=3840&q=90&fm=webp)
+
+![](https://images.ctfassets.net/kftzwdyauwt9/6vuY2qPBTNzPpDeq0PzW3z/5eb127400365c92705dfdee9b95fe0a4/slack.png?w=3840&q=90&fm=webp)
+
+![](https://images.ctfassets.net/kftzwdyauwt9/7mU0lYWLn52yrVRLl2Z4PT/4e94ff718812f9b5f94319ae02e5af6d/figma.png?w=3840&q=90&fm=webp)
+
+![](https://images.ctfassets.net/kftzwdyauwt9/3l0BWf0MisgWVx1G5ot786/c2f4d318b20173e96097bc0d4722fd0d/notion_2.png?w=3840&q=90&fm=webp)
+
+![](https://images.ctfassets.net/kftzwdyauwt9/4K6Q7Ckl1zv35MThjXyRVd/4e597920aef1f40a71265d350e997a6f/github_2.png?w=3840&q=90&fm=webp)
+
+![](https://images.ctfassets.net/kftzwdyauwt9/VYdmXtdogLS5VRxj7p59q/8e2e2ba5d5913f5e55221e648820147d/google-drive.png?w=3840&q=90&fm=webp)
+
+![](https://images.ctfassets.net/kftzwdyauwt9/1ISOgL209vkQDcu4Eul8R3/3df6056a21d573629e6e41420fa748ff/supabase.png?w=3840&q=90&fm=webp)
+
+![](https://images.ctfassets.net/kftzwdyauwt9/3o2V8cOofna2jDJJ8eir4g/0a8689550d6d9fbb08f40dd53dc209e7/google-calendar.png?w=3840&q=90&fm=webp)
+
+![](https://images.ctfassets.net/kftzwdyauwt9/6vuY2qPBTNzPpDeq0PzW3z/5eb127400365c92705dfdee9b95fe0a4/slack.png?w=3840&q=90&fm=webp)
+
+![](https://images.ctfassets.net/kftzwdyauwt9/3l0BWf0MisgWVx1G5ot786/c2f4d318b20173e96097bc0d4722fd0d/notion_2.png?w=3840&q=90&fm=webp)
+
+![](https://images.ctfassets.net/kftzwdyauwt9/4K6Q7Ckl1zv35MThjXyRVd/4e597920aef1f40a71265d350e997a6f/github_2.png?w=3840&q=90&fm=webp)
+
+![](https://images.ctfassets.net/kftzwdyauwt9/3WsTZQKs62yNZ9gm21mfyv/83202db261b16faa17feac61b64da93b/gmail.png?w=3840&q=90&fm=webp)
+
+![](https://images.ctfassets.net/kftzwdyauwt9/VYdmXtdogLS5VRxj7p59q/8e2e2ba5d5913f5e55221e648820147d/google-drive.png?w=3840&q=90&fm=webp)
+
+![](https://images.ctfassets.net/kftzwdyauwt9/3o2V8cOofna2jDJJ8eir4g/0a8689550d6d9fbb08f40dd53dc209e7/google-calendar.png?w=3840&q=90&fm=webp)
+
+![](https://images.ctfassets.net/kftzwdyauwt9/6vuY2qPBTNzPpDeq0PzW3z/5eb127400365c92705dfdee9b95fe0a4/slack.png?w=3840&q=90&fm=webp)
+
+![](https://images.ctfassets.net/kftzwdyauwt9/7mU0lYWLn52yrVRLl2Z4PT/4e94ff718812f9b5f94319ae02e5af6d/figma.png?w=3840&q=90&fm=webp)
+
+![](https://images.ctfassets.net/kftzwdyauwt9/3l0BWf0MisgWVx1G5ot786/c2f4d318b20173e96097bc0d4722fd0d/notion_2.png?w=3840&q=90&fm=webp)
 
 ## The same agent everywhere you code
 
@@ -72,15 +197,21 @@ Use Codex across ChatGPT, your editor, and the terminal, all connected by your C
 
 [Learn more in the developer docs(opens in a new window)](<https://developers.openai.com/codex/>)
 
-![Codex app interface showing a coding task and agent progress inside ChatGPT.](https://images.ctfassets.net/kftzwdyauwt9/4VICAqwJvjaSSJZpERHfXo/12fec864cec9d3fa3b6dd47dd8c5059b/codex-landing-product-surfaces-app.png?w=3840&q=90&fm=webp)
+![Codex desktop app sidebar showing pinned and recent coding tasks.](https://images.ctfassets.net/kftzwdyauwt9/5WPUgyRyzao1GZ5IOblaGJ/57745e960c68abbd3724e2d2f46d1f90/ChatGPT.png?w=3840&q=90&fm=webp)
 
 ### Codex in ChatGPT
 
-![Codex editor interface showing code changes and review context.](https://images.ctfassets.net/kftzwdyauwt9/67q8M6lUey7LslnSRTQD5o/0c08babf51e4b3615ff928cd6c380abb/codex-landing-product-surfaces-editor.png?w=3840&q=90&fm=webp)
+![Codex work location menu with Cloud selected.](https://images.ctfassets.net/kftzwdyauwt9/6SNsGJ09yvuknN4p9rdEE/8507379529e7074c0b1f24e4683de613/Cloud.png?w=3840&q=90&fm=webp)
+
+### Codex cloud
+
+[Try on web(opens in a new window)](<https://chatgpt.com/codex/cloud>)
+
+![Codex code review showing edited files and a request to add tests.](https://images.ctfassets.net/kftzwdyauwt9/10UstIzfLhXlLjVhkaEJpD/7174e3c56bbecdcfc207d45a1ac3fc8d/IDE.png?w=3840&q=90&fm=webp)
 
 ### Codex IDE extension
 
-![Codex terminal interface showing command-line output and task progress.](https://images.ctfassets.net/kftzwdyauwt9/5zIp2sCdBS7Dwx6XEb6pUk/ab9cf89ace5573d99c8ed2712709e3bc/codex-landing-product-surfaces-terminal.png?w=3840&q=90&fm=webp)
+![Codex command-line interface with a prompt to implement dark mode.](https://images.ctfassets.net/kftzwdyauwt9/4gLgk5DosQaxPt9mpIHTAH/cb29b505190417b9bea7f304dc9a358b/CLI.png?w=3840&q=90&fm=webp)
 
 ### Codex CLI
 
@@ -122,7 +253,7 @@ Aaron Wang, Senior Software Engineer, Duolingo
 
 Tres Wong-Godfrey, Tech Lead, Cisco Meraki
 
-## Try Codex in ChatGPT today
+## Start building with Codex
 
 Now available in the ChatGPT app.
 
@@ -136,10 +267,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1](</index/introducing-gpt-6-1-sol/>)
   * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -158,7 +289,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 

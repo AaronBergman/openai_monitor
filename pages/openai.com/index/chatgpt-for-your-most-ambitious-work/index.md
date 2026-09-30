@@ -36,6 +36,17 @@ ChatGPT Work is an agent that can take action across your apps and files, stay w
 
 [Download the ChatGPT desktop app(opens in a new window)](<https://chatgpt.com/download/>)[Contact sales](</contact-sales/>)
 
+## Explore more ways to work together
+
+  * Create and collaborate on pages with your team and ChatGPT in [ChatGPT Space⁠(opens in a new window)](<https://chatgpt.com/features/space/>).
+
+  * Build interactive tools with [Sites⁠(opens in a new window)](<https://chatgpt.com/features/sites>).
+
+  * Bring ChatGPT into team conversations with [ChatGPT in Slack and Microsoft Teams⁠(opens in a new window)](<https://chatgpt.com/features/chatgpt-in-slack-and-teams/>).
+
+
+
+
 Loading…
 
 Share
@@ -220,17 +231,17 @@ OpenAI
 
 [View all](</news/>)
 
+![GPT-6-1-Sol_Blog 1x1](https://images.ctfassets.net/kftzwdyauwt9/7reVkD9GZT81EppPxXgW4D/44c5d09530a17bf45d153b86760ee30a/GPT-6-1-Sol_1x1.png?w=3840&q=90&fm=webp)
+
+[Introducing GPT-6.1 SolProductSep 29, 2026](</index/introducing-gpt-6-1-sol/>)
+
+![Introducing dots — cover art card \(square\)](https://images.ctfassets.net/kftzwdyauwt9/2TCcE1IdEPpWT2vaC3PDWu/e78bceb30c38422b1461a2326838e762/Art_Card___1_1_1080x1080.png?w=3840&q=90&fm=webp)
+
+[Introducing dotsProductSep 29, 2026](</index/introducing-dots/>)
+
 ![ChatGPT Ads expands to Southeast Asia and Taiwan — cover](https://images.ctfassets.net/kftzwdyauwt9/2LRApkCOWR8QHAX6Sj3Rik/367336096ea9ec8e9623c1f4d6035c9f/chatgpt-ads-expands-to-southeast-asia-and-taiwan-cover.png?w=3840&q=90&fm=webp)
 
 [ChatGPT Ads expands to Southeast Asia and TaiwanProductSep 23, 2026](</index/chatgpt-ads-expands-southeast-asia-taiwan/>)
-
-![Better prompt caching for GPT-6 — Card image](https://images.ctfassets.net/kftzwdyauwt9/72ZKzMh8JgRDfdg4EYRtwY/ee5e406a08b69f00b0beb4ac00270364/7kneoqlc2qh37z1utkmtfk-cover-v1.png?w=3840&q=90&fm=webp)
-
-[Better prompt caching for GPT-6ProductSep 22, 2026](</index/better-prompt-caching-for-gpt-6/>)
-
-![Introducing GPT-6 Sol and Luna — Art card](https://images.ctfassets.net/kftzwdyauwt9/4HANTuYDvaT04gpR91bEQ9/885481304c5675cb7525bcccbe8c5580/gpt-6-sol-luna-art.png?w=3840&q=90&fm=webp)
-
-[Introducing GPT-6 Sol and LunaProductSep 22, 2026](</index/introducing-gpt-6-sol-and-luna/>)
 
 Research
 
@@ -242,10 +253,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1](</index/introducing-gpt-6-1-sol/>)
   * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -264,7 +275,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
