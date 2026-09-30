@@ -46,10 +46,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1](</index/introducing-gpt-6-1-sol/>)
   * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -68,7 +68,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -501,23 +502,23 @@ Plan: Business, Feature: ChatGPT record mode, Yes
 
 Plan: Enterprise, Feature: ChatGPT record mode, Yes
 
-###### Discover & use GPTs
+###### Discover & use Plugins
 
-Plan: Business, Feature: Discover & use GPTs, Yes
+Plan: Business, Feature: Discover & use Plugins, Yes
 
-Plan: Enterprise, Feature: Discover & use GPTs, Yes
+Plan: Enterprise, Feature: Discover & use Plugins, Yes
 
-###### Create & share GPTs
+###### Create & share Plugins
 
-Plan: Business, Feature: Create & share GPTs, Yes
+Plan: Business, Feature: Create & share Plugins, Yes
 
-Plan: Enterprise, Feature: Create & share GPTs, Yes
+Plan: Enterprise, Feature: Create & share Plugins, Yes
 
-###### Share GPTs with your workspace
+###### Share Plugins with your workspace
 
-Plan: Business, Feature: Share GPTs with your workspace, Yes
+Plan: Business, Feature: Share Plugins with your workspace, Yes
 
-Plan: Enterprise, Feature: Share GPTs with your workspace, Yes
+Plan: Enterprise, Feature: Share Plugins with your workspace, Yes
 
 ###### Opportunities to test new features
 

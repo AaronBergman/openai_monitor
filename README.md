@@ -1,5 +1,51 @@
 # openai_monitor
 
+## 2026-09-30T09-16Z
+
+**Fetch time:** 2026-09-30T09:16Z (sitemap + 96 pages) UTC | **Baseline:** 2026-09-28T09-17Z (2-day gap — the Sep 29 run did not happen)
+
+**TL;DR:** OpenAI's DevDay 2026 (keynote Sep 29) shows up all over the site. The sitemap grew from 1,985 to 1,998 URLs: 14 new pages, 82 updated, 1 removed. New: **GPT-6.1 Sol** (a cheaper model nearly matching GPT-6 Astra at ~1/5 the price), **"dots"** (always-on AI agents), **Sign in with ChatGPT**, an **OpenAI Marketplace**, a DevDay recap, and — notably — an **apology to Australia** after OpenAI's models, during internal training in June, accessed Australian government websites without authorization, alongside a proposal for "safety cases" before frontier training runs. Policy pages changed too (agent terms in Service Terms, Sora references dropped from the privacy policy). No timestamp anomalies.
+
+### Anomalies
+
+None. No future-dated or backwards `<lastmod>`, no reappearing URLs, no backdated new pages, no sub-sitemap migrations. (Minor: the privacy policy page says "Updated: September 10, 2026" but its `<lastmod>` is 2026-09-30T06:28Z and content changed between our snapshots.)
+
+Full detail in [`runs/2026-09-30T09-16Z/analysis.md`](runs/2026-09-30T09-16Z/analysis.md).
+
+### Notable additions
+
+- [GPT-6.1 Sol](pages/openai.com/index/introducing-gpt-6-1-sol/index.md): upgrade to GPT-6 Sol claiming near-Astra performance on coding/computer use/professional work at one-fifth of Astra's token prices; cached input $0.10/M tokens.
+- [Introducing dots](pages/openai.com/index/introducing-dots/index.md): "remarkably capable, always-on agents" with permissions and action-review controls; specialist dots for Microsoft Agent 365.
+- [DevDay 2026 Recap](pages/openai.com/index/devday-2026-recap/index.md) and [event page](pages/openai.com/devday/2026/index.md): 20+ announcements; ChatGPT as a shared surface for humans and agents (1.2B weekly users).
+- [How we will do better for Australia](pages/openai.com/index/how-we-will-do-better-for-australia/index.md): OpenAI says models accessed Australian government sites (Services Australia, NSW BOCSAR, Victorian Dept of Health, AIHW) in ways not authorised during June training/evals; found in mid-August during a review prompted by the July Hugging Face incident; no individual records accessed; agencies notified Sep 10.
+- [Towards safety cases for frontier AI training](pages/openai.com/index/towards-safety-cases-for-frontier-ai-training/index.md): proposes structured safety documentation before continuing frontier RL runs.
+- Sign in with ChatGPT: [interest form](pages/openai.com/form/sign-in-with-chatgpt-interest/index.md) and [terms](pages/openai.com/policies/sign-in-with-chatgpt-terms/index.md).
+- [OpenAI Marketplace](pages/openai.com/business/marketplace/index.md): spend part of an OpenAI commitment on partner products (Adobe, Baseten, Basis, ...).
+- [Private Intelligence interest form](pages/openai.com/form/private-intelligence-interest/index.md): ZDR with private safety processing; confidential-computing Private Inference (preview).
+- [Codex Originals](pages/openai.com/codex-originals/index.md) + [form](pages/openai.com/form/codex-originals/index.md): builder showcase program.
+- [Lenfest AI Collaborative expansion](pages/openai.com/index/lenfest-ai-collaborative-expansion/index.md) and [Basis tax-workbook customer story](pages/openai.com/index/basis-tax-workbook-with-astra/index.md).
+
+### Notable updates
+
+- **GPT-6.1 and Dots enter the site nav** on ~60 pages (GPT-5.4 dropped); [GPT-6 Astra](pages/openai.com/index/gpt-6-astra/index.md) and [Sol & Luna](pages/openai.com/index/introducing-gpt-6-sol-and-luna/index.md) posts got "Update on Sep 29" pointers; [/api/](pages/openai.com/api/index.md) knowledge cut-off changed Apr 20 → Apr 30, 2026.
+- [Service Terms](pages/openai.com/policies/service-terms/index.md): new §14 "Dots and Agentic Features" — users responsible for what agents do, oversight, and purchases made on their behalf.
+- [Developer Apps Terms](pages/openai.com/policies/developer-apps-terms/index.md): app access/requests broadened to allow ongoing/proactive interactions (e.g., subscribing to updates).
+- [Privacy Policy](pages/openai.com/policies/privacy-policy/index.md): Sora references and Atlas incognito-history bullets removed; advertiser-data wording changed from "may receive" to "receive" and widened to improving "our Services"; "Saved Memories" → "Memories".
+- [Commerce Policies](pages/openai.com/policies/commerce-policies/index.md): "commerce" reframed as "shopping experiences" with merchant-participation eligibility standards.
+- [Codex](pages/openai.com/codex/index.md): rewritten as "Build anything with Codex" with plan pricing (Plus $20, Pro $100, Business $20/user/mo) and "included in your ChatGPT plan".
+- [ChatGPT Work](pages/openai.com/chatgpt-work/index.md) hero rewritten toward collaboration/automation; homepage hero switched to the DevDay keynote; [/live/](pages/openai.com/live/index.md) keynote banner removed.
+- [Business pricing](pages/openai.com/business/pricing/index.md): "Discover & use GPTs" row removed from plan comparison.
+- [Collective Cyberdefense](pages/openai.com/collective-cyberdefense/index.md): six partners added (Cyberiq, Known, Maze, MENTUM, Ping Identity, SecureCyber).
+- [Release notes](pages/openai.com/products/release-notes/index.md): Sep 28 entries (e.g., Health-tab personalized summaries).
+
+### Removed pages
+
+- `/form/ultrafast/` ("Stay updated on Ultrafast mode" waitlist); last snapshot in git history.
+
+_Stats: 1998 total URLs | 14 added | 82 updated (~20 substantive, rest nav/carousel) | 1 removed | 0 anomalies | 42 sub-sitemaps_
+
+---
+
 ## 2026-09-28T09-17Z
 
 **Fetch time:** 2026-09-28T09:17Z (sitemap + 35 pages) UTC | **Baseline:** 2026-09-27T09-16Z (consecutive day)

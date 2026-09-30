@@ -30,7 +30,7 @@ Select language
 
 …
 
-Updated: September 21, 2026
+Updated: September 29, 2026
 
 # Service terms
 
@@ -134,6 +134,20 @@ Data and Output may be inaccurate, delayed, or outdated. Review important inform
 
 Your use of Financial Services, including third-party data and content, is subject to the[ Financial Services Terms⁠](<https://openai.com/policies/financial-services-terms/>), including applicable data partner terms, disclaimers, and restrictions on use and redistribution. Your use of credit score services, such as connecting to and accessing credit scores, reports, monitoring, and personalized insights, is also subject to the [Credit Score Terms](</policies/credit-score-terms/>).
 
+## 14\. Dots and Agentic Features
+
+(a)**Responsibility.** You decide how to use dots and related agentic features, including what access, authority, and instructions you give them. You are responsible for actions they take and content they share on your behalf. 
+
+(b)**Oversight.** You are responsible for providing oversight appropriate to the task and its potential consequences. This includes setting clear instructions and appropriate limits and reviewing actions and communications. 
+
+(c)**Purchases and payments.** You must have permission to use any account or payment method you provide. You are responsible for transactions made on your behalf. You must provide appropriate purchase guidance, monitor your accounts, and promptly raise any errors with the relevant financial institution or payment provider. Third-party terms may also apply to these transactions.
+
+## 15\. Sign in with ChatGPT
+
+Sign in with ChatGPT (“SIWC”) allows developers to enable users to connect their ChatGPT accounts, including certain features or functionality within those accounts, to their tool, application, or website. If you use SIWC in your services, the [Sign in with ChatGPT Terms](</policies/sign-in-with-chatgpt-terms/>) apply.
+
+If you are a user connecting your account to a service using SIWC, you agree to share information necessary to authenticate you (including name, email, and/or profile photo) and, where relevant, your ChatGPT usage. The information you share with another service will be subject to that service’s terms, policies, and configuration.
+
 Research
 
   * [Research Index](</research/index/>)
@@ -144,10 +158,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1](</index/introducing-gpt-6-1-sol/>)
   * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -166,7 +180,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 

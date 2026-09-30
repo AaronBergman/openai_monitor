@@ -46,6 +46,12 @@ Switch cards to show Media
 
 Switch cards to hide Media
 
+Safety
+
+Sep 29, 2026
+
+[Addendum: GPT‑6.1 SolWe’re introducing GPT-6.1 Sol. GPT-6.1 is the latest model family in the GPT-6 series.(opens in a new window)](<https://deploymentsafety.openai.com/gpt-6-1-sol>)
+
 Publication
 
 Sep 23, 2026
@@ -94,12 +100,6 @@ Jul 29, 2026
 
 [How enabling two settings tripled our scores on the ARC-AGI-3 benchmarkHow two API settings improved GPT-5.6 performance on ARC-AGI-3, boosting scores and efficiency by retaining reasoning and enabling compaction.](</index/how-two-settings-tripled-our-arc-agi-3-scores/>)
 
-Publication
-
-Jul 28, 2026
-
-[Scientific computing in the age of agentic AIA new field report shows how scientists use AI coding agents to modernize scientific computing, accelerating software development and discovery in genomics and beyond.](</index/scientific-computing-agentic-ai/>)
-
 Load more
 
 Research
@@ -112,10 +112,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1](</index/introducing-gpt-6-1-sol/>)
   * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -134,7 +134,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
