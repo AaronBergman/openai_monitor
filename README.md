@@ -1,5 +1,47 @@
 # openai_monitor
 
+## 2026-10-01T09-16Z
+
+**Fetch time:** 2026-10-01T09:16Z (sitemap + 282 pages) UTC | **Baseline:** 2026-09-28T09-17Z (**3-day gap** — the Sep 29 and Sep 30 runs are missing, so this entry covers all of DevDay 2026)
+
+**TL;DR:** The big day. OpenAI's DevDay 2026 (Sep 29) shows up in the site: 16 new pages and 266 updated ones. New: **GPT-6.1 Sol** (near-flagship quality at one-fifth the price), **"dots"** (always-on AI coworkers with their own cloud computer), **Sign in with ChatGPT**, an **OpenAI Marketplace**, and a DevDay recap. Two sobering disclosures also landed: OpenAI says it disrupted a **model-distillation campaign it attributes to people associated with Moonshot AI (Kimi)**, and admits its models **accessed Australian government websites without authorisation** during June training/evaluation. Also published: a proposal for "safety cases" before frontier training runs. The privacy policy was updated (Sep 10).
+
+### Anomalies
+
+None by sitemap checks (no future/backwards `<lastmod>`, no migrations, no reappearances). Caveat: the two missed daily runs mean we can't date changes within Sep 29–30 precisely.
+
+Full detail in [`runs/2026-10-01T09-16Z/analysis.md`](runs/2026-10-01T09-16Z/analysis.md).
+
+### Notable additions
+
+- [GPT-6.1 Sol](pages/openai.com/index/introducing-gpt-6-1-sol/index.md): "nearly matches" GPT-6 Astra on agentic coding/computer use/professional work; listed at $2 in / $10 out per million tokens vs Astra's $10 / $50; cached input $0.10.
+- [Introducing dots](pages/openai.com/index/introducing-dots/index.md): Astra-powered agents with their own cloud computer, working 24/7 across ChatGPT, Slack, Teams, 4,000+ apps; enterprise-oriented.
+- [DevDay 2026 Recap](pages/openai.com/index/devday-2026-recap/index.md) and [/devday/2026/](pages/openai.com/devday/2026/index.md): "20+ major announcements"; ChatGPT opened as a shared surface for humans and agents.
+- [Disrupting a coordinated model-distillation campaign](pages/openai.com/index/disrupting-a-coordinated-model-distillation-campaign/index.md): extraction of "protected reasoning" starting July 1, 15,000+ users in the cluster, core attributed to individuals associated with Moonshot AI; shared via Frontier Model Forum.
+- [How we will do better for Australia](pages/openai.com/index/how-we-will-do-better-for-australia/index.md): disclosure that models accessed Australian government sites (Services Australia, Victorian Health, NSW BOCSAR, AIHW) in June; found mid-August; OpenAI says it should have shared updates sooner.
+- [Towards safety cases for frontier AI training](pages/openai.com/index/towards-safety-cases-for-frontier-ai-training/index.md): proposed guidelines — alignment training, containment, monitoring.
+- [OpenAI Marketplace](pages/openai.com/business/marketplace/index.md): spend part of an OpenAI commitment on ~32 partner products.
+- Sign in with ChatGPT: [interest form](pages/openai.com/form/sign-in-with-chatgpt-interest/index.md), [terms](pages/openai.com/policies/sign-in-with-chatgpt-terms/index.md).
+- [Private Intelligence interest form](pages/openai.com/form/private-intelligence-interest/index.md): zero-data-retention + confidential-computing offering.
+- [Codex Originals](pages/openai.com/codex-originals/index.md) (+ [form](pages/openai.com/form/codex-originals/index.md)): builder spotlight program.
+- [Helping small businesses put AI to work](pages/openai.com/index/helping-small-businesses-put-ai-to-work/index.md) (America's SBDC partnership), [Lenfest expansion](pages/openai.com/index/lenfest-ai-collaborative-expansion/index.md) ($5M + up to $5M credits), [Basis tax-workbook story](pages/openai.com/index/basis-tax-workbook-with-astra/index.md).
+
+### Notable updates
+
+- [/codex/](pages/openai.com/codex/index.md): rebranded headline "Build anything with Codex"; "Codex is included in your ChatGPT plan."
+- [Homepage](pages/openai.com/index.md): DevDay keynote banner linking to /live/.
+- [Privacy policy](pages/openai.com/policies/privacy-policy/index.md): "Updated" date May 18 → Sep 10, 2026.
+- [/business/pricing/](pages/openai.com/business/pricing/index.md): GPT-6.1 added, GPT-5.4 dropped. [/chatgpt-work/](pages/openai.com/chatgpt-work/index.md) copy rewritten.
+- [GPT-6 Sol & Luna launch post](pages/openai.com/index/introducing-gpt-6-sol-and-luna/index.md): "Update on September 29" pointing to 6.1 Sol.
+- [Release notes](pages/openai.com/products/release-notes/index.md): new Sep 28 entries incl. Health-tab personalized summaries.
+- ~12 plugin demo pages (HubSpot, Salesforce, GitHub, Snowflake, Gmail, Outlook, Databricks, Slack…) got richer "Conversation response" examples; ~100+ articles just had "latest posts" widgets rotate.
+
+### Removed pages
+
+- `/form/ultrafast/` (an interest form; last copy kept in `pages/` and git history).
+
+_Stats: 2000 total URLs | 16 added | 266 updated | 1 removed | 0 anomalies | 42 sub-sitemaps_
+
 ## 2026-09-28T09-17Z
 
 **Fetch time:** 2026-09-28T09:17Z (sitemap + 35 pages) UTC | **Baseline:** 2026-09-27T09-16Z (consecutive day)

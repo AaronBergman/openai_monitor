@@ -61,19 +61,19 @@ Transform ideas into production-ready designs, slides, and diagrams by generatin
 
 ![](https://files.openai.com/content?id=file_0000000024f8820c99aca12aa7c4aea1&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=6ad06c130b5f6470718cd9915c35cab9c100ff75092d081b027c90a10102e8c0&v=0)Figma Convert this user journey text into a storyboard layout with frames for key moments and annotations.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Figma+Convert+this+user+journey+text+into+a+storyboard+layout+with+frames+for+key+moments+and+annotations.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_68df038e0ba48191908c8434991bbac2?install&prompt=Convert%20this%20user%20journey%20text%20into%20a%20storyboard%20layout%20with%20frames%20for%20key%20moments%20and%20annotations.&surface=work>)
 
   * ### Produce polished presentations quickly
 
 ![](https://files.openai.com/content?id=file_0000000024f8820c99aca12aa7c4aea1&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=6ad06c130b5f6470718cd9915c35cab9c100ff75092d081b027c90a10102e8c0&v=0)Figma create a competitive analysis deck comparing travel platforms
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Figma+create+a+competitive+analysis+deck+comparing+travel+platforms>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_68df038e0ba48191908c8434991bbac2?install&prompt=create%20a%20competitive%20analysis%20deck%20comparing%20travel%20platforms&surface=work>)
 
   * ### Build diagrams that clarify workflows
 
 ![](https://files.openai.com/content?id=file_0000000024f8820c99aca12aa7c4aea1&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=6ad06c130b5f6470718cd9915c35cab9c100ff75092d081b027c90a10102e8c0&v=0)Figma Create a FigJam flow diagram for our procurement process from request to approval to payment including decision points.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Figma+Create+a+FigJam+flow+diagram+for+our+procurement+process+from+request+to+approval+to+payment+including+decision+points.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_68df038e0ba48191908c8434991bbac2?install&prompt=Create%20a%20FigJam%20flow%20diagram%20for%20our%20procurement%20process%20from%20request%20to%20approval%20to%20payment%20including%20decision%20points.&surface=work>)
 
 
 
@@ -134,10 +134,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1](</index/introducing-gpt-6-1-sol/>)
   * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -156,7 +156,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 

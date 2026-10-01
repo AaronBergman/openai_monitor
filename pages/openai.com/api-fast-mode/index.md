@@ -45,6 +45,7 @@ _Note: Priority processing was renamed Fast mode on July 30, 2026. You can use e
 ---|---|---|---|---  
 Price per 1M input tokens| Price per 1M input tokens (cached)| Price per 1M output tokens| Price per 1M input tokens| Price per 1M input tokens (cached)| Price per 1M output tokens  
 GPT-6 Astra| $20.00| $2.00| $100.00| $40.00| $4.00| $150.00| —| —  
+GPT-6.1 Sol| $4.00| $0.20| $20.00| $8.00| $0.40| $30.00| —| —  
 GPT-6 Sol| $4.00| $0.40| $20.00| $8.00| $0.80| $30.00| —| —  
 GPT-6 Luna| $0.20| $0.02| $1.00| $0.40| $0.04| $1.50| —| —  
 GPT-5.6 Sol| $8.00| $0.80| $40.00| $16.00| $1.60| $60.00| 99.9%| 99% > 80 tokens per second2  
@@ -113,10 +114,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1](</index/introducing-gpt-6-1-sol/>)
   * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -135,7 +136,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 

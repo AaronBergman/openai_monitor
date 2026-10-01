@@ -48,11 +48,69 @@ Developer
 Website
     [(opens in a new window)](<https://www.salesforce.com/>)
 
-## Deals that need attention
+![](https://files.openai.com/content?id=file_00000000c20081f7b233a71bce0a397c&cdn=1&cp=pi&ma=30240000&ts=0&p=pi&cid=8&sig=6715815383d0a871ae9254bdaa6fa0167bf535b95c9cf40b13873f46a2cd96b8&v=0)Salesforce review deals closing this quarter, flag the biggest risks, and create a prioritized action plan to move them forward.
 
-![](https://files.openai.com/content?id=file_00000000c20081f7b233a71bce0a397c&cdn=1&cp=pi&ma=30240000&ts=0&p=pi&cid=8&sig=6715815383d0a871ae9254bdaa6fa0167bf535b95c9cf40b13873f46a2cd96b8&v=0)Salesforce review deals closing this quarter, flag the biggest risks, and create a prioritized action plan to move them forward. Include owners and due dates.
+![](https://files.openai.com/content?id=file_00000000c20081f7b233a71bce0a397c&cdn=1&cp=pi&ma=30240000&ts=0&p=pi&cid=8&sig=6715815383d0a871ae9254bdaa6fa0167bf535b95c9cf40b13873f46a2cd96b8&v=0)Salesforce review deals closing this quarter, flag the biggest risks, and create a prioritized action plan to move them forward.
 
-![](https://files.openai.com/content?id=file_00000000c20081f7b233a71bce0a397c&cdn=1&cp=pi&ma=30240000&ts=0&p=pi&cid=8&sig=6715815383d0a871ae9254bdaa6fa0167bf535b95c9cf40b13873f46a2cd96b8&v=0)Salesforce review deals closing this quarter, flag the biggest risks, and create a prioritized action plan to move them forward. Include owners and due dates.
+## Conversation response
+
+## Q4 2026 deal review
+
+**As of December 17, 2026.** The three opportunities reviewed total **$540,000**. Each has an unresolved step before its recorded close date. This is the amount under review, not a forecast of lost revenue or a view of the full pipeline.
+
+Prioritize Meridian first: it is the largest deal, has the earliest close date, and still lacks a procurement owner and scheduled legal review.
+
+Priority| Opportunity| Amount| Close date| Main risk| Owner  
+---|---|---|---|---|---  
+1| Meridian Foods| $240,000| December 23| Security and procurement process incomplete| Elena Park  
+2| Beacon Logistics| $180,000| December 28| Finance approval unconfirmed| Marcus Lee  
+3| Juniper Retail| $120,000| December 30| Pilot acceptance overdue| Priya Shah  
+  
+### 1\. Meridian Foods · Establish a path to signature
+
+The December 16 call confirms that the proposal matches the agreed scope. The security addendum is still outstanding, no procurement owner is assigned, and legal review is not scheduled. Scope agreement alone does not support confidence in a December 23 close.
+
+Meridian call summary · December 16
+
+**Next actions for Elena:**
+
+  * By **December 18** , ask Dana Brooks to name the procurement owner and confirm who will complete the security addendum.
+  * Arrange legal review for **December 21** , subject to the buyer’s availability.
+  * Ask the procurement owner to confirm the remaining approval and signature steps. If those dates cannot support December 23, revise the close plan rather than treating the current date as confirmed.
+
+
+
+### 2\. Beacon Logistics · Get the budget decision on the calendar
+
+The pilot met its agreed success criteria, and the operations sponsor supports the $180,000 proposal. The December 15 call does not establish finance approval or a decision date.
+
+Beacon call summary · December 15
+
+**Next actions for Marcus:**
+
+  * By **December 18** , confirm the finance approver and decision date with Jordan Lee.
+  * Propose a decision by **December 22** to leave time for subsequent steps before the recorded December 28 close.
+  * Record the actual budget decision. Sponsor support should not be reported as finance approval.
+
+
+
+### 3\. Juniper Retail · Resolve the remaining acceptance criterion
+
+Two of three pilot criteria passed. The December 16 call recorded currency-rounding discrepancies in **four of 60 sampled rows**. The December 15 acceptance target was missed; the customer agreed to retest on December 21.
+
+Juniper call summary · December 16
+
+**Next actions for Priya:**
+
+  * Confirm the corrected export is ready by **December 18**.
+  * Complete the agreed **December 21** retest with the customer.
+  * Seek written acceptance by **December 22** if the retest passes. If it fails, agree on a new test plan before reaffirming the close date.
+
+
+
+**Next checkpoint: December 18.** Look for a named procurement owner at Meridian, a finance decision date at Beacon, and a corrected export at Juniper. No opportunity fields or close dates have been changed.
+
+I can draft the buyer follow-ups for Elena, Marcus, and Priya, with the specific approvals, owners, and dates each needs to confirm.
 
 ## How it works
 
@@ -64,19 +122,19 @@ Connect Salesforce CRM context to ChatGPT to review accounts, opportunities, con
 
 ![](https://files.openai.com/content?id=file_00000000c20081f7b233a71bce0a397c&cdn=1&cp=pi&ma=30240000&ts=0&p=pi&cid=8&sig=6715815383d0a871ae9254bdaa6fa0167bf535b95c9cf40b13873f46a2cd96b8&v=0)Salesforce Pull CRM context for [account] and create a meeting brief with opportunity status, key contacts, recent activity, risks, and recommended questions.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Salesforce+Pull+CRM+context+for+%5Baccount%5D+and+create+a+meeting+brief+with+opportunity+status%2C+key+contacts%2C+recent+activity%2C+risks%2C+and+recommended+questions.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_697d413990c88191a2bf4799604f8f6c?install&prompt=Pull%20CRM%20context%20for%20%5Baccount%5D%20and%20create%20a%20meeting%20brief%20with%20opportunity%20status%2C%20key%20contacts%2C%20recent%20activity%2C%20risks%2C%20and%20recommended%20questions.&surface=work>)
 
   * ### Summarize pipeline and risks
 
 ![](https://files.openai.com/content?id=file_00000000c20081f7b233a71bce0a397c&cdn=1&cp=pi&ma=30240000&ts=0&p=pi&cid=8&sig=6715815383d0a871ae9254bdaa6fa0167bf535b95c9cf40b13873f46a2cd96b8&v=0)Salesforce Review my open opportunities closing this quarter. Group by stage, flag stalled deals, and suggest next actions for each account owner.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Salesforce+Review+my+open+opportunities+closing+this+quarter.+Group+by+stage%2C+flag+stalled+deals%2C+and+suggest+next+actions+for+each+account+owner.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_697d413990c88191a2bf4799604f8f6c?install&prompt=Review%20my%20open%20opportunities%20closing%20this%20quarter.%20Group%20by%20stage%2C%20flag%20stalled%20deals%2C%20and%20suggest%20next%20actions%20for%20each%20account%20owner.&surface=work>)
 
   * ### Create follow-up and CRM updates
 
 ![](https://files.openai.com/content?id=file_00000000c20081f7b233a71bce0a397c&cdn=1&cp=pi&ma=30240000&ts=0&p=pi&cid=8&sig=6715815383d0a871ae9254bdaa6fa0167bf535b95c9cf40b13873f46a2cd96b8&v=0)Salesforce Turn these customer call notes into a concise follow-up email and a CRM update with next steps, risks, and owner commitments.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Salesforce+Turn+these+customer+call+notes+into+a+concise+follow-up+email+and+a+CRM+update+with+next+steps%2C+risks%2C+and+owner+commitments.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_697d413990c88191a2bf4799604f8f6c?install&prompt=Turn%20these%20customer%20call%20notes%20into%20a%20concise%20follow-up%20email%20and%20a%20CRM%20update%20with%20next%20steps%2C%20risks%2C%20and%20owner%20commitments.&surface=work>)
 
 
 
@@ -123,10 +181,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1](</index/introducing-gpt-6-1-sol/>)
   * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -145,7 +203,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 

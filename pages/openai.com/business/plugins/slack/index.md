@@ -48,11 +48,42 @@ Developer
 Website
     [(opens in a new window)](<https://slack.com/>)
 
-## This week in procurement
-
 ![](https://files.openai.com/content?id=file_00000000f76081f7aadb2093dc9a88d7&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=a45ce46237849f50f780ce7660a9d5f9fca54426fe81c38dd4a49cfeb962335a&v=0)Slack turn this week’s team conversations into a project update with progress, blockers, owners, and recommended next steps.
 
 ![](https://files.openai.com/content?id=file_00000000f76081f7aadb2093dc9a88d7&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=a45ce46237849f50f780ce7660a9d5f9fca54426fe81c38dd4a49cfeb962335a&v=0)Slack turn this week’s team conversations into a project update with progress, blockers, owners, and recommended next steps.
+
+## Conversation response
+
+## Procurement update · September 14–18, 2026
+
+As of September 17, **36 blanket purchase orders are ready for use Monday**. Two supplier activations and Toledo’s packaging renewal still need clearance. The update below brings together this week’s procurement operations, supplier onboarding, and packaging renewal conversations.
+
+### Progress
+
+  * **Blanket purchase orders:** Alex Chen confirmed that all 36 Q4 orders for maintenance supplies at Dayton and Toledo are in the purchasing system. Plant buyers should use them for repeat orders starting September 21.
+  * **Supplier onboarding:** Six of eight new suppliers are active. Nina Patel is completing the remaining two checks.
+  * **Packaging renewals:** Owen Clark has agreed pricing for Dayton, Toledo, and Akron. Current prices will hold for 12 months. Dayton and Akron are ready to sign; Toledo is awaiting legal approval.
+
+
+
+### Blockers
+
+Open item| Owner| Target| Required before proceeding  
+---|---|---|---  
+Two suppliers’ bank details need independent callback verification| Nina Patel| September 18| Complete verification before releasing their purchase orders  
+Toledo’s liability language is still under review| Maya Singh| September 21| Legal approval before routing the renewal for signature  
+  
+### Recommended next steps
+
+  1. **Finish supplier verification Friday.** Nina should confirm each result in the supplier-onboarding conversation. Keep both suppliers’ purchase orders on hold until verification is complete; a target date is not clearance to release them.
+  2. **Sign the two cleared renewals Friday.** Owen should complete Dayton and Akron on September 18 without waiting for Toledo. Route Toledo separately after Maya approves the liability language.
+  3. **Confirm Monday’s ordering instructions.** Alex should remind Dayton and Toledo buyers to use the released blanket purchase orders for repeat maintenance orders from September 21.
+
+
+
+**Watch next:** Nina’s verification results Friday and Maya’s legal decision Monday. Until those updates arrive, report the two suppliers as pending and Toledo’s renewal as unsigned.
+
+I can draft the owner follow-ups and Alex’s reminder to plant buyers. The update above is ready for your review before posting.
 
 ## How it works
 
@@ -64,19 +95,19 @@ Use your Slack messages and channel discussions to create recaps, gather backgro
 
 Use the scope, timeline, and budget from my ![](https://files.openai.com/content?id=file_00000000f76081f7aadb2093dc9a88d7&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=a45ce46237849f50f780ce7660a9d5f9fca54426fe81c38dd4a49cfeb962335a&v=0)Slack conversations to draft a project proposal I can share with the team.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=Use+the+scope%2C+timeline%2C+and+budget+from+my+%40Slack+conversations+to+draft+a+project+proposal+I+can+share+with+the+team.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69a1d78e929881919bba0dbda1f6436d?install&prompt=Use%20the%20scope%2C%20timeline%2C%20and%20budget%20from%20my%20%40Slack%20conversations%20to%20draft%20a%20project%20proposal%20I%20can%20share%20with%20the%20team.&surface=work>)
 
   * ### Prep your code for review
 
 ![](https://files.openai.com/content?id=file_00000000f76081f7aadb2093dc9a88d7&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=a45ce46237849f50f780ce7660a9d5f9fca54426fe81c38dd4a49cfeb962335a&v=0)Slack Write a pull request description for the feature I built in Codex. Include what changed, the key tradeoffs, and anything my team should know.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Slack+Write+a+pull+request+description+for+the+feature+I+built+in+Codex.+Include+what+changed%2C+the+key+tradeoffs%2C+and+anything+my+team+should+know.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69a1d78e929881919bba0dbda1f6436d?install&prompt=Write%20a%20pull%20request%20description%20for%20the%20feature%20I%20built%20in%20Codex.%20Include%20what%20changed%2C%20the%20key%20tradeoffs%2C%20and%20anything%20my%20team%20should%20know.&surface=work>)
 
   * ### Make a plan before you build
 
 Turn my notes into a technical design doc with the problem, proposed approach, and open questions. Use relevant ![](https://files.openai.com/content?id=file_00000000f76081f7aadb2093dc9a88d7&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=a45ce46237849f50f780ce7660a9d5f9fca54426fe81c38dd4a49cfeb962335a&v=0)Slack conversations for context.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=Turn+my+notes+into+a+technical+design+doc+with+the+problem%2C+proposed+approach%2C+and+open+questions.+Use+relevant+%40Slack+conversations+for+context.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69a1d78e929881919bba0dbda1f6436d?install&prompt=Turn%20my%20notes%20into%20a%20technical%20design%20doc%20with%20the%20problem%2C%20proposed%20approach%2C%20and%20open%20questions.%20Use%20relevant%20%40Slack%20conversations%20for%20context.&surface=work>)
 
 
 
@@ -123,10 +154,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1](</index/introducing-gpt-6-1-sol/>)
   * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -145,7 +176,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 

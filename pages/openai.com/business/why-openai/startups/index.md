@@ -40,203 +40,203 @@ Transformative companies can come from anywhere. OpenAI supports founders at eve
 
 [Join an event](</leads/startup/>)[Start building(opens in a new window)](<https://platform.openai.com/>)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/1j82Mng6jIJWoWpbp8EJjE/3e9911a3eb85afc88bc30fe987f8299a/Legora.svg?w=3840&q=90)
+![](https://images.ctfassets.net/kftzwdyauwt9/1j82Mng6jIJWoWpbp8EJjE/3e9911a3eb85afc88bc30fe987f8299a/Legora.svg)
 
 ![](https://images.ctfassets.net/kftzwdyauwt9/6L8gN6qaVDNKAsQS2oG1hD/5cc03517538cab88870d61d834a1c811/Clay.svg?w=3840&q=90)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/ut4kovuUx2HMYcicRawrY/69105cfa7fe57fdedd69d8dcdc291679/Avoca.svg?w=3840&q=90)
+![](https://images.ctfassets.net/kftzwdyauwt9/ut4kovuUx2HMYcicRawrY/69105cfa7fe57fdedd69d8dcdc291679/Avoca.svg)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/7ikW75RyE67aXcVOweHXRC/3e652f1318d6a867f8523ca010db63cf/HeyGen.svg?w=3840&q=90)
+![](https://images.ctfassets.net/kftzwdyauwt9/7ikW75RyE67aXcVOweHXRC/3e652f1318d6a867f8523ca010db63cf/HeyGen.svg)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/1gOEBJAdxzyjkLo0aGn8uT/2295cfd98597cfc83d9128bee2a2c216/Warp.svg?w=3840&q=90)
+![](https://images.ctfassets.net/kftzwdyauwt9/1gOEBJAdxzyjkLo0aGn8uT/2295cfd98597cfc83d9128bee2a2c216/Warp.svg)
 
 ![](https://images.ctfassets.net/kftzwdyauwt9/ZLsIuDYT0QLWJ36N7Vadu/13f75c54bc14112d49f16433a66b4575/Cognition.svg?w=3840&q=90)
 
 ![](https://images.ctfassets.net/kftzwdyauwt9/72XixBtJjQGqxhOJIY31qt/f7a1c9a1b3fd45d62e66a94236415caf/Lovart.svg?w=3840&q=90)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/225jV7mulZwMItRaxMtVNv/cf41f6c98aa299244dd47b288cb0e235/Abridge.svg?w=3840&q=90)
+![](https://images.ctfassets.net/kftzwdyauwt9/225jV7mulZwMItRaxMtVNv/cf41f6c98aa299244dd47b288cb0e235/Abridge.svg)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/77kWL1khDYftDE7orCIuqc/4dab51db112d3d503a4ef5fdb6509f62/Gamma.svg?w=3840&q=90)
+![](https://images.ctfassets.net/kftzwdyauwt9/77kWL1khDYftDE7orCIuqc/4dab51db112d3d503a4ef5fdb6509f62/Gamma.svg)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/5fgi2GVi4exJTG4JtnxZbG/2c8f3a44089d3ef63ff5c9a4740e9bce/Supabase.svg?w=3840&q=90)
+![](https://images.ctfassets.net/kftzwdyauwt9/5fgi2GVi4exJTG4JtnxZbG/2c8f3a44089d3ef63ff5c9a4740e9bce/Supabase.svg)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/1juhJZ7O6zbrDBRhtmLT8q/1271daf107ca389c96328d842d47b55f/Sierra.svg?w=3840&q=90)
+![](https://images.ctfassets.net/kftzwdyauwt9/1juhJZ7O6zbrDBRhtmLT8q/1271daf107ca389c96328d842d47b55f/Sierra.svg)
 
 ![](https://images.ctfassets.net/kftzwdyauwt9/2v9hbHvX0bMpira4DcdBaS/6b33f6b6dbc559c9c640911434d89638/Decagon.svg?w=3840&q=90)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/7tmEeVXWIHcYVmmn885EVK/df2d1348d4250c8a8dadf8234568ec5d/n8n.svg?w=3840&q=90)
+![](https://images.ctfassets.net/kftzwdyauwt9/7tmEeVXWIHcYVmmn885EVK/df2d1348d4250c8a8dadf8234568ec5d/n8n.svg)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/1TNmx6uUIidm3KhE48zgg7/2bf51af85f819012ba22bbdf8c1d793f/Manus.svg?w=3840&q=90)
+![](https://images.ctfassets.net/kftzwdyauwt9/1TNmx6uUIidm3KhE48zgg7/2bf51af85f819012ba22bbdf8c1d793f/Manus.svg)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/23ETts8Xjs6vKNNkBCG8k/6014ba3f9a376b5cd1e5d04764c6e24a/Netomi.svg?w=3840&q=90)
+![](https://images.ctfassets.net/kftzwdyauwt9/23ETts8Xjs6vKNNkBCG8k/6014ba3f9a376b5cd1e5d04764c6e24a/Netomi.svg)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/3ntA8sykbvsy9e4AxrUMjZ/06e01d97f48a9f3e374fe1608b289d70/Harvey.svg?w=3840&q=90)
+![](https://images.ctfassets.net/kftzwdyauwt9/3ntA8sykbvsy9e4AxrUMjZ/06e01d97f48a9f3e374fe1608b289d70/Harvey.svg)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/7GyunaoZZMKYR8wn1POHC4/dc822e2f332dc40111d719f7aac55866/Fireflies.svg?w=3840&q=90)
+![](https://images.ctfassets.net/kftzwdyauwt9/7GyunaoZZMKYR8wn1POHC4/dc822e2f332dc40111d719f7aac55866/Fireflies.svg)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/2W8XUR8gJQZsgVsrlq6sBS/786b9e1fd298c01accc373225018835b/Amp.svg?w=3840&q=90)
+![](https://images.ctfassets.net/kftzwdyauwt9/2W8XUR8gJQZsgVsrlq6sBS/786b9e1fd298c01accc373225018835b/Amp.svg)
 
 ![](https://images.ctfassets.net/kftzwdyauwt9/nrDdUmK6UbWVBnBKUZ8CV/3804c431cb8424682557c3cdcdff9e36/Emergent.svg?w=3840&q=90)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/3BogdGnHK8xBE2DUOCFFuc/7a63b502035f951249439fb4216497c7/Lovable.svg?w=3840&q=90)
+![](https://images.ctfassets.net/kftzwdyauwt9/3BogdGnHK8xBE2DUOCFFuc/7a63b502035f951249439fb4216497c7/Lovable.svg)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/3WpYwkQFzJBQbF0Lom45bE/0bbc87f3a73e7ef0fa93ccad2bf38726/Cursor.svg?w=3840&q=90)
+![](https://images.ctfassets.net/kftzwdyauwt9/3WpYwkQFzJBQbF0Lom45bE/0bbc87f3a73e7ef0fa93ccad2bf38726/Cursor.svg)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/2Y4OtUabmOyXs8EFMEo9Zt/c60bb480e9f1553432d99f8aa4028ae9/Depthfirst.svg?w=3840&q=90)
+![](https://images.ctfassets.net/kftzwdyauwt9/2Y4OtUabmOyXs8EFMEo9Zt/c60bb480e9f1553432d99f8aa4028ae9/Depthfirst.svg)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/79MdLFS1h6y5WexLk2Xgva/b17b0b715d6f60516c032686d119c116/Latent.svg?w=3840&q=90)
+![](https://images.ctfassets.net/kftzwdyauwt9/79MdLFS1h6y5WexLk2Xgva/b17b0b715d6f60516c032686d119c116/Latent.svg)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/7Ez5D9JzQgJVnDjI1ke4sp/91809ff07624a5752c0f06724d36c5d9/Genspark.svg?w=3840&q=90)
+![](https://images.ctfassets.net/kftzwdyauwt9/7Ez5D9JzQgJVnDjI1ke4sp/91809ff07624a5752c0f06724d36c5d9/Genspark.svg)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/6UBq6Qt6j1cwU2bNLwK0NB/20520f2d8a5e78d936c117bdf01309b5/Parloa.svg?w=3840&q=90)
+![](https://images.ctfassets.net/kftzwdyauwt9/6UBq6Qt6j1cwU2bNLwK0NB/20520f2d8a5e78d936c117bdf01309b5/Parloa.svg)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/1j82Mng6jIJWoWpbp8EJjE/3e9911a3eb85afc88bc30fe987f8299a/Legora.svg?w=3840&q=90)
+![](https://images.ctfassets.net/kftzwdyauwt9/1j82Mng6jIJWoWpbp8EJjE/3e9911a3eb85afc88bc30fe987f8299a/Legora.svg)
 
 ![](https://images.ctfassets.net/kftzwdyauwt9/6L8gN6qaVDNKAsQS2oG1hD/5cc03517538cab88870d61d834a1c811/Clay.svg?w=3840&q=90)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/ut4kovuUx2HMYcicRawrY/69105cfa7fe57fdedd69d8dcdc291679/Avoca.svg?w=3840&q=90)
+![](https://images.ctfassets.net/kftzwdyauwt9/ut4kovuUx2HMYcicRawrY/69105cfa7fe57fdedd69d8dcdc291679/Avoca.svg)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/7ikW75RyE67aXcVOweHXRC/3e652f1318d6a867f8523ca010db63cf/HeyGen.svg?w=3840&q=90)
+![](https://images.ctfassets.net/kftzwdyauwt9/7ikW75RyE67aXcVOweHXRC/3e652f1318d6a867f8523ca010db63cf/HeyGen.svg)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/1gOEBJAdxzyjkLo0aGn8uT/2295cfd98597cfc83d9128bee2a2c216/Warp.svg?w=3840&q=90)
+![](https://images.ctfassets.net/kftzwdyauwt9/1gOEBJAdxzyjkLo0aGn8uT/2295cfd98597cfc83d9128bee2a2c216/Warp.svg)
 
 ![](https://images.ctfassets.net/kftzwdyauwt9/ZLsIuDYT0QLWJ36N7Vadu/13f75c54bc14112d49f16433a66b4575/Cognition.svg?w=3840&q=90)
 
 ![](https://images.ctfassets.net/kftzwdyauwt9/72XixBtJjQGqxhOJIY31qt/f7a1c9a1b3fd45d62e66a94236415caf/Lovart.svg?w=3840&q=90)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/225jV7mulZwMItRaxMtVNv/cf41f6c98aa299244dd47b288cb0e235/Abridge.svg?w=3840&q=90)
+![](https://images.ctfassets.net/kftzwdyauwt9/225jV7mulZwMItRaxMtVNv/cf41f6c98aa299244dd47b288cb0e235/Abridge.svg)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/77kWL1khDYftDE7orCIuqc/4dab51db112d3d503a4ef5fdb6509f62/Gamma.svg?w=3840&q=90)
+![](https://images.ctfassets.net/kftzwdyauwt9/77kWL1khDYftDE7orCIuqc/4dab51db112d3d503a4ef5fdb6509f62/Gamma.svg)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/5fgi2GVi4exJTG4JtnxZbG/2c8f3a44089d3ef63ff5c9a4740e9bce/Supabase.svg?w=3840&q=90)
+![](https://images.ctfassets.net/kftzwdyauwt9/5fgi2GVi4exJTG4JtnxZbG/2c8f3a44089d3ef63ff5c9a4740e9bce/Supabase.svg)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/1juhJZ7O6zbrDBRhtmLT8q/1271daf107ca389c96328d842d47b55f/Sierra.svg?w=3840&q=90)
+![](https://images.ctfassets.net/kftzwdyauwt9/1juhJZ7O6zbrDBRhtmLT8q/1271daf107ca389c96328d842d47b55f/Sierra.svg)
 
 ![](https://images.ctfassets.net/kftzwdyauwt9/2v9hbHvX0bMpira4DcdBaS/6b33f6b6dbc559c9c640911434d89638/Decagon.svg?w=3840&q=90)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/7tmEeVXWIHcYVmmn885EVK/df2d1348d4250c8a8dadf8234568ec5d/n8n.svg?w=3840&q=90)
+![](https://images.ctfassets.net/kftzwdyauwt9/7tmEeVXWIHcYVmmn885EVK/df2d1348d4250c8a8dadf8234568ec5d/n8n.svg)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/1TNmx6uUIidm3KhE48zgg7/2bf51af85f819012ba22bbdf8c1d793f/Manus.svg?w=3840&q=90)
+![](https://images.ctfassets.net/kftzwdyauwt9/1TNmx6uUIidm3KhE48zgg7/2bf51af85f819012ba22bbdf8c1d793f/Manus.svg)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/23ETts8Xjs6vKNNkBCG8k/6014ba3f9a376b5cd1e5d04764c6e24a/Netomi.svg?w=3840&q=90)
+![](https://images.ctfassets.net/kftzwdyauwt9/23ETts8Xjs6vKNNkBCG8k/6014ba3f9a376b5cd1e5d04764c6e24a/Netomi.svg)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/3ntA8sykbvsy9e4AxrUMjZ/06e01d97f48a9f3e374fe1608b289d70/Harvey.svg?w=3840&q=90)
+![](https://images.ctfassets.net/kftzwdyauwt9/3ntA8sykbvsy9e4AxrUMjZ/06e01d97f48a9f3e374fe1608b289d70/Harvey.svg)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/7GyunaoZZMKYR8wn1POHC4/dc822e2f332dc40111d719f7aac55866/Fireflies.svg?w=3840&q=90)
+![](https://images.ctfassets.net/kftzwdyauwt9/7GyunaoZZMKYR8wn1POHC4/dc822e2f332dc40111d719f7aac55866/Fireflies.svg)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/2W8XUR8gJQZsgVsrlq6sBS/786b9e1fd298c01accc373225018835b/Amp.svg?w=3840&q=90)
+![](https://images.ctfassets.net/kftzwdyauwt9/2W8XUR8gJQZsgVsrlq6sBS/786b9e1fd298c01accc373225018835b/Amp.svg)
 
 ![](https://images.ctfassets.net/kftzwdyauwt9/nrDdUmK6UbWVBnBKUZ8CV/3804c431cb8424682557c3cdcdff9e36/Emergent.svg?w=3840&q=90)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/3BogdGnHK8xBE2DUOCFFuc/7a63b502035f951249439fb4216497c7/Lovable.svg?w=3840&q=90)
+![](https://images.ctfassets.net/kftzwdyauwt9/3BogdGnHK8xBE2DUOCFFuc/7a63b502035f951249439fb4216497c7/Lovable.svg)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/3WpYwkQFzJBQbF0Lom45bE/0bbc87f3a73e7ef0fa93ccad2bf38726/Cursor.svg?w=3840&q=90)
+![](https://images.ctfassets.net/kftzwdyauwt9/3WpYwkQFzJBQbF0Lom45bE/0bbc87f3a73e7ef0fa93ccad2bf38726/Cursor.svg)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/2Y4OtUabmOyXs8EFMEo9Zt/c60bb480e9f1553432d99f8aa4028ae9/Depthfirst.svg?w=3840&q=90)
+![](https://images.ctfassets.net/kftzwdyauwt9/2Y4OtUabmOyXs8EFMEo9Zt/c60bb480e9f1553432d99f8aa4028ae9/Depthfirst.svg)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/79MdLFS1h6y5WexLk2Xgva/b17b0b715d6f60516c032686d119c116/Latent.svg?w=3840&q=90)
+![](https://images.ctfassets.net/kftzwdyauwt9/79MdLFS1h6y5WexLk2Xgva/b17b0b715d6f60516c032686d119c116/Latent.svg)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/7Ez5D9JzQgJVnDjI1ke4sp/91809ff07624a5752c0f06724d36c5d9/Genspark.svg?w=3840&q=90)
+![](https://images.ctfassets.net/kftzwdyauwt9/7Ez5D9JzQgJVnDjI1ke4sp/91809ff07624a5752c0f06724d36c5d9/Genspark.svg)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/6UBq6Qt6j1cwU2bNLwK0NB/20520f2d8a5e78d936c117bdf01309b5/Parloa.svg?w=3840&q=90)
+![](https://images.ctfassets.net/kftzwdyauwt9/6UBq6Qt6j1cwU2bNLwK0NB/20520f2d8a5e78d936c117bdf01309b5/Parloa.svg)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/1j82Mng6jIJWoWpbp8EJjE/3e9911a3eb85afc88bc30fe987f8299a/Legora.svg?w=3840&q=90)
+![](https://images.ctfassets.net/kftzwdyauwt9/1j82Mng6jIJWoWpbp8EJjE/3e9911a3eb85afc88bc30fe987f8299a/Legora.svg)
 
 ![](https://images.ctfassets.net/kftzwdyauwt9/6L8gN6qaVDNKAsQS2oG1hD/5cc03517538cab88870d61d834a1c811/Clay.svg?w=3840&q=90)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/ut4kovuUx2HMYcicRawrY/69105cfa7fe57fdedd69d8dcdc291679/Avoca.svg?w=3840&q=90)
+![](https://images.ctfassets.net/kftzwdyauwt9/ut4kovuUx2HMYcicRawrY/69105cfa7fe57fdedd69d8dcdc291679/Avoca.svg)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/7ikW75RyE67aXcVOweHXRC/3e652f1318d6a867f8523ca010db63cf/HeyGen.svg?w=3840&q=90)
+![](https://images.ctfassets.net/kftzwdyauwt9/7ikW75RyE67aXcVOweHXRC/3e652f1318d6a867f8523ca010db63cf/HeyGen.svg)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/1gOEBJAdxzyjkLo0aGn8uT/2295cfd98597cfc83d9128bee2a2c216/Warp.svg?w=3840&q=90)
+![](https://images.ctfassets.net/kftzwdyauwt9/1gOEBJAdxzyjkLo0aGn8uT/2295cfd98597cfc83d9128bee2a2c216/Warp.svg)
 
 ![](https://images.ctfassets.net/kftzwdyauwt9/ZLsIuDYT0QLWJ36N7Vadu/13f75c54bc14112d49f16433a66b4575/Cognition.svg?w=3840&q=90)
 
 ![](https://images.ctfassets.net/kftzwdyauwt9/72XixBtJjQGqxhOJIY31qt/f7a1c9a1b3fd45d62e66a94236415caf/Lovart.svg?w=3840&q=90)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/225jV7mulZwMItRaxMtVNv/cf41f6c98aa299244dd47b288cb0e235/Abridge.svg?w=3840&q=90)
+![](https://images.ctfassets.net/kftzwdyauwt9/225jV7mulZwMItRaxMtVNv/cf41f6c98aa299244dd47b288cb0e235/Abridge.svg)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/77kWL1khDYftDE7orCIuqc/4dab51db112d3d503a4ef5fdb6509f62/Gamma.svg?w=3840&q=90)
+![](https://images.ctfassets.net/kftzwdyauwt9/77kWL1khDYftDE7orCIuqc/4dab51db112d3d503a4ef5fdb6509f62/Gamma.svg)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/5fgi2GVi4exJTG4JtnxZbG/2c8f3a44089d3ef63ff5c9a4740e9bce/Supabase.svg?w=3840&q=90)
+![](https://images.ctfassets.net/kftzwdyauwt9/5fgi2GVi4exJTG4JtnxZbG/2c8f3a44089d3ef63ff5c9a4740e9bce/Supabase.svg)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/1juhJZ7O6zbrDBRhtmLT8q/1271daf107ca389c96328d842d47b55f/Sierra.svg?w=3840&q=90)
+![](https://images.ctfassets.net/kftzwdyauwt9/1juhJZ7O6zbrDBRhtmLT8q/1271daf107ca389c96328d842d47b55f/Sierra.svg)
 
 ![](https://images.ctfassets.net/kftzwdyauwt9/2v9hbHvX0bMpira4DcdBaS/6b33f6b6dbc559c9c640911434d89638/Decagon.svg?w=3840&q=90)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/7tmEeVXWIHcYVmmn885EVK/df2d1348d4250c8a8dadf8234568ec5d/n8n.svg?w=3840&q=90)
+![](https://images.ctfassets.net/kftzwdyauwt9/7tmEeVXWIHcYVmmn885EVK/df2d1348d4250c8a8dadf8234568ec5d/n8n.svg)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/1TNmx6uUIidm3KhE48zgg7/2bf51af85f819012ba22bbdf8c1d793f/Manus.svg?w=3840&q=90)
+![](https://images.ctfassets.net/kftzwdyauwt9/1TNmx6uUIidm3KhE48zgg7/2bf51af85f819012ba22bbdf8c1d793f/Manus.svg)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/23ETts8Xjs6vKNNkBCG8k/6014ba3f9a376b5cd1e5d04764c6e24a/Netomi.svg?w=3840&q=90)
+![](https://images.ctfassets.net/kftzwdyauwt9/23ETts8Xjs6vKNNkBCG8k/6014ba3f9a376b5cd1e5d04764c6e24a/Netomi.svg)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/3ntA8sykbvsy9e4AxrUMjZ/06e01d97f48a9f3e374fe1608b289d70/Harvey.svg?w=3840&q=90)
+![](https://images.ctfassets.net/kftzwdyauwt9/3ntA8sykbvsy9e4AxrUMjZ/06e01d97f48a9f3e374fe1608b289d70/Harvey.svg)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/7GyunaoZZMKYR8wn1POHC4/dc822e2f332dc40111d719f7aac55866/Fireflies.svg?w=3840&q=90)
+![](https://images.ctfassets.net/kftzwdyauwt9/7GyunaoZZMKYR8wn1POHC4/dc822e2f332dc40111d719f7aac55866/Fireflies.svg)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/2W8XUR8gJQZsgVsrlq6sBS/786b9e1fd298c01accc373225018835b/Amp.svg?w=3840&q=90)
+![](https://images.ctfassets.net/kftzwdyauwt9/2W8XUR8gJQZsgVsrlq6sBS/786b9e1fd298c01accc373225018835b/Amp.svg)
 
 ![](https://images.ctfassets.net/kftzwdyauwt9/nrDdUmK6UbWVBnBKUZ8CV/3804c431cb8424682557c3cdcdff9e36/Emergent.svg?w=3840&q=90)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/3BogdGnHK8xBE2DUOCFFuc/7a63b502035f951249439fb4216497c7/Lovable.svg?w=3840&q=90)
+![](https://images.ctfassets.net/kftzwdyauwt9/3BogdGnHK8xBE2DUOCFFuc/7a63b502035f951249439fb4216497c7/Lovable.svg)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/3WpYwkQFzJBQbF0Lom45bE/0bbc87f3a73e7ef0fa93ccad2bf38726/Cursor.svg?w=3840&q=90)
+![](https://images.ctfassets.net/kftzwdyauwt9/3WpYwkQFzJBQbF0Lom45bE/0bbc87f3a73e7ef0fa93ccad2bf38726/Cursor.svg)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/2Y4OtUabmOyXs8EFMEo9Zt/c60bb480e9f1553432d99f8aa4028ae9/Depthfirst.svg?w=3840&q=90)
+![](https://images.ctfassets.net/kftzwdyauwt9/2Y4OtUabmOyXs8EFMEo9Zt/c60bb480e9f1553432d99f8aa4028ae9/Depthfirst.svg)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/79MdLFS1h6y5WexLk2Xgva/b17b0b715d6f60516c032686d119c116/Latent.svg?w=3840&q=90)
+![](https://images.ctfassets.net/kftzwdyauwt9/79MdLFS1h6y5WexLk2Xgva/b17b0b715d6f60516c032686d119c116/Latent.svg)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/7Ez5D9JzQgJVnDjI1ke4sp/91809ff07624a5752c0f06724d36c5d9/Genspark.svg?w=3840&q=90)
+![](https://images.ctfassets.net/kftzwdyauwt9/7Ez5D9JzQgJVnDjI1ke4sp/91809ff07624a5752c0f06724d36c5d9/Genspark.svg)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/6UBq6Qt6j1cwU2bNLwK0NB/20520f2d8a5e78d936c117bdf01309b5/Parloa.svg?w=3840&q=90)
+![](https://images.ctfassets.net/kftzwdyauwt9/6UBq6Qt6j1cwU2bNLwK0NB/20520f2d8a5e78d936c117bdf01309b5/Parloa.svg)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/7ikW75RyE67aXcVOweHXRC/3e652f1318d6a867f8523ca010db63cf/HeyGen.svg?w=3840&q=90)
+![](https://images.ctfassets.net/kftzwdyauwt9/7ikW75RyE67aXcVOweHXRC/3e652f1318d6a867f8523ca010db63cf/HeyGen.svg)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/1j82Mng6jIJWoWpbp8EJjE/3e9911a3eb85afc88bc30fe987f8299a/Legora.svg?w=3840&q=90)
+![](https://images.ctfassets.net/kftzwdyauwt9/1j82Mng6jIJWoWpbp8EJjE/3e9911a3eb85afc88bc30fe987f8299a/Legora.svg)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/3WpYwkQFzJBQbF0Lom45bE/0bbc87f3a73e7ef0fa93ccad2bf38726/Cursor.svg?w=3840&q=90)
+![](https://images.ctfassets.net/kftzwdyauwt9/3WpYwkQFzJBQbF0Lom45bE/0bbc87f3a73e7ef0fa93ccad2bf38726/Cursor.svg)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/3ntA8sykbvsy9e4AxrUMjZ/06e01d97f48a9f3e374fe1608b289d70/Harvey.svg?w=3840&q=90)
+![](https://images.ctfassets.net/kftzwdyauwt9/3ntA8sykbvsy9e4AxrUMjZ/06e01d97f48a9f3e374fe1608b289d70/Harvey.svg)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/1juhJZ7O6zbrDBRhtmLT8q/1271daf107ca389c96328d842d47b55f/Sierra.svg?w=3840&q=90)
+![](https://images.ctfassets.net/kftzwdyauwt9/1juhJZ7O6zbrDBRhtmLT8q/1271daf107ca389c96328d842d47b55f/Sierra.svg)
 
 ![](https://images.ctfassets.net/kftzwdyauwt9/ZLsIuDYT0QLWJ36N7Vadu/13f75c54bc14112d49f16433a66b4575/Cognition.svg?w=3840&q=90)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/3BogdGnHK8xBE2DUOCFFuc/7a63b502035f951249439fb4216497c7/Lovable.svg?w=3840&q=90)
+![](https://images.ctfassets.net/kftzwdyauwt9/3BogdGnHK8xBE2DUOCFFuc/7a63b502035f951249439fb4216497c7/Lovable.svg)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/23ETts8Xjs6vKNNkBCG8k/6014ba3f9a376b5cd1e5d04764c6e24a/Netomi.svg?w=3840&q=90)
+![](https://images.ctfassets.net/kftzwdyauwt9/23ETts8Xjs6vKNNkBCG8k/6014ba3f9a376b5cd1e5d04764c6e24a/Netomi.svg)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/5fgi2GVi4exJTG4JtnxZbG/2c8f3a44089d3ef63ff5c9a4740e9bce/Supabase.svg?w=3840&q=90)
+![](https://images.ctfassets.net/kftzwdyauwt9/5fgi2GVi4exJTG4JtnxZbG/2c8f3a44089d3ef63ff5c9a4740e9bce/Supabase.svg)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/1gOEBJAdxzyjkLo0aGn8uT/2295cfd98597cfc83d9128bee2a2c216/Warp.svg?w=3840&q=90)
+![](https://images.ctfassets.net/kftzwdyauwt9/1gOEBJAdxzyjkLo0aGn8uT/2295cfd98597cfc83d9128bee2a2c216/Warp.svg)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/6UBq6Qt6j1cwU2bNLwK0NB/20520f2d8a5e78d936c117bdf01309b5/Parloa.svg?w=3840&q=90)
+![](https://images.ctfassets.net/kftzwdyauwt9/6UBq6Qt6j1cwU2bNLwK0NB/20520f2d8a5e78d936c117bdf01309b5/Parloa.svg)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/1TNmx6uUIidm3KhE48zgg7/2bf51af85f819012ba22bbdf8c1d793f/Manus.svg?w=3840&q=90)
+![](https://images.ctfassets.net/kftzwdyauwt9/1TNmx6uUIidm3KhE48zgg7/2bf51af85f819012ba22bbdf8c1d793f/Manus.svg)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/77kWL1khDYftDE7orCIuqc/4dab51db112d3d503a4ef5fdb6509f62/Gamma.svg?w=3840&q=90)
+![](https://images.ctfassets.net/kftzwdyauwt9/77kWL1khDYftDE7orCIuqc/4dab51db112d3d503a4ef5fdb6509f62/Gamma.svg)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/7ikW75RyE67aXcVOweHXRC/3e652f1318d6a867f8523ca010db63cf/HeyGen.svg?w=3840&q=90)
+![](https://images.ctfassets.net/kftzwdyauwt9/7ikW75RyE67aXcVOweHXRC/3e652f1318d6a867f8523ca010db63cf/HeyGen.svg)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/7Ez5D9JzQgJVnDjI1ke4sp/91809ff07624a5752c0f06724d36c5d9/Genspark.svg?w=3840&q=90)
+![](https://images.ctfassets.net/kftzwdyauwt9/7Ez5D9JzQgJVnDjI1ke4sp/91809ff07624a5752c0f06724d36c5d9/Genspark.svg)
 
 ![](https://images.ctfassets.net/kftzwdyauwt9/nrDdUmK6UbWVBnBKUZ8CV/3804c431cb8424682557c3cdcdff9e36/Emergent.svg?w=3840&q=90)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/225jV7mulZwMItRaxMtVNv/cf41f6c98aa299244dd47b288cb0e235/Abridge.svg?w=3840&q=90)
+![](https://images.ctfassets.net/kftzwdyauwt9/225jV7mulZwMItRaxMtVNv/cf41f6c98aa299244dd47b288cb0e235/Abridge.svg)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/ut4kovuUx2HMYcicRawrY/69105cfa7fe57fdedd69d8dcdc291679/Avoca.svg?w=3840&q=90)
+![](https://images.ctfassets.net/kftzwdyauwt9/ut4kovuUx2HMYcicRawrY/69105cfa7fe57fdedd69d8dcdc291679/Avoca.svg)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/79MdLFS1h6y5WexLk2Xgva/b17b0b715d6f60516c032686d119c116/Latent.svg?w=3840&q=90)
+![](https://images.ctfassets.net/kftzwdyauwt9/79MdLFS1h6y5WexLk2Xgva/b17b0b715d6f60516c032686d119c116/Latent.svg)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/2W8XUR8gJQZsgVsrlq6sBS/786b9e1fd298c01accc373225018835b/Amp.svg?w=3840&q=90)
+![](https://images.ctfassets.net/kftzwdyauwt9/2W8XUR8gJQZsgVsrlq6sBS/786b9e1fd298c01accc373225018835b/Amp.svg)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/7tmEeVXWIHcYVmmn885EVK/df2d1348d4250c8a8dadf8234568ec5d/n8n.svg?w=3840&q=90)
+![](https://images.ctfassets.net/kftzwdyauwt9/7tmEeVXWIHcYVmmn885EVK/df2d1348d4250c8a8dadf8234568ec5d/n8n.svg)
 
 ![](https://images.ctfassets.net/kftzwdyauwt9/6L8gN6qaVDNKAsQS2oG1hD/5cc03517538cab88870d61d834a1c811/Clay.svg?w=3840&q=90)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/2Y4OtUabmOyXs8EFMEo9Zt/c60bb480e9f1553432d99f8aa4028ae9/Depthfirst.svg?w=3840&q=90)
+![](https://images.ctfassets.net/kftzwdyauwt9/2Y4OtUabmOyXs8EFMEo9Zt/c60bb480e9f1553432d99f8aa4028ae9/Depthfirst.svg)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/7GyunaoZZMKYR8wn1POHC4/dc822e2f332dc40111d719f7aac55866/Fireflies.svg?w=3840&q=90)
+![](https://images.ctfassets.net/kftzwdyauwt9/7GyunaoZZMKYR8wn1POHC4/dc822e2f332dc40111d719f7aac55866/Fireflies.svg)
 
 ![](https://images.ctfassets.net/kftzwdyauwt9/2v9hbHvX0bMpira4DcdBaS/6b33f6b6dbc559c9c640911434d89638/Decagon.svg?w=3840&q=90)
 
@@ -344,10 +344,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1](</index/introducing-gpt-6-1-sol/>)
   * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -366,7 +366,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 

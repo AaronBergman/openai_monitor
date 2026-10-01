@@ -48,11 +48,51 @@ Developer
 Website
     [(opens in a new window)](<https://www.databricks.com/>)
 
-## August customer retention
-
 ![](https://files.openai.com/content?id=file_00000000a06481f6b01ef561cffb7a27&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=8&sig=361dece7ef5ee83a94bd0a3362b6e9db0384316cfed471514d48be0228d20d15&v=0)Databricks analyze last month’s customer retention, find the biggest drop-offs, and recommend three actions backed by the data.
 
 ![](https://files.openai.com/content?id=file_00000000a06481f6b01ef561cffb7a27&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=8&sig=361dece7ef5ee83a94bd0a3362b6e9db0384316cfed471514d48be0228d20d15&v=0)Databricks analyze last month’s customer retention, find the biggest drop-offs, and recommend three actions backed by the data.
+
+## Conversation response
+
+## August 2026 customer retention
+
+**Retention fell to 84%, down 4 percentage points from July.** August lost 176 customers. New customers had the sharpest cohort decline; small businesses accounted for most losses.
+
+Retention means month-start paid customers who remain paid at month-end, divided by the month-start population. In-month signups are excluded. Data: July–August 2026, `analytics.customer_month_status`.
+
+### Where retention fell
+
+“New customers” joined in the prior calendar month: July for August’s cohort. “Established” customers joined earlier.
+
+![Retention by customer cohort: new customers fell from 75% in July to 65% in August; established customers fell from 91.25% to 88.75%.](https://cdn.openai.com/business/plugins/conversations/databricks/retention-cohorts-2026-08-v1.png)
+
+Cohort| July retained / starting| July retention| August retained / starting| August retention| Change  
+---|---|---|---|---|---  
+New customers| 150 / 200| 75.0%| 143 / 220| 65.0%| −10.0 pp  
+Established| 730 / 800| 91.3%| 781 / 880| 88.8%| −2.5 pp  
+**Total**| **880 / 1,000**| **88.0%**| **924 / 1,100**| **84.0%**| **−4.0 pp**  
+  
+### Where customers were lost
+
+Segment| July retention| August retained / starting| August retention| August losses  
+---|---|---|---|---  
+Small business| 83%| 480 / 600| 80%| 120  
+Mid-market| 93%| 276 / 300| 92%| 24  
+Enterprise| 93%| 168 / 200| 84%| 32  
+  
+Small businesses represented **68.2% of August losses** : 120 of 176. Enterprise had the largest segment decline, at 9 percentage points. Cohort and segment tables describe the same customers; their losses should not be added together.
+
+### Three recommended actions
+
+  1. **Test guided setup for new customers.** Among August’s new-customer cohort, 85 of 100 customers who completed the key workflow by August 1 were retained, versus 58 of 120 who had not: 85% versus 48.3%. Run a randomized test of guided setup and compare first-full-month retention. This association does not prove that setup caused better retention.
+  2. **Review the 120 small-business losses before choosing a retention offer.** Group cancellation reasons and usage patterns to distinguish onboarding problems, product gaps, and price concerns. This is the largest pool of losses; the current data does not identify their causes.
+  3. **Audit the 32 enterprise losses.** Losses rose from 14 in July to 32 in August despite an unchanged starting population of 200. Review renewal outcomes and account notes before deciding which intervention fits.
+
+
+
+Customer growth masks the decline: August ended with **1,120 paid customers** , comprising 924 retained customers plus 196 new customers still active at month-end, up from 1,100 in July.
+
+I can turn the guided-setup recommendation into a test plan with eligibility criteria, a control group, and a first-full-month retention measure.
 
 ## How it works
 
@@ -64,19 +104,19 @@ Connect Databricks to ChatGPT to inspect governed lakehouse data, ask analytics 
 
 ![](https://files.openai.com/content?id=file_00000000a06481f6b01ef561cffb7a27&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=8&sig=361dece7ef5ee83a94bd0a3362b6e9db0384316cfed471514d48be0228d20d15&v=0)Databricks Genie Find the main drivers of last week's change in [metric]. Show the query path, summarize the result, and note caveats.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Databricks+Genie+Find+the+main+drivers+of+last+week%27s+change+in+%5Bmetric%5D.+Show+the+query+path%2C+summarize+the+result%2C+and+note+caveats.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/Plugin_1e24c86b19248191a8c6abb5bc115819?install&prompt=Find%20the%20main%20drivers%20of%20last%20week's%20change%20in%20%5Bmetric%5D.%20Show%20the%20query%20path%2C%20summarize%20the%20result%2C%20and%20note%20caveats.&surface=work>)
 
   * ### Generate and review SQL
 
 ![](https://files.openai.com/content?id=file_00000000a06481f6b01ef561cffb7a27&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=8&sig=361dece7ef5ee83a94bd0a3362b6e9db0384316cfed471514d48be0228d20d15&v=0)Databricks Genie Draft SQL to calculate [metric] by [dimension] for the last 90 days. Explain the joins and filters, and list checks for missing data or unexpected values.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Databricks+Genie+Draft+SQL+to+calculate+%5Bmetric%5D+by+%5Bdimension%5D+for+the+last+90+days.+Explain+the+joins+and+filters%2C+and+list+checks+for+missing+data+or+unexpected+values.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/Plugin_1e24c86b19248191a8c6abb5bc115819?install&prompt=Draft%20SQL%20to%20calculate%20%5Bmetric%5D%20by%20%5Bdimension%5D%20for%20the%20last%2090%20days.%20Explain%20the%20joins%20and%20filters%2C%20and%20list%20checks%20for%20missing%20data%20or%20unexpected%20values.&surface=work>)
 
   * ### Package insights for stakeholders
 
 ![](https://files.openai.com/content?id=file_00000000a06481f6b01ef561cffb7a27&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=8&sig=361dece7ef5ee83a94bd0a3362b6e9db0384316cfed471514d48be0228d20d15&v=0)Databricks Genie Review this dashboard and explain what changed most versus the prior period, with likely drivers and follow-up checks.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Databricks+Genie+Review+this+dashboard+and+explain+what+changed+most+versus+the+prior+period%2C+with+likely+drivers+and+follow-up+checks.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/Plugin_1e24c86b19248191a8c6abb5bc115819?install&prompt=Review%20this%20dashboard%20and%20explain%20what%20changed%20most%20versus%20the%20prior%20period%2C%20with%20likely%20drivers%20and%20follow-up%20checks.&surface=work>)
 
 
 
@@ -124,10 +164,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1](</index/introducing-gpt-6-1-sol/>)
   * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -146,7 +186,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 

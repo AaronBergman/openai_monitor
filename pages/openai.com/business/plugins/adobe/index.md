@@ -61,19 +61,19 @@ Describe what you want to make or change, and Adobe tools can help you turn idea
 
 ![](https://files.openai.com/content?id=file_000000008108722fa64c915ee284fa0e&cdn=1&cp=pi&ma=32140800&ts=0&p=pi&cid=1&sig=25a10da078b208cf17cb0b82990d661e47ff5e76f42ea343b344508ff725507e&v=0)Adobe Create a flyer for a local yoga studio using a template, customize the text and colors, and convert it into a polished PDF.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Adobe+Create+a+flyer+for+a+local+yoga+studio+using+a+template%2C+customize+the+text+and+colors%2C+and+convert+it+into+a+polished+PDF.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69312da8e4dc81919370cb86fd172b6c?install&prompt=Create%20a%20flyer%20for%20a%20local%20yoga%20studio%20using%20a%20template%2C%20customize%20the%20text%20and%20colors%2C%20and%20convert%20it%20into%20a%20polished%20PDF.&surface=work>)
 
   * ### Create polished content that matches your style
 
 ![](https://files.openai.com/content?id=file_000000008108722fa64c915ee284fa0e&cdn=1&cp=pi&ma=32140800&ts=0&p=pi&cid=1&sig=25a10da078b208cf17cb0b82990d661e47ff5e76f42ea343b344508ff725507e&v=0)Adobe Retouch this set of photos by balancing the lighting and color, removing the backgrounds, and cropping each one to a 1:1 format.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Adobe+Retouch+this+set+of+photos+by+balancing+the+lighting+and+color%2C+removing+the+backgrounds%2C+and+cropping+each+one+to+a+1%3A1+format.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69312da8e4dc81919370cb86fd172b6c?install&prompt=Retouch%20this%20set%20of%20photos%20by%20balancing%20the%20lighting%20and%20color%2C%20removing%20the%20backgrounds%2C%20and%20cropping%20each%20one%20to%20a%201%3A1%20format.&surface=work>)
 
   * ### Reduce creative bottlenecks
 
 ![](https://files.openai.com/content?id=file_000000008108722fa64c915ee284fa0e&cdn=1&cp=pi&ma=32140800&ts=0&p=pi&cid=1&sig=25a10da078b208cf17cb0b82990d661e47ff5e76f42ea343b344508ff725507e&v=0)Adobe Turn this video into a quick cut featuring the best moments, then resize it for YouTube Shorts and Instagram Reels.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Adobe+Turn+this+video+into+a+quick+cut+featuring+the+best+moments%2C+then+resize+it+for+YouTube+Shorts+and+Instagram+Reels.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69312da8e4dc81919370cb86fd172b6c?install&prompt=Turn%20this%20video%20into%20a%20quick%20cut%20featuring%20the%20best%20moments%2C%20then%20resize%20it%20for%20YouTube%20Shorts%20and%20Instagram%20Reels.&surface=work>)
 
 
 
@@ -131,10 +131,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1](</index/introducing-gpt-6-1-sol/>)
   * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -153,7 +153,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
