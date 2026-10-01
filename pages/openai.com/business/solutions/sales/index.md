@@ -93,7 +93,7 @@ Account prioritization and engagementMeeting prep and follow-upDeal strategyPipe
 
 Find my highest-priority accounts this week and recommend next steps. 
 
-[Try in ChatGPT(opens in a new window)](<https://chatgpt.com/?surface=work&q=Find+my+highest-priority+accounts+this+week+and+recommend+next+steps.>)
+[Try in ChatGPT(opens in a new window)](<https://chatgpt.com/?prompt=Find%20my%20highest-priority%20accounts%20this%20week%20and%20recommend%20next%20steps.&surface=work>)
 
 ## Trusted by leading teams
 
@@ -218,10 +218,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1](</index/introducing-gpt-6-1-sol/>)
   * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -240,7 +240,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 

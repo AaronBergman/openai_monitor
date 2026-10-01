@@ -48,11 +48,68 @@ Developer
 Website
     [(opens in a new window)](<https://workspace.google.com/products/gmail/>)
 
+![](https://files.openai.com/content?id=file_00000000fb5881f79c1246ea691411ba&cdn=1&cp=pi&ma=31881600&ts=0&p=pi&cid=8&sig=d1e8692c27cc084b92aaf2042ee475e3861fa2dbc085c344aa12e82c813e1493&v=0)Gmail prep me for today’s meetings using my emails, Google Calendar, and Google Drive. Flag open decisions and draft talking points.
+
+![](https://files.openai.com/content?id=file_00000000fb5881f79c1246ea691411ba&cdn=1&cp=pi&ma=31881600&ts=0&p=pi&cid=8&sig=d1e8692c27cc084b92aaf2042ee475e3861fa2dbc085c344aa12e82c813e1493&v=0)Gmail prep me for today’s meetings using my emails, Google Calendar, and Google Drive. Flag open decisions and draft talking points.
+
+## Conversation response
+
 ## Your meetings today
 
-![](https://files.openai.com/content?id=file_00000000fb5881f79c1246ea691411ba&cdn=1&cp=pi&ma=31881600&ts=0&p=pi&cid=8&sig=d1e8692c27cc084b92aaf2042ee475e3861fa2dbc085c344aa12e82c813e1493&v=0)Gmail prep me for today’s meetings using my emails, Google Calendar, and Google Drive. Flag open decisions and draft talking points.
+You have three meetings today. The launch review needs the most attention: the video delivery time conflicts with the planned launch, and FAQ ownership is still unresolved.
 
-![](https://files.openai.com/content?id=file_00000000fb5881f79c1246ea691411ba&cdn=1&cp=pi&ma=31881600&ts=0&p=pi&cid=8&sig=d1e8692c27cc084b92aaf2042ee475e3861fa2dbc085c344aa12e82c813e1493&v=0)Gmail prep me for today’s meetings using my emails, Google Calendar, and Google Drive. Flag open decisions and draft talking points.
+### 9:30–10:00 AM · Launch readiness
+
+Zoe Patel, Marcus Reed
+
+The launch checklist still lists **Monday at 9 AM** , but Marcus’s latest email says the video won’t arrive until noon and will need an afternoon review. The FAQ also has no assigned owner.
+
+**Open decisions:** Can the launch move to Tuesday? Who owns the FAQ, and can both reviews finish Monday?
+
+**Recommendation:** Propose Tuesday, subject to video and FAQ approval. The current Monday plan doesn’t leave time for video review.
+
+**Talking points**
+
+  * “The video arrives after our planned launch time. Can we move to Tuesday, provided both reviews finish Monday?”
+  * “Marcus, can you confirm the video review timing? Zoe, who should own the FAQ and its approval by 3 PM Monday?”
+
+
+
+I can draft a launch update proposing Tuesday and asking Marcus and Zoe to confirm the remaining approvals.
+
+### 11:00–11:30 AM · Briar Studio onboarding
+
+Nina Park, Theo Martin
+
+Twelve people are ready for the pilot, including four team leads. The 50-record sample import is complete but hasn’t been checked. The onboarding plan calls for validating record counts, owners, and due dates before inviting the remaining eight participants.
+
+**Open decisions:** Who leads the validation, and when should it be complete?
+
+**Recommendation:** Start with the four team leads and make the wider rollout conditional on the sample passing review.
+
+**Talking points**
+
+  * “Let’s have the four leads check the sample before we bring in the other eight people.”
+  * “Who will own that review, and what completion date can we agree on?”
+
+
+
+### 2:00–2:30 PM · Weekly team priorities
+
+Avery Brooks, Sam Rivera
+
+The customer-feedback summary needs a first draft by **4 PM today** for Friday’s review. The work plan doesn’t name an owner. It also lists no agreed deadline for the reporting update.
+
+**Open decisions:** Who owns the feedback summary? Can the reporting update wait until next week?
+
+**Recommendation:** Prioritize the feedback draft. Confirm whether anyone needs the reporting update this week before moving it.
+
+**Talking points**
+
+  * “We have 90 minutes after this meeting to get the feedback draft out. Who can own it?”
+  * “Does anyone depend on the reporting update this week, or can we move it to next week?”
+
+
 
 ## How it works
 
@@ -64,19 +121,19 @@ Review your Gmail conversations to prepare replies, recap recent exchanges, gath
 
 ![](https://files.openai.com/content?id=file_00000000fb5881f79c1246ea691411ba&cdn=1&cp=pi&ma=31881600&ts=0&p=pi&cid=8&sig=d1e8692c27cc084b92aaf2042ee475e3861fa2dbc085c344aa12e82c813e1493&v=0)Gmail Summarize the last 5 messages in [subject line] and capture decisions, open questions, and what I should follow up on next.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Gmail+Summarize+the+last+5+messages+in+%5Bsubject+line%5D+and+capture+decisions%2C+open+questions%2C+and+what+I+should+follow+up+on+next.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_1p_95d39881713c8191931482a62d6edff9?install&prompt=Summarize%20the%20last%205%20messages%20in%20%5Bsubject%20line%5D%20and%20capture%20decisions%2C%20open%20questions%2C%20and%20what%20I%20should%20follow%20up%20on%20next.&surface=work>)
 
   * ### Stay ahead of follow-ups and commitments
 
 ![](https://files.openai.com/content?id=file_00000000fb5881f79c1246ea691411ba&cdn=1&cp=pi&ma=31881600&ts=0&p=pi&cid=8&sig=d1e8692c27cc084b92aaf2042ee475e3861fa2dbc085c344aa12e82c813e1493&v=0)Gmail Turn my latest customer escalation thread into an action tracker with owners, deadlines, and the exact email reference for each item.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Gmail+Turn+my+latest+customer+escalation+thread+into+an+action+tracker+with+owners%2C+deadlines%2C+and+the+exact+email+reference+for+each+item.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_1p_95d39881713c8191931482a62d6edff9?install&prompt=Turn%20my%20latest%20customer%20escalation%20thread%20into%20an%20action%20tracker%20with%20owners%2C%20deadlines%2C%20and%20the%20exact%20email%20reference%20for%20each%20item.&surface=work>)
 
   * ### Prioritize high-impact conversations
 
 ![](https://files.openai.com/content?id=file_00000000fb5881f79c1246ea691411ba&cdn=1&cp=pi&ma=31881600&ts=0&p=pi&cid=8&sig=d1e8692c27cc084b92aaf2042ee475e3861fa2dbc085c344aa12e82c813e1493&v=0)Gmail Review recent emails and identify the five conversations needing attention today. Explain urgency, upcoming deadlines, and customer or stakeholder risks, with a link to each thread.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Gmail+Review+recent+emails+and+identify+the+five+conversations+needing+attention+today.+Explain+urgency%2C+upcoming+deadlines%2C+and+customer+or+stakeholder+risks%2C+with+a+link+to+each+thread.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_1p_95d39881713c8191931482a62d6edff9?install&prompt=Review%20recent%20emails%20and%20identify%20the%20five%20conversations%20needing%20attention%20today.%20Explain%20urgency%2C%20upcoming%20deadlines%2C%20and%20customer%20or%20stakeholder%20risks%2C%20with%20a%20link%20to%20each%20thread.&surface=work>)
 
 
 
@@ -123,10 +180,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1](</index/introducing-gpt-6-1-sol/>)
   * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -145,7 +202,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 

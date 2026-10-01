@@ -91,10 +91,15 @@ Our answer to these challenges was to build a new architectural layer we call **
 Think of it like this: Chromium revolutionized browsers by moving tabs into separate processes. We’re taking that idea further by moving Chromium itself out of the main application process and into an isolated service layer. This shift unlocks a cascade of benefits:
 
   * **A simpler, modern app:** Atlas is built almost entirely in SwiftUI and AppKit. One language, one tech stack, one clean codebase.
+
   * **Faster startup:** Chromium boots asynchronously in the background. Atlas doesn’t wait — pixels hit the screen nearly instantly.
+
   * **Isolation from jank and crashes:** Chromium is a powerful and complex web engine. If its main thread hangs, Atlas doesn’t. If it crashes, Atlas stays up.
+
   * **Fewer merge headaches:** Because we’re not building on as much of the Chromium open source UI, our diff against upstream Chromium is much smaller and easier to maintain.
+
   * **Faster iteration:** Most engineers never need to build Chromium locally. OWL ships internally as a prebuilt binary, so Atlas builds take minutes not hours.
+
 
 
 
@@ -107,10 +112,15 @@ At a high level, the Atlas browser is the **OWL Client** , and the Chromium brow
 The OWL client library exposes a simple public Swift API, which abstracts several key concepts exposed by the host’s service layer:
 
   * **Session:** Configure and control the host globally
+
   * **Profile:** Manage browser state for a specific user profile
+
   * **WebView:** Control and embed individual web contents (e.g. render, input, navigate, zoom, etc.)
+
   * **WebContentRenderer:** Forward input events into Chromium’s rendering pipeline and receive feedback from the renderer
+
   * **LayerHost/Client:** Exchange compositing information between the UI and Chromium
+
 
 
 
@@ -172,7 +182,7 @@ Ken Rockot, Ben Goodger
 
 [View all](</news/>)
 
-![1 x 1](https://images.ctfassets.net/kftzwdyauwt9/38dcecW4JVMBEDqex7AmLJ/4dd8e32fc9e06a82c20310d1f83645f3/OpenAI_SoraAndroid_1x1.png?w=3840&q=90&fm=webp)
+![UI label with a branching-icon and the text ‘sora/android,’ centered on a starry night-sky background.](https://images.ctfassets.net/kftzwdyauwt9/38dcecW4JVMBEDqex7AmLJ/4dd8e32fc9e06a82c20310d1f83645f3/OpenAI_SoraAndroid_1x1.png?w=3840&q=90&fm=webp)
 
 [How We Used Codex to Ship Sora for Android in 28 DaysEngineeringDec 12, 2025](</index/shipping-sora-for-android-with-codex/>)
 
@@ -194,9 +204,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -215,7 +226,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -233,6 +245,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
