@@ -46,6 +46,18 @@ Switch cards to show Media
 
 Switch cards to hide Media
 
+Product
+
+Sep 29, 2026
+
+[Introducing GPT-6.1 SolMeet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.](</index/introducing-gpt-6-1-sol/>)
+
+Safety
+
+Sep 29, 2026
+
+[Addendum: GPT‑6.1 SolWe’re introducing GPT-6.1 Sol. GPT-6.1 is the latest model family in the GPT-6 series.(opens in a new window)](<https://deploymentsafety.openai.com/gpt-6-1-sol>)
+
 Publication
 
 Sep 23, 2026
@@ -88,18 +100,6 @@ Sep 3, 2026
 
 [GPT‑6 Astra System CardAstra is our first model to reach the Critical level of cybersecurity capability under our Preparedness Framework.(opens in a new window)](<https://deploymentsafety.openai.com/gpt-6-astra>)
 
-Security
-
-Aug 26, 2026
-
-[The Hugging Face incident and the road aheadOpenAI shares findings from the Hugging Face security incident and the steps we’re taking to strengthen AI model security, monitoring, and alignment.](</index/hugging-face-incident-and-the-road-ahead/>)
-
-Company
-
-Aug 18, 2026
-
-[Pacing model development in an era of cyber-critical capabilitiesOpenAI is strengthening monitoring, alignment, and security for frontier AI models. See how new safeguards are guiding the pace of model development.](</index/pacing-model-development-cyber-capabilities/>)
-
 Load more
 
 Research
@@ -112,10 +112,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -134,7 +134,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 

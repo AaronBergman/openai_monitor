@@ -71,8 +71,11 @@ Instead of throwing more people at the problem, our finance and engineering team
 The Agent works in three steps:
 
   * **Ingest data:** PDFs, scanned copies, even phone photos marked up with handwritten edits. What used to be dozens of inconsistent files now flow into one pipeline.
+
   * **Inference with prompting:** Using retrieval-augmented prompting, the system parses contracts into structured data. It doesn’t dump a thousand pages into context; it pulls only what’s relevant, reasons against it, and shows its work.
+
   * **Review:** Finance experts review the structured output, complete with annotations and references for any non-standard terms. The agent highlights what’s unusual; humans are then looped in to review.
+
 
 
 
@@ -93,9 +96,13 @@ This design ensures confidence: professionals get structured, reasoned data at s
 The results:
 
   * **Faster turnaround**. Reviews cut in half, ready overnight.
+
   * **Higher capacity**. Thousands of contracts processed without expanding headcount in lockstep.
+
   * **Smarter context**. Non-standard terms flagged with reasoning and references.
+
   * **Queryable results**. Tabular output in the data warehouse allows for easier data analysis.
+
 
 
 
@@ -145,10 +152,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -167,7 +174,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -185,6 +193,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)

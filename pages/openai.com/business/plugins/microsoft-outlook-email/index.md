@@ -48,11 +48,55 @@ Developer
 Website
     [(opens in a new window)](<https://www.microsoft.com/en-us/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook>)
 
+![](https://files.openai.com/content?id=file_0000000058ac81fbae22415c3105649e&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=8&sig=48cccf127f52db216b8d03d8f1602161a5b9d8145f27f8fbd36d14b6db41c76b&v=0)Outlook Email prioritize today’s emails that need a response, check Microsoft Teams and SharePoint for context, and add draft replies directly.
+
+![](https://files.openai.com/content?id=file_0000000058ac81fbae22415c3105649e&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=8&sig=48cccf127f52db216b8d03d8f1602161a5b9d8145f27f8fbd36d14b6db41c76b&v=0)Outlook Email prioritize today’s emails that need a response, check Microsoft Teams and SharePoint for context, and add draft replies directly.
+
+## Conversation response
+
 ## Emails that need a reply
 
-![](https://files.openai.com/content?id=file_0000000058ac81fbae22415c3105649e&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=8&sig=48cccf127f52db216b8d03d8f1602161a5b9d8145f27f8fbd36d14b6db41c76b&v=0)Outlook Email prioritize today’s emails that need a response, check Microsoft Teams and SharePoint for context, and add draft replies directly.
+Riley’s blocked pilot needs attention first, followed by Avery’s deck approval and Morgan’s budget question. The drafts below use the latest updates in **Microsoft Teams** and the approved plans in **SharePoint**. Tell me which drafts you’d like to edit or send. Nothing has been sent.
 
-![](https://files.openai.com/content?id=file_0000000058ac81fbae22415c3105649e&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=8&sig=48cccf127f52db216b8d03d8f1602161a5b9d8145f27f8fbd36d14b6db41c76b&v=0)Outlook Email prioritize today’s emails that need a response, check Microsoft Teams and SharePoint for context, and add draft replies directly.
+### 1\. Riley Shah · Pilot access still blocked
+
+The **Microsoft Teams** access update says engineering is targeting 10:30 AM, after Riley’s 10 AM pilot session. Sign-in still needs testing before anyone can confirm that access is restored.
+
+**Recommendation:** Explain that the fix is not expected before the session. Avoid calling the issue resolved until testing is complete.
+
+**Draft reply**
+
+Hi Riley,
+
+Engineering is targeting 10:30 AM for the access update, so we don’t expect it to be ready for your 10 AM session. We’ll need to test sign-in afterward before confirming that access is restored.
+
+I’ll share the test result or what remains blocked once we’ve checked. I’m sorry this is disrupting your session.
+
+### 2\. Avery Brooks · Webinar deck sign-off
+
+The review tracker approves slides 2–12 in v6. Slide 1 is still pending while Jordan confirms the speaker’s title. Design needs the final export by noon.
+
+**Recommendation:** Confirm the existing approvals, but hold the export until the title is verified.
+
+**Draft reply**
+
+Hi Avery,
+
+The review tracker shows slides 2–12 in v6 are approved. Jordan is still confirming the speaker’s title on slide 1, so please hold the final export until the title is confirmed.
+
+I’ll follow up with Jordan so we can confirm whether the deck is ready for the noon export.
+
+### 3\. Morgan Lee · Workshop cost center
+
+The approved workshop plan lists cost center **4820** and a spending cap of **$18,000**. The planning conversation confirms the budget is approved; Morgan only needs these details to complete the request.
+
+**Draft reply**
+
+Hi Morgan,
+
+Please use cost center 4820 for the workshop. The approved spending cap is $18,000, as listed in the final workshop budget.
+
+Thanks for completing the request.
 
 ## How it works
 
@@ -64,19 +108,19 @@ Review your Outlook conversations to prepare replies, recap recent exchanges, ga
 
 ![](https://files.openai.com/content?id=file_0000000058ac81fbae22415c3105649e&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=8&sig=48cccf127f52db216b8d03d8f1602161a5b9d8145f27f8fbd36d14b6db41c76b&v=0)Outlook Email Summarize the most recent thread with procurement and pull the exact questions they asked so I can answer cleanly.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Outlook+Email+Summarize+the+most+recent+thread+with+procurement+and+pull+the+exact+questions+they+asked+so+I+can+answer+cleanly.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_1p_6bcb5879c73c819196abc70016166099?install&prompt=Summarize%20the%20most%20recent%20thread%20with%20procurement%20and%20pull%20the%20exact%20questions%20they%20asked%20so%20I%20can%20answer%20cleanly.&surface=work>)
 
   * ### Stay ahead of follow-ups and commitments
 
 ![](https://files.openai.com/content?id=file_0000000058ac81fbae22415c3105649e&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=8&sig=48cccf127f52db216b8d03d8f1602161a5b9d8145f27f8fbd36d14b6db41c76b&v=0)Outlook Email Draft a reply to the latest customer message that acknowledges the concern, sets expectations, and proposes two next-step options.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Outlook+Email+Draft+a+reply+to+the+latest+customer+message+that+acknowledges+the+concern%2C+sets+expectations%2C+and+proposes+two+next-step+options.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_1p_6bcb5879c73c819196abc70016166099?install&prompt=Draft%20a%20reply%20to%20the%20latest%20customer%20message%20that%20acknowledges%20the%20concern%2C%20sets%20expectations%2C%20and%20proposes%20two%20next-step%20options.&surface=work>)
 
   * ### Prioritize high-impact conversations
 
 ![](https://files.openai.com/content?id=file_0000000058ac81fbae22415c3105649e&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=8&sig=48cccf127f52db216b8d03d8f1602161a5b9d8145f27f8fbd36d14b6db41c76b&v=0)Outlook Email Find the top 5 emails I should respond to today based on urgency, seniority, and deadlines; include one-line suggested replies.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Outlook+Email+Find+the+top+5+emails+I+should+respond+to+today+based+on+urgency%2C+seniority%2C+and+deadlines%3B+include+one-line+suggested+replies.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_1p_6bcb5879c73c819196abc70016166099?install&prompt=Find%20the%20top%205%20emails%20I%20should%20respond%20to%20today%20based%20on%20urgency%2C%20seniority%2C%20and%20deadlines%3B%20include%20one-line%20suggested%20replies.&surface=work>)
 
 
 
@@ -123,10 +167,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -145,7 +189,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
