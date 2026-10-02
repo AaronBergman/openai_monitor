@@ -67,11 +67,17 @@ On the left is the traditional video editing system and on the right is the invi
 At the core of invideo AI is a multi-agent system where each OpenAI model handles a different part of the video creation process. 
 
   * **OpenAI o3** functions as the planner and orchestrator, reasoning about the content’s purpose, tone, and target platform. It builds the overall creative plan and selects the best models for each task, effectively coordinating the entire production workflow.
+
   * **GPT‑4.1** structures and refines the narrative, turning the creative plan into an engaging script and video strategy with the right structure, pacing, and tone.
+
   * **Search-augmented GPT models** take on research, enriching scripts with timely context and relevant insights before production begins.
+
   * **Moderation models using OpenAI 's Moderation API** act like a content strategist, reviewing content for tone, safety, and alignment with platform and brand norms. 
+
   * **gpt-image-1** generates backgrounds, cutaway visuals, and branded assets.
+
   * **OpenAI text-to-speech** models deliver human-like narration across tones and languages.
+
 
 
 
@@ -101,15 +107,15 @@ With model orchestration and a frictionless interface, invideo AI shows what’s
 
 ## Keep reading
 
-![Genspark cover image](https://images.ctfassets.net/kftzwdyauwt9/34tn7du9Vq4ZJdFkFXMCam/fdcf963dec13094b0db74e7166ca116c/oai_Genspark_hero_1x1.png?w=3840&q=90&fm=webp)
+![Genspark logo in white against a backdrop of glittering, dark sand and rocks](https://images.ctfassets.net/kftzwdyauwt9/34tn7du9Vq4ZJdFkFXMCam/fdcf963dec13094b0db74e7166ca116c/oai_Genspark_hero_1x1.png?w=3840&q=90&fm=webp)
 
 [No-code personal agents, powered by GPT-4.1 and Realtime APIJul 1, 2025](</index/genspark/>)
 
-![Retell AI > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/3FFvZQe1XAebMCD2dir1T4/637ac9168f5cb5aa61b49cbaf6951fb1/oai_RetellAI_1x1__1_.png?w=3840&q=90&fm=webp)
+![ Retell AI logo with white text and icon on a blue background with raised circular patterns.](https://images.ctfassets.net/kftzwdyauwt9/3FFvZQe1XAebMCD2dir1T4/637ac9168f5cb5aa61b49cbaf6951fb1/oai_RetellAI_1x1__1_.png?w=3840&q=90&fm=webp)
 
 [Customizable, no-code voice agent automation with GPT-4oJun 26, 2025](</index/retell-ai/>)
 
-![Unify cover image](https://images.ctfassets.net/kftzwdyauwt9/4Zk21VkqRdhQg95kIcrmKc/9a51d3c304e36df765c60d834f6c8552/oai_unify_hero_1x1.png?w=3840&q=90&fm=webp)
+![Unify logo in white against a backdrop of dandelion seed heads](https://images.ctfassets.net/kftzwdyauwt9/4Zk21VkqRdhQg95kIcrmKc/9a51d3c304e36df765c60d834f6c8552/oai_unify_hero_1x1.png?w=3840&q=90&fm=webp)
 
 [Driving scalable growth with OpenAI o3, GPT-4.1, and CUAJun 24, 2025](</index/unify/>)
 
@@ -123,9 +129,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -144,7 +151,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -162,6 +170,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)

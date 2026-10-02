@@ -26,19 +26,22 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 OpenAI
 
-New
+Webinar
 
-### Introducing ChatGPT-6 Astra:
+### See how small business owners do more with ChatGPT Work. 
 
-**Our most capable model, built for the hardest work businesses need to get done.**
+Join our customer webinar series for real stories and practical tips. 
 
-[Learn more](</business/model/>)
+  
+
+
+[Register now(opens in a new window)](<https://webinar.openai.com/small-business/?utm_source=website&utm_medium=banner&utm_campaign=small_business_webinar>)
 
 OpenAI for small business
 
 # Be bold. Be ambitious. Build with ChatGPT.
 
-ChatGPT Business helps small teams do more of their best work, giving them more capacity to serve customers, create, analyze, and keep the business moving.
+ChatGPT works alongside you and your team, proactively taking on tasks, moving projects forward, and giving you and your team more capacity to turn your biggest ambitions into reality.
 
 [Try ChatGPT Business(opens in a new window)](<https://chatgpt.com/team-sign-up>)[Contact sales](</contact-sales/>)
 
@@ -52,32 +55,29 @@ Learn how small teams are using AI to save time and operate more efficiently.
 
 —Larissa Guetter, Co-founder, ATV Big Air Tour
 
+  * [Register for the webinar](<https://webinar.openai.com/small-business/25-jobs-small-business-does-with-chatgpt-work/>)
 
 
 
-# What small businesses only get with OpenAI
+# What small businesses only get on ChatGPT Business
 
-Small businesses have a suite of tools to reduce busywork, improve customer experiences, and unlock growth.
+Bring your team, business knowledge, and apps together in one secure ChatGPT workspace. Hand off tasks to ChatGPT Work and let your dots keep work moving—so you have more time for what matters.
 
-#### The best AI, wherever work happens
+#### Make your biggest ideas reality
 
-Give your team access to OpenAI’s most capable models across web, mobile, and desktop—so they can think, create, analyze, and move work forward from anywhere.
+Create your best work with frontier models by OpenAI. Explore new possibilities, handle complex problems, and create work you’re proud to share.
 
-#### One platform for every job to be done
+#### Focus on what matters most
 
-Use ChatGPT to think and create, to complete complex tasks, and to build anything you need—all from a single platform.
+ChatGPT Business includes agents such as ChatGPT Work, Codex, and your dots that do work for you, giving you more time for customers, new ideas, and growing your business.
 
-#### Frontier intelligence meets Frontier security
+#### One secure home for your team’s work
 
-Move fast with powerful AI in a secure workspace with admin controls, SSO, roles, encryption, and no training on your business data by default.
+Collaborate securely with shared company plugins, business knowledge, and context. Manage flexible seats, billing, and usage with centralized admin controls—with no training on business data by default.
 
-Meet the new ChatGPT Work for small businesses
+# Powerful AI you can only get with ChatGPT
 
-## How small businesses can put ChatGPT Work into practice
-
-Join OpenAI to learn how our latest product, ChatGPT Work, helps small businesses save time, move work forward, and be more ambitious.
-
-[Register here(opens in a new window)](<https://webinar.openai.com/small-business/chatgpt-work/>)
+Turn a lean team into a big force with powerful models and agents that help you get more done.
 
 ## Make ChatGPT work the way you work
 
@@ -102,7 +102,7 @@ Connect the tools your business already uses to ChatGPT Work, so it can work wit
 
 
 
-[See the collection](<https://chatgpt.com/plugins?category=small-business&utm_medium=product&utm_source=website&utm_campaign=PLG-ChatGPT_SMB_Plugin_Directory>)
+[View all plugins](<https://chatgpt.com/plugins?category=small-business&utm_medium=product&utm_source=website&utm_campaign=PLG-ChatGPT_SMB_Plugin_Directory>)
 
 # Security and controls your business can trust
 
@@ -151,15 +151,15 @@ Explore guides, real-world stories, and additional resources to help your busine
 
 ![Pink and orange abstract star field image.](https://images.ctfassets.net/kftzwdyauwt9/7vpei2yytnNP1vPglECf6W/e3efd0feb487637dd414f9ba0c6f2171/first-ai-workflow-1x1.jpg?w=3840&q=90&fm=webp)
 
-[Find your first high-value AI workflowUpload and create your first workflow in ChatGPT Work in 15 minutes.](<https://cdn.openai.com/pdf/26871fcc-668f-4ad5-8351-109af9ae4937/First-AI-Workflow-202607.pdf>)
+[Small Businesses, Bigger CapabilitiesHow ChatGPT Work and Codex are expanding what small businesses can build, manage, and accomplish](<https://cdn.openai.com/pdf/66991d3b-5dac-48b5-aa3d-f40ccc5d6d0f/small-businesses-bigger-capabilities-september-2026.pdf>)
 
-![Abstract visualization for an article about AI expanding work.](https://images.ctfassets.net/kftzwdyauwt9/3JAh8VK98LHki9m4sr8KIR/3580b8ab65aca167342a3c674847531e/SEO_Card__2_.png?w=3840&q=90&fm=webp)
+![ATV Big Air Tour card and hero image](https://images.ctfassets.net/kftzwdyauwt9/4iU7b7GIMgwR1T5k2Q7Wy5/ba1e283600652676745fc9fb33832f32/A-square.png?w=3840&q=90&fm=webp)
 
-## [How AI is expanding what people do at work(opens in a new window)](<https://openai.com/index/how-ai-is-expanding-what-people-do-at-work/>)
+[Small business case studyATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT](</index/atv-big-air-tour/>)
 
-![Two people stand beside a large red combine harvester in an open, harvested field under a wide blue sky.](https://images.ctfassets.net/kftzwdyauwt9/6yOmkiVrFE8fk9ciEdFLyt/6cec40169a9c3d33c82b7a2935050d9e/SHARP_1x1_COMBINE.png?w=3840&q=90&fm=webp)
+![orange pink abstract celestial graphic](https://images.ctfassets.net/kftzwdyauwt9/uKx7OoL1QHDbl0T3GSTZG/19deb0e48e745e5d4dc98e02c5dbceb3/image_2835252_2_2x.png?w=3840&q=90&fm=webp)
 
-## [Small business storiesChatGPT](</index/small-business-stories/>)
+## [Find your first high-value AI workflowAn interactive workbook for small businesses to use with ChatGPT Work](<https://cdn.openai.com/pdf/26871fcc-668f-4ad5-8351-109af9ae4937/First-AI-Workflow-202607.pdf>)
 
 ## Build what’s next
 
@@ -177,10 +177,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -199,7 +199,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -273,3 +274,27 @@ Terms & Policies
 OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
+
+### Dots
+
+**Get going with dots, your always-on agents.**
+
+Dots are remarkably capable, always-on agents built to handle everything. They learn what matters to you and work on your behalf, so you can focus on what matters most.
+
+### Codex
+
+**Tackle the backlog. Build what’s next.**
+
+Use Codex to investigate bugs, improve existing code, update dependencies, and tackle the maintenance work that keeps your business running smoothly.
+
+### ChatGPT Work
+
+**Take busywork off your plate**
+
+Hand off time-consuming tasks to ChatGPT Work, from following up with customers, updating spreadsheets, preparing invoice and more.
+
+### Image Generation
+
+**Bring your business to life**
+
+Create product images, promotional flyers, and social graphics with ChatGPT Images, then refine the details to fit your brand—ready for your next campaign.

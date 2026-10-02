@@ -95,7 +95,7 @@ Bring approved product information, customer research, and campaign goals togeth
 
 Using our product roadmap, customer research, and launch brief, propose three distinct campaign directions. Explain the audience insight, brand fit, tradeoffs, and recommended direction. 
 
-[Try in ChatGPT(opens in a new window)](<https://chatgpt.com/?surface=work&q=Using+our+product+roadmap%2C+customer+research%2C+and+launch+brief%2C+propose+three+distinct+campaign+directions.+Explain+the+audience+insight%2C+brand+fit%2C+tradeoffs%2C+and+recommended+direction.>)
+[Try in ChatGPT(opens in a new window)](<https://chatgpt.com/?prompt=Using%20our%20product%20roadmap%2C%20customer%20research%2C%20and%20launch%20brief%2C%20propose%20three%20distinct%20campaign%20directions.%20Explain%20the%20audience%20insight%2C%20brand%20fit%2C%20tradeoffs%2C%20and%20recommended%20direction.&surface=work>)
 
 ## Reach customers as decisions take shape in ChatGPT
 
@@ -186,10 +186,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -208,7 +208,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 

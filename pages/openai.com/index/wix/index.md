@@ -69,9 +69,13 @@ Users no longer need to manually design layouts or write content from scratch. I
 OpenAI’s models power several key components of Wix’s AI website builder, including:
 
   * **Content generation** : AI text creator crafts engaging website copy, blog posts, product descriptions, and SEO-friendly text.
+
   * **Image processing** : GPT‑4o’s vision capabilities support image captioning and classification for portfolios and blog posts, as well as menu parsing from restaurant images.
+
   * **Business management tools** : AI-driven report generators help users manage their operations with natural language queries.
+
   * **Translation** :**** Powered by OpenAI’s models, the AI website builder is currently available in nine languages, ranging from English to Japanese to Turkish.
+
 
 
 
@@ -108,9 +112,13 @@ To make this technology as broadly accessible as possible, Wix built a [_website
 The team at Wix is just getting started. Using OpenAI’s LLMs, they want to expand their AI offerings to help every role:
 
   * **Customer care** : Helping their customers handle customer tickets
+
   * **Business managers** : Assisting managers in customer communications and generating reports that understand natural language queries
+
   * **Entrepreneurs** : Expanding their businesses with smart, scalable business tools 
+
   * **Marketers** : Enabling hyper-personalized content creation and campaigns 
+
 
 
 
@@ -126,11 +134,11 @@ As Wix continues to optimize and expand its AI-powered features, the company is 
 
 [ Shipping code faster with o3, o4-mini, and GPT-4.1May 22, 2025](</index/coderabbit/>)
 
-![San Antonio Spurs Cover Image](https://images.ctfassets.net/kftzwdyauwt9/3T53lsDpxxxZkP95bJqGlk/72b9117d5dddf09c24521dfee740ce13/oai_Spur_1x1.png?w=3840&q=90&fm=webp)
+![San Antonio Spurs logo displayed on a stylized basketball court background with teal, orange, and cream-colored sections and lines.](https://images.ctfassets.net/kftzwdyauwt9/3T53lsDpxxxZkP95bJqGlk/72b9117d5dddf09c24521dfee740ce13/oai_Spur_1x1.png?w=3840&q=90&fm=webp)
 
 [The San Antonio Spurs use ChatGPT to scale impact on and off the courtMay 7, 2025](</index/san-antonio-spurs/>)
 
-![Lowes > Cover media](https://images.ctfassets.net/kftzwdyauwt9/4X3HwsNsncluAzNEqlXFg3/558227ebd1d4edc388dc325ecbcd75f0/oai_Lowe_s_hero_4.5.png?w=3840&q=90&fm=webp)
+![Lowes logo superimposed on an abstract painting with prominent blue brushstrokes.](https://images.ctfassets.net/kftzwdyauwt9/4X3HwsNsncluAzNEqlXFg3/558227ebd1d4edc388dc325ecbcd75f0/oai_Lowe_s_hero_4.5.png?w=3840&q=90&fm=webp)
 
 [Lowe’s puts project expertise into every hand May 7, 2025](</index/lowes/>)
 
@@ -144,10 +152,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -166,7 +174,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -184,6 +193,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)

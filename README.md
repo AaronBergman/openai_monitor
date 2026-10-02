@@ -1,5 +1,41 @@
 # openai_monitor
 
+## 2026-10-02T09-16Z
+
+**Fetched 2026-10-02T09:16Z** (baseline: run of 2026-09-28T09-17Z, so this covers ~4 days).
+
+**TL;DR:** OpenAI's DevDay 2026 (recap dated Sept 29) is the story: new pages for the event, a new model page (GPT-6.1 Sol), "Sign in with ChatGPT" for third-party apps, a "dots" launch, a business Marketplace, and a "Private Intelligence" interest form. 455 existing pages had their `<lastmod>` bumped (362 of them on 2026-10-01), mostly a site-wide refresh of the business/plugin, solutions and research pages rather than 455 separate edits.
+
+### Anomalies
+None detected (no future-dated, backwards, backdated, or reappearing URLs).
+
+### New pages
+- [/index/introducing-gpt-6-1-sol/](https://openai.com/index/introducing-gpt-6-1-sol/) ([md](pages/openai.com/index/introducing-gpt-6-1-sol/index.md)) — "A more capable Sol across tasks"; pitched as near-Astra intelligence at a fifth of the price (coding, professional work, computer use, science, factuality).
+- [/index/devday-2026-recap/](https://openai.com/index/devday-2026-recap/) ([md](pages/openai.com/index/devday-2026-recap/index.md)) and [/devday/2026/](https://openai.com/devday/2026/) ([md](pages/openai.com/devday/2026/index.md)) — DevDay 2026 recap (Sept 29): new models, tools and agents.
+- [/index/introducing-dots/](https://openai.com/index/introducing-dots/) ([md](pages/openai.com/index/introducing-dots/index.md)) — "Introducing dots" (Sept 29).
+- Sign in with ChatGPT: [terms](pages/openai.com/policies/sign-in-with-chatgpt-terms/index.md) and [partner interest form](pages/openai.com/form/sign-in-with-chatgpt-interest/index.md) — lets users sign in to other apps with their ChatGPT identity and use their ChatGPT plan for the app's AI features; launched at DevDay with developer-tool/open-source partners.
+- [/form/private-intelligence-interest/](pages/openai.com/form/private-intelligence-interest/index.md) — interest form for "Private Intelligence", businesses using frontier AI with stronger data protection.
+- [/business/marketplace/](pages/openai.com/business/marketplace/index.md) — OpenAI Marketplace: spend part of an existing OpenAI commitment on eligible partner products (e.g. Adobe).
+- [/codex-originals/](pages/openai.com/codex-originals/index.md) and [form](pages/openai.com/form/codex-originals/index.md) — profile series of builders using Codex.
+- Safety/policy: [Disrupting a coordinated model-distillation campaign](pages/openai.com/index/disrupting-a-coordinated-model-distillation-campaign/index.md) (Sept 30), [Towards safety cases for frontier AI training](pages/openai.com/index/towards-safety-cases-for-frontier-ai-training/index.md) (Sept 28), [How we will do better for Australia](pages/openai.com/index/how-we-will-do-better-for-australia/index.md) (Sept 28).
+- Customer/partner stories: [Albertsons](pages/openai.com/index/albertsons-reimagining-retail/index.md), [Basis tax workbook with GPT-6 Astra](pages/openai.com/index/basis-tax-workbook-with-astra/index.md), [The Den](pages/openai.com/index/the-den-family-social/index.md), [Lenfest Institute expansion](pages/openai.com/index/lenfest-ai-collaborative-expansion/index.md), [Small businesses / America's SBDC](pages/openai.com/index/helping-small-businesses-put-ai-to-work/index.md).
+- Essay: [The eternal complement](pages/openai.com/index/the-eternal-complement/index.md) (Intelligence Age) — why genius machines may be most valuable doing monotonous work.
+
+### Notable updates
+- [/codex/](pages/openai.com/codex/index.md) — rewritten as "Build anything with Codex", now with plan pricing (Plus $20/mo, Pro $100/mo, Business $20/user/mo), cloud-task and automatic code-review sections, and plugins.
+- [/policies/privacy-policy/](pages/openai.com/policies/privacy-policy/index.md) — "Updated" date moved May 18 → September 10, 2026; Sora no longer named in the intro blurb.
+- [/business/plugins/*](pages/openai.com/business/plugins/) (Gmail, HubSpot, Salesforce, GitHub, Snowflake, Slack, Outlook, Databricks…) — expanded example conversations/demos.
+- [/business/pricing/](pages/openai.com/business/pricing/index.md), [/business/why-openai/startups/](pages/openai.com/business/why-openai/startups/index.md), [small-business](pages/openai.com/business/why-openai/small-business/index.md), [commerce policies](pages/openai.com/policies/commerce-policies/index.md), [release notes](pages/openai.com/products/release-notes/index.md) — substantive copy changes.
+- Remaining ~430 updates are smaller; see `runs/2026-10-02T09-16Z/analysis.md`.
+
+### Removals
+- `/form/ultrafast/` (a form page added 2026-08-20); last snapshot in git history.
+
+_Stats: 2003 total URLs | 19 added | 455 updated | 1 removed | 0 anomalies | 42 sub-sitemaps_
+
+---
+
+
 ## 2026-09-28T09-17Z
 
 **Fetch time:** 2026-09-28T09:17Z (sitemap + 35 pages) UTC | **Baseline:** 2026-09-27T09-16Z (consecutive day)

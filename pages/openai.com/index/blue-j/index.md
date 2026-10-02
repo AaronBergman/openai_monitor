@@ -138,7 +138,7 @@ Blue J earned that level of engagement by focusing on what they uniquely know be
 
 [Scaling accounting capacity with OpenAIAug 12, 2025](</index/basis/>)
 
-![Intercom cover image](https://images.ctfassets.net/kftzwdyauwt9/32rIG6b83UB8GU0atjwCLp/2859930e037889e03ffc8ca685d00d5a/oai_Intercom_1x1.png?w=3840&q=90&fm=webp)
+![Close-up of copper wire strands with glowing reflections, overlaid with the white Intercom logo centered in the frame.](https://images.ctfassets.net/kftzwdyauwt9/32rIG6b83UB8GU0atjwCLp/2859930e037889e03ffc8ca685d00d5a/oai_Intercom_1x1.png?w=3840&q=90&fm=webp)
 
 [Three lessons for creating a sustainable AI advantageJul 30, 2025](</index/intercom/>)
 
@@ -152,10 +152,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -174,7 +174,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 

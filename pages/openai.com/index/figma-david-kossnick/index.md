@@ -148,7 +148,7 @@ OpenAI
 
 [AI powers Expedia’s marketing evolutionMay 14, 2025](</index/expedia-jochen-koedijk/>)
 
-![EF JohnDeere 1.1](https://images.ctfassets.net/kftzwdyauwt9/ipWlhbJxkXsig8F8AQLY3/b8abf5f2566658a37e74f7bec882f004/EF_JohnDeere_1.1.png?w=3840&q=90&fm=webp)
+![Abstract green, yellow, and teal background with the text “Ep 09” in white on the right side.](https://images.ctfassets.net/kftzwdyauwt9/ipWlhbJxkXsig8F8AQLY3/b8abf5f2566658a37e74f7bec882f004/EF_JohnDeere_1.1.png?w=3840&q=90&fm=webp)
 
 [AI helps John Deere transform agricultureAPIMay 6, 2025](</index/john-deere-justin-rose/>)
 
@@ -162,10 +162,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -184,7 +184,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 

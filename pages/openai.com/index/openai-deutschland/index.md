@@ -47,10 +47,15 @@ Millions of people in Germany already use our AI tools to transform how they liv
 Businesses and organizations currently benefiting from our AI include:
 
   * **Large enterprises** like Sparkassen Finanzgruppe, DKB, and Zalando who are enhancing employee productivity and making customer banking and retail more personalised. 
+
   * **Mittelstand businesses** such as KOSTAL and Viessmann who are using our technologies to streamline workflows and enable employees to make faster, smarter decisions.
+
   * **Developers and startups** such as Parloa, Choco, and doinstruct are building on our API to power AI-driven businesses and create innovative solutions across diverse sectors, including customer service, supply chains, and frontline workers.
+
   * **Leading universities** including WHU and researchers at the Max Planck Institute for the Science of Light who are using our AI to reimagine the learning experience and advance academic breakthroughs. 
+
   * **Artists** like Mario Clement and Looping Lovers are using our technology as a creative partner, unlocking new realms of creative possibilities.
+
 
 
 
@@ -82,9 +87,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -103,7 +109,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -121,6 +128,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)

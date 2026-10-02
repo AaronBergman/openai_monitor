@@ -73,7 +73,9 @@ The team didn’t need another dashboard. They needed a way to reduce preparatio
 That idea became **GTM Assistant** , built on OpenAI’s automation platform and delivered in Slack. It focuses on two friction points:
 
   * **Customer research and preparation** : Daily meeting briefs and recaps including account history, call notes, Salesforce activity, and release updates.
+
   * **Product Q &A**: Instant answers sourced from a curated knowledge base, with traceable links back to primary documents.
+
 
 
 
@@ -96,7 +98,9 @@ That hands-on approach became the defining feature of the project. Instead of re
 The results showed up quickly. Today, the average sales rep:
 
   * Exchanges **22 messages a week** with GTM Assistant across daily briefs, recaps, and Q&A
+
   * Sees a **20% lift in productivity** —about one extra day each week to spend with customers and manage a larger book
+
 
 
 
@@ -150,10 +154,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -172,7 +176,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -190,6 +195,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
