@@ -65,28 +65,36 @@ The privacy and security protections must become more powerful as AI becomes mor
 **Why are The New York Times and other plaintiffs demanding this?**
 
   * The New York Times is suing OpenAI. As part of their baseless lawsuit, they’ve demanded the court to force us to hand over 20 million user conversations. This would allow them to access millions of user conversations that are unrelated to the case.
+
   * We strongly believe this is an overreach. It risks your privacy without actually helping resolve the lawsuit. That’s why we’re fighting it.
+
 
 
 
 **What led to this stage of the process?**
 
   * The Times’ lawyers argued to the court that their request should be granted, in part because another AI company previously agreed to hand over 5 million private chats of their users in an unrelated court case.
+
   * We strongly disagree that this is relevant to our case and we’re continuing to appeal.
+
 
 
 
 **Did you offer any other solutions to the Times?**
 
   * We presented several privacy-preserving options to The Times, including targeted searches over the sample (_e.g._ , to search for chats that might include text from a _New York Times_ article so they only receive the conversations relevant to their claims), as well as high-level data classifying how ChatGPT was used in the sample.
+
   * These were rejected by The Times.
+
 
 
 
 **Is the NYT obligated to keep this data private?**
 
   * Yes. The Times would be legally obligated at this time to not make any data public outside the court process. That said, if the Times continues to push to access it in any way that will make the conversations public, we will fight to protect your privacy at every step.
+
   * The Times’ original request in this lawsuit was also much broader. It initially demanded 1.4 billion private ChatGPT conversations, which we successfully pushed back on through the legal process. That presented red flags to us that suggested this was not a thoughtful or genuinely necessary request.
+
 
 
 
@@ -96,10 +104,13 @@ The privacy and security protections must become more powerful as AI becomes mor
 
 
 
+
 **Is my data potentially impacted?**
 
   * This data includes a random sampling of consumer ChatGPT conversations from Dec. 2022 to Nov. 2024. 
+
   * Conversations outside of this time window are not potentially impacted. 
+
 
 
 
@@ -109,31 +120,40 @@ The privacy and security protections must become more powerful as AI becomes mor
 
 
 
+
 **What are you doing to protect my personal information and privacy?**
 
   * We are taking all affected chats and running them through a de-identifying procedure to remove or “scrub” personal identifying information (or “PII”) and other information (e.g., passwords or other sensitive information) from these conversations. 
+
   * We would also push to only allow the Times to view this data in a secure environment maintained under strict legal protocols.
+
 
 
 
 **How will you store this data?**
 
   * The content covered by the court order is currently stored separately in a secure system. It’s protected under legal hold, meaning it can’t be accessed or used for purposes other than meeting legal obligations.
+
   * Only a small, audited OpenAI legal and security team would be able to access this data as necessary to comply with our legal obligations.
+
 
 
 
 **Who will be able to access this data?**
 
   * The Times’ outside counsel attorneys of record in the case**** and their hired technical consultants would be able to access the conversations. We will push to only allow The Times to view this data in a secured environment maintained under strict legal protocols.
+
   * If The Times continues to push to access it in any way that will make the conversations public, we will fight to protect your privacy at every step.
+
 
 
 
 **Does this court order violate GDPR or my rights under European or other privacy laws?**
 
   * We are taking steps to comply at this time because we must follow the law, but The New York Times’ demand does not align with our privacy standards. That is why we’re challenging it.
+
   * As mentioned, we’ve taken additional steps to protect your privacy, such as de-identifying data and removing personally identifiable information.
+
 
 
 
@@ -143,12 +163,13 @@ The privacy and security protections must become more powerful as AI becomes mor
 
 
 
+
   * [Policies and Procedures](</news/?tags=policies-procedures>)
   * [2025](</news/?tags=2025>)
 
 
 
-## Author
+## Authors
 
 Dane Stuckey, OpenAI
 
@@ -156,15 +177,17 @@ Dane Stuckey, OpenAI
 
 [View all](</news/>)
 
-[The Hugging Face incident and the road aheadSecurityAug 26, 2026](</index/hugging-face-incident-and-the-road-ahead/>)
+![Disrupting a coordinated model-distillation campaign — cover](https://images.ctfassets.net/kftzwdyauwt9/1n8Wz1YN3veGi9Fmt7qpSQ/7bc8a9d0a7ebf3800c10e72a360f9f22/disrupting-a-coordinated-model-distillation-campaign-cover.png?w=3840&q=90&fm=webp)
 
-![The Defender’s Window > Cover](https://images.ctfassets.net/kftzwdyauwt9/2We7bguC4FuOofZ8Lu6LUZ/02049fcee47c460695acab59bdb8f648/the-defenders-window-clean-cover.png?w=3840&q=90&fm=webp)
+[Disrupting a coordinated model-distillation campaignSecuritySep 30, 2026](</index/disrupting-a-coordinated-model-distillation-campaign/>)
 
-[The Defender’s WindowSecurityAug 17, 2026](</index/the-defenders-window/>)
+![Daybreak for Critical Infrastructure — cover](https://images.ctfassets.net/kftzwdyauwt9/3iCwHSjR2bfJPdDiWomsis/86d511413c2b0338bd211b41545be495/Option_65___1080_1080.png?w=3840&q=90&fm=webp)
 
-![GPT-Daybreak > Cover](https://images.ctfassets.net/kftzwdyauwt9/2iqsbTTLvgMNteNampw3gW/a38ed04432ee5548c4aec6c7b7a506f2/1x1_Art_Card.png?w=3840&q=90&fm=webp)
+[Daybreak for Frontline DefendersSecuritySep 3, 2026](</index/daybreak-for-frontline-defenders/>)
 
-[Expanding Daybreak as the Cyber Defense Window NarrowsSecurityAug 10, 2026](</index/expanding-daybreak-as-the-cyber-defense-window-narrows/>)
+![Path to Astra — Clean square cover — Neutral Option 062 v1](https://images.ctfassets.net/kftzwdyauwt9/4BabvjDCQdlYN2ISzOkgF9/78d35947274e9b3ac2483377782b007e/astra-cover-v001.png?w=3840&q=90&fm=webp)
+
+[Path to Astra: critical capabilities and frontier safeguardsSafetySep 1, 2026](</index/path-to-astra/>)
 
 Research
 
@@ -176,9 +199,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -197,7 +221,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -215,6 +240,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)

@@ -61,8 +61,11 @@ Routing those leads through forms and static workflows couldn’t meet the momen
 **The challenge wasn’t just scale. It was quality.** Buyers wanted specific answers:
 
   * Is this product compliant in a healthcare environment?
+
   * How do we compare plans and choose the right one?
+
   * What results are peers in our industry seeing?
+
 
 
 
@@ -79,8 +82,11 @@ At its core are our internal connectors. Product documentation, policy libraries
 That means prospects get a personalized response within minutes, written in their own language, grounded in their actual question.
 
   * A company in Tokyo receives an answer in Japanese, not an English form letter.
+
   * A hospital system asking about compliance gets the details in their first exchange, not after days of waiting.
+
   * If the prospect is enterprise-qualified, the thread is seamlessly handed off to a rep, with context intact.
+
 
 
 
@@ -154,10 +160,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -176,7 +182,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -194,6 +201,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)

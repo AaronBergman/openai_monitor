@@ -45,11 +45,89 @@ Developer
 Website
     [(opens in a new window)](<https://www.hubspot.com/>)
 
+![](https://files.openai.com/content?id=file_00000000fd7471f5993b000c5f724582&cdn=1&cp=pi&ma=30931200&ts=0&p=pi&cid=1&sig=c4acde5ce277a221a14c10614283aba373c5d414cc96d96f111e4a757d64800b&v=0)HubSpot find the five leads I should follow up with this week and draft personalized emails in Gmail based on their recent activity.
+
+![](https://files.openai.com/content?id=file_00000000fd7471f5993b000c5f724582&cdn=1&cp=pi&ma=30931200&ts=0&p=pi&cid=1&sig=c4acde5ce277a221a14c10614283aba373c5d414cc96d96f111e4a757d64800b&v=0)HubSpot find the five leads I should follow up with this week and draft personalized emails in Gmail based on their recent activity.
+
+## Conversation response
+
 ## Your follow-ups this week
 
-![](https://files.openai.com/content?id=file_00000000fd7471f5993b000c5f724582&cdn=1&cp=pi&ma=30931200&ts=0&p=pi&cid=1&sig=c4acde5ce277a221a14c10614283aba373c5d414cc96d96f111e4a757d64800b&v=0)HubSpot find the five leads I should follow up with this week and draft personalized emails in Gmail based on their recent activity.
+Start with **Maya Chen** , who needs a proposal for Friday, and **Luis Romero** , whose team invitations are blocked by an IT review. The other three have specific next steps worth advancing this week. These priorities reflect recorded requests and activity, not a prediction of who will buy. You can ask me to revise or send any of these emails. Nothing has been sent.
 
-![](https://files.openai.com/content?id=file_00000000fd7471f5993b000c5f724582&cdn=1&cp=pi&ma=30931200&ts=0&p=pi&cid=1&sig=c4acde5ce277a221a14c10614283aba373c5d414cc96d96f111e4a757d64800b&v=0)HubSpot find the five leads I should follow up with this week and draft personalized emails in Gmail based on their recent activity.
+### 1\. Maya Chen · Cedar & Finch
+
+**Follow up today.** Maya wants to bring an operations pilot proposal to Friday’s planning meeting. The team has not chosen the handoff to test or agreed on success criteria.
+
+**Draft for review**
+
+**Subject:** A pilot proposal for Friday
+
+Hi Maya,
+
+For Friday’s planning meeting, I suggest a two-week pilot with your operations team, focused on one handoff where work gets missed between owners.
+
+Which handoff should we test first, and what would count as an improvement? With those two decisions, I can put together a proposal covering scope, responsibilities, and a review at the end of the pilot.
+
+**Next step:** I can draft the pilot proposal now, with the handoff and success criteria marked for confirmation.
+
+### 2\. Luis Romero · Juniper Works
+
+**Follow up today.** Luis is holding team invitations until IT reviews permissions. The required roles and reviewers are not yet confirmed.
+
+**Draft for review**
+
+**Subject:** Access details for your IT review
+
+Hi Luis,
+
+You mentioned that IT needs to review permissions before you invite the team. Which roles will people need, and who should review the access details?
+
+I can use that to prepare a focused summary and identify any questions we still need to resolve before invitations go out.
+
+**Next step:** I can prepare an IT review brief that separates confirmed access details from the roles and reviewers still to be agreed.
+
+### 3\. Priya Shah · Mapleline Studio
+
+**Follow up this week.** Three teammates joined the trial, but no work has been imported. Priya has asked how to get started.
+
+**Draft for review**
+
+**Subject:** Start with a small sample import
+
+Hi Priya,
+
+Now that your three teammates have joined, let’s test a small sample before moving the rest of your work.
+
+What file format are you using, and who should check the imported records? We can agree on the checks first so the team knows when it’s ready to proceed.
+
+### 4\. Ben Okafor · Harbor & Field
+
+**Follow up this week.** Ben requested a demo of cross-team handoffs. A specific workflow would make the session more useful.
+
+**Draft for review**
+
+**Subject:** An example for your handoff demo
+
+Hi Ben,
+
+For the demo you requested, which handoff creates the most back-and-forth between your teams?
+
+Send me one example, including who starts the work and who takes over next. I’ll use it to shape the session around the ownership questions your team needs to answer.
+
+### 5\. Elena Rossi · Alder Lane
+
+**Follow up after Wednesday’s planning meeting.** Elena asked to reconnect then. A trial is still under consideration, not agreed.
+
+**Draft for review**
+
+**Subject:** Following up after planning
+
+Hi Elena,
+
+You asked me to check back after Wednesday’s planning meeting. What did your team decide to prioritize?
+
+If a trial is still on the list, let’s choose one workflow to test first. If priorities have changed, I’m happy to adjust the next step.
 
 ## How it works
 
@@ -61,19 +139,19 @@ Work with your HubSpot data to uncover patterns, prepare reports, and answer eve
 
 ![](https://files.openai.com/content?id=file_00000000fd7471f5993b000c5f724582&cdn=1&cp=pi&ma=30931200&ts=0&p=pi&cid=1&sig=c4acde5ce277a221a14c10614283aba373c5d414cc96d96f111e4a757d64800b&v=0)HubSpot Give me a pipeline health check including open deals by stage, biggest risks, and which deals need attention today.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40HubSpot+Give+me+a+pipeline+health+check+including+open+deals+by+stage%2C+biggest+risks%2C+and+which+deals+need+attention+today.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_697acb8e53d88191bf7a79e62012ae14?install&prompt=Give%20me%20a%20pipeline%20health%20check%20including%20open%20deals%20by%20stage%2C%20biggest%20risks%2C%20and%20which%20deals%20need%20attention%20today.&surface=work>)
 
   * ### Conduct complex analysis with deep research
 
 ![](https://files.openai.com/content?id=file_00000000fd7471f5993b000c5f724582&cdn=1&cp=pi&ma=30931200&ts=0&p=pi&cid=1&sig=c4acde5ce277a221a14c10614283aba373c5d414cc96d96f111e4a757d64800b&v=0)HubSpot Analyze deals lost last quarter and summarize the top loss reasons by segment, including patterns in notes or missing fields.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40HubSpot+Analyze+deals+lost+last+quarter+and+summarize+the+top+loss+reasons+by+segment%2C+including+patterns+in+notes+or+missing+fields.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_697acb8e53d88191bf7a79e62012ae14?install&prompt=Analyze%20deals%20lost%20last%20quarter%20and%20summarize%20the%20top%20loss%20reasons%20by%20segment%2C%20including%20patterns%20in%20notes%20or%20missing%20fields.&surface=work>)
 
   * ### Trusted results aligned to HubSpot permissions
 
 ![](https://files.openai.com/content?id=file_00000000fd7471f5993b000c5f724582&cdn=1&cp=pi&ma=30931200&ts=0&p=pi&cid=1&sig=c4acde5ce277a221a14c10614283aba373c5d414cc96d96f111e4a757d64800b&v=0)HubSpot For my next customer call, pull contact/company history plus recent emails and notes, then suggest a short agenda and smart questions.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40HubSpot+For+my+next+customer+call%2C+pull+contact%2Fcompany+history+plus+recent+emails+and+notes%2C+then+suggest+a+short+agenda+and+smart+questions.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_697acb8e53d88191bf7a79e62012ae14?install&prompt=For%20my%20next%20customer%20call%2C%20pull%20contact%2Fcompany%20history%20plus%20recent%20emails%20and%20notes%2C%20then%20suggest%20a%20short%20agenda%20and%20smart%20questions.&surface=work>)
 
 
 
@@ -129,10 +207,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -151,7 +229,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 

@@ -124,6 +124,8 @@ Databricks
 
 [McKinsey & Company![McKinsey & Company logo](https://images.ctfassets.net/kftzwdyauwt9/6Z4q8mSHnaA4SfqLCTUNQt/6cfa8ebfa66f186895fb93c12c5a1ce6/mckinsey-company-square-light.svg?w=3840&q=90)](</business/partners/mckinsey-and-company/>)
 
+[MegazoneCloud![MegazoneCloud logo](https://images.ctfassets.net/kftzwdyauwt9/KwnXjUFaD9DczFkvx2SRq/a6e7450badf517288baaebc4c18cb6ba/MegazoneCloud_square_light.svg?w=3840&q=90)](</business/partners/megazonecloud/>)
+
 [Merantix Momentum![Merantix Momentum logo](https://images.ctfassets.net/kftzwdyauwt9/55C7XYTNrYu5sgL1I48JSC/6d1cd7a97343ecd907fd9810d113c6a4/merantix-momentum-square-light.svg?w=3840&q=90)](</business/partners/merantix-momentum/>)
 
 [ML6![ML6 logo](https://images.ctfassets.net/kftzwdyauwt9/2a4BTwNCZiYVRhFl4ueZKM/c135d9c0722c1266b870871473af26fe/ml6-square-light.svg?w=3840&q=90)](</business/partners/ml6/>)
@@ -269,6 +271,8 @@ Databricks
 [Mantel![Mantel logo](https://images.ctfassets.net/kftzwdyauwt9/4e2rSyhgn3lTXXUNbhAVjZ/d73323de824f9a1893fd5966486a709d/Mantel_square_light.svg?w=3840&q=90)](</business/partners/mantel/>)
 
 [McKinsey & Company![McKinsey & Company logo](https://images.ctfassets.net/kftzwdyauwt9/6Z4q8mSHnaA4SfqLCTUNQt/6cfa8ebfa66f186895fb93c12c5a1ce6/mckinsey-company-square-light.svg?w=3840&q=90)](</business/partners/mckinsey-and-company/>)
+
+[MegazoneCloud![MegazoneCloud logo](https://images.ctfassets.net/kftzwdyauwt9/KwnXjUFaD9DczFkvx2SRq/a6e7450badf517288baaebc4c18cb6ba/MegazoneCloud_square_light.svg?w=3840&q=90)](</business/partners/megazonecloud/>)
 
 [Merantix Momentum![Merantix Momentum logo](https://images.ctfassets.net/kftzwdyauwt9/55C7XYTNrYu5sgL1I48JSC/6d1cd7a97343ecd907fd9810d113c6a4/merantix-momentum-square-light.svg?w=3840&q=90)](</business/partners/merantix-momentum/>)
 
@@ -554,10 +558,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -576,7 +580,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 

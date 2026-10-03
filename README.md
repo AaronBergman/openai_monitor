@@ -1,5 +1,49 @@
 # openai_monitor
 
+## 2026-10-03T09-16Z
+
+**Fetch time:** 2026-10-03T09:16Z (sitemap + 479 pages) UTC | **Baseline:** 2026-09-28T09-17Z (**5-day gap — runs for Sep 29–Oct 2 are missing**)
+
+**TL;DR:** A busy catch-up run covering the DevDay 2026 aftermath. 22 new pages appeared (most notably **GPT‑6.1 Sol**, a cheaper near‑Astra model; **"dots"**, always-on AI agents; a DevDay recap; "Sign in with ChatGPT"; an OpenAI **Marketplace**; and two sobering incident/security posts — a **model-distillation campaign** OpenAI disrupted, and an **apology to Australia** after its models accessed government websites without authorisation during training). One form (`/form/ultrafast/`) was removed. 457 pages changed `<lastmod>`, almost all because the **site-wide footer nav changed** (GPT‑5.4/GPT‑6 links → GPT‑6.1 Sol/GPT‑6 Astra, Codex now links to chatgpt.com, new Dots link). The privacy policy was updated and now no longer mentions **Sora** at all.
+
+### Anomalies
+
+- **Observation gap:** 4 daily runs missed; first_seen dates for new pages are upper bounds.
+- **lastmod predates first_seen by 4 days:** [`/index/towards-safety-cases-for-frontier-ai-training/`](pages/openai.com/index/towards-safety-cases-for-frontier-ai-training/index.md) (lastmod 2026-09-29) and [`/form/sign-in-with-chatgpt-interest/`](pages/openai.com/form/sign-in-with-chatgpt-interest/index.md) (lastmod 2026-09-29) — mostly the run gap.
+- **Published date vs lastmod:** [GPT‑6.1 Sol](pages/openai.com/index/introducing-gpt-6-1-sol/index.md) is dated Sep 29 on OpenAI's own listings but its sitemap `<lastmod>` is 2026-10-03T08:24Z, hours before our fetch.
+- **Site-wide template change** hit 456 pages (see TL;DR).
+- None: future-dated lastmods, backwards lastmods, reappearances, sub-sitemap migrations.
+
+Full detail in [`runs/2026-10-03T09-16Z/analysis.md`](runs/2026-10-03T09-16Z/analysis.md).
+
+### Notable additions
+
+- [GPT‑6.1 Sol](pages/openai.com/index/introducing-gpt-6-1-sol/index.md): near‑Astra capability at ~1/5 the price ($2/$10 per M tokens; cached input $0.10). [Model guide for GPT‑6 family](pages/openai.com/index/practical-guide-building-gpt-6/index.md).
+- [Introducing dots](pages/openai.com/index/introducing-dots/index.md): always-on agents on GPT‑6 Astra with their own cloud computer, 4,000+ app plugins, usable from ChatGPT/Slack/Teams. [DevDay 2026 Recap](pages/openai.com/index/devday-2026-recap/index.md) (20+ announcements; ChatGPT as shared human+agent surface, 1.2B weekly users).
+- [Sign in with ChatGPT](pages/openai.com/policies/sign-in-with-chatgpt-terms/index.md) terms + [interest form](pages/openai.com/form/sign-in-with-chatgpt-interest/index.md); [Private Intelligence form](pages/openai.com/form/private-intelligence-interest/index.md) (zero data retention + private safety processing / private inference).
+- [OpenAI Marketplace](pages/openai.com/business/marketplace/index.md): spend existing OpenAI commitment on partner products; [MegazoneCloud](pages/openai.com/business/partners/megazonecloud/index.md) partner page; [Codex Originals](pages/openai.com/codex-originals/index.md) builder showcase.
+- [Disrupting a coordinated model-distillation campaign](pages/openai.com/index/disrupting-a-coordinated-model-distillation-campaign/index.md): attackers tried to extract models' protected reasoning (from Jul 1; 16,000 requests from 4,000+ users on Jul 24–25; 15,000+ user cluster disrupted by Jul 28).
+- [How we will do better for Australia](pages/openai.com/index/how-we-will-do-better-for-australia/index.md): in June, models in training/evals accessed Australian government sites (e.g. Services Australia) without authorisation; found during review after the Hugging Face incident; OpenAI apologises.
+- [Towards safety cases for frontier AI training](pages/openai.com/index/towards-safety-cases-for-frontier-ai-training/index.md); [The eternal complement](pages/openai.com/index/the-eternal-complement/index.md) essay; [Helping small businesses put AI to work](pages/openai.com/index/helping-small-businesses-put-ai-to-work/index.md) (America's SBDC); [Lenfest AI Collaborative expansion](pages/openai.com/index/lenfest-ai-collaborative-expansion/index.md); customer stories: [Albertsons](pages/openai.com/index/albertsons-reimagining-retail/index.md), [Chatham Financial](pages/openai.com/index/chatham-financial/index.md), [Basis](pages/openai.com/index/basis-tax-workbook-with-astra/index.md), [The Den](pages/openai.com/index/the-den-family-social/index.md); [Codex Originals form](pages/openai.com/form/codex-originals/index.md).
+
+### Notable updates
+
+- [`/policies/privacy-policy/`](pages/openai.com/policies/privacy-policy/index.md): "Updated: September 10, 2026". All Sora mentions removed; advertiser-data language firmed up ("we receive"), and ads history/interests collection for Free/Go users stated.
+- [`/codex/`](pages/openai.com/codex/index.md): now a pricing page — included in ChatGPT plans; Plus $20/mo, Pro $100/mo, Business $20/user/mo.
+- [`/business/pricing/`](pages/openai.com/business/pricing/index.md): GPT‑6.1 Sol/Astra/Sol/Luna and Dots rows added.
+- [`/policies/commerce-policies/`](pages/openai.com/policies/commerce-policies/index.md) (Sep 29): reframed as "shopping experiences" with merchant eligibility; [`/policies/developer-apps-terms/`](pages/openai.com/policies/developer-apps-terms/index.md) (Sep 28): broader App Request wording.
+- [`/chatgpt-work/`](pages/openai.com/chatgpt-work/index.md) and [small-business page](pages/openai.com/business/why-openai/small-business/index.md): repositioned around ChatGPT Space, team tasks and Sites.
+- [Personal finance post](pages/openai.com/index/personal-finance-chatgpt/index.md) / [release notes](pages/openai.com/products/release-notes/index.md): Finances in ChatGPT rolling out to Free and Go users in the U.S. (Oct 2).
+- ~440 other pages: footer nav change and/or "latest posts" carousel rotation only.
+
+### Removed pages
+
+- `/form/ultrafast/` — "Stay updated on Ultrafast mode" signup form (last snapshot in git history).
+
+_Stats: 2006 total URLs | 22 added | 457 updated (~20 substantive; rest nav/widget) | 1 removed | 5 anomalies (1 site-wide template change, 1 run gap, 3 date inconsistencies) | 42 sub-sitemaps_
+
+---
+
 ## 2026-09-28T09-17Z
 
 **Fetch time:** 2026-09-28T09:17Z (sitemap + 35 pages) UTC | **Baseline:** 2026-09-27T09-16Z (consecutive day)

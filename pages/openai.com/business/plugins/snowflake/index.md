@@ -48,11 +48,64 @@ Developer
 Website
     [(opens in a new window)](<https://www.snowflake.com/>)
 
-## August revenue report
-
 ![](https://files.openai.com/content?id=file_00000000e8f081f796be3b17c9c53424&cdn=1&cp=pi&ma=30672000&ts=0&p=pi&cid=8&sig=27fc578a66c03b649cd8f6650181d46da30cb1043fbaf7fe4a3f9eed5661e5b7&v=0)Snowflake build a monthly revenue report with trends, the biggest changes by product and segment, and recommended next steps.
 
 ![](https://files.openai.com/content?id=file_00000000e8f081f796be3b17c9c53424&cdn=1&cp=pi&ma=30672000&ts=0&p=pi&cid=8&sig=27fc578a66c03b649cd8f6650181d46da30cb1043fbaf7fe4a3f9eed5661e5b7&v=0)Snowflake build a monthly revenue report with trends, the biggest changes by product and segment, and recommended next steps.
+
+## Conversation response
+
+## August 2026 revenue report
+
+**Revenue reached $1.32 million, up $120,000 or 10% from July.** Enterprise and mid-market gains offset a $30,000 decline in small business. Analytics delivered half of the net increase across products.
+
+This report compares recognized revenue for July and August 2026 from `FINANCE.REVENUE_MONTHLY`. All amounts are USD, not bookings or ARR. Growth rates use July revenue as the denominator.
+
+### Revenue by product
+
+Product| July| August| Change| Growth  
+---|---|---|---|---  
+Core| $720,000| $756,000| +$36,000| +5.0%  
+Analytics| $300,000| $360,000| +$60,000| +20.0%  
+Automation| $180,000| $204,000| +$24,000| +13.3%  
+**Total**| **$1,200,000**| **$1,320,000**| **+$120,000**| **+10.0%**  
+  
+All three products grew. Analytics contributed 50% of the net increase, Core 30%, and Automation 20%.
+
+### Revenue by customer segment
+
+![Revenue bridge from July to August: $1.20 million plus $90,000 from enterprise, plus $60,000 from mid-market, minus $30,000 from small business, equals $1.32 million.](https://cdn.openai.com/business/plugins/conversations/snowflake/revenue-bridge-2026-08-v1.png)
+
+The chart uses a focused $1.18M–$1.37M axis to show the changes; the total bars do not start at zero. Exact amounts are below.
+
+Segment| July| August| Change| Growth  
+---|---|---|---|---  
+Enterprise| $360,000| $450,000| +$90,000| +25.0%  
+Mid-market| $480,000| $540,000| +$60,000| +12.5%  
+Small business| $360,000| $330,000| −$30,000| −8.3%  
+**Total**| **$1,200,000**| **$1,320,000**| **+$120,000**| **+10.0%**  
+  
+Product and segment breakdowns are alternate views of the same revenue. Their contributions should not be added together.
+
+### Changes worth investigating
+
+  * **Mid-market Analytics was the largest product–segment increase:** up $36,000, from $120,000 to $156,000. It accounted for 60% of Analytics growth.
+  * **Enterprise gains were spread across all three products:** Core, Analytics, and Automation each added $30,000. The totals alone do not show whether those gains came from new customers, expansion, or one-time revenue.
+  * **Small-business Core fell $24,000, from $240,000 to $216,000.** That explains 80% of the segment’s $30,000 decline. Small-business Analytics fell another $6,000; Automation was flat.
+  * **Mid-market Automation declined $6,000** , despite overall growth in both the product and segment. That weakness is hidden in the top-line totals.
+
+
+
+### Recommended next steps
+
+  1. Separate recurring and one-time enterprise revenue before increasing the forecast. Identify the accounts behind each product’s $30,000 gain.
+  2. Review account-level mid-market Analytics growth to distinguish repeatable expansion from isolated transactions before building a sales follow-up list.
+  3. Investigate small-business Core first, then mid-market Automation. Check cancellations, downgrades, and recognition timing before attributing the declines to demand.
+
+
+
+Only two months are covered here. The 10% increase is a month-over-month result, not evidence of a sustained trend or seasonality.
+
+I can examine the account-level records behind the small-business Core decline, separating cancellations, downgrades, and recognition timing where the data supports it.
 
 ## How it works
 
@@ -64,19 +117,19 @@ Connect Snowflake data to ChatGPT to ask business questions, inspect schemas, ge
 
 ![](https://files.openai.com/content?id=file_00000000e8f081f796be3b17c9c53424&cdn=1&cp=pi&ma=30672000&ts=0&p=pi&cid=8&sig=27fc578a66c03b649cd8f6650181d46da30cb1043fbaf7fe4a3f9eed5661e5b7&v=0)Snowflake Using the revenue tables I can access, answer this question and show the SQL you used: [question].
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Snowflake+Using+the+revenue+tables+I+can+access%2C+answer+this+question+and+show+the+SQL+you+used%3A+%5Bquestion%5D.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/Plugin_2af00ca970e88191b55798e3995f2aa3?install&prompt=Using%20the%20revenue%20tables%20I%20can%20access%2C%20answer%20this%20question%20and%20show%20the%20SQL%20you%20used%3A%20%5Bquestion%5D.&surface=work>)
 
   * ### Generate SQL and explain results
 
 ![](https://files.openai.com/content?id=file_00000000e8f081f796be3b17c9c53424&cdn=1&cp=pi&ma=30672000&ts=0&p=pi&cid=8&sig=27fc578a66c03b649cd8f6650181d46da30cb1043fbaf7fe4a3f9eed5661e5b7&v=0)Snowflake Review this SQL for correctness, explain what it calculates, and suggest a cleaner version if the logic can be simplified.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Snowflake+Review+this+SQL+for+correctness%2C+explain+what+it+calculates%2C+and+suggest+a+cleaner+version+if+the+logic+can+be+simplified.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/Plugin_2af00ca970e88191b55798e3995f2aa3?install&prompt=Review%20this%20SQL%20for%20correctness%2C%20explain%20what%20it%20calculates%2C%20and%20suggest%20a%20cleaner%20version%20if%20the%20logic%20can%20be%20simplified.&surface=work>)
 
   * ### Create reusable analysis assets
 
 ![](https://files.openai.com/content?id=file_00000000e8f081f796be3b17c9c53424&cdn=1&cp=pi&ma=30672000&ts=0&p=pi&cid=8&sig=27fc578a66c03b649cd8f6650181d46da30cb1043fbaf7fe4a3f9eed5661e5b7&v=0)Snowflake Summarize the latest query results for leadership with key drivers, caveats, and 3 follow-up analyses to run next.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Snowflake+Summarize+the+latest+query+results+for+leadership+with+key+drivers%2C+caveats%2C+and+3+follow-up+analyses+to+run+next.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/Plugin_2af00ca970e88191b55798e3995f2aa3?install&prompt=Summarize%20the%20latest%20query%20results%20for%20leadership%20with%20key%20drivers%2C%20caveats%2C%20and%203%20follow-up%20analyses%20to%20run%20next.&surface=work>)
 
 
 
@@ -115,10 +168,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -137,7 +190,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 

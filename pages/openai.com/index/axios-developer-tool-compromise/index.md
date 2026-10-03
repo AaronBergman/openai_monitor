@@ -80,9 +80,13 @@ Our analysis of the incident concluded that the signing certificate present in t
 Effective May 8, 2026, older versions of our macOS desktop apps will no longer receive updates or support, and may not be functional. These versions represent the earliest releases signed with our updated certificate:
 
   * ChatGPT Desktop: 1.2026.051
+
   * Codex App: 26.406.40811
+
   * Codex CLI: 0.119.0
+
   * Atlas: 1.2026.84.2
+
 
 
 
@@ -121,9 +125,13 @@ OpenAI identified exposure in a GitHub Actions workflow involved in the macOS ap
 Only download OpenAI apps from in-app updates or the official webpages below:
 
   * [_ChatGPT_ ⁠(opens in a new window)](<https://chatgpt.com/download/>)
+
   * [_Codex_ ⁠(opens in a new window)](<https://chatgpt.com/codex/>)
+
   * [_Codex-cli_ ⁠(opens in a new window)](<https://developers.openai.com/codex/cli>)
+
   * [_Atlas_ ⁠(opens in a new window)](<https://chatgpt.com/atlas>)
+
 
 
 
@@ -134,9 +142,13 @@ Do not install apps from links in emails, messages, ads, or third-party download
 Effective May 8, 2026, older versions of our macOS desktop apps will no longer receive updates or support, and may not be functional. These versions represent the earliest releases signed with our updated certificate:
 
   * ChatGPT Desktop: 1.2026.051
+
   * Codex App: 26.406.40811
+
   * Codex CLI: 0.119.0
+
   * Atlas: 1.2026.84.2
+
 
 
 
@@ -160,15 +172,17 @@ OpenAI
 
 [View all](</news/>)
 
-[The Hugging Face incident and the road aheadSecurityAug 26, 2026](</index/hugging-face-incident-and-the-road-ahead/>)
+![Disrupting a coordinated model-distillation campaign — cover](https://images.ctfassets.net/kftzwdyauwt9/1n8Wz1YN3veGi9Fmt7qpSQ/7bc8a9d0a7ebf3800c10e72a360f9f22/disrupting-a-coordinated-model-distillation-campaign-cover.png?w=3840&q=90&fm=webp)
 
-![The Defender’s Window > Cover](https://images.ctfassets.net/kftzwdyauwt9/2We7bguC4FuOofZ8Lu6LUZ/02049fcee47c460695acab59bdb8f648/the-defenders-window-clean-cover.png?w=3840&q=90&fm=webp)
+[Disrupting a coordinated model-distillation campaignSecuritySep 30, 2026](</index/disrupting-a-coordinated-model-distillation-campaign/>)
 
-[The Defender’s WindowSecurityAug 17, 2026](</index/the-defenders-window/>)
+![Daybreak for Critical Infrastructure — cover](https://images.ctfassets.net/kftzwdyauwt9/3iCwHSjR2bfJPdDiWomsis/86d511413c2b0338bd211b41545be495/Option_65___1080_1080.png?w=3840&q=90&fm=webp)
 
-![GPT-Daybreak > Cover](https://images.ctfassets.net/kftzwdyauwt9/2iqsbTTLvgMNteNampw3gW/a38ed04432ee5548c4aec6c7b7a506f2/1x1_Art_Card.png?w=3840&q=90&fm=webp)
+[Daybreak for Frontline DefendersSecuritySep 3, 2026](</index/daybreak-for-frontline-defenders/>)
 
-[Expanding Daybreak as the Cyber Defense Window NarrowsSecurityAug 10, 2026](</index/expanding-daybreak-as-the-cyber-defense-window-narrows/>)
+![Path to Astra — Clean square cover — Neutral Option 062 v1](https://images.ctfassets.net/kftzwdyauwt9/4BabvjDCQdlYN2ISzOkgF9/78d35947274e9b3ac2483377782b007e/astra-cover-v001.png?w=3840&q=90&fm=webp)
+
+[Path to Astra: critical capabilities and frontier safeguardsSafetySep 1, 2026](</index/path-to-astra/>)
 
 Research
 
@@ -180,9 +194,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -201,7 +216,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -219,6 +235,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)

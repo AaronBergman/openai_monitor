@@ -104,6 +104,14 @@ Note: we changed the name of this blog to _Intelligence Age_ to disambiguate thi
 
 Dean Ball
 
+## Keep reading
+
+[View all](</news/>)
+
+![The eternal complement — 01k Seedhead card](https://images.ctfassets.net/kftzwdyauwt9/2YO8x2gdk57apS5n75yZ87/17c6c2981b2a940dd23d5a6661d89180/01k_-_Second_square_title_card_-_New_17_-_Seedhead__2880x2880_.png?w=3840&q=90&fm=webp)
+
+[The eternal complementIntelligence AgeOct 1, 2026](</index/the-eternal-complement/>)
+
 Research
 
   * [Research Index](</research/index/>)
@@ -114,10 +122,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -136,7 +144,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -154,6 +163,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)

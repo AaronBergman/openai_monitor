@@ -61,9 +61,13 @@ In parallel, and in response to the tremendous appetite from European government
 Our technology has become essential for millions of Europeans. EU Member States are amongst our top markets globally for subscribers, API developers and business customers. Everyday, people, developers, institutions, start-ups and leading enterprises are unlocking economic opportunities throughout the continent by:
 
   * Speeding up the development of life-saving medical treatments and helping researchers design new drugs faster, including through our[ _partnership with Sanofi_ ⁠(opens in a new window)](<https://www.sanofi.com/en/media-room/press-releases/2024/2024-05-21-05-30-00-2885244>).
+
   * Accelerating scientific research at leading European laboratories and universities like[ _Science Po_ ⁠](<https://openai.com/index/introducing-nextgenai/>) in France and the[ _Max Planck Society_ ⁠](<https://openai.com/o1/#mario-video>) in Germany.
+
   * Improving education by bringing[ _AI to secondary schools across Estonia_ ⁠](<https://openai.com/index/estonia-schools-and-chatgpt/>) and [_enabling teachers at ESCP Business School_ ⁠(opens in a new window)](<https://escp.eu/ai>) to create personalized lesson plans and spend more time with students.
+
   * Building a thriving European start-up ecosystem with a new generation of AI-fueled companies like Parloa and Pigment using our technology to enhance their platforms and compete globally.
+
 
 
 
@@ -102,10 +106,15 @@ In May, we launched [_OpenAI for Countries_ ⁠](<https://openai.com/global-affa
 Over the summer and into the fall, we will be meeting with governments, businesses and stakeholders in Europe to deliver on: 
 
   * **Data center capacity** : Europe will need the necessary infrastructure to lead in AI. That’s why we’ve submitted Expressions of Interest to join consortiums for the EU’s AI Gigafactories initiative to build next-gen AI infrastructure in Europe. These projects are early-stage but they have the potential to power Europe’s future, support new local industries and provide sovereign compute capacity. 
+
   * **AI-powered Education:** Millions of students and teachers around the world are already using ChatGPT to personalise learning. We are proud to work with Estonia’s government on a world-first initiative to roll out ChatGPT Edu to secondary schools nationwide and have received interest from other EU governments to do the same. 
+
   * **Strategic government partnerships:** We are continuing to build out our offering for the public sector and want to work with European governments on a new playbook for public-private partnerships fit for the AI-era. We already provide EU data residency and the ability to customize ChatGPT for local cultures and languages, and want to work with European governments as they adapt and apply AI for their sovereign needs in a way that is consistent with their local values.
+
   * **National AI Startup Funds:** To turn breakthrough ideas into European success stories, OpenAI is interested in helping to raise dedicated country‑level funds with willing governments to seed high‑potential AI start‑ups. By backing local founders, providing early access to cutting-edge technology and technical support, each fund would serve national priorities and unlock jobs, revenue and new industries. 
+
   * **AI uptake:** In September, we will be in Brussels with Allied for Startups and the broader ecosystem to run an AI policy hackathon focused on one goal: unlocking adoption across every sector of the European economy.
+
 
 
 
@@ -124,9 +133,13 @@ Following the Bletchley summit, we were one of the first companies to publish a 
 We have also developed industry-leading safety practices that guide how we develop and deploy our technology responsibly, including: . 
 
   * We have long published detailed [_System Cards_ ⁠](<https://openai.com/index/o3-o4-mini-system-card/>) with our major releases that lay out what our models can and can’t do, what risks we’ve tested for, and where we’re still learning. 
+
   * The [_Safety Evaluation Hu_ ⁠](<https://openai.com/safety/evaluations-hub/>)b provides public access to safety evaluation results for our models.
+
   * Our [_Red Teaming Network_ ⁠](<https://openai.com/index/red-teaming-network/>) brings in external experts to pressure-test our models
+
   * The [_Model Spec_ ⁠(opens in a new window)](<https://model-spec.openai.com/2025-04-11.html>) offers a window into how we shape model behaviour to reflect human values and democratic norms.
+
 
 
 
@@ -144,17 +157,17 @@ OpenAI
 
 [View all](</news/>)
 
-![DMUA Russia > card image ](https://images.ctfassets.net/kftzwdyauwt9/ciRSLFnJsNyxXYQjdoyqu/ff8ab22ad273ff79a4c9840f0c209fe6/Frame.png?w=3840&q=90&fm=webp)
+![Helping small businesses put AI to work — card](https://images.ctfassets.net/kftzwdyauwt9/7DQxQ61fzFDJjB09z1T6Xx/41d00e7e9ad08ba9fdd9f4d69071a3e8/helping-small-businesses-put-ai-to-work-cover.png?w=3840&q=90&fm=webp)
 
-[Disrupting a new covert influence campaign from RussiaGlobal AffairsAug 25, 2026](</index/disrupting-malicious-uses-of-ai-influence-campaign-russia/>)
+[Helping small businesses put AI to workGlobal AffairsSep 30, 2026](</index/helping-small-businesses-put-ai-to-work/>)
 
-![Strengthening Democratic Oversight in National Security — card image](https://images.ctfassets.net/kftzwdyauwt9/1qebg0OnHIh4dqr84zXR3Q/dba2f0e83ba4615a71894fd7fd1656e1/openai-democratic-oversight-page-cover-v002.png?w=3840&q=90&fm=webp)
+![OpenAI extends cyber access to Ukraine for civilian defense — cover](https://images.ctfassets.net/kftzwdyauwt9/4NsiJiqUurW5ypfaulGCFm/8b5bfad7d895c4fc6aa20766d5c88b0c/openai-extends-cyber-access-to-ukraine-for-civilian-defense-cover.png?w=3840&q=90&fm=webp)
 
-[Strengthening Democratic Oversight in National SecurityGlobal AffairsAug 18, 2026](</index/strengthening-democratic-oversight-in-national-security/>)
+[OpenAI extends cyber access to Ukraine for civilian defenseGlobal AffairsSep 23, 2026](</index/openai-extends-cyber-access-to-ukraine-for-civilian-defense/>)
 
-![OpenAI joins PORTS-Pike project, expanding community investment and supporting thousands of Southern Ohio jobs — card image](https://images.ctfassets.net/kftzwdyauwt9/6RUPcXx0eTGghDpM851Qy1/ab11d2d0849ad9544249bf7b77ee46fe/openai-joins-ports-pike-project-cover-v001.png?w=3840&q=90&fm=webp)
+![Sam Altman’s remarks at the United Nations Security Council cover image](https://images.ctfassets.net/kftzwdyauwt9/4O6fFZArVSBeCoNjTFwXXZ/cc5e374a6b62b8f328555f002b3bca49/sam-altman-s-remarks-at-the-united-nations-security-council-cover.png?w=3840&q=90&fm=webp)
 
-[OpenAI joins PORTS-Pike projectGlobal AffairsAug 17, 2026](</index/openai-joins-ports-pike-project/>)
+[Sam Altman’s remarks at the United Nations Security CouncilGlobal AffairsSep 23, 2026](</index/sam-altman-un-security-council-remarks/>)
 
 Research
 
@@ -166,9 +179,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -187,7 +201,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -205,6 +220,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)

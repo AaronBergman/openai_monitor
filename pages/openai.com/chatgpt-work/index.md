@@ -40,7 +40,7 @@ ChatGPT WorkUse casesGPT-6
 
 ## Turn ideas into action
 
-ChatGPT Work gathers context, plans the approach, and takes action across your tools, files, and desktop apps to create polished spreadsheets, docs, and slides.
+ChatGPT Work brings together your tools, files, and context to help you create, collaborate, and automate work. Develop a first draft with ChatGPT, build on it with your team, and keep recurring work moving.
 
 ### Expand what every team can do
 
@@ -52,7 +52,7 @@ FinanceOpsMarketingSalesData analyticsEngineering
 
 GPT‑6 introduces Astra, a new tier of intelligence for work that demands deeper judgment.
 
-[Read the research](</index/gpt-5-6/>)
+[Read the research](</index/gpt-6-astra/>)
 
 ### Trusted by leading teams
 
@@ -130,10 +130,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -152,7 +152,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -229,6 +230,8 @@ EnglishUnited States
 
 ![ChatGPT updates a Solara Health strategic account plan presentation using data room and Slack context.](https://images.ctfassets.net/kftzwdyauwt9/433TNw3IKQfjIQL1l18Lmi/1711f62663cf3bf9e1ba5538880e91c6/Card_1_-_opt_6.png?w=3840&q=90&fm=webp)
 
+![Growth marketing team space showing a bar chart of first actions and repeat use, with collaborator labels for Jin and Roy.](https://images.ctfassets.net/kftzwdyauwt9/KdrrySJARFHdnLzEuvYfn/71069d03d77f2c1a5bb32a42a6ba0573/module_3_Make-sense-of-data_16x9.png?w=3840&q=90&fm=webp)
+
 ![ChatGPT Sites builds a Form/Shift conference landing page beside a live browser preview.](https://images.ctfassets.net/kftzwdyauwt9/57WzZDA3mSsFa1BPAyyUSH/0f6c891bfd20cee2240869e69a07c4b8/Card_5_-_opt_8.png?w=3840&q=90&fm=webp)
 
 ![ChatGPT reconciles Oracle, Salesforce, and Databricks data while the Plugins panel lists connected business tools.](https://images.ctfassets.net/kftzwdyauwt9/5hmRKD92eGQevyHdzKeXYh/2ca65c0c0574db13c4a2f0928bf92a21/Card_2__-_opt1.png?w=3840&q=90&fm=webp)
@@ -239,9 +242,15 @@ EnglishUnited States
 
 ![ChatGPT Plan mode asks how to format a sales playbook, with options for a Google Doc, slide deck, or Markdown draft.](https://images.ctfassets.net/kftzwdyauwt9/69tFVX5FdyA7TRHqJ1lYyl/339e7e84d87f3c125bed51cac48c073c/Card_6_-_opt_23.png?w=3840&q=90&fm=webp)
 
-### Create share-ready work
+### Create polished work
 
-ChatGPT can turn context from your tools and files into polished documents, presentations, and analyses that better follow your templates and preferred formats.
+ChatGPT can turn context from your tools and files into documents, presentations, and analyses, using your templates and preferred formats.
+
+### Build on it with your team
+
+Create interactive pages with your team and AI in ChatGPT Space. Edit together in real time, leave comments, or tag ChatGPT to make changes. Keep files and past work in one team space, so everyone can build on shared knowledge.
+
+_Available to Pro, Business, and Enterprise plans._[_Learn more._ ⁠(opens in a new window)](<https://chatgpt.com/features/space/>)
 
 ### Make your work interactive—and keep it current
 
@@ -251,9 +260,9 @@ Sites lets you turn ideas, plans, and data into interactive websites and web app
 
 With more than 1,400 plugins available, ChatGPT can pull context from the tools and workflows you already use to help move projects forward.
 
-### Keep projects moving on your schedule
+### Automate work for you and your team
 
-Create one-time or recurring tasks, monitor updates, and check progress from your phone when you’re away from your desk.
+Schedule one-time or recurring tasks for yourself. With team tasks, delegate shared work like weekly reports and customer updates to ChatGPT, using approved company tools. Teammates with access can update the instructions and improve each task together.
 
 ### Iterate on work side-by-side in ChatGPT
 

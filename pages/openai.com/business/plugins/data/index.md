@@ -64,19 +64,19 @@ Use Data Analytics in ChatGPT to investigate metrics, analyze product or busines
 
 ![](https://files.openai.com/content?id=file_00000000f8b481f783f1cfe7713af974&cdn=1&cp=pi&ma=31363200&ts=0&p=pi&cid=8&sig=fda22083625c345ea058048e4be1cab6ea0fdadbb5bc046fee801190289bf055&v=0)Data Diagnose why weekly active users changed last week. Identify likely drivers, compare against prior periods, and recommend the next checks.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Data+Diagnose+why+weekly+active+users+changed+last+week.+Identify+likely+drivers%2C+compare+against+prior+periods%2C+and+recommend+the+next+checks.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/Plugin_fc9843a6fb34819195d6c7802398a8a7?install&prompt=Diagnose%20why%20weekly%20active%20users%20changed%20last%20week.%20Identify%20likely%20drivers%2C%20compare%20against%20prior%20periods%2C%20and%20recommend%20the%20next%20checks.&surface=work>)
 
   * ### Design decision-ready measurement
 
 ![](https://files.openai.com/content?id=file_00000000f8b481f783f1cfe7713af974&cdn=1&cp=pi&ma=31363200&ts=0&p=pi&cid=8&sig=fda22083625c345ea058048e4be1cab6ea0fdadbb5bc046fee801190289bf055&v=0)Data Design a KPI framework for this new product area with primary metrics, drivers, guardrails, targets, and data validation needs.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Data+Design+a+KPI+framework+for+this+new+product+area+with+primary+metrics%2C+drivers%2C+guardrails%2C+targets%2C+and+data+validation+needs.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/Plugin_fc9843a6fb34819195d6c7802398a8a7?install&prompt=Design%20a%20KPI%20framework%20for%20this%20new%20product%20area%20with%20primary%20metrics%2C%20drivers%2C%20guardrails%2C%20targets%2C%20and%20data%20validation%20needs.&surface=work>)
 
   * ### Operationalize insights
 
 ![](https://files.openai.com/content?id=file_00000000f8b481f783f1cfe7713af974&cdn=1&cp=pi&ma=31363200&ts=0&p=pi&cid=8&sig=fda22083625c345ea058048e4be1cab6ea0fdadbb5bc046fee801190289bf055&v=0)Data Turn this month's metrics into a leadership-ready update with actuals, comparisons, drivers, caveats, and recommended actions.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Data+Turn+this+month%27s+metrics+into+a+leadership-ready+update+with+actuals%2C+comparisons%2C+drivers%2C+caveats%2C+and+recommended+actions.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/Plugin_fc9843a6fb34819195d6c7802398a8a7?install&prompt=Turn%20this%20month's%20metrics%20into%20a%20leadership-ready%20update%20with%20actuals%2C%20comparisons%2C%20drivers%2C%20caveats%2C%20and%20recommended%20actions.&surface=work>)
 
 
 
@@ -145,10 +145,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -167,7 +167,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 

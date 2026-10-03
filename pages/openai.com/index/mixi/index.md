@@ -81,8 +81,11 @@ Rolling out any new platform to thousands of people usually takes quarters. MIXI
 After going live, MIXI and OpenAI ran three flagship enablement programs:
 
   * **ChatGPT 101 training** : A live session for every employee, focused on day‑to‑day prompts that shorten real work.
+
   * **New‑hire workshop** : A generative AI onboarding session for April 2025 graduates, building AI fluency from day one.
+
   * **Hackathon** : A hands‑on sprint where engineers built apps with the OpenAI Agents SDK, turning theoretical interest into shipped prototypes.
+
 
 
 
@@ -99,7 +102,9 @@ FamilyAlbum is an app designed to help parents share photos and videos of their 
 Copy checkerCreative planning
 
   * **Copy Checker GPT** :**** Reviews taglines to ensure they feel “FamilyAlbum‑like.” If a proposal includes strong or aggressive wording, the GPT suggests softer phrases aligned with the brand voice.
+
   * **Creative Planning GPT** : Enables non‑native speakers to generate global ad copy that respects both brand values and local nuance. Users specify language and target persona; the GPT returns full headline‑to‑call‑to‑action sets.
+
 
 
 
@@ -133,7 +138,7 @@ Yoshino echoes this sentiment, saying the organization’s capabilities have bro
 
 [Scaling accounting capacity with OpenAIAug 12, 2025](</index/basis/>)
 
-![Intercom cover image](https://images.ctfassets.net/kftzwdyauwt9/32rIG6b83UB8GU0atjwCLp/2859930e037889e03ffc8ca685d00d5a/oai_Intercom_1x1.png?w=3840&q=90&fm=webp)
+![Close-up of copper wire strands with glowing reflections, overlaid with the white Intercom logo centered in the frame.](https://images.ctfassets.net/kftzwdyauwt9/32rIG6b83UB8GU0atjwCLp/2859930e037889e03ffc8ca685d00d5a/oai_Intercom_1x1.png?w=3840&q=90&fm=webp)
 
 [Three lessons for creating a sustainable AI advantageJul 30, 2025](</index/intercom/>)
 
@@ -151,9 +156,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -172,7 +178,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -190,6 +197,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
