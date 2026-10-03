@@ -46,10 +46,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -68,7 +68,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -265,6 +266,30 @@ Plan: Enterprise, Feature: Access on web, iOS, Android, Yes
 
 ### Models
 
+###### GPT-6.1 Sol
+
+Flexible**Plan: Business, Feature: GPT-6.1 Sol, Flexible**
+
+Flexible**Plan: Enterprise, Feature: GPT-6.1 Sol, Flexible**
+
+###### GPT-6 Astra
+
+Flexible**Plan: Business, Feature: GPT-6 Astra, Flexible**
+
+Flexible**Plan: Enterprise, Feature: GPT-6 Astra, Flexible**
+
+###### GPT-6 Sol
+
+Flexible**Plan: Business, Feature: GPT-6 Sol, Flexible**
+
+Flexible**Plan: Enterprise, Feature: GPT-6 Sol, Flexible**
+
+###### GPT-6 Luna
+
+Flexible**Plan: Business, Feature: GPT-6 Luna, Flexible**
+
+Flexible**Plan: Enterprise, Feature: GPT-6 Luna, Flexible**
+
 ###### GPT-5.6 Sol
 
 Flexible**Plan: Business, Feature: GPT-5.6 Sol, Flexible**
@@ -351,6 +376,12 @@ Plan: Business, Feature: Codex, Yes
 
 Plan: Enterprise, Feature: Codex, Yes
 
+###### Dots
+
+Business PremiumPlan: Business, Feature: Dots, Business Premium
+
+Plan: Enterprise, Feature: Dots, Yes
+
 ###### Plugins
 
 Plan: Business, Feature: Plugins, Yes
@@ -398,12 +429,6 @@ Plan: Enterprise, Feature: Memory sources, No
 Plan: Business, Feature: Search, Yes
 
 Plan: Enterprise, Feature: Search, Yes
-
-###### Canvas
-
-Plan: Business, Feature: Canvas, Yes
-
-Plan: Enterprise, Feature: Canvas, Yes
 
 ###### Code edits on macOS
 
@@ -477,11 +502,11 @@ Plan: Business, Feature: Interactive apps, Yes
 
 Plan: Enterprise, Feature: Interactive apps, Yes
 
-###### Excel, PowerPoint, and Google Sheets extensions
+###### Excel, Word, PowerPoint, and Google Sheets extensions
 
-Plan: Business, Feature: Excel, PowerPoint, and Google Sheets extensions, Yes
+Plan: Business, Feature: Excel, Word, PowerPoint, and Google Sheets extensions, Yes
 
-Plan: Enterprise, Feature: Excel, PowerPoint, and Google Sheets extensions, Yes
+Plan: Enterprise, Feature: Excel, Word, PowerPoint, and Google Sheets extensions, Yes
 
 ###### Company knowledge
 
@@ -501,23 +526,23 @@ Plan: Business, Feature: ChatGPT record mode, Yes
 
 Plan: Enterprise, Feature: ChatGPT record mode, Yes
 
-###### Discover & use GPTs
+###### Discover & use Plugins
 
-Plan: Business, Feature: Discover & use GPTs, Yes
+Plan: Business, Feature: Discover & use Plugins, Yes
 
-Plan: Enterprise, Feature: Discover & use GPTs, Yes
+Plan: Enterprise, Feature: Discover & use Plugins, Yes
 
-###### Create & share GPTs
+###### Create & share Plugins
 
-Plan: Business, Feature: Create & share GPTs, Yes
+Plan: Business, Feature: Create & share Plugins, Yes
 
-Plan: Enterprise, Feature: Create & share GPTs, Yes
+Plan: Enterprise, Feature: Create & share Plugins, Yes
 
-###### Share GPTs with your workspace
+###### Share Plugins with your workspace
 
-Plan: Business, Feature: Share GPTs with your workspace, Yes
+Plan: Business, Feature: Share Plugins with your workspace, Yes
 
-Plan: Enterprise, Feature: Share GPTs with your workspace, Yes
+Plan: Enterprise, Feature: Share Plugins with your workspace, Yes
 
 ###### Opportunities to test new features
 
@@ -619,6 +644,12 @@ Plan: Business, Feature: Soc 2 Type 2 compliance, Yes
 
 Plan: Enterprise, Feature: Soc 2 Type 2 compliance, Yes
 
+###### Basic user analytics
+
+Plan: Business, Feature: Basic user analytics, Yes
+
+Plan: Enterprise, Feature: Basic user analytics, Yes
+
 ###### Domain verification
 
 Plan: Business, Feature: Domain verification, Yes
@@ -643,6 +674,12 @@ Plan: Business, Feature: Enterprise Key Management, No
 
 Plan: Enterprise, Feature: Enterprise Key Management, Yes
 
+###### Granular GPT controls & group permissions
+
+Plan: Business, Feature: Granular GPT controls & group permissions, No
+
+Plan: Enterprise, Feature: Granular GPT controls & group permissions, Yes
+
 ###### Role-based access controls
 
 Plan: Business, Feature: Role-based access controls, No
@@ -651,7 +688,7 @@ Plan: Enterprise, Feature: Role-based access controls, Yes
 
 ###### Analytics dashboard
 
-Plan: Business, Feature: Analytics dashboard, No
+Plan: Business, Feature: Analytics dashboard, Yes
 
 Plan: Enterprise, Feature: Analytics dashboard, Yes
 
@@ -672,6 +709,12 @@ Plan: Enterprise, Feature: IP allowlisting, Yes
 Plan: Business, Feature: Data residency in US, EU, UK, JP, CA, KR, SG, IN, AU, UAE, No
 
 Plan: Enterprise, Feature: Data residency in US, EU, UK, JP, CA, KR, SG, IN, AU, UAE, Yes
+
+###### Intune for iOS
+
+Plan: Business, Feature: Intune for iOS, No
+
+Plan: Enterprise, Feature: Intune for iOS, Yes
 
 ###### Branded workspace
 

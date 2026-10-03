@@ -101,8 +101,11 @@ That cycle—ask, check, trust—turned the assistant into a daily habit for tea
 The payoff shows up everywhere.
 
   * After GPT‑5 launched, product teams had feedback themes in days, not weeks.
+
   * When the enterprise adoption of connectors slowed, the assistant quickly surfaced the root cause: a buggy onboarding flow. Engineers could then prioritize fixes.
+
   * In Image generation, it highlighted both the creativity of marketing teams using it for mockups _and_ the friction of rendering delays; two truths that directly shaped the roadmap.
+
 
 
 
@@ -154,10 +157,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -176,7 +179,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -194,6 +198,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)

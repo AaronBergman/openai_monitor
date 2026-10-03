@@ -120,17 +120,17 @@ OpenAI
 
 [View all](</news/>)
 
-![Advisory Group on Mathematics and Artificial Intelligence — cover](https://images.ctfassets.net/kftzwdyauwt9/7I8A6x8LfZld8C8IZUbZmi/6c9da8e137ce049fb07e486958636739/advisory-group-on-mathematics-and-artificial-intelligence-cover.png?w=3840&q=90&fm=webp)
+![Albertsons | How Albertsons Companies is reimagining retail from the inside out | Cover](https://images.ctfassets.net/kftzwdyauwt9/1NIa0MXiVT1HpZdWR3jggG/1862b5773b745c19f38fe20e6b21fb61/how-albertsons-companies-is-reimagining-retail-from-the-inside-out-cover.png?w=3840&q=90&fm=webp)
 
-[Advisory group on mathematics and artificial intelligenceCompanySep 21, 2026](</index/advisory-group-on-mathematics-and-ai/>)
+[How Albertsons Companies is reimagining retail from the inside outCompanyOct 1, 2026](</index/albertsons-reimagining-retail/>)
 
-![Building shared standards for the next phase of AI - art card](https://images.ctfassets.net/kftzwdyauwt9/aQqo6ytHD8RKLFOAPu3vC/c7189f6ec0853600e0e7110885d03541/building-shared-standards-next-phase-ai-cover.png?w=3840&q=90&fm=webp)
+![Helping small businesses put AI to work — card](https://images.ctfassets.net/kftzwdyauwt9/7DQxQ61fzFDJjB09z1T6Xx/41d00e7e9ad08ba9fdd9f4d69071a3e8/helping-small-businesses-put-ai-to-work-cover.png?w=3840&q=90&fm=webp)
 
-[Building standards for the next phase of AIGlobal AffairsSep 21, 2026](</index/building-standards-next-phase-ai/>)
+[Helping small businesses put AI to workGlobal AffairsSep 30, 2026](</index/helping-small-businesses-put-ai-to-work/>)
 
-![Expanding OpenAI Academy with new learning paths — cover](https://images.ctfassets.net/kftzwdyauwt9/45fB7Wzg6PiQPzz8V49LVr/ef443412e9d5f03f9d5ffcc79aefe18e/expanding-openai-academy-with-new-learning-paths-cover.png?w=3840&q=90&fm=webp)
+![DevDay 2026 Recap — cover image \(1:1\)](https://images.ctfassets.net/kftzwdyauwt9/1C75hfnvbohzm6Fx3hd7ux/1391c894029045aa51d520e4d80f6f4b/DevDay_Blog_ArtCard_1x1.png?w=3840&q=90&fm=webp)
 
-[Expanding OpenAI Academy with new learning pathsCompanySep 21, 2026](</index/expanding-openai-academy-with-new-learning-paths/>)
+[DevDay 2026 RecapCompanySep 29, 2026](</index/devday-2026-recap/>)
 
 Research
 
@@ -142,10 +142,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -164,7 +164,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 

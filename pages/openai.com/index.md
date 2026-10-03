@@ -32,25 +32,25 @@ Message ChatGPT
 
 [Learn about ChatGPT Business](</business/>)[Talk with ChatGPT](<https://chatgpt.com/?mode=voice>)[Research](</research/>)[API Platform](</api/>)More
 
-![astra 16x9 poster](https://images.ctfassets.net/kftzwdyauwt9/6aziMFlkfqPiaNdkZujHdo/74adba940d8bc2c3d9f7e500c71298ab/astra_16x9_poster.png?w=3840&q=50&fm=webp)
+![OpenAI DevDay 2026](https://images.ctfassets.net/kftzwdyauwt9/6elORm6Tf9SptdH3mlnJBW/a0bea759a911cd9f04afe135835063bc/DevDay_Blog_ArtCard_16x9.png?w=3840&q=90&fm=webp)
 
-[GPT-6 Astra: A new generation of intelligenceResearch28 min read](</index/gpt-6-astra/>)
+[DevDay 2026 RecapCompany28 min read](</index/devday-2026-recap/>)
 
-![astra 16x9 poster](https://images.ctfassets.net/kftzwdyauwt9/6aziMFlkfqPiaNdkZujHdo/74adba940d8bc2c3d9f7e500c71298ab/astra_16x9_poster.png?w=3840&q=50&fm=webp)
+![OpenAI DevDay 2026](https://images.ctfassets.net/kftzwdyauwt9/6elORm6Tf9SptdH3mlnJBW/a0bea759a911cd9f04afe135835063bc/DevDay_Blog_ArtCard_16x9.png?w=3840&q=90&fm=webp)
 
-[GPT-6 Astra: A new generation of intelligenceResearch28 min read](</index/gpt-6-astra/>)
+[DevDay 2026 RecapCompany28 min read](</index/devday-2026-recap/>)
 
-![Introducing GPT-6 Sol and Luna — Art card](https://images.ctfassets.net/kftzwdyauwt9/4HANTuYDvaT04gpR91bEQ9/885481304c5675cb7525bcccbe8c5580/gpt-6-sol-luna-art.png?w=3840&q=90&fm=webp)
+![Introducing dots — cover art card \(square\)](https://images.ctfassets.net/kftzwdyauwt9/2TCcE1IdEPpWT2vaC3PDWu/e78bceb30c38422b1461a2326838e762/Art_Card___1_1_1080x1080.png?w=3840&q=90&fm=webp)
 
-[Introducing GPT-6 Sol and LunaProduct8 min read](</index/introducing-gpt-6-sol-and-luna/>)
+[Introducing dotsProduct8 min read](</index/introducing-dots/>)
+
+![GPT-6-1-Sol_Blog 1x1](https://images.ctfassets.net/kftzwdyauwt9/7reVkD9GZT81EppPxXgW4D/44c5d09530a17bf45d153b86760ee30a/GPT-6-1-Sol_1x1.png?w=3840&q=90&fm=webp)
+
+[Introducing GPT-6.1 SolProduct6 min read](</index/introducing-gpt-6-1-sol/>)
 
 ![Mental Health Bench art card](https://images.ctfassets.net/kftzwdyauwt9/1GVQAEpVME68kCI7Ol2ApW/abde191546741612492ae27f9baf7f3e/Mental_Health_Bench__art_card.png?w=3840&q=90&fm=webp)
 
 [Introducing MentalHealthBenchPublication8 min read](</index/introducing-mentalhealthbench/>)
-
-![images2point5 1-1](https://images.ctfassets.net/kftzwdyauwt9/6C1icjo4Zz6MzpbQl1K2qx/8bf8ec06aae235d81019c24f6098d2f0/images2point5_1-1c.png?w=3840&q=90&fm=webp)
-
-[Introducing ChatGPT Images 2.5Product6 min read](</index/introducing-chatgpt-images-2-5/>)
 
 ## Recent news
 
@@ -142,10 +142,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -164,7 +164,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 

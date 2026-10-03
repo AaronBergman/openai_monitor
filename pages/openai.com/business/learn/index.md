@@ -36,6 +36,10 @@ GuidesOpenAI on OpenAIWebinarsDemos
 
 #### Guides
 
+![A model guide for the GPT-6 family — Card image](https://images.ctfassets.net/kftzwdyauwt9/4I32Z0klAF95wPuspoHaxb/7388860bce7773838eb20317fda1a937/6tbusrroo8ljxic8ceybig-cover.png?w=3840&q=90&fm=webp)
+
+## [A model guide for the GPT‑6 familyPractical tips for getting the best results from GPT‑6 models while managing time and cost.](</index/practical-guide-building-gpt-6/>)
+
 ![Abstract orange wallpaper with soft peach highlights.](https://images.ctfassets.net/kftzwdyauwt9/14QK7oeFx4wzFrk18r78pw/4a96ed4f5ed02090968d437320ff506e/agent-security-option-112-cover-1080.png?w=3840&q=90&fm=webp)
 
 ## [Agent security in the enterpriseA practical guide to deploying autonomous agents safely](</business/learn/agent-security-enterprise/>)
@@ -67,10 +71,6 @@ GuidesOpenAI on OpenAIWebinarsDemos
 ![Abstract, softly blurred gradient with flowing shapes in blue, green, and yellow tones, resembling light waves or a smooth, colorful background.](https://images.ctfassets.net/kftzwdyauwt9/TIijWsWOQoRzYm6kYZIQH/3cbddddb5c9f516fe75196baf0da8852/reinventing-the-enterprise-product-delivery-lifecycle-for-an-agentic-world.png?w=3840&q=90&fm=webp)
 
 [The Agentic Shift in Product DeliveryReinventing the enterprise product delivery lifecycle for an agentic world](<http://cdn.openai.com/pdf/0c77f335-3e3b-48b9-82d8-8717e58ea021%20/reinventing-the-enterprise-product-delivery-lifecycle-for-an-agentic-world.pdf>)
-
-![purpe background with text saying 2025 report](https://images.ctfassets.net/kftzwdyauwt9/4ZGABEHtog5MoDmj5V6OY1/e0fbf3ea8102458bdb03a4be1466cb00/homepage_feature_v2.png?w=3840&q=90&fm=webp)
-
-[The state of enterprise AIWhat we’re learning about AI at work.](</business/guides-and-resources/the-state-of-enterprise-ai-2025-report/>)
 
 ![Pink, purple, and orange shapes blend in an abstract gradient.](https://images.ctfassets.net/kftzwdyauwt9/5uCs5mXCel0eJTL8ahQ7TA/10959a8edd7a3753c5ff473c0ad460a9/1x1_staying_ahead.png?w=3840&q=90&fm=webp)
 
@@ -232,10 +232,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -254,7 +254,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -272,6 +273,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)

@@ -77,8 +77,11 @@ The Ops team wanted to go well beyond using a chatbot to deflect support questio
 At the center are three building blocks:
 
   * **Surfaces.** Where support systems are interacted with. Chat, email, and phone, but increasingly, help embedded directly inside the product.
+
   * **Knowledge.** Not just static docs, but living and continuously improving guidance drawn from real conversations, policies, and context.
+
   * **Evals and classifiers.** Shared definitions of quality built by software and humans in unison, plus tools to measure, improve, and highlight feedback.
+
 
 
 
@@ -103,9 +106,13 @@ The result is a support organization defined less by throughput and more by its 
 Building support this way is only possible because we’re built on OpenAI’s stack.
 
   * Agents SDK gives us step-level traces and observability by default. We can replay runs, inspect tool calls, and debug root causes instantly.
+
   * Responses API powers classifiers for tone, correctness, and policy adherence.
+
   * Realtime API makes voice support possible.
+
   * OpenAI’s Evals dashboard makes quality measurable and easy to visualize over time.
+
 
 
 
@@ -165,10 +172,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -187,7 +194,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -205,6 +213,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)

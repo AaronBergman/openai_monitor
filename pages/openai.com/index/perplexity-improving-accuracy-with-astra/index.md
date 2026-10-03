@@ -70,17 +70,17 @@ The model generates realistic responses like those another service would send, f
 
 ## Keep reading
 
-![Two years of OpenAI Academy — card image](https://images.ctfassets.net/kftzwdyauwt9/Tc4KzRhOgVSaIxQoUkr9R/25c2cf38c314d47e6f3cb93e54e382aa/two-years-of-openai-academy-cover.png?w=3840&q=90&fm=webp)
+![A model guide for the GPT-6 family — Card image](https://images.ctfassets.net/kftzwdyauwt9/4I32Z0klAF95wPuspoHaxb/7388860bce7773838eb20317fda1a937/6tbusrroo8ljxic8ceybig-cover.png?w=3840&q=90&fm=webp)
 
-[Two years of OpenAI AcademyCompanySep 23, 2026](</index/two-years-of-openai-academy/>)
+[A practical guide to building with GPT-6ProductOct 2, 2026](</index/practical-guide-building-gpt-6/>)
 
-![OpenAI extends cyber access to Ukraine for civilian defense — cover](https://images.ctfassets.net/kftzwdyauwt9/4NsiJiqUurW5ypfaulGCFm/8b5bfad7d895c4fc6aa20766d5c88b0c/openai-extends-cyber-access-to-ukraine-for-civilian-defense-cover.png?w=3840&q=90&fm=webp)
+![Chatham Financial — Art card, Getty texture](https://images.ctfassets.net/kftzwdyauwt9/01pb50tQohDn4kZa58YtWh/2a35d510aa9cfcaae9cec634428e8230/chatham-financial-art-card-getty-texture.png?w=3840&q=90&fm=webp)
 
-[OpenAI extends cyber access to Ukraine for civilian defenseGlobal AffairsSep 23, 2026](</index/openai-extends-cyber-access-to-ukraine-for-civilian-defense/>)
+[Chatham scales its capital markets expertise with OpenAIOct 2, 2026](</index/chatham-financial/>)
 
-![Harvey customer story card image - Option C](https://images.ctfassets.net/kftzwdyauwt9/59usTWVI6pc0I3Lb6TL2ol/3d45075f7a623fa6ba4d8d13459065c1/square.png?w=3840&q=90&fm=webp)
+![The eternal complement — 01k Seedhead card](https://images.ctfassets.net/kftzwdyauwt9/2YO8x2gdk57apS5n75yZ87/17c6c2981b2a940dd23d5a6661d89180/01k_-_Second_square_title_card_-_New_17_-_Seedhead__2880x2880_.png?w=3840&q=90&fm=webp)
 
-[Harvey turns legal context into stronger drafts with GPT-6 AstraStartupSep 23, 2026](</index/harvey-from-context-to-confidence-with-astra/>)
+[The eternal complementIntelligence AgeOct 1, 2026](</index/the-eternal-complement/>)
 
 Research
 
@@ -92,10 +92,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -114,7 +114,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 

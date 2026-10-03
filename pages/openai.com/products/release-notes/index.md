@@ -43,113 +43,79 @@ Sort
 
 ChatGPT
 
-Sep 24, 2026
+Oct 2, 2026
 
-Preview
+GA
 
-## External access controls
+## Finances expands to Free and Go users
 
-Global admins in ChatGPT Business and Enterprise organizations can now manage whether ChatGPT Sites can use members’ connected apps and whether applications can access ChatGPT Ads. These controls are on the redesigned External access page in the OpenAI Admin Console. Identity-only sign-in remains separate from data access.
+Finances in ChatGPT is rolling out to Free and Go users in the U.S. on web, iOS, and Android. You can securely connect your financial accounts to find ways to save, understand your spending, and make sense of your investments, with answers grounded in your finances.
 
-Both new permissions are off by default during the admin preview. Members must still authorize access using their own permissions. Sites access also depends on workspace and individual app settings.
-
-[View source(opens in a new window)](<https://help.openai.com/en/articles/11391654-chatgpt-business-release-notes#external-access-controls>)[Help center(opens in a new window)](<https://help.openai.com/en/articles/10128477-chatgpt-enterprise-and-edu-release-notes#external-access-controls>)[Help center(opens in a new window)](<https://help.openai.com/en/articles/12289294-managing-your-tenant-in-admin-console>)
+[View source(opens in a new window)](<https://help.openai.com/en/articles/6825453-chatgpt-release-notes#finances-expands-to-free-and-go-users>)[Help center(opens in a new window)](<https://help.openai.com/en/articles/20001222-finances-in-chatgpt>)
 
 ChatGPT
 
-Sep 23, 2026
+Oct 1, 2026
 
 GA
 
-## Use plugins in Voice and get work done by speaking
+## New ways to shop in ChatGPT
 
-Live now supports plugins on web, iOS, and Android. You can use the plugins and connected apps available to your account during a Voice conversation and follow written responses in the chat.
+See how clothes and accessories could look on you and save your favorites for later.
 
-Voice is also available in Work on web and mobile. Ask it to create documents, presentations, and spreadsheets, use connected apps, or work in a browser. When you end a Voice call in Work, an unfinished task can continue in text.
+Virtually try on clothing and accessories: A “Try on” button will appear on product listings for clothes and accessories in ChatGPT. Select it, then take or upload a selfie to generate a virtual try-on with ChatGPT Images. Your reference photo is saved for future try-ons. You can change or delete it in Settings → Personalization → Reference photos.
 
-Free and Go users can use Voice in Chat with the plugins their plan supports. Existing app connections, permissions, and usage limits apply.
+Save your finds: Save any product to Favorites or create a folder to organize your finds in your ChatGPT Library.
 
-For Business, Enterprise, and Edu workspaces, workspace controls continue to apply. Voice in Work requires both Voice and Work access, and plugins retain their existing app access, data permissions, and action restrictions. Enabling Voice does not enable Work or a blocked plugin. When an action needs your approval, review it on screen.
+Available in ChatGPT on mobile and web.
 
-[View source(opens in a new window)](<https://help.openai.com/en/articles/6825453-chatgpt-release-notes#use-plugins-in-voice-and-get-work-done-by-speaking>)[Help center(opens in a new window)](<https://help.openai.com/en/articles/11391654-chatgpt-business-release-notes#use-plugins-in-voice-and-get-work-done-by-speaking>)[Help center(opens in a new window)](<https://help.openai.com/en/articles/10128477-chatgpt-enterprise-and-edu-release-notes#use-plugins-in-voice-and-get-work-done-by-speaking>)
-
-Codex
-
-Sep 23, 2026
-
-GA
-
-## ChatGPT for iOS updates: redesigned home, iPad split view, and nested repositories
-
-### New features
-
-  * Redesigned home screen.
-
-  * New iPad split view keeps your task list beside the open task in landscape.
-
-  * Added support for browsing changes inside nested Git repositories.
-
-
-
-
-### Improvements and bug fixes
-
-  * Side chats now carry over attachments, selected text, and review comments.
-
-  * Fixed replies appearing blank or incomplete when the next queued prompt starts.
-
-  * New tasks preserve your selected computer and better recognize project checkouts and worktrees.
-
-  * More reliable file links, with clearer loading feedback when opening files and new tasks.
-
-  * Clearer error messages explain why task history could not load and what to try next.
-
-  * Smoother animations when adding photos from the camera or Photo Library.
-
-  * Fixed pairing failures caused by an incorrect device clock and SSH connection issues on Mac and Linux.
-
-
-
-
-[View source(opens in a new window)](<https://learn.chatgpt.com/docs/changelog#codex-2026-09-23-mobile>)
-
-Codex
-
-Sep 22, 2026
-
-GA
-
-## GPT-6 Sol and GPT-6 Luna
-
-We’re introducing GPT‑6 Sol and GPT‑6 Luna in ChatGPT Work and Codex. These models are separate from the models available in Chat.
-
-Codex desktop keeps the model you selected manually.
-
-Available models and reasoning effort options depend on your plan and workspace settings.
-
-GPT‑6 Sol and GPT‑6 Luna are rolling out to Codex and ChatGPT Work at lower token prices than their GPT‑5.6 predecessors. Use Sol for complex coding and agentic workflows, and Luna for focused, high-volume tasks.
-
-Both models are rolling out to Plus, Pro, Business, Enterprise, and Edu users. Free and Go users can access Luna in the desktop app. Availability depends on rollout and workspace settings; Enterprise administrators must enable the new models. In ChatGPT, the models are available in Work and Codex, but not Chat.
-
-[View source(opens in a new window)](<https://developers.openai.com/api/docs/models/gpt-6-sol>)[Platform docs(opens in a new window)](<https://learn.chatgpt.com/docs/changelog#codex-2026-09-22-gpt-6-sol-luna>)[Help center(opens in a new window)](<https://help.openai.com/en/articles/6825453-chatgpt-release-notes#gpt-6-sol-and-luna-in-work-and-codex>)
+[View source(opens in a new window)](<https://help.openai.com/en/articles/6825453-chatgpt-release-notes#new-ways-to-shop-in-chatgpt>)
 
 ChatGPT
 
-Sep 22, 2026
+Oct 1, 2026
 
 GA
 
-## Create flashcards in ChatGPT
+## Scan notes and documents more easily with ChatGPT camera
 
-You can now create interactive flashcards in ChatGPT. Ask for flashcards on a topic you want to learn, or upload your notes and ask ChatGPT to turn them into flashcards.
+It’s now easier to bring your notes and documents into ChatGPT on your phone. Capture multiple pages in a row, and ChatGPT automatically combines them into a single PDF, ready to upload to your chat.
 
-Tap a card to flip it, then select ✔️ if you know the answer or ❌ to practice it again later. Shuffle your cards to practice in a different order.
+To get started, open the camera in ChatGPT, tap the three-dot menu, and select Scan. Rolling out on iOS.
 
-Flashcards are automatically saved in your library. To practice again, open them there or ask ChatGPT to review them back.
+[View source(opens in a new window)](<https://help.openai.com/en/articles/6825453-chatgpt-release-notes#scan-notes-and-documents-more-easily-with-chatgpt-camera>)
 
-Available on mobile and web for all ChatGPT plans.
+Codex
 
-[View source(opens in a new window)](<https://help.openai.com/en/articles/6825453-chatgpt-release-notes#create-flashcards-in-chatgpt>)
+Sep 29, 2026
+
+GA
+
+## GPT-6.1 Sol in Codex, ChatGPT Work, and the API
+
+GPT‑6.1 Sol offers near-Astra performance for complex work at a lower cost than Astra. Consider it for repeated, long-running work across code, apps, and documents. Availability depends on your plan, client, and workspace settings.
+
+Use `gpt-6.1-sol`.
+
+Released GPT‑6.1 Sol (`gpt-6.1-sol`) for complex coding and professional work at a lower cost than GPT‑6 Astra. Standard pricing per 1M tokens for prompts with up to 272K input tokens is $2 input, $0.10 cached input, $2.50 cache write, and $10 output.
+
+GPT‑6.1 Sol also supports Multi-agent in beta. Let the model delegate work to subagents in a Responses API request.
+
+GPT‑6.1 Sol improves on GPT‑6 Sol in agentic coding, computer use, and professional work. We’re rolling it out in ChatGPT Work and Codex, starting with Pro users and expanding to Plus, Business, Enterprise, and Edu. Enterprise and Edu workspace owners can enable model access in Workspace settings > Permissions & roles, on the Workspace tab or through a custom role.
+
+[View source(opens in a new window)](<https://developers.openai.com/api/docs/models/gpt-6.1-sol>)[Platform docs(opens in a new window)](<https://learn.chatgpt.com/docs/changelog#codex-2026-09-29-gpt-61-sol>)[Help center(opens in a new window)](<https://help.openai.com/en/articles/6825453-chatgpt-release-notes#gpt-61-sol-in-chatgpt-work-and-codex>)
+
+API
+
+Sep 29, 2026
+
+GA
+
+## Computer use in the Agents API
+
+Added computer use to the Agents API. Agents can complete tasks in an OpenAI-hosted browser, with website access approvals and sign-in handled by your application.
+
+[View source(opens in a new window)](<https://developers.openai.com/api/docs/guides/agents-api/tools/computer-use>)
 
 Load more
 
@@ -163,10 +129,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -185,7 +151,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
