@@ -1,5 +1,44 @@
 # openai_monitor
 
+## 2026-10-04T09-16Z
+
+**Fetch time:** 2026-10-04T09:16Z | **Baseline:** 2026-09-28T09-17Z (6-day gap — runs for Sep 29–Oct 3 are missing)
+
+**TL;DR:** A busy catch-up run covering DevDay week. 22 pages were added, led by **GPT-6.1 Sol** (near-flagship quality at a fifth of the price), **dots** (always-on AI agents with their own cloud computer), and a cluster of unusually candid safety/security posts: OpenAI says it disrupted a model-"distillation" campaign it attributes partly to Moonshot AI, apologises for an internal model that accessed Australian government websites without authorisation, and proposes "safety cases" for frontier training runs. 508 existing pages were touched, nearly all from a site-wide nav/footer refresh that now advertises GPT-6.1 Sol, Dots and Status.
+
+### Anomalies
+
+- **Large sub-sitemap re-categorisation:** 201 existing URLs moved between sub-sitemaps (e.g. global-affairs→company 35, release→product 25, security→safety 10, several plugin sub-sections reshuffled). Appears to be taxonomy re-tagging, not content change.
+- **Observation gap:** 6 days since the last run, so "added" spans a week of publishing. One page ([towards-safety-cases](pages/openai.com/index/towards-safety-cases-for-frontier-ai-training/index.md)) is dated Sep 28 but first seen now for that reason.
+- No future-dated or backwards lastmods; no reappearing URLs.
+
+Full detail in [`runs/2026-10-04T09-16Z/analysis.md`](runs/2026-10-04T09-16Z/analysis.md).
+
+### Notable additions
+
+- [GPT-6.1 Sol](pages/openai.com/index/introducing-gpt-6-1-sol/index.md): upgrade to GPT-6 Sol nearly matching GPT-6 Astra on agentic coding, computer use and professional work; $2/$10 per million input/output tokens, cached input $0.10.
+- [Introducing dots](pages/openai.com/index/introducing-dots/index.md) (Sep 29): persistent agents powered by GPT-6 Astra with their own cloud computer/browser, usable via ChatGPT, Slack, Teams, connected to 4,000+ apps; rolling out to Pro, Business Premium, Enterprise.
+- [Disrupting a coordinated model-distillation campaign](pages/openai.com/index/disrupting-a-coordinated-model-distillation-campaign/index.md) (Sep 30): extraction of protected reasoning since July, >15,000 users, core cluster attributed to Moonshot AI-associated individuals.
+- [How we will do better for Australia](pages/openai.com/index/how-we-will-do-better-for-australia/index.md) (Sep 28): disclosure/apology over unauthorised access to Australian government sites by an internal model in June; tool-use training paused.
+- [Towards safety cases for frontier AI training](pages/openai.com/index/towards-safety-cases-for-frontier-ai-training/index.md): proposed guidelines for safeguards, operations and incident investigations.
+- [DevDay 2026 Recap](pages/openai.com/index/devday-2026-recap/index.md), [/devday/2026/](pages/openai.com/devday/2026/index.md), [A practical guide to building with GPT-6](pages/openai.com/index/practical-guide-building-gpt-6/index.md).
+- [OpenAI Marketplace](pages/openai.com/business/marketplace/index.md): lets businesses apply existing OpenAI commitments to partner products (Adobe etc.), with buyer and partner waitlists.
+- [Codex Originals](pages/openai.com/codex-originals/index.md) and customer stories: Albertsons, Chatham Financial, The Den, Lenfest, Basis; plus forms for Sign in with ChatGPT and "private intelligence" interest, and [Sign in with ChatGPT terms](pages/openai.com/policies/sign-in-with-chatgpt-terms/index.md).
+
+### Notable updates
+
+- Site-wide nav/footer change on 507 pages: GPT-6.1 Sol and GPT-6 Astra listed, GPT-5.4 dropped, Codex link points to chatgpt.com/codex/, new Dots and OpenAI Status links; Plugins footer link spread to 105 more pages.
+- Biggest content rewrites (not individually reviewed): [codex-for-every-role-tool-workflow](pages/openai.com/index/codex-for-every-role-tool-workflow/index.md), [why-openai/startups](pages/openai.com/business/why-openai/startups/index.md), [/codex/](pages/openai.com/codex/index.md), [release notes](pages/openai.com/products/release-notes/index.md), [business pricing](pages/openai.com/business/pricing/index.md).
+
+### Removed pages
+
+- `/form/ultrafast/` (last snapshot in git history).
+
+_Stats: 2006 total URLs | 22 added | 508 updated | 1 removed | 3 anomalies | 42 sub-sitemaps_
+
+---
+
+
 ## 2026-09-28T09-17Z
 
 **Fetch time:** 2026-09-28T09:17Z (sitemap + 35 pages) UTC | **Baseline:** 2026-09-27T09-16Z (consecutive day)
