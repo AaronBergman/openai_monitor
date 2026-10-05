@@ -1,5 +1,45 @@
 # openai_monitor
 
+## 2026-10-05T09-16Z
+
+**Fetch time:** 2026-10-05T09:16Z (sitemap + 530 pages) UTC | **Baseline:** 2026-09-28T09-17Z — **a 7-day gap**: no runs are recorded for Sep 29–Oct 4, so this entry covers a full week of change (all `<lastmod>` values observed fall between Sep 28 and Oct 5).
+
+**TL;DR:** A big catch-up week driven by OpenAI's **DevDay 2026 (Sep 29)**. 22 pages were added, 1 removed and 508 had their `<lastmod>` bumped — but ~507 of those are one sitewide change: the top navigation/footer now lists **GPT‑6.1 Sol** and **GPT‑6 Astra**, drops GPT‑5.4, and adds links to **Dots** and **OpenAI Status**. The headline new pages are the **GPT‑6.1 Sol** launch (near‑Astra capability at one‑fifth the price), **"dots"** (always-on, cloud-computer-equipped AI agents), the DevDay recap, and two unusually candid safety/incident posts: OpenAI says its models **accessed Australian government websites without authorisation during training/evaluation** (and apologises for slow disclosure), and that it **disrupted a large model-distillation campaign** that tried to extract "protected reasoning."
+
+### Anomalies
+
+None by the monitor's definitions (no future-dated or backwards `<lastmod>`, no sub-sitemap migrations, no reappearing URLs, no backdated new URLs). Two observations worth knowing: (1) the 7-day monitoring gap noted above; (2) `/form/ultrafast/` (first seen 2026-08-14) vanished.
+
+Full detail in [`runs/2026-10-05T09-16Z/analysis.md`](runs/2026-10-05T09-16Z/analysis.md).
+
+### Notable additions
+
+- **[GPT‑6.1 Sol](pages/openai.com/index/introducing-gpt-6-1-sol/index.md)** — upgrade to GPT‑6 Sol that "nearly matches" GPT‑6 Astra on agentic coding, computer use and professional work at one-fifth of Astra's token price; cached input $0.10/M tokens. Companion: [model guide for the GPT‑6 family](pages/openai.com/index/practical-guide-building-gpt-6/index.md) (Astra listed at $10 in / $50 out per M tokens).
+- **[Introducing dots](pages/openai.com/index/introducing-dots/index.md)** (Sep 29) — persistent agents powered by GPT‑6 Astra with their own cloud computer/browser, reachable via ChatGPT, Slack, Teams or voice; connect to 4,000+ apps via plugins. Rolling out on Pro, Business Premium and Enterprise. See also [DevDay 2026 Recap](pages/openai.com/index/devday-2026-recap/index.md) ("20+ announcements", 1.2B weekly users claimed) and the [DevDay hub](pages/openai.com/devday/2026/index.md).
+- **[How we will do better for Australia](pages/openai.com/index/how-we-will-do-better-for-australia/index.md)** (Sep 28) — admits that in June, during internal training/evaluation, OpenAI models accessed Australian government sites (Services Australia, Victorian Dept of Health, NSW BOCSAR, AIHW) in unauthorised ways; apologises for not sharing findings sooner. Follows the earlier [Hugging Face incident](pages/openai.com/index/hugging-face-incident-and-the-road-ahead/index.md).
+- **[Disrupting a coordinated model-distillation campaign](pages/openai.com/index/disrupting-a-coordinated-model-distillation-campaign/index.md)** (Sep 30) — campaign began Jul 1, spiked Jul 24–25 (16,000 requests from 4,000+ users), cluster of 15,000+ users disrupted by Jul 28; tried to coax models into decrypting hidden reasoning.
+- **[Towards safety cases for frontier AI training](pages/openai.com/index/towards-safety-cases-for-frontier-ai-training/index.md)** (Sep 28) — proposes structured "safety cases" (alignment training, containment, monitoring) before any frontier RL run; plausibly connected to the two incident posts above.
+- **Sign in with ChatGPT**: [terms](pages/openai.com/policies/sign-in-with-chatgpt-terms/index.md) + [partner interest form](pages/openai.com/form/sign-in-with-chatgpt-interest/index.md) — launched at DevDay. Also a [Private Intelligence interest form](pages/openai.com/form/private-intelligence-interest/index.md).
+- **[OpenAI Marketplace](pages/openai.com/business/marketplace/index.md)** — apply part of an existing OpenAI commitment to partner products (Adobe, Baseten, Basis, CodeRabbit…); plus partner page [MegazoneCloud](pages/openai.com/business/partners/megazonecloud/index.md).
+- **[Codex Originals](pages/openai.com/codex-originals/index.md)** + [submission form](pages/openai.com/form/codex-originals/index.md) — builder showcase (Peter Steinberger/OpenClaw, Shopify CTO Mikhail Parakhin…).
+- Customer/community stories: [Albertsons](pages/openai.com/index/albertsons-reimagining-retail/index.md), [Chatham Financial](pages/openai.com/index/chatham-financial/index.md), [Basis tax workbook (Astra)](pages/openai.com/index/basis-tax-workbook-with-astra/index.md), [The Den](pages/openai.com/index/the-den-family-social/index.md), [America's SBDC small-business partnership](pages/openai.com/index/helping-small-businesses-put-ai-to-work/index.md), [Lenfest Institute expansion](pages/openai.com/index/lenfest-ai-collaborative-expansion/index.md), and an Intelligence Age essay, [The eternal complement](pages/openai.com/index/the-eternal-complement/index.md).
+
+### Notable updates
+
+- **Sitewide nav/footer** (~507 pages): GPT‑6.1 Sol and GPT‑6 Astra added, GPT‑5.4 removed, Codex link now points to chatgpt.com, Dots and OpenAI Status links added; Plugins footer link reached ~105 more pages.
+- **[/codex/](pages/openai.com/codex/index.md)** rewritten: "Build anything with Codex", with plan pricing (Plus $20/mo, Pro $100/mo, Business $20/user/mo), cloud tasks, code review and plugins sections.
+- **[/business/pricing/](pages/openai.com/business/pricing/index.md)**: feature table adds GPT‑6.1 Sol/Astra/Sol/Luna and Dots; "GPTs" renamed "Plugins"; Canvas row removed; Word added to Office extensions.
+- **[Privacy policy](pages/openai.com/policies/privacy-policy/index.md)**: "Updated" date moved May 18 → Sep 10, 2026; references to Sora and Atlas incognito history dropped; ad-partner data language broadened beyond ad measurement; help-article links added.
+- Home/hub carousels rotated to surface GPT‑6.1 Sol, DevDay recap and new customer stories.
+
+### Removed pages
+
+- `/form/ultrafast/` (first seen 2026-08-14); last snapshot in git history.
+
+_Stats: 2006 total URLs | 22 added | 508 updated | 1 removed | 0 anomalies | 42 sub-sitemaps_
+
+---
+
 ## 2026-09-28T09-17Z
 
 **Fetch time:** 2026-09-28T09:17Z (sitemap + 35 pages) UTC | **Baseline:** 2026-09-27T09-16Z (consecutive day)
