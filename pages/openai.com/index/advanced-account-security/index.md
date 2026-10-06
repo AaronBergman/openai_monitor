@@ -110,15 +110,17 @@ OpenAI
 
 [View all](</news/>)
 
-![ChatGPT for Teachers district expansion | Original neutral library cover](https://images.ctfassets.net/kftzwdyauwt9/4jHps0gmVQfIrnl2shwDBi/35e47854409876d353f3bb502a164317/teachers-original-neutral-listing.png?w=3840&q=90&fm=webp)
+![Building advertising for the way people use AI — Cover](https://images.ctfassets.net/kftzwdyauwt9/17prJimIY0iXyzXUbZcAbB/521e021b422fbf7dade487a0eac38a18/building-advertising-for-the-way-people-use-ai-cover.png?w=3840&q=90&fm=webp)
 
-[Bringing ChatGPT for Teachers to more U.S. school districtsProductAug 26, 2026](</index/bringing-chatgpt-for-teachers-to-more-us-school-districts/>)
+[Building advertising for the way people use AIProductOct 5, 2026](</index/new-chatgpt-ads-format-and-measurement/>)
 
-![Learning never stops card image](https://images.ctfassets.net/kftzwdyauwt9/rGBw0SMWP2aaIH5twRBgX/5f8f24d0e5a03eecfc74ab6cee3dc331/learning-never-stops-how-ai-makes-learning-continuous-cover.png?w=3840&q=90&fm=webp)
+![A model guide for the GPT-6 family — Card image](https://images.ctfassets.net/kftzwdyauwt9/4I32Z0klAF95wPuspoHaxb/7388860bce7773838eb20317fda1a937/6tbusrroo8ljxic8ceybig-cover.png?w=3840&q=90&fm=webp)
 
-[Learning never stops: How AI makes learning continuousProductAug 26, 2026](</index/learning-never-stops/>)
+[A practical guide to building with GPT-6ProductOct 2, 2026](</index/practical-guide-building-gpt-6/>)
 
-[The Hugging Face incident and the road aheadSecurityAug 26, 2026](</index/hugging-face-incident-and-the-road-ahead/>)
+![Disrupting a coordinated model-distillation campaign — cover](https://images.ctfassets.net/kftzwdyauwt9/1n8Wz1YN3veGi9Fmt7qpSQ/7bc8a9d0a7ebf3800c10e72a360f9f22/disrupting-a-coordinated-model-distillation-campaign-cover.png?w=3840&q=90&fm=webp)
+
+[Disrupting a coordinated model-distillation campaignSecuritySep 30, 2026](</index/disrupting-a-coordinated-model-distillation-campaign/>)
 
 Research
 
@@ -130,9 +132,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -151,7 +154,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -169,6 +173,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -197,6 +202,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

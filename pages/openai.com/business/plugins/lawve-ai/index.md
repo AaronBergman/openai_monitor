@@ -55,19 +55,19 @@ Use legal methods and guidance shared by practitioners directly in ChatGPT. Lawv
 
 ![](https://files.openai.com/content?id=file_00000000289081f58818e6bcb2f4c6c6&cdn=1&cp=pi&ma=31363200&ts=0&p=pi&cid=8&sig=a673db385bf0881fc10962a0a18a60605a1a7d2bf9626e6c2ee9eac34c92a1aa&v=0)Lawve Find a suitable skill for testing the attached argument from the opposing side's perspective. Apply its method, identify the strongest objections, and prioritize revisions while preserving the stated facts.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Lawve+Find+a+suitable+skill+for+testing+the+attached+argument+from+the+opposing+side%27s+perspective.+Apply+its+method%2C+identify+the+strongest+objections%2C+and+prioritize+revisions+while+preserving+the+stated+facts.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a07517af0d48191bde4ae526305f831?install&prompt=Find%20a%20suitable%20skill%20for%20testing%20the%20attached%20argument%20from%20the%20opposing%20side's%20perspective.%20Apply%20its%20method%2C%20identify%20the%20strongest%20objections%2C%20and%20prioritize%20revisions%20while%20preserving%20the%20stated%20facts.&surface=work>)
 
   * ### Review against a playbook
 
 ![](https://files.openai.com/content?id=file_00000000289081f58818e6bcb2f4c6c6&cdn=1&cp=pi&ma=31363200&ts=0&p=pi&cid=8&sig=a673db385bf0881fc10962a0a18a60605a1a7d2bf9626e6c2ee9eac34c92a1aa&v=0)Lawve Find and apply a skill suited to reviewing this supplier agreement against our attached playbook. Produce a prioritized deviation list with clause references, proposed changes, and questions for counsel.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Lawve+Find+and+apply+a+skill+suited+to+reviewing+this+supplier+agreement+against+our+attached+playbook.+Produce+a+prioritized+deviation+list+with+clause+references%2C+proposed+changes%2C+and+questions+for+counsel.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a07517af0d48191bde4ae526305f831?install&prompt=Find%20and%20apply%20a%20skill%20suited%20to%20reviewing%20this%20supplier%20agreement%20against%20our%20attached%20playbook.%20Produce%20a%20prioritized%20deviation%20list%20with%20clause%20references%2C%20proposed%20changes%2C%20and%20questions%20for%20counsel.&surface=work>)
 
   * ### Strengthen legal writing
 
 ![](https://files.openai.com/content?id=file_00000000289081f58818e6bcb2f4c6c6&cdn=1&cp=pi&ma=31363200&ts=0&p=pi&cid=8&sig=a673db385bf0881fc10962a0a18a60605a1a7d2bf9626e6c2ee9eac34c92a1aa&v=0)Lawve Select a legal writing skill suited to this draft letter and apply its guidance. Improve clarity and persuasiveness without changing facts or our position, then explain the most consequential edits.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Lawve+Select+a+legal+writing+skill+suited+to+this+draft+letter+and+apply+its+guidance.+Improve+clarity+and+persuasiveness+without+changing+facts+or+our+position%2C+then+explain+the+most+consequential+edits.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a07517af0d48191bde4ae526305f831?install&prompt=Select%20a%20legal%20writing%20skill%20suited%20to%20this%20draft%20letter%20and%20apply%20its%20guidance.%20Improve%20clarity%20and%20persuasiveness%20without%20changing%20facts%20or%20our%20position%2C%20then%20explain%20the%20most%20consequential%20edits.&surface=work>)
 
 
 
@@ -114,10 +114,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -136,7 +136,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -183,6 +184,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

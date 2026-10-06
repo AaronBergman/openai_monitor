@@ -57,14 +57,20 @@ As part of our ongoing efforts to strengthen our safeguards for [_advanced AI ca
 ## Program overview
 
   * **Model in scope:** GPT‑5 only.
+
   * **Challenge:** Identify _one universal jailbreaking prompt_ to successfully answer all ten bio/chem safety questions from a clean chat without prompting moderation.
+
   * **Rewards:  
 ** • $25,000 to the first true universal jailbreak to clear all ten questions.  
 • $10,000 to the first team that answers all ten questions with multiple jailbreak prompts.  
 • Smaller awards may be granted for partial wins at our discretion.
+
   * **Timeline:** Applications open August 25, 2025 with rolling acceptances, and close on September 15th, 2025. Testing begins September 16th, 2025.
+
   * **Access:** Application and invite-only.**** We will extend invitations to a vetted list of trusted bio red-teamers and review new applications. Once selected, successful applicants will be onboarded to the bio bug bounty platform.
+
   * **Disclosure:** All prompts, completions, findings, and communications are covered by NDA.
+
 
 
 
@@ -84,17 +90,17 @@ OpenAI
 
 ## Keep reading
 
-![Supporting Thailand’s next generation of AI startups > Cover image](https://images.ctfassets.net/kftzwdyauwt9/6ttG55Aq2kyDRG8wxOkTx9/897d266cacc77edc0a25d06b9f6c2c45/supporting-next-generation-ai-startups-thailand--cover.png?w=3840&q=90&fm=webp)
+![Our approach to EU provenance rules ](https://images.ctfassets.net/kftzwdyauwt9/uKx7OoL1QHDbl0T3GSTZG/0dd587131d067b16e32a9d0196d1ff52/our-approach-to-eu-provenance-rules-cover.png?w=3840&q=90&fm=webp)
 
-[Supporting Thailand’s next generation of AI startupsCompanyAug 28, 2026](</index/supporting-next-generation-ai-startups-thailand/>)
+[Our approach to EU text provenance rulesSafetyOct 5, 2026](</index/eu-text-provenance/>)
 
-![Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training > Cover image](https://images.ctfassets.net/kftzwdyauwt9/2X12MQqhR5AY1wog6JW3Q3/721873f6edd491a0f241038a9324b341/what-students-gain-chatgpt-critical-thinking--art-card-no-border.png?w=3840&q=90&fm=webp)
+![Building advertising for the way people use AI — Cover](https://images.ctfassets.net/kftzwdyauwt9/17prJimIY0iXyzXUbZcAbB/521e021b422fbf7dade487a0eac38a18/building-advertising-for-the-way-people-use-ai-cover.png?w=3840&q=90&fm=webp)
 
-[What students gain from ChatGPT and critical-thinking trainingCompanyAug 27, 2026](</index/what-students-gain-from-chatgpt-critical-thinking-training/>)
+[Building advertising for the way people use AIProductOct 5, 2026](</index/new-chatgpt-ads-format-and-measurement/>)
 
-![Expanding OpenAI’s presence in Brazil > Cover image](https://images.ctfassets.net/kftzwdyauwt9/7jZgAn4y7ZP5GFx0HimbWT/84b3d734ebe29229bd58b8d8a775dc60/expanding-openai-presence-in-brazil-art-card.png?w=3840&q=90&fm=webp)
+![A model guide for the GPT-6 family — Card image](https://images.ctfassets.net/kftzwdyauwt9/4I32Z0klAF95wPuspoHaxb/7388860bce7773838eb20317fda1a937/6tbusrroo8ljxic8ceybig-cover.png?w=3840&q=90&fm=webp)
 
-[Expanding OpenAI’s presence in BrazilCompanyAug 27, 2026](</index/expanding-our-presence-in-brazil/>)
+[A practical guide to building with GPT-6ProductOct 2, 2026](</index/practical-guide-building-gpt-6/>)
 
 Research
 
@@ -106,9 +112,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -127,7 +134,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -145,6 +153,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -173,6 +182,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

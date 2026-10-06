@@ -55,19 +55,19 @@ Create any agreement in ChatGPT and send it for e-signature without leaving the 
 
 ![](https://files.openai.com/content?id=file_00000000f70081f486b913e6bc3fd5b8&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=8&sig=147133f6a9068215db43a5b7649591bd9e1f35091fe9e568588fe4fa129e210f&v=0)PandaDoc Create a draft [agreement type] for [client] using our approved template and these deal terms. Fill the available details, flag missing terms, and prepare the recipient roles for my review before sending.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40PandaDoc+Create+a+draft+%5Bagreement+type%5D+for+%5Bclient%5D+using+our+approved+template+and+these+deal+terms.+Fill+the+available+details%2C+flag+missing+terms%2C+and+prepare+the+recipient+roles+for+my+review+before+sending.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a96ec86423c8191a13c7369bba45295?install&prompt=Create%20a%20draft%20%5Bagreement%20type%5D%20for%20%5Bclient%5D%20using%20our%20approved%20template%20and%20these%20deal%20terms.%20Fill%20the%20available%20details%2C%20flag%20missing%20terms%2C%20and%20prepare%20the%20recipient%20roles%20for%20my%20review%20before%20sending.&surface=work>)
 
   * ### Revise a proposal
 
 ![](https://files.openai.com/content?id=file_00000000f70081f486b913e6bc3fd5b8&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=8&sig=147133f6a9068215db43a5b7649591bd9e1f35091fe9e568588fe4fa129e210f&v=0)PandaDoc Update [proposal] with the revised scope, pricing, and dates below. Check consistency across its content, variables, and pricing table, then summarize the changes and unresolved inputs for review.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40PandaDoc+Update+%5Bproposal%5D+with+the+revised+scope%2C+pricing%2C+and+dates+below.+Check+consistency+across+its+content%2C+variables%2C+and+pricing+table%2C+then+summarize+the+changes+and+unresolved+inputs+for+review.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a96ec86423c8191a13c7369bba45295?install&prompt=Update%20%5Bproposal%5D%20with%20the%20revised%20scope%2C%20pricing%2C%20and%20dates%20below.%20Check%20consistency%20across%20its%20content%2C%20variables%2C%20and%20pricing%20table%2C%20then%20summarize%20the%20changes%20and%20unresolved%20inputs%20for%20review.&surface=work>)
 
   * ### Review pending signatures
 
 ![](https://files.openai.com/content?id=file_00000000f70081f486b913e6bc3fd5b8&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=8&sig=147133f6a9068215db43a5b7649591bd9e1f35091fe9e568588fe4fa129e210f&v=0)PandaDoc Review our pending agreements for [client or date range]. Summarize each document's status and outstanding recipients, prioritize follow-up, and draft reminder text for review without sending it.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40PandaDoc+Review+our+pending+agreements+for+%5Bclient+or+date+range%5D.+Summarize+each+document%27s+status+and+outstanding+recipients%2C+prioritize+follow-up%2C+and+draft+reminder+text+for+review+without+sending+it.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a96ec86423c8191a13c7369bba45295?install&prompt=Review%20our%20pending%20agreements%20for%20%5Bclient%20or%20date%20range%5D.%20Summarize%20each%20document's%20status%20and%20outstanding%20recipients%2C%20prioritize%20follow-up%2C%20and%20draft%20reminder%20text%20for%20review%20without%20sending%20it.&surface=work>)
 
 
 
@@ -114,10 +114,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -136,7 +136,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -183,6 +184,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 
