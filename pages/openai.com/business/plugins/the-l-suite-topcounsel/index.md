@@ -55,19 +55,19 @@ TopCounsel helps users find, compare, and diligence law firms and individual law
 
 ![](https://files.openai.com/content?id=file_00000000466c7243a7e9a378a4a83d36&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=8&sig=330a5544792073aedc4b7cc9851fe89c5ea79d25df4068ccbb27a5a6007ef97a&v=0)![](https://files.openai.com/content?id=file_00000000466c7243a7e9a378a4a83d36&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=8&sig=330a5544792073aedc4b7cc9851fe89c5ea79d25df4068ccbb27a5a6007ef97a&v=0)TopCounsel Find outside counsel for [matter type] in [jurisdiction] serving [industry]. Rank a shortlist against [requirements], explain the supporting peer signal, and flag areas where evidence is limited.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40TopCounsel+Find+outside+counsel+for+%5Bmatter+type%5D+in+%5Bjurisdiction%5D+serving+%5Bindustry%5D.+Rank+a+shortlist+against+%5Brequirements%5D%2C+explain+the+supporting+peer+signal%2C+and+flag+areas+where+evidence+is+limited.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a2145dc4a0c8191b680935f4edc2efb?install&prompt=Find%20outside%20counsel%20for%20%5Bmatter%20type%5D%20in%20%5Bjurisdiction%5D%20serving%20%5Bindustry%5D.%20Rank%20a%20shortlist%20against%20%5Brequirements%5D%2C%20explain%20the%20supporting%20peer%20signal%2C%20and%20flag%20areas%20where%20evidence%20is%20limited.&surface=work>)
 
   * ### Compare candidate law firms
 
 ![](https://files.openai.com/content?id=file_00000000466c7243a7e9a378a4a83d36&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=8&sig=330a5544792073aedc4b7cc9851fe89c5ea79d25df4068ccbb27a5a6007ef97a&v=0)![](https://files.openai.com/content?id=file_00000000466c7243a7e9a378a4a83d36&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=8&sig=330a5544792073aedc4b7cc9851fe89c5ea79d25df4068ccbb27a5a6007ef97a&v=0)TopCounsel Compare [firm A], [firm B], and [firm C] for [matter]. Summarize relevant strengths and concerns from aggregated peer feedback, identify suitable individual lawyers, and suggest diligence questions.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40TopCounsel+Compare+%5Bfirm+A%5D%2C+%5Bfirm+B%5D%2C+and+%5Bfirm+C%5D+for+%5Bmatter%5D.+Summarize+relevant+strengths+and+concerns+from+aggregated+peer+feedback%2C+identify+suitable+individual+lawyers%2C+and+suggest+diligence+questions.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a2145dc4a0c8191b680935f4edc2efb?install&prompt=Compare%20%5Bfirm%20A%5D%2C%20%5Bfirm%20B%5D%2C%20and%20%5Bfirm%20C%5D%20for%20%5Bmatter%5D.%20Summarize%20relevant%20strengths%20and%20concerns%20from%20aggregated%20peer%20feedback%2C%20identify%20suitable%20individual%20lawyers%2C%20and%20suggest%20diligence%20questions.&surface=work>)
 
   * ### Find specialist capacity
 
 ![](https://files.openai.com/content?id=file_00000000466c7243a7e9a378a4a83d36&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=8&sig=330a5544792073aedc4b7cc9851fe89c5ea79d25df4068ccbb27a5a6007ef97a&v=0)![](https://files.openai.com/content?id=file_00000000466c7243a7e9a378a4a83d36&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=8&sig=330a5544792073aedc4b7cc9851fe89c5ea79d25df4068ccbb27a5a6007ef97a&v=0)TopCounsel Find lawyers who handle [specialty] work for [industry] companies in [geography]. Prioritize fit for [workload], explain available peer recommendations, and identify capabilities to confirm in interviews.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40TopCounsel+Find+lawyers+who+handle+%5Bspecialty%5D+work+for+%5Bindustry%5D+companies+in+%5Bgeography%5D.+Prioritize+fit+for+%5Bworkload%5D%2C+explain+available+peer+recommendations%2C+and+identify+capabilities+to+confirm+in+interviews.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a2145dc4a0c8191b680935f4edc2efb?install&prompt=Find%20lawyers%20who%20handle%20%5Bspecialty%5D%20work%20for%20%5Bindustry%5D%20companies%20in%20%5Bgeography%5D.%20Prioritize%20fit%20for%20%5Bworkload%5D%2C%20explain%20available%20peer%20recommendations%2C%20and%20identify%20capabilities%20to%20confirm%20in%20interviews.&surface=work>)
 
 
 
@@ -114,10 +114,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -136,7 +136,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -183,6 +184,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 
