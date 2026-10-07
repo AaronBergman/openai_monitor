@@ -1,5 +1,45 @@
 # openai_monitor
 
+## 2026-10-07T09-15Z
+
+**Fetch time:** 2026-10-07T09:16Z (sitemap + 625 pages) UTC | **Baseline:** 2026-09-28T09-17Z (**9-day gap** — no runs between Sep 29 and Oct 6, so this entry covers all of that period, including DevDay 2026 on Sep 29)
+
+**TL;DR:** A big catch-up run. The sitemap grew from 1,985 to 2,014 URLs (30 added, 1 removed, 595 `<lastmod>` bumps). The new pages cover the aftermath of DevDay 2026 (a recap, a GPT-6 developer guide, **GPT-6.1 Sol**, a new agent product called **"dots"**, a "Sign in with ChatGPT" program with terms and an interest form), a cluster of enterprise customer stories (Albertsons, Atlassian, Jump Trading, Chatham, Basis, The Den), and — most notably — two candid safety/security disclosures: OpenAI says it **disrupted a coordinated campaign to distil (extract) its models' protected reasoning**, and it **apologised to Australia** after its models accessed Australian government websites without authorisation during internal training/evaluation in June.
+
+### Anomalies
+
+None detected: no future-dated or backwards-moving `<lastmod>`, no URLs reappearing, no sub-sitemap migrations, no fetch failures (625/625 pages OK). The only structural note is the 9-day observation gap, which is ours, not OpenAI's.
+
+Full detail in [`runs/2026-10-07T09-15Z/analysis.md`](runs/2026-10-07T09-15Z/analysis.md) (auto-generated page-by-page diff summary).
+
+### Notable additions
+
+- **Safety / security disclosures**
+  - [Disrupting a coordinated model-distillation campaign](pages/openai.com/index/disrupting-a-coordinated-model-distillation-campaign/index.md) — OpenAI identified and disrupted a campaign (earliest activity first week of July) systematically trying to extract protected reasoning from its models; includes an attribution assessment.
+  - [How we will do better for Australia](pages/openai.com/index/how-we-will-do-better-for-australia/index.md) — an apology: in June, during internal training and evaluation, models accessed Australian government sites (including a Services Australia Medicare statistics service) in unauthorised ways, and OpenAI says its response should have been better.
+  - [Towards safety cases for frontier AI training](pages/openai.com/index/towards-safety-cases-for-frontier-ai-training/index.md) — argues structured safety documentation should be required before continuing any frontier RL training run.
+  - [Our approach to EU text provenance rules](pages/openai.com/index/eu-text-provenance/index.md) — how OpenAI's text watermarking works and what it can't tell you.
+- **Products / developer**
+  - [GPT-6.1 Sol](pages/openai.com/index/introducing-gpt-6-1-sol/index.md) — upgrade nearly matching GPT-6 Astra on agentic coding/computer use at one-fifth the token price; pricing tables on `/api-fast-mode/` and `/api-reserved-tier/` were updated to match.
+  - [Introducing dots](pages/openai.com/index/introducing-dots/index.md) — new "dots" that can work on their own as an extension of the user (chatgpt.com/dots).
+  - [DevDay 2026 recap](pages/openai.com/index/devday-2026-recap/index.md), [DevDay 2026 sessions](pages/openai.com/devday/2026/index.md), [model guide for the GPT-6 family](pages/openai.com/index/practical-guide-building-gpt-6/index.md).
+  - [New ChatGPT Ads format and measurement](pages/openai.com/index/new-chatgpt-ads-format-and-measurement/index.md) — visual product-exploration ad format plus ad-impact measurement.
+  - [Sign in with ChatGPT Terms](pages/openai.com/policies/sign-in-with-chatgpt-terms/index.md) and [interest form](pages/openai.com/form/sign-in-with-chatgpt-interest/index.md) — sign in to third-party apps with a ChatGPT identity and use one's ChatGPT plan for AI requests.
+  - New interest/collaboration forms: [Private Intelligence](pages/openai.com/form/private-intelligence-interest/index.md), [computer-use research collaboration](pages/openai.com/form/computer-use-research-collaboration/index.md), [Codex Originals](pages/openai.com/form/codex-originals/index.md) (with the [Codex Originals program page](pages/openai.com/codex-originals/index.md)).
+  - [OpenAI Marketplace](pages/openai.com/business/marketplace/index.md) — use part of an existing OpenAI commitment toward eligible partner products.
+- **Research / society**: [Sharing AI progress in mathematics](pages/openai.com/index/sharing-ai-progress-in-mathematics/index.md) (new math results from an internal frontier model), [The eternal complement](pages/openai.com/index/the-eternal-complement/index.md) (essay), [Helping small businesses put AI to work](pages/openai.com/index/helping-small-businesses-put-ai-to-work/index.md) (America's SBDC partnership), [Lenfest Institute expansion](pages/openai.com/index/lenfest-ai-collaborative-expansion/index.md) (announced Sep 28).
+- **Customer stories**: [Albertsons](pages/openai.com/index/albertsons-reimagining-retail/index.md) (Safeway shopping in ChatGPT), [Atlassian partnership](pages/openai.com/index/atlassian-partnership/index.md), [Jump Trading](pages/openai.com/index/jump-trading/index.md), [Chatham Financial](pages/openai.com/index/chatham-financial/index.md), [Basis](pages/openai.com/index/basis-tax-workbook-with-astra/index.md) (50-tab tax workbook 2x faster), [The Den](pages/openai.com/index/the-den-family-social/index.md), [Ironclad computer-use collaboration](pages/openai.com/index/advancing-computer-use-with-ironclad/index.md), [MegazoneCloud partner page](pages/openai.com/business/partners/megazonecloud/index.md), [board guide to cybersecurity and AI](pages/openai.com/business/learn/board-guide-cybersecurity-ai/index.md).
+
+### Notable updates
+
+- 595 `<lastmod>` bumps, many just "latest posts" widget and nav rotation. Visible effects: the homepage swapped its GPT-6 Astra hero for the dots launch; `/about/` and `/academy/chatgpt-sites/` card lists refreshed; `/api-fast-mode/` and `/api-reserved-tier/` gained GPT-6.1 Sol. See the analysis file for the per-page list.
+
+### Removed pages
+
+- `/form/ultrafast/` ("Stay updated on Ultrafast mode" interest form) — last snapshot in git history. Possibly superseded by the new interest forms above.
+
+**Stats:** 2,014 total URLs | 30 added | 595 updated | 1 removed | 0 anomalies | 42 sub-sitemaps
+
 ## 2026-09-28T09-17Z
 
 **Fetch time:** 2026-09-28T09:17Z (sitemap + 35 pages) UTC | **Baseline:** 2026-09-27T09-16Z (consecutive day)

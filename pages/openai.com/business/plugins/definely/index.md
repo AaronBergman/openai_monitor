@@ -45,7 +45,7 @@ Developer
 Website
     [(opens in a new window)](<https://www.definely.com/>)
 
-[![](https://files.openai.com/content?id=file_0000000060e48230a9cba1a5cc373c8b&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=8&sig=280f5e77657cf57d7d73916eb848dc3196e6b530ad2a068c6b3c5f5e7faa9260&v=0)![](https://files.openai.com/content?id=file_00000000d6f481f785b498ee34c1879b&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=8&sig=15d3a0b805dabc01f0b9a8a92af44b497310e3857d9c048ab3699147eb21937e&v=0)Definely Proofread the document and give me a list of issues to work through.(opens in a new window)](<https://chatgpt.com/?prompt=%40Definely+Proofread+the+document+and+give+me+a+list+of+issues+to+work+through.>)
+[![](https://files.openai.com/content?id=file_0000000060e48230a9cba1a5cc373c8b&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=8&sig=280f5e77657cf57d7d73916eb848dc3196e6b530ad2a068c6b3c5f5e7faa9260&v=0)![](https://files.openai.com/content?id=file_00000000d6f481f785b498ee34c1879b&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=8&sig=15d3a0b805dabc01f0b9a8a92af44b497310e3857d9c048ab3699147eb21937e&v=0)Definely Proofread the document and give me a list of issues to work through.(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a1e9f6b731c8191b663ba549f85df57?install&prompt=Proofread%20the%20document%20and%20give%20me%20a%20list%20of%20issues%20to%20work%20through.>)
 
 ## How it works
 
@@ -57,19 +57,19 @@ Definely's MCP server gives AI assistants live, deterministic access to contract
 
 ![](https://files.openai.com/content?id=file_0000000060e48230a9cba1a5cc373c8b&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=8&sig=280f5e77657cf57d7d73916eb848dc3196e6b530ad2a068c6b3c5f5e7faa9260&v=0)![](https://files.openai.com/content?id=file_00000000d6f481f785b498ee34c1879b&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=8&sig=15d3a0b805dabc01f0b9a8a92af44b497310e3857d9c048ab3699147eb21937e&v=0)Definely Check the attached agreement's defined terms and cross-references. Rank structural issues by likely impact, identify affected clauses, and explain what needs correction before circulation.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Definely+Check+the+attached+agreement%27s+defined+terms+and+cross-references.+Rank+structural+issues+by+likely+impact%2C+identify+affected+clauses%2C+and+explain+what+needs+correction+before+circulation.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a1e9f6b731c8191b663ba549f85df57?install&prompt=Check%20the%20attached%20agreement's%20defined%20terms%20and%20cross-references.%20Rank%20structural%20issues%20by%20likely%20impact%2C%20identify%20affected%20clauses%2C%20and%20explain%20what%20needs%20correction%20before%20circulation.&surface=work>)
 
   * ### Prepare negotiation issues
 
 ![](https://files.openai.com/content?id=file_0000000060e48230a9cba1a5cc373c8b&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=8&sig=280f5e77657cf57d7d73916eb848dc3196e6b530ad2a068c6b3c5f5e7faa9260&v=0)![](https://files.openai.com/content?id=file_00000000d6f481f785b498ee34c1879b&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=8&sig=15d3a0b805dabc01f0b9a8a92af44b497310e3857d9c048ab3699147eb21937e&v=0)Definely Turn the attached contract markup into an issues list with clause references, counterparty changes, and space for our response. Group related changes and highlight those with consequences elsewhere in the agreement.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Definely+Turn+the+attached+contract+markup+into+an+issues+list+with+clause+references%2C+counterparty+changes%2C+and+space+for+our+response.+Group+related+changes+and+highlight+those+with+consequences+elsewhere+in+the+agreement.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a1e9f6b731c8191b663ba549f85df57?install&prompt=Turn%20the%20attached%20contract%20markup%20into%20an%20issues%20list%20with%20clause%20references%2C%20counterparty%20changes%2C%20and%20space%20for%20our%20response.%20Group%20related%20changes%20and%20highlight%20those%20with%20consequences%20elsewhere%20in%20the%20agreement.&surface=work>)
 
   * ### Compare against precedent
 
 ![](https://files.openai.com/content?id=file_0000000060e48230a9cba1a5cc373c8b&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=8&sig=280f5e77657cf57d7d73916eb848dc3196e6b530ad2a068c6b3c5f5e7faa9260&v=0)![](https://files.openai.com/content?id=file_00000000d6f481f785b498ee34c1879b&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=8&sig=15d3a0b805dabc01f0b9a8a92af44b497310e3857d9c048ab3699147eb21937e&v=0)Definely Find the closest precedent to this agreement in our company vault. Compare the documents, flag material deviations and affected definitions, and provide source references for the review team's decisions.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Definely+Find+the+closest+precedent+to+this+agreement+in+our+company+vault.+Compare+the+documents%2C+flag+material+deviations+and+affected+definitions%2C+and+provide+source+references+for+the+review+team%27s+decisions.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a1e9f6b731c8191b663ba549f85df57?install&prompt=Find%20the%20closest%20precedent%20to%20this%20agreement%20in%20our%20company%20vault.%20Compare%20the%20documents%2C%20flag%20material%20deviations%20and%20affected%20definitions%2C%20and%20provide%20source%20references%20for%20the%20review%20team's%20decisions.&surface=work>)
 
 
 
@@ -116,10 +116,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -138,7 +138,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -185,6 +186,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

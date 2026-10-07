@@ -159,17 +159,17 @@ More than 1 million businesses around the world are achieving meaningful results
 
 ## Keep reading
 
-![Two years of OpenAI Academy — card image](https://images.ctfassets.net/kftzwdyauwt9/Tc4KzRhOgVSaIxQoUkr9R/25c2cf38c314d47e6f3cb93e54e382aa/two-years-of-openai-academy-cover.png?w=3840&q=90&fm=webp)
+![Jump Trading — Layered ink art card](https://images.ctfassets.net/kftzwdyauwt9/205v65rL5MtphsvognlJEK/d76a782480cf109cc22bdceeef671107/square.png?w=3840&q=90&fm=webp)
 
-[Two years of OpenAI AcademyCompanySep 23, 2026](</index/two-years-of-openai-academy/>)
+[How Jump Trading is scaling quant research with ChatGPTOct 6, 2026](</index/jump-trading/>)
 
-![OpenAI extends cyber access to Ukraine for civilian defense — cover](https://images.ctfassets.net/kftzwdyauwt9/4NsiJiqUurW5ypfaulGCFm/8b5bfad7d895c4fc6aa20766d5c88b0c/openai-extends-cyber-access-to-ukraine-for-civilian-defense-cover.png?w=3840&q=90&fm=webp)
+![Sharing AI progress in mathematics — Cover](https://images.ctfassets.net/kftzwdyauwt9/49FAj0M0Ly8nk84Uu8btWC/9919efdae7fff54b0f8b0d80398248ac/ai-progress-in-mathematics-cover.png?w=3840&q=90&fm=webp)
 
-[OpenAI extends cyber access to Ukraine for civilian defenseGlobal AffairsSep 23, 2026](</index/openai-extends-cyber-access-to-ukraine-for-civilian-defense/>)
+[Sharing AI progress in mathematicsResearchOct 6, 2026](</index/sharing-ai-progress-in-mathematics/>)
 
-![Harvey customer story card image - Option C](https://images.ctfassets.net/kftzwdyauwt9/59usTWVI6pc0I3Lb6TL2ol/3d45075f7a623fa6ba4d8d13459065c1/square.png?w=3840&q=90&fm=webp)
+![oai ironclad cua 1x1](https://images.ctfassets.net/kftzwdyauwt9/23y88t0gUd7FSqVFa9n1uq/6d227695a77e7a2cf3e6607bc69e1cf2/oai_ironclad_cua_1x1.png?w=3840&q=90&fm=webp)
 
-[Harvey turns legal context into stronger drafts with GPT-6 AstraStartupSep 23, 2026](</index/harvey-from-context-to-confidence-with-astra/>)
+[Advancing computer use with IroncladPublicationOct 6, 2026](</index/advancing-computer-use-with-ironclad/>)
 
 Research
 
@@ -181,10 +181,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -203,7 +203,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -250,6 +251,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

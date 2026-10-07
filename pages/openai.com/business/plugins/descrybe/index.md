@@ -55,19 +55,19 @@ Descrybe Legal Engine brings U.S. primary-law research tools into ChatGPT. Use i
 
 ![](https://files.openai.com/content?id=file_00000000003481f7a8fe0376ff21ba62&cdn=1&cp=pi&ma=30240000&ts=0&p=pi&cid=8&sig=f9275aa12f61ddc6c49623d0b708ca1a4c8130b211d9410e2bc7aca98388e900&v=0)![](https://files.openai.com/content?id=file_00000000003481f7a8fe0376ff21ba62&cdn=1&cp=pi&ma=30240000&ts=0&p=pi&cid=8&sig=f9275aa12f61ddc6c49623d0b708ca1a4c8130b211d9410e2bc7aca98388e900&v=0)Descrybe Legal Engine Research [legal issue] in [jurisdiction] for [fact pattern]. Find the most relevant primary authorities, compare their reasoning, and provide source passages and links with limits on their relevance.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Descrybe+Legal+Engine+Research+%5Blegal+issue%5D+in+%5Bjurisdiction%5D+for+%5Bfact+pattern%5D.+Find+the+most+relevant+primary+authorities%2C+compare+their+reasoning%2C+and+provide+source+passages+and+links+with+limits+on+their+relevance.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a3899f86a748191b0c9b26f4b258c70?install&prompt=Research%20%5Blegal%20issue%5D%20in%20%5Bjurisdiction%5D%20for%20%5Bfact%20pattern%5D.%20Find%20the%20most%20relevant%20primary%20authorities%2C%20compare%20their%20reasoning%2C%20and%20provide%20source%20passages%20and%20links%20with%20limits%20on%20their%20relevance.&surface=work>)
 
   * ### Check a case's treatment
 
 ![](https://files.openai.com/content?id=file_00000000003481f7a8fe0376ff21ba62&cdn=1&cp=pi&ma=30240000&ts=0&p=pi&cid=8&sig=f9275aa12f61ddc6c49623d0b708ca1a4c8130b211d9410e2bc7aca98388e900&v=0)![](https://files.openai.com/content?id=file_00000000003481f7a8fe0376ff21ba62&cdn=1&cp=pi&ma=30240000&ts=0&p=pi&cid=8&sig=f9275aa12f61ddc6c49623d0b708ca1a4c8130b211d9410e2bc7aca98388e900&v=0)Descrybe Legal Engine Resolve [case citation] and check its treatment in later cases. Identify significant citing authorities, explain supportive or adverse discussion, and link to passages that warrant closer review.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Descrybe+Legal+Engine+Resolve+%5Bcase+citation%5D+and+check+its+treatment+in+later+cases.+Identify+significant+citing+authorities%2C+explain+supportive+or+adverse+discussion%2C+and+link+to+passages+that+warrant+closer+review.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a3899f86a748191b0c9b26f4b258c70?install&prompt=Resolve%20%5Bcase%20citation%5D%20and%20check%20its%20treatment%20in%20later%20cases.%20Identify%20significant%20citing%20authorities%2C%20explain%20supportive%20or%20adverse%20discussion%2C%20and%20link%20to%20passages%20that%20warrant%20closer%20review.&surface=work>)
 
   * ### Verify quoted legal language
 
 ![](https://files.openai.com/content?id=file_00000000003481f7a8fe0376ff21ba62&cdn=1&cp=pi&ma=30240000&ts=0&p=pi&cid=8&sig=f9275aa12f61ddc6c49623d0b708ca1a4c8130b211d9410e2bc7aca98388e900&v=0)![](https://files.openai.com/content?id=file_00000000003481f7a8fe0376ff21ba62&cdn=1&cp=pi&ma=30240000&ts=0&p=pi&cid=8&sig=f9275aa12f61ddc6c49623d0b708ca1a4c8130b211d9410e2bc7aca98388e900&v=0)Descrybe Legal Engine Verify the legal quotations in this draft against their cited authorities. Retrieve the relevant passages, flag wording or attribution differences, and explain missing context with links to the sources.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Descrybe+Legal+Engine+Verify+the+legal+quotations+in+this+draft+against+their+cited+authorities.+Retrieve+the+relevant+passages%2C+flag+wording+or+attribution+differences%2C+and+explain+missing+context+with+links+to+the+sources.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a3899f86a748191b0c9b26f4b258c70?install&prompt=Verify%20the%20legal%20quotations%20in%20this%20draft%20against%20their%20cited%20authorities.%20Retrieve%20the%20relevant%20passages%2C%20flag%20wording%20or%20attribution%20differences%2C%20and%20explain%20missing%20context%20with%20links%20to%20the%20sources.&surface=work>)
 
 
 
@@ -114,10 +114,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -136,7 +136,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -183,6 +184,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

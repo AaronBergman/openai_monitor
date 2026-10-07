@@ -45,7 +45,7 @@ Developer
 Website
     [(opens in a new window)](<https://gc.ai>)
 
-[![](https://files.openai.com/content?id=file_000000000d0471f791931f3a1fda62a0&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=59a5f295de8b1d9e1571c9a0bcb458b95d1f1cf65d164ac99fc6f69a12cfd437&v=0)GC AI Review this contract against my NDA playbook and flag the risky clauses(opens in a new window)](<https://chatgpt.com/?prompt=%40GC+AI+Review+this+contract+against+my+NDA+playbook+and+flag+the+risky+clauses>)
+[![](https://files.openai.com/content?id=file_000000000d0471f791931f3a1fda62a0&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=59a5f295de8b1d9e1571c9a0bcb458b95d1f1cf65d164ac99fc6f69a12cfd437&v=0)GC AI Review this contract against my NDA playbook and flag the risky clauses(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a57ec753e988191bcba94f5507329a2?install&prompt=Review%20this%20contract%20against%20my%20NDA%20playbook%20and%20flag%20the%20risky%20clauses>)
 
 ## How it works
 
@@ -57,19 +57,19 @@ GC AI brings your legal work into ChatGPT. Connect your GC AI workspace and put 
 
 ![](https://files.openai.com/content?id=file_000000000d0471f791931f3a1fda62a0&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=59a5f295de8b1d9e1571c9a0bcb458b95d1f1cf65d164ac99fc6f69a12cfd437&v=0)GC AI Use our NDA playbook to review this agreement. Prioritize deviations, propose redlines tied to our standards, and summarize unresolved choices for the legal team with clause references.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40GC+AI+Use+our+NDA+playbook+to+review+this+agreement.+Prioritize+deviations%2C+propose+redlines+tied+to+our+standards%2C+and+summarize+unresolved+choices+for+the+legal+team+with+clause+references.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a57ec753e988191bcba94f5507329a2?install&prompt=Use%20our%20NDA%20playbook%20to%20review%20this%20agreement.%20Prioritize%20deviations%2C%20propose%20redlines%20tied%20to%20our%20standards%2C%20and%20summarize%20unresolved%20choices%20for%20the%20legal%20team%20with%20clause%20references.&surface=work>)
 
   * ### Track contractual commitments
 
 ![](https://files.openai.com/content?id=file_000000000d0471f791931f3a1fda62a0&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=59a5f295de8b1d9e1571c9a0bcb458b95d1f1cf65d164ac99fc6f69a12cfd437&v=0)GC AI Review these agreements and build an obligations table with responsible parties, due dates, renewal terms, and source clauses. Highlight conflicts and missing information that require follow-up.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40GC+AI+Review+these+agreements+and+build+an+obligations+table+with+responsible+parties%2C+due+dates%2C+renewal+terms%2C+and+source+clauses.+Highlight+conflicts+and+missing+information+that+require+follow-up.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a57ec753e988191bcba94f5507329a2?install&prompt=Review%20these%20agreements%20and%20build%20an%20obligations%20table%20with%20responsible%20parties%2C%20due%20dates%2C%20renewal%20terms%2C%20and%20source%20clauses.%20Highlight%20conflicts%20and%20missing%20information%20that%20require%20follow-up.&surface=work>)
 
   * ### Prepare a negotiation response
 
 ![](https://files.openai.com/content?id=file_000000000d0471f791931f3a1fda62a0&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=59a5f295de8b1d9e1571c9a0bcb458b95d1f1cf65d164ac99fc6f69a12cfd437&v=0)GC AI Evaluate this vendor's redlines against our standards and [deal priorities]. Draft a response with proposed wording, explain the tradeoffs, and separate acceptable changes from points needing escalation.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40GC+AI+Evaluate+this+vendor%27s+redlines+against+our+standards+and+%5Bdeal+priorities%5D.+Draft+a+response+with+proposed+wording%2C+explain+the+tradeoffs%2C+and+separate+acceptable+changes+from+points+needing+escalation.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a57ec753e988191bcba94f5507329a2?install&prompt=Evaluate%20this%20vendor's%20redlines%20against%20our%20standards%20and%20%5Bdeal%20priorities%5D.%20Draft%20a%20response%20with%20proposed%20wording%2C%20explain%20the%20tradeoffs%2C%20and%20separate%20acceptable%20changes%20from%20points%20needing%20escalation.&surface=work>)
 
 
 
@@ -116,10 +116,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -138,7 +138,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -185,6 +186,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

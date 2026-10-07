@@ -46,6 +46,24 @@ Switch cards to show Media
 
 Switch cards to hide Media
 
+Research
+
+Oct 6, 2026
+
+[Sharing AI progress in mathematicsOpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub.](</index/sharing-ai-progress-in-mathematics/>)
+
+Publication
+
+Oct 6, 2026
+
+[Advancing computer use with IroncladLearn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work.](</index/advancing-computer-use-with-ironclad/>)
+
+Safety
+
+Sep 29, 2026
+
+[Addendum: GPT‑6.1 SolWe’re introducing GPT-6.1 Sol. GPT-6.1 is the latest model family in the GPT-6 series.(opens in a new window)](<https://deploymentsafety.openai.com/gpt-6-1-sol>)
+
 Publication
 
 Sep 23, 2026
@@ -82,24 +100,6 @@ Aug 18, 2026
 
 [Pacing model development in an era of cyber-critical capabilitiesOpenAI is strengthening monitoring, alignment, and security for frontier AI models. See how new safeguards are guiding the pace of model development.](</index/pacing-model-development-cyber-capabilities/>)
 
-Publication
-
-Aug 1, 2026
-
-[Ten advances in mathematics and theoretical computer scienceOpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexity.](</index/ten-advances-in-mathematics/>)
-
-Research
-
-Jul 29, 2026
-
-[How enabling two settings tripled our scores on the ARC-AGI-3 benchmarkHow two API settings improved GPT-5.6 performance on ARC-AGI-3, boosting scores and efficiency by retaining reasoning and enabling compaction.](</index/how-two-settings-tripled-our-arc-agi-3-scores/>)
-
-Publication
-
-Jul 28, 2026
-
-[Scientific computing in the age of agentic AIA new field report shows how scientists use AI coding agents to modernize scientific computing, accelerating software development and discovery in genomics and beyond.](</index/scientific-computing-agentic-ai/>)
-
 Load more
 
 Research
@@ -112,10 +112,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -134,7 +134,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -181,6 +182,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 
