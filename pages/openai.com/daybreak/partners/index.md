@@ -64,7 +64,7 @@ Develop bounded, authorized workflows with safeguards, monitoring, human review,
 
 [Find a partner](<https://openai.com/business/partners/locator/?tags=partner-joint-cyber>)
 
-![Grid of logos for partners in OpenAI's Daybreak program](https://images.ctfassets.net/kftzwdyauwt9/5DNXdTp2BCly1OpsJ3QdAK/9f149ffa9fe477416931f8e8e5d33a1c/daybreak-partner-logos-hackerone-2x.png?w=3840&q=90&fm=webp)
+![Grid of logos for partners in OpenAI's Daybreak program](https://images.ctfassets.net/kftzwdyauwt9/7804POUzLqxTq17d08tfkf/e08d6c23b35829a118b1a1cc4fd5711e/daybreak-partner-logos-trail-of-bits.png?w=3840&q=90&fm=webp)
 
 ## Two ways to partner
 
@@ -388,10 +388,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -410,7 +410,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -428,6 +429,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -456,6 +458,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

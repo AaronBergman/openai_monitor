@@ -45,7 +45,7 @@ Developer
 Website
     [(opens in a new window)](<https://www.everlaw.com/>)
 
-[![](https://files.openai.com/content?id=file_00000000046081f79c1b5f390ba482fd&cdn=1&cp=pi&ma=30326400&ts=0&p=pi&cid=8&sig=80617ba12b00ebe2087fa7ea63c2f00deea58c0e67f14e334a20d675fea6d6fc&v=0)Everlaw Find relevant documents from a vague description(opens in a new window)](<https://chatgpt.com/?prompt=%40Everlaw+Find+relevant+documents+from+a+vague+description>)
+[![](https://files.openai.com/content?id=file_00000000046081f79c1b5f390ba482fd&cdn=1&cp=pi&ma=30326400&ts=0&p=pi&cid=8&sig=80617ba12b00ebe2087fa7ea63c2f00deea58c0e67f14e334a20d675fea6d6fc&v=0)Everlaw Find relevant documents from a vague description(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a95f81c026081918845945f1d017936?install&prompt=Find%20relevant%20documents%20from%20a%20vague%20description>)
 
 ## How it works
 
@@ -57,19 +57,19 @@ Everlaw provides a secure, standardized Model Context Protocol (MCP) server that
 
 ![](https://files.openai.com/content?id=file_00000000046081f79c1b5f390ba482fd&cdn=1&cp=pi&ma=30326400&ts=0&p=pi&cid=8&sig=80617ba12b00ebe2087fa7ea63c2f00deea58c0e67f14e334a20d675fea6d6fc&v=0)Everlaw Inspect [project]'s available datasets, binders, and metadata. Summarize the evidence collection, identify important custodians and date ranges, and recommend focused searches for [issue].
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Everlaw+Inspect+%5Bproject%5D%27s+available+datasets%2C+binders%2C+and+metadata.+Summarize+the+evidence+collection%2C+identify+important+custodians+and+date+ranges%2C+and+recommend+focused+searches+for+%5Bissue%5D.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a95f81c026081918845945f1d017936?install&prompt=Inspect%20%5Bproject%5D's%20available%20datasets%2C%20binders%2C%20and%20metadata.%20Summarize%20the%20evidence%20collection%2C%20identify%20important%20custodians%20and%20date%20ranges%2C%20and%20recommend%20focused%20searches%20for%20%5Bissue%5D.&surface=work>)
 
   * ### Prepare a witness brief
 
 ![](https://files.openai.com/content?id=file_00000000046081f79c1b5f390ba482fd&cdn=1&cp=pi&ma=30326400&ts=0&p=pi&cid=8&sig=80617ba12b00ebe2087fa7ea63c2f00deea58c0e67f14e334a20d675fea6d6fc&v=0)Everlaw Find documents involving [witness] in [project] during [date range]. Prepare a deposition brief with key events, conflicting statements, and questions to explore, citing Bates numbers and review links.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Everlaw+Find+documents+involving+%5Bwitness%5D+in+%5Bproject%5D+during+%5Bdate+range%5D.+Prepare+a+deposition+brief+with+key+events%2C+conflicting+statements%2C+and+questions+to+explore%2C+citing+Bates+numbers+and+review+links.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a95f81c026081918845945f1d017936?install&prompt=Find%20documents%20involving%20%5Bwitness%5D%20in%20%5Bproject%5D%20during%20%5Bdate%20range%5D.%20Prepare%20a%20deposition%20brief%20with%20key%20events%2C%20conflicting%20statements%2C%20and%20questions%20to%20explore%2C%20citing%20Bates%20numbers%20and%20review%20links.&surface=work>)
 
   * ### Assess an evidence gap
 
 ![](https://files.openai.com/content?id=file_00000000046081f79c1b5f390ba482fd&cdn=1&cp=pi&ma=30326400&ts=0&p=pi&cid=8&sig=80617ba12b00ebe2087fa7ea63c2f00deea58c0e67f14e334a20d675fea6d6fc&v=0)Everlaw Search [project] for evidence addressing [matter question]. Summarize what the documents establish, what they contradict, and what is missing. Cite document references and recommend follow-up searches.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Everlaw+Search+%5Bproject%5D+for+evidence+addressing+%5Bmatter+question%5D.+Summarize+what+the+documents+establish%2C+what+they+contradict%2C+and+what+is+missing.+Cite+document+references+and+recommend+follow-up+searches.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a95f81c026081918845945f1d017936?install&prompt=Search%20%5Bproject%5D%20for%20evidence%20addressing%20%5Bmatter%20question%5D.%20Summarize%20what%20the%20documents%20establish%2C%20what%20they%20contradict%2C%20and%20what%20is%20missing.%20Cite%20document%20references%20and%20recommend%20follow-up%20searches.&surface=work>)
 
 
 
@@ -116,10 +116,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -138,7 +138,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -185,6 +186,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

@@ -45,7 +45,7 @@ Developer
 Website
     [(opens in a new window)](<https://www.patlytics.ai>)
 
-[![](https://files.openai.com/content?id=file_00000000d1ac81fdba87d0cf1353c28e&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=8&sig=49a5fc0cdd1dd948990d9b3d9af9430ad100ed1e8aeaf984b291b899812da247&v=0)Patlytics search for patents related sulfide solid-state battery electrolytes with lithium anodes(opens in a new window)](<https://chatgpt.com/?prompt=%40Patlytics+search+for+patents+related+sulfide+solid-state+battery+electrolytes+with+lithium+anodes>)
+[![](https://files.openai.com/content?id=file_00000000d1ac81fdba87d0cf1353c28e&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=8&sig=49a5fc0cdd1dd948990d9b3d9af9430ad100ed1e8aeaf984b291b899812da247&v=0)Patlytics search for patents related sulfide solid-state battery electrolytes with lithium anodes(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a84b1b40d3481919f11600f4c79320c?install&prompt=search%20for%20patents%20related%20sulfide%20solid-state%20battery%20electrolytes%20with%20lithium%20anodes>)
 
 ## How it works
 
@@ -57,19 +57,19 @@ Patlytics brings concept-level, AI-native patent search into your assistant: sem
 
 ![](https://files.openai.com/content?id=file_00000000d1ac81fdba87d0cf1353c28e&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=8&sig=49a5fc0cdd1dd948990d9b3d9af9430ad100ed1e8aeaf984b291b899812da247&v=0)Patlytics Search for patents similar to [invention description, components, and problem solved]. Compare the most relevant results, explain their technical overlap, and identify patents whose claims warrant review.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Patlytics+Search+for+patents+similar+to+%5Binvention+description%2C+components%2C+and+problem+solved%5D.+Compare+the+most+relevant+results%2C+explain+their+technical+overlap%2C+and+identify+patents+whose+claims+warrant+review.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a84b1b40d3481919f11600f4c79320c?install&prompt=Search%20for%20patents%20similar%20to%20%5Binvention%20description%2C%20components%2C%20and%20problem%20solved%5D.%20Compare%20the%20most%20relevant%20results%2C%20explain%20their%20technical%20overlap%2C%20and%20identify%20patents%20whose%20claims%20warrant%20review.&surface=work>)
 
   * ### Review a patent's claims
 
 ![](https://files.openai.com/content?id=file_00000000d1ac81fdba87d0cf1353c28e&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=8&sig=49a5fc0cdd1dd948990d9b3d9af9430ad100ed1e8aeaf984b291b899812da247&v=0)Patlytics Retrieve [patent publication number] and summarize its independent claims. Map the stated components and relationships, highlight terms needing interpretation, and provide the patent's bibliographic details.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Patlytics+Retrieve+%5Bpatent+publication+number%5D+and+summarize+its+independent+claims.+Map+the+stated+components+and+relationships%2C+highlight+terms+needing+interpretation%2C+and+provide+the+patent%27s+bibliographic+details.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a84b1b40d3481919f11600f4c79320c?install&prompt=Retrieve%20%5Bpatent%20publication%20number%5D%20and%20summarize%20its%20independent%20claims.%20Map%20the%20stated%20components%20and%20relationships%2C%20highlight%20terms%20needing%20interpretation%2C%20and%20provide%20the%20patent's%20bibliographic%20details.&surface=work>)
 
   * ### Find supporting technical literature
 
 ![](https://files.openai.com/content?id=file_00000000d1ac81fdba87d0cf1353c28e&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=8&sig=49a5fc0cdd1dd948990d9b3d9af9430ad100ed1e8aeaf984b291b899812da247&v=0)Patlytics Search non-patent literature on [technical concept]. Rank the most relevant papers, explain how each relates to the invention, and flag dates and unanswered technical questions for further review.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Patlytics+Search+non-patent+literature+on+%5Btechnical+concept%5D.+Rank+the+most+relevant+papers%2C+explain+how+each+relates+to+the+invention%2C+and+flag+dates+and+unanswered+technical+questions+for+further+review.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a84b1b40d3481919f11600f4c79320c?install&prompt=Search%20non-patent%20literature%20on%20%5Btechnical%20concept%5D.%20Rank%20the%20most%20relevant%20papers%2C%20explain%20how%20each%20relates%20to%20the%20invention%2C%20and%20flag%20dates%20and%20unanswered%20technical%20questions%20for%20further%20review.&surface=work>)
 
 
 
@@ -116,10 +116,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -138,7 +138,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -185,6 +186,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

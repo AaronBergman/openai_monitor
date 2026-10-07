@@ -45,7 +45,7 @@ Developer
 Website
     [(opens in a new window)](<https://courtroom5.com>)
 
-[![](https://files.openai.com/content?id=file_000000003fa081f7ad2f4a34170c6fc4&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=437564dd3e217c0cf67273428a57c88db7f15d7ae2ecc3a6c05a166b08d589eb&v=0)![](https://files.openai.com/content?id=file_000000003fa081f7ad2f4a34170c6fc4&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=437564dd3e217c0cf67273428a57c88db7f15d7ae2ecc3a6c05a166b08d589eb&v=0)Courtroom5 My landlord kept my security deposit and I never received an itemized list of deductions. What can I do?(opens in a new window)](<https://chatgpt.com/?prompt=%40Courtroom5+My+landlord+kept+my+security+deposit+and+I+never+received+an+itemized+list+of+deductions.+What+can+I+do%3F>)
+[![](https://files.openai.com/content?id=file_000000003fa081f7ad2f4a34170c6fc4&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=437564dd3e217c0cf67273428a57c88db7f15d7ae2ecc3a6c05a166b08d589eb&v=0)![](https://files.openai.com/content?id=file_000000003fa081f7ad2f4a34170c6fc4&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=437564dd3e217c0cf67273428a57c88db7f15d7ae2ecc3a6c05a166b08d589eb&v=0)Courtroom5 My landlord kept my security deposit and I never received an itemized list of deductions. What can I do?(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a30d2fd05c88191adc78db28e24442b?install&prompt=My%20landlord%20kept%20my%20security%20deposit%20and%20I%20never%20received%20an%20itemized%20list%20of%20deductions.%20What%20can%20I%20do%3F>)
 
 ## How it works
 
@@ -57,19 +57,19 @@ Courtroom5 serves self-represented litigants (SRLs) — people who must navigate
 
 ![](https://files.openai.com/content?id=file_000000003fa081f7ad2f4a34170c6fc4&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=437564dd3e217c0cf67273428a57c88db7f15d7ae2ecc3a6c05a166b08d589eb&v=0)![](https://files.openai.com/content?id=file_000000003fa081f7ad2f4a34170c6fc4&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=437564dd3e217c0cf67273428a57c88db7f15d7ae2ecc3a6c05a166b08d589eb&v=0)Courtroom5 Assess this civil dispute in [state]: [brief facts]. Identify potential claims and the likely court, explain missing facts that matter, and suggest initial preparation steps in plain language.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Courtroom5+Assess+this+civil+dispute+in+%5Bstate%5D%3A+%5Bbrief+facts%5D.+Identify+potential+claims+and+the+likely+court%2C+explain+missing+facts+that+matter%2C+and+suggest+initial+preparation+steps+in+plain+language.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a30d2fd05c88191adc78db28e24442b?install&prompt=Assess%20this%20civil%20dispute%20in%20%5Bstate%5D%3A%20%5Bbrief%20facts%5D.%20Identify%20potential%20claims%20and%20the%20likely%20court%2C%20explain%20missing%20facts%20that%20matter%2C%20and%20suggest%20initial%20preparation%20steps%20in%20plain%20language.&surface=work>)
 
   * ### Understand a response deadline
 
 ![](https://files.openai.com/content?id=file_000000003fa081f7ad2f4a34170c6fc4&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=437564dd3e217c0cf67273428a57c88db7f15d7ae2ecc3a6c05a166b08d589eb&v=0)![](https://files.openai.com/content?id=file_000000003fa081f7ad2f4a34170c6fc4&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=437564dd3e217c0cf67273428a57c88db7f15d7ae2ecc3a6c05a166b08d589eb&v=0)Courtroom5 I was served with [civil filing] in [state and court] on [date] by [service method]. Calculate my response deadline if supported, explain the assumptions and consequences, and flag details to verify.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Courtroom5+I+was+served+with+%5Bcivil+filing%5D+in+%5Bstate+and+court%5D+on+%5Bdate%5D+by+%5Bservice+method%5D.+Calculate+my+response+deadline+if+supported%2C+explain+the+assumptions+and+consequences%2C+and+flag+details+to+verify.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a30d2fd05c88191adc78db28e24442b?install&prompt=I%20was%20served%20with%20%5Bcivil%20filing%5D%20in%20%5Bstate%20and%20court%5D%20on%20%5Bdate%5D%20by%20%5Bservice%20method%5D.%20Calculate%20my%20response%20deadline%20if%20supported%2C%20explain%20the%20assumptions%20and%20consequences%2C%20and%20flag%20details%20to%20verify.&surface=work>)
 
   * ### Prioritize the next steps
 
 ![](https://files.openai.com/content?id=file_000000003fa081f7ad2f4a34170c6fc4&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=437564dd3e217c0cf67273428a57c88db7f15d7ae2ecc3a6c05a166b08d589eb&v=0)![](https://files.openai.com/content?id=file_000000003fa081f7ad2f4a34170c6fc4&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=437564dd3e217c0cf67273428a57c88db7f15d7ae2ecc3a6c05a166b08d589eb&v=0)Courtroom5 I am the [plaintiff or defendant] in a [case type] in [state and court], now at [stage]. Identify the next three preparation priorities, explain why they matter, and flag information needed to refine them.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Courtroom5+I+am+the+%5Bplaintiff+or+defendant%5D+in+a+%5Bcase+type%5D+in+%5Bstate+and+court%5D%2C+now+at+%5Bstage%5D.+Identify+the+next+three+preparation+priorities%2C+explain+why+they+matter%2C+and+flag+information+needed+to+refine+them.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a30d2fd05c88191adc78db28e24442b?install&prompt=I%20am%20the%20%5Bplaintiff%20or%20defendant%5D%20in%20a%20%5Bcase%20type%5D%20in%20%5Bstate%20and%20court%5D%2C%20now%20at%20%5Bstage%5D.%20Identify%20the%20next%20three%20preparation%20priorities%2C%20explain%20why%20they%20matter%2C%20and%20flag%20information%20needed%20to%20refine%20them.&surface=work>)
 
 
 
@@ -116,10 +116,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -138,7 +138,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -185,6 +186,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

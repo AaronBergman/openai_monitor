@@ -94,7 +94,7 @@ Those preferences appear alongside the source material and the draft memorandum,
 
 [Higgsfield AI ships new video features in a day with GPT-6 AstraStartupSep 21, 2026](</index/higgsfield-from-prompt-to-production-with-astra/>)
 
-![V7 customer story hero art card - graphite texture](https://images.ctfassets.net/kftzwdyauwt9/69ITITTOHLrgzbSw13s3L1/eded3a71f9961eacc29f699371f3a9f2/V7-art-card-1x1-option-a.png?w=3840&q=90&fm=webp)
+![V7 customer story art card - smaller logo](https://images.ctfassets.net/kftzwdyauwt9/3Av2nLs9MOiSrB5wMXLvL2/35fbde20aca9773bd64b1e8ea2897750/square.png?w=3840&q=90&fm=webp)
 
 [How V7 gives AI agents institutional memoryStartupSep 21, 2026](</index/v7/>)
 
@@ -108,10 +108,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -130,7 +130,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -177,6 +178,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

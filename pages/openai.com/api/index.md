@@ -26,6 +26,12 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
+Webinar
+
+Join us on October 13 at 9:30AM PDT to see how Cognition brings real-time voice to Devin with GPT‑Live‑1.
+
+[Register now(opens in a new window)](<https://webinar.openai.com/register/voice-assistants-everyday-apps/?utm_source=website&utm_medium=banner-web-api&utm_campaign=building-with-gpt-live-1>)
+
 # Build leading AI products on OpenAI’s platform
 
 [Contact sales](</contact-sales/>)
@@ -44,15 +50,15 @@ Output: $50.00 per 1M tokens
 128K max output tokens
   * Knowledge cut-off: Apr 30, 2026
 
-Learn more(opens in a new window)(opens in a new window)](<https://developers.openai.com/api/docs/models/gpt-6-astra>)[![](https://images.ctfassets.net/kftzwdyauwt9/2zTvWxw5vpGS4PdtmUP47F/afb08e191cd190b536e74682d4da631d/api-02-sol.png?w=3840&q=50&fm=webp)GPT-6 Sol
+Learn more(opens in a new window)(opens in a new window)](<https://developers.openai.com/api/docs/models/gpt-6-astra>)[![](https://images.ctfassets.net/kftzwdyauwt9/7ozarkOJdW7E7nLu8Ouc2u/c2e411e76e60ac06ee73f943a2c5db76/api-03-existing-starfield.png?w=3840&q=50&fm=webp)GPT-6.1 Sol
 
   * Input: $2.00 per 1M tokens  
 Output: $10.00 per 1M tokens
   * 1.05M context length  
 128K max output tokens
-  * Knowledge cut-off: Apr 20, 2026
+  * Knowledge cut-off: Apr 30, 2026
 
-Learn more(opens in a new window)(opens in a new window)](<https://developers.openai.com/api/docs/models/gpt-6-sol>)[![](https://images.ctfassets.net/kftzwdyauwt9/7l2hAkqGxKok3FuvXR9MU3/5863857a9572073b512db835016463ac/api-04-luna.png?w=3840&q=50&fm=webp)GPT-6 Luna
+Learn more(opens in a new window)(opens in a new window)](<https://developers.openai.com/api/docs/models/gpt-6.1-sol>)[![](https://images.ctfassets.net/kftzwdyauwt9/7l2hAkqGxKok3FuvXR9MU3/5863857a9572073b512db835016463ac/api-04-luna.png?w=3840&q=50&fm=webp)GPT-6 Luna
 
   * Input: $0.10 per 1M tokens  
 Output: $0.50 per 1M tokens
@@ -256,10 +262,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -278,7 +284,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -325,6 +332,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

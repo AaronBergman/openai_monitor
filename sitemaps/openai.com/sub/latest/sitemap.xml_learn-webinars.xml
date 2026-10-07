@@ -3,7 +3,7 @@
         xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://openai.com/business/learn/how-our-data-analytics-team-uses-chatgpt-work/</loc>
-    <lastmod>2026-09-26T16:04:20.874Z</lastmod>
+    <lastmod>2026-10-05T23:39:34.903Z</lastmod>
     <xhtml:link
       rel="alternate"
       hreflang="es-419"
@@ -339,10 +339,15 @@
       hreflang="ta-IN"
       href="https://openai.com/ta-IN/business/learn/how-our-data-analytics-team-uses-chatgpt-work/"
     />
+    <xhtml:link
+      rel="alternate"
+      hreflang="he-IL"
+      href="https://openai.com/he-IL/business/learn/how-our-data-analytics-team-uses-chatgpt-work/"
+    />
   </url>
   <url>
     <loc>https://openai.com/business/learn/how-our-marketing-team-uses-chatgpt-work/</loc>
-    <lastmod>2026-09-26T16:01:45.565Z</lastmod>
+    <lastmod>2026-10-05T23:26:11.163Z</lastmod>
     <xhtml:link
       rel="alternate"
       hreflang="kn-IN"
@@ -677,6 +682,11 @@
       rel="alternate"
       hreflang="mr-IN"
       href="https://openai.com/mr-IN/business/learn/how-our-marketing-team-uses-chatgpt-work/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="he-IL"
+      href="https://openai.com/he-IL/business/learn/how-our-marketing-team-uses-chatgpt-work/"
     />
   </url>
 </urlset>

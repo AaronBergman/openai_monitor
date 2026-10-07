@@ -132,9 +132,29 @@ Customer stories
 
 Filter
 
+![Jump Trading — Layered ink art card](https://images.ctfassets.net/kftzwdyauwt9/205v65rL5MtphsvognlJEK/d76a782480cf109cc22bdceeef671107/square.png?w=3840&q=90&fm=webp)
+
+[How Jump Trading is scaling quant research with ChatGPTOct 6, 2026](</index/jump-trading/>)
+
+![Chatham Financial — Art card, Getty texture](https://images.ctfassets.net/kftzwdyauwt9/01pb50tQohDn4kZa58YtWh/2a35d510aa9cfcaae9cec634428e8230/chatham-financial-art-card-getty-texture.png?w=3840&q=90&fm=webp)
+
+[Chatham scales its capital markets expertise with OpenAIOct 2, 2026](</index/chatham-financial/>)
+
+![The Den Family Social customer story art card](https://images.ctfassets.net/kftzwdyauwt9/4gnYhIl1H8We8ktl5hCiHd/220a590e74ed66a02fce6387859511b3/square.png?w=3840&q=90&fm=webp)
+
+[The Den frees up 10-15 hours a week to grow with ChatGPT WorkOct 1, 2026](</index/the-den-family-social/>)
+
+![Basis customer story art card - slate blue texture](https://images.ctfassets.net/kftzwdyauwt9/3yUNvl0PGh8nEqRYASjSM1/d58de88f3a53c434849cfc32934d878a/square.png?w=3840&q=90&fm=webp)
+
+[Basis completes a tax workbook 2x faster with GPT-6 AstraSep 28, 2026](</index/basis-tax-workbook-with-astra/>)
+
 ![Proaction customer story art card - Option A](https://images.ctfassets.net/kftzwdyauwt9/46K6EGB5ApjTSkngvI7uU7/ce0c43f11865fd90348773ceb39485ee/proaction-option-a-art-card.png?w=3840&q=90&fm=webp)
 
 [Proaction boosts sales 60% and saves 75+ hours with CodexSep 25, 2026](</index/proaction/>)
+
+![oai wayfair 1x1](https://images.ctfassets.net/kftzwdyauwt9/1AHxshp97DsdLFaEA7wNFe/f11dd8a1aa25536c436b50c62fec9210/oai_wayfair_1x1.png?w=3840&q=90&fm=webp)
+
+[Wayfair boosts catalog accuracy and support speed with OpenAISep 25, 2026](</index/wayfair/>)
 
 ![Harvey customer story card image - Option C](https://images.ctfassets.net/kftzwdyauwt9/59usTWVI6pc0I3Lb6TL2ol/3d45075f7a623fa6ba4d8d13459065c1/square.png?w=3840&q=90&fm=webp)
 
@@ -160,26 +180,6 @@ Filter
 
 [How V7 gives AI agents institutional memoryStartupSep 21, 2026](</index/v7/>)
 
-![Cooley customer story Option A art card](https://images.ctfassets.net/kftzwdyauwt9/5OYdzanPC7fpSJGLq4nEei/6b2c065869933403a99fd6ccf36a6aa0/square.png?w=3840&q=90&fm=webp)
-
-[How Cooley is accelerating IPO work with ChatGPTSep 17, 2026](</index/cooley-gopublic/>)
-
-![Hex customer story art card - Option A](https://images.ctfassets.net/kftzwdyauwt9/5bCMJ2MIvqqM2APZbalxmT/c17219c832b98a3a79a4b9d014fecda8/square.png?w=3840&q=90&fm=webp)
-
-[Hex turns complex analysis into visual reports with GPT‑6 AstraStartupSep 16, 2026](</index/hex-gpt-6-astra/>)
-
-![Fyxer customer story 1x1 image](https://images.ctfassets.net/kftzwdyauwt9/7LbXXCnX1NLyS1i8mHGF1i/d75fdf2bf63cf463ce2e72915a783757/oai_Fyxer_1x1.png?w=3840&q=90&fm=webp)
-
-[How Fyxer built an AI executive assistant people trustStartupSep 14, 2026](</index/fyxer/>)
-
-![Perplexity customer story art card](https://images.ctfassets.net/kftzwdyauwt9/wGvW7AaxivnlRvLvZU7CE/146fd791b18b52b67dbb0a3692357a72/square.png?w=3840&q=90&fm=webp)
-
-[Perplexity trusts GPT-6 Astra with end-to-end systemsSep 14, 2026](</index/perplexity-improving-accuracy-with-astra/>)
-
-![Cognition customer story art card](https://images.ctfassets.net/kftzwdyauwt9/6WY3rQtuqVbg3bPdMknIhE/3421ffc90ec044e3e4f27570b311813d/cognition-art-card-option-b.png?w=3840&q=90&fm=webp)
-
-[Cognition helps Devin test its own work with GPT‑6 AstraSep 11, 2026](</index/cognition-devin-testing-with-astra/>)
-
 Load more
 
 Research
@@ -192,10 +192,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -214,7 +214,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -261,6 +262,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

@@ -52,6 +52,22 @@ Switch cards to show Media
 
 Switch cards to hide Media
 
+![Sharing AI progress in mathematics — Cover](https://images.ctfassets.net/kftzwdyauwt9/49FAj0M0Ly8nk84Uu8btWC/9919efdae7fff54b0f8b0d80398248ac/ai-progress-in-mathematics-cover.png?w=3840&q=90&fm=webp)
+
+[Sharing AI progress in mathematicsResearchOct 6, 2026](</index/sharing-ai-progress-in-mathematics/>)
+
+![oai ironclad cua 1x1](https://images.ctfassets.net/kftzwdyauwt9/23y88t0gUd7FSqVFa9n1uq/6d227695a77e7a2cf3e6607bc69e1cf2/oai_ironclad_cua_1x1.png?w=3840&q=90&fm=webp)
+
+[Advancing computer use with IroncladPublicationOct 6, 2026](</index/advancing-computer-use-with-ironclad/>)
+
+![GPT-6-1-Sol_Blog 1x1](https://images.ctfassets.net/kftzwdyauwt9/7reVkD9GZT81EppPxXgW4D/44c5d09530a17bf45d153b86760ee30a/GPT-6-1-Sol_1x1.png?w=3840&q=90&fm=webp)
+
+[Introducing GPT-6.1 SolProductSep 29, 2026](</index/introducing-gpt-6-1-sol/>)
+
+![System card for GPT-6.1 Sol](https://images.ctfassets.net/kftzwdyauwt9/2bNmHeEce6RjTqs9YU3x2c/c3c41417d11652c78ed3f3f662b3de01/System_Card_1x1.png?w=3840&q=90&fm=webp)
+
+[Addendum: GPT‑6.1 SolSafetySep 29, 2026(opens in a new window)](<https://deploymentsafety.openai.com/gpt-6-1-sol>)
+
 ![Mental Health Bench art card](https://images.ctfassets.net/kftzwdyauwt9/1GVQAEpVME68kCI7Ol2ApW/abde191546741612492ae27f9baf7f3e/Mental_Health_Bench__art_card.png?w=3840&q=90&fm=webp)
 
 [Introducing MentalHealthBenchPublicationSep 23, 2026](</index/introducing-mentalhealthbench/>)
@@ -72,18 +88,6 @@ Switch cards to hide Media
 
 [Research acceleration: The view inside OpenAIResearchSep 6, 2026](</index/research-acceleration-view-inside-openai/>)
 
-[GPT-6 Astra: A new generation of intelligenceResearchSep 3, 2026](</index/gpt-6-astra/>)
-
-![GPT-6 Astra System Card](https://images.ctfassets.net/kftzwdyauwt9/4EPFfixCR8upYpL3fOmjMo/2f995b1b7e03a6938bf5b654fb1df507/System_Card_1x1.png?w=3840&q=90&fm=webp)
-
-[GPT‑6 Astra System CardSafetySep 3, 2026(opens in a new window)](<https://deploymentsafety.openai.com/gpt-6-astra>)
-
-[The Hugging Face incident and the road aheadSecurityAug 26, 2026](</index/hugging-face-incident-and-the-road-ahead/>)
-
-![Pacing model development in an era of cyber-critical capabilities — Card image](https://images.ctfassets.net/kftzwdyauwt9/3tUOfo4E1xZComoOiRjHJm/51c532f25dd4062f92bff0e41ea00c3c/index-pacing-model-development-cyber-capabilities-dark-cover.png?w=3840&q=90&fm=webp)
-
-[Pacing model development in an era of cyber-critical capabilitiesCompanyAug 18, 2026](</index/pacing-model-development-cyber-capabilities/>)
-
 Load more
 
 Research
@@ -96,10 +100,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -118,7 +122,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -165,6 +170,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

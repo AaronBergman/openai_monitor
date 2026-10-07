@@ -45,7 +45,7 @@ Developer
 Website
     [(opens in a new window)](<https://unicourt.com/>)
 
-[![](https://files.openai.com/content?id=file_000000000974822fad47a5ca7db0a498&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=8&sig=13d9159ffe16e5b893c9f5ca03cdd50fc437426e9d863259bca854093399664e&v=0)UniCourt Find cases with OSHA violations filed against airlines.(opens in a new window)](<https://chatgpt.com/?prompt=%40UniCourt+Find+cases+with+OSHA+violations+filed+against+airlines.>)
+[![](https://files.openai.com/content?id=file_000000000974822fad47a5ca7db0a498&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=8&sig=13d9159ffe16e5b893c9f5ca03cdd50fc437426e9d863259bca854093399664e&v=0)UniCourt Find cases with OSHA violations filed against airlines.(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6aa1a3efb4088191ad24d1f65edc2b04?install&prompt=Find%20cases%20with%20OSHA%20violations%20filed%20against%20airlines.>)
 
 ## How it works
 
@@ -57,19 +57,19 @@ Search over 400 million state and federal cases in plain English to quickly and 
 
 ![](https://files.openai.com/content?id=file_000000000974822fad47a5ca7db0a498&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=8&sig=13d9159ffe16e5b893c9f5ca03cdd50fc437426e9d863259bca854093399664e&v=0)UniCourt Find cases involving [issue and fact pattern] in [jurisdiction] during [date range]. Shortlist the closest matches, explain their relevance from available case details, and provide links for review.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40UniCourt+Find+cases+involving+%5Bissue+and+fact+pattern%5D+in+%5Bjurisdiction%5D+during+%5Bdate+range%5D.+Shortlist+the+closest+matches%2C+explain+their+relevance+from+available+case+details%2C+and+provide+links+for+review.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6aa1a3efb4088191ad24d1f65edc2b04?install&prompt=Find%20cases%20involving%20%5Bissue%20and%20fact%20pattern%5D%20in%20%5Bjurisdiction%5D%20during%20%5Bdate%20range%5D.%20Shortlist%20the%20closest%20matches%2C%20explain%20their%20relevance%20from%20available%20case%20details%2C%20and%20provide%20links%20for%20review.&surface=work>)
 
   * ### Summarize a case docket
 
 ![](https://files.openai.com/content?id=file_000000000974822fad47a5ca7db0a498&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=8&sig=13d9159ffe16e5b893c9f5ca03cdd50fc437426e9d863259bca854093399664e&v=0)UniCourt Find [case name or number] in [court]. Identify the parties, judge, and counsel, then summarize key docket events, the latest recorded status, and open questions with links to the case records.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40UniCourt+Find+%5Bcase+name+or+number%5D+in+%5Bcourt%5D.+Identify+the+parties%2C+judge%2C+and+counsel%2C+then+summarize+key+docket+events%2C+the+latest+recorded+status%2C+and+open+questions+with+links+to+the+case+records.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6aa1a3efb4088191ad24d1f65edc2b04?install&prompt=Find%20%5Bcase%20name%20or%20number%5D%20in%20%5Bcourt%5D.%20Identify%20the%20parties%2C%20judge%2C%20and%20counsel%2C%20then%20summarize%20key%20docket%20events%2C%20the%20latest%20recorded%20status%2C%20and%20open%20questions%20with%20links%20to%20the%20case%20records.&surface=work>)
 
   * ### Review litigation exposure
 
 ![](https://files.openai.com/content?id=file_000000000974822fad47a5ca7db0a498&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=8&sig=13d9159ffe16e5b893c9f5ca03cdd50fc437426e9d863259bca854093399664e&v=0)UniCourt Find cases involving [company] over [date range]. Group the returned cases by type, jurisdiction, and status; identify recurring patterns and matters needing closer review, with source links and coverage limits.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40UniCourt+Find+cases+involving+%5Bcompany%5D+over+%5Bdate+range%5D.+Group+the+returned+cases+by+type%2C+jurisdiction%2C+and+status%3B+identify+recurring+patterns+and+matters+needing+closer+review%2C+with+source+links+and+coverage+limits.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6aa1a3efb4088191ad24d1f65edc2b04?install&prompt=Find%20cases%20involving%20%5Bcompany%5D%20over%20%5Bdate%20range%5D.%20Group%20the%20returned%20cases%20by%20type%2C%20jurisdiction%2C%20and%20status%3B%20identify%20recurring%20patterns%20and%20matters%20needing%20closer%20review%2C%20with%20source%20links%20and%20coverage%20limits.&surface=work>)
 
 
 
@@ -116,10 +116,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -138,7 +138,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -185,6 +186,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

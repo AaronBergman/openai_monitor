@@ -55,19 +55,19 @@ Peer legal insights for in-house counsel from The L Suite, the leading in-house 
 
 ![](https://files.openai.com/content?id=file_00000000797871f79d17fbd07e1b9697&cdn=1&cp=pi&ma=31536000&ts=0&p=pi&cid=8&sig=2cfae7f0a30fbe75a08a623cee096acf30c3e0fed4eb7335501ddf0d9ca720dd&v=0)![](https://files.openai.com/content?id=file_00000000797871f79d17fbd07e1b9697&cdn=1&cp=pi&ma=31536000&ts=0&p=pi&cid=8&sig=2cfae7f0a30fbe75a08a623cee096acf30c3e0fed4eb7335501ddf0d9ca720dd&v=0)Lloyd by The L Suite Find Braintrust benchmarks for legal headcount and outside counsel spending at companies like [company profile]. Summarize comparable evidence, explain differences in scope, and cite the sources.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Lloyd+by+The+L+Suite+Find+Braintrust+benchmarks+for+legal+headcount+and+outside+counsel+spending+at+companies+like+%5Bcompany+profile%5D.+Summarize+comparable+evidence%2C+explain+differences+in+scope%2C+and+cite+the+sources.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a302d66c90c8191911800010290bf8e?install&prompt=Find%20Braintrust%20benchmarks%20for%20legal%20headcount%20and%20outside%20counsel%20spending%20at%20companies%20like%20%5Bcompany%20profile%5D.%20Summarize%20comparable%20evidence%2C%20explain%20differences%20in%20scope%2C%20and%20cite%20the%20sources.&surface=work>)
 
   * ### Learn from peer negotiations
 
 ![](https://files.openai.com/content?id=file_00000000797871f79d17fbd07e1b9697&cdn=1&cp=pi&ma=31536000&ts=0&p=pi&cid=8&sig=2cfae7f0a30fbe75a08a623cee096acf30c3e0fed4eb7335501ddf0d9ca720dd&v=0)![](https://files.openai.com/content?id=file_00000000797871f79d17fbd07e1b9697&cdn=1&cp=pi&ma=31536000&ts=0&p=pi&cid=8&sig=2cfae7f0a30fbe75a08a623cee096acf30c3e0fed4eb7335501ddf0d9ca720dd&v=0)Lloyd by The L Suite Find peer discussions and playbooks on negotiating [contract issue]. Compare approaches, identify tradeoffs for [company context], and prepare a short options memo with Braintrust citations.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Lloyd+by+The+L+Suite+Find+peer+discussions+and+playbooks+on+negotiating+%5Bcontract+issue%5D.+Compare+approaches%2C+identify+tradeoffs+for+%5Bcompany+context%5D%2C+and+prepare+a+short+options+memo+with+Braintrust+citations.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a302d66c90c8191911800010290bf8e?install&prompt=Find%20peer%20discussions%20and%20playbooks%20on%20negotiating%20%5Bcontract%20issue%5D.%20Compare%20approaches%2C%20identify%20tradeoffs%20for%20%5Bcompany%20context%5D%2C%20and%20prepare%20a%20short%20options%20memo%20with%20Braintrust%20citations.&surface=work>)
 
   * ### Evaluate legal service providers
 
 ![](https://files.openai.com/content?id=file_00000000797871f79d17fbd07e1b9697&cdn=1&cp=pi&ma=31536000&ts=0&p=pi&cid=8&sig=2cfae7f0a30fbe75a08a623cee096acf30c3e0fed4eb7335501ddf0d9ca720dd&v=0)![](https://files.openai.com/content?id=file_00000000797871f79d17fbd07e1b9697&cdn=1&cp=pi&ma=31536000&ts=0&p=pi&cid=8&sig=2cfae7f0a30fbe75a08a623cee096acf30c3e0fed4eb7335501ddf0d9ca720dd&v=0)Lloyd by The L Suite Find vendors peers use for [legal operations need]. Compare reported strengths and limitations against [requirements], shortlist the best fits, and cite community sources with questions for diligence.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Lloyd+by+The+L+Suite+Find+vendors+peers+use+for+%5Blegal+operations+need%5D.+Compare+reported+strengths+and+limitations+against+%5Brequirements%5D%2C+shortlist+the+best+fits%2C+and+cite+community+sources+with+questions+for+diligence.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a302d66c90c8191911800010290bf8e?install&prompt=Find%20vendors%20peers%20use%20for%20%5Blegal%20operations%20need%5D.%20Compare%20reported%20strengths%20and%20limitations%20against%20%5Brequirements%5D%2C%20shortlist%20the%20best%20fits%2C%20and%20cite%20community%20sources%20with%20questions%20for%20diligence.&surface=work>)
 
 
 
@@ -114,10 +114,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -136,7 +136,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -183,6 +184,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 
