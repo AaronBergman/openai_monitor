@@ -3,7 +3,7 @@
         xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://openai.com/stories/</loc>
-    <lastmod>2026-09-25T18:59:30.946Z</lastmod>
+    <lastmod>2026-10-08T09:14:41.586Z</lastmod>
     <xhtml:link
       rel="alternate"
       hreflang="sv-SE"
@@ -13,11 +13,6 @@
       rel="alternate"
       hreflang="tr-TR"
       href="https://openai.com/tr-TR/stories/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="nl-NL"
-      href="https://openai.com/nl-NL/stories/"
     />
     <xhtml:link
       rel="alternate"
@@ -76,33 +71,13 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="pa-IN"
-      href="https://openai.com/pa-IN/stories/"
-    />
-    <xhtml:link
-      rel="alternate"
       hreflang="hr-HR"
       href="https://openai.com/hr-HR/stories/"
     />
     <xhtml:link
       rel="alternate"
-      hreflang="gu-IN"
-      href="https://openai.com/gu-IN/stories/"
-    />
-    <xhtml:link
-      rel="alternate"
       hreflang="ta-IN"
       href="https://openai.com/ta-IN/stories/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="hy-AM"
-      href="https://openai.com/hy-AM/stories/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="bs-BA"
-      href="https://openai.com/bs-BA/stories/"
     />
     <xhtml:link
       rel="alternate"
@@ -113,16 +88,6 @@
       rel="alternate"
       hreflang="sr-Latn-RS"
       href="https://openai.com/sr-Latn-RS/stories/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="pl-PL"
-      href="https://openai.com/pl-PL/stories/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="sl-SI"
-      href="https://openai.com/sl-SI/stories/"
     />
     <xhtml:link
       rel="alternate"
@@ -156,11 +121,6 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="lv-LV"
-      href="https://openai.com/lv-LV/stories/"
-    />
-    <xhtml:link
-      rel="alternate"
       hreflang="hu-HU"
       href="https://openai.com/hu-HU/stories/"
     />
@@ -168,11 +128,6 @@
       rel="alternate"
       hreflang="id-ID"
       href="https://openai.com/id-ID/stories/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="uk-UA"
-      href="https://openai.com/uk-UA/stories/"
     />
     <xhtml:link
       rel="alternate"
@@ -198,6 +153,16 @@
       rel="alternate"
       hreflang="vi-VN"
       href="https://openai.com/vi-VN/stories/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="gu-IN"
+      href="https://openai.com/gu-IN/stories/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="pa-IN"
+      href="https://openai.com/pa-IN/stories/"
     />
     <xhtml:link
       rel="alternate"
@@ -349,10 +314,45 @@
       hreflang="el-GR"
       href="https://openai.com/el-GR/stories/"
     />
+    <xhtml:link
+      rel="alternate"
+      hreflang="lv-LV"
+      href="https://openai.com/lv-LV/stories/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="bs-BA"
+      href="https://openai.com/bs-BA/stories/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="nl-NL"
+      href="https://openai.com/nl-NL/stories/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="pl-PL"
+      href="https://openai.com/pl-PL/stories/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="sl-SI"
+      href="https://openai.com/sl-SI/stories/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="hy-AM"
+      href="https://openai.com/hy-AM/stories/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="uk-UA"
+      href="https://openai.com/uk-UA/stories/"
+    />
   </url>
   <url>
     <loc>https://openai.com/stories/chatgpt/</loc>
-    <lastmod>2026-09-25T18:59:28.589Z</lastmod>
+    <lastmod>2026-10-08T09:14:40.043Z</lastmod>
     <xhtml:link
       rel="alternate"
       hreflang="de-DE"
@@ -382,11 +382,6 @@
       rel="alternate"
       hreflang="fi-FI"
       href="https://openai.com/fi-FI/stories/chatgpt/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ko-KR"
-      href="https://openai.com/ko-KR/stories/chatgpt/"
     />
     <xhtml:link
       rel="alternate"
@@ -425,18 +420,8 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="pt-BR"
-      href="https://openai.com/pt-BR/stories/chatgpt/"
-    />
-    <xhtml:link
-      rel="alternate"
       hreflang="fr-FR"
       href="https://openai.com/fr-FR/stories/chatgpt/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="mr-IN"
-      href="https://openai.com/mr-IN/stories/chatgpt/"
     />
     <xhtml:link
       rel="alternate"
@@ -467,11 +452,6 @@
       rel="alternate"
       hreflang="ka-GE"
       href="https://openai.com/ka-GE/stories/chatgpt/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ja-JP"
-      href="https://openai.com/ja-JP/stories/chatgpt/"
     />
     <xhtml:link
       rel="alternate"
@@ -543,10 +523,369 @@
       hreflang="kn-IN"
       href="https://openai.com/kn-IN/stories/chatgpt/"
     />
+    <xhtml:link
+      rel="alternate"
+      hreflang="pt-BR"
+      href="https://openai.com/pt-BR/stories/chatgpt/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ja-JP"
+      href="https://openai.com/ja-JP/stories/chatgpt/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ko-KR"
+      href="https://openai.com/ko-KR/stories/chatgpt/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="mr-IN"
+      href="https://openai.com/mr-IN/stories/chatgpt/"
+    />
+  </url>
+  <url>
+    <loc>https://openai.com/index/new-chatgpt-ads-format-and-measurement/</loc>
+    <lastmod>2026-10-08T03:26:50.288Z</lastmod>
+    <xhtml:link
+      rel="alternate"
+      hreflang="ms-MY"
+      href="https://openai.com/ms-MY/index/new-chatgpt-ads-format-and-measurement/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fil-PH"
+      href="https://openai.com/fil-PH/index/new-chatgpt-ads-format-and-measurement/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="nb-NO"
+      href="https://openai.com/nb-NO/index/new-chatgpt-ads-format-and-measurement/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="el-GR"
+      href="https://openai.com/el-GR/index/new-chatgpt-ads-format-and-measurement/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ga-IE"
+      href="https://openai.com/ga-IE/index/new-chatgpt-ads-format-and-measurement/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ko-KR"
+      href="https://openai.com/ko-KR/index/new-chatgpt-ads-format-and-measurement/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr-CA"
+      href="https://openai.com/fr-CA/index/new-chatgpt-ads-format-and-measurement/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="de-DE"
+      href="https://openai.com/de-DE/index/new-chatgpt-ads-format-and-measurement/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr-FR"
+      href="https://openai.com/fr-FR/index/new-chatgpt-ads-format-and-measurement/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="sr-RS"
+      href="https://openai.com/sr-RS/index/new-chatgpt-ads-format-and-measurement/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fa-IR"
+      href="https://openai.com/fa-IR/index/new-chatgpt-ads-format-and-measurement/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="jv-ID"
+      href="https://openai.com/jv-ID/index/new-chatgpt-ads-format-and-measurement/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="hy-AM"
+      href="https://openai.com/hy-AM/index/new-chatgpt-ads-format-and-measurement/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="am-ET"
+      href="https://openai.com/am-ET/index/new-chatgpt-ads-format-and-measurement/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="lt-LT"
+      href="https://openai.com/lt-LT/index/new-chatgpt-ads-format-and-measurement/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="sq-AL"
+      href="https://openai.com/sq-AL/index/new-chatgpt-ads-format-and-measurement/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="bg-BG"
+      href="https://openai.com/bg-BG/index/new-chatgpt-ads-format-and-measurement/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="mk-MK"
+      href="https://openai.com/mk-MK/index/new-chatgpt-ads-format-and-measurement/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="cs-CZ"
+      href="https://openai.com/cs-CZ/index/new-chatgpt-ads-format-and-measurement/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="pl-PL"
+      href="https://openai.com/pl-PL/index/new-chatgpt-ads-format-and-measurement/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ja-JP"
+      href="https://openai.com/ja-JP/index/new-chatgpt-ads-format-and-measurement/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="sw-KE"
+      href="https://openai.com/sw-KE/index/new-chatgpt-ads-format-and-measurement/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es-ES"
+      href="https://openai.com/es-ES/index/new-chatgpt-ads-format-and-measurement/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="sl-SI"
+      href="https://openai.com/sl-SI/index/new-chatgpt-ads-format-and-measurement/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="kn-IN"
+      href="https://openai.com/kn-IN/index/new-chatgpt-ads-format-and-measurement/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="tr-TR"
+      href="https://openai.com/tr-TR/index/new-chatgpt-ads-format-and-measurement/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es-419"
+      href="https://openai.com/es-419/index/new-chatgpt-ads-format-and-measurement/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="vi-VN"
+      href="https://openai.com/vi-VN/index/new-chatgpt-ads-format-and-measurement/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ur-IN"
+      href="https://openai.com/ur-IN/index/new-chatgpt-ads-format-and-measurement/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="hu-HU"
+      href="https://openai.com/hu-HU/index/new-chatgpt-ads-format-and-measurement/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ml-IN"
+      href="https://openai.com/ml-IN/index/new-chatgpt-ads-format-and-measurement/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ca-ES"
+      href="https://openai.com/ca-ES/index/new-chatgpt-ads-format-and-measurement/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="bs-BA"
+      href="https://openai.com/bs-BA/index/new-chatgpt-ads-format-and-measurement/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ar"
+      href="https://openai.com/ar/index/new-chatgpt-ads-format-and-measurement/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="pt-BR"
+      href="https://openai.com/pt-BR/index/new-chatgpt-ads-format-and-measurement/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-Hant-HK"
+      href="https://openai.com/zh-Hant-HK/index/new-chatgpt-ads-format-and-measurement/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-Hant"
+      href="https://openai.com/zh-Hant/index/new-chatgpt-ads-format-and-measurement/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="my-MM"
+      href="https://openai.com/my-MM/index/new-chatgpt-ads-format-and-measurement/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-Hans-CN"
+      href="https://openai.com/zh-Hans-CN/index/new-chatgpt-ads-format-and-measurement/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="pt-PT"
+      href="https://openai.com/pt-PT/index/new-chatgpt-ads-format-and-measurement/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ro-RO"
+      href="https://openai.com/ro-RO/index/new-chatgpt-ads-format-and-measurement/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="is-IS"
+      href="https://openai.com/is-IS/index/new-chatgpt-ads-format-and-measurement/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="sv-SE"
+      href="https://openai.com/sv-SE/index/new-chatgpt-ads-format-and-measurement/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="te-IN"
+      href="https://openai.com/te-IN/index/new-chatgpt-ads-format-and-measurement/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="kk-Cyrl"
+      href="https://openai.com/kk-Cyrl/index/new-chatgpt-ads-format-and-measurement/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="it-IT"
+      href="https://openai.com/it-IT/index/new-chatgpt-ads-format-and-measurement/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="et-EE"
+      href="https://openai.com/et-EE/index/new-chatgpt-ads-format-and-measurement/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="so-DJ"
+      href="https://openai.com/so-DJ/index/new-chatgpt-ads-format-and-measurement/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="uk-UA"
+      href="https://openai.com/uk-UA/index/new-chatgpt-ads-format-and-measurement/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="gu-IN"
+      href="https://openai.com/gu-IN/index/new-chatgpt-ads-format-and-measurement/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fi-FI"
+      href="https://openai.com/fi-FI/index/new-chatgpt-ads-format-and-measurement/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="nl-NL"
+      href="https://openai.com/nl-NL/index/new-chatgpt-ads-format-and-measurement/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ta-IN"
+      href="https://openai.com/ta-IN/index/new-chatgpt-ads-format-and-measurement/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ka-GE"
+      href="https://openai.com/ka-GE/index/new-chatgpt-ads-format-and-measurement/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="id-ID"
+      href="https://openai.com/id-ID/index/new-chatgpt-ads-format-and-measurement/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="hr-HR"
+      href="https://openai.com/hr-HR/index/new-chatgpt-ads-format-and-measurement/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="hi-IN"
+      href="https://openai.com/hi-IN/index/new-chatgpt-ads-format-and-measurement/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="mn-MN"
+      href="https://openai.com/mn-MN/index/new-chatgpt-ads-format-and-measurement/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="lv-LV"
+      href="https://openai.com/lv-LV/index/new-chatgpt-ads-format-and-measurement/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ru-RU"
+      href="https://openai.com/ru-RU/index/new-chatgpt-ads-format-and-measurement/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="sk-SK"
+      href="https://openai.com/sk-SK/index/new-chatgpt-ads-format-and-measurement/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="mt-MT"
+      href="https://openai.com/mt-MT/index/new-chatgpt-ads-format-and-measurement/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="th-TH"
+      href="https://openai.com/th-TH/index/new-chatgpt-ads-format-and-measurement/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="bn-BD"
+      href="https://openai.com/bn-BD/index/new-chatgpt-ads-format-and-measurement/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="pa-IN"
+      href="https://openai.com/pa-IN/index/new-chatgpt-ads-format-and-measurement/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="mr-IN"
+      href="https://openai.com/mr-IN/index/new-chatgpt-ads-format-and-measurement/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="da-DK"
+      href="https://openai.com/da-DK/index/new-chatgpt-ads-format-and-measurement/"
+    />
   </url>
   <url>
     <loc>https://openai.com/index/building-openai-with-openai/</loc>
-    <lastmod>2026-09-14T21:28:01.975Z</lastmod>
+    <lastmod>2026-10-06T17:53:51.575Z</lastmod>
     <xhtml:link
       rel="alternate"
       hreflang="ja-JP"
@@ -685,7 +1024,7 @@
   </url>
   <url>
     <loc>https://openai.com/index/openai-research-assistant/</loc>
-    <lastmod>2026-09-14T21:27:53.586Z</lastmod>
+    <lastmod>2026-10-06T17:53:44.255Z</lastmod>
     <xhtml:link
       rel="alternate"
       hreflang="jv-ID"

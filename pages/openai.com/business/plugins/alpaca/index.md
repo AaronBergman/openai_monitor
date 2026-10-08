@@ -32,9 +32,9 @@ OpenAI
 
 # Alpaca
 
-Execute trades and access live market data using natural language.
+Monitor positions and markets
 
-[Install plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_691f721a77bc8191be115b65c85075c0>)[Contact sales](</contact-sales/>)
+[Install plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a3cdfb4752881919706186aa2e413e1>)[Contact sales](</contact-sales/>)
 
 Category
     [Finance](</business/plugins/?tab=plugins-finance>)
@@ -45,31 +45,31 @@ Developer
 Website
     [(opens in a new window)](<https://alpaca.markets/>)
 
-[![](https://files.openai.com/content?id=file_000000002eac71f788feb5c9e6daa59e&cdn=1&cp=pi&ma=31881600&ts=0&p=pi&cid=1&sig=0176cded21c42d8a5ce0a3d29f9cda91e89be58c37f10932ea2dfaf02b645983&v=0)Alpaca Use Alpaca to help with this task(opens in a new window)](<https://chatgpt.com/?prompt=%40Alpaca+Use+Alpaca+to+help+with+this+task>)
+[![](https://files.openai.com/content?id=file_0000000072e8820c969334291d39aae3&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=8&sig=88e8627293a88c97e22ed33611f32c0707e0c833514026731b873f812881fcfa&v=0)Alpaca Live Summarize my live Alpaca account balances, buying power, open positions, and portfolio concentration.(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a3cdfb4752881919706186aa2e413e1?install&prompt=Summarize%20my%20live%20Alpaca%20account%20balances%2C%20buying%20power%2C%20open%20positions%2C%20and%20portfolio%20concentration.>)
 
 ## How it works
 
-Ask natural-language questions in ChatGPT to access Alpaca stock, options, and crypto market data—including quotes, historical data, and option chains—and place trading actions.
+Alpaca’s ChatGPT Plugin provides direct access to Alpaca's Trading API and Market Data API. Connect ChatGPT to your account to monitor your live positions, analyze market trends, and manage your account using natural language. Use Alpaca’s Trading API and Dashboard directly if you want to execute your orders. Please see the Disclosure Library at https://alpaca.markets/disclosures for additional information and disclosures from Alpaca Clearing and Alpaca Crypto.
 
 ## What else can you do?
 
   * ### Ask market questions
 
-![](https://files.openai.com/content?id=file_000000002eac71f788feb5c9e6daa59e&cdn=1&cp=pi&ma=31881600&ts=0&p=pi&cid=1&sig=0176cded21c42d8a5ce0a3d29f9cda91e89be58c37f10932ea2dfaf02b645983&v=0)Alpaca For this ticket show today's quote, 30-day price trend, and notable volume changes. Summarize what changed most in the last week.
+![](https://files.openai.com/content?id=file_0000000072e8820c969334291d39aae3&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=8&sig=88e8627293a88c97e22ed33611f32c0707e0c833514026731b873f812881fcfa&v=0)Alpaca For this ticket show today's quote, 30-day price trend, and notable volume changes. Summarize what changed most in the last week.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Alpaca+For+this+ticket+show+today%27s+quote%2C+30-day+price+trend%2C+and+notable+volume+changes.+Summarize+what+changed+most+in+the+last+week.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a3cdfb4752881919706186aa2e413e1?install&prompt=For%20this%20ticket%20show%20today's%20quote%2C%2030-day%20price%20trend%2C%20and%20notable%20volume%20changes.%20Summarize%20what%20changed%20most%20in%20the%20last%20week.&surface=work>)
 
   * ### Access live trading data
 
-![](https://files.openai.com/content?id=file_000000002eac71f788feb5c9e6daa59e&cdn=1&cp=pi&ma=31881600&ts=0&p=pi&cid=1&sig=0176cded21c42d8a5ce0a3d29f9cda91e89be58c37f10932ea2dfaf02b645983&v=0)Alpaca Pull the current option chain for this ticker expiring on [date]. Summarize high open interest strikes, implied volatility, and how calls vs. puts are distributed.
+![](https://files.openai.com/content?id=file_0000000072e8820c969334291d39aae3&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=8&sig=88e8627293a88c97e22ed33611f32c0707e0c833514026731b873f812881fcfa&v=0)Alpaca Pull the current option chain for this ticker expiring on [date]. Summarize high open interest strikes, implied volatility, and how calls vs. puts are distributed.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Alpaca+Pull+the+current+option+chain+for+this+ticker+expiring+on+%5Bdate%5D.+Summarize+high+open+interest+strikes%2C+implied+volatility%2C+and+how+calls+vs.+puts+are+distributed.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a3cdfb4752881919706186aa2e413e1?install&prompt=Pull%20the%20current%20option%20chain%20for%20this%20ticker%20expiring%20on%20%5Bdate%5D.%20Summarize%20high%20open%20interest%20strikes%2C%20implied%20volatility%2C%20and%20how%20calls%20vs.%20puts%20are%20distributed.&surface=work>)
 
   * ### Trigger trading actions
 
-![](https://files.openai.com/content?id=file_000000002eac71f788feb5c9e6daa59e&cdn=1&cp=pi&ma=31881600&ts=0&p=pi&cid=1&sig=0176cded21c42d8a5ce0a3d29f9cda91e89be58c37f10932ea2dfaf02b645983&v=0)Alpaca Place a limit buy order for [ticker] for [amount] shares at [limit]. Before submitting, restate the order details and ask me to confirm.
+![](https://files.openai.com/content?id=file_0000000072e8820c969334291d39aae3&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=8&sig=88e8627293a88c97e22ed33611f32c0707e0c833514026731b873f812881fcfa&v=0)Alpaca Place a limit buy order for [ticker] for [amount] shares at [limit]. Before submitting, restate the order details and ask me to confirm.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Alpaca+Place+a+limit+buy+order+for+%5Bticker%5D+for+%5Bamount%5D+shares+at+%5Blimit%5D.+Before+submitting%2C+restate+the+order+details+and+ask+me+to+confirm.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a3cdfb4752881919706186aa2e413e1?install&prompt=Place%20a%20limit%20buy%20order%20for%20%5Bticker%5D%20for%20%5Bamount%5D%20shares%20at%20%5Blimit%5D.%20Before%20submitting%2C%20restate%20the%20order%20details%20and%20ask%20me%20to%20confirm.&surface=work>)
 
 
 
@@ -78,7 +78,7 @@ Ask natural-language questions in ChatGPT to access Alpaca stock, options, and c
 
 ### App
 
-  * ![](https://files.openai.com/content?id=file_00000000d6fc722fa4dff586b8c41dc8&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=5416dd5d8d03380fd52488cd02fd95ebce2b8d1bcf9d05c3f70ee75839beddb0&v=0)Alpaca
+  * ![](https://files.openai.com/content?id=file_0000000097e881f6a0a33281a28600b0&cdn=1&cp=pi&ma=31881600&ts=0&p=pi&cid=8&sig=6c715e891165b0a3f56399a05ea3758ec99e7ee75ab57e95b2ef0f1558f1b51a&v=0)Alpaca Live
 
 
 
@@ -98,7 +98,7 @@ Availability depends on the plugin, your plan, and workspace settings. Some conn
 
 ## Explore related plugins
 
-[![](https://files.openai.com/content?id=file_00000000179c722f9e8a66d8ff27e98b&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=1&sig=95f7e407c6513f685f25b524ef42ee91ef631083e36c6ea4e3e24667b4692c84&v=0)![](https://files.openai.com/content?id=file_00000000179c722f9e8a66d8ff27e98b&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=1&sig=95f7e407c6513f685f25b524ef42ee91ef631083e36c6ea4e3e24667b4692c84&v=0)Public Equity InvestingSupport company research and deal analysis.](</business/plugins/public-equity-investing/>)[![](https://files.openai.com/content?id=file_00000000e4a8720c9b8cba8aaa6e4f70&cdn=1&cp=pi&ma=30672000&ts=0&p=pi&cid=1&sig=d35f6f0a310b11e0360584d048c93f8d76adf2e2f59543a08c73b34c7e02721f&v=0)![](https://files.openai.com/content?id=file_00000000e4a8720c9b8cba8aaa6e4f70&cdn=1&cp=pi&ma=30672000&ts=0&p=pi&cid=1&sig=d35f6f0a310b11e0360584d048c93f8d76adf2e2f59543a08c73b34c7e02721f&v=0)Investment BankingBuild banking analysis and client-ready materials.](</business/plugins/investment-banking/>)[![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)DataTurn data into clear decisions.](</business/plugins/data/>)[![](https://files.openai.com/content?id=file_00000000838c71f689139639dc435b8e&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=8&sig=ded0420cc73fb5c48598cd93c52b4a70df4b0f8445c20c8d1c8c2ecc49f77954&v=0)![](https://files.openai.com/content?id=file_00000000838c71f689139639dc435b8e&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=8&sig=ded0420cc73fb5c48598cd93c52b4a70df4b0f8445c20c8d1c8c2ecc49f77954&v=0)LSEGAccess LSEG financial data for pricing and market analysis.](</business/plugins/lseg/>)[![](https://files.openai.com/content?id=file_000000009c38722f80144f00dd87ea34&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=1&sig=8e9598782d7e36464e64c394a2fecb5ab3bf6b35731be6a16d3b9ec05b080a32&v=0)![](https://files.openai.com/content?id=file_000000003ec881f6aaeecf3f949966e5&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=1c18816d30ee51f5b8365b1c3d420e3b9da7e6f4d0f9830032b871fc457f48f6&v=0)MorningstarAccess live market insights.](</business/plugins/morningstar/>)[![](https://files.openai.com/content?id=file_00000000af747230bc1606d46c839ee8&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=1&sig=c8a8bc6383ae28c34005525b223aab157382f62b2c5ff707b76f4a38b1b33e32&v=0)![](https://files.openai.com/content?id=file_00000000af747230bc1606d46c839ee8&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=1&sig=c8a8bc6383ae28c34005525b223aab157382f62b2c5ff707b76f4a38b1b33e32&v=0)DaloopaAccess financial KPIs with source links.](</business/plugins/daloopa/>)
+[![](https://files.openai.com/content?id=file_00000000179c722f9e8a66d8ff27e98b&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=1&sig=95f7e407c6513f685f25b524ef42ee91ef631083e36c6ea4e3e24667b4692c84&v=0)![](https://files.openai.com/content?id=file_00000000179c722f9e8a66d8ff27e98b&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=1&sig=95f7e407c6513f685f25b524ef42ee91ef631083e36c6ea4e3e24667b4692c84&v=0)Public Equity InvestingPublic equity research](</business/plugins/public-equity-investing/>)[![](https://files.openai.com/content?id=file_00000000e4a8720c9b8cba8aaa6e4f70&cdn=1&cp=pi&ma=30672000&ts=0&p=pi&cid=1&sig=d35f6f0a310b11e0360584d048c93f8d76adf2e2f59543a08c73b34c7e02721f&v=0)![](https://files.openai.com/content?id=file_00000000e4a8720c9b8cba8aaa6e4f70&cdn=1&cp=pi&ma=30672000&ts=0&p=pi&cid=1&sig=d35f6f0a310b11e0360584d048c93f8d76adf2e2f59543a08c73b34c7e02721f&v=0)Investment BankingM&A, valuation, and financing](</business/plugins/investment-banking/>)[![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)DataAnswer questions with data](</business/plugins/data/>)[![](https://files.openai.com/content?id=file_00000000838c71f689139639dc435b8e&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=8&sig=ded0420cc73fb5c48598cd93c52b4a70df4b0f8445c20c8d1c8c2ecc49f77954&v=0)![](https://files.openai.com/content?id=file_00000000838c71f689139639dc435b8e&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=8&sig=ded0420cc73fb5c48598cd93c52b4a70df4b0f8445c20c8d1c8c2ecc49f77954&v=0)LSEGData and analytics](</business/plugins/lseg/>)[![](https://files.openai.com/content?id=file_000000009c38722f80144f00dd87ea34&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=1&sig=8e9598782d7e36464e64c394a2fecb5ab3bf6b35731be6a16d3b9ec05b080a32&v=0)![](https://files.openai.com/content?id=file_000000003ec881f6aaeecf3f949966e5&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=1c18816d30ee51f5b8365b1c3d420e3b9da7e6f4d0f9830032b871fc457f48f6&v=0)MorningstarInvestment and market insights](</business/plugins/morningstar/>)[![](https://files.openai.com/content?id=file_00000000af747230bc1606d46c839ee8&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=1&sig=c8a8bc6383ae28c34005525b223aab157382f62b2c5ff707b76f4a38b1b33e32&v=0)![](https://files.openai.com/content?id=file_00000000af747230bc1606d46c839ee8&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=1&sig=c8a8bc6383ae28c34005525b223aab157382f62b2c5ff707b76f4a38b1b33e32&v=0)DaloopaFinancial KPIs with links](</business/plugins/daloopa/>)
 
 ## Get started with plugins
 
@@ -116,10 +116,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -138,7 +138,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -185,6 +186,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

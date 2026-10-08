@@ -32,7 +32,7 @@ OpenAI
 
 # OpenAI Certified
 
-Complete structured AI skills courses with applied practice and certificates.
+Learn practical AI skills inside ChatGPT and earn OpenAI Certified credentials.
 
 [Install plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_693022c8c0088191a7c7572aee832a0c>)[Contact sales](</contact-sales/>)
 
@@ -44,7 +44,7 @@ Developer
 
 ## How it works
 
-Give teams a clear, applied path to AI fluency with role-aware guidance, practical exercises, and OpenAI-issued certificates so leaders can scale adoption and prove capability.
+Learn practical AI skills inside ChatGPT and earn OpenAI Certified credentials.
 
 ## What else can you do?
 
@@ -52,19 +52,19 @@ Give teams a clear, applied path to AI fluency with role-aware guidance, practic
 
 ![](https://files.openai.com/content?id=file_0000000059c071f699aa0c9a6126c1c4&cdn=1&cp=pi&ma=30412800&ts=0&p=pi&cid=1&sig=6e5be95a764660ee3463d1b811628737b39c8feb9242e69935259319bef3af30)![](https://files.openai.com/content?id=file_000000008b2c7230a31b920a76e70872&cdn=1&cp=pi&ma=32227200&ts=0&p=pi&cid=1&sig=2bdadb33af1218faa1cacc80584b8b39b47e59bf54ffb2c3e98db379f36a892d&v=0)OpenAI Certified Create a 2-week learning plan for [team] to build safe, applied AI fluency. Include daily 10-15 minute exercises, 2 hands-on workflows, and verification steps.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40OpenAI+Certified+Create+a+2-week+learning+plan+for+%5Bteam%5D+to+build+safe%2C+applied+AI+fluency.+Include+daily+10-15+minute+exercises%2C+2+hands-on+workflows%2C+and+verification+steps.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_693022c8c0088191a7c7572aee832a0c?install&prompt=Create%20a%202-week%20learning%20plan%20for%20%5Bteam%5D%20to%20build%20safe%2C%20applied%20AI%20fluency.%20Include%20daily%2010-15%20minute%20exercises%2C%202%20hands-on%20workflows%2C%20and%20verification%20steps.&surface=work>)
 
   * ### Get visibility into AI skill progress
 
 ![](https://files.openai.com/content?id=file_0000000059c071f699aa0c9a6126c1c4&cdn=1&cp=pi&ma=30412800&ts=0&p=pi&cid=1&sig=6e5be95a764660ee3463d1b811628737b39c8feb9242e69935259319bef3af30)![](https://files.openai.com/content?id=file_000000008b2c7230a31b920a76e70872&cdn=1&cp=pi&ma=32227200&ts=0&p=pi&cid=1&sig=2bdadb33af1218faa1cacc80584b8b39b47e59bf54ffb2c3e98db379f36a892d&v=0)OpenAI Certified Summarize completion and assessment results for the last 30 days by team and role. Identify skill gaps and recommend who should take advanced modules next.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40OpenAI+Certified+Summarize+completion+and+assessment+results+for+the+last+30+days+by+team+and+role.+Identify+skill+gaps+and+recommend+who+should+take+advanced+modules+next.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_693022c8c0088191a7c7572aee832a0c?install&prompt=Summarize%20completion%20and%20assessment%20results%20for%20the%20last%2030%20days%20by%20team%20and%20role.%20Identify%20skill%20gaps%20and%20recommend%20who%20should%20take%20advanced%20modules%20next.&surface=work>)
 
   * ### Prove practical capability with credible signals
 
 ![](https://files.openai.com/content?id=file_0000000059c071f699aa0c9a6126c1c4&cdn=1&cp=pi&ma=30412800&ts=0&p=pi&cid=1&sig=6e5be95a764660ee3463d1b811628737b39c8feb9242e69935259319bef3af30)![](https://files.openai.com/content?id=file_000000008b2c7230a31b920a76e70872&cdn=1&cp=pi&ma=32227200&ts=0&p=pi&cid=1&sig=2bdadb33af1218faa1cacc80584b8b39b47e59bf54ffb2c3e98db379f36a892d&v=0)OpenAI Certified Define a certificate readiness checklist for [role]. Include required competencies, a short practical assessment, and criteria for passing with confidence.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40OpenAI+Certified+Define+a+certificate+readiness+checklist+for+%5Brole%5D.+Include+required+competencies%2C+a+short+practical+assessment%2C+and+criteria+for+passing+with+confidence.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_693022c8c0088191a7c7572aee832a0c?install&prompt=Define%20a%20certificate%20readiness%20checklist%20for%20%5Brole%5D.%20Include%20required%20competencies%2C%20a%20short%20practical%20assessment%2C%20and%20criteria%20for%20passing%20with%20confidence.&surface=work>)
 
 
 
@@ -93,7 +93,7 @@ Availability depends on the plugin, your plan, and workspace settings. Some conn
 
 ## Explore related plugins
 
-[![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)DataTurn data into clear decisions.](</business/plugins/data/>)[![](https://files.openai.com/content?id=file_00000000191081f79dfeddb7b502b1bf&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=3e3f6f7a793416cd9a93e61c94c2bd4631dd37631f592d4e774aa254e2b1c9b7&v=0)![](https://files.openai.com/content?id=file_00000000191081f79dfeddb7b502b1bf&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=3e3f6f7a793416cd9a93e61c94c2bd4631dd37631f592d4e774aa254e2b1c9b7&v=0)SalesPrepare account work and customer follow-up.](</business/plugins/sales/>)[![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)Product DesignTurn product ideas into designs and research artifacts.](</business/plugins/product-design/>)[![](https://files.openai.com/content?id=file_00000000bdb4720caff269fd259bbdff&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=20268aaf4f0c92265b5b4945d13a456968c0e1a5013b3be043a94650a9b37e03&v=0)![](https://files.openai.com/content?id=file_00000000bdb4720caff269fd259bbdff&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=20268aaf4f0c92265b5b4945d13a456968c0e1a5013b3be043a94650a9b37e03&v=0)Creative ProductionUse the Creative Production plugin in ChatGPT to create, adapt, and review marketing assets, campaign concepts, ads, and launch creative.](</business/plugins/creative-production/>)[![](https://files.openai.com/content?id=file_00000000dca471f5a61c7e4a3fab77a4&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=1&sig=63bacca4cbadf25340543a539567d26664d1f530be2b3f6119d3aaeb4edbed56&v=0)![](https://files.openai.com/content?id=file_00000000aaf8722f9e07cbdd00ea7ad8&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=1&sig=450cfa6b24e75515f4907572297126983f2d33e3f6f73cab443b4b5596a0deef&v=0)NotionSearch and reference your Notion pages.](</business/plugins/notion/>)[![](https://files.openai.com/content?id=file_00000000a9a081f78752dfef864b2597&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=18fa18d4c839a23ca63639259d332c2f50d433faa731d9b7755f08c333b78e47&v=0)![](https://files.openai.com/content?id=file_00000000a9a081f78752dfef864b2597&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=18fa18d4c839a23ca63639259d332c2f50d433faa731d9b7755f08c333b78e47&v=0)Google DriveSearch and reference files from your Drive.](</business/plugins/google-drive/>)
+[![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)DataAnswer questions with data](</business/plugins/data/>)[![](https://files.openai.com/content?id=file_00000000191081f79dfeddb7b502b1bf&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=3e3f6f7a793416cd9a93e61c94c2bd4631dd37631f592d4e774aa254e2b1c9b7&v=0)![](https://files.openai.com/content?id=file_00000000191081f79dfeddb7b502b1bf&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=3e3f6f7a793416cd9a93e61c94c2bd4631dd37631f592d4e774aa254e2b1c9b7&v=0)SalesPrepare account work and customer follow-up](</business/plugins/sales/>)[![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)Product DesignTurn product ideas into designs and research artifacts](</business/plugins/product-design/>)[![](https://files.openai.com/content?id=file_00000000bdb4720caff269fd259bbdff&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=20268aaf4f0c92265b5b4945d13a456968c0e1a5013b3be043a94650a9b37e03&v=0)![](https://files.openai.com/content?id=file_00000000bdb4720caff269fd259bbdff&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=20268aaf4f0c92265b5b4945d13a456968c0e1a5013b3be043a94650a9b37e03&v=0)Creative ProductionUse the Creative Production plugin in ChatGPT to create, adapt, and review marketing assets, campaign concepts, ads, and launch creative](</business/plugins/creative-production/>)[![](https://files.openai.com/content?id=file_00000000dca471f5a61c7e4a3fab77a4&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=1&sig=63bacca4cbadf25340543a539567d26664d1f530be2b3f6119d3aaeb4edbed56&v=0)![](https://files.openai.com/content?id=file_00000000aaf8722f9e07cbdd00ea7ad8&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=1&sig=450cfa6b24e75515f4907572297126983f2d33e3f6f73cab443b4b5596a0deef&v=0)NotionSearch and reference your Notion pages](</business/plugins/notion/>)[![](https://files.openai.com/content?id=file_00000000a9a081f78752dfef864b2597&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=18fa18d4c839a23ca63639259d332c2f50d433faa731d9b7755f08c333b78e47&v=0)![](https://files.openai.com/content?id=file_00000000a9a081f78752dfef864b2597&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=18fa18d4c839a23ca63639259d332c2f50d433faa731d9b7755f08c333b78e47&v=0)Google DriveSearch and reference files from your Drive](</business/plugins/google-drive/>)
 
 ## Get started with plugins
 
@@ -111,10 +111,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -133,7 +133,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -180,6 +181,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

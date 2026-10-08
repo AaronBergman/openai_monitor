@@ -45,7 +45,7 @@ Developer
 Website
     [(opens in a new window)](<https://business.linkedin.com/advertise>)
 
-[![](https://files.openai.com/content?id=file_00000000dd3481f59880cd350cda8941&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=8&sig=3605070502002443bac0bf4b0c9bc9619c3f819c77e24c2ed28c71287558befe&v=0)![](https://files.openai.com/content?id=file_00000000030481f79a7d6d73e520da55&cdn=1&cp=pi&ma=31795200&ts=0&p=pi&cid=8&sig=caee713d319db10b2bf953bb34939efa64b7672e363a8a43ec210985ff1277a1&v=0)LinkedIn Ads List my ad sets from “FixDex Team Ad Account”(opens in a new window)](<https://chatgpt.com/?prompt=%40LinkedIn+Ads+List+my+ad+sets+from+%E2%80%9CFixDex+Team+Ad+Account%E2%80%9D>)
+[![](https://files.openai.com/content?id=file_00000000dd3481f59880cd350cda8941&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=8&sig=3605070502002443bac0bf4b0c9bc9619c3f819c77e24c2ed28c71287558befe&v=0)![](https://files.openai.com/content?id=file_00000000030481f79a7d6d73e520da55&cdn=1&cp=pi&ma=31795200&ts=0&p=pi&cid=8&sig=caee713d319db10b2bf953bb34939efa64b7672e363a8a43ec210985ff1277a1&v=0)LinkedIn Ads List my ad sets from “FixDex Team Ad Account”(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69cdf9990c90819185974d8727ef9d73?install&prompt=List%20my%20ad%20sets%20from%20%E2%80%9CFixDex%20Team%20Ad%20Account%E2%80%9D>)
 
 ## How it works
 
@@ -57,19 +57,19 @@ LinkedIn Ads helps advertisers turn every marketing dollar into business growth 
 
 ![](https://files.openai.com/content?id=file_00000000dd3481f59880cd350cda8941&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=8&sig=3605070502002443bac0bf4b0c9bc9619c3f819c77e24c2ed28c71287558befe&v=0)![](https://files.openai.com/content?id=file_00000000030481f79a7d6d73e520da55&cdn=1&cp=pi&ma=31795200&ts=0&p=pi&cid=8&sig=caee713d319db10b2bf953bb34939efa64b7672e363a8a43ec210985ff1277a1&v=0)LinkedIn Ads Compare these LinkedIn ad sets over the same date range using available performance metrics. Highlight meaningful differences and note data limitations.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40LinkedIn+Ads+Compare+these+LinkedIn+ad+sets+over+the+same+date+range+using+available+performance+metrics.+Highlight+meaningful+differences+and+note+data+limitations.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69cdf9990c90819185974d8727ef9d73?install&prompt=Compare%20these%20LinkedIn%20ad%20sets%20over%20the%20same%20date%20range%20using%20available%20performance%20metrics.%20Highlight%20meaningful%20differences%20and%20note%20data%20limitations.&surface=work>)
 
   * ### Find strong ad creatives
 
 ![](https://files.openai.com/content?id=file_00000000dd3481f59880cd350cda8941&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=8&sig=3605070502002443bac0bf4b0c9bc9619c3f819c77e24c2ed28c71287558befe&v=0)![](https://files.openai.com/content?id=file_00000000030481f79a7d6d73e520da55&cdn=1&cp=pi&ma=31795200&ts=0&p=pi&cid=8&sig=caee713d319db10b2bf953bb34939efa64b7672e363a8a43ec210985ff1277a1&v=0)LinkedIn Ads Review ads in this ad set for the last month. Compare click-through and available result metrics, and recommend which creative patterns merit further testing.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40LinkedIn+Ads+Review+ads+in+this+ad+set+for+the+last+month.+Compare+click-through+and+available+result+metrics%2C+and+recommend+which+creative+patterns+merit+further+testing.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69cdf9990c90819185974d8727ef9d73?install&prompt=Review%20ads%20in%20this%20ad%20set%20for%20the%20last%20month.%20Compare%20click-through%20and%20available%20result%20metrics%2C%20and%20recommend%20which%20creative%20patterns%20merit%20further%20testing.&surface=work>)
 
   * ### Prepare a performance brief
 
 ![](https://files.openai.com/content?id=file_00000000dd3481f59880cd350cda8941&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=8&sig=3605070502002443bac0bf4b0c9bc9619c3f819c77e24c2ed28c71287558befe&v=0)![](https://files.openai.com/content?id=file_00000000030481f79a7d6d73e520da55&cdn=1&cp=pi&ma=31795200&ts=0&p=pi&cid=8&sig=caee713d319db10b2bf953bb34939efa64b7672e363a8a43ec210985ff1277a1&v=0)LinkedIn Ads Summarize last month's performance for this LinkedIn ad account's ad sets. Highlight the strongest and weakest results and list questions for the team.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40LinkedIn+Ads+Summarize+last+month%27s+performance+for+this+LinkedIn+ad+account%27s+ad+sets.+Highlight+the+strongest+and+weakest+results+and+list+questions+for+the+team.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69cdf9990c90819185974d8727ef9d73?install&prompt=Summarize%20last%20month's%20performance%20for%20this%20LinkedIn%20ad%20account's%20ad%20sets.%20Highlight%20the%20strongest%20and%20weakest%20results%20and%20list%20questions%20for%20the%20team.&surface=work>)
 
 
 
@@ -98,7 +98,7 @@ Availability depends on the plugin, your plan, and workspace settings. Some conn
 
 ## Explore related plugins
 
-[![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)DataTurn data into clear decisions.](</business/plugins/data/>)[![](https://files.openai.com/content?id=file_00000000bdb4720caff269fd259bbdff&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=20268aaf4f0c92265b5b4945d13a456968c0e1a5013b3be043a94650a9b37e03&v=0)![](https://files.openai.com/content?id=file_00000000bdb4720caff269fd259bbdff&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=20268aaf4f0c92265b5b4945d13a456968c0e1a5013b3be043a94650a9b37e03&v=0)Creative ProductionUse the Creative Production plugin in ChatGPT to create, adapt, and review marketing assets, campaign concepts, ads, and launch creative.](</business/plugins/creative-production/>)[![](https://files.openai.com/content?id=file_00000000191081f79dfeddb7b502b1bf&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=3e3f6f7a793416cd9a93e61c94c2bd4631dd37631f592d4e774aa254e2b1c9b7&v=0)![](https://files.openai.com/content?id=file_00000000191081f79dfeddb7b502b1bf&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=3e3f6f7a793416cd9a93e61c94c2bd4631dd37631f592d4e774aa254e2b1c9b7&v=0)SalesPrepare account work and customer follow-up.](</business/plugins/sales/>)[![](https://files.openai.com/content?id=file_00000000faa071f68918f7da866d93a4&cdn=1&cp=pi&ma=30326400&ts=0&p=pi&cid=8&sig=4f07077e38872beff8ca7d05cc0692679dc04014200779e4cbce84f6604320cd&v=0)![](https://files.openai.com/content?id=file_00000000faa071f68918f7da866d93a4&cdn=1&cp=pi&ma=30326400&ts=0&p=pi&cid=8&sig=4f07077e38872beff8ca7d05cc0692679dc04014200779e4cbce84f6604320cd&v=0)SimilarwebWeb, app, search & market data](</business/plugins/similarweb/>)[![](https://files.openai.com/content?id=file_00000000a1a471fd81edff86e77ecd3b&cdn=1&cp=pi&ma=30326400&ts=0&p=pi&cid=1&sig=938d4b73498b8010276a2a2db3bd97736fb43368f7d6e6b918d92ed91ccbca4f&v=0)![](https://files.openai.com/content?id=file_00000000352871fd8a026326a6078808&cdn=1&cp=pi&ma=30585600&ts=0&p=pi&cid=1&sig=f2df03095c7e6c6c7c919a69e0395034bd5b155ed48e78a3780a4c33c6c23a4c&v=0)SemrushAsk about site metrics and traffic data.](</business/plugins/semrush/>)[![](https://files.openai.com/content?id=file_00000000b94c81f794fcf9c2fbefdf50&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=beb2787280ecaebf28c33ff6125c3de2f31ea2a47d7447cccb565029c8e86c65&v=0)![](https://files.openai.com/content?id=file_00000000b94c81f794fcf9c2fbefdf50&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=beb2787280ecaebf28c33ff6125c3de2f31ea2a47d7447cccb565029c8e86c65&v=0)SpreadsheetsCreate and edit spreadsheets](</business/plugins/spreadsheets/>)
+[![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)DataAnswer questions with data](</business/plugins/data/>)[![](https://files.openai.com/content?id=file_00000000bdb4720caff269fd259bbdff&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=20268aaf4f0c92265b5b4945d13a456968c0e1a5013b3be043a94650a9b37e03&v=0)![](https://files.openai.com/content?id=file_00000000bdb4720caff269fd259bbdff&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=20268aaf4f0c92265b5b4945d13a456968c0e1a5013b3be043a94650a9b37e03&v=0)Creative ProductionUse the Creative Production plugin in ChatGPT to create, adapt, and review marketing assets, campaign concepts, ads, and launch creative](</business/plugins/creative-production/>)[![](https://files.openai.com/content?id=file_00000000191081f79dfeddb7b502b1bf&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=3e3f6f7a793416cd9a93e61c94c2bd4631dd37631f592d4e774aa254e2b1c9b7&v=0)![](https://files.openai.com/content?id=file_00000000191081f79dfeddb7b502b1bf&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=3e3f6f7a793416cd9a93e61c94c2bd4631dd37631f592d4e774aa254e2b1c9b7&v=0)SalesPrepare account work and customer follow-up](</business/plugins/sales/>)[![](https://files.openai.com/content?id=file_00000000faa071f68918f7da866d93a4&cdn=1&cp=pi&ma=30326400&ts=0&p=pi&cid=8&sig=4f07077e38872beff8ca7d05cc0692679dc04014200779e4cbce84f6604320cd&v=0)![](https://files.openai.com/content?id=file_00000000faa071f68918f7da866d93a4&cdn=1&cp=pi&ma=30326400&ts=0&p=pi&cid=8&sig=4f07077e38872beff8ca7d05cc0692679dc04014200779e4cbce84f6604320cd&v=0)SimilarwebWeb, app, search & market data](</business/plugins/similarweb/>)[![](https://files.openai.com/content?id=file_00000000a1a471fd81edff86e77ecd3b&cdn=1&cp=pi&ma=30326400&ts=0&p=pi&cid=1&sig=938d4b73498b8010276a2a2db3bd97736fb43368f7d6e6b918d92ed91ccbca4f&v=0)![](https://files.openai.com/content?id=file_00000000352871fd8a026326a6078808&cdn=1&cp=pi&ma=30585600&ts=0&p=pi&cid=1&sig=f2df03095c7e6c6c7c919a69e0395034bd5b155ed48e78a3780a4c33c6c23a4c&v=0)SemrushResearch keywords & traffic](</business/plugins/semrush/>)[![](https://files.openai.com/content?id=file_00000000b94c81f794fcf9c2fbefdf50&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=beb2787280ecaebf28c33ff6125c3de2f31ea2a47d7447cccb565029c8e86c65&v=0)![](https://files.openai.com/content?id=file_00000000b94c81f794fcf9c2fbefdf50&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=beb2787280ecaebf28c33ff6125c3de2f31ea2a47d7447cccb565029c8e86c65&v=0)SpreadsheetsCreate and edit spreadsheets](</business/plugins/spreadsheets/>)
 
 ## Get started with plugins
 
@@ -116,10 +116,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -138,7 +138,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -185,6 +186,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

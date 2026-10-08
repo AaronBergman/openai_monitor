@@ -32,7 +32,7 @@ OpenAI
 
 # Stripe
 
-Use the Stripe plugin for ChatGPT to analyze live revenue, customers, subscriptions, disputes, and refunds, and build payment integrations.
+Use the Stripe plugin for ChatGPT to analyze live revenue, customers, subscriptions, disputes, and refunds, and build payment integrations
 
 [Install plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_690ab09fa43c8191bca40280e4563238>)[Contact sales](</contact-sales/>)
 
@@ -45,7 +45,7 @@ Developer
 Website
     [(opens in a new window)](<https://stripe.com>)
 
-[![](https://files.openai.com/content?id=file_0000000007fc81f794e4c935362dc538&cdn=1&cp=pi&ma=32140800&ts=0&p=pi&cid=8&sig=60e996a8a54e3052fcb5f967015ec5b2ebef20592c41388121afb65644056360&v=0)Stripe Show me the list of my customers(opens in a new window)](<https://chatgpt.com/?prompt=%40Stripe+Show+me+the+list+of+my+customers>)
+[![](https://files.openai.com/content?id=file_0000000007fc81f794e4c935362dc538&cdn=1&cp=pi&ma=32140800&ts=0&p=pi&cid=8&sig=60e996a8a54e3052fcb5f967015ec5b2ebef20592c41388121afb65644056360&v=0)Stripe Show me the list of my customers(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_690ab09fa43c8191bca40280e4563238?install&prompt=Show%20me%20the%20list%20of%20my%20customers>)
 
 ## How it works
 
@@ -57,19 +57,19 @@ Answer finance and operations questions with live Stripe data, review revenue dr
 
 ![](https://files.openai.com/content?id=file_0000000007fc81f794e4c935362dc538&cdn=1&cp=pi&ma=32140800&ts=0&p=pi&cid=8&sig=60e996a8a54e3052fcb5f967015ec5b2ebef20592c41388121afb65644056360&v=0)Stripe List disputed charges and draft customer friendly responses for the 5 highest value disputes.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Stripe+List+disputed+charges+and+draft+customer+friendly+responses+for+the+5+highest+value+disputes.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_690ab09fa43c8191bca40280e4563238?install&prompt=List%20disputed%20charges%20and%20draft%20customer%20friendly%20responses%20for%20the%205%20highest%20value%20disputes.&surface=work>)
 
   * ### Monitor subscription and product performance
 
 ![](https://files.openai.com/content?id=file_0000000007fc81f794e4c935362dc538&cdn=1&cp=pi&ma=32140800&ts=0&p=pi&cid=8&sig=60e996a8a54e3052fcb5f967015ec5b2ebef20592c41388121afb65644056360&v=0)Stripe Identify subscriptions that canceled within 60 days of starting and summarize common patterns we can act on.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Stripe+Identify+subscriptions+that+canceled+within+60+days+of+starting+and+summarize+common+patterns+we+can+act+on.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_690ab09fa43c8191bca40280e4563238?install&prompt=Identify%20subscriptions%20that%20canceled%20within%2060%20days%20of%20starting%20and%20summarize%20common%20patterns%20we%20can%20act%20on.&surface=work>)
 
   * ### Speed up payments integration work
 
 ![](https://files.openai.com/content?id=file_0000000007fc81f794e4c935362dc538&cdn=1&cp=pi&ma=32140800&ts=0&p=pi&cid=8&sig=60e996a8a54e3052fcb5f967015ec5b2ebef20592c41388121afb65644056360&v=0)Stripe Using these Checkout and Billing docs, outline the steps and implementation checks for adding recurring subscriptions to our product.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Stripe+Using+these+Checkout+and+Billing+docs%2C+outline+the+steps+and+implementation+checks+for+adding+recurring+subscriptions+to+our+product.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_690ab09fa43c8191bca40280e4563238?install&prompt=Using%20these%20Checkout%20and%20Billing%20docs%2C%20outline%20the%20steps%20and%20implementation%20checks%20for%20adding%20recurring%20subscriptions%20to%20our%20product.&surface=work>)
 
 
 
@@ -112,7 +112,7 @@ Availability depends on the plugin, your plan, and workspace settings. Some conn
 
 ## Explore related plugins
 
-[![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)DataTurn data into clear decisions.](</business/plugins/data/>)[![](https://files.openai.com/content?id=file_00000000191081f79dfeddb7b502b1bf&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=3e3f6f7a793416cd9a93e61c94c2bd4631dd37631f592d4e774aa254e2b1c9b7&v=0)![](https://files.openai.com/content?id=file_00000000191081f79dfeddb7b502b1bf&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=3e3f6f7a793416cd9a93e61c94c2bd4631dd37631f592d4e774aa254e2b1c9b7&v=0)SalesPrepare account work and customer follow-up.](</business/plugins/sales/>)[![](https://files.openai.com/content?id=file_00000000649881f78407f95b8ef708d5&cdn=1&cp=pi&ma=32659200&ts=0&p=pi&cid=8&sig=0bd3c0fdb82a0a8da2c99a9e4b526f0f84728962fd7637ee5423661fb7ef4db7&v=0)![](https://files.openai.com/content?id=file_00000000649881f78407f95b8ef708d5&cdn=1&cp=pi&ma=32659200&ts=0&p=pi&cid=8&sig=0bd3c0fdb82a0a8da2c99a9e4b526f0f84728962fd7637ee5423661fb7ef4db7&v=0)Intuit QuickBooksBusiness finances made simple](</business/plugins/quickbooks/>)[![](https://files.openai.com/content?id=file_00000000a9cc722fb923cc9523b65b7d&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=1&sig=3dfed128f0bb03d09bf162a2dc55fbe09a77b2bb881e6dda9588c139623cb79f&v=0)![](https://files.openai.com/content?id=file_00000000ae1881f78cb19e9602da73eb&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=e6620dc8efa5f7ff134320dd09ead486087108035fdad05773799d910563ee89&v=0)RampAutomate finance tasks.](</business/plugins/ramp/>)[![](https://files.openai.com/content?id=file_00000000ac7881f59a95b718896b7902&cdn=1&cp=pi&ma=31968000&ts=0&p=pi&cid=8&sig=8d4ea8c207d69a085a5d683c828b2957b9db2fc95aea683bf2589c66d6b62e66&v=0)![](https://files.openai.com/content?id=file_00000000ac7881f59a95b718896b7902&cdn=1&cp=pi&ma=31968000&ts=0&p=pi&cid=8&sig=8d4ea8c207d69a085a5d683c828b2957b9db2fc95aea683bf2589c66d6b62e66&v=0)MercuryUnderstand your finances](</business/plugins/mercury/>)[![](https://files.openai.com/content?id=file_000000004e58720cb8bbfc0978e3367e&cdn=1&cp=pi&ma=30758400&ts=0&p=pi&cid=1&sig=1b0376e78ef2e4f6f05a5b9bc138133fa5d468103e983c1f706341fe5f2293a7&v=0)![](https://files.openai.com/content?id=file_00000000c73081f7bf9eb20dcfc0bf64&cdn=1&cp=pi&ma=31363200&ts=0&p=pi&cid=8&sig=d62b12c0280b3d8053803e8a8fdf394b4f0e4e6c9bec46234bcbe8d3c1908747&v=0)Coupler.ioConnect and analyze data from 400+ apps.](</business/plugins/coupler-io/>)
+[![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)DataAnswer questions with data](</business/plugins/data/>)[![](https://files.openai.com/content?id=file_00000000191081f79dfeddb7b502b1bf&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=3e3f6f7a793416cd9a93e61c94c2bd4631dd37631f592d4e774aa254e2b1c9b7&v=0)![](https://files.openai.com/content?id=file_00000000191081f79dfeddb7b502b1bf&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=3e3f6f7a793416cd9a93e61c94c2bd4631dd37631f592d4e774aa254e2b1c9b7&v=0)SalesPrepare account work and customer follow-up](</business/plugins/sales/>)[![](https://files.openai.com/content?id=file_00000000649881f78407f95b8ef708d5&cdn=1&cp=pi&ma=32659200&ts=0&p=pi&cid=8&sig=0bd3c0fdb82a0a8da2c99a9e4b526f0f84728962fd7637ee5423661fb7ef4db7&v=0)![](https://files.openai.com/content?id=file_00000000649881f78407f95b8ef708d5&cdn=1&cp=pi&ma=32659200&ts=0&p=pi&cid=8&sig=0bd3c0fdb82a0a8da2c99a9e4b526f0f84728962fd7637ee5423661fb7ef4db7&v=0)Intuit QuickBooksBusiness finances made simple](</business/plugins/quickbooks/>)[![](https://files.openai.com/content?id=file_00000000a9cc722fb923cc9523b65b7d&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=1&sig=3dfed128f0bb03d09bf162a2dc55fbe09a77b2bb881e6dda9588c139623cb79f&v=0)![](https://files.openai.com/content?id=file_00000000ae1881f78cb19e9602da73eb&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=e6620dc8efa5f7ff134320dd09ead486087108035fdad05773799d910563ee89&v=0)RampAutomate finance tasks](</business/plugins/ramp/>)[![](https://files.openai.com/content?id=file_00000000ac7881f59a95b718896b7902&cdn=1&cp=pi&ma=31968000&ts=0&p=pi&cid=8&sig=8d4ea8c207d69a085a5d683c828b2957b9db2fc95aea683bf2589c66d6b62e66&v=0)![](https://files.openai.com/content?id=file_00000000ac7881f59a95b718896b7902&cdn=1&cp=pi&ma=31968000&ts=0&p=pi&cid=8&sig=8d4ea8c207d69a085a5d683c828b2957b9db2fc95aea683bf2589c66d6b62e66&v=0)MercuryUnderstand your finances](</business/plugins/mercury/>)[![](https://files.openai.com/content?id=file_000000004e58720cb8bbfc0978e3367e&cdn=1&cp=pi&ma=30758400&ts=0&p=pi&cid=1&sig=1b0376e78ef2e4f6f05a5b9bc138133fa5d468103e983c1f706341fe5f2293a7&v=0)![](https://files.openai.com/content?id=file_00000000c73081f7bf9eb20dcfc0bf64&cdn=1&cp=pi&ma=31363200&ts=0&p=pi&cid=8&sig=d62b12c0280b3d8053803e8a8fdf394b4f0e4e6c9bec46234bcbe8d3c1908747&v=0)Coupler.ioAnalyze data from 400+ apps](</business/plugins/coupler-io/>)
 
 ## Get started with plugins
 
@@ -130,10 +130,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -152,7 +152,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -199,6 +200,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

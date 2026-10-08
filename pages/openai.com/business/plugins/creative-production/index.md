@@ -32,7 +32,7 @@ OpenAI
 
 # Creative Production
 
-Use the Creative Production plugin in ChatGPT to create, adapt, and review marketing assets, campaign concepts, ads, and launch creative.
+Use the Creative Production plugin in ChatGPT to create, adapt, and review marketing assets, campaign concepts, ads, and launch creative
 
 [Install plugin(opens in a new window)](<https://chatgpt.com/plugins/Plugin_9e6ca248b5248191ac8c599038990ad9>)[Contact sales](</contact-sales/>)
 
@@ -48,7 +48,7 @@ Developer
 Website
     [(opens in a new window)](<https://openai.com/>)
 
-[![](https://files.openai.com/content?id=file_00000000c63c722f9b823ccc53aa7260&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=1&sig=dee934a3ef28c2b995472657ab8c642635358ccae1c1f4c0f739b51e04a4330c&v=0)Creative Production Start me on a creative production workflow(opens in a new window)](<https://chatgpt.com/?prompt=%40Creative+Production+Start+me+on+a+creative+production+workflow>)
+[![](https://files.openai.com/content?id=file_00000000c63c722f9b823ccc53aa7260&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=1&sig=dee934a3ef28c2b995472657ab8c642635358ccae1c1f4c0f739b51e04a4330c&v=0)Creative Production Start me on a creative production workflow(opens in a new window)](<https://chatgpt.com/plugins/Plugin_9e6ca248b5248191ac8c599038990ad9?install&prompt=Start%20me%20on%20a%20creative%20production%20workflow>)
 
 ## How it works
 
@@ -60,19 +60,19 @@ Use Creative Production in ChatGPT to create, adapt, and review marketing assets
 
 ![](https://files.openai.com/content?id=file_00000000c63c722f9b823ccc53aa7260&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=1&sig=dee934a3ef28c2b995472657ab8c642635358ccae1c1f4c0f739b51e04a4330c&v=0)Creative Production Create 9 social image concepts based on this marketing brief.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Creative+Production+Create+9+social+image+concepts+based+on+this+marketing+brief.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/Plugin_9e6ca248b5248191ac8c599038990ad9?install&prompt=Create%209%20social%20image%20concepts%20based%20on%20this%20marketing%20brief.&surface=work>)
 
   * ### Adapt assets across channels
 
 ![](https://files.openai.com/content?id=file_00000000c63c722f9b823ccc53aa7260&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=1&sig=dee934a3ef28c2b995472657ab8c642635358ccae1c1f4c0f739b51e04a4330c&v=0)Creative Production Turn this top performing visual asset into variations for other channels while keeping brand and message consistent.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Creative+Production+Turn+this+top+performing+visual+asset+into+variations+for+other+channels+while+keeping+brand+and+message+consistent.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/Plugin_9e6ca248b5248191ac8c599038990ad9?install&prompt=Turn%20this%20top%20performing%20visual%20asset%20into%20variations%20for%20other%20channels%20while%20keeping%20brand%20and%20message%20consistent.&surface=work>)
 
   * ### Review brand and readiness
 
 ![](https://files.openai.com/content?id=file_00000000c63c722f9b823ccc53aa7260&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=1&sig=dee934a3ef28c2b995472657ab8c642635358ccae1c1f4c0f739b51e04a4330c&v=0)Creative Production Review this ad concept against the brief and flag brand, claim, audience, and production risks.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Creative+Production+Review+this+ad+concept+against+the+brief+and+flag+brand%2C+claim%2C+audience%2C+and+production+risks.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/Plugin_9e6ca248b5248191ac8c599038990ad9?install&prompt=Review%20this%20ad%20concept%20against%20the%20brief%20and%20flag%20brand%2C%20claim%2C%20audience%2C%20and%20production%20risks.&surface=work>)
 
 
 
@@ -102,7 +102,7 @@ Availability depends on the plugin, your plan, and workspace settings. Some conn
 
 ## Explore related plugins
 
-[![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)Product DesignTurn product ideas into designs and research artifacts.](</business/plugins/product-design/>)[![](https://files.openai.com/content?id=file_00000000191081f79dfeddb7b502b1bf&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=3e3f6f7a793416cd9a93e61c94c2bd4631dd37631f592d4e774aa254e2b1c9b7&v=0)![](https://files.openai.com/content?id=file_00000000191081f79dfeddb7b502b1bf&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=3e3f6f7a793416cd9a93e61c94c2bd4631dd37631f592d4e774aa254e2b1c9b7&v=0)SalesPrepare account work and customer follow-up.](</business/plugins/sales/>)[![](https://files.openai.com/content?id=file_000000000ee871fd807d17a056d79aa7&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=1&sig=07ea3990463c5d5c58deba9d55d8dfa10178b2a1cabb20fb0fdcf93fc218472b&v=0)![](https://files.openai.com/content?id=file_000000000ee871fd807d17a056d79aa7&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=1&sig=07ea3990463c5d5c58deba9d55d8dfa10178b2a1cabb20fb0fdcf93fc218472b&v=0)CanvaSearch, create, and edit designs.](</business/plugins/canva/>)[![](https://files.openai.com/content?id=file_00000000939071f7bfd24cf1e8d5f5fb&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=6ebfe2cc1f5b0b42e22ad009c72554b104befc2d3e0a54884a6fbfaea2420331&v=0)![](https://files.openai.com/content?id=file_00000000939071f7bfd24cf1e8d5f5fb&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=6ebfe2cc1f5b0b42e22ad009c72554b104befc2d3e0a54884a6fbfaea2420331&v=0)Adobe ExpressCreate flyers, posts, and graphics quickly.](</business/plugins/adobe-express/>)[![](https://files.openai.com/content?id=file_000000003d64820c9105c859db57fe4d&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=8&sig=bc9fd0fe7aa6a14439c3dae08ded4377aa99f2dd20e5b52ca3db8dd40fd5d2fc&v=0)![](https://files.openai.com/content?id=file_000000001f3c81fd88149faceddc19df&cdn=1&cp=pi&ma=32659200&ts=0&p=pi&cid=8&sig=f45f28e94aaa8443b2c849d11cfe2c843efe0d98efc51230e2ab72c39610b193&v=0)FigmaMake diagrams, slides, assets.](</business/plugins/figma/>)[![](https://files.openai.com/content?id=file_00000000ffac722f987914a6f7db710b&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=26b2c9500db3c7de3659e1e158826d1ced4806f01d50f831132375e3b497a249&v=0)![](https://files.openai.com/content?id=file_00000000aa0081f79505b7d543758347&cdn=1&cp=pi&ma=30499200&ts=0&p=pi&cid=8&sig=73f24d3e0b666fdb3c380b13bb034ddd67e0e42a39ef70031b8401cfe081741c&v=0)CloudinaryManage, modify, and host your images and videos.](</business/plugins/cloudinary/>)
+[![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)Product DesignTurn product ideas into designs and research artifacts](</business/plugins/product-design/>)[![](https://files.openai.com/content?id=file_00000000191081f79dfeddb7b502b1bf&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=3e3f6f7a793416cd9a93e61c94c2bd4631dd37631f592d4e774aa254e2b1c9b7&v=0)![](https://files.openai.com/content?id=file_00000000191081f79dfeddb7b502b1bf&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=3e3f6f7a793416cd9a93e61c94c2bd4631dd37631f592d4e774aa254e2b1c9b7&v=0)SalesPrepare account work and customer follow-up](</business/plugins/sales/>)[![](https://files.openai.com/content?id=file_000000000ee871fd807d17a056d79aa7&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=1&sig=07ea3990463c5d5c58deba9d55d8dfa10178b2a1cabb20fb0fdcf93fc218472b&v=0)![](https://files.openai.com/content?id=file_000000000ee871fd807d17a056d79aa7&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=1&sig=07ea3990463c5d5c58deba9d55d8dfa10178b2a1cabb20fb0fdcf93fc218472b&v=0)CanvaSearch, create, and edit designs](</business/plugins/canva/>)[![](https://files.openai.com/content?id=file_00000000939071f7bfd24cf1e8d5f5fb&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=6ebfe2cc1f5b0b42e22ad009c72554b104befc2d3e0a54884a6fbfaea2420331&v=0)![](https://files.openai.com/content?id=file_00000000939071f7bfd24cf1e8d5f5fb&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=6ebfe2cc1f5b0b42e22ad009c72554b104befc2d3e0a54884a6fbfaea2420331&v=0)Adobe ExpressCreate flyers, posts, and graphics quickly](</business/plugins/adobe-express/>)[![](https://files.openai.com/content?id=file_000000003d64820c9105c859db57fe4d&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=8&sig=bc9fd0fe7aa6a14439c3dae08ded4377aa99f2dd20e5b52ca3db8dd40fd5d2fc&v=0)![](https://files.openai.com/content?id=file_000000001f3c81fd88149faceddc19df&cdn=1&cp=pi&ma=32659200&ts=0&p=pi&cid=8&sig=f45f28e94aaa8443b2c849d11cfe2c843efe0d98efc51230e2ab72c39610b193&v=0)FigmaMake diagrams, slides, assets](</business/plugins/figma/>)[![](https://files.openai.com/content?id=file_00000000ffac722f987914a6f7db710b&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=26b2c9500db3c7de3659e1e158826d1ced4806f01d50f831132375e3b497a249&v=0)![](https://files.openai.com/content?id=file_00000000aa0081f79505b7d543758347&cdn=1&cp=pi&ma=30499200&ts=0&p=pi&cid=8&sig=73f24d3e0b666fdb3c380b13bb034ddd67e0e42a39ef70031b8401cfe081741c&v=0)CloudinaryManage, modify, and host your images and videos](</business/plugins/cloudinary/>)
 
 ## Get started with plugins
 
@@ -120,10 +120,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -142,7 +142,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -189,6 +190,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

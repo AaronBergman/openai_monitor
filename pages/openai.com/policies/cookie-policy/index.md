@@ -30,7 +30,7 @@ Select language
 
 …
 
-Last updated: September 10, 2026
+Last updated: October 7, 2026
 
 # Cookie policy
 
@@ -52,17 +52,21 @@ These cookies are required to operate our Services. For example, they allow us t
 [OpenAI](<https://openai.com/policies/privacy-policy/>)| oai_disallow_onboarding| 12 hours| Onboarding| platform.openai.com  
 [OpenAI](<https://openai.com/policies/privacy-policy/>)| oai_age_verification_token| 12 hours| Onboarding| platform.openai.com  
 [OpenAI](<https://openai.com/policies/privacy-policy/>)| oai-allow-ne| 6 months| Cookie consent| chatgpt.com  
+[OpenAI](<https://openai.com/policies/privacy-policy/>)| oai-logged-out-consent-chosen| 180 days| Cookie consent| chatgpt.com  
+[OpenAI](<https://openai.com/policies/privacy-policy/>)| oai_pl_permission_state| Session| Service functionality| chatgpt.com  
 [OpenAI](<https://openai.com/policies/privacy-policy/>)| oai-sc| 1 year| Security| chatgpt.com  
 [OpenAI](<https://openai.com/policies/privacy-policy/>)| _account_residency_region| 90 days| Service functionality| chatgpt.com  
-[OpenAI](<https://openai.com/policies/privacy-policy/>)| oai-did| 1 year| Service functionality| chatgpt.com  
+[OpenAI](<https://openai.com/policies/privacy-policy/>)| oai-did| 2 years| Service functionality| chatgpt.com  
 openai.com  
 deploymentsafety.openai.com  
-ads.openai.com  
+[OpenAI](<https://openai.com/policies/privacy-policy/>)| oai-did| 2 years| Service functionality| ads.openai.com  
+[OpenAI](<https://openai.com/policies/privacy-policy/>)| oai-anon-id| 2 years| Service functionality| ads.openai.com  
 [OpenAI](<https://openai.com/policies/privacy-policy/>)| country| 1 year| Service functionality| openai.com  
 [OpenAI](<https://openai.com/policies/privacy-policy/>)| analytics_consent| 1 year| Cookie consent| openai.com  
 ads.openai.com  
 [OpenAI](<https://openai.com/policies/privacy-policy/>)| marketing_consent| 1 year| Cookie consent| openai.com  
 ads.openai.com  
+[OpenAI](<https://openai.com/policies/privacy-policy/>)| marketing_consent_source| 180 days| Cookie consent| ads.openai.com  
 [OpenAI](<https://openai.com/policies/privacy-policy/>)| oai-asli| 6 hours| Service functionality| chatgpt.com  
 [OpenAI](<https://openai.com/policies/privacy-policy/>)| oai-av-seen| 1 day| Onboarding| chatgpt.com  
 [OpenAI](<https://openai.com/policies/privacy-policy/>)| oai-cbi| Session| Service functionality| chatgpt.com  
@@ -134,15 +138,18 @@ chatgpt.com
 openai.com  
 platform.openai.com  
 devday.openai.com  
+ads.openai.com  
 [Cloudflare⁠⁠](<https://www.cloudflare.com/privacypolicy/>)| cf_clearance| 1 year| Security| openai.com  
 chatgpt.com  
 platform.openai.com  
 auth.openai.com  
+ads.openai.com  
 [Cloudflare⁠⁠](<https://www.cloudflare.com/privacypolicy/>)| _cfuvid| Session| Security| openai.com  
 chatgpt.com  
 auth.openai.com  
 platform.openai.com  
-[Cloudflare⁠⁠](<https://www.cloudflare.com/privacypolicy/>)| __cflb| 30 minutes| Security| chatgpt.com  
+ads.openai.com  
+[Cloudflare⁠⁠](<https://www.cloudflare.com/privacypolicy/>)| __cflb| 60 minutes| Security| chatgpt.com  
 auth.openai.com  
 [Stripe⁠⁠⁠](<https://stripe.com/privacy?>)| __stripe_mid| 1 year| Payment| platform.openai.com  
 [Stripe⁠⁠⁠](<https://stripe.com/privacy?>)| __stripe_sid| 30 min| Payment| platform.openai.com  
@@ -285,6 +292,7 @@ chatgpt.com
 [Snapchat](<https://www.snap.com/cookie-policy>)| u_sclid_r| 13 months| Marketing measurement| chatgpt.com  
 [Snapchat](<https://www.snap.com/cookie-policy>)| u_scsid| Session| Marketing measurement| chatgpt.com  
 [Snapchat](<https://www.snap.com/cookie-policy>)| u_scsid_r| Session| Marketing measurement| chatgpt.com  
+[Impact](<https://help.impact.com/brand/what-would-you-like-to-learn-about/platform-features/tracking/tracking-explained/impactcom-cookies-explained>)| im_ref| 7 days| Marketing measurement| chatgpt.com  
   
 ## Managing cookies
 
@@ -323,10 +331,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -345,7 +353,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -363,6 +372,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -391,6 +401,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

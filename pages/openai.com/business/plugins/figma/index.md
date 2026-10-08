@@ -32,7 +32,7 @@ OpenAI
 
 # Figma
 
-Make diagrams, slides, assets.
+Make diagrams, slides, assets
 
 [Install plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_68df038e0ba48191908c8434991bbac2>)[Contact sales](</contact-sales/>)
 
@@ -61,19 +61,19 @@ Transform ideas into production-ready designs, slides, and diagrams by generatin
 
 ![](https://files.openai.com/content?id=file_0000000024f8820c99aca12aa7c4aea1&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=6ad06c130b5f6470718cd9915c35cab9c100ff75092d081b027c90a10102e8c0&v=0)Figma Convert this user journey text into a storyboard layout with frames for key moments and annotations.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Figma+Convert+this+user+journey+text+into+a+storyboard+layout+with+frames+for+key+moments+and+annotations.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_68df038e0ba48191908c8434991bbac2?install&prompt=Convert%20this%20user%20journey%20text%20into%20a%20storyboard%20layout%20with%20frames%20for%20key%20moments%20and%20annotations.&surface=work>)
 
   * ### Produce polished presentations quickly
 
 ![](https://files.openai.com/content?id=file_0000000024f8820c99aca12aa7c4aea1&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=6ad06c130b5f6470718cd9915c35cab9c100ff75092d081b027c90a10102e8c0&v=0)Figma create a competitive analysis deck comparing travel platforms
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Figma+create+a+competitive+analysis+deck+comparing+travel+platforms>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_68df038e0ba48191908c8434991bbac2?install&prompt=create%20a%20competitive%20analysis%20deck%20comparing%20travel%20platforms&surface=work>)
 
   * ### Build diagrams that clarify workflows
 
 ![](https://files.openai.com/content?id=file_0000000024f8820c99aca12aa7c4aea1&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=6ad06c130b5f6470718cd9915c35cab9c100ff75092d081b027c90a10102e8c0&v=0)Figma Create a FigJam flow diagram for our procurement process from request to approval to payment including decision points.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Figma+Create+a+FigJam+flow+diagram+for+our+procurement+process+from+request+to+approval+to+payment+including+decision+points.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_68df038e0ba48191908c8434991bbac2?install&prompt=Create%20a%20FigJam%20flow%20diagram%20for%20our%20procurement%20process%20from%20request%20to%20approval%20to%20payment%20including%20decision%20points.&surface=work>)
 
 
 
@@ -116,7 +116,7 @@ Availability depends on the plugin, your plan, and workspace settings. Some conn
 
 ## Explore related plugins
 
-[![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)Product DesignTurn product ideas into designs and research artifacts.](</business/plugins/product-design/>)[![](https://files.openai.com/content?id=file_00000000bdb4720caff269fd259bbdff&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=20268aaf4f0c92265b5b4945d13a456968c0e1a5013b3be043a94650a9b37e03&v=0)![](https://files.openai.com/content?id=file_00000000bdb4720caff269fd259bbdff&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=20268aaf4f0c92265b5b4945d13a456968c0e1a5013b3be043a94650a9b37e03&v=0)Creative ProductionUse the Creative Production plugin in ChatGPT to create, adapt, and review marketing assets, campaign concepts, ads, and launch creative.](</business/plugins/creative-production/>)[![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)DataTurn data into clear decisions.](</business/plugins/data/>)[![](https://files.openai.com/content?id=file_0000000021547230b7f5dfd4accb4de5&cdn=1&cp=pi&ma=31190400&ts=0&p=pi&cid=1&sig=dea02d9468c390a41124840b9b7cd6f54576f35b34b1ffe98d4ae90668efa963&v=0)![](https://files.openai.com/content?id=file_0000000021547230b7f5dfd4accb4de5&cdn=1&cp=pi&ma=31190400&ts=0&p=pi&cid=1&sig=dea02d9468c390a41124840b9b7cd6f54576f35b34b1ffe98d4ae90668efa963&v=0)LinearFind and reference issues and projects.](</business/plugins/linear/>)[![](https://files.openai.com/content?id=file_000000002684720c81b0d1d022c3dfd2&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=1&sig=4e111632389ebc732936b83f809c131e3a5fa201ca4cb43c8ea9b6fa2d62a87e&v=0)![](https://files.openai.com/content?id=file_00000000cba0822fa2188c4c599f4181&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=1&sig=34a683b818c6593bfcc47dd950aaadc850fbd5861b79f237b4627d27372983d1&v=0)GitHubAccess repositories, issues, and pull requests.](</business/plugins/github/>)[![](https://files.openai.com/content?id=file_00000000b4ec71f6ab8c69f2f285f74b&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=1&sig=20498371312886c59f32c51971b7921d0f0181ec2c93ce77a7bbcc652b6e8d97)![](https://files.openai.com/content?id=file_00000000b4ec71f6ab8c69f2f285f74b&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=1&sig=20498371312886c59f32c51971b7921d0f0181ec2c93ce77a7bbcc652b6e8d97)LovableBuild apps and websites.](</business/plugins/lovable/>)
+[![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)Product DesignTurn product ideas into designs and research artifacts](</business/plugins/product-design/>)[![](https://files.openai.com/content?id=file_00000000bdb4720caff269fd259bbdff&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=20268aaf4f0c92265b5b4945d13a456968c0e1a5013b3be043a94650a9b37e03&v=0)![](https://files.openai.com/content?id=file_00000000bdb4720caff269fd259bbdff&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=20268aaf4f0c92265b5b4945d13a456968c0e1a5013b3be043a94650a9b37e03&v=0)Creative ProductionUse the Creative Production plugin in ChatGPT to create, adapt, and review marketing assets, campaign concepts, ads, and launch creative](</business/plugins/creative-production/>)[![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)DataAnswer questions with data](</business/plugins/data/>)[![](https://files.openai.com/content?id=file_0000000021547230b7f5dfd4accb4de5&cdn=1&cp=pi&ma=31190400&ts=0&p=pi&cid=1&sig=dea02d9468c390a41124840b9b7cd6f54576f35b34b1ffe98d4ae90668efa963&v=0)![](https://files.openai.com/content?id=file_0000000021547230b7f5dfd4accb4de5&cdn=1&cp=pi&ma=31190400&ts=0&p=pi&cid=1&sig=dea02d9468c390a41124840b9b7cd6f54576f35b34b1ffe98d4ae90668efa963&v=0)LinearFind and reference issues and projects](</business/plugins/linear/>)[![](https://files.openai.com/content?id=file_000000002684720c81b0d1d022c3dfd2&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=1&sig=4e111632389ebc732936b83f809c131e3a5fa201ca4cb43c8ea9b6fa2d62a87e&v=0)![](https://files.openai.com/content?id=file_00000000cba0822fa2188c4c599f4181&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=1&sig=34a683b818c6593bfcc47dd950aaadc850fbd5861b79f237b4627d27372983d1&v=0)GitHubAccess repositories, issues, and pull requests](</business/plugins/github/>)[![](https://files.openai.com/content?id=file_00000000b4ec71f6ab8c69f2f285f74b&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=1&sig=20498371312886c59f32c51971b7921d0f0181ec2c93ce77a7bbcc652b6e8d97)![](https://files.openai.com/content?id=file_00000000b4ec71f6ab8c69f2f285f74b&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=1&sig=20498371312886c59f32c51971b7921d0f0181ec2c93ce77a7bbcc652b6e8d97)LovableBuild full-stack apps by chat](</business/plugins/lovable/>)
 
 ## Get started with plugins
 
@@ -134,10 +134,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -156,7 +156,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -203,6 +204,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

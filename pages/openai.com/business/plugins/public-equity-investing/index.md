@@ -32,7 +32,7 @@ OpenAI
 
 # Public Equity Investing
 
-Support company research and deal analysis.
+Public equity research
 
 [Install plugin(opens in a new window)](<https://chatgpt.com/plugins/Plugin_b31b1ece54648191a6760ea4580bba3e>)[Contact sales](</contact-sales/>)
 
@@ -48,11 +48,11 @@ Developer
 Website
     [(opens in a new window)](<https://openai.com/>)
 
-[![](https://files.openai.com/content?id=file_00000000328881f5bcf6af410729fa0d&cdn=1&cp=pi&ma=32486400&ts=0&p=pi&cid=8&sig=ca200c842643e497306fee6a9c4a0ef347d542205e82aafa607f8179d866de43&v=0)Public Equity Investing Build a deep NVIDIA pre-earnings preview: expectations, KPIs, margin debates, scenarios, and management questions.(opens in a new window)](<https://chatgpt.com/?prompt=%40Public+Equity+Investing+Build+a+deep+NVIDIA+pre-earnings+preview%3A+expectations%2C+KPIs%2C+margin+debates%2C+scenarios%2C+and+management+questions.>)
+[![](https://files.openai.com/content?id=file_00000000328881f5bcf6af410729fa0d&cdn=1&cp=pi&ma=32486400&ts=0&p=pi&cid=8&sig=ca200c842643e497306fee6a9c4a0ef347d542205e82aafa607f8179d866de43&v=0)Public Equity Investing Build a deep NVIDIA pre-earnings preview: expectations, KPIs, margin debates, scenarios, and management questions.(opens in a new window)](<https://chatgpt.com/plugins/Plugin_b31b1ece54648191a6760ea4580bba3e?install&prompt=Build%20a%20deep%20NVIDIA%20pre-earnings%20preview%3A%20expectations%2C%20KPIs%2C%20margin%20debates%2C%20scenarios%2C%20and%20management%20questions.>)
 
 ## How it works
 
-Use Public Equity Investing in ChatGPT to support market scans, company research, diligence checklists, IC memos, and portfolio updates with structured analysis for human review.
+Public equity investing workflows for long-only investors, long/short hedge funds, sell-side equity research teams, ETF/index and constituent diligence, event-driven equity investors, and sector/thematic listed-equity research teams. Outputs should surface what is mispriced, what is priced in, what proves or kills the thesis, what to do next, and what evidence is missing. Use Credit Markets for credit instruments, creditworthiness, restructuring, distressed, recovery, spreads, yields, covenants, and debt security analysis.
 
 ## What else can you do?
 
@@ -60,19 +60,19 @@ Use Public Equity Investing in ChatGPT to support market scans, company research
 
 ![](https://files.openai.com/content?id=file_00000000328881f5bcf6af410729fa0d&cdn=1&cp=pi&ma=32486400&ts=0&p=pi&cid=8&sig=ca200c842643e497306fee6a9c4a0ef347d542205e82aafa607f8179d866de43&v=0)Public Equity Investing Build a PM-ready post-earnings deep dive for [TICKER] that separates what beat, what missed, what changed, and what would make us add, trim, or exit.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Public+Equity+Investing+Build+a+PM-ready+post-earnings+deep+dive+for+%5BTICKER%5D+that+separates+what+beat%2C+what+missed%2C+what+changed%2C+and+what+would+make+us+add%2C+trim%2C+or+exit.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/Plugin_b31b1ece54648191a6760ea4580bba3e?install&prompt=Build%20a%20PM-ready%20post-earnings%20deep%20dive%20for%20%5BTICKER%5D%20that%20separates%20what%20beat%2C%20what%20missed%2C%20what%20changed%2C%20and%20what%20would%20make%20us%20add%2C%20trim%2C%20or%20exit.&surface=work>)
 
   * ### Structure diligence workflows
 
 ![](https://files.openai.com/content?id=file_00000000328881f5bcf6af410729fa0d&cdn=1&cp=pi&ma=32486400&ts=0&p=pi&cid=8&sig=ca200c842643e497306fee6a9c4a0ef347d542205e82aafa607f8179d866de43&v=0)Public Equity Investing Turn these diligence notes for [company] into an issue list with workstreams, owners, open questions for management, and evidence still needed.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Public+Equity+Investing+Turn+these+diligence+notes+for+%5Bcompany%5D+into+an+issue+list+with+workstreams%2C+owners%2C+open+questions+for+management%2C+and+evidence+still+needed.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/Plugin_b31b1ece54648191a6760ea4580bba3e?install&prompt=Turn%20these%20diligence%20notes%20for%20%5Bcompany%5D%20into%20an%20issue%20list%20with%20workstreams%2C%20owners%2C%20open%20questions%20for%20management%2C%20and%20evidence%20still%20needed.&surface=work>)
 
   * ### Draft investment materials
 
 ![](https://files.openai.com/content?id=file_00000000328881f5bcf6af410729fa0d&cdn=1&cp=pi&ma=32486400&ts=0&p=pi&cid=8&sig=ca200c842643e497306fee6a9c4a0ef347d542205e82aafa607f8179d866de43&v=0)Public Equity Investing Pressure-test a long thesis on [TICKER] by identifying the variant perception, catalyst path, downside case, sizing guardrails, and thesis breakers.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Public+Equity+Investing+Pressure-test+a+long+thesis+on+%5BTICKER%5D+by+identifying+the+variant+perception%2C+catalyst+path%2C+downside+case%2C+sizing+guardrails%2C+and+thesis+breakers.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/Plugin_b31b1ece54648191a6760ea4580bba3e?install&prompt=Pressure-test%20a%20long%20thesis%20on%20%5BTICKER%5D%20by%20identifying%20the%20variant%20perception%2C%20catalyst%20path%2C%20downside%20case%2C%20sizing%20guardrails%2C%20and%20thesis%20breakers.&surface=work>)
 
 
 
@@ -123,7 +123,7 @@ Availability depends on the plugin, your plan, and workspace settings. Some conn
 
 ## Explore related plugins
 
-[![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)DataTurn data into clear decisions.](</business/plugins/data/>)[![](https://files.openai.com/content?id=file_00000000e4a8720c9b8cba8aaa6e4f70&cdn=1&cp=pi&ma=30672000&ts=0&p=pi&cid=1&sig=d35f6f0a310b11e0360584d048c93f8d76adf2e2f59543a08c73b34c7e02721f&v=0)![](https://files.openai.com/content?id=file_00000000e4a8720c9b8cba8aaa6e4f70&cdn=1&cp=pi&ma=30672000&ts=0&p=pi&cid=1&sig=d35f6f0a310b11e0360584d048c93f8d76adf2e2f59543a08c73b34c7e02721f&v=0)Investment BankingBuild banking analysis and client-ready materials.](</business/plugins/investment-banking/>)[![](https://files.openai.com/content?id=file_00000000af747230bc1606d46c839ee8&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=1&sig=c8a8bc6383ae28c34005525b223aab157382f62b2c5ff707b76f4a38b1b33e32&v=0)![](https://files.openai.com/content?id=file_00000000af747230bc1606d46c839ee8&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=1&sig=c8a8bc6383ae28c34005525b223aab157382f62b2c5ff707b76f4a38b1b33e32&v=0)DaloopaAccess financial KPIs with source links.](</business/plugins/daloopa/>)[![](https://files.openai.com/content?id=file_00000000838c71f689139639dc435b8e&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=8&sig=ded0420cc73fb5c48598cd93c52b4a70df4b0f8445c20c8d1c8c2ecc49f77954&v=0)![](https://files.openai.com/content?id=file_00000000838c71f689139639dc435b8e&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=8&sig=ded0420cc73fb5c48598cd93c52b4a70df4b0f8445c20c8d1c8c2ecc49f77954&v=0)LSEGAccess LSEG financial data for pricing and market analysis.](</business/plugins/lseg/>)[![](https://files.openai.com/content?id=file_000000009c38722f80144f00dd87ea34&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=1&sig=8e9598782d7e36464e64c394a2fecb5ab3bf6b35731be6a16d3b9ec05b080a32&v=0)![](https://files.openai.com/content?id=file_000000003ec881f6aaeecf3f949966e5&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=1c18816d30ee51f5b8365b1c3d420e3b9da7e6f4d0f9830032b871fc457f48f6&v=0)MorningstarAccess live market insights.](</business/plugins/morningstar/>)[![](https://files.openai.com/content?id=file_00000000481081fd8fa0b56b51d4dfa6&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=8&sig=6bebe30dc8d1f4c345fef5b8b23efabdde989bb11c89c7ee921440c96af1211f&v=0)![](https://files.openai.com/content?id=file_00000000481081fd8fa0b56b51d4dfa6&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=8&sig=6bebe30dc8d1f4c345fef5b8b23efabdde989bb11c89c7ee921440c96af1211f&v=0)Interactive Brokers (IBKR)Analyze global markets](</business/plugins/interactive-brokers/>)
+[![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)DataAnswer questions with data](</business/plugins/data/>)[![](https://files.openai.com/content?id=file_00000000e4a8720c9b8cba8aaa6e4f70&cdn=1&cp=pi&ma=30672000&ts=0&p=pi&cid=1&sig=d35f6f0a310b11e0360584d048c93f8d76adf2e2f59543a08c73b34c7e02721f&v=0)![](https://files.openai.com/content?id=file_00000000e4a8720c9b8cba8aaa6e4f70&cdn=1&cp=pi&ma=30672000&ts=0&p=pi&cid=1&sig=d35f6f0a310b11e0360584d048c93f8d76adf2e2f59543a08c73b34c7e02721f&v=0)Investment BankingM&A, valuation, and financing](</business/plugins/investment-banking/>)[![](https://files.openai.com/content?id=file_00000000af747230bc1606d46c839ee8&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=1&sig=c8a8bc6383ae28c34005525b223aab157382f62b2c5ff707b76f4a38b1b33e32&v=0)![](https://files.openai.com/content?id=file_00000000af747230bc1606d46c839ee8&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=1&sig=c8a8bc6383ae28c34005525b223aab157382f62b2c5ff707b76f4a38b1b33e32&v=0)DaloopaFinancial KPIs with links](</business/plugins/daloopa/>)[![](https://files.openai.com/content?id=file_00000000838c71f689139639dc435b8e&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=8&sig=ded0420cc73fb5c48598cd93c52b4a70df4b0f8445c20c8d1c8c2ecc49f77954&v=0)![](https://files.openai.com/content?id=file_00000000838c71f689139639dc435b8e&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=8&sig=ded0420cc73fb5c48598cd93c52b4a70df4b0f8445c20c8d1c8c2ecc49f77954&v=0)LSEGData and analytics](</business/plugins/lseg/>)[![](https://files.openai.com/content?id=file_000000009c38722f80144f00dd87ea34&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=1&sig=8e9598782d7e36464e64c394a2fecb5ab3bf6b35731be6a16d3b9ec05b080a32&v=0)![](https://files.openai.com/content?id=file_000000003ec881f6aaeecf3f949966e5&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=1c18816d30ee51f5b8365b1c3d420e3b9da7e6f4d0f9830032b871fc457f48f6&v=0)MorningstarInvestment and market insights](</business/plugins/morningstar/>)[![](https://files.openai.com/content?id=file_00000000481081fd8fa0b56b51d4dfa6&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=8&sig=6bebe30dc8d1f4c345fef5b8b23efabdde989bb11c89c7ee921440c96af1211f&v=0)![](https://files.openai.com/content?id=file_00000000481081fd8fa0b56b51d4dfa6&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=8&sig=6bebe30dc8d1f4c345fef5b8b23efabdde989bb11c89c7ee921440c96af1211f&v=0)Interactive Brokers (IBKR)Analyze global markets](</business/plugins/interactive-brokers/>)
 
 ## Get started with plugins
 
@@ -141,10 +141,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -163,7 +163,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -210,6 +211,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

@@ -32,7 +32,7 @@ OpenAI
 
 # BigQuery
 
-Explore BigQuery data and generate SQL from natural language.
+Explore BigQuery data and generate SQL from natural language
 
 [Install plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_1p_b1cefad35a80819184ba7ed35d601d34>)[Contact sales](</contact-sales/>)
 
@@ -48,7 +48,7 @@ Developer
 Website
     [(opens in a new window)](<https://cloud.google.com/bigquery>)
 
-[![](https://files.openai.com/content?id=file_00000000dd3481f789a6831e32ea8ef6&cdn=1&cp=pi&ma=32486400&ts=0&p=pi&cid=8&sig=e8f3973722e400f4b80234dd7944f41c5bc7ca178ea9ecc45dadd7d22f438cdf&v=0)BigQuery Find the best dataset and tables for answering this question: [question]. Explain the fields and joins you would use(opens in a new window)](<https://chatgpt.com/?prompt=%40BigQuery+Find+the+best+dataset+and+tables+for+answering+this+question%3A+%5Bquestion%5D.+Explain+the+fields+and+joins+you+would+use>)
+[![](https://files.openai.com/content?id=file_00000000dd3481f789a6831e32ea8ef6&cdn=1&cp=pi&ma=32486400&ts=0&p=pi&cid=8&sig=e8f3973722e400f4b80234dd7944f41c5bc7ca178ea9ecc45dadd7d22f438cdf&v=0)BigQuery Find the best dataset and tables for answering this question: [question]. Explain the fields and joins you would use(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_1p_b1cefad35a80819184ba7ed35d601d34?install&prompt=Find%20the%20best%20dataset%20and%20tables%20for%20answering%20this%20question%3A%20%5Bquestion%5D.%20Explain%20the%20fields%20and%20joins%20you%20would%20use>)
 
 ## How it works
 
@@ -60,19 +60,19 @@ Connect BigQuery to ChatGPT to explore datasets, generate and review SQL, summar
 
 ![](https://files.openai.com/content?id=file_00000000dd3481f789a6831e32ea8ef6&cdn=1&cp=pi&ma=32486400&ts=0&p=pi&cid=8&sig=e8f3973722e400f4b80234dd7944f41c5bc7ca178ea9ecc45dadd7d22f438cdf&v=0)BigQuery Find the best dataset and tables for answering this question: [question]. Explain the fields and joins you would use.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40BigQuery+Find+the+best+dataset+and+tables+for+answering+this+question%3A+%5Bquestion%5D.+Explain+the+fields+and+joins+you+would+use.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_1p_b1cefad35a80819184ba7ed35d601d34?install&prompt=Find%20the%20best%20dataset%20and%20tables%20for%20answering%20this%20question%3A%20%5Bquestion%5D.%20Explain%20the%20fields%20and%20joins%20you%20would%20use.&surface=work>)
 
   * ### Generate and validate SQL
 
 ![](https://files.openai.com/content?id=file_00000000dd3481f789a6831e32ea8ef6&cdn=1&cp=pi&ma=32486400&ts=0&p=pi&cid=8&sig=e8f3973722e400f4b80234dd7944f41c5bc7ca178ea9ecc45dadd7d22f438cdf&v=0)BigQuery Write SQL to calculate [metric] by [dimension] for the last 90 days. Explain the logic and any assumptions.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40BigQuery+Write+SQL+to+calculate+%5Bmetric%5D+by+%5Bdimension%5D+for+the+last+90+days.+Explain+the+logic+and+any+assumptions.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_1p_b1cefad35a80819184ba7ed35d601d34?install&prompt=Write%20SQL%20to%20calculate%20%5Bmetric%5D%20by%20%5Bdimension%5D%20for%20the%20last%2090%20days.%20Explain%20the%20logic%20and%20any%20assumptions.&surface=work>)
 
   * ### Create data-backed summaries
 
 ![](https://files.openai.com/content?id=file_00000000dd3481f789a6831e32ea8ef6&cdn=1&cp=pi&ma=32486400&ts=0&p=pi&cid=8&sig=e8f3973722e400f4b80234dd7944f41c5bc7ca178ea9ecc45dadd7d22f438cdf&v=0)BigQuery Summarize these query results for an executive update, highlighting key changes, anomalies, and follow-up analyses.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40BigQuery+Summarize+these+query+results+for+an+executive+update%2C+highlighting+key+changes%2C+anomalies%2C+and+follow-up+analyses.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_1p_b1cefad35a80819184ba7ed35d601d34?install&prompt=Summarize%20these%20query%20results%20for%20an%20executive%20update%2C%20highlighting%20key%20changes%2C%20anomalies%2C%20and%20follow-up%20analyses.&surface=work>)
 
 
 
@@ -101,7 +101,7 @@ Availability depends on the plugin, your plan, and workspace settings. Some conn
 
 ## Explore related plugins
 
-[![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)DataTurn data into clear decisions.](</business/plugins/data/>)[![](https://files.openai.com/content?id=file_00000000191081f79dfeddb7b502b1bf&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=3e3f6f7a793416cd9a93e61c94c2bd4631dd37631f592d4e774aa254e2b1c9b7&v=0)![](https://files.openai.com/content?id=file_00000000191081f79dfeddb7b502b1bf&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=3e3f6f7a793416cd9a93e61c94c2bd4631dd37631f592d4e774aa254e2b1c9b7&v=0)SalesPrepare account work and customer follow-up.](</business/plugins/sales/>)[![](https://files.openai.com/content?id=file_00000000a7a881f79bd3e0bdaf6f44d8&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=3681847b083c03ec3f94453b15bea76630d8877224f486882867c1affcde9821&v=0)![](https://files.openai.com/content?id=file_00000000a7a881f79bd3e0bdaf6f44d8&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=3681847b083c03ec3f94453b15bea76630d8877224f486882867c1affcde9821&v=0)DBTWork with dbt projects](</business/plugins/dbt/>)[![](https://files.openai.com/content?id=file_000000004e58720cb8bbfc0978e3367e&cdn=1&cp=pi&ma=30758400&ts=0&p=pi&cid=1&sig=1b0376e78ef2e4f6f05a5b9bc138133fa5d468103e983c1f706341fe5f2293a7&v=0)![](https://files.openai.com/content?id=file_00000000c73081f7bf9eb20dcfc0bf64&cdn=1&cp=pi&ma=31363200&ts=0&p=pi&cid=8&sig=d62b12c0280b3d8053803e8a8fdf394b4f0e4e6c9bec46234bcbe8d3c1908747&v=0)Coupler.ioConnect and analyze data from 400+ apps.](</business/plugins/coupler-io/>)[![](https://files.openai.com/content?id=file_00000000305c81f592476d99e3faab61&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=8&sig=64c45bfe23621d0cb193310b6fc5cded6a470a131c891a40a6dca4c7198340d4&v=0)![](https://files.openai.com/content?id=file_00000000dda481f58d27cff6712efd6e&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=8&sig=0f9a40070454550d86b04a4023fefbd1dbcceb54dc9defdb316dfc7467777022&v=0)TableauSee and understand data](</business/plugins/tableau/>)[![](https://files.openai.com/content?id=file_00000000a9a081f78752dfef864b2597&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=18fa18d4c839a23ca63639259d332c2f50d433faa731d9b7755f08c333b78e47&v=0)![](https://files.openai.com/content?id=file_00000000a9a081f78752dfef864b2597&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=18fa18d4c839a23ca63639259d332c2f50d433faa731d9b7755f08c333b78e47&v=0)Google DriveSearch and reference files from your Drive.](</business/plugins/google-drive/>)
+[![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)DataAnswer questions with data](</business/plugins/data/>)[![](https://files.openai.com/content?id=file_00000000191081f79dfeddb7b502b1bf&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=3e3f6f7a793416cd9a93e61c94c2bd4631dd37631f592d4e774aa254e2b1c9b7&v=0)![](https://files.openai.com/content?id=file_00000000191081f79dfeddb7b502b1bf&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=3e3f6f7a793416cd9a93e61c94c2bd4631dd37631f592d4e774aa254e2b1c9b7&v=0)SalesPrepare account work and customer follow-up](</business/plugins/sales/>)[![](https://files.openai.com/content?id=file_00000000a7a881f79bd3e0bdaf6f44d8&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=3681847b083c03ec3f94453b15bea76630d8877224f486882867c1affcde9821&v=0)![](https://files.openai.com/content?id=file_00000000a7a881f79bd3e0bdaf6f44d8&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=3681847b083c03ec3f94453b15bea76630d8877224f486882867c1affcde9821&v=0)DBTWork with dbt projects](</business/plugins/dbt/>)[![](https://files.openai.com/content?id=file_000000004e58720cb8bbfc0978e3367e&cdn=1&cp=pi&ma=30758400&ts=0&p=pi&cid=1&sig=1b0376e78ef2e4f6f05a5b9bc138133fa5d468103e983c1f706341fe5f2293a7&v=0)![](https://files.openai.com/content?id=file_00000000c73081f7bf9eb20dcfc0bf64&cdn=1&cp=pi&ma=31363200&ts=0&p=pi&cid=8&sig=d62b12c0280b3d8053803e8a8fdf394b4f0e4e6c9bec46234bcbe8d3c1908747&v=0)Coupler.ioAnalyze data from 400+ apps](</business/plugins/coupler-io/>)[![](https://files.openai.com/content?id=file_00000000305c81f592476d99e3faab61&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=8&sig=64c45bfe23621d0cb193310b6fc5cded6a470a131c891a40a6dca4c7198340d4&v=0)![](https://files.openai.com/content?id=file_00000000dda481f58d27cff6712efd6e&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=8&sig=0f9a40070454550d86b04a4023fefbd1dbcceb54dc9defdb316dfc7467777022&v=0)TableauSee and understand data](</business/plugins/tableau/>)[![](https://files.openai.com/content?id=file_00000000a9a081f78752dfef864b2597&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=18fa18d4c839a23ca63639259d332c2f50d433faa731d9b7755f08c333b78e47&v=0)![](https://files.openai.com/content?id=file_00000000a9a081f78752dfef864b2597&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=18fa18d4c839a23ca63639259d332c2f50d433faa731d9b7755f08c333b78e47&v=0)Google DriveSearch and reference files from your Drive](</business/plugins/google-drive/>)
 
 ## Get started with plugins
 
@@ -119,10 +119,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -141,7 +141,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -188,6 +189,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 
