@@ -63,12 +63,19 @@ What you can do. Subject to your compliance with these Terms, you may access and
 What you cannot do. You may not use our Services for any illegal, harmful, or abusive activity. For example, you may not:
 
   * Use our Services in a way that infringes, misappropriates or violates anyone’s rights.
+
   * Modify, copy, lease, sell or distribute any of our Services.
+
   * Attempt to or assist anyone to reverse engineer, decompile or discover the source code or underlying components of our Services, including our models, algorithms, or systems (except to the extent this restriction is prohibited by applicable law).
+
   * Automatically or programmatically extract data or Output (defined below).
+
   * Represent that Output was human-generated when it was not.
+
   * Interfere with or disrupt our Services, including circumvent any rate limits or restrictions or bypass any protective measures or safety mitigations we put on our Services.
+
   * Use Output to develop models that compete with OpenAI.
+
 
 
 
@@ -97,9 +104,13 @@ Accuracy. Artificial intelligence and machine learning are rapidly evolving fiel
 When you use our Services you understand and agree:
 
   * Output may not always be accurate. You should not rely on Output from our Services as a sole source of truth or factual information, or as a substitute for professional advice.
+
   * You must evaluate Output for accuracy and appropriateness for your use case, including using human review as appropriate, before using or sharing Output from the Services.
+
   * You must not use any Output relating to a person for any purpose that could have a legal or material impact on that person, such as making credit, educational, employment, housing, insurance, legal, medical, or other important decisions about them. 
+
   * Our Services may provide incomplete, incorrect, or offensive Output that does not represent OpenAI’s views. If Output references any third party products or services, it doesn’t mean the third party endorses or is affiliated with OpenAI.
+
 
 
 
@@ -122,8 +133,11 @@ Changes. We may change our prices from time to time. If we increase our subscrip
 Termination. You are free to stop using our Services at any time. We reserve the right to suspend or terminate your access to our Services or delete your account if we determine:
 
   * You breached these Terms or our [_Usage Policies⁠_ ⁠](<https://openai.com/policies/usage-policies/>).
+
   * We must do so to comply with the law.
+
   * Your use of our Services could cause risk or harm to OpenAI, our users, or anyone else.
+
 
 
 
@@ -187,11 +201,17 @@ Attn: General Counsel / Copyright Agent_
 Written claims concerning copyright infringement must include the following information:
 
   * A physical or electronic signature of the person authorized to act on behalf of the owner of the copyright interest
+
   * A description of the copyrighted work that you claim has been infringed upon
+
   * A description of where the allegedly infringing material is located on our site so we can find it
+
   * Your address, telephone number, and e-mail address
+
   * A statement by you that you have a good-faith belief that the disputed use is not authorized by the copyright owner, its agent, or the law
+
   * A statement by you that the above information in your notice is accurate and, under penalty of perjury, that you are the copyright owner or authorized to act on the copyright owner’s behalf
+
 
 
 
@@ -202,10 +222,15 @@ Assignment. You may not assign or transfer any rights or obligations under these
 Changes to these Terms or our Services. We are continuously working to develop and improve our Services. We may update these Terms or our Services accordingly from time to time. For example, we may make changes to these Terms or the Services due to:
 
   * Changes to the law or regulatory requirements.
+
   * Security or safety reasons.
+
   * Circumstances beyond our reasonable control.
+
   * Changes we make in the usual course of developing our Services.
+
   * To adapt to new technologies.
+
 
 
 
@@ -229,9 +254,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -250,7 +276,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -268,6 +295,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -296,6 +324,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

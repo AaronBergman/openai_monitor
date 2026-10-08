@@ -48,7 +48,7 @@ Developer
 Website
     [(opens in a new window)](<https://openai.com/>)
 
-[![](https://files.openai.com/content?id=file_0000000009fc8230ae12def58fd21498&cdn=1&cp=pi&ma=31795200&ts=0&p=pi&cid=8&sig=53a717b0a4fcf0f30e3b83fe039ee627c9036c8a1c7d7c78c5f5c722f11ba1fb&v=0)Codex Security Run a Codex Security scan on this repository.(opens in a new window)](<https://chatgpt.com/?prompt=%40Codex+Security+Run+a+Codex+Security+scan+on+this+repository.>)
+[![](https://files.openai.com/content?id=file_00000000970c81f58269d6e931c58865&cdn=1&cp=pi&ma=31795200&ts=0&p=pi&cid=8&sig=956706c13da922daa745235bb1bd8234b76bcbe7c6e0654b6dfaf13aa756bff9&v=0)Codex Security Run a Codex Security scan on this repository.(opens in a new window)](<https://chatgpt.com/plugins/Plugin_1e648473be9c8191a91ac3947151af55?install&prompt=Run%20a%20Codex%20Security%20scan%20on%20this%20repository.>)
 
 ## How it works
 
@@ -58,21 +58,21 @@ Codex Security packages reusable workflows for security scans, analysis, validat
 
   * ### Scan a repository
 
-![](https://files.openai.com/content?id=file_0000000009fc8230ae12def58fd21498&cdn=1&cp=pi&ma=31795200&ts=0&p=pi&cid=8&sig=53a717b0a4fcf0f30e3b83fe039ee627c9036c8a1c7d7c78c5f5c722f11ba1fb&v=0)Codex Security Run a Codex Security scan on this repository.
+![](https://files.openai.com/content?id=file_00000000970c81f58269d6e931c58865&cdn=1&cp=pi&ma=31795200&ts=0&p=pi&cid=8&sig=956706c13da922daa745235bb1bd8234b76bcbe7c6e0654b6dfaf13aa756bff9&v=0)Codex Security Run a Codex Security scan on this repository.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Codex+Security+Run+a+Codex+Security+scan+on+this+repository.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/Plugin_1e648473be9c8191a91ac3947151af55?install&prompt=Run%20a%20Codex%20Security%20scan%20on%20this%20repository.&surface=work>)
 
   * ### Review a code change
 
-![](https://files.openai.com/content?id=file_0000000009fc8230ae12def58fd21498&cdn=1&cp=pi&ma=31795200&ts=0&p=pi&cid=8&sig=53a717b0a4fcf0f30e3b83fe039ee627c9036c8a1c7d7c78c5f5c722f11ba1fb&v=0)Codex Security Run a Codex Security diff scan on this PR, commit, branch diff, or working-tree patch.
+![](https://files.openai.com/content?id=file_00000000970c81f58269d6e931c58865&cdn=1&cp=pi&ma=31795200&ts=0&p=pi&cid=8&sig=956706c13da922daa745235bb1bd8234b76bcbe7c6e0654b6dfaf13aa756bff9&v=0)Codex Security Run a Codex Security diff scan on this PR, commit, branch diff, or working-tree patch.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Codex+Security+Run+a+Codex+Security+diff+scan+on+this+PR%2C+commit%2C+branch+diff%2C+or+working-tree+patch.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/Plugin_1e648473be9c8191a91ac3947151af55?install&prompt=Run%20a%20Codex%20Security%20diff%20scan%20on%20this%20PR%2C%20commit%2C%20branch%20diff%2C%20or%20working-tree%20patch.&surface=work>)
 
   * ### Triage security findings
 
-![](https://files.openai.com/content?id=file_0000000009fc8230ae12def58fd21498&cdn=1&cp=pi&ma=31795200&ts=0&p=pi&cid=8&sig=53a717b0a4fcf0f30e3b83fe039ee627c9036c8a1c7d7c78c5f5c722f11ba1fb&v=0)Codex Security Triage existing security findings against this repository.
+![](https://files.openai.com/content?id=file_00000000970c81f58269d6e931c58865&cdn=1&cp=pi&ma=31795200&ts=0&p=pi&cid=8&sig=956706c13da922daa745235bb1bd8234b76bcbe7c6e0654b6dfaf13aa756bff9&v=0)Codex Security Triage existing security findings against this repository.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Codex+Security+Triage+existing+security+findings+against+this+repository.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/Plugin_1e648473be9c8191a91ac3947151af55?install&prompt=Triage%20existing%20security%20findings%20against%20this%20repository.&surface=work>)
 
 
 
@@ -83,7 +83,7 @@ Codex Security packages reusable workflows for security scans, analysis, validat
 
   * ![](https://files.openai.com/content?id=file_00000000f57481f782376239ec97fccc&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=8&sig=58423f234334c469d2c438c2aa25cf1a8758dd5bb046fc6280a0bcff00caaea0&v=0)Linear
   * ![](https://chatgpt.com/images/ecosystem/apps/github/icon.png)GitHub
-  * ![](https://files.openai.com/content?id=file_0000000047ec71fd9fc8f0169e4e45ba&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=8&sig=6316c8fcb3b9bf5eeca9aad7850052e780d7241adabde2abeaf644a4ef8c0152&v=0)Atlassian Rovo (Legacy)
+  * ![](https://files.openai.com/content?id=file_00000000283c820da5a336f9b88011ab&cdn=1&cp=pi&ma=30758400&ts=0&p=pi&cid=8&sig=b0399c87d86eb1dba6f13bf5d798ce1a7a8b8632fee8fcf006542b386c09bbde&v=0)Atlassian
 
 
 
@@ -117,7 +117,7 @@ Availability depends on the plugin, your plan, and workspace settings. Some conn
 
 ## Explore related plugins
 
-[![](https://files.openai.com/content?id=file_000000002684720c81b0d1d022c3dfd2&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=1&sig=4e111632389ebc732936b83f809c131e3a5fa201ca4cb43c8ea9b6fa2d62a87e&v=0)![](https://files.openai.com/content?id=file_00000000cba0822fa2188c4c599f4181&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=1&sig=34a683b818c6593bfcc47dd950aaadc850fbd5861b79f237b4627d27372983d1&v=0)GitHubAccess repositories, issues, and pull requests.](</business/plugins/github/>)[![](https://files.openai.com/content?id=file_00000000a31481f7bc1bcb0bfe0ae8cf&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=8&sig=edb1998ae92a122af0eaecb091cce62b0609ff692ca7792e11bb72dc0770f3d2&v=0)![](https://files.openai.com/content?id=file_00000000a31481f7bc1bcb0bfe0ae8cf&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=8&sig=edb1998ae92a122af0eaecb091cce62b0609ff692ca7792e11bb72dc0770f3d2&v=0)GitLab (Beta)Triage GitLab MRs and CI/CD](</business/plugins/gitlab/>)[![](https://files.openai.com/content?id=file_0000000021547230b7f5dfd4accb4de5&cdn=1&cp=pi&ma=31190400&ts=0&p=pi&cid=1&sig=dea02d9468c390a41124840b9b7cd6f54576f35b34b1ffe98d4ae90668efa963&v=0)![](https://files.openai.com/content?id=file_0000000021547230b7f5dfd4accb4de5&cdn=1&cp=pi&ma=31190400&ts=0&p=pi&cid=1&sig=dea02d9468c390a41124840b9b7cd6f54576f35b34b1ffe98d4ae90668efa963&v=0)LinearFind and reference issues and projects.](</business/plugins/linear/>)[![](https://files.openai.com/content?id=file_00000000238871fd8a6d0e8b39d07333&cdn=1&cp=pi&ma=31881600&ts=0&p=pi&cid=1&sig=f6f77664b5f021ed2675c55ea22ee8ed05fd5519ca4c4ec7eda953fb9aa0293a&v=0)![](https://files.openai.com/content?id=file_00000000238871fd8a6d0e8b39d07333&cdn=1&cp=pi&ma=31881600&ts=0&p=pi&cid=1&sig=f6f77664b5f021ed2675c55ea22ee8ed05fd5519ca4c4ec7eda953fb9aa0293a&v=0)DatadogQuery and visualize data](</business/plugins/datadog/>)[![](https://files.openai.com/content?id=file_00000000f780722f8a9baa96189f5ebc&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=1&sig=6d6ef2877fac111a5e56c154a748e03ea171f20341cbab7e1ebe547c412900f8&v=0)![](https://files.openai.com/content?id=file_00000000f780722f8a9baa96189f5ebc&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=1&sig=6d6ef2877fac111a5e56c154a748e03ea171f20341cbab7e1ebe547c412900f8&v=0)VantaSecurity and compliance](</business/plugins/vanta/>)[![](https://files.openai.com/content?id=file_000000004c0c81f78746051c8894e9f0&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=94634a13f89821846ddbbbaa5e99aadc55c2198ec4b4dbd453217f71362d0950&v=0)![](https://files.openai.com/content?id=file_000000004c0c81f78746051c8894e9f0&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=94634a13f89821846ddbbbaa5e99aadc55c2198ec4b4dbd453217f71362d0950&v=0)DocumentsCreate and edit documents](</business/plugins/documents/>)
+[![](https://files.openai.com/content?id=file_000000002684720c81b0d1d022c3dfd2&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=1&sig=4e111632389ebc732936b83f809c131e3a5fa201ca4cb43c8ea9b6fa2d62a87e&v=0)![](https://files.openai.com/content?id=file_00000000cba0822fa2188c4c599f4181&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=1&sig=34a683b818c6593bfcc47dd950aaadc850fbd5861b79f237b4627d27372983d1&v=0)GitHubAccess repositories, issues, and pull requests](</business/plugins/github/>)[![](https://files.openai.com/content?id=file_00000000a31481f7bc1bcb0bfe0ae8cf&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=8&sig=edb1998ae92a122af0eaecb091cce62b0609ff692ca7792e11bb72dc0770f3d2&v=0)![](https://files.openai.com/content?id=file_00000000a31481f7bc1bcb0bfe0ae8cf&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=8&sig=edb1998ae92a122af0eaecb091cce62b0609ff692ca7792e11bb72dc0770f3d2&v=0)GitLab (Beta)Triage GitLab MRs and CI/CD](</business/plugins/gitlab/>)[![](https://files.openai.com/content?id=file_0000000021547230b7f5dfd4accb4de5&cdn=1&cp=pi&ma=31190400&ts=0&p=pi&cid=1&sig=dea02d9468c390a41124840b9b7cd6f54576f35b34b1ffe98d4ae90668efa963&v=0)![](https://files.openai.com/content?id=file_0000000021547230b7f5dfd4accb4de5&cdn=1&cp=pi&ma=31190400&ts=0&p=pi&cid=1&sig=dea02d9468c390a41124840b9b7cd6f54576f35b34b1ffe98d4ae90668efa963&v=0)LinearFind and reference issues and projects](</business/plugins/linear/>)[![](https://files.openai.com/content?id=file_00000000238871fd8a6d0e8b39d07333&cdn=1&cp=pi&ma=31881600&ts=0&p=pi&cid=1&sig=f6f77664b5f021ed2675c55ea22ee8ed05fd5519ca4c4ec7eda953fb9aa0293a&v=0)![](https://files.openai.com/content?id=file_00000000238871fd8a6d0e8b39d07333&cdn=1&cp=pi&ma=31881600&ts=0&p=pi&cid=1&sig=f6f77664b5f021ed2675c55ea22ee8ed05fd5519ca4c4ec7eda953fb9aa0293a&v=0)DatadogQuery and visualize data](</business/plugins/datadog/>)[![](https://files.openai.com/content?id=file_00000000f780722f8a9baa96189f5ebc&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=1&sig=6d6ef2877fac111a5e56c154a748e03ea171f20341cbab7e1ebe547c412900f8&v=0)![](https://files.openai.com/content?id=file_00000000f780722f8a9baa96189f5ebc&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=1&sig=6d6ef2877fac111a5e56c154a748e03ea171f20341cbab7e1ebe547c412900f8&v=0)VantaSecurity and compliance](</business/plugins/vanta/>)[![](https://files.openai.com/content?id=file_000000004c0c81f78746051c8894e9f0&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=94634a13f89821846ddbbbaa5e99aadc55c2198ec4b4dbd453217f71362d0950&v=0)![](https://files.openai.com/content?id=file_000000004c0c81f78746051c8894e9f0&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=94634a13f89821846ddbbbaa5e99aadc55c2198ec4b4dbd453217f71362d0950&v=0)DocumentsCreate and edit documents](</business/plugins/documents/>)
 
 ## Get started with plugins
 
@@ -135,10 +135,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -157,7 +157,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -204,6 +205,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

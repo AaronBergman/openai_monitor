@@ -32,12 +32,9 @@ OpenAI
 
 # Zoom
 
-Smart meeting insights from Zoom.
+Insights from Zoom
 
 [Install plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69373a13116c819189d046aea1278836>)[Contact sales](</contact-sales/>)
-
-Capabilities
-    Interactive, Read, Write
 
 Category
     [Productivity](</business/plugins/?tab=plugins-productivity>)
@@ -48,7 +45,7 @@ Developer
 Website
     [(opens in a new window)](<https://zoom.us>)
 
-[![](https://files.openai.com/content?id=file_000000007f1c71f586a9c1c2a3cbe53b&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=4a30a6989c4c64e3532773e01bb9d858671cb03f5b73ca1b0e82ff38e48e18ba&v=0)Zoom Search my recent Zoom meetings for the discussion about pricing.(opens in a new window)](<https://chatgpt.com/?prompt=%40Zoom+Search+my+recent+Zoom+meetings+for+the+discussion+about+pricing.>)
+[![](https://files.openai.com/content?id=file_000000007f1c71f586a9c1c2a3cbe53b&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=4a30a6989c4c64e3532773e01bb9d858671cb03f5b73ca1b0e82ff38e48e18ba&v=0)Zoom Can you provide me with a recap of the meeting this afternoon?(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69373a13116c819189d046aea1278836?install&prompt=Can%20you%20provide%20me%20with%20a%20recap%20of%20the%20meeting%20this%20afternoon%3F>)
 
 ## How it works
 
@@ -60,19 +57,19 @@ Bring Zoom’s meeting intelligence, powered by Zoom AI Companion, directly into
 
 ![](https://files.openai.com/content?id=file_000000007f1c71f586a9c1c2a3cbe53b&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=4a30a6989c4c64e3532773e01bb9d858671cb03f5b73ca1b0e82ff38e48e18ba&v=0)Zoom Build an agenda and pre-read for my 30 minute customer check in and create a Zoom Doc with it.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Zoom+Build+an+agenda+and+pre-read+for+my+30+minute+customer+check+in+and+create+a+Zoom+Doc+with+it.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69373a13116c819189d046aea1278836?install&prompt=Build%20an%20agenda%20and%20pre-read%20for%20my%2030%20minute%20customer%20check%20in%20and%20create%20a%20Zoom%20Doc%20with%20it.&surface=work>)
 
   * ### Surface actionable meeting insights
 
 ![](https://files.openai.com/content?id=file_000000007f1c71f586a9c1c2a3cbe53b&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=4a30a6989c4c64e3532773e01bb9d858671cb03f5b73ca1b0e82ff38e48e18ba&v=0)Zoom Extract action items from the transcript and format them as a checklist I can paste into a project tracker.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Zoom+Extract+action+items+from+the+transcript+and+format+them+as+a+checklist+I+can+paste+into+a+project+tracker.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69373a13116c819189d046aea1278836?install&prompt=Extract%20action%20items%20from%20the%20transcript%20and%20format%20them%20as%20a%20checklist%20I%20can%20paste%20into%20a%20project%20tracker.&surface=work>)
 
   * ### Create and manage content in one place
 
 ![](https://files.openai.com/content?id=file_000000007f1c71f586a9c1c2a3cbe53b&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=4a30a6989c4c64e3532773e01bb9d858671cb03f5b73ca1b0e82ff38e48e18ba&v=0)Zoom Create a weekly summary across all my meetings with the top 5 themes and the most repeated risks.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Zoom+Create+a+weekly+summary+across+all+my+meetings+with+the+top+5+themes+and+the+most+repeated+risks.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69373a13116c819189d046aea1278836?install&prompt=Create%20a%20weekly%20summary%20across%20all%20my%20meetings%20with%20the%20top%205%20themes%20and%20the%20most%20repeated%20risks.&surface=work>)
 
 
 
@@ -82,20 +79,6 @@ Bring Zoom’s meeting intelligence, powered by Zoom AI Companion, directly into
 ### App
 
   * ![](https://files.openai.com/content?id=file_00000000aa9071f59db729d014a2c122&cdn=1&cp=pi&ma=31795200&ts=0&p=pi&cid=1&sig=6709f94e3d491849be21f21c311321cfd336dd2079d72129fb55b6b76e78464e&v=0)Zoom
-
-
-
-### Skills
-
-  * /build-zoom-bot
-  * /build-zoom-meeting-app
-  * Choose Zoom Approach
-  * Zoom Cobrowse SDK
-  * Build Zoom Contact Center App
-  * /debug-zoom
-  * Debug Zoom Integration
-  * Zoom General
-  * 19 more
 
 
 
@@ -115,7 +98,7 @@ Availability depends on the plugin, your plan, and workspace settings. Some conn
 
 ## Explore related plugins
 
-[![](https://files.openai.com/content?id=file_00000000191081f79dfeddb7b502b1bf&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=3e3f6f7a793416cd9a93e61c94c2bd4631dd37631f592d4e774aa254e2b1c9b7&v=0)![](https://files.openai.com/content?id=file_00000000191081f79dfeddb7b502b1bf&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=3e3f6f7a793416cd9a93e61c94c2bd4631dd37631f592d4e774aa254e2b1c9b7&v=0)SalesPrepare account work and customer follow-up.](</business/plugins/sales/>)[![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)Product DesignTurn product ideas into designs and research artifacts.](</business/plugins/product-design/>)[![](https://files.openai.com/content?id=file_000000004f54720ca95439ac98f37bec&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=1&sig=e5d7098d5c3c07aa0e3d229476b0a0547fedb672feb751b0d0aa455dd84a6c33&v=0)![](https://files.openai.com/content?id=file_000000004f54720ca95439ac98f37bec&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=1&sig=e5d7098d5c3c07aa0e3d229476b0a0547fedb672feb751b0d0aa455dd84a6c33&v=0)Google CalendarLook up events and availability.](</business/plugins/google-calendar/>)[![](https://files.openai.com/content?id=file_00000000a9a081f78752dfef864b2597&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=18fa18d4c839a23ca63639259d332c2f50d433faa731d9b7755f08c333b78e47&v=0)![](https://files.openai.com/content?id=file_00000000a9a081f78752dfef864b2597&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=18fa18d4c839a23ca63639259d332c2f50d433faa731d9b7755f08c333b78e47&v=0)Google DriveSearch and reference files from your Drive.](</business/plugins/google-drive/>)[![](https://files.openai.com/content?id=file_000000004a50722f96089a32eeed297c&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=1&sig=07807a7cbefb19d9cd968741565427527585e02f13335ddd46129d77e9dfe317&v=0)![](https://files.openai.com/content?id=file_0000000072dc81f69476895c0081c9c6&cdn=1&cp=pi&ma=31363200&ts=0&p=pi&cid=8&sig=ae98e7cc8005841970b2d7697ed1cfd38a1f393c65889c0de686c5db7b93da03&v=0)AsanaTurn Asana tasks into clear updates and plans.](</business/plugins/asana/>)[![](https://files.openai.com/content?id=file_00000000994081fd9df560367dfe54f4&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=8&sig=55e9028947fbc7ea3284b715ca95e34f797efbc5c4e0e47a9b2b0509d787308d&v=0)![](https://files.openai.com/content?id=file_00000000994081fd9df560367dfe54f4&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=8&sig=55e9028947fbc7ea3284b715ca95e34f797efbc5c4e0e47a9b2b0509d787308d&v=0)SlackLook up chats and messages.](</business/plugins/slack/>)
+[![](https://files.openai.com/content?id=file_00000000191081f79dfeddb7b502b1bf&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=3e3f6f7a793416cd9a93e61c94c2bd4631dd37631f592d4e774aa254e2b1c9b7&v=0)![](https://files.openai.com/content?id=file_00000000191081f79dfeddb7b502b1bf&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=3e3f6f7a793416cd9a93e61c94c2bd4631dd37631f592d4e774aa254e2b1c9b7&v=0)SalesPrepare account work and customer follow-up](</business/plugins/sales/>)[![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)Product DesignTurn product ideas into designs and research artifacts](</business/plugins/product-design/>)[![](https://files.openai.com/content?id=file_000000004f54720ca95439ac98f37bec&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=1&sig=e5d7098d5c3c07aa0e3d229476b0a0547fedb672feb751b0d0aa455dd84a6c33&v=0)![](https://files.openai.com/content?id=file_000000004f54720ca95439ac98f37bec&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=1&sig=e5d7098d5c3c07aa0e3d229476b0a0547fedb672feb751b0d0aa455dd84a6c33&v=0)Google CalendarLook up events and availability](</business/plugins/google-calendar/>)[![](https://files.openai.com/content?id=file_00000000a9a081f78752dfef864b2597&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=18fa18d4c839a23ca63639259d332c2f50d433faa731d9b7755f08c333b78e47&v=0)![](https://files.openai.com/content?id=file_00000000a9a081f78752dfef864b2597&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=18fa18d4c839a23ca63639259d332c2f50d433faa731d9b7755f08c333b78e47&v=0)Google DriveSearch and reference files from your Drive](</business/plugins/google-drive/>)[![](https://files.openai.com/content?id=file_000000004a50722f96089a32eeed297c&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=1&sig=07807a7cbefb19d9cd968741565427527585e02f13335ddd46129d77e9dfe317&v=0)![](https://files.openai.com/content?id=file_0000000072dc81f69476895c0081c9c6&cdn=1&cp=pi&ma=31363200&ts=0&p=pi&cid=8&sig=ae98e7cc8005841970b2d7697ed1cfd38a1f393c65889c0de686c5db7b93da03&v=0)AsanaTurn Asana tasks into clear updates and plans](</business/plugins/asana/>)[![](https://files.openai.com/content?id=file_00000000994081fd9df560367dfe54f4&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=8&sig=55e9028947fbc7ea3284b715ca95e34f797efbc5c4e0e47a9b2b0509d787308d&v=0)![](https://files.openai.com/content?id=file_00000000994081fd9df560367dfe54f4&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=8&sig=55e9028947fbc7ea3284b715ca95e34f797efbc5c4e0e47a9b2b0509d787308d&v=0)SlackLook up chats and messages](</business/plugins/slack/>)
 
 ## Get started with plugins
 
@@ -133,10 +116,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -155,7 +138,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -202,6 +186,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

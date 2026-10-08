@@ -1,5 +1,47 @@
 # openai_monitor
 
+## 2026-10-08T09-16Z
+
+**Fetch time:** 2026-10-08T09:17Z (sitemap + 792 pages) UTC | **Baseline:** 2026-09-28T09-17Z (**10-day gap** — no runs Sep 29–Oct 7, so this covers DevDay 2026 and its aftermath)
+
+**TL;DR:** A big catch-up run. 37 new pages and one removal, 755 updated timestamps, almost all from a site-wide nav/footer refresh (GPT-5.4 → "GPT-6.1 Sol" in the footer, new "Dots" and "OpenAI Status" links). Headline content: GPT-6 and "Intelligent UI" rolled out to all ChatGPT users, a cheaper GPT-6.1 Sol, "dots" (24/7 cloud agents), a DevDay 2026 recap, a new ChatGPT ad format, and a disclosure of a coordinated model-distillation campaign.
+
+### Anomalies
+
+- **Reappeared:** [`/business/plugins/alpaca/`](pages/openai.com/business/plugins/alpaca/index.md) (gone since the Sep 24 run) and [`/policies/row-privacy-policy/`](pages/openai.com/policies/row-privacy-policy/index.md) (absent since the Sep 22 run), both back in the sitemap.
+- **Sub-sitemap migrations (5):** three `/index/` business-guide posts (ai-adoption → learn-guides), `/index/builders-guide-to-gpt-5-6/` (applied-ai → learn-guides), and `/business/plugins/box/` (legal/operations → productivity). A new `learn-guides` bucket seems to be collecting guide-style articles.
+- No future-dated or backwards `<lastmod>` values.
+
+Full detail in [`runs/2026-10-08T09-16Z/analysis.md`](runs/2026-10-08T09-16Z/analysis.md).
+
+### Notable additions
+
+- [`/index/gpt-6-for-everyone/`](pages/openai.com/index/gpt-6-for-everyone/index.md) — new GPT-6 model for all ~1.2B weekly ChatGPT users, with "Intelligent UI" (answers as interactive interfaces).
+- [`/index/introducing-gpt-6-1-sol/`](pages/openai.com/index/introducing-gpt-6-1-sol/index.md) — near-Astra capability on agentic coding/computer use at about one-fifth the token price; cached input $0.10/M. Guide: [`practical-guide-building-gpt-6`](pages/openai.com/index/practical-guide-building-gpt-6/index.md).
+- [`/index/introducing-dots/`](pages/openai.com/index/introducing-dots/index.md) — "dots": GPT-6 Astra agents with their own cloud computer, 4,000+ app plugins, via ChatGPT/Slack/Teams.
+- [`/index/devday-2026-recap/`](pages/openai.com/index/devday-2026-recap/index.md) and [`/devday/2026/`](pages/openai.com/devday/2026/index.md) — 20+ announcements across ChatGPT, Codex, models.
+- [`/index/disrupting-a-coordinated-model-distillation-campaign/`](pages/openai.com/index/disrupting-a-coordinated-model-distillation-campaign/index.md) — OpenAI says it disrupted an effort (earliest activity early July) to extract protected reasoning from its models; no encryption broken or user data accessed.
+- [`/index/new-chatgpt-ads-format-and-measurement/`](pages/openai.com/index/new-chatgpt-ads-format-and-measurement/index.md) — new visual ad format, measurement tools, brand-suitability work.
+- [`/index/eu-text-provenance/`](pages/openai.com/index/eu-text-provenance/index.md) — opt-in text watermarking for select API models, tied to EU AI Act.
+- [`/index/towards-safety-cases-for-frontier-ai-training/`](pages/openai.com/index/towards-safety-cases-for-frontier-ai-training/index.md), [`/index/sharing-ai-progress-in-mathematics/`](pages/openai.com/index/sharing-ai-progress-in-mathematics/index.md), [`/index/teens-learn-and-plan/`](pages/openai.com/index/teens-learn-and-plan/index.md), [`/business/marketplace/`](pages/openai.com/business/marketplace/index.md), [`/codex-originals/`](pages/openai.com/codex-originals/index.md), Sign in with ChatGPT [terms](pages/openai.com/policies/sign-in-with-chatgpt-terms/index.md) + interest form.
+- Customer stories: Atlassian, Radisson, Albertsons, Chatham, Jump Trading, Basis, The Den, Ironclad, Lenfest, plus plugins Sandstone/Spacefast. Essay [`the-eternal-complement`](pages/openai.com/index/the-eternal-complement/index.md) opens a "next economy" series on an independent-voices platform.
+
+### Notable updates
+
+- **Site-wide footer/nav (~752 pages):** "GPT-5.4" → "GPT-6.1 Sol", GPT-6 relabeled "GPT-6 Astra", added "Dots" and "OpenAI Status", Codex link now to chatgpt.com/codex; Plugins link reached 188 more pages.
+- [`/policies/privacy-policy/`](pages/openai.com/policies/privacy-policy/index.md): "Updated" May 18 → Sep 10, 2026; intro now says "tools like ChatGPT" (Sora no longer named).
+- [`/index/learning-to-reason-with-llms/`](pages/openai.com/index/learning-to-reason-with-llms/index.md) (o1 post): legacy banner — o1-preview/o1-mini retired, o1 deprecated; similar large edits on the o3/o4-mini and thinking-with-images posts.
+- [`/business/pricing/`](pages/openai.com/business/pricing/index.md): adds Dots rows, drops Canvas.
+- [`/products/release-notes/`](pages/openai.com/products/release-notes/index.md): Oct 5 — self-serve HIPAA/BAA for API orgs.
+
+### Removed pages
+
+- `/form/ultrafast/` — Ultrafast mode waitlist (GPT-5.6 Sol on Cerebras, up to 750 tokens/s); last copy in git history.
+
+_Stats: 2021 total URLs | 37 added | 755 updated | 1 removed | 7 anomalies | 42 sub-sitemaps_
+
+---
+
 ## 2026-09-28T09-17Z
 
 **Fetch time:** 2026-09-28T09:17Z (sitemap + 35 pages) UTC | **Baseline:** 2026-09-27T09-16Z (consecutive day)

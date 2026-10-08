@@ -32,7 +32,7 @@ OpenAI
 
 # vidIQ
 
-YouTube stats and keywords
+Grow on YouTube, IG & TikTok
 
 [Install plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69dd11f3e50c8191b1ca48d03cf7e2ad>)[Contact sales](</contact-sales/>)
 
@@ -45,29 +45,31 @@ Developer
 Website
     [(opens in a new window)](<https://vidiq.com>)
 
+[![](https://files.openai.com/content?id=file_00000000c15081fb859b4b3326e155b1&cdn=1&cp=pi&ma=31968000&ts=0&p=pi&cid=8&sig=22e34533fa297a8820159b6de1b13241713b3adcab1d4038ca4e82d4dc2e6188&v=0)vidIQ Find me videos breaking out in my niche.(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69dd11f3e50c8191b1ca48d03cf7e2ad?install&prompt=Find%20me%20videos%20breaking%20out%20in%20my%20niche.>)
+
 ## How it works
 
-vidIQ gives you instant access to channel analytics, video performance data, keyword research, and SEO scores. Ask about any channel's stats, find high-ranking keywords for your next YouTube video, analyze competitors, discover trending topics, and get data-backed recommendations to grow your audience. Whether you're planning content, optimizing titles and tags, or tracking how your videos perform on YouTube, vidIQ brings the data you need directly into the conversation. Built for creators, marketers, and anyone who wants to make smarter decisions about video content.
+Find your next video idea, learn from other creators, and improve your content with vidIQ in ChatGPT. With vidIQ, you can: • Find ideas and study competitors: discover videos outperforming their creators’ usual results on YouTube, Instagram and TikTok. Find similar YouTube channels and explore their uploads. • Check demand before filming: compare YouTube keyword search estimates and competition, explore related terms, and see views-per-hour trends where available. • Understand your channel and audience: review YouTube views, watch time, retention and traffic sources. Explore comments for questions and ideas for your next video. • Learn from other videos: break down hooks, structure and key moments with YouTube transcripts and visual analysis of videos, Shorts, Instagram Reels and TikToks. • Improve your titles and thumbnails: get feedback on YouTube titles and thumbnails, generate alternative titles, and compare vidIQ scores before choosing what to test. • Create and repurpose content: write scripts, generate creative assets, and turn long videos into vertical clips for YouTube Shorts, Instagram Reels and TikTok.
 
 ## What else can you do?
 
   * ### Review channel performance
 
-![](https://files.openai.com/content?id=file_00000000d41471f79288ee9a703efc57&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=8&sig=d9015c631421e6f8f211dd8676aea7c4a093ff2bd742115c1feaad628f71012b&v=0)![](https://files.openai.com/content?id=file_00000000d41471f79288ee9a703efc57&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=8&sig=d9015c631421e6f8f211dd8676aea7c4a093ff2bd742115c1feaad628f71012b&v=0)vidIQ Analyze this channel's recent video performance. Compare views and available engagement metrics, then identify the topics worth testing next.
+![](https://files.openai.com/content?id=file_00000000c15081fb859b4b3326e155b1&cdn=1&cp=pi&ma=31968000&ts=0&p=pi&cid=8&sig=22e34533fa297a8820159b6de1b13241713b3adcab1d4038ca4e82d4dc2e6188&v=0)vidIQ Analyze this channel's recent video performance. Compare views and available engagement metrics, then identify the topics worth testing next.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40vidIQ+Analyze+this+channel%27s+recent+video+performance.+Compare+views+and+available+engagement+metrics%2C+then+identify+the+topics+worth+testing+next.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69dd11f3e50c8191b1ca48d03cf7e2ad?install&prompt=Analyze%20this%20channel's%20recent%20video%20performance.%20Compare%20views%20and%20available%20engagement%20metrics%2C%20then%20identify%20the%20topics%20worth%20testing%20next.&surface=work>)
 
   * ### Research video keywords
 
-![](https://files.openai.com/content?id=file_00000000d41471f79288ee9a703efc57&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=8&sig=d9015c631421e6f8f211dd8676aea7c4a093ff2bd742115c1feaad628f71012b&v=0)![](https://files.openai.com/content?id=file_00000000d41471f79288ee9a703efc57&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=8&sig=d9015c631421e6f8f211dd8676aea7c4a093ff2bd742115c1feaad628f71012b&v=0)vidIQ Research keywords for this video topic and audience. Compare available demand and competition signals and recommend a focused title and tag direction.
+![](https://files.openai.com/content?id=file_00000000c15081fb859b4b3326e155b1&cdn=1&cp=pi&ma=31968000&ts=0&p=pi&cid=8&sig=22e34533fa297a8820159b6de1b13241713b3adcab1d4038ca4e82d4dc2e6188&v=0)vidIQ Research keywords for this video topic and audience. Compare available demand and competition signals and recommend a focused title and tag direction.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40vidIQ+Research+keywords+for+this+video+topic+and+audience.+Compare+available+demand+and+competition+signals+and+recommend+a+focused+title+and+tag+direction.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69dd11f3e50c8191b1ca48d03cf7e2ad?install&prompt=Research%20keywords%20for%20this%20video%20topic%20and%20audience.%20Compare%20available%20demand%20and%20competition%20signals%20and%20recommend%20a%20focused%20title%20and%20tag%20direction.&surface=work>)
 
   * ### Compare competitor channels
 
-![](https://files.openai.com/content?id=file_00000000d41471f79288ee9a703efc57&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=8&sig=d9015c631421e6f8f211dd8676aea7c4a093ff2bd742115c1feaad628f71012b&v=0)![](https://files.openai.com/content?id=file_00000000d41471f79288ee9a703efc57&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=8&sig=d9015c631421e6f8f211dd8676aea7c4a093ff2bd742115c1feaad628f71012b&v=0)vidIQ Compare these three channels using available video and channel statistics. Identify recurring successful topics and explain what may translate to our audience.
+![](https://files.openai.com/content?id=file_00000000c15081fb859b4b3326e155b1&cdn=1&cp=pi&ma=31968000&ts=0&p=pi&cid=8&sig=22e34533fa297a8820159b6de1b13241713b3adcab1d4038ca4e82d4dc2e6188&v=0)vidIQ Compare these three channels using available video and channel statistics. Identify recurring successful topics and explain what may translate to our audience.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40vidIQ+Compare+these+three+channels+using+available+video+and+channel+statistics.+Identify+recurring+successful+topics+and+explain+what+may+translate+to+our+audience.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69dd11f3e50c8191b1ca48d03cf7e2ad?install&prompt=Compare%20these%20three%20channels%20using%20available%20video%20and%20channel%20statistics.%20Identify%20recurring%20successful%20topics%20and%20explain%20what%20may%20translate%20to%20our%20audience.&surface=work>)
 
 
 
@@ -76,7 +78,21 @@ vidIQ gives you instant access to channel analytics, video performance data, key
 
 ### App
 
-  * ![](https://files.openai.com/content?id=file_00000000d41471f79288ee9a703efc57&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=8&sig=d9015c631421e6f8f211dd8676aea7c4a093ff2bd742115c1feaad628f71012b&v=0)vidIQ
+  * ![](https://files.openai.com/content?id=file_0000000087f08230891ee4bba06b1d21&cdn=1&cp=pi&ma=30672000&ts=0&p=pi&cid=8&sig=6de9f8548509fdace4dbd79b69515ae395b5a157eb3f2fc0d2bf4d16cb3a883b&v=0)vidIQ
+
+
+
+### Skills
+
+  * vidIQ Channel Audit
+  * vidIQ Comment Insights
+  * vidIQ Competitor Watchlist
+  * vidIQ Get Started
+  * vidIQ New Upload Review
+  * vidIQ Next Video Planner
+  * vidIQ Packaging Comparison
+  * vidIQ Packaging Studio
+  * 4 more
 
 
 
@@ -96,7 +112,7 @@ Availability depends on the plugin, your plan, and workspace settings. Some conn
 
 ## Explore related plugins
 
-[![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)DataTurn data into clear decisions.](</business/plugins/data/>)[![](https://files.openai.com/content?id=file_00000000bdb4720caff269fd259bbdff&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=20268aaf4f0c92265b5b4945d13a456968c0e1a5013b3be043a94650a9b37e03&v=0)![](https://files.openai.com/content?id=file_00000000bdb4720caff269fd259bbdff&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=20268aaf4f0c92265b5b4945d13a456968c0e1a5013b3be043a94650a9b37e03&v=0)Creative ProductionUse the Creative Production plugin in ChatGPT to create, adapt, and review marketing assets, campaign concepts, ads, and launch creative.](</business/plugins/creative-production/>)[![](https://files.openai.com/content?id=file_00000000191081f79dfeddb7b502b1bf&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=3e3f6f7a793416cd9a93e61c94c2bd4631dd37631f592d4e774aa254e2b1c9b7&v=0)![](https://files.openai.com/content?id=file_00000000191081f79dfeddb7b502b1bf&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=3e3f6f7a793416cd9a93e61c94c2bd4631dd37631f592d4e774aa254e2b1c9b7&v=0)SalesPrepare account work and customer follow-up.](</business/plugins/sales/>)[![](https://files.openai.com/content?id=file_00000000faa071f68918f7da866d93a4&cdn=1&cp=pi&ma=30326400&ts=0&p=pi&cid=8&sig=4f07077e38872beff8ca7d05cc0692679dc04014200779e4cbce84f6604320cd&v=0)![](https://files.openai.com/content?id=file_00000000faa071f68918f7da866d93a4&cdn=1&cp=pi&ma=30326400&ts=0&p=pi&cid=8&sig=4f07077e38872beff8ca7d05cc0692679dc04014200779e4cbce84f6604320cd&v=0)SimilarwebWeb, app, search & market data](</business/plugins/similarweb/>)[![](https://files.openai.com/content?id=file_00000000a1a471fd81edff86e77ecd3b&cdn=1&cp=pi&ma=30326400&ts=0&p=pi&cid=1&sig=938d4b73498b8010276a2a2db3bd97736fb43368f7d6e6b918d92ed91ccbca4f&v=0)![](https://files.openai.com/content?id=file_00000000352871fd8a026326a6078808&cdn=1&cp=pi&ma=30585600&ts=0&p=pi&cid=1&sig=f2df03095c7e6c6c7c919a69e0395034bd5b155ed48e78a3780a4c33c6c23a4c&v=0)SemrushAsk about site metrics and traffic data.](</business/plugins/semrush/>)[![](https://files.openai.com/content?id=file_00000000b94c81f794fcf9c2fbefdf50&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=beb2787280ecaebf28c33ff6125c3de2f31ea2a47d7447cccb565029c8e86c65&v=0)![](https://files.openai.com/content?id=file_00000000b94c81f794fcf9c2fbefdf50&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=beb2787280ecaebf28c33ff6125c3de2f31ea2a47d7447cccb565029c8e86c65&v=0)SpreadsheetsCreate and edit spreadsheets](</business/plugins/spreadsheets/>)
+[![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)DataAnswer questions with data](</business/plugins/data/>)[![](https://files.openai.com/content?id=file_00000000bdb4720caff269fd259bbdff&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=20268aaf4f0c92265b5b4945d13a456968c0e1a5013b3be043a94650a9b37e03&v=0)![](https://files.openai.com/content?id=file_00000000bdb4720caff269fd259bbdff&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=20268aaf4f0c92265b5b4945d13a456968c0e1a5013b3be043a94650a9b37e03&v=0)Creative ProductionUse the Creative Production plugin in ChatGPT to create, adapt, and review marketing assets, campaign concepts, ads, and launch creative](</business/plugins/creative-production/>)[![](https://files.openai.com/content?id=file_00000000191081f79dfeddb7b502b1bf&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=3e3f6f7a793416cd9a93e61c94c2bd4631dd37631f592d4e774aa254e2b1c9b7&v=0)![](https://files.openai.com/content?id=file_00000000191081f79dfeddb7b502b1bf&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=3e3f6f7a793416cd9a93e61c94c2bd4631dd37631f592d4e774aa254e2b1c9b7&v=0)SalesPrepare account work and customer follow-up](</business/plugins/sales/>)[![](https://files.openai.com/content?id=file_00000000faa071f68918f7da866d93a4&cdn=1&cp=pi&ma=30326400&ts=0&p=pi&cid=8&sig=4f07077e38872beff8ca7d05cc0692679dc04014200779e4cbce84f6604320cd&v=0)![](https://files.openai.com/content?id=file_00000000faa071f68918f7da866d93a4&cdn=1&cp=pi&ma=30326400&ts=0&p=pi&cid=8&sig=4f07077e38872beff8ca7d05cc0692679dc04014200779e4cbce84f6604320cd&v=0)SimilarwebWeb, app, search & market data](</business/plugins/similarweb/>)[![](https://files.openai.com/content?id=file_00000000a1a471fd81edff86e77ecd3b&cdn=1&cp=pi&ma=30326400&ts=0&p=pi&cid=1&sig=938d4b73498b8010276a2a2db3bd97736fb43368f7d6e6b918d92ed91ccbca4f&v=0)![](https://files.openai.com/content?id=file_00000000352871fd8a026326a6078808&cdn=1&cp=pi&ma=30585600&ts=0&p=pi&cid=1&sig=f2df03095c7e6c6c7c919a69e0395034bd5b155ed48e78a3780a4c33c6c23a4c&v=0)SemrushResearch keywords & traffic](</business/plugins/semrush/>)[![](https://files.openai.com/content?id=file_00000000b94c81f794fcf9c2fbefdf50&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=beb2787280ecaebf28c33ff6125c3de2f31ea2a47d7447cccb565029c8e86c65&v=0)![](https://files.openai.com/content?id=file_00000000b94c81f794fcf9c2fbefdf50&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=beb2787280ecaebf28c33ff6125c3de2f31ea2a47d7447cccb565029c8e86c65&v=0)SpreadsheetsCreate and edit spreadsheets](</business/plugins/spreadsheets/>)
 
 ## Get started with plugins
 
@@ -114,10 +130,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -136,7 +152,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -183,6 +200,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 
