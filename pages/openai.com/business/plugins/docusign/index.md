@@ -45,7 +45,7 @@ Developer
 Website
     [(opens in a new window)](<https://www.docusign.com>)
 
-[![](https://files.openai.com/content?id=file_000000008040722fab99266f6882677e&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=1&sig=e9c7383fbf48de80909d4b19edde78ac17d8be6ad57de4a34fabf349c190da92&v=0)Docusign Find DocuSign envelopes waiting on me and summarize what needs action.(opens in a new window)](<https://chatgpt.com/?prompt=%40Docusign+Find+DocuSign+envelopes+waiting+on+me+and+summarize+what+needs+action.>)
+[![](https://files.openai.com/content?id=file_000000008040722fab99266f6882677e&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=1&sig=e9c7383fbf48de80909d4b19edde78ac17d8be6ad57de4a34fabf349c190da92&v=0)Docusign Send an envelope for signature using one of my Docusign templates.(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69fcc3b7582c81918df4ffae40cb7204?install&prompt=Send%20an%20envelope%20for%20signature%20using%20one%20of%20my%20Docusign%20templates.>)
 
 ## How it works
 
@@ -57,19 +57,19 @@ Simplify contract management with intelligent automation powered by Docusign. Go
 
 ![](https://files.openai.com/content?id=file_000000008040722fab99266f6882677e&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=1&sig=e9c7383fbf48de80909d4b19edde78ac17d8be6ad57de4a34fabf349c190da92&v=0)Docusign Find DocuSign envelopes waiting on me and summarize what needs action.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Docusign+Find+DocuSign+envelopes+waiting+on+me+and+summarize+what+needs+action.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69fcc3b7582c81918df4ffae40cb7204?install&prompt=Find%20DocuSign%20envelopes%20waiting%20on%20me%20and%20summarize%20what%20needs%20action.&surface=work>)
 
   * ### Check customer agreements
 
 ![](https://files.openai.com/content?id=file_000000008040722fab99266f6882677e&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=1&sig=e9c7383fbf48de80909d4b19edde78ac17d8be6ad57de4a34fabf349c190da92&v=0)Docusign Search for agreements with a customer and pull signing status, recipients, and key dates.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Docusign+Search+for+agreements+with+a+customer+and+pull+signing+status%2C+recipients%2C+and+key+dates.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69fcc3b7582c81918df4ffae40cb7204?install&prompt=Search%20for%20agreements%20with%20a%20customer%20and%20pull%20signing%20status%2C%20recipients%2C%20and%20key%20dates.&surface=work>)
 
   * ### Surface agreement deadlines
 
 ![](https://files.openai.com/content?id=file_000000008040722fab99266f6882677e&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=1&sig=e9c7383fbf48de80909d4b19edde78ac17d8be6ad57de4a34fabf349c190da92&v=0)Docusign Review recently completed envelopes and extract renewal or obligation dates.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Docusign+Review+recently+completed+envelopes+and+extract+renewal+or+obligation+dates.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69fcc3b7582c81918df4ffae40cb7204?install&prompt=Review%20recently%20completed%20envelopes%20and%20extract%20renewal%20or%20obligation%20dates.&surface=work>)
 
 
 
@@ -84,11 +84,11 @@ Simplify contract management with intelligent automation powered by Docusign. Go
 
 ## Resources
 
-### [Help centerLearn more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
+### [Help centerLearn more(opens in a new window)](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
 
-### [Plugin supportLearn more](<https://support.docusign.com/>)
+### [Plugin supportLearn more(opens in a new window)](<https://support.docusign.com/>)
 
-### [Privacy policyLearn more](<https://www.docusign.com/privacy>)
+### [Privacy policyLearn more(opens in a new window)](<https://www.docusign.com/privacy>)
 
 ## Add the Docusign plugin in a few clicks
 
@@ -98,7 +98,7 @@ Availability depends on the plugin, your plan, and workspace settings. Some conn
 
 ## Explore related plugins
 
-[![](https://files.openai.com/content?id=file_00000000191081f79dfeddb7b502b1bf&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=3e3f6f7a793416cd9a93e61c94c2bd4631dd37631f592d4e774aa254e2b1c9b7&v=0)![](https://files.openai.com/content?id=file_00000000191081f79dfeddb7b502b1bf&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=3e3f6f7a793416cd9a93e61c94c2bd4631dd37631f592d4e774aa254e2b1c9b7&v=0)SalesPrepare account work and customer follow-up.](</business/plugins/sales/>)[![](https://files.openai.com/content?id=file_00000000d3b081f7a4bf049f53faf721&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=8&sig=f46e2e0fba8286312a7946f0ca0388656a01d6836e19b8abb9a8d5c60758ad46&v=0)![](https://files.openai.com/content?id=file_00000000d3b081f7a4bf049f53faf721&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=8&sig=f46e2e0fba8286312a7946f0ca0388656a01d6836e19b8abb9a8d5c60758ad46&v=0)LegalQuants TransactionalContract and deal workflows](</business/plugins/legalquants-transactional/>)[![](https://files.openai.com/content?id=file_00000000ab2c81f79ce02f9c44c322c0&cdn=1&cp=pi&ma=30240000&ts=0&p=pi&cid=8&sig=333f73af42c9a5ef26ac6369d04ef09dbc01a2493291d7356442bcb088eee905&v=0)![](https://files.openai.com/content?id=file_00000000a46c81f79ebe5f831e1439f7&cdn=1&cp=pi&ma=30672000&ts=0&p=pi&cid=8&sig=67b1dd8d2d5cd61a8838bd32a112ca2cd2e70ead646f287dcce6f68c14d58e73&v=0)Ironclad ContractsPlain language search for faster contract answers](</business/plugins/ironclad-contracts/>)[![](https://files.openai.com/content?id=file_0000000005fc722f88207b67c3fbe10a&cdn=1&cp=pi&ma=31190400&ts=0&p=pi&cid=1&sig=4fccf640c85543b3c2aa0a0de6592ed9e1d71bbeb3169bb63bf4217a6809857f&v=0)![](https://files.openai.com/content?id=file_0000000005fc722f88207b67c3fbe10a&cdn=1&cp=pi&ma=31190400&ts=0&p=pi&cid=1&sig=4fccf640c85543b3c2aa0a0de6592ed9e1d71bbeb3169bb63bf4217a6809857f&v=0)SalesforceUse the Salesforce plugin to review permitted CRM records, understand accounts and deals, summarize pipeline risk, and prepare follow-up.](</business/plugins/salesforce/>)[![](https://files.openai.com/content?id=file_000000000c1871f5a6cfddb62a46e9de&cdn=1&cp=pi&ma=31363200&ts=0&p=pi&cid=1&sig=81b62307ba341b02656de1a8a775263b1126c5aa1801f5f51ac5b3da3cb40a2c&v=0)![](https://files.openai.com/content?id=file_00000000551481f5a345351199fc73fd&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=d24c1524f8efa98e3db5084e8f55ca134b1ac198deddaffc355a1df03b180092&v=0)Adobe AcrobatEdit and organize PDFs easily.](</business/plugins/adobe-acrobat/>)[![](https://files.openai.com/content?id=file_000000003dec71f58ea31d11943374ac&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=1&sig=74ea60b3dccd88f76296af895d81de15f4ed38ee02b05e86001f9ee5e0091c6d&v=0)![](https://files.openai.com/content?id=file_000000003dec71f58ea31d11943374ac&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=1&sig=74ea60b3dccd88f76296af895d81de15f4ed38ee02b05e86001f9ee5e0091c6d&v=0)BoxSearch and reference your documents.](</business/plugins/box/>)
+[![](https://files.openai.com/content?id=file_00000000191081f79dfeddb7b502b1bf&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=3e3f6f7a793416cd9a93e61c94c2bd4631dd37631f592d4e774aa254e2b1c9b7&v=0)![](https://files.openai.com/content?id=file_00000000191081f79dfeddb7b502b1bf&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=3e3f6f7a793416cd9a93e61c94c2bd4631dd37631f592d4e774aa254e2b1c9b7&v=0)SalesPrepare account work and customer follow-up](</business/plugins/sales/>)[![](https://files.openai.com/content?id=file_00000000d3b081f7a4bf049f53faf721&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=8&sig=f46e2e0fba8286312a7946f0ca0388656a01d6836e19b8abb9a8d5c60758ad46&v=0)![](https://files.openai.com/content?id=file_00000000d3b081f7a4bf049f53faf721&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=8&sig=f46e2e0fba8286312a7946f0ca0388656a01d6836e19b8abb9a8d5c60758ad46&v=0)LegalQuants TransactionalContract and deal workflows](</business/plugins/legalquants-transactional/>)[![](https://files.openai.com/content?id=file_00000000ab2c81f79ce02f9c44c322c0&cdn=1&cp=pi&ma=30240000&ts=0&p=pi&cid=8&sig=333f73af42c9a5ef26ac6369d04ef09dbc01a2493291d7356442bcb088eee905&v=0)![](https://files.openai.com/content?id=file_00000000a46c81f79ebe5f831e1439f7&cdn=1&cp=pi&ma=30672000&ts=0&p=pi&cid=8&sig=67b1dd8d2d5cd61a8838bd32a112ca2cd2e70ead646f287dcce6f68c14d58e73&v=0)Ironclad ContractsPlain language search for fast](</business/plugins/ironclad-contracts/>)[![](https://files.openai.com/content?id=file_0000000005fc722f88207b67c3fbe10a&cdn=1&cp=pi&ma=31190400&ts=0&p=pi&cid=1&sig=4fccf640c85543b3c2aa0a0de6592ed9e1d71bbeb3169bb63bf4217a6809857f&v=0)![](https://files.openai.com/content?id=file_0000000005fc722f88207b67c3fbe10a&cdn=1&cp=pi&ma=31190400&ts=0&p=pi&cid=1&sig=4fccf640c85543b3c2aa0a0de6592ed9e1d71bbeb3169bb63bf4217a6809857f&v=0)SalesforceUse the Salesforce plugin to review permitted CRM records, understand accounts and deals, summarize pipeline risk, and prepare follow-up](</business/plugins/salesforce/>)[![](https://files.openai.com/content?id=file_000000000c1871f5a6cfddb62a46e9de&cdn=1&cp=pi&ma=31363200&ts=0&p=pi&cid=1&sig=81b62307ba341b02656de1a8a775263b1126c5aa1801f5f51ac5b3da3cb40a2c&v=0)![](https://files.openai.com/content?id=file_00000000551481f5a345351199fc73fd&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=d24c1524f8efa98e3db5084e8f55ca134b1ac198deddaffc355a1df03b180092&v=0)Adobe AcrobatEdit and organize PDFs easily](</business/plugins/adobe-acrobat/>)[![](https://files.openai.com/content?id=file_000000003dec71f58ea31d11943374ac&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=1&sig=74ea60b3dccd88f76296af895d81de15f4ed38ee02b05e86001f9ee5e0091c6d&v=0)![](https://files.openai.com/content?id=file_000000003dec71f58ea31d11943374ac&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=1&sig=74ea60b3dccd88f76296af895d81de15f4ed38ee02b05e86001f9ee5e0091c6d&v=0)BoxSearch and reference your documents](</business/plugins/box/>)
 
 ## Get started with plugins
 
@@ -116,10 +116,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -138,7 +138,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -185,6 +186,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

@@ -38,7 +38,7 @@ OpenAI
 
 Cloudwerx helps organisations turn the promise of AI into practical, measurable business outcomes. We combine deep cloud expertise with modern data platforms, intelligent automation and responsible AI to create solutions that are secure, scalable and ready for real-world use. From AI strategy and use-case discovery to copilots, generative AI, machine learning and workflow automation, our specialists guide clients from idea to production. We prioritise trusted data, strong governance and seamless integration, helping teams work smarter, serve customers better and innovate faster. Our human-centred approach ensures AI is adopted confidently across the business.
 
-![Select Partner](/images/partner-tier-badges/OAI_PartnerNetwork_SelectPartner.svg?dpl=dpl_8zRkpxed5hBwdqpwBygFpwR3bW43)
+![Select Partner](/images/partner-tier-badges/OAI_PartnerNetwork_SelectPartner.svg?dpl=dpl_2s25yhRNvVXuY6zXzEYiSXTiXrfV)
 
 Countries served
     Australia and New Zealand
@@ -56,9 +56,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -77,7 +78,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -95,6 +97,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -123,6 +126,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

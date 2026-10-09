@@ -1,5 +1,90 @@
 # openai_monitor
 
+
+## 2026-10-09T09-16Z
+
+**Fetch time:** 2026-10-09T09:16:50Z UTC | **Baseline:** 2026-09-28T09-17Z
+
+**TL;DR:** First run in 11 days (prior baseline 2026-09-28T09-17Z), so a big batch. OpenAI's DevDay 2026 (pages [/devday/2026/](pages/openai.com/devday/2026/index.md), [recap](pages/openai.com/index/devday-2026-recap/index.md)) landed, with ~20 announcements. Headline pages: **GPT-6.1 Sol** ([page](pages/openai.com/index/introducing-gpt-6-1-sol/index.md); claims near-GPT-6-Astra capability on coding/computer use at about one-fifth the price, cached input $0.10/M tokens); **dots** ([page](pages/openai.com/index/introducing-dots/index.md); persistent always-on agents with their own cloud computer, rolling out on Pro/Business Premium/Enterprise); **GPT-6 and "Intelligent UI" for everyone** ([page](pages/openai.com/index/gpt-6-for-everyone/index.md); interactive answers for ChatGPT's 1.2B weekly users); a **new visual ad format in ChatGPT** ([page](pages/openai.com/index/new-chatgpt-ads-format-and-measurement/index.md); testing on Free/Go plans during image generation, US, later this month); and two security reports: a **coordinated model-distillation campaign** ([page](pages/openai.com/index/disrupting-a-coordinated-model-distillation-campaign/index.md); attackers tried to extract protected reasoning starting July 1) and **AI-enabled "false front" operations** ([page](pages/openai.com/index/disrupting-ai-enabled-false-front-operations/index.md)). Also new: a Business marketplace and three plugin pages, Atlassian/Ironclad/Oracle/Jump Trading/Albertsons customer stories, and several interest forms (Private Intelligence, Sign in with ChatGPT, Codex Originals, computer-use research collaboration). 952 existing pages were touched, mostly site-wide nav/footer changes (GPT-6.1 Sol, dots and Plugins links added; Codex/GPT-5.4 links dropped). Counts: +42 added, 952 updated, -1 removed (/form/ultrafast/, first seen 2026-08-20), 5 anomalies (see below).
+
+### Anomalies
+
+- **future_lastmod**: `https://openai.com/form/copyright-disputes/`
+  - lastmod 2026-10-09T09:16:50.288Z is after fetch time 2026-10-09T09:16:50Z (a sub-second margin; the claimed modification time is the same moment as our fetch, i.e. the page is being re-stamped live, so likely a dynamically generated lastmod rather than a real edit)
+- **backdated_new_url**: `https://openai.com/codex-originals/`
+  - New URL has lastmod 2026-10-01T18:38:17.113Z which is 8 days before first_seen 2026-10-09T09-16Z
+- **backdated_new_url**: `https://openai.com/form/private-intelligence-interest/`
+  - New URL has lastmod 2026-10-01T03:03:00.758Z which is 8 days before first_seen 2026-10-09T09-16Z
+- **reappeared_url**: `https://openai.com/business/plugins/alpaca/`
+  - URL was previously seen (last_seen: 2026-09-24T09-16Z, first_seen: 2026-07-10T09-16Z), disappeared, and reappeared
+- **reappeared_url**: `https://openai.com/policies/row-privacy-policy/`
+  - URL was previously seen (last_seen: 2026-05-27T09-17Z, first_seen: 2026-05-07T09-01Z), disappeared, and reappeared
+
+### New Pages
+
+- [https://openai.com/business/learn/board-guide-cybersecurity-ai/](pages/openai.com/business/learn/board-guide-cybersecurity-ai/index.md) — **Download the board guide to cybersecurity and AI** (lastmod: 2026-10-09T07:16:10.956Z)
+- [https://openai.com/business/marketplace/](pages/openai.com/business/marketplace/index.md) — **OpenAI Marketplace** (lastmod: 2026-10-08T01:21:48.461Z)
+- [https://openai.com/business/partners/megazonecloud/](pages/openai.com/business/partners/megazonecloud/index.md) — **MegazoneCloud** (lastmod: 2026-10-08T17:15:16.589Z)
+- [https://openai.com/business/plugins/alpaca/](pages/openai.com/business/plugins/alpaca/index.md) — **Alpaca** (lastmod: 2026-10-08T18:11:09.298Z)
+- [https://openai.com/business/plugins/sandstone/](pages/openai.com/business/plugins/sandstone/index.md) — **Sandstone** (lastmod: 2026-10-08T18:00:25.419Z)
+- [https://openai.com/business/plugins/spacefast/](pages/openai.com/business/plugins/spacefast/index.md) — **Spacefast** (lastmod: 2026-10-08T17:55:23.569Z)
+- [https://openai.com/codex-originals/](pages/openai.com/codex-originals/index.md) — **Codex Originals![](https://images.ctfassets.net/kftzwdyauwt9/48W0447nPfDU4Qoln83** (lastmod: 2026-10-01T18:38:17.113Z)
+- [https://openai.com/devday/2026/](pages/openai.com/devday/2026/index.md) (lastmod: 2026-10-08T14:03:11.988Z)
+- [https://openai.com/form/codex-originals/](pages/openai.com/form/codex-originals/index.md) — **Are you a Codex Original?** (lastmod: 2026-10-09T09:16:44.107Z)
+- [https://openai.com/form/computer-use-research-collaboration/](pages/openai.com/form/computer-use-research-collaboration/index.md) — **Computer-use research collaboration** (lastmod: 2026-10-08T15:16:35.763Z)
+- [https://openai.com/form/private-intelligence-interest/](pages/openai.com/form/private-intelligence-interest/index.md) — **Register your interest in Private Intelligence** (lastmod: 2026-10-01T03:03:00.758Z)
+- [https://openai.com/form/sign-in-with-chatgpt-interest/](pages/openai.com/form/sign-in-with-chatgpt-interest/index.md) — **Sign in with ChatGPT interest form** (lastmod: 2026-10-07T00:50:43.033Z)
+- [https://openai.com/index/advancing-computer-use-with-ironclad/](pages/openai.com/index/advancing-computer-use-with-ironclad/index.md) — **Advancing computer use with Ironclad** (lastmod: 2026-10-09T09:03:12.821Z)
+- [https://openai.com/index/albertsons-reimagining-retail/](pages/openai.com/index/albertsons-reimagining-retail/index.md) — **How Albertsons Companies is reimagining retail from the inside out** (lastmod: 2026-10-09T06:21:03.743Z)
+- [https://openai.com/index/atlassian-partnership/](pages/openai.com/index/atlassian-partnership/index.md) — **Atlassian and OpenAI expand partnership to turn enterprise knowledge into action** (lastmod: 2026-10-09T06:41:46.582Z)
+- [https://openai.com/index/basis-tax-workbook-with-astra/](pages/openai.com/index/basis-tax-workbook-with-astra/index.md) — **Basis completes a tax workbook 2x faster with GPT‑6 Astra** (lastmod: 2026-10-07T23:30:37.170Z)
+- [https://openai.com/index/chatham-financial/](pages/openai.com/index/chatham-financial/index.md) — **Chatham scales its capital markets expertise with OpenAI** (lastmod: 2026-10-09T05:56:13.710Z)
+- [https://openai.com/index/devday-2026-recap/](pages/openai.com/index/devday-2026-recap/index.md) — **DevDay 2026 Recap** (lastmod: 2026-10-09T06:33:29.840Z)
+- [https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign/](pages/openai.com/index/disrupting-a-coordinated-model-distillation-campaign/index.md) — **Disrupting a coordinated model-distillation campaign** (lastmod: 2026-10-09T07:57:04.619Z)
+- [https://openai.com/index/disrupting-ai-enabled-false-front-operations/](pages/openai.com/index/disrupting-ai-enabled-false-front-operations/index.md) — **Disrupting AI-enabled “false front” operations** (lastmod: 2026-10-09T06:57:12.389Z)
+- [https://openai.com/index/eu-text-provenance/](pages/openai.com/index/eu-text-provenance/index.md) — **Our approach to EU text provenance rules** (lastmod: 2026-10-09T06:21:16.670Z)
+- [https://openai.com/index/gpt-6-for-everyone/](pages/openai.com/index/gpt-6-for-everyone/index.md) — **GPT‑6 and Intelligent UI for everyone** (lastmod: 2026-10-09T09:16:18.080Z)
+- [https://openai.com/index/helping-small-businesses-put-ai-to-work/](pages/openai.com/index/helping-small-businesses-put-ai-to-work/index.md) — **Helping small businesses put AI to work** (lastmod: 2026-10-09T06:21:01.148Z)
+- [https://openai.com/index/how-we-will-do-better-for-australia/](pages/openai.com/index/how-we-will-do-better-for-australia/index.md) — **How we will do better for Australia** (lastmod: 2026-10-09T06:21:03.762Z)
+- [https://openai.com/index/introducing-dots/](pages/openai.com/index/introducing-dots/index.md) — **Introducing dots** (lastmod: 2026-10-09T06:33:27.345Z)
+- [https://openai.com/index/introducing-gpt-6-1-sol/](pages/openai.com/index/introducing-gpt-6-1-sol/index.md) — **GPT-6.1Sol**
+- [https://openai.com/index/jump-trading/](pages/openai.com/index/jump-trading/index.md) — **How Jump Trading is scaling quant research with ChatGPT** (lastmod: 2026-10-08T22:48:48.833Z)
+- [https://openai.com/index/legalon-halves-codex-costs/](pages/openai.com/index/legalon-halves-codex-costs/index.md) — **LegalOn halves Codex costs while maintaining development speed** (lastmod: 2026-10-09T05:55:57.417Z)
+- [https://openai.com/index/lenfest-ai-collaborative-expansion/](pages/openai.com/index/lenfest-ai-collaborative-expansion/index.md) — **The Lenfest Institute grows landmark program with expanded OpenAI support** (lastmod: 2026-10-09T06:21:04.175Z)
+- [https://openai.com/index/new-chatgpt-ads-format-and-measurement/](pages/openai.com/index/new-chatgpt-ads-format-and-measurement/index.md) — **Building advertising for the way people use AI** (lastmod: 2026-10-09T06:33:28.859Z)
+- ... and 12 more (see runs/2026-10-09T09-16Z/analysis.md)
+
+### Updated Pages
+
+- [https://openai.com/](pages/openai.com/index.md) — lastmod `2026-09-23T19:49:50.418Z` → `2026-10-07T18:39:11.912Z` (content: 9810→10125 chars)
+- [https://openai.com/about/](pages/openai.com/about/index.md) — lastmod `2026-09-25T18:59:48.324Z` → `2026-10-09T04:30:21.082Z` (content: 6769→6834 chars)
+- [https://openai.com/academy/chatgpt-sites/](pages/openai.com/academy/chatgpt-sites/index.md) — lastmod `2026-07-09T17:38:27.739Z` → `2026-10-05T21:12:23.998Z` (content: 12511→12917 chars)
+- [https://openai.com/api-fast-mode/](pages/openai.com/api-fast-mode/index.md) — lastmod `2026-09-25T14:01:55.817Z` → `2026-09-30T19:31:35.037Z` (content: 12153→12393 chars)
+- [https://openai.com/api-reserved-tier/](pages/openai.com/api-reserved-tier/index.md) — lastmod `2026-09-23T21:18:33.666Z` → `2026-10-09T05:24:12.828Z` (content: 8841→9017 chars)
+- [https://openai.com/api-scale-tier/](pages/openai.com/api-scale-tier/index.md) — lastmod `2026-09-10T15:58:18.784Z` → `2026-10-09T05:32:05.577Z` (content: 13285→13503 chars)
+- [https://openai.com/api/](pages/openai.com/api/index.md) — lastmod `2026-09-25T14:14:26.339Z` → `2026-10-09T08:28:23.826Z` (content: 11169→11683 chars)
+- [https://openai.com/approach-to-patents/](pages/openai.com/approach-to-patents/index.md) — lastmod `2026-06-11T17:39:16.362Z` → `2026-10-06T22:55:31.999Z` (content: 3941→4188 chars)
+- [https://openai.com/brand/](pages/openai.com/brand/index.md) — lastmod `2026-09-02T04:44:32.790Z` → `2026-10-06T23:06:01.022Z` (content: 17852→18105 chars)
+- [https://openai.com/build-week/](pages/openai.com/build-week/index.md) — lastmod `2026-09-07T16:35:59.779Z` → `2026-10-09T04:53:35.561Z` (content: 9026→9238 chars)
+- [https://openai.com/business-data/](pages/openai.com/business-data/index.md) — lastmod `2026-09-28T00:31:18.165Z` → `2026-10-09T02:40:17.576Z` (content: 13854→14053 chars)
+- [https://openai.com/business/](pages/openai.com/business/index.md) — lastmod `2026-09-28T02:34:15.644Z` → `2026-10-09T06:11:39.353Z` (content: 8445→8644 chars)
+- [https://openai.com/business/contact-sales-financial-services/](pages/openai.com/business/contact-sales-financial-services/index.md) — lastmod `2026-09-21T16:34:06.213Z` → `2026-10-06T12:16:07.157Z` (content: 3865→4041 chars)
+- [https://openai.com/business/contact-sales-legal/](pages/openai.com/business/contact-sales-legal/index.md) — lastmod `2026-09-24T19:10:19.298Z` → `2026-10-06T12:16:07.849Z` (content: 3902→4078 chars)
+- [https://openai.com/business/customer-stories/](pages/openai.com/business/customer-stories/index.md) — lastmod `2026-09-25T19:12:46.165Z` → `2026-10-09T05:55:57.573Z` (content: 10144→10294 chars)
+- [https://openai.com/business/guides-and-resources/identifying-and-scaling-ai-use-cases/](pages/openai.com/business/guides-and-resources/identifying-and-scaling-ai-use-cases/index.md) — lastmod `2026-09-21T20:28:37.540Z` → `2026-10-08T19:09:18.346Z` (content: 33388→33524 chars)
+- [https://openai.com/business/guides-and-resources/inside-gpt5-our-best-model-for-work/](pages/openai.com/business/guides-and-resources/inside-gpt5-our-best-model-for-work/index.md) — lastmod `2026-09-21T20:28:38.743Z` → `2026-10-09T00:24:29.461Z` (content: 12184→12320 chars)
+- [https://openai.com/business/intelligence-at-work/](pages/openai.com/business/intelligence-at-work/index.md) — lastmod `2026-08-24T17:54:01.809Z` → `2026-10-06T12:16:06.564Z` (content: 3751→3998 chars)
+- [https://openai.com/business/learn/](pages/openai.com/business/learn/index.md) — lastmod `2026-09-07T16:36:01.414Z` → `2026-10-08T22:54:10.031Z` (content: 21003→21259 chars)
+- [https://openai.com/business/learn/agent-security-enterprise/](pages/openai.com/business/learn/agent-security-enterprise/index.md) — lastmod `2026-09-21T20:10:21.464Z` → `2026-10-05T20:14:34.773Z` (content: 3619→3795 chars)
+- ... and 932 more (see runs/2026-10-09T09-16Z/analysis.md)
+
+### Removed URLs
+
+- `https://openai.com/form/ultrafast/`
+
+**Stats:** 2026 total URLs | +42 added | 952 updated | -1 removed | 5 anomalies | 42 sub-sitemaps
+
+---
 ## 2026-09-28T09-17Z
 
 **Fetch time:** 2026-09-28T09:17Z (sitemap + 35 pages) UTC | **Baseline:** 2026-09-27T09-16Z (consecutive day)

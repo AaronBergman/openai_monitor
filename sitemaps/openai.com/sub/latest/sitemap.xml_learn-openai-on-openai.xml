@@ -3,7 +3,7 @@
         xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://openai.com/index/codex-collaborator-creative-team/</loc>
-    <lastmod>2026-09-22T09:51:45.894Z</lastmod>
+    <lastmod>2026-10-09T05:56:01.837Z</lastmod>
     <xhtml:link
       rel="alternate"
       hreflang="ml-IN"
@@ -342,7 +342,7 @@
   </url>
   <url>
     <loc>https://openai.com/index/building-openai-with-openai/</loc>
-    <lastmod>2026-09-14T21:28:01.975Z</lastmod>
+    <lastmod>2026-10-06T17:53:51.575Z</lastmod>
     <xhtml:link
       rel="alternate"
       hreflang="ja-JP"
@@ -481,7 +481,7 @@
   </url>
   <url>
     <loc>https://openai.com/index/openai-contract-data-agent/</loc>
-    <lastmod>2026-09-14T21:27:53.770Z</lastmod>
+    <lastmod>2026-10-06T17:53:44.892Z</lastmod>
     <xhtml:link
       rel="alternate"
       hreflang="mr-IN"
@@ -644,11 +644,6 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="zh-Hans-CN"
-      href="https://openai.com/zh-Hans-CN/index/openai-contract-data-agent/"
-    />
-    <xhtml:link
-      rel="alternate"
       hreflang="ja-JP"
       href="https://openai.com/ja-JP/index/openai-contract-data-agent/"
     />
@@ -682,10 +677,15 @@
       hreflang="sr-RS"
       href="https://openai.com/sr-RS/index/openai-contract-data-agent/"
     />
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-Hans-CN"
+      href="https://openai.com/zh-Hans-CN/index/openai-contract-data-agent/"
+    />
   </url>
   <url>
     <loc>https://openai.com/index/openai-research-assistant/</loc>
-    <lastmod>2026-09-14T21:27:53.586Z</lastmod>
+    <lastmod>2026-10-06T17:53:44.255Z</lastmod>
     <xhtml:link
       rel="alternate"
       hreflang="jv-ID"
@@ -889,7 +889,7 @@
   </url>
   <url>
     <loc>https://openai.com/index/openai-support-model/</loc>
-    <lastmod>2026-09-14T21:27:52.706Z</lastmod>
+    <lastmod>2026-10-06T17:53:43.424Z</lastmod>
     <xhtml:link
       rel="alternate"
       hreflang="kk-Cyrl"
@@ -962,11 +962,6 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="zh-Hans-CN"
-      href="https://openai.com/zh-Hans-CN/index/openai-support-model/"
-    />
-    <xhtml:link
-      rel="alternate"
       hreflang="de-DE"
       href="https://openai.com/de-DE/index/openai-support-model/"
     />
@@ -1014,6 +1009,11 @@
       rel="alternate"
       hreflang="it-IT"
       href="https://openai.com/it-IT/index/openai-support-model/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-Hans-CN"
+      href="https://openai.com/zh-Hans-CN/index/openai-support-model/"
     />
     <xhtml:link
       rel="alternate"
@@ -1093,7 +1093,7 @@
   </url>
   <url>
     <loc>https://openai.com/index/openai-inbound-sales-assistant/</loc>
-    <lastmod>2026-09-14T21:27:49.975Z</lastmod>
+    <lastmod>2026-10-06T17:53:42.421Z</lastmod>
     <xhtml:link
       rel="alternate"
       hreflang="pt-BR"
@@ -1297,7 +1297,7 @@
   </url>
   <url>
     <loc>https://openai.com/index/openai-gtm-assistant/</loc>
-    <lastmod>2026-09-14T21:27:49.975Z</lastmod>
+    <lastmod>2026-10-06T17:53:42.020Z</lastmod>
     <xhtml:link
       rel="alternate"
       hreflang="pl-PL"
@@ -1335,11 +1335,6 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="zh-Hant-HK"
-      href="https://openai.com/zh-Hant-HK/index/openai-gtm-assistant/"
-    />
-    <xhtml:link
-      rel="alternate"
       hreflang="mr-IN"
       href="https://openai.com/mr-IN/index/openai-gtm-assistant/"
     />
@@ -1362,11 +1357,6 @@
       rel="alternate"
       hreflang="sv-SE"
       href="https://openai.com/sv-SE/index/openai-gtm-assistant/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="zh-Hans-CN"
-      href="https://openai.com/zh-Hans-CN/index/openai-gtm-assistant/"
     />
     <xhtml:link
       rel="alternate"
@@ -1435,6 +1425,11 @@
     />
     <xhtml:link
       rel="alternate"
+      hreflang="zh-Hans-CN"
+      href="https://openai.com/zh-Hans-CN/index/openai-gtm-assistant/"
+    />
+    <xhtml:link
+      rel="alternate"
       hreflang="jv-ID"
       href="https://openai.com/jv-ID/index/openai-gtm-assistant/"
     />
@@ -1497,6 +1492,11 @@
       rel="alternate"
       hreflang="gu-IN"
       href="https://openai.com/gu-IN/index/openai-gtm-assistant/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-Hant-HK"
+      href="https://openai.com/zh-Hant-HK/index/openai-gtm-assistant/"
     />
   </url>
 </urlset>

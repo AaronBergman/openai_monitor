@@ -116,10 +116,6 @@ Users can ask complex, open-ended questions which would typically require multip
 
 AnalysisDataQueryGraph
 
-![Screenshot showing a user asking which NYC taxi pickup→dropoff ZIP pairs are most “unreliable.” The agent explains using ~21k trips from samples.nyctaxi.trips, defines typical \(p50\) vs worst-case \(p95\), applies filters, and describes how it identifies when each ZIP pair’s longest trip occurred.](https://images.ctfassets.net/kftzwdyauwt9/2RAJGXMZATOOhGlmBoNftE/27ba0b2e4e76803ea7547196635c3169/Desktop-Light.png?w=3840&q=90&fm=webp)
-
-The agent's response to the question.
-
 One of the agent’s superpowers is how it reasons through problems. Rather than following a fixed script, the agent evaluates its own progress. If an intermediate result looks wrong (e.g., if it has zero rows due to an incorrect join or filter), the agent investigates what went wrong, adjusts its approach, and tries again. Throughout this process, it retains full context, and carries learnings forward between steps. This **closed-loop, self-learning process** shifts iteration from the user into the agent itself, enabling faster results and consistently higher-quality analyses than manual workflows.
 
 ![Screenshot of a task workflow showing an AI agent’s step-by-step plan for analyzing NYC taxi trip durations. It includes goals, internal searches, schema inspection, code snippets, and reasoning about computing p50/p95 spreads, identifying unreliable ZIP pairs, and planning SQL queries.](https://images.ctfassets.net/kftzwdyauwt9/69OLeMVdJy3gMHnW0lw6ds/326d0651b6c54fe6037e9ca6997fd5cc/oai_in-house_data_agent_NYC_pickup-dropoff_pairs_light.png?w=3840&q=90&fm=webp)
@@ -147,7 +143,9 @@ To avoid these failure modes, the agent is built around **multiple layers of con
 ###  Layer #1: Table Usage
 
   * **Metadata grounding:** The agent relies on schema metadata (column names and data types) to inform SQL writing and uses table lineage (e.g., upstream and downstream table relationships) to provide context on how different tables relate.
+
   * **Query inference:** Ingesting historical queries helps the agent understand how to write its own queries and which tables are typically joined together.
+
 
 
 
@@ -157,14 +155,19 @@ To avoid these failure modes, the agent is built around **multiple layers of con
 
 
 
+
 Metadata alone isn’t enough. To really tell tables apart, you need to understand how they were created and where they originate.
 
 ### Layer #3: Codex Enrichment
 
   * By deriving a code-level definition of a table, the agent builds a deeper understanding of what the data actually contains. 
+
     * Nuances on what is stored in the table and how it is derived from an analytics event provides extra information. For example, it can give context on the uniqueness of values, how often the table data is updated, the scope of the data (e.g., if the table excludes certain fields, it has this level of granularity), etc.
+
   * This provides enhanced usage context by showing how the table is used beyond SQL in Spark, Python, and other data systems.
+
   * This means that the agent can distinguish between tables that look similar but differ in critical ways. For example, it can tell whether a table only includes first-party ChatGPT traffic. This context is also refreshed automatically, so it stays up to date without manual maintenance.
+
 
 
 
@@ -173,7 +176,9 @@ Metadata alone isn’t enough. To really tell tables apart, you need to understa
 ### Layer #4: Institutional Knowledge 
 
   * The agent can access Slack, Google Docs, and Notion, which capture critical company context such as launches, reliability incidents, internal codenames and tools, and the canonical definitions and computation logic for key metrics.
+
   * These documents are ingested, embedded, and stored with metadata and permissions. A retrieval service handles access control and caching at runtime, enabling the agent to efficiently and safely pull in this information.
+
 
 
 
@@ -182,12 +187,19 @@ Metadata alone isn’t enough. To really tell tables apart, you need to understa
 ### Layer #5: Memory
 
   * When the agent is given corrections or discovers nuances about certain data questions, it's able to save these learnings for next time, allowing it to constantly improve with its users. 
+
     * As a result, future answers begin from a more accurate baseline rather than repeatedly encountering the same issues.
+
     * The goal of memory is to retain and reuse non-obvious corrections, filters, and constraints that are critical for data correctness but difficult to infer from the other layers alone. 
+
     * For example, in one case, the agent didn’t know how to filter for a particular analytics experiment (it relied on matching against a specific string defined in an experiment gate). Memory was crucially important here to ensure it was able to filter correctly, instead of fuzzily trying to string match.
+
   * When you give the agent a correction or when it finds a learning from your conversation, it will prompt you to save that memory for next time. 
+
     * Memories can also be manually created and edited by users.
+
     * Memories are scoped at the global and personal level, and the agent’s tooling makes it easy to edit them.
+
 
 
 
@@ -196,7 +208,9 @@ Metadata alone isn’t enough. To really tell tables apart, you need to understa
 ### Layer #6: Runtime Context
 
   * When no prior context exists for a table or when existing information is stale, the agent can issue live queries to the data warehouse to inspect and query the table directly. This allows it to validate schemas, understand the data in real-time, and respond accordingly.
+
   * The agent is also able to talk to other Data Platform systems (metadata service, Airflow, Spark) as needed to get broader data context that exists outside the warehouse.
+
 
 
 
@@ -270,7 +284,7 @@ While our tooling will keep benefiting from underlying improvements in agent rea
 
 
 
-## Author
+## Authors
 
 Bonnie Xu, Aravind Suresh, Emma Tang
 
@@ -282,6 +296,10 @@ Special thanks to the Data Productivity and Data Science teams, as well as to ou
 
 [View all](</news/>)
 
+![Scaling Storage for 1 Billion ChatGPT Users \(Part I\) card image](https://images.ctfassets.net/kftzwdyauwt9/2X23NOb0P4V1KDzUBkeNpl/888204b45a1c84ddfa24c9ed31111a9c/OAI_HabitatPT1_Art_Card_1x1.png?w=3840&q=90&fm=webp)
+
+[Rapidly scaling online storage to serve over 1 billion ChatGPT usersEngineeringSep 11, 2026](</index/scaling-storage-one-billion-users-part-one/>)
+
 ![Jalapeño inference — Art Card](https://images.ctfassets.net/kftzwdyauwt9/26K8mLbrpbaDvoFY0NrE04/8e4ad0b3f28042c22d6d5130bd4f4019/jalapeno-art-card.png?w=3840&q=90&fm=webp)
 
 [Jalapeño’s first results show industry-leading speed and efficiency in AI inferenceEngineeringAug 25, 2026](</index/jalapeno-first-results/>)
@@ -289,10 +307,6 @@ Special thanks to the Data Productivity and Data Science teams, as well as to ou
 ![Continuous voice interaction with GPT Live - art card](https://images.ctfassets.net/kftzwdyauwt9/3PyfDzfjOozLbJnaZIkRLD/6aef080bb4e7d6a6b8a6dc23436848db/gpt-live-art-card.png?w=3840&q=90&fm=webp)
 
 [Continuous voice interaction with GPT LiveEngineeringAug 3, 2026](</index/continuous-voice-interaction-with-gpt-live/>)
-
-![GPT-5.6 efficiency article — art card](https://images.ctfassets.net/kftzwdyauwt9/5ExPWhZDZXbZgTHE7aeE5d/0526071f749a3b44adff3c45a12322b7/How_GPT-5.6_fuses_frontier_intelligence_with_frontier_efficiency_ART_CARD__1_.png?w=3840&q=90&fm=webp)
-
-[How GPT-5.6 fuses frontier intelligence with frontier efficiencyEngineeringJul 29, 2026](</index/gpt-5-6-frontier-intelligence-efficiency/>)
 
 Research
 
@@ -304,9 +318,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -325,7 +340,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -343,6 +359,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -371,6 +388,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 
@@ -398,3 +416,7 @@ Terms & Policies
 OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
+
+![Screenshot showing a user asking which NYC taxi pickup→dropoff ZIP pairs are most “unreliable.” The agent explains using ~21k trips from samples.nyctaxi.trips, defines typical \(p50\) vs worst-case \(p95\), applies filters, and describes how it identifies when each ZIP pair’s longest trip occurred.](https://images.ctfassets.net/kftzwdyauwt9/2RAJGXMZATOOhGlmBoNftE/27ba0b2e4e76803ea7547196635c3169/Desktop-Light.png?w=3840&q=90&fm=webp)
+
+The agent's response to the question.
