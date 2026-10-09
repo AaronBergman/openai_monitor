@@ -48,7 +48,7 @@ Developer
 Website
     [(opens in a new window)](<https://ads.openai.com/>)
 
-[![](https://files.openai.com/content?id=file_00000000341081fda1cf8dbbd8717af9&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=b2d2947344376a03013ff347580827fd3caf0dfe4153de6ee83165950245f487&v=0)ChatGPT Ads Manager Help me create a new Ad.(opens in a new window)](<https://chatgpt.com/?prompt=%40ChatGPT+Ads+Manager+Help+me+create+a+new+Ad.>)
+[![](https://files.openai.com/content?id=file_00000000c2fc81f69802de525db52cae&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=8&sig=bcd13387954f636aa38982d9bb74507795ef8a44b824a98a3b75375677c0ff8a&v=0)ChatGPT Ads Manager Use $ads-manager:ads-manager-setup to help me get started with Ads Manager.(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_1p_2eb0f69766cc81919c6912b2a2e0755a?install&prompt=Use%20%24ads-manager%3Aads-manager-setup%20to%20help%20me%20get%20started%20with%20Ads%20Manager.>)
 
 ## How it works
 
@@ -58,21 +58,21 @@ Use Ads Manager to discover and manage ad accounts, campaigns, ad groups, and ad
 
   * ### Review advertising performance
 
-![](https://files.openai.com/content?id=file_00000000341081fda1cf8dbbd8717af9&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=b2d2947344376a03013ff347580827fd3caf0dfe4153de6ee83165950245f487&v=0)ChatGPT Ads Manager Compare spend, clicks, and conversions across my campaigns over the last 30 days. Flag missing attribution context and rank the areas that deserve investigation.
+![](https://files.openai.com/content?id=file_00000000c2fc81f69802de525db52cae&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=8&sig=bcd13387954f636aa38982d9bb74507795ef8a44b824a98a3b75375677c0ff8a&v=0)ChatGPT Ads Manager Compare spend, clicks, and conversions across my campaigns over the last 30 days. Flag missing attribution context and rank the areas that deserve investigation.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40ChatGPT+Ads+Manager+Compare+spend%2C+clicks%2C+and+conversions+across+my+campaigns+over+the+last+30+days.+Flag+missing+attribution+context+and+rank+the+areas+that+deserve+investigation.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_1p_2eb0f69766cc81919c6912b2a2e0755a?install&prompt=Compare%20spend%2C%20clicks%2C%20and%20conversions%20across%20my%20campaigns%20over%20the%20last%2030%20days.%20Flag%20missing%20attribution%20context%20and%20rank%20the%20areas%20that%20deserve%20investigation.&surface=work>)
 
   * ### Investigate inefficient spend
 
-![](https://files.openai.com/content?id=file_00000000341081fda1cf8dbbd8717af9&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=b2d2947344376a03013ff347580827fd3caf0dfe4153de6ee83165950245f487&v=0)ChatGPT Ads Manager Find campaigns with high spend and weak conversion performance over the last month. Explain the evidence and recommend a short list of follow-up checks.
+![](https://files.openai.com/content?id=file_00000000c2fc81f69802de525db52cae&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=8&sig=bcd13387954f636aa38982d9bb74507795ef8a44b824a98a3b75375677c0ff8a&v=0)ChatGPT Ads Manager Find campaigns with high spend and weak conversion performance over the last month. Explain the evidence and recommend a short list of follow-up checks.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40ChatGPT+Ads+Manager+Find+campaigns+with+high+spend+and+weak+conversion+performance+over+the+last+month.+Explain+the+evidence+and+recommend+a+short+list+of+follow-up+checks.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_1p_2eb0f69766cc81919c6912b2a2e0755a?install&prompt=Find%20campaigns%20with%20high%20spend%20and%20weak%20conversion%20performance%20over%20the%20last%20month.%20Explain%20the%20evidence%20and%20recommend%20a%20short%20list%20of%20follow-up%20checks.&surface=work>)
 
   * ### Prepare a campaign report
 
-![](https://files.openai.com/content?id=file_00000000341081fda1cf8dbbd8717af9&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=b2d2947344376a03013ff347580827fd3caf0dfe4153de6ee83165950245f487&v=0)ChatGPT Ads Manager Summarize this campaign's results for the last month versus the previous month. Highlight material changes, likely questions for the team, and data limitations.
+![](https://files.openai.com/content?id=file_00000000c2fc81f69802de525db52cae&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=8&sig=bcd13387954f636aa38982d9bb74507795ef8a44b824a98a3b75375677c0ff8a&v=0)ChatGPT Ads Manager Summarize this campaign's results for the last month versus the previous month. Highlight material changes, likely questions for the team, and data limitations.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40ChatGPT+Ads+Manager+Summarize+this+campaign%27s+results+for+the+last+month+versus+the+previous+month.+Highlight+material+changes%2C+likely+questions+for+the+team%2C+and+data+limitations.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_1p_2eb0f69766cc81919c6912b2a2e0755a?install&prompt=Summarize%20this%20campaign's%20results%20for%20the%20last%20month%20versus%20the%20previous%20month.%20Highlight%20material%20changes%2C%20likely%20questions%20for%20the%20team%2C%20and%20data%20limitations.&surface=work>)
 
 
 
@@ -95,15 +95,15 @@ Use Ads Manager to discover and manage ad accounts, campaigns, ad groups, and ad
   * Ads Manager Help
   * Ads Manager Insights
   * Set Up Ads Manager
-  * 3 more
+  * 4 more
 
 
 
 ## Resources
 
-### [Help centerLearn more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
+### [Help centerLearn more(opens in a new window)](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
 
-### [Plugin supportLearn more](<https://help.openai.com/en/articles/6614161-how-can-i-contact-support>)
+### [Plugin supportLearn more(opens in a new window)](<https://help.openai.com/en/articles/6614161-how-can-i-contact-support>)
 
 ### [Privacy policyLearn more](<https://openai.com/policies/privacy-policy/>)
 
@@ -115,7 +115,7 @@ Availability depends on the plugin, your plan, and workspace settings. Some conn
 
 ## Explore related plugins
 
-[![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)DataTurn data into clear decisions.](</business/plugins/data/>)[![](https://files.openai.com/content?id=file_00000000bdb4720caff269fd259bbdff&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=20268aaf4f0c92265b5b4945d13a456968c0e1a5013b3be043a94650a9b37e03&v=0)![](https://files.openai.com/content?id=file_00000000bdb4720caff269fd259bbdff&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=20268aaf4f0c92265b5b4945d13a456968c0e1a5013b3be043a94650a9b37e03&v=0)Creative ProductionUse the Creative Production plugin in ChatGPT to create, adapt, and review marketing assets, campaign concepts, ads, and launch creative.](</business/plugins/creative-production/>)[![](https://files.openai.com/content?id=file_00000000191081f79dfeddb7b502b1bf&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=3e3f6f7a793416cd9a93e61c94c2bd4631dd37631f592d4e774aa254e2b1c9b7&v=0)![](https://files.openai.com/content?id=file_00000000191081f79dfeddb7b502b1bf&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=3e3f6f7a793416cd9a93e61c94c2bd4631dd37631f592d4e774aa254e2b1c9b7&v=0)SalesPrepare account work and customer follow-up.](</business/plugins/sales/>)[![](https://files.openai.com/content?id=file_00000000faa071f68918f7da866d93a4&cdn=1&cp=pi&ma=30326400&ts=0&p=pi&cid=8&sig=4f07077e38872beff8ca7d05cc0692679dc04014200779e4cbce84f6604320cd&v=0)![](https://files.openai.com/content?id=file_00000000faa071f68918f7da866d93a4&cdn=1&cp=pi&ma=30326400&ts=0&p=pi&cid=8&sig=4f07077e38872beff8ca7d05cc0692679dc04014200779e4cbce84f6604320cd&v=0)SimilarwebWeb, app, search & market data](</business/plugins/similarweb/>)[![](https://files.openai.com/content?id=file_00000000a1a471fd81edff86e77ecd3b&cdn=1&cp=pi&ma=30326400&ts=0&p=pi&cid=1&sig=938d4b73498b8010276a2a2db3bd97736fb43368f7d6e6b918d92ed91ccbca4f&v=0)![](https://files.openai.com/content?id=file_00000000352871fd8a026326a6078808&cdn=1&cp=pi&ma=30585600&ts=0&p=pi&cid=1&sig=f2df03095c7e6c6c7c919a69e0395034bd5b155ed48e78a3780a4c33c6c23a4c&v=0)SemrushAsk about site metrics and traffic data.](</business/plugins/semrush/>)[![](https://files.openai.com/content?id=file_00000000b94c81f794fcf9c2fbefdf50&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=beb2787280ecaebf28c33ff6125c3de2f31ea2a47d7447cccb565029c8e86c65&v=0)![](https://files.openai.com/content?id=file_00000000b94c81f794fcf9c2fbefdf50&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=beb2787280ecaebf28c33ff6125c3de2f31ea2a47d7447cccb565029c8e86c65&v=0)SpreadsheetsCreate and edit spreadsheets](</business/plugins/spreadsheets/>)
+[![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)DataAnswer questions with data](</business/plugins/data/>)[![](https://files.openai.com/content?id=file_00000000bdb4720caff269fd259bbdff&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=20268aaf4f0c92265b5b4945d13a456968c0e1a5013b3be043a94650a9b37e03&v=0)![](https://files.openai.com/content?id=file_00000000bdb4720caff269fd259bbdff&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=20268aaf4f0c92265b5b4945d13a456968c0e1a5013b3be043a94650a9b37e03&v=0)Creative ProductionUse the Creative Production plugin in ChatGPT to create, adapt, and review marketing assets, campaign concepts, ads, and launch creative](</business/plugins/creative-production/>)[![](https://files.openai.com/content?id=file_00000000191081f79dfeddb7b502b1bf&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=3e3f6f7a793416cd9a93e61c94c2bd4631dd37631f592d4e774aa254e2b1c9b7&v=0)![](https://files.openai.com/content?id=file_00000000191081f79dfeddb7b502b1bf&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=3e3f6f7a793416cd9a93e61c94c2bd4631dd37631f592d4e774aa254e2b1c9b7&v=0)SalesPrepare account work and customer follow-up](</business/plugins/sales/>)[![](https://files.openai.com/content?id=file_00000000faa071f68918f7da866d93a4&cdn=1&cp=pi&ma=30326400&ts=0&p=pi&cid=8&sig=4f07077e38872beff8ca7d05cc0692679dc04014200779e4cbce84f6604320cd&v=0)![](https://files.openai.com/content?id=file_00000000faa071f68918f7da866d93a4&cdn=1&cp=pi&ma=30326400&ts=0&p=pi&cid=8&sig=4f07077e38872beff8ca7d05cc0692679dc04014200779e4cbce84f6604320cd&v=0)SimilarwebWeb, app, search & market data](</business/plugins/similarweb/>)[![](https://files.openai.com/content?id=file_00000000a1a471fd81edff86e77ecd3b&cdn=1&cp=pi&ma=30326400&ts=0&p=pi&cid=1&sig=938d4b73498b8010276a2a2db3bd97736fb43368f7d6e6b918d92ed91ccbca4f&v=0)![](https://files.openai.com/content?id=file_00000000352871fd8a026326a6078808&cdn=1&cp=pi&ma=30585600&ts=0&p=pi&cid=1&sig=f2df03095c7e6c6c7c919a69e0395034bd5b155ed48e78a3780a4c33c6c23a4c&v=0)SemrushResearch keywords & traffic](</business/plugins/semrush/>)[![](https://files.openai.com/content?id=file_00000000b94c81f794fcf9c2fbefdf50&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=beb2787280ecaebf28c33ff6125c3de2f31ea2a47d7447cccb565029c8e86c65&v=0)![](https://files.openai.com/content?id=file_00000000b94c81f794fcf9c2fbefdf50&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=beb2787280ecaebf28c33ff6125c3de2f31ea2a47d7447cccb565029c8e86c65&v=0)SpreadsheetsCreate and edit spreadsheets](</business/plugins/spreadsheets/>)
 
 ## Get started with plugins
 
@@ -133,10 +133,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -155,7 +155,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -202,6 +203,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

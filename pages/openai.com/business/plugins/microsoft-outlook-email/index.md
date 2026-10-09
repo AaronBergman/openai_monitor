@@ -32,7 +32,7 @@ OpenAI
 
 # Outlook Email
 
-Search and reference your Outlook email.
+Search and reference your Outlook email
 
 [Install plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_1p_6bcb5879c73c819196abc70016166099>)[Contact sales](</contact-sales/>)
 
@@ -64,19 +64,19 @@ Review your Outlook conversations to prepare replies, recap recent exchanges, ga
 
 ![](https://files.openai.com/content?id=file_0000000058ac81fbae22415c3105649e&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=8&sig=48cccf127f52db216b8d03d8f1602161a5b9d8145f27f8fbd36d14b6db41c76b&v=0)Outlook Email Summarize the most recent thread with procurement and pull the exact questions they asked so I can answer cleanly.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Outlook+Email+Summarize+the+most+recent+thread+with+procurement+and+pull+the+exact+questions+they+asked+so+I+can+answer+cleanly.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_1p_6bcb5879c73c819196abc70016166099?install&prompt=Summarize%20the%20most%20recent%20thread%20with%20procurement%20and%20pull%20the%20exact%20questions%20they%20asked%20so%20I%20can%20answer%20cleanly.&surface=work>)
 
   * ### Stay ahead of follow-ups and commitments
 
 ![](https://files.openai.com/content?id=file_0000000058ac81fbae22415c3105649e&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=8&sig=48cccf127f52db216b8d03d8f1602161a5b9d8145f27f8fbd36d14b6db41c76b&v=0)Outlook Email Draft a reply to the latest customer message that acknowledges the concern, sets expectations, and proposes two next-step options.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Outlook+Email+Draft+a+reply+to+the+latest+customer+message+that+acknowledges+the+concern%2C+sets+expectations%2C+and+proposes+two+next-step+options.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_1p_6bcb5879c73c819196abc70016166099?install&prompt=Draft%20a%20reply%20to%20the%20latest%20customer%20message%20that%20acknowledges%20the%20concern%2C%20sets%20expectations%2C%20and%20proposes%20two%20next-step%20options.&surface=work>)
 
   * ### Prioritize high-impact conversations
 
 ![](https://files.openai.com/content?id=file_0000000058ac81fbae22415c3105649e&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=8&sig=48cccf127f52db216b8d03d8f1602161a5b9d8145f27f8fbd36d14b6db41c76b&v=0)Outlook Email Find the top 5 emails I should respond to today based on urgency, seniority, and deadlines; include one-line suggested replies.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Outlook+Email+Find+the+top+5+emails+I+should+respond+to+today+based+on+urgency%2C+seniority%2C+and+deadlines%3B+include+one-line+suggested+replies.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_1p_6bcb5879c73c819196abc70016166099?install&prompt=Find%20the%20top%205%20emails%20I%20should%20respond%20to%20today%20based%20on%20urgency%2C%20seniority%2C%20and%20deadlines%3B%20include%20one-line%20suggested%20replies.&surface=work>)
 
 
 
@@ -91,11 +91,11 @@ Review your Outlook conversations to prepare replies, recap recent exchanges, ga
 
 ## Resources
 
-### [Help centerLearn more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
+### [Help centerLearn more(opens in a new window)](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
 
-### [Plugin supportLearn more](<https://support.microsoft.com/outlook>)
+### [Plugin supportLearn more(opens in a new window)](<https://support.microsoft.com/outlook>)
 
-### [Privacy policyLearn more](<https://privacy.microsoft.com>)
+### [Privacy policyLearn more(opens in a new window)](<https://privacy.microsoft.com>)
 
 ## Add the Outlook Email plugin in a few clicks
 
@@ -105,7 +105,7 @@ Availability depends on the plugin, your plan, and workspace settings. Some conn
 
 ## Explore related plugins
 
-[![](https://files.openai.com/content?id=file_00000000191081f79dfeddb7b502b1bf&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=3e3f6f7a793416cd9a93e61c94c2bd4631dd37631f592d4e774aa254e2b1c9b7&v=0)![](https://files.openai.com/content?id=file_00000000191081f79dfeddb7b502b1bf&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=3e3f6f7a793416cd9a93e61c94c2bd4631dd37631f592d4e774aa254e2b1c9b7&v=0)SalesPrepare account work and customer follow-up.](</business/plugins/sales/>)[![](https://files.openai.com/content?id=file_000000002700722fa321dfd1a3710fc6&cdn=1&cp=pi&ma=32486400&ts=0&p=pi&cid=1&sig=1a95085af00317282f9ed2413840f1f88ec348d875db324b791570e026721710&v=0)![](https://files.openai.com/content?id=file_000000002700722fa321dfd1a3710fc6&cdn=1&cp=pi&ma=32486400&ts=0&p=pi&cid=1&sig=1a95085af00317282f9ed2413840f1f88ec348d875db324b791570e026721710&v=0)Outlook CalendarLook up events and availability.](</business/plugins/microsoft-outlook-calendar/>)[![](https://files.openai.com/content?id=file_00000000bec871f5b16bea82279ccf21&cdn=1&cp=pi&ma=31536000&ts=0&p=pi&cid=1&sig=dae48439fa494947db53290285649ef7f8819b8db88432aa57eb884533747051&v=0)![](https://files.openai.com/content?id=file_00000000bec871f5b16bea82279ccf21&cdn=1&cp=pi&ma=31536000&ts=0&p=pi&cid=1&sig=dae48439fa494947db53290285649ef7f8819b8db88432aa57eb884533747051&v=0)SharePointSearch and pull from shared sites and OneDrive.](</business/plugins/microsoft-sharepoint/>)[![](https://files.openai.com/content?id=file_00000000290c81f6b165c1e4941266a3&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=8&sig=aac8f7270051b9307ea721f89136ce46aaf1dffcbdaea6eba9ba95fc9212473d&v=0)![](https://files.openai.com/content?id=file_00000000290c81f6b165c1e4941266a3&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=8&sig=aac8f7270051b9307ea721f89136ce46aaf1dffcbdaea6eba9ba95fc9212473d&v=0)TeamsLook up chats and messages.](</business/plugins/microsoft-teams/>)[![](https://files.openai.com/content?id=file_0000000005fc722f88207b67c3fbe10a&cdn=1&cp=pi&ma=31190400&ts=0&p=pi&cid=1&sig=4fccf640c85543b3c2aa0a0de6592ed9e1d71bbeb3169bb63bf4217a6809857f&v=0)![](https://files.openai.com/content?id=file_0000000005fc722f88207b67c3fbe10a&cdn=1&cp=pi&ma=31190400&ts=0&p=pi&cid=1&sig=4fccf640c85543b3c2aa0a0de6592ed9e1d71bbeb3169bb63bf4217a6809857f&v=0)SalesforceUse the Salesforce plugin to review permitted CRM records, understand accounts and deals, summarize pipeline risk, and prepare follow-up.](</business/plugins/salesforce/>)[![](https://files.openai.com/content?id=file_000000006e70720e8240729562593f87&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=881a44cfa311712291121e9cda4ef4b8d7fef216108a65296a5898c02d91507e&v=0)![](https://files.openai.com/content?id=file_00000000042c720882209039c0de8dbb&cdn=1&cp=pi&ma=31881600&ts=0&p=pi&cid=8&sig=6488ddb504fdc95531899e70229555079be3267f213ba9f836a0a92bc39864a8&v=0)DocusignManage contracts from ChatGPT](</business/plugins/docusign/>)
+[![](https://files.openai.com/content?id=file_00000000191081f79dfeddb7b502b1bf&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=3e3f6f7a793416cd9a93e61c94c2bd4631dd37631f592d4e774aa254e2b1c9b7&v=0)![](https://files.openai.com/content?id=file_00000000191081f79dfeddb7b502b1bf&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=3e3f6f7a793416cd9a93e61c94c2bd4631dd37631f592d4e774aa254e2b1c9b7&v=0)SalesPrepare account work and customer follow-up](</business/plugins/sales/>)[![](https://files.openai.com/content?id=file_000000002700722fa321dfd1a3710fc6&cdn=1&cp=pi&ma=32486400&ts=0&p=pi&cid=1&sig=1a95085af00317282f9ed2413840f1f88ec348d875db324b791570e026721710&v=0)![](https://files.openai.com/content?id=file_000000002700722fa321dfd1a3710fc6&cdn=1&cp=pi&ma=32486400&ts=0&p=pi&cid=1&sig=1a95085af00317282f9ed2413840f1f88ec348d875db324b791570e026721710&v=0)Outlook CalendarLook up events and availability](</business/plugins/microsoft-outlook-calendar/>)[![](https://files.openai.com/content?id=file_00000000bec871f5b16bea82279ccf21&cdn=1&cp=pi&ma=31536000&ts=0&p=pi&cid=1&sig=dae48439fa494947db53290285649ef7f8819b8db88432aa57eb884533747051&v=0)![](https://files.openai.com/content?id=file_00000000bec871f5b16bea82279ccf21&cdn=1&cp=pi&ma=31536000&ts=0&p=pi&cid=1&sig=dae48439fa494947db53290285649ef7f8819b8db88432aa57eb884533747051&v=0)SharePointSearch and pull from shared sites and OneDrive](</business/plugins/microsoft-sharepoint/>)[![](https://files.openai.com/content?id=file_00000000290c81f6b165c1e4941266a3&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=8&sig=aac8f7270051b9307ea721f89136ce46aaf1dffcbdaea6eba9ba95fc9212473d&v=0)![](https://files.openai.com/content?id=file_00000000290c81f6b165c1e4941266a3&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=8&sig=aac8f7270051b9307ea721f89136ce46aaf1dffcbdaea6eba9ba95fc9212473d&v=0)TeamsLook up chats and messages](</business/plugins/microsoft-teams/>)[![](https://files.openai.com/content?id=file_0000000005fc722f88207b67c3fbe10a&cdn=1&cp=pi&ma=31190400&ts=0&p=pi&cid=1&sig=4fccf640c85543b3c2aa0a0de6592ed9e1d71bbeb3169bb63bf4217a6809857f&v=0)![](https://files.openai.com/content?id=file_0000000005fc722f88207b67c3fbe10a&cdn=1&cp=pi&ma=31190400&ts=0&p=pi&cid=1&sig=4fccf640c85543b3c2aa0a0de6592ed9e1d71bbeb3169bb63bf4217a6809857f&v=0)SalesforceUse the Salesforce plugin to review permitted CRM records, understand accounts and deals, summarize pipeline risk, and prepare follow-up](</business/plugins/salesforce/>)[![](https://files.openai.com/content?id=file_000000006e70720e8240729562593f87&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=881a44cfa311712291121e9cda4ef4b8d7fef216108a65296a5898c02d91507e&v=0)![](https://files.openai.com/content?id=file_00000000042c720882209039c0de8dbb&cdn=1&cp=pi&ma=31881600&ts=0&p=pi&cid=8&sig=6488ddb504fdc95531899e70229555079be3267f213ba9f836a0a92bc39864a8&v=0)DocusignManage contracts from ChatGPT](</business/plugins/docusign/>)
 
 ## Get started with plugins
 
@@ -123,10 +123,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -145,7 +145,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -192,6 +193,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

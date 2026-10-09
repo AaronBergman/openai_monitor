@@ -32,7 +32,7 @@ OpenAI
 
 # Morningstar
 
-Access live market insights.
+Investment and market insights
 
 [Install plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69248819fa4c81918047c4b42b1f8823>)[Contact sales](</contact-sales/>)
 
@@ -45,11 +45,11 @@ Developer
 Website
     [(opens in a new window)](<https://www.morningstar.com/business/products/direct-ai-solutions>)
 
-[![](https://files.openai.com/content?id=file_0000000040a071f59035080394b85878&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=1&sig=7f0b73057fb6d2751f37081fbea05f5e14ee664fa57b6306cd7691deb0b95240&v=0)Morningstar Screen for ETFs with a Medalist Rating better than Silver, a Morningstar Rating over 4 stars, in the Large Value category.(opens in a new window)](<https://chatgpt.com/?prompt=%40Morningstar+Screen+for+ETFs+with+a+Medalist+Rating+better+than+Silver%2C+a+Morningstar+Rating+over+4+stars%2C+in+the+Large+Value+category.>)
+[![](https://files.openai.com/content?id=file_0000000040a071f59035080394b85878&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=1&sig=7f0b73057fb6d2751f37081fbea05f5e14ee664fa57b6306cd7691deb0b95240&v=0)Morningstar Screen for ETFs with a Medalist Rating better than Silver, a Morningstar Rating over 4 stars, in the Large Value category.(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69248819fa4c81918047c4b42b1f8823?install&prompt=Screen%20for%20ETFs%20with%20a%20Medalist%20Rating%20better%20than%20Silver%2C%20a%20Morningstar%20Rating%20over%204%20stars%2C%20in%20the%20Large%20Value%20category.>)
 
 ## How it works
 
-Bring Morningstar research and market data into workflows to analyze investments, screen opportunities, and answer portfolio questions using consistent, analyst-backed insights.
+Integrate Morningstar's comprehensive investment data and independent research directly into your AI workflows. Through our MCP-powered connector, clients can explore cross-asset coverage, including funds, equities, and beyond, enhanced by forward-looking insights from our global analyst teams. Access trusted, unbiased intelligence to support investment decisions, due diligence, and portfolio strategy in one seamless experience.
 
 ## What else can you do?
 
@@ -57,19 +57,19 @@ Bring Morningstar research and market data into workflows to analyze investments
 
 ![](https://files.openai.com/content?id=file_0000000040a071f59035080394b85878&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=1&sig=7f0b73057fb6d2751f37081fbea05f5e14ee664fa57b6306cd7691deb0b95240&v=0)Morningstar Draft a short due diligence memo for an investment committee meeting comparing two funds I am considering.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Morningstar+Draft+a+short+due+diligence+memo+for+an+investment+committee+meeting+comparing+two+funds+I+am+considering.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69248819fa4c81918047c4b42b1f8823?install&prompt=Draft%20a%20short%20due%20diligence%20memo%20for%20an%20investment%20committee%20meeting%20comparing%20two%20funds%20I%20am%20considering.&surface=work>)
 
   * ### Improve screening and comparisons
 
 ![](https://files.openai.com/content?id=file_0000000040a071f59035080394b85878&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=1&sig=7f0b73057fb6d2751f37081fbea05f5e14ee664fa57b6306cd7691deb0b95240&v=0)Morningstar Screen for dividend focused ETFs with strong ratings, low fees, and consistent returns, and show the top candidates.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Morningstar+Screen+for+dividend+focused+ETFs+with+strong+ratings%2C+low+fees%2C+and+consistent+returns%2C+and+show+the+top+candidates.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69248819fa4c81918047c4b42b1f8823?install&prompt=Screen%20for%20dividend%20focused%20ETFs%20with%20strong%20ratings%2C%20low%20fees%2C%20and%20consistent%20returns%2C%20and%20show%20the%20top%20candidates.&surface=work>)
 
   * ### Analyze portfolios with context
 
 ![](https://files.openai.com/content?id=file_0000000040a071f59035080394b85878&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=1&sig=7f0b73057fb6d2751f37081fbea05f5e14ee664fa57b6306cd7691deb0b95240&v=0)Morningstar Compare VOO, IVV, and SPY on fees, holdings overlap, risk, and ratings, and tell me which is best for a long term core position.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Morningstar+Compare+VOO%2C+IVV%2C+and+SPY+on+fees%2C+holdings+overlap%2C+risk%2C+and+ratings%2C+and+tell+me+which+is+best+for+a+long+term+core+position.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69248819fa4c81918047c4b42b1f8823?install&prompt=Compare%20VOO%2C%20IVV%2C%20and%20SPY%20on%20fees%2C%20holdings%20overlap%2C%20risk%2C%20and%20ratings%2C%20and%20tell%20me%20which%20is%20best%20for%20a%20long%20term%20core%20position.&surface=work>)
 
 
 
@@ -94,11 +94,11 @@ Bring Morningstar research and market data into workflows to analyze investments
 
 ## Resources
 
-### [Help centerLearn more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
+### [Help centerLearn more(opens in a new window)](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
 
-### [Plugin supportLearn more](<https://www.morningstar.com/views/contact-us>)
+### [Plugin supportLearn more(opens in a new window)](<https://www.morningstar.com/views/contact-us>)
 
-### [Privacy policyLearn more](<https://www.morningstar.com/company/privacy-policy>)
+### [Privacy policyLearn more(opens in a new window)](<https://www.morningstar.com/company/privacy-policy>)
 
 ## Add the Morningstar plugin in a few clicks
 
@@ -108,7 +108,7 @@ Availability depends on the plugin, your plan, and workspace settings. Some conn
 
 ## Explore related plugins
 
-[![](https://files.openai.com/content?id=file_00000000179c722f9e8a66d8ff27e98b&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=1&sig=95f7e407c6513f685f25b524ef42ee91ef631083e36c6ea4e3e24667b4692c84&v=0)![](https://files.openai.com/content?id=file_00000000179c722f9e8a66d8ff27e98b&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=1&sig=95f7e407c6513f685f25b524ef42ee91ef631083e36c6ea4e3e24667b4692c84&v=0)Public Equity InvestingSupport company research and deal analysis.](</business/plugins/public-equity-investing/>)[![](https://files.openai.com/content?id=file_00000000e4a8720c9b8cba8aaa6e4f70&cdn=1&cp=pi&ma=30672000&ts=0&p=pi&cid=1&sig=d35f6f0a310b11e0360584d048c93f8d76adf2e2f59543a08c73b34c7e02721f&v=0)![](https://files.openai.com/content?id=file_00000000e4a8720c9b8cba8aaa6e4f70&cdn=1&cp=pi&ma=30672000&ts=0&p=pi&cid=1&sig=d35f6f0a310b11e0360584d048c93f8d76adf2e2f59543a08c73b34c7e02721f&v=0)Investment BankingBuild banking analysis and client-ready materials.](</business/plugins/investment-banking/>)[![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)DataTurn data into clear decisions.](</business/plugins/data/>)[![](https://files.openai.com/content?id=file_00000000af747230bc1606d46c839ee8&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=1&sig=c8a8bc6383ae28c34005525b223aab157382f62b2c5ff707b76f4a38b1b33e32&v=0)![](https://files.openai.com/content?id=file_00000000af747230bc1606d46c839ee8&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=1&sig=c8a8bc6383ae28c34005525b223aab157382f62b2c5ff707b76f4a38b1b33e32&v=0)DaloopaAccess financial KPIs with source links.](</business/plugins/daloopa/>)[![](https://files.openai.com/content?id=file_00000000838c71f689139639dc435b8e&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=8&sig=ded0420cc73fb5c48598cd93c52b4a70df4b0f8445c20c8d1c8c2ecc49f77954&v=0)![](https://files.openai.com/content?id=file_00000000838c71f689139639dc435b8e&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=8&sig=ded0420cc73fb5c48598cd93c52b4a70df4b0f8445c20c8d1c8c2ecc49f77954&v=0)LSEGAccess LSEG financial data for pricing and market analysis.](</business/plugins/lseg/>)[![](https://files.openai.com/content?id=file_000000000aac722f9874ed898f906fe5&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=1&sig=85be1e32ecd5938ebde62c35d9d37bc83792db94ae1d5bbc145313f90f374c50&v=0)![](https://files.openai.com/content?id=file_000000009ec481f6b74903ef6fa4c2bd&cdn=1&cp=pi&ma=32486400&ts=0&p=pi&cid=8&sig=1b4092ec812db85c9135837e27a157eec9d4077b2ede5f941a94ea7ae1504a88&v=0)PitchBookFaster workflows with market intelligence.](</business/plugins/pitchbook/>)
+[![](https://files.openai.com/content?id=file_00000000179c722f9e8a66d8ff27e98b&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=1&sig=95f7e407c6513f685f25b524ef42ee91ef631083e36c6ea4e3e24667b4692c84&v=0)![](https://files.openai.com/content?id=file_00000000179c722f9e8a66d8ff27e98b&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=1&sig=95f7e407c6513f685f25b524ef42ee91ef631083e36c6ea4e3e24667b4692c84&v=0)Public Equity InvestingPublic equity research](</business/plugins/public-equity-investing/>)[![](https://files.openai.com/content?id=file_00000000e4a8720c9b8cba8aaa6e4f70&cdn=1&cp=pi&ma=30672000&ts=0&p=pi&cid=1&sig=d35f6f0a310b11e0360584d048c93f8d76adf2e2f59543a08c73b34c7e02721f&v=0)![](https://files.openai.com/content?id=file_00000000e4a8720c9b8cba8aaa6e4f70&cdn=1&cp=pi&ma=30672000&ts=0&p=pi&cid=1&sig=d35f6f0a310b11e0360584d048c93f8d76adf2e2f59543a08c73b34c7e02721f&v=0)Investment BankingM&A, valuation, and financing](</business/plugins/investment-banking/>)[![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)DataAnswer questions with data](</business/plugins/data/>)[![](https://files.openai.com/content?id=file_00000000af747230bc1606d46c839ee8&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=1&sig=c8a8bc6383ae28c34005525b223aab157382f62b2c5ff707b76f4a38b1b33e32&v=0)![](https://files.openai.com/content?id=file_00000000af747230bc1606d46c839ee8&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=1&sig=c8a8bc6383ae28c34005525b223aab157382f62b2c5ff707b76f4a38b1b33e32&v=0)DaloopaFinancial KPIs with links](</business/plugins/daloopa/>)[![](https://files.openai.com/content?id=file_00000000838c71f689139639dc435b8e&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=8&sig=ded0420cc73fb5c48598cd93c52b4a70df4b0f8445c20c8d1c8c2ecc49f77954&v=0)![](https://files.openai.com/content?id=file_00000000838c71f689139639dc435b8e&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=8&sig=ded0420cc73fb5c48598cd93c52b4a70df4b0f8445c20c8d1c8c2ecc49f77954&v=0)LSEGData and analytics](</business/plugins/lseg/>)[![](https://files.openai.com/content?id=file_000000000aac722f9874ed898f906fe5&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=1&sig=85be1e32ecd5938ebde62c35d9d37bc83792db94ae1d5bbc145313f90f374c50&v=0)![](https://files.openai.com/content?id=file_000000009ec481f6b74903ef6fa4c2bd&cdn=1&cp=pi&ma=32486400&ts=0&p=pi&cid=8&sig=1b4092ec812db85c9135837e27a157eec9d4077b2ede5f941a94ea7ae1504a88&v=0)PitchBookPrivate capital market data](</business/plugins/pitchbook/>)
 
 ## Get started with plugins
 
@@ -126,10 +126,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -148,7 +148,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -195,6 +196,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

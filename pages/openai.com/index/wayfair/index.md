@@ -26,11 +26,11 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-March 11, 2026
+September 25, 2026
 
 # Wayfair boosts catalog accuracy and support speed with OpenAI
 
-By embedding OpenAI models in supplier and catalog systems, Wayfair improved data accuracy and automated workflows for millions of products.
+Wayfair uses the OpenAI API to tag and categorize millions of products more accurately, helping shoppers find their perfect piece.
 
 [Contact sales](</contact-sales/>)
 
@@ -46,9 +46,9 @@ Products: API, ChatGPT
 
 Results
 
-2.5M
+11M+
 
-Product tags corrected
+Product specs validated
 
 Results
 
@@ -69,106 +69,91 @@ Share
 Solving catalog quality at scale
 
   * Solving catalog quality at scale
-  * Building a reusable AI architecture
-  * Rethinking supplier support workflows with Wilma
+  * Building a reusable AI system for product attributes
+  * Accelerating supplier support workflows with Wilma
+  * Bringing ChatGPT to teams across Wayfair
   * Results at a glance
-  * What’s next 
+  * What’s next
 
 
 
   * Solving catalog quality at scale
-  * Building a reusable AI architecture
-  * Rethinking supplier support workflows with Wilma
+  * Building a reusable AI system for product attributes
+  * Accelerating supplier support workflows with Wilma
+  * Bringing ChatGPT to teams across Wayfair
   * Results at a glance
-  * What’s next 
+  * What’s next
 
 
 
-Wayfair, one of the world’s largest home goods retailers, has integrated OpenAI models into critical internal systems to improve supplier support workflows and product catalog quality at scale. What began as value-testing small scale releases in 2024 has evolved into a full production system that reduces manual effort, accelerates decision-making and improves data quality across millions of products.
+Wayfair, the destination of all things home, helps shoppers find the right pieces for their homes from a catalog of roughly 40 million items. Keeping product information accurate and handling complex requests from tens of thousands of suppliers required substantial manual work. With OpenAI models, Wayfair built AI systems that validated over 11 million product specs and automated work across 41,000 supplier support tickets a month, with automation reaching up to 70% of tickets in some workflows. Together, these systems created more opportunities to grow sales from Wayfair’s existing catalog while freeing up team capacity by reducing manual work in catalog management and supplier support.
 
-Rather than treat generative AI as an experiment or point solution, Wayfair embedded OpenAI models into core operational workflows. The company focused first where complexity and need for scale were highest: routing and resolving supplier support requests and improving tens of thousands of product attributes consistently across a catalog of roughly 30 million items.
+> “What’s been most valuable about working with OpenAI is the partnership. It’s not just access to the models. It’s working through new use cases together and being able to move quickly.”
 
-> “What’s been most valuable is the thought partnership. It’s not just access to the models. It’s working through new use cases together and being able to move quickly.”
+—Fiona Tan, Chief Technology Officer, Wayfair
 
-—Fiona Tan, Chief Technology Officer
+## Solving catalog quality at scale
 
-##   
-Solving catalog quality at scale
+Wayfair’s catalog team manages tens of millions of products across nearly a thousand different product classes. Accurate tags for color, material, size, and other features power search, recommendations, and merchandising—helping shoppers more easily find pieces that fit their needs and feel confident about what they’re buying.
 
-Wayfair’s catalog team manages tens of millions of products across nearly a thousand different product classes. Consistent and accurate product attribute tags—such as color, material, size or specific features—are essential for search, recommendations and merchandising. 
+“The better our data quality, the more trust we build with the customer. It’s essential because it empowers shoppers to make the right buying decisions, directly reducing costly downstream issues like returns from misrepresented products,” said Jessica D’Arcy, Associate Director of Catalog Merchandising at Wayfair.
 
-"The better our data quality, the more trust we build with the customer. It’s essential because it empowers shoppers to make the right buying decisions, directly reducing costly downstream issues like returns from misrepresented products," said Jessica D'Arcy, Associate Director of Catalog Merchandising at Wayfair. 
+Before partnering with OpenAI, Wayfair’s tagging relied on suppliers and customers telling Wayfair that something looked wrong. Manual effort could not keep up with the volume. Early custom AI models for tagging were effective, but proved expensive at scale. With 47,000 tags to support, Wayfair needed a more effective approach.
 
-Before OpenAI, tagging improvements primarily relied on suppliers and customers to tell Wayfair that something looked wrong. Manual effort could not keep up with the volume. Early custom AI models for individual tags were effective, but proved expensive to build and maintain. “We started by building bespoke models for individual tags, and technically that worked,” said Carolyn Phillips, Wayfair’s staff machine learning scientist. “But when you’re looking at 47,000 tags, that approach just doesn’t scale.”
-
-##   
-Building a reusable AI architecture
+## Building a reusable AI system for product attributes
 
 ![UI screenshot of an AI product quality review for a “Round Walnut Solid Wood Coffee Table, 28.7”.” On the left is a product photo of a low round wooden coffee table with cylindrical legs and a vase on top. On the right is a table comparing Original Value vs AI Correction for product attributes. The AI flags several issues: correcting wood species from Walnut to Pine, changing leg design from Bun Feet to Straight Legs, marking Unfinished and Scalloped Edges as No, and adding Drawers Included: No. Dimensions and tabletop thickness remain unchanged. A banner indicates AI Quality Review – 5 issues found, and a footer notes 4 corrections made, 1 attribute added, 2 attributes verified, with all corrections applied automatically.](https://images.ctfassets.net/kftzwdyauwt9/6OP1wkY8q6cQDaebaOCy8U/513037c865bc884734619fe30dec1b7e/wayfair_16x9_AIQR.png?w=3840&q=90&fm=webp)
 
-To get beyond one-off models, Wayfair created a tag-agnostic system built on a single OpenAI model. A “definition agent” ingests the web and internal definitions to produce contextual meaning for each tag. “The real bottleneck wasn’t the model performance,” said Phillips. “It was the human time required to define and encode what each tag actually meant.” This context, along with product data aggregated from across Wayfair’s data ecosystem, feeds into a framework that can classify attributes across product classes. The team is now expanding model coverage to new attributes at 70x the rate they were just a year ago.
+Wayfair built an AI catalog quality system with OpenAI models to check and label product details, such as color, material, and size. First, the system uses web information and Wayfair’s internal definitions to create a guide explaining what each label means. The models then use that guide to review product information and assign the appropriate labels.
 
-The system has now run in production on more than 1 million products. And the first wave of products with enhanced attributes has now been live long enough to measure the impact of improving data quality on the customer journey. “When you improve attribute completeness, it’s not abstract. You see it show up in SEO and PLA performance—in how customers discover products,” said Phillips. A controlled A/B test showed a substantial and significant increase in impressions, clicks, and page rank in the treatment group.
+With this system, Wayfair is now expanding the range of product details its AI can check at 70 times last year’s pace. That helps Wayfair improve catalog accuracy with less manual work—making products easier to find and reducing the risk of returns caused by inaccurate listings.
 
-However, Wayfair didn’t simply hand off decisions on correcting product data to the model. “Our objective is to build trust so that customers are completely confident in what they are purchasing,” said Phillips. The company developed structured testing using a hands-on audit process in which associates physically inspect samples to validate model output, and worked with suppliers to validate changes. Now, when data-based confidence is high, automated systems will overwrite the content directly and notify the supplier of the change. And, when a high standard is not met or the tag is deemed high risk, Wayfair first seeks supplier confirmation before making the change.
+“Our objective is to build trust so that customers are completely confident in what they are purchasing,” said Phillips. Wayfair developed a structured audit process in which associates inspect product samples to check the output, and suppliers help validate changes. When confidence is high, the system updates product content directly and notifies the supplier. Low-confidence or high-risk changes require supplier confirmation before taking effect.
 
-## Rethinking supplier support workflows with Wilma
+The AI-powered catalog quality system has processed more than 1 million products, and a controlled A/B test showed a significant increase in impressions, clicks, and page rank in the treatment group. For Wayfair, better product data translated into greater visibility and more shopper clicks—creating more opportunities to generate sales from its existing catalog. “When you improve attribute completeness, it’s not abstract. You see it show up in SEO and PLA performance—in how customers discover products,” said Phillips.
 
-  
-Wayfair works with tens of thousands of suppliers to support their comprehensive catalog. To manage supplier support requests, Wayfair associates historically reviewed every incoming ticket, manually identified what suppliers were trying to accomplish, and routed issues to the correct internal owner—a time-consuming and error-prone process. “Supplier requests aren’t simple,” said Graham Ganssle, supplier support and operations at Wayfair. “They span hundreds of issue types, and no single associate can realistically master all of them.”
+## Accelerating supplier support workflows with Wilma
 
-Wayfair added agentic features to a product named Wilma to augment these workflows with AI. One of the first features in production is ticket triage powered by an OpenAI model. The system reads incoming requests, fills in missing context and routes tickets to the appropriate team. Wilma was designed to be deployable fast; built on a system already integrated with OpenAI APIs, it moved from prototype to live in approximately one month. “Wilma gives associates leverage,” said Ganssle. “It reads the ticket, identifies intent, fills in context from our databases, reaches back out to suppliers if necessary, and points the issue in the right direction.”
+Wayfair works with tens of thousands of suppliers each month. Wayfair associates previously reviewed each incoming supplier support ticket manually, identified what the supplier needed, and routed the issue to the appropriate team. This was a time-consuming and error-prone process. “Supplier support covers hundreds of different issue types,” said Brian Seaman, Head of Applied Science for Global Supplier at Wayfair. “It’s not realistic to expect any one associate to have deep expertise in every one of them.”
 
-Beyond routing, Wayfair has deployed a dozen agentic AI flows for specific resolution teams. For example, a co-pilot for the Replacement Part Operations team reads complex case history, proposes next steps and suggests draft responses that human associates review. These assistants are trained on historical data so they learn what success looks like in context. “The models can synthesize context across the entire journey in a way that’s hard for a single associate to do,” said Ganssle. “That broader visibility contributes to higher customer and supplier satisfaction.”
+To help address these challenges, Wayfair added AI to help triage tickets in its custom supplier support platform called Wilma. With OpenAI models, the supplier support platform can now read incoming requests, fill in missing context, and route tickets to the right team. The existing OpenAI API integration helped the team move from idea to production in under one month. “Wilma gives associates the information they need to act,” said Seaman. “It reads the request, identifies what the supplier needs, brings in context from our databases, follows up with the supplier when needed, and routes the issue to the right team.”
 
-Wayfair tracks how often the AI’s recommendations match the human agent’s final decision—a metric called “alignment rate.” Within each team, when alignment consistently reaches a predetermined threshold, workflows can shift from assistive (“co-pilot”) to semi-autonomous (“autopilot”) modes. This staged approach builds trust and ensures quality controls during rollout.
+Beyond routing tickets, Wayfair has deployed dozens of AI agentic workflows to help teams resolve supplier requests. For example, AI reviews past records, assesses complex cases, suggests next steps, and drafts responses for the Replacement Parts Operations team to review—helping associates resolve supplier issues faster with less manual effort.
 
-> “If you don’t route the issue correctly at the start, everything downstream slows down. Triage is foundational.”
+> “OpenAI models bring together context from across the entire journey that would be difficult for one associate to piece together. That visibility helps us provide better support and contributes to higher customer and supplier satisfaction.”
 
-–Graham Ganssle, supplier support operations, Wayfair
+—Brian Seaman, Head of Applied Science for Global Supplier at Wayfair
 
-##   
-Results at a glance
+Wayfair evaluates how often the AI recommendations match the human agent’s final decision, a metric called “alignment rate.” Workflows that consistently reach a predetermined threshold can shift from assistive (“co-pilot”) to semi-autonomous (“autopilot”) modes. This staged evaluation approach helps teams decide when a workflow is ready for greater autonomy.
 
-Wayfair reports measurable improvements since integrating OpenAI models into internal systems.
+## Bringing ChatGPT to teams across Wayfair
 
-On the catalog side, the company reduced the number of wrong or missing product attribute tags a customer might see—having corrected 2.5M product tags across over a million of the most visible and purchased products in the Wayfair catalog. They expect to quadruple this impact in the next six months.
+Beyond building custom AI workflows, Wayfair has deployed more than 1,200 ChatGPT Enterprise seats across its approximately 12,000-person workforce. Employees use ChatGPT to tackle everyday tasks, solve internal problems, and experiment with generative models. Wayfair has also enabled ChatGPT Work, connecting it to tools like Slack and Google Drive to help teams streamline their day-to-day workflows.
 
-In supplier support, triage, co-pilot, and auto-pilot systems have increased throughput by automating 41,000 tickets per month (that’s up to 70% in some workflows) and reduced turnaround times by removing routine manual work from associate workloads. This dramatically cuts time to resolution for multiple workflows, significantly lifts supplier satisfaction, and reduces ticket re-opens in those workflows.
+## Results at a glance
 
-The broader visibility that models provide into tickets and supplier intent—beyond what a single associate can see on a screen—has contributed to that increase in satisfaction.
+On the catalog side, Wayfair validated and corrected attribute data across more than 11 million of its most visible and frequently purchased products. Next, Wayfair plans to deploy the capability to cover every new product added to the catalog, helping to maximize product visibility and sales from the very beginning of the product lifecycle.
 
-Operationally, teams report:
+In supplier support, Wayfair automates 41,000 support tickets per month, with automation now reaching up to 70% of total ticket volume in some workflows. Teams have also seen much faster resolution times, higher supplier satisfaction, and fewer reopened tickets.
 
-  * Faster routing and resolution of complex supplier tickets
+Wayfair has reported a few additional results:
 
-  * Increased supplier satisfaction
-
-  * Reduced manual data entry and classification work
+  * Saving teams hundreds of hours of work from manual data entry and classification
 
   * Broader issue coverage without requiring expertise across hundreds of topics
 
-  * Higher confidence in catalog attributes before publication.
+  * Greater confidence in catalog attributes before publication
 
 
 
 
-Wayfair has also deployed more than 1,200 ChatGPT Enterprise seats across its approximately 12,000-person workforce to support ad hoc tasks, internal problem solving and experimentation with generative models.
+## What’s next
 
-## What’s next  
+Looking ahead, Wayfair continues to explore how OpenAI’s latest models can solve complex problems and reimagine the shopping experience. “We’re excited about the scope of problems we can now tackle,” said Carolyn Phillips. “Traditional algorithms require tightly defined datasets. OpenAI models allow us to work through ambiguity and context in a way that wasn’t previously scalable.”
 
+40 million products. The right piece finds its place. That’s Intelligence at Work.
 
-Wayfair has a long history of investing in machine learning and collaboration with AI platforms and LLM providers to advance their business. Now, advances in frontier models, particularly multimodal systems, are expanding what its teams can build. That matters in home retail, where products are visual, stylistic and often subjective.
-
-“We’re excited about the scope of problems we can now tackle,” said Carolyn Phillips. “Traditional algorithms require tightly defined datasets. These models allow us to work through ambiguity and context in a way that wasn’t previously scalable.” 
-
-Looking forward, the employee demand for ChatGPT Enterprise has been strong. Teams at Wayfair see it as a practical tool that helps them move faster.
-
-Customer expectations are also shifting quickly. More shoppers are becoming comfortable using AI in their daily lives, and they are beginning to expect similar capabilities when they browse, compare and buy online.
-
-“At home, customers often don’t have the exact words for what they’re looking for,” said Fiona Tan. “Natural language and multimodal systems help bridge that gap.”
-
-For Wayfair leaders, the goal remains to augment human expertise while scaling internal capability. “We’re building for a world where AI is part of the shopping journey—whether that’s on our site, through support, or through conversational interfaces,” concluded Fiona Tan.
+For Wayfair, Intelligence at Work means bringing together its teams’ expertise and OpenAI’s technology to improve product discovery and make supplier support more efficient. “We’re building for a world where AI is part of the shopping journey—whether that’s on our site, through support, or through conversational interfaces,” concluded Fiona Tan. The opportunity ahead is to continue using AI to lower operating costs, strengthen customer loyalty, and drive growth.
 
 ## Join the new era of work
 
@@ -178,17 +163,17 @@ More than 1 million businesses around the world are achieving meaningful results
 
 ## Keep reading
 
-![Better prompt caching for GPT-6 — Card image](https://images.ctfassets.net/kftzwdyauwt9/72ZKzMh8JgRDfdg4EYRtwY/ee5e406a08b69f00b0beb4ac00270364/7kneoqlc2qh37z1utkmtfk-cover-v1.png?w=3840&q=90&fm=webp)
+![Sophos — Cover and hero](https://images.ctfassets.net/kftzwdyauwt9/1P20n8fwC9VPtZMwIo7LvQ/ac2c0e5498ae97ff69542779cf204e7d/sophos-cover-hero.png?w=3840&q=90&fm=webp)
 
-[Better prompt caching for GPT-6ProductSep 22, 2026](</index/better-prompt-caching-for-gpt-6/>)
+[Sophos cuts threat investigation time by 96% with OpenAI DaybreakOct 9, 2026](</index/sophos/>)
 
-![Introducing GPT-6 Sol and Luna — Art card](https://images.ctfassets.net/kftzwdyauwt9/4HANTuYDvaT04gpR91bEQ9/885481304c5675cb7525bcccbe8c5580/gpt-6-sol-luna-art.png?w=3840&q=90&fm=webp)
+![Oracle — Cover](https://images.ctfassets.net/kftzwdyauwt9/5JxYHD7gUHvBzLkA7N1o9p/2926751bbb4c4d0bae48dbfdc8507466/oracle-cover.png?w=3840&q=90&fm=webp)
 
-[Introducing GPT-6 Sol and LunaProductSep 22, 2026](</index/introducing-gpt-6-sol-and-luna/>)
+[How Oracle turns days of work into minutes with ChatGPT and CodexOct 8, 2026](</index/oracle/>)
 
-![Parallel customer story card image - Option C](https://images.ctfassets.net/kftzwdyauwt9/IE8b4WhSed5XqFQUzyyp7/40124aabc92ea8266c99be14d0f380f1/square.png?w=3840&q=90&fm=webp)
+![Pollo AI — Cover and hero](https://images.ctfassets.net/kftzwdyauwt9/2d43dWpGGS2PTHZR3ZJtHQ/1b43934d7aae3615455884af0487b28a/pollo-ai-customer-story-art-card-cinema-velvet-1080x1080.png?w=3840&q=90&fm=webp)
 
-[Parallel cut research time and cost in half with GPT‑6 AstraStartupSep 22, 2026](</index/parallel-cuts-time-and-cost-with-astra/>)
+[Pollo AI turns creative ideas into campaigns with OpenAIStartupOct 8, 2026](</index/pollo-ai/>)
 
 Research
 
@@ -200,10 +185,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -222,7 +207,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -269,6 +255,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

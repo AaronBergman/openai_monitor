@@ -6,17 +6,17 @@ OpenAI
 
 # Contact our sales team
 
-Have a small team? Get started with [ChatGPT Business](<https://chatgpt.com/business/business-plan/>).
+Get help evaluating and deploying ChatGPT and OpenAI’s models across your organization.
 
 Features
 
-  * No training on data
+  * Enterprise-grade security and privacy
 
-  * Unlimited use of our best model for work
+  * SSO, provisioning, role-based access, and admin controls
 
-  * Easy member, role, and billing management
+  * Company knowledge and app access controls
 
-  * Integrations with Google Drive and more
+  * Deployment support for large organizations
 
 
 

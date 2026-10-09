@@ -48,7 +48,7 @@ Developer
 Website
     [(opens in a new window)](<https://admin.openai.com/>)
 
-[![](https://files.openai.com/content?id=file_0000000019a481f79bfa0fc50a0ac411&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=8&sig=63d6aa1f24c101b414207af7873e83da02a329773169df996113b68e3440639f&v=0)ChatGPT Admin Who are the highest-usage users this month?(opens in a new window)](<https://chatgpt.com/?prompt=%40ChatGPT+Admin+Who+are+the+highest-usage+users+this+month%3F>)
+[![](https://files.openai.com/content?id=file_00000000908082308dff497411ee632a&cdn=1&cp=pi&ma=31190400&ts=0&p=pi&cid=8&sig=dee37af37f3d74b329ce4ca7da5ef35c5eb5b0f1efb59a2c4daf5432e1766879&v=0)ChatGPT Admin Who are the highest-usage users this month?(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_1p_e4d796f7afc48191bf6af2220a55fdd6?install&prompt=Who%20are%20the%20highest-usage%20users%20this%20month%3F>)
 
 ## How it works
 
@@ -58,21 +58,21 @@ Built for ChatGPT workspace owners and admins to manage members, groups, roles, 
 
   * ### Review workspace usage
 
-![](https://files.openai.com/content?id=file_0000000019a481f79bfa0fc50a0ac411&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=8&sig=63d6aa1f24c101b414207af7873e83da02a329773169df996113b68e3440639f&v=0)ChatGPT Admin Summarize this month's workspace usage by the available product and member breakdowns. Highlight unusual changes and flag gaps in the data.
+![](https://files.openai.com/content?id=file_00000000908082308dff497411ee632a&cdn=1&cp=pi&ma=31190400&ts=0&p=pi&cid=8&sig=dee37af37f3d74b329ce4ca7da5ef35c5eb5b0f1efb59a2c4daf5432e1766879&v=0)ChatGPT Admin Summarize this month's workspace usage by the available product and member breakdowns. Highlight unusual changes and flag gaps in the data.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40ChatGPT+Admin+Summarize+this+month%27s+workspace+usage+by+the+available+product+and+member+breakdowns.+Highlight+unusual+changes+and+flag+gaps+in+the+data.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_1p_e4d796f7afc48191bf6af2220a55fdd6?install&prompt=Summarize%20this%20month's%20workspace%20usage%20by%20the%20available%20product%20and%20member%20breakdowns.%20Highlight%20unusual%20changes%20and%20flag%20gaps%20in%20the%20data.&surface=work>)
 
   * ### Audit member access
 
-![](https://files.openai.com/content?id=file_0000000019a481f79bfa0fc50a0ac411&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=8&sig=63d6aa1f24c101b414207af7873e83da02a329773169df996113b68e3440639f&v=0)ChatGPT Admin Review workspace members, groups, and roles. Summarize elevated permissions and identify access questions for the administrator to resolve.
+![](https://files.openai.com/content?id=file_00000000908082308dff497411ee632a&cdn=1&cp=pi&ma=31190400&ts=0&p=pi&cid=8&sig=dee37af37f3d74b329ce4ca7da5ef35c5eb5b0f1efb59a2c4daf5432e1766879&v=0)ChatGPT Admin Review workspace members, groups, and roles. Summarize elevated permissions and identify access questions for the administrator to resolve.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40ChatGPT+Admin+Review+workspace+members%2C+groups%2C+and+roles.+Summarize+elevated+permissions+and+identify+access+questions+for+the+administrator+to+resolve.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_1p_e4d796f7afc48191bf6af2220a55fdd6?install&prompt=Review%20workspace%20members%2C%20groups%2C%20and%20roles.%20Summarize%20elevated%20permissions%20and%20identify%20access%20questions%20for%20the%20administrator%20to%20resolve.&surface=work>)
 
   * ### Assess usage requests
 
-![](https://files.openai.com/content?id=file_0000000019a481f79bfa0fc50a0ac411&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=8&sig=63d6aa1f24c101b414207af7873e83da02a329773169df996113b68e3440639f&v=0)ChatGPT Admin Review pending usage-limit requests alongside available usage data. Summarize each request and recommend the questions needed for an informed decision.
+![](https://files.openai.com/content?id=file_00000000908082308dff497411ee632a&cdn=1&cp=pi&ma=31190400&ts=0&p=pi&cid=8&sig=dee37af37f3d74b329ce4ca7da5ef35c5eb5b0f1efb59a2c4daf5432e1766879&v=0)ChatGPT Admin Review pending usage-limit requests alongside available usage data. Summarize each request and recommend the questions needed for an informed decision.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40ChatGPT+Admin+Review+pending+usage-limit+requests+alongside+available+usage+data.+Summarize+each+request+and+recommend+the+questions+needed+for+an+informed+decision.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_1p_e4d796f7afc48191bf6af2220a55fdd6?install&prompt=Review%20pending%20usage-limit%20requests%20alongside%20available%20usage%20data.%20Summarize%20each%20request%20and%20recommend%20the%20questions%20needed%20for%20an%20informed%20decision.&surface=work>)
 
 
 
@@ -93,9 +93,9 @@ Built for ChatGPT workspace owners and admins to manage members, groups, roles, 
 
 ## Resources
 
-### [Help centerLearn more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
+### [Help centerLearn more(opens in a new window)](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
 
-### [Plugin supportLearn more](<https://help.openai.com/en/articles/6614161-how-can-i-contact-support>)
+### [Plugin supportLearn more(opens in a new window)](<https://help.openai.com/en/articles/6614161-how-can-i-contact-support>)
 
 ### [Privacy policyLearn more](<https://openai.com/policies/row-privacy-policy/>)
 
@@ -107,7 +107,7 @@ Availability depends on the plugin, your plan, and workspace settings. Some conn
 
 ## Explore related plugins
 
-[![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)DataTurn data into clear decisions.](</business/plugins/data/>)[![](https://files.openai.com/content?id=file_00000000b94c81f794fcf9c2fbefdf50&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=beb2787280ecaebf28c33ff6125c3de2f31ea2a47d7447cccb565029c8e86c65&v=0)![](https://files.openai.com/content?id=file_00000000b94c81f794fcf9c2fbefdf50&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=beb2787280ecaebf28c33ff6125c3de2f31ea2a47d7447cccb565029c8e86c65&v=0)SpreadsheetsCreate and edit spreadsheets](</business/plugins/spreadsheets/>)[![](https://files.openai.com/content?id=file_00000000994081fd9df560367dfe54f4&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=8&sig=55e9028947fbc7ea3284b715ca95e34f797efbc5c4e0e47a9b2b0509d787308d&v=0)![](https://files.openai.com/content?id=file_00000000994081fd9df560367dfe54f4&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=8&sig=55e9028947fbc7ea3284b715ca95e34f797efbc5c4e0e47a9b2b0509d787308d&v=0)SlackLook up chats and messages.](</business/plugins/slack/>)[![](https://files.openai.com/content?id=file_000000004c0c81f78746051c8894e9f0&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=94634a13f89821846ddbbbaa5e99aadc55c2198ec4b4dbd453217f71362d0950&v=0)![](https://files.openai.com/content?id=file_000000004c0c81f78746051c8894e9f0&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=94634a13f89821846ddbbbaa5e99aadc55c2198ec4b4dbd453217f71362d0950&v=0)DocumentsCreate and edit documents](</business/plugins/documents/>)[![](https://files.openai.com/content?id=file_00000000290c81f6b165c1e4941266a3&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=8&sig=aac8f7270051b9307ea721f89136ce46aaf1dffcbdaea6eba9ba95fc9212473d&v=0)![](https://files.openai.com/content?id=file_00000000290c81f6b165c1e4941266a3&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=8&sig=aac8f7270051b9307ea721f89136ce46aaf1dffcbdaea6eba9ba95fc9212473d&v=0)TeamsLook up chats and messages.](</business/plugins/microsoft-teams/>)[![](https://files.openai.com/content?id=file_00000000a9a081f78752dfef864b2597&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=18fa18d4c839a23ca63639259d332c2f50d433faa731d9b7755f08c333b78e47&v=0)![](https://files.openai.com/content?id=file_00000000a9a081f78752dfef864b2597&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=18fa18d4c839a23ca63639259d332c2f50d433faa731d9b7755f08c333b78e47&v=0)Google DriveSearch and reference files from your Drive.](</business/plugins/google-drive/>)
+[![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)DataAnswer questions with data](</business/plugins/data/>)[![](https://files.openai.com/content?id=file_00000000b94c81f794fcf9c2fbefdf50&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=beb2787280ecaebf28c33ff6125c3de2f31ea2a47d7447cccb565029c8e86c65&v=0)![](https://files.openai.com/content?id=file_00000000b94c81f794fcf9c2fbefdf50&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=beb2787280ecaebf28c33ff6125c3de2f31ea2a47d7447cccb565029c8e86c65&v=0)SpreadsheetsCreate and edit spreadsheets](</business/plugins/spreadsheets/>)[![](https://files.openai.com/content?id=file_00000000994081fd9df560367dfe54f4&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=8&sig=55e9028947fbc7ea3284b715ca95e34f797efbc5c4e0e47a9b2b0509d787308d&v=0)![](https://files.openai.com/content?id=file_00000000994081fd9df560367dfe54f4&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=8&sig=55e9028947fbc7ea3284b715ca95e34f797efbc5c4e0e47a9b2b0509d787308d&v=0)SlackLook up chats and messages](</business/plugins/slack/>)[![](https://files.openai.com/content?id=file_000000004c0c81f78746051c8894e9f0&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=94634a13f89821846ddbbbaa5e99aadc55c2198ec4b4dbd453217f71362d0950&v=0)![](https://files.openai.com/content?id=file_000000004c0c81f78746051c8894e9f0&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=94634a13f89821846ddbbbaa5e99aadc55c2198ec4b4dbd453217f71362d0950&v=0)DocumentsCreate and edit documents](</business/plugins/documents/>)[![](https://files.openai.com/content?id=file_00000000290c81f6b165c1e4941266a3&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=8&sig=aac8f7270051b9307ea721f89136ce46aaf1dffcbdaea6eba9ba95fc9212473d&v=0)![](https://files.openai.com/content?id=file_00000000290c81f6b165c1e4941266a3&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=8&sig=aac8f7270051b9307ea721f89136ce46aaf1dffcbdaea6eba9ba95fc9212473d&v=0)TeamsLook up chats and messages](</business/plugins/microsoft-teams/>)[![](https://files.openai.com/content?id=file_00000000a9a081f78752dfef864b2597&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=18fa18d4c839a23ca63639259d332c2f50d433faa731d9b7755f08c333b78e47&v=0)![](https://files.openai.com/content?id=file_00000000a9a081f78752dfef864b2597&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=18fa18d4c839a23ca63639259d332c2f50d433faa731d9b7755f08c333b78e47&v=0)Google DriveSearch and reference files from your Drive](</business/plugins/google-drive/>)
 
 ## Get started with plugins
 
@@ -125,10 +125,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -147,7 +147,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -194,6 +195,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 
