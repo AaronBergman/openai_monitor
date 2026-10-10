@@ -32,7 +32,7 @@ OpenAI
 
 # Coveo
 
-Search across your enterprise content sources.
+Search your enterprise content
 
 [Install plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_693251083bf48191a69098fd0ba36f17>)[Contact sales](</contact-sales/>)
 
@@ -45,11 +45,11 @@ Developer
 Website
     [(opens in a new window)](<https://www.coveo.com>)
 
-[![](https://files.openai.com/content?id=file_00000000280c71f581d1b587fe4e3273&cdn=1&cp=pi&ma=32659200&ts=0&p=pi&cid=1&sig=04d26c73823db45dd1f099ecbf4bf2a661c6fb6740f192f9b06bdc205e5a29b7&v=0)Coveo Use Coveo to help with this task(opens in a new window)](<https://chatgpt.com/?prompt=%40Coveo+Use+Coveo+to+help+with+this+task>)
+[![](https://files.openai.com/content?id=file_00000000280c71f581d1b587fe4e3273&cdn=1&cp=pi&ma=32659200&ts=0&p=pi&cid=1&sig=04d26c73823db45dd1f099ecbf4bf2a661c6fb6740f192f9b06bdc205e5a29b7&v=0)Coveo Use Coveo to help with this task(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_693251083bf48191a69098fd0ba36f17?install&prompt=Use%20Coveo%20to%20help%20with%20this%20task>)
 
 ## How it works
 
-Search and retrieve answers from your enterprise content in ChatGPT using Coveo to find relevant documents and source passages.
+Search your enterprise content
 
 ## What else can you do?
 
@@ -57,19 +57,19 @@ Search and retrieve answers from your enterprise content in ChatGPT using Coveo 
 
 ![](https://files.openai.com/content?id=file_00000000280c71f581d1b587fe4e3273&cdn=1&cp=pi&ma=32659200&ts=0&p=pi&cid=1&sig=04d26c73823db45dd1f099ecbf4bf2a661c6fb6740f192f9b06bdc205e5a29b7&v=0)Coveo Find the best answer to the below question. Provide a concise answer and include the top supporting passages with document titles and locations so I can verify quickly.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Coveo+Find+the+best+answer+to+the+below+question.+Provide+a+concise+answer+and+include+the+top+supporting+passages+with+document+titles+and+locations+so+I+can+verify+quickly.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_693251083bf48191a69098fd0ba36f17?install&prompt=Find%20the%20best%20answer%20to%20the%20below%20question.%20Provide%20a%20concise%20answer%20and%20include%20the%20top%20supporting%20passages%20with%20document%20titles%20and%20locations%20so%20I%20can%20verify%20quickly.&surface=work>)
 
   * ### Improve confidence in technical and product decisions
 
 ![](https://files.openai.com/content?id=file_00000000280c71f581d1b587fe4e3273&cdn=1&cp=pi&ma=32659200&ts=0&p=pi&cid=1&sig=04d26c73823db45dd1f099ecbf4bf2a661c6fb6740f192f9b06bdc205e5a29b7&v=0)Coveo For this topic, retrieve the most recent official documentation and summarize the current recommended approach. Flag any older guidance that conflicts with the latest sources.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Coveo+For+this+topic%2C+retrieve+the+most+recent+official+documentation+and+summarize+the+current+recommended+approach.+Flag+any+older+guidance+that+conflicts+with+the+latest+sources.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_693251083bf48191a69098fd0ba36f17?install&prompt=For%20this%20topic%2C%20retrieve%20the%20most%20recent%20official%20documentation%20and%20summarize%20the%20current%20recommended%20approach.%20Flag%20any%20older%20guidance%20that%20conflicts%20with%20the%20latest%20sources.&surface=work>)
 
   * ### Support teams at enterprise scale
 
 ![](https://files.openai.com/content?id=file_00000000280c71f581d1b587fe4e3273&cdn=1&cp=pi&ma=32659200&ts=0&p=pi&cid=1&sig=04d26c73823db45dd1f099ecbf4bf2a661c6fb6740f192f9b06bdc205e5a29b7&v=0)Coveo Draft a reusable internal answer for the below question. Ground it in the latest docs and include links to the exact source passages for support teams to reference.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Coveo+Draft+a+reusable+internal+answer+for+the+below+question.+Ground+it+in+the+latest+docs+and+include+links+to+the+exact+source+passages+for+support+teams+to+reference.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_693251083bf48191a69098fd0ba36f17?install&prompt=Draft%20a%20reusable%20internal%20answer%20for%20the%20below%20question.%20Ground%20it%20in%20the%20latest%20docs%20and%20include%20links%20to%20the%20exact%20source%20passages%20for%20support%20teams%20to%20reference.&surface=work>)
 
 
 
@@ -84,11 +84,11 @@ Search and retrieve answers from your enterprise content in ChatGPT using Coveo 
 
 ## Resources
 
-### [Help centerLearn more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
+### [Help centerLearn more(opens in a new window)](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
 
-### [Plugin supportLearn more](<https://www.coveo.com/en/contact>)
+### [Plugin supportLearn more(opens in a new window)](<https://www.coveo.com/en/contact>)
 
-### [Privacy policyLearn more](<https://www.coveo.com/en/company/legal/privacy/privacy-notice>)
+### [Privacy policyLearn more(opens in a new window)](<https://www.coveo.com/en/company/legal/privacy/privacy-notice>)
 
 ## Add the Coveo plugin in a few clicks
 
@@ -98,7 +98,7 @@ Availability depends on the plugin, your plan, and workspace settings. Some conn
 
 ## Explore related plugins
 
-[![](https://files.openai.com/content?id=file_00000000191081f79dfeddb7b502b1bf&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=3e3f6f7a793416cd9a93e61c94c2bd4631dd37631f592d4e774aa254e2b1c9b7&v=0)![](https://files.openai.com/content?id=file_00000000191081f79dfeddb7b502b1bf&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=3e3f6f7a793416cd9a93e61c94c2bd4631dd37631f592d4e774aa254e2b1c9b7&v=0)SalesPrepare account work and customer follow-up.](</business/plugins/sales/>)[![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)Product DesignTurn product ideas into designs and research artifacts.](</business/plugins/product-design/>)[![](https://files.openai.com/content?id=file_00000000dca471f5a61c7e4a3fab77a4&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=1&sig=63bacca4cbadf25340543a539567d26664d1f530be2b3f6119d3aaeb4edbed56&v=0)![](https://files.openai.com/content?id=file_00000000aaf8722f9e07cbdd00ea7ad8&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=1&sig=450cfa6b24e75515f4907572297126983f2d33e3f6f73cab443b4b5596a0deef&v=0)NotionSearch and reference your Notion pages.](</business/plugins/notion/>)[![](https://files.openai.com/content?id=file_00000000bec871f5b16bea82279ccf21&cdn=1&cp=pi&ma=31536000&ts=0&p=pi&cid=1&sig=dae48439fa494947db53290285649ef7f8819b8db88432aa57eb884533747051&v=0)![](https://files.openai.com/content?id=file_00000000bec871f5b16bea82279ccf21&cdn=1&cp=pi&ma=31536000&ts=0&p=pi&cid=1&sig=dae48439fa494947db53290285649ef7f8819b8db88432aa57eb884533747051&v=0)SharePointSearch and pull from shared sites and OneDrive.](</business/plugins/microsoft-sharepoint/>)[![](https://files.openai.com/content?id=file_00000000a9a081f78752dfef864b2597&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=18fa18d4c839a23ca63639259d332c2f50d433faa731d9b7755f08c333b78e47&v=0)![](https://files.openai.com/content?id=file_00000000a9a081f78752dfef864b2597&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=18fa18d4c839a23ca63639259d332c2f50d433faa731d9b7755f08c333b78e47&v=0)Google DriveSearch and reference files from your Drive.](</business/plugins/google-drive/>)[![](https://files.openai.com/content?id=file_000000000b0071f5a15a9c19c082b8e5&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=1&sig=2663b30a3556fd4f4ba683cb9f2229a0c1d6c2c03d5ee308c9d75206a0b9fd63&v=0)![](https://files.openai.com/content?id=file_00000000dd1871f59b6fbbe091d54c40&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=1&sig=0c80d0ad0efd55b7f0665e2b3a539a4ac11beb6ed99bb0f9b65065138f951a3c&v=0)Atlassian RovoManage Jira and Confluence fast.](</business/plugins/atlassian-rovo/>)
+[![](https://files.openai.com/content?id=file_00000000191081f79dfeddb7b502b1bf&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=3e3f6f7a793416cd9a93e61c94c2bd4631dd37631f592d4e774aa254e2b1c9b7&v=0)![](https://files.openai.com/content?id=file_00000000191081f79dfeddb7b502b1bf&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=3e3f6f7a793416cd9a93e61c94c2bd4631dd37631f592d4e774aa254e2b1c9b7&v=0)SalesPrepare account work and customer follow-up](</business/plugins/sales/>)[![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)Product DesignTurn product ideas into designs and research artifacts](</business/plugins/product-design/>)[![](https://files.openai.com/content?id=file_00000000dca471f5a61c7e4a3fab77a4&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=1&sig=63bacca4cbadf25340543a539567d26664d1f530be2b3f6119d3aaeb4edbed56&v=0)![](https://files.openai.com/content?id=file_00000000aaf8722f9e07cbdd00ea7ad8&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=1&sig=450cfa6b24e75515f4907572297126983f2d33e3f6f73cab443b4b5596a0deef&v=0)NotionSearch and reference your Notion pages](</business/plugins/notion/>)[![](https://files.openai.com/content?id=file_00000000bec871f5b16bea82279ccf21&cdn=1&cp=pi&ma=31536000&ts=0&p=pi&cid=1&sig=dae48439fa494947db53290285649ef7f8819b8db88432aa57eb884533747051&v=0)![](https://files.openai.com/content?id=file_00000000bec871f5b16bea82279ccf21&cdn=1&cp=pi&ma=31536000&ts=0&p=pi&cid=1&sig=dae48439fa494947db53290285649ef7f8819b8db88432aa57eb884533747051&v=0)SharePointSearch and pull from shared sites and OneDrive](</business/plugins/microsoft-sharepoint/>)[![](https://files.openai.com/content?id=file_00000000a9a081f78752dfef864b2597&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=18fa18d4c839a23ca63639259d332c2f50d433faa731d9b7755f08c333b78e47&v=0)![](https://files.openai.com/content?id=file_00000000a9a081f78752dfef864b2597&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=18fa18d4c839a23ca63639259d332c2f50d433faa731d9b7755f08c333b78e47&v=0)Google DriveSearch and reference files from your Drive](</business/plugins/google-drive/>)[![](https://files.openai.com/content?id=file_000000000b0071f5a15a9c19c082b8e5&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=1&sig=2663b30a3556fd4f4ba683cb9f2229a0c1d6c2c03d5ee308c9d75206a0b9fd63&v=0)![](https://files.openai.com/content?id=file_00000000dd1871f59b6fbbe091d54c40&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=1&sig=0c80d0ad0efd55b7f0665e2b3a539a4ac11beb6ed99bb0f9b65065138f951a3c&v=0)Atlassian RovoManage Jira and Confluence fast](</business/plugins/atlassian-rovo/>)
 
 ## Get started with plugins
 
@@ -116,10 +116,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -138,7 +138,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -185,6 +186,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

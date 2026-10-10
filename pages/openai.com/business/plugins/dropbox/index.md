@@ -32,7 +32,7 @@ OpenAI
 
 # Dropbox
 
-Find and access your stored files.
+Find and access your stored files
 
 [Install plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69b31dc2110c8191b8b47dc98fe5a052>)[Contact sales](</contact-sales/>)
 
@@ -45,7 +45,7 @@ Developer
 Website
     [(opens in a new window)](<https://www.dropbox.com>)
 
-[![](https://files.openai.com/content?id=file_00000000b45c71f797469228048098cf&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=918ea83c51446a2cb487ba521a072a83187590f9dd92abd609524ab650826dc2&v=0)![](https://files.openai.com/content?id=file_0000000054bc720dae843a095a92471f&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=367db0eb3f3375f5e1ceb2fa3a9d6010b4cbc30ffa50a7b031b1664f12a3b96a&v=0)Dropbox save this proposal to my Dropbox(opens in a new window)](<https://chatgpt.com/?prompt=%40Dropbox+save+this+proposal+to+my+Dropbox>)
+[![](https://files.openai.com/content?id=file_00000000b45c71f797469228048098cf&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=918ea83c51446a2cb487ba521a072a83187590f9dd92abd609524ab650826dc2&v=0)![](https://files.openai.com/content?id=file_0000000054bc720dae843a095a92471f&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=367db0eb3f3375f5e1ceb2fa3a9d6010b4cbc30ffa50a7b031b1664f12a3b96a&v=0)Dropbox save this proposal to my Dropbox(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69b31dc2110c8191b8b47dc98fe5a052?install&prompt=save%20this%20proposal%20to%20my%20Dropbox>)
 
 ## How it works
 
@@ -57,19 +57,19 @@ Use synced file content to surface key details and generate accurate briefs and 
 
 ![](https://files.openai.com/content?id=file_00000000b45c71f797469228048098cf&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=918ea83c51446a2cb487ba521a072a83187590f9dd92abd609524ab650826dc2&v=0)![](https://files.openai.com/content?id=file_0000000054bc720dae843a095a92471f&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=367db0eb3f3375f5e1ceb2fa3a9d6010b4cbc30ffa50a7b031b1664f12a3b96a&v=0)Dropbox Summarize the latest quarterly report in this folder and pull the few numbers an executive will likely ask about.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Dropbox+Summarize+the+latest+quarterly+report+in+this+folder+and+pull+the+few+numbers+an+executive+will+likely+ask+about.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69b31dc2110c8191b8b47dc98fe5a052?install&prompt=Summarize%20the%20latest%20quarterly%20report%20in%20this%20folder%20and%20pull%20the%20few%20numbers%20an%20executive%20will%20likely%20ask%20about.&surface=work>)
 
   * ### Synthesize knowledge across teams and projects
 
 ![](https://files.openai.com/content?id=file_00000000b45c71f797469228048098cf&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=918ea83c51446a2cb487ba521a072a83187590f9dd92abd609524ab650826dc2&v=0)![](https://files.openai.com/content?id=file_0000000054bc720dae843a095a92471f&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=367db0eb3f3375f5e1ceb2fa3a9d6010b4cbc30ffa50a7b031b1664f12a3b96a&v=0)Dropbox Pull all docs related to [client] renewal and create a prep brief with stakeholders, risks, timeline, and strongest proof points.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Dropbox+Pull+all+docs+related+to+%5Bclient%5D+renewal+and+create+a+prep+brief+with+stakeholders%2C+risks%2C+timeline%2C+and+strongest+proof+points.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69b31dc2110c8191b8b47dc98fe5a052?install&prompt=Pull%20all%20docs%20related%20to%20%5Bclient%5D%20renewal%20and%20create%20a%20prep%20brief%20with%20stakeholders%2C%20risks%2C%20timeline%2C%20and%20strongest%20proof%20points.&surface=work>)
 
   * ### Find answers with traceable source context
 
 ![](https://files.openai.com/content?id=file_00000000b45c71f797469228048098cf&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=918ea83c51446a2cb487ba521a072a83187590f9dd92abd609524ab650826dc2&v=0)![](https://files.openai.com/content?id=file_0000000054bc720dae843a095a92471f&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=367db0eb3f3375f5e1ceb2fa3a9d6010b4cbc30ffa50a7b031b1664f12a3b96a&v=0)Dropbox Find where the [client] contract states the renewal notice period. Quote the relevant passage and include the document link so our account team can verify it.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Dropbox+Find+where+the+%5Bclient%5D+contract+states+the+renewal+notice+period.+Quote+the+relevant+passage+and+include+the+document+link+so+our+account+team+can+verify+it.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69b31dc2110c8191b8b47dc98fe5a052?install&prompt=Find%20where%20the%20%5Bclient%5D%20contract%20states%20the%20renewal%20notice%20period.%20Quote%20the%20relevant%20passage%20and%20include%20the%20document%20link%20so%20our%20account%20team%20can%20verify%20it.&surface=work>)
 
 
 
@@ -95,11 +95,11 @@ Use synced file content to surface key details and generate accurate briefs and 
 
 ## Resources
 
-### [Help centerLearn more](<https://help.openai.com/en/articles/12364275-dropbox-connector>)
+### [Help centerLearn more(opens in a new window)](<https://help.openai.com/en/articles/12364275-dropbox-connector>)
 
-### [Plugin supportLearn more](<https://www.dropbox.com/support>)
+### [Plugin supportLearn more(opens in a new window)](<https://www.dropbox.com/support>)
 
-### [Privacy policyLearn more](<https://www.dropbox.com/privacy>)
+### [Privacy policyLearn more(opens in a new window)](<https://www.dropbox.com/privacy>)
 
 ## Add the Dropbox plugin in a few clicks
 
@@ -109,7 +109,7 @@ Availability depends on the plugin, your plan, and workspace settings. Some conn
 
 ## Explore related plugins
 
-[![](https://files.openai.com/content?id=file_00000000bdb4720caff269fd259bbdff&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=20268aaf4f0c92265b5b4945d13a456968c0e1a5013b3be043a94650a9b37e03&v=0)![](https://files.openai.com/content?id=file_00000000bdb4720caff269fd259bbdff&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=20268aaf4f0c92265b5b4945d13a456968c0e1a5013b3be043a94650a9b37e03&v=0)Creative ProductionUse the Creative Production plugin in ChatGPT to create, adapt, and review marketing assets, campaign concepts, ads, and launch creative.](</business/plugins/creative-production/>)[![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)Product DesignTurn product ideas into designs and research artifacts.](</business/plugins/product-design/>)[![](https://files.openai.com/content?id=file_000000000c1871f5a6cfddb62a46e9de&cdn=1&cp=pi&ma=31363200&ts=0&p=pi&cid=1&sig=81b62307ba341b02656de1a8a775263b1126c5aa1801f5f51ac5b3da3cb40a2c&v=0)![](https://files.openai.com/content?id=file_00000000551481f5a345351199fc73fd&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=d24c1524f8efa98e3db5084e8f55ca134b1ac198deddaffc355a1df03b180092&v=0)Adobe AcrobatEdit and organize PDFs easily.](</business/plugins/adobe-acrobat/>)[![](https://files.openai.com/content?id=file_000000000ee871fd807d17a056d79aa7&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=1&sig=07ea3990463c5d5c58deba9d55d8dfa10178b2a1cabb20fb0fdcf93fc218472b&v=0)![](https://files.openai.com/content?id=file_000000000ee871fd807d17a056d79aa7&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=1&sig=07ea3990463c5d5c58deba9d55d8dfa10178b2a1cabb20fb0fdcf93fc218472b&v=0)CanvaSearch, create, and edit designs.](</business/plugins/canva/>)[![](https://files.openai.com/content?id=file_00000000994081fd9df560367dfe54f4&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=8&sig=55e9028947fbc7ea3284b715ca95e34f797efbc5c4e0e47a9b2b0509d787308d&v=0)![](https://files.openai.com/content?id=file_00000000994081fd9df560367dfe54f4&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=8&sig=55e9028947fbc7ea3284b715ca95e34f797efbc5c4e0e47a9b2b0509d787308d&v=0)SlackLook up chats and messages.](</business/plugins/slack/>)[![](https://files.openai.com/content?id=file_00000000dca471f5a61c7e4a3fab77a4&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=1&sig=63bacca4cbadf25340543a539567d26664d1f530be2b3f6119d3aaeb4edbed56&v=0)![](https://files.openai.com/content?id=file_00000000aaf8722f9e07cbdd00ea7ad8&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=1&sig=450cfa6b24e75515f4907572297126983f2d33e3f6f73cab443b4b5596a0deef&v=0)NotionSearch and reference your Notion pages.](</business/plugins/notion/>)
+[![](https://files.openai.com/content?id=file_00000000bdb4720caff269fd259bbdff&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=20268aaf4f0c92265b5b4945d13a456968c0e1a5013b3be043a94650a9b37e03&v=0)![](https://files.openai.com/content?id=file_00000000bdb4720caff269fd259bbdff&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=20268aaf4f0c92265b5b4945d13a456968c0e1a5013b3be043a94650a9b37e03&v=0)Creative ProductionUse the Creative Production plugin in ChatGPT to create, adapt, and review marketing assets, campaign concepts, ads, and launch creative](</business/plugins/creative-production/>)[![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)Product DesignTurn product ideas into designs and research artifacts](</business/plugins/product-design/>)[![](https://files.openai.com/content?id=file_000000000c1871f5a6cfddb62a46e9de&cdn=1&cp=pi&ma=31363200&ts=0&p=pi&cid=1&sig=81b62307ba341b02656de1a8a775263b1126c5aa1801f5f51ac5b3da3cb40a2c&v=0)![](https://files.openai.com/content?id=file_00000000551481f5a345351199fc73fd&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=d24c1524f8efa98e3db5084e8f55ca134b1ac198deddaffc355a1df03b180092&v=0)Adobe AcrobatEdit and organize PDFs easily](</business/plugins/adobe-acrobat/>)[![](https://files.openai.com/content?id=file_000000000ee871fd807d17a056d79aa7&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=1&sig=07ea3990463c5d5c58deba9d55d8dfa10178b2a1cabb20fb0fdcf93fc218472b&v=0)![](https://files.openai.com/content?id=file_000000000ee871fd807d17a056d79aa7&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=1&sig=07ea3990463c5d5c58deba9d55d8dfa10178b2a1cabb20fb0fdcf93fc218472b&v=0)CanvaSearch, create, and edit designs](</business/plugins/canva/>)[![](https://files.openai.com/content?id=file_00000000994081fd9df560367dfe54f4&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=8&sig=55e9028947fbc7ea3284b715ca95e34f797efbc5c4e0e47a9b2b0509d787308d&v=0)![](https://files.openai.com/content?id=file_00000000994081fd9df560367dfe54f4&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=8&sig=55e9028947fbc7ea3284b715ca95e34f797efbc5c4e0e47a9b2b0509d787308d&v=0)SlackLook up chats and messages](</business/plugins/slack/>)[![](https://files.openai.com/content?id=file_00000000dca471f5a61c7e4a3fab77a4&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=1&sig=63bacca4cbadf25340543a539567d26664d1f530be2b3f6119d3aaeb4edbed56&v=0)![](https://files.openai.com/content?id=file_00000000aaf8722f9e07cbdd00ea7ad8&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=1&sig=450cfa6b24e75515f4907572297126983f2d33e3f6f73cab443b4b5596a0deef&v=0)NotionSearch and reference your Notion pages](</business/plugins/notion/>)
 
 ## Get started with plugins
 
@@ -127,10 +127,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -149,7 +149,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -196,6 +197,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

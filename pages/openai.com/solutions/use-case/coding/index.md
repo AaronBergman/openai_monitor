@@ -105,7 +105,7 @@ Connect to your existing tools and systems, while keeping data private and prote
 
 Use apps and MCP to link ChatGPT with your IDEs, repos, and pipelines—or create custom integrations for your team.
 
-[Explore apps](</business/plugins/>)[Connect with MCP](<https://platform.openai.com/docs/mcp>)
+[Explore apps](</business/plugins/>)[Connect with MCP(opens in a new window)](<https://platform.openai.com/docs/mcp>)
 
 ![Row of blue certification badges for CCPA, CSA STAR, GDPR, AICPA SOC 2, ISO 27001, and ISO 27701, representing compliance and data security standards.](https://images.ctfassets.net/kftzwdyauwt9/41efEX7uIrsnblWLorihtN/47b0f02a04f5e1aa5ca2963d7fffc1ab/Thumbnail-2up-card-02.png?w=3840&q=90&fm=webp)
 
@@ -133,9 +133,9 @@ Your organization’s data is never used to improve our models. It’s protected
 
 ### [Guides and resourcesBest practices for deploying AI at scale. Learn more](<https://openai.com/business/guides-and-resources/>)
 
-### [OpenAI Academy Learn how to build, test, and deploy AI-powered applications step by step.Learn more](<https://academy.openai.com/>)
+### [OpenAI Academy Learn how to build, test, and deploy AI-powered applications step by step.Learn more(opens in a new window)](<https://academy.openai.com/>)
 
-### [Developer hubDocs, examples, and SDKs for coding with OpenAI models and APIs.Learn more](<https://developers.openai.com/>)
+### [Developer hubDocs, examples, and SDKs for coding with OpenAI models and APIs.Learn more(opens in a new window)](<https://developers.openai.com/>)
 
 ## Start coding smarter with AI that builds, tests, and ships alongside you
 
@@ -153,10 +153,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -175,7 +175,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -193,6 +194,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -221,6 +223,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

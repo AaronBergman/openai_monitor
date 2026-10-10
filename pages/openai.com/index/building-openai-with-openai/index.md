@@ -38,6 +38,8 @@ Introducing a new series about how OpenAI runs on its own technology.
 
 Loading…
 
+Share
+
 OpenAI on OpenAI
 
   * OpenAI on OpenAI
@@ -69,10 +71,15 @@ Today we’re launching OpenAI on OpenAI, a series that shows how we use AI insi
 We start with a few examples:
 
   * [**GTM Assistant** ⁠](<https://openai.com/index/openai-gtm-assistant/>): a Slack-based tool that centralizes account context and expert knowledge. It streamlines research, meeting prep, and product Q&A, boosting sales productivity and improving outcomes.
+
   * [**DocuGPT** ⁠](<https://openai.com/index/openai-contract-data-agent/>): an agent that converts contracts into structured, searchable data. Finance teams use it for faster, more consistent review at scale.
+
   * [**Research Assistant** ⁠](<https://openai.com/index/openai-research-assistant/>): a system that turns millions of support tickets into conversational insights. Teams surface trends and act on customer feedback in minutes, not weeks.
+
   * [**Support Agent** ⁠](<https://openai.com/index/openai-support-model/>): an operating model built on AI agents, continuous evals, and dynamic knowledge loops. It turns every interaction into training data, raises quality, and positions reps as system builders rather than ticket handlers.
+
   * [**Inbound Sales Assistant** ⁠](<https://openai.com/index/openai-inbound-sales-assistant/>): a system that personalizes responses for every lead, answers product and compliance questions instantly, and routes qualified prospects to reps with full context. It turns missed opportunities into revenue.
+
 
 
 
@@ -112,10 +119,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -134,7 +141,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -152,6 +160,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -180,6 +189,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

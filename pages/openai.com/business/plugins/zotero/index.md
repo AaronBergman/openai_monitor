@@ -48,7 +48,7 @@ Developer
 Website
     [(opens in a new window)](<https://openai.com/>)
 
-[![](https://files.openai.com/content?id=file_00000000a854722fb6f04466d0f95466&cdn=1&cp=pi&ma=30672000&ts=0&p=pi&cid=1&sig=97734e6f9318b015575594119eba93ac3be12ba70e70eaa9fc7498ff74a26ba4&v=0)Zotero find papers in my library about transformers and add citations to my draft(opens in a new window)](<https://chatgpt.com/?prompt=%40Zotero+find+papers+in+my+library+about+transformers+and+add+citations+to+my+draft>)
+[![](https://files.openai.com/content?id=file_00000000a854722fb6f04466d0f95466&cdn=1&cp=pi&ma=30672000&ts=0&p=pi&cid=1&sig=97734e6f9318b015575594119eba93ac3be12ba70e70eaa9fc7498ff74a26ba4&v=0)Zotero find papers in my library about transformers and add citations to my draft(opens in a new window)](<https://chatgpt.com/plugins/Plugin_a572ec6bf27481919ce6fa6e5651eb7b?install&prompt=find%20papers%20in%20my%20library%20about%20transformers%20and%20add%20citations%20to%20my%20draft>)
 
 ## How it works
 
@@ -60,19 +60,19 @@ Connect Codex to your Zotero desktop library so it can find saved papers, export
 
 ![](https://files.openai.com/content?id=file_00000000a854722fb6f04466d0f95466&cdn=1&cp=pi&ma=30672000&ts=0&p=pi&cid=1&sig=97734e6f9318b015575594119eba93ac3be12ba70e70eaa9fc7498ff74a26ba4&v=0)Zotero Find papers in my Zotero library relevant to this research question. Explain each match and return the citation keys and available bibliographic details.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Zotero+Find+papers+in+my+Zotero+library+relevant+to+this+research+question.+Explain+each+match+and+return+the+citation+keys+and+available+bibliographic+details.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/Plugin_a572ec6bf27481919ce6fa6e5651eb7b?install&prompt=Find%20papers%20in%20my%20Zotero%20library%20relevant%20to%20this%20research%20question.%20Explain%20each%20match%20and%20return%20the%20citation%20keys%20and%20available%20bibliographic%20details.&surface=work>)
 
   * ### Prepare a bibliography
 
 ![](https://files.openai.com/content?id=file_00000000a854722fb6f04466d0f95466&cdn=1&cp=pi&ma=30672000&ts=0&p=pi&cid=1&sig=97734e6f9318b015575594119eba93ac3be12ba70e70eaa9fc7498ff74a26ba4&v=0)Zotero Export the references in this Zotero collection as BibTeX. Check for missing bibliographic fields and report records that need attention.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Zotero+Export+the+references+in+this+Zotero+collection+as+BibTeX.+Check+for+missing+bibliographic+fields+and+report+records+that+need+attention.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/Plugin_a572ec6bf27481919ce6fa6e5651eb7b?install&prompt=Export%20the%20references%20in%20this%20Zotero%20collection%20as%20BibTeX.%20Check%20for%20missing%20bibliographic%20fields%20and%20report%20records%20that%20need%20attention.&surface=work>)
 
   * ### Add grounded citations
 
 ![](https://files.openai.com/content?id=file_00000000a854722fb6f04466d0f95466&cdn=1&cp=pi&ma=30672000&ts=0&p=pi&cid=1&sig=97734e6f9318b015575594119eba93ac3be12ba70e70eaa9fc7498ff74a26ba4&v=0)Zotero Find supporting papers in my Zotero library for the claims in this draft. Add citation keys where the evidence fits and flag claims without a suitable source.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Zotero+Find+supporting+papers+in+my+Zotero+library+for+the+claims+in+this+draft.+Add+citation+keys+where+the+evidence+fits+and+flag+claims+without+a+suitable+source.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/Plugin_a572ec6bf27481919ce6fa6e5651eb7b?install&prompt=Find%20supporting%20papers%20in%20my%20Zotero%20library%20for%20the%20claims%20in%20this%20draft.%20Add%20citation%20keys%20where%20the%20evidence%20fits%20and%20flag%20claims%20without%20a%20suitable%20source.&surface=work>)
 
 
 
@@ -87,9 +87,9 @@ Connect Codex to your Zotero desktop library so it can find saved papers, export
 
 ## Resources
 
-### [Help centerLearn more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
+### [Help centerLearn more(opens in a new window)](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
 
-### [Plugin supportLearn more](<https://help.openai.com/en/articles/6614161-how-can-i-contact-support>)
+### [Plugin supportLearn more(opens in a new window)](<https://help.openai.com/en/articles/6614161-how-can-i-contact-support>)
 
 ### [Privacy policyLearn more](<https://openai.com/policies/privacy-policy/>)
 
@@ -101,7 +101,7 @@ Availability depends on the plugin, your plan, and workspace settings. Some conn
 
 ## Explore related plugins
 
-[![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)DataTurn data into clear decisions.](</business/plugins/data/>)[![](https://files.openai.com/content?id=file_000000009080720c98a45b9cd6ee083f&cdn=1&cp=pi&ma=30758400&ts=0&p=pi&cid=1&sig=8934eb25d96bba2bfd29b97de3ed875d8caa4e7e17c1b48e28843cc9423b10a9&v=0)![](https://files.openai.com/content?id=file_00000000c9bc81f7b98a27c81cc57bd7&cdn=1&cp=pi&ma=32659200&ts=0&p=pi&cid=8&sig=f14586e5e1c0907518a48f23fe94ffc19b99c728d987e8dab9ba8dd5111e4f94&v=0)BioRenderFind and create figures](</business/plugins/biorender/>)[![](https://files.openai.com/content?id=file_000000004c0c81f78746051c8894e9f0&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=94634a13f89821846ddbbbaa5e99aadc55c2198ec4b4dbd453217f71362d0950&v=0)![](https://files.openai.com/content?id=file_000000004c0c81f78746051c8894e9f0&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=94634a13f89821846ddbbbaa5e99aadc55c2198ec4b4dbd453217f71362d0950&v=0)DocumentsCreate and edit documents](</business/plugins/documents/>)[![](https://files.openai.com/content?id=file_00000000b94c81f794fcf9c2fbefdf50&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=beb2787280ecaebf28c33ff6125c3de2f31ea2a47d7447cccb565029c8e86c65&v=0)![](https://files.openai.com/content?id=file_00000000b94c81f794fcf9c2fbefdf50&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=beb2787280ecaebf28c33ff6125c3de2f31ea2a47d7447cccb565029c8e86c65&v=0)SpreadsheetsCreate and edit spreadsheets](</business/plugins/spreadsheets/>)[![](https://files.openai.com/content?id=file_00000000c0cc71f7abb7f7391ab3a82e&cdn=1&cp=pi&ma=32486400&ts=0&p=pi&cid=7&sig=b6e77796fb1bb97255e82c76279c4818bc08fc16b04153e3105fd6328952321e&v=0)![](https://files.openai.com/content?id=file_00000000f3f071f78b9667c3a41d9958&cdn=1&cp=pi&ma=30240000&ts=0&p=pi&cid=7&sig=07dce48b78a17f0fc86ea357f5e95241ffb5e140802c4b1afe2eea1f9077bea9&v=0)ConsensusExplore scientific research](</business/plugins/consensus/>)[![](https://files.openai.com/content?id=file_0000000056ac81f7852e9bc46c6c708e&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=8&sig=b9329709abce5b206babf92fbca64142de4cbc0717aa7dc61e7de92e1cc5c949&v=0)![](https://files.openai.com/content?id=file_0000000056ac81f7852e9bc46c6c708e&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=8&sig=b9329709abce5b206babf92fbca64142de4cbc0717aa7dc61e7de92e1cc5c949&v=0)WolframAdd computation & knowledge](</business/plugins/wolfram/>)
+[![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)DataAnswer questions with data](</business/plugins/data/>)[![](https://files.openai.com/content?id=file_000000009080720c98a45b9cd6ee083f&cdn=1&cp=pi&ma=30758400&ts=0&p=pi&cid=1&sig=8934eb25d96bba2bfd29b97de3ed875d8caa4e7e17c1b48e28843cc9423b10a9&v=0)![](https://files.openai.com/content?id=file_00000000c9bc81f7b98a27c81cc57bd7&cdn=1&cp=pi&ma=32659200&ts=0&p=pi&cid=8&sig=f14586e5e1c0907518a48f23fe94ffc19b99c728d987e8dab9ba8dd5111e4f94&v=0)BioRenderFind and create figures](</business/plugins/biorender/>)[![](https://files.openai.com/content?id=file_000000004c0c81f78746051c8894e9f0&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=94634a13f89821846ddbbbaa5e99aadc55c2198ec4b4dbd453217f71362d0950&v=0)![](https://files.openai.com/content?id=file_000000004c0c81f78746051c8894e9f0&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=94634a13f89821846ddbbbaa5e99aadc55c2198ec4b4dbd453217f71362d0950&v=0)DocumentsCreate and edit documents](</business/plugins/documents/>)[![](https://files.openai.com/content?id=file_00000000b94c81f794fcf9c2fbefdf50&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=beb2787280ecaebf28c33ff6125c3de2f31ea2a47d7447cccb565029c8e86c65&v=0)![](https://files.openai.com/content?id=file_00000000b94c81f794fcf9c2fbefdf50&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=beb2787280ecaebf28c33ff6125c3de2f31ea2a47d7447cccb565029c8e86c65&v=0)SpreadsheetsCreate and edit spreadsheets](</business/plugins/spreadsheets/>)[![](https://files.openai.com/content?id=file_00000000c0cc71f7abb7f7391ab3a82e&cdn=1&cp=pi&ma=32486400&ts=0&p=pi&cid=7&sig=b6e77796fb1bb97255e82c76279c4818bc08fc16b04153e3105fd6328952321e&v=0)![](https://files.openai.com/content?id=file_00000000f3f071f78b9667c3a41d9958&cdn=1&cp=pi&ma=30240000&ts=0&p=pi&cid=7&sig=07dce48b78a17f0fc86ea357f5e95241ffb5e140802c4b1afe2eea1f9077bea9&v=0)ConsensusExplore scientific research](</business/plugins/consensus/>)[![](https://files.openai.com/content?id=file_0000000056ac81f7852e9bc46c6c708e&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=8&sig=b9329709abce5b206babf92fbca64142de4cbc0717aa7dc61e7de92e1cc5c949&v=0)![](https://files.openai.com/content?id=file_0000000056ac81f7852e9bc46c6c708e&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=8&sig=b9329709abce5b206babf92fbca64142de4cbc0717aa7dc61e7de92e1cc5c949&v=0)WolframAdd computation & knowledge](</business/plugins/wolfram/>)
 
 ## Get started with plugins
 
@@ -119,10 +119,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -141,7 +141,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -188,6 +189,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 
