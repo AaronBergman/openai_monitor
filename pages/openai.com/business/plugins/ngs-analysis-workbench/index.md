@@ -48,7 +48,7 @@ Developer
 Website
     [(opens in a new window)](<https://openai.com/gpt-rosalind/>)
 
-[![](https://files.openai.com/content?id=file_00000000386c81f7a6d0cdc14218dc8b&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=8&sig=344e005c5dd7e03b892716bfa0a48a6739c2c25b7b4cb0beb15e39637a3a9fc1&v=0)NGS Analysis Workbench run a FastQC and Salmon QC on a public RNA-seq dataset and provide an interpretation of the results.(opens in a new window)](<https://chatgpt.com/?prompt=%40NGS+Analysis+Workbench+run+a+FastQC+and+Salmon+QC+on+a+public+RNA-seq+dataset+and+provide+an+interpretation+of+the+results.>)
+[![](https://files.openai.com/content?id=file_0000000024248230987dd63ce89a7b8b&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=8&sig=4ec7aeb4e65ff64b2f5f18ba74c9090913a7327625c38a2b4b858ed7e084f0f8&v=0)NGS Analysis Workbench run a FastQC and Salmon QC on a public RNA-seq dataset and provide an interpretation of the results.(opens in a new window)](<https://chatgpt.com/plugins/Plugin_32edf73dc4f48191980d50e2cad2b3e4?install&prompt=run%20a%20FastQC%20and%20Salmon%20QC%20on%20a%20public%20RNA-seq%20dataset%20and%20provide%20an%20interpretation%20of%20the%20results.>)
 
 ## How it works
 
@@ -58,21 +58,21 @@ A journey-oriented NGS workbench for FASTQ QC, bulk RNA-seq, and single-cell RNA
 
   * ### Review sequencing quality
 
-![](https://files.openai.com/content?id=file_00000000386c81f7a6d0cdc14218dc8b&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=8&sig=344e005c5dd7e03b892716bfa0a48a6739c2c25b7b4cb0beb15e39637a3a9fc1&v=0)NGS Analysis Workbench Inspect these sequencing inputs and clarify the analysis goal. Choose a supported QC workflow, check prerequisites, and interpret the completed reports with saved artifacts.
+![](https://files.openai.com/content?id=file_0000000024248230987dd63ce89a7b8b&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=8&sig=4ec7aeb4e65ff64b2f5f18ba74c9090913a7327625c38a2b4b858ed7e084f0f8&v=0)NGS Analysis Workbench Inspect these sequencing inputs and clarify the analysis goal. Choose a supported QC workflow, check prerequisites, and interpret the completed reports with saved artifacts.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40NGS+Analysis+Workbench+Inspect+these+sequencing+inputs+and+clarify+the+analysis+goal.+Choose+a+supported+QC+workflow%2C+check+prerequisites%2C+and+interpret+the+completed+reports+with+saved+artifacts.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/Plugin_32edf73dc4f48191980d50e2cad2b3e4?install&prompt=Inspect%20these%20sequencing%20inputs%20and%20clarify%20the%20analysis%20goal.%20Choose%20a%20supported%20QC%20workflow%2C%20check%20prerequisites%2C%20and%20interpret%20the%20completed%20reports%20with%20saved%20artifacts.&surface=work>)
 
   * ### Plan RNA sequencing analysis
 
-![](https://files.openai.com/content?id=file_00000000386c81f7a6d0cdc14218dc8b&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=8&sig=344e005c5dd7e03b892716bfa0a48a6739c2c25b7b4cb0beb15e39637a3a9fc1&v=0)NGS Analysis Workbench Review this bulk RNA-seq study's inputs and design. Recommend a supported analysis workflow, identify missing metadata, and explain checks needed before execution.
+![](https://files.openai.com/content?id=file_0000000024248230987dd63ce89a7b8b&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=8&sig=4ec7aeb4e65ff64b2f5f18ba74c9090913a7327625c38a2b4b858ed7e084f0f8&v=0)NGS Analysis Workbench Review this bulk RNA-seq study's inputs and design. Recommend a supported analysis workflow, identify missing metadata, and explain checks needed before execution.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40NGS+Analysis+Workbench+Review+this+bulk+RNA-seq+study%27s+inputs+and+design.+Recommend+a+supported+analysis+workflow%2C+identify+missing+metadata%2C+and+explain+checks+needed+before+execution.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/Plugin_32edf73dc4f48191980d50e2cad2b3e4?install&prompt=Review%20this%20bulk%20RNA-seq%20study's%20inputs%20and%20design.%20Recommend%20a%20supported%20analysis%20workflow%2C%20identify%20missing%20metadata%2C%20and%20explain%20checks%20needed%20before%20execution.&surface=work>)
 
   * ### Interpret sequencing results
 
-![](https://files.openai.com/content?id=file_00000000386c81f7a6d0cdc14218dc8b&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=8&sig=344e005c5dd7e03b892716bfa0a48a6739c2c25b7b4cb0beb15e39637a3a9fc1&v=0)NGS Analysis Workbench Review these completed sequencing-analysis outputs. Summarize quality issues and results, distinguish findings from assumptions, and reference the supporting files.
+![](https://files.openai.com/content?id=file_0000000024248230987dd63ce89a7b8b&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=8&sig=4ec7aeb4e65ff64b2f5f18ba74c9090913a7327625c38a2b4b858ed7e084f0f8&v=0)NGS Analysis Workbench Review these completed sequencing-analysis outputs. Summarize quality issues and results, distinguish findings from assumptions, and reference the supporting files.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40NGS+Analysis+Workbench+Review+these+completed+sequencing-analysis+outputs.+Summarize+quality+issues+and+results%2C+distinguish+findings+from+assumptions%2C+and+reference+the+supporting+files.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/Plugin_32edf73dc4f48191980d50e2cad2b3e4?install&prompt=Review%20these%20completed%20sequencing-analysis%20outputs.%20Summarize%20quality%20issues%20and%20results%2C%20distinguish%20findings%20from%20assumptions%2C%20and%20reference%20the%20supporting%20files.&surface=work>)
 
 
 
@@ -91,9 +91,9 @@ A journey-oriented NGS workbench for FASTQ QC, bulk RNA-seq, and single-cell RNA
 
 ## Resources
 
-### [Help centerLearn more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
+### [Help centerLearn more(opens in a new window)](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
 
-### [Plugin supportLearn more](<https://help.openai.com/en/articles/6614161-how-can-i-contact-support>)
+### [Plugin supportLearn more(opens in a new window)](<https://help.openai.com/en/articles/6614161-how-can-i-contact-support>)
 
 ### [Privacy policyLearn more](<https://openai.com/policies/privacy-policy/>)
 
@@ -105,7 +105,7 @@ Availability depends on the plugin, your plan, and workspace settings. Some conn
 
 ## Explore related plugins
 
-[![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)DataTurn data into clear decisions.](</business/plugins/data/>)[![](https://files.openai.com/content?id=file_0000000063b481f7a24e2537d0b84852&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=9e80cc6bd5d88d35d21c12c6f100a36caa30235d06235e0f90a5373591a3059f&v=0)![](https://files.openai.com/content?id=file_0000000063b481f7a24e2537d0b84852&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=9e80cc6bd5d88d35d21c12c6f100a36caa30235d06235e0f90a5373591a3059f&v=0)Life Sciences LiteratureFind biomedical papers, preprints, and open-access full text](</business/plugins/life-sciences-literature/>)[![](https://files.openai.com/content?id=file_00000000cd4471f5a010d956ff65ec1a&cdn=1&cp=pi&ma=32227200&ts=0&p=pi&cid=1&sig=d03788dbe25363afc51b25493ddda7838584c0088127dc05336b83999dfa0fe1&v=0)![](https://files.openai.com/content?id=file_00000000cd4471f5a010d956ff65ec1a&cdn=1&cp=pi&ma=32227200&ts=0&p=pi&cid=1&sig=d03788dbe25363afc51b25493ddda7838584c0088127dc05336b83999dfa0fe1&v=0)Life Sciences NGS AnalysisGuided NGS routing and local execution for sequencing analysis](</business/plugins/life-sciences-ngs-analysis/>)[![](https://files.openai.com/content?id=file_000000009080720c98a45b9cd6ee083f&cdn=1&cp=pi&ma=30758400&ts=0&p=pi&cid=1&sig=8934eb25d96bba2bfd29b97de3ed875d8caa4e7e17c1b48e28843cc9423b10a9&v=0)![](https://files.openai.com/content?id=file_00000000c9bc81f7b98a27c81cc57bd7&cdn=1&cp=pi&ma=32659200&ts=0&p=pi&cid=8&sig=f14586e5e1c0907518a48f23fe94ffc19b99c728d987e8dab9ba8dd5111e4f94&v=0)BioRenderFind and create figures](</business/plugins/biorender/>)[![](https://files.openai.com/content?id=file_000000004c0c81f78746051c8894e9f0&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=94634a13f89821846ddbbbaa5e99aadc55c2198ec4b4dbd453217f71362d0950&v=0)![](https://files.openai.com/content?id=file_000000004c0c81f78746051c8894e9f0&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=94634a13f89821846ddbbbaa5e99aadc55c2198ec4b4dbd453217f71362d0950&v=0)DocumentsCreate and edit documents](</business/plugins/documents/>)[![](https://files.openai.com/content?id=file_00000000b5d471f5b4fe2bdb43f0ba33&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=1&sig=20e8fa203ddff0cc1c1dae090b410d5517560a1710adb9847e702801250490bd&v=0)![](https://files.openai.com/content?id=file_00000000b5d471f5b4fe2bdb43f0ba33&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=1&sig=20e8fa203ddff0cc1c1dae090b410d5517560a1710adb9847e702801250490bd&v=0)ZoteroFind papers and add citations from Zotero](</business/plugins/zotero/>)
+[![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)DataAnswer questions with data](</business/plugins/data/>)[![](https://files.openai.com/content?id=file_0000000063b481f7a24e2537d0b84852&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=9e80cc6bd5d88d35d21c12c6f100a36caa30235d06235e0f90a5373591a3059f&v=0)![](https://files.openai.com/content?id=file_0000000063b481f7a24e2537d0b84852&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=9e80cc6bd5d88d35d21c12c6f100a36caa30235d06235e0f90a5373591a3059f&v=0)Life Sciences LiteratureFind biomedical papers, preprints, and open-access full text](</business/plugins/life-sciences-literature/>)[![](https://files.openai.com/content?id=file_00000000cd4471f5a010d956ff65ec1a&cdn=1&cp=pi&ma=32227200&ts=0&p=pi&cid=1&sig=d03788dbe25363afc51b25493ddda7838584c0088127dc05336b83999dfa0fe1&v=0)![](https://files.openai.com/content?id=file_00000000cd4471f5a010d956ff65ec1a&cdn=1&cp=pi&ma=32227200&ts=0&p=pi&cid=1&sig=d03788dbe25363afc51b25493ddda7838584c0088127dc05336b83999dfa0fe1&v=0)Life Sciences NGS AnalysisGuided NGS routing and local execution for sequencing analysis](</business/plugins/life-sciences-ngs-analysis/>)[![](https://files.openai.com/content?id=file_000000009080720c98a45b9cd6ee083f&cdn=1&cp=pi&ma=30758400&ts=0&p=pi&cid=1&sig=8934eb25d96bba2bfd29b97de3ed875d8caa4e7e17c1b48e28843cc9423b10a9&v=0)![](https://files.openai.com/content?id=file_00000000c9bc81f7b98a27c81cc57bd7&cdn=1&cp=pi&ma=32659200&ts=0&p=pi&cid=8&sig=f14586e5e1c0907518a48f23fe94ffc19b99c728d987e8dab9ba8dd5111e4f94&v=0)BioRenderFind and create figures](</business/plugins/biorender/>)[![](https://files.openai.com/content?id=file_000000004c0c81f78746051c8894e9f0&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=94634a13f89821846ddbbbaa5e99aadc55c2198ec4b4dbd453217f71362d0950&v=0)![](https://files.openai.com/content?id=file_000000004c0c81f78746051c8894e9f0&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=94634a13f89821846ddbbbaa5e99aadc55c2198ec4b4dbd453217f71362d0950&v=0)DocumentsCreate and edit documents](</business/plugins/documents/>)[![](https://files.openai.com/content?id=file_00000000b5d471f5b4fe2bdb43f0ba33&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=1&sig=20e8fa203ddff0cc1c1dae090b410d5517560a1710adb9847e702801250490bd&v=0)![](https://files.openai.com/content?id=file_00000000b5d471f5b4fe2bdb43f0ba33&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=1&sig=20e8fa203ddff0cc1c1dae090b410d5517560a1710adb9847e702801250490bd&v=0)ZoteroFind papers and add citations from Zotero](</business/plugins/zotero/>)
 
 ## Get started with plugins
 
@@ -123,10 +123,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -145,7 +145,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -192,6 +193,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

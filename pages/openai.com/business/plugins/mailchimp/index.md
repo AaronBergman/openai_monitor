@@ -32,7 +32,7 @@ OpenAI
 
 # Intuit Mailchimp
 
-Create marketing campaigns.
+Create marketing campaigns
 
 [Install plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_693b20fccbac8191bdc178bb493de3e5>)[Contact sales](</contact-sales/>)
 
@@ -45,7 +45,7 @@ Developer
 Website
     [(opens in a new window)](<https://mailchimp.com>)
 
-[![](https://files.openai.com/content?id=file_000000006100822fba053a7663790f13&cdn=1&cp=pi&ma=30412800&ts=0&p=pi&cid=8&sig=972cdfdc85a259f56209337d719704a8fea6db0b3f1feba6c523001c2ecbb6a7&v=0)Intuit Mailchimp Create a 4 week campaign for my business.(opens in a new window)](<https://chatgpt.com/?prompt=%40Intuit+Mailchimp+Create+a+4+week+campaign+for+my+business.>)
+[![](https://files.openai.com/content?id=file_000000006100822fba053a7663790f13&cdn=1&cp=pi&ma=30412800&ts=0&p=pi&cid=8&sig=972cdfdc85a259f56209337d719704a8fea6db0b3f1feba6c523001c2ecbb6a7&v=0)Intuit Mailchimp Create a 4 week campaign for my business.(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_693b20fccbac8191bdc178bb493de3e5?install&prompt=Create%20a%204%20week%20campaign%20for%20my%20business.>)
 
 ## How it works
 
@@ -57,19 +57,19 @@ Create multichannel marketing campaign plans in ChatGPT using business inputs, t
 
 ![](https://files.openai.com/content?id=file_000000006100822fba053a7663790f13&cdn=1&cp=pi&ma=30412800&ts=0&p=pi&cid=8&sig=972cdfdc85a259f56209337d719704a8fea6db0b3f1feba6c523001c2ecbb6a7&v=0)Intuit Mailchimp Create a multichannel campaign plan for a new product launch including email, SMS, and social with timing and messaging themes.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Intuit+Mailchimp+Create+a+multichannel+campaign+plan+for+a+new+product+launch+including+email%2C+SMS%2C+and+social+with+timing+and+messaging+themes.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_693b20fccbac8191bdc178bb493de3e5?install&prompt=Create%20a%20multichannel%20campaign%20plan%20for%20a%20new%20product%20launch%20including%20email%2C%20SMS%2C%20and%20social%20with%20timing%20and%20messaging%20themes.&surface=work>)
 
   * ### Draft campaign strategies
 
 ![](https://files.openai.com/content?id=file_000000006100822fba053a7663790f13&cdn=1&cp=pi&ma=30412800&ts=0&p=pi&cid=8&sig=972cdfdc85a259f56209337d719704a8fea6db0b3f1feba6c523001c2ecbb6a7&v=0)Intuit Mailchimp Propose audience segments for my ecommerce list and suggest an A/B test plan for subject lines and offers.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Intuit+Mailchimp+Propose+audience+segments+for+my+ecommerce+list+and+suggest+an+A%2FB+test+plan+for+subject+lines+and+offers.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_693b20fccbac8191bdc178bb493de3e5?install&prompt=Propose%20audience%20segments%20for%20my%20ecommerce%20list%20and%20suggest%20an%20A%2FB%20test%20plan%20for%20subject%20lines%20and%20offers.&surface=work>)
 
   * ### Prepare campaigns for execution
 
 ![](https://files.openai.com/content?id=file_000000006100822fba053a7663790f13&cdn=1&cp=pi&ma=30412800&ts=0&p=pi&cid=8&sig=972cdfdc85a259f56209337d719704a8fea6db0b3f1feba6c523001c2ecbb6a7&v=0)Intuit Mailchimp Convert this strategy into draft campaigns ready to export and label them clearly so my team can approve fast.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Intuit+Mailchimp+Convert+this+strategy+into+draft+campaigns+ready+to+export+and+label+them+clearly+so+my+team+can+approve+fast.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_693b20fccbac8191bdc178bb493de3e5?install&prompt=Convert%20this%20strategy%20into%20draft%20campaigns%20ready%20to%20export%20and%20label%20them%20clearly%20so%20my%20team%20can%20approve%20fast.&surface=work>)
 
 
 
@@ -91,11 +91,11 @@ Create multichannel marketing campaign plans in ChatGPT using business inputs, t
 
 ## Resources
 
-### [Help centerLearn more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
+### [Help centerLearn more(opens in a new window)](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
 
-### [Plugin supportLearn more](<https://mailchimp.com/help/>)
+### [Plugin supportLearn more(opens in a new window)](<https://mailchimp.com/help/>)
 
-### [Privacy policyLearn more](<https://mailchimp.com/about/privacy-rights/>)
+### [Privacy policyLearn more(opens in a new window)](<https://mailchimp.com/about/privacy-rights/>)
 
 ## Add the Intuit Mailchimp plugin in a few clicks
 
@@ -105,7 +105,7 @@ Availability depends on the plugin, your plan, and workspace settings. Some conn
 
 ## Explore related plugins
 
-[![](https://files.openai.com/content?id=file_00000000bdb4720caff269fd259bbdff&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=20268aaf4f0c92265b5b4945d13a456968c0e1a5013b3be043a94650a9b37e03&v=0)![](https://files.openai.com/content?id=file_00000000bdb4720caff269fd259bbdff&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=20268aaf4f0c92265b5b4945d13a456968c0e1a5013b3be043a94650a9b37e03&v=0)Creative ProductionUse the Creative Production plugin in ChatGPT to create, adapt, and review marketing assets, campaign concepts, ads, and launch creative.](</business/plugins/creative-production/>)[![](https://files.openai.com/content?id=file_00000000191081f79dfeddb7b502b1bf&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=3e3f6f7a793416cd9a93e61c94c2bd4631dd37631f592d4e774aa254e2b1c9b7&v=0)![](https://files.openai.com/content?id=file_00000000191081f79dfeddb7b502b1bf&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=3e3f6f7a793416cd9a93e61c94c2bd4631dd37631f592d4e774aa254e2b1c9b7&v=0)SalesPrepare account work and customer follow-up.](</business/plugins/sales/>)[![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)DataTurn data into clear decisions.](</business/plugins/data/>)[![](https://files.openai.com/content?id=file_000000000ee871fd807d17a056d79aa7&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=1&sig=07ea3990463c5d5c58deba9d55d8dfa10178b2a1cabb20fb0fdcf93fc218472b&v=0)![](https://files.openai.com/content?id=file_000000000ee871fd807d17a056d79aa7&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=1&sig=07ea3990463c5d5c58deba9d55d8dfa10178b2a1cabb20fb0fdcf93fc218472b&v=0)CanvaSearch, create, and edit designs.](</business/plugins/canva/>)[![](https://files.openai.com/content?id=file_00000000d6d871f6af516dd237732886&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=8&sig=57605450edcdfd982a04b1b6acfaaefae75de19e6e4de54c96f260b5442b30a9&v=0)![](https://files.openai.com/content?id=file_00000000d6d871f6af516dd237732886&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=8&sig=57605450edcdfd982a04b1b6acfaaefae75de19e6e4de54c96f260b5442b30a9&v=0)HubSpotAnalyze CRM data and surface insights.](</business/plugins/hubspot/>)[![](https://files.openai.com/content?id=file_00000000c8c881f6b1898c574dac4e10&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=8&sig=5893839a27316a5af69bb3d001943b0ec293a3c64279d9ec08803564a1d9b16b&v=0)![](https://files.openai.com/content?id=file_000000006ab081f793cba420e30fd6aa&cdn=1&cp=pi&ma=30672000&ts=0&p=pi&cid=8&sig=abab6e040ce7a4e418276d0f37dcc1cfe7194cf719a08826f8b043598e18c0f9&v=0)ShopifyCreate and manage your store](</business/plugins/shopify/>)
+[![](https://files.openai.com/content?id=file_00000000bdb4720caff269fd259bbdff&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=20268aaf4f0c92265b5b4945d13a456968c0e1a5013b3be043a94650a9b37e03&v=0)![](https://files.openai.com/content?id=file_00000000bdb4720caff269fd259bbdff&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=20268aaf4f0c92265b5b4945d13a456968c0e1a5013b3be043a94650a9b37e03&v=0)Creative ProductionUse the Creative Production plugin in ChatGPT to create, adapt, and review marketing assets, campaign concepts, ads, and launch creative](</business/plugins/creative-production/>)[![](https://files.openai.com/content?id=file_00000000191081f79dfeddb7b502b1bf&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=3e3f6f7a793416cd9a93e61c94c2bd4631dd37631f592d4e774aa254e2b1c9b7&v=0)![](https://files.openai.com/content?id=file_00000000191081f79dfeddb7b502b1bf&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=3e3f6f7a793416cd9a93e61c94c2bd4631dd37631f592d4e774aa254e2b1c9b7&v=0)SalesPrepare account work and customer follow-up](</business/plugins/sales/>)[![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)DataAnswer questions with data](</business/plugins/data/>)[![](https://files.openai.com/content?id=file_000000000ee871fd807d17a056d79aa7&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=1&sig=07ea3990463c5d5c58deba9d55d8dfa10178b2a1cabb20fb0fdcf93fc218472b&v=0)![](https://files.openai.com/content?id=file_000000000ee871fd807d17a056d79aa7&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=1&sig=07ea3990463c5d5c58deba9d55d8dfa10178b2a1cabb20fb0fdcf93fc218472b&v=0)CanvaSearch, create, and edit designs](</business/plugins/canva/>)[![](https://files.openai.com/content?id=file_00000000d6d871f6af516dd237732886&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=8&sig=57605450edcdfd982a04b1b6acfaaefae75de19e6e4de54c96f260b5442b30a9&v=0)![](https://files.openai.com/content?id=file_00000000d6d871f6af516dd237732886&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=8&sig=57605450edcdfd982a04b1b6acfaaefae75de19e6e4de54c96f260b5442b30a9&v=0)HubSpotAnalyze CRM data and surface insights](</business/plugins/hubspot/>)[![](https://files.openai.com/content?id=file_00000000c8c881f6b1898c574dac4e10&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=8&sig=5893839a27316a5af69bb3d001943b0ec293a3c64279d9ec08803564a1d9b16b&v=0)![](https://files.openai.com/content?id=file_000000006ab081f793cba420e30fd6aa&cdn=1&cp=pi&ma=30672000&ts=0&p=pi&cid=8&sig=abab6e040ce7a4e418276d0f37dcc1cfe7194cf719a08826f8b043598e18c0f9&v=0)ShopifyCreate and manage your store](</business/plugins/shopify/>)
 
 ## Get started with plugins
 
@@ -123,10 +123,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -145,7 +145,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -192,6 +193,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

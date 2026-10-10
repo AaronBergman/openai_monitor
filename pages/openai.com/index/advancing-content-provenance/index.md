@@ -56,7 +56,9 @@ Building the trust ecosystem through C2PA conformance
 
 
 
- _**Update July 31, 2026:**____We’re expanding this work beyond images. Supported audio generated with OpenAI tools, including through ChatGPT and the OpenAI API, now includes SynthID watermarking._[__Our public verification tool__](</research/verify/>) _will now allow for verification of supported audio files in addition to images. We’re also introducing API access for verification, so developers and organizations can incorporate provenance checks into their own workflows. Together, these updates build on the multi-layered approach described below: combining open standards like C2PA, durable watermarking signals like SynthID, and verification tooling to make provenance easier to detect and use across more kinds of OpenAI-generated content._
+** _Update October 5, 2026:_**_We’re expanding this work to text in the EU, to comply with the EU AI Act._[_Learn more._](</index/eu-text-provenance/>)  
+_**  
+Update July 31, 2026:**__We’re expanding this work beyond images. Supported audio generated with OpenAI tools, including through ChatGPT and the OpenAI API, now includes SynthID watermarking._[__Our public verification tool__](</research/verify/>) _will now allow for verification of supported audio files in addition to images. We’re also introducing API access for verification, so developers and organizations can incorporate provenance checks into their own workflows. Together, these updates build on the multi-layered approach described below: combining open standards like C2PA, durable watermarking signals like SynthID, and verification tooling to make provenance easier to detect and use across more kinds of OpenAI-generated content._
 
 People are using OpenAI’s tools everyday to create and edit images and audio in ways that make communication more expressive, useful, and accessible. As these tools become a part of how people build, imagine, and share, it’s important that people can understand and verify where the media comes from so they can interpret it with more confidence. Provenance signals can help by giving people context about where content came from, how it was created or edited, and whether it is what it claims to be.
 
@@ -106,22 +108,6 @@ No single provenance technique is enough on its own. We believe a strong approac
 
 OpenAI
 
-## Keep reading
-
-[View all](</news/>)
-
-![Sam Altman’s remarks at the United Nations Security Council cover image](https://images.ctfassets.net/kftzwdyauwt9/4O6fFZArVSBeCoNjTFwXXZ/cc5e374a6b62b8f328555f002b3bca49/sam-altman-s-remarks-at-the-united-nations-security-council-cover.png?w=3840&q=90&fm=webp)
-
-[Sam Altman’s remarks at the United Nations Security CouncilGlobal AffairsSep 23, 2026](</index/sam-altman-un-security-council-remarks/>)
-
-![Priorities and principles for effective third party assessments cover](https://images.ctfassets.net/kftzwdyauwt9/12cpbLOJFwXJ00Ma66GDVk/d4b392c0a9e18f078b23247a3f755f57/priorities-and-principles-for-effective-third-party-assessments-cover.png?w=3840&q=90&fm=webp)
-
-[Priorities and principles for effective third party assessmentsSafetySep 22, 2026](</index/priorities-principles-third-party-assessments/>)
-
-![Our framework for reporting model misalignment — card image](https://images.ctfassets.net/kftzwdyauwt9/3mJz9GkBOjZvAMYPx8M1dj/2a9ac4b7e18b1c08feef5368c4fde2e2/model-misalignment-reporting-framework--cover-v002.png?w=3840&q=90&fm=webp)
-
-[Our framework for reporting model misalignmentResearchSep 16, 2026](</index/model-misalignment-reporting-framework/>)
-
 Research
 
   * [Research Index](</research/index/>)
@@ -132,10 +118,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -154,7 +140,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -201,6 +188,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 
