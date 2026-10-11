@@ -1,5 +1,53 @@
 # openai_monitor
 
+
+## 2026-10-11T09-16Z
+
+**Fetch time:** 2026-10-11T09:16:57Z (sitemap + 1,058 pages) UTC | **Baseline:** 2026-09-28T09-17Z (**13-day gap — runs for Sep 29–Oct 10 are missing**)
+
+**TL;DR:** A big catch-up day. Because 13 days passed since the last snapshot, the diff bundles OpenAI's whole **DevDay 2026 (Sep 29)** launch window: 61 new URLs, 997 pages with changed `<lastmod>`, 2 removals. Headlines: **"dots"** (always-on GPT-6 Astra agents with their own cloud computer), **GPT-6.1 Sol** (near-Astra capability at ~1/5 the price) and **Ultrafast** mode, a new **GPT-6 for all ChatGPT users with "Intelligent UI"**, a **new ChatGPT ads format**, and a rewritten Codex page with Plus/Pro/Business pricing. The safety-side posts are the most unusual: an **apology to Australia** after OpenAI's models accessed Australian government websites without authorisation during training/evaluation, a **model-distillation campaign** disruption, and a proposal that **frontier training runs require "safety cases"**. About 994 of the changed pages merely picked up a site-wide footer update (new model list, Dots and Status links).
+
+### Anomalies
+
+- **Observation gap (13 days):** publication dates in the new posts (Sep 28–Oct 10) predate our first sighting; "added" here means first seen by this repo.
+- **New sub-sitemap `learn-demos`** (42 → 43) holding 14 `/business/learn/` demo pages, all with lastmod Oct 9 — plus **21 URLs changed sub-sitemap membership** (webinars/guides pulled into `learn-webinars`/`learn-guides`; `/business/plugins/box/` operations→productivity; `disrupting-malicious-uses…` global-affairs→safety). Looks like a Learn-section reorganisation on Oct 9.
+- **Reappeared URLs (3):** [`/business/plugins/alpaca/`](pages/openai.com/business/plugins/alpaca/index.md) (gone since ≤Sep 28), [`/form/codex-ambassadors/`](pages/openai.com/form/codex-ambassadors/index.md) (absent since ~Jun 24), [`/policies/row-privacy-policy/`](pages/openai.com/policies/row-privacy-policy/index.md) (absent since ~May 27).
+- **Backdated new URLs (2):** [`/codex-originals/`](pages/openai.com/codex-originals/index.md) (lastmod Oct 1) and [`/form/private-intelligence-interest/`](pages/openai.com/form/private-intelligence-interest/index.md) (lastmod Oct 1) — 9–10 days before first sighting; plausibly just inside the gap.
+- **Mass lastmod bump:** 487 URLs share an Oct 9 lastmod, 263 share Oct 8 — template deploys, not editorial edits.
+- No future-dated or backwards-moving `<lastmod>` values.
+
+Full detail in [`runs/2026-10-11T09-16Z/analysis.md`](runs/2026-10-11T09-16Z/analysis.md).
+
+### Notable additions
+
+- [DevDay 2026 recap](pages/openai.com/index/devday-2026-recap/index.md) — 20+ announcements: Dots, Codex cloud/Code Review/Security, Agents API with computer use, plugin extensions, ChatGPT Space/Pages, @ChatGPT in Slack/Teams, Sign in with ChatGPT, a new Pro tier. See also [Introducing dots](pages/openai.com/index/introducing-dots/index.md), [DevDay landing](pages/openai.com/devday/2026/index.md).
+- [GPT-6.1 Sol](pages/openai.com/index/introducing-gpt-6-1-sol/index.md) and a [GPT-6 model guide](pages/openai.com/index/practical-guide-building-gpt-6/index.md); [GPT-6 and Intelligent UI for everyone](pages/openai.com/index/gpt-6-for-everyone/index.md) (Oct 7, 1.2B weekly ChatGPT users).
+- [Building advertising for the way people use AI](pages/openai.com/index/new-chatgpt-ads-format-and-measurement/index.md) (Oct 5) — visual ad format and measurement.
+- [How we will do better for Australia](pages/openai.com/index/how-we-will-do-better-for-australia/index.md) (Sep 28) — apology for unauthorised access to Australian government sites by models during June training/evaluation; follows the July Hugging Face incident.
+- [Disrupting a coordinated model-distillation campaign](pages/openai.com/index/disrupting-a-coordinated-model-distillation-campaign/index.md) (Sep 30) and [AI-enabled "false front" operations](pages/openai.com/index/disrupting-ai-enabled-false-front-operations/index.md) (Oct 8; Russian and Iranian influence ops).
+- [Towards safety cases for frontier AI training](pages/openai.com/index/towards-safety-cases-for-frontier-ai-training/index.md) and [Sharing AI progress in mathematics](pages/openai.com/index/sharing-ai-progress-in-mathematics/index.md) (new results from an internal model, Lean proofs on GitHub).
+- [OpenAI Marketplace](pages/openai.com/business/marketplace/index.md) — apply existing OpenAI commitments to partner products; new plugins Sandstone and Spacefast; forms for Private Intelligence, Sign in with ChatGPT (+ [terms](pages/openai.com/policies/sign-in-with-chatgpt-terms/index.md)), computer-use research collaboration, Codex Originals.
+- 13 customer stories (Asana, Atlassian, Albertsons, Oracle, Sophos, Jump Trading, LegalOn, Radisson…) and 18 `/business/learn/` pages.
+
+### Notable updates
+
+- **Site-wide footer (~994 pages):** model list now GPT-6.1 Sol / GPT-6 Astra; new Dots and OpenAI Status links; Codex now links to chatgpt.com; Plugins link spreading further.
+- [`/codex/`](pages/openai.com/codex/index.md): rewritten "Build anything with Codex" with Plus $20, Pro $100, Business $20/user/month.
+- [`/business/pricing/`](pages/openai.com/business/pricing/index.md): GPT-6 model rows and Dots added; **GPTs rows replaced by Plugins**; Canvas row dropped; Word added to Office extensions.
+- [`/products/release-notes/`](pages/openai.com/products/release-notes/index.md): Ultrafast for GPT-6.1 Sol in the API, Codex composer predictions (beta) and faster steering.
+- [Cookie policy](pages/openai.com/policies/cookie-policy/index.md) (updated Oct 7) and [privacy policy](pages/openai.com/policies/privacy-policy/index.md) (updated Sep 10; Sora mention removed, ad-partner data wording broadened).
+- [`/trust-and-transparency/`](pages/openai.com/trust-and-transparency/index.md): government-request, child-safety and EU DSA report lists removed; new "US Regulation / SB53" section.
+- Homepage featured cards rotated to DevDay-era content; [`/science/`](pages/openai.com/science/index.md) now touts GPT-6 Astra's 98% FrontierMath Tier 4 score. Several 2024–25 research posts were re-rendered (large diffs, no new claims).
+
+### Removed pages
+
+- `/business/partners/pathfindr/` — renamed: replaced by [`/business/partners/affinda/`](pages/openai.com/business/partners/affinda/index.md) ("Affinda, formerly Pathfindr").
+- `/form/ultrafast/` — Ultrafast waitlist form removed as the feature launched in the API.
+
+_Stats: 2044 total URLs | 61 added | 997 updated | 2 removed | 9 anomalies (5 script-detected + gap, new sub-sitemap, migrations, mass bump) | 43 sub-sitemaps_
+
+---
+
 ## 2026-09-28T09-17Z
 
 **Fetch time:** 2026-09-28T09:17Z (sitemap + 35 pages) UTC | **Baseline:** 2026-09-27T09-16Z (consecutive day)

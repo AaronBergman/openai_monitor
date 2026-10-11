@@ -98,9 +98,13 @@ Explore case studies from OpenAI investigations into malicious uses of AI. Each 
 
 Filter
 
+![Disrupting AI-enabled “false front” operations — cover](https://images.ctfassets.net/kftzwdyauwt9/DQdWPLtWbsq27D3JQPXZR/866ddf9dbac46c29308afa0f381bc17d/false-front-operations-cover.png?w=3840&q=90&fm=webp)
+
+[Disrupting AI-enabled “false front” operationsSafetyOct 8, 2026](</index/disrupting-ai-enabled-false-front-operations/>)
+
 ![COVERT IO: Russian influence campaign](https://images.ctfassets.net/kftzwdyauwt9/5RATUzDjxT2FPaERyQHzfy/150b488894b9c321cf7d2ffabc79c3cd/russian-influence-campaign-card.png?w=3840&q=90&fm=webp)
 
-[Disrupting a new covert influence campaign from RussiaGlobal AffairsAug 25, 2026](</index/disrupting-malicious-uses-of-ai-influence-campaign-russia/>)
+[Disrupting a new covert influence campaign from RussiaSafetyAug 25, 2026](</index/disrupting-malicious-uses-of-ai-influence-campaign-russia/>)
 
 ![SCAM: Criminal Scam Operation card image.](https://images.ctfassets.net/kftzwdyauwt9/dmuaCard4bAASzMWH9WOJ02MC5neBx/d532e2c182214b6be06935edeaf6aa41/1x1___SCAM__Criminal_scam_operation.png?w=3840&q=90&fm=webp)
 
@@ -109,10 +113,6 @@ Filter
 ![COVERT IO: “Tech and Tariffs” Campaign card image.](https://images.ctfassets.net/kftzwdyauwt9/34NJcnRkIaj7sZKamvVj8z/fe2ee9743cdc4916a1f140dc26661be3/1x1___COVERT_IO___Tech_and_Tariffs__Campaign.png?w=3840&q=90&fm=webp)
 
 [“Tech and Tariffs” Campaign: Influence activity targeting US tech policySafetyJun 1, 2026](</index/disrupting-malicious-uses-of-ai-tech-and-tariffs/>)
-
-![COVERT IO: “Data Center Bandwagon” Campaign card image.](https://images.ctfassets.net/kftzwdyauwt9/98HgdM2KDTNWvSniuJOR3/a738dc1711e10e84d19119431f5a7e0e/1x1___COVERT_IO___Data_Center_Bandwagon__Campaign.png?w=3840&q=90&fm=webp)
-
-[“Data Center Bandwagon” Campaign: US-targeted influence activitySafetyJun 1, 2026](</index/disrupting-malicious-uses-of-ai-data-center-bandwagon/>)
 
 Load more
 
@@ -149,10 +149,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -171,7 +171,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -218,6 +219,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

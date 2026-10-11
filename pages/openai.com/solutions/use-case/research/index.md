@@ -70,7 +70,7 @@ Compare products that support research at every level—from quick exploration t
 
 
 
-[Use deep research](<https://chatgpt.com/?hints=research>)
+[Use deep research(opens in a new window)](<https://chatgpt.com/?hints=research>)
 
 ![Six rounded square icons representing documents, tables, databases, globe, folders, and code, arranged in two rows of three on a blue gradient background.](https://images.ctfassets.net/kftzwdyauwt9/1YcMUc9uJQDOCaUnbgK4k/3ab2827c4d2fd3e95edde4d6a321ea33/solution-research-thumbnail-03.png?w=3840&q=90&fm=webp)
 
@@ -101,7 +101,7 @@ Connect to your existing tools while keeping data private and protected.
 
 Connect ChatGPT to your research tools and data sources using apps and MCP, or develop custom integrations that meet your needs.
 
-[Explore apps](</business/plugins/>)[Connect with MCP](<https://platform.openai.com/docs/mcp>)
+[Explore apps](</business/plugins/>)[Connect with MCP(opens in a new window)](<https://platform.openai.com/docs/mcp>)
 
 ![Row of blue certification badges for CCPA, CSA STAR, GDPR, AICPA SOC 2, ISO 27001, and ISO 27701, representing compliance and data security standards.](https://images.ctfassets.net/kftzwdyauwt9/41efEX7uIrsnblWLorihtN/47b0f02a04f5e1aa5ca2963d7fffc1ab/Thumbnail-2up-card-02.png?w=3840&q=90&fm=webp)
 
@@ -129,9 +129,9 @@ Your organization’s data is never used to improve our models. It’s protected
 
 ### [Guides and resourcesBest practices for deploying AI at scale.Learn more](<https://openai.com/business/guides-and-resources/>)
 
-### [OpenAI Academy Learn how to build, test, and deploy AI-powered applications step by step.Learn more](<https://academy.openai.com/>)
+### [OpenAI Academy Learn how to build, test, and deploy AI-powered applications step by step.Learn more(opens in a new window)](<https://academy.openai.com/>)
 
-### [Developer hubDocs, examples, and SDKs for coding with OpenAI models and APIs.Learn more](<https://developers.openai.com/>)
+### [Developer hubDocs, examples, and SDKs for coding with OpenAI models and APIs.Learn more(opens in a new window)](<https://developers.openai.com/>)
 
 ## A faster path to understanding
 
@@ -149,10 +149,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -171,7 +171,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -189,6 +190,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -217,6 +219,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 
