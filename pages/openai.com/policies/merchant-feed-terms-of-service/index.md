@@ -43,58 +43,86 @@ Merchant may submit (itself or through its agent(s)) product content (“ _Merch
 ## 2\. Policies
 
   * Merchant is responsible for Merchant Content it submits to OpenAI.
+
   * Merchant will ensure that Merchant Content complies with (i) OpenAI’s Prohibited Products Policies at [_https://openai.com/policies/commerce-policies/_ ⁠](<https://openai.com/policies/commerce-policies/>) and all other policies made available by OpenAI to Merchant, as may be modified by OpenAI periodically (collectively, “ _Policies_ ”), (ii) these Terms and (iii) applicable law(s).
+
   * If Merchant Content contains any Personal Data (as defined in Exhibit A) such as reviews, the parties will comply with Exhibit A with respect to such Personal Data.
+
 
 
 
 ## 3\. Merchant Content
 
   * Merchant hereby grants to OpenAI and its Affiliates a worldwide, royalty-free license to reproduce, distribute, modify, publicly perform and display Merchant Content (to the extent protected by intellectual property rights and such license is necessary) in connection with OpenAI’s or its Affiliates’ products and services to enable OpenAI to surface, recommend, or display Merchant products to users (“ _OpenAI Services_ ”). 
+
   * In addition, OpenAI and its Affiliates may access the Merchant Content for purposes of a search index and improving the OpenAI Services. 
+
   * For purposes of these Terms, “ _Affiliate_ ” means any entity that directly or indirectly controls, is controlled by, or is under common control with OpenAI. OpenAI and its Affiliates may use suppliers, contractors, and service providers to perform services for OpenAI and its Affiliates using the Merchant Content. 
+
   * Nothing in these Terms requires OpenAI to use or surface any Merchant Content. OpenAI may remove or decide not to display any Merchant Content at its sole discretion.
+
   * By submitting Merchant Content, Merchant authorizes OpenAI to use Merchant’s name, brand, logos, and trademarks in connection with OpenAI’s authorized use of Merchant Content, such as to attribute Merchant products to Merchant.
+
   * If OpenAI becomes aware and notifies Merchant that any Merchant Content might infringe upon a third-party’s intellectual property rights, involve counterfeit goods, or otherwise violate a third-party’s proprietary or privacy rights, then Merchant will expeditiously remove the offending Merchant Content from Merchant Content accessible to OpenAI until the issue is resolved. 
+
   * Upon OpenAI's request, Merchant will collaborate with OpenAI to identify and remediate any discrepancies between the Merchant Content and information displayed on Merchant properties, formatting inconsistencies, missing data fields, or technical integration problems and will promptly work to resolve the issue identified by OpenAI. Merchant will provide reasonable technical support and subject matter expertise to ensure Merchant Content quality and system compatibility.
+
 
 
 
 ## 4\. Confidentiality
 
   *  _Use and Disclosure_. Recipient will: (a) use discloser’s Confidential Information only to exercise its rights and fulfill its obligations under these Terms; (b) take reasonable measures to protect the confidentiality of discloser’s Confidential Information; and (c) not disclose discloser’s Confidential Information to any third party except as expressly permitted in these Terms. “ _Confidential Information_ ” means any business, technical or financial information, materials, or other subject matter disclosed by discloser to recipient that is: (a) identified as confidential at the time of disclosure; or (b) should be reasonably understood by recipient to be confidential under the circumstances. For clarity, the Merchant Content does not constitute Confidential Information.
+
   * _Exceptions_. The obligations in this Section 4 do not apply to information that: (a) is or becomes generally available to the public through no fault of recipient; (b) was in recipient’s possession or known by it prior to receipt from discloser; (c) was rightfully disclosed to recipient without restriction by a third party; or (d) was independently developed without use of discloser’s Confidential Information. 
+
   *  _Permitted Disclosure_. Recipient may disclose Confidential Information only to its Affiliates, employees, contractors, and agents who have a need to know and who are bound by confidentiality obligations at least as restrictive as those in these Terms. Recipient will be responsible for any breach of this Section 4 by its employees, contractors, and agents. Recipient may also disclose Confidential Information to the extent required by applicable law or legal process, and, where legally permitted, recipient will provide discloser reasonable notice and cooperation to seek protective treatment. 
+
   *  _Remedies._ Recipient acknowledges that disclosure of Confidential Information in violation of these Terms would cause substantial harm for which damages alone would not be a sufficient remedy, and therefore upon any such disclosure by recipient, discloser will be entitled to seek appropriate equitable relief in addition to whatever other remedies it might have at law.
+
 
 
 
 ## 5\. Warranties
 
   * Merchant warrants that it: (i) has full power and authority to enter into these Terms; and (ii) will comply with applicable law in the exercise of its rights and performance of its obligations under these Terms.
+
   * Merchant represents and warrants that:
+
     * it holds, and will maintain, the rights to provide the Merchant Content as set forth herein and to grant the licenses and rights set forth in Section 3;
+
     * it will not provide any Merchant Content that violates Policies, applicable law or any applicable privacy policies, infringes any third party intellectual property rights, or is threatening, harassing, defamatory, libelous, fraudulent, or otherwise tortious;
+
     * Merchant’s provision of the Merchant Content to OpenAI and its Affiliates under these Terms will comply with applicable law, including data protection legislation; 
+
     * the Merchant Content includes all necessary warnings, disclaimers, and other labels required for the products described in the Merchant Content,
+
     * all products described in the Merchant Content are genuine, legally offered for sale, and comply with applicable safety standards and regulatory requirements in the jurisdictions where they will be marketed;
+
     * the information contained in the Merchant Content (including pricing information regarding Merchant’s products and services) is and will remain complete, correct and current; and
+
     * the Merchant Content does not include any Personal Data, biometric data, or other Personal Data of individuals, including any information subject to data protection legislation, except for Personal Data contained within the Merchant Content that is publicly available in mass media.
+
   * **Except as otherwise expressly set forth in these Terms, neither party makes (and each party expressly disclaims) any other representations or warranties, whether express or implied, with respect to these Terms or its subject matter, including any implied warranties of merchantability or fitness for a particular purpose, and any warranties that may arise from course of performance, course of dealing, or usage of trade.**
+
 
 
 
 ##  6\. Limitation of Liability
 
   *  _Limitation on Indirect Liability_**. To the fullest extent permitted by law, except for (a) gross negligence/willful misconduct, (b) indemnification obligations, or (c) confidentiality obligations, neither party is liable for indirect, incidental, special, consequential, or punitive damages (including lost profits), even if foreseeable.**
+
   * _Liability Cap_**. To the fullest extent permitted by law, OpenAI’s total liability will not exceed $1,000.**
+
 
 
 
 ##  7\. Indemnification
 
   * Merchant will indemnify, hold harmless, and defend OpenAI and its Affiliates (and their respective employees, officers, and directors) from and against all liabilities, damages, losses, costs, fees (including reasonable legal fees), and expenses relating to any third-party allegation, claim, action, suit, or proceeding (“ _Third Party Claim_ ”) arising out of or related to Merchant Content or any breach of these Terms by Merchant. 
+
   * OpenAI will provide prompt written notice when seeking indemnification, reasonable cooperation, and allow you sole control of the defense/settlement (with customary consent limits), provided that OpenAI may participate in its own defense at its sole expense.
+
 
 
 
@@ -117,13 +145,21 @@ Before filing a claim, each party agrees to try to resolve the dispute by contac
 ## 12\. Miscellaneous
 
   * (a) These Terms are the parties’ entire agreement relating to their subject matter and supersede any prior or contemporaneous agreements on those subjects. (b) Merchant may not make any public statement regarding the relationship contemplated by these Terms (except when required by law with notice to OpenAI). 
+
   * (c) Except for modifications to the Terms by OpenAI under Section 10, any amendment to these Terms must be agreed to in writing by both parties and must expressly state that it is amending these Terms. 
+
   * (d) Notices must be in writing and are deemed given when received, as confirmed by written or electronic means. Notices to OpenAI must be sent to: contract-notices@openai.com, with a copy to 1455 Third Street, San Francisco, CA 94158, Attn: Legal. Notices to Merchant will be addressed to Merchant’s Legal Department (or if the contact information for Merchant’s Legal Department is not known then to Merchant's primary contact or other address on file). 
+
   * (e) No waiver of any of the provisions of these Terms will constitute a waiver of any other provision (whether or not similar). No waiver will be binding unless executed in writing by the party to be bound by the waiver.
+
   * (f) If any provision of these Terms is found unenforceable, that provision will be severed and the remaining provisions of the Terms will continue in full force and effect. 
+
   * (g) Neither party may assign any of its rights or obligations under these Terms without the written consent of the other party, except to an Affiliate but only where (i) the assignee agrees in writing to be bound by these Terms, (ii) the assigning party remains liable for obligations under these Terms if the assignee defaults on them, and (iii) the assigning party has notified the other party in writing of the assignment. OpenAI may assign any of its rights or obligations under these Terms without consent or notice in the event of a corporate reorganization. Any other attempt to transfer or assign is void. 
+
   * (h) There are no third-party beneficiaries to these Terms. These Terms do not create any agency, partnership, joint venture or employment relationship among the parties. The parties do not intend to create any joint works under these Terms.
+
   * (j)The following provisions will survive any expiration or termination of these Terms: 3-9, and 11-12.
+
 
 
 
@@ -152,9 +188,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -173,7 +210,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -191,6 +229,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -219,6 +258,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

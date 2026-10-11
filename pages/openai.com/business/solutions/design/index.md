@@ -34,7 +34,7 @@ ChatGPT Work turns rough ideas, source files, and feedback into live prototypesâ
 
 Get started
 
-Help me design a new calendar feature
+Help me design a new calendar featureHelp me design a new calendar feature
 
 ![OpenAI for Design Leaders hero chart.](https://images.ctfassets.net/kftzwdyauwt9/1el3gDcIGo9rM8aZyviQzP/99c0132b2db9d85f20dfb63682788bf1/design-chart-1.png?w=3840&q=90&fm=webp)
 
@@ -257,10 +257,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -279,7 +279,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -326,6 +327,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

@@ -32,7 +32,7 @@ OpenAI
 
 # Fireflies
 
-Search meeting transcripts.
+Search meeting transcripts
 
 [Install plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_6912075cb358819187346bcafb601db8>)[Contact sales](</contact-sales/>)
 
@@ -45,11 +45,11 @@ Developer
 Website
     [(opens in a new window)](<https://fireflies.ai>)
 
-[![](https://files.openai.com/content?id=file_00000000a9f8722fbd055a681bb0a779&cdn=1&cp=pi&ma=32140800&ts=0&p=pi&cid=1&sig=1f854f45030b66a6fc0dfff15dd395faa907cb2ddb48d63c105de67b4d9975cd&v=0)Fireflies Summarize our conversation history with Acme so far(opens in a new window)](<https://chatgpt.com/?prompt=%40Fireflies+Summarize+our+conversation+history+with+Acme+so+far>)
+[![](https://files.openai.com/content?id=file_00000000a9f8722fbd055a681bb0a779&cdn=1&cp=pi&ma=32140800&ts=0&p=pi&cid=1&sig=1f854f45030b66a6fc0dfff15dd395faa907cb2ddb48d63c105de67b4d9975cd&v=0)Fireflies Summarize our conversation history with Acme so far(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_6912075cb358819187346bcafb601db8?install&prompt=Summarize%20our%20conversation%20history%20with%20Acme%20so%20far>)
 
 ## How it works
 
-Use meeting recordings and transcripts from Fireflies in ChatGPT to summarize conversations, surface action items, and search discussions across your organization.
+The Fireflies app brings your meetings and knowledge directly into Codex. Analyze any conversation—sales, customer success, product, recruiting—for insights, action items, and sentiment. Track feature requests and pain points, update CRMs or systems of record, and instantly retrieve context from your organization's meetings. With Fireflies and Codex, centralize your company knowledge and turn every conversation into searchable, actionable insights.
 
 ## What else can you do?
 
@@ -57,19 +57,19 @@ Use meeting recordings and transcripts from Fireflies in ChatGPT to summarize co
 
 ![](https://files.openai.com/content?id=file_00000000a9f8722fbd055a681bb0a779&cdn=1&cp=pi&ma=32140800&ts=0&p=pi&cid=1&sig=1f854f45030b66a6fc0dfff15dd395faa907cb2ddb48d63c105de67b4d9975cd&v=0)Fireflies Summarize the transcript from my last meeting titled [meeting name]. Capture key themes, decisions made, and any open questions.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Fireflies+Summarize+the+transcript+from+my+last+meeting+titled+%5Bmeeting+name%5D.+Capture+key+themes%2C+decisions+made%2C+and+any+open+questions.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_6912075cb358819187346bcafb601db8?install&prompt=Summarize%20the%20transcript%20from%20my%20last%20meeting%20titled%20%5Bmeeting%20name%5D.%20Capture%20key%20themes%2C%20decisions%20made%2C%20and%20any%20open%20questions.&surface=work>)
 
   * ### Extract action items and context
 
 ![](https://files.openai.com/content?id=file_00000000a9f8722fbd055a681bb0a779&cdn=1&cp=pi&ma=32140800&ts=0&p=pi&cid=1&sig=1f854f45030b66a6fc0dfff15dd395faa907cb2ddb48d63c105de67b4d9975cd&v=0)Fireflies From the meeting transcript, list all action items with owners (if stated), due dates (if stated), and the exact supporting quote for each.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Fireflies+From+the+meeting+transcript%2C+list+all+action+items+with+owners+%28if+stated%29%2C+due+dates+%28if+stated%29%2C+and+the+exact+supporting+quote+for+each.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_6912075cb358819187346bcafb601db8?install&prompt=From%20the%20meeting%20transcript%2C%20list%20all%20action%20items%20with%20owners%20\(if%20stated\)%2C%20due%20dates%20\(if%20stated\)%2C%20and%20the%20exact%20supporting%20quote%20for%20each.&surface=work>)
 
   * ### Search conversations and knowledge
 
 ![](https://files.openai.com/content?id=file_00000000a9f8722fbd055a681bb0a779&cdn=1&cp=pi&ma=32140800&ts=0&p=pi&cid=1&sig=1f854f45030b66a6fc0dfff15dd395faa907cb2ddb48d63c105de67b4d9975cd&v=0)Fireflies Search across meeting transcripts for mentions of this topic. Return the most relevant meetings, a short summary of what was said, and links or timestamps to the passages.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Fireflies+Search+across+meeting+transcripts+for+mentions+of+this+topic.+Return+the+most+relevant+meetings%2C+a+short+summary+of+what+was+said%2C+and+links+or+timestamps+to+the+passages.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_6912075cb358819187346bcafb601db8?install&prompt=Search%20across%20meeting%20transcripts%20for%20mentions%20of%20this%20topic.%20Return%20the%20most%20relevant%20meetings%2C%20a%20short%20summary%20of%20what%20was%20said%2C%20and%20links%20or%20timestamps%20to%20the%20passages.&surface=work>)
 
 
 
@@ -84,11 +84,11 @@ Use meeting recordings and transcripts from Fireflies in ChatGPT to summarize co
 
 ## Resources
 
-### [Help centerLearn more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
+### [Help centerLearn more(opens in a new window)](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
 
-### [Plugin supportLearn more](<https://help.fireflies.ai/>)
+### [Plugin supportLearn more(opens in a new window)](<https://help.fireflies.ai/>)
 
-### [Privacy policyLearn more](<https://fireflies.ai/privacy>)
+### [Privacy policyLearn more(opens in a new window)](<https://fireflies.ai/privacy>)
 
 ## Add the Fireflies plugin in a few clicks
 
@@ -98,7 +98,7 @@ Availability depends on the plugin, your plan, and workspace settings. Some conn
 
 ## Explore related plugins
 
-[![](https://files.openai.com/content?id=file_00000000191081f79dfeddb7b502b1bf&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=3e3f6f7a793416cd9a93e61c94c2bd4631dd37631f592d4e774aa254e2b1c9b7&v=0)![](https://files.openai.com/content?id=file_00000000191081f79dfeddb7b502b1bf&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=3e3f6f7a793416cd9a93e61c94c2bd4631dd37631f592d4e774aa254e2b1c9b7&v=0)SalesPrepare account work and customer follow-up.](</business/plugins/sales/>)[![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)Product DesignTurn product ideas into designs and research artifacts.](</business/plugins/product-design/>)[![](https://files.openai.com/content?id=file_00000000994081fd9df560367dfe54f4&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=8&sig=55e9028947fbc7ea3284b715ca95e34f797efbc5c4e0e47a9b2b0509d787308d&v=0)![](https://files.openai.com/content?id=file_00000000994081fd9df560367dfe54f4&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=8&sig=55e9028947fbc7ea3284b715ca95e34f797efbc5c4e0e47a9b2b0509d787308d&v=0)SlackLook up chats and messages.](</business/plugins/slack/>)[![](https://files.openai.com/content?id=file_00000000dca471f5a61c7e4a3fab77a4&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=1&sig=63bacca4cbadf25340543a539567d26664d1f530be2b3f6119d3aaeb4edbed56&v=0)![](https://files.openai.com/content?id=file_00000000aaf8722f9e07cbdd00ea7ad8&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=1&sig=450cfa6b24e75515f4907572297126983f2d33e3f6f73cab443b4b5596a0deef&v=0)NotionSearch and reference your Notion pages.](</business/plugins/notion/>)[![](https://files.openai.com/content?id=file_000000004a50722f96089a32eeed297c&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=1&sig=07807a7cbefb19d9cd968741565427527585e02f13335ddd46129d77e9dfe317&v=0)![](https://files.openai.com/content?id=file_0000000072dc81f69476895c0081c9c6&cdn=1&cp=pi&ma=31363200&ts=0&p=pi&cid=8&sig=ae98e7cc8005841970b2d7697ed1cfd38a1f393c65889c0de686c5db7b93da03&v=0)AsanaTurn Asana tasks into clear updates and plans.](</business/plugins/asana/>)[![](https://files.openai.com/content?id=file_000000004f54720ca95439ac98f37bec&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=1&sig=e5d7098d5c3c07aa0e3d229476b0a0547fedb672feb751b0d0aa455dd84a6c33&v=0)![](https://files.openai.com/content?id=file_000000004f54720ca95439ac98f37bec&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=1&sig=e5d7098d5c3c07aa0e3d229476b0a0547fedb672feb751b0d0aa455dd84a6c33&v=0)Google CalendarLook up events and availability.](</business/plugins/google-calendar/>)
+[![](https://files.openai.com/content?id=file_00000000191081f79dfeddb7b502b1bf&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=3e3f6f7a793416cd9a93e61c94c2bd4631dd37631f592d4e774aa254e2b1c9b7&v=0)![](https://files.openai.com/content?id=file_00000000191081f79dfeddb7b502b1bf&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=3e3f6f7a793416cd9a93e61c94c2bd4631dd37631f592d4e774aa254e2b1c9b7&v=0)SalesPrepare account work and customer follow-up](</business/plugins/sales/>)[![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)Product DesignTurn product ideas into designs and research artifacts](</business/plugins/product-design/>)[![](https://files.openai.com/content?id=file_00000000994081fd9df560367dfe54f4&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=8&sig=55e9028947fbc7ea3284b715ca95e34f797efbc5c4e0e47a9b2b0509d787308d&v=0)![](https://files.openai.com/content?id=file_00000000994081fd9df560367dfe54f4&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=8&sig=55e9028947fbc7ea3284b715ca95e34f797efbc5c4e0e47a9b2b0509d787308d&v=0)SlackLook up chats and messages](</business/plugins/slack/>)[![](https://files.openai.com/content?id=file_00000000dca471f5a61c7e4a3fab77a4&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=1&sig=63bacca4cbadf25340543a539567d26664d1f530be2b3f6119d3aaeb4edbed56&v=0)![](https://files.openai.com/content?id=file_00000000aaf8722f9e07cbdd00ea7ad8&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=1&sig=450cfa6b24e75515f4907572297126983f2d33e3f6f73cab443b4b5596a0deef&v=0)NotionSearch and reference your Notion pages](</business/plugins/notion/>)[![](https://files.openai.com/content?id=file_000000004a50722f96089a32eeed297c&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=1&sig=07807a7cbefb19d9cd968741565427527585e02f13335ddd46129d77e9dfe317&v=0)![](https://files.openai.com/content?id=file_0000000072dc81f69476895c0081c9c6&cdn=1&cp=pi&ma=31363200&ts=0&p=pi&cid=8&sig=ae98e7cc8005841970b2d7697ed1cfd38a1f393c65889c0de686c5db7b93da03&v=0)AsanaTurn Asana tasks into clear updates and plans](</business/plugins/asana/>)[![](https://files.openai.com/content?id=file_000000004f54720ca95439ac98f37bec&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=1&sig=e5d7098d5c3c07aa0e3d229476b0a0547fedb672feb751b0d0aa455dd84a6c33&v=0)![](https://files.openai.com/content?id=file_000000004f54720ca95439ac98f37bec&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=1&sig=e5d7098d5c3c07aa0e3d229476b0a0547fedb672feb751b0d0aa455dd84a6c33&v=0)Google CalendarLook up events and availability](</business/plugins/google-calendar/>)
 
 ## Get started with plugins
 
@@ -116,10 +116,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -138,7 +138,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -185,6 +186,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

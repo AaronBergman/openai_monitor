@@ -61,19 +61,19 @@ Describe what you want to make or change, and Adobe tools can help you turn idea
 
 ![](https://files.openai.com/content?id=file_000000008108722fa64c915ee284fa0e&cdn=1&cp=pi&ma=32140800&ts=0&p=pi&cid=1&sig=25a10da078b208cf17cb0b82990d661e47ff5e76f42ea343b344508ff725507e&v=0)Adobe Create a flyer for a local yoga studio using a template, customize the text and colors, and convert it into a polished PDF.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Adobe+Create+a+flyer+for+a+local+yoga+studio+using+a+template%2C+customize+the+text+and+colors%2C+and+convert+it+into+a+polished+PDF.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69312da8e4dc81919370cb86fd172b6c?install&prompt=Create%20a%20flyer%20for%20a%20local%20yoga%20studio%20using%20a%20template%2C%20customize%20the%20text%20and%20colors%2C%20and%20convert%20it%20into%20a%20polished%20PDF.&surface=work>)
 
   * ### Create polished content that matches your style
 
 ![](https://files.openai.com/content?id=file_000000008108722fa64c915ee284fa0e&cdn=1&cp=pi&ma=32140800&ts=0&p=pi&cid=1&sig=25a10da078b208cf17cb0b82990d661e47ff5e76f42ea343b344508ff725507e&v=0)Adobe Retouch this set of photos by balancing the lighting and color, removing the backgrounds, and cropping each one to a 1:1 format.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Adobe+Retouch+this+set+of+photos+by+balancing+the+lighting+and+color%2C+removing+the+backgrounds%2C+and+cropping+each+one+to+a+1%3A1+format.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69312da8e4dc81919370cb86fd172b6c?install&prompt=Retouch%20this%20set%20of%20photos%20by%20balancing%20the%20lighting%20and%20color%2C%20removing%20the%20backgrounds%2C%20and%20cropping%20each%20one%20to%20a%201%3A1%20format.&surface=work>)
 
   * ### Reduce creative bottlenecks
 
 ![](https://files.openai.com/content?id=file_000000008108722fa64c915ee284fa0e&cdn=1&cp=pi&ma=32140800&ts=0&p=pi&cid=1&sig=25a10da078b208cf17cb0b82990d661e47ff5e76f42ea343b344508ff725507e&v=0)Adobe Turn this video into a quick cut featuring the best moments, then resize it for YouTube Shorts and Instagram Reels.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Adobe+Turn+this+video+into+a+quick+cut+featuring+the+best+moments%2C+then+resize+it+for+YouTube+Shorts+and+Instagram+Reels.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69312da8e4dc81919370cb86fd172b6c?install&prompt=Turn%20this%20video%20into%20a%20quick%20cut%20featuring%20the%20best%20moments%2C%20then%20resize%20it%20for%20YouTube%20Shorts%20and%20Instagram%20Reels.&surface=work>)
 
 
 
@@ -92,18 +92,19 @@ Describe what you want to make or change, and Adobe tools can help you turn idea
   * ![](https://files.openai.com/content?id=file_00000000a44081f786aeec808717803f&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=24f578c958e352f27b0e251f87588013781e47897a17f7f0436a0642824755bf&v=0)Create mockups
   * ![](https://files.openai.com/content?id=file_00000000d56481f7b3547d52b30041f3&cdn=1&cp=pi&ma=30326400&ts=0&p=pi&cid=8&sig=fb8a6d51d1fbd1a9b4fc7c8cf3e6c44fbd4fbbb7724b9e178de8b1f9acc44e40&v=0)Create social variations
   * ![](https://files.openai.com/content?id=file_0000000089b481f7bbe2e5f5207ead10&cdn=1&cp=pi&ma=32659200&ts=0&p=pi&cid=8&sig=132483853274434b36e28caac5ac51cab84cbb193c947856c28c51593f46a63c&v=0)Design from template
-  * ![](https://files.openai.com/content?id=file_000000005b5c81f7b5fc2e21e3e8d5d6&cdn=1&cp=pi&ma=31536000&ts=0&p=pi&cid=8&sig=955387540bd75dbd86eb653ae8408bb77227017cd339ce4a3b58971a42eb695a&v=0)Edit quick cut
-  * ![](https://files.openai.com/content?id=file_0000000056a481f79548f07a3b8c13f7&cdn=1&cp=pi&ma=31190400&ts=0&p=pi&cid=8&sig=194b8b4305e7f20008f297ca7ae116bb49ddc38a5538f6bfba85c5667ffbf09f&v=0)Retouch portraits
+  * ![](https://files.openai.com/content?id=file_00000000880881f58f1c9beb8a5392df&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=8&sig=69292aac87cc8b95419e29bb61f132214bd679011a6283061283797820fdb1cb&v=0)Fonts
+  * ![](https://files.openai.com/content?id=file_00000000fedc81f58c2209c3dc214da0&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=dc36c8aebc9f114ea48f4fa96f0507c22985a686c11d30198e5eb74592834137&v=0)Retouch portraits
+  * ![](https://files.openai.com/content?id=file_000000003eb881f7b720cb3555d5411f&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=f2f25f92f7265d64bfad25a27cb659eb66e24900155098a27a9563a241dc4c4e&v=0)Edit quick cut
 
 
 
 ## Resources
 
-### [Help centerLearn more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
+### [Help centerLearn more(opens in a new window)](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
 
-### [Plugin supportLearn more](<https://helpx.adobe.com/in/support.html>)
+### [Plugin supportLearn more(opens in a new window)](<https://helpx.adobe.com/in/support.html>)
 
-### [Privacy policyLearn more](<https://www.adobe.com/privacy/policy.html>)
+### [Privacy policyLearn more(opens in a new window)](<https://www.adobe.com/privacy/policy.html>)
 
 ## Add the Adobe plugin in a few clicks
 
@@ -113,7 +114,7 @@ Availability depends on the plugin, your plan, and workspace settings. Some conn
 
 ## Explore related plugins
 
-[![](https://files.openai.com/content?id=file_00000000bdb4720caff269fd259bbdff&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=20268aaf4f0c92265b5b4945d13a456968c0e1a5013b3be043a94650a9b37e03&v=0)![](https://files.openai.com/content?id=file_00000000bdb4720caff269fd259bbdff&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=20268aaf4f0c92265b5b4945d13a456968c0e1a5013b3be043a94650a9b37e03&v=0)Creative ProductionUse the Creative Production plugin in ChatGPT to create, adapt, and review marketing assets, campaign concepts, ads, and launch creative.](</business/plugins/creative-production/>)[![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)Product DesignTurn product ideas into designs and research artifacts.](</business/plugins/product-design/>)[![](https://files.openai.com/content?id=file_00000000939071f7bfd24cf1e8d5f5fb&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=6ebfe2cc1f5b0b42e22ad009c72554b104befc2d3e0a54884a6fbfaea2420331&v=0)![](https://files.openai.com/content?id=file_00000000939071f7bfd24cf1e8d5f5fb&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=6ebfe2cc1f5b0b42e22ad009c72554b104befc2d3e0a54884a6fbfaea2420331&v=0)Adobe ExpressCreate flyers, posts, and graphics quickly.](</business/plugins/adobe-express/>)[![](https://files.openai.com/content?id=file_000000000ee871fd807d17a056d79aa7&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=1&sig=07ea3990463c5d5c58deba9d55d8dfa10178b2a1cabb20fb0fdcf93fc218472b&v=0)![](https://files.openai.com/content?id=file_000000000ee871fd807d17a056d79aa7&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=1&sig=07ea3990463c5d5c58deba9d55d8dfa10178b2a1cabb20fb0fdcf93fc218472b&v=0)CanvaSearch, create, and edit designs.](</business/plugins/canva/>)[![](https://files.openai.com/content?id=file_000000003d64820c9105c859db57fe4d&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=8&sig=bc9fd0fe7aa6a14439c3dae08ded4377aa99f2dd20e5b52ca3db8dd40fd5d2fc&v=0)![](https://files.openai.com/content?id=file_000000001f3c81fd88149faceddc19df&cdn=1&cp=pi&ma=32659200&ts=0&p=pi&cid=8&sig=f45f28e94aaa8443b2c849d11cfe2c843efe0d98efc51230e2ab72c39610b193&v=0)FigmaMake diagrams, slides, assets.](</business/plugins/figma/>)[![](https://files.openai.com/content?id=file_00000000ffac722f987914a6f7db710b&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=26b2c9500db3c7de3659e1e158826d1ced4806f01d50f831132375e3b497a249&v=0)![](https://files.openai.com/content?id=file_00000000aa0081f79505b7d543758347&cdn=1&cp=pi&ma=30499200&ts=0&p=pi&cid=8&sig=73f24d3e0b666fdb3c380b13bb034ddd67e0e42a39ef70031b8401cfe081741c&v=0)CloudinaryManage, modify, and host your images and videos.](</business/plugins/cloudinary/>)
+[![](https://files.openai.com/content?id=file_00000000bdb4720caff269fd259bbdff&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=20268aaf4f0c92265b5b4945d13a456968c0e1a5013b3be043a94650a9b37e03&v=0)![](https://files.openai.com/content?id=file_00000000bdb4720caff269fd259bbdff&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=20268aaf4f0c92265b5b4945d13a456968c0e1a5013b3be043a94650a9b37e03&v=0)Creative ProductionUse the Creative Production plugin in ChatGPT to create, adapt, and review marketing assets, campaign concepts, ads, and launch creative](</business/plugins/creative-production/>)[![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)Product DesignTurn product ideas into designs and research artifacts](</business/plugins/product-design/>)[![](https://files.openai.com/content?id=file_00000000939071f7bfd24cf1e8d5f5fb&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=6ebfe2cc1f5b0b42e22ad009c72554b104befc2d3e0a54884a6fbfaea2420331&v=0)![](https://files.openai.com/content?id=file_00000000939071f7bfd24cf1e8d5f5fb&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=6ebfe2cc1f5b0b42e22ad009c72554b104befc2d3e0a54884a6fbfaea2420331&v=0)Adobe ExpressCreate flyers, posts, and graphics quickly](</business/plugins/adobe-express/>)[![](https://files.openai.com/content?id=file_000000000ee871fd807d17a056d79aa7&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=1&sig=07ea3990463c5d5c58deba9d55d8dfa10178b2a1cabb20fb0fdcf93fc218472b&v=0)![](https://files.openai.com/content?id=file_000000000ee871fd807d17a056d79aa7&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=1&sig=07ea3990463c5d5c58deba9d55d8dfa10178b2a1cabb20fb0fdcf93fc218472b&v=0)CanvaSearch, create, and edit designs](</business/plugins/canva/>)[![](https://files.openai.com/content?id=file_000000003d64820c9105c859db57fe4d&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=8&sig=bc9fd0fe7aa6a14439c3dae08ded4377aa99f2dd20e5b52ca3db8dd40fd5d2fc&v=0)![](https://files.openai.com/content?id=file_000000001f3c81fd88149faceddc19df&cdn=1&cp=pi&ma=32659200&ts=0&p=pi&cid=8&sig=f45f28e94aaa8443b2c849d11cfe2c843efe0d98efc51230e2ab72c39610b193&v=0)FigmaMake diagrams, slides, assets](</business/plugins/figma/>)[![](https://files.openai.com/content?id=file_00000000ffac722f987914a6f7db710b&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=26b2c9500db3c7de3659e1e158826d1ced4806f01d50f831132375e3b497a249&v=0)![](https://files.openai.com/content?id=file_00000000aa0081f79505b7d543758347&cdn=1&cp=pi&ma=30499200&ts=0&p=pi&cid=8&sig=73f24d3e0b666fdb3c380b13bb034ddd67e0e42a39ef70031b8401cfe081741c&v=0)CloudinaryManage, modify, and host your images and videos](</business/plugins/cloudinary/>)
 
 ## Get started with plugins
 
@@ -131,10 +132,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -153,7 +154,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -200,6 +202,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

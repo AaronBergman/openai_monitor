@@ -32,7 +32,7 @@ OpenAI
 
 # Asana
 
-Turn Asana tasks into clear updates and plans.
+Turn Asana tasks into clear updates and plans
 
 [Install plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69616780bd208191b4fb44ba44f72b61>)[Contact sales](</contact-sales/>)
 
@@ -48,7 +48,7 @@ Developer
 Website
     [(opens in a new window)](<https://asana.com>)
 
-[![](https://files.openai.com/content?id=file_0000000017e0722f80510fbdbf0832a1&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=1&sig=20dd59f030cc7c32ba143c3ce12a6cdc0fb2f6d699f2b82a528d8408b854be7b&v=0)Asana Create a project to track creative requests(opens in a new window)](<https://chatgpt.com/?prompt=%40Asana+Create+a+project+to+track+creative+requests>)
+[![](https://files.openai.com/content?id=file_0000000017e0722f80510fbdbf0832a1&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=1&sig=20dd59f030cc7c32ba143c3ce12a6cdc0fb2f6d699f2b82a528d8408b854be7b&v=0)Asana Create a project to track creative requests(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69616780bd208191b4fb44ba44f72b61?install&prompt=Create%20a%20project%20to%20track%20creative%20requests>)
 
 ## How it works
 
@@ -60,19 +60,19 @@ Work with your Asana tasks, subtasks, comments, due dates, and project details t
 
 ![](https://files.openai.com/content?id=file_0000000017e0722f80510fbdbf0832a1&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=1&sig=20dd59f030cc7c32ba143c3ce12a6cdc0fb2f6d699f2b82a528d8408b854be7b&v=0)Asana Identify overdue tasks and blocked work across [project] and propose a recovery plan.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Asana+Identify+overdue+tasks+and+blocked+work+across+%5Bproject%5D+and+propose+a+recovery+plan.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69616780bd208191b4fb44ba44f72b61?install&prompt=Identify%20overdue%20tasks%20and%20blocked%20work%20across%20%5Bproject%5D%20and%20propose%20a%20recovery%20plan.&surface=work>)
 
   * ### Identify personal priorities
 
 ![](https://files.openai.com/content?id=file_0000000017e0722f80510fbdbf0832a1&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=1&sig=20dd59f030cc7c32ba143c3ce12a6cdc0fb2f6d699f2b82a528d8408b854be7b&v=0)Asana What should I work on today? Pull my highest priority tasks due soon and suggest an order based on dependencies.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Asana+What+should+I+work+on+today%3F+Pull+my+highest+priority+tasks+due+soon+and+suggest+an+order+based+on+dependencies.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69616780bd208191b4fb44ba44f72b61?install&prompt=What%20should%20I%20work%20on%20today%3F%20Pull%20my%20highest%20priority%20tasks%20due%20soon%20and%20suggest%20an%20order%20based%20on%20dependencies.&surface=work>)
 
   * ### Generate SOPs from historical work
 
 ![](https://files.openai.com/content?id=file_0000000017e0722f80510fbdbf0832a1&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=1&sig=20dd59f030cc7c32ba143c3ce12a6cdc0fb2f6d699f2b82a528d8408b854be7b&v=0)Asana Use completed tasks and comments from [project] to draft an SOP with the steps, people to involve, and links to supporting work.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Asana+Use+completed+tasks+and+comments+from+%5Bproject%5D+to+draft+an+SOP+with+the+steps%2C+people+to+involve%2C+and+links+to+supporting+work.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69616780bd208191b4fb44ba44f72b61?install&prompt=Use%20completed%20tasks%20and%20comments%20from%20%5Bproject%5D%20to%20draft%20an%20SOP%20with%20the%20steps%2C%20people%20to%20involve%2C%20and%20links%20to%20supporting%20work.&surface=work>)
 
 
 
@@ -87,11 +87,11 @@ Work with your Asana tasks, subtasks, comments, due dates, and project details t
 
 ## Resources
 
-### [Help centerLearn more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
+### [Help centerLearn more(opens in a new window)](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
 
-### [Plugin supportLearn more](<https://asana.com/support>)
+### [Plugin supportLearn more(opens in a new window)](<https://asana.com/support>)
 
-### [Privacy policyLearn more](<https://asana.com/privacy>)
+### [Privacy policyLearn more(opens in a new window)](<https://asana.com/privacy>)
 
 ## Add the Asana plugin in a few clicks
 
@@ -101,7 +101,7 @@ Availability depends on the plugin, your plan, and workspace settings. Some conn
 
 ## Explore related plugins
 
-[![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)Product DesignTurn product ideas into designs and research artifacts.](</business/plugins/product-design/>)[![](https://files.openai.com/content?id=file_00000000191081f79dfeddb7b502b1bf&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=3e3f6f7a793416cd9a93e61c94c2bd4631dd37631f592d4e774aa254e2b1c9b7&v=0)![](https://files.openai.com/content?id=file_00000000191081f79dfeddb7b502b1bf&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=3e3f6f7a793416cd9a93e61c94c2bd4631dd37631f592d4e774aa254e2b1c9b7&v=0)SalesPrepare account work and customer follow-up.](</business/plugins/sales/>)[![](https://files.openai.com/content?id=file_00000000994081fd9df560367dfe54f4&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=8&sig=55e9028947fbc7ea3284b715ca95e34f797efbc5c4e0e47a9b2b0509d787308d&v=0)![](https://files.openai.com/content?id=file_00000000994081fd9df560367dfe54f4&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=8&sig=55e9028947fbc7ea3284b715ca95e34f797efbc5c4e0e47a9b2b0509d787308d&v=0)SlackLook up chats and messages.](</business/plugins/slack/>)[![](https://files.openai.com/content?id=file_000000004f54720ca95439ac98f37bec&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=1&sig=e5d7098d5c3c07aa0e3d229476b0a0547fedb672feb751b0d0aa455dd84a6c33&v=0)![](https://files.openai.com/content?id=file_000000004f54720ca95439ac98f37bec&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=1&sig=e5d7098d5c3c07aa0e3d229476b0a0547fedb672feb751b0d0aa455dd84a6c33&v=0)Google CalendarLook up events and availability.](</business/plugins/google-calendar/>)[![](https://files.openai.com/content?id=file_00000000a9a081f78752dfef864b2597&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=18fa18d4c839a23ca63639259d332c2f50d433faa731d9b7755f08c333b78e47&v=0)![](https://files.openai.com/content?id=file_00000000a9a081f78752dfef864b2597&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=18fa18d4c839a23ca63639259d332c2f50d433faa731d9b7755f08c333b78e47&v=0)Google DriveSearch and reference files from your Drive.](</business/plugins/google-drive/>)[![](https://files.openai.com/content?id=file_000000003d64820c9105c859db57fe4d&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=8&sig=bc9fd0fe7aa6a14439c3dae08ded4377aa99f2dd20e5b52ca3db8dd40fd5d2fc&v=0)![](https://files.openai.com/content?id=file_000000001f3c81fd88149faceddc19df&cdn=1&cp=pi&ma=32659200&ts=0&p=pi&cid=8&sig=f45f28e94aaa8443b2c849d11cfe2c843efe0d98efc51230e2ab72c39610b193&v=0)FigmaMake diagrams, slides, assets.](</business/plugins/figma/>)
+[![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)Product DesignTurn product ideas into designs and research artifacts](</business/plugins/product-design/>)[![](https://files.openai.com/content?id=file_00000000191081f79dfeddb7b502b1bf&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=3e3f6f7a793416cd9a93e61c94c2bd4631dd37631f592d4e774aa254e2b1c9b7&v=0)![](https://files.openai.com/content?id=file_00000000191081f79dfeddb7b502b1bf&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=3e3f6f7a793416cd9a93e61c94c2bd4631dd37631f592d4e774aa254e2b1c9b7&v=0)SalesPrepare account work and customer follow-up](</business/plugins/sales/>)[![](https://files.openai.com/content?id=file_00000000994081fd9df560367dfe54f4&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=8&sig=55e9028947fbc7ea3284b715ca95e34f797efbc5c4e0e47a9b2b0509d787308d&v=0)![](https://files.openai.com/content?id=file_00000000994081fd9df560367dfe54f4&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=8&sig=55e9028947fbc7ea3284b715ca95e34f797efbc5c4e0e47a9b2b0509d787308d&v=0)SlackLook up chats and messages](</business/plugins/slack/>)[![](https://files.openai.com/content?id=file_000000004f54720ca95439ac98f37bec&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=1&sig=e5d7098d5c3c07aa0e3d229476b0a0547fedb672feb751b0d0aa455dd84a6c33&v=0)![](https://files.openai.com/content?id=file_000000004f54720ca95439ac98f37bec&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=1&sig=e5d7098d5c3c07aa0e3d229476b0a0547fedb672feb751b0d0aa455dd84a6c33&v=0)Google CalendarLook up events and availability](</business/plugins/google-calendar/>)[![](https://files.openai.com/content?id=file_00000000a9a081f78752dfef864b2597&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=18fa18d4c839a23ca63639259d332c2f50d433faa731d9b7755f08c333b78e47&v=0)![](https://files.openai.com/content?id=file_00000000a9a081f78752dfef864b2597&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=18fa18d4c839a23ca63639259d332c2f50d433faa731d9b7755f08c333b78e47&v=0)Google DriveSearch and reference files from your Drive](</business/plugins/google-drive/>)[![](https://files.openai.com/content?id=file_000000003d64820c9105c859db57fe4d&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=8&sig=bc9fd0fe7aa6a14439c3dae08ded4377aa99f2dd20e5b52ca3db8dd40fd5d2fc&v=0)![](https://files.openai.com/content?id=file_000000001f3c81fd88149faceddc19df&cdn=1&cp=pi&ma=32659200&ts=0&p=pi&cid=8&sig=f45f28e94aaa8443b2c849d11cfe2c843efe0d98efc51230e2ab72c39610b193&v=0)FigmaMake diagrams, slides, assets](</business/plugins/figma/>)
 
 ## Get started with plugins
 
@@ -119,10 +119,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -141,7 +141,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -188,6 +189,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 
