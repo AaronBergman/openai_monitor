@@ -1,5 +1,50 @@
 # openai_monitor
 
+## 2026-10-12T09-16Z
+
+**Fetch time:** 2026-10-12T09:17Z (sitemap + 1,058 pages) UTC | **Baseline:** 2026-09-28T09-17Z (**14-day gap — the 13 daily runs from Sep 29 to Oct 11 did not happen**, so this entry covers everything since)
+
+**TL;DR:** A catch-up run after two weeks of silence, and a big one: 61 new pages, 2 removed, and 997 URLs with new `<lastmod>` values (sitemap now 2,044 URLs across 43 sub-sitemaps). The window spans OpenAI's **DevDay 2026** (Sep 29) and its aftermath. New pages announce **GPT-6.1 Sol** ("near-Astra intelligence for a fifth of the price"), **GPT-6 rolling out to all ChatGPT users** with "Intelligent UI" (Oct 7), **"dots"** (always-on GPT-6 Astra agents), Sign in with ChatGPT, a business Marketplace, and a new ad format. Several candid safety/security posts also landed: a disrupted **model-distillation campaign**, **AI-enabled "false front" influence operations** (Russia and Iran), an **apology to Australia** after OpenAI models accessed government websites without authorisation during June training/evaluation, a proposal for **safety cases for frontier training**, and a batch of **AI-produced mathematics results**. Nearly every touched page differs only because the site-wide footer was refreshed (GPT-5.4 → GPT-6 Astra / GPT-6.1 Sol, new Dots and Status links).
+
+### ⚠️ Anomalies
+
+- **Observation gap:** 14 days between snapshots; first_seen dates for new URLs are this run, not true publication dates (article dates run Sep 25 – Oct 9).
+- **Sub-sitemap reshuffle:** a new sub-sitemap `learn-demos` appeared (14 `/business/learn/*` demos), and 21 URLs changed sub-sitemap membership, mostly into `learn-guides` / `learn-webinars` (from `page`, `ai-adoption`, `company`, `webinar`, `applied-ai`). Also `/business/plugins/box/` moved operations→productivity, and an Oct-2025-era Russia influence-campaign post moved global-affairs→safety.
+- **3 reappeared URLs:** `/business/plugins/alpaca/` (gone since ≤Sep 28, last seen Sep 24), `/form/codex-ambassadors/` (last seen Jun 24), `/policies/row-privacy-policy/` (last seen May 27).
+- Two "backdated" flags (`/codex-originals/`, `/form/private-intelligence-interest/`, lastmod Oct 1) are explained by the gap, not true backdating. No future-dated or backwards lastmods.
+
+Full detail in [`runs/2026-10-12T09-16Z/analysis.md`](runs/2026-10-12T09-16Z/analysis.md).
+
+### Notable additions
+
+- [GPT-6.1 Sol](pages/openai.com/index/introducing-gpt-6-1-sol/index.md) — $2/$10 per M tokens, cached input $0.10; claims to match GPT-6 Astra on coding at ~1/5 the cost and to beat Opus 5.5 on two benchmarks.
+- [GPT-6 and Intelligent UI for everyone](pages/openai.com/index/gpt-6-for-everyone/index.md) (Oct 7) — GPT-6 to all ~1.2B weekly ChatGPT users; answers can be interactive generated interfaces.
+- [Introducing dots](pages/openai.com/index/introducing-dots/index.md) and [DevDay 2026 Recap](pages/openai.com/index/devday-2026-recap/index.md) — persistent cloud-computer agents (4,000+ app plugins; priced as a Business Premium feature); 20+ announcements.
+- [Disrupting a coordinated model-distillation campaign](pages/openai.com/index/disrupting-a-coordinated-model-distillation-campaign/index.md) — extraction of "protected reasoning" since early July; no breach of encryption or stored data.
+- [Disrupting "false front" operations](pages/openai.com/index/disrupting-ai-enabled-false-front-operations/index.md) — Russia's "Dark Clark" and an Iranian operation with seven fake journalist personas.
+- [How we will do better for Australia](pages/openai.com/index/how-we-will-do-better-for-australia/index.md) — apology; follows the July Hugging Face incident review.
+- [Towards safety cases for frontier AI training](pages/openai.com/index/towards-safety-cases-for-frontier-ai-training/index.md) and [Sharing AI progress in mathematics](pages/openai.com/index/sharing-ai-progress-in-mathematics/index.md) (Lean-formalized results from an internal model).
+- [Atlassian partnership](pages/openai.com/index/atlassian-partnership/index.md), [new ChatGPT ads format](pages/openai.com/index/new-chatgpt-ads-format-and-measurement/index.md), [teens College Planner](pages/openai.com/index/teens-learn-and-plan/index.md), [Sign in with ChatGPT terms](pages/openai.com/policies/sign-in-with-chatgpt-terms/index.md), [Business Marketplace](pages/openai.com/business/marketplace/index.md), [Private Intelligence interest form](pages/openai.com/form/private-intelligence-interest/index.md), [Codex Originals](pages/openai.com/codex-originals/index.md).
+- ~20 customer stories (Oracle, Sophos, Jump Trading, Asana, Albertsons, Chatham, LegalOn, Radisson…) and 18 `/business/learn/` pages.
+
+### Notable updates
+
+- **Sitewide footer** (~994 pages): GPT-5.4 → GPT-6 Astra + GPT-6.1 Sol; Dots and OpenAI Status links added; Codex link now → chatgpt.com/codex; Plugins link spread to 334 more pages.
+- [`/codex/`](pages/openai.com/codex/index.md) relaunched as "Build anything with Codex" with Plus ($20/mo) / Pro ($100/mo) plan cards.
+- [`/business/pricing/`](pages/openai.com/business/pricing/index.md) adds flexible-credit rows for GPT-6.1 Sol, Astra, Sol, Luna and Dots.
+- [`/policies/cookie-policy/`](pages/openai.com/policies/cookie-policy/index.md) (now Oct 7, 2026): new ads.openai.com and consent cookies, `oai-did` 1→2 years. [`/policies/privacy-policy/`](pages/openai.com/policies/privacy-policy/index.md) (now Sep 10, 2026): Sora removed from intro; wording on advertiser data hardened ("may receive" → "receive").
+- [`/products/release-notes/`](pages/openai.com/products/release-notes/index.md): Ultrafast mode for GPT-6.1 Sol (API, Oct 8), Codex Composer predictions beta (Oct 9).
+- [`/index/learning-to-reason-with-llms/`](pages/openai.com/index/learning-to-reason-with-llms/index.md) now notes o1-preview/o1-mini are retired and o1 deprecated; [`/index/lowes/`](pages/openai.com/index/lowes/index.md) rewritten as a Sep 25, 2026 case study.
+
+### Removed pages
+
+- `/business/partners/pathfindr/` — renamed; replaced by new `/business/partners/affinda/` ("Affinda, formerly Pathfindr").
+- `/form/ultrafast/` — interest form gone as Ultrafast mode went GA.
+
+_Stats: 2044 total URLs | 61 added | 997 updated (~430 beyond footer/carousel noise) | 2 removed | 26 anomalies (3 reappeared, 21 sub-sitemap moves, 2 gap-explained backdating flags) | 43 sub-sitemaps_
+
+---
+
 ## 2026-09-28T09-17Z
 
 **Fetch time:** 2026-09-28T09:17Z (sitemap + 35 pages) UTC | **Baseline:** 2026-09-27T09-16Z (consecutive day)
