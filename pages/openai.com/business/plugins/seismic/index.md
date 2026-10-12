@@ -45,7 +45,7 @@ Developer
 Website
     [(opens in a new window)](<https://seismic.com>)
 
-[![](https://files.openai.com/content?id=file_00000000b92071f7981daf071f865701&cdn=1&cp=pi&ma=32227200&ts=0&p=pi&cid=8&sig=a541832235ea4a02b510ba367dec923a753bffd284dbfbac77eba6e4f9296126&v=0)![](https://files.openai.com/content?id=file_00000000b92071f7981daf071f865701&cdn=1&cp=pi&ma=32227200&ts=0&p=pi&cid=8&sig=a541832235ea4a02b510ba367dec923a753bffd284dbfbac77eba6e4f9296126&v=0)Seismic What are the best practices for sellers?(opens in a new window)](<https://chatgpt.com/?prompt=%40Seismic+What+are+the+best+practices+for+sellers%3F>)
+[![](https://files.openai.com/content?id=file_00000000b92071f7981daf071f865701&cdn=1&cp=pi&ma=32227200&ts=0&p=pi&cid=8&sig=a541832235ea4a02b510ba367dec923a753bffd284dbfbac77eba6e4f9296126&v=0)![](https://files.openai.com/content?id=file_00000000b92071f7981daf071f865701&cdn=1&cp=pi&ma=32227200&ts=0&p=pi&cid=8&sig=a541832235ea4a02b510ba367dec923a753bffd284dbfbac77eba6e4f9296126&v=0)Seismic What are the best practices for sellers?(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69dd1d0f73b48191ac4fadf206ad9aed?install&prompt=What%20are%20the%20best%20practices%20for%20sellers%3F>)
 
 ## How it works
 
@@ -57,19 +57,19 @@ The Seismic MCP Connector for ChatGPT enables secure integration between ChatGPT
 
 ![](https://files.openai.com/content?id=file_00000000b92071f7981daf071f865701&cdn=1&cp=pi&ma=32227200&ts=0&p=pi&cid=8&sig=a541832235ea4a02b510ba367dec923a753bffd284dbfbac77eba6e4f9296126&v=0)![](https://files.openai.com/content?id=file_00000000b92071f7981daf071f865701&cdn=1&cp=pi&ma=32227200&ts=0&p=pi&cid=8&sig=a541832235ea4a02b510ba367dec923a753bffd284dbfbac77eba6e4f9296126&v=0)Seismic Find sales content relevant to this buyer's goals and industry. Rank the most useful materials and explain how each supports the next conversation.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Seismic+Find+sales+content+relevant+to+this+buyer%27s+goals+and+industry.+Rank+the+most+useful+materials+and+explain+how+each+supports+the+next+conversation.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69dd1d0f73b48191ac4fadf206ad9aed?install&prompt=Find%20sales%20content%20relevant%20to%20this%20buyer's%20goals%20and%20industry.%20Rank%20the%20most%20useful%20materials%20and%20explain%20how%20each%20supports%20the%20next%20conversation.&surface=work>)
 
   * ### Prepare an objection response
 
 ![](https://files.openai.com/content?id=file_00000000b92071f7981daf071f865701&cdn=1&cp=pi&ma=32227200&ts=0&p=pi&cid=8&sig=a541832235ea4a02b510ba367dec923a753bffd284dbfbac77eba6e4f9296126&v=0)![](https://files.openai.com/content?id=file_00000000b92071f7981daf071f865701&cdn=1&cp=pi&ma=32227200&ts=0&p=pi&cid=8&sig=a541832235ea4a02b510ba367dec923a753bffd284dbfbac77eba6e4f9296126&v=0)Seismic Find approved content addressing this buyer objection. Draft a concise response with references and flag claims the available materials do not support.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Seismic+Find+approved+content+addressing+this+buyer+objection.+Draft+a+concise+response+with+references+and+flag+claims+the+available+materials+do+not+support.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69dd1d0f73b48191ac4fadf206ad9aed?install&prompt=Find%20approved%20content%20addressing%20this%20buyer%20objection.%20Draft%20a%20concise%20response%20with%20references%20and%20flag%20claims%20the%20available%20materials%20do%20not%20support.&surface=work>)
 
   * ### Build a meeting content brief
 
 ![](https://files.openai.com/content?id=file_00000000b92071f7981daf071f865701&cdn=1&cp=pi&ma=32227200&ts=0&p=pi&cid=8&sig=a541832235ea4a02b510ba367dec923a753bffd284dbfbac77eba6e4f9296126&v=0)![](https://files.openai.com/content?id=file_00000000b92071f7981daf071f865701&cdn=1&cp=pi&ma=32227200&ts=0&p=pi&cid=8&sig=a541832235ea4a02b510ba367dec923a753bffd284dbfbac77eba6e4f9296126&v=0)Seismic Prepare a content brief for this customer meeting. Choose the most relevant assets, summarize their key messages, and explain when to use each one.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Seismic+Prepare+a+content+brief+for+this+customer+meeting.+Choose+the+most+relevant+assets%2C+summarize+their+key+messages%2C+and+explain+when+to+use+each+one.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69dd1d0f73b48191ac4fadf206ad9aed?install&prompt=Prepare%20a%20content%20brief%20for%20this%20customer%20meeting.%20Choose%20the%20most%20relevant%20assets%2C%20summarize%20their%20key%20messages%2C%20and%20explain%20when%20to%20use%20each%20one.&surface=work>)
 
 
 
@@ -84,11 +84,11 @@ The Seismic MCP Connector for ChatGPT enables secure integration between ChatGPT
 
 ## Resources
 
-### [Help centerLearn more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
+### [Help centerLearn more(opens in a new window)](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
 
-### [Plugin supportLearn more](<https://support.seismic.com/>)
+### [Plugin supportLearn more(opens in a new window)](<https://support.seismic.com/>)
 
-### [Privacy policyLearn more](<https://www.seismic.com/legal/policies/privacy-policy/>)
+### [Privacy policyLearn more(opens in a new window)](<https://www.seismic.com/legal/policies/privacy-policy/>)
 
 ## Add the Seismic plugin in a few clicks
 
@@ -98,7 +98,7 @@ Availability depends on the plugin, your plan, and workspace settings. Some conn
 
 ## Explore related plugins
 
-[![](https://files.openai.com/content?id=file_00000000191081f79dfeddb7b502b1bf&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=3e3f6f7a793416cd9a93e61c94c2bd4631dd37631f592d4e774aa254e2b1c9b7&v=0)![](https://files.openai.com/content?id=file_00000000191081f79dfeddb7b502b1bf&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=3e3f6f7a793416cd9a93e61c94c2bd4631dd37631f592d4e774aa254e2b1c9b7&v=0)SalesPrepare account work and customer follow-up.](</business/plugins/sales/>)[![](https://files.openai.com/content?id=file_00000000bdb4720caff269fd259bbdff&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=20268aaf4f0c92265b5b4945d13a456968c0e1a5013b3be043a94650a9b37e03&v=0)![](https://files.openai.com/content?id=file_00000000bdb4720caff269fd259bbdff&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=20268aaf4f0c92265b5b4945d13a456968c0e1a5013b3be043a94650a9b37e03&v=0)Creative ProductionUse the Creative Production plugin in ChatGPT to create, adapt, and review marketing assets, campaign concepts, ads, and launch creative.](</business/plugins/creative-production/>)[![](https://files.openai.com/content?id=file_0000000005fc722f88207b67c3fbe10a&cdn=1&cp=pi&ma=31190400&ts=0&p=pi&cid=1&sig=4fccf640c85543b3c2aa0a0de6592ed9e1d71bbeb3169bb63bf4217a6809857f&v=0)![](https://files.openai.com/content?id=file_0000000005fc722f88207b67c3fbe10a&cdn=1&cp=pi&ma=31190400&ts=0&p=pi&cid=1&sig=4fccf640c85543b3c2aa0a0de6592ed9e1d71bbeb3169bb63bf4217a6809857f&v=0)SalesforceUse the Salesforce plugin to review permitted CRM records, understand accounts and deals, summarize pipeline risk, and prepare follow-up.](</business/plugins/salesforce/>)[![](https://files.openai.com/content?id=file_00000000d6d871f6af516dd237732886&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=8&sig=57605450edcdfd982a04b1b6acfaaefae75de19e6e4de54c96f260b5442b30a9&v=0)![](https://files.openai.com/content?id=file_00000000d6d871f6af516dd237732886&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=8&sig=57605450edcdfd982a04b1b6acfaaefae75de19e6e4de54c96f260b5442b30a9&v=0)HubSpotAnalyze CRM data and surface insights.](</business/plugins/hubspot/>)[![](https://files.openai.com/content?id=file_00000000462881f79a84c9a7f9f84b3f&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=8&sig=6562b499dd0ee2e1e71439b63acc199cf54a161c8e6aea5805aa791485d1c10c&v=0)![](https://files.openai.com/content?id=file_00000000462881f79a84c9a7f9f84b3f&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=8&sig=6562b499dd0ee2e1e71439b63acc199cf54a161c8e6aea5805aa791485d1c10c&v=0)PresentationsCreate and edit presentations](</business/plugins/presentations/>)[![](https://files.openai.com/content?id=file_000000004c0c81f78746051c8894e9f0&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=94634a13f89821846ddbbbaa5e99aadc55c2198ec4b4dbd453217f71362d0950&v=0)![](https://files.openai.com/content?id=file_000000004c0c81f78746051c8894e9f0&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=94634a13f89821846ddbbbaa5e99aadc55c2198ec4b4dbd453217f71362d0950&v=0)DocumentsCreate and edit documents](</business/plugins/documents/>)
+[![](https://files.openai.com/content?id=file_00000000191081f79dfeddb7b502b1bf&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=3e3f6f7a793416cd9a93e61c94c2bd4631dd37631f592d4e774aa254e2b1c9b7&v=0)![](https://files.openai.com/content?id=file_00000000191081f79dfeddb7b502b1bf&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=3e3f6f7a793416cd9a93e61c94c2bd4631dd37631f592d4e774aa254e2b1c9b7&v=0)SalesPrepare account work and customer follow-up](</business/plugins/sales/>)[![](https://files.openai.com/content?id=file_00000000bdb4720caff269fd259bbdff&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=20268aaf4f0c92265b5b4945d13a456968c0e1a5013b3be043a94650a9b37e03&v=0)![](https://files.openai.com/content?id=file_00000000bdb4720caff269fd259bbdff&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=20268aaf4f0c92265b5b4945d13a456968c0e1a5013b3be043a94650a9b37e03&v=0)Creative ProductionUse the Creative Production plugin in ChatGPT to create, adapt, and review marketing assets, campaign concepts, ads, and launch creative](</business/plugins/creative-production/>)[![](https://files.openai.com/content?id=file_0000000005fc722f88207b67c3fbe10a&cdn=1&cp=pi&ma=31190400&ts=0&p=pi&cid=1&sig=4fccf640c85543b3c2aa0a0de6592ed9e1d71bbeb3169bb63bf4217a6809857f&v=0)![](https://files.openai.com/content?id=file_0000000005fc722f88207b67c3fbe10a&cdn=1&cp=pi&ma=31190400&ts=0&p=pi&cid=1&sig=4fccf640c85543b3c2aa0a0de6592ed9e1d71bbeb3169bb63bf4217a6809857f&v=0)SalesforceUse the Salesforce plugin to review permitted CRM records, understand accounts and deals, summarize pipeline risk, and prepare follow-up](</business/plugins/salesforce/>)[![](https://files.openai.com/content?id=file_00000000d6d871f6af516dd237732886&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=8&sig=57605450edcdfd982a04b1b6acfaaefae75de19e6e4de54c96f260b5442b30a9&v=0)![](https://files.openai.com/content?id=file_00000000d6d871f6af516dd237732886&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=8&sig=57605450edcdfd982a04b1b6acfaaefae75de19e6e4de54c96f260b5442b30a9&v=0)HubSpotAnalyze CRM data and surface insights](</business/plugins/hubspot/>)[![](https://files.openai.com/content?id=file_00000000462881f79a84c9a7f9f84b3f&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=8&sig=6562b499dd0ee2e1e71439b63acc199cf54a161c8e6aea5805aa791485d1c10c&v=0)![](https://files.openai.com/content?id=file_00000000462881f79a84c9a7f9f84b3f&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=8&sig=6562b499dd0ee2e1e71439b63acc199cf54a161c8e6aea5805aa791485d1c10c&v=0)PresentationsCreate and edit presentations](</business/plugins/presentations/>)[![](https://files.openai.com/content?id=file_000000004c0c81f78746051c8894e9f0&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=94634a13f89821846ddbbbaa5e99aadc55c2198ec4b4dbd453217f71362d0950&v=0)![](https://files.openai.com/content?id=file_000000004c0c81f78746051c8894e9f0&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=94634a13f89821846ddbbbaa5e99aadc55c2198ec4b4dbd453217f71362d0950&v=0)DocumentsCreate and edit documents](</business/plugins/documents/>)
 
 ## Get started with plugins
 
@@ -116,10 +116,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -138,7 +138,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -185,6 +186,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

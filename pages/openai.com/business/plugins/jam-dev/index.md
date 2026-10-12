@@ -32,7 +32,7 @@ OpenAI
 
 # Jam
 
-Screen record with context.
+Investigate bug reports
 
 [Install plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_6923e677f37c8191845e4e0b658dd718>)[Contact sales](</contact-sales/>)
 
@@ -45,11 +45,11 @@ Developer
 Website
     [(opens in a new window)](<https://jam.dev>)
 
-[![](https://files.openai.com/content?id=file_00000000b9a881f4b4467ce174b2723c&cdn=1&cp=pi&ma=30412800&ts=0&p=pi&cid=8&sig=85b08c317aead6be7b031d65ca7f74c2a349d9aad09386ccd7792225ced01e67&v=0)Jam what does this bug report show?(opens in a new window)](<https://chatgpt.com/?prompt=%40Jam+what+does+this+bug+report+show%3F>)
+[![](https://files.openai.com/content?id=file_00000000b9a881f4b4467ce174b2723c&cdn=1&cp=pi&ma=30412800&ts=0&p=pi&cid=8&sig=85b08c317aead6be7b031d65ca7f74c2a349d9aad09386ccd7792225ced01e67&v=0)Jam what does this bug report show?(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_6923e677f37c8191845e4e0b658dd718?install&prompt=what%20does%20this%20bug%20report%20show%3F>)
 
 ## How it works
 
-Connect Jam screen recordings to ChatGPT to pull structured debugging context—including video, user events, logs, errors, and network requests—for understanding and organizing product issues.
+Jam's MCP is the fast lane between Jam recordings and your dev tools. Drop a Jam link into ChatGPT and the whole recording – video, console, network, logs – arrives pre-packaged. No hand-typing repro steps, no copy-paste stack traces, no screen-share drama. Your tools get instant context, you stay in flow.
 
 ## What else can you do?
 
@@ -57,19 +57,19 @@ Connect Jam screen recordings to ChatGPT to pull structured debugging context—
 
 ![](https://files.openai.com/content?id=file_00000000b9a881f4b4467ce174b2723c&cdn=1&cp=pi&ma=30412800&ts=0&p=pi&cid=8&sig=85b08c317aead6be7b031d65ca7f74c2a349d9aad09386ccd7792225ced01e67&v=0)Jam Open this Jam recording: [link]. Summarize what happened using the video, user events, console logs, errors, and network requests.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Jam+Open+this+Jam+recording%3A+%5Blink%5D.+Summarize+what+happened+using+the+video%2C+user+events%2C+console+logs%2C+errors%2C+and+network+requests.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_6923e677f37c8191845e4e0b658dd718?install&prompt=Open%20this%20Jam%20recording%3A%20%5Blink%5D.%20Summarize%20what%20happened%20using%20the%20video%2C%20user%20events%2C%20console%20logs%2C%20errors%2C%20and%20network%20requests.&surface=work>)
 
   * ### Explain issues and reproduction steps
 
 ![](https://files.openai.com/content?id=file_00000000b9a881f4b4467ce174b2723c&cdn=1&cp=pi&ma=30412800&ts=0&p=pi&cid=8&sig=85b08c317aead6be7b031d65ca7f74c2a349d9aad09386ccd7792225ced01e67&v=0)Jam Based on this Jam recording, write precise reproduction steps using the exact user actions and environment details shown in the trace.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Jam+Based+on+this+Jam+recording%2C+write+precise+reproduction+steps+using+the+exact+user+actions+and+environment+details+shown+in+the+trace.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_6923e677f37c8191845e4e0b658dd718?install&prompt=Based%20on%20this%20Jam%20recording%2C%20write%20precise%20reproduction%20steps%20using%20the%20exact%20user%20actions%20and%20environment%20details%20shown%20in%20the%20trace.&surface=work>)
 
   * ### Create engineering-ready artifacts
 
 ![](https://files.openai.com/content?id=file_00000000b9a881f4b4467ce174b2723c&cdn=1&cp=pi&ma=30412800&ts=0&p=pi&cid=8&sig=85b08c317aead6be7b031d65ca7f74c2a349d9aad09386ccd7792225ced01e67&v=0)Jam Turn this Jam recording into a bug ticket. Include title, impact, environment, repro steps, expected vs. actual, suspected area (based on logs/network), and attach the key error snippets.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Jam+Turn+this+Jam+recording+into+a+bug+ticket.+Include+title%2C+impact%2C+environment%2C+repro+steps%2C+expected+vs.+actual%2C+suspected+area+%28based+on+logs%2Fnetwork%29%2C+and+attach+the+key+error+snippets.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_6923e677f37c8191845e4e0b658dd718?install&prompt=Turn%20this%20Jam%20recording%20into%20a%20bug%20ticket.%20Include%20title%2C%20impact%2C%20environment%2C%20repro%20steps%2C%20expected%20vs.%20actual%2C%20suspected%20area%20\(based%20on%20logs%2Fnetwork\)%2C%20and%20attach%20the%20key%20error%20snippets.&surface=work>)
 
 
 
@@ -84,11 +84,11 @@ Connect Jam screen recordings to ChatGPT to pull structured debugging context—
 
 ## Resources
 
-### [Help centerLearn more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
+### [Help centerLearn more(opens in a new window)](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
 
-### [Plugin supportLearn more](<https://jam.dev/docs>)
+### [Plugin supportLearn more(opens in a new window)](<https://jam.dev/docs>)
 
-### [Privacy policyLearn more](<https://jam.dev/privacy>)
+### [Privacy policyLearn more(opens in a new window)](<https://jam.dev/privacy>)
 
 ## Add the Jam plugin in a few clicks
 
@@ -98,7 +98,7 @@ Availability depends on the plugin, your plan, and workspace settings. Some conn
 
 ## Explore related plugins
 
-[![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)Product DesignTurn product ideas into designs and research artifacts.](</business/plugins/product-design/>)[![](https://files.openai.com/content?id=file_000000002684720c81b0d1d022c3dfd2&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=1&sig=4e111632389ebc732936b83f809c131e3a5fa201ca4cb43c8ea9b6fa2d62a87e&v=0)![](https://files.openai.com/content?id=file_00000000cba0822fa2188c4c599f4181&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=1&sig=34a683b818c6593bfcc47dd950aaadc850fbd5861b79f237b4627d27372983d1&v=0)GitHubAccess repositories, issues, and pull requests.](</business/plugins/github/>)[![](https://files.openai.com/content?id=file_0000000021547230b7f5dfd4accb4de5&cdn=1&cp=pi&ma=31190400&ts=0&p=pi&cid=1&sig=dea02d9468c390a41124840b9b7cd6f54576f35b34b1ffe98d4ae90668efa963&v=0)![](https://files.openai.com/content?id=file_0000000021547230b7f5dfd4accb4de5&cdn=1&cp=pi&ma=31190400&ts=0&p=pi&cid=1&sig=dea02d9468c390a41124840b9b7cd6f54576f35b34b1ffe98d4ae90668efa963&v=0)LinearFind and reference issues and projects.](</business/plugins/linear/>)[![](https://files.openai.com/content?id=file_00000000dff871fd97ecd3e12034e065&cdn=1&cp=pi&ma=31363200&ts=0&p=pi&cid=1&sig=ba5b5cb9e8613449f77c1752691f4f467846a43b941dc1f29632cf788fd3c426&v=0)![](https://files.openai.com/content?id=file_00000000b5bc71fdb6d8dc0bdc786058&cdn=1&cp=pi&ma=31795200&ts=0&p=pi&cid=1&sig=416aab41b7a94dcf98fc20d43b8d80a0c807853ab48379f20a984d6f6daa0b1a&v=0)PostHogAnalyze your product data](</business/plugins/posthog/>)[![](https://files.openai.com/content?id=file_000000007ed081f786d39446d9746d5c&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=8&sig=36bf3b5954d5b1ed1c41ae3b5b6fd725d3265dadb80cc88405e74313a65a8e1e&v=0)![](https://files.openai.com/content?id=file_000000007ed081f786d39446d9746d5c&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=8&sig=36bf3b5954d5b1ed1c41ae3b5b6fd725d3265dadb80cc88405e74313a65a8e1e&v=0)VercelSearch docs and deploy apps.](</business/plugins/vercel/>)[![](https://files.openai.com/content?id=file_000000000b0071f5a15a9c19c082b8e5&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=1&sig=2663b30a3556fd4f4ba683cb9f2229a0c1d6c2c03d5ee308c9d75206a0b9fd63&v=0)![](https://files.openai.com/content?id=file_00000000dd1871f59b6fbbe091d54c40&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=1&sig=0c80d0ad0efd55b7f0665e2b3a539a4ac11beb6ed99bb0f9b65065138f951a3c&v=0)Atlassian RovoManage Jira and Confluence fast.](</business/plugins/atlassian-rovo/>)
+[![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)Product DesignTurn product ideas into designs and research artifacts](</business/plugins/product-design/>)[![](https://files.openai.com/content?id=file_000000002684720c81b0d1d022c3dfd2&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=1&sig=4e111632389ebc732936b83f809c131e3a5fa201ca4cb43c8ea9b6fa2d62a87e&v=0)![](https://files.openai.com/content?id=file_00000000cba0822fa2188c4c599f4181&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=1&sig=34a683b818c6593bfcc47dd950aaadc850fbd5861b79f237b4627d27372983d1&v=0)GitHubAccess repositories, issues, and pull requests](</business/plugins/github/>)[![](https://files.openai.com/content?id=file_0000000021547230b7f5dfd4accb4de5&cdn=1&cp=pi&ma=31190400&ts=0&p=pi&cid=1&sig=dea02d9468c390a41124840b9b7cd6f54576f35b34b1ffe98d4ae90668efa963&v=0)![](https://files.openai.com/content?id=file_0000000021547230b7f5dfd4accb4de5&cdn=1&cp=pi&ma=31190400&ts=0&p=pi&cid=1&sig=dea02d9468c390a41124840b9b7cd6f54576f35b34b1ffe98d4ae90668efa963&v=0)LinearFind and reference issues and projects](</business/plugins/linear/>)[![](https://files.openai.com/content?id=file_00000000dff871fd97ecd3e12034e065&cdn=1&cp=pi&ma=31363200&ts=0&p=pi&cid=1&sig=ba5b5cb9e8613449f77c1752691f4f467846a43b941dc1f29632cf788fd3c426&v=0)![](https://files.openai.com/content?id=file_00000000b5bc71fdb6d8dc0bdc786058&cdn=1&cp=pi&ma=31795200&ts=0&p=pi&cid=1&sig=416aab41b7a94dcf98fc20d43b8d80a0c807853ab48379f20a984d6f6daa0b1a&v=0)PostHogAnalyze your product data](</business/plugins/posthog/>)[![](https://files.openai.com/content?id=file_000000007ed081f786d39446d9746d5c&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=8&sig=36bf3b5954d5b1ed1c41ae3b5b6fd725d3265dadb80cc88405e74313a65a8e1e&v=0)![](https://files.openai.com/content?id=file_000000007ed081f786d39446d9746d5c&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=8&sig=36bf3b5954d5b1ed1c41ae3b5b6fd725d3265dadb80cc88405e74313a65a8e1e&v=0)VercelSearch docs and deploy apps](</business/plugins/vercel/>)[![](https://files.openai.com/content?id=file_000000000b0071f5a15a9c19c082b8e5&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=1&sig=2663b30a3556fd4f4ba683cb9f2229a0c1d6c2c03d5ee308c9d75206a0b9fd63&v=0)![](https://files.openai.com/content?id=file_00000000dd1871f59b6fbbe091d54c40&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=1&sig=0c80d0ad0efd55b7f0665e2b3a539a4ac11beb6ed99bb0f9b65065138f951a3c&v=0)Atlassian RovoManage Jira and Confluence fast](</business/plugins/atlassian-rovo/>)
 
 ## Get started with plugins
 
@@ -116,10 +116,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -138,7 +138,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -185,6 +186,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

@@ -32,7 +32,7 @@ OpenAI
 
 # Outlook Calendar
 
-Look up events and availability.
+Look up events and availability
 
 [Install plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_1p_fd0f4f41caa88191a9456514bbffa06d>)[Contact sales](</contact-sales/>)
 
@@ -48,7 +48,7 @@ Developer
 Website
     [(opens in a new window)](<https://www.microsoft.com/en-us/microsoft-365/outlook/calendar-app>)
 
-[![](https://files.openai.com/content?id=file_0000000020b881f79f64b17a38166052&cdn=1&cp=pi&ma=31536000&ts=0&p=pi&cid=8&sig=b8f7532209deaf547f86f6b5f11dce2f08e67cb229e8989a169b147cdaef7fec&v=0)Outlook Calendar For my next 3 meetings today, generate short prep notes: attendees, likely goals, and questions I should ask(opens in a new window)](<https://chatgpt.com/?prompt=%40Outlook+Calendar+For+my+next+3+meetings+today%2C+generate+short+prep+notes%3A+attendees%2C+likely+goals%2C+and+questions+I+should+ask>)
+[![](https://files.openai.com/content?id=file_0000000020b881f79f64b17a38166052&cdn=1&cp=pi&ma=31536000&ts=0&p=pi&cid=8&sig=b8f7532209deaf547f86f6b5f11dce2f08e67cb229e8989a169b147cdaef7fec&v=0)Outlook Calendar For my next 3 meetings today, generate short prep notes: attendees, likely goals, and questions I should ask(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_1p_fd0f4f41caa88191a9456514bbffa06d?install&prompt=For%20my%20next%203%20meetings%20today%2C%20generate%20short%20prep%20notes%3A%20attendees%2C%20likely%20goals%2C%20and%20questions%20I%20should%20ask>)
 
 ## How it works
 
@@ -60,19 +60,19 @@ Review your Outlook calendar events and email threads to prepare for calls, revi
 
 ![](https://files.openai.com/content?id=file_0000000020b881f79f64b17a38166052&cdn=1&cp=pi&ma=31536000&ts=0&p=pi&cid=8&sig=b8f7532209deaf547f86f6b5f11dce2f08e67cb229e8989a169b147cdaef7fec&v=0)Outlook Calendar For my next 3 meetings today, generate short prep notes: attendees, likely goals, and questions I should ask.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Outlook+Calendar+For+my+next+3+meetings+today%2C+generate+short+prep+notes%3A+attendees%2C+likely+goals%2C+and+questions+I+should+ask.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_1p_fd0f4f41caa88191a9456514bbffa06d?install&prompt=For%20my%20next%203%20meetings%20today%2C%20generate%20short%20prep%20notes%3A%20attendees%2C%20likely%20goals%2C%20and%20questions%20I%20should%20ask.&surface=work>)
 
   * ### Improve schedule visibility and prioritization
 
 ![](https://files.openai.com/content?id=file_0000000020b881f79f64b17a38166052&cdn=1&cp=pi&ma=31536000&ts=0&p=pi&cid=8&sig=b8f7532209deaf547f86f6b5f11dce2f08e67cb229e8989a169b147cdaef7fec&v=0)Outlook Calendar Review my calendar for conflicts this week and recommend which meetings to delegate, decline, or shorten, with a suggested message each.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Outlook+Calendar+Review+my+calendar+for+conflicts+this+week+and+recommend+which+meetings+to+delegate%2C+decline%2C+or+shorten%2C+with+a+suggested+message+each.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_1p_fd0f4f41caa88191a9456514bbffa06d?install&prompt=Review%20my%20calendar%20for%20conflicts%20this%20week%20and%20recommend%20which%20meetings%20to%20delegate%2C%20decline%2C%20or%20shorten%2C%20with%20a%20suggested%20message%20each.&surface=work>)
 
   * ### Clarify actions tied to prior meetings
 
 ![](https://files.openai.com/content?id=file_0000000020b881f79f64b17a38166052&cdn=1&cp=pi&ma=31536000&ts=0&p=pi&cid=8&sig=b8f7532209deaf547f86f6b5f11dce2f08e67cb229e8989a169b147cdaef7fec&v=0)Outlook Calendar Use the event details and related email threads for my latest [project] check-in to summarize documented decisions, open questions, and next steps with owners.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Outlook+Calendar+Use+the+event+details+and+related+email+threads+for+my+latest+%5Bproject%5D+check-in+to+summarize+documented+decisions%2C+open+questions%2C+and+next+steps+with+owners.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_1p_fd0f4f41caa88191a9456514bbffa06d?install&prompt=Use%20the%20event%20details%20and%20related%20email%20threads%20for%20my%20latest%20%5Bproject%5D%20check-in%20to%20summarize%20documented%20decisions%2C%20open%20questions%2C%20and%20next%20steps%20with%20owners.&surface=work>)
 
 
 
@@ -87,11 +87,11 @@ Review your Outlook calendar events and email threads to prepare for calls, revi
 
 ## Resources
 
-### [Help centerLearn more](<https://help.openai.com/en/articles/12512241-outlook-email-and-calendar-connectors-for-chatgpt>)
+### [Help centerLearn more(opens in a new window)](<https://help.openai.com/en/articles/12512241-outlook-email-and-calendar-connectors-for-chatgpt>)
 
-### [Plugin supportLearn more](<https://support.microsoft.com/outlook>)
+### [Plugin supportLearn more(opens in a new window)](<https://support.microsoft.com/outlook>)
 
-### [Privacy policyLearn more](<https://privacy.microsoft.com>)
+### [Privacy policyLearn more(opens in a new window)](<https://privacy.microsoft.com>)
 
 ## Add the Outlook Calendar plugin in a few clicks
 
@@ -101,7 +101,7 @@ Availability depends on the plugin, your plan, and workspace settings. Some conn
 
 ## Explore related plugins
 
-[![](https://files.openai.com/content?id=file_00000000191081f79dfeddb7b502b1bf&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=3e3f6f7a793416cd9a93e61c94c2bd4631dd37631f592d4e774aa254e2b1c9b7&v=0)![](https://files.openai.com/content?id=file_00000000191081f79dfeddb7b502b1bf&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=3e3f6f7a793416cd9a93e61c94c2bd4631dd37631f592d4e774aa254e2b1c9b7&v=0)SalesPrepare account work and customer follow-up.](</business/plugins/sales/>)[![](https://files.openai.com/content?id=file_00000000f954722fa9fc7b5c09eb6970&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=1&sig=352148741b16c345f6537c69ed2fd83a3dacaeda210d5818bb7a66c44a09223b&v=0)![](https://files.openai.com/content?id=file_00000000f954722fa9fc7b5c09eb6970&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=1&sig=352148741b16c345f6537c69ed2fd83a3dacaeda210d5818bb7a66c44a09223b&v=0)Outlook EmailSearch and reference your Outlook email.](</business/plugins/microsoft-outlook-email/>)[![](https://files.openai.com/content?id=file_00000000bec871f5b16bea82279ccf21&cdn=1&cp=pi&ma=31536000&ts=0&p=pi&cid=1&sig=dae48439fa494947db53290285649ef7f8819b8db88432aa57eb884533747051&v=0)![](https://files.openai.com/content?id=file_00000000bec871f5b16bea82279ccf21&cdn=1&cp=pi&ma=31536000&ts=0&p=pi&cid=1&sig=dae48439fa494947db53290285649ef7f8819b8db88432aa57eb884533747051&v=0)SharePointSearch and pull from shared sites and OneDrive.](</business/plugins/microsoft-sharepoint/>)[![](https://files.openai.com/content?id=file_00000000290c81f6b165c1e4941266a3&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=8&sig=aac8f7270051b9307ea721f89136ce46aaf1dffcbdaea6eba9ba95fc9212473d&v=0)![](https://files.openai.com/content?id=file_00000000290c81f6b165c1e4941266a3&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=8&sig=aac8f7270051b9307ea721f89136ce46aaf1dffcbdaea6eba9ba95fc9212473d&v=0)TeamsLook up chats and messages.](</business/plugins/microsoft-teams/>)[![](https://files.openai.com/content?id=file_00000000aa9071f59db729d014a2c122&cdn=1&cp=pi&ma=31795200&ts=0&p=pi&cid=1&sig=6709f94e3d491849be21f21c311321cfd336dd2079d72129fb55b6b76e78464e&v=0)![](https://files.openai.com/content?id=file_00000000289881f78412bec5f6f0a389&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=8&sig=52f0f0a1d820e8d2548e6d6e0e4f42e7a7900384b50418850b66476aad680181&v=0)ZoomSmart meeting insights from Zoom.](</business/plugins/zoom/>)[![](https://files.openai.com/content?id=file_000000004a50722f96089a32eeed297c&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=1&sig=07807a7cbefb19d9cd968741565427527585e02f13335ddd46129d77e9dfe317&v=0)![](https://files.openai.com/content?id=file_0000000072dc81f69476895c0081c9c6&cdn=1&cp=pi&ma=31363200&ts=0&p=pi&cid=8&sig=ae98e7cc8005841970b2d7697ed1cfd38a1f393c65889c0de686c5db7b93da03&v=0)AsanaTurn Asana tasks into clear updates and plans.](</business/plugins/asana/>)
+[![](https://files.openai.com/content?id=file_00000000191081f79dfeddb7b502b1bf&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=3e3f6f7a793416cd9a93e61c94c2bd4631dd37631f592d4e774aa254e2b1c9b7&v=0)![](https://files.openai.com/content?id=file_00000000191081f79dfeddb7b502b1bf&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=3e3f6f7a793416cd9a93e61c94c2bd4631dd37631f592d4e774aa254e2b1c9b7&v=0)SalesPrepare account work and customer follow-up](</business/plugins/sales/>)[![](https://files.openai.com/content?id=file_00000000f954722fa9fc7b5c09eb6970&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=1&sig=352148741b16c345f6537c69ed2fd83a3dacaeda210d5818bb7a66c44a09223b&v=0)![](https://files.openai.com/content?id=file_00000000f954722fa9fc7b5c09eb6970&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=1&sig=352148741b16c345f6537c69ed2fd83a3dacaeda210d5818bb7a66c44a09223b&v=0)Outlook EmailSearch and reference your Outlook email](</business/plugins/microsoft-outlook-email/>)[![](https://files.openai.com/content?id=file_00000000bec871f5b16bea82279ccf21&cdn=1&cp=pi&ma=31536000&ts=0&p=pi&cid=1&sig=dae48439fa494947db53290285649ef7f8819b8db88432aa57eb884533747051&v=0)![](https://files.openai.com/content?id=file_00000000bec871f5b16bea82279ccf21&cdn=1&cp=pi&ma=31536000&ts=0&p=pi&cid=1&sig=dae48439fa494947db53290285649ef7f8819b8db88432aa57eb884533747051&v=0)SharePointSearch and pull from shared sites and OneDrive](</business/plugins/microsoft-sharepoint/>)[![](https://files.openai.com/content?id=file_00000000290c81f6b165c1e4941266a3&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=8&sig=aac8f7270051b9307ea721f89136ce46aaf1dffcbdaea6eba9ba95fc9212473d&v=0)![](https://files.openai.com/content?id=file_00000000290c81f6b165c1e4941266a3&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=8&sig=aac8f7270051b9307ea721f89136ce46aaf1dffcbdaea6eba9ba95fc9212473d&v=0)TeamsLook up chats and messages](</business/plugins/microsoft-teams/>)[![](https://files.openai.com/content?id=file_00000000aa9071f59db729d014a2c122&cdn=1&cp=pi&ma=31795200&ts=0&p=pi&cid=1&sig=6709f94e3d491849be21f21c311321cfd336dd2079d72129fb55b6b76e78464e&v=0)![](https://files.openai.com/content?id=file_00000000289881f78412bec5f6f0a389&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=8&sig=52f0f0a1d820e8d2548e6d6e0e4f42e7a7900384b50418850b66476aad680181&v=0)ZoomInsights from Zoom](</business/plugins/zoom/>)[![](https://files.openai.com/content?id=file_000000004a50722f96089a32eeed297c&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=1&sig=07807a7cbefb19d9cd968741565427527585e02f13335ddd46129d77e9dfe317&v=0)![](https://files.openai.com/content?id=file_0000000072dc81f69476895c0081c9c6&cdn=1&cp=pi&ma=31363200&ts=0&p=pi&cid=8&sig=ae98e7cc8005841970b2d7697ed1cfd38a1f393c65889c0de686c5db7b93da03&v=0)AsanaTurn Asana tasks into clear updates and plans](</business/plugins/asana/>)
 
 ## Get started with plugins
 
@@ -119,10 +119,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -141,7 +141,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -188,6 +189,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

@@ -1,6 +1,6 @@
 {
-    "run_id": "2026-09-28T09-17Z",
-    "fetch_time": "2026-09-28T09:17:32Z",
+    "run_id": "2026-10-12T09-16Z",
+    "fetch_time": "2026-10-12T09:17:13Z",
     "sub_sitemaps": [
         "sitemap.xml_page.xml",
         "sitemap.xml_ai-adoption.xml",
@@ -17,6 +17,7 @@
         "sitemap.xml_global-affairs.xml",
         "sitemap.xml_global-affairs-news-listed.xml",
         "sitemap.xml_intelligence-age.xml",
+        "sitemap.xml_learn-demos.xml",
         "sitemap.xml_learn-guides.xml",
         "sitemap.xml_learn-openai-on-openai.xml",
         "sitemap.xml_learn-webinars.xml",
