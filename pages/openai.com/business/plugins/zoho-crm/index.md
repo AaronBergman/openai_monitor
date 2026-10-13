@@ -32,7 +32,7 @@ OpenAI
 
 # Zoho CRM
 
-Connect to sync Zoho CRM records and activities for use in ChatGPT.
+Connect to sync Zoho CRM records and activities for use in ChatGPT
 
 [Install plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a193ef5e804819197c25f88d92d6bf7>)[Contact sales](</contact-sales/>)
 
@@ -45,7 +45,7 @@ Developer
 Website
     [(opens in a new window)](<https://www.zoho.com/en-in/crm/>)
 
-[![](https://files.openai.com/content?id=file_00000000ea6871f587f4d6459490197f&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=1&sig=479f0dacdd095fd22c887fad89d51d19282bbd638187396e501b6b2e08a48ed2&v=0)Zoho CRM Search Zoho CRM for open deals closing this quarter and summarize the highest-risk opportunities.(opens in a new window)](<https://chatgpt.com/?prompt=%40Zoho+CRM+Search+Zoho+CRM+for+open+deals+closing+this+quarter+and+summarize+the+highest-risk+opportunities.>)
+[![](https://files.openai.com/content?id=file_00000000ea6871f587f4d6459490197f&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=1&sig=479f0dacdd095fd22c887fad89d51d19282bbd638187396e501b6b2e08a48ed2&v=0)Zoho CRM Search Zoho CRM for open deals closing this quarter and summarize the highest-risk opportunities.(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a193ef5e804819197c25f88d92d6bf7?install&prompt=Search%20Zoho%20CRM%20for%20open%20deals%20closing%20this%20quarter%20and%20summarize%20the%20highest-risk%20opportunities.>)
 
 ## How it works
 
@@ -57,19 +57,19 @@ Review your pipeline, summarize account activity, and create follow-ups and next
 
 ![](https://files.openai.com/content?id=file_00000000ea6871f587f4d6459490197f&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=1&sig=479f0dacdd095fd22c887fad89d51d19282bbd638187396e501b6b2e08a48ed2&v=0)Zoho CRM Show deals closing this month and flag anything that looks at risk. Then suggest the top 3 actions per rep.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Zoho+CRM+Show+deals+closing+this+month+and+flag+anything+that+looks+at+risk.+Then+suggest+the+top+3+actions+per+rep.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a193ef5e804819197c25f88d92d6bf7?install&prompt=Show%20deals%20closing%20this%20month%20and%20flag%20anything%20that%20looks%20at%20risk.%20Then%20suggest%20the%20top%203%20actions%20per%20rep.&surface=work>)
 
   * ### Prepare for meetings in minutes
 
 ![](https://files.openai.com/content?id=file_00000000ea6871f587f4d6459490197f&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=1&sig=479f0dacdd095fd22c887fad89d51d19282bbd638187396e501b6b2e08a48ed2&v=0)Zoho CRM Find Zoho CRM contacts at an account and summarize recent activities.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Zoho+CRM+Find+Zoho+CRM+contacts+at+an+account+and+summarize+recent+activities.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a193ef5e804819197c25f88d92d6bf7?install&prompt=Find%20Zoho%20CRM%20contacts%20at%20an%20account%20and%20summarize%20recent%20activities.&surface=work>)
 
   * ### Reduce manual CRM updates
 
 ![](https://files.openai.com/content?id=file_00000000ea6871f587f4d6459490197f&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=1&sig=479f0dacdd095fd22c887fad89d51d19282bbd638187396e501b6b2e08a48ed2&v=0)Zoho CRM Create a new lead from this email and log it with the right source and next step reminder for tomorrow.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Zoho+CRM+Create+a+new+lead+from+this+email+and+log+it+with+the+right+source+and+next+step+reminder+for+tomorrow.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a193ef5e804819197c25f88d92d6bf7?install&prompt=Create%20a%20new%20lead%20from%20this%20email%20and%20log%20it%20with%20the%20right%20source%20and%20next%20step%20reminder%20for%20tomorrow.&surface=work>)
 
 
 
@@ -84,11 +84,11 @@ Review your pipeline, summarize account activity, and create follow-ups and next
 
 ## Resources
 
-### [Help centerLearn more](<https://help.openai.com/en/articles/12825765-zoho-crm-synced-connector>)
+### [Help centerLearn more(opens in a new window)](<https://help.openai.com/en/articles/12825765-zoho-crm-synced-connector>)
 
-### [Plugin supportLearn more](<https://www.zoho.com/crm/help/>)
+### [Plugin supportLearn more(opens in a new window)](<https://www.zoho.com/crm/help/>)
 
-### [Privacy policyLearn more](<https://www.zoho.com/privacy.html>)
+### [Privacy policyLearn more(opens in a new window)](<https://www.zoho.com/privacy.html>)
 
 ## Add the Zoho CRM plugin in a few clicks
 
@@ -98,7 +98,7 @@ Availability depends on the plugin, your plan, and workspace settings. Some conn
 
 ## Explore related plugins
 
-[![](https://files.openai.com/content?id=file_00000000191081f79dfeddb7b502b1bf&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=3e3f6f7a793416cd9a93e61c94c2bd4631dd37631f592d4e774aa254e2b1c9b7&v=0)![](https://files.openai.com/content?id=file_00000000191081f79dfeddb7b502b1bf&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=3e3f6f7a793416cd9a93e61c94c2bd4631dd37631f592d4e774aa254e2b1c9b7&v=0)SalesPrepare account work and customer follow-up.](</business/plugins/sales/>)[![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)DataTurn data into clear decisions.](</business/plugins/data/>)[![](https://files.openai.com/content?id=file_0000000088dc71f6a290da6b9746773b&cdn=1&cp=pi&ma=32486400&ts=0&p=pi&cid=8&sig=053f47893fea5795866c05c071a32556575279ccb29b59b78c36b6efb2d97385&v=0)![](https://files.openai.com/content?id=file_0000000088dc71f6a290da6b9746773b&cdn=1&cp=pi&ma=32486400&ts=0&p=pi&cid=8&sig=053f47893fea5795866c05c071a32556575279ccb29b59b78c36b6efb2d97385&v=0)ClayFind and engage prospects.](</business/plugins/clay/>)[![](https://files.openai.com/content?id=file_000000007b5c71f68f4ce7109fe9895c&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=8&sig=a5a793a7e75695a72af470326e881780a30318137c1513faad1613814c2c9dc1&v=0)![](https://files.openai.com/content?id=file_0000000072c871f6aa01f4d6e74a0bac&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=8&sig=968d61b4c236ca6388c4568374ddba27d71bb52aff64cd2d86100a352481dbe3&v=0)ZoomInfoB2B data and GTM insights](</business/plugins/zoominfo/>)[![](https://files.openai.com/content?id=file_00000000990481fd9c316ee59df47fc5&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=8&sig=bd8ee8654d100eefe078aa49822119c307f7c6f39021603fafb3d083c1cb5cac&v=0)![](https://files.openai.com/content?id=file_00000000990481fd9c316ee59df47fc5&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=8&sig=bd8ee8654d100eefe078aa49822119c307f7c6f39021603fafb3d083c1cb5cac&v=0)GmailFind and reference emails from your inbox.](</business/plugins/gmail/>)[![](https://files.openai.com/content?id=file_000000006e70720e8240729562593f87&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=881a44cfa311712291121e9cda4ef4b8d7fef216108a65296a5898c02d91507e&v=0)![](https://files.openai.com/content?id=file_00000000042c720882209039c0de8dbb&cdn=1&cp=pi&ma=31881600&ts=0&p=pi&cid=8&sig=6488ddb504fdc95531899e70229555079be3267f213ba9f836a0a92bc39864a8&v=0)DocusignManage contracts from ChatGPT](</business/plugins/docusign/>)
+[![](https://files.openai.com/content?id=file_00000000191081f79dfeddb7b502b1bf&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=3e3f6f7a793416cd9a93e61c94c2bd4631dd37631f592d4e774aa254e2b1c9b7&v=0)![](https://files.openai.com/content?id=file_00000000191081f79dfeddb7b502b1bf&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=3e3f6f7a793416cd9a93e61c94c2bd4631dd37631f592d4e774aa254e2b1c9b7&v=0)SalesPrepare account work and customer follow-up](</business/plugins/sales/>)[![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)DataAnswer questions with data](</business/plugins/data/>)[![](https://files.openai.com/content?id=file_0000000088dc71f6a290da6b9746773b&cdn=1&cp=pi&ma=32486400&ts=0&p=pi&cid=8&sig=053f47893fea5795866c05c071a32556575279ccb29b59b78c36b6efb2d97385&v=0)![](https://files.openai.com/content?id=file_0000000088dc71f6a290da6b9746773b&cdn=1&cp=pi&ma=32486400&ts=0&p=pi&cid=8&sig=053f47893fea5795866c05c071a32556575279ccb29b59b78c36b6efb2d97385&v=0)ClayGTM Data and Functions](</business/plugins/clay/>)[![](https://files.openai.com/content?id=file_000000007b5c71f68f4ce7109fe9895c&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=8&sig=a5a793a7e75695a72af470326e881780a30318137c1513faad1613814c2c9dc1&v=0)![](https://files.openai.com/content?id=file_0000000072c871f6aa01f4d6e74a0bac&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=8&sig=968d61b4c236ca6388c4568374ddba27d71bb52aff64cd2d86100a352481dbe3&v=0)ZoomInfoB2B data and GTM insights](</business/plugins/zoominfo/>)[![](https://files.openai.com/content?id=file_00000000990481fd9c316ee59df47fc5&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=8&sig=bd8ee8654d100eefe078aa49822119c307f7c6f39021603fafb3d083c1cb5cac&v=0)![](https://files.openai.com/content?id=file_00000000990481fd9c316ee59df47fc5&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=8&sig=bd8ee8654d100eefe078aa49822119c307f7c6f39021603fafb3d083c1cb5cac&v=0)GmailFind and reference emails from your inbox](</business/plugins/gmail/>)[![](https://files.openai.com/content?id=file_000000006e70720e8240729562593f87&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=881a44cfa311712291121e9cda4ef4b8d7fef216108a65296a5898c02d91507e&v=0)![](https://files.openai.com/content?id=file_00000000042c720882209039c0de8dbb&cdn=1&cp=pi&ma=31881600&ts=0&p=pi&cid=8&sig=6488ddb504fdc95531899e70229555079be3267f213ba9f836a0a92bc39864a8&v=0)DocusignManage contracts from ChatGPT](</business/plugins/docusign/>)
 
 ## Get started with plugins
 
@@ -116,10 +116,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -138,7 +138,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -185,6 +186,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

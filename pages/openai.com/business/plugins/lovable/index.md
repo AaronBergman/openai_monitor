@@ -32,7 +32,7 @@ OpenAI
 
 # Lovable
 
-Build apps and websites.
+Build full-stack apps by chat
 
 [Install plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_693a0a79ffe48191901173077edcf914>)[Contact sales](</contact-sales/>)
 
@@ -45,11 +45,11 @@ Developer
 Website
     [(opens in a new window)](<https://lovable.dev/>)
 
-[![](https://files.openai.com/content?id=file_00000000ce1481f498743ded8b95df09&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=8&sig=0d491067c970a89e695e62641b1852eb6905ebf6ae197806a2337959684bd2c5&v=0)Lovable build me an AI-powered customer support app(opens in a new window)](<https://chatgpt.com/?prompt=%40Lovable+build+me+an+AI-powered+customer+support+app>)
+[![](https://files.openai.com/content?id=file_00000000ce1481f498743ded8b95df09&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=8&sig=0d491067c970a89e695e62641b1852eb6905ebf6ae197806a2337959684bd2c5&v=0)Lovable build me an AI-powered customer support app(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_693a0a79ffe48191901173077edcf914?install&prompt=build%20me%20an%20AI-powered%20customer%20support%20app>)
 
 ## How it works
 
-Create functional apps and websites in ChatGPT by describing what you want and iterating on the result through natural language.
+Lovable builds and edits full-stack web apps from natural language. Describe an app and Lovable creates a project, writes the TypeScript, Tailwind, and shadcn/ui code, and returns a live preview you can watch build. Follow-up messages refine the app, and you can inspect the generated code and diffs, add a PostgreSQL database and third-party connectors, manage reusable project knowledge and skills, and publish the finished app to a public URL.
 
 ## What else can you do?
 
@@ -57,19 +57,19 @@ Create functional apps and websites in ChatGPT by describing what you want and i
 
 ![](https://files.openai.com/content?id=file_00000000ce1481f498743ded8b95df09&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=8&sig=0d491067c970a89e695e62641b1852eb6905ebf6ae197806a2337959684bd2c5&v=0)Lovable Build a simple appointment booking web app for a small clinic with availability calendar and confirmation emails.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Lovable+Build+a+simple+appointment+booking+web+app+for+a+small+clinic+with+availability+calendar+and+confirmation+emails.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_693a0a79ffe48191901173077edcf914?install&prompt=Build%20a%20simple%20appointment%20booking%20web%20app%20for%20a%20small%20clinic%20with%20availability%20calendar%20and%20confirmation%20emails.&surface=work>)
 
   * ### Iterate with natural language
 
 ![](https://files.openai.com/content?id=file_00000000ce1481f498743ded8b95df09&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=8&sig=0d491067c970a89e695e62641b1852eb6905ebf6ae197806a2337959684bd2c5&v=0)Lovable Take the app you generated and add authentication with admin and staff roles plus a basic audit log.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Lovable+Take+the+app+you+generated+and+add+authentication+with+admin+and+staff+roles+plus+a+basic+audit+log.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_693a0a79ffe48191901173077edcf914?install&prompt=Take%20the%20app%20you%20generated%20and%20add%20authentication%20with%20admin%20and%20staff%20roles%20plus%20a%20basic%20audit%20log.&surface=work>)
 
   * ### Create without technical experience
 
 ![](https://files.openai.com/content?id=file_00000000ce1481f498743ded8b95df09&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=8&sig=0d491067c970a89e695e62641b1852eb6905ebf6ae197806a2337959684bd2c5&v=0)Lovable Add a dashboard page with charts and filters and make sure the data refresh is efficient.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Lovable+Add+a+dashboard+page+with+charts+and+filters+and+make+sure+the+data+refresh+is+efficient.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_693a0a79ffe48191901173077edcf914?install&prompt=Add%20a%20dashboard%20page%20with%20charts%20and%20filters%20and%20make%20sure%20the%20data%20refresh%20is%20efficient.&surface=work>)
 
 
 
@@ -84,11 +84,11 @@ Create functional apps and websites in ChatGPT by describing what you want and i
 
 ## Resources
 
-### [Help centerLearn more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
+### [Help centerLearn more(opens in a new window)](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
 
-### [Plugin supportLearn more](<https://lovable.ai/support>)
+### [Plugin supportLearn more(opens in a new window)](<https://lovable.ai/support>)
 
-### [Privacy policyLearn more](<https://lovable.ai/privacy>)
+### [Privacy policyLearn more(opens in a new window)](<https://lovable.ai/privacy>)
 
 ## Add the Lovable plugin in a few clicks
 
@@ -98,7 +98,7 @@ Availability depends on the plugin, your plan, and workspace settings. Some conn
 
 ## Explore related plugins
 
-[![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)Product DesignTurn product ideas into designs and research artifacts.](</business/plugins/product-design/>)[![](https://files.openai.com/content?id=file_00000000bdb4720caff269fd259bbdff&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=20268aaf4f0c92265b5b4945d13a456968c0e1a5013b3be043a94650a9b37e03&v=0)![](https://files.openai.com/content?id=file_00000000bdb4720caff269fd259bbdff&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=20268aaf4f0c92265b5b4945d13a456968c0e1a5013b3be043a94650a9b37e03&v=0)Creative ProductionUse the Creative Production plugin in ChatGPT to create, adapt, and review marketing assets, campaign concepts, ads, and launch creative.](</business/plugins/creative-production/>)[![](https://files.openai.com/content?id=file_000000003d64820c9105c859db57fe4d&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=8&sig=bc9fd0fe7aa6a14439c3dae08ded4377aa99f2dd20e5b52ca3db8dd40fd5d2fc&v=0)![](https://files.openai.com/content?id=file_000000001f3c81fd88149faceddc19df&cdn=1&cp=pi&ma=32659200&ts=0&p=pi&cid=8&sig=f45f28e94aaa8443b2c849d11cfe2c843efe0d98efc51230e2ab72c39610b193&v=0)FigmaMake diagrams, slides, assets.](</business/plugins/figma/>)[![](https://files.openai.com/content?id=file_000000002684720c81b0d1d022c3dfd2&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=1&sig=4e111632389ebc732936b83f809c131e3a5fa201ca4cb43c8ea9b6fa2d62a87e&v=0)![](https://files.openai.com/content?id=file_00000000cba0822fa2188c4c599f4181&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=1&sig=34a683b818c6593bfcc47dd950aaadc850fbd5861b79f237b4627d27372983d1&v=0)GitHubAccess repositories, issues, and pull requests.](</business/plugins/github/>)[![](https://files.openai.com/content?id=file_000000007ed081f786d39446d9746d5c&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=8&sig=36bf3b5954d5b1ed1c41ae3b5b6fd725d3265dadb80cc88405e74313a65a8e1e&v=0)![](https://files.openai.com/content?id=file_000000007ed081f786d39446d9746d5c&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=8&sig=36bf3b5954d5b1ed1c41ae3b5b6fd725d3265dadb80cc88405e74313a65a8e1e&v=0)VercelSearch docs and deploy apps.](</business/plugins/vercel/>)[![](https://files.openai.com/content?id=file_00000000da6c81f58455d98a59b9e028&cdn=1&cp=pi&ma=30931200&ts=0&p=pi&cid=8&sig=03536f130f44c90a94877d9e78404b93460a7566485b46608088528082eb91c0&v=0)![](https://files.openai.com/content?id=file_00000000da6c81f58455d98a59b9e028&cdn=1&cp=pi&ma=30931200&ts=0&p=pi&cid=8&sig=03536f130f44c90a94877d9e78404b93460a7566485b46608088528082eb91c0&v=0)Google FirebaseBuild and manage Firebase apps](</business/plugins/firebase/>)
+[![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)Product DesignTurn product ideas into designs and research artifacts](</business/plugins/product-design/>)[![](https://files.openai.com/content?id=file_00000000bdb4720caff269fd259bbdff&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=20268aaf4f0c92265b5b4945d13a456968c0e1a5013b3be043a94650a9b37e03&v=0)![](https://files.openai.com/content?id=file_00000000bdb4720caff269fd259bbdff&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=20268aaf4f0c92265b5b4945d13a456968c0e1a5013b3be043a94650a9b37e03&v=0)Creative ProductionUse the Creative Production plugin in ChatGPT to create, adapt, and review marketing assets, campaign concepts, ads, and launch creative](</business/plugins/creative-production/>)[![](https://files.openai.com/content?id=file_000000003d64820c9105c859db57fe4d&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=8&sig=bc9fd0fe7aa6a14439c3dae08ded4377aa99f2dd20e5b52ca3db8dd40fd5d2fc&v=0)![](https://files.openai.com/content?id=file_000000001f3c81fd88149faceddc19df&cdn=1&cp=pi&ma=32659200&ts=0&p=pi&cid=8&sig=f45f28e94aaa8443b2c849d11cfe2c843efe0d98efc51230e2ab72c39610b193&v=0)FigmaMake diagrams, slides, assets](</business/plugins/figma/>)[![](https://files.openai.com/content?id=file_000000002684720c81b0d1d022c3dfd2&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=1&sig=4e111632389ebc732936b83f809c131e3a5fa201ca4cb43c8ea9b6fa2d62a87e&v=0)![](https://files.openai.com/content?id=file_00000000cba0822fa2188c4c599f4181&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=1&sig=34a683b818c6593bfcc47dd950aaadc850fbd5861b79f237b4627d27372983d1&v=0)GitHubAccess repositories, issues, and pull requests](</business/plugins/github/>)[![](https://files.openai.com/content?id=file_000000007ed081f786d39446d9746d5c&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=8&sig=36bf3b5954d5b1ed1c41ae3b5b6fd725d3265dadb80cc88405e74313a65a8e1e&v=0)![](https://files.openai.com/content?id=file_000000007ed081f786d39446d9746d5c&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=8&sig=36bf3b5954d5b1ed1c41ae3b5b6fd725d3265dadb80cc88405e74313a65a8e1e&v=0)VercelSearch docs and deploy apps](</business/plugins/vercel/>)[![](https://files.openai.com/content?id=file_00000000da6c81f58455d98a59b9e028&cdn=1&cp=pi&ma=30931200&ts=0&p=pi&cid=8&sig=03536f130f44c90a94877d9e78404b93460a7566485b46608088528082eb91c0&v=0)![](https://files.openai.com/content?id=file_00000000da6c81f58455d98a59b9e028&cdn=1&cp=pi&ma=30931200&ts=0&p=pi&cid=8&sig=03536f130f44c90a94877d9e78404b93460a7566485b46608088528082eb91c0&v=0)Google FirebaseBuild and manage Firebase apps](</business/plugins/firebase/>)
 
 ## Get started with plugins
 
@@ -116,10 +116,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -138,7 +138,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -185,6 +186,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

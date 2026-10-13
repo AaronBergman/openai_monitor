@@ -45,7 +45,7 @@ Developer
 Website
     [(opens in a new window)](<https://sentinelx.app>)
 
-[![](https://files.openai.com/content?id=file_00000000591881f7857f80a9b5b758d4&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=ed51853ee596bff4473543dc7d700b5f1accf8c35fc05518475eb88de4640335&v=0)![](https://files.openai.com/content?id=file_00000000591881f7857f80a9b5b758d4&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=ed51853ee596bff4473543dc7d700b5f1accf8c35fc05518475eb88de4640335&v=0)SentinelX List all my SentinelX hosts and show each one's uptime and free disk and RAM.(opens in a new window)](<https://chatgpt.com/?prompt=%40SentinelX+List+all+my+SentinelX+hosts+and+show+each+one%27s+uptime+and+free+disk+and+RAM.>)
+[![](https://files.openai.com/content?id=file_00000000591881f7857f80a9b5b758d4&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=ed51853ee596bff4473543dc7d700b5f1accf8c35fc05518475eb88de4640335&v=0)![](https://files.openai.com/content?id=file_00000000591881f7857f80a9b5b758d4&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=ed51853ee596bff4473543dc7d700b5f1accf8c35fc05518475eb88de4640335&v=0)SentinelX List all my SentinelX hosts and show each one's uptime and free disk and RAM.(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69f63e01766881919640f03b5e7912a5?install&prompt=List%20all%20my%20SentinelX%20hosts%20and%20show%20each%20one's%20uptime%20and%20free%20disk%20and%20RAM.>)
 
 ## How it works
 
@@ -57,19 +57,19 @@ SentinelX lets you manage your Linux, macOS, and Windows servers from ChatGPT â€
 
 ![](https://files.openai.com/content?id=file_00000000591881f7857f80a9b5b758d4&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=ed51853ee596bff4473543dc7d700b5f1accf8c35fc05518475eb88de4640335&v=0)![](https://files.openai.com/content?id=file_00000000591881f7857f80a9b5b758d4&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=ed51853ee596bff4473543dc7d700b5f1accf8c35fc05518475eb88de4640335&v=0)SentinelX List all my SentinelX hosts and show each one's uptime and free disk and RAM.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40SentinelX+List+all+my+SentinelX+hosts+and+show+each+one%27s+uptime+and+free+disk+and+RAM.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69f63e01766881919640f03b5e7912a5?install&prompt=List%20all%20my%20SentinelX%20hosts%20and%20show%20each%20one's%20uptime%20and%20free%20disk%20and%20RAM.&surface=work>)
 
   * ### Find unhealthy containers
 
 ![](https://files.openai.com/content?id=file_00000000591881f7857f80a9b5b758d4&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=ed51853ee596bff4473543dc7d700b5f1accf8c35fc05518475eb88de4640335&v=0)![](https://files.openai.com/content?id=file_00000000591881f7857f80a9b5b758d4&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=ed51853ee596bff4473543dc7d700b5f1accf8c35fc05518475eb88de4640335&v=0)SentinelX Show the running Docker containers on my host and flag any that are unhealthy or restarting.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40SentinelX+Show+the+running+Docker+containers+on+my+host+and+flag+any+that+are+unhealthy+or+restarting.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69f63e01766881919640f03b5e7912a5?install&prompt=Show%20the%20running%20Docker%20containers%20on%20my%20host%20and%20flag%20any%20that%20are%20unhealthy%20or%20restarting.&surface=work>)
 
   * ### Compare resource pressure
 
 ![](https://files.openai.com/content?id=file_00000000591881f7857f80a9b5b758d4&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=ed51853ee596bff4473543dc7d700b5f1accf8c35fc05518475eb88de4640335&v=0)![](https://files.openai.com/content?id=file_00000000591881f7857f80a9b5b758d4&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=ed51853ee596bff4473543dc7d700b5f1accf8c35fc05518475eb88de4640335&v=0)SentinelX Compare disk and memory usage across all my hosts and tell me which one is closest to running out.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40SentinelX+Compare+disk+and+memory+usage+across+all+my+hosts+and+tell+me+which+one+is+closest+to+running+out.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69f63e01766881919640f03b5e7912a5?install&prompt=Compare%20disk%20and%20memory%20usage%20across%20all%20my%20hosts%20and%20tell%20me%20which%20one%20is%20closest%20to%20running%20out.&surface=work>)
 
 
 
@@ -78,17 +78,17 @@ SentinelX lets you manage your Linux, macOS, and Windows servers from ChatGPT â€
 
 ### App
 
-  * ![](https://files.openai.com/content?id=file_00000000591881f7857f80a9b5b758d4&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=ed51853ee596bff4473543dc7d700b5f1accf8c35fc05518475eb88de4640335&v=0)SentinelX
+  * ![](https://files.openai.com/content?id=file_000000006618820eb0c1b2e8b4301b87&cdn=1&cp=pi&ma=32486400&ts=0&p=pi&cid=8&sig=e53cd530c3ca83f861e302ec62d09c44e9ce4aa6e8f1d26cd5b136bd54bd9fae&v=0)SentinelX
 
 
 
 ## Resources
 
-### [Help centerLearn more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
+### [Help centerLearn more(opens in a new window)](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
 
-### [Plugin supportLearn more](<https://sentinelx.app/support>)
+### [Plugin supportLearn more(opens in a new window)](<https://sentinelx.app/support>)
 
-### [Privacy policyLearn more](<https://sentinelx.app/privacy>)
+### [Privacy policyLearn more(opens in a new window)](<https://sentinelx.app/privacy>)
 
 ## Add the SentinelX plugin in a few clicks
 
@@ -98,7 +98,7 @@ Availability depends on the plugin, your plan, and workspace settings. Some conn
 
 ## Explore related plugins
 
-[![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)Product DesignTurn product ideas into designs and research artifacts.](</business/plugins/product-design/>)[![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)DataTurn data into clear decisions.](</business/plugins/data/>)[![](https://files.openai.com/content?id=file_000000002684720c81b0d1d022c3dfd2&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=1&sig=4e111632389ebc732936b83f809c131e3a5fa201ca4cb43c8ea9b6fa2d62a87e&v=0)![](https://files.openai.com/content?id=file_00000000cba0822fa2188c4c599f4181&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=1&sig=34a683b818c6593bfcc47dd950aaadc850fbd5861b79f237b4627d27372983d1&v=0)GitHubAccess repositories, issues, and pull requests.](</business/plugins/github/>)[![](https://files.openai.com/content?id=file_0000000021547230b7f5dfd4accb4de5&cdn=1&cp=pi&ma=31190400&ts=0&p=pi&cid=1&sig=dea02d9468c390a41124840b9b7cd6f54576f35b34b1ffe98d4ae90668efa963&v=0)![](https://files.openai.com/content?id=file_0000000021547230b7f5dfd4accb4de5&cdn=1&cp=pi&ma=31190400&ts=0&p=pi&cid=1&sig=dea02d9468c390a41124840b9b7cd6f54576f35b34b1ffe98d4ae90668efa963&v=0)LinearFind and reference issues and projects.](</business/plugins/linear/>)[![](https://files.openai.com/content?id=file_000000007ed081f786d39446d9746d5c&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=8&sig=36bf3b5954d5b1ed1c41ae3b5b6fd725d3265dadb80cc88405e74313a65a8e1e&v=0)![](https://files.openai.com/content?id=file_000000007ed081f786d39446d9746d5c&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=8&sig=36bf3b5954d5b1ed1c41ae3b5b6fd725d3265dadb80cc88405e74313a65a8e1e&v=0)VercelSearch docs and deploy apps.](</business/plugins/vercel/>)[![](https://files.openai.com/content?id=file_000000004c0c81f78746051c8894e9f0&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=94634a13f89821846ddbbbaa5e99aadc55c2198ec4b4dbd453217f71362d0950&v=0)![](https://files.openai.com/content?id=file_000000004c0c81f78746051c8894e9f0&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=94634a13f89821846ddbbbaa5e99aadc55c2198ec4b4dbd453217f71362d0950&v=0)DocumentsCreate and edit documents](</business/plugins/documents/>)
+[![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)Product DesignTurn product ideas into designs and research artifacts](</business/plugins/product-design/>)[![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)DataAnswer questions with data](</business/plugins/data/>)[![](https://files.openai.com/content?id=file_000000002684720c81b0d1d022c3dfd2&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=1&sig=4e111632389ebc732936b83f809c131e3a5fa201ca4cb43c8ea9b6fa2d62a87e&v=0)![](https://files.openai.com/content?id=file_00000000cba0822fa2188c4c599f4181&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=1&sig=34a683b818c6593bfcc47dd950aaadc850fbd5861b79f237b4627d27372983d1&v=0)GitHubAccess repositories, issues, and pull requests](</business/plugins/github/>)[![](https://files.openai.com/content?id=file_0000000021547230b7f5dfd4accb4de5&cdn=1&cp=pi&ma=31190400&ts=0&p=pi&cid=1&sig=dea02d9468c390a41124840b9b7cd6f54576f35b34b1ffe98d4ae90668efa963&v=0)![](https://files.openai.com/content?id=file_0000000021547230b7f5dfd4accb4de5&cdn=1&cp=pi&ma=31190400&ts=0&p=pi&cid=1&sig=dea02d9468c390a41124840b9b7cd6f54576f35b34b1ffe98d4ae90668efa963&v=0)LinearFind and reference issues and projects](</business/plugins/linear/>)[![](https://files.openai.com/content?id=file_000000007ed081f786d39446d9746d5c&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=8&sig=36bf3b5954d5b1ed1c41ae3b5b6fd725d3265dadb80cc88405e74313a65a8e1e&v=0)![](https://files.openai.com/content?id=file_000000007ed081f786d39446d9746d5c&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=8&sig=36bf3b5954d5b1ed1c41ae3b5b6fd725d3265dadb80cc88405e74313a65a8e1e&v=0)VercelSearch docs and deploy apps](</business/plugins/vercel/>)[![](https://files.openai.com/content?id=file_000000004c0c81f78746051c8894e9f0&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=94634a13f89821846ddbbbaa5e99aadc55c2198ec4b4dbd453217f71362d0950&v=0)![](https://files.openai.com/content?id=file_000000004c0c81f78746051c8894e9f0&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=94634a13f89821846ddbbbaa5e99aadc55c2198ec4b4dbd453217f71362d0950&v=0)DocumentsCreate and edit documents](</business/plugins/documents/>)
 
 ## Get started with plugins
 
@@ -116,10 +116,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -138,7 +138,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -185,6 +186,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

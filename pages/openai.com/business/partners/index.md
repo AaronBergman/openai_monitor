@@ -38,6 +38,8 @@ Already a partner? [_Log in →_ ⁠(opens in a new window)](<https://partners.o
 
 [Accenture Federal Services![Accenture Federal Services logo](https://images.ctfassets.net/kftzwdyauwt9/1bV7hMj7OBsW1oEKNRZvNa/bf80e051f64f09f35eda929d4644ff7c/accenture-federal-services-square-light.svg?w=3840&q=90)](</business/partners/accenture-federal-services/>)
 
+[Affinda![Affinda logo](https://images.ctfassets.net/kftzwdyauwt9/1EFx5TJNumtPfwCu764Fee/65f04b41b3dd2417bec0138113db8bb2/affinda-logo-square-light.svg?w=3840&q=90)](</business/partners/affinda/>)
+
 [Aiworks![Aiworks logo](https://images.ctfassets.net/kftzwdyauwt9/1BFM7GTbhx2wh1BzVFoiDM/348f12a321bcbe6d06c3c4c521523ba7/aiworks-square-light.svg?w=3840&q=90)](</business/partners/aiworks/>)
 
 [Algorithmic Intelligence![Algorithmic Intelligence, Pte. Ltd. logo](https://images.ctfassets.net/kftzwdyauwt9/1J3EYnwuji3gkYwsFolOqc/b75f58ecebdcf4112bb2e4634525ca47/algorithmic-intelligence-square-light.svg?w=3840&q=90)](</business/partners/algorithmic-intelligence/>)
@@ -124,6 +126,8 @@ Databricks
 
 [McKinsey & Company![McKinsey & Company logo](https://images.ctfassets.net/kftzwdyauwt9/6Z4q8mSHnaA4SfqLCTUNQt/6cfa8ebfa66f186895fb93c12c5a1ce6/mckinsey-company-square-light.svg?w=3840&q=90)](</business/partners/mckinsey-and-company/>)
 
+[MegazoneCloud![MegazoneCloud logo](https://images.ctfassets.net/kftzwdyauwt9/KwnXjUFaD9DczFkvx2SRq/a6e7450badf517288baaebc4c18cb6ba/MegazoneCloud_square_light.svg?w=3840&q=90)](</business/partners/megazonecloud/>)
+
 [Merantix Momentum![Merantix Momentum logo](https://images.ctfassets.net/kftzwdyauwt9/55C7XYTNrYu5sgL1I48JSC/6d1cd7a97343ecd907fd9810d113c6a4/merantix-momentum-square-light.svg?w=3840&q=90)](</business/partners/merantix-momentum/>)
 
 [ML6![ML6 logo](https://images.ctfassets.net/kftzwdyauwt9/2a4BTwNCZiYVRhFl4ueZKM/c135d9c0722c1266b870871473af26fe/ml6-square-light.svg?w=3840&q=90)](</business/partners/ml6/>)
@@ -133,8 +137,6 @@ Databricks
 [Nagarro![Nagarro square logo](https://images.ctfassets.net/kftzwdyauwt9/ii271qmQ49t4oeUmkczwL/21e9a8a94ef9b8492bb533bb8cc787ff/square-light.svg?w=3840&q=90)](</business/partners/nagarro/>)
 
 [NTT DATA![NTT DATA logo](https://images.ctfassets.net/kftzwdyauwt9/4mU16WlH0VDLJE5rOMA8sw/2cd075f9af2dc5273f01fd605b1332d6/ntt-data-square-light.svg?w=3840&q=90)](</business/partners/ntt-data/>)
-
-[Pathfindr![Pathfindr logo](https://images.ctfassets.net/kftzwdyauwt9/5lqoMzOw4EfPUWi4z1PS5m/aab78dace7955528f7854b24feffba82/pathfindr-square-light.svg?w=3840&q=90)](</business/partners/pathfindr/>)
 
 [PwC![PwC logo](https://images.ctfassets.net/kftzwdyauwt9/5BFMsQmqE7Ua8oJBrFUumf/e4db788c32743ab8458efcd4d47d0030/pwc-square-light.svg?w=3840&q=90)](</business/partners/pwc/>)
 
@@ -184,6 +186,8 @@ Snowflake
 
 [Accenture Federal Services![Accenture Federal Services logo](https://images.ctfassets.net/kftzwdyauwt9/1bV7hMj7OBsW1oEKNRZvNa/bf80e051f64f09f35eda929d4644ff7c/accenture-federal-services-square-light.svg?w=3840&q=90)](</business/partners/accenture-federal-services/>)
 
+[Affinda![Affinda logo](https://images.ctfassets.net/kftzwdyauwt9/1EFx5TJNumtPfwCu764Fee/65f04b41b3dd2417bec0138113db8bb2/affinda-logo-square-light.svg?w=3840&q=90)](</business/partners/affinda/>)
+
 [Aiworks![Aiworks logo](https://images.ctfassets.net/kftzwdyauwt9/1BFM7GTbhx2wh1BzVFoiDM/348f12a321bcbe6d06c3c4c521523ba7/aiworks-square-light.svg?w=3840&q=90)](</business/partners/aiworks/>)
 
 [Algorithmic Intelligence![Algorithmic Intelligence, Pte. Ltd. logo](https://images.ctfassets.net/kftzwdyauwt9/1J3EYnwuji3gkYwsFolOqc/b75f58ecebdcf4112bb2e4634525ca47/algorithmic-intelligence-square-light.svg?w=3840&q=90)](</business/partners/algorithmic-intelligence/>)
@@ -270,6 +274,8 @@ Databricks
 
 [McKinsey & Company![McKinsey & Company logo](https://images.ctfassets.net/kftzwdyauwt9/6Z4q8mSHnaA4SfqLCTUNQt/6cfa8ebfa66f186895fb93c12c5a1ce6/mckinsey-company-square-light.svg?w=3840&q=90)](</business/partners/mckinsey-and-company/>)
 
+[MegazoneCloud![MegazoneCloud logo](https://images.ctfassets.net/kftzwdyauwt9/KwnXjUFaD9DczFkvx2SRq/a6e7450badf517288baaebc4c18cb6ba/MegazoneCloud_square_light.svg?w=3840&q=90)](</business/partners/megazonecloud/>)
+
 [Merantix Momentum![Merantix Momentum logo](https://images.ctfassets.net/kftzwdyauwt9/55C7XYTNrYu5sgL1I48JSC/6d1cd7a97343ecd907fd9810d113c6a4/merantix-momentum-square-light.svg?w=3840&q=90)](</business/partners/merantix-momentum/>)
 
 [ML6![ML6 logo](https://images.ctfassets.net/kftzwdyauwt9/2a4BTwNCZiYVRhFl4ueZKM/c135d9c0722c1266b870871473af26fe/ml6-square-light.svg?w=3840&q=90)](</business/partners/ml6/>)
@@ -279,8 +285,6 @@ Databricks
 [Nagarro![Nagarro square logo](https://images.ctfassets.net/kftzwdyauwt9/ii271qmQ49t4oeUmkczwL/21e9a8a94ef9b8492bb533bb8cc787ff/square-light.svg?w=3840&q=90)](</business/partners/nagarro/>)
 
 [NTT DATA![NTT DATA logo](https://images.ctfassets.net/kftzwdyauwt9/4mU16WlH0VDLJE5rOMA8sw/2cd075f9af2dc5273f01fd605b1332d6/ntt-data-square-light.svg?w=3840&q=90)](</business/partners/ntt-data/>)
-
-[Pathfindr![Pathfindr logo](https://images.ctfassets.net/kftzwdyauwt9/5lqoMzOw4EfPUWi4z1PS5m/aab78dace7955528f7854b24feffba82/pathfindr-square-light.svg?w=3840&q=90)](</business/partners/pathfindr/>)
 
 [PwC![PwC logo](https://images.ctfassets.net/kftzwdyauwt9/5BFMsQmqE7Ua8oJBrFUumf/e4db788c32743ab8458efcd4d47d0030/pwc-square-light.svg?w=3840&q=90)](</business/partners/pwc/>)
 
@@ -528,15 +532,15 @@ improved conversion-to-scheduled-visit rate for Docplanner
 
 ### [Introducing the OpenAI Partner NetworkLearn more](<https://openai.com/index/introducing-openai-partner-network/>)
 
-### [Enterprise AI Adoption: Moving from Experimentation to Transformation with Bain & CompanyLearn more](<https://forum.openai.com/public/events/enterprise-ai-adoption-moving-from-experimentation-to-transformation-id9miiqyns>)
+### [Enterprise AI Adoption: Moving from Experimentation to Transformation with Bain & CompanyLearn more(opens in a new window)](<https://forum.openai.com/public/events/enterprise-ai-adoption-moving-from-experimentation-to-transformation-id9miiqyns>)
 
 ### [OpenAI models, Codex, and Managed Agents come to AWSLearn more](<https://openai.com/index/openai-on-aws/>)
 
-### [Virgin Atlantic Joins OpenAI and Tomoro to Launch the World’s First Airline Experience in ChatGPTLearn more](<https://www.travelandtourworld.com/news/article/pb5yrwuwwvro/>)
+### [Virgin Atlantic Joins OpenAI and Tomoro to Launch the World’s First Airline Experience in ChatGPTLearn more(opens in a new window)](<https://www.travelandtourworld.com/news/article/pb5yrwuwwvro/>)
 
-### [How PwC is working with law firm Hugh James to empower employees using OpenAILearn more](<https://www.pwc.co.uk/services/technology/generative-artificial-intelligence/hugh-james.html>)
+### [How PwC is working with law firm Hugh James to empower employees using OpenAILearn more(opens in a new window)](<https://www.pwc.co.uk/services/technology/generative-artificial-intelligence/hugh-james.html>)
 
-### [Context engineering with OpenAI: How enterprises make AI agents production-readyLearn more](<https://fractal.ai/blog/context-engineering-openai/>)
+### [Context engineering with OpenAI: How enterprises make AI agents production-readyLearn more(opens in a new window)](<https://fractal.ai/blog/context-engineering-openai/>)
 
 ## Join the OpenAI Partner Network
 
@@ -554,10 +558,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -576,7 +580,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -623,6 +628,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

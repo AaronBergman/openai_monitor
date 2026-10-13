@@ -32,7 +32,7 @@ OpenAI
 
 # Klaviyo
 
-Use the Klaviyo plugin to review campaign and flow performance, compare marketing results over time, and summarize supported marketing data.
+Get insights on your marketing
 
 [Install plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_694421e60cc88191a1e5bb4aa79950e4>)[Contact sales](</contact-sales/>)
 
@@ -45,11 +45,11 @@ Developer
 Website
     [(opens in a new window)](<https://www.klaviyo.com/>)
 
-[![](https://files.openai.com/content?id=file_000000001c74722fbf559d66b947677a&cdn=1&cp=pi&ma=30758400&ts=0&p=pi&cid=1&sig=c3949f45a99526b86e23253607118e8e4a255ccfa0d5b10d2a7e57c92d57e295&v=0)![](https://files.openai.com/content?id=file_0000000058f881f79ad4d119015bfa7c&cdn=1&cp=pi&ma=32659200&ts=0&p=pi&cid=8&sig=7ad389ade1c1fb108f1aa27b3c107e33432079c726d59206f69159c7d103502d&v=0)Klaviyo Analyze my replenishment flow and make recommendations for improvements.(opens in a new window)](<https://chatgpt.com/?prompt=%40Klaviyo+Analyze+my+replenishment+flow+and+make+recommendations+for+improvements.>)
+[![](https://files.openai.com/content?id=file_000000001c74722fbf559d66b947677a&cdn=1&cp=pi&ma=30758400&ts=0&p=pi&cid=1&sig=c3949f45a99526b86e23253607118e8e4a255ccfa0d5b10d2a7e57c92d57e295&v=0)![](https://files.openai.com/content?id=file_0000000058f881f79ad4d119015bfa7c&cdn=1&cp=pi&ma=32659200&ts=0&p=pi&cid=8&sig=7ad389ade1c1fb108f1aa27b3c107e33432079c726d59206f69159c7d103502d&v=0)Klaviyo Analyze my replenishment flow and make recommendations for improvements.(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_694421e60cc88191a1e5bb4aa79950e4?install&prompt=Analyze%20my%20replenishment%20flow%20and%20make%20recommendations%20for%20improvements.>)
 
 ## How it works
 
-View email and SMS campaign and flow performance from Klaviyo in ChatGPT, with metrics tables and plain-language summaries to understand recent and past results.
+Skip manual analysis with marketing campaign and flow performance, explanations, and recommendations directly in ChatGPT. Reporting includes send status, click rates, and attributed revenue, alongside plain language context. Just click "Analyze" to dive into trends and suggestions. With the Klaviyo app, you'll stay informed on performance, ahead of opportunities, and ready to take action directly from a conversation.
 
 ## What else can you do?
 
@@ -57,19 +57,19 @@ View email and SMS campaign and flow performance from Klaviyo in ChatGPT, with m
 
 ![](https://files.openai.com/content?id=file_000000001c74722fbf559d66b947677a&cdn=1&cp=pi&ma=30758400&ts=0&p=pi&cid=1&sig=c3949f45a99526b86e23253607118e8e4a255ccfa0d5b10d2a7e57c92d57e295&v=0)![](https://files.openai.com/content?id=file_0000000058f881f79ad4d119015bfa7c&cdn=1&cp=pi&ma=32659200&ts=0&p=pi&cid=8&sig=7ad389ade1c1fb108f1aa27b3c107e33432079c726d59206f69159c7d103502d&v=0)Klaviyo Give me a campaign performance report for last week [add dates] across all of my campaigns; overall metrics and per campaign.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Klaviyo+Give+me+a+campaign+performance+report+for+last+week+%5Badd+dates%5D+across+all+of+my+campaigns%3B+overall+metrics+and+per+campaign.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_694421e60cc88191a1e5bb4aa79950e4?install&prompt=Give%20me%20a%20campaign%20performance%20report%20for%20last%20week%20%5Badd%20dates%5D%20across%20all%20of%20my%20campaigns%3B%20overall%20metrics%20and%20per%20campaign.&surface=work>)
 
   * ### Compare performance over time
 
 ![](https://files.openai.com/content?id=file_000000001c74722fbf559d66b947677a&cdn=1&cp=pi&ma=30758400&ts=0&p=pi&cid=1&sig=c3949f45a99526b86e23253607118e8e4a255ccfa0d5b10d2a7e57c92d57e295&v=0)![](https://files.openai.com/content?id=file_0000000058f881f79ad4d119015bfa7c&cdn=1&cp=pi&ma=32659200&ts=0&p=pi&cid=8&sig=7ad389ade1c1fb108f1aa27b3c107e33432079c726d59206f69159c7d103502d&v=0)Klaviyo Compare email and SMS campaigns for the last 30 days with the previous 30 days. Separate results by channel and show available engagement metrics, conversion rates, and attributed revenue.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Klaviyo+Compare+email+and+SMS+campaigns+for+the+last+30+days+with+the+previous+30+days.+Separate+results+by+channel+and+show+available+engagement+metrics%2C+conversion+rates%2C+and+attributed+revenue.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_694421e60cc88191a1e5bb4aa79950e4?install&prompt=Compare%20email%20and%20SMS%20campaigns%20for%20the%20last%2030%20days%20with%20the%20previous%2030%20days.%20Separate%20results%20by%20channel%20and%20show%20available%20engagement%20metrics%2C%20conversion%20rates%2C%20and%20attributed%20revenue.&surface=work>)
 
   * ### Summarize marketing results
 
 ![](https://files.openai.com/content?id=file_000000001c74722fbf559d66b947677a&cdn=1&cp=pi&ma=30758400&ts=0&p=pi&cid=1&sig=c3949f45a99526b86e23253607118e8e4a255ccfa0d5b10d2a7e57c92d57e295&v=0)![](https://files.openai.com/content?id=file_0000000058f881f79ad4d119015bfa7c&cdn=1&cp=pi&ma=32659200&ts=0&p=pi&cid=8&sig=7ad389ade1c1fb108f1aa27b3c107e33432079c726d59206f69159c7d103502d&v=0)Klaviyo Summarize email and SMS performance for the last 30 days and call out the biggest wins and misses.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Klaviyo+Summarize+email+and+SMS+performance+for+the+last+30+days+and+call+out+the+biggest+wins+and+misses.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_694421e60cc88191a1e5bb4aa79950e4?install&prompt=Summarize%20email%20and%20SMS%20performance%20for%20the%20last%2030%20days%20and%20call%20out%20the%20biggest%20wins%20and%20misses.&surface=work>)
 
 
 
@@ -84,11 +84,11 @@ View email and SMS campaign and flow performance from Klaviyo in ChatGPT, with m
 
 ## Resources
 
-### [Help centerLearn more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
+### [Help centerLearn more(opens in a new window)](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
 
-### [Plugin supportLearn more](<https://www.klaviyo.com/support>)
+### [Plugin supportLearn more(opens in a new window)](<https://www.klaviyo.com/support>)
 
-### [Privacy policyLearn more](<https://privacy.klaviyo.com/policies/en/>)
+### [Privacy policyLearn more(opens in a new window)](<https://privacy.klaviyo.com/policies/en/>)
 
 ## Add the Klaviyo plugin in a few clicks
 
@@ -98,7 +98,7 @@ Availability depends on the plugin, your plan, and workspace settings. Some conn
 
 ## Explore related plugins
 
-[![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)DataTurn data into clear decisions.](</business/plugins/data/>)[![](https://files.openai.com/content?id=file_00000000bdb4720caff269fd259bbdff&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=20268aaf4f0c92265b5b4945d13a456968c0e1a5013b3be043a94650a9b37e03&v=0)![](https://files.openai.com/content?id=file_00000000bdb4720caff269fd259bbdff&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=20268aaf4f0c92265b5b4945d13a456968c0e1a5013b3be043a94650a9b37e03&v=0)Creative ProductionUse the Creative Production plugin in ChatGPT to create, adapt, and review marketing assets, campaign concepts, ads, and launch creative.](</business/plugins/creative-production/>)[![](https://files.openai.com/content?id=file_00000000191081f79dfeddb7b502b1bf&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=3e3f6f7a793416cd9a93e61c94c2bd4631dd37631f592d4e774aa254e2b1c9b7&v=0)![](https://files.openai.com/content?id=file_00000000191081f79dfeddb7b502b1bf&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=3e3f6f7a793416cd9a93e61c94c2bd4631dd37631f592d4e774aa254e2b1c9b7&v=0)SalesPrepare account work and customer follow-up.](</business/plugins/sales/>)[![](https://files.openai.com/content?id=file_00000000c8c881f6b1898c574dac4e10&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=8&sig=5893839a27316a5af69bb3d001943b0ec293a3c64279d9ec08803564a1d9b16b&v=0)![](https://files.openai.com/content?id=file_000000006ab081f793cba420e30fd6aa&cdn=1&cp=pi&ma=30672000&ts=0&p=pi&cid=8&sig=abab6e040ce7a4e418276d0f37dcc1cfe7194cf719a08826f8b043598e18c0f9&v=0)ShopifyCreate and manage your store](</business/plugins/shopify/>)[![](https://files.openai.com/content?id=file_000000000ee871fd807d17a056d79aa7&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=1&sig=07ea3990463c5d5c58deba9d55d8dfa10178b2a1cabb20fb0fdcf93fc218472b&v=0)![](https://files.openai.com/content?id=file_000000000ee871fd807d17a056d79aa7&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=1&sig=07ea3990463c5d5c58deba9d55d8dfa10178b2a1cabb20fb0fdcf93fc218472b&v=0)CanvaSearch, create, and edit designs.](</business/plugins/canva/>)[![](https://files.openai.com/content?id=file_000000004e58720cb8bbfc0978e3367e&cdn=1&cp=pi&ma=30758400&ts=0&p=pi&cid=1&sig=1b0376e78ef2e4f6f05a5b9bc138133fa5d468103e983c1f706341fe5f2293a7&v=0)![](https://files.openai.com/content?id=file_00000000c73081f7bf9eb20dcfc0bf64&cdn=1&cp=pi&ma=31363200&ts=0&p=pi&cid=8&sig=d62b12c0280b3d8053803e8a8fdf394b4f0e4e6c9bec46234bcbe8d3c1908747&v=0)Coupler.ioConnect and analyze data from 400+ apps.](</business/plugins/coupler-io/>)
+[![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)DataAnswer questions with data](</business/plugins/data/>)[![](https://files.openai.com/content?id=file_00000000bdb4720caff269fd259bbdff&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=20268aaf4f0c92265b5b4945d13a456968c0e1a5013b3be043a94650a9b37e03&v=0)![](https://files.openai.com/content?id=file_00000000bdb4720caff269fd259bbdff&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=20268aaf4f0c92265b5b4945d13a456968c0e1a5013b3be043a94650a9b37e03&v=0)Creative ProductionUse the Creative Production plugin in ChatGPT to create, adapt, and review marketing assets, campaign concepts, ads, and launch creative](</business/plugins/creative-production/>)[![](https://files.openai.com/content?id=file_00000000191081f79dfeddb7b502b1bf&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=3e3f6f7a793416cd9a93e61c94c2bd4631dd37631f592d4e774aa254e2b1c9b7&v=0)![](https://files.openai.com/content?id=file_00000000191081f79dfeddb7b502b1bf&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=3e3f6f7a793416cd9a93e61c94c2bd4631dd37631f592d4e774aa254e2b1c9b7&v=0)SalesPrepare account work and customer follow-up](</business/plugins/sales/>)[![](https://files.openai.com/content?id=file_00000000c8c881f6b1898c574dac4e10&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=8&sig=5893839a27316a5af69bb3d001943b0ec293a3c64279d9ec08803564a1d9b16b&v=0)![](https://files.openai.com/content?id=file_000000006ab081f793cba420e30fd6aa&cdn=1&cp=pi&ma=30672000&ts=0&p=pi&cid=8&sig=abab6e040ce7a4e418276d0f37dcc1cfe7194cf719a08826f8b043598e18c0f9&v=0)ShopifyCreate and manage your store](</business/plugins/shopify/>)[![](https://files.openai.com/content?id=file_000000000ee871fd807d17a056d79aa7&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=1&sig=07ea3990463c5d5c58deba9d55d8dfa10178b2a1cabb20fb0fdcf93fc218472b&v=0)![](https://files.openai.com/content?id=file_000000000ee871fd807d17a056d79aa7&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=1&sig=07ea3990463c5d5c58deba9d55d8dfa10178b2a1cabb20fb0fdcf93fc218472b&v=0)CanvaSearch, create, and edit designs](</business/plugins/canva/>)[![](https://files.openai.com/content?id=file_000000004e58720cb8bbfc0978e3367e&cdn=1&cp=pi&ma=30758400&ts=0&p=pi&cid=1&sig=1b0376e78ef2e4f6f05a5b9bc138133fa5d468103e983c1f706341fe5f2293a7&v=0)![](https://files.openai.com/content?id=file_00000000c73081f7bf9eb20dcfc0bf64&cdn=1&cp=pi&ma=31363200&ts=0&p=pi&cid=8&sig=d62b12c0280b3d8053803e8a8fdf394b4f0e4e6c9bec46234bcbe8d3c1908747&v=0)Coupler.ioAnalyze data from 400+ apps](</business/plugins/coupler-io/>)
 
 ## Get started with plugins
 
@@ -116,10 +116,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -138,7 +138,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -185,6 +186,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 
