@@ -32,7 +32,7 @@ OpenAI
 
 # Cloudinary
 
-Manage, modify, and host your images and videos.
+Manage, modify, and host your images and videos
 
 [Install plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_691f245d4070819184e05b4889161ba8>)[Contact sales](</contact-sales/>)
 
@@ -45,7 +45,7 @@ Developer
 Website
     [(opens in a new window)](<https://cloudinary.com/>)
 
-[![](https://files.openai.com/content?id=file_000000007edc71f5b6e71a05d16220aa&cdn=1&cp=pi&ma=30585600&ts=0&p=pi&cid=1&sig=75532cd6420897161acc72328af06673960ff00435b9f4ed2d4a75c7194673a8&v=0)Cloudinary Upload this image and enable auto-tagging(opens in a new window)](<https://chatgpt.com/?prompt=%40Cloudinary+Upload+this+image+and+enable+auto-tagging>)
+[![](https://files.openai.com/content?id=file_000000007edc71f5b6e71a05d16220aa&cdn=1&cp=pi&ma=30585600&ts=0&p=pi&cid=1&sig=75532cd6420897161acc72328af06673960ff00435b9f4ed2d4a75c7194673a8&v=0)Cloudinary Upload this image and enable auto-tagging(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_691f245d4070819184e05b4889161ba8?install&prompt=Upload%20this%20image%20and%20enable%20auto-tagging>)
 
 ## How it works
 
@@ -57,19 +57,19 @@ Connect your Cloudinary account to ChatGPT to manage, search, and transform imag
 
 ![](https://files.openai.com/content?id=file_000000007edc71f5b6e71a05d16220aa&cdn=1&cp=pi&ma=30585600&ts=0&p=pi&cid=1&sig=75532cd6420897161acc72328af06673960ff00435b9f4ed2d4a75c7194673a8&v=0)Cloudinary Search my media library for assets tagged [tag] in folder [folder]. Return the top 10 results with file names, formats, dimensions, and last updated date.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Cloudinary+Search+my+media+library+for+assets+tagged+%5Btag%5D+in+folder+%5Bfolder%5D.+Return+the+top+10+results+with+file+names%2C+formats%2C+dimensions%2C+and+last+updated+date.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_691f245d4070819184e05b4889161ba8?install&prompt=Search%20my%20media%20library%20for%20assets%20tagged%20%5Btag%5D%20in%20folder%20%5Bfolder%5D.%20Return%20the%20top%2010%20results%20with%20file%20names%2C%20formats%2C%20dimensions%2C%20and%20last%20updated%20date.&surface=work>)
 
   * ### Transform images and videos
 
 ![](https://files.openai.com/content?id=file_000000007edc71f5b6e71a05d16220aa&cdn=1&cp=pi&ma=30585600&ts=0&p=pi&cid=1&sig=75532cd6420897161acc72328af06673960ff00435b9f4ed2d4a75c7194673a8&v=0)Cloudinary Take this asset and create optimized variants for web and social (e.g., 1200px, 1080px, 600px wide), using sensible crop and compression. Return the transformation URLs.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Cloudinary+Take+this+asset+and+create+optimized+variants+for+web+and+social+%28e.g.%2C+1200px%2C+1080px%2C+600px+wide%29%2C+using+sensible+crop+and+compression.+Return+the+transformation+URLs.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_691f245d4070819184e05b4889161ba8?install&prompt=Take%20this%20asset%20and%20create%20optimized%20variants%20for%20web%20and%20social%20\(e.g.%2C%201200px%2C%201080px%2C%20600px%20wide\)%2C%20using%20sensible%20crop%20and%20compression.%20Return%20the%20transformation%20URLs.&surface=work>)
 
   * ### Organize and manage media libraries
 
 ![](https://files.openai.com/content?id=file_000000007edc71f5b6e71a05d16220aa&cdn=1&cp=pi&ma=30585600&ts=0&p=pi&cid=1&sig=75532cd6420897161acc72328af06673960ff00435b9f4ed2d4a75c7194673a8&v=0)Cloudinary Create a folder structure for this campaign, move these assets into it, and add metadata fields for campaign, channel, and owner. Summarize what changed.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Cloudinary+Create+a+folder+structure+for+this+campaign%2C+move+these+assets+into+it%2C+and+add+metadata+fields+for+campaign%2C+channel%2C+and+owner.+Summarize+what+changed.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_691f245d4070819184e05b4889161ba8?install&prompt=Create%20a%20folder%20structure%20for%20this%20campaign%2C%20move%20these%20assets%20into%20it%2C%20and%20add%20metadata%20fields%20for%20campaign%2C%20channel%2C%20and%20owner.%20Summarize%20what%20changed.&surface=work>)
 
 
 
@@ -84,11 +84,11 @@ Connect your Cloudinary account to ChatGPT to manage, search, and transform imag
 
 ## Resources
 
-### [Help centerLearn more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
+### [Help centerLearn more(opens in a new window)](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
 
-### [Plugin supportLearn more](<https://cloudinary.com/documentation>)
+### [Plugin supportLearn more(opens in a new window)](<https://cloudinary.com/documentation>)
 
-### [Privacy policyLearn more](<https://cloudinary.com/privacy>)
+### [Privacy policyLearn more(opens in a new window)](<https://cloudinary.com/privacy>)
 
 ## Add the Cloudinary plugin in a few clicks
 
@@ -98,7 +98,7 @@ Availability depends on the plugin, your plan, and workspace settings. Some conn
 
 ## Explore related plugins
 
-[![](https://files.openai.com/content?id=file_00000000bdb4720caff269fd259bbdff&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=20268aaf4f0c92265b5b4945d13a456968c0e1a5013b3be043a94650a9b37e03&v=0)![](https://files.openai.com/content?id=file_00000000bdb4720caff269fd259bbdff&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=20268aaf4f0c92265b5b4945d13a456968c0e1a5013b3be043a94650a9b37e03&v=0)Creative ProductionUse the Creative Production plugin in ChatGPT to create, adapt, and review marketing assets, campaign concepts, ads, and launch creative.](</business/plugins/creative-production/>)[![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)Product DesignTurn product ideas into designs and research artifacts.](</business/plugins/product-design/>)[![](https://files.openai.com/content?id=file_0000000000b4720ca05473965adda507&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=1&sig=9c83a384615d57139ad7d061085b80c28688ba0a35d60b1bf150a24d56b4546d&v=0)![](https://files.openai.com/content?id=file_0000000001b471f5ad526d510a0feb96&cdn=1&cp=pi&ma=30585600&ts=0&p=pi&cid=1&sig=a778b150e22cd0e7791ca90fdccf9115ebd65e275bd6876c85ee9cd143a46b9c&v=0)AdobeDesign, combine, and edit](</business/plugins/adobe/>)[![](https://files.openai.com/content?id=file_000000000ee871fd807d17a056d79aa7&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=1&sig=07ea3990463c5d5c58deba9d55d8dfa10178b2a1cabb20fb0fdcf93fc218472b&v=0)![](https://files.openai.com/content?id=file_000000000ee871fd807d17a056d79aa7&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=1&sig=07ea3990463c5d5c58deba9d55d8dfa10178b2a1cabb20fb0fdcf93fc218472b&v=0)CanvaSearch, create, and edit designs.](</business/plugins/canva/>)[![](https://files.openai.com/content?id=file_000000002684720c81b0d1d022c3dfd2&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=1&sig=4e111632389ebc732936b83f809c131e3a5fa201ca4cb43c8ea9b6fa2d62a87e&v=0)![](https://files.openai.com/content?id=file_00000000cba0822fa2188c4c599f4181&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=1&sig=34a683b818c6593bfcc47dd950aaadc850fbd5861b79f237b4627d27372983d1&v=0)GitHubAccess repositories, issues, and pull requests.](</business/plugins/github/>)[![](https://files.openai.com/content?id=file_000000007ed081f786d39446d9746d5c&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=8&sig=36bf3b5954d5b1ed1c41ae3b5b6fd725d3265dadb80cc88405e74313a65a8e1e&v=0)![](https://files.openai.com/content?id=file_000000007ed081f786d39446d9746d5c&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=8&sig=36bf3b5954d5b1ed1c41ae3b5b6fd725d3265dadb80cc88405e74313a65a8e1e&v=0)VercelSearch docs and deploy apps.](</business/plugins/vercel/>)
+[![](https://files.openai.com/content?id=file_00000000bdb4720caff269fd259bbdff&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=20268aaf4f0c92265b5b4945d13a456968c0e1a5013b3be043a94650a9b37e03&v=0)![](https://files.openai.com/content?id=file_00000000bdb4720caff269fd259bbdff&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=20268aaf4f0c92265b5b4945d13a456968c0e1a5013b3be043a94650a9b37e03&v=0)Creative ProductionUse the Creative Production plugin in ChatGPT to create, adapt, and review marketing assets, campaign concepts, ads, and launch creative](</business/plugins/creative-production/>)[![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)Product DesignTurn product ideas into designs and research artifacts](</business/plugins/product-design/>)[![](https://files.openai.com/content?id=file_0000000000b4720ca05473965adda507&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=1&sig=9c83a384615d57139ad7d061085b80c28688ba0a35d60b1bf150a24d56b4546d&v=0)![](https://files.openai.com/content?id=file_0000000001b471f5ad526d510a0feb96&cdn=1&cp=pi&ma=30585600&ts=0&p=pi&cid=1&sig=a778b150e22cd0e7791ca90fdccf9115ebd65e275bd6876c85ee9cd143a46b9c&v=0)AdobeDesign, combine, and edit](</business/plugins/adobe/>)[![](https://files.openai.com/content?id=file_000000000ee871fd807d17a056d79aa7&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=1&sig=07ea3990463c5d5c58deba9d55d8dfa10178b2a1cabb20fb0fdcf93fc218472b&v=0)![](https://files.openai.com/content?id=file_000000000ee871fd807d17a056d79aa7&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=1&sig=07ea3990463c5d5c58deba9d55d8dfa10178b2a1cabb20fb0fdcf93fc218472b&v=0)CanvaSearch, create, and edit designs](</business/plugins/canva/>)[![](https://files.openai.com/content?id=file_000000002684720c81b0d1d022c3dfd2&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=1&sig=4e111632389ebc732936b83f809c131e3a5fa201ca4cb43c8ea9b6fa2d62a87e&v=0)![](https://files.openai.com/content?id=file_00000000cba0822fa2188c4c599f4181&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=1&sig=34a683b818c6593bfcc47dd950aaadc850fbd5861b79f237b4627d27372983d1&v=0)GitHubAccess repositories, issues, and pull requests](</business/plugins/github/>)[![](https://files.openai.com/content?id=file_000000007ed081f786d39446d9746d5c&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=8&sig=36bf3b5954d5b1ed1c41ae3b5b6fd725d3265dadb80cc88405e74313a65a8e1e&v=0)![](https://files.openai.com/content?id=file_000000007ed081f786d39446d9746d5c&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=8&sig=36bf3b5954d5b1ed1c41ae3b5b6fd725d3265dadb80cc88405e74313a65a8e1e&v=0)VercelSearch docs and deploy apps](</business/plugins/vercel/>)
 
 ## Get started with plugins
 
@@ -116,10 +116,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -138,7 +138,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -185,6 +186,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

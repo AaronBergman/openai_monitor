@@ -69,14 +69,23 @@ OpenAI welcomes the opportunity to work with the French Government, other G7 gov
 We believe strong AI youth safety frameworks, including any potential agreement reached at G7 convenings, should be led by principles that we are setting out here.
 
   1. **Companies should know when a user is a minor and apply age-appropriate protections.** This means requiring providers to use means such as effective, privacy-preserving age estimation to distinguish minors from adults, and defaulting to protective safeguards when a user’s age cannot be determined. Without this foundation, even the most well-intended youth protections may fail to reach the young people they are intended to protect.
+
   2. **Companies should regularly assess both risks and benefits for young people and take steps to address them—**** _before_****harm occurs.** This means requiring providers to complete annual youth safety risk assessments and implement proportionate safeguards based on the risks they identify. Such assessments should consider risks to young people based on their developmental stage, empirical evidence from actual use, and relevant research or regulatory guidance. Assessments should consider not only potential harms, but also whether AI is supporting positive outcomes such as learning, creativity, skill development, and access to opportunity.
+
   3. **Parents and guardians should have accessible, easy-to-use controls to help them guide their children’s experiences while supporting age-appropriate independence.** These should include tools to manage key settings, including memory, data use, and time limits. Parental tools should be actively promoted so parents know they exist and understand how to use them. 
+
   4. **Families deserve clear, understandable information about how companies are protecting young users and provide meaningful information about both the benefits and risks of AI use by young people.** Companies should publish safety policies that explain what safeguards are in place to protect young people, parental tools available, and how protections are updated as risks evolve. This transparency builds trust and helps parents make informed choices.
+
   5. **Companies should have clear protocols in place to address serious safety situations including self-harm, exploitation, grooming, sexually exploitative content, and other high-risk interactions.** These should include in-service support, referrals to appropriate resources, and timely parental notifications when appropriate. Companies should also design their systems to prevent them from generating content that is unsafe or developmentally inappropriate for kids, including graphic sexual or violent material. 
+
   6. **AI systems used by young people should be designed to support learning, development, and real-world relationships—not replace them.** AI should serve as a tool that helps young people learn, create, build skills, and prepare for the future. At the same time, companies should establish clear boundaries in areas where healthy development depends on human judgment, real-world relationships, and professional support.
+
   7. **The personal information of minors should be protected.** This means prohibiting privacy-invasive, targeted advertising to young people, and barring companies from selling personal information.
+
   8. **Youth safety frameworks should promote opportunity, literacy, and protection.** Young people should have access to AI tools that support learning, creativity, skill development, and future opportunity, while also being equipped with the knowledge and critical-thinking skills needed to use AI safely and responsibly. This includes promoting AI literacy and helping young people understand the opportunities and limitations of AI systems, so they can engage confidently and responsibly in digital spaces.
+
   9. **Strong accountability mechanisms, including independent audits, are essential to ensure these protections are meaningful in practice.** Audits should be underpinned by a set of common standards that allow for interoperable audits across jurisdictions. Legislative frameworks should include oversight and enforcement measures that allow governments to assess whether companies are effectively implementing youth safety safeguards, mitigating identified risks, and complying with youth safety and privacy obligations.
+
 
 
 
@@ -100,15 +109,17 @@ OpenAI
 
 [View all](</news/>)
 
-[The Hugging Face incident and the road aheadSecurityAug 26, 2026](</index/hugging-face-incident-and-the-road-ahead/>)
+![Disrupting AI-enabled “false front” operations — cover](https://images.ctfassets.net/kftzwdyauwt9/DQdWPLtWbsq27D3JQPXZR/866ddf9dbac46c29308afa0f381bc17d/false-front-operations-cover.png?w=3840&q=90&fm=webp)
 
-![DMUA Russia > card image ](https://images.ctfassets.net/kftzwdyauwt9/ciRSLFnJsNyxXYQjdoyqu/ff8ab22ad273ff79a4c9840f0c209fe6/Frame.png?w=3840&q=90&fm=webp)
+[Disrupting AI-enabled “false front” operationsSafetyOct 8, 2026](</index/disrupting-ai-enabled-false-front-operations/>)
 
-[Disrupting a new covert influence campaign from RussiaGlobal AffairsAug 25, 2026](</index/disrupting-malicious-uses-of-ai-influence-campaign-russia/>)
+![Our approach to EU provenance rules ](https://images.ctfassets.net/kftzwdyauwt9/uKx7OoL1QHDbl0T3GSTZG/0dd587131d067b16e32a9d0196d1ff52/our-approach-to-eu-provenance-rules-cover.png?w=3840&q=90&fm=webp)
 
-![Our commitment to Zero Data Retention as AI advances — card](https://images.ctfassets.net/kftzwdyauwt9/6bPStWA6pc66cahnhg0jo6/61786b178401b6e902e9da65fa4da095/Blog_Thumbnail_-_OpenAI_Blog.png?w=3840&q=90&fm=webp)
+[Our approach to EU text provenance rulesSafetyOct 5, 2026](</index/eu-text-provenance/>)
 
-[Offering Zero Data Retention for frontier modelsCompanyAug 19, 2026](</index/offering-zero-data-retention-for-frontier-models/>)
+![Helping small businesses put AI to work — card](https://images.ctfassets.net/kftzwdyauwt9/7DQxQ61fzFDJjB09z1T6Xx/41d00e7e9ad08ba9fdd9f4d69071a3e8/helping-small-businesses-put-ai-to-work-cover.png?w=3840&q=90&fm=webp)
+
+[Helping small businesses put AI to workGlobal AffairsSep 30, 2026](</index/helping-small-businesses-put-ai-to-work/>)
 
 Research
 
@@ -120,9 +131,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -141,7 +153,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -159,6 +172,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -187,6 +201,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

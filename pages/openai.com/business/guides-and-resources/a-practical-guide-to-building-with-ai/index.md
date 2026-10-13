@@ -26,6 +26,8 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 OpenAI
 
+January 15, 2026
+
 Guides
 
 # A practical guide to building with GPT‑5
@@ -111,15 +113,15 @@ The Responses API is the unified surface for working with GPT‑5. To maximize p
 
 ###### Getting started with Responses API
 
-### [Responses APIWhy we build the Responses API.Learn more](<https://developers.openai.com/blog/responses-api>)
+### [Responses APIWhy we build the Responses API.Learn more(opens in a new window)](<https://developers.openai.com/blog/responses-api>)
 
-### [Reasoning Models on the Responses APIInstructions on passing reasoning tokens, caching, and unlocking more intelligence.Learn more](<https://cookbook.openai.com/examples/responses_api/reasoning_items>)
+### [Reasoning Models on the Responses APIInstructions on passing reasoning tokens, caching, and unlocking more intelligence.Learn more(opens in a new window)](<https://cookbook.openai.com/examples/responses_api/reasoning_items>)
 
-### [Migration GuideStep-by-step instructions to move from Completions to Responses.Learn more](<https://platform.openai.com/docs/guides/migrate-to-responses#page-top>)
+### [Migration GuideStep-by-step instructions to move from Completions to Responses.Learn more(opens in a new window)](<https://platform.openai.com/docs/guides/migrate-to-responses#page-top>)
 
-### [Codex CLI ToolkitOpen-sourced tools to automate and streamline migration.Learn more](<https://github.com/openai/completions-responses-migration-pack>)
+### [Codex CLI ToolkitOpen-sourced tools to automate and streamline migration.Learn more(opens in a new window)](<https://github.com/openai/completions-responses-migration-pack>)
 
-### [Build Hour DemoSee GPT-5 in action on the Responses API.Learn more](<https://www.youtube.com/watch?feature=shared&t=304&v=ITMouQ_EuXI&themeRefresh=1>)
+### [Build Hour DemoSee GPT-5 in action on the Responses API.Learn more(opens in a new window)](<https://www.youtube.com/watch?feature=shared&t=304&v=ITMouQ_EuXI&themeRefresh=1>)
 
 * * *
 
@@ -147,11 +149,11 @@ When prompts work reliably, lock them into reusable templates or a prompt librar
 
 ###### Getting started with prompt optimization
 
-### [GPT-5 Prompting GuideBest practices for crafting powerful promptsLearn more](<https://cookbook.openai.com/examples/gpt-5/gpt-5_prompting_guide>)
+### [GPT-5 Prompting GuideBest practices for crafting powerful promptsLearn more(opens in a new window)](<https://cookbook.openai.com/examples/gpt-5/gpt-5_prompting_guide>)
 
-### [Building Hour DemoLive example of GPT-5 in actionLearn more](<https://www.youtube.com/watch?v=ITMouQ_EuXI&t=1528s>)
+### [Building Hour DemoLive example of GPT-5 in actionLearn more(opens in a new window)](<https://www.youtube.com/watch?v=ITMouQ_EuXI&t=1528s>)
 
-### [Prompt Optimization ToolInteractive playground to refine promptsLearn more](<https://platform.openai.com/chat/edit?models=gpt-5&optimize=true>)
+### [Prompt Optimization ToolInteractive playground to refine promptsLearn more(opens in a new window)](<https://platform.openai.com/chat/edit?models=gpt-5&optimize=true>)
 
 * * *
 
@@ -173,17 +175,17 @@ GPT‑5 is highly steerable. These parameters give you more control over model b
 
 ###### New & enhanced capabilities
 
-### [GPT-5 Build HourLive coding session showcasing GPT-5 capabilities.Learn more](<https://youtu.be/ITMouQ_EuXI?feature=shared&t=151>)
+### [GPT-5 Build HourLive coding session showcasing GPT-5 capabilities.Learn more(opens in a new window)](<https://youtu.be/ITMouQ_EuXI?feature=shared&t=151>)
 
-### [Using GPT-5Quick guide to get started and build effectively.Learn more](<https://platform.openai.com/docs/guides/latest-model#page-top>)
+### [Using GPT-5Quick guide to get started and build effectively.Learn more(opens in a new window)](<https://platform.openai.com/docs/guides/latest-model#page-top>)
 
-### [New parameters and toolsOverview of the latest features and settings.Learn more](<https://cookbook.openai.com/examples/gpt-5/gpt-5_new_params_and_tools>)
+### [New parameters and toolsOverview of the latest features and settings.Learn more(opens in a new window)](<https://cookbook.openai.com/examples/gpt-5/gpt-5_new_params_and_tools>)
 
-### [PreamblesTips for setting strong context in prompts.Learn more](<https://cookbook.openai.com/examples/gpt-5/gpt-5_prompting_guide#tool-preambles>)
+### [PreamblesTips for setting strong context in prompts.Learn more(opens in a new window)](<https://cookbook.openai.com/examples/gpt-5/gpt-5_prompting_guide#tool-preambles>)
 
-### [Latency optimizationTechniques to speed up responses.Learn more](<https://platform.openai.com/docs/guides/latency-optimization#page-top>)
+### [Latency optimizationTechniques to speed up responses.Learn more(opens in a new window)](<https://platform.openai.com/docs/guides/latency-optimization#page-top>)
 
-### [Cost optimizationStrategies to reduce usage costs.Learn more](<https://platform.openai.com/docs/guides/cost-optimization#page-top>)
+### [Cost optimizationStrategies to reduce usage costs.Learn more(opens in a new window)](<https://platform.openai.com/docs/guides/cost-optimization#page-top>)
 
 * * *
 
@@ -220,17 +222,17 @@ Learn how we help companies build scalable, responsible AI strategies.
 
 [View all](</news/>)
 
-![How agents are transforming work > Cover image](https://images.ctfassets.net/kftzwdyauwt9/7hmtkjKv0DxS4Yt8mQZju2/c168bfa2010da64bcc9dd60d6b5491e8/Art_Card__1_.png?w=3840&q=90&fm=webp)
+![A model guide for the GPT-6 family — Card image](https://images.ctfassets.net/kftzwdyauwt9/4I32Z0klAF95wPuspoHaxb/7388860bce7773838eb20317fda1a937/6tbusrroo8ljxic8ceybig-cover.png?w=3840&q=90&fm=webp)
 
-[How agents are transforming workCompanyJun 25, 2026](</index/how-agents-are-transforming-work/>)
+[A practical guide to building with GPT-6ProductOct 2, 2026](</index/practical-guide-building-gpt-6/>)
 
-![How enterprises are scaling AI > art card](https://images.ctfassets.net/kftzwdyauwt9/7bwFx4oZ7LkV7wTeDdAIbA/989f92a7be5c2bd36fafb94bbeef076f/Frame.png?w=3840&q=90&fm=webp)
+![How workers are turning AI experimentation into new ways of working > Cover image](https://images.ctfassets.net/kftzwdyauwt9/2jmyTNjTKCj9B3jyQBjFMr/24da3865e110be70e6e93b196cfd752c/blog-art-card-option040-v001.png?w=3840&q=90&fm=webp)
 
-[ How enterprises are scaling AIGuidesMay 11, 2026](</business/guides-and-resources/how-enterprises-are-scaling-ai/>)
+[How workers are unlocking new ways of workingGlobal AffairsSep 16, 2026](</index/unlocking-new-ways-of-working/>)
 
-![Business guides > Layout > Carousel > ChatGPT usage and adoption patterns at work > media > asset](https://images.ctfassets.net/kftzwdyauwt9/2rUSG4XSMDGLJMBdfgtVH/97f5474b4822fccb60211817a5cceb65/chatgpt-usage-and-adoption-patterns-at-work-IMAGE.png?w=3840&q=90&fm=webp)
+![How AI-native companies turn workflows into operating capability — card image](https://images.ctfassets.net/kftzwdyauwt9/mSi6hls2IXr3ax2lH8vTj/5a364b116ec5584ec7415feb4c1a7033/index-how-ai-native-companies-turn-workflows-into-operating-capability--cover-v001.png?w=3840&q=90&fm=webp)
 
-[ChatGPT usage and adoption patterns at workGuidesJan 22, 2026](</business/guides-and-resources/chatgpt-usage-and-adoption-patterns-at-work/>)
+[How AI-native companies turn workflows into operating capabilityAI AdoptionSep 1, 2026](</index/ai-native-company-workflows/>)
 
 Research
 
@@ -242,10 +244,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -264,7 +266,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -311,6 +314,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

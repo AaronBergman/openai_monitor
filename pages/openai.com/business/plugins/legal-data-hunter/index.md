@@ -45,7 +45,7 @@ Developer
 Website
     [(opens in a new window)](<https://legaldatahunter.com>)
 
-[![](https://files.openai.com/content?id=file_000000001db881f78e8a1c56203626b5&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=8&sig=7cf4a2b9e3754507f40a0ce1ecbfe5ad1a214f7e95e0d26812ac1c35e5b9e569&v=0)![](https://files.openai.com/content?id=file_000000001db881f78e8a1c56203626b5&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=8&sig=7cf4a2b9e3754507f40a0ce1ecbfe5ad1a214f7e95e0d26812ac1c35e5b9e569&v=0)Legal Data Hunter What legal data sources do you have for Spain? Show the source names, document types, coverage dates, and document counts.(opens in a new window)](<https://chatgpt.com/?prompt=%40Legal+Data+Hunter+What+legal+data+sources+do+you+have+for+Spain%3F+Show+the+source+names%2C+document+types%2C+coverage+dates%2C+and+document+counts.>)
+[![](https://files.openai.com/content?id=file_000000001db881f78e8a1c56203626b5&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=8&sig=7cf4a2b9e3754507f40a0ce1ecbfe5ad1a214f7e95e0d26812ac1c35e5b9e569&v=0)![](https://files.openai.com/content?id=file_000000001db881f78e8a1c56203626b5&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=8&sig=7cf4a2b9e3754507f40a0ce1ecbfe5ad1a214f7e95e0d26812ac1c35e5b9e569&v=0)Legal Data Hunter What legal data sources do you have for Spain? Show the source names, document types, coverage dates, and document counts.(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a09fca2104c8191b160df27196228dd?install&prompt=What%20legal%20data%20sources%20do%20you%20have%20for%20Spain%3F%20Show%20the%20source%20names%2C%20document%20types%2C%20coverage%20dates%2C%20and%20document%20counts.>)
 
 ## How it works
 
@@ -57,19 +57,19 @@ Legal Data Hunter connects ChatGPT to the world's fastest-growing open legal cor
 
 ![](https://files.openai.com/content?id=file_000000001db881f78e8a1c56203626b5&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=8&sig=7cf4a2b9e3754507f40a0ce1ecbfe5ad1a214f7e95e0d26812ac1c35e5b9e569&v=0)![](https://files.openai.com/content?id=file_000000001db881f78e8a1c56203626b5&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=8&sig=7cf4a2b9e3754507f40a0ce1ecbfe5ad1a214f7e95e0d26812ac1c35e5b9e569&v=0)Legal Data Hunter What legal data sources do you have for Spain? Show the source names, document types, coverage dates, and document counts.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Legal+Data+Hunter+What+legal+data+sources+do+you+have+for+Spain%3F+Show+the+source+names%2C+document+types%2C+coverage+dates%2C+and+document+counts.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a09fca2104c8191b160df27196228dd?install&prompt=What%20legal%20data%20sources%20do%20you%20have%20for%20Spain%3F%20Show%20the%20source%20names%2C%20document%20types%2C%20coverage%20dates%2C%20and%20document%20counts.&surface=work>)
 
   * ### Compare legal provisions
 
 ![](https://files.openai.com/content?id=file_000000001db881f78e8a1c56203626b5&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=8&sig=7cf4a2b9e3754507f40a0ce1ecbfe5ad1a214f7e95e0d26812ac1c35e5b9e569&v=0)![](https://files.openai.com/content?id=file_000000001db881f78e8a1c56203626b5&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=8&sig=7cf4a2b9e3754507f40a0ce1ecbfe5ad1a214f7e95e0d26812ac1c35e5b9e569&v=0)Legal Data Hunter Compare GDPR Article 6 with the equivalent French data-protection provision.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Legal+Data+Hunter+Compare+GDPR+Article+6+with+the+equivalent+French+data-protection+provision.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a09fca2104c8191b160df27196228dd?install&prompt=Compare%20GDPR%20Article%206%20with%20the%20equivalent%20French%20data-protection%20provision.&surface=work>)
 
   * ### Research worker classification
 
 ![](https://files.openai.com/content?id=file_000000001db881f78e8a1c56203626b5&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=8&sig=7cf4a2b9e3754507f40a0ce1ecbfe5ad1a214f7e95e0d26812ac1c35e5b9e569&v=0)![](https://files.openai.com/content?id=file_000000001db881f78e8a1c56203626b5&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=8&sig=7cf4a2b9e3754507f40a0ce1ecbfe5ad1a214f7e95e0d26812ac1c35e5b9e569&v=0)Legal Data Hunter Compare how Spain, the United Kingdom, California, and Australia classify workers on digital labor platforms.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Legal+Data+Hunter+Compare+how+Spain%2C+the+United+Kingdom%2C+California%2C+and+Australia+classify+workers+on+digital+labor+platforms.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a09fca2104c8191b160df27196228dd?install&prompt=Compare%20how%20Spain%2C%20the%20United%20Kingdom%2C%20California%2C%20and%20Australia%20classify%20workers%20on%20digital%20labor%20platforms.&surface=work>)
 
 
 
@@ -95,11 +95,11 @@ Legal Data Hunter connects ChatGPT to the world's fastest-growing open legal cor
 
 ## Resources
 
-### [Help centerLearn more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
+### [Help centerLearn more(opens in a new window)](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
 
-### [Plugin supportLearn more](<https://legaldatahunter.com/support>)
+### [Plugin supportLearn more(opens in a new window)](<https://legaldatahunter.com/support>)
 
-### [Privacy policyLearn more](<https://legaldatahunter.com/privacy>)
+### [Privacy policyLearn more(opens in a new window)](<https://legaldatahunter.com/privacy>)
 
 ## Add the Legal Data Hunter plugin in a few clicks
 
@@ -127,10 +127,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -149,7 +149,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -196,6 +197,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 
