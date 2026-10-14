@@ -45,7 +45,7 @@ Developer
 Website
     [(opens in a new window)](<https://free.law/>)
 
-[![](https://files.openai.com/content?id=file_00000000562081f68433ad2572eea69c&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=30898b33f26be715595fdf2944b327ba1ad92753d28968f1abff786947081c62&v=0)CourtListener What have federal appeals courts held about qualified immunity for school officials?(opens in a new window)](<https://chatgpt.com/?prompt=%40CourtListener+What+have+federal+appeals+courts+held+about+qualified+immunity+for+school+officials%3F>)
+[![](https://files.openai.com/content?id=file_00000000562081f68433ad2572eea69c&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=30898b33f26be715595fdf2944b327ba1ad92753d28968f1abff786947081c62&v=0)CourtListener What have federal appeals courts held about qualified immunity for school officials?(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a393898430881918250b54d31c8799b?install&prompt=What%20have%20federal%20appeals%20courts%20held%20about%20qualified%20immunity%20for%20school%20officials%3F>)
 
 ## How it works
 
@@ -57,19 +57,19 @@ Connect to CourtListener, the Free Law Project's legal research platform, with a
 
 ![](https://files.openai.com/content?id=file_00000000562081f68433ad2572eea69c&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=30898b33f26be715595fdf2944b327ba1ad92753d28968f1abff786947081c62&v=0)CourtListener Find federal appeals court decisions on qualified immunity for school officials. Compare their holdings and relevant facts in a research memo with citations, links, and questions requiring further research.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40CourtListener+Find+federal+appeals+court+decisions+on+qualified+immunity+for+school+officials.+Compare+their+holdings+and+relevant+facts+in+a+research+memo+with+citations%2C+links%2C+and+questions+requiring+further+research.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a393898430881918250b54d31c8799b?install&prompt=Find%20federal%20appeals%20court%20decisions%20on%20qualified%20immunity%20for%20school%20officials.%20Compare%20their%20holdings%20and%20relevant%20facts%20in%20a%20research%20memo%20with%20citations%2C%20links%2C%20and%20questions%20requiring%20further%20research.&surface=work>)
 
   * ### Verify citations in a draft
 
 ![](https://files.openai.com/content?id=file_00000000562081f68433ad2572eea69c&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=30898b33f26be715595fdf2944b327ba1ad92753d28968f1abff786947081c62&v=0)CourtListener Check the case citations in my uploaded draft against CourtListener. Return a table with matching cases, citation discrepancies, and unresolved references, with links for each verified match.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40CourtListener+Check+the+case+citations+in+my+uploaded+draft+against+CourtListener.+Return+a+table+with+matching+cases%2C+citation+discrepancies%2C+and+unresolved+references%2C+with+links+for+each+verified+match.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a393898430881918250b54d31c8799b?install&prompt=Check%20the%20case%20citations%20in%20my%20uploaded%20draft%20against%20CourtListener.%20Return%20a%20table%20with%20matching%20cases%2C%20citation%20discrepancies%2C%20and%20unresolved%20references%2C%20with%20links%20for%20each%20verified%20match.&surface=work>)
 
   * ### Track new case filings
 
 ![](https://files.openai.com/content?id=file_00000000562081f68433ad2572eea69c&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=30898b33f26be715595fdf2944b327ba1ad92753d28968f1abff786947081c62&v=0)CourtListener Alert me to new filings in the Google ad tech case.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40CourtListener+Alert+me+to+new+filings+in+the+Google+ad+tech+case.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a393898430881918250b54d31c8799b?install&prompt=Alert%20me%20to%20new%20filings%20in%20the%20Google%20ad%20tech%20case.&surface=work>)
 
 
 
@@ -84,11 +84,11 @@ Connect to CourtListener, the Free Law Project's legal research platform, with a
 
 ## Resources
 
-### [Help centerLearn more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
+### [Help centerLearn more(opens in a new window)](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
 
-### [Plugin supportLearn more](<https://www.courtlistener.com/contact/?issue_type=mcp>)
+### [Plugin supportLearn more(opens in a new window)](<https://www.courtlistener.com/contact/?issue_type=mcp>)
 
-### [Privacy policyLearn more](<https://wiki.free.law/c/terms/courtlistener/courtlistenercom-terms-of-service-and-policies#privacy-policy>)
+### [Privacy policyLearn more(opens in a new window)](<https://wiki.free.law/c/terms/courtlistener/courtlistenercom-terms-of-service-and-policies#privacy-policy>)
 
 ## Add the CourtListener plugin in a few clicks
 
@@ -106,6 +106,16 @@ Bring your organization’s data and tools into OpenAI products and accelerate w
 
 [Try ChatGPT Business(opens in a new window)](<https://chatgpt.com/team-sign-up>)[Contact sales](</contact-sales/>)
 
+## Get OpenAI for Business updates
+
+Product updates, practical guides, upcoming events, and more.
+
+Email address *
+
+By subscribing, you agree to receive emails from OpenAI. You can unsubscribe at any time. Read our [Privacy Policy⁠](<https://openai.com/policies/privacy-policy/>).
+
+Subscribe
+
 Research
 
   * [Research Index](</research/index/>)
@@ -116,10 +126,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -138,7 +148,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -185,6 +196,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

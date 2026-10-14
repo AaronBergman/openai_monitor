@@ -45,7 +45,9 @@ OpenAI and Stack Overflow are coming together via OverflowAPI access to provide 
 As part of this collaboration:
 
   * OpenAI will utilize Stack Overflow’s OverflowAPI product and collaborate with Stack Overflow to improve model performance for developers who use their products. This integration will help OpenAI improve its AI models using enhanced content and feedback from the Stack Overflow community and provide attribution to the Stack Overflow community within ChatGPT to foster deeper engagement with content. 
+
   * Stack Overflow will utilize OpenAI models as part of their development of OverflowAI and work with OpenAI to leverage insights from internal testing to maximize the performance of OpenAI models. OpenAI’s partnership with Stack Overflow will help further drive its mission to empower the world to develop technology through collective knowledge, as Stack Overflow will be able to create better products that benefit the Stack Exchange community’s health, growth, and engagement.
+
 
 
 
@@ -74,9 +76,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -95,7 +98,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -113,6 +117,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -141,6 +146,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

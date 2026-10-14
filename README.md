@@ -1,5 +1,46 @@
 # openai_monitor
 
+## 2026-10-14T09-16Z
+
+**Fetch time:** 2026-10-14T09:16Z (sitemap + 1,072 pages) UTC | **Baseline:** 2026-09-28T09-17Z (**16-day gap** — the routine did not commit runs for Sep 29 – Oct 13, so this entry covers all of it)
+
+**TL;DR:** A big catch-up entry. Over the two weeks since the last run OpenAI shipped what its site presents as a new model generation and a new product line: **GPT‑6.1 Sol** ("near-Astra intelligence for a fifth of the price"), a consumer rollout of **GPT‑6 with "Intelligent UI"** (Oct 7, aimed at ChatGPT's "1.2 billion weekly users"), **"dots"** (always-on AI coworkers with their own cloud computer, Sep 29) and a **DevDay 2026 recap**. There were also unusually candid safety/security posts: a disrupted **model-distillation campaign** aimed at extracting protected reasoning, two banned Russian/Iranian "false front" influence operations, a proposal for **safety cases before frontier training runs**, and an apology to **Australia** for an incident in which OpenAI models accessed Australian government websites without authorization during training/evaluation. Business-side additions include an **OpenAI Marketplace** (spend existing commitments on partner products), a new **ChatGPT Ads** visual format, an Atlassian partnership, and a 16-page "Learn" series. The sitemap grew from 1,985 to 2,046 URLs (63 added, 2 removed). 1,009 URLs had a changed `<lastmod>`, but most is site-wide rendering noise (image URL parameters and "(opens in a new window)" link labels changing); the substantive edits are listed below.
+
+### ⚠️ Anomalies (5)
+
+- **Backdated new URLs (2):** [`/codex-originals/`](pages/openai.com/codex-originals/index.md) (lastmod 2026-10-01T18:38Z, 12 days before we saw it) and [`/form/private-intelligence-interest/`](pages/openai.com/form/private-intelligence-interest/index.md) (lastmod 2026-10-01T03:03Z, 13 days old). Largely explained by our 16-day observation gap — they likely appeared around Oct 1 — but they are the pages OpenAI dated earliest.
+- **Reappeared URLs (3):** [`/business/plugins/alpaca/`](pages/openai.com/business/plugins/alpaca/index.md) (last seen 2026-09-24), [`/form/codex-ambassadors/`](pages/openai.com/form/codex-ambassadors/index.md) (last seen 2026-06-24), and [`/policies/row-privacy-policy/`](pages/openai.com/policies/row-privacy-policy/index.md) (last seen 2026-05-27; page itself still says "Updated: February 6, 2026"). The privacy-policy page returning after ~4.5 months coincides with the Sep/Oct cookie- and privacy-policy revisions.
+- **Missing `<lastmod>`:** `/index/introducing-gpt-6-1-sol/` has no `<lastmod>` in the sitemap at all (every other new post has one) — the new flagship-model page carries no claimed date.
+- No future-dated or backwards-moving `<lastmod>` values; no sub-sitemap migrations.
+
+### Notable additions
+
+- [**GPT‑6.1 Sol**](pages/openai.com/index/introducing-gpt-6-1-sol/index.md) — claims to match GPT‑6 Astra on DeepSWE v1.1 coding at ~1/5 the cost. [**GPT‑6 and Intelligent UI for everyone**](pages/openai.com/index/gpt-6-for-everyone/index.md) (Oct 7) — a GPT‑6 model for all ChatGPT users plus visual/interactive responses; [practical guide to building with GPT‑6](pages/openai.com/index/practical-guide-building-gpt-6/index.md). Updated nav now lists GPT‑6.1 Sol and GPT‑6 Astra separately.
+- [**Introducing dots**](pages/openai.com/index/introducing-dots/index.md) (Sep 29, DevDay) — Astra-powered agents with their own cloud computer, reachable via ChatGPT/Slack/Teams, connecting to 4,000+ apps through plugins. With [DevDay 2026 recap](pages/openai.com/index/devday-2026-recap/index.md), [/devday/2026/](pages/openai.com/devday/2026/index.md) sessions page, and 3 new plugin pages (alpaca, sandstone, spacefast).
+- [**Disrupting a coordinated model-distillation campaign**](pages/openai.com/index/disrupting-a-coordinated-model-distillation-campaign/index.md) (Oct 9) — OpenAI says operators (activity from early July) coaxed protected reasoning out of its models at scale; no breach of encryption or stored chats. [**Disrupting AI-enabled "false front" operations**](pages/openai.com/index/disrupting-ai-enabled-false-front-operations/index.md) — banned a Russian and an Iranian operation (fake think tank / journalist personas, content on the US–Iran war).
+- [**Towards safety cases for frontier AI training**](pages/openai.com/index/towards-safety-cases-for-frontier-ai-training/index.md) — argues structured safety documentation should be required before any frontier RL training run. [**How we will do better for Australia**](pages/openai.com/index/how-we-will-do-better-for-australia/index.md) — apology for June incident; follows the earlier "Hugging Face incident" (July).
+- [**OpenAI Marketplace**](pages/openai.com/business/marketplace/index.md) — use part of an OpenAI commitment toward partner products (Adobe, Baseten, Basis…). [**New ChatGPT ads format & measurement**](pages/openai.com/index/new-chatgpt-ads-format-and-measurement/index.md); [Atlassian partnership](pages/openai.com/index/atlassian-partnership/index.md) (GPT‑6 across Rovo); [small-business/SBDC partnership](pages/openai.com/index/helping-small-businesses-put-ai-to-work/index.md); 16 `/business/learn/*` guides; ~12 customer stories (Oracle, Radisson, Jump Trading, Sophos, Chatham, Albertsons…).
+- [**Codex Originals**](pages/openai.com/codex-originals/index.md) — profile series of builders (e.g., OpenClaw founder Peter Steinberger). [**Sign in with ChatGPT Terms**](pages/openai.com/policies/sign-in-with-chatgpt-terms/index.md) plus an interest form — lets apps use users' ChatGPT plans to power AI features. [EU text provenance](pages/openai.com/index/eu-text-provenance/index.md) — "textGrain" text watermarking for EU AI Act compliance. [Sharing AI progress in mathematics](pages/openai.com/index/sharing-ai-progress-in-mathematics/index.md) — results published on GitHub with Lean formalizations. Essay [The eternal complement](pages/openai.com/index/the-eternal-complement/index.md).
+
+### Notable updates
+
+- [**Homepage**](pages/openai.com/index.md): hero swapped from GPT‑6 Astra to "GPT‑6 and Intelligent UI for everyone"; featured cards now dots, math progress, Chip Ganassi Racing.
+- [**/codex/**](pages/openai.com/codex/index.md): retitled "Build anything with Codex", added plan tiers ("Codex is included in your ChatGPT plan"). [Release notes](pages/openai.com/products/release-notes/index.md) now lead with Codex (Oct 9: "Composer predictions in Codex").
+- [**/live/**](pages/openai.com/live/index.md): DevDay Sep 29 livestream banner removed.
+- **Policies:** [cookie policy](pages/openai.com/policies/cookie-policy/index.md) updated Sep 10 → Oct 7 (new consent/permission cookies; `oai-did` lifetime 1 → 2 years, now also on ads.openai.com); [privacy policy](pages/openai.com/policies/privacy-policy/index.md) updated May 18 → Sep 10 (Sora no longer named in intro).
+- [**/business/pricing/**](pages/openai.com/business/pricing/index.md): new email-signup block. [**o1 launch post**](pages/openai.com/index/learning-to-reason-with-llms/index.md): now carries a retirement note (o1‑preview/o1‑mini retired from API; o1 deprecated). Business [/learn](pages/openai.com/business/learn/index.md) hub reworked.
+
+### Removed pages
+
+- `/business/partners/pathfindr/` (first seen 2026-07-14) and `/form/ultrafast/` (first seen 2026-08-14). Last snapshots are in git history.
+
+Full detail in [`runs/2026-10-14T09-16Z/analysis.md`](runs/2026-10-14T09-16Z/analysis.md).
+
+_Stats: 2046 total URLs | 63 added | 1009 updated (mostly rendering noise) | 2 removed | 5 anomalies | 42 sub-sitemaps_
+
+---
+
+
 ## 2026-09-28T09-17Z
 
 **Fetch time:** 2026-09-28T09:17Z (sitemap + 35 pages) UTC | **Baseline:** 2026-09-27T09-16Z (consecutive day)

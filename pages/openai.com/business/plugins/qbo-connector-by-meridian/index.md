@@ -45,7 +45,7 @@ Developer
 Website
     [(opens in a new window)](<https://meridian.pilot.com>)
 
-[![](https://files.openai.com/content?id=file_0000000044d471f7bd79325f5c4b62b0&cdn=1&cp=pi&ma=30412800&ts=0&p=pi&cid=8&sig=81d47b6c4d34be175c5388a911a3bcd898cf765dcd69eb62af63f8f4c8feb9b7&v=0)QBO Connector by Meridian Show me a profit and loss report for last month and summarize the results.(opens in a new window)](<https://chatgpt.com/?prompt=%40QBO+Connector+by+Meridian+Show+me+a+profit+and+loss+report+for+last+month+and+summarize+the+results.>)
+[![](https://files.openai.com/content?id=file_0000000044d471f7bd79325f5c4b62b0&cdn=1&cp=pi&ma=30412800&ts=0&p=pi&cid=8&sig=81d47b6c4d34be175c5388a911a3bcd898cf765dcd69eb62af63f8f4c8feb9b7&v=0)QBO Connector by Meridian Show me a profit and loss report for last month and summarize the results.(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a59480048788191838477826d4ee97a?install&prompt=Show%20me%20a%20profit%20and%20loss%20report%20for%20last%20month%20and%20summarize%20the%20results.>)
 
 ## How it works
 
@@ -57,19 +57,19 @@ This connector lets ChatGPT and Codex securely read from and write to QuickBooks
 
 ![](https://files.openai.com/content?id=file_0000000044d471f7bd79325f5c4b62b0&cdn=1&cp=pi&ma=30412800&ts=0&p=pi&cid=8&sig=81d47b6c4d34be175c5388a911a3bcd898cf765dcd69eb62af63f8f4c8feb9b7&v=0)QBO Connector by Meridian Show me a profit and loss report for last month and summarize the results.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40QBO+Connector+by+Meridian+Show+me+a+profit+and+loss+report+for+last+month+and+summarize+the+results.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a59480048788191838477826d4ee97a?install&prompt=Show%20me%20a%20profit%20and%20loss%20report%20for%20last%20month%20and%20summarize%20the%20results.&surface=work>)
 
   * ### Analyze vendor spending
 
 ![](https://files.openai.com/content?id=file_0000000044d471f7bd79325f5c4b62b0&cdn=1&cp=pi&ma=30412800&ts=0&p=pi&cid=8&sig=81d47b6c4d34be175c5388a911a3bcd898cf765dcd69eb62af63f8f4c8feb9b7&v=0)QBO Connector by Meridian How much did we spend by vendor last month?
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40QBO+Connector+by+Meridian+How+much+did+we+spend+by+vendor+last+month%3F>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a59480048788191838477826d4ee97a?install&prompt=How%20much%20did%20we%20spend%20by%20vendor%20last%20month%3F&surface=work>)
 
   * ### Inspect ledger activity
 
 ![](https://files.openai.com/content?id=file_0000000044d471f7bd79325f5c4b62b0&cdn=1&cp=pi&ma=30412800&ts=0&p=pi&cid=8&sig=81d47b6c4d34be175c5388a911a3bcd898cf765dcd69eb62af63f8f4c8feb9b7&v=0)QBO Connector by Meridian Find my active bank accounts and show the General Ledger activity for one.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40QBO+Connector+by+Meridian+Find+my+active+bank+accounts+and+show+the+General+Ledger+activity+for+one.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a59480048788191838477826d4ee97a?install&prompt=Find%20my%20active%20bank%20accounts%20and%20show%20the%20General%20Ledger%20activity%20for%20one.&surface=work>)
 
 
 
@@ -84,11 +84,11 @@ This connector lets ChatGPT and Codex securely read from and write to QuickBooks
 
 ## Resources
 
-### [Help centerLearn more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
+### [Help centerLearn more(opens in a new window)](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
 
-### [Plugin supportLearn more](<https://qbo-connector.meridian.pilot.com/faq>)
+### [Plugin supportLearn more(opens in a new window)](<https://qbo-connector.meridian.pilot.com/faq>)
 
-### [Privacy policyLearn more](<https://qbo-connector.meridian.pilot.com/privacy>)
+### [Privacy policyLearn more(opens in a new window)](<https://qbo-connector.meridian.pilot.com/privacy>)
 
 ## Add the QBO Connector by Meridian plugin in a few clicks
 
@@ -98,13 +98,23 @@ Availability depends on the plugin, your plan, and workspace settings. Some conn
 
 ## Explore related plugins
 
-[![](https://files.openai.com/content?id=file_00000000179c722f9e8a66d8ff27e98b&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=1&sig=95f7e407c6513f685f25b524ef42ee91ef631083e36c6ea4e3e24667b4692c84&v=0)![](https://files.openai.com/content?id=file_00000000179c722f9e8a66d8ff27e98b&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=1&sig=95f7e407c6513f685f25b524ef42ee91ef631083e36c6ea4e3e24667b4692c84&v=0)Public Equity InvestingSupport company research and deal analysis.](</business/plugins/public-equity-investing/>)[![](https://files.openai.com/content?id=file_00000000e4a8720c9b8cba8aaa6e4f70&cdn=1&cp=pi&ma=30672000&ts=0&p=pi&cid=1&sig=d35f6f0a310b11e0360584d048c93f8d76adf2e2f59543a08c73b34c7e02721f&v=0)![](https://files.openai.com/content?id=file_00000000e4a8720c9b8cba8aaa6e4f70&cdn=1&cp=pi&ma=30672000&ts=0&p=pi&cid=1&sig=d35f6f0a310b11e0360584d048c93f8d76adf2e2f59543a08c73b34c7e02721f&v=0)Investment BankingBuild banking analysis and client-ready materials.](</business/plugins/investment-banking/>)[![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)DataTurn data into clear decisions.](</business/plugins/data/>)[![](https://files.openai.com/content?id=file_00000000af747230bc1606d46c839ee8&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=1&sig=c8a8bc6383ae28c34005525b223aab157382f62b2c5ff707b76f4a38b1b33e32&v=0)![](https://files.openai.com/content?id=file_00000000af747230bc1606d46c839ee8&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=1&sig=c8a8bc6383ae28c34005525b223aab157382f62b2c5ff707b76f4a38b1b33e32&v=0)DaloopaAccess financial KPIs with source links.](</business/plugins/daloopa/>)[![](https://files.openai.com/content?id=file_000000009c38722f80144f00dd87ea34&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=1&sig=8e9598782d7e36464e64c394a2fecb5ab3bf6b35731be6a16d3b9ec05b080a32&v=0)![](https://files.openai.com/content?id=file_000000003ec881f6aaeecf3f949966e5&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=1c18816d30ee51f5b8365b1c3d420e3b9da7e6f4d0f9830032b871fc457f48f6&v=0)MorningstarAccess live market insights.](</business/plugins/morningstar/>)[![](https://files.openai.com/content?id=file_00000000b94c81f794fcf9c2fbefdf50&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=beb2787280ecaebf28c33ff6125c3de2f31ea2a47d7447cccb565029c8e86c65&v=0)![](https://files.openai.com/content?id=file_00000000b94c81f794fcf9c2fbefdf50&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=beb2787280ecaebf28c33ff6125c3de2f31ea2a47d7447cccb565029c8e86c65&v=0)SpreadsheetsCreate and edit spreadsheets](</business/plugins/spreadsheets/>)
+[![](https://files.openai.com/content?id=file_00000000179c722f9e8a66d8ff27e98b&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=1&sig=95f7e407c6513f685f25b524ef42ee91ef631083e36c6ea4e3e24667b4692c84&v=0)![](https://files.openai.com/content?id=file_00000000179c722f9e8a66d8ff27e98b&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=1&sig=95f7e407c6513f685f25b524ef42ee91ef631083e36c6ea4e3e24667b4692c84&v=0)Public Equity InvestingPublic equity research](</business/plugins/public-equity-investing/>)[![](https://files.openai.com/content?id=file_00000000e4a8720c9b8cba8aaa6e4f70&cdn=1&cp=pi&ma=30672000&ts=0&p=pi&cid=1&sig=d35f6f0a310b11e0360584d048c93f8d76adf2e2f59543a08c73b34c7e02721f&v=0)![](https://files.openai.com/content?id=file_00000000e4a8720c9b8cba8aaa6e4f70&cdn=1&cp=pi&ma=30672000&ts=0&p=pi&cid=1&sig=d35f6f0a310b11e0360584d048c93f8d76adf2e2f59543a08c73b34c7e02721f&v=0)Investment BankingM&A, valuation, and financing](</business/plugins/investment-banking/>)[![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)DataAnswer questions with data](</business/plugins/data/>)[![](https://files.openai.com/content?id=file_00000000af747230bc1606d46c839ee8&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=1&sig=c8a8bc6383ae28c34005525b223aab157382f62b2c5ff707b76f4a38b1b33e32&v=0)![](https://files.openai.com/content?id=file_00000000af747230bc1606d46c839ee8&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=1&sig=c8a8bc6383ae28c34005525b223aab157382f62b2c5ff707b76f4a38b1b33e32&v=0)DaloopaFinancial KPIs with links](</business/plugins/daloopa/>)[![](https://files.openai.com/content?id=file_000000009c38722f80144f00dd87ea34&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=1&sig=8e9598782d7e36464e64c394a2fecb5ab3bf6b35731be6a16d3b9ec05b080a32&v=0)![](https://files.openai.com/content?id=file_000000003ec881f6aaeecf3f949966e5&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=1c18816d30ee51f5b8365b1c3d420e3b9da7e6f4d0f9830032b871fc457f48f6&v=0)MorningstarInvestment and market insights](</business/plugins/morningstar/>)[![](https://files.openai.com/content?id=file_00000000b94c81f794fcf9c2fbefdf50&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=beb2787280ecaebf28c33ff6125c3de2f31ea2a47d7447cccb565029c8e86c65&v=0)![](https://files.openai.com/content?id=file_00000000b94c81f794fcf9c2fbefdf50&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=beb2787280ecaebf28c33ff6125c3de2f31ea2a47d7447cccb565029c8e86c65&v=0)SpreadsheetsCreate and edit spreadsheets](</business/plugins/spreadsheets/>)
 
 ## Get started with plugins
 
 Bring your organization’s data and tools into OpenAI products and accelerate what your teams can do.
 
 [Try ChatGPT Business(opens in a new window)](<https://chatgpt.com/team-sign-up>)[Contact sales](</contact-sales/>)
+
+## Get OpenAI for Business updates
+
+Product updates, practical guides, upcoming events, and more.
+
+Email address *
+
+By subscribing, you agree to receive emails from OpenAI. You can unsubscribe at any time. Read our [Privacy Policy⁠](<https://openai.com/policies/privacy-policy/>).
+
+Subscribe
 
 Research
 
@@ -116,10 +126,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -138,7 +148,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -185,6 +196,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 
