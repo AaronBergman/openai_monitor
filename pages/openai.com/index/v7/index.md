@@ -155,17 +155,17 @@ V7’s longer-term goal is to make that shared memory more proactive. The team i
 
 [View all](</news/>)
 
+![Higgsfield longer videos and voice — cover and hero](https://images.ctfassets.net/kftzwdyauwt9/3Yy3EIf3iHLbnqicawXwdy/a3f8b62e21679b25eec19df30eeef5ad/higgsfield-longer-videos-voice-cover-hero-art-card-1080x1080.png?w=3840&q=90&fm=webp)
+
+[Higgsfield takes AI video from 1 minute to over 10StartupOct 13, 2026](</index/higgsfield-longer-videos-voice/>)
+
+![Pollo AI — Cover and hero](https://images.ctfassets.net/kftzwdyauwt9/2d43dWpGGS2PTHZR3ZJtHQ/1b43934d7aae3615455884af0487b28a/pollo-ai-customer-story-art-card-cinema-velvet-1080x1080.png?w=3840&q=90&fm=webp)
+
+[Pollo AI turns creative ideas into campaigns with OpenAIStartupOct 8, 2026](</index/pollo-ai/>)
+
 ![Harvey customer story card image - Option C](https://images.ctfassets.net/kftzwdyauwt9/59usTWVI6pc0I3Lb6TL2ol/3d45075f7a623fa6ba4d8d13459065c1/square.png?w=3840&q=90&fm=webp)
 
 [Harvey turns legal context into stronger drafts with GPT-6 AstraStartupSep 23, 2026](</index/harvey-from-context-to-confidence-with-astra/>)
-
-![Parallel customer story card image - Option C](https://images.ctfassets.net/kftzwdyauwt9/IE8b4WhSed5XqFQUzyyp7/40124aabc92ea8266c99be14d0f380f1/square.png?w=3840&q=90&fm=webp)
-
-[Parallel cut research time and cost in half with GPT‑6 AstraStartupSep 22, 2026](</index/parallel-cuts-time-and-cost-with-astra/>)
-
-![Higgsfield AI customer story art card](https://images.ctfassets.net/kftzwdyauwt9/7A0WMEXBwLKT6RUmIz7pfX/c764d19c42285ef2628de699c0820571/square.png?w=3840&q=90&fm=webp)
-
-[Higgsfield AI ships new video features in a day with GPT-6 AstraStartupSep 21, 2026](</index/higgsfield-from-prompt-to-production-with-astra/>)
 
 Research
 
@@ -177,10 +177,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -199,7 +199,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -246,6 +247,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

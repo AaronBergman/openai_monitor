@@ -34,17 +34,17 @@ OpenAI’s Economic Research team periodically publishes reports and analysis on
 
 Explore the latest resources below, including country-focused Signals reports, research on how people use ChatGPT, and briefings on enterprise adoption and productivity outcomes.
 
-### [Training novices to think, or giving them LLMs? Evidence from an RCTAugust 2026 | A study examining how access to ChatGPT and training in causal reasoning affect how students approach and perform a real-world business problem.Learn more](<https://cdn.openai.com/pdf/novices-and-llm-august-2026.pdf>)
+### [Training novices to think, or giving them LLMs? Evidence from an RCTAugust 2026 | A study examining how access to ChatGPT and training in causal reasoning affect how students approach and perform a real-world business problem.Learn more(opens in a new window)](<https://cdn.openai.com/pdf/novices-and-llm-august-2026.pdf>)
 
-### [How organizations use AI: Evidence from ChatGPTAugust 2026 | Research examining how ChatGPT Enterprise has spread within and across organizations over the past two years.Learn more](<https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf>)
+### [How organizations use AI: Evidence from ChatGPTAugust 2026 | Research examining how ChatGPT Enterprise has spread within and across organizations over the past two years.Learn more(opens in a new window)](<https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf>)
 
 ### [How AI is expanding what people do at workJuly 2026 | An analysis of how occupation-specific tasks spread across job boundaries.Learn more](<https://openai.com/index/how-ai-is-expanding-what-people-do-at-work/>)
 
-### [The AI jobs transition framework for the EUJune 2026 | A map of near-term job impacts of AI in the EU labor market.Learn more](<https://cdn.openai.com/pdf/the-ai-jobs-transition-framework-for-the-eu.pdf>)
+### [The AI jobs transition framework for the EUJune 2026 | A map of near-term job impacts of AI in the EU labor market.Learn more(opens in a new window)](<https://cdn.openai.com/pdf/the-ai-jobs-transition-framework-for-the-eu.pdf>)
 
 ### [How ChatGPT adoption has expandedJune 2026 | A new picture of global AI adoption.Learn more](<https://openai.com/index/how-chatgpt-adoption-has-expanded/>)
 
-### [The shift to agentic AI: evidence from CodexJune 2026 | An analysis of Codex usage to understand how agentic AI is shifting work, especially in organizations and at OpenAI.Learn more](<https://cdn.openai.com/pdf/5d1e1489-21c0-43e4-9d42-f87efdbf0082/the-shift-to-agentic-ai-evidence-from-codex.pdf>)
+### [The shift to agentic AI: evidence from CodexJune 2026 | An analysis of Codex usage to understand how agentic AI is shifting work, especially in organizations and at OpenAI.Learn more(opens in a new window)](<https://cdn.openai.com/pdf/5d1e1489-21c0-43e4-9d42-f87efdbf0082/the-shift-to-agentic-ai-evidence-from-codex.pdf>)
 
 ### [How ChatGPT adoption broadened in early 2026May 2026 | Q1 data shows consumer adoption growth among users over 35 and those with typically feminine names.Learn more](<https://openai.com/signals/research/2026q1-update/>)
 
@@ -52,7 +52,7 @@ Explore the latest resources below, including country-focused Signals reports, r
 
 ### [The AI jobs transition frameworkApril 2026 | Mapping AI’s near-term impact on jobs.Learn more](<https://openai.com/index/modeling-ai-jobs-transition/>)
 
-### [ChatGPT and the price of workMarch 2026 | How Americans use ChatGPT to help them close the wage information gap.Learn more](<https://cdn.openai.com/pdf/ChatGPT-and-the-price-of-work_report.pdf>)
+### [ChatGPT and the price of workMarch 2026 | How Americans use ChatGPT to help them close the wage information gap.Learn more(opens in a new window)](<https://cdn.openai.com/pdf/ChatGPT-and-the-price-of-work_report.pdf>)
 
 Load more
 
@@ -100,10 +100,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -122,7 +122,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -140,6 +141,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -168,6 +170,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

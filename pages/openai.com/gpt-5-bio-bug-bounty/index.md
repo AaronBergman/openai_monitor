@@ -57,14 +57,20 @@ As part of our ongoing efforts to strengthen our safeguards for [_advanced AI ca
 ## Program overview
 
   * **Model in scope:** GPT‑5 only.
+
   * **Challenge:** Identify _one universal jailbreaking prompt_ to successfully answer all ten bio/chem safety questions from a clean chat without prompting moderation.
+
   * **Rewards:  
 ** • $25,000 to the first true universal jailbreak to clear all ten questions.  
 • $10,000 to the first team that answers all ten questions with multiple jailbreak prompts.  
 • Smaller awards may be granted for partial wins at our discretion.
+
   * **Timeline:** Applications open August 25, 2025 with rolling acceptances, and close on September 15th, 2025. Testing begins September 16th, 2025.
+
   * **Access:** Application and invite-only.**** We will extend invitations to a vetted list of trusted bio red-teamers and review new applications. Once selected, successful applicants will be onboarded to the bio bug bounty platform.
+
   * **Disclosure:** All prompts, completions, findings, and communications are covered by NDA.
+
 
 
 
@@ -84,17 +90,17 @@ OpenAI
 
 ## Keep reading
 
-![Supporting Thailand’s next generation of AI startups > Cover image](https://images.ctfassets.net/kftzwdyauwt9/6ttG55Aq2kyDRG8wxOkTx9/897d266cacc77edc0a25d06b9f6c2c45/supporting-next-generation-ai-startups-thailand--cover.png?w=3840&q=90&fm=webp)
+![Higgsfield longer videos and voice — cover and hero](https://images.ctfassets.net/kftzwdyauwt9/3Yy3EIf3iHLbnqicawXwdy/a3f8b62e21679b25eec19df30eeef5ad/higgsfield-longer-videos-voice-cover-hero-art-card-1080x1080.png?w=3840&q=90&fm=webp)
 
-[Supporting Thailand’s next generation of AI startupsCompanyAug 28, 2026](</index/supporting-next-generation-ai-startups-thailand/>)
+[Higgsfield takes AI video from 1 minute to over 10StartupOct 13, 2026](</index/higgsfield-longer-videos-voice/>)
 
-![Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training > Cover image](https://images.ctfassets.net/kftzwdyauwt9/2X12MQqhR5AY1wog6JW3Q3/721873f6edd491a0f241038a9324b341/what-students-gain-chatgpt-critical-thinking--art-card-no-border.png?w=3840&q=90&fm=webp)
+![Asana browser agent — Blue layered paper cover and hero](https://images.ctfassets.net/kftzwdyauwt9/5jKBDi2Ijxu2ADlbRlTx2l/264f9736cd845e56d3a01e76e1b6c7db/asana-blue-layered-paper-cover-hero-1080x1080.png?w=3840&q=90&fm=webp)
 
-[What students gain from ChatGPT and critical-thinking trainingCompanyAug 27, 2026](</index/what-students-gain-from-chatgpt-critical-thinking-training/>)
+[Asana cuts model costs 76x in browser tests with GPT-6.1 SolOct 9, 2026](</index/asana-browser-agent/>)
 
-![Expanding OpenAI’s presence in Brazil > Cover image](https://images.ctfassets.net/kftzwdyauwt9/7jZgAn4y7ZP5GFx0HimbWT/84b3d734ebe29229bd58b8d8a775dc60/expanding-openai-presence-in-brazil-art-card.png?w=3840&q=90&fm=webp)
+![Sophos — Cover and hero](https://images.ctfassets.net/kftzwdyauwt9/1P20n8fwC9VPtZMwIo7LvQ/ac2c0e5498ae97ff69542779cf204e7d/sophos-cover-hero.png?w=3840&q=90&fm=webp)
 
-[Expanding OpenAI’s presence in BrazilCompanyAug 27, 2026](</index/expanding-our-presence-in-brazil/>)
+[Sophos cuts threat investigation time by 96% with OpenAI DaybreakOct 9, 2026](</index/sophos/>)
 
 Research
 
@@ -106,9 +112,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -127,7 +134,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -145,6 +153,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -173,6 +182,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

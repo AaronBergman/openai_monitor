@@ -45,7 +45,7 @@ Developer
 Website
     [(opens in a new window)](<https://www.ventorchat.com>)
 
-[![](https://files.openai.com/content?id=file_0000000038d881f7a56d661ad4d1f9d6&cdn=1&cp=pi&ma=30931200&ts=0&p=pi&cid=8&sig=7f1dd24fe22614ba5179bf77e1593b6c4f8bec76f8adbfcfd45e4b7f49ea409f&v=0)![](https://files.openai.com/content?id=file_0000000038d881f7a56d661ad4d1f9d6&cdn=1&cp=pi&ma=30931200&ts=0&p=pi&cid=8&sig=7f1dd24fe22614ba5179bf77e1593b6c4f8bec76f8adbfcfd45e4b7f49ea409f&v=0)Ventor Resume las conversaciones recientes que necesitan atención y dime cuáles debería priorizar.(opens in a new window)](<https://chatgpt.com/?prompt=%40Ventor+Resume+las+conversaciones+recientes+que+necesitan+atenci%C3%B3n+y+dime+cu%C3%A1les+deber%C3%ADa+priorizar.>)
+[![](https://files.openai.com/content?id=file_0000000038d881f7a56d661ad4d1f9d6&cdn=1&cp=pi&ma=30931200&ts=0&p=pi&cid=8&sig=7f1dd24fe22614ba5179bf77e1593b6c4f8bec76f8adbfcfd45e4b7f49ea409f&v=0)![](https://files.openai.com/content?id=file_0000000038d881f7a56d661ad4d1f9d6&cdn=1&cp=pi&ma=30931200&ts=0&p=pi&cid=8&sig=7f1dd24fe22614ba5179bf77e1593b6c4f8bec76f8adbfcfd45e4b7f49ea409f&v=0)Ventor Resume las conversaciones recientes que necesitan atención y dime cuáles debería priorizar.(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a343f0d5c048191aa3ebd840ab4c555?install&prompt=Resume%20las%20conversaciones%20recientes%20que%20necesitan%20atenci%C3%B3n%20y%20dime%20cu%C3%A1les%20deber%C3%ADa%20priorizar.>)
 
 ## How it works
 
@@ -57,19 +57,19 @@ Ventor connects ChatGPT to a private Ventor workspace to review customer convers
 
 ![](https://files.openai.com/content?id=file_0000000038d881f7a56d661ad4d1f9d6&cdn=1&cp=pi&ma=30931200&ts=0&p=pi&cid=8&sig=7f1dd24fe22614ba5179bf77e1593b6c4f8bec76f8adbfcfd45e4b7f49ea409f&v=0)![](https://files.openai.com/content?id=file_0000000038d881f7a56d661ad4d1f9d6&cdn=1&cp=pi&ma=30931200&ts=0&p=pi&cid=8&sig=7f1dd24fe22614ba5179bf77e1593b6c4f8bec76f8adbfcfd45e4b7f49ea409f&v=0)Ventor Review recent customer conversations and recommend which need attention first. Explain the urgency using the available history and status.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Ventor+Review+recent+customer+conversations+and+recommend+which+need+attention+first.+Explain+the+urgency+using+the+available+history+and+status.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a343f0d5c048191aa3ebd840ab4c555?install&prompt=Review%20recent%20customer%20conversations%20and%20recommend%20which%20need%20attention%20first.%20Explain%20the%20urgency%20using%20the%20available%20history%20and%20status.&surface=work>)
 
   * ### Review sales configuration
 
 ![](https://files.openai.com/content?id=file_0000000038d881f7a56d661ad4d1f9d6&cdn=1&cp=pi&ma=30931200&ts=0&p=pi&cid=8&sig=7f1dd24fe22614ba5179bf77e1593b6c4f8bec76f8adbfcfd45e4b7f49ea409f&v=0)![](https://files.openai.com/content?id=file_0000000038d881f7a56d661ad4d1f9d6&cdn=1&cp=pi&ma=30931200&ts=0&p=pi&cid=8&sig=7f1dd24fe22614ba5179bf77e1593b6c4f8bec76f8adbfcfd45e4b7f49ea409f&v=0)Ventor Review the product catalog and sales assistant configuration. Identify unclear information or gaps and suggest improvements without applying changes.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Ventor+Review+the+product+catalog+and+sales+assistant+configuration.+Identify+unclear+information+or+gaps+and+suggest+improvements+without+applying+changes.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a343f0d5c048191aa3ebd840ab4c555?install&prompt=Review%20the%20product%20catalog%20and%20sales%20assistant%20configuration.%20Identify%20unclear%20information%20or%20gaps%20and%20suggest%20improvements%20without%20applying%20changes.&surface=work>)
 
   * ### Summarize chat metrics
 
 ![](https://files.openai.com/content?id=file_0000000038d881f7a56d661ad4d1f9d6&cdn=1&cp=pi&ma=30931200&ts=0&p=pi&cid=8&sig=7f1dd24fe22614ba5179bf77e1593b6c4f8bec76f8adbfcfd45e4b7f49ea409f&v=0)![](https://files.openai.com/content?id=file_0000000038d881f7a56d661ad4d1f9d6&cdn=1&cp=pi&ma=30931200&ts=0&p=pi&cid=8&sig=7f1dd24fe22614ba5179bf77e1593b6c4f8bec76f8adbfcfd45e4b7f49ea409f&v=0)Ventor Summarize chat metrics for the last seven days versus the preceding week. Highlight the largest changes and recommend questions to investigate.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Ventor+Summarize+chat+metrics+for+the+last+seven+days+versus+the+preceding+week.+Highlight+the+largest+changes+and+recommend+questions+to+investigate.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a343f0d5c048191aa3ebd840ab4c555?install&prompt=Summarize%20chat%20metrics%20for%20the%20last%20seven%20days%20versus%20the%20preceding%20week.%20Highlight%20the%20largest%20changes%20and%20recommend%20questions%20to%20investigate.&surface=work>)
 
 
 
@@ -84,11 +84,11 @@ Ventor connects ChatGPT to a private Ventor workspace to review customer convers
 
 ## Resources
 
-### [Help centerLearn more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
+### [Help centerLearn more(opens in a new window)](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
 
-### [Plugin supportLearn more](<https://www.ventorchat.com/panel/soporte>)
+### [Plugin supportLearn more(opens in a new window)](<https://www.ventorchat.com/panel/soporte>)
 
-### [Privacy policyLearn more](<https://www.ventorchat.com/legal/privacidad>)
+### [Privacy policyLearn more(opens in a new window)](<https://www.ventorchat.com/legal/privacidad>)
 
 ## Add the Ventor plugin in a few clicks
 
@@ -98,13 +98,23 @@ Availability depends on the plugin, your plan, and workspace settings. Some conn
 
 ## Explore related plugins
 
-[![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)DataTurn data into clear decisions.](</business/plugins/data/>)[![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)Product DesignTurn product ideas into designs and research artifacts.](</business/plugins/product-design/>)[![](https://files.openai.com/content?id=file_00000000994081fd9df560367dfe54f4&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=8&sig=55e9028947fbc7ea3284b715ca95e34f797efbc5c4e0e47a9b2b0509d787308d&v=0)![](https://files.openai.com/content?id=file_00000000994081fd9df560367dfe54f4&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=8&sig=55e9028947fbc7ea3284b715ca95e34f797efbc5c4e0e47a9b2b0509d787308d&v=0)SlackLook up chats and messages.](</business/plugins/slack/>)[![](https://files.openai.com/content?id=file_0000000021547230b7f5dfd4accb4de5&cdn=1&cp=pi&ma=31190400&ts=0&p=pi&cid=1&sig=dea02d9468c390a41124840b9b7cd6f54576f35b34b1ffe98d4ae90668efa963&v=0)![](https://files.openai.com/content?id=file_0000000021547230b7f5dfd4accb4de5&cdn=1&cp=pi&ma=31190400&ts=0&p=pi&cid=1&sig=dea02d9468c390a41124840b9b7cd6f54576f35b34b1ffe98d4ae90668efa963&v=0)LinearFind and reference issues and projects.](</business/plugins/linear/>)[![](https://files.openai.com/content?id=file_00000000dca471f5a61c7e4a3fab77a4&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=1&sig=63bacca4cbadf25340543a539567d26664d1f530be2b3f6119d3aaeb4edbed56&v=0)![](https://files.openai.com/content?id=file_00000000aaf8722f9e07cbdd00ea7ad8&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=1&sig=450cfa6b24e75515f4907572297126983f2d33e3f6f73cab443b4b5596a0deef&v=0)NotionSearch and reference your Notion pages.](</business/plugins/notion/>)[![](https://files.openai.com/content?id=file_000000004c0c81f78746051c8894e9f0&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=94634a13f89821846ddbbbaa5e99aadc55c2198ec4b4dbd453217f71362d0950&v=0)![](https://files.openai.com/content?id=file_000000004c0c81f78746051c8894e9f0&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=94634a13f89821846ddbbbaa5e99aadc55c2198ec4b4dbd453217f71362d0950&v=0)DocumentsCreate and edit documents](</business/plugins/documents/>)
+[![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)DataAnswer questions with data](</business/plugins/data/>)[![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)Product DesignTurn product ideas into designs and research artifacts](</business/plugins/product-design/>)[![](https://files.openai.com/content?id=file_00000000994081fd9df560367dfe54f4&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=8&sig=55e9028947fbc7ea3284b715ca95e34f797efbc5c4e0e47a9b2b0509d787308d&v=0)![](https://files.openai.com/content?id=file_00000000994081fd9df560367dfe54f4&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=8&sig=55e9028947fbc7ea3284b715ca95e34f797efbc5c4e0e47a9b2b0509d787308d&v=0)SlackLook up chats and messages](</business/plugins/slack/>)[![](https://files.openai.com/content?id=file_0000000021547230b7f5dfd4accb4de5&cdn=1&cp=pi&ma=31190400&ts=0&p=pi&cid=1&sig=dea02d9468c390a41124840b9b7cd6f54576f35b34b1ffe98d4ae90668efa963&v=0)![](https://files.openai.com/content?id=file_0000000021547230b7f5dfd4accb4de5&cdn=1&cp=pi&ma=31190400&ts=0&p=pi&cid=1&sig=dea02d9468c390a41124840b9b7cd6f54576f35b34b1ffe98d4ae90668efa963&v=0)LinearFind and reference issues and projects](</business/plugins/linear/>)[![](https://files.openai.com/content?id=file_00000000dca471f5a61c7e4a3fab77a4&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=1&sig=63bacca4cbadf25340543a539567d26664d1f530be2b3f6119d3aaeb4edbed56&v=0)![](https://files.openai.com/content?id=file_00000000aaf8722f9e07cbdd00ea7ad8&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=1&sig=450cfa6b24e75515f4907572297126983f2d33e3f6f73cab443b4b5596a0deef&v=0)NotionSearch and reference your Notion pages](</business/plugins/notion/>)[![](https://files.openai.com/content?id=file_000000004c0c81f78746051c8894e9f0&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=94634a13f89821846ddbbbaa5e99aadc55c2198ec4b4dbd453217f71362d0950&v=0)![](https://files.openai.com/content?id=file_000000004c0c81f78746051c8894e9f0&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=94634a13f89821846ddbbbaa5e99aadc55c2198ec4b4dbd453217f71362d0950&v=0)DocumentsCreate and edit documents](</business/plugins/documents/>)
 
 ## Get started with plugins
 
 Bring your organization’s data and tools into OpenAI products and accelerate what your teams can do.
 
 [Try ChatGPT Business(opens in a new window)](<https://chatgpt.com/team-sign-up>)[Contact sales](</contact-sales/>)
+
+## Get OpenAI for Business updates
+
+Product updates, practical guides, upcoming events, and more.
+
+Email address *
+
+By subscribing, you agree to receive emails from OpenAI. You can unsubscribe at any time. Read our [Privacy Policy⁠](<https://openai.com/policies/privacy-policy/>).
+
+Subscribe
 
 Research
 
@@ -116,10 +126,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -138,7 +148,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -185,6 +196,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

@@ -144,17 +144,15 @@ OpenAI
 
 [View all](</news/>)
 
-![ChatGPT Ads expands to Southeast Asia and Taiwan — cover](https://images.ctfassets.net/kftzwdyauwt9/2LRApkCOWR8QHAX6Sj3Rik/367336096ea9ec8e9623c1f4d6035c9f/chatgpt-ads-expands-to-southeast-asia-and-taiwan-cover.png?w=3840&q=90&fm=webp)
+![Helping teens learn, plan, and shape the future of AI — Cover](https://images.ctfassets.net/kftzwdyauwt9/3Gg3FDcLbArW4ZsVN8Ry5m/2dcb5d7f34f6cdedec3c6a3e6df83871/teens-learn-and-plan-cover.png?w=3840&q=90&fm=webp)
 
-[ChatGPT Ads expands to Southeast Asia and TaiwanProductSep 23, 2026](</index/chatgpt-ads-expands-southeast-asia-taiwan/>)
+[Helping teens learn, plan, and shape the future of AIProductOct 7, 2026](</index/teens-learn-and-plan/>)
 
-![Introducing GPT-6 Sol and Luna — Art card](https://images.ctfassets.net/kftzwdyauwt9/4HANTuYDvaT04gpR91bEQ9/885481304c5675cb7525bcccbe8c5580/gpt-6-sol-luna-art.png?w=3840&q=90&fm=webp)
+[GPT-6 and Intelligent UI for everyoneProductOct 7, 2026](</index/gpt-6-for-everyone/>)
 
-[Introducing GPT-6 Sol and LunaProductSep 22, 2026](</index/introducing-gpt-6-sol-and-luna/>)
+![Building advertising for the way people use AI — Cover](https://images.ctfassets.net/kftzwdyauwt9/17prJimIY0iXyzXUbZcAbB/521e021b422fbf7dade487a0eac38a18/building-advertising-for-the-way-people-use-ai-cover.png?w=3840&q=90&fm=webp)
 
-![Reimagining advertising with AI — Card cover](https://images.ctfassets.net/kftzwdyauwt9/fHwkKLVG8WFHvuUPqMXtz/1c49ba0859fe1e1e21f5d64f692490f5/reimagining-advertising-with-ai-cover.png?w=3840&q=90&fm=webp)
-
-[Reimagining advertising with AIProductSep 16, 2026](</index/reimagining-advertising-with-ai/>)
+[Building advertising for the way people use AIProductOct 5, 2026](</index/new-chatgpt-ads-format-and-measurement/>)
 
 Research
 
@@ -166,10 +164,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -188,7 +186,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -235,6 +234,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 
