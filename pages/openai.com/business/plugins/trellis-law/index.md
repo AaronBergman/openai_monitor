@@ -45,7 +45,7 @@ Developer
 Website
     [(opens in a new window)](<https://trellis.law>)
 
-[![](https://files.openai.com/content?id=file_000000008b7881f7855c2a2f3995da07&cdn=1&cp=pi&ma=31363200&ts=0&p=pi&cid=8&sig=a3a34f1a6e3d228f01541009ed8811e72ec99bf4da426d57d5c16334568c00e3&v=0)Trellis Law Summarize the status and recent motion practice in People of the State of New York v. Valve Corporation, NY No. 450952/2026(opens in a new window)](<https://chatgpt.com/?prompt=%40Trellis+Law+Summarize+the+status+and+recent+motion+practice+in+People+of+the+State+of+New+York+v.+Valve+Corporation%2C+NY+No.+450952%2F2026>)
+[![](https://files.openai.com/content?id=file_000000008b7881f7855c2a2f3995da07&cdn=1&cp=pi&ma=31363200&ts=0&p=pi&cid=8&sig=a3a34f1a6e3d228f01541009ed8811e72ec99bf4da426d57d5c16334568c00e3&v=0)Trellis Law Summarize the status and recent motion practice in People of the State of New York v. Valve Corporation, NY No. 450952/2026(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a4438da388081919a4222e44c6cd1bb?install&prompt=Summarize%20the%20status%20and%20recent%20motion%20practice%20in%20People%20of%20the%20State%20of%20New%20York%20v.%20Valve%20Corporation%2C%20NY%20No.%20450952%2F2026>)
 
 ## How it works
 
@@ -57,19 +57,19 @@ Direct access to the US state trial court system, enabling legal research and in
 
 ![](https://files.openai.com/content?id=file_000000008b7881f7855c2a2f3995da07&cdn=1&cp=pi&ma=31363200&ts=0&p=pi&cid=8&sig=a3a34f1a6e3d228f01541009ed8811e72ec99bf4da426d57d5c16334568c00e3&v=0)Trellis Law Analyze [judge]'s rulings on [motion type] in [jurisdiction]. Summarize recurring reasoning and available outcome data, identify useful comparable orders, and link to the underlying records.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Trellis+Law+Analyze+%5Bjudge%5D%27s+rulings+on+%5Bmotion+type%5D+in+%5Bjurisdiction%5D.+Summarize+recurring+reasoning+and+available+outcome+data%2C+identify+useful+comparable+orders%2C+and+link+to+the+underlying+records.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a4438da388081919a4222e44c6cd1bb?install&prompt=Analyze%20%5Bjudge%5D's%20rulings%20on%20%5Bmotion%20type%5D%20in%20%5Bjurisdiction%5D.%20Summarize%20recurring%20reasoning%20and%20available%20outcome%20data%2C%20identify%20useful%20comparable%20orders%2C%20and%20link%20to%20the%20underlying%20records.&surface=work>)
 
   * ### Review a company's litigation
 
 ![](https://files.openai.com/content?id=file_000000008b7881f7855c2a2f3995da07&cdn=1&cp=pi&ma=31363200&ts=0&p=pi&cid=8&sig=a3a34f1a6e3d228f01541009ed8811e72ec99bf4da426d57d5c16334568c00e3&v=0)Trellis Law Find state trial court cases involving [company] during [date range]. Group them by claim and status, highlight recurring disputes, and identify cases needing closer review with links to dockets.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Trellis+Law+Find+state+trial+court+cases+involving+%5Bcompany%5D+during+%5Bdate+range%5D.+Group+them+by+claim+and+status%2C+highlight+recurring+disputes%2C+and+identify+cases+needing+closer+review+with+links+to+dockets.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a4438da388081919a4222e44c6cd1bb?install&prompt=Find%20state%20trial%20court%20cases%20involving%20%5Bcompany%5D%20during%20%5Bdate%20range%5D.%20Group%20them%20by%20claim%20and%20status%2C%20highlight%20recurring%20disputes%2C%20and%20identify%20cases%20needing%20closer%20review%20with%20links%20to%20dockets.&surface=work>)
 
   * ### Study opposing counsel
 
 ![](https://files.openai.com/content?id=file_000000008b7881f7855c2a2f3995da07&cdn=1&cp=pi&ma=31363200&ts=0&p=pi&cid=8&sig=a3a34f1a6e3d228f01541009ed8811e72ec99bf4da426d57d5c16334568c00e3&v=0)Trellis Law Find [opposing counsel]'s recent [motion type] filings in [jurisdiction]. Compare their arguments and recorded outcomes, then summarize patterns relevant to [case issue] with source documents.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Trellis+Law+Find+%5Bopposing+counsel%5D%27s+recent+%5Bmotion+type%5D+filings+in+%5Bjurisdiction%5D.+Compare+their+arguments+and+recorded+outcomes%2C+then+summarize+patterns+relevant+to+%5Bcase+issue%5D+with+source+documents.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a4438da388081919a4222e44c6cd1bb?install&prompt=Find%20%5Bopposing%20counsel%5D's%20recent%20%5Bmotion%20type%5D%20filings%20in%20%5Bjurisdiction%5D.%20Compare%20their%20arguments%20and%20recorded%20outcomes%2C%20then%20summarize%20patterns%20relevant%20to%20%5Bcase%20issue%5D%20with%20source%20documents.&surface=work>)
 
 
 
@@ -84,11 +84,11 @@ Direct access to the US state trial court system, enabling legal research and in
 
 ## Resources
 
-### [Help centerLearn more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
+### [Help centerLearn more(opens in a new window)](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
 
-### [Plugin supportLearn more](<https://trellis.law/contact>)
+### [Plugin supportLearn more(opens in a new window)](<https://trellis.law/contact>)
 
-### [Privacy policyLearn more](<https://trellis.law/privacy-policy>)
+### [Privacy policyLearn more(opens in a new window)](<https://trellis.law/privacy-policy>)
 
 ## Add the Trellis Law plugin in a few clicks
 
@@ -98,13 +98,23 @@ Availability depends on the plugin, your plan, and workspace settings. Some conn
 
 ## Explore related plugins
 
-[![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)DataTurn data into clear decisions.](</business/plugins/data/>)[![](https://files.openai.com/content?id=file_00000000179c722f9e8a66d8ff27e98b&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=1&sig=95f7e407c6513f685f25b524ef42ee91ef631083e36c6ea4e3e24667b4692c84&v=0)![](https://files.openai.com/content?id=file_00000000179c722f9e8a66d8ff27e98b&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=1&sig=95f7e407c6513f685f25b524ef42ee91ef631083e36c6ea4e3e24667b4692c84&v=0)Public Equity InvestingSupport company research and deal analysis.](</business/plugins/public-equity-investing/>)[![](https://files.openai.com/content?id=file_00000000164c81f4aaf7aa331564d1db&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=8&sig=9e6e1bd26923419ce7bb21c3041efd6a73d226b202d381fd3e9a6d2d4674f790&v=0)![](https://files.openai.com/content?id=file_00000000b03c822f80d86fac2a367dd8&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=8&sig=662a0edc6e113525429d3c8a9a2bc5b692048d85ee51c78394dbc5cf4fd10365&v=0)UniCourtSearch and view court cases](</business/plugins/unicourt/>)[![](https://files.openai.com/content?id=file_00000000bfe482118babfdd9b0cf7353&cdn=1&cp=pi&ma=31190400&ts=0&p=pi&cid=8&sig=9da1a179f76e5116bb70d62b7a8de51b3b8add7a4e804d73b286809f88d6f98c&v=0)![](https://files.openai.com/content?id=file_0000000021a08246892b9999b59759a6&cdn=1&cp=pi&ma=30499200&ts=0&p=pi&cid=8&sig=aa853daac645b2aae1fd54239165f2e024b6ba195281b5bbce6fdce230f8d381&v=0)Midpage Legal ResearchLegal Research Data for AI](</business/plugins/midpage/>)[![](https://files.openai.com/content?id=file_0000000033ec81f6a5077baa2c492e08&cdn=1&cp=pi&ma=31536000&ts=0&p=pi&cid=8&sig=3fc3f532d061de604b2bee6605c591e9ea8b4b532b4f90c3be4c357147560563&v=0)![](https://files.openai.com/content?id=file_0000000033ec81f6a5077baa2c492e08&cdn=1&cp=pi&ma=31536000&ts=0&p=pi&cid=8&sig=3fc3f532d061de604b2bee6605c591e9ea8b4b532b4f90c3be4c357147560563&v=0)CourtListenerLegal research for everyone](</business/plugins/courtlistener/>)[![](https://files.openai.com/content?id=file_000000004c0c81f78746051c8894e9f0&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=94634a13f89821846ddbbbaa5e99aadc55c2198ec4b4dbd453217f71362d0950&v=0)![](https://files.openai.com/content?id=file_000000004c0c81f78746051c8894e9f0&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=94634a13f89821846ddbbbaa5e99aadc55c2198ec4b4dbd453217f71362d0950&v=0)DocumentsCreate and edit documents](</business/plugins/documents/>)
+[![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)DataAnswer questions with data](</business/plugins/data/>)[![](https://files.openai.com/content?id=file_00000000179c722f9e8a66d8ff27e98b&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=1&sig=95f7e407c6513f685f25b524ef42ee91ef631083e36c6ea4e3e24667b4692c84&v=0)![](https://files.openai.com/content?id=file_00000000179c722f9e8a66d8ff27e98b&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=1&sig=95f7e407c6513f685f25b524ef42ee91ef631083e36c6ea4e3e24667b4692c84&v=0)Public Equity InvestingPublic equity research](</business/plugins/public-equity-investing/>)[![](https://files.openai.com/content?id=file_00000000164c81f4aaf7aa331564d1db&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=8&sig=9e6e1bd26923419ce7bb21c3041efd6a73d226b202d381fd3e9a6d2d4674f790&v=0)![](https://files.openai.com/content?id=file_00000000b03c822f80d86fac2a367dd8&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=8&sig=662a0edc6e113525429d3c8a9a2bc5b692048d85ee51c78394dbc5cf4fd10365&v=0)UniCourtSearch and view court cases](</business/plugins/unicourt/>)[![](https://files.openai.com/content?id=file_00000000bfe482118babfdd9b0cf7353&cdn=1&cp=pi&ma=31190400&ts=0&p=pi&cid=8&sig=9da1a179f76e5116bb70d62b7a8de51b3b8add7a4e804d73b286809f88d6f98c&v=0)![](https://files.openai.com/content?id=file_0000000021a08246892b9999b59759a6&cdn=1&cp=pi&ma=30499200&ts=0&p=pi&cid=8&sig=aa853daac645b2aae1fd54239165f2e024b6ba195281b5bbce6fdce230f8d381&v=0)Midpage Legal ResearchLegal Research Data for AI](</business/plugins/midpage/>)[![](https://files.openai.com/content?id=file_0000000033ec81f6a5077baa2c492e08&cdn=1&cp=pi&ma=31536000&ts=0&p=pi&cid=8&sig=3fc3f532d061de604b2bee6605c591e9ea8b4b532b4f90c3be4c357147560563&v=0)![](https://files.openai.com/content?id=file_0000000033ec81f6a5077baa2c492e08&cdn=1&cp=pi&ma=31536000&ts=0&p=pi&cid=8&sig=3fc3f532d061de604b2bee6605c591e9ea8b4b532b4f90c3be4c357147560563&v=0)CourtListenerLegal research for everyone](</business/plugins/courtlistener/>)[![](https://files.openai.com/content?id=file_000000004c0c81f78746051c8894e9f0&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=94634a13f89821846ddbbbaa5e99aadc55c2198ec4b4dbd453217f71362d0950&v=0)![](https://files.openai.com/content?id=file_000000004c0c81f78746051c8894e9f0&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=94634a13f89821846ddbbbaa5e99aadc55c2198ec4b4dbd453217f71362d0950&v=0)DocumentsCreate and edit documents](</business/plugins/documents/>)
 
 ## Get started with plugins
 
 Bring your organization’s data and tools into OpenAI products and accelerate what your teams can do.
 
 [Try ChatGPT Business(opens in a new window)](<https://chatgpt.com/team-sign-up>)[Contact sales](</contact-sales/>)
+
+## Get OpenAI for Business updates
+
+Product updates, practical guides, upcoming events, and more.
+
+Email address *
+
+By subscribing, you agree to receive emails from OpenAI. You can unsubscribe at any time. Read our [Privacy Policy⁠](<https://openai.com/policies/privacy-policy/>).
+
+Subscribe
 
 Research
 
@@ -116,10 +126,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -138,7 +148,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -185,6 +196,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

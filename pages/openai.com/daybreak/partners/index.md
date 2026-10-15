@@ -64,7 +64,7 @@ Develop bounded, authorized workflows with safeguards, monitoring, human review,
 
 [Find a partner](<https://openai.com/business/partners/locator/?tags=partner-joint-cyber>)
 
-![Grid of logos for partners in OpenAI's Daybreak program](https://images.ctfassets.net/kftzwdyauwt9/5DNXdTp2BCly1OpsJ3QdAK/9f149ffa9fe477416931f8e8e5d33a1c/daybreak-partner-logos-hackerone-2x.png?w=3840&q=90&fm=webp)
+![Grid of logos for partners in OpenAI's Daybreak program](https://images.ctfassets.net/kftzwdyauwt9/7804POUzLqxTq17d08tfkf/e08d6c23b35829a118b1a1cc4fd5711e/daybreak-partner-logos-trail-of-bits.png?w=3840&q=90&fm=webp)
 
 ## Two ways to partner
 
@@ -354,19 +354,19 @@ Zscaler uses GPT cyber models to map endpoint and AI Access Graph risk, reconstr
 
 ### [Expanding Daybreak as the Cyber Defense Window NarrowsLearn more](</index/expanding-daybreak-as-the-cyber-defense-window-narrows/>)
 
-### [CrowdStrike and OpenAI Expand Partnership to Secure the Agentic EraLearn more](<https://www.crowdstrike.com/en-us/press-releases/crowdstrike-and-openai-expand-partnership-to-secure-the-agentic-era/>)
+### [CrowdStrike and OpenAI Expand Partnership to Secure the Agentic EraLearn more(opens in a new window)](<https://www.crowdstrike.com/en-us/press-releases/crowdstrike-and-openai-expand-partnership-to-secure-the-agentic-era/>)
 
-### [How Abnormal and OpenAI are Detecting and Responding to Rogue AI in the CloudLearn more](<https://abnormal.ai/blog/openai-rogue-ai-cloud-security>)
+### [How Abnormal and OpenAI are Detecting and Responding to Rogue AI in the CloudLearn more(opens in a new window)](<https://abnormal.ai/blog/openai-rogue-ai-cloud-security>)
 
-### [Check Point Brings OpenAI Daybreak Models Across Its Security Platform to Help Defenders Find, Validate, and Remediate RiskLearn more](<https://blog.checkpoint.com/ai-security/check-point-brings-openai-daybreak-models-across-its-security-platform-to-help-defenders-find-validate-and-remediate-risk/>)
+### [Check Point Brings OpenAI Daybreak Models Across Its Security Platform to Help Defenders Find, Validate, and Remediate RiskLearn more(opens in a new window)](<https://blog.checkpoint.com/ai-security/check-point-brings-openai-daybreak-models-across-its-security-platform-to-help-defenders-find-validate-and-remediate-risk/>)
 
-### [Cloudflare Partners with OpenAI Daybreak Models to Redefine Vulnerability Management with AI-Powered Edge DefenseLearn more](<https://www.cloudflare.com/press/press-releases/2026/cloudflare-partners-with-openai-daybreak-models-to-redefine-vulnerability-management-with-ai-powered-edge-defense/>)
+### [Cloudflare Partners with OpenAI Daybreak Models to Redefine Vulnerability Management with AI-Powered Edge DefenseLearn more(opens in a new window)](<https://www.cloudflare.com/press/press-releases/2026/cloudflare-partners-with-openai-daybreak-models-to-redefine-vulnerability-management-with-ai-powered-edge-defense/>)
 
-### [Darktrace Advances Incident Investigation and AI-Agent Security with OpenAI Daybreak ModelsLearn more](<https://www.darktrace.com/blog/darktrace-advances-incident-investigation-and-ai-agent-security-with-openai-daybreak-models>)
+### [Darktrace Advances Incident Investigation and AI-Agent Security with OpenAI Daybreak ModelsLearn more(opens in a new window)](<https://www.darktrace.com/blog/darktrace-advances-incident-investigation-and-ai-agent-security-with-openai-daybreak-models>)
 
-### [Elastic Brings OpenAI GPT Cyber Models Into Elastic Security to Help Defenders Investigate and Remediate Threats FasterLearn more](<https://ir.elastic.co/News--Events/news/news-details/2026/Elastic-Brings-OpenAI-GPT-Cyber-Models-Into-Elastic-Security-to-Help-Defenders-Investigate-and-Remediate-Threats-Faster/default.aspx>)
+### [Elastic Brings OpenAI GPT Cyber Models Into Elastic Security to Help Defenders Investigate and Remediate Threats FasterLearn more(opens in a new window)](<https://ir.elastic.co/News--Events/news/news-details/2026/Elastic-Brings-OpenAI-GPT-Cyber-Models-Into-Elastic-Security-to-Help-Defenders-Investigate-and-Remediate-Threats-Faster/default.aspx>)
 
-### [Proofpoint Brings OpenAI GPT Cyber Models into Security Operations to Help Defenders Investigate Threats FasterLearn more](<https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-soc-analyst-agent-openai-daybreak>)
+### [Proofpoint Brings OpenAI GPT Cyber Models into Security Operations to Help Defenders Investigate Threats FasterLearn more(opens in a new window)](<https://www.proofpoint.com/us/newsroom/press-releases/proofpoint-soc-analyst-agent-openai-daybreak>)
 
 Load more
 
@@ -388,10 +388,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -410,7 +410,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -428,6 +429,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -456,6 +458,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

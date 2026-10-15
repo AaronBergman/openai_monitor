@@ -45,7 +45,7 @@ Developer
 Website
     [(opens in a new window)](<https://www.midpage.ai>)
 
-[![](https://files.openai.com/content?id=file_0000000091a481f4a129f34a97e52ddf&cdn=1&cp=pi&ma=30499200&ts=0&p=pi&cid=8&sig=66417988cbfd768ad69af031ba6a56b916dd34093850394602ed1a9a72825626&v=0)Midpage Legal Research What does "after the pleadings are closed" in FRCP 12(c) mean? Does it include motions to dismiss ocunterclaims? 1st Circuit.(opens in a new window)](<https://chatgpt.com/?prompt=%40Midpage+Legal+Research+What+does+%22after+the+pleadings+are+closed%22+in+FRCP+12%28c%29+mean%3F+Does+it+include+motions+to+dismiss+ocunterclaims%3F+1st+Circuit.>)
+[![](https://files.openai.com/content?id=file_0000000091a481f4a129f34a97e52ddf&cdn=1&cp=pi&ma=30499200&ts=0&p=pi&cid=8&sig=66417988cbfd768ad69af031ba6a56b916dd34093850394602ed1a9a72825626&v=0)Midpage Legal Research What does "after the pleadings are closed" in FRCP 12(c) mean? Does it include motions to dismiss ocunterclaims? 1st Circuit.(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_699cc1a043688191a3ee44e6a2c2ebc1?install&prompt=What%20does%20%22after%20the%20pleadings%20are%20closed%22%20in%20FRCP%2012\(c\)%20mean%3F%20Does%20it%20include%20motions%20to%20dismiss%20ocunterclaims%3F%201st%20Circuit.>)
 
 ## How it works
 
@@ -57,19 +57,19 @@ Connect to an enterprise-grade database of case law, statutes, regulations, dock
 
 ![](https://files.openai.com/content?id=file_0000000091a481f4a129f34a97e52ddf&cdn=1&cp=pi&ma=30499200&ts=0&p=pi&cid=8&sig=66417988cbfd768ad69af031ba6a56b916dd34093850394602ed1a9a72825626&v=0)Midpage Legal Research Research this legal question in the specified jurisdiction. Find relevant cases and statutes, explain their relevance, and flag unresolved issues with source citations.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Midpage+Legal+Research+Research+this+legal+question+in+the+specified+jurisdiction.+Find+relevant+cases+and+statutes%2C+explain+their+relevance%2C+and+flag+unresolved+issues+with+source+citations.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_699cc1a043688191a3ee44e6a2c2ebc1?install&prompt=Research%20this%20legal%20question%20in%20the%20specified%20jurisdiction.%20Find%20relevant%20cases%20and%20statutes%2C%20explain%20their%20relevance%2C%20and%20flag%20unresolved%20issues%20with%20source%20citations.&surface=work>)
 
   * ### Compare legal authorities
 
 ![](https://files.openai.com/content?id=file_0000000091a481f4a129f34a97e52ddf&cdn=1&cp=pi&ma=30499200&ts=0&p=pi&cid=8&sig=66417988cbfd768ad69af031ba6a56b916dd34093850394602ed1a9a72825626&v=0)Midpage Legal Research Compare these authorities on the issue in my brief. Summarize their holdings, relevant facts, and distinctions, with references to the source text.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Midpage+Legal+Research+Compare+these+authorities+on+the+issue+in+my+brief.+Summarize+their+holdings%2C+relevant+facts%2C+and+distinctions%2C+with+references+to+the+source+text.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_699cc1a043688191a3ee44e6a2c2ebc1?install&prompt=Compare%20these%20authorities%20on%20the%20issue%20in%20my%20brief.%20Summarize%20their%20holdings%2C%20relevant%20facts%2C%20and%20distinctions%2C%20with%20references%20to%20the%20source%20text.&surface=work>)
 
   * ### Prepare a research memo
 
 ![](https://files.openai.com/content?id=file_0000000091a481f4a129f34a97e52ddf&cdn=1&cp=pi&ma=30499200&ts=0&p=pi&cid=8&sig=66417988cbfd768ad69af031ba6a56b916dd34093850394602ed1a9a72825626&v=0)Midpage Legal Research Draft a research memo on this issue using available legal sources. Separate the rule, supporting authorities, competing arguments, and questions requiring further review.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Midpage+Legal+Research+Draft+a+research+memo+on+this+issue+using+available+legal+sources.+Separate+the+rule%2C+supporting+authorities%2C+competing+arguments%2C+and+questions+requiring+further+review.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_699cc1a043688191a3ee44e6a2c2ebc1?install&prompt=Draft%20a%20research%20memo%20on%20this%20issue%20using%20available%20legal%20sources.%20Separate%20the%20rule%2C%20supporting%20authorities%2C%20competing%20arguments%2C%20and%20questions%20requiring%20further%20review.&surface=work>)
 
 
 
@@ -84,11 +84,11 @@ Connect to an enterprise-grade database of case law, statutes, regulations, dock
 
 ## Resources
 
-### [Help centerLearn more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
+### [Help centerLearn more(opens in a new window)](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
 
-### [Plugin supportLearn more](<https://www.midpage.ai>)
+### [Plugin supportLearn more(opens in a new window)](<https://www.midpage.ai>)
 
-### [Privacy policyLearn more](<https://www.midpage.ai/privacy-policy>)
+### [Privacy policyLearn more(opens in a new window)](<https://www.midpage.ai/privacy-policy>)
 
 ## Add the Midpage Legal Research plugin in a few clicks
 
@@ -106,6 +106,16 @@ Bring your organization’s data and tools into OpenAI products and accelerate w
 
 [Try ChatGPT Business(opens in a new window)](<https://chatgpt.com/team-sign-up>)[Contact sales](</contact-sales/>)
 
+## Get OpenAI for Business updates
+
+Product updates, practical guides, upcoming events, and more.
+
+Email address *
+
+By subscribing, you agree to receive emails from OpenAI. You can unsubscribe at any time. Read our [Privacy Policy⁠](<https://openai.com/policies/privacy-policy/>).
+
+Subscribe
+
 Research
 
   * [Research Index](</research/index/>)
@@ -116,10 +126,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -138,7 +148,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -185,6 +196,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

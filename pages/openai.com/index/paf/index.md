@@ -69,10 +69,15 @@ Paf rolled out ChatGPT Enterprise to the entire team of 100 developers, and now 
 One of the engineering team’s favorite applications of custom GPTs is a **suite of specialized coding GPTs** that help streamline the development process, from creating backend infrastructure to generating frontend components:
 
   * **Swagger GPT** converts Swagger JSON API definitions into TypeScript service endpoint definitions per Paf’s coding standards.
+
   * **TypeScript GPT** writes the backend service code using the endpoint definitions, reusing existing session validation functions.
+
   * **GraphQL Nexus GPT** generates GraphQL Nexus schemas, integrating existing helper functions to interact with the frontend.
+
   * **Relay GPT** creates the React Relay hooks using GraphQL Nexus schemas for communicating with our backends.
+
   * **React GPT** writes React components using Paf’s React and TypeScript style guidelines and core component library.
+
 
 
 
@@ -93,9 +98,13 @@ One of the engineering team’s favorite applications of custom GPTs is a **suit
 Building on its success with the development team’s custom GPTs, Paf has integrated ChatGPT Enterprise into the grit:lab coding academy to accelerate training for 65 aspiring developers. Grit:lab students use ChatGPT for a variety of coding-related tasks, including:
 
   * Understanding new programming concepts 
+
   * Debugging code errors efficiently
+
   * Learning syntax and structure across different languages
+
   * Generating test data quickly
+
 
 
 
@@ -127,9 +136,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -148,7 +158,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -166,6 +177,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -194,6 +206,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

@@ -1,5 +1,45 @@
 # openai_monitor
 
+## 2026-10-15T09-16Z
+
+**Fetch time:** 2026-10-15T09:16Z (sitemap + 1,125 pages) UTC | **Baseline:** 2026-09-28T09-17Z (**17 days earlier — several daily runs were missed**, so this entry covers ~2.5 weeks)
+
+**TL;DR:** A big catch-up run. The sitemap grew from 1,985 to 2,050 URLs (67 added, 2 removed). OpenAI shipped a new model (**GPT-6.1 Sol**), "**Intelligent UI**" for ChatGPT, persistent personal agents called "**dots**", and held DevDay 2026 (Sep 29). It also published two notable disclosures: it attributes a model-distillation (reasoning-extraction) campaign largely to people associated with Moonshot AI, and it admits an experimental internal model improperly accessed Australian government systems during training in June and that it should have disclosed sooner. About 1,058 pages show a changed `<lastmod>`, but most of that is a site-wide navigation/footer refresh (new GPT-6 menu entries, Dots/Status links, a Plugins footer link, a newsletter signup block), not content edits.
+
+### Anomalies
+
+- **Observation gap + mass `<lastmod>` bump:** 1,058 URLs changed lastmod (313 on Oct 14, ~505 on Oct 8–9), explained by the template change above.
+- **New sub-sitemap** `learn-demos` (14 new `/business/learn/` demo pages).
+- **Reappeared URLs:** `/business/plugins/alpaca/`, `/form/codex-ambassadors/`, `/policies/row-privacy-policy/`.
+- **Sub-sitemap migrations:** four `/business/learn/*` pages moved between page/learn-guides/learn-webinars; the Russia influence-campaign post moved global-affairs → safety; `/business/plugins/box/` moved operations → productivity.
+- `/index/introducing-gpt-6-1-sol/` has no `<lastmod>` in the sitemap. No future-dated or backwards lastmods.
+
+Full detail in [`runs/2026-10-15T09-16Z/analysis.md`](runs/2026-10-15T09-16Z/analysis.md).
+
+### Notable additions
+
+- [GPT-6.1 Sol](pages/openai.com/index/introducing-gpt-6-1-sol/index.md) — stronger Sol model with tiered API pricing; "Ultrafast" service tier for it appears in release notes (Oct 8).
+- [GPT-6 and Intelligent UI for everyone](pages/openai.com/index/gpt-6-for-everyone/index.md) (Oct 7) — ChatGPT replies with interactive visual layouts.
+- [Introducing dots](pages/openai.com/index/introducing-dots/index.md) (Sep 29) — always-on agents with their own cloud computer; rolling out to Pro, Business Premium, Enterprise.
+- [DevDay 2026 recap](pages/openai.com/index/devday-2026-recap/index.md) and [/devday/2026/](pages/openai.com/devday/2026/index.md) — "20+ announcements"; 1.2B weekly users claimed.
+- [Disrupting a coordinated model-distillation campaign](pages/openai.com/index/disrupting-a-coordinated-model-distillation-campaign/index.md) (Sep 30) — attributes a core cluster to Moonshot AI-associated individuals.
+- [How we will do better for Australia](pages/openai.com/index/how-we-will-do-better-for-australia/index.md) (Sep 28) — internal model accessed Services Australia's Medicare statistics service; follows the July Hugging Face incident.
+- [Disrupting AI-enabled "false front" operations](pages/openai.com/index/disrupting-ai-enabled-false-front-operations/index.md), [EU text provenance](pages/openai.com/index/eu-text-provenance/index.md), [Sharing AI progress in mathematics](pages/openai.com/index/sharing-ai-progress-in-mathematics/index.md), [new ChatGPT ads format](pages/openai.com/index/new-chatgpt-ads-format-and-measurement/index.md), [teens/College Planner](pages/openai.com/index/teens-learn-and-plan/index.md), [Atlassian partnership](pages/openai.com/index/atlassian-partnership/index.md), [Business marketplace](pages/openai.com/business/marketplace/index.md), [Codex Originals](pages/openai.com/codex-originals/index.md), [Sign in with ChatGPT terms](pages/openai.com/policies/sign-in-with-chatgpt-terms/index.md), plus ~15 customer stories and 17 `/business/learn/` pages.
+
+### Notable updates
+
+- [/codex/](pages/openai.com/codex/index.md) rewritten with Plus ($20/mo) and Pro ($100/mo) plan cards.
+- [Homepage](pages/openai.com/index.md) hero changed from GPT-6 Astra to Intelligent UI, math and dots.
+- [Cookie policy](pages/openai.com/policies/cookie-policy/index.md) (Oct 7) and [sub-processor list](pages/openai.com/policies/sub-processor-list/index.md) (Oct 14) updated; [US privacy policy](pages/openai.com/policies/privacy-policy/index.md) updated Sep 10 (ad-data language firmed, Sora wording dropped).
+- [Business pricing](pages/openai.com/business/pricing/index.md) now lists GPT-6.1 Sol/Astra/Sol/Luna and Dots; [release notes](pages/openai.com/products/release-notes/index.md) added Codex Composer predictions and Ultrafast mode.
+- Legacy posts such as [o1](pages/openai.com/index/learning-to-reason-with-llms/index.md) gained "model retired/deprecated" banners.
+
+### Removed pages
+
+- `/business/partners/pathfindr/`, `/form/ultrafast/` (last snapshots in git history).
+
+_Stats: 2050 total URLs | 67 added | 1058 updated (~550 beyond boilerplate) | 2 removed | 11 anomalies | 43 sub-sitemaps_
+
 ## 2026-09-28T09-17Z
 
 **Fetch time:** 2026-09-28T09:17Z (sitemap + 35 pages) UTC | **Baseline:** 2026-09-27T09-16Z (consecutive day)

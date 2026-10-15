@@ -62,8 +62,6 @@ To address these issues, the ETO began using AI, incorporating ChatGPT as a key 
 
 ChatGPT Translation ProcessETO Operational Process
 
-![State of Minnesota > Tabs > Diagram 1](https://images.ctfassets.net/kftzwdyauwt9/4MrUweiXhwlalFXBhZtkVG/768c3c8bb53a283bc18a47839533d16f/ChatGPT_Translation_Process_Light.svg?w=3840&q=90)
-
 As Adam Taha, Director of the ETO, describes, “The balance between accuracy and speed is the crux of the problem.” By incorporating AI-driven solutions and especially ChatGPT, the ETO has been able to address this challenge, enhancing both the speed and accuracy of its translation services.
 
 Beyond translation accuracy, the ETO’s ChatGPT‑enabled workflow also optimizes for cultural relevance to ensure government messaging is both accessible and inclusive. For example, with Hmong and Somali, the ETO developed spreadsheets with culturally relevant terms and translations and incorporated these into their GPTs to improve the model’s cultural awareness. By incorporating a process where ETO translation experts review and correct ChatGPT translations before uploading them to custom GPTs for future reference, the ETO significantly speeds up the quality assurance stage, with fewer edits required for each translation, ensuring that no mistakes or discrepancies occur twice.
@@ -72,8 +70,6 @@ The program’s success led to a full rollout in July, just four months after th
 
 Spanish translatorHmong translatorSomali translator
 
-[Try the Spanish prompt in ChatGPT→⁠(opens in a new window)](<https://chatgpt.com/?q=%23+Context%3A%0AYou+are+an+expert+translator+specializing+in+converting+government+documents+from+English+into+Latin+American+Spanish%2C+specifically+tailored+for+the+Spanish-speaking+community+in+Minnesota.+Your+role+is+crucial+for+ensuring+that+official+communications+are+culturally+accurate%2C+legally+sound%2C+and+easy+to+understand+for+the+intended+audience.%0A%0A%23+Instructions%3A%0ATranslate+all+documents+and+chat+text+precisely+and+completely+into+Latin+American+Spanish%2C+ensuring+the+translation+resonates+with+Minnesota%27s+Spanish-speaking+population.+Accuracy+and+cultural+relevance+are+paramount.%0A%0A%23+Considerations%3A%0A-+Focus+on+linguistic+nuances+and+cultural+contexts+vital+for+producing+accurate+and+culturally+appropriate+translations%0A-+Maintain+the+formal+tone+of+the+original+document%2C+using+idiomatic+expressions+where+appropriate%2C+and+being+mindful+of+cultural+sensitivities+and+legal+terms%0A-+Adhere+to+the+rules+set+by+the+Real+Academia+Espa%C3%B1ola+%28RAE%29+for+capitalization%2C+ensuring+grammatical+precision+and+consistency%0A-Apply+gender-inclusive+language+using+the+following+format%3A+%27el%27+%27del%27+%27al%27+with+parentheses+for+inclusivity+%28e.g.%2C+el+%28la%29+ni%C3%B1o%28a%29%2C+el+%28la%29+tutor%28a%29+legal%2C+el+%28la%29+padre+%28madre%29%29.%0A-+Certain+proper+names%2C+organizational+titles%2C+acronyms%2C+and+legal+terms+should+remain+untranslated+for+consistency+and+accuracy.%0A-+Preferred+Translations%3A+Use+specific+preferred+translations+for+key+terms.+For+instance%3A%0A%E2%80%9CNo+dispongo+de+tiempo%E2%80%9D+instead+of+%22No+tengo+tiempo%22%0A%E2%80%9CTutor%28a%29+legal%E2%80%9D+for+%E2%80%9CLegal+guardian%E2%80%9D%0AFollow+other+provided+guidelines+for+terminology+as+outlined+in+attached+documents+or+additional+reference+material.%0AUse+%27Favor+de+%2B+verbo%27+when+asking+the+reader+to+please+do+something%0A%0A%23+Reminder%3A+%0AYour+primary+objective+is+to+create+clear%2C+respectful%2C+and+culturally+sensitive+translations+that+meet+the+formal+requirements+of+government+communications%2C+ensuring+that+nothing+is+lost+or+misrepresented+in+translation>)
-
 ## Delivering tangible benefits to Minnesotans
 
 The ChatGPT‑integrated translation process has been pivotal for the ETO and the communities they serve. Karine Lao Her, the department's Hmong language team lead, shares, “We anticipate rapid growth in our Hmong translation services in the coming months as we continue to refine the accuracy of our Hmong Custom GPTs. This has already made a significant difference in how our community connects with state resources.”
@@ -81,9 +77,13 @@ The ChatGPT‑integrated translation process has been pivotal for the ETO and th
 ChatGPT has significantly enhanced the ETO’s and the State of Minnesota’s Executive Branch’s ability to serve Minnesotans in four impactful ways:
 
   * **Rapid turnaround times:** What once took weeks to complete can now be done in under 48 hours, with urgent translation requests fulfilled in as little as 2 hours. Since the beta launch, the ETO has processed and delivered over 3,000 translation requests, translating over 2,000,000 words.
+
   * **Financial efficiency:** Adopting this new process has allowed Minnesota to more efficiently allocate resources, resulting in financial benefits of over $100,000 per month, which can now be redirected to support other strategic state initiatives.
+
   * **Service expansion:** Beyond Hmong, Somali, and Spanish, the ETO now offers translation and quality assurance support for languages including French, Arabic, Plain Language English, and Pidgin English by using ChatGPT. The ETO also offers support for more languages by providing cost reimbursements for requesters who use ETO services in conjunction with ChatGPT and conduct quality assurance with external vendors.
+
   * **More equitable access to government services:** Daha Gobdoon, the Somali language team lead, reflects on the cultural importance of knowledge, quoting the Somali proverb, “Aqoon La’aani waa Iftiin La’aan,” or “lack of knowledge is like lack of light.” “When communities face challenges, delivering information in their language is essential, but timely delivery is often difficult. Now, our community receives crucial government information faster than ever, with rapid turnarounds eliminating the long wait for important documents.”
+
 
 
 
@@ -109,11 +109,11 @@ Through improved translation, the State of Minnesota’s ETO is expanding access
 
 [Introducing Verdi, an AI dev platform powered by GPT-4oSep 24, 2024](</index/mercado-libre/>)
 
-![Genmab > Cover](https://images.ctfassets.net/kftzwdyauwt9/5yh8gTLhVFcUsY9Nj0O02v/ab091a8b07f4c35f3ff19a58e4e18783/oai_Genmab_1_1.png?w=3840&q=90&fm=webp)
+![The Genmab logo on abstract artwork featuring swirling pastel shades of green, blue, and purple, resembling a DNA helix.](https://images.ctfassets.net/kftzwdyauwt9/5yh8gTLhVFcUsY9Nj0O02v/ab091a8b07f4c35f3ff19a58e4e18783/oai_Genmab_1_1.png?w=3840&q=90&fm=webp)
 
 [Genmab launches “AI Everywhere” Sep 19, 2024](</index/genmab/>)
 
-![Arco Educação](https://images.ctfassets.net/kftzwdyauwt9/2B3BwVWKEvWadO4ceyIeV2/f25f780834f5f17bfab9b6f83955b2e5/oai_arco_thumbnail.png?w=3840&q=90&fm=webp)
+![The image shows the "arco" logo in white text with a simple, upward-pointing arrow design above it. The background is a soft, abstract blue watercolor with blurred shapes resembling floating books.](https://images.ctfassets.net/kftzwdyauwt9/2B3BwVWKEvWadO4ceyIeV2/f25f780834f5f17bfab9b6f83955b2e5/oai_arco_thumbnail.png?w=3840&q=90&fm=webp)
 
 [Using GPT-4 to improve teaching and learning in BrazilSep 17, 2024](</index/arco-education/>)
 
@@ -127,9 +127,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -148,7 +149,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -166,6 +168,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -194,6 +197,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 
@@ -221,3 +225,7 @@ Terms & Policies
 OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
+
+![State of Minnesota > Tabs > Diagram 1](https://images.ctfassets.net/kftzwdyauwt9/4MrUweiXhwlalFXBhZtkVG/768c3c8bb53a283bc18a47839533d16f/ChatGPT_Translation_Process_Light.svg?w=3840&q=90)
+
+[Try the Spanish prompt in ChatGPT→⁠(opens in a new window)](<https://chatgpt.com/?q=%23+Context%3A%0AYou+are+an+expert+translator+specializing+in+converting+government+documents+from+English+into+Latin+American+Spanish%2C+specifically+tailored+for+the+Spanish-speaking+community+in+Minnesota.+Your+role+is+crucial+for+ensuring+that+official+communications+are+culturally+accurate%2C+legally+sound%2C+and+easy+to+understand+for+the+intended+audience.%0A%0A%23+Instructions%3A%0ATranslate+all+documents+and+chat+text+precisely+and+completely+into+Latin+American+Spanish%2C+ensuring+the+translation+resonates+with+Minnesota%27s+Spanish-speaking+population.+Accuracy+and+cultural+relevance+are+paramount.%0A%0A%23+Considerations%3A%0A-+Focus+on+linguistic+nuances+and+cultural+contexts+vital+for+producing+accurate+and+culturally+appropriate+translations%0A-+Maintain+the+formal+tone+of+the+original+document%2C+using+idiomatic+expressions+where+appropriate%2C+and+being+mindful+of+cultural+sensitivities+and+legal+terms%0A-+Adhere+to+the+rules+set+by+the+Real+Academia+Espa%C3%B1ola+%28RAE%29+for+capitalization%2C+ensuring+grammatical+precision+and+consistency%0A-Apply+gender-inclusive+language+using+the+following+format%3A+%27el%27+%27del%27+%27al%27+with+parentheses+for+inclusivity+%28e.g.%2C+el+%28la%29+ni%C3%B1o%28a%29%2C+el+%28la%29+tutor%28a%29+legal%2C+el+%28la%29+padre+%28madre%29%29.%0A-+Certain+proper+names%2C+organizational+titles%2C+acronyms%2C+and+legal+terms+should+remain+untranslated+for+consistency+and+accuracy.%0A-+Preferred+Translations%3A+Use+specific+preferred+translations+for+key+terms.+For+instance%3A%0A%E2%80%9CNo+dispongo+de+tiempo%E2%80%9D+instead+of+%22No+tengo+tiempo%22%0A%E2%80%9CTutor%28a%29+legal%E2%80%9D+for+%E2%80%9CLegal+guardian%E2%80%9D%0AFollow+other+provided+guidelines+for+terminology+as+outlined+in+attached+documents+or+additional+reference+material.%0AUse+%27Favor+de+%2B+verbo%27+when+asking+the+reader+to+please+do+something%0A%0A%23+Reminder%3A+%0AYour+primary+objective+is+to+create+clear%2C+respectful%2C+and+culturally+sensitive+translations+that+meet+the+formal+requirements+of+government+communications%2C+ensuring+that+nothing+is+lost+or+misrepresented+in+translation>)

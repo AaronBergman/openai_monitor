@@ -32,7 +32,7 @@ OpenAI
 
 # Sales
 
-Prepare account work and customer follow-up.
+Prepare account work and customer follow-up
 
 [Install plugin(opens in a new window)](<https://chatgpt.com/plugins/Plugin_af5b4b796b588191b3f2c610aa093799>)[Contact sales](</contact-sales/>)
 
@@ -48,7 +48,7 @@ Developer
 Website
     [(opens in a new window)](<https://openai.com/>)
 
-[![](https://files.openai.com/content?id=file_00000000e8c081f59ddb247fd01e2217&cdn=1&cp=pi&ma=32140800&ts=0&p=pi&cid=8&sig=9e32ada229d197bd7e3c7c8d9ee1d62d2b076f11b47bbf35fe317cea2febe085&v=0)Sales What can you do?(opens in a new window)](<https://chatgpt.com/?prompt=%40Sales+What+can+you+do%3F>)
+[![](https://files.openai.com/content?id=file_00000000e8c081f59ddb247fd01e2217&cdn=1&cp=pi&ma=32140800&ts=0&p=pi&cid=8&sig=9e32ada229d197bd7e3c7c8d9ee1d62d2b076f11b47bbf35fe317cea2febe085&v=0)Sales What can you do?(opens in a new window)](<https://chatgpt.com/plugins/Plugin_af5b4b796b588191b3f2c610aa093799?install&prompt=What%20can%20you%20do%3F>)
 
 ## How it works
 
@@ -60,19 +60,19 @@ Use Sales in ChatGPT to prepare account plans, meeting briefs, outreach, follow-
 
 ![](https://files.openai.com/content?id=file_00000000e8c081f59ddb247fd01e2217&cdn=1&cp=pi&ma=32140800&ts=0&p=pi&cid=8&sig=9e32ada229d197bd7e3c7c8d9ee1d62d2b076f11b47bbf35fe317cea2febe085&v=0)Sales Build an account plan for [customer] with goals, stakeholders, open opportunities, risks, proof points, and next-best actions.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Sales+Build+an+account+plan+for+%5Bcustomer%5D+with+goals%2C+stakeholders%2C+open+opportunities%2C+risks%2C+proof+points%2C+and+next-best+actions.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/Plugin_af5b4b796b588191b3f2c610aa093799?install&prompt=Build%20an%20account%20plan%20for%20%5Bcustomer%5D%20with%20goals%2C%20stakeholders%2C%20open%20opportunities%2C%20risks%2C%20proof%20points%2C%20and%20next-best%20actions.&surface=work>)
 
   * ### Improve follow-up quality
 
 ![](https://files.openai.com/content?id=file_00000000e8c081f59ddb247fd01e2217&cdn=1&cp=pi&ma=32140800&ts=0&p=pi&cid=8&sig=9e32ada229d197bd7e3c7c8d9ee1d62d2b076f11b47bbf35fe317cea2febe085&v=0)Sales Turn these meeting notes into a customer-ready follow-up email plus an internal summary with owners and deadlines.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Sales+Turn+these+meeting+notes+into+a+customer-ready+follow-up+email+plus+an+internal+summary+with+owners+and+deadlines.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/Plugin_af5b4b796b588191b3f2c610aa093799?install&prompt=Turn%20these%20meeting%20notes%20into%20a%20customer-ready%20follow-up%20email%20plus%20an%20internal%20summary%20with%20owners%20and%20deadlines.&surface=work>)
 
   * ### Strengthen pipeline oversight
 
 ![](https://files.openai.com/content?id=file_00000000e8c081f59ddb247fd01e2217&cdn=1&cp=pi&ma=32140800&ts=0&p=pi&cid=8&sig=9e32ada229d197bd7e3c7c8d9ee1d62d2b076f11b47bbf35fe317cea2febe085&v=0)Sales Review my pipeline for this month and identify the deals most at risk, why they matter, and what I should do next.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Sales+Review+my+pipeline+for+this+month+and+identify+the+deals+most+at+risk%2C+why+they+matter%2C+and+what+I+should+do+next.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/Plugin_af5b4b796b588191b3f2c610aa093799?install&prompt=Review%20my%20pipeline%20for%20this%20month%20and%20identify%20the%20deals%20most%20at%20risk%2C%20why%20they%20matter%2C%20and%20what%20I%20should%20do%20next.&surface=work>)
 
 
 
@@ -109,9 +109,9 @@ Use Sales in ChatGPT to prepare account plans, meeting briefs, outreach, follow-
 
 ## Resources
 
-### [Help centerLearn more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
+### [Help centerLearn more(opens in a new window)](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
 
-### [Plugin supportLearn more](<https://help.openai.com/>)
+### [Plugin supportLearn more(opens in a new window)](<https://help.openai.com/>)
 
 ### [Privacy policyLearn more](<https://openai.com/policies/privacy-policy/>)
 
@@ -123,13 +123,23 @@ Availability depends on the plugin, your plan, and workspace settings. Some conn
 
 ## Explore related plugins
 
-[![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)DataTurn data into clear decisions.](</business/plugins/data/>)[![](https://files.openai.com/content?id=file_0000000005fc722f88207b67c3fbe10a&cdn=1&cp=pi&ma=31190400&ts=0&p=pi&cid=1&sig=4fccf640c85543b3c2aa0a0de6592ed9e1d71bbeb3169bb63bf4217a6809857f&v=0)![](https://files.openai.com/content?id=file_0000000005fc722f88207b67c3fbe10a&cdn=1&cp=pi&ma=31190400&ts=0&p=pi&cid=1&sig=4fccf640c85543b3c2aa0a0de6592ed9e1d71bbeb3169bb63bf4217a6809857f&v=0)SalesforceUse the Salesforce plugin to review permitted CRM records, understand accounts and deals, summarize pipeline risk, and prepare follow-up.](</business/plugins/salesforce/>)[![](https://files.openai.com/content?id=file_00000000d6d871f6af516dd237732886&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=8&sig=57605450edcdfd982a04b1b6acfaaefae75de19e6e4de54c96f260b5442b30a9&v=0)![](https://files.openai.com/content?id=file_00000000d6d871f6af516dd237732886&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=8&sig=57605450edcdfd982a04b1b6acfaaefae75de19e6e4de54c96f260b5442b30a9&v=0)HubSpotAnalyze CRM data and surface insights.](</business/plugins/hubspot/>)[![](https://files.openai.com/content?id=file_0000000088dc71f6a290da6b9746773b&cdn=1&cp=pi&ma=32486400&ts=0&p=pi&cid=8&sig=053f47893fea5795866c05c071a32556575279ccb29b59b78c36b6efb2d97385&v=0)![](https://files.openai.com/content?id=file_0000000088dc71f6a290da6b9746773b&cdn=1&cp=pi&ma=32486400&ts=0&p=pi&cid=8&sig=053f47893fea5795866c05c071a32556575279ccb29b59b78c36b6efb2d97385&v=0)ClayFind and engage prospects.](</business/plugins/clay/>)[![](https://files.openai.com/content?id=file_000000007b5c71f68f4ce7109fe9895c&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=8&sig=a5a793a7e75695a72af470326e881780a30318137c1513faad1613814c2c9dc1&v=0)![](https://files.openai.com/content?id=file_0000000072c871f6aa01f4d6e74a0bac&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=8&sig=968d61b4c236ca6388c4568374ddba27d71bb52aff64cd2d86100a352481dbe3&v=0)ZoomInfoB2B data and GTM insights](</business/plugins/zoominfo/>)[![](https://files.openai.com/content?id=file_00000000aaa871f88a34781f5d3b0b4b&cdn=1&cp=pi&ma=30326400&ts=0&p=pi&cid=1&sig=1c06dbfa6124c46ba704c3b117f7d0305da93bc6ef5465612e3adcbffe34dfef&v=0)![](https://files.openai.com/content?id=file_00000000aaa871f88a34781f5d3b0b4b&cdn=1&cp=pi&ma=30326400&ts=0&p=pi&cid=1&sig=1c06dbfa6124c46ba704c3b117f7d0305da93bc6ef5465612e3adcbffe34dfef&v=0)Zoho CRMConnect to sync Zoho CRM records and activities for use in ChatGPT.](</business/plugins/zoho-crm/>)
+[![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)DataAnswer questions with data](</business/plugins/data/>)[![](https://files.openai.com/content?id=file_0000000005fc722f88207b67c3fbe10a&cdn=1&cp=pi&ma=31190400&ts=0&p=pi&cid=1&sig=4fccf640c85543b3c2aa0a0de6592ed9e1d71bbeb3169bb63bf4217a6809857f&v=0)![](https://files.openai.com/content?id=file_0000000005fc722f88207b67c3fbe10a&cdn=1&cp=pi&ma=31190400&ts=0&p=pi&cid=1&sig=4fccf640c85543b3c2aa0a0de6592ed9e1d71bbeb3169bb63bf4217a6809857f&v=0)SalesforceUse the Salesforce plugin to review permitted CRM records, understand accounts and deals, summarize pipeline risk, and prepare follow-up](</business/plugins/salesforce/>)[![](https://files.openai.com/content?id=file_00000000d6d871f6af516dd237732886&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=8&sig=57605450edcdfd982a04b1b6acfaaefae75de19e6e4de54c96f260b5442b30a9&v=0)![](https://files.openai.com/content?id=file_00000000d6d871f6af516dd237732886&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=8&sig=57605450edcdfd982a04b1b6acfaaefae75de19e6e4de54c96f260b5442b30a9&v=0)HubSpotAnalyze CRM data and surface insights](</business/plugins/hubspot/>)[![](https://files.openai.com/content?id=file_0000000088dc71f6a290da6b9746773b&cdn=1&cp=pi&ma=32486400&ts=0&p=pi&cid=8&sig=053f47893fea5795866c05c071a32556575279ccb29b59b78c36b6efb2d97385&v=0)![](https://files.openai.com/content?id=file_0000000088dc71f6a290da6b9746773b&cdn=1&cp=pi&ma=32486400&ts=0&p=pi&cid=8&sig=053f47893fea5795866c05c071a32556575279ccb29b59b78c36b6efb2d97385&v=0)ClayGTM Data and Functions](</business/plugins/clay/>)[![](https://files.openai.com/content?id=file_000000007b5c71f68f4ce7109fe9895c&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=8&sig=a5a793a7e75695a72af470326e881780a30318137c1513faad1613814c2c9dc1&v=0)![](https://files.openai.com/content?id=file_0000000072c871f6aa01f4d6e74a0bac&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=8&sig=968d61b4c236ca6388c4568374ddba27d71bb52aff64cd2d86100a352481dbe3&v=0)ZoomInfoB2B data and GTM insights](</business/plugins/zoominfo/>)[![](https://files.openai.com/content?id=file_00000000aaa871f88a34781f5d3b0b4b&cdn=1&cp=pi&ma=30326400&ts=0&p=pi&cid=1&sig=1c06dbfa6124c46ba704c3b117f7d0305da93bc6ef5465612e3adcbffe34dfef&v=0)![](https://files.openai.com/content?id=file_00000000aaa871f88a34781f5d3b0b4b&cdn=1&cp=pi&ma=30326400&ts=0&p=pi&cid=1&sig=1c06dbfa6124c46ba704c3b117f7d0305da93bc6ef5465612e3adcbffe34dfef&v=0)Zoho CRMConnect to sync Zoho CRM records and activities for use in ChatGPT](</business/plugins/zoho-crm/>)
 
 ## Get started with plugins
 
 Bring your organization’s data and tools into OpenAI products and accelerate what your teams can do.
 
 [Try ChatGPT Business(opens in a new window)](<https://chatgpt.com/team-sign-up>)[Contact sales](</contact-sales/>)
+
+## Get OpenAI for Business updates
+
+Product updates, practical guides, upcoming events, and more.
+
+Email address *
+
+By subscribing, you agree to receive emails from OpenAI. You can unsubscribe at any time. Read our [Privacy Policy⁠](<https://openai.com/policies/privacy-policy/>).
+
+Subscribe
 
 Research
 
@@ -141,10 +151,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -163,7 +173,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -210,6 +221,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 
