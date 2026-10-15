@@ -61,12 +61,19 @@ Martin Elwin, Senior Director of Engineering at Klarna
 Klarna’s AI assistant, powered by OpenAI, is designed to enhance the shopping and payments experience for Klarna’s 150 million consumers worldwide, capable of managing a range of tasks from multilingual customer service to managing refunds and returns, and fostering healthy financial habits. Within the first month of being live: 
 
   * The AI assistant has had **2.3 million conversations, two-thirds of Klarna’s customer service chats**
+
   * It is doing the equivalent work of **700 full-time agents**
+
   * It is **on par with human agents** in regard to customer satisfaction score
+
   * It is more accurate in errand resolution, **leading to a 25% drop in repeat inquiries**
+
   * Customers now **resolve their errands in less than 2 mins compared to 11 mins previously**
+
   * It’s available in **23 markets, 24/7** and communicates in more than **35 languages**
+
   * It’s estimated to drive a **$40 million USD in profit** improvement to Klarna in 2024  
+
 
 
 
@@ -76,8 +83,11 @@ Klarna’s AI assistant, powered by OpenAI, is designed to enhance the shopping 
 Klarna’s adoption of AI hasn’t been limited to its products—it extends deep into the organization as well. Klarna has made ChatGPT Enterprise available to all its employees around the globe, enabling access to the power of OpenAI in the familiar and easy-to-use ChatGPT interface, with protected company data. 
 
   * 90% of Klarna’s employees are using generative AI tools powered by OpenAI daily
+
   * Their success spans across the org, with Communications, Marketing, and Legal teams seeing adoption rates of 93%, 88%, and 86% respectively
+
   * Klarna is seeing a wide variety of additional use cases, from building software to streamlining customer service
+
 
 
 
@@ -91,15 +101,15 @@ Klarna’s adoption of AI hasn’t been limited to its products—it extends dee
 
 ## More customer stories
 
-![Harvey Cover Image](https://images.ctfassets.net/kftzwdyauwt9/4tOsY4kprIobRIBvif5sOt/0a208a8f901f000a8be4cef8426c37fc/harvey.png?w=3840&q=90&fm=webp)
+![White Harvey logo on a grey background.](https://images.ctfassets.net/kftzwdyauwt9/4tOsY4kprIobRIBvif5sOt/0a208a8f901f000a8be4cef8426c37fc/harvey.png?w=3840&q=90&fm=webp)
 
 [Customizing models for legal professionalsApr 2, 2024](</index/harvey/>)
 
-![Oscar Cover Image](https://images.ctfassets.net/kftzwdyauwt9/3pyY5QDNdExFmc3OcrqqBK/643bb793e8173e886c56e952e34c69c2/oscar.png?w=3840&q=90&fm=webp)
+![White Oscar logo on a blue background.](https://images.ctfassets.net/kftzwdyauwt9/3pyY5QDNdExFmc3OcrqqBK/643bb793e8173e886c56e952e34c69c2/oscar.png?w=3840&q=90&fm=webp)
 
 [Reducing health insurance costs and improving careApr 1, 2024](</index/oscar/>)
 
-![Zelma Story Cover Image](https://images.ctfassets.net/kftzwdyauwt9/1HWdCulqTyG5IYm00xNHjk/d658507f2b38bb22ac8643adf50be369/zelma.png?w=3840&q=90&fm=webp)
+![White Zelma logo on a green background.](https://images.ctfassets.net/kftzwdyauwt9/1HWdCulqTyG5IYm00xNHjk/d658507f2b38bb22ac8643adf50be369/zelma.png?w=3840&q=90&fm=webp)
 
 [Making education data accessibleMar 28, 2024](</index/zelma/>)
 
@@ -113,9 +123,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -134,7 +145,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -152,6 +164,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -180,6 +193,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

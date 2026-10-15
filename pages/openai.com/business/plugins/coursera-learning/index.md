@@ -45,7 +45,7 @@ Developer
 Website
     [(opens in a new window)](<https://www.coursera.org>)
 
-[![](https://files.openai.com/content?id=file_000000006e84720cbc5c9c30ee9f14ba&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=1&sig=45e3dd5f60241f26aeb0f9efb3b735e50d1c36614163b56858e003b80c930e0a&v=0)![](https://files.openai.com/content?id=file_00000000907481f7b539a5faf99eae59&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=4d11694a6fed8612a997b615a4c802c7ef855e0e0f031a167d259e4b64583b88&v=0)Coursera Learning show me a video about machine learning(opens in a new window)](<https://chatgpt.com/?prompt=%40Coursera+Learning+show+me+a+video+about+machine+learning>)
+[![](https://files.openai.com/content?id=file_000000006e84720cbc5c9c30ee9f14ba&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=1&sig=45e3dd5f60241f26aeb0f9efb3b735e50d1c36614163b56858e003b80c930e0a&v=0)![](https://files.openai.com/content?id=file_00000000907481f7b539a5faf99eae59&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=4d11694a6fed8612a997b615a4c802c7ef855e0e0f031a167d259e4b64583b88&v=0)Coursera Learning show me a video about machine learning(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_68e01e8c1c2081918b4567a0b959d3ff?install&prompt=show%20me%20a%20video%20about%20machine%20learning>)
 
 ## How it works
 
@@ -57,19 +57,19 @@ Coursera Learning helps learners discover courses, videos, guided projects, and 
 
 ![](https://files.openai.com/content?id=file_000000006e84720cbc5c9c30ee9f14ba&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=1&sig=45e3dd5f60241f26aeb0f9efb3b735e50d1c36614163b56858e003b80c930e0a&v=0)![](https://files.openai.com/content?id=file_00000000907481f7b539a5faf99eae59&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=4d11694a6fed8612a997b615a4c802c7ef855e0e0f031a167d259e4b64583b88&v=0)Coursera Learning Find Coursera courses and guided projects for this role's skill gaps. Compare prerequisites and learning outcomes, then recommend a realistic six-week pathway.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Coursera+Learning+Find+Coursera+courses+and+guided+projects+for+this+role%27s+skill+gaps.+Compare+prerequisites+and+learning+outcomes%2C+then+recommend+a+realistic+six-week+pathway.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_68e01e8c1c2081918b4567a0b959d3ff?install&prompt=Find%20Coursera%20courses%20and%20guided%20projects%20for%20this%20role's%20skill%20gaps.%20Compare%20prerequisites%20and%20learning%20outcomes%2C%20then%20recommend%20a%20realistic%20six-week%20pathway.&surface=work>)
 
   * ### Practice a professional skill
 
 ![](https://files.openai.com/content?id=file_000000006e84720cbc5c9c30ee9f14ba&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=1&sig=45e3dd5f60241f26aeb0f9efb3b735e50d1c36614163b56858e003b80c930e0a&v=0)![](https://files.openai.com/content?id=file_00000000907481f7b539a5faf99eae59&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=4d11694a6fed8612a997b615a4c802c7ef855e0e0f031a167d259e4b64583b88&v=0)Coursera Learning Help me practice interpreting a business dashboard using a suitable Coursera learning session. Start with my level and use a concrete example to check understanding.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Coursera+Learning+Help+me+practice+interpreting+a+business+dashboard+using+a+suitable+Coursera+learning+session.+Start+with+my+level+and+use+a+concrete+example+to+check+understanding.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_68e01e8c1c2081918b4567a0b959d3ff?install&prompt=Help%20me%20practice%20interpreting%20a%20business%20dashboard%20using%20a%20suitable%20Coursera%20learning%20session.%20Start%20with%20my%20level%20and%20use%20a%20concrete%20example%20to%20check%20understanding.&surface=work>)
 
   * ### Find a concept lesson
 
 ![](https://files.openai.com/content?id=file_000000006e84720cbc5c9c30ee9f14ba&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=1&sig=45e3dd5f60241f26aeb0f9efb3b735e50d1c36614163b56858e003b80c930e0a&v=0)![](https://files.openai.com/content?id=file_00000000907481f7b539a5faf99eae59&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=4d11694a6fed8612a997b615a4c802c7ef855e0e0f031a167d259e4b64583b88&v=0)Coursera Learning Find a Coursera video or lesson explaining this concept. Recommend the best match for a beginner and help me apply it to the supplied work example.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Coursera+Learning+Find+a+Coursera+video+or+lesson+explaining+this+concept.+Recommend+the+best+match+for+a+beginner+and+help+me+apply+it+to+the+supplied+work+example.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_68e01e8c1c2081918b4567a0b959d3ff?install&prompt=Find%20a%20Coursera%20video%20or%20lesson%20explaining%20this%20concept.%20Recommend%20the%20best%20match%20for%20a%20beginner%20and%20help%20me%20apply%20it%20to%20the%20supplied%20work%20example.&surface=work>)
 
 
 
@@ -84,11 +84,11 @@ Coursera Learning helps learners discover courses, videos, guided projects, and 
 
 ## Resources
 
-### [Help centerLearn more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
+### [Help centerLearn more(opens in a new window)](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
 
-### [Plugin supportLearn more](<https://about.coursera.org/contact/>)
+### [Plugin supportLearn more(opens in a new window)](<https://about.coursera.org/contact/>)
 
-### [Privacy policyLearn more](<https://www.coursera.org/about/privacy>)
+### [Privacy policyLearn more(opens in a new window)](<https://www.coursera.org/about/privacy>)
 
 ## Add the Coursera Learning plugin in a few clicks
 
@@ -98,13 +98,23 @@ Availability depends on the plugin, your plan, and workspace settings. Some conn
 
 ## Explore related plugins
 
-[![](https://files.openai.com/content?id=file_000000004c0c81f78746051c8894e9f0&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=94634a13f89821846ddbbbaa5e99aadc55c2198ec4b4dbd453217f71362d0950&v=0)![](https://files.openai.com/content?id=file_000000004c0c81f78746051c8894e9f0&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=94634a13f89821846ddbbbaa5e99aadc55c2198ec4b4dbd453217f71362d0950&v=0)DocumentsCreate and edit documents](</business/plugins/documents/>)[![](https://files.openai.com/content?id=file_00000000462881f79a84c9a7f9f84b3f&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=8&sig=6562b499dd0ee2e1e71439b63acc199cf54a161c8e6aea5805aa791485d1c10c&v=0)![](https://files.openai.com/content?id=file_00000000462881f79a84c9a7f9f84b3f&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=8&sig=6562b499dd0ee2e1e71439b63acc199cf54a161c8e6aea5805aa791485d1c10c&v=0)PresentationsCreate and edit presentations](</business/plugins/presentations/>)[![](https://files.openai.com/content?id=file_0000000059c071f699aa0c9a6126c1c4&cdn=1&cp=pi&ma=30412800&ts=0&p=pi&cid=1&sig=6e5be95a764660ee3463d1b811628737b39c8feb9242e69935259319bef3af30)![](https://files.openai.com/content?id=file_000000008b2c7230a31b920a76e70872&cdn=1&cp=pi&ma=32227200&ts=0&p=pi&cid=1&sig=2bdadb33af1218faa1cacc80584b8b39b47e59bf54ffb2c3e98db379f36a892d&v=0)OpenAI CertifiedComplete structured AI skills courses with applied practice and certificates.](</business/plugins/openai-certified/>)[![](https://files.openai.com/content?id=file_00000000878871f6a804200024741f33&cdn=1&cp=pi&ma=30412800&ts=0&p=pi&cid=1&sig=9fad47537f066c107e36434cfbaf0838753e07e461b357434bb0125dbad2c484)![](https://files.openai.com/content?id=file_00000000878871f6a804200024741f33&cdn=1&cp=pi&ma=30412800&ts=0&p=pi&cid=1&sig=9fad47537f066c107e36434cfbaf0838753e07e461b357434bb0125dbad2c484)Khan AcademyCreate K-12 math exercises](</business/plugins/khan-academy/>)[![](https://files.openai.com/content?id=file_0000000056ac81f7852e9bc46c6c708e&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=8&sig=b9329709abce5b206babf92fbca64142de4cbc0717aa7dc61e7de92e1cc5c949&v=0)![](https://files.openai.com/content?id=file_0000000056ac81f7852e9bc46c6c708e&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=8&sig=b9329709abce5b206babf92fbca64142de4cbc0717aa7dc61e7de92e1cc5c949&v=0)WolframAdd computation & knowledge](</business/plugins/wolfram/>)[![](https://files.openai.com/content?id=file_00000000b94c81f794fcf9c2fbefdf50&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=beb2787280ecaebf28c33ff6125c3de2f31ea2a47d7447cccb565029c8e86c65&v=0)![](https://files.openai.com/content?id=file_00000000b94c81f794fcf9c2fbefdf50&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=beb2787280ecaebf28c33ff6125c3de2f31ea2a47d7447cccb565029c8e86c65&v=0)SpreadsheetsCreate and edit spreadsheets](</business/plugins/spreadsheets/>)
+[![](https://files.openai.com/content?id=file_000000004c0c81f78746051c8894e9f0&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=94634a13f89821846ddbbbaa5e99aadc55c2198ec4b4dbd453217f71362d0950&v=0)![](https://files.openai.com/content?id=file_000000004c0c81f78746051c8894e9f0&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=94634a13f89821846ddbbbaa5e99aadc55c2198ec4b4dbd453217f71362d0950&v=0)DocumentsCreate and edit documents](</business/plugins/documents/>)[![](https://files.openai.com/content?id=file_00000000462881f79a84c9a7f9f84b3f&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=8&sig=6562b499dd0ee2e1e71439b63acc199cf54a161c8e6aea5805aa791485d1c10c&v=0)![](https://files.openai.com/content?id=file_00000000462881f79a84c9a7f9f84b3f&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=8&sig=6562b499dd0ee2e1e71439b63acc199cf54a161c8e6aea5805aa791485d1c10c&v=0)PresentationsCreate and edit presentations](</business/plugins/presentations/>)[![](https://files.openai.com/content?id=file_0000000059c071f699aa0c9a6126c1c4&cdn=1&cp=pi&ma=30412800&ts=0&p=pi&cid=1&sig=6e5be95a764660ee3463d1b811628737b39c8feb9242e69935259319bef3af30)![](https://files.openai.com/content?id=file_000000008b2c7230a31b920a76e70872&cdn=1&cp=pi&ma=32227200&ts=0&p=pi&cid=1&sig=2bdadb33af1218faa1cacc80584b8b39b47e59bf54ffb2c3e98db379f36a892d&v=0)OpenAI CertifiedLearn practical AI skills inside ChatGPT and earn OpenAI Certified credentials.](</business/plugins/openai-certified/>)[![](https://files.openai.com/content?id=file_00000000878871f6a804200024741f33&cdn=1&cp=pi&ma=30412800&ts=0&p=pi&cid=1&sig=9fad47537f066c107e36434cfbaf0838753e07e461b357434bb0125dbad2c484)![](https://files.openai.com/content?id=file_00000000878871f6a804200024741f33&cdn=1&cp=pi&ma=30412800&ts=0&p=pi&cid=1&sig=9fad47537f066c107e36434cfbaf0838753e07e461b357434bb0125dbad2c484)Khan AcademyCreate K-12 math exercises](</business/plugins/khan-academy/>)[![](https://files.openai.com/content?id=file_0000000056ac81f7852e9bc46c6c708e&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=8&sig=b9329709abce5b206babf92fbca64142de4cbc0717aa7dc61e7de92e1cc5c949&v=0)![](https://files.openai.com/content?id=file_0000000056ac81f7852e9bc46c6c708e&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=8&sig=b9329709abce5b206babf92fbca64142de4cbc0717aa7dc61e7de92e1cc5c949&v=0)WolframAdd computation & knowledge](</business/plugins/wolfram/>)[![](https://files.openai.com/content?id=file_00000000b94c81f794fcf9c2fbefdf50&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=beb2787280ecaebf28c33ff6125c3de2f31ea2a47d7447cccb565029c8e86c65&v=0)![](https://files.openai.com/content?id=file_00000000b94c81f794fcf9c2fbefdf50&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=beb2787280ecaebf28c33ff6125c3de2f31ea2a47d7447cccb565029c8e86c65&v=0)SpreadsheetsCreate and edit spreadsheets](</business/plugins/spreadsheets/>)
 
 ## Get started with plugins
 
 Bring your organization’s data and tools into OpenAI products and accelerate what your teams can do.
 
 [Try ChatGPT Business(opens in a new window)](<https://chatgpt.com/team-sign-up>)[Contact sales](</contact-sales/>)
+
+## Get OpenAI for Business updates
+
+Product updates, practical guides, upcoming events, and more.
+
+Email address *
+
+By subscribing, you agree to receive emails from OpenAI. You can unsubscribe at any time. Read our [Privacy Policy⁠](<https://openai.com/policies/privacy-policy/>).
+
+Subscribe
 
 Research
 
@@ -116,10 +126,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -138,7 +148,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -185,6 +196,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

@@ -49,9 +49,13 @@ Agencies can deploy ChatGPT Gov in their own Microsoft Azure commercial cloud or
 ChatGPT Gov includes access to many of the same features and capabilities of ChatGPT Enterprise, such as:
 
   * Saving and sharing conversations within their government workspace, and uploading text and image files.
+
   * GPT‑4o, our flagship model, excelling in text interpretation, summarization, coding, image interpretation, and mathematics.
+
   * Custom GPTs that employees can build and share within their government workspace.
+
   * An administrative console for CIOs and IT teams to manage users, groups, Custom GPTs, single sign-on (SSO), and more.
+
 
 
 
@@ -62,9 +66,13 @@ ChatGPT Gov reflects our commitment to helping U.S. government agencies leverage
 Since 2024, more than 90,000 users across more than 3,500 US federal, state, and local government agencies have sent over 18 million messages on ChatGPT to support their day-to-day work, including: 
 
   * [ _Air Force Research Laboratory_ ⁠(opens in a new window)](<https://fedscoop.com/openai-expands-chatgpt-work-federal-government/>) is utilizing ChatGPT Enterprise for administrative use cases, including improving access to internal resources, basic coding, and supporting AI education efforts. 
+
   * [ _Los Alamos National Laboratory_](</index/openai-and-los-alamos-national-laboratory-work-together/>) is leveraging ChatGPT Enterprise for scientific research and innovation. Los Alamos National Laboratory’s Bioscience Division is also conducting an evaluation study to assess how frontier models like GPT‑4o⁠ can be used safely by scientists in laboratory settings to advance bioscientific research. 
+
   * [ _State of Minnesota 's Enterprise Translations Office_](</index/state-of-minnesota/>) is using ChatGPT Team to deliver faster, more accurate translation services to the state’s multilingual communities, significantly reducing costs and turnaround times. 
+
   * [ _Commonwealth of Pennsylvania_ ⁠(opens in a new window)](<https://www.pa.gov/agencies/oa/newsroom/agreement-innovateus-to-train-responsible-generative-artificial-.html>) employees participating in a first-in-the-nation AI pilot program found ChatGPT Enterprise helped reduce the time spent on routine tasks—– such as analyzing project requirements and other elements of their work—– by approximately 105 minutes per day on the days they used it. 
+
 
 
 
@@ -84,9 +92,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -105,7 +114,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -123,6 +133,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -151,6 +162,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 
